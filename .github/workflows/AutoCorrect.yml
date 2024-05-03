@@ -5,21 +5,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint:
+  build:
+    name: AutoCorrect
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: huacnlee/autocorrect-action@557ad36c0b13e22c511426174c7dbd027976dfba
-        with:
-          args: "--lint --fix --no-diff-bg-color **/*.md"
+        - name: Checkout from repository
+          uses: actions/checkout@v4
+        
+        - name: Setup Node.js
+          uses: actions/setup-node@v4
+          with:
+            node-version: '20'
+          
+        - name: Install nodejs dependencies
+          run: yarn add autocorrect-node
+        
+        - name: Run autocorrect
+          run: yarn autocorrect --fix --no-diff-bg-color **/*.md
        
-      - name: Markdown add spaces 
-        if: failure()
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "Markdown add spaces"
-          labels: "Markdown"
-          branch: test
-          title: Markdown add spaces
-          body: |
-            格式化——Markdown 自动加空格
+        - name: Markdown add spaces 
+          uses: peter-evans/create-pull-request@v6
+          with:
+             commit-message: "Markdown add spaces"
+             labels: "Markdown"
+             branch: test
+             title: Markdown add spaces
+             body: 格式化——Markdown 自动加空格
