@@ -10,13 +10,11 @@ jobs:
     steps:
     - name: Check source code
     - uses: actions/checkout@v4
-    
     - name: AutoCorrect
     - uses: huacnlee/autocorrect-action@main
       with:
         use_npm: true
         args: --config '.github/.autocorrectrc'
-        
     - name: Report ReviewDog
       if: failure()
       uses: huacnlee/autocorrect-action@main
