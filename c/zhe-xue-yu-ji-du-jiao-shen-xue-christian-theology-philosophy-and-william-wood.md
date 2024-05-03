@@ -96,7 +96,7 @@ Calvin 分享了路德对哲学和神学之间的基本理解。像路德一样�
 
 这种区别有什么不同，现在分析哲学家不再相信某种论述要成为哲学范例，作者必须把所有论点建立在公共哲学理由之上？不管你怎么称呼它。(Wolterstorff 2009: 168; 另请参阅 Stump 2013: 48–49; Timpe 2015: 13)
 
-然而，这一突出的整合主义观点受到其他宗教哲学家的强烈批评，他们隐含地支持某种对比观点，即哲学不能合法地诉诸于诸如启示和教会权威之类的神学证据（Simmons 2019；Schellenberg 2018；Oppy 2018；Draper 2019：2–4）。与此同时，根据许多基督教神学家的看法，分析哲学本身几乎是唯一不适合研究适当神学问题的学科（Milbank 2009；Hart 2013：123–134）。在这些批评者看来，分析哲学神学根本没有恢复神学和哲学的父子时期的整合；相反，它仍然是一种明显反神学的现代哲学形式。
+然而，这一突出的整合主义观点受到其他宗教哲学家的强烈批评，他们隐含地支持某种对比观点，即哲学不能合法地诉诸于诸如启示和教会权威之类的神学证据（Simmons 2019；Schellenberg 2018；Oppy 2018；Draper 2019:2–4）。与此同时，根据许多基督教神学家的看法，分析哲学本身几乎是唯一不适合研究适当神学问题的学科（Milbank 2009；Hart 2013:123–134）。在这些批评者看来，分析哲学神学根本没有恢复神学和哲学的父子时期的整合；相反，它仍然是一种明显反神学的现代哲学形式。
 
 当代哲学家和神学家继续就哲学和神学之间的适当关系进行辩论。然而，在进一步考虑这些辩论之前（在[第 3 节](https://plato.stanford.edu/entries/christiantheology-philosophy/#PhilReliPhilTheoChriTheoTherDiffDoesItMatt)），简要调查分析哲学神学的最新研究是有用的。整合主义观点在当代宗教分析哲学家中如此突出，这有助于塑造一个哲学氛围，使自我认同为哲学家的人，在哲学系工作时，完全自然地在学术工作中探讨明确基督教神学问题，从规范基督教正统的框架内。
 
@@ -130,7 +130,7 @@ Scott Williams 在 2013 年、2017 年捍卫了三位一体的混合“拉丁社
 
 换句话说，基督论的基本哲学问题是当一个主体具有不相容的属性时所产生的问题。基督似乎既是必然全知的，作为三位一体的神圣子，也是有限的，作为拿撒勒的耶稣这个人类—对于其他神圣和人类属性也是如此。然而，基督是一个人，而不是两个：他_就是_神圣的子，他_就是_拿撒勒的耶稣。根据逻辑一致性的标准解释，任何事物在同一时间和同一方面不能具有逻辑上不相容的属性—因此产生了问题。
 
-一种古老的尝试解决不相容属性问题的方法是利用语法修饰语将基督学的断言索引到它们各自的本质：基督在知识上_qua_他的人性是有限的，在知识上_qua_他的神性是全知的，这里的“qua”意味着“关于”或“凭借”。更简单地说：基督_qua_人性在知识上是有限的；基督_qua_神性是全知的。托马斯·阿奎那的思想为这一解决方案提供了基础来源（*Summa Theologiae* 3.16.1–12；有关教父和中世纪用法的更广泛讨论，请参见 Cross 2002：192–205）。托马斯·塞诺尔坚决主张这种语法解决方案行不通，因为它无法阻止相关的蕴涵：由于基督确实是人性和确实是神性，因此一个基督也是在知识上有限的（_qua_人性）和全知的（_qua_神性），因此矛盾仍然存在（Senor 2002；另请参见 Morris 1986）。
+一种古老的尝试解决不相容属性问题的方法是利用语法修饰语将基督学的断言索引到它们各自的本质：基督在知识上_qua_他的人性是有限的，在知识上_qua_他的神性是全知的，这里的“qua”意味着“关于”或“凭借”。更简单地说：基督_qua_人性在知识上是有限的；基督_qua_神性是全知的。托马斯·阿奎那的思想为这一解决方案提供了基础来源（*Summa Theologiae* 3.16.1–12；有关教父和中世纪用法的更广泛讨论，请参见 Cross 2002:192–205）。托马斯·塞诺尔坚决主张这种语法解决方案行不通，因为它无法阻止相关的蕴涵：由于基督确实是人性和确实是神性，因此一个基督也是在知识上有限的（_qua_人性）和全知的（_qua_神性），因此矛盾仍然存在（Senor 2002；另请参见 Morris 1986）。
 
 Kenotic Christologies 认为，在道成肉身的时刻，为了成为一个人类，上帝之子放弃了神圣属性（Forrest 2000; Evans 2002, 2006）。在某种程度上，基督神学选项巧妙地解决了不相容属性的问题，因为基督并非同时具有全能和全知（等等），而是在力量和知识上有限。基督神学具有令人尊敬的传统，以及一些明显的圣经根据（腓立比书 2 章；有关讨论请参见 Evans 2006；McGuckin 1994 \[2004: 189]）。但是，如果全能和全知是_基本_的神圣属性，那么在道成肉身期间上帝之子放弃它们，并在道成肉身后重新获得它们，同时保持自我一致是不可能的。
 
@@ -140,7 +140,7 @@ Kenotic Christologies 认为，在道成肉身的时刻，为了成为一个人�
 
 Timothy Pawl (2014, 2016) 寻求通过修订基督论断的真实条件，如“基督是全知的”和“基督在知识上是有限的”，来消除基本问题。据 Pawl 称，“全知”和“在知识上是有限的”根本上并不是逻辑矛盾的属性。实际上，根据 Pawl 的观点，一旦我们正确理解它们的真实条件，我们就会发现它们最终都可以适用于同一主体。在 Pawl 的观点中，“基督是全知的”是真实的，只要基督具有全知的本质，“基督在知识上是有限的”是真实的，只要基督具有知识上有限的本质。因为基督，而且只有基督（据我们所知），具有两种本质，所以只有基督可以既是全知的又是在知识上有限的。乍一看，Pawl 提出的解决方案似乎再次是“qua 移动”，只是换了不同的外衣。但这是有重要区别的：Pawl 愿意确认“基督是全知的和在知识上是有限的”等蕴涵，而 qua 移动试图阻止这种蕴涵；他只是否认这种蕴涵在逻辑上是矛盾的。
 
-Jc Beall 更进一步地认为，一些谓词确实对基督既真又假，因为基督实际上是一个矛盾的存在（2019 年，2021 年）。 Beall 捍卫矛盾的基督论，因为他接受一种非标准的逻辑模型，其中一些谓词对于一个主体既不真也不假，而其他谓词对于一个主体既真又假。根据 Beall，逻辑本身——也就是他偏爱的逻辑解释——对于任何特定的实质性理论是否包含真正的矛盾是中立的。要确定它是否包含，我们必须检查该理论的公设性陈述。根据 Beall 的说法，当我们检查正统基督论的公设时，我们发现其中包括一些最自然被解读为矛盾的权威会议声明——例如，“基督是可受苦和不可受苦的”（2019 年：415）。我们不应该修改或重新解释这些陈述，以使它们不再矛盾，而是应该接受它们。
+Jc Beall 更进一步地认为，一些谓词确实对基督既真又假，因为基督实际上是一个矛盾的存在（2019 年，2021 年）。Beall 捍卫矛盾的基督论，因为他接受一种非标准的逻辑模型，其中一些谓词对于一个主体既不真也不假，而其他谓词对于一个主体既真又假。根据 Beall，逻辑本身——也就是他偏爱的逻辑解释——对于任何特定的实质性理论是否包含真正的矛盾是中立的。要确定它是否包含，我们必须检查该理论的公设性陈述。根据 Beall 的说法，当我们检查正统基督论的公设时，我们发现其中包括一些最自然被解读为矛盾的权威会议声明——例如，“基督是可受苦和不可受苦的”（2019 年：415）。我们不应该修改或重新解释这些陈述，以使它们不再矛盾，而是应该接受它们。
 
 ### 2.3 赎罪与救赎
 
@@ -154,7 +154,7 @@ Jc Beall 更进一步地认为，一些谓词确实对基督既真又假，因�
 
 更近年来，女性主义神学家和哲学家批评满足和代赎观点，因为它们赞美了苦难（Brown and Parker 1989）。
 
-Eleonore Stump (2018) argues that typical satisfaction and penal substitution accounts cannot address the sinner’s persistent dispositions toward wrongdoing and concomitant feelings of shame. She dubs her positive proposal the “Marian” interpretation of atonement, and argues that it can explain how sinners are freed from shame and restored to fellowship with God. The proposal defies easy summary but it advances an account of atonement as union with God that is further explained using second-personal, psychological notions like “mind-reading” and empathy (2018: 138–139). 基督教神学 on the cross mind-reads—that is, psychically experiences—the mental states of every human sinner. Sinful human beings are thereby united to Christ, and so to God. When the indwelling Holy Spirit leads sinners to respond to Christ with love, they also will what God wills. The resulting state of union with God also heals the stain on the soul that is the sinner’s shame.
+Eleonore Stump (2018) argues that typical satisfaction and penal substitution accounts cannot address the sinner’s persistent dispositions toward wrongdoing and concomitant feelings of shame. She dubs her positive proposal the“Marian”interpretation of atonement, and argues that it can explain how sinners are freed from shame and restored to fellowship with God. The proposal defies easy summary but it advances an account of atonement as union with God that is further explained using second-personal, psychological notions like“mind-reading”and empathy (2018: 138–139). 基督教神学 on the cross mind-reads—that is, psychically experiences—the mental states of every human sinner. Sinful human beings are thereby united to Christ, and so to God. When the indwelling Holy Spirit leads sinners to respond to Christ with love, they also will what God wills. The resulting state of union with God also heals the stain on the soul that is the sinner’s shame.
 
 几种其他模型，在教父时代和中世纪传统中也很显著，但迄今为止却受到分析哲学家对宗教的关注较少。这些包括“赎回”理论，根据这些理论，人类摆脱了撒旦的控制，尤其是“神化”或“神格化”救赎和拯救的观点，根据这些观点，基督的拯救工作在于完善人类，使他们变得像神一样神圣。 （Jacobs 2009 和 Mosser 2021 是重要的例外）。同样，很少有当代哲学家捍卫现代的“道德楷模”模型，根据这一模型，基督通过成为其他人类模仿的完美道德楷模来拯救人类。 （Quinn 1993 提供了一个高度合格的辩护，但认为基督不仅仅是一个道德楷模）。
 
@@ -188,7 +188,7 @@ Peter van Inwagen 提出了一种关于堕落的描述，保留了许多其最�
 
 有几乎所有基督教教义和实践提出的哲学问题，因此仍有许多相对未被探讨的富有成果的研究领域。这次简要调查侧重于最广泛讨论的分析哲学神学领域。但一些最有创意的工作已经扩展到其他领域，包括圣餐（Arcadi 2018; Pickup 2015）；礼拜仪式和崇拜（Cuneo 2016）；身体复活和个人身份（van Inwagen 1978; Merricks 1999; Zimmerman 1999; Rudder Baker 2001）；天堂（Walls 2002; Ribeiro 2011），地狱（Walls 1992; Adams 1993; Kvanvig 1993; Sider 2002; Buckareff & Plug 2005）和炼狱（Walls 2011; Dumsday 2014）。
 
-### 2.6 “分析神学” 的兴起
+### 2.6“分析神学”的兴起
 
 2009 年，奥利弗·克里斯普（Oliver Crisp）和迈克尔·里亚（Michael Rea）出版了他们编辑的作品《分析神学：神学哲学新论文集》。该作品的贡献者共同努力证明，分析哲学为基督教神学家提供了一种有价值且被忽视的资源。在此之后发展了一个新的研究计划，随后的几年见证了一个自我认同的“分析神学家”学派的兴起，他们使用分析哲学的工具和方法来探讨基督教神学话题。
 
@@ -198,7 +198,7 @@ Peter van Inwagen 提出了一种关于堕落的描述，保留了许多其最�
 
 这似乎很奇怪，分析宗教哲学（APR）包括明确基督教哲学神学，就像[第 2 节](https://plato.stanford.edu/entries/christiantheology-philosophy/#ReceWorkAnalPhilTheo)中讨论的那种。然而，大多数在分析传统中从事宗教哲学研究的哲学家是基督教神论者（Bourget＆Chalmers 2014；De Cruz 2017）。他们公开表示希望使用分析哲学工具探索自己的信仰，并认为称其工作为基督教哲学、哲学_神学_，或者最近的“分析神学”没有问题。当然，宗教哲学本身比 APR 更广泛，而 APR 比基督教 APR 更广泛。有一些宗教哲学家的工作是分析的，但不是基督教的（例如，Lebens 2020；Mizrahi 2020；Steinhart 2020；Oppy 2018；Schellenberg 2018；Draper 2019），基督徒但不是分析的（例如，Westphal 2001；Pattison 2011），既不是分析的也不是基督教的（例如，Hammerschlag 2016；Burley 2016）。尽管如此，在 APR 内基督教哲学神学的盛行——或“普兰廷加风格的基督教哲学”（Schellenberg 2018）——最近重新引发了一些关于哲学与基督教神学之间适当关系的有争议的辩论。
 
-这些辩论可以围绕两条不同且相互对立的批评观点进行分组。根据第一条观点，许多基督教神学是过于基督教化和神学化的：实际上并不是哲学，而是一种掩饰得很薄的基督教神学形式——甚至可能是一种辩护学形式（Levine 2000；Knepper 2013：9；Draper 2019：2）。相反，根据第二条观点，由知名神学家提出，基督教神学既不完全是基督教的，也不完全是神学的。根据这一批评观点，基督教神学并没有真正与基督教信仰中超然的上帝相抗衡，而倾向于构建和审视自己虚假的“哲学家之神”（Milbank 2009；Hart 2013；Oliver 2010；另见 Harris＆Insole 2005，17）。尽管相互对立，但这两条批评观点都提出了一个重要的方法论问题：我们应该如何——如果有必要的话——区分关于基督教主题的哲学和基督教神学？[第 1 节](https://plato.stanford.edu/entries/christiantheology-philosophy/#RelaBetwPhilTheoChriTrad)（上文）审查了基督教思想史上对这个问题的重要回应。本节将在当代挑战分析宗教哲学的背景下探讨这个问题。
+这些辩论可以围绕两条不同且相互对立的批评观点进行分组。根据第一条观点，许多基督教神学是过于基督教化和神学化的：实际上并不是哲学，而是一种掩饰得很薄的基督教神学形式——甚至可能是一种辩护学形式（Levine 2000；Knepper 2013:9；Draper 2019:2）。相反，根据第二条观点，由知名神学家提出，基督教神学既不完全是基督教的，也不完全是神学的。根据这一批评观点，基督教神学并没有真正与基督教信仰中超然的上帝相抗衡，而倾向于构建和审视自己虚假的“哲学家之神”（Milbank 2009；Hart 2013；Oliver 2010；另见 Harris＆Insole 2005，17）。尽管相互对立，但这两条批评观点都提出了一个重要的方法论问题：我们应该如何——如果有必要的话——区分关于基督教主题的哲学和基督教神学？[第 1 节](https://plato.stanford.edu/entries/christiantheology-philosophy/#RelaBetwPhilTheoChriTrad)（上文）审查了基督教思想史上对这个问题的重要回应。本节将在当代挑战分析宗教哲学的背景下探讨这个问题。
 
 ### 3.1 宗教分析哲学：太神学化了吗？
 
@@ -218,7 +218,7 @@ Less philosophical versions of the narrowness worry assert the general principle
 
 J.L. Schellenberg，例如，认为哲学必须寻求原则上“可共享”的哲学问题解决方案，任何哲学界成员都可以分享。因为许多基督教神学假定基督教的真理，其解决方案无法满足这一条件，应适当视为神学而非哲学（Schellenberg 2018）。J. Aaron Simmons 同意：即使神学“可以而且应该”诉诸于“由启示权威定义的明确社区”的证据，哲学应该诉诸于“原则上可被所有哲学界成员访问的证据”（2019: 147）。据 Simmons 称，主流的基督教神学哲学已忽视了这一标准，并威胁要“简单地成为基督教神学实践的一个子集”（2019: 149；另见 Oppy 2018；Draper 2019: 2）。
 
-#### 3.1.3 应对 APR “过于神学化” 的担忧
+#### 3.1.3 应对 APR“过于神学化”的担忧
 
 分析哲学家对宗教的多种回应方式可以回应 APR 过于神学化的指责。首先，关于狭隘性的指责，他们可以指责批评者误将部分当作整体，否认这一指责适用于 APR 本身，并指出那些既不假定也不捍卫基督教真理的分析宗教哲学家。然而，这种回应被非基督教的 APR 从业者经常自己设定的狭隘性所削弱。其次，捍卫者还强调，许多基督教 APR 实际上根本不假定基督教的真理，而是为这种真理进行_论证_（Hasker 2018a: 90；引用 Swinburne 是一个典型例子）。这种哲学甚至可以通过 Schellenberg 提出的“原则上可共享”标准。同样，即使那些摒弃 Swinburne 风格自然神学的哲学项目，只要他们仅从事防御性的策略，例如回答对基督教主张的可信度的哲学异议（例如，van Inwagen 1995；Pawl 2014），也仍然可以通过“原则上可共享”标准。
 
