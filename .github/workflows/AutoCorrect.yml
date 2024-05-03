@@ -19,7 +19,7 @@ jobs:
         with:
           commit-message: "Markdown add spaces"
           labels: "Markdown"
-          branch: main
+          branch: test
           title: Markdown add spaces
           body: |
             格式化——Markdown 自动加空格
