@@ -1,7 +1,8 @@
 name: 🔗 AutoCorrect 空格语法检查
 
 on: 
-  [workflow_dispatch]:
+  repository_dispatch:
+  workflow_dispatch:
 
 jobs:
   lint:
