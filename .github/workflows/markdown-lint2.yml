@@ -14,13 +14,13 @@ jobs:
           fix: true
           globs: '**/*.md'
 
-      - name: Markdown add spaces 
+      - name: markdownlint cli2 RP
         if: failure()
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "Markdown 格式化"
           labels: "Markdown"
           branch: test
-          title: Markdown add spaces
+          title: markdownlint
           body: |
             格式化——Markdown
