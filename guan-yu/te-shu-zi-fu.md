@@ -78,7 +78,7 @@ Firefox、Chrome 和 Opera 在默认字体下都提供了对 SEP 条目中使用
   > [Safari](http://www.apple.com/safari/)  
   > [Opera](http://www.opera.com/computer)
   
-  通常情况下，这些浏览器在 Windows XP 和 Windows 2000 下工作时不需要进行任何特殊配置，但要使这些浏览器在 ME/98 下正常工作，您可能需要 (a) 按照上述步骤 2（除了从您的安装 CD 安装亚洲语言支持） 和 (b) 在这些浏览器的首选项中设置使用启用 Unicode 的字体（Lucida Sans Unicode、Arial、Times、Times New Roman）。
+  通常情况下，这些浏览器在 Windows XP 和 Windows 2000 下工作时不需要进行任何特殊配置，但要使这些浏览器在 ME/98 下正常工作，您可能需要 (a) 按照上述步骤 2（除了从您的安装 CD 安装亚洲语言支持）和 (b) 在这些浏览器的首选项中设置使用启用 Unicode 的字体（Lucida Sans Unicode、Arial、Times、Times New Roman）。
 
 我们还应该注意对于 Windows XP 用户的以下内容。如果您设置以下内容，我们的页面和所有其他网页都会看起来更好：控制面板 → 显示 → 外观 → 效果 → 使用以下方法平滑显示屏幕字体 → ClearType。
 

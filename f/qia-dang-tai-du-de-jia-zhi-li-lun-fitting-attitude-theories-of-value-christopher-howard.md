@@ -50,7 +50,7 @@ FA 理论通过关于对具有这些属性的事物提出某种要求的规范�
 
 本节探讨了 FA 理论的三个主要吸引力：它们能够解释某些规范和评价属性之间的各种有趣联系（第 2.1 节）；它们承诺以各种方式“揭秘”各种评价属性（第 2.2 节）；以及它们通过确定它们共同的特点，同时尊重和澄清它们之间的任何重要差异，来统一它们所要解释的评价属性（第 2.3 节）。
 
-### 2.1 规范-评价联系
+### 2.1 规范 - 评价联系
 
 恰当态度的价值理论的一个核心吸引力在于它们承诺解释某些规范和评价属性之间的有趣联系（McHugh and Way 2016）。例如，似乎很难否认有价值和适合被价值这两者之间是必然相互变化的，这意味着某物只有在适合被价值时才具有价值，或者值得被重视（尽管请参阅第 3.2 节进行讨论）。正如本文入门部分所讨论的，类似的等价关系似乎也存在于各种具体的评价属性之间，比如令人钦佩或令人愉悦，以及相应特定类型的人类反应的适合性，例如钦佩或者被愉悦。恰当态度的价值理论对这些等价关系提供了直接的解释，即，左侧涉及评价属性的事实总是基于右侧提到的反应规范属性的事实，因此，前者的事实只有在后者的事实存在时才会获得。
 
@@ -60,7 +60,7 @@ FA 理论通过关于对具有这些属性的事物提出某种要求的规范�
 
 在这方面，FA 理论比所谓的“无优先权观点”具有优势，后者认为评价事实和其他类型的规范事实不能通过相互借用来得到充分、非循环的解释，因此两种事实都不是更基本的（Ross 1939; Wiggins 1987; McDowell 1998; Tappolet 2011）。实际上，除非他们能够提供自然主义解释上述联系中涉及的规范和评价事实，否则无优先权理论家似乎需要将这些联系视为无法解释的。在这方面，FA 理论比无优先权观点具有更强的解释力量（Rowland 2019）。
 
-然而，解释上述联系的潜力并不仅限于 FA 理论。例如，考虑一种价值原始主义的版本，如第 1.2 节所述，它将 FA 理论所假定的解释顺序颠倒过来，用关于人类反应的规范事实来解释关于这些反应对象的评价事实。这种“以对象为中心”的原始主义的支持者可能会认为，只要某物适宜被价值化，那完全是因为该物有价值，这就解释了为什么某物只有在适宜被价值化时才具有价值。他们可能会类似地解释其他类型反应的适宜性与其他评价属性之间的平行等价关系。同样，一种以对象为中心的观点，声称对于价值化某物的理由事实上总是基于该物的价值，可以解释为什么总是有理由去价值化有价值的事物（Orsi 2013b）。因此，以对象为中心的观点似乎能够解释上述规范-评价联系。此外，正如第 1.1 节中提到的，一些人认为这种原始主义所假定的解释顺序比 FA 理论更具直观的可信度（有关讨论，请参见 Hooker 和 Stratton-Lake 2006; Jacobson 2011）。然而，FA 理论在解释所涉及的联系方面似乎具有重要优势。
+然而，解释上述联系的潜力并不仅限于 FA 理论。例如，考虑一种价值原始主义的版本，如第 1.2 节所述，它将 FA 理论所假定的解释顺序颠倒过来，用关于人类反应的规范事实来解释关于这些反应对象的评价事实。这种“以对象为中心”的原始主义的支持者可能会认为，只要某物适宜被价值化，那完全是因为该物有价值，这就解释了为什么某物只有在适宜被价值化时才具有价值。他们可能会类似地解释其他类型反应的适宜性与其他评价属性之间的平行等价关系。同样，一种以对象为中心的观点，声称对于价值化某物的理由事实上总是基于该物的价值，可以解释为什么总是有理由去价值化有价值的事物（Orsi 2013b）。因此，以对象为中心的观点似乎能够解释上述规范 - 评价联系。此外，正如第 1.1 节中提到的，一些人认为这种原始主义所假定的解释顺序比 FA 理论更具直观的可信度（有关讨论，请参见 Hooker 和 Stratton-Lake 2006; Jacobson 2011）。然而，FA 理论在解释所涉及的联系方面似乎具有重要优势。
 
 For one, FA theory is far more parsimonious. Suppose we explain normative facts about human responses (whether they’re facts about the fittingness of those responses or facts about reasons for them) in terms of evaluative facts about the objects of those responses, as object-focused views suggest. So, for example, we explain facts about fitting admiration in terms of facts about the admirability of admiration’s object, facts about fitting love in terms of facts about the lovability of love’s object, facts about fitting shame in terms of facts about the shamefulness of shame’s object, and so on. Assuming these evaluative facts couldn’t then be explained in terms of normative or evaluative facts of some other kind, it seems we’d thus be left with a (massive) plurality of different kinds of evaluative fact, each of which would be fundamental at least relative to the rest of the normative and evaluative domain.
 
