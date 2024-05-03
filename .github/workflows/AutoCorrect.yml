@@ -10,8 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: huacnlee/autocorrect-action@main
-        with:
-          use_npm: true
+
       - name: Report ReviewDog
         if: failure()
         uses: huacnlee/autocorrect-action@main
