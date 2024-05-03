@@ -12,7 +12,6 @@ jobs:
       - uses: huacnlee/autocorrect-action@main
         with:
           use_npm: true
-          args: --config '.github/.autocorrectrc'
       - name: Report ReviewDog
         if: failure()
         uses: huacnlee/autocorrect-action@main
