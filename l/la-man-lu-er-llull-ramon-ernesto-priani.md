@@ -1,6 +1,6 @@
 # 拉曼·鲁尔 Llull, Ramon (Ernesto Priani)
 
-*首次发表于2017年2月10日星期五；实质性修订于2021年2月11日星期四。*
+*首次发表于 2017 年 2 月 10 日星期五；实质性修订于 2021 年 2 月 11 日星期四。*
 
 拉曼·鲁尔（1232-1316）是中世纪哲学领域中一位令人惊叹的人物。他目前被认为是《大艺术》的作者，这是一个结合逻辑系统以发现真理的工具，被构想为用于跨宗教对话以转化异教徒的工具。在《大艺术》中，拉曼·鲁尔的神学、形而上学和逻辑观念得到了充分的阐述，并且这些观念在他的 200 多部加泰罗尼亚语、阿拉伯语和拉丁语著作中得到了发展。他以使用自己的方言语言加泰罗尼亚语来传达自己的思想而闻名。
 
@@ -144,7 +144,7 @@
 
 在《Liber de homine》中，鲁尔承认人必须知道人是什么，而且只有当他能够认识自己时，他才能认识其他人，当然也能认识上帝。然而，人类能够达到的知识与其他生物不同。例如，动物只能通过感官和想象力来认识，而天使只能通过自身来进行智力认识。由于人由灵魂和身体构成，他可以通过感官来认识，但并不受其限制。他能够通过原则来上升并理解其他存在；此外，他还可以通过存在来下降并理解原则。
 
-上升和下降描述了灵魂获取世界知识的两条路径。它们是不同但互补的方式。上升始于有形物体，其感知种类（形式或相似性）被外部感官捕捉，并通过想象力转化为内部种类；然后，灵魂的更高能力在智力中将它们转化为对外部存在的知识。下降是相反的路径，从普遍到特殊。它以原则作为起点，通过人类灵魂可以在特定存在中认识这些原则-善良、真理等。
+上升和下降描述了灵魂获取世界知识的两条路径。它们是不同但互补的方式。上升始于有形物体，其感知种类（形式或相似性）被外部感官捕捉，并通过想象力转化为内部种类；然后，灵魂的更高能力在智力中将它们转化为对外部存在的知识。下降是相反的路径，从普遍到特殊。它以原则作为起点，通过人类灵魂可以在特定存在中认识这些原则 - 善良、真理等。
 
 ### 4.1 第六感
 
@@ -170,7 +170,7 @@
 
 拉曼·鲁尔的起点是确定真理在两个意义上超越了人的能力。首先，人从世界中通过感知能力获得的知识是不足以建立准确的世界真理的。因此，人必须超越这个初始水平。正是在这时，根据拉曼·鲁尔的观点，发生了鼓励人寻找他的上级能力所特有的对象的超越性转变，也就是说，理解的事物，使他能够达到科学和哲学所能提供的知识。但是这种知识也是有限和不足的。因此，他必须向前跃进，超越和超越自己。他的目的是达到神圣的对象，尊严，在其中以超群的方式承认以前只是人类概念的东西。这是适当的神学知识。
 
-即使超越点学说的主要功能基本上是辩论性的，它与拉曼·鲁尔逻辑中的两个核心要素相关。第一个是知识对象的存在的三种类型的表述，感性的、理性的和神圣的，它们对应于语言中的三个形容词的程度：肯定、比较和最高级。这样，它将与拉曼·鲁尔在 Ars 中使用的三种逻辑证明方式相关联。前两种是亚里士多德逻辑中的 propter quid 和 quia 证明：(1)当通过其原因证明效果时（例如，太阳照耀时，必然是白天）；(2)当通过其效果证明原因时（例如，现在是白天，因此太阳必然在照耀）。第三种证明被拉曼·鲁尔称为 argumentum per aequiparantiam 或等价证明，根据这种证明，当一件事等于另一件事时，就会产生证明。例如，上帝不能犯罪，因为他的能力等于他的意愿，而他的意愿不想犯罪。
+即使超越点学说的主要功能基本上是辩论性的，它与拉曼·鲁尔逻辑中的两个核心要素相关。第一个是知识对象的存在的三种类型的表述，感性的、理性的和神圣的，它们对应于语言中的三个形容词的程度：肯定、比较和最高级。这样，它将与拉曼·鲁尔在 Ars 中使用的三种逻辑证明方式相关联。前两种是亚里士多德逻辑中的 propter quid 和 quia 证明：(1) 当通过其原因证明效果时（例如，太阳照耀时，必然是白天）；(2) 当通过其效果证明原因时（例如，现在是白天，因此太阳必然在照耀）。第三种证明被拉曼·鲁尔称为 argumentum per aequiparantiam 或等价证明，根据这种证明，当一件事等于另一件事时，就会产生证明。例如，上帝不能犯罪，因为他的能力等于他的意愿，而他的意愿不想犯罪。
 
 ## 5. 随附性
 
@@ -202,7 +202,7 @@
 
 ![Almost all the pictures in this article are from manuscripts and the text is not English and not always legible A large circle divided into 16 parts at the rim, each labeled with a name](https://plato.stanford.edu/entries/llull/image001.png)
 
-图 A. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙. Ministerio de Educación, Cultura y Deporte.
+图 A. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙。Ministerio de Educación, Cultura y Deporte.
 
 Ars 的第一个图形是图形 A，由 16 个术语组成，对应于尊严：善良、智慧、荣耀、简单、伟大、意志、完美、高贵、永恒、美德、正义、慈悲、权力、真理、慷慨、统治。
 
@@ -244,7 +244,7 @@ Ars 的第二图称为图 S，其中理性灵魂被描绘为由记忆、理解�
 
 ![3 concentric circles with the rims divided into 15 even sectors 5 equilateral triangles each a different color connect the sectors Sectors and points of the triangles are labelled](https://plato.stanford.edu/entries/llull/image004.png)
 
-图 T. 真理的简明发现法 15 世纪. Palma, BP, 1031. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙. Ministerio de Educación, Cultura y Deporte.
+图 T. 真理的简明发现法 15 世纪。Palma, BP, 1031. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙。Ministerio de Educación, Cultura y Deporte.
 
 #### 5.2.2 图 V
 
@@ -254,7 +254,7 @@ Ars 的第二图称为图 S，其中理性灵魂被描绘为由记忆、理解�
 
 ![a circle divided on the rim into 14 sectors with the sectors labelled alternatively in red and black ink The red sectors are all connected by lines as are the black sectors](https://plato.stanford.edu/entries/llull/image005.png)
 
-图 V. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. 数字版本：Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙. Ministerio de Educación, Cultura y Deporte.
+图 V. Ars compendiosa inveniendi veritatem XV Century. Palma, BP, 1031. 数字版本：Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙。Ministerio de Educación, Cultura y Deporte.
 
 #### 5.2.3 图 X、Y 和 Z
 
@@ -284,7 +284,7 @@ Ars 的第二图称为图 S，其中理性灵魂被描绘为由记忆、理解�
 
 ![four tables of 4 by 4 cells The tables are labeled Figura Ignis, Figura Aëris, Figura Aquae, and Figura Terrae](https://plato.stanford.edu/entries/llull/image008.png)
 
-Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙. Ministerio de Educación, Cultura y Deporte.
+Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzinger i Franz Philipp Wolff, III (Magúncia: Häffner, 1722. 数字版本 Biblioteca Virtual del Patrimonio Bibliográfico. 西班牙。Ministerio de Educación, Cultura y Deporte.
 
 然而，在 Ars demostrativa 中引入示意图尤为重要，因为它综合了其他图形并使它们的关系变得动态。示意图由六个圆组成，并包含一个允许圆圈旋转的机制。在中心，拉曼·鲁尔将一个三角形放置在其中，就像图 T 中的三角形一样。前两个圆对应于元素图形，接下来的两个圆，带有七个字母，代表图形 A、S、T、V、X、Y、Z。最后两个圆上有字母 B-R，它们是图形 S 的术语，但也是图形 A、T、V、X 以及其他两个图形——神学原理和哲学原理的术语，当艺术的操作扩展到这两个领域时引入。
 
@@ -314,7 +314,7 @@ Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzin
 
 ![This is a figure from an illustrated manuscript A circle divided into 9 even sectors each labelled with a letter and word](https://plato.stanford.edu/entries/llull/image010.png)
 
-第一图形。 Ars brevis XVIII 世纪。巴尔马德马略卡 BP MS998。数字版本 Biblioteca Virtual del Patrimonio Bibliográfico。西班牙。教育、文化和体育部。
+第一图形。Ars brevis XVIII 世纪。巴尔马德马略卡 BP MS998。数字版本 Biblioteca Virtual del Patrimonio Bibliográfico。西班牙。教育、文化和体育部。
 
 #### 5.6.2 第二图形
 
@@ -322,7 +322,7 @@ Figura Elementalis. Ars demostrativa. Beati Raymundi Lulli Opera, ed. Ivo Salzin
 
 > 原因意味着效率、物质、形式和目的原因。数量和时间表示其他谓词和可以归纳为它们的任何东西。
 
-Bonner（2007）认为，在这一部分中，拉曼·鲁尔引入了亚里士多德的原因和范畴，这意味着他将这种逻辑的术语和概念纳入了他的系统中。中间同时具有三个种类，这些种类由主语和谓语之间的中间（例如，人是动物-生理生活），作为爱的中间（在被爱和爱人之间的关系中），以及极端之间的中间（例如，两个点之间）形成。最后一个小三角形的边缘，小、等、大（H、I、K），共享相同的三个种类：意外和意外、物质和意外、物质和物质。
+Bonner（2007）认为，在这一部分中，拉曼·鲁尔引入了亚里士多德的原因和范畴，这意味着他将这种逻辑的术语和概念纳入了他的系统中。中间同时具有三个种类，这些种类由主语和谓语之间的中间（例如，人是动物 - 生理生活），作为爱的中间（在被爱和爱人之间的关系中），以及极端之间的中间（例如，两个点之间）形成。最后一个小三角形的边缘，小、等、大（H、I、K），共享相同的三个种类：意外和意外、物质和意外、物质和物质。
 
 ![A circle divided into 9 with each sector labeled by a letter and three phrases The sectors are connected by three equilateral triangles, the points of each are also labelled](https://plato.stanford.edu/entries/llull/image011.png)
 
@@ -346,7 +346,7 @@ Bonner（2007）认为，在这一部分中，拉曼·鲁尔引入了亚里士�
 
 ![table from a manuscript not very legible](https://plato.stanford.edu/entries/llull/image014.png)
 
-第四图形的表格（片段）。 Ars brevis XVIII 世纪。巴尔马德马略卡 BP MS998。数字版本：西班牙国家图书馆虚拟遗产图书馆。教育、文化和体育部。
+第四图形的表格（片段）。Ars brevis XVIII 世纪。巴尔马德马略卡 BP MS998。数字版本：西班牙国家图书馆虚拟遗产图书馆。教育、文化和体育部。
 
 在这个表格中，引入了一个具有句法功能的字母 T，用于说明从第一个意义中取出哪些术语，以及从第二个意义中取出哪些术语。规则是，在字母 T 之前找到的字母使用字母表的第一个意义，而在字母 T 之后找到的字母使用第二个意义。
 
