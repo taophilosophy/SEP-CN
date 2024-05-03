@@ -12,10 +12,14 @@ jobs:
       - uses: huacnlee/autocorrect-action@557ad36c0b13e22c511426174c7dbd027976dfba
         with:
           args: "--lint --fix --no-diff-bg-color **/*.md"
-      - name: Report ReviewDog
+       
+      - name: Markdown add spaces 
         if: failure()
-        uses: huacnlee/autocorrect-action@557ad36c0b13e22c511426174c7dbd027976dfba
-        env:
-          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peter-evans/create-pull-request@v6
         with:
-          reviewdog: true
+          commit-message: "Markdown add spaces"
+          labels: "Markdown"
+          branch: main
+          title: Markdown add spaces
+          body: |
+            格式化——Markdown 自动加空格
