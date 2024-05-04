@@ -1,6 +1,6 @@
 # 实证方法的道德心理学 empirical approaches (John Doris, Stephen Stich, Jonathan Phillips, and Lachlan Walmsley)
 
-*首次发表于2006年4月19日；实质修订于2020年1月6日*
+*首次发表于 2006 年 4 月 19 日；实质修订于 2020 年 1 月 6 日*
 
 道德心理学研究人类在道德背景下的功能，并询问这些结果如何影响伦理理论的辩论。这项工作必然是跨学科的，既利用人类科学的实证资源，又利用哲学伦理学的概念资源。本文讨论了几个主题，以说明这种类型的探究：思想实验、责任、品格、利己主义与利他主义以及道德分歧。
 
@@ -14,7 +14,7 @@
 
 同样地，至少自行为主义的消亡以来，心理学家们对规范现象一般和伦理现象特别感兴趣。因此，一些心理学家寻求用规范现象的概念资源丰富他们的理论框架是很正常的。结果，“道德心理学”所界定的领域通常涉及经验和规范研究的混合，由哲学家和心理学家共同进行，越来越多地以两个领域的从业者合作的形式进行。
 
-对于哲学家来说，这种跨学科研究的特别兴趣在于道德心理学如何帮助裁决竞争的伦理理论。当然，与伦理理论相比，其相关的道德心理学的可信度并不是唯一的评估维度；同样重要的是与正义、公平和美好生活等重要信念相比，理论在规范问题上的表现如何。这些问题对于哲学伦理学来说一直是至关重要的，并将继续如此。尽管如此，普遍认为，一个致力于贫乏或不准确的道德心理学概念的伦理理论在竞争中处于严重劣势。正如伯纳德·威廉姆斯（1973 年，1985 年；参见弗拉纳根 1991 年）有力地论证的那样，一个推崇与实际人类生活中可以合理期望扎根并活跃的情感相悖的关系、承诺或生活项目的伦理观念，最多只能够勉强得到我们的同意。
+对于哲学家来说，这种跨学科研究的特别兴趣在于道德心理学如何帮助裁决竞争的伦理理论。当然，与伦理理论相比，其相关的道德心理学的可信度并不是唯一的评估维度；同样重要的是与正义、公平和美好生活等重要信念相比，理论在规范问题上的表现如何。这些问题对于哲学伦理学来说一直是至关重要的，并将继续如此。尽管如此，普遍认为，一个致力于贫乏或不准确的道德心理学概念的伦理理论在竞争中处于严重劣势。正如伯纳德 · 威廉姆斯（1973 年，1985 年；参见弗拉纳根 1991 年）有力地论证的那样，一个推崇与实际人类生活中可以合理期望扎根并活跃的情感相悖的关系、承诺或生活项目的伦理观念，最多只能够勉强得到我们的同意。
 
 在此背景下，涉及道德心理学的伦理理论选择问题可以通过两个相关的探究来构建：
 
@@ -35,9 +35,9 @@
 
 ## 2. 思想实验和伦理学方法
 
-"直觉泵"或"思想实验"长期以来一直是哲学家工具箱中常用的工具（Dennett 1984: 17–18; Stuart et al. 2018）。通常，思想实验通过提出一个例子，通常是一个假设性的例子，以引出一些具有哲学意义的回应。如果一个思想实验成功，可以得出结论，竞争理论必须解释所得到的回应。这些回应被认为在哲学理论选择中起到证据的作用；如果你愿意，它们可以被理解为竞争理论必须适应的数据。如果适当的受众对一个思想实验的伦理回应与理论为该案例规定的回应相冲突，那么该理论就遭受了反例。
+"直觉泵" 或 "思想实验" 长期以来一直是哲学家工具箱中常用的工具（Dennett 1984: 17–18; Stuart et al. 2018）。通常，思想实验通过提出一个例子，通常是一个假设性的例子，以引出一些具有哲学意义的回应。如果一个思想实验成功，可以得出结论，竞争理论必须解释所得到的回应。这些回应被认为在哲学理论选择中起到证据的作用；如果你愿意，它们可以被理解为竞争理论必须适应的数据。如果适当的受众对一个思想实验的伦理回应与理论为该案例规定的回应相冲突，那么该理论就遭受了反例。
 
-在哲学上，“哪些回应”具有哲学意义（或者说谁是“适当”的受众）的问题已经有多种回答，但对于许多哲学家来说，思想实验的预期受众似乎是某种“普通人”（参见Jackson 1998: 118, 129; Jackson & Pettit 1995: 22–9; Lewis 1989: 126–9）。当然，相关的普通人必须具备理解所讨论案例所需的认知能力；很小的孩子可能不是思想实验的理想受众。因此，一些哲学家可能会坚持认为，相关的回应应该是经过培训、具备“在哲学上有所争议的东西”的人的深思熟虑的判断。但是，如果这些回应是为了帮助裁决竞争的理论之间的差异，回应者必须在理论上保持相对中立，而哲学教育很可能会破坏这种中立性。这就出现了一个两难境地。一方面，哲学上天真的受试者可能被认为缺乏理解哲学利害关系所需的博学。另一方面，随着哲学素养的提高，很可能会出现哲学上的偏见；一个受众是天真的，另一个是有偏见的。[4]
+在哲学上，“哪些回应”具有哲学意义（或者说谁是“适当”的受众）的问题已经有多种回答，但对于许多哲学家来说，思想实验的预期受众似乎是某种“普通人”（参见 Jackson 1998: 118, 129; Jackson & Pettit 1995: 22–9; Lewis 1989: 126–9）。当然，相关的普通人必须具备理解所讨论案例所需的认知能力；很小的孩子可能不是思想实验的理想受众。因此，一些哲学家可能会坚持认为，相关的回应应该是经过培训、具备“在哲学上有所争议的东西”的人的深思熟虑的判断。但是，如果这些回应是为了帮助裁决竞争的理论之间的差异，回应者必须在理论上保持相对中立，而哲学教育很可能会破坏这种中立性。这就出现了一个两难境地。一方面，哲学上天真的受试者可能被认为缺乏理解哲学利害关系所需的博学。另一方面，随着哲学素养的提高，很可能会出现哲学上的偏见；一个受众是天真的，另一个是有偏见的。[4]
 
 然而，无论如何确定哲学相关的受众，都有一些实证问题必须在确定思想实验的哲学效力时加以解决。特别是在决定给予一个回应多少哲学重量时，哲学家需要确定其起源。例子的哪些特征涉及到给定的判断——人们是对案例的实质还是表达方式作出反应？受众的哪些特征涉及到他们的反应——不同的人口群体对例子有不同的反应吗？环境中是否有影响人们直觉判断的因素？人们考虑例子的顺序是否会影响他们的判断？这些问题引发了以下担忧：关于处理道德问题的思想实验的判断可能会受到例子、受众、环境或呈现顺序的伦理无关特征的强烈影响。一个特征是否具有伦理相关性是哲学讨论的问题，但确定特定思想实验的地位也需要对其因果相关特征进行实证调查。我们现在将描述一些这样的调查的例子。
 
@@ -67,9 +67,9 @@
 
 哲学观众通常不倾向于道德化冒犯性行为，我们自己也持有他们的宽容态度。但当然，这些观众——凭借教育成就，如果不是股票投资组合——绝大多数都是高社会经济地位的人。Haidt 的研究表明，一个哲学家说“我的直觉揭示了民间观念，因为我通常有理由认为自己是典型的”（Jackson，1998 年：32n4；参见 37）是错误的。问题是：典型于哪个人口统计学？哲学家的伦理反应是由例子的哲学实质决定的，还是由很有可能被认为与伦理无关的文化特异性决定的？再次强调，在通过系统的实证调查排除这种可能性之前，思想实验的哲学分量是有问题的。
 
-近年来，越来越多的研究报告称，道德思想实验引发的判断受到环境因素的影响，而这些环境因素似乎与道德问题毫不相关。比如，脏披萨盒子和一股屁味（Schnall等人，2008a），使用肥皂（Schnall等人，2008b）或消毒湿巾（Zhong等人，2010），甚至是手部消毒液分配器的附近（Helzer和Pizarro，2011），据报道都会影响道德直觉。Tobia等人（2013）发现，喷洒问卷调查表的消毒剂会影响学生和专业哲学家的道德直觉。Valdesolo和DeSteno（2006）报告称，观看一个幽默的视频片段会对参与者的道德直觉产生重大影响。而Strohminger等人（2011）则表明，听不同类型的音频片段（喜剧或《鸡汤》系列中的励志故事）对道德直觉产生不同的影响。
+近年来，越来越多的研究报告称，道德思想实验引发的判断受到环境因素的影响，而这些环境因素似乎与道德问题毫不相关。比如，脏披萨盒子和一股屁味（Schnall 等人，2008a），使用肥皂（Schnall 等人，2008b）或消毒湿巾（Zhong 等人，2010），甚至是手部消毒液分配器的附近（Helzer 和 Pizarro，2011），据报道都会影响道德直觉。Tobia 等人（2013）发现，喷洒问卷调查表的消毒剂会影响学生和专业哲学家的道德直觉。Valdesolo 和 DeSteno（2006）报告称，观看一个幽默的视频片段会对参与者的道德直觉产生重大影响。而 Strohminger 等人（2011）则表明，听不同类型的音频片段（喜剧或《鸡汤》系列中的励志故事）对道德直觉产生不同的影响。
 
-道德理论家应该如何对待这样的发现？当然，可以避免在伦理理论中进行思想实验。虽然这种方法论的严谨性具有吸引力，但也有代价。尽管存在困难，思想实验是一个窗口，有时是唯一可接触到的窗口，进入伦理经验的重要领域。只要它与生活中伦理思想和感受脱节，伦理理论就有“动机无法接近”的风险，或者说无法引起按照理论规范生活的主体的伦理关注。[6]幸运的是，还有另一种可能性：继续推进系统调查对直觉泵的反应的研究计划。实际上，这个想法是将哲学思想实验置于实证社会心理学的批判方法之下。如果使用不同的实验情境和受试人群进行的调查揭示出明显的反应趋势，我们就可以开始有一些信心，认为我们正在确定一种深入而广泛共享的道德信念。哲学讨论可以确定这类信念应该作为道德理论的限制条件，而对于那些经验研究确定缺乏这种稳定性的思想实验，比如那些容易受到顺序、框架或环境影响的实验，或者那些容许强烈文化差异的实验，伦理理论家可以安全地忽略它们。
+道德理论家应该如何对待这样的发现？当然，可以避免在伦理理论中进行思想实验。虽然这种方法论的严谨性具有吸引力，但也有代价。尽管存在困难，思想实验是一个窗口，有时是唯一可接触到的窗口，进入伦理经验的重要领域。只要它与生活中伦理思想和感受脱节，伦理理论就有“动机无法接近”的风险，或者说无法引起按照理论规范生活的主体的伦理关注。[6] 幸运的是，还有另一种可能性：继续推进系统调查对直觉泵的反应的研究计划。实际上，这个想法是将哲学思想实验置于实证社会心理学的批判方法之下。如果使用不同的实验情境和受试人群进行的调查揭示出明显的反应趋势，我们就可以开始有一些信心，认为我们正在确定一种深入而广泛共享的道德信念。哲学讨论可以确定这类信念应该作为道德理论的限制条件，而对于那些经验研究确定缺乏这种稳定性的思想实验，比如那些容易受到顺序、框架或环境影响的实验，或者那些容许强烈文化差异的实验，伦理理论家可以安全地忽略它们。
 
 ## 3. 道德责任
 
@@ -79,9 +79,9 @@
 
 另一个相关的哲学辩论涉及自由意志与决定论的相容性。一方面，不相容论者坚持认为决定论（即所有事件都由先前事件共同决定，受自然法则支配）与道德责任不相容。通常，这些观点还会进一步说明为了对自己的行为负责需要具备哪些特定能力（例如，行动者具有行为的替代可能性，或者是行为的“终极”来源，或者两者兼具（Kane 2002: 5; Haji 2002: 202–3）。另一方面，相容论者认为决定论和责任是相容的，通常是通过否认负责行为需要行动者真正具有开放的选择，或者拒绝要求不确定性（或自我创造的不可能要求）的终极条件来实现的。简而言之，相容论者认为即使人们在某种意义上“本来无法做出其他选择”或者不是其行为的“终极来源”，他们仍然可以被合理地追究责任。不相容论者否认这种情况。这两种相反立场的支持者仍然相对固守不变，一些参与者担心出现“辩证僵局”（Fischer 1994: 83–5）。
 
-这些辩论中的一个关键问题是，不相容主义立场更能捕捉到对那些行为完全被决定的个体的民间道德判断（例如，G. Strawson 1986: 88; Smilansky 2003: 259; Pereboom 2001: xvi; O’Connor 2000: 4; Nagel 1986: 113, 125; Campbell 1951: 451; Pink 2004: 12）。例如，领先的不相容主义者罗伯特·凯恩（1999: 218; cf. 1996: 83–5）报告说，在他的经验中，“大多数普通人最初都是天然的不相容主义者”，“必须通过哲学家的巧妙论证来说服他们放弃这种天然的不相容主义”。
+这些辩论中的一个关键问题是，不相容主义立场更能捕捉到对那些行为完全被决定的个体的民间道德判断（例如，G. Strawson 1986: 88; Smilansky 2003: 259; Pereboom 2001: xvi; O’Connor 2000: 4; Nagel 1986: 113, 125; Campbell 1951: 451; Pink 2004: 12）。例如，领先的不相容主义者罗伯特 · 凯恩（1999: 218; cf. 1996: 83–5）报告说，在他的经验中，“大多数普通人最初都是天然的不相容主义者”，“必须通过哲学家的巧妙论证来说服他们放弃这种天然的不相容主义”。
 
-毫不奇怪，一些相容主义者迅速提出了相反的观点。例如，彼得·斯特劳森（1982）曾经有名地认为，在“普通人际关系”的背景下，人们并不被决定论的幽灵所困扰；这种形而上学的关注对他们对“反应态度”——愤怒、怨恨、感激、宽恕等与责任评估相关的情感和表达来说是无关紧要的。斯特劳森坚称，对决定论的任何焦虑都是哲学家的“惊慌形而上学”，而不是普通人的不相容主义信念。然而，不相容主义者在历史上被认为拥有普通人的直觉支持；甚至一些倾向于相容主义的哲学家也准备承认关于“典型”反应倾向的不相容主义观点（例如，Vargas 2005a,b）。
+毫不奇怪，一些相容主义者迅速提出了相反的观点。例如，彼得 · 斯特劳森（1982）曾经有名地认为，在“普通人际关系”的背景下，人们并不被决定论的幽灵所困扰；这种形而上学的关注对他们对“反应态度”——愤怒、怨恨、感激、宽恕等与责任评估相关的情感和表达来说是无关紧要的。斯特劳森坚称，对决定论的任何焦虑都是哲学家的“惊慌形而上学”，而不是普通人的不相容主义信念。然而，不相容主义者在历史上被认为拥有普通人的直觉支持；甚至一些倾向于相容主义的哲学家也准备承认关于“典型”反应倾向的不相容主义观点（例如，Vargas 2005a, b）。
 
 据我们所知，双方都没有提供关于民间道德判断实际模式的系统证据。然而，最近一个庞大的研究计划已经开始提供关于决定论与民间道德判断中道德责任之间关系的实证证据。
 
@@ -97,15 +97,15 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 > 想象一下，在下个世纪，我们发现了自然界的所有法则，并建造了一台超级计算机，它可以根据这些自然法则和世界上一切事物的当前状态推断出世界在任何未来时间会发生什么。它可以观察世界的一切，并以 100%的准确性预测世界将如何发展。假设这样一台超级计算机存在，并且它在 2150 年 3 月 25 日某个特定时间观察了宇宙的状态，而这个时间是 Jeremy Hall 出生前二十年。然后，计算机根据这些信息和自然法则推断出 Jeremy 将在 2195 年 1 月 26 日下午 6 点准确地抢劫 Fidelity 银行。一如既往，超级计算机的预测是正确的；Jeremy 在 2195 年 1 月 26 日下午 6 点抢劫了 Fidelity 银行。
 
-然后，被问及杰里米是否道德上应受谴责。大多数人回答是，表明他们认为即使一个人的行为完全由自然法则决定，他仍然可以在道德上应受谴责。与Woolfolk等人的结果一致，似乎受试者的判断，至少与道德谴责有关的判断，并不受不相容主义的约束。
+然后，被问及杰里米是否道德上应受谴责。大多数人回答是，表明他们认为即使一个人的行为完全由自然法则决定，他仍然可以在道德上应受谴责。与 Woolfolk 等人的结果一致，似乎受试者的判断，至少与道德谴责有关的判断，并不受不相容主义的约束。
 
-这个新出现的画面变得复杂了，然而，尼科尔斯和诺布（2007）认为，表面上的兼容主义回应是由对行为者不道德行为的情感反应驱动的表现错误。为了证明这一点，所有被试被要求想象两个宇宙——一个完全由确定性法则统治的宇宙（宇宙A），以及一个除了人类决策不完全由确定性法则决定和过去发生的事情之外，其他一切都是确定的宇宙（宇宙B）。在宇宙B中，“每个人的决策不一定要以它发生的方式发生”。一些被试被分配到具体条件下，并被要求对特定情况下的特定个体做出判断，而其他被试被分配到抽象条件下，并被要求做出更一般的判断，与任何特定个体无关。假设是这两个条件之间的差异会产生关于决定论和道德责任之间关系的不同回应。具体条件下的被试阅读了一个关于一个叫“比尔”的男人的故事，他在确定性宇宙中以一种特别可怕的方式谋杀了他的妻子和孩子，并被问及比尔是否对自己所做的事情负有道德责任。相比之下，抽象条件下的被试被问及“在宇宙A中，一个人是否有可能对自己的行为完全负有道德责任？”72%的具体条件下的被试给出了兼容主义回应，在宇宙A中认为比尔应对自己的行为负有责任，而不到15%的抽象条件下的被试给出了兼容主义回应，允许人们在确定性的宇宙A中完全负有道德责任。
+这个新出现的画面变得复杂了，然而，尼科尔斯和诺布（2007）认为，表面上的兼容主义回应是由对行为者不道德行为的情感反应驱动的表现错误。为了证明这一点，所有被试被要求想象两个宇宙——一个完全由确定性法则统治的宇宙（宇宙 A），以及一个除了人类决策不完全由确定性法则决定和过去发生的事情之外，其他一切都是确定的宇宙（宇宙 B）。在宇宙 B 中，“每个人的决策不一定要以它发生的方式发生”。一些被试被分配到具体条件下，并被要求对特定情况下的特定个体做出判断，而其他被试被分配到抽象条件下，并被要求做出更一般的判断，与任何特定个体无关。假设是这两个条件之间的差异会产生关于决定论和道德责任之间关系的不同回应。具体条件下的被试阅读了一个关于一个叫“比尔”的男人的故事，他在确定性宇宙中以一种特别可怕的方式谋杀了他的妻子和孩子，并被问及比尔是否对自己所做的事情负有道德责任。相比之下，抽象条件下的被试被问及“在宇宙 A 中，一个人是否有可能对自己的行为完全负有道德责任？”72%的具体条件下的被试给出了兼容主义回应，在宇宙 A 中认为比尔应对自己的行为负有责任，而不到 15%的抽象条件下的被试给出了兼容主义回应，允许人们在确定性的宇宙 A 中完全负有道德责任。
 
 根据先前的实验研究表明，情绪激动增加了对不当行为的惩罚性反应（Lerner, Goldberg, & Tetlock 1998），尼科尔斯和诺布提出假设，先前观察到的兼容主义反应是刺激材料情感负荷性质的结果。当这种情感元素从材料中消除（如在抽象条件下），参与者反而表现出不兼容主义的反应模式。
 
-最近，尼科尔斯和诺贝的推理方式受到了两个方向的批评。首先，许多研究现在试图系统地操纵道德行为的情感激发程度，但并没有发现这些变化显著改变参与者对决定论情景下道德责任的判断。相反，这些差异似乎最好通过案例是抽象描述还是具体描述来解释（参见Cova等人2012年对患有额颞痴呆症患者的研究，以及Feltz和Cova 2014年的元分析）。其次，来自Murray和Nahmias（2014年）的另一系列研究认为，表现出明显不相容主义响应模式的参与者在理解决定论情景时犯了一个关键错误。特别是，他们认为这些参与者错误地认为在导致他们行为的因果链中，这些决定论情景中的行动者或其心理状态被“绕过”。为了支持他们的论点，Murray和Nahmias（2014年）证明，当分析限制在那些明显没有认为行动者被绕过的参与者时，这些参与者判断行动者在决定论宇宙中是道德负责的（应受责备等）。不出所料，这一论点反过来激发了许多进一步的反应，包括实证方法的（Rose和Nichols 2013年）和理论的（Björnsson和Pereboom 2016年），他们对Murray和Nahmias的结论提出了警告。
+最近，尼科尔斯和诺贝的推理方式受到了两个方向的批评。首先，许多研究现在试图系统地操纵道德行为的情感激发程度，但并没有发现这些变化显著改变参与者对决定论情景下道德责任的判断。相反，这些差异似乎最好通过案例是抽象描述还是具体描述来解释（参见 Cova 等人 2012 年对患有额颞痴呆症患者的研究，以及 Feltz 和 Cova 2014 年的元分析）。其次，来自 Murray 和 Nahmias（2014 年）的另一系列研究认为，表现出明显不相容主义响应模式的参与者在理解决定论情景时犯了一个关键错误。特别是，他们认为这些参与者错误地认为在导致他们行为的因果链中，这些决定论情景中的行动者或其心理状态被“绕过”。为了支持他们的论点，Murray 和 Nahmias（2014 年）证明，当分析限制在那些明显没有认为行动者被绕过的参与者时，这些参与者判断行动者在决定论宇宙中是道德负责的（应受责备等）。不出所料，这一论点反过来激发了许多进一步的反应，包括实证方法的（Rose 和 Nichols 2013 年）和理论的（Björnsson 和 Pereboom 2016 年），他们对 Murray 和 Nahmias 的结论提出了警告。
 
-尽管关于在确定性宇宙中的代理人的民间道德判断更好地体现了兼容主义还是不兼容主义立场的辩论仍在继续，但围绕着被广泛认为是不兼容主义最有说服力的当代论证形式的研究已经涌现出来：操纵论证（例如，Mele 2006、2013年，Pereboom 2001、2014年）。例如，Pereboom的四种情况版本从一个名叫Plum的代理人的案例开始，他被神经科学家操纵，他们使用类似无线电的技术改变Plum的神经状态，结果他想要并决定杀死一个名叫White的人。在这种情况下，很明显Plum并没有自由决定杀死White。将这个案例与第二个案例进行比较，在第二个案例中，神经科学家团队在Plum一生的开始阶段以一种导致他产生杀死White的欲望（并做出决定）的方式对他进行了编程。不兼容主义者认为这两种情况在是否Plum自由行动方面没有区别，因此，再次看来，Plum并没有自由决定杀死White。现在将这与第三种情况进行比较，在第三种情况中，Plum的欲望和决定杀死White是由他的文化和社会环境决定的，而不是由一个神经科学家团队决定的。由于第二种和第三种情况之间唯一的区别是决定Plum心理状态的特定技术过程，他似乎再次没有自由决定杀死White。最后，在第四种情况中，Plum的欲望和决定杀死White是由我们自己确定性宇宙的过去状态和自然法则共同决定的。关于这四种情况，Pereboom认为，由于这四种情况之间没有任何与自由意志相关的区别，如果在第一种情况下Plum没有道德责任，那么在第四种情况下他也没有道德责任。
+尽管关于在确定性宇宙中的代理人的民间道德判断更好地体现了兼容主义还是不兼容主义立场的辩论仍在继续，但围绕着被广泛认为是不兼容主义最有说服力的当代论证形式的研究已经涌现出来：操纵论证（例如，Mele 2006、2013 年，Pereboom 2001、2014 年）。例如，Pereboom 的四种情况版本从一个名叫 Plum 的代理人的案例开始，他被神经科学家操纵，他们使用类似无线电的技术改变 Plum 的神经状态，结果他想要并决定杀死一个名叫 White 的人。在这种情况下，很明显 Plum 并没有自由决定杀死 White。将这个案例与第二个案例进行比较，在第二个案例中，神经科学家团队在 Plum 一生的开始阶段以一种导致他产生杀死 White 的欲望（并做出决定）的方式对他进行了编程。不兼容主义者认为这两种情况在是否 Plum 自由行动方面没有区别，因此，再次看来，Plum 并没有自由决定杀死 White。现在将这与第三种情况进行比较，在第三种情况中，Plum 的欲望和决定杀死 White 是由他的文化和社会环境决定的，而不是由一个神经科学家团队决定的。由于第二种和第三种情况之间唯一的区别是决定 Plum 心理状态的特定技术过程，他似乎再次没有自由决定杀死 White。最后，在第四种情况中，Plum 的欲望和决定杀死 White 是由我们自己确定性宇宙的过去状态和自然法则共同决定的。关于这四种情况，Pereboom 认为，由于这四种情况之间没有任何与自由意志相关的区别，如果在第一种情况下 Plum 没有道德责任，那么在第四种情况下他也没有道德责任。
 
 针对这种基于操纵的不相容论的论证，许多研究人员试图更好地实证普通道德判断关于被操纵的行为者的情况。这一研究方向在两个层面上取得了成果。首先，越来越多的实证研究调查了关于操纵案例的道德责任判断，并为为什么被操纵的行为者被认为缺乏自由意志和道德责任提供了更清晰的心理图景。其次，继续进行的理论工作，在这一实证图景的指导下，提供了新的理由怀疑基于操纵的论证是否真正提供了反对相容论的证据。
 
@@ -121,8 +121,8 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 到目前为止，在道德心理学中，以实证为基础的方法在讨论道德品格和美德方面最为突出。重点是几十年来在“情境主义”社会心理学中的实验：情境的不显眼特征反复显示出以看似任意的方式影响行为，有时甚至令人震惊。其中最引起哲学家兴趣的发现之一是：
 
-* 电话亭研究（Isen＆Levin（1972：387）：刚刚在电话亭的硬币返回处找到一角硬币的人比没有找到一角硬币的人更有可能帮助一个掉了一些文件的女人（88％对 4％）。
-* 好撒玛利亚人研究（Darley＆Batson 1973：105）：不匆忙的路人比匆忙的路人更有可能帮助一个看起来处于重大困境中的不幸者（63％对 10％）。
+* 电话亭研究（Isen＆Levin（1972：387）：刚刚在电话亭的硬币返回处找到一角硬币的人比没有找到一角硬币的人更有可能帮助一个掉了一些文件的女人（88％ 对 4％）。
+* 好撒玛利亚人研究（Darley＆Batson 1973：105）：不匆忙的路人比匆忙的路人更有可能帮助一个看起来处于重大困境中的不幸者（63％ 对 10％）。
 * 服从实验（Milgram 1974）受试者在实验者的礼貌请求下，反复用逼真（但模拟的）电击对一个尖叫的受害者进行惩罚。
 * 斯坦福监狱实验（齐姆巴多 2007 年）：大学生扮演“狱警”在模拟监狱中对学生“囚犯”进行了丑陋的言语和情感虐待。
 
@@ -130,7 +130,7 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 利用这一观察，“人格怀疑论者”认为，如果道德行为如此明显地随着微小的环境变化而变化，通常是变得更糟，那么表面上良好的品格对良好行为提供的保证非常有限。除了这种关于道德品格脆弱性的描述性心理学主张外，一些人格怀疑论者还在规范伦理学上提出了一个论点，即品格在伦理思考中的重要性比传统上认为的要少。[11]
 
-人物怀疑主义违背了当代德性伦理学的有影响力的计划，该计划认为推进伦理理论需要更多关注人物，而德性伦理学家提供了积极的抵抗。[12]讨论有时过于激烈，但已经产生了一大批文献，涉及一个充满活力的跨学科领域的“人物研究”（例如，米勒等人 2015 年）。[13]这些文献过于广泛，无法在本条目中详细介绍，但我们将努力概述一些主要问题。
+人物怀疑主义违背了当代德性伦理学的有影响力的计划，该计划认为推进伦理理论需要更多关注人物，而德性伦理学家提供了积极的抵抗。[12] 讨论有时过于激烈，但已经产生了一大批文献，涉及一个充满活力的跨学科领域的“人物研究”（例如，米勒等人 2015 年）。[13] 这些文献过于广泛，无法在本条目中详细介绍，但我们将努力概述一些主要问题。
 
 首先要观察到的是，激发人物怀疑主义的科学本身可能受到怀疑。鉴于人类科学的不平衡历史，可以认为相关发现过于不确定，无法作为哲学理论的约束。这种观点可能得到最近社会心理学中突出的复制失败的支持。
 
@@ -168,7 +168,7 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 即使这些臭名昭著的哲学难题可以得到解决 - 正如道德专家主张的道德实证方法所认为的那样 - 问题仍然复杂，因为如果道德专业知识像其他专业知识一样，仅仅依靠实践 - 假设我们对“道德实践”有清晰的概念 - 是不够的。虽然实践对于获得专业知识很重要，但其他因素，如天赋，也很重要（Hambrick 等人，2014 年; Macnamara 等人，2014 年）。而且，一些必要的天赋可能在人群中分布不均：实践不能使一个骑师成为 NFL 前锋，或者使一个 NFL 前锋成为骑师。
 
-道德专业知识所需的自然天赋是什么，它们在人群中的分布如何？如果它们像国际象棋大师的技能或 NFL 前锋的力量一样稀缺，那么道德也将是稀缺的。一些德行伦理学家认为道德应该是广泛可达的，并且他们将抵制这个结果（Adams 2006: 119–123，以及可以说是亚里士多德Nicomachean Ethics 1099b15–20）。但即使是接受道德的稀缺性的德行伦理学家也需要解释必要的自然天赋是什么，如果他们希望对于那些天赋较差的人至少能够达到最低的体面，他们应该对于在具有广泛不同天赋的人群中道德发展将如何进行有所说法。
+道德专业知识所需的自然天赋是什么，它们在人群中的分布如何？如果它们像国际象棋大师的技能或 NFL 前锋的力量一样稀缺，那么道德也将是稀缺的。一些德行伦理学家认为道德应该是广泛可达的，并且他们将抵制这个结果（Adams 2006: 119–123，以及可以说是亚里士多德 Nicomachean Ethics 1099b15–20）。但即使是接受道德的稀缺性的德行伦理学家也需要解释必要的自然天赋是什么，如果他们希望对于那些天赋较差的人至少能够达到最低的体面，他们应该对于在具有广泛不同天赋的人群中道德发展将如何进行有所说法。
 
 道德品质研究的推进需要一个解释生物学、心理学和社会因素的理论，这些因素对于成功的道德发展是必需的——根据专业模型，有利于培养“道德技能”的条件。显然，这是一个艰巨的任务，系统地解决这些问题所需的研究还处于比较初级的阶段。然而，专业模型利用与已经有良好研究的领域（如音乐和体育）的联系，为将品质的讨论超越经验不足的猜测和关于“习惯化”的假设提供了一个框架，这在以前的文献中过于频繁（Doris 2015: 128）。
 
@@ -176,13 +176,13 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 人们经常以有益于他人的方式行事，有时他们这样做是明知会付出代价、不愉快或危险的。但至少从柏拉图在《理想国》第二卷中的经典讨论以来，人们一直在争论为什么人们会以这种方式行事。他们的动机是利他主义的，还是他们的行为最终是出于自身利益的动机？著名的霍布斯给出了这个答案：
 
-没有人给予，除非出于自己的利益，因为礼物是自愿的；而在所有自愿行为中，每个人的目标都是自己的利益；如果人们看到自己的利益将受挫，就不会有善意、信任的开始，因此也不会有相互帮助的开始。（1651 年[1981 年：第 15 章]）
+没有人给予，除非出于自己的利益，因为礼物是自愿的；而在所有自愿行为中，每个人的目标都是自己的利益；如果人们看到自己的利益将受挫，就不会有善意、信任的开始，因此也不会有相互帮助的开始。（1651 年 [1981 年：第 15 章]）
 
-像霍布斯这样的观点被称为利己主义，这种对人类动机的沮丧构想有许多杰出的哲学支持者，包括边沁、J.S.密尔和尼采。然而，持不同意见的声音，虽然可能较少，但同样杰出。巴特勒、休谟、卢梭和亚当·斯密都认为，人类的动机有时是真正无私的。
+像霍布斯这样的观点被称为利己主义，这种对人类动机的沮丧构想有许多杰出的哲学支持者，包括边沁、J.S.密尔和尼采。然而，持不同意见的声音，虽然可能较少，但同样杰出。巴特勒、休谟、卢梭和亚当 · 斯密都认为，人类的动机有时是真正无私的。
 
-尽管区分自我主义和利他主义对人类动机的解释在很大程度上是实证的，但很容易看出为什么哲学家们认为这些相互竞争的答案对道德理论将产生重要影响。例如，康德曾经著名地主张一个人应该“不是出于倾向而是出于责任行动，通过这样做，他的行为才能获得真正的道德价值”（1785 年[1949 年：第 1 节，第 12 段]）。但是利己主义主张所有人类动机最终都是以自身利益为出发点的，因此人们无法像康德所敦促的那样“出于责任”行动。因此，如果利己主义是真实的，康德的观点将意味着没有行为具有“真正的道德价值”。此外，如果利己主义是真实的，它似乎会对道德理论如何回答那个古老问题“为什么我应该做道德的事？”施加强大的限制，因为正如霍布斯明确看到的那样，答案必须以行动者的自身利益为基础。
+尽管区分自我主义和利他主义对人类动机的解释在很大程度上是实证的，但很容易看出为什么哲学家们认为这些相互竞争的答案对道德理论将产生重要影响。例如，康德曾经著名地主张一个人应该“不是出于倾向而是出于责任行动，通过这样做，他的行为才能获得真正的道德价值”（1785 年 [1949 年：第 1 节，第 12 段]）。但是利己主义主张所有人类动机最终都是以自身利益为出发点的，因此人们无法像康德所敦促的那样“出于责任”行动。因此，如果利己主义是真实的，康德的观点将意味着没有行为具有“真正的道德价值”。此外，如果利己主义是真实的，它似乎会对道德理论如何回答那个古老问题“为什么我应该做道德的事？”施加强大的限制，因为正如霍布斯明确看到的那样，答案必须以行动者的自身利益为基础。
 
-虽然利己主义与利他主义的辩论在历史上一直是哲学界的重要关注点，但这个问题主要涉及有关人类动机本质的心理学问题，所以心理学家们进行了大量的实证研究，旨在确定哪种观点是正确的，这并不令人意外。丹尼尔·巴森（Daniel Batson）及其合作者在这个问题上进行的一些最有影响力和哲学上复杂的实证工作。巴森从这项工作中得出的结论是，人们有时会表现出利他行为，并且共情情感在产生利他动机方面起着重要作用。[17]其他人并不被说服。关于巴森实验的讨论，他从中得出的结论以及对该结论的怀疑的一些原因，请参见本百科全书中“利他主义的实证方法”条目的第 5 和第 6 节。在本节中，我们将重点讨论进入实证文献之前必要的一些哲学基础工作。
+虽然利己主义与利他主义的辩论在历史上一直是哲学界的重要关注点，但这个问题主要涉及有关人类动机本质的心理学问题，所以心理学家们进行了大量的实证研究，旨在确定哪种观点是正确的，这并不令人意外。丹尼尔 · 巴森（Daniel Batson）及其合作者在这个问题上进行的一些最有影响力和哲学上复杂的实证工作。巴森从这项工作中得出的结论是，人们有时会表现出利他行为，并且共情情感在产生利他动机方面起着重要作用。[17] 其他人并不被说服。关于巴森实验的讨论，他从中得出的结论以及对该结论的怀疑的一些原因，请参见本百科全书中“利他主义的实证方法”条目的第 5 和第 6 节。在本节中，我们将重点讨论进入实证文献之前必要的一些哲学基础工作。
 
 需要解决的一个关键问题是：关于什么进行辩论；什么是利他主义？不幸的是，对于这个问题没有一个无争议的答案，因为许多学科的研究人员，包括哲学、生物学、心理学、社会学、经济学、人类学和灵长类学，都写过关于利他主义的文章，而不同学科的作者往往以不同的方式使用“利他主义”这个术语。即使在哲学家中，这个术语也被赋予了不同的含义。然而，有一个关于利他主义的解释，实际上是一组密切相关的解释，它在哲学界和包括巴森的大量心理学研究中起着核心作用。我们将其称为“标准解释”。在本节的剩余部分，我们将重点讨论这个解释。[18]
 
@@ -204,19 +204,19 @@ Nahmias、Morris、Nadelhoffer 和 Turner（2009）也获得了类似的反应�
 
 正如史密斯所认识到的，这种客观性的概念需要道德观点的收敛 - 适当的论证、反思和讨论预计会导致非常大的道德一致（史密斯 1994 年：6）。[22]
 
-虽然道德实在论者通常对实际道德一致性的程度持乐观态度（例如，Sturgeon 1988: 229; Smith 1994: 188），但不可否认的是，存在着大量持久的道德分歧；在许多道德问题上，即使经过长时间的争论，也没有明显的趋同失败。像麦基这样的反实在论者对这一现象有一个现成的解释：道德判断并不是以史密斯的意义上的客观存在，道德争论不能期望达到史密斯和其他实在论者认为的效果。[23]相反，实在论者的任务是解释趋同失败；她必须提供一个解释，使之与道德判断是客观存在且道德争论是理性可解决的事实一致。多丽斯和普拉基亚斯（2008）称之为“化解解释”。实在论者的策略是坚持认为实际道德分歧的优势是由于争论者或他们的环境的限制，并坚持认为在理想条件下（例如，争论者完全理性并完全了解相关的非道德事实时），会出现（非常大的，如果不是一致的）道德一致。
+虽然道德实在论者通常对实际道德一致性的程度持乐观态度（例如，Sturgeon 1988: 229; Smith 1994: 188），但不可否认的是，存在着大量持久的道德分歧；在许多道德问题上，即使经过长时间的争论，也没有明显的趋同失败。像麦基这样的反实在论者对这一现象有一个现成的解释：道德判断并不是以史密斯的意义上的客观存在，道德争论不能期望达到史密斯和其他实在论者认为的效果。[23] 相反，实在论者的任务是解释趋同失败；她必须提供一个解释，使之与道德判断是客观存在且道德争论是理性可解决的事实一致。多丽斯和普拉基亚斯（2008）称之为“化解解释”。实在论者的策略是坚持认为实际道德分歧的优势是由于争论者或他们的环境的限制，并坚持认为在理想条件下（例如，争论者完全理性并完全了解相关的非道德事实时），会出现（非常大的，如果不是一致的）道德一致。
 
 很明显，这些竞争解释的相对优点不能在没有对实际道德分歧中涉及的因素进行密切讨论的情况下公正地确定。事实上，正如具有实在论者（Sturgeon 1988: 230）和反实在论者（Loeb 1998: 284）倾向的敏锐评论家所指出的，争论的不同不能仅通过先验的哲学手段来评估；正如洛伊布所观察到的那样，需要“对各种文化的环境和信仰进行大量的进一步实证研究”。这项研究不仅需要准确评估实际分歧的程度，还需要确定为什么分歧持续存在或消失。只有在此之后，才能公正地评估实在论者试图“解释掉”道德分歧的努力。
 
-理查德·布兰特（Richard Brandt）是将伦理理论与社会科学整合的努力的先驱者，他主要借助人类学来确定在理想情况下道德态度是否可以预期趋同。众所周知，人类学包括大量的研究成果，如韦斯特马克（Westermarck）（1906 年）和萨姆纳（Sumner）（1908 年[1934 年]）的经典研究，详细描述了世界各地文化中根本不同的道德观。但正如布兰特（1959 年：283-4）所认识到的那样，典型的民族志研究并不能支持在理想条件下态度趋同的自信推断，主要是因为它们通常对于道德分歧有限的指导，这些分歧很大程度上是因为它们往往对于道德性质之外的事实问题的分歧给予了有限的指导，比如与宗教或宇宙观有关的问题。
+理查德 · 布兰特（Richard Brandt）是将伦理理论与社会科学整合的努力的先驱者，他主要借助人类学来确定在理想情况下道德态度是否可以预期趋同。众所周知，人类学包括大量的研究成果，如韦斯特马克（Westermarck）（1906 年）和萨姆纳（Sumner）（1908 年 [1934 年]）的经典研究，详细描述了世界各地文化中根本不同的道德观。但正如布兰特（1959 年：283-4）所认识到的那样，典型的民族志研究并不能支持在理想条件下态度趋同的自信推断，主要是因为它们通常对于道德分歧有限的指导，这些分歧很大程度上是因为它们往往对于道德性质之外的事实问题的分歧给予了有限的指导，比如与宗教或宇宙观有关的问题。
 
 考虑到这种困难，布兰特（1954 年）进行了自己的人类学研究，研究对象是美国西南部的霍皮人（Hopi），并发现了一些问题，典型的霍皮人和美国白人态度之间存在严重的道德分歧，这些分歧不可能合理地归因于对非道德事实的信念差异。一个显著的例子是霍皮人对动物痛苦的态度，这种态度可能会让许多非霍皮人感到不安：
 
-> [霍皮儿童]有时会捉鸟并把它们当作“宠物”。它们可能被绑在绳子上，以便带出去“玩”。这种游戏很粗暴，鸟很少能活得很久。[根据一位消息人士的说法：]“有时它们会累了而死。没有人对此表示反对。”（布兰特 1954 年：213）
+> [霍皮儿童] 有时会捉鸟并把它们当作“宠物”。它们可能被绑在绳子上，以便带出去“玩”。这种游戏很粗暴，鸟很少能活得很久。[根据一位消息人士的说法：]“有时它们会累了而死。没有人对此表示反对。”（布兰特 1954 年：213）
 
-Brandt（1959年：103）努力确定这种道德观念的差异是否可以追溯到非道德事实的分歧，但他找不到合理的解释；例如，他的Hopi知情者并不相信动物缺乏感受痛苦的能力，也没有宇宙观念可以解释这种表面上的残忍行为，比如相信动物在来世会因殉道而得到奖励。Brandt（1954年：245, 284）得出的最佳解释是“基本态度的差异”，因为“当群体对对象的信念相同时，它们有时会做出不同的评价”。
+Brandt（1959 年：103）努力确定这种道德观念的差异是否可以追溯到非道德事实的分歧，但他找不到合理的解释；例如，他的 Hopi 知情者并不相信动物缺乏感受痛苦的能力，也没有宇宙观念可以解释这种表面上的残忍行为，比如相信动物在来世会因殉道而得到奖励。Brandt（1954 年：245, 284）得出的最佳解释是“基本态度的差异”，因为“当群体对对象的信念相同时，它们有时会做出不同的评价”。
 
-Moody-Adams认为，从Brandt的以及其他大部分民族志学研究中，很少能得出哲学上重要的结论。Moody-Adams（1997: 34–43）运用了格式塔心理学的“情境意义”学说（例如，Dunker 1939），她认为所有的制度、言论和行为都有其特定于其文化环境的意义，因此我们无法确定跨文化争议的参与者是否在谈论同一件事情。她认为，情境意义的问题对于那些主张存在不可调和的跨文化分歧的人来说，构成了“无法克服的”方法论困难（1997: 36）。民族志项目的支持者可能会合理地回应，认为审慎的观察和访谈，例如Brandt所追求的那样，可以激发对评价多样性的自信评估。然而，假设Moody-Adams是正确的，而方法论困难是不可逾越的。那么，困难的分配是公平的：如果观察和访谈真的像Moody-Adams所暗示的那样有问题，那么无论是现实主义者还是反现实主义者对于分歧的看法都无法通过对经验证据的诉诸来支持。我们不认为存在这样的僵局，因为我们认为所涉及的方法论悲观主义过于夸大。我们认为，认真的实证研究可以告诉我们很多关于文化及其差异的信息。适当的做法是密切关注具体的研究以及它们所展示和未能展示的内容。
+Moody-Adams 认为，从 Brandt 的以及其他大部分民族志学研究中，很少能得出哲学上重要的结论。Moody-Adams（1997: 34–43）运用了格式塔心理学的“情境意义”学说（例如，Dunker 1939），她认为所有的制度、言论和行为都有其特定于其文化环境的意义，因此我们无法确定跨文化争议的参与者是否在谈论同一件事情。她认为，情境意义的问题对于那些主张存在不可调和的跨文化分歧的人来说，构成了“无法克服的”方法论困难（1997: 36）。民族志项目的支持者可能会合理地回应，认为审慎的观察和访谈，例如 Brandt 所追求的那样，可以激发对评价多样性的自信评估。然而，假设 Moody-Adams 是正确的，而方法论困难是不可逾越的。那么，困难的分配是公平的：如果观察和访谈真的像 Moody-Adams 所暗示的那样有问题，那么无论是现实主义者还是反现实主义者对于分歧的看法都无法通过对经验证据的诉诸来支持。我们不认为存在这样的僵局，因为我们认为所涉及的方法论悲观主义过于夸大。我们认为，认真的实证研究可以告诉我们很多关于文化及其差异的信息。适当的做法是密切关注具体的研究以及它们所展示和未能展示的内容。
 
 正如 Brandt（1959 年：101-2）所承认的那样，他所处的时代的人类学文献并没有像哲学家们对于道德态度和信仰的确切轮廓和起源的前景感到好奇那样提供足够的信息。然而，社会心理学和认知科学最近进行了研究，承诺进一步讨论；在过去的 35 年里，“文化心理学”进行了大量研究，研究不同文化的认知和情感过程（Shweder＆Bourne 1982; Markus＆Kitayama 1991; Ellsworth 1994; Nisbett＆Cohen 1996; Nisbett 1998, 2003; Kitayama＆Markus 1999; Heine 2008; Kitayama＆Cohen 2010; Henrich 2015）。在这里，我们将重点关注一些在（我们）家附近发现的文化差异，这些差异是 Nisbett 及其同事在调查美国北部和南部地区暴力模式时发现的。我们认为这些发现支持 Brandt 对道德判断趋同可能性的悲观结论。
 
@@ -256,7 +256,7 @@ Nisbett 小组的研究可以被看作是将认知社会心理学的工具应用
 
 正如我们在开始时所说的，捍卫关于趋同性的猜测的现实主义者可能会试图通过辩称多样性是由于讨论者或他们的环境的缺陷来解释掉评价多样性。如果这种策略能够成功，道德实在论可能会在经验上的异议论证中存活下来：对于涉及的道德反思和讨论来说，情况就更糟了，而道德的客观性则没有那么糟糕。虽然我们无法在这里详细讨论所有这种建议的变体，但我们将简要谈谈一些更常见的形式。为了具体起见，我们将重点关注尼斯贝特和科恩的研究。
 
-公正性。道德现实主义者倾向于解释道德分歧的一种策略是说，这种分歧源于个人利益的扭曲影响（参见 Sturgeon 1988: 229–230; Enoch 2009: 24–29）；也许持续的分歧并不是道德论证和判断的深层特征，而是个体追求自己所认为的利益的顽固性。例如，关于财富分配的看似道德争议可能是由于个人和阶级利益的感知（也许主要是模糊的）而不是关于正义的原则性分歧；在这种情况下持续的道德分歧不符合公正性条件，因此对道德现实主义者来说并不令人困扰。但是，暗示南北方对于暴力何时合理存在分歧将不符合公正性条件是相当不可信的。没有理由认为南方人不愿意将他们的判断普遍化到相关相似的个体和相关相似的情境中，正如尼斯贝特和科恩的“信函研究”所暗示的那样。一个人可以主张暴力的荣誉准则而不需要特殊辩护[29]。我们并不打算贬低南方人的价值观；我们的观点是，虽然批评受荣誉约束的南方人可能有充分的理由，但如果公正性（大致上）是按照愿意将自己的道德判断普遍化的方式来理解的话，失败的原因并不明显。
+公正性。道德现实主义者倾向于解释道德分歧的一种策略是说，这种分歧源于个人利益的扭曲影响（参见 Sturgeon 1988: 229–230; Enoch 2009: 24–29）；也许持续的分歧并不是道德论证和判断的深层特征，而是个体追求自己所认为的利益的顽固性。例如，关于财富分配的看似道德争议可能是由于个人和阶级利益的感知（也许主要是模糊的）而不是关于正义的原则性分歧；在这种情况下持续的道德分歧不符合公正性条件，因此对道德现实主义者来说并不令人困扰。但是，暗示南北方对于暴力何时合理存在分歧将不符合公正性条件是相当不可信的。没有理由认为南方人不愿意将他们的判断普遍化到相关相似的个体和相关相似的情境中，正如尼斯贝特和科恩的“信函研究”所暗示的那样。一个人可以主张暴力的荣誉准则而不需要特殊辩护 [29]。我们并不打算贬低南方人的价值观；我们的观点是，虽然批评受荣誉约束的南方人可能有充分的理由，但如果公正性（大致上）是按照愿意将自己的道德判断普遍化的方式来理解的话，失败的原因并不明显。
 
 对相关非道德事实的全面而生动的意识。道德现实主义者认为，道德分歧很大程度上源于对非道德问题的分歧。根据 Boyd（1988: 213; cf. Brink 1989: 202–3; Sturgeon 1988: 229）的观点，
 
@@ -270,7 +270,7 @@ Nisbett 小组的研究可以被看作是将认知社会心理学的工具应用
 
 摆脱“异常”。现实主义者可能会认为，许多道德争议可能源于讨论者的理性失败（Brink 1989: 199–200）。显然，由认知障碍引起的分歧对于道德现实主义来说并不尴尬；在极端情况下，当一些或所有争议方都相当疯狂时，分歧的持续存在并不能说明道德的深层问题。但是，南方人对某些形式的暴力持更宽容态度的观点很难归因于广泛的认知障碍。当然，这是一个实证问题，但我们不知道有任何证据表明南方人遭受了某种认知障碍，使他们无法理解暴力产生的人口和态度因素，或者其他任何事实。要提出理性失败的指控，需要有独立于态度差异的认知障碍证据，并进一步证明这种障碍与争议价值的坚持有关。在这种情况下，与许多其他情况一样，我们很难看到如何在不让一方抛出问题的情况下提出异常或非理性的指控。
 
-尼斯贝特和同事的工作可能是任何维持理性论证在重要道德问题上趋于一致的理论的有力反例；证据表明，对于暴力和荣誉的态度在南北方的差异可能在考虑的理想条件下仍然存在。诚然，这样的结论必须是暂时的。在哲学方面，并没有考虑到每一种合理的“解释道德分歧并建立趋同期望”的策略[30]。在实证方面，本文只报道了一些研究，而且这些研究，像任何实证研究一样，可能会受到概念或方法论上的批评[31]。最后，应该明确本文所声称的内容：即使是公正获得的结论，也不是对所有道德现实主义版本的“驳斥”，因为有些道德现实主义版本并不要求趋同（布卢姆菲尔德 2001；沙弗-兰道 2003）。相反，这个讨论应该让人们对哲学家在面对道德分歧时必须遇到的实证工作有所了解，如果他们要对道德分歧提出可辩护的猜测。
+尼斯贝特和同事的工作可能是任何维持理性论证在重要道德问题上趋于一致的理论的有力反例；证据表明，对于暴力和荣誉的态度在南北方的差异可能在考虑的理想条件下仍然存在。诚然，这样的结论必须是暂时的。在哲学方面，并没有考虑到每一种合理的“解释道德分歧并建立趋同期望”的策略 [30]。在实证方面，本文只报道了一些研究，而且这些研究，像任何实证研究一样，可能会受到概念或方法论上的批评 [31]。最后，应该明确本文所声称的内容：即使是公正获得的结论，也不是对所有道德现实主义版本的“驳斥”，因为有些道德现实主义版本并不要求趋同（布卢姆菲尔德 2001；沙弗-兰道 2003）。相反，这个讨论应该让人们对哲学家在面对道德分歧时必须遇到的实证工作有所了解，如果他们要对道德分歧提出可辩护的猜测。
 
 ## 7. 结论
 
@@ -278,263 +278,263 @@ Nisbett 小组的研究可以被看作是将认知社会心理学的工具应用
 
 ## Bibliography
 
-* Abarbanell, Linda and Marc D. Hauser, 2010, “Mayan Morality: An Exploration of Permissible Harms”, *Cognition*, 115(2): 207–224. doi:10.1016/j.cognition.2009.12.007
-* Adams, Robert Merrihew, 2006, *A Theory of Virtue: Excellence in Being for the Good*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199207510.001.0001
-* Alfano, Mark, 2013, *Character as Moral Fiction*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139208536
+* Abarbanell, Linda and Marc D. Hauser, 2010, “Mayan Morality: An Exploration of Permissible Harms”, *Cognition*, 115(2): 207–224. doi: 10.1016/j.cognition.2009.12.007
+* Adams, Robert Merrihew, 2006, *A Theory of Virtue: Excellence in Being for the Good*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199207510.001.0001
+* Alfano, Mark, 2013, *Character as Moral Fiction*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139208536
 * –––, 2016, *Moral Psychology: An Introduction*, Cambridge: Polity Press.
-* Andow, James and Florian Cova, 2016, “Why Compatibilist Intuitions Are Not Mistaken: A Reply to Feltz and Millan”, *Philosophical Psychology*, 29(4): 550–566. doi:10.1080/09515089.2015.1082542
-* Annas, Julia, 2005, “Comments on John Doris’ *Lack of Character*”, *Philosophy and Phenomenological Research*, 71(3): 636–642. doi:10.1111/j.1933-1592.2005.tb00476.x
-* –––, 2011, *Intelligent Virtue*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199228782.001.0001
-* Anscombe, G.E.M., 1958, “Modern Moral Philosophy”, *Philosophy*, 33(124): 1–19. doi:10.1017/S0031819100037943
+* Andow, James and Florian Cova, 2016, “Why Compatibilist Intuitions Are Not Mistaken: A Reply to Feltz and Millan”, *Philosophical Psychology*, 29(4): 550–566. doi: 10.1080/09515089.2015.1082542
+* Annas, Julia, 2005, “Comments on John Doris’ *Lack of Character*”, *Philosophy and Phenomenological Research*, 71(3): 636–642. doi: 10.1111/j.1933-1592.2005.tb00476.x
+* –––, 2011, *Intelligent Virtue*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199228782.001.0001
+* Anscombe, G.E.M., 1958, “Modern Moral Philosophy”, *Philosophy*, 33(124): 1–19. doi: 10.1017/S0031819100037943
 * Appiah, Kwame Anthony, 2008, *Experiments in Ethics*, Cambridge, MA: Harvard University Press.
 * Aristotle, *Nichomachean Ethics*, in *The Complete Works of Aristotle*, edited by J. Barnes, Princeton: Princeton University Press, 1984.
-* Arpaly, Nomy, 2005, “Comments on *Lack of Character* by John Doris”, *Philosophy and Phenomenological Research*, 71(3): 643–647. doi:10.1111/j.1933-1592.2005.tb00477.x
-* Athanassoulis, Nafsika, 1999, “A Response to Harman: Virtue Ethics and Character Traits”, *Proceedings of the Aristotelian Society*, 100(1): 215–222. doi:10.1111/j.0066-7372.2003.00012.x
-* Badhwar, Neera K., 2009, “The Milgram Experiments, Learned Helplessness, and Character Traits”, *The Journal of Ethics*, 13(2–3): 257–289. doi:10.1007/s10892-009-9052-4
-* Baron, Jonathan, 1994, “Nonconsequentialist Decisions”, *Behavioral and Brain Sciences*, 17(1): 1–42. doi:10.1017/S0140525X0003301X
+* Arpaly, Nomy, 2005, “Comments on *Lack of Character* by John Doris”, *Philosophy and Phenomenological Research*, 71(3): 643–647. doi: 10.1111/j.1933-1592.2005.tb00477.x
+* Athanassoulis, Nafsika, 1999, “A Response to Harman: Virtue Ethics and Character Traits”, *Proceedings of the Aristotelian Society*, 100(1): 215–222. doi: 10.1111/j.0066-7372.2003.00012.x
+* Badhwar, Neera K., 2009, “The Milgram Experiments, Learned Helplessness, and Character Traits”, *The Journal of Ethics*, 13(2–3): 257–289. doi: 10.1007/s10892-009-9052-4
+* Baron, Jonathan, 1994, “Nonconsequentialist Decisions”, *Behavioral and Brain Sciences*, 17(1): 1–42. doi: 10.1017/S0140525X0003301X
 * –––, 2001, *Thinking and Deciding*, 3rd edition, Cambridge: Cambridge University Press.
-* Barrett, H.C., A. Bolyanatz, A. Crittenden, D.M.T. Fessler, S. Fitzpatrick, M. Gurven, J. Henrich, M. Kanovsky, G. Kushnick, A. Pisor, B. Scelza, S. Stich, C. von Rueden, W. Zhao and S. Laurence, 2016, “Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment”, *Proceedings of the National Academy of Sciences*, 113(17): 4688–4693. doi:10.1073/pnas.1522070113
+* Barrett, H.C., A. Bolyanatz, A. Crittenden, D.M.T. Fessler, S. Fitzpatrick, M. Gurven, J. Henrich, M. Kanovsky, G. Kushnick, A. Pisor, B. Scelza, S. Stich, C. von Rueden, W. Zhao and S. Laurence, 2016, “Small-Scale Societies Exhibit Fundamental Variation in the Role of Intentions in Moral Judgment”, *Proceedings of the National Academy of Sciences*, 113(17): 4688–4693. doi: 10.1073/pnas.1522070113
 * Batson, C. Daniel, 1991, *The Altruism Question: Toward a Social-Psychological Answer*, Hillsdale, NJ: Lawrence Erlbaum Associates.
-* –––, 2011, *Altruism in Humans*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195341065.001.0001
-* Bear, Adam and Joshua Knobe, 2016, “What Do People Find Incompatible With Causal Determinism?” *Cognitive Science*, 40(8): 2025–2049. doi:10.1111/cogs.12314
-* Besser-Jones, Lorraine, 2008, “Social Psychology, Moral Character, and Moral Fallibility”, *Philosophy and Phenomenological Research*, 76(2): 310–332. doi:10.1111/j.1933-1592.2007.00134.x
-* Björnsson, Gunnar, 2014, “Incompatibilism and ‘Bypassed’ Agency”, in Alfred R. Mele (ed.), *Surrounding Free Will*, Oxford: Oxford University Press, pp. 95–112. doi:10.1093/acprof:oso/9780199333950.003.0006
-* Björnsson, Gunnar and Derk Pereboom, 2016, “Traditional and Experimental Approaches to Free Will and Moral Responsibility”, in Sytsma and Buckwalter 2016: 142–157. doi:10.1002/9781118661666.ch9
-* Bloomfield, Paul, 2000, “Virtue Epistemology and the Epistemology of Virtue”, *Philosophy and Phenomenological Research*, 60(1): 23–43. doi:10.2307/2653426
-* –––, 2001, *Moral Reality*, New York: Oxford University Press. doi:10.1093/0195137132.001.0001
-* –––, 2014, “Some Intellectual Aspects of the Cardinal Virtues”, in *Oxford Studies in Normative Ethics*, volume 3, Mark Timmons (ed.), pp. 287–313. doi:10.1093/acprof:oso/9780199685905.003.0013
+* –––, 2011, *Altruism in Humans*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195341065.001.0001
+* Bear, Adam and Joshua Knobe, 2016, “What Do People Find Incompatible With Causal Determinism?” *Cognitive Science*, 40(8): 2025–2049. doi: 10.1111/cogs.12314
+* Besser-Jones, Lorraine, 2008, “Social Psychology, Moral Character, and Moral Fallibility”, *Philosophy and Phenomenological Research*, 76(2): 310–332. doi: 10.1111/j.1933-1592.2007.00134.x
+* Björnsson, Gunnar, 2014, “Incompatibilism and ‘Bypassed’ Agency”, in Alfred R. Mele (ed.), *Surrounding Free Will*, Oxford: Oxford University Press, pp. 95–112. doi: 10.1093/acprof: oso/9780199333950.003.0006
+* Björnsson, Gunnar and Derk Pereboom, 2016, “Traditional and Experimental Approaches to Free Will and Moral Responsibility”, in Sytsma and Buckwalter 2016: 142–157. doi: 10.1002/9781118661666.ch9
+* Bloomfield, Paul, 2000, “Virtue Epistemology and the Epistemology of Virtue”, *Philosophy and Phenomenological Research*, 60(1): 23–43. doi: 10.2307/2653426
+* –––, 2001, *Moral Reality*, New York: Oxford University Press. doi: 10.1093/0195137132.001.0001
+* –––, 2014, “Some Intellectual Aspects of the Cardinal Virtues”, in *Oxford Studies in Normative Ethics*, volume 3, Mark Timmons (ed.), pp. 287–313. doi: 10.1093/acprof: oso/9780199685905.003.0013
 * Boorse, Christopher, 1975, “On the Distinction between Disease and Illness”, *Philosophy and Public Affairs*, 5(1): 49–68.
 * Boyd, Richard, 1988, “How to Be a Moral Realist”, in Sayre-McCord 1988b: 181–228.
 * Brandt, Richard B., 1954, *Hopi Ethics: A Theoretical Analysis*, Chicago: The University of Chicago Press.
 * –––, 1959, *Ethical Theory: The Problems of Normative and Critical Ethics*, Englewood Cliff, NJ: Prentice-Hall.
-* Bratman, Michael E., 1996, “Identification, Decision, and Treating as a Reason”, *Philosophical Topics*, 24(2): 1–18. doi:10.5840/philtopics19962429
-* Brink, David Owen, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624612
+* Bratman, Michael E., 1996, “Identification, Decision, and Treating as a Reason”, *Philosophical Topics*, 24(2): 1–18. doi: 10.5840/philtopics19962429
+* Brink, David Owen, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511624612
 * Broad, C.D., 1930, *Five Types of Ethical Theory*, New York: Harcourt, Brace.
 * –––, 1950, “Egoism as a Theory of Human Motives”, *The Hibbert Journal*, 48: 105–114. Reprinted in his *Ethics and the History of Philosophy: Selected Essays*, London: Routledge and Kegan Paul, 1952, 218–231.
-* Cameron, C. Daryl, B. Keith Payne, and John M. Doris, 2013, “Morality in High Definition: Emotion Differentiation Calibrates the Influence of Incidental Disgust on Moral Judgments”, *Journal of Experimental Social Psychology*, 49(4): 719–725. doi:10.1016/j.jesp.2013.02.014
-* Campbell, C.A., 1951, “Is ‘Freewill’ a Pseudo-problem?” *Mind*, 60(240): 441–465. doi:10.1093/mind/LX.240.441
-* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199644865.001.0001
+* Cameron, C. Daryl, B. Keith Payne, and John M. Doris, 2013, “Morality in High Definition: Emotion Differentiation Calibrates the Influence of Incidental Disgust on Moral Judgments”, *Journal of Experimental Social Psychology*, 49(4): 719–725. doi: 10.1016/j.jesp.2013.02.014
+* Campbell, C.A., 1951, “Is ‘Freewill’ a Pseudo-problem?” *Mind*, 60(240): 441–465. doi: 10.1093/mind/LX.240.441
+* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199644865.001.0001
 * Cervone, Daniel and Yuichi Shoda (eds.), 1999, *The Coherence of Personality: Social-Cognitive Bases of Consistency, Variability, and Organization*, New York and London: Guilford Press.
-* Chiesi, Harry L., George J. Spilich, and James F. Voss, 1979, “Acquisition of domain-related information in relation to high and low domain knowledge”, *Journal of verbal learning and verbal behavior*, 18(3): 257–273. doi:10.1016/S0022-5371(79)90146-4
-* Cialdini, Robert B., Stephanie L. Brown, Brian P. Lewis, Carol Luce and Stephen L. Neuberg, 1997, “Reinterpreting the Empathy-Altruism Relationship: When One into One Equals Oneness”, *Journal of Personality and Social Psychology*, 73(3), 481– 494. doi:10.1037/0022-3514.73.3.481
-* Cova, Florian and Yasuko Kitano, 2013, “Experimental Philosophy and the Compatibility of Free Will and Determinism: A Survey”, *Annals of the Japan Association for Philosophy of Science*, 22: 17–37. doi:10.4288/jafpos.22.0_17
-* Cova, Florian, Maxime Bertoux, Sacha Bourgeois-Gironde, and Bruno Dubois, 2012, “Judgments about Moral Responsibility and Determinism in Patients with Behavioural Variant of Frontotemporal Dementia: Still Compatibilists”, *Consciousness and Cognition*, 21(2): 851–864. doi:10.1016/j.concog.2012.02.004
-* Cuneo, Terence, 2014, *Speech and Morality: On the Metaethical Implications of Speaking*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712725.001.0001
-* Darley, John M. and C. Daniel Batson, 1973, “‘From Jerusalem to Jericho’: A Study of Situational and Dispositional Variables In Helping Behavior”, *Journal of Personality and Social Psychology*, 27(1): 100–108. doi:10.1037/h0034449
+* Chiesi, Harry L., George J. Spilich, and James F. Voss, 1979, “Acquisition of domain-related information in relation to high and low domain knowledge”, *Journal of verbal learning and verbal behavior*, 18(3): 257–273. doi: 10.1016/S0022-5371(79)90146-4
+* Cialdini, Robert B., Stephanie L. Brown, Brian P. Lewis, Carol Luce and Stephen L. Neuberg, 1997, “Reinterpreting the Empathy-Altruism Relationship: When One into One Equals Oneness”, *Journal of Personality and Social Psychology*, 73(3), 481– 494. doi: 10.1037/0022-3514.73.3.481
+* Cova, Florian and Yasuko Kitano, 2013, “Experimental Philosophy and the Compatibility of Free Will and Determinism: A Survey”, *Annals of the Japan Association for Philosophy of Science*, 22: 17–37. doi: 10.4288/jafpos.22.0_17
+* Cova, Florian, Maxime Bertoux, Sacha Bourgeois-Gironde, and Bruno Dubois, 2012, “Judgments about Moral Responsibility and Determinism in Patients with Behavioural Variant of Frontotemporal Dementia: Still Compatibilists”, *Consciousness and Cognition*, 21(2): 851–864. doi: 10.1016/j.concog.2012.02.004
+* Cuneo, Terence, 2014, *Speech and Morality: On the Metaethical Implications of Speaking*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198712725.001.0001
+* Darley, John M. and C. Daniel Batson, 1973, “‘From Jerusalem to Jericho’: A Study of Situational and Dispositional Variables In Helping Behavior”, *Journal of Personality and Social Psychology*, 27(1): 100–108. doi: 10.1037/h0034449
 * Decety, Jean and Thalia Wheatley (eds.), 2015, *The Moral Brain: A Multidisciplinary Perspective*, Cambridge, MA: MIT Press.
-* Deery, Oisin and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, *Philosophical Studies*, 174(5): 1255–1276. doi:10.1007/s11098-016-0754-8.
+* Deery, Oisin and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, *Philosophical Studies*, 174(5): 1255–1276. doi: 10.1007/s11098-016-0754-8.
 * Dennett, Daniel C., 1984, *Elbow Room: The Varieties of Free Will Worth Wanting*, Cambridge, MA: MIT Press.
 * DePaul, Michael, 1999, “Character Traits, Virtues, and Vices: Are There None?” in *Proceedings of the 20th World Congress of Philosophy, v. 1*, Bowling Green, OH: Philosophy Documentation Center, pp. 141–157.
-* Deutsch, Max, 2015, *The Myth of the Intuitive: Experimental Philosophy and Philosophical Method*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262028950.001.0001
-* Dixon, Thomas, 2008, *The Invention of Altruism: Making Moral Meanings in Victorian Britain*, Oxford: Oxford University Press. doi:10.5871/bacad/9780197264263.001.0001
+* Deutsch, Max, 2015, *The Myth of the Intuitive: Experimental Philosophy and Philosophical Method*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262028950.001.0001
+* Dixon, Thomas, 2008, *The Invention of Altruism: Making Moral Meanings in Victorian Britain*, Oxford: Oxford University Press. doi: 10.5871/bacad/9780197264263.001.0001
 * Donnellan, M. Brent, Richard E. Lucas, and William Fleeson (eds.), 2009, “Personality and Assessment at Age 40: Reflections on the Past Person-Situation Debate and Emerging Directions of Future Person-Situation Integration and Assessment at Age 40”, *Journal of Research in Personality*, special issue, 43(2): 117–290.
-* Doris, John M., 1998, “Persons, Situations, and Virtue Ethics”, *Noûs*, 32(4): 504–530. doi:10.1111/0029-4624.00136
-* –––, 2002, *Lack of Character: Personality and Moral Behavior*, New York: Cambridge University Press. doi:10.1017/CBO9781139878364
-* –––, 2005, “Précis” and “Replies: Evidence and Sensibility”, *Philosophy and Phenomenological Research*, 71(3): 632–5, 656–77. doi:10.1111/j.1933-1592.2005.tb00479.x
+* Doris, John M., 1998, “Persons, Situations, and Virtue Ethics”, *Noûs*, 32(4): 504–530. doi: 10.1111/0029-4624.00136
+* –––, 2002, *Lack of Character: Personality and Moral Behavior*, New York: Cambridge University Press. doi: 10.1017/CBO9781139878364
+* –––, 2005, “Précis” and “Replies: Evidence and Sensibility”, *Philosophy and Phenomenological Research*, 71(3): 632–5, 656–77. doi: 10.1111/j.1933-1592.2005.tb00479.x
 * –––, 2006, “Out of Character: On the Psychology of Excuses in the Criminal Law”, in H. LaFollette (ed.), *Ethics in Practice*, third edition, Oxford: Blackwell Publishing.
-* –––, 2010, “Heated Agreement: *Lack of Character* as *Being for the Good*”, *Philosophical Studies*, 148(1): 135–46. doi:10.1007/s11098-010-9507-2
-* –––, 2015, *Talking to Our Selves: Reflection, Ignorance, and Agency*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199570393.001.0001
+* –––, 2010, “Heated Agreement: *Lack of Character* as *Being for the Good*”, *Philosophical Studies*, 148(1): 135–46. doi: 10.1007/s11098-010-9507-2
+* –––, 2015, *Talking to Our Selves: Reflection, Ignorance, and Agency*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199570393.001.0001
 * –––, forthcoming, *Character Trouble: Undisciplined Essays on Personality and Agency*, Oxford: Oxford University Press.
 * –––, in preparation, “Making Good: In Search of Moral Expertise”.
 * Doris, John M. and Alexandra Plakias, 2008, “How to Argue about Disagreement: Evaluative Diversity and Moral Realism”, in Sinnott-Armstrong 2008b: 303–353.
 * Doris, John M. and Jesse J. Prinz, 2009, “Review of K. Anthony Appiah, *Experiments in Ethics*”, *Notre Dame Philosophical Reviews*, 2009-10-03. URL = <http://ndpr.nd.edu/news/experiments-in-ethics/>
-* Doris, John M. and The Moral Psychology Research Group (eds.)., 2010, *The Moral Psychology Handbook*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199582143.001.0001
+* Doris, John M. and The Moral Psychology Research Group (eds.)., 2010, *The Moral Psychology Handbook*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199582143.001.0001
 * Doris, John M. and Stephen P. Stich, 2005, “As a Matter of Fact: Empirical Perspectives on Ethics”, in Frank Jackson and Michael Smith (eds.), *The Oxford Handbook of Contemporary Philosophy*, Oxford: Oxford University Press.
-* Dunker, Karl, 1939, “Ethical Relativity? (An Enquiry into the Psychology of Ethics)”, *Mind*, 48(189): 39–53. doi:10.1093/mind/XLVIII.189.39
+* Dunker, Karl, 1939, “Ethical Relativity? (An Enquiry into the Psychology of Ethics)”, *Mind*, 48(189): 39–53. doi: 10.1093/mind/XLVIII.189.39
 * Ellsworth, Phoebe C., 1994, “Sense, Culture, and Sensibility”, in Shinobu Kitayama and Hazel Rose Markus (eds.), *Emotion and Culture: Empirical Studies of Mutual Influence*, Washington: American Psychological Association.
-* Enoch, David, 2009, “How is Moral Disagreement a Problem for Realism?” *The Journal of Ethics*, 13(1): 15–50. doi:10.1007/s10892-008-9041-z.
-* –––, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
-* Ericsson, K. Anders, 2014, “Why Expert Performance Is Special and Cannot Be Extrapolated From Studies of Performance in the General Population: A Response to Criticisms”, *Intelligence*, 45: 81–103. doi:10.1016/j.intell.2013.12.001
-* Ericsson, K. Anders, Ralf Th. Krampe, and Clemens Tesch-Römer, 1993, “The Role of Deliberate Practice in the Acquisition of Expert Performance”, *Psychological Review*, 100(3): 363–406. doi:10.1037/0033-295X.100.3.363
+* Enoch, David, 2009, “How is Moral Disagreement a Problem for Realism?” *The Journal of Ethics*, 13(1): 15–50. doi: 10.1007/s10892-008-9041-z.
+* –––, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199579969.001.0001
+* Ericsson, K. Anders, 2014, “Why Expert Performance Is Special and Cannot Be Extrapolated From Studies of Performance in the General Population: A Response to Criticisms”, *Intelligence*, 45: 81–103. doi: 10.1016/j.intell.2013.12.001
+* Ericsson, K. Anders, Ralf Th. Krampe, and Clemens Tesch-Römer, 1993, “The Role of Deliberate Practice in the Acquisition of Expert Performance”, *Psychological Review*, 100(3): 363–406. doi: 10.1037/0033-295X.100.3.363
 * Feinberg, Joel, 1965 [1999], “Psychological Egoism”, in *Reason and Responsibility*, Joel Feinberg (ed.), Belmont, CA: Dickenson Publishing. Reprinted in various editions including the tenth, co-edited with Russ Shafer-Landau, Belmont, CA: Wadsworth, 1999. Based on materials composed for philosophy students at Brown University, 1958.
-* Feltz, Adam and Florian Cova, 2014, “Moral Responsibility and Free Will: A Meta-Analysis”, *Consciousness and Cognition*, 30: 234–246. doi:10.1016/j.concog.2014.08.012
-* Feltz, Adam and Melissa Millan, 2013, “An Error Theory for Compatibilist Intuitions”, *Philosophical Psychology*, 28(4): 529–555. doi:10.1080/09515089.2013.865513
-* Figdor, Carrie and Mark Phelan, 2015, “Is Free Will Necessary for Moral Responsibility? A Case for Rethinking Their Relationship and the Design of Experimental Studies in Moral Psychology”, *Mind and Language*, 30(5): 603–627. doi:10.1111/mila.12092
+* Feltz, Adam and Florian Cova, 2014, “Moral Responsibility and Free Will: A Meta-Analysis”, *Consciousness and Cognition*, 30: 234–246. doi: 10.1016/j.concog.2014.08.012
+* Feltz, Adam and Melissa Millan, 2013, “An Error Theory for Compatibilist Intuitions”, *Philosophical Psychology*, 28(4): 529–555. doi: 10.1080/09515089.2013.865513
+* Figdor, Carrie and Mark Phelan, 2015, “Is Free Will Necessary for Moral Responsibility? A Case for Rethinking Their Relationship and the Design of Experimental Studies in Moral Psychology”, *Mind and Language*, 30(5): 603–627. doi: 10.1111/mila.12092
 * Fischer, John Martin, 1994, *The Metaphysics of Free Will*, Oxford: Blackwell.
 * Flanagan, Owen, 1991, *Varieties of Moral Personality: Ethics and Psychological Realism*, Cambridge, MA: Harvard University Press.
 * –––, 2009, “Moral Science? Still Metaphysical After All These Years”, in Darcia Narvaez and Daniel K. Lapsley (eds.), *Personality, Identity, and Character*, Cambridge: Cambridge University Press, pp. 52–78.
 * Frankfurt, Harry, 1988, *The Importance of What We Care About*, Cambridge: Cambridge University Press.
-* Fraser, Ben and Marc Hauser, 2010, “The Argument from Disagreement and the Role of Cross-Cultural Empirical Data”, *Mind and Language*, 25(5): 541–560. doi:10.1111/j.1468-0017.2010.01400.x
+* Fraser, Ben and Marc Hauser, 2010, “The Argument from Disagreement and the Role of Cross-Cultural Empirical Data”, *Mind and Language*, 25(5): 541–560. doi: 10.1111/j.1468-0017.2010.01400.x
 * Fulford, K.W.M., 1989, *Moral Theory and Medical Practice*, Cambridge: Cambridge University Press.
-* Gigerenzer, Gerd, 2000, *Adaptive Thinking: Rationality in the Real World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195153729.001.0001
+* Gigerenzer, Gerd, 2000, *Adaptive Thinking: Rationality in the Real World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195153729.001.0001
 * Gigerenzer, Gerd, Peter M. Todd, and the ABC Research Group., 1999, *Simple Heuristics that Make Us Smart*, New York: Oxford University Press.
 * Gilovich, Thomas, Dale W. Griffin, and Daniel Kahneman (eds.), 2002, *Heuristics and Biases: The Psychology of Intuitive Judgment*, New York: Cambridge University Press.
 * Glickman, Mark E., 1995, “A Comprehensive Guide to Chess Ratings”, *American Chess Journal*, 3: 59–102.
 * Goldman, Alvin I., 1970, *A Theory of Human Action*, Englewood-Cliffs, NJ: Prentice-Hall.
-* Haidt, Jonathan, Silvia Helena Koller, and Maria G. Dias, 1993, “Affect, Culture, and Morality, Or Is It Wrong to Eat Your Dog?” *Journal of Personality and Social Psychology*, 65(4): 613–28. doi:10.1037/0022-3514.65.4.613
+* Haidt, Jonathan, Silvia Helena Koller, and Maria G. Dias, 1993, “Affect, Culture, and Morality, Or Is It Wrong to Eat Your Dog?” *Journal of Personality and Social Psychology*, 65(4): 613–28. doi: 10.1037/0022-3514.65.4.613
 * Haji, Ishtiyaque, 2002, “Compatiblist Views of Freedom and Responsibility”, in Robert Kane (ed.), *The Oxford Handbook of Free Will*, New York: Oxford University Press.
-* Hambrick, David Z., Frederick L. Oswald, Erik M. Altmann, Elizabeth J. Meinz, Fernand Gobet, and Guillermo Campitelli, 2014, “Deliberate Practice: Is That All It Takes to Become an Expert?” *Intelligence*, 45: 34–45. doi:10.1016/j.intell.2013.04.001
+* Hambrick, David Z., Frederick L. Oswald, Erik M. Altmann, Elizabeth J. Meinz, Fernand Gobet, and Guillermo Campitelli, 2014, “Deliberate Practice: Is That All It Takes to Become an Expert?” *Intelligence*, 45: 34–45. doi: 10.1016/j.intell.2013.04.001
 * Harman, Gilbert, 1999, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error”, *Proceedings of the Aristotelian Society*, 99: 315–331.
-* –––, 2000, “The Nonexistence of Character Traits”, *Proceedings of the Aristotelian Society*, 100: 223–226. doi:10.1111/j.0066-7372.2003.00013.x
-* –––, 2009, “Skepticism about Character Traits”, *The Journal of Ethics*, 13(2–3): 235–242. doi:10.1007/s10892-009-9050-6
+* –––, 2000, “The Nonexistence of Character Traits”, *Proceedings of the Aristotelian Society*, 100: 223–226. doi: 10.1111/j.0066-7372.2003.00013.x
+* –––, 2009, “Skepticism about Character Traits”, *The Journal of Ethics*, 13(2–3): 235–242. doi: 10.1007/s10892-009-9050-6
 * Heine, Steven J., 2008, *Cultural Psychology*, New York: W.W. Norton.
-* Helzer, Erik G. and David A. Pizarro, 2011, “Dirty Liberals! Reminders of Physical Cleanliness Influence Moral and Political Attitudes”, *Psychological Science*, 22(4): 517–522. doi:10.1177/0956797611402514
+* Helzer, Erik G. and David A. Pizarro, 2011, “Dirty Liberals! Reminders of Physical Cleanliness Influence Moral and Political Attitudes”, *Psychological Science*, 22(4): 517–522. doi: 10.1177/0956797611402514
 * Henrich, Joseph, 2015, *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton, NJ: Princeton University Press.
 * Hobbes, Thomas, 1651 [1981], *Leviathan: Edited with an Introduction by C.B. Macpherson*, London: Penguin Books.
 * Horowitz, Tamara, 1998, “Philosophical Intuitions and Psychological Theory”, in Michael R. DePaul and William Ramsey (eds.), *Rethinking Intuition: The Psychology of Intuition and its Role in Philosophical Inquiry*, Lanham, Maryland: Rowman and Littlefield.
-* Hursthouse, Rosalind, 1999, *On Virtue Ethics*, Oxford and New York: Oxford University Press. doi:10.1093/0199247994.001.0001
-* Isen, Alice M. and Paula F. Levin, 1972, “Effect of Feeling Good on Helping: Cookies and Kindness”, *Journal of Personality and Social Psychology*, 21(3): 384–388. doi:10.1037/h0032317
-* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defense of Conceptual Analysis*, New York: Oxford University Press. doi:10.1093/0198250614.001.0001
-* Jackson, Frank and Philip Pettit, 1995, “Moral Functionalism and Moral Motivation”, *Philosophical Quarterly*, 45(178): 20–40. doi:10.2307/2219846
-* Jacobson, Daniel, 2005, “Seeing By Feeling: Virtues, Skills, and Moral Perception”, *Ethical Theory and Moral Practice*, 8(4): 387–409. doi:10.1007/s10677-005-8837-1
+* Hursthouse, Rosalind, 1999, *On Virtue Ethics*, Oxford and New York: Oxford University Press. doi: 10.1093/0199247994.001.0001
+* Isen, Alice M. and Paula F. Levin, 1972, “Effect of Feeling Good on Helping: Cookies and Kindness”, *Journal of Personality and Social Psychology*, 21(3): 384–388. doi: 10.1037/h0032317
+* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defense of Conceptual Analysis*, New York: Oxford University Press. doi: 10.1093/0198250614.001.0001
+* Jackson, Frank and Philip Pettit, 1995, “Moral Functionalism and Moral Motivation”, *Philosophical Quarterly*, 45(178): 20–40. doi: 10.2307/2219846
+* Jacobson, Daniel, 2005, “Seeing By Feeling: Virtues, Skills, and Moral Perception”, *Ethical Theory and Moral Practice*, 8(4): 387–409. doi: 10.1007/s10677-005-8837-1
 * Joyce, Richard, 2006, *The Evolution of Morality*, Cambridge, MA: MIT Press.
 * Kahneman, Daniel, 2011, *Thinking, Fast and Slow*, New York: Farrar, Straus and Giroux.
-* Kahneman, Daniel, Paul Slovic, and Amos Tversky, 1982, *Judgment Under Uncertainty: Heuristics and Biases*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511809477
-* Kamtekar, Rachana, 2004, “Situationism and Virtue Ethics on the Content of Our Character”, *Ethics*, 114(3): 458–91. doi:10.1086/381696
-* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi:10.1093/0195126564.001.0001
-* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, *Journal of Philosophy*, 96(5): 217–240. doi:10.5840/jphil199996537
+* Kahneman, Daniel, Paul Slovic, and Amos Tversky, 1982, *Judgment Under Uncertainty: Heuristics and Biases*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511809477
+* Kamtekar, Rachana, 2004, “Situationism and Virtue Ethics on the Content of Our Character”, *Ethics*, 114(3): 458–91. doi: 10.1086/381696
+* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi: 10.1093/0195126564.001.0001
+* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, *Journal of Philosophy*, 96(5): 217–240. doi: 10.5840/jphil199996537
 * –––, 2002, “Introduction: The Contours of Contemporary Free Will Debates”, in Robert Kane (ed.), *The Oxford Handbook of Free Will*, New York: Oxford University Press.
 * Kant, Immanuel, 1785 [1949], *Fundamental Principles of the Metaphysics of Morals*, Translated by Thomas K. Abbott. Englewood Cliffs, NJ: Prentice Hall / Library of Liberal Arts.
 * Kitayama, Shinobu and Hazel Rose Markus, 1999, “Yin and Yang of the Japanese Self: The Cultural Psychology of Personality Coherence”, in Cervone and Shoda 1999: ch. 8.
 * Kitayama, Shinobu and Dov Cohen, 2010, *Handbook of Cultural Psychology*, New York: Guilford Press.
-* Kitcher, Philip, 2010, “Varieties of Altruism”, *Economics and Philosophy*, 26(2): 121–148. doi:10.1017/S0266267110000167
+* Kitcher, Philip, 2010, “Varieties of Altruism”, *Economics and Philosophy*, 26(2): 121–148. doi: 10.1017/S0266267110000167
 * –––, 2011, *The Ethical Project*, Cambridge, MA: Harvard University Press.
-* Knobe, Joshua, 2003a, “Intentional Action and Side Effects in Ordinary Language”, *Analysis*, 63(279): 190–193. doi:10.1111/1467-8284.00419
-* –––, 2003b, “Intentional Action in Folk Psychology: An Experimental Investigation”, *Philosophical Psychology*, 16(2): 309–324. doi:10.1080/09515080307771
-* –––, 2006, “The Concept of Intentional Action: A Case Study in the Uses of Folk Psychology”, *Philosophical Studies*, 130(2): 203–231. doi:10.1007/s11098-004-4510-0
-* –––, 2010, “Person as Scientist, Person as Moralist”, *Behavioral and Brain Sciences*, 33(4): 315–329. doi:10.1017/S0140525X10000907
+* Knobe, Joshua, 2003a, “Intentional Action and Side Effects in Ordinary Language”, *Analysis*, 63(279): 190–193. doi: 10.1111/1467-8284.00419
+* –––, 2003b, “Intentional Action in Folk Psychology: An Experimental Investigation”, *Philosophical Psychology*, 16(2): 309–324. doi: 10.1080/09515080307771
+* –––, 2006, “The Concept of Intentional Action: A Case Study in the Uses of Folk Psychology”, *Philosophical Studies*, 130(2): 203–231. doi: 10.1007/s11098-004-4510-0
+* –––, 2010, “Person as Scientist, Person as Moralist”, *Behavioral and Brain Sciences*, 33(4): 315–329. doi: 10.1017/S0140525X10000907
 * –––, 2014, “Free Will and the Scientific Vision”, in Edouard Machery and Elizabeth O’Neill (eds.), *Current Controversies in Experimental Philosophy*, New York and London: Routledge.
 * Knobe, Joshua and Brian Leiter, 2007, “The Case for Nietzschean Moral Psychology”, in Brian Leiter and Neil Sinhababu (eds.) *Nietzsche and Morality*, Oxford: Oxford University Press. 83–109.
-* Kruger, Justin and David Dunning, 1999, “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments”, *Journal of Personality and Social Psychology*, 77(6): 1121–1134. doi:10.1037/0022-3514.77.6.1121
-* Kupperman, Joel J., 2001, “The Indispensability of Character”, *Philosophy*, 76(02): 239–50. doi:10.1017/S0031819101000250
+* Kruger, Justin and David Dunning, 1999, “Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments”, *Journal of Personality and Social Psychology*, 77(6): 1121–1134. doi: 10.1037/0022-3514.77.6.1121
+* Kupperman, Joel J., 2001, “The Indispensability of Character”, *Philosophy*, 76(02): 239–50. doi: 10.1017/S0031819101000250
 * Ladd, John, 1957, *The Structure of a Moral Code: A Philosophical Analysis of Ethical Discourse Applied to the Ethics of the Navaho Indians*, Cambridge, MA: Harvard University Press.
 * LaFollette, Hugh (ed.), 2000, *The Blackwell Guide to Ethical Theory*, Oxford: Blackwell Publishing.
-* Leikas, Sointu, Jan-Erik Lönnqvist, and Markku Verkasalo, 2012, “Persons, Situations, and Behaviors: Consistency and Variability of Different Behaviors in Four Interpersonal Situations”, *Journal of Personality and Social Psychology*, 103(6): 1007–1022. doi:10.1037/a0030385
-* Lerner, Jennifer S., Julie H. Goldberg, and Philip E. Tetlock, 1998, “Sober Second Thought: The Effects of Accountability, Anger, and Authoritarianism on Attributions of Responsibility”, *Personality and Social Psychology Bulletin*, 24(6): 563–574. doi:10.1177/0146167298246001
+* Leikas, Sointu, Jan-Erik Lönnqvist, and Markku Verkasalo, 2012, “Persons, Situations, and Behaviors: Consistency and Variability of Different Behaviors in Four Interpersonal Situations”, *Journal of Personality and Social Psychology*, 103(6): 1007–1022. doi: 10.1037/a0030385
+* Lerner, Jennifer S., Julie H. Goldberg, and Philip E. Tetlock, 1998, “Sober Second Thought: The Effects of Accountability, Anger, and Authoritarianism on Attributions of Responsibility”, *Personality and Social Psychology Bulletin*, 24(6): 563–574. doi: 10.1177/0146167298246001
 * Lewis, David, 1989, “Dispositional Theories of Value”, *Proceedings of the Aristotelian Society*, 63 (supp): 113–37.
-* Liao, S. Matthew, Alex Wiegmann, Joshua Alexander, and Gerard Vong, 2012, “Putting the Trolley in Order: Experimental Philosophy and the Loop Case”, *Philosophical Psychology*, 25(5): 661–671. doi:10.1080/09515089.2011.627536
-* Loeb, Don., 1998, “Moral Realism and the Argument from Disagreement”, *Philosophical Studies*, 90(3): 281–303. doi:10.1023/A:1004267726440
-* Machery, Edouard, 2010, “The Bleak Implications of Moral Psychology”, *Neuroethics*, 3(3): 223–231. doi:10.1007/s12152-010-9063-7
+* Liao, S. Matthew, Alex Wiegmann, Joshua Alexander, and Gerard Vong, 2012, “Putting the Trolley in Order: Experimental Philosophy and the Loop Case”, *Philosophical Psychology*, 25(5): 661–671. doi: 10.1080/09515089.2011.627536
+* Loeb, Don., 1998, “Moral Realism and the Argument from Disagreement”, *Philosophical Studies*, 90(3): 281–303. doi: 10.1023/A: 1004267726440
+* Machery, Edouard, 2010, “The Bleak Implications of Moral Psychology”, *Neuroethics*, 3(3): 223–231. doi: 10.1007/s12152-010-9063-7
 * Machery, Edouard and John M. Doris, forthcoming, “An Open Letter to Our Students: Going Interdisciplinary”, in Voyer and Tarantola forthcoming.
 * MacIntyre, Alasdair, 1967, “Egoism and Altruism”, in Paul Edwards (ed.), *The Encyclopedia of Philosophy*, vol. 2, first edition, New York: Macmillan, pp. 462–466.
 * Mackie, J.L., 1977, *Ethics: Inventing Right and Wrong*, New York: Penguin Books.
-* Macnamara, Brooke N., David Z. Hambrick, and Frederick L. Oswald, 2014, “Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis”, *Psychological Science*, 25(8): 1608–1618. doi:10.1177/0956797614535810
-* Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation”, *Psychological Review*, 98(2): 224–253. doi:10.1037/0033-295X.98.2.224
+* Macnamara, Brooke N., David Z. Hambrick, and Frederick L. Oswald, 2014, “Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis”, *Psychological Science*, 25(8): 1608–1618. doi: 10.1177/0956797614535810
+* Markus, Hazel R. and Shinobu Kitayama, 1991, “Culture and the Self: Implications for Cognition, Emotion, and Motivation”, *Psychological Review*, 98(2): 224–253. doi: 10.1037/0033-295X.98.2.224
 * May, Joshua, 2011a, “Psychological Egoism”, *Internet Encyclopedia of Philosophy*.. URL = <https://www.iep.utm.edu/psychego/>
-* –––, 2011b, “Egoism, Empathy, and Self-Other Merging”, *Southern Journal of Philosophy*, 49(s1): 25–39. doi:10.1111/j.2041-6962.2011.00055.x
-* –––, 2011c, “Relational Desires and Empirical Evidence against Psychological Egoism: On Psychological Egoism”, *European Journal of Philosophy*, 19(1): 39–58. doi:10.1111/j.1468-0378.2009.00379.x
+* –––, 2011b, “Egoism, Empathy, and Self-Other Merging”, *Southern Journal of Philosophy*, 49(s1): 25–39. doi: 10.1111/j.2041-6962.2011.00055.x
+* –––, 2011c, “Relational Desires and Empirical Evidence against Psychological Egoism: On Psychological Egoism”, *European Journal of Philosophy*, 19(1): 39–58. doi: 10.1111/j.1468-0378.2009.00379.x
 * McGrath, Sarah, 2008, “Moral Disagreement and Moral Expertise”, in *Oxford Studies in Metaethics*, volume 3, Russ Shafer-Landau (ed.), New York: Oxford University Press, pp. 87–108.
-* –––, 2011, “Skepticism about Moral Expertise as a Puzzle for Moral Realism”, *Journal of Philosophy*, 108(3): 111–137. doi:10.5840/jphil201110837
-* Mehl, Matthias R., Kathryn L. Bollich, John M. Doris, and Simine Vazire, 2015, “Character and Coherence: Testing the Stability of Naturalistically Observed Daily Moral Behavior”, in Miller et al. 2015: 630–51. doi:10.1093/acprof:oso/9780190204600.003.0030
-* Mele, Alfred R., 2006, *Free Will and Luck*, New York: Oxford University Press. doi:10.1093/0195305043.001.0001
-* –––, 2013, “Manipulation, Moral Responsibility, and Bullet Biting”, *Journal of Ethics*, 17(3): 167–84. doi:10.1007/s10892-013-9147-9
-* Merritt, Maria W., 2000, “Virtue Ethics and Stuationist Personality Psychology”, *Ethical Theory and Moral Practice*, 3(4): 365–83. doi:10.1023/A:1009926720584
-* –––, 2009, “Aristotelean Virtue and the Interpersonal Aspect of Ethical Character”, *Journal of Moral Philosophy*, 6(1): 23–49. doi:10.1163/174552409X365919
+* –––, 2011, “Skepticism about Moral Expertise as a Puzzle for Moral Realism”, *Journal of Philosophy*, 108(3): 111–137. doi: 10.5840/jphil201110837
+* Mehl, Matthias R., Kathryn L. Bollich, John M. Doris, and Simine Vazire, 2015, “Character and Coherence: Testing the Stability of Naturalistically Observed Daily Moral Behavior”, in Miller et al. 2015: 630–51. doi: 10.1093/acprof: oso/9780190204600.003.0030
+* Mele, Alfred R., 2006, *Free Will and Luck*, New York: Oxford University Press. doi: 10.1093/0195305043.001.0001
+* –––, 2013, “Manipulation, Moral Responsibility, and Bullet Biting”, *Journal of Ethics*, 17(3): 167–84. doi: 10.1007/s10892-013-9147-9
+* Merritt, Maria W., 2000, “Virtue Ethics and Stuationist Personality Psychology”, *Ethical Theory and Moral Practice*, 3(4): 365–83. doi: 10.1023/A: 1009926720584
+* –––, 2009, “Aristotelean Virtue and the Interpersonal Aspect of Ethical Character”, *Journal of Moral Philosophy*, 6(1): 23–49. doi: 10.1163/174552409X365919
 * Meritt, Maria W., John M. Doris, and Gilbert Harman, 2010, “Character”, in Doris et al. 2010: 355–401.
 * Milgram, Stanley, 1974, *Obedience to Authority*, New York: Harper and Row.
-* Miller, Christian B., 2003, “Social Psychology and Virtue Ethics”, *The Journal of Ethics*, 7(4): 365–92. doi:10.1023/A:1026136703565
-* –––, 2013, *Moral Character: An Empirical Theory*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199674350.001.0001
-* –––, 2014, *Character and Moral Psychology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199674367.001.0001
-* Miller, Christian B., R. Michael Furr, Angela Knobel, and William Fleeson (eds.), 2015, *Character: New Directions from Philosophy, Psychology, and Theology*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190204600.001.0001
+* Miller, Christian B., 2003, “Social Psychology and Virtue Ethics”, *The Journal of Ethics*, 7(4): 365–92. doi: 10.1023/A: 1026136703565
+* –––, 2013, *Moral Character: An Empirical Theory*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199674350.001.0001
+* –––, 2014, *Character and Moral Psychology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199674367.001.0001
+* Miller, Christian B., R. Michael Furr, Angela Knobel, and William Fleeson (eds.), 2015, *Character: New Directions from Philosophy, Psychology, and Theology*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190204600.001.0001
 * Mischel, Walter, 1968, *Personality and Assessment*, New York: John J. Wiley and Sons.
 * –––, 1999, “Personality Coherence and Dispositions in a Cognitive-Affective Personality System (CAPS) Approach”, in Cervone and Shoda 1999: ch. 2.
-* Montmarquet, James, 2003, “Moral Character and Social Science Research”, *Philosophy*, 78(03): 355–368. doi:10.1017/S0031819103000342
+* Montmarquet, James, 2003, “Moral Character and Social Science Research”, *Philosophy*, 78(03): 355–368. doi: 10.1017/S0031819103000342
 * Moody-Adams, Michele M., 1997, *Fieldwork in Familiar Places: Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
 * Murphy, Dominic, 2006, *Psychiatry in the Scientific Image*, Cambridge, MA: MIT Press.
-* Murray, Dylan and Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi:10.1111/j.1933-1592.2012.00609.x
+* Murray, Dylan and Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi: 10.1111/j.1933-1592.2012.00609.x
 * Murray, Dylan and Tania Lombrozo, 2016, “Effects of Manipulation on Attributions of Causation, Free Will, and Moral Responsibility”, *Cognitive Science*, 41(2): 447–481. doi: 10.1111/cogs.12338.
-* Nado, Jennifer, 2016, “The Intuition Deniers”, *Philosophical Studies*, 173(3): 781–800. doi:10.1007/s11098-015-0519-9.
+* Nado, Jennifer, 2016, “The Intuition Deniers”, *Philosophical Studies*, 173(3): 781–800. doi: 10.1007/s11098-015-0519-9.
 * Nagel, Thomas, 1970, *The Possibility of Altruism*, Oxford: Oxford University Press.
 * –––, 1986, *The View From Nowhere*, New York and Oxford: Oxford University Press.
 * Nahmias, Eddy, 2011, “Intuitions about Free Will, Determinism, and Bypassing”, in Robert Kane (ed.), *The Oxford Handbook of Free Will*, second edition, Oxford: Oxford University Press.
-* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2009, “Is Incompatiblism Intuitive?” *Philosophy and Phenomenological Research*, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
-* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions”, *Noûs*, 41(4): 663–685. doi:10.1111/j.1468-0068.2007.00666.x
+* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2009, “Is Incompatiblism Intuitive?” *Philosophy and Phenomenological Research*, 73(1): 28–53. doi: 10.1111/j.1933-1592.2006.tb00603.x
+* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions”, *Noûs*, 41(4): 663–685. doi: 10.1111/j.1468-0068.2007.00666.x
 * Nisbett, Richard E., 1998, “Essence and Accident”, in John M. Darley and Joel Cooper (eds.), *Attribution and Social Interaction: The Legacy of Edward E. Jones*, Washington: American Psychological Association.
 * –––, 2003, *The Geography of Thought: How Asians and Westerners Think Differently … and Why*, New York: Free Press.
-* Nisbett, Richard E. and Eugene Borgida, 1975, “Attribution and the psychology of prediction”, *Journal of Personality and Social Psychology*, 32(5): 932–943. doi:10.1037/0022-3514.32.5.932
+* Nisbett, Richard E. and Eugene Borgida, 1975, “Attribution and the psychology of prediction”, *Journal of Personality and Social Psychology*, 32(5): 932–943. doi: 10.1037/0022-3514.32.5.932
 * Nisbett, Richard E. and Dov Cohen, 1996, *Culture of Honor: The Psychology of Violence in the South*, Boulder, CO: Westview Press.
 * Nisbett, Richard E. and Lee Ross, 1980, *Human Inference: Strategies and Shortcomings of Social Judgment*, Englewood Cliffs, NJ: Prentice-Hall.
-* O’Connor, Timothy, 2000, *Persons and Causes: The Metaphysics of Free Will*, New York: Oxford University Press. doi:10.1093/019515374X.001.0001
-* Olin, Lauren and John M. Doris, 2014, “Vicious Minds: Virtue Epistemology, Cognition, and Skepticism”, *Philosophical Studies*, 168(3): 665–92. doi:10.1007/s11098-013-0153-3
-* Pereboom, Derk, 2001, *Living Without Free Will*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498824
-* –––, 2014, *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
-* Petrinovich, Lewis and Patricia O’Neill, 1996, “Influence of Wording and Framing Effects on Moral Intuitions”, *Ethology and Sociobiology*, 17(3): 145–171. doi:10.1016/0162-3095(96)00041-6
-* Phillips, Jonathan and Alex Shaw, 2014, “Manipulating Morality: Third-Party Intentions Alter Moral Judgments by Changing Causal Reasoning”, *Cognitive Science*, 39(6): 1320–47. doi:10.1111/cogs.12194
-* Pink, Thomas, 2004, *Free Will: A Very Short Introduction*, New York: Oxford University Press. doi:10.1093/actrade/9780192853585.001.0001
-* Prinz, Jesse J., 2009, “The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics”, *The Journal of Ethics*, 13(2–3): 117–144. doi:10.1007/s10892-009-9053-3
+* O’Connor, Timothy, 2000, *Persons and Causes: The Metaphysics of Free Will*, New York: Oxford University Press. doi: 10.1093/019515374X.001.0001
+* Olin, Lauren and John M. Doris, 2014, “Vicious Minds: Virtue Epistemology, Cognition, and Skepticism”, *Philosophical Studies*, 168(3): 665–92. doi: 10.1007/s11098-013-0153-3
+* Pereboom, Derk, 2001, *Living Without Free Will*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498824
+* –––, 2014, *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199685516.001.0001
+* Petrinovich, Lewis and Patricia O’Neill, 1996, “Influence of Wording and Framing Effects on Moral Intuitions”, *Ethology and Sociobiology*, 17(3): 145–171. doi: 10.1016/0162-3095(96)00041-6
+* Phillips, Jonathan and Alex Shaw, 2014, “Manipulating Morality: Third-Party Intentions Alter Moral Judgments by Changing Causal Reasoning”, *Cognitive Science*, 39(6): 1320–47. doi: 10.1111/cogs.12194
+* Pink, Thomas, 2004, *Free Will: A Very Short Introduction*, New York: Oxford University Press. doi: 10.1093/actrade/9780192853585.001.0001
+* Prinz, Jesse J., 2009, “The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics”, *The Journal of Ethics*, 13(2–3): 117–144. doi: 10.1007/s10892-009-9053-3
 * Pust, Joel, 2000, *Intuitions as Evidence*, New York: Garland Publishing.
 * Rachels, James, 2000, “Naturalism”, in LaFollette 2000: 74–91.
 * –––, 2003, *The Elements of Moral Philosophy*, fourth edition, New York: McGraw-Hill.
-* Railton, Peter, 1986a, “Facts and Values”, *Philosophical Topics*, 14(2): 5–31. doi:10.5840/philtopics19861421
-* –––, 1986b, “Moral Realism”, *Philosophical Review*, 95(2): 163–207. doi:10.2307/2185589
-* Rawls, John, 1951, “Outline of a Decision Procedure for Ethics”, *Philosophical Review*, 60(2): 177–97. doi:10.2307/2181696
+* Railton, Peter, 1986a, “Facts and Values”, *Philosophical Topics*, 14(2): 5–31. doi: 10.5840/philtopics19861421
+* –––, 1986b, “Moral Realism”, *Philosophical Review*, 95(2): 163–207. doi: 10.2307/2185589
+* Rawls, John, 1951, “Outline of a Decision Procedure for Ethics”, *Philosophical Review*, 60(2): 177–97. doi: 10.2307/2181696
 * –––, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Rosati, Connie S., 1995, “Persons, Perspectives, and Full Information Accounts of the Good”, *Ethics*, 105(2): 296–325. doi:10.1086/293702
-* Rose, David and Shaun Nichols, 2013, “The Lesson of Bypassing”, *Review of Philosophy and Psychology*, 4(4): 599–619. doi:10.1007/s13164-013-0154-3
+* Rosati, Connie S., 1995, “Persons, Perspectives, and Full Information Accounts of the Good”, *Ethics*, 105(2): 296–325. doi: 10.1086/293702
+* Rose, David and Shaun Nichols, 2013, “The Lesson of Bypassing”, *Review of Philosophy and Psychology*, 4(4): 599–619. doi: 10.1007/s13164-013-0154-3
 * Ross, Lee and Richard E. Nisbett, 1991, *The Person and the Situation: Perspectives of Social Psychology*, Philadelphia: Temple University Press.
-* Russell, Daniel C., 2009, *Practical Intelligence and the Virtues*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199565795.001.0001
+* Russell, Daniel C., 2009, *Practical Intelligence and the Virtues*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199565795.001.0001
 * –––, 2015, “From Personality to Character to Virtue”, in Mark Alfano (ed.), *Current Controversies in Virtue Theory*, New York: Routledge, pp. 91–106.
-* Samuels, Richard and Stephen Stich, 2002, “Rationality”, *Encyclopedia of Cognitive Science*, Chichester: Wiley. doi:10.1002/0470018860.s00171
-* Samuels, Steven M. and William D. Casebeer, 2005, “A social psychological view of morality: Why knowledge of situational influences on behaviour can improve character development practices”, *Journal of Moral Education*, 34(1): 73–87. doi:10.1080/03057240500049349
+* Samuels, Richard and Stephen Stich, 2002, “Rationality”, *Encyclopedia of Cognitive Science*, Chichester: Wiley. doi: 10.1002/0470018860.s00171
+* Samuels, Steven M. and William D. Casebeer, 2005, “A social psychological view of morality: Why knowledge of situational influences on behaviour can improve character development practices”, *Journal of Moral Education*, 34(1): 73–87. doi: 10.1080/03057240500049349
 * Sarkissian, Hagop, 2010, “Minor Tweaks, Major Payoffs: The Problems and Promise of Situationism in Moral Philosophy”, *Philosophers’ Imprint*, 10(9). URL = <http://hdl.handle.net/2027/spo.3521354.0010.009>
 * Sarkissian, Hagop and Jennifer Cole Wright (eds.)., 2014, *Advances in Experimental Moral Psychology*, London: Bloomsbury Press.
 * Sayre-McCord, Geoffrey, 1988a, “Introduction: The Many Moral Realisms”, in Sayre-McCord 1988b: 1–24.
 * ––– (ed.), 1988b, *Essays in Moral Realism*, Ithaca and London: Cornell University Press.
 * –––, 2015, “Moral Realism”, *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2015/entries/moral-realism/>
-* Schnall, Simone, Jonathan Haidt, Gerald L. Clore, and Alexander H. Jordan, 2008a, “Disgust as Embodied Moral Judgment”, *Personality and Social Psychology Bulletin*, 34(8): 1069–1109. doi:10.1177/0146167208317771
-* Schnall, Simone, Jennifer Benton, and Sophie Harvey, 2008b, “With a Clean Conscience: Cleanliness Reduces the Severity of Moral Judgments”, *Psychological Science*, 19(12): 1219–1222. doi:10.1111/j.1467-9280.2008.02227.x
-* Schwitzgebel, Eric and Fiery Cushman, 2011, “Expertise in Moral Reasoning? Order Effects on Moral Judgment in Professional Philosophers and Non-Philosophers”, *Mind and Language*, 27(2): 135–153. doi:10.1111/j.1468-0017.2012.01438.x.
-* –––, 2015, “Philosophers’ Biased Judgments Persist Despite Training, Expertise, and Reflection”, *Cognition*, 141: 127–137. doi:10.1016/j.cognition.2015.04.015
-* Shafer-Landau, R., 2003, *Moral Realism: A Defence*, Oxford: Clarendon Press. doi:10.1093/0199259755.001.0001
-* Sherman, Ryne A., Christopher S. Nave, and David C. Funder, 2010, “Situational Similarity and Personality Predict Behavioral Consistency”, *Journal of Personality and Social Psychology*, 99(2): 330–343. doi:10.1037/a0019796
+* Schnall, Simone, Jonathan Haidt, Gerald L. Clore, and Alexander H. Jordan, 2008a, “Disgust as Embodied Moral Judgment”, *Personality and Social Psychology Bulletin*, 34(8): 1069–1109. doi: 10.1177/0146167208317771
+* Schnall, Simone, Jennifer Benton, and Sophie Harvey, 2008b, “With a Clean Conscience: Cleanliness Reduces the Severity of Moral Judgments”, *Psychological Science*, 19(12): 1219–1222. doi: 10.1111/j.1467-9280.2008.02227.x
+* Schwitzgebel, Eric and Fiery Cushman, 2011, “Expertise in Moral Reasoning? Order Effects on Moral Judgment in Professional Philosophers and Non-Philosophers”, *Mind and Language*, 27(2): 135–153. doi: 10.1111/j.1468-0017.2012.01438.x.
+* –––, 2015, “Philosophers’ Biased Judgments Persist Despite Training, Expertise, and Reflection”, *Cognition*, 141: 127–137. doi: 10.1016/j.cognition.2015.04.015
+* Shafer-Landau, R., 2003, *Moral Realism: A Defence*, Oxford: Clarendon Press. doi: 10.1093/0199259755.001.0001
+* Sherman, Ryne A., Christopher S. Nave, and David C. Funder, 2010, “Situational Similarity and Personality Predict Behavioral Consistency”, *Journal of Personality and Social Psychology*, 99(2): 330–343. doi: 10.1037/a0019796
 * Shweder, Richard A., and Edmund J. Bourne, 1982, “Does the Concept of the Person Vary Cross-Culturally?” in Anthony J. Marsella and Geoffrey M. White (eds.), *Cultural Conceptions of Mental Health and Therapy*, Boston, MA: D. Reidel Publishing.
-* Singer, Peter, 1974, “Sidgwick and Reflective Equilibrium”, *Monist*, 58(3): 490–517. doi:10.5840/monist197458330
-* Sinnott-Armstrong, Walter P., 2005, “Moral Intuitionism Meets Empirical Psychology”, in Terry Horgan and Mark Timmons (eds.), *Metaethics After Moore*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199269914.003.0016
+* Singer, Peter, 1974, “Sidgwick and Reflective Equilibrium”, *Monist*, 58(3): 490–517. doi: 10.5840/monist197458330
+* Sinnott-Armstrong, Walter P., 2005, “Moral Intuitionism Meets Empirical Psychology”, in Terry Horgan and Mark Timmons (eds.), *Metaethics After Moore*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199269914.003.0016
 * ––– (ed.), 2008a, *Moral Psychology, Vol. 1, The Evolution of Morality: Adaptations and Innateness*, Cambridge, MA: MIT Press.
 * ––– (ed.), 2008b, *Moral Psychology, Vol. 2, The Cognitive Science of Morality: Intuition and Diversity*, Cambridge, MA: MIT Press.
 * ––– (ed.), 2008c, *Moral Psychology, Vol.3, The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, Cambridge, MA: MIT Press.
 * ––– (ed.), 2014, *Moral Psychology, Vol.4, Free Will and Moral Responsibility*, Cambridge, MA: MIT Press.
-* Slote, Michael Anthony, 2013, “Egoism and Emotion”, *Philosophia*, 41(2): 313–335. doi:10.1007/s11406-013-9434-5
-* Smilansky, Saul, 2003, “Compatibilism: the Argument from Shallowness”, *Philosophical Studies*, 115(3): 257–282. doi:10.1023/A:1025146022431
+* Slote, Michael Anthony, 2013, “Egoism and Emotion”, *Philosophia*, 41(2): 313–335. doi: 10.1007/s11406-013-9434-5
+* Smilansky, Saul, 2003, “Compatibilism: the Argument from Shallowness”, *Philosophical Studies*, 115(3): 257–282. doi: 10.1023/A: 1025146022431
 * Smith, Adam, 1759 [1853], *The Theory of Moral Sentiments*, London: Henry G. Bohn. Originally published 1759,
 * Smith, Michael, 1994, *The Moral Problem*, Cambridge: Basil Blackwell.
-* Snare, F.E., 1980, “The Diversity of Morals” *Mind*, 89(355): 353–369. doi:10.1093/mind/LXXXIX.355.353
+* Snare, F.E., 1980, “The Diversity of Morals” *Mind*, 89(355): 353–369. doi: 10.1093/mind/LXXXIX.355.353
 * Snow, Nancy E., 2010, *Virtue as Social Intelligence: An Empirically Grounded Theory*, London and New York: Routledge.
 * Sober, Elliott and David Sloan Wilson, 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
-* Solomon, Robert C., 2003, “Victims of Circumstances? A Defense of Virtue Ethics in Business”, *Business Ethics Quarterly*, 13(1): 43–62. doi:10.5840/beq20031314
-* –––, 2005, “‘What’s Character Got to Do with It?’”, *Philosophy and Phenomenological Research*, 71(3): 648–655. doi:10.1111/j.1933-1592.2005.tb00478.x
-* Sosa, Ernest, 2007, “Intuitions: Their Nature and Epistemic Efficacy”, *Grazer Philosophische Studien*, 74(1): 51–67. doi:10.1163/9789401204651_004
-* –––, 2009, “Situations Against Virtues: The Situationist Attack on Virtue Theory”, in Chrysostomos Mantzavinos (ed.), *Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice*, New York: Cambridge University Press. 274–290. doi:10.1017/CBO9780511812880.021
-* Sreenivasan, Gopal, 2002, “Errors about errors: Virtue theory and trait attribution”, *Mind*, 111(441): 47–68. doi:10.1093/mind/111.441.47
-* Sripada, Chandra Sekhar, 2012, “What Makes a Manipulated Agent Unfree?” *Philosophy and Phenomenological Research*, 85(3): 563–93. doi:10.1111/j.1933-1592.2011.00527.x
+* Solomon, Robert C., 2003, “Victims of Circumstances? A Defense of Virtue Ethics in Business”, *Business Ethics Quarterly*, 13(1): 43–62. doi: 10.5840/beq20031314
+* –––, 2005, “‘What’s Character Got to Do with It?’”, *Philosophy and Phenomenological Research*, 71(3): 648–655. doi: 10.1111/j.1933-1592.2005.tb00478.x
+* Sosa, Ernest, 2007, “Intuitions: Their Nature and Epistemic Efficacy”, *Grazer Philosophische Studien*, 74(1): 51–67. doi: 10.1163/9789401204651_004
+* –––, 2009, “Situations Against Virtues: The Situationist Attack on Virtue Theory”, in Chrysostomos Mantzavinos (ed.), *Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice*, New York: Cambridge University Press. 274–290. doi: 10.1017/CBO9780511812880.021
+* Sreenivasan, Gopal, 2002, “Errors about errors: Virtue theory and trait attribution”, *Mind*, 111(441): 47–68. doi: 10.1093/mind/111.441.47
+* Sripada, Chandra Sekhar, 2012, “What Makes a Manipulated Agent Unfree?” *Philosophy and Phenomenological Research*, 85(3): 563–93. doi: 10.1111/j.1933-1592.2011.00527.x
 * Stich, Stephen, 1990, *The Fragmentation of Reason: Preface to a Pragmatic Theory of Cognitive Evaluation*, Cambridge, MA: The MIT Press.
 * Stich, Stephen, John M. Doris, and Erica Roedder, 2010, “Altruism”, in Doris et al. 2010: 147–205.
-* Stich, Stephen and Kevin P. Tobia, 2016, “Experimental Philosophy and the Philosophical Tradition”, in Sytsma and Buckwalter 2016: 3–21. doi:10.1002/9781118661666.ch1
+* Stich, Stephen and Kevin P. Tobia, 2016, “Experimental Philosophy and the Philosophical Tradition”, in Sytsma and Buckwalter 2016: 3–21. doi: 10.1002/9781118661666.ch1
 * –––, 2018, “Intuition and Its Critics”, in Stuart, Fehige, and Brown 2018: ch. 21.
-* Stichter, Matt, 2007, “Ethical Expertise: The Skill Model of Virtue”, *Ethical Theory and Moral Practice*, 10(2): 183–194. doi:10.1007/s10677-006-9054-2
-* –––, 2011, “Virtues, Skills, and Right Action”, *Ethical Theory and Moral Practice*, 14(1): 73–86. doi:10.1007/s10677-010-9226-y
+* Stichter, Matt, 2007, “Ethical Expertise: The Skill Model of Virtue”, *Ethical Theory and Moral Practice*, 10(2): 183–194. doi: 10.1007/s10677-006-9054-2
+* –––, 2011, “Virtues, Skills, and Right Action”, *Ethical Theory and Moral Practice*, 14(1): 73–86. doi: 10.1007/s10677-010-9226-y
 * Strawson, P.F., 1982, “Freedom and Resentment”, in Gary Watson (ed.), *Free Will*, New York: Oxford University Press. Originally published, 1962,
-* Strawson, Galen, 1986, *Freedom and Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247493.001.0001
-* Strohminger, Nina, Richard L. Lewis and David E. Meyer, 2011, “Divergent Effects of Different Positive Emotions on Moral Judgment”, *Cognition*, 119(2): 295–300. doi:10.1016/j.cognition.2010.12.012
+* Strawson, Galen, 1986, *Freedom and Belief*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199247493.001.0001
+* Strohminger, Nina, Richard L. Lewis and David E. Meyer, 2011, “Divergent Effects of Different Positive Emotions on Moral Judgment”, *Cognition*, 119(2): 295–300. doi: 10.1016/j.cognition.2010.12.012
 * Stuart, Michael T., Yiftach Fehige, and James Robert Brown (eds.), 2018, *The Routledge Companion to Thought Experiments*, New York: Routledge.
 * Sturgeon, Nicholas L., 1988, “Moral Explanations”, in Sayre-McCord 1988b: 229–255.
 * Sumner, William Graham, 1908 [1934], *Folkways*, Boston: Ginn and Company.
-* Sunstein, Cass R., 2005, “Moral Heuristics”, *Behavioral and Brain Sciences*, 28(4): 531–42. doi:10.1017/S0140525X05000099
-* Swanton, Christine, 2003, *Virtue Ethics: A Pluralistic View*, Oxford: Oxford University Press. doi:10.1093/0199253889.001.0001
+* Sunstein, Cass R., 2005, “Moral Heuristics”, *Behavioral and Brain Sciences*, 28(4): 531–42. doi: 10.1017/S0140525X05000099
+* Swanton, Christine, 2003, *Virtue Ethics: A Pluralistic View*, Oxford: Oxford University Press. doi: 10.1093/0199253889.001.0001
 * Sytsma, Justin and Wesley Buckwalter (eds.), 2016, *A Companion to Experimental Philosophy*, Oxford: Blackwell.
-* Tetlock, Philip E., 1999, “Review of *Culture of Honor: The Psychology of Violence in the South* by Robert Nisbett and Dov Cohen”, *Political Psychology*, 20(1): 211–13. doi:10.1111/0162-895X.t01-1-00142
+* Tetlock, Philip E., 1999, “Review of *Culture of Honor: The Psychology of Violence in the South* by Robert Nisbett and Dov Cohen”, *Political Psychology*, 20(1): 211–13. doi: 10.1111/0162-895X.t01-1-00142
 * Tiberius, Valerie, 2015, *Moral Psychology: A Contemporary Introduction*, New York: Routledge.
 * Tobia, Kevin Patrick, Gretchen B. Chapman, and Stephen Stich, 2013, “Cleanliness is Next to Morality, Even for Philosophers”, *Journal of Consciousness Studies*, 20(11 and 12): 195–204.
-* Tversky, Amos and Daniel Kahneman, 1973, “Availability: A heuristic for judging frequency and probability”, *Cognitive Psychology*, 5(2): 207–232. doi:10.1016/0010-0285(73)90033-9
-* –––, 1981, “The Framing of Decisions and the Psychology of Choice”, *Science*, 211(4481): 453–463. doi:10.1126/science.7455683
+* Tversky, Amos and Daniel Kahneman, 1973, “Availability: A heuristic for judging frequency and probability”, *Cognitive Psychology*, 5(2): 207–232. doi: 10.1016/0010-0285(73)90033-9
+* –––, 1981, “The Framing of Decisions and the Psychology of Choice”, *Science*, 211(4481): 453–463. doi: 10.1126/science.7455683
 * Upton, Candace L., 2009, *Situational Traits of Character: Dispositional Foundations and Implications for Moral Psychology and Friendship*, Lanham, Maryland: Lexington Books.
-* Vargas, Manuel, 2005a, “The Revisionist’s Guide to Responsibility”, *Philosophical Studies*, 125(3): 399–429. doi:10.1007/s11098-005-7783-z
-* –––, 2005b, “Responsibility and the Aims of Theory: Strawson and Revisionism”, *Pacific Philosophical Quarterly*, 85(2): 218–241. doi:10.1111/j.0279-0750.2004.00195.x
-* Valdesolo, Piercarlo and David DeSteno, 2006, “Manipulations of Emotional Context Shape Moral Judgment”, *Psychological Science*, 17(6): 476–477. doi:10.1111/j.1467-9280.2006.01731.x
-* Velleman, J. David, 1992, “What Happens When Someone Acts?” *Mind*, 101(403): 461–81. doi:10.1093/mind/101.403.461
+* Vargas, Manuel, 2005a, “The Revisionist’s Guide to Responsibility”, *Philosophical Studies*, 125(3): 399–429. doi: 10.1007/s11098-005-7783-z
+* –––, 2005b, “Responsibility and the Aims of Theory: Strawson and Revisionism”, *Pacific Philosophical Quarterly*, 85(2): 218–241. doi: 10.1111/j.0279-0750.2004.00195.x
+* Valdesolo, Piercarlo and David DeSteno, 2006, “Manipulations of Emotional Context Shape Moral Judgment”, *Psychological Science*, 17(6): 476–477. doi: 10.1111/j.1467-9280.2006.01731.x
+* Velleman, J. David, 1992, “What Happens When Someone Acts?” *Mind*, 101(403): 461–81. doi: 10.1093/mind/101.403.461
 * Voyer, Benjamin G. and Tor Tarantola (eds.), forthcoming, *Moral Psychology: A Multidisciplinary Guide*, Springer.
 * Vranas, Peter B.M., 2005, “The Indeterminacy Paradox: Character Evaluations and Human Psychology”, *Noûs*, 39(1): 1–42.
 * Watson, Gary, 1996, “Two Faces of Responsibility”, *Philosophical Topics* 24(2): 227–48. doi: 10.5840/philtopics199624222
-* Webber, Jonathan, 2006a, “Character, Consistency, and Classification”, *Mind*, 115(459): 651–658. doi:10.1093/mind/fzl651
-* –––, 2006b, “Virtue, Character and Situation”, *Journal of Moral Philosophy*, 3(2): 193–213. doi:10.1177/1740468106065492
-* –––, 2007a, “Character, Common-Sense, and Expertise”, *Ethical Theory and Moral Practice*, 10(1): 89–104. doi:10.1007/s10677-006-9041-7
-* –––, 2007b, “Character, Global and Local”, *Utilitas*, 19(04): 430–434. doi:10.1017/S0953820807002725
+* Webber, Jonathan, 2006a, “Character, Consistency, and Classification”, *Mind*, 115(459): 651–658. doi: 10.1093/mind/fzl651
+* –––, 2006b, “Virtue, Character and Situation”, *Journal of Moral Philosophy*, 3(2): 193–213. doi: 10.1177/1740468106065492
+* –––, 2007a, “Character, Common-Sense, and Expertise”, *Ethical Theory and Moral Practice*, 10(1): 89–104. doi: 10.1007/s10677-006-9041-7
+* –––, 2007b, “Character, Global and Local”, *Utilitas*, 19(04): 430–434. doi: 10.1017/S0953820807002725
 * Westermarck, Edvard, 1906, *Origin and Development of the Moral Ideas*, 2 volumes, New York: MacMillian.
-* Wiegmann, Alex, Yasmina Okan, and Jonas Nagel, 2012, “Order Effects in Moral Judgment”, *Philosophical Psychology*, 25(6): 813–836. doi:10.1080/09515089.2011.631995
+* Wiegmann, Alex, Yasmina Okan, and Jonas Nagel, 2012, “Order Effects in Moral Judgment”, *Philosophical Psychology*, 25(6): 813–836. doi: 10.1080/09515089.2011.631995
 * Williams, Bernard, 1973, “A Critique of Utilitarianism”, in *Utilitarianism: For and Against*, by J.J.C. Smart and Bernard Williams, Cambridge: Cambridge University Press.
 * –––, 1985, *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press.
-* Woolfolk, Robert L., John M. Doris and John M. Darley, 2006, “Identification, Situational Constraint, and Social Cognition: Studies in the Attribution of Moral Responsibility”, *Cognition*, 100(2), 283–301. doi:10.1016/j.cognition.2005.05.002
-* Zhong, Chen-Bo, Brendan Strejcek, and Niro Sivanathan, 2010, “A Clean Self Can Render Harsh Moral Judgment”, *Journal of Experimental Social Psychology*, 46(5): 859–862. doi:10.1016/j.jesp.2010.04.003
+* Woolfolk, Robert L., John M. Doris and John M. Darley, 2006, “Identification, Situational Constraint, and Social Cognition: Studies in the Attribution of Moral Responsibility”, *Cognition*, 100(2), 283–301. doi: 10.1016/j.cognition.2005.05.002
+* Zhong, Chen-Bo, Brendan Strejcek, and Niro Sivanathan, 2010, “A Clean Self Can Render Harsh Moral Judgment”, *Journal of Experimental Social Psychology*, 46(5): 859–862. doi: 10.1016/j.jesp.2010.04.003
 * Zimbardo, Philip G., 2007, *The Lucifer Effect: Understanding How Good People Turn Evil*, Oxford: Blackwell Publishing Ltd.
 
 ## Academic Tools

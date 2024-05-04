@@ -10,7 +10,7 @@
 
 ## 优生学简史
 
-哲学家至少自柏拉图在其《理想国》中建议实施一项旨在加强守护者阶级的国家计划的时候，就一直在思考优生学的意义和价值。然而，现代优生学的起源可以追溯到 19 世纪查尔斯·达尔文的堂兄英国科学家弗朗西斯·高尔顿（1883 年）。高尔顿对通过科学管理交配来“改善人类种群”感兴趣。他明确的目标是创造更好的人类。他的想法在 20 世纪初被广泛接受，特别是在美国、英国和斯堪的纳维亚国家，看似出于善意和意识形态多样化的科学家和政策制定者。著名的优生学家包括亚历山大·格雷厄姆·贝尔和玛格丽特·桑格。 （有关优生学的优秀历史，请参阅凯夫勒斯 1985 年。）
+哲学家至少自柏拉图在其《理想国》中建议实施一项旨在加强守护者阶级的国家计划的时候，就一直在思考优生学的意义和价值。然而，现代优生学的起源可以追溯到 19 世纪查尔斯 · 达尔文的堂兄英国科学家弗朗西斯 · 高尔顿（1883 年）。高尔顿对通过科学管理交配来“改善人类种群”感兴趣。他明确的目标是创造更好的人类。他的想法在 20 世纪初被广泛接受，特别是在美国、英国和斯堪的纳维亚国家，看似出于善意和意识形态多样化的科学家和政策制定者。著名的优生学家包括亚历山大 · 格雷厄姆 · 贝尔和玛格丽特 · 桑格。 （有关优生学的优秀历史，请参阅凯夫勒斯 1985 年。）
 
 优生学家有两个目标：鼓励具有各种理想特征（例如健康、智力、品德）的人进行繁殖，以创造良好的后代（即所谓的“积极”优生学），并通过阻止或预防那些具有被认为是不良特征的人进行繁殖来消除某些疾病和残疾（即所谓的“消极”优生学）。在美国，鼓励积极优生学的计划包括在当地县集市举办“更健康家庭博览会”，家庭在那里竞争奖品，就像评选牲畜的体格和身体灵活性一样（Stern 2002）。消极优生学采取了鼓励或强制对被认为不适合繁殖的男性和尤其是女性进行绝育的形式（在当时的语境中，这包括被认为是“贫穷、精神失常、低能、白痴、酗酒”等的个体）。许多优生学意识形态在本质上是还原主义的，许多优生学家假定社会和行为条件（如贫困、流浪或卖淫）是作为遗传特征而不是作为共同社会情况来继承的。尽管如此，优生政策的支持者意识到生物学和环境之间的相互作用，即使他们并不太关心区分各种促成因素（Dyck 2014）。诸如酗酒或与心理健康相关的疾病等社会问题被理解为具有可能导致无法妥善照顾子女的遗传成分（有关相关社会道德认识的有趣讨论，请参见 Buchanan 2007）。
 
@@ -46,13 +46,13 @@
 
 ### 使用再生遗传技术
 
-许多理论家主张允许父母对未来子女的基因构成做出选择。这些论点从完全自由放任的市场体系——或者罗伯特·诺齐克（1974: 315）所考虑的“基因超市”——到更加严格监管的体系，其中包括保护未来子女福祉以及社会价值观念（例如，粗略平等、努力消除歧视）的控制措施，这些价值观念可能在完全自由市场环境中受到威胁（Buchanan 等人，2000 年）。许多人还认为，在针对疾病的选择和针对选择或增强非疾病特征（如智力、自信、身高、眼睛颜色或吸引力）的选择之间存在道德相关差异。此外，虽然一些自由优生学倡导者认为，针对非疾病特征的生殖干预是可以接受的（Agar，2004 年；Green，2006 年），但也有人认为这是道德义务（哈里斯，2007 年；萨武莱斯库，2005 年；萨武莱斯库和卡哈内，2009 年）。
+许多理论家主张允许父母对未来子女的基因构成做出选择。这些论点从完全自由放任的市场体系——或者罗伯特 · 诺齐克（1974: 315）所考虑的“基因超市”——到更加严格监管的体系，其中包括保护未来子女福祉以及社会价值观念（例如，粗略平等、努力消除歧视）的控制措施，这些价值观念可能在完全自由市场环境中受到威胁（Buchanan 等人，2000 年）。许多人还认为，在针对疾病的选择和针对选择或增强非疾病特征（如智力、自信、身高、眼睛颜色或吸引力）的选择之间存在道德相关差异。此外，虽然一些自由优生学倡导者认为，针对非疾病特征的生殖干预是可以接受的（Agar，2004 年；Green，2006 年），但也有人认为这是道德义务（哈里斯，2007 年；萨武莱斯库，2005 年；萨武莱斯库和卡哈内，2009 年）。
 
 #### 2.2.1 Addressing diseases2.2.1 解决疾病
 
 自由优生学论点通常从承认治疗疾病的价值开始。疾病通常被定义为与物种典型功能的负面偏离（Boorse 1975; Daniels 1994），可能会干扰个体参与社会和/或个体繁荣。Buchanan 等人（2000）将疾病与机会减少联系起来，因此认为为疾病提供医疗治疗是国家促进机会平等的一种方式。父母有责任确保他们的孩子得到疾病的医疗治疗，如果他们未能这样做，可能会被指控疏忽。在疾病导致参与度相对较小的负面影响（例如轻度哮喘）或者治疗潜在好处仍然有些不确定或可能被可能的危害所抵消的情况下，这种义务并不适用。那些认为美好生活不包括对严重疾病进行医疗治疗的父母（如一些宗教社区）不被允许将这种观点强加给他们的孩子，因为孩子们应有机会在成年后选择是否采纳这些观点。对他们儿童时期疾病的强制性救命治疗有助于确保他们在成年后做出这样的决定（Feinberg 1980）。这一要求已经成为一些辩论的主题（参见 DesAutels，Battin 和 May 1999）。
 
-布坎南等人（2000 年）指出，随着技术的进步，正义理论不再需要考虑“自然不平等”是给定的，或者超出了分配范围。如果机会均等是社会的目标之一，那么，提供某些形式的基因干预 - 包括确定谁将被带入存在的干预 - 可能成为未来人作为正义问题的一部分。如果父母可以决定植入携带与严重疾病相关的基因标记的胚胎 - 例如，泰·萨克斯 - 或者没有该标记的胚胎，他们将有道义义务选择后者，以促进未来孩子的健康和幸福（可能是无差别地，也许是鉴于非同一性问题）。
+布坎南等人（2000 年）指出，随着技术的进步，正义理论不再需要考虑“自然不平等”是给定的，或者超出了分配范围。如果机会均等是社会的目标之一，那么，提供某些形式的基因干预 - 包括确定谁将被带入存在的干预 - 可能成为未来人作为正义问题的一部分。如果父母可以决定植入携带与严重疾病相关的基因标记的胚胎 - 例如，泰 · 萨克斯 - 或者没有该标记的胚胎，他们将有道义义务选择后者，以促进未来孩子的健康和幸福（可能是无差别地，也许是鉴于非同一性问题）。
 
 自由优生学倡导者因此从一个关于治疗儿童严重疾病的义务的普遍接受的立场转向要求人们利用基因干预技术（例如，胚胎植入前基因检测或基因组编辑）来避免将严重疾病传递给后代的要求（Savulescu 2001; Agar 2004; Glover 2006; Green 2007; Harris 2007; Savulescu and Kahane 2009）。
 
@@ -235,7 +235,7 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 * –––, 2000, “Why I Haven’t Changed My Mind about Prenatal Diagnosis”, in Parens and Asch (eds), 234–358.
 * Asch, Adrienne and Erik Parens, 2000, “The Disability Rights Critque of Prenatal Genetic Testing: Reflections and Recommendations”, in Parens and Asch 2000: 3–43.
 * Asch, Adrienne and David Wasserman, 2005, “Where is the Sin in Synecdoche? Prenatal Testing and the Parent-Child Relationship”, in Wasserman, Bickenbach, and Wachbroit 2005: 172–216.
-* Blakeley Claire, Debbie M Smith, Edward D Johnstone, Anja Wittkowski, 2019, “Parental Decision-Making Following a Prenatal Diagnosis That Is Lethal, Life-Limiting, or Has Long Term Implications for the Future Child and Family: A Meta-Synthesis of Qualitative Literature”, *BMC Med Ethics*, 20(1):56.
+* Blakeley Claire, Debbie M Smith, Edward D Johnstone, Anja Wittkowski, 2019, “Parental Decision-Making Following a Prenatal Diagnosis That Is Lethal, Life-Limiting, or Has Long Term Implications for the Future Child and Family: A Meta-Synthesis of Qualitative Literature”, *BMC Med Ethics*, 20(1): 56.
 * Baily, Mary Ann, 2000, “Why I Had Amniocentesis”, in Parens and Asch (eds), 64–71.
 * Barnes, Elizabeth, 2016, *The Minority Body: a Theory of Disability*, New York: Oxford University Press.
 * Bauman, H-Dirksen L, and Joseph J. Murray, 2014, *Deaf Gain: Raising the Stakes for Human Diversity*, Minneapolis: University of Minnesota Press.
@@ -259,11 +259,11 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 * –––, 2017, *Rethinking Reprogenetics: Enhancing Ethical Analyses of Reprogenetic Technologies*, New York: Oxford University Press.
 * –––, 2018, “The Trouble with Moral Enhancement”, in (Eds.), *Moral Enhancement: Critical perspectives – Royal Institute of Philosophy Supplements*, Michael Hauskeller and Lewis Coyne (eds). 19–33, Cambridge: Cambridge University Press.
 * DesAutels, Peggy, Margaret Battin and Larry May, 1999, *Praying for a Cure: When Medical and Religious Practices Conflict*, Lanham, MD: Rowman & Littlefield.
-* Dietz, Elizabeth and Joel Michael Reynolds, 2022, “Reforming Informed Consent: On Disability and Genetic Counseling,” in *The Oxford Handbook of Genetic Counseling*, Michael Deem, Robin Grubs, and Emily Farrow, (eds), New York: Oxford University Press, Forthcoming, available at SSRN: https://ssrn.com/abstract=3819367.
+* Dietz, Elizabeth and Joel Michael Reynolds, 2022, “Reforming Informed Consent: On Disability and Genetic Counseling,” in *The Oxford Handbook of Genetic Counseling*, Michael Deem, Robin Grubs, and Emily Farrow, (eds), New York: Oxford University Press, Forthcoming, available at SSRN: https://ssrn.com/abstract = 3819367.
 * Dresser, Rebecca, 1996, “Long Term Contraceptives in the Criminal Justice System”, in *Coerced Contraception? Moral and Policy Challenges of Long Acting Birth Control*, Ellen H. Moskowitz and Bruce Jennings (eds), Washington DC: Georgetown University Press.
 * Douglas, Thomas, 2008, “Moral Enhancement”, *Journal of Applied Philosophy*, 25: 228–45.
 * Duster, Troy, 1990, *Backdoor to Eugenics*, New York: Routledge.
-* Dyck Erika. 2014. “History of Eugenics Revisited”, *Can Bull Med Hist*, 31(1):7–16.
+* Dyck Erika. 2014. “History of Eugenics Revisited”, *Can Bull Med Hist*, 31(1): 7–16.
 * Edwards, Steven D., 2004, “Disability, Identity, and the ‘Expressivist’ Objection”, *Journal of Medical Ethics*, 30: 418–420.
 * Elster, Jakob, 2011, “Procreative Beneficence – Cui Bono?”, *Bioethics*, 25(9): 482–88.
 * Estreich, George, 2011, *The Shape of the Eye: Down Syndrome, Family, and the Stories We Inherit*, Southern Methodist University Press.
@@ -281,7 +281,7 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 * –––, 2007, *Enhancing Evolution: The Ethical Case for Making Better People*, Princeton NJ: Princeton University Press.
 * –––, 2011, “Moral Enhancement and Freedom”, *Bioethics*, 21: 102–11.
 * Hayry, Matti, 2010, *Rationality and the Genetic Challenge*, Cambridge: Cambridge University Press.
-* Herissone-Kelly, Peter, 2007, “The ‘parental love’ objection to nonmedical sex selection: deepening the argument”, *Cambridge Quarterly Healthcare Ethics*, 16 (4):446–55.
+* Herissone-Kelly, Peter, 2007, “The ‘parental love’ objection to nonmedical sex selection: deepening the argument”, *Cambridge Quarterly Healthcare Ethics*, 16 (4): 446–55.
 * Holm, Soren, 2007, “The Expressivist Objection to Prenatal Testing: Can We Lay it to Rest?”, *Journal of Medical Ethics*, 34(1): 24–25.
 * Kabasenche, William, 2013, “Moral Enhancement Worth Having: Thinking Holistically”, *AJOB Neuroscience*, 3(4): 18–20.
 * Kamm, Frances, 2005, “Is There a Problem with Enhancement?”, *American Journal of Bioethics*, 5(3): 5–14.
@@ -327,7 +327,7 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 * Russell, Camisha, 2010, “The Limits of Liberal Choice: Racial Selection and Reprogenetics”, *Southern Journal of Philosophy*, 48: 97–108.
 * Sandel, Michael, 2007, *The Case Against Perfection*, Cambridge: Harvard University Press.
 * Savulescu, Julian, 2001, “Procreative Beneficence: Why We Should Select the Best Children”, *Bioethics*, 15(5): 413–426.
-* –––, 2005, “New Breeds of Humans: The Moral Obligation to Enhance”, *Reproductive Biomedicine Online*.10 Suppl 1:36–9.
+* –––, 2005, “New Breeds of Humans: The Moral Obligation to Enhance”, *Reproductive Biomedicine Online*.10 Suppl 1: 36–9.
 * –––, 2007, “In Defence of Procreative Beneficence”, *Journal of Medical Ethics*, 33(5): 284–88.
 * Savulescu, Julian and Guy Kahane, 2009, “The Moral Obligation to Create Children with the Best Chance of the Best Life”, *Bioethics*, 23(5): 274–290.
 * Saxton, Marsha, 2000, “Why Members of the Disability Community Oppose Prenatal Diagnosis and Selective Abortion”, in Parens and Asch 2000: 147–164.
@@ -341,15 +341,15 @@ Sparrow 还质疑了父母应该生育最好的孩子这一假设的正当性。
 * –––, 2007, Procreative Beneficence, Obligation, and Eugenics. *Genomics, Society and Policy* 3(3): 43–59.
 * –––, 2011a, “A Not-So-New Eugenics: Harris and Savulescu on Human Enhancement”, *Hastings Center Report*, 41(1): 32–42.
 * –––, 2011b, “Liberalism and Eugenics”, *Australian Journal of Political Philosophy*, 89(3): 499–517.
-* –––, 2012, Human Enhancement and Sexual Dimorphism. *Bioethics*, 26(9):464–75.
+* –––, 2012, Human Enhancement and Sexual Dimorphism. *Bioethics*, 26(9): 464–75.
 * Spriggs, Merle, 2002, “Lesbian Couple Create a Child Who is Deaf Like Them”, *Journal of Medical Ethics*, 28: 283.
 * Stern, Alexandra, 2002, “Making Better Babies: Public Health and Race Betterment in Indiana, 1920–1935”, *American Journal of Public Health*, 92: 742–752.
 * –––, 2015. *Eugenic Nation: Faults and Frontiers of Better Breeding in Modern America*, 2nd edition. Berkeley: University of California Press.
-* Stramondo, Joseph, 2021, “Bioethics, Adaptive Preference, and Judging the Quality of Life with a Disability”, *Social Theory and Practice*, 47 (1):199–220.
+* Stramondo, Joseph, 2021, “Bioethics, Adaptive Preference, and Judging the Quality of Life with a Disability”, *Social Theory and Practice*, 47 (1): 199–220.
 * Stubblefield, Anna, 2007, “‘Beyond the Pale’: Tainted Whiteness, Cognitive Disability, and Eugenic Sterilization”, *Hypatia*, 22(2): 162–181.
 * Tremain, Shelley, 2006, “Reproductive Freedom, Self-Regulation, and the Government of Impairment in Utero”, *Hypatia*, 21(1): 35–53.
 * Trommelmans, Leen, 2006, “Review of *Liberal Eugenics*”, *Ethical Perspectives*, 13(2): 321–323.
-* Valentine, Desiree, 2021, “Technologies of Reproduction: Race, disability and neoliberal eugenics”, *Journal of Philosophy of Disability*, 1:35–55.
+* Valentine, Desiree, 2021, “Technologies of Reproduction: Race, disability and neoliberal eugenics”, *Journal of Philosophy of Disability*, 1: 35–55.
 * Warren, Mary Anne, 1985, *Gendercide: Implications of Sex Selection*, Totowa NJ: Rowman & Allanfield Publishers.
 * Wasserman, David, Jerome Bickenbach, and Robert Wachbroit (eds), 2005, *Quality of Life and Human Difference: Genetic Testing, Health Care, and Disability*, New York: Cambridge University Press.
 * Wendell, Susan, 1996, *The Rejected Body: Feminist Philosophical Reflections on Disability*, New York: Routledge.

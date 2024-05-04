@@ -12,7 +12,7 @@
 
 > 即使在某些情况下我们看不到异常，我们也应该说，关于这些事情可能也存在争议……正如，如果我们不知道埃及人娶自己的姐妹的习俗，我们本应错误地断言，所有人都同意你不能娶你的姐妹。(Sextus Empiricus, Outlines of Skepticism)
 
-实验伦理学在道德理论中的应用历史悠久，而当代被称为实验哲学的运动仅有几十年的历史。当前的实验哲学运动起源于斯蒂芬·斯蒂奇（Stephen Stich）、肖恩·尼科尔斯（Shaun Nichols）和乔纳森·温伯格（Jonathan Weinberg）（2001）以及约书亚·克诺布（Joshua Knobe）（2003）的工作，但实验哲学的最早实例可能是《非专业哲学家所构想的真理》（Naess 1938），该实验调查了普通人对真理本质的直觉。当代哲学家对这一运动的接受程度并不一致，但正如我们将看到的那样，有理由认为实验证据在道德哲学和理论化中可能具有独特的作用、意义和重要性。
+实验伦理学在道德理论中的应用历史悠久，而当代被称为实验哲学的运动仅有几十年的历史。当前的实验哲学运动起源于斯蒂芬 · 斯蒂奇（Stephen Stich）、肖恩 · 尼科尔斯（Shaun Nichols）和乔纳森 · 温伯格（Jonathan Weinberg）（2001）以及约书亚 · 克诺布（Joshua Knobe）（2003）的工作，但实验哲学的最早实例可能是《非专业哲学家所构想的真理》（Naess 1938），该实验调查了普通人对真理本质的直觉。当代哲学家对这一运动的接受程度并不一致，但正如我们将看到的那样，有理由认为实验证据在道德哲学和理论化中可能具有独特的作用、意义和重要性。
 
 传统哲学与实验工作之间的关系具有启发性，并揭示了道德哲学和理论中的一些紧张关系：即，道德既是实践性的又是规范性的，这两个方面相互影响并限制了其对人类心理学的解释程度。
 
@@ -20,7 +20,7 @@
 
 ### 1.1 什么是实验？
 
-正如上面讨论的例子所揭示的，各种类型的经验证据对道德理论是有用的（另请参阅有关经验道德心理学、经验分配正义和经验心理学与品格的条目）。人类学观察和数据长期以来在道德哲学中发挥着作用。二十世纪的道德哲学家约翰·拉德（John Ladd）和理查德·布兰特（Richard Brandt）通过在美洲土著社区进行自己的民族志调查，部分地研究了道德相对主义。布兰特写道：“我们有一个关于伦理相对主义真实性的问题，人类学可能有助于我们解决。人类学的证据是否支持“合格的人”在伦理态度上存在分歧的观点？”但他指出，“某些类型的人类学材料将无法帮助我们——特别是有关伦理观点或态度的跨文化差异的裸信息。”（1952: 238）。这是哲学家们经常引用的警告：重要的是让哲学家参与实验设计和经验数据的收集，因为有一些问题必须得到解决，以便数据具有哲学应用——在这种情况下，道德分歧是否涉及不同的事实信念或其他非道德差异。巴里·哈伦（Barry Hallen）在尼日利亚约鲁巴人中进行了一系列采访和民族志调查，研究了与认识论、美学和道德价值相关的中心评价概念和语言。哈伦受到了关于翻译的不确定性的问题的启发，但他的工作提供了一个例子，说明深入访谈如何可以为哲学概念的调查提供信息。
+正如上面讨论的例子所揭示的，各种类型的经验证据对道德理论是有用的（另请参阅有关经验道德心理学、经验分配正义和经验心理学与品格的条目）。人类学观察和数据长期以来在道德哲学中发挥着作用。二十世纪的道德哲学家约翰 · 拉德（John Ladd）和理查德 · 布兰特（Richard Brandt）通过在美洲土著社区进行自己的民族志调查，部分地研究了道德相对主义。布兰特写道：“我们有一个关于伦理相对主义真实性的问题，人类学可能有助于我们解决。人类学的证据是否支持“合格的人”在伦理态度上存在分歧的观点？”但他指出，“某些类型的人类学材料将无法帮助我们——特别是有关伦理观点或态度的跨文化差异的裸信息。”（1952: 238）。这是哲学家们经常引用的警告：重要的是让哲学家参与实验设计和经验数据的收集，因为有一些问题必须得到解决，以便数据具有哲学应用——在这种情况下，道德分歧是否涉及不同的事实信念或其他非道德差异。巴里 · 哈伦（Barry Hallen）在尼日利亚约鲁巴人中进行了一系列采访和民族志调查，研究了与认识论、美学和道德价值相关的中心评价概念和语言。哈伦受到了关于翻译的不确定性的问题的启发，但他的工作提供了一个例子，说明深入访谈如何可以为哲学概念的调查提供信息。
 
 这些例子表明，民族志在哲学理论中发挥着重要作用，但本文的其余部分将主要关注实验。典型的实验涉及将对象或人员随机分配到不同条件的情况，然后对每个条件的结果进行统计比较。条件的变化有时被称为操纵。例如，实验者可能选择一个随机样本的人，随机将他们分配到在电话投币口找到或找不到一角的情况，然后测量他们随后帮助他们认为需要帮助的人的程度（Isen & Levin 1972）。找到或找不到一角是条件；帮助程度是结果变量。
 
@@ -42,7 +42,7 @@
 
 除了涉及数据类型及其直接影响问题的区别之外，我们还可以区分实验应用伦理学、实验规范伦理学和实验元伦理学。第一种涉及影响对特定实际问题的判断的变量，比如自动驾驶汽车应该如何应对牺牲困境（Bonnefon, Sharriff & Rahwan 2016）。第二种涉及我们应该如何行为、行动和判断，以及我们对道德责任、品格和构成美好生活的直觉的调查。第三种涉及道德现实主义和反现实主义的辩论。在本文中，我们重点关注后两者。
 
-在许多这些情况中，实验伦理学和其邻域之间的界线很难划清：实验伦理学与实证道德心理学有何区别？实验伦理学与研究道德的心理学或神经科学有何不同？实验伦理学与元伦理学有何不同？我们可以尝试通过指出实验者的训练来回答这些问题——作为哲学家还是科学家——但在这些领域的许多工作是由哲学家、社会科学家或神经科学家共同合作的团队完成的。此外，一些哲学家在法律和心理学部门工作，研究生课程越来越多地提供跨学科培训。另一种方法是查看工作所涉及的文献：许多心理学家（例如，Haidt，Greene）研究道德判断，将他们的论点置于康德主义者和休谟主义者之间的辩论中，因此，与哲学传统的接触可能被用作区分实验伦理学和实验道德心理学的标准。所有这些都说，无法清晰区分实验伦理学与调查相邻领域可能并不特别重要。实验哲学家经常指出，哲学和心理学之间的学科分釘是一个相对较新的现象；二十世纪早期的作家，如威廉·詹姆斯（William James），将自己置于两个学科中，为每个学科做出了重要贡献。如果这里存在问题，那并不是实验伦理学所特有的。例如，使用语言学和分析哲学的语义学研究最好理解为语言学还是语言哲学？这些辩论出现，并且对于许多跨学科研究项目可能基本无关紧要。
+在许多这些情况中，实验伦理学和其邻域之间的界线很难划清：实验伦理学与实证道德心理学有何区别？实验伦理学与研究道德的心理学或神经科学有何不同？实验伦理学与元伦理学有何不同？我们可以尝试通过指出实验者的训练来回答这些问题——作为哲学家还是科学家——但在这些领域的许多工作是由哲学家、社会科学家或神经科学家共同合作的团队完成的。此外，一些哲学家在法律和心理学部门工作，研究生课程越来越多地提供跨学科培训。另一种方法是查看工作所涉及的文献：许多心理学家（例如，Haidt，Greene）研究道德判断，将他们的论点置于康德主义者和休谟主义者之间的辩论中，因此，与哲学传统的接触可能被用作区分实验伦理学和实验道德心理学的标准。所有这些都说，无法清晰区分实验伦理学与调查相邻领域可能并不特别重要。实验哲学家经常指出，哲学和心理学之间的学科分釘是一个相对较新的现象；二十世纪早期的作家，如威廉 · 詹姆斯（William James），将自己置于两个学科中，为每个学科做出了重要贡献。如果这里存在问题，那并不是实验伦理学所特有的。例如，使用语言学和分析哲学的语义学研究最好理解为语言学还是语言哲学？这些辩论出现，并且对于许多跨学科研究项目可能基本无关紧要。
 
 本条目的其余部分如下。第 2 节概述了关于道德判断和直觉的实验研究，描述了实验结果被用于的各种程序性用途，然后转向了有关道德判断和直觉的实验研究的例子，包括关于意图和责任的直觉，所谓的语言类比以及一些跨文化工作。第 3 节讨论了关于厚（即同时描述性和规范性）主题的实验结果，包括品格和美德，幸福，情感和情感以及道德立场。第 4 节讨论了有关道德分歧和道德语言的问题，这两者是长期关于道德客观性的辩论中的重要证据来源。第 5 节考虑了一些对实验道德哲学的反对意见。
 
@@ -134,7 +134,7 @@
 
 我们将依次解释和评估这些主张对。
 
-L1/M1 指的是乔姆斯基的刺激贫乏论点：尽管儿童接受了很少明确的语言和语法指导，他们却迅速发展语言能力，并在很小的年龄就开始快速地展示应用复杂语法规则的能力。同样，米哈伊尔和其他类比的支持者认为，儿童在很小的年龄就基于相对较少的明确指导而获得道德知识。然而，类比的批评者指出了几个不同之处。首先，儿童实际上接受了相当多的明确道德指导和纠正，与语言情况相反，这经常采取明确陈述道德规则的形式：“不要打人”，“分享”等等。其次，关于儿童实际展示道德能力的年龄存在争议。保罗·布卢姆（2013 年；另见布莱克、麦考利夫和瓦内肯，2014 年）认为婴儿在 3-6 个月大时就展示出道德倾向，但其他人（最著名的是科尔伯格（1969 年）和皮亚杰（1970 年））认为儿童直到 8-12 岁才完全具备道德判断能力，届时他们已经接受了相当多的道德指导，无论是隐含的还是明确的。一个相关的观点涉及接受指导的能力：在语言情况下，儿童甚至需要一些语言知识或理解才能接受指导：一个对语言没有理解的儿童将无法理解给予她的指令。但在道德情况下，儿童无需理解道德规则就能接受道德指导，因此不需要假设某种先天的知识或理解。尼科尔斯等人（2016 年）进行了一系列实验，使用统计学习和贝叶斯建模来展示儿童如何在输入有限的情况下学习复杂规则（另见尼科尔斯，2021 年）。最后，虽然儿童可能最初获得他们环境中存在的道德价值观，但他们有时会在以后的生活中改变自己的价值观或发展自己的价值观，这些变化是自发的，几乎没有意识到。这与语言形成鲜明对比；任何第二语言学习者都会意识到，后来学习一门新语言是需要努力的，即使成功掌握流利，第一语言也很少会丢失。最后，正如普林茨（2008 年）指出的，儿童因道德违规而受到惩罚，这可能解释了他们为什么比语法规则更快地学会道德规则。
+L1/M1 指的是乔姆斯基的刺激贫乏论点：尽管儿童接受了很少明确的语言和语法指导，他们却迅速发展语言能力，并在很小的年龄就开始快速地展示应用复杂语法规则的能力。同样，米哈伊尔和其他类比的支持者认为，儿童在很小的年龄就基于相对较少的明确指导而获得道德知识。然而，类比的批评者指出了几个不同之处。首先，儿童实际上接受了相当多的明确道德指导和纠正，与语言情况相反，这经常采取明确陈述道德规则的形式：“不要打人”，“分享”等等。其次，关于儿童实际展示道德能力的年龄存在争议。保罗 · 布卢姆（2013 年；另见布莱克、麦考利夫和瓦内肯，2014 年）认为婴儿在 3-6 个月大时就展示出道德倾向，但其他人（最著名的是科尔伯格（1969 年）和皮亚杰（1970 年））认为儿童直到 8-12 岁才完全具备道德判断能力，届时他们已经接受了相当多的道德指导，无论是隐含的还是明确的。一个相关的观点涉及接受指导的能力：在语言情况下，儿童甚至需要一些语言知识或理解才能接受指导：一个对语言没有理解的儿童将无法理解给予她的指令。但在道德情况下，儿童无需理解道德规则就能接受道德指导，因此不需要假设某种先天的知识或理解。尼科尔斯等人（2016 年）进行了一系列实验，使用统计学习和贝叶斯建模来展示儿童如何在输入有限的情况下学习复杂规则（另见尼科尔斯，2021 年）。最后，虽然儿童可能最初获得他们环境中存在的道德价值观，但他们有时会在以后的生活中改变自己的价值观或发展自己的价值观，这些变化是自发的，几乎没有意识到。这与语言形成鲜明对比；任何第二语言学习者都会意识到，后来学习一门新语言是需要努力的，即使成功掌握流利，第一语言也很少会丢失。最后，正如普林茨（2008 年）指出的，儿童因道德违规而受到惩罚，这可能解释了他们为什么比语法规则更快地学会道德规则。
 
 L2/M2 指的是所谓的语言普遍性的存在：存在于所有已知语言中的结构。在道德案例中是否如此存在尚存在争议，我们将在下文进一步讨论。普林兹（Prinz，2008）和斯里帕达（Sripada，2004）认为，除非以使它们变得无意义的方式表述或描述相关规范，否则不存在无例外的道德普遍性。斯里帕达以“谋杀是错误的”为例说明了一个无意义的规则：虽然这似乎是道德普遍性的一个合理候选者，但当我们考虑到“谋杀”指的是一种错误的杀戮行为时，我们可以看出这个规范并不具有信息量。但米哈伊尔可能会回应称，所有文化都承认某些有意杀人行为在道德上是错误的这一事实，即使它们在如何界定这一子集上存在差异，这本身就是重要的，相关类比可以在于所有语言中存在的“主语”、“动词”和“宾语”，或者像递归这样的特征，在所有自然语言的语法中都存在（但参见埃弗雷特，2005）。
 
@@ -146,7 +146,7 @@ L4/M4 指出我们可以将语言短语嵌入其他语言短语中，从而创�
 
 因此，对于道德评估的行为描述可以嵌入其他行为描述中，以产生新颖的行为描述（Harman 2008, 346）。例如：
 
-> 这是错误的→强迫某人去做 x 是错误的→说服某人去强迫某人去做 x 是错误的。
+> 这是错误的 → 强迫某人去做 x 是错误的 → 说服某人去强迫某人去做 x 是错误的。
 
 第一点是：我们可以创建复杂的行动描述；第二点是，我们可以评估新颖和复杂的行动，并以相对自动的直觉对语法或道德的允许性做出回应。
 
@@ -174,7 +174,7 @@ L4/M4 指出我们可以将语言短语嵌入其他语言短语中，从而创�
 
 ### 3.1 Character and Virtue3.1 性格与美德
 
-一个美德是一个复杂的倾向，包括倾向于以特定方式注意、解释、思考、渴望和行动的子倾向。例如，要慷慨，就是（除其他事情外）倾向于注意给予的机会，慈善地解释模棱两可的社交线索，渴望给予他人他们想要、需要或欣赏的东西，对他们想要、需要或欣赏的东西进行良好的思考，以及根据这种思考行动。这种倾向的表现是可观察的，因此适合进行实证研究。过去几十年的美德伦理学家有时对人群中的美德分布持乐观态度。例如，阿拉斯代尔·麦金泰尔（Alasdair MacIntyre）声称，“如果不提到正义和非正义、勇气和懦弱在人类生活中所起的作用，很少有什么是真正可以解释的”（1984: 199）。朱莉娅·安娜斯（Julia Annas）（2011: 8–10）声称，“当我们反思美德时，我们已经拥有一些。”琳达·扎格泽布斯基（Linda Zagzebski）（2010）为美德术语提供了一个“典范主义者”的语义，只有在事实上有许多有美德的人时才能起步。
+一个美德是一个复杂的倾向，包括倾向于以特定方式注意、解释、思考、渴望和行动的子倾向。例如，要慷慨，就是（除其他事情外）倾向于注意给予的机会，慈善地解释模棱两可的社交线索，渴望给予他人他们想要、需要或欣赏的东西，对他们想要、需要或欣赏的东西进行良好的思考，以及根据这种思考行动。这种倾向的表现是可观察的，因此适合进行实证研究。过去几十年的美德伦理学家有时对人群中的美德分布持乐观态度。例如，阿拉斯代尔 · 麦金泰尔（Alasdair MacIntyre）声称，“如果不提到正义和非正义、勇气和懦弱在人类生活中所起的作用，很少有什么是真正可以解释的”（1984: 199）。朱莉娅 · 安娜斯（Julia Annas）（2011: 8–10）声称，“当我们反思美德时，我们已经拥有一些。”琳达 · 扎格泽布斯基（Linda Zagzebski）（2010）为美德术语提供了一个“典范主义者”的语义，只有在事实上有许多有美德的人时才能起步。
 
 从 Owen Flanagan 的《道德人格的多样性》（1993）开始，哲学家开始担心社会心理学的实证结果与德行理论所预设的人类代理结构不一致。在这个框架中，人们被构想为具有或多或少固定的性格特征，这些特征系统地规定了他们的感知、认知、情感、推理、决策和行为。例如，一个慷慨的人倾向于注意并寻找向他人超出义务的给予机会。慷慨的人也倾向于考虑什么会（和不会）被潜在接受者欣赏，感受到给予的冲动和给予后的满足感，有效地思考何时、何地、如何给予以及给予给谁，根据这样的思考做出坚定的决定，并在做出这些决定后贯彻执行。其他特征旨在符合相同的模式，构建其承担者的感知、认知、动机和行动。社会心理学中的著名结果，如 Darley 和 Batson 的（1973）《好撒玛利亚人实验》，似乎与人类道德行为的这种观点相悖。当有人帮助另一个需要帮助的人时，他们可能只是因为没有赶时间，而不是因为他们表达了像慷慨或同情这样的固定特质。
 
@@ -182,7 +182,7 @@ L4/M4 指出我们可以将语言短语嵌入其他语言短语中，从而创�
 
 一些被德行伦理学批评者吹捧的最令人惊讶的发现（例如社会启动）现在似乎无法复制（有关讨论，请参见 Alfano 2018），但这一结果并未给德行理论家带来太多安慰。早期估计表明，个体差异变量通常仅能解释人们行为变异的不到 10%（Mischel 1968）—尽管正如 Funder 和 Ozer（1983）指出的那样，情境因素可能解释不到 16%。更近期的综合证据表明，情境因素解释人类行为变异的程度大约是五个主要特质因素的两倍（Rauthmann 等人 2014）。来自词典和调查研究的收敛证据表明，至少有五个情境维度能可靠地预测思维、情感和行为：（1）负面价值、（2）逆境、（3）责任、（4）复杂性和（5）正面价值（Rauthmann 和 Sherman 2018）。
 
-根据多丽斯（2002，待出版），这种缺乏跨情境一致性的最佳解释是，绝大多数人具有局部而非全局的特质：他们不是诚实、勇敢或贪婪的，但他们可能在心情好的时候是诚实的，在与朋友一起在恶劣天气中航行时是勇敢的，在未被教友监视时是贪婪的。相比之下，克里斯蒂安·米勒（2013，2014）认为，最好的解释是混合全局特质的理论，比如倾向于（在其他情况下）帮助因为这会改善一个人的心情。这些特质是全局的，因为它们解释和预测跨情境的行为（具有这种倾向的人通常会帮助，只要能保持她的心情，其他条件相等），但在规范上是混合的，因为它们既不是美德也不是恶习。马克·阿尔法诺（2013）走向第三个方向，认为美德和恶习的归因往往起到自我实现的预言作用。人们往往根据被归因给他们的特质行事，无论这些特质是次要美德，如整洁（米勒，布里克曼和波伦 1975）和生态意识（科内利森等人 2006，2007），主要美德，如慈善（詹森和摩尔 1977），合作性（格鲁塞克等人 1978）和慷慨（格鲁塞克和雷德勒 1980），还是恶习，如残酷的竞争性（格鲁塞克等人 1978）。在阿尔法诺看来，当人们按照一种美德行事时，他们经常这样做并不是因为他们拥有相关的特质，而是因为他们认为自己拥有或者因为他们知道其他人认为他们拥有。他将这种道德品格的模拟称为虚假美德，甚至建议修订美德的概念以包括反射和社会期望。【9】
+根据多丽斯（2002，待出版），这种缺乏跨情境一致性的最佳解释是，绝大多数人具有局部而非全局的特质：他们不是诚实、勇敢或贪婪的，但他们可能在心情好的时候是诚实的，在与朋友一起在恶劣天气中航行时是勇敢的，在未被教友监视时是贪婪的。相比之下，克里斯蒂安 · 米勒（2013，2014）认为，最好的解释是混合全局特质的理论，比如倾向于（在其他情况下）帮助因为这会改善一个人的心情。这些特质是全局的，因为它们解释和预测跨情境的行为（具有这种倾向的人通常会帮助，只要能保持她的心情，其他条件相等），但在规范上是混合的，因为它们既不是美德也不是恶习。马克 · 阿尔法诺（2013）走向第三个方向，认为美德和恶习的归因往往起到自我实现的预言作用。人们往往根据被归因给他们的特质行事，无论这些特质是次要美德，如整洁（米勒，布里克曼和波伦 1975）和生态意识（科内利森等人 2006，2007），主要美德，如慈善（詹森和摩尔 1977），合作性（格鲁塞克等人 1978）和慷慨（格鲁塞克和雷德勒 1980），还是恶习，如残酷的竞争性（格鲁塞克等人 1978）。在阿尔法诺看来，当人们按照一种美德行事时，他们经常这样做并不是因为他们拥有相关的特质，而是因为他们认为自己拥有或者因为他们知道其他人认为他们拥有。他将这种道德品格的模拟称为虚假美德，甚至建议修订美德的概念以包括反射和社会期望。【9】
 
 这些激发这些新颖美德方法的批评似乎没有抓住要点。毕竟，美德伦理学家不必（而且通常不会）承诺几乎每个人都是有美德的这一说法。相反，许多人认为美德是道德发展的规范目标，人们在各种方式上大多未能达到这一目标。因此，从大多数人的性情不是美德这一事实到拒绝传统美德伦理学的论证，可能被认为是一个不合逻辑的推论，至少对于这些观点来说是如此。但是，对美德伦理学持有实证主义观点的批评者并不止步于此。他们对人们代替美德所具有的性情有积极的看法。据称，这些性情与美德（传统上的理解）有如此结构上的不同，以至于将（传统的）美德视为规范理想可能在心理上是不现实的。因此，重要的是描述性和规范性之间的差距，即大多数人具有的性情（结构）与被视为美德的性情（结构）之间的差距。
 
@@ -204,7 +204,7 @@ L4/M4 指出我们可以将语言短语嵌入其他语言短语中，从而创�
 
 首先，在享乐评估领域，瞬间快乐和痛苦的总和与事后对快乐和痛苦的记忆之间存在明显的分歧。例如，结肠镜检查的疼痛记忆水平很好地由最糟糕瞬间疼痛水平和最终疼痛水平的平均值预测；此外，该程序的持续时间对事后疼痛评分没有可测量的影响（Redelmeier & Kahneman 1996）。这意味着人们对他们享乐经历的事后总结并不是关于瞬间享乐色调的时间积分。如果结肠镜检查在第 5 分钟后功能上完成，但任意延长另外 5 分钟，以使第 10 分钟末的疼痛水平低于第 5 分钟末的水平，患者会回顾性地评估这一经历为更少疼痛。这使得以快乐为基础的幸福账目变得复杂（例如，Bentham 的 1789/1961 享乐主义），因为它引发了一个问题，即所测量的快乐是瞬间体验的快乐，还是事后回顾的快乐：如果在聚合快乐的过程中，我们改变了评估方式，这对享乐主义和某些形式的功利主义都是一个复杂因素。由于幸福被认为是一个能够引导个人行为和社会政策的规范概念，这些发现也质疑了我们究竟应该寻求最大化什么：愉快时刻，还是整体的事后快乐评估。
 
-这些发现已经导致一些哲学家寻求快乐主义的替代方案，希望建立更具经验稳定性的幸福基础：特别是认为幸福在于生活满意度的观念。在这一领域中最著名的心理学家是 Ed Diener[11]，他的“生活满意度量表”要求参与者同意或不同意诸如“我对我的生活感到满意”和“如果我可以重新过我的生活，我几乎什么都不会改变”之类的陈述。这些问题似乎更多地涉及生活中更稳定和重要的特征，而不是快乐和痛苦方面的享乐评估，人们可能期望回答更一致和更有力。然而，出现了两个问题。第一个问题是参与者对生活满意度问卷的回答可能不是对立场态度的准确报告。例如，Fox 和 Kahneman（1992）表明，尤其在个人领域，人们似乎重视的是社会比较而不是最近的个人内部因素。刚刚失去一个朋友但仍然认为自己比同龄人有更多朋友的人，倾向于报告比刚刚交到一个朋友但仍然认为自己比同龄人有更少朋友的人更高的生活满意度。
+这些发现已经导致一些哲学家寻求快乐主义的替代方案，希望建立更具经验稳定性的幸福基础：特别是认为幸福在于生活满意度的观念。在这一领域中最著名的心理学家是 Ed Diener [11]，他的“生活满意度量表”要求参与者同意或不同意诸如“我对我的生活感到满意”和“如果我可以重新过我的生活，我几乎什么都不会改变”之类的陈述。这些问题似乎更多地涉及生活中更稳定和重要的特征，而不是快乐和痛苦方面的享乐评估，人们可能期望回答更一致和更有力。然而，出现了两个问题。第一个问题是参与者对生活满意度问卷的回答可能不是对立场态度的准确报告。例如，Fox 和 Kahneman（1992）表明，尤其在个人领域，人们似乎重视的是社会比较而不是最近的个人内部因素。刚刚失去一个朋友但仍然认为自己比同龄人有更多朋友的人，倾向于报告比刚刚交到一个朋友但仍然认为自己比同龄人有更少朋友的人更高的生活满意度。
 
 生活满意度调查也被认为受到顺序效应的影响。如果参与者被问及全球生活满意度问题，然后被问及他的恋爱生活，这些问题之间的相关性往往接近零，但如果首先问及约会问题，相关性往往会高且为正（Strack, Martin & Schwarz 1988）。相关地，当被问及天气问题时，天气和生活满意度之间存在相关性，但当天气问题跟在生活满意度查询之后时，相关性就不存在了（Schwarz & Clore 1983）。然而，最近的研究对这种结果提出了质疑：Schimmack 和 Oishi（2005）未能复制 Strack 等人（1988）的发现，而 Lucas 和 Lawless（2013）未发现天气对生活满意度判断的影响证据（但请参阅 Connolly 2013）。最近的调查表明，一些哲学家一直认为的生活满意度调查的不稳定性被夸大了（Lucas 2018）。
 
@@ -216,9 +216,9 @@ Schwarz 的研究结果以及类似的研究结果已经使一些哲学家（例
 
 一个辩论涉及到热情驱动的推理是否一定比仅基于更冷静、更反思的思考的推理更好或更差——有时使用卡内曼的术语系统 1/系统 2 思维来区分。术语并不完美，因为卡内曼的术语映射到一种快速、自动、无意识的判断系统（系统 1）和一种缓慢、费力、深思熟虑的决策过程（系统 2），正如我们上面所看到的，这并不是情感和理性之间的区别，因为基于规则的判断可能是自动和无意识的，而情感判断可能是费力和有意识的。米哈伊尔和海德特之间的辩论是关于情感而不是规则解释我们道德判断的程度；辛格和格林反对义务论的论点是情感支持的判断不如其功利主义对应物合理。
 
-道德判断基本上涉及某种情感成分的一个原因是它们倾向于激励我们。内在主义认为道德判断和动机之间存在必要联系。这与外在主义形成对比，外在主义并不否认道德判断通常具有激励作用，但它否认道德判断必然具有激励作用，因为判断和动机之间的联系仅仅是偶然的。由于情感本质上具有激励作用，证明道德判断在某种程度上包含情感将为内在主义提供支持。达成这一结论的一种途径涉及调查人们对道德判断的直觉。尼科尔斯（2002: 289）询问受试者，一个“对伤害他人没有情感反应”但声称知道伤害他人是错误的行为者是否真正理解伤害他人是错误的。他发现大多数受试者在这种情况下确实归因于知识，这表明普通道德判断的概念是外在主义的，这一说法得到了斯特兰伯格和比约克伦德（2013）的进一步支持。另一个证据来源来自精神病患者和患有创伤性脑损伤的患者，他们两者都显示出道德功能受损的证据——尽管如何看待这一证据取决于一个人从哪个角度出发：虽然外在主义者（尼科尔斯 2002; 罗斯基斯 2003）声称精神病患者的存在提供了一个反例，即道德判断具有激励作用（因为精神病患者缺乏同情心和对伤害他人的厌恶），内在主义者（史密斯 1994; 麦博姆 2005; 肯尼特和芬 2008）则认为精神病患者实际上并没有做出完全的道德判断。心理学家罗伯特·哈尔（1993: 129）引用一位研究人员的话说，他们“知道词语但不知道音乐”。精神病患者还表现出其他认知和情感缺陷，这可以从他们在其他领域的糟糕决策技能中得到证实。这可能意味着他们不应被视为反对内在主义的证据。
+道德判断基本上涉及某种情感成分的一个原因是它们倾向于激励我们。内在主义认为道德判断和动机之间存在必要联系。这与外在主义形成对比，外在主义并不否认道德判断通常具有激励作用，但它否认道德判断必然具有激励作用，因为判断和动机之间的联系仅仅是偶然的。由于情感本质上具有激励作用，证明道德判断在某种程度上包含情感将为内在主义提供支持。达成这一结论的一种途径涉及调查人们对道德判断的直觉。尼科尔斯（2002: 289）询问受试者，一个“对伤害他人没有情感反应”但声称知道伤害他人是错误的行为者是否真正理解伤害他人是错误的。他发现大多数受试者在这种情况下确实归因于知识，这表明普通道德判断的概念是外在主义的，这一说法得到了斯特兰伯格和比约克伦德（2013）的进一步支持。另一个证据来源来自精神病患者和患有创伤性脑损伤的患者，他们两者都显示出道德功能受损的证据——尽管如何看待这一证据取决于一个人从哪个角度出发：虽然外在主义者（尼科尔斯 2002; 罗斯基斯 2003）声称精神病患者的存在提供了一个反例，即道德判断具有激励作用（因为精神病患者缺乏同情心和对伤害他人的厌恶），内在主义者（史密斯 1994; 麦博姆 2005; 肯尼特和芬 2008）则认为精神病患者实际上并没有做出完全的道德判断。心理学家罗伯特 · 哈尔（1993: 129）引用一位研究人员的话说，他们“知道词语但不知道音乐”。精神病患者还表现出其他认知和情感缺陷，这可以从他们在其他领域的糟糕决策技能中得到证实。这可能意味着他们不应被视为反对内在主义的证据。
 
-情感不应涉及道德判断的一个理由是，情感有时似乎会导致扭曲或偏离轨道的判断，或者似乎是无法解释的。在这种情况下，特别经常提到一种情感：恶心。这种情感似乎是人类动物独有的，相对较晚地在发展中出现（大约在 5-8 岁之间），包括特征性的张开面部表情，倾向于远离恶心对象，体温和心率略微降低，以及一种恶心感和清洁自己的需要。此外，恶心的主体通常会被激励避免甚至清除令人恶心的对象，将其视为污染和令人厌恶，变得更加敏感于周围其他令人恶心的物体，并倾向于将对象接触的任何东西（无论是物理上还是象征性地）也视为令人恶心。这种最后的特征通常被称为“污染潜力”，它是使恶心如此强大且根据其批评者如此棘手的特征之一。恶心反应很难抑制，容易被识别，并且会在那些识别出它的人中引起恶心[13]。几乎所有正常成年人都会对某些物体感到恶心（粪便、腐烂尸体、腐烂食物、蜘蛛、蛆虫、严重的身体畸形）。但除了这些核心恶心对象外，还存在相当大的跨文化和人际差异，情感延伸到食物选择、性行为、外群体成员和违反社会规范。许多研究声称显示恶心涉及更严厉的道德判断（Schnall、Haidt 和 Clore 2008），引用实验表明，在恶臭或肮脏的房间填写问卷的受试者更严厉地评价道德违规行为。然而，许多这些研究未能复制，对偶发恶心对道德判断的影响产生了怀疑（例如，Johnson、Cheung 和 Donnellan（2014）未能复制 Schnall 等人（2008）的研究；Ghelfi 等人 2020）。
+情感不应涉及道德判断的一个理由是，情感有时似乎会导致扭曲或偏离轨道的判断，或者似乎是无法解释的。在这种情况下，特别经常提到一种情感：恶心。这种情感似乎是人类动物独有的，相对较晚地在发展中出现（大约在 5-8 岁之间），包括特征性的张开面部表情，倾向于远离恶心对象，体温和心率略微降低，以及一种恶心感和清洁自己的需要。此外，恶心的主体通常会被激励避免甚至清除令人恶心的对象，将其视为污染和令人厌恶，变得更加敏感于周围其他令人恶心的物体，并倾向于将对象接触的任何东西（无论是物理上还是象征性地）也视为令人恶心。这种最后的特征通常被称为“污染潜力”，它是使恶心如此强大且根据其批评者如此棘手的特征之一。恶心反应很难抑制，容易被识别，并且会在那些识别出它的人中引起恶心 [13]。几乎所有正常成年人都会对某些物体感到恶心（粪便、腐烂尸体、腐烂食物、蜘蛛、蛆虫、严重的身体畸形）。但除了这些核心恶心对象外，还存在相当大的跨文化和人际差异，情感延伸到食物选择、性行为、外群体成员和违反社会规范。许多研究声称显示恶心涉及更严厉的道德判断（Schnall、Haidt 和 Clore 2008），引用实验表明，在恶臭或肮脏的房间填写问卷的受试者更严厉地评价道德违规行为。然而，许多这些研究未能复制，对偶发恶心对道德判断的影响产生了怀疑（例如，Johnson、Cheung 和 Donnellan（2014）未能复制 Schnall 等人（2008）的研究；Ghelfi 等人 2020）。
 
 有人进一步主张，厌恶本身可能导致或构成道德判断的一部分（Haidt 2001; Wheatley & Haidt 2005）。如果这是真的，批评者争辩说，我们应该对这些判断持谨慎态度，因为厌恶在多个意义上都有不光彩的历史。首先，从历史（和现在）的角度看，它与种族主义、性别歧视、恐同和仇外情绪有关；厌恶的语言经常被用于歧视和甚至种族灭绝的运动中。其次，厌恶的进化历史使我们有理由对其表示怀疑。Kelly（2011）认为，厌恶的普遍身体表现进化为帮助人类避免摄入毒素和其他有害物质，而与厌恶相关的更多认知或象征意义的令人厌恶和污染感进化为帮助人类避免疾病和寄生虫。这一系统后来被用于完全不同的目的：帮助标记内群体和外群体之间的界限，从而激励与内群体成员合作，惩罚内群体的叛徒，并排斥外群体成员。
 
@@ -238,11 +238,11 @@ Schwarz 的研究结果以及类似的研究结果已经使一些哲学家（例
 
 ### 4.1 民间元伦理学与道德现实主义
 
-当代许多元伦理学依赖于对普通道德思维、话语和实践性质的假设；元伦理学家倾向于将他们的项目视为基本保守。例如，迈克尔·史密斯（Michael Smith）写道，元伦理理论化的第一步是“确定在普通道德实践中显现的特征”，第二步是“理解具有这些特征的实践”。（1994）这一假设对现实主义者和反现实主义者之间的辩论产生了重大影响，现实主义者声称最能捕捉普通道德话语的性质：“我们开始时是（心照不宣的）认知主义者和伦理现实主义者，”布林克（Brink）说，然后“只有当我们认为道德现实主义者的承诺是站不住脚的时候，我们才会被引向某种形式的反现实主义（如果我们被引向）……道德现实主义应该是我们的元伦理起点，只有当它涉及不可接受的形而上学和认识论承诺时，我们才应该放弃它。”
+当代许多元伦理学依赖于对普通道德思维、话语和实践性质的假设；元伦理学家倾向于将他们的项目视为基本保守。例如，迈克尔 · 史密斯（Michael Smith）写道，元伦理理论化的第一步是“确定在普通道德实践中显现的特征”，第二步是“理解具有这些特征的实践”。（1994）这一假设对现实主义者和反现实主义者之间的辩论产生了重大影响，现实主义者声称最能捕捉普通道德话语的性质：“我们开始时是（心照不宣的）认知主义者和伦理现实主义者，”布林克（Brink）说，然后“只有当我们认为道德现实主义者的承诺是站不住脚的时候，我们才会被引向某种形式的反现实主义（如果我们被引向）……道德现实主义应该是我们的元伦理起点，只有当它涉及不可接受的形而上学和认识论承诺时，我们才应该放弃它。”
 
-实验工作对这一说法提出了质疑，始于达利和古德温（2008 年），由詹姆斯·比比（2014 年）等人继续进行（Wright 等，2013 年；坎贝尔和库马尔，2012 年；古德温和达利，2010 年；萨尔基西安等，2011 年；但请参见苏萨等，2021 年；有关评论，请参见波尔兹勒和赖特，2019 年）。Goodwin 和 Darley 要求受试者评价从道德、伦理和美学领域提取的陈述，并询问受试者是否同意该陈述（例如，“在怀孕的第三个月之前，任何理由（母亲的）的堕胎是道德上可接受的”），他们是否认为这代表了事实还是观点或态度，以及如果有人对该陈述持不同意见，是否至少有一方是错误的。 （我们将在下一节更多地谈到作者使用分歧作为现实主义的替代方法。）一般来说，受试者认为道德陈述比显然的事实陈述（例如，“地球位于宇宙中心”）更少具有事实性，但比有关品味或礼仪的陈述更具事实性。这些发现引人注目的地方不仅在于人们并非直接的现实主义者，而且他们似乎以不同方式对待道德问题（Wright，Grandjean 和 McWhite，2013 年）：有些被视为事实问题，而另一些被视为观点问题。这种模式已在几项研究中得到复制，并且即使在允许受试者自行确定要分配到道德领域的问题时，这种模式仍然存在，这表明受试者并不认为道德主张是统一客观的。
+实验工作对这一说法提出了质疑，始于达利和古德温（2008 年），由詹姆斯 · 比比（2014 年）等人继续进行（Wright 等，2013 年；坎贝尔和库马尔，2012 年；古德温和达利，2010 年；萨尔基西安等，2011 年；但请参见苏萨等，2021 年；有关评论，请参见波尔兹勒和赖特，2019 年）。Goodwin 和 Darley 要求受试者评价从道德、伦理和美学领域提取的陈述，并询问受试者是否同意该陈述（例如，“在怀孕的第三个月之前，任何理由（母亲的）的堕胎是道德上可接受的”），他们是否认为这代表了事实还是观点或态度，以及如果有人对该陈述持不同意见，是否至少有一方是错误的。 （我们将在下一节更多地谈到作者使用分歧作为现实主义的替代方法。）一般来说，受试者认为道德陈述比显然的事实陈述（例如，“地球位于宇宙中心”）更少具有事实性，但比有关品味或礼仪的陈述更具事实性。这些发现引人注目的地方不仅在于人们并非直接的现实主义者，而且他们似乎以不同方式对待道德问题（Wright，Grandjean 和 McWhite，2013 年）：有些被视为事实问题，而另一些被视为观点问题。这种模式已在几项研究中得到复制，并且即使在允许受试者自行确定要分配到道德领域的问题时，这种模式仍然存在，这表明受试者并不认为道德主张是统一客观的。
 
-一个仍然存在的问题是如何解释这种变化：人们是否不一致？他们是否在追踪除了道德问题之外的东西——也许是关于一个问题存在的共识程度？进一步的研究可能有助于阐明这些问题，但即使这些问题肯定地得到回答，现实主义者声称捕捉民间道德的说法也受到质疑，因为这些实验表明，民间直觉要么不是一致的现实主义者，要么是混乱的（因此不适合在元伦理理论中发挥作用）。对这些发现的另一种回应是它们揭示了一种民间元伦理多元主义。例如，迈克尔·吉尔（2008 年，2009 年）和沃尔特·辛诺特-阿姆斯特朗（2009 年）提出了对某些道德领域的非认知主义处理，对其他领域则是认知主义。然而，这种回应在实证数据方面缺乏动机，因为这些数据最多只表明我们对道德主张描述独立于心智的事实的程度是可变的，并不表明它们的语义本身是变化的。这样的数据也没有解决我们的道德判断是信念还是其他愿望状态的问题：虽然实验数据可以揭示情感在道德判断中的作用，正如上文所讨论的，但它并没有表明在这种情况下信念是不存在的。我们将在下文的第 5 节中更详细地讨论实验道德哲学的局限性。目前看来，关于民间现实主义的数据最好被视为削弱了道德现实主义最常引用的证据之一，即它比竞争对手更好地捕捉了我们的普通道德话语和实践。一个进一步探讨的问题是，反现实主义观点是否能更好地捕捉和解释我们的民间直觉，胜过现实主义竞争对手。
+一个仍然存在的问题是如何解释这种变化：人们是否不一致？他们是否在追踪除了道德问题之外的东西——也许是关于一个问题存在的共识程度？进一步的研究可能有助于阐明这些问题，但即使这些问题肯定地得到回答，现实主义者声称捕捉民间道德的说法也受到质疑，因为这些实验表明，民间直觉要么不是一致的现实主义者，要么是混乱的（因此不适合在元伦理理论中发挥作用）。对这些发现的另一种回应是它们揭示了一种民间元伦理多元主义。例如，迈克尔 · 吉尔（2008 年，2009 年）和沃尔特 · 辛诺特-阿姆斯特朗（2009 年）提出了对某些道德领域的非认知主义处理，对其他领域则是认知主义。然而，这种回应在实证数据方面缺乏动机，因为这些数据最多只表明我们对道德主张描述独立于心智的事实的程度是可变的，并不表明它们的语义本身是变化的。这样的数据也没有解决我们的道德判断是信念还是其他愿望状态的问题：虽然实验数据可以揭示情感在道德判断中的作用，正如上文所讨论的，但它并没有表明在这种情况下信念是不存在的。我们将在下文的第 5 节中更详细地讨论实验道德哲学的局限性。目前看来，关于民间现实主义的数据最好被视为削弱了道德现实主义最常引用的证据之一，即它比竞争对手更好地捕捉了我们的普通道德话语和实践。一个进一步探讨的问题是，反现实主义观点是否能更好地捕捉和解释我们的民间直觉，胜过现实主义竞争对手。
 
 ### 4.2 道德分歧
 
@@ -254,7 +254,7 @@ Schwarz 的研究结果以及类似的研究结果已经使一些哲学家（例
 
 争议是客观性的一个有用度量的原因之一，是因为无可非议的争执的不可能性被认为是涉及客观事实问题的特征。也就是说，虽然我们可能会承认在涉及食物的美味或体育队的优点等问题上存在无可非议的争执的可能性，但当我们在道德问题上发生分歧时，我们认为存在一个正确答案，因此至少有一个争议者是错误的（关于食物和道德之间的类比讨论，请参见 Loeb 2003）。在人们判断争议是无可非议的程度上，我们可能认为他们展现了对争议问题的某种反实在主义。这是争议如何影响现实主义/反实在主义辩论的另一种方式。涉及争议的实验证据能告诉我们有关道德语言语义的任何信息吗？
 
-有一个认为它可以的理由是，无过失分歧的概念对一些人来说是不连贯的。在一个人认为（或说）开心果冰淇淋很美味，另一个人认为（或说）它很恶心的情况下，我们理解这两个人在表达他们自己的个人偏好。为了解释争议的无过失性，我们重新解释他们的想法或言论，解释为类似于“对我来说，开心果冰淇淋很美味[恶心]”。因为这两个人并没有真正相互矛盾，我们无需说其中一个是错误的。因此，无过失性被认为是道德反现实主义者的一个优点，因为它似乎暗示着没有关于他们分歧的单一内容（也没有可能其中一个是错误的）。
+有一个认为它可以的理由是，无过失分歧的概念对一些人来说是不连贯的。在一个人认为（或说）开心果冰淇淋很美味，另一个人认为（或说）它很恶心的情况下，我们理解这两个人在表达他们自己的个人偏好。为了解释争议的无过失性，我们重新解释他们的想法或言论，解释为类似于“对我来说，开心果冰淇淋很美味 [恶心]”。因为这两个人并没有真正相互矛盾，我们无需说其中一个是错误的。因此，无过失性被认为是道德反现实主义者的一个优点，因为它似乎暗示着没有关于他们分歧的单一内容（也没有可能其中一个是错误的）。
 
 相比之下，现实主义者声称他们的观点更能捕捉到我们的直觉，即当一个人说偷窃是错误的，另一个人说偷窃不是错误时，存在真正的分歧。在这些情况下，现实主义者认为，我们有直觉认为确实存在冲突，只有一种理论认为道德语言涉及将属性归因于行为和事物，而不是报告或表达说话者的态度，才能捕捉到这种直觉。
 
@@ -278,7 +278,7 @@ Schwarz 的研究结果以及类似的研究结果已经使一些哲学家（例
 
 多次测试而不进行更正是一种 p-hacking（Simmons, Nelson & Simohnson 2011）的形式。 “P-hacking” 指的是一系列实践，通过利用偶然性增加获得显著结果的概率，例如删除异常值、测试统计模型时有无协变量以及未经校正的多次测试。虽然在心理学中 p-hacking 可能出奇地频繁（John, Loewenstein & Prelec 2012），但在实验哲学中似乎很少见（Stuart, Colaço & Machery 2018）。
 
-实验伦理学中最好的方法来判断这样的结果是否具有任何证据价值是通过复制实验来验证，最好是由另一个研究小组来进行。如果一个结果无法被稳健地复制，那么它很可能是一个幻觉。最近，这样的幻觉已经出现到了令人不安的程度，正如丹尼尔·卡内曼所指出的那样（Yong 2012；另见 Wagenmakers 等人 2012）。卡内曼提出了一个“雏菊链”复制的概念，即在心理学中，任何结果在被另一个知名实验室成功复制之前都不会被发表。这一提议尚未被实施（也许永远不会），但它已经引起了复制问题的关注，并且相关项目已经启动。心理学中的可重复性项目旨在确定知名的已发表结果能够被复制的程度。实验哲学家们也效仿他们自己的复制项目（参见其他互联网资源）。这项工作最近取得了令人鼓舞的成果：一个大型的协作复制努力表明，大约有 10 个实验哲学结果中的 7 个可以被复制，而类似的努力显示，生物医学、经济学和心理学领域的结果中不到一半是可复制的（Cova 等人 2021，其他互联网资源）。另一方面，正如本文所讨论的那样，许多有影响力的道德心理学实验研究未能被复制。
+实验伦理学中最好的方法来判断这样的结果是否具有任何证据价值是通过复制实验来验证，最好是由另一个研究小组来进行。如果一个结果无法被稳健地复制，那么它很可能是一个幻觉。最近，这样的幻觉已经出现到了令人不安的程度，正如丹尼尔 · 卡内曼所指出的那样（Yong 2012；另见 Wagenmakers 等人 2012）。卡内曼提出了一个“雏菊链”复制的概念，即在心理学中，任何结果在被另一个知名实验室成功复制之前都不会被发表。这一提议尚未被实施（也许永远不会），但它已经引起了复制问题的关注，并且相关项目已经启动。心理学中的可重复性项目旨在确定知名的已发表结果能够被复制的程度。实验哲学家们也效仿他们自己的复制项目（参见其他互联网资源）。这项工作最近取得了令人鼓舞的成果：一个大型的协作复制努力表明，大约有 10 个实验哲学结果中的 7 个可以被复制，而类似的努力显示，生物医学、经济学和心理学领域的结果中不到一半是可复制的（Cova 等人 2021，其他互联网资源）。另一方面，正如本文所讨论的那样，许多有影响力的道德心理学实验研究未能被复制。
 
 ### 5.2 Philosophical Problems5.2 哲学问题
 
@@ -335,251 +335,251 @@ Schwarz 的研究结果以及类似的研究结果已经使一些哲学家（例
 * Case, T., Repacholi, B., & Stevenson, R., 2006. “My baby doesn’t smell as bad as yours: The plasticity of disgust”, *Evolution and Human Behavior*, 27(5): 357–365.
 * Choi, I., Nisbett, R. E., & Norenzayan, A., 1999. “Causal attribution across cultures: Variation and universality”, *Psychological Bulletin*, 125: 47–63.
 * Chomsky, N., 1965. *Aspects of the Theory of Syntax*, Cambridge, MA: MIT Press.
-* Cohen, J., 1994. “The Earth is round (p<.05)”, *American Psychologist*, 49(12): 997–1003.
-* Cornelissen, G., Dewitte, S., Warlop, L., Liegeois, A., Yzerbyt, V., Corneille, O., 2006. “Free bumper stickers for a better future: The long term effect of the labeling technique”, *Advances in Consumer Research*, 33: 284–285.
-* Cova, F., et al., 2021. “Estimating the reproducibility of experimental philosophy”, *Review of Philosophy and Psychology*, 12: 9–44.
-* Curry, O., Mullins, D., and Whitehouse, H., 2019. “Is it good to cooperate? Testing the theory of morality-as-cooperation in 60 societies”, *Current Anthropology*, 60: 47–69.
-* Cushman, F. & Greene, J., 2012. “Finding faults: How moral dilemmas illuminate cognitive structure”, *Social Neuroscience*, 7(3): 269–279.
-* Cushman, F. & Young, L., 2009. “The psychology of dilemmas and the philosophy of morality”, *Ethical Theory and Moral Practice*, 12(1): 9–24.
-* –––, 2011. “Patterns of judgment derive from nonmoral psychological representations”, *Cognitive Science*, 35(6): 1052–1075.
-* Darley, J. and Batson, C. D., 1973. “From Jerusalem to Jericho: A study of situational and dispositional variables in helping behavior”, *Journal of Personality and Social Psychology*, 27: 100–108.
-* De Brigard, F., 2010. “If you like it, does it matter if it’s real?” *Philosophical Psychology*, 23(1): 43–57
-* Deutsch, M., 2016. “Arguments, intuitions, and philosophical cases: A note on a metaphilosophical dialectic”, *Philosophical Forum*, 47(3–4): 297–307.
-* Diener, E., Scollon, C., & Lucas, R., 2003. “The evolving concept of subjective wellbeing: The multifaceted nature of happiness”, *Advances in Cell Aging and Gerontology*, 15: 187–219.
-* Diener, E., Emmons, R., Larsen, R., & Griffin, S., 2010. “The satisfaction with life scale”, *Journal of Personality Assessment*, 49(1): 71–5.
-* Doris, J., 1998. “Persons, situations, and virtue ethics”, *Noûs*, 32(4): 504–540.
-* –––, 2002. *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
-* –––, in press. *Character Trouble: Undisciplined Essays on Moral Agency and Personality*, Oxford: Oxford University Press.
+* Cohen, J., 1994. “The Earth is round (p <.05)”, *American Psychologist*, 49(12): 997–1003.
+* Cornelissen, G., Dewitte, S., Warlop, L., Liegeois, A., Yzerbyt, V., Corneille, O., 2006. “Free bumper stickers for a better future: The long term effect of the labeling technique”, * Advances in Consumer Research*, 33: 284–285.
+* Cova, F., et al., 2021. “Estimating the reproducibility of experimental philosophy”, * Review of Philosophy and Psychology*, 12: 9–44.
+* Curry, O., Mullins, D., and Whitehouse, H., 2019. “Is it good to cooperate? Testing the theory of morality-as-cooperation in 60 societies”, * Current Anthropology*, 60: 47–69.
+* Cushman, F. & Greene, J., 2012. “Finding faults: How moral dilemmas illuminate cognitive structure”, * Social Neuroscience*, 7(3): 269–279.
+* Cushman, F. & Young, L., 2009. “The psychology of dilemmas and the philosophy of morality”, * Ethical Theory and Moral Practice*, 12(1): 9–24.
+* –––, 2011. “Patterns of judgment derive from nonmoral psychological representations”, * Cognitive Science*, 35(6): 1052–1075.
+* Darley, J. and Batson, C. D., 1973. “From Jerusalem to Jericho: A study of situational and dispositional variables in helping behavior”, * Journal of Personality and Social Psychology*, 27: 100–108.
+* De Brigard, F., 2010. “If you like it, does it matter if it’s real?” * Philosophical Psychology*, 23(1): 43–57
+* Deutsch, M., 2016. “Arguments, intuitions, and philosophical cases: A note on a metaphilosophical dialectic”, * Philosophical Forum*, 47(3–4): 297–307.
+* Diener, E., Scollon, C., & Lucas, R., 2003. “The evolving concept of subjective wellbeing: The multifaceted nature of happiness”, * Advances in Cell Aging and Gerontology*, 15: 187–219.
+* Diener, E., Emmons, R., Larsen, R., & Griffin, S., 2010. “The satisfaction with life scale”, * Journal of Personality Assessment*, 49(1): 71–5.
+* Doris, J., 1998. “Persons, situations, and virtue ethics”, * Noûs*, 32(4): 504–540.
+* –––, 2002. * Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
+* –––, in press. * Character Trouble: Undisciplined Essays on Moral Agency and Personality*, Oxford: Oxford University Press.
 * Doris, J. & Plakias, A., 2008a. “How to argue about disagreement: Evaluative diversity and moral realism”, in Sinnott-Armstrong (2008b), 303–332.
 * –––, 2008b. “How to Find a Disagreement: Philosophical Diversity and Moral Realism”, in Sinnott-Armstrong (2008b), 345–54.
-* –––, 2015. *Talking to Our Selves: Reflection, Ignorance, and Agency*. Oxford: Oxford University Press.
-* Doris, J., Stich, S. P., Philipps, & Walmsley, L. 2020. “Moral Psychology: Empirical Approaches”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <[Moral Psychology: Empirical Approaches (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/moral-psych-emp/)>.
-* Doris, J. M., Machery, E., & Stich, S. P., 2017. “Can psychologists tell us anything about morality?”, *The Philosophers’ Magazine*, 77: 24–29.
-* Dranseika, V., Berniūnas, R., & Silius, V., 2018. “Immorality and bu daode, unculturedness and bu wenming”, *Journal of Cultural Cognitive Science*, 2: 71–84.
-* Dwyer, S., 1999. “Moral competence”, in K. Murasugi & R. Stainton (eds.), *Philosophy and Linguistics*, Boulder, CO: Westview Press, 169–190.
-* –––, 2009. “Moral dumbfounding and the linguistic analogy: Implications for the study of moral judgment”, *Mind and Language*, 24: 274–96.
-* Everett, D., 2005. “Cultural constraints on grammar and cognition in Pirahã: Another look at the design features of human language”, *Current anthropology*, 46: 621–646.
-* Flanagan, O., 1983. *Varieties of Moral Personality: Ethics and Psychological Realism*, Cambridge: Harvard University Press.
-* Foot, P., 1978. *Virtues and Vices and Other Essays in Moral Philosophy*, Berkeley, CA: University of California Press; Oxford: Blackwell.
-* Fox, C. & Kahneman, D., 1992. “Correlations, causes and heuristics in surveys of life satisfaction”, *Social Indicators Research*, 27: 221–234.
-* Friesdorf, R., Conway, P., & Gawronski, B., 2015. “Gender differences in responses to moral dilemmas: a process dissociation analysis”, *Personality and Social Psychology Bulletin*, 41: 696–713.
-* Funder, D. & Ozer, D., 1983. “Behavior as a function of the situation”, *Journal of Personality and Social Psychology*, 44: 107–112.
+* –––, 2015. * Talking to Our Selves: Reflection, Ignorance, and Agency*. Oxford: Oxford University Press.
+* Doris, J., Stich, S. P., Philipps, & Walmsley, L. 2020. “Moral Psychology: Empirical Approaches”, * The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <[Moral Psychology: Empirical Approaches (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/moral-psych-emp/)>.
+* Doris, J. M., Machery, E., & Stich, S. P., 2017. “Can psychologists tell us anything about morality?”, * The Philosophers’ Magazine*, 77: 24–29.
+* Dranseika, V., Berniūnas, R., & Silius, V., 2018. “Immorality and bu daode, unculturedness and bu wenming”, * Journal of Cultural Cognitive Science*, 2: 71–84.
+* Dwyer, S., 1999. “Moral competence”, in K. Murasugi & R. Stainton (eds.), * Philosophy and Linguistics*, Boulder, CO: Westview Press, 169–190.
+* –––, 2009. “Moral dumbfounding and the linguistic analogy: Implications for the study of moral judgment”, * Mind and Language*, 24: 274–96.
+* Everett, D., 2005. “Cultural constraints on grammar and cognition in Pirahã: Another look at the design features of human language”, * Current anthropology*, 46: 621–646.
+* Flanagan, O., 1983. * Varieties of Moral Personality: Ethics and Psychological Realism*, Cambridge: Harvard University Press.
+* Foot, P., 1978. * Virtues and Vices and Other Essays in Moral Philosophy*, Berkeley, CA: University of California Press; Oxford: Blackwell.
+* Fox, C. & Kahneman, D., 1992. “Correlations, causes and heuristics in surveys of life satisfaction”, * Social Indicators Research*, 27: 221–234.
+* Friesdorf, R., Conway, P., & Gawronski, B., 2015. “Gender differences in responses to moral dilemmas: a process dissociation analysis”, * Personality and Social Psychology Bulletin*, 41: 696–713.
+* Funder, D. & Ozer, D., 1983. “Behavior as a function of the situation”, * Journal of Personality and Social Psychology*, 44: 107–112.
 * Gill, M., 2008. “Metaethical Variability, Incoherence, and Error”, in Sinnott-Armstrong (2008b), 387–402.
-* –––, 2009. “Indeterminacy and variability in meta-ethics”, *Philosophical Studies*, 145(2): 215–234.
-* Gold, N., Colman, A. M., & Pulford, B. D., 2014. “Cultural differences in responses to real-life and hypothetical trolley problems”, *Judgment and Decision making*, 9: 65–76.
-* Goodwin, G. P., 2015. E“xperimental approaches to moral standing”, *Philosophy Compass*, 10: 914–926.
-* Goodwin, G. P. and Darley, M., 2008. “The psychology of metaethics: Exploring objectivism”, *Cognition*, 106(3): 1339–1366.
-* Goodwin, G. P. & Darley, J., 2010. “The perceived objectivity of ethical beliefs: Psychological findings and implications for public policy”, *Review of Philosophy and Psychology*, 1: 161–188.
-* Graham, J., Meindl, P., Beall, E., Johnson, K. M., & Zhang, L., 2016. “Cultural differences in moral judgment and behavior, across and within societies”, *Current Opinion in Psychology*, 8: 125–130.
-* Gray, H., Gray, K., & Wegner, D., 2007. “Dimensions of mind perception”, *Science*, 619: 315.
+* –––, 2009. “Indeterminacy and variability in meta-ethics”, * Philosophical Studies*, 145(2): 215–234.
+* Gold, N., Colman, A. M., & Pulford, B. D., 2014. “Cultural differences in responses to real-life and hypothetical trolley problems”, * Judgment and Decision making*, 9: 65–76.
+* Goodwin, G. P., 2015. E“xperimental approaches to moral standing”, * Philosophy Compass*, 10: 914–926.
+* Goodwin, G. P. and Darley, M., 2008. “The psychology of metaethics: Exploring objectivism”, * Cognition*, 106(3): 1339–1366.
+* Goodwin, G. P. & Darley, J., 2010. “The perceived objectivity of ethical beliefs: Psychological findings and implications for public policy”, * Review of Philosophy and Psychology*, 1: 161–188.
+* Graham, J., Meindl, P., Beall, E., Johnson, K. M., & Zhang, L., 2016. “Cultural differences in moral judgment and behavior, across and within societies”, * Current Opinion in Psychology*, 8: 125–130.
+* Gray, H., Gray, K., & Wegner, D., 2007. “Dimensions of mind perception”, * Science*, 619: 315.
 * Greene, J., 2008. “The secret joke of Kant’s soul”, in Sinnott-Armstrong (2008c), 35–80.
-* –––, 2012. “Reflection and reasoning in moral judgment”, *Cognitive Science*, 36(1): 163–177.
-* –––, 2014. “Beyond point-and-shoot morality: Why cognitive (neuro) science matters for ethics”, *Ethics*, 124: 695–726.
-* Greene, J., Morelli, S., Lowenberg, K., Nystrom, L., & Cohen, J., 2008. “Cognitive load selectively interferes with utilitarian moral judgment”, *Cognition*, 107(3): 1144–1154.
-* Greene, J., Nystrom, L., Engell, A., Darley, J., & Cohen, J., 2004. “The neural bases of cognitive conflict and control in moral judgment”, *Neuron*, 44: 389–400.
-* Greene, J., Sommerveille, R., Nystrom, L., Darley, J., & Cohen, J., 2001. “An fMRI investigation of emotional engagement in moral judgment”, *Science*, 293: 2105–8.
-* Grusec, J. & Redler, E., 1980. “Attribution, reinforcement, and altruism: A developmental analysis”, *Developmental Psychology*, 16(5): 525–534.
-* Grusec, J., Kuczynski, L., Rushton, J., & Simutis, Z., 1978. “Modeling, direct instruction, and attributions: Effects on altruism”, *Developmental Psychology*, 14: 51–57.
-* Ghelfi, E., et al., 2020. “Reexamining the effect of gustatory disgust on moral judgment: A multilab direct replication of Eskine, Kacinik, and Prinz (2011)”, *Advances in Methods and Practices in Psychological Science*, 3: 3–23.
-* Haidt, J., 2001. “The emotional dog and its rational tail: A social intuitionist approach to moral judgment”, *Psychological Review*, 108(4): 814–834.
-* –––, 2012. *The Righteous Mind: Why Good People are Divided by Politics and Religion*, New York: Pantheon.
+* –––, 2012. “Reflection and reasoning in moral judgment”, * Cognitive Science*, 36(1): 163–177.
+* –––, 2014. “Beyond point-and-shoot morality: Why cognitive (neuro) science matters for ethics”, * Ethics*, 124: 695–726.
+* Greene, J., Morelli, S., Lowenberg, K., Nystrom, L., & Cohen, J., 2008. “Cognitive load selectively interferes with utilitarian moral judgment”, * Cognition*, 107(3): 1144–1154.
+* Greene, J., Nystrom, L., Engell, A., Darley, J., & Cohen, J., 2004. “The neural bases of cognitive conflict and control in moral judgment”, * Neuron*, 44: 389–400.
+* Greene, J., Sommerveille, R., Nystrom, L., Darley, J., & Cohen, J., 2001. “An fMRI investigation of emotional engagement in moral judgment”, * Science*, 293: 2105–8.
+* Grusec, J. & Redler, E., 1980. “Attribution, reinforcement, and altruism: A developmental analysis”, * Developmental Psychology*, 16(5): 525–534.
+* Grusec, J., Kuczynski, L., Rushton, J., & Simutis, Z., 1978. “Modeling, direct instruction, and attributions: Effects on altruism”, * Developmental Psychology*, 14: 51–57.
+* Ghelfi, E., et al., 2020. “Reexamining the effect of gustatory disgust on moral judgment: A multilab direct replication of Eskine, Kacinik, and Prinz (2011)”, * Advances in Methods and Practices in Psychological Science*, 3: 3–23.
+* Haidt, J., 2001. “The emotional dog and its rational tail: A social intuitionist approach to moral judgment”, * Psychological Review*, 108(4): 814–834.
+* –––, 2012. * The Righteous Mind: Why Good People are Divided by Politics and Religion*, New York: Pantheon.
 * Haidt, J. & Björklund, F., 2008. “Social intuitionists answer six questions about moral psychology”, in Sinnott-Armstrong (2008b), 181–218.
-* Hallen, B., 1986. *Knowledge, Belief, and Witchcraft: Analytic Experiments in African Philosophy*, Oxford: Oxford University Press.
-* –––, 2000. *The Good, the Bad, and the Beautiful: Discourse about Values in Yoruba Culture*, Bloomington: Indiana University Press.
-* Hare, R., 1993. *Without Conscience: The Disturbing World of the Psychopaths Among Us*, New York: Guilford Press.
-* Hannikainen, I. R., Machery, E., & Cushman, F. A., 2018. “Is utilitarian sacrifice becoming more morally permissible?”, *Cognition*, 170: 95–101.
-* Hannikainen, I. R., et al., 2019. “For whom does determinism undermine moral responsibility? Surveying the conditions for free will across cultures”, *Frontiers in Psychology*, 2428.
-* Harman, G., 1999. “Moral philosophy meets social psychology: Virtue ethics and the fundamental attribution error. ” *Proceedings of the Aristotelian Society* (New Series), 119: 316–331.
-* –––, 2000a. “The nonexistence of character traits”, *Proceedings of the Aristotelian Society*, 100: 223–226.
-* –––, 2000b. *Explaining Value and Other Essays in Moral Philosophy*, New York: Oxford University Press.
-* –––, 2003. No character or personality. *Business Ethics Quarterly*, 13(1): 87–94.
+* Hallen, B., 1986. * Knowledge, Belief, and Witchcraft: Analytic Experiments in African Philosophy*, Oxford: Oxford University Press.
+* –––, 2000. * The Good, the Bad, and the Beautiful: Discourse about Values in Yoruba Culture*, Bloomington: Indiana University Press.
+* Hare, R., 1993. * Without Conscience: The Disturbing World of the Psychopaths Among Us*, New York: Guilford Press.
+* Hannikainen, I. R., Machery, E., & Cushman, F. A., 2018. “Is utilitarian sacrifice becoming more morally permissible?”, * Cognition*, 170: 95–101.
+* Hannikainen, I. R., et al., 2019. “For whom does determinism undermine moral responsibility? Surveying the conditions for free will across cultures”, * Frontiers in Psychology*, 2428.
+* Harman, G., 1999. “Moral philosophy meets social psychology: Virtue ethics and the fundamental attribution error. ” * Proceedings of the Aristotelian Society* (New Series), 119: 316–331.
+* –––, 2000a. “The nonexistence of character traits”, * Proceedings of the Aristotelian Society*, 100: 223–226.
+* –––, 2000b. * Explaining Value and Other Essays in Moral Philosophy*, New York: Oxford University Press.
+* –––, 2003. No character or personality. * Business Ethics Quarterly*, 13(1): 87–94.
 * –––, 2008. “Using a linguistic analogy to study morality”, in W. Sinnott-Armstrong (2008a), 345–352.
-* Hauser, M., 2006. *Moral Minds: How Nature Designed a Universal Sense of Right and Wrong*, New York: Ecco Press/Harper Collins.
-* Hauser, M., Chomsky, N., and Fitch, W., 2002. “The faculty of language: What is it, who has it, and how does it evolve”, *Science*, 298: 1569–1579.
+* Hauser, M., 2006. * Moral Minds: How Nature Designed a Universal Sense of Right and Wrong*, New York: Ecco Press/Harper Collins.
+* Hauser, M., Chomsky, N., and Fitch, W., 2002. “The faculty of language: What is it, who has it, and how does it evolve”, * Science*, 298: 1569–1579.
 * Hauser, M., Young, L., & Cushman, F., 2008. “Reviving Rawls’s linguistic analogy: Operative principles and the causal structure of moral actions”, in W. Sinnott-Armstrong (2008b), 107–144.
-* Hauser, M., Cushman, F., Young, L., Kang-Xing Jin, R., & Mikhail, J., 2007. “A dissociation between moral judgments and justifications”, *Mind & language*, 22: 1–21.
-* Haybron, D., 2008. *The Pursuit of Unhappiness*, Oxford: Oxford University Press.
-* Heathwood, C., 2005. “The problem of defective desires”, *Australasian Journal of Philosophy*, 83(4): 487–504.
-* Hindriks, F., & Douven, I., 2018. “Nozick’s experience machine: An empirical study”, *Philosophical Psychology*, 31: 278–298.
-* Hurka, T., 2006. “Virtuous act, virtuous dispositions”, *Analysis*, 66(289): 69–76.
-* Inbar, Y., Pizarro, Knobe, J. & Bloom, P., 2009. “Disgust sensitivity predicts intuitive disapproval of gays”, *Emotion*, 9(3): 435–443.
-* Isen, A. & Levin, P., 1972. “The effect of feeling good on helping: Cookies and kindness”, *Journal of Personality and Social Psychology*, 21: 384–388.
-* Jackson, F., 1998. *From Metaphysics to Ethics*, Oxford: Oxford University Press.
-* Jensen, A. & Moore, S., 1977. “The effect of attribute statements on cooperativeness and competitiveness in school-age boys”, *Child Development*, 48: 305–307.
-* John, L. K., Loewenstein, G., & Prelec, D., 2012. “Measuring the prevalence of questionable research practices with incentives for truth telling”, *Psychological science*, 23: 524–532.
-* Johnson, D. J., Cheung, F., & Donnellan, M. B., 2014. “Does cleanliness influence moral judgments?”, *Social Psychology*, 45: 209–215.
-* Kahane, G., Everett, J. A., Earp, B. D., Farias, M., & Savulescu, J., 2015. “‘Utilitarian’judgments in sacrificial moral dilemmas do not reflect impartial concern for the greater good”, *Cognition*, 134: 193–209.
-* Kahneman, D., Diener, E., & Schwartz, N. (eds), (2003). *Wellbeing: The Foundations of Hedonic Psychology*, New York: Russell Sage.
-* Kahneman, D., 2011. *Thinking, Fast and Slow*, New York: Farrar, Straus, & Giroux.
-* Kamtekar, R., 2004. “Situationism and virtue ethics on the content of our character”, *Ethics*, 114(3): 458–491.
-* Kant, I., 2001. *Lectures on Ethics*, ed. J. B. Schneewind. Cambridge: Cambridge University Press.
-* Kelly, D., 2011. *Yuck! The Nature and Moral Significance of Disgust*, Cambridge: MIT Press.
-* Kennett, J., 2006. “Do psychopaths really threaten moral rationalism?” *Philosophical Explorations*, 9(1): 69–82.
-* Khoo, J. and Knobe, J., 2018. “Moral disagreement and moral semantics,” *Noûs*, 52(1): 109–143.
-* Kline, R. B., 2005. *Principles and Practice of Structural Equation Modeling*, New York: Guilford Press.
-* Kluckhohn, C., 1959. *Mirror for Man*, New York: McGraw Hill.
-* Kneer, M., & Machery, E., 2019. “No luck for moral luck”, *Cognition*, 182: 331–348.
-* Knobe, J., 2003. “Intentional action and side effects in ordinary language”, *Analysis*, 63(3): 190–194.
-* –––, 2004a. “Folk psychology and folk morality: Response to critics”, *Journal of Theoretical and Philosophical Psychology*, 24: 270–279.
-* –––, 2004b. “Intention, intentional action and moral considerations”, *Analysis*, 2: 181–187.
-* –––, 2006. “The concept of intentional action: A case study in the uses of folk psychology”, *Philosophical Studies*, 130(2): 203–231.
-* –––, 2007. “Reason explanation in folk psychology”, *Midwest Studies in Philosophy*, 31: 90–107.
-* –––, 2009. “Cause and norm”, *Journal of Philosophy*, 106(11): 587–612.
-* –––, 2010. “Person as scientist, person as morality”, *Behavioral and Brain Sciences*, 33: 315–329.
-* –––, 2011. “Is morality relative? Depends on your personality”, *The Philosopher’s Magazine*, 52: 66–71.
-* Knobe, J., & Mendlow, G., 2004. “The good, the bad and the blameworthy: Understanding the role of evaluative reasoning in folk psychology”, *Journal of Theoretical and Philosophical* *Psychology*, 24: 252–258.
-* Knobe, J., & Prinz, J., 2008. “Intuitions about Consciousness: Experimental Studies”, *Phenomenology and Cognitive Sciences*, 7: 67–85.
-* Kohlberg, L., 1984. *The Psychology of Moral Development: The Nature and Validity of Moral Stages*, San Francisco: Harper and Row.
-* Kupperman, J., 2009. Virtue in virtue ethics. *Journal of Ethics*, 13(2–3): 243–255.
-* Ladd, J., 1957. *The Structure of a Moral Code: A Philosophical Analysis of Ethical Discourse Applied to the Ethics of the Navaho Indians*, Cambridge, MA: Harvard University Press.
-* Landy, J. F. and Goodwin, G., 2015. “Does incidental disgust amplify moral judgment? A meta-analytic review of experimental evidence”, *Perspectives on Psychological Science*, 10(4): 518–536.
-* Landy, J. F. and Piazza, J., 2019. “Reevaluating moral disgust: sensitivity to many affective states predicts extremity in many evaluative judgments”, *Social Psychological and Personality Science*, 10: 211–219.
-* Lam, B., 2010. “Are Cantonese speakers really descriptivists? Revisiting cross-cultural semantics”, *Cognition*, 115: 320–332.
-* Lanteri, A., Chelini, C., & Rizzello, S., 2008. “An experimental investigation of emotions and reasoning in the trolley problem”, *Journal of Business Ethics*, 83: 789–804.
-* Latané, B., & Darley, J., 1968. “Group inhibition of bystander intervention in emergencies”, *Journal of Personality and Social Psychology*, 10: 215–221.
-* –––, 1970. *The Unresponsive Bystander: Why Doesn’t He Help?* New York: Appleton-Century-Crofts.
-* Latané, B., & Nida, S., 1981. “Ten years of research on group size and helping”, *Psychological Bulletin*, 89: 308–324.
-* Latané, B., & Rodin, J., 1969. “A lady in distress: inhibiting effects of friends and strangers on bystander intervention”, *Journal of Experimental Psychology*, 5: 189–202.
-* Levine, S., Rottman, J., Davis, T., O’Neill, E., Stich, S., & Machery, E., 2021. “Religious affiliation and conceptions of the moral domain”, *Social Cognition*, 39: 139–165.
-* Liao, S. M., Wiegmann, A., Alexander, J., & Vong, G., 2012. “Putting the trolley in order: Experimental philosophy and the loop case”, *Philosophical Psychology*, 25: 661–671.
-* Lindauer, M., & Southwood, N., 2021. “How to cancel the Knobe effect: the role of sufficiently strong moral censure”, *American Philosophical Quarterly*, 58: 181–186.
-* Likert, R., 1932. “A technique for the measurement of attitudes”, *Archives of Psychology*, 140: 1–55.
-* Loeb, D., 1998. “Moral realism and the argument from disagreement”, *Philosophical Studies*, 90(3): 281–303.
-* –––, 2003. “Gastronomic value realism: A cautionary tale”, *Journal of Theoretical and Philosophical Psychology*, 21(1): 30–49.
-* Lombrozo, T., 2009. “The role of moral commitments in moral judgment”, *Cognitive Science*, 33: 273–286.
-* Löhr, G., 2019. “The experience machine and the expertise defense”, *Philosophical Psychology*, 32: 257–273.
-* Lucas, R., 2007. “Adaptation and the set-point model of subjective wellbeing: Does happiness change after major life events?” *Current Directions in Psychological Science*, 16(2): 75–79.
-* –––, 2018. “Reevaluating the strengths and weaknesses of self-report measures of subjective”, in E. Diener, S. Oishi, & L. Tay (eds.), *Handbook of Well-Being*. Salt Lake City: DEF Publishers.
-* Lucas, R., Clark, C., Georgellis, Y., & Diener, E., 2003. “Reexamining adaptation and the set point model of happiness: Reactions to changes in marital status”, *Journal of Personality and Social Psychology*, 84(3): 527–539.
-* Luetge, C., Rusch, H., and Uhl, M. (eds.), 2014. *Experimental Ethics: Towards an Empirical Moral Philosophy*, London: Palgrave.
-* Machery, E., 2008. “The folk concept of intentional action: Philosophical and experimental issues”, *Mind & Language*, 2: 165–189.
-* –––, 2017. *Philosophy Within Its Proper Bounds*. Oxford: Oxford University Press.
-* –––, 2018. “A historical invention”, in K. Gray & J. Graham (eds.), *Atlas of Moral Psychology*. Guilford Publications, 259–265.
-* –––, 2021. “Dehumanization and the loss of moral standing”, in M. Kronfeldner (ed.), *The Routledge Handbook of Dehumanization*. New York: Routledge, 145–158.
-* Machery, E., & Doris, J. M., 2017. “An open letter to our students: Doing interdisciplinary moral psychology”, in B. G. Voyer and T. Tarantola (eds.), *Moral Psychology*. Springer, Cham, 119–143.
-* Machery, E., & Stich, S. P., 2022. “The moral/conventional distinction”, *Stanford Encyclopedia of Philosophy (*Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/moral-conventional/>.
-* Machery, E., Mallon, R., Nichols, S., & Stich, S., 2004. “Semantics, cross-cultural style”, *Cognition*, 92(3): B1–B12.
-* MacIntyre, A., 1998. *A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century*, South Bend, IN: University of Notre Dame Press
-* –––, 1984. *After Virtue: A Study in Moral Theory*, South Bend, IN: University of Notre Dame Press.
-* Mackie, J. L., 1977. *Ethics: Inventing Right and Wrong*, New York: Penguin.
-* Maibom, H. L., 2005. “Moral unreason: The case of psychopathy.” *Mind and Language*, 20(2): 237–57.
-* Matthews, K. E., & Cannon, L. K., 1975. “Environmental noise level as a determinant of helping behavior”, *Journal of Personality and Social Psychology*, 32: 571–577.
-* May, J., 2014. “Does disgust influence moral judgment?” *Australasian Journal of Philosophy*, 92(1): 125–141.
-* McDonald, K., Graves, R., Yin, S., Weese, T., & Sinnott-Armstrong, W. 2021. “Valence framing effects on moral judgments: A meta-analysis”, *Cognition*, 212: 104703.
-* McGilvray, J., 2005. *The Cambridge Companion to Chomsky.* Cambridge: Cambridge University Press.
-* McGuire, J., Langdon, R., Coltheart, M., & Mackenzie, C., 2009. “A reanalysis of the personal/impersonal distinction in moral psychology research”, *Journal of Experimental Social Psychology*, 45: 577–580.
-* Merritt, M., 2000. “Virtue ethics and situationist personality psychology”, *Ethical Theory and Moral Practice*, 3(4): 365–383.
+* Hauser, M., Cushman, F., Young, L., Kang-Xing Jin, R., & Mikhail, J., 2007. “A dissociation between moral judgments and justifications”, * Mind & language*, 22: 1–21.
+* Haybron, D., 2008. * The Pursuit of Unhappiness*, Oxford: Oxford University Press.
+* Heathwood, C., 2005. “The problem of defective desires”, * Australasian Journal of Philosophy*, 83(4): 487–504.
+* Hindriks, F., & Douven, I., 2018. “Nozick’s experience machine: An empirical study”, * Philosophical Psychology*, 31: 278–298.
+* Hurka, T., 2006. “Virtuous act, virtuous dispositions”, * Analysis*, 66(289): 69–76.
+* Inbar, Y., Pizarro, Knobe, J. & Bloom, P., 2009. “Disgust sensitivity predicts intuitive disapproval of gays”, * Emotion*, 9(3): 435–443.
+* Isen, A. & Levin, P., 1972. “The effect of feeling good on helping: Cookies and kindness”, * Journal of Personality and Social Psychology*, 21: 384–388.
+* Jackson, F., 1998. * From Metaphysics to Ethics*, Oxford: Oxford University Press.
+* Jensen, A. & Moore, S., 1977. “The effect of attribute statements on cooperativeness and competitiveness in school-age boys”, * Child Development*, 48: 305–307.
+* John, L. K., Loewenstein, G., & Prelec, D., 2012. “Measuring the prevalence of questionable research practices with incentives for truth telling”, * Psychological science*, 23: 524–532.
+* Johnson, D. J., Cheung, F., & Donnellan, M. B., 2014. “Does cleanliness influence moral judgments?”, * Social Psychology*, 45: 209–215.
+* Kahane, G., Everett, J. A., Earp, B. D., Farias, M., & Savulescu, J., 2015. “‘Utilitarian’judgments in sacrificial moral dilemmas do not reflect impartial concern for the greater good”, * Cognition*, 134: 193–209.
+* Kahneman, D., Diener, E., & Schwartz, N. (eds), (2003). * Wellbeing: The Foundations of Hedonic Psychology*, New York: Russell Sage.
+* Kahneman, D., 2011. * Thinking, Fast and Slow*, New York: Farrar, Straus, & Giroux.
+* Kamtekar, R., 2004. “Situationism and virtue ethics on the content of our character”, * Ethics*, 114(3): 458–491.
+* Kant, I., 2001. * Lectures on Ethics*, ed. J. B. Schneewind. Cambridge: Cambridge University Press.
+* Kelly, D., 2011. * Yuck! The Nature and Moral Significance of Disgust*, Cambridge: MIT Press.
+* Kennett, J., 2006. “Do psychopaths really threaten moral rationalism?” * Philosophical Explorations*, 9(1): 69–82.
+* Khoo, J. and Knobe, J., 2018. “Moral disagreement and moral semantics,” * Noûs*, 52(1): 109–143.
+* Kline, R. B., 2005. * Principles and Practice of Structural Equation Modeling*, New York: Guilford Press.
+* Kluckhohn, C., 1959. * Mirror for Man*, New York: McGraw Hill.
+* Kneer, M., & Machery, E., 2019. “No luck for moral luck”, * Cognition*, 182: 331–348.
+* Knobe, J., 2003. “Intentional action and side effects in ordinary language”, * Analysis*, 63(3): 190–194.
+* –––, 2004a. “Folk psychology and folk morality: Response to critics”, * Journal of Theoretical and Philosophical Psychology*, 24: 270–279.
+* –––, 2004b. “Intention, intentional action and moral considerations”, * Analysis*, 2: 181–187.
+* –––, 2006. “The concept of intentional action: A case study in the uses of folk psychology”, * Philosophical Studies*, 130(2): 203–231.
+* –––, 2007. “Reason explanation in folk psychology”, * Midwest Studies in Philosophy*, 31: 90–107.
+* –––, 2009. “Cause and norm”, * Journal of Philosophy*, 106(11): 587–612.
+* –––, 2010. “Person as scientist, person as morality”, * Behavioral and Brain Sciences*, 33: 315–329.
+* –––, 2011. “Is morality relative? Depends on your personality”, * The Philosopher’s Magazine*, 52: 66–71.
+* Knobe, J., & Mendlow, G., 2004. “The good, the bad and the blameworthy: Understanding the role of evaluative reasoning in folk psychology”, * Journal of Theoretical and Philosophical * * Psychology*, 24: 252–258.
+* Knobe, J., & Prinz, J., 2008. “Intuitions about Consciousness: Experimental Studies”, * Phenomenology and Cognitive Sciences*, 7: 67–85.
+* Kohlberg, L., 1984. * The Psychology of Moral Development: The Nature and Validity of Moral Stages*, San Francisco: Harper and Row.
+* Kupperman, J., 2009. Virtue in virtue ethics. * Journal of Ethics*, 13(2–3): 243–255.
+* Ladd, J., 1957. * The Structure of a Moral Code: A Philosophical Analysis of Ethical Discourse Applied to the Ethics of the Navaho Indians*, Cambridge, MA: Harvard University Press.
+* Landy, J. F. and Goodwin, G., 2015. “Does incidental disgust amplify moral judgment? A meta-analytic review of experimental evidence”, * Perspectives on Psychological Science*, 10(4): 518–536.
+* Landy, J. F. and Piazza, J., 2019. “Reevaluating moral disgust: sensitivity to many affective states predicts extremity in many evaluative judgments”, * Social Psychological and Personality Science*, 10: 211–219.
+* Lam, B., 2010. “Are Cantonese speakers really descriptivists? Revisiting cross-cultural semantics”, * Cognition*, 115: 320–332.
+* Lanteri, A., Chelini, C., & Rizzello, S., 2008. “An experimental investigation of emotions and reasoning in the trolley problem”, * Journal of Business Ethics*, 83: 789–804.
+* Latané, B., & Darley, J., 1968. “Group inhibition of bystander intervention in emergencies”, * Journal of Personality and Social Psychology*, 10: 215–221.
+* –––, 1970. * The Unresponsive Bystander: Why Doesn’t He Help?* New York: Appleton-Century-Crofts.
+* Latané, B., & Nida, S., 1981. “Ten years of research on group size and helping”, * Psychological Bulletin*, 89: 308–324.
+* Latané, B., & Rodin, J., 1969. “A lady in distress: inhibiting effects of friends and strangers on bystander intervention”, * Journal of Experimental Psychology*, 5: 189–202.
+* Levine, S., Rottman, J., Davis, T., O’Neill, E., Stich, S., & Machery, E., 2021. “Religious affiliation and conceptions of the moral domain”, * Social Cognition*, 39: 139–165.
+* Liao, S. M., Wiegmann, A., Alexander, J., & Vong, G., 2012. “Putting the trolley in order: Experimental philosophy and the loop case”, * Philosophical Psychology*, 25: 661–671.
+* Lindauer, M., & Southwood, N., 2021. “How to cancel the Knobe effect: the role of sufficiently strong moral censure”, * American Philosophical Quarterly*, 58: 181–186.
+* Likert, R., 1932. “A technique for the measurement of attitudes”, * Archives of Psychology*, 140: 1–55.
+* Loeb, D., 1998. “Moral realism and the argument from disagreement”, * Philosophical Studies*, 90(3): 281–303.
+* –––, 2003. “Gastronomic value realism: A cautionary tale”, * Journal of Theoretical and Philosophical Psychology*, 21(1): 30–49.
+* Lombrozo, T., 2009. “The role of moral commitments in moral judgment”, * Cognitive Science*, 33: 273–286.
+* Löhr, G., 2019. “The experience machine and the expertise defense”, * Philosophical Psychology*, 32: 257–273.
+* Lucas, R., 2007. “Adaptation and the set-point model of subjective wellbeing: Does happiness change after major life events?” * Current Directions in Psychological Science*, 16(2): 75–79.
+* –––, 2018. “Reevaluating the strengths and weaknesses of self-report measures of subjective”, in E. Diener, S. Oishi, & L. Tay (eds.), * Handbook of Well-Being*. Salt Lake City: DEF Publishers.
+* Lucas, R., Clark, C., Georgellis, Y., & Diener, E., 2003. “Reexamining adaptation and the set point model of happiness: Reactions to changes in marital status”, * Journal of Personality and Social Psychology*, 84(3): 527–539.
+* Luetge, C., Rusch, H., and Uhl, M. (eds.), 2014. * Experimental Ethics: Towards an Empirical Moral Philosophy*, London: Palgrave.
+* Machery, E., 2008. “The folk concept of intentional action: Philosophical and experimental issues”, * Mind & Language*, 2: 165–189.
+* –––, 2017. * Philosophy Within Its Proper Bounds*. Oxford: Oxford University Press.
+* –––, 2018. “A historical invention”, in K. Gray & J. Graham (eds.), * Atlas of Moral Psychology*. Guilford Publications, 259–265.
+* –––, 2021. “Dehumanization and the loss of moral standing”, in M. Kronfeldner (ed.), * The Routledge Handbook of Dehumanization*. New York: Routledge, 145–158.
+* Machery, E., & Doris, J. M., 2017. “An open letter to our students: Doing interdisciplinary moral psychology”, in B. G. Voyer and T. Tarantola (eds.), * Moral Psychology*. Springer, Cham, 119–143.
+* Machery, E., & Stich, S. P., 2022. “The moral/conventional distinction”, * Stanford Encyclopedia of Philosophy (*Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/moral-conventional/>.
+* Machery, E., Mallon, R., Nichols, S., & Stich, S., 2004. “Semantics, cross-cultural style”, * Cognition*, 92(3): B1–B12.
+* MacIntyre, A., 1998. * A Short History of Ethics: A History of Moral Philosophy from the Homeric Age to the Twentieth Century*, South Bend, IN: University of Notre Dame Press
+* –––, 1984. * After Virtue: A Study in Moral Theory*, South Bend, IN: University of Notre Dame Press.
+* Mackie, J. L., 1977. * Ethics: Inventing Right and Wrong*, New York: Penguin.
+* Maibom, H. L., 2005. “Moral unreason: The case of psychopathy.” * Mind and Language*, 20(2): 237–57.
+* Matthews, K. E., & Cannon, L. K., 1975. “Environmental noise level as a determinant of helping behavior”, * Journal of Personality and Social Psychology*, 32: 571–577.
+* May, J., 2014. “Does disgust influence moral judgment?” * Australasian Journal of Philosophy*, 92(1): 125–141.
+* McDonald, K., Graves, R., Yin, S., Weese, T., & Sinnott-Armstrong, W. 2021. “Valence framing effects on moral judgments: A meta-analysis”, * Cognition*, 212: 104703.
+* McGilvray, J., 2005. * The Cambridge Companion to Chomsky.* Cambridge: Cambridge University Press.
+* McGuire, J., Langdon, R., Coltheart, M., & Mackenzie, C., 2009. “A reanalysis of the personal/impersonal distinction in moral psychology research”, * Journal of Experimental Social Psychology*, 45: 577–580.
+* Merritt, M., 2000. “Virtue ethics and situationist personality psychology”, * Ethical Theory and Moral Practice*, 3(4): 365–383.
 * Mikhail, J., 2005. “Chomsky and moral philosophy”, in J. McGilvray (2005), 235–53.
-* –––, 2007. “Universal moral grammar: Theory, evidence, and the future”, *Trends in Cognitive Sciences*, 11: 143–152.
+* –––, 2007. “Universal moral grammar: Theory, evidence, and the future”, * Trends in Cognitive Sciences*, 11: 143–152.
 * –––, 2008. “The poverty of the moral stimulus”, in W. Sinnott-Armstrong (2008a), 353–360.
-* –––, 2009. “Moral grammar and intuitive jurisprudence: A formal model of unconscious moral and legal language”, in B. H. Ross, D. M., Bartels, C. W., Bauman, L. J. Skitka, and D. L. Medin (eds.), *Psychology of Learning and Motivation* (Volume 50: Moral Judgment and Decision Making). New York: Academic Press.
-* –––, 2011. *Elements of Moral Cognition: Rawls’s Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press.
-* Miller, C., 2013. *Moral Character: An Empirical Theory*, Oxford: Oxford University Press.
-* –––, 2014. *Character and Moral Psychology*, Oxford: Oxford University Press.
-* Miller, R., Brickman, P., & Bolen, D., 1975. “Attribution versus persuasion as a means for modifying behavior”, *Journal of Personality and Social Psychology*, 31(3): 430–441.
-* Mischel, W., 1968. *Personality and Assessment*, New York: Wiley.
-* Moody-Adams, M. M., 1997. *Fieldwork in Familiar Places:Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
-* Moore, A. B., Lee, N. L., Clark, B. A., & Conway, A. R., 2011. “In defense of the personal/impersonal distinction in moral psychology research: Cross-cultural validation of the dual process model of moral judgment”, *Judgment and Decision Making*, 6: 186–195.
-* Nadelhoffer, T., 2004. “On praise, side effects, and folk ascriptions of intentionality”, *Journal of Theoretical and Philosophical Psychology*, 24: 196–213.
-* –––, 2006. “Bad acts, blameworthy agents, and intentional actions: Some problems for jury impartiality”, *Philosophical Explorations*, 9: 203–220.
-* Naess, A., 1938. *Truth as Conceived by Those Who are Not Professional Philosophers*, Oslo: Jacob Dybwad.
-* Navarrete, C. D., McDonald, M. M., Mott, M. L., & Asher, B., 2012. “Virtual morality: Emotion and action in a simulated three-dimensional ”trolley problem“”, *Emotion*, 12: 364–370.
-* Nichols, S., 2002. “On the genealogy of norms: A case for the role of emotion in cultural evolution”, *Philosophy of Science*, 69: 234–255.
-* –––, 2004. *Sentimental Rules*, Oxford: Oxford University Press.
-* –––, 2021. *Rational Rules: Towards a Theory of Moral Learning*, Oxford: Oxford University Press.
-* Nichols, S., Kumar, S., Lopez, T., Ayars, A., and Chan, H.-Y., 2016. “Rational learners and moral rules”, *Mind and Language*, 31(5): 530–554.
-* Ngo, L., Kelley, M. Coutlee, C., McKell Carter, R., Sinnott-Armstrong, W., & Huettel, S.A., 2015, “Two distinct neural mechanisms for ascribing and denying intentionality”, *Nature Scientific Reports*, 5: 17390.
-* Nozick, R., 1974. *Anarchy, State, and Utopia*, Basic Books.
-* Nussbaum, M., 2001. *The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy*, Cambridge: Cambridge University Press.
-* Pereboom, D., 2001. *Living Without Free Will*, New York: Cambridge University Press.
-* Pettit, D. & Knobe, J., 2009. “The pervasive impact of moral judgment”, *Mind and Language*, 24(5): 586–604.
-* Phelan, M., & Sarkissian, H., 2009. “Is the ‘trade-off hypothesis’ worth trading for?” *Mind and Language*, 24: 164–180.
-* Phillips, J., Misenheimer, L., & Knobe, J., 2011. “The ordinary concept of happiness (and others like it)”, *Emotion Review*, 71: 929–937.
-* Phillips, J., Nyholm, S., & Liao, S., 2014. “The good in happiness”, *Oxford Studies in Experimental Philosophy* (Volume 1), Oxford: Oxford University Press, 253–293.
-* Piaget, J., 1965. *The Moral Judgment of the Child*, New York: Free Press.
-* Piazza, J., & Loughnan, S., 2016. “When meat gets personal, animals’ minds matter less: Motivated use of intelligence information in judgments of moral standing”, *Social Psychological and Personality Science*, 7: 867–874.
-* Piazza, J., Landy, J. F., & Goodwin, G. P., 2014. “Cruel nature: Harmfulness as an important, overlooked dimension in judgments of moral standing”, *Cognition*, 131: 108–124.
-* Plakias, A., 2017. “The response model of moral disgust”, *Synthese*, first online 3 June 2017. doi:10.1007/s11229-017-1455-3
-* –––, 2013. “The good and the gross”, *Ethical Theory and Moral Practice*, 16(2): 261–78.
-* Pölzler, T., & Wright, J. C., 2019. “Empirical research on folk moral objectivism”, *Philosophy compass*, 14: e12589.
-* Prinz, J., 2007. *The Emotional Construction of Morals*, Oxford, Oxford University Press.
+* –––, 2009. “Moral grammar and intuitive jurisprudence: A formal model of unconscious moral and legal language”, in B. H. Ross, D. M., Bartels, C. W., Bauman, L. J. Skitka, and D. L. Medin (eds.), * Psychology of Learning and Motivation* (Volume 50: Moral Judgment and Decision Making). New York: Academic Press.
+* –––, 2011. * Elements of Moral Cognition: Rawls’s Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press.
+* Miller, C., 2013. * Moral Character: An Empirical Theory*, Oxford: Oxford University Press.
+* –––, 2014. * Character and Moral Psychology*, Oxford: Oxford University Press.
+* Miller, R., Brickman, P., & Bolen, D., 1975. “Attribution versus persuasion as a means for modifying behavior”, * Journal of Personality and Social Psychology*, 31(3): 430–441.
+* Mischel, W., 1968. * Personality and Assessment*, New York: Wiley.
+* Moody-Adams, M. M., 1997. * Fieldwork in Familiar Places: Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
+* Moore, A. B., Lee, N. L., Clark, B. A., & Conway, A. R., 2011. “In defense of the personal/impersonal distinction in moral psychology research: Cross-cultural validation of the dual process model of moral judgment”, * Judgment and Decision Making*, 6: 186–195.
+* Nadelhoffer, T., 2004. “On praise, side effects, and folk ascriptions of intentionality”, * Journal of Theoretical and Philosophical Psychology*, 24: 196–213.
+* –––, 2006. “Bad acts, blameworthy agents, and intentional actions: Some problems for jury impartiality”, * Philosophical Explorations*, 9: 203–220.
+* Naess, A., 1938. * Truth as Conceived by Those Who are Not Professional Philosophers*, Oslo: Jacob Dybwad.
+* Navarrete, C. D., McDonald, M. M., Mott, M. L., & Asher, B., 2012. “Virtual morality: Emotion and action in a simulated three-dimensional ”trolley problem“”, * Emotion*, 12: 364–370.
+* Nichols, S., 2002. “On the genealogy of norms: A case for the role of emotion in cultural evolution”, * Philosophy of Science*, 69: 234–255.
+* –––, 2004. * Sentimental Rules*, Oxford: Oxford University Press.
+* –––, 2021. * Rational Rules: Towards a Theory of Moral Learning*, Oxford: Oxford University Press.
+* Nichols, S., Kumar, S., Lopez, T., Ayars, A., and Chan, H.-Y., 2016. “Rational learners and moral rules”, * Mind and Language*, 31(5): 530–554.
+* Ngo, L., Kelley, M. Coutlee, C., McKell Carter, R., Sinnott-Armstrong, W., & Huettel, S.A., 2015, “Two distinct neural mechanisms for ascribing and denying intentionality”, * Nature Scientific Reports*, 5: 17390.
+* Nozick, R., 1974. * Anarchy, State, and Utopia*, Basic Books.
+* Nussbaum, M., 2001. * The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy*, Cambridge: Cambridge University Press.
+* Pereboom, D., 2001. * Living Without Free Will*, New York: Cambridge University Press.
+* Pettit, D. & Knobe, J., 2009. “The pervasive impact of moral judgment”, * Mind and Language*, 24(5): 586–604.
+* Phelan, M., & Sarkissian, H., 2009. “Is the ‘trade-off hypothesis’ worth trading for?” * Mind and Language*, 24: 164–180.
+* Phillips, J., Misenheimer, L., & Knobe, J., 2011. “The ordinary concept of happiness (and others like it)”, * Emotion Review*, 71: 929–937.
+* Phillips, J., Nyholm, S., & Liao, S., 2014. “The good in happiness”, * Oxford Studies in Experimental Philosophy* (Volume 1), Oxford: Oxford University Press, 253–293.
+* Piaget, J., 1965. * The Moral Judgment of the Child*, New York: Free Press.
+* Piazza, J., & Loughnan, S., 2016. “When meat gets personal, animals’ minds matter less: Motivated use of intelligence information in judgments of moral standing”, * Social Psychological and Personality Science*, 7: 867–874.
+* Piazza, J., Landy, J. F., & Goodwin, G. P., 2014. “Cruel nature: Harmfulness as an important, overlooked dimension in judgments of moral standing”, * Cognition*, 131: 108–124.
+* Plakias, A., 2017. “The response model of moral disgust”, * Synthese*, first online 3 June 2017. doi: 10.1007/s11229-017-1455-3
+* –––, 2013. “The good and the gross”, * Ethical Theory and Moral Practice*, 16(2): 261–78.
+* Pölzler, T., & Wright, J. C., 2019. “Empirical research on folk moral objectivism”, * Philosophy compass*, 14: e12589.
+* Prinz, J., 2007. * The Emotional Construction of Morals*, Oxford, Oxford University Press.
 * –––, 2008. “Resisting the linguistic analogy: A commentary on Hauser, Young, and Cushman”, in W. Sinnott-Armstrong (2008b), 157–170.
-* Railton, P., 2014. “The affective dog and its rational tale: Intuition and attunement”, *Ethics*, 124(4): 813–859.
-* Rauthmann, J. and Sherman, R., 2018. “The description of situations: Towards replicable domains of psychological situation characteristics”, *Journal of Personality and Social Psychology*, 114(3): 482–488.
-* Rawls, J., 1971. *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Redelmeier, D. & Kahneman, D., 1996. “Patients’ memories of painful medical treatments: Real-time and retrospective evaluations of two minimally invasive procedures”, *Pain*, 1: 3–8.
-* Regan, J., 1971. “Guilt, perceived injustice, and altruistic behavior”, *Journal of Personality and Social Psychology*, 18: 124–132.
-* Rehren, P. & Sinnott- Armstrong, W., 2021. “Moral framing effects within subjects”, *Philosophical Psychology*, 34: 611–636.
-* Robbins, P., & Jack, A., 2006. “The phenomenal stance”, *Philosophical Studies*, 127: 59–85.
-* Robbins, E., Shepard, J., & Rochat, P., 2017. “Variations in judgments of intentional action and moral evaluation across eight cultures”, *Cognition*, 164: 22–30.
-* Robinson, B., Stey, P., & Alfano, M., 2013. “Virtue and vice attributions in the business context: An experimental investigation”, *Journal of Business Ethics*, 113(4): 649–661.
-* Roedder, E. & Harman, G., 2010. “Linguistics and moral theory”, in J. Doris (ed.), *The Moral Psychology Handbook*, 273–296. Oxford University Press.
-* Romero, F., 2019. “Philosophy of science and the replicability crisis”, *Philosophy Compass*, 14: e12633.
-* Rose, D., Livengood, J., Sytsma, J., Machery, E., 2012. “Deep trouble for the deep self”, *Philosophical Psychology*, 25: 629–646.
-* Rosenthal, R., 1979. “The file drawer problem and tolerance for null results”, *Psychological bulletin*, 86: 638–641.
-* Rönnow-Rasmussen, T., 2011. *Personal Value*, Oxford: Oxford University Press.
-* Roskies, A., 2003. “Are ethical judgments intrinsically motivational? Lessons from ‘acquired sociopathy.’ ” *Philosophical Psychology*, 16(1): 51–66.
-* Russell, D., 2009. *Practical Intelligence and the Virtues*, Oxford: Oxford University Press.
-* Sarkissian, H., Park, J., Tien, D., Wright, J. C., & Knobe, J., 2011. “Folk moral relativism”, *Mind and Language*, 26(4): 482–505.
-* Sarkissian, H., Chatterjee, A., De Brigard, F., Knobe, J., Nichols, S., & Sirker, S., 2010) “Is belief in free will a cultural universal?”, *Mind & Language*, 25: 346–358.
-* Sayre-McCord, Geoffrey (ed.), 1988. *Essays on Moral Realism*, Ithaca: Cornell University Press.
+* Railton, P., 2014. “The affective dog and its rational tale: Intuition and attunement”, * Ethics*, 124(4): 813–859.
+* Rauthmann, J. and Sherman, R., 2018. “The description of situations: Towards replicable domains of psychological situation characteristics”, * Journal of Personality and Social Psychology*, 114(3): 482–488.
+* Rawls, J., 1971. * A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Redelmeier, D. & Kahneman, D., 1996. “Patients’ memories of painful medical treatments: Real-time and retrospective evaluations of two minimally invasive procedures”, * Pain*, 1: 3–8.
+* Regan, J., 1971. “Guilt, perceived injustice, and altruistic behavior”, * Journal of Personality and Social Psychology*, 18: 124–132.
+* Rehren, P. & Sinnott- Armstrong, W., 2021. “Moral framing effects within subjects”, * Philosophical Psychology*, 34: 611–636.
+* Robbins, P., & Jack, A., 2006. “The phenomenal stance”, * Philosophical Studies*, 127: 59–85.
+* Robbins, E., Shepard, J., & Rochat, P., 2017. “Variations in judgments of intentional action and moral evaluation across eight cultures”, * Cognition*, 164: 22–30.
+* Robinson, B., Stey, P., & Alfano, M., 2013. “Virtue and vice attributions in the business context: An experimental investigation”, * Journal of Business Ethics*, 113(4): 649–661.
+* Roedder, E. & Harman, G., 2010. “Linguistics and moral theory”, in J. Doris (ed.), * The Moral Psychology Handbook*, 273–296. Oxford University Press.
+* Romero, F., 2019. “Philosophy of science and the replicability crisis”, * Philosophy Compass*, 14: e12633.
+* Rose, D., Livengood, J., Sytsma, J., Machery, E., 2012. “Deep trouble for the deep self”, * Philosophical Psychology*, 25: 629–646.
+* Rosenthal, R., 1979. “The file drawer problem and tolerance for null results”, * Psychological bulletin*, 86: 638–641.
+* Rönnow-Rasmussen, T., 2011. * Personal Value*, Oxford: Oxford University Press.
+* Roskies, A., 2003. “Are ethical judgments intrinsically motivational? Lessons from ‘acquired sociopathy.’ ” * Philosophical Psychology*, 16(1): 51–66.
+* Russell, D., 2009. * Practical Intelligence and the Virtues*, Oxford: Oxford University Press.
+* Sarkissian, H., Park, J., Tien, D., Wright, J. C., & Knobe, J., 2011. “Folk moral relativism”, * Mind and Language*, 26(4): 482–505.
+* Sarkissian, H., Chatterjee, A., De Brigard, F., Knobe, J., Nichols, S., & Sirker, S., 2010) “Is belief in free will a cultural universal?”, * Mind & Language*, 25: 346–358.
+* Sayre-McCord, Geoffrey (ed.), 1988. * Essays on Moral Realism*, Ithaca: Cornell University Press.
 * Sayre-McCord, Geoffrey,, 2008. “Moral Semantics and Empirical Inquiry”, in Sinnott-Armstrong (2008b), 403–412.
-* Scaife, R. & Webber, J., 2013. “Intentional side-effects of action”, *Journal of Moral Philosophy*, 10: 179–203.
-* Schimmack, U. & Oishi, S., 2005. “The influence of chronically and temporarily accessible information on life satisfaction judgments”, *Journal of Personality and Social Psychology*, 89(3): 395–406.
-* Schnall, S., Haidt, J., and Clore, 2008. “Disgust as embodied moral judgment”, *Personality and Social Psychology Bulletin*, 34(8): 1096–1109.
-* Schwartz, S. & Gottlieb, A., 1991. “Bystander anonymity and reactions to emergencies”, *Journal of Personality and Social Psychology*, 39: 418–430.
-* Schwarz, N., and Clore, G., 1983. “Mood, Misattribution, and Judgments of Well-Being: Informative and Directive Functions of Affective States”, *Journal of Personality and Social Psychology*, 45(3): 513–523.
-* Schwitzgebel, E., 2009. “Do ethicists steal more books?” *Philosophical Psychology*, 22(6): 711–725
-* Schwitzgebel, E. & Cushman, F., 2012. “Expertise in moral reasoning? Order effects on moral judgment in professional philosophers and non-philosophers”, *Mind and Language*, 27(2): 135–153.
-* –––, 2015. “Philosophers’ biased judgments persist despite training, expertise and reflection”, *Cognition*, 141: 127–137.
-* Schwitzgebel, E. & Rust, J., 2010. “Do ethicists and political philosophers vote more often than other professors?” *Review of Philosophy and Psychology*, 1(2): 189–199.
-* Schwitzgebel, E., Rust, J., Huang, L., Moore, A., & Coates, J., 2011. “Ethicists’ courtesy at philosophy conferences”, *Philosophical Psychology*, 25(3): 331–340.
-* Shafer–Landau, R., 2003. *Moral Realism: A Defence*, Oxford: Oxford University Press.
-* Simmons, J. P., Nelson, L. D., & Simonsohn, U., 2011. “False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant”, *Psychological science*, 22: 1359–1366.
-* Singer, P., 2005.“Ethics and Intuitions”, *The Journal of Ethics*, 9(3–4): 331–352.
-* Singer, P. & de Lazari-Radak, K., forthcoming. *From the Point of View of the Universe: Sidgwick and Contemporary Ethics*, Oxford: Oxford University Press
-* Sinnott-Armstrong, W., 2009. “Mixed-up meta-ethics”, *Philosophical Issues*, 19(1): 235–56
-* ––– (ed.), 2008a. *Moral Psychology: The Evolution of Morality: Adaptations and Innateness* (Volume 1), Cambridge, MA: MIT Press.
-* ––– (ed.), 2008b. *Moral Psychology: The Cognitive Science of Morality: Intuition and Diversity* (Volume 2), Cambridge, MA: MIT Press.
-* ––– (ed.), 2008c. *Moral Psychology: The Neuroscience of Morality: Emotion, Brain Disorders, and Development* (Volume 3), Cambridge, MA: MIT Press.
+* Scaife, R. & Webber, J., 2013. “Intentional side-effects of action”, * Journal of Moral Philosophy*, 10: 179–203.
+* Schimmack, U. & Oishi, S., 2005. “The influence of chronically and temporarily accessible information on life satisfaction judgments”, * Journal of Personality and Social Psychology*, 89(3): 395–406.
+* Schnall, S., Haidt, J., and Clore, 2008. “Disgust as embodied moral judgment”, * Personality and Social Psychology Bulletin*, 34(8): 1096–1109.
+* Schwartz, S. & Gottlieb, A., 1991. “Bystander anonymity and reactions to emergencies”, * Journal of Personality and Social Psychology*, 39: 418–430.
+* Schwarz, N., and Clore, G., 1983. “Mood, Misattribution, and Judgments of Well-Being: Informative and Directive Functions of Affective States”, * Journal of Personality and Social Psychology*, 45(3): 513–523.
+* Schwitzgebel, E., 2009. “Do ethicists steal more books?” * Philosophical Psychology*, 22(6): 711–725
+* Schwitzgebel, E. & Cushman, F., 2012. “Expertise in moral reasoning? Order effects on moral judgment in professional philosophers and non-philosophers”, * Mind and Language*, 27(2): 135–153.
+* –––, 2015. “Philosophers’ biased judgments persist despite training, expertise and reflection”, * Cognition*, 141: 127–137.
+* Schwitzgebel, E. & Rust, J., 2010. “Do ethicists and political philosophers vote more often than other professors?” * Review of Philosophy and Psychology*, 1(2): 189–199.
+* Schwitzgebel, E., Rust, J., Huang, L., Moore, A., & Coates, J., 2011. “Ethicists’ courtesy at philosophy conferences”, * Philosophical Psychology*, 25(3): 331–340.
+* Shafer–Landau, R., 2003. * Moral Realism: A Defence*, Oxford: Oxford University Press.
+* Simmons, J. P., Nelson, L. D., & Simonsohn, U., 2011. “False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant”, * Psychological science*, 22: 1359–1366.
+* Singer, P., 2005.“Ethics and Intuitions”, * The Journal of Ethics*, 9(3–4): 331–352.
+* Singer, P. & de Lazari-Radak, K., forthcoming. * From the Point of View of the Universe: Sidgwick and Contemporary Ethics*, Oxford: Oxford University Press
+* Sinnott-Armstrong, W., 2009. “Mixed-up meta-ethics”, * Philosophical Issues*, 19(1): 235–56
+* ––– (ed.), 2008a. * Moral Psychology: The Evolution of Morality: Adaptations and Innateness* (Volume 1), Cambridge, MA: MIT Press.
+* ––– (ed.), 2008b. * Moral Psychology: The Cognitive Science of Morality: Intuition and Diversity* (Volume 2), Cambridge, MA: MIT Press.
+* ––– (ed.), 2008c. * Moral Psychology: The Neuroscience of Morality: Emotion, Brain Disorders, and Development* (Volume 3), Cambridge, MA: MIT Press.
 * –––, 2008d. “Framing moral intuitions”, In Sinnott-Armstrong (2008b), 47–76.
-* Sinnott-Armstrong, W., Mallon, R., McCoy, T., & Hull, J., 2008. “Intention, temporal order, and moral judgments”, *Mind and Language*, 23(1): 90–106.
-* Smith, M., 1994. *The Moral Problem*, Oxford: Blackwell.
-* Snow, N., 2010. *Virtue as Social Intelligence: An Empirically Grounded Theory*, New York: Routledge.
-* Sorokowski, P., Marczak, M., Misiak, M., & Białek, M., 2020. “Trolley dilemma in Papua. Yali horticulturalists refuse to pull the lever”, *Psychonomic Bulletin & Review*, *27*: 398–403.
-* Sousa, P., Allard, A., Piazza, J., and Goodwin, G. P., 2021. “Folk moral objectivism: The case of harmful actions”, *Frontiers in Psychology*, 2776.
-* Sreenivasan, G., 2002. “Errors about errors: Virtue theory and trait attribution”, *Mind*, 111(441): 47–66.
-* Sripada, C., 2005. “Punishment and the strategic structure of moral systems”, *Biology and Philosophy*, 20(4): 767–789.
-* –––, 2010. “The deep self model and asymmetries in folk judgments about intentional action”, *Philosophical Studies*, 151(2): 159–176.
-* –––, 2011. “What makes a manipulated agent unfree?” *Philosophy and Phenomenological Research*, 85(3): 563–593. doi:10.1111/j.1933-1592.2011.00527.x
-* –––, 2012. “Mental state attributions and the side-effect effect”, *Journal of Experimental Psychology*, 48(1): 232–238.
-* Sripada, C. & Konrath, S., 2011. “Telling more than we can know about intentional action”, *Mind and Language*, 26(3): 353–380.
-* Stich, S. P., 2018. “The moral domain”, in K. Gray & J. Graham (eds.), *Atlas of Moral Psychology*. Guilford Publications, 547–555.
-* Stich, S. P., & Machery, E., in press. “Demographic differences in philosophical intuition: A reply to Joshua Knobe”, *Review of Philosophy and Psychology*.
-* Stich, S. P. & Weinberg, J., 2001. “Jackson’s empirical assumptions”, *Philosophy and Phenomenological Research*, 62(3): 637–643.
-* Strack, F., Martin, L., & Schwartz, N., 1988. “Priming and communication: Social determinants of information use in judgments of life satisfaction”, *European Journal of Social Psychology*, 18: 429–442.
-* Strandberg, C. & Björklund, F., 2013. “Is moral internalism supported by folk intuitions?” *Philosophical Psychology*, 26(3): 319–335.
-* Strawson, P. F., 1962. “Freedom and resentment”, *Proceedings of the British Academy*, 48: 1–25.
+* Sinnott-Armstrong, W., Mallon, R., McCoy, T., & Hull, J., 2008. “Intention, temporal order, and moral judgments”, * Mind and Language*, 23(1): 90–106.
+* Smith, M., 1994. * The Moral Problem*, Oxford: Blackwell.
+* Snow, N., 2010. * Virtue as Social Intelligence: An Empirically Grounded Theory*, New York: Routledge.
+* Sorokowski, P., Marczak, M., Misiak, M., & Białek, M., 2020. “Trolley dilemma in Papua. Yali horticulturalists refuse to pull the lever”, * Psychonomic Bulletin & Review *, * 27*: 398–403.
+* Sousa, P., Allard, A., Piazza, J., and Goodwin, G. P., 2021. “Folk moral objectivism: The case of harmful actions”, * Frontiers in Psychology*, 2776.
+* Sreenivasan, G., 2002. “Errors about errors: Virtue theory and trait attribution”, * Mind*, 111(441): 47–66.
+* Sripada, C., 2005. “Punishment and the strategic structure of moral systems”, * Biology and Philosophy*, 20(4): 767–789.
+* –––, 2010. “The deep self model and asymmetries in folk judgments about intentional action”, * Philosophical Studies*, 151(2): 159–176.
+* –––, 2011. “What makes a manipulated agent unfree?” * Philosophy and Phenomenological Research*, 85(3): 563–593. doi: 10.1111/j.1933-1592.2011.00527.x
+* –––, 2012. “Mental state attributions and the side-effect effect”, * Journal of Experimental Psychology*, 48(1): 232–238.
+* Sripada, C. & Konrath, S., 2011. “Telling more than we can know about intentional action”, * Mind and Language*, 26(3): 353–380.
+* Stich, S. P., 2018. “The moral domain”, in K. Gray & J. Graham (eds.), * Atlas of Moral Psychology*. Guilford Publications, 547–555.
+* Stich, S. P., & Machery, E., in press. “Demographic differences in philosophical intuition: A reply to Joshua Knobe”, * Review of Philosophy and Psychology*.
+* Stich, S. P. & Weinberg, J., 2001. “Jackson’s empirical assumptions”, * Philosophy and Phenomenological Research*, 62(3): 637–643.
+* Strack, F., Martin, L., & Schwartz, N., 1988. “Priming and communication: Social determinants of information use in judgments of life satisfaction”, * European Journal of Social Psychology*, 18: 429–442.
+* Strandberg, C. & Björklund, F., 2013. “Is moral internalism supported by folk intuitions?” * Philosophical Psychology*, 26(3): 319–335.
+* Strawson, P. F., 1962. “Freedom and resentment”, * Proceedings of the British Academy*, 48: 1–25.
 * Strohminger, N., Caldwell, B., Cameron, D., Schaich Borg, J., and Sinnott-Armstrong, W., 2014. “Implicit morality: A methodological survey,” in C. Luetge, H. Rusch, and M. Uhl 2014: 133–156.
-* Stuart, M. T., Colaço, D., & Machery, E., 2019. “P-curving x-phi: Does experimental philosophy have evidential value?”, *Analysis*, 79: 669–684.
+* Stuart, M. T., Colaço, D., & Machery, E., 2019. “P-curving x-phi: Does experimental philosophy have evidential value?”, * Analysis*, 79: 669–684.
 * Sturgeon, N., 1988. “Moral Explanations,” in Sayre-McCord 1988: 229–255.
-* Sytsma, J. & Livengood, J., 2011. “A new perspective concerning experiments on semantic intuitions”, *Australasian Journal of Philosophy*, 89(2): 315–332.
-* Sytsma, J., & Machery, E., 2012. “The two sources of moral standing”, *Review of Philosophy and Psychology*, 3: 303–324.
-* Thomson, J. J., 1971. “A defense of abortion”, *Philosophy and Public Affairs*, 1: 47–66.
-* Tobia, K., Buckwalter, W., & Stich, S. P., 2013. “Moral intuitions: Are philosophers experts?”, *Philosophical Psychology*, 26: 629–638.
-* Trivers, R. L., 1971. “The evolution of reciprocal altruism”, *Quarterly Review of Biology*, 46: 35–57.
-* Wagenmakers, E.-J., Wetzels, R., Borsboom, D., van der Maas, H., & Kievit, R., 2012. “An agenda for purely confirmatory research”, *Perspectives on Psychological Science*, 7(6): 632–638.
-* Weijers, D., 2014. “Nozick’s experience machine is dead, long live the experience machine!” *Philosophical Psychology*, 27(4): 513–535.
-* Weinberg, J. M., Nichols, S., & Stich, S. P., 2001. “Normativity and epistemic intuitions”, *Philosophical topics*, 29: 429–460.
-* Weyant, J., 1978. “Effects of mood states, costs, and benefits on helping”, *Journal of Personality and Social Psychology*, 36: 1169–1176.
-* Wheatley, T. and Haidt, J., 2005. “Hypnotically induced disgust makes moral judgments more severe”, *Psychological Science*, 16(10): 780–784.
-* Wiegman, I., 2017. “The evolution of retribution: Intuition undermined”, *Pacific Philosophical Quarterly*, 98(2): 490–510.
-* Wiegmann, A., Horvath, J., & Meyer, K., 2020. “Intuitive expertise and irrelevant options”, In Lombrozo, Knobe, & Nichols (eds.), *Oxford Studies in Experimental Philosophy*, Volume 3. Oxford: Oxford University Press, 275–310.
-* Wright, J. C., Grandjean, P., & McWhite, C., 2013. “The meta-ethical grounding of our moral beliefs: Evidence for meta-ethical pluralism”, *Philosophical Psychology*, 26(3): 336–361.
-* Wright, J. C. & H Sarkissian (eds.), 2014. *Advances in Experimental Moral Psychology: Affect, Character, and Commitment*, London: Continuum.
-* Yong, E., 2012. “Nobel laureate challenges psychologists to clean up their act: Social-priming research needs ‘daisy chain’ of replication”, *Nature News*, [available online](https://www.nature.com/news/nobel-laureate-challenges-psychologists-to-clean-up-their-act-1.11535), doi:10.1038/nature.2012.11535
-* Zagzebski, L., 2010. “Exemplarist virtue theory”, *Metaphilosophy*, 41(1): 41–57.
-* Zhong, C.-B., Bohns, V., & Gino, F., 2010. “Good lamps are the best police: Darkness increases dishonesty and self-interested behavior”, *Psychological Science*, 21(3): 311–314.
+* Sytsma, J. & Livengood, J., 2011. “A new perspective concerning experiments on semantic intuitions”, * Australasian Journal of Philosophy*, 89(2): 315–332.
+* Sytsma, J., & Machery, E., 2012. “The two sources of moral standing”, * Review of Philosophy and Psychology*, 3: 303–324.
+* Thomson, J. J., 1971. “A defense of abortion”, * Philosophy and Public Affairs*, 1: 47–66.
+* Tobia, K., Buckwalter, W., & Stich, S. P., 2013. “Moral intuitions: Are philosophers experts?”, * Philosophical Psychology*, 26: 629–638.
+* Trivers, R. L., 1971. “The evolution of reciprocal altruism”, * Quarterly Review of Biology*, 46: 35–57.
+* Wagenmakers, E.-J., Wetzels, R., Borsboom, D., van der Maas, H., & Kievit, R., 2012. “An agenda for purely confirmatory research”, * Perspectives on Psychological Science*, 7(6): 632–638.
+* Weijers, D., 2014. “Nozick’s experience machine is dead, long live the experience machine!” * Philosophical Psychology*, 27(4): 513–535.
+* Weinberg, J. M., Nichols, S., & Stich, S. P., 2001. “Normativity and epistemic intuitions”, * Philosophical topics*, 29: 429–460.
+* Weyant, J., 1978. “Effects of mood states, costs, and benefits on helping”, * Journal of Personality and Social Psychology*, 36: 1169–1176.
+* Wheatley, T. and Haidt, J., 2005. “Hypnotically induced disgust makes moral judgments more severe”, * Psychological Science*, 16(10): 780–784.
+* Wiegman, I., 2017. “The evolution of retribution: Intuition undermined”, * Pacific Philosophical Quarterly*, 98(2): 490–510.
+* Wiegmann, A., Horvath, J., & Meyer, K., 2020. “Intuitive expertise and irrelevant options”, In Lombrozo, Knobe, & Nichols (eds.), * Oxford Studies in Experimental Philosophy*, Volume 3. Oxford: Oxford University Press, 275–310.
+* Wright, J. C., Grandjean, P., & McWhite, C., 2013. “The meta-ethical grounding of our moral beliefs: Evidence for meta-ethical pluralism”, * Philosophical Psychology*, 26(3): 336–361.
+* Wright, J. C. & H Sarkissian (eds.), 2014. * Advances in Experimental Moral Psychology: Affect, Character, and Commitment*, London: Continuum.
+* Yong, E., 2012. “Nobel laureate challenges psychologists to clean up their act: Social-priming research needs ‘daisy chain’ of replication”, * Nature News*, [available online](https://www.nature.com/news/nobel-laureate-challenges-psychologists-to-clean-up-their-act-1.11535), doi: 10.1038/nature.2012.11535
+* Zagzebski, L., 2010. “Exemplarist virtue theory”, * Metaphilosophy*, 41(1): 41–57.
+* Zhong, C.-B., Bohns, V., & Gino, F., 2010. “Good lamps are the best police: Darkness increases dishonesty and self-interested behavior”, * Psychological Science*, 21(3): 311–314.
 
 ## Academic Tools
 

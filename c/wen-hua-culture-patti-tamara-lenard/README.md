@@ -24,11 +24,11 @@
 
 Kymlicka 解释说，一个充满活力的社会文化提供了“选择的背景”，即提供了个体依赖于理解他们的世界和其提供的选择的资源。根据这一观点，国家被很好地描述为拥有社会文化，原住民群体和次国家民族少数群体（例如，加泰罗尼亚人或藏人）也是如此；维持一系列文化实践和规范的移民群体，即使他们融入更大的“社会文化”中，也不是。
 
-凯姆利卡并不是唯一提供文化全面说明的人。迈克尔·沃尔泽也提供了这样的说明，提出我们应该将政治社区理解为“性格社区”，其中成员被“共同意义世界”所约束（沃尔泽 1983 年：28）。阿维沙伊·马加利特和约瑟夫·拉兹也描述了所谓的“全面”团体，其中他们的成员
+凯姆利卡并不是唯一提供文化全面说明的人。迈克尔 · 沃尔泽也提供了这样的说明，提出我们应该将政治社区理解为“性格社区”，其中成员被“共同意义世界”所约束（沃尔泽 1983 年：28）。阿维沙伊 · 马加利特和约瑟夫 · 拉兹也描述了所谓的“全面”团体，其中他们的成员
 
 > 在其中找到一种文化，这种文化在很大程度上塑造了他们的品味和机会，并为他们的自我认同和轻松安全归属提供了支撑。（马加利特和拉兹 1990 年：448）
 
-阿维沙伊·马加利特和摩西·哈尔贝塔尔说，一个包罗万象的团体的文化“涵盖了生活的各个重要方面”，并在这样说时，他们举例说明了极端正统犹太文化：
+阿维沙伊 · 马加利特和摩西 · 哈尔贝塔尔说，一个包罗万象的团体的文化“涵盖了生活的各个重要方面”，并在这样说时，他们举例说明了极端正统犹太文化：
 
 > 它定义了人们的活动（比如犹太正统文化中的托拉学习），决定了职业（比如割礼者），并定义了重要的关系（比如婚姻）。它影响着人们的一切行为：烹饪、建筑风格、共同语言、文学和艺术传统、音乐、习俗、服饰、节日、仪式……文化影响着其成员的品味，影响着他们的选择以及这些选择的意义，以及他们在评价自己和他人时认为重要的特征。（Margalit & Halbertal 1994: 498）
 
@@ -56,11 +56,11 @@ Patten 写道，文化群体成员受制于的机构至少在某种程度上“�
 
 ### 1.3 文化作为对话
 
-后一种反对意见认为，所谓的文化是部分而非全部成员的产物，这导致一些学者重新阐释文化，即通过成员之间的对话以及他们相互参与的方式来构建文化。强调文化成员是其主要实践、价值观和规范的来源的目的在于强调文化并非从上面“给予”给其成员，作为一个固定且不可改变的实体。相反，文化的成员在根本上是其创作者。詹姆斯·塔利（James Tully）在这里解释说：文化是
+后一种反对意见认为，所谓的文化是部分而非全部成员的产物，这导致一些学者重新阐释文化，即通过成员之间的对话以及他们相互参与的方式来构建文化。强调文化成员是其主要实践、价值观和规范的来源的目的在于强调文化并非从上面“给予”给其成员，作为一个固定且不可改变的实体。相反，文化的成员在根本上是其创作者。詹姆斯 · 塔利（James Tully）在这里解释说：文化是
 
 > 不断受到争议，被想象和重新想象，被转变和协商，既由其成员进行，也通过他们与他人的互动。（塔利，1995 年：11）
 
-塞拉·本哈比布同样强调文化的叙事方面，指出内部人员通过共享的、尽管有争议和可争辩的叙事账目来体验他们的传统、故事、仪式和符号、工具以及物质生活条件。 （本哈比布 2002 年：5）
+塞拉 · 本哈比布同样强调文化的叙事方面，指出内部人员通过共享的、尽管有争议和可争辩的叙事账目来体验他们的传统、故事、仪式和符号、工具以及物质生活条件。 （本哈比布 2002 年：5）
 
 > 成员之间存在争议，并且其主要元素在不断协商之下，这并不会使文化对其成员变得不那么有意义。 似乎令人困惑的是，一个可争辩且不断变化的文化需要受到保护；也许保护意味着通过在某个时刻保护其中的元素来人为地阻止文化将要经历的自然变化。 但是，这种观点的支持者要求以确保文化被协商、共享和传播的论坛以强大和包容的方式持续存在，并且不受外部力量的干扰为形式的保护。 与文化作为形成账目一样，重点在于群体成员塑造中心规范和实践的能力，而不在于规范和实践本身。
 
@@ -80,7 +80,7 @@ One effect of understanding the culture in this way is that while many of its me
 
 ### 1.4 文化作为身份（或身份而非文化）
 
-为了回答如何确定文化及其成员的挑战，一个提议集中于与属于文化群体相关的主观组成部分。以玛格丽特·摩尔描述的这个例子为例：尽管北爱尔兰天主教徒和新教徒之间存在深刻分歧，但这些差异既不是宗教的（冲突并非关于对宗教文本的独特解释，宗教人物也不是暴力袭击的目标），也不是文化的，因为对这两个社区的文化价值观进行的调查显示，竞争社区所持有的价值观之间存在相当大的重叠（摩尔 1999 年：35）。她说，相反，关注对手团体之间的共同身份更能解释冲突。一个主要或部分关注身份的观点强调文化的一个关键维度是它如何塑造文化群体成员的身份。此外，这样的观点强调文化是许多人将会有重要联系的事物，但对他们来说将以多种和不同的方式定义。关注身份的观点具有明显的优点：例如，它可以解释为什么个人在历史上文化的中心定义特征发生变化时仍然名义上与文化相关联，即使他们不参与其中的一些更传统的方面。
+为了回答如何确定文化及其成员的挑战，一个提议集中于与属于文化群体相关的主观组成部分。以玛格丽特 · 摩尔描述的这个例子为例：尽管北爱尔兰天主教徒和新教徒之间存在深刻分歧，但这些差异既不是宗教的（冲突并非关于对宗教文本的独特解释，宗教人物也不是暴力袭击的目标），也不是文化的，因为对这两个社区的文化价值观进行的调查显示，竞争社区所持有的价值观之间存在相当大的重叠（摩尔 1999 年：35）。她说，相反，关注对手团体之间的共同身份更能解释冲突。一个主要或部分关注身份的观点强调文化的一个关键维度是它如何塑造文化群体成员的身份。此外，这样的观点强调文化是许多人将会有重要联系的事物，但对他们来说将以多种和不同的方式定义。关注身份的观点具有明显的优点：例如，它可以解释为什么个人在历史上文化的中心定义特征发生变化时仍然名义上与文化相关联，即使他们不参与其中的一些更传统的方面。
 
 此外，一个关注身份的观点可以容纳那些显然不是基于文化的身份，例如，包括 LGBTQ+ 身份（艾森伯格 2009 年：20；关于 LGBTQ+ 背景中文化/身份主张的讨论，请参见戈什 2018 年：第 4 章）。事实上，一个关注身份的观点旨在避免确定哪些具体材料是合法的文化材料的困难。正如上文所述，少数文化的学者经常指出，许多群体提出了各种各样的主张，这些群体由一系列不同的特征定义，包括种族、族裔、宗教和性取向。他们说，与其关注文化，不如关注身份可能更可取，因为
 
@@ -146,7 +146,7 @@ For example, some Sikhs request exemption from laws that require wearing motorcy
 
 上述文化保护权提出了一个困难的挑战，与将文化视为一个包罗万象的群体的批评有关：一些批评者表示，任何对文化保护的要求实际上转化为对成员的控制的问题，而且通常对文化团体的女性和 LGBTQ+ 成员最为限制。这种挑战最为强烈地提出在文化保护权被所谓的非自由主义团体（如阿米什人）要求的情况下，以及在他们（在批评者看来）被强加给儿童的情况下。非自由主义团体是那些否认某些关键自由主义价值观的团体，如自治和平等；在许多情况下，这些社区得到的教育系统支持，这些系统通过避免教授通常使之能够实现的技能和能力，以及通过强制执行提升某些成员在等级上超越其他成员的规则，来阻碍自主选择。担忧是社区不仅想要保持自己作为一个独特的文化团体，而且还想要保护一种文化同质性，不留任何争议或对其核心价值观和实践的异议。这些后者的等级规则通常使女性容易受到更强大男性的伤害，这些男性可能要求各种形式的性屈从，将她们限制在家中照顾孩子，并对她们实施严格的行为准则，对违反者进行严厉处罚。对于一些批评者来说，这些所谓的“文化实践”使得任何形式的国家支持保护少数文化团体在很大程度上难以辩护（Okin 1999）。
 
-对这些许多文化保护权利的反对中存在的一个担忧是，女性可能不愿意成为这些文化的参与者，因此尊重文化保护权利会使女性过上她们不选择、不想要且无法摆脱的生活。但对许多人来说，假设女性成员只是在受到压力的情况下才是这样是错误的，因为许多人会深深珍视社区本身，并尊重它试图保护的规范和价值观，即使他们拒绝其中的某些部分。在这些情况下，以及政治理论家们考虑到它们时，有一种试图从将文化视为包容性术语转向将其视为对话和叙事术语的尝试。文化，即使是压迫性的（对自由主义者来说）少数文化，也是会发生变化的，也许最好的变革源头是那些深深承诺于关键价值观但拒绝其他价值观的成员，包括那些不尊重女性平等权利的价值观。莫尼克·德沃的研究涉及南非习俗婚姻中的成年女性参与者，她们接受文化的某些元素，但旨在在谈判桌上获得发声权以改变其他方面，这种研究将文化视为对话性术语（Deveaux 2007）。在这里，关键的激励思想是文化可以随着时间的推移而发生变化，响应于其成员如何参与其中，重要的不是变化本身，而是其源头是谁或是什么。从这个观点来看，文化保护权利的目标不是保护文化本身，这在任何情况下都是不可能的挑战，而是保护群体成员塑造其文化和保护其免受不受欢迎的变革源头的能力的权利。
+对这些许多文化保护权利的反对中存在的一个担忧是，女性可能不愿意成为这些文化的参与者，因此尊重文化保护权利会使女性过上她们不选择、不想要且无法摆脱的生活。但对许多人来说，假设女性成员只是在受到压力的情况下才是这样是错误的，因为许多人会深深珍视社区本身，并尊重它试图保护的规范和价值观，即使他们拒绝其中的某些部分。在这些情况下，以及政治理论家们考虑到它们时，有一种试图从将文化视为包容性术语转向将其视为对话和叙事术语的尝试。文化，即使是压迫性的（对自由主义者来说）少数文化，也是会发生变化的，也许最好的变革源头是那些深深承诺于关键价值观但拒绝其他价值观的成员，包括那些不尊重女性平等权利的价值观。莫尼克 · 德沃的研究涉及南非习俗婚姻中的成年女性参与者，她们接受文化的某些元素，但旨在在谈判桌上获得发声权以改变其他方面，这种研究将文化视为对话性术语（Deveaux 2007）。在这里，关键的激励思想是文化可以随着时间的推移而发生变化，响应于其成员如何参与其中，重要的不是变化本身，而是其源头是谁或是什么。从这个观点来看，文化保护权利的目标不是保护文化本身，这在任何情况下都是不可能的挑战，而是保护群体成员塑造其文化和保护其免受不受欢迎的变革源头的能力的权利。
 
 其他人认为，只要女性和其他受到严格文化要求的人拥有退出社区的权利（或能力），他们选择留下应该被视为这样处理（Kukathas 1992）。对于持有这种观点的人来说，努力使退出权利得以真正行使是非常重要的（Kukathas 2012；Holzleithner 2012）。在这样做的过程中，一个国家必须在提供资源给那些可能希望退出但没有能力在更大社会中立足的成员之间做出选择。在一些正统宗教社区中，财产是共同拥有的，个体成员没有任何个人财产或资源；结果，退出者在建立新生活时没有任何依靠。在其他社区中，成员受教育程度低，对自己社区之外的生活不熟悉，因此退出时没有能力在更大社会中维持自己。因此，接收国可以通过各种方式支持退出者，例如为退出的女性（和男性）提供庇护所，提供教育，以便他们最终能够作为主流社会的一员实现自给自足。支持退出者的选择可能会削弱文化自我保存的能力。但支持退出者并不被理解为否认文化保护权利；相反，这样做的选择源于国家保护所有成员权利的承诺，包括尽其所能保护最脆弱的成员。
 
@@ -160,7 +160,7 @@ For example, some Sikhs request exemption from laws that require wearing motorcy
 
 ### 2.7 文化辩护权
 
-在法律环境中，犯错者有时会使用文化辩护，解释说少数文化规范和价值观与大多数人的相冲突，这在解释他们为何犯错方面具有因果关系。因此，文化辩护有时被视为在确定惩罚时的相关减轻因素。提出文化辩护的权利通常是基于承认少数群体并不总是按照大多数人法律体系中所代表的价值观和规范运作的重要性，并且这些差异在法律领域中应得到一定的考虑。早期法院的裁决接受了这样的解释，例如，那些谋杀不忠伴侣的男性之所以这样做，是因为羞耻和愤怒与文化规范相关联。例如，声称“团体强奸”（在文化上被称为绑架婚姻）是由苗族文化规定的一种获得妻子的方式，其中妇女不仅是默许的，而且实际上是愿意的伙伴的男性，现在不再被认为在被控强奸的法律诉讼中有辩护权（Song 2005）。然而，随着各国意识到许多这些辩护实际上是对父权制、厌女主义态度的掩饰，无论是在某些少数群体中还是在更广泛的社区中，"文化"解释在主流法律领域中的影响力随着时间的推移而减弱。
+在法律环境中，犯错者有时会使用文化辩护，解释说少数文化规范和价值观与大多数人的相冲突，这在解释他们为何犯错方面具有因果关系。因此，文化辩护有时被视为在确定惩罚时的相关减轻因素。提出文化辩护的权利通常是基于承认少数群体并不总是按照大多数人法律体系中所代表的价值观和规范运作的重要性，并且这些差异在法律领域中应得到一定的考虑。早期法院的裁决接受了这样的解释，例如，那些谋杀不忠伴侣的男性之所以这样做，是因为羞耻和愤怒与文化规范相关联。例如，声称“团体强奸”（在文化上被称为绑架婚姻）是由苗族文化规定的一种获得妻子的方式，其中妇女不仅是默许的，而且实际上是愿意的伙伴的男性，现在不再被认为在被控强奸的法律诉讼中有辩护权（Song 2005）。然而，随着各国意识到许多这些辩护实际上是对父权制、厌女主义态度的掩饰，无论是在某些少数群体中还是在更广泛的社区中，"文化" 解释在主流法律领域中的影响力随着时间的推移而减弱。
 
 犯罪的“文化”辩护往往意味着将文化视为一个同质整体，以及将犯罪者而不是受害者对其解释拥有独家权利。但“尊重文化不能意味着顺从文化的权威认为正确的任何事物”（Gutmann 2003: 46）。此外，在法律领域对“尊重文化”的一般性要求可能忽视了文化期望类型之间的差异，这些差异可以从允许的行为、鼓励的行为到必要的行为，其中只有一部分可能被认为在法律上具有合理相关性（Vitikainen 2015: 162）。此外，它可能允许并鼓励将少数（尤其是非西方）文化描绘成刻板印象，并且“以一种鼓励对特定文化群体的人进行荒谬大概化的方式动员文化”（Phillips 2007: 81 & 99）。对文化辩护的不加批判接受所代表的危险在于将文化视为如此全面，以至于将其成员视为无法自主决策的人。但是，文化辩护的批评者说，这是一个错误——除了许多其他因素外，文化可以解释为参与错误行为的原因，但不应“被误认为是全部真相”（Phillips 2007: 98）。
 
@@ -176,7 +176,7 @@ For example, some Sikhs request exemption from laws that require wearing motorcy
 
 ### 3.1 文化连续性和排斥权利
 
-大多数社区声称拥有文化权利的领域之一是移民领域。对于一些人来说，国家塑造自己文化的权利可以合法地成为排斥他人的理由，通常甚至是特定的他人。这种观点经常被归因于迈克尔·沃尔泽（Michael Walzer），他认为国家控制边界的权利与其控制自己文化的能力密切相关
+大多数社区声称拥有文化权利的领域之一是移民领域。对于一些人来说，国家塑造自己文化的权利可以合法地成为排斥他人的理由，通常甚至是特定的他人。这种观点经常被归因于迈克尔 · 沃尔泽（Michael Walzer），他认为国家控制边界的权利与其控制自己文化的能力密切相关
 
 > 于其保卫自由和福利、政治和文化，以及致力于彼此和共同生活的一群人的能力。 （沃尔泽 1983 年：39，重点添加）
 
@@ -212,63 +212,63 @@ For example, some Sikhs request exemption from laws that require wearing motorcy
 
 ## Bibliography
 
-* Abizadeh, Arash, 2002, “Does Liberal Democracy Presuppose a Cultural Nation? Four Arguments”, *American Political Science Review*, 96(3): 495–509. doi:10.1017/S000305540200028X
+* Abizadeh, Arash, 2002, “Does Liberal Democracy Presuppose a Cultural Nation? Four Arguments”, *American Political Science Review*, 96(3): 495–509. doi: 10.1017/S000305540200028X
 * Appiah, Kwame Anthony, 2009, “Whose Culture Is It, Anyway?”, in *Cultural Heritage Issues: The Legacy of Conquest, Colonization and Commerce*, edited by James A. R. Nafziger and Ann Nicgorski, Leiden: Brill, 207–21.
 * Bakht, Natasha, 2007, “Religious Arbitration in Canada: Protecting Women by Protecting Them from Religion”, *Canadian Journal of Women and the Law*, 19(1): 119–144.
 * Barry, Brian, 2001, *Culture and Equality: An Egalitarian Critique of Multiculturalism*, Cambridge, MA: Harvard University Press.
 * Benhabib, Seyla, 2002, *The Claims of Culture: Equality and Diversity in the Global Era*, Princeton, NJ: Princeton University Press.
-* –––, 2004, *The Rights of Others: Aliens, Residents, and Citizens*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511790799
-* Borchers, Dagmar and Annamari Vitikainen (eds.), 2012, *On Exit: Interdisciplinary Perspectives on the Right of Exit in Liberal Multicultural Societies*, Berlin, Boston: De Gruyter. doi:10.1515/9783110270860
-* Brubaker, Rogers, 2001, “The Return of Assimilation? Changing Perspectives on Immigration and Its Sequels in France, Germany, and the United States”, *Ethnic and Racial Studies*, 24(4): 531–548. doi:10.1080/01419870120049770
-* Burtt, Shelley, 1994, “Religious Parents, Secular Schools: A Liberal Defense of an Illiberal Education”, *The Review of Politics*, 56(1): 51–70. doi:10.1017/S0034670500049500
-* Carens, Joseph, 2005, “The Integration of Immigrants”, *Journal of Moral Philosophy*, 2(1): 29–46. doi:10.1177/1740468105052582
-* Casals, Neus Torbisco, 2006, *Group Rights as Human Rights: A Liberal Approach to Multiculturalism*, (Law and Philosophy Library 75), Dordrecht: Kluwer Academic Publishers. doi:10.1007/1-4020-4209-4
-* Deveaux, Monique, 2007, *Gender and Justice in Multicultural Liberal States*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199289790.001.0001
-* Dhamoon, Rita, 2006, “Shifting From ‘Culture’ to ‘the Cultural’: Critical Theorizing of Identity/Difference Politics”, *Constellations*, 13(3): 354–373. doi:10.1111/j.1467-8675.2006.00406.x
-* Eisenberg, Avigail, 2009, *Reasons of Identity: A Normative Guide to the Political and Legal Assessment of Identity Claims*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199291304.001.0001
-* Fraser, Nancy, 1995, “Recognition or Redistribution? A Critical Reading of Iris Young’s *Justice and the Politics of Difference*”, *Journal of Political Philosophy*, 3(2): 166–180. doi:10.1111/j.1467-9760.1995.tb00033.x
-* Ghosh, Cyril, 2018, *De-Moralizing Gay Rights: Some Queer Remarks on LGBT+ Rights Politics in the US*, Cham, Switzerland: Palgrave Macmillan. doi:10.1007/978-3-319-78840-1
-* Gustavsson, Gina and David Miller (eds.), 2019, *Liberal Nationalism and Its Critics: Normative and Empirical Questions*, Oxford: Oxford University Press. doi:10.1093/oso/9780198842545.001.0001
+* –––, 2004, *The Rights of Others: Aliens, Residents, and Citizens*, Cambridge, UK: Cambridge University Press. doi: 10.1017/CBO9780511790799
+* Borchers, Dagmar and Annamari Vitikainen (eds.), 2012, *On Exit: Interdisciplinary Perspectives on the Right of Exit in Liberal Multicultural Societies*, Berlin, Boston: De Gruyter. doi: 10.1515/9783110270860
+* Brubaker, Rogers, 2001, “The Return of Assimilation? Changing Perspectives on Immigration and Its Sequels in France, Germany, and the United States”, *Ethnic and Racial Studies*, 24(4): 531–548. doi: 10.1080/01419870120049770
+* Burtt, Shelley, 1994, “Religious Parents, Secular Schools: A Liberal Defense of an Illiberal Education”, *The Review of Politics*, 56(1): 51–70. doi: 10.1017/S0034670500049500
+* Carens, Joseph, 2005, “The Integration of Immigrants”, *Journal of Moral Philosophy*, 2(1): 29–46. doi: 10.1177/1740468105052582
+* Casals, Neus Torbisco, 2006, *Group Rights as Human Rights: A Liberal Approach to Multiculturalism*, (Law and Philosophy Library 75), Dordrecht: Kluwer Academic Publishers. doi: 10.1007/1-4020-4209-4
+* Deveaux, Monique, 2007, *Gender and Justice in Multicultural Liberal States*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199289790.001.0001
+* Dhamoon, Rita, 2006, “Shifting From ‘Culture’ to ‘the Cultural’: Critical Theorizing of Identity/Difference Politics”, *Constellations*, 13(3): 354–373. doi: 10.1111/j.1467-8675.2006.00406.x
+* Eisenberg, Avigail, 2009, *Reasons of Identity: A Normative Guide to the Political and Legal Assessment of Identity Claims*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199291304.001.0001
+* Fraser, Nancy, 1995, “Recognition or Redistribution? A Critical Reading of Iris Young’s *Justice and the Politics of Difference*”, *Journal of Political Philosophy*, 3(2): 166–180. doi: 10.1111/j.1467-9760.1995.tb00033.x
+* Ghosh, Cyril, 2018, *De-Moralizing Gay Rights: Some Queer Remarks on LGBT+ Rights Politics in the US*, Cham, Switzerland: Palgrave Macmillan. doi: 10.1007/978-3-319-78840-1
+* Gustavsson, Gina and David Miller (eds.), 2019, *Liberal Nationalism and Its Critics: Normative and Empirical Questions*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198842545.001.0001
 * Gutmann, Amy, 2003, *Identity in Democracy*, Princeton, NJ: Princeton University Press.
-* Holzleithner, Elisabeth, 2012, “Interrogating Exit in Multiculturalist Theorizing: Conditions and Limitations”, in Borchers and Vitikainen 2012: 13–33. doi:10.1515/9783110270860.13
-* Kukathas, Chandran, 1992, “Are There Any Cultural Rights?”, *Political Theory*, 20(1): 105–139. doi:10.1177/0090591792020001006
-* –––, 2012, “Exit, Freedom and Gender”, in Borchers and Vitikainen 2012: 34–56. doi:10.1515/9783110270860.34
+* Holzleithner, Elisabeth, 2012, “Interrogating Exit in Multiculturalist Theorizing: Conditions and Limitations”, in Borchers and Vitikainen 2012: 13–33. doi: 10.1515/9783110270860.13
+* Kukathas, Chandran, 1992, “Are There Any Cultural Rights?”, *Political Theory*, 20(1): 105–139. doi: 10.1177/0090591792020001006
+* –––, 2012, “Exit, Freedom and Gender”, in Borchers and Vitikainen 2012: 34–56. doi: 10.1515/9783110270860.34
 * Kymlicka, Will, 1996, *Multicultural Citizenship: A Liberal Theory of Minority Rights*, Oxford: Oxford University Press.
 * –––, 1998, *Finding Our Way: Rethinking Ethnocultural Relations in Canada*, Toronto: Oxford University Press.
-* Laborde, Cecile, 2008, *Critical Republicanism: The Hijab Controversy and Political Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550210.001.0001
+* Laborde, Cecile, 2008, *Critical Republicanism: The Hijab Controversy and Political Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199550210.001.0001
 * Lenard, Patti Tamara.,2012, *Trust, Democracy and Multicultural Challenges*, University Park, PA: Pennsylvania University State Press.
-* –––, 2019, “Inclusive Identities: The Foundation of Trust in Multicultural Communities”, in Gustavsson and Miller 2019: 155–171. doi:10.1093/oso/9780198842545.003.0009
-* Lenard, Patti Tamara and Peter Balint, 2020, “What Is (the Wrong of) Cultural Appropriation?”, *Ethnicities*, 20(2): 331–52. doi:10.1177/1468796819866498
-* Levy, Jacob, 2000, *Multiculturalism of Fear*, Oxford: Oxford University Press. doi:10.1093/0198297122.001.0001
+* –––, 2019, “Inclusive Identities: The Foundation of Trust in Multicultural Communities”, in Gustavsson and Miller 2019: 155–171. doi: 10.1093/oso/9780198842545.003.0009
+* Lenard, Patti Tamara and Peter Balint, 2020, “What Is (the Wrong of) Cultural Appropriation?”, *Ethnicities*, 20(2): 331–52. doi: 10.1177/1468796819866498
+* Levy, Jacob, 2000, *Multiculturalism of Fear*, Oxford: Oxford University Press. doi: 10.1093/0198297122.001.0001
 * Margalit, Avishai and Moshe Halbertal, 1994, “Liberalism and the Right to Culture”, *Social Research: An International Quarterly*, 61(3): 491–510.
-* Margalit, Avishai and Joseph Raz, 1990, “National Self-Determination”:, *Journal of Philosophy*, 87(9): 439–461. doi:10.2307/2026968
-* Matthes, Erich Hatala, 2016, “Cultural Appropriation Without Cultural Essentialism?”, *Social Theory and Practice*, 42(2): 343–366. doi:10.5840/soctheorpract201642219
-* Mcbride, Cillian, 2009, “Demanding Recognition: Equality, Respect, and Esteem”, *European Journal of Political Theory*, 8(1): 96–108. doi:10.1177/1474885108096962
+* Margalit, Avishai and Joseph Raz, 1990, “National Self-Determination”:, *Journal of Philosophy*, 87(9): 439–461. doi: 10.2307/2026968
+* Matthes, Erich Hatala, 2016, “Cultural Appropriation Without Cultural Essentialism?”, *Social Theory and Practice*, 42(2): 343–366. doi: 10.5840/soctheorpract201642219
+* Mcbride, Cillian, 2009, “Demanding Recognition: Equality, Respect, and Esteem”, *European Journal of Political Theory*, 8(1): 96–108. doi: 10.1177/1474885108096962
 * Miller, David, 2005, “Immigration: The Case for Limits”, in *Contemporary Debates in Applied Ethics*, Andrew Cohen and Christopher Wellman (eds), Malden: Blackwell Publishers, 193–207.
-* –––, 2016, “Majorities and Minarets: Religious Freedom and Public Space”, *British Journal of Political Science*, 46(2): 437–456. doi:10.1017/S0007123414000131
+* –––, 2016, “Majorities and Minarets: Religious Freedom and Public Space”, *British Journal of Political Science*, 46(2): 437–456. doi: 10.1017/S0007123414000131
 * Modood, Tariq, 2007, *Multiculturalism: A Civic Idea*, Cambridge, UK: Polity Press.
-* Moore, Margaret, 1999, “Beyond the Cultural Argument for Liberal Nationalism”, *Critical Review of International Social and Political Philosophy*, 2(3): 26–47. doi:10.1080/13698239908403282
-* –––, 2019, “Liberal Nationalism and the Challenge of Essentialism”, in Gustavsson and Miller 2019: 188–202. doi:10.1093/oso/9780198842545.003.0011
+* Moore, Margaret, 1999, “Beyond the Cultural Argument for Liberal Nationalism”, *Critical Review of International Social and Political Philosophy*, 2(3): 26–47. doi: 10.1080/13698239908403282
+* –––, 2019, “Liberal Nationalism and the Challenge of Essentialism”, in Gustavsson and Miller 2019: 188–202. doi: 10.1093/oso/9780198842545.003.0011
 * Okin, Susan Moller, 1999, *Is Multiculturalism Bad for Women?* Princeton, NJ: Princeton University Press.
 * Parekh, Bhikhu, 2000, *Rethinking Multiculturalism: Cultural Diversity and Political Theory*, Basingstoke: Macmillan Press.
-* Parvin, Phil, 2008, “What’s Special About Culture? Identity, Autonomy, and Public Reason”, *Critical Review of International Social and Political Philosophy*, 11(3): 315–233. doi:10.1080/13698230802276447
+* Parvin, Phil, 2008, “What’s Special About Culture? Identity, Autonomy, and Public Reason”, *Critical Review of International Social and Political Philosophy*, 11(3): 315–233. doi: 10.1080/13698230802276447
 * Patten, Alan, 2014, *Equal Recognition: The Moral Foundations of Minority Rights*, Princeton, NJ: Princeton University Press.
 * Phillips, Anne, 2007, *Multiculturalism without Culture*, Princeton, NJ: Princeton University Press.
-* –––, 2010, “What’s Wrong with Essentialism?”, *Distinktion: Journal of Social Theory*, 11(1): 47–60. doi:10.1080/1600910X.2010.9672755
-* –––, 2018, “What Makes Culture Special?”, *Political Theory*, 46(1): 92–98. doi:10.1177/0090591717696023
-* Quong, Jonathan, 2006, “Cultural Exemptions, Expensive Tastes, and Equal Opportunities”, *Journal of Applied Philosophy*, 23(1): 53–71. doi:10.1111/j.1468-5930.2006.00320.x
+* –––, 2010, “What’s Wrong with Essentialism?”, *Distinktion: Journal of Social Theory*, 11(1): 47–60. doi: 10.1080/1600910X.2010.9672755
+* –––, 2018, “What Makes Culture Special?”, *Political Theory*, 46(1): 92–98. doi: 10.1177/0090591717696023
+* Quong, Jonathan, 2006, “Cultural Exemptions, Expensive Tastes, and Equal Opportunities”, *Journal of Applied Philosophy*, 23(1): 53–71. doi: 10.1111/j.1468-5930.2006.00320.x
 * Rowell, John, 1995, “The Politics of Cultural Appropriation”, *Journal of Value Inquiry*, 29(1): 137–142.
-* Scheffler, Samuel, 2007, “Immigration and the Significance of Culture”, *Philosophy & Public Affairs*, 35(2): 93–125. doi:10.1111/j.1088-4963.2007.00101.x
-* Shachar, Ayelet, 2001, *Multicultural Jurisdictions: Cultural Differences and Women’s Rights*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511490330
+* Scheffler, Samuel, 2007, “Immigration and the Significance of Culture”, *Philosophy & Public Affairs*, 35(2): 93–125. doi: 10.1111/j.1088-4963.2007.00101.x
+* Shachar, Ayelet, 2001, *Multicultural Jurisdictions: Cultural Differences and Women’s Rights*, Cambridge, UK: Cambridge University Press. doi: 10.1017/CBO9780511490330
 * Sniderman, Paul M. and Louk Hagendoorn, 2007, *When Ways of Life Collide*, Princeton, NJ: Princeton University Press.
-* Song, Sarah, 2005, “Majority Norms, Multiculturalism, and Gender Equality”, *American Political Science Review*, 99(4): 473–489. doi:10.1017/S0003055405051828
-* –––, 2009, “The Subject of Multiculturalism: Culture, Religion, Language, Ethnicity, Nationality, and Race?”, in *New Waves in Political Philosophy*, Boudewijn de Bruin and Christopher F. Zurn (eds.), London: Palgrave Macmillan UK, 177–197. doi:10.1057/9780230234994_10
-* –––, 2018, *Immigration and Democracy*, Oxford: Oxford University Press. doi:10.1093/oso/9780190909222.001.0001
+* Song, Sarah, 2005, “Majority Norms, Multiculturalism, and Gender Equality”, *American Political Science Review*, 99(4): 473–489. doi: 10.1017/S0003055405051828
+* –––, 2009, “The Subject of Multiculturalism: Culture, Religion, Language, Ethnicity, Nationality, and Race?”, in *New Waves in Political Philosophy*, Boudewijn de Bruin and Christopher F. Zurn (eds.), London: Palgrave Macmillan UK, 177–197. doi: 10.1057/9780230234994_10
+* –––, 2018, *Immigration and Democracy*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190909222.001.0001
 * Spinner-Halev, Jeff, 2000, *Surviving Diversity: Religion and Democratic Citizenship*, Baltimore, MD: Johns Hopkins University Press.
 * Tully, James, 1995, *Strange Multiplicity: Constitutionalism in the Age of Diversity*, Cambridge, UK: Cambridge University Press.
-* Vitikainen, Annamari, 2015, *The Limits of Liberal Multiculturalism: Towards an Individuated Approach to Cultural Diversity*, London: Palgrave Macmillan UK. doi:10.1057/9781137404626
+* Vitikainen, Annamari, 2015, *The Limits of Liberal Multiculturalism: Towards an Individuated Approach to Cultural Diversity*, London: Palgrave Macmillan UK. doi: 10.1057/9781137404626
 * Walzer, Michael, 1983, *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic Books.
-* Young, Iris Marion, 2004, “Two Concepts of Self-Determination”, in *Ethnicity, Nationalism, and Minority Rights*, Stephen May, Tariq Modood, and Judith Squires (eds.), Cambridge, UK: Cambridge University Press, 176–196. doi:10.1017/CBO9780511489235.009
+* Young, Iris Marion, 2004, “Two Concepts of Self-Determination”, in *Ethnicity, Nationalism, and Minority Rights*, Stephen May, Tariq Modood, and Judith Squires (eds.), Cambridge, UK: Cambridge University Press, 176–196. doi: 10.1017/CBO9780511489235.009
 * Young, James O., 2008, *Cultural Appropriation and the Arts*, Malden, MA: Blackwell.
 
 ## Academic Tools

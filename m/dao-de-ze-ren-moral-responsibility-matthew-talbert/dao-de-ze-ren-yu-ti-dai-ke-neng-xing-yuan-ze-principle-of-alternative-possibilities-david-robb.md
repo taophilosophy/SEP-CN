@@ -1,6 +1,6 @@
 # 道德责任与替代可能性原则 principle of alternative possibilities (David Robb)
 
-*首次发表于2020年7月9日*
+*首次发表于 2020 年 7 月 9 日*
 
 假设你伤害、冒犯或以其他方式冤枉了另一个人。面对可能受到制裁的可能性，你可能会尝试使用以下任何一种方式来避免责备：“我没办法。”“有人逼我这么做。”“我别无选择。”“这是不可避免的。”“没有其他选择。”对于这样的辩护，有一种自然的解读，即它们诉诸于本条目的核心原则，“替代可能性原则”（参见弗兰克福特 1969 年）：
 
@@ -26,11 +26,11 @@ PAP 对道德责任提出了一个要求。还有其他要求。例如，我们�
 
 PAP 的另一个重要原因是它与法律的哲学和实践相交。即使道德和法律责任不一致，也存在重叠区域（Duff 2009; Brink & Nelkin 2013），在这个区域内，PAP 及其相关文献可以为法律推理提供信息，尤其是当法律旨在对违法者进行公正惩罚时。刑事责任的必要条件是行为包括自愿行为（Sinnott-Armstrong 2012），被告有“合理机会避免”（Kelly 2017）。如果马克在闯入肯的房子时正在梦游或被催眠，这可能是可以原谅的，无论是道德上还是法律上，因为在他的状态下，马克无法做出其他选择。如果由于妄想，被告杀人犯无法避免形成杀害受害人的意图，并相应地采取行动，这也可能是无罪的。
 
-话虽如此，法律所应用的标准可能与我们在道德背景下认为的可避免行为不符。想象一下，一个合理人可以忽略的轻微挑衅迫使一个情绪不稳定的人犯下谋杀罪。刑法根据合理人标准评估他的能力，因此判他犯谋杀罪而不是过失杀人罪，即使道德推理会考虑到严重限制他选择的情绪状态（Kelly 2017）。PAP 与法律之间的关系进一步复杂化的原因是刑法似乎并不特别关注因果决定论（Morse 2013），这是一种被广泛认为将我们限制在仅有一个未来的论点。话虽如此，如果法律中决定论的无关性反映出在分配责任时对替代选择的某种程度的漠视，这也可能是反对 PAP 在道德问题上的一个案例（另见§3.1）。
+话虽如此，法律所应用的标准可能与我们在道德背景下认为的可避免行为不符。想象一下，一个合理人可以忽略的轻微挑衅迫使一个情绪不稳定的人犯下谋杀罪。刑法根据合理人标准评估他的能力，因此判他犯谋杀罪而不是过失杀人罪，即使道德推理会考虑到严重限制他选择的情绪状态（Kelly 2017）。PAP 与法律之间的关系进一步复杂化的原因是刑法似乎并不特别关注因果决定论（Morse 2013），这是一种被广泛认为将我们限制在仅有一个未来的论点。话虽如此，如果法律中决定论的无关性反映出在分配责任时对替代选择的某种程度的漠视，这也可能是反对 PAP 在道德问题上的一个案例（另见 §3.1）。
 
 ### 1.2 什么是道德责任？
 
-从一个人在道德上负责的事情开始。如上所述，PAP是关于一个人“所做的事情”的责任。在本条目的大部分内容中，这将被解释为她的行为（参见行动条目），这里广义地包括明显的行为，如走去商店或开枪，以及心理行为，如选择上法学院或在国际象棋中计算一步。除了对行为负责外，一个人还可以对其行为的后果负责。通过在肖恩的茶里放盐，梅根不仅对破坏了肖恩的茶（她所做的事情）负责，还对他的茶被毁（她所做事情的后果）负责。政治家的对手可能声称她对经济衰退负有责任，这是她的决策和政策的结果。最后，一个人可以对未能行动负责，有时被称为不作为或遗漏，以及其后果。漠不关心的救生员卢克对未能救起溺水者负有责任，因此也对死亡负有责任。根据问题的不同，PAP的性质也不同，无论是对行为、后果还是遗漏负责。本条目的大部分内容关注的是行为，但对后果和遗漏的责任将在第5.3节中再次出现。
+从一个人在道德上负责的事情开始。如上所述，PAP 是关于一个人“所做的事情”的责任。在本条目的大部分内容中，这将被解释为她的行为（参见行动条目），这里广义地包括明显的行为，如走去商店或开枪，以及心理行为，如选择上法学院或在国际象棋中计算一步。除了对行为负责外，一个人还可以对其行为的后果负责。通过在肖恩的茶里放盐，梅根不仅对破坏了肖恩的茶（她所做的事情）负责，还对他的茶被毁（她所做事情的后果）负责。政治家的对手可能声称她对经济衰退负有责任，这是她的决策和政策的结果。最后，一个人可以对未能行动负责，有时被称为不作为或遗漏，以及其后果。漠不关心的救生员卢克对未能救起溺水者负有责任，因此也对死亡负有责任。根据问题的不同，PAP 的性质也不同，无论是对行为、后果还是遗漏负责。本条目的大部分内容关注的是行为，但对后果和遗漏的责任将在第 5.3 节中再次出现。
 
 什么是道德责任？本条目采用了广义上的“斯特劳森”观点，属于 P.F.斯特劳森的“自由与怨恨”传统（P.F.斯特劳森 1962 年；参见费舍尔和拉维扎 1998 年，6-8 页）。道德责任是指成为“反应态度”的适当对象，如尊重、赞扬、宽恕、责备、愤怒等。如果玛丽亚对收养一只流浪猫负有责任，那么赞扬她的这个行为是恰当的。如果梅根并不对破坏肖恩的茶负责，那么这意味着对肖恩或其他人来说，责怪或怨恨她所做的事是不合适的。还有其他关于道德责任的理论（参见道德责任条目）。在这些替代解释下，我们的原则将保持开放，尽管可以预期，在除了最激进的修正性思维方式之外的任何方式中，都会出现类似于下面考虑的问题。
 
@@ -42,13 +42,13 @@ PAP-ultimate：一个人只有在她本可以做出不同选择的情况下，�
 
 ### 1.3 什么是能够做其他选择的能力？
 
-当一个人 S 做某事时，她有能力做其他选择是什么意思？为了帮助我们，我们可以看看其他说法：S 可以做其他选择；S 有能力做其他选择；这对 S 来说是可能的；S 可以进入 S 做其他选择的世界；这取决于 S；这对 S 来说是开放的。但是如果没有进一步的阐述，这些说法不过是要解释的同义词。这里没有采用能力理论，大部分情况下我们将依靠对特定情况下能力的判断。但是还有一些一般性问题值得注意。（另请参阅§4.2.1 和关于能力的条目。）
+当一个人 S 做某事时，她有能力做其他选择是什么意思？为了帮助我们，我们可以看看其他说法：S 可以做其他选择；S 有能力做其他选择；这对 S 来说是可能的；S 可以进入 S 做其他选择的世界；这取决于 S；这对 S 来说是开放的。但是如果没有进一步的阐述，这些说法不过是要解释的同义词。这里没有采用能力理论，大部分情况下我们将依靠对特定情况下能力的判断。但是还有一些一般性问题值得注意。（另请参阅 §4.2.1 和关于能力的条目。）
 
 S 的能够做出不同选择与 S 仅仅可能做出不同选择是不同的。一旦跳伞者 Lisa 跳出飞机，她在空中漂浮而不是下落是（逻辑上）可能的。但她无法做到：Lisa 漂浮的世界对她来说是无法接触的。如果 Kurt 被洗脑去偷 John 的午餐，那么虽然他有可能不偷，但他却无法做到。必须添加一些东西来确保 S 可能做其他事情，并确保 S 有能力这样做。
 
 正如休谟（1748 [1999: 158]）和其他人所争论的那样，在这里添加 S 似乎有其他选择并没有帮助（Chisholm 1967; Ginet 1990, 90–1）。虽然拥有其他选择的现象学——更一般地说，拥有代理能力的现象学——是一个重要的研究课题（Nagel 1986: ch. 7; Horgan, Tienson, & Graham 2003），但它并不能确保所讨论的能力。Fred 觉得他可以克服吸烟的诱惑，然后决定还是吸烟了。但事实证明，他无法抵制他的渴望。而拥有其他选择的感觉也并非拥有其他选择的必要条件。Fred 的姐姐 Fanny 觉得她在中午克服吸烟的诱惑力量不够，事实上她确实在那个时候吸烟了。但她对自己的能力有所误解：只要稍加努力，她就能够抵制住。
 
-这些代理人能够或不能够做的事情是相对于一组事实的，其中并非所有事实都需要有意识。在弗雷德和范妮的情况下，这些事实涉及到他们渴望的强度和他们各自的意志力度等等。这些事实被固定下来以评估他们的能力。但是还有哪些事实是重要的？对于这个问题没有共识，尽管似乎固定哪些事实可以根据上下文而变化（刘易斯1976年；霍根1979年；安格尔1984年）。这种上下文敏感性与正确应用PAP有关。凯恩面对一个“你的钱还是你的生命”的抢劫犯，交出了他的钱包。根据PAP，凯恩是否对此负责部分取决于他是否可以拒绝。那么他能吗？在某种情况下考虑这个例子，我们会说是的：他的手臂在他的控制之下，他完全意识到不服从的含义以及如何实现它。但在另一种情况下，我们可能会说不：凯恩是理性的，并且他将自己的生命远远看重于钱包里的钱，就像任何理智的人在这种情况下都会这样做；固定这种认知背景，抢劫犯的要求没有给他其他选择。那么在交出钱包时，凯恩是否满足了PAP对责任的要求呢？对于这个问题似乎没有明确的答案。更进一步复杂化的是，能力，特别是能够做出不同选择的能力，是存在一个连续变化的。威胁的动力、精神障碍或催眠建议的影响力从轻微到压倒性都有所不同。在这个连续变化的过程中，它的影响力何时变得如此强大以至于排除了其他选择？在这里没有一个非任意的界限可划定，而且显然科学也没有找到一个（格雷厄姆2013年：186，引用莫尔斯2011年）。
+这些代理人能够或不能够做的事情是相对于一组事实的，其中并非所有事实都需要有意识。在弗雷德和范妮的情况下，这些事实涉及到他们渴望的强度和他们各自的意志力度等等。这些事实被固定下来以评估他们的能力。但是还有哪些事实是重要的？对于这个问题没有共识，尽管似乎固定哪些事实可以根据上下文而变化（刘易斯 1976 年；霍根 1979 年；安格尔 1984 年）。这种上下文敏感性与正确应用 PAP 有关。凯恩面对一个“你的钱还是你的生命”的抢劫犯，交出了他的钱包。根据 PAP，凯恩是否对此负责部分取决于他是否可以拒绝。那么他能吗？在某种情况下考虑这个例子，我们会说是的：他的手臂在他的控制之下，他完全意识到不服从的含义以及如何实现它。但在另一种情况下，我们可能会说不：凯恩是理性的，并且他将自己的生命远远看重于钱包里的钱，就像任何理智的人在这种情况下都会这样做；固定这种认知背景，抢劫犯的要求没有给他其他选择。那么在交出钱包时，凯恩是否满足了 PAP 对责任的要求呢？对于这个问题似乎没有明确的答案。更进一步复杂化的是，能力，特别是能够做出不同选择的能力，是存在一个连续变化的。威胁的动力、精神障碍或催眠建议的影响力从轻微到压倒性都有所不同。在这个连续变化的过程中，它的影响力何时变得如此强大以至于排除了其他选择？在这里没有一个非任意的界限可划定，而且显然科学也没有找到一个（格雷厄姆 2013 年：186，引用莫尔斯 2011 年）。
 
 这些观点可能会使得在特定情况下测试或应用 PAP 变得困难。然而，只要道德责任的判断显示出类似的上下文敏感性和渐变性，它们本身并不意味着 PAP 是错误的。（关于责任程度，请参见 Zimmerman 1988：第 3 章；Coates＆Swenson 2013；Nelkin 2016。）
 
@@ -76,7 +76,7 @@ PAP 得到了广泛支持，因为我们在许多情况下判断，在没有替�
 
 类似的教训可以从操纵案例中得出，其中代理人通过物理或心理手段受到影响。后者的例子包括洗脑、催眠和胁迫。我们还可以包括更高科技的例子，其中操纵是通过直接控制受害者的大脑发生的。（这些例子通常是科幻小说，但参见 Krug，Salzman 和 Waddell 2015 年。）操纵涉及消除而不仅仅是减少替代选择的程度取决于工作机制。但是，只要我们认为这些例子涉及阻止替代选择，我们也认为它们排除了责任。
 
-作为回应，PAP 的反对者可能会承认在所有这些情况下，责任和替代选择都减少或不存在，但仍然否认我们可以从这些情况推广到 PAP，因为除了缺乏替代选择外，这些代理人还缺少其他重要的道德或心理能力。也许是缺乏这些能力而不是缺乏替代选择解释了为什么这些代理人不负责任（参见 Wallace 1994 年：第 5 章）。换句话说：也许在普通情况下，拥有替代选择只是与真正的责任要求相关联，无论那些要求是什么。对 PAP 的更精细测试需要考虑到在没有替代选择的情况下存在这些其他条件的更奇特的情景（§3.4 节；有关“普通情况”的更多信息，请参见§4.1 节）。
+作为回应，PAP 的反对者可能会承认在所有这些情况下，责任和替代选择都减少或不存在，但仍然否认我们可以从这些情况推广到 PAP，因为除了缺乏替代选择外，这些代理人还缺少其他重要的道德或心理能力。也许是缺乏这些能力而不是缺乏替代选择解释了为什么这些代理人不负责任（参见 Wallace 1994 年：第 5 章）。换句话说：也许在普通情况下，拥有替代选择只是与真正的责任要求相关联，无论那些要求是什么。对 PAP 的更精细测试需要考虑到在没有替代选择的情况下存在这些其他条件的更奇特的情景（§3.4 节；有关“普通情况”的更多信息，请参见 §4.1 节）。
 
 ### 2.3 代理的性质
 
@@ -94,7 +94,7 @@ PAP 得到了广泛支持，因为我们在许多情况下判断，在没有替�
 
 另一种观点是依赖于与康德（1785）经常相关的原则，即“应该”意味着“能够”（OIC）。你不能对你无法做到的事情负有道德义务。虽然消除世界饥饿对你来说是好事，但你没有义务这样做，因为你不能做到。（然而，你可能有义务尽力减轻饥饿。）也许 OIC 并不像里德认为的那样“像数学公理一样不言自明”（里德 1788: IV.v），但它仍然非常合理。
 
-现在回到 PAP。假设克里斯汀抢劫了一家银行。对于这个论证的第一次尝试如下（在这里，我们认为不做某事是做其他事情的一种方式；有关更多信息，请参见§4.2.2）：
+现在回到 PAP。假设克里斯汀抢劫了一家银行。对于这个论证的第一次尝试如下（在这里，我们认为不做某事是做其他事情的一种方式；有关更多信息，请参见 §4.2.2）：
 
 P1.
 
@@ -120,7 +120,7 @@ P1 看起来是安全的，假设道德上的责备感起作用（但参见 Cape
 
 正如之前提到的（§2.2），看起来 PAP 得到了我们日常表扬和责备的支持。特别是那些无法避免自己所做之事的人会被免责。但尽管这些初步表象，普通实践可能最终会削弱这一原则。
 
-再次考虑因果决定论，这是一个常被认为排除了替代可能性的命题。决定论是一个实质性的经验主张，没有人，尤其是普通人，知道它是否为真（见因果决定论词条）。因此，似乎如果我们在日常生活中预设了PAP，我们应该暂时对任何人是否对自己的行为负责保持审慎的判断，谨慎地等待科学家对决定论问题的裁决。但是，论证继续进行，认为我们必须等待科学进展来决定，比如说，Kevin是否应该感谢Denise在他度假期间帮他取邮件，或者受骗者是否应该责怪骗子，这种想法是荒谬的。无论微观物理学的研究结果如何，这些类似的反应都是合理的。决定论威胁到的替代可能性与是否应该表扬或责怪某人无关（P. F. Strawson 1962; Dennett 1984b: ch. 6; Fischer 2006: 5）。
+再次考虑因果决定论，这是一个常被认为排除了替代可能性的命题。决定论是一个实质性的经验主张，没有人，尤其是普通人，知道它是否为真（见因果决定论词条）。因此，似乎如果我们在日常生活中预设了 PAP，我们应该暂时对任何人是否对自己的行为负责保持审慎的判断，谨慎地等待科学家对决定论问题的裁决。但是，论证继续进行，认为我们必须等待科学进展来决定，比如说，Kevin 是否应该感谢 Denise 在他度假期间帮他取邮件，或者受骗者是否应该责怪骗子，这种想法是荒谬的。无论微观物理学的研究结果如何，这些类似的反应都是合理的。决定论威胁到的替代可能性与是否应该表扬或责怪某人无关（P. F. Strawson 1962; Dennett 1984b: ch. 6; Fischer 2006: 5）。
 
 作为回应，人民行动党的辩护者可能会借鉴语境主义者的观点，并表示在普通语境中，决定论通常（并且正确地）被忽略。这可以解释为什么在对责任的普通思考中从不涉及微观物理学，但与我们承认道德的真理相一致的方式：如果决定论变得显著——就像在哲学和科学语境中一样——它的替代选择将导致我们撤回我们的普通判断（参见 Hawthorne 2001）。另一个选择是说，我们通常假设——即使我们还不知道——决定论是错误的（Wiggins 1973：§8），并且通常认为我们有替代选择。也许如果我们成为决定论者，我们会停止赞扬和责备的做法，或者至少停止认为它们是合理的，正是因为我们支持道德或某些密切相关的原则。关于在明确假设决定论的情况下我们是否会归因于道德责任，有越来越多的实验文献，但迄今为止的结果似乎是不一致的（Sommers 2010；Nichols 2015：第 4 章）。
 
@@ -142,7 +142,7 @@ P1 看起来是安全的，假设道德上的责备感起作用（但参见 Cape
 
 赞扬卡托的品格，我们将其与道德信用混淆在一起，从而使他负有责任。小心避免这个错误，那些意志必然性的情况就不再被视为对 PAP 的反例。
 
-但对于这类例子，更常见的回答是通过允许相关的替代方案在行动之前出现来澄清我们的原则。就像我们应该赞扬路德因他的拒绝而受到赞扬一样，这是因为驱使行动的品格本身是路德过去的选择的结果，在那些选择中他本可以做出不同的选择。这个对 PAP 的重要限定，有时被称为“追溯”，自亚里士多德以来一直是标准做法（Nicomachean Ethics iii.v; 参见约翰·洛克 1689: II.xxi.56; C. A. Campbell 1957; Lamb 1993; Kane 1996: 39–40）。只有通过道德斗争，在众多可能性中选择一条确定的道路，路德才最终达到了一个他的品格和良心迫使他行动的点。鉴于此，让我们在 PAP 中加入一个附加条款（紧随 Mele 1999: 282）：
+但对于这类例子，更常见的回答是通过允许相关的替代方案在行动之前出现来澄清我们的原则。就像我们应该赞扬路德因他的拒绝而受到赞扬一样，这是因为驱使行动的品格本身是路德过去的选择的结果，在那些选择中他本可以做出不同的选择。这个对 PAP 的重要限定，有时被称为“追溯”，自亚里士多德以来一直是标准做法（Nicomachean Ethics iii.v; 参见约翰 · 洛克 1689: II.xxi.56; C. A. Campbell 1957; Lamb 1993; Kane 1996: 39–40）。只有通过道德斗争，在众多可能性中选择一条确定的道路，路德才最终达到了一个他的品格和良心迫使他行动的点。鉴于此，让我们在 PAP 中加入一个附加条款（紧随 Mele 1999: 282）：
 
 PAP-历史性：一个人只有在 t 时刻她本可以做出不同选择，或者尽管在 t 时刻她无法做出不同选择，但她在 t 时刻行动的心理品格本身部分是她早期行动（或行动）的产物，而在那个时候她本可以做出不同的选择，她才对她所做的事情负有道德责任。
 
@@ -198,11 +198,11 @@ Locke says the man remains in the room voluntarily, even if he is not free to le
 
 这个人类似于之前考虑过的自愿上瘾者（§3.2），只是在这种情况下上瘾仍然处于休眠状态。他自己服用药物，出于自己的原因。因此，他似乎对决定服用药物和服用药物负有道德责任。然而，无论决定还是行动都是不可避免的，因为如果他没有自己选择这样做，上瘾就会迫使他这样做。
 
-一个更为著名的 FSC 出现在早期的一篇论文中（弗兰克福特 1969 年；弗兰克福特归功于罗伯特·诺齐克的未发表讲座，提供了类似的例子）。在接下来的内容中，考虑弗兰克福特的例子的一个版本将会很有用（来自费舍尔）。
+一个更为著名的 FSC 出现在早期的一篇论文中（弗兰克福特 1969 年；弗兰克福特归功于罗伯特 · 诺齐克的未发表讲座，提供了类似的例子）。在接下来的内容中，考虑弗兰克福特的例子的一个版本将会很有用（来自费舍尔）。
 
-> Black 是一个邪恶的神经外科医生。在对 Jones 进行脑部肿瘤切除手术时，Black 在 Jones 的大脑中植入了一个机制，使 Black 能够监控和控制 Jones 的活动。与此同时，Jones 对此一无所知。Black 通过一台他编程的计算机来进行控制，该计算机除了监控 Jones 的投票行为外，还有其他功能。如果 Jones 倾向于决定投票给[民主党人]，那么计算机通过 Jones 大脑中的机制干预，确保他最终决定投票给[共和党人]，并且确实这样投票。但是，如果 Jones 自己决定投票给[共和党人]，计算机什么也不做，只是继续监控 Jones 头脑中的情况，而不产生任何影响。
+> Black 是一个邪恶的神经外科医生。在对 Jones 进行脑部肿瘤切除手术时，Black 在 Jones 的大脑中植入了一个机制，使 Black 能够监控和控制 Jones 的活动。与此同时，Jones 对此一无所知。Black 通过一台他编程的计算机来进行控制，该计算机除了监控 Jones 的投票行为外，还有其他功能。如果 Jones 倾向于决定投票给 [民主党人]，那么计算机通过 Jones 大脑中的机制干预，确保他最终决定投票给 [共和党人]，并且确实这样投票。但是，如果 Jones 自己决定投票给 [共和党人]，计算机什么也不做，只是继续监控 Jones 头脑中的情况，而不产生任何影响。
 >
-> 假设 Jones 决定自己投票给[共和党人]，就像如果 Black 没有在他的头脑中植入机制一样。那么弗兰克福特声称，无论他是否能够做出其他选择，Jones 都对投票给[共和党人]负有责任。（Fischer 1982: 26; 参见弗兰克福特 1969: 835–836）
+> 假设 Jones 决定自己投票给 [共和党人]，就像如果 Black 没有在他的头脑中植入机制一样。那么弗兰克福特声称，无论他是否能够做出其他选择，Jones 都对投票给 [共和党人] 负有责任。（Fischer 1982: 26; 参见弗兰克福特 1969: 835–836）
 
 复杂的细节将在后面的章节中介绍，但现在值得注意的是这种例子的两个优点。首先，与早期试图削弱 PAP 的一些尝试不同，这里没有任何因素，无论是内在于行动者还是其他方面，都能迫使行动发生。使行动不可避免的因素（一个案例中的潜在成瘾，另一个案例中的 Black 和他的计算机）并不能引发行动，行动是行动者出于自己的原因而做出的。这使得赞扬或责备更加自然。其次，与洛克的囚犯案例不同，FSCs 不会让我们混淆决策和明显行动，因为决策本身（以及行动）既是不可避免的，也是行动者在道德上负有责任的。
 
@@ -242,9 +242,9 @@ PAP-ordinary：在普通情况下，一个人只有在她本可以做出其他�
 
 PAP-general：一个人只有在她具备一般能力时，她才对自己所做的事情负有道德责任。
 
-这个版本似乎对 FSCs 免疫。而且它还有一个额外的优点，即解释了标准情况下代理人无罪的情况（§2.2），只要这些情况可以合理地被解释为涉及缺乏或减少的一般能力。此外，兼容主义者将注意到，因果决定论不再是对道德责任的威胁（§1.1；但也参见§5.2）。毕竟，决定论并没有剥夺我们未行使的一般能力。例如，即使在一个决定论的世界中，在沉默期间，人们通常仍然有说话的能力。那么，为什么决定论应该剥夺任何人的能力——也就是说，一般能力——去做其他选择呢？这一观点是古老的（Sorabji 1980: 78），但在“新的倾向性主义者”或“倾向性兼容主义者”的手中得到了新的生命和复杂的辩护，因为一般能力可以等同于倾向性（参见关于兼容主义的条目§4.1.5）。
+这个版本似乎对 FSCs 免疫。而且它还有一个额外的优点，即解释了标准情况下代理人无罪的情况（§2.2），只要这些情况可以合理地被解释为涉及缺乏或减少的一般能力。此外，兼容主义者将注意到，因果决定论不再是对道德责任的威胁（§1.1；但也参见 §5.2）。毕竟，决定论并没有剥夺我们未行使的一般能力。例如，即使在一个决定论的世界中，在沉默期间，人们通常仍然有说话的能力。那么，为什么决定论应该剥夺任何人的能力——也就是说，一般能力——去做其他选择呢？这一观点是古老的（Sorabji 1980: 78），但在“新的倾向性主义者”或“倾向性兼容主义者”的手中得到了新的生命和复杂的辩护，因为一般能力可以等同于倾向性（参见关于兼容主义的条目 §4.1.5）。
 
-这种辩护引发的一个问题是，现在将 PAP 解释为 PAP-general，是否会遇到类似 FSCs 的反例（Cohen＆Handfield 2007; Whittle 2010）。另一个问题是，这个修订后的原则是否反映了传统上认为需要解释责任的那种替代选择（McKenna 1998; Kane 2002; Clarke 2009; Whittle 2010; Fischer 2018; 参见关于能力的条目§5.2）。有一套道德实践，以及一个与之相关的 PAP 版本，根据这个版本，责任需要的不仅仅是一般能力去做其他选择。显然，这就是 FSCs 所针对的 PAP 的解读。即使弗兰克福代理人具备相关的一般能力，他们似乎在传统意义上——但根据弗兰克福和他的盟友的错误观点——缺乏做其他选择的能力，而这种能力是责任所需的。
+这种辩护引发的一个问题是，现在将 PAP 解释为 PAP-general，是否会遇到类似 FSCs 的反例（Cohen＆Handfield 2007; Whittle 2010）。另一个问题是，这个修订后的原则是否反映了传统上认为需要解释责任的那种替代选择（McKenna 1998; Kane 2002; Clarke 2009; Whittle 2010; Fischer 2018; 参见关于能力的条目 §5.2）。有一套道德实践，以及一个与之相关的 PAP 版本，根据这个版本，责任需要的不仅仅是一般能力去做其他选择。显然，这就是 FSCs 所针对的 PAP 的解读。即使弗兰克福代理人具备相关的一般能力，他们似乎在传统意义上——但根据弗兰克福和他的盟友的错误观点——缺乏做其他选择的能力，而这种能力是责任所需的。
 
 #### 4.2.2 自由的闪烁
 
@@ -278,11 +278,11 @@ FSCs 的一个有影响力的批评是以困境的形式出现的，当我们更
 
 Pereboom（2001 年：第 1 章；另见 Hunt 2005）回答说，即使有一个不确定的迹象，我们也可以构建一个成功的 FSC，其中琼斯没有其他选择。为了多样性，暂时切换到 Pereboom 的“逃税”案例，尽管可以构建类似的 Black-Jones 案例来阐述相似的观点。乔是一个具有自由意志的代理人，正在考虑是否要申报非法的税收减免。他倾向于这样做，而在他思考的过程中，唯一有可能改变他想法的因素是一个强烈的道德理由。是否会有这样的理由出现在乔的脑海中是不确定的（参见 Mele 1995 年：第 12 章），即使出现在他的脑海中，也可能不会改变他的想法。但至少他选择不逃税的一个必要条件是出现这样的理由（从而进入“心理缓冲区”-因此这些被称为“缓冲案例”）。现在添加反事实干预者，他希望乔违法：
 
-> …为了确保[乔]选择逃税，一位神经科学家现在植入了一个设备，如果它能感知到具有指定力量的道德理由，它将通过电子刺激他的大脑，使他选择逃税。实际上，没有道德理由以如此强烈的力量出现在他的脑海中，而在设备保持闲置的同时，他选择逃税（Pereboom 2001 年：19）。
+> …为了确保 [乔] 选择逃税，一位神经科学家现在植入了一个设备，如果它能感知到具有指定力量的道德理由，它将通过电子刺激他的大脑，使他选择逃税。实际上，没有道德理由以如此强烈的力量出现在他的脑海中，而在设备保持闲置的同时，他选择逃税（Pereboom 2001 年：19）。
 
-乔在选择上似乎负有责任——即使从自由意志论者的角度来看——但他无法做出其他选择，因为那将需要一个道德理由，一个会引发干预的理由。在这个FSC中，唯一的明显迹象在于反事实的序列，但人们可能仍然担心实际序列中缺乏这个迹象，与第二个角的限制相反，这对于乔决定进行非法扣除来说在因果上是充分的。因此，要补充说明，在决策之前的任何时刻，乔都可能出现一个道德理由。因此，琼斯在考虑问题时，并没有一个时刻是缺乏（直到那个时候为止）道德理由决定他逃税的。 （对这个缓冲案例的批评包括Ginet 2002; Goetz 2002; Widerker 2006。）
+乔在选择上似乎负有责任——即使从自由意志论者的角度来看——但他无法做出其他选择，因为那将需要一个道德理由，一个会引发干预的理由。在这个 FSC 中，唯一的明显迹象在于反事实的序列，但人们可能仍然担心实际序列中缺乏这个迹象，与第二个角的限制相反，这对于乔决定进行非法扣除来说在因果上是充分的。因此，要补充说明，在决策之前的任何时刻，乔都可能出现一个道德理由。因此，琼斯在考虑问题时，并没有一个时刻是缺乏（直到那个时候为止）道德理由决定他逃税的。 （对这个缓冲案例的批评包括 Ginet 2002; Goetz 2002; Widerker 2006。）
 
-另一种避免琼斯选择的因果充分迹象的方法是简单地删除迹象本身，顺便说一句，这在弗兰克福自己的FSC中并不总是明确的特征。假设没有任何迹象或其他任何因果充分琼斯选择的东西，并且规定导致这一选择的因果过程是自由意志论者认为合适的。然后问题是如何使琼斯的选择不可避免，就像一个成功的FSC所要求的那样。具体而言，亨特（Hunt，2000；2003）设想导致琼斯选择的神经过程在没有任何外部干扰的情况下进行。但是，尽管这些过程是不确定的，但事实证明所有可能实现投票给民主党的替代神经途径都被阻断了。这种“阻塞”（Fischer，1999）使琼斯别无选择，只能投票给共和党，然而他仍然独立做出决定-阻塞从未在他的思考中发挥作用-因此他对此负有道德责任。在相关的FSC中（Mele＆Robb，1998），布莱克在琼斯的大脑中建立了一个过程，该过程将在决策时导致琼斯投票给共和党，除非琼斯当时决定自己这样做。布莱克设置的过程不会干扰琼斯自己的思考，这些思考被假定为满足自由意志论者的要求。布莱克的过程也不会寻找琼斯将做出的决定的迹象。当琼斯在相关时间内决定自己投票给共和党时，似乎他对这个决定负责，尽管布莱克设置的过程确保琼斯不能做出其他决定。（事实证明，这个例子也涉及阻塞，因为布莱克设置的过程也“中和”了任何替代决策的神经实现。）
+另一种避免琼斯选择的因果充分迹象的方法是简单地删除迹象本身，顺便说一句，这在弗兰克福自己的 FSC 中并不总是明确的特征。假设没有任何迹象或其他任何因果充分琼斯选择的东西，并且规定导致这一选择的因果过程是自由意志论者认为合适的。然后问题是如何使琼斯的选择不可避免，就像一个成功的 FSC 所要求的那样。具体而言，亨特（Hunt，2000；2003）设想导致琼斯选择的神经过程在没有任何外部干扰的情况下进行。但是，尽管这些过程是不确定的，但事实证明所有可能实现投票给民主党的替代神经途径都被阻断了。这种“阻塞”（Fischer，1999）使琼斯别无选择，只能投票给共和党，然而他仍然独立做出决定-阻塞从未在他的思考中发挥作用-因此他对此负有道德责任。在相关的 FSC 中（Mele＆Robb，1998），布莱克在琼斯的大脑中建立了一个过程，该过程将在决策时导致琼斯投票给共和党，除非琼斯当时决定自己这样做。布莱克设置的过程不会干扰琼斯自己的思考，这些思考被假定为满足自由意志论者的要求。布莱克的过程也不会寻找琼斯将做出的决定的迹象。当琼斯在相关时间内决定自己投票给共和党时，似乎他对这个决定负责，尽管布莱克设置的过程确保琼斯不能做出其他决定。（事实证明，这个例子也涉及阻塞，因为布莱克设置的过程也“中和”了任何替代决策的神经实现。）
 
 担心阻塞案例的原因之一是，与预期相反，它们可能使琼斯的选择在因果上被确定，再次对他的责任提出质疑。毕竟，反对意见认为，在琼斯的大脑中建立的结构和过程阻止了除了选择投票给共和党之外的所有其他选择，这与琼斯的选择由这些相同的结构和过程在因果上决定之间似乎几乎没有任何区别。（有关此类案例的进一步批判性讨论，请参见，例如，O'Connor 2000: 83–84; Ekstrom 2002; Ginet 1996 [2001 addendum]; 2003; Kane 2003; Timpe 2013: ch. 6. 对于这个未在此处考虑的困境辩护的重要回应是 Stump 1996; 另请参见 Goetz 1999; Stump 1999。）
 
@@ -306,9 +306,9 @@ C.
 
 因此，如果决定论是真实的，那么库尔特对偷约翰的午餐不负道德责任。
 
-第一个前提得到了后果论的支持（见不相容论证条目§5）：鉴于决定论，库尔特的偷窃是远古加上自然法则的必然结果。库尔特对这两者都没有控制权，所以他无法避免偷约翰的午餐。第二个前提是 PAP 的一个实例。结论可以推广应用于任何行动：如果决定论是真实的，那么没有人对自己所做的任何事情负责。
+第一个前提得到了后果论的支持（见不相容论证条目 §5）：鉴于决定论，库尔特的偷窃是远古加上自然法则的必然结果。库尔特对这两者都没有控制权，所以他无法避免偷约翰的午餐。第二个前提是 PAP 的一个实例。结论可以推广应用于任何行动：如果决定论是真实的，那么没有人对自己所做的任何事情负责。
 
-对于决定论和道德责任的兼容主义者来说，他们拒绝了这个结论，因此他们必须拒绝至少一个前提。一种传统的兼容主义者接受 PAP（和 P2），并针对 P1 以及由此引出的后果论进行批判。这使得兼容主义者陷入了关于能否做出其他选择的问题中（§1.3 和§4.2.1）。然而，如果 PAP 是错误的，兼容主义者可以避免这些困难，并拒绝不支持 P2。在没有 PAP 的情况下，兼容主义获得了新的动力（参见兼容主义条目§4）。
+对于决定论和道德责任的兼容主义者来说，他们拒绝了这个结论，因此他们必须拒绝至少一个前提。一种传统的兼容主义者接受 PAP（和 P2），并针对 P1 以及由此引出的后果论进行批判。这使得兼容主义者陷入了关于能否做出其他选择的问题中（§1.3 和 §4.2.1）。然而，如果 PAP 是错误的，兼容主义者可以避免这些困难，并拒绝不支持 P2。在没有 PAP 的情况下，兼容主义获得了新的动力（参见兼容主义条目 §4）。
 
 但是，这种通往兼容主义的途径并不简单。即使没有 PAP 的帮助，决定论仍然可能由于其阻碍替代选择的方式而排除责任（Frankfurt 1969; Blumenfeld 1971; Fischer 1982; Speak 2007）。在 FSCs 中，使行动不可避免的因素不会干扰代理人自己的思考过程或行动：这些例子中的“干预”只是虚拟的。相比之下，如果决定论是真实的，那么它的干预就是实际的。毕竟，决定论意味着我们选择和行动的每一个细节都是由过去的因素决定的。可以这样说：在一个决定论的世界中，我们的行动是因为决定论将我们置于单一轨道上，因为我们无法做出其他选择。因此，即使 FSCs 表明仅仅阻碍替代选择并不排除道德责任，决定论独特的阻碍替代选择的方式仍然是一种威胁。（鉴于这一点，可以明确地从决定论阻碍替代选择的特定方式的角度重新阐述上述不相容论证。修改后的 P2 不需要 PAP，尽管它需要一个较弱的原则。）
 
@@ -316,7 +316,7 @@ C.
 
 其中一种观点来自弗兰克福特（1971）和其他人，他们认为道德负责的行为者是那些认同导致其行动的动机的人。考虑到意志的必然性（第 3.3 节）：虽然卢瑟受到良心的驱使，但他认同这些道德动机。同样，即使是有意愿的瘾君子无法不吸毒，他也支持这种瘾。这些案例早些时候被视为试图反驳 PAP 的反例。现在它们被视为良性必然性的案例，即通过代理人自己的思考过程来阻止替代选择的方式，这与道德责任是相容的。只要代理人认同（或至少不拒绝）这些过程，它们就不会排除责任。如果可以独立捍卫这样的解释，兼容主义者就可以声称已经满足了上述要求，因为认同和因此责任与决定论是相容的。
 
-另一个有影响力的解释来自Fischer和Ravizza（1998年；参见Fischer 1994年）。FSC的一个教训是，道德责任的解释应该在导致行为者选择和行动的实际序列中找到。在Black-Jones案例中，Black介入的替代序列中发生的事情与Jones的责任无关。甚至不清楚Jones在替代序列中做了什么（§4.2.2）。因此，他的道德责任必须建立在Jones自己选择投票给共和党时实际发生的事情上。Fischer和Ravizza认为，实际序列的相关部分包括产生Jones选择的“理由响应机制”。当Jones进行思考时，他的思考能力对投票给民主党的理由和投票给共和党的理由都很敏感。结果是，后者超过了前者，但仍然存在一种情景，在这种情景中，投票给民主党的理由超过投票给共和党的理由，Jones的思考能力对此事实敏感，并相应地投票。从这个意义上说，他的思考能力可以对竞争的理由做出反应。（这个对民主党友好的情景不一定对Jones可见；因此我们可以保留Frankfurt的限制条件。）假设在适当的背景条件下，理由响应性确保了道德责任，那么兼容主义者已经满足了早期的要求，因为具有理由响应机制看起来与决定论是兼容的。
+另一个有影响力的解释来自 Fischer 和 Ravizza（1998 年；参见 Fischer 1994 年）。FSC 的一个教训是，道德责任的解释应该在导致行为者选择和行动的实际序列中找到。在 Black-Jones 案例中，Black 介入的替代序列中发生的事情与 Jones 的责任无关。甚至不清楚 Jones 在替代序列中做了什么（§4.2.2）。因此，他的道德责任必须建立在 Jones 自己选择投票给共和党时实际发生的事情上。Fischer 和 Ravizza 认为，实际序列的相关部分包括产生 Jones 选择的“理由响应机制”。当 Jones 进行思考时，他的思考能力对投票给民主党的理由和投票给共和党的理由都很敏感。结果是，后者超过了前者，但仍然存在一种情景，在这种情景中，投票给民主党的理由超过投票给共和党的理由，Jones 的思考能力对此事实敏感，并相应地投票。从这个意义上说，他的思考能力可以对竞争的理由做出反应。（这个对民主党友好的情景不一定对 Jones 可见；因此我们可以保留 Frankfurt 的限制条件。）假设在适当的背景条件下，理由响应性确保了道德责任，那么兼容主义者已经满足了早期的要求，因为具有理由响应机制看起来与决定论是兼容的。
 
 Fischer 和 Ravizza 的解释允许在道德责任中需要某种程度的控制。对于一个人的选择和行为的一种控制是拥有替代选择的问题：在这个意义上，控制条件等同于被拒绝的 PAP；Fischer 和 Ravizza 称之为“规范性控制”。但还有另一种“指导性控制”，它不要求行动者有可用的替代选择，这正是理由-响应性解释试图捕捉的内容。琼斯在相关意义上指导他的行动，因此可以对他所做的事情负责，即使由于布莱克和他的计算机，琼斯缺乏规范性控制。
 
@@ -360,7 +360,7 @@ PAP-显著性：一个人只有在她可以执行某种替代行动 B 的情况�
 
 #### 5.3.2 对后果的责任
 
-似乎很明显，有时我们对我们行为的后果负责（有异议的话，请参见弗兰克福特 1983 年）。请记住，梅根不仅对于把盐放进肖恩的茶里（一种行为）而导致肖恩的茶被毁（一种后果）负责。将这种后果称为“事态”。也许一个人也可以对不是行动后果的事态负责。一个房主对于她后院出现危险的污水坑负责，不是因为她做了什么，而只是因为疏忽。无论如何处理这种情况，它们都被搁置在一边，以便专注于更明显是行动后果的事态。并且毫不奇怪，有一个明确针对这些事态的替代原则（这个原则和后面的大部分内容改编自范·因瓦根 1978 年；参见吉内特 1996 年：403）：
+似乎很明显，有时我们对我们行为的后果负责（有异议的话，请参见弗兰克福特 1983 年）。请记住，梅根不仅对于把盐放进肖恩的茶里（一种行为）而导致肖恩的茶被毁（一种后果）负责。将这种后果称为“事态”。也许一个人也可以对不是行动后果的事态负责。一个房主对于她后院出现危险的污水坑负责，不是因为她做了什么，而只是因为疏忽。无论如何处理这种情况，它们都被搁置在一边，以便专注于更明显是行动后果的事态。并且毫不奇怪，有一个明确针对这些事态的替代原则（这个原则和后面的大部分内容改编自范 · 因瓦根 1978 年；参见吉内特 1996 年：403）：
 
 PAP-后果：一个人只有在她本可以阻止时，才对她所做的行为的后果负有道德责任。
 
@@ -368,7 +368,7 @@ PAP-后果：一个人只有在她本可以阻止时，才对她所做的行为�
 
 然而，与现在的关注更相关的是，这种替代可能不会受到困扰 PAP 的例子的影响。回到我们的中心 FSC：看起来好像琼斯之所以投票给共和党（一种行动）是因为他自己这样做，出于他自己的原因。但是现在考虑一种结果的情况，比如，共和党多了一票。无论琼斯自己做了什么或者没有做什么，这种情况都会发生。由于布莱克，这种情况的发生不像琼斯的行动那样，对琼斯自己的思考过程如何进行是敏感的。因此，人们失去了琼斯是后果的作者的任何意义，也失去了他负责任的任何意义。这在 PAP-Consequences 和 PAP 之间创造了一些空间，使前者在后者失败时能够存在。
 
-在这里，一种情况是普遍的：无论琼斯是自己投票给共和党还是因为布莱克的干预，都会得到同样的结果。这样，道德评价的对象（情况）并不取决于琼斯的实际情况如何。但是，如果将后果解释为具体的特定情况，即琼斯在实际情景中产生的某种结果，那么 PAP-Consequences 看起来就会像 PAP 一样容易受到 FSC 的攻击。当琼斯投票给共和党时，特定的后果——投票给共和党的事件——似乎是琼斯自己产生的，因此他对此负有责任。（无论在反事实情景中是否会发生相同的事件是一个有争议的问题，其解决可能会产生§4.2.2 中考虑的“闪烁”策略的一个版本。）无论如何，让我们继续假设后果是一种（普遍的）情况。
+在这里，一种情况是普遍的：无论琼斯是自己投票给共和党还是因为布莱克的干预，都会得到同样的结果。这样，道德评价的对象（情况）并不取决于琼斯的实际情况如何。但是，如果将后果解释为具体的特定情况，即琼斯在实际情景中产生的某种结果，那么 PAP-Consequences 看起来就会像 PAP 一样容易受到 FSC 的攻击。当琼斯投票给共和党时，特定的后果——投票给共和党的事件——似乎是琼斯自己产生的，因此他对此负有责任。（无论在反事实情景中是否会发生相同的事件是一个有争议的问题，其解决可能会产生 §4.2.2 中考虑的“闪烁”策略的一个版本。）无论如何，让我们继续假设后果是一种（普遍的）情况。
 
 即使在这种假设下，这种替代是否可能落到 FSCs 上？上述辩护并不表明如此，但这并没有阻止哲学家们尝试，并且有各种各样的例子（例如，Heinaman 1986; Rowe 1989; Klein 1990: ch. 2; Fischer & Ravizza 1998: ch. 4）。这里有一个思想来激励这样一个项目：即使一个行动的后果是不可避免的，我们仍然可以理解她导致了那种情况的发生，这看起来像是她做的事情的结果，即使它无论如何都会发生。也许这足以使情况对实际产生的顺序敏感，从而作为 FSC 所要求的，为代理人的道德责任提供基础。例如，Rowe（1989）设想你在一辆开往 2 号轨道的火车上，这是一条通往安全停车点的轨道。如果你扔开一个开关，火车将进入另一条轨道，即 1 号轨道，上面有一只被绑住的狗。你并不知道，有个人（Peter）正准备在你不扔开开关的情况下扔开它。事实证明，你自己扔开了开关，Peter 根本没有行动，火车进入了 1 号轨道，狗被撞死了。Rowe 说你导致了狗的死亡，实际上你对此负有道德责任。（通常情况下，假设满足其他标准要求。）然而，这个后果，即狗的死亡，是不可避免的：你无法阻止它的发生。（有关 PAP 后果的继任者，可能更容易处理潜在的反例，请参见 Sartorio 2012。）
 
@@ -380,212 +380,212 @@ PAP-省略：一个人只有在他本可以做到的情况下，他才对自己�
 
 根据这个新原则，如果水流对于救援来说太危险，卢克对于他的失败是无可指责的。（他可能仍然对于没有尝试或没有寻求帮助感到负责。）同样地，艾米莉只有在她本可以作弊的情况下才对于没有作弊负责。如果由于害怕被抓，她无法作弊，或者作弊的手段对她来说根本不可用，她就不能因为她的省略而受到赞誉，至少在那个场合上是如此。PAP-省略在这里被视为一个独立的原则，尽管在这样的假设背后有一些形而上学（克拉克 2012 年；S.伯恩斯坦 2015 年）。目前的问题是它是否能够在 PAP 的消亡中存活下来。
 
-看起来似乎不行，因为这个替代方案看起来容易受到许多相同的争论的攻击（§3）。但是为了测试这种所谓的对称性，特别关注是否可以构建一个 FSC 作为对 PAP-省略的反例（范·因瓦根 1978 年，204-5）：鲍勃看到一个人在他家外被抢劫和殴打。在考虑是否报警后，鲍勃决定不介入，计算出这样做不值得麻烦。因为他自己的原因，鲍勃选择不报警。然而，鲍勃不知道的是，由于技术灾难，城市中的所有电话都无法使用，将会持续数小时。看起来，鲍勃不对于没有报警负责。而且可以合理地认为，PAP-省略解释了为什么他没有责任：由于电话灾难，他无法报警。（他可能仍然对于没有尝试报警感到负责，但尝试是他本可以做到的事情。）鉴于目前的假设 PAP 是错误的，从这样的例子中得出的结论是，与最初的表面看法相反，存在一个重要的不对称性：
+看起来似乎不行，因为这个替代方案看起来容易受到许多相同的争论的攻击（§3）。但是为了测试这种所谓的对称性，特别关注是否可以构建一个 FSC 作为对 PAP-省略的反例（范 · 因瓦根 1978 年，204-5）：鲍勃看到一个人在他家外被抢劫和殴打。在考虑是否报警后，鲍勃决定不介入，计算出这样做不值得麻烦。因为他自己的原因，鲍勃选择不报警。然而，鲍勃不知道的是，由于技术灾难，城市中的所有电话都无法使用，将会持续数小时。看起来，鲍勃不对于没有报警负责。而且可以合理地认为，PAP-省略解释了为什么他没有责任：由于电话灾难，他无法报警。（他可能仍然对于没有尝试报警感到负责，但尝试是他本可以做到的事情。）鉴于目前的假设 PAP 是错误的，从这样的例子中得出的结论是，与最初的表面看法相反，存在一个重要的不对称性：
 
 > 道德责任并不要求有自由来免于执行某个行动，而道德责任未能执行某个行动则要求有自由来执行该行动。（Fischer & Ravizza 1991: 262，类似的例子；他们后来撤回了这种不对称的说法）
 
 这里有一个解释这种不对称性的尝试（Fischer 1985–86: 267–268）：对于任何事物——行动、后果、遗漏——的道德责任都需要一种特定的控制，尽管所需的控制类型可能因情况而异。现在承认，与 PAP 相反，FSCs 表明对于行动的责任并不需要规范性控制（§5.1），只需要指导性控制（假设道德责任的其他条件得到满足）。然而，当涉及遗漏时，没有潜在的指导性控制对象，因为没有东西可供指导。对于遗漏，满足控制要求的唯一控制类型是规范性控制。难怪 FSCs 无法反驳 PAP-遗漏，因为这些情况消除了对遗漏的唯一可能的控制。
 
-话虽如此，并非每个人都承认所声称的不对称性。PAP和PAP-omissions都应该一起被排除（Frankfurt 1994; Glannon 1995; Fischer & Ravizza 1998: ch. 5; 或者一起存在：Swenson 2016）。考虑最后一个FSC，这次将省略带入“责任的范围”内：一种选择（或者在这种情况下，是没有选择）。漠不关心的救生员卢克未能拯救溺水者，事实上甚至没有尝试，原因完全是他自己的：他懒惰和漠不关心。但是现在假设，卢克并不知道，如果他甚至考虑过拯救溺水者，他会被压倒性的恐惧所麻痹，迫使他保持不活动，甚至不选择或尝试拯救溺水者。在这种情况下，没有过度决定，因为恐惧和潜在的病理在实际情景中仍然处于休眠状态：与省略相关的唯一因果因素是卢克自己的认知状态和价值观，它们似乎对他的失败施加了一种与责任相关的控制。这看起来像是一个真正的FSC，如果是这样，就是对PAP-omissions的反例。（有关与PAP-omissions相关的相当复杂性的更多信息，请参见McIntyre 1994; Sartorio 2005; Clarke 2014; Fischer 2017。）
+话虽如此，并非每个人都承认所声称的不对称性。PAP 和 PAP-omissions 都应该一起被排除（Frankfurt 1994; Glannon 1995; Fischer & Ravizza 1998: ch. 5; 或者一起存在：Swenson 2016）。考虑最后一个 FSC，这次将省略带入“责任的范围”内：一种选择（或者在这种情况下，是没有选择）。漠不关心的救生员卢克未能拯救溺水者，事实上甚至没有尝试，原因完全是他自己的：他懒惰和漠不关心。但是现在假设，卢克并不知道，如果他甚至考虑过拯救溺水者，他会被压倒性的恐惧所麻痹，迫使他保持不活动，甚至不选择或尝试拯救溺水者。在这种情况下，没有过度决定，因为恐惧和潜在的病理在实际情景中仍然处于休眠状态：与省略相关的唯一因果因素是卢克自己的认知状态和价值观，它们似乎对他的失败施加了一种与责任相关的控制。这看起来像是一个真正的 FSC，如果是这样，就是对 PAP-omissions 的反例。（有关与 PAP-omissions 相关的相当复杂性的更多信息，请参见 McIntyre 1994; Sartorio 2005; Clarke 2014; Fischer 2017。）
 
 ## Bibliography
 
-* Alvarez, Maria, 2009, “Actions, Thought-Experiments and the ‘Principle of Alternate Possibilities’”, *Australasian Journal of Philosophy*, 87(1): 61–81. doi:10.1080/00048400802215505
-* –––, 2013, “Agency and Two-Way Powers”, *Proceedings of the Aristotelian Society*, 113(1pt1): 101–121. doi:10.1111/j.1467-9264.2013.00347.x
+* Alvarez, Maria, 2009, “Actions, Thought-Experiments and the ‘Principle of Alternate Possibilities’”, *Australasian Journal of Philosophy*, 87(1): 61–81. doi: 10.1080/00048400802215505
+* –––, 2013, “Agency and Two-Way Powers”, *Proceedings of the Aristotelian Society*, 113(1pt1): 101–121. doi: 10.1111/j.1467-9264.2013.00347.x
 * Aristotle, *Nicomachean Ethics*, in T. Irwin (trans), *Nicomachean Ethics*, second edition, Indianapolis, IN: Hackett Publishing Company, 1999.
 * Audi, Robert, 1974, “Moral Responsibility, Freedom, and Compulsion”, *American Philosophical Quarterly*, 11(1): 1–14.
 * Austin, J. L., 1956, “Ifs and Cans”, *Proceedings of the British Academy*, 42: 107–132. Reprinted in J. L. Austin, *Philosophical Papers*, third edition, J. O. Urmson and G. J. Warnock (eds.), Oxford: Oxford University Press, 1979, pp. 205–232.
-* Beebee, Helen, 2013, *Free Will: An Introduction*, Basingstoke, UK: Palgrave Macmillan. doi:10.1057/9781137316066
+* Beebee, Helen, 2013, *Free Will: An Introduction*, Basingstoke, UK: Palgrave Macmillan. doi: 10.1057/9781137316066
 * Bennett, Jonathan, 2008, “Accountability (II)”, in *Free Will and Reactive Attitudes: Perspectives on P.F. Strawson’s “Freedom and Resentment”,*, Michael McKenna and Paul Russell (eds.), Burlington, VT: Ashgate Publishing Company, pp. 47–68; reprinted London: Routledge, 2016.
-* Bernstein, Mark, 2005, “Can We Ever Be Really, Truly, Ultimately, Free?”, *Midwest Studies in Philosophy*, 29(1): 1–12. doi:10.1111/j.1475-4975.2005.00102.x
-* Bernstein, Sara, 2015, “The Metaphysics of Omissions: The Metaphysics of Omissions”, *Philosophy Compass*, 10(3): 208–218. doi:10.1111/phc3.12206
-* Blumenfeld, David, 1971, “The Principle of Alternate Possibilities”, *The Journal of Philosophy*, 68(11): 339–345. doi:10.2307/2024867
-* Boxer, K. E., 2013, *Rethinking Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199695324.001.0001
-* Brent, Michael, 2017, “Agent Causation as a Solution to the Problem of Action”, *Canadian Journal of Philosophy*, 47(5): 656–673. doi:10.1080/00455091.2017.1285643
-* Brink, David O. and Dana K. Nelkin, 2013, “Fairness and the Architecture of Responsibility”, in *Oxford Studies in Agency and Responsibility* (Volume 1), David Shoemaker (ed.), Oxford: Oxford University Press, pp. 284–314. doi:10.1093/acprof:oso/9780199694853.003.0013
-* Campbell, C. A., 1951, “Is ‘Freewill’ a Pseudo-Problem?”, *Mind*, 60(240): 441–465. doi:10.1093/mind/LX.240.441
+* Bernstein, Mark, 2005, “Can We Ever Be Really, Truly, Ultimately, Free?”, *Midwest Studies in Philosophy*, 29(1): 1–12. doi: 10.1111/j.1475-4975.2005.00102.x
+* Bernstein, Sara, 2015, “The Metaphysics of Omissions: The Metaphysics of Omissions”, *Philosophy Compass*, 10(3): 208–218. doi: 10.1111/phc3.12206
+* Blumenfeld, David, 1971, “The Principle of Alternate Possibilities”, *The Journal of Philosophy*, 68(11): 339–345. doi: 10.2307/2024867
+* Boxer, K. E., 2013, *Rethinking Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199695324.001.0001
+* Brent, Michael, 2017, “Agent Causation as a Solution to the Problem of Action”, *Canadian Journal of Philosophy*, 47(5): 656–673. doi: 10.1080/00455091.2017.1285643
+* Brink, David O. and Dana K. Nelkin, 2013, “Fairness and the Architecture of Responsibility”, in *Oxford Studies in Agency and Responsibility* (Volume 1), David Shoemaker (ed.), Oxford: Oxford University Press, pp. 284–314. doi: 10.1093/acprof: oso/9780199694853.003.0013
+* Campbell, C. A., 1951, “Is ‘Freewill’ a Pseudo-Problem?”, *Mind*, 60(240): 441–465. doi: 10.1093/mind/LX.240.441
 * –––, 1957, “Has the Self ‘Free Will’?”, in his *On Selfhood and Godhood*, London: George Allen and Unwin, pp. 158–179.
 * Campbell, Joseph Keim, 1997, “A Compatibilist Theory of Alternative Possibilities”, *Philosophical Studies*, 88(3): 319–330.
-* –––, 2005, “Compatibilist Alternatives”, *Canadian Journal of Philosophy*, 35(3): 387–406. doi:10.1080/00455091.2005.10716595
-* Capes, Justin A., 2012, “Blameworthiness without Wrongdoing”, *Pacific Philosophical Quarterly*, 93(3): 417–437. doi:10.1111/j.1468-0114.2012.01433.x
-* Capes, Justin A. and Philip Swenson, 2017, “Frankfurt Cases: The Fine-Grained Response Revisited”, *Philosophical Studies*, 174(4): 967–981. doi:10.1007/s11098-016-0726-z
+* –––, 2005, “Compatibilist Alternatives”, *Canadian Journal of Philosophy*, 35(3): 387–406. doi: 10.1080/00455091.2005.10716595
+* Capes, Justin A., 2012, “Blameworthiness without Wrongdoing”, *Pacific Philosophical Quarterly*, 93(3): 417–437. doi: 10.1111/j.1468-0114.2012.01433.x
+* Capes, Justin A. and Philip Swenson, 2017, “Frankfurt Cases: The Fine-Grained Response Revisited”, *Philosophical Studies*, 174(4): 967–981. doi: 10.1007/s11098-016-0726-z
 * Chisholm, Roderick M., 1966, “Freedom and Action”, in *Freedom and Determinism*, Keith Lehrer (ed.), New York: Random House, pp. 11–44.
-* –––, 1967, “He Could Have Done Otherwise”, *The Journal of Philosophy*, 64(13): 409–417. doi:10.2307/2024211
-* Clarke, Randolph, 1993, “Toward A Credible Agent-Causal Account of Free Will”, *Noûs*, 27(2): 191–203. doi:10.2307/2215755
-* –––, 2009, “Dispositions, Abilities to Act, and Free Will: The New Dispositionalism”, *Mind*, 118(470): 323–351. doi:10.1093/mind/fzp034
-* –––, 2012, “What Is an Omission?”, *Philosophical Issues*, 22(1): 127–143. doi:10.1111/j.1533-6077.2012.00221.x
-* –––, 2014, *Omissions: Agency, Metaphysics, and Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199347520.001.0001
-* Coates, D. Justin and Philip Swenson, 2013, “Reasons-Responsiveness and Degrees of Responsibility”, *Philosophical Studies*, 165(2): 629–645. doi:10.1007/s11098-012-9969-5
-* Cohen, Daniel and Toby Handfield, 2007, “Finking Frankfurt”, *Philosophical Studies*, 135(3): 363–374. doi:10.1007/s11098-005-5732-5
-* Copp, David, 1997, “Defending the Principle of Alternate Possibilities: Blameworthiness and Moral Responsibility”, *Noûs*, 31(4): 441–456. doi:10.1111/0029-4624.00055
+* –––, 1967, “He Could Have Done Otherwise”, *The Journal of Philosophy*, 64(13): 409–417. doi: 10.2307/2024211
+* Clarke, Randolph, 1993, “Toward A Credible Agent-Causal Account of Free Will”, *Noûs*, 27(2): 191–203. doi: 10.2307/2215755
+* –––, 2009, “Dispositions, Abilities to Act, and Free Will: The New Dispositionalism”, *Mind*, 118(470): 323–351. doi: 10.1093/mind/fzp034
+* –––, 2012, “What Is an Omission?”, *Philosophical Issues*, 22(1): 127–143. doi: 10.1111/j.1533-6077.2012.00221.x
+* –––, 2014, *Omissions: Agency, Metaphysics, and Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199347520.001.0001
+* Coates, D. Justin and Philip Swenson, 2013, “Reasons-Responsiveness and Degrees of Responsibility”, *Philosophical Studies*, 165(2): 629–645. doi: 10.1007/s11098-012-9969-5
+* Cohen, Daniel and Toby Handfield, 2007, “Finking Frankfurt”, *Philosophical Studies*, 135(3): 363–374. doi: 10.1007/s11098-005-5732-5
+* Copp, David, 1997, “Defending the Principle of Alternate Possibilities: Blameworthiness and Moral Responsibility”, *Noûs*, 31(4): 441–456. doi: 10.1111/0029-4624.00055
 * Davidson, Donald, 1980, *Essays on Actions and Events*, Oxford: Clarendon Press.
-* Della Rocca, Michael, 1998, “Frankfurt, Fischer and Flickers”, *Noûs*, 32(1): 99–105. doi:10.1111/0029-4624.00090
-* Dennett, Daniel C., 1984a, “I Could Not Have Done Otherwise-So What?”, *Journal of Philosophy*, 81(10): 553–565. doi:10.5840/jphil1984811022
+* Della Rocca, Michael, 1998, “Frankfurt, Fischer and Flickers”, *Noûs*, 32(1): 99–105. doi: 10.1111/0029-4624.00090
+* Dennett, Daniel C., 1984a, “I Could Not Have Done Otherwise-So What?”, *Journal of Philosophy*, 81(10): 553–565. doi: 10.5840/jphil1984811022
 * –––, 1984b, *Elbow Room: The Varieties of Free Will Worth Wanting*, Cambridge, MA: MIT Press; new edition 2015.
-* Duckworth, Angela L., Tamar Szabó Gendler, and James J. Gross, 2014, “Self-Control in School-Age Children”, *Educational Psychologist*, 49(3): 199–217. doi:10.1080/00461520.2014.926225
-* Duff, Antony, 2009, “Legal and Moral Responsibility”, *Philosophy Compass*, 4(6): 978–986. doi:10.1111/j.1747-9991.2009.00257.x
+* Duckworth, Angela L., Tamar Szabó Gendler, and James J. Gross, 2014, “Self-Control in School-Age Children”, *Educational Psychologist*, 49(3): 199–217. doi: 10.1080/00461520.2014.926225
+* Duff, Antony, 2009, “Legal and Moral Responsibility”, *Philosophy Compass*, 4(6): 978–986. doi: 10.1111/j.1747-9991.2009.00257.x
 * Ekstrom, Laura W., 2000, *Free Will: A Philosophical Study*, Boulder, CO: Westview Press.
 * –––, 2002, “Libertarianism and Frankfurt-Style Cases”, in *The Oxford Handbook of Free Will*, R. Kane (ed.), Oxford: Oxford University Press, pp. 309–322.
-* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, *Mind*, 117(468): 843–865. doi:10.1093/mind/fzn078
-* Fischer, John Martin, 1982, “Responsibility and Control”, *Journal of Philosophy*, 79(1): 24–40. doi:10.5840/jphil198279159
-* –––, 1985–6, “Responsibility and Failure”, *Proceedings of the Aristotelian Society*, 86(1): 251–272. doi:10.1093/aristotelian/86.1.251
+* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, *Mind*, 117(468): 843–865. doi: 10.1093/mind/fzn078
+* Fischer, John Martin, 1982, “Responsibility and Control”, *Journal of Philosophy*, 79(1): 24–40. doi: 10.5840/jphil198279159
+* –––, 1985–6, “Responsibility and Failure”, *Proceedings of the Aristotelian Society*, 86(1): 251–272. doi: 10.1093/aristotelian/86.1.251
 * ––– (ed.), 1986, *Moral Responsibility*, Ithaca, NY: Cornell University Press.
 * –––, 1994, *The Metaphysics of Free Will*, Oxford: Blackwell.
-* –––, 1999, “Recent Work on Moral Responsibility”, *Ethics*, 110(1): 93–139. doi:10.1086/233206
+* –––, 1999, “Recent Work on Moral Responsibility”, *Ethics*, 110(1): 93–139. doi: 10.1086/233206
 * –––, 2006, *My Way: Essays on Moral Responsibility*, Oxford: Oxford University Press.
-* –––, 2008, “Freedom, Foreknowledge, and Frankfurt: A Reply to Vihvelin”, *Canadian Journal of Philosophy*, 38(3): 327–342. doi:10.1353/cjp.0.0021
-* –––, 2010, “The Frankfurt Cases: The Moral of the Stories”, *Philosophical Review*, 119(3): 315–336. doi:10.1215/00318108-2010-002
+* –––, 2008, “Freedom, Foreknowledge, and Frankfurt: A Reply to Vihvelin”, *Canadian Journal of Philosophy*, 38(3): 327–342. doi: 10.1353/cjp.0.0021
+* –––, 2010, “The Frankfurt Cases: The Moral of the Stories”, *Philosophical Review*, 119(3): 315–336. doi: 10.1215/00318108-2010-002
 * –––, 2011, “Frankfurt-Type Examples and SemiCompatibilism: New Work”, in *The Oxford Handbook of Free Will*, second edition, R. Kane (ed.), Oxford: Oxford University Press, pp. 243–265.
-* –––, 2013, “The Deterministic Horn of the Dilemma Defence: A Reply to Widerker and Goetz”, *Analysis*, 73(3): 489–496. doi:10.1093/analys/ant036
+* –––, 2013, “The Deterministic Horn of the Dilemma Defence: A Reply to Widerker and Goetz”, *Analysis*, 73(3): 489–496. doi: 10.1093/analys/ant036
 * –––, 2017, “Responsibility and Omissions”, in *The Ethics and Law of Omissions*, Dana Kay Nelkin, and Samuel C. Rickless (eds.), Oxford: Oxford University Press, pp. 148–61.
 * –––, 2018, “The Freedom Required for Moral Responsibility”, in *Virtue, Happiness, Knowledge: Themes from the Work of Gail Fine and Terence Irwin*, David O. Brink, Susan Sauvé Meyer, and Christopher Shields (eds.), Oxford: Oxford University Press, pp. 216–33.
 * Fischer, John Martin and Mark Ravizza (eds.), 1986, *Moral Responsibility*, Ithaca, NY: Cornell University Press.
-* –––, 1991, “Responsibility and Inevitability”, *Ethics*, 101(2): 258–278. doi:10.1086/293288
+* –––, 1991, “Responsibility and Inevitability”, *Ethics*, 101(2): 258–278. doi: 10.1086/293288
 * ––– (eds.), 1993, *Perspectives on Moral Responsibility*, Ithaca, NY: Cornell University Press.
-* –––, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511814594
-* Fischer, John Martin and Neal A. Tognazzini, 2009, “The Truth about Tracing”, *Noûs*, 43(3): 531–556. doi:10.1111/j.1468-0068.2009.00717.x
-* Frankfurt, Harry G., 1969, “Alternate Possibilities and Moral Responsibility”, *The Journal of Philosophy*, 66(23): 829–839. Reprinted in Fischer 1986, pp. 143–52; in Frankfurt 1988, pp. 1–10; and in Widerker and McKenna 2003, pp. 17–25. doi:10.2307/2023833
-* –––, 1971, “Freedom of the Will and the Concept of a Person”, *The Journal of Philosophy*, 68(1): 5–20. Reprinted in Frankfurt 1988, pp. 11–25 and in Fischer and Ravizza 1986, pp. 65–80. doi:10.2307/2024717
-* –––, 1982, “The Importance of What We Care About”, *Synthese*, 53(2): 257–272. reprinted in Frankfurt 1988, pp. 80–94. doi:10.1007/BF00484902
+* –––, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511814594
+* Fischer, John Martin and Neal A. Tognazzini, 2009, “The Truth about Tracing”, *Noûs*, 43(3): 531–556. doi: 10.1111/j.1468-0068.2009.00717.x
+* Frankfurt, Harry G., 1969, “Alternate Possibilities and Moral Responsibility”, *The Journal of Philosophy*, 66(23): 829–839. Reprinted in Fischer 1986, pp. 143–52; in Frankfurt 1988, pp. 1–10; and in Widerker and McKenna 2003, pp. 17–25. doi: 10.2307/2023833
+* –––, 1971, “Freedom of the Will and the Concept of a Person”, *The Journal of Philosophy*, 68(1): 5–20. Reprinted in Frankfurt 1988, pp. 11–25 and in Fischer and Ravizza 1986, pp. 65–80. doi: 10.2307/2024717
+* –––, 1982, “The Importance of What We Care About”, *Synthese*, 53(2): 257–272. reprinted in Frankfurt 1988, pp. 80–94. doi: 10.1007/BF00484902
 * –––, 1983, “What We Are Morally Responsible For”, in L.S. Cauman et al. (eds.), *How Many Questions? Essays in Honor of Sidney Morgenbesser*, Indianapolis, IN: Hackett Publishing Company, pp. 321–335. Reprinted in Frankfurt 1988, pp. 95–103 and in Fischer and Ravizza 1993, pp. 286–295.
-* –––, 1988, *The Importance of What We Care About: Philosophical Essays*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511818172
-* –––, 1994, “An Alleged Asymmetry Between Actions and Omissions”, *Ethics*, 104(3): 620–623. doi:10.1086/293633
+* –––, 1988, *The Importance of What We Care About: Philosophical Essays*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511818172
+* –––, 1994, “An Alleged Asymmetry Between Actions and Omissions”, *Ethics*, 104(3): 620–623. doi: 10.1086/293633
 * –––, 2003, “Some Thoughts Concerning PAP”, in Widerker and McKenna 2003, pp. 339–45.
-* Ginet, Carl, 1990, *On Action*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173780
-* –––, 1996, “In Defense of the Principle of Alternative Possibilities: Why I Don’t Find Frankfurt’s Argument Convincing”, *Philosophical Perspectives*, 10: 403–417. reprinted (with a 2001 addendum) in Widerker and McKenna 2003, pp. 75–90. doi:10.2307/2216254
-* –––, 2002, “*Living without Free Will* by Derk Pereboom”, *The Journal of Ethics*, 6(3): 305–309. doi:10.1023/A:1019569214450
+* Ginet, Carl, 1990, *On Action*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139173780
+* –––, 1996, “In Defense of the Principle of Alternative Possibilities: Why I Don’t Find Frankfurt’s Argument Convincing”, *Philosophical Perspectives*, 10: 403–417. reprinted (with a 2001 addendum) in Widerker and McKenna 2003, pp. 75–90. doi: 10.2307/2216254
+* –––, 2002, “*Living without Free Will* by Derk Pereboom”, *The Journal of Ethics*, 6(3): 305–309. doi: 10.1023/A: 1019569214450
 * –––, 2003, “Libertarianism”, in *The Oxford Handbook of Metaphysics*, M. J. Loux and D. W. Zimmerman (eds.), Oxford: Oxford University Press, pp. 587–612.
-* Glannon, Walter, 1995, “Responsibility and the Principle of Possible Action”, *Journal of Philosophy*, 92(5): 261–274. doi:10.2307/2940918
-* Glatz, Richard M., 2008, “The (near) Necessity of Alternate Possibilities for Moral Responsibility”, *Philosophical Studies*, 139(2): 257–272. doi:10.1007/s11098-007-9116-x
+* Glannon, Walter, 1995, “Responsibility and the Principle of Possible Action”, *Journal of Philosophy*, 92(5): 261–274. doi: 10.2307/2940918
+* Glatz, Richard M., 2008, “The (near) Necessity of Alternate Possibilities for Moral Responsibility”, *Philosophical Studies*, 139(2): 257–272. doi: 10.1007/s11098-007-9116-x
 * Glover, Jonathan, 1970, *Responsibility*, London: Routledge & Kegan Paul.
-* Goetz, Stewart, 1999, “Stumping For Widerker”, *Faith and Philosophy*, 16(1): 83–89. doi:10.5840/faithphil19991619
-* –––, 2002, “Alternative Frankfurt-Style Counterexamples to the Principle of Alternative Possibilities”, *Pacific Philosophical Quarterly*, 83(2): 131–147. doi:10.1111/1468-0114.00139
-* –––, 2005, “Frankfurt-Style Counterexamples and Begging the Question”, *Midwest Studies in Philosophy*, 29(1): 83–105. doi:10.1111/j.1475-4975.2005.00107.x
+* Goetz, Stewart, 1999, “Stumping For Widerker”, *Faith and Philosophy*, 16(1): 83–89. doi: 10.5840/faithphil19991619
+* –––, 2002, “Alternative Frankfurt-Style Counterexamples to the Principle of Alternative Possibilities”, *Pacific Philosophical Quarterly*, 83(2): 131–147. doi: 10.1111/1468-0114.00139
+* –––, 2005, “Frankfurt-Style Counterexamples and Begging the Question”, *Midwest Studies in Philosophy*, 29(1): 83–105. doi: 10.1111/j.1475-4975.2005.00107.x
 * Goldman, Alvin I., 1970, *A Theory of Human Action*, Englewood Cliffs, NJ: Prentice Hall.
 * Graham, George, 2013, *The Disordered Mind: An Introduction to Philosophy of Mind and Mental Illness*, second edition, London: Routledge; first edition, 2010.
 * Griffith, Meghan, 2013, *Free Will: the Basics*, London: Routledge.
-* Haji, Ishtiyaque, 2019, “A Paradox Concerning Frankfurt Examples”, *Synthese*, 196(1): 87–103. doi:10.1007/s11229-016-1025-0
-* Haji, Ishtiyaque and Michael McKenna, 2004, “Dialectical Delicacies in the Debate About Freedom and Alternative Possibilities”, *Journal of Philosophy*, 101(6): 299–314. doi:10.5840/jphil2004101616
-* Hankinson, R. J., 2014, “Efficient Causation in the Stoic Tradition”, in *Efficient Causation: a History*, Tad M. Schmaltz (ed.), Oxford: Oxford University Press, pp. 54–82. doi:10.1093/acprof:oso/9780199782185.003.0004
-* Hawthorne, John, 2001, “Freedom in Context”, *Philosophical Studies*, 104(1): 63–79. doi:10.1023/A:1010398805497
-* Heinaman, Robert, 1986, “Incompatibilism without the Principle of Alternative Possibilities”, *Australasian Journal of Philosophy*, 64(3): 266–276. doi:10.1080/00048408612342481
-* Horgan, Terence, 1979, “‘Could’, Possible Worlds, and Moral Responsibility”, *The Southern Journal of Philosophy*, 17(3): 345–358. doi:10.1111/j.2041-6962.1979.tb00250.x
+* Haji, Ishtiyaque, 2019, “A Paradox Concerning Frankfurt Examples”, *Synthese*, 196(1): 87–103. doi: 10.1007/s11229-016-1025-0
+* Haji, Ishtiyaque and Michael McKenna, 2004, “Dialectical Delicacies in the Debate About Freedom and Alternative Possibilities”, *Journal of Philosophy*, 101(6): 299–314. doi: 10.5840/jphil2004101616
+* Hankinson, R. J., 2014, “Efficient Causation in the Stoic Tradition”, in *Efficient Causation: a History*, Tad M. Schmaltz (ed.), Oxford: Oxford University Press, pp. 54–82. doi: 10.1093/acprof: oso/9780199782185.003.0004
+* Hawthorne, John, 2001, “Freedom in Context”, *Philosophical Studies*, 104(1): 63–79. doi: 10.1023/A: 1010398805497
+* Heinaman, Robert, 1986, “Incompatibilism without the Principle of Alternative Possibilities”, *Australasian Journal of Philosophy*, 64(3): 266–276. doi: 10.1080/00048408612342481
+* Horgan, Terence, 1979, “‘Could’, Possible Worlds, and Moral Responsibility”, *The Southern Journal of Philosophy*, 17(3): 345–358. doi: 10.1111/j.2041-6962.1979.tb00250.x
 * Horgan, Terence, John Tienson, and Geroge Graham, 2003, “The Phenomenology of First-Person Agency”, in S. Walter and H. Heckmann (eds.), *Physicalism and Mental Causation: The Metaphysics of Mind and Action*, Exeter: Imprint Academic, pp. 323–40.
 * Hume, David, 1748 [1999], *An Enquiry Concerning Human Understanding*, T. L. Beauchamp (ed.), Oxford: Oxford University Press.
-* Hunt, David P., 1996, “Frankfurt Counterexamples: Some Comments on the Widerker-Fischer Debate”, *Faith and Philosophy*, 13(3): 395–401. doi:10.5840/faithphil199613331
-* –––, 1999, “On Augustine’s Way Out:”, *Faith and Philosophy*, 16(1): 3–26. doi:10.5840/faithphil19991612
-* –––, 2000, “Moral Responsibility and Unavoidable Action”, *Philosophical Studies*, 97(2): 195–227. doi:10.1023/A:1018331202006
-* –––, 2003, “Freedom, Foreknowledge and Frankfurt”, in Widerker and McKenna 2003,pp. 159–183.
-* –––, 2005, “Moral Responsibility and Buffered Alternatives”, *Midwest Studies in Philosophy*, 29(1): 126–145. doi:10.1111/j.1475-4975.2005.00109.x
+* Hunt, David P., 1996, “Frankfurt Counterexamples: Some Comments on the Widerker-Fischer Debate”, *Faith and Philosophy*, 13(3): 395–401. doi: 10.5840/faithphil199613331
+* –––, 1999, “On Augustine’s Way Out:”, *Faith and Philosophy*, 16(1): 3–26. doi: 10.5840/faithphil19991612
+* –––, 2000, “Moral Responsibility and Unavoidable Action”, *Philosophical Studies*, 97(2): 195–227. doi: 10.1023/A: 1018331202006
+* –––, 2003, “Freedom, Foreknowledge and Frankfurt”, in Widerker and McKenna 2003, pp. 159–183.
+* –––, 2005, “Moral Responsibility and Buffered Alternatives”, *Midwest Studies in Philosophy*, 29(1): 126–145. doi: 10.1111/j.1475-4975.2005.00109.x
 * Inwood, Brad and L. P. Gerson (trans.), 1988, *Hellenistic Philosophy: Introductory Readings*, Indianapolis: Hackett Publishing Company.
 * Irwin, Terence (ed.), 1999, *Classical Philosophy*, Oxford: Oxford University Press.
 * Kane, Robert, 1985, *Free Will and Values*, Albany, NY: State University of New York Press.
-* –––, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi:10.1093/0195126564.001.0001
-* –––, 2002, “Responsibility, Reactive Attitudes and Free Will: Reflections on Wallace’s Theory”, *Philosophy and Phenomenological Research*, 64(3): 693–698. doi:10.1111/j.1933-1592.2002.tb00175.x
+* –––, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi: 10.1093/0195126564.001.0001
+* –––, 2002, “Responsibility, Reactive Attitudes and Free Will: Reflections on Wallace’s Theory”, *Philosophy and Phenomenological Research*, 64(3): 693–698. doi: 10.1111/j.1933-1592.2002.tb00175.x
 * –––, 2003, “Responsibility, Indeterminism and Frankfurt-Style Cases: A Reply to Mele and Robb”, in Widerker and McKenna 2003, pp. 91–105.
 * –––, 2007, “Response to Fischer, Pereboom, and Vargas”, in R. Fischer, J. M., R. Kane, D. Pereboom, and M. Vargas, *Four Views on Free Will*, Oxford: Blackwell Publishing, pp. 166–183.
 * Kant, Immanuel, 1785, *Foundations of the Metaphysics of Morals*, L. White Beck (trans), New York: McMillan Publishing Company, 2nd edition, 1985.
 * Kelly, Erin, 2017, “Free Will and Criminal Law”, in Timpe et al. 2017, pp. 577–589.
 * Klein, Martha, 1990, *Determinism, Blameworthiness and Deprivation*, Oxford: Clarendon Press.
-* Krug, Kristine, C. Daniel Salzman, and Scott Waddell, 2015, “Understanding the Brain by Controlling Neural Activity”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1677): 20140201. doi:10.1098/rstb.2014.0201
+* Krug, Kristine, C. Daniel Salzman, and Scott Waddell, 2015, “Understanding the Brain by Controlling Neural Activity”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1677): 20140201. doi: 10.1098/rstb.2014.0201
 * Lamb, James W., 1993, “Evaluative Compatibilism and the Principle of Alternate Possibilities”, *Journal of Philosophy*, 90(10): 517–527.
-* Levy, Neil, 2006, “Autonomy and Addiction”, *Canadian Journal of Philosophy*, 36(3): 427–447. doi:10.1353/cjp.2006.0018
+* Levy, Neil, 2006, “Autonomy and Addiction”, *Canadian Journal of Philosophy*, 36(3): 427–447. doi: 10.1353/cjp.2006.0018
 * Lewis, David, 1976, “The Paradoxes of Time Travel”, *American Philosophical Quarterly*, 13(2): 145–152.
-* Locke, Don, 1974, “Natural Powers and Human Abilities”, *Proceedings of the Aristotelian Society*, 74(1): 171–187. doi:10.1093/aristotelian/74.1.171
+* Locke, Don, 1974, “Natural Powers and Human Abilities”, *Proceedings of the Aristotelian Society*, 74(1): 171–187. doi: 10.1093/aristotelian/74.1.171
 * Locke, John, 1689 [1996], *An Essay Concerning Human Understanding*, in K. P. Winkler (ed.), *An Essay Concerning Human Understanding*, Indianapolis: Hackett Publishing Company, 1996.
 * Lowe, E. J., 1995, *Routledge Philosophy Guidebook to Locke on Human Understanding*, London: Routledge.
-* McIntyre, Alison, 1994, “Compatibilists Could Have Done Otherwise: Responsibility and Negative Agency”, *Philosophical Review*, 103(3): 453–488. doi:10.2307/2185789
-* McKenna, Michael S., 1998, “Does Strong Compatibilism Survive Frankfurt Counter-Examples?”, *Philosophical Studies*, 91(3): 259–264. doi:10.1023/A:1004232828687
+* McIntyre, Alison, 1994, “Compatibilists Could Have Done Otherwise: Responsibility and Negative Agency”, *Philosophical Review*, 103(3): 453–488. doi: 10.2307/2185789
+* McKenna, Michael S., 1998, “Does Strong Compatibilism Survive Frankfurt Counter-Examples?”, *Philosophical Studies*, 91(3): 259–264. doi: 10.1023/A: 1004232828687
 * –––, 2003, “Robustness, Control, and the Demand for Morally Significant Alternatives: Frankfurt Examples with Oodles and Oodles of Alternatives”, in Widerker and McKenna 2003, pp. 201–217.
-* –––, 2008, “Saying Good-Bye to the Direct Argument the Right Way”, *Philosophical Review*, 117(3): 349–383. doi:10.1215/00318108-2008-002
-* McKenna, Michael S. and Brandon Warmke, 2017, “Does Situationism Threaten Free Will and Moral Responsibility?”, *Journal of Moral Philosophy*, 14(6): 698–733. doi:10.1163/17455243-46810068
-* Markosian, Ned, 2012, “Agent Causation as the Solution to All the Compatibilist’s Problems”, *Philosophical Studies*, 157(3): 383–398. doi:10.1007/s11098-010-9654-5
+* –––, 2008, “Saying Good-Bye to the Direct Argument the Right Way”, *Philosophical Review*, 117(3): 349–383. doi: 10.1215/00318108-2008-002
+* McKenna, Michael S. and Brandon Warmke, 2017, “Does Situationism Threaten Free Will and Moral Responsibility?”, *Journal of Moral Philosophy*, 14(6): 698–733. doi: 10.1163/17455243-46810068
+* Markosian, Ned, 2012, “Agent Causation as the Solution to All the Compatibilist’s Problems”, *Philosophical Studies*, 157(3): 383–398. doi: 10.1007/s11098-010-9654-5
 * Martinich, A. P., 2005, *Hobbes: A Biography*, London: Routledge.
-* Mele, Alfred R., 1995, *Autonomous Agents*, Oxford: Oxford University Press. doi:10.1093/0195150430.001.0001
-* –––, 1996, “Soft Libertarianism and Frankfurt-Style Scenarios”, *Philosophical Topics*, 24(2): 123–141. doi:10.5840/philtopics199624220
-* –––, 1999, “Ultimate Responsibility and Dumb Luck”, *Social Philosophy and Policy*, 16(2): 274–293. doi:10.1017/S0265052500002478
-* –––, 2003, “Agents’ Abilities”, *Noûs*, 37(3): 447–470. doi:10.1111/1468-0068.00446
-* –––, 2010, “Moral Responsibility for Actions: Epistemic and Freedom Conditions”, *Philosophical Explorations*, 13(2): 101–111. doi:10.1080/13869790903494556
-* Mele, Alfred R. and David Robb, 1998, “Rescuing Frankfurt-Style Cases”, *Philosophical Review*, 107(1): 97–112. doi:10.2307/2998316
+* Mele, Alfred R., 1995, *Autonomous Agents*, Oxford: Oxford University Press. doi: 10.1093/0195150430.001.0001
+* –––, 1996, “Soft Libertarianism and Frankfurt-Style Scenarios”, *Philosophical Topics*, 24(2): 123–141. doi: 10.5840/philtopics199624220
+* –––, 1999, “Ultimate Responsibility and Dumb Luck”, *Social Philosophy and Policy*, 16(2): 274–293. doi: 10.1017/S0265052500002478
+* –––, 2003, “Agents’ Abilities”, *Noûs*, 37(3): 447–470. doi: 10.1111/1468-0068.00446
+* –––, 2010, “Moral Responsibility for Actions: Epistemic and Freedom Conditions”, *Philosophical Explorations*, 13(2): 101–111. doi: 10.1080/13869790903494556
+* Mele, Alfred R. and David Robb, 1998, “Rescuing Frankfurt-Style Cases”, *Philosophical Review*, 107(1): 97–112. doi: 10.2307/2998316
 * Morse, Stephen J., 2011, “Addiction and Criminal Responsibility”, in J. Poland and G. Graham (eds.), *Addiction and Responsibility*, Cambridge, MA: MIT Press, pp. 159–99.
-* –––, 2013, “Common Criminal Law Compatibilism”, in Nicole A. Vincent (ed.), *Neuroscience and Legal Responsibility*, Oxford: Oxford University Press, pp. 27–52. doi:10.1093/acprof:oso/9780199925605.003.0002
+* –––, 2013, “Common Criminal Law Compatibilism”, in Nicole A. Vincent (ed.), *Neuroscience and Legal Responsibility*, Oxford: Oxford University Press, pp. 27–52. doi: 10.1093/acprof: oso/9780199925605.003.0002
 * Nagel, Thomas, 1986, *The View from Nowhere*, Oxford: Oxford University Press.
-* Naylor, Margery Bedford, 1984, “Frankfurt on the Principle of Alternate Possibilities”, *Philosophical Studies*, 46(2): 249–258. doi:10.1007/BF00373108
-* Nelkin, Dana Kay, 2005, “Freedom, Responsibility and the Challenge of Situationism”, *Midwest Studies in Philosophy*, 29(1): 181–206. doi:10.1111/j.1475-4975.2005.00112.x
-* –––, 2011, *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608560.001.0001
-* –––, 2016, “Difficulty and Degrees of Moral Praiseworthiness and Blameworthiness: Difficulty and Degrees of Moral Praiseworthiness and Blameworthiness”, *Noûs*, 50(2): 356–378. doi:10.1111/nous.12079
-* Nichols, Shaun, 2015, *Bound: Essays on Free Will and Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199291847.001.0001
-* O’Connor, Timothy, 2000, *Persons and Causes: The Metaphysics of Free Will*, Oxford: Oxford University Press. doi:10.1093/019515374X.001.0001
-* –––, 2005, “Freedom with a Human Face”, *Midwest Studies in Philosophy*, 29(1): 207–227. doi:10.1111/j.1475-4975.2005.00113.x
-* Otsuka, Michael, 1998, “Incompatibilism and the Avoidability of Blame”, *Ethics*, 108(4): 685–701. doi:10.1086/233847
-* Palmer, David, 2014, “Deterministic Frankfurt Cases”, *Synthese*, 191(16): 3847–3864. doi:10.1007/s11229-014-0500-8
-* Pasnau, Robert, 2003, “Human Nature”, in *The Cambridge Companion to Medieval Philosophy*, A. S. McGrade (ed.), Cambridge: Cambridge University Press, pp. 208–230. doi:10.1017/CCOL0521806038.010
-* Pereboom, Derk, 1995, “Determinism al Dente”, *Noûs*, 29(1): 21–45. doi:10.2307/2215725
-* –––, 2001, *Living without Free Will*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498824
+* Naylor, Margery Bedford, 1984, “Frankfurt on the Principle of Alternate Possibilities”, *Philosophical Studies*, 46(2): 249–258. doi: 10.1007/BF00373108
+* Nelkin, Dana Kay, 2005, “Freedom, Responsibility and the Challenge of Situationism”, *Midwest Studies in Philosophy*, 29(1): 181–206. doi: 10.1111/j.1475-4975.2005.00112.x
+* –––, 2011, *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199608560.001.0001
+* –––, 2016, “Difficulty and Degrees of Moral Praiseworthiness and Blameworthiness: Difficulty and Degrees of Moral Praiseworthiness and Blameworthiness”, *Noûs*, 50(2): 356–378. doi: 10.1111/nous.12079
+* Nichols, Shaun, 2015, *Bound: Essays on Free Will and Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199291847.001.0001
+* O’Connor, Timothy, 2000, *Persons and Causes: The Metaphysics of Free Will*, Oxford: Oxford University Press. doi: 10.1093/019515374X.001.0001
+* –––, 2005, “Freedom with a Human Face”, *Midwest Studies in Philosophy*, 29(1): 207–227. doi: 10.1111/j.1475-4975.2005.00113.x
+* Otsuka, Michael, 1998, “Incompatibilism and the Avoidability of Blame”, *Ethics*, 108(4): 685–701. doi: 10.1086/233847
+* Palmer, David, 2014, “Deterministic Frankfurt Cases”, *Synthese*, 191(16): 3847–3864. doi: 10.1007/s11229-014-0500-8
+* Pasnau, Robert, 2003, “Human Nature”, in *The Cambridge Companion to Medieval Philosophy*, A. S. McGrade (ed.), Cambridge: Cambridge University Press, pp. 208–230. doi: 10.1017/CCOL0521806038.010
+* Pereboom, Derk, 1995, “Determinism al Dente”, *Noûs*, 29(1): 21–45. doi: 10.2307/2215725
+* –––, 2001, *Living without Free Will*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498824
 * Perry, John, 2010, “Wretched Subterfuge: A Defense of the Compatibilism of Freedom and Natural Causation”, *Proceedings and Addresses of the American Philosophical Association*, 84(2): 93–113.
-* Pickard, Hanna, 2015, “Psychopathology and the Ability to Do Otherwise”, *Philosophy and Phenomenological Research*, 90(1): 135–163. doi:10.1111/phpr.12025
+* Pickard, Hanna, 2015, “Psychopathology and the Ability to Do Otherwise”, *Philosophy and Phenomenological Research*, 90(1): 135–163. doi: 10.1111/phpr.12025
 * Reid, Thomas, 1788, *Essays on the Active Powers of Man*, in K. Haakonssen and J. A. Harris (eds.), *Essays on the Active Powers of Man*, University Park, PA: Pennsylvania State University Press, 2010.
-* Robinson, Michael, 2014, “The Limits of Limited-Blockage Frankfurt-Style Cases”, *Philosophical Studies*, 169(3): 429–446. doi:10.1007/s11098-013-0190-y
+* Robinson, Michael, 2014, “The Limits of Limited-Blockage Frankfurt-Style Cases”, *Philosophical Studies*, 169(3): 429–446. doi: 10.1007/s11098-013-0190-y
 * Rowe, William L., 1987, “Two Concepts of Freedom”, *Proceedings and Addresses of the American Philosophical Association*, 61(1): 43–64.
 * –––, 1989, “Causing and Being Responsible for What Is Inevitable”, *American Philosophical Quarterly*, 26(2): 153–159; reprinted in Fischer and Ravizza 1993, pp. 310–321.
-* –––, 2006, “Free Will, Moral Responsibility, and the Problem of ‘OOMPH’”, *The Journal of Ethics*, 10(3): 295–313. doi:10.1007/s10892-005-5779-8
-* Sartorio, Carolina, 2005, “A New Asymmetry Between Actions And Omissions*”, *Noûs*, 39(3): 460–482. doi:10.1111/j.0029-4624.2005.00509.x
-* –––, 2012, “Causation and Freedom”, *Journal of Philosophy*, 109(11): 629–651. doi:10.5840/jphil20121091137
+* –––, 2006, “Free Will, Moral Responsibility, and the Problem of ‘OOMPH’”, *The Journal of Ethics*, 10(3): 295–313. doi: 10.1007/s10892-005-5779-8
+* Sartorio, Carolina, 2005, “A New Asymmetry Between Actions And Omissions *”, * Noûs*, 39(3): 460–482. doi: 10.1111/j.0029-4624.2005.00509.x
+* –––, 2012, “Causation and Freedom”, * Journal of Philosophy*, 109(11): 629–651. doi: 10.5840/jphil20121091137
 * –––, 2017, “Frankfurt-Style Examples”, in Timpe et al. 2017, pp. 179–190.
-* Sauvé Meyer, Susan, 1999, “Fate, Fatalism, and Agency in Stoicism”, *Social Philosophy and Policy*, 16(2): 250–273. doi:10.1017/S0265052500002466
-* Schroeder, Timothy, 2005, “Moral Responsibility and Tourette Syndrome”, *Philosophy and Phenomenological Research*, 71(1): 106–123. doi:10.1111/j.1933-1592.2005.tb00432.x
-* Shabo, Seth, 2011, “Agency without Avoidability: Defusing a New Threat to Frankfurt’s Counterexample Strategy”, *Canadian Journal of Philosophy*, 41(4): 505–522. doi:10.1353/cjp.2011.0042
-* –––, 2015, “More Trouble with Tracing”, *Erkenntnis*, 80(5): 987–1011. doi:10.1007/s10670-014-9693-y
-* Sinnott-Armstrong, Walter, 2012, “A Case Study In Neuroscience and Responsibility”, *Nomos*, 52(1): 194–211.
-* Smith, Michael, 2003, “Rational Capacities, or: How to Distinguish Recklessness, Weakness, and Compulsion”, in *Weakness of Will and Practical Irrationality*, Sarah Stroud and Christine Tappolet (eds.), Oxford: Oxford University Press, pp. 17–38. doi:10.1093/0199257361.003.0002
-* Sommers, Tamler, 2010, “Experimental Philosophy and Free Will”, *Philosophy Compass*, 5(2): 199–212. doi:10.1111/j.1747-9991.2009.00273.x
-* Sorabji, Richard, 1980, *Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, Ithaca, NY: Cornell University Press.
-* Speak, Daniel, 2002, “Fanning the Flickers of Freedom”, *American Philosophical Quarterly*, 39(1): 91–105.
-* –––, 2005, “PAPistry: Another Defense”, *Midwest Studies in Philosophy*, 29(1): 262–268. doi:10.1111/j.1475-4975.2005.00116.x
-* –––, 2007, “The Impertinence of Frankfurt-Style Argument”, *The Philosophical Quarterly*, 57(226): 76–95. doi:10.1111/j.1467-9213.2007.470.x
-* Steward, Helen, 2009, “Fairness, Agency and the Flicker of Freedom”, *Noûs*, 43(1): 64–93. doi:10.1111/j.1468-0068.2008.01696.x
-* –––, 2012a, “The Metaphysical Presuppositions of Moral Responsibility”, *The Journal of Ethics*, 16(2): 241–271. doi:10.1007/s10892-012-9127-5
-* –––, 2012b, *A Metaphysics for Freedom*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552054.001.0001
-* Strawson, Galen, 1994, “The Impossibility of Moral Responsibility”, *Philosophical Studies*, 75(1–2): 5–24. doi:10.1007/BF00989879
-* Strawson, Peter Frederick, 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25. Reprinted in his *Freedom and Resentment and Other Essays*, London: Routledge, 2008, pp. 1–28; and in Fischer and Ravizza 1993, pp. 45–66.
-* Stump, Eleonore, 1990, “Intellect, Will, and the Principle of Alternative Possibilities”, in M. D. Beaty (ed.), *Christian Theism and the Problems of Philosophy*, Notre Dame, IN: University of Notre Dame Press, pp. 254–85; Reprinted in Fischer and Ravizza 1993, pp. 237–262.
-* –––, 1996, “Libertarian Freedom and the Principle of Alternative Possibilities”, in J. Jordan and D. Howard-Snyder (eds.), *Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman and Littlefield, pp. 73–88.
-* –––, 1997, “Aquinas’s Account of Freedom: Intellect and Will”, *Monist*, 80(4): 576–597. doi:10.5840/monist199780429
-* –––, 1999, “Dust, Determinism, and Frankfurt: A Reply to Goetz”, *Faith and Philosophy*, 16(3): 413–422. doi:10.5840/faithphil199916337
-* –––, 2000, “The Direct Argument for Incompatibilism”, *Philosophy and Phenomenological Research*, 61(2): 459–466. doi:10.2307/2653663
-* Swenson, Philip, 2016, “The Frankfurt Cases and Responsibility for Omissions”, *The Philosophical Quarterly*, 66(264): 579–595. doi:10.1093/pq/pqv127
-* Taylor, Richard, 1966, *Action and Purpose*, Englewood Cliffs, NJ: Prentice-Hall.
-* Timpe, Kevin, 2013, *Free Will: Sourcehood and Its Alternatives*, second edition, London: Bloomsbury Academic.
-* Timpe, Kevin, Meghan Griffith, and Neil Levy (eds.), 2017, *The Routledge Companion to Free Will*, London: Routledge.
-* Unger, Peter, 1984, *Philosophical Relativity*, Minneapolis: University of Minnesota Press; reprinted Oxford: Oxford University Press, 2002.
-* Vargas, Manuel, 2005, “The Trouble with Tracing”, *Midwest Studies in Philosophy*, 29(1): 269–291. doi:10.1111/j.1475-4975.2005.00117.x
-* van Inwagen, Peter, 1978, “Ability and Responsibility”, *Philosophical Review*, 87(2): 201–224. Reprinted in Fischer 1986, pp. 153–173; and in van Inwagen 1983, pp. 162–182. doi:10.2307/2184752
-* –––, 1980, “The Incompatibility of Responsibility and Determinism”, in M. Bradie and M. Brand (eds.), *Bowling Green Studies in Applied Philosophy*, vol. 2, Bowling Green, OH: Bowling Green State University, pp.30–36; reprinted in Fischer and Ravizza 1986, pp. 241–249.
-* –––, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
-* Vihvelin, Kadri, 2000, “Freedom, Foreknowledge, and the Principle of Alternate Possibilities”, *Canadian Journal of Philosophy*, 30(1): 1–23. doi:10.1080/00455091.2000.10717523
-* –––, 2004, “Free Will Demystified: A Dispositional Account”, *Philosophical Topics*, 32(1): 427–450. doi:10.5840/philtopics2004321/211
-* –––, 2008, “Foreknowledge, Frankfurt, and Ability to Do Otherwise: A Reply to Fischer”, *Canadian Journal of Philosophy*, 38(3): 343–371. doi:10.1353/cjp.0.0022
-* Vranas, Peter B. M., 2007, “I Ought, Therefore I Can”, *Philosophical Studies*, 136(2): 167–216. doi:10.1007/s11098-007-9071-6
-* Wallace, R. Jay, 1994, *Responsibility and the Moral Sentiments*, Cambridge, MA: Harvard University Press.
-* Warfield, Ted A., 2007, “Metaphysical Compatibilism’s Appropriation of Frankfurt”, in *Oxford Studies in Metaphysics* (Volume 3), Dean Zimmerman (ed.), pp. 283–295.
-* Watson, Gary, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248. doi:10.5840/philtopics199624222
-* Whittle, Ann, 2010, “Dispositional Abilities”, *Philosopher’s Imprint*, 10(12): 23 pages. [[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
-* –––, 2016, “Ceteris Paribus, I Could Have Done Otherwise”, *Philosophy and Phenomenological Research*, 92(1): 73–85. doi:10.1111/phpr.12111
-* Widerker, David, 1991, “Frankfurt on ‘Ought Implies Can’ and Alternative Possibilities”, *Analysis*, 51(4): 222–224. doi:10.1093/analys/51.4.222
-* –––, 1995, “Libertarianism and Frankfurt’s Attack on the Principle of Alternative Possibilities”, *Philosophical Review*, 104(2): 247–261. doi:10.2307/2185979
-* –––, 2000, “Theological Fatalism and Frankfurt Counterexamples to the Principle of Alternative Possibilities”, *Faith and Philosophy*, 17(2): 249–254. doi:10.5840/faithphil200017213
+* Sauvé Meyer, Susan, 1999, “Fate, Fatalism, and Agency in Stoicism”, * Social Philosophy and Policy*, 16(2): 250–273. doi: 10.1017/S0265052500002466
+* Schroeder, Timothy, 2005, “Moral Responsibility and Tourette Syndrome”, * Philosophy and Phenomenological Research*, 71(1): 106–123. doi: 10.1111/j.1933-1592.2005.tb00432.x
+* Shabo, Seth, 2011, “Agency without Avoidability: Defusing a New Threat to Frankfurt’s Counterexample Strategy”, * Canadian Journal of Philosophy*, 41(4): 505–522. doi: 10.1353/cjp.2011.0042
+* –––, 2015, “More Trouble with Tracing”, * Erkenntnis*, 80(5): 987–1011. doi: 10.1007/s10670-014-9693-y
+* Sinnott-Armstrong, Walter, 2012, “A Case Study In Neuroscience and Responsibility”, * Nomos*, 52(1): 194–211.
+* Smith, Michael, 2003, “Rational Capacities, or: How to Distinguish Recklessness, Weakness, and Compulsion”, in * Weakness of Will and Practical Irrationality*, Sarah Stroud and Christine Tappolet (eds.), Oxford: Oxford University Press, pp. 17–38. doi: 10.1093/0199257361.003.0002
+* Sommers, Tamler, 2010, “Experimental Philosophy and Free Will”, * Philosophy Compass*, 5(2): 199–212. doi: 10.1111/j.1747-9991.2009.00273.x
+* Sorabji, Richard, 1980, * Necessity, Cause, and Blame: Perspectives on Aristotle’s Theory*, Ithaca, NY: Cornell University Press.
+* Speak, Daniel, 2002, “Fanning the Flickers of Freedom”, * American Philosophical Quarterly*, 39(1): 91–105.
+* –––, 2005, “PAPistry: Another Defense”, * Midwest Studies in Philosophy*, 29(1): 262–268. doi: 10.1111/j.1475-4975.2005.00116.x
+* –––, 2007, “The Impertinence of Frankfurt-Style Argument”, * The Philosophical Quarterly*, 57(226): 76–95. doi: 10.1111/j.1467-9213.2007.470.x
+* Steward, Helen, 2009, “Fairness, Agency and the Flicker of Freedom”, * Noûs*, 43(1): 64–93. doi: 10.1111/j.1468-0068.2008.01696.x
+* –––, 2012a, “The Metaphysical Presuppositions of Moral Responsibility”, * The Journal of Ethics*, 16(2): 241–271. doi: 10.1007/s10892-012-9127-5
+* –––, 2012b, * A Metaphysics for Freedom*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552054.001.0001
+* Strawson, Galen, 1994, “The Impossibility of Moral Responsibility”, * Philosophical Studies*, 75(1–2): 5–24. doi: 10.1007/BF00989879
+* Strawson, Peter Frederick, 1962, “Freedom and Resentment”, * Proceedings of the British Academy *, 48: 1–25. Reprinted in his * Freedom and Resentment and Other Essays*, London: Routledge, 2008, pp. 1–28; and in Fischer and Ravizza 1993, pp. 45–66.
+* Stump, Eleonore, 1990, “Intellect, Will, and the Principle of Alternative Possibilities”, in M. D. Beaty (ed.), * Christian Theism and the Problems of Philosophy*, Notre Dame, IN: University of Notre Dame Press, pp. 254–85; Reprinted in Fischer and Ravizza 1993, pp. 237–262.
+* –––, 1996, “Libertarian Freedom and the Principle of Alternative Possibilities”, in J. Jordan and D. Howard-Snyder (eds.), * Faith, Freedom, and Rationality: Philosophy of Religion Today*, Lanham: Rowman and Littlefield, pp. 73–88.
+* –––, 1997, “Aquinas’s Account of Freedom: Intellect and Will”, * Monist*, 80(4): 576–597. doi: 10.5840/monist199780429
+* –––, 1999, “Dust, Determinism, and Frankfurt: A Reply to Goetz”, * Faith and Philosophy*, 16(3): 413–422. doi: 10.5840/faithphil199916337
+* –––, 2000, “The Direct Argument for Incompatibilism”, * Philosophy and Phenomenological Research*, 61(2): 459–466. doi: 10.2307/2653663
+* Swenson, Philip, 2016, “The Frankfurt Cases and Responsibility for Omissions”, * The Philosophical Quarterly*, 66(264): 579–595. doi: 10.1093/pq/pqv127
+* Taylor, Richard, 1966, * Action and Purpose*, Englewood Cliffs, NJ: Prentice-Hall.
+* Timpe, Kevin, 2013, * Free Will: Sourcehood and Its Alternatives*, second edition, London: Bloomsbury Academic.
+* Timpe, Kevin, Meghan Griffith, and Neil Levy (eds.), 2017, * The Routledge Companion to Free Will*, London: Routledge.
+* Unger, Peter, 1984, * Philosophical Relativity*, Minneapolis: University of Minnesota Press; reprinted Oxford: Oxford University Press, 2002.
+* Vargas, Manuel, 2005, “The Trouble with Tracing”, * Midwest Studies in Philosophy*, 29(1): 269–291. doi: 10.1111/j.1475-4975.2005.00117.x
+* van Inwagen, Peter, 1978, “Ability and Responsibility”, * Philosophical Review*, 87(2): 201–224. Reprinted in Fischer 1986, pp. 153–173; and in van Inwagen 1983, pp. 162–182. doi: 10.2307/2184752
+* –––, 1980, “The Incompatibility of Responsibility and Determinism”, in M. Bradie and M. Brand (eds.), * Bowling Green Studies in Applied Philosophy*, vol. 2, Bowling Green, OH: Bowling Green State University, pp.30–36; reprinted in Fischer and Ravizza 1986, pp. 241–249.
+* –––, 1983, * An Essay on Free Will*, Oxford: Clarendon Press.
+* Vihvelin, Kadri, 2000, “Freedom, Foreknowledge, and the Principle of Alternate Possibilities”, * Canadian Journal of Philosophy*, 30(1): 1–23. doi: 10.1080/00455091.2000.10717523
+* –––, 2004, “Free Will Demystified: A Dispositional Account”, * Philosophical Topics*, 32(1): 427–450. doi: 10.5840/philtopics2004321/211
+* –––, 2008, “Foreknowledge, Frankfurt, and Ability to Do Otherwise: A Reply to Fischer”, * Canadian Journal of Philosophy*, 38(3): 343–371. doi: 10.1353/cjp.0.0022
+* Vranas, Peter B. M., 2007, “I Ought, Therefore I Can”, * Philosophical Studies*, 136(2): 167–216. doi: 10.1007/s11098-007-9071-6
+* Wallace, R. Jay, 1994, * Responsibility and the Moral Sentiments*, Cambridge, MA: Harvard University Press.
+* Warfield, Ted A., 2007, “Metaphysical Compatibilism’s Appropriation of Frankfurt”, in * Oxford Studies in Metaphysics* (Volume 3), Dean Zimmerman (ed.), pp. 283–295.
+* Watson, Gary, 1996, “Two Faces of Responsibility”, * Philosophical Topics*, 24(2): 227–248. doi: 10.5840/philtopics199624222
+* Whittle, Ann, 2010, “Dispositional Abilities”, * Philosopher’s Imprint*, 10(12): 23 pages. [[Whittle 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.012)]
+* –––, 2016, “Ceteris Paribus, I Could Have Done Otherwise”, * Philosophy and Phenomenological Research*, 92(1): 73–85. doi: 10.1111/phpr.12111
+* Widerker, David, 1991, “Frankfurt on ‘Ought Implies Can’ and Alternative Possibilities”, * Analysis*, 51(4): 222–224. doi: 10.1093/analys/51.4.222
+* –––, 1995, “Libertarianism and Frankfurt’s Attack on the Principle of Alternative Possibilities”, * Philosophical Review*, 104(2): 247–261. doi: 10.2307/2185979
+* –––, 2000, “Theological Fatalism and Frankfurt Counterexamples to the Principle of Alternative Possibilities”, * Faith and Philosophy*, 17(2): 249–254. doi: 10.5840/faithphil200017213
 * –––, 2003, “Blameworthiness and Frankfurt’s Argument Against the Principle of Alternative Possibilities”, in Widerker and McKenna 2003, pp. 53–73.
-* –––, 2006, “Libertarianism and the Philosophical Significance of Frankfurt Scenarios”, *Journal of Philosophy*, 103(4): 163–187. doi:10.5840/jphil2006103433
-* Widerker, David and Stewart Goetz, 2013, “Fischer against the Dilemma Defence: The Defence Prevails”, *Analysis*, 73(2): 283–295. doi:10.1093/analys/ant013
-* Widerker, David and Michael McKenna (eds.), 2003, *Moral Responsibility and Alternative Possibilities: Essays on the Importance of Alternative Possibilities*, Burlington, VT: Ashgate Publishing Company. doi:10.4324/9781315199924
-* Wiggins, David, 1973, “Towards a Reasonable Libertarianism”, in T. Honderich (ed.), *Essays on Freedom of Action*, London: Routledge and Kegan Paul; reprinted in his *Needs, Values, Truth*, Oxford: Oxford University Press, 3rd edition, pp. 269–302.
-* Wolf, Susan, 1980, “Asymmetrical Freedom”, *The Journal of Philosophy*, 77(3): 151–166. Reprinted in Fischer 1986, pp. 225–240. doi:10.2307/2025667
-* Wyma, Keith D., 1997, “Moral Responsibility and Leeway for Action”, *American Philosophical Quarterly*, 34(1): 57–70.
-* Yaffe, Gideon, 1999, “‘Ought’ Implies ‘Can’ and the Principle of Alternate Possibilities”, *Analysis*, 59(3): 218–222. doi:10.1093/analys/59.3.218
-* –––, 2005, “More on ‘Ought’ Implies ‘Can’ and the Principle of Alternate Possibilities”, *Midwest Studies in Philosophy*, 29(1): 307–312. doi:10.1111/j.1475-4975.2005.00119.x
-* Zagzebski, Linda Trinkaus, 1991, *The Dilemma of Freedom and Foreknowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195107630.001.0001
-* –––, 2000, “Does Libertarian Freedom Require Alternate Possibilities?”, *Philosophical Perspectives*, 14: 231–248. doi:10.1111/0029-4624.34.s14.12
-* Zimmerman, Michael J., 1988, *An Essay on Moral Responsibility*, Totowa, NJ: Rowman and Littlefield.
+* –––, 2006, “Libertarianism and the Philosophical Significance of Frankfurt Scenarios”, * Journal of Philosophy*, 103(4): 163–187. doi: 10.5840/jphil2006103433
+* Widerker, David and Stewart Goetz, 2013, “Fischer against the Dilemma Defence: The Defence Prevails”, * Analysis*, 73(2): 283–295. doi: 10.1093/analys/ant013
+* Widerker, David and Michael McKenna (eds.), 2003, * Moral Responsibility and Alternative Possibilities: Essays on the Importance of Alternative Possibilities*, Burlington, VT: Ashgate Publishing Company. doi: 10.4324/9781315199924
+* Wiggins, David, 1973, “Towards a Reasonable Libertarianism”, in T. Honderich (ed.), * Essays on Freedom of Action *, London: Routledge and Kegan Paul; reprinted in his * Needs, Values, Truth*, Oxford: Oxford University Press, 3rd edition, pp. 269–302.
+* Wolf, Susan, 1980, “Asymmetrical Freedom”, * The Journal of Philosophy*, 77(3): 151–166. Reprinted in Fischer 1986, pp. 225–240. doi: 10.2307/2025667
+* Wyma, Keith D., 1997, “Moral Responsibility and Leeway for Action”, * American Philosophical Quarterly*, 34(1): 57–70.
+* Yaffe, Gideon, 1999, “‘Ought’ Implies ‘Can’ and the Principle of Alternate Possibilities”, * Analysis*, 59(3): 218–222. doi: 10.1093/analys/59.3.218
+* –––, 2005, “More on ‘Ought’ Implies ‘Can’ and the Principle of Alternate Possibilities”, * Midwest Studies in Philosophy*, 29(1): 307–312. doi: 10.1111/j.1475-4975.2005.00119.x
+* Zagzebski, Linda Trinkaus, 1991, * The Dilemma of Freedom and Foreknowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195107630.001.0001
+* –––, 2000, “Does Libertarian Freedom Require Alternate Possibilities?”, * Philosophical Perspectives*, 14: 231–248. doi: 10.1111/0029-4624.34.s14.12
+* Zimmerman, Michael J., 1988, * An Essay on Moral Responsibility*, Totowa, NJ: Rowman and Littlefield.
 
 ## Academic Tools
 

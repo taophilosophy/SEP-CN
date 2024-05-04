@@ -24,7 +24,7 @@
 
 某些认知成功涉及遵守一种约束，而另一些涉及实现或促进价值观。我们可以通过对比相关的失败类型来对比这两种成功类型：未能遵守约束导致不允许性，而未能实现某些价值导致次优性。当然，如果次优性总是不允许的，反之亦然，那么这两个类别的扩展最终会相同，即使这两个类别本身并不相同。但将所有次优性视为认知上不允许是不合理的：认知成功并不要求我们在每个方面都完全认知最佳。如果认知成功在原则上是可以实现的，那么至少某种程度的认知次优性必须是允许的。实现比认知允许所需的更高最佳性可以被理解为认知超额行为。如果这种超额行为在原则上是可能的，那么允许性可能不及最佳性。
 
-最近的争议不仅涉及许可性与最优性之间的关系，还涉及每种成功的形而上学基础。某种状态、行为、过程或关系在认识上是出于什么原因是被允许的？以及在什么原因下，无论程度如何，都是最优的？认识后果主义者认为前一个问题的答案取决于对后一个问题的回答。例如，一种流行的认识后果主义形式声称，关于世界形成信念的特定方式在认识上是被允许的，只要它促进了真实信念的拥有和避免了错误信念。另一种与第一种一致但又不同的后果主义形式称，一个“信任函数”（即，从命题到信心程度的函数）在多大程度上是最优的，只要它促进了一个单一参数——总体准确性——这个参数是以一种方式衡量的，即对真命题的信心越高，对假命题的信心越低，总体准确性就越高。还有一些形式的认识后果主义认为，最优性涉及促进的目标是实践性的，而不仅仅是真理性的。最近文献中的一个重要争议涉及认识后果主义是否正确（参见 Berker 2013，该文发展了 Firth 1978 [1998]中的一系列论证）。另一个突出的争议是在后果主义者之间进行的，涉及的问题是哪些价值是实现或促进它们构成最优性的。
+最近的争议不仅涉及许可性与最优性之间的关系，还涉及每种成功的形而上学基础。某种状态、行为、过程或关系在认识上是出于什么原因是被允许的？以及在什么原因下，无论程度如何，都是最优的？认识后果主义者认为前一个问题的答案取决于对后一个问题的回答。例如，一种流行的认识后果主义形式声称，关于世界形成信念的特定方式在认识上是被允许的，只要它促进了真实信念的拥有和避免了错误信念。另一种与第一种一致但又不同的后果主义形式称，一个“信任函数”（即，从命题到信心程度的函数）在多大程度上是最优的，只要它促进了一个单一参数——总体准确性——这个参数是以一种方式衡量的，即对真命题的信心越高，对假命题的信心越低，总体准确性就越高。还有一些形式的认识后果主义认为，最优性涉及促进的目标是实践性的，而不仅仅是真理性的。最近文献中的一个重要争议涉及认识后果主义是否正确（参见 Berker 2013，该文发展了 Firth 1978 [1998] 中的一系列论证）。另一个突出的争议是在后果主义者之间进行的，涉及的问题是哪些价值是实现或促进它们构成最优性的。
 
 我们使用术语“约束”来表示认识上允许的范围。当然，作为一种义务逻辑，允许的内容必须至少包括所需的内容：因为要求某种条件只是为了使该条件的补集不被允许。但这使得在特定领域中，允许的内容是否包括超出所需的内容成为一个开放问题。允许主义者认为包括（参见 Schoenfield 2014 年对允许主义的辩护），而反允许主义者认为不包括（参见 White 2005 年和 Schultheis 2018 年对允许主义的反驳）。关于我们信念的约束的反允许主义者有时被描述为持有“唯一性”观点，但这个标签很容易引人误解。一个认为允许信念的范围不比所需信念的范围更广的哲学家是一个反允许主义者——但是这样理解的反允许主义观点与这样一种主张一致，即我们被要求具有的信念不是点值，而是区间值。这样的哲学家可以声称，你被允许分配给“猫在垫子上”这个命题的信念只有一个，而这个所需的信念既不是 0.6 也不是 0.7，而是开区间（0.6，0.7）。
 
@@ -77,9 +77,9 @@
 
 ### 知识如何
 
-在他具有开创性的著作《心灵的概念》中，吉尔伯特·赖尔（Gilbert Ryle）认为，知道如何做某事必须不同于知道任何一组事实。无论你对游泳了解多少事实，都不能从你对这些事实的了解中推断出你知道如何游泳。当然，你甚至可能知道如何游泳，而并不需要对游泳了解很多事实。对于赖尔来说，知道如何与知道那是根本不同的。
+在他具有开创性的著作《心灵的概念》中，吉尔伯特 · 赖尔（Gilbert Ryle）认为，知道如何做某事必须不同于知道任何一组事实。无论你对游泳了解多少事实，都不能从你对这些事实的了解中推断出你知道如何游泳。当然，你甚至可能知道如何游泳，而并不需要对游泳了解很多事实。对于赖尔来说，知道如何与知道那是根本不同的。
 
-这种莱尔式的知识如何和知识为何之间的区别自 1975 年以来一直受到挑战，最初是由卡尔·吉内特（Carl Ginet）在《知识、感知和记忆》一书出版后提出的。吉内特认为，知道如何做某事只是知道某个行为是做那件事的一种方式。这一挑战由博尔（Boër）和莱肯（Lycan）（1975 年）进一步系统化，他们认为知道谁、知道哪个、知道为什么、知道在哪里、知道何时以及知道如何——所有这些知道 wh-的形式，正如他们所称的，实际上只是知道的不同形式。例如，知道谁是 F，只是知道某个特定的人是 F。知道为什么 p 只是知道某个事物是为什么 p 的原因。而知道如何做 F 只是知道某个行为是做 F 的一种方式。这一观点在斯坦利和威廉姆森（Stanley and Williamson）2001 年的著作中得到了详细阐述，随后被许多后续作家挑战或完善（例如，参见本森（Bengson）和莫菲特（Moffett）2011 年的论文，以及帕韦斯（Pavese）2015 年和 2017 年的著作）。
+这种莱尔式的知识如何和知识为何之间的区别自 1975 年以来一直受到挑战，最初是由卡尔 · 吉内特（Carl Ginet）在《知识、感知和记忆》一书出版后提出的。吉内特认为，知道如何做某事只是知道某个行为是做那件事的一种方式。这一挑战由博尔（Boër）和莱肯（Lycan）（1975 年）进一步系统化，他们认为知道谁、知道哪个、知道为什么、知道在哪里、知道何时以及知道如何——所有这些知道 wh-的形式，正如他们所称的，实际上只是知道的不同形式。例如，知道谁是 F，只是知道某个特定的人是 F。知道为什么 p 只是知道某个事物是为什么 p 的原因。而知道如何做 F 只是知道某个行为是做 F 的一种方式。这一观点在斯坦利和威廉姆森（Stanley and Williamson）2001 年的著作中得到了详细阐述，随后被许多后续作家挑战或完善（例如，参见本森（Bengson）和莫菲特（Moffett）2011 年的论文，以及帕韦斯（Pavese）2015 年和 2017 年的著作）。
 
 ### 2.3 Knowing Facts
 
@@ -87,7 +87,7 @@
 
 认识论引入了理由条件，以确保 S 的信念并非仅仅是因为运气而成真。但是，如果可以确保这一点，理由又应该是什么呢？也许可以认为，当 S 合理或理性地认为 p 为真时，S 的信念 p 并非仅仅是因为运气而成真。或者可以认为，如果 S 的信念具有较高的客观真实概率，即如果它是由可靠的认知过程或能力形成或维持的，那么 S 的信念并非仅仅是因为运气而成真。但是，正如我们将在下一节中看到的那样，如果理由以这两种方式之一被理解，它都无法确保不受运气的影响。
 
-根据埃德蒙·盖特（Edmund Gettier）所展示的，事实证明存在一些 JTB 的情况并非是知识的情况。因此，JTB 对于知识并不足够。正如被称为盖特案例的那些情况所示[17]，这些情况出现是因为充分的证据拥有、可靠的认知能力来源，或者这些条件的结合，并不足以确保一个信念之所以不是真实仅仅是因为运气。考虑著名的谷仓外观案例：亨利驾驶穿过一个农村地区，那里除了一个之外，所有看起来像谷仓的都只是谷仓外观。从亨利所在的道路上看，这些外观看起来与真正的谷仓一模一样。亨利碰巧正在看着该地区唯一的真正谷仓，并相信那边有一个谷仓。因此，亨利的信念是真实的，而且他的视觉经验使得从他的角度来看，持有这种信念是合理的。最后，他的信念来源于一个可靠的认知过程：在良好光照下对普通可识别物体的正常视觉。然而，在这种情况下，亨利的信念之所以是真实的仅仅是因为运气：如果亨利注意到其中一个谷仓外观，他的信念将是错误的。因此，认识论者普遍一致认为亨利的信念不符合知识的资格[18]。
+根据埃德蒙 · 盖特（Edmund Gettier）所展示的，事实证明存在一些 JTB 的情况并非是知识的情况。因此，JTB 对于知识并不足够。正如被称为盖特案例的那些情况所示 [17]，这些情况出现是因为充分的证据拥有、可靠的认知能力来源，或者这些条件的结合，并不足以确保一个信念之所以不是真实仅仅是因为运气。考虑著名的谷仓外观案例：亨利驾驶穿过一个农村地区，那里除了一个之外，所有看起来像谷仓的都只是谷仓外观。从亨利所在的道路上看，这些外观看起来与真正的谷仓一模一样。亨利碰巧正在看着该地区唯一的真正谷仓，并相信那边有一个谷仓。因此，亨利的信念是真实的，而且他的视觉经验使得从他的角度来看，持有这种信念是合理的。最后，他的信念来源于一个可靠的认知过程：在良好光照下对普通可识别物体的正常视觉。然而，在这种情况下，亨利的信念之所以是真实的仅仅是因为运气：如果亨利注意到其中一个谷仓外观，他的信念将是错误的。因此，认识论者普遍一致认为亨利的信念不符合知识的资格 [18]。
 
 为了陈述对于知识而言是共同充分条件，还需要向 JTB 中添加什么进一步元素？这被称为盖蒂尔问题。一些哲学家试图通过向上述三个条件添加第四个条件来解决盖蒂尔问题，而另一些人则试图通过替换或完善理由条件来解决它。我们如何理解替换理由条件和完善它之间的对比，当然取决于我们如何理解理由条件本身，这是下一节的主题。
 
@@ -189,7 +189,7 @@ S 的 p 的正当信念是基本的，当且仅当 S 对 p 的信念是正当的
 
 在普通情况下，诸如（H）的感知信念并非基于关于自己感知经验的进一步信念。因此，特权基础主义如何解释像（H）这样的普通感知信念的合理性并不清楚。[41] 另一方面，经验基础主义却毫无困难地解释了普通感知信念是如何被证明合理的：它们是由产生它们的感知经验所证明合理的。这可以被视为偏爱经验基础主义而非特权基础主义的理由。
 
-DB articulates one conception of basicality. Here’s an alternative conception:DB 阐述了一种基础性的概念。这里有另一种概念：
+DB articulates one conception of basicality. Here’s an alternative conception: DB 阐述了一种基础性的概念。这里有另一种概念：
 
 **认识基础性（EB）**
 S 的相信 p 的理由是基本的，当且仅当 S 相信 p 的理由不依赖于 S 拥有的任何相信进一步命题 q 的理由。[42]
@@ -322,13 +322,13 @@ S 只有在不依赖于任何经验的情况下才能被认为是在合理地相
 
 如果先验的理由是可能的，那么它究竟涉及什么？是什么使得像“所有单身汉都是未婚者”这样的信念被证明是合理的？是对这个命题真理的直接把握吗？还是包括把握这个命题是必然真实的？还是纯粹的“看到”（用“理性之眼”）或“直觉”这个命题是真实的（或必然真实的）？（参见 Bengson 2015 和 Chudnoff 2013，对这一观点进行了复杂的辩护）。或者，正如外部主义者所建议的那样，我们认识到这样一个命题的真理的认知过程的可靠性？
 
-如果存在先验知识，那么它的范围是什么？经验主义者认为，先验知识仅限于分析领域，由我们的概念本身而真实的命题组成，因此不传达任何关于世界的信息。传达关于世界真实信息的命题被称为综合命题。经验主义者会说，合成命题的先验知识是不可能的。理性主义者否认了这一点。他们可能会援引这样一个命题：“如果一个球全身都是绿色，那么它就没有黑斑点”，作为一个既是综合的又是可以先验知的命题的例子（有关这种先验合理判断内容的讨论，请参见 Ichikawa 和 Jarvis 2009 以及 Malmgren 2011；有关先验知识的文献，请参见 BonJour 1998，BonJour 在 BonJour＆Devitt 2005 [2013]中的文章；Boghossian 和 Peacocke 2000；Casullo 2003；Jenkins 2008，2014；以及 Devitt 2014）。
+如果存在先验知识，那么它的范围是什么？经验主义者认为，先验知识仅限于分析领域，由我们的概念本身而真实的命题组成，因此不传达任何关于世界的信息。传达关于世界真实信息的命题被称为综合命题。经验主义者会说，合成命题的先验知识是不可能的。理性主义者否认了这一点。他们可能会援引这样一个命题：“如果一个球全身都是绿色，那么它就没有黑斑点”，作为一个既是综合的又是可以先验知的命题的例子（有关这种先验合理判断内容的讨论，请参见 Ichikawa 和 Jarvis 2009 以及 Malmgren 2011；有关先验知识的文献，请参见 BonJour 1998，BonJour 在 BonJour＆Devitt 2005 [2013] 中的文章；Boghossian 和 Peacocke 2000；Casullo 2003；Jenkins 2008，2014；以及 Devitt 2014）。
 
 ### 5.5 Testimony5.5 证词
 
 证词与我们上面考虑的来源不同，因为它并不是通过拥有自己的认知能力来区分。相反，通过证词获得关于 p 的知识是基于某人说 p 而知道 p。 “说 p”必须被广泛理解，包括日常生活中的普通话语，博客作者在其博客上的发布，记者的文章，电视、广播、磁带、书籍和其他媒体上的信息传递。因此，当你问旁边的人现在几点了，她告诉你，你因此知道了现在的时间，这就是基于证词而知道某事的一个例子。当你通过阅读《华盛顿邮报》得知 2005 年 7 月 22 日沙姆沙伊赫的恐怖袭击造成至少 88 人死亡，那也是基于证词获得知识的一个例子。
 
-认识论中的难题是：为什么见证是知识的来源？一位外在主义者可能会说，见证是知识的来源，如果，因为它来自可靠的来源。但在这里，甚至比我们的能力的情况更是如此，内在主义者不会觉得这个答案令人满意。假设你听到有人说“p”。进一步假设这个人实际上在是否 p 是真实的问题上是非常可靠的。最后，假设你对这个人的可靠性一无所知。难道得出这样的结论是合理的吗，即由于你不知道这个人的可靠性，这个人说“p”并不能使你知道 p 吗？但如果一个见证来源的可靠性并不足以使其成为知识的来源，那还需要什么呢？托马斯·里德（Thomas Reid）建议，根据我们的本性，我们接受见证来源是可靠的，并倾向于将可信度归因给它们，除非我们遇到特殊的相反理由。但这仅仅是对我们实际对待见证的态度的陈述。是什么使得这种态度是合理的呢？可以争论说，在个人与见证来源的亲身经历中，一个已经积累了足够长的记录，可以被视为可靠性的迹象。然而，当我们考虑到我们从见证中获得的知识的广度时，人们不禁会想，自己的个人经历是否构成了足够丰富的证据基础，以证明我们倾向于信任的所有见证来源的可靠性（有关此问题，请参见 E. Fricker 1994 和 M. Fricker 2007）。一种替代追踪记录方法的方式是宣称信任见证来源至少是在表面上合理的必然真理。尽管这种观点得到了广泛的支持，但它需要解释是什么使得这种信任在表面上是合理的必然真理。这样的解释已被证明是有争议的。[60]
+认识论中的难题是：为什么见证是知识的来源？一位外在主义者可能会说，见证是知识的来源，如果，因为它来自可靠的来源。但在这里，甚至比我们的能力的情况更是如此，内在主义者不会觉得这个答案令人满意。假设你听到有人说“p”。进一步假设这个人实际上在是否 p 是真实的问题上是非常可靠的。最后，假设你对这个人的可靠性一无所知。难道得出这样的结论是合理的吗，即由于你不知道这个人的可靠性，这个人说“p”并不能使你知道 p 吗？但如果一个见证来源的可靠性并不足以使其成为知识的来源，那还需要什么呢？托马斯 · 里德（Thomas Reid）建议，根据我们的本性，我们接受见证来源是可靠的，并倾向于将可信度归因给它们，除非我们遇到特殊的相反理由。但这仅仅是对我们实际对待见证的态度的陈述。是什么使得这种态度是合理的呢？可以争论说，在个人与见证来源的亲身经历中，一个已经积累了足够长的记录，可以被视为可靠性的迹象。然而，当我们考虑到我们从见证中获得的知识的广度时，人们不禁会想，自己的个人经历是否构成了足够丰富的证据基础，以证明我们倾向于信任的所有见证来源的可靠性（有关此问题，请参见 E. Fricker 1994 和 M. Fricker 2007）。一种替代追踪记录方法的方式是宣称信任见证来源至少是在表面上合理的必然真理。尽管这种观点得到了广泛的支持，但它需要解释是什么使得这种信任在表面上是合理的必然真理。这样的解释已被证明是有争议的。[60]
 
 ## 认知成功的界限
 
@@ -425,7 +425,7 @@ BIV-Epistemic Possibility Argument (BEPA)
 
 ### 6.3 应对不确定性论证
 
-在前一节讨论的背景下，无论是语境主义者还是摩尔反应都忽略了一个重要细节。两者都说人可以知道自己不是生活在罐中的大脑（BIV），尽管语境主义者只在低标准语境下承认这一点，但两种观点都没有解释 *为什么* 我们能够知道这件事。如果根据假设，BIV拥有与我完全相同的心智状态，包括完全相同的感知经验，那么我如何能够有理由相信自己不是BIV呢？如果我无法有理由相信自己不是BIV，那么我又怎么能知道自己不是呢？
+在前一节讨论的背景下，无论是语境主义者还是摩尔反应都忽略了一个重要细节。两者都说人可以知道自己不是生活在罐中的大脑（BIV），尽管语境主义者只在低标准语境下承认这一点，但两种观点都没有解释 *为什么* 我们能够知道这件事。如果根据假设，BIV 拥有与我完全相同的心智状态，包括完全相同的感知经验，那么我如何能够有理由相信自己不是 BIV 呢？如果我无法有理由相信自己不是 BIV，那么我又怎么能知道自己不是呢？
 
 当然，关于我如何能够证明我不是一个 BIV 的问题对外部主义者来说并不特别困难。从外部主义者的角度来看，你和 BIV 拥有完全相同的心理状态这一事实对于你是否有理由相信自己不是 BIV 并不一定相关，因为这样的理由并不完全由那些心理状态决定。
 
@@ -439,58 +439,58 @@ BIV-Epistemic Possibility Argument (BEPA)
 
 这个回答对大多数哲学家来说似乎是合理的，但被 Lasonen-Aarnio (2014b)有效地挑战了。她的论点是：很可能有足够的证据来知道某个事实。但如果可能有足够的证据来知道某个事实，那么即使获得一些轻微的反对证据，一个人仍然可能知道那个事实。然而，完全不受获得的轻微反对证据影响是错误的：尽管证据可能太微弱而无法破坏一个人的知识，但它不能太微弱以至于不会稍微降低一个人的信心。只要一个人在理性地对新证据做出反应时继续知道一个事实，那么对抗性论证的最流行回应就会失败。
 
-对抗性论证的其他回应包括否定前提（2）[65]，否定（4）（麦克道尔，1982 年，科恩，2006 年[2017]），以及声称“知道”的语境敏感性意味着（4）仅相对于未来挑战的可能性相关的语境而言是真实的（参见内塔，2002 年）。但是，这些回应都尚未得到广泛的认同。
+对抗性论证的其他回应包括否定前提（2）[65]，否定（4）（麦克道尔，1982 年，科恩，2006 年 [2017]），以及声称“知道”的语境敏感性意味着（4）仅相对于未来挑战的可能性相关的语境而言是真实的（参见内塔，2002 年）。但是，这些回应都尚未得到广泛的认同。
 
 ### 6.5 对认识可能性论的回应
 
 对于 BEPA 的最常见回应要么是否定前提（1），要么是否定我们有正当理由相信前提（1）是真实的。大多数作者会否定前提（1），并会根据他们认为我可以知道我不是 BIV 的理由来这样做：知道某事不是真的排除了那件事对你来说在认识论上是可能的。
 
-但一些有影响力的作家，尤其是罗杰斯·奥尔布里顿（Rogers Albritton）和汤普森·克拉克（Thompson Clarke）（见 Albritton 2011 和 Clarke 1972），并不声称前提（1）是错误的。相反，他们否认我们有理由相信前提（1）是真实的。根据这些作家的观点，通常使我们相信某事在认识上可能的理由是我们可以构想发现它是真实的。例如，使我相信唐纳德·特朗普已经辞职是可能的理由是我可以清楚地构想发现唐纳德·特朗普已经辞职。但如果我试图构想发现我是一个 BIV，我并不清楚我能否成功。我可能构想到找到一些证据表明我是一个 BIV，但是，因为这些证据支持我是一个 BIV 的假设，它是否也会削弱自身的可信度呢？在这种情况下，是否有任何东西可以算作“我的证据”呢？（见 Neta forthcoming 以详细阐述这一观点）。如果无法肯定地回答这个问题，那么我并不清楚我能构想到任何可以发现我是一个 BIV 的事情。当然，从我无法构想到任何可以发现我是一个 BIV 的事情这一事实，并不意味着我不是一个 BIV——因此，甚至不意味着我不可能是一个 BIV。但是，无论我是否可能是一个 BIV，我都不能有理由认为是这样。这就是说，我不能有理由接受 BEPA 的前提（1）。
+但一些有影响力的作家，尤其是罗杰斯 · 奥尔布里顿（Rogers Albritton）和汤普森 · 克拉克（Thompson Clarke）（见 Albritton 2011 和 Clarke 1972），并不声称前提（1）是错误的。相反，他们否认我们有理由相信前提（1）是真实的。根据这些作家的观点，通常使我们相信某事在认识上可能的理由是我们可以构想发现它是真实的。例如，使我相信唐纳德 · 特朗普已经辞职是可能的理由是我可以清楚地构想发现唐纳德 · 特朗普已经辞职。但如果我试图构想发现我是一个 BIV，我并不清楚我能否成功。我可能构想到找到一些证据表明我是一个 BIV，但是，因为这些证据支持我是一个 BIV 的假设，它是否也会削弱自身的可信度呢？在这种情况下，是否有任何东西可以算作“我的证据”呢？（见 Neta forthcoming 以详细阐述这一观点）。如果无法肯定地回答这个问题，那么我并不清楚我能构想到任何可以发现我是一个 BIV 的事情。当然，从我无法构想到任何可以发现我是一个 BIV 的事情这一事实，并不意味着我不是一个 BIV——因此，甚至不意味着我不可能是一个 BIV。但是，无论我是否可能是一个 BIV，我都不能有理由认为是这样。这就是说，我不能有理由接受 BEPA 的前提（1）。
 
 ## Bibliography
 
 The abbreviations CDE-1 and CDE-2 refer to Steup & Sosa 2005 and Steup, Turri, & Sosa 2013, respectively. For more information, see the listings for these two works in the alphabetical list of references below.
 
 * Adler, Jonathan Eric, 2002, *Belief’s Own Ethics*, Cambridge, MA: MIT Press.
-* Albritton, Rogers, 2011, “On a Form of Skeptical Argument from Possibility”, *Philosophical Issues*, 21: 1–24. doi:10.1111/j.1533-6077.2011.00195.x
+* Albritton, Rogers, 2011, “On a Form of Skeptical Argument from Possibility”, *Philosophical Issues*, 21: 1–24. doi: 10.1111/j.1533-6077.2011.00195.x
 * Alston, William P., 1971 [1989], “Varieties of Privileged Access”, *American Philosophical Quarterly*, 8(3): 223–241. Reprinted in Alston 1989: 249–285.
-* –––, 1985 [1989], “Concepts of Epistemic Justification”:, *Monist*, 68(1): 57–89. Reprinted in Alston 1989: 81–114. doi:10.5840/monist198568116
-* –––, 1988 [1989], “The Deontological Conception of Epistemic Justification”, *Philosophical Perspectives*, 2: 257–299. Reprinted in Alston 1989: 115–152. doi:10.2307/2214077
+* –––, 1985 [1989], “Concepts of Epistemic Justification”:, *Monist*, 68(1): 57–89. Reprinted in Alston 1989: 81–114. doi: 10.5840/monist198568116
+* –––, 1988 [1989], “The Deontological Conception of Epistemic Justification”, *Philosophical Perspectives*, 2: 257–299. Reprinted in Alston 1989: 115–152. doi: 10.2307/2214077
 * –––, 1989, *Epistemic Justification: Essays in the Theory of Knowledge*, Ithaca, NY: Cornell University Press.
 * –––, 1991, *Perceiving God: The Epistemology of Religious Experience*, Ithaca, NY: Cornell University Press.
 * –––, 1993, *The Reliability of Sense Perception*, Ithaca, NY: Cornell University Press.
-* –––, 1999, “Perceptual Knowledge”, in Greco and Sosa 1999: 221–242. doi:10.1002/9781405164863.ch10
-* Anderson, Elizabeth, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi:10.1111/j.1527-2001.2004.tb01266.x
-* Armstrong, D. M., 1973, *Belief, Truth and Knowledge*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570827
+* –––, 1999, “Perceptual Knowledge”, in Greco and Sosa 1999: 221–242. doi: 10.1002/9781405164863.ch10
+* Anderson, Elizabeth, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi: 10.1111/j.1527-2001.2004.tb01266.x
+* Armstrong, D. M., 1973, *Belief, Truth and Knowledge*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511570827
 * Axtell, Guy (ed.), 2000, *Knowledge, Belief, and Character: Readings in Virtue Epistemology*, (Studies in Epistemology and Cognitive Theory), Lanham, MD: Rowman & Littlefield.
 * Audi, Robert, 1993, *The Structure of Justification*, Cambridge: Cambridge University Press.
 * –––, 1997, *Moral Knowledge and Ethical Character*, New York: Oxford University Press.
 * –––, 1998, *Epistemology: A Contemporary Introduction to the Theory of Knowledge*, New York: Routledge.
-* –––, 1999, “Moral Knowledge and Ethical Pluralism”, in Greco and Sosa 1999: 271–302. doi:10.1002/9781405164863.ch12
-* –––, 2000, *Religious Commitment and Secular Reason*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139164528
+* –––, 1999, “Moral Knowledge and Ethical Pluralism”, in Greco and Sosa 1999: 271–302. doi: 10.1002/9781405164863.ch12
+* –––, 2000, *Religious Commitment and Secular Reason*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139164528
 * –––, 2004, *The Good in the Right: A Theory of Intuition and Intrinsic Value*, Princeton, NJ: Princeton University Press.
 * Audi, Robert and Nicholas Wolterstorff, 1997, *Religion in the Public Square: The Place of Religious Convictions in Political Debate*, (Point/Counterpoint), Lanham, MD: Rowman & Littlefield Publishers.
-* Austin, J.L., 1946, “Symposium: Other Minds II”, *Aristotelian Society Supplementary Volume*, 20: 148–187; reprinted as “Other Minds 1” in his *Philosophical Papers*, J.O. Urmson and G.J. Warnock (eds.), third edition, Oxford: Oxford University Press, 1979, 76–116. doi:10.1093/aristoteliansupp/20.1.122 doi:10.1093/019283021X.003.0004
+* Austin, J.L., 1946, “Symposium: Other Minds II”, *Aristotelian Society Supplementary Volume*, 20: 148–187; reprinted as “Other Minds 1” in his *Philosophical Papers*, J.O. Urmson and G.J. Warnock (eds.), third edition, Oxford: Oxford University Press, 1979, 76–116. doi: 10.1093/aristoteliansupp/20.1.122 doi: 10.1093/019283021X.003.0004
 * –––, 1962, *Sense and Sensibilia*, G. J. Warnock (ed.), Oxford: Oxford University Press.
 * Ayer, Alfred J., 1940, *The Foundations of Empirical Knowledge*, New York: Macmillan.
 * –––, 1956, *The Problem of Knowledge*, London: Macmillan.
-* Basu, Rima, 2018, “Can Beliefs Wrong?”:, *Philosophical Topics*, 46(1): 1–17. doi:10.5840/philtopics20184611
-* –––, 2019, “What We Epistemically Owe to Each Other”, *Philosophical Studies*, 176(4): 915–931. doi:10.1007/s11098-018-1219-z
-* Bengson, John, 2015, “The Intellectual Given”, *Mind*, 124(495): 707–760. doi:10.1093/mind/fzv029
-* Bengson, John and Marc A. Moffett, 2011, *Knowing How: Essays on Knowledge, Mind, and Action*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195389364.001.0001
+* Basu, Rima, 2018, “Can Beliefs Wrong?”:, *Philosophical Topics*, 46(1): 1–17. doi: 10.5840/philtopics20184611
+* –––, 2019, “What We Epistemically Owe to Each Other”, *Philosophical Studies*, 176(4): 915–931. doi: 10.1007/s11098-018-1219-z
+* Bengson, John, 2015, “The Intellectual Given”, *Mind*, 124(495): 707–760. doi: 10.1093/mind/fzv029
+* Bengson, John and Marc A. Moffett, 2011, *Knowing How: Essays on Knowledge, Mind, and Action*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195389364.001.0001
 * Berker, Selim, 2008, “Luminosity Regained”, *Philosopher’s Imprint*, 8: article 2. [[Berker 2008 available online](http://hdl.handle.net/2027/spo.3521354.0008.002)]
-* –––, 2013, “Epistemic Teleology and the Separateness of Propositions”, *Philosophical Review*, 122(3): 337–393. doi:10.1215/00318108-2087645
-* Blome-Tillmann, Michael, 2014, *Knowledge and Presuppositions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199686087.001.0001
-* Boër, Stephen and William Lycan, 1975, “Knowing Who”, *Philosophical Studies*, 28(5): 299–344. doi:10.1007/BF00381575
-* Boghossian, Paul A., 2001, “How Are Objective Epistemic Reasons Possible?”, *Philosophical Studies*, 106(1/2): 1–40. doi:10.1023/A:1013141719930
-* –––, 2003, “Blind Reasoning”, *Aristotelian Society Supplementary Volume*, 77: 225–248. doi:10.1111/1467-8349.00110
-* –––, 2006, *Fear of Knowledge: Against Relativism and Constructivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199287185.001.0001
-* –––, 2008, “Epistemic Rules”:, *Journal of Philosophy*, 105(9): 472–500. doi:10.5840/jphil2008105929
-* –––, 2014, “What Is Inference?”, *Philosophical Studies*, 169(1): 1–18. doi:10.1007/s11098-012-9903-x
-* Boghossian, Paul and Christopher Peacocke (eds.), 2000, *New Essays on the A Priori*, Oxford: Oxford University Press. doi:10.1093/0199241279.001.0001
+* –––, 2013, “Epistemic Teleology and the Separateness of Propositions”, *Philosophical Review*, 122(3): 337–393. doi: 10.1215/00318108-2087645
+* Blome-Tillmann, Michael, 2014, *Knowledge and Presuppositions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199686087.001.0001
+* Boër, Stephen and William Lycan, 1975, “Knowing Who”, *Philosophical Studies*, 28(5): 299–344. doi: 10.1007/BF00381575
+* Boghossian, Paul A., 2001, “How Are Objective Epistemic Reasons Possible?”, *Philosophical Studies*, 106(1/2): 1–40. doi: 10.1023/A: 1013141719930
+* –––, 2003, “Blind Reasoning”, *Aristotelian Society Supplementary Volume*, 77: 225–248. doi: 10.1111/1467-8349.00110
+* –––, 2006, *Fear of Knowledge: Against Relativism and Constructivism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199287185.001.0001
+* –––, 2008, “Epistemic Rules”:, *Journal of Philosophy*, 105(9): 472–500. doi: 10.5840/jphil2008105929
+* –––, 2014, “What Is Inference?”, *Philosophical Studies*, 169(1): 1–18. doi: 10.1007/s11098-012-9903-x
+* Boghossian, Paul and Christopher Peacocke (eds.), 2000, *New Essays on the A Priori*, Oxford: Oxford University Press. doi: 10.1093/0199241279.001.0001
 * BonJour, Laurence, 1985, *The Structure of Empirical Knowledge*, Cambridge, MA: Harvard University Press.
-* –––, 1998, *In Defense of Pure Reason: A Rationalist Account of A Priori Justification*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625176
-* –––, 1999, “The Dialectic of Foundationalism and Coherentism”, in Greco and Sosa 1999: 117–142. doi:10.1002/9781405164863.ch4
+* –––, 1998, *In Defense of Pure Reason: A Rationalist Account of A Priori Justification*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625176
+* –––, 1999, “The Dialectic of Foundationalism and Coherentism”, in Greco and Sosa 1999: 117–142. doi: 10.1002/9781405164863.ch4
 * –––, 2001, “Towards a Defense of Empirical Foundationalism”, in DePaul 2001: 21–38.
 * –––, 2002, *Epistemology: Classic Problems and Contemporary Responses*, Lanham, MD: Rowman & Littlefield.
 * BonJour, Laurence and Michael Devitt, 2005 [2013], “Is There a Priori Knowledge?”, CDE-1: 98–121 (chapter 4); second edition in CDE-2: 177–201 (chapter 8). Includes:
@@ -498,361 +498,361 @@ The abbreviations CDE-1 and CDE-2 refer to Steup & Sosa 2005 and Steup, Turri, &
   * Devitt, Michael, “There is no a Priori”, CDE-1: 105–115; CDE-2: 185–194.and replies by each to the other.
 * BonJour, Laurence and Ernest Sosa, 2003, *Epistemic Justification: Internalism vs. Externalism, Foundations vs. Virtues*, Malden, MA: Blackwell.
 * Bordo, Susan, 1990, *The Flight to Objectivity: Essays on Cartesianism and Culture*, Albany, NY: SUNY Press.
-* Boyle, Matthew, 2009, “Two Kinds of Self-Knowledge”, *Philosophy and Phenomenological Research*, 78(1): 133–164. doi:10.1111/j.1933-1592.2008.00235.x
+* Boyle, Matthew, 2009, “Two Kinds of Self-Knowledge”, *Philosophy and Phenomenological Research*, 78(1): 133–164. doi: 10.1111/j.1933-1592.2008.00235.x
 * Brady, Michael and Duncan Pritchard, 2003, *Moral and Epistemic Virtues*, Oxford: Blackwell.
-* Brady, Michael S. and Miranda Fricker (eds.), 2016, *The Epistemic Life of Groups: Essays in the Epistemology of Collectives*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198759645.001.0001
-* Brewer, Bill, 1999, *Perception and Reason*, Oxford: Oxford University Press. doi:10.1093/0199250456.001.0001
+* Brady, Michael S. and Miranda Fricker (eds.), 2016, *The Epistemic Life of Groups: Essays in the Epistemology of Collectives*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198759645.001.0001
+* Brewer, Bill, 1999, *Perception and Reason*, Oxford: Oxford University Press. doi: 10.1093/0199250456.001.0001
 * Brewer, Bill and Alex Byrne, 2005, “Does Perceptual Experience Have Conceptual Content?”, CDE-1: 217–250 (chapter 8). Includes:
   * Brewer, Bill, “Perceptual Experience Has Conceptual Content”, CDE-1: 217–230.
   * Byrne, Alex, “Perception and Conceptual Content”, CDE-1: 231–250.
-* Brogaard, Berit, 2009, “The Trivial Argument for Epistemic Value Pluralism, or, How I Learned to Stop Caring about Truth”, in *Epistemic Value*, Adrian Haddock, Alan Millar, and Duncan Pritchard (eds.), Oxford: Oxford University Press, 284–306. doi:10.1093/acprof:oso/9780199231188.003.0014
-* Brown, Jessica, 2008a, “Subject-Sensitive Invariantism and the Knowledge Norm for Practical Reasoning”, *Noûs*, 42(2): 167–189. doi:10.1111/j.1468-0068.2008.00677.x
-* –––, 2008b, “The Knowledge Norm for Assertion”, *Philosophical Issues*, 18: 89–103. doi:10.1111/j.1533-6077.2008.00139.x
-* –––, 2010, “Knowledge and Assertion”, *Philosophy and Phenomenological Research*, 81(3): 549–566. doi:10.1111/j.1933-1592.2010.00369.x
-* –––, 2018, *Fallibilism: Evidence and Knowledge*, Oxford: Oxford University Press. doi:10.1093/oso/9780198801771.001.0001
-* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi:10.2307/2185680
+* Brogaard, Berit, 2009, “The Trivial Argument for Epistemic Value Pluralism, or, How I Learned to Stop Caring about Truth”, in *Epistemic Value*, Adrian Haddock, Alan Millar, and Duncan Pritchard (eds.), Oxford: Oxford University Press, 284–306. doi: 10.1093/acprof: oso/9780199231188.003.0014
+* Brown, Jessica, 2008a, “Subject-Sensitive Invariantism and the Knowledge Norm for Practical Reasoning”, *Noûs*, 42(2): 167–189. doi: 10.1111/j.1468-0068.2008.00677.x
+* –––, 2008b, “The Knowledge Norm for Assertion”, *Philosophical Issues*, 18: 89–103. doi: 10.1111/j.1533-6077.2008.00139.x
+* –––, 2010, “Knowledge and Assertion”, *Philosophy and Phenomenological Research*, 81(3): 549–566. doi: 10.1111/j.1933-1592.2010.00369.x
+* –––, 2018, *Fallibilism: Evidence and Knowledge*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198801771.001.0001
+* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi: 10.2307/2185680
 * Casullo, Albert, 2003, *A Priori Justification*, New York: Oxford University Press.
 * Chisholm, Roderick M., 1966 [1977/1989], *Theory of Knowledge*, Englewood Cliffs, NJ: Prentice-Hall. Second edition 1977. Third edition 1989.
 * –––, 1982, *The Foundations of Knowing*, Minneapolis, MN: University of Minnesota Press.
-* Chrisman, Matthew, 2008, “Ought to Believe”:, *Journal of Philosophy*, 105(7): 346–370. doi:10.5840/jphil2008105736
-* –––, 2012, “The Normative Evaluation of Belief and The Aspectual Classification of Belief and Knowledge Attributions”:, *Journal of Philosophy*, 109(10): 588–612. doi:10.5840/jphil20121091029
-* Chudnoff, Elijah, 2013, *Intuition*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199683000.001.0001
-* Clarke, Thompson, 1972, “The Legacy of Skepticism”, *The Journal of Philosophy*, 69(20): 754–769. doi:10.2307/2024672
-* Cohen, Stewart, 1988, “How to Be a Fallibilist”, *Philosophical Perspectives*, 2: 91–123. doi:10.2307/2214070
-* –––, 1999, “Contextualism, Skepticism, and the Structure of Reasons”, *Philosophical Perspectives*, 13: 57–89. doi:10.1111/0029-4624.33.s13.3
-* –––, 2001, “Contextualism Defended: Comments on Richard Feldman’s ‘Skeptical Problems, Contextualist Solutions’”, *Philosophical Studies*, 103(1): 87–98. doi:10.1023/A:1010345123470
-* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
+* Chrisman, Matthew, 2008, “Ought to Believe”:, *Journal of Philosophy*, 105(7): 346–370. doi: 10.5840/jphil2008105736
+* –––, 2012, “The Normative Evaluation of Belief and The Aspectual Classification of Belief and Knowledge Attributions”:, *Journal of Philosophy*, 109(10): 588–612. doi: 10.5840/jphil20121091029
+* Chudnoff, Elijah, 2013, *Intuition*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199683000.001.0001
+* Clarke, Thompson, 1972, “The Legacy of Skepticism”, *The Journal of Philosophy*, 69(20): 754–769. doi: 10.2307/2024672
+* Cohen, Stewart, 1988, “How to Be a Fallibilist”, *Philosophical Perspectives*, 2: 91–123. doi: 10.2307/2214070
+* –––, 1999, “Contextualism, Skepticism, and the Structure of Reasons”, *Philosophical Perspectives*, 13: 57–89. doi: 10.1111/0029-4624.33.s13.3
+* –––, 2001, “Contextualism Defended: Comments on Richard Feldman’s ‘Skeptical Problems, Contextualist Solutions’”, *Philosophical Studies*, 103(1): 87–98. doi: 10.1023/A: 1010345123470
+* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi: 10.1111/j.1933-1592.2002.tb00204.x
 * –––, 2013, “Contextualism Defended”, in Steup, Sosa, and Turri 2013: 56–62.
-* Comesaña, Juan, 2005a, “Unsafe Knowledge”, *Synthese*, 146(3): 395–404. doi:10.1007/s11229-004-6213-7
-* –––, 2005b, “We Are (Almost) All Externalists Now”, *Philosophical Perspectives*, 19: 59–76. doi:10.1111/j.1520-8583.2005.00053.x
-* –––, 2006, “A Well-Founded Solution to the Generality Problem”, *Philosophical Studies*, 129(1): 27–47. doi:10.1007/s11098-005-3020-z
-* –––, 2010, “Evidentialist Reliabilism”, *Noûs*, 44(4): 571–600. doi:10.1111/j.1468-0068.2010.00748.x
-* Comesaña, Juan and Holly Kantin, 2010, “Is Evidence Knowledge?”, *Philosophy and Phenomenological Research*, 80(2): 447–454. doi:10.1111/j.1933-1592.2010.00323.x
-* Comesaña, Juan and Matthew McGrath, 2016, “Perceptual Reasons”, *Philosophical Studies*, 173(4): 991–1006. doi:10.1007/s11098-015-0542-x
-* Conee, Earl, 1988, “The Basic Nature of Epistemic Justification”:, *Monist*, 71(3): 389–404. doi:10.5840/monist198871327
+* Comesaña, Juan, 2005a, “Unsafe Knowledge”, *Synthese*, 146(3): 395–404. doi: 10.1007/s11229-004-6213-7
+* –––, 2005b, “We Are (Almost) All Externalists Now”, *Philosophical Perspectives*, 19: 59–76. doi: 10.1111/j.1520-8583.2005.00053.x
+* –––, 2006, “A Well-Founded Solution to the Generality Problem”, *Philosophical Studies*, 129(1): 27–47. doi: 10.1007/s11098-005-3020-z
+* –––, 2010, “Evidentialist Reliabilism”, *Noûs*, 44(4): 571–600. doi: 10.1111/j.1468-0068.2010.00748.x
+* Comesaña, Juan and Holly Kantin, 2010, “Is Evidence Knowledge?”, *Philosophy and Phenomenological Research*, 80(2): 447–454. doi: 10.1111/j.1933-1592.2010.00323.x
+* Comesaña, Juan and Matthew McGrath, 2016, “Perceptual Reasons”, *Philosophical Studies*, 173(4): 991–1006. doi: 10.1007/s11098-015-0542-x
+* Conee, Earl, 1988, “The Basic Nature of Epistemic Justification”:, *Monist*, 71(3): 389–404. doi: 10.5840/monist198871327
 * –––, 2004, “The Truth Connection”, in Conee and Feldman 2004: 242–258.
 * –––, 2013, “Contextualism Contested”, in Steup, Sosa, and Turri 2013: 47–56.
-* Conee, Earl and Richard Feldman, 1998 [2004], “The Generality Problem for Reliabilism”, *Philosophical Studies*, 89(1): 1–29. Reprinted in Conee and Feldman 2004: 135–165. doi:10.1023/A:1004243308503
+* Conee, Earl and Richard Feldman, 1998 [2004], “The Generality Problem for Reliabilism”, *Philosophical Studies*, 89(1): 1–29. Reprinted in Conee and Feldman 2004: 135–165. doi: 10.1023/A: 1004243308503
 * Conee, Earl and Richard Feldman, 2001 [2004], “Internalism Defended”, in Kornblith 2001: 231–60. Reprinted in Conee and Feldman 2004: 53–82.
-* –––, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
+* –––, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi: 10.1093/0199253722.001.0001
 * –––, 2008, “Evidence”, in Q. Smith 2008: chapter 4.
-* Craig, Edward, 1990, *Knowledge and the State of Nature : An Essay in Conceptual Synthesis*, Oxford: Clarendon Press. doi:10.1093/0198238797.001.0001
+* Craig, Edward, 1990, *Knowledge and the State of Nature : An Essay in Conceptual Synthesis*, Oxford: Clarendon Press. doi: 10.1093/0198238797.001.0001
 * Dancy, Jonathan, 1985, *An Introduction to Contemporary Epistemology*, Oxford: Blackwell.
 * David, Marian, 2001, “Truth and the Epistemic Goal”, in Steup 2001a: 151–169.
 * Davidson, Donald, 1986, “A Coherence Theory of Truth and Knowledge”, in *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson*, Ernest LePore (ed.), Oxford: Blackwell, 307–319.
 * DePaul, Michael R. (ed.), 2001, *Resurrecting Old-Fashioned Foundationalism*, (Studies in Epistemology and Cognitive Theory), Lanham, MD: Rowman & Littlefield.
-* DeRose, Keith, 1991, “Epistemic Possibilities”, *The Philosophical Review*, 100(4): 581–605. doi:10.2307/2185175
-* –––, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929. doi:10.2307/2107917
-* –––, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52. doi:10.2307/2186011
-* –––, 1999, “Contextualism: An Explanation and Defense”, in Greco and Sosa 1999: 187–205. doi:10.1002/9781405164863.ch8
-* –––, 2002, “Assertion, Knowledge, and Context”, *The Philosophical Review*, 111(2): 167–203. doi:10.2307/3182618
-* –––, 2005, “Direct Warrant Realism”, in *God and the Ethics of Belief*, Andrew Dole and Andrew Chignell (eds.), Cambridge: Cambridge University Press, 150–172. doi:10.1017/CBO9780511499166.008 [[DeRose 2005 draft available online](https://campuspress.yale.edu/keithderose/files/2015/12/DWR-29gimtu.pdf)]
-* –––, 2009, *The Case for Contextualism*, (Knowledge, Skepticism, and Context 1), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199564460.001.0001
+* DeRose, Keith, 1991, “Epistemic Possibilities”, *The Philosophical Review*, 100(4): 581–605. doi: 10.2307/2185175
+* –––, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929. doi: 10.2307/2107917
+* –––, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52. doi: 10.2307/2186011
+* –––, 1999, “Contextualism: An Explanation and Defense”, in Greco and Sosa 1999: 187–205. doi: 10.1002/9781405164863.ch8
+* –––, 2002, “Assertion, Knowledge, and Context”, *The Philosophical Review*, 111(2): 167–203. doi: 10.2307/3182618
+* –––, 2005, “Direct Warrant Realism”, in *God and the Ethics of Belief*, Andrew Dole and Andrew Chignell (eds.), Cambridge: Cambridge University Press, 150–172. doi: 10.1017/CBO9780511499166.008 [[DeRose 2005 draft available online](https://campuspress.yale.edu/keithderose/files/2015/12/DWR-29gimtu.pdf)]
+* –––, 2009, *The Case for Contextualism*, (Knowledge, Skepticism, and Context 1), Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199564460.001.0001
 * DeRose, Keith and Ted A. Warfield, 1999, *Skepticism: A Contemporary Reader*, Oxford: Oxford University Press.
 * Devitt, Michael, 2014, “We Don’t Learn about the World by Examining Concepts”, in Neta (ed.) 2014: 23–33.
-* Dodd, Dylan and Elia Zardini (eds.), 2014, *Scepticism and Perceptual Justification*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658343.001.0001
-* Dotson, Kristie, 2014, “Conceptualizing Epistemic Oppression”, *Social Epistemology*, 28(2): 115–138. doi:10.1080/02691728.2013.782585
-* Dretske, Fred I., 1970, “Epistemic Operators”, *The Journal of Philosophy*, 67(24): 1007–1023. doi:10.2307/2024710
-* –––, 1971, “Conclusive Reasons”, *Australasian Journal of Philosophy*, 49(1): 1–22. doi:10.1080/00048407112341001
+* Dodd, Dylan and Elia Zardini (eds.), 2014, *Scepticism and Perceptual Justification*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199658343.001.0001
+* Dotson, Kristie, 2014, “Conceptualizing Epistemic Oppression”, *Social Epistemology*, 28(2): 115–138. doi: 10.1080/02691728.2013.782585
+* Dretske, Fred I., 1970, “Epistemic Operators”, *The Journal of Philosophy*, 67(24): 1007–1023. doi: 10.2307/2024710
+* –––, 1971, “Conclusive Reasons”, *Australasian Journal of Philosophy*, 49(1): 1–22. doi: 10.1080/00048407112341001
 * –––, 1981, *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
 * Dretske, Fred and John Hawthorne, 2005 [2013], “Is Knowledge Closed under Known Entailment?”, in CDE-1: 13–46 (chapter 1). Second edition in CDE-2: 27–59 (chapter 2). Includes
   * Dretske, Fred, “The Case Against Closure”, CDE-1: 13–26; CDE-2: 27–40.
   * Hawthorne, John, “The Case for Closure”, CDE-1: 26–43; CDE-2: 40–56.and a reply to Hawthorne by Dretske.
 * Egan, Andy, John Hawthorne, and Brian Weatherson, 2005, “Epistemic Modals in Context”, in *Contextualism in Philosophy: Knowledge, Meaning, and Truth*, Gerhard Preyer and Georg Peter (eds.), Oxford: Clarendon Press, 131–170.
-* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem”, *Analysis*, 60(2): 143–147. doi:10.1093/analys/60.2.143
-* –––, 2007, “Reflection and Disagreement”, *Noûs*, 41(3): 478–502. doi:10.1111/j.1468-0068.2007.00656.x
+* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem”, *Analysis*, 60(2): 143–147. doi: 10.1093/analys/60.2.143
+* –––, 2007, “Reflection and Disagreement”, *Noûs*, 41(3): 478–502. doi: 10.1111/j.1468-0068.2007.00656.x
 * –––, 2010, “Subjective Probabilities Should Be Sharp”, *Philosopher’s Imprint*, 10: article 5. [[Elga 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.005)]
 * Elgin, Catherine Z., 1996, *Considered Judgment*, Princeton, NJ: Princeton University Press.
 * Elgin, Catherine Z. and James Van Cleve, 2005 [2013], “Can Beliefs Be Justified through Coherence Alone?”, in CDE-1: 156–180 (chapter 6); second edition in CDE-2: 244– 273 (chapter 10). Includes
   * Elgin Catherine, Z., “Non-Foundationalist Epistemology: Holism, Coherence, and Tenability”, CDE-1: 156–167; CDE-2: 244–255.
   * Van Cleve, James, “Why Coherence Is Not Enough: A Defense of Moderate Foundationalism”, CDE-1: 168–180; CDE-2: 255–267.and replies by both to each other (CDE-2 only).
-* Engel, Mylan, 1992, “Is Epistemic Luck Compatible with Knowledge?”, *The Southern Journal of Philosophy*, 30(2): 59–75. doi:10.1111/j.2041-6962.1992.tb01715.x
-* –––, 2004, “What’s Wrong with Contextualism, and a Noncontextualist Resolution of the Skeptical Paradox”, *Erkenntnis*, 61(2–3): 203–231. doi:10.1007/s10670-004-9278-2
-* Fantl, Jeremy and Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550623.001.0001
+* Engel, Mylan, 1992, “Is Epistemic Luck Compatible with Knowledge?”, *The Southern Journal of Philosophy*, 30(2): 59–75. doi: 10.1111/j.2041-6962.1992.tb01715.x
+* –––, 2004, “What’s Wrong with Contextualism, and a Noncontextualist Resolution of the Skeptical Paradox”, *Erkenntnis*, 61(2–3): 203–231. doi: 10.1007/s10670-004-9278-2
+* Fantl, Jeremy and Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199550623.001.0001
 * Feldman, Fred, 1986, *A Cartesian Introduction to Philosophy*, New York: McGraw Hill.
-* Feldman, Richard, 1988, “Epistemic Obligations”, *Philosophical Perspectives*, 2: 235–256. doi:10.2307/2214076
-* –––, 1999a, “Methodological Naturalism in Epistemology”, in Greco and Sosa 1999: 170–186. doi:10.1002/9781405164863.ch7
-* –––, 1999b, “Contextualism and Skepticism”, *Philosophical Perspectives*, 13: 91–114. doi:10.1111/0029-4624.33.s13.4
+* Feldman, Richard, 1988, “Epistemic Obligations”, *Philosophical Perspectives*, 2: 235–256. doi: 10.2307/2214076
+* –––, 1999a, “Methodological Naturalism in Epistemology”, in Greco and Sosa 1999: 170–186. doi: 10.1002/9781405164863.ch7
+* –––, 1999b, “Contextualism and Skepticism”, *Philosophical Perspectives*, 13: 91–114. doi: 10.1111/0029-4624.33.s13.4
 * –––, 2001a, “Voluntary Belief and Epistemic Evaluation”, in Steup 2001a: 77–92.
-* –––, 2001b, “Skeptical Problems, Contextualist Solutions”, *Philosophical Studies*, 103(1): 61–85. doi:10.1023/A:1010393022562
+* –––, 2001b, “Skeptical Problems, Contextualist Solutions”, *Philosophical Studies*, 103(1): 61–85. doi: 10.1023/A: 1010393022562
 * –––, 2003, *Epistemology*, Upper Saddle River, NJ: Prentice Hall.
-* Feldman, Richard and Earl Conee, 1985, “Evidentialism”, *Philosophical Studies*, 48(1): 15–34. doi:10.1007/BF00372404
+* Feldman, Richard and Earl Conee, 1985, “Evidentialism”, *Philosophical Studies*, 48(1): 15–34. doi: 10.1007/BF00372404
 * Firth, Roderick, 1978 [1998], “The Schneck Lectures, Lecture 1: Epistemic Utility”, in Firth 1998: 317–333. First delivered as a lecture at the University of Arizona, 1978.
 * –––, 1998, *In Defense of Radical Empiricism: Essays and Lectures*, John Troyer (ed.), Lanham, MD: Rowman and Littlefield.
-* Fraser, Rachel Elizabeth, 2016, “Risk, Doubt, and Transmission”, *Philosophical Studies*, 173(10): 2803–2821. doi:10.1007/s11098-016-0638-y
-* Friedman, Jane, 2013a, “Suspended Judgment”, *Philosophical Studies*, 162(2): 165–181. doi:10.1007/s11098-011-9753-y
-* –––, 2013, “Question-Directed Attitudes”, *Philosophical Perspectives*, 27: 145–174. doi:10.1111/phpe.12026
-* –––, 2017, “Why Suspend Judging?”, *Noûs*, 51(2): 302–326. doi:10.1111/nous.12137
-* –––, 2018, “Junk Beliefs and Interest-Driven Epistemology”, *Philosophy and Phenomenological Research*, 97(3): 568–583. doi:10.1111/phpr.12381
-* –––, 2019, “Inquiry and Belief”, *Noûs*, 53(2): 296–315. doi:10.1111/nous.12222
+* Fraser, Rachel Elizabeth, 2016, “Risk, Doubt, and Transmission”, *Philosophical Studies*, 173(10): 2803–2821. doi: 10.1007/s11098-016-0638-y
+* Friedman, Jane, 2013a, “Suspended Judgment”, *Philosophical Studies*, 162(2): 165–181. doi: 10.1007/s11098-011-9753-y
+* –––, 2013, “Question-Directed Attitudes”, *Philosophical Perspectives*, 27: 145–174. doi: 10.1111/phpe.12026
+* –––, 2017, “Why Suspend Judging?”, *Noûs*, 51(2): 302–326. doi: 10.1111/nous.12137
+* –––, 2018, “Junk Beliefs and Interest-Driven Epistemology”, *Philosophy and Phenomenological Research*, 97(3): 568–583. doi: 10.1111/phpr.12381
+* –––, 2019, “Inquiry and Belief”, *Noûs*, 53(2): 296–315. doi: 10.1111/nous.12222
 * Foley, Richard, 1987, *The Theory of Epistemic Rationality*, Cambridge, MA: Harvard University Press.
-* Fricker, Elizabeth, 1994, “Against Gullibility”, in *Knowing from Words: Western and Indian Philosophical Analysis of Understanding and Testimony*, Bimal Krishna Matilal and Arindam Chakrabarti (eds.), Dordrecht: Springer Netherlands, 125–161. doi:10.1007/978-94-017-2018-2_8
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* Fricker, Elizabeth, 1994, “Against Gullibility”, in *Knowing from Words: Western and Indian Philosophical Analysis of Understanding and Testimony*, Bimal Krishna Matilal and Arindam Chakrabarti (eds.), Dordrecht: Springer Netherlands, 125–161. doi: 10.1007/978-94-017-2018-2_8
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
 * Fumerton, Richard A., 1995, *Metaepistemology and Skepticism*, (Studies in Epistemology and Cognitive Theory), Lanham, MD: Rowman & Littlefield.
 * –––, 2001, “Classical Foundationalism”, in DePaul 2001: 3–20.
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Gendler, Tamar Szabó and John Hawthorne, 2005, “The Real Guide to Fake Barns: A Catalogue of Gifts for Your Epistemic Enemies”, *Philosophical Studies*, 124(3): 331–352. doi:10.1007/s11098-005-7779-8
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi: 10.1093/analys/23.6.121
+* Gendler, Tamar Szabó and John Hawthorne, 2005, “The Real Guide to Fake Barns: A Catalogue of Gifts for Your Epistemic Enemies”, *Philosophical Studies*, 124(3): 331–352. doi: 10.1007/s11098-005-7779-8
 * Gertler, Brie, 2011, *Self-Knowledge*, (New Problems of Philosophy), New York: Routledge.
-* Ginet, Carl, 1975, *Knowledge, Perception and Memory*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-9451-1
-* –––, 1980, “Knowing Less by Knowing More”, *Midwest Studies In Philosophy*, 5: 151–162. doi:10.1111/j.1475-4975.1980.tb00402.x
-* Goldberg, Sanford C., 2015, “What Is the Subject-Matter of the Theory of Epistemic Justification?”, in *Epistemic Evaluation: Purposeful Epistemology*, David K. Henderson and John Greco (eds.), Oxford: Oxford University Press, 204–223. doi:10.1093/acprof:oso/9780199642632.003.0009
-* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi:10.2307/2025679
-* –––, 1979, “What Is Justified Belief?”, in *Justification and Knowledge: New Studies in Epistemology*, George Sotiros Pappas (ed.), Dordrecht: Reidel, 1–23. doi:10.1007/978-94-009-9493-5_1
+* Ginet, Carl, 1975, *Knowledge, Perception and Memory*, Dordrecht: Springer Netherlands. doi: 10.1007/978-94-010-9451-1
+* –––, 1980, “Knowing Less by Knowing More”, *Midwest Studies In Philosophy*, 5: 151–162. doi: 10.1111/j.1475-4975.1980.tb00402.x
+* Goldberg, Sanford C., 2015, “What Is the Subject-Matter of the Theory of Epistemic Justification?”, in *Epistemic Evaluation: Purposeful Epistemology*, David K. Henderson and John Greco (eds.), Oxford: Oxford University Press, 204–223. doi: 10.1093/acprof: oso/9780199642632.003.0009
+* Goldman, Alvin I., 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi: 10.2307/2025679
+* –––, 1979, “What Is Justified Belief?”, in *Justification and Knowledge: New Studies in Epistemology*, George Sotiros Pappas (ed.), Dordrecht: Reidel, 1–23. doi: 10.1007/978-94-009-9493-5_1
 * –––, 1986, *Epistemology and Cognition*, Cambridge, MA: Harvard University Press.
-* –––, 1993, “Epistemic Folkways and Scientific Epistemology”, in *Philosophical Perspectives*, 3: 271–295. doi:10.2307/1522948
-* –––, 1999a, “Internalism Exposed”:, *Journal of Philosophy*, 96(6): 271–293. doi:10.2307/2564679
-* –––, 1999b, *Knowledge in a Social World*, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
-* Greco, John, 1993, “Virtues and Vices of Virtue Epistemology”, *Canadian Journal of Philosophy*, 23(3): 413–432. doi:10.1080/00455091.1993.10717329
-* –––, 1999, “Agent Reliabilism”, *Philosophical Perspectives*, 13: 273–296. doi:10.1111/0029-4624.33.s13.13
-* –––, 2000, *Putting Skeptics in Their Place: The Nature of Skeptical Arguments and Their Role in Philosophical Inquiry*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527418
+* –––, 1993, “Epistemic Folkways and Scientific Epistemology”, in *Philosophical Perspectives*, 3: 271–295. doi: 10.2307/1522948
+* –––, 1999a, “Internalism Exposed”:, *Journal of Philosophy*, 96(6): 271–293. doi: 10.2307/2564679
+* –––, 1999b, *Knowledge in a Social World*, Oxford: Oxford University Press. doi: 10.1093/0198238207.001.0001
+* Greco, John, 1993, “Virtues and Vices of Virtue Epistemology”, *Canadian Journal of Philosophy*, 23(3): 413–432. doi: 10.1080/00455091.1993.10717329
+* –––, 1999, “Agent Reliabilism”, *Philosophical Perspectives*, 13: 273–296. doi: 10.1111/0029-4624.33.s13.13
+* –––, 2000, *Putting Skeptics in Their Place: The Nature of Skeptical Arguments and Their Role in Philosophical Inquiry*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511527418
 * Greco, John and Richard Feldman, 2005 [2013], “Is Justification Internal?”, in CDE-1: 257–284 (chapter 9); second edition in CDE-2: 324–362 (chapter 13). Includes
   * Greco, John, “Justification is Not Internal”, CDE-1: 257–270; CDE-2: 325–337.
   * Feldman, Richard, “Justification is Internal”, CDE-1: 270–284; CDE-2: 337–362.
-* Greco, John and Ernest Sosa (eds.), 1999, *The Blackwell Guide to Epistemology*, Oxford, UK: Blackwell. doi:10.1002/9781405164863
+* Greco, John and Ernest Sosa (eds.), 1999, *The Blackwell Guide to Epistemology*, Oxford, UK: Blackwell. doi: 10.1002/9781405164863
 * Gupta, Anil, 2019, *Conscious Experience: A Logical Inquiry*, Cambridge, MA: Harvard University Press.
 * Haack, Susan, 1993, *Evidence and Inquiry: Towards Reconstruction in Epistemology*, Oxford: Blackwell.
 * –––, 2001, “‘The Ethics of Belief’ Reconsidered”, in Steup 2001a: 21–33.
 * Harman, Gilbert, 1973, *Thought*, Princeton, NJ: Princeton University Press.
 * –––, 1986, *Change in View: Principles of Reasoning*, Cambridge, MA: MIT Press.
-* Haslanger, Sally, 1999, “What Knowledge Is and What It Ought to Be: Feminist Values and Normative Epistemology”, *Philosophical Perspectives*, 13: 459–480. doi:10.1111/0029-4624.33.s13.20
-* Hawthorne, John, 2003, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi:10.1093/0199269556.001.0001
-* Hawthorne, John and Jason Stanley, 2008, “Knowledge and Action”:, *Journal of Philosophy*, 105(10): 571–590. doi:10.5840/jphil20081051022
-* Hedden, Brian, 2015a, “Time-Slice Rationality”, *Mind*, 124(494): 449–491. doi:10.1093/mind/fzu181
-* –––, 2015b, *Reasons without Persons: Rationality, Identity, and Time*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732594.001.0001
-* Hetherington, Stephen, 1999, “Knowing Failably”, *The Journal of Philosophy*, 96(11): 565–587. doi:10.2307/2564624
-* –––, 2001, *Good Knowledge, Bad Knowledge: On Two Dogmas of Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247349.001.0001
-* Horowitz, Sophie, 2014, “Epistemic Akrasia: Epistemic Akrasia”, *Noûs*, 48(4): 718–744. doi:10.1111/nous.12026
+* Haslanger, Sally, 1999, “What Knowledge Is and What It Ought to Be: Feminist Values and Normative Epistemology”, *Philosophical Perspectives*, 13: 459–480. doi: 10.1111/0029-4624.33.s13.20
+* Hawthorne, John, 2003, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi: 10.1093/0199269556.001.0001
+* Hawthorne, John and Jason Stanley, 2008, “Knowledge and Action”:, *Journal of Philosophy*, 105(10): 571–590. doi: 10.5840/jphil20081051022
+* Hedden, Brian, 2015a, “Time-Slice Rationality”, *Mind*, 124(494): 449–491. doi: 10.1093/mind/fzu181
+* –––, 2015b, *Reasons without Persons: Rationality, Identity, and Time*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732594.001.0001
+* Hetherington, Stephen, 1999, “Knowing Failably”, *The Journal of Philosophy*, 96(11): 565–587. doi: 10.2307/2564624
+* –––, 2001, *Good Knowledge, Bad Knowledge: On Two Dogmas of Epistemology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199247349.001.0001
+* Horowitz, Sophie, 2014, “Epistemic Akrasia: Epistemic Akrasia”, *Noûs*, 48(4): 718–744. doi: 10.1111/nous.12026
 * Huemer, Michael, 2001, *Skepticism and the Veil of Perception*, (Studies in Epistemology and Cognitive Theory), Lanham, MD: Rowman & Littlefield Publishers.
-* Hyman, John, 1999, “How Knowledge Works”, *The Philosophical Quarterly*, 49(197): 433–451. doi:10.1111/1467-9213.00152
-* Ichikawa, Jonathan Jenkins, 2017, *Contextualising Knowledge: Epistemology and Semantics*, Oxford: Oxford University Press. doi:10.1093/oso/9780199682706.001.0001
-* Ichikawa, Jonathan and Benjamin Jarvis, 2009, “Thought-Experiment Intuitions and Truth in Fiction”, *Philosophical Studies*, 142(2): 221–246. doi:10.1007/s11098-007-9184-y
+* Hyman, John, 1999, “How Knowledge Works”, *The Philosophical Quarterly*, 49(197): 433–451. doi: 10.1111/1467-9213.00152
+* Ichikawa, Jonathan Jenkins, 2017, *Contextualising Knowledge: Epistemology and Semantics*, Oxford: Oxford University Press. doi: 10.1093/oso/9780199682706.001.0001
+* Ichikawa, Jonathan and Benjamin Jarvis, 2009, “Thought-Experiment Intuitions and Truth in Fiction”, *Philosophical Studies*, 142(2): 221–246. doi: 10.1007/s11098-007-9184-y
 * James, William, 1896, “The Will to Believe”, *The New World*, 5: 327–347.
-* Jenkins, C. S., 2008, *Grounding Concepts: An Empirical Basis for Arithmetical Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231577.001.0001
-* –––, 2014, “What Can We Know A Priori?”, in Neta (ed.) 2014: 11&nash;22.
-* Jones, Karen, 2012, “Trustworthiness”, *Ethics*, 123(1): 61–85. doi:10.1086/667838
-* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism”, *Philosophy of Science*, 65(4): 575–603. doi:10.1086/392661
-* Kaplan, Mark, 1981, “A Bayesian Theory of Rational Acceptance”, *The Journal of Philosophy*, 78(6): 305–330. doi:10.2307/2026127
-* –––, 1985, “It’s Not What You Know That Counts”, *The Journal of Philosophy*, 82(7): 350–363. doi:10.2307/2026524
-* –––, 1991, “Epistemology on Holiday”, *The Journal of Philosophy*, 88(3): 132–154. doi:10.2307/2026985
-* –––, 1996, *Decision Theory as Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511804847
-* Kiesewetter, Benjamin, 2017, *The Normativity of Rationality*, Oxford: Oxford University Press. doi:10.1093/oso/9780198754282.001.0001
-* Kelly, Thomas, 2002, “The Rationality of Belief and Some Other Propositional Attitudes”, *Philosophical Studies*, 110(2): 163–196. doi:10.1023/A:1020212716425
+* Jenkins, C. S., 2008, *Grounding Concepts: An Empirical Basis for Arithmetical Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199231577.001.0001
+* –––, 2014, “What Can We Know A Priori?”, in Neta (ed.) 2014: 11&nash; 22.
+* Jones, Karen, 2012, “Trustworthiness”, *Ethics*, 123(1): 61–85. doi: 10.1086/667838
+* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism”, *Philosophy of Science*, 65(4): 575–603. doi: 10.1086/392661
+* Kaplan, Mark, 1981, “A Bayesian Theory of Rational Acceptance”, *The Journal of Philosophy*, 78(6): 305–330. doi: 10.2307/2026127
+* –––, 1985, “It’s Not What You Know That Counts”, *The Journal of Philosophy*, 82(7): 350–363. doi: 10.2307/2026524
+* –––, 1991, “Epistemology on Holiday”, *The Journal of Philosophy*, 88(3): 132–154. doi: 10.2307/2026985
+* –––, 1996, *Decision Theory as Philosophy*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511804847
+* Kiesewetter, Benjamin, 2017, *The Normativity of Rationality*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198754282.001.0001
+* Kelly, Thomas, 2002, “The Rationality of Belief and Some Other Propositional Attitudes”, *Philosophical Studies*, 110(2): 163–196. doi: 10.1023/A: 1020212716425
 * Kelly, Tom, 2005, “The Epistemic Significance of Disagreement”, in *Oxford Studies in Epistemology, Volume 1*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Clarendon Press, 167–196.
 * Kern, Andrea, 2006 [2017], *Quellen des Wissens: Zum Begriff vernünftiger Erkenntnisfähigkeit*, Frankfurt am Main: Suhrkamp Verlag. Translated as *Sources of Knowledge: On the Concept of a Rational Capacity for Knowledge*, Daniel Smythe (trans.), Cambridge, MA: Harvard University Press, 2017.
-* Klein, Peter D., 1999, “Human Knowledge and the Infinite Regress of Reasons”, *Philosophical Perspectives*, 13: 297–325. doi:10.1111/0029-4624.33.s13.14
+* Klein, Peter D., 1999, “Human Knowledge and the Infinite Regress of Reasons”, *Philosophical Perspectives*, 13: 297–325. doi: 10.1111/0029-4624.33.s13.14
 * Klein, Peter D. and Carl Ginet, 2005 [2013], “Is Infinitism the Solution to the Regress Problem?”, in CDE-1: 131–155 (chapter 5); second edition in CDE-2: 274– (chapter 11). Includes
   * Klein, Peter, “Infinitism is the Solution to the Regress Problem”, CDE-1: 131–139; CDE-2: 274–283.
   * Ginet, Carl, “Infinitism is not the Solution to the Regress Problem”, CDE-1: 140–149; CDE-2: 283–291.and replies by both to each other.
-* Kornblith, Hilary, 1983, “Justified Belief and Epistemically Responsible Action”, *The Philosophical Review*, 92(1): 33. doi:10.2307/2184520
-* –––, 1999, “In Defense of a Naturalized Epistemology”, in Greco and Sosa 1999: 158–169. doi:10.1002/9781405164863.ch6
+* Kornblith, Hilary, 1983, “Justified Belief and Epistemically Responsible Action”, *The Philosophical Review*, 92(1): 33. doi: 10.2307/2184520
+* –––, 1999, “In Defense of a Naturalized Epistemology”, in Greco and Sosa 1999: 158–169. doi: 10.1002/9781405164863.ch6
 * ––– (ed.), 2001, *Epistemology: Internalism and Externalism* (Blackwell Readings in Philosophy: Volume 2), Malden, MA: Blackwell Publishers.
-* –––, 2002, *Knowledge and Its Place in Nature*, Oxford: Oxford University Press. doi:10.1093/0199246319.001.0001
-* Korsgaard, Christine M., 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
+* –––, 2002, *Knowledge and Its Place in Nature*, Oxford: Oxford University Press. doi: 10.1093/0199246319.001.0001
+* Korsgaard, Christine M., 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552795.001.0001
 * Kvanvig, Jonathan L., 1992, *The Intellectual Virtues and the Life of the Mind: On the Place of the Virtues in Epistemology*, (Studies in Epistemology and Cognitive Theory), Savage, MD: Rowman & Littlefield Publishers.
 * ––– (ed.), 1996, *Warrant in Contemporary Epistemology: Essays in Honor of Plantinga’s Theory of Knowledge*, Lanham, MD: Rowman & Littlefield Publishers.
 * Kvanvig, Jonathan L. and Marian David, 2005 [2013], “Is Truth the Primary Epistemic Goal?”, in CDE-1: 285–312 (chapter 10); second edition in CDE-2: 351–377 (chapter 14). Includes:
   * Kvanvig, Jonathan L., “Truth Is not the Primary Epistemic Goal”, CDE-1: 285–295; CDE-2: 352–362.
   * David, Marian, “Truth as the Primary Epistemic Goal: A Working Hypothesis”, CDE-1: 296–312; CDE-2: 363–377.
-* Lackey, Jennifer, 2003, “A Minimal Expression of Non-Reductionism in the Epistemology of Testimony”, *Noûs*, 37(4): 706–723. doi:10.1046/j.1468-0068.2003.00457.x
-* –––, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219162.001.0001
-* Lackey, Jennifer and Ernest Sosa (eds.), 2006, *The Epistemology of Testimony*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199276011.001.0001
-* Lando, Tamar, 2016, “Conclusive Reasons and Epistemic Luck”, *Australasian Journal of Philosophy*, 94(2): 378–395. doi:10.1080/00048402.2015.1058830
-* Lasonen-Aarnio, Maria, 2008, “Single Premise Deduction and Risk”, *Philosophical Studies*, 141(2): 157–173. doi:10.1007/s11098-007-9157-1
-* –––, 2010, “Unreasonable Knowledge”, *Philosophical Perspectives*, 24: 1–21. doi:10.1111/j.1520-8583.2010.00183.x
-* –––, 2014a, “Higher-Order Evidence and the Limits of Defeat”, *Philosophy and Phenomenological Research*, 88(2): 314–345. doi:10.1111/phpr.12090
-* –––, 2014b, “The Dogmatism Puzzle”, *Australasian Journal of Philosophy*, 92(3): 417–432. doi:10.1080/00048402.2013.834949
-* –––, forthcoming, “Enkrasia or Evidentialism? Learning to Love Mismatch”, *Philosophical Studies*, first online: 28 November 2018. doi:10.1007/s11098-018-1196-2
-* Lawlor, Krista, 2013, *Assurance: An Austinian View of Knowledge and Knowledge Claims*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199657896.001.0001
+* Lackey, Jennifer, 2003, “A Minimal Expression of Non-Reductionism in the Epistemology of Testimony”, *Noûs*, 37(4): 706–723. doi: 10.1046/j.1468-0068.2003.00457.x
+* –––, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199219162.001.0001
+* Lackey, Jennifer and Ernest Sosa (eds.), 2006, *The Epistemology of Testimony*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199276011.001.0001
+* Lando, Tamar, 2016, “Conclusive Reasons and Epistemic Luck”, *Australasian Journal of Philosophy*, 94(2): 378–395. doi: 10.1080/00048402.2015.1058830
+* Lasonen-Aarnio, Maria, 2008, “Single Premise Deduction and Risk”, *Philosophical Studies*, 141(2): 157–173. doi: 10.1007/s11098-007-9157-1
+* –––, 2010, “Unreasonable Knowledge”, *Philosophical Perspectives*, 24: 1–21. doi: 10.1111/j.1520-8583.2010.00183.x
+* –––, 2014a, “Higher-Order Evidence and the Limits of Defeat”, *Philosophy and Phenomenological Research*, 88(2): 314–345. doi: 10.1111/phpr.12090
+* –––, 2014b, “The Dogmatism Puzzle”, *Australasian Journal of Philosophy*, 92(3): 417–432. doi: 10.1080/00048402.2013.834949
+* –––, forthcoming, “Enkrasia or Evidentialism? Learning to Love Mismatch”, *Philosophical Studies*, first online: 28 November 2018. doi: 10.1007/s11098-018-1196-2
+* Lawlor, Krista, 2013, *Assurance: An Austinian View of Knowledge and Knowledge Claims*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199657896.001.0001
 * Lehrer, Keith, 1990, *Theory of Knowledge*, Boulder, CO: Westview Press.
-* Lehrer, Keith and Stewart Cohen, 1983, “Justification, Truth, and Coherence”, *Synthese*, 55(2): 191–207. doi:10.1007/BF00485068
-* Lewis, David, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567. doi:10.1080/00048409612347521
-* Littlejohn, Clayton, 2012, *Justification and the Truth-Connection*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139060097
+* Lehrer, Keith and Stewart Cohen, 1983, “Justification, Truth, and Coherence”, *Synthese*, 55(2): 191–207. doi: 10.1007/BF00485068
+* Lewis, David, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567. doi: 10.1080/00048409612347521
+* Littlejohn, Clayton, 2012, *Justification and the Truth-Connection*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139060097
 * Lloyd, Genevieve, 1984, *The Man of Reason: ‘Male’ and ‘Female’ in Western Philosophy*, Minneapolis, MN: University of Minnesota Press.
 * Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
-* –––, 1999, “Feminist Epistemology”, in Greco and Sosa 1999: 325–353. doi:10.1002/9781405164863.ch14
-* Lord, Errol, 2018, *The Importance of Being Rational*, Oxford: Oxford University Press. doi:10.1093/oso/9780198815099.001.0001
+* –––, 1999, “Feminist Epistemology”, in Greco and Sosa 1999: 325–353. doi: 10.1002/9781405164863.ch14
+* Lord, Errol, 2018, *The Importance of Being Rational*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198815099.001.0001
 * Lycan, William G., 1988, *Judgement and Justification*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press.
 * –––, 1996, “Plantinga and Coherentisms”, in Kvanvig 1996: 3–24.
-* Lyons, Jack C., 2009, *Perception and Basic Beliefs: Zombies, Modules and the Problem of the External World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195373578.001.0001
-* Maitra, Ishani, 2010, “The Nature of Epistemic Injustice”, *Philosophical Books*, 51(4): 195–211. doi:10.1111/j.1468-0149.2010.00511.x
-* Malmgren, Anna-Sara, 2006, “Is There A Priori Knowledge by Testimony?”, *The Philosophical Review*, 115(2): 199–241. doi:10.1215/00318108-2005-015
-* –––, 2011, “Rationalism and the Content of Intuitive Judgements”, *Mind*, 120(478): 263–327. doi:10.1093/mind/fzr039
-* –––, 2018, “Varieties of Inference?”, *Philosophical Issues*, 28: 221–254. doi:10.1111/phis.12123
-* Marušić, Berislav, 2015, *Evidence and Agency: Norms of Belief for Promising and Resolving*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714040.001.0001
+* Lyons, Jack C., 2009, *Perception and Basic Beliefs: Zombies, Modules and the Problem of the External World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195373578.001.0001
+* Maitra, Ishani, 2010, “The Nature of Epistemic Injustice”, *Philosophical Books*, 51(4): 195–211. doi: 10.1111/j.1468-0149.2010.00511.x
+* Malmgren, Anna-Sara, 2006, “Is There A Priori Knowledge by Testimony?”, *The Philosophical Review*, 115(2): 199–241. doi: 10.1215/00318108-2005-015
+* –––, 2011, “Rationalism and the Content of Intuitive Judgements”, *Mind*, 120(478): 263–327. doi: 10.1093/mind/fzr039
+* –––, 2018, “Varieties of Inference?”, *Philosophical Issues*, 28: 221–254. doi: 10.1111/phis.12123
+* Marušić, Berislav, 2015, *Evidence and Agency: Norms of Belief for Promising and Resolving*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198714040.001.0001
 * McCain, Kevin, 2014, *Evidentialism and Epistemic Justification*, New York: Routledge.
-* ––– (ed.), 2018, *Believing in Accordance with the Evidence: New Essays on Evidentialism*, Cham: Springer International Publishing. doi:10.1007/978-3-319-95993-1
+* ––– (ed.), 2018, *Believing in Accordance with the Evidence: New Essays on Evidentialism*, Cham: Springer International Publishing. doi: 10.1007/978-3-319-95993-1
 * McCormick, Miriam Schleifer, 2015, *Believing Against the Evidence: Agency and the Ethics of Belief*, New York: Routledge.
 * McDowell, John, 1982, “Criteria, Defeasibility, and Knowledge”, *Proceedings of the British Academy*, 68: 455–479.
 * –––, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* –––, 1995, “Knowledge and the Internal”, *Philosophy and Phenomenological Research*, 55(4): 877. doi:10.2307/2108338
-* McGinn, Colin, 1984, “The Concept of Knowledge”, *Midwest Studies in Philosophy*, 9: 529–554. doi:10.1111/j.1475-4975.1984.tb00076.x
-* McHugh, Conor, 2014, “Fitting Belief”, *Proceedings of the Aristotelian Society*, 114(2pt2): 167–187. doi:10.1111/j.1467-9264.2014.00369.x
-* McHugh, Conor and Jonathan Way, 2016, “Fittingness First”, *Ethics*, 126(3): 575–606. doi:10.1086/684712
-* –––, 2018a, “What Is Reasoning?”, *Mind*, 127(505): 167–196. doi:10.1093/mind/fzw068
-* –––, 2018b, “What Is Good Reasoning?”, *Philosophy and Phenomenological Research*, 96(1): 153–174. doi:10.1111/phpr.12299
-* Miracchi, Lisa, 2015, “Competence to Know”, *Philosophical Studies*, 172(1): 29–56. doi:10.1007/s11098-014-0325-9
-* –––, 2017a, “Perspectival Externalism Is the Antidote for Radical Skepticism”, *Episteme*, 14(3): 363–379. doi:10.1017/epi.2017.27
-* –––, 2017b, “Epistemic Agency and the Generality Problem”:, *Philosophical Topics*, 45(1): 107–120. doi:10.5840/philtopics20174516
-* –––, 2017c, “Perception First”, *The Journal of Philosophy*, 114(12): 629–677. doi:10.5840/jphil20171141244
-* Mitova, Veli, 2017, *Believable Evidence*, Cambridge: Cambridge University Press. doi:10.1017/9781316981276
+* –––, 1995, “Knowledge and the Internal”, *Philosophy and Phenomenological Research*, 55(4): 877. doi: 10.2307/2108338
+* McGinn, Colin, 1984, “The Concept of Knowledge”, *Midwest Studies in Philosophy*, 9: 529–554. doi: 10.1111/j.1475-4975.1984.tb00076.x
+* McHugh, Conor, 2014, “Fitting Belief”, *Proceedings of the Aristotelian Society*, 114(2pt2): 167–187. doi: 10.1111/j.1467-9264.2014.00369.x
+* McHugh, Conor and Jonathan Way, 2016, “Fittingness First”, *Ethics*, 126(3): 575–606. doi: 10.1086/684712
+* –––, 2018a, “What Is Reasoning?”, *Mind*, 127(505): 167–196. doi: 10.1093/mind/fzw068
+* –––, 2018b, “What Is Good Reasoning?”, *Philosophy and Phenomenological Research*, 96(1): 153–174. doi: 10.1111/phpr.12299
+* Miracchi, Lisa, 2015, “Competence to Know”, *Philosophical Studies*, 172(1): 29–56. doi: 10.1007/s11098-014-0325-9
+* –––, 2017a, “Perspectival Externalism Is the Antidote for Radical Skepticism”, *Episteme*, 14(3): 363–379. doi: 10.1017/epi.2017.27
+* –––, 2017b, “Epistemic Agency and the Generality Problem”:, *Philosophical Topics*, 45(1): 107–120. doi: 10.5840/philtopics20174516
+* –––, 2017c, “Perception First”, *The Journal of Philosophy*, 114(12): 629–677. doi: 10.5840/jphil20171141244
+* Mitova, Veli, 2017, *Believable Evidence*, Cambridge: Cambridge University Press. doi: 10.1017/9781316981276
 * Moore, G. E., 1939 [1959], “Proof of an External World”, *Proceedings of the British Academy*, 25: 273–300; reprinted in Moore 1959a: 126–148.
 * –––, 1959a, *Philosophical Papers*, London: Allen and Unwin.
 * –––, 1959b, “Certainty”, in Moore 1959a: 226–251.
 * –––, 1959c, “Four Forms of Scepticism”, in Moore 1959a: 193–222.
 * Montmarquet, James, 1993, *Epistemic Virtue and Doxastic Responsibility*, Lanham, MD: Rowman & Littlefield.
 * Moran, Richard, 2001, *Authority and Estrangement: An Essay on Self-Knowledge*, Princeton, NJ: Princeton University Press.
-* Moss, Sarah, 2013, “Epistemology Formalized”, *Philosophical Review*, 122(1): 1–43. doi:10.1215/00318108-1728705
-* –––, 2015, “Time–Slice Epistemology and Action under Indeterminacy”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 172–194. doi:10.1093/acprof:oso/9780198722762.003.0006
-* –––, 2018a, *Probabilistic Knowledge*, Oxford: Oxford University Press. doi:10.1093/oso/9780198792154.001.0001
-* –––, 2018, “Moral Encroachment”, *Proceedings of the Aristotelian Society*, 118(2): 177–205. doi:10.1093/arisoc/aoy007
-* –––, 2019, “Full Belief and Loose Speech”, *The Philosophical Review*, 128(3): 255–291. doi:10.1215/00318108-7537270
-* Nagel, Jennifer, 2008, “Knowledge Ascriptions and the Psychological Consequences of Changing Stakes”, *Australasian Journal of Philosophy*, 86(2): 279–294. doi:10.1080/00048400801886397
-* –––, 2010, “Knowledge Ascriptions and the Psychological Consequences of Thinking about Error”, *The Philosophical Quarterly*, 60(239): 286–306. doi:10.1111/j.1467-9213.2009.624.x
-* Nelkin, Dana K., 2000, “The Lottery Paradox, Knowledge, and Rationality”, *Philosophical Review*, 109(3): 373–408. doi:10.1215/00318108-109-3-373
-* Neta, Ram, 2002, “S Knows That P”, *Noûs*, 36(4): 663–681. doi:10.1111/1468-0068.00406
-* –––, 2003, “Contextualism and the Problem of the External World”, *Philosophy and Phenomenological Research*, 66(1): 1–31. doi:10.1111/j.1933-1592.2003.tb00241.x
-* –––, 2004, “Skepticism, Abductivism, and the Explanatory Gap”, *Philosophical Issues*, 14: 296–325. doi:10.1111/j.1533-6077.2004.00032.x
-* –––, 2008, “What Evidence Do You Have?”, *The British Journal for the Philosophy of Science*, 59(1): 89–119. doi:10.1093/bjps/axn003
-* –––, 2009, “Treating Something as a Reason for Action”, *Noûs*, 43(4): 684–699. doi:10.1111/j.1468-0068.2009.00724.x
-* ––– (ed.), 2014, *Current Controversies in Epistemology*, New York: Routledge. doi:10.4324/9780203123522
-* –––, 2018, “Evidence, Coherence and Epistemic Akrasia”, *Episteme*, 15(3): 313–328. doi:10.1017/epi.2018.25
-* –––, 2019, “The Basing Relation”, *The Philosophical Review*, 128(2): 179–217. doi:10.1215/00318108-7374945
-* –––, forthcoming, “An Evidentialist Account of Hinges”, *Synthese*, first online: 30 January 2019. doi:10.1007/s11229-018-02061-0
+* Moss, Sarah, 2013, “Epistemology Formalized”, *Philosophical Review*, 122(1): 1–43. doi: 10.1215/00318108-1728705
+* –––, 2015, “Time–Slice Epistemology and Action under Indeterminacy”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 172–194. doi: 10.1093/acprof: oso/9780198722762.003.0006
+* –––, 2018a, *Probabilistic Knowledge*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198792154.001.0001
+* –––, 2018, “Moral Encroachment”, *Proceedings of the Aristotelian Society*, 118(2): 177–205. doi: 10.1093/arisoc/aoy007
+* –––, 2019, “Full Belief and Loose Speech”, *The Philosophical Review*, 128(3): 255–291. doi: 10.1215/00318108-7537270
+* Nagel, Jennifer, 2008, “Knowledge Ascriptions and the Psychological Consequences of Changing Stakes”, *Australasian Journal of Philosophy*, 86(2): 279–294. doi: 10.1080/00048400801886397
+* –––, 2010, “Knowledge Ascriptions and the Psychological Consequences of Thinking about Error”, *The Philosophical Quarterly*, 60(239): 286–306. doi: 10.1111/j.1467-9213.2009.624.x
+* Nelkin, Dana K., 2000, “The Lottery Paradox, Knowledge, and Rationality”, *Philosophical Review*, 109(3): 373–408. doi: 10.1215/00318108-109-3-373
+* Neta, Ram, 2002, “S Knows That P”, *Noûs*, 36(4): 663–681. doi: 10.1111/1468-0068.00406
+* –––, 2003, “Contextualism and the Problem of the External World”, *Philosophy and Phenomenological Research*, 66(1): 1–31. doi: 10.1111/j.1933-1592.2003.tb00241.x
+* –––, 2004, “Skepticism, Abductivism, and the Explanatory Gap”, *Philosophical Issues*, 14: 296–325. doi: 10.1111/j.1533-6077.2004.00032.x
+* –––, 2008, “What Evidence Do You Have?”, *The British Journal for the Philosophy of Science*, 59(1): 89–119. doi: 10.1093/bjps/axn003
+* –––, 2009, “Treating Something as a Reason for Action”, *Noûs*, 43(4): 684–699. doi: 10.1111/j.1468-0068.2009.00724.x
+* ––– (ed.), 2014, *Current Controversies in Epistemology*, New York: Routledge. doi: 10.4324/9780203123522
+* –––, 2018, “Evidence, Coherence and Epistemic Akrasia”, *Episteme*, 15(3): 313–328. doi: 10.1017/epi.2018.25
+* –––, 2019, “The Basing Relation”, *The Philosophical Review*, 128(2): 179–217. doi: 10.1215/00318108-7374945
+* –––, forthcoming, “An Evidentialist Account of Hinges”, *Synthese*, first online: 30 January 2019. doi: 10.1007/s11229-018-02061-0
 * Niiniluoto, I., M. Sintonen, and J. Woleński (eds.), 2004, *Handbook of Epistemology*, Berlin: Springer.
-* Nolfi, Kate, 2015, “How to Be a Normativist about the Nature of Belief”, *Pacific Philosophical Quarterly*, 96(2): 181–204. doi:10.1111/papq.12071
+* Nolfi, Kate, 2015, “How to Be a Normativist about the Nature of Belief”, *Pacific Philosophical Quarterly*, 96(2): 181–204. doi: 10.1111/papq.12071
 * Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
 * –––, 1993, *The Nature of Rationality*, Princeton, NJ: Princeton University Press.
 * Owens, David, 2000, *Reason Without Freedom: The Problem of Epistemic Normativity*, London: Routledge.
 * Pavese, Carlotta, 2015, “Practical Senses”, *Philosopher’s Imprint*, 15: article 29. [[Pavese 2015 available online](http://hdl.handle.net/2027/spo.3521354.0015.029)]
-* –––, 2017, “Know-How and Gradability”, *Philosophical Review*, 126(3): 345–383. doi:10.1215/00318108-3878493
-* Pettigrew, Richard, 2016, *Accuracy and the Laws of Credence*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732716.001.0001
-* Plantinga, Alvin, 1993a, *Warrant: The Current Debate*, Oxford: Oxford University Press. doi:10.1093/0195078624.001.0001
-* –––, 1993b, *Warrant and Proper Function*, Oxford: Oxford University Press. doi:10.1093/0195078640.001.0001
-* –––, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
-* Podgorski, Abelard, 2016, “A Reply to the Synchronist”, *Mind*, 125(499): 859–871. doi:10.1093/mind/fzv153
+* –––, 2017, “Know-How and Gradability”, *Philosophical Review*, 126(3): 345–383. doi: 10.1215/00318108-3878493
+* Pettigrew, Richard, 2016, *Accuracy and the Laws of Credence*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732716.001.0001
+* Plantinga, Alvin, 1993a, *Warrant: The Current Debate*, Oxford: Oxford University Press. doi: 10.1093/0195078624.001.0001
+* –––, 1993b, *Warrant and Proper Function*, Oxford: Oxford University Press. doi: 10.1093/0195078640.001.0001
+* –––, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi: 10.1093/0195131932.001.0001
+* Podgorski, Abelard, 2016, “A Reply to the Synchronist”, *Mind*, 125(499): 859–871. doi: 10.1093/mind/fzv153
 * Pollock, John L., 1986, *Contemporary Theories of Knowledge*, Totowa, NJ: Rowman & Littlefield.
 * Poston, Ted, 2014, *Reason and Explanation: A Defense of Explanatory Coherentism*, Basingstoke: Palgrave Macmillan.
-* Pritchard, Duncan, 2004, “Some Recent Work in Epistemology”, *The Philosophical Quarterly*, 54(217): 604–613. doi:10.1111/j.0031-8094.2004.00377.x
-* –––, 2005, *Epistemic Luck*, Oxford: Oxford University Press. doi:10.1093/019928038X.001.0001
-* –––, 2012a, “Anti-Luck Virtue Epistemology”:, *Journal of Philosophy*, 109(3): 247–279. doi:10.5840/jphil201210939
-* –––, 2012b, *Epistemological Disjunctivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199557912.001.0001
-* –––, 2016, *Epistemic Angst: Radical Skepticism and the Groundlessness of Our Believing*, Princeton, NJ: Princeton University Press. doi:10.23943/princeton/9780691167237.001.0001
-* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549. doi:10.1111/0029-4624.00277
-* –––, 2004, “What’s Wrong with Moore’s Argument?”, *Philosophical Issues*, 14: 349–378. doi:10.1111/j.1533-6077.2004.00034.x
+* Pritchard, Duncan, 2004, “Some Recent Work in Epistemology”, *The Philosophical Quarterly*, 54(217): 604–613. doi: 10.1111/j.0031-8094.2004.00377.x
+* –––, 2005, *Epistemic Luck*, Oxford: Oxford University Press. doi: 10.1093/019928038X.001.0001
+* –––, 2012a, “Anti-Luck Virtue Epistemology”:, *Journal of Philosophy*, 109(3): 247–279. doi: 10.5840/jphil201210939
+* –––, 2012b, *Epistemological Disjunctivism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199557912.001.0001
+* –––, 2016, *Epistemic Angst: Radical Skepticism and the Groundlessness of Our Believing*, Princeton, NJ: Princeton University Press. doi: 10.23943/princeton/9780691167237.001.0001
+* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549. doi: 10.1111/0029-4624.00277
+* –––, 2004, “What’s Wrong with Moore’s Argument?”, *Philosophical Issues*, 14: 349–378. doi: 10.1111/j.1533-6077.2004.00034.x
 * –––, 2005 [2013], “There is Immediate Justification”, in CDE-1: 181–202 (chapter 7). Second edition in CDE-2: 202–222 (in chapter 9).
 * Quine, W. V., 1969, “Epistemology Naturalized”, in his *Ontological Relativity and Other Essays*, New York: Columbia Press, pp. 69–90.
-* Radford, Colin, 1966, “Knowledge—by Examples”, *Analysis*, 27(1): 1–11. doi:10.1093/analys/27.1.1
-* Reisner, Andrew, 2008, “Weighing Pragmatic and Evidential Reasons for Belief”, *Philosophical Studies*, 138(1): 17–27. doi:10.1007/s11098-006-0007-3
-* –––, 2009, “The Possibility of Pragmatic Reasons for Belief and the Wrong Kind of Reasons Problem”, *Philosophical Studies*, 145(2): 257–272. doi:10.1007/s11098-008-9222-4
-* Rinard, Susanna, 2017a, “No Exception for Belief”, *Philosophy and Phenomenological Research*, 94(1): 121–143. doi:10.1111/phpr.12229
-* –––, 2017b, “Imprecise Probability and Higher Order Vagueness”, *Res Philosophica*, 94(2): 1–17. doi:10.11612/resphil.1538
-* –––, 2018, “Reasoning One’s Way Out of Skepticism”, in *The Mystery of Skepticism*, Kevin McCain and Ted Poston (eds.), (Brill Studies in Skepticism 2), Leiden: Brill, 240–264. doi:10.1163/9789004393530_015
-* –––, 2019a, “Believing for Practical Reasons”, *Noûs*, 53(4): 763–784. doi:10.1111/nous.12253
-* –––, 2019b, “Equal Treatment for Belief”, *Philosophical Studies*, 176(7): 1923–1950. doi:10.1007/s11098-018-1104-9
-* Ryan, Sharon, 2003, “Doxastic Compatibilism and the Ethics of Belief”, *Philosophical Studies*, 114(1/2): 47–79. doi:10.1023/A:1024409201289
+* Radford, Colin, 1966, “Knowledge—by Examples”, *Analysis*, 27(1): 1–11. doi: 10.1093/analys/27.1.1
+* Reisner, Andrew, 2008, “Weighing Pragmatic and Evidential Reasons for Belief”, *Philosophical Studies*, 138(1): 17–27. doi: 10.1007/s11098-006-0007-3
+* –––, 2009, “The Possibility of Pragmatic Reasons for Belief and the Wrong Kind of Reasons Problem”, *Philosophical Studies*, 145(2): 257–272. doi: 10.1007/s11098-008-9222-4
+* Rinard, Susanna, 2017a, “No Exception for Belief”, *Philosophy and Phenomenological Research*, 94(1): 121–143. doi: 10.1111/phpr.12229
+* –––, 2017b, “Imprecise Probability and Higher Order Vagueness”, *Res Philosophica*, 94(2): 1–17. doi: 10.11612/resphil.1538
+* –––, 2018, “Reasoning One’s Way Out of Skepticism”, in *The Mystery of Skepticism*, Kevin McCain and Ted Poston (eds.), (Brill Studies in Skepticism 2), Leiden: Brill, 240–264. doi: 10.1163/9789004393530_015
+* –––, 2019a, “Believing for Practical Reasons”, *Noûs*, 53(4): 763–784. doi: 10.1111/nous.12253
+* –––, 2019b, “Equal Treatment for Belief”, *Philosophical Studies*, 176(7): 1923–1950. doi: 10.1007/s11098-018-1104-9
+* Ryan, Sharon, 2003, “Doxastic Compatibilism and the Ethics of Belief”, *Philosophical Studies*, 114(1/2): 47–79. doi: 10.1023/A: 1024409201289
 * Russell, Bertrand, 1912, *The Problems of Philosophy*, London: Williams & Norgate.
 * Russell, Bruce, 2001, “Epistemic and Moral Duty”, in Steup 2001a: 34–48.
-* –––,, 2004, “How to Be an Anti-Skeptic and a NonContextualist”, *Erkenntnis*, 61(2–3): 245–255. doi:10.1007/s10670-004-9288-0
-* Sartwell, Crispin, 1992, “Why Knowledge Is Merely True Belief”, *The Journal of Philosophy*, 89(4): 167–180. doi:10.2307/2026639
+* –––,, 2004, “How to Be an Anti-Skeptic and a NonContextualist”, *Erkenntnis*, 61(2–3): 245–255. doi: 10.1007/s10670-004-9288-0
+* Sartwell, Crispin, 1992, “Why Knowledge Is Merely True Belief”, *The Journal of Philosophy*, 89(4): 167–180. doi: 10.2307/2026639
 * Scanlon, Thomas, 1998, *What We Owe Each Other*, Cambridge, MA: Harvard University Press.
 * Schaffer, Jonathan, 2005, “Contrastive Knowledge”, in *Oxford Studies in Epistemology, Volume 1*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Clarendon Press, 235–271.
-* Schellenberg, Susanna, 2013, “Experience and Evidence”, *Mind*, 122(487): 699–747. doi:10.1093/mind/fzt088
-* Schiffer, Stephen, 1996, “Contextualist Solutions to Scepticism”, *Proceedings of the Aristotelian Society*, 96(1): 317–334. doi:10.1093/aristotelian/96.1.317
+* Schellenberg, Susanna, 2013, “Experience and Evidence”, *Mind*, 122(487): 699–747. doi: 10.1093/mind/fzt088
+* Schiffer, Stephen, 1996, “Contextualist Solutions to Scepticism”, *Proceedings of the Aristotelian Society*, 96(1): 317–334. doi: 10.1093/aristotelian/96.1.317
 * Schmitt, Frederick F. (ed.), 1994, *Socializing Epistemology: The Social Dimensions of Knowledge*, (Studies in Epistemology and Cognitive Theory), Lanham, MD: Rowman & Littlefield Publishers.
-* –––, 1999, “Social Epistemology”, in Greco and Sosa 1999: 354–382. doi:10.1002/9781405164863.ch15
+* –––, 1999, “Social Epistemology”, in Greco and Sosa 1999: 354–382. doi: 10.1002/9781405164863.ch15
 * Sellars, Wilfrid, 1956 [1963], “Empiricism and the Philosophy of Mind”, in *Foundations of Science and the Concepts of Psychology and Psychoanalysis*, Herbert Feigl and Michael Scriven (eds), (Minnesota Studies in the Philosophy of Science, I), Minneapolis, MN: University of Minnesota Press, 253–329. Reprinted with some more notes in his *Science, Perception, and Reality*, London: Routledge and Kegan Paul, 1963.
-* Schoenfield, Miriam, 2014, “Permission to Believe: Why Permissivism Is True and What It Tells Us About Irrelevant Influences on Belief”, *Noûs*, 48(2): 193–218. doi:10.1111/nous.12006
-* –––, 2015, “Bridging Rationality and Accuracy”:, *Journal of Philosophy*, 112(12): 633–657. doi:10.5840/jphil20151121242
-* –––, 2017a, “The Accuracy and Rationality of Imprecise Credences”, *Noûs*, 51(4): 667–685. doi:10.1111/nous.12105
-* –––, 2017b, “Conditionalization Does Not (in General) Maximize Expected Accuracy”, *Mind*, 126(504): 1155–1187. doi:10.1093/mind/fzw027
-* –––, 2018, “An Accuracy Based Approach to Higher Order Evidence”, *Philosophy and Phenomenological Research*, 96(3): 690–715. doi:10.1111/phpr.12329
-* Schultheis, Ginger, 2018, “Living on the Edge: Against Epistemic Permissivism”, *Mind*, 127(507): 863–879. doi:10.1093/mind/fzw065
-* Shah, Nishi, 2003, “How Truth Governs Belief”, *Philosophical Review*, 112(4): 447–482. doi:10.1215/00318108-112-4-447
-* –––, 2006, “A New Argument for Evidentialism”, *The Philosophical Quarterly*, 56(225): 481–498. doi:10.1111/j.1467-9213.2006.454.x
+* Schoenfield, Miriam, 2014, “Permission to Believe: Why Permissivism Is True and What It Tells Us About Irrelevant Influences on Belief”, *Noûs*, 48(2): 193–218. doi: 10.1111/nous.12006
+* –––, 2015, “Bridging Rationality and Accuracy”:, *Journal of Philosophy*, 112(12): 633–657. doi: 10.5840/jphil20151121242
+* –––, 2017a, “The Accuracy and Rationality of Imprecise Credences”, *Noûs*, 51(4): 667–685. doi: 10.1111/nous.12105
+* –––, 2017b, “Conditionalization Does Not (in General) Maximize Expected Accuracy”, *Mind*, 126(504): 1155–1187. doi: 10.1093/mind/fzw027
+* –––, 2018, “An Accuracy Based Approach to Higher Order Evidence”, *Philosophy and Phenomenological Research*, 96(3): 690–715. doi: 10.1111/phpr.12329
+* Schultheis, Ginger, 2018, “Living on the Edge: Against Epistemic Permissivism”, *Mind*, 127(507): 863–879. doi: 10.1093/mind/fzw065
+* Shah, Nishi, 2003, “How Truth Governs Belief”, *Philosophical Review*, 112(4): 447–482. doi: 10.1215/00318108-112-4-447
+* –––, 2006, “A New Argument for Evidentialism”, *The Philosophical Quarterly*, 56(225): 481–498. doi: 10.1111/j.1467-9213.2006.454.x
 * Shope, Robert K., 1983, *The Analysis of Knowing: A Decade of Research*, Princeton, NJ: Princeton University Press.
-* Siegel, Susanna, 2017, *The Rationality of Perception*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198797081.001.0001
+* Siegel, Susanna, 2017, *The Rationality of Perception*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198797081.001.0001
 * Silins, Nico, 2007, “Basic Justification and the Moorean Response to the Skeptic”, in *Oxford Studies in Epistemology, Volume 2*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 108–142.
-* Silva, Paul, 2017, “How Doxastic Justification Helps Us Solve the Puzzle of Misleading Higher-Order Evidence”, *Pacific Philosophical Quarterly*, 98(S1): 308–328. doi:10.1111/papq.12173
-* –––, 2019, “Beliefless Knowing”, *Pacific Philosophical Quarterly*, 100(3): 723–746. doi:10.1111/papq.12273
-* Simion, Mona, 2019a, “Epistemic Norm Correspondence and the Belief–Assertion Parallel”, *Analysis*, 79(2): 260–265. doi:10.1093/analys/any048
-* –––, 2019b, “Saying and Believing: The Norm Commonality Assumption”, *Philosophical Studies*, 176(8): 1951–1966. doi:10.1007/s11098-018-1105-8
+* Silva, Paul, 2017, “How Doxastic Justification Helps Us Solve the Puzzle of Misleading Higher-Order Evidence”, *Pacific Philosophical Quarterly*, 98(S1): 308–328. doi: 10.1111/papq.12173
+* –––, 2019, “Beliefless Knowing”, *Pacific Philosophical Quarterly*, 100(3): 723–746. doi: 10.1111/papq.12273
+* Simion, Mona, 2019a, “Epistemic Norm Correspondence and the Belief–Assertion Parallel”, *Analysis*, 79(2): 260–265. doi: 10.1093/analys/any048
+* –––, 2019b, “Saying and Believing: The Norm Commonality Assumption”, *Philosophical Studies*, 176(8): 1951–1966. doi: 10.1007/s11098-018-1105-8
 * –––, forthcoming, “Testimonial Contractarianism”, *Noûs*.
-* Singer, Daniel J., 2019, “Permissible Epistemic Trade-Offs”, *Australasian Journal of Philosophy*, 97(2): 281–293. doi:10.1080/00048402.2018.1465987
-* Smith, Martin, 2016, *Between Probability and Certainty: What Justifies Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755333.001.0001
-* Smith, Quentin, 2008, *Epistemology: New Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199264933.001.0001
-* Smithies, Declan, 2012, “Mentalism and Epistemic Transparency”, *Australasian Journal of Philosophy*, 90(4): 723–741. doi:10.1080/00048402.2011.627925
-* –––, 2015, “Ideal Rationality and Logical Omniscience”, *Synthese*, 192(9): 2769–2793. doi:10.1007/s11229-015-0735-z
-* –––, 2019, *The Epistemic Role of Consciousness*, Oxford: Oxford University Press. doi:10.1093/oso/9780199917662.001.0001
-* Sosa, Ernest, 1980a [1991], “The Foundations of Foundationalism”, *Noûs*, 14(4): 547–564. Reprinted in Sosa 1991: 149–164 (ch. 9). doi:10.2307/2215001
-* –––, 1980b [1991], “The Raft and the Pyramid: Coherence versus Foundations in the Theory of Knowledge”, *Midwest Studies In Philosophy*, 5(1): 3–26. Reprinted in Sosa 1991: 165–191 (ch. 10). doi:10.1111/j.1475-4975.1980.tb00394.x
-* –––, 1991, *Knowledge in Perspective: Selected Essays in Epistemology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625299
-* –––, 1997, “Reflective Knowledge in the Best Circles”, *The Journal of Philosophy*, 94(8): 410–430. doi:10.2307/2564607
-* –––, 1999a, “Skepticism and the Internal/External Divide”, in Greco and Sosa 1999: 143–157. doi:10.1002/9781405164863.ch5
-* –––, 1999b, “How to Defeat Opposition to Moore”, *Philosophical Perspectives*, 13: 141–153. doi:10.1111/0029-4624.33.s13.7
-* –––, 2004, “Relevant Alternatives, Contextualism Included”, *Philosophical Studies*, 119(1/2): 35–65. doi:10.1023/B:PHIL.0000029349.75799.17
-* –––, 2015, *Judgment and Agency*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719694.001.0001
-* Srinivasan, Amia, 2015, “Normativity without Cartesian Privilege”, *Philosophical Issues*, 25: 273–299. doi:10.1111/phis.12059
+* Singer, Daniel J., 2019, “Permissible Epistemic Trade-Offs”, *Australasian Journal of Philosophy*, 97(2): 281–293. doi: 10.1080/00048402.2018.1465987
+* Smith, Martin, 2016, *Between Probability and Certainty: What Justifies Belief*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198755333.001.0001
+* Smith, Quentin, 2008, *Epistemology: New Essays*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199264933.001.0001
+* Smithies, Declan, 2012, “Mentalism and Epistemic Transparency”, *Australasian Journal of Philosophy*, 90(4): 723–741. doi: 10.1080/00048402.2011.627925
+* –––, 2015, “Ideal Rationality and Logical Omniscience”, *Synthese*, 192(9): 2769–2793. doi: 10.1007/s11229-015-0735-z
+* –––, 2019, *The Epistemic Role of Consciousness*, Oxford: Oxford University Press. doi: 10.1093/oso/9780199917662.001.0001
+* Sosa, Ernest, 1980a [1991], “The Foundations of Foundationalism”, *Noûs*, 14(4): 547–564. Reprinted in Sosa 1991: 149–164 (ch. 9). doi: 10.2307/2215001
+* –––, 1980b [1991], “The Raft and the Pyramid: Coherence versus Foundations in the Theory of Knowledge”, *Midwest Studies In Philosophy*, 5(1): 3–26. Reprinted in Sosa 1991: 165–191 (ch. 10). doi: 10.1111/j.1475-4975.1980.tb00394.x
+* –––, 1991, *Knowledge in Perspective: Selected Essays in Epistemology*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625299
+* –––, 1997, “Reflective Knowledge in the Best Circles”, *The Journal of Philosophy*, 94(8): 410–430. doi: 10.2307/2564607
+* –––, 1999a, “Skepticism and the Internal/External Divide”, in Greco and Sosa 1999: 143–157. doi: 10.1002/9781405164863.ch5
+* –––, 1999b, “How to Defeat Opposition to Moore”, *Philosophical Perspectives*, 13: 141–153. doi: 10.1111/0029-4624.33.s13.7
+* –––, 2004, “Relevant Alternatives, Contextualism Included”, *Philosophical Studies*, 119(1/2): 35–65. doi: 10.1023/B: PHIL.0000029349.75799.17
+* –––, 2015, *Judgment and Agency*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198719694.001.0001
+* Srinivasan, Amia, 2015, “Normativity without Cartesian Privilege”, *Philosophical Issues*, 25: 273–299. doi: 10.1111/phis.12059
 * –––, forthcoming, “Radical Externalism”, *The Philosophical Review*.
 * Staffel, Julia, 2019, *Unsettled Thoughts: A Theory of Degrees of Rationality*, New York: Oxford University Press.
-* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Oxford University Press. doi:10.1093/0199288038.001.0001
-* Stanley, Jason and Timothy Willlamson, 2001, “Knowing How”, *Journal of Philosophy*, 98(8): 411–444. doi:10.2307/2678403
-* –––, 2017, “Skill”, *Noûs*, 51(4): 713–726. doi:10.1111/nous.12144
+* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Oxford University Press. doi: 10.1093/0199288038.001.0001
+* Stanley, Jason and Timothy Willlamson, 2001, “Knowing How”, *Journal of Philosophy*, 98(8): 411–444. doi: 10.2307/2678403
+* –––, 2017, “Skill”, *Noûs*, 51(4): 713–726. doi: 10.1111/nous.12144
 * Steup, Matthias, 1996, *An Introduction to Contemporary Epistemology*, Upper Saddle River, NJ: Prentice Hall.
 * –––, 1999, “A Defense of Internalism”, in *The Theory of Knowledge: Classical and Contemporary Readings*, Louis P. Pojman (ed.), Belmont, CA: Wadsworth, pp. 373–384.
 * –––, 2000, “Doxastic Voluntarism and Epistemic Deontology”, *Acta Analytica*, 15(24): 25–56. [[Steup 2000 available online](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.9981&rep=rep1&type=pdf)]
-* ––– (ed.), 2001a, *Knowledge, Truth, and Duty: Essays on Epistemic Justification, Responsibility, and Virtue*, Oxford: Oxford University Press. doi:10.1093/0195128923.001.0001
+* ––– (ed.), 2001a, *Knowledge, Truth, and Duty: Essays on Epistemic Justification, Responsibility, and Virtue*, Oxford: Oxford University Press. doi: 10.1093/0195128923.001.0001
 * –––, 2001b, “Epistemic Duty, Evidence, and Internality”, in Steup 2001a: 134–148.
-* –––, 2004, “Internalist Reliabilism”, *Philosophical Issues*, 14: 403–425. doi:10.1111/j.1533-6077.2004.00036.x
-* –––, 2005, “Contextualism and Conceptual Disambiguation”, *Acta Analytica*, 20(1): 3–15. doi:10.1007/s12136-005-1000-8
-* –––, 2008, “Doxastic Freedom”, *Synthese*, 161(3): 375–392. doi:10.1007/s11229-006-9090-4
-* –––, 2012, “Belief Control and Intentionality”, *Synthese*, 188(2): 145–163. doi:10.1007/s11229-011-9919-3
-* –––, 2017, “Believing Intentionally”, *Synthese*, 194(8): 2673–2694. doi:10.1007/s11229-015-0780-7
-* –––, 2018, “Destructive Defeat and Justificational Force: The Dialectic of Dogmatism, Conservatism, and Meta-Evidentialism”, *Synthese*, 195(7): 2907–2933. doi:10.1007/s11229-016-1182-1
+* –––, 2004, “Internalist Reliabilism”, *Philosophical Issues*, 14: 403–425. doi: 10.1111/j.1533-6077.2004.00036.x
+* –––, 2005, “Contextualism and Conceptual Disambiguation”, *Acta Analytica*, 20(1): 3–15. doi: 10.1007/s12136-005-1000-8
+* –––, 2008, “Doxastic Freedom”, *Synthese*, 161(3): 375–392. doi: 10.1007/s11229-006-9090-4
+* –––, 2012, “Belief Control and Intentionality”, *Synthese*, 188(2): 145–163. doi: 10.1007/s11229-011-9919-3
+* –––, 2017, “Believing Intentionally”, *Synthese*, 194(8): 2673–2694. doi: 10.1007/s11229-015-0780-7
+* –––, 2018, “Destructive Defeat and Justificational Force: The Dialectic of Dogmatism, Conservatism, and Meta-Evidentialism”, *Synthese*, 195(7): 2907–2933. doi: 10.1007/s11229-016-1182-1
 * Steup, Matthias and Ernest Sosa (eds.), 2005 [CDE-1], *Contemporary Debates in Epistemology*, first edition, (Contemporary Debates in Philosophy 3), Malden, MA: Blackwell. See also CDE-2 for second edition.
 * Steup, Matthias, John Turri, and Ernest Sosa (eds.), 2013 [CDE-2], *Contemporary Debates in Epistemology*, second edition, (Contemporary Debates in Philosophy 14), Chichester, UK: Wiley Blackwell.
-* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi:10.1007/BF00411885
-* Stroud, Barry, 1984, *The Significance of Philosophical Scepticism*, Oxford: Oxford University Press. doi:10.1093/0198247613.001.0001
-* Stroud, Sarah, 2006, “Epistemic Partiality in Friendship”, *Ethics*, 116(3): 498–524. doi:10.1086/500337
+* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi: 10.1007/BF00411885
+* Stroud, Barry, 1984, *The Significance of Philosophical Scepticism*, Oxford: Oxford University Press. doi: 10.1093/0198247613.001.0001
+* Stroud, Sarah, 2006, “Epistemic Partiality in Friendship”, *Ethics*, 116(3): 498–524. doi: 10.1086/500337
 * Sutton, Jonathan, 2007, *Without Justification*, Cambridge, MA: MIT Press.
 * Swain, Marshall, 1981, *Reasons and Knowledge*, Ithaca, NY: Cornell University Press.
-* Sylvan, Kurt L., 2018, “Veritism Unswamped”, *Mind*, 127(506): 381–435. doi:10.1093/mind/fzw070
+* Sylvan, Kurt L., 2018, “Veritism Unswamped”, *Mind*, 127(506): 381–435. doi: 10.1093/mind/fzw070
 * –––, forthcoming-a, “An Epistemic Non-Consequentialism”, *The Philosophical Review*.
-* –––, forthcoming-b, “Reliabilism without Epistemic Consequentialism”, *Philosophy and Phenomenological Research*, first online: 15 November 2018. doi:10.1111/phpr.12560
+* –––, forthcoming-b, “Reliabilism without Epistemic Consequentialism”, *Philosophy and Phenomenological Research*, first online: 15 November 2018. doi: 10.1111/phpr.12560
 * Titelbaum, Michael, 2013, *Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief*, Oxford: Oxford University Press.
-* –––, 2015, “Rationality’s Fixed Point (or: In Defense of Right Reason)”, in *Oxford Studies in Epistemology* (Volume 5), Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 253–294. doi:10.1093/acprof:oso/9780198722762.003.0009
-* Tucker, Chris (ed.), 2013, *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199899494.001.0001
-* Turri, John, 2009, “The Ontology of Epistemic Reasons”, *Noûs*, 43(3): 490–512. doi:10.1111/j.1468-0068.2009.00715.x
-* –––, 2010, “Epistemic Invariantism and Speech Act Contextualism”, *Philosophical Review*, 119(1): 77–95. doi:10.1215/00318108-2009-026
-* Unger, Peter, 1975, *Ignorance: A Case for Scepticism*, Oxford: Oxford University Press. doi:10.1093/0198244177.001.0001
-* Van Cleve, James, 1985, “Epistemic Supervenience and the Circle of Belief”:, *Monist*, 68(1): 90–104. doi:10.5840/monist198568115
-* Vogel, Jonathan, 1990, “Cartesian Skepticism and Inference to the Best Explanation”, *Journal of Philosophy*, 87(11): 658–666. doi:10.5840/jphil1990871123
-* –––, 2000, “Reliabilism Leveled”, *The Journal of Philosophy*, 97(11): 602–623. doi:10.2307/2678454
+* –––, 2015, “Rationality’s Fixed Point (or: In Defense of Right Reason)”, in *Oxford Studies in Epistemology* (Volume 5), Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 253–294. doi: 10.1093/acprof: oso/9780198722762.003.0009
+* Tucker, Chris (ed.), 2013, *Seemings and Justification: New Essays on Dogmatism and Phenomenal Conservatism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199899494.001.0001
+* Turri, John, 2009, “The Ontology of Epistemic Reasons”, *Noûs*, 43(3): 490–512. doi: 10.1111/j.1468-0068.2009.00715.x
+* –––, 2010, “Epistemic Invariantism and Speech Act Contextualism”, *Philosophical Review*, 119(1): 77–95. doi: 10.1215/00318108-2009-026
+* Unger, Peter, 1975, *Ignorance: A Case for Scepticism*, Oxford: Oxford University Press. doi: 10.1093/0198244177.001.0001
+* Van Cleve, James, 1985, “Epistemic Supervenience and the Circle of Belief”:, *Monist*, 68(1): 90–104. doi: 10.5840/monist198568115
+* Vogel, Jonathan, 1990, “Cartesian Skepticism and Inference to the Best Explanation”, *Journal of Philosophy*, 87(11): 658–666. doi: 10.5840/jphil1990871123
+* –––, 2000, “Reliabilism Leveled”, *The Journal of Philosophy*, 97(11): 602–623. doi: 10.2307/2678454
 * Vogel, Jonathan and Richard Fumerton, 2005 [2013], “Can Skepticism Be Refuted?”, in CDE-1: 72–97; second edition in CDE-2: 107–132 (chapter 5). Includes
   * Vogel, Jonathan, “The Refutation of Skepticism”, CDE-1: 72–84, CDE-2: 108–120.
   * Fumerton, Richard, “The Challenge of Refuting Skepticism”, CDE-1: 85–97; CDE-2: 120–132.
-* Wedgwood, Ralph, 2002, “Internalism Explained”, *Philosophy and Phenomenological Research*, 65(2): 349–369. doi:10.1111/j.1933-1592.2002.tb00206.x
-* –––, 2006, “The Normative Force of Reasoning”, *Noûs*, 40(4): 660–686. doi:10.1111/j.1468-0068.2006.00628.x
-* –––, 2017, *The Value of Rationality*, Oxford: Oxford University Press. doi:10.1093/oso/9780198802693.001.0001
-* White, Roger, 2005, “Epistemic Permissiveness”, *Philosophical Perspectives*, 19: 445–459. doi:10.1111/j.1520-8583.2005.00069.x
+* Wedgwood, Ralph, 2002, “Internalism Explained”, *Philosophy and Phenomenological Research*, 65(2): 349–369. doi: 10.1111/j.1933-1592.2002.tb00206.x
+* –––, 2006, “The Normative Force of Reasoning”, *Noûs*, 40(4): 660–686. doi: 10.1111/j.1468-0068.2006.00628.x
+* –––, 2017, *The Value of Rationality*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198802693.001.0001
+* White, Roger, 2005, “Epistemic Permissiveness”, *Philosophical Perspectives*, 19: 445–459. doi: 10.1111/j.1520-8583.2005.00069.x
 * –––, 2010, “Evidential Symmetry and Mushy Credence”, in *Oxford Studies in Epistemology* (Volume 3), Tamar Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 161–186.
-* Whiting, Daniel, 2013, “Stick to the Facts: On the Norms of Assertion”, *Erkenntnis*, 78(4): 847–867. doi:10.1007/s10670-012-9383-6
-* –––, 2017, “Against Second-Order Reasons”, *Noûs*, 51(2): 398–420. doi:10.1111/nous.12138
+* Whiting, Daniel, 2013, “Stick to the Facts: On the Norms of Assertion”, *Erkenntnis*, 78(4): 847–867. doi: 10.1007/s10670-012-9383-6
+* –––, 2017, “Against Second-Order Reasons”, *Noûs*, 51(2): 398–420. doi: 10.1111/nous.12138
 * Williams, Michael, 1977 [1999], *Groundless Belief: An Essay on the Possibility of Epistemology*, New Haven, CT: Yale University Press. Second edition 1999, Princeton, NJ: Princeton University Press, 1999.
 * –––, 1992, *Unnatural Doubts: Epistemological Realism and the Basis of Scepticism*, Princeton, NJ: Princeton University Press.
-* –––, 1999, “Skepticism”, in Greco and Sosa 1999: 33–69. doi:10.1002/9781405164863.ch1
+* –––, 1999, “Skepticism”, in Greco and Sosa 1999: 33–69. doi: 10.1002/9781405164863.ch1
 * –––, 2005, “Doing Without Immediate Justification”, in CDE-1: 202–216 (chapter 7).
-* Williamson, Timothy, 2002, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Williamson, Timothy, 2002, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi: 10.1093/019925656X.001.0001
 * Woleński, Jan, 2004, ‘History of Epistemology”, in I. Niiniluoto, M. Sintonen, and J. Wolenski (eds.) 2004, 3–54.
-* Wolterstorff, Nicholas, 1999, “Epistemology of Religion”, in Greco and Sosa 1999: 303–324. doi:10.1002/9781405164863.ch13
-* Worsnip, Alex, 2015, “Possibly False Knowledge”, *Journal of Philosophy*, 112(5): 225–246. doi:10.5840/jphil2015112514
-* –––, 2018, “The Conflict of Evidence and Coherence”, *Philosophy and Phenomenological Research*, 96(1): 3–44. doi:10.1111/phpr.12246
+* Wolterstorff, Nicholas, 1999, “Epistemology of Religion”, in Greco and Sosa 1999: 303–324. doi: 10.1002/9781405164863.ch13
+* Worsnip, Alex, 2015, “Possibly False Knowledge”, *Journal of Philosophy*, 112(5): 225–246. doi: 10.5840/jphil2015112514
+* –––, 2018, “The Conflict of Evidence and Coherence”, *Philosophy and Phenomenological Research*, 96(1): 3–44. doi: 10.1111/phpr.12246
 * Wright, Crispin, 1985, “Facts and Certainty”, *Proceedings of the British Academy*, 71: 429–472.
-* –––, 1991, “Scepticism and Dreaming: Imploding the Demon”, *Mind*, 100(397): 87–116. doi:10.1093/mind/C.397.87
-* –––, 2002, “(Anti-)Sceptics Simple and Subtle: G.E. Moore and John McDowell”, *Philosophy and Phenomenological Research*, 65(2): 330–348. doi:10.1111/j.1933-1592.2002.tb00205.x
-* –––, 2004, “Warrant for Nothing (and Foundations for Free)?”, *Aristotelian Society Supplementary Volume*, 78: 167–212. doi:10.1111/j.0309-7013.2004.00121.x
+* –––, 1991, “Scepticism and Dreaming: Imploding the Demon”, *Mind*, 100(397): 87–116. doi: 10.1093/mind/C.397.87
+* –––, 2002, “(Anti-)Sceptics Simple and Subtle: G.E. Moore and John McDowell”, *Philosophy and Phenomenological Research*, 65(2): 330–348. doi: 10.1111/j.1933-1592.2002.tb00205.x
+* –––, 2004, “Warrant for Nothing (and Foundations for Free)?”, *Aristotelian Society Supplementary Volume*, 78: 167–212. doi: 10.1111/j.0309-7013.2004.00121.x
 * –––, 2007, “The Perils of Dogmatism”, in *Themes from G.E. Moore: New Essays in Epistemology and Ethics*, Susana Nuccetelli and Gary Seay (eds.), Oxford ; New York: Oxford University Press, pp. 25–48.
-* Zagzebski, Linda Trinkaus, 1996, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174763
-* –––, 1999, “What Is Knowledge?”, in Greco and Sosa 1999: 92–116. doi:10.1002/9781405164863.ch3
+* Zagzebski, Linda Trinkaus, 1996, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139174763
+* –––, 1999, “What Is Knowledge?”, in Greco and Sosa 1999: 92–116. doi: 10.1002/9781405164863.ch3
 
 ## Academic Tools
 

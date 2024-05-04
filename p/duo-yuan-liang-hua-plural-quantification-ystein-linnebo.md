@@ -1,6 +1,6 @@
 # 多元量化 plural quantification (Øystein Linnebo)
 
-*首次发表于2004年10月27日；实质性修订于2022年2月16日。*
+*首次发表于 2004 年 10 月 27 日；实质性修订于 2022 年 2 月 16 日。*
 
 普通英语包含对对象的不同形式的量化。除了通常的单数量化，如
 
@@ -14,9 +14,9 @@
 
 桌子上有一些苹果。
 
-自从弗雷格以来，形式逻辑更倾向于使用两个单数量词∀x 和∃x，而不是它们的复数对应物∀xx 和∃xx（读作对于任意的事物 xx 和存在一些事物 xx）。但是在最近几十年中，有人争论我们有充分的理由在我们的原始逻辑概念中也包括复数量词∀xx 和∃xx（Boolos 1984 和 1985a）。
+自从弗雷格以来，形式逻辑更倾向于使用两个单数量词 ∀x 和 ∃x，而不是它们的复数对应物 ∀xx 和 ∃xx（读作对于任意的事物 xx 和存在一些事物 xx）。但是在最近几十年中，有人争论我们有充分的理由在我们的原始逻辑概念中也包括复数量词 ∀xx 和 ∃xx（Boolos 1984 和 1985a）。
 
-更有争议的是，有人认为带有复数和单数量化的结果形式系统符合“纯逻辑”的条件；特别是，它是普遍适用的、本体论上无罪的和完全理解的。除了本身具有趣味性外，如果这个论点是正确的，它将使复数量化成为一个无罪但极其强大的工具，可以应用于形而上学、数学哲学和哲学逻辑。例如，乔治·布洛斯（George Boolos）使用复数量化来解释单调二阶逻辑[1]，并基于此论证单调二阶逻辑符合“纯逻辑”的条件。复数量化还被用于试图捍卫逻辑主义思想、解释集合论，并消除对数学对象和复杂对象的本体论承诺。
+更有争议的是，有人认为带有复数和单数量化的结果形式系统符合“纯逻辑”的条件；特别是，它是普遍适用的、本体论上无罪的和完全理解的。除了本身具有趣味性外，如果这个论点是正确的，它将使复数量化成为一个无罪但极其强大的工具，可以应用于形而上学、数学哲学和哲学逻辑。例如，乔治 · 布洛斯（George Boolos）使用复数量化来解释单调二阶逻辑 [1]，并基于此论证单调二阶逻辑符合“纯逻辑”的条件。复数量化还被用于试图捍卫逻辑主义思想、解释集合论，并消除对数学对象和复杂对象的本体论承诺。
 
 ---
 
@@ -36,7 +36,7 @@
 
 (1973: 111 和 1982: 293).[ 3]
 
-在 20 世纪 80 年代的两篇重要文章中，乔治·布洛斯（George Boolos）对这种传统观点提出了质疑（Boolos 1984 和 1985a）。他认为坚持将自然语言中的复数表达式进行释义只是一种偏见。相反，他建议正如单数量词∀x 和∃x 之所以合法是因为它们代表了自然语言中的某些量化设备，复数量词∀xx 和∃xx 也是如此。因为毫无疑问，在自然语言中我们使用并理解表达式“对于任何事物”和“存在一些事物”。由于这些量词绑定的是取名（而不是谓词）位置的变量，它们是一阶量词，尽管是复数的。
+在 20 世纪 80 年代的两篇重要文章中，乔治 · 布洛斯（George Boolos）对这种传统观点提出了质疑（Boolos 1984 和 1985a）。他认为坚持将自然语言中的复数表达式进行释义只是一种偏见。相反，他建议正如单数量词 ∀x 和 ∃x 之所以合法是因为它们代表了自然语言中的某些量化设备，复数量词 ∀xx 和 ∃xx 也是如此。因为毫无疑问，在自然语言中我们使用并理解表达式“对于任何事物”和“存在一些事物”。由于这些量词绑定的是取名（而不是谓词）位置的变量，它们是一阶量词，尽管是复数的。
 
 ### 1.1 规范化复数量化
 
@@ -58,10 +58,10 @@
 
 3. LPFO 具有以下公式：
 
-* 当 Rni 是 n 元谓词且 tj 是单数术语时，Rni(t1,…,tn)是一个公式
+* 当 Rni 是 n 元谓词且 tj 是单数术语时，Rni(t1,…, tn)是一个公式
 * 当 t 为单数术语，T 为复数术语时，t≺T 是一个公式
-* 当ϕ和ψ为公式时，¬ϕ和ϕ&ψ是公式
-* 当ϕ为公式，v 为单数变量，vv 为复数变量时，∃v.ϕ和∃vv.ϕ是公式
+* 当 ϕ 和 ψ 为公式时，¬ϕ 和 ϕ&ψ 是公式
+* 当 ϕ 为公式，v 为单数变量，vv 为复数变量时，∃v.ϕ 和 ∃vv.ϕ 是公式
 * 其他连接词通常被视为缩写。
 
 在 LPFO 中，我们可以形式化许多涉及复数的英语断言。例如，(2)可以形式化为
@@ -70,11 +70,11 @@
 
 并且 Geach-Kaplan 句子（3）可以形式化为
 
-（3′′）∃xx[∀u(u≺xx→Cu)&∀u∀v(u≺xx&Auv→v≺xx&u≠v)].
+（3′′）∃xx [∀u(u≺xx→Cu)&∀u∀v(u≺xx&Auv→v≺xx&u≠v)].
 
-然而，LPFO 语言有一个严重的限制。我们通过区分两种复数断言来看到这一点。一个接受复数参数的谓词 P 被称为是分布的，只有当它是分析的：如果 P 适用于一些事物 xx，那么 P 适用于每个 u，使得 u≺xx.[5]例如，谓词“在桌子上”是分布的，因为它是分析的，只有当一些事物 xx 都在桌子上时，xx 的每个成员都在桌子上。一个不是分布的谓词 P 被称为是非分布的或集体的。[6]例如，谓词“形成一个圆”是非分布的，因为它不是分析的，只有当一些事物 xx 形成一个圆时，xx 的每个成员都形成一个圆。非分布的复数断言的另一个例子是逻辑谓词≺的第二个参数位置：因为不是真的（更不用说是分析的）每当 u 是 xx 的一个成员时，u 是 xx 的每个成员之一。因此，考虑一个稍微丰富一些的语言是自然且有用的。
+然而，LPFO 语言有一个严重的限制。我们通过区分两种复数断言来看到这一点。一个接受复数参数的谓词 P 被称为是分布的，只有当它是分析的：如果 P 适用于一些事物 xx，那么 P 适用于每个 u，使得 u≺xx.[5] 例如，谓词“在桌子上”是分布的，因为它是分析的，只有当一些事物 xx 都在桌子上时，xx 的每个成员都在桌子上。一个不是分布的谓词 P 被称为是非分布的或集体的。[6] 例如，谓词“形成一个圆”是非分布的，因为它不是分析的，只有当一些事物 xx 形成一个圆时，xx 的每个成员都形成一个圆。非分布的复数断言的另一个例子是逻辑谓词 ≺ 的第二个参数位置：因为不是真的（更不用说是分析的）每当 u 是 xx 的一个成员时，u 是 xx 的每个成员之一。因此，考虑一个稍微丰富一些的语言是自然且有用的。
 
-> 形式语言 LPFO+。语言 LPFO+允许非分配性复数谓词，而不仅限于≺。我们通过修改 LPFO 的定义，允许谓词 Rni 接受一个或多个复数参数。这些谓词可以是逻辑的或非逻辑的。[7]
+> 形式语言 LPFO+。语言 LPFO+允许非分配性复数谓词，而不仅限于 ≺。我们通过修改 LPFO 的定义，允许谓词 Rni 接受一个或多个复数参数。这些谓词可以是逻辑的或非逻辑的。[7]
 
 我们是否还应该允许带有既有单数参数又有复数参数的谓词？许多英语谓词都是这样工作的，例如“…在桌子上”。因此，如果我们的主要兴趣是分析自然语言，我们可能需要允许这样的谓词。然而，出于当前的目的，不允许这样的谓词会更简单。我们很快将允许由仅包含一件事物的复数构成。[8]
 
@@ -82,7 +82,7 @@
 
 (4)
 
-Tr(xi≺xxj)=iti 是其中之一 j
+Tr(xi≺xxj)= iti 是其中之一 j
 
 (5)
 
@@ -96,11 +96,11 @@ Tr(∃xxj.ϕ)= 有一些东西 j 使得 Tr(ϕ)
 
 ### 1.2 PFO 和 PFO+理论
 
-我们现在将描述一个基于 LPFO 语言的复数一阶量化理论 PFO。让我们从一个带有恒等性的普通一阶逻辑的公理化开始。对于我们当前的目的，将这个逻辑公理化为自然演绎系统是方便的，将所有重言式作为公理，将熟悉的自然演绎规则作为推理规则，控制着单数量词和恒等符号。然后，我们以明显的方式扩展自然演绎规则，使其适用于复数量词。接下来，我们需要一些公理，对于适当的公式ϕ(x)，允许我们谈论关于ϕ的事物。在普通英语中，使用复数表达通常意味着关注两个或更多的对象。但是，存在两个或更多的对象可能并不在语义上要求；例如，“注册这门课程的学生将学到很多东西”即使只有一个学生注册，似乎也可能是真实的。因此，只要至少存在一个满足ϕ(x)的对象，要求只是合理且方便的。（大多数研究这个主题的人都做出了这个让步。）这就产生了复数理解公理，它们是模式的实例
+我们现在将描述一个基于 LPFO 语言的复数一阶量化理论 PFO。让我们从一个带有恒等性的普通一阶逻辑的公理化开始。对于我们当前的目的，将这个逻辑公理化为自然演绎系统是方便的，将所有重言式作为公理，将熟悉的自然演绎规则作为推理规则，控制着单数量词和恒等符号。然后，我们以明显的方式扩展自然演绎规则，使其适用于复数量词。接下来，我们需要一些公理，对于适当的公式 ϕ(x)，允许我们谈论关于 ϕ 的事物。在普通英语中，使用复数表达通常意味着关注两个或更多的对象。但是，存在两个或更多的对象可能并不在语义上要求；例如，“注册这门课程的学生将学到很多东西”即使只有一个学生注册，似乎也可能是真实的。因此，只要至少存在一个满足 ϕ(x)的对象，要求只是合理且方便的。（大多数研究这个主题的人都做出了这个让步。）这就产生了复数理解公理，它们是模式的实例
 
 (Comp)∃uϕ(u)→∃xx∀u(u≺xx↔ϕ(u))
 
-其中ϕ是 LPFO 中包含“u”和可能包含其他自由变量但不包含“xx”的公式。（也就是说，如果某物是ϕ，则存在一些事物，如果且仅如果它是ϕ，则每个事物都是它们之一。）为了完全捕捉到所有复数都是非空的这个想法，我们还采用了解释。
+其中 ϕ 是 LPFO 中包含“u”和可能包含其他自由变量但不包含“xx”的公式。（也就是说，如果某物是 ϕ，则存在一些事物，如果且仅如果它是 ϕ，则每个事物都是它们之一。）为了完全捕捉到所有复数都是非空的这个想法，我们还采用了解释。
 
 (6)∀xx∃u(u≺xx).
 
@@ -108,9 +108,9 @@ Tr(∃xxj.ϕ)= 有一些东西 j 使得 Tr(ϕ)
 
 让 PFO+成为基于 LPFO+语言的理论，该语言以类似的方式产生，但另外还具有以下不可辨别性公理模式，它声明共同存在的复数满足相同的公式：
 
-(7)∀xx∀yy[∀u(u≺xx↔u≺yy)→(ϕ(xx)↔ϕ(yy))]
+(7)∀xx∀yy [∀u(u≺xx↔u≺yy)→(ϕ(xx)↔ϕ(yy))]
 
-（也就是说，对于任何事物 1 和任何事物 2（如果某物是它们 1 中的一个，当且仅当它是它们 2 中的一个，那么它们 1 是ϕ当且仅当它们 2 是ϕ）。）这是莱布尼兹的不可辨认性法则的复数量化版本，因此需要将其限制在不设立内涵语境的公式ϕ上。
+（也就是说，对于任何事物 1 和任何事物 2（如果某物是它们 1 中的一个，当且仅当它是它们 2 中的一个，那么它们 1 是 ϕ 当且仅当它们 2 是 ϕ）。）这是莱布尼兹的不可辨认性法则的复数量化版本，因此需要将其限制在不设立内涵语境的公式 ϕ 上。
 
 尽管 PFO 和 PFO+理论代表了如今最传统的复数逻辑形式，但也有一些不同的观点限制了复数理解模式。即使一个复数除了包含的对象之外没有其他东西，这些对象仍然需要被限定。而在某些形而上学观点中，整个现实都抵制适当的限定（Spencer 2012; Florio 和 Linnebo 2020 和 2021，第 12 章; 另请参阅 Hossack 2014）。基于这种考虑，Florio 和 Linnebo（op. cit.）发展了一种替代的批判性复数逻辑。
 
@@ -124,9 +124,9 @@ Tr(∃xxj.ϕ)= 有一些东西 j 使得 Tr(ϕ)
 
 （对技术问题不太感兴趣的读者可以略过本节。）Boolos 观察到可以在 PFO 理论中解释一阶单调逻辑。[9] 设 MSO 是一些标准的（完全非谓词化的）一阶单调逻辑在某种适当的语言 LMSO 中的公理化（Shapiro 1991: ch. 3; Boolos et al. 2002: ch. 22）。Boolos 首先定义了一个翻译 Tr'，将 LMSO 的任何公式映射到 LPFO 的某个公式。这个定义按照 LMSO 公式的复杂性进行归纳，其唯一的非平凡子句是以下两个与二阶变量有关的子句：
 
-(8)Tr'(Xjxi)=xi≺xxj(9)Tr'(∃Xj.ϕ)= ∃xxj.Tr'(ϕ)∨Tr'(ϕ∗)
+(8)Tr'(Xjxi)= xi≺xxj(9)Tr'(∃Xj.ϕ)= ∃xxj.Tr'(ϕ)∨Tr'(ϕ∗)
 
-其中ϕ∗是将 xi≠xi 替换为 Xjxi 的结果。这两个子句背后的思想是用关于这些概念的对象来替代对概念的讨论（或者说对于单调二阶变量的范围）。因此，我们不再说 xi 属于概念 Xj，而是说 xi 是 xxj 之一。唯一的困难在于有些概念没有实例，而所有的复数必须至少包含一件事物。但是，概念可能无法实例化的可能性由（9）右侧的第二个析取式容纳。
+其中 ϕ∗ 是将 xi≠xi 替换为 Xjxi 的结果。这两个子句背后的思想是用关于这些概念的对象来替代对概念的讨论（或者说对于单调二阶变量的范围）。因此，我们不再说 xi 属于概念 Xj，而是说 xi 是 xxj 之一。唯一的困难在于有些概念没有实例，而所有的复数必须至少包含一件事物。但是，概念可能无法实例化的可能性由（9）右侧的第二个析取式容纳。
 
 通过对 MSO 中的推导进行归纳，很容易证明每个 MSO 的定理都映射到 PFO 的某个定理。此外，很容易定义一个“反向”翻译，将 LPFO 的公式映射到 LMSO 的公式，并证明该翻译将前者的定理映射到后者的定理。这表明 PFO 和 MSO 是等价可解释的。关于 PFO+和 MSO+的类似结果可以证明，其中 MSO+允许（一级）概念的谓词，前提是 MSO+包含一个公理模式，即共同扩展的概念是不可辨别的。
 
@@ -136,7 +136,7 @@ Tr(∃xxj.ϕ)= 有一些东西 j 使得 Tr(ϕ)
 
 虽然复数量化对（一元）概念的量化提供了相当自然的解释，但对（多元）关系的量化却没有自然的解释。
 
-这个限制可以被克服（至少在技术目的上），如果在相关领域上存在一个配对函数，也就是说，如果存在一个函数π，使得π（u，v）=π（u'，v'）当且仅当 u=u'且 v=v'。因此，对二元关系的量化可以通过对有序对进行复数量化来表示。此外，通过有序对函数的迭代应用，我们可以表示 n 元组，从而也可以对 n 元关系进行量化。问题是如何理解这个配对函数。一种选择是按照数学的做法，简单地假设存在一个配对函数作为一个抽象的数学对象。但是这个选择的明显缺点是超出了大多数人愿意称之为“纯逻辑”的范畴。一种更聪明的选择，在 Lewis 1991 年的附录中和 Hazen 1997 年和 2000 年的研究中进行了探讨，是使用只有纯粹逻辑资源的方式来模拟关于有序对的讨论。事实证明，关于有序对的讨论可以在单调三阶逻辑中进行模拟，前提是给出一些合理的额外假设。单调三阶逻辑可以在将复数量化与部分整体论相结合的理论中进行解释（Lewis 1991: ch. 3; Burgess and Rosen 1997: II.C.1），或者用高级复数量化的术语来解释（第 2.4 节）。
+这个限制可以被克服（至少在技术目的上），如果在相关领域上存在一个配对函数，也就是说，如果存在一个函数 π，使得 π（u，v）= π（u'，v'）当且仅当 u = u'且 v = v'。因此，对二元关系的量化可以通过对有序对进行复数量化来表示。此外，通过有序对函数的迭代应用，我们可以表示 n 元组，从而也可以对 n 元关系进行量化。问题是如何理解这个配对函数。一种选择是按照数学的做法，简单地假设存在一个配对函数作为一个抽象的数学对象。但是这个选择的明显缺点是超出了大多数人愿意称之为“纯逻辑”的范畴。一种更聪明的选择，在 Lewis 1991 年的附录中和 Hazen 1997 年和 2000 年的研究中进行了探讨，是使用只有纯粹逻辑资源的方式来模拟关于有序对的讨论。事实证明，关于有序对的讨论可以在单调三阶逻辑中进行模拟，前提是给出一些合理的额外假设。单调三阶逻辑可以在将复数量化与部分整体论相结合的理论中进行解释（Lewis 1991: ch. 3; Burgess and Rosen 1997: II.C.1），或者用高级复数量化的术语来解释（第 2.4 节）。
 
 ### 2.3 模态语境
 
@@ -211,23 +211,23 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 弗雷格式和后弗雷格式逻辑主义都必须基本使用二阶量化。弗雷格将纯数学的各种对象定义为概念的外延，并且他著名的基本定律 V 表明，两个概念 F 和 G 的外延相同当且仅当它们是同一外延的：
 
-(V)û.Fu=û.Gu↔∀u(Fu↔Gu)
+(V)û.Fu = û.Gu↔∀u(Fu↔Gu)
 
 但众所周知，罗素悖论表明，以(V)为公理的二阶理论是不一致的。
 
-哲学家们试图通过使用比(V)更弱的公理来拯救一些弗雷格逻辑主义的思想。其中最重要的尝试之一是鲍勃·黑尔和克里斯平·赖特的新逻辑主义，它放弃了弗雷格的外延理论，但坚持了他对基数定义的核心思想，即 F 的数量与 G 的数量相等，当且仅当 F 和 G 可以一一对应。这被称为休谟原则，可以形式化为
+哲学家们试图通过使用比(V)更弱的公理来拯救一些弗雷格逻辑主义的思想。其中最重要的尝试之一是鲍勃 · 黑尔和克里斯平 · 赖特的新逻辑主义，它放弃了弗雷格的外延理论，但坚持了他对基数定义的核心思想，即 F 的数量与 G 的数量相等，当且仅当 F 和 G 可以一一对应。这被称为休谟原则，可以形式化为
 
-(HP)Nu.Fu=Nu.Gu↔F≈G
+(HP)Nu.Fu = Nu.Gu↔F≈G
 
 当 F≈G 时，表示存在一种关系，将 Fs 和 Gs 一一对应。具有（HP）作为公理的二阶理论是一致的，并且允许我们使用一些非常自然的定义推导出所有普通的（二阶 Peano-Dedekind）算术（请参阅关于弗雷格逻辑、定理和算术基础的条目）。
 
-更加谦虚的是布洛斯的子逻辑主义，它拒绝了逻辑主义和新逻辑主义都认同的逻辑对象的概念，但坚持认为弗雷格对于关系的祖先的定义可以用来证明，与康德相反，至少一些非平凡的数学是分析的（Boolos 1985b）。回想一下，关系 R 与其祖先 R∗的关系就像父母与祖先的关系一样。（更准确地说，R∗在两个对象 x 和 y 之间成立，当且仅当 x 和 y 通过一系列有限的对象相连，每个对象都与其后继者具有 R 关系。）弗雷格通过规定 x 和 y 之间的关系 R∗，即 y 具有 x 的 R-后继者所具有的每个属性，并在 R 关系下继承：
+更加谦虚的是布洛斯的子逻辑主义，它拒绝了逻辑主义和新逻辑主义都认同的逻辑对象的概念，但坚持认为弗雷格对于关系的祖先的定义可以用来证明，与康德相反，至少一些非平凡的数学是分析的（Boolos 1985b）。回想一下，关系 R 与其祖先 R∗ 的关系就像父母与祖先的关系一样。（更准确地说，R∗ 在两个对象 x 和 y 之间成立，当且仅当 x 和 y 通过一系列有限的对象相连，每个对象都与其后继者具有 R 关系。）弗雷格通过规定 x 和 y 之间的关系 R∗，即 y 具有 x 的 R-后继者所具有的每个属性，并在 R 关系下继承：
 
-（定义 R∗）xR∗y↔∀F[∀u(xRu→Fu)&∀u(Fu&uRv→Fv)→Fy]
+（定义 R∗）xR∗y↔∀F [∀u(xRu→Fu)&∀u(Fu&uRv→Fv)→Fy]
 
-使用这个定义，弗雷格在 1879 年证明了一些非平凡的数学真理，比如祖先关系 R∗是传递的，并且对于任何函数关系 R，任何对象的 R-祖先都是 R∗-可比的（也就是说，他证明了：函数关系(R)&xR∗y&xR∗z→yR∗z∨zR∗y）。
+使用这个定义，弗雷格在 1879 年证明了一些非平凡的数学真理，比如祖先关系 R∗ 是传递的，并且对于任何函数关系 R，任何对象的 R-祖先都是 R∗-可比的（也就是说，他证明了：函数关系(R)&xR∗y&xR∗z→yR∗z∨zR∗y）。
 
-有人建议使用 PFO 来适应后弗雷格逻辑学家对于二阶量化的需求。由于二元谓词的祖先可以仅使用一阶二元量化来定义，因此 PFO 确实满足 Boolos 的子逻辑主义的逻辑需求[13]。但是由于新逻辑主义对 F≈G 的定义使用了二阶二元逻辑，单独的 PFO 并没有足够的表达能力来适应新逻辑主义的需求。新逻辑主义者可以尝试通过将等势性视为原始的逻辑量词，或者通过在 PFO 的某个适当扩展中模拟二阶二元量化来解决这个问题，如第 2.2 节所讨论的[14]（另请参阅 Boccuni 2013 提供的另一种选择）。
+有人建议使用 PFO 来适应后弗雷格逻辑学家对于二阶量化的需求。由于二元谓词的祖先可以仅使用一阶二元量化来定义，因此 PFO 确实满足 Boolos 的子逻辑主义的逻辑需求 [13]。但是由于新逻辑主义对 F≈G 的定义使用了二阶二元逻辑，单独的 PFO 并没有足够的表达能力来适应新逻辑主义的需求。新逻辑主义者可以尝试通过将等势性视为原始的逻辑量词，或者通过在 PFO 的某个适当扩展中模拟二阶二元量化来解决这个问题，如第 2.2 节所讨论的 [14]（另请参阅 Boccuni 2013 提供的另一种选择）。
 
 这些应用需要逻辑性论题的哪些变种才能成功？由于这些逻辑主义者试图展示数学的某些部分是分析的（或至少是先验可知的），这将要求 PFO 是分析的（或至少是先验可知的），而这又很可能要求 PFO 具有某种形式的认知首位性。此外，PFO 必须要么是本体上无辜的，要么只承认那些存在在概念上是必然的实体（或至少是先验可证的）。
 
@@ -243,9 +243,9 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 (13′)∃R∀x(Rx↔x∉x),
 
-那么量词∃R 应该如何理解？显然不能将其范围扩展到所有集合，因为这将直接导致罗素悖论：(13′)将会断言罗素集合的存在。文献中有三种其他的回应备受关注。
+那么量词 ∃R 应该如何理解？显然不能将其范围扩展到所有集合，因为这将直接导致罗素悖论：(13′)将会断言罗素集合的存在。文献中有三种其他的回应备受关注。
 
-第一个回应是∃R 涵盖了类，但有些类太大（或者不适合）作为集合。特别地，（13）断言了罗素类的存在，它不是一个集合。这个回应被认为有问题，因为它假设了不同种类的“类似集合”的存在（Boolos 1984: 442 [1998a: 66] 和 1998b: 35）。也有人反对这个回应只是推迟了（13）所提出的问题。因为也会成立以下命题：
+第一个回应是 ∃R 涵盖了类，但有些类太大（或者不适合）作为集合。特别地，（13）断言了罗素类的存在，它不是一个集合。这个回应被认为有问题，因为它假设了不同种类的“类似集合”的存在（Boolos 1984: 442 [1998a: 66] 和 1998b: 35）。也有人反对这个回应只是推迟了（13）所提出的问题。因为也会成立以下命题：
 
 (14)
 
@@ -259,17 +259,17 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 然而，Hazen（1993: 141–2）指出，Lewis 的反对触犯了基本的类型限制。不同层次的类属于不同的逻辑类型，就像不同层次的概念一样。因此，Lewis 试图一口气谈论所有类似集合实体的尝试涉及对不同逻辑类型进行量化的尝试。但这与同时量化不同层次的对象和概念的尝试一样，违反了类型限制。尽管我们可以对每个类的层次进行量化，但我们永远无法同时量化所有层次。
 
-第二个回应是，（13）断言了存在一个集合 R，但 R 不在量词∀x 的范围内。这阻止了我们将量词∀x 实例化为 R，这意味着我们不能得出致命的结论：当 R 不是自身的成员时，R 是自身的成员。然而，这个回应意味着量词∀x 不能被选择为绝对所有集合的范围；因为如果可以这样选择，我们将无法否认 R 在这个量化范围内。这意味着集合的宇宙具有一定的无穷性：无论我们是否形成了对某个集合范围的量化的概念，我们都可以定义一个不在这个范围内的集合（Dummett 1981: ch. 15 and 1991: ch. 24; Glanzberg 2004; Parsons 1977）。然而，这个回应被批评为最多难以陈述，最坏的情况是自相矛盾（Boolos 1998b: 30; Lewis 1991: 68; Williamson 2003: sect. V）。（另请参阅 Rayo 和 Uzquiano 2006，其中讨论了是否可能进行绝对普遍量化的一些论文。）
+第二个回应是，（13）断言了存在一个集合 R，但 R 不在量词 ∀x 的范围内。这阻止了我们将量词 ∀x 实例化为 R，这意味着我们不能得出致命的结论：当 R 不是自身的成员时，R 是自身的成员。然而，这个回应意味着量词 ∀x 不能被选择为绝对所有集合的范围；因为如果可以这样选择，我们将无法否认 R 在这个量化范围内。这意味着集合的宇宙具有一定的无穷性：无论我们是否形成了对某个集合范围的量化的概念，我们都可以定义一个不在这个范围内的集合（Dummett 1981: ch. 15 and 1991: ch. 24; Glanzberg 2004; Parsons 1977）。然而，这个回应被批评为最多难以陈述，最坏的情况是自相矛盾（Boolos 1998b: 30; Lewis 1991: 68; Williamson 2003: sect. V）。（另请参阅 Rayo 和 Uzquiano 2006，其中讨论了是否可能进行绝对普遍量化的一些论文。）
 
-由于前两种回应存在困难，第三种回应在近年来变得流行起来（Boolos 1984 和 1985a; Burgess 2004; Cartwright 2001; Rayo and Uzquiano 1999; Uzquiano 2003）。这是因为量词∃R 是一个复数量词（因此最好写成∃rr），而复数量化在本体论上是无辜的。因此（13）并不断言存在任何“类似集合”的实体，超过了量词∀x 范围内的集合。但正如我们将在第 5 节中看到的，关于本体论无辜性的主张是有争议的。
+由于前两种回应存在困难，第三种回应在近年来变得流行起来（Boolos 1984 和 1985a; Burgess 2004; Cartwright 2001; Rayo and Uzquiano 1999; Uzquiano 2003）。这是因为量词 ∃R 是一个复数量词（因此最好写成 ∃rr），而复数量化在本体论上是无辜的。因此（13）并不断言存在任何“类似集合”的实体，超过了量词 ∀x 范围内的集合。但正如我们将在第 5 节中看到的，关于本体论无辜性的主张是有争议的。
 
-将复数逻辑应用于集合论的完全不同的应用是使用复数来解释集合。库尔特·哥德尔（Kurt Gödel）著名地写道“集合的”操作，可以应用于任何“明确定义的对象”以形成它们的集合，并且其迭代应用产生集合的累积层次结构（1964: 180）。一个关键问题是如何理解“明确定义的对象”的概念。假设我们接受任何对象 xx 都符合这样的条件。那么任何对象 xx 都会产生一个集合{xx}。由于累积层次结构不包含普遍集合，因此绝对不能有一个包含所有对象的普遍多元体。Florio 和 Linnebo 2020 和 2021，第 12 章发展了一种适合与这种不受限制的“集合的”操作相结合的临界复数逻辑。因此，这种方法放弃了这种逻辑的能力来讨论任意集合的集合，并使用复数来解释集合的性质和我们对集合的认识。
+将复数逻辑应用于集合论的完全不同的应用是使用复数来解释集合。库尔特 · 哥德尔（Kurt Gödel）著名地写道“集合的”操作，可以应用于任何“明确定义的对象”以形成它们的集合，并且其迭代应用产生集合的累积层次结构（1964: 180）。一个关键问题是如何理解“明确定义的对象”的概念。假设我们接受任何对象 xx 都符合这样的条件。那么任何对象 xx 都会产生一个集合{xx}。由于累积层次结构不包含普遍集合，因此绝对不能有一个包含所有对象的普遍多元体。Florio 和 Linnebo 2020 和 2021，第 12 章发展了一种适合与这种不受限制的“集合的”操作相结合的临界复数逻辑。因此，这种方法放弃了这种逻辑的能力来讨论任意集合的集合，并使用复数来解释集合的性质和我们对集合的认识。
 
 ### 4.4 数学名义主义
 
 一些最受欢迎的复数量化应用与本体经济有关。其思想是支付仅仅是一阶理论的本体代价，然后利用复数量化免费获得（具有）相应的单调二阶理论。这显然是一笔本体交易。这类应用分为两个主要类别，将在本小节和下一小节中讨论。
 
-复数量化的一类应用旨在在数学哲学中进行本体交易。特别是，许多哲学家试图将复数量化作为数学唯名主义解释的一个要素。一个很好的例子是杰弗里·赫尔曼（Geoffrey Hellman）的模态唯名主义，根据该理论，承诺存在抽象对象的数学陈述将被替换为关于可能存在具体对象的陈述。例如，赫尔曼声称，存在一个无限集合的具体对象，这些对象之间的关系满足皮亚诺算术的公理（Hellman 1989 和 1996），而不像柏拉图主义者那样声称存在一个无限集合的抽象对象满足皮亚诺算术的公理（即自然数）。然而，即使这个模态主张似乎是关于具体对象的集合和关系的陈述，为了防止通过后门引入集合等抽象对象的异议，赫尔曼需要一些替代的、唯名主义可接受的对这个关于集合和关系的陈述的解释。复数量化可能提供这样的解释。
+复数量化的一类应用旨在在数学哲学中进行本体交易。特别是，许多哲学家试图将复数量化作为数学唯名主义解释的一个要素。一个很好的例子是杰弗里 · 赫尔曼（Geoffrey Hellman）的模态唯名主义，根据该理论，承诺存在抽象对象的数学陈述将被替换为关于可能存在具体对象的陈述。例如，赫尔曼声称，存在一个无限集合的具体对象，这些对象之间的关系满足皮亚诺算术的公理（Hellman 1989 和 1996），而不像柏拉图主义者那样声称存在一个无限集合的抽象对象满足皮亚诺算术的公理（即自然数）。然而，即使这个模态主张似乎是关于具体对象的集合和关系的陈述，为了防止通过后门引入集合等抽象对象的异议，赫尔曼需要一些替代的、唯名主义可接受的对这个关于集合和关系的陈述的解释。复数量化可能提供这样的解释。
 
 为了使复数量化的这种应用起作用，PFO 必须适用于所有种类的具体对象，并且它必须本体上无罪，或者至少不致力于与那些被认为是名义主义反对的抽象对象的特征共享的任何实体。此外，为了模拟关系上的量化，我们不仅需要 PFO，还需要更像单调的三阶逻辑的理论（第 2.2 节和第 2.4 节）。
 
@@ -291,9 +291,9 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 ## 5. 本体论的无辜？
 
-在分析哲学中，传统观点认为，如果需要的话，所有复数表达应该通过对集合进行量化来进行释义（第 1 节）。乔治·布洛斯（George Boolos）和其他人反对消除复数表达是不自然和不必要的。这导致了 PFO 和 PFO+理论的出现。复数量化的支持者声称，这些理论允许以与旧的集合论释义根本不同的方式形式化复数表达。特别是，他们声称这些理论在本体论上是无罪的，因为它们在问题中引入的是由组成复数的个体对象之外的集合或任何其他“类似集合”的实体的新本体论承诺。让我们称这后一个主张为本体论无罪。
+在分析哲学中，传统观点认为，如果需要的话，所有复数表达应该通过对集合进行量化来进行释义（第 1 节）。乔治 · 布洛斯（George Boolos）和其他人反对消除复数表达是不自然和不必要的。这导致了 PFO 和 PFO+理论的出现。复数量化的支持者声称，这些理论允许以与旧的集合论释义根本不同的方式形式化复数表达。特别是，他们声称这些理论在本体论上是无罪的，因为它们在问题中引入的是由组成复数的个体对象之外的集合或任何其他“类似集合”的实体的新本体论承诺。让我们称这后一个主张为本体论无罪。
 
-其他哲学家对本体论无罪提出了质疑。例如，迈克尔·雷斯尼克（Michael Resnik）对复数形式化的所谓本体论无罪表达（3'）的吉奇-卡普兰句子（3）表示疑虑。因为当（3'）按照指示翻译成英语时，它的读法如下：
+其他哲学家对本体论无罪提出了质疑。例如，迈克尔 · 雷斯尼克（Michael Resnik）对复数形式化的所谓本体论无罪表达（3'）的吉奇-卡普兰句子（3）表示疑虑。因为当（3'）按照指示翻译成英语时，它的读法如下：
 
  (3''')
 
@@ -325,7 +325,7 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 (18)
 
-乔治·布尔斯在 1985 年 1 月 1 日早餐时吃了一些 Cheerios。
+乔治 · 布尔斯在 1985 年 1 月 1 日早餐时吃了一些 Cheerios。
 
 当动词“吃”的直接宾语是复数时，我们可以通过关系 x 吃 y 的元素来解释这个动词。
 
@@ -347,7 +347,7 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 或许对于本体论的无辜性来说，最受欢迎的论证就是我现在要讨论的那个。在其最简单的形式中，这个论证是基于我们对本体论承诺的直觉。当你断言（18）时，你并没有感觉自己在本体上承诺了一个集合或任何其他“类似集合”的对象。当你断言 Geach-Kaplan 句子或任何其他 PFO 或 PFO+句子的英文翻译时，你也没有这样的感觉。至少这就是这个论证的观点。
 
-在这种简单形式中，这个论点容易受到人们的直觉提供了一个不好的基础来解决关于本体承诺的理论争议的反对意见的攻击。我们已经看到，有些英语能力强的人，比如迈克尔·雷斯尼克（Michael Resnik），并不分享这些直觉。此外，正如戴维森（Davidson）对行动句的普遍分析所清楚表明的那样，普通人对本体承诺的直觉并不总是可信的（戴维森，1967 年）。例如，有人可能真诚地断言约翰走得很慢，而不知道他已经承诺存在一个事件（即约翰走得很慢）。
+在这种简单形式中，这个论点容易受到人们的直觉提供了一个不好的基础来解决关于本体承诺的理论争议的反对意见的攻击。我们已经看到，有些英语能力强的人，比如迈克尔 · 雷斯尼克（Michael Resnik），并不分享这些直觉。此外，正如戴维森（Davidson）对行动句的普遍分析所清楚表明的那样，普通人对本体承诺的直觉并不总是可信的（戴维森，1967 年）。例如，有人可能真诚地断言约翰走得很慢，而不知道他已经承诺存在一个事件（即约翰走得很慢）。
 
 尽管这个反对意见有力，但通过对包含复数表达式的句子进行更仔细的研究，可以使论点更加明确（Boolos 1984: 447 [1998a: 70]; McKay 2006: ch. 2; Yi 2002: 7–15 and 2005: 469–472）。例如，我们可以问以下内容是否可以从（18）中推断出来：
 
@@ -385,23 +385,23 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
  苏格拉底是有限的。
 
-(24)的逻辑形式是 M(s)，其中 M 是谓词“是有限的”，s 是特定术语“苏格拉底”。让我们用[E]表示表达式 E 的语义值。根据前一段的内容，与(24)相关的语义值如下：
+(24)的逻辑形式是 M(s)，其中 M 是谓词“是有限的”，s 是特定术语“苏格拉底”。让我们用 [E] 表示表达式 E 的语义值。根据前一段的内容，与(24)相关的语义值如下：
 
 (25)
 
- [s]=苏格拉底
+ [s] = 苏格拉底
 
 (26)
 
-[M]=从对象到真值的函数 f，使得如果 x 是有限的，则 f(x)为真，否则为假
+[M] = 从对象到真值的函数 f，使得如果 x 是有限的，则 f(x)为真，否则为假
 
 (24)的真值因此确定为
 
 (27)
 
-[(24)] =[M(s)]= M=f(苏格拉底)= 真（如果苏格拉底是有限的）或假（否则）。
+[(24)] = [M(s)] = M = f(苏格拉底)= 真（如果苏格拉底是有限的）或假（否则）。
 
-弗雷格认为语义值和本体承诺之间的联系非常密切。根据上述分析，（24）支持两种存在泛化：不仅是∃x.M(x)（当且仅当存在某个有限的对象时为真），还有∃F.F(s)（当且仅当存在某个概念包含苏格拉底时为真）。根据弗雷格的观点，这表明像（24）这样的句子不仅对一个对象有本体承诺，还对一个概念有本体承诺。
+弗雷格认为语义值和本体承诺之间的联系非常密切。根据上述分析，（24）支持两种存在泛化：不仅是 ∃x.M(x)（当且仅当存在某个有限的对象时为真），还有 ∃F.F(s)（当且仅当存在某个概念包含苏格拉底时为真）。根据弗雷格的观点，这表明像（24）这样的句子不仅对一个对象有本体承诺，还对一个概念有本体承诺。
 
 对于目前的目的来说，重要的不是弗雷格关于概念的真实性或虚假性，而是是否可以为复数表达式开发出这样一个有力的论证。为了调查这个问题，让我们考虑一个简单的非分配复数断言，比如
 
@@ -413,17 +413,17 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 (29)
 
-[aa]=a1 和...和 an （其中 ai 是所有且仅是被证明的苹果）
+[aa] = a1 和...和 an （其中 ai 是所有且仅是被证明的苹果）
 
 (30)
 
-[C]=从多元性到真值的函数 g，使得 g(xx) 为真，如果 xx 形成一个圆，否则 g(xx) 为假
+[C] = 从多元性到真值的函数 g，使得 g(xx) 为真，如果 xx 形成一个圆，否则 g(xx) 为假
 
 (28) 的真值将由以下决定
 
 (31)
 
-[(28)] =[C(aa)]= C=g(a1 和…和 an) = 真（如果 a1 和…和 an 形成一个圈）或假（否则）
+[(28)] = [C(aa)] = C = g(a1 和…和 an) = 真（如果 a1 和…和 an 形成一个圈）或假（否则）
 
 这是符合预期的，考虑到（24）和（28）之间的句法相似性。
 
@@ -437,108 +437,108 @@ Boolos 和许多其他哲学家否认高级复数量化可以通过这种方式�
 
 * Armstrong, David, 1978, *Universals and Scientific Realism*, Vol. 1, Cambridge: Cambridge University Press.
 * Ben-Yami, Hanoch, 2004, *Logic and Natural Language: On Plural Reference and Its Semantic and Logical Significance*, Hants: Ashgate.
-* –––, 2009, “Plural Quantification Logic: A Critical Appraisal”, *Review of Symbolic Logic*, 2(1): 208–232. doi:10.1017/S1755020309090108
-* –––, 2013, “Higher-Level Plurals Versus Articulated Reference, and an Elaboration of Salva Veritate”, *Dialectica*, 67(1): 81–102. doi:10.1111/1746-8361.12013
+* –––, 2009, “Plural Quantification Logic: A Critical Appraisal”, *Review of Symbolic Logic*, 2(1): 208–232. doi: 10.1017/S1755020309090108
+* –––, 2013, “Higher-Level Plurals Versus Articulated Reference, and an Elaboration of Salva Veritate”, *Dialectica*, 67(1): 81–102. doi: 10.1111/1746-8361.12013
 * Black, Max, 1971, “The Elusiveness of Sets”, *Review of Metaphysics*, 24(4): 614–636.
-* Boccuni, Francesca, 2013, “Plural Logicism”, *Erkenntnis*, 78: 1051–1067. doi:10.1007/s10670-013-9482-z
-* Boolos, George, 1984, “To Be Is To Be a Value of a Variable (or to Be Some Values of Some Variables)”, *Journal of Philosophy*, 81(8): 430–50; repr. in Boolos 1998a. doi:10.2307/2026308
-* –––, 1985a, “Nominalist Platonism”, *Philosophical Review*, 94(3): 327–344; repr. in Boolos 1998a. doi:10.2307/2185003
-* –––, 1985b, “Reading the *Begriffsschrift*”, *Mind*, 94(375): 331–344; repr. in Boolos 1998a. doi:10.1093/mind/XCIV.375.331
+* Boccuni, Francesca, 2013, “Plural Logicism”, *Erkenntnis*, 78: 1051–1067. doi: 10.1007/s10670-013-9482-z
+* Boolos, George, 1984, “To Be Is To Be a Value of a Variable (or to Be Some Values of Some Variables)”, *Journal of Philosophy*, 81(8): 430–50; repr. in Boolos 1998a. doi: 10.2307/2026308
+* –––, 1985a, “Nominalist Platonism”, *Philosophical Review*, 94(3): 327–344; repr. in Boolos 1998a. doi: 10.2307/2185003
+* –––, 1985b, “Reading the *Begriffsschrift*”, *Mind*, 94(375): 331–344; repr. in Boolos 1998a. doi: 10.1093/mind/XCIV.375.331
 * –––, 1997, “Is Hume’s Principle Analytic?” in Richard G. Heck, Jr. (ed.), *Logic, Language, and Thought*, Oxford: Oxford University Press; repr. in Boolos 1998a.
 * –––, 1998a, *Logic, Logic, and Logic*, Richard Jeffrey (ed.), Cambridge, MA: Harvard University Press.
 * –––, 1998b, “Reply to Charles Parsons’ ‘Sets and Classes’”, in Boolos 1998a: pp. 30–36.
 * Boolos, George, John P. Burgess, and Richard C. Jeffrey, 2007, *Computability and Logic*, 5th edition, Cambridge: Cambridge University Press.
-* Bricker, Phillip, 1989, “Quantified Modal Logic and the Plural *De Re*”, *Midwest Studies in Philosophy*, 14: 372–394. doi:10.1111/j.1475-4975.1989.tb00198.x
-* Büchi, J. Richard, 1962, “On a Decision Method in Restricted Second Order Arithmetic”, in E. Nagel, P. Suppes, and A. Tarski (eds.), *Logic, Methodology, and Philosophy of Science*, Stanford, CA: Stanford University Press, pp. 1–11. Reprinted in *The Collected Works of J. Richard Büchi*, 1990, pp. 425–435. doi:10.1007/978-1-4613-8928-6_23
-* Burgess, John P., 2004, “*E Pluribus Unum*: Plural Logic and Set Theory”, *Philosophia Mathematica*, 12(3): 193–221. doi:10.1093/philmat/12.3.193
-* Burgess, John P. and Gideon Rosen, 1997, *A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics*, Oxford: Clarendon Press. doi:10.1093/0198250126.001.0001
+* Bricker, Phillip, 1989, “Quantified Modal Logic and the Plural *De Re*”, *Midwest Studies in Philosophy*, 14: 372–394. doi: 10.1111/j.1475-4975.1989.tb00198.x
+* Büchi, J. Richard, 1962, “On a Decision Method in Restricted Second Order Arithmetic”, in E. Nagel, P. Suppes, and A. Tarski (eds.), *Logic, Methodology, and Philosophy of Science*, Stanford, CA: Stanford University Press, pp. 1–11. Reprinted in *The Collected Works of J. Richard Büchi*, 1990, pp. 425–435. doi: 10.1007/978-1-4613-8928-6_23
+* Burgess, John P., 2004, “*E Pluribus Unum*: Plural Logic and Set Theory”, *Philosophia Mathematica*, 12(3): 193–221. doi: 10.1093/philmat/12.3.193
+* Burgess, John P. and Gideon Rosen, 1997, *A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics*, Oxford: Clarendon Press. doi: 10.1093/0198250126.001.0001
 * Cartwright, Richard, 2001, “A Question about Sets”, in Alex Byrne, Robert Stalnaker, and Ralph Wedgwood (eds.), *Fact and Value: Essays on Ethics and Metaphysics for Judith Jarvis Thomson*, Cambridge, MA: MIT Press, pp. 29–46.
-* Cocchiarella, Nino B., 2002, “On the Logic of Classes as Many”, *Studia Logica*, 70(3): 303–338. doi:10.1023/A:1015190829525
-* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, Nicholas Rescher (ed.), pp. 81–95, Pittsburg: University of Pittsburg Press. Reprinted in his *Essays on Actions and Events*, 1980 (subsequent edition, 2001: 105–148), Oxford: Clarendon. doi:10.1093/0199246270.003.0006
+* Cocchiarella, Nino B., 2002, “On the Logic of Classes as Many”, *Studia Logica*, 70(3): 303–338. doi: 10.1023/A: 1015190829525
+* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, Nicholas Rescher (ed.), pp. 81–95, Pittsburg: University of Pittsburg Press. Reprinted in his *Essays on Actions and Events*, 1980 (subsequent edition, 2001: 105–148), Oxford: Clarendon. doi: 10.1093/0199246270.003.0006
 * Dummett, Michael, 1981, *Frege: Philosophy of Language*, 2nd edition, Cambridge, MA: Harvard University Press.
 * –––, 1991, *Frege: Philosophy of Mathematics*, Cambridge, MA: Harvard University Press.
-* Field, Hartry, 1984, “Is Mathematical Knowledge Just Logical Knowledge?” *Philosophical Review*, 93(4): 509–552. doi:10.2307/2184826
-* –––, 1993, “The Conceptual Contingency of Mathematical Objects”, *Mind*, 102(406): 285–299. doi:10.1093/mind/102.406.285
+* Field, Hartry, 1984, “Is Mathematical Knowledge Just Logical Knowledge?” *Philosophical Review*, 93(4): 509–552. doi: 10.2307/2184826
+* –––, 1993, “The Conceptual Contingency of Mathematical Objects”, *Mind*, 102(406): 285–299. doi: 10.1093/mind/102.406.285
 * Florio, Salvatore, 2014a, “Semantics and the Plural Conception of Reality” *Philosophers’ Imprint*, 14(22): 1–20. [[Florio 2014a available online](http://hdl.handle.net/2027/spo.3521354.0014.022)]
-* –––, 2014b, “Untyped Pluralism”, *Mind*, 123(490): 317–337. doi:10.1093/mind/fzu069
-* Florio, Salvatore and Øystein Linnebo, 2016, “On the Innocence and Determinacy of Plural Quantification”, *Noûs*, 50(3): 565–583. doi:10.1111/nous.12091
-* –––, 2020, “Critical Plural Logic”, *Philosophia Mathematica*, 28(2): 172–203. doi:10.1093/philmat/nkaa020
+* –––, 2014b, “Untyped Pluralism”, *Mind*, 123(490): 317–337. doi: 10.1093/mind/fzu069
+* Florio, Salvatore and Øystein Linnebo, 2016, “On the Innocence and Determinacy of Plural Quantification”, *Noûs*, 50(3): 565–583. doi: 10.1111/nous.12091
+* –––, 2020, “Critical Plural Logic”, *Philosophia Mathematica*, 28(2): 172–203. doi: 10.1093/philmat/nkaa020
 * –––, 2021, *The Many and the One: A Philosophical Study of Plural Logic*, Oxford: Oxford University Press. [[Florio & Linnebo 2021 available online](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198791522.pdf)]
-* Florio, Salvatore and Stewart Shapiro, 2014, “Set Theory, Type Theory, and Absolute Generality”, *Mind*, 123(489): 157–174. doi:10.1093/mind/fzu039
+* Florio, Salvatore and Stewart Shapiro, 2014, “Set Theory, Type Theory, and Absolute Generality”, *Mind*, 123(489): 157–174. doi: 10.1093/mind/fzu039
 * Forbes, Graeme, 1989, *The Languages of Possibility*, Oxford: Blackwell.
 * Frege, Gottlob, 1879, *Begriffsschrift*, translated in Jean van Heijenoort (ed.), 1967, *From Frege to Gödel*, Cambridge, MA: Harvard University Press.
 * –––, 1884, *Foundations of Arithmetic*, transl. J.L. Austin, Evanston, IL: Northwestern University Press.
 * –––, 1914, “Logic in Mathematics”, in his *Posthumous Writings*, H. Hermes et al. (eds), 1979, Oxford: Blackwell, pp. 203–250.
-* Glanzberg, Michael, 2004, “Quantification and Realism”, *Philosophy and Phenomenological Research*, 69(3): 541–572. doi:10.1111/j.1933-1592.2004.tb00518.x
+* Glanzberg, Michael, 2004, “Quantification and Realism”, *Philosophy and Phenomenological Research*, 69(3): 541–572. doi: 10.1111/j.1933-1592.2004.tb00518.x
 * Gödel, Kurt, 1964, “What Is Cantor’s Continuum Problem?”, in his *Collected Works* (Volume II), 1990, Oxford: Oxford University Press, pp. 176–188.
-* Hazen, A.P., 1993, “Against Pluralism”, *Australasian Journal of Philosophy*, 71(2): 132–144. doi:10.1080/00048409312345142
-* –––, 1997, “Relations in Lewis’s Framework without Atoms”, *Analysis*, 57(4): 243–248. doi:10.1111/1467-8284.00082
-* –––, 2000, “Relations in Lewis’s Framework without Atoms: a Correction”, *Analysis*, 60(4): 351–353. doi:10.1111/1467-8284.00252
-* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press. doi:10.1093/0198240341.001.0001
-* –––, 1996, “Structuralism without Structures”, *Philosophia Mathematica*, 4(2): 100–123. doi:10.1093/philmat/4.2.100
-* Hewitt, Simon Thomas, 2012a, “Modalising Plurals”, *Journal of Philosophical Logic*, 41(5): 853–875. doi:10.1007/s10992-011-9194-2
-* –––, 2012b, “The Logic of Finite Order”, *Notre Dame Journal of Formal Logic*, 53(3): 297–318. doi:10.1215/00294527-1716820
+* Hazen, A.P., 1993, “Against Pluralism”, *Australasian Journal of Philosophy*, 71(2): 132–144. doi: 10.1080/00048409312345142
+* –––, 1997, “Relations in Lewis’s Framework without Atoms”, *Analysis*, 57(4): 243–248. doi: 10.1111/1467-8284.00082
+* –––, 2000, “Relations in Lewis’s Framework without Atoms: a Correction”, *Analysis*, 60(4): 351–353. doi: 10.1111/1467-8284.00252
+* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press. doi: 10.1093/0198240341.001.0001
+* –––, 1996, “Structuralism without Structures”, *Philosophia Mathematica*, 4(2): 100–123. doi: 10.1093/philmat/4.2.100
+* Hewitt, Simon Thomas, 2012a, “Modalising Plurals”, *Journal of Philosophical Logic*, 41(5): 853–875. doi: 10.1007/s10992-011-9194-2
+* –––, 2012b, “The Logic of Finite Order”, *Notre Dame Journal of Formal Logic*, 53(3): 297–318. doi: 10.1215/00294527-1716820
 * Higginbotham, James, 1998, “On Higher-Order Logic and Natural Language”, *Proceedings of the British Academy*, 95: 1–27. [[Higginbotham 1998 available online](http://www.britac.ac.uk/pubs/proc/volumes/pba95.html)]
-* Horden, John and Dan López de Sa, 2021, “Groups as Pluralities”, *Synthese*, 198: 10237–10271. doi:10.1007/s11229-020-02715-y
-* Hossack, Keith, 2000, “Plurals and Complexes”, *British Journal for Philosophy of Science*, 51(3): 411–443. doi:10.1093/bjps/51.3.411
-* –––, 2014, “Sets and Plural Comprehension”, *Journal of Philosophical Logic*, 43(2–3): 517–539. doi:10.1007/s10992-013-9278-2
-* Klement, Kevin C., 2014, “Early Russell on Types and Plurals”, *Journal For The History of Analytical Philosophy*, 2(6): 1–21. doi:10.15173/jhap.v2i6.47
+* Horden, John and Dan López de Sa, 2021, “Groups as Pluralities”, *Synthese*, 198: 10237–10271. doi: 10.1007/s11229-020-02715-y
+* Hossack, Keith, 2000, “Plurals and Complexes”, *British Journal for Philosophy of Science*, 51(3): 411–443. doi: 10.1093/bjps/51.3.411
+* –––, 2014, “Sets and Plural Comprehension”, *Journal of Philosophical Logic*, 43(2–3): 517–539. doi: 10.1007/s10992-013-9278-2
+* Klement, Kevin C., 2014, “Early Russell on Types and Plurals”, *Journal For The History of Analytical Philosophy*, 2(6): 1–21. doi: 10.15173/jhap.v2i6.47
 * Landman, Fred, 2000, *Events and Plurality*, Dordrecht: Kluwer.
 * Lewis, David, 1991, *Parts of Classes*, Oxford: Blackwell.
 * Link, Godehard, 1998, *Algebraic Semantics in Language and Philosophy*, Stanford, CA: CSLI Publications.
-* Linnebo, Øystein, 2003, “Plural Quantification Exposed”, *Noûs*, 37(1): 71–92. doi:10.1111/1468-0068.00429
-* –––, 2016, “Plurals and Modals”, *Canadian Journal of Philosophy*, 46(4–5): 654–676. doi:10.1080/00455091.2015.1132975
-* Linnebo, Øystein and David Nicolas, 2008, “Superplurals in English”, *Analysis*, 68(3): 186–197. doi:10.1111/j.1467-8284.2008.00737.x
-* Linnebo, Øystein and Agustín Rayo, 2012, “Hierarchies Ontological and Ideological”, *Mind*, 121(482): 269–308. doi:10.1093/mind/fzs050
+* Linnebo, Øystein, 2003, “Plural Quantification Exposed”, *Noûs*, 37(1): 71–92. doi: 10.1111/1468-0068.00429
+* –––, 2016, “Plurals and Modals”, *Canadian Journal of Philosophy*, 46(4–5): 654–676. doi: 10.1080/00455091.2015.1132975
+* Linnebo, Øystein and David Nicolas, 2008, “Superplurals in English”, *Analysis*, 68(3): 186–197. doi: 10.1111/j.1467-8284.2008.00737.x
+* Linnebo, Øystein and Agustín Rayo, 2012, “Hierarchies Ontological and Ideological”, *Mind*, 121(482): 269–308. doi: 10.1093/mind/fzs050
 * Lønning, Jan Tore, 1997, “Plurals and Collectivity”, in J. van Bentham and A. ter Meulen (eds.), *Handbook of Logic and Language*, Amsterdam: Elsevier, pp. 1009–1054.
-* McKay, Thomas, 2006, *Plural Predication*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278145.001.0001
-* Morton, Adam, 1975, “Complex Individuals and Multigrade Relations”, *Noûs*, 9(3): 309–318. doi:10.2307/2214634
-* Nicolas, David, 2008, “Mass Nouns and Plural Logic”, *Linguistics and Philosophy*, 31(2): 211–244. doi:10.1007/s10988-008-9033-2
-* Oliver, Alex and Timothy Smiley, 2001, “Strategies for a Logic of Plurals”, *Philosophical Quarterly*, 51(204): 289–306. doi:10.1111/j.0031-8094.2001.00231.x
-* –––, 2004, “Multigrade Predicates”, *Mind*, 113(452): 609–681. doi:10.1093/mind/113.452.609
-* –––, 2005, “Plural Descriptions and Many-Valued Functions”, *Mind*, 114(456): 1039–1068. doi:10.1093/mind/fzi1039
+* McKay, Thomas, 2006, *Plural Predication*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199278145.001.0001
+* Morton, Adam, 1975, “Complex Individuals and Multigrade Relations”, *Noûs*, 9(3): 309–318. doi: 10.2307/2214634
+* Nicolas, David, 2008, “Mass Nouns and Plural Logic”, *Linguistics and Philosophy*, 31(2): 211–244. doi: 10.1007/s10988-008-9033-2
+* Oliver, Alex and Timothy Smiley, 2001, “Strategies for a Logic of Plurals”, *Philosophical Quarterly*, 51(204): 289–306. doi: 10.1111/j.0031-8094.2001.00231.x
+* –––, 2004, “Multigrade Predicates”, *Mind*, 113(452): 609–681. doi: 10.1093/mind/113.452.609
+* –––, 2005, “Plural Descriptions and Many-Valued Functions”, *Mind*, 114(456): 1039–1068. doi: 10.1093/mind/fzi1039
 * –––, 2016, *Plural Logic*, second edition, revised and enlarged, Oxford: Oxford University Press.
-* Parsons, Charles, 1977, “What Is the Iterative Conception of Set?”, in *Logic, Foundations of Mathematics, and Computability Theory*, Robert E. Butts and Jaakko Hintikka (eds), Dordrecht/Boston: D. Reidel, pp. 335–367. Reprinted in Paul Benacerraf and Hilary Putnam (eds.), *Philosophy of Mathematics: Selected Readings*, 2nd edition, 1983, Cambridge: Cambridge University Press, pp. 503–529. doi:10.1007/978-94-010-1138-9_18 and doi:10.1017/CBO9781139171519.027
-* –––, 1990, “The Structuralist View of Mathematical Objects”, *Synthese*, 84(3): 303–346. doi:10.1007/BF00485186
+* Parsons, Charles, 1977, “What Is the Iterative Conception of Set?”, in *Logic, Foundations of Mathematics, and Computability Theory*, Robert E. Butts and Jaakko Hintikka (eds), Dordrecht/Boston: D. Reidel, pp. 335–367. Reprinted in Paul Benacerraf and Hilary Putnam (eds.), *Philosophy of Mathematics: Selected Readings*, 2nd edition, 1983, Cambridge: Cambridge University Press, pp. 503–529. doi: 10.1007/978-94-010-1138-9_18 and doi: 10.1017/CBO9781139171519.027
+* –––, 1990, “The Structuralist View of Mathematical Objects”, *Synthese*, 84(3): 303–346. doi: 10.1007/BF00485186
 * Quine, W.V., 1973, *Roots of Reference*, La Salle, IL: Open Court.
 * –––, 1982, *Methods of Logic*, 4th edition, Cambridge, MA: Harvard University Press
 * –––, 1986, *Philosophy of Logic*, 2nd edition, Cambridge, MA: Harvard University Press
-* Rayo, Agustín, 2002, “Word and Objects”, *Noûs*, 36(3): 436–464. doi:10.1111/1468-0068.00379
+* Rayo, Agustín, 2002, “Word and Objects”, *Noûs*, 36(3): 436–464. doi: 10.1111/1468-0068.00379
 * –––, 2006, “Beyond Plurals”, in Rayo and Uzquiano 2006: 220–254.
-* –––, 2007, “Plurals”, *Philosophy Compass*, 2(3): 411–427. doi:10.1111/j.1747-9991.2007.00060.x
-* Rayo, Agustín and Gabriel Uzquiano, 1999, “Toward a Theory of Second-Order Consequence”, *Notre Dame Journal of Formal Logic*, 40(3): 315–325. doi:10.1305/ndjfl/1022615612
+* –––, 2007, “Plurals”, *Philosophy Compass*, 2(3): 411–427. doi: 10.1111/j.1747-9991.2007.00060.x
+* Rayo, Agustín and Gabriel Uzquiano, 1999, “Toward a Theory of Second-Order Consequence”, *Notre Dame Journal of Formal Logic*, 40(3): 315–325. doi: 10.1305/ndjfl/1022615612
 * –––, 2006 (eds.), *Absolute Generality*, Oxford: Oxford University Press.
-* Rayo, Agustín and Stephen Yablo, 2001, “Nominalism through De-Nominalization”, *Noûs*, 35(1): 74–92. doi:10.1111/0029-4624.00288
-* Resnik, Michael, 1988, “Second-Order Logic Still Wild”, *Journal of Philosophy*, 85(2): 75–87. doi:10.2307/2026993
+* Rayo, Agustín and Stephen Yablo, 2001, “Nominalism through De-Nominalization”, *Noûs*, 35(1): 74–92. doi: 10.1111/0029-4624.00288
+* Resnik, Michael, 1988, “Second-Order Logic Still Wild”, *Journal of Philosophy*, 85(2): 75–87. doi: 10.2307/2026993
 * Roberts, Sam, forthcoming, “Pluralities as Nothing Over and Above”, *Journal of Philosophy*. [[preprint of Roberts forthcoming available from the author](https://samrroberts.files.wordpress.com/2021/08/pluralities_as_nothing_over_and_above-5.pdf)]
-* Rosen, Gideon and Cian Dorr, 2002, “Composition as Fiction”, in Richard M. Gale (ed.), *The Blackwell Guide to Metaphysics*, Oxford: Blackwell, pp. 151–174. doi:10.1002/9780470998984.ch8
-* Rouilhan, Philippe de, 2002, “On What There Are”, *Proceedings of the Aristotelian Society*, 102(1): 183–200. doi:10.1111/j.0066-7372.2003.00049.x
-* Rumfitt, Ian, 2005, “Plural Terms: Another Variety of Reference?” in José Luis Bermudez (ed.), *Thought, Reference and Experience: Themes from the Philosophy of Gareth Evans*, Oxford: Oxford University Press, pp. 84–123. doi:10.1093/acprof:oso/9780199248964.003.0004
+* Rosen, Gideon and Cian Dorr, 2002, “Composition as Fiction”, in Richard M. Gale (ed.), *The Blackwell Guide to Metaphysics*, Oxford: Blackwell, pp. 151–174. doi: 10.1002/9780470998984.ch8
+* Rouilhan, Philippe de, 2002, “On What There Are”, *Proceedings of the Aristotelian Society*, 102(1): 183–200. doi: 10.1111/j.0066-7372.2003.00049.x
+* Rumfitt, Ian, 2005, “Plural Terms: Another Variety of Reference?” in José Luis Bermudez (ed.), *Thought, Reference and Experience: Themes from the Philosophy of Gareth Evans*, Oxford: Oxford University Press, pp. 84–123. doi: 10.1093/acprof: oso/9780199248964.003.0004
 * Russell, Bertrand, 1903, *Principles of Mathematics*, Cambridge: Cambridge University Press.
 * Schein, Barry, 1993, *Plurals and Events*, Cambridge, MA: MIT Press.
-* –––, 2006, “Plurals”, in Ernest Lepore and Barry C. Smith (eds.), *Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press, pp. 716–767. doi:10.1093/oxfordhb/9780199552238.003.0029
-* Shapiro, Stewart, 1991, *Foundations without Foundationalism: A Case for Second-Order Logic*, Oxford: Clarendon. doi:10.1093/0198250290.001.0001
-* –––, 1993, “Modality and Ontology”, *Mind*, 102(407): 455–481. doi:10.1093/mind/102.407.455
+* –––, 2006, “Plurals”, in Ernest Lepore and Barry C. Smith (eds.), *Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press, pp. 716–767. doi: 10.1093/oxfordhb/9780199552238.003.0029
+* Shapiro, Stewart, 1991, *Foundations without Foundationalism: A Case for Second-Order Logic*, Oxford: Clarendon. doi: 10.1093/0198250290.001.0001
+* –––, 1993, “Modality and Ontology”, *Mind*, 102(407): 455–481. doi: 10.1093/mind/102.407.455
 * Simons, Peter, 1982, “Plural Reference and Set Theory”, in Barry Smith (ed.), *Parts and Moments: Studies in Logic and Formal Ontology*, Munich: Philosophia Verlag, pp. 199–260. [[Simons 1982 available online](http://ontology.buffalo.edu/smith/book/P&M/)]
-* –––, 1997, “Higher-Order Quantification and Ontological Commitment”, *Dialectica*, 51(4): 255–271. doi:10.1111/j.1746-8361.1997.tb00032.x
-* –––, 2016, “The Ontology and Logic of Higher-Order Multitudes”, in Massimiliano Carrara, Alexandra Arapinis, and Friederike Moltmann (eds), *Unity and Plurality: Logic, Philosophy, and Linguistics*, Oxford: Oxford University Press, pp. 55–69. doi:10.1093/acprof:oso/9780198716327.003.0004
+* –––, 1997, “Higher-Order Quantification and Ontological Commitment”, *Dialectica*, 51(4): 255–271. doi: 10.1111/j.1746-8361.1997.tb00032.x
+* –––, 2016, “The Ontology and Logic of Higher-Order Multitudes”, in Massimiliano Carrara, Alexandra Arapinis, and Friederike Moltmann (eds), *Unity and Plurality: Logic, Philosophy, and Linguistics*, Oxford: Oxford University Press, pp. 55–69. doi: 10.1093/acprof: oso/9780198716327.003.0004
 * Spencer, Joshua, 2012, “All Things Must Pass Away”, *Oxford Studies in Metaphysics*, 7: 67–92.
-* Stenius, Eric, 1974, “Sets”, *Synthese*, 27(1–2): 161–188. doi:10.1007/BF00660894
-* Tarski, Alfred (and John Corcoran, trans.), 1986, “What Are Logical Notions?”, *History and Philosophy of Logic*, 7(2): 143–154. doi:10.1080/01445348608837096
+* Stenius, Eric, 1974, “Sets”, *Synthese*, 27(1–2): 161–188. doi: 10.1007/BF00660894
+* Tarski, Alfred (and John Corcoran, trans.), 1986, “What Are Logical Notions?”, *History and Philosophy of Logic*, 7(2): 143–154. doi: 10.1080/01445348608837096
 * Taylor, Barry and A.P. Hazen, 1992, “Flexibly Structured Predication”, *Logique et Analyse*, 35(139–140): 375–393.
-* Uzquiano, Gabriel, 2003, “Plural Quantification and Classes”, *Philosophia Mathematica*, 11(1): 67–81. doi:10.1093/philmat/11.1.67
-* –––, 2004, “Plurals and Simples”, *Monist*, 87(3): 429–451. doi:10.5840/monist200487324
-* –––, 2011, “Plural Quantification and Modality”, *Proceedings of the Aristotelian Society*, 111(2_pt_2): 219–250. doi:10.1111/j.1467-9264.2011.00307.x
+* Uzquiano, Gabriel, 2003, “Plural Quantification and Classes”, *Philosophia Mathematica*, 11(1): 67–81. doi: 10.1093/philmat/11.1.67
+* –––, 2004, “Plurals and Simples”, *Monist*, 87(3): 429–451. doi: 10.5840/monist200487324
+* –––, 2011, “Plural Quantification and Modality”, *Proceedings of the Aristotelian Society*, 111(2_pt_2): 219–250. doi: 10.1111/j.1467-9264.2011.00307.x
 * van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
-* Williamson, Timothy, 2003, “Everything”, *Philosophical Perspectives*, 17: 415–465. doi:10.1111/j.1520-8583.2003.00017.x
-* –––, 2010, “Necessitism, Contingentism, and Plural Quantification”, *Mind*, 119(475): 657–748. doi:10.1093/mind/fzq042
+* Williamson, Timothy, 2003, “Everything”, *Philosophical Perspectives*, 17: 415–465. doi: 10.1111/j.1520-8583.2003.00017.x
+* –––, 2010, “Necessitism, Contingentism, and Plural Quantification”, *Mind*, 119(475): 657–748. doi: 10.1093/mind/fzq042
 * –––, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press.
-* –––, 2016, “Reply to Linnebo”, *Canadian Journal of Philosophy*, 46(4–5): 677–682. doi:10.1080/00455091.2016.1205856
-* Yablo, Stephen, 2000, “Apriority and Existence”, in Paul Boghossian and Christopher Peacocke (eds.), *New Essays on the A Priori*, Oxford: Oxford University Press, pp. 197–228. doi:10.1093/0199241279.003.0009
-* Yi, Byeong-Uk, 1999, “Is Two a Property?” *Journal of Philosophy*, 96(4): 163–190. doi:10.2307/2564701
+* –––, 2016, “Reply to Linnebo”, *Canadian Journal of Philosophy*, 46(4–5): 677–682. doi: 10.1080/00455091.2016.1205856
+* Yablo, Stephen, 2000, “Apriority and Existence”, in Paul Boghossian and Christopher Peacocke (eds.), *New Essays on the A Priori*, Oxford: Oxford University Press, pp. 197–228. doi: 10.1093/0199241279.003.0009
+* Yi, Byeong-Uk, 1999, “Is Two a Property?” *Journal of Philosophy*, 96(4): 163–190. doi: 10.2307/2564701
 * –––, 2002, *Understanding the Many*, New York, NY: Routledge.
-* –––, 2005, “The Logic and Meaning of Plurals, Part I”, *Journal of Philosophical Logic*, 34(5): 459–506. doi:10.1007/s10992-005-0560-9
-* –––, 2006, “The Logic and Meaning of Plurals, Part II”, *Journal of Philosophical Logic*, 35(3): 239–288. doi:10.1007/s10992-005-9015-6
+* –––, 2005, “The Logic and Meaning of Plurals, Part I”, *Journal of Philosophical Logic*, 34(5): 459–506. doi: 10.1007/s10992-005-0560-9
+* –––, 2006, “The Logic and Meaning of Plurals, Part II”, *Journal of Philosophical Logic*, 35(3): 239–288. doi: 10.1007/s10992-005-9015-6
 
 ## Academic Tools
 

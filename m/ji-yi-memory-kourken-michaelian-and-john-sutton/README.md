@@ -1,6 +1,6 @@
 # 记忆 memory (Kourken Michaelian and John Sutton)
 
-*首次发表于2017年4月24日星期一*
+*首次发表于 2017 年 4 月 24 日星期一*
 
 记忆在哲学的许多领域中起着重要作用。它对我们对世界的一般认识和个人过去的认识至关重要。它支持我们作为个体的身份和与他人的联系。哲学对记忆的兴趣可以追溯到古代，并在哲学的历史中一直占据重要地位（Aho 2014; Bloch 2014; Burnham 1888; Herrmann & Chaffinn 1988; Nikulin 2015）。最近，记忆作为一个重要的哲学主题开始被认识到，并成为独立的研究领域——记忆哲学的出现（Bernecker & Michaelian 2017）。
 
@@ -12,15 +12,15 @@
 
 ## 1. 记忆的形而上学：概述
 
-与其他领域相比，记忆的形而上学反映了上述跨学科的趋势，而在这个领域的工作有时会涉及到心理学哲学（Rowlands 2009）和神经科学哲学（Bickle 2011）。适当的情况下，我们将讨论与心理学哲学相关的工作；关于更专门的神经科学哲学工作，请参阅有关该主题的条目。记忆的形而上学主流研究的核心目标是发展一种记忆理论：一种关于某人记住某事是什么的一般但有信息量的解释。然而，正如我们将看到的，记忆有多种类型。目前尚不清楚是否有可能发展一种适用于所有这些类型的记忆理论，最终可能需要发展多种记忆理论，以对应多种记忆类型。（类似的情况可能也适用于记忆的认识论[Teroni 2014]。）
+与其他领域相比，记忆的形而上学反映了上述跨学科的趋势，而在这个领域的工作有时会涉及到心理学哲学（Rowlands 2009）和神经科学哲学（Bickle 2011）。适当的情况下，我们将讨论与心理学哲学相关的工作；关于更专门的神经科学哲学工作，请参阅有关该主题的条目。记忆的形而上学主流研究的核心目标是发展一种记忆理论：一种关于某人记住某事是什么的一般但有信息量的解释。然而，正如我们将看到的，记忆有多种类型。目前尚不清楚是否有可能发展一种适用于所有这些类型的记忆理论，最终可能需要发展多种记忆理论，以对应多种记忆类型。（类似的情况可能也适用于记忆的认识论 [Teroni 2014]。）
 
-大多数最近的研究关注的特定类型的记忆已经有了许多名称，但是，采用图尔文（Tulving）（1972年，1985a年）的心理学术语，哲学家们越来越多地将其称为“情节性记忆”（例如，Hoerl 2007; Dokic 2014; Hopkins 2014; Perrin＆Rousset 2014; Soteriou 2008）。术语可能是新的，但关注点并不是（Brewer 1996）。情节性记忆大致上是指对个人过去事件的记忆，至少从亚里士多德（Sorabji 2006）开始，继续到包括洛克（1998年）、休谟（[1739] 2011年）和里德（[1785] 2002年）在内的早期现代哲学家，哲学家们特别关注情节性记忆，因为它为记忆者提供了一种独特的访问过去事件的方式。对于一些人来说，只有情节性记忆真正值得被称为“记忆”（Klein 2015; B. Russell 1921）。反映这一关注，本文主要关注情节性记忆的理论：关于某人如何记住他个人过去事件的解释。
+大多数最近的研究关注的特定类型的记忆已经有了许多名称，但是，采用图尔文（Tulving）（1972 年，1985a 年）的心理学术语，哲学家们越来越多地将其称为“情节性记忆”（例如，Hoerl 2007; Dokic 2014; Hopkins 2014; Perrin＆Rousset 2014; Soteriou 2008）。术语可能是新的，但关注点并不是（Brewer 1996）。情节性记忆大致上是指对个人过去事件的记忆，至少从亚里士多德（Sorabji 2006）开始，继续到包括洛克（1998 年）、休谟（[1739] 2011 年）和里德（[1785] 2002 年）在内的早期现代哲学家，哲学家们特别关注情节性记忆，因为它为记忆者提供了一种独特的访问过去事件的方式。对于一些人来说，只有情节性记忆真正值得被称为“记忆”（Klein 2015; B. Russell 1921）。反映这一关注，本文主要关注情节性记忆的理论：关于某人如何记住他个人过去事件的解释。
 
 或许由于他们对于记忆片段的关注，哲学家们通常将记忆视为单个个体所行使的能力。但是，最近在各个学科领域的研究工作开始挑战这种个体主义的观点，记忆的形而上学问题也开始涉及到人类和社会科学中集体记忆研究的问题，这一传统可以追溯到哈尔布瓦赫斯（[1925] 1994；参见巴拉什 2016；迈克利安和萨顿即将出版），并最近催生了跨学科的记忆研究领域（罗迪格和韦尔奇 2008；塞格斯滕和吴斯滕伯格即将出版）。它还涉及到认知科学中关于外部记忆的最新研究传统，该传统通过分布式（Hutchins 1995）或扩展（Clark＆Chalmers 1998）的认知理论来看待记忆。虽然本文主要关注个体记忆，但也将讨论这些较新的问题。
 
 ## 2. 记忆的种类
 
-在讨论记忆片段的理论之前，将记忆片段与其他种类的记忆进行定位将会有所帮助。在最广义上，"记忆"指的是人类和其他主体能够进行的各种学习形式的多样结果。因此，任何一个主体在经历中行为倾向的任何修改都有可能被视为记忆，使得记忆的范畴非常广泛。尽管范畴的广度很大，但是对于人类记忆种类的分类大致上达成了共识。
+在讨论记忆片段的理论之前，将记忆片段与其他种类的记忆进行定位将会有所帮助。在最广义上，"记忆" 指的是人类和其他主体能够进行的各种学习形式的多样结果。因此，任何一个主体在经历中行为倾向的任何修改都有可能被视为记忆，使得记忆的范畴非常广泛。尽管范畴的广度很大，但是对于人类记忆种类的分类大致上达成了共识。
 
 ### 2.1 标准分类法
 
@@ -40,7 +40,7 @@
 
 ### 2.2 替代分类法
 
-Squire的分类法具有极大的影响力，但在心理学和哲学领域中也提出了替代性的分类法。在心理学中，Atkinson和Shiffrin（1968）提出了一个多存储模型，其中记忆的种类根据其时间持续性进行区分。超短期记忆指的是感觉信息在不到一秒的时间内持续存在。短期记忆指的是信息在30秒内持续存在；短期记忆从超短期记忆中接收信息，在一定程度上受到意识控制，但容量有限。长期记忆指的是信息在无限长的时间内存储；长期记忆从短期记忆中接收信息，具有有效无限的容量。尽管这种分类法没有区分出不同种类的长期记忆，特别是没有区分情景记忆和语义记忆，但它在心理学研究中得到了有益的应用。然而，除了个别例外（Werning和Cheng 2017），它并没有在哲学讨论中得到应用。
+Squire 的分类法具有极大的影响力，但在心理学和哲学领域中也提出了替代性的分类法。在心理学中，Atkinson 和 Shiffrin（1968）提出了一个多存储模型，其中记忆的种类根据其时间持续性进行区分。超短期记忆指的是感觉信息在不到一秒的时间内持续存在。短期记忆指的是信息在 30 秒内持续存在；短期记忆从超短期记忆中接收信息，在一定程度上受到意识控制，但容量有限。长期记忆指的是信息在无限长的时间内存储；长期记忆从短期记忆中接收信息，具有有效无限的容量。尽管这种分类法没有区分出不同种类的长期记忆，特别是没有区分情景记忆和语义记忆，但它在心理学研究中得到了有益的应用。然而，除了个别例外（Werning 和 Cheng 2017），它并没有在哲学讨论中得到应用。
 
 在哲学中，Bernecker（2010）提出了一种纯语法方法，认为记忆的种类是由动词“记得”所能接受的对象的种类决定的。因此，他区分了对象记忆、属性记忆、事件记忆以及命题或事实记忆。虽然语法方法在哲学界被认为是自然的，但这种特定的分类目录迄今为止并没有被广泛采用。这可能部分原因是，由于分类目录的基础纯粹是语言学的，它难以区分特定现象学特征的情节记忆和缺乏这种现象学特征的事件记忆（Schechtman 2011）。这也可能部分原因是，由于它跨越了标准分类所使用的范畴，很难将 Bernecker 的分类目录应用于依赖于后者的研究中。
 
@@ -96,7 +96,7 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 其他研究者认为，自知性甚至是情节记忆的一个偶然特征。这将削弱其作为情节性的标准的地位，但是，无论自知性被认为是情节记忆的必要特征还是偶然特征，为什么我们能够拥有自知性情节记忆而不仅仅是简单的何时何地记忆，这并不是显而易见的。事实上，以功能术语解释任何形式的情节记忆都被证明是一个困难的挑战，研究者们提出了一系列过去导向、未来导向或反事实以及元认知的解释。
 
-过去导向的解释倾向于情节记忆与程序性记忆（Sherry＆Schacter 1987）或语义记忆（Klein，Cosmides，Tooby＆Chance 2002）之间的功能不兼容性。这种解释背后的思想是，相对于在语义或程序性记忆中反映的事件的重复特征，能够访问有关特定过去事件的信息是适应性有益的；例如，这些信息可能使我们能够重新评估基于他们过去行为的对他人的一般印象（Klein等，2009年）。就何时何地记忆的功能而言，过去导向的解释是合理的，但它们没有确定只有在何时何地信息伴随着自我意识时才能执行的功能。未来导向和反事实解释倾向于情节记忆与情节未来思维（Suddendorf＆Corballis 2007；Tulving 2005）或情节反事实思维（De Brigard 2014a）之间的联系。这种解释背后的思想是，通过直接预期未来事件（在情节未来思维中）或考虑过去事件的替代结果（在情节反事实思维中），为未来事件做准备是适应性有益的；然后可以将记忆过去事件的能力解释为能够想象未来或反事实事件的能力的副产品。与这些解释一致，有人提出未来导向的心理时间旅行可能有助于减少延迟贴现（Boyer 2008）。还有人提出，早期人类的认知领域可能涉及对预期计划能力的选择（Osvath＆Gärdenfors 2005），这一建议与将心理时间旅行与其他认知能力（如语言）联系起来的观点相吻合，这些能力似乎是人类独有的（Corballis 2011；Ferretti＆Cosentino 2013；Suddendorf 2013）。
+过去导向的解释倾向于情节记忆与程序性记忆（Sherry＆Schacter 1987）或语义记忆（Klein，Cosmides，Tooby＆Chance 2002）之间的功能不兼容性。这种解释背后的思想是，相对于在语义或程序性记忆中反映的事件的重复特征，能够访问有关特定过去事件的信息是适应性有益的；例如，这些信息可能使我们能够重新评估基于他们过去行为的对他人的一般印象（Klein 等，2009 年）。就何时何地记忆的功能而言，过去导向的解释是合理的，但它们没有确定只有在何时何地信息伴随着自我意识时才能执行的功能。未来导向和反事实解释倾向于情节记忆与情节未来思维（Suddendorf＆Corballis 2007；Tulving 2005）或情节反事实思维（De Brigard 2014a）之间的联系。这种解释背后的思想是，通过直接预期未来事件（在情节未来思维中）或考虑过去事件的替代结果（在情节反事实思维中），为未来事件做准备是适应性有益的；然后可以将记忆过去事件的能力解释为能够想象未来或反事实事件的能力的副产品。与这些解释一致，有人提出未来导向的心理时间旅行可能有助于减少延迟贴现（Boyer 2008）。还有人提出，早期人类的认知领域可能涉及对预期计划能力的选择（Osvath＆Gärdenfors 2005），这一建议与将心理时间旅行与其他认知能力（如语言）联系起来的观点相吻合，这些能力似乎是人类独有的（Corballis 2011；Ferretti＆Cosentino 2013；Suddendorf 2013）。
 
 未来导向和反事实的解释，就像过去导向的解释一样，在涉及何时何地记忆的功能方面是合理的，但并没有确定只有在何时何地信息伴随着自知意识时才能执行的功能。与这些解释相反，元认知解释专注于自知意识，暗示这种意识形式可能发挥元认知角色。这里的一个可能性是，自知意识本身直接构建了一种主观确定性的感觉，即一种明显记忆事件确实发生了，使主体能够根据记忆的信息行动，而不是陷入不确定性中（Klein 2014; Tulving 1985a）。另一个可能性是，自知意识作为元认知监控过程利用的几个标准之一，使主体能够判断自己是在记忆还是在想象。一个相关的可能性是，自知意识使主体能够对自己关于过去的断言负有认识责任，从而最终发挥沟通角色（Mahr & Csibra forthcoming）。虽然这些元认知解释仍然是推测性的，但它们至少开始接近自知情景记忆的功能。
 
@@ -116,7 +116,7 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 区分记忆和纯粹的想象需要确定一个或多个记忆标记，其中记忆标记是区分记忆（无论成功与否）和纯粹想象的因素。记忆标记的概念本身具有重要的歧义性。一方面，记忆标记可以被理解为记忆者自己可以使用的因素，从第一人称的角度来区分记忆和想象。另一方面，它们也可以被理解为记忆理论家可以诉诸的因素，从第三人称的角度来区分记忆和想象。
 
-值得注意的是，第一人称和第三人称记忆标记之间没有任何对应的保证。许多可能被认为会影响记忆者主观判断自己是在回忆还是仅仅在想象的因素，例如表面记忆的生动性，这些因素并不能追踪记忆和想象之间的客观界限。而许多可能被认为会追踪该界限的因素，例如表面记忆事件与主体最初经历之间的因果关系，这些因素对于记忆者来说是无法获取的，因此不符合第一人称标记的条件。对于忽视第一人称和第三人称标记之间区别的提出的记忆标记的批评可能会偏离目标。例如，Bernecker（2008）对心理学中的源监测框架（Johnson（1997）；见下文）以及哲学中类似的早期方法（Smith 2013）提出了反对意见，理由是该框架所确定的标记只能不完全地区分记忆和想象。如果将这些方法理解为与第三人称标记相关，那么Bernecker的批评是有道理的。然而，如果将其理解为与第一人称标记相关，那么就不是这样的：由于主体对于自己是否在回忆还是在想象的判断有时是错误的，第一人称记忆标记的解释不应该确定完全区分记忆和想象的标记。
+值得注意的是，第一人称和第三人称记忆标记之间没有任何对应的保证。许多可能被认为会影响记忆者主观判断自己是在回忆还是仅仅在想象的因素，例如表面记忆的生动性，这些因素并不能追踪记忆和想象之间的客观界限。而许多可能被认为会追踪该界限的因素，例如表面记忆事件与主体最初经历之间的因果关系，这些因素对于记忆者来说是无法获取的，因此不符合第一人称标记的条件。对于忽视第一人称和第三人称标记之间区别的提出的记忆标记的批评可能会偏离目标。例如，Bernecker（2008）对心理学中的源监测框架（Johnson（1997）；见下文）以及哲学中类似的早期方法（Smith 2013）提出了反对意见，理由是该框架所确定的标记只能不完全地区分记忆和想象。如果将这些方法理解为与第三人称标记相关，那么 Bernecker 的批评是有道理的。然而，如果将其理解为与第一人称标记相关，那么就不是这样的：由于主体对于自己是否在回忆还是在想象的判断有时是错误的，第一人称记忆标记的解释不应该确定完全区分记忆和想象的标记。
 
 第一人称记忆标记在帮助记忆者应对记忆和想象之间相互作用所带来的两个问题方面起着至关重要的作用。源问题是由于主体不仅记忆来自经验的信息，还记忆来自各种其他来源（包括想象）的信息。例如，一个人可能想象一个事件，然后记得这个想象的事件。因此，当一个人记忆时，他面临着确定记忆的信息是来自经验还是来自其他来源的问题。主体似乎通过依赖一种被称为“源监控”的元记忆形式（Johnson 1997）来应对这个问题，在这种形式中，他们使用各种基于内容的标记来确定他们是否基于经验进行记忆。例如，来自经验的记忆往往更详细，并且不包含有关产生它们的认知操作的信息，而来自想象的记忆往往较少详细，并包含有关产生它们的认知操作的信息。
 
@@ -124,7 +124,7 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 ### 4.2 记忆的理论
 
-因此，一种完整的记忆理论将包括对第一人称记忆标记的解释，但是在这里描述的记忆理论主要关注第三人称标记。这些理论可以与两种一般而言相互矛盾的记忆观念相对应。所讨论的观念已经以多种不同的方式进行描述。科里亚特和戈德史密斯（1996）将存储观念与对应观念相对立，而罗宾斯（2016a）将档案观念与建构观念相对立。借用一些认识论的术语，所讨论的观念也可以被描述为保留主义和生成主义。保留主义认为记忆本质上是一种编码、存储和检索信息的问题。在哲学中，保留主义通过将记忆与各种信息存储技术进行比较（始于柏拉图的蜡板隐喻）（德佩尔2016；德拉伊斯马2000）得到体现。在心理学中，它体现在埃宾豪斯（[1885] 1913）关于无意义音节列表记忆的基础实验工作中。埃宾豪斯的遗产在一个富有成果的研究传统中得以延续，但当代心理学的重点是记忆的生成观念。生成主义认为记忆是一个主体构建过去的更或多或少充分的表征的主动过程。在心理学中，生成主义体现在巴特利特（[1932] 1995；瓦格纳2017）关于记忆是如何由记忆主体创造和再创造的开创性工作中。在哲学中，许多研究人员继续使用保留主义的记忆观念，但是从对虚假和恢复记忆日益增长的兴趣开始（S. Campbell 2003, 2014；Hacking 1995；Hamilton 1998），生成主义变得越来越有影响力。
+因此，一种完整的记忆理论将包括对第一人称记忆标记的解释，但是在这里描述的记忆理论主要关注第三人称标记。这些理论可以与两种一般而言相互矛盾的记忆观念相对应。所讨论的观念已经以多种不同的方式进行描述。科里亚特和戈德史密斯（1996）将存储观念与对应观念相对立，而罗宾斯（2016a）将档案观念与建构观念相对立。借用一些认识论的术语，所讨论的观念也可以被描述为保留主义和生成主义。保留主义认为记忆本质上是一种编码、存储和检索信息的问题。在哲学中，保留主义通过将记忆与各种信息存储技术进行比较（始于柏拉图的蜡板隐喻）（德佩尔 2016；德拉伊斯马 2000）得到体现。在心理学中，它体现在埃宾豪斯（[1885] 1913）关于无意义音节列表记忆的基础实验工作中。埃宾豪斯的遗产在一个富有成果的研究传统中得以延续，但当代心理学的重点是记忆的生成观念。生成主义认为记忆是一个主体构建过去的更或多或少充分的表征的主动过程。在心理学中，生成主义体现在巴特利特（[1932] 1995；瓦格纳 2017）关于记忆是如何由记忆主体创造和再创造的开创性工作中。在哲学中，许多研究人员继续使用保留主义的记忆观念，但是从对虚假和恢复记忆日益增长的兴趣开始（S. Campbell 2003, 2014；Hacking 1995；Hamilton 1998），生成主义变得越来越有影响力。
 
 充分中庸的保存主义和生成主义版本可能并不相互排斥。为了解释与完美存储的偏差，保存主义者可以承认记忆的积极、建设性的特性。而且，由于存储的信息提供了主体构建过去的表征所需的原材料，生成主义者不必否认记忆涉及信息的存储。然而，不那么中庸的保存主义和生成主义版本可能是不相容的。一些保存主义者否认真正的记忆与检索的记忆表征中包含超出主体对事件的原始体验所包含的内容的一致性（例如，Bernecker（2010））。与此同时，一些生成主义者承认记忆涉及保留源自体验的信息，但否认真正的记忆需要在检索的记忆表征中包含任何在主体对事件的原始体验中包含的内容（例如，Michaelian 2016c）。很难看出这些更极端的保存主义和生成主义观念如何能相互调和。
 
@@ -142,7 +142,7 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 认识论理论家（例如，Ayer 1956; Annis 1980; A. Holland 1974; D. Locke 1971; Munsat 1967; Naylor 1971; Ryle [1949] 2009; Zemach 1968）认为记忆某事是指自从第一次学到它以来一直知道它的事情。[1] 认识论记忆理论可能捕捉到我们对“记得”这个动词的普通用法的重要特征（Moon 2013），并且已经得到了一些当代支持者的认同（例如，T. Williamson 2000; Adams 2011; Audi 2002），但它也面临一些严重的问题。一个问题是，由于认识论理论是以命题知识的术语来表述的，它只适用于情节性记忆，前提是我们将情节性表征视为命题性的。此外，即使将该理论作为语义记忆的理论来考虑，它仍然存在问题。语义记忆可能大致对应于命题性记忆，但这种对应只是大致的：根据大多数观点，语义记忆包括各种非命题性的表征。因此，该理论最多只适用于语义记忆的一个子集。
 
-另一个问题是，由于知识需要真实性、证明和信念，认识论理论家必须声称记忆需要真实性、证明和信念，而这些声称都受到了有力的质疑。正如我们将在第6节中看到的那样，似乎存在着没有真实性的记忆案例。同样可以说，存在没有证明的信念案例（Audi 1995; Bernecker 2011）。例如，Lackey（2005）描述了这样一个案例，在最初形成信念之后，主体获得了削弱其证明的破坏因素。而且，可以说存在没有信念的记忆案例。Martin和Deutscher（1966）通过一个假设性案例，即一个画家绘制了一个他认为是虚构的场景，但事实上与他小时候目睹的场景完全相符；直观上，这是一个不信念的记忆实例。由于主体缺乏记忆的特征现象学，认识论理论家原则上可以否认这个特定案例是记忆的一个实例。但是，在心理学家研究的那种非信念记忆中（Otgaar, Scoboria, & Mazzoni 2014），尽管具有记忆的特征现象学，主体仍未形成与其记忆相对应的信念；这种类型的非信念记忆的存在是被充分证实的。
+另一个问题是，由于知识需要真实性、证明和信念，认识论理论家必须声称记忆需要真实性、证明和信念，而这些声称都受到了有力的质疑。正如我们将在第 6 节中看到的那样，似乎存在着没有真实性的记忆案例。同样可以说，存在没有证明的信念案例（Audi 1995; Bernecker 2011）。例如，Lackey（2005）描述了这样一个案例，在最初形成信念之后，主体获得了削弱其证明的破坏因素。而且，可以说存在没有信念的记忆案例。Martin 和 Deutscher（1966）通过一个假设性案例，即一个画家绘制了一个他认为是虚构的场景，但事实上与他小时候目睹的场景完全相符；直观上，这是一个不信念的记忆实例。由于主体缺乏记忆的特征现象学，认识论理论家原则上可以否认这个特定案例是记忆的一个实例。但是，在心理学家研究的那种非信念记忆中（Otgaar, Scoboria, & Mazzoni 2014），尽管具有记忆的特征现象学，主体仍未形成与其记忆相对应的信念；这种类型的非信念记忆的存在是被充分证实的。
 
 另一个问题是，这个理论似乎要么崩溃成为因果理论，要么使记忆变得非常神秘。正如德意志（1989）指出的那样，关于保留知识是什么的合理解释似乎没有什么可信的故事，这个解释不涉及因果关系理论所假设的那种因果关系。因此，如果认识论理论家用因果关系来阐释知识的保留，那么他的理论就会崩溃成为因果理论；而如果认识论理论家拒绝用因果关系来阐释知识的保留，那么他的理论就无法真正洞察记忆的本质。
 
@@ -154,11 +154,11 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 虽然因果理论在过去和现在都具有巨大的影响力，但适当的因果条件的必要性和充分性都受到了质疑。对条件充分性的挑战更为普遍。其中一种挑战涉及记忆的认识相关性。德布斯（2010）认为真实的记忆对于记忆主体来说在认识上是必要相关的，也就是说，他在形成关于过去的判断时会考虑到它们。在最直接的情况下，主体记得某个事件，因此形成了事件发生的信念。在不那么直接的情况下，主体可能不形成事件发生的信念，但仍然有这样的倾向。德布斯认为，因果理论没有将认识相关性视为记忆的必要条件，因此必然会将某些情况分类为真实记忆的实例，而实际上它们只是表面记忆的实例。例如，在上述画家的案例中，画家在形成关于过去的判断时忽视了他的表面记忆，因此不应将其归类为真实记忆；但可以假设，这个表面记忆是由画家过去的经历适当引起的，因此因果理论必然将其归类为真实记忆。鉴于认识相关性对于真实记忆是必要的，这个论点表明适当的因果条件必须补充一个明确要求认识相关性的条件。然而，认为认识相关性对于真实记忆是必要的这一观点可能混淆了记忆性和情节性：对于画家的案例，一个自然的解释是画家在记忆，但由于缺乏自知意识，他不是以情节方式记忆。
 
-另一个挑战涉及到记忆痕迹的本质。痕迹将在下文中详细讨论，但文献中存在两种主要的痕迹概念，一些理论家将痕迹理解为具有明确内容的本地、个体存储实体，而另一些理论家将其理解为具有隐含内容的分布式、叠加存储实体。本地概念由马丁和德奇尔（1966）采用，更为直接，但分布式概念受到了连接主义记忆方法（McClelland＆Rumelhart 1986）的启发，并由萨顿（1998）进行了详细发展，逐渐成为主流观点（罗宾斯2017）。如果分布式概念是正确的，那么个体经验严格来说并不会导致持久的个体痕迹，而是修改事件特征网络中的连接权重。罗宾斯（2016b）认为，因此，依赖分布式表示的因果理论没有任何方法将一个个体事件单独标识为被记忆的事件。这将是一个不幸的推论，但分布式概念可能能够避免这一点。在标准的分布式连接主义方法中（奥布莱恩1991），短暂的激活模式是离散的明确表示，尽管它们仅从连接权重中整体存储的信息中生成：因此，在检索时，可以有一个明确表示一个个体被记忆事件的表示。
+另一个挑战涉及到记忆痕迹的本质。痕迹将在下文中详细讨论，但文献中存在两种主要的痕迹概念，一些理论家将痕迹理解为具有明确内容的本地、个体存储实体，而另一些理论家将其理解为具有隐含内容的分布式、叠加存储实体。本地概念由马丁和德奇尔（1966）采用，更为直接，但分布式概念受到了连接主义记忆方法（McClelland＆Rumelhart 1986）的启发，并由萨顿（1998）进行了详细发展，逐渐成为主流观点（罗宾斯 2017）。如果分布式概念是正确的，那么个体经验严格来说并不会导致持久的个体痕迹，而是修改事件特征网络中的连接权重。罗宾斯（2016b）认为，因此，依赖分布式表示的因果理论没有任何方法将一个个体事件单独标识为被记忆的事件。这将是一个不幸的推论，但分布式概念可能能够避免这一点。在标准的分布式连接主义方法中（奥布莱恩 1991），短暂的激活模式是离散的明确表示，尽管它们仅从连接权重中整体存储的信息中生成：因此，在检索时，可以有一个明确表示一个个体被记忆事件的表示。
 
 或者，因果论者可能会退回到对痕迹的局部概念，但这样做可能无法避免这个困难。任何承认记忆的建构性质的因果论者都必须承认，当一个人记忆时，虽然检索到的表征的一部分内容可能源自于对所记忆事件的经验，但其余部分可能源自于对其他事件的经验。这意味着一个人可能不仅满足适当的因果条件，而且还满足其他事件的适当因果条件。鉴于一个人不记得其他事件，满足适当的因果条件并不足以构成记忆。总的来说，无论是采用分布式概念还是局部概念的痕迹，适当的因果条件是否足以构成记忆还不清楚。
 
-如果适当的因果条件仅仅不足以满足记忆的要求，那么通过补充额外的条件，可以产生一个充分的记忆理论，从而形成经典因果理论的一个变种。然而，如果这个条件不是必要的，那么因果理论将不得不被彻底拒绝，尽管对条件的充分性的质疑更为普遍，但对条件的必要性也受到了质疑。这些质疑是由于因果理论与记忆的建构性特征之间的紧张关系所引发的。经典因果理论将检索到的记忆表征的内容完全视为主体对所记事件的原始经验的衍生物。因果论者并不要求检索到的表征的内容与相应的经验完全匹配。特别是，他们并不要求检索到的表征继承所有经验的内容。但大多数人要求检索到的表征不包含原始经验中未包含的内容。然而，关于建构性记忆的研究表明，检索到的表征的内容通常与经验的内容不同，不仅不包含后者包含的某些信息，而且还包含后者不包含的某些信息。例如，在边界扩展的情况下，主体看到了场景的一部分，但记忆中却包括了超出其视野范围的部分（Hubbard、Hutchison和Courtney，2010年）。总的来说，记忆不是一个复制的过程，而是一个重建的过程，其中以灵活的方式提取和重新组合以前经历的组成部分，通常会产生包含与相应经验不同的内容的表征（Schacter和Addis，2007年）。
+如果适当的因果条件仅仅不足以满足记忆的要求，那么通过补充额外的条件，可以产生一个充分的记忆理论，从而形成经典因果理论的一个变种。然而，如果这个条件不是必要的，那么因果理论将不得不被彻底拒绝，尽管对条件的充分性的质疑更为普遍，但对条件的必要性也受到了质疑。这些质疑是由于因果理论与记忆的建构性特征之间的紧张关系所引发的。经典因果理论将检索到的记忆表征的内容完全视为主体对所记事件的原始经验的衍生物。因果论者并不要求检索到的表征的内容与相应的经验完全匹配。特别是，他们并不要求检索到的表征继承所有经验的内容。但大多数人要求检索到的表征不包含原始经验中未包含的内容。然而，关于建构性记忆的研究表明，检索到的表征的内容通常与经验的内容不同，不仅不包含后者包含的某些信息，而且还包含后者不包含的某些信息。例如，在边界扩展的情况下，主体看到了场景的一部分，但记忆中却包括了超出其视野范围的部分（Hubbard、Hutchison 和 Courtney，2010 年）。总的来说，记忆不是一个复制的过程，而是一个重建的过程，其中以灵活的方式提取和重新组合以前经历的组成部分，通常会产生包含与相应经验不同的内容的表征（Schacter 和 Addis，2007 年）。
 
 记忆的建构性特征对适当因果条件的充分性提出了问题，正如我们所见，但它也对其必要性提出了问题。为了使因果理论与建构性记忆研究的发现相兼容，Michaelian（2011a）建议对其进行修改，使其允许检索到的表征内容超出原始经验的内容，只要满足两个条件：首先，检索到的表征内容不能“过分”超出原始经验的内容；其次，记忆系统在生成新内容时必须可靠运行。这两个条件中的第一个条件存在问题，模糊不清。此外，似乎没有办法在表征内容不过分超出原始经验的情况和超出的情况之间划定有意义的界限。在某些情况下，大部分内容可能源自经验。在某些情况下，只有少数内容可能源自经验。只要部分内容包含在经验中，因果理论家原则上可以将该表征分类为真实记忆。然而，在某些情况下，所有内容都可能不源自经验。一旦包含在经验中的内容比例降至零，因果理论家就必须将该表征分类为仅仅是表面记忆。然而，考虑到记忆的重建性质，这样的情况注定会发生，而且不清楚为什么仅仅保留一些内容，无论多少，都应该在真实记忆和仅仅是表面记忆之间产生质的差异。
 
@@ -168,25 +168,25 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 记忆过去与想象未来之间的联系的观念可能可以追溯到奥古斯丁（Manning, Cassel, & Cassel 2013），但直到最近在记忆哲学中扮演的角色很小。然而，它在记忆心理学中扮演了重要的角色，因为心理学家们已经摒弃了将情节记忆视为何时何地记忆的概念，转而将情节记忆视为一种构建性心理时间旅行的形式。在令人印象深刻的脑成像证据和关于记忆过去与想象未来之间再现和现象学重叠的广泛研究的支持下（Klein 2013; Schacter et al. 2012; Szpunar 2010），这种新的概念强调了情节记忆、情节未来思维（主体想象可能的未来事件）以及越来越多的情节反事实思维（主体想象过去事件的替代方案）之间的相似之处。许多人认为，根据这种新的概念，人类实际上并没有情节记忆和情节想象的不同能力，而是拥有一种单一的心理时间旅行的普遍能力（Suddendorf & Corballis 2007）。在心理学中，这种新的概念导致了理论框架，如构建性情节模拟方法（Schacter, Addis, & Buckner 2008）和场景构建方法（Mullally & Maguire 2014），两者都强调记忆的模拟性质。在哲学中，它导致了记忆模拟理论（Shanton & Goldman 2010），将记忆视为想象过去事件的过程，其中与记忆事件的因果联系最多只是偶然的。
 
-在对未来情景思维的研究基础上，Michaelian（2016c）将记忆和未来情景思维视为由共同的记忆建构系统执行的过程。这两个过程都利用存储的信息，即源自过去事件经验的记忆痕迹，以构建事件的表征。显然，未来情景思维无法利用源自所代表事件经验的痕迹，因为相关事件尚未发生。同样，记忆并不一定利用源自所代表事件经验的痕迹：在某些情况下，它可能会这样做，但是由于记忆建构系统既支持记忆又支持未来情景思维，它并没有被设计成总是这样做。因此，Michaelian的模拟理论版本暗示了适当的因果关系并非记忆的先决条件。在对反事实情景思维的研究基础上，De Brigard（2014a）将记忆视为一个致力于构建可能的过去事件的系统的一个功能，这些事件不仅包括实际发生的事件，还包括可能发生但未发生的事件。De Brigard的模拟理论版本似乎也暗示了记忆在某些情况下可能利用源自所代表事件经验的痕迹，但并非总是如此。
+在对未来情景思维的研究基础上，Michaelian（2016c）将记忆和未来情景思维视为由共同的记忆建构系统执行的过程。这两个过程都利用存储的信息，即源自过去事件经验的记忆痕迹，以构建事件的表征。显然，未来情景思维无法利用源自所代表事件经验的痕迹，因为相关事件尚未发生。同样，记忆并不一定利用源自所代表事件经验的痕迹：在某些情况下，它可能会这样做，但是由于记忆建构系统既支持记忆又支持未来情景思维，它并没有被设计成总是这样做。因此，Michaelian 的模拟理论版本暗示了适当的因果关系并非记忆的先决条件。在对反事实情景思维的研究基础上，De Brigard（2014a）将记忆视为一个致力于构建可能的过去事件的系统的一个功能，这些事件不仅包括实际发生的事件，还包括可能发生但未发生的事件。De Brigard 的模拟理论版本似乎也暗示了记忆在某些情况下可能利用源自所代表事件经验的痕迹，但并非总是如此。
 
-如果模拟理论是正确的，上述所确定的记忆性的两个方面都需要重新思考。关于第一个方面，罗宾斯（2016a）认为，虽然因果理论可以依靠适当的因果关系来区分成功记忆、捏造和错误记忆，但模拟理论可能无法适应这些区别，因为它将成功和不成功的记忆都视为同一种想象过程的结果。然而，模拟理论可以依靠所讨论的想象过程的可靠性，将成功记忆描述为涉及可靠想象，从而产生准确的事件表征，将捏造描述为涉及不可靠想象，从而产生不准确的表征，将错误记忆描述为涉及可靠想象，从而产生不准确的表征（迈克尔尼安2016b）。这种对记忆错误的处理方法有一个优点，即为真实的捏造留出了空间，可以将其描述为涉及不可靠想象，从而产生准确的表征。
+如果模拟理论是正确的，上述所确定的记忆性的两个方面都需要重新思考。关于第一个方面，罗宾斯（2016a）认为，虽然因果理论可以依靠适当的因果关系来区分成功记忆、捏造和错误记忆，但模拟理论可能无法适应这些区别，因为它将成功和不成功的记忆都视为同一种想象过程的结果。然而，模拟理论可以依靠所讨论的想象过程的可靠性，将成功记忆描述为涉及可靠想象，从而产生准确的事件表征，将捏造描述为涉及不可靠想象，从而产生不准确的表征，将错误记忆描述为涉及可靠想象，从而产生不准确的表征（迈克尔尼安 2016b）。这种对记忆错误的处理方法有一个优点，即为真实的捏造留出了空间，可以将其描述为涉及不可靠想象，从而产生准确的表征。
 
 关于记忆性的第二个方面，模拟理论暗示记忆和想象之间的差异远不像传统观点所认为的那样戏剧性。霍普金斯（即将出版）将记忆描述为受过去控制的想象。如果模拟理论是正确的，那么记忆确实是想象，但它不一定受过去控制。一个人可以仅仅通过想象一个反事实的过去事件来想象一个过去事件。但是，如果一个人想象了一个实际发生的过去事件，并且他的想象是可靠的，那么他只是在回忆。如果模拟理论是正确的，那么在以下情况下，一种情况是一个人在至少部分基于自己对事件的经验的基础上可靠地想象了一个实际发生的过去事件，另一种情况是一个人在另一种基础上可靠地想象了一个实际发生的过去事件；在这两种情况下，只要对事件的表达准确，就有一个真正的记忆。
 
-坚持传统观点的哲学家对仿真理论的这一暗示以及心理时间旅行本身的概念可能会提出异议。正如我们所见，关于心理时间旅行的研究表明，情节记忆和情节未来思维之间没有定性差异。采用Perrin（2016）的术语，连续主义者明确主张它们之间的任何差异仅仅是定量上的，而不连续主义者则承认情节记忆和情节未来思维之间存在定量上的相似之处，但坚持它们之间存在多种定性差异。不连续主义是传统观点。例如，Debus（2014）利用情节记忆对象的关系主义解释（J. Campbell 2001; Debus 2008; 见下文第5节）来论证，当一个人回忆起过去的事件时，由于与之前的因果联系，回忆的事件本身可能构成其心理状态的一部分；而当一个人想象未来的事件时，想象的事件不能构成其心理状态的一部分，因为其与之没有因果联系。与此同时，Perrin（2016）认为，当一个人想象未来的事件时，实际上是在规定其所想象的经历的主体的身份，因此情节未来思维不会因误认而产生错误，而当一个人回忆过去的事件时，主体的身份是由其与过去经历的因果关系决定的，因此情节记忆不免于误认错误。 其他人认为，通过错误的认同（Hamilton 2009, 2013），情节记忆本身是免疫错误的，但对于这些不连续论的论点来说，更严重的问题是它们预设了记忆的因果理论：因为因果理论本身预设了记忆和想象之间存在定性差异，这些论点似乎对心理时间旅行的连续论观点提出了质疑（Michaelian 2016a）。
+坚持传统观点的哲学家对仿真理论的这一暗示以及心理时间旅行本身的概念可能会提出异议。正如我们所见，关于心理时间旅行的研究表明，情节记忆和情节未来思维之间没有定性差异。采用 Perrin（2016）的术语，连续主义者明确主张它们之间的任何差异仅仅是定量上的，而不连续主义者则承认情节记忆和情节未来思维之间存在定量上的相似之处，但坚持它们之间存在多种定性差异。不连续主义是传统观点。例如，Debus（2014）利用情节记忆对象的关系主义解释（J. Campbell 2001; Debus 2008; 见下文第 5 节）来论证，当一个人回忆起过去的事件时，由于与之前的因果联系，回忆的事件本身可能构成其心理状态的一部分；而当一个人想象未来的事件时，想象的事件不能构成其心理状态的一部分，因为其与之没有因果联系。与此同时，Perrin（2016）认为，当一个人想象未来的事件时，实际上是在规定其所想象的经历的主体的身份，因此情节未来思维不会因误认而产生错误，而当一个人回忆过去的事件时，主体的身份是由其与过去经历的因果关系决定的，因此情节记忆不免于误认错误。 其他人认为，通过错误的认同（Hamilton 2009, 2013），情节记忆本身是免疫错误的，但对于这些不连续论的论点来说，更严重的问题是它们预设了记忆的因果理论：因为因果理论本身预设了记忆和想象之间存在定性差异，这些论点似乎对心理时间旅行的连续论观点提出了质疑（Michaelian 2016a）。
 
 除了挑战传统观点认为记忆和想象之间存在定性形而上学差异之外，模拟理论还挑战了它们之间存在定性认识论差异的观点。哲学家们倾向于对未来事件的情节知识，即通过想象产生的知识，与通过预测产生的语义知识相对立的可能性持怀疑态度（Kneale 1971; Swinburne 1966）。然而，模拟理论表明，我们对未来事件的情节知识可能与我们对过去事件的情节知识相当。这个观点令人惊讶，但它与关于想象作为知识来源的最新研究相吻合（Balcerak Jackson 即将出版; Kind 即将出版）。
 
 ## 5. 表征
 
-尽管在第4节讨论的记忆理论的支持者之间存在分歧，但他们在记忆涉及过去事件的表征这一点上大体上是一致的。然而，表征在记忆中的作用引发了一系列困难的问题。其中一个问题涉及心智内容外在主义对记忆内容的影响。外在主义已成为心智内容性质的主导观点，它认为主体心智表征的内容不仅取决于其内部状态，还取决于其与外部环境中事物的关系。例如，当一个人思考“水是湿的”这个思想时，他所思考的内容在一定程度上取决于填满湖泊、河流并从天空中降落的物质的化学组成，也就是他学会使用“水”这个词的环境中的H2O；如果他在一个除了H2O以外的物质填满湖泊、河流并从天空中降落的环境中学会使用“水”这个词，那么他的思想将是那个其他物质是湿的，而不是H2O是湿的（Putnam 1975）。这在外在主义者之间是共识。但一个主体可能从一个环境转移到另一个环境，而外在主义者对于在此类转移之前形成的记忆和在之后检索的记忆内容存在分歧。过去主义的外在主义者（例如Boghossian 1989；Burge 1998）认为只有过去的环境是相关的。现在主义的外在主义者（例如Ludlow 1995；Tye 1998）认为过去和现在的环境都是相关的。未来主义的外在主义者（例如Stoneham 2003；Jackman 2005）认为过去、现在和任何未来的环境都是相关的。 由于支持和反对这些观点的论证与主流记忆哲学几乎没有接触，因此它们不会在这里进行审查；有关进一步讨论，请参阅 Bernecker（2010）。
+尽管在第 4 节讨论的记忆理论的支持者之间存在分歧，但他们在记忆涉及过去事件的表征这一点上大体上是一致的。然而，表征在记忆中的作用引发了一系列困难的问题。其中一个问题涉及心智内容外在主义对记忆内容的影响。外在主义已成为心智内容性质的主导观点，它认为主体心智表征的内容不仅取决于其内部状态，还取决于其与外部环境中事物的关系。例如，当一个人思考“水是湿的”这个思想时，他所思考的内容在一定程度上取决于填满湖泊、河流并从天空中降落的物质的化学组成，也就是他学会使用“水”这个词的环境中的 H2O；如果他在一个除了 H2O 以外的物质填满湖泊、河流并从天空中降落的环境中学会使用“水”这个词，那么他的思想将是那个其他物质是湿的，而不是 H2O 是湿的（Putnam 1975）。这在外在主义者之间是共识。但一个主体可能从一个环境转移到另一个环境，而外在主义者对于在此类转移之前形成的记忆和在之后检索的记忆内容存在分歧。过去主义的外在主义者（例如 Boghossian 1989；Burge 1998）认为只有过去的环境是相关的。现在主义的外在主义者（例如 Ludlow 1995；Tye 1998）认为过去和现在的环境都是相关的。未来主义的外在主义者（例如 Stoneham 2003；Jackman 2005）认为过去、现在和任何未来的环境都是相关的。 由于支持和反对这些观点的论证与主流记忆哲学几乎没有接触，因此它们不会在这里进行审查；有关进一步讨论，请参阅 Bernecker（2010）。
 
 关于记忆中表征的作用，还有两个进一步的问题一直是主流记忆哲学的核心。这些问题有时被混为一谈，但它们引发了不同的问题。第一个问题是关于检索到的表征的本质的问题。第二个问题是关于存储的表征的存在和作用的问题。
 
 ### 5.1 记忆的对象
 
-记忆的直接对象是主体在首次记忆时与之相关的事物[3]。在历史上，关于记忆对象的本质有两种主要的竞争观点：直接实在论和间接（或代表性）实在论。
+记忆的直接对象是主体在首次记忆时与之相关的事物 [3]。在历史上，关于记忆对象的本质有两种主要的竞争观点：直接实在论和间接（或代表性）实在论。
 
 #### 5.1.1 直接实在论
 
@@ -218,9 +218,9 @@ Squire的分类法具有极大的影响力，但在心理学和哲学领域中�
 
 De Brigard（2014b）回顾了历史上关于痕迹与感知表征之间关系的几种立场。半直接表征主义认为感知是间接的，痕迹与感知中涉及的表征是相同的。间接表征主义认为感知是间接的，痕迹与感知中涉及的表征是不同的。正如 De Brigard 强调的那样，这里最重要的是内容之间的关系而不是载体。因此，他区分了内容不变论，即痕迹的内容与感知表征的内容相同，和内容变论，即痕迹的内容可能与感知表征的内容不同。实际上，由于不变论/变论的区分横跨了半直接/间接的区分，后者关注的是载体之间的关系而不是内容，半直接表征主义和间接表征主义通常可以被归为一类。直接表征主义认为感知是直接的，痕迹是在感知发生后创建的。扩展 De Brigard 的命名法，直接关系主义将认为感知是直接的，记忆不涉及痕迹。
 
-De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系，而考虑到这种关系会扩大可能的立场范围。与之前一样，感知可以被认为是直接的或间接的。如果感知是直接的，存储可以被认为既不涉及痕迹，也涉及痕迹。如果存储不涉及痕迹，检索可以被认为是直接的或间接的。前一种可能性对应于直接关系主义的简单版本。后一种可能性，即感知和存储都不涉及表征，但检索涉及表征，将很难得到解释，因为如果检索的表征内容不是由记忆痕迹提供的话，很难看出它从何而来。如果存储涉及痕迹，检索又可以被认为是直接的或间接的。前一种可能性，即感知和检索都不涉及表征，但存储涉及表征，将很难得到解释，因为痕迹不参与检索，很难看出它们起到什么作用。后一种可能性是理解直接表征主义的自然方式。
+De Brigard 的方法并没有明确考虑到痕迹与检索表征之间的关系，而考虑到这种关系会扩大可能的立场范围。与之前一样，感知可以被认为是直接的或间接的。如果感知是直接的，存储可以被认为既不涉及痕迹，也涉及痕迹。如果存储不涉及痕迹，检索可以被认为是直接的或间接的。前一种可能性对应于直接关系主义的简单版本。后一种可能性，即感知和存储都不涉及表征，但检索涉及表征，将很难得到解释，因为如果检索的表征内容不是由记忆痕迹提供的话，很难看出它从何而来。如果存储涉及痕迹，检索又可以被认为是直接的或间接的。前一种可能性，即感知和检索都不涉及表征，但存储涉及表征，将很难得到解释，因为痕迹不参与检索，很难看出它们起到什么作用。后一种可能性是理解直接表征主义的自然方式。
 
-如果感知是间接的，存储可能被认为既不涉及痕迹，也涉及痕迹。如果存储不涉及痕迹，检索可能被认为是直接的或间接的。前一种可能性，即感知涉及表征，但存储和检索都不涉及表征，很难得到证明，因为支持关系主义关于记忆的考虑同样支持关系主义关于感知的观点。后一种可能性，即感知和检索涉及表征，但存储不涉及表征，大致对应于Vosgerau（2010）提出的观点；在这种观点中，存储在某种意义上可能涉及痕迹，但由于其不活跃的特性，不能说存储的痕迹具有内容。如果存储涉及痕迹，检索可能被认为是直接的或间接的。前一种可能性，即感知和存储涉及表征，但检索不涉及表征，很难得到证明，因为再次，支持关系主义关于记忆的考虑同样支持关系主义关于感知的观点。后一种可能性是理解半直接表征主义和间接表征主义的自然方式。
+如果感知是间接的，存储可能被认为既不涉及痕迹，也涉及痕迹。如果存储不涉及痕迹，检索可能被认为是直接的或间接的。前一种可能性，即感知涉及表征，但存储和检索都不涉及表征，很难得到证明，因为支持关系主义关于记忆的考虑同样支持关系主义关于感知的观点。后一种可能性，即感知和检索涉及表征，但存储不涉及表征，大致对应于 Vosgerau（2010）提出的观点；在这种观点中，存储在某种意义上可能涉及痕迹，但由于其不活跃的特性，不能说存储的痕迹具有内容。如果存储涉及痕迹，检索可能被认为是直接的或间接的。前一种可能性，即感知和存储涉及表征，但检索不涉及表征，很难得到证明，因为再次，支持关系主义关于记忆的考虑同样支持关系主义关于感知的观点。后一种可能性是理解半直接表征主义和间接表征主义的自然方式。
 
 考虑到痕迹与检索表征之间的关系，也使得内容不变论和内容变异论之间的区分变得复杂。德布里加德将这一区别应用于感知表征的内容与痕迹的内容之间的关系。它也可以应用于痕迹的内容与检索表征的内容之间的关系。但最重要的是感知表征的内容与检索表征的内容之间的关系。如果一个人认为检索表征的内容与感知表征的内容相同，那么他在这种关系上是一个内容不变论者；如果一个人认为检索表征的内容可能与感知表征的内容不同，那么他是一个内容变异论者。任何关于感知和检索都涉及表征的观点，包括半直接表征主义、间接表征主义和类似沃斯格劳观点的观点，都可以与内容不变论或内容变异论相结合。
 
@@ -238,7 +238,7 @@ De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系�
 
 ### 6.2 事实性
 
-对于这个额外的要求，就是声称记忆是事实性的，即真正的记忆必然是真实的，也就是说，不真实的表面记忆只是表面的。在哲学中，记忆是事实性的观点是常见的。关于记忆的事实性的标准论证是语言学的，它们依靠声称既记得一个事件又该事件没有发生的表面不一致性（Bernecker 2017；参见Moore的悖论）。评估这些论证超出了本文的范围，但请注意，即使在那些非常重视语言学论证的人中，它们也是有争议的（De Brigard 2017；Hazlett 2010）。在经常不太重视语言学论证的自然主义者中，它们更具争议性。从自然主义的观点来看，记忆理论的目标应该是描述记忆过程本身，而不管我们是否直观地倾向于将其结果归类为真正的或仅仅是表面的记忆。如果同样的过程既可以产生真实的记忆又可以产生虚假的记忆，那么一个合适的记忆理论将不要求真正的记忆总是真实的——根据第2节引入的术语，相关的自然种类可以包括真实的和虚假的记忆，而不管我们的普通语言实践是否允许我们将它们归为一类。
+对于这个额外的要求，就是声称记忆是事实性的，即真正的记忆必然是真实的，也就是说，不真实的表面记忆只是表面的。在哲学中，记忆是事实性的观点是常见的。关于记忆的事实性的标准论证是语言学的，它们依靠声称既记得一个事件又该事件没有发生的表面不一致性（Bernecker 2017；参见 Moore 的悖论）。评估这些论证超出了本文的范围，但请注意，即使在那些非常重视语言学论证的人中，它们也是有争议的（De Brigard 2017；Hazlett 2010）。在经常不太重视语言学论证的自然主义者中，它们更具争议性。从自然主义的观点来看，记忆理论的目标应该是描述记忆过程本身，而不管我们是否直观地倾向于将其结果归类为真正的或仅仅是表面的记忆。如果同样的过程既可以产生真实的记忆又可以产生虚假的记忆，那么一个合适的记忆理论将不要求真正的记忆总是真实的——根据第 2 节引入的术语，相关的自然种类可以包括真实的和虚假的记忆，而不管我们的普通语言实践是否允许我们将它们归为一类。
 
 在心理学中，记忆是事实性的观点并不常见。这并不令人太惊讶，因为许多关于记忆的心理学研究都集中在不成功的记忆上：了解不成功的记忆发生的机制能够为成功记忆负责的机制提供重要的见解，就像了解知觉错觉和幻觉发生的机制能够为成功知觉负责的机制提供重要的见解一样。更令人惊讶的是，心理学家有时会走得太远，假设由于记忆是建构性的，所以它必然是错误的（Ost＆Costall 2002）。这实际上是将记忆视为反事实的。真实性和真实之间的区别使我们能够看到，建构性的、生成性的记忆并不一定具有虚假性。然而，记忆的生成性表明需要更复杂的真实标准（S. Campbell 2014）。虽然记忆是生成性的事实并不意味着记忆必然是完全错误的，但它确实暗示着记忆在某些方面经常是错误的。这反过来又表明，为了完全适当，记忆不需要完全准确，因此需要一个承认记忆中的真实程度的标准。
 
@@ -292,7 +292,7 @@ De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系�
 
 #### 8.2.2 大规模群体中的记忆
 
-关于大规模群体中的记忆问题，中心问题是这样的群体是否能够以任何类似个体记忆的方式进行记忆。将个体记忆领域中发展的概念应用于小规模集体记忆领域可能已经存在问题；将它们应用于大规模集体记忆领域可能更加问题重重。例如，Anastasio等人（2012）认为巩固的概念（指不稳定的短期记忆表征转化为稳定的长期记忆表征的过程）既适用于个体层面，也适用于社会层面，但这个论点可能忽视了上述内部和外部记忆之间的不相似之处。同样，Tanesini（即将出版）认为遗忘的概念（指一个主体无法检索通常可检索的记忆）既适用于个体层面，也适用于社会层面，但很少有证据表明社会层面上的记忆和遗忘模式与个体层面上的模式特别相似。沿着同样的思路，Szpunar和Szpunar（2016；参见Merck，Topcu和Hirst（2016））认为情景性未来思维的概念（如上所述）既适用于个体层面，也适用于社会层面，但尚不清楚社会是否能够以与个体想象未来的方式类似的方式想象自己的未来。
+关于大规模群体中的记忆问题，中心问题是这样的群体是否能够以任何类似个体记忆的方式进行记忆。将个体记忆领域中发展的概念应用于小规模集体记忆领域可能已经存在问题；将它们应用于大规模集体记忆领域可能更加问题重重。例如，Anastasio 等人（2012）认为巩固的概念（指不稳定的短期记忆表征转化为稳定的长期记忆表征的过程）既适用于个体层面，也适用于社会层面，但这个论点可能忽视了上述内部和外部记忆之间的不相似之处。同样，Tanesini（即将出版）认为遗忘的概念（指一个主体无法检索通常可检索的记忆）既适用于个体层面，也适用于社会层面，但很少有证据表明社会层面上的记忆和遗忘模式与个体层面上的模式特别相似。沿着同样的思路，Szpunar 和 Szpunar（2016；参见 Merck，Topcu 和 Hirst（2016））认为情景性未来思维的概念（如上所述）既适用于个体层面，也适用于社会层面，但尚不清楚社会是否能够以与个体想象未来的方式类似的方式想象自己的未来。
 
 在社会本体论的其他领域中发展起来的一般概念和理论有可能进一步阐明集体记忆。例如，关于集体意向性的文献（Tollefsen 2006）可能会阐明共同回忆的活动，这可以被理解为对过去的共同关注的一种形式（Hoerl＆McCormack 2005; Seemann 即将出版）。通过提供一个新颖的测试案例，集体记忆还有可能阐明社会本体论中的一般概念和理论。例如，Smith（2014）指出，许多社会对象（机构，合同等）在时间上是持续存在的，即它们随时间持续存在，而根据许多观点，它们存在的基础是言语行为，而言语行为是事件，因此只在特定的时间存在。事件如何能够作为持续存在的基础尚不清楚，解决这个问题的一个潜在解决方案是将社会对象的存在基于外部记忆的形式，这些形式本身是持续存在的（Ferraris [2010] 2013, 2015）。
 
@@ -322,7 +322,7 @@ De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系�
 
 ### 10.5 记忆修改和增强的伦理学
 
-随着改变记忆系统功能的新技术的出现——例如，检索存储的记忆会导致重新巩固期，此期间检索的记忆是不稳定的，容易被修改，从而可能允许干预来改变创伤性记忆（Spiers＆Bendor 2014），对于各种形式的记忆修改的伦理问题变得更加紧迫（Erler 2011; Hui＆Fisher 2015; N. Levy 2012; Liao＆Wasserman 2007）。Liao和Sandberg（2008）指出了记忆修改技术引发的一系列问题；鉴于上述记忆与自我之间的密切关系，许多问题涉及记忆修改对自我的影响并不令人意外。例如，修改某人的记忆可能通过剥夺他了解自己行为的机会来限制他的自我认知，或者通过剥夺他将自己视为与自己参与的事件相关的行动者的可能性来侵蚀他的代理感。然而，Liao和Sandberg认为，在某些情况下，记忆修改的好处可能超过其代价，因此对于新兴记忆修改技术的使用，不需要普遍的伦理障碍。到目前为止，辩论的重点大多集中在压制创伤性或其他不良记忆上，但是通过药物和其他手段增强记忆能力的新方法也引发了类似的问题（Bostrom＆Sandberg 2009）。然而，记忆增强辩论的批评者认为，相关方法的有效性证据存在争议（Zohny 2015），或者辩论经常忽视了不同类型记忆之间的重要差异（Fox，Fitz，＆Reiner即将出版）。
+随着改变记忆系统功能的新技术的出现——例如，检索存储的记忆会导致重新巩固期，此期间检索的记忆是不稳定的，容易被修改，从而可能允许干预来改变创伤性记忆（Spiers＆Bendor 2014），对于各种形式的记忆修改的伦理问题变得更加紧迫（Erler 2011; Hui＆Fisher 2015; N. Levy 2012; Liao＆Wasserman 2007）。Liao 和 Sandberg（2008）指出了记忆修改技术引发的一系列问题；鉴于上述记忆与自我之间的密切关系，许多问题涉及记忆修改对自我的影响并不令人意外。例如，修改某人的记忆可能通过剥夺他了解自己行为的机会来限制他的自我认知，或者通过剥夺他将自己视为与自己参与的事件相关的行动者的可能性来侵蚀他的代理感。然而，Liao 和 Sandberg 认为，在某些情况下，记忆修改的好处可能超过其代价，因此对于新兴记忆修改技术的使用，不需要普遍的伦理障碍。到目前为止，辩论的重点大多集中在压制创伤性或其他不良记忆上，但是通过药物和其他手段增强记忆能力的新方法也引发了类似的问题（Bostrom＆Sandberg 2009）。然而，记忆增强辩论的批评者认为，相关方法的有效性证据存在争议（Zohny 2015），或者辩论经常忽视了不同类型记忆之间的重要差异（Fox，Fitz，＆Reiner 即将出版）。
 
 ## Bibliography
 
@@ -330,351 +330,351 @@ De Brigard的方法并没有明确考虑到痕迹与检索表征之间的关系�
 
 *Further reading in other disciplines:* In psychology, Draaisma (2000) and Danziger (2008) provide broad historical overviews of our thinking about memory; they are complemented by Winter (2012), which focuses on more recent history. Roediger, Dudai, & Fitzpatrick (2007) is a comprehensive but accessible guide to issues in the contemporary psychology of memory; Tulving & Craik (2000) and Dudai (2002) are older but still useful guides. For popular introductions to the psychology of memory, see Schacter (1996), Schacter (2001), and Seamon (2015). In the broader field of memory studies, Tota & Hagen (2016) and Kattago (2015) provide comprehensive introductions, and Rossington & Whitehead (2007) and Olick, Vinitzky-Seroussi, & Levy (2011) collect key texts on collective memory. See also Radstone & Schwarz (2010), Boyer & Wertsch (2009), Nalbantian, Matthews, & McClelland (2011), and Groes (2016) for wide-ranging interdisciplinary discussions.
 
-* Adams, Fred, 2011, “Husker Du?” *Philosophical Studies*, 153(1): 81–94. doi:10.1007/s11098-010-9663-4
+* Adams, Fred, 2011, “Husker Du?” *Philosophical Studies*, 153(1): 81–94. doi: 10.1007/s11098-010-9663-4
 * Adams, Frederick and Kenneth Aizawa, 2008, *The Bounds of Cognition*, Malden, MA: Blackwell.
-* Aho, Tuomo, 2014, “Early Modern Theories”, in Knuuttila & Sihvola 2014: 223–238. doi:10.1007/978-94-007-6967-0_6
-* Alston, William P., 1986, “Epistemic Circularity”, *Philosophy and Phenomenological Research*, 47(1): 1–30. doi:10.2307/2107722
+* Aho, Tuomo, 2014, “Early Modern Theories”, in Knuuttila & Sihvola 2014: 223–238. doi: 10.1007/978-94-007-6967-0_6
+* Alston, William P., 1986, “Epistemic Circularity”, *Philosophy and Phenomenological Research*, 47(1): 1–30. doi: 10.2307/2107722
 * Anastasio, Thomas J., Kristen Ann Ehrenberger, Patrick Watson, and Wenyi Zhang, 2012, *Individual and Collective Memory Consolidation: Analogous Processes on Different Levels*, Cambridge, MA: MIT Press.
-* Annis, David B., 1980, “Memory and Justification”, *Philosophy and Phenomenological Research*, 40(3): 324–333. doi:10.2307/2106396
+* Annis, David B., 1980, “Memory and Justification”, *Philosophy and Phenomenological Research*, 40(3): 324–333. doi: 10.2307/2106396
 * Anscombe, G.E.M., 1981, “Memory, ‘Experience’, and ‘Causation’”, in *Collected Philosophical Papers*, Vol. 2, Minneapolis: University of Minnesota Press, pp. 120–130.
-* Arango-Muñoz, Santiago, 2013, “Scaffolded Memory and Metacognitive Feelings”, *Review of Philosophy and Psychology*, 4(1): 135–152. doi:10.1007/s13164-012-0124-1
+* Arango-Muñoz, Santiago, 2013, “Scaffolded Memory and Metacognitive Feelings”, *Review of Philosophy and Psychology*, 4(1): 135–152. doi: 10.1007/s13164-012-0124-1
 * Armstrong, D.M., 1987, “Mental Concepts: The Causal Analysis”, in Richard L. Gregory (ed.), *The Oxford Companion to the Mind*, Oxford: Oxford University Press, pp. 464–465.
 * Arstila, Valtteri and Dan Lloyd, 2014, *Subjective Time: The Philosophy, Psychology, and Neuroscience of Temporality*, Cambridge, MA: MIT Press.
 * Atkinson, Richard C. and Richard M. Shiffrin, 1968, “Human Memory: A Proposed System and Its Control Processes”, in Kenneth W. Spence & Janet Taylor Spence (eds.), *Psychology of Learning and Motivation*, Vol. 2, New York: Academic Press, pp. 89–195.
-* Audi, Robert, 1995, “Memorial Justification”, *Philosophical Topics*, 23(1): 31–45. doi:10.5840/philtopics199523123
-* –––, 2002, “The Sources of Knowledge”, in Paul K. Moser (ed.), *The Oxford Handbook of Epistemology*, Oxford: Oxford University Press, pp. 71–94. doi:10.1093/oxfordhb/9780195301700.003.0003
+* Audi, Robert, 1995, “Memorial Justification”, *Philosophical Topics*, 23(1): 31–45. doi: 10.5840/philtopics199523123
+* –––, 2002, “The Sources of Knowledge”, in Paul K. Moser (ed.), *The Oxford Handbook of Epistemology*, Oxford: Oxford University Press, pp. 71–94. doi: 10.1093/oxfordhb/9780195301700.003.0003
 * Ayer, A.J., 1956, *The Problem of Knowledge*, London: Macmillan.
 * Baddeley, Alan D., 2007, *Working Memory, Thought, and Action*, Oxford: Oxford University Press.
 * Balcerak Jackson, Magdalena, forthcoming, “Justification by Imagination”, in Dorsch & Macpherson forthcoming.
-* Baldwin, Thomas, 2001, “Russell on Memory”, *Principia*, 5(1–2): 187–208. doi:10.5007/17771.
+* Baldwin, Thomas, 2001, “Russell on Memory”, *Principia*, 5(1–2): 187–208. doi: 10.5007/17771.
 * Barash, Jeffrey Andrew, 2016, *Collective Memory and the Historical Past*, Chicago: University of Chicago Press.
-* Barnett, David James, 2015, “Is Memory Merely Testimony from One’s Former Self?” *Philosophical Review*, 124(3): 353–392. doi:10.1215/00318108-2895337
-* Barnier, Amanda J., John Sutton, Celia B. Harris, and Robert A. Wilson, 2008, “A Conceptual and Empirical Framework for the Social Distribution of Cognition: The Case of Memory”, *Cognitive Systems Research*, 9(1): 33–51. doi:10.1016/j.cogsys.2007.07.002
+* Barnett, David James, 2015, “Is Memory Merely Testimony from One’s Former Self?” *Philosophical Review*, 124(3): 353–392. doi: 10.1215/00318108-2895337
+* Barnier, Amanda J., John Sutton, Celia B. Harris, and Robert A. Wilson, 2008, “A Conceptual and Empirical Framework for the Social Distribution of Cognition: The Case of Memory”, *Cognitive Systems Research*, 9(1): 33–51. doi: 10.1016/j.cogsys.2007.07.002
 * Bartlett, Frederic C., [1932] 1995, *Remembering: A Study in Experimental and Social Psychology*, Cambridge: Cambridge University Press.
-* Bechtel, William, 2001, “The Compatibility of Complex Systems and Reduction: A Case Analysis of Memory Research”, *Minds and Machines*, 11(4): 483–502. doi:10.1023/A:1011803931581
+* Bechtel, William, 2001, “The Compatibility of Complex Systems and Reduction: A Case Analysis of Memory Research”, *Minds and Machines*, 11(4): 483–502. doi: 10.1023/A: 1011803931581
 * Bell, C. Gordon and Jim Gemmell, 2009, *Total Recall: How the E-Memory Revolution Will Change Everything*, New York: Dutton.
 * Bergson, Henri, [1896] 1911, *Matter and Memory* (*Matière et mémoire*), Nancy Margaret Paul and W. Scott Palmer (trans.), London: G. Allen & Co.
-* Bernecker, Sven, 2008, *The Metaphysics of Memory*, Dordrecht: Springer. doi:10.1007/978-1-4020-8220-7
-* –––, 2010, *Memory: A Philosophical Study*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199577569.001.0001
+* Bernecker, Sven, 2008, *The Metaphysics of Memory*, Dordrecht: Springer. doi: 10.1007/978-1-4020-8220-7
+* –––, 2010, *Memory: A Philosophical Study*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199577569.001.0001
 * –––, 2011, “Memory Knowledge”, in Sven Bernecker & Duncan Pritchard (eds.), *The Routledge Companion to Epistemology*, London: Routledge, ch. 30.
 * –––, 2017, “Memory and Truth”, in Bernecker & Michaelian 2017: ch. 4.
-* Bernecker, Sven and Aaron Bogart, 2015, “Memory”, in *Oxford Bibliographies Online: Philosophy*, Oxford: Oxford University Press. doi:10.1093/obo/9780195396577-0072
+* Bernecker, Sven and Aaron Bogart, 2015, “Memory”, in *Oxford Bibliographies Online: Philosophy*, Oxford: Oxford University Press. doi: 10.1093/obo/9780195396577-0072
 * Bernecker, Sven and Kourken Michaelian (eds.), 2017, *The Routledge Handbook of Philosophy of Memory*, London: Routledge.
 * Berntsen, Dorthe and David C. Rubin (eds.), 2012, *Understanding Autobiographical Memory: Theories and Approaches*, Cambridge: Cambridge University Press.
-* Bickle, J., 2011, “Memory and Neurophilosophy”, in Nalbantian, Matthews, & McClelland 2011: 195–215. doi:10.7551/mitpress/9780262014571.003.0010
-* Bietti, Lucas M. and John Sutton, 2015, “Interacting to Remember at Multiple Timescales: Coordination, Collaboration, Cooperation and Culture in Joint Remembering”, *Interaction Studies*, 16(3): 419–450. doi:10.1075/is.16.3.04bie
-* Blight, D.W., 2009, “The Memory Boom: Why and Why Now?” in Boyer & Wertsch 2009: 238–251. doi:10.1017/CBO9780511626999.014
-* Bloch, David, 2014, “Ancient and Medieval Theories”, in Knuuttila & Sihvola 2014: 205–221. doi:10.1007/978-94-007-6967-0_14
-* Block, Ned, 2007, “Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience”, *Behavioral and Brain Sciences*, 30(5–6): 481–548. doi:10.1017/S0140525X07002786
+* Bickle, J., 2011, “Memory and Neurophilosophy”, in Nalbantian, Matthews, & McClelland 2011: 195–215. doi: 10.7551/mitpress/9780262014571.003.0010
+* Bietti, Lucas M. and John Sutton, 2015, “Interacting to Remember at Multiple Timescales: Coordination, Collaboration, Cooperation and Culture in Joint Remembering”, *Interaction Studies*, 16(3): 419–450. doi: 10.1075/is.16.3.04bie
+* Blight, D.W., 2009, “The Memory Boom: Why and Why Now?” in Boyer & Wertsch 2009: 238–251. doi: 10.1017/CBO9780511626999.014
+* Bloch, David, 2014, “Ancient and Medieval Theories”, in Knuuttila & Sihvola 2014: 205–221. doi: 10.1007/978-94-007-6967-0_14
+* Block, Ned, 2007, “Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience”, *Behavioral and Brain Sciences*, 30(5–6): 481–548. doi: 10.1017/S0140525X07002786
 * Blustein, Jeffrey, 2008, *The Moral Demands of Memory*, Cambridge: Cambridge University Press.
-* Boghossian, Paul A., 1989, “Content and Self-Knowledge”, *Philosophical Topics*, 17(1): 5–26. doi:10.5840/philtopics198917110
-* Bortolotti, Lisa and Rochelle E. Cox, 2009, “‘Faultless’ Ignorance: Strengths and Limitations of Epistemic Definitions of Confabulation”, *Consciousness and Cognition*, 18(4): 952–965. doi:10.1016/j.concog.2009.08.011
-* Bostrom, Nick and Anders Sandberg, 2009, “Cognitive Enhancement: Methods, Ethics, Regulatory Challenges”, *Science and Engineering Ethics*, 15(3): 311–341. doi:10.1007/s11948-009-9142-5
-* Boyer, Pascal, 2008, “Evolutionary Economics of Mental Time Travel?” *Trends in Cognitive Sciences*, 12(6): 219–224. doi:10.1016/j.tics.2008.03.003
-* Boyer, Pascal and James V. Wertsch, 2009, *Memory in Mind and Culture*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511626999
-* Brewer, William F., 1996, “What Is Recollective Memory?” in David C. Rubin (ed.), *Remembering Our Past: Studies in Autobiographical Memory*, Cambridge: Cambridge University Press, pp. 19–66. doi:10.1017/CBO9780511527913.002
+* Boghossian, Paul A., 1989, “Content and Self-Knowledge”, *Philosophical Topics*, 17(1): 5–26. doi: 10.5840/philtopics198917110
+* Bortolotti, Lisa and Rochelle E. Cox, 2009, “‘Faultless’ Ignorance: Strengths and Limitations of Epistemic Definitions of Confabulation”, *Consciousness and Cognition*, 18(4): 952–965. doi: 10.1016/j.concog.2009.08.011
+* Bostrom, Nick and Anders Sandberg, 2009, “Cognitive Enhancement: Methods, Ethics, Regulatory Challenges”, *Science and Engineering Ethics*, 15(3): 311–341. doi: 10.1007/s11948-009-9142-5
+* Boyer, Pascal, 2008, “Evolutionary Economics of Mental Time Travel?” *Trends in Cognitive Sciences*, 12(6): 219–224. doi: 10.1016/j.tics.2008.03.003
+* Boyer, Pascal and James V. Wertsch, 2009, *Memory in Mind and Culture*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511626999
+* Brewer, William F., 1996, “What Is Recollective Memory?” in David C. Rubin (ed.), *Remembering Our Past: Studies in Autobiographical Memory*, Cambridge: Cambridge University Press, pp. 19–66. doi: 10.1017/CBO9780511527913.002
 * Broad, C.D., 1925, *The Mind and Its Place in Nature*, London: Routledge & Kegan Paul. Tarner lectures delivered in Trinity College, Cambridge, 1923.
-* Brockmeier, Jens, 2015, *Beyond the Archive: Memory, Narrative, and the Autobiographical Process*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199861569.001.0001
-* Buford, Christopher, 2009, “Memory, Quasi-Memory, and Pseudo-Quasi-Memory”, *Australasian Journal of Philosophy*, 87(3): 465–478. doi:10.1080/00048400802257747
+* Brockmeier, Jens, 2015, *Beyond the Archive: Memory, Narrative, and the Autobiographical Process*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199861569.001.0001
+* Buford, Christopher, 2009, “Memory, Quasi-Memory, and Pseudo-Quasi-Memory”, *Australasian Journal of Philosophy*, 87(3): 465–478. doi: 10.1080/00048400802257747
 * Burge, Tyler, 1998, “Memory and Self-Knowledge”, in Peter Ludlow & Norah Martin (eds.), *Externalism and Self-Knowledge*, Stanford: CSLI Publications, pp. 351–370.
-* Burkell, Jacquelyn Ann, 2016, “Remembering Me: Big Data, Individual Identity, and the Psychological Necessity of Forgetting”, *Ethics and Information Technology*, 18(1): 17–23. doi:10.1007/s10676-016-9393-1
-* Burnham, W.H., 1888, “Memory, Historically and Experimentally Considered. I. An Historical Sketch of the Older Conceptions of Memory”, *American Journal of Psychology*, 2(1): 39–90. doi:10.2307/1411406
-* Byrne, Alex, 2010, “Recollection, Perception, Imagination”, *Philosophical Studies*, 148(1): 15–26. doi:10.1007/s11098-010-9508-1
+* Burkell, Jacquelyn Ann, 2016, “Remembering Me: Big Data, Individual Identity, and the Psychological Necessity of Forgetting”, *Ethics and Information Technology*, 18(1): 17–23. doi: 10.1007/s10676-016-9393-1
+* Burnham, W.H., 1888, “Memory, Historically and Experimentally Considered. I. An Historical Sketch of the Older Conceptions of Memory”, *American Journal of Psychology*, 2(1): 39–90. doi: 10.2307/1411406
+* Byrne, Alex, 2010, “Recollection, Perception, Imagination”, *Philosophical Studies*, 148(1): 15–26. doi: 10.1007/s11098-010-9508-1
 * Campbell, John, 2001, “Memory Demonstratives”, in Hoerl & McCormack 2001: 169–186.
 * Campbell, Sue, 2003, *Relational Remembering: Rethinking the Memory Wars*, Lanham, MD: Rowman & Littlefield.
-* –––, 2014, *Our Faithfulness to the Past: The Ethics and Politics of Memory*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199376933.001.0001
+* –––, 2014, *Our Faithfulness to the Past: The Ethics and Politics of Memory*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199376933.001.0001
 * Carr, Nicholas G., 2010, *The Shallows: How the Internet Is Changing the Way We Think, Read and Remember*, New York: W.W. Norton.
-* Carruthers, Peter, 2015, *The Centered Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738824.001.0001
-* Carter, J. Adam and Jesper Kallestrup, 2016, “Extended Cognition and Propositional Memory”, *Philosophy and Phenomenological Research*, 92(3): 691–714. doi:10.1111/phpr.12157
-* Cheng, Sen and Markus Werning, 2016, “What Is Episodic Memory If It Is a Natural Kind?” *Synthese*, 193(5): 1345–1385. doi:10.1007/s11229-014-0628-6
+* Carruthers, Peter, 2015, *The Centered Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198738824.001.0001
+* Carter, J. Adam and Jesper Kallestrup, 2016, “Extended Cognition and Propositional Memory”, *Philosophy and Phenomenological Research*, 92(3): 691–714. doi: 10.1111/phpr.12157
+* Cheng, Sen and Markus Werning, 2016, “What Is Episodic Memory If It Is a Natural Kind?” *Synthese*, 193(5): 1345–1385. doi: 10.1007/s11229-014-0628-6
 * Clark, Andy, 2003, *Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence*, Oxford: Oxford University Press.
-* –––, 2015, “What ‘Extended Me’ Knows”, *Synthese*, 192(11): 3757–3775. doi:10.1007/s11229-015-0719-z
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Clayton, Nicola S. and Anthony Dickinson, 1998, “Episodic-Like Memory During Cache Recovery by Scrub Jays”, *Nature*, 395(6699): 272–274. doi:10.1038/26216
-* Clowes, Robert W., 2013, “The Cognitive Integration of E-Memory”, *Review of Philosophy and Psychology*, 4(1): 107–133. doi:10.1007/s13164-013-0130-y
-* –––, 2015, “Thinking in the Cloud: The Cognitive Incorporation of Cloud-Based Technology”, *Philosophy & Technology*, 28(2): 261–296. doi:10.1007/s13347-014-0153-z
-* Conway, Martin A., 2005, “Memory and the Self”, *Journal of Memory and Language*, 53(4): 594–628. doi:10.1016/j.jml.2005.08.005
-* Conway, Martin A. and Christopher W. Pleydell-Pearce, 2000, “The Construction of Autobiographical Memories in the Self-Memory System”, *Psychological Review*, 107(2): 261–288. doi:10.1037/0033-295X.107.2.261
+* –––, 2015, “What ‘Extended Me’ Knows”, *Synthese*, 192(11): 3757–3775. doi: 10.1007/s11229-015-0719-z
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi: 10.1093/analys/58.1.7
+* Clayton, Nicola S. and Anthony Dickinson, 1998, “Episodic-Like Memory During Cache Recovery by Scrub Jays”, *Nature*, 395(6699): 272–274. doi: 10.1038/26216
+* Clowes, Robert W., 2013, “The Cognitive Integration of E-Memory”, *Review of Philosophy and Psychology*, 4(1): 107–133. doi: 10.1007/s13164-013-0130-y
+* –––, 2015, “Thinking in the Cloud: The Cognitive Incorporation of Cloud-Based Technology”, *Philosophy & Technology*, 28(2): 261–296. doi: 10.1007/s13347-014-0153-z
+* Conway, Martin A., 2005, “Memory and the Self”, *Journal of Memory and Language*, 53(4): 594–628. doi: 10.1016/j.jml.2005.08.005
+* Conway, Martin A. and Christopher W. Pleydell-Pearce, 2000, “The Construction of Autobiographical Memories in the Self-Memory System”, *Psychological Review*, 107(2): 261–288. doi: 10.1037/0033-295X.107.2.261
 * Corballis, Michael C., 2011, *The Recursive Mind: The Origins of Human Language, Thought, and Civilization*, Princeton: Princeton University Press.
-* Cosentino, Erica, 2011, “Self in Time and Language”, *Consciousness and Cognition*, 20(3): 777–783. doi:10.1016/j.concog.2010.12.006
-* Craver, Car; F., 2012, “A Preliminary Case for Amnesic Selves: Toward a Clinical Moral Psychology”, *Social Cognition*, 30(4): 449–473. doi:10.1521/soco.2012.30.4.449
-* Craver, Carl F., Nazim Keven, Donna Kwan, Jake Kurczek, Melissa C. Duff, and R. Shayna Rosenbaum, 2016, “Moral Judgment in Episodic Amnesia”, *Hippocampus*, 26(8): 975–979. doi:10.1002/hipo.22593
-* Craver, Carl F., Donna Kwan, Chloe Steindam, and R. Shayna Rosenbaum, 2014, “Individuals with Episodic Amnesia Are Not Stuck in Time”, *Neuropsychologia*, 57: 191–195. doi:10.1016/j.neuropsychologia.2014.03.004
+* Cosentino, Erica, 2011, “Self in Time and Language”, *Consciousness and Cognition*, 20(3): 777–783. doi: 10.1016/j.concog.2010.12.006
+* Craver, Car; F., 2012, “A Preliminary Case for Amnesic Selves: Toward a Clinical Moral Psychology”, *Social Cognition*, 30(4): 449–473. doi: 10.1521/soco.2012.30.4.449
+* Craver, Carl F., Nazim Keven, Donna Kwan, Jake Kurczek, Melissa C. Duff, and R. Shayna Rosenbaum, 2016, “Moral Judgment in Episodic Amnesia”, *Hippocampus*, 26(8): 975–979. doi: 10.1002/hipo.22593
+* Craver, Carl F., Donna Kwan, Chloe Steindam, and R. Shayna Rosenbaum, 2014, “Individuals with Episodic Amnesia Are Not Stuck in Time”, *Neuropsychologia*, 57: 191–195. doi: 10.1016/j.neuropsychologia.2014.03.004
 * Dalla Barba, Gianfranco, 2002, *Memory, Consciousness and Temporality*, Boston: Kluwer.
-* –––, 2016, “Temporal Consciousness and Confabulation: When Mental Time Travel Takes the Wrong Track”, in Kourken, Klein, & Szpunar 2016d: 119–134. doi:10.1093/acprof:oso/9780190241537.003.0006
+* –––, 2016, “Temporal Consciousness and Confabulation: When Mental Time Travel Takes the Wrong Track”, in Kourken, Klein, & Szpunar 2016d: 119–134. doi: 10.1093/acprof: oso/9780190241537.003.0006
 * Danziger, Kurt, 2008, *Marking the Mind: A History of Memory*, Cambridge: Cambridge University Press.
-* De Brigard, Felipe, 2014a, “Is Memory for Remembering? Recollection as a Form of Episodic Hypothetical Thinking”, *Synthese*, 191(2): 155–185. doi:10.1007/s11229-013-0247-7
-* –––, 2014b, “The Nature of Memory Traces”, *Philosophy Compass*, 9(6): 402–414. doi:10.1111/phc3.12133
+* De Brigard, Felipe, 2014a, “Is Memory for Remembering? Recollection as a Form of Episodic Hypothetical Thinking”, *Synthese*, 191(2): 155–185. doi: 10.1007/s11229-013-0247-7
+* –––, 2014b, “The Nature of Memory Traces”, *Philosophy Compass*, 9(6): 402–414. doi: 10.1111/phc3.12133
 * –––, 2017, “Memory and Imagination”, in Bernecker & Michaelian 2017: ch. 10.
-* De Brigard, Felipe & Bryce S. Gessell, 2016, “Time Is Not of the Essence: Understanding the Neural Correlates of Mental Time Travel”, in Michaelian, Klein, & Szpunar 2016d: 153–179. doi:10.1093/acprof:oso/9780190241537.003.0008
+* De Brigard, Felipe & Bryce S. Gessell, 2016, “Time Is Not of the Essence: Understanding the Neural Correlates of Mental Time Travel”, in Michaelian, Klein, & Szpunar 2016d: 153–179. doi: 10.1093/acprof: oso/9780190241537.003.0008
 * de Sousa, Ronald, 2017, “Memory and Emotion”, in Bernecker & Michaelian 2017: ch12.
-* Debus, Dorothea, 2007a, “Being Emotional About the Past: On the Nature and Role of Past-Directed Emotions”, *Noûs*, 41(4): 758–779. doi:10.1111/j.1468-0068.2007.00669.x
-* –––, 2007b, “Perspectives on the Past: A Study of the Spatial Perspectival Characteristics of Recollective Memories”, *Mind & Language*, 22(2): 173–206. doi:10.1111/j.1468-0017.2007.00305.x
-* –––, 2008, “Experiencing the Past: A Relational Account of Recollective Memory”, *Dialectica*, 62(4): 405–432. doi:10.1111/j.1746-8361.2008.01165.x
+* Debus, Dorothea, 2007a, “Being Emotional About the Past: On the Nature and Role of Past-Directed Emotions”, *Noûs*, 41(4): 758–779. doi: 10.1111/j.1468-0068.2007.00669.x
+* –––, 2007b, “Perspectives on the Past: A Study of the Spatial Perspectival Characteristics of Recollective Memories”, *Mind & Language*, 22(2): 173–206. doi: 10.1111/j.1468-0017.2007.00305.x
+* –––, 2008, “Experiencing the Past: A Relational Account of Recollective Memory”, *Dialectica*, 62(4): 405–432. doi: 10.1111/j.1746-8361.2008.01165.x
 * –––, 2010, “Accounting for Epistemic Relevance: A New Problem for the Causal Theory of Memory”, *American Philosophical Quarterly*, 47(1): 17–29.
-* –––, 2014, “‘Mental Time Travel’: Remembering the Past, Imagining the Future, and the Particularity of Events”, *Review of Philosophy and Psychology*, 5(3): 333–350. doi:10.1007/s13164-014-0182-7
+* –––, 2014, “‘Mental Time Travel’: Remembering the Past, Imagining the Future, and the Particularity of Events”, *Review of Philosophy and Psychology*, 5(3): 333–350. doi: 10.1007/s13164-014-0182-7
 * –––, 2017, “Memory Causation”, in Bernecker & Michaelian 2017: ch. 5.
 * Depper, Corin, 2016, “Metaphors of Memory: From the Classical World to Modernity”, in Groes 2016: 27–37.
 * Deutscher, Max, 1989, “Remembering ‘Remembering’”, in John Heil (ed.), *Cause, Mind, and Reality: Essays Honring C.B. Martin*, Dordrecht: Kluwer, pp. 53–72.
 * Dokic, Jérôme, 2001, “Is Memory Purely Preservative?” in Hoerl & McCormack 2001: 213–232.
-* –––, 2014, “Feeling the Past: A Two-Tiered Account of Episodic Memory”, *Review of Philosophy and Psychology*, 5(3): 413–426. doi:10.1007/s13164-014-0183-6
-* Dorsch, Fabian, 2015, “Focused Daydreaming and Mind-Wandering”, *Review of Philosophy and Psychology*, 6(4): 791–813. doi:10.1007/s13164-014-0221-4
+* –––, 2014, “Feeling the Past: A Two-Tiered Account of Episodic Memory”, *Review of Philosophy and Psychology*, 5(3): 413–426. doi: 10.1007/s13164-014-0183-6
+* Dorsch, Fabian, 2015, “Focused Daydreaming and Mind-Wandering”, *Review of Philosophy and Psychology*, 6(4): 791–813. doi: 10.1007/s13164-014-0221-4
 * Dorsch, Fabian & Fiona Macpherson (eds.), forthcoming, *Perceptual Memory and Perceptual Imagination*, Oxford: Oxford University Press.
 * Draaisma, Douwe, 2000, *Metaphors of Memory: A History of Ideas About the Mind* (*Metaforenmachine een geschiedenis van het geheugen*), Paul Vincent (trans.), Cambridge: Cambridge University Press.
 * Droege, Paula, 2012, “Assessing Evidence for Animal Consciousness: The Question of Episodic Memory”, in Julie A. Smith & Robert W. Mitchell (eds.), *Experiencing Animal Minds: An Anthology of Human-Animal Encounters*, New York: Columbia University Press, pp. 231–245.
 * Dudai, Yadin, 2002, *Memory from A to Z: Keywords, Concepts and Beyond*, Oxford: Oxford University Press.
 * Dummett, Michael, 1994, “Testimony and Memory”, in Bimal K. Matilal & A. Chakrabarti (eds.), *Knowing from Words: Western and Indian Philosophical Analysis of Understanding and Testimony*, Dordrecht: Kluwer, pp. 251–272.
 * Ebbinghaus, Hermann, [1885] 1913, *Memory: A Contribution to Experimental Psychology*, Henry A. Ruger and Clara E. Bussenius (trans.), New York: Teachers College, Columbia University.
-* Erler, Alexandre, 2011, “Does Memory Modification Threaten Our Authenticity?” *Neuroethics*, 4(3): 235–249. doi:10.1007/s12152-010-9090-4
-* Fagin, Martin M., Jeremy K. Yamashiro, and William C. Hirst, 2013, “The Adaptive Function of Distributed Remembering: Contributions to the Formation of Collective Memory”, *Review of Philosophy and Psychology*, 4(1): 91–106. doi:10.1007/s13164-012-0127-y
-* Feest, Uljana, 2011, “Remembering (Short-Term) Memory: Oscillations of an Epistemic Thing”, *Erkenntnis*, 75(3): 391–411. doi:10.1007/s10670-011-9341-8
-* Fernández, Jordi, 2006, “The Intentionality of Memory”, *Australasian Journal of Philosophy*, 84(1): 39–57. doi:10.1080/00048400600571695
-* –––, 2008a, “Memory and Time”, *Philosophical Studies*, 141(3): 333–356. doi:10.1007/s11098-007-9177-x
-* –––, 2008b, “Memory, Past and Self”, *Synthese*, 160(1): 103–121. doi:10.1007/s11229-006-9104-2
-* –––, 2015a, “Epistemic Generation in Memory”, *Philosophy and Phenomenological Research*, 92(3): 620–644. doi:10.1111/phpr.12189
-* –––, 2015b, “What Are the Benefits of Memory Distortion?” *Consciousness and Cognition*, 33: 536–547. doi:10.1016/j.concog.2014.09.019
+* Erler, Alexandre, 2011, “Does Memory Modification Threaten Our Authenticity?” *Neuroethics*, 4(3): 235–249. doi: 10.1007/s12152-010-9090-4
+* Fagin, Martin M., Jeremy K. Yamashiro, and William C. Hirst, 2013, “The Adaptive Function of Distributed Remembering: Contributions to the Formation of Collective Memory”, *Review of Philosophy and Psychology*, 4(1): 91–106. doi: 10.1007/s13164-012-0127-y
+* Feest, Uljana, 2011, “Remembering (Short-Term) Memory: Oscillations of an Epistemic Thing”, *Erkenntnis*, 75(3): 391–411. doi: 10.1007/s10670-011-9341-8
+* Fernández, Jordi, 2006, “The Intentionality of Memory”, *Australasian Journal of Philosophy*, 84(1): 39–57. doi: 10.1080/00048400600571695
+* –––, 2008a, “Memory and Time”, *Philosophical Studies*, 141(3): 333–356. doi: 10.1007/s11098-007-9177-x
+* –––, 2008b, “Memory, Past and Self”, *Synthese*, 160(1): 103–121. doi: 10.1007/s11229-006-9104-2
+* –––, 2015a, “Epistemic Generation in Memory”, *Philosophy and Phenomenological Research*, 92(3): 620–644. doi: 10.1111/phpr.12189
+* –––, 2015b, “What Are the Benefits of Memory Distortion?” *Consciousness and Cognition*, 33: 536–547. doi: 10.1016/j.concog.2014.09.019
 * –––, forthcoming, “The Ownership of Memories”, in Manuel García-Carpintero & Marie Guillot (eds.), *The Sense of Mineness*, Oxford: Oxford University Press.
 * Ferraris, Maurizio, [2010] 2013, *Documentality: Why It Is Necessary to Leave Traces* (*Documentalità : perché è necessario lasciar tracce*), Richard Davies (trans.), New York: Fordham University Press.
-* –––, 2015, “Collective Intentionality or Documentality?” *Philosophy & Social Criticism*, 41(4–5): 423–433. doi:10.1177/0191453715577741
-* Ferretti, Francesco and Erica Cosentino, 2013, “Time, Language and Flexibility of the Mind: The Role of Mental Time Travel in Linguistic Comprehension and Production”, *Philosophical Psychology*, 26(1): 24–46. doi:10.1080/09515089.2011.625119
-* Foster, Jonathan K. and Marko Jelicic (eds.), 1999, *Memory: Systems, Process, or Function?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198524069.001.0001
-* Fox, Kieran C.R., Nicholas S. Fitz, and Peter B. Reiner, forthcoming, “The Multiplicity of Memory Enhancement: Practical and Ethical Implications of the Diverse Neural Substrates Underlying Human Memory Systems”, *Neuroethics*, first online 8 October 2016. doi:10.1007/s12152-016-9282-7
-* Frise, Matthew J., forthcoming, “Preservationism in the Epistemology of Memory”, *Philosophical Quarterly*, pqw074, advanced publication 18 November 2016. doi:10.1093/pq/pqw074
+* –––, 2015, “Collective Intentionality or Documentality?” *Philosophy & Social Criticism*, 41(4–5): 423–433. doi: 10.1177/0191453715577741
+* Ferretti, Francesco and Erica Cosentino, 2013, “Time, Language and Flexibility of the Mind: The Role of Mental Time Travel in Linguistic Comprehension and Production”, *Philosophical Psychology*, 26(1): 24–46. doi: 10.1080/09515089.2011.625119
+* Foster, Jonathan K. and Marko Jelicic (eds.), 1999, *Memory: Systems, Process, or Function?*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198524069.001.0001
+* Fox, Kieran C.R., Nicholas S. Fitz, and Peter B. Reiner, forthcoming, “The Multiplicity of Memory Enhancement: Practical and Ethical Implications of the Diverse Neural Substrates Underlying Human Memory Systems”, *Neuroethics*, first online 8 October 2016. doi: 10.1007/s12152-016-9282-7
+* Frise, Matthew J., forthcoming, “Preservationism in the Epistemology of Memory”, *Philosophical Quarterly*, pqw074, advanced publication 18 November 2016. doi: 10.1093/pq/pqw074
 * Furlong, E.J., 1951, *A Study in Memory: A Philosophical Essay*, London: Thomas Nelson.
 * Ghezzi, Alessia, Ángela Guimarães Pereira, and Lucia Vesnic-Alujevic (eds.), 2014, *The Ethics of Memory in a Digital Age: Interrogating the Right to Be Forgotten*, London: Palgrave Macmillan.
-* Goldie, Peter, 2012, *The Mess Inside: Narrative, Emotion, and the Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230730.001.0001
-* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *Journal of Philosophy*, 64(12): 357–372. doi:10.2307/2024268
-* –––, 1999, “Internalism Exposed”, *Journal of Philosophy*, 96(6): 271–293. doi:10.2307/2564679
+* Goldie, Peter, 2012, *The Mess Inside: Narrative, Emotion, and the Mind*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199230730.001.0001
+* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *Journal of Philosophy*, 64(12): 357–372. doi: 10.2307/2024268
+* –––, 1999, “Internalism Exposed”, *Journal of Philosophy*, 96(6): 271–293. doi: 10.2307/2564679
 * Grau, Christopher, 2009, *Eternal Sunshine of the Spotless Mind* (Philosphers on Film), London: Routledge.
 * Groes, Sebastian (ed.), 2016, *Memory in the Twenty-First Century: New Critical Perspectives from the Arts, Humanities, and Sciences*, Basingstoke, UK: Palgrave Macmillan.
 * Hacking, Ian, 1995, *Rewriting the Soul: Multiple Personality and the Sciences of Memory*, Princeton: Princeton University Press.
 * Halbwachs, Maurice, [1925] 1994, *Les Cadres Sociaux de La Mémoire*, Paris: Albin Michel.
 * Hamilton, Andy, 1998, “False Memory Syndrome and the Authority of Personal Memory-Claims: A Philosophical Perspective”, *Philosophy, Psychiatry, & Psychology*, 5(4): 283–297.
-* –––, 2009, “Memory and Self-Consciousness: Immunity to Error Through Misidentification”, *Synthese*, 171(3): 409–417. doi:10.1007/s11229-008-9318-6
+* –––, 2009, “Memory and Self-Consciousness: Immunity to Error Through Misidentification”, *Synthese*, 171(3): 409–417. doi: 10.1007/s11229-008-9318-6
 * –––, 2013, *The Self in Question: Memory, the Body, and Self-Consciousness*, Houndmills, UK: Palgrave Macmillan.
 * Harman, Gilbert, 1986, *Change in View: Principles of Reasoning*, Cambridge, MA: MIT Press.
-* Harris, C.B., A.J. Barnier, J. Sutton, and P.G. Keil, 2014, “Couples as Socially Distributed Cognitive Systems: Remembering in Everyday Social and Material Contexts”, *Memory Studies*, 7(3): 285–297. doi:10.1177/1750698014530619
-* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, *Philosophy and Phenomenological Research*, 80(3): 497–522. doi:10.1111/j.1933-1592.2010.00338.x
-* Heersmink, Richard, 2016, “The Internet, Cognitive Enhancement, and the Values of Cognition”, *Minds and Machines*, 26(4): 389–407. doi:10.1007/s11023-016-9404-3
-* –––, 2017, “Extended Mind and Cognitive Enhancement: Moral Aspects of Cognitive Artifacts”, *Phenomenology and the Cognitive Sciences*, 16(1): 17–32. doi:10.1007/s11097-015-9448-5
-* –––, forthcoming, “Distributed Selves: Personal Identity and Extended Memory Systems”, *Synthese*, first online 28 April 2016. doi:10.1007/s11229-016-1102-4
-* Heil, John, 1978, “Traces of Things Past”, *Philosophy of Science*, 45(1): 60–72. doi:10.1086/288779
+* Harris, C.B., A.J. Barnier, J. Sutton, and P.G. Keil, 2014, “Couples as Socially Distributed Cognitive Systems: Remembering in Everyday Social and Material Contexts”, *Memory Studies*, 7(3): 285–297. doi: 10.1177/1750698014530619
+* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, *Philosophy and Phenomenological Research*, 80(3): 497–522. doi: 10.1111/j.1933-1592.2010.00338.x
+* Heersmink, Richard, 2016, “The Internet, Cognitive Enhancement, and the Values of Cognition”, *Minds and Machines*, 26(4): 389–407. doi: 10.1007/s11023-016-9404-3
+* –––, 2017, “Extended Mind and Cognitive Enhancement: Moral Aspects of Cognitive Artifacts”, *Phenomenology and the Cognitive Sciences*, 16(1): 17–32. doi: 10.1007/s11097-015-9448-5
+* –––, forthcoming, “Distributed Selves: Personal Identity and Extended Memory Systems”, *Synthese*, first online 28 April 2016. doi: 10.1007/s11229-016-1102-4
+* Heil, John, 1978, “Traces of Things Past”, *Philosophy of Science*, 45(1): 60–72. doi: 10.1086/288779
 * Herrmann, Douglas J. and Roger Chaffin, 1988, *Memory in Historical Perspective: The Literature Before Ebbinghaus*, New York: Springer.
 * Hirstein, William, 2005, *Brain Fiction: Self-Deception and the Riddle of Confabulation*, Cambridge, MA: MIT Press.
-* ––– (ed.), 2009, *Confabulation: Views from Neuroscience, Psychiatry, Psychology, and Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199208913.001.0001
-* Hoerl, Christoph, 1999, “Memory, Amnesia and the Past”, *Mind & Language*, 14(2): 227–251. doi:10.1111/1468-0017.00111
+* ––– (ed.), 2009, *Confabulation: Views from Neuroscience, Psychiatry, Psychology, and Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199208913.001.0001
+* Hoerl, Christoph, 1999, “Memory, Amnesia and the Past”, *Mind & Language*, 14(2): 227–251. doi: 10.1111/1468-0017.00111
 * –––, 2001, “The Phenomenology of Episodic Recall”, in Hoerl & McCormack 2001: 315–338.
-* –––, 2007, “Episodic Memory, Autobiographical Memory, Narrative: On Three Key Notions in Current Approaches to Memory Development”, *Philosophical Psychology*, 20(5): 621–640. doi:10.1080/09515080701537988
-* –––, 2008, “On Being Stuck in Time”, *Phenomenology and the Cognitive Sciences*, 7(4): 485–500. doi:10.1007/s11097-008-9089-z
-* –––, 2014, “Remembering Events and Remembering Looks”, *Review of Philosophy and Psychology*, 5(3): 351–372. doi:10.1007/s13164-014-0191-6
+* –––, 2007, “Episodic Memory, Autobiographical Memory, Narrative: On Three Key Notions in Current Approaches to Memory Development”, *Philosophical Psychology*, 20(5): 621–640. doi: 10.1080/09515080701537988
+* –––, 2008, “On Being Stuck in Time”, *Phenomenology and the Cognitive Sciences*, 7(4): 485–500. doi: 10.1007/s11097-008-9089-z
+* –––, 2014, “Remembering Events and Remembering Looks”, *Review of Philosophy and Psychology*, 5(3): 351–372. doi: 10.1007/s13164-014-0191-6
 * Hoerl, Christoph and Teresa McCormack (eds.), 2001, *Time and Memory: Issues in Philosophy and Psychology*, Oxford: Oxford University Press.
-* –––, 2005, “Joint Reminiscing as Joint Attention to the Past”, in Naomi Eilan, Christoph Hoerl, Teresa McCormack, & Johannes Roessler (eds.), *Joint Attention, Communication and Other Minds: Issues in Philosophy and Psychology*, Oxford: Oxford University Press, pp. 260–286. doi:10.1093/acprof:oso/9780199245635.003.0012
-* Holland, Alan, 1974, “Retained Knowledge”, *Mind*, 83(331): 355–371. doi:10.1093/mind/LXXXIII.331.355
+* –––, 2005, “Joint Reminiscing as Joint Attention to the Past”, in Naomi Eilan, Christoph Hoerl, Teresa McCormack, & Johannes Roessler (eds.), *Joint Attention, Communication and Other Minds: Issues in Philosophy and Psychology*, Oxford: Oxford University Press, pp. 260–286. doi: 10.1093/acprof: oso/9780199245635.003.0012
+* Holland, Alan, 1974, “Retained Knowledge”, *Mind*, 83(331): 355–371. doi: 10.1093/mind/LXXXIII.331.355
 * Holland, R.F., 1954, “The Empiricist Theory of Memory”, *Mind*, 63(252): 464–486.
-* Hopkins, Robert, 2014, “Episodic Memory as Representing the Past to Oneself”, *Review of Philosophy and Psychology*, 5(3): 313–331. doi:10.1007/s13164-014-0184-5
+* Hopkins, Robert, 2014, “Episodic Memory as Representing the Past to Oneself”, *Review of Philosophy and Psychology*, 5(3): 313–331. doi: 10.1007/s13164-014-0184-5
 * –––, forthcoming, “Imagining the Past: On the Nature of Episodic Memory”, in Dorsch & Macpherson forthcoming.
-* Howard, Scott Alexander, 2012, “Nostalgia”, *Analysis*, 72(4): 641–650. doi:10.1093/analys/ans105
-* Hubbard, Timothy L., Joanna L. Hutchison, and Jon R. Courtney, 2010, “Boundary Extension: Findings and Theories”, *Quarterly Journal of Experimental Psychology*, 63(8): 1467–1494. doi:10.1080/17470210903511236
-* Huebner, Bryce, 2013, *Macrocognition: A Theory of Distributed Minds and Collective Intentionality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199926275.001.0001
-* –––, 2016, “Transactive Memory Reconstructed: Rethinking Wegner’s Research Program”, *Southern Journal of Philosophy*, 54(1): 48–69. doi:10.1111/sjp.12160
-* Hui, Katrina and Carl E. Fisher, 2015, “The Ethics of Molecular Memory Modification”, *Journal of Medical Ethics*, 41(7): 515–520. doi:10.1136/medethics-2013-101891
+* Howard, Scott Alexander, 2012, “Nostalgia”, *Analysis*, 72(4): 641–650. doi: 10.1093/analys/ans105
+* Hubbard, Timothy L., Joanna L. Hutchison, and Jon R. Courtney, 2010, “Boundary Extension: Findings and Theories”, *Quarterly Journal of Experimental Psychology*, 63(8): 1467–1494. doi: 10.1080/17470210903511236
+* Huebner, Bryce, 2013, *Macrocognition: A Theory of Distributed Minds and Collective Intentionality*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199926275.001.0001
+* –––, 2016, “Transactive Memory Reconstructed: Rethinking Wegner’s Research Program”, *Southern Journal of Philosophy*, 54(1): 48–69. doi: 10.1111/sjp.12160
+* Hui, Katrina and Carl E. Fisher, 2015, “The Ethics of Molecular Memory Modification”, *Journal of Medical Ethics*, 41(7): 515–520. doi: 10.1136/medethics-2013-101891
 * Hume, David, [1739] 2011, *A Treatise of Human Nature*, Oxford: Clarendon Press.
-* Hutchins, Edwin, 1995, “How a Cockpit Remembers Its Speeds”, *Cognitive Science*, 19(3): 265–288. doi:10.1207/s15516709cog1903_1
+* Hutchins, Edwin, 1995, “How a Cockpit Remembers Its Speeds”, *Cognitive Science*, 19(3): 265–288. doi: 10.1207/s15516709cog1903_1
 * Hutto, Daniel D., 2017, “Memory and Narrativity”, in Bernecker & Michaelian 2017: ch. 15.
 * Hutto, Daniel D. and Erik Myin, 2017, *Evolving Enactivism: Basic Minds Meet Content*, Cambridge, MA: MIT Press.
-* Jackman, Henry, 2005, “Temporal Externalism, Deference, and Our Ordinary Linguistic Practice”, *Pacific Philosophical Quarterly*, 86(3): 365–380. doi:10.1111/j.1468-0114.2005.00232.x
-* James, Steven, forthcoming, “Epistemic and Non-Epistemic Theories of Remembering”, *Pacific Philosophical Quarterly*, first online 4 April 2016. doi:10.1111/papq.12157
-* Johnson, Marcia K., 1997, “Source Monitoring and Memory Distortion”, *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 352(1362): 1733–1745. doi:10.1098/rstb.1997.0156
+* Jackman, Henry, 2005, “Temporal Externalism, Deference, and Our Ordinary Linguistic Practice”, *Pacific Philosophical Quarterly*, 86(3): 365–380. doi: 10.1111/j.1468-0114.2005.00232.x
+* James, Steven, forthcoming, “Epistemic and Non-Epistemic Theories of Remembering”, *Pacific Philosophical Quarterly*, first online 4 April 2016. doi: 10.1111/papq.12157
+* Johnson, Marcia K., 1997, “Source Monitoring and Memory Distortion”, *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 352(1362): 1733–1745. doi: 10.1098/rstb.1997.0156
 * Kania, Andrew (ed.), 2009, *Memento*, London: Routledge.
 * Kattago, Siobhan (ed.), 2015, *Ashgate Research Companion to Memory Studies*, London: Ashgate.
-* Kennett, Jeanette and Steve Matthews, 2009, “Mental Time Travel, Agency and Responsibility”, in Matthew Broome & Lisa Bortolotti (eds.), *Psychiatry as Cognitive Neuroscience: Philosophical Perspectives*, Oxford: Oxford University Press, pp. 327–350. doi:10.1093/med/9780199238033.003.0017
-* Keven, Nazim, 2016, “Events, Narratives and Memory”, *Synthese*, 193(8): 2497–2517. doi:10.1007/s11229-015-0862-6
+* Kennett, Jeanette and Steve Matthews, 2009, “Mental Time Travel, Agency and Responsibility”, in Matthew Broome & Lisa Bortolotti (eds.), *Psychiatry as Cognitive Neuroscience: Philosophical Perspectives*, Oxford: Oxford University Press, pp. 327–350. doi: 10.1093/med/9780199238033.003.0017
+* Keven, Nazim, 2016, “Events, Narratives and Memory”, *Synthese*, 193(8): 2497–2517. doi: 10.1007/s11229-015-0862-6
 * Kind, Amy, forthcoming, “How Imagination Gives Rise to Knowledge”, in Dorsch & Macpherson forthcoming.
-* Kirchhoff, Michael D., 2016, “Composition and Transactive Memory Systems”, *Philosophical Explorations*, 19(1): 59–77. doi:10.1080/13869795.2016.1085593
-* Klein, Stanley B., 2013, “The Complex Act of Projecting Oneself into the Future”, *WIREs Cognitive Science*, 4(1): 63–79. doi:10.1002/wcs.1210
-* –––, 2014, “Autonoesis and Belief in a Personal Past: An Evolutionary Theory of Episodic Memory Indices”, *Review of Philosophy and Psychology*, 5(3): 427–447. doi:10.1007/s13164-014-0181-8
-* –––, 2015, “What Memory Is”, *WIREs Cognitive Science*, 6(1): 1–38. doi:10.1002/wcs.1333
-* –––, 2016a, “Autonoetic Consciousness: Reconsidering the Role of Episodic Memory in Future-Oriented Self-Projection”, *Quarterly Journal of Experimental Psychology*, 69(2): 381–401. doi:10.1080/17470218.2015.1007150
-* –––, 2016b, “Lost Feeling of Ownership of One’s Mental States: The Importance of Situating Patient RB’s Pathology in the Context of Contemporary Theory and Empiricism”, *Philosophical Psychology*, 29(4): 490–493. doi:10.1080/09515089.2015.1126815
-* Klein, Stanley B. and Shaun Nichols, 2012, “Memory and the Sense of Personal Identity”, *Mind*, 121(483): 677–702. doi:10.1093/mind/fzs080
-* Klein, Stanley B. and Chloe Steindam, 2016, “The Role of Subjective Temporality in Future-Oriented Mental Time Travel”, in Michaelian, Klein, & Szpunar 2016d: 135–152. doi:10.1093/acprof:oso/9780190241537.003.0007
-* Klein, Stanley B., Leda Cosmides, Cynthia E. Gangi, Betsy Jackson, John Tooby, and Kristi A. Costabile, 2009, “Evolution and Episodic Memory: An Analysis and Demonstration of a Social Function of Episodic Recollection”, *Social Cognition*, 27(2): 283–319. doi:10.1521/soco.2009.27.2.283
-* Klein, Stanley B., Leda Cosmides, John Tooby, and Sarah Chance, 2002, “Decisions and the Evolution of Memory: Multiple Systems, Multiple Functions”, *Psychological Review*, 109(2): 306–329. doi:10.1037/0033-295X.109.2.306
-* Kneale, Martha, 1971, “The Presidential Address: Our Knowledge of the Past and of the Future”, *Proceedings of the Aristotelian Society*, n.s. 72: 1–12. doi:10.1093/aristotelian/72.1.1
-* Knuuttila, Simo & Juha Sihvola (eds.), *Sourcebook for the History of the Philosophy of Mind: Philosophical Psychology from Plato to Kant*, Dordrecht: Springer. doi:10.1007/978-94-007-6967-0
-* Koriat, Asher and Morris Goldsmith, 1996, “Memory Metaphors and the Real-Life/Laboratory Controversy: Correspondence Versus Storehouse Conceptions of Memory”, *Behavioral and Brain Sciences*, 19(2): 167–188. doi:10.1017/S0140525X00042114
-* Lackey, Jennifer, 2005, “Memory as a Generative Epistemic Source”, *Philosophy and Phenomenological Research*, 70(3): 636–658. doi:10.1111/j.1933-1592.2005.tb00418.x
+* Kirchhoff, Michael D., 2016, “Composition and Transactive Memory Systems”, *Philosophical Explorations*, 19(1): 59–77. doi: 10.1080/13869795.2016.1085593
+* Klein, Stanley B., 2013, “The Complex Act of Projecting Oneself into the Future”, *WIREs Cognitive Science*, 4(1): 63–79. doi: 10.1002/wcs.1210
+* –––, 2014, “Autonoesis and Belief in a Personal Past: An Evolutionary Theory of Episodic Memory Indices”, *Review of Philosophy and Psychology*, 5(3): 427–447. doi: 10.1007/s13164-014-0181-8
+* –––, 2015, “What Memory Is”, *WIREs Cognitive Science*, 6(1): 1–38. doi: 10.1002/wcs.1333
+* –––, 2016a, “Autonoetic Consciousness: Reconsidering the Role of Episodic Memory in Future-Oriented Self-Projection”, *Quarterly Journal of Experimental Psychology*, 69(2): 381–401. doi: 10.1080/17470218.2015.1007150
+* –––, 2016b, “Lost Feeling of Ownership of One’s Mental States: The Importance of Situating Patient RB’s Pathology in the Context of Contemporary Theory and Empiricism”, *Philosophical Psychology*, 29(4): 490–493. doi: 10.1080/09515089.2015.1126815
+* Klein, Stanley B. and Shaun Nichols, 2012, “Memory and the Sense of Personal Identity”, *Mind*, 121(483): 677–702. doi: 10.1093/mind/fzs080
+* Klein, Stanley B. and Chloe Steindam, 2016, “The Role of Subjective Temporality in Future-Oriented Mental Time Travel”, in Michaelian, Klein, & Szpunar 2016d: 135–152. doi: 10.1093/acprof: oso/9780190241537.003.0007
+* Klein, Stanley B., Leda Cosmides, Cynthia E. Gangi, Betsy Jackson, John Tooby, and Kristi A. Costabile, 2009, “Evolution and Episodic Memory: An Analysis and Demonstration of a Social Function of Episodic Recollection”, *Social Cognition*, 27(2): 283–319. doi: 10.1521/soco.2009.27.2.283
+* Klein, Stanley B., Leda Cosmides, John Tooby, and Sarah Chance, 2002, “Decisions and the Evolution of Memory: Multiple Systems, Multiple Functions”, *Psychological Review*, 109(2): 306–329. doi: 10.1037/0033-295X.109.2.306
+* Kneale, Martha, 1971, “The Presidential Address: Our Knowledge of the Past and of the Future”, *Proceedings of the Aristotelian Society*, n.s. 72: 1–12. doi: 10.1093/aristotelian/72.1.1
+* Knuuttila, Simo & Juha Sihvola (eds.), *Sourcebook for the History of the Philosophy of Mind: Philosophical Psychology from Plato to Kant*, Dordrecht: Springer. doi: 10.1007/978-94-007-6967-0
+* Koriat, Asher and Morris Goldsmith, 1996, “Memory Metaphors and the Real-Life/Laboratory Controversy: Correspondence Versus Storehouse Conceptions of Memory”, *Behavioral and Brain Sciences*, 19(2): 167–188. doi: 10.1017/S0140525X00042114
+* Lackey, Jennifer, 2005, “Memory as a Generative Epistemic Source”, *Philosophy and Phenomenological Research*, 70(3): 636–658. doi: 10.1111/j.1933-1592.2005.tb00418.x
 * Laird, John, 1920, *A Study in Realism*, Cambridge: Cambridge University Press.
-* Levy, Neil, 2007, “Rethinking Neuroethics in the Light of the Extended Mind Thesis”, *American Journal of Bioethics*, 7(9): 3–11. doi:10.1080/15265160701518466
-* –––, 2012, “Neuroethics”, *WIREs Cognitive Science*, 3(2): 143–151. doi:10.1002/wcs.1157
-* –––, 2014, “Psychopaths and Blame: The Argument from Content”, *Philosophical Psychology*, 27(3): 351–367. doi:10.1080/09515089.2012.729485
-* Liao, S. Matthew and Anders Sandberg, 2008, “The Normativity of Memory Modification”, *Neuroethics*, 1(2): 85–99. doi:10.1007/s12152-008-9009-5
-* Liao, S. Matthew and David T. Wasserman, 2007, “Neuroethical Concerns About Moderating Traumatic Memories”, *American Journal of Bioethics*, 7(9): 38–40. doi:10.1080/15265160701518623
-* Lin, Martin, 2005, “Memory and Personal Identity in Spinoza”, *Canadian Journal of Philosophy*, 35(2): 243–268. doi:10.1080/00455091.2005.10716589
-* Loader, Paul, 2013, “Is My Memory an Extended Notebook?” *Review of Philosophy and Psychology*, 4(1): 167–184. doi:10.1007/s13164-012-0123-2
+* Levy, Neil, 2007, “Rethinking Neuroethics in the Light of the Extended Mind Thesis”, *American Journal of Bioethics*, 7(9): 3–11. doi: 10.1080/15265160701518466
+* –––, 2012, “Neuroethics”, *WIREs Cognitive Science*, 3(2): 143–151. doi: 10.1002/wcs.1157
+* –––, 2014, “Psychopaths and Blame: The Argument from Content”, *Philosophical Psychology*, 27(3): 351–367. doi: 10.1080/09515089.2012.729485
+* Liao, S. Matthew and Anders Sandberg, 2008, “The Normativity of Memory Modification”, *Neuroethics*, 1(2): 85–99. doi: 10.1007/s12152-008-9009-5
+* Liao, S. Matthew and David T. Wasserman, 2007, “Neuroethical Concerns About Moderating Traumatic Memories”, *American Journal of Bioethics*, 7(9): 38–40. doi: 10.1080/15265160701518623
+* Lin, Martin, 2005, “Memory and Personal Identity in Spinoza”, *Canadian Journal of Philosophy*, 35(2): 243–268. doi: 10.1080/00455091.2005.10716589
+* Loader, Paul, 2013, “Is My Memory an Extended Notebook?” *Review of Philosophy and Psychology*, 4(1): 167–184. doi: 10.1007/s13164-012-0123-2
 * Locke, Don, 1971, *Memory*, London: Macmillan.
 * Locke, John, [1689] 1998, *An Essay Concerning Human Understanding*, Roger Woolhouse (ed.), London: Penguin.
 * Loftus, Elizabeth F., 1996, *Eyewitness Testimony* second edition (first edition 1979), Cambridge, MA: Harvard University Press.
-* Loh, Kep Kee and Ryota Kanai, 2016, “How Has the Internet Reshaped Human Cognition?” *The Neuroscientist*, 22(5): 506–520. doi:10.1177/1073858415595005
+* Loh, Kep Kee and Ryota Kanai, 2016, “How Has the Internet Reshaped Human Cognition?” *The Neuroscientist*, 22(5): 506–520. doi: 10.1177/1073858415595005
 * Ludlow, Peter, 1995, “Social Externalism and Memory: A Problem?” *Acta Analytica*, 10(14): 69–76.
 * Madison, Brent J.C., 2017, “Internalism and Externalism”, in Bernecker & Michaelian 2017: ch. 22.
-* Mahr, Johannes and Gergely Csibra, forthcoming, “Why Do We Remember? The Communicative Function of Episodic Memory”, *Behavioral and Brain Sciences*, first online 19 January 2017. doi:10.1017/S0140525X17000012
-* Malanowski, Sarah, 2016, “Is Episodic Memory Uniquely Human? Evaluating the Episodic-Like Memory Research Program”, *Synthese*, 193(5): 1433–1455. doi:10.1007/s11229-015-0966-z
+* Mahr, Johannes and Gergely Csibra, forthcoming, “Why Do We Remember? The Communicative Function of Episodic Memory”, *Behavioral and Brain Sciences*, first online 19 January 2017. doi: 10.1017/S0140525X17000012
+* Malanowski, Sarah, 2016, “Is Episodic Memory Uniquely Human? Evaluating the Episodic-Like Memory Research Program”, *Synthese*, 193(5): 1433–1455. doi: 10.1007/s11229-015-0966-z
 * Malcolm, Norman, [1963] 1975, *Knowledge and Certainty: Essays and Lectures*, Ithaca, NY: Cornell University Press.
-* Manning, Lilian, Daniel Cassel, and Jean-Christophe Cassel, 2013, “St. Augustine’s Reflections on Memory and Time and the Current Concept of Subjective Time in Mental Time Travel”, *Behavioral Sciences*, 3(2): 232–243. doi:10.3390/bs3020232
+* Manning, Lilian, Daniel Cassel, and Jean-Christophe Cassel, 2013, “St. Augustine’s Reflections on Memory and Time and the Current Concept of Subjective Time in Mental Time Travel”, *Behavioral Sciences*, 3(2): 232–243. doi: 10.3390/bs3020232
 * Margalit, Avishai, 2002, *The Ethics of Memory*, Cambridge, MA: Harvard University Press.
-* Martin, C.B. and Max Deutscher, 1966, “Remembering”, *Philosophical Review*, 75(2): 161–96. doi:10.2307/2183082
-* Matheson, David, 2013, “A Duty of Ignorance”, *Episteme*, 10(2): 193–205. doi:10.1017/epi.2013.16
+* Martin, C.B. and Max Deutscher, 1966, “Remembering”, *Philosophical Review*, 75(2): 161–96. doi: 10.2307/2183082
+* Matheson, David, 2013, “A Duty of Ignorance”, *Episteme*, 10(2): 193–205. doi: 10.1017/epi.2013.16
 * Mathews, Debra J.H., Hilary Bok, and Peter V. Rabins (eds.), 2009, *Personal Identity and Fractured Selves: Perspectives from Philosophy, Ethics, and Neuroscience*, Baltimore, MD: Johns Hopkins University Press.
-* Matthen, Mohan, 2010, “Is Memory Preservation?” *Philosophical Studies*, 148(1): 3–14. doi:10.1007/s11098-010-9501-8
+* Matthen, Mohan, 2010, “Is Memory Preservation?” *Philosophical Studies*, 148(1): 3–14. doi: 10.1007/s11098-010-9501-8
 * Mayer-Schönberger, Viktor, 2009, *Delete: The Virtue of Forgetting in the Digital Age*, Princeton, NJ: Princeton University Press.
-* McCarroll, Christopher Jude, 2017, “Looking the Past in the Eye: Distortion in Memory and the Costs and Benefits of Recalling from an Observer Perspective”, *Consciousness and Cognition*, 49: 322–332. doi:10.1016/j.concog.2017.01.014
+* McCarroll, Christopher Jude, 2017, “Looking the Past in the Eye: Distortion in Memory and the Costs and Benefits of Recalling from an Observer Perspective”, *Consciousness and Cognition*, 49: 322–332. doi: 10.1016/j.concog.2017.01.014
 * McClelland, James L. and David E. Rumelhart, 1986, “A Distributed Model of Human Learning and Memory”, in James L. McClelland & David E. Rumelhart (eds.), *Parallel Distributed Processing: Explorations in the Microstructure of Cognition*, Vol. 2, Cambridge, MA: MIT Press, pp. 170–215.
-* McCormack, Teresa, 2015, “The Development of Temporal Cognition”, in Robert M. Lerner (ed.), *Handbook of Child Psychology and Developmental Science*, Hoboken: Wiley, pp. 624–670. doi:10.1002/9781118963418.childpsy215
+* McCormack, Teresa, 2015, “The Development of Temporal Cognition”, in Robert M. Lerner (ed.), *Handbook of Child Psychology and Developmental Science*, Hoboken: Wiley, pp. 624–670. doi: 10.1002/9781118963418.childpsy215
 * McCormack, Teresa and Christoph Hoerl, 2001, “The Child in Time: Temporal Concepts and Self-Consciousness in the Development of Episodic Memory”, in Chris Moore & Karen Lemmon (eds.), *The Self in Time: Developmental Perspectives*, Hoboken: Lawrence Erlbaum, pp. 203–227.
-* –––, 2008, “Temporal Decentering and the Development of Temporal Concepts”, *Language Learning*, 58(s1): 89–113. doi:10.1111/j.1467-9922.2008.00464.x
+* –––, 2008, “Temporal Decentering and the Development of Temporal Concepts”, *Language Learning*, 58(s1): 89–113. doi: 10.1111/j.1467-9922.2008.00464.x
 * McDaniel, Mark A. and Gilles O. Einstein, 2007, *Prospective Memory: An Overview and Synthesis of an Emerging Field*, Thousand Oaks, CA: Sage Publications.
 * McIlwain, Doris, 2010, “Living Strangely in Time: Emotions, Masks and Morals in Psychopathically-Inclined People”, *European Journal of Analytic Philosophy*, 6(1): 75–94.
-* Merck, Clinton, Meymune N. Topcu, and William Hirst, 2016, “Collective Mental Time Travel: Creating a Shared Future Through Our Shared Past”, *Memory Studies*, 9(3): 284–294. doi:10.1177/1750698016645236
-* Michaelian, Kourken, 2011a, “Generative Memory”, *Philosophical Psychology*, 24(3): 323–342. doi:10.1080/09515089.2011.559623
-* –––, 2011b, “Is Memory a Natural Kind?” *Memory Studies*, 4(2): 170–189. doi:10.1177/1750698010374287
-* –––, 2013, “The Information Effect: Constructive Memory, Testimony, and Epistemic Luck”, *Synthese*, 190(12): 2429–2456. doi:10.1007/s11229-011-9992-7
-* –––, 2015, “Opening the Doors of Memory: Is Declarative Memory a Natural Kind?” *WIREs Cognitive Science*, 6(6): 475–482. doi:10.1002/wcs.1364
-* –––, 2016a, “Against Discontinuism: Mental Time Travel and Our Knowledge of Past and Future Events”, in Michaelian, Klein, & Szpunar 2016d: 62–92. doi:10.1093/acprof:oso/9780190241537.003.0004
-* –––, 2016b, “Confabulating, Misremembering, Relearning: The Simulation Theory of Memory and Unsuccessful Remembering”, *Frontiers in Psychology*, 7: 1857. doi:10.3389/fpsyg.2016.01857
+* Merck, Clinton, Meymune N. Topcu, and William Hirst, 2016, “Collective Mental Time Travel: Creating a Shared Future Through Our Shared Past”, *Memory Studies*, 9(3): 284–294. doi: 10.1177/1750698016645236
+* Michaelian, Kourken, 2011a, “Generative Memory”, *Philosophical Psychology*, 24(3): 323–342. doi: 10.1080/09515089.2011.559623
+* –––, 2011b, “Is Memory a Natural Kind?” *Memory Studies*, 4(2): 170–189. doi: 10.1177/1750698010374287
+* –––, 2013, “The Information Effect: Constructive Memory, Testimony, and Epistemic Luck”, *Synthese*, 190(12): 2429–2456. doi: 10.1007/s11229-011-9992-7
+* –––, 2015, “Opening the Doors of Memory: Is Declarative Memory a Natural Kind?” *WIREs Cognitive Science*, 6(6): 475–482. doi: 10.1002/wcs.1364
+* –––, 2016a, “Against Discontinuism: Mental Time Travel and Our Knowledge of Past and Future Events”, in Michaelian, Klein, & Szpunar 2016d: 62–92. doi: 10.1093/acprof: oso/9780190241537.003.0004
+* –––, 2016b, “Confabulating, Misremembering, Relearning: The Simulation Theory of Memory and Unsuccessful Remembering”, *Frontiers in Psychology*, 7: 1857. doi: 10.3389/fpsyg.2016.01857
 * –––, 2016c, *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*, Cambridge, MA: MIT Press.
-* Michaelian, Kourken, Stanley B. Klein, & Karl K. Szpunar (eds.), 2016d, *Seeing the Future: Theoretical Perspectives on Future-Oriented Mental Time Travel*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190241537.001.0001
+* Michaelian, Kourken, Stanley B. Klein, & Karl K. Szpunar (eds.), 2016d, *Seeing the Future: Theoretical Perspectives on Future-Oriented Mental Time Travel*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190241537.001.0001
 * Michaelian, Kourken and Santiago Arango-Muñoz, forthcoming, “Collaborative Memory Knowledge: A Distributed Reliabilist Perspective”, in Michelle Meade, Amanda Barnier, Penny Van Bergen, Celia Harris, & John Sutton (eds.), *Collaborative Remembering: How Remembering with Others Influences Memory*, Oxford: Oxford University Press.
 * Michaelian, Kourken and John Sutton, forthcoming, “Collective Memory”, in M. Jankovic & Kirk Ludwig (eds.), *Routledge Handbook of Collective Intentionality*, London: Routledge.
-* Moon, Andrew, 2012, “Knowing Without Evidence”, *Mind*, 121(482): 309–331. doi:10.1093/mind/fzs048
-* –––, 2013, “Remembering Entails Knowing”, *Synthese*, 190(14): 2717–2729. doi:10.1007/s11229-012-0065-3
+* Moon, Andrew, 2012, “Knowing Without Evidence”, *Mind*, 121(482): 309–331. doi: 10.1093/mind/fzs048
+* –––, 2013, “Remembering Entails Knowing”, *Synthese*, 190(14): 2717–2729. doi: 10.1007/s11229-012-0065-3
 * –––, 2017, “Skepticism and Memory”, in Bernecker & Michaelian 2017: ch. 26.
-* Moyal-Sharrock, Danièle, 2009, “Wittgenstein and the Memory Debate”, *New Ideas in Psychology*, 27(2): 213–227. doi:10.1016/j.newideapsych.2008.04.015
-* Moyal-Sharrock, Danièle, Volker Munz, & Annalisa Coliva (eds.), 2015, *Mind, Language, and Action: Proceedings of the 36th International Wittgenstein Symposium*, Berlin: De Gruyter. doi:10.1515/9783110378795
-* Mullally, Sinéad L. and Eleanor A. Maguire, 2014, “Memory, Imagination, and Predicting the Future: A Common Brain Mechanism?” *The Neuroscientist*, 20(3): 220–234. doi:10.1177/1073858413495091
+* Moyal-Sharrock, Danièle, 2009, “Wittgenstein and the Memory Debate”, *New Ideas in Psychology*, 27(2): 213–227. doi: 10.1016/j.newideapsych.2008.04.015
+* Moyal-Sharrock, Danièle, Volker Munz, & Annalisa Coliva (eds.), 2015, *Mind, Language, and Action: Proceedings of the 36th International Wittgenstein Symposium*, Berlin: De Gruyter. doi: 10.1515/9783110378795
+* Mullally, Sinéad L. and Eleanor A. Maguire, 2014, “Memory, Imagination, and Predicting the Future: A Common Brain Mechanism?” *The Neuroscientist*, 20(3): 220–234. doi: 10.1177/1073858413495091
 * Munsat, Stanley, 1967, *The Concept of Memory*, New York: Random House.
-* Myin, Erik and Karim Zahidi, 2015, “The Extent of Memory: From Extended to Extensive Mind”, in Moyal-Sharrock, Munz, & Coliva 2015: 391–408. doi:10.1515/9783110378795.391
-* Nalbantian, Suzanne, Paul M. Matthews, and James L. McClelland (eds.), 2011, *The Memory Process: Neuroscientific and Humanistic Perspectives*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262014571.001.0001
-* Naylor, Andrew, 1971, “B Remembers That *P* from Time *T*”, *Journal of Philosophy*, 68(2): 29–41. doi:10.2307/2025220
+* Myin, Erik and Karim Zahidi, 2015, “The Extent of Memory: From Extended to Extensive Mind”, in Moyal-Sharrock, Munz, & Coliva 2015: 391–408. doi: 10.1515/9783110378795.391
+* Nalbantian, Suzanne, Paul M. Matthews, and James L. McClelland (eds.), 2011, *The Memory Process: Neuroscientific and Humanistic Perspectives*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262014571.001.0001
+* Naylor, Andrew, 1971, “B Remembers That *P* from Time *T*”, *Journal of Philosophy*, 68(2): 29–41. doi: 10.2307/2025220
 * Neumann, Klaus and Janna Thompson (eds.), 2015, *Historical Justice and Memory*, Madison, WI: University of Wisconsin Press.
-* Nikulin, Dmitri, 2015, *Memory: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199793839.001.0001
-* Northoff, G., 2000, “Are ‘Q-Memories’ Empirically Realistic? A Neurophilosophical Approach”, *Philosophical Psychology*, 13(2): 191–211. doi:10.1080/09515080050075681
+* Nikulin, Dmitri, 2015, *Memory: A History*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199793839.001.0001
+* Northoff, G., 2000, “Are ‘Q-Memories’ Empirically Realistic? A Neurophilosophical Approach”, *Philosophical Psychology*, 13(2): 191–211. doi: 10.1080/09515080050075681
 * Olick, Jeffrey K., Vered Vinitzky-Seroussi, and Daniel Levy, 2011, *The Collective Memory Reader*, New York: Oxford University Press.
-* Olsson, E.J. and T. Shogenji, 2004, “Can We Trust Our Memories? C.I. Lewis’s Coherence Argument”, *Synthese*, 142(1): 21–41. doi:10.1023/B:SYNT.0000047708.33913.2b
-* Ost, James and Alan Costall, 2002, “Misremembering Bartlett: A Study in Serial Reproduction”, *British Journal of Psychology*, 93(2): 243–255. doi:10.1348/000712602162562
+* Olsson, E.J. and T. Shogenji, 2004, “Can We Trust Our Memories? C.I. Lewis’s Coherence Argument”, *Synthese*, 142(1): 21–41. doi: 10.1023/B: SYNT.0000047708.33913.2b
+* Ost, James and Alan Costall, 2002, “Misremembering Bartlett: A Study in Serial Reproduction”, *British Journal of Psychology*, 93(2): 243–255. doi: 10.1348/000712602162562
 * Osvath, Mathias and Peter Gärdenfors, 2005, “Oldowan Culture and the Evolution of Anticipatory Cognition”, Lund University Cognitive Science 122. [[Osvath & Gärdenfors 2005 available online](http://www.lucs.lu.se/LUCS/122/LUCS.122.pdf)]
-* Otgaar, Henry, Mark L. Howe, Andrew Clark, Jianqin Wang, and Harald Merckelbach, 2015, “What If You Went to the Police and Accused Your Uncle of Abuse? Misunderstandings Concerning the Benefits of Memory Distortion: A Commentary on Fernández 2015”, *Consciousness and Cognition*, 33: 286–290. doi:10.1016/j.concog.2015.01.015
-* Otgaar, Henry, Alan Scoboria, and Giuliana Mazzoni, 2014, “On the Existence and Implications of Nonbelieved Memories”, *Current Directions in Psychological Science*, 23(5): 349–354. doi:10.1177/0963721414542102
-* O’Brien, G.J., 1991, “Is Connectionism Commonsense?” *Philosophical Psychology*, 4(2): 165–178. doi:10.1080/09515089108573024
-* O’Hara, Kieron, 2013, “The Technology of Collective Memory and the Normativity of Truth”, in Diane P. Michelfelder, Natasha McCarthy, & David E. Goldberg (eds.), *Philosophy and Engineering: Reflections on Practice, Principles and Process*, Dordrecht: Springer, pp. 279–290. doi:10.1007/978-94-007-7762-0_22
+* Otgaar, Henry, Mark L. Howe, Andrew Clark, Jianqin Wang, and Harald Merckelbach, 2015, “What If You Went to the Police and Accused Your Uncle of Abuse? Misunderstandings Concerning the Benefits of Memory Distortion: A Commentary on Fernández 2015”, *Consciousness and Cognition*, 33: 286–290. doi: 10.1016/j.concog.2015.01.015
+* Otgaar, Henry, Alan Scoboria, and Giuliana Mazzoni, 2014, “On the Existence and Implications of Nonbelieved Memories”, *Current Directions in Psychological Science*, 23(5): 349–354. doi: 10.1177/0963721414542102
+* O’Brien, G.J., 1991, “Is Connectionism Commonsense?” *Philosophical Psychology*, 4(2): 165–178. doi: 10.1080/09515089108573024
+* O’Hara, Kieron, 2013, “The Technology of Collective Memory and the Normativity of Truth”, in Diane P. Michelfelder, Natasha McCarthy, & David E. Goldberg (eds.), *Philosophy and Engineering: Reflections on Practice, Principles and Process*, Dordrecht: Springer, pp. 279–290. doi: 10.1007/978-94-007-7762-0_22
 * O’Loughlin, Ian, forthcoming, “Learning Without Storing: Wittgenstein’s Cognitive Science of Learning and Memory”, in Michael A. Peters & Jeff Stickney (eds.), *A Companion to Wittgenstein on Education: Pedagogical Investigations*, Dordrecht: Springer.
 * Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Oxford University Press.
 * Pears, David, 1990, *Hume’s System: An Examination of the First Book of His “Treatise”*, Oxford: Oxford University Press.
-* Perrin, Denis, 2016, “Asymmetries in Subjective Time”, in Michaelian, Klein, & Szpunar 2016d: 39–61. doi:10.1093/acprof:oso/9780190241537.003.0003
+* Perrin, Denis, 2016, “Asymmetries in Subjective Time”, in Michaelian, Klein, & Szpunar 2016d: 39–61. doi: 10.1093/acprof: oso/9780190241537.003.0003
 * Perrin, Denis and Kourken Michaelian, 2017, “Memory as Mental Time Travel”, in Bernecker & Michaelian 2017: ch. 18.
-* Perrin, Dnis and S. Rousset, 2014, “The Episodicity of Memory”, *Review of Philosophy and Psychology*, 5(3): 291–312. doi:10.1007/s13164-014-0196-1
+* Perrin, Dnis and S. Rousset, 2014, “The Episodicity of Memory”, *Review of Philosophy and Psychology*, 5(3): 291–312. doi: 10.1007/s13164-014-0196-1
 * Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, in Keith. Gunderson (ed.), *Language, Mind, and Knowledge*, Vol. VII, Minneapolis: University of Minnesota Press, pp. 131–193.
 * Radstone, Susannah and Bill Schwarz (eds.), 2010, *Memory: Histories, Theories, Debates*, New York: Fordham University Press.
-* Reese, Elaine, Catherine A. Haden, and Robyn Fivush, 1993, “Mother-Child Conversations About the Past: Relationships of Style and Memory over Time”, *Cognitive Development*, 8(4): 403–430. doi:10.1016/S0885-2014(05)80002-4
+* Reese, Elaine, Catherine A. Haden, and Robyn Fivush, 1993, “Mother-Child Conversations About the Past: Relationships of Style and Memory over Time”, *Cognitive Development*, 8(4): 403–430. doi: 10.1016/S0885-2014(05)80002-4
 * Reid, Thomas, [1764] 1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek B. Brookes (ed.), University Park, PA: Pennsylvania State University Press.
 * –––, [1785] 2002, *Essays on the Intellectual Powers of Man*, Derek B. Brookes (ed.), University Park, PA: Pennsylvania State University Press.
-* Renoult, Louis, Patrick S.R. Davidson, Daniela J. Palombo, Morris Moscovitch, and Brian Levine, 2012, “Personal Semantics: At the Crossroads of Semantic and Episodic Memory”, *Trends in Cognitive Sciences*, 16(11): 550–558. doi:10.1016/j.tics.2012.09.003
+* Renoult, Louis, Patrick S.R. Davidson, Daniela J. Palombo, Morris Moscovitch, and Brian Levine, 2012, “Personal Semantics: At the Crossroads of Semantic and Episodic Memory”, *Trends in Cognitive Sciences*, 16(11): 550–558. doi: 10.1016/j.tics.2012.09.003
 * Rieff, David, 2016, *In Praise of Forgetting: Historical Memory and Its Ironies*, New Haven, CT: Yale University Press.
-* Roache, Rebecca, 2006, “A Defence of Quasi-Memory”, *Philosophy*, 81(02): 323–355. doi:10.1017/S0031819106316075
-* –––, 2016, “Memory and Mineness in Personal Identity”, *Philosophical Psychology*, 29(4): 479–489. doi:10.1080/09515089.2015.1102216
-* Robins, Sarah K., 2016a, “Misremembering”, *Philosophical Psychology*, 29(3): 432–447. doi:10.1080/09515089.2015.1113245
-* –––, 2016b, “Representing the Past: Memory Traces and the Causal Theory of Memory”, *Philosophical Studies*, 173(11): 2993–3013. doi:10.1007/s11098-016-0647-x
+* Roache, Rebecca, 2006, “A Defence of Quasi-Memory”, *Philosophy*, 81(02): 323–355. doi: 10.1017/S0031819106316075
+* –––, 2016, “Memory and Mineness in Personal Identity”, *Philosophical Psychology*, 29(4): 479–489. doi: 10.1080/09515089.2015.1102216
+* Robins, Sarah K., 2016a, “Misremembering”, *Philosophical Psychology*, 29(3): 432–447. doi: 10.1080/09515089.2015.1113245
+* –––, 2016b, “Representing the Past: Memory Traces and the Causal Theory of Memory”, *Philosophical Studies*, 173(11): 2993–3013. doi: 10.1007/s11098-016-0647-x
 * –––, 2017, “Memory Traces”, in Bernecker & Michaelian 2017: ch. 6.
-* –––, forthcoming, “Confabulation and Constructive Memory”, *Synthese*, first online 6 February 2017. doi:10.1007/s11229-017-1315-1
-* Roediger, Henry L. and Magdalena Abel, 2015, “Collective Memory: A New Arena of Cognitive Study”, *Trends in Cognitive Sciences*, 19(7): 359–361. doi:10.1016/j.tics.2015.04.003
-* Roediger, Henry L. and James V. Wertsch, 2008, “Creating a New Discipline of Memory Studies”, *Memory Studies*, 1(1): 9–22. doi:10.1177/1750698007083884
-* Roediger, Henry L., Yadin Dudai, and Susan M. Fitzpatrick, 2007, *Science of Memory: Concepts*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195310443.001.0001
-* Rosen, Deborah A., 1975, “An Argument for the Logical Notion of a Memory Trace”, *Philosophy of Science*, 42(1): 1–10. doi:10.1086/288614
+* –––, forthcoming, “Confabulation and Constructive Memory”, *Synthese*, first online 6 February 2017. doi: 10.1007/s11229-017-1315-1
+* Roediger, Henry L. and Magdalena Abel, 2015, “Collective Memory: A New Arena of Cognitive Study”, *Trends in Cognitive Sciences*, 19(7): 359–361. doi: 10.1016/j.tics.2015.04.003
+* Roediger, Henry L. and James V. Wertsch, 2008, “Creating a New Discipline of Memory Studies”, *Memory Studies*, 1(1): 9–22. doi: 10.1177/1750698007083884
+* Roediger, Henry L., Yadin Dudai, and Susan M. Fitzpatrick, 2007, *Science of Memory: Concepts*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195310443.001.0001
+* Rosen, Deborah A., 1975, “An Argument for the Logical Notion of a Memory Trace”, *Philosophy of Science*, 42(1): 1–10. doi: 10.1086/288614
 * Rosen, Jeffrey, 2012, “The Right to Be Forgotten”, *Stanford Law Review*, 64: 88.
-* Rosenbaum, R. Shayna, Stefan Köhler, Daniel L. Schacter, Morris Moscovitch, Robyn Westmacott, Sandra E. Black, Fuqiang Gao, and Endel Tulving, 2005, “The Case of KC: Contributions of a Memory-Impaired Person to Memory Theory”, *Neuropsychologia*, 43(7): 989–1021. doi:10.1016/j.neuropsychologia.2004.10.007
+* Rosenbaum, R. Shayna, Stefan Köhler, Daniel L. Schacter, Morris Moscovitch, Robyn Westmacott, Sandra E. Black, Fuqiang Gao, and Endel Tulving, 2005, “The Case of KC: Contributions of a Memory-Impaired Person to Memory Theory”, *Neuropsychologia*, 43(7): 989–1021. doi: 10.1016/j.neuropsychologia.2004.10.007
 * Rossington, Michael and Anne Whitehead, 2007, *Theories of Memory: A Reader*, Baltimore, MD: Johns Hopkins University Press.
 * Rowlands, Mark, 2009, “Memory”, in John Symons & Paco Calvo (eds.), *The Routledge Companion to Philosophy of Psychology*, London: Routledge, pp. 336–345.
-* –––, 2015, “Rilkean Memory”, *Southern Journal of Philosophy*, 53(S1): 141–154. doi:10.1111/sjp.12118
-* –––, 2016, *Memory and the Self: Phenomenology, Science and Autobiography*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190241469.001.0001
-* Rupert, Robert D., 2009, *Cognitive Systems and the Extended Mind*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195379457.001.0001
+* –––, 2015, “Rilkean Memory”, *Southern Journal of Philosophy*, 53(S1): 141–154. doi: 10.1111/sjp.12118
+* –––, 2016, *Memory and the Self: Phenomenology, Science and Autobiography*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190241469.001.0001
+* Rupert, Robert D., 2009, *Cognitive Systems and the Extended Mind*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195379457.001.0001
 * Russell, Bertrand, 1921, *The Analysis of Mind*, London: G. Allen & Unwin.
-* Russell, James and Robert Hanna, 2012, “A Minimalist Approach to the Development of Episodic Memory”, *Mind & Language*, 27(1): 29–54. doi:10.1111/j.1468-0017.2011.01434.x
+* Russell, James and Robert Hanna, 2012, “A Minimalist Approach to the Development of Episodic Memory”, *Mind & Language*, 27(1): 29–54. doi: 10.1111/j.1468-0017.2011.01434.x
 * Ryle, Gilbert, [1949] 2009, *The Concept of Mind*, London: Routledge.
-* Salvaggio, Mary, forthcoming, “The Justification of Reconstructive and Reproductive Memory Beliefs”, *Philosophical Studies*, first online 27 February 2017. doi:10.1007/s11098-017-0886-5
+* Salvaggio, Mary, forthcoming, “The Justification of Reconstructive and Reproductive Memory Beliefs”, *Philosophical Studies*, first online 27 February 2017. doi: 10.1007/s11098-017-0886-5
 * Schacter, Daniel L., 1996, *Searching for Memory: The Brain, the Mind, and the Past*, New York: Basic Books.
 * –––, 2001, *The Seven Sins of Memory: How the Mind Forgets and Remembers*, Boston: Houghton Mifflin Harcourt.
-* Schacter, Daniel L., Donna Rose Addis, and Randy L. Buckner, 2008, “Episodic Simulation of Future Events: Concepts, Data, and Applications”, *Annals of the New York Academy of Sciences*, 1124(1): 39–60. doi:10.1196/annals.1440.001
-* Schacter, Daniel L., Donna Rorse Addis, Demis Hassabis, Victoria C. Martin, R. Nathan Spreng, and Karl K. Szpunar, 2012, “The Future of Memory: Remembering, Imagining, and the Brain”, *Neuron*, 76(4): 677–694. doi:10.1016/j.neuron.2012.11.001
-* Schacter, Daniel L. and Donna Rose Addis, 2007, “The Cognitive Neuroscience of Constructive Memory: Remembering the Past and Imagining the Future”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 362(1481): 773–786. doi:10.1098/rstb.2007.2087
+* Schacter, Daniel L., Donna Rose Addis, and Randy L. Buckner, 2008, “Episodic Simulation of Future Events: Concepts, Data, and Applications”, *Annals of the New York Academy of Sciences*, 1124(1): 39–60. doi: 10.1196/annals.1440.001
+* Schacter, Daniel L., Donna Rorse Addis, Demis Hassabis, Victoria C. Martin, R. Nathan Spreng, and Karl K. Szpunar, 2012, “The Future of Memory: Remembering, Imagining, and the Brain”, *Neuron*, 76(4): 677–694. doi: 10.1016/j.neuron.2012.11.001
+* Schacter, Daniel L. and Donna Rose Addis, 2007, “The Cognitive Neuroscience of Constructive Memory: Remembering the Past and Imagining the Future”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 362(1481): 773–786. doi: 10.1098/rstb.2007.2087
 * Schacter, Daniel L. and Endel Tulving, 1994, *Memory Systems 1994*, Cambridge, MA: MIT Press.
-* Schechtman, Marya, 1994, “The Truth About Memory”, *Philosophical Psychology*, 7(1): 3–18. doi:10.1080/09515089408573107
-* –––, 2011, “Memory and Identity”, *Philosophical Studies*, 153(1): 65–79. doi:10.1007/s11098-010-9645-6
-* Schellenberg, Susanna, 2014, “The Relational and Representational Character of Perceptual Experience”, in Berit Brogaard (ed.), *Does Perception Have Content?*, New York: Oxford University Press, pp. 199–219. doi:10.1093/acprof:oso/9780199756018.003.0008
+* Schechtman, Marya, 1994, “The Truth About Memory”, *Philosophical Psychology*, 7(1): 3–18. doi: 10.1080/09515089408573107
+* –––, 2011, “Memory and Identity”, *Philosophical Studies*, 153(1): 65–79. doi: 10.1007/s11098-010-9645-6
+* Schellenberg, Susanna, 2014, “The Relational and Representational Character of Perceptual Experience”, in Berit Brogaard (ed.), *Does Perception Have Content?*, New York: Oxford University Press, pp. 199–219. doi: 10.1093/acprof: oso/9780199756018.003.0008
 * Seamon, John G., 2015, *Memory and Movies: What Films Can Teach Us About Memory*, Cambridge, MA: MIT Press.
-* Seemann, Axel, forthcoming, “Reminiscing Together: Joint Experiences, Epistemic Groups, and Sense of Self”, *Synthese*, first online 22 July 2016. doi:10.1007/s11229-016-1156-3
-* Segesten, Anamaria Dutceac and Jenny Wüstenberg, forthcoming, “Memory Studies: The State of an Emergent Field”, *Memory Studies*, first online 20 June 2016. doi:10.1177/1750698016655394
-* Senor, Thomas D., 1993, “Internalistic Foundationalism and the Justification of Memory Belief”, *Synthese*, 94(3): 453–476. doi:10.1007/BF01064489
-* Shanton, Karen, 2011, “Memory, Knowledge and Epistemic Competence”, *Review of Philosophy and Psychology*, 2(1): 89–104. doi:10.1007/s13164-010-0038-8
-* Shanton, Karen and Alvin Goldman, 2010, “Simulation Theory”, *WIREs Cognitive Science*, 1(4): 527–538. doi:10.1002/WCS.33
-* Sherry, David F. and Daniel L. Schacter, 1987, “The Evolution of Multiple Memory Systems”, *Psychological Review*, 94(4): 439–454. doi:10.1037/0033-295X.94.4.439
+* Seemann, Axel, forthcoming, “Reminiscing Together: Joint Experiences, Epistemic Groups, and Sense of Self”, *Synthese*, first online 22 July 2016. doi: 10.1007/s11229-016-1156-3
+* Segesten, Anamaria Dutceac and Jenny Wüstenberg, forthcoming, “Memory Studies: The State of an Emergent Field”, *Memory Studies*, first online 20 June 2016. doi: 10.1177/1750698016655394
+* Senor, Thomas D., 1993, “Internalistic Foundationalism and the Justification of Memory Belief”, *Synthese*, 94(3): 453–476. doi: 10.1007/BF01064489
+* Shanton, Karen, 2011, “Memory, Knowledge and Epistemic Competence”, *Review of Philosophy and Psychology*, 2(1): 89–104. doi: 10.1007/s13164-010-0038-8
+* Shanton, Karen and Alvin Goldman, 2010, “Simulation Theory”, *WIREs Cognitive Science*, 1(4): 527–538. doi: 10.1002/WCS.33
+* Sherry, David F. and Daniel L. Schacter, 1987, “The Evolution of Multiple Memory Systems”, *Psychological Review*, 94(4): 439–454. doi: 10.1037/0033-295X.94.4.439
 * Shoemaker, Sydney, 1970, “Persons and Their Pasts”, *American Philosophical Quarterly*, 7(4): 269–285.
-* Shope, Robert K., 1973, “Remembering, Knowledge, and Memory Traces”, *Philosophy and Phenomenological Research*, 33(3): 303–322. doi:10.2307/2106945
-* Smart, Paul R., 2012, “The Web-Extended Mind”, *Metaphilosophy*, 43(4): 446–463. doi:10.1111/j.1467-9973.2012.01756.x
+* Shope, Robert K., 1973, “Remembering, Knowledge, and Memory Traces”, *Philosophy and Phenomenological Research*, 33(3): 303–322. doi: 10.2307/2106945
+* Smart, Paul R., 2012, “The Web-Extended Mind”, *Metaphilosophy*, 43(4): 446–463. doi: 10.1111/j.1467-9973.2012.01756.x
 * Smith, Barry, 2013, *Memory*, London: Routledge.
-* –––, 2014, “Document Acts”, in Anita Konzelmann Ziv & Hans Bernhard Schmid (eds.), *Institutions, Emotions, and Group Agents*, Dordrecht: Springer, pp. 19–31. doi:10.1007/978-94-007-6934-2_2
+* –––, 2014, “Document Acts”, in Anita Konzelmann Ziv & Hans Bernhard Schmid (eds.), *Institutions, Emotions, and Group Agents*, Dordrecht: Springer, pp. 19–31. doi: 10.1007/978-94-007-6934-2_2
 * Sorabji, Richard, 2006, *Aristotle on Memory*, second edition (first 1972), Chicago: University of Chicago Press.
-* Soteriou, Matthew, 2008, “The Epistemological Role of Episodic Recollection”, *Philosophy and Phenomenological Research*, 77(2): 472–492. doi:10.1111/j.1933-1592.2008.00199.x
-* Sparrow, Betsy, Jenny Liu, and Daniel M. Wegner, 2011, “Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips”, *Science*, 333(6043): 776–778. doi:10.1126/science.1207745
-* Spiers, Hugo J. and Daniel Bendor, 2014, “Enhance, Delete, Incept: Manipulating Hippocampus-Dependent Memories”, *Brain Research Bulletin*, 105: 2–7. doi:10.1016/j.brainresbull.2013.12.011
-* Squire, Larry R., 2009, “Memory and Brain Systems: 1969–2009”, *Journal of Neuroscience*, 29(41): 12711–12716. doi:10.1523/JNEUROSCI.3575-09.2009
-* Squires, Richard, 1969, “Memory Unchained”, *Philosophical Review*, 78(2): 178–196. doi:10.2307/2184180
-* Stanley, Jason, 2011, *Know How*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199695362.001.0001
-* Sterelny, Kim, 2010, “Minds: Extended or Scaffolded?” *Phenomenology and the Cognitive Sciences*, 9(4): 465–481. doi:10.1007/s11097-010-9174-y
-* Stern, David G., 1991, “Models of Memory: Wittgenstein and Cognitive Science”, *Philosophical Psychology*, 4(2): 203–218. doi:10.1080/09515089108573027
-* Stoneham, Tom, 2003, “Temporal Externalism”, *Philosophical Papers*, 32(1): 97–107. doi:10.1080/05568640309485115
+* Soteriou, Matthew, 2008, “The Epistemological Role of Episodic Recollection”, *Philosophy and Phenomenological Research*, 77(2): 472–492. doi: 10.1111/j.1933-1592.2008.00199.x
+* Sparrow, Betsy, Jenny Liu, and Daniel M. Wegner, 2011, “Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips”, *Science*, 333(6043): 776–778. doi: 10.1126/science.1207745
+* Spiers, Hugo J. and Daniel Bendor, 2014, “Enhance, Delete, Incept: Manipulating Hippocampus-Dependent Memories”, *Brain Research Bulletin*, 105: 2–7. doi: 10.1016/j.brainresbull.2013.12.011
+* Squire, Larry R., 2009, “Memory and Brain Systems: 1969–2009”, *Journal of Neuroscience*, 29(41): 12711–12716. doi: 10.1523/JNEUROSCI.3575-09.2009
+* Squires, Richard, 1969, “Memory Unchained”, *Philosophical Review*, 78(2): 178–196. doi: 10.2307/2184180
+* Stanley, Jason, 2011, *Know How*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199695362.001.0001
+* Sterelny, Kim, 2010, “Minds: Extended or Scaffolded?” *Phenomenology and the Cognitive Sciences*, 9(4): 465–481. doi: 10.1007/s11097-010-9174-y
+* Stern, David G., 1991, “Models of Memory: Wittgenstein and Cognitive Science”, *Philosophical Psychology*, 4(2): 203–218. doi: 10.1080/09515089108573027
+* Stoneham, Tom, 2003, “Temporal Externalism”, *Philosophical Papers*, 32(1): 97–107. doi: 10.1080/05568640309485115
 * Suddendorf, Thomas, 2013, *The Gap: The Science of What Separates Us from Other Animals*, New York: Basic Books.
-* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?” *Behavioral and Brain Sciences*, 30(3): 299–313. doi:10.1017/S0140525X07001975
+* Suddendorf, Thomas and Michael C. Corballis, 2007, “The Evolution of Foresight: What Is Mental Time Travel, and Is It Unique to Humans?” *Behavioral and Brain Sciences*, 30(3): 299–313. doi: 10.1017/S0140525X07001975
 * Sutton, John, 1998, *Philosophy and Memory Traces: Descartes to Connectionism*, Cambridge: Cambridge University Press.
-* –––, 2007, “Batting, Habit and Memory: The Embodied Mind and the Nature of Skill”, *Sport in Society*, 10(5): 763–786. doi:10.1080/17430430701442462
+* –––, 2007, “Batting, Habit and Memory: The Embodied Mind and the Nature of Skill”, *Sport in Society*, 10(5): 763–786. doi: 10.1080/17430430701442462
 * –––, 2009, “Remembering”, in Philip Robbins & Murat Aydede (eds.), *The Cambridge Handbook of Situated Cognition*, Cambridge: Cambridge University Press, pp. 217–235.
-* –––, 2010a, “Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process”, in Richard Menary (ed.), *The Extended Mind*, Cambridge, MA: MIT Press, pp. 189–225. doi:10.7551/mitpress/9780262014038.003.0009
-* –––, 2010b, “Observer Perspective and Acentred Memory: Some Puzzles About Point of View in Personal Memory”, *Philosophical Studies*, 148(1): 27–37. doi:10.1007/s11098-010-9498-z
-* –––, 2015, “Remembering as Public Practice: Wittgenstein, Memory, and Distributed Cognitive Ecologies”, in Moyal-Sharrock, Munz, & Coliva 2015: 409–443. doi:10.1515/9783110378795.409
+* –––, 2010a, “Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process”, in Richard Menary (ed.), *The Extended Mind*, Cambridge, MA: MIT Press, pp. 189–225. doi: 10.7551/mitpress/9780262014038.003.0009
+* –––, 2010b, “Observer Perspective and Acentred Memory: Some Puzzles About Point of View in Personal Memory”, *Philosophical Studies*, 148(1): 27–37. doi: 10.1007/s11098-010-9498-z
+* –––, 2015, “Remembering as Public Practice: Wittgenstein, Memory, and Distributed Cognitive Ecologies”, in Moyal-Sharrock, Munz, & Coliva 2015: 409–443. doi: 10.1515/9783110378795.409
 * Sutton, John and Kellie Williamson, 2014, “Embodied Remembering”, in Lawrence Shapiro (ed.), *Routledge Handbook of Embodied Cognition*, London: Routledge, pp. 315–325.
-* Swinburne, R.G., 1966, “Knowledge of Past and Future”, *Analysis*, 26(5): 166–172. doi:10.1093/analys/26.5.166
-* Szpunar, Karl K., 2010, “Episodic Future Thought: An Emerging Concept”, *Perspectives on Psychological Science*, 5(2): 142–162. doi:10.1177/1745691610362350
-* Szpunar, Piotr M. and Karl K. Szpunar, 2016, “Collective Future Thought: Concept, Function, and Implications for Collective Memory Studies”, *Memory Studies*, 9(4): 376–389. doi:10.1177/1750698015615660
+* Swinburne, R.G., 1966, “Knowledge of Past and Future”, *Analysis*, 26(5): 166–172. doi: 10.1093/analys/26.5.166
+* Szpunar, Karl K., 2010, “Episodic Future Thought: An Emerging Concept”, *Perspectives on Psychological Science*, 5(2): 142–162. doi: 10.1177/1745691610362350
+* Szpunar, Piotr M. and Karl K. Szpunar, 2016, “Collective Future Thought: Concept, Function, and Implications for Collective Memory Studies”, *Memory Studies*, 9(4): 376–389. doi: 10.1177/1750698015615660
 * Tanesini, Alessandra, forthcoming, “Collective Amnesia and Epistemic Injustice”, in Joseph A. Carter, Andrew Clark, Jesper Kallestrup, Spyridon Orestis Palermos, & Duncan Pritchard (eds.), *Socially Extended Epistemology*, Oxford: Oxford University Press.
-* Teroni, Fabrice, 2014, “The Epistemological Disunity of Memory”, in Anne Reboul (ed.), *Mind, Values, and Metaphysics: Philosophical Essays in Honor of Kevin Mulligan*, Vol. 2, Dordrecht: Springer, pp. 183–202. doi:10.1007/978-3-319-05146-8_12
-* Theiner, Georg, 2013, “Transactive Memory Systems: A Mechanistic Analysis of Emergent Group Memory”, *Review of Philosophy and Psychology*, 4(1): 65–89. doi:10.1007/s13164-012-0128-x
-* Theiner, Georg, Colin Allen, and Robert L. Goldstone, 2010, “Recognizing Group Cognition”, *Cognitive Systems Research*, 11(4): 378–395. doi:10.1016/j.cogsys.2010.07.002
-* Tollefsen, Deborah, 2006, “From Extended Mind to Collective Mind”, *Cognitive Systems Research*, 7(2): 140–150. doi:10.1016/j.cogsys.2006.01.001
-* Tollefsen, Deborah, Rick Dale, and Alexandra Paxton, 2013, “Alignment, Transactive Memory, and Collective Cognitive Systems”, *Review of Philosophy and Psychology*, 4(1): 49–64. doi:10.1007/s13164-012-0126-z
+* Teroni, Fabrice, 2014, “The Epistemological Disunity of Memory”, in Anne Reboul (ed.), *Mind, Values, and Metaphysics: Philosophical Essays in Honor of Kevin Mulligan*, Vol. 2, Dordrecht: Springer, pp. 183–202. doi: 10.1007/978-3-319-05146-8_12
+* Theiner, Georg, 2013, “Transactive Memory Systems: A Mechanistic Analysis of Emergent Group Memory”, *Review of Philosophy and Psychology*, 4(1): 65–89. doi: 10.1007/s13164-012-0128-x
+* Theiner, Georg, Colin Allen, and Robert L. Goldstone, 2010, “Recognizing Group Cognition”, *Cognitive Systems Research*, 11(4): 378–395. doi: 10.1016/j.cogsys.2010.07.002
+* Tollefsen, Deborah, 2006, “From Extended Mind to Collective Mind”, *Cognitive Systems Research*, 7(2): 140–150. doi: 10.1016/j.cogsys.2006.01.001
+* Tollefsen, Deborah, Rick Dale, and Alexandra Paxton, 2013, “Alignment, Transactive Memory, and Collective Cognitive Systems”, *Review of Philosophy and Psychology*, 4(1): 49–64. doi: 10.1007/s13164-012-0126-z
 * Tota, Anna Lisa and Trever Hagen, 2016, *Routledge International Handbook of Memory Studies*, London: Routledge.
 * Tulving, Endel, 1972, “Episodic and Semantic Memory”, in Endel Tulving & Wayne Donaldson (eds.), *Organization of Memory*, New York: Academic Press, pp. 382–404.
 * –––, 1985a, *Elements of Episodic Memory*, Oxford: Oxford University Press.
-* –––, 1985b, “Memory and Consciousness”, *Canadian Psychology/Psychologie Canadienne*, 26(1): 1–12. doi:10.1037/h0080017
-* –––, 2002, “Episodic Memory: From Mind to Brain”, *Annual Review of Psychology*, 53(1): 1–25. doi:10.1146/annurev.psych.53.100901.135114
-* –––, 2005, “Episodic Memory and Autonoesis: Uniquely Human?” in Herbert S. Terrace & Janet Metcalfe (eds.), *The Missing Link in Cognition: Origins of Self-Reflective Consciousness*, Oxford: Oxford University Press, pp. 3–56. doi:10.1093/acprof:oso/9780195161564.003.0001
+* –––, 1985b, “Memory and Consciousness”, *Canadian Psychology/Psychologie Canadienne*, 26(1): 1–12. doi: 10.1037/h0080017
+* –––, 2002, “Episodic Memory: From Mind to Brain”, *Annual Review of Psychology*, 53(1): 1–25. doi: 10.1146/annurev.psych.53.100901.135114
+* –––, 2005, “Episodic Memory and Autonoesis: Uniquely Human?” in Herbert S. Terrace & Janet Metcalfe (eds.), *The Missing Link in Cognition: Origins of Self-Reflective Consciousness*, Oxford: Oxford University Press, pp. 3–56. doi: 10.1093/acprof: oso/9780195161564.003.0001
 * –––, 2007, “Are There 256 Different Kinds of Memory?” in James S. Nairne (ed.), *The Foundations of Remembering*, New York: Psychology Press.
 * Tulving, Endel and Fergus I.M. Craik, 2000, *The Oxford Handbook of Memory*, Oxford: Oxford University Press.
-* Tye, Michael, 1998, “Externalism and Memory”, *Proceedings of the Aristotelian Society*, Supplementary volume 72(1): 77–94. doi:10.1111/1467-8349.00036
-* Urmson, J.O., 1967, “Memory and Imagination”, *Mind*, 76(301): 83–91. doi:10.1093/mind/LXXVI.301.83
-* Vandekerckhove, Marie and Jaak Panksepp, 2009, “The Flow of Anoetic to Noetic and Autonoetic Consciousness: A Vision of Unknowing (Anoetic) and Knowing (Noetic) Consciousness in the Remembrance of Things Past and Imagined Futures”, *Consciousness and Cognition*, 18(4): 1018–1028. doi:10.1016/j.concog.2009.08.002
-* Vierra, Andrew, 2016, “Psychopathy, Mental Time Travel, and Legal Responsibility”, *Neuroethics*, 9(2): 129–136. doi:10.1007/s12152-015-9243-6
+* Tye, Michael, 1998, “Externalism and Memory”, *Proceedings of the Aristotelian Society*, Supplementary volume 72(1): 77–94. doi: 10.1111/1467-8349.00036
+* Urmson, J.O., 1967, “Memory and Imagination”, *Mind*, 76(301): 83–91. doi: 10.1093/mind/LXXVI.301.83
+* Vandekerckhove, Marie and Jaak Panksepp, 2009, “The Flow of Anoetic to Noetic and Autonoetic Consciousness: A Vision of Unknowing (Anoetic) and Knowing (Noetic) Consciousness in the Remembrance of Things Past and Imagined Futures”, *Consciousness and Cognition*, 18(4): 1018–1028. doi: 10.1016/j.concog.2009.08.002
+* Vierra, Andrew, 2016, “Psychopathy, Mental Time Travel, and Legal Responsibility”, *Neuroethics*, 9(2): 129–136. doi: 10.1007/s12152-015-9243-6
 * von Leyden, W., 1961, *Remembering: A Philosophical Problem*, London: Duckworth.
-* Vosgerau, Gottfried, 2010, “Memory and Content”, *Consciousness and Cognition*, 19(3): 838–846. doi:10.1016/j.concog.2010.06.021
+* Vosgerau, Gottfried, 2010, “Memory and Content”, *Consciousness and Cognition*, 19(3): 838–846. doi: 10.1016/j.concog.2010.06.021
 * Wagoner, Brady, 2017, *The Constructive Mind: Bartlett’s Psychology in Reconstruction*, Cambridge: Cambridge University Press.
-* Wegner, Daniel M., 1987, “Transactive Memory: A Contemporary Analysis of the Group Mind”, in Brian Mullen & George R. Goethals (eds.), *Theories of Group Behavior*, New York: Springer, pp. 185–208. doi:10.1007/978-1-4612-4634-3_9
+* Wegner, Daniel M., 1987, “Transactive Memory: A Contemporary Analysis of the Group Mind”, in Brian Mullen & George R. Goethals (eds.), *Theories of Group Behavior*, New York: Springer, pp. 185–208. doi: 10.1007/978-1-4612-4634-3_9
 * Werning, Markus. and Sen Cheng, 2017, “Taxonomy and Unity of Memory”, in Bernecker & Michaelian 2017: ch. 1.
-* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Wilson, Robert A., 2005, “Collective Memory, Group Minds, and the Extended Mind Thesis”, *Cognitive Processing*, 6(4): 227–236. doi:10.1007/s10339-005-0012-z
-* Wimsatt, William C., 1986, “Forms of Aggregativity”, in Alan Donagan, Anthony N. Perovich Jr., & Michael V. Wedin (eds.), *Human Nature and Natural Knowledge*, (Boston Studies in the Philosophy of Science 89), Dordrecht: Springer, pp. 259–291. doi:10.1007/978-94-009-5349-9_14
+* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi: 10.1093/019925656X.001.0001
+* Wilson, Robert A., 2005, “Collective Memory, Group Minds, and the Extended Mind Thesis”, *Cognitive Processing*, 6(4): 227–236. doi: 10.1007/s10339-005-0012-z
+* Wimsatt, William C., 1986, “Forms of Aggregativity”, in Alan Donagan, Anthony N. Perovich Jr., & Michael V. Wedin (eds.), *Human Nature and Natural Knowledge*, (Boston Studies in the Philosophy of Science 89), Dordrecht: Springer, pp. 259–291. doi: 10.1007/978-94-009-5349-9_14
 * Winter, Alison, 2012, *Memory: Fragments of a Modern History*, Chicago: University of Chicago Press.
 * Wittgenstein, Ludwig, 1980, *Remarks on the Philosophy of Psychology* (*Bemerkungen über die Philosophie der Psychologie*), Vol. 1, G.E.M. Anscombe (trans.), G.E.M. Anscombe and G.H. von Wright (eds.), Oxford: Blackwell.
-* Zemach, E.M., 1968, “A Definition of Memory”, *Mind*, 77(308): 526–536. doi:10.1093/mind/LXXVII.308.526
-* –––, 1983, “Memory: What It Is, and What It Cannot Possibly Be”, *Philosophy and Phenomenological Research*, 44(1): 31–44. doi:10.2307/2107578
-* Zohny, Hazem, 2015, “The Myth of Cognitive Enhancement Drugs”, *Neuroethics*, 8(3): 257–269. doi:10.1007/s12152-015-9232-9
+* Zemach, E.M., 1968, “A Definition of Memory”, *Mind*, 77(308): 526–536. doi: 10.1093/mind/LXXVII.308.526
+* –––, 1983, “Memory: What It Is, and What It Cannot Possibly Be”, *Philosophy and Phenomenological Research*, 44(1): 31–44. doi: 10.2307/2107578
+* Zohny, Hazem, 2015, “The Myth of Cognitive Enhancement Drugs”, *Neuroethics*, 8(3): 257–269. doi: 10.1007/s12152-015-9232-9
 
 ## Academic Tools
 

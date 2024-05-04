@@ -1,44 +1,44 @@
-# 约翰·杜威 Dewey, John (David Hildebrand)
+# 约翰 · 杜威 Dewey, John (David Hildebrand)
 
 *首次发表于 2018 年 11 月 1 日星期四；实质性修订于 2024 年 3 月 31 日星期日*
 
-约翰·杜威（1859-1952）是美国实用主义的早期创始人之一，与查尔斯·桑德斯·皮尔斯和威廉·詹姆斯一起，可以说是 20 世纪上半叶最杰出的美国知识分子。杜威的教育理论和实验具有全球影响力，他的心理理论影响了不断发展的科学，他关于民主理论和实践的著作帮助塑造了学术和实践界数十年的辩论。杜威在伦理学、认识论、逻辑学、形而上学、美学和宗教哲学方面有着广泛而常常系统的观点。由于杜威的方法通常是家族史的，将他的观点置于哲学更广阔的历史之中，我们在杜威身上找到了一个完全发展完备的元哲学。
+约翰 · 杜威（1859-1952）是美国实用主义的早期创始人之一，与查尔斯 · 桑德斯 · 皮尔斯和威廉 · 詹姆斯一起，可以说是 20 世纪上半叶最杰出的美国知识分子。杜威的教育理论和实验具有全球影响力，他的心理理论影响了不断发展的科学，他关于民主理论和实践的著作帮助塑造了学术和实践界数十年的辩论。杜威在伦理学、认识论、逻辑学、形而上学、美学和宗教哲学方面有着广泛而常常系统的观点。由于杜威的方法通常是家族史的，将他的观点置于哲学更广阔的历史之中，我们在杜威身上找到了一个完全发展完备的元哲学。
 
-杜威的“文化自然主义”（他更喜欢这个术语，而不是“实用主义”和“工具主义”）是对哲学在达尔文世界观范围内的批判和重建。继威廉·詹姆斯之后，杜威认为哲学变得过于技术化和知识主义，脱离了对日常社会状况和价值观的评估。他认为，哲学需要重新与“为生活而教育”的教育联系起来（哲学作为“教育的一般理论”），即社会批判在最一般的层面上，一种“批判的批判”（EN，LW1：298；另见 DE，MW9：338）。
+杜威的“文化自然主义”（他更喜欢这个术语，而不是“实用主义”和“工具主义”）是对哲学在达尔文世界观范围内的批判和重建。继威廉 · 詹姆斯之后，杜威认为哲学变得过于技术化和知识主义，脱离了对日常社会状况和价值观的评估。他认为，哲学需要重新与“为生活而教育”的教育联系起来（哲学作为“教育的一般理论”），即社会批判在最一般的层面上，一种“批判的批判”（EN，LW1：298；另见 DE，MW9：338）。
 
 在达尔文进化的背景下理解，哲学成为由相互依存的有机体在环境中进行的活动。从这种积极适应的角度来看，杜威批评传统哲学家倾向于从生活背景中抽象和实体化概念。与其他古典实用主义者一样，杜威批判了形而上学和认识论的二元论（例如，心灵/身体，自然/文化，自我/社会，理性/情感），将它们的元素重建为更大的连续体的一部分。例如，人类的思维并不是一种从它试图了解的世界中分类外部的现象；事实上，这种认知并不是一种纯粹理性的企图，试图逃离幻觉并发现最终的“现实”或“真理”。相反，认知只是有进化能力的有机体应对问题的许多方式之一。因此，头脑并不是被动的观察者，而是积极适应、实验和创新的引擎；思想和理论不是超越文化的理性支点，而是在文化中发挥作用，根据具体的实用理由进行判断。因此，认知并不是“神圣的火花”，因为虽然认知（或探究，用杜威的术语）包括计算或理性元素，但这些元素与身体和情感是相互纠缠的。
 
-约翰·杜威在学术领域之外，是一位积极的公共知识分子，将哲学中的见解融入当代问题中。他探讨了广泛的道德问题，如人类自由、经济异化、种族关系、妇女选举权、战争与和平，以及教育方法和目标。通常，他将通过公共调查获得的发现整合到他的学术理论中。这种实践-理论-实践的节奏推动了杜威智力事业的各个领域，也许解释了他的哲学在许多学术和实践领域中持久有用的原因。杜威思想的多产性继续体现在美学、教育、环境政策、信息理论、新闻学、医学、政治理论、精神病学、公共管理、社会学以及哲学本身中。
+约翰 · 杜威在学术领域之外，是一位积极的公共知识分子，将哲学中的见解融入当代问题中。他探讨了广泛的道德问题，如人类自由、经济异化、种族关系、妇女选举权、战争与和平，以及教育方法和目标。通常，他将通过公共调查获得的发现整合到他的学术理论中。这种实践-理论-实践的节奏推动了杜威智力事业的各个领域，也许解释了他的哲学在许多学术和实践领域中持久有用的原因。杜威思想的多产性继续体现在美学、教育、环境政策、信息理论、新闻学、医学、政治理论、精神病学、公共管理、社会学以及哲学本身中。
 
 ---
 
 ## 1. 传略
 
-约翰·杜威过着充实而多样化的生活。他是众多传记的主题，有大量文献对他的非凡作品进行解读和评价：他创作了四十本书，发表了大约七百篇文章，发表在一百四十多种期刊上。
+约翰 · 杜威过着充实而多样化的生活。他是众多传记的主题，有大量文献对他的非凡作品进行解读和评价：他创作了四十本书，发表了大约七百篇文章，发表在一百四十多种期刊上。
 
-杜威于 1859 年 10 月 20 日出生在佛蒙特州伯灵顿，父亲阿奇博尔德·杜威是一名商人，母亲露西娜·里奇·杜威。杜威是四个儿子中的第三个；第一个儿子，也是杜威的同名弟弟，在婴儿时期去世。他在伯灵顿长大，在会衆教会中长大，并就读公立学校。在高中学习拉丁语和希腊语后，杜威 15 岁进入佛蒙特大学，并于 1879 年 19 岁时毕业。大学毕业后，杜威在宾夕法尼亚州油城的高中任教两年。在佛蒙特州与前教授 H.A.P.托里一起学习哲学的时间，以及《思辨哲学杂志》编辑 W.T.哈里斯的鼓励，帮助杜威决定于 1882 年在约翰霍普金斯大学攻读哲学研究生。在那里，他的学习包括与查尔斯·S·皮尔斯一起学习逻辑（杜威认为过于“数学化”，因此没有继续），与乔治·西尔维斯特·莫里斯学习哲学史，以及与格兰维尔·斯坦利·霍尔学习生理学和实验心理学（后者曾在莱比锡跟随威廉·旺特学习，在哈佛跟随威廉·詹姆斯学习）。
+杜威于 1859 年 10 月 20 日出生在佛蒙特州伯灵顿，父亲阿奇博尔德 · 杜威是一名商人，母亲露西娜 · 里奇 · 杜威。杜威是四个儿子中的第三个；第一个儿子，也是杜威的同名弟弟，在婴儿时期去世。他在伯灵顿长大，在会衆教会中长大，并就读公立学校。在高中学习拉丁语和希腊语后，杜威 15 岁进入佛蒙特大学，并于 1879 年 19 岁时毕业。大学毕业后，杜威在宾夕法尼亚州油城的高中任教两年。在佛蒙特州与前教授 H.A.P.托里一起学习哲学的时间，以及《思辨哲学杂志》编辑 W.T.哈里斯的鼓励，帮助杜威决定于 1882 年在约翰霍普金斯大学攻读哲学研究生。在那里，他的学习包括与查尔斯 ·S· 皮尔斯一起学习逻辑（杜威认为过于“数学化”，因此没有继续），与乔治 · 西尔维斯特 · 莫里斯学习哲学史，以及与格兰维尔 · 斯坦利 · 霍尔学习生理学和实验心理学（后者曾在莱比锡跟随威廉 · 旺特学习，在哈佛跟随威廉 · 詹姆斯学习）。
 
 尽管杜威后来将皮尔斯的实用主义归功于他成熟观点的重要影响，但在研究生阶段，皮尔斯并没有产生重大影响。在那里，他的主要影响——新黑格尔理想主义、达尔文生物学和旺特的实验心理学——造成了一种他努力解决的紧张关系。世界基本上是生物的、功能的和物质的，还是本质上是创造性的和精神的？在很大程度上，杜威的职业生涯是由他试图调解和协调这些观点而启动的。虽然分享“有机体”的概念，杜威也在两者中看到了——并拒绝了——他认为过于抽象、原子化或还原主义的任何方面。他最早的尝试创建一个“新心理学”（旨在将实验心理学与理想主义相结合）寻求一种理解经验作为整体和完整的方法。因此，杜威早期的方法修改了英国绝对理想主义。在入学两年后的 1884 年，杜威毕业，论文批评康德的理想主义立场（“康德的心理学”）；这篇论文至今仍然失传。
 
-尽管学者们仍在辩论杜威成熟哲学保留了早期黑格尔影响的程度，但黑格尔对杜威的个人影响深远。新英格兰的宗教文化，杜威回忆说，传授了“自我与世界的隔离，灵魂与身体的隔离，[和]自然与上帝的隔离”，他对此做出了“内心的撕裂”和“痛苦的压迫”的反应。他与乔治·西尔维斯特·莫里斯一起学习英国理想主义者 T.H.格林和 G.W.F.黑格尔，为杜威提供了个人和智力上的疗愈：
+尽管学者们仍在辩论杜威成熟哲学保留了早期黑格尔影响的程度，但黑格尔对杜威的个人影响深远。新英格兰的宗教文化，杜威回忆说，传授了“自我与世界的隔离，灵魂与身体的隔离，[和] 自然与上帝的隔离”，他对此做出了“内心的撕裂”和“痛苦的压迫”的反应。他与乔治 · 西尔维斯特 · 莫里斯一起学习英国理想主义者 T.H.格林和 G.W.F.黑格尔，为杜威提供了个人和智力上的疗愈：
 
 > 黑格尔对主体和客体、物质和精神、神圣和人类的综合，然而，并非仅仅是一种智力公式；它作为一种巨大的释放，一种解放。黑格尔对人类文化、制度和艺术的处理，涉及对坚固分隔墙的同样溶解，并对我有着特殊的吸引力。（FAE，LW5：153）
 
 从哲学角度看，早期与黑格尔主义的接触影响了杜威职业生涯中不断追求将哲学和心理学定义为离散的各个经验维度（实践、想象、身体、心理）作为动态整体整合的努力。
 
-杜威的家庭以及他作为哲学家和心理学家的声誉在不同大学任教期间不断壮大，包括密歇根大学（1886–88，1889–1894）和明尼苏达大学（1888–89）。在密歇根大学，杜威与詹姆斯·海登·图夫茨和乔治·赫伯特·米德建立了长期的专业关系。1886 年，杜威与哈丽特·爱丽丝·奇普曼结婚；他们有六个孩子并收养了一个。两个男孩在年幼时不幸去世（两岁和八岁）。奇普曼对杜威支持妇女权利和他远离宗教正统观念产生了重要影响。在此期间，杜威撰写了批判英国唯心主义者的文章，从黑格尔的角度出发；他教授詹姆斯的《心理学原理》（1890 年），并将自己的观点标记为“实验唯心主义”（1894a，《伦理学研究》，EW4：264）。
+杜威的家庭以及他作为哲学家和心理学家的声誉在不同大学任教期间不断壮大，包括密歇根大学（1886–88，1889–1894）和明尼苏达大学（1888–89）。在密歇根大学，杜威与詹姆斯 · 海登 · 图夫茨和乔治 · 赫伯特 · 米德建立了长期的专业关系。1886 年，杜威与哈丽特 · 爱丽丝 · 奇普曼结婚；他们有六个孩子并收养了一个。两个男孩在年幼时不幸去世（两岁和八岁）。奇普曼对杜威支持妇女权利和他远离宗教正统观念产生了重要影响。在此期间，杜威撰写了批判英国唯心主义者的文章，从黑格尔的角度出发；他教授詹姆斯的《心理学原理》（1890 年），并将自己的观点标记为“实验唯心主义”（1894a，《伦理学研究》，EW4：264）。
 
-1894 年，应图夫特的要求，威廉·雷尼·哈珀总统邀请杜威担任芝加哥大学哲学系主任，该系还包括心理学和教育学。为了促使这些学科积极合作，杜威接受了邀请，并开始通过聘请密歇根大学的 G.H.米德和 J.R.安杰尔（他曾在密歇根大学是詹姆斯的学生）来建立该系。威廉·詹姆斯称之为“芝加哥学派”，杜威、图夫茨、安杰尔、米德和其他几位学者发展了“心理功能主义”。他还发表了开创性的《心理学中的反射弧概念》（1896 年，EW5；以下简称 RAC），并摆脱了超验唯心主义和他的教会。
+1894 年，应图夫特的要求，威廉 · 雷尼 · 哈珀总统邀请杜威担任芝加哥大学哲学系主任，该系还包括心理学和教育学。为了促使这些学科积极合作，杜威接受了邀请，并开始通过聘请密歇根大学的 G.H.米德和 J.R.安杰尔（他曾在密歇根大学是詹姆斯的学生）来建立该系。威廉 · 詹姆斯称之为“芝加哥学派”，杜威、图夫茨、安杰尔、米德和其他几位学者发展了“心理功能主义”。他还发表了开创性的《心理学中的反射弧概念》（1896 年，EW5；以下简称 RAC），并摆脱了超验唯心主义和他的教会。
 
-在芝加哥，杜威创办了实验学校，用于测试心理学和教育理论。杜威的妻子爱丽丝于 1896 年至 1904 年担任校长。杜威积极参与芝加哥的社会和政治事务，包括简·亚当斯的赫尔之家；亚当斯成为杜威夫妇的亲密朋友。杜威和他的传记作者、女儿简·杜威认为亚当斯帮助他发展了关于民主、教育和哲学的观点。杜威对亚当斯的知识债务的重要性仍在被揭示中（“约翰·杜威传记”，杜威 1939a；另见 Seigfried 1999，Fischer 2013）。
+在芝加哥，杜威创办了实验学校，用于测试心理学和教育理论。杜威的妻子爱丽丝于 1896 年至 1904 年担任校长。杜威积极参与芝加哥的社会和政治事务，包括简 · 亚当斯的赫尔之家；亚当斯成为杜威夫妇的亲密朋友。杜威和他的传记作者、女儿简 · 杜威认为亚当斯帮助他发展了关于民主、教育和哲学的观点。杜威对亚当斯的知识债务的重要性仍在被揭示中（“约翰 · 杜威传记”，杜威 1939a；另见 Seigfried 1999，Fischer 2013）。
 
-1904 年，与实验学校相关的冲突导致杜威辞去芝加哥的职务，转而前往纽约市哥伦比亚大学哲学系。在那里，他与哥伦比亚大学教师学院建立了联系。在哥伦比亚，重要的影响者包括 F.J.E.伍德布里奇、温德尔·T.布什、W.P.蒙塔格、查尔斯·A.比尔德（政治理论）和弗朗茨·博阿斯（人类学）。杜威于 1930 年从哥伦比亚大学退休，继续出版了另外十一本书籍。
+1904 年，与实验学校相关的冲突导致杜威辞去芝加哥的职务，转而前往纽约市哥伦比亚大学哲学系。在那里，他与哥伦比亚大学教师学院建立了联系。在哥伦比亚，重要的影响者包括 F.J.E.伍德布里奇、温德尔 ·T.布什、W.P.蒙塔格、查尔斯 ·A.比尔德（政治理论）和弗朗茨 · 博阿斯（人类学）。杜威于 1930 年从哥伦比亚大学退休，继续出版了另外十一本书籍。
 
-除了许多重要的学术著作外，杜威还为各种非学术读者撰写，尤其是在《新共和国》上；他积极参与领导、支持或创办了许多重要组织，包括美国公民自由联盟、美国大学教授协会、美国哲学协会、美国心理学协会和纽约社会研究新学院。杜威公开支持进步政治和社会变革。作为一位哲学家和教育家，他享有盛誉，受邀无数；1922 年，他开创了保罗·卡鲁斯讲座（修订并出版为《经验与自然》, 1925 年），发表了 1928 年吉福德讲座（修订并出版为《追求确定性》, 1929 年），并在 1933-1934 年在耶鲁大学发表了特里讲座（出版为《共同信仰》, 1934a 年）。他在日本和中国旅行了两年，并曾前往土耳其、墨西哥、苏联和南非。
+除了许多重要的学术著作外，杜威还为各种非学术读者撰写，尤其是在《新共和国》上；他积极参与领导、支持或创办了许多重要组织，包括美国公民自由联盟、美国大学教授协会、美国哲学协会、美国心理学协会和纽约社会研究新学院。杜威公开支持进步政治和社会变革。作为一位哲学家和教育家，他享有盛誉，受邀无数；1922 年，他开创了保罗 · 卡鲁斯讲座（修订并出版为《经验与自然》, 1925 年），发表了 1928 年吉福德讲座（修订并出版为《追求确定性》, 1929 年），并在 1933-1934 年在耶鲁大学发表了特里讲座（出版为《共同信仰》, 1934a 年）。他在日本和中国旅行了两年，并曾前往土耳其、墨西哥、苏联和南非。
 
-1946 年，几乎在爱丽丝·奇普曼·杜威去世（1927 年）近二十年后，杜威与罗伯塔·洛维茨·格兰特结婚。 约翰·杜威于 1952 年 6 月 1 日因肺炎在纽约市家中去世。
+1946 年，几乎在爱丽丝 · 奇普曼 · 杜威去世（1927 年）近二十年后，杜威与罗伯塔 · 洛维茨 · 格兰特结婚。 约翰 · 杜威于 1952 年 6 月 1 日因肺炎在纽约市家中去世。
 
-### 约翰·杜威生平及工作简要年表
+### 约翰 · 杜威生平及工作简要年表
 
  H&A 1998, xiv
 
@@ -46,10 +46,10 @@
 * 1879 年 从佛蒙特大学获得文学学士学位
 * 1879–81 在宾夕法尼亚州油城的高中任教
 * 1881–82 在佛蒙特州夏洛特的湖景神学院任教
-* 1882–84 在约翰斯·霍普金斯大学攻读研究生学位
-* 约翰斯·霍普金斯大学获得博士学位
+* 1882–84 在约翰斯 · 霍普金斯大学攻读研究生学位
+* 约翰斯 · 霍普金斯大学获得博士学位
 * 密歇根大学哲学系讲师
-* 1886 与爱丽丝·奇普曼结婚
+* 1886 与爱丽丝 · 奇普曼结婚
 * 1888–89 明尼苏达大学哲学教授
 * 1889 密歇根大学哲学系主任
 * 1894Professor and Chair of Department of Philosophy (including psychology and pedagogy) at the University of Chicago
@@ -69,7 +69,7 @@
 * 1925 经验与自然
 * 1926 访问墨西哥的学校
 * 1927 公众及其问题
-* 1927 年，爱丽丝·奇普曼·杜威去世
+* 1927 年，爱丽丝 · 奇普曼 · 杜威去世
 * 1928 年访问苏联学校
 * 1929 年《追求确定性的探索》
 * 1930 个人主义，新旧
@@ -91,9 +91,9 @@
 
 ### 2.1 联想主义、内省主义和生理心理学
 
-杜威进入心理学的时机与两种主导趋势相吻合：内省主义(源自联想主义，又称“心理主义”)和较新的生理心理学(源自德国)。早期的英国经验主义者，如约翰·洛克和大卫·休谟，用(1)内部检查(“内省”)的实体来解释智能行为，包括知觉经验(例如，“印象”)，以及(2)思想或观念(例如，“形象”)。这些通过一套复杂的联想学习过程积累到智能。内省发现对许多经验主义者和生理学兼实验心理学家(例如温特)至关重要。
+杜威进入心理学的时机与两种主导趋势相吻合：内省主义(源自联想主义，又称“心理主义”)和较新的生理心理学(源自德国)。早期的英国经验主义者，如约翰 · 洛克和大卫 · 休谟，用(1)内部检查(“内省”)的实体来解释智能行为，包括知觉经验(例如，“印象”)，以及(2)思想或观念(例如，“形象”)。这些通过一套复杂的联想学习过程积累到智能。内省发现对许多经验主义者和生理学兼实验心理学家(例如温特)至关重要。
 
-杜威在与 G·斯坦利·霍尔攻读生理心理学研究时受到深刻影响，霍尔的课程包括理论、生理和实验心理学。杜威进行了关于注意力的实验室实验。与内省主义者不同，霍尔的方法融入了严格的实验控制，一种基于生物学的方法，为杜威提供了一种有机和整体的体验模型，能够克服困扰旧的联想模型的主观主义二元论。然而，杜威仍然发现在生理心理学中，体验被原子化和机械化，这源自对“感觉数据”的依赖。从他的黑格尔主义观点来看，这种心理学永远无法解释更广泛的社会文化世界。简而言之，对于杜威来说，“有机体”包含“环境”，而“环境”包含“文化”。一种严谨的经验主义心理学可以将研究限制在“心灵”上，但必须与其他科学建立联系。
+杜威在与 G· 斯坦利 · 霍尔攻读生理心理学研究时受到深刻影响，霍尔的课程包括理论、生理和实验心理学。杜威进行了关于注意力的实验室实验。与内省主义者不同，霍尔的方法融入了严格的实验控制，一种基于生物学的方法，为杜威提供了一种有机和整体的体验模型，能够克服困扰旧的联想模型的主观主义二元论。然而，杜威仍然发现在生理心理学中，体验被原子化和机械化，这源自对“感觉数据”的依赖。从他的黑格尔主义观点来看，这种心理学永远无法解释更广泛的社会文化世界。简而言之，对于杜威来说，“有机体”包含“环境”，而“环境”包含“文化”。一种严谨的经验主义心理学可以将研究限制在“心灵”上，但必须与其他科学建立联系。
 
 ### 2.2 “反射弧”和杜威对心理学的重建
 
@@ -125,7 +125,7 @@
 
 关于（2），感知渗透到心理状态中，杜威在《思维的流》中与詹姆斯产生共鸣（詹姆斯 1890 年：第 9 章）。虽然感知可能占据心理焦点，但也存在一个附带的“边缘”，它提供对比并在更广泛的情境中创造了一个“潜在的品质特征”（《品质思维》，LW5：238 脚注 1）。柠檬的上述“酸涩”依赖于一系列“边缘”条件（例如，即时过去的味道，味觉预期等）。
 
-最后，关于被动接受（3），感知已经是有机体在已经处于情境中运作时的“接纳”；没有瞬间和被动地理解刺激。接纳总是意味着选择性，这是一个需要一定时间的调整过程。感知从不是天真的，也不是与某种已经充满固有意义的“给定”内容对抗。在威尔弗雷德·塞拉斯（参见塞拉斯条目）之前很久，杜威就已经驳斥了这种说法，将被动感知对抗视为现代经验主义的“给定神话”。所有的看见都是作为看见——在更大行为中的调整。这些调整习惯可以改变（后续的选择和解释被修改），因此所感知的内容也会发生变化（DE，MW9：346）。
+最后，关于被动接受（3），感知已经是有机体在已经处于情境中运作时的“接纳”；没有瞬间和被动地理解刺激。接纳总是意味着选择性，这是一个需要一定时间的调整过程。感知从不是天真的，也不是与某种已经充满固有意义的“给定”内容对抗。在威尔弗雷德 · 塞拉斯（参见塞拉斯条目）之前很久，杜威就已经驳斥了这种说法，将被动感知对抗视为现代经验主义的“给定神话”。所有的看见都是作为看见——在更大行为中的调整。这些调整习惯可以改变（后续的选择和解释被修改），因此所感知的内容也会发生变化（DE，MW9：346）。
 
 ### 2.5 行为与习惯
 
@@ -163,7 +163,7 @@
 
 #### 心灵
 
-杜威拒绝传统的心灵-作为物质（或容器）的解释，以及将心灵简化为脑状态的更现代化的解释。相反，心灵是一种活动，是有机体与世界之间互动的一系列动态过程。语言提供了一些线索，让我们可以思考心灵的多种方式：作为记忆（我想起了 X）；作为注意力（我记住她，我留心我的举止）；作为目的（我心中有一个目标）；作为关心或关怀（我照顾孩子）；作为留意（我留意交通停车）。因此，“心灵”涵盖了许多活动：智力的、感情的、意志的或目的性的。它主要是一个动词……[表示]对事物的各种兴趣和关注：实践的、智力的和情感的。它从不表示任何与人和事物的世界隔绝的东西，而是总是与情境、事件、对象、人和群体相关联。（AE，LW10：267-68）
+杜威拒绝传统的心灵-作为物质（或容器）的解释，以及将心灵简化为脑状态的更现代化的解释。相反，心灵是一种活动，是有机体与世界之间互动的一系列动态过程。语言提供了一些线索，让我们可以思考心灵的多种方式：作为记忆（我想起了 X）；作为注意力（我记住她，我留心我的举止）；作为目的（我心中有一个目标）；作为关心或关怀（我照顾孩子）；作为留意（我留意交通停车）。因此，“心灵”涵盖了许多活动：智力的、感情的、意志的或目的性的。它主要是一个动词……[表示] 对事物的各种兴趣和关注：实践的、智力的和情感的。它从不表示任何与人和事物的世界隔绝的东西，而是总是与情境、事件、对象、人和群体相关联。（AE，LW10：267-68）
 
 > 正如维特根斯坦（维特根斯坦条目，关于遵循规则和私人语言的部分）30 年后指出的那样，鉴于这种意义的解释，私人语言是不可能的。虽然意义可能是私下保留的，但它们并非私下创造；意义是社会的，并且是通过集体沟通和行动产生的符号系统中出现的（EN，LW1：147）。
 
@@ -173,7 +173,7 @@
 
 公牛的冲锋是被红旗激发的，但汽车司机将红色交通灯视为一个符号。
 
-约翰·杜威因此去神化了心灵，同时强调了心灵重要性的新方面。不再是我们神性的火花，如一些古人所认为的，心灵也不仅仅是机器中的幽灵。心灵是重要的，它探究问题，发明工具，目标和理想。心灵架起了过去和未来的桥梁，是“对现有秩序进行新颖重建的机构”（EN，LW1：168）。
+约翰 · 杜威因此去神化了心灵，同时强调了心灵重要性的新方面。不再是我们神性的火花，如一些古人所认为的，心灵也不仅仅是机器中的幽灵。心灵是重要的，它探究问题，发明工具，目标和理想。心灵架起了过去和未来的桥梁，是“对现有秩序进行新颖重建的机构”（EN，LW1：168）。
 
 #### 意识
 
@@ -191,17 +191,17 @@
 
 杜威偶尔试图通过表演来传达他对意识的概念，邀请读者在阅读有关意识的内容时反思意识。在这里，“焦点”和“边缘”再次发挥关键作用（EN，LW1：231）。正如身体平衡控制行走一样，心理意义调整和指导着持续的焦点和解释。
 
-## 约翰·杜威的“经验”观念在他的职业生涯中发生了演变。最初，它对他的唯心主义和心理学产生了影响。在 19 世纪 90 年代在芝加哥发展出工具主义后，杜威搬到哥伦比亚大学，在 1905 年通过他具有历史意义的著作《直接经验的假设》（PIE, MW3）对这一概念进行了修订和扩展。《形而上学探讨的主题》（1915 年，MW8）和《实验逻辑论文集》（1916 年，MW10）的“导言”进一步发展了这一概念，显示“经验”不仅仅是对心理学中的主观主义的反驳，而且也是他关于存在和自然的形而上学论述的核心（Dykhuizen 1973: 175–76）。这在杜威 1923 年的卡鲁斯讲座中得到具体化，后来修订和扩展为《经验与自然》（1925 年，修订版，1929 年；EN, LW1）。随后进行了进一步的延伸和阐释，尤其是在《作为经验的艺术》（1934b，AE, LW10）中
+## 约翰 · 杜威的“经验”观念在他的职业生涯中发生了演变。最初，它对他的唯心主义和心理学产生了影响。在 19 世纪 90 年代在芝加哥发展出工具主义后，杜威搬到哥伦比亚大学，在 1905 年通过他具有历史意义的著作《直接经验的假设》（PIE, MW3）对这一概念进行了修订和扩展。《形而上学探讨的主题》（1915 年，MW8）和《实验逻辑论文集》（1916 年，MW10）的“导言”进一步发展了这一概念，显示“经验”不仅仅是对心理学中的主观主义的反驳，而且也是他关于存在和自然的形而上学论述的核心（Dykhuizen 1973: 175–76）。这在杜威 1923 年的卡鲁斯讲座中得到具体化，后来修订和扩展为《经验与自然》（1925 年，修订版，1929 年；EN, LW1）。随后进行了进一步的延伸和阐释，尤其是在《作为经验的艺术》（1934b，AE, LW10）中
 
 ###
 
-约翰·杜威的作品中至关重要的是，感兴趣的读者应该跟踪这一概念的体验；在这里，重点将放在杜威的哲学方法和形而上学上。
+约翰 · 杜威的作品中至关重要的是，感兴趣的读者应该跟踪这一概念的体验；在这里，重点将放在杜威的哲学方法和形而上学上。
 
 为什么体验如此重要，以至于渗透到杜威的哲学方法中？三种影响至关重要。首先，杜威继承了达尔文关于自然的观念，将其视为一个复杂的变化、交易过程的集合，没有固定的目的；在这种背景下，体验意味着有机体在环境中的经历和行为，“这是功能和习惯的问题，是有机体的主动调整和重新调整，是协调和活动，而不是意识状态”（“关于真理的简短问答”，MW6：5）。其次，杜威从詹姆斯那里汲取了一种根本的经验主义哲学方法——坚持认为视角性体验（例如，个人的、情感的或气质的）在哲学上是相关的，包括对抽象和逻辑理论的影响。最后，杜威接受了黑格尔对超越主观意识的体验的强调——体现在社会、历史和文化模式中。自我是通过与社区的经验性交易而构成的，这否定了笛卡尔模型中简单、原子自我的方法（以及基于这一假设的任何方法）。以这种方式理解，哲学从我们个人开始，从复杂的符号和文化形式开始。
 
 这些影响，加上杜威自己的探究，使他确信“体验”是人类和自然界更广泛理论的关键。对体验的这种重新关注也构成了一种形而上哲学；它抛弃了哲学能够给出关于终极真理或现实的特殊洞见的假设。哲学是为生活而设的装备。
 
-作为纯粹的术语以及杜威运用它的方式，“经验”引发了许多混乱和争论。杜威在他生命的末期评论了这一点。几十年后，杜威最杰出的哲学赞美者之一理查德·罗蒂抨击了杜威的这个术语以及（罗蒂认为的）杜威的意图。尽管如此，自从这个术语在杜威的作品和日常对话中继续存在，它值得持续分析。
+作为纯粹的术语以及杜威运用它的方式，“经验”引发了许多混乱和争论。杜威在他生命的末期评论了这一点。几十年后，杜威最杰出的哲学赞美者之一理查德 · 罗蒂抨击了杜威的这个术语以及（罗蒂认为的）杜威的意图。尽管如此，自从这个术语在杜威的作品和日常对话中继续存在，它值得持续分析。
 
 ### 3.2 传统对经验的看法和杜威的批判
 
@@ -243,7 +243,7 @@
 
 关于术语“形而上学”确切含义的争论，在杜威时代和我们的时代一样活跃。从一开始，杜威就试图批判和重构形而上学概念（例如现实、自我、意识、时间、必然性和个体性）和体系（例如斯宾诺莎、莱布尼茨、康德和黑格尔）。与同为实用主义者的皮尔斯、詹姆斯和米德一样，杜威希望转变而非根除形而上学。杜威早期的形而上学观点最接近唯心主义，但与实验科学和工具主义的接触使他放弃了对现实的最终和完整解释的传统目标。
 
-他对形而上学的兴趣在哥伦比亚大学得到了同事 F. J. E. 伍德布里奇的激发，后者认为形而上学可以以“描述性”而非超物理的方式进行（见《约翰·杜威传》, in Schilpp 1939: 36）。尽管杜威许多重要的形而上学作品侧重于经验（上文已讨论），但特别值得关注的是《直接经验的假设》（1905 年, PIE, MW3），《形而上学探究的主题》（1915 年, MW8），以及他对《实验逻辑论文集》的“导言”（1916c, MW10）。这些都是他的巨著《经验与自然》的重要前身。《经验与自然》的最后章节涉及艺术和完成性经验，这些内容在《作为经验的艺术》（1934b, LW10）中得到进一步发展，这本书包含了额外且重要的形而上学讨论。
+他对形而上学的兴趣在哥伦比亚大学得到了同事 F. J. E. 伍德布里奇的激发，后者认为形而上学可以以“描述性”而非超物理的方式进行（见《约翰 · 杜威传》, in Schilpp 1939: 36）。尽管杜威许多重要的形而上学作品侧重于经验（上文已讨论），但特别值得关注的是《直接经验的假设》（1905 年, PIE, MW3），《形而上学探究的主题》（1915 年, MW8），以及他对《实验逻辑论文集》的“导言”（1916c, MW10）。这些都是他的巨著《经验与自然》的重要前身。《经验与自然》的最后章节涉及艺术和完成性经验，这些内容在《作为经验的艺术》（1934b, LW10）中得到进一步发展，这本书包含了额外且重要的形而上学讨论。
 
 尽管标签往往会掩盖他作品中的创新之处，但可以肯定地说，杜威构建了一个现实主义、自然主义、非还原主义、新兴主义、过程形而上学。他描述了自然的最一般特征（“通用特征”），同时试图对所遇到的世界做出经验上的公正。他的描述还旨在保持可辨识性，并对未来寻求通过哲学改善生活的研究者有用。最终，杜威将自己的努力描述为“形而上学”和“系统”：“各种问题和各种假设在一个视角中的相互联系”（见《经验中的自然》，LW14: 141–142）。他并未提出一种来自上帝视角的形而上学，而是一种受到“明确观点”启发和推动的形而上学，与当代人类世界相联系（见《半心半意的自然主义》，LW3: 75–76）。
 
@@ -255,7 +255,7 @@
 
 ### 经验形而上学与智慧
 
-约翰·杜威曾经问道，形而上学如何能够为学术哲学之外的世界做出贡献？杜威的目标是将哲学重新引回一个更古老、更古代的使命——智慧的追求。尽管杜威将哲学描述为固有的批判性，“对批评的批评”，但这仍然引发了关于经验主义、假设性、自然主义形而上学目标的问题？（EN，LW1：298）杜威自己预防性地提出了这个问题：
+约翰 · 杜威曾经问道，形而上学如何能够为学术哲学之外的世界做出贡献？杜威的目标是将哲学重新引回一个更古老、更古代的使命——智慧的追求。尽管杜威将哲学描述为固有的批判性，“对批评的批评”，但这仍然引发了关于经验主义、假设性、自然主义形而上学目标的问题？（EN，LW1：298）杜威自己预防性地提出了这个问题：
 
 > 作为对各种存在的一般特征的陈述，不考虑它们分化为物理和精神，[形而上学] 似乎与批判和选择，与对智慧的有效追求无关。（EN，LW1：308）
 
@@ -267,15 +267,15 @@
 
 杜威收到并回应了许多关于他形而上学观点的批评。批评者经常忽视他的目标是削弱当前形而上学流派；通常，他的观点被草率地归入其他现存阵营中。（他被描述为现实主义者、唯心主义者、相对主义者、主观主义者等。见 Hildebrand 2003。）一个经常出现的批评是，他在《PIE》中的陈述（即“事物就是它们被体验为的样子”）不能产生形而上学，因为它仅仅报告了主观和直接的经验；这种报告，批评认为，阻碍了更加中介和（适当）客观的描述。二十年后，EN 也受到了类似的批评，批评者抨击杜威对经验和自然的非二元方法。[19]
 
-对杜威的后续批评集中在他被指责忽视“品质”与“关系”之间的紧张关系。论点是，品质是直接的，而关系是中介的；杜威如何声称它们存在于同一经验项目中？这似乎体现了一个矛盾。理查德·伯恩斯坦（1961）抓住了这个问题，并声称杜威怀有两种不可调和的倾向，一种是“形而上的倾向”，另一种是“现象学的倾向”，但未能充分用他的“连续性原则”解释它们。对伯恩斯坦的回应认为，他的批评无意中重新演绎了杜威经验起点试图克服的那种旁观立场。
+对杜威的后续批评集中在他被指责忽视“品质”与“关系”之间的紧张关系。论点是，品质是直接的，而关系是中介的；杜威如何声称它们存在于同一经验项目中？这似乎体现了一个矛盾。理查德 · 伯恩斯坦（1961）抓住了这个问题，并声称杜威怀有两种不可调和的倾向，一种是“形而上的倾向”，另一种是“现象学的倾向”，但未能充分用他的“连续性原则”解释它们。对伯恩斯坦的回应认为，他的批评无意中重新演绎了杜威经验起点试图克服的那种旁观立场。
 
-近年来，一些人争论杜威是否应该完全参与形而上学。理查德·罗蒂和查琳·哈多克·西格弗里德认为，杜威对传统形而上学的批判已经足够；他进一步的努力使他偏离了更重要的伦理工作，或者将他卷入之前否认的基础主义项目中。辩护者认为，杜威对形而上学的真正新方法避免了旧问题，同时为整个文化做出了有益的贡献。
+近年来，一些人争论杜威是否应该完全参与形而上学。理查德 · 罗蒂和查琳 · 哈多克 · 西格弗里德认为，杜威对传统形而上学的批判已经足够；他进一步的努力使他偏离了更重要的伦理工作，或者将他卷入之前否认的基础主义项目中。辩护者认为，杜威对形而上学的真正新方法避免了旧问题，同时为整个文化做出了有益的贡献。
 
 ##
 
 ### 4.1 工具主义的有机根源
 
-约翰·杜威在其心理学中发展的互动性有机模型影响了他关于学习和知识的理论。在这一框架内，一系列传统的认识论提议和难题（基于诸如表象/现实、心灵/世界等形而上学分歧）失去了可信度。杜威写道：“就自我与已知对象的关系问题而言”，“认知只是行动者-受事者、行为者-享受者-承受者情境的一个特例”（《现实主义简论》，MW6: 120）。与心理学一样，杜威对传统形而上学框架的全面否定要求在其他领域进行广泛重建；“工具主义”是杜威对认识论（或“探究理论”，杜威更喜欢这个术语）重建的一种流行称谓。[ 22]
+约翰 · 杜威在其心理学中发展的互动性有机模型影响了他关于学习和知识的理论。在这一框架内，一系列传统的认识论提议和难题（基于诸如表象/现实、心灵/世界等形而上学分歧）失去了可信度。杜威写道：“就自我与已知对象的关系问题而言”，“认知只是行动者-受事者、行为者-享受者-承受者情境的一个特例”（《现实主义简论》，MW6: 120）。与心理学一样，杜威对传统形而上学框架的全面否定要求在其他领域进行广泛重建；“工具主义”是杜威对认识论（或“探究理论”，杜威更喜欢这个术语）重建的一种流行称谓。[ 22]
 
 与他早期对心理学的功能性方法一样，杜威的工具主义利用达尔文的观点来消解根深蒂固的分歧，例如现实主义/唯心主义、科学/宗教以及经验主义/理性主义。变化和转化成为实际世界的自然特征，知识和逻辑被重新构想为适应、生存和繁荣的方式。理解推理的更好方式是通过观察孕育它的动态生物世界，而不是传统的静态精确性、物理学或数学范式。[ 23]
 
@@ -283,7 +283,7 @@
 
 《研究》广泛批评了唯灵论逻辑，得出结论认为逻辑不应假定思想或现实的普遍存在，而应满足于思想在经验中的功能或用途：
 
-> [一个]思想的有效性测试在于它在实现从相对冲突的经验到相对整合的经验的过渡中的功能或工具性使用。（研究，MW2: 359）
+> [一个] 思想的有效性测试在于它在实现从相对冲突的经验到相对整合的经验的过渡中的功能或工具性使用。（研究，MW2: 359）
 
 因此，工具主义放弃了所有心理-生理二元论和所有知识对应理论。杜威写道，
 
@@ -321,7 +321,7 @@
 
 > 是对胜任探究的产物的命名。除了这种关系，它的意义是如此空洞，以至于任何内容或填充物都可以随意灌入其中。（LTI，LW12：16）
 
-约翰·杜威认为，要理解一个产品，就必须理解这个过程。通过否定知识是一种孤立的产品，他有效地否定了一种将心灵-物质与其他一切分离的形而上学。他并不贬低认知作为一种活动，并坚决主张“智力”对调解个体和社会冲突至关重要。
+约翰 · 杜威认为，要理解一个产品，就必须理解这个过程。通过否定知识是一种孤立的产品，他有效地否定了一种将心灵-物质与其他一切分离的形而上学。他并不贬低认知作为一种活动，并坚决主张“智力”对调解个体和社会冲突至关重要。
 
 真理也被进行了根本性的重新评估。长期以来，真理一直暗示着一种理想——一种认识的固定性（一种对应，一种连贯性），能够满足进一步探究的需求。由于这并不是人类（或哲学）所处的实际情况，这种理想应该被搁置。然而，杜威始终是一位（再）建构主义者；在《经验、知识和价值》（1939c）中，他提供了一种解释。真理不再指向某种超验的东西，而是指向探究的过程（《经验、知识和价值》，LW14：56–57）。命题“真实”，在于它作为一种可靠的资源：
 
@@ -347,7 +347,7 @@
 
 杜威的《反射弧》论文将功能主义应用于教育。《反射》认为，人类经验并非一系列零散的起伏，而是一种不断发展的活动回路。以这种方式构建，学习是一个累积的、渐进的过程，调查者从令人不满的怀疑中向问题的令人满意的解决方向前进。《反射》还表明，刺激的主体（例如，学生）并非被动接受者，而是在更广泛的活动领域中积极选择刺激的代理人。
 
-意识到这些事实，杜威认为，教育工作者应该抛弃基于“空白板”心智的教学法。在《学校与社会》中，杜威写道，“教育问题就是抓住[孩子们]的活动，给予他们方向”（MW1: 25）。《我们如何思考》（1910c，MW6）主要旨在帮助教师应用工具主义。总的来说，教育的智力目标将通过使儿童熟悉科学探究的一般智力习惯而得以推进。
+意识到这些事实，杜威认为，教育工作者应该抛弃基于“空白板”心智的教学法。在《学校与社会》中，杜威写道，“教育问题就是抓住 [孩子们] 的活动，给予他们方向”（MW1: 25）。《我们如何思考》（1910c，MW6）主要旨在帮助教师应用工具主义。总的来说，教育的智力目标将通过使儿童熟悉科学探究的一般智力习惯而得以推进。
 
 > 童年的本能和未受污染的态度，充满强烈的好奇心、丰富的想象力和对实验性探究的热爱，与科学思维的态度非常接近，非常接近。（HWT，MW6: 179）
 
@@ -387,11 +387,11 @@
 
 伦理理论的进步意味着更具有辨别力和揭示后果和替代方案的探究。改进探究需要更好的思考方法；这意味着要敞开接受来自许多来源的贡献：科学、社会习俗、法学、传记、过去的道德体系。[42] 思考尤其受益于杜威所称的“戏剧排练”，在那里对可能情景的想象演绎可以阐明潜在伦理选择的情感压力和色彩。[43]
 
-约翰·杜威的政治哲学，像其他领域一样，建立在这样一个观念之上，即个体并非自给自足的社会原子，而是在社会环境中构成；它还建立在人类探究解决问题的假设性和实验性方式的能力之上。与其他地方一样，理论是工具性的；概念并不揭示潜在的“现实”，而是在特定的实际情况下是功能性的（或者不是）。政治理论中的概念和理论是可错误的，并且可以接受重构。杜威拒绝依赖非经验性、先验性假设（例如关于人类本性、进步等）以及提出最终、通常是单因果解释的方法。他的工作批判并重构了核心概念（个体、自由、权利、社区、公共、国家和民主）沿着自然主义和实验主义的路线。除了大量面向学术界和普通读者的文章之外，杜威的政治思想还体现在包括《公众及其问题》（1927b，LW2）、《个人主义，新旧》（1930f，LW5）、《自由主义与社会行动》（1935，LW11）和《自由与文化》（1939d，LW13）在内的书籍中。因为《民主与教育》（1916b，DE，MW9）强调了教育、社会和民主习惯之间的深刻联系，因此也值得作为一部“政治”著作进行研究。
+约翰 · 杜威的政治哲学，像其他领域一样，建立在这样一个观念之上，即个体并非自给自足的社会原子，而是在社会环境中构成；它还建立在人类探究解决问题的假设性和实验性方式的能力之上。与其他地方一样，理论是工具性的；概念并不揭示潜在的“现实”，而是在特定的实际情况下是功能性的（或者不是）。政治理论中的概念和理论是可错误的，并且可以接受重构。杜威拒绝依赖非经验性、先验性假设（例如关于人类本性、进步等）以及提出最终、通常是单因果解释的方法。他的工作批判并重构了核心概念（个体、自由、权利、社区、公共、国家和民主）沿着自然主义和实验主义的路线。除了大量面向学术界和普通读者的文章之外，杜威的政治思想还体现在包括《公众及其问题》（1927b，LW2）、《个人主义，新旧》（1930f，LW5）、《自由主义与社会行动》（1935，LW11）和《自由与文化》（1939d，LW13）在内的书籍中。因为《民主与教育》（1916b，DE，MW9）强调了教育、社会和民主习惯之间的深刻联系，因此也值得作为一部“政治”著作进行研究。
 
 ##
 
-约翰·杜威的一生发生了巨大变化，包括美国人口的大规模增长，工业、科学、技术和教育机构的崛起，美国内战，两次世界大战以及全球经济衰退。这些事件对现存的自由主义理论造成了压力，杜威努力重新构想民主和自由主义。“边疆是道德的，而非物质的”，杜威敦促道，提出民主等同于“一种生活方式”，需要不断更新才能生存。除了政府机构（普选权、定期选举、政党、同行审判等），他还将民主描述为“主要是一种联合生活方式，一种共同的沟通经验”。这种经验通过合作探究表达，需要智力和情感能力，以便讨论和解决共同的问题和价值差异。最终，民主需要相信经验是未来解决方案的充分资源，并且可以摆脱对超越规则或目标的依赖。
+约翰 · 杜威的一生发生了巨大变化，包括美国人口的大规模增长，工业、科学、技术和教育机构的崛起，美国内战，两次世界大战以及全球经济衰退。这些事件对现存的自由主义理论造成了压力，杜威努力重新构想民主和自由主义。“边疆是道德的，而非物质的”，杜威敦促道，提出民主等同于“一种生活方式”，需要不断更新才能生存。除了政府机构（普选权、定期选举、政党、同行审判等），他还将民主描述为“主要是一种联合生活方式，一种共同的沟通经验”。这种经验通过合作探究表达，需要智力和情感能力，以便讨论和解决共同的问题和价值差异。最终，民主需要相信经验是未来解决方案的充分资源，并且可以摆脱对超越规则或目标的依赖。
 
 杜威对个人主义的分析源自早期的学术兴趣和对当代经济和技术压力的敏感。旧的“原子”个人主义——自然的利己主义者争取最大化自己的地位——现在正在伤害而不是保护个人；作为修辞借口，它使富有和强大的利益得以破坏最初证明自由主义合理性的大部分保护。
 
@@ -415,13 +415,13 @@
 
 ### 9.1 杜威的宗教背景
 
-杜威成长在一个虔诚的宗教家庭中；他虔诚的母亲敦促她的儿子们达到类似的虔诚。他家庭所属的教会是独立派教会；稍晚一点，包括在大学期间，自由福音派变得更加可接受。21 岁时，居住在宾夕法尼亚州油城时，杜威经历了一次“神秘体验”，他向朋友马克斯·伊斯特曼报告说：
+杜威成长在一个虔诚的宗教家庭中；他虔诚的母亲敦促她的儿子们达到类似的虔诚。他家庭所属的教会是独立派教会；稍晚一点，包括在大学期间，自由福音派变得更加可接受。21 岁时，居住在宾夕法尼亚州油城时，杜威经历了一次“神秘体验”，他向朋友马克斯 · 伊斯特曼报告说：
 
 > 没有异象，甚至没有可定义的情感——只是一种极度幸福的感觉，他的担忧（关于他是否真诚地祈祷足够）已经结束。（戴克海森 1973: 22）
 
-杜威大约在教会中待了三十五年，大约在 1894 年左右，他离开芝加哥去任职后，他转而远离了宗教。在那之后，杜威最深的忠诚不再在宗教中；正如约翰·J·麦克德莫特所说，
+杜威大约在教会中待了三十五年，大约在 1894 年左右，他离开芝加哥去任职后，他转而远离了宗教。在那之后，杜威最深的忠诚不再在宗教中；正如约翰 ·J· 麦克德莫特所说，
 
-> 约翰·杜威（McDermott 2006, 50–51）是一个不可救药的哲学自然主义者，他认为人类的旅程构成了自身的意义，不能被任何超验的解释、问责原则或来世的拯救所拯救。
+> 约翰 · 杜威（McDermott 2006, 50–51）是一个不可救药的哲学自然主义者，他认为人类的旅程构成了自身的意义，不能被任何超验的解释、问责原则或来世的拯救所拯救。
 
 20 世纪 30 年代，杜威回到了宗教哲学问题上。“我所信仰的”（1930, LW5）主张一种新型“信仰”，一种“朝向行动的倾向”。这种信仰并非超验，而是意味着“经验本身是唯一的最终权威”（“我所信仰的”，LW5: 267）。这种信仰是主动产生的，源自于“我们所有力量充分参与努力，从每一次经验的变化情境中获取其独特的完整意义”（“我所信仰的”，LW5: 272）。1933 年至 1934 年，杜威在耶鲁大学发表了特里讲座，后来出版为《一种共同的信仰》（1934a, ACF, LW9），这是他关于宗教和宗教经验的重要论述。
 
@@ -502,30 +502,30 @@ In-text citations give the original publication date, series abbreviation, follo
 #### Individual works
 
 * 1884, “The New Psychology”, *Andover Review*, 2(Sept.): 278–289. Reprinted in EW1: 48–60.
-* 1886, “Psychology as Philosophic Method”, *Mind*, old series, 11(42), 153–173. Reprinted in EW1: 144–67. doi:10.1093/mind/os-XI.42.153
+* 1886, “Psychology as Philosophic Method”, *Mind*, old series, 11(42), 153–173. Reprinted in EW1: 144–67. doi: 10.1093/mind/os-XI.42.153
 * 1887, *Psychology*, New York: Harper and Brothers. Reprinted in EW2.
 * 1891, *Outlines of a Critical Theory of Ethics*, Ann Arbor, Michigan: Register Publishing Company. Reprinted in EW3: 239–388.
-* 1893, Dewey, review of Bosanquet, “A History of Aesthetic, by Bernard Bosanquet, formerly Fellow of University College, Oxford”*, Philosophical Review*, 2 (Jan. 1893):63–69. Reprinted in EW4: 189–197.
+* 1893, Dewey, review of Bosanquet, “A History of Aesthetic, by Bernard Bosanquet, formerly Fellow of University College, Oxford”*, Philosophical Review*, 2 (Jan. 1893): 63–69. Reprinted in EW4: 189–197.
 * 1894a, *The Study of Ethics: A Syllabus*, Ann Arbor, MI: The Inland Press. Reprinted in EW4: 220–362.
-* 1894b, “The Theory of Emotion I: Emotional Attitudes”, *Psychological Review*, 1(6): 553–569. Reprinted in EW4: 152–169. doi:10.1037/h0069054
-* 1895, “The Theory of Emotion II: The Significance of Emotions”, *Psychological Review*, 2(1): 13–32. Reprinted in EW4: 169–188. doi:10.1037/h0070927
-* [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi:10.1037/h0070405
+* 1894b, “The Theory of Emotion I: Emotional Attitudes”, *Psychological Review*, 1(6): 553–569. Reprinted in EW4: 152–169. doi: 10.1037/h0069054
+* 1895, “The Theory of Emotion II: The Significance of Emotions”, *Psychological Review*, 2(1): 13–32. Reprinted in EW4: 169–188. doi: 10.1037/h0070927
+* [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi: 10.1037/h0070405
 * 1897a, “Ethical Principles Underlying Education”, in *Third Yearbook of the National Herbart Society*, Chicago: The National Herbart Society, pp. 7–33. Reprinted in EW5: 54–83.
 * 1897b, “My Pedagogic Creed”, *School Journal*, 54(Jan.): 77–80. Reprinted in EW5: 84–95.
 * 1897c, “The Aesthetic Element in Education”, *Addresses and Proceedings of the National Educational Association*, pp. 329–30. Reprinted in EW5: 202–204.
 * 1899, *The School and Society*, Chicago: The University of Chicago Press. Reprinted in MW1.
-* 1900 [1916], “Some Stages of Logical Thought”, *The Philosophical Review*, 9(5): 465–489. Revised and reprinted in 1916d: 183–219. Reprinted in MW1: 152–175. doi:10.2307/2176692
+* 1900 [1916], “Some Stages of Logical Thought”, *The Philosophical Review*, 9(5): 465–489. Revised and reprinted in 1916d: 183–219. Reprinted in MW1: 152–175. doi: 10.2307/2176692
 * 1903a, “Democracy in Education”, *Elementary School Teacher*, 4 (1903): 193–204. Reprinted in MW3: 229–239.
 * 1903b, *Studies in Logical Theory*, Chicago: The University of Chicago Press. Reprinted in MW2: 293–378.
-* [*PIE*] 1905, “The Postulate of Immediate Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(15): 393–399. Reprinted in MW3: 158–167. doi:10.2307/2011400
-* 1906, “Beliefs and Realities” (later retitled “Beliefs and Existences”), *Philosophical Review*, 15(2): 113–119; originally read as the Presidential Address at the fifth annual meeting of the American Philosophical Association, at Cambridge, December 28, 1905. Reprinted in MW3: 83–100. doi:10.2307/2177731
+* [*PIE*] 1905, “The Postulate of Immediate Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(15): 393–399. Reprinted in MW3: 158–167. doi: 10.2307/2011400
+* 1906, “Beliefs and Realities” (later retitled “Beliefs and Existences”), *Philosophical Review*, 15(2): 113–119; originally read as the Presidential Address at the fifth annual meeting of the American Philosophical Association, at Cambridge, December 28, 1905. Reprinted in MW3: 83–100. doi: 10.2307/2177731
 * [*E*] 1908, with James H. Tufts, *Ethics*, New York: Henry Holt and Co. Reprinted in MW5.
 * 1908–1909, “The Bearings of Pragmatism Upon Education”, *Progressive Journal of Education*, originally three papers, 1(Dec. 1908): 1–3; 1(Jan. 1909): 5–8; 1–(Feb. 1909): 6–7. Reprinted in MW4: 178–191
 * 1910a, “A Short Catechism Concerning Truth”, in *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 154–168. Reprinted in MW6: 3–11.
 * 1910b, “The Experimental Theory of Knowledge”, *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 77–111. Reprinted in MW3: 107–127.
 * [*HWT*] 1910c, *How We Think*, Boston: D. C. Heath and Co. Reprinted in MW6.
 * 1912, “Contributions to A Cyclopedia of Education”, in MW7: 207–366.
-* 1915, “The Subject-Matter of Metaphysical Inquiry”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(13): 337. Reprinted in MW8: 3–13. doi:10.2307/2013770
+* 1915, “The Subject-Matter of Metaphysical Inquiry”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(13): 337. Reprinted in MW8: 3–13. doi: 10.2307/2013770
 * 1916a, “Brief Studies in Realism”, in 1916d: 250–280. Reprinted in MW6: 103–122. Revised version of an article in two parts in 1911, *Journal of Philosophy, Psychology and Scientific Methods*, 8(15): 393–400, 8(20): 546–454.
 * 1916b, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan. Reprinted in MW9.
 * [*EEL*] 1916c, “Introduction” to 1916d: v–vi. Reprinted in MW10: 320–365.
@@ -533,19 +533,19 @@ In-text citations give the original publication date, series abbreviation, follo
 * 1917, “The Need for a Recovery of Philosophy”, in his *Creative Intelligence: Essays in the Pragmatic Attitude*, New York: Henry Holt and Co., pp. 3–69. Reprinted in MW10: 3–49
 * [*RIP*] 1920, *Reconstruction in Philosophy*, New York: Henry Holt and Co. Reprinted in MW12.
 * [*HNC*] 1922a, *Human Nature and Conduct*, New York: Henry Holt and Co. Reprinted in MW14.
-* 1922b, “Realism without Monism or Dualism”, *Journal of Philosophy*, 19(12): 309–317, 19(13): 351–361 Reprinted in MW13: 40–60. doi:10.2307/2939872 doi:10.2307/2939610
-* 1923, “Individuality in Education”, *General Science Quarterly*, 7(3): 157–166. Reprinted in MW15: 170–179. doi:10.1002/sce.3730070301
+* 1922b, “Realism without Monism or Dualism”, *Journal of Philosophy*, 19(12): 309–317, 19(13): 351–361 Reprinted in MW13: 40–60. doi: 10.2307/2939872 doi: 10.2307/2939610
+* 1923, “Individuality in Education”, *General Science Quarterly*, 7(3): 157–166. Reprinted in MW15: 170–179. doi: 10.1002/sce.3730070301
 * [*EN*] 1925a, *Experience and Nature*, Chicago: Open Court Publishing.
-* 1925, “The Naturalistic Theory of Perception by the Senses”, *The Journal of Philosophy*, 22(22): 596–606. Reprinted in LW2: 44–54 as “A Naturalistic Theory of Sense-Perception”. doi:10.2307/2015056
-* 1927a, “Half-Hearted Naturalism”, *The Journal of Philosophy*, 24(3): 57–64. Reprinted in LW3: 73–81. doi:10.2307/2014856
+* 1925, “The Naturalistic Theory of Perception by the Senses”, *The Journal of Philosophy*, 22(22): 596–606. Reprinted in LW2: 44–54 as “A Naturalistic Theory of Sense-Perception”. doi: 10.2307/2015056
+* 1927a, “Half-Hearted Naturalism”, *The Journal of Philosophy*, 24(3): 57–64. Reprinted in LW3: 73–81. doi: 10.2307/2014856
 * [*PP*] 1927b, *The Public and Its Problems*, New York: Henry Holt and Co. Reprinted in LW2.
-* 1927c, “The Rôle of Philosophy in the History of Civilization”, *The Philosophical Review*, 36(1): 1–9. Reprinted in LW3: 3–11 as “Philosophy and Civilization”. doi:10.2307/2179154
-* 1928, “Social as a Category”, *Monist*, 38(2): 161–177. Reprinted in LW3: 41–54 as “The Inclusive Philosophical Idea”,. doi:10.5840/monist192838218
+* 1927c, “The Rôle of Philosophy in the History of Civilization”, *The Philosophical Review*, 36(1): 1–9. Reprinted in LW3: 3–11 as “Philosophy and Civilization”. doi: 10.2307/2179154
+* 1928, “Social as a Category”, *Monist*, 38(2): 161–177. Reprinted in LW3: 41–54 as “The Inclusive Philosophical Idea”,. doi: 10.5840/monist192838218
 * [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*, New York: Minton, Balch and Co. Reprinted in LW4.
 * [*FAE*] 1930a, “From Absolutism to Experimentalism”, in *Contemporary American Philosophy: Personal Statements*, George Plimpton Adams and William Pepperell Montague (eds), London: George Allen and Unwin; New York: Macmillan Co., volume 2: 13–27. Reprinted in LW5: 147–60.
 * 1930b, “Psychology and Work”, *Personnel Journal*, 8(February): 337–341. Reprinted in LW5: 236–242
 * 1930c, “Qualitative Thought”, *Symposium*, 1(January): 5–32. Reprinted in his *Philosophy and Civilization*, New York: Minton, Balch & Company, 1931, pp. 93–116. Reprinted in LW5: 243–262.
-* [*TIF*] 1930d, “Trois facteurs indépendants en matière de morale”, Charles Cestre (trans.), *Bulletin de la société française de philosophie*, 30(4): 118–127. First publication in English, 1966, “Three Independent Factors in Morals”, *Educational Theory*, 16(3): 198–209, Jo Ann Boydston (trans.). Reprinted in LW5: 279–288. doi:10.1111/j.1741-5446.1966.tb00259.x
+* [*TIF*] 1930d, “Trois facteurs indépendants en matière de morale”, Charles Cestre (trans.), *Bulletin de la société française de philosophie*, 30(4): 118–127. First publication in English, 1966, “Three Independent Factors in Morals”, *Educational Theory*, 16(3): 198–209, Jo Ann Boydston (trans.). Reprinted in LW5: 279–288. doi: 10.1111/j.1741-5446.1966.tb00259.x
 * 1930e, “What I Believe”, *Forum*, 83(March): 176–182. Reprinted in LW5: 267–278.
 * [*ION*] 1930f, *Individualism, Old and New*, New York: Minton, Balch and Co. Reprinted in LW5: 41–124.
 * 1931, “Context and Thought”, *University of California Publications in Philosophy*, (Berkeley: University of California Press), 12(3): 203–224. Reprinted in LW6: 3–21.
@@ -565,11 +565,11 @@ In-text citations give the original publication date, series abbreviation, follo
 * 1939c, “Experience, Knowledge, and Value: A Rejoinder”, in Schilpp 1939: 515–608, in LW14: 3–90.
 * 1939d, *Freedom and Culture*, New York: G. P. Putnam’s Sons. Reprinted in LW13: 65–188.
 * [*TV*] 1939e, *Theory of Valuation*, Chicago: University of Chicago Press. Reprinted in LW13.
-* 1940a, “Nature in Experience”, *The Philosophical Review*, 49(2): 244–258. Reprinted in LW14: 141–154. doi:10.2307/2180802
+* 1940a, “Nature in Experience”, *The Philosophical Review*, 49(2): 244–258. Reprinted in LW14: 141–154. doi: 10.2307/2180802
 * 1940b, “Time and Individuality”, in *Time and Its Mysteries*, series 2, New York: New York University Press, pp. 85–109. Reprinted in LW14: 98–114.
-* 1941, “Propositions, Warranted Assertibility, and Truth”, *The Journal of Philosophy*, 38(7): 169–186. Reprinted in LW14: 168–188. doi:10.2307/2017978
+* 1941, “Propositions, Warranted Assertibility, and Truth”, *The Journal of Philosophy*, 38(7): 169–186. Reprinted in LW14: 168–188. doi: 10.2307/2017978
 * 1944, “Between Two Worlds”, Address delivered at the Winter Institute of Arts and Sciences, University of Miami, Coral Gables, Fla., 20 March 1944. Printed in LW17: 451–465.
-* 1949, “Experience and Existence: A Comment”, *Philosophy and Phenomenological Research*, 9(4): 709–713. Reprinted in LW16: 383–390. doi:10.2307/2103300
+* 1949, “Experience and Existence: A Comment”, *Philosophy and Phenomenological Research*, 9(4): 709–713. Reprinted in LW16: 383–390. doi: 10.2307/2103300
 * [*H&A*] 1998, *The Essential Dewey*, L. Hickman and T. M. Alexander (eds.), Bloomington: Indiana University Press.
 
 ### B. Secondary Sources
@@ -579,7 +579,7 @@ In-text citations give the original publication date, series abbreviation, follo
 * –––, 2013, *The Human Eros: Eco-Ontology and the Aesthetics of Existence*, New York: Fordham University Press.
 * –––, 2020, “Dewey’s Naturalistic Metaphysics”, in Steven Fesmire (ed.), *The Oxford Handbook of Dewey*, Oxford: Oxford University Press, 25–52.
 * Anderson, Elizabeth, 2018, “Dewey’s Moral Philosophy”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/dewey-moral/>
-* Bernstein, Richard J., 1961, “John Dewey’s Metaphysics of Experience”, *The Journal of Philosophy*, 58(1): 5–14. doi:10.2307/2023564
+* Bernstein, Richard J., 1961, “John Dewey’s Metaphysics of Experience”, *The Journal of Philosophy*, 58(1): 5–14. doi: 10.2307/2023564
 * –––, 1966, *John Dewey*, New York, NY: Washington Square Press.
 * –––, 2010, *The Pragmatic Turn*, Cambridge: Polity Press.
 * Biletzki, Anat and Anat Matar, 2018, “Ludwig Wittgenstein”, *The Stanford Encyclopedia of Philosophy* (Summer 2018), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2018/entries/wittgenstein/>
@@ -600,7 +600,7 @@ In-text citations give the original publication date, series abbreviation, follo
 * –––, 2015, *Dewey*, London/New York: Routledge.
 * ––– (ed.), 2020, *The Oxford Handbook of Dewey*, Oxford: Oxford University Press.
 * Festenstein, Matthew, 2014, “Dewey’s Political Philosophy”, *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2014/entries/dewey-political/>
-* Fischer, Marilyn, 2013, “Reading Dewey’s Political Philosophy through Addams’s Political Compromises”, *American Catholic Philosophical Quarterly*, 87(2): 227–243. doi:10.5840/acpq201387219
+* Fischer, Marilyn, 2013, “Reading Dewey’s Political Philosophy through Addams’s Political Compromises”, *American Catholic Philosophical Quarterly*, 87(2): 227–243. doi: 10.5840/acpq201387219
 * Garrison, James, 2005, “Dewey on Metaphysics, Meaning Making, and Maps”, *Transactions of the Charles S. Peirce Society*, 41(4): 818–844.
 * Garrison, Jim, 1997, *Dewey and Eros: Wisdom and Desire in the Art of Teaching*, New York: Teachers College Press.
 * Good, James A., 2005, *A Search for Unity in Diversity: The “Permanent Hegelian Deposit” in the Philosophy of John Dewey*, Lanham, Md.: Lexington Books.
@@ -613,7 +613,7 @@ In-text citations give the original publication date, series abbreviation, follo
 * Jackson, Philip W., 2000, *John Dewey and the Lessons of Art*, New Haven, CT: Yale University Press.
 * James, William, 1890 [1981], *The Principles of Psychology*, Cambridge, MA: Harvard University Press.
 * Johnson, Mark, 2007, *The Meaning of the Body*, Chicago: University of Chicago Press.
-* Lamont, Corliss, 1961, “New Light on Dewey’s *Common Faith*”, *The Journal of Philosophy*, 58(1): 21–28. doi:10.2307/2023566
+* Lamont, Corliss, 1961, “New Light on Dewey’s *Common Faith*”, *The Journal of Philosophy*, 58(1): 21–28. doi: 10.2307/2023566
 * Leddy, Tom, 2016, “Dewey’s Aesthetics”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/dewey-aesthetics/>
 * Lippmann, Walter, 1922, *Public Opinion*, New York: Harcourt, Brace and Company.
 * –––, 1925, *The Phantom Public*, New York: Harcourt, Brace.
@@ -641,7 +641,7 @@ In-text citations give the original publication date, series abbreviation, follo
 * Schilpp, Paul Arthur (ed.), 1939, *The Philosophy of John Dewey*, New York: Tudor Publishing Co.
 * Seigfried, Charlene Haddock, 1996, *Pragmatism and Feminism: Reweaving the Social Fabric*, Chicago: University of Chicago.
 * –––, 1998, “John Dewey’s Pragmatist Feminism”, in Larry Hickman (ed.), *Reading Dewey: Interpretations for a Postmodern Generation*, Bloomington: Indiana University Press, pp. 187–216.
-* –––, 1999, “Socializing Democracy: Jane Addams and John Dewey”, *Philosophy of the Social Sciences*, 29(2): 207–230. doi:10.1177/004839319902900203
+* –––, 1999, “Socializing Democracy: Jane Addams and John Dewey”, *Philosophy of the Social Sciences*, 29(2): 207–230. doi: 10.1177/004839319902900203
 * –––, 2001a, “Pragmatist Metaphysics? Why Terminology Matters”, *The Transactions of the Charles S. Peirce Society*, 37(1): 13–21.
 * ––– (ed.), 2001b, *Feminist Interpretations of John Dewey*, University Park, PA: Pennsylvania State University Press.
 * –––, 2004, “Ghosts Walking Underground: Dewey’s Vanishing Metaphysics”, *The Transactions of the Charles S. Peirce Society*, 40(1): 53–81.

@@ -39,11 +39,11 @@
 
 ### 2.1 建筑事业的种类是什么
 
-把建筑的真正本质理解为学科的一种方法是通过定义它。我们可以接受英国建筑师塞德里克·普赖斯（Cedric Price）的学科决定论：“建筑是建筑师所做的事情”。定义建筑学科或实践可能看起来是一个简单的经验性事务。即使我们难以评估建筑物或产品是什么，我们可以指出世界各地几千年来从事与建筑实践相关的一套或另一套活动的数千名建筑师，并对建筑师所做的事情提出一个长期的分离性主张。经验根植的方法有着悠久的历史：维特鲁威斯（Vitruvius）根据他对当时实践的熟悉制定了他对有德行的建筑师的规范解释。其他传统的关于建筑师或建筑师的美德的解释也是如此，比如 6 至 8 世纪的印度《Mānasāra》（Acharya 1928）和 11 世纪的中国《營造法式》（Feng 2012）。在当今，建筑专业的社会学提供了详细的经验性视角（Gutman 1988），这可以扩展为贝克尔（Becker）的艺术世界社会学模型的建筑世界的社会学。
+把建筑的真正本质理解为学科的一种方法是通过定义它。我们可以接受英国建筑师塞德里克 · 普赖斯（Cedric Price）的学科决定论：“建筑是建筑师所做的事情”。定义建筑学科或实践可能看起来是一个简单的经验性事务。即使我们难以评估建筑物或产品是什么，我们可以指出世界各地几千年来从事与建筑实践相关的一套或另一套活动的数千名建筑师，并对建筑师所做的事情提出一个长期的分离性主张。经验根植的方法有着悠久的历史：维特鲁威斯（Vitruvius）根据他对当时实践的熟悉制定了他对有德行的建筑师的规范解释。其他传统的关于建筑师或建筑师的美德的解释也是如此，比如 6 至 8 世纪的印度《Mānasāra》（Acharya 1928）和 11 世纪的中国《營造法式》（Feng 2012）。在当今，建筑专业的社会学提供了详细的经验性视角（Gutman 1988），这可以扩展为贝克尔（Becker）的艺术世界社会学模型的建筑世界的社会学。
 
 然而，如果我们寻求历史或社会学的统一解释来描述建筑学的共同特征，就会出现问题。虽然在某些方面，建筑实践保持稳定，但其历史上的变化极大地限制了共同特征，或许仅限于一组基本工具和结构工程的基本原则。这表明，从根本上讲，建筑实践必须涉及工程或相关设计。但如果我们认为建筑理想、品味和专业知识在工程事实、规则和实际知识之上有所贡献，那么建筑不能简化为一种工程形式。这些进一步的贡献表明建筑实践具有艺术或类似艺术的角色。然而，历史记录对于建筑师是否同时追求艺术（或我们现在认为的艺术）或者应该被视为艺术家的问题存在不一致。此外，历史记录和由此产生的不一致性主张并未涉及那些没有使用最基本工具或结构原则的情况。一些这样的情况，如幻想建筑，可能被视为边缘；而其他一些情况，如景观建筑，则不是。
 
-定义建筑作为一种实践的另一个维度是指定建筑师设计的结构类型。至少可以说，它们与人类使用有某种联系。但是，将此视为非平凡的尝试引入了进一步的难题（见§2.3）。
+定义建筑作为一种实践的另一个维度是指定建筑师设计的结构类型。至少可以说，它们与人类使用有某种联系。但是，将此视为非平凡的尝试引入了进一步的难题（见 §2.3）。
 
 ### 2.2 建筑与基本特征
 
@@ -95,7 +95,7 @@
 
 对抗抽象主义，一些建筑对象显然是独特的，因为它们在历史和地理上是偶然的（Ingarden 1962）；对于建筑抽象体验的解释不清楚；而抽象体并非创造出来，而建筑对象是。De Clercq（2012）进一步提出，即使存在抽象的建筑对象，我们也不会提及它们。如果我提到“Downing Street 10 号”，我的表达指的是建筑结构，而不是计划，也不是任何其他与 Downing Street 10 号建筑结构相对应的抽象表达或实体。然而，对所指对象的一个合理的替代解释是“我正在感知（或曾经感知过）的结构所实例化的抽象对象”。
 
-作为抽象主义和具体主义之间的替代方案，一种多元论本体论（根据 Danto 1993）允许“物质基础”和“美学思想”作为不同类型的建筑对象。Goodman 的解释（1968/1976）适合于多元论，或者至少是方面性的阅读。他提出，除非满足某些条件，否则建筑对象可以被确定为完美实现相应计划或其他适当建筑符号的结构（见§4）。根据他的名词主义观点，这些对象最终是建筑结构，但是一个可行的现实主义解释——可能更好地适应他的故事中的多个对象——将这些对象视为这类结构的类别。
+作为抽象主义和具体主义之间的替代方案，一种多元论本体论（根据 Danto 1993）允许“物质基础”和“美学思想”作为不同类型的建筑对象。Goodman 的解释（1968/1976）适合于多元论，或者至少是方面性的阅读。他提出，除非满足某些条件，否则建筑对象可以被确定为完美实现相应计划或其他适当建筑符号的结构（见 §4）。根据他的名词主义观点，这些对象最终是建筑结构，但是一个可行的现实主义解释——可能更好地适应他的故事中的多个对象——将这些对象视为这类结构的类别。
 
 另一种选择认为，建筑包括行为或表演（参考 Currie 1989；D. Davies 2004），使任何具体结构或“传统”抽象实体都成为派生物。Lopes（2007）提出了一种事件或时间部分本体论的可能性，用于一种在存在和不存在之间转换的建筑结构类型，然而 De Clercq（2008，2012）反驳说，通过时间索引，这种情况可以在材料对象本体论中得到解决。还有其他的本体论是情境性的或社会建构主义的，提出建筑物存在的方式，超越了它们作为结构材料的地位，而是基于我们的现实被心理、社会或文化方式框定的方式（参考 Hartmann 1953，Margolis 1958）。任何这样的框架的转变都可能导致建筑物中身份的变化，就像博尔赫斯式的艺术无法区分的方式（Danto 1964）一样，这可能有利于那些认为建筑无法区分存在于周围的本体论，以重新利用建筑结构的形式存在。
 
@@ -111,7 +111,7 @@
 
 ## 4. 建筑语言和符号化
 
-认为存在或应该存在建筑语言（一个或多个）的观念可以追溯到古代。在经典形式中，建筑作为语言的论点从维特鲁威的建议开始，该建议认为建筑的组合和排序规则是有序的，通过阿尔贝蒂的受修辞启发的建筑描述模型（van Eck 2000），以及文艺复兴和近代作者（如雷恩）之间的类比，建筑规则和表达能力与拉丁语言。拉文（1992）认为，夸特雷梅尔·德·昆西（1803）发展了这一论点，从传统观点看，古典秩序是直接代表原始结构的语法构建模块，到现代观点看，结构元素广泛代表社会和道德思想和原则。这一论点的变体涵盖了建筑语言的各个要素，以及它的使用方式和来源。
+认为存在或应该存在建筑语言（一个或多个）的观念可以追溯到古代。在经典形式中，建筑作为语言的论点从维特鲁威的建议开始，该建议认为建筑的组合和排序规则是有序的，通过阿尔贝蒂的受修辞启发的建筑描述模型（van Eck 2000），以及文艺复兴和近代作者（如雷恩）之间的类比，建筑规则和表达能力与拉丁语言。拉文（1992）认为，夸特雷梅尔 · 德 · 昆西（1803）发展了这一论点，从传统观点看，古典秩序是直接代表原始结构的语法构建模块，到现代观点看，结构元素广泛代表社会和道德思想和原则。这一论点的变体涵盖了建筑语言的各个要素，以及它的使用方式和来源。
 
 在其最突出的形式中，核心思想是，作为设计思想的建筑（无论是实现还是其他）具有一组基本的设计和风格元素，可以根据一组规则（语法）进行组合和关联，能够构成或传达意义（语义），并受到上下文敏感性和部署和实现的内部或关系约束（语用学）。除了与自然语言的基本要素存在结构上的相似之外，人们认为建筑作为语言的目的和可能性产生了进一步的相似之处，最好通过建筑具有或甚至是一种语言的观念来解释。
 
@@ -189,7 +189,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 
 部分和完整信息。建筑中的表达包括多种模式，包括建筑物、物理模型、虚拟模型、数据阵列、平面图、草图、照片和绘画。只要某些对象的特征通过该模式得到充分、准确、规律和最佳地表达，每种模式都可以作为代表建筑对象的有效方式。这种对建筑中有效表达的观点与其他艺术形式中的标准相悖。以《蒙娜丽莎》的表达为例。如果你无法通过表达（从任何可接受的角度）完全视觉接触到整个画面，可以说你对该作品的了解不完整，因此你对《蒙娜丽莎》的美学信念可能会相应地被贬低。相比之下，如果建筑信念要求类似于对对象的全面了解或完全知情的证词才能成立，我们的建筑信念通常或经常不会成立。即使是我们可能期望对建筑结构的建筑师或开发者有最深入了解的人，也很少有完全了解或完全知情的情况。
 
-社会构建的知识。在建筑学中，如同其他设计领域一样，设计问题并不是一次性或由特定个体完全阐述的。设计知识的主要组成部分——问题及其可能的解决方案——分布在不同的人之间。建筑生产的这一事实——以及在一定程度上其使用——表明我们对建筑物的信念是在这种社会关系中形成的，并受其影响（见§8.1）。艺术和建筑世界本身无疑不是认识规范的唯一来源。然而，建筑的利益相关者之间的社会关系和环境构成了广泛的建筑信念的构成条件，至少表明了一种适度的社会建构主义。
+社会构建的知识。在建筑学中，如同其他设计领域一样，设计问题并不是一次性或由特定个体完全阐述的。设计知识的主要组成部分——问题及其可能的解决方案——分布在不同的人之间。建筑生产的这一事实——以及在一定程度上其使用——表明我们对建筑物的信念是在这种社会关系中形成的，并受其影响（见 §8.1）。艺术和建筑世界本身无疑不是认识规范的唯一来源。然而，建筑的利益相关者之间的社会关系和环境构成了广泛的建筑信念的构成条件，至少表明了一种适度的社会建构主义。
 
 可以认为建筑的特性，如系统性和学科的深度社会性，与审美信念无关。然而，建筑是一个整体性的企业：设计决策，如悬挑露台，既具有审美意义，又具有工程意义。同样，建筑物构成系统对塑造审美信念具有相关性，因为有更有吸引力的方式来塑造人员流动，甚至是电力流动，通过建筑结构。而建筑物是通过社会过程设计的，这对应的审美信念也具有重要意义。例如，给定设计的审美属性受到批评的影响，其目的正是影响创作者对同一设计的进一步审美信念。
 
@@ -259,7 +259,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 
 第一个候选原因的成立与否取决于建筑是否因满足社会需求而成为一种社会艺术。对于一种本质上的社会艺术形式来说，满足的需求应该是关键的，而不是任意的或奢侈的。例如，总体上满足住房需求符合关键性测试，而满足第三套住房的设计需求则不符合。第一个原因看起来是正确的，因为建筑师经常将社会需求融入设计思维中。凭借着社会意识，他们创造出能够服务于各种社会目标的建筑结构。然而，一个困难出现了，就是如何始终将这样的意图作为社会的标志来坚持，如果(a)这样的意图在体验建筑物、实例或其表现中不明确，(b)建筑结构被重新利用，或者(c)存在没有相应相关意图的建筑物。 （例如，我们可以考虑“发现”的建筑物，如有人居住的洞穴。）
 
-建筑是一门社会艺术的第二个候选原因是，建筑制作过程是彻底而不可避免的社会现象，由社会习俗和安排所创造和管理的社会群体的互动构成。从这个观点来看，建筑的社会性质在于学科的地位是由社会习俗塑造的，这些习俗由建筑师和其他相关人员指定并指导行动。（这个原因直接将建筑的社会性质与其社会影响联系起来，因此与建筑社会学有关；参见§8.2。）建筑现象是社会的，因为它们是作为合同、会议、公司、研讨会、批评、评委会、项目、竞赛、展览、合作伙伴关系、专业组织、谈判、工作流组织、分工以及建筑师和其他建筑利益相关者的众多其他习惯性和协议性的目的行动和群体的结果。有人可能会反对说，在制度理论中，所有艺术形式都是以这些方式社会的。然而，在艺术世界中，制度理论告诉我们什么是艺术对象，而不是这些对象最初是如何构成的。支持这个候选原因的人必须排除一个天真的建筑情景，即一个没有社会重要参与的孤立建筑师创造作品的可能性。
+建筑是一门社会艺术的第二个候选原因是，建筑制作过程是彻底而不可避免的社会现象，由社会习俗和安排所创造和管理的社会群体的互动构成。从这个观点来看，建筑的社会性质在于学科的地位是由社会习俗塑造的，这些习俗由建筑师和其他相关人员指定并指导行动。（这个原因直接将建筑的社会性质与其社会影响联系起来，因此与建筑社会学有关；参见 §8.2。）建筑现象是社会的，因为它们是作为合同、会议、公司、研讨会、批评、评委会、项目、竞赛、展览、合作伙伴关系、专业组织、谈判、工作流组织、分工以及建筑师和其他建筑利益相关者的众多其他习惯性和协议性的目的行动和群体的结果。有人可能会反对说，在制度理论中，所有艺术形式都是以这些方式社会的。然而，在艺术世界中，制度理论告诉我们什么是艺术对象，而不是这些对象最初是如何构成的。支持这个候选原因的人必须排除一个天真的建筑情景，即一个没有社会重要参与的孤立建筑师创造作品的可能性。
 
 无论哪种观点都具有时间敏感性。这些参数以及它们如何构成建筑的社会性将随着社会需求、习俗和关系的变化而改变。
 
@@ -336,7 +336,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 * Clarke, Georgia and Paul Crossley (eds.), 2000, *Architecture and Language: Constructing Identity in European Architecture c. 1000–1650*, Cambridge: Cambridge University Press.
 * Currie, Gregory, 1989, *An Ontology of Art*. London: Palgrave Macmillan.
 * Cushman, Robert F. and G. Christian Hedemann, 1995, *Architect and Engineer Liability: Claims Against Design Professionals*, New York: Wiley Law Publications.
-* Danto, Arthur, 1964, “The Artworld”,*The Journal of Philosophy*, 61(19): 571–584.
+* Danto, Arthur, 1964, “The Artworld”, *The Journal of Philosophy*, 61(19): 571–584.
 * –––, 1993, “Responses and Replies”, in Mark Rollins (ed.), *Danto and His Critics*, Oxford: Blackwell, pp. 193–216.
 * Davies, David, 2004, *Art as Performance*. Malden, MA: Blackwell.
 * Davies, Stephen, 1991, *Definitions of Art*, Ithaca, NY: Cornell University Press.
@@ -344,7 +344,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 * –––, 2006, “Aesthetic Judgment, Artworks and Functional Beauty”, *Philosophical Quarterly*, 56(223): 224–241.
 * Day, Henry Noble, 1872/1888, *The Science of Aesthetics, or the nature, kinds, laws, and uses of Beauty*, New York: Putnam, 3rd Edition.
 * De Clercq, Rafael, 2008, “Lopes on the Ontology of Japanese Shrines”, *Journal of Aesthetics and Art Criticism*, 66(2): 193–194.
-* –––, 2009, “Scruton on Rightness of Proportion in Architecture”,*British Journal of Aesthetics*, 49(4): 405–414.
+* –––, 2009, “Scruton on Rightness of Proportion in Architecture”, *British Journal of Aesthetics*, 49(4): 405–414.
 * –––, 2012, “Architecture”, in Anna Christina Ribeiro (ed.), *The Continuum Companion to Aesthetics*, London: Continuum, pp. 201–214.
 * Desargues, Girard, 1642, *La Perspective practique necessaire a tous peintres, sculpteurs, graveurs, architectes, orphevres, brodeurs, tapissiers, et autres se servans du dessein*, Paris: Melchior Tavernier et François Langlois, dit Chartres.
 * Dodd, Julian, 2007, *Works of Music: An Essay in Ontology*, Oxford: Oxford University Press.
@@ -376,7 +376,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 * Gutman, Robert, 1988, *Architectural Practice: A Critical View*, Princeton: Princeton Architectural Press.
 * Guyer, Paul, 2014, “18th Century German Aesthetics” (Spring 2014 Edition), Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, URL = <https://plato.stanford.edu/archives/spr2014/entries/aesthetics-18th-german/>
 * –––, 2011, “Kant and the Philosophy of Architecture”, *Journal of Aesthetics and Art Criticism*, 69: 7–19.
-* Halbwachs, Maurice, 1938,*Population and society: introduction to social morphology* (*Morphologie sociale*, Paris: Librairie Armand Colin), Otis Dudley Duncan and Harold W. Pfautz (trans.), Glencoe, Ill., Free Press, 1960.
+* Halbwachs, Maurice, 1938, *Population and society: introduction to social morphology* (*Morphologie sociale*, Paris: Librairie Armand Colin), Otis Dudley Duncan and Harold W. Pfautz (trans.), Glencoe, Ill., Free Press, 1960.
 * Haldane, John, 1990, “Architecture, Philosophy and the Public World”, *British Journal of Aesthetics*, 30: 207–213.
 * Handler, A. Benjamin, 1970, *Systems Approach to Architecture*, New York: American Elsevier Pub. Co.
 * Hansell, Mike, 2007, *Built by Animals*, Oxford: Oxford University Press.
@@ -416,7 +416,7 @@ Goodman（1985）提出，建筑物之所以具有意义，是因为它们在属
 * Lefebvre, Henri, 1970, *The Urban Revolution* (*La révolution urbaine*, Paris: Gallimard), Robert Bononno (trans.), Minneapolis: University of Minnesota Press, 2003.
 * –––, 1974, *The Production of Space* (*La production de l’espace*, Paris: Anthropos), Donald Nicholson-Smith (trans.), Oxford: Basil Blackwell, 1991.
 * Levinson, Jerrold, 2007, “Artworks as Artifacts”, in Eric Margolis and Stephen Laurence (eds.), *Creations of the Mind: Theories of Artifacts and Their Representation*, Oxford: Oxford University Press, pp. 74–84.
-* Livingston, Paisley, 2011, revised 2013, “History of the Ontology of Art” (Summer 2013 Edition), Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, URL= <[History of the Ontology of Art (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/art-ontology-history/)>
+* Livingston, Paisley, 2011, revised 2013, “History of the Ontology of Art” (Summer 2013 Edition), Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, URL = <[History of the Ontology of Art (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/art-ontology-history/)>
 * Loos, Adolf, 1913, “Ornament and Crime” (“Ornement et crime”, *Cahiers d'aujourd'hui* (5): 247–256), in Ulrich Conrads (ed.), *Programs and Manifestoes on 20th Century Architecture*, Cambridge, MA: The MIT Press, 1970, pp. 19–24.
 * Lopes, Dominic Mciver, 2007, “Shikinen Sengu and the Ontology of Architecture in Japan”, *Journal of Aesthetics and Art Criticism*, 65(1): 77–84.
 * Mallgrave, Harry Francis, 2005, *Modern Architectural Theory: A Historical Survey, 1673–1969*, Cambridge: Cambridge University Press.

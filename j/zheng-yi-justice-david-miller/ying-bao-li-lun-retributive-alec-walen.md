@@ -66,7 +66,7 @@
 
 ### 3.1 应报主义的词源意义
 
-正义学家迪迪埃·法桑（2018 年：47）解释道：
+正义学家迪迪埃 · 法桑（2018 年：47）解释道：
 
 > 应报主义...源自拉丁语...retribuere，由前缀 re-（“作为回报”）和 tribuere（字面意思为“在部落之间分配”）组成。
 
@@ -78,7 +78,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 ### 3.2 正义报应主义
 
-正义报应主义，或简称为“报应主义”，涉及正义和负义的应得主张。正义应得主张认为，作恶者在道义上应该受到惩罚，以对其不当行为进行道义上的回应（有关道义和后果主义维度的讨论，请参见第 4.6 节）。这个主张有强弱两个版本。例如，迈克尔·摩尔（1997 年：87）写道：“报应主义...是指惩罚是由于犯罪者的应得而合理的观点”。杰弗里·墨菲（2007 年：11）更加多元化，写道：“[报应主义者]是指相信对罪犯进行惩罚的主要理由是罪犯应该受到惩罚的人”。报应主义者可能持有更弱的观点，即对于惩罚作恶者而言，除了可能产生的其他后果之外，还存在一些内在的正面价值。（有关报应观点的强度或弱度的三个维度的讨论，请参见伯曼 2016 年）。
+正义报应主义，或简称为“报应主义”，涉及正义和负义的应得主张。正义应得主张认为，作恶者在道义上应该受到惩罚，以对其不当行为进行道义上的回应（有关道义和后果主义维度的讨论，请参见第 4.6 节）。这个主张有强弱两个版本。例如，迈克尔 · 摩尔（1997 年：87）写道：“报应主义...是指惩罚是由于犯罪者的应得而合理的观点”。杰弗里 · 墨菲（2007 年：11）更加多元化，写道：“[报应主义者] 是指相信对罪犯进行惩罚的主要理由是罪犯应该受到惩罚的人”。报应主义者可能持有更弱的观点，即对于惩罚作恶者而言，除了可能产生的其他后果之外，还存在一些内在的正面价值。（有关报应观点的强度或弱度的三个维度的讨论，请参见伯曼 2016 年）。
 
 这种正义应得主张与负义的道义主张相辅相成：那些没有犯错的人不应受到惩罚。这禁止了对那些没有犯罪的人进行惩罚（他们不应受到惩罚），以及对有罪者进行超过其应得的惩罚（即施加不成比例的惩罚）。
 
@@ -114,11 +114,11 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 ### 3.6 应报原理：以同样方式回应
 
-应报原理是拉丁文的报复法律。它与原始的应报概念相连，指定债务应以同样方式偿还。这在圣经的命令中得到体现（一些圣经学者警告应以象征性而非字面意义理解），即“以眼还眼，以牙还牙”（出埃及记 21:23-25；利未记 24:17-20）。康德也以稍有不同的方式支持这种惩罚观念。康德在引用惩罚平等原则时写道：
+应报原理是拉丁文的报复法律。它与原始的应报概念相连，指定债务应以同样方式偿还。这在圣经的命令中得到体现（一些圣经学者警告应以象征性而非字面意义理解），即“以眼还眼，以牙还牙”（出埃及记 21: 23-25；利未记 24: 17-20）。康德也以稍有不同的方式支持这种惩罚观念。康德在引用惩罚平等原则时写道：
 
 > 无论你在人民中对他人施加了不应得的恶行，你就对自己施加了同样的恶行。（1797 [1991: 141]）
 
-因此，偷窃者（根据应报原理）剥夺了自己在任何财产上的安全...[如果]他犯了谋杀罪，他必须死亡。（1797 [1991: 142]）
+因此，偷窃者（根据应报原理）剥夺了自己在任何财产上的安全...[如果] 他犯了谋杀罪，他必须死亡。（1797 [1991: 142]）
 
 > 法律报应提供了一个有争议的比例原则（有关法律报应作为比例惩罚措施的更多信息，请参阅补充文件中的第 2 节“对应报比例概念的挑战”）。但是，尽管应报正义包括对犯罪的惩罚与犯罪成比例的承诺，但它不能简化为比例的衡量标准（Moore 1997: 88; Husak 2019）。
 
@@ -130,13 +130,13 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 ### 3.8 升华的复仇
 
-应报主义也经常与复仇或对复仇的渴望混淆。但这两个概念不应混淆。罗伯特·诺齐克在两者之间划分了五个区别，包括复仇是个人的，而应报则不是；复仇涉及特定的情感色彩，即对他人的痛苦感到愉悦，而应报要么不涉及情感色彩，要么涉及另一种情感色彩，即对正义得到伸张感到愉悦。（1981 年：367）
+应报主义也经常与复仇或对复仇的渴望混淆。但这两个概念不应混淆。罗伯特 · 诺齐克在两者之间划分了五个区别，包括复仇是个人的，而应报则不是；复仇涉及特定的情感色彩，即对他人的痛苦感到愉悦，而应报要么不涉及情感色彩，要么涉及另一种情感色彩，即对正义得到伸张感到愉悦。（1981 年：367）
 
 > 这些意味着，即使没有人想对一个作恶者进行复仇，仍然可能有应报的理由来惩罚她（摩尔 1997 年：89；对于这些区别的怀疑态度，请参见法桑 2018 年：36）。
 
-应报主义也经常与复仇或对复仇的渴望混淆。但这两个概念不应混淆。罗伯特·诺齐克在两者之间划分了五个区别，包括复仇是个人的，而应报则不是；复仇涉及特定的情感色彩，即对他人的痛苦感到愉悦，而应报要么不涉及情感色彩，要么涉及另一种情感色彩，即对正义得到伸张感到愉悦。（1981 年：367）
+应报主义也经常与复仇或对复仇的渴望混淆。但这两个概念不应混淆。罗伯特 · 诺齐克在两者之间划分了五个区别，包括复仇是个人的，而应报则不是；复仇涉及特定的情感色彩，即对他人的痛苦感到愉悦，而应报要么不涉及情感色彩，要么涉及另一种情感色彩，即对正义得到伸张感到愉悦。（1981 年：367）
 
-这些区别并不意味着对报复的欲望在激发人们重视应报正义方面没有动机作用。也许应报正义是对报复渴望的升华、普遍化版本。然而，这两者是不同的。正如乔治·弗莱彻（2000 年：417）所写，应报主义“与复仇或报复无关，就像爱与欲望无关一样”。
+这些区别并不意味着对报复的欲望在激发人们重视应报正义方面没有动机作用。也许应报正义是对报复渴望的升华、普遍化版本。然而，这两者是不同的。正如乔治 · 弗莱彻（2000 年：417）所写，应报主义“与复仇或报复无关，就像爱与欲望无关一样”。
 
 ## 4. 问题范围
 
@@ -146,7 +146,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 沙漠已被分析为一个三方关系，涉及到应得某物的人、她应得的东西以及她应得之因。可以将其分别称为应得主体、应得客体和应得基础（Feinberg 1970；Berman 2011：437）。还应注意第四个维度：能够适当地给予或有责任给予应得主体她应得之物的人或人们。我称这些人为应得代理人。他们提出了一系列不同的问题，将在第 4.2 节中讨论。
 
-在讨论应得的三个部分之前，重要的是要解决一个观点，即应得基本上是一个非制度化的概念。正如乔尔·费恩伯格所写：
+在讨论应得的三个部分之前，重要的是要解决一个观点，即应得基本上是一个非制度化的概念。正如乔尔 · 费恩伯格所写：
 
 > 沙漠是一个道德概念，因为它在逻辑上先于和独立于公共机构及其规则之前。（费恩伯格 1970 年：87）
 
@@ -168,7 +168,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 物理定律可能会被认为意味着我们对于我们的“选择”没有更多的自由和责任，因此也没有更多的能力去承受惩罚，就像任何其他物体一样，无论是一棵倒下的树还是一只野生动物。我们可以通过辩称，虽然我们是物质存在，但我们大多数人都有权衡特定选择的理由和反对理由的能力，并且有能力做出选择——这些是成为负有责任的行为者、如果他们选择做错事情，就应该受到惩罚的关键能力（Fischer 和 Ravizza 1998；Morse 2004；Nadelhoffer 2013）。但这会引来回应，即使在正常功能的成年人中，对选择的责任归属也是一种幻觉（Smilansky 2000）。经过更仔细的观察，行动者消失了，我们所剩下的只是一个完全符合基础物理定律的大脑对刺激的反应（Kelly 2009；Greene＆Cohen 2011；Vihvelin 2003 [2018]）。请参阅关于相容主义的条目，了解对这一论点的一系列可能回应。
 
-假设错误行为者至少有时候应该受到惩罚，下一个问题是：为什么认为其他人可能因为他们应该受到惩罚而对他们进行惩罚？大卫·多林科（1991）指出，某人在道义上应该得到某物与其他人有权利给予她之间存在着区别。在一个例子中，他设想一个父亲（变态地）将几乎所有的遗产给了他的败类儿子，而只给了他的爱戴和尊敬的儿子一点点。我们可能认为这个爱戴的儿子至少应该继承他父亲财产的一半，但这并不授权任何人从另一个儿子那里拿走财产给予他（1991: 544）。更一般地说，仅仅因为某人应得某物并不能证明做一些本来会侵犯权利的事情是合理的。此外，由于人们通常有权利不受到惩罚，仅仅因为应得某物也不应该证明对他们进行惩罚。
+假设错误行为者至少有时候应该受到惩罚，下一个问题是：为什么认为其他人可能因为他们应该受到惩罚而对他们进行惩罚？大卫 · 多林科（1991）指出，某人在道义上应该得到某物与其他人有权利给予她之间存在着区别。在一个例子中，他设想一个父亲（变态地）将几乎所有的遗产给了他的败类儿子，而只给了他的爱戴和尊敬的儿子一点点。我们可能认为这个爱戴的儿子至少应该继承他父亲财产的一半，但这并不授权任何人从另一个儿子那里拿走财产给予他（1991: 544）。更一般地说，仅仅因为某人应得某物并不能证明做一些本来会侵犯权利的事情是合理的。此外，由于人们通常有权利不受到惩罚，仅仅因为应得某物也不应该证明对他们进行惩罚。
 
 在应报框架内对这一批评做出最有希望的回应方式是区分两种应得：一种是对于什么是好结果的看法所对应的应得，另一种是关于权利的应得（Hill 1999: 425–426; Berman 2008: 271–281）。Dolinko 的例子涉及到第一种应得。但是，鉴于应报应得假设了放弃不受惩罚权利，有一些代理人有权力进行惩罚是不足为奇的。他们是谁将在下一节中讨论。
 
@@ -176,7 +176,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 假设违法者应该受到惩罚，谁有权力施加惩罚？换句话说，谁是适当的应得代理人？可以像霍布斯和洛克那样，从自然状态下受害者有权惩罚的观点开始，并且建立国家的原因包括潜在受害者将这一权利转让给国家的原因（霍布斯 1651 年：第 14 章和第 18 章；洛克 1690 年：第 9 章）。
 
-对这种观点的一个担忧是它可能授权私刑。社会契约理论家可以通过强调人们不仅委托而且转让了惩罚权来处理这个问题，只保留了在轻罪惩罚的情况下的残余惩罚权，比如在刑事司法系统之外进行的惩罚，或者在国家失败或无法行动的情况下。然而，像安东尼·达夫（2011 年：6）这样的社群主义者反对即使是残余的私刑权。达夫认为，作为整个社区代表的国家是唯一合适的惩罚者，至少在犯罪的背景下（对于更强硬的立场，请参见黑格尔 1821 年：§102）。
+对这种观点的一个担忧是它可能授权私刑。社会契约理论家可以通过强调人们不仅委托而且转让了惩罚权来处理这个问题，只保留了在轻罪惩罚的情况下的残余惩罚权，比如在刑事司法系统之外进行的惩罚，或者在国家失败或无法行动的情况下。然而，像安东尼 · 达夫（2011 年：6）这样的社群主义者反对即使是残余的私刑权。达夫认为，作为整个社区代表的国家是唯一合适的惩罚者，至少在犯罪的背景下（对于更强硬的立场，请参见黑格尔 1821 年：§102）。
 
 其他人对私刑持有不同的观点，即任何人都有权对违法者进行惩罚。一些没收论者认为，对于那些已经丧失了不受惩罚权利的人的惩罚权的限制仅仅是政治道德的问题（韦尔曼 2017 年：30-31）。很难理解为什么一个应得理论家不能采取同样的立场。事实上，一些应报主义者认为，私刑者所做的事情至少应该计入某人应得的总惩罚（胡萨克 1990 年：441-442；但请参见科尔伯 2013 年（在补充文件《对应报比例概念的挑战》第 3 节中讨论）对私刑者“惩罚”的逻辑蕴涵的挑战）。
 
@@ -198,11 +198,11 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 报应主义者认为应该区分应得的痛苦和非应得的痛苦。虽然后者本质上是坏的，前者，至少如果由适当的惩罚性应得行为者施加，是本质上是好的（黑格尔 1821：§99；扎伊伯特 2018：第 2 章和第 3 章；亚历山大和费尔赞 2018：184-185）。就像在亲人去世时悲伤是好的和道德有价值一样，当一个罪犯经历痛苦时，尤其是以适当与犯下特定错误相关的方式经历痛苦时，痛苦可能是好的和道德有价值的。当然，如果没有造成痛苦的场合会更好，但是鉴于已经犯下了错误，对应的应得痛苦比不这样做要好。（关于另一个具有变量规范价值的例子，请参见康德的最高善的教义：与美德成比例的幸福。康德 1788 [1956：115]。）
 
-维克多·塔德罗斯（2013：261）对哈特的反驳提出了一个重要的担忧，即如果一个人已经在受苦，那么如果这个人从事不正当行为，情况可能会变得更好，从而使得痛苦有价值。避免这种不希望的含义的一种方法是说，错误的负值将超过痛苦的任何增加的价值，并且即使它在某种程度上改善了价值图景，错误仍然在道义上被禁止（参见亚历山大和费尔赞 2018：187-188）。但是，这个回答仍然保持了这样的思想，即如果一个受苦的人犯罪，仍然会发生一些有价值的事情：她的痛苦至少现在适合（参见塔德罗斯 2015：401-403）。就报应主义者而言，如果他们认为这是一个不希望的含义，他们有理由说，只有在为所犯错误而施加痛苦时，痛苦才有价值。这种联系是下一节的关注点。
+维克多 · 塔德罗斯（2013：261）对哈特的反驳提出了一个重要的担忧，即如果一个人已经在受苦，那么如果这个人从事不正当行为，情况可能会变得更好，从而使得痛苦有价值。避免这种不希望的含义的一种方法是说，错误的负值将超过痛苦的任何增加的价值，并且即使它在某种程度上改善了价值图景，错误仍然在道义上被禁止（参见亚历山大和费尔赞 2018：187-188）。但是，这个回答仍然保持了这样的思想，即如果一个受苦的人犯罪，仍然会发生一些有价值的事情：她的痛苦至少现在适合（参见塔德罗斯 2015：401-403）。就报应主义者而言，如果他们认为这是一个不希望的含义，他们有理由说，只有在为所犯错误而施加痛苦时，痛苦才有价值。这种联系是下一节的关注点。
 
 #### 4.3.2 抽象中的苦难与通过惩罚的苦难
 
-一些报应主义者认为，不论是什么原因导致，错误行为都应该让行为人承受苦难。正如米切尔·伯曼（Mitchell Berman）所写（2013 年：87），“主导的报应主义观点”是“错误行为者应该‘承受’苦难”（参见扎伊伯特（Zaibert）2013 年：43 n.19；但参见克莱尼格（Kleinig）1973 年：67，讨论施加苦难的价值）。尽管伯曼自己并没有完全接受这个观点，但他接受了一个相近的观点，即错误行为者应该“比原本的生活过得更糟糕”（2013 年：104）。
+一些报应主义者认为，不论是什么原因导致，错误行为都应该让行为人承受苦难。正如米切尔 · 伯曼（Mitchell Berman）所写（2013 年：87），“主导的报应主义观点”是“错误行为者应该‘承受’苦难”（参见扎伊伯特（Zaibert）2013 年：43 n.19；但参见克莱尼格（Kleinig）1973 年：67，讨论施加苦难的价值）。尽管伯曼自己并没有完全接受这个观点，但他接受了一个相近的观点，即错误行为者应该“比原本的生活过得更糟糕”（2013 年：104）。
 
 如果一个人具有报应的直觉，那么认为一个错误行为者（尤其是犯下严重错误的人）过得悲惨比过得幸福更好是有一定吸引力的。如果一个人有报应的冲动，那么认为她可能“逃脱惩罚”是令人恼火的。然而，重要的是要区分这样一种想法：惩罚一个错误行为者是为了让她不能“逃脱惩罚”，与这样一种想法：她过得悲惨比过得幸福更好，即使这种苦难不是通过惩罚施加的。后者的想法可能源于与报应主义相同的情感泉源。但一个报应主义者——至少是一个拒绝幻想上帝作为宇宙正义的施加者施加这种苦难的人——不应该以此为基础来构建她对报应主义的理解。
 
@@ -210,7 +210,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 #### 4.3.3 主观苦难或预计会引起苦难的措施
 
-亚当·科尔伯（Adam Kolber），一个非应报主义者，认为应报主义者不能忽视惩罚的主观体验。
+亚当 · 科尔伯（Adam Kolber），一个非应报主义者，认为应报主义者不能忽视惩罚的主观体验。
 
 > 被应报惩罚的人必须对惩罚感到厌恶，而惩罚的严重程度至少部分取决于他对其的厌恶程度。(2009: 215)
 
@@ -220,7 +220,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 然而，正如科尔伯所指出的那样，对于应报主义者来说，适应这种变化在直觉上是有问题的。例如，对于那些在监狱中遭受很多痛苦的人来说，这将要求判处较短的刑期；而对于那些发现监狱生活轻松应对的人来说，则需要更加严厉的对待。这与当前的实践相去甚远。（对于同意并认为实践应该改革的应报主义者，请参见亚历山大和费尔赞 2018 年：199。）
 
-许多应报主义者不同意科尔伯的观点，即特定个体的主观痛苦体验对他们来说应该是一个重要的关注点。正如安德鲁·冯·赫什和安德鲁·阿什沃思所说：
+许多应报主义者不同意科尔伯的观点，即特定个体的主观痛苦体验对他们来说应该是一个重要的关注点。正如安德鲁 · 冯 · 赫什和安德鲁 · 阿什沃思所说：
 
 > 刑罚的繁重程度并不是由任何可辨认的感觉所决定；相反，它取决于这些感觉对人们合法利益的干扰程度。
 
@@ -247,7 +247,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 （有关对这一论点早期版本的回应，请参见科尔伯 2019 年：584-586。）
 
-如果人们在某种程度上对自己的过度敏感负有责任，那么造成过度痛苦可能比起初看起来更少问题——可以比较罗尔斯认为人们对自己的偏好负有责任的观点（罗尔斯 1975 年[1999 年：261]）。
+如果人们在某种程度上对自己的过度敏感负有责任，那么造成过度痛苦可能比起初看起来更少问题——可以比较罗尔斯认为人们对自己的偏好负有责任的观点（罗尔斯 1975 年 [1999 年：261]）。
 
 话虽如此，国家应该照顾那些会因为正常惩罚而遭受极端创伤的人。例如，对于极度对寒冷敏感的人，应该提供额外的衣物、毯子或者加热器。但这并不意味着惩罚者应该试图总体上调整犯罪者的主观痛苦体验与犯罪的比例相符。
 
@@ -257,7 +257,7 @@ Fassin 的观点是，根本意义可以追溯到类似侵权的想法，即当�
 
 一个复仇主义者如何能够如此关注不成比例的惩罚，同时又容忍已知的过度痛苦的施加（见第 4.3.3 节），这可能让人感到疑惑。但是这两者之间存在重要的区别：施加惩罚的行为者可能会得知某个特定个体在某种惩罚中遭受的痛苦超过了大多数人，但她应该将其视为施加相称惩罚的不幸副作用；然而，她必须努力只施加相称的惩罚。
 
-处罚低于应得的可能性在规范上也具有重要意义，但它提供了一个更弱的约束。首先，它似乎没有特定冤屈任何人（参见 Duus-Otterström 2013: 472–475）。有人可能认为，如果不惩罚违法者，犯罪受害者就会受到冤屈。但是，认为不惩罚违法者会冤屈受害者的观点混淆了以受害者为中心的复仇心理和以行为者为中心的应报主义：应报主义关注的是给予违法者应得的惩罚（参见 Paul Robinson 2008 年关于复仇心理和义务论概念的对比）。其次，在任何允许辩诉交易的刑事司法体系中，都必须容忍低于应得的故意偏差。Russell Christopher（2003 年）认为应报主义者不能接受辩诉交易。但他的论证基于一些不正确的假设，包括“[应报主义]在机会出现时对有罪的违法者施以惩罚的绝对义务”（2003 年: 101），以及对违法者施以低于其应得的惩罚违反了她的“受罚权”（2003 年: 128–129）。以上两点都已被否定。Christopher 正确指出，应报主义者希望平等有罪的人受到相同的对待（2003 年: 131）。但这可能仅仅是因为他们希望以某种非比较的方式给予人们应得的待遇（Alexander and Ferzan 2018: 181），而不是因为他们关心平等本身。
+处罚低于应得的可能性在规范上也具有重要意义，但它提供了一个更弱的约束。首先，它似乎没有特定冤屈任何人（参见 Duus-Otterström 2013: 472–475）。有人可能认为，如果不惩罚违法者，犯罪受害者就会受到冤屈。但是，认为不惩罚违法者会冤屈受害者的观点混淆了以受害者为中心的复仇心理和以行为者为中心的应报主义：应报主义关注的是给予违法者应得的惩罚（参见 Paul Robinson 2008 年关于复仇心理和义务论概念的对比）。其次，在任何允许辩诉交易的刑事司法体系中，都必须容忍低于应得的故意偏差。Russell Christopher（2003 年）认为应报主义者不能接受辩诉交易。但他的论证基于一些不正确的假设，包括“[应报主义] 在机会出现时对有罪的违法者施以惩罚的绝对义务”（2003 年: 101），以及对违法者施以低于其应得的惩罚违反了她的“受罚权”（2003 年: 128–129）。以上两点都已被否定。Christopher 正确指出，应报主义者希望平等有罪的人受到相同的对待（2003 年: 131）。但这可能仅仅是因为他们希望以某种非比较的方式给予人们应得的待遇（Alexander and Ferzan 2018: 181），而不是因为他们关心平等本身。
 
 这留下了两个基本问题，一个比例原则的解释必须回答：我们应该如何衡量错误的严重性，以及惩罚如何“成比例”？这些问题在附加文件中得到了解答：对应报比例概念的挑战。
 
@@ -290,7 +290,7 @@ Berman（2011）认为，应报主义不仅可以被理解为具有后果论的�
 
 谴责无疑是两者中较容易辩护的。谴责错误行为者作为一个负责任的行为者是尊重她的，同时也是尊重受害者（如果有的话）作为一个应该受到尊重的权利主体。因此，正当化应报主义的核心挑战在于辩护严厉对待同样是应得的主张。
 
-正如迈克尔·摩尔（1997 年：106）所指出的，有两种一般的策略可以为应报的严厉对待提供正当理由：（1）展示这种对待“源于我们认为是真实的某些更一般的正义原则”，以及（2）展示它与“最能解释我们认为是真实的那些更具体判断的惩罚理论”相符。这些将按相反的顺序处理。
+正如迈克尔 · 摩尔（1997 年：106）所指出的，有两种一般的策略可以为应报的严厉对待提供正当理由：（1）展示这种对待“源于我们认为是真实的某些更一般的正义原则”，以及（2）展示它与“最能解释我们认为是真实的那些更具体判断的惩罚理论”相符。这些将按相反的顺序处理。
 
 ### 5.1 符合我们的审慎判断
 
@@ -304,7 +304,7 @@ Moore（1997：145）对这种批评有一个有趣的回应。他转向第一�
 
 这是一个修辞上很有力的举动，但仍然可以提出四个异议。首先，它假设人们可以从第一人称的内疚和自我惩罚中推断出第三人称的责备和惩罚的适当性。但有些事情一个人应该对自己做，而别人不应该同样自由地对待她（Duff 2007：383；Zaibert 2018：94-95）。其次，它可能只反映了一个没有犯下严重罪行的人的想象力，而不是一个知道自己犯下严重罪行并试图与自己和解的人的洞察力。第三，它将感到内疚或施加内疚的适当性与对内疚加以惩罚的适当性等同起来。但为什么内疚本身不足够（参见 Husak 2016：59-60）？第四，人们可以质疑甚至内疚的反应是否是道德上正确的。它难道不是一种疾病，如尼采（1887 [2006：60]）所说的，“坏良心，...自我侵犯的意愿”吗？
 
-考虑一下杰弗里·墨菲（2007：18）作为一个成熟的哲学家，回顾他自己为辩护报复主义所做的努力。
+考虑一下杰弗里 · 墨菲（2007：18）作为一个成熟的哲学家，回顾他自己为辩护报复主义所做的努力。
 
 > 我通过应报正义来解决问题和恢复平衡的热情，可能部分是尼采所说的“斜视的灵魂”的延伸——一个店主或会计师的灵魂。如果我是一个更善良、更不愤怒、更慷慨和伟大的灵魂的人，强有力的应报主义是否会像以前一样吸引我？我怀疑不会。
 
@@ -312,7 +312,7 @@ Moore（1997：145）对这种批评有一个有趣的回应。他转向第一�
 
 ### 5.2 公平和搭便车
 
-可以说，在过去的五十年左右中，为了证明应报主义的最流行的理论框架是赫伯特·莫里斯（Herbert Morris）对公平性的呼吁（1968 年）。这个论证从这样的思考开始：生活在社会中对我们互利是有益的，而为了生活在社会中，我们必须接受对我们行为的某些限制。然后，它继续提出这样的主张：
+可以说，在过去的五十年左右中，为了证明应报主义的最流行的理论框架是赫伯特 · 莫里斯（Herbert Morris）对公平性的呼吁（1968 年）。这个论证从这样的思考开始：生活在社会中对我们互利是有益的，而为了生活在社会中，我们必须接受对我们行为的某些限制。然后，它继续提出这样的主张：
 
 > 即使一个人可能有能力行使自我克制，但如果他没有这样做...他放弃了其他人自愿承担的负担，从而获得了其他那些自我克制的人所没有的优势（1968 年：33）。
 
@@ -332,7 +332,7 @@ Morris 的观点的另一种替代解释是，相关的好处是生活在一个�
 
 Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（至少那些有受害者的人）对受害者的冒犯，而不仅仅是对整个社区的冒犯。她认为，惩罚必须以某种方式消除这种冒犯。正如她所说：
 
-> 如果我和我的攻击者的价值相等，那么在我受害之后，这一点必须得到体现。通过使我成为受害者，错误行为者宣称自己在我面前处于高位，作为一位被允许为自己的目的而使用我的上级。一个虚假的道德主张已经被提出...报复主义者要求纠正这个虚假主张。主人必须被羞辱，以显示他不是受害者的主人。...[R]报复性惩罚是错误行为者在受害者（直接或间接通过受害者的代理人，例如国家）手中的失败，象征着错误行为者和受害者的正确相对价值。这是一个在概念上必需的符号，以在面对对其挑战时重新确认受害者的平等价值。（Murphy＆Hampton 1988：125-126）
+> 如果我和我的攻击者的价值相等，那么在我受害之后，这一点必须得到体现。通过使我成为受害者，错误行为者宣称自己在我面前处于高位，作为一位被允许为自己的目的而使用我的上级。一个虚假的道德主张已经被提出...报复主义者要求纠正这个虚假主张。主人必须被羞辱，以显示他不是受害者的主人。...[R] 报复性惩罚是错误行为者在受害者（直接或间接通过受害者的代理人，例如国家）手中的失败，象征着错误行为者和受害者的正确相对价值。这是一个在概念上必需的符号，以在面对对其挑战时重新确认受害者的平等价值。（Murphy＆Hampton 1988：125-126）
 
 这个理论也存在严重的问题。首先，为什么要认为一种错误行为严重挑战了所有人的平等道德地位？这可能意味着错误行为者认为自己高于一般法律或特定的受害者。但他只是错了。除非有人们会相信他是对的危险，否则不清楚为什么有迫切需要纠正他。
 
@@ -344,7 +344,7 @@ Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（�
 
 ### 5.4 传播理论
 
-安东尼·达夫（2001 年和 2011 年）提出了一种传播理论，根据这种理论，惩罚是必要的，以传达对不当行为的谴责。可以提出反对意见，认为他的理论过于狭窄，无法为报复主义提供一个正当性框架，因为它被构建为一种针对由统治一个由平等公民组成的社区的国家进行的法律惩罚的理论。（马克尔 2011 年开发的类似理论也适用于此。）但可以说，它可以扩展到任何社区。
+安东尼 · 达夫（2001 年和 2011 年）提出了一种传播理论，根据这种理论，惩罚是必要的，以传达对不当行为的谴责。可以提出反对意见，认为他的理论过于狭窄，无法为报复主义提供一个正当性框架，因为它被构建为一种针对由统治一个由平等公民组成的社区的国家进行的法律惩罚的理论。（马克尔 2011 年开发的类似理论也适用于此。）但可以说，它可以扩展到任何社区。
 
 抛开狭隘性问题，还有两个问题需要解决。第一个问题是，对于达夫努力保护的社区来说，谴责犯罪者是否是有益的。正如莱西和皮卡德（2015a）所说，用谴责的方式玷污罪犯会使他们与社会疏离（而他们很可能已经疏离了），并削弱他们最终认为自己可以得到救赎的潜力。对于这个担忧，达夫可能可以回应说，他所指的谴责形式仅仅是将犯罪者视为对其犯罪行为负责任。
 
@@ -354,7 +354,7 @@ Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（�
 
 他给出的一个答案是：
 
-> [P]enal hard treatment [is] an essential aspect of the enterprise of moral communication itself. Punishment, on this view, should aim not merely to communicate censure to the offender, but to persuade the offender to recognize and repent the wrong he has done, … and to make apologetic reparation to those whom he wronged. [The] hard treatment aspects [of his punishment], the burden it imposes on him, should serve both to assist the process of repentance and reform, by focusing his attention on his crime and its implications, and as a way of making the apologetic reparation that he owes. (2013)
+> [P] enal hard treatment [is] an essential aspect of the enterprise of moral communication itself. Punishment, on this view, should aim not merely to communicate censure to the offender, but to persuade the offender to recognize and repent the wrong he has done, … and to make apologetic reparation to those whom he wronged. [The] hard treatment aspects [of his punishment], the burden it imposes on him, should serve both to assist the process of repentance and reform, by focusing his attention on his crime and its implications, and as a way of making the apologetic reparation that he owes. (2013)
 
 然而，正义理论者很清楚，为什么“刑罚的严厉对待是沟通企业的必要方面”并不明确（2013，强调添加）。事实上，Lacey 和 Pickard（2015a）认为，严厉的对待实际上干扰了沟通企业。
 
@@ -370,53 +370,53 @@ Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（�
 
 ## Bibliography
 
-* Alexander, Larry, 2013, “You Got What You Deserved”, *Criminal Law and Philosophy*, 7(2): 309–319. doi:10.1007/s11572-012-9159-8
-* Alexander, Larry and Kimberly Kessler Ferzan, 2018, *Reflections on Crime and Culpability: Problems and Puzzles*, Cambridge: Cambridge University Press. doi:10.1017/9781316672181
-* Alexander, Larry, Kimberly Kessler Ferzan, and Stephen J. Morse, 2009, *Crime and Culpability: A Theory of Criminal Law*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511804595
-* Asp, Petter, 2013, “Preventionism and Criminalization of Nonconsummate Offenses”, in *Prevention and the Limits of the Criminal Law*, Andrew Ashworth, Lucia Zedner, and Patrick Tomlin (eds), Oxford: Oxford University Press, 23–46. doi:10.1093/acprof:oso/9780199656769.003.0003
+* Alexander, Larry, 2013, “You Got What You Deserved”, *Criminal Law and Philosophy*, 7(2): 309–319. doi: 10.1007/s11572-012-9159-8
+* Alexander, Larry and Kimberly Kessler Ferzan, 2018, *Reflections on Crime and Culpability: Problems and Puzzles*, Cambridge: Cambridge University Press. doi: 10.1017/9781316672181
+* Alexander, Larry, Kimberly Kessler Ferzan, and Stephen J. Morse, 2009, *Crime and Culpability: A Theory of Criminal Law*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511804595
+* Asp, Petter, 2013, “Preventionism and Criminalization of Nonconsummate Offenses”, in *Prevention and the Limits of the Criminal Law*, Andrew Ashworth, Lucia Zedner, and Patrick Tomlin (eds), Oxford: Oxford University Press, 23–46. doi: 10.1093/acprof: oso/9780199656769.003.0003
 * Bazelon, David L., 1976, “The Morality of the Criminal Law”, *Southern California Law Review*, 49: 385–405.
-* Berman, Mitchell N., 2008, “Punishment and Justification”, *Ethics*, 118(2): 258–290. doi:10.1086/527424
-* –––, 2011, “Two Kinds of Retributivism”, in *Philosophical Foundations of Criminal Law*, R.A. Duff and Stuart Green (eds.), New York: Oxford University Press, 433–457. doi:10.1093/acprof:oso/9780199559152.003.0019
+* Berman, Mitchell N., 2008, “Punishment and Justification”, *Ethics*, 118(2): 258–290. doi: 10.1086/527424
+* –––, 2011, “Two Kinds of Retributivism”, in *Philosophical Foundations of Criminal Law*, R.A. Duff and Stuart Green (eds.), New York: Oxford University Press, 433–457. doi: 10.1093/acprof: oso/9780199559152.003.0019
 * –––, 2012, “The Justification of Punishment”, in *The Routledge Companion to Philosophy of Law*, Andrei Marmor (ed.), New York, Routledge Press, 141–156.
-* –––, 2013, “Rehabilitating Retributivism”, *Law and Philosophy*, 32(1): 83–108. doi:10.1007/s10982-012-9146-1
-* –––, 2016, “Modest Retributivism”, in Ferzan and Morse 2016: 35–48. doi:10.1093/acprof:oso/9780198703242.003.0003
+* –––, 2013, “Rehabilitating Retributivism”, *Law and Philosophy*, 32(1): 83–108. doi: 10.1007/s10982-012-9146-1
+* –––, 2016, “Modest Retributivism”, in Ferzan and Morse 2016: 35–48. doi: 10.1093/acprof: oso/9780198703242.003.0003
 * Bloom, Paul, 2013, *Just Babies: The Origins of Good and Evil*, New York: Crown Publishers.
-* Boonin, David, 2008, *The Problem of Punishment*, New York: Cambridge University Press. doi:10.1017/CBO9780511819254
-* Braithwaite, John and Philip Pettit, 1992, *Not Just Deserts: A Republican Theory of Criminal Justice*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198240563.001.0001
+* Boonin, David, 2008, *The Problem of Punishment*, New York: Cambridge University Press. doi: 10.1017/CBO9780511819254
+* Braithwaite, John and Philip Pettit, 1992, *Not Just Deserts: A Republican Theory of Criminal Justice*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198240563.001.0001
 * Bronsteen, John, Christopher Buccafusco, and Jonathan Masur, 2009, “Happiness and Punishment”, *University of Chicago Law Review*, 76(3): 1037–1081.
 * Cahill, Michael T., 2011, “Punishment Pluralism”, in White 2011: 25–48.
 * Christopher, Russell L., 2002, “Deterring Retributivism: The Injustice of ‘Just’ Punishment”, *Northwestern University Law Review*, 96(3): 843–976.
 * –––, 2003, “The Prosecutor's Dilemma: Bargains and Punishments”, *Fordham Law Review*, 72: 93–168.
-* Cornford, Andrew, 2017, “Rethinking the Wrongness Constraint on Criminalisation”, *Law and Philosophy*, 36(6): 615–649. doi:10.1007/s10982-017-9299-z
-* Davis, Michael, 1993, “Criminal Desert and Unfair Advantage: What’s the Connection?”, *Law and Philosophy*, 12(2): 133–156. doi:10.1007/BF02346476
+* Cornford, Andrew, 2017, “Rethinking the Wrongness Constraint on Criminalisation”, *Law and Philosophy*, 36(6): 615–649. doi: 10.1007/s10982-017-9299-z
+* Davis, Michael, 1993, “Criminal Desert and Unfair Advantage: What’s the Connection?”, *Law and Philosophy*, 12(2): 133–156. doi: 10.1007/BF02346476
 * Delgado, Richard, 1985, “‘Rotten Social Background’: Should the Criminal Law Recognize a Defense of Severe Environmental Deprivation?”, *Law and Inequality*, 3: 9–90.
 * –––, 2011, “The Wretched of the Earth”, *Alabama Civil Rights and Civil Liberties Law Review*, 2: 1–22.
 * Dimock, Susan, 1997, “Retributivism and Trust”, *Law and Philosophy*, 16: 37–62.
-* Dolinko, David, 1991, “Some Thoughts About Retributivism”, *Ethics*, 101(3): 537–559. doi:10.1086/293316
-* Duff, R. Antony, 1996, *Criminal Attempts*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198262688.001.0001
+* Dolinko, David, 1991, “Some Thoughts About Retributivism”, *Ethics*, 101(3): 537–559. doi: 10.1086/293316
+* Duff, R. Antony, 1996, *Criminal Attempts*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198262688.001.0001
 * –––, 2001, *Punishment, Communication, and Community*, New York: Oxford University Press.
 * –––, 2007, “The Intrusion of Mercy”, *Ohio State Journal of Criminal Law* 4: 360–387.
 * –––, 2011, “Retrieving Retributivism”, in White 2011: 3–24.
 * –––, 2013, “Legal Punishment”, *The Stanford Encyclopedia of Philosophy* (Summer 2013 Edition), Edward N. Zalta (ed.), URL = [Legal Punishment (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/legal-punishment/).
-* –––, 2018, *The Realm of Criminal Law*, New York: Oxford University Press. doi:10.1093/oso/9780199570195.001.0001
-* Duus-Otterström, Göran, 2013, “Why Retributivists Should Endorse Leniency in Punishment”, *Law and Philosophy*, 32(4): 459–483. doi:10.1007/s10982-012-9147-0
-* Edmundson, William A., 2002, “Afterword: Proportionality and the Difference Death Makes”, *Criminal Justice Ethics*, 21(2): 40–43. doi:10.1080/0731129X.2002.9992128
-* Ewing, Benjamin, 2018, “Recent Work on Punishment and Criminogenic Disadvantage”, *Law and Philosophy*, 37(1): 29–68. doi:10.1007/s10982-017-9305-5
+* –––, 2018, *The Realm of Criminal Law*, New York: Oxford University Press. doi: 10.1093/oso/9780199570195.001.0001
+* Duus-Otterström, Göran, 2013, “Why Retributivists Should Endorse Leniency in Punishment”, *Law and Philosophy*, 32(4): 459–483. doi: 10.1007/s10982-012-9147-0
+* Edmundson, William A., 2002, “Afterword: Proportionality and the Difference Death Makes”, *Criminal Justice Ethics*, 21(2): 40–43. doi: 10.1080/0731129X.2002.9992128
+* Ewing, Benjamin, 2018, “Recent Work on Punishment and Criminogenic Disadvantage”, *Law and Philosophy*, 37(1): 29–68. doi: 10.1007/s10982-017-9305-5
 * Ezorsky, Gertrude, 1972, “The Ethics of Punishment”, in G. Ezorsky (ed.), *Philosophical Perspectives on Punishment*, Albany, NY: State University of New York Press.
 * Fassin, Didier, 2018, *The Will to Punish*, New York: Oxford University Press.
 * Feinberg, Joel, 1970, *Doing and Deserving: Essays in the Theory of Responsibility*, Princeton, NJ: Princeton University Press.
 * –––, 1995, “Equal Punishment for Failed Attempts; Some Bad but Instructive Arguments Against It”, *Arizona Law Review*, 37: 117–133.
-* Ferzan, Kimberly Kessler and Stephen J. Morse (eds.), 2016, *Legal, Moral, and Metaphysical Truths: The Philosophy of Michael S. Moore*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198703242.001.0001
+* Ferzan, Kimberly Kessler and Stephen J. Morse (eds.), 2016, *Legal, Moral, and Metaphysical Truths: The Philosophy of Michael S. Moore*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198703242.001.0001
 * Finkelstein, Claire, 2004, “A Contractarian Approach to Punishment”, in William A. Edmundson and Martin P. Golding (eds.) *The Blackwell Guide to the Philosophy of Law and Legal Theory*, Malden, MA: Blackwell Publishing Ltd, 207–220.
-* Fischer, John Martin and Mark Ravizza, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511814594
+* Fischer, John Martin and Mark Ravizza, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511814594
 * Flanders, Chad, 2010, “Retribution and Reform”, *Maryland Law Review*, 70(1): 87–140.
 * Fletcher, George P., 2000, *Rethinking Criminal Law*, New York: Oxford University Press.
 * Frase, Richard S., 2005, “Punishment Purposes”, *Stanford Law Review*, 58: 67–83.
 * –––, 2011, “Limiting Retributivism”, in Tonry 2011: 255–263.
 * French, Peter A., 1979, “The Corporation as a Moral Person”, *American Philosophical Quarterly*, 16(3): 207–215.
-* Gardner, John, 1998, “The Gist of Excuses”, *Buffalo Criminal Law Review*, 1(2): 575–598. doi:10.1525/nclr.1998.1.2.575
-* Garland, David, 2001, *The Culture of Control: Crime and Social Order in Contemporary Society*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199258024.001.0001
-* Garvey, Stephen P., 2004, “Lifting the Veil on Punishment”, *Buffalo Criminal Law Review*, 7(2): 443–464. doi:10.1525/nclr.2004.7.2.443
+* Gardner, John, 1998, “The Gist of Excuses”, *Buffalo Criminal Law Review*, 1(2): 575–598. doi: 10.1525/nclr.1998.1.2.575
+* Garland, David, 2001, *The Culture of Control: Crime and Social Order in Contemporary Society*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199258024.001.0001
+* Garvey, Stephen P., 2004, “Lifting the Veil on Punishment”, *Buffalo Criminal Law Review*, 7(2): 443–464. doi: 10.1525/nclr.2004.7.2.443
 * Golash, Deirdre, 2005, *The Case against Punishment: Retribution, Crime Prevention, and the Law*, New York: New York University Press.
 * Golding, Martin P., 1975, *Philosophy of Law*, Englewood Cliffs, NJ: Prentice-Hall.
 * Gray, David C., 2010, “Punishment as Suffering”, *Vanderbilt Law Review*, 63(6): 1619–1693.
@@ -429,86 +429,86 @@ Jean Hampton 试图改进不公平优势理论，重点在于错误行为者（�
 * Hill, Thomas E., 1999, “Kant on Wrongdoing, Desert and Punishment”, *Law and Philosophy*, 18: 407–441.
 * Hobbes, Thomas, 1651 [1962], *Leviathan*, M. Oakeshott (ed.): New York: Macmillan Publishing Co., 1962.
 * Husak, Douglas N., 1990, “Already Punished Enough”, *Philosophical Topics*, 18(1): 79–99. Reprinted in Husak 2010: 433–450.
-* –––, 2000, “Holistic Retributivism”, *California Law Review*, 88(3): 991–1000. doi:10.2307/3481203
-* –––, 2008, *Overcriminalization: The Limits of the Criminal Law*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195328714.001.0001
-* –––, 2010, *The Philosophy of Criminal Law: Selected Essays*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199585038.001.0001
-* –––, 2016, “What Do Criminals Deserve?”, in Ferzan and Morse 2016: 49–62. doi:10.1093/acprof:oso/9780198703242.003.0004
+* –––, 2000, “Holistic Retributivism”, *California Law Review*, 88(3): 991–1000. doi: 10.2307/3481203
+* –––, 2008, *Overcriminalization: The Limits of the Criminal Law*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195328714.001.0001
+* –––, 2010, *The Philosophy of Criminal Law: Selected Essays*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199585038.001.0001
+* –––, 2016, “What Do Criminals Deserve?”, in Ferzan and Morse 2016: 49–62. doi: 10.1093/acprof: oso/9780198703242.003.0004
 * –––, 2019, “Kinds of Punishment”, in *Moral Puzzles and Legal Perplexities: Essays on the Influence of Larry Alexander*, Heidi M. Hurd (ed.), New York: Cambridge University Press: 23–38.
 * Kant, Immanuel, 1788 [1956], *Critique of Practical Reason*, L.W. Beck (trans.), New York: Macmillan Publishing Co., 1956.
 * –––, 1797 [1991], *The Metaphysics of Morals*, Mary Gregor (trans.), New York: Cambridge University Press, 1991.
-* Kelly, Erin I., 2009, “Criminal Justice without Retribution”:, *Journal of Philosophy*, 106(8): 440–462. doi:10.5840/jphil2009106840
+* Kelly, Erin I., 2009, “Criminal Justice without Retribution”:, *Journal of Philosophy*, 106(8): 440–462. doi: 10.5840/jphil2009106840
 * Kleinig, John, 1973, *Punishment and Desert*, The Hague: Martinus Nijhoff.
 * Kolber, Adam J., 2009, “The Subjective Experience of Punishment”, *Columbia Law Review*, 109(1): 182–236.
 * –––, 2013, “Against Proportional Punishment”, *Vanderbilt Law Review*, 66(4): 1141–1179.
 * –––, 2019, “The Subjectivist Critique of Proportionality”, in *The Palgrave Handbook of Applied Ethics and the Criminal Law*, Larry Alexander and Kimberly Kessler Ferzan (eds.), New York: Palgrave Macmillan, 571–595.
 * Korman, Daniel, 2003, “The Failure of Trust-Based Retributivism”, *Law and Philosophy*, 22: 561–575.
-* Lacey, Nicola and Hanna Pickard, 2015a, “To Blame or to Forgive? Reconciling Punishment and Forgiveness in Criminal Justice”, *Oxford Journal of Legal Studies*, 35(4): 665–696. doi:10.1093/ojls/gqv012
-* –––, 2015b, “The Chimera of Proportionality: Institutionalising Limits on Punishment in Contemporary Social and Political Systems: The Chimera of Proportionality”, *The Modern Law Review*, 78(2): 216–240. doi:10.1111/1468-2230.12114
+* Lacey, Nicola and Hanna Pickard, 2015a, “To Blame or to Forgive? Reconciling Punishment and Forgiveness in Criminal Justice”, *Oxford Journal of Legal Studies*, 35(4): 665–696. doi: 10.1093/ojls/gqv012
+* –––, 2015b, “The Chimera of Proportionality: Institutionalising Limits on Punishment in Contemporary Social and Political Systems: The Chimera of Proportionality”, *The Modern Law Review*, 78(2): 216–240. doi: 10.1111/1468-2230.12114
 * Laudan, Larry, 2011, “The Rules of Trial, Political Morality, and the Costs of Error: Or, Is Proof Beyond a Reasonable Doubt Doing More Harm than Good”, in *Oxford Studies in Philosophy of Law, Volume 1*, Leslie Green and Brian Leiter (eds), New York: Oxford University Press: 195–227.
 * Lee, Youngjae, 2009, “Recidivism as Omission: A Relational Account”, *Texas Law Review*, 87: 571–622.
-* Levy, Ken, 2005, “The Solution to the Problem of Outcome Luck: Why Harm Is Just as Punishable as the Wrongful Action That Causes It”, *Law and Philosophy*, 24(3): 263–303. doi:10.1007/s10982-004-2961-2
+* Levy, Ken, 2005, “The Solution to the Problem of Outcome Luck: Why Harm Is Just as Punishable as the Wrongful Action That Causes It”, *Law and Philosophy*, 24(3): 263–303. doi: 10.1007/s10982-004-2961-2
 * –––, 2014, “Why Retributivism Needs Consequentialism: The Rightful Place of Revenge in the Criminal Justice System”, *Rutgers Law Review*, 66: 629–684.
 * Lippke, Richard L., 2015, “Elaborating Negative Retributivism”, *Philosophy and Public Issues*, 5(1): 57–71.
-* –––, 2019, “The Nature of Retributive Justice and Its Demands on the State”, *Law and Philosophy*, 38(1): 53–77. doi:10.1007/s10982-018-9336-6
+* –––, 2019, “The Nature of Retributive Justice and Its Demands on the State”, *Law and Philosophy*, 38(1): 53–77. doi: 10.1007/s10982-018-9336-6
 * Locke, John, 1690 [1980], *Second Treatise of Government*, C. Macpherson (ed.), Indianapolis: Hackett Publishing Co., 1980.
 * Mabbott, J.D., 1939, “Punishment”, *Mind*, 48(190): 150–167.
-* Mackie, J. L., 1982, “Morality and the Retributive Emotions”, *Criminal Justice Ethics*, 1(1): 3–10. doi:10.1080/0731129X.1982.9991689
+* Mackie, J. L., 1982, “Morality and the Retributive Emotions”, *Criminal Justice Ethics*, 1(1): 3–10. doi: 10.1080/0731129X.1982.9991689
 * Markel, Dan, 2011, “What Might Retributive Justice Be? An Argument for the Confrontational Conception of Retributivism”, in White 2011: 49–72.
 * Markel, Dan and Chad Flanders, 2010, “Bentham on Stilts: The Bare Relevance of Subjectivity to Retributive Justice”, *California Law Review*, 98(3): 907–988.
 * Mill, John Stuart, 1859 [1975], *On Liberty*, D. Spitz (ed.), New York: W.W. Norton and Co., 1975.
-* Moore, Michael S., 1997, *Placing Blame: A Theory of Criminal Law*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199599493.001.0001
-* Morris, Herbert, 1968, “Persons and Punishment”:, *Monist*, 52(4): 475–501. doi:10.5840/monist196852436
+* Moore, Michael S., 1997, *Placing Blame: A Theory of Criminal Law*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199599493.001.0001
+* Morris, Herbert, 1968, “Persons and Punishment”:, *Monist*, 52(4): 475–501. doi: 10.5840/monist196852436
 * Morris, Norval, 1982, *Madness and the Criminal Law*, Chicago: University of Chicago Press.
 * Morse, Stephen J., 2004, “New Neuroscience, Old Problems”, in *Neuroscience and the Law: Brain, Mind, and the Scales of Justice*, Brent Garland (ed.), New York: Dana Press, 157–198.
 * –––, 2011, “Severe Environmental Deprivation (AKA RSB): A Tragedy, Not a Defense”, *Alabama Civil Rights and Civil Liberties Law Review*, 2: 147–173.
 * Murphy, Jeffrie G., 1973, “Marxism and Retribution”, *Philosophy and Public Affairs*, 2: 217–243.
-* –––, 2007, “Legal Moralism and Retribution Revisited”, *Criminal Law and Philosophy*, 1(1): 5–20. doi:10.1007/s11572-006-9000-3
-* Murphy, Jeffrie G. and Jean Hampton, 1988, *Forgiveness and Mercy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625121
-* Nadelhoffer, Thomas A. (ed.), 2013, *The Future of Punishment*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199779208.001.0001
-* Narveson, Jan, 2002, “Collective Responsibility”, *Journal of Ethics*, 6(2): 179–198. doi:10.1023/A:1015823716891
-* Nietzsche, Friedrich, 1887 [2006], *Friedrich Nietzsche: On the Genealogy of Morality*, Keith Ansell-Pearson (ed.), Carol Diethe (trans.), second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511812026
+* –––, 2007, “Legal Moralism and Retribution Revisited”, *Criminal Law and Philosophy*, 1(1): 5–20. doi: 10.1007/s11572-006-9000-3
+* Murphy, Jeffrie G. and Jean Hampton, 1988, *Forgiveness and Mercy*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625121
+* Nadelhoffer, Thomas A. (ed.), 2013, *The Future of Punishment*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199779208.001.0001
+* Narveson, Jan, 2002, “Collective Responsibility”, *Journal of Ethics*, 6(2): 179–198. doi: 10.1023/A: 1015823716891
+* Nietzsche, Friedrich, 1887 [2006], *Friedrich Nietzsche: On the Genealogy of Morality*, Keith Ansell-Pearson (ed.), Carol Diethe (trans.), second edition, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511812026
 * Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
 * Quinn, Warren, 1985, “The Right to Threaten and the Right to Punish”, *Philosophy and Public Affairs*, 14(4): 327–373.
-* Quinton, Anthony M., 1954, “On Punishment”, *Analysis*, 14(6): 1933–1942. doi:10.1093/analys/14.6.133
+* Quinton, Anthony M., 1954, “On Punishment”, *Analysis*, 14(6): 1933–1942. doi: 10.1093/analys/14.6.133
 * Rawls, John, 1975, “A Kantian Conception of Equality”, *Cambridge Review*, 94–99. Reprinted in *John Rawls, Collected Papers*, Samuel Richard Freeman (ed.), Cambridge, MA: Harvard University Press, 1999, 254–266.
 * Ristroff, Alice, 2009, “How (Not) to Think Like a Punisher”, *Florida Law Review*, 61: 727–749.
-* Robinson, Paul H., 2003, “The A.L.I.’s Proposed Distributive Principle of ‘Limiting Retributivism’: Does It Mean In Practice Anything Other Than Pure Desert?” *Buffalo Criminal Law Review*, 7(1): 3–15. doi:10.1525/nclr.2003.7.1.3
-* –––, 2008, “Competing Conceptions of Modern Desert: Vengeful, Deontological, and Empirical”, *The Cambridge Law Journal*, 67(1): 145–175. doi:10.1017/S000819730800010X
+* Robinson, Paul H., 2003, “The A.L.I.’s Proposed Distributive Principle of ‘Limiting Retributivism’: Does It Mean In Practice Anything Other Than Pure Desert?” *Buffalo Criminal Law Review*, 7(1): 3–15. doi: 10.1525/nclr.2003.7.1.3
+* –––, 2008, “Competing Conceptions of Modern Desert: Vengeful, Deontological, and Empirical”, *The Cambridge Law Journal*, 67(1): 145–175. doi: 10.1017/S000819730800010X
 * Robinson, Paul H. and Robert Kurzban, 2007, “Concordance and Conflict in Intuitions of Justice”, *Minnesota Law Review*, 91(6): 1829–1907.
-* Roebuck, Greg and David Wood, 2011, “A Retributive Argument Against Punishment”, *Criminal Law and Philosophy*, 5(1): 73–86. doi:10.1007/s11572-010-9109-2
+* Roebuck, Greg and David Wood, 2011, “A Retributive Argument Against Punishment”, *Criminal Law and Philosophy*, 5(1): 73–86. doi: 10.1007/s11572-010-9109-2
 * Scanlon, Thomas M., 2008, *Moral Dimensions: Permissibility, Meaning, Blame*, Cambridge, MA: Harvard University Press.
-* –––, 2013, “Giving Desert Its Due”, *Philosophical Explorations*, 16(2): 101–116. doi:10.1080/13869795.2013.787437
-* Schedler, George, 2011, “Retributivism and Fallible Systems of Punishment”, *Criminal Justice Ethics*, 30(3): 240–266. doi:10.1080/0731129X.2011.628829
-* Shafer-Landau, Russ, 1996, “The Failure of Retributivism”, *Philosophical Studies*, 82(3): 289–316. doi:10.1007/BF00355311
-* –––, 2000, “Retributivism and Desert”, *Pacific Philosophical Quarterly*, 81(2): 189–214. doi:10.1111/1468-0114.00102
+* –––, 2013, “Giving Desert Its Due”, *Philosophical Explorations*, 16(2): 101–116. doi: 10.1080/13869795.2013.787437
+* Schedler, George, 2011, “Retributivism and Fallible Systems of Punishment”, *Criminal Justice Ethics*, 30(3): 240–266. doi: 10.1080/0731129X.2011.628829
+* Shafer-Landau, Russ, 1996, “The Failure of Retributivism”, *Philosophical Studies*, 82(3): 289–316. doi: 10.1007/BF00355311
+* –––, 2000, “Retributivism and Desert”, *Pacific Philosophical Quarterly*, 81(2): 189–214. doi: 10.1111/1468-0114.00102
 * Simons, Kenneth W., 2012, “Statistical Knowledge Deconstructed”, *Boston University Law Review*, 92: 1–87.
 * Singer, Rihcard G., 1979, *Just Deserts: Sentencing Based on Equality and Desert*, Cambridge, MA: Ballinger.
 * Slobogin, Christopher, 2009, “Introduction to the Symposium on the Model Penal Code's Sentencing Proposals”, *Florida Law Review*, 61(4): 665–682.
 * Smilansky, Saul, 2000. *Free Will and Illusion*, New York: Oxford University Press.
-* Stark, Findlay, 2016, *Culpable Carelessness: Recklessness and Negligence in the Criminal Law*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139855945
-* Tadros, Victor, 2011, *The Ends of Harm: The Moral Foundations of Criminal Law*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199554423.001.0001
-* –––, 2013, “Responses”, *Law and Philosophy*, 32(2–3): 241–325. doi:10.1007/s10982-013-9172-7
-* –––, 2016, *Wrongs and Crimes*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199571376.001.0001
-* –––, 2017, “Moving Mountains: Variations on a Theme by Shelly Kagan”, *Criminal Law and Philosophy*, 11(2–3): 393–405. doi:10.1007/s11572-015-9366-1
-* Tomlin, Patrick, 2014a, “Retributivists! The Harm Principle Is Not for You!”, *Ethics*, 124(2): 272–298. doi:10.1086/673437
-* –––, 2014b, “Time and Retribution”, *Law and Philosophy*, 33(5): 655–682. doi:10.1007/s10982-013-9196-z
+* Stark, Findlay, 2016, *Culpable Carelessness: Recklessness and Negligence in the Criminal Law*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139855945
+* Tadros, Victor, 2011, *The Ends of Harm: The Moral Foundations of Criminal Law*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199554423.001.0001
+* –––, 2013, “Responses”, *Law and Philosophy*, 32(2–3): 241–325. doi: 10.1007/s10982-013-9172-7
+* –––, 2016, *Wrongs and Crimes*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199571376.001.0001
+* –––, 2017, “Moving Mountains: Variations on a Theme by Shelly Kagan”, *Criminal Law and Philosophy*, 11(2–3): 393–405. doi: 10.1007/s11572-015-9366-1
+* Tomlin, Patrick, 2014a, “Retributivists! The Harm Principle Is Not for You!”, *Ethics*, 124(2): 272–298. doi: 10.1086/673437
+* –––, 2014b, “Time and Retribution”, *Law and Philosophy*, 33(5): 655–682. doi: 10.1007/s10982-013-9196-z
 * Tonry, Michael (ed.), 2011, *Why Punish? How Much? A Reader on Punishment*, New York: Oxford University Press.
 * Vihvelin, Kadri, 2003 [2018], “Arguments for Incompatibilism”, in *The Stanford Encyclopedia of Philosophy* (Fall 2018), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/incompatibilism-arguments/>
 * von Hirsch, Andrew, 2011, “Proportionate Sentences: A Desert Perspective”, in Tonry 2011: 207–216.
-* von Hirsch, Andrew and Andrew Ashworth, 2005, *Proportionate Sentencing: Exploring the Principles*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199272600.001.0001
+* von Hirsch, Andrew and Andrew Ashworth, 2005, *Proportionate Sentencing: Exploring the Principles*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199272600.001.0001
 * Waldron, Jeremy., 1992, “Lex Talionis”, *Arizona Law Review*, 34: 25–51.
-* Walen, Alec, 2010, “Crime, Culpability and Moral Luck”, *Law and Philosophy*, 29(4): 373–384. doi:10.1007/s10982-010-9068-8
+* Walen, Alec, 2010, “Crime, Culpability and Moral Luck”, *Law and Philosophy*, 29(4): 373–384. doi: 10.1007/s10982-010-9068-8
 * –––, 2015, “Proof Beyond a Reasonable Doubt; A Balanced Retributive Account”, *Louisiana Law Review*, 76(2): 355–446.
-* –––, forthcoming, “Criminal Law and Penal Law: The Wrongness Constraint and a Complementary Forfeiture Model”, *Criminal Law and Philosophy*, first online: 3 October 2019. doi:10.1007/s11572-019-09515-7
-* Wellman, Christopher, 2017, *Rights Forfeiture and Punishment*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190274764.001.0001
+* –––, forthcoming, “Criminal Law and Penal Law: The Wrongness Constraint and a Complementary Forfeiture Model”, *Criminal Law and Philosophy*, first online: 3 October 2019. doi: 10.1007/s11572-019-09515-7
+* Wellman, Christopher, 2017, *Rights Forfeiture and Punishment*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190274764.001.0001
 * Westen, Peter, 2009, “Why Criminal Harm Matters”, in *Criminal Law Conversations*, Paul H. Robinson, Stephen P. Garvey, and Kimberly Kessler Ferzan (eds.), New York: Oxford University Press: 155–157.
-* –––, 2016, “Retributive Desert as Fair Play”, in Ferzan and Morse 2016: 63–78. doi:10.1093/acprof:oso/9780198703242.003.0005
-* White, Mark D. (ed.), 2011, *Retributivism: Essays on Theory and Policy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199752232.001.0001
-* Whitman, James Q., 2003, “A Plea Against Retributivism”, *Buffalo Criminal Law Review*, 7(1): 85–107. doi:10.1525/nclr.2003.7.1.85
-* Yaffe, Gideon, 2010, *Attempts: In the Philosophy of Action and the Criminal Law*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199590667.001.0001
+* –––, 2016, “Retributive Desert as Fair Play”, in Ferzan and Morse 2016: 63–78. doi: 10.1093/acprof: oso/9780198703242.003.0005
+* White, Mark D. (ed.), 2011, *Retributivism: Essays on Theory and Policy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199752232.001.0001
+* Whitman, James Q., 2003, “A Plea Against Retributivism”, *Buffalo Criminal Law Review*, 7(1): 85–107. doi: 10.1525/nclr.2003.7.1.85
+* Yaffe, Gideon, 2010, *Attempts: In the Philosophy of Action and the Criminal Law*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199590667.001.0001
 * Zaibert, Leo, 2006, *Punishment and Retribution*, Burlington, VT: Ashgate Publishing Co.
-* –––, 2013, “The Instruments of Abolition, or Why Retributivism Is the Only Real Justification of Punishment”, *Law and Philosophy*, 32(1): 33–58. doi:10.1007/s10982-012-9156-z
-* –––, 2018, *Rethinking Punishment*, New York: Cambridge University Press. doi:10.1017/9781108151740
+* –––, 2013, “The Instruments of Abolition, or Why Retributivism Is the Only Real Justification of Punishment”, *Law and Philosophy*, 32(1): 33–58. doi: 10.1007/s10982-012-9156-z
+* –––, 2018, *Rethinking Punishment*, New York: Cambridge University Press. doi: 10.1017/9781108151740
 
 ## Academic Tools
 

@@ -1,6 +1,6 @@
 # 位置与分体论 location and mereology (Cody Gilmore, Claudio Calosi, and Damiano Costa)
 
-*首次发表于2013年6月7日星期五；实质性修订于2024年3月18日星期一*
+*首次发表于 2013 年 6 月 7 日星期五；实质性修订于 2024 年 3 月 18 日星期一*
 
 实体论者认为存在空间或时空的区域。许多实体论者还认为存在位于这些区域的实体（人、桌子、社会群体、电子、场、洞、事件、特质、普遍性等）。这些哲学家面临有关实体与其所在位置之间关系的问题。位于的实体与其位置相同吗？它们与其位置完全分离，即它们与其位置没有任何部分共享吗？
 
@@ -29,7 +29,7 @@
 
 在整个条目中，我们将部分性视为原始的，并默认了几个标准的分体论定义。我们使用 P 表示部分性，PP 表示适当的部分性，O 表示重叠——参见分体论条目，以及 Cotnoir 和 Varzi（2021）。
 
-我们回答以模态术语框定的问题。扩展的简单体是否可能？没有什么是多位置的是必要的吗？相关的模态性是形而上学的。与当前正统观念一致，我们假设形而上学上的必要性（命题或句子的属性）不能与逻辑真理、分析真理、概念真理或先验真理等同——参见模态性的种类条目。虽然形而上学上的必要性与概念真理不等同——并且，相关地，形而上学上的可能性与可思考性也不等同——但人们仍然可能认为可思考性（或类似的东西）是形而上学可能性的证据——参见模态认识论条目[1]。
+我们回答以模态术语框定的问题。扩展的简单体是否可能？没有什么是多位置的是必要的吗？相关的模态性是形而上学的。与当前正统观念一致，我们假设形而上学上的必要性（命题或句子的属性）不能与逻辑真理、分析真理、概念真理或先验真理等同——参见模态性的种类条目。虽然形而上学上的必要性与概念真理不等同——并且，相关地，形而上学上的可能性与可思考性也不等同——但人们仍然可能认为可思考性（或类似的东西）是形而上学可能性的证据——参见模态认识论条目 [1]。
 
 最后一个预备。最近关于位置和分体论的文献倾向于将模糊性和不确定性的考虑放在一边（尽管参见 Eagle 2016a，Leonard 2022）以及量子理论（尽管参见 Pashby 2016，Calosi 2022a）。我们也会这样做。
 
@@ -41,8 +41,8 @@
 
 * 精确位置：如果且仅当 x 与区域 y 具有完全相同的形状和大小，并且与 y 的其他实体具有完全相同的空间或时空关系时，x 恰好位于区域 y 中。[2]（参见 Casati＆Varzi 1999：119-120; Bittner，Donnelly，＆Smith 2004; Gilmore 2006：200-202; Sattig 2006：48）。符号表示：L（x，y）
 * 弱位置：如果且仅当 y“不完全不包含”x 时，x 弱位置于区域 y 中（Parsons 2007：203）。WKL（x，y）
-* 整体位置：如果且仅如果 x“位于”y（Parsons 2007: 203; Correia 2022: 560），则 x 完全位于区域 y。EL(x,y)
-* 普遍位置：如果且仅如果 y 不大于 x 且 x“完全填充”y（Parsons 2008: 429; Correia 2022: 560），则 x 普遍位于区域 y。PL(x,y)
+* 整体位置：如果且仅如果 x“位于”y（Parsons 2007: 203; Correia 2022: 560），则 x 完全位于区域 y。EL(x, y)
+* 普遍位置：如果且仅如果 y 不大于 x 且 x“完全填充”y（Parsons 2008: 429; Correia 2022: 560），则 x 普遍位于区域 y。PL(x, y)
 
 图 1 说明了这四种关系的情况。
 
@@ -54,9 +54,9 @@
 
 |    | r1                                     | r2                                     | r3                                     | r4           | r5                 | r6                   |
 | ---- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | -------------- | -------------------- | ---------------------- |
-| o1 | exactly<br />weakly<br />entirely<br />pervasively |                                        | <br />weakly<br />entirely<br />                   | <br />weakly<br /><br /> | <br /> 弱化<br /><br /> 普遍地 | <br />weakly<br />entirely<br /> |
-| o2 |                                        | exactly<br />weakly<br />entirely<br />pervasively | weakly<br />entirely                       |              |                    | weakly<br />entirely     |
-| o3 | <br /> 弱地<br /><br /> 普遍地                     | <br /> 弱<br /><br /> 普遍地                       | exactly<br />weakly<br />entirely<br />pervasively | <br />weakly<br /><br /> | <br /> 弱<br /><br /> 普遍地   | <br />weakly<br />entirely<br /> |
+| o1 | exactly <br /> weakly <br /> entirely <br /> pervasively |                                        | <br /> weakly <br /> entirely <br />                   | <br /> weakly <br /> <br /> | <br /> 弱化 <br /> <br /> 普遍地 | <br /> weakly <br /> entirely <br /> |
+| o2 |                                        | exactly <br /> weakly <br /> entirely <br /> pervasively | weakly <br /> entirely                       |              |                    | weakly <br /> entirely     |
+| o3 | <br /> 弱地 <br /> <br /> 普遍地                     | <br /> 弱 <br /> <br /> 普遍地                       | exactly <br /> weakly <br /> entirely <br /> pervasively | <br /> weakly <br /> <br /> | <br /> 弱 <br /> <br /> 普遍地   | <br /> weakly <br /> entirely <br /> |
 
  图 2
 
@@ -66,21 +66,21 @@
 
 (DS2a.1)
 
-x 在 y 处精确定位=df x 弱定位于所有且仅限于与 y 重叠的实体 z（L(x,y)=df∀z[WKL(x,z)↔O(y,z)]）
+x 在 y 处精确定位 = df x 弱定位于所有且仅限于与 y 重叠的实体 z（L(x, y)= df∀z [WKL(x, z)↔O(y, z)]）
 
 根据这个定义，根据分析，因此不可能，没有什么是强烈多位置的。为了节省空间，我们将假设精确位置是唯一的基本位置关系，并且其他三个关系如下定义：
 
 (DS1.1)
 
-x 在 y 处弱定位=df x 在与 y 重叠的某物体上精确定位。WKL(x,y)=df∃z[L(x,z)&O(z,y)]
+x 在 y 处弱定位 = df x 在与 y 重叠的某物体上精确定位。WKL(x, y)= df∃z [L(x, z)&O(z, y)]
 
 (DS1.2)
 
-x 在位置 y 完全地=df x 正好位于 y 的某个部分.EL(x,y)=df∃z[L(x,z)&P(z,y)]
+x 在位置 y 完全地 = df x 正好位于 y 的某个部分.EL(x, y)= df∃z [L(x, z)&P(z, y)]
 
 (DS1.3)
 
-x 在 y 位置上普遍存在=定义为存在某个部分为 y 的东西，使得 PL(x,y)=∃z[L(x,z)&P(y,z)]
+x 在 y 位置上普遍存在 = 定义为存在某个部分为 y 的东西，使得 PL(x, y)= ∃z [L(x, z)&P(y, z)]
 
 对于从其他观点产生的关系如何定义以及如何定义的一些理论的概述，请参阅附加文档《位置系统》。
 
@@ -97,7 +97,7 @@ x 在 y 位置上普遍存在=定义为存在某个部分为 y 的东西，使�
 
 但是(i)和(ii)都受到了质疑。
 
-例如，有人可能会拒绝（i），支持这样一种观点：确切位置是一个三元关系，它存在于一个被定位的实体、一个空间区域和一个时间瞬间之间（Thomson 1983；Costa 2017）。对于那些将空间视为一个在时间中持续存在且与时间分离的三维实体的人来说，这是一种自然的观点。（这个观点在Skow 2015和Gilmore、Costa和Calosi 2016中有所讨论。）为了允许运动的可能性，支持这种观点的人希望能够说出一个给定物体确切地位于区域r1，而不是区域r2，在时间t1，而同一物体确切地位于r2，而不是r1，在时间t2。为了允许时间是粘滞性的并且不包含瞬间的可能性，一个可能的做法是将确切位置表达为“x确切地位于区域r在时间间隔s内”。另一个选择是拒绝（i），支持这样一种观点：确切位置是可变的多元谓词，这是Jones（2018：注29）提出的一个想法。这里的思想是，同一个关系既可以由二元谓词“（...）位于（...）”表示，也可以由（例如）三元谓词“（...）位于（...）在时间（...）”表示。这个关系既不是纯粹的二元关系也不是纯粹的三元关系，而是在某些命题中出现时是二元关系，在其他命题中出现时是三元关系。
+例如，有人可能会拒绝（i），支持这样一种观点：确切位置是一个三元关系，它存在于一个被定位的实体、一个空间区域和一个时间瞬间之间（Thomson 1983；Costa 2017）。对于那些将空间视为一个在时间中持续存在且与时间分离的三维实体的人来说，这是一种自然的观点。（这个观点在 Skow 2015 和 Gilmore、Costa 和 Calosi 2016 中有所讨论。）为了允许运动的可能性，支持这种观点的人希望能够说出一个给定物体确切地位于区域 r1，而不是区域 r2，在时间 t1，而同一物体确切地位于 r2，而不是 r1，在时间 t2。为了允许时间是粘滞性的并且不包含瞬间的可能性，一个可能的做法是将确切位置表达为“x 确切地位于区域 r 在时间间隔 s 内”。另一个选择是拒绝（i），支持这样一种观点：确切位置是可变的多元谓词，这是 Jones（2018：注 29）提出的一个想法。这里的思想是，同一个关系既可以由二元谓词“（...）位于（...）”表示，也可以由（例如）三元谓词“（...）位于（...）在时间（...）”表示。这个关系既不是纯粹的二元关系也不是纯粹的三元关系，而是在某些命题中出现时是二元关系，在其他命题中出现时是三元关系。
 
 或者，人们可以同意确切位置是一个双元关系，但是拒绝上述（ii）而支持这样的观点，即确切位置中的第二个参数位置（“位置”槽）是复数。一个想法是，一个扩展对象可以在许多点上被准确地定位，集体地，而不是在其中任何一个点上个别地或在它们的集合或融合上准确地定位。这是 Hudson（2005: 17）提出的建议；动机在 Gilmore（2014b: 25）中得到发展。另一个想法是将第一个参数位置（“占用者”槽）视为复数，并在某些情况下说一些事物集体地被准确地定位在给定的区域。对于类似这样的方法，但应用于普遍位置的原始关系，请参见 Loss（2023）和附加文档位置系统。
 
@@ -107,40 +107,40 @@ x 在 y 位置上普遍存在=定义为存在某个部分为 y 的东西，使�
 
 Casati 和 Varzi（1999：121）提出了两个原则：
 
-* 功能性：没有东西有超过一个确切的位置。∀x∀y∀z[(L(x,y)&L(x,z))→y=z]
-* 条件反身性：确切的位置恰好位于它们自己。∀x∀y[L(x,y)→L(y,y)]
+* 功能性：没有东西有超过一个确切的位置。∀x∀y∀z [(L(x, y)&L(x, z))→y = z]
+* 条件反身性：确切的位置恰好位于它们自己。∀x∀y [L(x, y)→L(y, y)]
 
 功能性禁止多位置，我们在第 6 节中讨论。它告诉我们，没有任何东西恰好位于多个区域，或者确切地说，位于多个实体。
 
 条件反身性是关于区域位置的原则。大致上可以归结为区域位于自身的主张。似乎还有另一种区域位置的选择，即它们没有任何位置，因为它们是位置。Varzi（2007: 1016）将这个原则称为条件空虚：
 
-* 条件空虚：如果 x 恰好位于 y，那么 y 没有确切的位置∀x∀y∀z[L(x,y)→L(y,z)]
+* 条件空虚：如果 x 恰好位于 y，那么 y 没有确切的位置 ∀x∀y∀z [L(x, y)→L(y, z)]
 
 Simons（2004b：345）支持条件性空虚，而 Parsons（2007：224）和 Varzi（2007：1016）都声称两者之间的选择在某种程度上是传统的。然而，正如我们在下面所展示的，条件性反身性和条件性空虚可能与不同的位置原则不兼容。
 
 根据条件性反身性，确切的位置恰好位于它们自身。（参见 Donnelly（2004：158），她提出了一个系统，其中条件性反身性是一个定理，尽管她用原始函数符号‘r’代替了位置谓词‘L’，表示‘的确切位置’。）假设奥巴马确切位于区域 r。结合条件性反身性，这意味着 r 恰好位于它自身。这与 Simons（2004b：345）支持的纯粹位置原则相冲突：
 
-* 位置的非对称性：如果 x 确切位于 y，则 y 不会确切位于 x。∀x∀y[(L(x,y)→¬L(y,x)]
+* 位置的非对称性：如果 x 确切位于 y，则 y 不会确切位于 x。∀x∀y [(L(x, y)→¬L(y, x)]
 
 然而，请注意，一个区域恰好位于自身的情况并不与位置的反对称性相冲突。
 
-* 位置的反对称性：没有两个实体恰好位于彼此。∀x∀y[(L(x,y)&L(y,x))→x=y]
+* 位置的反对称性：没有两个实体恰好位于彼此。∀x∀y [(L(x, y)&L(y, x))→x = y]
 
 位置的反对称性可能挽救了位置的非对称性的一些动机，同时与条件反射性保持一致。位置的反对称性是功能性和条件反射性的逻辑结果（恰好位置是可传递的观点也是如此）。
 
 如果我们进一步假设奥巴马与他的确切位置 r 不是同一实体，我们得到的结果是在 r 处有两个不同的实体，即 r 和奥巴马。在这种情况下，我们对另一个纯粹位置原则的反例，即一些人认为有吸引力的原则：
 
-* 位置的单射性：没有两个实体共享同一确切位置。∀x∀y∀z[(L(x,z)&L(y,z))→x=y]
+* 位置的单射性：没有两个实体共享同一确切位置。∀x∀y∀z [(L(x, z)&L(y, z))→x = y]
 
 反对共位的人可能将其视为条件反射的还原论。其他人可能将其视为拒绝位置的单射性而支持较弱变体的理由，例如：
 
-* 位置的条件性单射性：如果 x 和 y 都不等于 z，那么如果它们都恰好位于 z，那么 x 和 y 彼此相等。∀x∀y∀z[(¬x=z&¬y=z)→((L(x,z)&L(y,z))→x=y)]
+* 位置的条件性单射性：如果 x 和 y 都不等于 z，那么如果它们都恰好位于 z，那么 x 和 y 彼此相等。∀x∀y∀z [(¬x = z&¬y = z)→((L(x, z)&L(y, z))→x = y)]
 
 条件性单射性等同于这样一种说法：只要两个不同的实体共享一个给定的确切位置，其中一个实体就等同于该位置。这可能挽救了对共位的禁令的一些动机，同时与条件性自反性保持一致。
 
 在条件性自反性的存在下，“区域谓词”可以被定义为：
 
-* 区域性：R(x)=dfL(x,x)
+* 区域性：R(x)= dfL(x, x)
 
 也就是说，区域是位于自身的实体。反过来，这有助于制定限制的分体论原则，如“任何一组区域都有一个融合体”。
 
@@ -186,14 +186,14 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 还有其他对分体论和谐的威胁我们不会讨论，例如从“关于容器的中庸观点”中产生的对（H7）和（H8）的威胁，根据这个观点，只有拓扑开放（或者：只有拓扑闭合）的区域才能是确切的位置（参见 Cartwright 1975; Hudson 2005: 47–56; 以及特别是 Uzquiano 2006），或者对 Uzquiano（2011）中讨论的（H4）的威胁。
 
-相互渗透的情况发生在非重叠的实体具有重叠的确切位置的情况下，例如，当鬼魂穿过墙壁时。在这种情况下，（H7）的从右到左的方向失败。类似的情况涉及到（H5）和（H6）的从右到左方向的违反。扩展简单体是具有复杂确切位置的简单实体：它违反了（H1）的从左到右的方向，（等价的）H2 的从右到左的方向，以及当 n=1 时得到的（H3）的从左到右的方向。非扩展复合体违反了（H1）和（H2），并且根据情况，违反了（H5）-参见第 5.5 节。多位置的情况发生在给定实体具有多个确切位置的情况下。这违反了功能性，这在 Saucedo 对分体论和谐的陈述中是隐含的。
+相互渗透的情况发生在非重叠的实体具有重叠的确切位置的情况下，例如，当鬼魂穿过墙壁时。在这种情况下，（H7）的从右到左的方向失败。类似的情况涉及到（H5）和（H6）的从右到左方向的违反。扩展简单体是具有复杂确切位置的简单实体：它违反了（H1）的从左到右的方向，（等价的）H2 的从右到左的方向，以及当 n = 1 时得到的（H3）的从左到右的方向。非扩展复合体违反了（H1）和（H2），并且根据情况，违反了（H5）-参见第 5.5 节。多位置的情况发生在给定实体具有多个确切位置的情况下。这违反了功能性，这在 Saucedo 对分体论和谐的陈述中是隐含的。
 
 我们考虑的四个问题——相互渗透是否可能？扩展简单体是否可能？非扩展复合体是否可能？多位置是否可能？——在逻辑上彼此独立。因此，有 32 种具体观点的空间。
 
 即使相互渗透、扩展简单体、非扩展复合体和多位置都是可能的，一些实质性的原则仍然可能存在，将部分性和位置联系起来。例如，相互渗透和扩展简单体的可能性对以下原则没有威胁：
 
-* 扩张性：必然地，如果 x 是 y 的一部分，且 x 恰好位于 z 处，y 恰好位于 w 处，则 z 是 w 的一部分：“部分的位置是整体的位置的一部分”。[4]□∀x∀y∀z∀w[[P(x,y)&L(x,z)&L(y,w)]→P(z,w)]
-* 委托：必然地，如果 x 是复杂的并且确切地位于 y，那么对于 y 的任何部分 z，x 的某个适当部分 w 确切地位于与 z 重叠的某个区域。[5]□∀z∀x∀y[[C(x)&L(x,y)&P(z,y)]→∃w∃v[PP(w,x)&O(v,z)&L(w,v)]]
+* 扩张性：必然地，如果 x 是 y 的一部分，且 x 恰好位于 z 处，y 恰好位于 w 处，则 z 是 w 的一部分：“部分的位置是整体的位置的一部分”。[4] □∀x∀y∀z∀w [[P(x, y)&L(x, z)&L(y, w)] →P(z, w)]
+* 委托：必然地，如果 x 是复杂的并且确切地位于 y，那么对于 y 的任何部分 z，x 的某个适当部分 w 确切地位于与 z 重叠的某个区域。[5] □∀z∀x∀y [[C(x)&L(x, y)&P(z, y)] →∃w∃v [PP(w, x)&O(v, z)&L(w, v)]]
 
 粗略地说，扩张性表明一个对象必须至少延伸到其部分所到达的地方：它必须跟随其部分的移动；而委托性表明，如果一个对象是复杂的，那么它不能延伸到比其适当部分更远的地方：它不能去任何其适当部分所不去的地方。扩张性排除了以下情况（图 3），其中对象 a 是对象 o 的一部分，但是 a 的确切位置 ra 不是 o 的确切位置 r 的一部分。
 
@@ -201,13 +201,13 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 图 3：对象 a 是对象 o 的一部分，但是 a 的确切位置 ra 不是 o 的确切位置 r 的一部分。被扩张性排除。[图 3 的详细描述在附录中。]
 
-分体论的背后思想，用稍微不同的术语来说，是一个复杂实体不能在某个区域上弱定位，除非它的一个适当部分——一个“代表”——也在那里弱定位。关于分体论的正式陈述，人们可能会想知道为什么在结果中没有用“PP(u,z)”代替“O(u,z)”来表述。这是因为分体论旨在对扩展简单体友好。假设一个复杂的球形物体 c 恰好位于一个球形区域 r 上。假设 c 由两个半球形的简单体 h 和 h∗组成，而 r 由无限多个简单点组成，每个点的多数构成了 r 的一个部分区域。那么，与提出的修订相反，对于 r 的每个部分 y，不会真实存在一个 c 的适当部分恰好位于一个具有 y 作为适当部分的区域中。例如，考虑具有与 r 相同中心点但体积为 r 一半的球形区域 r∗。c 没有一个恰好位于 r∗的适当部分，也没有一个恰好位于 r∗的适当部分的确切位置。但是，根据分体论的要求，c 确实有一个具有与 r∗重叠的确切位置的适当部分（例如 h）。
+分体论的背后思想，用稍微不同的术语来说，是一个复杂实体不能在某个区域上弱定位，除非它的一个适当部分——一个“代表”——也在那里弱定位。关于分体论的正式陈述，人们可能会想知道为什么在结果中没有用“PP(u, z)”代替“O(u, z)”来表述。这是因为分体论旨在对扩展简单体友好。假设一个复杂的球形物体 c 恰好位于一个球形区域 r 上。假设 c 由两个半球形的简单体 h 和 h∗ 组成，而 r 由无限多个简单点组成，每个点的多数构成了 r 的一个部分区域。那么，与提出的修订相反，对于 r 的每个部分 y，不会真实存在一个 c 的适当部分恰好位于一个具有 y 作为适当部分的区域中。例如，考虑具有与 r 相同中心点但体积为 r 一半的球形区域 r∗。c 没有一个恰好位于 r∗ 的适当部分，也没有一个恰好位于 r∗ 的适当部分的确切位置。但是，根据分体论的要求，c 确实有一个具有与 r∗ 重叠的确切位置的适当部分（例如 h）。
 
-分体论排除了像下面这样的情况（图 4），其中 o∗是一个恰好位于区域 r∗的复杂对象，但 r∗有一个部分 ra，它与 o∗的任何适当部分的确切位置没有重叠：
+分体论排除了像下面这样的情况（图 4），其中 o∗ 是一个恰好位于区域 r∗ 的复杂对象，但 r∗ 有一个部分 ra，它与 o∗ 的任何适当部分的确切位置没有重叠：
 
 ![a 2 by 3 box diagram minus box a link to extended description below](https://plato.stanford.edu/entries/location-mereology/figure04.svg)
 
-图 4：区域 ra 是对象 o∗的确切位置的一部分，对象 o∗是复杂的，但 o 的任何适当部分都没有一个与 ra 重叠的确切位置。被分体论排除。[图 4 的详细描述在附录中。]
+图 4：区域 ra 是对象 o∗ 的确切位置的一部分，对象 o∗ 是复杂的，但 o 的任何适当部分都没有一个与 ra 重叠的确切位置。被分体论排除。[图 4 的详细描述在附录中。]
 
 无论是相互渗透还是扩展的简单体都不会威胁到扩张性或委托性。对于委托性的威胁之一来自 Pickup（2016: 260），他考虑了这样一种可能性：一个复杂实体确切地位于某个位置，尽管它的任何一个适当部分都没有确切（或弱）地位于任何地方。到达这种实体的一条路径（不是 Pickup 的）如下：
 
@@ -226,13 +226,13 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 在本节中，我们考虑以下原则的一些论证：
 
-* 如果 x 和 y 具有重叠的确切位置，那么 x 和 y 本身也会重叠。□∀x∀y∀z∀w[(L(x,z)&L(y,w)&O(z,w))→O(x,y)]
+* 如果 x 和 y 具有重叠的确切位置，那么 x 和 y 本身也会重叠。□∀x∀y∀z∀w [(L(x, z)&L(y, w)&O(z, w))→O(x, y)]
 
 根据无相互渗透原则，任何类型的实体在没有共享部分的情况下“穿过彼此”是形而上学上不可能的，就像鬼魂穿过坚固的砖墙一样。还有一个相关的原则值得一些评论。相关原则表明，如果 x 的确切位置是 y 的确切位置的一部分，那么 x 是 y 的一部分是必然的。用符号表示：
 
 (1)
 
-必然地，如果 x 恰好位于 y 的某个位置，则 x 是 y 的一部分。□∀x∀y∀z∀w[(L(x,z)&L(y,w)&P(z,w))→P(x,y)]
+必然地，如果 x 恰好位于 y 的某个位置，则 x 是 y 的一部分。□∀x∀y∀z∀w [(L(x, z)&L(y, w)&P(z, w))→P(x, y)]
 
 这个原则似乎基本上与无相互渗透说的是同样的事情，只是更简单地使用原始谓词“P”而不是定义的谓词“O”。那么为什么要关注无相互渗透而不是（1）呢？
 
@@ -240,7 +240,7 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 正如我们在引言中所指出的，总的来说，我们在这里的任务是搁置纯粹的分体论争议（参见分体论和 Cotnoir＆Varzi 2021 的条目），而是专注于与位置及其与分体论的相互作用有关的问题。对于（1）的争议过多是由于对“纯粹的分体论”争议的争论。相比之下，如果不相互渗透是有争议的，那只是因为它对分体论和位置之间的联系所说的内容。
 
-### 4.1 对于相互渗透＃1：来自普遍或特征
+### 4.1 对于相互渗透 ＃1：来自普遍或特征
 
 内在实在论者说，普遍在某种意义上“完全存在”于实例化它的每个事物中（Armstrong 1978: 79; Bigelow 1988; O’Leary-Hawthorne 1995; O’Leary-Hawthorne＆Cover 1998; Paul 2002, 2006, 2012; Newman 2002; Hawley＆Bird 2011; Lafrance 2015; Peacock 2016）。如果内在实在论是真实的，那么不相交的普遍经常会相互渗透。
 
@@ -266,7 +266,7 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 (2)
 
-必然地，如果物质对象 x 和 y 具有重叠的确切位置，那么 x 和 y 本身也会重叠。□∀x∀y∀z∀w[(M(x)&M(y)&L(x,z)&L(y,w)&O(z,w))→O(x,y)]
+必然地，如果物质对象 x 和 y 具有重叠的确切位置，那么 x 和 y 本身也会重叠。□∀x∀y∀z∀w [(M(x)&M(y)&L(x, z)&L(y, w)&O(z, w))→O(x, y)]
 
 这个回应还处理了来自区域、集合、事件、物质部分、洞穴、精神和其他“非物质实体”的潜在反例。
 
@@ -278,7 +278,7 @@ x 是 y 的一个适当部分当且仅当 x 的位置是 y 的位置的一个适
 
 有人认为两个不相交的物质对象可能具有重叠的确切位置。也许没有实际的相关情况。这样的情况甚至可能是法则上不可能的——被自然法则排除（尽管请参见下一节）。但人们仍然可能认为这些情况在形而上上是可能的。
 
-毕竟，在实际世界中是什么阻止了物质对象的相互渗透？很可能是斥力。但是一个常见的观点是，控制这种力的法则在形而上上并非必然存在[7]。在这种假设下，自然而然地可以得出结论，存在着形而上上可能的世界，在这些世界中，任何存在的斥力都可以被以某种方式覆盖，从而允许物质对象相互渗透。（有关更多信息，请参见 Zimmerman 1996a 和 Sider 2000。）
+毕竟，在实际世界中是什么阻止了物质对象的相互渗透？很可能是斥力。但是一个常见的观点是，控制这种力的法则在形而上上并非必然存在 [7]。在这种假设下，自然而然地可以得出结论，存在着形而上上可能的世界，在这些世界中，任何存在的斥力都可以被以某种方式覆盖，从而允许物质对象相互渗透。（有关更多信息，请参见 Zimmerman 1996a 和 Sider 2000。）
 
 有时候，人们会将一种类似的思路称为可想象性论证。人们可能认为相互渗透的情况是可想象的或直观上可能的，并且可能认为这是它们可能性的一些证据。在《新论人类理解》（II.xxvii.1）中，莱布尼兹写道，
 
@@ -300,7 +300,7 @@ Schaffer (2009a)建议，在这种情况下，我们不必将构想的情景视�
 
 如果一个人在构建一个位置理论时的目标是阐明位置及其与分体论的相互作用所统治的必要和先验真理，那么即使麦克丹尼尔的谦虚观点仍然反对将无相互渗透包括在自己的理论中。因为如果麦克丹尼尔是正确的，那么这个原则就不是先验真理，尽管它可能仍然是必要真理。（有关玻色子的进一步讨论和支持相互渗透的相关考虑，请参见 Simons 1994 和 2004a。有关霍桑和乌斯基亚诺的进一步讨论，请参见 Cotnoir 2016。）
 
-### 4.4 对于相互渗透＃4：来自重组
+### 4.4 对于相互渗透 ＃4：来自重组
 
 Sider（2000：585-6），McDaniel（2007a）和 Saucedo（2011）都反对无相互渗透原则，理由是它与合理的广义休谟“重组原则”相冲突。以下是麦克丹尼尔（2007a：241）论证的重建。
 
@@ -340,9 +340,9 @@ s1 与 s2 是不同的。
 
 如果 s1 和 s2 都可以获得，那么一个给定的区域可能是两个不同的简单体的确切位置。由于没有两个简单体可以重叠，这意味着不相交的事物（简单体）可能具有相同（因此重叠）的确切位置。
 
-这个论证是否成功？正如 Sider 和 McDaniel 所知，休谟再组合原则中的不同性概念需要小心处理，如果 P4 要成功。举个例子，它不能简单地是数值上的不同。如果是这样的话，命题 p 的情况和非 p 的情况将可以再组合，从而产生一个真正的形而上学可能性。再举个例子，x 是绿色的情况和 x 是红色的情况可以再组合，产生另一个真正的形而上学可能性。[8]但是，给“不同于”赋予一个使 P3 和 P4 同时合理的意义并不容易。如果它的意思是“没有共享部分或成分”，那么 P4 就避免了上面给出的反例，但是 P3 不再合理，因为 s1 和 s2 很可能共享一个成分，即 r。如果“s 与 s∗不同”被定义为
+这个论证是否成功？正如 Sider 和 McDaniel 所知，休谟再组合原则中的不同性概念需要小心处理，如果 P4 要成功。举个例子，它不能简单地是数值上的不同。如果是这样的话，命题 p 的情况和非 p 的情况将可以再组合，从而产生一个真正的形而上学可能性。再举个例子，x 是绿色的情况和 x 是红色的情况可以再组合，产生另一个真正的形而上学可能性。[8] 但是，给“不同于”赋予一个使 P3 和 P4 同时合理的意义并不容易。如果它的意思是“没有共享部分或成分”，那么 P4 就避免了上面给出的反例，但是 P3 不再合理，因为 s1 和 s2 很可能共享一个成分，即 r。如果“s 与 s∗ 不同”被定义为
 
-1. 可能，s 发生而 s∗不发生，
+1. 可能，s 发生而 s∗ 不发生，
 2. 可能，s 不发生而 s 发生，
 3. 可能，既不发生 s 也不发生 s∗，并且
 4. 可能，既发生 s 又发生 s∗'，
@@ -357,7 +357,7 @@ s1 与 s2 是不同的。
 
 是否存在扩展的简单体？可能存在吗？那些对这两个问题都回答“否”的人会倾向于接受
 
-* 无扩展的简单体（NXS）必然地，如果 x 恰好位于 y 处且 y 是复合体，则 x 是复合体。□∀x∀y[[L(x,y)&C(y)]→C(x)]
+* 无扩展的简单体（NXS）必然地，如果 x 恰好位于 y 处且 y 是复合体，则 x 是复合体。□∀x∀y [[L(x, y)&C(y)] →C(x)]
 
 严格来说，NXS 并不是说扩展的简单体是不可能的；相反，它说的是具有复杂确切位置的简单体是不可能的。它留下了存在扩展的简单区域和恰好位于它们的扩展的简单实体的可能性。（有关扩展的简单区域和离散空间或时空的更多信息，请参见 Forrest 1995；Tognazzini 2006；Braddon-Mitchell＆Miller 2006；McDaniel 2007b，2007c；Dainton 2010：294-301；Spencer 2010, 2014；Hagar 2014；Jaeger 2014；Kleinschmidt 2016；Goodsell 等人 2020；以及 Baron＆Le Bihan 2022b。）而 NXS 排除了存在一个点大小的物质简单体，恰好位于一个点大小但在分体论上是复杂的区域的可能性（例如，一个区域是几个点大小的特质的融合，每个特质与其他特质之间的距离为零）。
 
@@ -365,11 +365,11 @@ s1 与 s2 是不同的。
 
 无扩展的复合体是在分体论上复杂且恰好位于简单且我们假设是点状的区域的对象。有无无扩展的复合体？可能存在吗？那些对这两个问题都回答“否”的人会倾向于接受：
 
-* 无无扩展的复合体（NUC）必然地，如果 x 恰好位于 y 且 y 是简单的，则 x 是简单的。□∀x∀y[[L(x,y)&¬C(y)]→¬C(x)]
+* 无无扩展的复合体（NUC）必然地，如果 x 恰好位于 y 且 y 是简单的，则 x 是简单的。□∀x∀y [[L(x, y)&¬C(y)] →¬C(x)]
 
 严格来说，NUC 说具有简单确切位置的复合体是不可能的，但在很大程度上，将对无延伸复合体的辩论视为对 NUC 的辩论不会造成任何伤害。
 
-### 5.1 对于扩展简单体＃1：从可想象性
+### 5.1 对于扩展简单体 ＃1：从可想象性
 
 一个最初的论证诉诸于扩展简单体是可想象的，并将其视为支持其可能性的一些证据。要构想一个扩展的简单体，想象一个没有适当部分的扩展物体，比如说，立方体。这个想法不是，或者不仅仅是，立方体不能被物理上分割或切割。它是否可以被分割是一个单独的问题。
 
@@ -377,25 +377,25 @@ s1 与 s2 是不同的。
 
 ### 5.2 关于扩展简单体的第二个观点：来自弦理论
 
-正如麦克丹尼尔（2007a: 235–6）所指出的，一些物理学家将弦理论解释为假设存在扩展简单体。麦克丹尼尔引用了布莱恩·格林（Brian Greene）的一段话：
+正如麦克丹尼尔（2007a: 235–6）所指出的，一些物理学家将弦理论解释为假设存在扩展简单体。麦克丹尼尔引用了布莱恩 · 格林（Brian Greene）的一段话：
 
 > 字符串由什么组成？对于这个问题有两种可能的答案。首先，字符串是真正的基本元素-它们是“原子”，不可分割的组成部分... 从这个角度来看，即使字符串具有空间范围，它们的组成问题也没有任何内容。（1999 年：141）
 
 字符串是否可以被视为与它们所在的时空区域完全相同？格林并没有明确回答这个问题。然而，如果答案是“是”，并且如果字符串仅在复杂区域完全定位，那么弦理论将不再致力于扩展的简单体。关于弦理论不假设扩展的简单体的论证，请参见贝克（2016）。关于量子引力中关于扩展的简单体的不同论证的讨论，请参见巴伦和勒比安（2022b）。
 
-### 5.3 关于扩展的简单体＃3：来自重组
+### 5.3 关于扩展的简单体 ＃3：来自重组
 
 正如互渗透一样，人们可以为扩展简单体的可能性提供一个重新组合的论证（Sider 2007; McDaniel 2007b; Saucedo 2011）。可以声称简单和简单区域是可以重新组合的偶然属性，从而产生这样一种情况：一个简单体恰好位于一个复杂的区域中，因此我们认为它是扩展的区域。由于这个论证似乎没有引发任何与扩展简单体有关的问题，我们将继续讨论。
 
 ### 5.4 反对扩展简单体的理由之一：来自质的变化
 
-人们可能会争论，如果扩展简单体是可能的，那么它们可以在空间或时空中发生质的变化[9]。一个普通的锤子可以通过具有白色的把手和非白色（比如灰色）的头部在空间上发生质的变化。同样，人们可能认为，如果扩展简单体是可能的，那么就可以有一个扩展的、锤子形状的简单体，在空间中的颜色可以像普通的锤子一样，具有白色的把手和非白色的头部。诱人的是，如果有这样一个简单体，那么它的一部分将是白色的，一部分将是非白色的。但由于这个简单体只有一个部分，即它自己，这将意味着这个简单体本身既是白色的又是非白色的。这是不可能的，因此人们可能得出结论，扩展简单体是不可能的。
+人们可能会争论，如果扩展简单体是可能的，那么它们可以在空间或时空中发生质的变化 [9]。一个普通的锤子可以通过具有白色的把手和非白色（比如灰色）的头部在空间上发生质的变化。同样，人们可能认为，如果扩展简单体是可能的，那么就可以有一个扩展的、锤子形状的简单体，在空间中的颜色可以像普通的锤子一样，具有白色的把手和非白色的头部。诱人的是，如果有这样一个简单体，那么它的一部分将是白色的，一部分将是非白色的。但由于这个简单体只有一个部分，即它自己，这将意味着这个简单体本身既是白色的又是非白色的。这是不可能的，因此人们可能得出结论，扩展简单体是不可能的。
 
 有人可能通过坚持认为，只有在时空上具有定性同质性的情况下，才有可能存在扩展的简单体（参见 Spencer 2010 年，Jaeger 2014 年和 Spencer 2014 年的讨论）。但是，大多数支持扩展的简单体的人试图以其他方式反驳这个论点。
 
 在这方面，有助于看到定性变化的问题与臭名昭著的变化问题（也称为临时内在性）完全相呼应，后者涉及一个持续存在的实体在时间上展示定性变化的情况。因此，为变化问题开发的几种解决方案可以适用于扩展的简单体的情况，只是需要相应的调整。例如，支持扩展的简单体的人可以采用区域化属性或区域化实例化（这个术语归功于 Schaffer 2010 年）。在第一种情况下，一个看似单子的属性，比如白色，实际上被视为与一个区域的关系，比如在某个地方是白色。在第二种情况下，人们将实例化区域化，而不是属性，例如声称扩展的简单体在这里实例化白色。这两种策略类似于经典的相对化策略，例如 Mellor（1981 年）和副词主义策略，例如 Johnston（1987 年）和 Haslanger（1989 年）。
 
-在这里还值得提及另一种策略，因为它最初是为了处理扩展简单体的定性变化而开发的。这是帕森斯（2000）提出的涉及分布属性的解决方案。帕森斯提出，如果一个简单体在一个区域是白色的，在另一个区域是灰色的，那么它具有一种基本的、内在的、分布性的属性。一些分布性属性，比如全身黑色，是均匀的。而其他一些，比如斑点状，是非均匀的。当一个简单体具有非均匀的分布性属性时，这个事实并不是基于它具有适当部分，以某种方式配置的事实，每个部分都具有更简单、均匀的属性。它也不是基于简单体在不同的时空区域中的不同关系（在某个区域是白色，在另一个区域是灰色）。相反，这是关于简单体的一个无法解释的事实。这显然避免了之前方法所面临的困扰（关于这一点，请参见哈斯兰格2003年的论述）。然而，正如麦克丹尼尔（2009）所指出的，帕森斯的解决方案面临着几个困难。例如，它似乎无法解释x在r处是F的含义。例如，对于某物在一个区域r处是灰色，这是什么意思？它不能简单地是指它具有给定的分布性属性D，比如全身灰色。至少有两个原因。首先，某物之所以在r处是灰色，是因为它具有其他分布性属性，比如一半灰色一半白色。其次，某物可能具有相关的分布性属性，但并不在r处是灰色，例如因为它不在r处。如果我们进一步要求该物体位于r处，问题并没有解决。事实上，两个在r处共同存在且都具有一半灰色一半白色分布性属性的圆可能是这样的：一个在它们确切位置的上部是灰色的，而另一个在下部是灰色的。
+在这里还值得提及另一种策略，因为它最初是为了处理扩展简单体的定性变化而开发的。这是帕森斯（2000）提出的涉及分布属性的解决方案。帕森斯提出，如果一个简单体在一个区域是白色的，在另一个区域是灰色的，那么它具有一种基本的、内在的、分布性的属性。一些分布性属性，比如全身黑色，是均匀的。而其他一些，比如斑点状，是非均匀的。当一个简单体具有非均匀的分布性属性时，这个事实并不是基于它具有适当部分，以某种方式配置的事实，每个部分都具有更简单、均匀的属性。它也不是基于简单体在不同的时空区域中的不同关系（在某个区域是白色，在另一个区域是灰色）。相反，这是关于简单体的一个无法解释的事实。这显然避免了之前方法所面临的困扰（关于这一点，请参见哈斯兰格 2003 年的论述）。然而，正如麦克丹尼尔（2009）所指出的，帕森斯的解决方案面临着几个困难。例如，它似乎无法解释 x 在 r 处是 F 的含义。例如，对于某物在一个区域 r 处是灰色，这是什么意思？它不能简单地是指它具有给定的分布性属性 D，比如全身灰色。至少有两个原因。首先，某物之所以在 r 处是灰色，是因为它具有其他分布性属性，比如一半灰色一半白色。其次，某物可能具有相关的分布性属性，但并不在 r 处是灰色，例如因为它不在 r 处。如果我们进一步要求该物体位于 r 处，问题并没有解决。事实上，两个在 r 处共同存在且都具有一半灰色一半白色分布性属性的圆可能是这样的：一个在它们确切位置的上部是灰色的，而另一个在下部是灰色的。
 
 正如我们在《位置系统》的补充文件中指出的那样，一些位置理论在定义上排除了扩展的简单体。
 
@@ -413,11 +413,11 @@ s1 与 s2 是不同的。
 
 在第二种情况下，将违反以下原则：
 
-* 扩张性：*必然地，如果 x 是 y 的一部分，且 y 恰好位于 w 位置，则存在 w 的一个子区域 z，使得 x 恰好位于 w 位置。□∀x∀y∀w[P(x,y)&L(y,w)→∃z(P(z,w)&L(x,w))]
+* 扩张性：*必然地，如果 x 是 y 的一部分，且 y 恰好位于 w 位置，则存在 w 的一个子区域 z，使得 x 恰好位于 w 位置。□∀x∀y∀w [P(x, y)&L(y, w)→∃z(P(z, w)&L(x, w))]
 
 我们应该注意到，扩张性*与第 3 节中的扩张性相似，但稍微更强。根据一个人是否认为尖锐复合体的部分至少具有弱位置（Pickup 对此保持沉默），也会违反
 
-* 精确性+：*必然地，如果一件事物在某处具有弱位置，则它在某处具有确切位置。□∀x[∃yWKL(x,y)→∃yL(x,y)]
+* 精确性+：*必然地，如果一件事物在某处具有弱位置，则它在某处具有确切位置。□∀x [∃yWKL(x, y)→∃yL(x, y)]
 
 取货提供了另一个支持非扩展复合体可能性的论据。该论据认为，除非给出扩展简单体和非扩展复合体之间差异的理由，否则应该同等对待它们的可能性。也就是说，如果发现扩展简单体是可能的，那么非扩展复合体也应该是可能的。一个可能的回答是，正如我们所见，扩展简单体和非扩展复合体违反了非常不同的位置原则。人们对这些原则可能持有不同的态度，这将导致对（据称）有问题的实体的形而上学可能性持有不同的态度-例如，参见 Calosi（2023）。
 
@@ -425,13 +425,13 @@ s1 与 s2 是不同的。
 
 说一个物体是多位置的意思是它有多个确切的位置：“x 是多位置的”意味着
 
-∃y1∃y2[L(x,y1)&L(x,y2)&y1≠y2].
+∃y1∃y2 [L(x, y1)&L(x, y2)&y1≠y2].
 
 （有关对多位置的辩论，请参见 Calosi 2022a，Correia 2022，以试图激发对多位置的稍微不同定义，旨在允许在没有确切位置的情况下出现多位置的情况。）我们在第 6.3 节中考虑了一系列可能的多位置示例。
 
 对于多位置的辩论涉及到
 
-* 功能性+ 必然地，没有任何东西有超过一个确切的位置。□∀x∀y1∀y2[[L(x,y1)&L(x,y2)]→y1=y2]
+* 功能性+ 必然地，没有任何东西有超过一个确切的位置。□∀x∀y1∀y2 [[L(x, y1)&L(x, y2)] →y1 = y2]
 
 多位置的反对者接受功能性+。多位置的支持者通常希望肯定比功能性+的否定更强的东西。他们通常接受一个实体可能恰好位于两个甚至不重叠的区域之一。
 
@@ -457,17 +457,17 @@ s1 与 s2 是不同的。
 
 自然而然地认为，如果这两个对象是可见的，它们在视觉上是无法区分的。事实上，很容易认为 o1 和 o2 之间没有任何经验上的区别。对于那些倾向于验证主义的人来说，这可能导致他们相信 o1 和 o2 之间根本没有任何区别，因此初始情况的设置肯定存在某种缺陷。
 
-### 6.1 对于多位置性＃1：从可想象性开始
+### 6.1 对于多位置性 ＃1：从可想象性开始
 
 就像相互渗透和扩展的简单体一样，人们可以为多位置的可能性提供一个可想象性论证。可以声称多位置是可想象的，并将此视为多位置可能性的证据。由于这个论证似乎没有引发与多位置特定问题相关的任何问题，我们将继续进行。
 
-### 6.2 对于多位置的论证＃2：来自重组
+### 6.2 对于多位置的论证 ＃2：来自重组
 
 就像相互渗透和扩展的简单体一样，人们可以为多位置的可能性提供一个重组论证。可以声称确切位置是基本的和偶然的，并将此视为多位置可能性的证据。由于这个论证似乎也没有引发与多位置特定问题相关的任何问题，我们将继续进行。
 
 ### 6.3 对于多位置性的论证：来自实例
 
-支持多位置性的论证可能仅仅来自于多位置实体的具体例子。这些例子包括：内在普遍性、持久的物质对象、持久的修辞手法—Ehring（1997a,b, 2011）、四维持续存在的物体—Hudson（2001）、倒退的时间旅行者—（MacBride 1998, Keller & Nelson 2001; Gilmore 2003, 2006, 2007; Miller 2006; Carroll 2011; Kleinschmidt 2011; Effingham 2011）、分裂产物—Dainton（2008: 364–408）、跨世界个体—McDaniel（2004）、音乐作品—Tillman（2011）和无所不在的上帝—（Hudson 2009; Inman 2017）[10]。在这里，我们将重点讨论前两个例子，因为它们可能是更广泛讨论的。
+支持多位置性的论证可能仅仅来自于多位置实体的具体例子。这些例子包括：内在普遍性、持久的物质对象、持久的修辞手法—Ehring（1997a, b, 2011）、四维持续存在的物体—Hudson（2001）、倒退的时间旅行者—（MacBride 1998, Keller & Nelson 2001; Gilmore 2003, 2006, 2007; Miller 2006; Carroll 2011; Kleinschmidt 2011; Effingham 2011）、分裂产物—Dainton（2008: 364–408）、跨世界个体—McDaniel（2004）、音乐作品—Tillman（2011）和无所不在的上帝—（Hudson 2009; Inman 2017）[10]。在这里，我们将重点讨论前两个例子，因为它们可能是更广泛讨论的。
 
 #### 6.3.1 内在普遍性
 
@@ -483,7 +483,7 @@ s1 与 s2 是不同的。
 
 #### 6.3.2 持久的物质对象
 
-关于物质对象在时间上的持续性的辩论围绕着两种竞争观点，即持久论和持续论[12]。持久论者经常说，一个持久的物质对象在每个时刻都是时间上无延展的，并且在某种意义上在其整个存在过程中“完全存在”。持续论者经常说，一个持久的物质对象是一个在时间上延展的实体，在其整个存在过程的每个不同时刻都有一个不同的时间部分，并且在任何一个时刻最多只是部分存在（非正式地说，奥巴马的瞬时时间部分是奥巴马的一部分，无论何时它存在，它都由与奥巴马完全相同的物质构成，并且在空间位置上与奥巴马完全相同，但只存在于一个瞬时）[13]。
+关于物质对象在时间上的持续性的辩论围绕着两种竞争观点，即持久论和持续论 [12]。持久论者经常说，一个持久的物质对象在每个时刻都是时间上无延展的，并且在某种意义上在其整个存在过程中“完全存在”。持续论者经常说，一个持久的物质对象是一个在时间上延展的实体，在其整个存在过程的每个不同时刻都有一个不同的时间部分，并且在任何一个时刻最多只是部分存在（非正式地说，奥巴马的瞬时时间部分是奥巴马的一部分，无论何时它存在，它都由与奥巴马完全相同的物质构成，并且在空间位置上与奥巴马完全相同，但只存在于一个瞬时）[13]。
 
 一些哲学家提出，传统的持续论与持续论之争涉及两个独立的关于持续性的争议：一个关于存在时间部分的分体论争议，以及一个关于确切位置的位置争议（Gilmore 2006, 2008; Hawthorne 2006; Sattig 2006; Donnelly 2010, 2011b; Eddon 2010; Rychter 2011; Calosi & Fano 2015）。粗略地说，分体论争议涉及以下观点之间的争议：
 
@@ -519,13 +519,13 @@ s1 与 s2 是不同的。
 
 (6)
 
-必然地，对于任意的 y1 和任意的 y2，如果某物恰好位于 y1 且某物恰好位于 y2 且 y1 与 y2 完全重叠，则 y1=y2。
+必然地，对于任意的 y1 和任意的 y2，如果某物恰好位于 y1 且某物恰好位于 y2 且 y1 与 y2 完全重叠，则 y1 = y2。
 
 * 因此*
 
 (7)
 
-必然地，对于任意的 x，y1 和任意的 y2，如果 x 恰好位于 y1 和 x 恰好位于 y2，则 y1=y2（根据（5）和（6））。
+必然地，对于任意的 x，y1 和任意的 y2，如果 x 恰好位于 y1 和 x 恰好位于 y2，则 y1 = y2（根据（5）和（6））。
 
 要看出从（4）到（5）的推理是有效的，假设对象 o 恰好位于区域 ra 和 rb。由于 o 恰好位于 ra，根据（4），o 仅弱位于与 ra 重叠的实体。同样，由于 o 恰好位于 rb，o 仅弱位于与 rb 重叠的实体。因此，如果 ra 与给定实体重叠，则 o 仅弱位于该实体；如果 rb 与给定实体重叠，则 o 仅弱位于该实体。因此，ra 和 rb 仅重叠相同的实体。其余的论证是不言自明的。
 
@@ -541,7 +541,7 @@ s1 与 s2 是不同的。
 
 ### 6.6 反对多位置 #3：来自占有者的分体论结构
 
-有一些反对多位置的论证共享一个共同的结构。这些论证认为多位置与占有者的特定分体论结构不一致。如果一个人认为占有者至少具有相关的分体论结构，那么他就有一个反对多位置的论证。根据 Varzi（2003）[2019]的观点，我们规定：
+有一些反对多位置的论证共享一个共同的结构。这些论证认为多位置与占有者的特定分体论结构不一致。如果一个人认为占有者至少具有相关的分体论结构，那么他就有一个反对多位置的论证。根据 Varzi（2003）[2019] 的观点，我们规定：
 
 * 地面分体论：仅包括关于部分性的偏序公理的分体论理论。
 * 最小分体论：地面分体论加上弱补充。
@@ -557,7 +557,7 @@ s1 与 s2 是不同的。
 
 #### 6.6.1 地面分体论和多位置
 
-Kleinschmidt（2011）认为，多位置与地面分体论对于占有者来说是不一致的[16]。更准确地说，与地面分体论对于占有者来说不一致的是一种特定的多位置，即嵌套多位置。用 Kleinschmidt 自己的话来说：
+Kleinschmidt（2011）认为，多位置与地面分体论对于占有者来说是不一致的 [16]。更准确地说，与地面分体论对于占有者来说不一致的是一种特定的多位置，即嵌套多位置。用 Kleinschmidt 自己的话来说：
 
 * 主张 1：可能存在一些对象 x 和 y，以及区域 r1、r2 和 r3，使得 x 位于 r1，y 位于 r2，x 位于 r3，并且 x（在 r1）是 y（在 r2）的真子集，而 y（在 r2）是 x（在 r3）的真子集（Kleinschmidt 2011: 256）
 
@@ -567,13 +567,13 @@ Kleinschmidt（2011）认为，多位置与地面分体论对于占有者来说�
 
 奇比是克利福德的一个适当部分
 
-PP(k,c)
+PP(k, c)
 
 (9)
 
 Odie 是 Kibble 的一个适当部分
 
-PP(o,k)
+PP(o, k)
 
 但事实证明，Odie 是一个时间旅行的 Clifford，它缩小了一点。因此，
 
@@ -581,7 +581,7 @@ PP(o,k)
 
 Clifford 与 Odie 在数值上是相同的
 
-c=o
+c = o
 
 将 Clifford = Odie = x 和 Kibble = y 设置为一个位置模式的示例，得到了声明 1 中的位置模式。实际上，Clifford（= Odie）在 Kibble 的位置的一个适当部分和适当扩展的两个区域中具有多个位置。很容易看出，（8）-（10）违反了适当部分性的传递性和非对称性的连接，这是 Ground Mereology 的定理。因此结论是：Ground Mereology 与多位置不一致。
 
@@ -605,13 +605,13 @@ Effingham 和 Robson 考虑了一个情况，即一个持久的砖块 Brick1 反
 
 Brick1 与 Brick2（3,...,100）在数值上是相同的
 
- b1=b2=...=b100
+ b1 = b2 =...= b100
 
 (12)
 
 Brick1(2,3,...,100)是墙的一个适当部分
 
-PP(b1,w),PP(b2,w),...,PP(b100,w)
+PP(b1, w), PP(b2, w),..., PP(b100, w)
 
 显然地，可以看出（11）和（12）违反了弱补充原则，因为没有墙的任何部分与砖 1（2,3,…,100）不相交。
 
@@ -623,8 +623,8 @@ PP(b1,w),PP(b2,w),...,PP(b100,w)
 
 到目前为止，我们已经讨论了一些抵制这些论证的策略。其他条件相同的情况下，人们应该更倾向于一种更系统的回复，该回复适用于所有这些情况，独立于它们各自的细节（某些细节）。我们将考虑两种这样的一般策略。首先，Smid（2023b）认为，至少在所有论证中，一些相关前提的合理性仅仅来自于有争议的将部分和位置联系起来的原则，例如：
 
-* 强分割：如果 x 恰好位于 w 的确切位置的子区域，那么 x 是 w 的一部分∀x∀y∀w∀z[L(x,y)∧L(w,z)∧P(y,z)→P(x,w)]
-* 强适当分体论：如果 x 恰好位于 w 的确切位置的适当子区域中，那么 x 是 w 的适当部分[17]∀x∀y∀w∀z[L(x,y)∧L(w,z)∧PP(y,z)→PP(x,w)]
+* 强分割：如果 x 恰好位于 w 的确切位置的子区域，那么 x 是 w 的一部分 ∀x∀y∀w∀z [L(x, y)∧L(w, z)∧P(y, z)→P(x, w)]
+* 强适当分体论：如果 x 恰好位于 w 的确切位置的适当子区域中，那么 x 是 w 的适当部分 [17] ∀x∀y∀w∀z [L(x, y)∧L(w, z)∧PP(y, z)→PP(x, w)]
 
 如果他是正确的，那么人们可以拒绝这些原则并削弱反对多位置的论证。其次，可以使部分整体论的主张相对化。这引发了两个相关问题：
 
@@ -633,14 +633,14 @@ PP(b1,w),PP(b2,w),...,PP(b100,w)
 
 假设我们通过声称分体论应该是三个位置的关系来回答问题（i）。我们应该如何回答问题（ii）？“自然”的候选包括外部时间、个人时间、部分的确切位置和整体的确切位置。Kleinschmidt（2011）认为这些都不适用。为了简洁起见，我们将重点放在将分体论视为四个位置的关系的情况下（从而回答了问题（i）），其中两个额外的槽分别填充了部分的确切位置和整体的确切位置，从而回答了问题（ii）。（这是下面的“位置原则”）。这个观点由 Gilmore（2009）和 Kleinschmidt（2011）独立提出。Gilmore（2009）提供了一个更详细的建议，所以我们将坚持这个观点。事实上，Gilmore（2009）认为，支持多位置的人有独立的理由——这些理由与时间旅行无关——将基本的分体论关系视为四个位置的关系。让 P4（x，y，z，w）代表“x 在 y 处是 z 在 w 处的一部分”。然后，根据 Gilmore 的说法，四个位置的分体论遵守以下原则：
 
-* 位置原则：如果 x 在 y 处是 z 在 w 处的一部分，则：x 确切地位于 y 处，z 确切地位于 w 处。∀x∀y∀z∀w[P4(x,y,z,w)→[L(x,y)&L(z,w)]]
-* 反身性 4P：如果 x 恰好位于 y 处，则 x 在 y 处是 x 在 y 处的一部分。∀x∀y[L(x,y)→P4(x,y,x,y)]
-* 传递性 4P：如果 x1 在 x2 处是 y1 在 y2 处的一部分，且 y1 在 y2 处是 z1 在 z2 处的一部分，则 x1 在 x2 处是 z1 在 z2 处的一部分。∀x1∀x2∀y1∀y2∀z1∀z2[[P4(x1,x2,y1,y2)&P4(y1,y2,z1,z2)]→P4(x1,x2,z1,z2)]
-* 弱补充性 4P：如果 x1 在 x2 处是 y1 在 y2 处的一部分，且 x1 不等同于 y1 或 x2 不等同于 y2，则存在一些 z1 和一些 z2：z1 在 z2 处是 y1 在 y2 处的一部分，并且 z1 在 z2 处不与 x1 在 x2 处重叠。∀x1∀x2∀y1∀y2[[P4(x1,x2,y1,y2)&[x1≠y1∨x2≠y2]]→∃z1∃z2[P4(z1,z2,y1,y2)&¬∃w1∃w2[O4(z1,z2,x1,x2)]]]
+* 位置原则：如果 x 在 y 处是 z 在 w 处的一部分，则：x 确切地位于 y 处，z 确切地位于 w 处。∀x∀y∀z∀w [P4(x, y, z, w)→[L(x, y)&L(z, w)]]
+* 反身性 4P：如果 x 恰好位于 y 处，则 x 在 y 处是 x 在 y 处的一部分。∀x∀y [L(x, y)→P4(x, y, x, y)]
+* 传递性 4P：如果 x1 在 x2 处是 y1 在 y2 处的一部分，且 y1 在 y2 处是 z1 在 z2 处的一部分，则 x1 在 x2 处是 z1 在 z2 处的一部分。∀x1∀x2∀y1∀y2∀z1∀z2 [[P4(x1, x2, y1, y2)&P4(y1, y2, z1, z2)] →P4(x1, x2, z1, z2)]
+* 弱补充性 4P：如果 x1 在 x2 处是 y1 在 y2 处的一部分，且 x1 不等同于 y1 或 x2 不等同于 y2，则存在一些 z1 和一些 z2：z1 在 z2 处是 y1 在 y2 处的一部分，并且 z1 在 z2 处不与 x1 在 x2 处重叠。∀x1∀x2∀y1∀y2 [[P4(x1, x2, y1, y2)&[x1≠y1∨x2≠y2]]→∃z1∃z2 [P4(z1, z2, y1, y2)&¬∃w1∃w2[O4(z1, z2, x1, x2)]]]
 
 在这里，四个位置的重叠是通过以下方式定义的：
 
-* Overlapping4P: “x1 在 x2 处与 y1 在 y2 处重叠”意味着“存在一些 z1，在一些 z2 处，既是 x1 在 x2 处的一部分，也是 y1 在 y2 处的一部分”O4(x1,x2,y1,y2)=df∃z1∃z2[P4(z1,z2,x1,x2)&P4(z1,z2,y1,y2)]
+* Overlapping4P: “x1 在 x2 处与 y1 在 y2 处重叠”意味着“存在一些 z1，在一些 z2 处，既是 x1 在 x2 处的一部分，也是 y1 在 y2 处的一部分”O4(x1, x2, y1, y2)= df∃z1∃z2 [P4(z1, z2, x1, x2)&P4(z1, z2, y1, y2)]
 
 很容易看出这如何处理最小分体论的论证。实际上，Effingham 和 Robson 的情景只是尊重弱随附性 4P。考虑以下情况的简化表示：
 
@@ -648,14 +648,14 @@ PP(b1,w),PP(b2,w),...,PP(b100,w)
 
 图 7 [图 7 的详细描述在补充中。]
 
-在这里，r1 处的砖块是 rw 处的墙的一部分。此外，从相关意义上讲，r1 处的砖块是 rw 处的墙的“真正的一部分”，因为砖块 1≠墙或者 r1≠rw——实际上，这两个分离条件都成立。因此，我们有一个适用于弱补充 4P 的情况：它的前提得到满足。因此，该原则告诉我们，必须存在一个⟨x，r⟩对，使得 x 在 r 处是 rw 处的墙的一部分，但不与 r1 处的砖块 1 重叠。一个这样的对是⟨砖块 1，r3⟩：r3 处的砖块 1 是 rw 处的墙的一部分，但 r3 处的砖块 1 与 r1 处的砖块 1 不重叠。不存在一个⟨x，r⟩对，使得 x 在 r 处既是 r1 处的砖块 1 的一部分，又是 r3 处的砖块 1 的一部分。因此，后件也得到满足。
+在这里，r1 处的砖块是 rw 处的墙的一部分。此外，从相关意义上讲，r1 处的砖块是 rw 处的墙的“真正的一部分”，因为砖块 1≠ 墙或者 r1≠rw——实际上，这两个分离条件都成立。因此，我们有一个适用于弱补充 4P 的情况：它的前提得到满足。因此，该原则告诉我们，必须存在一个 ⟨x，r⟩ 对，使得 x 在 r 处是 rw 处的墙的一部分，但不与 r1 处的砖块 1 重叠。一个这样的对是 ⟨ 砖块 1，r3⟩：r3 处的砖块 1 是 rw 处的墙的一部分，但 r3 处的砖块 1 与 r1 处的砖块 1 不重叠。不存在一个 ⟨x，r⟩ 对，使得 x 在 r 处既是 r1 处的砖块 1 的一部分，又是 r3 处的砖块 1 的一部分。因此，后件也得到满足。
 
 地面分体论的论证怎么样呢？Gilmore（2009）没有讨论这个案例。然而，四元关系的部分性概念在这里可能也有帮助，即使事情没有那么直接。一旦定义了真正的部分性（这个定义可能有很大的关联），合理地说，真正部分性的传递性和非对称性的四元关系对应关系如下：
 
-* 适当的部分整体性传递性 4P：如果 x1 在 x2 处是 y1 在 y2 处的适当部分，且 y1 在 y2 处是 z1 在 z2 处的适当部分，则 x1 在 x2 处是 z1 在 z2 处的适当部分。∀x1∀x2∀y1∀y2∀z1∀z2[[PP4(x1,x2,y1,y2)&PP4(y1,y2,z1,z2)]→PP4(x1,x2,z1,z2)]
-* 适当的部分整体性非对称性 4P：如果 x1 在 x2 处是 y1 在 y2 处的适当部分，则 y1 在 y2 处不是 x1 在 x2 处的适当部分。（∀x1∀x2∀y1∀y2[PP4(x1,x2,y1,y2)→¬(PP4(y1,y2,x1,x2)]
+* 适当的部分整体性传递性 4P：如果 x1 在 x2 处是 y1 在 y2 处的适当部分，且 y1 在 y2 处是 z1 在 z2 处的适当部分，则 x1 在 x2 处是 z1 在 z2 处的适当部分。∀x1∀x2∀y1∀y2∀z1∀z2 [[PP4(x1, x2, y1, y2)&PP4(y1, y2, z1, z2)] →PP4(x1, x2, z1, z2)]
+* 适当的部分整体性非对称性 4P：如果 x1 在 x2 处是 y1 在 y2 处的适当部分，则 y1 在 y2 处不是 x1 在 x2 处的适当部分。（∀x1∀x2∀y1∀y2 [PP4(x1, x2, y1, y2)→¬(PP4(y1, y2, x1, x2)]
 
-现在，回到 Kleinschmidt（2011）的案例，并回到第 6.6.1 节中的声明 1。显然，x1=z1= Clifford = Odie，x2=r3，y1= Kibble，y2=r2，最后，z2=r1。首先考虑非对称性。在那里我们有
+现在，回到 Kleinschmidt（2011）的案例，并回到第 6.6.1 节中的声明 1。显然，x1 = z1 = Clifford = Odie，x2 = r3，y1 = Kibble，y2 = r2，最后，z2 = r1。首先考虑非对称性。在那里我们有
 
 1. 位置 r2 的 Kibble 是位置 r3 的 Clifford 的一个适当部分，并且
 2. 位置 r1 的 Odie 是位置 r2 的 Kibble 的一个适当部分。
@@ -678,7 +678,7 @@ PP(b1,w),PP(b2,w),...,PP(b100,w)
 
 注意，这并不违反适当部分的反自反性的 4 个位置对应物，可以说：
 
-* 适当的部分性非自反性 4P：如果 x 恰好位于 y，则 x 在 y 处不是 x 在 y 处的适当部分。∀x∀y[L(x,y)→¬PP4(x,y,x,y)]
+* 适当的部分性非自反性 4P：如果 x 恰好位于 y，则 x 在 y 处不是 x 在 y 处的适当部分。∀x∀y [L(x, y)→¬PP4(x, y, x, y)]
 
 因此，可以认为乍一看，四元部分性的概念也可以处理传递性的违反。然而，需要注意的是上述论证的成功或失败在很大程度上取决于四元部分性与身份的相互作用。例如，非对称性论证取决于是否可以合理地否认 Clifford 在 r3 处与 Odie 在 r1 处是相同的。而传递性论证则取决于是否可以合理地否认以下命题：如果 x 在 r1 处是 x 在 r2 处的适当部分（其中 r1≠r2），则 x≠x。
 
@@ -688,19 +688,19 @@ As we noted in [Section 3](https://plato.stanford.edu/entries/location-mereolog
 
 It is both interesting and important to distinguish two versions of *Supersubstantivalism*. *Restricted Supersubstantivalism* only subscribes to *Sup-Sub 1* below, whereas *Unrestricted Supersubstantivalism* maintains both *Sup-Sub 1* and *Sup-Sub 2*—the terminology is due to Schaffer (2009).
 
-* *Sup-Sub 1*: Necessarily, for every material object x,x is exactly located at r iff x=r.
-* *Sup-Sub 2*: Necessarily, for every region r, there is a material object o such that o is exactly located at r iff o=r.
+* *Sup-Sub 1*: Necessarily, for every material object x, x is exactly located at r iff x = r.
+* *Sup-Sub 2*: Necessarily, for every region r, there is a material object o such that o is exactly located at r iff o = r.
 
 The first version is called *Restricted Supersubstantivalism* because it is compatible with there being a *restriction* on which regions can be identified with material objects. For instance, one can maintain that empty regions should not be identified with material objects, or regions with a given dimensionality should not be identified with material objects (e.g., regions that are four-dimensional cannot be the exact locations of objects, say because one endorses some variant of endurantism—see, e.g., Nolan 2014).
 
 * (*Unrestricted*) *Supersubstantivalism* entails:  
-  *Perfect Harmony:* For any mereological predicate P,x is P iff x’s exact location is P.
+  *Perfect Harmony:* For any mereological predicate P, x is P iff x’s exact location is P.
 
 One obtains H1–H8 in [Section 3](https://plato.stanford.edu/entries/location-mereology/#IntePart), by substituting the relevant predicates for P in *Perfect Harmony.* Let us see the arguments for the four cases we discussed.
 
-* **Interpenetration.** *Supersubstantivalism* entails [No Interpenetration](https://plato.stanford.edu/entries/location-mereology/#Prin_nointerpenetration). Assume the antecedent, i.e., suppose L(x,z),L(y,w), and O(z,w). By *Sup-Sub 1*, x=z, and y=w. Therefore O(x,y), which is the consequent.
-* **Extended Simples.** *Supersubstantivalism* entails No Extended Simples. Assume the antecedent, i.e., suppose L(x,y), and y is complex, C(y). By *Sup-Sub 1*, x=y, and therefore C(x), which is the consequent. The argument for **No Unextended Complexes** is exactly parallel.
-* **Multilocation.** *Supersubstantivalism* entails there cannot be “object multilocation”. For reductio, suppose an object x is multilocated, that is, exactly located at least at two *distinct* regions y and w. Then by *Sup-Sub 1*, x=y and x=w. By symmetry and transitivity of identity, y=w. Contradiction.
+* **Interpenetration.** *Supersubstantivalism* entails [No Interpenetration](https://plato.stanford.edu/entries/location-mereology/#Prin_nointerpenetration). Assume the antecedent, i.e., suppose L(x, z), L(y, w), and O(z, w). By *Sup-Sub 1*, x = z, and y = w. Therefore O(x, y), which is the consequent.
+* **Extended Simples.** *Supersubstantivalism* entails No Extended Simples. Assume the antecedent, i.e., suppose L(x, y), and y is complex, C(y). By *Sup-Sub 1*, x = y, and therefore C(x), which is the consequent. The argument for **No Unextended Complexes** is exactly parallel.
+* **Multilocation.** *Supersubstantivalism* entails there cannot be “object multilocation”. For reductio, suppose an object x is multilocated, that is, exactly located at least at two *distinct* regions y and w. Then by *Sup-Sub 1*, x = y and x = w. By symmetry and transitivity of identity, y = w. Contradiction.
 
 ## 8. Further Issues
 
@@ -712,234 +712,234 @@ We conclude by listing some important issues about which we have so far said lit
   * *vagueness and indeterminacy* (McKinnon 2003; Hawley 2004; N. Smith 2005; Donnelly 2009; Barnes & Williams 2011; Carmichael 2011; Eagle 2016a);
 * questions about
   * *locational pluralism* (Fine 2006; Leonard 2014; Kleinschmidt 2016) and
-  * *topic neutrality* of location (Simons 2004a,b; Cowling 2014b; Gilmore 2014a);
+  * *topic neutrality* of location (Simons 2004a, b; Cowling 2014b; Gilmore 2014a);
 * applications to particular domains such as
   * *social* (Effingham 2010; Hindriks 2013) and
   * *personal ontology* (Lowe 1996, 2000, 2001; Olson 1998);
 * the impact of
-  * *relativistic* (Balashov 1999, 2000, 2008, 2010,2014a,b; Gibson & Pooley 2006; Gilmore 2006, 2008; Sattig 2006, 2015; Calosi & Fano 2015; Davidson 2014; Calosi 2015) and
+  * *relativistic* (Balashov 1999, 2000, 2008, 2010,2014a, b; Gibson & Pooley 2006; Gilmore 2006, 2008; Sattig 2006, 2015; Calosi & Fano 2015; Davidson 2014; Calosi 2015) and
   * *quantum physics* (Pashby 2013, 2016; Calosi 2022a).
 
 ## Bibliography
 
 * Armstrong, D. M., 1978, *Nominalism and Realism: Universals and Scientific Realism, Volume 1*, New York: Cambridge University Press.
 * –––, 1989, *Universals: An Opinionated Introduction*, (The Focus Series), Boulder, CO: Westview Press.
-* Baber, H. E., 2013, “The Real Presence”, *Religious Studies*, 49(1): 19–33. doi:10.1017/S0034412512000121
+* Baber, H. E., 2013, “The Real Presence”, *Religious Studies*, 49(1): 19–33. doi: 10.1017/S0034412512000121
 * Bacon, Andrew, 2018, “Relative Locations”, in *Oxford Studies in Metaphysics, Volume 11*, Karen Bennett and Dean W. Zimmerman (eds), Oxford/New York: Oxford University Press, 44–92.
 * Baker, John David, 2016, “Does String Theory Posit Extended Simples?”, *Philosopher’s Imprint*, 16(18): 1–15.
-* Balashov, Yuri, 1999, “Relativistic Objects”, *Noûs*, 33(4): 644–662. doi:10.1111/0029-4624.00198
-* –––, 2000, “Enduring and Perduring Objects in Minkowski Space-Time”, *Philosophical Studies*, 99(2): 129–166. doi:10.1023/A:1018684803885
-* –––, 2008, “Persistence and Multilocation in Spacetime”, in *The Ontology of Spacetime II*, Dennis Dieks (ed.), (Philosophy and Foundations of Physics Book Series 4), Amsterdam: Elsevier, 59–81. doi:10.1016/S1871-1774(08)00004-1
-* –––, 2010, *Persistence and Spacetime*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199579921.001.0001
-* –––, 2014a, “On the Invariance and Intrinsicality of Four-Dimensional Shapes in Special Relativity”, *Analysis*, 74(4): 608–612. doi:10.1093/analys/anu085
-* –––, 2014b, “Relativistic Parts and Places: A Note on Corner Slices and Shrinking Chairs”, in Calosi and Graziani 2014: 35–51. doi:10.1007/978-3-319-05356-1_2
-* Bar-Elli, Gilead, 1988, “Can a Naturalist Believe in Universals? A Comment”, in *Science in Reflection*, Edna Ullmann-Margalit (ed.), (Boston Studies in the Philosophy of Science 110), Dordrecht: Reidel, 117–122. doi:10.1007/978-94-009-2957-9_10
+* Balashov, Yuri, 1999, “Relativistic Objects”, *Noûs*, 33(4): 644–662. doi: 10.1111/0029-4624.00198
+* –––, 2000, “Enduring and Perduring Objects in Minkowski Space-Time”, *Philosophical Studies*, 99(2): 129–166. doi: 10.1023/A: 1018684803885
+* –––, 2008, “Persistence and Multilocation in Spacetime”, in *The Ontology of Spacetime II*, Dennis Dieks (ed.), (Philosophy and Foundations of Physics Book Series 4), Amsterdam: Elsevier, 59–81. doi: 10.1016/S1871-1774(08)00004-1
+* –––, 2010, *Persistence and Spacetime*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199579921.001.0001
+* –––, 2014a, “On the Invariance and Intrinsicality of Four-Dimensional Shapes in Special Relativity”, *Analysis*, 74(4): 608–612. doi: 10.1093/analys/anu085
+* –––, 2014b, “Relativistic Parts and Places: A Note on Corner Slices and Shrinking Chairs”, in Calosi and Graziani 2014: 35–51. doi: 10.1007/978-3-319-05356-1_2
+* Bar-Elli, Gilead, 1988, “Can a Naturalist Believe in Universals? A Comment”, in *Science in Reflection*, Edna Ullmann-Margalit (ed.), (Boston Studies in the Philosophy of Science 110), Dordrecht: Reidel, 117–122. doi: 10.1007/978-94-009-2957-9_10
 * Barnes, Elizabeth and J. Robert G. Williams, 2011, “A Theory Of Metaphysical Indeterminacy”, in *Oxford Studies in Metaphysics, Volume 6*, Karen Bennett and Dean W. Zimmerman (eds), Oxford/New York: Oxford University Press, 103–148.
-* Baron, Sam, 2020, “The Curious Case of Spacetime Emergence”, *Philosophical Studies*, 177(8): 2207–2226. doi:10.1007/s11098-019-01306-z
-* Baron, Sam and Baptiste Le Bihan, 2022a, “Composing Spacetime”, *The Journal of Philosophy*, 119(1): 33–54. doi:10.5840/jphil202211912
-* –––, 2022b, “Quantum Gravity and Mereology: Not So Simple”, *The Philosophical Quarterly*, 72(1): 19–40. doi:10.1093/pq/pqab016
-* Bays, Timothy, 2003, “Hudson on Receptacles”, *Australasian Journal of Philosophy*, 81(4): 569–572. doi:10.1080/713659763
+* Baron, Sam, 2020, “The Curious Case of Spacetime Emergence”, *Philosophical Studies*, 177(8): 2207–2226. doi: 10.1007/s11098-019-01306-z
+* Baron, Sam and Baptiste Le Bihan, 2022a, “Composing Spacetime”, *The Journal of Philosophy*, 119(1): 33–54. doi: 10.5840/jphil202211912
+* –––, 2022b, “Quantum Gravity and Mereology: Not So Simple”, *The Philosophical Quarterly*, 72(1): 19–40. doi: 10.1093/pq/pqab016
+* Bays, Timothy, 2003, “Hudson on Receptacles”, *Australasian Journal of Philosophy*, 81(4): 569–572. doi: 10.1080/713659763
 * Bigelow, John, 1988, *The Reality of Numbers: A Physicalist’s Philosophy of Mathematics*, Oxford: Clarendon Press.
-* Bird, Alexander, 2007, *Nature’s Metaphysics: Laws and Properties*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199227013.001.0001
+* Bird, Alexander, 2007, *Nature’s Metaphysics: Laws and Properties*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199227013.001.0001
 * Bittner, Thomas, Maureen Donnelly, and Barry Smith, 2004, “Endurants and Perdurants in Directly Depicting Ontologies”, *AI Communications*, 17(4): 247–258.
-* Braddon-Mitchell, David and Kristie Miller, 2006, “The Physics of Extended Simples”, *Analysis*, 66(3): 222–226. doi:10.1093/analys/66.3.222
-* Brzozowski, Jacek, 2008, “On Locating Composite Objects”, in *Oxford Studies in Metaphysics, Volume 4*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 193–222. doi:10.1093/oso/9780199542987.003.0009
-* Calosi, Claudio, 2014, “Extensionality, Multilocation, Persistence: Extensionality, Multilocation, Persistence”, *Dialectica*, 68(1): 121–139. doi:10.1111/1746-8361.12052
-* –––, 2015, “The Relativistic Invariance of 4D-Shapes”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 50: 1–4. doi:10.1016/j.shpsb.2015.01.006
-* –––, 2022a, “There Are No Saints: Or: Quantum Multilocation”, *Grazer Philosophische Studien*, 99(1): 30–49. doi:10.1163/18756735-00000147
-* –––, 2022b, “Inheriting Harmony”, *Analysis*, 82(1): 23–32. doi:10.1093/analys/anab055
-* –––, 2023, “Extended Simples, Unextended Complexes”, *Journal of Philosophical Logic*, 52(2): 643–668. doi:10.1007/s10992-022-09683-3
-* Calosi, Claudio and Damiano Costa, 2015, “Multilocation, Fusions and Confusions”, *Philosophia*, 43(1): 25–33. doi:10.1007/s11406-014-9566-2
-* Calosi, Claudio and Vincenzo Fano, 2015, “A New Taxonomy of Persisting (Relativistic) Objects”, *Topoi*, 34(1): 283–294. doi:10.1007/s11245-013-9212-9
-* Calosi, Claudio and Pierluigi Graziani (eds), 2014, *Mereology and the Sciences: Parts and Wholes in the Contemporary Scientific Context*, (Synthese Library 371), Berlin: Springer. doi:10.1007/978-3-319-05356-1
-* Calosi, Claudio and Achille C. Varzi, 2016, “Back to Black”, *Ratio*, 29(1): 1–10. doi:10.1111/rati.12082
-* Carmichael, Chad, 2011, “Vague Composition Without Vague Existence: Vague Composition Without Vague Existence”, *Noûs*, 45(2): 315–327. doi:10.1111/j.1468-0068.2010.00807.x
-* Carroll, John W., 2011, “Self Visitation, Traveler Time, and Compatible Properties”, *Canadian Journal of Philosophy*, 41(3): 359–370. doi:10.1353/cjp.2011.0025
-* Cartwright, Richard, 1975, “Scattered Objects”, in *Analysis and Metaphysics: Essays in Honor of R. M. Chisholm*, Keith Lehrer (ed.), Dordrecht/Boston: Reidel, 153–171. doi:10.1007/978-94-010-9098-8_9
+* Braddon-Mitchell, David and Kristie Miller, 2006, “The Physics of Extended Simples”, *Analysis*, 66(3): 222–226. doi: 10.1093/analys/66.3.222
+* Brzozowski, Jacek, 2008, “On Locating Composite Objects”, in *Oxford Studies in Metaphysics, Volume 4*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 193–222. doi: 10.1093/oso/9780199542987.003.0009
+* Calosi, Claudio, 2014, “Extensionality, Multilocation, Persistence: Extensionality, Multilocation, Persistence”, *Dialectica*, 68(1): 121–139. doi: 10.1111/1746-8361.12052
+* –––, 2015, “The Relativistic Invariance of 4D-Shapes”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 50: 1–4. doi: 10.1016/j.shpsb.2015.01.006
+* –––, 2022a, “There Are No Saints: Or: Quantum Multilocation”, *Grazer Philosophische Studien*, 99(1): 30–49. doi: 10.1163/18756735-00000147
+* –––, 2022b, “Inheriting Harmony”, *Analysis*, 82(1): 23–32. doi: 10.1093/analys/anab055
+* –––, 2023, “Extended Simples, Unextended Complexes”, *Journal of Philosophical Logic*, 52(2): 643–668. doi: 10.1007/s10992-022-09683-3
+* Calosi, Claudio and Damiano Costa, 2015, “Multilocation, Fusions and Confusions”, *Philosophia*, 43(1): 25–33. doi: 10.1007/s11406-014-9566-2
+* Calosi, Claudio and Vincenzo Fano, 2015, “A New Taxonomy of Persisting (Relativistic) Objects”, *Topoi*, 34(1): 283–294. doi: 10.1007/s11245-013-9212-9
+* Calosi, Claudio and Pierluigi Graziani (eds), 2014, *Mereology and the Sciences: Parts and Wholes in the Contemporary Scientific Context*, (Synthese Library 371), Berlin: Springer. doi: 10.1007/978-3-319-05356-1
+* Calosi, Claudio and Achille C. Varzi, 2016, “Back to Black”, *Ratio*, 29(1): 1–10. doi: 10.1111/rati.12082
+* Carmichael, Chad, 2011, “Vague Composition Without Vague Existence: Vague Composition Without Vague Existence”, *Noûs*, 45(2): 315–327. doi: 10.1111/j.1468-0068.2010.00807.x
+* Carroll, John W., 2011, “Self Visitation, Traveler Time, and Compatible Properties”, *Canadian Journal of Philosophy*, 41(3): 359–370. doi: 10.1353/cjp.2011.0025
+* Cartwright, Richard, 1975, “Scattered Objects”, in *Analysis and Metaphysics: Essays in Honor of R. M. Chisholm*, Keith Lehrer (ed.), Dordrecht/Boston: Reidel, 153–171. doi: 10.1007/978-94-010-9098-8_9
 * Casati, Roberto and Achille C. Varzi, 1994, *Holes and Other Superficialities*, Cambridge, MA: MIT Press.
 * –––, 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge, MA: MIT Press.
 * Chalmers, David, 2002, “Does Conceivability Entail Possibility?”, in *Conceivability and Possibility*, Tamar Szabo Gendler and John Hawthorne (eds), Oxford University Press, 145–200.
-* Correia, Fabrice, 2022, “A General Theory of Location Based on the Notion of Entire Location”, *Journal of Philosophical Logic*, 51(3): 555–582. doi:10.1007/s10992-021-09641-5
-* Costa, Damiano, 2017, “The Transcendentist Theory of Persistence”:, *Journal of Philosophy*, 114(2): 57–75. doi:10.5840/jphil201711425
-* Costa, Damiano and Alessandro Giordani, 2016, “In Defence of Transcendentism”, *Acta Analytica*, 31(2): 225–234. doi:10.1007/s12136-015-0270-z
-* Costa, Damiano and Claudio Calosi, 2022, “The Multi-Location Trilemma”, *Erkenntnis*, 87(3): 1063–1079. doi:10.1007/s10670-020-00230-7
-* Cotnoir, A. J., 2016, “How Many Angels Can Be in the Same Place at the Same Time? A Defence of Mereological Universalism”, *Mind*, 125(500): 959–965. doi:10.1093/mind/fzv158
-* Cotnoir, A. J. and Achille C. Varzi, 2021, *Mereology*, Oxford: Oxford University Press. doi:10.1093/oso/9780198749004.001.0001
-* Cowling, Sam, 2014, “Instantiation as Location”, *Philosophical Studies*, 167(3): 667–682. doi:10.1007/s11098-013-0120-z
-* Dainton, Barry, 2008, *The Phenomenal Self*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199288847.001.0001
+* Correia, Fabrice, 2022, “A General Theory of Location Based on the Notion of Entire Location”, *Journal of Philosophical Logic*, 51(3): 555–582. doi: 10.1007/s10992-021-09641-5
+* Costa, Damiano, 2017, “The Transcendentist Theory of Persistence”:, *Journal of Philosophy*, 114(2): 57–75. doi: 10.5840/jphil201711425
+* Costa, Damiano and Alessandro Giordani, 2016, “In Defence of Transcendentism”, *Acta Analytica*, 31(2): 225–234. doi: 10.1007/s12136-015-0270-z
+* Costa, Damiano and Claudio Calosi, 2022, “The Multi-Location Trilemma”, *Erkenntnis*, 87(3): 1063–1079. doi: 10.1007/s10670-020-00230-7
+* Cotnoir, A. J., 2016, “How Many Angels Can Be in the Same Place at the Same Time? A Defence of Mereological Universalism”, *Mind*, 125(500): 959–965. doi: 10.1093/mind/fzv158
+* Cotnoir, A. J. and Achille C. Varzi, 2021, *Mereology*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198749004.001.0001
+* Cowling, Sam, 2014, “Instantiation as Location”, *Philosophical Studies*, 167(3): 667–682. doi: 10.1007/s11098-013-0120-z
+* Dainton, Barry, 2008, *The Phenomenal Self*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199288847.001.0001
 * –––, 2010, *Time and Space*, second edition, Montreal/Ithaca, NY: McGill-Queen’s University Press.
-* Daniels, Paul R., 2014, “Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism”, *Australasian Journal of Philosophy*, 92(1): 91–101. doi:10.1080/00048402.2013.820764
-* Davidson, Matthew, 2014, “Special Relativity and the Intrinsicality of Shape”, *Analysis*, 74(1): 57–58. doi:10.1093/analys/ant100
-* Donnelly, Maureen, 2004, “A Formal Theory for Reasoning about Parthood, Connection, and Location”, *Artificial Intelligence*, 160(1–2): 145–172. doi:10.1016/j.artint.2004.06.003
-* –––, 2009, “Mereological Vagueness and Existential Vagueness”, *Synthese*, 168(1): 53–79. doi:10.1007/s11229-008-9312-z
+* Daniels, Paul R., 2014, “Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism”, *Australasian Journal of Philosophy*, 92(1): 91–101. doi: 10.1080/00048402.2013.820764
+* Davidson, Matthew, 2014, “Special Relativity and the Intrinsicality of Shape”, *Analysis*, 74(1): 57–58. doi: 10.1093/analys/ant100
+* Donnelly, Maureen, 2004, “A Formal Theory for Reasoning about Parthood, Connection, and Location”, *Artificial Intelligence*, 160(1–2): 145–172. doi: 10.1016/j.artint.2004.06.003
+* –––, 2009, “Mereological Vagueness and Existential Vagueness”, *Synthese*, 168(1): 53–79. doi: 10.1007/s11229-008-9312-z
 * –––, 2010, “Parthood and Multi-Location”, in *Oxford Studies in Metaphysics, Volume 5*, Dean W. Zimmerman (ed.), Oxford/New York: Oxford University Press, 203–243 (ch. 10).
-* –––, 2011a, “Using Mereological Principles to Support Metaphysics”, *The Philosophical Quarterly*, 61(243): 225–246. doi:10.1111/j.1467-9213.2010.683.x
-* –––, 2011b, “Endurantist and Perdurantist Accounts of Persistence”, *Philosophical Studies*, 154(1): 27–51. doi:10.1007/s11098-010-9526-z
-* Donnelly, Maureen, Thomas Bittner, and Cornelius Rosse, 2006, “A Formal Theory for Spatial Representation and Reasoning in Biomedical Ontologies”, *Artificial Intelligence in Medicine*, 36(1): 1–27. doi:10.1016/j.artmed.2005.07.004
+* –––, 2011a, “Using Mereological Principles to Support Metaphysics”, *The Philosophical Quarterly*, 61(243): 225–246. doi: 10.1111/j.1467-9213.2010.683.x
+* –––, 2011b, “Endurantist and Perdurantist Accounts of Persistence”, *Philosophical Studies*, 154(1): 27–51. doi: 10.1007/s11098-010-9526-z
+* Donnelly, Maureen, Thomas Bittner, and Cornelius Rosse, 2006, “A Formal Theory for Spatial Representation and Reasoning in Biomedical Ontologies”, *Artificial Intelligence in Medicine*, 36(1): 1–27. doi: 10.1016/j.artmed.2005.07.004
 * Eagle, Antony, 2010a, “Location and Perdurance”, in *Oxford Studies in Metaphysics, Volume 5*, Dean W. Zimmerman (ed.), Oxford/New York: Oxford University Press, 53–94 (ch. 4).
 * –––, 2010b, “Duration in Relativistic Spacetime”, in *Oxford Studies in Metaphysics, Volume 5*, Dean W. Zimmerman (ed.), Oxford/New York: Oxford University Press, 113–118 (ch. 6).
-* –––, 2016a, “Persistence, Vagueness, and Location”:, *Journal of Philosophy*, 113(10): 507–532. doi:10.5840/jphil20161131035
-* –––, 2016b, “Multiple Location Defended”, *Philosophical Studies*, 173(8): 2215–2231. doi:10.1007/s11098-015-0605-z
-* –––, 2019, “Weak Location”, *Dialectica*, 73(1–2): 149–181. doi:10.1111/1746-8361.12264
-* Eddon, M., 2010, “Why Four-Dimensionalism Explains Coincidence”, *Australasian Journal of Philosophy*, 88(4): 721–728. doi:10.1080/00048401003636887
-* Effingham, Nikk, 2010, “The Metaphysics of Groups”, *Philosophical Studies*, 149(2): 251–267. doi:10.1007/s11098-009-9335-4
-* –––, 2011, “Temporal Parts and Time Travel”, *Erkenntnis*, 74(2): 225–240. doi:10.1007/s10670-010-9231-5
-* –––, 2012, “Impure Sets May Be Located: A Reply to Cook: Impure Sets May Be Located”, *Thought: A Journal of Philosophy*, 1(4): 330–336. doi:10.1002/tht3.48
-* –––, 2015a, “Multiple Location and Christian Philosophical Theology”:, *Faith and Philosophy*, 32(1): 25–44. doi:10.5840/faithphil20153427
-* –––, 2015b, “The Location of Properties”, *Noûs*, 49(4): 846–866. doi:10.1111/nous.12093
-* Effingham, Nikk and Jon Robson, 2007, “A Mereological Challenge to Endurantism”, *Australasian Journal of Philosophy*, 85(4): 633–640. doi:10.1080/00048400701728541
-* Ehring, Douglas, 1997a, “Lewis, Temporary Intrinsics and Momentary Tropes”, *Analysis*, 57(4): 254–258. doi:10.1093/analys/57.4.254
-* –––, 1997b, *Causation and Persistence: A Theory of Causation*, New York/Oxford: Oxford University Press. doi:10.1093/oso/9780195107944.001.0001
-* –––, 2004, “Distinguishing Universals from Particulars”, *Analysis*, 64(4): 326–332. doi:10.1093/analys/64.4.326
-* –––, 2011, *Tropes: Properties, Objects, and Mental Causation*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199608539.001.0001
-* Fine, Kit, 2006, “In Defense of Three-Dimensionalism”:, *Journal of Philosophy*, 103(12): 699–714. doi:10.5840/jphil2006103126
-* Flint, Thomas P. and Michael C. Rea (eds), 2009, *The Oxford Handbook of Philosophical Theology*, (Oxford Handbooks Series), Oxford/New York: Oxford University Press. doi:10.1093/oxfordhb/9780199596539.001.0001
-* Forrest, Peter, 1995, “Is Space-Time Discrete or Continuous?  An Empirical Question”, *Synthese*, 103(3): 327–354. doi:10.1007/BF01089732
-* Garcia, Yanssel, forthcoming, “Endurantism, Presentism, and the Problem of Temporary Intrinsics”, *Analytic Philosophy*, first online: 15 May 2023, doi:10.1111/phib.12307
-* Gibson, Ian and Oliver Pooley, 2006, “Relativistic Persistence”, *Philosophical Perspectives*, 20: 157–198. doi:10.1111/j.1520-8583.2006.00106.x
-* Gilmore, Cody S., 2002, “Balashov on Special Relativity, Coexistence, and Temporal Parts”, *Philosophical Studies*, 109(3): 241–263. doi:10.1023/A:1019629628465
-* –––, 2003, “In Defence of Spatially Related Universals”, *Australasian Journal of Philosophy*, 81(3): 420–428. doi:10.1080/713659709
-* –––, 2006, “Where in the Relativistic World Are We?”, *Philosophical Perspectives*, 20: 199–236. doi:10.1111/j.1520-8583.2006.00107.x
-* –––, 2007, “Time Travel, Coinciding Objects, and Persistence”, in *Oxford Studies in Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 177–198. doi:10.1093/oso/9780199218394.003.0006
-* –––, 2008, “Persistence and Location in Relativistic Spacetime”, *Philosophy Compass*, 3(6): 1224–1254. doi:10.1111/j.1747-9991.2008.00185.x
-* –––, 2009, “Why Parthood Might Be a Four-Place Relation, and How It Behaves If It Is”, in *Unity and Time in Metaphysics*, Ludger Honnefelder, Edmund Runggaldier, and Benedikt Schick (eds), Berlin/New York: Walter de Gruyter, 83–133. doi:10.1515/9783110212358.83
+* –––, 2016a, “Persistence, Vagueness, and Location”:, *Journal of Philosophy*, 113(10): 507–532. doi: 10.5840/jphil20161131035
+* –––, 2016b, “Multiple Location Defended”, *Philosophical Studies*, 173(8): 2215–2231. doi: 10.1007/s11098-015-0605-z
+* –––, 2019, “Weak Location”, *Dialectica*, 73(1–2): 149–181. doi: 10.1111/1746-8361.12264
+* Eddon, M., 2010, “Why Four-Dimensionalism Explains Coincidence”, *Australasian Journal of Philosophy*, 88(4): 721–728. doi: 10.1080/00048401003636887
+* Effingham, Nikk, 2010, “The Metaphysics of Groups”, *Philosophical Studies*, 149(2): 251–267. doi: 10.1007/s11098-009-9335-4
+* –––, 2011, “Temporal Parts and Time Travel”, *Erkenntnis*, 74(2): 225–240. doi: 10.1007/s10670-010-9231-5
+* –––, 2012, “Impure Sets May Be Located: A Reply to Cook: Impure Sets May Be Located”, *Thought: A Journal of Philosophy*, 1(4): 330–336. doi: 10.1002/tht3.48
+* –––, 2015a, “Multiple Location and Christian Philosophical Theology”:, *Faith and Philosophy*, 32(1): 25–44. doi: 10.5840/faithphil20153427
+* –––, 2015b, “The Location of Properties”, *Noûs*, 49(4): 846–866. doi: 10.1111/nous.12093
+* Effingham, Nikk and Jon Robson, 2007, “A Mereological Challenge to Endurantism”, *Australasian Journal of Philosophy*, 85(4): 633–640. doi: 10.1080/00048400701728541
+* Ehring, Douglas, 1997a, “Lewis, Temporary Intrinsics and Momentary Tropes”, *Analysis*, 57(4): 254–258. doi: 10.1093/analys/57.4.254
+* –––, 1997b, *Causation and Persistence: A Theory of Causation*, New York/Oxford: Oxford University Press. doi: 10.1093/oso/9780195107944.001.0001
+* –––, 2004, “Distinguishing Universals from Particulars”, *Analysis*, 64(4): 326–332. doi: 10.1093/analys/64.4.326
+* –––, 2011, *Tropes: Properties, Objects, and Mental Causation*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199608539.001.0001
+* Fine, Kit, 2006, “In Defense of Three-Dimensionalism”:, *Journal of Philosophy*, 103(12): 699–714. doi: 10.5840/jphil2006103126
+* Flint, Thomas P. and Michael C. Rea (eds), 2009, *The Oxford Handbook of Philosophical Theology*, (Oxford Handbooks Series), Oxford/New York: Oxford University Press. doi: 10.1093/oxfordhb/9780199596539.001.0001
+* Forrest, Peter, 1995, “Is Space-Time Discrete or Continuous?  An Empirical Question”, *Synthese*, 103(3): 327–354. doi: 10.1007/BF01089732
+* Garcia, Yanssel, forthcoming, “Endurantism, Presentism, and the Problem of Temporary Intrinsics”, *Analytic Philosophy*, first online: 15 May 2023, doi: 10.1111/phib.12307
+* Gibson, Ian and Oliver Pooley, 2006, “Relativistic Persistence”, *Philosophical Perspectives*, 20: 157–198. doi: 10.1111/j.1520-8583.2006.00106.x
+* Gilmore, Cody S., 2002, “Balashov on Special Relativity, Coexistence, and Temporal Parts”, *Philosophical Studies*, 109(3): 241–263. doi: 10.1023/A: 1019629628465
+* –––, 2003, “In Defence of Spatially Related Universals”, *Australasian Journal of Philosophy*, 81(3): 420–428. doi: 10.1080/713659709
+* –––, 2006, “Where in the Relativistic World Are We?”, *Philosophical Perspectives*, 20: 199–236. doi: 10.1111/j.1520-8583.2006.00107.x
+* –––, 2007, “Time Travel, Coinciding Objects, and Persistence”, in *Oxford Studies in Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 177–198. doi: 10.1093/oso/9780199218394.003.0006
+* –––, 2008, “Persistence and Location in Relativistic Spacetime”, *Philosophy Compass*, 3(6): 1224–1254. doi: 10.1111/j.1747-9991.2008.00185.x
+* –––, 2009, “Why Parthood Might Be a Four-Place Relation, and How It Behaves If It Is”, in *Unity and Time in Metaphysics*, Ludger Honnefelder, Edmund Runggaldier, and Benedikt Schick (eds), Berlin/New York: Walter de Gruyter, 83–133. doi: 10.1515/9783110212358.83
 * –––, 2010, “Coinciding Objects and Duration Properties: Reply to Eagle”, in *Oxford Studies in Metaphysics, Volume 5*, Dean W. Zimmerman (ed.), Oxford/New York: Oxford University Press, 95–111 (ch. 5).
-* –––, 2014a, “Parts of Propositions”, in Kleinschmidt 2014: 156–208 (ch. 9). doi:10.1093/acprof:oso/9780199593828.003.0009
-* –––, 2014b, “Building Enduring Objects Out of Spacetime”, in Calosi and Graziani 2014: 5–34. doi:10.1007/978-3-319-05356-1_1
-* Gilmore, Cody, Damiano Costa, and Claudio Calosi, 2016, “Relativity and Three Four‐dimensionalisms”, *Philosophy Compass*, 11(2): 102–120. doi:10.1111/phc3.12308
-* Giordani, Alessandro and Damiano Costa, 2013, “From Times to Worlds and Back Again: A Transcendentist Theory of Persistence”, *Thought: A Journal of Philosophy*, 2(3): 210–220. doi:10.1002/tht3.79
-* Goodsell, Zachary, Michael Duncan, and Kristie Miller, 2020, “What Is an Extended Simple Region?”, *Philosophy and Phenomenological Research*, 101(3): 649–659. doi:10.1111/phpr.12623
+* –––, 2014a, “Parts of Propositions”, in Kleinschmidt 2014: 156–208 (ch. 9). doi: 10.1093/acprof: oso/9780199593828.003.0009
+* –––, 2014b, “Building Enduring Objects Out of Spacetime”, in Calosi and Graziani 2014: 5–34. doi: 10.1007/978-3-319-05356-1_1
+* Gilmore, Cody, Damiano Costa, and Claudio Calosi, 2016, “Relativity and Three Four‐dimensionalisms”, *Philosophy Compass*, 11(2): 102–120. doi: 10.1111/phc3.12308
+* Giordani, Alessandro and Damiano Costa, 2013, “From Times to Worlds and Back Again: A Transcendentist Theory of Persistence”, *Thought: A Journal of Philosophy*, 2(3): 210–220. doi: 10.1002/tht3.79
+* Goodsell, Zachary, Michael Duncan, and Kristie Miller, 2020, “What Is an Extended Simple Region?”, *Philosophy and Phenomenological Research*, 101(3): 649–659. doi: 10.1111/phpr.12623
 * Greene, Brian, 1999, *The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory*, New York: W.W. Norton.
-* Hagar, Amit, 2014, *Discrete or Continuous? The Quest for Fundamental Length in Modern Physics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107477346
-* Harte, Verity, 2002, *Plato on Parts and Wholes: The Metaphysics of Structure*, Oxford/New York: Clarendon Press. doi:10.1093/0198236751.001.0001
-* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics”, *Analysis*, 49(3): 119–125. doi:10.1093/analys/49.3.119
+* Hagar, Amit, 2014, *Discrete or Continuous? The Quest for Fundamental Length in Modern Physics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781107477346
+* Harte, Verity, 2002, *Plato on Parts and Wholes: The Metaphysics of Structure*, Oxford/New York: Clarendon Press. doi: 10.1093/0198236751.001.0001
+* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics”, *Analysis*, 49(3): 119–125. doi: 10.1093/analys/49.3.119
 * –––, 2003, “Persistence through Time”, in *The Oxford Handbook of Metaphysics*, Michael J. Loux and Dean W. Zimmerman (eds), Oxford/New York: Oxford University Press, 315–354.
-* Hawley, Katherine, 2004, “Borderline Simple or Extremely Simple”:, *Monist*, 87(3): 385–404. doi:10.5840/monist200487319
-* Hawley, Katherine and Alexander Bird, 2011, “What Are Natural Kinds?”, *Philosophical Perspectives*, 25: 205–221. doi:10.1111/j.1520-8583.2011.00212.x
-* Hawthorne, John, 2006, *Metaphysical Essays*, Oxford: Clarendon. doi:10.1093/acprof:oso/9780199291236.001.0001
+* Hawley, Katherine, 2004, “Borderline Simple or Extremely Simple”:, *Monist*, 87(3): 385–404. doi: 10.5840/monist200487319
+* Hawley, Katherine and Alexander Bird, 2011, “What Are Natural Kinds?”, *Philosophical Perspectives*, 25: 205–221. doi: 10.1111/j.1520-8583.2011.00212.x
+* Hawthorne, John, 2006, *Metaphysical Essays*, Oxford: Clarendon. doi: 10.1093/acprof: oso/9780199291236.001.0001
 * –––, 2008, “Three-Dimensionalism vs. Four-Dimensionalism”, in *Contemporary Debates in Metaphysics*, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds), (Contemporary Debates in Philosophy 10), Malden, MA: Blackwell Pub, 263–282.
-* Hawthorne, John and Gabriel Uzquiano, 2011, “How Many Angels Can Dance on the Point of a Needle? Transcendental Theology Meets Modal Metaphysics”, *Mind*, 120(477): 53–81. doi:10.1093/mind/fzr004
-* Hindriks, Frank, 2013, “The Location Problem in Social Ontology”, *Synthese*, 190(3): 413–437. doi:10.1007/s11229-011-0036-0
-* Hofweber, Thomas and J. David Velleman, 2011, “How to Endure”, *The Philosophical Quarterly*, 61(242): 37–57. doi:10.1111/j.1467-9213.2010.671.x
-* Holden, Thomas, 2004, *The Architecture of Matter: Galileo to Kant*, Oxford: Clarendon. doi:10.1093/0199263264.001.0001
+* Hawthorne, John and Gabriel Uzquiano, 2011, “How Many Angels Can Dance on the Point of a Needle? Transcendental Theology Meets Modal Metaphysics”, *Mind*, 120(477): 53–81. doi: 10.1093/mind/fzr004
+* Hindriks, Frank, 2013, “The Location Problem in Social Ontology”, *Synthese*, 190(3): 413–437. doi: 10.1007/s11229-011-0036-0
+* Hofweber, Thomas and J. David Velleman, 2011, “How to Endure”, *The Philosophical Quarterly*, 61(242): 37–57. doi: 10.1111/j.1467-9213.2010.671.x
+* Holden, Thomas, 2004, *The Architecture of Matter: Galileo to Kant*, Oxford: Clarendon. doi: 10.1093/0199263264.001.0001
 * Hudson, Hud, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca, NY: Cornell University Press.
-* –––, 2005, *The Metaphysics of Hyperspace*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199282579.001.0001
+* –––, 2005, *The Metaphysics of Hyperspace*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199282579.001.0001
 * –––, 2009, “Omnipresence”, in Flint and Rea 2009: 199–216 (ch. 9).
 * –––, 2010, “Multiple Location and Single Location Resurrection”, in *Personal Identity and Resurrection: How Do We Survive Our Death?*, Georg Gasser (ed.), Farnham: Ashgate, 87–101 (ch. 5).
-* –––, 2014, “Transhypertime Identity”, in Kleinschmidt 2014: 135–155 (ch. 8). doi:10.1093/acprof:oso/9780199593828.003.0008
+* –––, 2014, “Transhypertime Identity”, in Kleinschmidt 2014: 135–155 (ch. 8). doi: 10.1093/acprof: oso/9780199593828.003.0008
 * Inman, Ross D., 2017, “Omnipresence and the Location of the Immaterial”, in *Oxford Studies in Philosophy of Religion, Volume 8*, Jonathan L. Kvanvig (ed.), Oxford: Oxford University Press, 168–206 (ch. 8).
-* Jaeger, Andrew J., 2014, “A Tale of Two Parts”, *Res Philosophica*, 91(3): 477–484. doi:10.11612/resphil.2014.91.3.1
-* Johnston, Mark, 1987, “Is There a Problem About Persistence? Part 1”, *Aristotelian Society Supplementary Volume*, 61(1): 107–156. doi:10.1093/aristoteliansupp/61.1.107
-* Jones, Nicholas K., 2018, “Nominalist Realism”, *Noûs*, 52(4): 808–835. doi:10.1111/nous.12193
-* Keller, S. and M. Nelson, 2001, “Presentists Should Believe in Time-Travel”, *Australasian Journal of Philosophy*, 79(3): 333–345. doi:10.1080/713931204
-* Kleinschmidt, Shieva, 2011, “Multilocation and Mereology”, *Philosophical Perspectives*, 25: 253–276. doi:10.1111/j.1520-8583.2011.00215.x
-* ––– (ed.), 2014, *Mereology and Location*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199593828.001.0001
-* –––, 2016, “Placement Permissivism and Logics of Location”:, *Journal of Philosophy*, 113(3): 117–136. doi:10.5840/jphil201611337
-* –––, 2017, “Refining Four-Dimensionalism”, *Synthese*, 194(11): 4623–4640. doi:10.1007/s11229-016-1164-3
-* Lafrance, J. D., 2015, “A Bundle of Universals Theory of Material Objects”, *The Philosophical Quarterly*, 65(259): 202–219. doi:10.1093/pq/pqu078
+* Jaeger, Andrew J., 2014, “A Tale of Two Parts”, *Res Philosophica*, 91(3): 477–484. doi: 10.11612/resphil.2014.91.3.1
+* Johnston, Mark, 1987, “Is There a Problem About Persistence? Part 1”, *Aristotelian Society Supplementary Volume*, 61(1): 107–156. doi: 10.1093/aristoteliansupp/61.1.107
+* Jones, Nicholas K., 2018, “Nominalist Realism”, *Noûs*, 52(4): 808–835. doi: 10.1111/nous.12193
+* Keller, S. and M. Nelson, 2001, “Presentists Should Believe in Time-Travel”, *Australasian Journal of Philosophy*, 79(3): 333–345. doi: 10.1080/713931204
+* Kleinschmidt, Shieva, 2011, “Multilocation and Mereology”, *Philosophical Perspectives*, 25: 253–276. doi: 10.1111/j.1520-8583.2011.00215.x
+* ––– (ed.), 2014, *Mereology and Location*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199593828.001.0001
+* –––, 2016, “Placement Permissivism and Logics of Location”:, *Journal of Philosophy*, 113(3): 117–136. doi: 10.5840/jphil201611337
+* –––, 2017, “Refining Four-Dimensionalism”, *Synthese*, 194(11): 4623–4640. doi: 10.1007/s11229-016-1164-3
+* Lafrance, J. D., 2015, “A Bundle of Universals Theory of Material Objects”, *The Philosophical Quarterly*, 65(259): 202–219. doi: 10.1093/pq/pqu078
 * Leibniz, Gottfried, 1704 [1996], *Nouveaux essais sur l’entendement humain*, written 1704, published 1765. Translated as *New Essays on Human Understanding*, Peter Remnant and Jonathan Bennett (trans/eds), (Cambridge Texts in the History of Philosophy), New York: Cambridge University Press, 1996.
-* Leonard, Matt, 2014, “Locating Gunky Water and Wine”, *Ratio*, 27(3): 306–315. doi:10.1111/rati.12046
-* –––, 2016, “What Is Mereological Harmony?”, *Synthese*, 193(6): 1949–1965. doi:10.1007/s11229-015-0822-1
-* –––, 2018, “Enduring Through Gunk”, *Erkenntnis*, 83(4): 753–771. doi:10.1007/s10670-017-9912-4
-* –––, 2022, “Supersubstantivalism and Vague Location”, *Philosophical Studies*, 179(11): 3473–3488. doi:10.1007/s11098-022-01828-z
+* Leonard, Matt, 2014, “Locating Gunky Water and Wine”, *Ratio*, 27(3): 306–315. doi: 10.1111/rati.12046
+* –––, 2016, “What Is Mereological Harmony?”, *Synthese*, 193(6): 1949–1965. doi: 10.1007/s11229-015-0822-1
+* –––, 2018, “Enduring Through Gunk”, *Erkenntnis*, 83(4): 753–771. doi: 10.1007/s10670-017-9912-4
+* –––, 2022, “Supersubstantivalism and Vague Location”, *Philosophical Studies*, 179(11): 3473–3488. doi: 10.1007/s11098-022-01828-z
 * Lewis, David K., 1991, *Parts of Classes*, Oxford/Cambridge, MA: B. Blackwell.
-* –––, 1999, *Papers in Metaphysics and Epistemology* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511625343
-* Lewis, David and Stephanie Lewis, 1970, “Holes”, *Australasian Journal of Philosophy*, 48(2): 206–212. doi:10.1080/00048407012341181
-* Lo, Tien-Chun and Hsuan-Chih Lin, 2023, “Against the Humean Argument for Extended Simples”, *Australasian Journal of Philosophy*, 101(3): 551–563. doi:10.1080/00048402.2022.2036783
-* Loss, Roberto, 2019, “How to Make a Gunky Spritz”, *Thought: A Journal of Philosophy*, 8(4): 250–259. doi:10.1002/tht3.429
-* –––, 2023, “Somewhere Together: Location, Parsimony and Multilocation”, *Erkenntnis*, 88(2): 675–691. doi:10.1007/s10670-021-00376-y
-* owe, E. J., 1996, *Subjects of Experience* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511598005
-* –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
-* –––, 2000, “In Defence of the Simplicity Argument”, *Australasian Journal of Philosophy*, 78(1): 105–112. doi:10.1080/00048400012349381
+* –––, 1999, *Papers in Metaphysics and Epistemology* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511625343
+* Lewis, David and Stephanie Lewis, 1970, “Holes”, *Australasian Journal of Philosophy*, 48(2): 206–212. doi: 10.1080/00048407012341181
+* Lo, Tien-Chun and Hsuan-Chih Lin, 2023, “Against the Humean Argument for Extended Simples”, *Australasian Journal of Philosophy*, 101(3): 551–563. doi: 10.1080/00048402.2022.2036783
+* Loss, Roberto, 2019, “How to Make a Gunky Spritz”, *Thought: A Journal of Philosophy*, 8(4): 250–259. doi: 10.1002/tht3.429
+* –––, 2023, “Somewhere Together: Location, Parsimony and Multilocation”, *Erkenntnis*, 88(2): 675–691. doi: 10.1007/s10670-021-00376-y
+* owe, E. J., 1996, *Subjects of Experience* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511598005
+* –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi: 10.1093/0199244995.001.0001
+* –––, 2000, “In Defence of the Simplicity Argument”, *Australasian Journal of Philosophy*, 78(1): 105–112. doi: 10.1080/00048400012349381
 * –––, 2001, “Identity, Composition, and the Simplicity of the Self”, in *Soul, Body, and Survival: Essays on the Metaphysics of Human Persons*, Kevin Corcoran (ed.), Ithaca, NY: Cornell University Press, 139–158.
-* –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, *Ratio*, 16(2): 140-160. doi:10.1111/1467-9329.00212
-* MacBride, Fraser, 1998, “Where Are Particulars and Universals?”, *Dialectica*, 52(3): 203–227. doi:10.1111/j.1746-8361.1998.tb00050.x
-* Maddy, Penelope, 1990, *Realism in Mathematics*, Oxford: Clarendon Press. doi:10.1093/019824035X.001.0001
-* Magalhães, Ernâni, 2006, “Armstrong on the Spatio-Temporality of Universals”, *Australasian Journal of Philosophy*, 84(2): 301–308. doi:10.1080/00048400600759209
-* Mahlan, John Robert, 2018, “Can Universals Be Wholly Located Where Their Instances Are Located?”, *Metaphysica*, 19(1): 39–55. doi:10.1515/mp-2018-0002
-* Markosian, Ned, 1998, “Simples”, *Australasian Journal of Philosophy*, 76(2): 213–228. doi:10.1080/00048409812348361
-* –––, 2004, “Simple, Stuff, and Simple People”, *The Monist*, 87(3): 405–428. doi:10.5840/monist200487318.
-* –––, 2014, “A Spatial Approach to Mereology”, in Kleinschmidt 2014: 69–90 (ch. 5). doi:10.1093/acprof:oso/9780199593828.003.0005
-* –––, 2015, “The Right Stuff”, *Australasian Journal of Philosophy*, 93(4): 665–687. doi:10.1080/00048402.2014.999001
-* Marmodoro, Anna, 2017, *Everything in Everything: Anaxagoras’s Metaphysics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190611972.001.0001
-* McDaniel, Kris, 2004, “Modal Realism with Overlap”, *Australasian Journal of Philosophy*, 82(1): 137–152. doi:10.1080/713659792
-* –––, 2007a, “Brutal Simples”, in *Oxford Studies In Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 233–266. doi:10.1093/oso/9780199218394.003.0008
-* –––, 2007b, “Extended Simples”, *Philosophical Studies*, 133(1): 131–141. doi:10.1007/s11098-006-9010-y
-* –––, 2007c, “Distance and Discrete Space”, *Synthese*, 155(1): 157–162. doi:10.1007/s11229-005-5034-7
-* –––, 2009, “Extended Simples and Qualitative Heterogeneity”, *The Philosophical Quarterly*, 59(235): 325–331. doi:10.1111/j.1467-9213.2008.589.x
-* McKinnon, Neil, 2003, “Vague Simples”, *Pacific Philosophical Quarterly*, 84(4): 394–397. doi:10.1046/j.1468-0114.2003.00181.x
+* –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, *Ratio*, 16(2): 140-160. doi: 10.1111/1467-9329.00212
+* MacBride, Fraser, 1998, “Where Are Particulars and Universals?”, *Dialectica*, 52(3): 203–227. doi: 10.1111/j.1746-8361.1998.tb00050.x
+* Maddy, Penelope, 1990, *Realism in Mathematics*, Oxford: Clarendon Press. doi: 10.1093/019824035X.001.0001
+* Magalhães, Ernâni, 2006, “Armstrong on the Spatio-Temporality of Universals”, *Australasian Journal of Philosophy*, 84(2): 301–308. doi: 10.1080/00048400600759209
+* Mahlan, John Robert, 2018, “Can Universals Be Wholly Located Where Their Instances Are Located?”, *Metaphysica*, 19(1): 39–55. doi: 10.1515/mp-2018-0002
+* Markosian, Ned, 1998, “Simples”, *Australasian Journal of Philosophy*, 76(2): 213–228. doi: 10.1080/00048409812348361
+* –––, 2004, “Simple, Stuff, and Simple People”, *The Monist*, 87(3): 405–428. doi: 10.5840/monist200487318.
+* –––, 2014, “A Spatial Approach to Mereology”, in Kleinschmidt 2014: 69–90 (ch. 5). doi: 10.1093/acprof: oso/9780199593828.003.0005
+* –––, 2015, “The Right Stuff”, *Australasian Journal of Philosophy*, 93(4): 665–687. doi: 10.1080/00048402.2014.999001
+* Marmodoro, Anna, 2017, *Everything in Everything: Anaxagoras’s Metaphysics*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190611972.001.0001
+* McDaniel, Kris, 2004, “Modal Realism with Overlap”, *Australasian Journal of Philosophy*, 82(1): 137–152. doi: 10.1080/713659792
+* –––, 2007a, “Brutal Simples”, in *Oxford Studies In Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 233–266. doi: 10.1093/oso/9780199218394.003.0008
+* –––, 2007b, “Extended Simples”, *Philosophical Studies*, 133(1): 131–141. doi: 10.1007/s11098-006-9010-y
+* –––, 2007c, “Distance and Discrete Space”, *Synthese*, 155(1): 157–162. doi: 10.1007/s11229-005-5034-7
+* –––, 2009, “Extended Simples and Qualitative Heterogeneity”, *The Philosophical Quarterly*, 59(235): 325–331. doi: 10.1111/j.1467-9213.2008.589.x
+* McKinnon, Neil, 2003, “Vague Simples”, *Pacific Philosophical Quarterly*, 84(4): 394–397. doi: 10.1046/j.1468-0114.2003.00181.x
 * Mellor, D. H., 1981, *Real Time*, Cambridge/New York: Cambridge University Press.
-* Miller, Kristie, 2006, “Travelling in Time: How to Wholly Exist in Two Places at the Same Time”, *Canadian Journal of Philosophy*, 36(3): 309–334. doi:10.1353/cjp.2006.0019
+* Miller, Kristie, 2006, “Travelling in Time: How to Wholly Exist in Two Places at the Same Time”, *Canadian Journal of Philosophy*, 36(3): 309–334. doi: 10.1353/cjp.2006.0019
 * Moore, G. E., 1953, *Some Main Problems of Philosophy* (Muirhead Library of Philosophy), London/New York: George Allen & Unwin/Macmillan.
 * –––, 1966, *Lectures on Philosophy*, Casimir Lewy (ed.), (Muirhead Library of Philosophy), London/New York: Allen & Unwin; Humanities Press.
-* Newman, Andrew, 1992, *The Physical Basis of Predication* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511663833
-* –––, 2002, *The Correspondence Theory of Truth: An Essay on the Metaphysics of Predication* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511497971
-* Nolan, Daniel, 2014, “Balls and All”, in Kleinschmidt 2014: 91–116 (ch. 6). doi:10.1093/acprof:oso/9780199593828.003.0006
-* Noonan, Harold W., 2009, “Perdurance, Location and Classical Mereology”, *Analysis*, 69(3): 448–452. doi:10.1093/analys/anp073
-* O’Leary-Hawthorne, John, 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, *Analysis*, 55(3): 191–196. doi:10.1093/analys/55.3.191
-* O’Leary-Hawthorne, John and J. A. Cover, 1998, “A World of Universals”, *Philosophical Studies*, 91(3): 205–219. doi:10.1023/A:1004276510940
-* Olson, Eric T., 1998, “Human Atoms”, *Australasian Journal of Philosophy*, 76(3): 396–406. doi:10.1080/00048409812348521
-* Parsons, Josh, 2000, “Must a Four-Dimensionalist Believe in Temporal Parts?”:, *Monist*, 83(3): 399–418. doi:10.5840/monist200083319
-* –––, 2007, “Theories of Location”, in *Oxford Studies In Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 201–232. doi:10.1093/oso/9780199218394.003.0007
-* –––, 2008, “Hudson on Location”, *Philosophy and Phenomenological Research*, 76(2): 427–435. doi:10.1111/j.1933-1592.2007.00143.x
-* Pashby, Thomas, 2013, “Do Quantum Objects Have Temporal Parts?”, *Philosophy of Science*, 80(5): 1137–1147. doi:10.1086/673968
-* –––, 2016, “How *Do* Things Persist? Location Relations in Physics and the Metaphysics of Persistence: How Do Things Persist?”, *Dialectica*, 70(3): 269–309. doi:10.1111/1746-8361.12150
-* Pasnau, Robert, 2011, *Metaphysical Themes, 1274–1671*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199567911.001.0001
-* Paul, L.A., 2002, “Logical Parts”, *Noûs*, 36(4): 578–596. doi:10.1111/1468-0068.00402
-* –––, 2006, “Coincidence as Overlap”, *Noûs*, 40(4): 623–659. doi:10.1111/j.1468-0068.2006.00627.x
-* –––, 2012, “Building the World from Its Fundamental Constituents”, *Philosophical Studies*, 158(2): 221–256. doi:10.1007/s11098-012-9885-8
-* Payton, Jonathan D., 2023, “Mereological Destruction and Relativized Parthood: A Reply to Costa and Calosi”, *Erkenntnis*, 88(4): 1797–1806. doi:10.1007/s10670-021-00423-8
-* Peacock, Howard, 2016, “Where Are Universals?”, *Metaphysica*, 17(1): 43–67. doi:10.1515/mp-2016-0005
-* Pickup, Martin, 2015, “Real Presence in the Eucharist and Time-Travel”, *Religious Studies*, 51(3): 379–389. doi:10.1017/S0034412514000444
-* –––, 2016, “Unextended Complexes”, *Thought: A Journal of Philosophy*, 5(4): 257–264. doi:10.1002/tht3.221
-* Price, Marjorie Spear, 2008, “Particularism and the Spatial Location of Events”, *Philosophia*, 36(1): 129–140. doi:10.1007/s11406-007-9075-7
+* Newman, Andrew, 1992, *The Physical Basis of Predication* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511663833
+* –––, 2002, *The Correspondence Theory of Truth: An Essay on the Metaphysics of Predication* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511497971
+* Nolan, Daniel, 2014, “Balls and All”, in Kleinschmidt 2014: 91–116 (ch. 6). doi: 10.1093/acprof: oso/9780199593828.003.0006
+* Noonan, Harold W., 2009, “Perdurance, Location and Classical Mereology”, *Analysis*, 69(3): 448–452. doi: 10.1093/analys/anp073
+* O’Leary-Hawthorne, John, 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, *Analysis*, 55(3): 191–196. doi: 10.1093/analys/55.3.191
+* O’Leary-Hawthorne, John and J. A. Cover, 1998, “A World of Universals”, *Philosophical Studies*, 91(3): 205–219. doi: 10.1023/A: 1004276510940
+* Olson, Eric T., 1998, “Human Atoms”, *Australasian Journal of Philosophy*, 76(3): 396–406. doi: 10.1080/00048409812348521
+* Parsons, Josh, 2000, “Must a Four-Dimensionalist Believe in Temporal Parts?”:, *Monist*, 83(3): 399–418. doi: 10.5840/monist200083319
+* –––, 2007, “Theories of Location”, in *Oxford Studies In Metaphysics, Volume 3*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 201–232. doi: 10.1093/oso/9780199218394.003.0007
+* –––, 2008, “Hudson on Location”, *Philosophy and Phenomenological Research*, 76(2): 427–435. doi: 10.1111/j.1933-1592.2007.00143.x
+* Pashby, Thomas, 2013, “Do Quantum Objects Have Temporal Parts?”, *Philosophy of Science*, 80(5): 1137–1147. doi: 10.1086/673968
+* –––, 2016, “How *Do* Things Persist? Location Relations in Physics and the Metaphysics of Persistence: How Do Things Persist?”, *Dialectica*, 70(3): 269–309. doi: 10.1111/1746-8361.12150
+* Pasnau, Robert, 2011, *Metaphysical Themes, 1274–1671*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199567911.001.0001
+* Paul, L.A., 2002, “Logical Parts”, *Noûs*, 36(4): 578–596. doi: 10.1111/1468-0068.00402
+* –––, 2006, “Coincidence as Overlap”, *Noûs*, 40(4): 623–659. doi: 10.1111/j.1468-0068.2006.00627.x
+* –––, 2012, “Building the World from Its Fundamental Constituents”, *Philosophical Studies*, 158(2): 221–256. doi: 10.1007/s11098-012-9885-8
+* Payton, Jonathan D., 2023, “Mereological Destruction and Relativized Parthood: A Reply to Costa and Calosi”, *Erkenntnis*, 88(4): 1797–1806. doi: 10.1007/s10670-021-00423-8
+* Peacock, Howard, 2016, “Where Are Universals?”, *Metaphysica*, 17(1): 43–67. doi: 10.1515/mp-2016-0005
+* Pickup, Martin, 2015, “Real Presence in the Eucharist and Time-Travel”, *Religious Studies*, 51(3): 379–389. doi: 10.1017/S0034412514000444
+* –––, 2016, “Unextended Complexes”, *Thought: A Journal of Philosophy*, 5(4): 257–264. doi: 10.1002/tht3.221
+* Price, Marjorie Spear, 2008, “Particularism and the Spatial Location of Events”, *Philosophia*, 36(1): 129–140. doi: 10.1007/s11406-007-9075-7
 * Pruss, Alexander R., 2009, “The Eucharist: Real Presence and Real Absence”, in Flint and Rea 2009: 512–538 (ch. 23).
 * –––, 2013, “Omnipresence, Multilocation, the Real Presence, and Time Travel”, *Journal of Analytic Theology*, 1: 60–73.
-* Russell, Bertrand, 1912 [1956], “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12(1): 1–24. Collected in his *Logic and Knowledge; Essays, 1901–1950*, London: G. Allen & Unwin, 1956, 105–124. doi:10.1093/aristotelian/12.1.1
-* Rychter, Pablo, 2011, “How Coincidence Bears on Persistence”, *Philosophia*, 39(4): 759–770. doi:10.1007/s11406-011-9314-9
-* Sanford, David H., 1967, “Volume and Solidity”, *Australasian Journal of Philosophy*, 45(3): 329–340. doi:10.1080/00048406712341261
-* –––, 1970, “Locke, Leibniz, and Wiggins on Being in the Same Place at the Same Time”, *The Philosophical Review*, 79(1): 75–82. doi:10.2307/2184070
-* Sattig, Thomas, 2006, *The Language and Reality of Time*, Oxford/New York: Oxford University Press. doi:10.1093/0199279527.001.0001
-* –––, 2015, *The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199683017.001.0001
+* Russell, Bertrand, 1912 [1956], “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12(1): 1–24. Collected in his *Logic and Knowledge; Essays, 1901–1950*, London: G. Allen & Unwin, 1956, 105–124. doi: 10.1093/aristotelian/12.1.1
+* Rychter, Pablo, 2011, “How Coincidence Bears on Persistence”, *Philosophia*, 39(4): 759–770. doi: 10.1007/s11406-011-9314-9
+* Sanford, David H., 1967, “Volume and Solidity”, *Australasian Journal of Philosophy*, 45(3): 329–340. doi: 10.1080/00048406712341261
+* –––, 1970, “Locke, Leibniz, and Wiggins on Being in the Same Place at the Same Time”, *The Philosophical Review*, 79(1): 75–82. doi: 10.2307/2184070
+* Sattig, Thomas, 2006, *The Language and Reality of Time*, Oxford/New York: Oxford University Press. doi: 10.1093/0199279527.001.0001
+* –––, 2015, *The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199683017.001.0001
 * Saucedo, Raul, 2011, “Parthood and Location”, in *Oxford Studies in Metaphysics, Volume 6*, Karen Bennett and Dean W. Zimmerman (eds), Oxford: Oxford University Press, 225–284.
-* Schaffer, Jonathan, 2009a, “Spacetime the One Substance”, *Philosophical Studies*, 145(1): 131–148. doi:10.1007/s11098-009-9386-6
-* –––, 2009b, “On What Grounds What”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, David Manley, and Ryan Wasserman (eds), Oxford: Clarendon Press, 347–383 (ch. 12). doi:10.1093/oso/9780199546046.003.0012
-* –––, 2010, “Monism: The Priority of the Whole”, *The Philosophical Review*, 119(1): 31–76. doi:10.1215/00318108-2009-025
-* Sider, Theodore, 2000, “Simply Possible”, *Philosophy and Phenomenological Research*, 60(3): 585–590. doi:10.2307/2653816
-* –––, 2001, *Four-Dimensionalism: An Ontology of Persistence and Time*, Oxford: Clarendon Press. doi:10.1093/019924443X.001.0001
-* –––, 2007, “Parthood”, *The Philosophical Review*, 116(1): 51–91. doi:10.1215/00318108-2006-022
-* Simons, Peter, 1994, “Particulars in Particular Clothing: Three Trope Theories of Substance”, *Philosophy and Phenomenological Research*, 54(3): 553–575. doi:10.2307/2108581
-* –––, 2004a, “Extended Simples: A Third Way Between Atoms and Gunk”, *Monist*, 87(3): 371–384. doi:10.5840/monist200487315
-* –––, 2004b, “Location”, *Dialectica*, 58(3): 341–347. doi:10.1111/j.1746-8361.2004.tb00309.x
-* –––, 2008, “Modes of Extension: Comments on Kit Fine’s ‘In Defence of Three-Dimensionalism’”, *Royal Institute of Philosophy Supplement*, 62: 17–21. doi:10.1017/S1358246108000556
-* Skow, Bradford, 2015, *Objective Becoming*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198713272.001.0001
-* Smid, Jeroen, 2023a, “Plenty of Room for Multilocation”, *Erkenntnis*, 88(6): 2365–2378. doi:10.1007/s10670-021-00456-z
-* –––, 2023b, “The Aleph and Other Alleged Mereological Curiosities”, *Australasian Journal of Philosophy*, 101(3): 564–574. doi:10.1080/00048402.2022.2043400
-* Smith, Nicholas J.J., 2005, “A Plea for Things That Are Not Quite All There: Or, Is There a Problem about Vague Composition and Vague Existence?”:, *Journal of Philosophy*, 102(8): 381–421. doi:10.5840/jphil2005102816
-* Smith, Sheldon R., 2007, “Continuous Bodies, Impenetrability, and Contact Interactions: The View from the Applied Mathematics of Continuum Mechanics”, *The British Journal for the Philosophy of Science*, 58(3): 503–538. doi:10.1093/bjps/axm025
+* Schaffer, Jonathan, 2009a, “Spacetime the One Substance”, *Philosophical Studies*, 145(1): 131–148. doi: 10.1007/s11098-009-9386-6
+* –––, 2009b, “On What Grounds What”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, David Manley, and Ryan Wasserman (eds), Oxford: Clarendon Press, 347–383 (ch. 12). doi: 10.1093/oso/9780199546046.003.0012
+* –––, 2010, “Monism: The Priority of the Whole”, *The Philosophical Review*, 119(1): 31–76. doi: 10.1215/00318108-2009-025
+* Sider, Theodore, 2000, “Simply Possible”, *Philosophy and Phenomenological Research*, 60(3): 585–590. doi: 10.2307/2653816
+* –––, 2001, *Four-Dimensionalism: An Ontology of Persistence and Time*, Oxford: Clarendon Press. doi: 10.1093/019924443X.001.0001
+* –––, 2007, “Parthood”, *The Philosophical Review*, 116(1): 51–91. doi: 10.1215/00318108-2006-022
+* Simons, Peter, 1994, “Particulars in Particular Clothing: Three Trope Theories of Substance”, *Philosophy and Phenomenological Research*, 54(3): 553–575. doi: 10.2307/2108581
+* –––, 2004a, “Extended Simples: A Third Way Between Atoms and Gunk”, *Monist*, 87(3): 371–384. doi: 10.5840/monist200487315
+* –––, 2004b, “Location”, *Dialectica*, 58(3): 341–347. doi: 10.1111/j.1746-8361.2004.tb00309.x
+* –––, 2008, “Modes of Extension: Comments on Kit Fine’s ‘In Defence of Three-Dimensionalism’”, *Royal Institute of Philosophy Supplement*, 62: 17–21. doi: 10.1017/S1358246108000556
+* Skow, Bradford, 2015, *Objective Becoming*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198713272.001.0001
+* Smid, Jeroen, 2023a, “Plenty of Room for Multilocation”, *Erkenntnis*, 88(6): 2365–2378. doi: 10.1007/s10670-021-00456-z
+* –––, 2023b, “The Aleph and Other Alleged Mereological Curiosities”, *Australasian Journal of Philosophy*, 101(3): 564–574. doi: 10.1080/00048402.2022.2043400
+* Smith, Nicholas J.J., 2005, “A Plea for Things That Are Not Quite All There: Or, Is There a Problem about Vague Composition and Vague Existence?”:, *Journal of Philosophy*, 102(8): 381–421. doi: 10.5840/jphil2005102816
+* Smith, Sheldon R., 2007, “Continuous Bodies, Impenetrability, and Contact Interactions: The View from the Applied Mathematics of Continuum Mechanics”, *The British Journal for the Philosophy of Science*, 58(3): 503–538. doi: 10.1093/bjps/axm025
 * Sorabji, Richard, 1983, *Time, Creation, and the Continuum: Theories in Antiquity and the Early Middle Ages*, Ithaca, NY: Cornell University Press.
 * –––, 1988, *Matter, Space, and Motion: Theories in Antiquity and Their Sequel*, Ithaca, NY: Cornell University Press.
-* Sorensen, Roy A., 2008, *Seeing Dark Things: The Philosophy of Shadows*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195326574.001.0001
-* Spencer, Joshua, 2010, “A Tale of Two Simples”, *Philosophical Studies*, 148(2): 167–181. doi:10.1007/s11098-008-9291-4
-* –––, 2014, “Two Thoughts on ‘A Tale of Two Parts’”, *Res Philosophica*, 91(3): 485–490. doi:10.11612/resphil.2014.91.3.5
-* Thomas, Emily, 2009, “The Spatial Location of God and Casper the Friendly Ghost”, *Think*, 8(21): 53–61. doi:10.1017/S1477175608000377
-* Thomson, Judith Jarvis, 1983, “Parthood and Identity Across Time”, *The Journal of Philosophy*, 80(4): 201–220. doi:10.2307/2026004
-* Tillman, Chris, 2011, “Musical Materialism”, *The British Journal of Aesthetics*, 51(1): 13–29. doi:10.1093/aesthj/ayq028
-* Tognazzini, Neal A., 2006, “Simples and the Possibility of Discrete Space”, *Australasian Journal of Philosophy*, 84(1): 117–128. doi:10.1080/00048400600571786
-* Uzquiano, Gabriel, 2006, “Receptacles”, *Philosophical Perspectives*, 20: 427–451. doi:10.1111/j.1520-8583.2006.00114.x
+* Sorensen, Roy A., 2008, *Seeing Dark Things: The Philosophy of Shadows*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195326574.001.0001
+* Spencer, Joshua, 2010, “A Tale of Two Simples”, *Philosophical Studies*, 148(2): 167–181. doi: 10.1007/s11098-008-9291-4
+* –––, 2014, “Two Thoughts on ‘A Tale of Two Parts’”, *Res Philosophica*, 91(3): 485–490. doi: 10.11612/resphil.2014.91.3.5
+* Thomas, Emily, 2009, “The Spatial Location of God and Casper the Friendly Ghost”, *Think*, 8(21): 53–61. doi: 10.1017/S1477175608000377
+* Thomson, Judith Jarvis, 1983, “Parthood and Identity Across Time”, *The Journal of Philosophy*, 80(4): 201–220. doi: 10.2307/2026004
+* Tillman, Chris, 2011, “Musical Materialism”, *The British Journal of Aesthetics*, 51(1): 13–29. doi: 10.1093/aesthj/ayq028
+* Tognazzini, Neal A., 2006, “Simples and the Possibility of Discrete Space”, *Australasian Journal of Philosophy*, 84(1): 117–128. doi: 10.1080/00048400600571786
+* Uzquiano, Gabriel, 2006, “Receptacles”, *Philosophical Perspectives*, 20: 427–451. doi: 10.1111/j.1520-8583.2006.00114.x
 * –––, 2011, “Mereological Harmony”, in *Oxford Studies in Metaphysics: Volume 6*, Karen Bennett and Dean W. Zimmerman (eds), Oxford University Press, 199–224.
-* van Inwagen, Peter, 1990a, “Four-Dimensional Objects”, *Noûs*, 24(2): 245–255. doi:10.2307/2215526
+* van Inwagen, Peter, 1990a, “Four-Dimensional Objects”, *Noûs*, 24(2): 245–255. doi: 10.2307/2215526
 * –––, 1990b, *Material Beings*, Ithaca, NY/London: Cornell University Press.
 * Varzi, Achille, 2003 [2019], “Mereology”, *The Stanford Encyclopedia of Philosophy* (Spring 2019 edition), Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/spr2019/entries/mereology/>.
-* –––, 2007, “Spatial Reasoning and Ontology: Parts, Wholes, and Locations”, in *Handbook of Spatial Logics*, Marco Aiello, Ian Pratt-Hartmann, and Johan Van Benthem (eds), Dordrecht: Springer Netherlands, 945–1038. doi:10.1007/978-1-4020-5587-4_15
-* Vihvelin, Kadri, 1996, “What Time Travelers Cannot Do”, *Philosophical Studies*, 81(2–3): 315–330. doi:10.1007/BF00372789
-* Wake, Andrew, Joshua Spencer, and Gregory Fowler, 2007, “Holes as Regions of Spacetime”:, *Monist*, 90(3): 372–378. doi:10.5840/monist200790325
-* Wasserman, Ryan, 2018, *Paradoxes of Time Travel*, Oxford: Oxford University Press. doi:10.1093/oso/9780198793335.001.0001
-* Wilson, Mark, 2008, “Beware of the Blob: Cautions for Would-Be Metaphysicians”, in *Oxford Studies In Metaphysics, Volume 4*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 275–320. doi:10.1093/oso/9780199542987.003.0012
-* Yablo, Stephen, 1993, “Is Conceivability a Guide to Possibility?”, *Philosophy and Phenomenological Research*, 53(1): 1–42. doi:10.2307/2108052
-* Zimmerman, Dean W., 1996a, “Could Extended Objects Be Made Out of Simple Parts? An Argument for ‘Atomless Gunk’”, *Philosophy and Phenomenological Research*, 56(1): 1–29. doi:10.2307/2108463
-* –––, 1996b, “Indivisible Parts and Extended Objects: Some Philosophical Episodes from Topology’s Prehistory”, *Monist*, 79(1): 148–180. doi:10.5840/monist19967918
-* –––, 1997, “Distinct Indiscernibles and the Bundle Theory”, *Mind*, 106(422): 305–309. doi:10.1093/mind/106.422.305
+* –––, 2007, “Spatial Reasoning and Ontology: Parts, Wholes, and Locations”, in *Handbook of Spatial Logics*, Marco Aiello, Ian Pratt-Hartmann, and Johan Van Benthem (eds), Dordrecht: Springer Netherlands, 945–1038. doi: 10.1007/978-1-4020-5587-4_15
+* Vihvelin, Kadri, 1996, “What Time Travelers Cannot Do”, *Philosophical Studies*, 81(2–3): 315–330. doi: 10.1007/BF00372789
+* Wake, Andrew, Joshua Spencer, and Gregory Fowler, 2007, “Holes as Regions of Spacetime”:, *Monist*, 90(3): 372–378. doi: 10.5840/monist200790325
+* Wasserman, Ryan, 2018, *Paradoxes of Time Travel*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198793335.001.0001
+* Wilson, Mark, 2008, “Beware of the Blob: Cautions for Would-Be Metaphysicians”, in *Oxford Studies In Metaphysics, Volume 4*, Dean W Zimmerman (ed.), Oxford: Oxford University Press, 275–320. doi: 10.1093/oso/9780199542987.003.0012
+* Yablo, Stephen, 1993, “Is Conceivability a Guide to Possibility?”, *Philosophy and Phenomenological Research*, 53(1): 1–42. doi: 10.2307/2108052
+* Zimmerman, Dean W., 1996a, “Could Extended Objects Be Made Out of Simple Parts? An Argument for ‘Atomless Gunk’”, *Philosophy and Phenomenological Research*, 56(1): 1–29. doi: 10.2307/2108463
+* –––, 1996b, “Indivisible Parts and Extended Objects: Some Philosophical Episodes from Topology’s Prehistory”, *Monist*, 79(1): 148–180. doi: 10.5840/monist19967918
+* –––, 1997, “Distinct Indiscernibles and the Bundle Theory”, *Mind*, 106(422): 305–309. doi: 10.1093/mind/106.422.305
 
 ## Academic Tools
 
@@ -959,7 +959,7 @@ We conclude by listing some important issues about which we have so far said lit
 
 ### Acknowledgments
 
-We want to thank the editors of the *Stanford Encyclopedia of Philosophy* and especially the subject editor, Daniel Nolan, for comments that improved the entry substantially. We also thank Fabrice Correia, Antony Eagle, Matt Leonard, Achille Varzi, and the eidos group in Geneva for useful feedback. Claudio Calosi acknowledges support from the Swiss National Science Foundation, SNSF Eccellenza Project "The Metaphysics of Quantum Objects PCEFP1_181088. Damiano Costa acknowledges support from the Swiss National Science Foundation, SNSF Starting Grant Project "Temporal existence", Project Number TMSGI1_211294.
+We want to thank the editors of the *Stanford Encyclopedia of Philosophy* and especially the subject editor, Daniel Nolan, for comments that improved the entry substantially. We also thank Fabrice Correia, Antony Eagle, Matt Leonard, Achille Varzi, and the eidos group in Geneva for useful feedback. Claudio Calosi acknowledges support from the Swiss National Science Foundation, SNSF Eccellenza Project "The Metaphysics of Quantum Objects PCEFP1_181088. Damiano Costa acknowledges support from the Swiss National Science Foundation, SNSF Starting Grant Project " Temporal existence ", Project Number TMSGI1_211294.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
 [Cody Gilmore](http://sites.google.com/site/codysgilmore/) <[*csgilmore@ucdavis.edu*](mailto:csgilmore%40ucdavis%2eedu)>  

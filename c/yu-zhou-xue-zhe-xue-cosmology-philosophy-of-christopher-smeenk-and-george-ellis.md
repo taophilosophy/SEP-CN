@@ -22,27 +22,27 @@
 
 引力是大尺度上的主导相互作用。广义相对论引入了一种新的表示引力的方式：不再将引力描述为偏离惯性运动的力，而是自由于非引力力的物体沿着称为测地线的直线的类似运动，在曲折的时空几何中移动。时空曲率与能量和物质的分布相关，通过 GR 的基本方程（爱因斯坦场方程，EFE）来描述。该理论的动力学是非线性的：物质使时空弯曲，时空的弯曲决定了物质的运动方式；引力波在引力上相互作用，并作为引力源。该理论还用一组 10 个耦合的非线性方程取代了牛顿理论的单一引力势和相关场方程，用于描述十个独立势的情况。这种复杂性是理解 EFE 解的一般特征和找到描述特定物理情况的确切解的障碍。大多数确切解是基于引入简化数学的强理想化而找到的。
 
-值得注意的是，宇宙学的许多基础建立在爱因斯坦发现广义相对论十年内找到的一组极其简单的解上。这些弗里德曼-勒梅特-罗伯逊-沃克（FLRW）解在精确意义上具有最大可能的对称性。时空几何被限制为均匀的，因此没有首选位置或方向。它们具有简单的几何结构，由一系列三维空间表面Σ(t)组成，这些表面由宇宙时间 t 的值标记（在拓扑上，Σ×R）。表面Σ(t)是具有恒定曲率的三维空间（黎曼流形），有三种可能性：（1）球形空间，对应正曲率的情况；（2）欧几里得空间，对应零曲率；以及（3）双曲空间，对应负曲率。
+值得注意的是，宇宙学的许多基础建立在爱因斯坦发现广义相对论十年内找到的一组极其简单的解上。这些弗里德曼-勒梅特-罗伯逊-沃克（FLRW）解在精确意义上具有最大可能的对称性。时空几何被限制为均匀的，因此没有首选位置或方向。它们具有简单的几何结构，由一系列三维空间表面 Σ(t)组成，这些表面由宇宙时间 t 的值标记（在拓扑上，Σ×R）。表面 Σ(t)是具有恒定曲率的三维空间（黎曼流形），有三种可能性：（1）球形空间，对应正曲率的情况；（2）欧几里得空间，对应零曲率；以及（3）双曲空间，对应负曲率。
 
-这些模型描述了一个膨胀的宇宙，完全由尺度因子 R(t)的行为特征化。被定义为相对于物质静止的“基本观察者”的世界线与这些表面正交，宇宙时间对应于基本观察者测量的固有时间。尺度因子 R(t)代表了Σ中附近基本观察者之间的空间距离作为宇宙时间的函数。这些模型的演化由一组简单的方程描述 R(t)的演变，这些方程由爱因斯坦场方程（EFE）隐含：弗里德曼方程。
+这些模型描述了一个膨胀的宇宙，完全由尺度因子 R(t)的行为特征化。被定义为相对于物质静止的“基本观察者”的世界线与这些表面正交，宇宙时间对应于基本观察者测量的固有时间。尺度因子 R(t)代表了 Σ 中附近基本观察者之间的空间距离作为宇宙时间的函数。这些模型的演化由一组简单的方程描述 R(t)的演变，这些方程由爱因斯坦场方程（EFE）隐含：弗里德曼方程。
 
- (R˙R)2=8πGρ3−kR2+Λ3，
+ (R˙R)2 = 8πGρ3−kR2+Λ3，
 
 和 Raychaudhuri 方程的各向同性形式：
 
-3R¨R=−4πG(ρ+3p)+Λ.(2)
+3R¨R = −4πG(ρ+3p)+Λ.(2)
 
-给定恒定宇宙时间曲面 Σ(t) 的曲率为 kR2(t)，其中 k={−1,0,1} 分别表示负曲率、平坦曲率和正曲率。假设的对称性要求物质被描述为一个能量密度为 ρ 和压力为 p 的完全流体[8]，它们遵守能量守恒方程。
+给定恒定宇宙时间曲面 Σ(t) 的曲率为 kR2(t)，其中 k ={−1,0,1} 分别表示负曲率、平坦曲率和正曲率。假设的对称性要求物质被描述为一个能量密度为 ρ 和压力为 p 的完全流体 [8]，它们遵守能量守恒方程。
 
-ρ˙+(ρ+p)3R˙R=0.(3)
+ρ˙+(ρ+p)3R˙R = 0.(3)
 
-FLRW 模型的不懈对称性使它们在几何上和动力学上相当简单。与从爱因斯坦场方程(EFE)中一般得出的一组耦合偏微分方程不同，在 FLRW 模型中，人们只需处理 2 个普通微分方程(1)–(3)中的两个是独立的)，一旦给定了一个状态方程 p=p(ρ)，这些方程就是确定的。
+FLRW 模型的不懈对称性使它们在几何上和动力学上相当简单。与从爱因斯坦场方程(EFE)中一般得出的一组耦合偏微分方程不同，在 FLRW 模型中，人们只需处理 2 个普通微分方程(1)–(3)中的两个是独立的)，一旦给定了一个状态方程 p = p(ρ)，这些方程就是确定的。
 
-这些方程揭示了这些模型的三个基本特征。首先，这些是动力学模型：很难安排一个不变的宇宙，即 R˙(t)=0。“普通”物质具有正的总应力能量密度，即 ρgrav:=ρ+3p>0。从(2)中，这种普通物质的效应是减缓宇宙膨胀，R¨<0——引力是一种吸引力。这仅适用于普通物质：正的宇宙常数，或具有负引力能量密度 ρgrav 的物质，相反地导致加速膨胀，R¨>0。爱因斯坦只能通过精心平衡普通物质的吸引力和 Λ 的精确选择值来构建一个静态模型；不幸的是，他未能注意到解是不稳定的，并忽略了他自己理论的动力学含义。
+这些方程揭示了这些模型的三个基本特征。首先，这些是动力学模型：很难安排一个不变的宇宙，即 R˙(t)= 0。“普通”物质具有正的总应力能量密度，即 ρgrav:= ρ+3p > 0。从(2)中，这种普通物质的效应是减缓宇宙膨胀，R¨ <0——引力是一种吸引力。这仅适用于普通物质：正的宇宙常数，或具有负引力能量密度 ρgrav 的物质，相反地导致加速膨胀，R¨> 0。爱因斯坦只能通过精心平衡普通物质的吸引力和 Λ 的精确选择值来构建一个静态模型；不幸的是，他未能注意到解是不稳定的，并忽略了他自己理论的动力学含义。
 
-其次，随着不同类型的物质主导动力学，膨胀速率会有所变化。如（3）所示，不同类型的物质和辐射的能量密度以不同的速率稀释：例如，无压尘埃（p=0）的稀释率为∝R−3，辐射（p=ρ/3）的稀释率为∝R−4，宇宙常数（p=−ρ）保持不变（正如其名称所示）。SM 描述了早期宇宙中辐射的能量密度远高于物质。这种以辐射为主导的阶段最终会过渡到以物质为主导的阶段，因为辐射的稀释速度更快，最终，如果Λ>0，则会过渡到Λ为主导的阶段；如果 k≠0，则还可能存在曲率为主导的阶段。
+其次，随着不同类型的物质主导动力学，膨胀速率会有所变化。如（3）所示，不同类型的物质和辐射的能量密度以不同的速率稀释：例如，无压尘埃（p = 0）的稀释率为 ∝R−3，辐射（p = ρ/3）的稀释率为 ∝R−4，宇宙常数（p = −ρ）保持不变（正如其名称所示）。SM 描述了早期宇宙中辐射的能量密度远高于物质。这种以辐射为主导的阶段最终会过渡到以物质为主导的阶段，因为辐射的稀释速度更快，最终，如果 Λ > 0，则会过渡到 Λ 为主导的阶段；如果 k≠0，则还可能存在曲率为主导的阶段。
 
-第三，具有普通物质的 FLRW 模型在过去的某个有限时间存在奇点。回溯时间，鉴于宇宙目前正在膨胀，方程（2）意味着膨胀始于过去的某个有限时间。当前的膨胀速率由哈勃参数给出，H0=(R˙R)0。简单地向后推断这种膨胀速率，根据方程（2），膨胀速率在早期会增加，因此如果ρgrav≥0，则在现在之前不到哈勃时间 Hubble time H−10 的时间，R(t)→0。随着接近“大爆炸”，能量密度和曲率会无限增加，前提是ρinert:=(ρ+p)>0（这个条件确保了当 R→0 时ρ→∞）。这反映了引力不稳定性：随着 R(t)的减小，能量密度和压力都会增加，并且它们在方程（2）的右侧以相同的符号出现，因此压力 p>0 并不能避免奇点。20 世纪 60 年代的研究，在第 4.1 节中讨论，确定了奇点在更现实的模型中的存在，并不是 FLRW 模型的对称性的产物。
+第三，具有普通物质的 FLRW 模型在过去的某个有限时间存在奇点。回溯时间，鉴于宇宙目前正在膨胀，方程（2）意味着膨胀始于过去的某个有限时间。当前的膨胀速率由哈勃参数给出，H0 =(R˙R)0。简单地向后推断这种膨胀速率，根据方程（2），膨胀速率在早期会增加，因此如果 ρgrav≥0，则在现在之前不到哈勃时间 Hubble time H−10 的时间，R(t)→0。随着接近“大爆炸”，能量密度和曲率会无限增加，前提是 ρinert:=(ρ+p)> 0（这个条件确保了当 R→0 时 ρ→∞）。这反映了引力不稳定性：随着 R(t)的减小，能量密度和压力都会增加，并且它们在方程（2）的右侧以相同的符号出现，因此压力 p > 0 并不能避免奇点。20 世纪 60 年代的研究，在第 4.1 节中讨论，确定了奇点在更现实的模型中的存在，并不是 FLRW 模型的对称性的产物。
 
 SM 添加了对严格均匀性的微小偏差，以解释结构的形成和演化。由于引力不稳定性，这种扰动在动力学上得到增强——与平均密度不同的初始区域的密度对比随时间增长。足够小的波动可以被视为背景宇宙模型的线性扰动，由 EFE 推导出的演化方程来控制。然而，随着波动变大，线性化扰动理论不再适用。根据 SM，结构以分级方式增长，较小的长度尺度首先变为非线性，较大的结构随后通过合并形成。在较小长度尺度（例如星系长度尺度）上结构演化的模型包括除引力以外的物理，如气体动力学，以描述物质坍缩团块。冷暗物质（CDM）在 SM 对结构形成的解释中也起着至关重要的作用：它首先聚集，为重子物质的聚集提供支撑。
 
@@ -50,7 +50,7 @@ SM 添加了对严格均匀性的微小偏差，以解释结构的形成和演�
 
 ### 1.2 观测
 
-宇宙学观测支持扰动 FLRW 模型的两种主要方式。首先，宇宙学家利用宇宙中的物质和辐射来探测背景时空几何及其演化。宇宙在足够大的尺度上呈各向同性，这一点由背景辐射（尤其是下文讨论的宇宙微波背景辐射（CMB））和离散源（例如星系）所示。然而，沿着单一世界线观测到的各向同性并不足以证明宇宙可以被 FLRW 几何很好地描述。需要进一步假设我们的世界线不是唯一一个宇宙呈各向同性的视角，通常称为哥白尼原理。在授予这一原理的前提下，有定理表明几乎各向同性的背景辐射观测意味着时空几何几乎是 FLRW 的。[10] 这一原则本身不能通过观测直接建立（见§2）。鉴于我们生活在几乎是 FLRW 模型中，我们需要确定其参数，如哈勃常数 H0 和减速参数 q0:=−R¨/(RH20)，它衡量了扩张速率的变化，以及每种物质或能量密度组分 m 的归一化密度参数Ωm:=ρm/(3H20)。有各种方法来确定由 FLRW 模型描述的背景演化的准确性，这取决于这些参数。为此，宇宙学家寻找有效的标准烛和标准尺——具有已知固有光度和长度的物体，然后可以用来测量宇宙的扩张历史。
+宇宙学观测支持扰动 FLRW 模型的两种主要方式。首先，宇宙学家利用宇宙中的物质和辐射来探测背景时空几何及其演化。宇宙在足够大的尺度上呈各向同性，这一点由背景辐射（尤其是下文讨论的宇宙微波背景辐射（CMB））和离散源（例如星系）所示。然而，沿着单一世界线观测到的各向同性并不足以证明宇宙可以被 FLRW 几何很好地描述。需要进一步假设我们的世界线不是唯一一个宇宙呈各向同性的视角，通常称为哥白尼原理。在授予这一原理的前提下，有定理表明几乎各向同性的背景辐射观测意味着时空几何几乎是 FLRW 的。[10] 这一原则本身不能通过观测直接建立（见 §2）。鉴于我们生活在几乎是 FLRW 模型中，我们需要确定其参数，如哈勃常数 H0 和减速参数 q0:= −R¨/(RH20)，它衡量了扩张速率的变化，以及每种物质或能量密度组分 m 的归一化密度参数 Ωm:= ρm/(3H20)。有各种方法来确定由 FLRW 模型描述的背景演化的准确性，这取决于这些参数。为此，宇宙学家寻找有效的标准烛和标准尺——具有已知固有光度和长度的物体，然后可以用来测量宇宙的扩张历史。
 
 测试的第二个主要途径集中在 SM 对结构形成的描述上，它描述了小扰动远离背景 FLRW 几何形状的演变，这些扰动可以用少量参数来描述，如倾斜 ns 和标量到张量比率 r。来自不同时期的观测，如 CMB 中的温度各向异性和基于星系调查的物质功率谱，可以作为这些参数以及背景参数的独立约束，这些观测事实上给出了对背景模型参数的最佳约束。这两种测试几乎 FLRW 时空几何形状的途径密切相关，因为背景模型为在广义相对论描述的动力学下扰动的演化提供了背景。
 
@@ -74,7 +74,7 @@ SM 对宇宙中物质和辐射演化的描述反映了膨胀的动力效应。�
 
 ### 1.4 标准模型的状态
 
-目前可用的丰富宇宙学数据兼容的精确宇宙模型的发展是一项令人印象深刻的成就。宇宙学显然在很大程度上依赖于理论；观测活动的目标宇宙参数只有在背景模型的基础上才能定义。接受 SM 的最有力理由在于有利于基础物理的证据，以及宇宙参数的过度确定性。SM 包括几个自由参数，如表征不同类型物质丰度的密度参数，每个参数都可以通过多种方式测量。这些方法具有独特的理论假设和误差来源。例如，在宇宙大爆炸核合成期间产生的氘的丰度对重子密度非常敏感。核合成使用经过充分测试的核物理来描述，轻元素丰度在“前三分钟”内被冻结。CMB 角功率谱中声学峰的振幅取决于解耦时的重子密度。当前的测量将重子密度确定到百分之一的精度，并且这两种方法确定的值在观测误差范围内是一致的。这种一致性是 SM 的许多一致性检查之一。存在重要的差异，例如局部与全局测量的哈勃参数 H0 之间的差异（Luković等人 2016 年；Bernal 等人 2016 年）。这些差异的重要性和进一步的影响尚不清楚。
+目前可用的丰富宇宙学数据兼容的精确宇宙模型的发展是一项令人印象深刻的成就。宇宙学显然在很大程度上依赖于理论；观测活动的目标宇宙参数只有在背景模型的基础上才能定义。接受 SM 的最有力理由在于有利于基础物理的证据，以及宇宙参数的过度确定性。SM 包括几个自由参数，如表征不同类型物质丰度的密度参数，每个参数都可以通过多种方式测量。这些方法具有独特的理论假设和误差来源。例如，在宇宙大爆炸核合成期间产生的氘的丰度对重子密度非常敏感。核合成使用经过充分测试的核物理来描述，轻元素丰度在“前三分钟”内被冻结。CMB 角功率谱中声学峰的振幅取决于解耦时的重子密度。当前的测量将重子密度确定到百分之一的精度，并且这两种方法确定的值在观测误差范围内是一致的。这种一致性是 SM 的许多一致性检查之一。存在重要的差异，例如局部与全局测量的哈勃参数 H0 之间的差异（Luković 等人 2016 年；Bernal 等人 2016 年）。这些差异的重要性和进一步的影响尚不清楚。
 
 从核合成开始的 SM 可以被许多证据支持。测量的独立性和多样性提供了一定的保证，即 SM 不会被孤立的理论错误或未被发现的系统误差所破坏。但是 SM 远未完整，存在三种不同类型的重要未解问题。
 
@@ -96,7 +96,7 @@ SM 对宇宙中物质和辐射演化的描述反映了膨胀的动力效应。�
 
 在每种情况下，全局边界条件对局部物理有重要影响。更近期的一些问题涉及到
 
-* 核合成，其中核反应过程由宇宙演化控制的 T(t)关系决定（Steigman 2007）（温度 T 是一个粗粒度变量，其演化由宇宙中物质的平均密度ρ通过弗里德曼方程确定）
+* 核合成，其中核反应过程由宇宙演化控制的 T(t)关系决定（Steigman 2007）（温度 T 是一个粗粒度变量，其演化由宇宙中物质的平均密度 ρ 通过弗里德曼方程确定）
 * 由于引力不稳定性导致的结构形成（Mukhanov 等人，1992），这受到宇宙膨胀的重要影响，它将本应在静态宇宙中呈指数增长的不均匀性转变为幂律增长。正是由于这种效应，结构研究如 BAO 和 CMB 各向异性给出了对背景模型参数的强限制（Ade 等人，2016）。
 * 人类学原理，下文讨论（§4.1），宇宙中的大尺度条件（如宇宙常数的值和早期宇宙中不均匀性的初始振幅）提供了适合生命产生的局部条件。
 
@@ -136,13 +136,13 @@ J−(p)揭示了关于整个时空的什么信息？在经典 GR 中，我们不
 
 粒子物理标准模型和经典广义相对论为 SM 提供了结构和框架。但宇宙学家追求超越这些核心理论的各种问题。在这些领域，宇宙学家面临一种欠决定性：一个现象应该通过扩展核心理论来解释，还是通过改变物理或天体物理假设来解释？
 
-苏联物理学家雅科夫·泽尔多维奇曾将早期宇宙称为“穷人的加速器”，因为对早期宇宙相对廉价的观测可能揭示出远超过地面最昂贵加速器能触及的高能物理特征。对于许多基础物理学方面，尤其是量子引力，宇宙学提供了评估竞争性理念的唯一可行途径。这种雄心勃勃的宇宙学概念作为新物理的唯一测试场延伸至粒子物理标准模型之外（尽管普遍认为标准模型是不完整的，尽管没有观测结果与之相矛盾）。例如，宇宙大爆炸核合成是将经过充分测试的核物理应用于早期宇宙的一个例子，其中通过地面实验确定的散射截面和其他相关物理特征。虽然详细解释核物理如何应用需要大量努力，但对基础物理的基本原理几乎没有不确定性。相比之下，在某些领域，宇宙学家现在旨在解释宇宙的历史，同时评估用于构建它的新物理。
+苏联物理学家雅科夫 · 泽尔多维奇曾将早期宇宙称为“穷人的加速器”，因为对早期宇宙相对廉价的观测可能揭示出远超过地面最昂贵加速器能触及的高能物理特征。对于许多基础物理学方面，尤其是量子引力，宇宙学提供了评估竞争性理念的唯一可行途径。这种雄心勃勃的宇宙学概念作为新物理的唯一测试场延伸至粒子物理标准模型之外（尽管普遍认为标准模型是不完整的，尽管没有观测结果与之相矛盾）。例如，宇宙大爆炸核合成是将经过充分测试的核物理应用于早期宇宙的一个例子，其中通过地面实验确定的散射截面和其他相关物理特征。虽然详细解释核物理如何应用需要大量努力，但对基础物理的基本原理几乎没有不确定性。相比之下，在某些领域，宇宙学家现在旨在解释宇宙的历史，同时评估用于构建它的新物理。
 
 这种对比可以通过“物理视界”（Ellis 2007）来澄清，它界定了地面实验和观测可接触的物理范围，大致以与不同相互作用相关的能量尺度为基础。可以更精确地为选择的理论表征视界，通过指定可以通过实验和观测直接测试的参数空间区域。超出物理视界的宇宙学理论方面不能通过非宇宙学实验或观测独立测试；评估这些理念的唯一经验途径是通过它们对宇宙学的影响。 （这并不是否认可能有强有力的理论基础支持特定提议，作为核心理论的延伸。）
 
 超出物理视界的宇宙学物理面临着由于缺乏独立相关证据而产生的不确定性威胁。暗物质的案例说明了这种独立证据的价值。暗物质最初被提出来解释星系团和星系的动力学行为，这些行为无法仅通过观察到的发光物质使用牛顿引力理论来解释。暗物质还在结构形成的描述中发挥着至关重要的作用，因为它为重子物质聚集提供了必要的支撑，而不会与宇宙微波背景辐射的均匀性相矛盾。对暗物质存在的两种推断都依赖于引力物理，引发了一个问题，即我们是否应该将这些现象视为我们的引力理论失败的证据，而不是作为一种新型物质的证据。有一个积极的研究计划（MOND，即修改牛顿动力学）致力于通过修改引力来解释相关现象。无论一个人对 MOND 与暗物质的相对优点持何种立场（显然 MOND 需要扩展为相对论理论），暗物质的存在的直接证据，或者通过衰变产物的间接证据，都将肯定地重塑这场辩论。一段时间以来一直在进行努力，通过与探测器的直接相互作用来寻找暗物质粒子，这种相互作用由弱力介导。这些实验的积极结果将提供不依赖于引力理论的暗物质存在的证据。
 
-这种独立证据在宇宙学发现激发的两个新物理学突出例子中并不可用。"暗能量"是在结构形成研究中引入的，该研究使用非零宇宙常数来适应观测约束（ΛCDM 模型）。随后对红移-距离关系的观测，使用超新星（Ia 型）作为标准烛光，导致发现宇宙的膨胀正在加速。在 FLRW 模型中，若 R¨>0，则必须有一个出现在方程（2）中的贡献，类似于正Λ项。许多宇宙学家并不简单地将这些观测视为确定 SM 中参数值的方法，而是开发了导致有效Λ的“暗能量”的现象学模型。然而，与暗物质不同，暗能量的性质确保了任何非宇宙学探测的尝试都是徒劳的：能量密度如此之小且均匀，以至于任何关于其性质的局部实验研究实际上是不可能的。此外，这些模型并不基于有充分动机的物理学：它们具有“拯救现象”的性质，因为它们是为了拟合宇宙学观测而量身定制的曲线拟合模型。
+这种独立证据在宇宙学发现激发的两个新物理学突出例子中并不可用。"暗能量" 是在结构形成研究中引入的，该研究使用非零宇宙常数来适应观测约束（ΛCDM 模型）。随后对红移-距离关系的观测，使用超新星（Ia 型）作为标准烛光，导致发现宇宙的膨胀正在加速。在 FLRW 模型中，若 R¨ > 0，则必须有一个出现在方程（2）中的贡献，类似于正 Λ 项。许多宇宙学家并不简单地将这些观测视为确定 SM 中参数值的方法，而是开发了导致有效 Λ 的“暗能量”的现象学模型。然而，与暗物质不同，暗能量的性质确保了任何非宇宙学探测的尝试都是徒劳的：能量密度如此之小且均匀，以至于任何关于其性质的局部实验研究实际上是不可能的。此外，这些模型并不基于有充分动机的物理学：它们具有“拯救现象”的性质，因为它们是为了拟合宇宙学观测而量身定制的曲线拟合模型。
 
 通货膨胀宇宙学最初承诺了粒子物理学和宇宙学的强大统一。最早的通货膨胀模型探讨了粒子物理学中引入的特定标量场（当时假定的强相互作用希格斯场）的后果。然而，理论很快转向将负责通货膨胀的标量场视为“通胀子”场，使其与粒子物理学的关系未解决，统一的承诺未兑现。如果通胀子场的性质没有约束，通货膨胀宇宙学就非常灵活；可以构建一个与早期宇宙的任何选择的演化历史相匹配的通货膨胀模型。通货膨胀的具体模型，只要它们指定了驱动通货膨胀的场或场的特征及其初始状态，就具有预测内容。原则上，宇宙学观测可以确定通胀子场的一些性质，从而在它们之间进行选择。这原则上可能对其他实验或观测产生影响；然而，在实践中，大多数可行的通货膨胀模型中通胀子场的特征保证了它在其他领域无法被检测到。唯一的例外是，如果通胀子是在 LHC 上检测到的电弱希格斯粒子。这仍然是一个可行的通胀子候选者，因此测试它是否确实是通胀子是一项重要任务。
 
@@ -156,7 +156,7 @@ J−(p)揭示了关于整个时空的什么信息？在经典 GR 中，我们不
 
 * 在高角尺度上存在低 CMB 各向异性功率，相对于 SM 预测的情况（Schwarz 等人，2016 年；Knight＆Knox，2017 年）
 * 存在一个相当大尺寸的 CMB 冷斑点（Zhang＆Huterer，2010 年；Schwarz 等人，2016 年）。
-* 就哈勃参数的值在本地区直接测量和从 CMB 各向异性推导的结果之间存在分歧（Luković等人，2016 年；Bernal 等人，2016 年）。
+* 就哈勃参数的值在本地区直接测量和从 CMB 各向异性推导的结果之间存在分歧（Luković 等人，2016 年；Bernal 等人，2016 年）。
 
 我们如何决定？这将取决于特定的测量（例如，Kamionkowski＆Loeb 1997; Marra 等人 2013），但总的来说，由于宇宙的独特性，我们不知道这些潜在的异常是否是真实的，是否指向模型存在严重问题，或者只是真实的——只是统计模型与我们手头上唯一存在的宇宙之间的差异中的统计偶然性。在所有物理科学中，这是宇宙学的一个独特问题。[29]
 
@@ -170,7 +170,7 @@ J−(p)揭示了关于整个时空的什么信息？在经典 GR 中，我们不
 
 ### 3.2 奇点定理
 
-20 世纪 60 年代证明的奇点定理（特别是参见霍金和埃利斯 1973 年）表明宇宙在广泛的宇宙学模型中过去是有限的。过去的奇点，由存在长度有界的不可延展测地线所标志，在具有一些合理特征的模型中必须存在。（测地线是曲折时空中长度极端的曲线，自由下落的物体遵循类时测地线。）直觉上，从现在向后推断，一个不可延展的测地线在有限距离内到达一个“边缘”，超出这个边缘就无法延伸。一般来说，并没有明确定义的“宇宙时间”，但这些曲线的最大长度反映了宇宙的有限年龄。奇点定理可能适用于广义相对论的适用范围内观察到的宇宙。存在各种细节不同的相关定理，但一个共同的要素是假设存在足够的物质和能量来保证我们的过去光锥重新聚焦。单单宇宙微波背景辐射的能量密度就足以证明这一假设。这些定理还需要一个能量条件：对模型中存在的物质类型施加限制，保证引力导致附近测地线的聚焦。（在上述方程（2）中，如果ρgrav>0 且Λ=0，则是这种情况；例如，可以通过具有与普通物质相反符号的非零宇宙常数来避免奇点，从而抵消这种聚焦效应。）
+20 世纪 60 年代证明的奇点定理（特别是参见霍金和埃利斯 1973 年）表明宇宙在广泛的宇宙学模型中过去是有限的。过去的奇点，由存在长度有界的不可延展测地线所标志，在具有一些合理特征的模型中必须存在。（测地线是曲折时空中长度极端的曲线，自由下落的物体遵循类时测地线。）直觉上，从现在向后推断，一个不可延展的测地线在有限距离内到达一个“边缘”，超出这个边缘就无法延伸。一般来说，并没有明确定义的“宇宙时间”，但这些曲线的最大长度反映了宇宙的有限年龄。奇点定理可能适用于广义相对论的适用范围内观察到的宇宙。存在各种细节不同的相关定理，但一个共同的要素是假设存在足够的物质和能量来保证我们的过去光锥重新聚焦。单单宇宙微波背景辐射的能量密度就足以证明这一假设。这些定理还需要一个能量条件：对模型中存在的物质类型施加限制，保证引力导致附近测地线的聚焦。（在上述方程（2）中，如果 ρgrav > 0 且 Λ = 0，则是这种情况；例如，可以通过具有与普通物质相反符号的非零宇宙常数来避免奇点，从而抵消这种聚焦效应。）
 
 奇点的预测通常被认为是广义相对论的一个严重缺陷。奇点可能导致决定论的失败，因为在某种意义上，定律在某些情况下“崩溃”。然而，这种担忧仅适用于某些类型的奇点。全局双曲的相对论时空具有柯西面，适当放置在这些面上的初始数据会在整个时空中确定一个唯一的解。全局双曲性并不排除奇点的存在，特别是 FLRW 模型尽管存在初始奇点，但仍然是全局双曲的。对决定论的威胁因此更具条件性：定律并不适用于“奇点本身”，尽管随后的演化是完全确定性的，而且某些类型的奇点对决定论构成更严重的威胁。
 
@@ -185,7 +185,7 @@ J−(p)揭示了关于整个时空的什么信息？在经典 GR 中，我们不
 在实践中，宇宙学家经常将广义相对论适用域的预期边界处的物理状态视为“初始状态”。（例如，这可能被视为在非常早期的宇宙时间点上指定的空间超曲面上指定的状态。然而，鉴于对量子引力的不确定性，广义相对论的适用域尚不为人所理解。）将宇宙的观测特征向后投影会导致一个具有三个令人困惑特征的初始状态：[35]
 
 * 均匀性：FLRW 模型具有有限的粒子视界距离，远小于我们观测到宇宙微波背景辐射的尺度。[36] 然而，宇宙微波背景辐射的各向同性等观测结果表明，宇宙的远处区域具有均匀的物理特性。
-* 平坦性：在某个指定的早期时间点，接近“平坦”模型的 FLRW 模型在Λ=0 且ρ+3p>0 的情况下会迅速远离临界密度。鉴于后续的观测结果，初始状态必须在非常早期时刻非常接近平坦模型（或者等效地，非常接近临界密度，Ω=1）。[37]
+* 平坦性：在某个指定的早期时间点，接近“平坦”模型的 FLRW 模型在 Λ = 0 且 ρ+3p > 0 的情况下会迅速远离临界密度。鉴于后续的观测结果，初始状态必须在非常早期时刻非常接近平坦模型（或者等效地，非常接近临界密度，Ω = 1）。[37]
 * 扰动：标准模型包括在大尺度上相干且具有特定振幅的密度扰动，受观测约束。动态地解释这两个特性是具有挑战性的。在标准 FLRW 模型中，扰动必须在早期时期比哈勃半径大得多的尺度上是相干的。
 
 在更加现象学的方法中，初始状态的引力自由度可以简单地选择以适应后续的观测，但许多提出的“初始条件理论”旨在基于新的物理原理解释这些特征。下面讨论的膨胀理论旨在解释这些问题。
@@ -206,7 +206,7 @@ J−(p)揭示了关于整个时空的什么信息？在经典 GR 中，我们不
 
 宇宙学引发了关于科学解释界限的问题，因为它缺乏其他物理领域中常见的许多特征。物理定律通常被认为捕捉了某种系统的特征，在某些变化下保持不变，并且解释通常通过将特定事件置于更大背景中来实现。关于初始状态的理论不能借助这两个想法：我们只能接触到一个宇宙，并且在解释其属性时没有更大的背景可供借鉴。宇宙学和其他物理领域可用的解释类型之间的对比经常导致不满（参见，例如，Unger＆Smolin 2014）。至少，宇宙学迫使我们重新考虑关于模态和构成科学解释的基本问题。
 
-建立初始状态理论的一个挑战完全是认识论的。正如§2.4 中强调的那样，我们缺乏独立的实验探针来研究相关尺度的物理学，因此上述核心理论的扩展仅通过它们对宇宙学的影响间接测试。这种限制反映了宇宙的偶然事实，即早期宇宙的能量尺度与我们可接触到的尺度之间的对比，并不是由于宇宙本身的独特性。然而，这种限制并不意味着建立法则是不可能的。在物理学的历史中有一些情况，例如天体力学，其中对理论法则的信心主要基于在不断提高的精度标准下成功应用。
+建立初始状态理论的一个挑战完全是认识论的。正如 §2.4 中强调的那样，我们缺乏独立的实验探针来研究相关尺度的物理学，因此上述核心理论的扩展仅通过它们对宇宙学的影响间接测试。这种限制反映了宇宙的偶然事实，即早期宇宙的能量尺度与我们可接触到的尺度之间的对比，并不是由于宇宙本身的独特性。然而，这种限制并不意味着建立法则是不可能的。在物理学的历史中有一些情况，例如天体力学，其中对理论法则的信心主要基于在不断提高的精度标准下成功应用。
 
 进一步的概念挑战涉及在宇宙学中寻求“法则”是否有意义（Munitz 1962; Ellis 2007）。法则通常被认为涵盖某种现象的多个实例或对象族。对于一个唯一的对象（整个宇宙）或一个唯一事件（其起源），我们可以通过“法则”指的是什么？
 
@@ -226,7 +226,7 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 
 如何在特定的确认理论方法中考虑选择效应是人类推理讨论中的一个核心问题。这个问题与其他更混乱和有争议的问题交织在一起。宇宙学家之间关于“人类原则”的辩论在 70 年代爆发，这是由于有人建议，宇宙的精细调整特征——比如宇宙的各向同性（Collins＆Hawking 1973）——可以解释为存在观察者的必要条件。最近，一些宇宙学家认为，宇宙论应该根据“典型”观察者应该期望看到的预测来评估。这些想法与形式认识论的工作相吻合。一些哲学家已经发展了贝叶斯主义的扩展，以解释“自定位”证据，例如。这种证据包括表征代理人对其身份和位置的信念的指数信息。目前，这一领域的工作尚未达成共识，我们将简要概述一些激发这些辩论中不同立场的考虑。
 
-在宇宙学中，“人类预测”的最著名例子是 Weinberg（1987）对Λ的预测。Weinberg 的论证的一部分类似于 Dicke 的：他认为Λ存在人类对结构形成的限制。只有当Λ落在某些范围内时，才有可能存在大型的引力束缚结构，如星系。Weinberg 比 Dicke 更进一步，考虑了“典型观察者”应该看到的Λ值。他假设观察者占据多元宇宙中的不同位置，并且Λ的值在不同区域之间变化。Weinberg 进一步认为，应该在人类边界内对Λ的不同值分配先验概率是均匀的。典型观察者应该期望看到接近人类边界均值的值，从而导致 Weinberg 对Λ的预测。
+在宇宙学中，“人类预测”的最著名例子是 Weinberg（1987）对 Λ 的预测。Weinberg 的论证的一部分类似于 Dicke 的：他认为 Λ 存在人类对结构形成的限制。只有当 Λ 落在某些范围内时，才有可能存在大型的引力束缚结构，如星系。Weinberg 比 Dicke 更进一步，考虑了“典型观察者”应该看到的 Λ 值。他假设观察者占据多元宇宙中的不同位置，并且 Λ 的值在不同区域之间变化。Weinberg 进一步认为，应该在人类边界内对 Λ 的不同值分配先验概率是均匀的。典型观察者应该期望看到接近人类边界均值的值，从而导致 Weinberg 对 Λ 的预测。
 
 韦恩伯格论证的关键在于对无差别原则的呼吁，应用于一类观察者。我们应该计算我们预期观察到的内容，也就是，就像我们是所有可能观察者中的“随机选择”一样。博斯特罗姆（2002 年）认为，无差别风格的推理对应对“怪异观察者”的问题是必要的。正如博斯特罗姆所阐述的，问题在于在一个无限的宇宙中，任何观察 O 对某个观察者是真实的（即使只对从真空中波动而来的观察者是真实的）。他的回应是，我们应该评估基于的理论不是某个观察者看到 O 的主张，而是基于指称性主张：也就是，我们做出了观察 O。他假设我们是在可能观察者类别中的“随机”选择。（如何证明这样一个强烈主张是这种思维方式的一个重大挑战。）如果我们接受这一假设，那么我们可以将“怪异”观察者的观察结果赋予低概率，并恢复 O 的证据价值。
 
@@ -255,7 +255,7 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 * 新物理学：微调可以通过多种方式修改物理理论来消除：改变动力学定律，引入对物理可能性空间（或自然常数可能值）的新约束等。
 * 多元宇宙：微调被解释为从可能宇宙空间（或多元宇宙）中选择的结果。
 
-在下一节中，我们将更详细地讨论最后一个回应；有关第三个回应的进一步讨论，请参见§3。
+在下一节中，我们将更详细地讨论最后一个回应；有关第三个回应的进一步讨论，请参见 §3。
 
 ### 4.3 多元宇宙
 
@@ -267,15 +267,15 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 
 在这种情况下，有两种不同的方法来恢复一些经验内容。首先，可能存在口袋宇宙早期形成的痕迹，即相邻“泡沫”之间的碰撞的残留物，留在 CMB 天空上。检测到无法用其他方法解释的独特签名将为多宇宙提供证据。然而，并没有预期多宇宙理论会普遍预测这种痕迹；例如，如果碰撞发生得太早，印记将被随后的膨胀扩张抹去。
 
-另一种方法涉及对基本常数的预测，例如上面讨论的韦恩伯格对Λ的预测。假定形成口袋宇宙的过程会导致每个口袋中的局部、低能物理的变化。基本常数的值的预测来自两个方面：（1）对整体中不同常数值的概率的规定，以及（2）对选择效应的处理，即限制考虑具有观察者的口袋宇宙，然后选择一个“典型”观察者。
+另一种方法涉及对基本常数的预测，例如上面讨论的韦恩伯格对 Λ 的预测。假定形成口袋宇宙的过程会导致每个口袋中的局部、低能物理的变化。基本常数的值的预测来自两个方面：（1）对整体中不同常数值的概率的规定，以及（2）对选择效应的处理，即限制考虑具有观察者的口袋宇宙，然后选择一个“典型”观察者。
 
 目标是获得 EI 多元宇宙中典型观察者应该看到的概率预测。然而，除了与人类学相关的上述挑战之外，还有几个需要克服的挑战。形成口袋宇宙导致常数变化的假设只是一个假设，尚未得到一个合理、经过充分测试的动力学理论的证明。物理文献中最广泛讨论的挑战是“测量问题”：大致上，如何为多元宇宙的不同区域分配“大小”，作为为分配概率迈出的第一步。很难定义一个测度，因为 EI 多元宇宙通常被认为是一个无限的整体，缺乏构建测度所需的结构。在我们看来，这些未解决的挑战削弱了 EI 多元宇宙产生概率预测的希望。没有这样的解释，多元宇宙提议就没有任何可测试的后果。如果整体中的任何事情都会发生，那么任何潜在的观察都与该理论相容。
 
-假设我们承认所有这些挑战都得到成功解决，那么通过与竞争性想法进行比较，就可以评估多元宇宙解决微调问题的优点。支持多元宇宙的最广泛引用的证据是上面讨论的韦恩伯格对Λ值的预测。有其他提议来解释观察到的Λ值；例如，王、朱和安鲁（2017）将量子真空视为极不均匀，并认为真空涨落之间的共振导致Λ值很小。
+假设我们承认所有这些挑战都得到成功解决，那么通过与竞争性想法进行比较，就可以评估多元宇宙解决微调问题的优点。支持多元宇宙的最广泛引用的证据是上面讨论的韦恩伯格对 Λ 值的预测。有其他提议来解释观察到的 Λ 值；例如，王、朱和安鲁（2017）将量子真空视为极不均匀，并认为真空涨落之间的共振导致 Λ 值很小。
 
 许多人对多元宇宙提案的不安感仅被在讨论这个想法时对“无限性”的自由呼吁所加强。例如，许多人认为，我们必须制定一个适用于真正无限的人类推理的解释，而不仅仅是非常庞大的宇宙。声称我们占据着无限多个可能的袋装宇宙之一，其中充满了无限多的其他观察者，这种说法建立在一个巨大而具有推测性的推断之上。这些说法未能认真对待无限的概念，无限不仅仅是一个大数。希尔伯特（1925 [1983]）强调，虽然无限是完成数学所必需的，但它并不出现在可接触的物理宇宙中。一个回应是要求宇宙学中的无限应该有限制的用途。在宇宙学的某些方面的解释中引入无限可能是有用的，就像在引入各种理想化的数学模型中那样是常见做法。然而，这种无限应该是可消除的，这样当理想化被移除时，对现象的解释仍然有效。即使对于那些认为这种要求太严格的人来说，肯定需要更加小心地澄清和证明关于无限的说法。
 
-总之，对多元宇宙的兴趣主要源于对通货膨胀对宇宙的全局结构可能产生的后果的推测。辩论的主要焦点在于 EI 是否对通货膨胀构成灾难，从而破坏了对通货膨胀进行任何测试的可能性，以及像Λ这样的预测有多少支持这些推测。解决这些问题是需要的，以决定多元宇宙是否可以在更强的意义上进行测试，超越可能提供更直接证据的特殊情况（如气泡碰撞）。
+总之，对多元宇宙的兴趣主要源于对通货膨胀对宇宙的全局结构可能产生的后果的推测。辩论的主要焦点在于 EI 是否对通货膨胀构成灾难，从而破坏了对通货膨胀进行任何测试的可能性，以及像 Λ 这样的预测有多少支持这些推测。解决这些问题是需要的，以决定多元宇宙是否可以在更强的意义上进行测试，超越可能提供更直接证据的特殊情况（如气泡碰撞）。
 
 ## 5. 测试模型
 
@@ -285,7 +285,7 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 
 宇宙学面临的基本挑战在于如何测试和评估宇宙模型，考虑到我们对独特宇宙的有限访问。如上所述，当前的宇宙模型在某种程度上依赖于对经过良好测试的局部物理学的推断，以及新颖的提议，如通胀场。在评估仅具有宇宙学含义的新颖主张时，由于物理学视界（§2.4），这一挑战尤为紧迫。在其他物理学领域常用的区分，如定律与初始条件之间的区别，或者机会与必然性之间的区别，由于宇宙的独特性而不直接适用。
 
-最近关于宇宙学不同研究方向合法性的辩论反映了对这一挑战的不同回应。 其中一种回应是退回到假设演绎法（HD）：当假设的一个后果得到验证时，其信心会逐渐提升（如果被证伪则会减少）。通货膨胀的支持者举例说，通货膨胀应该被接受，因为它成功预测了具有特定密度扰动谱的平坦宇宙。 一些多元宇宙的拥护者认为，其成功预测Λ的值是最具说服力的证据。
+最近关于宇宙学不同研究方向合法性的辩论反映了对这一挑战的不同回应。 其中一种回应是退回到假设演绎法（HD）：当假设的一个后果得到验证时，其信心会逐渐提升（如果被证伪则会减少）。通货膨胀的支持者举例说，通货膨胀应该被接受，因为它成功预测了具有特定密度扰动谱的平坦宇宙。 一些多元宇宙的拥护者认为，其成功预测 Λ 的值是最具说服力的证据。
 
 尽管这种方法具有吸引力，但采用 HD 作为解释证据如何支持理论的充分解释存在众所周知的问题（这通常被称为“天真 HD”）。 特别是，天真观点缺乏资源来区分做出相同预测的不确定竞争理论（参见 Crupi 2013 [2016]）。 我们认为科学家确实会区分天真 HD 视为同等的理论，这体现在关于一定证据支持特定理论程度的判断中。 科学家通常区分仅仅“符合数据”的理论与准确捕捉特定领域规律的理论，评估一些成功预测是否比其他预测更具启示性。
 
@@ -297,37 +297,37 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 
 ## Bibliography
 
-* Ade, P.A.R., N. Aghanim, M. Arnaud, F. Arroja, M. Ashdown, J. Aumont, C. Baccigalupi, M. Ballardini, A. Banday, R. Barreiro, et al., 2016, “*Planck* 2015 results—XX. Constraints on Inflation”, *Astronomy & Astrophysics*, 594: A20. doi:10.1051/0004-6361/201525898
-* Aguirre, Anthony, 2007, “Eternal Inflation, Past and Future”, 4 December 2007, arXiv:0712.0571.
-* Aguirre, Anthony, Steven Gratton, and Matthew C. Johnson, 2007, “Hurdles for Recent Measures in Eternal Inflation”, *Physical Review D*, 75(12): 123501. doi:10.1103/PhysRevD.75.123501
-* Aguirre, Anthony and Matthew C. Johnson, 2011, “A Status Report on the Observability of Cosmic Bubble Collisions”, *Reports on Progress in Physics*, 74(7): 074901. doi:10.1088/0034-4885/74/7/074901
+* Ade, P.A.R., N. Aghanim, M. Arnaud, F. Arroja, M. Ashdown, J. Aumont, C. Baccigalupi, M. Ballardini, A. Banday, R. Barreiro, et al., 2016, “*Planck* 2015 results—XX. Constraints on Inflation”, *Astronomy & Astrophysics*, 594: A20. doi: 10.1051/0004-6361/201525898
+* Aguirre, Anthony, 2007, “Eternal Inflation, Past and Future”, 4 December 2007, arXiv: 0712.0571.
+* Aguirre, Anthony, Steven Gratton, and Matthew C. Johnson, 2007, “Hurdles for Recent Measures in Eternal Inflation”, *Physical Review D*, 75(12): 123501. doi: 10.1103/PhysRevD.75.123501
+* Aguirre, Anthony and Matthew C. Johnson, 2011, “A Status Report on the Observability of Cosmic Bubble Collisions”, *Reports on Progress in Physics*, 74(7): 074901. doi: 10.1088/0034-4885/74/7/074901
 * Albert, David, 2012, “On the Origin of Everything: ‘A Universe From Nothing’, by Lawrence M. Krauss”, *The New York Times*, March 25, 2012: BR20.
 * Ashtekar, Abhay and Singh, Parampreet, 2011, “Loop quantum cosmology: a status report”, *Classical and Quantum Gravity*, 28(21): 213001.
 * Baker, Tessa and Psaltis, Dimitrios, and Skordis, Constantinos, 2015, “Linking tests of gravity on all scales: from the strong-field regime to cosmology”, *Astrophysical Journal*, 802 (1): 63.
 * Barbour, Julian B. and Herbert Pfister, 1995, *Mach’s Principle: From Newton’s Bucket to Quantum Gravity*, (Einstein Studies, vol. 6), Boston: Springer Science & Business Media.
-* Barnes, L.A., 2012, “The Fine-Tuning of the Universe for Intelligent Life”, *Publications of the Astronomical Society of Australia*, 29(4):529–564.
+* Barnes, L.A., 2012, “The Fine-Tuning of the Universe for Intelligent Life”, *Publications of the Astronomical Society of Australia*, 29(4): 529–564.
 * Barrow, John D. and Frank J. Tipler, 1986, *The Anthropic Cosmological Principle*, Oxford: Oxford University Press.
-* Batterman, Robert W., 2005, “Critical Phenomena and Breaking Drops: Infinite Idealizations in Physics”, *Studies In History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 36(2): 225–244. doi:10.1016/j.shpsb.2004.05.004
-* ––– (ed.), 2013, *Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001
-* Beisbart, Claus, 2009, “Can We Justifiably Assume the Cosmological Principle in Order to Break Model Underdetermination in Cosmology?”, *Journal for General Philosophy of Science*, 40(2): 175–205. doi:10.1007/s10838-009-9098-9
+* Batterman, Robert W., 2005, “Critical Phenomena and Breaking Drops: Infinite Idealizations in Physics”, *Studies In History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 36(2): 225–244. doi: 10.1016/j.shpsb.2004.05.004
+* ––– (ed.), 2013, *Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780195392043.001.0001
+* Beisbart, Claus, 2009, “Can We Justifiably Assume the Cosmological Principle in Order to Break Model Underdetermination in Cosmology?”, *Journal for General Philosophy of Science*, 40(2): 175–205. doi: 10.1007/s10838-009-9098-9
 * Bergmann, Peter G., 1980, “Open Discussion, Following Papers by S.W. Hawking and W.G. Unruh,” in Harry Woolf (ed.), *Some Strangeness in the Proportion: A Centennial Symposium to Celebrate the Achievements of Albert Einstein*, Reading, MA. Addison-Wesley.
-* Beringer, J., J.-F. Arguin, R. Barnett, K. Copic, O. Dahl, D. Groom, C. Lin, J. Lys, H. Murayama, C. Wohl, et al., 2012, “Review of Particle Physics”, *Physical Review D*, 86(1): 010001. doi:10.1103/PhysRevD.86.010001
-* Bernal, José Luis, Licia Verde, and Adam G. Riess, 2016, “The Trouble with H0”, *Journal of Cosmology and Astroparticle Physics*, 2016(10): 019. doi:10.1088/1475-7516/2016/10/019
+* Beringer, J., J.-F. Arguin, R. Barnett, K. Copic, O. Dahl, D. Groom, C. Lin, J. Lys, H. Murayama, C. Wohl, et al., 2012, “Review of Particle Physics”, *Physical Review D*, 86(1): 010001. doi: 10.1103/PhysRevD.86.010001
+* Bernal, José Luis, Licia Verde, and Adam G. Riess, 2016, “The Trouble with H0”, *Journal of Cosmology and Astroparticle Physics*, 2016(10): 019. doi: 10.1088/1475-7516/2016/10/019
 * Bertone, Gianfranco, Dan Hooper, and Joseph Silk, 2005, “Particle Dark Matter: Evidence, Candidates and Constraints”. *Physics Reports*, 405(5–6): 279–390. doi:/10.1016/j.physrep.2004.08.031
-* Bezrukov, F.L. and D.S. Gorbunov, 2012, “Distinguishing Between R2-Inflation and Higgs-Inflation”, *Physics Letters B*, 713(4): 365–368. doi:10.1016/j.physletb.2012.06.040
+* Bezrukov, F.L. and D.S. Gorbunov, 2012, “Distinguishing Between R2-Inflation and Higgs-Inflation”, *Physics Letters B*, 713(4): 365–368. doi: 10.1016/j.physletb.2012.06.040
 * Bojowald, Martin, 2011, *Quantum cosmology: a fundamental description of the universe*, Berlin: Springer Science.
 * Bondi, Hermann, 1960, *Cosmology*, Cambridge: Cambridge University Press.
 * Bostrom, Nick, 2002, *Anthropic Bias: Observation Selection Effects in Science and Philosophy*, Routledge, New York.
-* Brout, R., F. Englert, and E. Gunzig, 1978, “The Creation of the Universe as a Quantum Phenomenon”, *Annals of Physics*, 115: 78–106. doi:10.1016/0003-4916(78)90176-8
-* Buniy, Roman V., Stephen D.H. Hsu, and A. Zee, 2008, “Does String Theory Predict An Open Universe?”, *Physics Letters B*, 660(4): 382–385. doi:10.1016/j.physletb.2008.01.007
-* Butterfield, Jeremy, 2014, “On Under-Determination in Cosmology”, *Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics*, 46(part A): 57–69. doi:10.1016/j.shpsb.2013.06.003
-* Butterfield, Jeremy and Chris Isham, 2000, “On the Emergence of Time in Quantum Gravity”, In Jeremy Butterfield (ed.), *The Arguments of Time*, Oxford: Oxford University Press, pages 111–168. doi:10.5871/bacad/9780197263464.003.0006
+* Brout, R., F. Englert, and E. Gunzig, 1978, “The Creation of the Universe as a Quantum Phenomenon”, *Annals of Physics*, 115: 78–106. doi: 10.1016/0003-4916(78)90176-8
+* Buniy, Roman V., Stephen D.H. Hsu, and A. Zee, 2008, “Does String Theory Predict An Open Universe?”, *Physics Letters B*, 660(4): 382–385. doi: 10.1016/j.physletb.2008.01.007
+* Butterfield, Jeremy, 2014, “On Under-Determination in Cosmology”, *Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics*, 46(part A): 57–69. doi: 10.1016/j.shpsb.2013.06.003
+* Butterfield, Jeremy and Chris Isham, 2000, “On the Emergence of Time in Quantum Gravity”, In Jeremy Butterfield (ed.), *The Arguments of Time*, Oxford: Oxford University Press, pages 111–168. doi: 10.5871/bacad/9780197263464.003.0006
 * Carter, Brandon, 1974, “Large number coincidences and the anthropic principle in cosmology,” in *Confrontation of cosmological theories with observational data: Proceedings of the symposium, Krakow, Poland, Sept. 10-12, 1973*, Dordrecht: D. Reidel Publishing Co., pp. 291-298.
-* Chamcham, Khalil, Joseph Silk, John D. Barrow, and Simon Saunders (eds), 2017 *The Philosophy of Cosmology*, Cambridge: Cambridge University Press. doi:10.1017/9781316535783
-* Clarkson, Chris, Bruce Bassett, and Teresa Hui-Ching Lu, 2008, “A General Test of the Copernican Principle”, *Physical Review Letters*, 101: 011301. doi:10.1103/PhysRevLett.101.011301
-* Clarkson, Chris and Roy Maartens, 2010, “Inhomogeneity and the Foundations of Concordance Cosmology”, *Classical and Quantum Gravity*, 27(12): 001–023. doi:10.1088/0264-9381/27/12/124008
+* Chamcham, Khalil, Joseph Silk, John D. Barrow, and Simon Saunders (eds), 2017 *The Philosophy of Cosmology*, Cambridge: Cambridge University Press. doi: 10.1017/9781316535783
+* Clarkson, Chris, Bruce Bassett, and Teresa Hui-Ching Lu, 2008, “A General Test of the Copernican Principle”, *Physical Review Letters*, 101: 011301. doi: 10.1103/PhysRevLett.101.011301
+* Clarkson, Chris and Roy Maartens, 2010, “Inhomogeneity and the Foundations of Concordance Cosmology”, *Classical and Quantum Gravity*, 27(12): 001–023. doi: 10.1088/0264-9381/27/12/124008
 * Collins, Chris and Hawking, Stephen, 1973, “Why is the Universe Isotropic?,” *Astrophysical Journal*, 180: 317–334.
-* Colyvan, Mark, Jay L. Garfield, and Graham Priest, 2005, “Problems with the Argument from Fine Tuning”, *Synthese*, 145(3): 325–338. doi:10.1007/s11229-005-6195-0
+* Colyvan, Mark, Jay L. Garfield, and Graham Priest, 2005, “Problems with the Argument from Fine Tuning”, *Synthese*, 145(3): 325–338. doi: 10.1007/s11229-005-6195-0
 * Crupi, Vincenzo, 2013 [2016], “Confirmation”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/confirmation/>
 * Curiel, Erik and Peter Bokulich, 2009 [2012], “Singularities and Black Holes”, *The Stanford Encyclopedia of Philosophy* (Fall 2012 Edition), Edward N. Zalta (ed.), URL = <[Singularities and Black Holes (Stanford Encyclopedia of Philosophy/Fall 2012 Edition)](https://plato.stanford.edu/archives/fall2012/entries/spacetime-singularities/)>
 * Dicke, R.H., 1961, “Dirac’s Cosmology and Mach's Principle”, *Nature*, 192: 440–441.
@@ -338,101 +338,101 @@ Dicke 的推理说明了考虑选择效应如何可以减轻惊讶，并削弱�
 * Duhem, Pierre Maurice Marie, 1914 [1954], *The Aim and Structure of Physical Theory* (*La théorie physique: son objet et sa structure*, second edition), Philip P. Wiener (trans.), Princeton: Princeton University Press.
 * Durrer, Ruth, 2008, *The Cosmic Microwave Background*, Cambridge: Cambridge University Press.
 * Earman, John, 1995, *Bangs, Crunches, Whimpers, and Shrieks: Singularities and Acausalities in Relativistic Spacetimes*, Oxford: Oxford University Press.
-* Ehlers, J., P. Geren, and R.K. Sachs, 1968, “Isotropic Solutions of the Einstein-Liouville Equations”, *Journal of Mathematical Physics*, 9(9): 1344–1349. doi:10.1063/1.1664720
-* Ehlers, J. and W. Rindler, 1989, “A Phase-Space Representation of Friedmann-Lemaître Universes Containing Both Dust and Radiation and the Inevitability of a Big Bang”, *Monthly Notices of the Royal Astronomical Society*, 238(2): 503–521. doi:10.1093/mnras/238.2.503
+* Ehlers, J., P. Geren, and R.K. Sachs, 1968, “Isotropic Solutions of the Einstein-Liouville Equations”, *Journal of Mathematical Physics*, 9(9): 1344–1349. doi: 10.1063/1.1664720
+* Ehlers, J. and W. Rindler, 1989, “A Phase-Space Representation of Friedmann-Lemaître Universes Containing Both Dust and Radiation and the Inevitability of a Big Bang”, *Monthly Notices of the Royal Astronomical Society*, 238(2): 503–521. doi: 10.1093/mnras/238.2.503
 * Einstein, Albert, 1917, “Kosmologische Betrachtungen Zur Allgemeinen Relativitätstheorie”, *Preussische Akademie der Wissenschaften (Berlin). Sitzungsberichte*, pages 142–152.
 * Ellis, George F.R., 1971a, “Relativistic Cosmology”, in R.K. Sachs (ed.), *General Relativity and Cosmology*, (Proceedings of the International School of Physics “Enrico Fermi”, Course XLVII), New York: Academic Press, pages 104–182.
-* –––, 1971b, “Topology and Cosmology”, *General Relativity and Gravitation*, 2(1): 7–21. doi:10.1007/BF02450512
-* –––, 2002, “Cosmology and Local Physics”, *New Astronomy Reviews*, 46(11): 645–657. doi:10.1016/S1387-6473(02)00234-8
-* –––, 2007, “Issues in the Philosophy of Cosmology”, in Jeremy Butterfield & John Earman (eds), *Philosophy of Physics*, Part B, (Handbook of the Philosophy of Science), Elsevier, pages 1183–1286. doi:10.1016/B978-044451560-5/50014-2
-* –––, 2017, “The Domain of Cosmology and the Testing of Cosmological Theories”, in Chamcham et al. 2017: 1–23. doi:10.1017/9781316535783.002
-* Ellis, G.F.R. and J.E. Baldwin, 1984, “On the Expected Anisotropy of Radio Source Counts”, *Monthly Notices of the Royal Astronomical Society*, 206(2): 377–381. doi:10.1093/mnras/206.2.377
-* Ellis, G.F.R. and A.R. King, 1974, “Was the Big Bang a Whimper?”, *Communications in Mathematical Physics*, 38(2): 119–156. doi:10.1007/BF01651508
+* –––, 1971b, “Topology and Cosmology”, *General Relativity and Gravitation*, 2(1): 7–21. doi: 10.1007/BF02450512
+* –––, 2002, “Cosmology and Local Physics”, *New Astronomy Reviews*, 46(11): 645–657. doi: 10.1016/S1387-6473(02)00234-8
+* –––, 2007, “Issues in the Philosophy of Cosmology”, in Jeremy Butterfield & John Earman (eds), *Philosophy of Physics*, Part B, (Handbook of the Philosophy of Science), Elsevier, pages 1183–1286. doi: 10.1016/B978-044451560-5/50014-2
+* –––, 2017, “The Domain of Cosmology and the Testing of Cosmological Theories”, in Chamcham et al. 2017: 1–23. doi: 10.1017/9781316535783.002
+* Ellis, G.F.R. and J.E. Baldwin, 1984, “On the Expected Anisotropy of Radio Source Counts”, *Monthly Notices of the Royal Astronomical Society*, 206(2): 377–381. doi: 10.1093/mnras/206.2.377
+* Ellis, G.F.R. and A.R. King, 1974, “Was the Big Bang a Whimper?”, *Communications in Mathematical Physics*, 38(2): 119–156. doi: 10.1007/BF01651508
 * Ellis, G.F.R. and M. Madsen, 1991, “Exact Scalar Field Cosmologies,” *Classical and Quantum Gravity*, 8: 667–676.
-* Ellis, G.F.R. and T. Rothman, 1993, “Lost Horizons”, *American Journal of Physics*, 61(10): 883–893. doi:10.1119/1.17400
+* Ellis, G.F.R. and T. Rothman, 1993, “Lost Horizons”, *American Journal of Physics*, 61(10): 883–893. doi: 10.1119/1.17400
 * Ellis, G.F.R. and G. Schrieber, 1986, “Observational and dynamic properties of small universes,” *Physics Letters*, A115: 97–107.
 * Ellis, G.F.R. and D.W. Sciama, 1972, “Global and Non-Global Problems in Cosmology”, in L. O’Raifeartaigh (ed.), *General Relativity: Papers in Honour of J.L. Synge*, Oxford: Clarendon Press, pages 35–59.
-* Ellis, G.F.R. and W.R. Stoeger, 2009, “The Evolution of Our Local Cosmic Domain: Effective Causal Limits”, *Monthly Notices of the Royal Astronomical Society*, 398(3): 1527–1536. doi:10.1111/j.1365-2966.2009.15209.x
-* Ellis, George and Jean-Philippe Uzan, 2014, “Inflation and the Higgs Particle”, *Astronomy & Geophysics*, 55(1): 1–19. doi:10.1093/astrogeo/atu035
-* Ellis, George F.R., Roy Maartens, and Malcolm A.H. MacCallum, 2012, *Relativistic Cosmology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139014403
-* Ellis, G.F.R., S.D. Nel, R. Maartens, W.R. Stoeger, and A.P. Whitman, 1985, “Ideal Observational Cosmology”, *Physics Reports*, 124(5–6): 315–417. doi:10.1016/0370-1573(85)90030-4
-* February, Sean, Julien Larena, Mathew Smith, and Chris Clarkson, 2010, “Rendering Dark Energy Void”, *Monthly Notices of the Royal Astronomical Society*, 405(4): 2231–2242. doi:10.1111/j.1365-2966.2010.16627.x
-* Freivogel, Ben, Matthew Kleban, Maria Rodriguez Martinez, and Leonard Susskind, 2006, “Observational Consequences of a Landscape”, *Journal of High Energy Physics*, 2006(03): 039. doi:10.1088/1126-6708/2006/03/039
-* Frieman, Joshua, Michael Turner, and Dragan Huterer, 2008, “Dark Energy and the Accelerating Universe”, *Annual Review of Astronomy and Astrophysics*, 46: 385–432, doi:10.1146/annurev.astro.46.060407.145243
-* Gott, J. Richard, 1993, “Implications of the Copernican Principle for Our Future Prospects”, *Nature*, 363(6427): 315–319. doi:10.1038/363315a0
-* Guth, Alan H., 2007, “Eternal Inflation and Its Implications”, *Journal of Physics A: Mathematical and Theoretical*, 40(25): 6811–6826. doi:10.1088/1751-8113/40/25/S25
+* Ellis, G.F.R. and W.R. Stoeger, 2009, “The Evolution of Our Local Cosmic Domain: Effective Causal Limits”, *Monthly Notices of the Royal Astronomical Society*, 398(3): 1527–1536. doi: 10.1111/j.1365-2966.2009.15209.x
+* Ellis, George and Jean-Philippe Uzan, 2014, “Inflation and the Higgs Particle”, *Astronomy & Geophysics*, 55(1): 1–19. doi: 10.1093/astrogeo/atu035
+* Ellis, George F.R., Roy Maartens, and Malcolm A.H. MacCallum, 2012, *Relativistic Cosmology*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139014403
+* Ellis, G.F.R., S.D. Nel, R. Maartens, W.R. Stoeger, and A.P. Whitman, 1985, “Ideal Observational Cosmology”, *Physics Reports*, 124(5–6): 315–417. doi: 10.1016/0370-1573(85)90030-4
+* February, Sean, Julien Larena, Mathew Smith, and Chris Clarkson, 2010, “Rendering Dark Energy Void”, *Monthly Notices of the Royal Astronomical Society*, 405(4): 2231–2242. doi: 10.1111/j.1365-2966.2010.16627.x
+* Freivogel, Ben, Matthew Kleban, Maria Rodriguez Martinez, and Leonard Susskind, 2006, “Observational Consequences of a Landscape”, *Journal of High Energy Physics*, 2006(03): 039. doi: 10.1088/1126-6708/2006/03/039
+* Frieman, Joshua, Michael Turner, and Dragan Huterer, 2008, “Dark Energy and the Accelerating Universe”, *Annual Review of Astronomy and Astrophysics*, 46: 385–432, doi: 10.1146/annurev.astro.46.060407.145243
+* Gott, J. Richard, 1993, “Implications of the Copernican Principle for Our Future Prospects”, *Nature*, 363(6427): 315–319. doi: 10.1038/363315a0
+* Guth, Alan H., 2007, “Eternal Inflation and Its Implications”, *Journal of Physics A: Mathematical and Theoretical*, 40(25): 6811–6826. doi: 10.1088/1751-8113/40/25/S25
 * Harper, William L., 2012, *Isaac Newton’s Scientific Method: Turning Data Into Evidence about Gravity and Cosmology*, Oxford: Oxford University Press.
-* Harrison, E.R., 1984, “The Dark Night-Sky Riddle: a ‘Paradox’ that Resisted Solution”, *Science*, 226(4677): 941–946. doi:10.1126/science.226.4677.941
-* Hartle, J.B. and S.W. Hawking, 1983, “Wave Function of the Universe”, *Physical Review D*, 28(12): 2960–2975. doi:10.1103/PhysRevD.28.2960
-* Hawking, S.W. and G.F.R. Ellis, 1973, *The Large Scale Structure of Space-Time*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511524646
+* Harrison, E.R., 1984, “The Dark Night-Sky Riddle: a ‘Paradox’ that Resisted Solution”, *Science*, 226(4677): 941–946. doi: 10.1126/science.226.4677.941
+* Hartle, J.B. and S.W. Hawking, 1983, “Wave Function of the Universe”, *Physical Review D*, 28(12): 2960–2975. doi: 10.1103/PhysRevD.28.2960
+* Hawking, S.W. and G.F.R. Ellis, 1973, *The Large Scale Structure of Space-Time*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511524646
 * Hawking, S.W. and W. Israel (eds), 1979, *General Relativity: An Einstein Centenary Survey*, Cambridge: Cambridge University Press.
-* Hilbert, David, 1925 [1983], “On the Infinite”, in *Philosophy of Mathematics: Selected Readings*, second edition, Paul Benacerraf and Hilary Putnam (eds), Cambridge: Cambridge University Press, pages 183–201. Delivered June 4, 1925, before a congress of the Westphalian Mathematical Society in Munster. Translated by Erna Putnam and Gerald J. Massey from *Mathematische Annalen* (Berlin), 95(1926): 161–190. doi:10.1017/CBO9781139171519.010
-* Kamionkowski, Marc and Abraham Loeb, 1997, “Getting Around Cosmic Variance”, *Physical Review D*, 56(8): 4511–4513. doi:10.1103/PhysRevD.56.4511
-* Knight, Robert and Lloyd Knox, 2017, “The Low Level of Correlation Observed in the CMB Sky at Large Angular Scales and the Low Quadrupole Variance”, 2 May 2017, arXiv:1705.01178
+* Hilbert, David, 1925 [1983], “On the Infinite”, in *Philosophy of Mathematics: Selected Readings*, second edition, Paul Benacerraf and Hilary Putnam (eds), Cambridge: Cambridge University Press, pages 183–201. Delivered June 4, 1925, before a congress of the Westphalian Mathematical Society in Munster. Translated by Erna Putnam and Gerald J. Massey from *Mathematische Annalen* (Berlin), 95(1926): 161–190. doi: 10.1017/CBO9781139171519.010
+* Kamionkowski, Marc and Abraham Loeb, 1997, “Getting Around Cosmic Variance”, *Physical Review D*, 56(8): 4511–4513. doi: 10.1103/PhysRevD.56.4511
+* Knight, Robert and Lloyd Knox, 2017, “The Low Level of Correlation Observed in the CMB Sky at Large Angular Scales and the Low Quadrupole Variance”, 2 May 2017, arXiv: 1705.01178
 * Kristian, J. and R. K. Sachs, 1966, “Observations in Cosmology,” *Astrophysical Journal* 143: 379-399.
-* Lachièze-Rey, Marc and Jean-Pierre Luminet, 1995, “Cosmic Topology”, *Physics Reports*, 254(3): 135–214. doi:10.1016/0370-1573(94)00085-H
-* Laudan, Larry and Jarrett Leplin, 1991, “Empirical Equivalence and Underdetermination”, *Journal of Philosophy*, 88(9): 449–472. doi:10.2307/2026601
+* Lachièze-Rey, Marc and Jean-Pierre Luminet, 1995, “Cosmic Topology”, *Physics Reports*, 254(3): 135–214. doi: 10.1016/0370-1573(94)00085-H
+* Laudan, Larry and Jarrett Leplin, 1991, “Empirical Equivalence and Underdetermination”, *Journal of Philosophy*, 88(9): 449–472. doi: 10.2307/2026601
 * Lemaître, G., 1927, “Un Univers Homogène de Masse Constante et de Rayon Croissant Rendant Compte de la Vitesse Radiale des Nébuleuses Extra-Galactiques”, in *Annales de la Société scientifique de Bruxelles*, A47: 49–59.
-* Leslie, John, 1992, “Doomsday Revisited”, *The Philosophical Quarterly*, 42(166): 85–89. doi:10.2307/2220451
-* Lewis, Geraint F. and Luke A. Barnes, 2016, *A Fortunate Universe: Life in a Finely Tuned Cosmos*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316661413
-* Lidsey, James E., Andrew R. Liddle, Edward W. Kolb, Edmund J. Copeland, Tiago Barreiro, and Mark Abney, 1997, “Reconstructing the Inflaton Potential—An Overview”, *Reviews of Modern Physics*, 69(2): 373–410. doi:10.1103/RevModPhys.69.373
-* Loewer, Barry, 1996, “Humean Supervenience”, *Philosophical Topics*, 24(1): 101–127. doi:10.5840/philtopics199624112
-* Luković, Vladimir V., Rocco D’Agostino, and Nicola Vittorio, 2016, “Is There a Concordance Value For H0?” *Astronomy & Astrophysics*, 595: A109. doi:10.1051/0004-6361/201628217
-* Lyth, David H. and Antonio Riotto, 1999, “Particle Physics Models of Inflation and the Cosmological Density Perturbation”, *Physics Reports*, 314(1–2): 1–146. doi:10.1016/S0370-1573(98)00128-8
+* Leslie, John, 1992, “Doomsday Revisited”, *The Philosophical Quarterly*, 42(166): 85–89. doi: 10.2307/2220451
+* Lewis, Geraint F. and Luke A. Barnes, 2016, *A Fortunate Universe: Life in a Finely Tuned Cosmos*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316661413
+* Lidsey, James E., Andrew R. Liddle, Edward W. Kolb, Edmund J. Copeland, Tiago Barreiro, and Mark Abney, 1997, “Reconstructing the Inflaton Potential—An Overview”, *Reviews of Modern Physics*, 69(2): 373–410. doi: 10.1103/RevModPhys.69.373
+* Loewer, Barry, 1996, “Humean Supervenience”, *Philosophical Topics*, 24(1): 101–127. doi: 10.5840/philtopics199624112
+* Luković, Vladimir V., Rocco D’Agostino, and Nicola Vittorio, 2016, “Is There a Concordance Value For H0?” *Astronomy & Astrophysics*, 595: A109. doi: 10.1051/0004-6361/201628217
+* Lyth, David H. and Antonio Riotto, 1999, “Particle Physics Models of Inflation and the Cosmological Density Perturbation”, *Physics Reports*, 314(1–2): 1–146. doi: 10.1016/S0370-1573(98)00128-8
 * Malament, David, 1977, “Observationally Indistinguishable Space-Times”, in John Earman, Clark Glymour, and John Statchel (eds), *Foundations of Space-Time Theories*, (*Minnesota Studies in the Philosophy of Science*, 8), University of Minnesota Press, pages 61–80.
-* Manchak, John Byron, 2009, “Can We Know the Global Structure of Spacetime?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 40(1): 53–56. doi:10.1016/j.shpsb.2008.07.004
+* Manchak, John Byron, 2009, “Can We Know the Global Structure of Spacetime?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 40(1): 53–56. doi: 10.1016/j.shpsb.2008.07.004
 * –––, 2013, “Global Spacetime Structure”, in Batterman 2013: 587–606.
-* Manson, Neil A., 2009, “The Fine-Tuning Argument”, *Philosophy Compass*, 4(1): 271–286. doi:10.1111/j.1747-9991.2008.00188.x
-* Marra, Valerio, Lucca Amendola, Ignacy Sawicki, and Wessel Valkenburg, 2013, “Cosmic Variance and the Measurement of the Local Hubble Parameter”, *Physical Review Letters*, 110(24): 241305. doi:10.1103/PhysRevLett.110.241305
-* Martin, Jérôme, Christophe Ringeval, and Vincent Vennin, 2014, “Encyclopaedia Inflationaris”, *Physics of the Dark Universe*, 5–6: 75–235. doi:10.1016/j.dark.2014.01.003
-* McGrew, Timothy, Lydia McGrew, and Eric Vestrup, 2001, “Probabilities and the Fine-Tuning Argument: A Sceptical View”, *Mind*, 110(440): 1027–1038. doi:10.1093/mind/110.440.1027
+* Manson, Neil A., 2009, “The Fine-Tuning Argument”, *Philosophy Compass*, 4(1): 271–286. doi: 10.1111/j.1747-9991.2008.00188.x
+* Marra, Valerio, Lucca Amendola, Ignacy Sawicki, and Wessel Valkenburg, 2013, “Cosmic Variance and the Measurement of the Local Hubble Parameter”, *Physical Review Letters*, 110(24): 241305. doi: 10.1103/PhysRevLett.110.241305
+* Martin, Jérôme, Christophe Ringeval, and Vincent Vennin, 2014, “Encyclopaedia Inflationaris”, *Physics of the Dark Universe*, 5–6: 75–235. doi: 10.1016/j.dark.2014.01.003
+* McGrew, Timothy, Lydia McGrew, and Eric Vestrup, 2001, “Probabilities and the Fine-Tuning Argument: A Sceptical View”, *Mind*, 110(440): 1027–1038. doi: 10.1093/mind/110.440.1027
 * Menon, Tarun and Craig Callender, 2013, “Turn and Face the Strange … Ch-Ch-Changes: Philosophical Questions Raised by Phase Transitions”, in Batterman 2013: 189–223.
-* Misner, Charles W., 1968, “The Isotropy of the Universe”, *Astrophysical Journal*, 151: 431–457. doi:10.1086/149448
+* Misner, Charles W., 1968, “The Isotropy of the Universe”, *Astrophysical Journal*, 151: 431–457. doi: 10.1086/149448
 * Mukhanov, Viatcheslav, 2005, *Physical Foundations of Cosmology*, Cambridge: Cambridge University Press.
-* Mukhanov, V.F., H.A.,Feldman, and R.H. Brandenberger, 1992, “Theory of Cosmological Perturbations”, Part 1. classical perturbations. Part 2. quantum theory of perturbations. Part 3. extensions. *Physics Reports*, 215(5–6): 203–333. doi:10.1016/0370-1573(92)90044-Z
-* Munitz, Milton K., 1962, “The Logic of Cosmology”, *British Journal for the Philosophy of Science*, 13(49): 34–50. doi:10.1093/bjps/XIII.49.34
-* Mustapha, Nazeem, Charles Hellaby, and G.F.R. Ellis, 1997, “Large-Scale Inhomogeneity Versus Source Evolution: Can We Distinguish Them Observationally?”, *Monthly Notices of the Royal Astronomical Society*, 292(4): 817–830. doi:10.1093/mnras/292.4.817
-* Neal, Radford M., 2006, “Puzzles of Anthropic Reasoning Resolved Using Full Non-Indexical Conditioning”, 23 August 2006. arXiv:math/0608592
-* Norton, John D., 1993, “The Determination of Theory by Evidence: the Case for Quantum Discontinuity, 1900–1915”, *Synthese*, 97(1): 1–31. doi:10.1007/BF01255831
+* Mukhanov, V.F., H.A., Feldman, and R.H. Brandenberger, 1992, “Theory of Cosmological Perturbations”, Part 1. classical perturbations. Part 2. quantum theory of perturbations. Part 3. extensions. *Physics Reports*, 215(5–6): 203–333. doi: 10.1016/0370-1573(92)90044-Z
+* Munitz, Milton K., 1962, “The Logic of Cosmology”, *British Journal for the Philosophy of Science*, 13(49): 34–50. doi: 10.1093/bjps/XIII.49.34
+* Mustapha, Nazeem, Charles Hellaby, and G.F.R. Ellis, 1997, “Large-Scale Inhomogeneity Versus Source Evolution: Can We Distinguish Them Observationally?”, *Monthly Notices of the Royal Astronomical Society*, 292(4): 817–830. doi: 10.1093/mnras/292.4.817
+* Neal, Radford M., 2006, “Puzzles of Anthropic Reasoning Resolved Using Full Non-Indexical Conditioning”, 23 August 2006. arXiv: math/0608592
+* Norton, John D., 1993, “The Determination of Theory by Evidence: the Case for Quantum Discontinuity, 1900–1915”, *Synthese*, 97(1): 1–31. doi: 10.1007/BF01255831
 * –––, 1994, “Why Geometry is Not Conventional: The Verdict of Covariance Principles”, in Ulrich Majer and H.J. Schmidt (eds), *Semantical Aspects of Spacetime Theories*, Mannheim: BI Wissenschaftsverlag, pages 159–168.
-* –––, 2000, “‘Nature is the Realisation of the Simplest Conceivable Mathematical Ideas’: Einstein and the Canon of Mathematical Simplicity”, *Studies in the History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 31(2): 135–170. doi:10.1016/S1355-2198(99)00035-0
-* –––, 2010, “Cosmic Confusions: Not Supporting Versus Supporting Not”, *Philosophy of Science*, 77(4): 501–523. doi:10.1086/661504
+* –––, 2000, “‘Nature is the Realisation of the Simplest Conceivable Mathematical Ideas’: Einstein and the Canon of Mathematical Simplicity”, *Studies in the History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 31(2): 135–170. doi: 10.1016/S1355-2198(99)00035-0
+* –––, 2010, “Cosmic Confusions: Not Supporting Versus Supporting Not”, *Philosophy of Science*, 77(4): 501–523. doi: 10.1086/661504
 * –––, 2011, “Observationally Indistinguishable Spacetimes: a Challenge for Any Inductivist”, in *Philosophy of Science Matters: The Philosophy of Peter Achinstein*, Gregory J. Morgan (ed.), Oxford: Oxford University Press, pages 164–166.
-* O’Raifeartaigh, Cormac, Michael O’Keeffe, Werner Nahm, and Simon Mitton, forthcoming, “Einstein’s 1917 Static Model of the Universe: A Centennial Review”, *The European Physical Journal H*, first online 20 July 2017. doi:10.1140/epjh/e2017-80002-5
-* Particle Data Group, 2016, “Review of Particle Physics”, *Chinese Physics C*, 40(10): 100001. doi:10.1088/1674-1137/40/10/100001
-* Peebles, P.J.E. and Bharat Ratra, 2003, “The Cosmological Constant and Dark Energy”, *Reviews of Modern Physics*, 75(2): 559–606. doi:10.1103/RevModPhys.75.559
+* O’Raifeartaigh, Cormac, Michael O’Keeffe, Werner Nahm, and Simon Mitton, forthcoming, “Einstein’s 1917 Static Model of the Universe: A Centennial Review”, *The European Physical Journal H*, first online 20 July 2017. doi: 10.1140/epjh/e2017-80002-5
+* Particle Data Group, 2016, “Review of Particle Physics”, *Chinese Physics C*, 40(10): 100001. doi: 10.1088/1674-1137/40/10/100001
+* Peebles, P.J.E. and Bharat Ratra, 2003, “The Cosmological Constant and Dark Energy”, *Reviews of Modern Physics*, 75(2): 559–606. doi: 10.1103/RevModPhys.75.559
 * Penrose, Roger, 1979, “Singularities and Time-Asymmetry”, in Hawking & Israel 1979: 581–638.
 * –––, 2016, *Fashion, Faith, and Fantasy in the New Physics of the Universe*, Princeton: Princeton University Press.
 * Peter, Patrick and Jean-Philippe Uzan, 2013, *Primordial Cosmology*, Oxford: Oxford University Press.
-* Quine, W.V., 1970, “On the Reasons for Indeterminacy of Translation”, *The Journal of Philosophy*, 67(6): 178–183. doi:10.2307/2023887
-* Roush, Sherrilyn, 2003, “Copernicus, Kant, and the Anthropic Cosmological Principles”, *Studies in History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics*, 34(1): 5–35. doi:10.1016/S1355-2198(02)00029-1
-* Schwarz, Dominik J., Craig J. Copi, Dragan Huterer, and Glenn D. Starkman, 2016, “CMB Anomalies After Planck”, *Classical and Quantum Gravity*, 33(18): 184001. doi:10.1088/0264-9381/33/18/184001
-* Silk, Joseph, 2017, “Formation of Galaxies”, in Chamcham et al. 2017: 161–178. doi:10.1017/9781316535783.009
-* Smeenk, Christopher, 2012, “Einstein’s Role in the Creation of Relativistic Cosmology”, in Michel Janssen and Christopher Lehner (eds), *Cambridge Companion to Einstein*, Cambridge: Cambridge University Press. doi:10.1017/CCO9781139024525.009
-* –––, 2014, “Predictability Crisis in Early Universe Cosmology”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 46(part A): 122–133. doi:10.1016/j.shpsb.2013.11.003
-* –––, 2017, “Testing Inflation”, in Chamcham et al. 2017: 206–227. doi:10.1017/9781316535783.011
-* Smith, George E., 2014, “Closing the Loop”, in Zvi Biener and Eric Schliesser (eds), *Newton and Empiricism*, Oxford: Oxford University Press, pages 262–351. doi:10.1093/acprof:oso/9780199337095.003.0011
+* Quine, W.V., 1970, “On the Reasons for Indeterminacy of Translation”, *The Journal of Philosophy*, 67(6): 178–183. doi: 10.2307/2023887
+* Roush, Sherrilyn, 2003, “Copernicus, Kant, and the Anthropic Cosmological Principles”, *Studies in History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics*, 34(1): 5–35. doi: 10.1016/S1355-2198(02)00029-1
+* Schwarz, Dominik J., Craig J. Copi, Dragan Huterer, and Glenn D. Starkman, 2016, “CMB Anomalies After Planck”, *Classical and Quantum Gravity*, 33(18): 184001. doi: 10.1088/0264-9381/33/18/184001
+* Silk, Joseph, 2017, “Formation of Galaxies”, in Chamcham et al. 2017: 161–178. doi: 10.1017/9781316535783.009
+* Smeenk, Christopher, 2012, “Einstein’s Role in the Creation of Relativistic Cosmology”, in Michel Janssen and Christopher Lehner (eds), *Cambridge Companion to Einstein*, Cambridge: Cambridge University Press. doi: 10.1017/CCO9781139024525.009
+* –––, 2014, “Predictability Crisis in Early Universe Cosmology”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 46(part A): 122–133. doi: 10.1016/j.shpsb.2013.11.003
+* –––, 2017, “Testing Inflation”, in Chamcham et al. 2017: 206–227. doi: 10.1017/9781316535783.011
+* Smith, George E., 2014, “Closing the Loop”, in Zvi Biener and Eric Schliesser (eds), *Newton and Empiricism*, Oxford: Oxford University Press, pages 262–351. doi: 10.1093/acprof: oso/9780199337095.003.0011
 * Stanford, P. Kyle, 2009 [2016], “Underdetermination of Scientific Theory”, *The Stanford Encyclopedia of Philosophy* (Spring 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2016/entries/scientific-underdetermination/>
-* –––, 2006, *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*, Oxford: Oxford University Press. doi:10.1093/0195174089.001.0001
-* Starkman, Glenn D. and Roberto Trotta, 2006, “Why Anthropic Reasoning Cannot Predict Λ”, *Physical Review Letters*, 97(20): 201301. doi:10.1103/PhysRevLett.97.201301
-* Steigman, Gary, 2007, “Primordial Nucleosynthesis in the Precision Cosmology Era”, *Annual Review of Nuclear and Particle Science*, 57: 463–491. doi:10.1146/annurev.nucl.56.080805.140437
+* –––, 2006, *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives*, Oxford: Oxford University Press. doi: 10.1093/0195174089.001.0001
+* Starkman, Glenn D. and Roberto Trotta, 2006, “Why Anthropic Reasoning Cannot Predict Λ”, *Physical Review Letters*, 97(20): 201301. doi: 10.1103/PhysRevLett.97.201301
+* Steigman, Gary, 2007, “Primordial Nucleosynthesis in the Precision Cosmology Era”, *Annual Review of Nuclear and Particle Science*, 57: 463–491. doi: 10.1146/annurev.nucl.56.080805.140437
 * Stein, Howard, 1994, “Some Reflections on the Structure of Our Knowledge in Physics”, in *Logic, Metholodogy and Philosophy of Science, Proceedings of the Ninth International Congress of Logic, Methodology and Philosophy of Science*, D. Prawitz, B. Skyrms, and D. Westerståhl (eds), Elsevier Science, pages 633–55.
 * Synge, J.L., 1961, *Relativity: the General Theory*, Amsterdam: North-Holland.
-* Titelbaum, Michael G., 2013, *Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658305.001.0001
-* Trotta, Roberto, 2008, “Bayes in the Sky: Bayesian Inference and Model Selection in Cosmology”, *Contemporary Physics*, 49(2): 71–104. doi:10.1080/00107510802066753
+* Titelbaum, Michael G., 2013, *Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199658305.001.0001
+* Trotta, Roberto, 2008, “Bayes in the Sky: Bayesian Inference and Model Selection in Cosmology”, *Contemporary Physics*, 49(2): 71–104. doi: 10.1080/00107510802066753
 * Unger, Roberto Mangabeira and Lee Smolin, 2014, *The Singular Universe and the Reality of Time*, Cambridge: Cambridge University Press.
-* van Fraassen, Bas C., 1980, *The Scientific Image*, Oxford: Clarendon Press. doi:10.1093/0198244274.001.0001
-* Vilenkin, Alexander, 1983, “The Birth of Inflationary Universes”, *Physical Review D*, 27(12): 2848–2855. doi:10.1103/PhysRevD.27.2848
-* –––, 1995, “Predictions from Quantum Cosmology”, *Physical Review Letters*, 74(6): 846–849. doi:10.1103/PhysRevLett.74.846
+* van Fraassen, Bas C., 1980, *The Scientific Image*, Oxford: Clarendon Press. doi: 10.1093/0198244274.001.0001
+* Vilenkin, Alexander, 1983, “The Birth of Inflationary Universes”, *Physical Review D*, 27(12): 2848–2855. doi: 10.1103/PhysRevD.27.2848
+* –––, 1995, “Predictions from Quantum Cosmology”, *Physical Review Letters*, 74(6): 846–849. doi: 10.1103/PhysRevLett.74.846
 * –––, 2007, *Many Worlds in One: the Search for Other Universes*, New York: Hill and Wang.
 * Wagner, Andreas, 2014, *Arrival of the Fittest: Solving Evolution’s Greatest Puzzle*, New York: Penguin.
 * Wainwright, J. and G.F.R. Ellis, 1997, *Dynamical Systems in Cosmology*, Cambridge: Cambridge University Press.
 * Wald, Robert M., 1984, *General Relativity*, Chicago: University of Chicago Press.
-* Wang, Qingdi, Zhen Zhu, and William G. Unruh, 2017, “How the Huge Energy of Quantum Vacuum Gravitates to Drive the Slow Accelerating Expansion of the Universe” *Physical Review D*, 95(10): 103504. doi:10.1103/PhysRevD.95.103504
-* Weinberg, David H., James S. Bullock, Fabio Governato,Rachel Kuzio de Naray, and Annika H.G. Peter, 2015, “Cold Dark Matter: Controversies on Small Scales”, *Proceedings of the National Academy of Sciences*, 112(40): 12249–12255. doi:10.1073/pnas.1308716112
-* Weinberg, Steven, 1987, “Anthropic Bound on the Cosmological Constant”, *Physical Review Letters*, 59(22): 2607–2610. doi:10.1103/PhysRevLett.59.2607
-* Zhang, Pengjie and Albert Stebbins, 2011, “Confirmation of the Copernican Principle Through the Anisotropic Kinetic Sunyaev Zel’Dovich Effect”, *Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences*, 369(1957): 5138–5145. doi:10.1098/rsta.2011.0294
-* Zhang, Ray and Dragan Huterer, 2010, “Disks in the Sky: a Reassessment of the WMAP ‘Cold Spot’”, *Astroparticle Physics*, 33(2): 69–74. doi:10.1016/j.astropartphys.2009.11.005
+* Wang, Qingdi, Zhen Zhu, and William G. Unruh, 2017, “How the Huge Energy of Quantum Vacuum Gravitates to Drive the Slow Accelerating Expansion of the Universe” *Physical Review D*, 95(10): 103504. doi: 10.1103/PhysRevD.95.103504
+* Weinberg, David H., James S. Bullock, Fabio Governato, Rachel Kuzio de Naray, and Annika H.G. Peter, 2015, “Cold Dark Matter: Controversies on Small Scales”, *Proceedings of the National Academy of Sciences*, 112(40): 12249–12255. doi: 10.1073/pnas.1308716112
+* Weinberg, Steven, 1987, “Anthropic Bound on the Cosmological Constant”, *Physical Review Letters*, 59(22): 2607–2610. doi: 10.1103/PhysRevLett.59.2607
+* Zhang, Pengjie and Albert Stebbins, 2011, “Confirmation of the Copernican Principle Through the Anisotropic Kinetic Sunyaev Zel’Dovich Effect”, *Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences*, 369(1957): 5138–5145. doi: 10.1098/rsta.2011.0294
+* Zhang, Ray and Dragan Huterer, 2010, “Disks in the Sky: a Reassessment of the WMAP ‘Cold Spot’”, *Astroparticle Physics*, 33(2): 69–74. doi: 10.1016/j.astropartphys.2009.11.005
 
 ## Academic Tools
 

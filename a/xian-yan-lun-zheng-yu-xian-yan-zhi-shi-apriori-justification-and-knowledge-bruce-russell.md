@@ -102,7 +102,7 @@ a.
 
 b.
 
-2 夸脱的任何液体加上 2 夸脱的任何液体=4 夸脱的液体。
+2 夸脱的任何液体加上 2 夸脱的任何液体 = 4 夸脱的液体。
 
 10
 
@@ -122,7 +122,7 @@ a.
 
 b.
 
-凯文·杜兰特比勒布朗·詹姆斯高，而勒布朗·詹姆斯比斯蒂芬·库里高（著名篮球运动员）。
+凯文 · 杜兰特比勒布朗 · 詹姆斯高，而勒布朗 · 詹姆斯比斯蒂芬 · 库里高（著名篮球运动员）。
 
 12
 
@@ -188,11 +188,11 @@ i.
 
 有人可能认为 15a 只能通过经验来证明，但宝石学家似乎认为红宝石是概念上必要的，也就是说，“红宝石”的意义要求红宝石是红色的。因此，鉴于宝石学家使用“红宝石”的方式，15a 是可以先验知道的。红宝石的概念似乎是一个混合概念：它的颜色可以先验知道，但其在 15bi 中给出的物质本质只能通过经验来知道。
 
-虽然广泛认为一些必然真理能够得到证明，并且只能通过经验来认识（例如，“水是 H2O”），但一些偶然真理似乎也是可以被证明和先验地认识的。索尔·克里普克提出了“巴黎的标准米尺 S 在 t0 时是一米长”就是这样一个例子（克里普克 1972 年：274-275）。“在实际世界的 t0 时，S 的长度”刚性地指代那个长度，也就是说，它在每个可能的世界中都指代长度 L。“一米”的指称是由那个确定指称的描述给出的，因此“一米”刚性地指代 L。然而，“在 t0 时的 S 的长度”并没有刚性地指代任何特定的长度，因为在其他可能的世界中，在 t0 时 S 的长度可能会比 L 长或短。因此，“S 在 t0 时是一米长”的命题是偶然的，因为在其他可能的世界中，同样的那根木棍会比实际世界中的长度更短或更长。尽管如此，我们可以先验地知道，“在 t0 时，S 是一米长”的命题在实际世界中是真实的，因为我们知道“一米”的指称是通过一个描述来确定的，该描述指称了在实际世界中 S 的长度。如果经验证据起到任何作用，那只是因为我们需要它来知道确实存在一根在某个特定时间和地点被指定为米的木棍 S。
+虽然广泛认为一些必然真理能够得到证明，并且只能通过经验来认识（例如，“水是 H2O”），但一些偶然真理似乎也是可以被证明和先验地认识的。索尔 · 克里普克提出了“巴黎的标准米尺 S 在 t0 时是一米长”就是这样一个例子（克里普克 1972 年：274-275）。“在实际世界的 t0 时，S 的长度”刚性地指代那个长度，也就是说，它在每个可能的世界中都指代长度 L。“一米”的指称是由那个确定指称的描述给出的，因此“一米”刚性地指代 L。然而，“在 t0 时的 S 的长度”并没有刚性地指代任何特定的长度，因为在其他可能的世界中，在 t0 时 S 的长度可能会比 L 长或短。因此，“S 在 t0 时是一米长”的命题是偶然的，因为在其他可能的世界中，同样的那根木棍会比实际世界中的长度更短或更长。尽管如此，我们可以先验地知道，“在 t0 时，S 是一米长”的命题在实际世界中是真实的，因为我们知道“一米”的指称是通过一个描述来确定的，该描述指称了在实际世界中 S 的长度。如果经验证据起到任何作用，那只是因为我们需要它来知道确实存在一根在某个特定时间和地点被指定为米的木棍 S。
 
-先验论证的第二个可能是先验可知的偶然命题的候选人来自约翰·图里。他声称命题“最不可能发生的事件目前没有发生”是偶然的，但仅凭理解其内容就可以知道，因此是先验可知的（2011 年：337-338）。“最不可能发生的事件”指的是最不可能发生的事件。因此，我们先验地知道没有人能够有足够的理由相信符合该描述的事件正在发生。然而，这样的事件目前可能正在发生。因此，我们可以先验地知道说最不可能发生的事件正在发生的偶然命题是错误的，而其否定是正确的。
+先验论证的第二个可能是先验可知的偶然命题的候选人来自约翰 · 图里。他声称命题“最不可能发生的事件目前没有发生”是偶然的，但仅凭理解其内容就可以知道，因此是先验可知的（2011 年：337-338）。“最不可能发生的事件”指的是最不可能发生的事件。因此，我们先验地知道没有人能够有足够的理由相信符合该描述的事件正在发生。然而，这样的事件目前可能正在发生。因此，我们可以先验地知道说最不可能发生的事件正在发生的偶然命题是错误的，而其否定是正确的。
 
-第三个可能是先验可知的偶然命题的候选人是加雷斯·埃文斯提出的。他认为我们可以先验地证明并知道形式为“如果实际上是 p，则 p”的命题，以及该形式的特定实例。考虑“如果任何邮件实际上是红色，则它是红色”。这个命题是偶然的，因为邮件在实际世界中可能是红色，但在其他可能的世界中可能不是红色。因此，在另一个可能的世界 w2 中，它的前提可以是真的（因为它的前提是关于实际世界 w1 中邮件的颜色），而它的结论是假的（因为邮件在 w2 中不是红色，而结论是关于该世界中邮件的颜色）。在任何可能的世界中，一个必然为真的条件语句不能有一个真的前提和一个假的结论。然而，我们可以独立于经验（即先验地）知道如果邮件实际上是红色，则它是红色，因为它在实际世界中是真的（参见埃文斯 1979 年：83-85，关于这个主题的讨论）。
+第三个可能是先验可知的偶然命题的候选人是加雷斯 · 埃文斯提出的。他认为我们可以先验地证明并知道形式为“如果实际上是 p，则 p”的命题，以及该形式的特定实例。考虑“如果任何邮件实际上是红色，则它是红色”。这个命题是偶然的，因为邮件在实际世界中可能是红色，但在其他可能的世界中可能不是红色。因此，在另一个可能的世界 w2 中，它的前提可以是真的（因为它的前提是关于实际世界 w1 中邮件的颜色），而它的结论是假的（因为邮件在 w2 中不是红色，而结论是关于该世界中邮件的颜色）。在任何可能的世界中，一个必然为真的条件语句不能有一个真的前提和一个假的结论。然而，我们可以独立于经验（即先验地）知道如果邮件实际上是红色，则它是红色，因为它在实际世界中是真的（参见埃文斯 1979 年：83-85，关于这个主题的讨论）。
 
 先验论证的另一个可能候选是由“我在这里”表达的命题。那个句子表达了一个可能的命题，因为我不必存在，更不用说我必须在当前实际所在的地方了。然而，一个人可以知道无论何时何地她说出这句话，它都是真实的，而不受她当前或过去的经历的影响，因此与经验无关。
 
@@ -202,13 +202,13 @@ i.
 
 一种类型的证明（比如通过感知）是可疑的，当且仅当在以这种方式持有错误信念时可能被证明是有理由的。一种类型的证明是可推翻的，当且仅当该证明可以被进一步的证据所推翻，这些证据与命题的真实性相矛盾，或者被质疑是否真的有证明（比如照明条件不好，质疑视觉是否在那种情况下提供证据）。
 
-正如我们可以通过经验来证明一个错误的命题（例如，9b：两夸脱的水加上两夸脱的四氯化碳不会合并成四夸脱的液体），哲学家们认为我们也可以通过先验来证明一个错误的命题。也许康德先验地相信每一个事件都有原因。他认为这个命题具有这种地位。然而，许多物理学家认为在亚原子水平上存在真正的随机事件，并且有理由相信每一个事件都没有原因是错误的。你可能最初先验地相信无论幸福是如何产生的，它都是内在的好（12a），或者无论何时惩罚一个无辜的人都是错误的（13a）。你可能会后来想到这些主张的反例（例如，通过考虑通过他人的痛苦产生幸福或者惩罚一个无辜的人来阻止一些邪恶的人惩罚他和其他许多无辜的人）。然后你最初的先验证明将被推翻。约翰·霍桑指出，即使是先验证明的典型例子，比如一个人仔细地通过数学证明，如果这个人得到了他是疯了或者他的证明可能是错误的经验证据（基于专家证词、糟糕的记录或者扭曲的背景条件等提供的证据），也会被削弱（霍桑 2013：2009）。这些例子似乎表明先验证明是可疑的和可推翻的（即，它可以被进一步的先验或经验证据所推翻）。
+正如我们可以通过经验来证明一个错误的命题（例如，9b：两夸脱的水加上两夸脱的四氯化碳不会合并成四夸脱的液体），哲学家们认为我们也可以通过先验来证明一个错误的命题。也许康德先验地相信每一个事件都有原因。他认为这个命题具有这种地位。然而，许多物理学家认为在亚原子水平上存在真正的随机事件，并且有理由相信每一个事件都没有原因是错误的。你可能最初先验地相信无论幸福是如何产生的，它都是内在的好（12a），或者无论何时惩罚一个无辜的人都是错误的（13a）。你可能会后来想到这些主张的反例（例如，通过考虑通过他人的痛苦产生幸福或者惩罚一个无辜的人来阻止一些邪恶的人惩罚他和其他许多无辜的人）。然后你最初的先验证明将被推翻。约翰 · 霍桑指出，即使是先验证明的典型例子，比如一个人仔细地通过数学证明，如果这个人得到了他是疯了或者他的证明可能是错误的经验证据（基于专家证词、糟糕的记录或者扭曲的背景条件等提供的证据），也会被削弱（霍桑 2013：2009）。这些例子似乎表明先验证明是可疑的和可推翻的（即，它可以被进一步的先验或经验证据所推翻）。
 
-考虑另一个例子来说明这一点。涉及堆的悖论包括一般性的主张，即如果你从一堆豆子中拿走一颗豆子，你仍然有一堆，以及更具体的主张，比如说，任何一个由一千颗豆子组成的锥形堆都是一堆。这两个前提将逐颗豆子地导致结论，即一颗，甚至没有豆子，都是一堆！我们似乎有先验的理由相信一般性和更具体的主张都是真实的，但至少其中一个必定是不真实的（也许是一般性主张是假的，甚至既不真也不假），因为它们一起导致了荒谬的结论。因此，这是认为先验论证是可疑的另一个理由。（关于堆的例子，请参见索萨 1998 年的 258-259 页。）乔治·比勒尔认为哲学悖论表明直觉是可疑的（1998 年：202）。在悖论中，你有理由相信每个单独的命题，但至少其中一个必定是假的，因为这个集合是不一致的。
+考虑另一个例子来说明这一点。涉及堆的悖论包括一般性的主张，即如果你从一堆豆子中拿走一颗豆子，你仍然有一堆，以及更具体的主张，比如说，任何一个由一千颗豆子组成的锥形堆都是一堆。这两个前提将逐颗豆子地导致结论，即一颗，甚至没有豆子，都是一堆！我们似乎有先验的理由相信一般性和更具体的主张都是真实的，但至少其中一个必定是不真实的（也许是一般性主张是假的，甚至既不真也不假），因为它们一起导致了荒谬的结论。因此，这是认为先验论证是可疑的另一个理由。（关于堆的例子，请参见索萨 1998 年的 258-259 页。）乔治 · 比勒尔认为哲学悖论表明直觉是可疑的（1998 年：202）。在悖论中，你有理由相信每个单独的命题，但至少其中一个必定是假的，因为这个集合是不一致的。
 
-为什么有人认为先验证明的命题不能被经验证据推翻？康德说先验知识是“绝对独立于一切经验的知识”（康德 1787 年[1965 年：43(B3)]）。但可能要求先验知识绝对独立于一切经验的要求太严格了。可能需要一些启示性的经验。为了避免这个困难，我们可以认为先验知识和证明独立于除了理解相关命题所涉及的相关概念所需的一切经验之外的所有经验（见下文第 4.1 节）。先验知识不独立于一切经验的事实并不表明它是经验可推翻的，但它确实推翻了它不是经验可推翻的论证，因为它独立于一切经验。
+为什么有人认为先验证明的命题不能被经验证据推翻？康德说先验知识是“绝对独立于一切经验的知识”（康德 1787 年 [1965 年：43(B3)]）。但可能要求先验知识绝对独立于一切经验的要求太严格了。可能需要一些启示性的经验。为了避免这个困难，我们可以认为先验知识和证明独立于除了理解相关命题所涉及的相关概念所需的一切经验之外的所有经验（见下文第 4.1 节）。先验知识不独立于一切经验的事实并不表明它是经验可推翻的，但它确实推翻了它不是经验可推翻的论证，因为它独立于一切经验。
 
-当仅仅涉及先验论证而非知识时，菲利普·基彻认为，如果存在所谓的综合考虑的先验论证，那么“一个人有权忽略关于她所居住的世界类型的经验信息”（基彻 1983 年：30；参见 24、80-87）。这种观点似乎是基于康德的思想，但应用于论证而非知识。如果先验论证独立于所有经验经历，那么这种经验既不能支持也不能反对先验论证的命题。希拉里·普特南认为，如果存在先验论证，那么就有“总是理性相信的真理”（普特南 1983 年：90）。根据基彻对先验论证的理解，它不会被经验信息所推翻；而根据普特南的理解，它根本不可推翻。
+当仅仅涉及先验论证而非知识时，菲利普 · 基彻认为，如果存在所谓的综合考虑的先验论证，那么“一个人有权忽略关于她所居住的世界类型的经验信息”（基彻 1983 年：30；参见 24、80-87）。这种观点似乎是基于康德的思想，但应用于论证而非知识。如果先验论证独立于所有经验经历，那么这种经验既不能支持也不能反对先验论证的命题。希拉里 · 普特南认为，如果存在先验论证，那么就有“总是理性相信的真理”（普特南 1983 年：90）。根据基彻对先验论证的理解，它不会被经验信息所推翻；而根据普特南的理解，它根本不可推翻。
 
 从 Sosa、Bealer 和 Hawthorne 的反对意见来看，很难看出这两种观点如何站得住脚。就论证而言，只要论证是相对于一个人所拥有或应该拥有的证据，似乎有可能通过进一步的证据，无论是经验的、直觉的还是理性的洞察力，来推翻或削弱一个人当前的证据，从而破坏该人当前的论证和知识。先验论证的性质并不排除这种可能性。（有关为什么特别是经验证据可以击败先验论证的更多讨论，请参见下面第 4.5 节对 Hartry Field 的讨论。）
 
@@ -240,7 +240,7 @@ Malmgren 认为，思想实验中对案例的描述是不完整的，并且某�
 
 ### 4.3 先验论证和后验论证以及知识之间没有显著差异
 
-回答关于先验论证和知识本质的问题的一种方法是采用自下而上的方法。从类似上述的对比例子开始，构建一个解释这种差异的理论。蒂莫西·威廉姆森对这种方法提出了异议，他认为这可能会导致“没有特殊意义的区别，就像基于颜色的植物和动物分类学”或者将植物分为灌木和非灌木（2013 年：291 和 309）。最终，他的论点是：先验知识和后验知识之间的差异是微不足道的。
+回答关于先验论证和知识本质的问题的一种方法是采用自下而上的方法。从类似上述的对比例子开始，构建一个解释这种差异的理论。蒂莫西 · 威廉姆森对这种方法提出了异议，他认为这可能会导致“没有特殊意义的区别，就像基于颜色的植物和动物分类学”或者将植物分为灌木和非灌木（2013 年：291 和 309）。最终，他的论点是：先验知识和后验知识之间的差异是微不足道的。
 
 威廉姆森设想，通过感知经验和相关反馈，一个人已经获得了以英寸为单位可靠判断距离的能力，并且通过相同的方式，以厘米为单位判断距离。但她还没有意识到英寸和厘米之间存在着关系。然后有一天，她使用她的感知能力“离线”以英寸和厘米为单位判断距离，通过形成并排的视觉图像，标记之间相隔九英寸和十九厘米，并发现 D 是真的：如果两个标记相隔九英寸，它们至少相隔十九厘米。她从未测量过蚂蚁前腿和后腿之间的距离，但以类似的方式，她使用她的想象力，并发现 A 是真的：如果两个标记相隔九英寸，它们会比蚂蚁的前腿和后腿更远。
 
@@ -248,13 +248,13 @@ Malmgren 认为，思想实验中对案例的描述是不完整的，并且某�
 
 Williamson 反对先验和后验证明之间区别的重要性的论点是基于对 D 和 A（以及上述示例中的其他类似对的命题，如 4a 和 4b）如何被证明的比较。他认为它们都是通过想象中的相关操作来证明的。但是根据传统的证明解释，D 将是某个只能通过先验证明的命题的典型案例，而 A 将是某个只能通过后验证明的命题的典型案例。威廉姆森似乎乐意承认这两种证明之间存在某种差异（2013: 294–295, 296–297），但否认这是一个重要的差异，因为每种类型都依赖于想象中的操作。他可能会承认这种差异就像通过显微镜或望远镜看东西与用肉眼看东西之间的差异。虽然存在差异，但这不是一个重要的差异，因为这三种类型的观察都依赖于视觉感知。
 
-坚持先验论证和后验论证之间的重要区别的辩护者可以承认，在想象在证明中发挥威廉姆森所提出的角色方面，并没有重大差异。正如伊莱贾·楚德诺夫（Elijah Chudnoff）在涉及几何命题和随附图形的许多例子中所示（2011a: 636–38; 2013a: 370–372）。然而，还有其他先验证明命题的方法。一些看似先验的命题可以通过反思来证明。楚德诺夫经常引用的一个例子是：如果 a<1，则 2−2a>0。为了证明这个命题，你可以首先让 a=1，看到 2−2a=0。然后你可以反思，当“a”是一个小于一但大于或等于零的数时，（2−2a）大于零。最后，你可以反思，如果“a”是一个负数，（−2a）将是一个正数，所以（2−2a）将是一个大于 2 的数，因此大于零。所以通过对一些相关案例的反思，我们可以先验地认识到如果 a<1，则（2−2a）>0。这种方式与我们通过想象来看到 A = 如果两个标记相距九英寸，它们将比蚂蚁的前腿和后腿之间的距离更远的方式大不相同。
+坚持先验论证和后验论证之间的重要区别的辩护者可以承认，在想象在证明中发挥威廉姆森所提出的角色方面，并没有重大差异。正如伊莱贾 · 楚德诺夫（Elijah Chudnoff）在涉及几何命题和随附图形的许多例子中所示（2011a: 636–38; 2013a: 370–372）。然而，还有其他先验证明命题的方法。一些看似先验的命题可以通过反思来证明。楚德诺夫经常引用的一个例子是：如果 a <1，则 2−2a> 0。为了证明这个命题，你可以首先让 a = 1，看到 2−2a = 0。然后你可以反思，当“a”是一个小于一但大于或等于零的数时，（2−2a）大于零。最后，你可以反思，如果“a”是一个负数，（−2a）将是一个正数，所以（2−2a）将是一个大于 2 的数，因此大于零。所以通过对一些相关案例的反思，我们可以先验地认识到如果 a <1，则（2−2a）> 0。这种方式与我们通过想象来看到 A = 如果两个标记相距九英寸，它们将比蚂蚁的前腿和后腿之间的距离更远的方式大不相同。
 
 对于命题 D，我们可以了解到一英寸等于 2.54 厘米，进行计算并看到九英寸等于 22.86 厘米，从而看到九英寸大于十九厘米。在先验证明某个命题为真方面，有其他方法不同于威廉姆森所称的模拟方法。而且，这些先验证明命题的方法与后验证明命题的方法有明显的区别。
 
-在威廉姆森和保罗·博戈西安辩论先验知识的一本即将出版的书中，博戈西安为我们可能在相信一个命题时先验地获得正当理由辩护了三种不同的方式（其中没有涉及模拟方法）：两种方式是我们的理解可能是先验理由的来源，第三种方式则是依靠没有独特现象学特征的理性直觉，根据博戈西安的说法，这些直觉不是我们理解概念的产物。
+在威廉姆森和保罗 · 博戈西安辩论先验知识的一本即将出版的书中，博戈西安为我们可能在相信一个命题时先验地获得正当理由辩护了三种不同的方式（其中没有涉及模拟方法）：两种方式是我们的理解可能是先验理由的来源，第三种方式则是依靠没有独特现象学特征的理性直觉，根据博戈西安的说法，这些直觉不是我们理解概念的产物。
 
-在许多论文和一本书中，伊莱贾·楚德诺夫认为直觉具有他所称之为“表象现象学”的特征，这与感知的现象学相似。对他来说，直觉是知觉的智力形式，有时可以揭示抽象现实，就像感觉知觉有时可以揭示具体现实一样。因此，在他看来，先验理由类似于但与后验理由有着显著的不同。对楚德诺夫来说，直觉可以通过想象、反思甚至是从前提到结论的推理来唤起，但是它们的能力提供正当理由的基础是它们的本质，而不是它们的来源。他的论点与一种观点相似，即知觉之所以能够提供正当理由是因为它们是它们所是的心理状态，而不是因为它们的来源。这就是为什么它们可以在恶魔世界或者矩阵中提供正当理由，尽管它们的来源是恶魔或超级计算机，而不是真实的对象。
+在许多论文和一本书中，伊莱贾 · 楚德诺夫认为直觉具有他所称之为“表象现象学”的特征，这与感知的现象学相似。对他来说，直觉是知觉的智力形式，有时可以揭示抽象现实，就像感觉知觉有时可以揭示具体现实一样。因此，在他看来，先验理由类似于但与后验理由有着显著的不同。对楚德诺夫来说，直觉可以通过想象、反思甚至是从前提到结论的推理来唤起，但是它们的能力提供正当理由的基础是它们的本质，而不是它们的来源。他的论点与一种观点相似，即知觉之所以能够提供正当理由是因为它们是它们所是的心理状态，而不是因为它们的来源。这就是为什么它们可以在恶魔世界或者矩阵中提供正当理由，尽管它们的来源是恶魔或超级计算机，而不是真实的对象。
 
 像 Boghossian 和 Chudnoff 一样，与 Williamson 不同，Albert Casullo 认为先验和后验的证明之间存在重大差异，这是基于非经验和经验证据的支持之间的差异。他还认为，有一种类似于证明的东西（即，积极的认识状态），它根本不依赖于证据（2012c：318-326）。对于 Casullo 和其他人来说，积极的认识状态可以源自于在特定目标或项目下您有权接受的东西。这种观点将在下面的第 4.5 节中讨论。
 
@@ -262,21 +262,21 @@ Williamson 反对先验和后验证明之间区别的重要性的论点是基于
 
 假设先验证明是基于某些非经验来源的输出（证据）。那么这种证据可能是什么？一个标准答案是直觉或理性洞察力是先验证明的基础。那么直觉或理性洞察力是什么？
 
-正如我们所见，马尔姆格伦区分了直觉和直观判断，其中直觉是一种特殊类型的心理状态，可以证明一个判断的正确性（2011 年：267-268）。但并不是每个人对“直觉”都有相同的理解。在《思考，快与慢》一书中，丹尼尔·卡尼曼认为直觉经常导致我们接受错误的信念。他引用了赫伯特·西蒙对直觉的定义：“直觉不过是对存储在记忆中的某种线索的识别而已”（2011 年：11，237）。但卡尼曼在谈到直觉和基于直觉的直观判断时，他指的是快速、自动、即时的判断。他常常认为它们源于“直觉感觉”，就像他举的一个例子中，“一家大型金融公司的首席投资官”在最近参加了一场汽车展览会后决定投资数千万美元购买福特股票（2011 年：12）。他将直觉答案描述为“首先浮现在脑海中的答案”（2011 年：6）。埃利亚·楚德诺夫对直觉有不同的理解，因为他认为“有些直觉是通过刻意努力获得的”，而其他直觉则需要专家指导一个人才能拥有（楚德诺夫即将发表）。
+正如我们所见，马尔姆格伦区分了直觉和直观判断，其中直觉是一种特殊类型的心理状态，可以证明一个判断的正确性（2011 年：267-268）。但并不是每个人对“直觉”都有相同的理解。在《思考，快与慢》一书中，丹尼尔 · 卡尼曼认为直觉经常导致我们接受错误的信念。他引用了赫伯特 · 西蒙对直觉的定义：“直觉不过是对存储在记忆中的某种线索的识别而已”（2011 年：11，237）。但卡尼曼在谈到直觉和基于直觉的直观判断时，他指的是快速、自动、即时的判断。他常常认为它们源于“直觉感觉”，就像他举的一个例子中，“一家大型金融公司的首席投资官”在最近参加了一场汽车展览会后决定投资数千万美元购买福特股票（2011 年：12）。他将直觉答案描述为“首先浮现在脑海中的答案”（2011 年：6）。埃利亚 · 楚德诺夫对直觉有不同的理解，因为他认为“有些直觉是通过刻意努力获得的”，而其他直觉则需要专家指导一个人才能拥有（楚德诺夫即将发表）。
 
-哲学家们在提到盖蒂尔案例和上述典型案例时，并不是指卡尼曼所说的直觉。虽然直觉是非推理的，但有些直觉只能在经过反思和努力后才能产生（参见 Chudnoff 即将发表的文章）。它们也不是乔治·比勒尔所说的“物理直觉”，比如那种基于直觉判断一个被破坏的房子会倒塌的直觉（比勒尔 1992 年：102；1998 年：207，211）。它们是某种智力上的显现（比勒尔）或理性洞察（BonJour）。对于比勒尔和 BonJour 来说，广义上的直觉是非推理的，因为它们不是某种推理的结论。对于 Chudnoff 来说，直觉可以通过推理产生，但它们的证明力并不来自于推理。推理只是引导你到一个似乎本身就是真实的命题。像感觉一样，直觉必须是当前的，所以不像信念那样不需要。你可以相信 P 而不考虑 P，但你不能在不考虑 P 的情况下有一个直觉 P。
+哲学家们在提到盖蒂尔案例和上述典型案例时，并不是指卡尼曼所说的直觉。虽然直觉是非推理的，但有些直觉只能在经过反思和努力后才能产生（参见 Chudnoff 即将发表的文章）。它们也不是乔治 · 比勒尔所说的“物理直觉”，比如那种基于直觉判断一个被破坏的房子会倒塌的直觉（比勒尔 1992 年：102；1998 年：207，211）。它们是某种智力上的显现（比勒尔）或理性洞察（BonJour）。对于比勒尔和 BonJour 来说，广义上的直觉是非推理的，因为它们不是某种推理的结论。对于 Chudnoff 来说，直觉可以通过推理产生，但它们的证明力并不来自于推理。推理只是引导你到一个似乎本身就是真实的命题。像感觉一样，直觉必须是当前的，所以不像信念那样不需要。你可以相信 P 而不考虑 P，但你不能在不考虑 P 的情况下有一个直觉 P。
 
-当涉及到感知问题时，在穆勒-莱尔图中，箭头指向内部的线条看起来比指向外部的线条长，即使你知道它实际上并不长。至少对一些人来说，在蒙蒂霍尔的例子中，似乎有 50%的机会，即使他们知道选手没有选择的那扇门后面的奖品的概率是 2/3（参见 Russell 2010: 464，关于蒙蒂霍尔的例子）。因此，直觉是一种出现的类型；物理和哲学直觉在这方面是相同的。乔治·比勒将理性直觉描述为一种智力上的显然，即某个命题是必然或可能为真的（Bealer 1998: 207–208）。他将其与物理直觉相对比，即房屋被破坏会倒塌，这与必然或可能为真的命题无关。此外，哲学直觉仅基于对其对象命题的理解，而物理直觉则基于对物理世界的某种理解。比勒将直觉与“判断、猜测和直觉”（1998: 210–211）、常识、信念甚至是倾向于相信（1998: 208–209）相对比。当然，它们不仅仅是“直觉感觉”，后者不仅仅基于对某个命题的理解。
+当涉及到感知问题时，在穆勒-莱尔图中，箭头指向内部的线条看起来比指向外部的线条长，即使你知道它实际上并不长。至少对一些人来说，在蒙蒂霍尔的例子中，似乎有 50%的机会，即使他们知道选手没有选择的那扇门后面的奖品的概率是 2/3（参见 Russell 2010: 464，关于蒙蒂霍尔的例子）。因此，直觉是一种出现的类型；物理和哲学直觉在这方面是相同的。乔治 · 比勒将理性直觉描述为一种智力上的显然，即某个命题是必然或可能为真的（Bealer 1998: 207–208）。他将其与物理直觉相对比，即房屋被破坏会倒塌，这与必然或可能为真的命题无关。此外，哲学直觉仅基于对其对象命题的理解，而物理直觉则基于对物理世界的某种理解。比勒将直觉与“判断、猜测和直觉”（1998: 210–211）、常识、信念甚至是倾向于相信（1998: 208–209）相对比。当然，它们不仅仅是“直觉感觉”，后者不仅仅基于对某个命题的理解。
 
 Laurence BonJour 认为，理性洞察是对某个命题必然真实的直接、非推理的把握、理解或“看见”（BonJour 1998: 106）。他接着论证说，命题似乎是必然真实的是先验论证的基础，因为他希望承认这种论证可能是可疑的和可推翻的。因此，对于 BonJour 来说，明显的理性洞察是先验论证所依据的证据，而不是理性洞察本身（1998: 112–113, 1998: §§4.5, 4.6）。在发表《捍卫纯粹理性》（1998）之后，针对 Paul Boghossian（2001）的评论，BonJour 写道，这些表象并非命题性的，也就是说，它们并不是关于某事情是真实的表象（BonJour 2001a: 677–678）。在这方面，它们与信念不同，更像是感知的感觉。
 
-约翰·霍桑质疑邦乔和比勒尔所理解的明显的理性洞察力或理性直觉是否为基于它们的信念提供证据。他假设这些智力上的显现通过一种特殊的现象学方式表现在内在意识中（霍桑 2013 年：215）。然后他想知道以下哪种情况会提供证据：没有相关现象学的显现，他称之为“发光”；有一个被人不知道的发光的显现（如果这种情况可能存在）；有一个已知但不可靠的发光的显现。他似乎认为对这些问题的好答案需要放弃“内在主义要求”，这推动了这些观点，只允许“从内部可接触到的”东西被视为与证明相关（霍桑 2013 年：216）。正如我们所见，楚德诺夫认为直觉具有独特的现象学，这提供了理由相信它们所指对象的命题是真实的（2011b，尤其是第 6 和第 7 节）；其他人认为它们不一定具有独特的现象学（索萨 2013 年；博戈西安即将出版）。在某些情况下，人们可能会认为处于具有相关现象学的心理状态中必然会给你初步的理由去相信引起那种直觉的命题，也就是说，给你一个理由去相信那个命题，尽管这个理由可能会被进一步的考虑所削弱或推翻。
+约翰 · 霍桑质疑邦乔和比勒尔所理解的明显的理性洞察力或理性直觉是否为基于它们的信念提供证据。他假设这些智力上的显现通过一种特殊的现象学方式表现在内在意识中（霍桑 2013 年：215）。然后他想知道以下哪种情况会提供证据：没有相关现象学的显现，他称之为“发光”；有一个被人不知道的发光的显现（如果这种情况可能存在）；有一个已知但不可靠的发光的显现。他似乎认为对这些问题的好答案需要放弃“内在主义要求”，这推动了这些观点，只允许“从内部可接触到的”东西被视为与证明相关（霍桑 2013 年：216）。正如我们所见，楚德诺夫认为直觉具有独特的现象学，这提供了理由相信它们所指对象的命题是真实的（2011b，尤其是第 6 和第 7 节）；其他人认为它们不一定具有独特的现象学（索萨 2013 年；博戈西安即将出版）。在某些情况下，人们可能会认为处于具有相关现象学的心理状态中必然会给你初步的理由去相信引起那种直觉的命题，也就是说，给你一个理由去相信那个命题，尽管这个理由可能会被进一步的考虑所削弱或推翻。
 
 此外，贝勒（Bealer）可能对那些认为可靠性是证明的必要条件的人有答案，因为他认为在特定条件下，智力直觉在本质上是可靠的。他将自己的观点称为模态可靠主义（1998 年：215-217），认为在理想条件下对某种概念的掌握（即对概念的充分理解）可以保证某些人认为证据所需的可靠性。在这种观点下，与相关的智力直觉相关的现象学是无关紧要的（参见 Sosa 2013 年）。重要的是，这个人是否充分理解相关的概念。这甚至可以成为直觉数学判断的证明基础，而这些判断并不伴随着任何直觉的发光（这是霍桑（Hawthorne）在上述文章中提到的可能性（2013 年：217））。因此，像邦杰（Bonjour）和贝勒（Bealer）这样的观点的支持者可以通过认为相关的直觉或洞察力是可靠的来回答霍桑（Hawthorne）的问题，无论它们是否伴随着发光、未知的发光或根本没有发光。
 
-那些认为直觉可以作为理由的人认为，因为它们基于理解，所以可以证明。例如，他们认为我们理解知识的概念是我们直觉的来源，即一个正确的幸运猜测不是知识。霍桑对基于理解的先验论证的批评（正如博戈西安即将提出的）是，似乎存在一些先验论证的例子，这些例子需要“复杂的证明技巧，这些技巧显然不是该领域中任何事物的先决条件”（霍桑 2013 年：213）。例如，证明费马大定理需要复杂的证明技巧，尽管我们很容易理解该定理的含义，即当 n 是大于 2 的正整数时，方程 xn+yn=zn 没有解。对这一反对意见的可能回应是扩大使能经验的概念，包括获取需要用于推理的智力技能所需的经验（见上文第 4.1 节和下文第 4.5 节），这些技能与感知技能不同。但是，仅仅掌握这些技巧而不理解前提之间的联系将无法产生证明。可以认为先验和后验证明之间的重要区别在于，一旦掌握了概念和相关技巧，先验证明就不再需要其他东西（这是先验证明独立于经验的意义），而后验证明则需要进一步的经验。此外，霍桑的批评似乎不影响思想实验引发的智力直觉（如标准的盖蒂尔案例）是否能够提供证据，因为那里不需要特殊的技巧。
+那些认为直觉可以作为理由的人认为，因为它们基于理解，所以可以证明。例如，他们认为我们理解知识的概念是我们直觉的来源，即一个正确的幸运猜测不是知识。霍桑对基于理解的先验论证的批评（正如博戈西安即将提出的）是，似乎存在一些先验论证的例子，这些例子需要“复杂的证明技巧，这些技巧显然不是该领域中任何事物的先决条件”（霍桑 2013 年：213）。例如，证明费马大定理需要复杂的证明技巧，尽管我们很容易理解该定理的含义，即当 n 是大于 2 的正整数时，方程 xn+yn = zn 没有解。对这一反对意见的可能回应是扩大使能经验的概念，包括获取需要用于推理的智力技能所需的经验（见上文第 4.1 节和下文第 4.5 节），这些技能与感知技能不同。但是，仅仅掌握这些技巧而不理解前提之间的联系将无法产生证明。可以认为先验和后验证明之间的重要区别在于，一旦掌握了概念和相关技巧，先验证明就不再需要其他东西（这是先验证明独立于经验的意义），而后验证明则需要进一步的经验。此外，霍桑的批评似乎不影响思想实验引发的智力直觉（如标准的盖蒂尔案例）是否能够提供证据，因为那里不需要特殊的技巧。
 
-虽然霍桑质疑直觉是否为哲学理论提供任何证据，布莱恩·韦瑟森承认它们确实提供证据，但质疑它们的证据力有多大。许多人认为盖蒂尔例子是对“拥有合理的真实信念足以构成知识”的观点的决定性反驳，但韦瑟森并不这样认为。他说，
+虽然霍桑质疑直觉是否为哲学理论提供任何证据，布莱恩 · 韦瑟森承认它们确实提供证据，但质疑它们的证据力有多大。许多人认为盖蒂尔例子是对“拥有合理的真实信念足以构成知识”的观点的决定性反驳，但韦瑟森并不这样认为。他说，
 
 > 简而言之，知识的真正理论是在（a）尽可能解释我们关于知识的直觉的同时，（b）保持系统性的理论。（2003 年：7）
 
@@ -290,15 +290,15 @@ Laurence BonJour 认为，理性洞察是对某个命题必然真实的直接、
 
 ### 4.5 先验论证不需要任何非经验性的证据来源
 
-最近，一些哲学家认为一个人可以在没有任何证据支持的情况下，对一个命题进行合理的相信或接受，即使没有非经验性的证据来源。正如我们所见，蒂莫西·威廉姆森认为，某些获得的技能可以用来为一个人没有证据支持的命题提供合理性，即通过想象力将思想结合起来的技能。他的提议是，在英寸/厘米命题的情况下，正是这种在想象中进行长度比较的技能，以及观察结果，而不是一个人的感知证据，使他有理由相信这个命题。
+最近，一些哲学家认为一个人可以在没有任何证据支持的情况下，对一个命题进行合理的相信或接受，即使没有非经验性的证据来源。正如我们所见，蒂莫西 · 威廉姆森认为，某些获得的技能可以用来为一个人没有证据支持的命题提供合理性，即通过想象力将思想结合起来的技能。他的提议是，在英寸/厘米命题的情况下，正是这种在想象中进行长度比较的技能，以及观察结果，而不是一个人的感知证据，使他有理由相信这个命题。
 
 即使是真实的，似乎我们可以从经验和理解的角度区分技能的运用。在想象中操纵两个半径不等的圆可以使一个人理解它们不能在两个以上的点相交。在一张图像中，将一条长度为九英寸的线与一只典型蚂蚁的图像相邻，可以使一个人相信典型蚂蚁前后腿之间的距离小于九英寸，但不能确定一定如此。科幻电影有时描绘出可能真实存在的巨大蚂蚁。此外，判断技能，比如说，在“羊”这个概念中，你不知道田地里有没有羊，是基于你对“知识”这个概念的理解。但是，你判断羊有毛需要更多的知识来作为知识的资格，而不仅仅是理解这个命题：你需要知道羊实际上是什么样子的。侦探通过排除三段论推断出琼斯是凶手的技能类似于几何学家推断一个四边形有四个内角或者勾股定理是真实的，但前提的性质可以决定推理是后验的还是先验的。因此，即使相关技能的运用可以提供除证据之外的理由，技能的使用方式，特别是涉及的主题，似乎是区分先验和后验（经验）理由的基础。
 
-另一个观点否定了合理信念必须建立在证据之上的观念，它认为我们所有的信念都是原则上合理的，因此可以称之为“默认合理”，即在没有拒绝它们的理由的情况下是合理的（这就是吉尔伯特·哈曼（2001）所称的“一般基础主义”）。根据某些先验论证的观点，即那些认为先验论证是独立于经验证据的论证，一般基础主义将意味着一个人的所有信念都是原则上（或弱）先验合理的，因为这种合理性仅仅源于这个人相信它们的事实，而不是任何支持它们的经验证据。根据这个观点，与最初的表面看法相反，这篇文章开头的命题在原则上是没有差别的，因为如果你接受它们，它们都是弱先验合理的。一般基础主义观点可能还会补充说，如果有些命题在所有事情上都比其他命题更少合理，那是因为它们之间的关系。一致性考虑解释了所有事情上的合理性，并且打破了最初的平等原则上合理性。此外，这个观点还暗示着，即使你没有任何经验或证词证据支持你对这个外星球的信念，你仍然可以原则上合理地相信一些极为奇异的命题，比如关于格利泽 581d 行星上发生的事情的信念，科学家们认为这个行星可能“对生命友好”（罗素 2012：100）。你可能，但不一定，还相信格利泽人通过心灵感应与你联系（而不是其他人），因为你是“被选中的人”。只要你没有反驳的证据，你甚至可以在所有事情上合理地相信关于格利泽人的所有这些事情，尽管没有证据支持你的信念。 但是似乎关于 Gliese 581d 的一致信念集合即使为它们提供了某种形式的证明，也不能为它们提供先验论证的全部证明。这将把先验的边界划得太宽。
+另一个观点否定了合理信念必须建立在证据之上的观念，它认为我们所有的信念都是原则上合理的，因此可以称之为“默认合理”，即在没有拒绝它们的理由的情况下是合理的（这就是吉尔伯特 · 哈曼（2001）所称的“一般基础主义”）。根据某些先验论证的观点，即那些认为先验论证是独立于经验证据的论证，一般基础主义将意味着一个人的所有信念都是原则上（或弱）先验合理的，因为这种合理性仅仅源于这个人相信它们的事实，而不是任何支持它们的经验证据。根据这个观点，与最初的表面看法相反，这篇文章开头的命题在原则上是没有差别的，因为如果你接受它们，它们都是弱先验合理的。一般基础主义观点可能还会补充说，如果有些命题在所有事情上都比其他命题更少合理，那是因为它们之间的关系。一致性考虑解释了所有事情上的合理性，并且打破了最初的平等原则上合理性。此外，这个观点还暗示着，即使你没有任何经验或证词证据支持你对这个外星球的信念，你仍然可以原则上合理地相信一些极为奇异的命题，比如关于格利泽 581d 行星上发生的事情的信念，科学家们认为这个行星可能“对生命友好”（罗素 2012：100）。你可能，但不一定，还相信格利泽人通过心灵感应与你联系（而不是其他人），因为你是“被选中的人”。只要你没有反驳的证据，你甚至可以在所有事情上合理地相信关于格利泽人的所有这些事情，尽管没有证据支持你的信念。 但是似乎关于 Gliese 581d 的一致信念集合即使为它们提供了某种形式的证明，也不能为它们提供先验论证的全部证明。这将把先验的边界划得太宽。
 
 Hartry Field 也认为对某些命题的信念可以是“默认合理”的，也就是说，它们是有理由的，但不是基于证据。他似乎认为，如果一个信念的“默认合理”足以使其成为先验证明，那么太多的信念将被视为先验证明。这是因为他认为，“人们通常说实话”是默认合理的，但不是先验证明。因此，他增加了一个要求，即先验证明的信念不能被经验上的推翻（Field 2000: 119–120; Casullo 2012c: 318–320 引用）。但是我们已经看到，先验证明的典范案例可以被经验考虑所推翻（见上文第 3 节）。因此，通过增加无经验推翻的要求，Field 的观点将意味着没有先验可证的命题。另一方面，如果他放弃这个要求，他将面临与 Harman 相同的问题，即将先验证明的边界划得太宽。
 
-先验论证的最终观点是，它不依赖于非经验性证据，认为我们有权接受某些命题，而这种无根据或无证据的权利就是先验论证的意义所在。有权接受或信任某些前提意味着接受或信任它是合理的，尽管这与相信它是否有理有所不同。克里斯平·赖特提出逻辑定律和我们现在不处于连贯而持续的梦境中、现在不是脑袋在罐子里等等的前提是合理的前提，其中一些是科学的标准前提。这是因为某些“认知项目”(i)在没有假设这些事物的情况下无法进行，(ii)没有证据表明这些前提是错误的(即使也没有证据表明它们是正确的)，(iii)接受这些前提不会有任何损失，而可能会有所收获(参见詹金斯 2007 年)。这些收获和损失不能是实用上的收获和损失，比如幸福、声望、成就、财富等。否则，只能得出这样的结论，即接受这些前提在实际上是合理的。这些收获和损失必须是认识论的，即与真理、或可能的真理、或与证据有关，因为赖特希望对于知识和认识论的怀疑者来说，对这些前提的合理接受是一个答案。
+先验论证的最终观点是，它不依赖于非经验性证据，认为我们有权接受某些命题，而这种无根据或无证据的权利就是先验论证的意义所在。有权接受或信任某些前提意味着接受或信任它是合理的，尽管这与相信它是否有理有所不同。克里斯平 · 赖特提出逻辑定律和我们现在不处于连贯而持续的梦境中、现在不是脑袋在罐子里等等的前提是合理的前提，其中一些是科学的标准前提。这是因为某些“认知项目”(i)在没有假设这些事物的情况下无法进行，(ii)没有证据表明这些前提是错误的(即使也没有证据表明它们是正确的)，(iii)接受这些前提不会有任何损失，而可能会有所收获(参见詹金斯 2007 年)。这些收获和损失不能是实用上的收获和损失，比如幸福、声望、成就、财富等。否则，只能得出这样的结论，即接受这些前提在实际上是合理的。这些收获和损失必须是认识论的，即与真理、或可能的真理、或与证据有关，因为赖特希望对于知识和认识论的怀疑者来说，对这些前提的合理接受是一个答案。
 
 Carrie Jenkins 质疑 Wright 提出的项目相对合理性是否足以使接受该前提合理（Jenkins 2007）。例如，在进行某些调查时，相对于某个项目或种类的调查，接受世界是一个相当有秩序的地方可能是合理的，但接受前提本身在认识论上可能是不合理的。也许在我们去看世界之前，我们应该暂时保持对此的判断。
 
@@ -370,7 +370,7 @@ BonJour 认为，许多涉及表面理性洞察（直觉）的错误可以通过
 
 理性直觉似乎与测试“立方体”的提议定义相关，但与测试“水”的参照固定描述无关。如果有人认为“立方体”的正确定义是：一个具有六个面都是具有相等边的平行四边形的三维固体，我们可以通过想象一个满足该定义但直观上不是立方体的“压扁”立方体来证明它不是“立方体”的正确定义。水的参照固定描述中提到的属性都不是液体成为水的必要条件，也不是单独或一起作为水的充分条件。因此，如果“知识”是一个由某种描述固定参照的自然种类术语，理性直觉似乎不能在确定知识的本质性质方面起到太大的作用。人们将不得不在经验的帮助下发现知识的本质，就像他们不得不在经验的帮助下发现水的本质一样。同样的情况似乎也适用于像“正确”或“最有理由做（或相信）的事情”这样的规范术语，如果它们是自然种类术语的话。
 
-在思考涉及“水”和“立方体”的这些例子的基础上，一个人可能会认为，理性直觉在发现规范概念的本质以及哲学家感兴趣的其他概念中起到的作用大小取决于这些概念是否像水的概念还是像立方体的概念。但彼得·雷尔顿（Peter Railton）认为规范术语是自然种类术语，这使得理性直觉在确定它们的参照描述时起到了重要作用。
+在思考涉及“水”和“立方体”的这些例子的基础上，一个人可能会认为，理性直觉在发现规范概念的本质以及哲学家感兴趣的其他概念中起到的作用大小取决于这些概念是否像水的概念还是像立方体的概念。但彼得 · 雷尔顿（Peter Railton）认为规范术语是自然种类术语，这使得理性直觉在确定它们的参照描述时起到了重要作用。
 
 雷尔顿将参照描述称为“工作描述”。他对像“正确”和“最有理由做的事情”这样的规范概念感兴趣，并以一般性的术语描述了工作描述可能包含的内容。雷尔顿表示，“关于‘理由的概念’可能没有太多可说的。”也许我们在这方面能说的只是，理由是一种有利于某事物（行动、欲望、情感、信念等）的考虑因素。但雷尔顿认为，“最有理由做的事情”的概念在你的概念体系中具有独特而至关重要的作用，它表达了在思考和决定我们应该做什么、什么最重要时的“停止点”。
 
@@ -386,7 +386,7 @@ BonJour 认为，许多涉及表面理性洞察（直觉）的错误可以通过
 
 理性直觉可能在 Railton 认为规范术语是自然种类术语的观点中发挥作用，通过提供与规范概念相关联的工作描述的典型案例。他说，想象不出没有理由停止对某人进行长时间的折磨，而这只是为了消遣（2017a: 56）。在 Railton 的观点中，要确定什么是正确、理性、最理性等的本质，你需要考虑的不仅仅是理性直觉可能揭示的内容。它们可以帮助确定应该包括在相关的“工作描述”中的典型案例，但该描述包括的不仅仅是典型案例。在 Railton 的观点中，就像“旧式”分析哲学只考虑理性直觉提供的数据一样，它错误地忽略了重要的数据。这对于分析规范概念的尝试是正确的，也适用于分析其他一直受到哲学家关注的概念，例如知识、因果关系、个人身份、正义、道德责任、自由行动等。
 
-Railton 的观点是规范概念是混合概念，有点像红宝石这样的红色宝石的概念，具有某种化学结构（见例子 15）或冰块的概念。 "冰"是一个自然种类的术语，或者至少它的定义作为"冻水"部分是由自然种类术语"水"给出的。但是，正如我们所见，"立方体"不是一个自然种类的术语。所以"冰块"部分是自然种类术语，部分不是。
+Railton 的观点是规范概念是混合概念，有点像红宝石这样的红色宝石的概念，具有某种化学结构（见例子 15）或冰块的概念。 "冰" 是一个自然种类的术语，或者至少它的定义作为 "冻水" 部分是由自然种类术语 "水" 给出的。但是，正如我们所见，"立方体" 不是一个自然种类的术语。所以 "冰块" 部分是自然种类术语，部分不是。
 
 ### 6.5 实用主义
 
@@ -431,161 +431,161 @@ Brian Weatherson 提供了一个例子，涉及一个他称之为“Tamati”的
 ## Bibliography
 
 * Audi, Robert, 1997, *Moral Knowledge and Ethical Character*, Oxford: Oxford University Press.
-* –––, 2001, *The Architecture of Reason: The Structure and Substance of Rationality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195158427.001.0001
-* Bealer, George, 1987, “The Philosophical Limits of Scientific Essentialism”, *Philosophical Perspectives*, 1: 289–365. doi:10.2307/2214149
-* –––, 1992, “The Incoherence of Empiricism”, *Aristotelian Society Supplementary Volume*, 66: 99–137. doi:10.1093/aristoteliansupp/66.1.99
-* –––, 1996a, “*A Priori* Knowledge and the Scope of Philosophy” and “*A Priori* Knowledge: Replies to William Lycan and Ernest Sosa”, *Philosophical Studies*, 81)2–3): 121–142 and 163–174, respectively; Bealer’s essay is reprinted in 2008, *Epistemology: An Anthology*, 2nd edition, Ernest Sosa, et al. (eds.), Malden, MA: Blackwell Publishing Ltd, pp. 612–624. doi:10.1007/BF00372777 doi:10.1007/BF00372780
-* –––, 1996b, “On the Possibility of Philosophical Knowledge”, *Philosophical Perspectives*, 10: 1–34. doi:10.2307/2216234
+* –––, 2001, *The Architecture of Reason: The Structure and Substance of Rationality*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195158427.001.0001
+* Bealer, George, 1987, “The Philosophical Limits of Scientific Essentialism”, *Philosophical Perspectives*, 1: 289–365. doi: 10.2307/2214149
+* –––, 1992, “The Incoherence of Empiricism”, *Aristotelian Society Supplementary Volume*, 66: 99–137. doi: 10.1093/aristoteliansupp/66.1.99
+* –––, 1996a, “*A Priori* Knowledge and the Scope of Philosophy” and “*A Priori* Knowledge: Replies to William Lycan and Ernest Sosa”, *Philosophical Studies*, 81)2–3): 121–142 and 163–174, respectively; Bealer’s essay is reprinted in 2008, *Epistemology: An Anthology*, 2nd edition, Ernest Sosa, et al. (eds.), Malden, MA: Blackwell Publishing Ltd, pp. 612–624. doi: 10.1007/BF00372777 doi: 10.1007/BF00372780
+* –––, 1996b, “On the Possibility of Philosophical Knowledge”, *Philosophical Perspectives*, 10: 1–34. doi: 10.2307/2216234
 * –––, 1998, “Intuition and the Autonomy of Philosophy”, in DePaul and Ramsey 1998: 201–239.
 * –––, 1999, “The A Priori”, in Greco and Sosa 1999: 243–270.
-* Beebe, James R., 2011, “*A Priori* Skepticism”, *Philosophy and Phenomenological Research*, 83(3): 583–602. doi:10.1111/j.1933-1592.2010.00488.x
+* Beebe, James R., 2011, “*A Priori* Skepticism”, *Philosophy and Phenomenological Research*, 83(3): 583–602. doi: 10.1111/j.1933-1592.2010.00488.x
 * –––, 2012, “Experimental Epistemology”, in Cullison 2012: 248–269 (Ch. 13).
-* Boghossian, Paul, 2001, “Inference and Insight”, *Philosophy and Phenomenological Research*, 63(3): 633–640. doi:10.1111/j.1933-1592.2001.tb00130.x
+* Boghossian, Paul, 2001, “Inference and Insight”, *Philosophy and Phenomenological Research*, 63(3): 633–640. doi: 10.1111/j.1933-1592.2001.tb00130.x
 * –––, forthcominga, “Do We Have Reason to Doubt the Importance of the Distinction Between A Priori and A Posteriori Knowledge? A Reply to Williamson”, in Boghossian and Williamson forthcoming.
 * –––, forthcomingb, “Intuition, Understanding, and the A Priori”, in Boghossian and Williamson forthcoming.
-* Boghossian, Paul and Christopher Peacocke (eds.), 2000, *New Essays on the A Priori*, Oxford: Clarendon Press. doi:10.1093/0199241279.001.0001
+* Boghossian, Paul and Christopher Peacocke (eds.), 2000, *New Essays on the A Priori*, Oxford: Clarendon Press. doi: 10.1093/0199241279.001.0001
 * Boghossian, Paul and Timothy Williamson, forthcoming, *Debating the A Priori*, New York: Oxford University Press.
 * BonJour, Laurence, 1985, *The Structure of Empirical Knowledge*, Cambridge, MA: Harvard University Press.
-* –––, 1998, *In Defense of Pure Reason: A Rationalist Account of A Priori Justification*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625176
-* –––, 2001a, “Précis of *In Defense of Pure Reason*” and “Replies”, *Philosophy and Phenomenological Research*, 63(3): 625–631, 673–698. Part of a Book Symposium on BonJour’s *In Defense of Pure Reason*. doi:10.1111/j.1933-1592.2001.tb00129.x doi:10.1111/j.1933-1592.2001.tb00135.x
-* –––, 2001b, “Review of *Rethinking Intuition: The Psychology of Intuition and Its Role in Philosophical Inquiry*” (DePaul and Ramsey 1998), *The British Journal for the Philosophy of Science*, 52(1): 151–158. doi:10.1093/bjps/52.1.151
+* –––, 1998, *In Defense of Pure Reason: A Rationalist Account of A Priori Justification*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625176
+* –––, 2001a, “Précis of *In Defense of Pure Reason*” and “Replies”, *Philosophy and Phenomenological Research*, 63(3): 625–631, 673–698. Part of a Book Symposium on BonJour’s *In Defense of Pure Reason*. doi: 10.1111/j.1933-1592.2001.tb00129.x doi: 10.1111/j.1933-1592.2001.tb00135.x
+* –––, 2001b, “Review of *Rethinking Intuition: The Psychology of Intuition and Its Role in Philosophical Inquiry*” (DePaul and Ramsey 1998), *The British Journal for the Philosophy of Science*, 52(1): 151–158. doi: 10.1093/bjps/52.1.151
 * –––, 2005a, “In Defense of the *A Priori*”, in Steup and Sosa 2005: 98–105.
 * –––, 2005b, “Reply to Devitt”, in Steup and Sosa 2005: 115–118.
 * –––, 2005c, “Last Rejoinder”, in Steup and Sosa 2005: 120–121.
 * Butchvarov, Panyot, 1970, *The Concept of Knowledge*, Evanston, IL: Northwestern University Press.
 * Cappelen, Herman, 2012, *Philosophy Without Intuitions*, Oxford: Oxford University Press.
-* Casullo, Albert, 2001, “Experience and A Priori Justification”, *Philosophy and Phenomenological Research*, 63(3): 665–671. doi:10.1111/j.1933-1592.2001.tb00134.x
+* Casullo, Albert, 2001, “Experience and A Priori Justification”, *Philosophy and Phenomenological Research*, 63(3): 665–671. doi: 10.1111/j.1933-1592.2001.tb00134.x
 * –––, 2002, “A Priori Knowledge”, in *The Oxford Handbook of Epistemology*, Paul Moser (ed.), Oxford: Oxford University Press, 95–143. This is a condensed version of Casullo 2003.
-* –––, 2003, *A Priori Justification*, Oxford: Oxford University Press. doi:10.1093/0195115058.001.0001
-* –––, 2009, “Analyzing a Priori Knowledge”, *Philosophical Studies*, 142(1): 77–90. doi:10.1007/s11098-008-9302-5
-* –––, 2012a, *Essays on A Priori Knowledge and Justification*, New York: Oxford University Press. This is a collection of Casullo’s previously published essays, plus four unpublished essays and an annotated bibliography on *a priori* knowledge. doi:10.1093/acprof:oso/9780199777860.001.0001
+* –––, 2003, *A Priori Justification*, Oxford: Oxford University Press. doi: 10.1093/0195115058.001.0001
+* –––, 2009, “Analyzing a Priori Knowledge”, *Philosophical Studies*, 142(1): 77–90. doi: 10.1007/s11098-008-9302-5
+* –––, 2012a, *Essays on A Priori Knowledge and Justification*, New York: Oxford University Press. This is a collection of Casullo’s previously published essays, plus four unpublished essays and an annotated bibliography on *a priori* knowledge. doi: 10.1093/acprof: oso/9780199777860.001.0001
 * –––, 2012b, “Intuitions, Thought Experiments, and the A Priori”, in Casullo 2012a: 233–250.
 * –––, 2012c, “Articulating the A Priori-A Posteriori Distinction”, in Casullo 2012a: 289–327.
-* –––, 2013, “Articulating the A Priori-A Posteriori Distinction”, in Casullo and Thurow 2013: 248–271 (Ch. 11). doi:10.1093/acprof:oso/9780199695331.003.0012
-* Casullo, Albert and Joshua C. Thurow (eds.), 2013, *The A Priori in Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199695331.001.0001
+* –––, 2013, “Articulating the A Priori-A Posteriori Distinction”, in Casullo and Thurow 2013: 248–271 (Ch. 11). doi: 10.1093/acprof: oso/9780199695331.003.0012
+* Casullo, Albert and Joshua C. Thurow (eds.), 2013, *The A Priori in Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199695331.001.0001
 * Chisholm, Roderick, 1989, *Theory of Knowledge*, 3rd edition, Englewood Cliffs, NJ: Prentice Hall, Inc.
-* Christensen, David and Jennifer Lackey (eds.), 2013, *The Epistemology of Disagreement: New Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199698370.001.0001
-* Chudnoff, Elijah, 2011a, “What Intuitions Are Like”, *Philosophy and Phenomenological Research*, 82(3): 625–654. doi:10.1111/j.1933-1592.2010.00463.x
-* –––, 2011b, “The Nature of Intuitive Justification”, *Philosophical Studies*, 153(2): 313–333. doi:10.1007/s11098-010-9495-2
-* –––, 2013a, “Intuitive Knowledge”, *Philosophical Studies*, 162(2): 359–378. doi:10.1007/s11098-011-9770-x
-* –––, 2013b, *Intuition*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199683000.001.0001
-* –––, 2014a, “Intuition in Mathematics”, in *Rational Intuition*, Lisa M. Osbeck and Barbara S. Held (eds.), New York: Cambridge University Press, 174–191. doi:10.1017/CBO9781139136419.010
-* –––, 2014b, “Is Intuition Based On Understanding?”, *Philosophy and Phenomenological Research*, 89(1): 42–67. doi:10.1111/phpr.12001
+* Christensen, David and Jennifer Lackey (eds.), 2013, *The Epistemology of Disagreement: New Essays*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199698370.001.0001
+* Chudnoff, Elijah, 2011a, “What Intuitions Are Like”, *Philosophy and Phenomenological Research*, 82(3): 625–654. doi: 10.1111/j.1933-1592.2010.00463.x
+* –––, 2011b, “The Nature of Intuitive Justification”, *Philosophical Studies*, 153(2): 313–333. doi: 10.1007/s11098-010-9495-2
+* –––, 2013a, “Intuitive Knowledge”, *Philosophical Studies*, 162(2): 359–378. doi: 10.1007/s11098-011-9770-x
+* –––, 2013b, *Intuition*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199683000.001.0001
+* –––, 2014a, “Intuition in Mathematics”, in *Rational Intuition*, Lisa M. Osbeck and Barbara S. Held (eds.), New York: Cambridge University Press, 174–191. doi: 10.1017/CBO9781139136419.010
+* –––, 2014b, “Is Intuition Based On Understanding?”, *Philosophy and Phenomenological Research*, 89(1): 42–67. doi: 10.1111/phpr.12001
 * –––, 2016, “Intuition, Presentational Phenomenology, and Awareness of Abstract Objects: Replies to Manning and Witmer”, *Florida Philosophical Review*, 16(1): 117–127.
-* –––, 2017, “The Reality of the Intuitive”, *Inquiry: An Interdisciplinary Journal of Philosophy*, 60(4): 371–385. doi:10.1080/0020174X.2016.1220640
+* –––, 2017, “The Reality of the Intuitive”, *Inquiry: An Interdisciplinary Journal of Philosophy*, 60(4): 371–385. doi: 10.1080/0020174X.2016.1220640
 * –––, 2018, “Intuition in Gettier”, in *Classical Philosophical Arguments: The Gettier Problem*, Stephen Hetherington (ed.), Cambridge: Cambridge University Press.
-* –––, forthcoming, “In Search of Intuition”, *Australasian Journal of Philosophy*, first online: 5 November 2019. doi:10.1080/00048402.2019.1658121
+* –––, forthcoming, “In Search of Intuition”, *Australasian Journal of Philosophy*, first online: 5 November 2019. doi: 10.1080/00048402.2019.1658121
 * Cullison, Andrew (ed.), 2012, *The Continuum Companion to Epistemology*, London: Continuum Press.
 * Cummins, Robert, 1998, “Reflection on Reflective Equilibrium”, in DePaul and Ramsey 1998: 113–127.
 * DePaul, Michael and William Ramsey (eds.), 1998, *Rethinking Intuition: The Psychology of Intuition and Its Role in Philosophical Inquiry*, Lanham, MD: Rowman and Littlefield Publishers, Inc.
 * Devitt, Michael, 2006a, “There is No *a Priori*”, in Steup and Sosa 2005: 105–115.
 * –––, 2006b, “Reply to BonJour”, in Steup and Sosa 2005: 118–120.
-* Donnellan, Keith S., 1977, “The Contingent *A Priori* and Rigid Designators”, in *Midwest Studies in Philosophy Volume II: Studies in the Philosophy of Language*, Peter A. French, Theodore E. Uehling, Jr., and Howard K. Wettstein (eds.), Morris, MN: University of Minnesota Press, pp. 12–27. doi:10.1111/j.1475-4975.1977.tb00025.x
-* Evans, Gareth, 1979, “Reference and Contingency”:, *Monist*, 62(2): 161–189. doi:10.5840/monist197962220
+* Donnellan, Keith S., 1977, “The Contingent *A Priori* and Rigid Designators”, in *Midwest Studies in Philosophy Volume II: Studies in the Philosophy of Language*, Peter A. French, Theodore E. Uehling, Jr., and Howard K. Wettstein (eds.), Morris, MN: University of Minnesota Press, pp. 12–27. doi: 10.1111/j.1475-4975.1977.tb00025.x
+* Evans, Gareth, 1979, “Reference and Contingency”:, *Monist*, 62(2): 161–189. doi: 10.5840/monist197962220
 * Feldman, Richard, 1999, “Methodological Naturalism in Epistemology”, in Greco and Sosa 1999: 170–186.
 * –––, 2003, *Epistemology*, Upper Saddle River, NJ: Prentice Hall
 * –––, 2006, “Epistemological Puzzles about Disagreement”, in Hetherington 2006: 216–236.
-* Feldman, Richard and Ted A. Warfield (eds.), 2010, *Disagreement*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199226078.001.0001
-* Field, Hartry, 2000, “Aprioricity as an Evaluative Notion”, in Boghossian and Peacocke 2000: 117–149. doi:10.1093/0199241279.003.0006
+* Feldman, Richard and Ted A. Warfield (eds.), 2010, *Disagreement*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199226078.001.0001
+* Field, Hartry, 2000, “Aprioricity as an Evaluative Notion”, in Boghossian and Peacocke 2000: 117–149. doi: 10.1093/0199241279.003.0006
 * Gendler, Tamar Szabó, 2000, *Thought Experiment: On the Powers and Limits of Imaginary Cases*, New York: Routledge.
-* –––, 2001, “Empiricism, Rationalism and the Limits of Justification”, *Philosophy and Phenomenological Research*, 63(3): 641–648. doi:10.1111/j.1933-1592.2001.tb00131.x
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Goldberg, Sanford C., 2009, “Reliabilism in Philosophy”, *Philosophical Studies*, 142(1): 105–117. doi:10.1007/s11098-008-9300-7
+* –––, 2001, “Empiricism, Rationalism and the Limits of Justification”, *Philosophy and Phenomenological Research*, 63(3): 641–648. doi: 10.1111/j.1933-1592.2001.tb00131.x
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi: 10.1093/analys/23.6.121
+* Goldberg, Sanford C., 2009, “Reliabilism in Philosophy”, *Philosophical Studies*, 142(1): 105–117. doi: 10.1007/s11098-008-9300-7
 * –––, 2013, “Defending Philosophy in the Face of Systematic Disagreement”, in Machuca 2013: 277–294.
-* Goldman, Alvin I., 2007, “Philosophical Intuitions: Their Target, Their Source, and Their Epistemic Status”, *Grazer Philosophische Studien*, 74(1): 1–26. doi:10.1163/9789401204651_002
+* Goldman, Alvin I., 2007, “Philosophical Intuitions: Their Target, Their Source, and Their Epistemic Status”, *Grazer Philosophische Studien*, 74(1): 1–26. doi: 10.1163/9789401204651_002
 * –––, 2012, “Philosophical Naturalism and Intuitional Methodology”, in his *Reliabilism and Contemporary Epistemology: Essays*, Oxford: Oxford University Press, pp. 280–316 (Ch. 11).
-* –––, 2013, “Philosophical Naturalism and Intuitional Methodology”, in Casullo and Thurow 2013: 11–44 (Ch. 1). doi:10.1093/acprof:oso/9780199695331.003.0002
+* –––, 2013, “Philosophical Naturalism and Intuitional Methodology”, in Casullo and Thurow 2013: 11–44 (Ch. 1). doi: 10.1093/acprof: oso/9780199695331.003.0002
 * Goldman, Alvin and Joel Pust, 1998, “Philosophical Theory and Intuitional Evidence”, in DePaul and Ramsey 1998: 179–197.
 * Greco, John and Ernest Sosa (eds.), 1999, *The Blackwell Guide to Epistemology*, Oxford: Blackwell Publishers Ltd.
-* Harman, Gilbert, 1994 [1999], “Doubts About Conceptual Analysis”, in *Philosophy in Mind*, Michaelis Michael and John O’Leary-Hawthorne (eds.), Dordrecht: Springer Netherlands, 43–48. Reprinted in Harman 1999a: 138–143. doi:10.1007/978-94-011-1008-2_4
-* –––, 1999, *Reasoning, Meaning, and Mind*, Oxford: Clarendon Press. A collection of Harman’s earlier essays; chpts. 6 and 7 especially relevant to the issue of *a priori* knowledge. doi:10.1093/0198238029.001.0001
-* –––, 2001, “General Foundations versus Rational Insight”, *Philosophy and Phenomenological Research*, 63(3): 657–663. Discussion of Lawrence BonJour’s *In Defense of Pure Reason* (1998). doi:10.1111/j.1933-1592.2001.tb00133.x
-* –––, 2003, “The Future of the A Priori”, *Journal of Philosophical Research*, 28(supplement): 23–34. doi:10.5840/jpr_2003_1
+* Harman, Gilbert, 1994 [1999], “Doubts About Conceptual Analysis”, in *Philosophy in Mind*, Michaelis Michael and John O’Leary-Hawthorne (eds.), Dordrecht: Springer Netherlands, 43–48. Reprinted in Harman 1999a: 138–143. doi: 10.1007/978-94-011-1008-2_4
+* –––, 1999, *Reasoning, Meaning, and Mind*, Oxford: Clarendon Press. A collection of Harman’s earlier essays; chpts. 6 and 7 especially relevant to the issue of *a priori* knowledge. doi: 10.1093/0198238029.001.0001
+* –––, 2001, “General Foundations versus Rational Insight”, *Philosophy and Phenomenological Research*, 63(3): 657–663. Discussion of Lawrence BonJour’s *In Defense of Pure Reason* (1998). doi: 10.1111/j.1933-1592.2001.tb00133.x
+* –––, 2003, “The Future of the A Priori”, *Journal of Philosophical Research*, 28(supplement): 23–34. doi: 10.5840/jpr_2003_1
 * Hauser, Marc, 2006, *Moral Minds: How Nature Designed Our Universal Sense of Right and Wrong*, New York: Harper Collins. Some of the ideas in this book may have been anticipated by John Mikhail (2011), though published after Hauser’s book; see Mikhail entry below.
 * Hawthorne, John, 2013, “A Priority and Externalism”, in *Internalism and Externalism in Semantics and Epistemology*, Sanford Goldberg (ed.), New York: Oxford University Press, pp. 201–218.
 * Hetherington, Stephen (ed.), 2006, *Epistemology Futures*, Oxford: Oxford University Press.
 * Huston, Mark, 2003, *Intuition: A Discussion of Recent Philosophical Views*, Ph.D dissertation, Wayne State University.
-* Ichikawa, Jonathan Jenkins, “Experimental Philosophy and Apriority”, in Casullo and Thurow 2013: 45–66 (Ch. 2). doi:10.1093/acprof:oso/9780199695331.003.0003
-* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi:10.1093/0198250614.001.0001
-* –––, 2000, “Representation, Scepticism, and the A Priori”, in Boghossian and Peacock 2000: 320–332. doi:10.1093/0199241279.003.0013
-* Jenkins, Carrie S., 2007, “Entitlement and Rationality”, *Synthese*, 157(1): 25–45. doi:10.1007/s11229-006-0012-2
-* –––, 2008a, *Grounding Concepts: An Empirical Basis for Arithmetical Knowledge*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199231577.001.0001
-* –––, 2008b, “A Priori Knowledge: Debates and Developments”, *Philosophy Compass*, 3(3): 436–450. doi:10.1111/j.1747-9991.2008.00136.x
+* Ichikawa, Jonathan Jenkins, “Experimental Philosophy and Apriority”, in Casullo and Thurow 2013: 45–66 (Ch. 2). doi: 10.1093/acprof: oso/9780199695331.003.0003
+* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi: 10.1093/0198250614.001.0001
+* –––, 2000, “Representation, Scepticism, and the A Priori”, in Boghossian and Peacock 2000: 320–332. doi: 10.1093/0199241279.003.0013
+* Jenkins, Carrie S., 2007, “Entitlement and Rationality”, *Synthese*, 157(1): 25–45. doi: 10.1007/s11229-006-0012-2
+* –––, 2008a, *Grounding Concepts: An Empirical Basis for Arithmetical Knowledge*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199231577.001.0001
+* –––, 2008b, “A Priori Knowledge: Debates and Developments”, *Philosophy Compass*, 3(3): 436–450. doi: 10.1111/j.1747-9991.2008.00136.x
 * –––, 2010a, “Apriorism About Modality: Reply to Scott Sturgeon”, in *Modality: Metaphysics, Logic, and Epistemology*, Bob Hale and Aviv Hoffman (eds.), New York: Oxford University Press, pp. 310–317.
-* –––, 2010b, “Concepts, Experience and Modal Knowledge”, *Philosophical Perspectives*, 24: 255–279. doi:10.1111/j.1520-8583.2010.00193.x
+* –––, 2010b, “Concepts, Experience and Modal Knowledge”, *Philosophical Perspectives*, 24: 255–279. doi: 10.1111/j.1520-8583.2010.00193.x
 * –––, 2012a, “A Priori Knowledge: The Conceptual Approach”, in Cullison 2012: 180–198.
-* –––, 2013, “Naturalistic Challenges to the A Priori”, in Casullo and Thurow 2013: 274–290 (Ch. 12). doi:10.1093/acprof:oso/9780199695331.003.0013
+* –––, 2013, “Naturalistic Challenges to the A Priori”, in Casullo and Thurow 2013: 274–290 (Ch. 12). doi: 10.1093/acprof: oso/9780199695331.003.0013
 * Kahneman, Daniel, 2011, *Thinking, Fast and Slow*, London, Penguin Books.
 * Kant, Immanuel, 1787 [1965], *Critique of Pure Reason*, Norman Kemp Smith (transl.), New York: St. Martin’s Press, 1965.
-* Kitcher, Philip, 1983, *The Nature of Mathematical Knowledge*, New York: Oxford University Press. doi:10.1093/0195035410.001.0001
+* Kitcher, Philip, 1983, *The Nature of Mathematical Knowledge*, New York: Oxford University Press. doi: 10.1093/0195035410.001.0001
 * Kornblith, Hilary, 1998, “The Role of Intuition in Philosophical Inquiry: An Account with No Unnatural Ingredients”, in DePaul and Ramsey 1998: 129–141.
 * –––, 1999, “In Defense of Naturalized Epistemology”, in Greco and Sosa 1999: 158–169.
-* –––, 2000, “The Impurity of Reason”, *Pacific Philosophical Quarterly*, 81(1): 67–89. doi:10.1111/1468-0114.00095
-* –––, 2005, “Précis of *Knowledge and Its Place in Nature*” and “Replies to Alvin Goldman, Martin Kusch and William Talbott”, *Philosophy and Phenomenological Research*, 71(2): 399–402 and 427–441. doi:10.1111/j.1933-1592.2005.tb00456.x doi:10.1111/j.1933-1592.2005.tb00460.x
+* –––, 2000, “The Impurity of Reason”, *Pacific Philosophical Quarterly*, 81(1): 67–89. doi: 10.1111/1468-0114.00095
+* –––, 2005, “Précis of *Knowledge and Its Place in Nature*” and “Replies to Alvin Goldman, Martin Kusch and William Talbott”, *Philosophy and Phenomenological Research*, 71(2): 399–402 and 427–441. doi: 10.1111/j.1933-1592.2005.tb00456.x doi: 10.1111/j.1933-1592.2005.tb00460.x
 * –––, 2006, “Intuitions and Epistemology”, in Hetherington 2006: 10–25.
-* –––, 2009, “Review: Timothy Williamson’s *The Philosophy of Philosophy*”, *Analysis*, 69(1): 109–116. doi:10.1093/analys/ann039
+* –––, 2009, “Review: Timothy Williamson’s *The Philosophy of Philosophy*”, *Analysis*, 69(1): 109–116. doi: 10.1093/analys/ann039
 * –––, 2010, “Belief in the Face of Controversy”, in Feldman and Warfield 2010: 29–52.
 * –––, 2013, “Is Philosophical Knowledge Possible?” in Machuca 2013: 260–276 (Ch. 13).
-* Kripke, Saul, 1972, “Naming and Necessity”, in *Semantics of Natural Language*, Donald Davidson and Gilbert Harman (eds.), Dordrecht: D. Reidel, pp. 253–355. doi:10.1007/978-94-010-2557-7_9
-* Lehrer, Keith, 1986, “The Coherence Theory of Knowledge”:, *Philosophical Topics*, 14(1): 5–25. doi:10.5840/philtopics198614112
+* Kripke, Saul, 1972, “Naming and Necessity”, in *Semantics of Natural Language*, Donald Davidson and Gilbert Harman (eds.), Dordrecht: D. Reidel, pp. 253–355. doi: 10.1007/978-94-010-2557-7_9
+* Lehrer, Keith, 1986, “The Coherence Theory of Knowledge”:, *Philosophical Topics*, 14(1): 5–25. doi: 10.5840/philtopics198614112
 * –––, 1990, *Theory of Knowledge*, Boulder, CO: West View Press, Inc.
 * –––, 1996, “Proper Function versus Systematic Coherence”, in *Warrant in Contemporary Epistemology: Essays in Honor of Plantinga’s Theory of Knowledge*, Jonathan L. Kvanvig (ed.), Lanham, MD: Rowman & Littlefield Publishers, Inc., pp. 25–45.
-* Lycan, William G., 1996, “Bealer on the Possibility of Philosophical Knowledge”, *Philosophical Studies*, 81(2–3): 143–150. doi:10.1007/BF00372778
+* Lycan, William G., 1996, “Bealer on the Possibility of Philosophical Knowledge”, *Philosophical Studies*, 81(2–3): 143–150. doi: 10.1007/BF00372778
 * –––, 2006, “On the Gettier Problem problem”, in Hetherington 2006: 148–168.
-* Machuca, Diego E. (ed.), 2013, *Disagreement and Skepticism*, Hoboken, NJ: Taylor and Francis. doi:10.4324/9780203073346
-* Malmgren, Anna-Sara, 2011, “Rationalism and the Content of Intuitive Judgements”, *Mind*, 120(478): 263–327. doi:10.1093/mind/fzr039
+* Machuca, Diego E. (ed.), 2013, *Disagreement and Skepticism*, Hoboken, NJ: Taylor and Francis. doi: 10.4324/9780203073346
+* Malmgren, Anna-Sara, 2011, “Rationalism and the Content of Intuitive Judgements”, *Mind*, 120(478): 263–327. doi: 10.1093/mind/fzr039
 * –––, 2013a, “Review of Herman Cappelen’s *Philosophy Without Intuitions* (Cappelen 2012)”, *Notre Dame Philosophical Review*, 2013.04.27.
-* –––, 2013b, “A Priori Testimony Revisited”, in Casullo and Thurow 2013: 158–185 (Ch. 7). doi:10.1093/acprof:oso/9780199695331.003.0008
-* McKinsey, Michael, 1987, “Apriorism in the Philosophy of Language”, *Philosophical Studies*, 52(1): 1–32. doi:10.1007/BF00354156
-* Mikhail, John, 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780578
+* –––, 2013b, “A Priori Testimony Revisited”, in Casullo and Thurow 2013: 158–185 (Ch. 7). doi: 10.1093/acprof: oso/9780199695331.003.0008
+* McKinsey, Michael, 1987, “Apriorism in the Philosophy of Language”, *Philosophical Studies*, 52(1): 1–32. doi: 10.1007/BF00354156
+* Mikhail, John, 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511780578
 * Parfit, Derek, 1984, *Reasons and Persons*, New York: Oxford University Press.
 * –––, 2011, *On What Matters* (Volume 2), New York: Oxford University Press.
-* Peacocke, Christopher, 2000, “Explaining the A Priori: The Programme of Moderate Rationalism”, in Boghossian and Peacocke 2000: 255–285. doi:10.1093/0199241279.003.0011
+* Peacocke, Christopher, 2000, “Explaining the A Priori: The Programme of Moderate Rationalism”, in Boghossian and Peacocke 2000: 255–285. doi: 10.1093/0199241279.003.0011
 * *Philosophical Studies*, 1998, 92(1–2), guest editor, John O’Leary-Hawthorne. This entire issue is devoted to the topic of *a priori* knowledge.
-* Plantinga, Alvin, 2011, *Where the Conflict Really Lies: Science, Religion, and Naturalism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199812097.001.0001
+* Plantinga, Alvin, 2011, *Where the Conflict Really Lies: Science, Religion, and Naturalism*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199812097.001.0001
 * Putnam, Hilary, 1983, “ ‘Two Dogmas’ Revisited”, in *Realism and Reason: Philosophical Papers*, vol. 3, Cambridge: Cambridge University Press.
 * Quine, Willard Van Orman, 1963, *From A Logical Point of View*, New York: Harper & Row, Harper Torchbook.
-* Railton, Peter, 2017a, “Two Sides of the Meta-Ethical Mountain”, in Singer 2017: 35–59. doi:10.1093/acprof:oso/9780199653836.003.0002
+* Railton, Peter, 2017a, “Two Sides of the Meta-Ethical Mountain”, in Singer 2017: 35–59. doi: 10.1093/acprof: oso/9780199653836.003.0002
 * –––, 2017b, “Railton’s Commentary”, in Derek Parfit, *On What Matters*, Vol. III, Oxford: Oxford University Press, 113–127.
-* Rey, Georges, 2001, “Digging Deeper for the A Priori”, *Philosophy and Phenomenological Research*, 63(3): 649–656. doi:10.1111/j.1933-1592.2001.tb00132.x
-* –––, 1998, “A Naturalistic A Priori”, *Philosophical Studies*, 92(1/2): 25–43. doi:10.1023/A:1017155400164
+* Rey, Georges, 2001, “Digging Deeper for the A Priori”, *Philosophy and Phenomenological Research*, 63(3): 649–656. doi: 10.1111/j.1933-1592.2001.tb00132.x
+* –––, 1998, “A Naturalistic A Priori”, *Philosophical Studies*, 92(1/2): 25–43. doi: 10.1023/A: 1017155400164
 * Russell, Bruce, 2010, “Intuition in Epistemology”, in *A Companion to Epistemology*, 2nd edition, Jonathan Dancy, Ernest Sosa, and Matthias Steup (eds.), Malden, MA: Wiley-Blackwell, pp. 464–68.
-* –––, 2012, “Rock Bottom: Coherentism’s Soft Spot”, *The Southern Journal of Philosophy*, 50(1): 94–111. doi:10.1111/j.2041-6962.2011.00085.x
+* –––, 2012, “Rock Bottom: Coherentism’s Soft Spot”, *The Southern Journal of Philosophy*, 50(1): 94–111. doi: 10.1111/j.2041-6962.2011.00085.x
 * –––, 2013, “Moral Intuitionism”, in the *International Encyclopedia of Ethics*, Hugh LaFollette (ed.), New York: Routledge.
-* –––, 2017 “A Defense of Moral Intuitionism”, in Singer 2017: 231–258. doi:10.1093/acprof:oso/9780199653836.003.0011
+* –––, 2017 “A Defense of Moral Intuitionism”, in Singer 2017: 231–258. doi: 10.1093/acprof: oso/9780199653836.003.0011
 * –––, 2018, “Philosophical intuition: just what is ‘a priori’ justification?” *Aeon*, 2 March 2018. URL = <[Philosophical intuition: just what is ‘a priori’ justification? | Aeon Ideas](https://aeon.co/ideas/philosophical-intuition-just-what-is-a-priori-justification)>
-* Russell, Gillian, 2008, *Truth in Virtue of Meaning: A Defence of the Analytic/Synthetic Distinction*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199232192.001.0001
-* Schwitzgebel, Eric and Fiery Cushman, 2012, “Expertise in Moral Reasoning? Order Effects on Moral Judgment in Professional Philosophers and Non-Philosophers”, *Mind & Language*, 27(2): 135–153. doi:10.1111/j.1468-0017.2012.01438.x
-* –––, 2015, “Philosophers’ Biased Judgments Persist despite Training, Expertise and Reflection”, *Cognition*, 141: 127–137. doi:10.1016/j.cognition.2015.04.015
-* Singer, Peter (ed.), 2017, *Does Anything Really Matter? Essays on Parfit on Objectivity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199653836.001.0001
-* Sosa, Ernest, 1996, “Rational Intuition: Bealer on Its Nature and Epistemic Status”, *Philosophical Studies*, 81(2–3): 151–162. doi:10.1007/BF00372779
+* Russell, Gillian, 2008, *Truth in Virtue of Meaning: A Defence of the Analytic/Synthetic Distinction*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199232192.001.0001
+* Schwitzgebel, Eric and Fiery Cushman, 2012, “Expertise in Moral Reasoning? Order Effects on Moral Judgment in Professional Philosophers and Non-Philosophers”, *Mind & Language*, 27(2): 135–153. doi: 10.1111/j.1468-0017.2012.01438.x
+* –––, 2015, “Philosophers’ Biased Judgments Persist despite Training, Expertise and Reflection”, *Cognition*, 141: 127–137. doi: 10.1016/j.cognition.2015.04.015
+* Singer, Peter (ed.), 2017, *Does Anything Really Matter? Essays on Parfit on Objectivity*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199653836.001.0001
+* Sosa, Ernest, 1996, “Rational Intuition: Bealer on Its Nature and Epistemic Status”, *Philosophical Studies*, 81(2–3): 151–162. doi: 10.1007/BF00372779
 * –––, 1998, “Minimal Intuition”, in DePaul and Ramsey 1998: 257–269.
-* –––, 2013, “Intuitions and Foundations: The Relevance of Moore and Wittgenstein”, in Casullo and Thurow 2013: 186–200 (Ch. 8). doi:10.1093/acprof:oso/9780199695331.003.0009
+* –––, 2013, “Intuitions and Foundations: The Relevance of Moore and Wittgenstein”, in Casullo and Thurow 2013: 186–200 (Ch. 8). doi: 10.1093/acprof: oso/9780199695331.003.0009
 * Sosa, Ernest and Enrique Villanueva (eds.), 2004, *Epistemology: Philosophical Issues, Volume 14*, Malden, MA: Blackwell Publishing, Ltd.
 * Steup, Matthias and Ernest Sosa (eds.), 2005, *Contemporary Debates in Epistemology*, Malden, MA: Blackwell Publishing Ltd.
 * Steup, Matthias, John Turri, and Ernest Sosa (eds.), 2014, *Contemporary Debates in Epistemology*,2nd edition, Malden, MA: Wiley Blackwell.
 * Stratton-Lake, Philip (ed.), 2002, *Ethical Intuitionism: Re-Evaluations*, Oxford: Clarendon Press.
 * Thomson, Judith Jarvis, 1990, “Introduction” to *The Realm of Rights*, Cambridge, MA: Harvard University Press, pp. 1–33.
-* Thurow, Joshua C., 2013, “The Implicit Conception and Intuition Theory of the A Priori, With Implications for Experimental Philosophy”, in Casullo and Thurow 2013: 67–91 (Ch. 3). doi:10.1093/acprof:oso/9780199695331.003.0004
+* Thurow, Joshua C., 2013, “The Implicit Conception and Intuition Theory of the A Priori, With Implications for Experimental Philosophy”, in Casullo and Thurow 2013: 67–91 (Ch. 3). doi: 10.1093/acprof: oso/9780199695331.003.0004
 * Turri, John, 2011, “Contingent A Priori Knowledge”, *Philosophy and Phenomenological Research*, 83(2): 327–44.
 * –––, 2018, “Experimental Epistomology and ’Gettier Cases’ ”, in S. Hetherington (ed.), *The Gettier Problem*, Cambridge: Cambridge University Press: 199–217.
-* Unger, Peter, 1996, *Living High and Letting Die: Our Illusion of Innocence*, New York: Oxford University Press. doi:10.1093/0195108590.001.0001
-* Weatherson, Brian, 2003, “What Good Are Counterexamples?”, *Philosophical Studies*, 115(1): 1–31. doi:10.1023/A:1024961917413
-* –––, 2017, “Analytic–Synthetic and A Priori–A Posteriori History”, in *The Oxford Handbook of Philosophical Methodology*, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds.), Oxford: Oxford University Press, 231–248. doi:10.1093/oxfordhb/9780199668779.013.24
+* Unger, Peter, 1996, *Living High and Letting Die: Our Illusion of Innocence*, New York: Oxford University Press. doi: 10.1093/0195108590.001.0001
+* Weatherson, Brian, 2003, “What Good Are Counterexamples?”, *Philosophical Studies*, 115(1): 1–31. doi: 10.1023/A: 1024961917413
+* –––, 2017, “Analytic–Synthetic and A Priori–A Posteriori History”, in *The Oxford Handbook of Philosophical Methodology*, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds.), Oxford: Oxford University Press, 231–248. doi: 10.1093/oxfordhb/9780199668779.013.24
 * –––, 2019, “Normative Externalism”, New York: Oxford University Press.
 * Weinberg, Jonathan M., 2003, “Meta-Skepticism in Ethno-Epistemology”, in *The Skeptics: Contemporary Essays*, Steven Luper (ed.), Aldershot, England: Ashgate Publishing, pp. 227–247.
 * –––, 2006, “What’s Epistemology For? The Case for Neopragmatism in Normative Metaepistemology” in Hetherington 2006: 26–47.
-* –––, 2013, “The Prospects for an Experimentalist Rationalism or Why It’s OK if the A Priori is only 99.44 Percent Empirically Pure”, in Casullo and Thurow 2013: 92–108 (Ch. 4). doi:10.1093/acprof:oso/9780199695331.003.0005
-* –––, 2017, “Intuitions”, in *The Oxford Handbook of Philosophical Methodology*, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds.), Oxford: Oxford University Press, 282–308. doi:10.1093/oxfordhb/9780199668779.013.25
-* Weinberg, Jonathan M., Shaun Nichols, and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1): 429–460. doi:10.5840/philtopics2001291/217
-* Williamson, Timothy, 2004, “Philosphical ‘Intuitions’ and Scepticism about Judgement”, *Dialectica*, 58(1): 109–153. doi:10.1111/j.1746-8361.2004.tb00294.x
-* –––, 2005, “Armchair Philosophy, Metaphysical Modality and Counterfactual Thinking”, *Proceedings of the Aristotelian Society*, 105(1): 1–23. doi:10.1111/j.0066-7373.2004.00100.x
-* –––, 2007a, “Philosophical Knowledge and Knowledge of Counterfactuals”, *Grazer Philosophische Studien*, 74(1): 89–123. doi:10.1163/9789401204651_006
+* –––, 2013, “The Prospects for an Experimentalist Rationalism or Why It’s OK if the A Priori is only 99.44 Percent Empirically Pure”, in Casullo and Thurow 2013: 92–108 (Ch. 4). doi: 10.1093/acprof: oso/9780199695331.003.0005
+* –––, 2017, “Intuitions”, in *The Oxford Handbook of Philosophical Methodology*, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds.), Oxford: Oxford University Press, 282–308. doi: 10.1093/oxfordhb/9780199668779.013.25
+* Weinberg, Jonathan M., Shaun Nichols, and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1): 429–460. doi: 10.5840/philtopics2001291/217
+* Williamson, Timothy, 2004, “Philosphical ‘Intuitions’ and Scepticism about Judgement”, *Dialectica*, 58(1): 109–153. doi: 10.1111/j.1746-8361.2004.tb00294.x
+* –––, 2005, “Armchair Philosophy, Metaphysical Modality and Counterfactual Thinking”, *Proceedings of the Aristotelian Society*, 105(1): 1–23. doi: 10.1111/j.0066-7373.2004.00100.x
+* –––, 2007a, “Philosophical Knowledge and Knowledge of Counterfactuals”, *Grazer Philosophische Studien*, 74(1): 89–123. doi: 10.1163/9789401204651_006
 * –––, 2007b, *The Philosophy of Philosophy*, Oxford: Blackwell Publishing.
-* –––, 2013, “How Deep is the Distinction between A Priori and A Posteriori Knowledge”, in Casullo and Thurow 2013: 291–312 (Ch. 13). doi:10.1093/acprof:oso/9780199695331.003.0014
+* –––, 2013, “How Deep is the Distinction between A Priori and A Posteriori Knowledge”, in Casullo and Thurow 2013: 291–312 (Ch. 13). doi: 10.1093/acprof: oso/9780199695331.003.0014
 * –––, 2014, “Should Knowledge Come First?” and “Knowledge Still First”, in Steup, Turri, and Sosa 2014: 1–9 and 22–25.
-* Wright, Crispin, 2004a, “Warrant for Nothing (and Foundations for Free)?”, *Aristotelian Society Supplementary Volume*, 78: 167–212. doi:10.1111/j.0309-7013.2004.00121.x
-* –––, 2004, “Intuition, Entitlement and the Epistemology of Logical Laws”, *Dialectica*, 58(1): 155–175. doi:10.1111/j.1746-8361.2004.tb00295.x
+* Wright, Crispin, 2004a, “Warrant for Nothing (and Foundations for Free)?”, *Aristotelian Society Supplementary Volume*, 78: 167–212. doi: 10.1111/j.0309-7013.2004.00121.x
+* –––, 2004, “Intuition, Entitlement and the Epistemology of Logical Laws”, *Dialectica*, 58(1): 155–175. doi: 10.1111/j.1746-8361.2004.tb00295.x
 * Wykstra, Stephanie, 2018, “Out of the Armchair”, *Aeon*, 1 May 2018. URL = <[Beyond the armchair: must philosophy become experimental? | Aeon Essays](https://aeon.co/essays/beyond-the-armchair-must-philosophy-become-experimental)>
 
 ## Academic Tools

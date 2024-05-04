@@ -12,7 +12,7 @@
 
 ### 1.1 动物主义
 
-认为只有人类具有道德地位的观点有时被称为“动物主义”。在 1970 年代，理查德·赖德尔在牛津进行运动时创造了这个术语，用来表示一种普遍存在的以人类为中心的偏见，他认为这与种族主义相似。他反对偏袒自己的物种，同时剥削或伤害其他物种的成员。彼得·辛格推广了这个术语，并关注了动物主义在没有道德理据的情况下偏袒人类的利益：
+认为只有人类具有道德地位的观点有时被称为“动物主义”。在 1970 年代，理查德 · 赖德尔在牛津进行运动时创造了这个术语，用来表示一种普遍存在的以人类为中心的偏见，他认为这与种族主义相似。他反对偏袒自己的物种，同时剥削或伤害其他物种的成员。彼得 · 辛格推广了这个术语，并关注了动物主义在没有道德理据的情况下偏袒人类的利益：
 
 > 当种族主义者在自己的种族利益与其他种族的利益发生冲突时，通过给予自己种族成员的利益更大的重视来违反平等原则。同样，动物主义者允许自己的物种利益凌驾于其他物种成员的更大利益之上。在每种情况下，模式都是相同的。（辛格 1974：108）
 
@@ -24,7 +24,7 @@
 
 ### 1.2 人类例外主义
 
-像物种主义一样，人类例外主义可以有不同的理解方式。最常见的理解方式是认为人类具有独特的能力，正是基于这些能力，人类才具有道德地位，而其他动物则没有。但是，哪些能力能够准确地标志出所有人类，并使其成为可能受到伤害的生物？已经提出了许多候选能力，比如发展家庭关系、解决社会问题、表达情感、发动战争、为了快感进行性行为、使用语言或进行抽象思维等等。事实证明，这些活动都不是仅仅属于人类的。学术界和大众对动物行为的研究表明，许多被认为是人类独有的活动也发生在非人类动物身上。例如，许多非人类物种都会建立持久的亲缘关系，比如猩猩母亲会与幼崽在一起八到十年，尽管最终会分开，但它们仍然保持着彼此的关系。像黑猩猩、狒狒、狼和大象这样的社交性动物会建立在复杂个体关系基础上的扩展家庭单位，并且维持很长时间。卡拉哈里沙漠的猫鼬被知道会为了不让病重的家庭成员孤独死去而牺牲自己的安全。生活在社会复杂群体中的所有动物都必须解决不可避免地出现在这些群体中的各种问题。犬科动物和灵长类动物在这方面特别擅长，但甚至鸡和马也被发现能够识别出社会等级中的大量个体，并在其中进行操纵。非人类动物在处理社会环境时，特别关注周围其他个体的情绪状态是一种方式。当同类动物生气时，最好离开他的路线。建立终身伴侣关系的动物被发现会因为伴侣的死亡而感到痛苦。 甚至有人说，有些动物因悲伤而死亡。达尔文在《人类的由来》中报道了这一点：“母猴子对于失去幼崽的悲痛是如此之深，以至于它必然导致某些种类的死亡”（1871 年：40）。简·古道尔也报告了健康的 8 岁黑猩猩弗林特在母亲弗洛去世后仅仅三周就去世的情况，这也表明悲伤对非人类动物可能产生毁灭性的影响（参见古道尔 2000 年：140-141，引自贝科夫 2000 年）。土狼、大象和虎鲸也是被报道过悲伤产生深远影响的物种之一（贝科夫 2000 年），许多狗主人也可以提供类似的经历。虽然许多野生非人类动物的生活都充满了为生存而奋斗、攻击和战斗，但也有一些非人类动物的生活以喜悦、活泼和大量的性行为为特征（伍兹 2010 年）。认知行为学的最新研究表明，一些非人类动物参与了操纵和欺骗活动，能够构建用于导航的“认知地图”，并且一些非人类动物似乎理解符号表示并能够使用语言。[ 1]
+像物种主义一样，人类例外主义可以有不同的理解方式。最常见的理解方式是认为人类具有独特的能力，正是基于这些能力，人类才具有道德地位，而其他动物则没有。但是，哪些能力能够准确地标志出所有人类，并使其成为可能受到伤害的生物？已经提出了许多候选能力，比如发展家庭关系、解决社会问题、表达情感、发动战争、为了快感进行性行为、使用语言或进行抽象思维等等。事实证明，这些活动都不是仅仅属于人类的。学术界和大众对动物行为的研究表明，许多被认为是人类独有的活动也发生在非人类动物身上。例如，许多非人类物种都会建立持久的亲缘关系，比如猩猩母亲会与幼崽在一起八到十年，尽管最终会分开，但它们仍然保持着彼此的关系。像黑猩猩、狒狒、狼和大象这样的社交性动物会建立在复杂个体关系基础上的扩展家庭单位，并且维持很长时间。卡拉哈里沙漠的猫鼬被知道会为了不让病重的家庭成员孤独死去而牺牲自己的安全。生活在社会复杂群体中的所有动物都必须解决不可避免地出现在这些群体中的各种问题。犬科动物和灵长类动物在这方面特别擅长，但甚至鸡和马也被发现能够识别出社会等级中的大量个体，并在其中进行操纵。非人类动物在处理社会环境时，特别关注周围其他个体的情绪状态是一种方式。当同类动物生气时，最好离开他的路线。建立终身伴侣关系的动物被发现会因为伴侣的死亡而感到痛苦。 甚至有人说，有些动物因悲伤而死亡。达尔文在《人类的由来》中报道了这一点：“母猴子对于失去幼崽的悲痛是如此之深，以至于它必然导致某些种类的死亡”（1871 年：40）。简 · 古道尔也报告了健康的 8 岁黑猩猩弗林特在母亲弗洛去世后仅仅三周就去世的情况，这也表明悲伤对非人类动物可能产生毁灭性的影响（参见古道尔 2000 年：140-141，引自贝科夫 2000 年）。土狼、大象和虎鲸也是被报道过悲伤产生深远影响的物种之一（贝科夫 2000 年），许多狗主人也可以提供类似的经历。虽然许多野生非人类动物的生活都充满了为生存而奋斗、攻击和战斗，但也有一些非人类动物的生活以喜悦、活泼和大量的性行为为特征（伍兹 2010 年）。认知行为学的最新研究表明，一些非人类动物参与了操纵和欺骗活动，能够构建用于导航的“认知地图”，并且一些非人类动物似乎理解符号表示并能够使用语言。[ 1]
 
 看起来，大多数被认为区分人类作为道德可考虑的存在的能力，都在非人类世界中以较简单的形式观察到。由于人类行为和认知与其他动物的行为和认知有着深刻的根源，试图在人类和其他动物之间找到明确的行为或认知界限的方法仍然存在争议。因此，通过确定某些能力来建立人类的独特性，在思考动物的道德地位时并不是最有希望的方法。
 
@@ -32,13 +32,13 @@
 
 尽管如此，有一些重要的东西被认为能够区分人类和非人类，这不能简单地归结为通过拥有某种能力来解释的行为观察，而是我们的“人格”。人格的概念确定了一类被认为与人类相等的道德考虑对象。在历史上，康德是最著名的人格辩护者，他认为人格是使一个存在有价值，因此在道德上值得考虑的品质（关于人格的当代功利主义讨论，请参见 Varner 2012）。康德写道：
 
-> …每个理性的存在都是自身的目的，并不仅仅是任意被这个或那个意志利用的手段…那些存在不依赖于我们的意志而依赖于自然的存在，如果它们不是理性存在，只有相对价值作为手段，因此被称为事物。另一方面，理性存在被称为人，因为他们的本质已经将他们标记为自身的目的。（康德[1785] 1998：[Ak 4: 428]）
+> …每个理性的存在都是自身的目的，并不仅仅是任意被这个或那个意志利用的手段…那些存在不依赖于我们的意志而依赖于自然的存在，如果它们不是理性存在，只有相对价值作为手段，因此被称为事物。另一方面，理性存在被称为人，因为他们的本质已经将他们标记为自身的目的。（康德 [1785] 1998：[Ak 4: 428]）
 
  并且：
 
-> 人类能够拥有“我”的意识，使他在地球上无限地超越其他生物。因此，他是一个人……也就是说，一个在等级和尊严上与诸如非理性动物之类的事物完全不同的存在，我们可以随意对待和处置它们。（康德[1798] 2010：239 [Ak 7：127]）
+> 人类能够拥有“我”的意识，使他在地球上无限地超越其他生物。因此，他是一个人……也就是说，一个在等级和尊严上与诸如非理性动物之类的事物完全不同的存在，我们可以随意对待和处置它们。（康德 [1798] 2010：239 [Ak 7：127]）
 
-在康德的思路中，最近的研究发展了这个观点。例如，克里斯汀·科斯加德认为，人类“独特地”面临着一个问题，即规范性问题。这个问题是由于人类意识的反思结构而产生的。我们可以，并且经常这样做，思考我们的欲望，并问自己“这些欲望是否是行动的理由？这些冲动是否代表我想要按照其行动的事物类型？”我们的反思能力使我们能够并且要求我们从我们的纯粹冲动中退后一步，以确定何时以及是否要行动。在退后时，我们获得了一定的距离，从这个距离上我们可以回答这些问题并解决规范性问题。我们根据我们对自己的概念，我们的“实践身份”，决定是否将我们的欲望视为行动的理由。当我们确定是否应该将特定的欲望视为行动的理由时，我们正在进行进一步的反思层次，这个层次需要一个可认可的自我描述。这个可认可的自我描述，这个实践身份，是一种必要的道德身份，因为如果没有它，我们无法将我们的生活视为有价值的或者我们的行动视为值得做的。科斯加德认为，人类面临着规范性问题，而非人类显然没有面临这个问题：
+在康德的思路中，最近的研究发展了这个观点。例如，克里斯汀 · 科斯加德认为，人类“独特地”面临着一个问题，即规范性问题。这个问题是由于人类意识的反思结构而产生的。我们可以，并且经常这样做，思考我们的欲望，并问自己“这些欲望是否是行动的理由？这些冲动是否代表我想要按照其行动的事物类型？”我们的反思能力使我们能够并且要求我们从我们的纯粹冲动中退后一步，以确定何时以及是否要行动。在退后时，我们获得了一定的距离，从这个距离上我们可以回答这些问题并解决规范性问题。我们根据我们对自己的概念，我们的“实践身份”，决定是否将我们的欲望视为行动的理由。当我们确定是否应该将特定的欲望视为行动的理由时，我们正在进行进一步的反思层次，这个层次需要一个可认可的自我描述。这个可认可的自我描述，这个实践身份，是一种必要的道德身份，因为如果没有它，我们无法将我们的生活视为有价值的或者我们的行动视为值得做的。科斯加德认为，人类面临着规范性问题，而非人类显然没有面临这个问题：
 
 > 一个低等动物的注意力集中在世界上。它的感知是它的信念，它的欲望是它的意愿。它从事有意识的活动，但并不意识到这些活动。也就是说，它们不是它注意力的对象。但是我们人类动物将注意力转向我们自己的感知和欲望，转向我们自己的心理活动，并且我们意识到它们。这就是为什么我们可以思考它们的原因...这给我们带来了一个其他动物没有的问题。这就是规范性的问题...反思的心灵不能仅仅满足于感知和欲望。它需要一个理由。（科斯加德 1996 年：93）
 
@@ -54,9 +54,9 @@
 
 而且可以争论的是，对于那些不是人的人类来说，情况也是如此。当我们以不人道的方式对待非人类时，我们不尊重我们的人性，无论它们属于哪个物种。
 
-但是这种间接观点是不令人满意的-它未能捕捉到对非人类所犯下的独立错误。当有人强奸昏迷的女人，或者鞭打严重脑损伤的孩子，或者放火烧猫时，他们不仅仅是不尊重人性或作为其代表的自己，他们是在伤害这些非人类。因此，避免这种违反直觉的结论的第二种方法是争论这些非人类与“理性本质”之间存在适当的关系，以便将其视为道德上值得考虑的。艾伦·伍德（1998）以这种方式进行论证，并建议所有潜在具有理性本质的生物，或者几乎具有理性本质的生物，或者曾经具有理性本质的生物，或者部分具有理性本质的生物，或者具备理性本质的必要条件的生物，他称之为“理性本质的基础设施”，应该直接受到道德考虑。只要一个生物与理性本质保持这种关系，它们就是可以受到伤害的生物。
+但是这种间接观点是不令人满意的-它未能捕捉到对非人类所犯下的独立错误。当有人强奸昏迷的女人，或者鞭打严重脑损伤的孩子，或者放火烧猫时，他们不仅仅是不尊重人性或作为其代表的自己，他们是在伤害这些非人类。因此，避免这种违反直觉的结论的第二种方法是争论这些非人类与“理性本质”之间存在适当的关系，以便将其视为道德上值得考虑的。艾伦 · 伍德（1998）以这种方式进行论证，并建议所有潜在具有理性本质的生物，或者几乎具有理性本质的生物，或者曾经具有理性本质的生物，或者部分具有理性本质的生物，或者具备理性本质的必要条件的生物，他称之为“理性本质的基础设施”，应该直接受到道德考虑。只要一个生物与理性本质保持这种关系，它们就是可以受到伤害的生物。
 
-这种回应与著名动物权利倡导者汤姆·里根的观点相似，他认为道德考虑的重要因素不是人类和非人类之间的差异，而是相似之处。里根认为，因为人与某些非人（包括那些具有一定程度有组织认知功能的人类和非人）共享成为生活的经验主体和拥有个体福祉的能力，而这些都是对他们自己来说重要的，不受他人看法的影响，所以两者都应该受到道德考虑。里根认为，生活的主体：
+这种回应与著名动物权利倡导者汤姆 · 里根的观点相似，他认为道德考虑的重要因素不是人类和非人类之间的差异，而是相似之处。里根认为，因为人与某些非人（包括那些具有一定程度有组织认知功能的人类和非人）共享成为生活的经验主体和拥有个体福祉的能力，而这些都是对他们自己来说重要的，不受他人看法的影响，所以两者都应该受到道德考虑。里根认为，生活的主体：
 
 > 想要和偏好事物，相信和感受事物，回忆和期待事物。我们生活的各个维度，包括我们的快乐和痛苦，我们的享受和苦难，我们的满足和挫折，我们的持续存在或过早死亡，都对我们作为个体所经历的生活质量产生影响。同样的道理也适用于动物们，他们也必须被视为生活的体验主体，具有自身的内在价值。（Regan 1985: 24）
 
@@ -68,7 +68,7 @@
 
 #### 1.3.2 法人
 
-在法庭上，所有人类和一些公司在法律意义上被视为人。但是所有动物，无论是婴儿还是成年人，在法律上都被视为财产而不是法人。已经有一些尝试将某些非人类动物的法律地位从财产改变为人的地位。由史蒂文·怀斯创立的非人类权利项目（NhRP）在纽约法院提起了一系列案件，旨在为该州的特定黑猩猩建立法律人格，以保护它们的身体完整和自由权利，并允许它们通过代理人寻求救济，当这些权利受到侵犯时。根据 NhRP 提交的文件，黑猩猩是建立非人类法人地位的一个很好的案例，因为它们是具有复杂认知能力的自治体。
+在法庭上，所有人类和一些公司在法律意义上被视为人。但是所有动物，无论是婴儿还是成年人，在法律上都被视为财产而不是法人。已经有一些尝试将某些非人类动物的法律地位从财产改变为人的地位。由史蒂文 · 怀斯创立的非人类权利项目（NhRP）在纽约法院提起了一系列案件，旨在为该州的特定黑猩猩建立法律人格，以保护它们的身体完整和自由权利，并允许它们通过代理人寻求救济，当这些权利受到侵犯时。根据 NhRP 提交的文件，黑猩猩是建立非人类法人地位的一个很好的案例，因为它们是具有复杂认知能力的自治体。
 
 > 记忆片段，自我意识，自知，自主行为，指称性和有意识的沟通，心理时间旅行，数量性，顺序学习，中介学习，心理状态建模，视角取舍，理解他人的经历，有意识的行动，规划，想象力，共情，元认知，工作记忆，决策，模仿，延迟模仿，效法，创新，物质，社会和象征文化，跨模态感知，工具使用，工具制造，因果关系。（NhRP v. Samuel Stanley 请愿书，第 12 页，参见其他互联网资源）
 
@@ -76,11 +76,11 @@
 
 > 在黑猩猩和人类沟通技能的发展方式中存在许多相似之处，这表明两个物种之间存在类似的认知过程和潜在的神经生物学连续性。（Jensvold 证词，第 4 页，其他互联网资源中）
 
- 詹姆斯·金指出
+ 詹姆斯 · 金指出
 
 > 黑猩猩和人类在体验幸福的能力以及与个体个性的关系方面相似。（金的宣誓书，第 8 页，在其他互联网资源中）
 
-马蒂亚斯·奥斯瓦斯对黑猩猩的人格权提出了引人注目的主张：
+马蒂亚斯 · 奥斯瓦斯对黑猩猩的人格权提出了引人注目的主张：
 
 > 自知意识赋予任何物种的个体一种关于自身的自传式感觉，包括未来和过去。黑猩猩和其他大型类人猿明显拥有自传式的自我意识，因为它们能够为未来的行动做准备...它们很可能像人类一样，对尚未发生的预期未来事件感到痛苦。例如，如果一个人被关在监狱或笼子里一段时间，或者终身监禁，如果这个人没有自我概念，惩罚的力量将大大减弱。每一刻都是一个与下一刻没有意识关联的新时刻。但是，黑猩猩和其他大型类人猿有着自己个人过去和未来的概念，因此他们也会遭受无法实现目标或随心所欲移动的痛苦；像人类一样，他们会经历预期永无止境的情况所带来的痛苦。（奥斯瓦斯宣誓书，第 4-7 页，其他互联网资源）
 
@@ -92,7 +92,7 @@
 
 > 其他动物，由于古代法学家的冷漠而导致其利益被忽视，已经沦为物品的一类。[原文强调]……曾经有一天，我为此感到悲痛，在许多地方，这一天尚未过去，种族的大部分人被当作奴隶对待……与动物一样。也许有一天，动物界的其他生物也能获得那些从未被暴政剥夺的权利。法国人已经发现，肤色黑并不是一个人类应该被遗弃而无法得到救济的理由。也许有一天，人们会认识到，腿的数量、皮肤的毛发或骶骨的终止同样不足以让一个敏感的生物被遗弃在同样的命运中。还有什么其他因素应该划定不可逾越的界限呢？是理性的能力，或者也许是言辞的能力？……问题不是他们能否推理，也不是他们能否交谈，而是他们是否能够受苦？（本丹 1780/1789：第 17 章，第 6 段）
 
-当代功利主义者，如彼得·辛格（1990 年，1979 年[1993 年]），认为没有道德上合理的理由将非人类或非人类能够明显受苦的个体排除在道德考虑之外。任何一个对不受苦的利益感兴趣的生物都应该被考虑在内。而一个为了避免痛苦而采取行动的非人类个体可以被认为具有这样的利益。即使是当代康德主义者也承认痛苦的道德力量。例如，科斯加德写道：“感到痛苦是一种痛苦。这并不是一个琐碎的事实”（1996 年：154）。
+当代功利主义者，如彼得 · 辛格（1990 年，1979 年 [1993 年]），认为没有道德上合理的理由将非人类或非人类能够明显受苦的个体排除在道德考虑之外。任何一个对不受苦的利益感兴趣的生物都应该被考虑在内。而一个为了避免痛苦而采取行动的非人类个体可以被认为具有这样的利益。即使是当代康德主义者也承认痛苦的道德力量。例如，科斯加德写道：“感到痛苦是一种痛苦。这并不是一个琐碎的事实”（1996 年：154）。
 
 > 当你同情一只受苦的动物时，这是因为你在感知一个理由。动物的哭声表达了痛苦，意味着有一个理由，一个改变它的环境的理由。你不能把动物的哭声当作简单的噪音，就像你不能把一个人的话当作简单的噪音一样。另一个动物可以像另一个人一样使你有义务。...所以当然我们对动物有义务。（科斯加德 1996 年：153）
 
@@ -102,13 +102,13 @@
 
 非人类动物能够对我们提出道德主张并不意味着如何评估这些主张以及如何解决冲突的主张。道德考虑性就像出现在道德雷达屏幕上一样，信号的强度或者在屏幕上的位置是不同的问题。当然，如何为非人类动物的道德考虑性辩护将影响我们如何理解动物主张的力量。
 
-根据动物的道德主张等同于道德权利的观点，任何未将动物视为具有内在价值的存在的行为都将违反该动物的权利，因此在道德上是可反对的。根据动物权利立场，将动物视为实现某种人类目的的手段，就像许多人在吃动物或对其进行实验时所做的那样，就是违反该动物的权利。正如汤姆·里根所写，
+根据动物的道德主张等同于道德权利的观点，任何未将动物视为具有内在价值的存在的行为都将违反该动物的权利，因此在道德上是可反对的。根据动物权利立场，将动物视为实现某种人类目的的手段，就像许多人在吃动物或对其进行实验时所做的那样，就是违反该动物的权利。正如汤姆 · 里根所写，
 
 > …动物被例行地、系统地对待，好像它们的价值可以归结为对他人的有用性，它们被例行地、系统地缺乏尊重对待，因此它们的权利被例行地、系统地侵犯。（Regan 1985: 24）。
 
 动物权利立场是一种绝对主义立场。任何一个生命主体都具有固有的价值和保护这种价值的权利，所有生命主体都平等享有这些权利。因此，任何不尊重那些拥有这些权利的动物的做法，例如食用动物、猎杀动物、对动物进行实验、将动物用于娱乐，都是错误的，不论人类的需求、背景或文化如何。
 
-关于动物的功利主义立场，最常与彼得·辛格联系在一起，并且通常被错误地称为动物权利立场，实际上是非常不同的。在这里，动物的道德意义取决于在任何给定情况下可能存在的其他道德上重要的竞争性主张。虽然所有道德上重要的利益都被平等地考虑，但所讨论的做法可能会违反或挫败一些利益，但如果在考虑所有平等利益时，满足的利益比挫败的利益更多，那么这些做法就不会被认为是道德上错误的。对于像辛格这样的功利主义者来说，重要的是利益的强度和性质，而不是这些利益属于谁。因此，如果为了拯救一个道德上重要的生命而唯一可行的选择是对另一个道德上重要的生命造成伤害，但不是死亡，那么根据功利主义立场，造成这种伤害可能是道德上可辩解的。同样，如果有两种行动方案，一种会造成极大的痛苦和最终的死亡，另一种会造成较少的痛苦和无痛苦的死亡，那么后者在道德上更可取。
+关于动物的功利主义立场，最常与彼得 · 辛格联系在一起，并且通常被错误地称为动物权利立场，实际上是非常不同的。在这里，动物的道德意义取决于在任何给定情况下可能存在的其他道德上重要的竞争性主张。虽然所有道德上重要的利益都被平等地考虑，但所讨论的做法可能会违反或挫败一些利益，但如果在考虑所有平等利益时，满足的利益比挫败的利益更多，那么这些做法就不会被认为是道德上错误的。对于像辛格这样的功利主义者来说，重要的是利益的强度和性质，而不是这些利益属于谁。因此，如果为了拯救一个道德上重要的生命而唯一可行的选择是对另一个道德上重要的生命造成伤害，但不是死亡，那么根据功利主义立场，造成这种伤害可能是道德上可辩解的。同样，如果有两种行动方案，一种会造成极大的痛苦和最终的死亡，另一种会造成较少的痛苦和无痛苦的死亡，那么后者在道德上更可取。
 
 考虑到工厂养殖，这是当今工业化社会中将动物身体转化为相对廉价食物的最常见方法。据估计，每年有 80 亿只动物在美国出生、被限制、生物学上被操纵、运输并最终被屠宰，以便人类可以食用它们。这些动物被养殖的条件和屠宰方法造成了大量的痛苦（例如，参见 Mason＆Singer 1980 [1990]）。鉴于动物在这种条件下受苦，并假设受苦不符合它们的利益，那么只有在废除工厂养殖会导致更大的痛苦或更多的利益挫败时，工厂养殖的实践才能在道德上被证明是合理的。当然，那些喜欢吃动物的人在没有工厂养殖的情况下会更难满足这些利益；获得动物产品可能会更昂贵，需要更多的努力。如果废除工厂养殖，工厂农民和支持工厂养殖的产业也将受到一定的利益挫败。废除工厂养殖将导致多少利益挫败和利益满足主要是一个实证问题。但是，当功利主义者争辩说，从整体上看，现代肉类生产中动物所经历的痛苦和利益挫败要大于人类如果不得不改变他们目前的做法所承受的痛苦时，他们并没有做出不合理的预测。
 
@@ -134,21 +134,21 @@
 
 鉴于长期以来非人类只是物品的观点，仍然有许多人拒绝接受这里提出的关于非人类道德可考虑性和其利益重要性的论证。尽管如此，大多数人现在意识到，主张人类具有独特和独占的道德地位是相当困难的任务。然而，即使在那些将动物视为道德关注范围内的人中，对于为动物的道德地位提出的论证的性质和有用性也存在分歧。
 
-越来越多的哲学家认为，虽然我们对待动物的行为确实受到道德审查，但通常提出的伦理论证方式将问题框定得不正确。一些哲学家认为，理性论证无法捕捉到道德经验中那些让我们真正看到为什么虐待动物是错误的特征。例如，斯蒂芬·R·L·克拉克和科拉·戴蒙德等评论家指出，关键在于我们社区的成员，无论我们如何构想，都对我们产生影响，正是由于这种影响，我们才能认识到虐待的错误之处。动物是我们共同生活的个体，这种认识使我们能够看到它们的真实面貌。吃动物是错误的，不是因为这是对动物权利的侵犯，也不是因为总体上这种行为比其他行为造成更多的痛苦，而是因为在吃动物或以其他有害、暴力的方式使用它们时，我们没有展示出善良、敏感、有同情心、成熟和深思熟虑的道德社区成员应该展示的品质。
+越来越多的哲学家认为，虽然我们对待动物的行为确实受到道德审查，但通常提出的伦理论证方式将问题框定得不正确。一些哲学家认为，理性论证无法捕捉到道德经验中那些让我们真正看到为什么虐待动物是错误的特征。例如，斯蒂芬 ·R·L· 克拉克和科拉 · 戴蒙德等评论家指出，关键在于我们社区的成员，无论我们如何构想，都对我们产生影响，正是由于这种影响，我们才能认识到虐待的错误之处。动物是我们共同生活的个体，这种认识使我们能够看到它们的真实面貌。吃动物是错误的，不是因为这是对动物权利的侵犯，也不是因为总体上这种行为比其他行为造成更多的痛苦，而是因为在吃动物或以其他有害、暴力的方式使用它们时，我们没有展示出善良、敏感、有同情心、成熟和深思熟虑的道德社区成员应该展示的品质。
 
-根据一些德行伦理传统的观点，详细阐述动物的道德可考虑性和道德意义的论证对我们的思想和行为几乎没有任何影响力。相反，通过认识到使用和虐待非人类动物背后的态度是肤浅或残忍的，一个希望过上德行生活的人会改变他们的态度，并拒绝将动物视为食物或研究工具。正如罗莎琳德·赫斯特豪斯在接触到其他看待动物的方式后所认识到的：
+根据一些德行伦理传统的观点，详细阐述动物的道德可考虑性和道德意义的论证对我们的思想和行为几乎没有任何影响力。相反，通过认识到使用和虐待非人类动物背后的态度是肤浅或残忍的，一个希望过上德行生活的人会改变他们的态度，并拒绝将动物视为食物或研究工具。正如罗莎琳德 · 赫斯特豪斯在接触到其他看待动物的方式后所认识到的：
 
-> 我开始意识到，我与肉类食品相关的态度是不必要的、贪婪的、放纵的、幼稚的，我为了举办盛大晚宴而进行购物和烹饪的态度是狭隘的、恶心的，甚至是放荡的。我看到我对电视上关于动物生活的自然节目的兴趣和喜爱与我享用肉类的矛盾...在没有考虑到动物有权利的情况下，我开始看到野生动物和我们通常食用的动物都有自己的生活，它们应该被留给它们自己去享受。于是我改变了。我对道德景观以及我和其他动物在其中的位置的认知发生了转变。（赫斯特豪斯 2000 年：165-166；另请参阅戴蒙德 2001 年[特别是第 11 章和第 13 章]和克拉克 1977 年）
+> 我开始意识到，我与肉类食品相关的态度是不必要的、贪婪的、放纵的、幼稚的，我为了举办盛大晚宴而进行购物和烹饪的态度是狭隘的、恶心的，甚至是放荡的。我看到我对电视上关于动物生活的自然节目的兴趣和喜爱与我享用肉类的矛盾...在没有考虑到动物有权利的情况下，我开始看到野生动物和我们通常食用的动物都有自己的生活，它们应该被留给它们自己去享受。于是我改变了。我对道德景观以及我和其他动物在其中的位置的认知发生了转变。（赫斯特豪斯 2000 年：165-166；另请参阅戴蒙德 2001 年 [特别是第 11 章和第 13 章] 和克拉克 1977 年）
 
-爱丽丝·克雷里（Alice Crary）认为，我们对道德景观的认知转变是因为这些景观，更准确地说是居住其中的人们的丰富世界，并不是道德中立的。克雷里认为，哲学家们在寻找其他动物是否具有道德地位时所寻求的特征已经融入了道德重要性，“人类和其他动物具有可以通过实证发现的道德特征”（我强调，2016 年：85），正如她所说的“伦理内部”。这些价值观常常在表面上中立的外观下悄然渗入。通过明确将这些特征定位在伦理学内部，我们对道德地位的伦理反思的质地、品质和目的发生了变化。达到充分的实证理解需要非中立的方法，识别历史和文化视角对我们道德地位的考虑产生的影响。如果我们将我们自己的生活和其他动物的生活视为已经融入道德价值观，我们认为重要的伦理问题以及我们如何构建和回答这些问题将会有所不同。
+爱丽丝 · 克雷里（Alice Crary）认为，我们对道德景观的认知转变是因为这些景观，更准确地说是居住其中的人们的丰富世界，并不是道德中立的。克雷里认为，哲学家们在寻找其他动物是否具有道德地位时所寻求的特征已经融入了道德重要性，“人类和其他动物具有可以通过实证发现的道德特征”（我强调，2016 年：85），正如她所说的“伦理内部”。这些价值观常常在表面上中立的外观下悄然渗入。通过明确将这些特征定位在伦理学内部，我们对道德地位的伦理反思的质地、品质和目的发生了变化。达到充分的实证理解需要非中立的方法，识别历史和文化视角对我们道德地位的考虑产生的影响。如果我们将我们自己的生活和其他动物的生活视为已经融入道德价值观，我们认为重要的伦理问题以及我们如何构建和回答这些问题将会有所不同。
 
 其他女性主义哲学家对用于确定动物道德地位的所谓道德中立方法提出了质疑。对于许多女性主义者来说，传统的理性论证方法未能考虑到人类对非人类的同情或共情感受，她们认为这些感受对于全面了解我们对非人类的责任以及原因至关重要（参见亚当斯和多诺万，1995 年；多诺万和亚当斯，2007 年；亚当斯和格林，2014 年）。
 
-女性主义哲学家还对动物道德地位论证中的个人主义提出了质疑。一些女性主义者认为，与其寻找非人类与人类共享的内在或固有属性，我们应该将道德地位理解为关系性的，因为道德认同无疑是一种社会实践。正如伊丽莎白·安德森所写：
+女性主义哲学家还对动物道德地位论证中的个人主义提出了质疑。一些女性主义者认为，与其寻找非人类与人类共享的内在或固有属性，我们应该将道德地位理解为关系性的，因为道德认同无疑是一种社会实践。正如伊丽莎白 · 安德森所写：
 
 > 道德可考虑性不是任何生物的固有属性，也不仅仅取决于其固有属性，如其能力。它在很大程度上取决于它们与我们之间的关系的种类。（安德森 2004 年：289）。
 
-而且这些关系不一定是直接的。人类活动的范围已经扩展到整个地球，人类与彼此和其他动物纠缠在无数的方式中。我们参与直接或间接伤害他人的活动和机构，通过创造负面经历、剥夺他们的幸福感或否认他们追求自己的机会，从而伤害他人。哲学家埃莉莎·阿尔托拉（Elisa Aaltola）和洛瑞·格鲁恩（Lori Gruen）主张通过改善我们与彼此和其他动物的关系来完善我们的同理心想象力。
+而且这些关系不一定是直接的。人类活动的范围已经扩展到整个地球，人类与彼此和其他动物纠缠在无数的方式中。我们参与直接或间接伤害他人的活动和机构，通过创造负面经历、剥夺他们的幸福感或否认他们追求自己的机会，从而伤害他人。哲学家埃莉莎 · 阿尔托拉（Elisa Aaltola）和洛瑞 · 格鲁恩（Lori Gruen）主张通过改善我们与彼此和其他动物的关系来完善我们的同理心想象力。
 
 尽管理解成为另一个人是什么样子是具有挑战性的，尽管我们受到我们不可避免的人类中心主义观点的限制，但在尊重伦理关系中，涉及尝试理解和回应另一个人的需求、兴趣、欲望、脆弱性、希望和观点。格鲁恩所称的“纠缠的同理心”是一个既涉及情感又涉及认知的过程（Gruen 2015）。与他人产生共情的个体对他人的状况作出回应，并反思地想象自己处于与他人不同的位置，同时注意自己与她所共情的同伴生物之间的相似之处和差异之处。纠缠的同理心需要对可能对那些与我们产生共情的人的经历和繁荣产生负面影响的更广泛条件进行批判性关注，这要求我们这些产生共情的人关注我们可能不会关注的事物。因此，它也增强了我们自己的经历，发展了我们的道德想象力，并帮助我们成为更敏感的感知者。
 
@@ -156,10 +156,10 @@
 
 ### References Cited
 
-* Aaltola, Elisa, 2013, “Empathy, Intersubjectivity and Animal Ethics”, *Environmental Philosophy*, 10(2): 75–96. doi:10.5840/envirophil201310215
+* Aaltola, Elisa, 2013, “Empathy, Intersubjectivity and Animal Ethics”, *Environmental Philosophy*, 10(2): 75–96. doi: 10.5840/envirophil201310215
 * Adams, Carol J. and Josephine Donovan (eds.), 1995, *Animals and Women: Feminist Theoretical Explorations*, Durham, NC: Duke University Press.
 * Adams, Carol J. and Lori Gruen (eds.), 2014, *Ecofeminism: Feminist Intersections with Other Animals and the Earth*, New York: Bloomsbury Press.
-* Anderson, Elizabeth, 2004, “Animal Rights and the Values of Nonhuman Life”, in *Animal Rights: Current Debates and New Directions*, Cass R. Sunstein and Martha C. Nussbaum (eds.). Oxford: Oxford University Press, chapter 13. doi:10.1093/acprof:oso/9780195305104.003.0014
+* Anderson, Elizabeth, 2004, “Animal Rights and the Values of Nonhuman Life”, in *Animal Rights: Current Debates and New Directions*, Cass R. Sunstein and Martha C. Nussbaum (eds.). Oxford: Oxford University Press, chapter 13. doi: 10.1093/acprof: oso/9780195305104.003.0014
 * Attenborough, David, 1998, *The Life of Birds*, Princeton: Princeton University Press. [[Attenborough 1998 excerpts available online](http://www.pbs.org/lifeofbirds/), PBS Online.]
 * Bekoff, Marc, 2000, *The Smile of a Dolphin: Remarkable Accounts of Animal Emotion*, New York: Discovery Books.
 * –––, 2007, *The Emotional Lives of Animals: A Leading Scientist Explores Animal Joy, Sorrow, and Empathy—and Why They Matter*, Novato, California: New World Library.
@@ -167,9 +167,9 @@
 * Bekoff, Marc, Colin Allen, and Gordon M. Burghardt (eds.), 2002, *The Cognitive Animal*, Cambridge, MA: MIT Press.
 * Bekoff, Marc and Jessica Pierce, 2009, *Wild Justice: The Moral Lives of Animals*, Chicago: University of Chicago Press.
 * Bentham, Jeremy, [1780/1789] 1982, *An Introduction to the Principles of Morals and Legislation*, edited by J.H. Burns and H.L.A. Hart, London: Methuen, 1982 (Athlone Press 1970).
-* Byrne, Richard W. Byrne and Andrew Whiten (eds.), 1988,*Machiavellian Intelligence: Social Expertise and the Evolution ofIntellect in Monkeys, Apes, and Humans I*, Oxford: ClarendonPress.
-* Cheney, Dorothy L. and Robert M. Seyfarth, 1990, *How MonkeysSee the World: Inside the Mind of Another Species*, Chicago:University of Chicago Press.
-* Chevalier-Skolnikoff, Suzanne, 1989, “Spontaneous Tool Use and Sensorimotor Intelligence in Cebus Compared with other Monkeys and Apes”, *Behavioral and Brain Sciences*, 12(3): 561–588. doi:10.1017/S0140525X00057678
+* Byrne, Richard W. Byrne and Andrew Whiten (eds.), 1988, *Machiavellian Intelligence: Social Expertise and the Evolution ofIntellect in Monkeys, Apes, and Humans I*, Oxford: ClarendonPress.
+* Cheney, Dorothy L. and Robert M. Seyfarth, 1990, *How MonkeysSee the World: Inside the Mind of Another Species*, Chicago: University of Chicago Press.
+* Chevalier-Skolnikoff, Suzanne, 1989, “Spontaneous Tool Use and Sensorimotor Intelligence in Cebus Compared with other Monkeys and Apes”, *Behavioral and Brain Sciences*, 12(3): 561–588. doi: 10.1017/S0140525X00057678
 * Clarke, Stephen R.L., 1977, *The Moral Status of Animals*, Oxford: Oxford University Press.
 * Crary, Alice, 2016, *Inside Ethics: On the Demands of Moral Thought*, Cambridge, MA: Harvard University Press.
 * Darwin, Charles, 1871, *The Descent of Man* (2 volumes), London: John Murray, volume1. [[Darwin 1871 available online](http://darwin-online.org.uk/content/frameset?pageseq=1&itemID=F937.1&viewtype=side)]
@@ -189,23 +189,23 @@
 * Hursthouse, Rosalind, 2000, *Ethics, Humans and Other Animals*, London: Routledge.
 * Jamieson, Dale, 2003, *Morality’s Progress: Essays on Humans, Other Animals, and the Rest of Nature*, Oxford: Oxford University Press.
 * Kant, Immanuel, [1785] 1998, *Groundwork of the Metaphysics of Morals* (*Grundlegung zur Metaphysik der Sitten*), Mary J. Gregor (trans.), Cambridge: Cambridge University Press.
-* –––, [1798] 2010, “Anthropology from a Pragmatic Point of View (1798)”, in *Anthropology, History, and Education*, (Cambridge Edition of the Works of Immanuel Kant), Robert Louden and Gunter Zoller (eds. and trans.), Cambridge: Cambridge University Press, 227–429. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 7. doi:10.1017/CBO9780511791925
-* –––, [1784–5] 1997, “Moral Philosophy: Collin’s Lecture Notes”, in *Lectures on Ethics*, (Cambridge Edition of the Works of Immanuel Kant) , P. Heath and J.B. Schneewind (ed. and trans.), Cambridge: Cambridge University Press, pp. 37–222. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 27. doi:10.1017/CBO9781107049512
+* –––, [1798] 2010, “Anthropology from a Pragmatic Point of View (1798)”, in *Anthropology, History, and Education*, (Cambridge Edition of the Works of Immanuel Kant), Robert Louden and Gunter Zoller (eds. and trans.), Cambridge: Cambridge University Press, 227–429. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 7. doi: 10.1017/CBO9780511791925
+* –––, [1784–5] 1997, “Moral Philosophy: Collin’s Lecture Notes”, in *Lectures on Ethics*, (Cambridge Edition of the Works of Immanuel Kant) , P. Heath and J.B. Schneewind (ed. and trans.), Cambridge: Cambridge University Press, pp. 37–222. Original is *Anthropologie in pragmatischer Hinsicht*, published in the standard *Akademie der Wissenschaften* edition, volume 27. doi: 10.1017/CBO9781107049512
 * Kheel, Marti, 2008, *Nature Ethics: An Ecofeminist Perspective*, Lanham, MD: Rowman and Littlefield Publishers.
 * Kim, Claire Jean, 2015, *Dangerous Crossings: Race, Species and Nature in a Multicultural Age*, Cambridge: Cambridge University Press.
 * King, Barbara J., 2013, *How Animals Grieve*, Chicago: University of Chicago Press.
 * Ko, Aph and Syl Ko, 2017, *Aphro-ism*, New York: Lantern Books.
 * Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press.
 * –––, 2004, “Fellow Creatures: Kantian Ethics and Our Duties to Animals”, in *The Tanner Lectures on Human Values*, Grethe B. Peterson (ed.), Volume 25/26, Salt Lake City: University of Utah Press. [[Korsgaard 2004 available online](http://nrs.harvard.edu/urn-3:HUL.InstRepos:3198692)]
-* –––, 2007, “Facing the Animal You See in the Mirror”, *Harvard Review of Philosophy*, 16(1): 4–9. doi:10.5840/harvardreview20091611
-* McMahan, Jeff, 2005, “Our Fellow Creatures” *The Journal of Ethics*, 9(3–4): 353–80. doi:10.1007/s10892-005-3512-2
+* –––, 2007, “Facing the Animal You See in the Mirror”, *Harvard Review of Philosophy*, 16(1): 4–9. doi: 10.5840/harvardreview20091611
+* McMahan, Jeff, 2005, “Our Fellow Creatures” *The Journal of Ethics*, 9(3–4): 353–80. doi: 10.1007/s10892-005-3512-2
 * Mason, Jim and Peter Singer, 1980 [1990], *Animal Factories*, revised edition, New York: Harmony Books; first edition, 1980.
 * Nussbaum, Martha C., 2006, *Frontiers of Justice: Disability, Nationality, and Species Membership*, Cambridge: The Belknap Press.
 * Pepperberg, Irene Maxine, 1999, *The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots*, Cambridge, MA: Harvard University Press.
 * Premack, David, 1986, *Gavagai! or the Future History of the Animal Language Controversy*, Cambridge, MA: MIT Press.
 * Premack, David and Ann J. Premack 1984, *The Mind of an Ape*, New York: W W Norton & Co Inc.
 * Regan, Tom, 1985, “The Case for Animal Rights”, in Peter Singer (ed.), *In Defence of Animals*, Oxford: Basil Blackwell, pp. 13–26. [[Regan 1985 available online](http://www.animal-rights-library.com/texts-m/regan03.htm)]
-* Rendell, Luke and Hal Whitehead, 2001, “Culture in Whales and Dolphins”, *Behavioral and Brian Sciences*, 24(2): 309–324. doi:10.1017/S0140525X0100396X
+* Rendell, Luke and Hal Whitehead, 2001, “Culture in Whales and Dolphins”, *Behavioral and Brian Sciences*, 24(2): 309–324. doi: 10.1017/S0140525X0100396X
 * Roberts, W.A., 1998, *Principles of Animal Cognition*, Boston: McGraw-Hill.
 * Rumbaugh, Duane M. and Sue Savage-Rumbaugh, 1999, “Primate Language” in Robert A. Wilson & Frank Keil (eds.) *The MIT Encyclopedia of the Cognitive Sciences*, Cambridge, MA: MIT Press.
 * Singer, Peter, 1990, *Animal Liberation*, second edition, New York: New York Review of Books.
@@ -213,32 +213,32 @@
 * –––, 1974, “All Animals are Equal”, *Philosophic Exchange*, 5(1), Article 6, [Singer 1974 available online](http://digitalcommons.brockport.edu/phil_ex/vol5/iss1/6).
 * Singer, Peter and Jim Mason, 2006, *The Way We Eat: Why Our Food Choices Matter/The Ethics of What We Eat*, New York: Rodale Press.
 * Tomasello, Michael and Josep Call, 1997, *Primate Cognition*, Oxford: Oxford University Press.
-* VanDeVeer, Donald, 1979, “Interspecific Justice”, *Inquiry*, 22(1–4): 55–79. doi:10.1080/00201747908601866
+* VanDeVeer, Donald, 1979, “Interspecific Justice”, *Inquiry*, 22(1–4): 55–79. doi: 10.1080/00201747908601866
 * Varner, Gary E., 1998, *In Nature’s Interests*, New York: Oxford University Press.
-* –––, 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism Gary E. Varner*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199758784.001.0001
-* Visalberghi, Elisabetta, 1997, “Success and Understanding in Cognitive Tasks: A Comparison Between *Cebus apella* and *Pan troglodytes*”, *International Journal of Primatology*, 18(5): 811–830. doi:10.1023/A:1026399930727
+* –––, 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism Gary E. Varner*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199758784.001.0001
+* Visalberghi, Elisabetta, 1997, “Success and Understanding in Cognitive Tasks: A Comparison Between *Cebus apella* and *Pan troglodytes*”, *International Journal of Primatology*, 18(5): 811–830. doi: 10.1023/A: 1026399930727
 * de Waal, Frans B.M., 1989, *Peacemaking Among Primates*, Cambridge, MA: Harvard University Press.
 * de Waal, Frans B.M. and Frans Lanting, 1997, *Bonobo: The Forgotten Ape*, Berkeley: University of California Press.
 * Walker, Rebecca L., 2007, “Animal Flourishing: What Virtue Requires of Human Animals”, in *Working Virtue: Virtue Ethics and Contemporary Moral Problems*, Rebecca Walker and Philip J. Ivanhoe (eds.) Oxford: Oxford University Press.
-* Weir, Alex A.S., Jackie Chappell, and Alex Kacelnik, 2002, “Shaping of Hooks in New Caledonian Crows”, *Science*, 297(5583): 981. doi:10.1126/science.1073433
+* Weir, Alex A.S., Jackie Chappell, and Alex Kacelnik, 2002, “Shaping of Hooks in New Caledonian Crows”, *Science*, 297(5583): 981. doi: 10.1126/science.1073433
 * Whiten, Andrew and Richard W. Byrne (eds.), 1997, *Machiavellian Intelligence II: Extensions and Evaluations*, Cambridge: Cambridge University Press.
-* Whiten, A., J. Goodall, W.C. McGew, T. Nishida, V. Reynolds, Y. Sugiyama, C.E.G. Tutin, R.W. Wrangham, & C. Boesch, 1999, “Cultures in chimpanzees”, *Nature*, 399(6737): 682–685. doi:10.1038/21415
-* Wood, Allen W., 1998, “Kant on Duties Regarding Nonrational Nature” *Proceedings of the Aristotelian Society Supplement*, LXXII: 189–210. doi:10.1111/1467-8349.00042
+* Whiten, A., J. Goodall, W.C. McGew, T. Nishida, V. Reynolds, Y. Sugiyama, C.E.G. Tutin, R.W. Wrangham, & C. Boesch, 1999, “Cultures in chimpanzees”, *Nature*, 399(6737): 682–685. doi: 10.1038/21415
+* Wood, Allen W., 1998, “Kant on Duties Regarding Nonrational Nature” *Proceedings of the Aristotelian Society Supplement*, LXXII: 189–210. doi: 10.1111/1467-8349.00042
 * Woods, Vanessa, 2010, *Bonobo Handshake: A Memoir of Love and Adventure in the Congo* , New York: Gotham Books.
 
 ### Further Reading
 
-* Beauchamp, Tom L. and R.G. Frey (eds.) 2011, *The Oxford Handbook of Animal Ethics*, New York: Oxford. doi:10.1093/oxfordhb/9780195371963.001.0001
-* Brambell, Ben and Bob Fisher, 2015, *The Moral Complexity of Eating Meat*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199353903.001.0001
+* Beauchamp, Tom L. and R.G. Frey (eds.) 2011, *The Oxford Handbook of Animal Ethics*, New York: Oxford. doi: 10.1093/oxfordhb/9780195371963.001.0001
+* Brambell, Ben and Bob Fisher, 2015, *The Moral Complexity of Eating Meat*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199353903.001.0001
 * Chignell, Andrew, Terence Cuneo, and Matthew C. Halteman (eds.) 2015, *Philosophy Comes to Dinner: Arguments About the Ethics of Eating*, New York: Routledge.
 * Derrida, Jacques, 2008, *The Animal That Therefore I Am* (*Animal que donc je suis*), Mary-Louise Mallet (ed.) and David Wills (trans.), New York: Fordham University Press.
 * Donaldson, Sue and Will Kymlicka, 2011, *Zoopolis: A Political Theory of Animal Rights*, New York: Oxford University Press.
 * Gruen, Lori, 2016, “Conscious Animals and the Value of Experience” in Stephen Gardiner and Allen Thompson (eds.) *The Oxford Handbook of Environmental Ethics*, New York: Oxford University Press, chapter 8.
 * Haraway, Donna, 2003, *The Companion Species Manifesto: Dogs, People and Significant Otherness*, Chicago, IL: Prickly Paradigm Press.
-* Jones, Robert C., 2013, “Science, Sentience, and Animal Welfare”, *Biology and Philosophy*, 28(1): 1–30. doi:10.1007/s10539-012-9351-1
-* Kagan, Shelly, 2011, “Do I Make a Difference?”, *Philosophy & Public Affairs*, 39(2): 105–141. doi:10.1111/j.1088-4963.2011.01203.x
+* Jones, Robert C., 2013, “Science, Sentience, and Animal Welfare”, *Biology and Philosophy*, 28(1): 1–30. doi: 10.1007/s10539-012-9351-1
+* Kagan, Shelly, 2011, “Do I Make a Difference?”, *Philosophy & Public Affairs*, 39(2): 105–141. doi: 10.1111/j.1088-4963.2011.01203.x
 * Korsgaard, Christine M., 2013, “Getting Animals in View”, *The Point*, 6. [[Korsgaard 2013 available online](https://thepointmag.com/2012/examined-life/getting-animals-view)]
-* McMahan, Jeff, 2008, “Eating Animals the Nice Way”, *Daedalus*, 127(1): 66–76. doi:10.1162/daed.2008.137.1.66
+* McMahan, Jeff, 2008, “Eating Animals the Nice Way”, *Daedalus*, 127(1): 66–76. doi: 10.1162/daed.2008.137.1.66
 * Midgley, Mary, 1983, *Animals and Why They Matter*, Athens, GA: University of Georgia Press.
 * Pachirat, Timothy, 2011, *Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight*, New Haven, CT: Yale University Press.
 * Rachels, James, 1990, *Created from Animals: The Moral Implications of Darwinism*, Oxford: Oxford University Press.

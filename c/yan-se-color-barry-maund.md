@@ -16,11 +16,11 @@
 
 颜色存在的一个主要问题与我们对颜色的认识如何与科学（不仅仅是物理学，还包括色觉科学）告诉我们有关物体及其特质的内容相契合有关。历史上，这个问题导致了那些思考颜色的主要物理学家持有这样一种观点：物理物体实际上并没有我们通常认为物体具有的颜色。海洋和天空并非我们天真地认为的那样蓝色，苹果也不是红色（也不是绿色）。据信，这类颜色在从 16 世纪到本世纪发展起来的世界的物理描述中没有位置。
 
-科学主流传统不仅与普通人对颜色的理解相冲突，而且科学传统中还包含一种非常反直觉的颜色概念。例如，大卫·休谟著名的言论：
+科学主流传统不仅与普通人对颜色的理解相冲突，而且科学传统中还包含一种非常反直觉的颜色概念。例如，大卫 · 休谟著名的言论：
 
 > 声音、颜色、热和冷，根据现代哲学，不是物体的品质，而是心灵中的感知。（Hume 1738：第三卷，第一部分，第一节，[1911：177]；第一卷，第四章，第四节，[1911：216]）
 
-订阅这一信条的物理学家包括伟大的人物：伽利略、博伊尔、笛卡尔、牛顿、托马斯·杨、麦克斯韦和赫尔曼·冯·亥姆霍兹。例如，麦克斯韦写道：
+订阅这一信条的物理学家包括伟大的人物：伽利略、博伊尔、笛卡尔、牛顿、托马斯 · 杨、麦克斯韦和赫尔曼 · 冯 · 亥姆霍兹。例如，麦克斯韦写道：
 
 > 似乎几乎是一个不言自明的事实，即颜色是一种感觉；然而，杨氏通过诚实地认识到这一基本真理，建立了第一个一致的颜色理论。（Maxwell 1871: 13 [1970: 75]）
 
@@ -87,7 +87,7 @@ Hardin 似乎采取了一种不同的方法，在他极具影响力的著作《�
 
 值得注意的是，我已经恢复了他们对该属性的表征为“我们在英语中称之为‘红色’”。关键是我们需要这个从句来确定所讨论的属性。因此，除其他事项外，这一探讨旨在揭示我们日常颜色术语（如‘红色’）所指代的属性。因此，它无法完全避免与颜色语言和颜色概念有关的问题。我们可以通过指出这一事实来加强这一观点，即通常可以发现颜色权威解释颜色的中心方面，即具有色调属性，如下所示：“色调：颜色感知的属性，用黄色、红色、蓝色、绿色等术语表示”（Kuehni 2005: 187；另见 Byrne & Hilbert 1997b: 447，Hardin 1988 [1993: 212]）。
 
-结论是，很难看出我们如何避免涉及我们的颜色术语通常如何被使用和理解的问题。回答这些问题的一个重要方法是马克·约翰斯顿（Johnston 1992）所采用的方法，在一篇具有很大影响力的论文中，他隐含地承认了一套支撑所谓“我们对颜色的普通思考”的语言和概念实践的存在。这种思考并不意味着包括关于颜色的理论思考或理论化，或者至少，它远不止于此。它包括我们思考和谈论涉及我们对颜色概念的运用的思考。约翰斯顿提出了这样一个问题，即关于颜色的这种思考必须包含哪些原则，才能算作对这些颜色概念的运用。
+结论是，很难看出我们如何避免涉及我们的颜色术语通常如何被使用和理解的问题。回答这些问题的一个重要方法是马克 · 约翰斯顿（Johnston 1992）所采用的方法，在一篇具有很大影响力的论文中，他隐含地承认了一套支撑所谓“我们对颜色的普通思考”的语言和概念实践的存在。这种思考并不意味着包括关于颜色的理论思考或理论化，或者至少，它远不止于此。它包括我们思考和谈论涉及我们对颜色概念的运用的思考。约翰斯顿提出了这样一个问题，即关于颜色的这种思考必须包含哪些原则，才能算作对这些颜色概念的运用。
 
 像 David Lewis 和 Frank Jackson 一样，他支持这样一种观点：我们普通的颜色概念被那些掌握该概念的人所捕捉。Johnston 说普通的颜色概念是一个“群集概念”，它包含了一系列广泛的信念。他指出，有许多关于颜色的信念会影响我们，这些信念源自我们的视觉经验以及我们倾向以某种方式理解这种视觉经验。Johnston 说，其中一些信念是“核心”信念，我们可以将其与更“外围”的信念相对比。关于核心信念的观点是：如果这些信念被证明不正确，那么我们将很难说出它们是错误的对象，即我们将无法确定一个主题，而不是改变我们对某一特定主题的看法。相比之下，外围信念是这样的：“随着它们的改变，我们只是在改变我们对一个稳定主题的看法”（Johnston 1992 [1997: 137]）。
 
@@ -121,7 +121,7 @@ Hardin 似乎采取了一种不同的方法，在他极具影响力的著作《�
 
 一种有用的思考颜色哲学方法论的方式是由希尔伯特在早期作品中提出的
 
-> [T]颜色客观性的问题归根结底是一个概念性问题。要解决这个问题，我们需要发现哪种颜色概念化方式能够解释关于颜色的先验直觉以及广泛已知的颜色现象。 (Hilbert 1987: 16)
+> [T] 颜色客观性的问题归根结底是一个概念性问题。要解决这个问题，我们需要发现哪种颜色概念化方式能够解释关于颜色的先验直觉以及广泛已知的颜色现象。 (Hilbert 1987: 16)
 
 这种观点似乎容纳了约翰斯顿（Johnston）方法的修改版本。它还允许理论家可能通过拒绝一些“先反思直觉”来捍卫一种颜色理论的可能性，同时解释为什么会持有这些直觉。最近一部涉及这些问题的作品是亚当斯（Adams）2016 年的著作。亚当斯认为，现代某些颜色消除论者和牛津颜色倾向论者之间的辩论受到这样一个事实的影响，即每一方的成员都受到不同的颜色直觉的指导，这些直觉具有历史来源。一个人不必同意亚当斯的观点，也能意识到他提出了一个关于颜色形而上学思考的严肃问题。
 
@@ -131,9 +131,9 @@ Hardin 似乎采取了一种不同的方法，在他极具影响力的著作《�
 
 色彩哲学需要解决的最重要问题之一是色彩体验的现象特征。这个问题反过来又引发了关于这些体验是否具有表征内容以及如果有的话，是什么类型的一般问题，以及关于现象特征是否存在非故意方面的问题。现象特征的问题与理论可以提供（或需要）关于某物看起来是某种颜色的解释有关：看起来是蓝色的，看起来是黄色的，看起来是红色的，等等。这个概念在大多数理论中起着核心作用，无论是用来解释颜色是什么，还是用来提出理论需要解决的问题。
 
-最引人注目的例子是倾向性解释的最常见版本：某物之所以是黄色，是因为看起来是黄色的——对于正常观察者，在标准条件下（McGinn 1983; Johnston 1992 [1997]; Levin 2000）。另一个例子是乔纳森·科恩（2009）和爱德华·艾弗里尔（1992）的关系观点，这个观点暗示颜色是关系属性，定义为物体在特定环境中以特定方式看起来的能力，对于在特定环境中定义的观察者。
+最引人注目的例子是倾向性解释的最常见版本：某物之所以是黄色，是因为看起来是黄色的——对于正常观察者，在标准条件下（McGinn 1983; Johnston 1992 [1997]; Levin 2000）。另一个例子是乔纳森 · 科恩（2009）和爱德华 · 艾弗里尔（1992）的关系观点，这个观点暗示颜色是关系属性，定义为物体在特定环境中以特定方式看起来的能力，对于在特定环境中定义的观察者。
 
-但这个概念在物理主义客观主义者的理论中也起着核心作用，比如麦克劳林（McLaughlin，2003）和杰克逊（Jackson，1998）。根据麦克劳林，颜色是“某种功能角色描述的占有者”（2003: 479），其中功能角色是以颜色特有的外观方式来指定的。杰克逊则关键地利用了他所称的“关于颜色的主要直觉”：主要直觉就是红色是物体看起来呈现红色时具有的属性（Jackson，1998: 89）。最后，拜恩（Byrne）和希尔伯特（Hilbert）2003 以及博戈西安（Boghossian）和维尔曼（Velleman）1991 [1997]将现实主义者和非现实主义者在颜色问题上的争论描述为涉及“物体在视觉上呈现的某些属性”（Boghossian & Velleman 1991 [1997: 117]）。正如博戈西安和维尔曼所说，
+但这个概念在物理主义客观主义者的理论中也起着核心作用，比如麦克劳林（McLaughlin，2003）和杰克逊（Jackson，1998）。根据麦克劳林，颜色是“某种功能角色描述的占有者”（2003: 479），其中功能角色是以颜色特有的外观方式来指定的。杰克逊则关键地利用了他所称的“关于颜色的主要直觉”：主要直觉就是红色是物体看起来呈现红色时具有的属性（Jackson，1998: 89）。最后，拜恩（Byrne）和希尔伯特（Hilbert）2003 以及博戈西安（Boghossian）和维尔曼（Velleman）1991 [1997] 将现实主义者和非现实主义者在颜色问题上的争论描述为涉及“物体在视觉上呈现的某些属性”（Boghossian & Velleman 1991 [1997: 117]）。正如博戈西安和维尔曼所说，
 
 > 哲学家想要知道的是，物体似乎具有的属性是否是人们普遍认为它们在现实中确实具有的属性。 (Boghossian & Velleman 1991 [1997: 106])
 
@@ -188,7 +188,7 @@ Primitivism 存在的一个主要批评是，它的论证是否依赖于一种�
 
 另一种常见的颜色客观主义形式是，颜色是物质体和光源的客观（与心灵无关）属性，其本质对我们“隐藏”，需要经验调查才能发现。这一理论通常被称为物理主义颜色实在论，但我将使用“还原性颜色物理主义”这个标题。（对于颜色原始主义来说，构成颜色的属性在某种意义上是“物理的”）.
 
-也许最早捍卫这种第二形式颜色客观主义的人是十八世纪苏格兰哲学家托马斯·里德。更近期的例子包括阿姆斯特朗（1969 年）、希尔伯特（1987 年）、马森（1988 年）、杰克逊（1996 年、1998 年、2007 年）、泰伊（2000 年）、拜恩和希尔伯特（2003 年）以及麦克劳林（2003 年）。里德认为，普通人的想法并不像休谟、笛卡尔等哲学家所说的那样。里德写道：
+也许最早捍卫这种第二形式颜色客观主义的人是十八世纪苏格兰哲学家托马斯 · 里德。更近期的例子包括阿姆斯特朗（1969 年）、希尔伯特（1987 年）、马森（1988 年）、杰克逊（1996 年、1998 年、2007 年）、泰伊（2000 年）、拜恩和希尔伯特（2003 年）以及麦克劳林（2003 年）。里德认为，普通人的想法并不像休谟、笛卡尔等哲学家所说的那样。里德写道：
 
 > 通过颜色，所有未受现代哲学指导的人理解的不是心灵的感觉，当它没有被感知时就不存在，而是身体的一种品质或改变，无论是否被看到，它都保持不变。 (Reid 1764: ch. 6, sect. 4 [1970: 99])
 
@@ -196,7 +196,7 @@ Primitivism 存在的一个主要批评是，它的论证是否依赖于一种�
 
 > 这个想法，我们称之为颜色的外观，暗示了身体中某种未知品质引发了这个想法的概念和信念，我们给予这种品质而不是这个想法颜色这个名称。 (Reid 1764: ch. 6, sect. 4 [1970: 100])
 
-乍看之下，Reid 的这种观点似乎违反直觉。许多“那些没有接受现代哲学教育的人”对颜色有很多看法，并且会感到惊讶被告知颜色是未知的品质。例如，红色是许多革命党派使用的颜色，适合激怒公牛，是我最喜欢的颜色，也是我真爱的嘴唇的颜色等等。我们可以给出蓝色、红色、黄色、青绿色、淡紫色等的典范。我们经常说诸如“那是比这个更好的蓝色”。人们怀疑他们（未受教育的人）会对红色是某种未知品质这一说法感到困惑（有关此事的更多信息，请参见 Hacker 1987:186）。
+乍看之下，Reid 的这种观点似乎违反直觉。许多“那些没有接受现代哲学教育的人”对颜色有很多看法，并且会感到惊讶被告知颜色是未知的品质。例如，红色是许多革命党派使用的颜色，适合激怒公牛，是我最喜欢的颜色，也是我真爱的嘴唇的颜色等等。我们可以给出蓝色、红色、黄色、青绿色、淡紫色等的典范。我们经常说诸如“那是比这个更好的蓝色”。人们怀疑他们（未受教育的人）会对红色是某种未知品质这一说法感到困惑（有关此事的更多信息，请参见 Hacker 1987: 186）。
 
 Reid 的观点可能是极端的，但它帮助我们欣赏当代颜色物理主义者 McLaughlin 的观点的重要性，McLaughlin 将 Reid 视为预见他对颜色的描述。 McLaughlin 明确地支持 Reid 的这一观点，尽管事实上，他的立场略有不同。他捍卫了对颜色的功能主义分析，根据这一分析，比如红色，是某种功能角色的占有者。
 
@@ -224,7 +224,7 @@ McLaughlin 的提议在一个关键方面与 Reid 的提议不同。它并没有
 
 对这个问题的首选回答是，例如，说一个给定的颜色，比如红色，不是特定的颜色反射，而是一种反射类型，即属于某个特定群体的类型。然而，仍然存在问题。例如，Averill（1992 年，2005 年）提出了一些有趣的论点，这些论点基于关于正常观察者和标准条件如何很容易改变的合理推测，从而导致变色。颜色物理主义者似乎致力于将反射分为各种类型，这是非常武断的。
 
-这个问题与 Hardin (1988, 2004) 和 Cohen (2009) 引起关注的问题有关。它涉及到在一个非任意的方式中确定正常条件和标准观察者的问题。客观主义的观点要求我们将物体 X 的“真实”颜色确定为某种因果基础（例如，反射率曲线），以便它在正常观察者和标准条件下的外观。问题在于，正如 Hardin 已经有力指出的那样，特别是在 Hardin 2004 中，除非以高度任意的方式，否则无法做到这一点。不仅有少数颜色感知者与正常观察者有些反常（只是轻微的，但明显的），而且即使在正常观察者群体中也存在相当大的统计分布。例如，对于“独特绿色”的反射率曲线将因“正常群体”的不同成员而异。当然，可以决定一个标准并将一个反射率曲线确定为绿色，但这一程序是高度任意的。正如我们所看到的，除了物体对感知者的影响之外，与颜色相关的有趣因果力量很少。（这一论点引发了一场激烈的辩论，见 Analysis 期刊的页面，参见 Byrne & Hilbert 2007b; Cohen, Hardin & McLaughlin 2006a,b; 以及 Tye 2006a,b, 2007。)
+这个问题与 Hardin (1988, 2004) 和 Cohen (2009) 引起关注的问题有关。它涉及到在一个非任意的方式中确定正常条件和标准观察者的问题。客观主义的观点要求我们将物体 X 的“真实”颜色确定为某种因果基础（例如，反射率曲线），以便它在正常观察者和标准条件下的外观。问题在于，正如 Hardin 已经有力指出的那样，特别是在 Hardin 2004 中，除非以高度任意的方式，否则无法做到这一点。不仅有少数颜色感知者与正常观察者有些反常（只是轻微的，但明显的），而且即使在正常观察者群体中也存在相当大的统计分布。例如，对于“独特绿色”的反射率曲线将因“正常群体”的不同成员而异。当然，可以决定一个标准并将一个反射率曲线确定为绿色，但这一程序是高度任意的。正如我们所看到的，除了物体对感知者的影响之外，与颜色相关的有趣因果力量很少。（这一论点引发了一场激烈的辩论，见 Analysis 期刊的页面，参见 Byrne & Hilbert 2007b; Cohen, Hardin & McLaughlin 2006a, b; 以及 Tye 2006a, b, 2007。)
 
 为了应对这个问题，麦克劳林建议我们延伸杰克逊和帕吉特（1987）最初为了克服多重实现问题而提出的一个提议。他们建议将颜色的概念相对化到物体和环境的种类。麦克劳林的建议是，我们可以将客观主义的颜色概念延伸到个体观察者。
 
@@ -322,7 +322,7 @@ Cohen (2004, 2009) 持有类似的立场，尽管他提出了一个更一般的�
 
 有其他形式的颜色关系主义值得单独一节来讨论。它们倾向于将颜色视为混合了感知者环境和现象学方面的特性。
 
-一种形式与行动理论的感知有关，这主要是由心理学家 J. J. 吉布森发展而来的。一个主要的例子是由埃文·汤普森（Evan Thompson）提出的理论《颜色的生态视角》。根据这一观点，颜色在一定程度上取决于感知者，因此不是感知者独立世界的固有属性。相反，被染色被解释为环境的关系属性，将环境与感知动物连接起来。在物理表面颜色的情况下，“被染色对应于动物视觉感知的表面光谱反射”（Thompson 1995: 240; 另见第 5 章，第 242-250 页）。
+一种形式与行动理论的感知有关，这主要是由心理学家 J. J. 吉布森发展而来的。一个主要的例子是由埃文 · 汤普森（Evan Thompson）提出的理论《颜色的生态视角》。根据这一观点，颜色在一定程度上取决于感知者，因此不是感知者独立世界的固有属性。相反，被染色被解释为环境的关系属性，将环境与感知动物连接起来。在物理表面颜色的情况下，“被染色对应于动物视觉感知的表面光谱反射”（Thompson 1995: 240; 另见第 5 章，第 242-250 页）。
 
 更详细地说，这个观点可以这样阐述：
 
@@ -334,7 +334,7 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 > 视野中的大小是与大小不同的属性。它对应于在垂直于视线的给定平面上必须适合的补丁的大小，以便完全遮挡视野中的物体。 (Noë 2004: 83)
 
-实际上，Noë区分了三种属性。与一个物体的形状（和大小）相关联的是它的视觉潜力：
+实际上，Noë 区分了三种属性。与一个物体的形状（和大小）相关联的是它的视觉潜力：
 
 > 一个立方体的视觉潜力（至少就形状而言）是其外观随着运动的结果而改变的方式（立方体本身的运动或围绕立方体的感知者的运动）。任何运动都决定了感知方面的一系列变化；任何感知方面的变化集确定了可能运动的等价类别（Noë 2004: 77）.
 
@@ -342,7 +342,7 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 最近，出现了其他形式的关系理论：由 Brogaard（2012）、Chirimuuta（2015）和 Chirimuuta＆Kingdom（2015）提出的理论。Chirimuuta 提倡一种她称之为颜色副词主义的颜色关系主义版本：
 
-> 根据这种观点，颜色不是外部物体、大脑或我们的心理状态的属性；相反，它们是涉及物体、大脑和心理状态的知觉过程或互动的属性。因此，根据颜色副词主义，"看到颜色"意味着"以多彩的方式看待"。 (Chirimuuta & Kingdom 2015: 226)
+> 根据这种观点，颜色不是外部物体、大脑或我们的心理状态的属性；相反，它们是涉及物体、大脑和心理状态的知觉过程或互动的属性。因此，根据颜色副词主义，"看到颜色" 意味着 "以多彩的方式看待"。 (Chirimuuta & Kingdom 2015: 226)
 
 她与 Kingdom 一起，引用了关于颜色视觉的最新研究，依赖于颜色视觉的功能，以证明这对客观主义者颜色现实主义——包括原始主义者和还原主义物理主义者——提供了巨大困难（参见 Akins & Hahn 2014）。虽然他们承认反现实主义，尤其是 Hardin 偏爱的形式，处于更有利的位置，但他们认为颜色副词主义提供了最好的解释。
 
@@ -350,164 +350,164 @@ Thompson 坚持认为，这种观点应该与洛克的倾向主义观点和颜�
 
 ## Bibliography
 
-* Abramov, Israel, 1997, “Physiological Mechanism of Color Vision”, in C.L. Hardin and Luisa Maffi (eds.), 1997, *Color Categories in Thought and Language*, Cambridge: Cambridge University Press, pp. 89–117. doi:10.1017/CBO9780511519819.004
+* Abramov, Israel, 1997, “Physiological Mechanism of Color Vision”, in C.L. Hardin and Luisa Maffi (eds.), 1997, *Color Categories in Thought and Language*, Cambridge: Cambridge University Press, pp. 89–117. doi: 10.1017/CBO9780511519819.004
 * Adams, Zed, 2016, *On the Genealogy of Color*, (Routledge studies in contemporary philosophy, 73), New York: Routledge.
-* Akins, Kathleen A., 2014, “Black and White and Color”, in R. Brown 2014: 173–223. doi:10.1007/978-94-007-6001-1_16
+* Akins, Kathleen A., 2014, “Black and White and Color”, in R. Brown 2014: 173–223. doi: 10.1007/978-94-007-6001-1_16
 * Akins, Kathleen and Martin Hahn, 2000, “The Peculiarity of Color”, in Davis 2000: 215–257.
-* –––, 2014, “More than Mere Colouring: The Role of Spectral Information in Human Vision”, *British Journal for the Philosophy of Science*, 65(1): 125–171. doi:10.1093/bjps/axt060
-* Allen, Keith, 2007, “The Mind-Independence of Colour”, *European Journal of Philosophy*, 15(2): 137–158. doi:10.1111/j.1468-0378.2007.00258.x
-* –––, 2009, “Inter-species Variation in Colour Perception”, *Philosophical Studies*, 142(2): 197–220. doi:10.1007/s11098-007-9183-z
-* –––, 2011, “Revelation and the Nature of Colour”, *Dialectica*, 65(2): 153–176. doi:10.1111/j.1746-8361.2011.01261.x
-* –––, 2015, “Colour Physicalism, Naive Realism, and the Argument from Structure”, *Minds and Machines*, 25(2): 193–212. doi:10.1007/s11023-014-9353-7
+* –––, 2014, “More than Mere Colouring: The Role of Spectral Information in Human Vision”, *British Journal for the Philosophy of Science*, 65(1): 125–171. doi: 10.1093/bjps/axt060
+* Allen, Keith, 2007, “The Mind-Independence of Colour”, *European Journal of Philosophy*, 15(2): 137–158. doi: 10.1111/j.1468-0378.2007.00258.x
+* –––, 2009, “Inter-species Variation in Colour Perception”, *Philosophical Studies*, 142(2): 197–220. doi: 10.1007/s11098-007-9183-z
+* –––, 2011, “Revelation and the Nature of Colour”, *Dialectica*, 65(2): 153–176. doi: 10.1111/j.1746-8361.2011.01261.x
+* –––, 2015, “Colour Physicalism, Naive Realism, and the Argument from Structure”, *Minds and Machines*, 25(2): 193–212. doi: 10.1007/s11023-014-9353-7
 * Armstrong, David M., 1969, “Color-Realism and the Argument from Microscopes”, in R. Brown & Rollins 1969: 119–131.
-* Averill, Edward Wilson, 1992, “The Relational Nature of Color”, *Philosophical Review*, 101(3): 551–588. doi:10.2307/2186057
-* –––, 2005, “Toward a Projectivist Account of Color”, *The Journal of Philosophy*, 102(5): 217–234. doi:10.5840/jphil2005102525
+* Averill, Edward Wilson, 1992, “The Relational Nature of Color”, *Philosophical Review*, 101(3): 551–588. doi: 10.2307/2186057
+* –––, 2005, “Toward a Projectivist Account of Color”, *The Journal of Philosophy*, 102(5): 217–234. doi: 10.5840/jphil2005102525
 * Bennett, Jonathan, 1971, *Locke, Berkeley, Hume: Central Themes*, Oxford: Clarendon Press.
 * Berlin, Brent and Paul Kay, 1969, *Basic Color Terms: Their Universality and Evolution*, Berkeley and Los Angeles: University of California Press.
-* Boghossian, Paul A. and J. David Velleman, 1989 [1997], “Colour as a Secondary Quality”, *Mind* 98(389): 81–103. Reprinted in Byrne & Hilbert 1997a: 81–104. doi:10.1093/mind/XCVIII.389.81
-* –––, 1991 [1997], “Physicalist Theories of Colour”, *Philosophical Review*, 100(1): 67–106. Reprinted in Byrne & Hilbert 1997a: 105–136. doi:10.2307/2185515
+* Boghossian, Paul A. and J. David Velleman, 1989 [1997], “Colour as a Secondary Quality”, *Mind* 98(389): 81–103. Reprinted in Byrne & Hilbert 1997a: 81–104. doi: 10.1093/mind/XCVIII.389.81
+* –––, 1991 [1997], “Physicalist Theories of Colour”, *Philosophical Review*, 100(1): 67–106. Reprinted in Byrne & Hilbert 1997a: 105–136. doi: 10.2307/2185515
 * Broackes, Justin, 1992, “The Autonomy of Color”, in David Charles and Kathleen Lennon (eds.), *Reduction, Explanation and Realism*, Oxford: Clarendon Press, pp. 421–66.
 * –––, 2010, “What Do the Color-Blind See?”, in Cohen & Matthen 2010: 291–405.
-* Brogaard, Berit, 2012, “Colour Eliminativism or Colour Relativism?”, *Philosophical Papers*, 41(2): 305–321, doi:10.1080/05568641.2012.699175
-* –––, 2015, “The Self-Locating Property Theory of Color”, *Minds and Machines*, 25(2): 133–147. doi:10.1007/s11023-015-9373-y
-* Brown, Derek H., 2006, “On the Dual Referent Approach to Colour Theory”, *The Philosophical Quarterly*, 56(222): 96–105. doi:10.1111/j.1467-9213.2005.00431.x
+* Brogaard, Berit, 2012, “Colour Eliminativism or Colour Relativism?”, *Philosophical Papers*, 41(2): 305–321, doi: 10.1080/05568641.2012.699175
+* –––, 2015, “The Self-Locating Property Theory of Color”, *Minds and Machines*, 25(2): 133–147. doi: 10.1007/s11023-015-9373-y
+* Brown, Derek H., 2006, “On the Dual Referent Approach to Colour Theory”, *The Philosophical Quarterly*, 56(222): 96–105. doi: 10.1111/j.1467-9213.2005.00431.x
 * –––, 2014, “Colour Layering and Colour Constancy”, *Philosophers Imprint*, 14(15). [[D.H. Brown 2014 available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/colour-layering-and-colour-constancy.pdf?c=phimp;idno=3521354.0014.015;format=pdf)]
-* Brown, Richard (ed.), 2014, *Consciousness Inside and Out: Phenomenology, Neuroscience and the Nature of Experience*, (Studies in Brain and Mind, 6), New York: Springer Verlag. doi:10.1007/978-94-007-6001-1
+* Brown, Richard (ed.), 2014, *Consciousness Inside and Out: Phenomenology, Neuroscience and the Nature of Experience*, (Studies in Brain and Mind, 6), New York: Springer Verlag. doi: 10.1007/978-94-007-6001-1
 * Brown, Robert and C.D. Rollins (eds.), 1969, *Contemporary Philosophy in Australia*, (Muirhead library of philosophy), London: Allen and Unwin.
 * Byrne, Alex and David R. Hilbert, 1997a, *Readings on Color, Vol. 1: The Philosophy of Color*, Cambridge, MA: MIT Press.
 * –––, 1997b, *Readings on Color, Vol. 2: The Science of Color*, Cambridge, MA: MIT Press.
-* –––, 2003, “Color Realism and Color Science”, *Behavioral and Brain Sciences*, 26(1): 1–44. doi:10.1017/S0140525X03000013
-* –––, 2007a, “Color Primitivism”, *Erkenntnis*, 66(1–2): 73–105. doi:10.1007/s10670-006-9028-8
-* –––, 2007b, “Truest Blue”, *Analysis*, 67(1): 87–92. doi:10.1093/analys/67.1.87
+* –––, 2003, “Color Realism and Color Science”, *Behavioral and Brain Sciences*, 26(1): 1–44. doi: 10.1017/S0140525X03000013
+* –––, 2007a, “Color Primitivism”, *Erkenntnis*, 66(1–2): 73–105. doi: 10.1007/s10670-006-9028-8
+* –––, 2007b, “Truest Blue”, *Analysis*, 67(1): 87–92. doi: 10.1093/analys/67.1.87
 * –––, 2011, “Are Colors Secondary Qualities?”, in Nolan 2011a: 339–361.
 * Campbell, John, 1994, “A Simple View of Color”, in John Haldane and Crispin Wright (eds.) 1994, *Reality, Representation and Projection*, Oxford: Clarendon Press, pp. 257–269.
 * –––, 2005, “Transparency versus Revelation in Color Perception”, *Philosophical Topics*, 33: 105–115.
 * Campbell, Keith, 1969, “Colours”, in R. Brown & Rollins 1969: 132–157.
 * Chalmers, D., 2006, “Perception and the Fall from Eden”, in T. Gendler and J. Hawthorne (eds.), *Perceptual Experience*, Oxford: Clarendon Press, 2006, pp. 49–125.
-* Chirimuuta, M., 2008, “Reflectance Realism and Colour Constancy: What Would Count as Scientific Evidence for Hilbert’s Ontology of Colour?”, *Australasian Journal of Philosophy*, 86(4): 563–582, doi:10.1080/00048400802215364
+* Chirimuuta, M., 2008, “Reflectance Realism and Colour Constancy: What Would Count as Scientific Evidence for Hilbert’s Ontology of Colour?”, *Australasian Journal of Philosophy*, 86(4): 563–582, doi: 10.1080/00048400802215364
 * –––, 2015, *Outside Color: Perceptual Science and the Puzzle of Color*, Cambridge, MA: MIT Press.
-* Chirimuuta, M. and F.A.A. Kingdom, 2015, “The Uses of Colour Vision: Ornamental, Practical and Theoretical”, *Minds and Machines*, 25(2): 213–229. doi:10.1007/s11023-015-9364-z
+* Chirimuuta, M. and F.A.A. Kingdom, 2015, “The Uses of Colour Vision: Ornamental, Practical and Theoretical”, *Minds and Machines*, 25(2): 213–229. doi: 10.1007/s11023-015-9364-z
 * Chisholm, Roderick M., 1966, *Theory of Knowledge*, Englewood Cliffs NJ: Prentice-Hall
 * Chrisment, Alain, 1998, *Color and Colorimetry*, Paris: Editions 3C Conseil.
 * Clark, Austen, 1993, *Sensory Qualities*, Oxford: Clarendon Press.
 * –––, 2010, “Color, Qualia, and Attention: A Nonstandard Interpretation” in Cohen & Matthen 2010: 203–228.
-* Cohen, Jonathan, 2001, “Subjectivism, Physicalism, or None of the Above? Comments on Ross’s ‘The Location Problem for Color Subjectivism’ [2001]”, *Consciousness and Cognition*, 10(1): 94–104. doi:10.1006/ccog.2000.0479
-* –––, 2004, “Color Properties and Color Ascription: A Rationalist Manifesto”, *Philosophical Review*, 113(4): 451–488. doi:10.1215/00318108-113-4-451
-* –––, 2009, *The Red and The Real: An Essay on Color Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199556168.001.0001
-* Cohen, Jonathan, C.L. Hardin, and Brian P. McLaughlin, 2006a, “True Colors”, *Analysis*, 66(4): 335–339. doi:10.1093/analys/66.4.335
-* –––, 2006b, “The Truth About ‘The Truth About True Blue’”, *Analysis*, 67(2): 162–166. doi:10.1093/analys/67.2.162
+* Cohen, Jonathan, 2001, “Subjectivism, Physicalism, or None of the Above? Comments on Ross’s ‘The Location Problem for Color Subjectivism’ [2001]”, *Consciousness and Cognition*, 10(1): 94–104. doi: 10.1006/ccog.2000.0479
+* –––, 2004, “Color Properties and Color Ascription: A Rationalist Manifesto”, *Philosophical Review*, 113(4): 451–488. doi: 10.1215/00318108-113-4-451
+* –––, 2009, *The Red and The Real: An Essay on Color Ontology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199556168.001.0001
+* Cohen, Jonathan, C.L. Hardin, and Brian P. McLaughlin, 2006a, “True Colors”, *Analysis*, 66(4): 335–339. doi: 10.1093/analys/66.4.335
+* –––, 2006b, “The Truth About ‘The Truth About True Blue’”, *Analysis*, 67(2): 162–166. doi: 10.1093/analys/67.2.162
 * Cohen, Jonathan and Mohan Matthen (eds), 2010, *Color Ontology and Color Science*, Cambridge, MA: MIT Press.
 * Cornman, James W., 1975, *Perception, Common Sense and Science*, New Haven, CT: Yale University Press.
 * Crane, Tim, 2003, *The Mechanical Mind: A Philosophical Introduction to Minds, Machines and Mental Representation*, second edition, London: Routledge.
 * Davis, Steven (ed.), 2000, *Color Perception: Philosophical, Psychological, Artistic, and Computational Perspectives*, Oxford: Oxford University Press.
 * Descartes, Rene, 1644 [1988], *Principles of Philosophy*, reprinted in John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny (eds.), *Descartes: Selected Philosophical Writings*, Cambridge: Cambridge University Press, pp. 160–212.
-* Dummett, M., 1979, “Common Sense and Physics”, in G.F. MacDonald (ed.), *Perception and Identity: Essays presented to A. J. Ayer, with his replies to them*, London: Macmillan, pp. 1–40. doi:10.1007/978-1-349-04862-5_1
+* Dummett, M., 1979, “Common Sense and Physics”, in G.F. MacDonald (ed.), *Perception and Identity: Essays presented to A. J. Ayer, with his replies to them*, London: Macmillan, pp. 1–40. doi: 10.1007/978-1-349-04862-5_1
 * Evans, Gareth, 1980, “Things Without the Mind: A Commentary upon Chapter Two of Strawson’s *Individuals*”, in Zak van Straaten (ed.), *Philosophical Subjects: Essays Presented to P.F. Strawson*, Oxford: Clarendon Press, pp. 76–116.
 * Gatzia, Dimitria Electra, 2007, *Color Fictionalism: Color Discourse Without Colors*, Ph. D. Dissertation, Syracuse University, Ann Arbor: ProQuest, UMI Number: 3281757.
 * –––, 2008 [2015], “Fictional Colors”, *Sorites*, 21: 37–51. (issue date is 2008 but was not published until 2015) [[Gatzia 2008 [2015] available online](http://www.sorites.org/issues.htm)]
-* Gert, Joshua, 2006, “A Realistic Colour Realism”, *Australasian Journal of Philosophy*, 84(4): 565–589. doi:10.1080/00048400601079128
-* –––, 2008, “What Colors Could Not Be: An Argument for Color Primitivism”, *The Journal of Philosophy*, 105(3): 128–155. doi:10.5840/jphil200810532
-* Glüer, Kathrin, 2009, “In Defence of a Doxastic Account of Experience”, *Mind and Language*, 24(3): 297–373. doi:10.1111/j.1468-0017.2009.01364.x
+* Gert, Joshua, 2006, “A Realistic Colour Realism”, *Australasian Journal of Philosophy*, 84(4): 565–589. doi: 10.1080/00048400601079128
+* –––, 2008, “What Colors Could Not Be: An Argument for Color Primitivism”, *The Journal of Philosophy*, 105(3): 128–155. doi: 10.5840/jphil200810532
+* Glüer, Kathrin, 2009, “In Defence of a Doxastic Account of Experience”, *Mind and Language*, 24(3): 297–373. doi: 10.1111/j.1468-0017.2009.01364.x
 * –––, 2012, “Colors and the Content of Color Experience”, *Croatian Journal of Philosophy*, 12(3): 421–438.
 * Hacker, P.M.S., 1987, *Appearance and Reality: A Philosophical Investigation Into Perception and Perceptual Qualities*, Oxford: Blackwell Publisher.
 * Hardin, C.L., 1988 [1993], *Color for Philosophers: Unweaving the Rainbow*, Indianapolis: Hackett.
-* –––, 1992, “The Virtues of Illusion”, *Philosophical Studies*, 68(3): 371–382. doi:10.1007/BF00694852
-* –––, 2003, “A Spectral Reflectance Doth Not a Color Make”, *The Journal of Philosophy*, 100(4): 191–202. doi:10.5840/jphil2003100420
-* –––, 2004, “A Green Thought in a Green Shade”, *Harvard Review of Philosophy*, 12(1): 29–39. doi:10.5840/harvardreview20041212
+* –––, 1992, “The Virtues of Illusion”, *Philosophical Studies*, 68(3): 371–382. doi: 10.1007/BF00694852
+* –––, 2003, “A Spectral Reflectance Doth Not a Color Make”, *The Journal of Philosophy*, 100(4): 191–202. doi: 10.5840/jphil2003100420
+* –––, 2004, “A Green Thought in a Green Shade”, *Harvard Review of Philosophy*, 12(1): 29–39. doi: 10.5840/harvardreview20041212
 * –––, 2008, “Color Qualities and the Physical World”, in E. Wright 2008: 143–154.
-* –––, 2014, “More Color Science for Philosophers”, in Stokes, Matthen, and Biggs 2014: 379–390. doi:10.1093/acprof:oso/9780199832798.003.0016
-* Harman, Gilbert, 1996 [1997], “Explaining Objective Color in Terms of Subjective Reactions”, *Philosophical Issues*, 7: 1–17. Reprinted in Byrne & Hilbert 1997a: 247–262. doi:10.2307/1522888
+* –––, 2014, “More Color Science for Philosophers”, in Stokes, Matthen, and Biggs 2014: 379–390. doi: 10.1093/acprof: oso/9780199832798.003.0016
+* Harman, Gilbert, 1996 [1997], “Explaining Objective Color in Terms of Subjective Reactions”, *Philosophical Issues*, 7: 1–17. Reprinted in Byrne & Hilbert 1997a: 247–262. doi: 10.2307/1522888
 * Harrison, Bernard T., 1973, *Form and Content*, Oxford: Blackwell.
 * Hering, Ewald, 1920 [1964], *Outlines of a Theory of the Light Sense* (*Grundzüge der Lehre vom Lichtsinn*), L. Hurvich and D. Jameson (trans.), Cambridge, MA: Harvard University Press.
 * Hilbert, David R., 1987, *Color and Color Perception: A Study in Anthropocentric Realism*, Stanford, CA: CSLI Publications.
 * Hume, David, 1738 [1911], *Treatise of Human Nature*, A. D. Lindsay (ed.), London: Dent.
-* Jackson, Frank, 1996, “The Primary Quality View of Color”, *Philosophical Perspectives*, 10: 199–219. doi:10.2307/2216244
-* –––, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon. doi:10.1093/0198250614.001.0001
+* Jackson, Frank, 1996, “The Primary Quality View of Color”, *Philosophical Perspectives*, 10: 199–219. doi: 10.2307/2216244
+* –––, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon. doi: 10.1093/0198250614.001.0001
 * –––, 2000, “Philosophising about Color”, in Davis 2000: 152–162.
-* –––, 2007, “Colour for Representationalists”, *Erkenntinis*, 66(1–2): 169–185. doi:10.1007/s10670-006-9031-0
+* –––, 2007, “Colour for Representationalists”, *Erkenntinis*, 66(1–2): 169–185. doi: 10.1007/s10670-006-9031-0
 * Jackson, Frank and Robert Pargetter, 1987, “An Objectivist’s Guide to Subjectivism About Color”, *Revue Internationale de Philosophie*, 41(160): 129–41.
 * Jameson, Kimberly A., 2010, “Where in the World Color Survey is the Support for Color Categorization Based on the Hering Primaries?”, in Cohen & Matthen 2010: 179–202.
-* Johnston, Mark, 1992 [1997], “How to Speak of the Colors”, *Philosophical Studies*, 68(3): 221–263. Reprinted in Byrne & Hilbert 1997a: 137–176. doi:10.1007/BF00694847
-* –––, 1998, “Are Manifest Qualities Response-Dependent?”, *The Monist*, 81(1): 3–43. doi:10.5840/monist199881110
+* Johnston, Mark, 1992 [1997], “How to Speak of the Colors”, *Philosophical Studies*, 68(3): 221–263. Reprinted in Byrne & Hilbert 1997a: 137–176. doi: 10.1007/BF00694847
+* –––, 1998, “Are Manifest Qualities Response-Dependent?”, *The Monist*, 81(1): 3–43. doi: 10.5840/monist199881110
 * Kaiser Peter K. and Robert M. Boynton, 1996, *Human Color Vision*, second edition, Washington, DC: Optical Society of America.
-* Kalderon, Mark Eli, 2007, “Color Pluralism”, *Philosophical Review*, 116(4): 563–601. doi:10.1215/00318108-2007-014
-* –––, 2011, “Color Illusion”, *Noûs*, 45(4): 751–775. doi:10.1111/j.1468-0068.2010.00781.x
-* Kingdom, Frederick A.A., 2003, “Colour Vision Brings Relief to Human Vision”, *Nature Neuroscience*, 6(6): 641–644. doi:10.1038/nn1060
-* Kingdom, Frederick A.A., Catherine Beauce, and Lyndsay Hunter, 2004 “Colour Vision Brings Clarity to Shadows”, *Perception*, 33(8): 907–914. doi:10.1068/p5264
+* Kalderon, Mark Eli, 2007, “Color Pluralism”, *Philosophical Review*, 116(4): 563–601. doi: 10.1215/00318108-2007-014
+* –––, 2011, “Color Illusion”, *Noûs*, 45(4): 751–775. doi: 10.1111/j.1468-0068.2010.00781.x
+* Kingdom, Frederick A.A., 2003, “Colour Vision Brings Relief to Human Vision”, *Nature Neuroscience*, 6(6): 641–644. doi: 10.1038/nn1060
+* Kingdom, Frederick A.A., Catherine Beauce, and Lyndsay Hunter, 2004 “Colour Vision Brings Clarity to Shadows”, *Perception*, 33(8): 907–914. doi: 10.1068/p5264
 * Kuehni, Rolf G., 1997 *Color: An Introduction to Practice and Principles*, New York: J. Wiley and Sons.
 * –––, 2001, “Determination of Unique Hues Using Munsell Color Chips” *Color Research and Application*, 26: 61–66.
 * –––, 2003, *Color Space and its Divisions: Color Order from Antiquity to the Present*, Hoboken, NJ: Wiley.
 * –––, 2005, *Color: An Introduction to Practice and Principles*, second edition, Hoboken, NJ: Wiley.
 * –––, 2010, “Color Spaces and Color Order Systems: A Primer”, in Cohen & Matthen 2010: 3–36.
-* Kuehni, Rolf G. and C.L. Hardin, 2010, “Churchland’s Metamers”, *British Journal for the Philosophy of Science*, 61(1): 81–92. doi:10.1093/bjps/axp021
+* Kuehni, Rolf G. and C.L. Hardin, 2010, “Churchland’s Metamers”, *British Journal for the Philosophy of Science*, 61(1): 81–92. doi: 10.1093/bjps/axp021
 * Land, Edwin H., 1983, “Recent Advances in Retinex Theory and Some Implications for Cortical Computations: Color Vision and the Natural Image”, *Proceedings of the National Academy of Sciences*, 80(16): 5163–9.
 * Landesman, Charles, 1989, *Color and Consciousness: An Essay in Metaphysics*, Philadelphia: Temple University Press.
-* Levin, J., 2000: “Dispositional Theories of Color and the Claims of Common Sense”, *Philosophical Studies*, 100(2): 151–174. doi:10.1023/A:1018660204635
-* Lewis, David, 1997, “Naming the Colours”, *Australasian Journal of Philosophy*, 75(3): 325–342. doi:10.1080/00048409712347931
+* Levin, J., 2000: “Dispositional Theories of Color and the Claims of Common Sense”, *Philosophical Studies*, 100(2): 151–174. doi: 10.1023/A: 1018660204635
+* Lewis, David, 1997, “Naming the Colours”, *Australasian Journal of Philosophy*, 75(3): 325–342. doi: 10.1080/00048409712347931
 * Livingstone, Margaret, 2002, *Vision and Art: The Biology of Seeing*, New York: Harry N. Abrams.
 * Locke, John, 1706 [1961], *An Essay Concerning Human Understanding*, John Yolton (ed.), London: Dent.
-* MacAdam, David L., 1985, “The Physical Basis of Color Specification”, in his *Color Measurement: Theme and Variations*, second edition, Berlin: Springer-Verlag, pp. 1–25. doi:10.1007/978-3-540-38681-0_1
+* MacAdam, David L., 1985, “The Physical Basis of Color Specification”, in his *Color Measurement: Theme and Variations*, second edition, Berlin: Springer-Verlag, pp. 1–25. doi: 10.1007/978-3-540-38681-0_1
 * MacLeod, Donald I.A., 2010, “Into the Neural Maze”, in Cohen & Matthen 2010: 151–178.
-* Martin, M.G.F., 2002, “The Transparency of Experience”, *Mind and Language*, 17(4): 376–425. doi:10.1111/1468-0017.00205
-* –––, 2010, “What’s in a Look?”, in Nanay 2010: 160–225. doi:10.1093/acprof:oso/9780195386196.003.0008
-* Matthen, Mohan, 1988, “Biological Function and Perceptual Content”, *The Journal of Philosophy*, 85(1): 5–27. doi:10.2307/2026898
-* –––, 2000 “The Disunity of Color”, *Philosophical Review*, 108(1): 47–84. doi:10.2307/2998260
-* –––, 2005, *Seeing, Doing and Knowing: A Philosophical Theory of Sense Perception*, Oxford: Oxford University Press. doi:10.1093/0199268509.001.0001
-* –––, 2010, “How Things Look (and What Things Look That Way)”, in Nanay 2010: 226–253. doi:10.1093/acprof:oso/9780195386196.003.0009
+* Martin, M.G.F., 2002, “The Transparency of Experience”, *Mind and Language*, 17(4): 376–425. doi: 10.1111/1468-0017.00205
+* –––, 2010, “What’s in a Look?”, in Nanay 2010: 160–225. doi: 10.1093/acprof: oso/9780195386196.003.0008
+* Matthen, Mohan, 1988, “Biological Function and Perceptual Content”, *The Journal of Philosophy*, 85(1): 5–27. doi: 10.2307/2026898
+* –––, 2000 “The Disunity of Color”, *Philosophical Review*, 108(1): 47–84. doi: 10.2307/2998260
+* –––, 2005, *Seeing, Doing and Knowing: A Philosophical Theory of Sense Perception*, Oxford: Oxford University Press. doi: 10.1093/0199268509.001.0001
+* –––, 2010, “How Things Look (and What Things Look That Way)”, in Nanay 2010: 226–253. doi: 10.1093/acprof: oso/9780195386196.003.0009
 * Maund, (John) Barry, 1991, “The Nature of Color”, *History of Philosophy Quarterly*, 8(3): 253–63.
 * –––, 1995, *Colors: Their Nature and Representation*, Cambridge: Cambridge University Press.
-* –––, 2006, “The Illusion Theory of Colours: An Anti-Realist Theory”, *Dialectica*, 60(3): 245–268. doi:10.1111/j.1746-8361.2006.01058.x
+* –––, 2006, “The Illusion Theory of Colours: An Anti-Realist Theory”, *Dialectica*, 60(3): 245–268. doi: 10.1111/j.1746-8361.2006.01058.x
 * –––, 2008, “A Defence of Qualia in the Strong Sense”, in E. Wright 2008: 269–284.
 * –––, 2011, “Color Eliminativism”, in Nolan 2011a: 362–385.
 * –––, 2012, “Colour Relationalism and Colour Irrealism/Eliminativism/Fictionalism”, *Croatian Journal of Philosophy*, 12(3): 379–398.
 * Mausfeld, Rainer, 2010, “Color within an Internalise Framework: The Role of ‘Color’ in the Structure of the Perceptual System”, in Cohen & Matthen 2010: 123–147.
-* Mausfeld, Rainer and Dieter Heyer (eds), 2003, *Colour Perception: Mind and the Physical World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198505006.001.0001
-* Maxwell, James Clerk, 1871 [1970], “On Colour Vision”, *Nature*, 4(79): 13–16. Reprinted in David L. MacAdam, (ed.), *Sources of Color Science*, Cambridge, MA: MIT Press, pp. 75–83. doi:10.1038/004013b0
+* Mausfeld, Rainer and Dieter Heyer (eds), 2003, *Colour Perception: Mind and the Physical World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198505006.001.0001
+* Maxwell, James Clerk, 1871 [1970], “On Colour Vision”, *Nature*, 4(79): 13–16. Reprinted in David L. MacAdam, (ed.), *Sources of Color Science*, Cambridge, MA: MIT Press, pp. 75–83. doi: 10.1038/004013b0
 * McDowell, John, 1985, “Values and Secondary Qualities”, in Ted Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge and Kegan Paul, pp. 110–127.
 * –––, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* McGilvray, James A., 1994, “Constant Colors in the Head”, *Synthese*, 100(2): 197–239. doi:10.1007/BF01063810
+* McGilvray, James A., 1994, “Constant Colors in the Head”, *Synthese*, 100(2): 197–239. doi: 10.1007/BF01063810
 * McGinn, Colin, 1983, *The Subjective View*, Oxford: Clarendon Press.
-* –––, 1996, “Another Look at Color”, *The Journal of Philosophy*, 93(11): 537–555. doi:10.2307/2941048
+* –––, 1996, “Another Look at Color”, *The Journal of Philosophy*, 93(11): 537–555. doi: 10.2307/2941048
 * McLaughlin, Brian P., 2003, “The Place of Colour in Nature”, in Mausfeld & Heyer 2003: 475–502.
 * Mendelovici, Angela, 2016, “Why Tracking Theories Should Allow for Clean Cases of Reliable Misrepresentation”, *Disputatio*, 8(42): 57–92. [[Mendelovici 2016 available online](http://www.disputatio.letras.ulisboa.pt/wp-content/uploads/2016/05/Mendelovici_Why-tracking-theories-should-allow-for-clean-cases-of-reliable-misrepresentation.pdf)]
 * –––, forthcoming, “Olfactory Experience, Content, and Justification”, in Berit Brogaard and Dimitria Gatzia (eds.), *The Rational Roles of Perceptual Experience: Beyond Vision*, New York: Oxford University Press.
-* Mizrahi, Vivian, 2006, “Color Objectivism and Color Pluralism”, *Dialectica*, 60(3): 283–306. doi:10.1111/j.1746-8361.2006.01070.x
-* Nanay, Bence (ed.), 2010, *Perceiving the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195386196.001.0001
+* Mizrahi, Vivian, 2006, “Color Objectivism and Color Pluralism”, *Dialectica*, 60(3): 283–306. doi: 10.1111/j.1746-8361.2006.01070.x
+* Nanay, Bence (ed.), 2010, *Perceiving the World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195386196.001.0001
 * Nassau, Kurt, 1983, *The Physics and Chemistry of Color: The Fifteen Causes of Color*, New York: Wiley.
-* Nida-Rumelin, Martine, 2006, “A Puzzle About Colors”, *Dialectica*, 60(3): 321–336. doi:10.1111/j.1746-8361.2006.01071.x
+* Nida-Rumelin, Martine, 2006, “A Puzzle About Colors”, *Dialectica*, 60(3): 321–336. doi: 10.1111/j.1746-8361.2006.01071.x
 * Noë, Alva, 2004, *Action in Perception*, Cambridge, MA: MIT Press.
-* Nolan, Lawrence (ed.), 2011a, *Primary and Secondary Qualities: The Historical and Ongoing Debate*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199556151.001.0001
+* Nolan, Lawrence (ed.), 2011a, *Primary and Secondary Qualities: The Historical and Ongoing Debate*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199556151.001.0001
 * –––, 2011b, “Descartes on ‘What We Call Color’”, in Nolan 2011a: 81–108.
 * Palmer, Stephen K., 1999, *Vision Science: Photons to Phenomenology*, Cambridge, MA: MIT Press.
-* Pautz, Adam, 2006, “Can the Physicalist Explain Colour Structure in Terms of Colour Experience?”, *Australasian Journal of Philosophy*, 84(4): 535–564. doi:10.1080/00048400601079094
-* Peacocke, Christopher, 1984 [1997], “Colour Concepts and Colour Experience”, *Synthese*, 58(3): 365–381. Reprinted in Byrne & Hilbert 1997a: 51–66. doi:10.1007/BF00485247
+* Pautz, Adam, 2006, “Can the Physicalist Explain Colour Structure in Terms of Colour Experience?”, *Australasian Journal of Philosophy*, 84(4): 535–564. doi: 10.1080/00048400601079094
+* Peacocke, Christopher, 1984 [1997], “Colour Concepts and Colour Experience”, *Synthese*, 58(3): 365–381. Reprinted in Byrne & Hilbert 1997a: 51–66. doi: 10.1007/BF00485247
 * Reid, Thomas, 1764 [1970], *An Inquiry Into the Human Mind on the Principles of Common Sense*, Reprinted, Timothy Duggan (ed.), Chicago: Chicago University Press, 1970.
-* Ross, Peter W., 2001, “The Location Problem for Color Subjectivism”, *Consciousness and Cognition*, 10(1): 42–58. doi:10.1006/ccog.2000.0473
+* Ross, Peter W., 2001, “The Location Problem for Color Subjectivism”, *Consciousness and Cognition*, 10(1): 42–58. doi: 10.1006/ccog.2000.0473
 * Russell, Bertrand, 1912, *The Problems of Philosophy*, London: Oxford University Press.
-* Searle, John, 2015, *Seeing Things as They Are: A Theory of Perception*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199385157.001.0001
-* Shoemaker, Sydney, 1994 [1997], “Phenomenal Character”, *Noûs*, 28(1): 21–38. Reprinted in Byrne & Hilbert 1997a: 227–246. doi:10.2307/2215918
-* Silva, Marcos, 2017, *How Colours Matter to Philosophy*, Cham: Springer. doi:10.1007/978-3-319-67398-1
-* Snowdon, Paul, 1981, “Perception, Vision and Causation”, *Proceedings of The Aristotelian Society*, 81(1): 175–192. doi:10.1093/aristotelian/81.1.175
-* Stokes Dustin, Mohan Matthen, and Stephen Biggs (eds), 2014, *Perception and Its Modalities*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199832798.001.0001
-* Strawson, Galen, 1989, “Red and ‘Red’”, *Synthese*, 78(2): 193–232. doi:10.1007/BF00869372
-* Stroud, B., 2000, *The Quest for Reality: Subjectivism and the Metaphysics of Colour*, New York: Oxford University Press. doi:10.1093/0195151887.001.0001
+* Searle, John, 2015, *Seeing Things as They Are: A Theory of Perception*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199385157.001.0001
+* Shoemaker, Sydney, 1994 [1997], “Phenomenal Character”, *Noûs*, 28(1): 21–38. Reprinted in Byrne & Hilbert 1997a: 227–246. doi: 10.2307/2215918
+* Silva, Marcos, 2017, *How Colours Matter to Philosophy*, Cham: Springer. doi: 10.1007/978-3-319-67398-1
+* Snowdon, Paul, 1981, “Perception, Vision and Causation”, *Proceedings of The Aristotelian Society*, 81(1): 175–192. doi: 10.1093/aristotelian/81.1.175
+* Stokes Dustin, Mohan Matthen, and Stephen Biggs (eds), 2014, *Perception and Its Modalities*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199832798.001.0001
+* Strawson, Galen, 1989, “Red and ‘Red’”, *Synthese*, 78(2): 193–232. doi: 10.1007/BF00869372
+* Stroud, B., 2000, *The Quest for Reality: Subjectivism and the Metaphysics of Colour*, New York: Oxford University Press. doi: 10.1093/0195151887.001.0001
 * Thompson, Evan, 1995, *Colour Vision: A Study in Cognitive Science and the Philosophy of Perception*, London: Routledge.
 * –––, 2000, “Comparative Color Vision: Quality Space and Visual Ecology”, in Davis 2000: 163–186.
-* Travis, Charles, 2004, “Silence of the Senses”, *Mind*, 113(449): 57–94. doi:10.1093/mind/113.449.57
+* Travis, Charles, 2004, “Silence of the Senses”, *Mind*, 113(449): 57–94. doi: 10.1093/mind/113.449.57
 * Tye, Michael, 2000, *Consciousness, Color, and Content*, Cambridge, MA: MIT/Bradford.
-* –––, 2006a, “The Puzzle of True Blue”, *Analysis*, 66(3): 173–178. doi:10.1093/analys/66.3.173
-* –––, 2006b, “The Truth About True Blue”, *Analysis*, 66(4): 340–344. doi:10.1093/analys/66.4.340
-* –––, 2007, “True Blue Redux”, *Analysis*, 67(1): 92–93. doi:10.1093/analys/67.1.92
-* Van Brakel, J., 1993, “The Plasticity of Categories: The Case of Colour”, *British Journal for the Philosophy of Science*, 44(1): 103–135. doi:10.1093/bjps/44.1.103
-* Watkins, Michael, 2005, “Seeing Red: the Metaphysics of Colours Without the Physics”, *Australasian Journal of Philosophy*, 83(1): 33–52. doi:10.1080/00048400500043936
-* Westphal, Jonathan, 1991, *Colour: A Philosophical Introduction*, second edition, Oxford: Blackwell Publisher. doi:10.1002/col.5080180117
-* –––, 2003, “Conflicting Appearances, Necessity and the Irreducibility of Propositions About Colours”, *Proceedings of the Aristotelian Society*, 105(1): 235–251. doi:10.1111/j.0066-7373.2004.00112.x
+* –––, 2006a, “The Puzzle of True Blue”, *Analysis*, 66(3): 173–178. doi: 10.1093/analys/66.3.173
+* –––, 2006b, “The Truth About True Blue”, *Analysis*, 66(4): 340–344. doi: 10.1093/analys/66.4.340
+* –––, 2007, “True Blue Redux”, *Analysis*, 67(1): 92–93. doi: 10.1093/analys/67.1.92
+* Van Brakel, J., 1993, “The Plasticity of Categories: The Case of Colour”, *British Journal for the Philosophy of Science*, 44(1): 103–135. doi: 10.1093/bjps/44.1.103
+* Watkins, Michael, 2005, “Seeing Red: the Metaphysics of Colours Without the Physics”, *Australasian Journal of Philosophy*, 83(1): 33–52. doi: 10.1080/00048400500043936
+* Westphal, Jonathan, 1991, *Colour: A Philosophical Introduction*, second edition, Oxford: Blackwell Publisher. doi: 10.1002/col.5080180117
+* –––, 2003, “Conflicting Appearances, Necessity and the Irreducibility of Propositions About Colours”, *Proceedings of the Aristotelian Society*, 105(1): 235–251. doi: 10.1111/j.0066-7373.2004.00112.x
 * Wittgenstein, Ludwig, 1977, *Remarks on Colour* (*Bemerkungen über die Farben*), edited by G.E.M. Anscombe, Oxford: Blackwell.
 * Wright, Edmond (ed.), 2008, *The Case for Qualia*, Cambridge, MA: MIT Press.
-* Wright, Wayne, 2013, “Color Constancy Reconsidered”, *Acta Analytica*, 28(4): 435–455. doi:10.1007/s12136-013-0187-3
-* Yablo, Stephen, 1995, “Singling Out Properties”, *Philosophical Perspectives*, 9: 477–502. doi:10.2307/2214231
-* –––, 2003, “Causal Relevance”, *Philosophical Issues*, 13(1): 316–328. doi:10.1111/1533-6077.00016
-* Zeki, S., 1983 “Colour Coding in the Cerebral Cortex: The reaction of cells in monkey visual cortex to wavelengths and colours”, *Neuroscience*, 9(4): 741–81. doi:10.1016/0306-4522(83)90265-8
+* Wright, Wayne, 2013, “Color Constancy Reconsidered”, *Acta Analytica*, 28(4): 435–455. doi: 10.1007/s12136-013-0187-3
+* Yablo, Stephen, 1995, “Singling Out Properties”, *Philosophical Perspectives*, 9: 477–502. doi: 10.2307/2214231
+* –––, 2003, “Causal Relevance”, *Philosophical Issues*, 13(1): 316–328. doi: 10.1111/1533-6077.00016
+* Zeki, S., 1983 “Colour Coding in the Cerebral Cortex: The reaction of cells in monkey visual cortex to wavelengths and colours”, *Neuroscience*, 9(4): 741–81. doi: 10.1016/0306-4522(83)90265-8
 
 ## Academic Tools
 

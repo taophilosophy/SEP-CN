@@ -152,7 +152,7 @@ Friedman (1970)认为，例如，股东对公司的所有权赋予他们控制�
 
 在雇佣和解雇中的伦理问题往往集中在一个问题上：雇主在雇佣决策中应该使用什么标准，或不应该使用什么标准？雇主不应该使用什么标准的问题在讨论歧视问题时得到了解答。
 
-有关雇佣中是否应该在法律上禁止歧视存在一些争议（见 Epstein 1992），几乎所有人都同意这是道德上错误的（Hellman 2008；Lippert-Rasmussen 2014）。讨论主要集中在两个问题上。首先，何时使用某一标准作为雇佣决定的依据算是歧视？如果沃尔玛排除白人申请人在他们的营销部门工作，似乎是错误的，但如果霍维剧团排除白人申请人扮演《阳光下的葡萄干》中的沃尔特·杨格角色，似乎就不算是错误。我们可能会说，一个雇佣做法是否歧视取决于所使用的标准是否与工作相关。但“反应资格”的案例显示，工作相关性的概念是有争议的。假设白人食客更喜欢由白人服务员而不是黑人服务员招待。在这种情况下，种族似乎是与工作相关的，但雇主考虑种族似乎是错误的（Mason 2017）。另一个受到广泛关注的问题是：什么使歧视成为错误？一些人认为歧视之所以错误是因为它对受歧视者的影响（Lippert-Rasmussen 2014）；另一些人认为歧视之所以错误是因为它向他们表达了什么（Hellman 2008）。 （有关广泛讨论，请参阅歧视词条。）
+有关雇佣中是否应该在法律上禁止歧视存在一些争议（见 Epstein 1992），几乎所有人都同意这是道德上错误的（Hellman 2008；Lippert-Rasmussen 2014）。讨论主要集中在两个问题上。首先，何时使用某一标准作为雇佣决定的依据算是歧视？如果沃尔玛排除白人申请人在他们的营销部门工作，似乎是错误的，但如果霍维剧团排除白人申请人扮演《阳光下的葡萄干》中的沃尔特 · 杨格角色，似乎就不算是错误。我们可能会说，一个雇佣做法是否歧视取决于所使用的标准是否与工作相关。但“反应资格”的案例显示，工作相关性的概念是有争议的。假设白人食客更喜欢由白人服务员而不是黑人服务员招待。在这种情况下，种族似乎是与工作相关的，但雇主考虑种族似乎是错误的（Mason 2017）。另一个受到广泛关注的问题是：什么使歧视成为错误？一些人认为歧视之所以错误是因为它对受歧视者的影响（Lippert-Rasmussen 2014）；另一些人认为歧视之所以错误是因为它向他们表达了什么（Hellman 2008）。 （有关广泛讨论，请参阅歧视词条。）
 
 有些作家认为，雇主的义务并不仅仅是通过避免在招聘决策中使用某些标准来满足。根据他们的观点，雇主有责任雇佣最合格的申请人。一些人通过诉诸于应得考量（D. Miller 1999; Mulligan 2018）来证明这一义务；另一些人则通过平等机会来证明这一义务（Mason 2006）。我们可能反对这种观点，通过诉诸于财产权来反对。一份工作提议通常意味着承诺支付接受工作的人一笔报酬以执行某些任务。虽然我们可能认为排除某些你可以处理财产的方式（例如，招聘中的歧视规定）是可以被证明的，但我们可能认为排除除了一个方式之外的所有方式（即，要求雇佣最合格的申请人）是不合理的。为了支持这一观点，我们可能认为，一位小企业主将女儿雇佣为兼职工作而不是更合格的陌生人时，并没有做错什么。
 
@@ -166,7 +166,7 @@ Friedman (1970)认为，例如，股东对公司的所有权赋予他们控制�
 
 工资的第二种观点可以称为“贡献观”。根据这一观点，工人的公正工资是反映其对公司贡献的工资。这一观点有两个版本。在绝对版本中，工人应该获得与他们对公司贡献价值相等的报酬（D. Miller 1999）。在比较版本中，工人应该获得与他们对公司贡献的相对价值相符的报酬，考虑到公司其他人的贡献和报酬（Sternberg 2000）。贡献观被一些人视为规范基础，这是一个无需进一步论证的观点（D. Miller 1999）。可以类比惩罚。正如犯罪分子的惩罚严重程度反映其犯罪的严重性似乎直观上是正确的，因此一个人的工资价值反映其工作价值似乎也是直观上正确的（Moriarty 2016）。这样，工资可以被理解为对工作的奖励。
 
-有人认为，补偿应该被评估为一种激励，而不仅仅是一个公正的问题。这里的问题是什么样的薪酬能够鼓励员工做什么，以及如何鼓励他们这样做。据认为，金融服务行业交易员的薪酬结构不合理被认为是导致了 2007-2009 年金融危机的原因（Kolb 2012）。交易员被激励去进行过度风险的投注，当这些投注失败时，他们的公司无法承担损失，使公司最终整个金融系统陷入危险之中。不良的激励也可能有助于解释近期威尔斯·法戈银行的解释欺诈丑闻。
+有人认为，补偿应该被评估为一种激励，而不仅仅是一个公正的问题。这里的问题是什么样的薪酬能够鼓励员工做什么，以及如何鼓励他们这样做。据认为，金融服务行业交易员的薪酬结构不合理被认为是导致了 2007-2009 年金融危机的原因（Kolb 2012）。交易员被激励去进行过度风险的投注，当这些投注失败时，他们的公司无法承担损失，使公司最终整个金融系统陷入危险之中。不良的激励也可能有助于解释近期威尔斯 · 法戈银行的解释欺诈丑闻。
 
 任何员工的薪酬都可以从道德角度进行评估。但商业伦理学家特别关注某些员工的薪酬，即首席执行官和发展中国家工厂工人，通常被称为“血汗工厂”。
 
@@ -190,13 +190,13 @@ Friedman (1970)认为，例如，股东对公司的所有权赋予他们控制�
 
 ### 6.4 吹哨者
 
-假设您像泰勒·舒尔茨在 2015 年在 Theranos 发现的那样，发现您的公司在其产品的功效方面欺骗监管机构和投资者。为了阻止这种情况，您可能会做的一件事是通过向第三方披露这些信息来“吹哨”。虽然学者们对吹哨行为给出了不同的定义（参见，例如，Brenkert 2010; Davis 2003; DeGeorge 2009; Delmas 2015），但通常包括以下要素：（1）内部人员身份，（2）非公开信息，（3）非法或不道德活动，（4）避免公司通常的指挥链，（5）解决问题的意图。在上述例子中，舒尔茨是一名吹哨者，因为他是（1）Theranos 的员工（2）披露了非公开信息（3）关于公司的非法活动（4）给一个州监管机构（5）以阻止该活动。
+假设您像泰勒 · 舒尔茨在 2015 年在 Theranos 发现的那样，发现您的公司在其产品的功效方面欺骗监管机构和投资者。为了阻止这种情况，您可能会做的一件事是通过向第三方披露这些信息来“吹哨”。虽然学者们对吹哨行为给出了不同的定义（参见，例如，Brenkert 2010; Davis 2003; DeGeorge 2009; Delmas 2015），但通常包括以下要素：（1）内部人员身份，（2）非公开信息，（3）非法或不道德活动，（4）避免公司通常的指挥链，（5）解决问题的意图。在上述例子中，舒尔茨是一名吹哨者，因为他是（1）Theranos 的员工（2）披露了非公开信息（3）关于公司的非法活动（4）给一个州监管机构（5）以阻止该活动。
 
 关于举报的辩论往往集中在举报何时是正当的问题——即何时是允许的，或何时是必要的。这场辩论假定举报需要理由，或者在其他条件相等的情况下是错误的。许多商业伦理学家基于员工对公司的一项义务忠诚（Elegido 2013）而做出这种假设。相反，一些人认为公司和员工之间的关系纯粹是交易性的——金钱换取劳动（Duska 2000）——因此在规范上不足以构成忠诚义务。（有关此问题的讨论，请参见忠诚条目。）
 
-DeGeorge (2009)提出的举报的一个显著理由是，当员工这样做可以防止对社会造成伤害时，举报是被允许的。(在类似的观点中，Brenkert [2010]表示，举报的责任源自于防止不端行为的责任。) 防止伤害的责任如果伤害足够严重，可能比忠诚的责任更重要。为了确定举报不仅仅是被允许的，而是必须的，DeGeorge 表示，我们必须考虑举报的可能成功性以及对举报者本人的影响。人类是部落性动物，举报者经常受到同事的不公正对待。(Shultz 及其家人被 Theranos 强大而有影响力的律师们追捕，给他们造成了数十万美元的费用。) 因此，如果举报不太可能成功，那么就没有必要尝试。在这些情况下没有道德要求举报可以被视为一个具体例子，即个人无需做出巨大的个人牺牲来促进他人的利益，即使这些利益很重要。
+DeGeorge (2009)提出的举报的一个显著理由是，当员工这样做可以防止对社会造成伤害时，举报是被允许的。(在类似的观点中，Brenkert [2010] 表示，举报的责任源自于防止不端行为的责任。) 防止伤害的责任如果伤害足够严重，可能比忠诚的责任更重要。为了确定举报不仅仅是被允许的，而是必须的，DeGeorge 表示，我们必须考虑举报的可能成功性以及对举报者本人的影响。人类是部落性动物，举报者经常受到同事的不公正对待。(Shultz 及其家人被 Theranos 强大而有影响力的律师们追捕，给他们造成了数十万美元的费用。) 因此，如果举报不太可能成功，那么就没有必要尝试。在这些情况下没有道德要求举报可以被视为一个具体例子，即个人无需做出巨大的个人牺牲来促进他人的利益，即使这些利益很重要。
 
-戴维斯（2003）提出了另一种关于吹哨的说法。与布伦克特（Brenkert）（不同于德乔治（DeGeorge））一样，戴维斯关注的是公司所涉及的不端行为（而不是其造成的伤害）。然而，根据戴维斯的观点，吹哨的重点并不是为了阻止不端行为，而是为了避免自己参与其中。他说，当员工相信公司正在从事严重错误行为，并且她为公司工作“将会对错误行为做出贡献……如果……[她]不公开揭示[她所知道的]”时，她就必须向公司吹哨（2003: 550）。戴维斯的说法将吹哨者限制在目前是公司内部人员的人群。许多人认为这是违反直觉的，因为这意味着通常被描述为吹哨者的人，如杰弗里·威根德（布朗与威廉森公司）和爱德华·斯诺登（NSA），实际上并不是吹哨者。
+戴维斯（2003）提出了另一种关于吹哨的说法。与布伦克特（Brenkert）（不同于德乔治（DeGeorge））一样，戴维斯关注的是公司所涉及的不端行为（而不是其造成的伤害）。然而，根据戴维斯的观点，吹哨的重点并不是为了阻止不端行为，而是为了避免自己参与其中。他说，当员工相信公司正在从事严重错误行为，并且她为公司工作“将会对错误行为做出贡献……如果……[她] 不公开揭示 [她所知道的]”时，她就必须向公司吹哨（2003: 550）。戴维斯的说法将吹哨者限制在目前是公司内部人员的人群。许多人认为这是违反直觉的，因为这意味着通常被描述为吹哨者的人，如杰弗里 · 威根德（布朗与威廉森公司）和爱德华 · 斯诺登（NSA），实际上并不是吹哨者。
 
 ## 伦理学中的公司
 
@@ -230,7 +230,7 @@ CSR 的学术文献主要由社会科学家主导。他们的问题通常是企�
 
 但是，公司的政治活动受到了批评。 一些关注点集中在公司的目标上。 一些人担心公司从事 CPA 是为了在损害竞争对手或公众利益的情况下推进自己的利益。 这种活动有时被描述并谴责为“寻租”（Jaworski 2014; Tullock 1989）。 人们对寻租的性质和价值提出了质疑。 根据一个常见的定义，寻租是指社会上浪费的经济活动，旨在从国家而不是市场获益。 但人们对什么算是浪费存在分歧。 游说争取补贴，或对外国竞争对手征收关税，是寻租的典型案例。 但是，例如为玉米提供补贴可能有助于确保一个国家的粮食供应，而对外国钢铁制造商征收关税可能有助于一个国家在战争时期保护自己（Boatright 2009; Hindmoor 1999）。 一个人的私人寻租可能是另一个人的公共利益。
 
-CPA 的第二个关注点是它可能会削弱民主核心的平等理念（Christiano 2010）。一些公司拥有大量资金，这可能转化为大量权力。2010 年，印第安纳州通过了一项法律——宗教自由恢复法案（RFRA），似乎给予雇主在宗教立场上歧视 LGBTQ 人的自由。作为回应，Salesforce 和 Angie's List 取消了在该州扩张的计划，并威胁要完全离开。印第安纳州迅速召开了立法机构的特别会议，并宣布新法实际上并未赋予雇主这种自由。相比之下，如果普通的印第安纳人告诉立法机构他们可能因为 RFRA 而离开该州，立法机构是不会在意的。对 CPA 的这一反对也是对像全国步枪协会（NRA）或美国公民自由联盟（ACLU）这样的强大团体以及像查尔斯·科赫（Charles Koch）或汤姆·斯泰尔（Tom Steyer）这样的个人进行政治活动的反对。
+CPA 的第二个关注点是它可能会削弱民主核心的平等理念（Christiano 2010）。一些公司拥有大量资金，这可能转化为大量权力。2010 年，印第安纳州通过了一项法律——宗教自由恢复法案（RFRA），似乎给予雇主在宗教立场上歧视 LGBTQ 人的自由。作为回应，Salesforce 和 Angie's List 取消了在该州扩张的计划，并威胁要完全离开。印第安纳州迅速召开了立法机构的特别会议，并宣布新法实际上并未赋予雇主这种自由。相比之下，如果普通的印第安纳人告诉立法机构他们可能因为 RFRA 而离开该州，立法机构是不会在意的。对 CPA 的这一反对也是对像全国步枪协会（NRA）或美国公民自由联盟（ACLU）这样的强大团体以及像查尔斯 · 科赫（Charles Koch）或汤姆 · 斯泰尔（Tom Steyer）这样的个人进行政治活动的反对。
 
 第三个反对 CPA 的观点更具针对性。根据这一观点，公司不是从事政治活动的正确实体类型（Hussain & Moriarty 2018）。关键问题在于代表性。像 NRA 和 ACLU 这样的组织是政治舞台上合法的参与者，因为它们代表其成员参与政治辩论，人们基于政治考虑加入或离开它们。相比之下，商业组织在政治体系中没有被认可的角色，人们加入或离开它们是出于经济原因，而不是政治原因。根据这一批评，公司的政治活动不应被概念化为公司所有成员共同努力表达他们对共同关注的看法，而应被视为一小群强有力的所有者或高管利用公司资源推动他们个人目的的努力。
 
@@ -277,7 +277,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 * Arnold, S., 2012, “The Difference Principle at Work”, *Journal of Political Philosophy*, 20(1): 94–118.
 * Arrington, R.L., 1982, “Advertising and Behavior Control”, *Journal of Business Ethics*, 1(1): 3–12.
 * Attas, D., 1999, “What’s Wrong with ‘Deceptive’ Advertising?”, *Journal of Business Ethics*, 21(1): 49–59.
-* Aylsworth, T. 2020. “Autonomy and Manipulation: Refining the Argument Against Persuasive Advertising”, *Journal of Business Ethics*, first online 28 July 2020. doi:10.1007/s10551-020-04590-6
+* Aylsworth, T. 2020. “Autonomy and Manipulation: Refining the Argument Against Persuasive Advertising”, *Journal of Business Ethics*, first online 28 July 2020. doi: 10.1007/s10551-020-04590-6
 * Bainbridge, S.M., 2008, *The New Corporate Governance in Theory and Practice*, New York: Oxford University Press.
 * Barry, C., & K. MacDonald, 2018, “Ethical Consumerism: A Defense of Market Vigilantism”, *Philosophy & Public Affairs*, 46(3): 293–322.
 * Bazerman, M.H. & A.E. Tenbrunsel, 2011, *Blind Spots: Why We Fail to Do What’s Right and What to Do about It*, Princeton, NJ: Princeton University Press.
@@ -351,7 +351,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 * Hansmann, H. & R. Kraakman, 2001, “The End of History for Corporate Law”, *Georgetown Law Journal*, 89(2): 439–468.
 * Hartman, E.M., 2015, *Virtue in Business: Conversations with Aristotle*, New York: Cambridge University Press.
 * Hartman, L.P., D.G. Arnold, & R.E. Wokutch, 2003, *Rising Above Sweatshops: Innovative Approaches to Global Labor Challenges*, Westport, CT: Praeger.
-* Hasan, R., 2015, “Rawls on Meaningful Work and Freedom”, *Social Theory and Practice*, 41(3): 477–504. doi:10.5840/soctheorpract201541325
+* Hasan, R., 2015, “Rawls on Meaningful Work and Freedom”, *Social Theory and Practice*, 41(3): 477–504. doi: 10.5840/soctheorpract201541325
 * Hasnas, J., 1998, “The Normative Theories of Business Ethics: A Guide for the Perplexed”, *Business Ethics Quarterly*, 8(1): 19–42.
 * –––, 2010, “The Mirage of Product Safety”, in G.G. Brenkert & T. L. Beauchamp (eds.), *Oxford Handbook of Business Ethics,* New York: Oxford University Press, pp. 677–697.
 * –––, 2012, “Reflections on Corporate Moral Responsibility and the Problem Solving Technique of Alexander the Great”, *Journal of Business Ethics*, 107(2): 183–195.
@@ -437,7 +437,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 * Rönnegard, D., 2015, *The Fallacy of Corporate Moral Agency*, New York: Springer.
 * Ruggie, J.G., 2004, “Reconstituting the Global Public Domain: Issues, Actors, and Practices”, *European Journal of International Relations*, 10(4): 499–531.
 * –––, 2013, *Just Business: Multinational Corporations and Human Rights*, New York: W.W. Norton & Company.
-* Sandel, M.J., 2012, *What Money Can’**t Buy: The Moral Limits of Markets*, New York: Farrar, Straus and Giroux.
+* Sandel, M.J., 2012, *What Money Can’* *t Buy: The Moral Limits of Markets*, New York: Farrar, Straus and Giroux.
 * Satz, D., 2010, *Why Some Things Should Not Be For Sale: The Moral Limits of Markets*, New York: Oxford University Press.
 * Scalet, S.P., 2003, “Fitting the People They Are Meant to Serve: Reasonable Persons in the American Legal System”, *Law and Philosophy*, 22(1): 75–110.
 * Scharding, T.K., 2015, “Imprudence and Immorality: A Kantian Approach to the Ethics of Financial Risk”, *Business Ethics Quarterly*, 25(2): 243–265
@@ -449,7 +449,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 * Sepinwall, A., 2016, “Corporate Moral Responsibility”, *Philosophy Compass*, 11(1): 3–13.
 * –––, 2017, “Blame, Emotion, and the Corporation”, in E.W. Orts & N.C. Smith (eds.), *The Moral Responsibility of Firms*, New York: Oxford University Press, pp. 143–166.
 * Sher, S., 2011, “A Framework for Assessing Immorally Manipulative Marketing Tactics”, *Journal of Business Ethics*, 102(1): 97–118.
-* Silver, K., forthcoming, “Group Action Without Group Minds”, *Philosophy and Phenomenological Research*, first online 27 February 2021. doi:10.1111/phpr.12766
+* Silver, K., forthcoming, “Group Action Without Group Minds”, *Philosophy and Phenomenological Research*, first online 27 February 2021. doi: 10.1111/phpr.12766
 * Singer, A., 2015, “There is No Rawlsian Theory of Corporate Governance”, *Business Ethics Quarterly*, 25(1): 65–92.
 * –––, 2019, *The Form of the Firm: A Normative Political Theory of the Corporation*, New York: Oxford University Press.
 * Sison, A.J.G. & J. Fontrodona, 2012, “The Common Good of the Firm in the Aristotelian-Thomistic Tradition”, *Business Ethics Quarterly*, 22(2): 211–246.
@@ -480,7 +480,7 @@ ISCT 受到了很多关注和批评。其中很多批评集中在超规范上，
 * Wokutch, R.E., 2001, “Nike and its Critics: Beginning a Dialogue”, *Organization & Environment*, 14(2): 207–237.
 * Yeoman, R., 2014, “Conceptualising Meaningful Work as a Fundamental Human Need”, *Journal of Business Ethics* 125(2): 235–251.
 * Young, I.M. 2011, *Responsibility for Justice*, New York: Oxford University Press.
-* Zhao, X., & A. Murrell, 2021, “Does a Virtuous Circle Really Exist? Revisiting the Causal Linkage between CSP and CFP”, *Journal of Business Ethics*, 23 February 2021. doi:10.1007/s10551-021-04769-5
+* Zhao, X., & A. Murrell, 2021, “Does a Virtuous Circle Really Exist? Revisiting the Causal Linkage between CSP and CFP”, *Journal of Business Ethics*, 23 February 2021. doi: 10.1007/s10551-021-04769-5
 * Zingales, L., & O. Hart, 2017, “Companies Should Maximize Shareholder Welfare not Market Value,” *Journal of Law, Finance, and Accounting*, 2(2): 247–275.
 * Zwolinski, M., 2007, “Sweatshops, Choice, and Exploitation”, *Business Ethics Quarterly*, 17(4): 689–727.
 * –––, 2008, “The Ethics of Price Gouging”, *Business Ethics Quarterly*, 18(3): 347–378.

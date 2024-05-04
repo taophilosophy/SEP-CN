@@ -44,7 +44,7 @@
 
 古代人和现代人之间的主要区别在于，在希腊，古代人追求知识纯粹是为了教育，而
 
-现代人用它来追求权力。弗朗西斯·培根说，“知识就是力量”。这一句揭示了现代西方文化的精神核心。(Xu 1952 \[2022: 100])
+现代人用它来追求权力。弗朗西斯 · 培根说，“知识就是力量”。这一句揭示了现代西方文化的精神核心。(Xu 1952 \[2022: 100])
 
 在中国，学习并不是根本上关于知识，而是为了改善道德实践。即使道德哲学也不是为了完善道德理论，而是实现道德在行动中的体现(Xu 1952 \[2022: 104])。由于其专注于改善道德生活，与道德实践没有明显关系的知识被忽视，因此在中国并未出现导致科学发展的那种价值中立、客观调查自然的情况。
 
@@ -76,7 +76,7 @@
 
 熊十力确立了基本区别，后来被牟、唐和徐所遵循。在熊的思想中，智是对基本现实的认知，他也将其确定为真正的心灵。慧是对世俗事物和通常所称的知识的认知。智是非二元的，没有自我和他者的分离。他还使用了“派生知识”和“直接知识”这两个术语。在《新论》中，熊强调了心灵和认知对象的相互依存和统一，以及智胜于慧的重要性。知识（慧）对于在现象世界中航行是有用的，但对于理解基本现实是无用的，后者必须在自己的心灵中寻求。将其视为客体将一事无成。
 
-原则的绝对\[品质]不属于可以想象的范畴。它只能通过内在的自我实现来认识。(Xiong 1932 \[2015: 159])
+原则的绝对\[品质] 不属于可以想象的范畴。它只能通过内在的自我实现来认识。(Xiong 1932 \[2015: 159])
 
 这种专注于内在和以非概念方式认知的特点被他的每个追随者所接受。
 
@@ -102,13 +102,13 @@ Xu 区分了心性的道德本质和认知本质。道德本质（*dexing* 德�
 
 情感联系（*gantong* 感通）的概念在唐的思想中占据着核心地位。这个中文术语结合了“刺激或影响”（*gan*）和“连接或被连接”的词汇，还带有没有障碍或阻碍的进一步意义（*tong*）。“情感”必须以这种意义理解：不一定涉及感情，而更简单地是一件事影响另一件事。唐这样定义它：
 
-这种情感联系本身就是\[心灵]直接与认知视野的对象相遇，并直接意识到和观察它们。(TJCW 26: 2.235)
+这种情感联系本身就是\[心灵] 直接与认知视野的对象相遇，并直接意识到和观察它们。(TJCW 26: 2.235)
 
 批判性地，这是与更广泛客观现实的联系，而不仅仅是主观意识(Metzger 1977: 35)。情感联系是心灵的基本能力，可以认知和与任何其他存在互动。唐想要从中得出的一个含义是，心灵和世界本质上是相互联系和相互依存的(TJCW 25: 1.3–4; Tan 2009: 547)。人类生活是通过与其他存在，包括其他人的联系和认知构成的(在人性部分进一步讨论)。通过认知其他对象，我们也意识到主体，最终到唐所称的超主观/客观视野(最后三者)。理解主体不能客观地完成：必须通过个人经验和对主体生活存在的实现来接近(TJCW 26: 2.318)。
 
 ### 3.3 知识直觉和自由意志的现实
 
-牟宗三对科学的局限持有类似观点（MZCW 22: 50），但由于该主题已经涵盖，这里的重点是牟对自由意志知识的辩护。他后来的哲学侧重于证明自主性和道德的现实性，他认为康德未能做到这一点（Schmidt 2011）。对于康德来说，由于知识局限于表象世界，自由意志仍然是超出人类知识范围的东西。自由仍然是一个假设，或者仅仅是一个想法，但永远无法被认知（康德 1785 \[1997: 63]，4:459）。牟批评康德正是因为这一点，并认为中国哲学可以提供康德无法提供的东西：自由意志的知识。
+牟宗三对科学的局限持有类似观点（MZCW 22: 50），但由于该主题已经涵盖，这里的重点是牟对自由意志知识的辩护。他后来的哲学侧重于证明自主性和道德的现实性，他认为康德未能做到这一点（Schmidt 2011）。对于康德来说，由于知识局限于表象世界，自由意志仍然是超出人类知识范围的东西。自由仍然是一个假设，或者仅仅是一个想法，但永远无法被认知（康德 1785 \[1997: 63]，4: 459）。牟批评康德正是因为这一点，并认为中国哲学可以提供康德无法提供的东西：自由意志的知识。
 
 根据 Mou 的观点，儒家哲学家也希望建立道德的先验条件。与康德一样，这种先验条件是自由或自治（MZCW 5: 1.11; Lee 2017: 15）。Mou 承认，理论上无法获知自由意志；然而，他批评康德未能理解自由意志的真相必须在实践中而非理论上被把握和认知。这就是儒家所取得的成就，以及它如何证实自由、自治的意志是一种现实而非仅仅是一个假设：它通过世界中的道德活动得以实现和验证。
 
@@ -158,7 +158,7 @@ Mou 在这里汇集了这些主题：区分理论和实践知识，并坚持实�
 
 正确的观点是人性是纯洁的。习得的倾向可能是好的或坏的，符合人性或不符合，但它们是偶然的，并不影响纯粹的固有本性（Xiong 1932 \[2015: 144–46]）。简而言之，邪恶不是人性的一部分，人类的任务是消除被玷污的习得倾向，回归到那种根本本性（Major 2021: 941–42）。熊回归到了经典的宋明儒家关于人性的立场。
 
-熊同时拒绝了达尔文主义，部分原因是唐君毅所描述的，未能区分人类和动物，部分原因是因为有机体相互竞争以个体生存的图景与他的世界观不符。进化的观念是通过严复对托马斯·亨利·赫胥黎的大幅编辑翻译（1898）引入中国的，这更像是对文本的再加工而不是翻译，因为严复自由重新排列了文本，并添加了许多自己的评论（Sun 2022）。达尔文关于适者生存的观点的潜在后果被熊文中的一个假想对话者准确描述：
+熊同时拒绝了达尔文主义，部分原因是唐君毅所描述的，未能区分人类和动物，部分原因是因为有机体相互竞争以个体生存的图景与他的世界观不符。进化的观念是通过严复对托马斯 · 亨利 · 赫胥黎的大幅编辑翻译（1898）引入中国的，这更像是对文本的再加工而不是翻译，因为严复自由重新排列了文本，并添加了许多自己的评论（Sun 2022）。达尔文关于适者生存的观点的潜在后果被熊文中的一个假想对话者准确描述：
 
 众多生命形式喜欢仇恨和杀戮。世界历史在很大程度上可以看作是一本相互残杀的书籍。有人问道：“可以肯定仇恨是智慧生命中出现较晚的东西。达尔文的适者生存理论可以证实这一点，根据这一理论，仇恨也应该是为了生存的需要而产生的。没有必要认为它是一种折磨。”我回答道：“那些支持互助理论的人发现的事实显然与达尔文的论点相矛盾。程一川也说过：‘只有通过紧密互助，天地间所有生物才能生存。’ 他所说的一切都得到了验证。因此可以理解，生存需要紧密的帮助而不是竞争。”（熊 1932 \[2015: 259–60]）
 
@@ -198,7 +198,7 @@ Tang 展示超越自我的现实与他人相连的主要方式之一是指出人
 
 在这个时刻，我们可以问一下唐所展示的是什么：他描述的这种情感联系是否构成了对他人主体性和共享道德理由的_知识_？还是一种对文化实践（如科学、哲学和艺术）的假设，但仍然不足以构成知识？这是一个复杂的问题，在这个问题上，唐在他的著作中含糊其辞。在一个相关讨论中，唐考察了儒家对普遍道德心灵的信仰，并说通过理性可以使人类的本性和心灵普遍化，并知道所有人都拥有它们。紧接着他称这种信仰为一种信仰，并说，
 
-> 这种人类的本性和心灵必须存在的信仰同样不能通过纯理性和论证来积极证明。最多，我们可以使用一种否定的论证，即无法断言它不存在，因此表明它必须存在。它的存在在于人们对邪恶和苦难感到不安这一事实的否定揭示。如果你对自己和他人的邪恶和苦难感到不安，这就是否定地证明你拥有人类的本性和心灵，这种完美善良的\[想要]消除邪恶和苦难……如果你说你对邪恶和苦难一点也不感到不安，那么我不相信你。我怎么知道你感到不安？因为我感到了……即使你现在没有展示这种人类的本性和心灵，自己感觉没有拥有它，我仍然肯定你必须拥有它。原因是因为最终，我无法接受你没有它，所以我肯定你有：没有其他理由。（TJCW 11: 247–49）
+> 这种人类的本性和心灵必须存在的信仰同样不能通过纯理性和论证来积极证明。最多，我们可以使用一种否定的论证，即无法断言它不存在，因此表明它必须存在。它的存在在于人们对邪恶和苦难感到不安这一事实的否定揭示。如果你对自己和他人的邪恶和苦难感到不安，这就是否定地证明你拥有人类的本性和心灵，这种完美善良的\[想要] 消除邪恶和苦难……如果你说你对邪恶和苦难一点也不感到不安，那么我不相信你。我怎么知道你感到不安？因为我感到了……即使你现在没有展示这种人类的本性和心灵，自己感觉没有拥有它，我仍然肯定你必须拥有它。原因是因为最终，我无法接受你没有它，所以我肯定你有：没有其他理由。（TJCW 11: 247–49）
 
 这显然缺乏知识。
 
@@ -264,110 +264,110 @@ Xu 认为德治和无为是传统儒家政治思想的基础，并且仍然适�
 
 ## Bibliography
 
-* Bai, Tongdong, 2020, *Against Political Equality: The Confucian Case*, (The Princeton-China Series 2), Princeton, NJ: Princeton University Press. doi:10.1515/9780691197463
-* Bell, Daniel, 2015, *The China Model: Political Meritocracy and the Limits of Democracy*, Princeton, NJ: Princeton University Press. doi:10.1515/9781400883486
-* Billioud, Sébastien, 2012, *Thinking through Confucian Modernity: A Study of Mou Zongsan’s Moral Metaphysics*, Leiden: Brill. doi:10.1163/9789004215542
-* Bunnin, Nicholas, 2008, “God’s Knowledge and Ours: Kant and Mou Zongsan on Intellectual Intuition”, *Journal of Chinese Philosophy*, 35(4): 613–624. doi:10.1111/j.1540-6253.2008.00507.x
-* Chan, N. Serina, 2011, *The Thought of Mou Zongsan*, (Modern Chinese Philosophy 4), Leiden/Boston: Brill. doi:10.1163/ej.9789004212114.i-340
-* Chan, Sin Yee, 2002, “Tang Junyi: Moral Idealism and Chinese Culture”, in Cheng and Bunnin 2002: 305–326 (ch. 15). doi:10.1002/9780470753491.ch16
-* Chen Lai 陈来, 2006 \[2009], 传统与现代 : 人文主义的视界 , first edition, Beijing: Beijing University Press. Translated as *Tradition and Modernity: A Humanist View*, Edmund Ryden (trans.), (Brill’s Humanities in China Library 3), Leiden/Boston: Brill, 2009. doi:10.1163/ej.9789004165786.i-386
-* Cheng, Chung-ying and Nicholas Bunnin (eds), 2002, *Contemporary Chinese Philosophy*, Malden, MA: Blackwell Publishers. doi:10.1002/9780470753491
-* Chiu King Pong 趙敬邦, 2016, *Thomé H. Fang, Tang Junyi and Huayan Thought: A Confucian Appropriation of Buddhist Ideas in Response to Scientism in Twentieth-Century China*, (Modern Chinese Philosophy, 8), Leiden/Boston: Brill. doi:10.1163/9789004313880
+* Bai, Tongdong, 2020, *Against Political Equality: The Confucian Case*, (The Princeton-China Series 2), Princeton, NJ: Princeton University Press. doi: 10.1515/9780691197463
+* Bell, Daniel, 2015, *The China Model: Political Meritocracy and the Limits of Democracy*, Princeton, NJ: Princeton University Press. doi: 10.1515/9781400883486
+* Billioud, Sébastien, 2012, *Thinking through Confucian Modernity: A Study of Mou Zongsan’s Moral Metaphysics*, Leiden: Brill. doi: 10.1163/9789004215542
+* Bunnin, Nicholas, 2008, “God’s Knowledge and Ours: Kant and Mou Zongsan on Intellectual Intuition”, *Journal of Chinese Philosophy*, 35(4): 613–624. doi: 10.1111/j.1540-6253.2008.00507.x
+* Chan, N. Serina, 2011, *The Thought of Mou Zongsan*, (Modern Chinese Philosophy 4), Leiden/Boston: Brill. doi: 10.1163/ej.9789004212114.i-340
+* Chan, Sin Yee, 2002, “Tang Junyi: Moral Idealism and Chinese Culture”, in Cheng and Bunnin 2002: 305–326 (ch. 15). doi: 10.1002/9780470753491.ch16
+* Chen Lai 陈来, 2006 \[2009], 传统与现代 : 人文主义的视界 , first edition, Beijing: Beijing University Press. Translated as *Tradition and Modernity: A Humanist View*, Edmund Ryden (trans.), (Brill’s Humanities in China Library 3), Leiden/Boston: Brill, 2009. doi: 10.1163/ej.9789004165786.i-386
+* Cheng, Chung-ying and Nicholas Bunnin (eds), 2002, *Contemporary Chinese Philosophy*, Malden, MA: Blackwell Publishers. doi: 10.1002/9780470753491
+* Chiu King Pong 趙敬邦, 2016, *Thomé H. Fang, Tang Junyi and Huayan Thought: A Confucian Appropriation of Buddhist Ideas in Response to Scientism in Twentieth-Century China*, (Modern Chinese Philosophy, 8), Leiden/Boston: Brill. doi: 10.1163/9789004313880
 * –––, 2023, *The Holiness in Ordinariness: On Tang Junyi’s Study of Human Being* 即凡建聖: 唐君毅人學論, (History of Chinese Thought Series 27), Taibei: National Taiwan University Press.
-* Elstein, David, 2014, *Democracy in Contemporary Confucian Philosophy*, (Routledge Studies in Contemporary Philosophy 60), New York: Routledge. doi:10.4324/9780203495186
-* –––, 2021a, “Xu Fuguan: Realizing the Human Spirit”, in Elstein 2021b: 199–220. doi:10.1007/978-3-030-56475-9\_10
-* ––– (ed.), 2021b, *Dao Companion to Contemporary Confucian Philosophy*, (Dao Companions to Chinese Philosophy 15), Cham: Springer. doi:10.1007/978-3-030-56475-9
-* Feng Youlan 馮友蘭, 1931, *History of Chinese Philosophy* 中國哲學史, vol. 1, Shanghai: Shenzhou guoguangshe.
-* –––, 1934, *History of Chinese Philosophy* 中國哲學史, vol. 2, Shanghai: Commercial Press.
-* Fröhlich, Thomas, 2017, *Tang Junyi: Confucian Philosophy and the Challenge of Modernity*, (Modern Chinese Philosophy, 13), Leiden/Boston: Brill. doi:10.1163/9789004330139
-* Fung, Yiu-ming, 2021, “Methods and Approaches in Contemporary Confucianism”, in Elstein 2021b: 609–626. doi:10.1007/978-3-030-56475-9\_27
-* Gao Ruiquan, 2010, “Confucian Socialism or Confucian Liberalism? Looking at the Different Dimension of the Contemporary Confucian Concept of ‘Equality’ through the Work of Xu Fuguan 儒家社会主义，还是儒家自由主义？–从徐复观看现代儒家‘平等’观念的不同向度”, *Academic Monthly* 学术月刊, 42(6): 26–34.
-* Guo Qiyong, 2021, “Xiong Shili’s Ontology”, in Elstein 2021b: 89–104. doi:10.1007/978-3-030-56475-9\_5
-* Huang Junjie (Huang Chun-chieh) 黃俊傑, 2018 \[2019], 東亞儒學視域中的徐復觀及其思想 , (Dong Ya ruxue yanjiu congshu 4), Taibei: National Taiwan University Institute for Advanced Research in Humanities and Social Sciences Center for Research on East Asian Confucianisms. Translated as *Xu Fuguan in the Context of East Asian Confucianisms*, Diana Arghirescu (trans.), (Confucian Cultures), Honolulu: University of Hawaiʻi Press, East-West Center, 2019. doi:10.1515/9780824880521
-* Jiang Qing, 2012, *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*, Daniel Bell and Ruiping Fan (eds), Edmund Ryden (trans.), (The Princeton-China Series), Princeton, NJ: Princeton University Press.
-* Kant, Immanuel, 1785 \[1997], *Grundlegung zur Metaphysik der Sitten*, Riga: Johann Friedrich Hartknoch; translated as *Groundwork of the Metaphysics of Morals*, Mary J. Gregor (trans.), Cambridge, New York: Cambridge University Press, 1997.
-* Lee Ming-huei \[Li Minghui] 李明輝, 1990, *Confucianism and Kant* 儒家與康德, Taibei: Linking Press.
-* –––, 2013, *The Self-Transformation of Contemporary Confucianism* 當代儒學的自我轉化, Revised edition, Taibei: Academia Sinica Institute of Chinese Literature and Philosophy.
-* –––, 2017, *Confucianism: Its Roots and Global Significance*, David Edward Jones (ed.), (Confucian Cultures), Honolulu: University of Hawaiʻi Press, East-West Center.
-* –––, 2021, “Mou Zongsan: Between Confucianism and Kantianism”, in Elstein 2021b: 255–275. doi:10.1007/978-3-030-56475-9\_12
-* Li, Yong, 2021, “Recent Developments in Confucianism in Mainland China”, in Elstein 2021b: 587–608. doi:10.1007/978-3-030-56475-9\_26
-* Li Zehou 李泽厚, 2015 \[2018], 由巫到礼 释礼归仁, first edition, Beijing: SDX Joint Publishing Company. Translated as *The Origins of Chinese Thought: From Shamanism to Ritual Regulations and Humaneness*, Robert A. Carleo (trans.), (Modern Chinese Philosophy 17), Leiden/Boston: Brill, 2018. doi:10.1163/9789004379626
-* Liang Shuming 梁漱溟, 1921, *Eastern and Western Culture and Their Philosophies* 東西文化及其哲學, Shanghai: Commercial Press.
-* Major, Philippe, 2021, “The Confucian Atomistic Individual? Selfhood in Xiong Shili’s New Treatise on the Uniqueness of Consciousness”, *Philosophy East and West*, 71(4): 938–958. doi:10.1353/pew.2021.0063
-* Makeham, John, 2003a, “The Retrospective Creation of New Confucianism”, in Makeham 2003b: 25–53. doi:10.1057/9781403982414\_2
-* ––– (ed.), 2003b, *New Confucianism: A Critical Examination*, New York: Palgrave. doi:10.1057/9781403982414
-* Marchal, Kai, 2016, “Paradoxes and Possibilities of ‘Confucian Freedom’: From Yan Fu (1853–1921) to Mou Zongsan (1909–1995)”, *Philosophy East and West*, 66(1): 218–258. doi:10.1353/pew.2016.0001
-* *Mengzi*, 2008, Bryan W. Van Norden (trans.), Indianapolis: Hackett.
-* Metzger, Thomas A., 1977, *Escape from Predicament: Neo-Confucianism and China’s Evolving Political Culture*, (Studies of the East Asian Institute, Columbia University), New York: Columbia University Press.
-* –––, 2005, *A Cloud across the Pacific: Essays on the Clash between Chinese and Western Political Theories Today*, (Academic Monograph on Political Philosophy. China Studies), Hong Kong: Chinese University Press.
-* Mou Zongsan 牟宗三, 1955, *Philosophy of History* 歷史哲學, Gaoxiong: Qiangsheng Press; reprinted in \[MZCW 9b], pp. 1–484.
-* –––, 1959, *Moral Idealism* 道德的理想主義, Taibei: Wenxing Books, Taizhong: Donghai University Press; reprinted in \[MZCW 9a], pp. 1–353.
-* –––, 1961, *Authority and Governance* 政道與治道, Taibei: Guangwen Books, reprinted in \[MZCW 10].
-* –––, 1968–69, *Heart-Mind and Human Nature as Reality* 心體與性體, 3 vols., Taibei: Zhengzhong Books; reprinted in \[MZCW 5–7].
-* –––, 1971, *Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學, Taibei: Commercial Press; reprinted in \[MZCW 20].
-* –––, 1975, *Appearances and Things-in-Themselves* 現象與物自身, Taibei: Student Books; reprinted in \[MZCW 21].
-* –––, 1983, *Nineteen Lectures on Chinese Philosophy* 中國哲學十九講, Taibei: Student Books; reprinted in \[MZCW 29].
-* –––, 1985, *On the Perfect Good* 圓善論, Taibei: Student Books; reprinted in \[MZCW 22]
-* –––, 1991, “Objective Understanding and the Remaking of Chinese Culture 客觀的瞭解與中國文化的再造,” *Legein Monthly* 鵝湖月刊 16(11): 2–10; reprinted in \[MZCW 27], pp. 419–438; translated in Mou 2014, 31–60.
-* –––, 2003, *Complete Works of Mou Zongsan* 牟宗三先生全集, 32 volumes, Taibei: Linking Books.
-  * \[MZCW 5] *Heart-Mind and Human Nature as Reality Book 1* 心體與性體1冊, volume 1 of 3.
-  * \[MZCW 6] *Heart-Mind and Human Nature as Reality Book 2* 心體與性體2冊, volume 2 of 3.
-  * \[MZCW 5] *Heart-Mind and Human Nature as Reality Book 3* 心體與性體3冊, volume 3 of 3.
-  * \[MZCW 9a] *Moral Idealism* 道德的理想主義.
-  * \[MZCW 9b] *Philosophy of History* 歷史哲學.
-  * \[MZCW 10] *Authority and Governance* 政道與治道.
-  * \[MZCW 20] *Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學.
-  * \[MZCW 21] *Appearances and Things-in-Themselves* 現象與物自身.
-  * \[MZCW 22] *On the Perfect Good* 圓善論.
-  * \[MZCW 27] *Anthology of Late Writings of Mou Zongsan* 牟宗三先生晚期文集.
-  * \[MZCW 29] *Nineteen Lectures on Chinese Philosophy* 中國哲學十九講.
-* –––, 2014, *Late Works of Mou Zongsan: Selected Essays on Chinese Philosophy*, Jason Clower (ed./trans.), (Modern Chinese Philosophy 7), Leiden/Boston: Brill. doi:10.1163/9789004278905
-* Ng, William (吳有能), 1998, “T’ang Chun-I on Transcendence: Foundations of a New-Confucian Religious Humanism”, *Monumenta Serica*, 46(1): 291–322. doi:10.1080/02549948.1998.11731320
-* Ng Yu-kwan, 2003, “Xiong Shili’s Metaphysical Theory about the Non-Separability of Substance and Function”, in Makeham 2003b: 219–251. doi:10.1057/9781403982414\_9
-* Ni, Peimin, 2002, “Practical Humanism of Xu Fuguan”, in Cheng and Bunnin 2002: 281–304. doi:10.1002/9780470753491.ch15
-* Pong Wen-berng 彭文本, 2008, “Theory of Individuality of Tang Junyi 唐君毅論「個體的自我」,” *Philosophy and Culture* 哲學與文化, 36(8): 77–100.
-* Rošker, Jana, 2016, *The Rebirth of the Moral Self: The Second Generation of Modern Confucians and Their Modernization Discourses*, Hong Kong: The Chinese University Press.
-* Schmidt, Stephan, 2011, “Mou Zongsan, Hegel, and Kant: The Quest for Confucian Modernity”, *Philosophy East and West*, 61(2): 260–302. doi:10.1353/pew.2011.0029
-* Shi, Weimin and Chiulo Lin, 2015, “Confucian Moral Experience and Its Metaphysical Foundation: From the Point of View of Mou Zongsan”, *Philosophy East and West*, 65(2): 542–566. doi:10.1353/pew.2015.0027
-* Sun, Yifeng, 2022, “Yan Fu’s Translation ‘Principle(s)’ and Huxley’s *Evolution and Ethics*”, *Perspectives: Studies in Translation Theory and Practice*, 1–14. doi: 10.1080/0907676X.2022.2160264
-* Solé-Farràs, Jesús, 2014, *New Confucianism in Twenty-First Century China: The Construction of a Discourse*, (Routledge Contemporary China Series 108), Abingdon/New York: Routledge. doi:10.4324/9781315880457
-* Suter, Rafael, 2018, “Transmitting the Sage’s ‘Heart’ (I): Unsealing Moral Autonomy—Intellectual Intuition and Mou Zongsan’s Reconstruction of the ‘Continuity of the Way’ (Daotong)”, *Philosophy East and West*, 68(1): 223–241. doi:10.1353/pew.2018.0011
-* Tan, Sor-hoon, 2009, “Contemporary Neo-Confucian Philosophy”, in *Routledge History of Chinese Philosophy*, Bo Mou (ed.) (Routledge History of World Philosophies 3), London/New York: Routledge, chapter 17.
-* Tang Junyi 唐君毅, 1953, *The Spiritual Value of Chinese Culture* 中國文化之精神價值. Taibei: Zhengzhong Books; reprinted in \[TJCW 9].
-* \[T’ang Chün-i], 1955 \[1981], “The Spirit of Religion and Modern Man: The Co-Operation of Man with Heaven for the Salvation of Mankind from Being Regarded as Purely Material”, in *Chinese Essays on Religion and Faith*, Douglas Lancanshire (ed.), San Francisco: Chinese Materials Center, 45–52.
-* –––, 1958, *The Development of the Chinese Humanistic Spirit* 中國人文精神之發展, Hong Kong: Rensheng Press; reprinted in \[TJCW 11].
-* –––, 1958, *Cultural Consciousness and Moral Reason* 文化意識與道德理性, Hong Kong: Youlian Press; reprinted in \[TJCW 12].
-* –––, 1966, *Origins of Chinese Philosophy: Introduction* 中國哲學原論: 導論, Hong Kong: Rensheng Press; reprinted in \[TJCW 17].
-* –––, 1968, *Origins of Chinese Philosophy: On Human Nature* 中國哲學原論: 原性篇, Hong Kong: New Asia College; reprinted in \[TJCW 18].
-* –––, 1973, *Origins of Chinese Philosophy: On the Way* 中國哲學原論: 原道篇, 3 vols., Hong Kong: New Asia College; reprinted in \[TJCW 19–21].
-* –––, 1977, *Life Existence and the Horizons of Mind* 生命存在與心靈境界, 2 vols., Taibei: Student Books; \[TJCW 25–26].
-* –––, 2016, *Complete Works of Tang Junyi* 唐君毅全集, Beijing: Jiuzhou chubanshe.
-  * \[TJCW 9] *The Spiritual Value of Chinese Culture* 中国文化之精神价值.
-  * \[TJCW 11] *The Development of the Chinese Humanistic Spirit* 中国人文精神之发展.
-  * \[TJCW 12] *Cultural Consciousness and Moral Reason* 文化意识与道德理性.
-  * \[TJCW 17] *Origins of Chinese Philosophy: Introduction* 中国哲学原论: 导论.
-  * \[TJCW 18] *Origins of Chinese Philosophy: On Human Nature* 中国哲学原论: 原性篇.
-  * \[TJCW 19] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 1 of 3.
-  * \[TJCW 20] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 2 of 3.
-  * \[TJCW 21] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 3 of 3.
-  * \[TJCW 25] *Life Existence and the Horizons of Mind, Volume 1* 生命存在与心灵境界, volume 1 of 2.
-  * \[TJCW 26] *Life Existence and the Horizons of Mind, Volume 2* 生命存在与心灵境界, volume 2 of 2.
-* Tseng, Roy, 2019, “The Endless Pursuit of Self-Perfection: A Hidden Dialogue between Mou Zongsan and F. H. Bradley”, *Philosophy East and West*, 69(3): 828–848. doi:10.1353/pew.2019.0065
-* Tu Wei-ming, 1993, *Way, Learning, and Politics: Essays on the Confucian Intellectual* (SUNY Series in Chinese Philosophy and Culture), Albany, NY: State University of New York Press.
-* Van den Stock, Ady, 2016, *The Horizon of Modernity: Subjectivity and Social Structure in New Confucian Philosophy*, (Modern Chinese Philosophy 11), Leiden/Boston: Brill. doi:10.1163/9789004301108
-* –––, 2021, “Beyond the Horizon: Philosophy and Religion in the Late Work of Tang Junyi (1909–1978)”, in Elstein 2021b: 221–253. doi:10.1007/978-3-030-56475-9\_11
-* Wong, Wai-ying, 2021, “Discursive Understanding and Experiential Confirmation: Mou Zongsan and Tang Junyi on Human Nature”, in Elstein 2021b: 469–487. doi:10.1007/978-3-030-56475-9\_21
-* Wu, Jiang, 2002, “What Is *Jingjie*? Defining Confucian Spirituality in the Modern Chinese Intellectual Context”, *Monumenta Serica*, 50: 441–462.
-* Xie Xiaodong 谢晓东, 2008. *Contemporary New Confucianism and Liberalism: A Comparative Study of Xu Fuguan's and Yin Haiguang's Political Philosophy* 现代新儒学与自由主义：徐复观殷海光政治哲学比较研究, Beijing: Dongfang.
-* Xiong Shili 熊十力, 1932 \[2015], *Xin weishi lun*, Zhejiang Provincial Library. Translated as *New Treatise on the Uniqueness of Consciousness*, John Makeham (trans.), (World Thought in Translation), New Haven, CT: Yale University Press.
-* Xu Fuguan 徐復觀, 1963 \[1990], *A History of Chinese Theories of Human Nature: The Pre-Qin Period* 中國人性論史: 先秦篇, Taibei: Commercial Press.
-* –––, 1966, *The Spirit of Chinese Art* 中國藝術精神, Taizhong: Donghai University Press.
-* –––, 1979 \[1988], *Confucian Political Thought and Democracy, Freedom and Human Rights* 儒家政治思想與民主自由人權, Xiao Xinyi (ed.), Revised edition, Taibei: Student Books.
-* –––, 1980a, *Miscellaneous Writings of Xu Fuguan: Reflections* 徐復觀雜文: 記所思, Taibei: Times Publishing.
-* –––, 1980b, “Mourning Xiong Shili 悼念熊十力先生”, in *The Finest Selected Writings of Xu Fuguan* 徐復觀文錄選粹, Xiao Xinyi (ed.), Taibei: Student Books, 339–342.
-* –––, 2022, *The Chinese Liberal Spirit: Selected Writings of Xu Fuguan*, David Elstein (ed./trans.), Albany, NY: SUNY Press.
-* Yan Fu 嚴復, 1898, *On Heavenly Evolution* 天演論, 2 vols., Mianyang, China: Shenshi jizhai. (Based on Thomas Henry Huxley's *Evolution and Ethics*, this is a partial translation and rearrangement of the original with Yan's own commentary.)
-* Yao, Xinzhong, 2000, *An Introduction to Confucianism*, (Introduction to Religion), New York: Cambridge University Press. doi:10.1017/CBO9780511800887
+* Elstein, David, 2014, *Democracy in Contemporary Confucian Philosophy*, (Routledge Studies in Contemporary Philosophy 60), New York: Routledge. doi: 10.4324/9780203495186
+* –––, 2021a, “Xu Fuguan: Realizing the Human Spirit”, in Elstein 2021b: 199–220. doi: 10.1007/978-3-030-56475-9\_10
+* ––– (ed.), 2021b, * Dao Companion to Contemporary Confucian Philosophy*, (Dao Companions to Chinese Philosophy 15), Cham: Springer. doi: 10.1007/978-3-030-56475-9
+* Feng Youlan 馮友蘭, 1931, * History of Chinese Philosophy* 中國哲學史, vol. 1, Shanghai: Shenzhou guoguangshe.
+* –––, 1934, * History of Chinese Philosophy* 中國哲學史, vol. 2, Shanghai: Commercial Press.
+* Fröhlich, Thomas, 2017, * Tang Junyi: Confucian Philosophy and the Challenge of Modernity*, (Modern Chinese Philosophy, 13), Leiden/Boston: Brill. doi: 10.1163/9789004330139
+* Fung, Yiu-ming, 2021, “Methods and Approaches in Contemporary Confucianism”, in Elstein 2021b: 609–626. doi: 10.1007/978-3-030-56475-9\_27
+* Gao Ruiquan, 2010, “Confucian Socialism or Confucian Liberalism? Looking at the Different Dimension of the Contemporary Confucian Concept of ‘Equality’ through the Work of Xu Fuguan 儒家社会主义，还是儒家自由主义？–从徐复观看现代儒家‘平等’观念的不同向度”, * Academic Monthly* 学术月刊, 42(6): 26–34.
+* Guo Qiyong, 2021, “Xiong Shili’s Ontology”, in Elstein 2021b: 89–104. doi: 10.1007/978-3-030-56475-9\_5
+* Huang Junjie (Huang Chun-chieh) 黃俊傑, 2018 \[2019], 東亞儒學視域中的徐復觀及其思想 , (Dong Ya ruxue yanjiu congshu 4), Taibei: National Taiwan University Institute for Advanced Research in Humanities and Social Sciences Center for Research on East Asian Confucianisms. Translated as * Xu Fuguan in the Context of East Asian Confucianisms*, Diana Arghirescu (trans.), (Confucian Cultures), Honolulu: University of Hawaiʻi Press, East-West Center, 2019. doi: 10.1515/9780824880521
+* Jiang Qing, 2012, * A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*, Daniel Bell and Ruiping Fan (eds), Edmund Ryden (trans.), (The Princeton-China Series), Princeton, NJ: Princeton University Press.
+* Kant, Immanuel, 1785 \[1997], * Grundlegung zur Metaphysik der Sitten *, Riga: Johann Friedrich Hartknoch; translated as * Groundwork of the Metaphysics of Morals*, Mary J. Gregor (trans.), Cambridge, New York: Cambridge University Press, 1997.
+* Lee Ming-huei \[Li Minghui] 李明輝, 1990, * Confucianism and Kant* 儒家與康德, Taibei: Linking Press.
+* –––, 2013, * The Self-Transformation of Contemporary Confucianism* 當代儒學的自我轉化, Revised edition, Taibei: Academia Sinica Institute of Chinese Literature and Philosophy.
+* –––, 2017, * Confucianism: Its Roots and Global Significance*, David Edward Jones (ed.), (Confucian Cultures), Honolulu: University of Hawaiʻi Press, East-West Center.
+* –––, 2021, “Mou Zongsan: Between Confucianism and Kantianism”, in Elstein 2021b: 255–275. doi: 10.1007/978-3-030-56475-9\_12
+* Li, Yong, 2021, “Recent Developments in Confucianism in Mainland China”, in Elstein 2021b: 587–608. doi: 10.1007/978-3-030-56475-9\_26
+* Li Zehou 李泽厚, 2015 \[2018], 由巫到礼 释礼归仁, first edition, Beijing: SDX Joint Publishing Company. Translated as * The Origins of Chinese Thought: From Shamanism to Ritual Regulations and Humaneness*, Robert A. Carleo (trans.), (Modern Chinese Philosophy 17), Leiden/Boston: Brill, 2018. doi: 10.1163/9789004379626
+* Liang Shuming 梁漱溟, 1921, * Eastern and Western Culture and Their Philosophies* 東西文化及其哲學, Shanghai: Commercial Press.
+* Major, Philippe, 2021, “The Confucian Atomistic Individual? Selfhood in Xiong Shili’s New Treatise on the Uniqueness of Consciousness”, * Philosophy East and West*, 71(4): 938–958. doi: 10.1353/pew.2021.0063
+* Makeham, John, 2003a, “The Retrospective Creation of New Confucianism”, in Makeham 2003b: 25–53. doi: 10.1057/9781403982414\_2
+* ––– (ed.), 2003b, * New Confucianism: A Critical Examination*, New York: Palgrave. doi: 10.1057/9781403982414
+* Marchal, Kai, 2016, “Paradoxes and Possibilities of ‘Confucian Freedom’: From Yan Fu (1853–1921) to Mou Zongsan (1909–1995)”, * Philosophy East and West*, 66(1): 218–258. doi: 10.1353/pew.2016.0001
+* * Mengzi*, 2008, Bryan W. Van Norden (trans.), Indianapolis: Hackett.
+* Metzger, Thomas A., 1977, * Escape from Predicament: Neo-Confucianism and China’s Evolving Political Culture*, (Studies of the East Asian Institute, Columbia University), New York: Columbia University Press.
+* –––, 2005, * A Cloud across the Pacific: Essays on the Clash between Chinese and Western Political Theories Today*, (Academic Monograph on Political Philosophy. China Studies), Hong Kong: Chinese University Press.
+* Mou Zongsan 牟宗三, 1955, * Philosophy of History* 歷史哲學, Gaoxiong: Qiangsheng Press; reprinted in \[MZCW 9b], pp. 1–484.
+* –––, 1959, * Moral Idealism* 道德的理想主義, Taibei: Wenxing Books, Taizhong: Donghai University Press; reprinted in \[MZCW 9a], pp. 1–353.
+* –––, 1961, * Authority and Governance* 政道與治道, Taibei: Guangwen Books, reprinted in \[MZCW 10].
+* –––, 1968–69, * Heart-Mind and Human Nature as Reality* 心體與性體, 3 vols., Taibei: Zhengzhong Books; reprinted in \[MZCW 5–7].
+* –––, 1971, * Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學, Taibei: Commercial Press; reprinted in \[MZCW 20].
+* –––, 1975, * Appearances and Things-in-Themselves* 現象與物自身, Taibei: Student Books; reprinted in \[MZCW 21].
+* –––, 1983, * Nineteen Lectures on Chinese Philosophy* 中國哲學十九講, Taibei: Student Books; reprinted in \[MZCW 29].
+* –––, 1985, * On the Perfect Good* 圓善論, Taibei: Student Books; reprinted in \[MZCW 22]
+* –––, 1991, “Objective Understanding and the Remaking of Chinese Culture 客觀的瞭解與中國文化的再造,” * Legein Monthly* 鵝湖月刊 16(11): 2–10; reprinted in \[MZCW 27], pp. 419–438; translated in Mou 2014, 31–60.
+* –––, 2003, * Complete Works of Mou Zongsan* 牟宗三先生全集, 32 volumes, Taibei: Linking Books.
+  * \[MZCW 5] * Heart-Mind and Human Nature as Reality Book 1* 心體與性體 1 冊, volume 1 of 3.
+  * \[MZCW 6] * Heart-Mind and Human Nature as Reality Book 2* 心體與性體 2 冊, volume 2 of 3.
+  * \[MZCW 5] * Heart-Mind and Human Nature as Reality Book 3* 心體與性體 3 冊, volume 3 of 3.
+  * \[MZCW 9a] * Moral Idealism* 道德的理想主義.
+  * \[MZCW 9b] * Philosophy of History* 歷史哲學.
+  * \[MZCW 10] * Authority and Governance* 政道與治道.
+  * \[MZCW 20] * Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學.
+  * \[MZCW 21] * Appearances and Things-in-Themselves* 現象與物自身.
+  * \[MZCW 22] * On the Perfect Good* 圓善論.
+  * \[MZCW 27] * Anthology of Late Writings of Mou Zongsan* 牟宗三先生晚期文集.
+  * \[MZCW 29] * Nineteen Lectures on Chinese Philosophy* 中國哲學十九講.
+* –––, 2014, * Late Works of Mou Zongsan: Selected Essays on Chinese Philosophy*, Jason Clower (ed./trans.), (Modern Chinese Philosophy 7), Leiden/Boston: Brill. doi: 10.1163/9789004278905
+* Ng, William (吳有能), 1998, “T’ang Chun-I on Transcendence: Foundations of a New-Confucian Religious Humanism”, * Monumenta Serica*, 46(1): 291–322. doi: 10.1080/02549948.1998.11731320
+* Ng Yu-kwan, 2003, “Xiong Shili’s Metaphysical Theory about the Non-Separability of Substance and Function”, in Makeham 2003b: 219–251. doi: 10.1057/9781403982414\_9
+* Ni, Peimin, 2002, “Practical Humanism of Xu Fuguan”, in Cheng and Bunnin 2002: 281–304. doi: 10.1002/9780470753491.ch15
+* Pong Wen-berng 彭文本, 2008, “Theory of Individuality of Tang Junyi 唐君毅論「個體的自我」,” * Philosophy and Culture* 哲學與文化, 36(8): 77–100.
+* Rošker, Jana, 2016, * The Rebirth of the Moral Self: The Second Generation of Modern Confucians and Their Modernization Discourses*, Hong Kong: The Chinese University Press.
+* Schmidt, Stephan, 2011, “Mou Zongsan, Hegel, and Kant: The Quest for Confucian Modernity”, * Philosophy East and West*, 61(2): 260–302. doi: 10.1353/pew.2011.0029
+* Shi, Weimin and Chiulo Lin, 2015, “Confucian Moral Experience and Its Metaphysical Foundation: From the Point of View of Mou Zongsan”, * Philosophy East and West*, 65(2): 542–566. doi: 10.1353/pew.2015.0027
+* Sun, Yifeng, 2022, “Yan Fu’s Translation ‘Principle(s)’ and Huxley’s * Evolution and Ethics *”, * Perspectives: Studies in Translation Theory and Practice*, 1–14. doi: 10.1080/0907676X.2022.2160264
+* Solé-Farràs, Jesús, 2014, * New Confucianism in Twenty-First Century China: The Construction of a Discourse*, (Routledge Contemporary China Series 108), Abingdon/New York: Routledge. doi: 10.4324/9781315880457
+* Suter, Rafael, 2018, “Transmitting the Sage’s ‘Heart’ (I): Unsealing Moral Autonomy—Intellectual Intuition and Mou Zongsan’s Reconstruction of the ‘Continuity of the Way’ (Daotong)”, * Philosophy East and West*, 68(1): 223–241. doi: 10.1353/pew.2018.0011
+* Tan, Sor-hoon, 2009, “Contemporary Neo-Confucian Philosophy”, in * Routledge History of Chinese Philosophy*, Bo Mou (ed.) (Routledge History of World Philosophies 3), London/New York: Routledge, chapter 17.
+* Tang Junyi 唐君毅, 1953, * The Spiritual Value of Chinese Culture* 中國文化之精神價值. Taibei: Zhengzhong Books; reprinted in \[TJCW 9].
+* \[T’ang Chün-i], 1955 \[1981], “The Spirit of Religion and Modern Man: The Co-Operation of Man with Heaven for the Salvation of Mankind from Being Regarded as Purely Material”, in * Chinese Essays on Religion and Faith*, Douglas Lancanshire (ed.), San Francisco: Chinese Materials Center, 45–52.
+* –––, 1958, * The Development of the Chinese Humanistic Spirit* 中國人文精神之發展, Hong Kong: Rensheng Press; reprinted in \[TJCW 11].
+* –––, 1958, * Cultural Consciousness and Moral Reason* 文化意識與道德理性, Hong Kong: Youlian Press; reprinted in \[TJCW 12].
+* –––, 1966, * Origins of Chinese Philosophy: Introduction* 中國哲學原論: 導論, Hong Kong: Rensheng Press; reprinted in \[TJCW 17].
+* –––, 1968, * Origins of Chinese Philosophy: On Human Nature* 中國哲學原論: 原性篇, Hong Kong: New Asia College; reprinted in \[TJCW 18].
+* –––, 1973, * Origins of Chinese Philosophy: On the Way* 中國哲學原論: 原道篇, 3 vols., Hong Kong: New Asia College; reprinted in \[TJCW 19–21].
+* –––, 1977, * Life Existence and the Horizons of Mind* 生命存在與心靈境界, 2 vols., Taibei: Student Books; \[TJCW 25–26].
+* –––, 2016, * Complete Works of Tang Junyi* 唐君毅全集, Beijing: Jiuzhou chubanshe.
+  * \[TJCW 9] * The Spiritual Value of Chinese Culture* 中国文化之精神价值.
+  * \[TJCW 11] * The Development of the Chinese Humanistic Spirit* 中国人文精神之发展.
+  * \[TJCW 12] * Cultural Consciousness and Moral Reason* 文化意识与道德理性.
+  * \[TJCW 17] * Origins of Chinese Philosophy: Introduction* 中国哲学原论: 导论.
+  * \[TJCW 18] * Origins of Chinese Philosophy: On Human Nature* 中国哲学原论: 原性篇.
+  * \[TJCW 19] * Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 1 of 3.
+  * \[TJCW 20] * Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 2 of 3.
+  * \[TJCW 21] * Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 3 of 3.
+  * \[TJCW 25] * Life Existence and the Horizons of Mind, Volume 1* 生命存在与心灵境界, volume 1 of 2.
+  * \[TJCW 26] * Life Existence and the Horizons of Mind, Volume 2* 生命存在与心灵境界, volume 2 of 2.
+* Tseng, Roy, 2019, “The Endless Pursuit of Self-Perfection: A Hidden Dialogue between Mou Zongsan and F. H. Bradley”, * Philosophy East and West*, 69(3): 828–848. doi: 10.1353/pew.2019.0065
+* Tu Wei-ming, 1993, * Way, Learning, and Politics: Essays on the Confucian Intellectual* (SUNY Series in Chinese Philosophy and Culture), Albany, NY: State University of New York Press.
+* Van den Stock, Ady, 2016, * The Horizon of Modernity: Subjectivity and Social Structure in New Confucian Philosophy*, (Modern Chinese Philosophy 11), Leiden/Boston: Brill. doi: 10.1163/9789004301108
+* –––, 2021, “Beyond the Horizon: Philosophy and Religion in the Late Work of Tang Junyi (1909–1978)”, in Elstein 2021b: 221–253. doi: 10.1007/978-3-030-56475-9\_11
+* Wong, Wai-ying, 2021, “Discursive Understanding and Experiential Confirmation: Mou Zongsan and Tang Junyi on Human Nature”, in Elstein 2021b: 469–487. doi: 10.1007/978-3-030-56475-9\_21
+* Wu, Jiang, 2002, “What Is * Jingjie *? Defining Confucian Spirituality in the Modern Chinese Intellectual Context”, * Monumenta Serica*, 50: 441–462.
+* Xie Xiaodong 谢晓东, 2008. * Contemporary New Confucianism and Liberalism: A Comparative Study of Xu Fuguan's and Yin Haiguang's Political Philosophy* 现代新儒学与自由主义：徐复观殷海光政治哲学比较研究, Beijing: Dongfang.
+* Xiong Shili 熊十力, 1932 \[2015], * Xin weishi lun *, Zhejiang Provincial Library. Translated as * New Treatise on the Uniqueness of Consciousness*, John Makeham (trans.), (World Thought in Translation), New Haven, CT: Yale University Press.
+* Xu Fuguan 徐復觀, 1963 \[1990], * A History of Chinese Theories of Human Nature: The Pre-Qin Period* 中國人性論史: 先秦篇, Taibei: Commercial Press.
+* –––, 1966, * The Spirit of Chinese Art* 中國藝術精神, Taizhong: Donghai University Press.
+* –––, 1979 \[1988], * Confucian Political Thought and Democracy, Freedom and Human Rights* 儒家政治思想與民主自由人權, Xiao Xinyi (ed.), Revised edition, Taibei: Student Books.
+* –––, 1980a, * Miscellaneous Writings of Xu Fuguan: Reflections* 徐復觀雜文: 記所思, Taibei: Times Publishing.
+* –––, 1980b, “Mourning Xiong Shili 悼念熊十力先生”, in * The Finest Selected Writings of Xu Fuguan* 徐復觀文錄選粹, Xiao Xinyi (ed.), Taibei: Student Books, 339–342.
+* –––, 2022, * The Chinese Liberal Spirit: Selected Writings of Xu Fuguan*, David Elstein (ed./trans.), Albany, NY: SUNY Press.
+* Yan Fu 嚴復, 1898, * On Heavenly Evolution * 天演論, 2 vols., Mianyang, China: Shenshi jizhai. (Based on Thomas Henry Huxley's * Evolution and Ethics*, this is a partial translation and rearrangement of the original with Yan's own commentary.)
+* Yao, Xinzhong, 2000, * An Introduction to Confucianism*, (Introduction to Religion), New York: Cambridge University Press. doi: 10.1017/CBO9780511800887
 
 ## Academic Tools
 

@@ -10,15 +10,15 @@
 
 ## 问题
 
-女性主义形而上学项目的基本目标是：是否形而上学关于存在和本质的主张支持了性别歧视，如果是，是如何支持的？女性主义者是否应该挑战（或支持）特定的形而上学假设或推理模式？对这些问题的回答提出了对概念的批判和重建，例如自我（Meyers 1997, 2004a; Willett, Anderson, & Meyers 2016）、性别和性取向（Butler 1987, 1990, 1993; Fausto-Sterling 2000）、心灵和身体（Bordo 1987, 1993; Young 1990; Scheman 1993; Gatens 1996; Wendell 1996; Schiebinger 2000）、自然（Lloyd 1984; Haraway1991; Butler 1993; Warren 1997）、本质（Witt 1993, 1995, 2011b,c; Schor & Weed 1994; Stoljar 1995）、身份（Spelman 1988; Lugones 1994; Young 1994; Frye 1996; Lindemann Nelson 2001; Alcoff 2006; Warnke 2008; Heinämaa 2011; Lindemann 2014）和客体化（Papadaki 2015）。女性主义者还质疑形而上学是否是一种合法的研究形式，提出了关于形而上学探究中基础主义假设的认识论问题（Irigaray 1985; Flax 1986; Fraser & Nicholson 1990; Haslanger 2000a）。我们将在这里重点讨论前一组问题，仅在提及方法论和认识论问题时进行简要提及。
+女性主义形而上学项目的基本目标是：是否形而上学关于存在和本质的主张支持了性别歧视，如果是，是如何支持的？女性主义者是否应该挑战（或支持）特定的形而上学假设或推理模式？对这些问题的回答提出了对概念的批判和重建，例如自我（Meyers 1997, 2004a; Willett, Anderson, & Meyers 2016）、性别和性取向（Butler 1987, 1990, 1993; Fausto-Sterling 2000）、心灵和身体（Bordo 1987, 1993; Young 1990; Scheman 1993; Gatens 1996; Wendell 1996; Schiebinger 2000）、自然（Lloyd 1984; Haraway1991; Butler 1993; Warren 1997）、本质（Witt 1993, 1995, 2011b, c; Schor & Weed 1994; Stoljar 1995）、身份（Spelman 1988; Lugones 1994; Young 1994; Frye 1996; Lindemann Nelson 2001; Alcoff 2006; Warnke 2008; Heinämaa 2011; Lindemann 2014）和客体化（Papadaki 2015）。女性主义者还质疑形而上学是否是一种合法的研究形式，提出了关于形而上学探究中基础主义假设的认识论问题（Irigaray 1985; Flax 1986; Fraser & Nicholson 1990; Haslanger 2000a）。我们将在这里重点讨论前一组问题，仅在提及方法论和认识论问题时进行简要提及。
 
-对于本世纪女性主义形而上学的概述，回顾西蒙娜·德·波伏儿（Beauvoir 1949）的经典著作《第二性》是有帮助的。她最著名的两个论断似乎具有深刻的形而上学含义：“一个女人并非生来如此，而是逐渐成为”，（Beauvoir [1949] 1989: 267）和“他是主体，他是绝对——她是他者”（Beauvoir [1949] 1989: xxviii）。关于如何解释这两个论断存在分歧，然而对许多人来说，前者是性别社会建构观的口号，后者确定了女性建构的内容是与男性相对立的，而男性也被视为主体或自我。女性主义形而上学中突出的三个相互关联的主题在这里浮现：（i）性别（和其他类别）的社会建构，（ii）自我的关系性质（和其他类别），（iii）二元思维的危险。我们将提及女性主义形而上学对主流形而上学的内容和实践提出的挑战。
+对于本世纪女性主义形而上学的概述，回顾西蒙娜 · 德 · 波伏儿（Beauvoir 1949）的经典著作《第二性》是有帮助的。她最著名的两个论断似乎具有深刻的形而上学含义：“一个女人并非生来如此，而是逐渐成为”，（Beauvoir [1949] 1989: 267）和“他是主体，他是绝对——她是他者”（Beauvoir [1949] 1989: xxviii）。关于如何解释这两个论断存在分歧，然而对许多人来说，前者是性别社会建构观的口号，后者确定了女性建构的内容是与男性相对立的，而男性也被视为主体或自我。女性主义形而上学中突出的三个相互关联的主题在这里浮现：（i）性别（和其他类别）的社会建构，（ii）自我的关系性质（和其他类别），（iii）二元思维的危险。我们将提及女性主义形而上学对主流形而上学的内容和实践提出的挑战。
 
 ## 社会建构
 
-在声称一个人并非生而为女时，博沃亚并非在暗示一个人从未出生时具有女性身体部位；相反，她关心的是，拥有女性（或男性）身体部位本身并不意味着一个人应该或者能够在社会中扮演何种角色[1]。尽管如此，社会大多数情况下为女性保留了某些社会角色、规范和活动，这些使她们在与男性的关系中处于不利地位，将这些差异视为必要，因为自然（博沃亚[1949] 1989：第 1 章）。如果像博沃亚所敦促的那样承认，女性和男性是在某种程度上是社会问题，这就打开了性别角色可能通过社会变革变得更加公平的可能性。为了简化讨论，我们将使用“男性”/“女性”这些术语来标记目前熟知的以一次性和二次性特征为基础的性别区分，并使用“男人”/“女人”来标记性别区别，其中性别是根据这个口号，“性别的社会意义”。
+在声称一个人并非生而为女时，博沃亚并非在暗示一个人从未出生时具有女性身体部位；相反，她关心的是，拥有女性（或男性）身体部位本身并不意味着一个人应该或者能够在社会中扮演何种角色 [1]。尽管如此，社会大多数情况下为女性保留了某些社会角色、规范和活动，这些使她们在与男性的关系中处于不利地位，将这些差异视为必要，因为自然（博沃亚 [1949] 1989：第 1 章）。如果像博沃亚所敦促的那样承认，女性和男性是在某种程度上是社会问题，这就打开了性别角色可能通过社会变革变得更加公平的可能性。为了简化讨论，我们将使用“男性”/“女性”这些术语来标记目前熟知的以一次性和二次性特征为基础的性别区分，并使用“男人”/“女人”来标记性别区别，其中性别是根据这个口号，“性别的社会意义”。
 
-这一主题——社会等级制度是通过其自然基础的神话来维持的——已经引发了大量关于特定性别建构的研究（Delphy 1984; Scott 1986; MacKinnon 1989; Butler 1990; Wittig 1992; Alcoff 2006; Warnke 2008; Witt 2011a,c; Haslanger 2012），但也有关于其他“自然化”社会范畴的建构的研究，比如种族（Appiah 1996; Zack 2002; Warnke 2008）以及在某种不同方式上，性取向（Butler 1990, 1993; Fausto-Sterling 2000）。历史、人类学、文学和社会学的研究记录了性别（以及其他类别）被强制执行的各种机制，而心理学和生物学的研究进一步削弱了身体类型与社会角色之间的联系。在见证了“神话”自然化的力量后，女性主义者倾向于对任何类别“自然”的建议或“自然”应该如何决定我们社会组织的建议持谨慎态度。然而，有几个不同的去自然化项目经常被误认为是相互关联的，它们涉及不同类型的形而上学问题。
+这一主题——社会等级制度是通过其自然基础的神话来维持的——已经引发了大量关于特定性别建构的研究（Delphy 1984; Scott 1986; MacKinnon 1989; Butler 1990; Wittig 1992; Alcoff 2006; Warnke 2008; Witt 2011a, c; Haslanger 2012），但也有关于其他“自然化”社会范畴的建构的研究，比如种族（Appiah 1996; Zack 2002; Warnke 2008）以及在某种不同方式上，性取向（Butler 1990, 1993; Fausto-Sterling 2000）。历史、人类学、文学和社会学的研究记录了性别（以及其他类别）被强制执行的各种机制，而心理学和生物学的研究进一步削弱了身体类型与社会角色之间的联系。在见证了“神话”自然化的力量后，女性主义者倾向于对任何类别“自然”的建议或“自然”应该如何决定我们社会组织的建议持谨慎态度。然而，有几个不同的去自然化项目经常被误认为是相互关联的，它们涉及不同类型的形而上学问题。
 
 ### 思想和概念的构建
 
@@ -44,7 +44,7 @@
 
 现在考虑对象（以最广义的意义理解“对象”为几乎任何不是想法的东西）。在某种意义上，任何工件都是一种构造；但声称剪刀或汽车是社会构造并没有多大意义，因为这种说法会显得平凡。总的来说，社会建构主义者正在辩论一个令人惊讶的论点，他们认为这挑战了我们日常对事物的看法。说女性或亚裔美国人、同性恋者、虐待儿童者或难民是社会建构，这更令人惊讶。这意味着什么？
 
-在考虑对象的构建时，首先要注意的是，我们的分类方案，至少在社会背景下，可能不仅仅是对现有个体群体进行映射；相反，我们的归因具有建立和强化群体的能力，这些群体最终可能会“适应”这些分类。这种作用有几种方式。描述或分类形式提供了意图的种类；例如，给定分类“酷”，我们可以着手变得酷，或避免变得酷等。但是，这些分类也可以用于证明行为；例如，“我们没有邀请他是因为他不酷”，这样的证明反过来又可以强化那些酷和不酷之间的区别。借鉴伊恩·哈金的工作，哈斯兰格将这称为“话语性”建构：
+在考虑对象的构建时，首先要注意的是，我们的分类方案，至少在社会背景下，可能不仅仅是对现有个体群体进行映射；相反，我们的归因具有建立和强化群体的能力，这些群体最终可能会“适应”这些分类。这种作用有几种方式。描述或分类形式提供了意图的种类；例如，给定分类“酷”，我们可以着手变得酷，或避免变得酷等。但是，这些分类也可以用于证明行为；例如，“我们没有邀请他是因为他不酷”，这样的证明反过来又可以强化那些酷和不酷之间的区别。借鉴伊恩 · 哈金的工作，哈斯兰格将这称为“话语性”建构：
 
 > 话语建构：如果某物是话语建构的，那么它在很大程度上是因为被归因于它的内容或被分类的方式而存在的。（Haslanger 1995: 99）
 
@@ -52,15 +52,15 @@
 
 请注意，说一个实体是“话语建构的”并不意味着语言或话语会使一个物质对象从无到有地存在。相反，某种存在的东西因为被以某种方式分类而具备了一组特征，使其符合某种类型或种类的成员资格。[4] 某人在出生时被分类为女性（并且自那时以来一直如此）已经成为她被看待和对待的一个因素；这些看法和对待反过来在她被性别化为女性方面发挥了重要的因果作用。例如，为了当前的目的，让我们假设被性别化为女性是在社会背景中扮演与女性生殖能力相关的广泛角色。通过社会化的过程——被视为女孩并接受对待——她学会了，并最终内化了，女性的“适当”角色是什么，以及如何标记自己为占据这个角色。因此，她学会了女孩只吃这么多，只玩这样的游戏，只穿某些衣服。无论她是否接受这些规范，与之协商是她成为女性的过程；但话语并没有使她存在。
 
-性别（在不同意义上）似乎既是一种思想建构，也是一种客体建构。性别是一种思想建构，因为男性/女性的分类是历史事件和力量的偶然结果。正如我们上面看到的，男性和女性之间的日常区分忽略了可能被赋予自己性别类别的间性人口。可以说，事实上，一些文化将身体分为三个性别/生殖群体。同时，“女人”和“男人”这些分类是 Hacking 所谓的“互动性种类”：性别分类发生在一个复杂的制度和实践矩阵中，被分类为女人（或不是），或男人（或不是），或第三、第四、第五性别/性别或不是，对个体有深远影响。这种分类将对一个人的社会地位产生实质影响，同时也会影响一个人的经历和自我理解。从这个意义上讲，女性和男性——具体的个体——被构造为有性别特征的人，即，我们每个人都是客体构造（有关更多细节，请参见Ásta Sveinsdóttir 2015）。
+性别（在不同意义上）似乎既是一种思想建构，也是一种客体建构。性别是一种思想建构，因为男性/女性的分类是历史事件和力量的偶然结果。正如我们上面看到的，男性和女性之间的日常区分忽略了可能被赋予自己性别类别的间性人口。可以说，事实上，一些文化将身体分为三个性别/生殖群体。同时，“女人”和“男人”这些分类是 Hacking 所谓的“互动性种类”：性别分类发生在一个复杂的制度和实践矩阵中，被分类为女人（或不是），或男人（或不是），或第三、第四、第五性别/性别或不是，对个体有深远影响。这种分类将对一个人的社会地位产生实质影响，同时也会影响一个人的经历和自我理解。从这个意义上讲，女性和男性——具体的个体——被构造为有性别特征的人，即，我们每个人都是客体构造（有关更多细节，请参见 Ásta Sveinsdóttir 2015）。
 
 ### 2.3 建构与构成
 
 有另一种意义上的社会建构。到目前为止，我们一直在关注社会因果关系：说某事是社会建构意味着它被引起成某种方式，而这种因果过程涉及社会因素，例如，社会力量在很大程度上导致我产生了丈夫的概念，社会力量在很大程度上导致存在丈夫。但是，当理论家们经常争论某事是社会建构时，重点并非在于因果关系。相反，重点在于区分社会类别和物理类别。在性别问题上，关键在于性别不是仅仅基于解剖或生物学差异的分类方案，而是标志着个体之间的社会差异。性别与性不同，不是关于睾丸和卵巢，阴茎和子宫，而是关于一套社会类别系统（参见，例如，Haslanger 1993, 2000b; 也有 Wittig 1992; Delphy 1984; MacKinnon 1989）。
 
-考虑，例如，地主这一类别。要成为一个地主，必须位于一个包括租户、私人财产等在内的广泛社会和经济关系系统中。也许所有地主都在左耳后面有一个痣。但即使是这种情况，拥有这种身体标记并不是成为地主的本质。同样，人们可能想要区分性别和性别，性别是基于当地显著性别/生殖差异的解剖学区别（请参阅Ásta Sveinsdóttir 2011 提出的另一种概念），而性别是指那些身体被标记为不同性别的人的社会/政治地位之间的区别。我们可以允许性别和性别的类别相互作用（因此，对身体之间的区别的关注将影响社会分歧，反之亦然）；但即使要清楚它们是如何相互作用的，我们也应该加以区分。有了性别和性别之间的区别，可能有些男性是女性，有些女性是男性。因为在这种概念中，一个人是女性是由于一些（可变的）解剖特征，一个人是女人是由于一个人在社会和经济系统中的地位，性别/性别的区别为我们提供了一些（至少是初步的）资源，以便将跨性别者纳入我们的概念框架中（请参阅 Bettcher 2014 进一步了解）。
+考虑，例如，地主这一类别。要成为一个地主，必须位于一个包括租户、私人财产等在内的广泛社会和经济关系系统中。也许所有地主都在左耳后面有一个痣。但即使是这种情况，拥有这种身体标记并不是成为地主的本质。同样，人们可能想要区分性别和性别，性别是基于当地显著性别/生殖差异的解剖学区别（请参阅 Ásta Sveinsdóttir 2011 提出的另一种概念），而性别是指那些身体被标记为不同性别的人的社会/政治地位之间的区别。我们可以允许性别和性别的类别相互作用（因此，对身体之间的区别的关注将影响社会分歧，反之亦然）；但即使要清楚它们是如何相互作用的，我们也应该加以区分。有了性别和性别之间的区别，可能有些男性是女性，有些女性是男性。因为在这种概念中，一个人是女性是由于一些（可变的）解剖特征，一个人是女人是由于一个人在社会和经济系统中的地位，性别/性别的区别为我们提供了一些（至少是初步的）资源，以便将跨性别者纳入我们的概念框架中（请参阅 Bettcher 2014 进一步了解）。
 
-在考虑这种社会建构形式，或者我们可以称之为社会构成时，重要的是要注意社会类型不能等同于具有社会原因的事物。社会生物学家声称一些社会现象具有生物原因；一些女性主义者声称解剖学现象具有社会原因，例如，特定背景下男性和女性之间平均身高和力量差异的差距取决于该背景中关于食物和锻炼的性别规范等因素。正如露丝·哈伯德解释的那样，
+在考虑这种社会建构形式，或者我们可以称之为社会构成时，重要的是要注意社会类型不能等同于具有社会原因的事物。社会生物学家声称一些社会现象具有生物原因；一些女性主义者声称解剖学现象具有社会原因，例如，特定背景下男性和女性之间平均身高和力量差异的差距取决于该背景中关于食物和锻炼的性别规范等因素。正如露丝 · 哈伯德解释的那样，
 
 > 我们与环境动态互动。性别差异是社会构建的，因为作为女孩或男孩的成长会产生生物和社会差异。社会定义了适合性别的行为，我们每个人都学会遵守这些行为规范，我们的行为影响我们的骨骼、肌肉、感觉器官、神经、大脑、肺部、循环系统，一切。这样，社会将我们构建为在生物和社会上都有性别的人。(Hubbard 1990: 138)
 
@@ -74,7 +74,7 @@
 
 构成性社会建构项目提供了有关该类别的形而上学，即对该类别的本质是什么的回答。因果建构项目并不这样做，而是揭示社会实践如何涉及作为现象的原因或结果（Ásta Sveinsdóttir 2015）。
 
-最近的大量工作集中在社会类别和社会属性的形而上学上（Frye 2011; Mikkola 2006, 2011; Stoljar 2011; Ásta Sveinsdóttir 2011; Witt 2011a,c）。对性别的描述也受到了很多关注。我们现在转向这个问题。最近的大量工作集中在社会类别和社会属性的形而上学上（Frye 2011; Mikkola 2006, 2011; Stoljar 2011; Ásta Sveinsdóttir 2011; Witt 2011a,c）。对性别的描述也受到了很多关注。我们现在转向这个问题。
+最近的大量工作集中在社会类别和社会属性的形而上学上（Frye 2011; Mikkola 2006, 2011; Stoljar 2011; Ásta Sveinsdóttir 2011; Witt 2011a, c）。对性别的描述也受到了很多关注。我们现在转向这个问题。最近的大量工作集中在社会类别和社会属性的形而上学上（Frye 2011; Mikkola 2006, 2011; Stoljar 2011; Ásta Sveinsdóttir 2011; Witt 2011a, c）。对性别的描述也受到了很多关注。我们现在转向这个问题。
 
 ### 2.4 性别的建构
 
@@ -102,13 +102,13 @@ Sally Haslanger 拥抱了性别是性别社会意义的口号，并且她提供�
 
 Haslanger 对性别的社会建构的阐述是对性别是什么类型的事物，它们是如何被创造和维持的这个问题的回答。根据她的说法，性别是社会结构中的社会地位，而不是例如生物类别。在她看来，当提出关于某事物的理论时，无论是性别还是其他事物，我们总是要问这个理论是为了解决什么问题：这个理论应该揭示什么？理论总是其创作者、其所处的时代和地点的产物，并且是在当时进行的对话、政治和活动家斗争的背景下提出的。例如，Haslanger 首次在 1995-1996 年阐述了她的性别理论，并希望提供一个不将女性定义为某种固有（生物或心理）特征的解释，而是在唯物主义女性主义传统中，认为女性是一个社会阶级。其目的是突出我们都参与其中的某些结构性不公正，而不是提供一个关于性别的解释来解决所有关于性别的问题。结构性解释的目标不同于那些以捕捉人们自身对经验看法为中心目标的解释。对 Haslanger 理论的批判性参与，有助于从 Mills 2014，Jones 2014，Haslanger 2014，Mikkola 2016a 和 Bettcher 2012 开始。
 
-夏洛特·维特在她最近的著作《性别形而上学》（2011c）中提供了一个关于性别的阐述，该阐述借鉴了亚里士多德以及女性主义理论。维特阐述的主要目的是提供一个关于性别的形而上学，以阐明性别在我们的生活经验中的核心地位，并她构建了一个框架来理解这种核心性。她的观点是，事实上，在像美国这样的西方后资本主义社会中，性别对社会个体来说是不可或缺的。让我们详细阐述这一点（这里我们参考了Ásta Sveinsdóttir 2012）。夏洛特·维特在她最近的著作《形而上学的性别》（2011c）中提供了一个关于性别的阐述，该阐述借鉴了亚里士多德以及女性主义理论。维特阐述的主要目的是提供一个关于性别的形而上学，以阐明性别在我们的生活经验中的核心地位，并她构建了一个框架来理解这种核心性。她的观点是，事实上，在像美国这样的西方后资本主义社会中，性别对社会个体来说是不可或缺的。让我们详细阐述这一点（这里我们参考了Ásta Sveinsdóttir 2012）。
+夏洛特 · 维特在她最近的著作《性别形而上学》（2011c）中提供了一个关于性别的阐述，该阐述借鉴了亚里士多德以及女性主义理论。维特阐述的主要目的是提供一个关于性别的形而上学，以阐明性别在我们的生活经验中的核心地位，并她构建了一个框架来理解这种核心性。她的观点是，事实上，在像美国这样的西方后资本主义社会中，性别对社会个体来说是不可或缺的。让我们详细阐述这一点（这里我们参考了 Ásta Sveinsdóttir 2012）。夏洛特 · 维特在她最近的著作《形而上学的性别》（2011c）中提供了一个关于性别的阐述，该阐述借鉴了亚里士多德以及女性主义理论。维特阐述的主要目的是提供一个关于性别的形而上学，以阐明性别在我们的生活经验中的核心地位，并她构建了一个框架来理解这种核心性。她的观点是，事实上，在像美国这样的西方后资本主义社会中，性别对社会个体来说是不可或缺的。让我们详细阐述这一点（这里我们参考了 Ásta Sveinsdóttir 2012）。
 
 首先，对于一个功能对于一个实体来说是唯一本质的，是指它将该个体的所有部分统一和组织成为构成该个体的整体。例如，计时功能将所有微小的金属部件（指针、弹簧、齿轮等）统一和组织成为手表本身。同样，庇护功能将木屋的所有木板统一和组织成为构成房屋本身的实体。
 
 性别，以这种方式理解，是将社会个体的所有部分组织成其本身的社会个体的功能。所涉及的部分是社会个体所扮演的所有其他社会角色：父母、朋友、教授、孩子、同事等。性别（男性、女性）是一个巨大的社会角色，将所有其他社会角色统一为社会个体的行动者。成为一个女性、一个父母等，就是占据一个社会位置，随之而来的是行为规范。社会个体是占据所有这些社会位置的实体，可以说是这些社会属性的承担者。
 
-社会个体与人类有机体和个人是不同的，因为社会个体基本上处于社会关系中，而人类有机体和个人只是偶然如此。同样，个人与人类有机体和社会个体是不同的，因为个人基本上有能力对自己采取第一人称视角，而人类有机体和社会个体只是偶然如此。最后，人类有机体基本上具有某些生物特征，但个人和社会个体只是偶然如此。对于对维特理论的批判性参与，从 Cudd 2012、Mikkola 2012 和Ásta Sveinsdóttir 2012 开始是有帮助的。
+社会个体与人类有机体和个人是不同的，因为社会个体基本上处于社会关系中，而人类有机体和个人只是偶然如此。同样，个人与人类有机体和社会个体是不同的，因为个人基本上有能力对自己采取第一人称视角，而人类有机体和社会个体只是偶然如此。最后，人类有机体基本上具有某些生物特征，但个人和社会个体只是偶然如此。对于对维特理论的批判性参与，从 Cudd 2012、Mikkola 2012 和 Ásta Sveinsdóttir 2012 开始是有帮助的。
 
 有一些关于性别的最新论述。我们在这里简要提及一些。有关更详细的讨论，请参阅 Mikkola 2016a。
 
@@ -140,33 +140,33 @@ Natalie Stoljar (1995)认为性别的概念是一个群集概念。没有所有�
 
 这种分析有两个重要的后果。首先，对于物质而言，通常认为你要么是某种类别的成员，要么不是，没有中间地带：你要么是马，要么不是。(因为没有马的对立或相反，唯一的负面选择是矛盾的。)再次，我们可以将这与其他对立面进行对比：在长/短、内/外、大声/安静之间存在中间地带；有些事物完全避免了对立，例如，我的咖啡杯既不大声也不安静。因此，将一个范畴视为实质性的，限制了可用于分类的范畴。例如，假设我们将“男性”理解为实质性的。如果男性是一种物质类别，那么一切要么是男性，要么不是男性，没有中间地带。但是，如果在实践中，“非男性”实际上起到了挑选女性的作用，那么似乎一切都必须是男性或女性，而没有空间容纳真正的人类别，他们是雌雄同体的，或者拒绝对人们进行性别划分。因此，削弱一个范畴是实质性的想法的策略之一是突出个体和范畴的多样性，以及主要范畴及其隐含对立之间的“中间”范畴。范畴的增多——连续体或真正“混合”的范畴的产生——可以减弱实质性假设的影响力（Butler 1987；Lugones 1994；Haraway 1988；Zack 1995）。
 
-其次，在物质种类的情况下，那些不属于该种类的东西本身并不形成自己的一种。它们是“剩下来的”。所有不是马的东西的类别包括计算机、星星、尘土、篮球、人等。因此，如果我们省略“非男性”和“女性”，那么女性就不被视为一种。正如玛丽莲·弗莱所说，
+其次，在物质种类的情况下，那些不属于该种类的东西本身并不形成自己的一种。它们是“剩下来的”。所有不是马的东西的类别包括计算机、星星、尘土、篮球、人等。因此，如果我们省略“非男性”和“女性”，那么女性就不被视为一种。正如玛丽莲 · 弗莱所说，
 
-> 当女性被定义为非男性时，她被投入到无限的未区分的充实中......[这在一定程度上解释了为什么]许多男性可以如此自然地用并列结构谈论他们的汽车和他们的女人，并说出像“这是我的房子，我的妻子，我的钱，政府不能告诉我如何处理这些事情”这样的话。这也阐明了女性如此容易与混乱、混乱、非理性和不纯洁联系在一起的事实......在非男性中没有类别；它是一片嗡嗡作响的混乱。（Frye 1996: 1000）
+> 当女性被定义为非男性时，她被投入到无限的未区分的充实中......[这在一定程度上解释了为什么] 许多男性可以如此自然地用并列结构谈论他们的汽车和他们的女人，并说出像“这是我的房子，我的妻子，我的钱，政府不能告诉我如何处理这些事情”这样的话。这也阐明了女性如此容易与混乱、混乱、非理性和不纯洁联系在一起的事实......在非男性中没有类别；它是一片嗡嗡作响的混乱。（Frye 1996: 1000）
 
 弗莱的策略并非通过扩散来挑战人类的实质地位，而是挑战其在人类空间中的霸权。因此，她提出建构一个以自身条件定义的女性类别，而非仅仅通过与男性的对立来定义（见 Schor & Weed 1994）。她认为，这将需要承认不仅男性和女性之间的真正差异，还有女性之间的差异。[7]
 
-这只是女性主义讨论中涉及的双元论问题的冰山一角，这些问题指导着我们的思维方式，无论是在哲学还是常识中。这些包括心灵/身体，理性/情感（Jaggar 1989; Scheman 1993; Rooney 1993, 1994; Campbell 1998），自然/文化（Ortner 1972; Butler 1993），自由/必然（Mackenzie & Stoljar 2000; Hirschmann 2003; Holroyd 2011），行动者/受害者（Meyers 2004a,b）。然而，希望这提供了一些关于女性主义议题的介绍，这些议题涉及分类、物质、二分法，以及本体论的潜在政治意义，以及价值负载问题和女性主义理论中对意识形态的关注的重要性（Alcoff 2011; Haslanger 2011; Janack 2011）。
+这只是女性主义讨论中涉及的双元论问题的冰山一角，这些问题指导着我们的思维方式，无论是在哲学还是常识中。这些包括心灵/身体，理性/情感（Jaggar 1989; Scheman 1993; Rooney 1993, 1994; Campbell 1998），自然/文化（Ortner 1972; Butler 1993），自由/必然（Mackenzie & Stoljar 2000; Hirschmann 2003; Holroyd 2011），行动者/受害者（Meyers 2004a, b）。然而，希望这提供了一些关于女性主义议题的介绍，这些议题涉及分类、物质、二分法，以及本体论的潜在政治意义，以及价值负载问题和女性主义理论中对意识形态的关注的重要性（Alcoff 2011; Haslanger 2011; Janack 2011）。
 
 ## 5. 主题概述
 
-有几个值得现在提出的总体问题，概述已经放置。这里提供的大纲表明，女性主义者在许多不同的方式上都渴望“揭示”或“揭露”或“神话化”我们日常（和哲学）思维的某些方面。在我们通常认为自己在处理物质的本体论、自然事物、固有属性时，实际上我们正在处理社会事物、关系和非实质（通常是规范性的）种类的本体论。但这些“揭示”项目与被视为“主流”哲学或更具体地说是“主流”形而上学的项目之间的关系是什么？这么多的分析形而上学包括对我们日常概念的“重建”；其中相当多的内容毫不掩饰地是“修订性的”。因此，女性主义形而上学似乎很合适。显然，女性主义形而上学在主题和背景假设上与主流有所不同，特别是在关注我们概念、范畴和理论可能的价值负荷以及对辩护意识形态的潜在危害方面。但是否存在更重大的差异？女性主义形而上学只是针对不同问题的“主流”形而上学，还是存在深刻的差异？如果存在深刻的差异，那究竟是什么？巴恩斯和米科拉最近指责非女性主义圈子中对形而上学的某些普遍概念甚至排斥了女性主义形而上学。指责是，主流形而上学中对形而上学的普遍概念认为形而上学关注现实的基本结构和什么是“基本”，假定社会现实不能是基本或基本的（巴恩斯 2014 年，即将出版；米科拉即将出版）。乔纳森·夏弗和泰德·西德已经对这些指责进行了回应（夏弗即将出版；西德即将出版），试图表明他们各自的元形而上学理论为女性主义形而上学和社会形而上学留有空间。
+有几个值得现在提出的总体问题，概述已经放置。这里提供的大纲表明，女性主义者在许多不同的方式上都渴望“揭示”或“揭露”或“神话化”我们日常（和哲学）思维的某些方面。在我们通常认为自己在处理物质的本体论、自然事物、固有属性时，实际上我们正在处理社会事物、关系和非实质（通常是规范性的）种类的本体论。但这些“揭示”项目与被视为“主流”哲学或更具体地说是“主流”形而上学的项目之间的关系是什么？这么多的分析形而上学包括对我们日常概念的“重建”；其中相当多的内容毫不掩饰地是“修订性的”。因此，女性主义形而上学似乎很合适。显然，女性主义形而上学在主题和背景假设上与主流有所不同，特别是在关注我们概念、范畴和理论可能的价值负荷以及对辩护意识形态的潜在危害方面。但是否存在更重大的差异？女性主义形而上学只是针对不同问题的“主流”形而上学，还是存在深刻的差异？如果存在深刻的差异，那究竟是什么？巴恩斯和米科拉最近指责非女性主义圈子中对形而上学的某些普遍概念甚至排斥了女性主义形而上学。指责是，主流形而上学中对形而上学的普遍概念认为形而上学关注现实的基本结构和什么是“基本”，假定社会现实不能是基本或基本的（巴恩斯 2014 年，即将出版；米科拉即将出版）。乔纳森 · 夏弗和泰德 · 西德已经对这些指责进行了回应（夏弗即将出版；西德即将出版），试图表明他们各自的元形而上学理论为女性主义形而上学和社会形而上学留有空间。
 
 ## Bibliography
 
-* Alcoff, Linda Martín, 2006, *Visible Identities: Race, Gender, and the Self*, Oxford: Oxford University Press. doi:10.1093/0195137345.001.0001
-* –––, 2011, “Experience and Knowledge: The Case of Sexual Abuse Memories”, in Witt 2011a: 209–223. doi:10.1007/978-90-481-3783-1_12
-* Anderson, Elizabeth, 1995, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”, *Philosophical Topics*, 23(2): 27–58. doi:10.5840/philtopics199523213
+* Alcoff, Linda Martín, 2006, *Visible Identities: Race, Gender, and the Self*, Oxford: Oxford University Press. doi: 10.1093/0195137345.001.0001
+* –––, 2011, “Experience and Knowledge: The Case of Sexual Abuse Memories”, in Witt 2011a: 209–223. doi: 10.1007/978-90-481-3783-1_12
+* Anderson, Elizabeth, 1995, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”, *Philosophical Topics*, 23(2): 27–58. doi: 10.5840/philtopics199523213
 * Antony, Louisa and Charlotte Witt (eds.), 1993, *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Boulder, CO: Westview.
 * Appiah, Kwame Anthony, 1996, “Race, Culture, Identity: Misunderstood Connections”, in K. A. Appiah and A. Gutmann (eds.), *Color Conscious: The Political Morality of Race*, Princeton: Princeton University Press, pp. 30–105.
-* Ásta Kristjana Sveinsdóttir, 2011, “The Metaphysics of Sex and Gender”, in Witt 2011a: 47–65. doi:10.1007/978-90-481-3783-1_4
+* Ásta Kristjana Sveinsdóttir, 2011, “The Metaphysics of Sex and Gender”, in Witt 2011a: 47–65. doi: 10.1007/978-90-481-3783-1_4
 * –––, 2012, “Commentary on Charlotte Witt’s *The Metaphysics of Gender*”, *Symposia on Gender, Race and Philosophy*, 8(2), [Ásta 2012 available online](http://web.mit.edu/~sgrp/2012/no2/SGRPv8no2(0512).pdf).
-* –––, 2013, “The Social Construction of Human Kinds”, *Hypatia*, 28(4): 716–732. doi:10.1111/j.1527-2001.2012.01317.x
-* –––, 2015, “Social Construction”, *Philosophy Compass*, 10(12): 884–892. doi:10.1111/phc3.12265
+* –––, 2013, “The Social Construction of Human Kinds”, *Hypatia*, 28(4): 716–732. doi: 10.1111/j.1527-2001.2012.01317.x
+* –––, 2015, “Social Construction”, *Philosophy Compass*, 10(12): 884–892. doi: 10.1111/phc3.12265
 * Bach, Theodore, 2012, “Gender is a Natural Kind with a Historical Essence”, *Ethics*, 122: 231–272.
-* Barnes, Elizabeth, 2014, “Going Beyond the Fundamental: Feminism in Contemporary Metaphysics”, *Proceedings of the Aristotelian Society*, 114(3pt3): 335–351. doi:10.1111/j.1467-9264.2014.00376.x
-* –––, forthcoming, “Realism and Social Structure”, *Philosophical Studies*, first published online 08 August 2016, doi:10.1007/s11098-016-0743-y
-* Bauer, Nancy, 2011, “Beauvoir on the Allure of Self-Objectification”, in Witt 2011a: 117–129. doi:10.1007/978-90-481-3783-1_8
+* Barnes, Elizabeth, 2014, “Going Beyond the Fundamental: Feminism in Contemporary Metaphysics”, *Proceedings of the Aristotelian Society*, 114(3pt3): 335–351. doi: 10.1111/j.1467-9264.2014.00376.x
+* –––, forthcoming, “Realism and Social Structure”, *Philosophical Studies*, first published online 08 August 2016, doi: 10.1007/s11098-016-0743-y
+* Bauer, Nancy, 2011, “Beauvoir on the Allure of Self-Objectification”, in Witt 2011a: 117–129. doi: 10.1007/978-90-481-3783-1_8
 * Beauvoir, Simone de, [1949] 1989, *The Second Sex*, trans. H. M. Parshley. New York: Vintage Books, 1989. (All page references are to the 1989 edition.).
 * Bettcher, Talia Mae, 2012, “Trans Women and the Meaning of ‘Woman’”, in *The Philosophy of Sex: Contemporary Readings*, sixth edition, Nicholas Power, Raja Halwani, and Alan Soble (eds.), Lanham, MD: Rowman and Littlefield, pp. 233–250.
 * –––, 2014, “Feminist Perspectives on Trans Issues”, *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2014/entries/feminism-trans/>.
@@ -181,10 +181,10 @@ Natalie Stoljar (1995)认为性别的概念是一个群集概念。没有所有�
 * Fausto-Sterling, Ann, 2000, *Sexing the Body: Gender Politics and the Construction of Sexuality*: New York: Basic Books.
 * Flax, Jane, 1986, “Gender as a Problem: In and For Feminist Theory”, *American Studies/Amerikastudien*, 31(2) (June): 193–213.
 * Fraser, Nancy and Linda Nicholson, 1990, “Social Criticism without Philosophy: An Encounter Between Feminism and Post-modernism”, in *Feminism/Postmodernism*, L. Nicholson (ed.), New York: Routledge, pp. 19–38.
-* Frayer, David L. and Milford H. Wolpoff, 1985, “Sexual Dimorphism”, *Annual Review of Anthropology*, 14: 429–473. doi:10.1146/annurev.an.14.100185.002241
+* Frayer, David L. and Milford H. Wolpoff, 1985, “Sexual Dimorphism”, *Annual Review of Anthropology*, 14: 429–473. doi: 10.1146/annurev.an.14.100185.002241
 * Frye, Marilyn, 1983, *The Politics of Reality: Essays in Feminist Theory*, New York: The Crossing Press.
-* –––, 1996, “The Necessity of Differences: Constructing a Positive Category of Women”, *Signs*, 21(4): 991–1010. doi:10.1086/495128
-* –––, 2011, “Metaphors of Being a Φ”, in Witt 2011a: 85–95. doi:10.1007/978-90-481-3783-1_6
+* –––, 1996, “The Necessity of Differences: Constructing a Positive Category of Women”, *Signs*, 21(4): 991–1010. doi: 10.1086/495128
+* –––, 2011, “Metaphors of Being a Φ”, in Witt 2011a: 85–95. doi: 10.1007/978-90-481-3783-1_6
 * Gatens, Moira, 1996, *Imaginary Bodies*, New York: Routledge.
 * Hacking, Ian, 1986, “Making Up People”, in *Reconstructing Individualism*, M. Heller et al. (eds.), Stanford, CA: Stanford University Press.
 * –––, 1999, *The Social Construction of What?*, Cambridge, MA: Harvard University Press.
@@ -192,70 +192,70 @@ Natalie Stoljar (1995)认为性别的概念是一个群集概念。没有所有�
 * –––, 1989, “Introduction”, in her *Primate Visions*, New York: Routledge, 1989, pp. 1–15.
 * –––, 1991, “A Cyborg Manifesto: Science, Technology and Socialist Feminism in the Late Twentieth Century”, in her *Simians, Cyborgs and Women: The Reinvention of Nature*, New York: Routledge, pp. 149–181.
 * Haslanger, Sally, 1993, “On Being Objective and Being Objectified”, in Antony and Witt 1993: 85–125.
-* –––, 1995, “Ontology and Social Construction”, *Philosophical Topics*, 23(2): 95–125. doi:10.5840/philtopics19952324
+* –––, 1995, “Ontology and Social Construction”, *Philosophical Topics*, 23(2): 95–125. doi: 10.5840/philtopics19952324
 * –––, 2000a, “Feminism and Metaphysics: Negotiating the Natural”, in *The Cambridge Companion to Feminism in Philosophy*, M. Fricker and J. Hornsby (eds.), Cambridge: Cambridge University Press, pp. 107–126.
-* –––, 2000b, “Gender and Race: (What) Are They? (What) Do We Want Them To Be?” *Noûs*, 34(1): 31–55. doi:10.1111/0029-4624.00201
+* –––, 2000b, “Gender and Race: (What) Are They? (What) Do We Want Them To Be?” *Noûs*, 34(1): 31–55. doi: 10.1111/0029-4624.00201
 * –––, 2000c, “Feminism and Metaphysics: Unmasking Hidden Ontologies”, *APA Newsletter on Feminism and Philosophy*, 99(2, Spring): 192–196.
 * –––, 2003, “Social Construction: The ‘Debunking’ Project”, in F. Schmitt, *Socializing Metaphysics: The Nature of Social Reality*, Lanham, MD: Rowman and Littlefield, pp. 301–325.
 * –––, 2005, “Social Construction: Who? What? Where? How?” in *Theorizing Feminisms*, Elizabeth Hackett and Sally Haslanger (eds.), Oxford: Oxford University Press, 16–23.
-* –––, 2011, “Ideology, Generics, and Common Ground”, in Witt 2011a: 179–207. doi:10.1007/978-90-481-3783-1_11
-* –––, 2012, *Resisting Reality: Social Construction and Social Critique*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199892631.001.0001
-* –––, 2014, “Race, Intersectionality, and Method: A Reply to Critics”, *Philosophical Studies*, 171(1): 109–119. doi:10.1007/s11098-013-0244-1
-* Heinämaa, Sara, 2011, “A Phenomenology of Sexual Difference: Types, Styles, and Persons”, in Witt 2011a: 131–155. doi:10.1007/978-90-481-3783-1_9
+* –––, 2011, “Ideology, Generics, and Common Ground”, in Witt 2011a: 179–207. doi: 10.1007/978-90-481-3783-1_11
+* –––, 2012, *Resisting Reality: Social Construction and Social Critique*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199892631.001.0001
+* –––, 2014, “Race, Intersectionality, and Method: A Reply to Critics”, *Philosophical Studies*, 171(1): 109–119. doi: 10.1007/s11098-013-0244-1
+* Heinämaa, Sara, 2011, “A Phenomenology of Sexual Difference: Types, Styles, and Persons”, in Witt 2011a: 131–155. doi: 10.1007/978-90-481-3783-1_9
 * Hirschmann, Nancy J., 2003, *The Subject of Liberty: Toward a Feminist Theory of Freedom*, Princeton: Princeton University Press.
-* Holroyd, Jules, 2011, “The Metaphysics of Relational Autonomy”, in Witt 2011a: 99–115. doi:10.1007/978-90-481-3783-1_7
+* Holroyd, Jules, 2011, “The Metaphysics of Relational Autonomy”, in Witt 2011a: 99–115. doi: 10.1007/978-90-481-3783-1_7
 * hooks, bell, 1981, *Ain’t I A Woman: Black Women and Feminism*, Boston: South End Press.
 * Hubbard, Ruth, 1990, *The Politics of Women’s Biology*, New Brunswick, NJ: Rutgers University Press.
 * Irigaray, Luce, 1985, *The Sex Which Is Not One*, C. Porter and C. Burke (trans.), Ithaca, NY: Cornell University Press.
 * Jaggar, Alison, 1989, “Love and Knowledge: Emotion in Feminist Epistemology”, in *Women, Knowledge, and Reality Explorations in Feminist Philosophy*, Ann Garry and Marilyn Pearsall (eds.) Boston: Unwin Hyman, pp. 129–155.
-* Janack, Marianne, 2011, “The Politics and Metaphysics of Experience”, in Witt 2011a: 159–178. doi:10.1007/978-90-481-3783-1_10
-* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of *Woman*”, *Ethics*, 126(2): 394–421. doi:10.1086/683535
-* Jones, Karen, 2014, “Intersectionality and ameliorative analyses of race and gender”, *Philosophical Studies*, 171(1): 99–107. doi:10.1007/s11098-013-0245-0
+* Janack, Marianne, 2011, “The Politics and Metaphysics of Experience”, in Witt 2011a: 159–178. doi: 10.1007/978-90-481-3783-1_10
+* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of *Woman*”, *Ethics*, 126(2): 394–421. doi: 10.1086/683535
+* Jones, Karen, 2014, “Intersectionality and ameliorative analyses of race and gender”, *Philosophical Studies*, 171(1): 99–107. doi: 10.1007/s11098-013-0245-0
 * Kittay, Eva, 1999, *Love’s Labor: Essays on Women, Equality and Dependency*, New York: Routledge.
-* Lindemann, Hilde, 2014, *Holding and Letting Go: The Social Practice of Personal Identities*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199754922.001.0001
+* Lindemann, Hilde, 2014, *Holding and Letting Go: The Social Practice of Personal Identities*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199754922.001.0001
 * Lindemann Nelson, Hilde, 2001, *Damaged Identities, Narrative Repair*, Ithaca, NY: Cornell University Press.
 * Lloyd, Genevieve, 1984, *The Man of Reason: “Male” and “Female” in Western Philosophy*, Minneapolis, MN: University of Minnesota Press.
-* Lugones, Maria, 1994, “Purity, Impurity and Separation”, *Signs*, 19(2): 458–79. doi:10.1086/494893
+* Lugones, Maria, 1994, “Purity, Impurity and Separation”, *Signs*, 19(2): 458–79. doi: 10.1086/494893
 * MacKenzie, Catriona and Natalie Stoljar, 2000, *Relational Autonomy: Feminist Perspectives on Autonomy, Agency an the Social Self*, Oxford: Oxford University Press.
 * MacKinnon, Catharine, 1989, *Toward a Feminist Theory of the State*, Cambridge, MA: Harvard.
 * McKitrick, Jennifer, 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172(10): 2575–2589.
 * Meyers, Diana Tietjens (ed.), 1997, *Feminists Rethink the Self*, Boulder, CO: Westview Press.
 * –––, 2004a, “Feminist Perspectives on the Self”, *The Stanford Encyclopedia of Philosophy* (Spring 2004 Edition), Edward N. Zalta, (ed.), URL = <[Feminist Perspectives on the Self (Stanford Encyclopedia of Philosophy/Spring 2004 Edition)](https://plato.stanford.edu/archives/spr2004/entries/feminism-self/)>.
-* –––, 2004b, *Gender in the Mirror: Cultural Imagery and Women’s Agency*, Oxford: Oxford University Press. doi:10.1093/0195140419.001.0001
-* Mikkola, Mari, 2006, “Elizabeth Spelman, Gender Realism, and Women”, *Hypatia*, 21(4): 79–96. doi:10.1111/j.1527-2001.2006.tb01129.x
-* –––, 2011, “Ontological Commitments, Sex and Gender”, in Witt 2011a: 67–83. doi:10.1007/978-90-481-3783-1_5
+* –––, 2004b, *Gender in the Mirror: Cultural Imagery and Women’s Agency*, Oxford: Oxford University Press. doi: 10.1093/0195140419.001.0001
+* Mikkola, Mari, 2006, “Elizabeth Spelman, Gender Realism, and Women”, *Hypatia*, 21(4): 79–96. doi: 10.1111/j.1527-2001.2006.tb01129.x
+* –––, 2011, “Ontological Commitments, Sex and Gender”, in Witt 2011a: 67–83. doi: 10.1007/978-90-481-3783-1_5
 * –––, 2012, “Commentary on Charlotte Witt’s *The Metaphysics of Gender*”, *Symposia on Gender, Race and Philosophy*, 8(2), [Mikkola 2012 available online](http://web.mit.edu/~sgrp/2012/no2/SGRPv8no2(0512).pdf).
 * –––, 2016a, “Feminist Perspectives on Sex and Gender”, *The Stanford Encyclopedia of Philosophy* (Spring 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2016/entries/feminism-gender/>.
-* –––, 2016b, *The Wrong of Injustice: Dehumanization and its Role in Feminist Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190601072.001.0001
-* –––, forthcoming, “On the Apparent Antagonism Between Feminist and Mainstream Metaphysics”, *Philosophical Studies*, first published online 14 July 2016, doi:10.1007/s11098-016-0732-1
-* Mills, Charles, 2014, “Notes from the Resistance: Some Comments on Sally Haslanger’s *Resisting Reality*”, *Philosophical Studies*, 171(1): 85–97. doi:10.1007/s11098-013-0249-9
-* Ortner, Sherry, 1972, “Is Female to Male as Nature Is to Culture?” *Feminist Studies*, 1(2): 5–31. doi:10.2307/3177638
+* –––, 2016b, *The Wrong of Injustice: Dehumanization and its Role in Feminist Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190601072.001.0001
+* –––, forthcoming, “On the Apparent Antagonism Between Feminist and Mainstream Metaphysics”, *Philosophical Studies*, first published online 14 July 2016, doi: 10.1007/s11098-016-0732-1
+* Mills, Charles, 2014, “Notes from the Resistance: Some Comments on Sally Haslanger’s *Resisting Reality*”, *Philosophical Studies*, 171(1): 85–97. doi: 10.1007/s11098-013-0249-9
+* Ortner, Sherry, 1972, “Is Female to Male as Nature Is to Culture?” *Feminist Studies*, 1(2): 5–31. doi: 10.2307/3177638
 * Papadaki, Evangelia (Lina), 2015, “Feminist Perspectives on Objectification”, *The Stanford Encyclopedia of Philosophy* (Winter 2015 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2015/entries/feminism-objectification](https://plato.stanford.edu/archives/win2015/entries/feminism-objectification/)>.
-* Rooney, Phyllis, 1993, “Feminist-Pragmatist Revisionings of Reason, Knowledge, and Philosophy”, *Hypatia*, 8(2): 15–37. doi:10.1111/j.1527-2001.1993.tb00089.x
+* Rooney, Phyllis, 1993, “Feminist-Pragmatist Revisionings of Reason, Knowledge, and Philosophy”, *Hypatia*, 8(2): 15–37. doi: 10.1111/j.1527-2001.1993.tb00089.x
 * –––, 1994, “Recent Work in Feminist Discussions of Reason”, *American Philosophical Quarterly*, 31: 1–21.
-* Schaffer, Jonathan, forthcoming, “Social Construction as Grounding; Or: Fundamentality for Feminists, a Reply to Barnes and Mikkola”, *Philosophical Studies*, first published online 18 July 2016, doi:10.1007/s11098-016-0738-8
+* Schaffer, Jonathan, forthcoming, “Social Construction as Grounding; Or: Fundamentality for Feminists, a Reply to Barnes and Mikkola”, *Philosophical Studies*, first published online 18 July 2016, doi: 10.1007/s11098-016-0738-8
 * Scheman, Naomi, 1993, *Engenderings: Constructions of Knowledge, Authority, and Privilege*, New York: Routledge.
 * Schiebinger, Linda (ed.), 2000, *Feminism and the Body*, Oxford: Oxford University Press.
 * Schor, Naomi and Elizabeth Weed (ed.), 1994, *The Essential Difference*, Bloomington: Indiana University Press.
-* Scott, Joan, 1986, “Gender: A Useful Category of Historical Analysis”, *American Historical Review*, 9(5): 1053–75. doi:10.2307/1864376
-* Sider, Theodore, forthcoming, “Substantivity in Feminist Metaphysics”, *Philosophical Studies*, first published online 20 July 2016, doi:10.1007/s11098-016-0739-7
+* Scott, Joan, 1986, “Gender: A Useful Category of Historical Analysis”, *American Historical Review*, 9(5): 1053–75. doi: 10.2307/1864376
+* Sider, Theodore, forthcoming, “Substantivity in Feminist Metaphysics”, *Philosophical Studies*, first published online 20 July 2016, doi: 10.1007/s11098-016-0739-7
 * Spelman, Elizabeth V., 1988, *Inessential Woman: Problems of Exclusion in Feminist Thought*, Boston: Beacon Press.
-* Stoljar, Natalie, 1995, “Essence, Identity and the Concept of Woman”, *Philosophical Topics*, 23(2): 261–294. doi:10.5840/philtopics19952328
+* Stoljar, Natalie, 1995, “Essence, Identity and the Concept of Woman”, *Philosophical Topics*, 23(2): 261–294. doi: 10.5840/philtopics19952328
 * –––, 2011, “Different Women: Gender and the Realism-Nominalism Debate”, in Witt 2011a: 27–46. doi: 10.1007/978-90-481-3783-1_3
 * –––, 2015, “Feminist Perspectives on Autonomy”, *The Stanford Encyclopedia of Philosophy* (Fall 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2015/entries/feminism-autonomy/>.
 * Wendell, Susan, 1996, *The Rejected Body: Feminist Philosophical Reflections on Disability*, New York: Routledge.
 * Warnke, Georgia, 2008, *After Identity: Rethinking Race, Sex, and Gender*, Cambridge: Cambridge University Press.
 * Warren, Karen, 1997, *Ecofeminism: Women, Culture, Nature*, Indianapolis: Indiana University Press.
-* Westlund, Andrea, 1999, “Pre-Modern and Modern Power: Foucault and the Case of Domestic Violence”, *Signs*, 24(4) (Summer): 1045–1066. doi:10.1086/495402
+* Westlund, Andrea, 1999, “Pre-Modern and Modern Power: Foucault and the Case of Domestic Violence”, *Signs*, 24(4) (Summer): 1045–1066. doi: 10.1086/495402
 * Willett, Cynthia, Ellie Anderson, and Diana Meyers, 2016, “Feminist Perspectives on the Self”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/feminism-self/>.
 * Witt, Charlotte, 1993, “Feminist Metaphysics”, in Antony and Witt 1993: 273–288.
-* –––, 1995, “Anti-Essentialism in Feminist Theory”, *Philosophical Topics*, 23(2): 321–344. doi:10.5840/philtopics19952328
-* ––– (ed.), 2011a, *Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and Identity*, Dordrecht: Springer. doi:10.1007/978-90-481-3783-1
-* –––, 2011b, “What is Gender Essentialism?” in Witt 2011a: 11–25. doi:10.1007/978-90-481-3783-1_2
-* –––, 2011c, *The Metaphysics of Gender*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199740413.001.0001
+* –––, 1995, “Anti-Essentialism in Feminist Theory”, *Philosophical Topics*, 23(2): 321–344. doi: 10.5840/philtopics19952328
+* ––– (ed.), 2011a, *Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and Identity*, Dordrecht: Springer. doi: 10.1007/978-90-481-3783-1
+* –––, 2011b, “What is Gender Essentialism?” in Witt 2011a: 11–25. doi: 10.1007/978-90-481-3783-1_2
+* –––, 2011c, *The Metaphysics of Gender*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199740413.001.0001
 * Wittig, Monique, 1992, *The Straight Mind*, Boston: Beacon Press.
 * Young, Iris Marion, 1990, *Throwing Like a Girl and Other Essays in Feminist Philosophy and Social Theory*: Indianapolis, IN: Indiana University Press.
-* –––, 1994, “Gender as Seriality: Thinking about Women as a Social Collective”, *Signs*, 19(3): 733–734. doi:10.1086/494918
+* –––, 1994, “Gender as Seriality: Thinking about Women as a Social Collective”, *Signs*, 19(3): 733–734. doi: 10.1086/494918
 * Zack, Naomi, 1995, “Life After Race”, in *American Mixed Race*, N. Zack (ed.), Lanham, MD: Rowman and Littlefield Pub.
 * –––, 2002, *Philosophy of Science and Race*, New York: Routledge.
 

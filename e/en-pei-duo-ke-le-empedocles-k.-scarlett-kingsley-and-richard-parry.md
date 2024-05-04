@@ -2,15 +2,15 @@
 
 *首次发表于 2019 年 9 月 26 日星期四；实质性修订于 2020 年 4 月 7 日星期二*
 
-在公元前五世纪中叶，阿克拉加斯的恩培多克勒以六步诗形式阐述了一项哲学纲领，开创了具有影响力的四要素理论（空气、水、土和火），以及爱和争斗两种主动原则，这影响了后来的哲学、医学、神秘主义、宇宙学和宗教。这一哲学体系回应了巴门尼德对变化的否定，同时接受了宗教规定和魔法实践。因此，恩培多克勒在前苏格拉底哲学史上占据着重要地位，作为一个在神话和逻辑、宗教和科学之间移动的人物。现代的争论源于对他诗作数量、彼此关系以及他整个哲学体系的连贯性缺乏共识。本文将介绍恩培多克勒、他的生平和作品——传统上被称为《自然论》和《净化》，以及继续主导对他哲学体系研究的学术争论。最后讨论了恩培多克勒对他的继承者产生的影响。本文中片段的编号遵循迪尔斯-克兰兹版[DK]和 Laks 和 Most 2016 的编号；翻译出自 Laks 和 Most。
+在公元前五世纪中叶，阿克拉加斯的恩培多克勒以六步诗形式阐述了一项哲学纲领，开创了具有影响力的四要素理论（空气、水、土和火），以及爱和争斗两种主动原则，这影响了后来的哲学、医学、神秘主义、宇宙学和宗教。这一哲学体系回应了巴门尼德对变化的否定，同时接受了宗教规定和魔法实践。因此，恩培多克勒在前苏格拉底哲学史上占据着重要地位，作为一个在神话和逻辑、宗教和科学之间移动的人物。现代的争论源于对他诗作数量、彼此关系以及他整个哲学体系的连贯性缺乏共识。本文将介绍恩培多克勒、他的生平和作品——传统上被称为《自然论》和《净化》，以及继续主导对他哲学体系研究的学术争论。最后讨论了恩培多克勒对他的继承者产生的影响。本文中片段的编号遵循迪尔斯-克兰兹版 [DK] 和 Laks 和 Most 2016 的编号；翻译出自 Laks 和 Most。
 
-恩培多克勒是 DK 31 系列中的一员。根据这个分类系统，每位前苏格拉底思想家都被编号（大致上）按时间顺序排列。在这个编号之后（在我们明确指的是恩培多克勒的情况下，我们会省略这个编号），每位哲学家的碎片被细分为三类：证言，即对哲学家思想的见证，构成‘A’类碎片；哲学家的实际言论属于‘B’类碎片；模仿作品属于‘C’类碎片。在碎片的字母后面，每个碎片还会获得一个顺序区分的编号。例如，本文提到的恩培多克勒的第一个碎片，DK 31 A 1，表明它来自 Diels-Kranz 版本，专注于恩培多克勒，并且是第 1 个证言。2016 年，一部新的、更新的前苏格拉底思想家版本由 André Laks 和 Glenn W. Most 合著并附有对照翻译出版。现在，除了 Diels-Kranz，查阅这部具有纪念意义的学术著作是至关重要的。因此，我们还包括 Laks 和 Most 版本的注释，这些注释跟随在 Diels-Kranz 之后。Laks 和 Most 采用了不同的碎片标注系统：‘P’（=人物）碎片包括那些讨论哲学家人物的碎片。这些碎片提供了关于哲学家生平、个性和令人难忘的言论的信息。‘D’（=教义）碎片涉及对哲学家教义的所有引用，包括他们自己的言论。最后，‘R’（=接受）碎片保留了对哲学家教义的后期理解。
+恩培多克勒是 DK 31 系列中的一员。根据这个分类系统，每位前苏格拉底思想家都被编号（大致上）按时间顺序排列。在这个编号之后（在我们明确指的是恩培多克勒的情况下，我们会省略这个编号），每位哲学家的碎片被细分为三类：证言，即对哲学家思想的见证，构成‘A’类碎片；哲学家的实际言论属于‘B’类碎片；模仿作品属于‘C’类碎片。在碎片的字母后面，每个碎片还会获得一个顺序区分的编号。例如，本文提到的恩培多克勒的第一个碎片，DK 31 A 1，表明它来自 Diels-Kranz 版本，专注于恩培多克勒，并且是第 1 个证言。2016 年，一部新的、更新的前苏格拉底思想家版本由 André Laks 和 Glenn W. Most 合著并附有对照翻译出版。现在，除了 Diels-Kranz，查阅这部具有纪念意义的学术著作是至关重要的。因此，我们还包括 Laks 和 Most 版本的注释，这些注释跟随在 Diels-Kranz 之后。Laks 和 Most 采用了不同的碎片标注系统：‘P’（= 人物）碎片包括那些讨论哲学家人物的碎片。这些碎片提供了关于哲学家生平、个性和令人难忘的言论的信息。‘D’（= 教义）碎片涉及对哲学家教义的所有引用，包括他们自己的言论。最后，‘R’（= 接受）碎片保留了对哲学家教义的后期理解。
 
 ---
 
 ## 生命与著作
 
-恩培多克勒（Empedocles）哲学家是西西里岛中南部城邦阿克拉加斯（阿格里真托）的本地人。尽管他的生平确切日期不详，但各种资料一致认为他出生在公元前五世纪初；根据亚里士多德的说法，他在六十岁时去世（DK 31 A 1 = P 5b）。关于这位哲学家生平的丰富细节主要通过迟至公元三世纪的《迪奥根尼斯·拉尔提乌斯的著名哲学家生平与观点》中的一篇传记得以保存。不幸的是，其中许多内容都是浪漫虚构的，而且经常是源自恩培多克勒自己的诗歌。很可能他出生在一个贵族家庭；他的祖父养马，并被记载为奥林匹克运动会的冠军。根据公元前四世纪的辩士阿尔西达马斯的《物理学》（A 1 = P 15），恩培多克勒是厄勒阿的巴门尼德的学生，后来成为阿纳克萨戈拉和毕达哥拉斯的信徒。这种知识学徒期虽然在时间上几乎不可能，但确实准确反映了诗歌与巴门尼德关于生成和消逝的理论的互动，而恩培多克勒对毕达哥拉斯和阿纳克萨戈拉的熟悉也并非不可能。相比之下，公元前三世纪著名哲学家赫米普斯认为他是克诺芬的模仿者（A 1 = P 14）。在恩培多克勒的一生中，阿克拉加斯经历了一系列政治变革，从暴政到寡头政治再到民主政治。传记传统一直将民主情怀归功于恩培多克勒：据说他曾支持人民反对那些推动不平等或谋求暴政的人（A1 = P 18–19）。此外，他与推翻“千人政府”寡头政治有关，并拒绝了国王的提议；同样，他的父亲显然阻止了一场暴政的兴起（D.L. 8.72）。这些轶事可能解释了恩培多克勒在没有任何散文著作的情况下被誉为才华横溢的演说家。在亚里士多德的《辩士》中，他被认为是修辞学的发明者（A 1 = R 5）。同样，亚里士多德的《诗人论》赞扬了他在语言和隐喻力量上与荷马的亲缘关系（A 1 = R 1b）。值得注意的是，戈尔吉亚斯被认为是他的学生（A 1 = P 24）。此外，据报道恩培多克勒是一名医生（A 1 = P 24）和西西里医学学派的创始人。对他这一声誉的证据已经出现在公元前五世纪晚期的希波克拉底的《古代医学》中，该书批评了恩培多克勒将自然研究与医学结合起来的观点（A 71 = R 6）。最具挑衅性的是，据说他曾将一名死去的女人复活，并在他的一生中被崇拜为神（A 1 = P 29），这些叙事显然是从他的诗歌中夸大而来（B 112.4 = D 4.4）。与同时代人一样，恩培多克勒据说游历广泛，访问了 445/4 年的图里，奥林匹亚和其他伯罗奔尼撒半岛地区。他的敌人可能将这种缺席视为放逐这位哲学家的机会（A 1 = D.L. 8.67）。关于他的死亡的报道混乱不堪。我们可以确定他并没有像古代普遍认为的那样跃入埃特纳火山（Chitwood 1986）。他可能死于伯罗奔尼撒半岛，但仅此而已（A 1 = P 29.71b–72）。
+恩培多克勒（Empedocles）哲学家是西西里岛中南部城邦阿克拉加斯（阿格里真托）的本地人。尽管他的生平确切日期不详，但各种资料一致认为他出生在公元前五世纪初；根据亚里士多德的说法，他在六十岁时去世（DK 31 A 1 = P 5b）。关于这位哲学家生平的丰富细节主要通过迟至公元三世纪的《迪奥根尼斯 · 拉尔提乌斯的著名哲学家生平与观点》中的一篇传记得以保存。不幸的是，其中许多内容都是浪漫虚构的，而且经常是源自恩培多克勒自己的诗歌。很可能他出生在一个贵族家庭；他的祖父养马，并被记载为奥林匹克运动会的冠军。根据公元前四世纪的辩士阿尔西达马斯的《物理学》（A 1 = P 15），恩培多克勒是厄勒阿的巴门尼德的学生，后来成为阿纳克萨戈拉和毕达哥拉斯的信徒。这种知识学徒期虽然在时间上几乎不可能，但确实准确反映了诗歌与巴门尼德关于生成和消逝的理论的互动，而恩培多克勒对毕达哥拉斯和阿纳克萨戈拉的熟悉也并非不可能。相比之下，公元前三世纪著名哲学家赫米普斯认为他是克诺芬的模仿者（A 1 = P 14）。在恩培多克勒的一生中，阿克拉加斯经历了一系列政治变革，从暴政到寡头政治再到民主政治。传记传统一直将民主情怀归功于恩培多克勒：据说他曾支持人民反对那些推动不平等或谋求暴政的人（A1 = P 18–19）。此外，他与推翻“千人政府”寡头政治有关，并拒绝了国王的提议；同样，他的父亲显然阻止了一场暴政的兴起（D.L. 8.72）。这些轶事可能解释了恩培多克勒在没有任何散文著作的情况下被誉为才华横溢的演说家。在亚里士多德的《辩士》中，他被认为是修辞学的发明者（A 1 = R 5）。同样，亚里士多德的《诗人论》赞扬了他在语言和隐喻力量上与荷马的亲缘关系（A 1 = R 1b）。值得注意的是，戈尔吉亚斯被认为是他的学生（A 1 = P 24）。此外，据报道恩培多克勒是一名医生（A 1 = P 24）和西西里医学学派的创始人。对他这一声誉的证据已经出现在公元前五世纪晚期的希波克拉底的《古代医学》中，该书批评了恩培多克勒将自然研究与医学结合起来的观点（A 71 = R 6）。最具挑衅性的是，据说他曾将一名死去的女人复活，并在他的一生中被崇拜为神（A 1 = P 29），这些叙事显然是从他的诗歌中夸大而来（B 112.4 = D 4.4）。与同时代人一样，恩培多克勒据说游历广泛，访问了 445/4 年的图里，奥林匹亚和其他伯罗奔尼撒半岛地区。他的敌人可能将这种缺席视为放逐这位哲学家的机会（A 1 = D.L. 8.67）。关于他的死亡的报道混乱不堪。我们可以确定他并没有像古代普遍认为的那样跃入埃特纳火山（Chitwood 1986）。他可能死于伯罗奔尼撒半岛，但仅此而已（A 1 = P 29.71b–72）。
 
 尽管恩培多克勒的作品未能完整保存下来，但他在哲学家、评论家、医生和自然科学家中享有活跃的后世声誉。根据《传记集》的记载，恩培多克勒创作了两首诗歌，《自然论》和《净化》。古代还将其他各种作品归于这位哲学家，包括一首致阿波罗的赞美诗、一首关于泽克西斯入侵的诗歌、医学文本、悲剧、讽刺诗和政治论文，但这些都缺乏确凿的证据。对《自然论》和《净化》中现存碎片的解释在现代学术界引发了激烈争论，其中一个问题是，它们是否真的构成了两部作品，如《传记集》所称，还是像一些近期学者所主张的一个单一哲学项目（Osborne 1987, Inwood 2001, Trépanier 2004, Janko 2005）。后者这种异端的观点得到了最新斯特拉斯堡帕普鲁斯的发现的进一步支持（Martin & Primavesi 1999, Primavesi 2008），该帕普鲁斯包含了《自然论》的一部分，其中的几行传统上被归于《净化》。这一发现动摇了物理学说与宗教学说分离的概念，表明如果这确实是两部作品，它们在主题上比以往理解的更为密切相关。然而，由于这两部分的主题（如果它们确实属于一首诗）足够独立，我们在这里将它们分开处理。第一部分主要涉及整个物质世界的形成、结构和历史，以及其中动植物的形成；第二部分涉及道德和净化。为方便起见，本文使用了这两个碎片集的传统名称。
 
@@ -70,7 +70,7 @@
 
 宇宙起源是由四种根和两种力量的相互作用所致。每种根都有其特定的本质。有些——如火和水——传统上被视为对立的；另一些——如火和空气——被视为相容的。然而，恩培多克勒并不认为这些根的特定本质会导致它们自行组织成宇宙。因此，他引入了爱和争斗。爱的作用是将不同类型的根结合在一起，使它们和谐共存。它通过在不同类型的根之间灌输相互吸引来实现这一点；没有爱，这些根就不会自然地结合在一起。虽然爱确实会将相似之物从相似之物中分离出来，但它并不是通过引起相似根之间的互相排斥来实现这一点。相比之下，争斗通过在不同类型的根之间灌输互相排斥来将相似根聚集在一起。争斗的工作是用互相排斥来取代爱所灌输的不同类型根之间的吸引力。在宇宙的历史中，这些力量相互争斗，以不断变化的强度共存，贯穿宇宙及其生物的生成和消逝过程中。
 
-所有评论家都认为 B17.1–13（=D 73.233–244）的这一段是基础，但他们的解释各不相同，有时相去甚远。在传统的解释中（参见奥布莱恩 1969 年，赖特 1981 年），这一段谈到了一个由两部分对称宇宙循环组成的情形，这种循环无休止地重复自身。我们可以追溯一个循环的历史，从所有根源完全统一、完全混合并在爱的完全支配下静止的时刻开始，这是一种让人想起巴门尼德的球形“是什么”的形象。然后，冲突进入并开始将根源分开，直到最终所有根源完全分离成明显的、独立的火、气、土和水的团块。在这一点上，爱开始将根源统一，直到它们再次完全混合，另一个循环开始。在每个循环的一半中，随着分离或统一的进行，都有一个宇宙起源（宇宙或有序世界的生成）和一个动物起源（动物的生成）。在第一个半循环中，在冲突的影响不断增强下，宇宙和动物逐渐形成。在第二个半循环中，在爱的影响不断增强下，再次形成宇宙和动物。我们将从认为存在双重宇宙起源的传统解释开始，然后再看看第二种解释流派，即只有一个宇宙起源的情况。
+所有评论家都认为 B17.1–13（= D 73.233–244）的这一段是基础，但他们的解释各不相同，有时相去甚远。在传统的解释中（参见奥布莱恩 1969 年，赖特 1981 年），这一段谈到了一个由两部分对称宇宙循环组成的情形，这种循环无休止地重复自身。我们可以追溯一个循环的历史，从所有根源完全统一、完全混合并在爱的完全支配下静止的时刻开始，这是一种让人想起巴门尼德的球形“是什么”的形象。然后，冲突进入并开始将根源分开，直到最终所有根源完全分离成明显的、独立的火、气、土和水的团块。在这一点上，爱开始将根源统一，直到它们再次完全混合，另一个循环开始。在每个循环的一半中，随着分离或统一的进行，都有一个宇宙起源（宇宙或有序世界的生成）和一个动物起源（动物的生成）。在第一个半循环中，在冲突的影响不断增强下，宇宙和动物逐渐形成。在第二个半循环中，在爱的影响不断增强下，再次形成宇宙和动物。我们将从认为存在双重宇宙起源的传统解释开始，然后再看看第二种解释流派，即只有一个宇宙起源的情况。
 
 Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一成一个球体（B 27 and 29 = D 89 and 92）。由于这种球形统一包括根源，它们很可能彼此彻底混合在一起（另一种观点见 Sedley 2016）。这个球体是宇宙形成的初始阶段；它本身不是一个宇宙。在这一点上，冲突开始渗入这个球体（B 30 and 31 = D 94 and 95）。结果是将根源分离成一个宇宙（A 49 = D 99a–b）。后者需要将根源分离成可识别的地球、空气、水和火的团块（B 38 = D 122），尽管每个团块内可能仍然存在一些（大大减少的）每个根源的存在。地球、水、空气和火的根源将在各自的团块中占主导地位，使它们能够被识别为这样的物质。地球团块位于中心；水几乎环绕着地球。空气形成下一层。从外围的火到太阳作为一个独特的实体。这种地心形成是古人通常认为是我们的宇宙。由于是冲突将根源分开，因此所描述的宇宙起源学很可能依赖于冲突的影响。
 
@@ -108,7 +108,7 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 > * 他们从这些元素中组合出类似于一切事物的形态
 > * 创造树木、男人和女人
 > * 野兽和鸟类，水中滋养的鱼类
-> * And long-lived gods, the greatest in honors:并且长寿的众神，最受尊崇的：
+> * And long-lived gods, the greatest in honors: 并且长寿的众神，最受尊崇的：
 > * 以此方式，愿你的思维不致于陷入错误，即认为它来自别处（即不是来自四个基本根源之外）。
 > * 那就是所有无数可见的有限生物存在的根源
 > * 但要确切知道，一旦你听到了神的话语。(B 23 = D 60)
@@ -174,7 +174,7 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 > * 当光线，尽管更加纤细，跃出到外面时，
 > * 门槛上洒下它未受损的光芒
 > * 因此，在阿芙洛狄忒将包裹在膜中的奥吉斯火用爱的桩子固定之后，
-> * 她将着眼的 Korê倒入薄纱中
+> * 她将着眼的 Korê 倒入薄纱中
 > * 这些物体挡住了周围流动的水深
 > * 但允许火通过到外面，因为它更细，他们已经用奇妙的漏斗钻过的地方。
 
@@ -236,7 +236,7 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 
 惩罚是由于被神放逐和长时间的流浪而产生的；恶魔受到所有人的憎恶，并依赖争斗。 无论是宙斯还是哈迪斯都不会接纳它（B 142 = D 12）。一般人类的命运是严峻的。
 
-> * Alas! Wretched race of mortals, miserable race!唉！不幸的凡人种族，可怜的种族！
+> * Alas! Wretched race of mortals, miserable race! 唉！不幸的凡人种族，可怜的种族！
 > * 从这种冲突和这种呻吟中，你诞生了！(B 124 = D 17)
 
 人物自言自语地悲叹道：“当我看到一个不熟悉的地方时，我哭泣和哀号”（B118 = D 14），并发现自己“远离荣誉和幸福的丰富”...（B 119 = D 15）。作为净化仪式的一部分，转世要求参与一个充满苦难的世界，在这个世界中，所有生命注定要诞生、腐化和死去。这重申了《论自然》中的教义，即除了四个根源、爱和争斗之外，所有事物都是可朽的，这些根源和爱与争斗结合并分解物质。恩培多克勒叙述了他自己的溶解和重组。
@@ -291,11 +291,11 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 
 作为恩培多克勒哲学在来世中成功的证明，这位哲学家拥有保存最多前苏格拉底片段的数量。他死后不久的知名度得到保证，因为在希波克拉底的《古代医学》中提到了他，作者在其中抗议说：
 
-> 一些医生和专家（sophistae）说，如果一个人不知道什么是人类，那么他就不可能了解医学[...]。但他们所谈论的属于哲学（philosophiē），就像恩培多克勒（Empedocles）和其他写过关于自然的人一样——人类从一开始是什么，他最初是如何产生的，以及他由什么构成。（A 71 = R 6）
+> 一些医生和专家（sophistae）说，如果一个人不知道什么是人类，那么他就不可能了解医学 [...]。但他们所谈论的属于哲学（philosophiē），就像恩培多克勒（Empedocles）和其他写过关于自然的人一样——人类从一开始是什么，他最初是如何产生的，以及他由什么构成。（A 71 = R 6）
 
 这种成功的一部分必须归功于恩培多克勒作为一位诗人的声誉，他在表达和隐喻的启发性使用方面与荷马相媲美。
 
-恩培多克勒的哲学理论也激起了后来者的极大兴趣。柏拉图经常提到他的名字，在《饮宴篇》中，他让喜剧诗人阿里斯托芬口中重新演绎了人类起源的版本，讽刺了恩培多克勒的爱与争斗以及恩培多克勒对人类物种进化发展的解释：一个以前的球形统一被分裂成两个，然后只有通过性爱的影响才能重新结合（O’Brien 2002）。亚里士多德也受到了类似的影响；除了柏拉图外，他提到没有比恩培多克勒更频繁的哲学家。他的批评范围涵盖了从恩培多克勒对元素生成的处理（R 8a），到爱与争斗作为动机原则的问题（A 42 = R 12 和 13），到地球的静止（R 14），到植物和动物的生长（A 70 = R 17），到动物有机体的生成（R 19）。他的继任者提奥弗拉斯特在他的《论感觉》中专门攻击恩培多克勒对视觉、听觉、嗅觉和思维的解释（A 86 = R 25）。菲利斯的提蒙在《Silloi》中嘲笑他对元素的运用（A 1 = R 37）。恩培多克勒在斯多亚派和伊壁鸠鲁派中仍然是一个试金石：伊壁鸠鲁的门徒赫马克斯写了一本二十二卷的《反对恩培多克勒》（Obbink 1988），而卢克莱修在他的《自然论》中对这位阿格里真人给予了充分的——尽管不是毫无保留的——赞美，称他“几乎似乎不是人类的产物”（A 21.21 = R 31.733；整部作品的完整翻译见 Rouse 1924）。克里西普据说解释了他诗歌的段落（R 40a–b），斯多亚派与恩培多克勒可能赋予一定重要性的火元素有所关联（A 31 = R 41）。萨卢斯特创作了一部完整的《恩培多克勒》，西塞罗向他的兄弟推荐（A 27 = R 36）。由于这一丰富的早期传统，对恩培多克勒的深入阐释在这些作者的评论以及早期基督徒的著作中一直延续到晚期古代。恩培多克勒对他的读者的不朽影响仍在持续。弗里德里希·赫尔德林未完成的《恩佩多克勒之死》草稿继续激发着现代分析（Foti 2006），尼采关于恩培多克勒的“死胎”悲剧最近得到了很好的处理（Most 2005），马修·阿诺德的《埃特纳上的恩佩多克勒》也是如此（Kenny 2005）。
+恩培多克勒的哲学理论也激起了后来者的极大兴趣。柏拉图经常提到他的名字，在《饮宴篇》中，他让喜剧诗人阿里斯托芬口中重新演绎了人类起源的版本，讽刺了恩培多克勒的爱与争斗以及恩培多克勒对人类物种进化发展的解释：一个以前的球形统一被分裂成两个，然后只有通过性爱的影响才能重新结合（O’Brien 2002）。亚里士多德也受到了类似的影响；除了柏拉图外，他提到没有比恩培多克勒更频繁的哲学家。他的批评范围涵盖了从恩培多克勒对元素生成的处理（R 8a），到爱与争斗作为动机原则的问题（A 42 = R 12 和 13），到地球的静止（R 14），到植物和动物的生长（A 70 = R 17），到动物有机体的生成（R 19）。他的继任者提奥弗拉斯特在他的《论感觉》中专门攻击恩培多克勒对视觉、听觉、嗅觉和思维的解释（A 86 = R 25）。菲利斯的提蒙在《Silloi》中嘲笑他对元素的运用（A 1 = R 37）。恩培多克勒在斯多亚派和伊壁鸠鲁派中仍然是一个试金石：伊壁鸠鲁的门徒赫马克斯写了一本二十二卷的《反对恩培多克勒》（Obbink 1988），而卢克莱修在他的《自然论》中对这位阿格里真人给予了充分的——尽管不是毫无保留的——赞美，称他“几乎似乎不是人类的产物”（A 21.21 = R 31.733；整部作品的完整翻译见 Rouse 1924）。克里西普据说解释了他诗歌的段落（R 40a–b），斯多亚派与恩培多克勒可能赋予一定重要性的火元素有所关联（A 31 = R 41）。萨卢斯特创作了一部完整的《恩培多克勒》，西塞罗向他的兄弟推荐（A 27 = R 36）。由于这一丰富的早期传统，对恩培多克勒的深入阐释在这些作者的评论以及早期基督徒的著作中一直延续到晚期古代。恩培多克勒对他的读者的不朽影响仍在持续。弗里德里希 · 赫尔德林未完成的《恩佩多克勒之死》草稿继续激发着现代分析（Foti 2006），尼采关于恩培多克勒的“死胎”悲剧最近得到了很好的处理（Most 2005），马修 · 阿诺德的《埃特纳上的恩佩多克勒》也是如此（Kenny 2005）。
 
 ## Bibliography
 
@@ -304,8 +304,8 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 * –––, 1984, *The Complete Works of Aristotle: The Revised Oxford Translation*, 2 volumes, Princeton: Princeton University Press.
 * Bollack, Jean, 1965–1969, *Empédocle*, 4 volumes, Paris: Les Editions Minuit.
 * –––, 2005, “Empedocles: Two Theologies, Two Projects”, in Pierris 2005: 45–72.
-* Chitwood, Ava, 1986, “The Death of Empedocles”, *The American Journal of Philology*, 107(2): 175–191. doi:10.2307/294601
-* Curd, Patricia, 2001, “A New Empedocles? Implications of the Strasburg Fragments for Presocratic Philosophy”, *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 17: 27–59. doi:10.1163/22134417-90000027
+* Chitwood, Ava, 1986, “The Death of Empedocles”, *The American Journal of Philology*, 107(2): 175–191. doi: 10.2307/294601
+* Curd, Patricia, 2001, “A New Empedocles? Implications of the Strasburg Fragments for Presocratic Philosophy”, *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 17: 27–59. doi: 10.1163/22134417-90000027
 * –––, 2005, “On the Question of Religion and Natural Philosophy in Empedocles”, in Pierris 2005: 137–162.
 * –––, 2016, “Empedocles on Sensation, Perception, and Thought”, in *Ancient Epistemology*, Katerina Ierodiakonou and Pieter Sjoerd Hasper (eds.), *Logical Analysis and History of Philosophy/Philosophiegeschichte und logische analyse*, Paderborn: mentis Verlag, 19: 38–57.
 * Diels, Hermann, 1898, “Über die Gedichte des Empedokles”, *Sitzungberichte der Preussischen Akademie der Wissenschaften*, 63: 396–415.
@@ -317,47 +317,47 @@ Empedocles 提出了一个阶段，即爱完全占主导地位，一切都统一
 * Janko, Richard, 2004, “Empedocles, ‘On Nature’ I 233–364: A New Reconstruction of ‘P. Strasb. Gr.’ Inv. 1665-6”, *Zeitschrift Für Papyrologie Und Epigraphik*, 150: 1–26.
 * –––, 2005, “Empedocles’ *Physica* Book 1: A New Reconstruction,” in Pierris 2005: 93–136.
 * Kahn, Charles H., 1960, “Religion and Natural Philosophy in Empedocles’ Doctrine of the Soul”, *Archiv für Geschichte der Philosophie*, 42(1): 3–35.
-* Kalderon, Mark Eli, 2015, *Form without Matter: Empedocles and Aristotle on Color Perception*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198717904.001.0001
-* Kamtekar, Rachana, 2009, “Knowing by Likeness in Empedocles”, *Phronesis*, 54(3): 215–238. doi:10.1163/156852809X441359
+* Kalderon, Mark Eli, 2015, *Form without Matter: Empedocles and Aristotle on Color Perception*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198717904.001.0001
+* Kamtekar, Rachana, 2009, “Knowing by Likeness in Empedocles”, *Phronesis*, 54(3): 215–238. doi: 10.1163/156852809X441359
 * Kenny, Anthony, 2005, “Life after Etna: The Legend of Empedocles in Literary Tradition”, in Pierris 2005: 17–30.
 * Kingsley, Peter, 1995, *Ancient Philosophy, Mystery, and Magic: Empedocles and Pythagorean Tradition*, Oxford: Oxford University Press.
-* –––, 2002, “Empedocles for the New Millennium”:, *Ancient Philosophy*, 22(2): 333–413. doi:10.5840/ancientphil200222224
-* Kirk, G. S., J. E. Raven, and M. Schofield, 1983, *The Presocratic Philosophers: A Critical History with a Selection of Texts*, second edition, Cambridge University Press. doi:10.1017/CBO9780511813375
-* Laks, André, 2001, “À Propos de l’édition de l’Empédocle de Strasbourg”, *Méthexis*, 14: 117–125. doi:10.1163/24680974-90000382
+* –––, 2002, “Empedocles for the New Millennium”:, *Ancient Philosophy*, 22(2): 333–413. doi: 10.5840/ancientphil200222224
+* Kirk, G. S., J. E. Raven, and M. Schofield, 1983, *The Presocratic Philosophers: A Critical History with a Selection of Texts*, second edition, Cambridge University Press. doi: 10.1017/CBO9780511813375
+* Laks, André, 2001, “À Propos de l’édition de l’Empédocle de Strasbourg”, *Méthexis*, 14: 117–125. doi: 10.1163/24680974-90000382
 * –––, 2002, “Reading the Readings: On the First Person Plurals in the Strasburg Empedocles,” in *Presocratic Philosophy: Essays in Honour of Alexander Mourelatos*, Victor Caston and Daniel W. Graham (eds.), Burlington: Ashgate, 127–137.
 * Laks, André and Glenn W. Most (trans. and eds.), 2016, *Early Greek Philosophy Vol. V: Western Greek Thinkers, Part 2* (Loeb Classical Library, 528), Cambridge, MA: Harvard University Press.
-* Long, A. A., 1966, “Thinking and Sense-Perception in Empedocles: Mysticism or Materialism”, *Classical Quarterly*, 16(2): 256–276. doi:10.1017/S000983880002992X
+* Long, A. A., 1966, “Thinking and Sense-Perception in Empedocles: Mysticism or Materialism”, *Classical Quarterly*, 16(2): 256–276. doi: 10.1017/S000983880002992X
 * –––, 1974, “Empedocles’ Cosmic Cycle in the ’Sixties”, in *The Pre-Socratics: A Collection of Critical Essays*, Alexander P.D. Mourelatos (ed.), Garden City, NY: Anchor/Doubleday Press, 397–425.
-* Gemelli Marciano, M. Luisa, 2001, “Le »demonologie« Empedoclee : Problemi Di Metodo e Altro”, *Aevum Antiquum*, NS 1: 205–235. doi:10.1400/24156
-* Martin, Alain and Oliver Primavesi, 1999,*L’Empédocle de Strasbourg*, Berlin and New York: Walter de Gruyter.
+* Gemelli Marciano, M. Luisa, 2001, “Le »demonologie« Empedoclee : Problemi Di Metodo e Altro”, *Aevum Antiquum*, NS 1: 205–235. doi: 10.1400/24156
+* Martin, Alain and Oliver Primavesi, 1999, *L’Empédocle de Strasbourg*, Berlin and New York: Walter de Gruyter.
 * Most, Glenn, 2005, “The Stillbirth of a Tragedy. Nietzsche and Empedocles”, in Pierris 2005: 31-44.
-* Obbink, Dirk, 1988, “Hermarchus, *Against Empedocles*”, *Classical Quarterly*, 38(2): 428–435. doi:10.1017/S0009838800037046
-* –––, 1993, “The Addressees of Empedocles”, *Materiali e Discussioni per l’analisi Dei Testi Classici*, 31: 51–98. doi:10.2307/40231039
+* Obbink, Dirk, 1988, “Hermarchus, *Against Empedocles*”, *Classical Quarterly*, 38(2): 428–435. doi: 10.1017/S0009838800037046
+* –––, 1993, “The Addressees of Empedocles”, *Materiali e Discussioni per l’analisi Dei Testi Classici*, 31: 51–98. doi: 10.2307/40231039
 * O’Brien, Denis, 1969, *Empedocles’ Cosmic Cycle: A Reconstruction from the Fragments and Secondary Sources*, Cambridge: Cambridge University Press.
 * –––, 2001, “Empedocles: The Wandering Daimon and the Two Poems”, *Aevum Antiquum*, NS 1: 79–179.
 * –––, 2002, “Die Aristophanes’ Rede im Symposium: der Empedokleische Hintergrund und seine philosophische Bedeutung”, in *Platon als Mythologe, Neue Interpretationen zu den Mythen in Platons Dialoguen*, Markus Janka and Christian Schäfer (eds.), Darmstadt: Wissenschaftliche Buchgesellschaft, 176–193.
-* Osborne, Catherine (= C. Rowett), 1987, “Empedocles Recycled”, *Classical Quarterly*, 37(1): 24–50. doi:10.1017/S0009838800031633
+* Osborne, Catherine (= C. Rowett), 1987, “Empedocles Recycled”, *Classical Quarterly*, 37(1): 24–50. doi: 10.1017/S0009838800031633
 * –––, “Rummaging in the Recycling Bins of Upper Egypt: A Discussion of A. Martin and O. Primavesi, L’Empédocle de Strasbourg”, *Oxford Studies in Ancient Philosophy*, David Sedley (ed.), 18: 329–356.
 * –––, 2005, “Sin and Moral Responsibility in Empedocles’ Cosmic Cycle”, in Pierris 2005: 283–308.
 * Palmer, John, 2019, “Presocratic Interest in the Soul’s Persistence After death,” in *Philosophy of Mind in Antiquity: The History of the Philosophy of Mind, Volume 1*, John E. Sisko (ed.), London: Routledge, 2019: 23–43.
-* Picot, Jean-Claude, 2012, “Les dieux du fr. 128 d’Empédocle et le mythe des races”, *Revue de métaphysique et de morale*, 75(3): 339–409. doi:10.3917/rmm.123.0339
-* Picot, Jean-Claude and William Berg, 2015, “Lions and *promoi*: Final Phase of Exile for Empedocles’ *daimones*”, *Phronesis*, 60(4): 380–409. doi:10.1163/15685284-12341290
+* Picot, Jean-Claude, 2012, “Les dieux du fr. 128 d’Empédocle et le mythe des races”, *Revue de métaphysique et de morale*, 75(3): 339–409. doi: 10.3917/rmm.123.0339
+* Picot, Jean-Claude and William Berg, 2015, “Lions and *promoi*: Final Phase of Exile for Empedocles’ *daimones*”, *Phronesis*, 60(4): 380–409. doi: 10.1163/15685284-12341290
 * Pierris, Apostolos L. (ed.), 2005, *The Empedoclean Kosmos: Structure, Process and the Question of Cyclicity. Proceedings of the Symposium Philosophiae Antiquae Tertium Myconense July 6th–July 13th, 2003*, Patras, Greece: Institute for Philosophical Research.
-* Primavesi, Oliver, 2009, “Empedocles: Physical and Mythical Divinity”, in *The Oxford Handbook of Presocratic Philosophy*, Patricia Curd and Daniel W. Graham (eds.), Oxford: Oxford University Press, 250–283. doi:10.1093/oxfordhb/9780195146875.003.0009
+* Primavesi, Oliver, 2009, “Empedocles: Physical and Mythical Divinity”, in *The Oxford Handbook of Presocratic Philosophy*, Patricia Curd and Daniel W. Graham (eds.), Oxford: Oxford University Press, 250–283. doi: 10.1093/oxfordhb/9780195146875.003.0009
 * –––, 2008, *Empedokles: Physika I. Eine Rekonstruktion des zentralen Gedankengangs*, Berlin and New York: de Gruyter.
-* –––, 2016, “Empedocles’ Cosmic Cycle and the Pythagorean Tetractys”, *Rhizomata*, 4(1): 5–29. doi:10.1515/rhiz-2016-0002
+* –––, 2016, “Empedocles’ Cosmic Cycle and the Pythagorean Tetractys”, *Rhizomata*, 4(1): 5–29. doi: 10.1515/rhiz-2016-0002
 * Rashed, Marwan, 2001, “La chronographie du système d’Empédocle: documents byzantins inédits”, *Aevum Antiquum*, NS 1: 237–259.
-* –––, 2007, “The Structure Of The Eye And Its Cosmological Function In Empedocles. Reconstruction Of Fragment 84 D.-K”, in *Reading Ancient Texts. Volume I: Presocratics and Plato*, Suzanne Stern-Gillet and Kevin Corrigan (eds.), Leiden and Boston: Brill, 21–39. doi:10.1163/ej.9789004165090.i-230.8
-* –––, 2011, “La Zoogonie de La Haine Selon Empédocle: Retour Sur l’ensemble ‘d’ Du Papyrus d’Akhmim”, *Phronesis*, 56(1): 33–57. doi:10.1163/156852811X540419
+* –––, 2007, “The Structure Of The Eye And Its Cosmological Function In Empedocles. Reconstruction Of Fragment 84 D.-K”, in *Reading Ancient Texts. Volume I: Presocratics and Plato*, Suzanne Stern-Gillet and Kevin Corrigan (eds.), Leiden and Boston: Brill, 21–39. doi: 10.1163/ej.9789004165090.i-230.8
+* –––, 2011, “La Zoogonie de La Haine Selon Empédocle: Retour Sur l’ensemble ‘d’ Du Papyrus d’Akhmim”, *Phronesis*, 56(1): 33–57. doi: 10.1163/156852811X540419
 * –––, 2014, “La Chronographie Du Système d’Empédocle: Addenda et Corrigenda”, *Les Études Philosophiques*, 3: 315–342.
 * Rouse, W. H. D. (trans.), 1924, *Lucretius. On the Nature of Things* (Loeb Classical Library, 181), Cambridge, MA: Harvard University Press.
-* Rowett, Catherine (= C. Osborne), 2016, “Love, Sex and the Gods: Why Things Have Divine Names in Empedocles’ Poem, and Why They Come in Pairs”, *Rhizomata*, 4(1): 80–100. doi:10.1515/rhiz-2016-0005
-* Sassi, Maria Michela, 2016, “Parmenides and Empedocles on *Krasis* and Knowledge”, *Apeiron*, 49(4): 451–469. doi:10.1515/apeiron-2015-0005
-* Sedley, David, 2016, “Empedoclean Superorganisms”, *Rhizomata*, 4(1): 111–125. doi:10.1515/rhiz-2016-0006
+* Rowett, Catherine (= C. Osborne), 2016, “Love, Sex and the Gods: Why Things Have Divine Names in Empedocles’ Poem, and Why They Come in Pairs”, *Rhizomata*, 4(1): 80–100. doi: 10.1515/rhiz-2016-0005
+* Sassi, Maria Michela, 2016, “Parmenides and Empedocles on *Krasis* and Knowledge”, *Apeiron*, 49(4): 451–469. doi: 10.1515/apeiron-2015-0005
+* Sedley, David, 2016, “Empedoclean Superorganisms”, *Rhizomata*, 4(1): 111–125. doi: 10.1515/rhiz-2016-0006
 * Therme, Anne-Laure, 2010, “Une tragédie cosmique: L’exil amnésique des *daimones* d’Empédocle”, in S. Alexandre and O. Renaut (eds.), *Rationalité tragique, Zetesis: Actes des colloques de l’association*, 1: 1–29.
 * Trépanier, Simon, 2003, “Empedocles on the Ultimate Symmetry of the World”, *Oxford Studies in Ancient Philosophy*, David Sedley (ed.), 24: 1–57.
 * –––, 2004, *Empedocles. An Interpretation*, New York and London: Routledge.
-* –––, 2014, “From Wandering Limbs to Limbless Gods: Δαίμων as Substance in Empedocles”, *Apeiron*, 47(2): 172–210. doi:10.1515/apeiron-2012-0033
+* –––, 2014, “From Wandering Limbs to Limbless Gods: Δαίμων as Substance in Empedocles”, *Apeiron*, 47(2): 172–210. doi: 10.1515/apeiron-2012-0033
 * Wright, M.R., 1981, *Empedocles: the Extant Fragments*, New Haven, CT: Yale University Press, 1981. Reprinted Indianapolis: Hackett Publishing, 1995.
 
 ## Academic Tools

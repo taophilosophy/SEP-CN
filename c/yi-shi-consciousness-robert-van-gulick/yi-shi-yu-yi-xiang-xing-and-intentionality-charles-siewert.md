@@ -30,7 +30,7 @@
 
 当涉及到“它是什么样子”的措辞时，希尔（Hill）和西沃特（Siewert）会同意我们可以谈论到存在一种状态，对于这种状态的意识性质，在目标意义上，几乎不能被视为理所当然。（正如 Jaegwon Kim 在 2011 年指出的那样，我们可以有意义地询问某人见到总统时的感受。）然而，西沃特（2021）认为我们可以克服这一困难，只要我们将意识状态看作是一种无条件地存在某种感受的状态。但是金（Kim）和希尔（Hill）得出结论，这种措辞简单地不适合让我们理解意识的概念，他们更倾向于使用西沃特反感的术语；对于他们来说，意识状态是具有“感觉质”或“质的特征”的状态。（在 C.I. Lewis 于 1929 年引入“感觉质”一词来指代在概念化之前通过感官给予心灵的东西之后，人们普遍使用这个词来泛指意识。请参阅 Crane（2019）和 Keely（2009）以了解相关历史。）
 
-解释的其他问题以一种与当前主题非常相关的方式使最近的讨论变得复杂。如上所述，意识的经验性/“它是什么样子”的概念有时被术语“现象”所标记。这个限定词表明存在其他种类的意识（或者，也许是“意识”的其他意义）。事实上，至少还有其他引入意识概念的方式。这些方式可能似乎指出了与刚刚呈现的特征或意义完全不同的东西。但它们之间的关系是有争议的。例如，有人说心灵中发生的一些事情“可以被意识所感知”。这可能会促使人们认为意识本身只不过是对信息的某种访问或可访问性——例如，对负责生成自己心灵状态内容的“直接语言报告”的“言语中心”的访问，就像丹尼尔·丹尼特（1969 年）关于意识的理论化中所提到的那样。尼德·布洛克（1995 年，2001 年，2002 年）提出，在“意识”的一个理解中（他发现这个理解在心理理论中起作用），一个意识状态只是一个“准备好的表征”（或者后来他称之为“广播”），“可以自由用于推理和其他直接的‘理性’行为控制（包括报告）”。布洛克将这种意识称为访问意识。（他认为采用这一概念的理论的早期例子包括巴尔斯 1997 年和丹尼特 1978 年、1991 年。）
+解释的其他问题以一种与当前主题非常相关的方式使最近的讨论变得复杂。如上所述，意识的经验性/“它是什么样子”的概念有时被术语“现象”所标记。这个限定词表明存在其他种类的意识（或者，也许是“意识”的其他意义）。事实上，至少还有其他引入意识概念的方式。这些方式可能似乎指出了与刚刚呈现的特征或意义完全不同的东西。但它们之间的关系是有争议的。例如，有人说心灵中发生的一些事情“可以被意识所感知”。这可能会促使人们认为意识本身只不过是对信息的某种访问或可访问性——例如，对负责生成自己心灵状态内容的“直接语言报告”的“言语中心”的访问，就像丹尼尔 · 丹尼特（1969 年）关于意识的理论化中所提到的那样。尼德 · 布洛克（1995 年，2001 年，2002 年）提出，在“意识”的一个理解中（他发现这个理解在心理理论中起作用），一个意识状态只是一个“准备好的表征”（或者后来他称之为“广播”），“可以自由用于推理和其他直接的‘理性’行为控制（包括报告）”。布洛克将这种意识称为访问意识。（他认为采用这一概念的理论的早期例子包括巴尔斯 1997 年和丹尼特 1978 年、1991 年。）
 
 但在现象、经验意义上，各种信息获取与意识之间的关系是什么？Block 区分了现象意识和获取意识的概念，认为一个心理表征被准备或广播以供推理和理性控制行为使用既非概念上必要也非足够，以使状态在现象上具有意识。同样，他将现象意识与他所称的“监控意识”区分开来——这与一个人代表自己的心灵能力有关；例如，对自己的思维、感觉或欲望有思考。人们无需认为 Block 关于现象、获取和监控意识的概念反映了我们在术语“意识”上的先验使用中已经包含的明确、明确的区别。Block 本人提出（相反），我们最初的、普通的意识概念太混乱（太“杂种”），甚至不能算作模棱两可。因此，在阐明一个能够框定理论问题的术语解释时，我们不能简单地描述它当前的使用方式（Block 1995, 2021）。
 
@@ -42,17 +42,17 @@
 
 术语“意识”并不神秘。但正如我们所看到的，它的使用并不能轻易地被描述为提供一些连贯、公正的框架，以便进行有纪律的调查。这正是为什么理论意识如此困难的部分原因。就“意向性”一词而言，我们也面临着令人困惑和有争议的用法。但问题部分在于相关用法绝对不是在普通语言中使用同源词时所发现的（比如我们谈到有意识地做某事时）。无论如何，在这里我们也必须认识到影响实质性问题的基本解释问题，这些问题与当前讨论高度相关。
 
-一种哲学家经常解释“意向性”是指：精神状态或事件的一个方面，即它们关于事物的本质，涉及到问题：“你在想什么？”和“你在想什么？”意向性是心灵（或心灵状态）指向事物、对象、事态、事件的关于性或指向性或参照性。因此，如果你在想旧金山，或者关于那里的生活成本，或者关于在联合广场见某人——你的心灵、你的思维是指向旧金山、生活成本或联合广场见面的。这种“指向性”对意向性的概念在弗朗茨·布伦塔诺的哲学中发挥着重要作用，以及那些直接或间接地对他的观点做出回应的人（将在第 3 节讨论）。
+一种哲学家经常解释“意向性”是指：精神状态或事件的一个方面，即它们关于事物的本质，涉及到问题：“你在想什么？”和“你在想什么？”意向性是心灵（或心灵状态）指向事物、对象、事态、事件的关于性或指向性或参照性。因此，如果你在想旧金山，或者关于那里的生活成本，或者关于在联合广场见某人——你的心灵、你的思维是指向旧金山、生活成本或联合广场见面的。这种“指向性”对意向性的概念在弗朗茨 · 布伦塔诺的哲学中发挥着重要作用，以及那些直接或间接地对他的观点做出回应的人（将在第 3 节讨论）。
 
 但是，有哪些积极特征可以区分这些词语（“关于”，“的”，“指向”）的相关意向性标记意义，与以下句子中的意向性标记意义有何不同：“猫在房间里徘徊”；“她是一个正直的人”；“河流的方向指向田野”？至于意向性作为指称的讨论，我们究竟如何区分思想的指称方式与名称和描述的指称方式？这种意向性的概念如何适用于感官？当我们看到或触摸到某物时，我们的思维是否也会以与思想相同的方式“指称”我们所看到或触摸到的东西？是什么统一了意向性的概念并规定了其适用范围？
 
-一种将感官纳入“意向性”范畴的方式，同时暗示了心理指向性的特殊之处，侧重于感知恒常现象。这在埃德蒙德·胡塞尔（Edmund Husserl）现象学中对意向性的概念起着重要作用。在泰勒·伯奇（Tyler Burge）2010 年对感官代表对象的概念中，这种概念以一种相当不同的方式出现。我们感知事物在某种可确定的方面（如形状、颜色或大小）是恒常的，通过（a）关于它们的主观体验在这种可确定性方面的波动，以及（b）来自它们的相应近端（例如视网膜）刺激的模式。胡塞尔认为（a）类型的恒常-虽然是流动的，表明感知经验是指向或指涉超越它的对象，而伯奇认为（b）类型的恒常表明感知状态是客观领域的表征。
+一种将感官纳入“意向性”范畴的方式，同时暗示了心理指向性的特殊之处，侧重于感知恒常现象。这在埃德蒙德 · 胡塞尔（Edmund Husserl）现象学中对意向性的概念起着重要作用。在泰勒 · 伯奇（Tyler Burge）2010 年对感官代表对象的概念中，这种概念以一种相当不同的方式出现。我们感知事物在某种可确定的方面（如形状、颜色或大小）是恒常的，通过（a）关于它们的主观体验在这种可确定性方面的波动，以及（b）来自它们的相应近端（例如视网膜）刺激的模式。胡塞尔认为（a）类型的恒常-虽然是流动的，表明感知经验是指向或指涉超越它的对象，而伯奇认为（b）类型的恒常表明感知状态是客观领域的表征。
 
 然而，这些方法似乎是为感官量身定制的，人们会想知道如何将“意向性”一致地应用于感知和思维。可能包括感知经验和思维的指向/关于性/指涉的一个特殊之处（同时涵盖欲望和想象）：它们似乎都可能涉及（“意图指向”）不存在的对象。思想，不同于道路，可以引导你去一个并不存在的城市。一个人可以思考一个从未发生过也永远不会发生的会议；一个人可以想象香格里拉、埃尔多拉多或新耶路撒冷；一个人可以想象它们闪耀的街道、他们完全没有贫困的情景，或者他们市民独特的服饰；一个人可能渴望生活在其中。同样，当一个人产生幻觉时，他可以体验到看不见的东西。也许这表明了一种统一的方式来确定相关的指向性质。
 
 但这引发了新的困惑。我们是否要说（表面上不连贯地）我们所思考的对象是不存在的？当一个心灵状态实际上指向某个存在的东西时，这意味着什么，那个状态仍然可以指向一个不存在的东西？例如，我们是否应该同意在知觉和幻觉中存在一些经验上的“共同因素”？这一点在知觉哲学家中引起了很多争议，他们坚持认为，知觉经验在非幻觉的“好”情况下，基本上是关系性的。当你看到一条蛇时，你的经验是你和那条蛇之间的关系，如果没有它，这种经验根本不可能发生——就像踩在蛇身上一样。如果你经历了一次看到蛇的幻觉，即使你在主观上无法区分这种经验与“好”种类，情况也不是这样。如果这是正确的，那么很难看出我们如何能够得到一个涵盖这两种情况的意向性概念，只要这被理解为某种指向可能不存在的东西的参照。心灵的本质可能是其状态可以是关于事物或“指向超越自身”的。但要全面理解这种心理指向所带来的挑战是理论上的。
 
-一种对意向性的第二种方法可能从这样一个观念开始，即对刚刚讨论的对不存在的潜在参照的可能性与虚假、错误、不准确、幻觉、错觉和不满密切相关。使人相信（甚至只是假设）香格里拉有某种东西的可能性在于人们可以错误地相信（或假设）某种东西的存在。使人看到或听到不存在的东西的可能性在于一个人的经验在各种方式上可能是不准确的或非真实的。使一个人的欲望和意图指向永远不会存在的东西的可能性在于一个人的欲望和意图可能无法实现。每一种这样的负面评估都与一个正面评估形成对比：真实、准确、真实性和实现。这表明了另一种获得对意向性的理论掌握的一般策略，采用了一个满足的概念，延伸到包括对这些形式评估的每一种的易感性。根据约翰·西尔（John Searle）（1983）的观念，有意向性的状态是具有“满足条件”的状态。对于信念，它们是使其为真实的条件；对于感知经验，它们是使其为真实的条件；对于意图，它们是使其实现或执行的条件。
+一种对意向性的第二种方法可能从这样一个观念开始，即对刚刚讨论的对不存在的潜在参照的可能性与虚假、错误、不准确、幻觉、错觉和不满密切相关。使人相信（甚至只是假设）香格里拉有某种东西的可能性在于人们可以错误地相信（或假设）某种东西的存在。使人看到或听到不存在的东西的可能性在于一个人的经验在各种方式上可能是不准确的或非真实的。使一个人的欲望和意图指向永远不会存在的东西的可能性在于一个人的欲望和意图可能无法实现。每一种这样的负面评估都与一个正面评估形成对比：真实、准确、真实性和实现。这表明了另一种获得对意向性的理论掌握的一般策略，采用了一个满足的概念，延伸到包括对这些形式评估的每一种的易感性。根据约翰 · 西尔（John Searle）（1983）的观念，有意向性的状态是具有“满足条件”的状态。对于信念，它们是使其为真实的条件；对于感知经验，它们是使其为真实的条件；对于意图，它们是使其实现或执行的条件。
 
 一种“满足条件”的意向性方法似乎提供了一种替代方式，可以避免谈论对对象的指向性。但目前尚不清楚它是否能解决这些问题。例如，当思想使用不存在的神明或虚构人物的名字表达时，我们该怎么说？我们是否可以通过说宙斯是波塞冬的兄弟的思想，以及哈姆雷特是一个王子的思想，来摆脱对不存在的指向性？这是有问题的。此外，我们如何陈述这些思想的满足条件？这是否也会涉及对不存在事物的明显参考？（有关这些问题的讨论，请参见 Thomasson 1999 和 Crane 2013。）关于感知、幻觉和幻觉之间关系的正确理解的问题仍然存在。
 
@@ -60,7 +60,7 @@
 
 另一种理解“内容”的方式是将其视为回答问题“她在想什么？”时所报告的内容，形式为“她认为 p”。人们可能将思想的内容视为两个人分享的东西，当他们的想法相同（并且他们想的是同一个想法）时，这就是他们分享的内容，当他们的想法不同时，内容也会有所不同。类似的观点也适用于信念和意图。（尽管我们谈论一个人所感知的内容时，可能不太清楚是否要以同样的方式理解。）内容也可能独立于“心理模式”而变化，这在以下说法中得到了说明：相信我很快会秃头和害怕我很快会秃头在模式上有所不同，但内容相同：我很快会秃头，而每个内容又与相信和害怕我很快会死有所不同。（人们可能还希望将感知视为“模式”，与相信、害怕等并列。）
 
-意识状态内容的差异通常也被认为是通过我们用来报告它们的句子的某些逻辑特征来揭示的。关于思想或信念以及其他意向状态（如意图、希望、恐惧）的报告在“that-子句”中替换共指表达式时通常似乎不保留其真值。例如：“巴拉克·奥巴马”和“美国第 44 任总统”是共指或共指的。如果巴拉克·奥巴马出生在夏威夷是真的，那么第 44 任美国总统也是真的。即便如此，山姆可以认为巴拉克·奥巴马出生在夏威夷，而不认为第 44 任美国总统是。这种“替代性失败”似乎反映了山姆可能被说成在这种情况下思考的“内容”有所不同。或者，有时候会说，意向状态只与满足它们的条件有关，或者与它们所涉及的内容有关，只是“在某些方面”而不是其他方面——而在“方面下”上的差异就是内容上的差异。（西尔尔在这里谈到了意向状态的“方面形状”）。
+意识状态内容的差异通常也被认为是通过我们用来报告它们的句子的某些逻辑特征来揭示的。关于思想或信念以及其他意向状态（如意图、希望、恐惧）的报告在“that-子句”中替换共指表达式时通常似乎不保留其真值。例如：“巴拉克 · 奥巴马”和“美国第 44 任总统”是共指或共指的。如果巴拉克 · 奥巴马出生在夏威夷是真的，那么第 44 任美国总统也是真的。即便如此，山姆可以认为巴拉克 · 奥巴马出生在夏威夷，而不认为第 44 任美国总统是。这种“替代性失败”似乎反映了山姆可能被说成在这种情况下思考的“内容”有所不同。或者，有时候会说，意向状态只与满足它们的条件有关，或者与它们所涉及的内容有关，只是“在某些方面”而不是其他方面——而在“方面下”上的差异就是内容上的差异。（西尔尔在这里谈到了意向状态的“方面形状”）。
 
 这引发了一个问题，即“内容的拥有”意向性概念如何与满意条件概念协调。有时人们认为，如果心灵状态在满意方面有所对比（比如，一个是真实的，另一个是虚假的），它们在内容上就有所不同。如果一个人说出一个心灵状态的意向内容，那么他可能已经说出了满足它所需的条件的大部分或全部内容——即它的真实条件、或者说准确性条件、或者实现条件是什么。但也可以认为，内容只在相对于语境的情况下决定满意条件。当我们考虑用指示词或示意词表达的思想时，这似乎尤为合理。（当我多次思考多个对象时，这是 F，我所思考的东西是否真实可能会随着语境而异，但我在每个这样的场合所思考的每个这个东西（以及我如何思考它）可能是完全相同的。）我们也可以允许，从“方面上”有所不同的状态在某种意义上可能具有相同的满意条件。这一点以及相关问题引发了对内容概念的多种解释，该术语经常被指称为模糊不清或需要进行微妙的理论细化。例如：Edward Zalta 在 1988 年区分认知内容和客观内容；Jerry Fodor（1991 年）辩护狭义内容和广义内容之间的区别；John Perry（2001 年）区分自反内容和主题内容；David Chalmers（1996 年，2010 年）的内容的双重概念；以及 Katalin Farkas 的“毫不妥协”的现象内容概念。另请参阅 Walter Hopp（2011 年，第 1 章）对哲学界流通的“意向内容”概念的混乱多样性进行讨论。
 
@@ -72,11 +72,11 @@
 
 ## 3. 意识与意向性在现象学中
 
-意识与意向性的思想史可以追溯到比本文所涵盖的更久远的过去。一个方便且相对较近的起点可以追溯到弗朗茨·布伦塔诺（Franz Brentano）的哲学。他比其他任何一个思想家更多地负责保持“意向性”一词在过去一个半世纪左右的哲学讨论中保持活跃，具有类似于当前用法的含义，并且非常关注其与意识的关系（Brentano \[1874] 1973）。布伦塔诺本人对他的意向性概念的深刻历史背景非常清楚：他回顾了经院哲学的讨论（对笛卡尔极具影响力的观念论的发展至关重要），最终回溯到亚里士多德，以寻找关于意向性的主题（Brentano \[1867] 1977）。人们可以进一步追溯到柏拉图的讨论（在《辩士篇》和《泰阿泰图篇》中）关于解释错误信念的困难，甚至可以追溯到西方哲学的黎明时期，即巴门尼德试图从所谓发现不可能思考或谈论不存在的事物中得出巨大的结论。在本节中，我们将回顾布伦塔诺如何构想意向性和意识以及它们之间的关系，以及这一构想在他的学生胡塞尔（Husserl）的思想中是如何转变的——胡塞尔的名字最为强烈地与现象学运动联系在一起——以及在一些受他强烈影响的人的著作中。这将使我们能够介绍引言中提到的三个主题——可分离性、基本形式和自反性——通过这些主题，我们可以统一大约过去一个世纪左右涌现的关于意识和意向性的各种讨论。
+意识与意向性的思想史可以追溯到比本文所涵盖的更久远的过去。一个方便且相对较近的起点可以追溯到弗朗茨 · 布伦塔诺（Franz Brentano）的哲学。他比其他任何一个思想家更多地负责保持“意向性”一词在过去一个半世纪左右的哲学讨论中保持活跃，具有类似于当前用法的含义，并且非常关注其与意识的关系（Brentano \[1874] 1973）。布伦塔诺本人对他的意向性概念的深刻历史背景非常清楚：他回顾了经院哲学的讨论（对笛卡尔极具影响力的观念论的发展至关重要），最终回溯到亚里士多德，以寻找关于意向性的主题（Brentano \[1867] 1977）。人们可以进一步追溯到柏拉图的讨论（在《辩士篇》和《泰阿泰图篇》中）关于解释错误信念的困难，甚至可以追溯到西方哲学的黎明时期，即巴门尼德试图从所谓发现不可能思考或谈论不存在的事物中得出巨大的结论。在本节中，我们将回顾布伦塔诺如何构想意向性和意识以及它们之间的关系，以及这一构想在他的学生胡塞尔（Husserl）的思想中是如何转变的——胡塞尔的名字最为强烈地与现象学运动联系在一起——以及在一些受他强烈影响的人的著作中。这将使我们能够介绍引言中提到的三个主题——可分离性、基本形式和自反性——通过这些主题，我们可以统一大约过去一个世纪左右涌现的关于意识和意向性的各种讨论。
 
 对于 Brentano 来说，起初至少，意向性看起来至关重要的是心灵指向或指导可能仅存在于心灵中的对象的能力，他称之为“心理或意向性的存在”。在一段著名的文字中，他以这种方式引入了这个概念。
 
-> 每一种心理现象都以中世纪的斯科拉学派所称的对象的意向（或心理）存在为特征，我们可能称之为，虽然不是完全明确的，参照\[或关系]到内容，指向对象的方向（不应理解为现实），或内在客观性。每一种心理现象在自身内部包含某种对象，尽管它们并非都以相同的方式这样做。在展示中有东西被呈现，在判断中有东西被肯定或否定，在爱中被爱，在恨中被恨，在欲望中被渴望等等。（Brentano \[1874] 1973: 88）
+> 每一种心理现象都以中世纪的斯科拉学派所称的对象的意向（或心理）存在为特征，我们可能称之为，虽然不是完全明确的，参照\[或关系] 到内容，指向对象的方向（不应理解为现实），或内在客观性。每一种心理现象在自身内部包含某种对象，尽管它们并非都以相同的方式这样做。在展示中有东西被呈现，在判断中有东西被肯定或否定，在爱中被爱，在恨中被恨，在欲望中被渴望等等。（Brentano \[1874] 1973: 88）
 
 Brentano 说心理现象包括其中的对象，并不是一件简单的事情，或者说，思维的内在对象并不被认为是“现实”。他抱怨自己被学生误解，并随着思想的发展修正了自己的立场。专家们在如何解释他的观点上仍然存在相当大的分歧。但显然，他对意向性的构想，以及他影响的整个现象学传统，都受到第 2 节提到的第一思想线索的主导——即意向性作为指向或参照对象的特性——以及由此带来的任何困难。
 
@@ -86,7 +86,7 @@ Brentano 说心理现象包括其中的对象，并不是一件简单的事情�
 
 Brentano 是如何将意识与意向性联系起来的？他首先认为，每一种心理现象在意向性意义上都是“关于一个对象的”。其次，他认为每一种心理行为实际上都是有意识的，他认为这意味着有意识地意识到它，进而将其解释为一种“内部知觉”——每一种有意识的心理行为本身就是被呈现的，并且被判断（接受）为被呈现的。Brentano 并不认为假设存在无意识的（对他来说，未被感知的）心理行为是荒谬的。但他发现，他那个时代提出的理由不足以证明它们的存在。在他看来，无论在何种情况下，只要基于解释上的有用性而提出这一点，非心理学的（例如生理学的）解释同样适用。在这方面，他还认真对待了一个担忧，即如果我们认为（正如他所做的）所有心理行为都是有意识的，而所有有意识的行为都是意识的对象，那么就会出现无限回归的问题。但他认为他的理论可以解决这个问题：关键在于看到，由于内部知觉并不与它使之有意识的对象分离，因此不会出现回归。
 
-Brentano 在维也纳的讲座吸引并激发了一群令人印象深刻、多样化的中欧知识分子，这发生在 19 世纪 70 年代。在这些人中，胡塞尔对 20 世纪欧洲大陆哲学产生了最广泛的影响，这在很大程度上是因为他对受到他现象学启发的思想家探索存在主义主题的影响 — 马丁·海德格尔、让-保罗·萨特和莫里斯·梅洛-庞帝。尽管这些人是我们在这里将重点关注的 Brentano 和 Husserl 的继承者，但对于关于意向性和意识的现象学思想的全面阐述需要更广泛地涵盖一些人物，如：阿龙·古尔维奇、罗曼·英加登、安东·马蒂、亚历克修斯·迈农、阿道夫·赖纳赫、马克斯·舍勒、伊迪丝·施泰因、卡尔·斯图姆夫和卡西米尔·特瓦多夫斯基。
+Brentano 在维也纳的讲座吸引并激发了一群令人印象深刻、多样化的中欧知识分子，这发生在 19 世纪 70 年代。在这些人中，胡塞尔对 20 世纪欧洲大陆哲学产生了最广泛的影响，这在很大程度上是因为他对受到他现象学启发的思想家探索存在主义主题的影响 — 马丁 · 海德格尔、让-保罗 · 萨特和莫里斯 · 梅洛-庞帝。尽管这些人是我们在这里将重点关注的 Brentano 和 Husserl 的继承者，但对于关于意向性和意识的现象学思想的全面阐述需要更广泛地涵盖一些人物，如：阿龙 · 古尔维奇、罗曼 · 英加登、安东 · 马蒂、亚历克修斯 · 迈农、阿道夫 · 赖纳赫、马克斯 · 舍勒、伊迪丝 · 施泰因、卡尔 · 斯图姆夫和卡西米尔 · 特瓦多夫斯基。
 
 胡塞尔（\[1900] 1970）采纳了布伦塔诺对理解的关注，“描绘性地”，从主体的角度来看，经验如何是客体导向的，重新诠释了布伦塔诺的“描述心理学”为“现象学”，并将其赋予哲学中类似的基础性角色。然而，胡塞尔对意向性和意识的基本概念的形成在很大程度上受到了他对布伦塔诺的批评的影响。首先，考虑他对布伦塔诺关于意向性的回应。胡塞尔在早期对意向性的处理中（在《逻辑研究》\[1900] 1970 年，V §§ 9-11，14）的一个主要出发点之一是批评他认为是布伦塔诺关于思维和感知对象的“心理存在”的概念。胡塞尔认为，假设一个思想、判断、欲望等的对象（意向对象）是思想者、判断者或欲望者心中具有特殊存在方式的东西是一个基本错误。因为我们应该认识到，一个人思维、判断等心理行为的对象往往是或可以是超越的普通对象，它们与指向它们的行为（心灵状态）享有某种独立性（用胡塞尔的术语来说，是“意向”它们）。至少如果我没有幻觉，我视觉经验的对象并不是我心灵内在的东西，其存在随着经验而来而去，而是（例如一个盒子）超越或超越我可能对它的任何（必然是透视的）经验，如相对位置、光线或注意力的改变。这种对感知恒常性的“客观指称”的概念根植于感知恒常性的现象学，早前与伯奇进行了比较。
 
@@ -124,7 +124,7 @@ Husserl 认为，心理状态要有意识，就必须是一种经历（Erlebnis�
 
 ## 4. 意向性与分析传统
 
-十九世纪末/二十世纪初大多数分析意向性（或心理表征或内容）处理的遗产，最重要的不在于 Brentano、Husserl 及其直接的知识传人的著作，而在于哥德洛布·弗雷格（\[1892] 1952）的“论意义与指称”和伯特兰德·罗素（1905）的“论指称”中对逻辑语言学问题的开创性讨论，这两篇文章被广泛认为是分析传统的定义性文件。但弗雷格和罗素的工作与 Brentano 和早期 Husserl 的工作来自大致相同的时代和思想背景。长期以来已经认识到某些接触点：罗素对迈农的客体论的讨论；奇索姆和奎因对他们认为是“Brentano 主张”的讨论；以及胡塞尔的意义/客体区分（在《逻辑研究 I》中）与弗雷格的（先前的）意义/指称区分之间的相似之处。事实上，有人有影响力地（尽管有争议地）提出（由 Føllesdal 1969、1990）胡塞尔的意义/客体区分是从弗雷格那里借鉴的（尽管术语有所变化），胡塞尔的“诺伊玛”被正确地解释为具有弗雷格意义的特征。
+十九世纪末/二十世纪初大多数分析意向性（或心理表征或内容）处理的遗产，最重要的不在于 Brentano、Husserl 及其直接的知识传人的著作，而在于哥德洛布 · 弗雷格（\[1892] 1952）的“论意义与指称”和伯特兰德 · 罗素（1905）的“论指称”中对逻辑语言学问题的开创性讨论，这两篇文章被广泛认为是分析传统的定义性文件。但弗雷格和罗素的工作与 Brentano 和早期 Husserl 的工作来自大致相同的时代和思想背景。长期以来已经认识到某些接触点：罗素对迈农的客体论的讨论；奇索姆和奎因对他们认为是“Brentano 主张”的讨论；以及胡塞尔的意义/客体区分（在《逻辑研究 I》中）与弗雷格的（先前的）意义/指称区分之间的相似之处。事实上，有人有影响力地（尽管有争议地）提出（由 Føllesdal 1969、1990）胡塞尔的意义/客体区分是从弗雷格那里借鉴的（尽管术语有所变化），胡塞尔的“诺伊玛”被正确地解释为具有弗雷格意义的特征。
 
 然而，将意向性的现象学处理与分析传统中发现的处理进行比较时，应牢记以下几点。胡塞尔（像布伦塔诺一样）所追求的是从主体的角度描述意向性经验的一般特征。因此，他对意向性的概念基本上根植于对感知经验中的客体恒常性的反思；范例意向性经验的表面客体与这些客体“作为被意向”（即，它们如何以及“作为什么”被意向）之间的对比；以及体验（无论是感知、想象还是概念性的）可以在某种程度上继续“关于”某事物，即使它与客体没有真正的关系。因此，在现象学传统中，对意向性的讨论从一开始就与对经验或意识的讨论紧密相连。另一方面，弗雷格和罗素的著作中对意向性讨论最具影响力的部分集中在逻辑成就所带来的问题上，并引发了通过关于用于报告它们的语言的问题来理解心理状态的方式。此外，出于其他原因，在 20 世纪的大部分时间里，分析哲学经常将意识（主要或完全以感官术语理解）与与意向性相关的心智方面分离开来。因此，本节中对意向性的处理将主要将意识的概念置于背景中。然而，在第 5 节中，当我们看到意识和意向性是如何分离然后在分析哲学中重新统一时，它将明确重新出现。
 
@@ -134,11 +134,11 @@ Husserl 认为，心理状态要有意识，就必须是一种经历（Erlebnis�
 
 这种解释方式，连同弗雷格主张的“意义决定指称”的观点，以及对此的历史批评，构成了当代有关心智内容讨论的重要背景的一部分。人们通常假定，与弗雷格一样，我们必须承认思想或内容不能由图像或本质上私人的“观念”构成。但哲学家经常批评弗雷格将思想视为某种抽象实体，被“把握”或“呈现给”头脑，他们希望用更“自然主义”的东西，或者至少更能解释思维过程中所涉及的内容来取代弗雷格对抽象实体的未经分析的把握。
 
-对弗雷格图景的反应以另一种重要方式决定了关于意向性或内容的分析讨论的性质。可以承认，所报告的思想内容应当与我们报告它的表达的意义相一致。但然后，有人争辩说，这种内容的一致性不会以个体主义方式确定，并且在某些方面可能超出心理主体的理解范围（或者不完全“呈现在”头脑中）。因为决定表达的指称的因素可能是与世界的自然因果关系有关——正如索尔·克里普克（1972 年）和希拉里·普特南（1975 年）所主张的对于像“尼克松”和“西塞罗”这样的专有名词，以及“自然种类”术语如“金”和“水”是真实的。而且（正如泰勒·伯奇（1979 年）所主张的），一个在个体上保持定性相同的说话者，仅仅因为所属的语言社区发生变化，可能会断言不同的事情。（例如，她对“关节炎”的表达的含义是由她所在社区的医学专家决定的，而不是由她“脑中”的内容决定的。如果他们的用法发生变化，她的断言的含义也会随之改变，而与她内部的任何变化无关。）现在，如果用于报告或表达一个人思想的表达的指称和真值条件不是由一个人的头脑中的内容决定的，而一个人的思想内容又决定了它们的指称和真值条件，那么一个人的思想内容也不是以个体主义方式确定的。相反，它必然与一个人与某些自然物质的因果关系以及一个人在某个语言社区的成员资格紧密相关。语言意义和心理内容都是“外部”决定的。
+对弗雷格图景的反应以另一种重要方式决定了关于意向性或内容的分析讨论的性质。可以承认，所报告的思想内容应当与我们报告它的表达的意义相一致。但然后，有人争辩说，这种内容的一致性不会以个体主义方式确定，并且在某些方面可能超出心理主体的理解范围（或者不完全“呈现在”头脑中）。因为决定表达的指称的因素可能是与世界的自然因果关系有关——正如索尔 · 克里普克（1972 年）和希拉里 · 普特南（1975 年）所主张的对于像“尼克松”和“西塞罗”这样的专有名词，以及“自然种类”术语如“金”和“水”是真实的。而且（正如泰勒 · 伯奇（1979 年）所主张的），一个在个体上保持定性相同的说话者，仅仅因为所属的语言社区发生变化，可能会断言不同的事情。（例如，她对“关节炎”的表达的含义是由她所在社区的医学专家决定的，而不是由她“脑中”的内容决定的。如果他们的用法发生变化，她的断言的含义也会随之改变，而与她内部的任何变化无关。）现在，如果用于报告或表达一个人思想的表达的指称和真值条件不是由一个人的头脑中的内容决定的，而一个人的思想内容又决定了它们的指称和真值条件，那么一个人的思想内容也不是以个体主义方式确定的。相反，它必然与一个人与某些自然物质的因果关系以及一个人在某个语言社区的成员资格紧密相关。语言意义和心理内容都是“外部”决定的。
 
 外在主义意向性观念的发展也影响了当代心灵哲学对罗素遗产的接受。罗素还帮助构建了一种关于心理状态意向性的概念，根据这种概念，每种这样的状态被看作是涉及个体对“命题的熟悉”（对应于弗雷格的“理解”）——这个命题既是在理解表达状态时所理解的内容，也是个体心理状态的内容。因此，对于许多受到罗素传统影响的哲学家来说，意向性状态被构想为对命题的态度——命题态度。此外，罗素对确定描述的著名分析，将其分解为使用存在量词和谓词的短语，为许多后来的哲学家拒绝任何将意向性（如迈农的）视为与不存在对象有关的概念（如迈农的）奠定了基础。罗素的论述还引起了一些所谓的“逻辑适当名称”的案例的注意，这些案例显然无法用描述性术语进行分析（典型的如“这”和“那”），他认为这些名称必须直接指向对象。对这种“指示性”和“指示性”（例如，“我”，“这里”，“现在”）引用的反思导致一些人（卡普兰，1979 年；佩里，1977 年）认为，我们心理状态的内容并非总是由弗雷格的意义构成，而必须被视为部分由我们指称的头脑外世界中的公共对象组成，指示性地、指示性地——这是支持心理内容外在主义观点的另一个来源，因此也支持了意向性。
 
-然而，二十世纪哲学中另一个重要的外在主义倾向的来源在于这样一种思想：说话者话语的意义取决于其对听者的潜在可理解性：语言必须是公共的——这一观念在路德维希·维特根斯坦（Ludwig Wittgenstein）、W.V.O.奎因（W.V.O. Quine）和唐纳德·戴维森（Donald Davidson）的作品中得到了不同而有影响力的表达。这一观念，再加上意向性（或广义（笛卡尔）意义上的“思维”）必须能够用语言表达的假设，导致一些人得出结论：决定一个人心灵内容的因素必须在于外部条件，这些条件使他人能够归因于该内容。
+然而，二十世纪哲学中另一个重要的外在主义倾向的来源在于这样一种思想：说话者话语的意义取决于其对听者的潜在可理解性：语言必须是公共的——这一观念在路德维希 · 维特根斯坦（Ludwig Wittgenstein）、W.V.O.奎因（W.V.O. Quine）和唐纳德 · 戴维森（Donald Davidson）的作品中得到了不同而有影响力的表达。这一观念，再加上意向性（或广义（笛卡尔）意义上的“思维”）必须能够用语言表达的假设，导致一些人得出结论：决定一个人心灵内容的因素必须在于外部条件，这些条件使他人能够归因于该内容。
 
 在这里值得注意的是，自 1990 年代以来，在心灵哲学和认知科学中出现了另一种外部主义，与普特南和伯奇所提出的“内容外部主义”有所不同，因为关于知觉、认知和行动的“具身化”、“嵌入式”或“实践性”理论变得突出。例如，在 Clark 和 Chalmers 1998 年提倡的“扩展心智”观点上，心理过程并不局限于头脑内部的表征活动——它们涵盖了与环境的具身互动——认知（广义上）不仅限于内部表征的操纵，而且延伸到利用世界上的事物。
 
@@ -152,13 +152,13 @@ Husserl 认为，心理状态要有意识，就必须是一种经历（Erlebnis�
 
 在关于意识与意向性关系的观点中，一个明显的基本分歧是那些认为意识——更具体地说，我们实际经历的体验的现象特征——必然伴随着某种意向性的人，以及那些不这样认为的人。我们可以称前者（正如将会看到的，是一个相当多样化的群体）为“意向主义者”，称后者（根据 Horgan 和 Tienson 在 2002 年的观点）为“分离主义者”。所谓的意向主义，如此描述，可以涵盖各种立场，部分原因是由于对意向性概念的潜在多样性。究竟“意向主义与分离主义”所标志的对比，将在很大程度上取决于一个人对意向性的概念。
 
-然而，最初只是运用对比的广泛和开放概念，被合理地视为分裂主义者的观点占据了 20 世纪大部分分析哲学的主流。根据一个重要（曾经占主导地位）的观点，意识被非意向性的“感觉”或“原始感受”所耗尽。可以合理地认为，对这一观点的接受在很大程度上归因于吉尔伯特·赖尔（Gilbert Ryle）的《心灵的概念》（1949 年）对分析哲学发展的深远影响。作为他反对笛卡尔心灵概念的一部分，认为心灵是隐藏（“神秘”）“幽灵”事件发生的地方的论证，赖尔认为意识的流只包含提供“无法判断拥有这些感觉和意象的生物是动物还是人类；是白痴、疯子还是正常人”的感觉和意象，与心灵的核心无关，因此没有可能判断这些感觉和意象的正确与否、真实与非真实。在同一时代和思想环境中同样具有强大影响力的是维特根斯坦（Wittgenstein）对理解作为“内在过程”的概念的批判，以及他对私人语言的概念的批评。维特根斯坦坚持需要公共意义标准的观点的普及可能会加强对意识的贬低，因为意识被视为隐藏或“内在”，只有当意义纯粹是私人的时候，意识才可能带来理解和智力上的区别，而这是不可能的。无论如何，部分通过对赖尔和维特根斯坦在 U.T. Place（1956 年）和 J.J.C Smart（1959 年）关于意识的脑基础唯物主义观点的影响，将意识简化为感觉和感觉意象在心灵哲学中牢固地根植下来，因为这些著作在设定其辩论条件方面做出了很大贡献。
+然而，最初只是运用对比的广泛和开放概念，被合理地视为分裂主义者的观点占据了 20 世纪大部分分析哲学的主流。根据一个重要（曾经占主导地位）的观点，意识被非意向性的“感觉”或“原始感受”所耗尽。可以合理地认为，对这一观点的接受在很大程度上归因于吉尔伯特 · 赖尔（Gilbert Ryle）的《心灵的概念》（1949 年）对分析哲学发展的深远影响。作为他反对笛卡尔心灵概念的一部分，认为心灵是隐藏（“神秘”）“幽灵”事件发生的地方的论证，赖尔认为意识的流只包含提供“无法判断拥有这些感觉和意象的生物是动物还是人类；是白痴、疯子还是正常人”的感觉和意象，与心灵的核心无关，因此没有可能判断这些感觉和意象的正确与否、真实与非真实。在同一时代和思想环境中同样具有强大影响力的是维特根斯坦（Wittgenstein）对理解作为“内在过程”的概念的批判，以及他对私人语言的概念的批评。维特根斯坦坚持需要公共意义标准的观点的普及可能会加强对意识的贬低，因为意识被视为隐藏或“内在”，只有当意义纯粹是私人的时候，意识才可能带来理解和智力上的区别，而这是不可能的。无论如何，部分通过对赖尔和维特根斯坦在 U.T. Place（1956 年）和 J.J.C Smart（1959 年）关于意识的脑基础唯物主义观点的影响，将意识简化为感觉和感觉意象在心灵哲学中牢固地根植下来，因为这些著作在设定其辩论条件方面做出了很大贡献。
 
-同样具有影响力的是威尔弗里德·塞拉斯（1956）所表达的区分感性（感觉）和智性的概念。在前者涉及的感受质量中——仅仅是感觉——不需要认知复杂性，并且很容易归因于畜生，而后者——涉及意识、知晓——需要一个人拥有正确的概念，这并不仅仅通过感觉就能保证，而是需要学习和推理能力（塞拉斯认为这些能力只有通过语言才能获得）。理查德·罗蒂（1979）并不是唯一一个认为塞拉斯的观点支持现象和意向之间严格分离的人（另见布兰登 1994）。罗蒂对塞拉斯观点的吸收（与奎因的消除主义相融合）导致他否认意识的重要性，甚至否认意识的现实性。
+同样具有影响力的是威尔弗里德 · 塞拉斯（1956）所表达的区分感性（感觉）和智性的概念。在前者涉及的感受质量中——仅仅是感觉——不需要认知复杂性，并且很容易归因于畜生，而后者——涉及意识、知晓——需要一个人拥有正确的概念，这并不仅仅通过感觉就能保证，而是需要学习和推理能力（塞拉斯认为这些能力只有通过语言才能获得）。理查德 · 罗蒂（1979）并不是唯一一个认为塞拉斯的观点支持现象和意向之间严格分离的人（另见布兰登 1994）。罗蒂对塞拉斯观点的吸收（与奎因的消除主义相融合）导致他否认意识的重要性，甚至否认意识的现实性。
 
 外部主义论证（如第 4 节中提到的那种）也被认为支持“定性”与意义和内容的分离（因此支持意识与意向性的分离）。因为有时人们假定一个人的经验的现象特征是“内部固定的”——即，它与一个人外部环境中特定物质的性质或一个人的语言社区没有必要的关系。因此，如果外部主义论证（如普特南和伯奇的论证）表明意义和内容都不“在头脑中”，那么现象意识就不能暗示任何意向性或内容。普特南（1981）本人得出了这样的结论，而且很像赖尔，他认为意识的连续仅仅包括感觉和形象，这些（回想弗雷格）应该与思维和意义区分开来。尽管不否认上述观点中的重要差异，但似乎合理地假设它们共同帮助巩固了分析哲学中的一个概念（有时与“感知质”这个术语联系在一起），即将意识限制在感觉和感官形象的经验/“它是什么样子”的意义上，并因此将其与思维、概念和“命题态度”——因此与意向性——分隔开来。 （有关这一传统的最新辩护，请参见帕平诺 2021 年。）
 
-对这种对感知经验的看法的反对意见在二十世纪末变得越来越普遍，从不同的角度和动机出发，各种肯定意向性立场的著作中都有所体现。但即便在此之前，分离主义在分析哲学中也并非被明确接受或普遍存在（考虑安斯康姆，1965 年）。甚至在上世纪八十年代初期，也可以找到对感知经验广义意向主义观点的重要明确表述（西尔，1983 年《意向性》）。一种重要的意向主义思潮（与西尔的思想截然不同）在上世纪九十年代兴起，将对内容的外部主义与对现象特征的内部主义的拒绝相结合。因此，马丁·戴维斯（1997 年）、弗雷德·德雷茨克（1995 年）和迈克尔·泰（1995 年，2002 年）认为，经验的现象特征也基本上由因果环境联系决定。与普特南不同，关于意向性的外部主义不应被视为支持分离主义。从这一角度出发的哲学家还特征性地限制了他们认为与现象特征不可分割的意向性的种类，从某种程度上保留了赖尔式的纯感官意识流，但赋予了这一点至关重要的意向性转折。人们区分了两种意向性或心理表征，一种存在于感官状态中，另一种存在于认知或概念状态中。然后认为只有前者是现象特征所蕴含或构成的。正如前文所提到的，泰将现象特征与他归因于感知状态的非概念性、类似图片或地图的表征内容等同起来，这些状态准备影响信念。
+对这种对感知经验的看法的反对意见在二十世纪末变得越来越普遍，从不同的角度和动机出发，各种肯定意向性立场的著作中都有所体现。但即便在此之前，分离主义在分析哲学中也并非被明确接受或普遍存在（考虑安斯康姆，1965 年）。甚至在上世纪八十年代初期，也可以找到对感知经验广义意向主义观点的重要明确表述（西尔，1983 年《意向性》）。一种重要的意向主义思潮（与西尔的思想截然不同）在上世纪九十年代兴起，将对内容的外部主义与对现象特征的内部主义的拒绝相结合。因此，马丁 · 戴维斯（1997 年）、弗雷德 · 德雷茨克（1995 年）和迈克尔 · 泰（1995 年，2002 年）认为，经验的现象特征也基本上由因果环境联系决定。与普特南不同，关于意向性的外部主义不应被视为支持分离主义。从这一角度出发的哲学家还特征性地限制了他们认为与现象特征不可分割的意向性的种类，从某种程度上保留了赖尔式的纯感官意识流，但赋予了这一点至关重要的意向性转折。人们区分了两种意向性或心理表征，一种存在于感官状态中，另一种存在于认知或概念状态中。然后认为只有前者是现象特征所蕴含或构成的。正如前文所提到的，泰将现象特征与他归因于感知状态的非概念性、类似图片或地图的表征内容等同起来，这些状态准备影响信念。
 
 Tye 的观点也体现了一些外在主义意向性意识观点中常见的特征，这些观点在分离主义的阴影下出现。首先，他的观点可以说是彻底的“非反思主义”（在第 3 节中介绍的意义上）：他认为一个人的意识状态既不包含对该状态的表征（即没有高阶或自我表征），也不包含对该状态的指向/参照，也不包含自我意识（无论这被解释为对状态本身的意识，还是对拥有该状态的自我的意识）。其次，Tye 的意向性是我们可以称之为归纳性的。也就是说，这个说法不仅仅是因为一个经验具有某种现象特征，就意味着它是有意向性的或者具有某种意向性。这个说法是，它的现象性和具有的特征是由它具有何种意向性（或者是何种心理表征）的必然结果，而这种类型的意向性/表征可以用不涉及现象特征的原始诉诸来解释。因此，这个想法不仅仅是最小的意向性想法，即某些现象性意味着某些意向性。这个想法是，现象特征可以被解释为仅仅是——它可以被解释性地归约为——某种意向性或表征。
 
@@ -250,13 +250,13 @@ Tye 的观点也体现了一些外在主义意向性意识观点中常见的特�
 
 塞尔的观点引起了许多批评。（参见对塞尔 1990 年的同行评论。）其中问题领域包括以下几点。首先，我们如何详细说明固有意向状态必须潜在意识，而不使其变得太容易或太难满足？其次，为什么非意识状态的固有意向性需要解释，而有意识状态的固有意向性却不成问题？第三，塞尔的论点似乎没有提供一般理由来排除所有试图给出“自然主义”解释的努力，这些解释足以施加——不需要意识的帮助——真正而不仅仅是解释者相关的意向性。
 
-一种绕过西尔的描述中一些问题的方法，同时认为所有的意向性都与意识联系在一起，是主张非经验性的“关于性”可以被过于普遍地发现，并且价格太低廉——因此只有经验带来的关于性应该被认为是“真实的意向性”。这大致是加伦·斯特劳森（2008）提出的观点。他承认我们可能试图缩小对意向性的归属，并避免丹尼特式的“意向性系统”过于泛滥——但不诉诸于意识。例如，我们可能提出真实的意向性取决于进化赋予的功能来指示。但他认为这样的方法并没有给我们提供真正有原则的界定；它们最终只是简单地忽视合法的反例，并最终依赖于“拟人化/拟动物化的人类偏见”。然而，一旦我们意识到“经验性的定性特征”涵盖了丰富多样的感觉和认知状态，我们就能够看到它如何限制我们的感知对象以及我们的思维内容；只有这种由意识施加的限制才能为它们的“关于性”或“关于什么”找到一个非任意的“停止点”。
+一种绕过西尔的描述中一些问题的方法，同时认为所有的意向性都与意识联系在一起，是主张非经验性的“关于性”可以被过于普遍地发现，并且价格太低廉——因此只有经验带来的关于性应该被认为是“真实的意向性”。这大致是加伦 · 斯特劳森（2008）提出的观点。他承认我们可能试图缩小对意向性的归属，并避免丹尼特式的“意向性系统”过于泛滥——但不诉诸于意识。例如，我们可能提出真实的意向性取决于进化赋予的功能来指示。但他认为这样的方法并没有给我们提供真正有原则的界定；它们最终只是简单地忽视合法的反例，并最终依赖于“拟人化/拟动物化的人类偏见”。然而，一旦我们意识到“经验性的定性特征”涵盖了丰富多样的感觉和认知状态，我们就能够看到它如何限制我们的感知对象以及我们的思维内容；只有这种由意识施加的限制才能为它们的“关于性”或“关于什么”找到一个非任意的“停止点”。
 
 Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Searle 和 Strawson 的思路相似。他区分了原始意向性和解释者相关意向性，认为意识是前者的唯一定位：意识“将意向性注入世界”。然而，与 Searle 不同，Kriegel 认为意识不仅赋予无意义符号意向性，也赋予无意识的心理或认知生活意向性，方式大致相同。具有非体验意向性的东西通过在“理想解释者”的体验中被视为具有它而获得其关于性。Kriegel 实际上采取了丹尼特所倡导的“解释主义”意向性观，但（与丹尼特不同的是）将其限制在意识缺失的情况下。因此，他似乎应该拒绝像丹尼特那样试图用不预设意识的意向性或表征概念来解释意识的理论。这造成了一个困难，因为 Kriegel 还提出了一种关于意识的自我表征主义解释，似乎遵循了一般的简约表征主义策略。他通过区分心理理论中作为心理学理论中的一种假设的自然（或客观）“追踪”心理表征，与我们从反思自己的心灵中熟悉的心理表征相区分，后者容易受到表象/现实区分的影响。Kriegel 认为，意识解释了后者。
 
-安吉拉·门德洛维奇（2018）提出了另一种“意识优先”观点。在她的论证中起关键作用的是对心理表征的解释必须与我们对其的内省判断相一致，既不会导致与之“不匹配”（正如她所说的视觉表征的“跟踪”解释在颜色方面所做的那样），也不会导致所分配内容的不可接受的不确定性（她发现这在非跟踪功能角色解释中是不可避免的）。她认为，只有将意向性建立在现象特征上的解释才能避免这些问题；她解释了如何克服这种特殊内容“匹配”挑战所引发的理论问题。
+安吉拉 · 门德洛维奇（2018）提出了另一种“意识优先”观点。在她的论证中起关键作用的是对心理表征的解释必须与我们对其的内省判断相一致，既不会导致与之“不匹配”（正如她所说的视觉表征的“跟踪”解释在颜色方面所做的那样），也不会导致所分配内容的不可接受的不确定性（她发现这在非跟踪功能角色解释中是不可避免的）。她认为，只有将意向性建立在现象特征上的解释才能避免这些问题；她解释了如何克服这种特殊内容“匹配”挑战所引发的理论问题。
 
-也有基于意识的心灵解释，不依赖于原始/派生的意向性区分（如西尔、克里格尔和门德洛维奇的）。例如，考虑柯克·卢德维希（Kirk Ludwig）（1996a）提出的论点。他认为，意识是需要的，以正确划定个体心灵的边界——因为没有什么能够确定一个非意识状态的心灵状态是谁的，除非该状态包含在产生适当类型的意识心理状态的倾向中。声称的心理过程如果不倾向于适当产生某人的意识心理状态，那么它们就不属于任何人，也就是说，它们根本不是心理状态。大致而言：意识提供了心灵的统一，没有它就不会有心灵。只有有了意识，我们才有了心灵中的内容和外部之间的适当界限。卢德维希认为，因此，将许多长期以来心理理论家倾向于填充大脑视觉系统的无意识推断归因于我们的心灵是一个错误。
+也有基于意识的心灵解释，不依赖于原始/派生的意向性区分（如西尔、克里格尔和门德洛维奇的）。例如，考虑柯克 · 卢德维希（Kirk Ludwig）（1996a）提出的论点。他认为，意识是需要的，以正确划定个体心灵的边界——因为没有什么能够确定一个非意识状态的心灵状态是谁的，除非该状态包含在产生适当类型的意识心理状态的倾向中。声称的心理过程如果不倾向于适当产生某人的意识心理状态，那么它们就不属于任何人，也就是说，它们根本不是心理状态。大致而言：意识提供了心灵的统一，没有它就不会有心灵。只有有了意识，我们才有了心灵中的内容和外部之间的适当界限。卢德维希认为，因此，将许多长期以来心理理论家倾向于填充大脑视觉系统的无意识推断归因于我们的心灵是一个错误。
 
 另一种使意识成为中心的方法（但不涉及原始/派生对比）是 Declan Smithies 2019 年的方法。对他来说，至关重要的是，信念本质上是可以理性评估的状态，能够证明和被证明。他认为，我们只有通过将它们理解为意识的表现形式——作为对意识判断的倾向，才能恰当地解释它们的认识论地位。因为只有这样才能得出关于何时某人在认识规范方面是宜评估还是不宜评估的直观正确结论。只有这样才能与正确将理据与内省联系起来、内省与意识联系起来的一般认识论相一致。因此，虽然我们可以构想与我们行为相似但缺乏主观体验的存在（某种“僵尸”），但我们不应假设他们会真正具有个人层面的、可以理性评估的态度，即使他们心中怀有在行为方面发挥因果作用的内部表征。没有适当类型的意识，他们就无法获得他们需要的内省自知，以便正确受制于认识规范，因此他们就无法真正具有像信念这样的态度。
 
@@ -301,7 +301,7 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 
 对于基本意向性形式主题的不同观点将面临不同的挑战，以解释我们知识的来源，或者对我们周围事物的日常信念提供保证。大致上，似乎在某些方面，对于理由的解释会更容易，当感觉经验的意向性被同化为完全成熟的概念应用判断或信念时——因为似乎信念如何证明信念并不神秘。另一方面，朝着这个方向走得太远可能会带来自己的难题。似乎感觉经验应该是正确的类型，以使我们能够获得概念（这假设我们尚未拥有它们），并支持我们将概念应用于事物（这假设我们尚未这样做）。但如果我们将感觉经验本身视为一种判断或信念，维持这些假设可能会更加困难（请参见 Siegel 和 Silins 2015 年的讨论）。
 
-对可分离性的处理也可能具有认识论含义。一些人（例如，约翰·坎贝尔（John Campbell）2002 年）认为，除非我们将经验（甚至其主观特性）本质上视为“客体依赖”，否则我们无法充分理解感觉经验在提供我们周围事物的知识中的作用。另一方面，人们可能会想知道，在保持某种形式的客体依赖的同时，是否可以充分理解经验的主观性、其视角性和容易出错的特性。考虑胡塞尔（Husserl）和梅洛-庞蒂（Merleau-Ponty）对感知经验的观点，以及对当代分离主义对幻觉和幻觉处理的讨论，涉及到意识的认识论意义的这一方面。
+对可分离性的处理也可能具有认识论含义。一些人（例如，约翰 · 坎贝尔（John Campbell）2002 年）认为，除非我们将经验（甚至其主观特性）本质上视为“客体依赖”，否则我们无法充分理解感觉经验在提供我们周围事物的知识中的作用。另一方面，人们可能会想知道，在保持某种形式的客体依赖的同时，是否可以充分理解经验的主观性、其视角性和容易出错的特性。考虑胡塞尔（Husserl）和梅洛-庞蒂（Merleau-Ponty）对感知经验的观点，以及对当代分离主义对幻觉和幻觉处理的讨论，涉及到意识的认识论意义的这一方面。
 
 意识与意向性的关系如何被看待也将影响一个人对“内省”自我认知的解释。也就是说，这将影响我们对于如何认识或对自己的心智状态作出判断的解释。一个人可能会认为意识和非意识之间的区别对于以独特的第一人称方式了解自己的心智状态有所影响。粗略地说，意识到的东西似乎更容易通过内省方式直接了解。但是，持有分离主义或强烈限制主义观点似乎会限制意识在自我认知解释中的作用。例如，卡鲁瑟斯（Carruthers）对于现象意识的观点几乎完全限制在非概念性感官状态和形象模式上，并相应地限制了独特的第一人称自我认知：在意识的这些范围之外，你对于自己心智生活的认知关系——比如你在思考什么、怎么思考——被认为基本上与你对他人的认知关系相同（Carruthers 2011）。或者，一个人可能认为自己对自己思想的认知也是根本上和独特地第一人称的——但与对自己的感觉体验和形象的认知方式非常不同（也许是“理性主义”）：了解自己的心智有两种截然不同的方式（Moran 2001；Boyle 2009）。然而，假设对经验的包容性概念，将更容易认为，无论是自己的感知还是思考被认知，意识在自我认知方面以某种程度上类似的方式起作用。
 
@@ -311,7 +311,7 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 
 似乎仍然可以坚持对所想象的揭示价值的反应持开放态度，即使将意识与意向性分开，或者坚持经验缺乏涉及概念理解的那种认知丰富性。然而，这样看来，您赋予意识的价值将与您赋予理解行为的非工具性价值明显分离。关于在这种观点下，如何可能在这种行为中获得有价值的快乐，以及如何继续将人的不可替代价值与意识联系在一起，将会引发问题。总的来说，如果认为经验更为丰富，那么将意识赋予高内在价值，并将人的不可替代价值保留给有意识的存在，可能会更容易。
 
-但即便如此，我们可能会想，如果意识——无论多么丰富——严格来说对于心智并非必不可少，我们是否真的应该如此关心它。在尼尔·莱维（2014）提出的观点中，假设僵尸可能拥有理性理解、欲望和兴趣的心智，因此他们的幸福与价值考量中的地位不应逊色于有意识的存在，也不应有所不同。因此，他坚持认为（通过与李氏对意识认识论的削弱相类似的推理）：即使在我们自己的情况下，（现象学的）意识对价值而言是附带的。但同样地，有人可能质疑僵尸心智的假设。即使没有人这样做，我们也可能认为，对于那些无法体验到挫折或满足的主体实体而言，它们是否得到所谓的欲望并不太重要，除非我们自己恰好独立地也想要这样。
+但即便如此，我们可能会想，如果意识——无论多么丰富——严格来说对于心智并非必不可少，我们是否真的应该如此关心它。在尼尔 · 莱维（2014）提出的观点中，假设僵尸可能拥有理性理解、欲望和兴趣的心智，因此他们的幸福与价值考量中的地位不应逊色于有意识的存在，也不应有所不同。因此，他坚持认为（通过与李氏对意识认识论的削弱相类似的推理）：即使在我们自己的情况下，（现象学的）意识对价值而言是附带的。但同样地，有人可能质疑僵尸心智的假设。即使没有人这样做，我们也可能认为，对于那些无法体验到挫折或满足的主体实体而言，它们是否得到所谓的欲望并不太重要，除非我们自己恰好独立地也想要这样。
 
 关于意识与意向性关系观点如何影响有关心灵、自我、解释、知识和价值的重大问题，肯定还有很多值得探讨的地方。但刚刚所说的希望能够突显出哲学领域的一些显著特征。
 
@@ -347,7 +347,7 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 * –––, 2009, “Experience and Content”, *The Phillosophical Quarterly*, 59(236): 429–451. doi: 10.1111/j.1467-9213.2009.614.x
 * Byrne, Alex and Siegel, Susanna, 2017, “Rich or Thin?”, in *Current Controversies in Philosophy of Perception*, B. Nanay (ed.), Abingdon: Routledge.
 * Campbell, John, 2002, *Reference and Consciousness*, Oxford: Oxford University Press.
-* Carruthers, Peter, 1989, “Brute Experience”, *Journal of Philosophy*, 86(5):258–269. doi: 10.2307/2027110
+* Carruthers, Peter, 1989, “Brute Experience”, *Journal of Philosophy*, 86(5): 258–269. doi: 10.2307/2027110
 * –––, 2000, *Phenomenal Consciousness*, Cambridge: Cambridge University Press.
 * –––, 2004, “HOP over FOR, HOT Theory”, in Gennaro 2004, pp. 115–135. doi: 10.1075/aicr.56.08car
 * –––, 2011, *The Opacity of Mind: an Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press.
@@ -392,7 +392,7 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 * Frege, Gottlob, \[1892] 1952, “On Sense and Reference”, Max Black (trans.), in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds.), Basil Blackwell.
 * Gennaro, Rocco J. (ed.), 2004, *Higher-Order Theories of Consciousness*, Philadelphia: John Benjamins.
 * Gertler, Brie, 2011, *Self-Knowledge*, Abingdon, UK: Routledge.
-* –––, 2012a, “Renewed Acquaintance”, in Smithies and Stoljar 2012, p. 93. doi: 10.1093/acprof:oso/9780199744794.003.0004
+* –––, 2012a, “Renewed Acquaintance”, in Smithies and Stoljar 2012, p. 93. doi: 10.1093/acprof: oso/9780199744794.003.0004
 * –––, 2012b, “Understanding the Internalism-Externalism Debate: What is the Boundary of the Thinker?” *Philosophical Perspectives*, 26(1): 51–75, *Philosophy of Mind*. doi: 10.1111/phpe.12001
 * Goff, P., 2017, *Consciousness and Fundamental Reality*, Oxford: Oxford University Press.
 * Harman, Gilbert, 1990, “The Intrinsic Quality of Experience”, in *Philosophical Perspectives* (Volume 4: *Issue Action Theory and Philosophy of Mind*), James E. Tomberlin (ed.), Atascadero, CA: Ridgeview, pp. 31–52. doi: 10.2307/2214186
@@ -427,124 +427,124 @@ Kriegel 在 2011 年版本的现象意向性理论中追求一种思路，与 Se
 * –––, 2018, *Brentano’s Philosophical System*, Oxford: Oxford University Press.
 * Kripke, Saul A., 1972, “Naming and Necessity”, in Donald Davidson and Gilbert Harman (eds.), *Semantics of Natural Language*, Reidel, pp. 253–355. doi: 10.1007/978-94-010-2557-7\_9
 * Lee, Geoffrey, 2014, “Materialism and the Epistemic Significance of Consciousness”, in Kriegel 2014, pp. 222–245.
-* Lennon, Preston, forthcoming, “Aphantasia and Conscious Thought”, *Oxford Studies in Philosophy of Mind*, 3.
-* Levine, Joseph S., 2001, *Purple Haze: the Puzzle of Consciousness*, Oxford: Oxford University Press.
-* Levy, Neil, 2014, “The Value of Consciousness”, *Journal of Consciousness Studies*, 21(1–2): 127–138.
-* Lewis, Clarence Irving, 1929, *Mind and World Order: Outline of a Theory of Knowledge*, New York: Charles Scribner’s Sons.
-* Loar, Brian, 2003, “Phenomenal Intentionality as the Basis of Mental Content”, in *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Martin Han and Bjørn Ramberg (eds.), Cambridge, MA: MIT Press, pp. 229–258.
-* Locke, John, \[1690] 1970, *An Essay Concerning Human Understanding*, Oxford University Press.
-* Longuenesse, Béatrice, 2006, “Self-Consciousness and Consciousness of One’s Own Body: Variations on a Kantian Theme”, *Philosophical Topics*, 34(1/2): 283–309. doi: 10.5840/philtopics2006341/210
-* Ludwig, Kirk A., 1996a, “On Explaining Why Things Look the Way They Do”, in *Perception*, Elizabeth Akins (ed.), Oxford: Oxford University Press. doi: 10.1093/acprof:oso/9780195084627.003.0002
-* –––, 1996b, “Singular Thought and the Cartesian Theory of Mind”, *Noüs*, 30(4): 434–460. doi: 10.2307/2216113
-* Lycan, William G., 1995, *Consciousness and Experience*, Cambridge, MA: MIT Press.
+* Lennon, Preston, forthcoming, “Aphantasia and Conscious Thought”, * Oxford Studies in Philosophy of Mind*, 3.
+* Levine, Joseph S., 2001, * Purple Haze: the Puzzle of Consciousness*, Oxford: Oxford University Press.
+* Levy, Neil, 2014, “The Value of Consciousness”, * Journal of Consciousness Studies*, 21(1–2): 127–138.
+* Lewis, Clarence Irving, 1929, * Mind and World Order: Outline of a Theory of Knowledge*, New York: Charles Scribner’s Sons.
+* Loar, Brian, 2003, “Phenomenal Intentionality as the Basis of Mental Content”, in * Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Martin Han and Bjørn Ramberg (eds.), Cambridge, MA: MIT Press, pp. 229–258.
+* Locke, John, \[1690] 1970, * An Essay Concerning Human Understanding*, Oxford University Press.
+* Longuenesse, Béatrice, 2006, “Self-Consciousness and Consciousness of One’s Own Body: Variations on a Kantian Theme”, * Philosophical Topics*, 34(1/2): 283–309. doi: 10.5840/philtopics2006341/210
+* Ludwig, Kirk A., 1996a, “On Explaining Why Things Look the Way They Do”, in * Perception*, Elizabeth Akins (ed.), Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195084627.003.0002
+* –––, 1996b, “Singular Thought and the Cartesian Theory of Mind”, * Noüs*, 30(4): 434–460. doi: 10.2307/2216113
+* Lycan, William G., 1995, * Consciousness and Experience*, Cambridge, MA: MIT Press.
 * –––, 2004, “The Superiority of HOP to HOT”, in Gennaro 2004, pp. 93–113. doi: 10.1075/aicr.56.07lyc
-* Matthen, Mohan (ed.), 2015, *The Oxford Handbook of the Philosophy of Perception*, Oxford: Oxford University Press.
-* McCollough, Gregory, 1994, *Using Sartre*, Abingdon, UK: Routledge.
-* McDowell, John, 1994, *Mind and World*, Cambridge, MA: Harvard University Press.
-* McGinn, Colin, 1991, *The Problems of Consciousness: Essays Toward a Resolution*, Basil Blackwell.
-* Mendelovici, Angela, 2018, *The Phenomenal Basis of Consciousness*, Oxford: Oxford University Press.
-* Merleau-Ponty, Maurice, \[1945] 2012, *Phenomenology of Perception* (*Phénoménologie de la perception)*), Donald Landes (trans.), Abingdon, UK: Routledge & Kegan Paul.
-* Montague, M., 2016, *The Given: Experience and its Content*, Oxford: Oxford University Press.
-* Moran, Richard, 2001, *Authority and Estrangement: an Essay on Self-Knowledge*, Princeton, NJ: Princeton University Press.
-* Morgan, Alex., 2018, “Mindless Accuracy: On the Ubiquity of Content in Nature”, *Synthese*, 195(12): 5403–5429.
-* Mulligan, Kevin, 1995, “Perception”, in Barry Smith and David Woodruff Smith (eds.) *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press, pp. 168–238.
-* Nagel, Thomas, 1976, “What Is It Like To Be a Bat?”, *Philosophical Review*, 4(83): 435–450.
-* Nanay, Bence (ed.), 2010, *Perceiving the World*, Oxford: Oxford University Press.
-* Neander, Karen, 1998, “The Division of Phenomenal Labor: a Problem for Representational Theories of Consciousness”, *Philosophical Perspectives*, 12: 111–34, *Language, Mind, and Ontology*. doi: 10.1111/0029-4624.32.s12.18
-* Nida-Rümelin, Martine, 2017, “Self-Awareness”, *Review of Philosophy and Psychology*, 8: 55–82.
-* Noë, Alva, 2002, *Is the Visual World a Grand Illusion?*, Special Issue, *Journal of Consciousness Studies*, 9(5–6): 1–12.
-* –––, 2004, *Action In Perception*, Cambridge, MA: MIT Press.
-* –––, 2009, *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*, New York: Farrar, Straus, and Giroux.
-* O’Brien, Lucy, 2007, *Self-Knowing Agents*, Oxford: Oxford University Press.
-* Papineau, David, 2021, *The Metaphysics of Sensory Experience*, Oxford: Oxford University Press.
-* Pautz, Adam, 2010 “Why Explain Visual Experience in Terms of Content?” in Nanay 2010: 254–309. doi: 10.1093/acprof:oso/9780195386196.003.0010
+* Matthen, Mohan (ed.), 2015, * The Oxford Handbook of the Philosophy of Perception*, Oxford: Oxford University Press.
+* McCollough, Gregory, 1994, * Using Sartre*, Abingdon, UK: Routledge.
+* McDowell, John, 1994, * Mind and World*, Cambridge, MA: Harvard University Press.
+* McGinn, Colin, 1991, * The Problems of Consciousness: Essays Toward a Resolution*, Basil Blackwell.
+* Mendelovici, Angela, 2018, * The Phenomenal Basis of Consciousness*, Oxford: Oxford University Press.
+* Merleau-Ponty, Maurice, \[1945] 2012, * Phenomenology of Perception * (* Phénoménologie de la perception)*), Donald Landes (trans.), Abingdon, UK: Routledge & Kegan Paul.
+* Montague, M., 2016, * The Given: Experience and its Content*, Oxford: Oxford University Press.
+* Moran, Richard, 2001, * Authority and Estrangement: an Essay on Self-Knowledge*, Princeton, NJ: Princeton University Press.
+* Morgan, Alex., 2018, “Mindless Accuracy: On the Ubiquity of Content in Nature”, * Synthese*, 195(12): 5403–5429.
+* Mulligan, Kevin, 1995, “Perception”, in Barry Smith and David Woodruff Smith (eds.) * The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press, pp. 168–238.
+* Nagel, Thomas, 1976, “What Is It Like To Be a Bat?”, * Philosophical Review*, 4(83): 435–450.
+* Nanay, Bence (ed.), 2010, * Perceiving the World*, Oxford: Oxford University Press.
+* Neander, Karen, 1998, “The Division of Phenomenal Labor: a Problem for Representational Theories of Consciousness”, * Philosophical Perspectives *, 12: 111–34, * Language, Mind, and Ontology*. doi: 10.1111/0029-4624.32.s12.18
+* Nida-Rümelin, Martine, 2017, “Self-Awareness”, * Review of Philosophy and Psychology*, 8: 55–82.
+* Noë, Alva, 2002, * Is the Visual World a Grand Illusion?*, Special Issue, * Journal of Consciousness Studies*, 9(5–6): 1–12.
+* –––, 2004, * Action In Perception*, Cambridge, MA: MIT Press.
+* –––, 2009, * Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*, New York: Farrar, Straus, and Giroux.
+* O’Brien, Lucy, 2007, * Self-Knowing Agents*, Oxford: Oxford University Press.
+* Papineau, David, 2021, * The Metaphysics of Sensory Experience*, Oxford: Oxford University Press.
+* Pautz, Adam, 2010 “Why Explain Visual Experience in Terms of Content?” in Nanay 2010: 254–309. doi: 10.1093/acprof: oso/9780195386196.003.0010
 * –––, 2013, “Does Phenomenology Ground Mental Content?” in Kriegel 2013, pp. 194–234.
-* –––, 2021, “Consciousness Meets Lewisian Interpretation Theory: A Multistage Account of Intentionality”, in *Oxford Studies in Philosophy of Mind* (Volume 1), Oxford: Oxford University Press.
-* Peacocke, Christopher, 1992, *A Study of Concepts*, Cambridge, MA: MIT Press.
-* Perry, John, 1977, “Frege on Demonstratives”, *Philosophical Review*, 86(4): 474–497. doi: 10.2307/2184564
-* –––, 2001, *Knowledge, Possibility, and Consciousness*, Cambridge, MA: MIT Press.
-* Place, U.T., 1956, “Is Consciousness a Brain Process?” *British Journal of Psychology*, 47(1): 44–50. doi: 10.1111/j.2044-8295.1956.tb00560.x
-* Pitt, David, 2004, “The Phenomenology of Cognition, or, *What is it Like to Think that P?*” *Philosophy and Phenomenological Research*, 69(1): 1–36. doi: 10.1111/j.1933-1592.2004.tb00382.x
-* Prinz, Jesse J., 2011, “The Sensory Basis of Cognitive Phenomenology”, in Bayne and Montague 2011, pp. 174–196. doi: 10.1093/acprof:oso/9780199579938.003.0008
-* –––, 2012, *The Conscious Brain*, Oxford: Oxford University Press.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning,’” *Minnesota Studies in the Philosophy of Science*, 7: 131–193
-* –––, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* –––, 2021, “Consciousness Meets Lewisian Interpretation Theory: A Multistage Account of Intentionality”, in * Oxford Studies in Philosophy of Mind* (Volume 1), Oxford: Oxford University Press.
+* Peacocke, Christopher, 1992, * A Study of Concepts*, Cambridge, MA: MIT Press.
+* Perry, John, 1977, “Frege on Demonstratives”, * Philosophical Review*, 86(4): 474–497. doi: 10.2307/2184564
+* –––, 2001, * Knowledge, Possibility, and Consciousness*, Cambridge, MA: MIT Press.
+* Place, U.T., 1956, “Is Consciousness a Brain Process?” * British Journal of Psychology*, 47(1): 44–50. doi: 10.1111/j.2044-8295.1956.tb00560.x
+* Pitt, David, 2004, “The Phenomenology of Cognition, or, * What is it Like to Think that P?*” * Philosophy and Phenomenological Research*, 69(1): 1–36. doi: 10.1111/j.1933-1592.2004.tb00382.x
+* Prinz, Jesse J., 2011, “The Sensory Basis of Cognitive Phenomenology”, in Bayne and Montague 2011, pp. 174–196. doi: 10.1093/acprof: oso/9780199579938.003.0008
+* –––, 2012, * The Conscious Brain*, Oxford: Oxford University Press.
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning,’” * Minnesota Studies in the Philosophy of Science*, 7: 131–193
+* –––, 1981, * Reason, Truth and History*, Cambridge: Cambridge University Press.
 * Rey, Georges, 1997, “A Question about Consciousness”, in Block, Flanagan, and Güzeldere 1997, pp. 461–482
-* Robinson, William S., 2011, “A Frugal View of Cognitive Phenomenology”, in Bayne and Montague 2011, pp. 197–212. doi: 10.1093/acprof:oso/9780199579938.003.0009
-* Rorty, Richard, 1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
-* Rosenthal, David M., 1986, “Two Concepts of Consciousness”, *Philosophical Studies*, 49(3): 329–359; reprinted in *The Nature of Mind*, David M. Rosenthal (ed.), Oxford: Oxford University Press, 1991.
-* –––, 1991, “The Independence of Consciousness and Sensory Quality”, in *Philosophical Issues* (Volume 1: Consciousness), Enrique Villanueva (ed.), Atascadero, Ridgeview Press, pp. 15–36. doi: 10.2307/1522921
-* –––, 1993, “Thinking that One Thinks”, in *Consciousness: Psychological and Philosophical Essays*, Martin Davies and Glyn W. Humphreys (eds.), Oxford: Basil Blackwell, pp. 197–223
-* –––, 2002a. “How Many Kinds of Consciousness”, *Consciousness and Cognition*, 11: 633–665.
+* Robinson, William S., 2011, “A Frugal View of Cognitive Phenomenology”, in Bayne and Montague 2011, pp. 197–212. doi: 10.1093/acprof: oso/9780199579938.003.0009
+* Rorty, Richard, 1979, * Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
+* Rosenthal, David M., 1986, “Two Concepts of Consciousness”, * Philosophical Studies *, 49(3): 329–359; reprinted in * The Nature of Mind*, David M. Rosenthal (ed.), Oxford: Oxford University Press, 1991.
+* –––, 1991, “The Independence of Consciousness and Sensory Quality”, in * Philosophical Issues* (Volume 1: Consciousness), Enrique Villanueva (ed.), Atascadero, Ridgeview Press, pp. 15–36. doi: 10.2307/1522921
+* –––, 1993, “Thinking that One Thinks”, in * Consciousness: Psychological and Philosophical Essays*, Martin Davies and Glyn W. Humphreys (eds.), Oxford: Basil Blackwell, pp. 197–223
+* –––, 2002a. “How Many Kinds of Consciousness”, * Consciousness and Cognition*, 11: 633–665.
 * –––, 2002b. “Explaining Consciousness”, in Chalmers 2002, pp. 406–421.
-* –––, 2011, “Exaggerated Reports: Reply to Block”, *Analysis*, 71(3): 431–437. doi: 10.1093/analys/anr039
-* Russell, Bertrand, 1905, “On Denoting”, *Mind*, 14(4): 479–493. doi: 10.1093/mind/XIV.4.479
-* Ryle, Gilbert, 1949, *The Concept of Mind*, Chicago: University of Chicago Press.
-* Sartre, Jean-Paul, \[1936] 1957, *The Transcendence of the Ego: an existentialist theory of consciousness* (*Transcendence de l’ego*), Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
-* –––, \[1943] 1956, *Being and Nothingness*, Hazel Estella Barnes (trans.), New York: Washington Square Press.
-* Schellenberg, Susanna, 2011, “Perceptual Content Defended”, *Noüs*, 45(4): 714–750. doi: 10.1111/j.1468-0068.2010.00791.x
-* –––, 2018, *The Unity of Perception: Content, Consciousness, Evidence*, Oxford: Oxford University Press.
-* Schwitzgebel, Eric, 2011, “The Unreliability of Naïve Introspection”, in *Perplexities of Consciousness*, Cambridge, MA: MIT Press, pp. 117–137
-* Seager, William, 1999, *Theories of Consciousness*, Abingdon, UK: Routledge.
+* –––, 2011, “Exaggerated Reports: Reply to Block”, * Analysis*, 71(3): 431–437. doi: 10.1093/analys/anr039
+* Russell, Bertrand, 1905, “On Denoting”, * Mind*, 14(4): 479–493. doi: 10.1093/mind/XIV.4.479
+* Ryle, Gilbert, 1949, * The Concept of Mind*, Chicago: University of Chicago Press.
+* Sartre, Jean-Paul, \[1936] 1957, * The Transcendence of the Ego: an existentialist theory of consciousness * (* Transcendence de l’ego*), Forrest Williams and Robert Kirkpatrick (trans.), New York: Noonday Press.
+* –––, \[1943] 1956, * Being and Nothingness*, Hazel Estella Barnes (trans.), New York: Washington Square Press.
+* Schellenberg, Susanna, 2011, “Perceptual Content Defended”, * Noüs*, 45(4): 714–750. doi: 10.1111/j.1468-0068.2010.00791.x
+* –––, 2018, * The Unity of Perception: Content, Consciousness, Evidence*, Oxford: Oxford University Press.
+* Schwitzgebel, Eric, 2011, “The Unreliability of Naïve Introspection”, in * Perplexities of Consciousness*, Cambridge, MA: MIT Press, pp. 117–137
+* Seager, William, 1999, * Theories of Consciousness*, Abingdon, UK: Routledge.
 * –––, 2004, “A Cold Look at HOT Theory”, in Gennaro 2004, pp. 255–275. doi: 10.1075/aicr.56.14sea
-* Searle, John R., 1983, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
-* –––, 1990, “Consciousness, Explanatory Inversion, and Cognitive Science”, *Behavioral and Brain Science*, 13(1): 585–642. doi: 10.1017/S0140525X00029587
-* –––, 1992, *The Rediscovery of Mind*, Cambridge, MA: MIT Press.
-* Sellars, Wilfrid, 1956, *Empiricism and the Philosophy of Mind*, Cambridge, MA: Harvard University Press.
-* Shoemaker, Sydney, 1994, “The First-Person Perspective”, *Proceedings and Addresses of the American Philosophical Association*, 68: 7–22. doi: 10.2307/3130588
-* Siegel, Susanna, 2006, “Which Properties Are Represented in Experience?” *Perceptual Experience*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, pp. 481–503. doi: 10.1093/acprof:oso/9780199289769.003.0015
-* –––, 2010 “Do Experiences Have Contents?” in Nanay 2010, pp. 333–368. doi: 10.1093/acprof:oso/9780195386196.003.0012
+* Searle, John R., 1983, * Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
+* –––, 1990, “Consciousness, Explanatory Inversion, and Cognitive Science”, * Behavioral and Brain Science*, 13(1): 585–642. doi: 10.1017/S0140525X00029587
+* –––, 1992, * The Rediscovery of Mind*, Cambridge, MA: MIT Press.
+* Sellars, Wilfrid, 1956, * Empiricism and the Philosophy of Mind*, Cambridge, MA: Harvard University Press.
+* Shoemaker, Sydney, 1994, “The First-Person Perspective”, * Proceedings and Addresses of the American Philosophical Association*, 68: 7–22. doi: 10.2307/3130588
+* Siegel, Susanna, 2006, “Which Properties Are Represented in Experience?” * Perceptual Experience*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, pp. 481–503. doi: 10.1093/acprof: oso/9780199289769.003.0015
+* –––, 2010 “Do Experiences Have Contents?” in Nanay 2010, pp. 333–368. doi: 10.1093/acprof: oso/9780195386196.003.0012
 * Siegel, Susanna and Nicholas Silins, 2015, “The Epistemology of Perception”, Matthen 2015: 781–811. doi: 10.1093/oxfordhb/9780199600472.013.040
-* Siewert, Charles, 1998, *The Significance of Consciousness*, Princeton: Princeton University Press.
-* –––, 2005, “Attention and Sensorimotor Intentionality”, in David Woodruff Smith and Amie L.Thomasson (eds.), *Phenomenology and the Philosophy of Mind*, Oxford: Oxford University Press, pp. 270–293. doi: 10.1093/acprof:oso/9780199272457.003.0014
-* –––, 2010, “Saving Appearances: a Dilemma for Physicalists”, in Robert C. Koons and George Bealer (eds), *The Waning of Materialism: New Essays*, Oxford: Oxford University Press, pp. 67–87. doi: 10.1093/acprof:oso/9780199556182.003.0003
-* –––, 2011, “Phenomenal Thought”, in Bayne and Montague 2011, pp. 236–267. doi: 10.1093/acprof:oso/9780199579938.003.0011
-* –––, 2012a, “Respecting Appearances: A Phenomenological Approach to Consciousness”, in Dan Zahavi (ed.) *The Oxford Handbook of Contemporary Phenomenology*, Oxford: Oxford University Press, pp. 48–69.
+* Siewert, Charles, 1998, * The Significance of Consciousness*, Princeton: Princeton University Press.
+* –––, 2005, “Attention and Sensorimotor Intentionality”, in David Woodruff Smith and Amie L.Thomasson (eds.), * Phenomenology and the Philosophy of Mind*, Oxford: Oxford University Press, pp. 270–293. doi: 10.1093/acprof: oso/9780199272457.003.0014
+* –––, 2010, “Saving Appearances: a Dilemma for Physicalists”, in Robert C. Koons and George Bealer (eds), * The Waning of Materialism: New Essays*, Oxford: Oxford University Press, pp. 67–87. doi: 10.1093/acprof: oso/9780199556182.003.0003
+* –––, 2011, “Phenomenal Thought”, in Bayne and Montague 2011, pp. 236–267. doi: 10.1093/acprof: oso/9780199579938.003.0011
+* –––, 2012a, “Respecting Appearances: A Phenomenological Approach to Consciousness”, in Dan Zahavi (ed.) * The Oxford Handbook of Contemporary Phenomenology*, Oxford: Oxford University Press, pp. 48–69.
 * –––, 2012b, “On the Phenomenology of Introspection”, in Smithies and Stoljar 2012, pp. 129–167
-* –––, 2013a, “Intellectualism, Experience, and Motor Understanding”, in *Mind, Reason, and Being-in-the-World: the McDowell/Dreyfus Debate*, Joseph Schear (ed.), Abingdon, UK: Routledge, pp. 194–226.
+* –––, 2013a, “Intellectualism, Experience, and Motor Understanding”, in * Mind, Reason, and Being-in-the-World: the McDowell/Dreyfus Debate*, Joseph Schear (ed.), Abingdon, UK: Routledge, pp. 194–226.
 * –––, 2013b, “Phenomenality and Self-Consciousness”, in Kriegel 2013, pp. 235–259.
 * –––, 2014, “Speaking Up for Consciousness”, in Kriegel 2014, pp. 199–221.
-* –––, 2015, “On Getting a Good Look: Normativity and Visual Experience”, in *Normativity in Perception*, Maxime Doyon and Thiemo Breyer (eds.), Palgrave Press, pp. 17–37. doi: 10.1057/9781137377920\_2
-* –––, 2019, “Appearance, Judgment, and Norms,” in *Normativity, Meaning, and the Promise of Phenomenology*, Matthew Burch, Jack Marsh, and Irene McMullin (eds.), Abingdon: Routledge.
-* –––, 2021, “Consciousness: Value, Concern, Respect,” in U. Kriegel (ed.), *Oxford Studies in Philosophy of Mind* (Volume 1), Oxford: Oxford University Press.
-* Smart, J.J.C., 1959, “Sensations and Brain Processes”, *Philosophical Review*, 68: 141–56.
-* Smith, A. David, 2008, “Husserl and Externalism”, *Synthese*, 160(3): 313–333. doi: 10.1007/s11229-006-9082-4
-* Smith, David Woodruff, 2009, *Husserl*, Abingdon, UK: Routledge.
-* Smithies, Declan, 2012a, “A Simple Theory of Introspection”, in Smithies & Stoljar 2012, pp. 259–293. doi: 10.1093/acprof:oso/9780199744794.003.0010
-* –––, 2012b, “The Mental Lives of Zombies”, *Philosophical Perspectives*, 26(1): 343–372. doi: 10.1111/phpe.12013
-* –––, 2013a, “The Nature of Cognitive Phenomenology”, *Philosophy Compass*, 8(8): 744–754.
-* –––, 2013b, “The Significance of Cognitive Phenomenology”, *Philosophy Compass*, 8(8): 731–748.
-* –––, 2014, “The Phenomenal Basis of Epistemic Justification”, in *New Waves in Philosophy of Mind*, Mark Sprevak & Jesper Kallestrup (eds.), Palgrave Macmillan, pp. 98–124. doi: 10.1057/9781137286734\_6
-* –––, 2019, *The Epistemic Role of Consciousness*, Oxford: Oxford University Press.
-* Smithies, Declan and Daniel Stoljar (eds.), 2012, *Introspection and Consciousness*, Oxford: Oxford University Press. doi: 10.1093/acprof:oso/9780199744794.001.0001
-* Speaks, Jeff, 2005, “Is there a Problem about Nonconceptual Content?”*Philosophical Review*, 114(3): 359–398. doi: 10.1215/00318108-114-3-359
+* –––, 2015, “On Getting a Good Look: Normativity and Visual Experience”, in * Normativity in Perception*, Maxime Doyon and Thiemo Breyer (eds.), Palgrave Press, pp. 17–37. doi: 10.1057/9781137377920\_2
+* –––, 2019, “Appearance, Judgment, and Norms,” in * Normativity, Meaning, and the Promise of Phenomenology*, Matthew Burch, Jack Marsh, and Irene McMullin (eds.), Abingdon: Routledge.
+* –––, 2021, “Consciousness: Value, Concern, Respect,” in U. Kriegel (ed.), * Oxford Studies in Philosophy of Mind* (Volume 1), Oxford: Oxford University Press.
+* Smart, J.J.C., 1959, “Sensations and Brain Processes”, * Philosophical Review*, 68: 141–56.
+* Smith, A. David, 2008, “Husserl and Externalism”, * Synthese*, 160(3): 313–333. doi: 10.1007/s11229-006-9082-4
+* Smith, David Woodruff, 2009, * Husserl*, Abingdon, UK: Routledge.
+* Smithies, Declan, 2012a, “A Simple Theory of Introspection”, in Smithies & Stoljar 2012, pp. 259–293. doi: 10.1093/acprof: oso/9780199744794.003.0010
+* –––, 2012b, “The Mental Lives of Zombies”, * Philosophical Perspectives*, 26(1): 343–372. doi: 10.1111/phpe.12013
+* –––, 2013a, “The Nature of Cognitive Phenomenology”, * Philosophy Compass*, 8(8): 744–754.
+* –––, 2013b, “The Significance of Cognitive Phenomenology”, * Philosophy Compass*, 8(8): 731–748.
+* –––, 2014, “The Phenomenal Basis of Epistemic Justification”, in * New Waves in Philosophy of Mind*, Mark Sprevak & Jesper Kallestrup (eds.), Palgrave Macmillan, pp. 98–124. doi: 10.1057/9781137286734\_6
+* –––, 2019, * The Epistemic Role of Consciousness*, Oxford: Oxford University Press.
+* Smithies, Declan and Daniel Stoljar (eds.), 2012, * Introspection and Consciousness*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199744794.001.0001
+* Speaks, Jeff, 2005, “Is there a Problem about Nonconceptual Content?”* Philosophical Review*, 114(3): 359–398. doi: 10.1215/00318108-114-3-359
 * Spener, M., 2011, “Disagreement about Cognitive Phenomenology”, in T. Bayne and M. Montague (eds.), Oxford: Oxford University Press.
-* Strawson, Galen, 1994, *Mental Reality*, Cambridge, MA: MIT Press.
-* –––, 2006, “Realistic Monism: Why Physicalism Entails Panpsychism”, *Journal for Consciousness Studies* , 13(10–11): 3–31. This issue was then printed as *Consciousness and its Place in Nature*, Anthony Freeman (ed.), Exeter, UK: Imprint Academic.
-* –––, 2009, *Selves: An Essay in Revisionary Metaphysics*, Oxford: Oxford University Press.
-* Strawson, G. 2008, “Real Intentionality 3: Why Intentionality Entails Consciousness”, in *Real Materialism and Other Essays*, Oxford: Clarendon Press.
-* Textor, Mark, 2012, “Brentano on the Dual Relation of the Mental”, *Phenomenology and the Cognitive Sciences*, 12(3): 465–483. doi: 10.1007/s11097-012-9281-z
-* –––, 2017, *Brentano’s Mind*, Oxford: Oxford University Press.
-* Thomasson, Amie L., 2000, “After Brentano: A One-Level Theory of Consciousness”, *European Journal of Philosophy*, 8(2): 190–209. doi: 10.1111/1468-0378.00108
-* –––, 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
-* Thompson, Evan, 2007, *Mind in Life*, Cambridge, MA: Harvard University Press.
-* Travis, Charles, 2004, “The Silence of the Senses”, *Mind*, 113(449): 57–94. doi: 10.1093/mind/113.449.57
-* Tye, Michael, 1995, *Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
-* –––, 2002, *Consciousness, Color and Content*, Cambridge, MA: MIT Press.
-* Tye, Michael and Wright, Briggs, 2011, “Is There a Phenomenology of Thought?” in Bayne and Montague 2011, pp. 326–344. doi: 10.1093/acprof:oso/9780199579938.003.0014
-* Weisberg, Josh, 2011, “Misrepresenting Consciousness”, *Philosophical Studies*, 154(3): 409–433. doi: 10.1007/s11098-010-9567-3
-* Wheeler, Michael, 2005, *Reconstructing the Cognitive World: The Next Step*, Cambridge, MA: MIT Press.
-* Williford, Kenneth, 2016, “Degrees of Self-Presence: Rehabilitating Sartre’s Accounts of Pre-Reflective Self-Consciousness and Reflection”, in S. Mieguens, G. Preyer, & C.B. Morando (eds.), *Pre-Relfective Self-Consciousness: Sartre and Contemporary Philosophpy of Mind*, London: Routledge.
-* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, G.E.M. Anscombe (trans.), New York: Macmillan.
+* Strawson, Galen, 1994, * Mental Reality*, Cambridge, MA: MIT Press.
+* –––, 2006, “Realistic Monism: Why Physicalism Entails Panpsychism”, * Journal for Consciousness Studies * , 13(10–11): 3–31. This issue was then printed as * Consciousness and its Place in Nature*, Anthony Freeman (ed.), Exeter, UK: Imprint Academic.
+* –––, 2009, * Selves: An Essay in Revisionary Metaphysics*, Oxford: Oxford University Press.
+* Strawson, G. 2008, “Real Intentionality 3: Why Intentionality Entails Consciousness”, in * Real Materialism and Other Essays*, Oxford: Clarendon Press.
+* Textor, Mark, 2012, “Brentano on the Dual Relation of the Mental”, * Phenomenology and the Cognitive Sciences*, 12(3): 465–483. doi: 10.1007/s11097-012-9281-z
+* –––, 2017, * Brentano’s Mind*, Oxford: Oxford University Press.
+* Thomasson, Amie L., 2000, “After Brentano: A One-Level Theory of Consciousness”, * European Journal of Philosophy*, 8(2): 190–209. doi: 10.1111/1468-0378.00108
+* –––, 1999, * Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* Thompson, Evan, 2007, * Mind in Life*, Cambridge, MA: Harvard University Press.
+* Travis, Charles, 2004, “The Silence of the Senses”, * Mind*, 113(449): 57–94. doi: 10.1093/mind/113.449.57
+* Tye, Michael, 1995, * Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
+* –––, 2002, * Consciousness, Color and Content*, Cambridge, MA: MIT Press.
+* Tye, Michael and Wright, Briggs, 2011, “Is There a Phenomenology of Thought?” in Bayne and Montague 2011, pp. 326–344. doi: 10.1093/acprof: oso/9780199579938.003.0014
+* Weisberg, Josh, 2011, “Misrepresenting Consciousness”, * Philosophical Studies*, 154(3): 409–433. doi: 10.1007/s11098-010-9567-3
+* Wheeler, Michael, 2005, * Reconstructing the Cognitive World: The Next Step*, Cambridge, MA: MIT Press.
+* Williford, Kenneth, 2016, “Degrees of Self-Presence: Rehabilitating Sartre’s Accounts of Pre-Reflective Self-Consciousness and Reflection”, in S. Mieguens, G. Preyer, & C.B. Morando (eds.), * Pre-Relfective Self-Consciousness: Sartre and Contemporary Philosophpy of Mind*, London: Routledge.
+* Wittgenstein, Ludwig, 1953, * Philosophical Investigations*, G.E.M. Anscombe (trans.), New York: Macmillan.
 * Wrathall, Mark A., 2013a, “Heidegger on Human Understanding”, in Wrathall 2013b, pp. 177–200. doi: 10.1017/cco9781139047289.009
-* ––– (ed.), 2013b, *The Cambridge Companion to Heidegger’s ‘Being and Time’*, Cambridge: Cambridge University Press. doi: 10.1017/cco9781139047289
+* ––– (ed.), 2013b, * The Cambridge Companion to Heidegger’s ‘Being and Time’*, Cambridge: Cambridge University Press. doi: 10.1017/cco9781139047289
 * Wright, Wayne, 2015, “Nonconceptual Content”, in Matthen 2015: 181–197. doi: 10.1093/oxfordhb/9780199600472.013.003
-* Zalta, Edward N., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: MIT Press.
-* Zahavi, Dan, 1998, “Brentano and Husserl on Self-Awareness”, *Études Phénoménologiques*, 14(27–28): 127–168.
-* –––, 1999, *Self-Awareness and Alterity: A Phenomenological Investigation*, Evanston, IL: Northwestern University Press.
-* –––, 2003, *Husserl’s Phenomenology*, Stanford, CA: Stanford University Press.
-* –––, 2005, *Subjectivity and Selfhood: Investigating the First-Person Perspective*, Cambridge, MA: MIT Press.
-* –––, 2014, *Self and Other: Exploring Subjectivity, Empathy and Shame*, Oxford: Oxford University Press.
+* Zalta, Edward N., 1988, * Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: MIT Press.
+* Zahavi, Dan, 1998, “Brentano and Husserl on Self-Awareness”, * Études Phénoménologiques*, 14(27–28): 127–168.
+* –––, 1999, * Self-Awareness and Alterity: A Phenomenological Investigation*, Evanston, IL: Northwestern University Press.
+* –––, 2003, * Husserl’s Phenomenology*, Stanford, CA: Stanford University Press.
+* –––, 2005, * Subjectivity and Selfhood: Investigating the First-Person Perspective*, Cambridge, MA: MIT Press.
+* –––, 2014, * Self and Other: Exploring Subjectivity, Empathy and Shame*, Oxford: Oxford University Press.
 
 ## Academic Tools
 

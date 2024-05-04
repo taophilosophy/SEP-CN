@@ -8,7 +8,7 @@
 
 ## 经典功利主义
 
-结果主义的典范案例是功利主义，其经典代表是杰里米·边沁（1789 年）、约翰·斯图尔特·密尔（1861 年）和亨利·西奇威克（1907 年）。 （有关前辈，请参见 Schneewind 1997, 2002。）经典功利主义者持有享乐主义行为后果主义。行为后果主义主张，只有当某个行为最大化了善，也就是说，只有当所有人的善减去所有人的恶的总量大于该代理人在该场合可用的任何不相容行为的净量时，该行为才是道德上正确的。（参见摩尔 1912 年，第 1-2 章。）享乐主义则声称快乐是唯一的内在善，而痛苦是唯一的内在恶。
+结果主义的典范案例是功利主义，其经典代表是杰里米 · 边沁（1789 年）、约翰 · 斯图尔特 · 密尔（1861 年）和亨利 · 西奇威克（1907 年）。 （有关前辈，请参见 Schneewind 1997, 2002。）经典功利主义者持有享乐主义行为后果主义。行为后果主义主张，只有当某个行为最大化了善，也就是说，只有当所有人的善减去所有人的恶的总量大于该代理人在该场合可用的任何不相容行为的净量时，该行为才是道德上正确的。（参见摩尔 1912 年，第 1-2 章。）享乐主义则声称快乐是唯一的内在善，而痛苦是唯一的内在恶。
 
 这些主张通常被总结为一句口号，即一种行为是正确的，当且仅当它导致“为最多人带来最大幸福”。然而，这个口号是误导的。一种行为可以增加大多数人（最多人数）的幸福，但如果那些幸福没有增加的少数人失去的远远超过大多数人所获得的，那么它仍然无法最大化世界上的净利益。除非总体上的净利益比任何其他选择都更多，否则效用原则不会允许对少数人的牺牲来换取对更多人的利益。
 
@@ -108,7 +108,7 @@
 
 对于经典功利主义的第二组问题是认识论问题。经典功利主义似乎要求代理人为所有人的每一个行为计算所有后果，这是不可能的。
 
-这一反对意见建立在一种误解之上。这些批评者假设功利主义原则应该被用作决策程序或指南，也就是说，作为一种代理人有意识地事先应用于行为以帮助他们做出决策的方法。然而，大多数经典和当代的功利主义者和结果主义者并不将他们的原则提出为决策程序。（Bales，1971）贝聿铭写道：“不应期望这一过程[他的快乐计算]在每一次道德判断之前都严格执行。”（1789 年，第四章，第六节）密尔同意，“误解功利主义思维方式是将其理解为暗示人们应该将注意力集中在如此广泛的概括上，如世界或整个社会。”（1861 年，第二章，第 19 段）西奇威克补充道：“决定正确性的标准的目的并不总是我们有意识地追求的目标。”（1907 年，413）
+这一反对意见建立在一种误解之上。这些批评者假设功利主义原则应该被用作决策程序或指南，也就是说，作为一种代理人有意识地事先应用于行为以帮助他们做出决策的方法。然而，大多数经典和当代的功利主义者和结果主义者并不将他们的原则提出为决策程序。（Bales，1971）贝聿铭写道：“不应期望这一过程 [他的快乐计算] 在每一次道德判断之前都严格执行。”（1789 年，第四章，第六节）密尔同意，“误解功利主义思维方式是将其理解为暗示人们应该将注意力集中在如此广泛的概括上，如世界或整个社会。”（1861 年，第二章，第 19 段）西奇威克补充道：“决定正确性的标准的目的并不总是我们有意识地追求的目标。”（1907 年，413）
 
 相反，大多数结果主义者声称整体效用是道德正确或道德应该做的标准。他们的理论旨在阐明一项行为成为道德正确的必要和充分条件，无论代理人是否能事先判断这些条件是否满足。正如物理定律统治着高尔夫球的飞行，但高尔夫球手在计划击球时无需计算物理力量；因此，整体效用可以确定哪些决定是道德正确的，即使代理人在做决定时无需计算效用。如果效用原则被用作正确的标准而不是决策程序，那么古典功利主义不要求任何人在做决定之前知道任何事情的总后果。
 
@@ -168,7 +168,7 @@ Utilitarians 可以再次坚定立场。他们可以否认在这种情况下切�
 
 一些功利主义者通过辩称，我们确实在道德上有责任改变我们的生活方式，以便更多地增加整体效用（参见卡根（Kagan）1989 年，辛格（Singer）1993 年和安格（Unger）1996 年）。这些强硬派声称，大多数人所做的大部分事情在道德上是错误的，因为大多数人很少最大化效用。当行为者出于无辜甚至可取之动机行事时，某些此类不当行为可能是无可指责的，但仍被认为是道德上的错误。功利主义的反对者认为这一说法难以置信，但并不明显他们的反功利主义直觉是可靠或有根据的（参见墨菲（Murphy）2000 年，第 1-4 章；参见莫尔根（Mulgan）2001 年，辛格（Singer）2005 年，格林（Greene）2013 年）。
 
-其他功利主义者通过将直接功利主义限制在人们在道德上应该做的事情来削弱要求过高的反对意见。即使我们在道德上应该最大化效用，未能最大化效用未必在道德上是错误的。例如，约翰·斯图尔特·密尔（John Stuart Mill）认为，只有当一种行为既未最大化效用又其代理人因此而应受惩罚时，这种行为才在道德上是错误的（Mill，1861）。对于未能最大化效用的人进行惩罚并不总是最大化效用。因此，在这种观点下，未能做到自己在道德上应该做的事情并不总是在道德上是错误的。如果密尔在这一点上是正确的，那么功利主义者可以说，我们应该更多地捐助慈善，但我们并不被要求或义务去这样做，未能这样做也不是在道德上是错误的（参见辛诺特-阿姆斯特朗，2005）。
+其他功利主义者通过将直接功利主义限制在人们在道德上应该做的事情来削弱要求过高的反对意见。即使我们在道德上应该最大化效用，未能最大化效用未必在道德上是错误的。例如，约翰 · 斯图尔特 · 密尔（John Stuart Mill）认为，只有当一种行为既未最大化效用又其代理人因此而应受惩罚时，这种行为才在道德上是错误的（Mill，1861）。对于未能最大化效用的人进行惩罚并不总是最大化效用。因此，在这种观点下，未能做到自己在道德上应该做的事情并不总是在道德上是错误的。如果密尔在这一点上是正确的，那么功利主义者可以说，我们应该更多地捐助慈善，但我们并不被要求或义务去这样做，未能这样做也不是在道德上是错误的（参见辛诺特-阿姆斯特朗，2005）。
 
 许多功利主义者仍然希望避免声称我们在道德上应该给予慈善如此之多。绕过这一主张的一种方法是利用规则功利主义理论来确定我们在道德上应该做什么。如果内化暗示我们应该给予慈善如此之多的规则成本太高，那么根据这种规则功利主义，我们并不应该给予慈善如此之多（Hooker 2000，第 8 章）。
 
@@ -279,77 +279,77 @@ Utilitarians 可以再次坚定立场。他们可以否认在这种情况下切�
 * Norcross, A., 1997. “Comparing Harms: Headaches and Human Lives”, *Philosophy and Public Affairs*, 26: 135–67.
 * –––, 2006. “The Scalar Approach to Utilitarianism”, in H. West (ed.) *The Blackwell Guide to Mill’s Utilitarianism*, Hoboken: Wiley-Blackwell, 217–232.
 * ___, 2020. *Morality By Degrees: Reasons Without Demands*, New York: Oxford University Press.
-* Nozick, R., 1974. *Anarchy, State, and Utopia*, New York: Basic Books.
-* Nussbaum, Martha C., 2000. *Women and Human Development: The Capabilities Approach*, New York: Cambridge University Press.
-* Parfit, D., 1984. *Reasons and Persons*, Oxford: Clarendon Press.
-* Pettit, P., 1984. “Satisficing Consequentialism”, *Proceedings of the Aristotelian Society* 58: 165–76.
-* ––– (ed.), 1993. *Consequentialism*, Aldershot: Dartmouth.
-* –––, 1997. “The Consequentialist Perspective” in *Three Methods of Ethics*, by M. Baron, P. Pettit, and M. Slote. Oxford: Blackwell.
-* Pettit, P., and Brennan, G., 1986. “Restrictive Consequentialism”, *Australasian Journal of Philosophy*, 64: 438–55.
+* Nozick, R., 1974. * Anarchy, State, and Utopia*, New York: Basic Books.
+* Nussbaum, Martha C., 2000. * Women and Human Development: The Capabilities Approach*, New York: Cambridge University Press.
+* Parfit, D., 1984. * Reasons and Persons*, Oxford: Clarendon Press.
+* Pettit, P., 1984. “Satisficing Consequentialism”, * Proceedings of the Aristotelian Society* 58: 165–76.
+* ––– (ed.), 1993. * Consequentialism*, Aldershot: Dartmouth.
+* –––, 1997. “The Consequentialist Perspective” in * Three Methods of Ethics*, by M. Baron, P. Pettit, and M. Slote. Oxford: Blackwell.
+* Pettit, P., and Brennan, G., 1986. “Restrictive Consequentialism”, * Australasian Journal of Philosophy*, 64: 438–55.
 * Pettit, P., and Smith, M., 2000. “Global Consequentialism” in Hooker et al, pp. 121–33.
-* Plato, *Philebus*, trans. D. Frede, Indianapolis: Hackett Publishing, 1993.
-* Portmore, D. W., 2001. “Can an Act-Consequentialist Theory be Agent-Relative?” *American Philosophical Quarterly*, 38: 363–77.
-* –––, 2003. “Position-Relative Consequentialism. Agent-Centered Options, and Supererogation”, *Ethics*, 113: 303–32.
-* –––, 2009. “Consequentializing”, *Philosophy Compass*, 4.
+* Plato, * Philebus*, trans. D. Frede, Indianapolis: Hackett Publishing, 1993.
+* Portmore, D. W., 2001. “Can an Act-Consequentialist Theory be Agent-Relative?” * American Philosophical Quarterly*, 38: 363–77.
+* –––, 2003. “Position-Relative Consequentialism. Agent-Centered Options, and Supererogation”, * Ethics*, 113: 303–32.
+* –––, 2009. “Consequentializing”, * Philosophy Compass*, 4.
 * ___, 2011. *Commonsense Consequentialism: Wherein Morality Meets Rationality*, New York: Oxford University Press.
 * ___ (ed.), 2020. *The Oxford Handbook of Consequentialism*. New York: Oxford University Press.
-* Railton, P., 1984. “Alienation, Consequentialism, and the Demands of Morality”, *Philosophy and Public Affairs*, 13: 134–71; reprinted in Railton 2003.
-* –––, 2003. *Facts, Values, and Norms: Essays toward a Morality of Consequence*, Cambridge: Cambridge University Press.
-* Rawls, J., 1955. “Two Concepts of Rules”, *Philosophical Review*, 64: 3–32.
-* –––, 1971. *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Regan, D., 1980. *Utilitarianism and Cooperation*, Oxford: Clarendon Press.
-* Roberts, M. A., 2002. “A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem”, *Ethics*, 112(2): 315–50.
-* Ross, W. D., 1930. *The Right and the Good*, Oxford: Clarendon Press.
-* Sayre-McCord, G., 2001. “Mill’s ‘Proof’ of the Principle of Utility: A More than Half-Hearted Defense”, in *Moral Knowledge*, E. F. Paul, F. D. Miller, and J. Paul (eds.), New York: Cambridge University Press, pp. 330–60.
+* Railton, P., 1984. “Alienation, Consequentialism, and the Demands of Morality”, * Philosophy and Public Affairs*, 13: 134–71; reprinted in Railton 2003.
+* –––, 2003. * Facts, Values, and Norms: Essays toward a Morality of Consequence*, Cambridge: Cambridge University Press.
+* Rawls, J., 1955. “Two Concepts of Rules”, * Philosophical Review*, 64: 3–32.
+* –––, 1971. * A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Regan, D., 1980. * Utilitarianism and Cooperation*, Oxford: Clarendon Press.
+* Roberts, M. A., 2002. “A New Way of Doing the Best That We Can: Person-Based Consequentialism and the Equality Problem”, * Ethics*, 112(2): 315–50.
+* Ross, W. D., 1930. * The Right and the Good*, Oxford: Clarendon Press.
+* Sayre-McCord, G., 2001. “Mill’s ‘Proof’ of the Principle of Utility: A More than Half-Hearted Defense”, in * Moral Knowledge*, E. F. Paul, F. D. Miller, and J. Paul (eds.), New York: Cambridge University Press, pp. 330–60.
 * Scanlon, T. M., 1982. “Contractualism and Utilitarianism”, in Sen and Williams (eds.) 1982.
-* Scarre, G., 1996. *Utilitarianism*, London: Routledge.
-* Scheffler, S., 1982. *The Rejection of Consequentialism*, Oxford: Clarendon Press; revised edition, 1994.
-* ––– (ed.), 1988. *Consequentialism and Its Critics*, Oxford: Oxford University Press.
-* Schneewind, Jerome, 1997. *The Invention of Autonomy: A History of Modern Moral Philosophy*, New York: Cambridge University Press.
-* ––– (ed.), 2002. *Moral Philosophy from Montaigne to Kant*, New York: Cambridge University Press.
-* Selby-Bigge, L. A. (ed.), 1965. *British Moralists*, New York: Dover.
-* Sen, A., 1979. “Utilitarianism and Welfarism”, *Journal of Philosophy*, 76: 463–89.
-* –––, 1982. “Rights and Agency”, *Philosophy and Public Affairs*, 11(1): 3–39.
-* –––, 1985. “Well-Being, Agency, and Freedom”, *Journal of Philosophy*, 82(4): 169–221.
-* –––. 2002. *Rationality and Freedom*, Cambridge, MA: Harvard University Press.
-* Sen, A., and Williams, B. (eds.), 1982. *Utilitarianism and Beyond*, Cambridge: Cambridge University Press.
-* Shaw, W. H., 1999. *Contemporary Ethics: Taking Account of Utilitarianism*, Malden: Blackwell.
-* Sidgwick, H., 1907. *The Methods of Ethics*, seventh edition, London: Macmillan; first edition, 1874.
-* Singer, M., 1961. *Generalization in Ethics*, New York: Knopf.
-* ––– 1977. “Actual Consequence Utilitarianism”, *Mind*, 86: 67–77.
-* Singer, P., 1974. “Sidgwick and Reflective Equilibrium”, *Monist*, 58: 490–517.
-* –––, 1993. *Practical Ethics*, Second Edition. Cambridge: Cambridge University Press.
-* –––, 2005. “Ethics and Intuitions”, *The Journal of Ethics*, 9(3/4): 331–352.
-* Sinhababu, N., 2018. “Scalar Consequentialism the Right Way”, *Philosophical Studies*, 175: 3131–3144.
-* Sinnott-Armstrong, W., 1988. *Moral Dilemmas*, Oxford: Blackwell.
-* –––, 1992. “An Argument for Consequentialism”, *Philosophical Perspectives*, 6: 399–421.
-* –––, 2001. “R. M. Hare”, in *A Companion to Analytic Philosophy*, A. P. Martinich and D. Sosa (eds.), Oxford: Blackwell, pp. 326–333.
-* –––, 2003a. “For Goodness’ Sake”, *Southern Journal of Philosophy*, 41 (Supplement): 83–91.
-* –––, 2003b. “Gert Contra Consequentialism” in *Rationality, Rules, and Ideals*, W. Sinnott-Armstrong and R. Audi (eds.), New York: Rowman and Littlefield.
-* –––, 2005. “You Ought to be Ashamed of Yourself (When you Violate an Imperfect Moral Obligation)”, *Philosophical Issues*, 15: 193–208.
+* Scarre, G., 1996. * Utilitarianism*, London: Routledge.
+* Scheffler, S., 1982. * The Rejection of Consequentialism*, Oxford: Clarendon Press; revised edition, 1994.
+* ––– (ed.), 1988. * Consequentialism and Its Critics*, Oxford: Oxford University Press.
+* Schneewind, Jerome, 1997. * The Invention of Autonomy: A History of Modern Moral Philosophy*, New York: Cambridge University Press.
+* ––– (ed.), 2002. * Moral Philosophy from Montaigne to Kant*, New York: Cambridge University Press.
+* Selby-Bigge, L. A. (ed.), 1965. * British Moralists*, New York: Dover.
+* Sen, A., 1979. “Utilitarianism and Welfarism”, * Journal of Philosophy*, 76: 463–89.
+* –––, 1982. “Rights and Agency”, * Philosophy and Public Affairs*, 11(1): 3–39.
+* –––, 1985. “Well-Being, Agency, and Freedom”, * Journal of Philosophy*, 82(4): 169–221.
+* –––. 2002. * Rationality and Freedom*, Cambridge, MA: Harvard University Press.
+* Sen, A., and Williams, B. (eds.), 1982. * Utilitarianism and Beyond*, Cambridge: Cambridge University Press.
+* Shaw, W. H., 1999. * Contemporary Ethics: Taking Account of Utilitarianism*, Malden: Blackwell.
+* Sidgwick, H., 1907. * The Methods of Ethics*, seventh edition, London: Macmillan; first edition, 1874.
+* Singer, M., 1961. * Generalization in Ethics*, New York: Knopf.
+* ––– 1977. “Actual Consequence Utilitarianism”, * Mind*, 86: 67–77.
+* Singer, P., 1974. “Sidgwick and Reflective Equilibrium”, * Monist*, 58: 490–517.
+* –––, 1993. * Practical Ethics*, Second Edition. Cambridge: Cambridge University Press.
+* –––, 2005. “Ethics and Intuitions”, * The Journal of Ethics*, 9(3/4): 331–352.
+* Sinhababu, N., 2018. “Scalar Consequentialism the Right Way”, * Philosophical Studies*, 175: 3131–3144.
+* Sinnott-Armstrong, W., 1988. * Moral Dilemmas*, Oxford: Blackwell.
+* –––, 1992. “An Argument for Consequentialism”, * Philosophical Perspectives*, 6: 399–421.
+* –––, 2001. “R. M. Hare”, in * A Companion to Analytic Philosophy*, A. P. Martinich and D. Sosa (eds.), Oxford: Blackwell, pp. 326–333.
+* –––, 2003a. “For Goodness’ Sake”, * Southern Journal of Philosophy*, 41 (Supplement): 83–91.
+* –––, 2003b. “Gert Contra Consequentialism” in * Rationality, Rules, and Ideals*, W. Sinnott-Armstrong and R. Audi (eds.), New York: Rowman and Littlefield.
+* –––, 2005. “You Ought to be Ashamed of Yourself (When you Violate an Imperfect Moral Obligation)”, * Philosophical Issues*, 15: 193–208.
 * ___, 2007. “Preventive War—What is it Good For?” in *Preemption: Military Action and Moral Justification*, ed. H. Shue and D. Rodin, Oxford: Oxford University Press.
-* –––, 2009. “How strong is this obligation? An argument for consequentialism from concomitant variation”, *Analysis*, 69: 438–442.
-* Skorupski, J., 1995. “Agent-Neutrality, Consequentialism, Utilitarianism … A Terminological Note,” *Utilitas*, 7: 49–54.
-* –––, 1999. *Ethical Explorations*, Oxford: Oxford University Press.
-* Slote, M., 1984. “Satisficing Consequentialism”, *Proceedings of the Aristotelian Society*, 58: 139–63.
-* –––, 1985. *Common-Sense Morality and Consequentialism*, London: Routledge and Kegan Paul.
-* Smart, J. J. C., 1956. “Extreme and Restricted Utilitarianism”, *The Philosophical Quarterly*, 6: 344–54.
-* –––, 1973. “An Outline of a System of Utilitarian Ethics” in *Utilitarianism: For and Against*, by J.J.C. Smart and B. Williams. Cambridge: Cambridge University Press, pp. 3–74.
-* Smart, R. N., 1958. “Negative Utilitarianism”, *Mind*, 67: 542–3.
-* Snedegar, J., 2017. *Contrastive Reasons*, New York: Oxford University Press.
-* Sosa, D., 1993. “Consequences of Consequentialism”, *Mind*, 102(405): 101–22.
-* Sprigge, T. L. S., 1965. “A Utilitarian Reply to Dr. McCloskey”, *Inquiry*, 8: 264–91.
-* –––, 1988. *The Rational Foundations of Ethics*, London: Routledge & Kegan Paul.
-* Sumner, L. W., 1987. *The Moral Foundations of Rights*, Oxford: Clarendon Press.
-* –––, 1996. *Welfare, Happiness, and Ethics*, Oxford: Clarendon Press.
-* Sverdlik, Steven, 2011. *Motives and Rightness*, Oxford: Oxford University Press.
-* Tännsjö, Torbjörn, 1998. *Hedonistic Utilitarianism*, Edinburgh: Edinburgh University Press.
-* Thomson, J. J., 1976. “Killing, Letting Die, and the Trolley Problem”, *The Monist*, 59: 204–17.
-* –––, 1994. “Goodness and Utilitarianism”, *Proceedings and Addresses of the American Philosophical Association*, 67(4): 7–21.
-* –––, 2001. *Goodness and Advice*, Amy Gutmann (ed.), Princeton; Princeton University Press.
-* Unger, P., 1996. *Living High and Letting Die*, New York: Oxford University Press.
-* Williams, B., 1973. “A Critique of Utilitarianism” in *Utilitarianism: For and Against*, by J.J.C. Smart and B. Williams. Cambridge: Cambridge University Press, pp. 77–150.
-* –––, 1981. “Persons, Character, and Morality”, in B. Williams, *Moral Luck*, Cambridge: Cambridge University Press.
+* –––, 2009. “How strong is this obligation? An argument for consequentialism from concomitant variation”, * Analysis*, 69: 438–442.
+* Skorupski, J., 1995. “Agent-Neutrality, Consequentialism, Utilitarianism … A Terminological Note,” * Utilitas*, 7: 49–54.
+* –––, 1999. * Ethical Explorations*, Oxford: Oxford University Press.
+* Slote, M., 1984. “Satisficing Consequentialism”, * Proceedings of the Aristotelian Society*, 58: 139–63.
+* –––, 1985. * Common-Sense Morality and Consequentialism*, London: Routledge and Kegan Paul.
+* Smart, J. J. C., 1956. “Extreme and Restricted Utilitarianism”, * The Philosophical Quarterly*, 6: 344–54.
+* –––, 1973. “An Outline of a System of Utilitarian Ethics” in * Utilitarianism: For and Against*, by J.J.C. Smart and B. Williams. Cambridge: Cambridge University Press, pp. 3–74.
+* Smart, R. N., 1958. “Negative Utilitarianism”, * Mind*, 67: 542–3.
+* Snedegar, J., 2017. * Contrastive Reasons*, New York: Oxford University Press.
+* Sosa, D., 1993. “Consequences of Consequentialism”, * Mind*, 102(405): 101–22.
+* Sprigge, T. L. S., 1965. “A Utilitarian Reply to Dr. McCloskey”, * Inquiry*, 8: 264–91.
+* –––, 1988. * The Rational Foundations of Ethics*, London: Routledge & Kegan Paul.
+* Sumner, L. W., 1987. * The Moral Foundations of Rights*, Oxford: Clarendon Press.
+* –––, 1996. * Welfare, Happiness, and Ethics*, Oxford: Clarendon Press.
+* Sverdlik, Steven, 2011. * Motives and Rightness*, Oxford: Oxford University Press.
+* Tännsjö, Torbjörn, 1998. * Hedonistic Utilitarianism*, Edinburgh: Edinburgh University Press.
+* Thomson, J. J., 1976. “Killing, Letting Die, and the Trolley Problem”, * The Monist*, 59: 204–17.
+* –––, 1994. “Goodness and Utilitarianism”, * Proceedings and Addresses of the American Philosophical Association*, 67(4): 7–21.
+* –––, 2001. * Goodness and Advice*, Amy Gutmann (ed.), Princeton; Princeton University Press.
+* Unger, P., 1996. * Living High and Letting Die*, New York: Oxford University Press.
+* Williams, B., 1973. “A Critique of Utilitarianism” in * Utilitarianism: For and Against*, by J.J.C. Smart and B. Williams. Cambridge: Cambridge University Press, pp. 77–150.
+* –––, 1981. “Persons, Character, and Morality”, in B. Williams, * Moral Luck*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 

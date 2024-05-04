@@ -12,7 +12,7 @@ ST 认真对待这种常识性的想法，并将其发展成为一个完整的�
 
 ***
 
-## 我们经常通过在自身中模拟这些状态来代表其他人的心理状态的想法，在哲学和人文科学中有着悠久的历史。罗伯特·戈登（1995）将此追溯到大卫·休谟（1739）和亚当·斯密（1759）对同情的概念；简·希尔（2003）和戈登（2000）在历史哲学的 Verstehen 方法中发现了模拟主义的主题（例如迪尔泰 1894）；阿尔文·戈德曼（2006）认为提奥多尔·利普斯（1903）对同情（Einfühlung）的描述是心理模拟概念的前身
+## 我们经常通过在自身中模拟这些状态来代表其他人的心理状态的想法，在哲学和人文科学中有着悠久的历史。罗伯特 · 戈登（1995）将此追溯到大卫 · 休谟（1739）和亚当 · 斯密（1759）对同情的概念；简 · 希尔（2003）和戈登（2000）在历史哲学的 Verstehen 方法中发现了模拟主义的主题（例如迪尔泰 1894）；阿尔文 · 戈德曼（2006）认为提奥多尔 · 利普斯（1903）对同情（Einfühlung）的描述是心理模拟概念的前身
 
 1986 年，ST 以 Robert Gordon 的《Folk Psychology as Simulation》和 Jane Heal 的《Replication and Functionalism》的发表而确立了其现代形式。这两篇文章批评了“理论-理论”，并将 ST 引入为更好的心灵阅读解释。Gordon 在他的文章中讨论了有关发展代表他人错误信念能力的心理发现。这引起了发展心理学家的兴趣，特别是 Paul Harris（1989，1992），他提出 ST 的实证支持，还有 Alison Gopnik 和 Joseph Perner（Perner & Howes 1992），他们提出了反对意见。Perner 后来辩护了 ST 的混合版本（Perner & Kühberger 2005）。
 
@@ -32,7 +32,7 @@ Alvin Goldman 是 ST 的早期和有影响力的辩护者（1989），并为理�
 
 重要的是，即使那些在 ST 的一般性质上达成一致的人，他们可能在其他重要问题上存在分歧。我们将关注通常被认为是模拟论者分歧的三个最重要的争议点：什么是“心理模拟”？(第 2 节)。有哪些类型的模拟过程？(第 3 节)。心理模拟在心理推理中扮演什么角色？(第 4 节)。在考虑了是什么导致模拟论者分裂之后，我们将讨论是什么将他们团结在一起，即，对心理推理理论的反对(第 5 节和第 6 节)。这应该让读者感受到 ST 的“多样中体现的统一”。
 
-## "心理模拟”指的是什么？
+## " 心理模拟”指的是什么？
 
 在日常用语中，我们常常说要设身处地为他人着想或体谅他人。这种言谈通常被理解为采用别人的观点或想法来想象。例如，自然而然地把“试着对约翰多体谅一些！”解释为要求你用你的想象力来考虑世界从约翰的角度。但是，对于有人如何想象地采用别人的观点来说是什么呢？根据心理模拟理论家的第一个近似，这包括心理上模拟或重现别人的心态。 Currie 和 Ravenscroft(2002)相当好地阐述了这一点：%%想象力使我们能够把自己投射到另一种情境中，从另一个角度观察或思考世界。这些情境和视角...可能是另一个实际人的，我们实际上不相信的事情，如果我们相信了，我们对事物的看法，或者是一个虚构角色的看法。... 想象力重现他人的心态。（Currie & Ravenscroft 2002：1，强调添加）。
 
@@ -130,7 +130,7 @@ PROC: 如果且仅如果令牌进程 P\*是一个(心理)模拟过程:
 
 回到 Lisa 正在体验一个黄香蕉的视觉经历的情况，而我则在脑海中有一个黄香蕉的视觉形象。我们俩的两种心理状态相似，但由不同的认知过程产生：Lisa 的情况下是看见，而我的情况下是形象化。此外，Lisa 的看见是通过使用视觉机制来实现的，而我的形象化是通过其重新使用来实现的。根据 PROC，后者的认知过程，而不是前者，因此是一种模拟过程。
 
-总之，RES+REU 捕捉了模拟理论家归因于心理模拟的许多关键特征。因此，我们将采用它作为我们对“心理模拟”的工作定义——因此，我们将采用 PROC 作为“模拟的心理状态”的定义。\[2]我们可以把这个过程表达为一个图表。
+总之，RES+REU 捕捉了模拟理论家归因于心理模拟的许多关键特征。因此，我们将采用它作为我们对“心理模拟”的工作定义——因此，我们将采用 PROC 作为“模拟的心理状态”的定义。\[2] 我们可以把这个过程表达为一个图表。
 
 ![a diagram consisting of a hexagon labelled 'C' with an arrow labeled 'use' pointing to a diamond labeled 'P' on the upper left, an arrow points from this diamond up to a rectangle labeled 'M' From the hexagon is also an arrow labeled 'reuse' pointing to a diamond labeled 'P' on the upper right, an arrow points from this diamond up to a rectangle labeled 'M' The two rectangles are connected by a dashed doubleheaded arrow labeled 'resemblance'](https://plato.stanford.edu/entries/folkpsych-simulation/figure1.svg)
 
@@ -158,7 +158,7 @@ Heal（1994）指出了一种问题，即将 ST 承诺于自身认识机制的�
 
 但是 TOKEN 暗示拿破仑的（令牌）红苹果的视觉形象是安吉丽娜的（令牌）红苹果的视觉体验的心理模拟，这正是 RES+REU 的预测。因此，RES+REU 的预测并不荒谬，而是独立地遵循相当直观的假设。此外，尽管 TOKEN 和 RES+REU 对于拿破仑-安吉丽娜案例做出了相同的预测，但 TOKEN 并不是 RES+REU 的必然结果，因为后者对于视觉形象的生成有一定的限制。因此，如果一个人发现 TOKEN 在直觉上是可接受的，很难理解为什么他会认为 RES+REU 过于自由。
 
-答案的第二部分呼应了对 Heal 给出的答案之一：对于将 ST 视为认知科学理论的模拟论者来说，直觉在评估“心理模拟”的定义时具有有限的价值。实际上，这个定义的主要目的不是捕捉民间直觉，而是提供一个足够清晰的关于心理模拟关系的图景，以此为基础建立一个适当的心理阅读理论。因此，如果所提出的定义未能帮助区分 ST 和 TT，或者在理论建设中有限的用途，或者被认知科学的某些重要结果所否定，那么就有足够的理由放弃它。相反，如果 RES+REU 与民间概念“心理模拟”的匹配不上，也不应引起担忧。"心理模拟"这个概念是一种艺术术语，就像 I-Language 或 Curved Space 的概念一样。这些概念与民间对语言和空间的概念并不完全匹配，但语言学家和物理学家并不认为这是一个问题。同样适用于心理模拟的概念。
+答案的第二部分呼应了对 Heal 给出的答案之一：对于将 ST 视为认知科学理论的模拟论者来说，直觉在评估“心理模拟”的定义时具有有限的价值。实际上，这个定义的主要目的不是捕捉民间直觉，而是提供一个足够清晰的关于心理模拟关系的图景，以此为基础建立一个适当的心理阅读理论。因此，如果所提出的定义未能帮助区分 ST 和 TT，或者在理论建设中有限的用途，或者被认知科学的某些重要结果所否定，那么就有足够的理由放弃它。相反，如果 RES+REU 与民间概念“心理模拟”的匹配不上，也不应引起担忧。"心理模拟" 这个概念是一种艺术术语，就像 I-Language 或 Curved Space 的概念一样。这些概念与民间对语言和空间的概念并不完全匹配，但语言学家和物理学家并不认为这是一个问题。同样适用于心理模拟的概念。
 
 并且还有第三个担忧，RES+REU 理应是“心理模拟”的定义，根据该定义可以建立一种心灵阅读理论。然而，无论是 RES+REU 还是 PROC，都没有提及代表他人心理状态的概念。那么，这些定义如何帮助我们构建心灵阅读的模拟理论呢?答案很简单：它们将与“计算”的明确定义一样有所帮助。后者与心智运作方式无关，却有助于发展心灵计算理论（参见计算心灵理论条目）。
 
@@ -298,7 +298,7 @@ Goldman (2006) 提出，我们可以通过以下方式解释心理模拟在代�
 
 戈德曼的三阶段模型以以下方式解释了这种心灵阅读行为。 第一阶段：我想象相信汤姆所相信的事情（即，我想象相信(1)和(2)）；然后我将这些类似于信仰的想象输入我的推理机制（处于脱机模式）；结果，我的推理机制输出了想象中的信念（3）。过程的第二阶段包括审视这个模拟的信念，并将其归类为信念。在戈德曼的模型中，“内省”不仅仅是指自指认知的能力。相反，它指的是一种独特的认知方法，用于自指认知，通常被描述为非推理和准感知（请参阅关于自知识的内感知解释节）。特别是，戈德曼(2006)将内省描述为将心理状态标记的神经属性作为输入并输出状态类型分类的转换过程。在我们考虑的情况下，我的内省机制以我模拟的信念的神经属性为输入，并将其归类为信念。在所有这些之后，发生了第三阶段：我将分类的信念投射到汤姆身上，通过判断汤姆相信菲多喜欢看电视（你可能会想知道汤姆的信念内容来自哪里。戈德曼(2006)也有一个相关说明，但我们将把它放在一边）。
 
-那戈登呢？他如何以模拟主义的方式解释，但又不倚靠内省，从知道汤姆相信(1)和(2)到判断汤姆相信(3)的过程呢？根据戈登的观点，这个过程的第一步当然是想象成为汤姆——因此相信，在模拟的情境中，(1)和(2)。这导致（同样在模拟的情境中）形成了信念(3)。但是现在我要如何发现我，汤姆，相信(3)呢？如果不是通过内省，如何进行这种自指认知呢？加雷斯·埃文斯提出的建议将向我们展示戈登的思考。
+那戈登呢？他如何以模拟主义的方式解释，但又不倚靠内省，从知道汤姆相信(1)和(2)到判断汤姆相信(3)的过程呢？根据戈登的观点，这个过程的第一步当然是想象成为汤姆——因此相信，在模拟的情境中，(1)和(2)。这导致（同样在模拟的情境中）形成了信念(3)。但是现在我要如何发现我，汤姆，相信(3)呢？如果不是通过内省，如何进行这种自指认知呢？加雷斯 · 埃文斯提出的建议将向我们展示戈登的思考。
 
 Evans (1982) 曾经著名地提出，我们通过回答另一个问题来回答“我是否相信 p？”即“p 是不是真的？” 换句话说，根据 Evans 的观点，我们并不是通过内省或“往内看”来归因于自己有信念，而是通过“往外看”，试图确定世界的状态。例如，如果我想知道我是否相信曼彻斯特比谢菲尔德大，我只需问自己“曼彻斯特比谢菲尔德大吗？” 如果我肯定回答，那么我相信曼彻斯特比谢菲尔德大。如果是否定回答，则我相信曼彻斯特不比谢菲尔德大。如果我不知道该如何回答，则在这个主题上我没有信念。
 
@@ -330,7 +330,7 @@ ST 只是市场上几种心灵阅读解释之一。备选方案的一个粗略�
 
 TT 在哲学家和认知科学家中如此受欢迎，以至于它提出的解释最终成为要解释的现象的名称：在许多场合，学者使用“心灵理论”这个表达来代替“心灵阅读”。然而，模拟理论者从未对此特别印象深刻。根据他们的观点，没有必要援引心灵理论的默示知识来解释心灵阅读，因为有一个更简洁的解释可用：我们重复使用自己的认知机制来模拟他人的心理状态。例如，如果我可以利用自己的决策机制（无论如何我都有）来模拟你的决策，那我为什么需要知道实践三段论法则呢？模拟理论者说，如果一个信息贫乏的策略同样有效，那么诉诸一个信息丰富的策略是不经济的。
 
-TT 和 ST 之间的差异可以通过 Stich 和 Nichols (1992)提出的一个很好的例子来进一步说明。假设你想要预测飞机在特定大气条件下的行为。你可以收集飞机的规格，并基于空气动力学理论推断飞机将会如何行为。另外，你也可以建立一个飞机模型并进行模拟。前者近似于 TT 描述我们代表他人心智状态的能力的方式，而后者近似于 ST。不过，有两点需要强调。首先，虽然空气动力学理论被认为是明确的，TT 却说，我们对心灵理论的知识通常是隐性的（或内隐的）。也就是说，懂得空气动力学理论的人知道该理论的法则和原则，并能够正确地报告它们，而构成我们心灵理论的法则和原则通常在意识之外并非可报告的。其次，当我们模拟别人的心智状态时，我们不需要建立一个模型：我们就是模型──也就是说，我们使用我们自己的心智作为其他人心智的模型。
+TT 和 ST 之间的差异可以通过 Stich 和 Nichols (1992)提出的一个很好的例子来进一步说明。假设你想要预测飞机在特定大气条件下的行为。你可以收集飞机的规格，并基于空气动力学理论推断飞机将会如何行为。另外，你也可以建立一个飞机模型并进行模拟。前者近似于 TT 描述我们代表他人心智状态的能力的方式，而后者近似于 ST。不过，有两点需要强调。首先，虽然空气动力学理论被认为是明确的，TT 却说，我们对心灵理论的知识通常是隐性的（或内隐的）。也就是说，懂得空气动力学理论的人知道该理论的法则和原则，并能够正确地报告它们，而构成我们心灵理论的法则和原则通常在意识之外并非可报告的。其次，当我们模拟别人的心智状态时，我们不需要建立一个模型：我们就是模型 ── 也就是说，我们使用我们自己的心智作为其他人心智的模型。
 
 心理模拟理论者认为“模型”的默认状态是，当模拟其他个体时，仿真器只是不作任何调整。也就是说，ST 认为当我们模拟其他人时，我们自动地倾向于将与我们自己当前状态并无差异的心智状态归属于目标对象。在合作或在实际上是相同情境中竞争的人之间的社会互动中，这通常可以很好地起到作用。当我们察觉到他人的情境与我们自身的情境有相关差异时，我们倾向离开这个默认状态。在这种情况下，我们可能发现自己通过设身处地地想象可能是他人的情境来调整情境的不同。
 
@@ -340,7 +340,7 @@ TT 和 ST 之间的差异可以通过 Stich 和 Nichols (1992)提出的一个很
 
 ### 5.2 崩溃还是合作？
 
-乍看之下，ST 和 TT 似乎截然不同。然而，一些哲学家认为，仔细观察后，ST 实际上会崩溃为 TT，从而揭示自己作为 TT 的一种伪装形式。崩溃论最初是由丹尼尔·丹尼特（1987）提出的。
+乍看之下，ST 和 TT 似乎截然不同。然而，一些哲学家认为，仔细观察后，ST 实际上会崩溃为 TT，从而揭示自己作为 TT 的一种伪装形式。崩溃论最初是由丹尼尔 · 丹尼特（1987）提出的。
 
 > 如果我假装自己是一座悬索桥，并思考风吹起时会做什么，我在我的想象状态中“想到”的事取决于……我的物理知识……那么，我若假装拥有你的信念，为何会有任何差别呢? 在这两种情况下，想象对象的知识都是驱动“心理模拟”的必要条件，而且这种知识必须像是某种理论。（Dennett 1987: 100–101，感叹号已添加)%%Dennett 的观点很明确。如果我想象成一座桥，我所想象的将取决于我对桥的理论。假设我有一个包含以下原则的民间理论：“一座桥不能承受超过其自身重量的重量”。在这种情况下，如果我想象一头重三吨的大象走过一座重两吨的桥，我会想象这座桥坍塌。由于我的“桥梁模拟”完全是由理论驱动的，“模拟”这个词是错误的。丹尼特表示，同样的情况也出现在“模拟其他人的心理状态”上。如果我试图想象你的心理状态，我的想象将完全取决于我的心灵理论。因此，“心理模拟”这个标签是误导性的。
 
@@ -352,7 +352,7 @@ Heal (1986) 和 Goldman (1989) 迅速回应了丹尼特。好吧，如果系统 
 
 Heal（2003）建议，ST 的领域仅限于涉及到内容丰富的心理状态之间的合理转变的那些心理过程。简而言之，Heal 主张心理模拟是我们用来代表他人合理过程的认知例行程序，即那些对涉及的心理状态的语义内容敏感的认知过程。另一方面，
 
-> 当起始点和/或结果为\[状态]而没有内容，并且连接不是\[理性]可理解时，就没有理由去假设过程可以被模拟(Heal 2003: 77)。
+> 当起始点和/或结果为\[状态] 而没有内容，并且连接不是\[理性] 可理解时，就没有理由去假设过程可以被模拟(Heal 2003: 77)。
 
 一个例子会澄清这个问题。假设我知道你想吃寿司，并且你相信你可以通过给 Yama Sushi 打电话来点寿司。要得出你会决定打电话给 Yama Sushi 的结论，我只需要想象你的欲望和信念，并且进行一次模拟的决策过程。要预测你的决定并不需要更多的知识：单靠模拟就能完成任务。另一方面，考虑这样一种情况，我知道你服用了某种药物，并且我想弄清楚你的心理状态会是什么。在这种情况下—Heal 说—我的预测不能基于心理模拟。相反，我需要依赖关于该药物可能心理影响的信息，即，我需要依赖于心灵理论(当然，我也可以自己服用药物，但这不算是心理模拟)。这就是 Heal 的观点，适用于所有情况，在这些情况中，心理状态是仅仅是因果过程的输入或输出。在这些情况下，心理模拟是无效的，应该用理论化来替代。但是，这些情况并不构成心灵阅读的核心部分。事实上，许多哲学家和认知科学家可能会同意，人类心灵阅读的关键组成部分是能推理别人的命题态度。这正是据 Heal 的说法，应该用心理模拟来解释的能力。这就是为什么 Heal 的提议被视为 ST-TT 混合模型，而不是反过来。
 
@@ -404,142 +404,142 @@ Goldman 和 Jordan（2013）认为 ST 能够很好地回答这两个问题。首
 
 ## Bibliography
 
-* Anderson, Michael L., 2008, “Neural Reuse: A Fundamental Organizational Principle of the Brain”, *Behavioral and Brain Science*, 20(4): 239–313. doi:10.1017/S0140525X10000853
+* Anderson, Michael L., 2008, “Neural Reuse: A Fundamental Organizational Principle of the Brain”, *Behavioral and Brain Science*, 20(4): 239–313. doi: 10.1017/S0140525X10000853
 * –––, 2015, *After Phrenology: Neural Reuse and the Interactive Brain*, Cambridge, MA: MIT Press.
-* Apperly, Ian A. and Stephen A. Butterfill, 2009, “Do Humans Have Two Systems to Track Beliefs and Belief-Like States?”, *Psychological Review*, 116(4): 953–70. doi:10.1037/a0016923
-* Avenanti, Alessio, Domenica Bueti, Gaspare Galati, & Salvatore M. Aglioti, 2005, “Transcranial Magnetic Stimulation Highlights the Sensorimotor Side of Empathy for Pain”, *Nature Neuroscience*, 8(7): 955–960. doi:10.1038/nn1481
-* Baillargeon, Renée, Rose M. Scott, and Zijing He, 2010, “False-Belief Understanding in Infants”, *Trends in Cognitive Sciences*, 14(3): 110–118. doi:10.1016/j.tics.2009.12.006
-* Baillargeon, Renée, Rose M. Scott, and Lin Bian, 2016, “Psychological Reasoning in Infancy”, *Annual Review of Psychology*, 67: 159–186. doi:10.1146/annurev-psych-010213-115033
-* Barlassina, Luca, 2013, “Simulation is not Enough: A Hybrid Model of Disgust Attribution on the Basis of Visual Stimuli”, *Philosophical Psychology*, 26(3): 401–419. doi:10.1080/09515089.2012.659167
+* Apperly, Ian A. and Stephen A. Butterfill, 2009, “Do Humans Have Two Systems to Track Beliefs and Belief-Like States?”, *Psychological Review*, 116(4): 953–70. doi: 10.1037/a0016923
+* Avenanti, Alessio, Domenica Bueti, Gaspare Galati, & Salvatore M. Aglioti, 2005, “Transcranial Magnetic Stimulation Highlights the Sensorimotor Side of Empathy for Pain”, *Nature Neuroscience*, 8(7): 955–960. doi: 10.1038/nn1481
+* Baillargeon, Renée, Rose M. Scott, and Zijing He, 2010, “False-Belief Understanding in Infants”, *Trends in Cognitive Sciences*, 14(3): 110–118. doi: 10.1016/j.tics.2009.12.006
+* Baillargeon, Renée, Rose M. Scott, and Lin Bian, 2016, “Psychological Reasoning in Infancy”, *Annual Review of Psychology*, 67: 159–186. doi: 10.1146/annurev-psych-010213-115033
+* Barlassina, Luca, 2013, “Simulation is not Enough: A Hybrid Model of Disgust Attribution on the Basis of Visual Stimuli”, *Philosophical Psychology*, 26(3): 401–419. doi: 10.1080/09515089.2012.659167
 * Baron-Cohen, Simon, 2000, “Theory of Mind and Autism: A Fifteen Year Review”, in Simon Baron-Cohen, Helen Tager-Flusberg, and Donald J. Cohen (eds.); *Understanding Other Minds: Perspectives from Developmental Cognitive Neuroscience* (2nd edition), New York: Oxford University Press, pp. 3–20.
 * Bechtel, William, 2008, *Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience*, New York: Taylor and Francis.
-* Birch, Susan A. and Paul Bloom, 2007, “The Curse of Knowledge in Reasoning About False Beliefs”, *Psychological Science*, 18(5): 382–386. doi:10.1111/j.1467-9280.2007.01909.x
-* Bisiach, Edoardo and Claudio Luzzatti, 1978, “Unilateral Neglect of Representational Space”, *Cortex*, 14(1): 129–133. doi:10.1016/S0010-9452(78)80016-1
-* Blakemore, S.-J., D. Bristow, G. Bird, C. Frith, and J. Ward, 2005, “Somatosensory Activations During the Observation of Touch and a Case of Vision-Touch Synaesthesia”, *Brain*, 128(7): 1571–1583. doi:10.1093/brain/awh500
-* Bloom, Paul and Tim P. German, 2000, “Two Reasons to Abandon the False Belief Task as a Test of Theory of Mind”, *Cognition*, 77(1): B25–31. doi:10.1016/S0010-0277(00)00096-2
+* Birch, Susan A. and Paul Bloom, 2007, “The Curse of Knowledge in Reasoning About False Beliefs”, *Psychological Science*, 18(5): 382–386. doi: 10.1111/j.1467-9280.2007.01909.x
+* Bisiach, Edoardo and Claudio Luzzatti, 1978, “Unilateral Neglect of Representational Space”, *Cortex*, 14(1): 129–133. doi: 10.1016/S0010-9452(78)80016-1
+* Blakemore, S.-J., D. Bristow, G. Bird, C. Frith, and J. Ward, 2005, “Somatosensory Activations During the Observation of Touch and a Case of Vision-Touch Synaesthesia”, *Brain*, 128(7): 1571–1583. doi: 10.1093/brain/awh500
+* Bloom, Paul and Tim P. German, 2000, “Two Reasons to Abandon the False Belief Task as a Test of Theory of Mind”, *Cognition*, 77(1): B25–31. doi: 10.1016/S0010-0277(00)00096-2
 * Botterill, George and Peter Carruthers, 1999, *The Philosophy of Psychology*, Cambridge: Cambridge University Press.
-* Brass, Marcel, Ruth M. Schmitt, Stephanie Spengler, and György Gergely, 2007, “Investigating Action Understanding: Inferential Processes versus Action Simulation”, *Current Biology*, 17(24): 2117–2121. doi:10.1016/j.cub.2007.11.057
+* Brass, Marcel, Ruth M. Schmitt, Stephanie Spengler, and György Gergely, 2007, “Investigating Action Understanding: Inferential Processes versus Action Simulation”, *Current Biology*, 17(24): 2117–2121. doi: 10.1016/j.cub.2007.11.057
 * Brozzo, Chiara, forthcoming, “Motor Intentions: How Intentions and Motor Representations Come Together”, *Mind & Language*.
-* Buckner, Randy L. and Daniel C. Carroll, 2007, “Self-Projection and the Brain”, *Trends in Cognitive Science*, 11(2): 49–57. doi:10.1016/j.tics.2006.11.004
-* Butterfill, Stephen A. and Corrado Sinigaglia, 2014, “Intention and Motor Representation in Purposive Action”, *Philosophy and Phenomenological Research*, 88(1): 119–145. doi:10.1111/j.1933-1592.2012.00604.x
-* Carruthers, Peter, 1996, “Simulation and Self-Knowledge: A Defense of Theory-Theory”, in Carruthers and Smith 1996: 22–38. doi:10.1017/CBO9780511597985.004
-* –––, 2009, “How we Know Our Own Minds: The Relationship between Mindreading and Metacognition”, *Behavioral and Brain Sciences*, 32(2): 121–138. doi:10.1017/S0140525X09000545
-* –––, 2011, *The Opacity of Mind: An Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199596195.001.0001
-* –––, 2013, “Mindreading in Infancy”, *Mind and Language*, 28(2): 141–172. doi:10.1111/mila.12014
-* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511597985
-* Clements, Wendy A. and Josef Perner, 1994, “Implicit Understanding of Belief”, *Cognitive Development*, 9(4): 377–395. doi:10.1016/0885-2014(94)90012-4
-* Craver, Carl F., 2007, *Explaining the Brain. Mechanisms and the Mosaic Unity of Neuroscience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199299317.001.0001
-* Csibra, Gergely, 2007, “Action Mirroring and Action Understanding: An Alternative Account”, in Patrick Haggard, Yves Rosetti, and Mitsuo Kawato (eds.) *Sensorimotor Foundations of Higher Cognition. Attention and Performance XII*, Oxford University Press, Oxford, pp. 453–459. doi:10.1093/acprof:oso/9780199231447.003.0020
-* Currie, Gregory, 1995, “Visual Imagery as the Simulation of Vision”, *Mind and Language*, 10(1–2): 25–44. doi:10.1111/j.1468-0017.1995.tb00004.x
+* Buckner, Randy L. and Daniel C. Carroll, 2007, “Self-Projection and the Brain”, *Trends in Cognitive Science*, 11(2): 49–57. doi: 10.1016/j.tics.2006.11.004
+* Butterfill, Stephen A. and Corrado Sinigaglia, 2014, “Intention and Motor Representation in Purposive Action”, *Philosophy and Phenomenological Research*, 88(1): 119–145. doi: 10.1111/j.1933-1592.2012.00604.x
+* Carruthers, Peter, 1996, “Simulation and Self-Knowledge: A Defense of Theory-Theory”, in Carruthers and Smith 1996: 22–38. doi: 10.1017/CBO9780511597985.004
+* –––, 2009, “How we Know Our Own Minds: The Relationship between Mindreading and Metacognition”, *Behavioral and Brain Sciences*, 32(2): 121–138. doi: 10.1017/S0140525X09000545
+* –––, 2011, *The Opacity of Mind: An Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199596195.001.0001
+* –––, 2013, “Mindreading in Infancy”, *Mind and Language*, 28(2): 141–172. doi: 10.1111/mila.12014
+* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511597985
+* Clements, Wendy A. and Josef Perner, 1994, “Implicit Understanding of Belief”, *Cognitive Development*, 9(4): 377–395. doi: 10.1016/0885-2014(94)90012-4
+* Craver, Carl F., 2007, *Explaining the Brain. Mechanisms and the Mosaic Unity of Neuroscience*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199299317.001.0001
+* Csibra, Gergely, 2007, “Action Mirroring and Action Understanding: An Alternative Account”, in Patrick Haggard, Yves Rosetti, and Mitsuo Kawato (eds.) *Sensorimotor Foundations of Higher Cognition. Attention and Performance XII*, Oxford University Press, Oxford, pp. 453–459. doi: 10.1093/acprof: oso/9780199231447.003.0020
+* Currie, Gregory, 1995, “Visual Imagery as the Simulation of Vision”, *Mind and Language*, 10(1–2): 25–44. doi: 10.1111/j.1468-0017.1995.tb00004.x
 * –––, 2002, “Desire in Imagination”, in Tamar Szabo Gendler and John Hawthorne (eds.), *Conceivability and Possibility*, Oxford: Oxford University Press, pp. 201–221.
-* Currie, Gregory and Ian Ravenscroft, 1997, “Mental Simulation and Motor Imagery”, *Philosophy of Science*, 64(1): 161–80. doi:10.1086/392541
-* –––, 2002, *Recreative Minds: Imagination in Philosophy and Psychology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198238089.001.0001
-* Davies, Martin, 1987, “Tacit Knowledge and Semantic Theory: Can a Five per Cent Difference Matter?” *Mind*, 96(384): 441–462. doi:10.1093/mind/XCVI.384.441
+* Currie, Gregory and Ian Ravenscroft, 1997, “Mental Simulation and Motor Imagery”, *Philosophy of Science*, 64(1): 161–80. doi: 10.1086/392541
+* –––, 2002, *Recreative Minds: Imagination in Philosophy and Psychology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198238089.001.0001
+* Davies, Martin, 1987, “Tacit Knowledge and Semantic Theory: Can a Five per Cent Difference Matter?” *Mind*, 96(384): 441–462. doi: 10.1093/mind/XCVI.384.441
 * Davies, Martin and Tony Stone (eds.), 1995a, *Folk Psychology: The Theory of Mind Debate*, Oxford: Blackwell Publishers.
 * ––– (eds.), 1995b, *Mental Simulation: Evaluations and Applications—Reading in Mind and Language*, Oxford: Blackwell Publishers.
-* –––, 2001, “Mental Simulation, Tacit Theory, and the Threat of Collapse”, *Philosophical Topics*, 29(1/2): 127–173. doi:10.5840/philtopics2001291/212
-* Decety, Jean and François Michel, 1989, “Comparative Analysis of Actual and Mental Movement Times in Two Graphic Tasks”, *Brain and Cognition*, 11(1): 87–97. doi:10.1016/0278-2626(89)90007-9
-* De Jaegher, Hanne, Ezequiel Di Paolo, and Shaun Gallagher, 2010, “Can Social Interaction Constitute Social Cognition?”*Trends in Cognitive Sciences*, 14(10): 441–447. doi:10.1016/j.tics.2010.06.009
+* –––, 2001, “Mental Simulation, Tacit Theory, and the Threat of Collapse”, *Philosophical Topics*, 29(1/2): 127–173. doi: 10.5840/philtopics2001291/212
+* Decety, Jean and François Michel, 1989, “Comparative Analysis of Actual and Mental Movement Times in Two Graphic Tasks”, *Brain and Cognition*, 11(1): 87–97. doi: 10.1016/0278-2626(89)90007-9
+* De Jaegher, Hanne, Ezequiel Di Paolo, and Shaun Gallagher, 2010, “Can Social Interaction Constitute Social Cognition?”*Trends in Cognitive Sciences*, 14(10): 441–447. doi: 10.1016/j.tics.2010.06.009
 * Dennett, Daniel C., 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
-* de Vignemont, Frédérique, 2009, “Drawing the Boundary Between Low-Level and High-Level Mindreading”, *Philosophical Studies*, 144(3): 457–466. doi:10.1007/s11098-009-9354-1
-* de Vignemont, Frédérique and Hugo Mercier, 2016, “Under Influence: Is Altercentric Bias Compatible with Simulation Theory?” in Brian P. McLaughlin and Hilary Kornblith (eds.), *Goldman and his Critics*, Oxford: Blackwell. doi:10.1002/9781118609378.ch13
-* Dilthey, Wilhelm, \[1894] 1977, *Descriptive Psychology and Historical Understanding*, Richard M. Zaner and Kenneth L. Heiges (trans.), with an introduction by Rudolf A. Makkreel, The Hague: Martinus Nijhof. doi:10.1007/978-94-009-9658-8
-* di Pellegrino, G., L. Fadiga, L. Fogassi, V. Gallese, and G. Rizzolatti, 1992, “Understanding Motor Events: A Neuropsychological Study”, *Experimental Brain Research*, 91(1): 176–180. doi:10.1007/BF00230027
+* de Vignemont, Frédérique, 2009, “Drawing the Boundary Between Low-Level and High-Level Mindreading”, *Philosophical Studies*, 144(3): 457–466. doi: 10.1007/s11098-009-9354-1
+* de Vignemont, Frédérique and Hugo Mercier, 2016, “Under Influence: Is Altercentric Bias Compatible with Simulation Theory?” in Brian P. McLaughlin and Hilary Kornblith (eds.), *Goldman and his Critics*, Oxford: Blackwell. doi: 10.1002/9781118609378.ch13
+* Dilthey, Wilhelm, \[1894] 1977, *Descriptive Psychology and Historical Understanding*, Richard M. Zaner and Kenneth L. Heiges (trans.), with an introduction by Rudolf A. Makkreel, The Hague: Martinus Nijhof. doi: 10.1007/978-94-009-9658-8
+* di Pellegrino, G., L. Fadiga, L. Fogassi, V. Gallese, and G. Rizzolatti, 1992, “Understanding Motor Events: A Neuropsychological Study”, *Experimental Brain Research*, 91(1): 176–180. doi: 10.1007/BF00230027
 * Doggett, Tyler and Andy Egan, 2007, “Wanting Things You Don’t Want: The Case for an Imaginative Analogue of Desire”, *Philosophers' Imprint*, 7(9). \[[Doggett and Egan 2007 available online](http://hdl.handle.net/2027/spo.3521354.0007.009)]
 * Evans, Gareth, 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
-* Fisher, Justin C., 2006, “Does Simulation Theory Really Involve Simulation?” *Philosophical Psychology*, 19(4): 417–432. doi:10.1080/09515080600726377
+* Fisher, Justin C., 2006, “Does Simulation Theory Really Involve Simulation?” *Philosophical Psychology*, 19(4): 417–432. doi: 10.1080/09515080600726377
 * Fuller, Gary, 1995, “Simulation and Psychological Concepts”, in Davies and Stone 1995b: chapter 1, pp. 19–32
-* Funkhouser, Eric and Shannon Spaulding, 2009, “Imagination and Other Scripts”, *Philosophical Studies*, 143(3): 291–314. doi:10.1007/s11098-009-9348-z
+* Funkhouser, Eric and Shannon Spaulding, 2009, “Imagination and Other Scripts”, *Philosophical Studies*, 143(3): 291–314. doi: 10.1007/s11098-009-9348-z
 * Gallagher, Shaun, 2001, “The Practice of Mind: Theory, Simulation, or Primary Interaction?” *Journal of Consciousness Studies*, 8(5–7): 83–108.
-* –––, 2007, “Simulation Trouble”, *Social Neuroscience*, 2(3–4): 353–365. doi:10.1080/17470910601183549
-* Gallagher, Shaun and Daniel D. Hutto, 2008, “Understanding Others Through Primary Interaction and Narrative Practice”, in Jordan Zlatev, Timothy P. Racine, Chris Sinha, & Esa Itkonen (eds.), *The Shared Mind: Perspectives on Intersubjectivity*, Amsterdam: John Benjamins, pp. 17–38. doi:10.1075/celcr.12.04gal
+* –––, 2007, “Simulation Trouble”, *Social Neuroscience*, 2(3–4): 353–365. doi: 10.1080/17470910601183549
+* Gallagher, Shaun and Daniel D. Hutto, 2008, “Understanding Others Through Primary Interaction and Narrative Practice”, in Jordan Zlatev, Timothy P. Racine, Chris Sinha, & Esa Itkonen (eds.), *The Shared Mind: Perspectives on Intersubjectivity*, Amsterdam: John Benjamins, pp. 17–38. doi: 10.1075/celcr.12.04gal
 * Gallese, Vittorio, 2001, “The ‘Shared Manifold’ Hypothesis: From Mirror Neurons to Empathy”, *Journal of Consciousness Studies*, 8(5–7): 33–50.
-* –––, 2007, “Before and Below ‘Theory of Mind’: Embodied Simulation and the Neural Correlates of Social Cognition”, *Philosophical Transactions of the Royal Society B*, 362: 659–669. doi:10.1098/rstb.2006.2002
-* Gallese, Vittorio and Alvin Goldman, 1998, “Mirror Neurons and the Simulation Theory of Mind-reading”, *Trends in Cognitive Sciences*, 2(12): 493–501. doi:10.1016/S1364-6613(98)01262-5
-* Gallese, Vittorio and Corrado Sinigaglia, 2011, “What is so Special about Embodied Simulation?” *Trends in Cognitive Science*, 15(11): 512–9. doi:10.1016/j.tics.2011.09.003
-* Gallese, Vittorio, Luciano Fadiga, Leonardo Fogassi, and Giacomo Rizzolatti, 1996, “Action Recognition in the Premotor Cortex”, *Brain*, 119(2): 593–609. doi:10.1093/brain/119.2.593
+* –––, 2007, “Before and Below ‘Theory of Mind’: Embodied Simulation and the Neural Correlates of Social Cognition”, *Philosophical Transactions of the Royal Society B*, 362: 659–669. doi: 10.1098/rstb.2006.2002
+* Gallese, Vittorio and Alvin Goldman, 1998, “Mirror Neurons and the Simulation Theory of Mind-reading”, *Trends in Cognitive Sciences*, 2(12): 493–501. doi: 10.1016/S1364-6613(98)01262-5
+* Gallese, Vittorio and Corrado Sinigaglia, 2011, “What is so Special about Embodied Simulation?” *Trends in Cognitive Science*, 15(11): 512–9. doi: 10.1016/j.tics.2011.09.003
+* Gallese, Vittorio, Luciano Fadiga, Leonardo Fogassi, and Giacomo Rizzolatti, 1996, “Action Recognition in the Premotor Cortex”, *Brain*, 119(2): 593–609. doi: 10.1093/brain/119.2.593
 * Gallese, Vittorio, Leonardo Fogassi, Luciano Fadiga, and Giacomo Rizzolatti, 2002, “Action Representation and the Inferior Parietal Lobule”, in Wolfgang Prinz and Bernhard Hommel (eds.), *Common Mechanisms in Perception and Action* (Attention and Performance XIX), Oxford: Oxford University Press, pp. 247–266.
-* Gallese, Vittorio, Christian Keysers, and Giacomo Rizzolatti, 2004, “A Unifying View of the Basis of Social Cognition”, *Trends in Cognitive Sciences*: 8(9): 396–403. doi:10.1016/j.tics.2004.07.002
-* Gariépy, Jean-François, Karli K. Watson, Emily Du, Diana L. Xie, Joshua Erb, Dianna Amasino, and Michael L. Platt, 2014, “Social Learning in Humans and Other Animals”, *Frontiers in Neuroscience*, 31 March 2014, doi:10.3389/fnins.2014.00058.
-* Gergely, György and Gergely Csibra, 2003, “Teleological Reasoning in Infancy: The Naïve Theory of Rational Action”, *Trends in Cognitive Sciences*, 7(7): 287–292. doi:10.1016/S1364-6613(03)00128-1
-* Gergely, György, Zoltán Nádasdy, Gergely Csibra, and Szilvia Bíró, 1995, “Taking the Intentional Stance at 12 Months of Age”, *Cognition*, 56(2): 165–93. doi:10.1016/0010-0277(95)00661-H
-* Goldenberg, Georg, Wolf Müllbacher, and Andreas Nowak, 1995, “Imagery without Perception: A Case Study of Anosognosia for Cortical Blindness”, *Neuropsychologia*, 33(11): 1373–1382. doi:10.1016/0028-3932(95)00070-J
-* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind and Language*, 4(3): 161–185; reprinted in Davies and Stone 1995a, pp. 74–99. doi:10.1111/j.1468-0017.1989.tb00249.x
+* Gallese, Vittorio, Christian Keysers, and Giacomo Rizzolatti, 2004, “A Unifying View of the Basis of Social Cognition”, *Trends in Cognitive Sciences*: 8(9): 396–403. doi: 10.1016/j.tics.2004.07.002
+* Gariépy, Jean-François, Karli K. Watson, Emily Du, Diana L. Xie, Joshua Erb, Dianna Amasino, and Michael L. Platt, 2014, “Social Learning in Humans and Other Animals”, *Frontiers in Neuroscience*, 31 March 2014, doi: 10.3389/fnins.2014.00058.
+* Gergely, György and Gergely Csibra, 2003, “Teleological Reasoning in Infancy: The Naïve Theory of Rational Action”, *Trends in Cognitive Sciences*, 7(7): 287–292. doi: 10.1016/S1364-6613(03)00128-1
+* Gergely, György, Zoltán Nádasdy, Gergely Csibra, and Szilvia Bíró, 1995, “Taking the Intentional Stance at 12 Months of Age”, *Cognition*, 56(2): 165–93. doi: 10.1016/0010-0277(95)00661-H
+* Goldenberg, Georg, Wolf Müllbacher, and Andreas Nowak, 1995, “Imagery without Perception: A Case Study of Anosognosia for Cortical Blindness”, *Neuropsychologia*, 33(11): 1373–1382. doi: 10.1016/0028-3932(95)00070-J
+* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind and Language*, 4(3): 161–185; reprinted in Davies and Stone 1995a, pp. 74–99. doi: 10.1111/j.1468-0017.1989.tb00249.x
 * –––, 2002, “Simulation Theory and Mental Concepts”, in Jérôme Dokic & Joëlle Proust (eds.), *Simulation and Knowledge of Action*, Amsterdam ; Philadelphia: John Benjamins, 35–71.
-* –––, 2006, *Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading*, Oxford: Oxford University Press. doi:10.1093/0195138929.001.0001
-* –––, 2008a, “Hurley on Simulation”, *Philosophy and Phenomenological Research*, 77(3): 775–788. doi:10.1111/j.1933-1592.2008.00221.x
-* –––, 2008b, “Mirroring, Mindreading, and Simulation”, in Jaime A. Pineda (ed.), *Mirror Neuron Systems: The Role of Mirroring Processes in Social Cognition*, New York: Humana Press, pp. 311–330. doi:10.1007/978-1-59745-479-7\_14
-* –––, 2009, “*Précis* of *Simulating Minds: : The Philosophy, Psychology, and Neuroscience of Mindreading*” and “Replies to Perner and Brandl, Saxe, Vignemont, and Carruthers”, *Philosophical Studies* 144(3): 431–434, 477–491. doi:10.1007/s11098-009-9355-0 and doi:10.1007/s11098-009-9358-x
-* –––, 2012a, “A Moderate Approach to Embodied Cognitive Science”, *Review of Philosophy and Psychology*, 3(1): 71–88. doi:10.1007/s13164-012-0089-0
-* –––, 2012b, “Theory of Mind”, in Eric Margolis, Richard Samuels, and Stephen P. Stich (eds.), *The Oxford Handbook of Philosophy of Cognitive Science*, Oxford: Oxford University Press, 402–424. doi:10.1093/oxfordhb/9780195309799.013.0017
-* Goldman, Alvin I. and Lucy C. Jordan, 2013, “Mindreading by Simulation: The Roles of Imagination and Mirroring”, in Simon Baron-Cohen, Michael Lombardo, and Helen Tager-Flusberg (eds.), *Understanding Other Minds: Perspectives From Developmental Social Neuroscience*, Oxford: Oxford University Press, 448–466. doi:10.1093/acprof:oso/9780199692972.003.0025
-* Goldman, Alvin I. and Chandra Sekhar Sripada, 2005, “Simulationist Models of Face-Based Emotion Recognition”,*Cognition*, 94(3): 193–213. doi:10.1016/j.cognition.2004.01.005
-* Gopnik, Alison and Andrew N. Meltzoff, 1997, *Words, Thoughts, and Theories*, Cambridge, MA: Bradford Books/MIT Press.
-* Gopnik, Alison and Henry M. Wellman, 1992, “Why the Child's Theory of Mind Really Is a Theory”, *Mind and Language*, 7(1–2): 145–71: reprinted in Davies and Stone 1995a, pp. 232–258. doi:10.1111/j.1468-0017.1992.tb00202.x
-* –––, 2012, “Reconstructing Constructivism: Causal Models, Bayesian Learning Mechanisms, and the Theory-Theory”, *Psychological Bulletin*”, 138(6):1085–108. doi:10.1037/a0028044
-* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, *Mind and Language*, 1(2): 158–171; reprinted in Davies and Stone 1995a, pp. 60–73. doi:10.1111/j.1468-0017.1986.tb00324.x
+* –––, 2006, *Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading*, Oxford: Oxford University Press. doi: 10.1093/0195138929.001.0001
+* –––, 2008a, “Hurley on Simulation”, *Philosophy and Phenomenological Research*, 77(3): 775–788. doi: 10.1111/j.1933-1592.2008.00221.x
+* –––, 2008b, “Mirroring, Mindreading, and Simulation”, in Jaime A. Pineda (ed.), *Mirror Neuron Systems: The Role of Mirroring Processes in Social Cognition*, New York: Humana Press, pp. 311–330. doi: 10.1007/978-1-59745-479-7\_14
+* –––, 2009, “* Précis * of * Simulating Minds: : The Philosophy, Psychology, and Neuroscience of Mindreading *” and “Replies to Perner and Brandl, Saxe, Vignemont, and Carruthers”, * Philosophical Studies* 144(3): 431–434, 477–491. doi: 10.1007/s11098-009-9355-0 and doi: 10.1007/s11098-009-9358-x
+* –––, 2012a, “A Moderate Approach to Embodied Cognitive Science”, * Review of Philosophy and Psychology*, 3(1): 71–88. doi: 10.1007/s13164-012-0089-0
+* –––, 2012b, “Theory of Mind”, in Eric Margolis, Richard Samuels, and Stephen P. Stich (eds.), * The Oxford Handbook of Philosophy of Cognitive Science*, Oxford: Oxford University Press, 402–424. doi: 10.1093/oxfordhb/9780195309799.013.0017
+* Goldman, Alvin I. and Lucy C. Jordan, 2013, “Mindreading by Simulation: The Roles of Imagination and Mirroring”, in Simon Baron-Cohen, Michael Lombardo, and Helen Tager-Flusberg (eds.), * Understanding Other Minds: Perspectives From Developmental Social Neuroscience*, Oxford: Oxford University Press, 448–466. doi: 10.1093/acprof: oso/9780199692972.003.0025
+* Goldman, Alvin I. and Chandra Sekhar Sripada, 2005, “Simulationist Models of Face-Based Emotion Recognition”,* Cognition*, 94(3): 193–213. doi: 10.1016/j.cognition.2004.01.005
+* Gopnik, Alison and Andrew N. Meltzoff, 1997, * Words, Thoughts, and Theories*, Cambridge, MA: Bradford Books/MIT Press.
+* Gopnik, Alison and Henry M. Wellman, 1992, “Why the Child's Theory of Mind Really Is a Theory”, * Mind and Language*, 7(1–2): 145–71: reprinted in Davies and Stone 1995a, pp. 232–258. doi: 10.1111/j.1468-0017.1992.tb00202.x
+* –––, 2012, “Reconstructing Constructivism: Causal Models, Bayesian Learning Mechanisms, and the Theory-Theory”, * Psychological Bulletin*”, 138(6): 1085–108. doi: 10.1037/a0028044
+* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, * Mind and Language*, 1(2): 158–171; reprinted in Davies and Stone 1995a, pp. 60–73. doi: 10.1111/j.1468-0017.1986.tb00324.x
 * –––, 1995, “Simulation Without Introspection or Inference From Me to You”, in Davies & Stone 1995b: 53–67.
-* –––, 1996, “‘Radical’ Simulationism”, in Carruthers & Smith 1996: 11–21. doi:10.1017/CBO9780511597985.003
-* –––, 2000, “Sellars’s Rylean Revisited”, *Protosoziologie*, 14: 102–114.
-* –––, 2005, “Intentional Agents Like Myself,”, in *Perspectives on Imitation: From Mirror Neurons to Memes*, S. Hurley & N. Chater (eds.), Cambridge, MA: MIT Press
-* –––, 2007, “Ascent Routines for Propositional Attitudes”, *Synthese*, 159 (2): 151–165. doi:10.1007/s11229-007-9202-9
-* Harris, Paul L., 1989, *Children and Emotion*, Oxford: Blackwell Publishers.
-* –––, 1992, “From Simulation to Folk Psychology: The Case for Development”, *Mind and Language*, 7(1–2): 120–144; reprinted in Davies and Stone 1995a, pp. 207–231. doi:10.1111/j.1468-0017.1992.tb00201.x
-* Heal, Jane, 1986, “Replication and Functionalism”, in *Language, Mind, and Logic*, J. Butterfield (ed.), Cambridge: Cambridge University Press; reprinted in Davies and Stone 1995a, pp. 45–59.
-* –––, 1994, “Simulation vs Theory-Theory: What is at Issue?” in Christopher Peacocke (ed.), *Objectivity, Simulation, and the Unity of Consciousness: Current Issues in the Philosophy of Mind* (Proceedings of the British Academy, 83), Oxford: Oxford University Press, pp. 129–144. \[[Heal 1994 available online](http://www.britac.ac.uk/pubs/proc/volumes/pba83.html)]
+* –––, 1996, “‘Radical’ Simulationism”, in Carruthers & Smith 1996: 11–21. doi: 10.1017/CBO9780511597985.003
+* –––, 2000, “Sellars’s Rylean Revisited”, * Protosoziologie*, 14: 102–114.
+* –––, 2005, “Intentional Agents Like Myself,”, in * Perspectives on Imitation: From Mirror Neurons to Memes*, S. Hurley & N. Chater (eds.), Cambridge, MA: MIT Press
+* –––, 2007, “Ascent Routines for Propositional Attitudes”, * Synthese*, 159 (2): 151–165. doi: 10.1007/s11229-007-9202-9
+* Harris, Paul L., 1989, * Children and Emotion*, Oxford: Blackwell Publishers.
+* –––, 1992, “From Simulation to Folk Psychology: The Case for Development”, * Mind and Language*, 7(1–2): 120–144; reprinted in Davies and Stone 1995a, pp. 207–231. doi: 10.1111/j.1468-0017.1992.tb00201.x
+* Heal, Jane, 1986, “Replication and Functionalism”, in * Language, Mind, and Logic*, J. Butterfield (ed.), Cambridge: Cambridge University Press; reprinted in Davies and Stone 1995a, pp. 45–59.
+* –––, 1994, “Simulation vs Theory-Theory: What is at Issue?” in Christopher Peacocke (ed.), * Objectivity, Simulation, and the Unity of Consciousness: Current Issues in the Philosophy of Mind* (Proceedings of the British Academy, 83), Oxford: Oxford University Press, pp. 129–144. \[[Heal 1994 available online](http://www.britac.ac.uk/pubs/proc/volumes/pba83.html)]
 * –––, 1995, “How to Think About Thinking”, in Davies and Stone 1995b: chapter 2, pp. 33–52.
-* –––, 1998, “Co-Cognition and Off-Line Simulation: Two Ways of Understanding the Simulation Approach”, *Mind and Language*, 13(4): 477–498. doi:10.1111/1468-0017.00088
-* –––, 2003, *Mind, Reason and Imagination*, Cambridge: Cambridge University Press.
-* Helming, Katharina A., Brent Strickland, and Pierre Jacob, 2014, “Making Sense of Early False-Belief Understanding”, *Trends in Cognitive Sciences*, 18(4): 167–170. doi:10.1016/j.tics.2014.01.005
-* Herschbach, Mitchell, 2012, “Mirroring Versus Simulation: On the Representational Function of Simulation”, *Synthese*, 189(3): 483–51. doi:10.1007/s11229-011-9969-6
-* Hickok, Gregory, 2009, “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans”, *Journal of Cognitive of Neuroscience*, 21(7): 1229–1243. doi:10.1162/jocn.2009.21189
-* –––, 2014, *The Myth of Mirror Neurons: The Real Neuroscience of Communication and Cognition*, New York: Norton.
-* Hume, David, 1739, *A Treatise of Human Nature*, edited by L.A. Selby-Bigge, 2nd edition, revised by P.H. Nidditch, Oxford: Clarendon Press, 1975
-* Hurley, Susan, 2005, “The Shared Circuits Hypothesis: A Unified Functional Architecture for Control, Imitation, and Simulation”, in *Perspectives on Imitation: From Neuroscience to Social Science, Volume 1: Mechanisms of Imitation and Imitation in Animals*, Susan Hurley & Nick Chater (eds.), Cambridge, MA: MIT Press, pp. 177–193.
-* –––, 2008, “Understanding Simulation”, *Philosophy and Phenomenological Research*, 77(3): 755–774. doi:10.1111/j.1933-1592.2008.00220.x
-* Jackson, Frank, 1999, “All That Can Be at Issue in the Theory-Theory Simulation Debate”, *Philosophical Papers*, 28(2): 77–95. doi:10.1080/05568649909506593
-* Jacob, Pierre, 2008, “What do Mirror Neurons Contribute to Human Social Cognition?”, *Mind and Language*, 23(2): 190–223. doi:10.1111/j.1468-0017.2007.00337.x
-* –––, 2012, “Sharing and Ascribing Goals”, *Mind and Language*, 27(2): 200–227. doi:10.1111/j.1468-0017.2012.01441.x
-* Jeannerod, Marc and Elisabeth Pacherie, 2004, “Agency, Simulation and Self-Identification”, *Mind and Language* 19(2): 113–146. doi:10.1111/j.1468-0017.2004.00251.x
-* Kieran, Matthew and Dominic McIver Lopes (eds.), 2003, *Imagination, Philosophy, and the Arts*, London: Routledge.
-* Kosslyn, S.M., A. Pascual-Leone, O. Felician, S. Camposano, J.P. Keenan, W.L. Thompson, G. Ganis, K.E. Sukel, and N.M. Alpert, 1999, “The Role of Area 17 in Visual Imagery: Convergent Evidence from PET and rTMS”, *Science*, 284(5411): 167–170. doi:10.1126/science.284.5411.167
-* Leslie, Alan M., 1994, “Pretending and Believing: Issues in the Theory of ToMM”, *Cognition*, 50(1–3): 211–238 . doi:10.1016/0010-0277(94)90029-9
-* Lipps, Theodor, 1903, “Einfühlung, Innere Nachahmung und Organempfindung”, *Archiv für gesamte Psychologie*, 1: 465–519. Translated as “Empathy, Inner Imitation and Sense-Feelings”, in *A Modern Book of Esthetics*, New York: Holt, Rinehart and Winston, 1979, pp. 374–382.
-* Lurz, Robert W., 2011, *Mindreading Animals*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262016056.001.0001
-* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking about Mechanisms”, *Philosophy of science*, 67(1): 1–25. doi:10.1086/392759
-* Marr, D., 1982. *Vision*, San Francisco: Freeman Press.
-* Nichols, Shaun (ed.), 2006a, *The Architecture of the Imagination: New Essays on Pretense, Possibility, and Fiction*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199275731.001.0001
-* –––, 2006b, “Just the Imagination: Why Imagining Doesn't Behave Like Believing”, *Mind & Language*, 21(4): 459–474. doi:10.1111/j.1468-0017.2006.00286.x
-* Nichols, Shaun and Stephen P. Stich, 2003, *Mindreading: An Integrated Account of Pretence, Self-Awareness, and Understanding of Other Minds*, Oxford: Oxford University Press. doi:10.1093/0198236107.001.0001
-* Onishi, Kristine H. and Renée Baillargeon, 2005, “Do 15-Month-Old Infants Understand False Beliefs?” *Science*, 308(5719): 255–258. doi:10.1126/science.1107621
-* Pacherie, Elisabeth, 2000, “The Content of Intentions”, *Mind and Language*, 15(4): 400–432. doi:10.1111/1468-0017.00142
-* Peackocke, C. 2005, “Another I: Representing Conscious States, Perception, and Others”, in J. L. Bermúdez (ed.), *Thought, Reference, and Experience: Themes From the Philosophy of Gareth Evans*, Oxford: Clarendon Press
-* Perner, Josef and Deborah Howes, 1992, “‘He Thinks he Knows’ and more Developmental Evidence Against the Simulation (Role-Taking) Theory”, *Mind and Language*, 7(1–2): 72–86; reprinted in Davies and Stone 1995a, pp. 159–173. doi:10.1111/j.1468-0017.1992.tb00197.x
-* Perner Josef and Anton Kühberger, 2005, “Mental Simulation: Royal Road to Other Minds?”, in Bertram F. Malle and Sara D. Hodges (eds.), *Other Minds: How Humans Bridge the Divide Between Self and Others*, New York: Guilford Press, pp. 174–187.
-* Perner, Josef and Ted Ruffman, 2005, “Infants’ Insight in to the Mind: How Deep?” *Science*, 308(5719): 214–216. doi:10.1126/science.1111656
-* Ramsey, William M., 2010, “How Not to Build a Hybrid: Simulation vs. Fact-finding”, *Philosophical Psychology*, 23(6): 775–795. doi:10.1080/09515089.2010.529047
-* Rizzolatti, Giacomo and Laila Craighero, 2004, “The Mirror-Neuron System”, *Annual Review of Neuroscience*, 27: 169–92. doi:10.1146/annurev.neuro.27.070203.144230
-* Rizzolatti, Giacomo & Corrado Sinigaglia, 2007, “Mirror neurons and motor intentionality”, *Functional Neurology*, 22(4): 205–210
-* –––, 2010, “The Functional Role of the Parieto-Frontal Mirror Circuit: Interpretations and Misinterpretations”, *Nature Reviews Neuroscience* 11: 264–274. doi:10.1038/nrn2805
-* –––, 2014, “Review: A Curious Book on Mirror Neurons and Their Myth”, *The American Journal of Psychology*, 128(4): 527–533. doi:10.5406/amerjpsyc.128.4.0527
-* –––, forthcoming, “The Mirror Mechanism: a Basic Principle of Brain Function”, *Nature Reviews Neuroscience*, 17: 757–765. doi:10.1038/nrn.2016.135
-* Rizzolatti, G., R. Camarda, L. Fogassi, M. Gentilucci, G. Luppino, and M. Matelli, 1988, “Functional Organization of Inferior Area 6 in the Macaque Monkey”, *Experimental Brain Research*, 71(1): 491–507. doi:10.1007/BF00248742
-* Rizzolatti, Giacomo, Luciano Fadiga, Vittorio Gallese, and Leonardo Fogassi, 1996, “Premotor Cortex and the Recognition of Motor Actions”, *Cognitive Brain Research*, 3(2): 131–141. doi:10.1016/0926-6410(95)00038-0
-* Rozin, Paul, Jonathan Haidt, and Clark R. McCauley, 2008, “Disgust”, in Michael Lewis, Jeannette M. Haviland–Jones & Lisa Feldman Barrett (eds.), *Handbook of Emotions* (3rd edition), New York: Guilford Press, pp. 757–776.
-* Saxe, Rebbecca, 2005, “Against Simulation: The Argument from Error”, *Trends in Cognitive Sciences*, 9(4): 174–179. doi:10.1016/j.tics.2005.01.012
-* Scholl, Brian J. and Alan M. Leslie, 1999, “Modularity, Development and Theory of Mind”, *Mind and Language*, 14(1): 131–153. doi:10.1111/1468-0017.00106
-* Singer, Tania, Ben Seymour, John O’Doherty, Holger Kaube, Raymond J. Dolan, and Chris D. Frith, 2004, “Empathy for Pain Involves the Affective but not Sensory Components of Pain”, *Science*, 303(5661): 1157– 1162. doi:10.1126/science.1093535
-* Smith, Adam, 1759, *The Theory of Moral Sentiments*, D.D. Raphael and A.L. Macfie (eds.), Oxford: Oxford University Press, 1976.
-* Spaulding, Shannon, 2012, “Mirror Neurons are not Evidence for the Simulation Theory”, *Synthese*, 189(3): 515–534. doi:10.1007/s11229-012-0086-y
-* Spivey, Michael J., Daniel C. Richardson, Melinda J. Tyler, and Ezekiel E. Young, 2000, “Eye movements During Comprehension of Spoken Scene Descriptions”, in *Proceedings of the 22nd Annual Conference of the Cognitive Science Society*, Mahwah, NJ: Erlbaum, pp. 487–492.
-* Stich, Stephen and Shaun Nichols, 1992, “Folk Psychology: Simulation or Tacit Theory?”, *Mind and Language*, 7(1–2): 35–71; reprinted in Davies and Stone 1995a, pp. 123–158. doi:10.1111/j.1468-0017.1992.tb00196.x
-* –––, 1997, “Cognitive Penetrability, Rationality, and Restricted Simulation”, *Mind and Language*, 12(3–4): 297–326. doi:10.1111/j.1468-0017.1997.tb00076.x
-* Stich, Stephen and Ian Ravenscroft, 1992, “What *is* Folk Psychology?” *Cognition*, 50(1–3): 447–68. doi:10.1016/0010-0277(94)90040-X
-* Velleman, J. David, 2000, “The Aim of Belief”, in *The Possibility of Practical Reason*, Oxford: Oxford University Press, pp. 244–282
-* Vannuscorps, Gilles and Alfonso Caramazza, 2015, “Typical Action Perception and Interpretation without Motor Simulation”, *Proceedings of the National Academy of Sciences*, 113(1): 1–6. doi:10.1073/pnas.1516978112
-* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief”, *Child Development*, 72(3): 655–684. doi:10.1111/1467-8624.00304
-* Wicker, Bruno, Christian Keysers, Jane Plailly, Jean-Pierre Royet, Vittorio Gallese, and Giacomo Rizzolatti, 2003, “Both of us Disgusted in *My* Insula: The Common Neural Basis of Seeing and Feeling Disgust”, *Neuron*, 40(3): 655–664. doi:10.1016/S0896-6273(03)00679-2
-* Wimmer, Heinz and Josef Perner, 1983, “Beliefs About Beliefs: Representation and Constraint Function of Wrong Beliefs in Young Children’s Understanding of Deception”, *Cognition*, 13(1): 103–128. doi:10.1016/0010-0277(83)90004-5
+* –––, 1998, “Co-Cognition and Off-Line Simulation: Two Ways of Understanding the Simulation Approach”, * Mind and Language*, 13(4): 477–498. doi: 10.1111/1468-0017.00088
+* –––, 2003, * Mind, Reason and Imagination*, Cambridge: Cambridge University Press.
+* Helming, Katharina A., Brent Strickland, and Pierre Jacob, 2014, “Making Sense of Early False-Belief Understanding”, * Trends in Cognitive Sciences*, 18(4): 167–170. doi: 10.1016/j.tics.2014.01.005
+* Herschbach, Mitchell, 2012, “Mirroring Versus Simulation: On the Representational Function of Simulation”, * Synthese*, 189(3): 483–51. doi: 10.1007/s11229-011-9969-6
+* Hickok, Gregory, 2009, “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans”, * Journal of Cognitive of Neuroscience*, 21(7): 1229–1243. doi: 10.1162/jocn.2009.21189
+* –––, 2014, * The Myth of Mirror Neurons: The Real Neuroscience of Communication and Cognition*, New York: Norton.
+* Hume, David, 1739, * A Treatise of Human Nature*, edited by L.A. Selby-Bigge, 2nd edition, revised by P.H. Nidditch, Oxford: Clarendon Press, 1975
+* Hurley, Susan, 2005, “The Shared Circuits Hypothesis: A Unified Functional Architecture for Control, Imitation, and Simulation”, in * Perspectives on Imitation: From Neuroscience to Social Science, Volume 1: Mechanisms of Imitation and Imitation in Animals*, Susan Hurley & Nick Chater (eds.), Cambridge, MA: MIT Press, pp. 177–193.
+* –––, 2008, “Understanding Simulation”, * Philosophy and Phenomenological Research*, 77(3): 755–774. doi: 10.1111/j.1933-1592.2008.00220.x
+* Jackson, Frank, 1999, “All That Can Be at Issue in the Theory-Theory Simulation Debate”, * Philosophical Papers*, 28(2): 77–95. doi: 10.1080/05568649909506593
+* Jacob, Pierre, 2008, “What do Mirror Neurons Contribute to Human Social Cognition?”, * Mind and Language*, 23(2): 190–223. doi: 10.1111/j.1468-0017.2007.00337.x
+* –––, 2012, “Sharing and Ascribing Goals”, * Mind and Language*, 27(2): 200–227. doi: 10.1111/j.1468-0017.2012.01441.x
+* Jeannerod, Marc and Elisabeth Pacherie, 2004, “Agency, Simulation and Self-Identification”, * Mind and Language* 19(2): 113–146. doi: 10.1111/j.1468-0017.2004.00251.x
+* Kieran, Matthew and Dominic McIver Lopes (eds.), 2003, * Imagination, Philosophy, and the Arts*, London: Routledge.
+* Kosslyn, S.M., A. Pascual-Leone, O. Felician, S. Camposano, J.P. Keenan, W.L. Thompson, G. Ganis, K.E. Sukel, and N.M. Alpert, 1999, “The Role of Area 17 in Visual Imagery: Convergent Evidence from PET and rTMS”, * Science*, 284(5411): 167–170. doi: 10.1126/science.284.5411.167
+* Leslie, Alan M., 1994, “Pretending and Believing: Issues in the Theory of ToMM”, * Cognition*, 50(1–3): 211–238 . doi: 10.1016/0010-0277(94)90029-9
+* Lipps, Theodor, 1903, “Einfühlung, Innere Nachahmung und Organempfindung”, * Archiv für gesamte Psychologie *, 1: 465–519. Translated as “Empathy, Inner Imitation and Sense-Feelings”, in * A Modern Book of Esthetics*, New York: Holt, Rinehart and Winston, 1979, pp. 374–382.
+* Lurz, Robert W., 2011, * Mindreading Animals*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262016056.001.0001
+* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking about Mechanisms”, * Philosophy of science*, 67(1): 1–25. doi: 10.1086/392759
+* Marr, D., 1982. * Vision*, San Francisco: Freeman Press.
+* Nichols, Shaun (ed.), 2006a, * The Architecture of the Imagination: New Essays on Pretense, Possibility, and Fiction*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199275731.001.0001
+* –––, 2006b, “Just the Imagination: Why Imagining Doesn't Behave Like Believing”, * Mind & Language*, 21(4): 459–474. doi: 10.1111/j.1468-0017.2006.00286.x
+* Nichols, Shaun and Stephen P. Stich, 2003, * Mindreading: An Integrated Account of Pretence, Self-Awareness, and Understanding of Other Minds*, Oxford: Oxford University Press. doi: 10.1093/0198236107.001.0001
+* Onishi, Kristine H. and Renée Baillargeon, 2005, “Do 15-Month-Old Infants Understand False Beliefs?” * Science*, 308(5719): 255–258. doi: 10.1126/science.1107621
+* Pacherie, Elisabeth, 2000, “The Content of Intentions”, * Mind and Language*, 15(4): 400–432. doi: 10.1111/1468-0017.00142
+* Peackocke, C. 2005, “Another I: Representing Conscious States, Perception, and Others”, in J. L. Bermúdez (ed.), * Thought, Reference, and Experience: Themes From the Philosophy of Gareth Evans*, Oxford: Clarendon Press
+* Perner, Josef and Deborah Howes, 1992, “‘He Thinks he Knows’ and more Developmental Evidence Against the Simulation (Role-Taking) Theory”, * Mind and Language*, 7(1–2): 72–86; reprinted in Davies and Stone 1995a, pp. 159–173. doi: 10.1111/j.1468-0017.1992.tb00197.x
+* Perner Josef and Anton Kühberger, 2005, “Mental Simulation: Royal Road to Other Minds?”, in Bertram F. Malle and Sara D. Hodges (eds.), * Other Minds: How Humans Bridge the Divide Between Self and Others*, New York: Guilford Press, pp. 174–187.
+* Perner, Josef and Ted Ruffman, 2005, “Infants’ Insight in to the Mind: How Deep?” * Science*, 308(5719): 214–216. doi: 10.1126/science.1111656
+* Ramsey, William M., 2010, “How Not to Build a Hybrid: Simulation vs. Fact-finding”, * Philosophical Psychology*, 23(6): 775–795. doi: 10.1080/09515089.2010.529047
+* Rizzolatti, Giacomo and Laila Craighero, 2004, “The Mirror-Neuron System”, * Annual Review of Neuroscience*, 27: 169–92. doi: 10.1146/annurev.neuro.27.070203.144230
+* Rizzolatti, Giacomo & Corrado Sinigaglia, 2007, “Mirror neurons and motor intentionality”, * Functional Neurology*, 22(4): 205–210
+* –––, 2010, “The Functional Role of the Parieto-Frontal Mirror Circuit: Interpretations and Misinterpretations”, * Nature Reviews Neuroscience* 11: 264–274. doi: 10.1038/nrn2805
+* –––, 2014, “Review: A Curious Book on Mirror Neurons and Their Myth”, * The American Journal of Psychology*, 128(4): 527–533. doi: 10.5406/amerjpsyc.128.4.0527
+* –––, forthcoming, “The Mirror Mechanism: a Basic Principle of Brain Function”, * Nature Reviews Neuroscience*, 17: 757–765. doi: 10.1038/nrn.2016.135
+* Rizzolatti, G., R. Camarda, L. Fogassi, M. Gentilucci, G. Luppino, and M. Matelli, 1988, “Functional Organization of Inferior Area 6 in the Macaque Monkey”, * Experimental Brain Research*, 71(1): 491–507. doi: 10.1007/BF00248742
+* Rizzolatti, Giacomo, Luciano Fadiga, Vittorio Gallese, and Leonardo Fogassi, 1996, “Premotor Cortex and the Recognition of Motor Actions”, * Cognitive Brain Research*, 3(2): 131–141. doi: 10.1016/0926-6410(95)00038-0
+* Rozin, Paul, Jonathan Haidt, and Clark R. McCauley, 2008, “Disgust”, in Michael Lewis, Jeannette M. Haviland–Jones & Lisa Feldman Barrett (eds.), * Handbook of Emotions* (3rd edition), New York: Guilford Press, pp. 757–776.
+* Saxe, Rebbecca, 2005, “Against Simulation: The Argument from Error”, * Trends in Cognitive Sciences*, 9(4): 174–179. doi: 10.1016/j.tics.2005.01.012
+* Scholl, Brian J. and Alan M. Leslie, 1999, “Modularity, Development and Theory of Mind”, * Mind and Language*, 14(1): 131–153. doi: 10.1111/1468-0017.00106
+* Singer, Tania, Ben Seymour, John O’Doherty, Holger Kaube, Raymond J. Dolan, and Chris D. Frith, 2004, “Empathy for Pain Involves the Affective but not Sensory Components of Pain”, * Science*, 303(5661): 1157– 1162. doi: 10.1126/science.1093535
+* Smith, Adam, 1759, * The Theory of Moral Sentiments*, D.D. Raphael and A.L. Macfie (eds.), Oxford: Oxford University Press, 1976.
+* Spaulding, Shannon, 2012, “Mirror Neurons are not Evidence for the Simulation Theory”, * Synthese*, 189(3): 515–534. doi: 10.1007/s11229-012-0086-y
+* Spivey, Michael J., Daniel C. Richardson, Melinda J. Tyler, and Ezekiel E. Young, 2000, “Eye movements During Comprehension of Spoken Scene Descriptions”, in * Proceedings of the 22nd Annual Conference of the Cognitive Science Society*, Mahwah, NJ: Erlbaum, pp. 487–492.
+* Stich, Stephen and Shaun Nichols, 1992, “Folk Psychology: Simulation or Tacit Theory?”, * Mind and Language*, 7(1–2): 35–71; reprinted in Davies and Stone 1995a, pp. 123–158. doi: 10.1111/j.1468-0017.1992.tb00196.x
+* –––, 1997, “Cognitive Penetrability, Rationality, and Restricted Simulation”, * Mind and Language*, 12(3–4): 297–326. doi: 10.1111/j.1468-0017.1997.tb00076.x
+* Stich, Stephen and Ian Ravenscroft, 1992, “What * is * Folk Psychology?” * Cognition*, 50(1–3): 447–68. doi: 10.1016/0010-0277(94)90040-X
+* Velleman, J. David, 2000, “The Aim of Belief”, in * The Possibility of Practical Reason*, Oxford: Oxford University Press, pp. 244–282
+* Vannuscorps, Gilles and Alfonso Caramazza, 2015, “Typical Action Perception and Interpretation without Motor Simulation”, * Proceedings of the National Academy of Sciences*, 113(1): 1–6. doi: 10.1073/pnas.1516978112
+* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief”, * Child Development*, 72(3): 655–684. doi: 10.1111/1467-8624.00304
+* Wicker, Bruno, Christian Keysers, Jane Plailly, Jean-Pierre Royet, Vittorio Gallese, and Giacomo Rizzolatti, 2003, “Both of us Disgusted in * My * Insula: The Common Neural Basis of Seeing and Feeling Disgust”, * Neuron*, 40(3): 655–664. doi: 10.1016/S0896-6273(03)00679-2
+* Wimmer, Heinz and Josef Perner, 1983, “Beliefs About Beliefs: Representation and Constraint Function of Wrong Beliefs in Young Children’s Understanding of Deception”, * Cognition*, 13(1): 103–128. doi: 10.1016/0010-0277(83)90004-5
 
 ## Academic Tools
 

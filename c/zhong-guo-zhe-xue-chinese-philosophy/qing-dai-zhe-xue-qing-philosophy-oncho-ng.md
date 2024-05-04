@@ -14,11 +14,11 @@
 
 ## 1. 清哲学：一个时期概念
 
-强调和描述晚明中国帝国晚期关于现实多维度的清哲学思想的新颖性，是为了突出与近期过去的区别，即追溯从宋明思维方式到清代的过渡，通过指出断裂和连续来强调这一点。换句话说，这引出了晚期帝国思想与先前知识传统之间关系的问题。对明清知识过渡的探讨往往采用两种叙事和分析策略：首先是比较方法，创造毗邻知识运动的范例，然后指出它们之间的鲜明对比和巨大差异；其次是基于连续性假设的发展方法，受传统、影响和演变观念的支配。强调断裂的比较方法实际上是由一些杰出的晚明-早清知识界人物采纳的，比如顾炎武（1613–82）和王夫之（1619–92），他们创造了一个将明代思想和宋明儒学描绘为抽象、深奥、无效和软弱的典型思维模式，使其成为一种以挑剔的形而上学推测和被动的道德反省为特征的思维方式。到了清代，这种思维方式集体被称为“宋学”（*Songxue*），其明显关注道德原则（*义理之学*），与“汉学”（*Hanxue*）相对，后者是以对文本和文字的深入词源学探究及其字面意义（*文字寻古*）为基础的学术。梁启超（1873–1929），一位最有影响力的晚清和民国知识界人物，对清代思想史撰写了一本书，批评了宋明思想的“模糊”、“抽象”和“空洞”。由于梁氏一本关于清代知识史的著作的英文翻译（梁 1921 \[1959]）被伊曼纽尔·许广泛传播和使用，梁氏的观点长期以来成为研究晚期帝国知识潮流的基本解释参考点，形成了一种主导的历史学，将明清知识过渡解释为引发新思维精神的重大事件。另一位巨大的知识界人物，新文化（或五四）运动的坚定支持者胡适（1891–1962），持有类似观点，甚至提出了清代哲学作为科学和进步的有影响力论点（胡 1967：104–131）。
+强调和描述晚明中国帝国晚期关于现实多维度的清哲学思想的新颖性，是为了突出与近期过去的区别，即追溯从宋明思维方式到清代的过渡，通过指出断裂和连续来强调这一点。换句话说，这引出了晚期帝国思想与先前知识传统之间关系的问题。对明清知识过渡的探讨往往采用两种叙事和分析策略：首先是比较方法，创造毗邻知识运动的范例，然后指出它们之间的鲜明对比和巨大差异；其次是基于连续性假设的发展方法，受传统、影响和演变观念的支配。强调断裂的比较方法实际上是由一些杰出的晚明-早清知识界人物采纳的，比如顾炎武（1613–82）和王夫之（1619–92），他们创造了一个将明代思想和宋明儒学描绘为抽象、深奥、无效和软弱的典型思维模式，使其成为一种以挑剔的形而上学推测和被动的道德反省为特征的思维方式。到了清代，这种思维方式集体被称为“宋学”（*Songxue*），其明显关注道德原则（*义理之学*），与“汉学”（*Hanxue*）相对，后者是以对文本和文字的深入词源学探究及其字面意义（*文字寻古*）为基础的学术。梁启超（1873–1929），一位最有影响力的晚清和民国知识界人物，对清代思想史撰写了一本书，批评了宋明思想的“模糊”、“抽象”和“空洞”。由于梁氏一本关于清代知识史的著作的英文翻译（梁 1921 \[1959]）被伊曼纽尔 · 许广泛传播和使用，梁氏的观点长期以来成为研究晚期帝国知识潮流的基本解释参考点，形成了一种主导的历史学，将明清知识过渡解释为引发新思维精神的重大事件。另一位巨大的知识界人物，新文化（或五四）运动的坚定支持者胡适（1891–1962），持有类似观点，甚至提出了清代哲学作为科学和进步的有影响力论点（胡 1967：104–131）。
 
-中国马克思主义学术普遍支持这种对晚清时期“进步”思想出现的灾难性解释。这种断裂论的论点也在老一辈西方学者的研究中有所体现，比如约瑟夫·莱文森（Joseph Levenson）的研究认为，直到 17 世纪才开始有声音反对宋明理想主义和主观理想主义（1964 年）。总之，根据宋明学问与晚清思想之间的断裂论，17 世纪的学者们对学问被纵容的道德内省和深奥的形而上学思辨的腐化感到不满。因此，出现了研究实用国学以整顿机构和行政的日常世界，实现了古老理想的“经世致用”。此外，为了纠正宋明时期空谈（*kongtan*）的滥用，特别是在汉学领域，即所谓的汉学，出现了考证研究（*kaozheng_或_kaoju*），与追求思辨内省的宋学形成鲜明对比。
+中国马克思主义学术普遍支持这种对晚清时期“进步”思想出现的灾难性解释。这种断裂论的论点也在老一辈西方学者的研究中有所体现，比如约瑟夫 · 莱文森（Joseph Levenson）的研究认为，直到 17 世纪才开始有声音反对宋明理想主义和主观理想主义（1964 年）。总之，根据宋明学问与晚清思想之间的断裂论，17 世纪的学者们对学问被纵容的道德内省和深奥的形而上学思辨的腐化感到不满。因此，出现了研究实用国学以整顿机构和行政的日常世界，实现了古老理想的“经世致用”。此外，为了纠正宋明时期空谈（*kongtan*）的滥用，特别是在汉学领域，即所谓的汉学，出现了考证研究（*kaozheng_或_kaoju*），与追求思辨内省的宋学形成鲜明对比。
 
-以连续性概念为基础的明清知识转变问题的发展性方法出现在冯友兰（1895–1990）对中国哲学的经典调查中（1934 \[1952–1953]），由已故的德克·博德（1909–2003）翻译成英文。冯友兰认为清代的汉学是创新和创造性思维，但他也坚持认为这是对宋明理学的延续，因为它没有产生新的形而上学范畴。更彻底地论证清代学问与宋学之间联系的是著名学者钱穆（1895–1990）。钱穆认为，清初的学者们实际上坚持了宋代的文化理想，但他指出，后期乾嘉时期（乾隆和嘉庆皇帝统治时期，1736–1820 年）主导的学究式汉学和考据学术偏离了晚明和清初的真正道德方式和政治承诺。对宋明儒学和清代思想之间密切联系的最持久努力可在由已故新儒学研究主任威廉·西奥多·德·巴里（1919–2017）编辑的关于明清思想的开创性三部曲（巴里 1970 年，1975 年；巴里和布鲁姆 1979 年）中找到，这些书籍探讨了 16 和 17 世纪知识转变的根源和性质，以及其与宋明前人的密切联系。钱穆的杰出学生余英时重新阐述了这种连续性论，他通过描绘儒家思想的内在逻辑，将晚清时期中国学问的新颖之处解释为与宋明儒学的有机关系。正如余所言，“知识主义”或“追随探究和学习之道”的理想在晚清思想中占据主导地位，而在宋明时期，“反知识主义”或“尊德性”的理想占主导地位（余 1975 年：105–136）。
+以连续性概念为基础的明清知识转变问题的发展性方法出现在冯友兰（1895–1990）对中国哲学的经典调查中（1934 \[1952–1953]），由已故的德克 · 博德（1909–2003）翻译成英文。冯友兰认为清代的汉学是创新和创造性思维，但他也坚持认为这是对宋明理学的延续，因为它没有产生新的形而上学范畴。更彻底地论证清代学问与宋学之间联系的是著名学者钱穆（1895–1990）。钱穆认为，清初的学者们实际上坚持了宋代的文化理想，但他指出，后期乾嘉时期（乾隆和嘉庆皇帝统治时期，1736–1820 年）主导的学究式汉学和考据学术偏离了晚明和清初的真正道德方式和政治承诺。对宋明儒学和清代思想之间密切联系的最持久努力可在由已故新儒学研究主任威廉 · 西奥多 · 德 · 巴里（1919–2017）编辑的关于明清思想的开创性三部曲（巴里 1970 年，1975 年；巴里和布鲁姆 1979 年）中找到，这些书籍探讨了 16 和 17 世纪知识转变的根源和性质，以及其与宋明前人的密切联系。钱穆的杰出学生余英时重新阐述了这种连续性论，他通过描绘儒家思想的内在逻辑，将晚清时期中国学问的新颖之处解释为与宋明儒学的有机关系。正如余所言，“知识主义”或“追随探究和学习之道”的理想在晚清思想中占据主导地位，而在宋明时期，“反知识主义”或“尊德性”的理想占主导地位（余 1975 年：105–136）。
 
 知识连续性主题在许多日本学术研究中也是显而易见的，通常将王阳明的_良知_（天生自发的道德认知）理念视为根本性变革的主要精神资源。它认为王阳明学派的左翼进一步释放了这一解放性原则的潜力，通过主张个人主义和自愿主义来体现道德自治。此外，它认为清代对“客观”研究经典的信仰应当在统一了宋、元、明哲学观的“主观主义”背景下加以审视。这些学术研究还探讨了晚期帝制中国思想在世界历史上多重早期现代性观念的重要性，以至于晚明和清代见证了“早期现代”（*sen kindai*）中国特定历史动态的运作，体现在新的自我和社会观念中，这些观念重新阐释了传统儒家思想中的一些核心主题和对立面（Shimada 1970; Mizoguchi 1980）。
 
@@ -32,49 +32,49 @@
 
 ## 2. 生机论：形而上学的重新定位
 
-活力主义作为清代哲学的一种表达，侧重于个体自身、身体和外部事物提供的证据。与永恒和超越性创造力（如理、天或道）的神秘主义相对立，这些代表了存在的本质，活力主义更倾向于从个体自身和外部世界的实际情况中把握生命的观点。它强调了以气（物质力量/心理物理力量）和气（具体工具）的术语表达的具体而动态生命的即时和最终完成。它可以被构想为一种动态的一元论：动态是指它拒绝了一种不变的道，而赞成一种以偶发和有限真理为基础的相对化方式；在一元论方面，它消解了理气的二分法，将被视为先验形而上学和精神领域的理纳入气之下，而气则是感知和经验领域，被视为次要的。在活力主义框架内的生活取决于环境，通过个体自身的偶然性和有限性的外部迹象，包括感官、感受、欲望和情感，被个体化和个性化。晚清中国思想学者，如德奥多尔·贝巴里、艾琳·布鲁姆和山野裕，指出自明代晚期以来，基于气的活力主义哲学日益盛行，为思考个体和世界提供了一种新的连贯性。但是，将清代哲学描述为完全基于某种形式化的以气为导向的形而上学是具有误导性的，因为以儒家的理和气的范畴来进行哲学思考已经不再吸引思想家的想象力。虽然代表生活的物质和经验领域的气在知识论述中占据主导地位，但清代的立场明显不赞成形而上学的思考。活力主义，以气为谓词，是一种普遍的态度，最重要的是依附于具体的现实和行动，颠倒了新儒家形而上学倾向，将人类和事物简化为理和道的属性、表现和外观。气现在统治着至高无上。
+活力主义作为清代哲学的一种表达，侧重于个体自身、身体和外部事物提供的证据。与永恒和超越性创造力（如理、天或道）的神秘主义相对立，这些代表了存在的本质，活力主义更倾向于从个体自身和外部世界的实际情况中把握生命的观点。它强调了以气（物质力量/心理物理力量）和气（具体工具）的术语表达的具体而动态生命的即时和最终完成。它可以被构想为一种动态的一元论：动态是指它拒绝了一种不变的道，而赞成一种以偶发和有限真理为基础的相对化方式；在一元论方面，它消解了理气的二分法，将被视为先验形而上学和精神领域的理纳入气之下，而气则是感知和经验领域，被视为次要的。在活力主义框架内的生活取决于环境，通过个体自身的偶然性和有限性的外部迹象，包括感官、感受、欲望和情感，被个体化和个性化。晚清中国思想学者，如德奥多尔 · 贝巴里、艾琳 · 布鲁姆和山野裕，指出自明代晚期以来，基于气的活力主义哲学日益盛行，为思考个体和世界提供了一种新的连贯性。但是，将清代哲学描述为完全基于某种形式化的以气为导向的形而上学是具有误导性的，因为以儒家的理和气的范畴来进行哲学思考已经不再吸引思想家的想象力。虽然代表生活的物质和经验领域的气在知识论述中占据主导地位，但清代的立场明显不赞成形而上学的思考。活力主义，以气为谓词，是一种普遍的态度，最重要的是依附于具体的现实和行动，颠倒了新儒家形而上学倾向，将人类和事物简化为理和道的属性、表现和外观。气现在统治着至高无上。
 
 在清初，最系统地阐述活力主义哲学的著作可以在王夫之（1619–1692）的著作中找到，他扩展了著名宋代大师张载（1020–1077）的以气为基础的形而上学。王夫之断言气是理所遵循的。他声称：
 
-> 实际上，理存在于气之内。气无非即是理。当\[气]聚集并产生人类和事物时，形式出现。当\[气]分散到至虚时，便是无形的。（王氏钦定四库全书: 1:5b）
+> 实际上，理存在于气之内。气无非即是理。当\[气] 聚集并产生人类和事物时，形式出现。当\[气] 分散到至虚时，便是无形的。（王氏钦定四库全书: 1: 5b）
 
-当\* 理 *和* 气 *合而为一时，后者赋予现实以形态。实际上，* 气 \*是终极至高虚空的基本物质，正如王所断言的：
+当\* 理 * 和 * 气 * 合而为一时，后者赋予现实以形态。实际上，* 气 \* 是终极至高虚空的基本物质，正如王所断言的：
 
-> 说人类生来无\* 气 *的滋养，* 理 *可以在* 气 *之外寻找，形态乃幻觉，而本性（* 性 \*）才是真实的，这是堕入邪说。(QSYS: 1:6b)
+> 说人类生来无\* 气 * 的滋养，* 理 * 可以在 * 气 * 之外寻找，形态乃幻觉，而本性（* 性 \*）才是真实的，这是堕入邪说。(QSYS: 1: 6b)
 
-需要注意的是，尽管王追随张，但他拒绝了后者的哲学人类论，后者将人类所谓的“天性”（源自\* 理 *）与源自* 气 \*的“物质本性”分开。王告诉我们：
+需要注意的是，尽管王追随张，但他拒绝了后者的哲学人类论，后者将人类所谓的“天性”（源自\* 理 *）与源自 * 气 \* 的“物质本性”分开。王告诉我们：
 
 当谈到物质本性时，就好像在说本性存在于_气_（*气质*）的物质之内。这种物质（质）是人类的物质形态（气质质形），在其中体现了生命之理。由于（即生命之理）存在于这种物质之内，*气_渗透其中，正如充满宇宙内外的东西只不过是_气*，因此它只不过是理。理运行于_气_之内，在那里控制和分配_气_。因此，物质（个体事物的）包裹着_气_，而_气_包裹着理。正是因为这种物质包裹着_气_，一个特定的个体才具有一种本性。因此，在一个人的发展尚未发生之前，只能有宇宙的理和_气_，而没有个体人。然而，一旦有了包含_气_的物质，这个_气_就不可避免地具有了理。就人类而言……，在_气_的物质中发现的这种本性（即物质本性）仍然是原始本性。（摘自麦克莫兰 1975 年：443）
 
 简言之，王阳明认为我们所谓的物质本性是原始本性，绝非次要于我们的天性。他不像张载那样，将我们的侵略性和扩张性归因于物质本性的劣质_气_。王将理和人的欲望（欲）视为自然的。礼的传统表达了我们的欲望：
 
-> 虽然礼只是天理的外在装饰，但必须存在于人的欲望中才能被看到。鉴于此，归根结底，天不可能与人分离，理也不可能与欲望分离……因此，在声音、色彩、气味和味道中，人们可以清楚地看到所有生物的共同欲望和共同原则。（王阳明全书：8:10b-11a）
+> 虽然礼只是天理的外在装饰，但必须存在于人的欲望中才能被看到。鉴于此，归根结底，天不可能与人分离，理也不可能与欲望分离……因此，在声音、色彩、气味和味道中，人们可以清楚地看到所有生物的共同欲望和共同原则。（王阳明全书：8: 10b-11a）
 
 对王来说，君道（*wangdao*）也与人情（*renqing*）密切相关：
 
-> 君道基于人情。人情是君子和小人共同拥有的情感……孟子深刻理解天理和人情合一的根源，认识到了君道的可能性。看到了开始，便可延伸和扩展……天理存在于私欲（*siyu*）之中。（王齐一书: 26:2a-3b）
+> 君道基于人情。人情是君子和小人共同拥有的情感……孟子深刻理解天理和人情合一的根源，认识到了君道的可能性。看到了开始，便可延伸和扩展……天理存在于私欲（*siyu*）之中。（王齐一书: 26: 2a-3b）
 
 因此，王将价值观——礼义、君道、共同原则——与私人感情联系起来，因为身体及其情感成为伦理体验、*li*-原则的所在。在阐释“充分实现我们的本性”（*jinxing*）的观念时，他认为世界上的一切都与自己有着相同的起源。因此，个体是世界运转的支点，这就要求积极生活。实践，或_xi_，是充分实现和满足我们的本性的关键，这是培育我们的_qi_的过程：
 
-关于将坏事变好，这是一个善养自己_气_的问题。随着时间的推移，一个人的本质（*zhi*）会相应地改变……这是人类的能力，也就是精确的实践。因此，_气_随着实践而改变，自然也随着实践而实现。本质是自然的驻地，自然是_气_的调节，_气_是物质的实体化。\[*气*]是实践可以控制的东西。（易经: 7:11a-b）
+关于将坏事变好，这是一个善养自己_气_的问题。随着时间的推移，一个人的本质（*zhi*）会相应地改变……这是人类的能力，也就是精确的实践。因此，_气_随着实践而改变，自然也随着实践而实现。本质是自然的驻地，自然是_气_的调节，_气_是物质的实体化。\[*气*] 是实践可以控制的东西。（易经: 7: 11a-b）
 
 简而言之，王不仅将_理气_二元论合并为_气_的一元论，而且还从人类的行动和行为角度理解了_气_，这是宇宙的基本物质。
 
 顾炎武（1613–1682）也将_气_视为宇宙中的生成力量：
 
-在天地间充满了_气_。当_气_兴盛时，它变成了_神_。*神_是天地和人类心灵的_气*。(易经: 1:20)
+在天地间充满了_气_。当_气_兴盛时，它变成了_神_。*神_是天地和人类心灵的_气*。(易经: 1: 20)
 
 他继续说，
 
-凝聚形成身体被称为_物_；无形地分散被称为_变_。凝聚是_气_的凝聚；分散是_气_的分散。(易经: 1:20)
+凝聚形成身体被称为_物_；无形地分散被称为_变_。凝聚是_气_的凝聚；分散是_气_的分散。(易经: 1: 20)
 
-_气_是自给自足且无所不在的，与事物、物体、事件和事务相一致，没有它，“道就无处栖身”（易经: 1:20）。同样，黄宗羲（1610–1695），一位博学多才的学者，与顾炎武和王夫之同时代，将_理_和_气_的不可分割的混淆视为首要的本体论事实：“_理_者，*气_之理也。无_气_则无_理*”（黄明仁先生全集: 140）。它们的区别仅在于语义：
+_气_是自给自足且无所不在的，与事物、物体、事件和事务相一致，没有它，“道就无处栖身”（易经: 1: 20）。同样，黄宗羲（1610–1695），一位博学多才的学者，与顾炎武和王夫之同时代，将_理_和_气_的不可分割的混淆视为首要的本体论事实：“_理_者，*气_之理也。无_气_则无_理*”（黄明仁先生全集: 140）。它们的区别仅在于语义：
 
 > 术语_理_和_气_是人为创造的。谈及浮沉、升降的现象时，有_气_。谈及浮沉、升降的明显规律时，有_理_。最终，它们是一个实体的两个名称，而不是一个实存中的两个实体。（黄明仁先生全集: 1064）
 
 他进一步解释，
 
-在天地之间，只有一种气。它的升降，来去，是理。被一个人所理解时...\[理]变成了心志，也是气。如果气不自律，为什么春天过后，夏天、秋天和冬天必然会到来呢？是什么控制着计划的萌芽和凋零，地形的温和和崎岖，占星预兆的吉凶动静，以及人类和万物的诞生和成长？一切都受气的支配。因为它自律，所以被称为理。(易经: 46)
+在天地之间，只有一种气。它的升降，来去，是理。被一个人所理解时...\[理] 变成了心志，也是气。如果气不自律，为什么春天过后，夏天、秋天和冬天必然会到来呢？是什么控制着计划的萌芽和凋零，地形的温和和崎岖，占星预兆的吉凶动静，以及人类和万物的诞生和成长？一切都受气的支配。因为它自律，所以被称为理。(易经: 46)
 
 黄通过认为理本身并不存在，因为它是物质和经验的抽象，来消解了理气的二元论。
 
@@ -96,7 +96,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 戴批评宋代新儒家人为地将道德价值与日常社会关系和活动人为分开，因为他们将仁、义、礼、智等道德美德与“空灵微妙”之原则等同起来，这一原则被视为“在形而上”，与白天的行动和追求相对立，后者被视为“在形而下”，因此是次要的。在戴看来，这种价值观在经典中找不到支持：
 
-\[宋代儒家声称]就天地而言，阴阳不能称为_道_；就人类而言，生理素质（*qibing*）不能称为本性（*xing*），人际关系中日常实务和事物不能称为道。《六经》、《孔子》和《孟子》的文本中没有任何支持他们的观点。（戴 MZZYSZ：71-72）
+\[宋代儒家声称] 就天地而言，阴阳不能称为_道_；就人类而言，生理素质（*qibing*）不能称为本性（*xing*），人际关系中日常实务和事物不能称为道。《六经》、《孔子》和《孟子》的文本中没有任何支持他们的观点。（戴 MZZYSZ：71-72）
 
 对戴来说，原则并非抽象和超然：“关于天地、人类和事物，以及事务和行动，我从未听说过无法用言语表达的原则”（戴 MZZYSZ：38）。*礼*，作为事物内在的纹理（*条理*），并不存在于心灵中作为一个形而上的实体，而是存在于万物之中。实际上，它无法与人的感情（*情*）和欲望（*欲*）分离。戴区分了自然（*自然*）和必然如此（*必然*）之间的区别：
 
@@ -124,13 +124,13 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 王夫之通过他的历史哲学理论_shi_（事）与_li_（理）重新排序了新儒家的本体论。王夫之认为理应优先，作为万物和事务的内在模式，即“固然”（*guran*）、“必然”（*biran*）、“不言而喻”（*dangran*）、“缘由”（*suoyiran*）和“自然”（*ziran*）。但理嵌入具体的心身力量（*qi*）中，并在实际情况中得以体现：
 
-因此，最初，在物质力量中可以清楚地看到原则。因此，这个获得的原则自然地变成条件。因此，原则可以在这些必要条件中看到。(Wang QSYS: 48:9.5a)
+因此，最初，在物质力量中可以清楚地看到原则。因此，这个获得的原则自然地变成条件。因此，原则可以在这些必要条件中看到。(Wang QSYS: 48: 9.5a)
 
-原则和条件应始终“作为一个整体进行综合讨论”(Wang QSYS: 48:9.5a-b)。这种关系完整性假定原则的首要性建立在差异的即时性基础上：“条件随着时代的不同而不同；当条件不同时，原则也会不同”(Wang QSYS: 58:15.3b)。_Li-qi_作为整体代表了宇宙作为永久出现的偶然现象，受人类行为的影响：“当一个人符合时代，就顺应了时代所必然产生的东西以自救，从而摆脱灾难”(摘自 McMorran 1975: 457)。
+原则和条件应始终“作为一个整体进行综合讨论”(Wang QSYS: 48: 9.5a-b)。这种关系完整性假定原则的首要性建立在差异的即时性基础上：“条件随着时代的不同而不同；当条件不同时，原则也会不同”(Wang QSYS: 58: 15.3b)。_Li-qi_作为整体代表了宇宙作为永久出现的偶然现象，受人类行为的影响：“当一个人符合时代，就顺应了时代所必然产生的东西以自救，从而摆脱灾难”(摘自 McMorran 1975: 457)。
 
 与黄宗羲一样，王夫之从历史主义的角度看待制度的发展。每个时代的制度都是独特的_shi_或条件。它们是那个时代的方式，人类凭借意志和变革力量遵循。每个时代都有其适当的制度：
 
-每个时代的规则都应符合其所处的时代，确立时代的特定制度。从来没有因为模仿古人的某一优点或是支持某一古代事物而成功建立起治理，也不应将某一古代事物强行引入当下。易经：21:5b-6a
+每个时代的规则都应符合其所处的时代，确立时代的特定制度。从来没有因为模仿古人的某一优点或是支持某一古代事物而成功建立起治理，也不应将某一古代事物强行引入当下。易经：21: 5b-6a
 
 即使是经典著作也没有规定不变的模式：
 
@@ -142,11 +142,11 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 必须定期进行改革以防止灾难的发生：
 
-如果我们理解封建制度转变为州县制度，我们也会理解随着州县制度的衰落，它也必须发生变化。这是否意味着会回到封建主义？不，这是不可能的。但如果有某位圣人能赋予州县制度封建主义的基本含义，那么世界将实现秩序……现在，州县\[制度]的缺陷已经发展到了极致……但仍然，它在所有细节上都被遵循。这就是为什么人民的生计日益减少；这就是为什么中国日益衰弱。(易经: 12)
+如果我们理解封建制度转变为州县制度，我们也会理解随着州县制度的衰落，它也必须发生变化。这是否意味着会回到封建主义？不，这是不可能的。但如果有某位圣人能赋予州县制度封建主义的基本含义，那么世界将实现秩序……现在，州县\[制度] 的缺陷已经发展到了极致……但仍然，它在所有细节上都被遵循。这就是为什么人民的生计日益减少；这就是为什么中国日益衰弱。(易经: 12)
 
 但值得注意的是，黄、王和顾虽然主张根据当时及其特定条件进行权宜性变革，但他们都奉行古代经典中蕴含的普世价值观。黄拥抱古代三代留传下来的恒久原则。在他著名的《明夷待访录》(A Plan for the Prince)中，他肯定了古代治理原则的恒久不变，简言之，就是坚定不移地致力于促进人民的利益和福祉：
 
-> 当圣明的统治者出现时，他们不把自己的利益视为利益，而是寻求造福世界。\[他们]不把自己的危害视为唯一的危害，而是寻求解救世界免于危害。他们必须比世界上其他人工作千百倍。(黄明夷待访录: 2)
+> 当圣明的统治者出现时，他们不把自己的利益视为利益，而是寻求造福世界。\[他们] 不把自己的危害视为唯一的危害，而是寻求解救世界免于危害。他们必须比世界上其他人工作千百倍。(黄明夷待访录: 2)
 
 王夫之在治理历史进程中也提出了永恒的原则。他将朝代的特殊性与经典的恒定原则进行了平衡：
 
@@ -154,7 +154,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 王夫之认为古代圣贤君主的成就卓越，因此将历史变迁视为与黄金时代的背离。顾炎武也敦促统治者坚守儒家的“四维”作为指导历史的总体原则：
 
-> 礼 (*li*) 和义 (*i*) 是治理人民的最高方式。廉 (*lian*) 和耻 (*chi*) 是培育人性的伟大原则。没有廉，就没有不贪的事；没有耻，就没有不作恶的行为。如果人们如此，灾难、失败、混乱和死亡将会到来。(Gu RZL: 5:53)
+> 礼 (*li*) 和义 (*i*) 是治理人民的最高方式。廉 (*lian*) 和耻 (*chi*) 是培育人性的伟大原则。没有廉，就没有不贪的事；没有耻，就没有不作恶的行为。如果人们如此，灾难、失败、混乱和死亡将会到来。(Gu RZL: 5: 53)
 
 在他的《日知录》中，顾考察了整个中国历史的进程，从周朝到他自己的时代，并得出结论：只有当伦理道德被提倡时，和平与繁荣才能实现。
 
@@ -178,11 +178,11 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 “最初的基本本质”和“必然性”，在空间和时间上分别表示所有存在的总体。个体仅仅是整体化道路或_共同_善的一种变化或表达：
 
-> 善被用来指人类\[和事物]内在的东西...所谓的善无非是天地生成变化以及自然的功能和能力。(Chung-ying Cheng 1971: 33–34)
+> 善被用来指人类\[和事物] 内在的东西...所谓的善无非是天地生成变化以及自然的功能和能力。(Chung-ying Cheng 1971: 33–34)
 
-个体的天性是“天道”的“分”所造成的结果。一个人的命运，由天道规定，决定了一个人的个体天性：“\[天的]分所决定的界限称为命运，通过产生某种构成，称为天性”(1971: 2) 这种不可避免的基本观点在戴氏古典学中成为了圣人古代价值普遍性的确认：
+个体的天性是“天道”的“分”所造成的结果。一个人的命运，由天道规定，决定了一个人的个体天性：“\[天的] 分所决定的界限称为命运，通过产生某种构成，称为天性”(1971: 2) 这种不可避免的基本观点在戴氏古典学中成为了圣人古代价值普遍性的确认：
 
-> 如果我们不努力理解古代圣人的言行，就无法探究他们心灵\[弥漫]后续的千年。因此，正是通过\[对经典、数学、制度和事物范畴的研究]，才能理解他们的语言的含义，从而用一颗心去迎合他们。(Dai DZWJ: 177)
+> 如果我们不努力理解古代圣人的言行，就无法探究他们心灵\[弥漫] 后续的千年。因此，正是通过\[对经典、数学、制度和事物范畴的研究]，才能理解他们的语言的含义，从而用一颗心去迎合他们。(Dai DZWJ: 177)
 
 戴震的哲学受到对古代道的永恒性的信仰的启发，关注于实现已在古代确立的道德体系的回归。然而，这种回归只能通过对历史记录的审查实现，这产生了对不同、特殊、个体和偶然性的敏锐意识——一种历史主义的感性。戴将经典（道）和历史（权）并置，使得历史追求与旨在恢复古代真理的原教旨经典研究相辅相成。
 
@@ -244,15 +244,15 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 > 当为国家服务的时刻到来时，他们感到困惑和迷惑，仿佛坐在云中。因此，世道已经变得腐败堕落。（易经：第 6 卷，第 549 页）
 
-世间的实际方法可以在经典和史书中找到：“六经皆记道…，实治…，实行”（黄宗羲《新历代汇解·卷六》第 442-443 页）。“二十一史所记者，皆世界之经营”（黄宗羲《新历五言·卷六》第 351 页）。
+世间的实际方法可以在经典和史书中找到：“六经皆记道…，实治…，实行”（黄宗羲《新历代汇解 · 卷六》第 442-443 页）。“二十一史所记者，皆世界之经营”（黄宗羲《新历五言 · 卷六》第 351 页）。
 
 王夫之还指责明代后期文人拥抱空洞直觉主义，“在维护社会关系中变得懈怠，对事物进行调查”，以至于他们不再关心“名实相符与否”（引自麦克莫兰 1975 年：434）。对王来说，学问必须具有实际的智力意义：
 
 > 每一段，每一个标题，每一部作品，每一个句子都应该引导一个人回归自己的身体和心灵。它们应与一个人的宏伟目标相一致。
 
-%% > 为了区分其宏伟意义以建立修身治国的基础。(摘自吉文甫 1978 年:1-3)
+%% > 为了区分其宏伟意义以建立修身治国的基础。(摘自吉文甫 1978 年: 1-3)
 
-王者重视历史研究，正是因为其实用性：“历史的价值在于作为过去对未来的教师的记载”。如果“世界秩序的总体框架（*jingshi*）没有被阐明”，那么历史就会写得很糟糕(摘自 1978 年:1)。简而言之，历史学习归根结底是治国之道。
+王者重视历史研究，正是因为其实用性：“历史的价值在于作为过去对未来的教师的记载”。如果“世界秩序的总体框架（*jingshi*）没有被阐明”，那么历史就会写得很糟糕(摘自 1978 年: 1)。简而言之，历史学习归根结底是治国之道。
 
 尽管在十七世纪清初，似乎明显的功利主义思维积极对抗道德直觉主义占主导地位，但在十八世纪，其边缘可能已经变得迟钝。传统解释是，学者们将他们的精力投入到语言学和古典文本的那种啰嗦研究中，正如所谓的考证学运动所代表的那样，这一运动得到了朝廷的认可和鼓励。但这是一个非常片面的观点，未能传达整个画面，因为实际上，功利主义思维在考证实践者和支持者中仍然充满活力，其中许多人继续将经典视为指导世界秩序的工具。钱大昕（1728–1804），考证运动中的一位举足轻重的人物，吹捧这些古代文本的实用价值：
 
@@ -278,7 +278,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 然而，必须指出的是，这种分裂中蕴含着某些重要方面的连续性。毫无疑问，整个宋明思想传统都经受了全面审视，但首先，他们批评和建构的基础源自一个既定的学习领域。刘一（1017-1086）对儒家传统精髓的著名宋代定义确定了_体_（物质、本质、精神、原则、核心和灵魂）、*用*（功能、实用性、实践、应用、行动和努力）和_文_（文学、著作、语言学、文学、经典研究）这三个主要组成部分。它们共同构成了儒家学习的目标和内容。清代知识分子将重点放在_文_的首要地位，作为_用_的中心表现。此外，尽管学者们普遍对他们认为是空洞和晦涩的宋明学问感到不满并希望改革，他们仍然继续以与两大新儒家学派——所谓的程朱学派和陆王学派的关联来界定他们的学术和哲学忠诚。事实上，他们中的许多人正是为了运用语言学作为武器捍卫他们的哲学观点，同时试图削弱和摧毁对手的观点，从事知识主义事业。
 
-然而，尽管清代知识主义是儒家传统的产物，具有悠久的历史渊源，但从_考证_（考据研究）运动和方法论这一知识主义精神的最高表现来看，由于其知识规模和密度，它带来了一个时代性的突破。它不可避免地和明显地被认定为清代特有的现实和世界构建方式。_考证_学术开启了解释的诠释问题。正如本杰明·艾尔曼所指出的，整体经典毫无疑问被视为引发共鸣的文化和文本资本，但一旦它们被视为单独的文本进行质疑，就会引发异议和不安。一些文本的真实性开始受到质疑；它们在异质性注释中的位置开始受到争论；它们的权威性开始被重新评估；检索古代信息的方式开始被讨论。简言之，经典被历史化。此外，最初是对经典的研究扩展到其他领域——青铜器物、先秦思想家和文本、历史、地理、宇宙学、科学等等。
+然而，尽管清代知识主义是儒家传统的产物，具有悠久的历史渊源，但从_考证_（考据研究）运动和方法论这一知识主义精神的最高表现来看，由于其知识规模和密度，它带来了一个时代性的突破。它不可避免地和明显地被认定为清代特有的现实和世界构建方式。_考证_学术开启了解释的诠释问题。正如本杰明 · 艾尔曼所指出的，整体经典毫无疑问被视为引发共鸣的文化和文本资本，但一旦它们被视为单独的文本进行质疑，就会引发异议和不安。一些文本的真实性开始受到质疑；它们在异质性注释中的位置开始受到争论；它们的权威性开始被重新评估；检索古代信息的方式开始被讨论。简言之，经典被历史化。此外，最初是对经典的研究扩展到其他领域——青铜器物、先秦思想家和文本、历史、地理、宇宙学、科学等等。
 
 清初的顾炎武断言，原则（*理学*）的研究不可避免地局限于经典（*经学*）的研究。据他所说，在古代，任何原则的研究都必然是对经典的研究，通过它可以看出和理解原则的基础和运作。因此，他研究古代音韵学：
 
@@ -288,7 +288,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 黄宗羲自诩为陆王传统的追随者，特别强调以知良知(*zhi liangzhi*) 为中心的王阳明思想在知识主义的术语中的重新诠释。王倾向于认为知识必须从自己心灵的最终实质中把握，不能用言语明确表达，因此对言语和辩证实践的效力表示怀疑，而黄则代表明代大师声称，“延展”(*zhi*) 先天的道德认知就是实践，也就是，“广学、察明、审慎、辨异，皆为实践” (黄 MRXA: v.2, p. 53)。后来，黄的学术崇拜者权祖望(1705–1755)引用黄的话来赞美他。
 
-\[Huang]曾经说过，“研读经典之道，为治世之道。” 因此，他不追求琐碎儒家的学问，而是自命要研究经典和历史。他还说，“不经此学，不能验理之易也”。（见顾庆美 1978 年: 118）
+\[Huang] 曾经说过，“研读经典之道，为治世之道。” 因此，他不追求琐碎儒家的学问，而是自命要研究经典和历史。他还说，“不经此学，不能验理之易也”。（见顾庆美 1978 年: 118）
 
 王夫之也反驳了新儒家关于_明解_（神秘理解）和_妙悟_（神秘启示）的认知主张，这两者在概念上都是反智的，因为它们指的是直接直觉地理解真理，而无需实际学习的介入。他坚持认为，“万物之理，非学不知，非博不别”。对王来说，知识来自于我们与宇宙中“变化的外在形式”（*可形*）的直接接触和经验，比如
 
@@ -296,11 +296,11 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 他声称，
 
-> 一物既知，其名可知。其名既知，其实可知。不与物接，则心虽具其天性，不能名其名，物不可成。 (见上文，108\*\**见前文*)
+> 一物既知，其名可知。其名既知，其实可知。不与物接，则心虽具其天性，不能名其名，物不可成。 (见上文，108\*\* *见前文*)
 
 王因此强烈主张“格物”(*gewu*)，这既利用心智，又利用听觉和视觉，即经验观察。他定义了它们在追求知识过程中的不可避免的相互关系和互动：
 
-> 调查事物的努力既利用了心智的能力，又依靠听觉和视觉。学习和探究是支柱，辅以思考和区分差异……听觉和视觉是心智运作的资源，为其设定方向。 (摘自吉文甫 1978 年:45)
+> 调查事物的努力既利用了心智的能力，又依靠听觉和视觉。学习和探究是支柱，辅以思考和区分差异……听觉和视觉是心智运作的资源，为其设定方向。 (摘自吉文甫 1978 年: 45)
 
 王阳明的知识理论肯定了通过调查事物（学习和探究）获得的辩证知识与由心智自发领悟的道德之间的不可归约性。
 
@@ -318,11 +318,11 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 对于戴来说，学习和探究意味着“听到_道_（*wendao*）”（DZWJ：145）。因此，知识主义的追求是在任何试图理解原则和本性之前的先决条件：
 
-寻求最合适的【原则】意味着知识优先。圣人的学习绝不会要求消除自私，而不寻求消除困惑，或者强调行动而不先强调知识。(见于余英时 1982:389)
+寻求最合适的【原则】意味着知识优先。圣人的学习绝不会要求消除自私，而不寻求消除困惑，或者强调行动而不先强调知识。(见于余英时 1982: 389)
 
-简单地说，“道德本性……以学习和探究为食以培养圣智”(见于 1982:390)。
+简单地说，“道德本性……以学习和探究为食以培养圣智”(见于 1982: 390)。
 
-章学诚与考证学者们对经典的具体批判性研究充满热情（他将其视为历史），并对深奥的道德思辨持反感。他说，“古人未尝言离事物事务而论者也”，以及“论性命者必读史”(见于余英时 1976:46)。与黄宗羲一样，他以知识主义的方式重新定义了王阳明关于“致良知”（将自发的道德认知发挥到极致）的概念。王的“良知”是与生俱来的，自发的，无法言喻的，直觉的，可通过内在的反省实现。相比之下，章的版本指的是“学者认为最接近他的才能（才）\[和]… 情感倾向（性情）”，这两者都是“学习”（学）的自然倾向。另一方面，章解释了“扩展”知的概念为“学者努力寻求知识”(学者求知之工) (见于余英时 1976:79-80)。
+章学诚与考证学者们对经典的具体批判性研究充满热情（他将其视为历史），并对深奥的道德思辨持反感。他说，“古人未尝言离事物事务而论者也”，以及“论性命者必读史”(见于余英时 1976: 46)。与黄宗羲一样，他以知识主义的方式重新定义了王阳明关于“致良知”（将自发的道德认知发挥到极致）的概念。王的“良知”是与生俱来的，自发的，无法言喻的，直觉的，可通过内在的反省实现。相比之下，章的版本指的是“学者认为最接近他的才能（才）\[和]… 情感倾向（性情）”，这两者都是“学习”（学）的自然倾向。另一方面，章解释了“扩展”知的概念为“学者努力寻求知识”(学者求知之工) (见于余英时 1976: 79-80)。
 
 总的来说, 知识主义作为清代哲学体系中的一个主题, 以两种方式表现出来。作为一种方法论, 它指的是追求推理和经验知识, 最突出的体现在文本学的研究中。作为一种哲学观点, 它重新评估和修订了中心的新儒家关于内在修养的观念, 旨在实现天赋的道德本性, 反对的是通过感知感官中介的外部知识的追求。知识认知能力应优先于心智的直觉力量。
 
@@ -332,22 +332,22 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 
 * Dai Zhen 戴震 (1723–1777)
   * \[DZWJ] _Dai Zhen wenji_戴震文集, Xianggang: Zhonghua shuju, 1974.
-  * \[MZZYSZ] _Mengzi ziyi shuzhen_g孟子字义疏证, Beijing: Zhonghua shuju, 1982.
+  * \[MZZYSZ] _Mengzi ziyi shuzhen_g 孟子字义疏证, Beijing: Zhonghua shuju, 1982.
 * Gu Yanwu 顧炎武 (1613–82)
-  * \[RZL] *Rizhi lu* 日知錄, Shanghai: Shangwu yinshuguan, 1934.
-  * \[GTLSWJ] *Gu Tinglin shiwenji* 顾亭林詩文集, Beijing: Zhonghua shuju, 1959.
+  * \[RZL] * Rizhi lu* 日知錄, Shanghai: Shangwu yinshuguan, 1934.
+  * \[GTLSWJ] * Gu Tinglin shiwenji* 顾亭林詩文集, Beijing: Zhonghua shuju, 1959.
 * Huang Zongxi 黃宗羲 (1610–1695)
-  * \[MYDFL] *Mingyi daigfanglu* 明夷待访录, Taibei: Shijie shuju, 1959.
-  * \[NLWDHJ] *Nanlei wending houji* 南雷文定后集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
-  * \[NLWDQJ] _Nanlei wending qianji_南雷文定前集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
-  * \[NLWY] _Nanlei wenyue_南雷文约, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
-  * \[MRXA] *Mingru xue’an* 明儒學案, Beijing: Zhonghua shuju, 1985.
+  * \[MYDFL] * Mingyi daigfanglu* 明夷待访录, Taibei: Shijie shuju, 1959.
+  * \[NLWDHJ] * Nanlei wending houji * 南雷文定后集, in Shen Yunlong, ed. * Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+  * \[NLWDQJ] _Nanlei wending qianji_南雷文定前集, in Shen Yunlong, ed. * Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+  * \[NLWY] _Nanlei wenyue_南雷文约, in Shen Yunlong, ed. * Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+  * \[MRXA] * Mingru xue’an* 明儒學案, Beijing: Zhonghua shuju, 1985.
 * Qian Daxin 钱大盺 (1895–1990)
-  * \[QYTWJ] *Qian Yantang wenji* 潜研堂文集, Shanghai: Shangwu yinshuguan, 1935.
+  * \[QYTWJ] * Qian Yantang wenji* 潜研堂文集, Shanghai: Shangwu yinshuguan, 1935.
 * Wang Fuzhi 王夫之 (1619–92)
-  * \[QSYS] *Quanshan yishu* 船山遗书, Shanghai: Shangwu yinshuguan, 1935.
+  * \[QSYS] * Quanshan yishu* 船山遗书, Shanghai: Shangwu yinshuguan, 1935.
 * Zhang Xuecheng 章学诚 (1738–1801)
-  * \[WSTY] *Wenshi tongyi* 文史通义, Xianggang: Zhonghua shuju, 1973.
+  * \[WSTY] * Wenshi tongyi* 文史通义, Xianggang: Zhonghua shuju, 1973.
 
 ### B. Overview: General Surveys and Studies
 
@@ -365,7 +365,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * Wang Mou 王茂 et al., 1992, *Qingdai zhexue* 清代哲学, Anhui: Renmin chubanshe.
 * Wang Xuequn 汪学群, 2010, *Zhongguo ruxueshi: Qingdai juan* 中国儒學史: 清代卷, Beijing: Beijing dauxue chubanshe.
 * Wang Yu 王煜, 1981, *Ming Qing sixiangjia lunji* 明清思想家论集, Taibei: Lianjing chubanshe.
-* Yamanoi Yū 山井湧, 1980, *Min Shin shishō shi kenkyū* 明清思想史の研究, Tokyo: Tōkyō Daigaku Shuppankai.
+* Yamanoi Yū 山井湧, 1980, *Min Shin shishō shi kenkyū* 明清思想史 の 研究, Tokyo: Tōkyō Daigaku Shuppankai.
 * Zhan Haiyun 詹海云, 1992, *Qingchu xueshu lunwenji* 清初学术论文集, Taibei: Wenjin chubanshe.
 * Zheng Jixiong 郑吉雄, 2001, *Qingru ming zhu shuping* 清儒名著述評, Taibei: Da’an chubanshe.
 
@@ -379,17 +379,17 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * –––, 1958, *Zhongguo zaoqi qimeng sixiang shi* 中国早期启蒙思想史, Beijing: Renmin chubanshe.
 * Hu Shi, 1967, “The Scientific Spirit and Method in Chinese Philosophy”, in Charles A. Moore (ed.), *The Chinese Mind: Essentials of the Chinese Philosophy and Culture*, Honolulu: University of Hawaii Press, 104–131.
 * Levenson, Joseph Richmond, 1964, *Confucian China and Its Modern Fate: Volume 2, The Problem of Monarchical Decay*, Berkeley: University of California Press.
-* Liang Ch’i-ch’ao, 1921 \[1959], *Intellectual Trends in the Ch’ing Period* (*Ch’ing-tai hsüeh-shu kai-lun*), Immanuel C. Y. Hsü (trans.), Cambridge, MA: Harvard University Press, 1959. Original published in 1921, translation from the seventh edition, 1927. doi:10.4159/harvard.9780674184732
+* Liang Ch’i-ch’ao, 1921 \[1959], *Intellectual Trends in the Ch’ing Period* (*Ch’ing-tai hsüeh-shu kai-lun*), Immanuel C. Y. Hsü (trans.), Cambridge, MA: Harvard University Press, 1959. Original published in 1921, translation from the seventh edition, 1927. doi: 10.4159/harvard.9780674184732
 * Metzger, Thomas A., 1976, *Escape from Predicament: Neo-Confucianism and China’s Evolving Political Culture*, New York: Columbia University Press.
-* Mizoguchi Yūzō 溝口雄三, 1980, *Chūgoku sen kindai shisō no kussetsu to tenkai* 中国前近代思想の屈折と展開. Tokyo: Tokyo University Press.
+* Mizoguchi Yūzō 溝口雄三, 1980, *Chūgoku sen kindai shisō no kussetsu to tenkai* 中国前近代思想 の 屈折 と 展開. Tokyo: Tokyo University Press.
 * Qian Mu 钱穆, 1937, *Zhongguo jin sanbainian xueshushi* 中国近三百年学术史, Taibei: Shangwu yinshuguan.
-* Shimada Kenji 岛田虔次, 1970, *Chūgoku ni okeru kindai shii no zazetsu* 中国における近代思想の挫折, Tokyo: Chikuma shobo.
+* Shimada Kenji 岛田虔次, 1970, *Chūgoku ni okeru kindai shii no zazetsu* 中国 における 近代思想 の 挫折, Tokyo: Chikuma shobo.
 * Tao Qing 陶清, 1997, *Ming yinmin jiu dajia zhexue* 明遗民九大家, Taibei: Hongye chubanshe.
 * Wang Fansen 王汎森, 2004, *WanMing Qingchu sixiang shilun* 晚明清初思想十论, Shanghai: Fudan daxue shubanshe.
-* Yü Ying-shih 余英时, 1970, “Cong Song Ming ruxue de fanzhan lun Qingdai sixiangshi 从宋明儒学的发展论清代思想史”, *Zhongguo xueren* 中国学人, 2(September):19–41.
+* Yü Ying-shih 余英时, 1970, “Cong Song Ming ruxue de fanzhan lun Qingdai sixiangshi 从宋明儒学的发展论清代思想史”, *Zhongguo xueren* 中国学人, 2(September): 19–41.
 * –––, 1975, “Some Preliminary Observations on the Rise of Ch’ing Confucian Intellectualism”, *Tsing-hua Journal of Chinese Studies*, 10(1-2): 105–136.
 * –––, 1976, “Qingdai sixiangshi de yige xinjieshi 清代思想史的一个新解释”, in Yü Ying-shih, *Lishi yu sixiang* 历史与思想, Taibei: Lianjing chubanshe, pp. 121–156.
-* –––, 1980, “Toward an Interpretation of the Intellectual Transition in Seventeenth-Century China”, *Journal of the American Oriental Society*, 100(2): 115–125. doi:10.2307/601037
+* –––, 1980, “Toward an Interpretation of the Intellectual Transition in Seventeenth-Century China”, *Journal of the American Oriental Society*, 100(2): 115–125. doi: 10.2307/601037
 * –––, 1987, “Qingdai sixiangshi zhongyao guannian tongshi 清代思想史重要观念通释”, in Yü Ying-shih, *Zhongguo sixiang chuantong de xiandai quanshi* 中国思想传统的现代诠释, Taibei: Lianjing chubanshe, pp. 418–431.
 * Zhang Xun 张循, 2010, “Ming Qing zhi ji lianxuzhuode jichu gouzao 明清之际连续着的基础构造”, *Ershiyi shiji*, 117.
 * Zhao Yuan 赵园, 1999, *Ming Qing zhi ji shidafu yanjiu* (明清之际士大夫研究 A study of the literati during the Ming-Qing transition), Beijing: Beijing daxue chubanshe.
@@ -404,7 +404,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * Ge Rongjin 葛荣晋 (ed.), 1994, *Zhongguo shi xue sixiangshi zhongjuan* 中国实学思想史中卷, Beijing: Shoudu shifandaixue chubanshe.
 * Henderson, John B., 1984, *The Development and Decline of Chinese Cosmology*, New York: Columbia University Press.
 * Zhang Shou’an 张寿安, 2001, *Shiba shiji lixue kaozheng de sixiang huoli*, 十八世纪礼学考证的思想活力, Taibei: Zhongyang yanjiuyuan jindaishi yanjiusuo.
-* Zhang Xun 张循, 2013, “’Junzi xingli buqiu biansu:’ Qingdai kaojuxue de shehui xingge ‘君子行礼,不求变俗:’ 清代考据学的社会性格”, *Qingshi yanjiu* 清史研究 1(February): 24–32.
+* Zhang Xun 张循, 2013, “’Junzi xingli buqiu biansu:’ Qingdai kaojuxue de shehui xingge ‘君子行礼, 不求变俗:’ 清代考据学的社会性格”, *Qingshi yanjiu* 清史研究 1(February): 24–32.
 
 #### D.2 Evidential Learning (*kaozheng*)
 
@@ -418,19 +418,19 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * Liu Zhonghua 刘仲华, 2004, *Qingdai zhuzixue yanjiu* 清代諸子学研究, Beijing: Zhongguo Renmin daxue chubanshe.
 * Wang Xuequn 汪学群, 2004, *Qingchu Yixue* 清初易学, Beijing: Shangwu yinshuguan.
 * Zhang Xun 张循, 2007, “Qingdai Han Song xue guanxi yanjiu rogan wenti de fanxi 清代汉、宋学关系研究中若干问题的反思”, *Sichuan daxue xuebao* 四川大学学报, 4(July): 43–53.
-* –––, “Hanxue de neizai jinzhang: Qingdai sixiangshi shang ‘Han Song zhi zheng’ de yi ge jieshi 汉学的内在紧张：清代思想史上“汉宋之争”的一个新解释”, _Zhongyang yanjiuyuan jindaishi yanjiusuo jikan_中央研究院近代史研究所集刊63(March 2009):49–96.
-* –––, 2009, “Haxue neibude ‘Han Song zhi zheng:’ cong Chen Li de ‘Han Song tiaohe’ kan Qingdai sixiangshi shang de shencheng hanyi 汉学内部的’汉宋之争:’ 从陈澧的’汉宋调和’看清代思想史上’汉宋之争’的深层涵义”, *Hanxue yanjiu* 汉学研究 27(4): 295–328.
-* –––, 2010, “Budu Han Song shu ye zheng Han Song xue: Qingdai Han Song zhi zheng ‘fengqi’ de xingcheng 不读汉宋书，也争汉宋学：清代汉宋之争“风气”的形成”, *Zhonghua wenshi luncong* 中华文史论丛, 4(December): 275–314.
-* Zhang Lizhu 张丽珠, 1999, *Qingdai yilixue xinmao* 清代义理学新貌, Taibei: Liren shuju.
-* –––, 2003, *Qingdai xin yilixue:Chuantong yu xiandai de jiaohui* 清代新义理学: 传统与现代的交会, Taibei: Liren shuju.
-* Zhongyang yanjiuyuan Zhongguo wenzhesuo 中央研究院中国文哲研究所 (ed.), 1994, *Qingdai jingxue guoji yantaohui lunwenji* 清代经学国际研讨会论文集, Taibei: Zhongyang yanjiuyuan Zhongguo wenzhesuo.
+* –––, “Hanxue de neizai jinzhang: Qingdai sixiangshi shang ‘Han Song zhi zheng’ de yi ge jieshi 汉学的内在紧张：清代思想史上“汉宋之争”的一个新解释”, _Zhongyang yanjiuyuan jindaishi yanjiusuo jikan_中央研究院近代史研究所集刊 63(March 2009): 49–96.
+* –––, 2009, “Haxue neibude ‘Han Song zhi zheng:’ cong Chen Li de ‘Han Song tiaohe’ kan Qingdai sixiangshi shang de shencheng hanyi 汉学内部的’汉宋之争:’ 从陈澧的’汉宋调和’看清代思想史上’汉宋之争’的深层涵义”, * Hanxue yanjiu* 汉学研究 27(4): 295–328.
+* –––, 2010, “Budu Han Song shu ye zheng Han Song xue: Qingdai Han Song zhi zheng ‘fengqi’ de xingcheng 不读汉宋书，也争汉宋学：清代汉宋之争“风气”的形成”, * Zhonghua wenshi luncong* 中华文史论丛, 4(December): 275–314.
+* Zhang Lizhu 张丽珠, 1999, * Qingdai yilixue xinmao* 清代义理学新貌, Taibei: Liren shuju.
+* –––, 2003, * Qingdai xin yilixue: Chuantong yu xiandai de jiaohui* 清代新义理学: 传统与现代的交会, Taibei: Liren shuju.
+* Zhongyang yanjiuyuan Zhongguo wenzhesuo 中央研究院中国文哲研究所 (ed.), 1994, * Qingdai jingxue guoji yantaohui lunwenji* 清代经学国际研讨会论文集, Taibei: Zhongyang yanjiuyuan Zhongguo wenzhesuo.
 
 #### D.3 Historical Scholarship
 
 * Du Weiyun 杜维运, 1988, *Qingdai shixue yu shixia* 清代史学与史家, Beijing: Zhonghua shuju.
 * Elman, Benjamin A., 2002, “The Historicization of Classical Learning in Ming-Ch’ing China”, In Q. Edward Wang and George Iggers (eds), *Turning Points in Historiography: A Cross-Cultural Perspective*, Rochester, NY: The University of Rochester Press, 101–144.
 * Ivanhoe, Philip. J., 2009, *On Ethics and History: Essays and Letters of Zhang Xuecheng*, Stanford, CA: Stanford University Press.
-* –––, 2014, “Historical Understanding in China and the West: Zhang, Collingwood and Mink”, *Journal of the Philosophy of History*, 8(1): 78–95. doi:10.1163/18722636-12341266
+* –––, 2014, “Historical Understanding in China and the West: Zhang, Collingwood and Mink”, *Journal of the Philosophy of History*, 8(1): 78–95. doi: 10.1163/18722636-12341266
 * Kan Hongliu 阚红柳, 2008, *Qingchu sijia xiushi yanjiu: yi shijia qunti wei yanjiu duixiang* 清初私家修史研究：以史家群体为研究对象, Beijing: Renmin chubanshe.
 * Nivison, David S., 1966 *The Life and Thought of Chang Hsueh-ch’eng (1738–1801)*, Stanford, CA: Stanford University Press.
 
@@ -441,7 +441,7 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * Ong, Chang Woei, 2008, *Men of Letters Within the Passes: Guanzhong Literati in Chinese History, 907–1911*, Cambridge, MA: Harvard University Asia Center.
 * Tan, Tian Yuan, 2010, *Songs of Contentment and Transgression: Discharged Officials and Literati Communities in Sixteenth-Century North China*, (Harvard-Yenching Institute Monograph Series, 75), Cambridge, MA: Harvard University Asia Center.
 * Wilson, Thomas A., 1995, *The Genealogy of the Way: The Construction and Uses of the Confucian Tradition in Late Imperial China*, Stanford, CA: Stanford University Press.
-* Wu, Jiang, 2011, *Enlightenment in Dispute: The Reinvention of Chan Buddhism in Seventeenth-Century China*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195333572.001.0001
+* Wu, Jiang, 2011, *Enlightenment in Dispute: The Reinvention of Chan Buddhism in Seventeenth-Century China*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195333572.001.0001
 
 #### D.5 Individual Intellectual Personage
 
@@ -458,17 +458,17 @@ _气_是自给自足且无所不在的，与事物、物体、事件和事务相
 * Handler-Spitz, Rivi, 2017, *Symptoms of an Unruly Age: Li Zhi and Cultures of Early Modernity*, Seattle and London: University of Washington Press.
 * Handlin, Joanna F., 1983, *Action in Late Ming Thought: The Reorientation of Lü K'un and Other Scholar-Officials*, Berkeley and Los Angeles: University of California Press.
 * He Guangru 贺广如, 1999, *Wei Moshen sixiang tanjiu: yi chuantong jingdian wei taolun zhongxin* 魏默深思想探究: 以传统经典的诠说为讨论中心, Taibei: Taida chuban weiyuanhui.
-* Huang, Chin-Shing, 1995, *Philosophy, Philology, and Politics in Eighteenth-Century China: Li Fu and the Lu-Wang School under the Ch’ing*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511529115
+* Huang, Chin-Shing, 1995, *Philosophy, Philology, and Politics in Eighteenth-Century China: Li Fu and the Lu-Wang School under the Ch’ing*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511529115
 * Jami, Catherine, Peter M. Engelfriet, and Gregory Blue (eds), 2001, *Statecraft and Intellectual Renewal in Late Ming China: The Cross-Cultural Synthesis of Xu Guangqi (1562–1633)*, Leiden: Brill.
 * Ji Wenfu 稽文甫, 1978, *Wang Quanshan xueshu luncong* 王船山学术论丛, Beijing: Sanlian shuju.
 * Lee, Pauline C., 2014, *Li Zhi, Confucianism, and the Virtue of Desire*, Albany, NY: State University of New York Press.
 * McMorran, Ian, 1975, “Wang Fu-chih and the Neo-Confucian Tradition”, in Wm. Theodore de Bary, ed. *The Unfolding of Neo-Confucianism*, New York: Columbia University Press.
 * Ng, On-cho, 2001, *Cheng-Zhu Confucianism in the Early Qing: Li Guangdi (1642–1718) and Qing thought*, Albany, NY: State University of New York Press.
-* Peterson, Willard J., 1969, “The Life of Ku Yen-Wu (1613–1682)”, *Harvard Journal of Asiatic Studies*, 29: 201–247. doi:10.2307/2718835
+* Peterson, Willard J., 1969, “The Life of Ku Yen-Wu (1613–1682)”, *Harvard Journal of Asiatic Studies*, 29: 201–247. doi: 10.2307/2718835
 * –––, 1979, *Bitter Gourd: Fang I-chih and the Impetus for Intellectual Change*, New Haven and London: Yale University Press
 * Rowe, William T., 2002, *Saving the World: Chen Hongmou and Elite Consciousness in Eighteenth-Century China*, Stanford, CA: Stanford University Press.
 * Sela, Ori, 2018, *China’s Philological Turn: Scholars, Textualism, and the Dao in the Eighteenth Century*, New York: Columbia University Press.
-* Struve, Lynn A., 1988a, “Huang Zongxi in Context: A Reappraisal of His Major Writings”, *The Journal of Asian Studies*, 47(3): 474–502. doi:10.2307/2056971
+* Struve, Lynn A., 1988a, “Huang Zongxi in Context: A Reappraisal of His Major Writings”, *The Journal of Asian Studies*, 47(3): 474–502. doi: 10.2307/2056971
 * Struve, Lynn A., 1988b, “The Early Ch’ing Legacy of Huang Tsung-hsi: A Reexamination”, *Asia Major*, new series, 1: 83–122.
 * Yü, Chün-Fang, 1981, *The Renewal of Buddhism in China: Chu-hung and the late Ming Synthesis*, New York: Columbia University Press.
 * Yü Ying-shi 余英时, 1976, *Lun Dai Zhen yu Zhang Xuecheng* 论戴震与章学诚, Xianggang: Longmen shudian.

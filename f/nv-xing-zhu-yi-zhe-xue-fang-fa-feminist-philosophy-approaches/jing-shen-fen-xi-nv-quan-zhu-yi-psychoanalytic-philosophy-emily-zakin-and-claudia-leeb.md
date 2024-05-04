@@ -2,7 +2,7 @@
 
 *首次发表于 2011 年 5 月 16 日星期一；实质性修订于 2023 年 12 月 5 日星期二*
 
-本文将讨论精神分析女性主义，而非女性主义精神分析（即，除非间接地，它不会涉及关于在临床实践中发展女性主义原则的想法，尽管下面讨论的大多数作者都接受过分析师培训）。精神分析发展了一个将性与主体性不可避免地联系在一起的无意识理论。通过这样做，它揭示了我们自我意识、政治忠诚和依恋方式是如何受到无意识驱动的影响，并受到超出个体代理权范围的符号结构的支配。乍看之下，女性主义和精神分析之间的任何联盟似乎都必须在危险的地面上协调：例如，在西格蒙德·弗洛伊德关于“女性特质”的讲座中，虽然讨论了“女性之谜”（弗洛伊德 1933 [1968: 116]）或性别差异，弗洛伊德的修辞将女性定为“问题”（1933 [1968: 113]），并通过提供希望他们“比较男性化而不是女性化”（1933 [1968: 117]）来免除他的听众。许多女性主义者已经概述了弗洛伊德演讲中对女性的偏见以及他的言论明显内容。本文将解释为什么女性主义理论尽管如此，仍然认真阅读弗洛伊德并对他的基本概念进行仔细分析，探讨其局限性、僵局和可能性。
+本文将讨论精神分析女性主义，而非女性主义精神分析（即，除非间接地，它不会涉及关于在临床实践中发展女性主义原则的想法，尽管下面讨论的大多数作者都接受过分析师培训）。精神分析发展了一个将性与主体性不可避免地联系在一起的无意识理论。通过这样做，它揭示了我们自我意识、政治忠诚和依恋方式是如何受到无意识驱动的影响，并受到超出个体代理权范围的符号结构的支配。乍看之下，女性主义和精神分析之间的任何联盟似乎都必须在危险的地面上协调：例如，在西格蒙德 · 弗洛伊德关于“女性特质”的讲座中，虽然讨论了“女性之谜”（弗洛伊德 1933 [1968: 116]）或性别差异，弗洛伊德的修辞将女性定为“问题”（1933 [1968: 113]），并通过提供希望他们“比较男性化而不是女性化”（1933 [1968: 117]）来免除他的听众。许多女性主义者已经概述了弗洛伊德演讲中对女性的偏见以及他的言论明显内容。本文将解释为什么女性主义理论尽管如此，仍然认真阅读弗洛伊德并对他的基本概念进行仔细分析，探讨其局限性、僵局和可能性。
 
 在《女性主义》一文中，弗洛伊德写道：“精神分析并不试图描述女性是什么——这几乎是它无法完成的任务——而是着手探究她是如何形成的，一个女性如何从具有双性倾向的儿童中发展而来”（Freud 1933 [1968: 116]）。弗洛伊德在使用“双性恋”一词时，指的是性本能的一种特质，而不是与性对象的关系（这将由“倒错”一词表示）；双性恋的孩子在心理上既不是男人也不是女人，其本能生活在性别差异之前。弗洛伊德在这里将女性描述为伊底普斯情结的一个轨迹，并指出性别认同是一个脆弱的成就，而不是自然赋予或本质。通过界定精神分析对性别差异的阐述移动的领域，并看到在其他人可能看到自然或文化的工作的地方存在未解决甚至无法解决的谜团，弗洛伊德使性别、性取向和性别差异之间的因果、无缝或直接联系变得复杂化。精神分析探究不与生物性别理论和社会性别理论舒适地契合，甚至扰乱这些理论对性别/性别区分的看法，因此也使在女性主义辩论中经常被制定的性别/性别区分变得复杂化。虽然在女性主义理论中，性别和性别有时被构想为生物学和文化之间的对比，或自然和培养之间的对比，但正如下文所讨论的，弗洛伊德的理论挑战了这些二元论，发展了一种贯穿心理和生理的性驱力的阐述，经历了独特的变迁，而不是假定一个统一的解剖或社会形态。因此，无论弗洛伊德关于女性的著作存在什么风险，他的工作以新的方式探讨了性别认同的意义和可能性。同样，正如我将在下文中所论证的，精神分析女性主义打破了许多关于女性主义是什么以及它理论化的概念和物质对象的假设，特别是关于“女性”这个概念。通过扰乱我们对这一概念的理解，精神分析也向女性主义提出了关于差异的价值和平等追求以及这些不同追求之间未解决的紧张关系的问题。
 
@@ -16,13 +16,13 @@
 
 弗洛伊德将人类驱力与本能区分开来，因为驱力（不同于本能）没有由自然提供的预设目标或对象，并且不遵循预设的生物路径。对于那些生活在人类世界中的人来说，驱力可能会与任意数量的目标或对象联系在一起，并通过任意数量的身体部位感受到。根据弗洛伊德的观点，驱力通过思想或表征的中介而在这些方式中变得具体化。因此，人类的具体化充满了不透明的意义，性欲从一种本能上的不足中产生，将欲望呈现为一种困难或问题，并推动其日益复杂化。
 
-弗洛伊德关于性对心理过程影响的核心主张可以从他早期关于癔症的著作中看出，尽管他思想中的一个关键转变需要澄清。在与约瑟夫·布洛伊尔合作撰写的《癔症研究》（1895 年）中，弗洛伊德探讨了一种现象，即症状可能存在于没有器质性病变的情况下。当一个想法或记忆使人生病时，就会诊断为癔症，而没有任何身体疾病是原因。根据定义，癔症是意念起源的（由一个想法引起），因为它指代了一个令人困扰但被压抑的想法如何转化为身体症状的过程。弗洛伊德最初提出，癔症症状是由于童年时期的暴力诱奸（今天可能被称为性侵）而产生的，这是一个真实的创伤，然后在潜伏期之后，通过第二个相对较轻的事件被追溯性地引发。‘诱奸假设’试图通过早期童年时期发生的早熟性经历的创伤力量来解释癔症（神经症的起源），这是一个外部事件，影响了心理机制，但其记忆被压抑，与意识隔绝。当后来的事件，通常发生在青春期时，催化了早期的记忆痕迹时，被压抑的记忆就会体现在身体上（在身体和身体症状中表现出来）。谈话疗法被发展为一种将被压抑的记忆呈现并解离或释放它们的方式，重新将想法与其被切断和分散的情感联系在一起（解压它），从而消解身体症状。
+弗洛伊德关于性对心理过程影响的核心主张可以从他早期关于癔症的著作中看出，尽管他思想中的一个关键转变需要澄清。在与约瑟夫 · 布洛伊尔合作撰写的《癔症研究》（1895 年）中，弗洛伊德探讨了一种现象，即症状可能存在于没有器质性病变的情况下。当一个想法或记忆使人生病时，就会诊断为癔症，而没有任何身体疾病是原因。根据定义，癔症是意念起源的（由一个想法引起），因为它指代了一个令人困扰但被压抑的想法如何转化为身体症状的过程。弗洛伊德最初提出，癔症症状是由于童年时期的暴力诱奸（今天可能被称为性侵）而产生的，这是一个真实的创伤，然后在潜伏期之后，通过第二个相对较轻的事件被追溯性地引发。‘诱奸假设’试图通过早期童年时期发生的早熟性经历的创伤力量来解释癔症（神经症的起源），这是一个外部事件，影响了心理机制，但其记忆被压抑，与意识隔绝。当后来的事件，通常发生在青春期时，催化了早期的记忆痕迹时，被压抑的记忆就会体现在身体上（在身体和身体症状中表现出来）。谈话疗法被发展为一种将被压抑的记忆呈现并解离或释放它们的方式，重新将想法与其被切断和分散的情感联系在一起（解压它），从而消解身体症状。
 
 在后来的《性学理论三篇》（1905a）中，弗洛伊德认为，与早期的假设相反，性不是从外部介入的，而是婴儿生活中的原始和先天（也许还不成熟）力量，起源于伴随生命过程的身体感觉。在这两部作品之间的过渡期间，弗洛伊德放弃了诱惑假说，取而代之的是婴儿性理论和症状是通过无意识幻想的冲突和压抑引起的这一观点。换句话说，不再是被压抑的记忆使人生病，创伤性性暴力也不再是症状的主要原因。弗洛伊德认为，神经症症状的决定因素不再是实际的过去经历，而是幻想。要理解他思想中这一转变的重要性，我们必须理解弗洛伊德所说的心理现实及其与物质现实的区别。与历史的、互为主体的物质现实领域相对，心理现实是幻想和内心生活的重要领域，独立于客观真实性的考虑。在弗洛伊德看来，无意识幻想不是谎言或欺骗，而是揭示了一个真相，这个真相不是关于客观世界，而是关于主体的内在生活，关于一个人是谁以及想要什么。也许更好地说，幻想掩盖了这个真相，因为对欲望和身份的意识表达往往会使我们误入歧途，表达但扭曲，展示但否认主体的愿望。
 
 弗洛伊德在《记忆、重复和工作-通过》（1914b）中记录，从记忆到欲望，从事实到幻想的推测性转变也是从外部诱惑场景到内部心理行为的转变，从过去事件到当今力量，从被动顺从到主动维持不和谐的转变。与外部事件侵袭儿童尚未发育的性欲不同，婴儿性的概念预设了从儿童早期就开始作用的一种充满活力的驱动力，以及一种内部或心理内部的分歧，一个与自己的欲望相矛盾的主体。婴儿性的论点使创伤事件普遍化，将其经验定位于早熟受影响的心理装置中被淹没的本能激动。在抛弃诱惑假设的同时，弗洛伊德不仅发现了幻想和心理现实的领域，还为考虑生命力的能量学、内部心理冲突以及对欲望不和谐和塑造生活及其模式的冲突负责的观念铺平了道路。尽管围绕弗洛伊德拒绝诱惑假设的争议不断，但如果没有婴儿性的令人震惊的假设，就不会有无意识的精神分析理论。尽管一些修正主义者认为弗洛伊德放弃了自己的原则并背叛了他的患者，事实上，弗洛伊德从未放弃性虐待的现实或否认一些儿童受到侵害。相反，他思维的转变涉及癔症的病因学意义上；神经症不再被说成起源于（可能罕见的）童年性暴力，因此它们可以被视为弥漫而不是与可能被认为是正常性发展相对立的。在抛弃了心灵的原初或本体论的清白然后被外部强加的想法后，弗洛伊德得出了精神分析思想的基本前提。
 
-潜意识的这种幻想活动的典范是伊底普斯情结。在弗洛伊德关于女性主义的后期著作中，包括《女性主义》（1933 年）、《女性性欲》（1931 年）和《性别间解剖区别的某些心理后果》（1925 年），弗洛伊德假设小女孩的伊底普斯情结走的路线与小男孩的不同，并与阉割焦虑有不同的关系。关键是，弗洛伊德坚持认为女性主义不能从生物学或传统观念中理解（弗洛伊德 1933 年[1968: 114]）。另一种说法是，性别差异主要涉及心理现实而不是物质现实，涉及幻想领域而不是自然或文化。伊底普斯的故事是心理发展的故事，是我们如何成为主体的故事，以及在成为主体的过程中，我们如何在性别上有所区别。
+潜意识的这种幻想活动的典范是伊底普斯情结。在弗洛伊德关于女性主义的后期著作中，包括《女性主义》（1933 年）、《女性性欲》（1931 年）和《性别间解剖区别的某些心理后果》（1925 年），弗洛伊德假设小女孩的伊底普斯情结走的路线与小男孩的不同，并与阉割焦虑有不同的关系。关键是，弗洛伊德坚持认为女性主义不能从生物学或传统观念中理解（弗洛伊德 1933 年 [1968: 114]）。另一种说法是，性别差异主要涉及心理现实而不是物质现实，涉及幻想领域而不是自然或文化。伊底普斯的故事是心理发展的故事，是我们如何成为主体的故事，以及在成为主体的过程中，我们如何在性别上有所区别。
 
 男孩和女孩在开始时，在母亲身上，处于前伊底普斯阶段，弗洛伊德声称女孩是一个小男人，这是因为他们尚未有明显的性别差异。同样，弗洛伊德坚持认为存在单一的男性力比多：在弗洛伊德看来，力比多并不中性，因为它最初的对象是母亲，对母亲的欲望被弗洛伊德与男性和活动联系在一起，正如他将婴儿阴蒂快乐与阳具享乐联系在一起。弗洛伊德承认在力比多最原始的阶段，性别区分是不存在的。直到孩子们经历伊底普斯情结，他们才能被恰当地说成具有生殖器官构造，因为这是通过与阉割的关系获得的，也是性发展的最后阶段（在口腔、肛门和阴茎阶段之后）。因此，婴儿时期的两个孩子都是“小男人”，他们的欲望被解释为单一男性力比多的术语。
 
@@ -38,9 +38,9 @@ Freud seems genuinely puzzled by how femininity comes about given the girl’s p
 
 ## 女性主义对精神分析的批评
 
-即使在弗洛伊德的圈子里，也并非所有分析师都同意弗洛伊德的评估，关于女性性欲和阉割以及阴茎嫉妒在其中的角色存在争议，尤其是在卡尔·亚伯拉罕、欧内斯特·琼斯、海伦·德意志和卡伦·霍尼之间。霍尼特别主张存在一种固有的女性性情，不仅仅是基于阉割的次要形成，并且她对阴茎嫉妒的表面效应和女性所谓的自卑感提出异议。与后来一些女性主义对弗洛伊德的批评一样，霍尼试图通过呼吁一种真正独立的本性，并将文化归咎于女性的次要地位，来恢复女性性欲，以及由此延伸出一种有效的女性存在形式。然而，通过这样重新强调生物和社会力量的主导地位，霍尼确实质疑了弗洛伊德假设的核心观念，也标志着精神分析作为一种独特的研究领域，即一种独特的心理表征领域，即无意识。
+即使在弗洛伊德的圈子里，也并非所有分析师都同意弗洛伊德的评估，关于女性性欲和阉割以及阴茎嫉妒在其中的角色存在争议，尤其是在卡尔 · 亚伯拉罕、欧内斯特 · 琼斯、海伦 · 德意志和卡伦 · 霍尼之间。霍尼特别主张存在一种固有的女性性情，不仅仅是基于阉割的次要形成，并且她对阴茎嫉妒的表面效应和女性所谓的自卑感提出异议。与后来一些女性主义对弗洛伊德的批评一样，霍尼试图通过呼吁一种真正独立的本性，并将文化归咎于女性的次要地位，来恢复女性性欲，以及由此延伸出一种有效的女性存在形式。然而，通过这样重新强调生物和社会力量的主导地位，霍尼确实质疑了弗洛伊德假设的核心观念，也标志着精神分析作为一种独特的研究领域，即一种独特的心理表征领域，即无意识。
 
-稍晚，西蒙娜·德·博伊沃在《第二性》（1949 年）中探讨了精神分析的话语，将一个早期章节专门用于她对“精神分析观点”的不信任（博伊沃 1949 [1989: 38–52]）。与霍尼一样，博伊沃谴责弗洛伊德的观念，即只有一种男性的力比多，而没有具有“自身原始本质”的女性力比多（1949 [1989: 39]）。在她看来，弗洛伊德认为他需要解释的东西是理所当然的，即对男性气概的重视。博伊沃批评弗洛伊德没有考虑男性和父权力量的社会起源，并认为他的理论无法解释女性的他者性。她认为，如果女性嫉妒男性，那是因为他们享有的社会权力和特权，而不是因为解剖上的优势。与生物科学提供的人类生活的决定论和客体化（将人类视为自然界中的确定客体，因此不是自由或自主决定的主体）不同，但类似于历史唯物主义的“经济唯一主义”（1949 [1989: 52]），博伊沃将精神分析描述为“性唯一主义”（1949 [1989: 52]）：其范围内的一切都是通过单一视角解释的。博伊沃在章节开头指出，精神分析提供了一个视角，她“并不打算全盘批评”（1949 [1989: 38]），尤其是因为它确实理解“没有任何因素参与心理生活而不具有人类意义”（1949 [1989: 38]），但她质疑其对发展的确定因素的教条依赖以及其“在刚性概念基础上的尴尬灵活性”（1949 [1989: 38]）。在博伊沃看来，最严重的是，精神分析给予女性与主体性和女性之间的自我分裂和冲突相同的命运，这是社会规范和生物规范所导致的。精神分析将女性特质和主体性表现为不同的道路，彼此不兼容。女性可能成为完整的人，具有主体性，但只是以牺牲其女性为代价；或者她们可以选择女性之路，但只能通过牺牲独立性和主体性来实现。在主体性的男性化和对女性的顺从之间，这种二者择一保留了自由自我创造与肉体禁锢之间的道德、政治和形而上学对立，这排除了既是女性又是主体的可能性。
+稍晚，西蒙娜 · 德 · 博伊沃在《第二性》（1949 年）中探讨了精神分析的话语，将一个早期章节专门用于她对“精神分析观点”的不信任（博伊沃 1949 [1989: 38–52]）。与霍尼一样，博伊沃谴责弗洛伊德的观念，即只有一种男性的力比多，而没有具有“自身原始本质”的女性力比多（1949 [1989: 39]）。在她看来，弗洛伊德认为他需要解释的东西是理所当然的，即对男性气概的重视。博伊沃批评弗洛伊德没有考虑男性和父权力量的社会起源，并认为他的理论无法解释女性的他者性。她认为，如果女性嫉妒男性，那是因为他们享有的社会权力和特权，而不是因为解剖上的优势。与生物科学提供的人类生活的决定论和客体化（将人类视为自然界中的确定客体，因此不是自由或自主决定的主体）不同，但类似于历史唯物主义的“经济唯一主义”（1949 [1989: 52]），博伊沃将精神分析描述为“性唯一主义”（1949 [1989: 52]）：其范围内的一切都是通过单一视角解释的。博伊沃在章节开头指出，精神分析提供了一个视角，她“并不打算全盘批评”（1949 [1989: 38]），尤其是因为它确实理解“没有任何因素参与心理生活而不具有人类意义”（1949 [1989: 38]），但她质疑其对发展的确定因素的教条依赖以及其“在刚性概念基础上的尴尬灵活性”（1949 [1989: 38]）。在博伊沃看来，最严重的是，精神分析给予女性与主体性和女性之间的自我分裂和冲突相同的命运，这是社会规范和生物规范所导致的。精神分析将女性特质和主体性表现为不同的道路，彼此不兼容。女性可能成为完整的人，具有主体性，但只是以牺牲其女性为代价；或者她们可以选择女性之路，但只能通过牺牲独立性和主体性来实现。在主体性的男性化和对女性的顺从之间，这种二者择一保留了自由自我创造与肉体禁锢之间的道德、政治和形而上学对立，这排除了既是女性又是主体的可能性。
 
 波伏儂声称，精神分析将女性置于一个固定的命运中，一个发展和目的论的生命过程，正是因为它将主体定义为超出他们控制的过去。通过赋予女性本质或确定的身份，精神分析对性别范畴的依赖再次将女性视为主体的他者，而不是主体本身，从而否定了她的存在自由。然而，在波伏儂看来，如果女性本身不是主体，而是与男性主体性相对立的存在，她们仍然对这种情况负有自由责任，因为女性通过从男性的角度看待自己，通过她们的浪漫关系证明自己的存在，并试图反映男性的存在，从而参与了这一过程。通过将女性的他者性视为不仅是社会情境（及其权力关系）的结果，而且是她们的选择（因此是责任）的结果，波伏儂保留了女性的自由，与她声称拒绝“选择的概念和相关的价值观”的精神分析话语形成对比（Beauvoir 1949 [1989: 45]）。
 
@@ -52,9 +52,9 @@ Beauvoir 对 Freud 关于女性的描述存在两个方面的疑虑，一个是�
 
 ## 语言、法律和性别差异
 
-在考虑精神分析女性主义的背景时，其中很大一部分根源于或与所谓的法国女性主义相一致，法国精神分析理论的背景也至关重要，特别是雅克·拉康的作品。拉康的作品既对女性主义对精神分析的吸收产生了强大影响，又成为批判对象，他的思想被卢斯·伊里加莱和朱莉娅·克里斯蒂娃（两位均在下文讨论）等人所借鉴、转化和挑战。拉康的作品因其对弗洛伊德的非生物化而备受赞誉，也因其阳具中心主义而备受诟病。事实上，这两个方面是相互交织的，因为两者都依赖于拉康对语言的阐释，即作为一种在人类主体性之前并使之成为可能的象征秩序。为了专注于女性主义对精神分析理论装置的运用，我将首先集中讨论拉康对语言和法律在象征秩序中的交汇的理解，然后是他对自我在想象秩序中形成的描述。想象和象征是使世界和自我可理解的表征方式。象征是拉康用来描述现实如何通过语言变得可理解并具有意义和重要性的术语；想象则指的是图像提供的可理解方式。通过图像和文字对世界的和自我的协调和冲突性调解，使现实有意义，并激发主体性和社会关系。与弗洛伊德一样，母亲和父亲形象在他对主体性的描述中起着核心作用。
+在考虑精神分析女性主义的背景时，其中很大一部分根源于或与所谓的法国女性主义相一致，法国精神分析理论的背景也至关重要，特别是雅克 · 拉康的作品。拉康的作品既对女性主义对精神分析的吸收产生了强大影响，又成为批判对象，他的思想被卢斯 · 伊里加莱和朱莉娅 · 克里斯蒂娃（两位均在下文讨论）等人所借鉴、转化和挑战。拉康的作品因其对弗洛伊德的非生物化而备受赞誉，也因其阳具中心主义而备受诟病。事实上，这两个方面是相互交织的，因为两者都依赖于拉康对语言的阐释，即作为一种在人类主体性之前并使之成为可能的象征秩序。为了专注于女性主义对精神分析理论装置的运用，我将首先集中讨论拉康对语言和法律在象征秩序中的交汇的理解，然后是他对自我在想象秩序中形成的描述。想象和象征是使世界和自我可理解的表征方式。象征是拉康用来描述现实如何通过语言变得可理解并具有意义和重要性的术语；想象则指的是图像提供的可理解方式。通过图像和文字对世界的和自我的协调和冲突性调解，使现实有意义，并激发主体性和社会关系。与弗洛伊德一样，母亲和父亲形象在他对主体性的描述中起着核心作用。
 
-拉康将自己的工作表征为基本上是对弗洛伊德的回归，尽管这种回归将结构语言学的洞见，特别是费迪南德·索绪尔和罗曼·雅各布森，以及结构人类学，主要是克洛德·列维-斯特劳斯的见解，引入精神分析领域。即便如此，他的回归也是修订的；他不仅恢复了弗洛伊德的核心概念，还对其进行了革新。据拉康称，弗洛伊德的性理论预示了一种他尚未能够详细阐述的意义论。拉康思想的人类学和语言学谱系对这种“符号宇宙领域”的概念化至关重要。拉康明确支持列维-斯特劳斯对人类社会起源的超验法则的概念，即近亲禁忌；他写道，“基本或首要的法则，文化始于其中，与自然对立的法则，是近亲禁忌的法则”（拉康 1986 [1992: 66–7]）。语言和法律的干预引入了与自然的决裂，这种决裂通过赋予世界意义而改变了世界。遵循《图腾与禁忌的逻辑》，社会身份是在建立亲属网络的排斥基础上构成的。这些社会纽带通过命令和禁令（什么是必须的和什么是禁止的），特别是通过异族通婚的命令（及其交换结构）来维持，后者决定了“伊底普斯情结既是普遍的又是偶然的”（拉康 1978 [1991b: 33]）：父权禁令为人类社会性提供了条件，而禁令本身并非与生俱来。因此，拉康解释了亲属基本结构的代际传递，而无需诉诸于任何自然必然性。拉康认为，这种亲属法则（规定欲望及其限制）与语言秩序基本上是同一的，因为它是通过符号表达而建立的。
+拉康将自己的工作表征为基本上是对弗洛伊德的回归，尽管这种回归将结构语言学的洞见，特别是费迪南德 · 索绪尔和罗曼 · 雅各布森，以及结构人类学，主要是克洛德 · 列维-斯特劳斯的见解，引入精神分析领域。即便如此，他的回归也是修订的；他不仅恢复了弗洛伊德的核心概念，还对其进行了革新。据拉康称，弗洛伊德的性理论预示了一种他尚未能够详细阐述的意义论。拉康思想的人类学和语言学谱系对这种“符号宇宙领域”的概念化至关重要。拉康明确支持列维-斯特劳斯对人类社会起源的超验法则的概念，即近亲禁忌；他写道，“基本或首要的法则，文化始于其中，与自然对立的法则，是近亲禁忌的法则”（拉康 1986 [1992: 66–7]）。语言和法律的干预引入了与自然的决裂，这种决裂通过赋予世界意义而改变了世界。遵循《图腾与禁忌的逻辑》，社会身份是在建立亲属网络的排斥基础上构成的。这些社会纽带通过命令和禁令（什么是必须的和什么是禁止的），特别是通过异族通婚的命令（及其交换结构）来维持，后者决定了“伊底普斯情结既是普遍的又是偶然的”（拉康 1978 [1991b: 33]）：父权禁令为人类社会性提供了条件，而禁令本身并非与生俱来。因此，拉康解释了亲属基本结构的代际传递，而无需诉诸于任何自然必然性。拉康认为，这种亲属法则（规定欲望及其限制）与语言秩序基本上是同一的，因为它是通过符号表达而建立的。
 
 拉康将父亲的禁忌（乱伦禁忌）称为“父亲的法则”，并通过双关语的方式发展了法律与语言之间的联系。在法语中，“Non”（否）和“Nom”（名字）的发音相似。禁止的否定（父亲的法则）和建立权威的名字（父亲的名字或正确的名字）同时被赋予。通过服从父亲的法则（他的否定和名字），孩子承担了象征性的身份和在人类意义宇宙中的位置，即，孩子成为一个受法律约束和语言的承载者。通过这种顺从，孩子承担了欲望和不完整的生活，追求失落的对象，没有坚实的基础或固定的目的，这种存在中的不完整性，拉康称之为阉割。
 
@@ -64,7 +64,7 @@ Beauvoir 对 Freud 关于女性的描述存在两个方面的疑虑，一个是�
 
 在这里，我们来到了拉康思想的阳具中心主义，如果不是父权制主义的话，阳具在他关于主体性和性别差异的思考中扮演着核心角色。根据拉康，阳具将能指引入主体，而不考虑任何“性别之间的解剖区别”（拉康 1966 [2006: 576]）。换句话说，阳具负责让孩子从感知的直接沉浸过渡到一个世界赋予意义的表征领域。正是这一说法使弗洛伊德的理论脱离了生物学，因为它阐明了阳具的功能与任何特定的身体属性无关。拉康坚持认为阳具是一个能指，而不是一个形象或身体器官，并且与它相关的所有人都被阉割了。父亲的否定有效地告诉孩子‘你不是母亲欲望的对象’或‘你不是她的阳具，无法满足她的东西’。因此，它也传达了孩子也是缺乏或渴望的信息。尽管拉康区分了表现为女性特征的‘似乎是’，试图成为自己不是的阳具（成为欲望的对象），与表现为男性特征的‘似乎有’，试图拥有自己没有的阳具（拥有欲望的对象），他仍然坚持每个人在某种程度上都缺乏阳具，无论是在不是它的模式中还是在没有它的模式中。然而，尽管拉康将人类经验的中心放在了解剖学区别的假定生物学固定性上，而是放在了表征经济上，阳具仍然保持着与男性的关联，并且仍然是性别认同的焦点。
 
-弗洛伊德已经理论化，认为只有一种性欲，而且是男性的。在《阳具的意义》中，拉康明确地讨论并批评了另一种观点，即可能存在两种性欲的观点，他讽刺地将其描述为一种性别平等，即“自然权利的平等”（拉康 1966 [2006: 577]）。这就是我之前提到的卡伦·霍尼所持有的观点，她捍卫着一种固有的、非派生的、基于生物的女性性欲的观念。拉康还贬低了这样一种观念，即生殖性的最终阶段是指向他人整体人格的，达到对他人整体存在的某种温柔（拉康 1966 [2006: 580]）。拉康反驳了这两种观点，认为它们都是将心灵与自然规范化和生物化，并声称心灵在这两种方式中都没有与自然和谐一致。与这种性别互补的幻想相反，即男性和女性的性兴趣会融合的观念，弗洛伊德，拉康声称，理解了“人类性欲的本质扰乱”（1966 [2006: 575]），即我们总是缺乏，总是在寻找目标和对象，“由于他会说话，男性需求的偏差”（1966 [2006: 579]），而这种不和谐也意味着，完全整合和自我实现的男性和女性之间不存在对称或和谐的性关系。
+弗洛伊德已经理论化，认为只有一种性欲，而且是男性的。在《阳具的意义》中，拉康明确地讨论并批评了另一种观点，即可能存在两种性欲的观点，他讽刺地将其描述为一种性别平等，即“自然权利的平等”（拉康 1966 [2006: 577]）。这就是我之前提到的卡伦 · 霍尼所持有的观点，她捍卫着一种固有的、非派生的、基于生物的女性性欲的观念。拉康还贬低了这样一种观念，即生殖性的最终阶段是指向他人整体人格的，达到对他人整体存在的某种温柔（拉康 1966 [2006: 580]）。拉康反驳了这两种观点，认为它们都是将心灵与自然规范化和生物化，并声称心灵在这两种方式中都没有与自然和谐一致。与这种性别互补的幻想相反，即男性和女性的性兴趣会融合的观念，弗洛伊德，拉康声称，理解了“人类性欲的本质扰乱”（1966 [2006: 575]），即我们总是缺乏，总是在寻找目标和对象，“由于他会说话，男性需求的偏差”（1966 [2006: 579]），而这种不和谐也意味着，完全整合和自我实现的男性和女性之间不存在对称或和谐的性关系。
 
 人际关系的象征维度必须清楚区分于想象的领域，后者是自我领域。想象秩序最基本和明显地在拉康的论文《作为精神分析经验中揭示的 I 功能形成的镜像阶段》中得到阐明，他在其中详细阐述了弗洛伊德在《自我与本我》中的见解，提出自我首先是通过“表面的投射”（弗洛伊德 1923 [1968: 27]）形成的身体自我，是外部外观或幌子的视觉表现。拉康认同，写道意识发生“每次……有一个表面，这样它可以产生所谓的图像”（拉康 1978 [1991b: 49]）。镜像阶段在俄狄浦斯前开始，婴儿大约 6 个月大。在这个年龄，婴儿字面上是无言的，而且，没有身体协调或运动控制。早产的婴儿，在任何足够的自我照顾能力之前，完全是本能上无能的。通过将自己与一个形象识别，一个与其自身碎片化和分散的身体存在形成对比的一致统一体，婴儿形成了一个初步的自我，一个由幻觉驱使的自我，但这种幻觉使其能够预期自己未来的组织。
 
@@ -80,7 +80,7 @@ Beauvoir 对 Freud 关于女性的描述存在两个方面的疑虑，一个是�
 
 ## 法国女性主义
 
-法国女性主义在许多方面都是一个误称，因为被这样描述的作者很少是法国人或法国国籍（尽管法语是他们写作的主要语言），并不一定公开自认为女性主义者。与法国女性主义有关的作家，包括吕斯·伊里加莱、朱莉娅·克里斯蒂娃、莎拉·科夫曼、凯瑟琳·克莱门特和埃莱娜·西苏斯等人，各自探讨母性与女性之间的关系，怀疑我们是否能说清楚一个女人是什么，担心弗洛伊德对母亲缺乏关注，玩弄写作风格，思考女性主体性，询问女性是否可以成为主体或公民而不适应男性规范，质疑拉康的阳具中心主义，并怀疑语言的获取是否将女性同化为中性化的兄弟。与博沃亚尔不同，她们在哲学和性情上更倾向于精神分析所详细描述的主体性分裂，即我不是我，自我分裂而不是自我认同是人类存在的基本特征，因此主体并非选择的单一起源点。与博沃亚尔一样，她们质疑女性特质和主体性结构是否相容、可比较、可调和，并为此感到困扰，认为它们基本上是相互矛盾的。虽然她们旨在将女性特质与母性区分开来，并批判二者的混淆，但她们也认真对待母性对女性和两性儿童的重要性。因为她们承认社会文化解释对女性在社会契约中地位缺乏的限制，并将女性特质和女性身体作为言说或写作的出发点，她们经常被指责为本质主义者。以下我将重点关注伊里加莱和克里斯蒂娃的作品，探讨她们如何与弗洛伊德和拉康的思想进行互动和转化，以及她们如何将性别差异表述为与象征秩序的建立和破坏密切相关的内容。
+法国女性主义在许多方面都是一个误称，因为被这样描述的作者很少是法国人或法国国籍（尽管法语是他们写作的主要语言），并不一定公开自认为女性主义者。与法国女性主义有关的作家，包括吕斯 · 伊里加莱、朱莉娅 · 克里斯蒂娃、莎拉 · 科夫曼、凯瑟琳 · 克莱门特和埃莱娜 · 西苏斯等人，各自探讨母性与女性之间的关系，怀疑我们是否能说清楚一个女人是什么，担心弗洛伊德对母亲缺乏关注，玩弄写作风格，思考女性主体性，询问女性是否可以成为主体或公民而不适应男性规范，质疑拉康的阳具中心主义，并怀疑语言的获取是否将女性同化为中性化的兄弟。与博沃亚尔不同，她们在哲学和性情上更倾向于精神分析所详细描述的主体性分裂，即我不是我，自我分裂而不是自我认同是人类存在的基本特征，因此主体并非选择的单一起源点。与博沃亚尔一样，她们质疑女性特质和主体性结构是否相容、可比较、可调和，并为此感到困扰，认为它们基本上是相互矛盾的。虽然她们旨在将女性特质与母性区分开来，并批判二者的混淆，但她们也认真对待母性对女性和两性儿童的重要性。因为她们承认社会文化解释对女性在社会契约中地位缺乏的限制，并将女性特质和女性身体作为言说或写作的出发点，她们经常被指责为本质主义者。以下我将重点关注伊里加莱和克里斯蒂娃的作品，探讨她们如何与弗洛伊德和拉康的思想进行互动和转化，以及她们如何将性别差异表述为与象征秩序的建立和破坏密切相关的内容。
 
 ### 女性主义主体的僵局
 
@@ -114,7 +114,7 @@ Irigaray 也挑战了拉康的父权法则和阳具符号的观念，抨击了�
 
 Irigaray 不认为她能够说出一个女人是什么或者女性是什么。家庭、社会和象征性的交换机制剥夺了女性自己的形象和语言，通过男性的语言、形象和欲望塑造了女性，从而在单一、单调的语言中产生了一个明显但虚假的对称。在这种同质性之下，带有相同和其他的同质性之下，Irigaray 构想了性别差异的产生或工作，将性别差异视为两者之间的关系，成为解放女性和男性脱离形而上学和政治约束的途径，使它们各自培育自己相互依存的本性。两者之间的概念并不意味着一条被两者共享的单一路径，而是指出，除了特定的女性性别认同和特定的男性性别认同的价值之外，还有一种允许它们欣赏和珍视彼此的伦理路径。由于两者之间的关系是建立在成为两者（自我差异化）的基础上的，正是在培育这种性别差异中，我们将找到伦理性别关系的可能性，即 Irigaray 所称的性别差异伦理。因此，对于 Irigaray 来说，与拉康相反，是可能存在性别关系的。Irigaray 的工作不仅涉及对差异与平等的肯定，也绝不是简单的颠倒；这些立场是基于已经存在的象征秩序和想象关系，它们本身就是需要被审视的。为了找到女性性和女性主体性的语言，我们必须“回到主导话语”（Irigaray 1977 [1985b: 119]），其中包含了关于实质或本质的形而上学假设，以及坚持性别冷漠制度的认同概念。
 
-虽然伊里加莱经常将母性视为生命和主体性的源泉，但她并不将母性等同于女性或将母亲等同于女人。除了许多其他人之外，杰西卡·本雅明（其作品将在下文中讨论）似乎认为伊里加莱的理论项目是基于将“女性生殖器视为不同欲望的起点”（本雅明 1988: 276）的错误观点。毫无疑问，这种（误）解释源自伊里加莱的文本《当我们的嘴唇一起说话》。但伊里加莱所指的“从身体说话”是远离单一起源和欲望的概念，尤其是欲望的起源。她对女性身体的书写，就像她对母/女系谱的回溯一样，是一种语言和想象的策略，将身体定位为流动的边界，文化向自然的溢出之地，反之亦然，而不是一个自我封闭的自我中心。她不是将女性生物学视为命运的本质主义者。相反，她挑战了自然/文化的分野，以及生物学或文明的二元对立。
+虽然伊里加莱经常将母性视为生命和主体性的源泉，但她并不将母性等同于女性或将母亲等同于女人。除了许多其他人之外，杰西卡 · 本雅明（其作品将在下文中讨论）似乎认为伊里加莱的理论项目是基于将“女性生殖器视为不同欲望的起点”（本雅明 1988: 276）的错误观点。毫无疑问，这种（误）解释源自伊里加莱的文本《当我们的嘴唇一起说话》。但伊里加莱所指的“从身体说话”是远离单一起源和欲望的概念，尤其是欲望的起源。她对女性身体的书写，就像她对母/女系谱的回溯一样，是一种语言和想象的策略，将身体定位为流动的边界，文化向自然的溢出之地，反之亦然，而不是一个自我封闭的自我中心。她不是将女性生物学视为命运的本质主义者。相反，她挑战了自然/文化的分野，以及生物学或文明的二元对立。
 
 ### 4.2 主体性，他者性和异化
 
@@ -154,9 +154,9 @@ Irigaray 和 Kristeva 经常被汇总在所谓的法国女性主义中，但从�
 
 ## 5. 英美精神分析女性主义
 
-有许多英美（和澳大利亚）女性主义理论家和学者阅读拉康（Lacan），为 20 世纪 70 年代、80 年代和 90 年代初的法国到英语以及从法国到美国、英国和澳大利亚的过渡奠定了基础。其中包括朱丽叶·米切尔（Juliet Mitchell）（《精神分析与女性主义》（Psychoanalysis and Feminism，1974））、特丽莎·布伦南（Teresa Brennan）（《肉体的解释：弗洛伊德与女性》（The Interpretation of the Flesh: Freud and Femininity，1992））、伊丽莎白·格罗斯（Elizabeth Grosz）（《雅克·拉康：女性主义导论》（Jacques Lacan: A Feminist Introduction，1990））、简·加洛普（Jane Gallop）（《阅读拉康》（Reading Lacan，1985）和《女儿的诱惑》（The Daughter’s Seduction，1982））、以及雅克琳·罗斯（Jacqueline Rose）（《视野中的性欲》（Sexuality in the Field of Vision，1986））。这些理论家在英语写作时，以法国拉康精神分析方法为参照，通常可归类为今天所谓的“大陆女性主义”领域。他们负责为女性主义思想复兴精神分析，并反击早期女性主义的否定，旨在为女性主义目的重新夺回弗洛伊德的中心分析。例如，朱丽叶·米切尔提出了对任何女性主义阅读至关重要的洞察力，即“精神分析不是对父权社会的推荐，而是对其进行分析”（Mitchell 1974：xiii）。米切尔和罗斯还是《女性性欲》（Feminine Sexuality）的合编者，该书选自拉康的研讨会，两位编辑都撰写了具有影响力的导言。
+有许多英美（和澳大利亚）女性主义理论家和学者阅读拉康（Lacan），为 20 世纪 70 年代、80 年代和 90 年代初的法国到英语以及从法国到美国、英国和澳大利亚的过渡奠定了基础。其中包括朱丽叶 · 米切尔（Juliet Mitchell）（《精神分析与女性主义》（Psychoanalysis and Feminism，1974））、特丽莎 · 布伦南（Teresa Brennan）（《肉体的解释：弗洛伊德与女性》（The Interpretation of the Flesh: Freud and Femininity，1992））、伊丽莎白 · 格罗斯（Elizabeth Grosz）（《雅克 · 拉康：女性主义导论》（Jacques Lacan: A Feminist Introduction，1990））、简 · 加洛普（Jane Gallop）（《阅读拉康》（Reading Lacan，1985）和《女儿的诱惑》（The Daughter’s Seduction，1982））、以及雅克琳 · 罗斯（Jacqueline Rose）（《视野中的性欲》（Sexuality in the Field of Vision，1986））。这些理论家在英语写作时，以法国拉康精神分析方法为参照，通常可归类为今天所谓的“大陆女性主义”领域。他们负责为女性主义思想复兴精神分析，并反击早期女性主义的否定，旨在为女性主义目的重新夺回弗洛伊德的中心分析。例如，朱丽叶 · 米切尔提出了对任何女性主义阅读至关重要的洞察力，即“精神分析不是对父权社会的推荐，而是对其进行分析”（Mitchell 1974：xiii）。米切尔和罗斯还是《女性性欲》（Feminine Sexuality）的合编者，该书选自拉康的研讨会，两位编辑都撰写了具有影响力的导言。
 
-本节将讨论的不是拉康主义启发的女性主义对精神分析在英语世界中的运用，而是源自英美发展的女性主义精神分析，它源自并受到英国客体关系理论的影响，侧重于前奥狄浦斯时期的母儿纽带，特别是梅兰妮·克莱因和唐纳德·温尼科特的工作。在这一领域工作的作者包括南希·乔多罗（《母性的再现，1978 年》）、多萝西·丁内斯坦（《美人鱼与牛头怪，1976 年》）和杰西卡·本杰明（《爱的纽带，1988 年》和《像主体一样，爱对象，1995 年》）。这种英美传统与受法国影响的传统的区别在于它强调前奥狄浦斯时期的社会性或互为主体性，以及它专注于整合、和谐和完整的价值观，而不是自我分裂和尊重内在异己的价值观。
+本节将讨论的不是拉康主义启发的女性主义对精神分析在英语世界中的运用，而是源自英美发展的女性主义精神分析，它源自并受到英国客体关系理论的影响，侧重于前奥狄浦斯时期的母儿纽带，特别是梅兰妮 · 克莱因和唐纳德 · 温尼科特的工作。在这一领域工作的作者包括南希 · 乔多罗（《母性的再现，1978 年》）、多萝西 · 丁内斯坦（《美人鱼与牛头怪，1976 年》）和杰西卡 · 本杰明（《爱的纽带，1988 年》和《像主体一样，爱对象，1995 年》）。这种英美传统与受法国影响的传统的区别在于它强调前奥狄浦斯时期的社会性或互为主体性，以及它专注于整合、和谐和完整的价值观，而不是自我分裂和尊重内在异己的价值观。
 
 本节剩余部分将重点关注本雅明的工作，作为英美方法的典范，并澄清其与法国方法的不同和相似之处。与伊里加雷一样，本雅明对精神分析描绘社会生活为男性世界感到不安，这是建立在父子关系及其侵略、敌意、爱和哀悼基础上的。本雅明谴责这种“权力斗争”（本雅明，1988 年：6），在这种斗争中，女性仅仅是欲望的三角定位对象，本雅明认为，在身份形成过程中，主体被爱绑定到压迫性社会关系中。她担心“统治根植于被统治者的内心”（1988 年：5），女性对父权力量产生性爱依恋，她认为精神分析可以帮助解释这是如何以及为什么发生的。因此，精神分析不仅为本雅明提供了对个体心理的洞察，还提供了对政治权力和等级组织、结构和分配的洞察。她的目标是“把性别的深层结构把握为一种对立二元性，这种对立二元性是心理和文化表征共有的”（1988 年：218）。与克里斯蒂娃和伊里加雷不同，她们两位都质疑自然/文化区分的二元性和全面性，并强调象征性纽带的转化，本雅明强调（矛盾的）文化刻板印象在呈现我们所知道和生活的性别方面的作用，并强调社会转型的必要性。
 
@@ -181,23 +181,23 @@ Irigaray 和 Kristeva 经常被汇总在所谓的法国女性主义中，但从�
 * Barnard, Suzanne and Bruce Fink (eds.), 2002, *Reading Seminar XX: Lacan’s Major Work on Love, Knowledge, and Feminine Sexuality*, (SUNY Series in Psychoanalysis and Culture), Albany, NY: State University of New York Press.
 * Beauvoir, Simone de, 1947 [1949], *Pour une morale de l’ambiguïté*, (Collection Idées), Paris: Gallimard; translated as *The Ethics of Ambiguity*, Bernard Frechtman (trans.), New York: Philosophical Library, 1949.
 * –––, 1949 [1989], *Le Deuxième Sexe*, Paris: Gallimard; translated as *The Second Sex*, by H. M. Parshley, New York: Knopf, 1953; reprinted 1989; retranslated Constance Borde and Sheila Malovany-Chevallier (trans), New York: Knopf, 2010.
-* Bell, Vikki, 2010, “New Scenes of Vulnerability, Agency and Plurality: An Interview with Judith Butler”, *Theory, Culture & Society*, 27(1): 130–152. doi:10.1177/0263276409350371
+* Bell, Vikki, 2010, “New Scenes of Vulnerability, Agency and Plurality: An Interview with Judith Butler”, *Theory, Culture & Society*, 27(1): 130–152. doi: 10.1177/0263276409350371
 * Benjamin, Jessica, 1988, *The Bonds of Love: Psychoanalysis, Feminism, and the Problem of Domination*, New York: Pantheon Books.
 * –––, 1995, *Like Subjects, Love Objects: Essays on Recognition and Sexual Difference*, New Haven, CT: Yale University Press.
-* –––, 1998, *Shadow of the Other: Intersubjectivity and Gender in Psychoanalysis*, New York: Routledge. doi:10.4324/9780203948149
-* –––, 2017, *Beyond Doer and Done To: Recognition Theory, Intersubjectivity and the Third*, Abingdon/New YorY: Routledge. doi:10.4324/9781315437699
-* Brennan, Teresa, 1992, *The Interpretation of the Flesh: Freud and Femininity*, London ; New York: Routledge. doi:10.4324/9780203011102
-* –––, 1993, *History after Lacan*, London/New York: Routledge. doi:10.4324/9780203005095
-* Butler, Judith, 1993, *Bodies That Matter: On the Discursive Limits of “Sex”*, New York: Routledge. doi:10.4324/9780203828274
+* –––, 1998, *Shadow of the Other: Intersubjectivity and Gender in Psychoanalysis*, New York: Routledge. doi: 10.4324/9780203948149
+* –––, 2017, *Beyond Doer and Done To: Recognition Theory, Intersubjectivity and the Third*, Abingdon/New YorY: Routledge. doi: 10.4324/9781315437699
+* Brennan, Teresa, 1992, *The Interpretation of the Flesh: Freud and Femininity*, London ; New York: Routledge. doi: 10.4324/9780203011102
+* –––, 1993, *History after Lacan*, London/New York: Routledge. doi: 10.4324/9780203005095
+* Butler, Judith, 1993, *Bodies That Matter: On the Discursive Limits of “Sex”*, New York: Routledge. doi: 10.4324/9780203828274
 * –––, 1997, *The Psychic Life of Power: Theories in Subjection*, Stanford, CA: Stanford University Press.
-* –––, 1999, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge. doi:10.4324/9780203824979
+* –––, 1999, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge. doi: 10.4324/9780203824979
 * –––, 2004a, *Precarious Life: The Powers of Mourning and Violence*, London/New York: Verso.
-* –––, 2004b, *Undoing Gender*, New York: Routledge. doi:10.4324/9780203499627
+* –––, 2004b, *Undoing Gender*, New York: Routledge. doi: 10.4324/9780203499627
 * Butler, Judith, Ernesto Laciau, and Slavoj Žižek, 2000, *Contingency, Hegemony, Universality: Contemporary Dialogues on the Left*, (Phronesis), London: Verso.
 * Chodorow, Nancy, 1978, *The Reproduction of Mothering: Psychoanalysis and the Sociology of Gender*, Berkeley, CA: University of California Press.
 * Cixous, Hélène and Catherine Clément, 1975 [1986], *La jeune née*, Paris: Union générale d’éditions; translated as *The Newly Born Woman*, Betsy Wing (trans.), (Theory and History of Literature 24), Minneapolis, MN: University of Minnesota Press, 1986.
 * Dinnerstein, Dorothy, 1976, *The Mermaid and the Minotaur: Sexual Arrangements and Human Malaise*, New York: Harper & Row.
-* Fast, Irene, 1991, *Von der Einheit zur Differenz: Psychoanalyse der Geschlechtsidentität*, (Psychoanalyse der Geschlechterdifferenz), Berlin/Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-76596-4
+* Fast, Irene, 1991, *Von der Einheit zur Differenz: Psychoanalyse der Geschlechtsidentität*, (Psychoanalyse der Geschlechterdifferenz), Berlin/Heidelberg: Springer Berlin Heidelberg. doi: 10.1007/978-3-642-76596-4
 * Frantz Fanon, 1952 [1967], *Peau noire, masques blancs*, Seuil; translated as *Black Skin White Masks*, Charles Lam Markmann (trans.), New York: Grove Press, 1967.
 * –––, 1961 [1963], *Les damnés de la terre*, Maspero; translated as *The Wretched of the Earth*, Constance Farrington (trans.), New York: Grove Press, 1963.
 * Freud, Anna, 1936 [1966], *Das Ich und die Abwehrmechanismen*, Wien: Internationaler Psychoanalyt; translated as *The Ego and the Mechanisms of Defence*, Cecil Baines (trans.), London: Hogarth Press; revised edition, New York: International Universities Press, 1966.
@@ -223,19 +223,19 @@ Irigaray 和 Kristeva 经常被汇总在所谓的法国女性主义中，但从�
 * Frenkel-Brunswik, Else, 1950 [2019], “Personality as Revealed Through Clinical Interviews”, Part II of *The Authoritarian Personality*, by T. W. Adorno, Else Frenkel-Brunswik, Daniel J. Levinson, and R. Nevitt Sanford, New York: Harper & Brothers, 2019.
 * Gallop, Jane, 1982, *The Daughter’s Seduction: Feminism and Psychoanalysis*, Ithaca, NY: Cornell University Press.
 * –––, 1985, *Reading Lacan*, Ithaca, NY: Cornell University Press.
-* Gammelgaard, Judy, 2017, “Why Dora Left: Freud and the Master Discourse”, *Studies in Gender and Sexuality*, 18(3): 201–211. doi:10.1080/15240657.2017.1349513
-* Grosz, Elizabeth, 1989, *Sexual Subversions: Three French Feminists*, Sydney/Winchester, MA: Allen & Unwin. doi:10.4324/9781003134350
-* –––, 1990, *Jacques Lacan: A Feminist Introduction*, London/New York: Routledge. doi:10.4324/9780203133538
+* Gammelgaard, Judy, 2017, “Why Dora Left: Freud and the Master Discourse”, *Studies in Gender and Sexuality*, 18(3): 201–211. doi: 10.1080/15240657.2017.1349513
+* Grosz, Elizabeth, 1989, *Sexual Subversions: Three French Feminists*, Sydney/Winchester, MA: Allen & Unwin. doi: 10.4324/9781003134350
+* –––, 1990, *Jacques Lacan: A Feminist Introduction*, London/New York: Routledge. doi: 10.4324/9780203133538
 * Irigaray, Luce, 1974 [1985a], *Speculum de l’autre Femme*, (Collection Critique), Paris: Editions de Minuit; translated as *Speculum of the Other Woman*, Gillian C. Gill (trans.), Ithaca, NY: Cornell University Press, 1985.
 * –––, 1977 [1985b], *Ce sexe qui n’en est pas un*, (Collection Critique), Paris: Éditions de Minuit; translated as *This Sex Which Is Not One*, Catherine Porter (trans.), Ithaca, NY: Cornell University Press, 1985.
 * –––, 1984 [1993a], *Ethique de la différence sexuelle*, (Collection Critique), Paris: Editions de Minuit; translated as *An Ethics of Sexual Difference*, Carolyn Burke and Gillian C. Gill (trans.), Ithaca, NY: Cornell University Press, 1993.
 * –––, 1987 [1993b], *Sexes et Parentés*, (Collection Critique), Paris: Editions de minuit; translated as *Sexes and Genealogies*, Gillian C. Gill (trans.), New York: Columbia University Press, 1993.
 * –––, 1989 [1994], *Le temps de la différence: pour une révolution pacifique*, (Livre de poche ; Biblio essais 4110), Paris: Librairie générale française; translated as *Thinking the Difference: For a Peaceful Revolution*, Karin Montin (trans.), New York: Routledge, 1994.
-* –––, 1990 [1993c], *Je, tu, nous: pour une culture de la différence*, Paris: B. Grasset; translated as *Je, Tu, Nous: Toward a Culture of Difference*, Alison Martin (trans.), New York: Routledge, 1993. doi:10.4324/9780203724033
-* –––, 1992 [1996], *J’aime à toi: esquisse d’une félicité dans l’histoire*, Paris: B. Grasset; translated as *I Love to You: Sketch for a Felicity within History*, Alison Martin (trans.), New York: Routledge, 1996. doi:10.4324/9781315865959
-* –––, 1994 [2000], *La democrazia comincia a due*, Torino: Bollati Boringhieri; translated as *Democracy Begins between Two*, Kirsteen Anderson (trans.), London: Athlone Press, 2000. doi:10.4324/9780203724248
-* –––, 1995a, “‘Je—Luce Irigaray’: A Meeting with Luce Irigaray”, interview by Elizabeth Hirsh and Gary Olson, *Hypatia*, 10(2): 93–114. doi:10.1111/j.1527-2001.1995.tb01371.x
-* –––, 1995b, “The Question of the Other”, Noah Guynn (trans.), *Yale French Studies*, 87: 7–19. doi:10.2307/2930321
+* –––, 1990 [1993c], *Je, tu, nous: pour une culture de la différence*, Paris: B. Grasset; translated as *Je, Tu, Nous: Toward a Culture of Difference*, Alison Martin (trans.), New York: Routledge, 1993. doi: 10.4324/9780203724033
+* –––, 1992 [1996], *J’aime à toi: esquisse d’une félicité dans l’histoire*, Paris: B. Grasset; translated as *I Love to You: Sketch for a Felicity within History*, Alison Martin (trans.), New York: Routledge, 1996. doi: 10.4324/9781315865959
+* –––, 1994 [2000], *La democrazia comincia a due*, Torino: Bollati Boringhieri; translated as *Democracy Begins between Two*, Kirsteen Anderson (trans.), London: Athlone Press, 2000. doi: 10.4324/9780203724248
+* –––, 1995a, “‘Je—Luce Irigaray’: A Meeting with Luce Irigaray”, interview by Elizabeth Hirsh and Gary Olson, *Hypatia*, 10(2): 93–114. doi: 10.1111/j.1527-2001.1995.tb01371.x
+* –––, 1995b, “The Question of the Other”, Noah Guynn (trans.), *Yale French Studies*, 87: 7–19. doi: 10.2307/2930321
 * Klein, Melanie, 1975a, *Love, Guilt, and Reparation & Other Works, 1921–1945*, New York: Delacorte Press/S. Lawrence.
 * –––, 1975b, *Envy and Gratitude, and Other Works, 1946–1963*, London: Hogarth Press and the Institute of Psycho-Analysis.
 * Kofman, Sarah, 1980 [1985], *L’énigme de la femme: la femme dans les textes de Freud*, Paris: Galilée; translated as *The Enigma of Woman: Woman in Freud’s Writings*, Catherine Porter (trans.), Ithaca, NY: Cornell University Press, 1985.
@@ -260,17 +260,17 @@ Irigaray 和 Kristeva 经常被汇总在所谓的法国女性主义中，但从�
 * –––, 2004 [2016], *Anxiety*, A. R. Price (trans.), Cambridge: Polity.
 * –––, 2005 [2008], *Mon enseignement*, (Paradoxes de Lacan), Paris: Seuil; translated as *My Teaching*, David Macey (trans.), London/New York: Verso, 2008. Three previously unpublished lectures.
 * Laplanche, Jean and Jean-Bertrand Pontalis, 1967 [1973], *Vocabulaire de la psychanalyse*, (Bibliothèque de psychanalyse), Paris: Presses Universitaires de France; translated as *The Language of Psycho-Analysis*, Donald Nicholson-Smith (trans.), London: Hogarth Press, 1973.
-* Leeb, Claudia, 2017, *Power and Feminist Agency in Capitalism: Toward a New Theory of the Political Subject*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190639891.001.0001
+* Leeb, Claudia, 2017, *Power and Feminist Agency in Capitalism: Toward a New Theory of the Political Subject*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190639891.001.0001
 * –––, 2020, “The Hysteric Rebels: Rethinking Radical Socio-Political Transformation with Foucault and Lacan”, *Theory & Event*, 23(3): 607–640.
 * –––, forthcoming, *Contesting the Far Right: A Psychoanalytic and Feminist Critical Theory Approach*, New York: Columbia University Press.
 * Mitchell, Juliet, 1974, *Psychoanalysis and Feminism*, New York, Pantheon Books.
 * –––, 1982, “Introduction—I”, to Lacan 1982; 1–26.
-* Rohde-Dachser, Christa, 1991, *Expedition in den dunklen Kontinent: Weiblichkeit im Diskurs der Psychoanalyse*, (Psychoanalyse der Geschlechterdifferenz), Berlin/Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-662-07152-6
+* Rohde-Dachser, Christa, 1991, *Expedition in den dunklen Kontinent: Weiblichkeit im Diskurs der Psychoanalyse*, (Psychoanalyse der Geschlechterdifferenz), Berlin/Heidelberg: Springer Berlin Heidelberg. doi: 10.1007/978-3-662-07152-6
 * Rose, Jacqueline, 1982, “Introduction—II”, to Lacan 1982: 27–58.
 * –––, 1986, *Sexuality in the Field of Vision*, London: Verso.
 * Rothenberg, Molly Anne, 2010, *The Excessive Subject: A New Theory of Social Change*, Cambridge, UK/Malden, MA: Polity.
 * Salecl, Renata, 2002, “Love Anxieties”, in Barnard and Fink 2002: 93–97.
-* –––, 2004, *On Anxiety*, (Thinking in Action), London/New York: Routledge. doi:10.4324/9780203508282
+* –––, 2004, *On Anxiety*, (Thinking in Action), London/New York: Routledge. doi: 10.4324/9780203508282
 * –––, 2020, *A Passion for Ignorance: What We Choose Not to Know and Why*, Princeton, NJ: Princeton University Press.
 * Winnicott, D. W., 1971, *Playing and Reality*, New York: Basic Books.
 * Young, Iris Marion, 1990, *Justice and the Politics of Difference*, Princeton, NJ: Princeton University Press.
@@ -286,19 +286,19 @@ Irigaray 和 Kristeva 经常被汇总在所谓的法国女性主义中，但从�
 * Cimitile, Maria and Elaine P. Miller (eds.), 2007, *Returning to Irigaray: Feminist Philosophy, Politics, and the Question of Unity*, (SUNY Series in Gender Theory), Albany, NY: State University of New York Press.
 * Copjec, Joan, 1994, *Read My Desire: Lacan against the Historicists*, Cambridge, MA: MIT Press.
 * –––, 2002, *Imagine There’s No Woman: Ethics and Sublimation*, Cambridge, MA: MIT Press.
-* Cornell, Drucilla, 1993, *Transformations: Recollective Imagination and Sexual Difference*, New York: Routledge. doi:10.4324/9780203760246
+* Cornell, Drucilla, 1993, *Transformations: Recollective Imagination and Sexual Difference*, New York: Routledge. doi: 10.4324/9780203760246
 * Deutscher, Penelope, 2002, *A Politics of Impossible Difference: The Later Work of Luce Irigaray*, Ithaca, NY: Cornell University Press.
 * de Lauretis, Teresa, 1994, *The Practice of Love: Lesbian Sexuality and Perverse Desire*, Bloomington, IN: Indiana University Press.
 * McAfee, Noëlle, 2021, *Feminism: A Quick Immersion*, New York: Tibidabo Publishing.
 * Oliver, Kelly, 2004, *The Colonization of Psychic Space: A Psychoanalytic Social Theory of Oppression*, Minneapolis, MN: University of Minnesota Press.
-* Rabate, Jean-Michel, 2003, *The Cambridge Companion to Lacan*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521807441
+* Rabate, Jean-Michel, 2003, *The Cambridge Companion to Lacan*, Cambridge: Cambridge University Press. doi: 10.1017/CCOL0521807441
 * Ruti, Mari, 2018, *Penis Envy and Other Bad Feelings: The Emotional Costs of Everyday Life*, New York: Columbia University Press.
-* Shepherdson, Charles, 2000, *Vital Signs: Nature, Culture, Psychoanalysis*, New York: Routledge. doi:10.4324/9780203902059
+* Shepherdson, Charles, 2000, *Vital Signs: Nature, Culture, Psychoanalysis*, New York: Routledge. doi: 10.4324/9780203902059
 * Sjöholm, Cecilia, 2005, *Kristeva and the Political*, (Thinking the Political), London/New York: Routledge.
 * Soler, Colette, 2003 [2006], *Ce que Lacan disait des femmes: étude de psychanalyse*, Paris: Champ lacanien; translated as *What Lacan Said about Women: A Psychoanalytic Study*, John Holland (trans.), New York: Other Press, 2006.
-* Stone, Alison, 2006, *Luce Irigaray and the Philosophy of Sexual Difference*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511617287
-* Whitford, Margaret, 1991, *Luce Irigaray: Philosophy in the Feminine*, London/New York: Routledge. doi:10.4324/9781315824741
-* Zakin, Emily, 2000, “Bridging the Social and the Symbolic: Toward a Feminist Politics of Sexual Difference”, *Hypatia*, 15(3): 19–44. doi:10.1111/j.1527-2001.2000.tb00329.x
+* Stone, Alison, 2006, *Luce Irigaray and the Philosophy of Sexual Difference*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511617287
+* Whitford, Margaret, 1991, *Luce Irigaray: Philosophy in the Feminine*, London/New York: Routledge. doi: 10.4324/9781315824741
+* Zakin, Emily, 2000, “Bridging the Social and the Symbolic: Toward a Feminist Politics of Sexual Difference”, *Hypatia*, 15(3): 19–44. doi: 10.1111/j.1527-2001.2000.tb00329.x
 * Ziarek, Ewa Płonowska, 2001, *An Ethics of Dissensus: Postmodernity, Feminism, and the Politics of Radical Democracy*, Stanford, CA: Stanford University Press.
 
 ## Academic Tools

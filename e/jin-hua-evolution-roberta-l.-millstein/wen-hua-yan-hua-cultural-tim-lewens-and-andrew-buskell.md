@@ -18,7 +18,7 @@
 
 正如许多人所指出的，包括达尔文在内，这种解释性模式并未说明是什么机制解释了父代和子代之间的相似之处。例如，后代可能从父母那里学习技能，从而在行为上与他们相似。从自然选择解释的角度来看，后代为何与父母相似并不重要，只要他们确实与父母相似即可。更重要的是，与自然选择解释相关的一般模式甚至不需要一个繁殖生物的种群：它适用于任何情况，其中一个世代的实体产生了在随后一代中相似的实体。在这个意义上，它是基质中立的。
 
-达尔文本人明确表示，自然选择可以作用于除生物体以外的实体，这是在语言变化的文化现象背景下探讨的。这一立场在《物种起源》中简要探讨，并在《人类的由来》中进一步展开。在后一部作品中，他支持了马克斯·米勒的观点。
+达尔文本人明确表示，自然选择可以作用于除生物体以外的实体，这是在语言变化的文化现象背景下探讨的。这一立场在《物种起源》中简要探讨，并在《人类的由来》中进一步展开。在后一部作品中，他支持了马克斯 · 米勒的观点。
 
 > “在每种语言中，单词和语法形式之间不断进行着生存之争。更好、更简短、更简单的形式不断占据上风，它们的成功归功于其固有的优点”。（达尔文 1871: 60 \[1877: 91]，改编自穆勒 1870: 257）
 
@@ -88,7 +88,7 @@ Jablonka 和 Lamb 利用动物和人类典型社会遗传模式之间的特征�
 
 在文化演化学家之间可能存在对文化的信息特征的大致共识，甚至可能是传播的社会性质，但在文化领域的选择或复制的性质上存在较少的共识。
 
-怀疑论证已经奠定了基础。例如，Fracchia 和 Lewontin（1999: 72–78）声称在文化演化中不存在生物繁殖和自然选择的类似物。他们认为这严重削弱了类比的预测和解释能力。更糟糕的是，他们说试图将文化纳入进化方案是拘泥成规的，削减了社会权力关系和他们认为是解释文化变革核心的“社会文化特殊性”。Fracchia 和 Lewontin 相反主张将文化变革理解为一种固有的历史过程，解释应该涉及群体的特定文化历史（这种方法与 Sahlins 的\[1985]非常相似）。
+怀疑论证已经奠定了基础。例如，Fracchia 和 Lewontin（1999: 72–78）声称在文化演化中不存在生物繁殖和自然选择的类似物。他们认为这严重削弱了类比的预测和解释能力。更糟糕的是，他们说试图将文化纳入进化方案是拘泥成规的，削减了社会权力关系和他们认为是解释文化变革核心的“社会文化特殊性”。Fracchia 和 Lewontin 相反主张将文化变革理解为一种固有的历史过程，解释应该涉及群体的特定文化历史（这种方法与 Sahlins 的\[1985] 非常相似）。
 
 作为回应，文化演化研究人员提出了一个嵌套式的解释框架分类法，研究人员可以应用这些框架来理解文化，其类别反映了生物学和文化之间类比的应用日益紧密。希望能够将像 Fracchia 和 Lewontin 这样的担忧限制在最严格的方法集中，从而为更自由的解释释放出更多空间，作为实证工作的基础。
 
@@ -104,7 +104,7 @@ Claidière, Scott-Phillips, 和 Sperber (2014) 举例来说，区分了用于解
 
 ## 一个强有力的类比：模因和模因学
 
-再次考虑模因理论。这一理论最初由理查德·道金斯（1976）提出，也许是将进化思维应用于文化的最著名尝试。尽管如此，虽然它受到了相当多的关注，但在科学界并未得到很好的确立（尽管请参阅 Shennan 2008, 2011，这些工作采用了模因视角）。
+再次考虑模因理论。这一理论最初由理查德 · 道金斯（1976）提出，也许是将进化思维应用于文化的最著名尝试。尽管如此，虽然它受到了相当多的关注，但在科学界并未得到很好的确立（尽管请参阅 Shennan 2008, 2011，这些工作采用了模因视角）。
 
 文化演化理论在文化层面和生物演化之间建立了强烈的类比。它从对选择的抽象描述开始，将其视为一个需要能够繁殖的实体的过程，使得父母类似于后代。它继续采取了更具挑战性的观点，由道金斯广泛宣传，即具有制作自身忠实复制品能力的实体——所谓的“复制体”——被要求来解释这种代际相似性。在标准的生物演化模型中，假定基因是相关的复制体。基因复制自身，这种能力解释了为什么后代生物与其父母相似。如果文化要发展演化，因此就必须找到一些能够解释文化传承的文化复制体。模因扮演了这个角色。道金斯列出了一些典型的模因：“曲调、思想、流行语、服装时尚、制作陶罐的方式或建造拱门的方法”。请注意，虽然有时假定所有模因都是思想（反之亦然），但道金斯的清单包括其他类型的事物，如制作陶罐的方式，这些是技术（参见复制和繁殖条目）。
 
@@ -136,7 +136,7 @@ Claidière, Scott-Phillips, 和 Sperber (2014) 举例来说，区分了用于解
 
 这对模因理论构成了一个问题，因为在生物进化中，孟德尔的定律对解释进化动态的某些方面至关重要。孟德尔的定律依赖于将基因视为离散的、传递的单位。但是，如果一个个体中的特定思想可以出现是由于该个体接触了多个信息源，那么这就使得在文化演化中发现类似孟德尔定律的事物变得不太可能。这表明了一种实际的研究限制，可能是由于思想和基因之间的这种差异而产生的。
 
-威廉·温萨特（William Wimsatt，1999）对这种形式提出了有力的批评。他认为，人类用户的创造性和推理能力使得任何给定的想法或技术项目在不同时间段内可能有不同数量的文化家长。这是因为其再生产的因果来源可能会有所变化。对上帝的信仰有时可能是由接触到一个有魅力的传道者引起的，有时可能是由两个生物父母共同灌输引起的，有时可能是由一群有神论者的沉浸引起的。文化继承没有硬性规定。
+威廉 · 温萨特（William Wimsatt，1999）对这种形式提出了有力的批评。他认为，人类用户的创造性和推理能力使得任何给定的想法或技术项目在不同时间段内可能有不同数量的文化家长。这是因为其再生产的因果来源可能会有所变化。对上帝的信仰有时可能是由接触到一个有魅力的传道者引起的，有时可能是由两个生物父母共同灌输引起的，有时可能是由一群有神论者的沉浸引起的。文化继承没有硬性规定。
 
 技术的思想和物品也没有稳定的类似于基因组或生殖细胞系的东西，因为技术再生产周期中的不同元素，包括思想、工匠的行为以及技术本身的材料元素，都可以根据人类代理人所关注的内容暂时获得复制体的地位。在制作陶罐的过程中，一个人的心理构想、制作陶罐的行为或者最终的陶罐本身的意外变化，都有可能在另一位工匠制作类似物品时被复制。Wimsatt 利用这些不类似之处来强调任何试图使用种群遗传模型来解释文化变化所面临的严峻问题。
 
@@ -146,7 +146,7 @@ Claidière, Scott-Phillips, 和 Sperber (2014) 举例来说，区分了用于解
 
 这里存在两个问题。第一个问题是文化是否可以被分解成特征，以及在多大程度上可以，如果可以的话，如何分解。Cao (2020) 认为，文化特征应该主要是相对于学习和传递它们的代理人的兴趣和能力而个体化的。尽管这确实提供了一条路径来个体化和区分文化特征，但这对于模因论者来说应该是个苦涩的安慰。请记住，对于模因论者来说，模因是独立于代理人的兴趣而个体化的，代理人被认为只是进一步模因再生产的宿主或脚手架。
 
-第二个问题涉及复制在离散特征上的运作程度，无论这些特征是如何个体化的。例如，人类学家亚当·库珀（Adam Kuper）抱怨说，
+第二个问题涉及复制在离散特征上的运作程度，无论这些特征是如何个体化的。例如，人类学家亚当 · 库珀（Adam Kuper）抱怨说，
 
 > 与基因不同，文化特征并非颗粒状。有关上帝的观念无法与它在特定宗教中不可分割地联系在一起的其他观念分离。（Kuper 2000: 180）
 
@@ -274,7 +274,7 @@ Richerson and colleagues 对于标签化的这些担忧不以为然
 
 ### 6.4 Evolvability6.4 演化能力
 
-达尔文的理论旨在解释适应性（见适应主义条目）。前两节已经涉及了随着时间推移新文化适应性出现所需的一般条件。在有机领域，这些条件有时被理解为“进化能力”的一般标题。最近几年，文化进化进化能力的哲学分析由金·斯特尔尼（例如，2001 年，2003 年，2006a 年，2006b 年，2007 年，2012 年，2021a 年）开创。让我们再次通过从有机领域开始来说明这些问题的一般性质。
+达尔文的理论旨在解释适应性（见适应主义条目）。前两节已经涉及了随着时间推移新文化适应性出现所需的一般条件。在有机领域，这些条件有时被理解为“进化能力”的一般标题。最近几年，文化进化进化能力的哲学分析由金 · 斯特尔尼（例如，2001 年，2003 年，2006a 年，2006b 年，2007 年，2012 年，2021a 年）开创。让我们再次通过从有机领域开始来说明这些问题的一般性质。
 
 自然选择所需的基本条件——后代在适应性增强特征方面与父母相似——即使可以帮助解释功能性特征的出现，也不足以解释它。环境也需要合作：如果选择性压力变化非常快，那么就不会有持续的环境需求，这种需求可能会随着时间的推移建立复杂的适应性（Boyd & Richerson 1985）。发育也很重要。如果发育被设置成任何一个特征的变化往往伴随着所有其他特征的变化，那么累积适应性将很难实现。即使在那些突变对一个特征的功能做出积极贡献的情况下，它也很可能会通过破坏其他特征的功能而对适应性产生负面影响（尽管，参见 Brown 2021）。发育还需要提供广泛的变异范围。如果受到严格限制，以至于只有少数形式是可能的，那么选择就没有提供足够广泛的原材料来塑造复杂的特征。
 
@@ -306,134 +306,134 @@ Richerson and colleagues 对于标签化的这些担忧不以为然
 
 ## Bibliography
 
-* Acerbi, Alberto and Alex Mesoudi, 2015, “If We Are All Cultural Darwinians What’s the Fuss about? Clarifying Recent Disagreements in the Field of Cultural Evolution”, *Biology & Philosophy*, 30(4): 481–503. doi:10.1007/s10539-015-9490-2
-* Acerbi, Alberto, Magnus Enquist, and Stefano Ghirlanda, 2009, “Cultural Evolution and Individual Development of Openness and Conservatism”, *Proceedings of the National Academy of Sciences*, USA, 106(45): 18931–18935. doi:10.1073/pnas.0908889106
-* Aunger, Robert (ed.), 2000, *Darwinizing Culture: The Status of Memetics as a Science*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780192632449.001.0001
+* Acerbi, Alberto and Alex Mesoudi, 2015, “If We Are All Cultural Darwinians What’s the Fuss about? Clarifying Recent Disagreements in the Field of Cultural Evolution”, *Biology & Philosophy*, 30(4): 481–503. doi: 10.1007/s10539-015-9490-2
+* Acerbi, Alberto, Magnus Enquist, and Stefano Ghirlanda, 2009, “Cultural Evolution and Individual Development of Openness and Conservatism”, *Proceedings of the National Academy of Sciences*, USA, 106(45): 18931–18935. doi: 10.1073/pnas.0908889106
+* Aunger, Robert (ed.), 2000, *Darwinizing Culture: The Status of Memetics as a Science*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780192632449.001.0001
 * Axelrod, Robert M., 1997, *The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration*, (Princeton Studies in Complexity), Princeton, NJ: Princeton University Press.
-* Birch, Jonathan, 2017, *The Philosophy of Social Evolution*, Oxford: Oxford University Press. doi:10.1093/oso/9780198733058.001.0001
-* Birch, Jonathan and Andrew Buskell, 2022, “How We Got Stuck: The Origins of Hierarchy and Inequality”, *Mind & Language*, 37(4): 751–759. doi:10.1111/mila.12420
+* Birch, Jonathan, 2017, *The Philosophy of Social Evolution*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198733058.001.0001
+* Birch, Jonathan and Andrew Buskell, 2022, “How We Got Stuck: The Origins of Hierarchy and Inequality”, *Mind & Language*, 37(4): 751–759. doi: 10.1111/mila.12420
 * Bourdieu, Pierre, 1972 \[1977], *Esquisse d’une théorie de la pratique, précédé de trois études d’ethnologie kabyle*, Switzerland: Libraire Droz. Translated with revisions as *Outline of a Theory of Practice*, Richard Nice (trans.), (Cambridge Studies in Social Anthropology 16), Cambridge: Cambridge University Press, 1977.
 * Boyd, Robert and Richerson, Peter J., 1985, *Culture and the Evolutionary Process*, Chicago: University of Chicago Press.
 * –––, 2000, “Memes: Universal Acid or a Better Mousetrap?”, in Aunger 2000: 143–162 (ch. 7).
 * –––, 2005, *The Origin and Evolution of Cultures*, Oxford/New York: Oxford University Press
-* –––, 2009, “Culture and the Evolution of Human Cooperation”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1533): 3281–3288. doi:10.1098/rstb.2009.0134
-* Brown, Rachael L., 2021, “Is Cultural Evolution Always Fast? Challenging the Idea That Cognitive Gadgets Would Be Capable of Rapid and Adaptive Evolution”, *Synthese*, 199(3–4): 8965–8989. doi:10.1007/s11229-021-03190-9
-* Buskell, Andrew, 2017a, “What Are Cultural Attractors?”, *Biology & Philosophy*, 32(3): 377–394. doi:10.1007/s10539-017-9570-6
-* –––, 2017b, “Cultural Attractor Theory and Explanation”, *Philosophy, Theory, and Practice in Biology*, 9: article 13. doi:10.3998/ptb.6959004.0009.013
-* –––, 2019, “Looking for Middle Ground in Cultural Attraction Theory”, *Evolutionary Anthropology: Issues, News, and Reviews*, 28(1): 14–17. doi:10.1002/evan.21762
-* –––, 2022, “Cumulative Culture and Complex Cultural Traditions”, *Mind & Language*, 37(3): 284–303. doi:10.1111/mila.12335
-* –––, forthcoming, “Demographic Cultures and Demographic Skepticism”, *Review of Philosophy and Psychology*, first online: 8 April 2022. doi:10.1007/s13164-022-00626-0
-* Buskell, Andrew, Magnus Enquist, and Fredrik Jansson, 2019, “A Systems Approach to Cultural Evolution”, *Palgrave Communications*, 5: article 131. doi:10.1057/s41599-019-0343-5
-* Buskell, Andrew and Claudio Tennie, forthcoming, “Mere Recurrence and Cumulative Culture at the Margins”, *The British Journal for the Philosophy of Science*, first online: 25 October 2021. doi:10.1086/717776
-* Cabrera, Frank, 2017, “Cladistic Parsimony, Historical Linguistics and Cultural Phylogenetics”, *Mind & Language*, 32(1): 65–100. doi:10.1111/mila.12133
+* –––, 2009, “Culture and the Evolution of Human Cooperation”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1533): 3281–3288. doi: 10.1098/rstb.2009.0134
+* Brown, Rachael L., 2021, “Is Cultural Evolution Always Fast? Challenging the Idea That Cognitive Gadgets Would Be Capable of Rapid and Adaptive Evolution”, *Synthese*, 199(3–4): 8965–8989. doi: 10.1007/s11229-021-03190-9
+* Buskell, Andrew, 2017a, “What Are Cultural Attractors?”, *Biology & Philosophy*, 32(3): 377–394. doi: 10.1007/s10539-017-9570-6
+* –––, 2017b, “Cultural Attractor Theory and Explanation”, *Philosophy, Theory, and Practice in Biology*, 9: article 13. doi: 10.3998/ptb.6959004.0009.013
+* –––, 2019, “Looking for Middle Ground in Cultural Attraction Theory”, *Evolutionary Anthropology: Issues, News, and Reviews*, 28(1): 14–17. doi: 10.1002/evan.21762
+* –––, 2022, “Cumulative Culture and Complex Cultural Traditions”, *Mind & Language*, 37(3): 284–303. doi: 10.1111/mila.12335
+* –––, forthcoming, “Demographic Cultures and Demographic Skepticism”, *Review of Philosophy and Psychology*, first online: 8 April 2022. doi: 10.1007/s13164-022-00626-0
+* Buskell, Andrew, Magnus Enquist, and Fredrik Jansson, 2019, “A Systems Approach to Cultural Evolution”, *Palgrave Communications*, 5: article 131. doi: 10.1057/s41599-019-0343-5
+* Buskell, Andrew and Claudio Tennie, forthcoming, “Mere Recurrence and Cumulative Culture at the Margins”, *The British Journal for the Philosophy of Science*, first online: 25 October 2021. doi: 10.1086/717776
+* Cabrera, Frank, 2017, “Cladistic Parsimony, Historical Linguistics and Cultural Phylogenetics”, *Mind & Language*, 32(1): 65–100. doi: 10.1111/mila.12133
 * Calcott, Brett and Kim Sterelny, 2011, “Introduction: A Dynamic View of Evolution”, in *The Major Transitions in Evolution Revisited*, Brett Calcott and Kim Sterelny (eds.), (Vienna Series in Theoretical Biology), Cambridge, MA: MIT Press, 1–14.
-* Cao, Rosa, 2020, “Crowding out Memetic Explanation”, *Philosophy of Science*, 87(5): 1160–1171. doi:10.1086/710518
+* Cao, Rosa, 2020, “Crowding out Memetic Explanation”, *Philosophy of Science*, 87(5): 1160–1171. doi: 10.1086/710518
 * Cavalli-Sforza, Luca Luigi and Marcus W. Feldman, 1981, *Cultural Transmission and Evolution: A Quantitative Approach*, (Monographs in Population Biology 16), Princeton, NJ: Princeton University Press.
-* Centola, Damon, 2015, “The Social Origins of Networks and Diffusion”, *American Journal of Sociology*, 120(5): 1295–1338. doi:10.1086/681275
-* Charbonneau, Mathieu, 2016, “Modularity and Recombination in Technological Evolution”, *Philosophy & Technology*, 29(4): 373–392. doi:10.1007/s13347-016-0228-0
-* –––, 2020, “Understanding Cultural Fidelity”, *The British Journal for the Philosophy of Science*, 71(4): 1209–1233. doi:10.1093/bjps/axy052
-* Charbonneau, Mathieu and Pierrick Bourrat, 2021, “Fidelity and the Grain Problem in Cultural Evolution”, *Synthese*, 199(3–4): 5815–5836. doi:10.1007/s11229-021-03047-1
-* Chellappoo, Azita, 2021, “Rethinking Prestige Bias”, *Synthese*, 198(9): 8191–8212. doi:10.1007/s11229-020-02565-8
-* –––, 2022, “When Can Cultural Selection Explain Adaptation?”, *Biology & Philosophy*, 37(1): article 2. doi:10.1007/s10539-021-09831-0
-* Claidière, Nicolas, Thomas C. Scott-Phillips, and Dan Sperber, 2014, “How Darwinian Is Cultural Evolution?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 369(1642): 20130368. doi:10.1098/rstb.2013.0368
-* Claidière, Nicolas and Dan Sperber, 2007, “The Role of Attraction in Cultural Evolution”, *Journal of Cognition and Culture*, 7(1–2): 89–111. doi:10.1163/156853707X171829
-* Clarke, Ellen and Cecilia Heyes, 2017, “The Swashbuckling Anthropologist: Henrich on The Secret of Our Success”, *Biology & Philosophy*, 32(2): 289–305. doi:10.1007/s10539-016-9554-y
+* Centola, Damon, 2015, “The Social Origins of Networks and Diffusion”, *American Journal of Sociology*, 120(5): 1295–1338. doi: 10.1086/681275
+* Charbonneau, Mathieu, 2016, “Modularity and Recombination in Technological Evolution”, *Philosophy & Technology*, 29(4): 373–392. doi: 10.1007/s13347-016-0228-0
+* –––, 2020, “Understanding Cultural Fidelity”, *The British Journal for the Philosophy of Science*, 71(4): 1209–1233. doi: 10.1093/bjps/axy052
+* Charbonneau, Mathieu and Pierrick Bourrat, 2021, “Fidelity and the Grain Problem in Cultural Evolution”, *Synthese*, 199(3–4): 5815–5836. doi: 10.1007/s11229-021-03047-1
+* Chellappoo, Azita, 2021, “Rethinking Prestige Bias”, *Synthese*, 198(9): 8191–8212. doi: 10.1007/s11229-020-02565-8
+* –––, 2022, “When Can Cultural Selection Explain Adaptation?”, *Biology & Philosophy*, 37(1): article 2. doi: 10.1007/s10539-021-09831-0
+* Claidière, Nicolas, Thomas C. Scott-Phillips, and Dan Sperber, 2014, “How Darwinian Is Cultural Evolution?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 369(1642): 20130368. doi: 10.1098/rstb.2013.0368
+* Claidière, Nicolas and Dan Sperber, 2007, “The Role of Attraction in Cultural Evolution”, *Journal of Cognition and Culture*, 7(1–2): 89–111. doi: 10.1163/156853707X171829
+* Clarke, Ellen and Cecilia Heyes, 2017, “The Swashbuckling Anthropologist: Henrich on The Secret of Our Success”, *Biology & Philosophy*, 32(2): 289–305. doi: 10.1007/s10539-016-9554-y
 * Darwin, Charles, 1859, *On the Origin of Species*, London: John Murray. First edition reprinted with an introduction by Ernst Mayr, Harvard: Harvard University Press, 1964.
 * –––, 1871/1877, *The Descent of Man*, London: John Murray. Second edition 1877. Reprint of second edition, with an introduction by Adrian Desmond and James Moore, London: Penguin, 2004.
 * Dawkins, Richard, 1976, *The Selfish Gene*, Oxford/New York: Oxford University Press.
 * Deacon, Terrence W., 1997, *The Symbolic Species*, London: Allen Lane.
 * Dennett, Daniel C., 2017, *From Bacteria to Bach and Back: The Evolution of Minds*, New York: W.W. Norton & Company.
 * Descola, Philippe, 2005 \[2013], *Par-delà nature et culture*, (Bibliothèque des sciences humaines), Paris: Gallimard. Translated as *Beyond Nature and Culture*, Janet Lloyd (trans.), Chicago/London: The University of Chicago Press, 2013.
-* Driscoll, Catherine, 2017, “The Evolutionary Culture Concepts”, *Philosophy of Science*, 84(1): 35–55. doi:10.1086/688934
-* Enquist, Magnus, Pontus Strimling, Kimmo Eriksson, Kevin Laland, and Jonas Sjostrand, 2010, “One Cultural Parent Makes No Culture”, *Animal Behaviour*, 79(6): 1353–1362. doi:10.1016/j.anbehav.2010.03.009
-* Falandays, J. Benjamin and Paul E. Smaldino, 2022, “The Emergence of Cultural Attractors: How Dynamic Populations of Learners Achieve Collective Cognitive Alignment”, *Cognitive Science*, 46(8): e13183. doi:10.1111/cogs.13183
-* Feinman, Gary M. and Jill E. Neitzel, 2020, “Excising Culture History from Contemporary Archaeology”, *Journal of Anthropological Archaeology*, 60: article 101230. doi:10.1016/j.jaa.2020.101230
-* Fracchia, Joseph and Richard C. Lewontin, 1999, “Does Culture Evolve?”, *History and Theory*, 38(4): 52–78. doi:10.1111/0018-2656.00104
-* Gjesfjeld, Erik, Jonathan Chang, Daniele Silvestro, Christopher Kelty, and Michael Alfaro, 2016, “Competition and Extinction Explain the Evolution of Diversity in American Automobiles”, *Palgrave Communications*, 2: article 16019. doi:10.1057/palcomms.2016.19
-* Gjesfjeld, Erik and Peter Jordan, 2019, “Contributions of Bayesian Phylogenetics to Exploring Patterns of Macroevolution in Archaeological Data”, in *Handbook of Evolutionary Research in Archaeology*, Anna Marie Prentiss (ed.), Cham: Springer International Publishing, 161–182. doi:10.1007/978-3-030-11117-5\_9
-* Godfrey-Smith, Peter, 2012, “Darwinism and Cultural Change”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1599): 2160–2170. doi:10.1098/rstb.2012.0118
-* Goldberg, Amir and Sarah K. Stein, 2018, “Beyond Social Contagion: Associative Diffusion and the Emergence of Cultural Variation”, *American Sociological Review*, 83(5): 897–932. doi:10.1177/0003122418797576
-* Gould, Stephen Jay, 1988, *An Urchin in the Storm: Essays about Books and Ideas*, New York: W.W. Norton.
-* Gray, Russell D., Simon J. Greenhill, and Robert M. Ross, 2007, “The Pleasures and Perils of Darwinizing Culture (with Phylogenies)”, *Biological Theory*, 2(4): 360–375. doi:10.1162/biot.2007.2.4.360
-* Gray, Russell D. and Joseph Watts, 2017, “Cultural Macroevolution Matters”, *Proceedings of the National Academy of Sciences*, USA, 114(30): 7846–7852. doi:10.1073/pnas.1620746114
-* Griffiths, Paul E., 2001, “Genetic Information: A Metaphor In Search of a Theory”, *Philosophy of Science*, 68(3): 394–412. doi:10.1086/392891
-* Haidle, Miriam Noël and Oliver Schlaudt, 2020, “Where Does Cumulative Culture Begin? A Plea for a Sociologically Informed Perspective”, *Biological Theory*, 15(3): 161–174. doi:10.1007/s13752-020-00351-w
-* Harris, Paul L. and Kathleen H. Corriveau, 2011, “Young Children’s Selective Trust in Informants”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1179–1187. doi:10.1098/rstb.2010.0321
-* Henrich, Joseph Patrick, 2001, “Cultural Transmission and the Diffusion of Innovations: Adoption Dynamics Indicate That Biased Cultural Transmission Is the Predominate Force in Behavioral Change”, *American Anthropologist*, 103(4): 992–1013. doi:10.1525/aa.2001.103.4.992
-* –––, 2016, *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton: Princeton University Press. doi:10.1515/9781400873296
-* –––, 2020, *The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous*, New York: Farrar, Strauss and Giroux.
-* Henrich, Joe and Robert Boyd, 1998, “The Evolution of Conformist Transmission and the Emergence of Between-Group Differences”, *Evolution and Human Behavior*, 19(4): 215–241. doi:10.1016/S1090-5138(98)00018-X
-* Henrich, Joseph and James Broesch, 2011, “On the Nature of Cultural Transmission Networks: Evidence from Fijian Villages for Adaptive Learning Biases”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1139–1148. doi:10.1098/rstb.2010.0323
-* Henrich, Joseph and Richard McElreath, 2003, “The Evolution of Cultural Evolution”, *Evolutionary Anthropology: Issues, News, and Reviews*, 12(3): 123–135. doi:10.1002/evan.10110
-* Heyes, Cecilia, 2018, *Cognitive Gadgets: The Cultural Evolution of Thinking*, Cambridge, MA: Harvard University Press.
-* Ingold, Tim, 2007, “The Trouble with ‘Evolutionary Biology’”, *Anthropology Today*, 23(2): 13–17. doi:10.1111/j.1467-8322.2007.00497.x
-* Jablonka, Eva and Marion J. Lamb, 2005, *Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life*, (Life and Mind), Cambridge, MA: MIT Press.
-* –––, 2006, “The Evolution of Information in the Major Transitions”, *Journal of Theoretical Biology*, 239(2): 236–246. doi:10.1016/j.jtbi.2005.08.038
-* Jansson, Fredrik, Elliot Aguilar, Alberto Acerbi, and Magnus Enquist, 2021, “Modelling Cultural Systems and Selective Filters”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1828): rstb.20200045. doi:10.1098/rstb.2020.0045
-* Jordan, Peter, 2015, *Technology as Human Social Tradition: Cultural Transmission among Hunter-Gatherers*, (Origins of Human Behavior and Culture 7), Oakland, CA: University of California Press.
-* Kelly, Piers, James Winters, Helena Miton, and Olivier Morin, 2021, “The Predictable Evolution of Letter Shapes: An Emergent Script of West Africa Recapitulates Historical Change in Writing Systems”, *Current Anthropology*, 62(6): 669–691. doi:10.1086/717779
-* Kincaid, Harold (ed.), 2012, *The Oxford Handbook of Philosophy of Social Science*, (Oxford Handbooks), Oxford/New York: Oxford University Press. doi:10.1093/oxfordhb/9780195392753.001.0001
-* Kuper, Adam, 1999, *Culture: The Anthropologists’ Account*, Cambridge, MA: Harvard University Press.
+* Driscoll, Catherine, 2017, “The Evolutionary Culture Concepts”, *Philosophy of Science*, 84(1): 35–55. doi: 10.1086/688934
+* Enquist, Magnus, Pontus Strimling, Kimmo Eriksson, Kevin Laland, and Jonas Sjostrand, 2010, “One Cultural Parent Makes No Culture”, *Animal Behaviour*, 79(6): 1353–1362. doi: 10.1016/j.anbehav.2010.03.009
+* Falandays, J. Benjamin and Paul E. Smaldino, 2022, “The Emergence of Cultural Attractors: How Dynamic Populations of Learners Achieve Collective Cognitive Alignment”, *Cognitive Science*, 46(8): e13183. doi: 10.1111/cogs.13183
+* Feinman, Gary M. and Jill E. Neitzel, 2020, “Excising Culture History from Contemporary Archaeology”, *Journal of Anthropological Archaeology*, 60: article 101230. doi: 10.1016/j.jaa.2020.101230
+* Fracchia, Joseph and Richard C. Lewontin, 1999, “Does Culture Evolve?”, *History and Theory*, 38(4): 52–78. doi: 10.1111/0018-2656.00104
+* Gjesfjeld, Erik, Jonathan Chang, Daniele Silvestro, Christopher Kelty, and Michael Alfaro, 2016, “Competition and Extinction Explain the Evolution of Diversity in American Automobiles”, *Palgrave Communications*, 2: article 16019. doi: 10.1057/palcomms.2016.19
+* Gjesfjeld, Erik and Peter Jordan, 2019, “Contributions of Bayesian Phylogenetics to Exploring Patterns of Macroevolution in Archaeological Data”, in *Handbook of Evolutionary Research in Archaeology*, Anna Marie Prentiss (ed.), Cham: Springer International Publishing, 161–182. doi: 10.1007/978-3-030-11117-5\_9
+* Godfrey-Smith, Peter, 2012, “Darwinism and Cultural Change”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1599): 2160–2170. doi: 10.1098/rstb.2012.0118
+* Goldberg, Amir and Sarah K. Stein, 2018, “Beyond Social Contagion: Associative Diffusion and the Emergence of Cultural Variation”, * American Sociological Review*, 83(5): 897–932. doi: 10.1177/0003122418797576
+* Gould, Stephen Jay, 1988, * An Urchin in the Storm: Essays about Books and Ideas*, New York: W.W. Norton.
+* Gray, Russell D., Simon J. Greenhill, and Robert M. Ross, 2007, “The Pleasures and Perils of Darwinizing Culture (with Phylogenies)”, * Biological Theory*, 2(4): 360–375. doi: 10.1162/biot.2007.2.4.360
+* Gray, Russell D. and Joseph Watts, 2017, “Cultural Macroevolution Matters”, * Proceedings of the National Academy of Sciences*, USA, 114(30): 7846–7852. doi: 10.1073/pnas.1620746114
+* Griffiths, Paul E., 2001, “Genetic Information: A Metaphor In Search of a Theory”, * Philosophy of Science*, 68(3): 394–412. doi: 10.1086/392891
+* Haidle, Miriam Noël and Oliver Schlaudt, 2020, “Where Does Cumulative Culture Begin? A Plea for a Sociologically Informed Perspective”, * Biological Theory*, 15(3): 161–174. doi: 10.1007/s13752-020-00351-w
+* Harris, Paul L. and Kathleen H. Corriveau, 2011, “Young Children’s Selective Trust in Informants”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1179–1187. doi: 10.1098/rstb.2010.0321
+* Henrich, Joseph Patrick, 2001, “Cultural Transmission and the Diffusion of Innovations: Adoption Dynamics Indicate That Biased Cultural Transmission Is the Predominate Force in Behavioral Change”, * American Anthropologist*, 103(4): 992–1013. doi: 10.1525/aa.2001.103.4.992
+* –––, 2016, * The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter*, Princeton: Princeton University Press. doi: 10.1515/9781400873296
+* –––, 2020, * The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous*, New York: Farrar, Strauss and Giroux.
+* Henrich, Joe and Robert Boyd, 1998, “The Evolution of Conformist Transmission and the Emergence of Between-Group Differences”, * Evolution and Human Behavior*, 19(4): 215–241. doi: 10.1016/S1090-5138(98)00018-X
+* Henrich, Joseph and James Broesch, 2011, “On the Nature of Cultural Transmission Networks: Evidence from Fijian Villages for Adaptive Learning Biases”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1139–1148. doi: 10.1098/rstb.2010.0323
+* Henrich, Joseph and Richard McElreath, 2003, “The Evolution of Cultural Evolution”, * Evolutionary Anthropology: Issues, News, and Reviews*, 12(3): 123–135. doi: 10.1002/evan.10110
+* Heyes, Cecilia, 2018, * Cognitive Gadgets: The Cultural Evolution of Thinking*, Cambridge, MA: Harvard University Press.
+* Ingold, Tim, 2007, “The Trouble with ‘Evolutionary Biology’”, * Anthropology Today*, 23(2): 13–17. doi: 10.1111/j.1467-8322.2007.00497.x
+* Jablonka, Eva and Marion J. Lamb, 2005, * Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life*, (Life and Mind), Cambridge, MA: MIT Press.
+* –––, 2006, “The Evolution of Information in the Major Transitions”, * Journal of Theoretical Biology*, 239(2): 236–246. doi: 10.1016/j.jtbi.2005.08.038
+* Jansson, Fredrik, Elliot Aguilar, Alberto Acerbi, and Magnus Enquist, 2021, “Modelling Cultural Systems and Selective Filters”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 376(1828): rstb.20200045. doi: 10.1098/rstb.2020.0045
+* Jordan, Peter, 2015, * Technology as Human Social Tradition: Cultural Transmission among Hunter-Gatherers*, (Origins of Human Behavior and Culture 7), Oakland, CA: University of California Press.
+* Kelly, Piers, James Winters, Helena Miton, and Olivier Morin, 2021, “The Predictable Evolution of Letter Shapes: An Emergent Script of West Africa Recapitulates Historical Change in Writing Systems”, * Current Anthropology*, 62(6): 669–691. doi: 10.1086/717779
+* Kincaid, Harold (ed.), 2012, * The Oxford Handbook of Philosophy of Social Science*, (Oxford Handbooks), Oxford/New York: Oxford University Press. doi: 10.1093/oxfordhb/9780195392753.001.0001
+* Kuper, Adam, 1999, * Culture: The Anthropologists’ Account*, Cambridge, MA: Harvard University Press.
 * –––, 2000, “If Memes are the Answer, What is the Question?”, in Aunger 2000: 175–188 (ch. 9).
-* Laland, Kevin N., 2017, *Darwin’s Unfinished Symphony: How Culture Made the Human Mind*, Princeton, NJ: Princeton University Press. doi:10.1515/9781400884872
-* Laland, Kevin N., John Odling-Smee, and Marcus W. Feldman, 2000, “Niche Construction, Biological Evolution, and Cultural Change”, *Behavioral and Brain Sciences*, 23(1): 131–146. doi:10.1017/S0140525X00002417
+* Laland, Kevin N., 2017, * Darwin’s Unfinished Symphony: How Culture Made the Human Mind*, Princeton, NJ: Princeton University Press. doi: 10.1515/9781400884872
+* Laland, Kevin N., John Odling-Smee, and Marcus W. Feldman, 2000, “Niche Construction, Biological Evolution, and Cultural Change”, * Behavioral and Brain Sciences*, 23(1): 131–146. doi: 10.1017/S0140525X00002417
 * Lewens, Tim, 2012, “Cultural Evolution: Integration and Skepticism”, in Kincaid 2012: 458–480 (ch. 19).
-* –––, 2015, *Cultural Evolution: Conceptual Challenges*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199674183.001.0001
-* –––, 2017, “Human Nature, Human Culture: The Case of Cultural Evolution”, *Interface Focus*, 7(5): article: 20170018. doi:10.1098/rsfs.2017.0018
-* Lyman, R. Lee, 2021, “On the Importance of Systematics to Archaeological Research: The Covariation of Typological Diversity and Morphological Disparity”, *Journal of Paleolithic Archaeology*, 4(1): article 3. doi:10.1007/s41982-021-00077-6
-* Mace, Ruth and Clare Holden, 2005, “A Phylogenetic Approach to Cultural Evolution”, *Trends in Ecology & Evolution*, 20(3): 116–121. doi:10.1016/j.tree.2004.12.002
-* Maynard Smith, John and Eörs Szathmáry, 1995, *The Major Transitions in Evolution*, Oxford/New York: W.H. Freeman Spektrum.
-* Mesoudi, Alex, 2011, *Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences*, Chicago: University of Chicago Press.
-* Mesoudi, Alex and Alex Thornton, 2018, “What Is Cumulative Cultural Evolution?”, *Proceedings of the Royal Society B: Biological Sciences*, 285(1880): 20180712. doi:10.1098/rspb.2018.0712
-* Mesoudi, Alex, Andrew Whiten, and Kevin N. Laland, 2006, “Towards a Unified Science of Cultural Evolution”, *Behavioral and Brain Sciences*, 29(4): 329–347. doi:10.1017/S0140525X06009083
-* Miton, Helena and Olivier Morin, 2021, “Graphic Complexity in Writing Systems”, *Cognition*, 214: article 104771. doi:10.1016/j.cognition.2021.104771
-* Mohr, John W., Christopher A. Bail, Margaret Frye, Jennifer C. Lena, Omar Lizardo, Terence E. McDonnell, Ann Mische, Iddo Tavory, and Frederick F.VE Wherry, 2019, *Measuring Culture*, New York: Columbia University Press. doi:10.7312/mohr18028
-* Morin, Olivier, 2011 \[2016a], *Comment les traditions naissent et meurent: la transmission culturelle*, Paris: Odile Jacob. Translated and revised by the author as *How Traditions Live and Die*, (Foundations of Human Interaction), Oxford/New York: Oxford University Press, 2016.
-* –––, 2016b, “The Disunity of Cultural Group Selection”, *Behavioral and Brain Sciences*, 39: e46. doi:10.1017/S0140525X15000199
-* Müller, Max, 1870, “Darwinism Tested by the Science of Language”, August Schleicher (trans.), *Nature*, 1(10): 256–259. doi:10.1038/001256a0
-* Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, *Behavioral and Brain Sciences*, 39: e1. doi:10.1017/S0140525X14001356
-* O’Brien, Michael J., R. Lee Lyman, Alex Mesoudi, and Todd L. VanPool, 2010, “Cultural Traits as Units of Analysis”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 365(1559): 3797–3806. doi:10.1098/rstb.2010.0012
-* Okasha, Samir, 2006, *Evolution and the Levels of Selection*, Oxford:: Clarendon Press. doi:10.1093/acprof:oso/9780199267972.001.0001
-* Ortner, Sherry B., 1984, “Theory in Anthropology since the Sixties”, *Comparative Studies in Society and History*, 26(1): 126–126. doi:10.1017/S0010417500010811
-* Oyama, Susan, 1985 \[2000], *The Ontogeny of Information: Developmental Systems and Evolution*, Cambridge/New York: Cambridge University Press. Second edition, revised and expanded, Durham, NC: Duke University Press, 2000. doi:10.1215/9780822380665
-* Perreault, Charles, 2012, “The Pace of Cultural Evolution”, Alex Mesoudi (ed.), *PLoS ONE*, 7(9): e45150. doi:10.1371/journal.pone.0045150
-* –––, 2019, *The Quality of the Archaeological Record*, Chicago: The University of Chicago Press.
-* Ramsey, Grant and Andreas De Block, 2017, “Is Cultural Fitness Hopelessly Confused?”, *The British Journal for the Philosophy of Science*, 68(2): 305–328. doi:10.1093/bjps/axv047
-* Richerson, Peter J. and Robert Boyd, 2005, *Not by Genes Alone: How Culture Transformed Human Evolution*, Chicago: University of Chicago Press.
-* Richerson, Peter, Ryan Baldini, Adrian V. Bell, Kathryn Demps, Karl Frost, Vicken Hillis, Sarah Mathew, Emily K. Newton, Nicole Naar, Lesley Newson, Cody Ross, Paul E. Smaldino, Timothy M. Waring, and Matthew Zefferman, 2016, “Cultural Group Selection Plays an Essential Role in Explaining Human Cooperation: A Sketch of the Evidence”, *Behavioral and Brain Sciences*, 39: e30. doi:10.1017/S0140525X1400106X
-* Riede, Felix, Astolfo G.M. Araujo, Michael C. Barton, Knut Andreas Bergsvik, Huw S. Groucutt, Shumon T. Hussain, Javier Fernandez‐Lopez de Pablo, Andreas Maier, Ben Marwick, Lydia Pyne, Kathryn Ranhorn, Natasha Reynolds, Julien Riel‐Salvatore, Florian Sauer, Kamil Serwatka, and Annabell Zander, 2020, “Cultural Taxonomies in the Paleolithic—Old Questions, Novel Perspectives”, *Evolutionary Anthropology: Issues, News, and Reviews*, 29(2): 49–52. doi:10.1002/evan.21819
+* –––, 2015, * Cultural Evolution: Conceptual Challenges*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199674183.001.0001
+* –––, 2017, “Human Nature, Human Culture: The Case of Cultural Evolution”, * Interface Focus*, 7(5): article: 20170018. doi: 10.1098/rsfs.2017.0018
+* Lyman, R. Lee, 2021, “On the Importance of Systematics to Archaeological Research: The Covariation of Typological Diversity and Morphological Disparity”, * Journal of Paleolithic Archaeology*, 4(1): article 3. doi: 10.1007/s41982-021-00077-6
+* Mace, Ruth and Clare Holden, 2005, “A Phylogenetic Approach to Cultural Evolution”, * Trends in Ecology & Evolution*, 20(3): 116–121. doi: 10.1016/j.tree.2004.12.002
+* Maynard Smith, John and Eörs Szathmáry, 1995, * The Major Transitions in Evolution*, Oxford/New York: W.H. Freeman Spektrum.
+* Mesoudi, Alex, 2011, * Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences*, Chicago: University of Chicago Press.
+* Mesoudi, Alex and Alex Thornton, 2018, “What Is Cumulative Cultural Evolution?”, * Proceedings of the Royal Society B: Biological Sciences*, 285(1880): 20180712. doi: 10.1098/rspb.2018.0712
+* Mesoudi, Alex, Andrew Whiten, and Kevin N. Laland, 2006, “Towards a Unified Science of Cultural Evolution”, * Behavioral and Brain Sciences*, 29(4): 329–347. doi: 10.1017/S0140525X06009083
+* Miton, Helena and Olivier Morin, 2021, “Graphic Complexity in Writing Systems”, * Cognition*, 214: article 104771. doi: 10.1016/j.cognition.2021.104771
+* Mohr, John W., Christopher A. Bail, Margaret Frye, Jennifer C. Lena, Omar Lizardo, Terence E. McDonnell, Ann Mische, Iddo Tavory, and Frederick F.VE Wherry, 2019, * Measuring Culture*, New York: Columbia University Press. doi: 10.7312/mohr18028
+* Morin, Olivier, 2011 \[2016a], * Comment les traditions naissent et meurent: la transmission culturelle *, Paris: Odile Jacob. Translated and revised by the author as * How Traditions Live and Die*, (Foundations of Human Interaction), Oxford/New York: Oxford University Press, 2016.
+* –––, 2016b, “The Disunity of Cultural Group Selection”, * Behavioral and Brain Sciences*, 39: e46. doi: 10.1017/S0140525X15000199
+* Müller, Max, 1870, “Darwinism Tested by the Science of Language”, August Schleicher (trans.), * Nature*, 1(10): 256–259. doi: 10.1038/001256a0
+* Norenzayan, Ara, Azim F. Shariff, Will M. Gervais, Aiyana K. Willard, Rita A. McNamara, Edward Slingerland, and Joseph Henrich, 2016, “The Cultural Evolution of Prosocial Religions”, * Behavioral and Brain Sciences*, 39: e1. doi: 10.1017/S0140525X14001356
+* O’Brien, Michael J., R. Lee Lyman, Alex Mesoudi, and Todd L. VanPool, 2010, “Cultural Traits as Units of Analysis”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 365(1559): 3797–3806. doi: 10.1098/rstb.2010.0012
+* Okasha, Samir, 2006, * Evolution and the Levels of Selection*, Oxford:: Clarendon Press. doi: 10.1093/acprof: oso/9780199267972.001.0001
+* Ortner, Sherry B., 1984, “Theory in Anthropology since the Sixties”, * Comparative Studies in Society and History*, 26(1): 126–126. doi: 10.1017/S0010417500010811
+* Oyama, Susan, 1985 \[2000], * The Ontogeny of Information: Developmental Systems and Evolution*, Cambridge/New York: Cambridge University Press. Second edition, revised and expanded, Durham, NC: Duke University Press, 2000. doi: 10.1215/9780822380665
+* Perreault, Charles, 2012, “The Pace of Cultural Evolution”, Alex Mesoudi (ed.), * PLoS ONE*, 7(9): e45150. doi: 10.1371/journal.pone.0045150
+* –––, 2019, * The Quality of the Archaeological Record*, Chicago: The University of Chicago Press.
+* Ramsey, Grant and Andreas De Block, 2017, “Is Cultural Fitness Hopelessly Confused?”, * The British Journal for the Philosophy of Science*, 68(2): 305–328. doi: 10.1093/bjps/axv047
+* Richerson, Peter J. and Robert Boyd, 2005, * Not by Genes Alone: How Culture Transformed Human Evolution*, Chicago: University of Chicago Press.
+* Richerson, Peter, Ryan Baldini, Adrian V. Bell, Kathryn Demps, Karl Frost, Vicken Hillis, Sarah Mathew, Emily K. Newton, Nicole Naar, Lesley Newson, Cody Ross, Paul E. Smaldino, Timothy M. Waring, and Matthew Zefferman, 2016, “Cultural Group Selection Plays an Essential Role in Explaining Human Cooperation: A Sketch of the Evidence”, * Behavioral and Brain Sciences*, 39: e30. doi: 10.1017/S0140525X1400106X
+* Riede, Felix, Astolfo G.M. Araujo, Michael C. Barton, Knut Andreas Bergsvik, Huw S. Groucutt, Shumon T. Hussain, Javier Fernandez‐Lopez de Pablo, Andreas Maier, Ben Marwick, Lydia Pyne, Kathryn Ranhorn, Natasha Reynolds, Julien Riel‐Salvatore, Florian Sauer, Kamil Serwatka, and Annabell Zander, 2020, “Cultural Taxonomies in the Paleolithic—Old Questions, Novel Perspectives”, * Evolutionary Anthropology: Issues, News, and Reviews*, 29(2): 49–52. doi: 10.1002/evan.21819
 * Risjord, Mark, 2012, “Models of Culture”, in Kincaid 2012: 387–408.
-* Rouse, Joseph, 2007, “Practice Theory”, in *Philosophy of Anthropology and Sociology*, Stephen P. Turner and Mark W. Risjord (eds.), Amsterdam/Boston: North-Holland, 639–681. doi:10.1016/B978-044451542-1/50020-9
-* Sahlins, Marshall, 1985, *Islands of History*, Chicago: University of Chicago Press.
-* Sartori, Andrew, 2005, “The Resonance of ‘Culture’: Framing a Problem in Global Concept-History”, *Comparative Studies in Society and History*, 47(4): 676–699. doi:10.1017/S0010417505000319
-* Schuppli, Caroline and Carel P. van Schaik, 2019, “Animal Cultures: How We’ve Only Seen the Tip of the Iceberg”, *Evolutionary Human Sciences*, 1: e2. doi:10.1017/ehs.2019.1
-* Sereno, Martin I., 1991, “Four Analogies between Biological and Cultural/Linguistic Evolution”, *Journal of Theoretical Biology*, 151(4): 467–507. doi:10.1016/S0022-5193(05)80366-2
-* Shennan, Stephen, 2008, “Canoes and Cultural Evolution”, *Proceedings of the National Academy of Sciences*, USA, 105(9): 3175–3176. doi:10.1073/pnas.0800666105
-* –––, 2011, “Descent with Modification and the Archaeological Record”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1070–1079. doi:10.1098/rstb.2010.0380
-* Sober, Elliott, 1991, “Models of Cultural Evolution”, in *Trees of Life: Essays in Philosophy of Biology*, Paul Griffiths (ed.), Dordrecht/Boston: Kluwer, 477–492.
-* Sperber, Dan, 1996, *Explaining Culture: A Naturalistic Approach*, London: Wiley.
+* Rouse, Joseph, 2007, “Practice Theory”, in * Philosophy of Anthropology and Sociology*, Stephen P. Turner and Mark W. Risjord (eds.), Amsterdam/Boston: North-Holland, 639–681. doi: 10.1016/B978-044451542-1/50020-9
+* Sahlins, Marshall, 1985, * Islands of History*, Chicago: University of Chicago Press.
+* Sartori, Andrew, 2005, “The Resonance of ‘Culture’: Framing a Problem in Global Concept-History”, * Comparative Studies in Society and History*, 47(4): 676–699. doi: 10.1017/S0010417505000319
+* Schuppli, Caroline and Carel P. van Schaik, 2019, “Animal Cultures: How We’ve Only Seen the Tip of the Iceberg”, * Evolutionary Human Sciences*, 1: e2. doi: 10.1017/ehs.2019.1
+* Sereno, Martin I., 1991, “Four Analogies between Biological and Cultural/Linguistic Evolution”, * Journal of Theoretical Biology*, 151(4): 467–507. doi: 10.1016/S0022-5193(05)80366-2
+* Shennan, Stephen, 2008, “Canoes and Cultural Evolution”, * Proceedings of the National Academy of Sciences*, USA, 105(9): 3175–3176. doi: 10.1073/pnas.0800666105
+* –––, 2011, “Descent with Modification and the Archaeological Record”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 366(1567): 1070–1079. doi: 10.1098/rstb.2010.0380
+* Sober, Elliott, 1991, “Models of Cultural Evolution”, in * Trees of Life: Essays in Philosophy of Biology*, Paul Griffiths (ed.), Dordrecht/Boston: Kluwer, 477–492.
+* Sperber, Dan, 1996, * Explaining Culture: A Naturalistic Approach*, London: Wiley.
 * –––, 2000, “An Objection to the Memetic Approach to Culture”, in Aunger 2000: 163–173 (ch. 8).
-* Stanley, Shaun, 2021, “Cultural Evolutionary Theory and the Significance of the Biology-Culture Analogy”, *Philosophy of the Social Sciences*, 51(2): 193–214. doi:10.1177/0048393120971554
-* Stegmann, Ulrich E., 2004, “The Arbitrariness of the Genetic Code”, *Biology & Philosophy*, 19(2): 205–222. doi:10.1023/B:BIPH.0000024412.82219.a6
-* Sterelny, Kim, 2001, “Niche Construction, Developmental Systems, and the Extended Replicator”, in *Cycles of Contingency: Developmental Systems and Evolution*, Susan Oyama, Paul E. Griffiths, and Russell D. Gray (eds.), (Life and Mind), Cambridge, MA: MIT Press, 333–349 (ch. 23).
-* –––, 2003, *Thought in a Hostile World: The Evolution of Human Cognition*, Malden, MA: Blackwell.
-* –––, 2006a, “Memes Revisited”, *The British Journal for the Philosophy of Science*, 57(1): 145–165. doi:10.1093/bjps/axi157
-* –––, 2006b, “The Evolution and Evolvability of Culture”, *Mind & Language*, 21(2): 137–165. doi:10.1111/j.0268-1064.2006.00309.x
-* –––, 2007, “SNAFUS: An Evolutionary Perspective”, *Biological Theory*, 2(3): 317–328. doi:10.1162/biot.2007.2.3.317
-* –––, 2012, *The Evolved Apprentice: How Evolution Made Humans Unique*, (Jean Nicod Lectures), Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262016797.001.0001
-* –––, 2016, “Cooperation, Culture, and Conflict”, *The British Journal for the Philosophy of Science*, 67(1): 31–58. doi:10.1093/bjps/axu024
-* –––, 2021a, “Foragers and Their Tools: Risk, Technology and Complexity”, *Topics in Cognitive Science*, 13(4): 728–749. doi:10.1111/tops.12559
-* –––, 2021b, *The Pleistocene Social Contract: Culture and Cooperation in Human Evolution*, New York: Oxford University Press. doi:10.1093/oso/9780197531389.001.0001
-* –––, 2022, “Further Thoughts on Hierarchy and Inequality”, *Mind & Language*, 37(4): 760–768. doi:10.1111/mila.12435
-* Steward, Julian Haynes, 1955, *Theory of Culture Change: The Methodology of Multilinear Evolution*, Urbana, IL: University of Illinois Press.
-* Strimling, Pontus, Magnus Enquist, and Kimmo Eriksson, 2009, “Repeated Learning Makes Cultural Evolution Unique”, *Proceedings of the National Academy of Sciences*, USA, 106(33): 13870–13874. doi:10.1073/pnas.0903180106
-* Tennie, Claudio, Josep Call, and Michael Tomasello, 2009, “Ratcheting up the Ratchet: On the Evolution of Cumulative Culture”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1528): 2405–2415. doi:10.1098/rstb.2009.0052
-* Tomasello, Michael, 1999, *The Cultural Origins of Human Cognition*, Cambridge, MA: Harvard University Press.
-* Tomasello, Michael, Ann Cale Kruger, and Hilary Horn Ratner, 1993, “Cultural Learning”, *Behavioral and Brain Sciences*, 16(3): 495–511. doi:10.1017/S0140525X0003123X
-* Waring, Timothy M. and Zachary T. Wood, 2021, “Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition”, *Proceedings of the Royal Society B: Biological Sciences*, 288(1952): 20210538. doi:10.1098/rspb.2021.0538
-* White, Leslie A., 1949, *The Science of Culture: A Study of Man and Civilization*, New York: Farrar, Straus.
-* Williams, George C., 1966, *Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought*, Princeton, NJ: Princeton University Press.
-* Wimsatt, William C., 1999, “Genes, Memes, and Cultural Heredity”, *Biology & Philosophy*, 14(2): 279–310. doi:10.1023/A:1006646703557
+* Stanley, Shaun, 2021, “Cultural Evolutionary Theory and the Significance of the Biology-Culture Analogy”, * Philosophy of the Social Sciences*, 51(2): 193–214. doi: 10.1177/0048393120971554
+* Stegmann, Ulrich E., 2004, “The Arbitrariness of the Genetic Code”, * Biology & Philosophy*, 19(2): 205–222. doi: 10.1023/B: BIPH.0000024412.82219.a6
+* Sterelny, Kim, 2001, “Niche Construction, Developmental Systems, and the Extended Replicator”, in * Cycles of Contingency: Developmental Systems and Evolution*, Susan Oyama, Paul E. Griffiths, and Russell D. Gray (eds.), (Life and Mind), Cambridge, MA: MIT Press, 333–349 (ch. 23).
+* –––, 2003, * Thought in a Hostile World: The Evolution of Human Cognition*, Malden, MA: Blackwell.
+* –––, 2006a, “Memes Revisited”, * The British Journal for the Philosophy of Science*, 57(1): 145–165. doi: 10.1093/bjps/axi157
+* –––, 2006b, “The Evolution and Evolvability of Culture”, * Mind & Language*, 21(2): 137–165. doi: 10.1111/j.0268-1064.2006.00309.x
+* –––, 2007, “SNAFUS: An Evolutionary Perspective”, * Biological Theory*, 2(3): 317–328. doi: 10.1162/biot.2007.2.3.317
+* –––, 2012, * The Evolved Apprentice: How Evolution Made Humans Unique*, (Jean Nicod Lectures), Cambridge, MA: The MIT Press. doi: 10.7551/mitpress/9780262016797.001.0001
+* –––, 2016, “Cooperation, Culture, and Conflict”, * The British Journal for the Philosophy of Science*, 67(1): 31–58. doi: 10.1093/bjps/axu024
+* –––, 2021a, “Foragers and Their Tools: Risk, Technology and Complexity”, * Topics in Cognitive Science*, 13(4): 728–749. doi: 10.1111/tops.12559
+* –––, 2021b, * The Pleistocene Social Contract: Culture and Cooperation in Human Evolution*, New York: Oxford University Press. doi: 10.1093/oso/9780197531389.001.0001
+* –––, 2022, “Further Thoughts on Hierarchy and Inequality”, * Mind & Language*, 37(4): 760–768. doi: 10.1111/mila.12435
+* Steward, Julian Haynes, 1955, * Theory of Culture Change: The Methodology of Multilinear Evolution*, Urbana, IL: University of Illinois Press.
+* Strimling, Pontus, Magnus Enquist, and Kimmo Eriksson, 2009, “Repeated Learning Makes Cultural Evolution Unique”, * Proceedings of the National Academy of Sciences*, USA, 106(33): 13870–13874. doi: 10.1073/pnas.0903180106
+* Tennie, Claudio, Josep Call, and Michael Tomasello, 2009, “Ratcheting up the Ratchet: On the Evolution of Cumulative Culture”, * Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1528): 2405–2415. doi: 10.1098/rstb.2009.0052
+* Tomasello, Michael, 1999, * The Cultural Origins of Human Cognition*, Cambridge, MA: Harvard University Press.
+* Tomasello, Michael, Ann Cale Kruger, and Hilary Horn Ratner, 1993, “Cultural Learning”, * Behavioral and Brain Sciences*, 16(3): 495–511. doi: 10.1017/S0140525X0003123X
+* Waring, Timothy M. and Zachary T. Wood, 2021, “Long-Term Gene–Culture Coevolution and the Human Evolutionary Transition”, * Proceedings of the Royal Society B: Biological Sciences*, 288(1952): 20210538. doi: 10.1098/rspb.2021.0538
+* White, Leslie A., 1949, * The Science of Culture: A Study of Man and Civilization*, New York: Farrar, Straus.
+* Williams, George C., 1966, * Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought*, Princeton, NJ: Princeton University Press.
+* Wimsatt, William C., 1999, “Genes, Memes, and Cultural Heredity”, * Biology & Philosophy*, 14(2): 279–310. doi: 10.1023/A: 1006646703557
 
 ## Academic Tools
 

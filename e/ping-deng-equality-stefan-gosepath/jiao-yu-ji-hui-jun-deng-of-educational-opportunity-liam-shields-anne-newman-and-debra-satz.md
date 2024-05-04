@@ -20,7 +20,7 @@
 
 ### 1.2 高质量教育机会的稀缺
 
-教育机会公平分配的问题尤为棘手，因为教育资源的分配是有限的。尽管发达社会为其公民提供一定程度的免费教育，但教育经费始终与提供其他社会福利的需求竞争。正如艾米·古特曼（Amy Gutmann）所写：“利用教育来最大化儿童的生活机会的代价将是放弃这些其他社会福利”（Gutmann 1999: 129）。其他基本福利需求（例如住房、医疗保健、食品）以及文化产品（例如博物馆、公园、音乐厅）必须与分配给教育的公共资金相权衡，从而使得即使在高度生产力社会中，高质量教育在一定程度上也是稀缺的。
+教育机会公平分配的问题尤为棘手，因为教育资源的分配是有限的。尽管发达社会为其公民提供一定程度的免费教育，但教育经费始终与提供其他社会福利的需求竞争。正如艾米 · 古特曼（Amy Gutmann）所写：“利用教育来最大化儿童的生活机会的代价将是放弃这些其他社会福利”（Gutmann 1999: 129）。其他基本福利需求（例如住房、医疗保健、食品）以及文化产品（例如博物馆、公园、音乐厅）必须与分配给教育的公共资金相权衡，从而使得即使在高度生产力社会中，高质量教育在一定程度上也是稀缺的。
 
 美国高等教育领域存在多方面的稀缺，吸引了来自世界各地的申请者。在美国，对于那些只录取不到 10%的高度选择性学院和大学，入学竞争激烈。在这个领域，富裕的家长有时会不惜代价为孩子的申请增光添彩，支付辅导、课外活动和招生辅导等费用——这些活动可能会让没有这些资源的申请者在入学过程中处于明显劣势。最近的“体育明星门”丑闻中，富裕家庭向一名大学教练支付了数百万美元，以换取其承诺能够被美国精英大学录取，这是一个极端案例，突显了与高度选择性大学相关的竞争程度。
 
@@ -66,7 +66,7 @@
 
 ### 教育机会是什么？
 
-彼得·韦斯顿（1985）提供了一个有用的机会定义，可应用于教育领域。对于韦斯顿来说，机会是一个代理人或一组代理人与一个期望的目标之间的关系，通过一定的障碍来中介，这些障碍都不是不可逾越的。例如，爱丽丝有机会接受教育，通过障碍，如入学、努力学习和老师的素质。
+彼得 · 韦斯顿（1985）提供了一个有用的机会定义，可应用于教育领域。对于韦斯顿来说，机会是一个代理人或一组代理人与一个期望的目标之间的关系，通过一定的障碍来中介，这些障碍都不是不可逾越的。例如，爱丽丝有机会接受教育，通过障碍，如入学、努力学习和老师的素质。
 
 将这个概念应用于教育背景时，我们需要回答关于谁是适当的行动者、适当的目标或目标是什么，以及是否存在任何合法的障碍的问题。例如，如果我们将被高度选择性大学录取作为我们的目标，并将某个国家的公民作为我们的行动者，我们可能会认为达到某种学术要求，比如通过入学考试，是一个相关的障碍，应该被允许阻碍目标的实现。在这种情况下，我们也会认为申请人的种族、性别或宗教信仰不应该成为障碍。当适当的群体只面对与适当目标相关的障碍时，我们可以说在该群体成员之间存在机会均等。
 
@@ -100,11 +100,11 @@
 
 在教育机会均等的优越性方面，除了参与精英主义修辞可能带来的毒性后果之外，还值得注意另外两个限制（Young 1958; Sandel 2020）。首先，正如已经提到的，值得争议的是对“优点”本身的定义。是否存在一个与正义观念完全独立的优点描述（Sen 2000）？优点是否仅仅是最大化生产力的东西？优点应该仅基于考试成绩，还是也应考虑道德属性，比如与他人合作的能力？
 
-第二个问题是，尽管将教育机会与“优点”联系起来在处理年轻成年人时看起来很有说服力，但当应用于非常年幼的儿童时，这是非常有问题的。正如迈克尔·沃尔泽（1983: 203）所指出的，阅读教师的工作是教孩子阅读，而不仅仅是提供学习阅读的机会。而这项工作很可能包括教室中的所有孩子，即使那些并非特别“优秀”的孩子。也许这也是为什么根据能力对非常年幼的儿童进行教育“跟踪”似乎特别令人反感的原因——所有孩子都需要培养某些能力（Satz 2007）。
+第二个问题是，尽管将教育机会与“优点”联系起来在处理年轻成年人时看起来很有说服力，但当应用于非常年幼的儿童时，这是非常有问题的。正如迈克尔 · 沃尔泽（1983: 203）所指出的，阅读教师的工作是教孩子阅读，而不仅仅是提供学习阅读的机会。而这项工作很可能包括教室中的所有孩子，即使那些并非特别“优秀”的孩子。也许这也是为什么根据能力对非常年幼的儿童进行教育“跟踪”似乎特别令人反感的原因——所有孩子都需要培养某些能力（Satz 2007）。
 
 ### 3.4 公平的教育机会
 
-由于正式机会均等的限制，约翰·罗尔斯（John Rawls）提出了他所称之为公平机会均等（FEO）的概念。FEO 要求社会职位和职位对所有人开放，并且具有类似才华和动机的个体应该有大致相等的机会获得这些职位，而不受其社会阶层背景的影响（Rawls 2001: 42–44）。FEO 认为社会的所有公民都是相关的行动者，期望的目标是职位和职位，人们不应该面对的障碍包括他们的社会阶层背景。人们可能合理面对的障碍包括拥有较少发展的能力或较少愿意使用它们。
+由于正式机会均等的限制，约翰 · 罗尔斯（John Rawls）提出了他所称之为公平机会均等（FEO）的概念。FEO 要求社会职位和职位对所有人开放，并且具有类似才华和动机的个体应该有大致相等的机会获得这些职位，而不受其社会阶层背景的影响（Rawls 2001: 42–44）。FEO 认为社会的所有公民都是相关的行动者，期望的目标是职位和职位，人们不应该面对的障碍包括他们的社会阶层背景。人们可能合理面对的障碍包括拥有较少发展的能力或较少愿意使用它们。
 
 在教育领域应用时，这一原则可能支持教育措施，缩小富人和穷人之间的成就差距，假设这些孩子可以被识别出来。这是因为来自较贫困背景的学生应该与具有相同潜力的更富裕的同龄人表现一样出色。FEO 的 Rawlsian 原则旨在消除社会背景和经济阶层对教育成就的影响。因此，公平的教育机会提供了对教育机会均等的激进解释。
 
@@ -118,7 +118,7 @@
 
 一些哲学家批评教育机会均等不够平等。这种批评有两种形式。首先，一些人声称，通过将公平机会与动机联系起来，教育机会均等在一个非理想的世界中缺乏力量，因为不平等经常导致被压迫者的志向减弱。如果几个世纪以来，女性被社会化为认为某些社会职位超出了她们的能力，并且因此她们没有动力去追求这些职位，那么教育机会均等是否有资源来批评这一点？
 
-第二个反对意见指出，社会运气的不平等（例如，出生在贫困家庭，这是教育机会均等要求机构纠正的）和自然运气的不平等（例如，天生具有较少的才能潜力，这是教育机会均等不要求机构纠正的）应该被同等对待。从道德角度来看，很容易认为这两种运气类型在道德上同样是任意的，并且这种任意性是不公正的根源。事实上，罗尔斯的一些言论似乎暗示了这一点。我们可能会问，为什么教育机构应该帮助缩小有才华的富人和有才华的穷人之间的差距，但不采取任何措施来缩小有才华和无才华学生之间的差距，当无才华就像社会阶级一样，是完全不可避免的。马修·克莱顿和理查德·阿尼森对罗尔斯提出了这一抱怨。克莱顿声称，罗尔斯自己的推理似乎更看重对两种运气类型的一致性。因此，罗尔斯应该接受一个不同的原则，适用于自然和社会运气，否则他必须容忍一种自然的贵族制度，无论是对才华还是财富。
+第二个反对意见指出，社会运气的不平等（例如，出生在贫困家庭，这是教育机会均等要求机构纠正的）和自然运气的不平等（例如，天生具有较少的才能潜力，这是教育机会均等不要求机构纠正的）应该被同等对待。从道德角度来看，很容易认为这两种运气类型在道德上同样是任意的，并且这种任意性是不公正的根源。事实上，罗尔斯的一些言论似乎暗示了这一点。我们可能会问，为什么教育机构应该帮助缩小有才华的富人和有才华的穷人之间的差距，但不采取任何措施来缩小有才华和无才华学生之间的差距，当无才华就像社会阶级一样，是完全不可避免的。马修 · 克莱顿和理查德 · 阿尼森对罗尔斯提出了这一抱怨。克莱顿声称，罗尔斯自己的推理似乎更看重对两种运气类型的一致性。因此，罗尔斯应该接受一个不同的原则，适用于自然和社会运气，否则他必须容忍一种自然的贵族制度，无论是对才华还是财富。
 
 对这些异议的部分回应将不得不捍卫 Rawlsian 理论在处理种族和性别作为公平机会的障碍以及 FEO 所保护的特定商品的资源。Rawls 本人将某些商品单独列出，认为它们比仅仅是收入和财富的商品更重要。在对第一个异议捍卫 Rawls 时，Seana Shiffrin（2004）认为 FEO 是一个“强有力的反歧视原则”，不应被从 Rawls 的两个原则整体中剔除。此外，它对这些异议的部分回应将不得不捍卫 Rawlsian 理论在处理种族和性别作为公平机会的障碍以及 FEO 所保护的特定商品的资源。Rawls 本人将某些商品单独列出，认为它们比仅仅是收入和财富的商品更重要。在对第一个异议捍卫 Rawls 时，Seana Shiffrin（2004）认为 FEO 是一个“强有力的反歧视原则”，不应被从 Rawls 的两个原则整体中剔除。此外，它
 
@@ -156,7 +156,7 @@
 
 关于公民教育领域中关于平等的持续辩论的另一个维度涉及我们教育学生成为成员的社区范围。分析的正确单位是特定的国家还是全球社区？如果是特定的国家，我们如何培养学生对其国家身份的认识和尊重其国家的制度和法律的倾向（以及在需要时倡导改革），同时也使他们敏感于作为正义问题而应付非公民的义务？这场辩论的一个关键组成部分是学生是否应该接受爱国主义公民教育——即，优先考虑巩固他们对国家的忠诚而不是反思其潜在缺点的能力。加尔斯顿（1989）曾明确主张学生需要一种更具修辞性而非理性性质的公民教育，而一些自由主义理论家则批评他的观点，认为其存在民主合法性、其现状偏见以及现有不平等可能僵化的相关可能性（例如，布赖豪斯 1998；卡兰 1997；另请参见有关公民教育的相关条目）。另一方面，如果我们对公民教育持有世界主义观点，并旨在培养“世界公民”（例如，纽斯鲍姆和科恩 1996），那么需要发挥哪些相关能力？没有世界国家供学生参与。
 
-无论一个人对公民教育的适当范围和内容持何种信念，一个紧迫的问题是学生极不平等的教育机会，这些机会应该为他们参与公民生活做好准备。梅拉·莱文森（Levinson 2012）关于“公民成就差距”的研究突显了这一点，强调了在学生群体之间存在着巨大的不平等，包括青少年对政府运作的了解以及他们有效参与公民生活的能力。这种低参与率和参与度也对穷人的利益如何受到对待产生了影响。事实上，即使一个人在这个领域拒绝机会均等，也有充分的证据表明，许多社会并没有做足够的努力，使他们更贫穷、教育水平较低的公民能够有效和胜任地参与公共生活。
+无论一个人对公民教育的适当范围和内容持何种信念，一个紧迫的问题是学生极不平等的教育机会，这些机会应该为他们参与公民生活做好准备。梅拉 · 莱文森（Levinson 2012）关于“公民成就差距”的研究突显了这一点，强调了在学生群体之间存在着巨大的不平等，包括青少年对政府运作的了解以及他们有效参与公民生活的能力。这种低参与率和参与度也对穷人的利益如何受到对待产生了影响。事实上，即使一个人在这个领域拒绝机会均等，也有充分的证据表明，许多社会并没有做足够的努力，使他们更贫穷、教育水平较低的公民能够有效和胜任地参与公共生活。
 
 ### 教育机会的平等和充足分配
 
@@ -204,95 +204,95 @@ Loury 因此认为，在高等教育中有一种偏好政策，可以将我们�
 
 ## Bibliography
 
-* Alexander, Larry A., 1985, “Fair Equality of Opportunity: John Rawls’ (Best) Forgotten Principle”, *Philosophy Research Archives*, 11: 197–208. doi:10.5840/pra19851111
-* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
-* –––, 2007, “Fair Opportunity in Education: A Democratic Equality Perspective”, *Ethics*, 117(4): 595–622. doi:10.1086/518806
+* Alexander, Larry A., 1985, “Fair Equality of Opportunity: John Rawls’ (Best) Forgotten Principle”, *Philosophy Research Archives*, 11: 197–208. doi: 10.5840/pra19851111
+* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
+* –––, 2007, “Fair Opportunity in Education: A Democratic Equality Perspective”, *Ethics*, 117(4): 595–622. doi: 10.1086/518806
 * –––, 2010, *The Imperative of Integration*, Princeton, NJ: Princeton University Press.
-* Arneson, Richard J., 1999, “Against Rawlsian Equality of Opportunity”, *Philosophical Studies*, 93(1): 77–112. doi:10.1023/A:1004270811433
+* Arneson, Richard J., 1999, “Against Rawlsian Equality of Opportunity”, *Philosophical Studies*, 93(1): 77–112. doi: 10.1023/A: 1004270811433
 * Arneson, Richard and Ian Shapiro, 1996, “Democratic Autonomy and Religious Liberty: A Critique of Wisconsin v. Yoder”, in *Political Order* (Nomos 38), Ian Shapiro and Russell Hardin (eds.), New York: New York University Press, pp. 365–411.
 * Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press.
-* Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 137–1176. doi:10.1257/jel.39.4.1137
-* Brighouse, Harry, 1998, “Civic Education and Liberal Legitimacy”, *Ethics*, 108(4): 719–745. doi:10.1086/233849
-* –––, 2001, “Can Justice as Fairness Accommodate the Disabled?”, *Social Theory and Practice*, 27(4): 537–560. doi:10.5840/soctheorpract200127433
-* Brighouse, Harry and Adam Swift, 2009, “Educational Equality Versus Educational Adequacy: A Critique of Anderson and Satz”, *Journal of Applied Philosophy*, 26(2): 117–128. doi:10.1111/j.1468-5930.2009.00438.x
+* Bowles, Samuel, Herbert Gintis, and Melissa Osborne, 2001, “The Determinants of Earnings: A Behavioral Approach”, *Journal of Economic Literature*, 39(4): 137–1176. doi: 10.1257/jel.39.4.1137
+* Brighouse, Harry, 1998, “Civic Education and Liberal Legitimacy”, *Ethics*, 108(4): 719–745. doi: 10.1086/233849
+* –––, 2001, “Can Justice as Fairness Accommodate the Disabled?”, *Social Theory and Practice*, 27(4): 537–560. doi: 10.5840/soctheorpract200127433
+* Brighouse, Harry and Adam Swift, 2009, “Educational Equality Versus Educational Adequacy: A Critique of Anderson and Satz”, *Journal of Applied Philosophy*, 26(2): 117–128. doi: 10.1111/j.1468-5930.2009.00438.x
 * –––, 2014, *Family Values: The Ethics of Parent-Child Relationships*, Princeton: Princeton University Press.
-* Callan, Eamonn, 1997, *Creating Citizens: Political Education and Liberal Democracy*, Oxford: Oxford University Press. doi:10.1093/0198292589.001.0001
-* –––, 2016, “Democracy, Equal Citizenship, and Education”, *Theory and Research in Education*, 14(1): 77–90. doi:10.1177/1477878515619789
+* Callan, Eamonn, 1997, *Creating Citizens: Political Education and Liberal Democracy*, Oxford: Oxford University Press. doi: 10.1093/0198292589.001.0001
+* –––, 2016, “Democracy, Equal Citizenship, and Education”, *Theory and Research in Education*, 14(1): 77–90. doi: 10.1177/1477878515619789
 * Carnevale, Anthony P., Stephen J. Rose, and Ban Cheah, 2011, *The College Payoff: Education, Occupations, Lifetime Earnings*, Washington, DC: Center on Education and the Workforce. [[Carnevale, Rose, & Cheah 2011 available online](https://cew.georgetown.edu/cew-reports/the-college-payoff/)]
-* Chetty, Raj, Nathaniel Hendren, Patrick Kline, & Emmanuel Saez, 2014, “Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States”, *The Quarterly Journal of Economics*, 129(4): 1553–1623. doi:10.3386/w19843
+* Chetty, Raj, Nathaniel Hendren, Patrick Kline, & Emmanuel Saez, 2014, “Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States”, *The Quarterly Journal of Economics*, 129(4): 1553–1623. doi: 10.3386/w19843
 * Clayton, Matthew, 2001, “Rawls And Natural Aristocracy”, *Croatian Journal Of Philosophy*, 1(3): 239–259.
 * Dee, Thomas S., 2004, “Are There Civic Returns to Education?”, *Journal of Public Economics*, 88(9–10): 1697–1720.
 * Duncan, Greg J. and Richard J. Murnane (eds.), 2011, *Whither Opportunity?: Rising Inequality, Schools, and Children’s Life Chances*. New York, NY: Russell Sage Foundation.
 * Friedman, Milton and Rose Friedman, 1990, *Free to Choose: A Personal Statement*, New York: Harcourt.
 * Galston, William, 1989, “Civic Education in the Liberal State”, in Nancy Rosenblum (ed.), *Liberalism and the Moral Life*, Cambridge, MA: Harvard University Press, pp. 89–102.
-* –––, 2001, “Political Knowledge, Political Engagement, and Civic Education”, *Annual Review of Political Science*, 4(1): 217–234. doi:10.1146/annurev.polisci.4.1.217
-* Gomberg, Paul, 1975, “IQ and Race: A Discussion of Some Confusions”, *Ethics*, 85(3): 258–266. doi:10.1086/291965
+* –––, 2001, “Political Knowledge, Political Engagement, and Civic Education”, *Annual Review of Political Science*, 4(1): 217–234. doi: 10.1146/annurev.polisci.4.1.217
+* Gomberg, Paul, 1975, “IQ and Race: A Discussion of Some Confusions”, *Ethics*, 85(3): 258–266. doi: 10.1086/291965
 * Guinier, Lani, 2016, *The Tyranny of the Meritocracy: Democratizing Higher Education in America*, Boston: Beacon Press.
-* Gutmann, Amy, 1995, “Civic Education and Social Diversity”, *Ethics*, 105(3): 557–579. doi:10.1086/293727
+* Gutmann, Amy, 1995, “Civic Education and Social Diversity”, *Ethics*, 105(3): 557–579. doi: 10.1086/293727
 * –––, 1999, *Democratic Education*. Princeton: Princeton University Press.
-* Heckman, James J. and Tim D. Kautz, 2012, “Hard Evidence on Soft Skills”, *Labour Economics*, 19(4): 451–464. doi:10.3386/w18121 doi:10.1016/j.labeco.2012.05.014
-* Hutton, John S., Tzipi Horowitz-Kraus, Alan L. Mendelsohn, Tom DeWitt, Scott K. Holland, & C-MIND Authorship Consortium, 2015, “Home Reading Environment and Brain Activation in Preschool Children Listening to Stories”, *Pediatrics*, 136(3): 466–478. doi:10.1542/peds.2015-0359
+* Heckman, James J. and Tim D. Kautz, 2012, “Hard Evidence on Soft Skills”, *Labour Economics*, 19(4): 451–464. doi: 10.3386/w18121 doi: 10.1016/j.labeco.2012.05.014
+* Hutton, John S., Tzipi Horowitz-Kraus, Alan L. Mendelsohn, Tom DeWitt, Scott K. Holland, & C-MIND Authorship Consortium, 2015, “Home Reading Environment and Brain Activation in Preschool Children Listening to Stories”, *Pediatrics*, 136(3): 466–478. doi: 10.1542/peds.2015-0359
 * Institute for Higher Education, 1998, *Reaping the Benefits: Defining the Public and Private Value of Going to College*, Washington, DC: Institute for Higher Education.
 * Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: the Theory and Practice of Egalitarian Justice*, Cambridge: Cambridge University Press.
-* –––, 2010, “Equality, Adequacy, And Stakes Fairness: Retrieving The Equal Opportunities In Education Approach”, *Theory And Research In Education*, 8(3): 249–268. doi:10.1177/1477878510381627
-* Jencks, Christopher, 1988, “Whom Must We Treat Equally for Educational Opportunity to be Equal?” *Ethics*, 98(3): 518–533. doi:10.1086/292969
+* –––, 2010, “Equality, Adequacy, And Stakes Fairness: Retrieving The Equal Opportunities In Education Approach”, *Theory And Research In Education*, 8(3): 249–268. doi: 10.1177/1477878510381627
+* Jencks, Christopher, 1988, “Whom Must We Treat Equally for Educational Opportunity to be Equal?” *Ethics*, 98(3): 518–533. doi: 10.1086/292969
 * Kittay, Eva, 1999, *Love’s Labor: Essays on Women, Equality, and Dependency*, New York: Routledge
 * Kozol, Jonathan, 1991, *Savage Inequalities: Children in America’s Schools*, New York: Broadway Books.
 * –––, 2005, *The Shame of the Nation: The Restoration of Apartheid Schooling in America*, New York: Broadway Books.
 * Lareau, Annette, 2011, *Unequal childhoods: Class, Race, and Family Life*, Oakland: University of California Press.
-* Levin, Henry M., 2012, “More Than Just Test Scores”, *Prospects*, 42(3): 269–284. doi:10.1007/s11125-012-9240-z
+* Levin, Henry M., 2012, “More Than Just Test Scores”, *Prospects*, 42(3): 269–284. doi: 10.1007/s11125-012-9240-z
 * Levinson, Meira, 2012, *No Citizen Left Behind*, Cambridge, MA: Harvard University Press.
-* Levinson, Meira, Tatiana Geron, and Harry Brighouse, 2022, “Conceptions of Educational Equity”, *AERA Open*, 8. doi:10.1177/23328584221121344
-* Levinson, Meira, Alan C. Geller, and Joseph G. Allen, 2021, “Health Equity, School Hesitancy, and the Social Determinants of Learning”, *The Lancet Regional Health – Americas*, 2: 100032. doi:10.1016/j.lana.2021.100032
-* Levinson, Meira, Muge Cevik, and Marc Lipsitch, 2020, “Reopening Primary Schools During the Pandemic”, *New England Journal of Medicine*, 383: 981–985. doi:10.1056/NEJMms2024920
+* Levinson, Meira, Tatiana Geron, and Harry Brighouse, 2022, “Conceptions of Educational Equity”, *AERA Open*, 8. doi: 10.1177/23328584221121344
+* Levinson, Meira, Alan C. Geller, and Joseph G. Allen, 2021, “Health Equity, School Hesitancy, and the Social Determinants of Learning”, *The Lancet Regional Health – Americas*, 2: 100032. doi: 10.1016/j.lana.2021.100032
+* Levinson, Meira, Muge Cevik, and Marc Lipsitch, 2020, “Reopening Primary Schools During the Pandemic”, *New England Journal of Medicine*, 383: 981–985. doi: 10.1056/NEJMms2024920
 * Liu, Goodwin, 2006, “Interstate Inequality in Educational Opportunity”, *New York University Law Review*, 81(6): 2044–2128.
-* Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigentics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
-* Loury, Glenn C., 1987, “Why Should We Care About Group Inequality”, *Social Philosophy and Policy* 5(1): 249–271. doi:10.1017/S0265052500001345
-* Miklosi, Zoltan, 2010, “How Does the Difference Principle Make a Difference?”, *Res Publica*, 16(3): 263–280. doi:10.1007/s11158-010-9123-1
-* Miller, David, 1996, “Two Cheers for Meritocracy”, *Journal of Political Philosophy*, 4(4): 277–301. doi:10.1111/j.1467-9760.1996.tb00053.x
-* –––, 2009, “Equality Of Opportunity And The Family”, in Debra Satz and Rob Reich (eds.), *Toward A Humanist Justice: The Political Philosophy Of Susan Moller Okin*, New York, NY: Oxford University Press, pp. 93–112. doi:10.1093/acprof:oso/9780195337396.003.0006
-* Munoz-Dardé, Véronique, 1999, “Is the Family to be Abolished Then?”, *Proceedings of the Aristotelian Society*, 99: 37–56. doi:10.1111/1467-9264.00044
+* Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigentics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi: 10.1093/phe/pht019
+* Loury, Glenn C., 1987, “Why Should We Care About Group Inequality”, *Social Philosophy and Policy* 5(1): 249–271. doi: 10.1017/S0265052500001345
+* Miklosi, Zoltan, 2010, “How Does the Difference Principle Make a Difference?”, *Res Publica*, 16(3): 263–280. doi: 10.1007/s11158-010-9123-1
+* Miller, David, 1996, “Two Cheers for Meritocracy”, *Journal of Political Philosophy*, 4(4): 277–301. doi: 10.1111/j.1467-9760.1996.tb00053.x
+* –––, 2009, “Equality Of Opportunity And The Family”, in Debra Satz and Rob Reich (eds.), *Toward A Humanist Justice: The Political Philosophy Of Susan Moller Okin*, New York, NY: Oxford University Press, pp. 93–112. doi: 10.1093/acprof: oso/9780195337396.003.0006
+* Munoz-Dardé, Véronique, 1999, “Is the Family to be Abolished Then?”, *Proceedings of the Aristotelian Society*, 99: 37–56. doi: 10.1111/1467-9264.00044
 * Nozick, Robert, 1997, “*Life is Not a Race*”, in Louis P. Pojman and Robert Westmoreland (eds.), *Equality: Selected Readings*, New York: Oxford University Press, 167–169.
 * Nussbaum, Martha C., 2007, *Frontiers of Justice: Disability, Nationality, Species Membership*, Cambridge, MA: Belknap Press.
 * Nussbaum, Martha C. and Joshua Cohen, 1996, *For Love of Country?*, Boston: Beacon Press.
 * Oakes, Jeannie, 1985, *Keeping Track*. New Haven, CT: Yale University Press.
-* Phillips, Anne, 2004, “Defending Equality of Outcome”, *Journal of Political Philosophy*, 12(1): 1–19. doi:10.1111/j.1467-9760.2004.00188.x
+* Phillips, Anne, 2004, “Defending Equality of Outcome”, *Journal of Political Philosophy*, 12(1): 1–19. doi: 10.1111/j.1467-9760.2004.00188.x
 * Piketty, Thomas, 2014, *Capital in the Twenty-first Century*, Cambridge, MA: Harvard University Press.
 * Rawls, John, 1999, *A Theory of Justice, Revised Edition*, Cambridge, MA: Belknap Press.
 * –––, 2001, *Justice as Fairness: a Restatement*, Cambridge, MA: Harvard University Press.
 * –––, 2005, *Political Liberalism*, New York: Columbia University Press.
 * Reardon, Sean F., 2011, “The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations”, in Greg J. Duncan and Richard J. Murnane (eds.), *Whither Opportunity? Rising Inequality, Schools, and Children’s Life Chances*, New York, NY: Russel Sage Foundation, pp. 91–116.
-* Reardon, Sean F. and Kendra Bischoff, 2011, “Income Inequality and Income Segregation”, *American Journal of Sociology*, 116(4): 1092–1153. doi:10.1086/657114
+* Reardon, Sean F. and Kendra Bischoff, 2011, “Income Inequality and Income Segregation”, *American Journal of Sociology*, 116(4): 1092–1153. doi: 10.1086/657114
 * Reardon, Sean F., Joseph P. Robinson-Cimpian, and Ericka S. Weathers, 2015, “Patterns and Trends in Racial/Ethnic and Socioeconomic Academic Achievement Gaps”, in Helen F. Ladd and M.E. Goertz (eds.), *Handbook of Research in Education Finance and Policy (2nd Ed.)*, New York, NY: Routledge, pp. 497–516.
 * Rebell, Michael A., 2009, *Courts and Kids: Pursuing Educational Equity through the State Courts*, Chicago, IL: University of Chicago Press.
 * Reich, Rob, 2013, “*Equality, Adequacy, and K12 Education*”, in Danielle Allen and Rob Reich (eds.), *Education, Justice, and Democracy*, Chicago, IL: University of Chicago Press, pp. 623–648.
-* Robeyns, Ingrid, 2006, “Three Models of Education: Rights, Capabilities and Human Capital”, *Theory and Research in Education*, 4(1): 69–84. doi:10.1177/1477878506060683
+* Robeyns, Ingrid, 2006, “Three Models of Education: Rights, Capabilities and Human Capital”, *Theory and Research in Education*, 4(1): 69–84. doi: 10.1177/1477878506060683
 * Robinson, Kimberly Jenkins (ed.), 2019, *A Federal Right to Education: Fundamental Questions for Our Democracy*, New York: New York University Press.
 * Roemer, John E., 1998, *Equality of Opportunity*, Cambridge, MA: Harvard University Press.
 * Ryan, James E., 2007, “The Supreme Court and Voluntary Integration”, *Harvard Law Review*, 121(1): 131–157.
 * –––, 2008, “Standards, Testing, and School Finance Litigation”, *Texas Law Review*, 86: 1223–1262.
-* Saez, Emmanuel and Gabriel Zucman, 2014, *Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data* (NBER Working Paper no. 20625), Cambridge, MA: National Bureau of Economic Research. doi:10.3386/w20625
+* Saez, Emmanuel and Gabriel Zucman, 2014, *Wealth Inequality in the United States Since 1913: Evidence from Capitalized Income Tax Data* (NBER Working Paper no. 20625), Cambridge, MA: National Bureau of Economic Research. doi: 10.3386/w20625
 * Sahlberg, Pasi, 2011, *Finnish lessons*, New York: Teachers College Press.
 * Sandel, Michael, 2020, *The Tyranny of Merit: What’s Become of the Common Good?* New York: Farrar, Straus and Giroux.
-* Satz, Debra, 2007, “Equality, Adequacy, and Education for Citizenship”, *Ethics*, 117(4): 623–648. doi:10.1086/518805
-* Schoeman, Ferdinand, 1980, “Rights of Children, Rights of Parents, and the Moral Basis of the Family”, *Ethics*, 91(1): 6–19. doi:10.1086/292199
-* Schouten, Gina, 2012, “Fair Educational Opportunity and the Distribution of Natural Ability: Toward a Prioritarian Principle of Educational Justice”, *Journal of Philosophy of Education*, 46(3): 472–491. doi:10.1111/j.1467-9752.2012.00863.x
-* Schrag, Francis, 1976, “Justice and the Family”, *Inquiry*, 19(1–4): 193–208. doi:10.1080/00201747608601791
+* Satz, Debra, 2007, “Equality, Adequacy, and Education for Citizenship”, *Ethics*, 117(4): 623–648. doi: 10.1086/518805
+* Schoeman, Ferdinand, 1980, “Rights of Children, Rights of Parents, and the Moral Basis of the Family”, *Ethics*, 91(1): 6–19. doi: 10.1086/292199
+* Schouten, Gina, 2012, “Fair Educational Opportunity and the Distribution of Natural Ability: Toward a Prioritarian Principle of Educational Justice”, *Journal of Philosophy of Education*, 46(3): 472–491. doi: 10.1111/j.1467-9752.2012.00863.x
+* Schrag, Francis, 1976, “Justice and the Family”, *Inquiry*, 19(1–4): 193–208. doi: 10.1080/00201747608601791
 * Sen, Amartya, 2000, “*Merit and Justice*”, in Kenneth Arrow, Samuel Bowles, and Steven Durlauf (eds.), *Meritocracy and Economic Inequality*, Princeton: Princeton University Press, pp. 5–16.
-* Shields, Liam, 2015, “From Rawlsian Autonomy to Sufficient Opportunity in Education”, *Politics, Philosophy & Economics*, 14(1): 53–66. doi:10.1177/1470594X13505413
+* Shields, Liam, 2015, “From Rawlsian Autonomy to Sufficient Opportunity in Education”, *Politics, Philosophy & Economics*, 14(1): 53–66. doi: 10.1177/1470594X13505413
 * Shiffrin, Seana Valentine, 2004, “Race, Labor, And The Fair Equality Of Opportunity Principle”, *Fordham Law Review*, 72(5): 1643–1676.
-* Sparrow, Robert, 2005, “Defending Deaf Culture: the Case of Cochlear Implants”, *Journal of Political Philosophy*, 13(2): 135–152. doi:10.1111/j.1467-9760.2005.00217.x
+* Sparrow, Robert, 2005, “Defending Deaf Culture: the Case of Cochlear Implants”, *Journal of Political Philosophy*, 13(2): 135–152. doi: 10.1111/j.1467-9760.2005.00217.x
 * Spence, Michael, 1973, “Job Market Signaling”, *The Quarterly Journal of Economics*, 87(3): 355–374.
-* Stark, Cynthia A., 2013, “Luck, Opportunity and Disability”, *Critical Review of International Social and Political Philosophy*, 16(3): 383–402. doi:10.1080/13698230.2013.795701
-* Taylor, Robert S., 2004, “Self-realization and the Priority of Fair Equality of Opportunity”, *Journal of Moral Philosophy*, 1(3): 333–347. doi:10.1177/174046810400100307
-* Terzi, Lorella, 2005, “Beyond the Dilemma of Difference: The Capability Approach to Disability and Special Educational Needs”, *Journal of Philosophy of Education*, 39(3): 443–459. doi:10.1111/j.1467-9752.2005.00447.x
+* Stark, Cynthia A., 2013, “Luck, Opportunity and Disability”, *Critical Review of International Social and Political Philosophy*, 16(3): 383–402. doi: 10.1080/13698230.2013.795701
+* Taylor, Robert S., 2004, “Self-realization and the Priority of Fair Equality of Opportunity”, *Journal of Moral Philosophy*, 1(3): 333–347. doi: 10.1177/174046810400100307
+* Terzi, Lorella, 2005, “Beyond the Dilemma of Difference: The Capability Approach to Disability and Special Educational Needs”, *Journal of Philosophy of Education*, 39(3): 443–459. doi: 10.1111/j.1467-9752.2005.00447.x
 * –––, 2010, *Justice and Equality in Education: A Capability Perspective on Disability and Special Educational Needs*, New York: Continuum.
 * Verba, Sidney, Kay Lehman Schlozman and Henry E. Brady, 1995, *Voice and Equality: Civic Voluntarism in American Politics*, Cambridge, MA: Harvard University Press.
 * Walzer, Michael, 1983, *Spheres of Justice: A Defense of Pluralism and Equality*, New York: Basic.
 * Warnock, Mary, 2005, “Special Educational Needs: A New Look”, Philosophy of Education Society of Great Britain.
-* Westen, Peter, 1985, “The Concept of Equal Opportunity”, *Ethics*, 95(4): 837–850. doi:10.1086/292687
+* Westen, Peter, 1985, “The Concept of Equal Opportunity”, *Ethics*, 95(4): 837–850. doi: 10.1086/292687
 * Williams, Bernard, 1962, “*The Idea of Equality*”, in Peter Laslett and W.G. Runciman (eds.), *Philosophy, Politics and Society, Second Series*, Oxford: Blackwell, pp. 112–17.
-* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi:10.1111/j.1088-4963.1998.tb00063.x
+* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi: 10.1111/j.1088-4963.1998.tb00063.x
 * Young, Michael, 1958, *The Rise of the Meritocracy,* New Brunswick, NJ: Thames and Hudson.
 
 ## Academic Tools

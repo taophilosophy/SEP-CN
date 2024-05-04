@@ -18,7 +18,7 @@
 
 心灵外在主义有早期观点与之至少密切相关。萨特（1943 [1957]）认为，意识——他对一般有意识的心理行为的术语——在本质上只是一种纯粹指向世界的存在，并且其存在实质上依赖于其指向的对象。因此，萨特声称，意识“没有内容”。他所指的是，今天我们所称的有意识行为的内容总是、必然地在这些行为之外——是世界中的超越物，而不是存在于意识内部的内在事物。内容外在主义似乎是这一观点的一个微不足道的推论。如果能够将一个意识从一个世界移植到另一个世界——这是后来外在主义文献中的一个基本概念，但在萨特的观点中可能有可能或不可能的意义——这个意识的内容必然会发生变化。然而，这可能不符合标准意义上的外在主义，因为萨特还捍卫了一种对身体的革新性概念。萨特认为，作为生活体验的身体并不等同于作为客体的身体——这是外在主义表述中对身体的构想。相反，作为生活体验的身体是揭示活动，其界限与作为客体的身体的界限毫不相符。因此，与其说是一种直接的外在主义观点，不如说萨特的观点更应该被视为放弃了外在主义和其对立面内在主义构想的范畴。海德格尔（1927 [1962]）也是如此，萨特对身体的讨论在很大程度上受到了他的影响。海德格尔敦促我们将人类现实——人类所具有的特征性存在方式 dasein——看作不是生物有机体，而是自然和社会实践网络。人类的心灵，只要它们在这个方案中有任何地位，肯定不会驻留在人类身体中。然而——这也是为什么它不符合通常意义上的外在主义——身体也不是。 （但请参见 Wheeler 2005 年的一篇文章，为海德格尔的工作提供了扩展心灵的辩护。）
 
-无论他们最终是否可以被划分为外在主义者，维特根斯坦、萨特和海德格尔的观点在将外在主义的后续发展置于背景中起着重要作用。与外在主义一样，他们都占据一个可以被标记为反笛卡尔的立场。他们都反对这样一个观念，即个体所拥有的心理过程总是完全由个体内部发生的事情所决定（或者以萨特和海德格尔的情况中以非笛卡尔的方式扩展了身体的概念）。这种观点在哲学中并不独特。在心理学中，这种观念的表达可以在苏联心理学家的工作中找到，尤其是维果茨基（1934 [1962]）的作品中，以及卢里亚和维果茨基（1930 [1992]）的作品，后来在詹姆斯·吉布森（1966，1979）发展的生态心理学中也可以找到（另请参阅唐纳德 1991 年对这一传统的最新发展）。这种反笛卡尔主义的根源不仅广泛而深远，早于海德格尔，甚至早于二十世纪。加拉格尔（2018）认为，这种观点的版本可以在美国实用主义中找到。也许这种反笛卡尔主义的最终根源可以追溯到黑格尔（Crisafi＆Gallagher 2010；Boldyrev＆Herrmann-Pillath 2013）。无论这是否正确，外在主义——无论以何种形式——最好被视为不是一种前所未有的爆发，而更像是这种反笛卡尔思想历史传统的最新表达。
+无论他们最终是否可以被划分为外在主义者，维特根斯坦、萨特和海德格尔的观点在将外在主义的后续发展置于背景中起着重要作用。与外在主义一样，他们都占据一个可以被标记为反笛卡尔的立场。他们都反对这样一个观念，即个体所拥有的心理过程总是完全由个体内部发生的事情所决定（或者以萨特和海德格尔的情况中以非笛卡尔的方式扩展了身体的概念）。这种观点在哲学中并不独特。在心理学中，这种观念的表达可以在苏联心理学家的工作中找到，尤其是维果茨基（1934 [1962]）的作品中，以及卢里亚和维果茨基（1930 [1992]）的作品，后来在詹姆斯 · 吉布森（1966，1979）发展的生态心理学中也可以找到（另请参阅唐纳德 1991 年对这一传统的最新发展）。这种反笛卡尔主义的根源不仅广泛而深远，早于海德格尔，甚至早于二十世纪。加拉格尔（2018）认为，这种观点的版本可以在美国实用主义中找到。也许这种反笛卡尔主义的最终根源可以追溯到黑格尔（Crisafi＆Gallagher 2010；Boldyrev＆Herrmann-Pillath 2013）。无论这是否正确，外在主义——无论以何种形式——最好被视为不是一种前所未有的爆发，而更像是这种反笛卡尔思想历史传统的最新表达。
 
 ## 内容外在主义
 
@@ -32,7 +32,7 @@
 
 ### 3.1 内容外在主义的论点
 
-内容外在主义最常与两个生动的思想实验相关联，分别由希拉里·普特南（1975）和泰勒·伯奇（1979）提出。
+内容外在主义最常与两个生动的思想实验相关联，分别由希拉里 · 普特南（1975）和泰勒 · 伯奇（1979）提出。
 
 #### 普特南的双子地球思想实验
 
@@ -56,7 +56,7 @@ Imagine a person, let us call him Larry, who has a number of beliefs about arthr
 
 ### 3.2 Responses to Content Externalism3.2 对内容外在主义的回应
 
-对心灵外在主义的回应可分为几种。第一种类型的回应仅仅将外在主义视为普特南（Putnam）和伯奇（Burge）所发展的论证类型不足，要么是因为他们的结论不成立，要么是因为论证在某种程度上存在缺陷。例如，博戈西安（Boghossian）（1997）设计了“干燥地球”的案例，这个行星的居民（他们是我们的内在复制品）被误导认为水龙头里流出一种清澈无色的液体，填满湖泊和海洋。根据博戈西安的观点，外在主义者致力于关于干燥地球居民对这种虚幻液体思维内容的不切实际主张。（塞加尔（Segal）[2000]支持了干燥地球的这一论点变体；请参阅科曼（Korman）[2006]和普赛尔（Pryor）[2007]以获取外在主义者的回应。）克兰（Crane）（1991）认为，在伯奇的例子中，没有理由认为简（Jane）在两种情况下有不同的概念，因为她的性情保持完全一样。克兰认为，在两种情况下，简缺乏关节炎的概念，但拥有“tharthritis”的概念。因此，伯奇错误地认为简在实际世界中相信她的大腿有关节炎。乔治利斯（Georgalis）（1999）持类似观点，维克福斯（Wikforss）（2001）也是如此。
+对心灵外在主义的回应可分为几种。第一种类型的回应仅仅将外在主义视为普特南（Putnam）和伯奇（Burge）所发展的论证类型不足，要么是因为他们的结论不成立，要么是因为论证在某种程度上存在缺陷。例如，博戈西安（Boghossian）（1997）设计了“干燥地球”的案例，这个行星的居民（他们是我们的内在复制品）被误导认为水龙头里流出一种清澈无色的液体，填满湖泊和海洋。根据博戈西安的观点，外在主义者致力于关于干燥地球居民对这种虚幻液体思维内容的不切实际主张。（塞加尔（Segal）[2000] 支持了干燥地球的这一论点变体；请参阅科曼（Korman）[2006] 和普赛尔（Pryor）[2007] 以获取外在主义者的回应。）克兰（Crane）（1991）认为，在伯奇的例子中，没有理由认为简（Jane）在两种情况下有不同的概念，因为她的性情保持完全一样。克兰认为，在两种情况下，简缺乏关节炎的概念，但拥有“tharthritis”的概念。因此，伯奇错误地认为简在实际世界中相信她的大腿有关节炎。乔治利斯（Georgalis）（1999）持类似观点，维克福斯（Wikforss）（2001）也是如此。
 
 第二种类型的回应反对这些关于心灵外在主义的论点，基本上是出于关于思想实验以及直觉在确定内容是广义还是狭义方面的方法论立场。Cummins（1991）认为，需要进行实证研究来了解信念的本质，而不是思想实验。Chomsky（1995）持类似观点。Putnam 和 Burge 的论点依赖于直觉，在实验哲学运动中，许多人视之为文化相关且变化的，因此在哲学上并不重要（例如，参见 Mallon 等人 2009 年）。
 
@@ -152,49 +152,49 @@ Fodor (1987)采取了一种不同的策略。他同意，在不同的语境中�
 
 ## Bibliography
 
-* Adams, Frederick, 2010, “Why We Still Need a Mark of the Cognitive”, *Cognitive Systems Research*, 11(4): 324–331. doi:10.1016/j.cogsys.2010.03.001
-* Adams, Fred and Ken Aizawa, 2001, “The Bounds of Cognition”, *Philosophical Psychology*, 14(1): 43–64. doi:10.1080/09515080120033571
+* Adams, Frederick, 2010, “Why We Still Need a Mark of the Cognitive”, *Cognitive Systems Research*, 11(4): 324–331. doi: 10.1016/j.cogsys.2010.03.001
+* Adams, Fred and Ken Aizawa, 2001, “The Bounds of Cognition”, *Philosophical Psychology*, 14(1): 43–64. doi: 10.1080/09515080120033571
 * –––, 2008, *The Bounds of Cognition*, New York: Wiley-Blackwell.
-* Allen, Colin, 2017, “On (Not) Defining Cognition”, *Synthese*, 194(11): 4233–4249. doi:10.1007/s11229-017-1454-4
-* Barnier, Amanda J., John Sutton, Celia B. Harris, and Robert A. Wilson, 2008, “A Conceptual and Empirical Framework for the Social Distribution of Cognition: The Case of Memory”, *Cognitive Systems Research*, 9(1–2): 33–51. doi:10.1016/j.cogsys.2007.07.002
+* Allen, Colin, 2017, “On (Not) Defining Cognition”, *Synthese*, 194(11): 4233–4249. doi: 10.1007/s11229-017-1454-4
+* Barnier, Amanda J., John Sutton, Celia B. Harris, and Robert A. Wilson, 2008, “A Conceptual and Empirical Framework for the Social Distribution of Cognition: The Case of Memory”, *Cognitive Systems Research*, 9(1–2): 33–51. doi: 10.1016/j.cogsys.2007.07.002
 * Block, Ned, 1990, “Inverted Earth”, in *Philosophical Perspectives 4*, James Tomberlin (ed.), Atascadero, CA: Ridgeview Press, 52–79.
 * –––, 1991, “What Narrow Content is Not”, in *Meaning and Mind: Fodor and His Critics*, Barry Loewer and Georges Rey (eds.), Oxford: Blackwell Publishers, 33–64.
-* Boghossian, Paul A., 1997, “What the Externalist Can Know A Priori”, *Proceedings of the Aristotelian Society*, 97(2): 161–175. doi:10.1111/1467-9264.00011
-* Boldyrev, Ivan A. and Carsten Herrmann-Pillath, 2013, “Hegel’s ‘Objective Spirit’, Extended Mind, and the Institutional Nature of Economic Action”, *Mind & Society*, 12(2): 177–202. doi:10.1007/s11299-012-0111-3
-* Burge, Tyler, 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121. doi:10.1111/j.1475-4975.1979.tb00374.x
-* –––, 1986, “Individualism and Psychology”, *The Philosophical Review*, 95(1): 3–45. doi:10.2307/2185131
+* Boghossian, Paul A., 1997, “What the Externalist Can Know A Priori”, *Proceedings of the Aristotelian Society*, 97(2): 161–175. doi: 10.1111/1467-9264.00011
+* Boldyrev, Ivan A. and Carsten Herrmann-Pillath, 2013, “Hegel’s ‘Objective Spirit’, Extended Mind, and the Institutional Nature of Economic Action”, *Mind & Society*, 12(2): 177–202. doi: 10.1007/s11299-012-0111-3
+* Burge, Tyler, 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121. doi: 10.1111/j.1475-4975.1979.tb00374.x
+* –––, 1986, “Individualism and Psychology”, *The Philosophical Review*, 95(1): 3–45. doi: 10.2307/2185131
 * –––, 1993, “Mind-Body Causation and Explanatory Practice”, in *Mental Causation*, John Heil and Alfred R. Mele (eds.) Oxford: Clarendon Press, pp. 97–120.
-* Carter, J. Adam, Emma C. Gordon, and S. Orestis Palermos, 2016, “Extended Emotion”, *Philosophical Psychology*, 29(2): 198–217. doi:10.1080/09515089.2015.1063596
+* Carter, J. Adam, Emma C. Gordon, and S. Orestis Palermos, 2016, “Extended Emotion”, *Philosophical Psychology*, 29(2): 198–217. doi: 10.1080/09515089.2015.1063596
 * Chalmers, David, 2012, *Constructing the World*, Oxford: Oxford University Press.
 * –––, 2019, “Extended Cognition and Extended Consciousness”, in *Andy Clark and his Critics*, Matteo Colombo, Elizabeth Irvine, and Mog Stapleton (eds.), Oxford: Oxford University Press, Chapter 1.
 * Chemero, Anthony, 2009, *Radical Embodied Cognitive Science*, Cambridge, MA: MIT Press.
-* Chomsky, Noam, 1995, “Language and Nature”, *Mind*, 104(413): 1–61. doi:10.1093/mind/104.413.1
+* Chomsky, Noam, 1995, “Language and Nature”, *Mind*, 104(413): 1–61. doi: 10.1093/mind/104.413.1
 * Clark, Andy, 1989, *Microcognition: Philosophy, Cognitive Science and Parallel Distributed Processing*, Cambridge, MA: MIT Press.
 * –––, 1997, *Being There: Putting Brain, Body and World Back Together Again*, Cambridge, MA: MIT Press.
-* –––, 2008a, “Pressing the Flesh: A Tension in the Study of the Embodied, Embedded Mind?”, *Philosophy and Phenomenological Research*, 76(1): 37–59. doi:10.1111/j.1933-1592.2007.00114.x
-* –––, 2008b, *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195333213.001.0001
-* –––, 2009, “Spreading the Joy? Why the Machinery of Consciousness Is (Probably) Still in the Head”, *Mind*, 118(472): 963–993. doi:10.1093/mind/fzp110
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Crane, Tim, 1991, “All The Difference in the World”, *The Philosophical Quarterly*, 41(162): 1–25. doi:10.2307/2219783
-* Crisafi, Anthony and Shaun Gallagher, 2010, “Hegel and the Extended Mind”, *AI & Society*, 25(1): 123–129. doi:10.1007/s00146-009-0239-9
+* –––, 2008a, “Pressing the Flesh: A Tension in the Study of the Embodied, Embedded Mind?”, *Philosophy and Phenomenological Research*, 76(1): 37–59. doi: 10.1111/j.1933-1592.2007.00114.x
+* –––, 2008b, *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195333213.001.0001
+* –––, 2009, “Spreading the Joy? Why the Machinery of Consciousness Is (Probably) Still in the Head”, *Mind*, 118(472): 963–993. doi: 10.1093/mind/fzp110
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi: 10.1093/analys/58.1.7
+* Crane, Tim, 1991, “All The Difference in the World”, *The Philosophical Quarterly*, 41(162): 1–25. doi: 10.2307/2219783
+* Crisafi, Anthony and Shaun Gallagher, 2010, “Hegel and the Extended Mind”, *AI & Society*, 25(1): 123–129. doi: 10.1007/s00146-009-0239-9
 * Cummins, Robert, 1991, “Methodological Reflections on Belief”, in *Mind and Common Sense*, Radu Bogan (ed.), Cambridge: Cambridge University Press, pp. 53–70.
 * Davidson, Donald, 1980, “Actions, Reasons and Causes”, in his *Essays On Actions and Events*, Oxford: Oxford University Press, pp. 3–20.
-* –––, 1987, “Knowing One’s Own Mind”, *Proceedings and Addresses of the American Philosophical Association*, 60(3): 441–458. doi:10.2307/3131782
-* De Jaegher, Hanne, Ezequiel Di Paolo, and Shaun Gallagher, 2010, “Can Social Interaction Constitute Social Cognition?”, *Trends in Cognitive Sciences*, 14(10): 441–447. doi:10.1016/j.tics.2010.06.009
+* –––, 1987, “Knowing One’s Own Mind”, *Proceedings and Addresses of the American Philosophical Association*, 60(3): 441–458. doi: 10.2307/3131782
+* De Jaegher, Hanne, Ezequiel Di Paolo, and Shaun Gallagher, 2010, “Can Social Interaction Constitute Social Cognition?”, *Trends in Cognitive Sciences*, 14(10): 441–447. doi: 10.1016/j.tics.2010.06.009
 * Donald, Merlin, 1991, *Origins of the Modern Mind; Three Stages in the Evolution of Culture and Cognition*, Cambridge, MA: Harvard University Press.
 * Dretske, Fred, 1988, *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
-* Farkas, Katalin, 2003, “What Is Externalism?”, *Philosophical Studies*, 112(3): 187–208. doi:10.1023/A:1023002625641
-* –––, 2008, *The Subject’s Point of View*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230327.001.0001
+* Farkas, Katalin, 2003, “What Is Externalism?”, *Philosophical Studies*, 112(3): 187–208. doi: 10.1023/A: 1023002625641
+* –––, 2008, *The Subject’s Point of View*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199230327.001.0001
 * Fodor, Jerry A., 1981, “Methodological Solipsism Considered as a Research Strategy in Cognitive Science”, in his *RePresentations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge MA: MIT Press, 225–256.
-* –––, 1982, “Cognitive Science and the Twin-Earth Problem.”, *Notre Dame Journal of Formal Logic*, 23(2): 98–118. doi:10.1305/ndjfl/1093883623
+* –––, 1982, “Cognitive Science and the Twin-Earth Problem.”, *Notre Dame Journal of Formal Logic*, 23(2): 98–118. doi: 10.1305/ndjfl/1093883623
 * –––, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
 * –––, 2009, “Where is my mind?” *London Review of Books*, 31(3): 13–15.
-* Frances, Bryan, 2007, “Externalism, Physicalism, Statues, and Hunks”, *Philosophical Studies*, 133(2): 199–232. doi:10.1007/s11098-005-8446-9
-* Gallagher, Shaun, 2013, “The Socially Extended Mind”, *Cognitive Systems Research*, 25–26: 4–12. doi:10.1016/j.cogsys.2013.03.008
-* –––, 2018, *Enactivist Interventions: Rethinking the Mind*, New York: Oxford University Press. doi:10.1093/oso/9780198794325.001.0001
-* Georgalis, Nicholas, 1999, “Rethinking Burge’s Thought Experiment”, *Synthese*, 118(2): 145–164. doi:10.1023/A:1017145322572
-* Gertler, Brie, 2012, “Understanding the Internalism-Externalism Debate: What Is the Boundary of the Thinker?”, *Philosophical Perspectives*, 26(1): 51–75. doi:10.1111/phpe.12001
-* Gibbons, John, 1993, “Identity without Supervenience”, *Philosophical Studies*, 70(1): 59–79. doi:10.1007/BF00989662
+* Frances, Bryan, 2007, “Externalism, Physicalism, Statues, and Hunks”, *Philosophical Studies*, 133(2): 199–232. doi: 10.1007/s11098-005-8446-9
+* Gallagher, Shaun, 2013, “The Socially Extended Mind”, *Cognitive Systems Research*, 25–26: 4–12. doi: 10.1016/j.cogsys.2013.03.008
+* –––, 2018, *Enactivist Interventions: Rethinking the Mind*, New York: Oxford University Press. doi: 10.1093/oso/9780198794325.001.0001
+* Georgalis, Nicholas, 1999, “Rethinking Burge’s Thought Experiment”, *Synthese*, 118(2): 145–164. doi: 10.1023/A: 1017145322572
+* Gertler, Brie, 2012, “Understanding the Internalism-Externalism Debate: What Is the Boundary of the Thinker?”, *Philosophical Perspectives*, 26(1): 51–75. doi: 10.1111/phpe.12001
+* Gibbons, John, 1993, “Identity without Supervenience”, *Philosophical Studies*, 70(1): 59–79. doi: 10.1007/BF00989662
 * Gibson, James, 1966, *The Senses Considered as Perceptual Systems*, Boston: Houghton-Mifflin.
 * –––, 1979, *The Ecological Approach to Visual Perception*, Boston: Houghton-Mifflin.
 * Haugeland, John, 1993, “Mind embodied and embedded”, in Yu-Houng H. Houng & J. Ho (eds.), *Mind and Cognition: 1993 International Symposium*, Academica Sinica. pp. 233–267.
@@ -203,63 +203,63 @@ Fodor (1987)采取了一种不同的策略。他同意，在不同的语境中�
 * Hurley, Susan, 1998, *Consciousness in Action*, Cambridge, MA: Harvard University Press.
 * Hutto, Daniel and Erik Myin, 2012, *Radicalizing Enactivism*, Cambridge, MA: MIT Press.
 * –––, 2017, *Evolving Enactivism*, Cambridge, MA: MIT Press.
-* Jackson, Frank, 2007, “Reference and Description from the Descriptivists’ Corner”, *Philosophical Books*, 48(1): 17–26. doi:10.1111/j.1468-0149.2007.00426.x
-* Kirsh, David and Paul Maglio, 1994, “On Distinguishing Epistemic from Pragmatic Action”, *Cognitive Science*, 18(4): 513–549. doi:10.1207/s15516709cog1804_1
-* Korman, Daniel Z., 2006, “What Externalists Should Say About Dry Earth”, *Journal of Philosophy*, 103(10): 503–520. doi:10.5840/jphil20061031030
-* Kriegel, Uriah, 2007, “Intentional Inexistence and Phenomenal Intentionality”, *Philosophical Perspectives*, 21(1): 307–340. doi:10.1111/j.1520-8583.2007.00129.x
-* –––, 2011, *The Sources of Intentionality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199742974.001.0001
-* –––, 2013, “Phenomenal Intentionality Past and Present: Introductory”, *Phenomenology and the Cognitive Sciences*, 12(3): 437–444. doi:10.1007/s11097-013-9308-0
-* Krueger, Joel, 2014, “Varieties of Extended Emotions”, *Phenomenology and the Cognitive Sciences*, 13(4): 533–555. doi:10.1007/s11097-014-9363-1
-* Krueger, Joel and Thomas Szanto, 2016, “Extended Emotions”, *Philosophy Compass*, 11(12): 863–878. doi:10.1111/phc3.12390
-* Lewis, Davis, 1981, “Index, Context, and Content”, in *Philosophy and Grammar*, Stig Kanger and Sven Ōhman (eds.), Dordrecht: D. Reider, 79–100. doi:10.1007/978-94-009-9012-8_6
+* Jackson, Frank, 2007, “Reference and Description from the Descriptivists’ Corner”, *Philosophical Books*, 48(1): 17–26. doi: 10.1111/j.1468-0149.2007.00426.x
+* Kirsh, David and Paul Maglio, 1994, “On Distinguishing Epistemic from Pragmatic Action”, *Cognitive Science*, 18(4): 513–549. doi: 10.1207/s15516709cog1804_1
+* Korman, Daniel Z., 2006, “What Externalists Should Say About Dry Earth”, *Journal of Philosophy*, 103(10): 503–520. doi: 10.5840/jphil20061031030
+* Kriegel, Uriah, 2007, “Intentional Inexistence and Phenomenal Intentionality”, *Philosophical Perspectives*, 21(1): 307–340. doi: 10.1111/j.1520-8583.2007.00129.x
+* –––, 2011, *The Sources of Intentionality*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199742974.001.0001
+* –––, 2013, “Phenomenal Intentionality Past and Present: Introductory”, *Phenomenology and the Cognitive Sciences*, 12(3): 437–444. doi: 10.1007/s11097-013-9308-0
+* Krueger, Joel, 2014, “Varieties of Extended Emotions”, *Phenomenology and the Cognitive Sciences*, 13(4): 533–555. doi: 10.1007/s11097-014-9363-1
+* Krueger, Joel and Thomas Szanto, 2016, “Extended Emotions”, *Philosophy Compass*, 11(12): 863–878. doi: 10.1111/phc3.12390
+* Lewis, Davis, 1981, “Index, Context, and Content”, in *Philosophy and Grammar*, Stig Kanger and Sven Ōhman (eds.), Dordrecht: D. Reider, 79–100. doi: 10.1007/978-94-009-9012-8_6
 * Loar, Brian, 2003, “Phenomenal Intentionality as the Basis of Mental Content”, in *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Martin Hahn and B. Ramberg (eds.), Cambridge, MA: MIT Press, 229–258.
-* Ludwig, David, 2015, “Extended Cognition and the Explosion of Knowledge”, *Philosophical Psychology*, 28(3): 355–368. doi:10.1080/09515089.2013.867319
+* Ludwig, David, 2015, “Extended Cognition and the Explosion of Knowledge”, *Philosophical Psychology*, 28(3): 355–368. doi: 10.1080/09515089.2013.867319
 * Luria, Alexander and Vygotsky, Lev 1930 [1992], *Ape, Primitive Man, and Child: Essay in the History of Behavior*, Evelyn Rossiter (trans.), Brighton: Harvester-Wheatsheaf.
-* Lyre, Holger, 2018, “Socially Extended Cognition and Shared Intentionality”, *Frontiers in Psychology*, 9: 831. doi:10.3389/fpsyg.2018.00831
-* Macdonald, Cynthia, 1990, “Weak Externalism and Mind-Body Identity”, *Mind*, 99(395): 387–404. doi:10.1093/mind/XCIX.395.387
-* Mallon, Ron, Edouard Machery, Shaun Nichols, and Stephen Stich, 2009, “Against Arguments from Reference”, *Philosophy and Phenomenological Research*, 79(2): 332–356. doi:10.1111/j.1933-1592.2009.00281.x
-* McGinn, Colin, 1977, “Charity, Interpretation, and Belief”, *The Journal of Philosophy*, 74(9): 521–535. doi:10.2307/2025795
+* Lyre, Holger, 2018, “Socially Extended Cognition and Shared Intentionality”, *Frontiers in Psychology*, 9: 831. doi: 10.3389/fpsyg.2018.00831
+* Macdonald, Cynthia, 1990, “Weak Externalism and Mind-Body Identity”, *Mind*, 99(395): 387–404. doi: 10.1093/mind/XCIX.395.387
+* Mallon, Ron, Edouard Machery, Shaun Nichols, and Stephen Stich, 2009, “Against Arguments from Reference”, *Philosophy and Phenomenological Research*, 79(2): 332–356. doi: 10.1111/j.1933-1592.2009.00281.x
+* McGinn, Colin, 1977, “Charity, Interpretation, and Belief”, *The Journal of Philosophy*, 74(9): 521–535. doi: 10.2307/2025795
 * –––, 1982, “The structure of content”, in *Thought and Object*, A. Woodfield (ed.), Oxford: Oxford University Press, pp. 207–58.
 * –––, 1989, *Mental Content*, Oxford: Blackwell.
-* Menary, Richard, 2006, “Attacking the Bounds of Cognition”, *Philosophical Psychology*, 19(3): 329–344. doi:10.1080/09515080600690557
+* Menary, Richard, 2006, “Attacking the Bounds of Cognition”, *Philosophical Psychology*, 19(3): 329–344. doi: 10.1080/09515080600690557
 * –––, 2007, *Cognitive Integration: Attacking the Bounds of Cognition*, Basingstoke: Palgrave-Macmillan.
 * ––– (ed.), 2010, *The Extended Mind*, Cambridge, MA: MIT Press.
 * –––, 2015, “Mathematical cognition: a case of enculturation”, in *Open MIND*, T. Metzinger & J. M. Windt (eds.), Frankfurt am Main: MIND Group, 1–20.
 * Newen, Albert, Leon De Bruin, and Shaun Gallagher (eds.), 2018, *The Oxford Handbook of 4E Cognition*, Oxford: Oxford University Press.
 * Noë, Alva (ed.), 2002, *Is the Visual World a Grand Illusion?* Special edition of *The Journal of Consciousness Studies*, Vol. 5–6.
 * –––, 2004, *Action in Perception*, Cambridge, MA: MIT Press.
-* O’Regan, J. Kevin and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, *Behavioral and Brain Sciences*, 24(5): 939–973. doi:10.1017/S0140525X01000115
-* Prinz, Jesse, 2009, “Is Consciousness Embodied?”, in *The Cambridge Handbook of Situated Cognition*, Philip Robbins and Murat Aydede (eds.), Cambridge: Cambridge University Press, 419–436. doi:10.1017/CBO9780511816826.022
+* O’Regan, J. Kevin and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, *Behavioral and Brain Sciences*, 24(5): 939–973. doi: 10.1017/S0140525X01000115
+* Prinz, Jesse, 2009, “Is Consciousness Embodied?”, in *The Cambridge Handbook of Situated Cognition*, Philip Robbins and Murat Aydede (eds.), Cambridge: Cambridge University Press, 419–436. doi: 10.1017/CBO9780511816826.022
 * Pryor, James, 2007, “What’s Wrong with McKinsey-style Reasoning”, in *Internalism and Externalism in Semantics and Epistemology*, S. Goldberg (ed.), Oxford: Oxford University Press, 177–200.
 * Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, *Philosophical Papers, Vol. II: Mind, Language, and Reality*, Cambridge: Cambridge University Press.
-* Rowlands, Mark, 1999, *The Body in Mind: Understanding Cognitive Processes*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511583261
+* Rowlands, Mark, 1999, *The Body in Mind: Understanding Cognitive Processes*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511583261
 * –––, 2003, *Externalism: Putting Mind and World Back Together Again*, London: Acumen.
 * –––, 2006, *Body Language: Representation in Action*, Cambridge, MA: MIT Press.
-* –––, 2009, “Extended Cognition and the Mark of the Cognitive”, *Philosophical Psychology*, 22(1): 1–19. doi:10.1080/09515080802703620
+* –––, 2009, “Extended Cognition and the Mark of the Cognitive”, *Philosophical Psychology*, 22(1): 1–19. doi: 10.1080/09515080802703620
 * –––, 2010, *The New Science of the Mind: From Extended Mind to Embodied Phenomenology*, Cambridge, MA: MIT Press.
 * Rumelhart, David E., James L. McClelland, and the PDP Research Group, 1986, *Parallel Distributed Processing: Explorations in the Microstructure of Cognition 1: Foundations*, Cambridge, MA: MIT Press.
-* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition”, *Journal of Philosophy*, 101(8): 389–428. doi:10.5840/jphil2004101826
-* –––, 2009, *Cognitive Systems and the Extended Mind*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195379457.001.0001
+* Rupert, Robert D., 2004, “Challenges to the Hypothesis of Extended Cognition”, *Journal of Philosophy*, 101(8): 389–428. doi: 10.5840/jphil2004101826
+* –––, 2009, *Cognitive Systems and the Extended Mind*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195379457.001.0001
 * Sartre, Jean-Paul, 1943 [1957], *Being and Nothingness*, H. Barnes (trans.), London: Methuen; originally published Paris: Gallimard, 1943.
 * Segal, Gabriel, 2000, *A Slim Book about Narrow Content*, Cambridge, MA: MIT Press.
 * Shapiro, Lawrence, 2004, *The Mind Incarnate*, Cambridge, MA: MIT Press.
 * Siewert, Charles, 1998, *The Significance of Consciousness*, Princeton: Princeton University Press.
-* Slors, Marc, 2019, “Symbiotic Cognition as an Alternative for Socially Extended Cognition”, *Philosophical Psychology*, 32(8): 1179–1203. doi:10.1080/09515089.2019.1679591
-* Stalnaker, Robert, 1989, “On What’s In the Head”, *Philosophical Perspectives*, 3: 287–316. Reprinted in *The Nature of Mind*, David Rosenthal (ed.), Oxford: Oxford University Press, 1991, 576–590. doi:10.2307/2214271
+* Slors, Marc, 2019, “Symbiotic Cognition as an Alternative for Socially Extended Cognition”, *Philosophical Psychology*, 32(8): 1179–1203. doi: 10.1080/09515089.2019.1679591
+* Stalnaker, Robert, 1989, “On What’s In the Head”, *Philosophical Perspectives*, 3: 287–316. Reprinted in *The Nature of Mind*, David Rosenthal (ed.), Oxford: Oxford University Press, 1991, 576–590. doi: 10.2307/2214271
 * Stich, Stephen, 1983, *From Folk Psychology to Cognitive Science: The Case Against Belief*, Cambridge, MA: MIT Press.
 * Sutton, John, 2008, *Philosophy and Memory Traces: Descartes to Connectionism*, Cambridge: Cambridge University Press.
 * –––, 2010, “Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process”, in Menary 2010: 189–225.
-* –––, 2015, “Remembering as Public Practice: Wittgenstein, Memory, and Distributed Cognitive Ecologies”, in *Mind, Language and Action: : Proceedings of the 36th International Wittgenstein Symposium*, Danièle Moyal-Sharrock, Volker Munz, and Annalisa Coliva (eds.), Berlin: De Gruyter, 409–443. doi:10.1515/9783110378795.409
+* –––, 2015, “Remembering as Public Practice: Wittgenstein, Memory, and Distributed Cognitive Ecologies”, in *Mind, Language and Action: : Proceedings of the 36th International Wittgenstein Symposium*, Danièle Moyal-Sharrock, Volker Munz, and Annalisa Coliva (eds.), Berlin: De Gruyter, 409–443. doi: 10.1515/9783110378795.409
 * Theiner, Georg, 2011, *Res Cogitans Extensa: A Philosophical Defense of the Extended Mind Thesis*, New York: Peter Lang.
 * Vygotsky, Lev S., 1934 [1962], *Thought and Language*, Eugenia Hanfmann and Gertrude Vakar (trans.), Cambridge, MA: MIT Press. [Originally published in Russian as *Myshlenie i Rech*, Moscow & Leningrad: Gosudarstvennoe sotsial'no-ekonomicheskoe izdatel'svo.]
 * Wheeler, Michael, 2005, *Reconstructing the Cognitive World: The Next Step*, Cambridge, MA: MIT Press.
 * –––, 2010, “In defense of extended functionalism”, in Menary 2010: 245–270.
-* Wikforss, Asa Maria, 2001, “Social Externalism and Conceptual Errors”, *The Philosophical Quarterly*, 51(203): 217–231. doi:10.1111/j.0031-8094.2001.00225.x
-* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Wilson, Robert A., 1994, “Wide Computationalism”, *Mind*, 103(411): 351–372. doi:10.1093/mind/103.411.351
-* –––, 2004, *Boundaries of the Mind: The Individual in the Fragile Sciences – Cognition*, New York: Cambridge University Press. doi:10.1017/CBO9780511606847
+* Wikforss, Asa Maria, 2001, “Social Externalism and Conceptual Errors”, *The Philosophical Quarterly*, 51(203): 217–231. doi: 10.1111/j.0031-8094.2001.00225.x
+* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi: 10.1093/019925656X.001.0001
+* Wilson, Robert A., 1994, “Wide Computationalism”, *Mind*, 103(411): 351–372. doi: 10.1093/mind/103.411.351
+* –––, 2004, *Boundaries of the Mind: The Individual in the Fragile Sciences – Cognition*, New York: Cambridge University Press. doi: 10.1017/CBO9780511606847
 * Wittgenstein, L., 1953, *Philosophical Investigations*, E. Anscombe, R. Rhees and G. H. Von Wright (eds.), E. Anscombe (trans.), Oxford: Blackwell.
-* Yli-Vakkuri, Juhani and John Hawthorne, 2018, *Narrow Content*, Oxford: Oxford University Press. doi:10.1093/oso/9780198785965.001.0001
+* Yli-Vakkuri, Juhani and John Hawthorne, 2018, *Narrow Content*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198785965.001.0001
 
 ## Academic Tools
 

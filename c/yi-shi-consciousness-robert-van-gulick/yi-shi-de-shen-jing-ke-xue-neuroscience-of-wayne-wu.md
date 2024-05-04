@@ -72,7 +72,7 @@
 
 提出一个清晰的问题涉及把握可能的答案，在科学中，这是通过确定可以为这些答案提供证据的实验来实现的。我们两个问题中对必要和充分条件的强调表明了如何经验性地测试具体的提议。为了测试充分性，一个人将旨在产生或调节某种神经状态，然后证明某种形式的意识出现。为了测试必要性，一个人将消除某种神经状态，并证明意识被废除。请注意，这些测试超越了神经状态和意识状态之间的纯粹相关性（请参见第 1.6 节关于神经相关和第 2.2、4 和 5 节关于必要性和充分性测试）。
 
-在许多实验背景下，潜在的观念是因果必要性和充分性。然而，如果 A=B，那么 A 的存在对于 B 的存在也是必要且充分的，因为它们是相同的。因此，一个消除了 N 并因此消除了意识状态 S 的脑损伤可能是因为 N 对于 S 的存在是因果必要的，也可能是因为 N=S。一个中间关系是 N 构成或基础于 S，这并不意味着 N=S（参见形而上学基础条目）。无论哪个选项适用于 S，第一步是找到 N，意识的神经对应物（第 1.6 节）。
+在许多实验背景下，潜在的观念是因果必要性和充分性。然而，如果 A = B，那么 A 的存在对于 B 的存在也是必要且充分的，因为它们是相同的。因此，一个消除了 N 并因此消除了意识状态 S 的脑损伤可能是因为 N 对于 S 的存在是因果必要的，也可能是因为 N = S。一个中间关系是 N 构成或基础于 S，这并不意味着 N = S（参见形而上学基础条目）。无论哪个选项适用于 S，第一步是找到 N，意识的神经对应物（第 1.6 节）。
 
 在接下来的内容中，将考虑解释通用意识的各种神经系统的全局属性（第 3 节），以及与有意识与无意识视觉相关的特定解剖区域作为案例研究（第 4 节）。对于特定意识，将检查神经表征的细粒度操作，这些操作可能会改变和调节感知经验的内容（第 5 节）。
 
@@ -82,7 +82,7 @@ David Chalmers 将难题阐述如下：
 
 > 这是不可否认的，一些生物是经验的主体。但这些系统如何成为经验的主体的问题令人困惑。为什么当我们的认知系统参与视觉和听觉信息处理时，我们会有视觉或听觉体验：深蓝色的质感，中央 C 的感觉？我们如何解释为什么会有一种感觉在脑中形成一个心理图像，或者经历一种情感？人们普遍认为经验起源于物理基础，但我们对为什么以及如何产生经验没有很好的解释。为什么物理处理会导致丰富的内在生活？这似乎在客观上是不合理的，但事实上确实如此。如果有任何问题符合意识问题，那就是这个问题。(Chalmers 1995: 212)
 
-硬问题可以用通用和特定意识的术语来界定（Chalmers, 1996）。在这两种情况下，Chalmers 认为，对于现象意识的经验性解释存在固有的局限性，因为经验性解释基本上要么是结构性的，要么是功能性的，然而现象意识既不可归纳为结构性，也不可归纳为功能性。这意味着在对意识的经验性解释中会有一些被忽略的东西，一种缺失的成分（也可参见解释性鸿沟[Levine, 1983]）。
+硬问题可以用通用和特定意识的术语来界定（Chalmers, 1996）。在这两种情况下，Chalmers 认为，对于现象意识的经验性解释存在固有的局限性，因为经验性解释基本上要么是结构性的，要么是功能性的，然而现象意识既不可归纳为结构性，也不可归纳为功能性。这意味着在对意识的经验性解释中会有一些被忽略的东西，一种缺失的成分（也可参见解释性鸿沟 [Levine, 1983]）。
 
 对于“艰难问题”有不同的回应。其中一种回应是通过专注于 Chalmers 所称的意识现象的结构特征，比如视觉体验的空间结构，或者意识现象的内容，来提高神经科学的解释目标。当我们评估对意识特定内容的解释时，这些解释侧重于确定意识内容的神经表征。这些解释并没有明确说明是什么秘密成分使得具有该内容的状态从无意识转变为意识。关于解释通用意识的成分，提出了各种选择（参见第 3 节），但不清楚这些是否能回答“艰难问题”，尤其是如果对该问题的任何回答都有一个必要条件，即解释必须在概念上排除某些可能性，比如成分可能被添加但意识不会像僵尸一样点燃，即没有意识现象的生物（参见有关僵尸的条目）。事实上，一些哲学家否认了这个艰难问题（参见 Dennett 2018 的最新表态）。Patricia Churchland 催促道：“学习科学，做科学，看看会发生什么”（Churchland 1996: 408）。
 
@@ -182,7 +182,7 @@ Owen 等人借鉴了想象的神经对应物，一种心理行为。他们认为
 
 > 神经系统的什么条件/状态 N 是必要的和/或充分的，使得一个心理状态 M 具有意识，而不是没有意识？
 
- 维克多·拉默（Victor Lamme）指出：
+ 维克多 · 拉默（Victor Lamme）指出：
 
 > 决定心理表征中是否存在现象意味着设定一个界限——划定不同类型表征之间的界线...我们必须从意识（在现象意义上）存在且是一种独立的心理功能的直觉出发。这种直觉立即意味着也存在无意识信息加工。（Lamme 2010: 208）
 
@@ -218,7 +218,7 @@ Owen 等人借鉴了想象的神经对应物，一种心理行为。他们认为
 
 ### 3.2 重复处理理论
 
-一种不同的解释将感知意识与与工作空间无关的处理联系起来，重点放在感觉区域的循环活动上。这种方法强调了一阶神经表示的特性作为解释意识的因素。维克多·拉默（2006 年，2010 年）认为，循环处理对意识是必要且充分的。循环处理发生在感觉系统高度相互连接并涉及前馈和反馈连接的地方。例如，从第一视觉区 V1，即第一个皮层视觉区域，的前向连接将信息传递到更高级别的处理区域，视觉信息的初始注册涉及一次前向处理的扫描。同时，有许多反馈连接连接视觉区域（Felleman＆Van Essen，1991 年），在处理的后期，这些连接被激活，产生视觉系统内的动态活动。
+一种不同的解释将感知意识与与工作空间无关的处理联系起来，重点放在感觉区域的循环活动上。这种方法强调了一阶神经表示的特性作为解释意识的因素。维克多 · 拉默（2006 年，2010 年）认为，循环处理对意识是必要且充分的。循环处理发生在感觉系统高度相互连接并涉及前馈和反馈连接的地方。例如，从第一视觉区 V1，即第一个皮层视觉区域，的前向连接将信息传递到更高级别的处理区域，视觉信息的初始注册涉及一次前向处理的扫描。同时，有许多反馈连接连接视觉区域（Felleman＆Van Essen，1991 年），在处理的后期，这些连接被激活，产生视觉系统内的动态活动。
 
 Lamme 确定了正常视觉处理的四个阶段：
 
@@ -243,15 +243,15 @@ Lamme 还提出了他所称的神经科学论证。这种策略比较了两个�
 
 ### 3.4 信息整合理论
 
-意识的信息整合理论（IIT）借鉴了整合信息的概念，以符号Φ表示，作为解释一般意识的一种方式（Tononi，2004 年，2008 年）。IIT 根据系统部分的有效信息在其因果关系中所携带的信息来定义整合信息。例如，我们可以关注整个电路的一部分，比如两个连接的节点，并计算这个微电路可以携带的有效信息。如果整体的有效信息内容大于部分信息内容的总和，则系统携带整合信息。如果没有分区，使得部分信息内容的总和等于整体的信息内容，则整个系统携带整合信息，并且Φ的值为正。直观地说，部分之间的相互作用为系统增加的内容比单独的部分更多。
+意识的信息整合理论（IIT）借鉴了整合信息的概念，以符号 Φ 表示，作为解释一般意识的一种方式（Tononi，2004 年，2008 年）。IIT 根据系统部分的有效信息在其因果关系中所携带的信息来定义整合信息。例如，我们可以关注整个电路的一部分，比如两个连接的节点，并计算这个微电路可以携带的有效信息。如果整体的有效信息内容大于部分信息内容的总和，则系统携带整合信息。如果没有分区，使得部分信息内容的总和等于整体的信息内容，则整个系统携带整合信息，并且 Φ 的值为正。直观地说，部分之间的相互作用为系统增加的内容比单独的部分更多。
 
-IIT 认为Φ的非零值意味着神经系统是有意识的，Φ的值越大，意识越强。例如，托诺尼认为，尽管小脑中的神经元数量是人类皮层的四到五倍，但小脑的Φ值较低。在 IIT 中，重要的是适当连接的存在，而不是神经元的数量。
+IIT 认为 Φ 的非零值意味着神经系统是有意识的，Φ 的值越大，意识越强。例如，托诺尼认为，尽管小脑中的神经元数量是人类皮层的四到五倍，但小脑的 Φ 值较低。在 IIT 中，重要的是适当连接的存在，而不是神经元的数量。
 
 IIT 存在的一个潜在问题是，它将许多事物视为意识，这些事物乍看之下并非如此（在其他互联网资源中，参见 Aaronson 2014a；有引人注目的反例和 Aaronson 2014b，以及 Tononi 的回应）。尽管如此，整合信息的概念可能对神经科学有所帮助，但我们必须表明调用 Φ 能够解释一般意识。
 
 ### 3.5 前额还是后部？
 
-近年来，对于一般意识理论之间的辩论，一个方式是确定“前脑”还是“后脑”至关重要。利用这种粗略的区分，我们可以得出以下对比：循环处理理论侧重于感觉区域（在视觉中是大脑的“后部”），即处理达到某种循环状态时，相关内容即使没有形成更高阶的思维或没有进入全局工作区，也会意识到。同样，IIT 的支持者最近强调了覆盖顶叶和枕叶区域的“后热区”（Boly 等人，2017 年）作为意识的神经对应物，因为他们推测这个区域可能对Φ值具有最高价值。对于某些高阶思维理论来说，拥有由前额叶支持的高阶状态，而没有相应的感觉状态，就足以构成意识状态。在这种情况下，大脑的前部就足以实现意识。最后，全局神经元工作区，依赖于跨越大脑区域的工作区神经元来形成工作区，可能被视为跨越差异的因素，取决于涉及的意识状态类型。它们需要进入全局工作区，以便既不仅仅是感觉活动，也不仅仅是更高阶的思维就足够，即既不仅仅是大脑的前部，也不仅仅是后部。
+近年来，对于一般意识理论之间的辩论，一个方式是确定“前脑”还是“后脑”至关重要。利用这种粗略的区分，我们可以得出以下对比：循环处理理论侧重于感觉区域（在视觉中是大脑的“后部”），即处理达到某种循环状态时，相关内容即使没有形成更高阶的思维或没有进入全局工作区，也会意识到。同样，IIT 的支持者最近强调了覆盖顶叶和枕叶区域的“后热区”（Boly 等人，2017 年）作为意识的神经对应物，因为他们推测这个区域可能对 Φ 值具有最高价值。对于某些高阶思维理论来说，拥有由前额叶支持的高阶状态，而没有相应的感觉状态，就足以构成意识状态。在这种情况下，大脑的前部就足以实现意识。最后，全局神经元工作区，依赖于跨越大脑区域的工作区神经元来形成工作区，可能被视为跨越差异的因素，取决于涉及的意识状态类型。它们需要进入全局工作区，以便既不仅仅是感觉活动，也不仅仅是更高阶的思维就足够，即既不仅仅是大脑的前部，也不仅仅是后部。
 
 以这种粗糙的方式谈论大脑解剖的重点是突出每种理论的神经焦点，从而突出我们在寻求解释意识所必要和/或足够的神经对应时的操纵目标。显而易见的是，一旦理论对涉及一般意识的大脑区域做出具体预测，神经科学就可以对其进行测试。
 
@@ -403,7 +403,7 @@ Newsome 和他的同事们证明，对 MT 神经元进行微刺激会以可预�
 
 在没有刺激的情况下进行微刺激会怎样？我们是否可以像彭菲尔德在他的患者身上做的那样诱发幻觉？与 Newsome 小组的工作不同，他们调节正在进行的感知处理，这里的问题是创建一个模拟感知的内部信号。Romo 等人（1998）证明了猴子可以通过微刺激触发的激活来执行感觉任务。猴子的任务是区分两个连续“颤动”的频率，即皮肤上特定频率的机械振动。在实验中，首先呈现一个样本颤动，持续 500 毫秒，然后间隔 1-3 秒后，呈现一个第二个测试颤动，频率较高或较低。动物报告第二个测试频率是高于还是低于样本频率。
 
-实验者们研究了在没有刺激的情况下，直接微刺激是否能够触及到引导动物报告的相同神经表征。他们在对手指振动频率敏感的初级体感皮层中分离了神经元（S1，由彭菲尔德[PENFIELD & BOLDREY 1937]发现的体感小人；见图 1）。然后，研究人员在没有测试振动的情况下刺激了 S1 中的相同神经元，因此使用刺激作为实际振动的替代品。因此，动物必须将机械样本的频率与随后的（1）真实机械测试振动（即，具有实际刺激的良好情况）或（2）与微刺激测试刺激（即，在没有刺激的情况下发生 S1 神经元的直接激活的“幻觉”情况）进行比较。Romo 等人证明，基于机械刺激或微刺激的辨别表现是等效的。换句话说，动物可以将机械刺激或微刺激与记忆中的机械样本相匹配。[14]
+实验者们研究了在没有刺激的情况下，直接微刺激是否能够触及到引导动物报告的相同神经表征。他们在对手指振动频率敏感的初级体感皮层中分离了神经元（S1，由彭菲尔德 [PENFIELD & BOLDREY 1937] 发现的体感小人；见图 1）。然后，研究人员在没有测试振动的情况下刺激了 S1 中的相同神经元，因此使用刺激作为实际振动的替代品。因此，动物必须将机械样本的频率与随后的（1）真实机械测试振动（即，具有实际刺激的良好情况）或（2）与微刺激测试刺激（即，在没有刺激的情况下发生 S1 神经元的直接激活的“幻觉”情况）进行比较。Romo 等人证明，基于机械刺激或微刺激的辨别表现是等效的。换句话说，动物可以将机械刺激或微刺激与记忆中的机械样本相匹配。[14]
 
 在随后的工作中（Romo 等人，2000 年），调查人员颠倒了实验，使用微刺激作为样本。在这种情况下，动物们必须记住微刺激传达的信息（实际上是一种幻觉），然后将其与随后的（a）手指上的机械产生的刺激（实际测试刺激）或（b）S1 的微刺激作为测试（即，无刺激）进行比较。在这两种情况下，表现与早期结果类似。引人注目的发现是行为可以完全由微刺激驱动。至少对于所讨论的触觉刺激，动物可能处于“黑客帝国”中！
 
@@ -461,203 +461,203 @@ Knill 和 Pouget 对比了这两种方法：
 
 ## Bibliography
 
-* Aglioti, Salvatore, Joseph F.X. DeSouza, and Melvyn A. Goodale, 1995, “Size-Contrast Illusions Deceive the Eye but Not the Hand”, *Current Biology*, 5(6): 679–685. doi:10.1016/S0960-9822(95)00133-3
-* Andersen, Richard A., Kristen N. Andersen, Eun Jung Hwang, and Markus Hauschild, 2014, “Optic Ataxia: From Balint’s Syndrome to the Parietal Reach Region”, *Neuron*, 81(5): 967–83. doi:10.1016/j.neuron.2014.02.025
-* Arnold, Derek Henry, 2011a, “I Agree: Binocular Rivalry Stimuli Are Common but Rivalry Is Not”, *Frontiers in Human Neuroscience*, 5(157). doi:10.3389/fnhum.2011.00157
-* –––, 2011b, “Why Is Binocular Rivalry Uncommon? Discrepant Monocular Images in the Real World”, *Frontiers in Human Neuroscience*, 5(116). doi:10.3389/fnhum.2011.00116
-* Aru, Jaan, Talis Bachmann, Wolf Singer, and Lucia Melloni, 2012, “Distilling the Neural Correlates of Consciousness”, *Neuroscience and Biobehavioral Reviews*, 36(2): 737–746. doi:10.1016/j.neubiorev.2011.12.003
-* Azzopardi, Paul and Alan Cowey, 1997, “Is Blindsight like Normal, near-Threshold Vision?” *Proceedings of the National Academy of Sciences* 94(25): 14190–14194. doi:10.1073/pnas.94.25.14190
+* Aglioti, Salvatore, Joseph F.X. DeSouza, and Melvyn A. Goodale, 1995, “Size-Contrast Illusions Deceive the Eye but Not the Hand”, *Current Biology*, 5(6): 679–685. doi: 10.1016/S0960-9822(95)00133-3
+* Andersen, Richard A., Kristen N. Andersen, Eun Jung Hwang, and Markus Hauschild, 2014, “Optic Ataxia: From Balint’s Syndrome to the Parietal Reach Region”, *Neuron*, 81(5): 967–83. doi: 10.1016/j.neuron.2014.02.025
+* Arnold, Derek Henry, 2011a, “I Agree: Binocular Rivalry Stimuli Are Common but Rivalry Is Not”, *Frontiers in Human Neuroscience*, 5(157). doi: 10.3389/fnhum.2011.00157
+* –––, 2011b, “Why Is Binocular Rivalry Uncommon? Discrepant Monocular Images in the Real World”, *Frontiers in Human Neuroscience*, 5(116). doi: 10.3389/fnhum.2011.00116
+* Aru, Jaan, Talis Bachmann, Wolf Singer, and Lucia Melloni, 2012, “Distilling the Neural Correlates of Consciousness”, *Neuroscience and Biobehavioral Reviews*, 36(2): 737–746. doi: 10.1016/j.neubiorev.2011.12.003
+* Azzopardi, Paul and Alan Cowey, 1997, “Is Blindsight like Normal, near-Threshold Vision?” *Proceedings of the National Academy of Sciences* 94(25): 14190–14194. doi: 10.1073/pnas.94.25.14190
 * Baars, Bernard J., 1988, *A Cognitive Theory of Consciousness*, Cambridge: Cambridge University Press.
-* Baker, Daniel H. and Erich W. Graf, 2009, “Natural Images Dominate in Binocular Rivalry”, *Proceedings of the National Academy of Sciences of the United States of America*, 106(13): 5436–5441. doi:10.1073/pnas.0812860106
+* Baker, Daniel H. and Erich W. Graf, 2009, “Natural Images Dominate in Binocular Rivalry”, *Proceedings of the National Academy of Sciences of the United States of America*, 106(13): 5436–5441. doi: 10.1073/pnas.0812860106
 * Bayne, Tim, 2011, “The Sense of Agency”, in *The Senses: Classic and Contemporary Philosophical Perspectives*, Fiona Macpherson (ed.), Oxford; New York: Oxford University Press, chapter 18.
-* –––, 2018, “On the Axiomatic Foundations of the Integrated Information Theory of Consciousness”, *Neuroscience of Consciousness*, 2018 (1). doi:10.1093/nc/niy007
-* Bayne, Tim and Michelle Montague, 2011, *Cognitive Phenomenology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579938.001.0001
-* Bayne, Tim and David J. Chalmers, 2003, “What Is the Unity of Consciousness?”, in *The Unity of Consciousness: Binding, Integration, and Dissociation*, Axel Cleeremans (ed.), Oxford: Oxford University Press, 23–58. doi:10.1093/acprof:oso/9780198508571.003.0002
-* Behrmann, Marlene and David C. Plaut, 2013, “Distributed Circuits, Not Circumscribed Centers, Mediate Visual Recognition”, *Trends in Cognitive Sciences*, 17(5): 210–219. doi:10.1016/j.tics.2013.03.007
-* Behrmann, Marlene and Tim Shallice, 1995, “Pure Alexia: A Nonspatial Visual Disorder Affecting Letter Activation”, *Cognitive Neuropsychology*, 12(4): 409–454. doi:10.1080/02643299508252004
-* Blake, Randolph, Jan Brascamp, and David J. Heeger, 2014, “Can Binocular Rivalry Reveal Neural Correlates of Consciousness?” *Philosophical Transactions of the Royal Society B: Biological Sciences*, 369(1641): 20130211. doi:10.1098/rstb.2013.0211
-* Block, Ned, 1995, “On a Confusion about a Function of Consciousness”, *Behavioral and Brain Sciences* 18: 227–47. doi:10.1017/S0140525X00038188
-* –––, 2007, “Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience”, *The Behavioral and Brain Sciences*, 30(5–6): 481–499. doi:10.1017/S0140525X07002786
-* –––, 2018, “If Perception Is Probabilistic, Why Does It Not Seem Probabilistic?” *Philosophical Transactions of the Royal Society B: Biological Sciences*, 373(1755): 20170341. doi:10.1098/rstb.2017.0341
-* Boly, Melanie, Marcello Massimini, Naotsugu Tsuchiya, Bradley R. Postle, Christof Koch, and Giulio Tononi, 2017, “Are the Neural Correlates of Consciousness in the Front or in the Back of the Cerebral Cortex? Clinical and Neuroimaging Evidence”, *Journal of Neuroscience*, 37(40): 9603–9613. doi:10.1523/JNEUROSCI.3218-16.2017
-* Born, Richard T. and David C. Bradley, 2005, “Structure and Function of Visual Area MT”, *Annual Review of Neuroscience*, 28: 157–189. doi:10.1146/annurev.neuro.26.041002.131052
-* Breitmeyer, Bruno and Haluk Ogmen, 2006, *Visual Masking: Time Slices Through Conscious and Unconscious Vision*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198530671.001.0001
-* Britten, Kenneth H., Michael N. Shadlen, Wiliam T. Newsome, and J. Anthony Movshon, 1992, “The Analysis of Visual Motion: A Comparison of Neuronal and Psychophysical Performance”, *Journal of Neuroscience* 12(12): 4745–4765. doi:10.1523/JNEUROSCI.12-12-04745.1992
-* Campion, John, Richard Latto, and Y. M. Smith, 1983, “Is Blind-Sight an Effect of Scattered Light, Spared Cortex, and Near-Threshold Vision”, *Behavioral and Brain Sciences*, 6(03): 423–448. doi:10.1017/S0140525X00016861
-* Cao, Rosa, 2012, “A Teleosemantic Approach to Information in the Brain”, *Biology and Philosophy*, 27(1): 49–71. doi:10.1007/s10539-011-9292-0
-* –––, 2014, “Signaling in the Brain: In Search of Functional Units”, *Philosophy of Science*, 81(5): 891–901. doi:10.1086/677688
-* Carruthers, Peter, 2011, *The Opacity of Mind: An Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199596195.001.0001
+* –––, 2018, “On the Axiomatic Foundations of the Integrated Information Theory of Consciousness”, *Neuroscience of Consciousness*, 2018 (1). doi: 10.1093/nc/niy007
+* Bayne, Tim and Michelle Montague, 2011, *Cognitive Phenomenology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199579938.001.0001
+* Bayne, Tim and David J. Chalmers, 2003, “What Is the Unity of Consciousness?”, in *The Unity of Consciousness: Binding, Integration, and Dissociation*, Axel Cleeremans (ed.), Oxford: Oxford University Press, 23–58. doi: 10.1093/acprof: oso/9780198508571.003.0002
+* Behrmann, Marlene and David C. Plaut, 2013, “Distributed Circuits, Not Circumscribed Centers, Mediate Visual Recognition”, *Trends in Cognitive Sciences*, 17(5): 210–219. doi: 10.1016/j.tics.2013.03.007
+* Behrmann, Marlene and Tim Shallice, 1995, “Pure Alexia: A Nonspatial Visual Disorder Affecting Letter Activation”, *Cognitive Neuropsychology*, 12(4): 409–454. doi: 10.1080/02643299508252004
+* Blake, Randolph, Jan Brascamp, and David J. Heeger, 2014, “Can Binocular Rivalry Reveal Neural Correlates of Consciousness?” *Philosophical Transactions of the Royal Society B: Biological Sciences*, 369(1641): 20130211. doi: 10.1098/rstb.2013.0211
+* Block, Ned, 1995, “On a Confusion about a Function of Consciousness”, *Behavioral and Brain Sciences* 18: 227–47. doi: 10.1017/S0140525X00038188
+* –––, 2007, “Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience”, *The Behavioral and Brain Sciences*, 30(5–6): 481–499. doi: 10.1017/S0140525X07002786
+* –––, 2018, “If Perception Is Probabilistic, Why Does It Not Seem Probabilistic?” *Philosophical Transactions of the Royal Society B: Biological Sciences*, 373(1755): 20170341. doi: 10.1098/rstb.2017.0341
+* Boly, Melanie, Marcello Massimini, Naotsugu Tsuchiya, Bradley R. Postle, Christof Koch, and Giulio Tononi, 2017, “Are the Neural Correlates of Consciousness in the Front or in the Back of the Cerebral Cortex? Clinical and Neuroimaging Evidence”, *Journal of Neuroscience*, 37(40): 9603–9613. doi: 10.1523/JNEUROSCI.3218-16.2017
+* Born, Richard T. and David C. Bradley, 2005, “Structure and Function of Visual Area MT”, *Annual Review of Neuroscience*, 28: 157–189. doi: 10.1146/annurev.neuro.26.041002.131052
+* Breitmeyer, Bruno and Haluk Ogmen, 2006, *Visual Masking: Time Slices Through Conscious and Unconscious Vision*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198530671.001.0001
+* Britten, Kenneth H., Michael N. Shadlen, Wiliam T. Newsome, and J. Anthony Movshon, 1992, “The Analysis of Visual Motion: A Comparison of Neuronal and Psychophysical Performance”, *Journal of Neuroscience* 12(12): 4745–4765. doi: 10.1523/JNEUROSCI.12-12-04745.1992
+* Campion, John, Richard Latto, and Y. M. Smith, 1983, “Is Blind-Sight an Effect of Scattered Light, Spared Cortex, and Near-Threshold Vision”, *Behavioral and Brain Sciences*, 6(03): 423–448. doi: 10.1017/S0140525X00016861
+* Cao, Rosa, 2012, “A Teleosemantic Approach to Information in the Brain”, *Biology and Philosophy*, 27(1): 49–71. doi: 10.1007/s10539-011-9292-0
+* –––, 2014, “Signaling in the Brain: In Search of Functional Units”, *Philosophy of Science*, 81(5): 891–901. doi: 10.1086/677688
+* Carruthers, Peter, 2011, *The Opacity of Mind: An Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199596195.001.0001
 * Chalmers, David J, 1995, “Facing up to the Problem of Consciousness”, *Journal of Consciousness Studies*, 2(3): 200–219.
 * –––, 1996, *The Conscious Mind: In Search of a Fundamental Theory*, New York: Oxford University Press.
 * –––, 2000, “What Is a Neural Correlate of Consciousness”, *Neural Correlates of Consciousness: Empirical and Conceptual Questions*, Thomas Metzinger (ed.), Cambridge, MA: MIT Press, 17–40.
-* Chun, Marvin M., Julie D. Golomb, and Nicholas B. Turk-Browne, 2011, “A Taxonomy of External and Internal Attention”, *Annual Review of Psychology* 62: 73–101. doi:10.1146/annurev.psych.093008.100427
+* Chun, Marvin M., Julie D. Golomb, and Nicholas B. Turk-Browne, 2011, “A Taxonomy of External and Internal Attention”, *Annual Review of Psychology* 62: 73–101. doi: 10.1146/annurev.psych.093008.100427
 * Churchland, Patricia S., 1996, “The Hornswoggle Problem”, *Journal of Consciousness Studies*, 3(5–6): 402–408.
-* Clark, Andy, 2001, “Visual Experience and Motor Action: Are the Bonds Too Tight?” *Philosophical Review*, 110(4): 495–520. doi:10.2307/3182592
-* Cohen, Marlene R. and William T. Newsome, 2004, “What Electrical Microstimulation Has Revealed about the Neural Basis of Cognition”, *Current Opinion in Neurobiology*, 14(2): 169–177. doi:10.1016/j.conb.2004.03.016
-* –––, 2009, “Estimates of the Contribution of Single Neurons to Perception Depend on Timescale and Noise Correlation”, *Journal of Neuroscience*, 29(20): 6635–6648. doi:10.1523/JNEUROSCI.5179-08.2009
-* Cohen, Michael A. and Daniel C. Dennett, 2011, “Consciousness Cannot Be Separated from Function”, *Trends in Cognitive Sciences*, 15(8): 358–364. doi:10.1016/j.tics.2011.06.008
-* Colombo, Matteo and Peggy Seriès, 2012, “Bayes in the Brain—On Bayesian Modelling in Neuroscience”, *The British Journal for the Philosophy of Science*, 63(3): 697–723. doi:10.1093/bjps/axr043
-* Cowey, Alan, 2010, “The Blindsight Saga”, *Experimental Brain Research*, 200(1): 3–24. doi:10.1007/s00221-009-1914-2
+* Clark, Andy, 2001, “Visual Experience and Motor Action: Are the Bonds Too Tight?” *Philosophical Review*, 110(4): 495–520. doi: 10.2307/3182592
+* Cohen, Marlene R. and William T. Newsome, 2004, “What Electrical Microstimulation Has Revealed about the Neural Basis of Cognition”, *Current Opinion in Neurobiology*, 14(2): 169–177. doi: 10.1016/j.conb.2004.03.016
+* –––, 2009, “Estimates of the Contribution of Single Neurons to Perception Depend on Timescale and Noise Correlation”, *Journal of Neuroscience*, 29(20): 6635–6648. doi: 10.1523/JNEUROSCI.5179-08.2009
+* Cohen, Michael A. and Daniel C. Dennett, 2011, “Consciousness Cannot Be Separated from Function”, *Trends in Cognitive Sciences*, 15(8): 358–364. doi: 10.1016/j.tics.2011.06.008
+* Colombo, Matteo and Peggy Seriès, 2012, “Bayes in the Brain—On Bayesian Modelling in Neuroscience”, *The British Journal for the Philosophy of Science*, 63(3): 697–723. doi: 10.1093/bjps/axr043
+* Cowey, Alan, 2010, “The Blindsight Saga”, *Experimental Brain Research*, 200(1): 3–24. doi: 10.1007/s00221-009-1914-2
 * Crick, Francis and Christof Koch, 1990, “Toward a Neurobiological Theory of Consciousness”, *Seminars in the Neurosciences*, 2: 263–275.
-* –––, 1998, “Consciousness and Neuroscience”, *Cerebral Cortex*, 8(2): 97–107. doi:10.1093/cercor/8.2.97
-* –––, 2003, “A Framework for Consciousness”, *Nature Neuroscience*, 6(2): 119–126. doi:10.1038/nn0203-119
-* deCharms, R. Christopher and Anthony Zador, 2000, “Neural Representation and the Cortical Code”, *Annual Review of Neuroscience*, 23: 613–647. doi:10.1146/annurev.neuro.23.1.613
-* Dehaene, Stanislas and Jean-Pierre Changeux, 2011, “Experimental and Theoretical Approaches to Conscious Processing”, *Neuron*, 70(2): 200–227. doi:10.1016/j.neuron.2011.03.018
-* Dehaene, Stanislas, Jean-Pierre Changeux, Lionel Naccache, Jérôme Sackur, and Claire Sergent, 2006, “Conscious, Preconscious, and Subliminal Processing: A Testable Taxonomy”, *Trends in Cognitive Sciences*, 10(5): 204–211. doi:10.1016/j.tics.2006.03.007
-* Dehaene, Stanislas, Michel Kerszberg, and Jean-Pierre Changeux, 1998, “A Neuronal Model of a Global Workspace in Effortful Cognitive Tasks”, *Proceedings of the National Academy of Sciences of the United States of America*, 95(24): 14529–14534. doi:10.1073/pnas.95.24.14529
-* Dehaene, Stanislas and Lionel Naccache, 2001, “Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework”, *Cognition* 79(1): 1–37. doi:10.1016/S0010-0277(00)00123-2
-* Denison, Rachel N., 2017, “Precision, Not Confidence, Describes the Uncertainty of Perceptual Experience: Comment on John Morrison’s ‘Perceptual Confidence.’” *Analytic Philosophy*, 58(1): 58–70. doi:10.1111/phib.12092
-* Dennett, Daniel C., 2018, “Facing up to the Hard Question of Consciousness”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 373(1755): 20170342. doi:10.1098/rstb.2017.0342
-* Dienes, Zoltán and Anil Seth, 2010, “Gambling on the Unconscious: A Comparison of Wagering and Confidence Ratings as Measures of Awareness in an Artificial Grammar Task”, *Consciousness and Cognition*, 19(2): 674–681. doi:10.1016/j.concog.2009.09.009
-* –––, 2010, “Measuring Any Conscious Content versus Measuring the Relevant Conscious Content: Comment on Sandberg et Al”, *Consciousness and Cognition*, 19(4): 1079–1080. doi:10.1016/j.concog.2010.03.009
-* Drayson, Zoe, 2014, “Intentional Action and the Post-Coma Patient”, *Topoi*, 33(1): 23–31. doi:10.1007/s11245-013-9185-8
+* –––, 1998, “Consciousness and Neuroscience”, *Cerebral Cortex*, 8(2): 97–107. doi: 10.1093/cercor/8.2.97
+* –––, 2003, “A Framework for Consciousness”, *Nature Neuroscience*, 6(2): 119–126. doi: 10.1038/nn0203-119
+* deCharms, R. Christopher and Anthony Zador, 2000, “Neural Representation and the Cortical Code”, *Annual Review of Neuroscience*, 23: 613–647. doi: 10.1146/annurev.neuro.23.1.613
+* Dehaene, Stanislas and Jean-Pierre Changeux, 2011, “Experimental and Theoretical Approaches to Conscious Processing”, *Neuron*, 70(2): 200–227. doi: 10.1016/j.neuron.2011.03.018
+* Dehaene, Stanislas, Jean-Pierre Changeux, Lionel Naccache, Jérôme Sackur, and Claire Sergent, 2006, “Conscious, Preconscious, and Subliminal Processing: A Testable Taxonomy”, *Trends in Cognitive Sciences*, 10(5): 204–211. doi: 10.1016/j.tics.2006.03.007
+* Dehaene, Stanislas, Michel Kerszberg, and Jean-Pierre Changeux, 1998, “A Neuronal Model of a Global Workspace in Effortful Cognitive Tasks”, *Proceedings of the National Academy of Sciences of the United States of America*, 95(24): 14529–14534. doi: 10.1073/pnas.95.24.14529
+* Dehaene, Stanislas and Lionel Naccache, 2001, “Towards a Cognitive Neuroscience of Consciousness: Basic Evidence and a Workspace Framework”, *Cognition* 79(1): 1–37. doi: 10.1016/S0010-0277(00)00123-2
+* Denison, Rachel N., 2017, “Precision, Not Confidence, Describes the Uncertainty of Perceptual Experience: Comment on John Morrison’s ‘Perceptual Confidence.’” *Analytic Philosophy*, 58(1): 58–70. doi: 10.1111/phib.12092
+* Dennett, Daniel C., 2018, “Facing up to the Hard Question of Consciousness”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 373(1755): 20170342. doi: 10.1098/rstb.2017.0342
+* Dienes, Zoltán and Anil Seth, 2010, “Gambling on the Unconscious: A Comparison of Wagering and Confidence Ratings as Measures of Awareness in an Artificial Grammar Task”, *Consciousness and Cognition*, 19(2): 674–681. doi: 10.1016/j.concog.2009.09.009
+* –––, 2010, “Measuring Any Conscious Content versus Measuring the Relevant Conscious Content: Comment on Sandberg et Al”, *Consciousness and Cognition*, 19(4): 1079–1080. doi: 10.1016/j.concog.2010.03.009
+* Drayson, Zoe, 2014, “Intentional Action and the Post-Coma Patient”, *Topoi*, 33(1): 23–31. doi: 10.1007/s11245-013-9185-8
 * Dretske, Fred, 1981, *Knowledge and the Flow of Information*, Cambridge: MIT Press.
-* Dux, Paul E. and René Marois, 2009, “The Attentional Blink: A Review of Data and Theory”, *Attention, Perception, & Psychophysics*, 71(8): 1683–1700. doi:10.3758/APP.71.8.1683
+* Dux, Paul E. and René Marois, 2009, “The Attentional Blink: A Review of Data and Theory”, *Attention, Perception, & Psychophysics*, 71(8): 1683–1700. doi: 10.3758/APP.71.8.1683
 * Ehrsson, H. Henrik, 2009, “Rubber Hand Illusion”, in *The Oxford Companion to Consciousness*, Tim Bayne, Axel Cleeremans, and Patrick Wilken (eds), Oxford: Oxford University Press, 531–573.
 * Evans, Gareth, 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
 * Farah, Martha J., 2004, *Visual Agnosia: Disorders of Object Recognition and What They Tell Us About Normal Vision*, second edition, Cambridge, MA: MIT Press.
-* Feest, Uljana, 2012, “Introspection as a Method and Introspection as a Feature of Consciousness”, *Inquiry*, 55(1): 1–16. doi:10.1080/0020174X.2012.643619
-* –––, 2014, “Phenomenal Experiences, First-Person Methods, and the Artificiality of Experimental Data”, *Philosophy of Science*, 81(5): 927–939. doi:10.1086/677689
+* Feest, Uljana, 2012, “Introspection as a Method and Introspection as a Feature of Consciousness”, *Inquiry*, 55(1): 1–16. doi: 10.1080/0020174X.2012.643619
+* –––, 2014, “Phenomenal Experiences, First-Person Methods, and the Artificiality of Experimental Data”, *Philosophy of Science*, 81(5): 927–939. doi: 10.1086/677689
 * Felleman, Daniel J. and David C. Van Essen, 1991, “Distributed Hierarchical Processing in the Primate Cerebral Cortex”, *Cerebral Cortex*, 1(1): 1–47.
-* Fernández-Espejo, Davinia and Adrian M. Owen, 2013, “Detecting Awareness after Severe Brain Injury”, *Nature Reviews Neuroscience*, 14(11): 801–809. doi:10.1038/nrn3608
-* Fetsch, Christopher R., Roozbeh Kiani, William T. Newsome, and Michael N. Shadlen, 2014, “Effects of Cortical Microstimulation on Confidence in a Perceptual Decision”, *Neuron*, 83(4): 797–804. doi:10.1016/j.neuron.2014.07.011
-* Fink, Sascha Benjamin, 2016, “A Deeper Look at the ‘Neural Correlate of Consciousness’”, *Frontiers in Psychology*, 7(1044). doi:10.3389/fpsyg.2016.01044
-* Franz, Volker H., 2001, “Action Does Not Resist Visual Illusion”, *Trends in Cognitive Science*, 5(11): 457–459. doi:10.1016/S1364-6613(00)01772-1
-* Franz, Volker H. and Karl R. Gegenfurtner, 2008, “Grasping Visual Illusions: Consistent Data and No Dissociation”, *Cognitive Neuropsychology*, 25(7–8): 920–950. doi:10.1080/02643290701862449
-* Frässle, Stefan, Jens Sommer, Andreas Jansen, Marnix Naber, and Wolfgang Einhäuser, 2014, “Binocular Rivalry: Frontal Activity Relates to Introspection and Action but Not to Perception”, *Journal of Neuroscience*, 34(5): 1738–1747. doi:10.1523/JNEUROSCI.4403-13.2014
-* Freeman, Alan W., 2005, “Multistage Model for Binocular Rivalry”, *Journal of Neurophysiology*, 94(6): 4412–4420. doi:10.1152/jn.00557.2005
-* Gaillard, Raphaël, Lionel Naccache, Philippe Pinel, Stéphane Clémenceau, Emmanuelle Volle, Dominique Hasboun, Sophie Dupont, et al, 2006, “Direct Intracranial, FMRI, and Lesion Evidence for the Causal Role of Left Inferotemporal Cortex in Reading”, *Neuron*, 50(2): 191–204. doi:10.1016/j.neuron.2006.03.031
-* Gelder, Beatrice de, Marco Tamietto, Geert van Boxtel, Rainer Goebel, Arash Sahraie, Jan van den Stock, Bernard M. C. Stienen, Lawrence Weiskrantz, and Alan Pegna, 2008, “Intact Navigation Skills after Bilateral Loss of Striate Cortex”, *Current Biology*, 18(24): R1128–R1129. doi:10.1016/j.cub.2008.11.002
-* Georgopoulos, Apostolos P., John F. Kalaska, Roberto Caminiti, and Joe T. Massey, 1982, “On the Relations between the Direction of Two-Dimensional Arm Movements and Cell Discharge in Primate Motor Cortex”, *Journal of Neuroscience*, 2(11): 1527–1537. doi:10.1523/JNEUROSCI.02-11-01527.1982
-* Glezer, Laurie S., Judy Kim, Josh Rule, Xiong Jiang, and Maximilian Riesenhuber, 2015, “Adding Words to the Brain’s Visual Dictionary: Novel Word Learning Selectively Sharpens Orthographic Representations in the VWFA”, *Journal of Neuroscience*, 35(12): 4965–4972. doi:10.1523/JNEUROSCI.4031-14.2015
-* Goldman, Alvin I., 2006, *Simulating Minds: The Philosophy, Psychology and Neuroscience of Mindreading*, New York: Oxford University Press. doi:10.1093/0195138929.001.0001
-* Goodale, Melvyn A. and A. David Milner, 2004, *Sight Unseen: An Exploration of Conscious and Unconscious Vision*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199596966.001.0001
-* Graaf, Tom A. de, Po-Jang Hsieh, and Alexander T. Sack, 2012, “The ‘Correlates’ in Neural Correlates of Consciousness”, *Neuroscience & Biobehavioral Reviews*, 36(1): 191–197. doi:10.1016/j.neubiorev.2011.05.012
-* Greenberg, Daniel L, 2007, “Comment on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi:10.1126/science.1135284
-* Grimaldi, Piercesare, Hakwan Lau, and Michele A. Basso, 2015, “There Are Things That We Know That We Know, and There Are Things That We Do Not Know We Do Not Know: Confidence in Decision-Making”, *Neuroscience & Biobehavioral Reviews*, 55(August): 88–97. doi:10.1016/j.neubiorev.2015.04.006
-* Haffenden, Angela M. and Melvyn A. Goodale, 1998, “The Effect of Pictorial Illusion on Prehension and Perception”, *Journal of Cognitive Neuroscience*, 10(1): 122–136. doi:10.1162/089892998563824
-* Haffenden, Angela M., Karen C. Schiff, and Melvyn A. Goodale, 2001, “The Dissociation between Perception and Action in the Ebbinghaus Illusion”, *Current Biology*, 11(3): 177–181. doi:10.1016/S0960-9822(01)00023-9
-* Harman, Gilbert 1990, “The Intrinsic Quality of Experience”, *Philosophical Perspectives*, issue:*Action Theory and Philosophy of Mind*, 4: 31–52. doi:10.2307/2214186
-* Heal, Jane, 1996, “Simulation, Theory and Content”, in *Theories of Theories of Mind*, Peter Carruthers and Peter K. Smith (eds.), Cambridge: Cambridge University Press, 75–89. doi:10.1017/CBO9780511597985.006
-* Hirshorn, Elizabeth A., Yuanning Li, Michael J. Ward, R. Mark Richardson, Julie A. Fiez, and Avniel Singh Ghuman, 2016, “Decoding and Disrupting Left Midfusiform Gyrus Activity during Word Reading”, *Proceedings of the National Academy of Sciences*, 113(29): 8162–8167. doi:10.1073/pnas.1604126113
-* Histed, Mark H., Amy M. Ni, and John H. R. Maunsell, 2013, “Insights into Cortical Mechanisms of Behavior from Microstimulation Experiments”, *Progress in Neurobiology*, Special Issue: Conversion of Sensory Signals into Perceptions, Memories and Decisions, 103(April): 115–130. doi:10.1016/j.pneurobio.2012.01.006
+* Fernández-Espejo, Davinia and Adrian M. Owen, 2013, “Detecting Awareness after Severe Brain Injury”, *Nature Reviews Neuroscience*, 14(11): 801–809. doi: 10.1038/nrn3608
+* Fetsch, Christopher R., Roozbeh Kiani, William T. Newsome, and Michael N. Shadlen, 2014, “Effects of Cortical Microstimulation on Confidence in a Perceptual Decision”, *Neuron*, 83(4): 797–804. doi: 10.1016/j.neuron.2014.07.011
+* Fink, Sascha Benjamin, 2016, “A Deeper Look at the ‘Neural Correlate of Consciousness’”, *Frontiers in Psychology*, 7(1044). doi: 10.3389/fpsyg.2016.01044
+* Franz, Volker H., 2001, “Action Does Not Resist Visual Illusion”, *Trends in Cognitive Science*, 5(11): 457–459. doi: 10.1016/S1364-6613(00)01772-1
+* Franz, Volker H. and Karl R. Gegenfurtner, 2008, “Grasping Visual Illusions: Consistent Data and No Dissociation”, *Cognitive Neuropsychology*, 25(7–8): 920–950. doi: 10.1080/02643290701862449
+* Frässle, Stefan, Jens Sommer, Andreas Jansen, Marnix Naber, and Wolfgang Einhäuser, 2014, “Binocular Rivalry: Frontal Activity Relates to Introspection and Action but Not to Perception”, *Journal of Neuroscience*, 34(5): 1738–1747. doi: 10.1523/JNEUROSCI.4403-13.2014
+* Freeman, Alan W., 2005, “Multistage Model for Binocular Rivalry”, *Journal of Neurophysiology*, 94(6): 4412–4420. doi: 10.1152/jn.00557.2005
+* Gaillard, Raphaël, Lionel Naccache, Philippe Pinel, Stéphane Clémenceau, Emmanuelle Volle, Dominique Hasboun, Sophie Dupont, et al, 2006, “Direct Intracranial, FMRI, and Lesion Evidence for the Causal Role of Left Inferotemporal Cortex in Reading”, *Neuron*, 50(2): 191–204. doi: 10.1016/j.neuron.2006.03.031
+* Gelder, Beatrice de, Marco Tamietto, Geert van Boxtel, Rainer Goebel, Arash Sahraie, Jan van den Stock, Bernard M. C. Stienen, Lawrence Weiskrantz, and Alan Pegna, 2008, “Intact Navigation Skills after Bilateral Loss of Striate Cortex”, *Current Biology*, 18(24): R1128–R1129. doi: 10.1016/j.cub.2008.11.002
+* Georgopoulos, Apostolos P., John F. Kalaska, Roberto Caminiti, and Joe T. Massey, 1982, “On the Relations between the Direction of Two-Dimensional Arm Movements and Cell Discharge in Primate Motor Cortex”, *Journal of Neuroscience*, 2(11): 1527–1537. doi: 10.1523/JNEUROSCI.02-11-01527.1982
+* Glezer, Laurie S., Judy Kim, Josh Rule, Xiong Jiang, and Maximilian Riesenhuber, 2015, “Adding Words to the Brain’s Visual Dictionary: Novel Word Learning Selectively Sharpens Orthographic Representations in the VWFA”, *Journal of Neuroscience*, 35(12): 4965–4972. doi: 10.1523/JNEUROSCI.4031-14.2015
+* Goldman, Alvin I., 2006, *Simulating Minds: The Philosophy, Psychology and Neuroscience of Mindreading*, New York: Oxford University Press. doi: 10.1093/0195138929.001.0001
+* Goodale, Melvyn A. and A. David Milner, 2004, *Sight Unseen: An Exploration of Conscious and Unconscious Vision*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199596966.001.0001
+* Graaf, Tom A. de, Po-Jang Hsieh, and Alexander T. Sack, 2012, “The ‘Correlates’ in Neural Correlates of Consciousness”, *Neuroscience & Biobehavioral Reviews*, 36(1): 191–197. doi: 10.1016/j.neubiorev.2011.05.012
+* Greenberg, Daniel L, 2007, “Comment on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi: 10.1126/science.1135284
+* Grimaldi, Piercesare, Hakwan Lau, and Michele A. Basso, 2015, “There Are Things That We Know That We Know, and There Are Things That We Do Not Know We Do Not Know: Confidence in Decision-Making”, *Neuroscience & Biobehavioral Reviews*, 55(August): 88–97. doi: 10.1016/j.neubiorev.2015.04.006
+* Haffenden, Angela M. and Melvyn A. Goodale, 1998, “The Effect of Pictorial Illusion on Prehension and Perception”, *Journal of Cognitive Neuroscience*, 10(1): 122–136. doi: 10.1162/089892998563824
+* Haffenden, Angela M., Karen C. Schiff, and Melvyn A. Goodale, 2001, “The Dissociation between Perception and Action in the Ebbinghaus Illusion”, *Current Biology*, 11(3): 177–181. doi: 10.1016/S0960-9822(01)00023-9
+* Harman, Gilbert 1990, “The Intrinsic Quality of Experience”, *Philosophical Perspectives*, issue: *Action Theory and Philosophy of Mind*, 4: 31–52. doi: 10.2307/2214186
+* Heal, Jane, 1996, “Simulation, Theory and Content”, in *Theories of Theories of Mind*, Peter Carruthers and Peter K. Smith (eds.), Cambridge: Cambridge University Press, 75–89. doi: 10.1017/CBO9780511597985.006
+* Hirshorn, Elizabeth A., Yuanning Li, Michael J. Ward, R. Mark Richardson, Julie A. Fiez, and Avniel Singh Ghuman, 2016, “Decoding and Disrupting Left Midfusiform Gyrus Activity during Word Reading”, *Proceedings of the National Academy of Sciences*, 113(29): 8162–8167. doi: 10.1073/pnas.1604126113
+* Histed, Mark H., Amy M. Ni, and John H. R. Maunsell, 2013, “Insights into Cortical Mechanisms of Behavior from Microstimulation Experiments”, *Progress in Neurobiology*, Special Issue: Conversion of Sensory Signals into Perceptions, Memories and Decisions, 103(April): 115–130. doi: 10.1016/j.pneurobio.2012.01.006
 * Horgan, Terence, John Tienson, and George Graham, 2003, “The Phenomenology of First Person Agency”, In *Physicalism and Mental Causation: The Metaphysics of Mind and Action*, Walter, Sven and Heinz-Dieter Heckmann (eds.), Exeter: Imprint Academic, 323–341.
-* Irvine, Elizabeth, 2012a, “Old Problems with New Measures in the Science of Consciousness”, *The British Journal for the Philosophy of Science*, 63(3): 627–648. doi:10.1093/bjps/axs019
-* –––, 2012b, *Consciousness as a Scientific Concept: A Philosophy of Science Perspective: A Philosophy of Science Perspective*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-5173-6
-* Jackson, Frank, 1982, “Epiphenomenal Qualia”, *Philosophical Quarterly* 32(127): 127–136. doi:10.2307/2960077
-* James, Thomas W., Jody Culham, G. Keith Humphrey, A. David Milner, and Melvyn A. Goodale, 2003, “Ventral Occipital Lesions Impair Object Recognition but Not Object-Directed Grasping: An FMRI Study”, *Brain*, 126(11): 2463–2475. doi:10.1093/brain/awg248
-* Kanwisher, Nancy, 2000, “Domain Specificity in Face Perception”, *Nature Neuroscience*, 3(8): 759–63. doi:10.1038/77664
-* Kiani, Roozbeh and Michael N. Shadlen, 2009, “Representation of Confidence Associated with a Decision by Neurons in the Parietal Cortex”, *Science*, 324(5928): 759–64. doi:10.1126/science.1169405
-* Kim, Byounghoon and Michele A. Basso, 2008, “Saccade Target Selection in the Superior Colliculus: A Signal Detection Theory Approach”, *Journal of Neuroscience*, 28(12): 2991–3007. doi:10.1523/JNEUROSCI.5424-07.2008
-* King, Sheila M., Paul Azzopardi, Alan Cowey, John Oxbury, and Susan Oxbury, 1996, “The Role of Light Scatter in the Residual Visual Sensitivity of Patients with Complete Cerebral Hemispherectomy”, *Visual Neuroscience*, 13(1): 1–13. doi:10.1017/S0952523800007082
-* Klein, Colin, 2017, “Consciousness, Intention, and Command-Following in the Vegetative State”, *The British Journal for the Philosophy of Science*, 68(1): 27–54. doi:10.1093/bjps/axv012
-* Knill, David C. and Alexandre Pouget, 2004, “The Bayesian Brain: The Role of Uncertainty in Neural Coding and Computation”, *Trends in Neurosciences*, 27(12): 712–719. doi:10.1016/j.tins.2004.10.007
-* Ko, Yoshiaki and Hakwan Lau, 2012, “A Detection Theoretic Explanation of Blindsight Suggests a Link between Conscious Perception and Metacognition”, *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 367(1594): 1401–1411. doi:10.1098/rstb.2011.0380
-* Koch, Christof, Marcello Massimini, Melanie Boly, and Giulio Tononi, 2016, “Neural Correlates of Consciousness: Progress and Problems”, *Nature Reviews Neuroscience*, 17(5): 307–321. doi:10.1038/nrn.2016.22
-* Kovács, Iilona, Thomas V. Papathomas, Ming Yang, and Ákos Fehér, 1996, “When the Brain Changes Its Mind: Interocular Grouping during Binocular Rivalry”, *Proceedings of the National Academy of Sciences of the United States of America*, 93(26): 15508–15511. doi:10.1073/pnas.93.26.15508
-* Kozuch, Benjamin, 2014, “Prefrontal Lesion Evidence against Higher-Order Theories of Consciousness”, *Philosophical Studies*, 167(3): 721–746. doi:10.1007/s11098-013-0123-9
-* Kravitz, Dwight J., Kadharbatcha S. Saleem, Chris I. Baker, and Mortimer Mishkin, 2011, “A New Neural Framework for Visuospatial Processing”, *Nature Reviews. Neuroscience*, 12(4): 217–230. doi:10.1038/nrn3008
-* Kriegel, Uriah, 2003, “Consciousness as Intransitive Self-Consciousness: Two Views and an Argument”, *Canadian Journal of Philosophy*, 33(1): 103–132. doi:10.1080/00455091.2003.10716537
-* Lamme, Victor A. F., 2006, “Towards a True Neural Stance on Consciousness”, *Trends in Cognitive Sciences*, 10(11): 494–501. doi:10.1016/j.tics.2006.09.001
-* –––, 2010, “How Neuroscience Will Change Our View on Consciousness”, *Cognitive Neuroscience*, 1(3): 204–220. doi:10.1080/17588921003731586
+* Irvine, Elizabeth, 2012a, “Old Problems with New Measures in the Science of Consciousness”, *The British Journal for the Philosophy of Science*, 63(3): 627–648. doi: 10.1093/bjps/axs019
+* –––, 2012b, *Consciousness as a Scientific Concept: A Philosophy of Science Perspective: A Philosophy of Science Perspective*, Dordrecht: Springer Netherlands. doi: 10.1007/978-94-007-5173-6
+* Jackson, Frank, 1982, “Epiphenomenal Qualia”, *Philosophical Quarterly* 32(127): 127–136. doi: 10.2307/2960077
+* James, Thomas W., Jody Culham, G. Keith Humphrey, A. David Milner, and Melvyn A. Goodale, 2003, “Ventral Occipital Lesions Impair Object Recognition but Not Object-Directed Grasping: An FMRI Study”, *Brain*, 126(11): 2463–2475. doi: 10.1093/brain/awg248
+* Kanwisher, Nancy, 2000, “Domain Specificity in Face Perception”, *Nature Neuroscience*, 3(8): 759–63. doi: 10.1038/77664
+* Kiani, Roozbeh and Michael N. Shadlen, 2009, “Representation of Confidence Associated with a Decision by Neurons in the Parietal Cortex”, *Science*, 324(5928): 759–64. doi: 10.1126/science.1169405
+* Kim, Byounghoon and Michele A. Basso, 2008, “Saccade Target Selection in the Superior Colliculus: A Signal Detection Theory Approach”, *Journal of Neuroscience*, 28(12): 2991–3007. doi: 10.1523/JNEUROSCI.5424-07.2008
+* King, Sheila M., Paul Azzopardi, Alan Cowey, John Oxbury, and Susan Oxbury, 1996, “The Role of Light Scatter in the Residual Visual Sensitivity of Patients with Complete Cerebral Hemispherectomy”, *Visual Neuroscience*, 13(1): 1–13. doi: 10.1017/S0952523800007082
+* Klein, Colin, 2017, “Consciousness, Intention, and Command-Following in the Vegetative State”, *The British Journal for the Philosophy of Science*, 68(1): 27–54. doi: 10.1093/bjps/axv012
+* Knill, David C. and Alexandre Pouget, 2004, “The Bayesian Brain: The Role of Uncertainty in Neural Coding and Computation”, *Trends in Neurosciences*, 27(12): 712–719. doi: 10.1016/j.tins.2004.10.007
+* Ko, Yoshiaki and Hakwan Lau, 2012, “A Detection Theoretic Explanation of Blindsight Suggests a Link between Conscious Perception and Metacognition”, *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 367(1594): 1401–1411. doi: 10.1098/rstb.2011.0380
+* Koch, Christof, Marcello Massimini, Melanie Boly, and Giulio Tononi, 2016, “Neural Correlates of Consciousness: Progress and Problems”, *Nature Reviews Neuroscience*, 17(5): 307–321. doi: 10.1038/nrn.2016.22
+* Kovács, Iilona, Thomas V. Papathomas, Ming Yang, and Ákos Fehér, 1996, “When the Brain Changes Its Mind: Interocular Grouping during Binocular Rivalry”, *Proceedings of the National Academy of Sciences of the United States of America*, 93(26): 15508–15511. doi: 10.1073/pnas.93.26.15508
+* Kozuch, Benjamin, 2014, “Prefrontal Lesion Evidence against Higher-Order Theories of Consciousness”, *Philosophical Studies*, 167(3): 721–746. doi: 10.1007/s11098-013-0123-9
+* Kravitz, Dwight J., Kadharbatcha S. Saleem, Chris I. Baker, and Mortimer Mishkin, 2011, “A New Neural Framework for Visuospatial Processing”, *Nature Reviews. Neuroscience*, 12(4): 217–230. doi: 10.1038/nrn3008
+* Kriegel, Uriah, 2003, “Consciousness as Intransitive Self-Consciousness: Two Views and an Argument”, *Canadian Journal of Philosophy*, 33(1): 103–132. doi: 10.1080/00455091.2003.10716537
+* Lamme, Victor A. F., 2006, “Towards a True Neural Stance on Consciousness”, *Trends in Cognitive Sciences*, 10(11): 494–501. doi: 10.1016/j.tics.2006.09.001
+* –––, 2010, “How Neuroscience Will Change Our View on Consciousness”, *Cognitive Neuroscience*, 1(3): 204–220. doi: 10.1080/17588921003731586
 * Lau, Hakwan and Richard Brown, forthcoming, “The Emperor’s New Phenomenology? The Empirical Case for Conscious Experience without First-Order Representations”, in *Blockheads! Essays on Ned Block’s Philosophy of Mind and Consciousness*, Adam Pautz and Daniel Stoljar (eds), Cambridge, MA: MIT Press.
-* Lau, Hakwan C. and Richard E. Passingham, 2006, “Relative Blindsight in Normal Observers and the Neural Correlate of Visual Consciousness”, *Proceedings of the National Academy of Sciences*, 103(49): 18763–18768. doi:10.1073/pnas.0607716103
-* Lau, Hakwan and David Rosenthal, 2011, “Empirical Support for Higher-Order Theories of Conscious Awareness”, *Trends in Cognitive Sciences*, 15(8): 365–373. doi:10.1016/j.tics.2011.05.009
-* Lee, Joonyeol and John H. R. Maunsell, 2009, “A Normalization Model of Attentional Modulation of Single Unit Responses”, *PLoS ONE*, 4(2): e4651. doi:10.1371/journal.pone.0004651
-* Leopold, David A., 2012, “Primary Visual Cortex: Awareness and Blindsight”, *Annual Review of Neuroscience*, 35: 91–109. doi:10.1146/annurev-neuro-062111-150356
-* Leopold, David A. and Nikos K. Logothetis, 1996, “Activity Changes in Early Visual Cortex Reflect Monkeys’ Percepts during Binocular Rivalry”, *Nature*, 379(6565): 549–553. doi:10.1038/379549a0
-* Levine, Joseph, 1983, “Materialism and Qualia: The Explanatory Gap”, *Pacific Philosophical Quarterly* 64(4): 354–361. doi:10.1111/j.1468-0114.1983.tb00207.x
-* Li, Fei Fei, Rufin VanRullen, Christof Koch, and Pietro Perona, 2002, “Rapid Natural Scene Categorization in the near Absence of Attention”, *Proceedings of the National Academy of Sciences of the United States of America*, 99(14): 9596–9601. doi:10.1073/pnas.092277599
-* Logothetis, Nikos K., David A. Leopold, and David L. Sheinberg, 1996, “What Is Rivalling during Binocular Rivalry?” *Nature*, 380(6575): 621–624. doi:10.1038/380621a0
-* Lumer, Erik D. and Geraint Rees, 1999, “Covariation of Activity in Visual and Prefrontal Cortex Associated with Subjective Visual Perception”, *Proceedings of the National Academy of Sciences*, 96(4): 1669–1673. doi:10.1073/pnas.96.4.1669
+* Lau, Hakwan C. and Richard E. Passingham, 2006, “Relative Blindsight in Normal Observers and the Neural Correlate of Visual Consciousness”, *Proceedings of the National Academy of Sciences*, 103(49): 18763–18768. doi: 10.1073/pnas.0607716103
+* Lau, Hakwan and David Rosenthal, 2011, “Empirical Support for Higher-Order Theories of Conscious Awareness”, *Trends in Cognitive Sciences*, 15(8): 365–373. doi: 10.1016/j.tics.2011.05.009
+* Lee, Joonyeol and John H. R. Maunsell, 2009, “A Normalization Model of Attentional Modulation of Single Unit Responses”, *PLoS ONE*, 4(2): e4651. doi: 10.1371/journal.pone.0004651
+* Leopold, David A., 2012, “Primary Visual Cortex: Awareness and Blindsight”, *Annual Review of Neuroscience*, 35: 91–109. doi: 10.1146/annurev-neuro-062111-150356
+* Leopold, David A. and Nikos K. Logothetis, 1996, “Activity Changes in Early Visual Cortex Reflect Monkeys’ Percepts during Binocular Rivalry”, *Nature*, 379(6565): 549–553. doi: 10.1038/379549a0
+* Levine, Joseph, 1983, “Materialism and Qualia: The Explanatory Gap”, *Pacific Philosophical Quarterly* 64(4): 354–361. doi: 10.1111/j.1468-0114.1983.tb00207.x
+* Li, Fei Fei, Rufin VanRullen, Christof Koch, and Pietro Perona, 2002, “Rapid Natural Scene Categorization in the near Absence of Attention”, *Proceedings of the National Academy of Sciences of the United States of America*, 99(14): 9596–9601. doi: 10.1073/pnas.092277599
+* Logothetis, Nikos K., David A. Leopold, and David L. Sheinberg, 1996, “What Is Rivalling during Binocular Rivalry?” *Nature*, 380(6575): 621–624. doi: 10.1038/380621a0
+* Lumer, Erik D. and Geraint Rees, 1999, “Covariation of Activity in Visual and Prefrontal Cortex Associated with Subjective Visual Perception”, *Proceedings of the National Academy of Sciences*, 96(4): 1669–1673. doi: 10.1073/pnas.96.4.1669
 * Mack, Arien and Irvin Rock, 1998, *Inattentional Blindness*, Cambridge, MA: MIT Press.
-* Maier, Alexander, Melanie Wilke, Christopher Aura, Charles Zhu, Frank Q. Ye, and David A. Leopold, 2008, “Divergence of FMRI and Neural Signals in V1 during Perceptual Suppression in the Awake Monkey”, *Nature Neuroscience*, 11(10): 1193–1200. doi:10.1038/nn.2173
-* Maniscalco, Brian and Hakwan Lau, 2012, “A Signal Detection Theoretic Approach for Estimating Metacognitive Sensitivity from Confidence Ratings”, *Consciousness and Cognition*, 21(1): 422–430. doi:10.1016/j.concog.2011.09.021
+* Maier, Alexander, Melanie Wilke, Christopher Aura, Charles Zhu, Frank Q. Ye, and David A. Leopold, 2008, “Divergence of FMRI and Neural Signals in V1 during Perceptual Suppression in the Awake Monkey”, *Nature Neuroscience*, 11(10): 1193–1200. doi: 10.1038/nn.2173
+* Maniscalco, Brian and Hakwan Lau, 2012, “A Signal Detection Theoretic Approach for Estimating Metacognitive Sensitivity from Confidence Ratings”, *Consciousness and Cognition*, 21(1): 422–430. doi: 10.1016/j.concog.2011.09.021
 * Marcel, Anthony J., 2003, “The Sense of Agency: Awareness and Ownership of Action”, in *Agency and Self-Awareness: Issues in Philosophy and Psychology*, Johannes Roessler and Naomi Eilan (eds), Oxford: Oxford University Press, 48–93.
-* Martens, Sander and Brad Wyble, 2010, “The Attentional Blink: Past, Present, and Future of a Blind Spot in Perceptual Awareness”, *Neuroscience & Biobehavioral Reviews*, 34(6): 947–957. doi:10.1016/j.neubiorev.2009.12.005
-* Mazzi, Chiara, Chiara Bagattini, and Silvia Savazzi, 2016, “Blind-Sight vs. Degraded-Sight: Different Measures Tell a Different Story”, *Frontiers in Psychology*, 7(901). doi:10.3389/fpsyg.2016.00901
-* Mégevand, Pierre, David M. Groppe, Matthew S. Goldfinger, Sean T. Hwang, Peter B. Kingsley, Ido Davidesco, and Ashesh D. Mehta, 2014, “Seeing Scenes: Topographic Visual Hallucinations Evoked by Direct Electrical Stimulation of the Parahippocampal Place Area”, *Journal of Neuroscience*, 34(16): 5399–5405. doi:10.1523/JNEUROSCI.5202-13.2014
-* Milner, A. David and Melvyn A. Goodale, 1995, *The Visual Brain in Action*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198524724.001.0001
-* Mole, Christopher, 2009, “Illusions, Demonstratives and the Zombie Action Hypothesis”, *Mind*, 118(472): 995–1011. doi:10.1093/mind/fzp109
+* Martens, Sander and Brad Wyble, 2010, “The Attentional Blink: Past, Present, and Future of a Blind Spot in Perceptual Awareness”, *Neuroscience & Biobehavioral Reviews*, 34(6): 947–957. doi: 10.1016/j.neubiorev.2009.12.005
+* Mazzi, Chiara, Chiara Bagattini, and Silvia Savazzi, 2016, “Blind-Sight vs. Degraded-Sight: Different Measures Tell a Different Story”, *Frontiers in Psychology*, 7(901). doi: 10.3389/fpsyg.2016.00901
+* Mégevand, Pierre, David M. Groppe, Matthew S. Goldfinger, Sean T. Hwang, Peter B. Kingsley, Ido Davidesco, and Ashesh D. Mehta, 2014, “Seeing Scenes: Topographic Visual Hallucinations Evoked by Direct Electrical Stimulation of the Parahippocampal Place Area”, *Journal of Neuroscience*, 34(16): 5399–5405. doi: 10.1523/JNEUROSCI.5202-13.2014
+* Milner, A. David and Melvyn A. Goodale, 1995, *The Visual Brain in Action*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198524724.001.0001
+* Mole, Christopher, 2009, “Illusions, Demonstratives and the Zombie Action Hypothesis”, *Mind*, 118(472): 995–1011. doi: 10.1093/mind/fzp109
 * Montemayor, Carlos and Harry Haroutioun Haladjian, 2015, *Consciousness, Attention, and Conscious Attention*, Cambridge, MA: MIT Press.
-* Monti, Martin M., Audrey Vanhaudenhuyse, Martin R. Coleman, Melanie Boly, John D. Pickard, Luaba Tshibanda, Adrian M. Owen, and Steven Laureys, 2010, “Willful Modulation of Brain Activity in Disorders of Consciousness”, *New England Journal of Medicine*, 362(7): 579–589. doi:10.1056/NEJMoa0905370
-* Morrison, John, 2017, “Perceptual Confidence and Categorization”, *Analytic Philosophy*, 58(1): 71–85. doi:10.1111/phib.12094
-* Naber, Marnix, Stefan Frässle, and Wolfgang Einhäuser, 2011, “Perceptual Rivalry: Reflexes Reveal the Gradual Nature of Visual Awareness”, *PLoS ONE*, 6 (6): e20910. doi:10.1371/journal.pone.0020910
-* Nachev, Parashkev and Masud Husain, 2007, “Comment on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi:10.1126/science.1135096
-* Nagel, Thomas, 1974, “What Is It like to Be a Bat?” *Philosophical Review*, 83 (October): 435–450. doi:10.2307/2183914
-* Newsome, William T. and Edmond B. Paré, 1988, “A Selective Impairment of Motion Perception Following Lesions of the Middle Temporal Visual Area (MT)”, *Journal of Neuroscience*, 8(6): 2201–2211. doi:10.1523/JNEUROSCI.08-06-02201.1988
-* Ngo, Trung T., Steven M. Miller, Guang B. Liu, and John D. Pettigrew, 2000, “Binocular Rivalry and Perceptual Coherence”, *Current Biology*, 10(4): R134–R136. doi:10.1016/S0960-9822(00)00399-7
-* Nichols, Shaun and Stephen P. Stich, 2003, *Mindreading: An Integrated Account of Pretence, Self-Awareness, and Understanding Other Minds*, Oxford: Clarendon. doi:10.1093/0198236107.001.0001
+* Monti, Martin M., Audrey Vanhaudenhuyse, Martin R. Coleman, Melanie Boly, John D. Pickard, Luaba Tshibanda, Adrian M. Owen, and Steven Laureys, 2010, “Willful Modulation of Brain Activity in Disorders of Consciousness”, *New England Journal of Medicine*, 362(7): 579–589. doi: 10.1056/NEJMoa0905370
+* Morrison, John, 2017, “Perceptual Confidence and Categorization”, *Analytic Philosophy*, 58(1): 71–85. doi: 10.1111/phib.12094
+* Naber, Marnix, Stefan Frässle, and Wolfgang Einhäuser, 2011, “Perceptual Rivalry: Reflexes Reveal the Gradual Nature of Visual Awareness”, *PLoS ONE*, 6 (6): e20910. doi: 10.1371/journal.pone.0020910
+* Nachev, Parashkev and Masud Husain, 2007, “Comment on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi: 10.1126/science.1135096
+* Nagel, Thomas, 1974, “What Is It like to Be a Bat?” *Philosophical Review*, 83 (October): 435–450. doi: 10.2307/2183914
+* Newsome, William T. and Edmond B. Paré, 1988, “A Selective Impairment of Motion Perception Following Lesions of the Middle Temporal Visual Area (MT)”, *Journal of Neuroscience*, 8(6): 2201–2211. doi: 10.1523/JNEUROSCI.08-06-02201.1988
+* Ngo, Trung T., Steven M. Miller, Guang B. Liu, and John D. Pettigrew, 2000, “Binocular Rivalry and Perceptual Coherence”, *Current Biology*, 10(4): R134–R136. doi: 10.1016/S0960-9822(00)00399-7
+* Nichols, Shaun and Stephen P. Stich, 2003, *Mindreading: An Integrated Account of Pretence, Self-Awareness, and Understanding Other Minds*, Oxford: Clarendon. doi: 10.1093/0198236107.001.0001
 * Noë, Alva and Evan Thompson, 2004, “Are There Neural Correlates of Consciousness?” *Journal of Consciousness Studies*, 11(1): 3–28.
-* Odegaard, Brian, Piercesare Grimaldi, Seong Hah Cho, Megan A. K. Peters, Hakwan Lau, and Michele A. Basso, 2018, “Superior Colliculus Neuronal Ensemble Activity Signals Optimal Rather than Subjective Confidence”, *Proceedings of the National Academy of Sciences of the United States of America*, 115(7): E1588–E1597. doi:10.1073/pnas.1711628115
-* Odegaard, Brian, Robert T. Knight, and Hakwan Lau, 2017, “Should a Few Null Findings Falsify Prefrontal Theories of Conscious Perception?” *Journal of Neuroscience*, 37(40): 9593–9602. doi:10.1523/JNEUROSCI.3217-16.2017
-* O’Shea, Robert Paul, 2011, “Binocular Rivalry Stimuli Are Common but Rivalry Is Not”, *Frontiers in Human Neuroscience*, 5(148). doi:10.3389/fnhum.2011.00148
-* Overgaard, Morten and Peter Fazekas, 2016, “Can No-Report Paradigms Extract True Correlates of Consciousness?” *Trends in Cognitive Sciences*, 20(4): 241–242. doi:10.1016/j.tics.2016.01.004
-* Overgaard, Morten, Katrin Fehl, Kim Mouridsen, Bo Bergholt, and Axel Cleeremans, 2008, “Seeing without Seeing? Degraded Conscious Vision in a Blindsight Patient”, *PloS ONE*, 3(8): e3028. doi:10.1371/journal.pone.0003028
-* Overgaard, Morten, Julian Rote, Kim Mouridsen, and Thomas Zoëga Ramsøy, 2006, “Is Conscious Perception Gradual or Dichotomous? A Comparison of Report Methodologies during a Visual Task”, *Consciousness and Cognition*, Special Issue on Introspection, 15(4): 700–708. doi:10.1016/j.concog.2006.04.002
-* Owen, Adrian M., Martin R. Coleman, Melanie Boly, Matthew H. Davis, Steven Laureys, Dietsje Jolles, and John D. Pickard, 2007, “Response to Comments on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi:10.1126/science.1135583
-* Owen, Adrian M., Martin R. Coleman, Melanie Boly, Matthew H. Davis, Steven Laureys, and John D. Pickard, 2006, “Detecting Awareness in the Vegetative State”, *Science*, 313(5792): 1402. doi:10.1126/science.1130197
-* Parker, A. J., and W. T. Newsome, 1998, “Sense and the Single Neuron: Probing the Physiology of Perception”, *Annual Review of Neuroscience*, 21: 227–277. doi:10.1146/annurev.neuro.21.1.227
-* Parvizi, Josef, Corentin Jacques, Brett L. Foster, Nathan Withoft, Vinitha Rangarajan, Kevin S. Weiner, and Kalanit Grill-Spector, 2012, “Electrical Stimulation of Human Fusiform Face-Selective Regions Distorts Face Perception”, *Journal of Neuroscience*, 32(43): 14915–14920. doi:10.1523/JNEUROSCI.2609-12.2012
-* Penfield, Wilder and Edwin Boldrey, 1937, “Somatic Motor and Sensory Representation in the Cerebral Cortex of Man as Studied by Electrical Stimulation”, *Brain*, 60(4): 389–443. doi:10.1093/brain/60.4.389
-* Penfield, Wilder and Phanor Perot, 1963, “The Brain’s Record of Auditory and Visual Experience”, *Brain*, 86(4): 595–696. doi:10.1093/brain/86.4.595
-* Peng, Yueqing, Sarah Gillis-Smith, Hao Jin, Dimitri Tränkner, Nicholas J. P. Ryba, and Charles S. Zuker, 2015, “Sweet and Bitter Taste in the Brain of Awake Behaving Animals”, *Nature*, 527(7579): 512–515. doi:10.1038/nature15763
-* Persaud, Navindra, Peter McLeod, and Alan Cowey, 2007, “Post-Decision Wagering Objectively Measures Awareness”, *Nature Neuroscience*, 10(2): 257–261. doi:10.1038/nn1840
-* Peters, Megan A.K. and Hakwan Lau, 2015, “Human Observers Have Optimal Introspective Access to Perceptual Processes Even for Visually Masked Stimuli”, *ELife*, 4 (October): e09651. doi:10.7554/eLife.09651
-* Phillips, Ian B., 2011, “Perception and Iconic Memory: What Sperling Doesn’t Show”, *Mind and Language*, 26(4): 381–411. doi:10.1111/j.1468-0017.2011.01422.x
-* –––, 2016, “Consciousness and Criterion: On Block’s Case for Unconscious Seeing”, *Philosophy and Phenomenological Research*, 93(2): 419–451. doi:10.1111/phpr.12224
-* Pisella, Laure, Lauren Sergio, Annabelle Blangero, Héloïse Torchin, Alain Vighetto, and Yves Rossetti, 2009, “Optic Ataxia and the Function of the Dorsal Stream: Contributions to Perception and Action”, *Neuropsychologia*, 47(14): 3033–3044. doi:10.1016/j.neuropsychologia.2009.06.020
-* Polonsky, Alex, Randolph Blake, Jochen Braun, and David J. Heeger, 2000, “Neuronal Activity in Human Primary Visual Cortex Correlates with Perception during Binocular Rivalry”, *Nature Neuroscience*, 3(11): 1153–1159. doi:10.1038/80676
-* Pouget, Alexandre, Peter Dayan, and Richard S. Zemel, 2003, “Inference and Computation with Population Codes”, *Annual Review of Neuroscience*, 26: 381–410. doi:10.1146/annurev.neuro.26.041002.131112
-* Pouget, Alexandre, Jan Drugowitsch, and Adam Kepecs, 2016, “Confidence and Certainty: Distinct Probabilistic Quantities for Different Goals”, *Nature Neuroscience*, 19(3): 366–374. doi:10.1038/nn.4240
-* Prinz, Jesse, 2012, *The Conscious Brain*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195314595.001.0001
-* Pulvermüller, Friedemann, 2005, “Brain Mechanisms Linking Language and Action”, *Nature Reviews: Neuroscience*, 6(7): 576–582. doi:10.1038/nrn1706
-* Ramsøy, Thomas Zoëga, and Morten Overgaard, 2004, “Introspection and Subliminal Perception”, *Phenomenology and the Cognitive Sciences*, 3(1): 1–23. doi:10.1023/B:PHEN.0000041900.30172.e8
-* Rausch, Manuel and Michael Zehetleitner, 2016, “Visibility Is Not Equivalent to Confidence in a Low Contrast Orientation Discrimination Task”, *Frontiers in Psychology*, 7 (591). doi:10.3389/fpsyg.2016.00591
+* Odegaard, Brian, Piercesare Grimaldi, Seong Hah Cho, Megan A. K. Peters, Hakwan Lau, and Michele A. Basso, 2018, “Superior Colliculus Neuronal Ensemble Activity Signals Optimal Rather than Subjective Confidence”, *Proceedings of the National Academy of Sciences of the United States of America*, 115(7): E1588–E1597. doi: 10.1073/pnas.1711628115
+* Odegaard, Brian, Robert T. Knight, and Hakwan Lau, 2017, “Should a Few Null Findings Falsify Prefrontal Theories of Conscious Perception?” *Journal of Neuroscience*, 37(40): 9593–9602. doi: 10.1523/JNEUROSCI.3217-16.2017
+* O’Shea, Robert Paul, 2011, “Binocular Rivalry Stimuli Are Common but Rivalry Is Not”, *Frontiers in Human Neuroscience*, 5(148). doi: 10.3389/fnhum.2011.00148
+* Overgaard, Morten and Peter Fazekas, 2016, “Can No-Report Paradigms Extract True Correlates of Consciousness?” *Trends in Cognitive Sciences*, 20(4): 241–242. doi: 10.1016/j.tics.2016.01.004
+* Overgaard, Morten, Katrin Fehl, Kim Mouridsen, Bo Bergholt, and Axel Cleeremans, 2008, “Seeing without Seeing? Degraded Conscious Vision in a Blindsight Patient”, *PloS ONE*, 3(8): e3028. doi: 10.1371/journal.pone.0003028
+* Overgaard, Morten, Julian Rote, Kim Mouridsen, and Thomas Zoëga Ramsøy, 2006, “Is Conscious Perception Gradual or Dichotomous? A Comparison of Report Methodologies during a Visual Task”, *Consciousness and Cognition*, Special Issue on Introspection, 15(4): 700–708. doi: 10.1016/j.concog.2006.04.002
+* Owen, Adrian M., Martin R. Coleman, Melanie Boly, Matthew H. Davis, Steven Laureys, Dietsje Jolles, and John D. Pickard, 2007, “Response to Comments on ‘Detecting Awareness in the Vegetative State.’” *Science*, 315(5816): 1221. doi: 10.1126/science.1135583
+* Owen, Adrian M., Martin R. Coleman, Melanie Boly, Matthew H. Davis, Steven Laureys, and John D. Pickard, 2006, “Detecting Awareness in the Vegetative State”, *Science*, 313(5792): 1402. doi: 10.1126/science.1130197
+* Parker, A. J., and W. T. Newsome, 1998, “Sense and the Single Neuron: Probing the Physiology of Perception”, *Annual Review of Neuroscience*, 21: 227–277. doi: 10.1146/annurev.neuro.21.1.227
+* Parvizi, Josef, Corentin Jacques, Brett L. Foster, Nathan Withoft, Vinitha Rangarajan, Kevin S. Weiner, and Kalanit Grill-Spector, 2012, “Electrical Stimulation of Human Fusiform Face-Selective Regions Distorts Face Perception”, *Journal of Neuroscience*, 32(43): 14915–14920. doi: 10.1523/JNEUROSCI.2609-12.2012
+* Penfield, Wilder and Edwin Boldrey, 1937, “Somatic Motor and Sensory Representation in the Cerebral Cortex of Man as Studied by Electrical Stimulation”, *Brain*, 60(4): 389–443. doi: 10.1093/brain/60.4.389
+* Penfield, Wilder and Phanor Perot, 1963, “The Brain’s Record of Auditory and Visual Experience”, *Brain*, 86(4): 595–696. doi: 10.1093/brain/86.4.595
+* Peng, Yueqing, Sarah Gillis-Smith, Hao Jin, Dimitri Tränkner, Nicholas J. P. Ryba, and Charles S. Zuker, 2015, “Sweet and Bitter Taste in the Brain of Awake Behaving Animals”, *Nature*, 527(7579): 512–515. doi: 10.1038/nature15763
+* Persaud, Navindra, Peter McLeod, and Alan Cowey, 2007, “Post-Decision Wagering Objectively Measures Awareness”, *Nature Neuroscience*, 10(2): 257–261. doi: 10.1038/nn1840
+* Peters, Megan A.K. and Hakwan Lau, 2015, “Human Observers Have Optimal Introspective Access to Perceptual Processes Even for Visually Masked Stimuli”, *ELife*, 4 (October): e09651. doi: 10.7554/eLife.09651
+* Phillips, Ian B., 2011, “Perception and Iconic Memory: What Sperling Doesn’t Show”, *Mind and Language*, 26(4): 381–411. doi: 10.1111/j.1468-0017.2011.01422.x
+* –––, 2016, “Consciousness and Criterion: On Block’s Case for Unconscious Seeing”, *Philosophy and Phenomenological Research*, 93(2): 419–451. doi: 10.1111/phpr.12224
+* Pisella, Laure, Lauren Sergio, Annabelle Blangero, Héloïse Torchin, Alain Vighetto, and Yves Rossetti, 2009, “Optic Ataxia and the Function of the Dorsal Stream: Contributions to Perception and Action”, *Neuropsychologia*, 47(14): 3033–3044. doi: 10.1016/j.neuropsychologia.2009.06.020
+* Polonsky, Alex, Randolph Blake, Jochen Braun, and David J. Heeger, 2000, “Neuronal Activity in Human Primary Visual Cortex Correlates with Perception during Binocular Rivalry”, *Nature Neuroscience*, 3(11): 1153–1159. doi: 10.1038/80676
+* Pouget, Alexandre, Peter Dayan, and Richard S. Zemel, 2003, “Inference and Computation with Population Codes”, *Annual Review of Neuroscience*, 26: 381–410. doi: 10.1146/annurev.neuro.26.041002.131112
+* Pouget, Alexandre, Jan Drugowitsch, and Adam Kepecs, 2016, “Confidence and Certainty: Distinct Probabilistic Quantities for Different Goals”, *Nature Neuroscience*, 19(3): 366–374. doi: 10.1038/nn.4240
+* Prinz, Jesse, 2012, *The Conscious Brain*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195314595.001.0001
+* Pulvermüller, Friedemann, 2005, “Brain Mechanisms Linking Language and Action”, *Nature Reviews: Neuroscience*, 6(7): 576–582. doi: 10.1038/nrn1706
+* Ramsøy, Thomas Zoëga, and Morten Overgaard, 2004, “Introspection and Subliminal Perception”, *Phenomenology and the Cognitive Sciences*, 3(1): 1–23. doi: 10.1023/B: PHEN.0000041900.30172.e8
+* Rausch, Manuel and Michael Zehetleitner, 2016, “Visibility Is Not Equivalent to Confidence in a Low Contrast Orientation Discrimination Task”, *Frontiers in Psychology*, 7 (591). doi: 10.3389/fpsyg.2016.00591
 * Rescorla, Michael, 2015, “Bayesian Perceptual Psychology”, in *The Oxford Handbook of Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press, 694–716.
-* Romo, Ranulfo, Adrián Hernández, Antonio Zainos, Carlos D. Brody, and Luis Lemus, 2000, “Sensing without Touching: Psychophysical Performance Based on Cortical Microstimulation”, *Neuron*, 26(1): 273–278. doi:10.1016/S0896-6273(00)81156-3
-* Romo, Ranulfo, Adrián Hernández, Antonio Zainos, and Emilio Salinas, 1998, “Somatosensory Discrimination Based on Cortical Microstimulation”, *Nature*, 392(6674): 387–390. doi:10.1038/32891
+* Romo, Ranulfo, Adrián Hernández, Antonio Zainos, Carlos D. Brody, and Luis Lemus, 2000, “Sensing without Touching: Psychophysical Performance Based on Cortical Microstimulation”, *Neuron*, 26(1): 273–278. doi: 10.1016/S0896-6273(00)81156-3
+* Romo, Ranulfo, Adrián Hernández, Antonio Zainos, and Emilio Salinas, 1998, “Somatosensory Discrimination Based on Cortical Microstimulation”, *Nature*, 392(6674): 387–390. doi: 10.1038/32891
 * Rosenthal, David M., 2002, “Explaining Consciousness”, In *Philosophy of Mind: Classical and Contemporary Readings*, David J. Chalmers (ed.), Oxford: Oxford University Press, 109–131.
-* –––, 2018, “Consciousness and Confidence”, *Neuropsychologia*, February. doi:10.1016/j.neuropsychologia.2018.01.018
-* Rossetti, Yves, Laure Pisella, and Alain Vighetto, 2003, “Optic Ataxia Revisited: Visually Guided Action versus Immediate Visuomotor Control”, *Experimental Brain Research*, 153(2): 171–179. doi:10.1007/s00221-003-1590-6
-* Rounis, Elisabeth, Brian Maniscalco, John C. Rothwell, Richard E. Passingham, and Hakwan Lau, 2010, “Theta-Burst Transcranial Magnetic Stimulation to the Prefrontal Cortex Impairs Metacognitive Visual Awareness”, *Cognitive Neuroscience*, 1(3): 165–175. doi:10.1080/17588921003632529
+* –––, 2018, “Consciousness and Confidence”, *Neuropsychologia*, February. doi: 10.1016/j.neuropsychologia.2018.01.018
+* Rossetti, Yves, Laure Pisella, and Alain Vighetto, 2003, “Optic Ataxia Revisited: Visually Guided Action versus Immediate Visuomotor Control”, *Experimental Brain Research*, 153(2): 171–179. doi: 10.1007/s00221-003-1590-6
+* Rounis, Elisabeth, Brian Maniscalco, John C. Rothwell, Richard E. Passingham, and Hakwan Lau, 2010, “Theta-Burst Transcranial Magnetic Stimulation to the Prefrontal Cortex Impairs Metacognitive Visual Awareness”, *Cognitive Neuroscience*, 1(3): 165–175. doi: 10.1080/17588921003632529
 * Ruff, Douglas A. and Marlene Cohen, 2014, “Relating the Activity of Sensory Neurons to Perception”, in *The Cognitive Neurosciences*, fifth edition, Michael S. Gazzaniga and George R. Mangun (eds), Cambridge, MA: MIT Press, 349–362.
-* Salzman, C. Daniel, Kenneth H. Britten, and William T. Newsome, 1990, “Cortical Microstimulation Influences Perceptual Judgements of Motion Direction”, *Nature*, 346(6280): 174–177. doi:10.1038/346174a0
-* Sandberg, Kristian, Bert Timmermans, Morten Overgaard, and Axel Cleeremans, 2010, “Measuring Consciousness: Is One Measure Better than the Other?” *Consciousness and Cognition*, 19(4): 1069–1078. doi:10.1016/j.concog.2009.12.013
-* Schenk, Thomas and Robert D McIntosh, 2010, “Do We Have Independent Visual Streams for Perception and Action”, *Cognitive Neuroscience*, 1(1): 52–78. doi:10.1080/17588920903388950
+* Salzman, C. Daniel, Kenneth H. Britten, and William T. Newsome, 1990, “Cortical Microstimulation Influences Perceptual Judgements of Motion Direction”, *Nature*, 346(6280): 174–177. doi: 10.1038/346174a0
+* Sandberg, Kristian, Bert Timmermans, Morten Overgaard, and Axel Cleeremans, 2010, “Measuring Consciousness: Is One Measure Better than the Other?” *Consciousness and Cognition*, 19(4): 1069–1078. doi: 10.1016/j.concog.2009.12.013
+* Schenk, Thomas and Robert D McIntosh, 2010, “Do We Have Independent Visual Streams for Perception and Action”, *Cognitive Neuroscience*, 1(1): 52–78. doi: 10.1080/17588920903388950
 * Schwitzgebel, Eric, 2011, *Perplexities of Consciousness*, Cambridge, MA: MIT Press.
-* Shafto, Juliet P., and Michael A. Pitts, 2015, “Neural Signatures of Conscious Face Perception in an Inattentional Blindness Paradigm”, *Journal of Neuroscience*, 35(31): 10940–10948. doi:10.1523/JNEUROSCI.0145-15.2015
+* Shafto, Juliet P., and Michael A. Pitts, 2015, “Neural Signatures of Conscious Face Perception in an Inattentional Blindness Paradigm”, *Journal of Neuroscience*, 35(31): 10940–10948. doi: 10.1523/JNEUROSCI.0145-15.2015
 * Shannon, Claude Elwood, 1949, *The Mathematical Theory of Communication*, Urbana, IL: University of Illinois Press.
-* Shea, Nicholas, 2014, “Neural Signalling of Probabilistic Vectors”, *Philosophy of Science*, 81(5): 902–913. doi:10.1086/678354
+* Shea, Nicholas, 2014, “Neural Signalling of Probabilistic Vectors”, *Philosophy of Science*, 81(5): 902–913. doi: 10.1086/678354
 * –––, forthcoming, *Representation in Cognitive Science*, Oxford, New York: Oxford University Press.
-* Shea, Nicholas and Tim Bayne, 2010, “The Vegetative State and the Science of Consciousness”, *The British Journal for the Philosophy of Science*, 61(3): 459–484. doi:10.1093/bjps/axp046
-* Simons, Daniel J. and Christopher F. Chabris, 1999, “Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events”, *Perception*, 28(9): 1059–1074. doi:10.1068/p281059
-* Simons, Daniel J. and Michael S. Ambinder, 2005, “Change Blindness Theory and Consequences”, *Current Directions in Psychological Science*, 14(1): 44–48. doi:10.1111/j.0963-7214.2005.00332.x
+* Shea, Nicholas and Tim Bayne, 2010, “The Vegetative State and the Science of Consciousness”, *The British Journal for the Philosophy of Science*, 61(3): 459–484. doi: 10.1093/bjps/axp046
+* Simons, Daniel J. and Christopher F. Chabris, 1999, “Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events”, *Perception*, 28(9): 1059–1074. doi: 10.1068/p281059
+* Simons, Daniel J. and Michael S. Ambinder, 2005, “Change Blindness Theory and Consequences”, *Current Directions in Psychological Science*, 14(1): 44–48. doi: 10.1111/j.0963-7214.2005.00332.x
 * Singer, Emily, 2006, “Big Brain Thinking”, *MIT Technology Review*, February 10, URL = <https://www.technologyreview.com/s/405296/big-brain-thinking/>
-* Smeets, Jeroen B. J., and Eli Brenner, 2006, “10 Years of Illusions”, *Journal of Experimental Psychology. Human Perception and Performance*, 32(6): 1501–1504. doi:10.1037/0096-1523.32.6.1501
-* Smithies, Declan and Daniel Stoljar, 2012, *Introspection and Consciousness*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199744794.001.0001
+* Smeets, Jeroen B. J., and Eli Brenner, 2006, “10 Years of Illusions”, *Journal of Experimental Psychology. Human Perception and Performance*, 32(6): 1501–1504. doi: 10.1037/0096-1523.32.6.1501
+* Smithies, Declan and Daniel Stoljar, 2012, *Introspection and Consciousness*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199744794.001.0001
 * Spener, Maja, forthcoming, “Introspecting in the Twentieth Century”, in *Philosophy of Mind in the Twentieth and Twenty-First Centuries*, Amy Kind (ed.), New York: Routledge.
-* –––, 2015, “Calibrating Introspection”, *Philosophical Issues*, 25(1): 300–321. doi:10.1111/phis.12062
-* Sperling, George, 1960, “The Information Available in Brief Visual Presentations”, *Psychological Monographs: General and Applied*, 74(11): 1–29. doi:10.1037/h0093759
-* Stoerig, Petra, Martin Hübner, and Ernst Pöppel, 1985, “Signal Detection Analysis of Residual Vision in a Field Defect Due to a Post-Geniculate Lesion”, *Neuropsychologia*, 23(5): 589–599. doi:10.1016/0028-3932(85)90061-2
-* Tarr, Michael J., and Isabel Gauthier, 2000, “FFA: A Flexible Fusiform Area for Subordinate-Level Visual Processing Automatized by Expertise”, *Nature Neuroscience*, 3(8): 764–769. doi:10.1038/77666
-* Tong, Frank, Ming Meng, and Randolph Blake, 2006, “Neural Bases of Binocular Rivalry”, *Trends in Cognitive Sciences*, 10(11): 502–511, doi:10.1016/j.tics.2006.09.003
-* Tononi, Giulio, 2004, “An Information Integration Theory of Consciousness”, *BMC Neuroscience*, 5(November): 42. doi:10.1186/1471-2202-5-42
-* –––, 2008, “Consciousness as Integrated Information: A Provisional Manifesto”, *The Biological Bulletin*, 215(3): 216–242. doi:10.2307/25470707
-* Tse, Peter U., Susana Martinez-Conde, Alexander A. Schlegel, and Stephen L. Macknik, 2005, “Visibility, Visual Awareness, and Visual Masking of Simple Unattended Targets Are Confined to Areas in the Occipital Cortex beyond Human V1/V2”, *Proceedings of the National Academy of Sciences of the United States of America*, 102(47): 17178–17183. doi:10.1073/pnas.0508010102
-* Tye, Michael, 1992, “Visual Qualia and Visual Content”, in *The Contents of Experience: Essays on Perception*, Tim Crane (ed.), Cambridge: Cambridge University Press, 158–176. doi:10.1017/CBO9780511554582.008
+* –––, 2015, “Calibrating Introspection”, *Philosophical Issues*, 25(1): 300–321. doi: 10.1111/phis.12062
+* Sperling, George, 1960, “The Information Available in Brief Visual Presentations”, *Psychological Monographs: General and Applied*, 74(11): 1–29. doi: 10.1037/h0093759
+* Stoerig, Petra, Martin Hübner, and Ernst Pöppel, 1985, “Signal Detection Analysis of Residual Vision in a Field Defect Due to a Post-Geniculate Lesion”, *Neuropsychologia*, 23(5): 589–599. doi: 10.1016/0028-3932(85)90061-2
+* Tarr, Michael J., and Isabel Gauthier, 2000, “FFA: A Flexible Fusiform Area for Subordinate-Level Visual Processing Automatized by Expertise”, *Nature Neuroscience*, 3(8): 764–769. doi: 10.1038/77666
+* Tong, Frank, Ming Meng, and Randolph Blake, 2006, “Neural Bases of Binocular Rivalry”, *Trends in Cognitive Sciences*, 10(11): 502–511, doi: 10.1016/j.tics.2006.09.003
+* Tononi, Giulio, 2004, “An Information Integration Theory of Consciousness”, *BMC Neuroscience*, 5(November): 42. doi: 10.1186/1471-2202-5-42
+* –––, 2008, “Consciousness as Integrated Information: A Provisional Manifesto”, *The Biological Bulletin*, 215(3): 216–242. doi: 10.2307/25470707
+* Tse, Peter U., Susana Martinez-Conde, Alexander A. Schlegel, and Stephen L. Macknik, 2005, “Visibility, Visual Awareness, and Visual Masking of Simple Unattended Targets Are Confined to Areas in the Occipital Cortex beyond Human V1/V2”, *Proceedings of the National Academy of Sciences of the United States of America*, 102(47): 17178–17183. doi: 10.1073/pnas.0508010102
+* Tye, Michael, 1992, “Visual Qualia and Visual Content”, in *The Contents of Experience: Essays on Perception*, Tim Crane (ed.), Cambridge: Cambridge University Press, 158–176. doi: 10.1017/CBO9780511554582.008
 * Ungerleider, Leslie G. and Mortimer Mishkin, 1982, “Two Cortical Systems”, in *Analysis of Visual Behavior*, David J. Ingle, Melvyn A. Goodale, and Richard J.W. Mansfield (eds), Cambridge, MA: MIT Press, 549–586.
-* Urbanski, Marika, Olivier A. Coubard, and Clémence Bourlon, 2014, “Visualizing the Blind Brain: Brain Imaging of Visual Field Defects from Early Recovery to Rehabilitation Techniques”, *Frontiers in Integrative Neuroscience*, 8(74). doi:10.3389/fnint.2014.00074
-* Vignemont, F. de and P. Fourneret, 2004, “The Sense of Agency: A Philosophical and Empirical Review of the ‘Who’ System”, *Consciousness and Cognition*, 13(1): 1–19. doi:10.1016/S1053-8100(03)00022-9
-* Wallhagen, Morgan, 2007, “Consciousness and Action: Does Cognitive Science Support (Mild) Epiphenomenalism?” *The British Journal for the Philosophy of Science*, 58(3): 539–561. doi:10.1093/bjps/axm023
-* Weiskrantz, L., 1986, *Blindsight: A Case Study and Implications*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198521921.001.0001
-* Wilson, Hugh R., 2003, “Computational Evidence for a Rivalry Hierarchy in Vision”, *Proceedings of the National Academy of Sciences*, 100(24): 14499–14503. doi:10.1073/pnas.2333622100
-* [Working Party RCP] Working Party of the Royal College of Physicians, 2003, “The Vegetative State: Guidance on Diagnosis and Management”, *Clinical Medicine*, 3(3): 249–254. doi:10.7861/clinmedicine.3-3-249
-* Wu, Wayne, 2013, “The Case for Zombie Agency”, *Mind*, 122(485): 217–230. doi:10.1093/mind/fzt030
-* –––, 2014a, “Against Division: Consciousness, Information and the Visual Streams”, *Mind and Language*, 29(4): 383–406. doi:10.1111/mila.12056
+* Urbanski, Marika, Olivier A. Coubard, and Clémence Bourlon, 2014, “Visualizing the Blind Brain: Brain Imaging of Visual Field Defects from Early Recovery to Rehabilitation Techniques”, *Frontiers in Integrative Neuroscience*, 8(74). doi: 10.3389/fnint.2014.00074
+* Vignemont, F. de and P. Fourneret, 2004, “The Sense of Agency: A Philosophical and Empirical Review of the ‘Who’ System”, *Consciousness and Cognition*, 13(1): 1–19. doi: 10.1016/S1053-8100(03)00022-9
+* Wallhagen, Morgan, 2007, “Consciousness and Action: Does Cognitive Science Support (Mild) Epiphenomenalism?” *The British Journal for the Philosophy of Science*, 58(3): 539–561. doi: 10.1093/bjps/axm023
+* Weiskrantz, L., 1986, *Blindsight: A Case Study and Implications*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198521921.001.0001
+* Wilson, Hugh R., 2003, “Computational Evidence for a Rivalry Hierarchy in Vision”, *Proceedings of the National Academy of Sciences*, 100(24): 14499–14503. doi: 10.1073/pnas.2333622100
+* [Working Party RCP] Working Party of the Royal College of Physicians, 2003, “The Vegetative State: Guidance on Diagnosis and Management”, *Clinical Medicine*, 3(3): 249–254. doi: 10.7861/clinmedicine.3-3-249
+* Wu, Wayne, 2013, “The Case for Zombie Agency”, *Mind*, 122(485): 217–230. doi: 10.1093/mind/fzt030
+* –––, 2014a, “Against Division: Consciousness, Information and the Visual Streams”, *Mind and Language*, 29(4): 383–406. doi: 10.1111/mila.12056
 * –––, 2014b, *Attention*, Abingdon, UK: Routledge.
 * –––, 2017, “Attention and Perception: A Necessary Connection?” in *Current Controversies in Philosophy of Perception*, Bence Nanay (ed.), New York: Routledge, 148–162.
-* Zihl, J., D. Von Cramon, and N. Mai, 1983, “Selective Disturbance of Movement Vision after Bilateral Brain Damage”, *Brain*, 106(2): 313–340. doi:10.1093/brain/106.2.313
+* Zihl, J., D. Von Cramon, and N. Mai, 1983, “Selective Disturbance of Movement Vision after Bilateral Brain Damage”, *Brain*, 106(2): 313–340. doi: 10.1093/brain/106.2.313
 
 ## Academic Tools
 

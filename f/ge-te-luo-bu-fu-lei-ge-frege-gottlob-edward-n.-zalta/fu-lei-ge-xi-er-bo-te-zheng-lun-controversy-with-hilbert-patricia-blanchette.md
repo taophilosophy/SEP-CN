@@ -2,15 +2,15 @@
 
 *首次发表于 2007 年 9 月 23 日；实质性修订于 2024 年 3 月 7 日*
 
-在二十世纪初期，数理逻辑领域的两位巨匠戈特洛布·弗雷格（Gottlob Frege）和大卫·希尔伯特（David Hilbert）就数学理论中公理的正确理解以及如何证明这些公理的一致性和独立性结果展开了一场争论。这场争论涉及逻辑和逻辑哲学中的许多难题，并标志着现代逻辑发展中的一个重要转折点。本条目概述了这场争论及其哲学基础。
+在二十世纪初期，数理逻辑领域的两位巨匠戈特洛布 · 弗雷格（Gottlob Frege）和大卫 · 希尔伯特（David Hilbert）就数学理论中公理的正确理解以及如何证明这些公理的一致性和独立性结果展开了一场争论。这场争论涉及逻辑和逻辑哲学中的许多难题，并标志着现代逻辑发展中的一个重要转折点。本条目概述了这场争论及其哲学基础。
 
 ---
 
 ## 1. 介绍
 
-1899 年 6 月，在哥廷根市新建的高斯-韦伯纪念碑揭幕仪式上，大卫·希尔伯特发表了一场关于几何基础的讲演。该讲演后来由特伯纳出版，题为《几何基础》（“Grundlagen der Geometrie”），这篇文章标志着现代数学和逻辑发展的一个分水岭。尽管这部作品的主题是几何，但它的持久影响更广泛地涉及了数学理论中公设的作用，以及对一些元理论问题（如一致性和独立性）的系统化处理。通过呈现丰富的一致性和独立性证明，希尔伯特展示了公设的“结构”方法的力量，并为很快成为我们自己当代模型论方法的基础奠定了基础。 （有关希尔伯特对公设处理的历史背景，请参阅 Hallett 2012 和《19 世纪几何》；有关希尔伯特的工作在模型论发展中的作用，请参阅模型论和 Eder＆Schiemer 2018。）
+1899 年 6 月，在哥廷根市新建的高斯-韦伯纪念碑揭幕仪式上，大卫 · 希尔伯特发表了一场关于几何基础的讲演。该讲演后来由特伯纳出版，题为《几何基础》（“Grundlagen der Geometrie”），这篇文章标志着现代数学和逻辑发展的一个分水岭。尽管这部作品的主题是几何，但它的持久影响更广泛地涉及了数学理论中公设的作用，以及对一些元理论问题（如一致性和独立性）的系统化处理。通过呈现丰富的一致性和独立性证明，希尔伯特展示了公设的“结构”方法的力量，并为很快成为我们自己当代模型论方法的基础奠定了基础。 （有关希尔伯特对公设处理的历史背景，请参阅 Hallett 2012 和《19 世纪几何》；有关希尔伯特的工作在模型论发展中的作用，请参阅模型论和 Eder＆Schiemer 2018。）
 
-希尔伯特的讲座和专著激起了他同时代的戈特洛布·弗雷格的强烈反应，后者发现希尔伯特对公理的理解以及他对一致性和独立性证明的方法几乎是难以理解的，至少是严重有缺陷的。弗雷格的反应首先在他与希尔伯特的 1899 年 12 月至 1900 年 9 月的通信中阐述，随后在 1903 年和 1906 年发表的两系列论文（均名为《关于几何的基础》）中详细阐述。希尔伯特从未被弗雷格的批评所动摇，并在 1900 年后也没有对其作出回应。弗雷格则从未相信希尔伯特的方法的可靠性，并一直认为后者的一致性和独立性证明存在严重缺陷。[1]
+希尔伯特的讲座和专著激起了他同时代的戈特洛布 · 弗雷格的强烈反应，后者发现希尔伯特对公理的理解以及他对一致性和独立性证明的方法几乎是难以理解的，至少是严重有缺陷的。弗雷格的反应首先在他与希尔伯特的 1899 年 12 月至 1900 年 9 月的通信中阐述，随后在 1903 年和 1906 年发表的两系列论文（均名为《关于几何的基础》）中详细阐述。希尔伯特从未被弗雷格的批评所动摇，并在 1900 年后也没有对其作出回应。弗雷格则从未相信希尔伯特的方法的可靠性，并一直认为后者的一致性和独立性证明存在严重缺陷。[1]
 
 在这两位数学家之间的哲学辩论中，我们看到了对数学理论性质及其证明方式两种截然不同的理解方式的冲突。关于希尔伯特的一致性和独立性证明的成功与否的意见分歧，正如下文所述，是由于在诸如：如何理解数学理论的内容、成功的公理化包括什么、数学理论的“真理”到底是什么，以及当我们询问一组公理的一致性或者某个数学命题与其他命题的独立性时，我们真正在问什么等基本问题上存在重大分歧。
 
@@ -34,11 +34,11 @@
 
 Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，而是注意公理所述的这些概念之间的逻辑关系。例如，关于平行公理与其他欧几里德公理的独立性问题完全与这些公理所展示的逻辑结构有关，而与是否讨论的是几何点和线，或者完全是其他主题无关。正如 Hilbert 所说，
 
-> 显然，每个理论只是一种概念框架或模式，连同它们之间的必要关系，基本元素可以以任何方式思考。如果在谈论我的观点时，我想到一些事物系统，例如：爱情、法律、扫烟囱的系统...然后假设我的所有公设都是这些事物之间的关系，那么我的命题，例如毕达哥拉斯定理，也对这些事物有效。换句话说：任何理论都可以应用于无限多个基本元素系统。（1899 年 12 月 29 日写给弗雷格的信，由弗雷格摘录[省略希尔伯特的或弗雷格的]在弗雷格[PMC]：40 中）
+> 显然，每个理论只是一种概念框架或模式，连同它们之间的必要关系，基本元素可以以任何方式思考。如果在谈论我的观点时，我想到一些事物系统，例如：爱情、法律、扫烟囱的系统...然后假设我的所有公设都是这些事物之间的关系，那么我的命题，例如毕达哥拉斯定理，也对这些事物有效。换句话说：任何理论都可以应用于无限多个基本元素系统。（1899 年 12 月 29 日写给弗雷格的信，由弗雷格摘录 [省略希尔伯特的或弗雷格的] 在弗雷格 [PMC]：40 中）
 
 因此，FG 中的几何术语在两个重要方面本质上充当占位符。第一，FG 的公设和定理被理解为可重新解释的句子，其中重新解释简单地是将新内容分配给几何术语。第二，证明——从前提逻辑地导出结论的一组句子——根本不依赖于这些简单术语的内容，因此通过重新解释保持其证明地位。
 
-当以这种方式看待句子时，作为包含一组可重新解释术语的有针对性集合，一组句子可以被视为提供某种类型的定义，通常称为“隐含定义”。具体来说：包含 n 个可重新解释术语的句子集合 AX 隐含地定义了一个 n 元关系 RAX，仅适用于那些 n 元组，当分别作为 AX 的可重新解释术语的解释时，使 AX 的成员为真。 （例如：如果 AX 是集合{至少有两个点；每个点至少位于两条线上}，那么 RAX 是任何三元组⟨P，LO，L⟩的关系，其中 P 至少有两个成员，L 至少有两个成员，LO 是一个在 P 的每个成员和 L 的至少两个成员之间存在的关系。）定义的关系只是简单地抽象结构，或者正如希尔伯特所说的，“搭架”，它是任何这样的 n 元组共享的。
+当以这种方式看待句子时，作为包含一组可重新解释术语的有针对性集合，一组句子可以被视为提供某种类型的定义，通常称为“隐含定义”。具体来说：包含 n 个可重新解释术语的句子集合 AX 隐含地定义了一个 n 元关系 RAX，仅适用于那些 n 元组，当分别作为 AX 的可重新解释术语的解释时，使 AX 的成员为真。 （例如：如果 AX 是集合{至少有两个点；每个点至少位于两条线上}，那么 RAX 是任何三元组 ⟨P，LO，L⟩ 的关系，其中 P 至少有两个成员，L 至少有两个成员，LO 是一个在 P 的每个成员和 L 的至少两个成员之间存在的关系。）定义的关系只是简单地抽象结构，或者正如希尔伯特所说的，“搭架”，它是任何这样的 n 元组共享的。
 
 当一组句子提供了一个关系的隐含定义时，人们可以问这个关系（以及由此延伸的句子集本身）是否可满足。也就是说，人们可以问是否存在一个 n 元组，当作为句子中相关术语的解释时，会使每个句子都成为真。希尔伯特在 FG 中的每个一致性证明都提供了一个满足相关定义关系的 n 元组，因此证明了该关系的可满足性。在这种意义下的可满足性足以确保一致性，根据上述推理。[6]
 
@@ -74,9 +74,9 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 * A 是无所不在的
 * A 是全能的
 
-不足以保证它们的实例化。（例如，参见弗雷格于 1900 年 1 月 6 日写给希尔伯特的信；弗雷格[PMC]：47。）
+不足以保证它们的实例化。（例如，参见弗雷格于 1900 年 1 月 6 日写给希尔伯特的信；弗雷格 [PMC]：47。）
 
-弗雷格和希尔伯特在公理的性质上存在着一个核心区别，即关于公理是关于一个固定主题的确定真实主张还是可重新解释的表达多次实例化条件的问题。这本质上是上述区别的差异，即关于数学理论及其公理的旧（约 1900 年）思维方式和新思维方式之间的差异[8]。这个问题仍然在数学哲学的许多研究中产生影响，不仅涉及如何最好地理解特定数学理论（例如，欧几里德几何学或实分析），还涉及结构主义方法对数学理论的要求，即是否需要一些基础理论 - 其主题提供了解释其余理论所需的材料 - 其公理必须以某种非结构主义的方式理解。请参阅有关数学哲学和集合论的条目。
+弗雷格和希尔伯特在公理的性质上存在着一个核心区别，即关于公理是关于一个固定主题的确定真实主张还是可重新解释的表达多次实例化条件的问题。这本质上是上述区别的差异，即关于数学理论及其公理的旧（约 1900 年）思维方式和新思维方式之间的差异 [8]。这个问题仍然在数学哲学的许多研究中产生影响，不仅涉及如何最好地理解特定数学理论（例如，欧几里德几何学或实分析），还涉及结构主义方法对数学理论的要求，即是否需要一些基础理论 - 其主题提供了解释其余理论所需的材料 - 其公理必须以某种非结构主义的方式理解。请参阅有关数学哲学和集合论的条目。
 
 弗雷格和希尔伯特之间的第二个问题，即从一致性到存在性的推理是否合理，仍然存在争议。虽然每个人（包括希尔伯特）都会同意弗雷格的观点，在数学领域之外，我们不能安全地从一致性推断存在性，但问题仍然是我们是否可以（或必须）在数学中这样做。弗雷格的观点是，数学对象的存在只能通过对更基本原理的引用来证明（如果有的话），而希尔伯特的观点是，在适当的纯数学情况下，为了建立存在性，除了理论的一致性之外，没有其他需要证明的东西（请参阅有关数学哲学和数学哲学中的形而上学的条目）。
 
@@ -105,7 +105,7 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 这对句子在希尔伯特的意义上可以明显地保持一致。但是在这里提出的弗雷格的解释下，这种一致性（在希尔伯特的意义上）并不能确保在普通解释下，这些句子所表达的思想形成一致的集合。例如，如果弗雷格将关系“之间”理解为容易进行概念分析的方式，其定义可以从（由）这对句子所表达的思想推导出矛盾，那么在弗雷格的意义上，这对句子是不一致的。
 
-弗雷格认为可证性对概念分析非常敏感的观点，根据这种观点，可以在弗雷格终身试图证明他的逻辑主义论题的策略中看出。逻辑主义论题是指算术的真理可以从纯逻辑中证明。在这个项目的过程中，弗雷格经常提供证明一个给定思想τ从一组思想 T 中逻辑地推出的演示，这个过程包括两个步骤。首先，弗雷格对τ和/或 T 的成员进行概念分析，揭示出这些思想中以前未被认识到的概念复杂性。其次，他从经过分析的τ和经过分析的 T 的成员中证明了经过分析的版本的τ。例如，弗雷格认为自己证明了以下思想的表达方式：
+弗雷格认为可证性对概念分析非常敏感的观点，根据这种观点，可以在弗雷格终身试图证明他的逻辑主义论题的策略中看出。逻辑主义论题是指算术的真理可以从纯逻辑中证明。在这个项目的过程中，弗雷格经常提供证明一个给定思想 τ 从一组思想 T 中逻辑地推出的演示，这个过程包括两个步骤。首先，弗雷格对 τ 和/或 T 的成员进行概念分析，揭示出这些思想中以前未被认识到的概念复杂性。其次，他从经过分析的 τ 和经过分析的 T 的成员中证明了经过分析的版本的 τ。例如，弗雷格认为自己证明了以下思想的表达方式：
 
 (i)
 
@@ -115,13 +115,13 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 (ii)
 
-∀m∀n∀p((m+n)+p=m+(n+p))
+∀m∀n∀p((m+n)+p = m+(n+p))
 
  并且
 
 (iii)
 
- ∀n(n=n+0)。
+ ∀n(n = n+0)。
 
 该演示通过对“倍数”概念进行仔细分析，从加法的角度给出了一个更复杂的(i′)代替(i)，然后从(ii)和(iii)证明了它。[10] 同样，弗雷格的逻辑主义项目的一个重要部分包括对零和后继等算术概念的仔细分析，这种分析揭示了以前未被注意到的复杂性，并促进了算术真理的证明。（有关逻辑主义项目的讨论，请参阅弗雷格和逻辑主义以及新逻辑主义词条。）
 
@@ -133,13 +133,13 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 弗雷格工作中这一方面与他关于独立性观点的联系，根据所讨论的解释，是这样的。因为我们有时只有在仔细分析其中一些表面上简单的思想成分之后，才能发现思想 τ 只有在一组思想 T 的逻辑蕴涵之后，同样，我们有时将能够发现一组思想是不一致的，即它在概念分析的基础上逻辑蕴涵一个矛盾。因此，由一组句子 Σ 表达的思想的一致性不仅取决于 Σ 中句子的整体结构，还取决于 Σ 的句子中出现的术语的含义。
 
-为了澄清最后一点，让我们看一个非数学的例子，这个例子既不是希尔伯特也不是弗雷格明确处理过的。考虑句子集合{琼斯做了一个噩梦，琼斯没有做梦}，或者等价地说，它的一阶表达形式{Nj,∼Dj}。从希尔伯特在 FG 中使用的意义上来看，这个集合显然是一致的；很容易提供“琼斯”、“x 做了一个噩梦”和“x 做了一个梦”（或者“”、“N”和“D”）的解释，使得这些句子在解释下表达真理（例如，考虑一个解释，其中“”被赋予数字 7，“N”是素数集合，“D”是大于 12 的数字集合）。但是从弗雷格的观点来看，所表达的思想在某种程度上是不一致的，因为做噩梦的一部分就是做梦。从弗雷格的观点来看，这种不一致性可以通过对所表达思想的分析来证明，并且注意到这种分析的结果产生了集合{琼斯做了一个令人不安的梦，琼斯没有做梦}。
+为了澄清最后一点，让我们看一个非数学的例子，这个例子既不是希尔伯特也不是弗雷格明确处理过的。考虑句子集合{琼斯做了一个噩梦，琼斯没有做梦}，或者等价地说，它的一阶表达形式{Nj, ∼Dj}。从希尔伯特在 FG 中使用的意义上来看，这个集合显然是一致的；很容易提供“琼斯”、“x 做了一个噩梦”和“x 做了一个梦”（或者“”、“N”和“D”）的解释，使得这些句子在解释下表达真理（例如，考虑一个解释，其中“”被赋予数字 7，“N”是素数集合，“D”是大于 12 的数字集合）。但是从弗雷格的观点来看，所表达的思想在某种程度上是不一致的，因为做噩梦的一部分就是做梦。从弗雷格的观点来看，这种不一致性可以通过对所表达思想的分析来证明，并且注意到这种分析的结果产生了集合{琼斯做了一个令人不安的梦，琼斯没有做梦}。
 
 基于同样的原因，两个在结构上相似的思想集合，它们可以在不同的解释下由相同的句子集合表达，可能在弗雷格一致性方面存在差异。在几何学的背景下，根据弗雷格对希尔伯特的反对的这种解释，核心思想是希尔伯特所进行的重新解释可以将一个一致的思想集合（例如，AXR）转变为一个不一致的思想集合（例如，AXG），因为主题的转变导致了从第一个一致性到第二个一致性的推理无效。等价地，根据弗雷格对一致性概念的理解，从一般关系 RAX 的一致性推理到几何思想集合 AXG 的一致性是无效的，因为后者涉及的额外几何内容是潜在的不一致源。正如弗雷格在给利布曼的一封信中所说，
 
 > 就矛盾的缺乏和公理的相互独立性而言，希尔伯特对这些问题的研究受到了一个事实的影响，即公理的意义并不是完全确定的...我有理由相信，欧几里德几何的公理的相互独立性是无法证明的。希尔伯特试图通过扩大领域，使欧几里德几何成为一个特例来证明它；在这个更广泛的领域中，他现在可以通过例子展示缺乏矛盾；但仅限于这个更广泛的领域；因为我们不能从更广泛的领域的缺乏矛盾推断出更狭窄的领域的缺乏矛盾；因为由于限制的原因，矛盾可能会进入（1900 年 7 月 29 日给利布曼的信，引自 Frege [PMC]：91）。
 
-弗雷格并不声称在任何具体案例中证明这种潜在矛盾的存在。换句话说，他并没有提供概念分析，揭示希尔伯特声称已经证明一致性的地方存在矛盾，并且没有证据表明他认为希尔伯特的任何具体一致性主张是错误的。弗雷格可能心中有一些这样的分析，这在他写给希尔伯特的一封信中有所暗示，他声称在自己未完成的对几何基础的研究中，他能够“用更少的原始术语”，这可能意味着他认为希尔伯特所视为原始的一些术语可以通过其他术语进行分析（参见弗雷格[PMC]的 1899 年 12 月 27 日写给希尔伯特的信：34）。任何这样的分析都将揭示逻辑依赖关系（从弗雷格的观点来看），而希尔伯特会发现独立性。
+弗雷格并不声称在任何具体案例中证明这种潜在矛盾的存在。换句话说，他并没有提供概念分析，揭示希尔伯特声称已经证明一致性的地方存在矛盾，并且没有证据表明他认为希尔伯特的任何具体一致性主张是错误的。弗雷格可能心中有一些这样的分析，这在他写给希尔伯特的一封信中有所暗示，他声称在自己未完成的对几何基础的研究中，他能够“用更少的原始术语”，这可能意味着他认为希尔伯特所视为原始的一些术语可以通过其他术语进行分析（参见弗雷格 [PMC] 的 1899 年 12 月 27 日写给希尔伯特的信：34）。任何这样的分析都将揭示逻辑依赖关系（从弗雷格的观点来看），而希尔伯特会发现独立性。
 
 由于弗雷格在这个主题上的工作都没有留存下来，我们对他可能提供的具体分析没有任何细节。然而，在这一观点上，弗雷格对希尔伯特的批评的关键点并不在于特定分析的分歧或随之而来的特定一致性和独立性主张的失败，而是关于一致性和独立性证明的一般方法论。因为对于希尔伯特来说，一组句子的一致性完全取决于它们展现出的整体结构，而对于弗雷格来说，表达的思想的一致性还另外取决于句子中出现的非逻辑术语的内容，因此，希尔伯特的一致性并不意味着弗雷格的一致性。
 
@@ -151,13 +151,13 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 对于任何关于弗雷格对独立性和一致性观点的解释，最后一个潜在困难的来源是 1906 年的《几何基础》论文的非常有趣的第三部分。该文本的重要性以及它引发的解释困难可以概括如下。
 
-1906 年的《几何基础》论文主要是对弗雷格早期对希尔伯特一致性和独立性处理的反对意见（如上所述）的重新阐述。在重述这些反对意见之后，弗雷格在第三部分转向了提出证明独立性的积极方法的问题。他问，如何证明一个给定的思想与一组思想独立？作为回答，弗雷格提供了一个潜在方法的草图，并在讨论结束时指出，所描绘的方法仍然不完整，并且面临一些困难。尽管显然不完整，弗雷格似乎从未（据我们所知）回到这个提议，并且最终似乎发现它不令人满意。他认为它在原则上不令人满意的迹象是在四年后的一份给朱尔当的注释中表明的，即不能证明平行公设的不可证性（参见弗雷格[PMC]：183n）。也就是说，他似乎在 1910 年仍然坚持他早期的观点，即没有系统的方法来证明独立性。[ 11]
+1906 年的《几何基础》论文主要是对弗雷格早期对希尔伯特一致性和独立性处理的反对意见（如上所述）的重新阐述。在重述这些反对意见之后，弗雷格在第三部分转向了提出证明独立性的积极方法的问题。他问，如何证明一个给定的思想与一组思想独立？作为回答，弗雷格提供了一个潜在方法的草图，并在讨论结束时指出，所描绘的方法仍然不完整，并且面临一些困难。尽管显然不完整，弗雷格似乎从未（据我们所知）回到这个提议，并且最终似乎发现它不令人满意。他认为它在原则上不令人满意的迹象是在四年后的一份给朱尔当的注释中表明的，即不能证明平行公设的不可证性（参见弗雷格 [PMC]：183n）。也就是说，他似乎在 1910 年仍然坚持他早期的观点，即没有系统的方法来证明独立性。[ 11]
 
-1906 年的提议本身可以概述如下。弗雷格说，假设我们有一个集合 C，其中每个句子都表达一个确定的思想，并且有一个句子 S 也同样表达一个确定的思想。证明 S 思想与 C 思想的独立性的提议方法的核心是，我们使用一个将术语映射到术语的映射μ（因此也将句子映射到句子），该映射保持句法类型（将名称映射到名称，一元谓词映射到一元谓词等），并将“逻辑”术语映射到它们自身。然后：如果μ将 S 映射到一个假句子，同时将 C 的所有成员映射到真句子，则 S 思想与 C 思想是独立的。（有关弗雷格提议的讨论和发展，请参见 Antonelli＆May 2000，Eder 2016。有关弗雷格拒绝提议的原因的讨论，请参见 Ricketts 1997，Eder 2013，Blanchette 2014。）
+1906 年的提议本身可以概述如下。弗雷格说，假设我们有一个集合 C，其中每个句子都表达一个确定的思想，并且有一个句子 S 也同样表达一个确定的思想。证明 S 思想与 C 思想的独立性的提议方法的核心是，我们使用一个将术语映射到术语的映射 μ（因此也将句子映射到句子），该映射保持句法类型（将名称映射到名称，一元谓词映射到一元谓词等），并将“逻辑”术语映射到它们自身。然后：如果 μ 将 S 映射到一个假句子，同时将 C 的所有成员映射到真句子，则 S 思想与 C 思想是独立的。（有关弗雷格提议的讨论和发展，请参见 Antonelli＆May 2000，Eder 2016。有关弗雷格拒绝提议的原因的讨论，请参见 Ricketts 1997，Eder 2013，Blanchette 2014。）
 
 关于这个提议的第一件有趣的事情是它与希尔伯特方法的惊人相似之处。假设弗雷格的语言足够丰富，以包括希尔伯特在重新解释中可能使用的所有对象、函数和集合的术语，那么只有当存在一种弗雷格所描述的映射时，希尔伯特使用的重新解释才会显示（他版本的）独立性：在希尔伯特的重新解释中提供了一个具有新内容的术语 t 时，弗雷格的方法只会简单地将 t 映射到具有相同内容的新术语。这意味着，尽管弗雷格提出了所有的反对意见，希尔伯特的方法最终足以证明弗雷格（在 1906 年）认为的思想的独立性。如果这是正确的，那么我们有理由怀疑弗雷格的任何解释，即他对希尔伯特方法的拒绝是合理的，并且我们特别有理由拒绝这样一种观点：对于弗雷格来说，一致性和独立性是敏感于数学（例如几何）术语的内容。
 
-有人可能对刚才提出的希尔伯特方法和弗雷格提议之间的强等价产生怀疑的主要原因是：(i)不清楚弗雷格将会把哪些术语算作“逻辑”的，即那些成员μ必须映射到它们自身的术语类是否与希尔伯特将会算作具有固定解释的术语类相同；最重要的是(ii)不清楚弗雷格所指的语言是什么样的。关于第一个问题：如果弗雷格的固定术语类比希尔伯特的更广泛，和/或者弗雷格的语言缺少希尔伯特的一些术语，那么在希尔伯特的意义下的独立性证明将不意味着在弗雷格的意义下存在一种映射来证明独立性。关于第二个问题：关键问题是像“数”或“之间”这样的术语，弗雷格认为容易接受概念分析的术语，是否会出现在弗雷格所关心的语言中（与要求语言仅包含“完全分析”的术语相对），以及这样的术语是否会成为μ映射到任意新术语的术语之一。弗雷格本人指出了刚才提出的第一个术语界定问题的重要性，即确定哪些术语被映射到它们自身的问题，并指出这个问题是需要解决的，以便将他的草案变成可行的策略。因为他从未回答过固定术语或所讨论语言的问题，弗雷格的提议对于与希尔伯特的明确比较来说是不够明确的。因此，我们面临的是对弗雷格提出的方法以及他似乎随后否定了这一方法的解释问题，同时也要认识到这一提议的不完整性。（有关 1906 年文本的进一步讨论，请参见：Ricketts 1997，Tappenden 2000，Blanchette 2014。）
+有人可能对刚才提出的希尔伯特方法和弗雷格提议之间的强等价产生怀疑的主要原因是：(i)不清楚弗雷格将会把哪些术语算作“逻辑”的，即那些成员 μ 必须映射到它们自身的术语类是否与希尔伯特将会算作具有固定解释的术语类相同；最重要的是(ii)不清楚弗雷格所指的语言是什么样的。关于第一个问题：如果弗雷格的固定术语类比希尔伯特的更广泛，和/或者弗雷格的语言缺少希尔伯特的一些术语，那么在希尔伯特的意义下的独立性证明将不意味着在弗雷格的意义下存在一种映射来证明独立性。关于第二个问题：关键问题是像“数”或“之间”这样的术语，弗雷格认为容易接受概念分析的术语，是否会出现在弗雷格所关心的语言中（与要求语言仅包含“完全分析”的术语相对），以及这样的术语是否会成为 μ 映射到任意新术语的术语之一。弗雷格本人指出了刚才提出的第一个术语界定问题的重要性，即确定哪些术语被映射到它们自身的问题，并指出这个问题是需要解决的，以便将他的草案变成可行的策略。因为他从未回答过固定术语或所讨论语言的问题，弗雷格的提议对于与希尔伯特的明确比较来说是不够明确的。因此，我们面临的是对弗雷格提出的方法以及他似乎随后否定了这一方法的解释问题，同时也要认识到这一提议的不完整性。（有关 1906 年文本的进一步讨论，请参见：Ricketts 1997，Tappenden 2000，Blanchette 2014。）
 
 ## 6. 结论
 
@@ -167,7 +167,7 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 
 尽管希尔伯特和弗雷格之间的沟通明显失败，但他们的辩论揭示了许多重要问题，其中包括：(i) 以图式理解的句子在提供隐含定义方面的作用，弗雷格比希尔伯特更清楚地表达了这一点；(ii) 逻辑关系在多大程度上应被视为“形式的”。在最后一个问题上，弗雷格和希尔伯特之间的差异具有启发性。在与希尔伯特的辩论之前很久，弗雷格就已经认为逻辑严密需要使用形式推导系统，“形式”的意思是所有思想都通过精确确定的句子表达，所有推理规则和公理都以句法方式呈现（参见，例如，弗雷格 1879 年）。对我们而言最重要的是，弗雷格的形式系统在本质上是现代的，因为在这样的系统中，从一组句子中推导出一个句子的可导性仅取决于这些句子的句法形式。弗雷格的许多工作所依赖的著名概念分析都是在证明之前提供的；通过概念分析，我们得到了在形式系统内处理的适当句子，但是分析本身在推导中并不起作用。因此，当涉及证明某个给定句子可以从一组句子中推导出时，弗雷格和希尔伯特一样：意义并不重要。事实上，在他们通信的时候，弗雷格的工作比希尔伯特的工作要“形式”得多，因为希尔伯特当时并没有使用明确的句法定义的推导系统。
 
-然而，弗雷格对逻辑的理解导致了逻辑蕴涵（或可证性）与句子之间的形式可导性之间只存在单向联系。在一个良好的形式系统中，只有当句子σ从集合Σ中推导出来时，σ所表达的思想实际上才是由Σ的成员所表达的思想逻辑蕴涵的。 （这只需要你的公理和推理规则选择得当。）但反之并不成立：在这样的系统中，σ从Σ中不能推导出来并不保证σ所表达的思想独立于Σ的成员所表达的思想。因为可能会出现，正如弗雷格自己的分析明确处理的情况一样，对思想及其组成部分的进一步分析将产生更复杂的结构。当这种情况发生时，分析可能会返回更复杂的（集合）句子σ'和Σ'，以至于σ'最终可以从Σ'中推导出来。根据上述两种解释选项中更宽容的解释，这就是弗雷格对希尔伯特在几何学中一致性和独立性处理的拒绝的解释。我们可以这样说，因为相当大的逻辑复杂性可能隐藏在相对简单的句子所表达的思想中，不可推导性并不保证在弗雷格的体系中独立性。可以说，在逻辑和形式之间存在着重要的差距。
+然而，弗雷格对逻辑的理解导致了逻辑蕴涵（或可证性）与句子之间的形式可导性之间只存在单向联系。在一个良好的形式系统中，只有当句子 σ 从集合 Σ 中推导出来时，σ 所表达的思想实际上才是由 Σ 的成员所表达的思想逻辑蕴涵的。 （这只需要你的公理和推理规则选择得当。）但反之并不成立：在这样的系统中，σ 从 Σ 中不能推导出来并不保证 σ 所表达的思想独立于 Σ 的成员所表达的思想。因为可能会出现，正如弗雷格自己的分析明确处理的情况一样，对思想及其组成部分的进一步分析将产生更复杂的结构。当这种情况发生时，分析可能会返回更复杂的（集合）句子 σ'和 Σ'，以至于 σ'最终可以从 Σ'中推导出来。根据上述两种解释选项中更宽容的解释，这就是弗雷格对希尔伯特在几何学中一致性和独立性处理的拒绝的解释。我们可以这样说，因为相当大的逻辑复杂性可能隐藏在相对简单的句子所表达的思想中，不可推导性并不保证在弗雷格的体系中独立性。可以说，在逻辑和形式之间存在着重要的差距。
 
 对于希尔伯特来说，至少在公理化几何的背景下，逻辑关系就是可形式描述的关系，因为它们完全与所讨论的句子所展示的结构有关，或者等价地说，与这些句子所定义的概念的“脚手架”有关。正是因为希尔伯特意义上的一致性仅仅取决于这种抽象结构，而不取决于实例化结构的术语的内容，重新解释策略才是有效的。
 
@@ -201,40 +201,40 @@ Hilbert 的核心思想再次是不关注特定的几何概念，如点和线，
 * Padoa, Alessandro, 1900, “Essai d’une théorie algébrique des nombres entiers, précédé d’une introduction logique à une theorie déductive quelconque” in *Bibliothèque du Congrès International de Philosophie, Paris, 1900*, Paris: Armand Colin, 1901, Volume 3, pp. 309–365; partial English translation as “Logical introduction to any deductive theory” in *From Frege to Gödel*, Jean van Heijenoort (ed.), Cambridge, MA: Harvard University Press, 1967, pp. 118–123.
 * Peano, Giuseppe, 1889, *Principii di Geometria logicamente esposti*, Torino: Fratelli Bocca.
 * Pieri, Mario, 1898, “I Principii della geometria di posizione composti in sistema logico deduttivo”, *Memorie della Reale Accademia delle Scienze di Torino* (Series 2), 48: 1–62.
-* Veblen, Oswald, 1904, “A System of Axioms for Geometry”, *Transactions of the American Mathematical Society*, 5(3): 343–384. doi:10.2307/1986462
+* Veblen, Oswald, 1904, “A System of Axioms for Geometry”, *Transactions of the American Mathematical Society*, 5(3): 343–384. doi: 10.2307/1986462
 
 ### Secondary Sources
 
 * d’Alembert, Jean le Rond, 1767, *Mélanges de literature, d’histoire et de philosophie* (Volume 5), Amsterdam: Chatelain.
-* Antonelli, Aldo and Robert May, 2000, “Frege’s New Science”, *Notre Dame Journal of Formal Logic*, 41(3): 242–270. doi:10.1305/ndjfl/1038336844
+* Antonelli, Aldo and Robert May, 2000, “Frege’s New Science”, *Notre Dame Journal of Formal Logic*, 41(3): 242–270. doi: 10.1305/ndjfl/1038336844
 * Awodey, Steve and Erich Reck, 2002, “Completeness and Categoricity, Part I: Nineteenth-century Axiomatics to Twentieth-century Metalogic”, *History and Philosophy of Logic*, 23: 1–30.
-* Blanchette, Patricia A., 1996, “Frege and Hilbert on Consistency”, *Journal of Philosophy*, 93(7): 317–336. doi:10.2307/2941124
-* –––, 2007, “Frege on Consistency and Conceptual Analysis”, *Philosophia Mathematica*, 15(3): 321–346. doi:10.1093/philmat/nkm028
-* –––, 2012, *Frege’s Conception of Logic*, Oxford: Oxford University Press. See esp. Ch. 5. doi:10.1093/acprof:oso/9780199891610.001.0001
+* Blanchette, Patricia A., 1996, “Frege and Hilbert on Consistency”, *Journal of Philosophy*, 93(7): 317–336. doi: 10.2307/2941124
+* –––, 2007, “Frege on Consistency and Conceptual Analysis”, *Philosophia Mathematica*, 15(3): 321–346. doi: 10.1093/philmat/nkm028
+* –––, 2012, *Frege’s Conception of Logic*, Oxford: Oxford University Press. See esp. Ch. 5. doi: 10.1093/acprof: oso/9780199891610.001.0001
 * –––, 2014, “Frege on Formality and the 1906 Independence Test”, in *Formalism and Beyond: On the Nature of Mathematical Discourse*, Godehard Link (ed.), Boston/Berlin: De Gruyter, pp. 97– 118.
 * –––, 2017, “Models in Geometry and Logic: 1870–1920”, in *Logic, Methodology and Philosophy of Science: Proceedings of the 15th International Congress*, Leitgeb, Niiniluoto, Seppälä. and Sober (eds.), London: College Publications, pp. 41–61.
-* Bernays, Paul, 1922, “Die Bedeutung Hilberts fur die Philosophie der Mathematik”, *Die Naturwissenschaften*, 10(4): 93–99. English translation by Paolo Mancosu in *From Brouwer to Hilbert; The Debate on the Foundations of Mathematics in the 1920s*, Paolo Mancosu (ed.), New York: Oxford University Press, pp. 189–197. doi:10.1007/BF01591620 (German)
+* Bernays, Paul, 1922, “Die Bedeutung Hilberts fur die Philosophie der Mathematik”, *Die Naturwissenschaften*, 10(4): 93–99. English translation by Paolo Mancosu in *From Brouwer to Hilbert; The Debate on the Foundations of Mathematics in the 1920s*, Paolo Mancosu (ed.), New York: Oxford University Press, pp. 189–197. doi: 10.1007/BF01591620 (German)
 * Currie, Gregory, 1982, *Frege: An Introduction to His Philosophy*, Sussex: Harvester.
-* Demopoulos, William, 1994, “Frege, Hilbert and the Conceptual Structure of Model Theory”, *History and Philosophy of Logic*, 15(2): 211–225. doi:10.1080/01445349408837233
+* Demopoulos, William, 1994, “Frege, Hilbert and the Conceptual Structure of Model Theory”, *History and Philosophy of Logic*, 15(2): 211–225. doi: 10.1080/01445349408837233
 * De Risi, Vincenzo, 2016, *Leibniz on the Parallel Postulate and the Foundations of Geometry: The Unpublished Manuscripts*, Birkhäuser: Springer
 * Dummett, Michael, 1975, “Frege on the Consistency of Mathematical Theories”, in *Studien zu Frege*, Matthias Schirn (ed.), Stuttgart/Bad Cannstatt: Fromann-Holzboog, pp. 229–242.
 * –––, 1991, *Frege: Philosophy of Mathematics*, Cambridge, MA: Harvard University Press.
-* Eder, Günther, 2013, “Remarks on Independence Proofs and Indirect Reference”, *History and Philosophy of Logic*, 34(1): 68–78. doi:10.1080/01445340.2012.702568
-* –––, 2016, “Frege’s ‘On the Foundations of Geometry’ and Axiomatic Metatheory”, *Mind*, 125(497): 5–40. doi:10.1080/01445340.2012.702568
+* Eder, Günther, 2013, “Remarks on Independence Proofs and Indirect Reference”, *History and Philosophy of Logic*, 34(1): 68–78. doi: 10.1080/01445340.2012.702568
+* –––, 2016, “Frege’s ‘On the Foundations of Geometry’ and Axiomatic Metatheory”, *Mind*, 125(497): 5–40. doi: 10.1080/01445340.2012.702568
 * –––, 2021, “Frege and the Origins of Model Theory in Nineteenth Century Geometry”, *Synthese*, 198: 5547–5575. doi: 10/1007/s11229-019-02421-4
-* Eder, Günther and Georg Schiemer, 2018, “Hilbert, Duality, and the Geometrical Roots of Model Theory”, *The Review of Symbolic Logic*, 11(1): 48–86. doi:10.1017/S1755020317000260
-* Hallett, Michael, 2010, “Frege and Hilbert”, in *The Cambridge Companion to Frege*, Tom Ricketts and Michael Potter (eds.), Cambridge: Cambridge University Press, pp. 413–464. doi:10.1017/CCOL9780521624282.011
-* –––, 2012, “More on Frege and Hilbert”, *Analysis and Interpretation in the Exact Sciences: Essays in Honour of William Demopoulos*, Melanie Frappier, Derek Brown, and Robert DiSalle (eds.), Dordrecht, New York: Springer, pp. 135–162. doi:10.1007/978-94-007-2582-9_8
+* Eder, Günther and Georg Schiemer, 2018, “Hilbert, Duality, and the Geometrical Roots of Model Theory”, *The Review of Symbolic Logic*, 11(1): 48–86. doi: 10.1017/S1755020317000260
+* Hallett, Michael, 2010, “Frege and Hilbert”, in *The Cambridge Companion to Frege*, Tom Ricketts and Michael Potter (eds.), Cambridge: Cambridge University Press, pp. 413–464. doi: 10.1017/CCOL9780521624282.011
+* –––, 2012, “More on Frege and Hilbert”, *Analysis and Interpretation in the Exact Sciences: Essays in Honour of William Demopoulos*, Melanie Frappier, Derek Brown, and Robert DiSalle (eds.), Dordrecht, New York: Springer, pp. 135–162. doi: 10.1007/978-94-007-2582-9_8
 * Hodges, Wilfrid, 2004, “The Importance and Neglect of Conceptual Analysis: Hilbert-Ackermann iii.3”, in *First-Order Logic Revisited*, Vincent F. Hendricks *et al*. (eds.), Berlin: Logos Verlag, pp. 129–153.
 * Korselt, Alwin, 1903, “Über die Grundlagen der Geometrie”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 12: 402–407. English translation by E-H. W. Kluge in Frege 1971. [[Korselt 1903 available online (German)](http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002119153)]
-* Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935” in *The Development of Modern Logic*, Leila Haaparanta (ed.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195137316.003.0029
-* Nagel, Ernest, 1939, “The Formation of Modern Conceptions of Formal Logic in the Development of Geometry”, *Osiris*, 7: 142–224. doi:10.1086/368504
-* Resnik, Michael David, 1974, “The Frege-Hilbert Controversy”, *Philosophy and Phenomenological Research*, 34(3): 386–403. doi:10.2307/2107085
-* Ricketts, Thomas, 1997, “Frege’s 1906 Foray Into Metalogic”, *Philosophical Topics*, 25(2): 169–188. doi:10.5840/philtopics199725214
+* Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935” in *The Development of Modern Logic*, Leila Haaparanta (ed.), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195137316.003.0029
+* Nagel, Ernest, 1939, “The Formation of Modern Conceptions of Formal Logic in the Development of Geometry”, *Osiris*, 7: 142–224. doi: 10.1086/368504
+* Resnik, Michael David, 1974, “The Frege-Hilbert Controversy”, *Philosophy and Phenomenological Research*, 34(3): 386–403. doi: 10.2307/2107085
+* Ricketts, Thomas, 1997, “Frege’s 1906 Foray Into Metalogic”, *Philosophical Topics*, 25(2): 169–188. doi: 10.5840/philtopics199725214
 * Rohr, Tabea, 2023, “The Frege-Hilbert Controversy in Context”, *Synthese*, 202(12), first online 28 June 2023. doi: 10.1007/s11229-023-04196-1
-* Shapiro, Stewart, 2005, “Categories, Structures, and the Frege-Hilbert Controversy: The Status of Meta-mathematics”, *Philosophia Mathematica*, 13(1): 61–77. doi:10.1093/philmat/nki007
-* Tappenden, Jamie, 2000, “Frege on Axioms, Indirect Proofs, and Independence Arguments in Geometry: Did Frege Reject Independence Arguments?” *Notre Dame Journal of Formal Logic*, 41(3): 271–315. doi:10.1305/ndjfl/1038336845
-* Wehmeier, Kai F., 1997, “Aspekte der Frege-Hilbert-Korrespondenz”, *History and Philosophy of Logic*, 18(4): 201–209. doi:10.1080/01445349708837289
+* Shapiro, Stewart, 2005, “Categories, Structures, and the Frege-Hilbert Controversy: The Status of Meta-mathematics”, *Philosophia Mathematica*, 13(1): 61–77. doi: 10.1093/philmat/nki007
+* Tappenden, Jamie, 2000, “Frege on Axioms, Indirect Proofs, and Independence Arguments in Geometry: Did Frege Reject Independence Arguments?” *Notre Dame Journal of Formal Logic*, 41(3): 271–315. doi: 10.1305/ndjfl/1038336845
+* Wehmeier, Kai F., 1997, “Aspekte der Frege-Hilbert-Korrespondenz”, *History and Philosophy of Logic*, 18(4): 201–209. doi: 10.1080/01445349708837289
 
 ## Academic Tools
 

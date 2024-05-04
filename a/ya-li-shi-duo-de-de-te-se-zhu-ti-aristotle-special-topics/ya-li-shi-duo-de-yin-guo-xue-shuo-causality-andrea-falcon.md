@@ -117,7 +117,7 @@
 * hypothesis: *hypothesis*
 * necessity: *anankê*
 * principle: *archê*
-* substance:*ousia*
+* substance: *ousia*
 * why: *dia ti, dioti*
 * wisdom: *sophia*
 

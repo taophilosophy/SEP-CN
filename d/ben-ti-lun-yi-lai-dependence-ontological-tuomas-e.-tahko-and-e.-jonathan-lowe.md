@@ -34,7 +34,7 @@
 
 > 通过物质，我们可以理解的只是一种以不依赖其他事物的方式存在的东西。（笛卡尔的哲学著作：卷 I，第 210 页）
 
-本体依赖的概念可以追溯到笛卡尔之前，至少可以追溯到亚里士多德（参见 Corkum 2008，Koslicki 2013 和 Peramatzis 2011），并且它出现在哲学的整个历史中。例如，在约翰·邓斯·斯科特斯的哲学中有一个依赖的概念，他在证明上帝的存在时使用了它（有关详细信息，请参见约翰·邓斯·斯科特斯的单独条目，§2.2）。稍后，在弗朗茨·布伦塔诺和埃德蒙·胡塞尔的工作中可以找到对本体依赖的当代研究的先驱者；特别是，胡塞尔在整体与部分之间的依赖关系上的工作（有关讨论，请参见 Simons 1982 和 Johansson 2004：第 9 章）。
+本体依赖的概念可以追溯到笛卡尔之前，至少可以追溯到亚里士多德（参见 Corkum 2008，Koslicki 2013 和 Peramatzis 2011），并且它出现在哲学的整个历史中。例如，在约翰 · 邓斯 · 斯科特斯的哲学中有一个依赖的概念，他在证明上帝的存在时使用了它（有关详细信息，请参见约翰 · 邓斯 · 斯科特斯的单独条目，§2.2）。稍后，在弗朗茨 · 布伦塔诺和埃德蒙 · 胡塞尔的工作中可以找到对本体依赖的当代研究的先驱者；特别是，胡塞尔在整体与部分之间的依赖关系上的工作（有关讨论，请参见 Simons 1982 和 Johansson 2004：第 9 章）。
 
 最后，也有人对本体依赖概念的形而上学意义持怀疑态度。有几个原因可以认为本体依赖关系是不可理解或无用的；例如，有人可能认为它们混淆了其他关系或者它们是对存在的多余添加。然而，在从事本体依赖研究的人中，普遍认为这些依赖关系作为形式本体论关系，并不是存在的额外元素（参见 Lowe 2006：第 3 章）。这些关系通常被认为是内在的（参见 Armstrong 1978：85，他将两个事物定义为内在相关的，当且仅当存在使得关系成立的它们的属性；有关内在和外在关系的进一步讨论，请参见关系的单独条目）。然而，至少在某些本体依赖的方法中存在一种意识形态成本，因此一些人更喜欢一种贬值的方法。根据这种方法，我们可以通过“群集”模态和部分关系来解释所谓的本体依赖关系（有关这种方法的辩护，请参见 Kovacs 2018）。
 
@@ -48,7 +48,7 @@
 
 (EDR)
 
-x 对其存在依赖于 y =df 必要地，只有当 y 存在时，x 才存在。
+x 对其存在依赖于 y = df 必要地，只有当 y 存在时，x 才存在。
 
 在这里使用下标“R”，因为称呼这种一物体对另一物体的存在依赖为刚性存在依赖似乎是合适的。为什么是“刚性”？因为这里没有灵活性：给定的 x 的存在需要那个确切的 y 的存在。它不能是类似 y 的一点点东西，大致属于同一类别的东西，例如；它必须是 y。在(EDR)中的定义等同于“必然地，如果 x 存在，则 y 存在”，因此根据(EDR)，x 对 y 的存在依赖等于 x 的存在对 y 的存在的严格蕴涵。我们已经提到了一种刚性存在依赖的例子，即本体论上依赖于其成员的集合（更准确地说，一个集合在本质上依赖于它所拥有的成员，即集合的成员发生变化将改变集合本身）。另一个，虽然更有争议的例子是一个特定的人依赖于她的父母的存在，或者更准确地说，依赖于她起源于的特定的精子和卵子。当然，这个例子与起源的本质有关（如 Kripke 1980 中所讨论的）。
 
@@ -58,7 +58,7 @@ x 对其存在依赖于 y =df 必要地，只有当 y 存在时，x 才存在。
 
  （EDN）
 
-x 的存在取决于 F =df N。只有当 F 存在时，x 才存在。
+x 的存在取决于 F = df N。只有当 F 存在时，x 才存在。
 
 这里的思想是，使用“可能世界”的语言，“EDN”的任何实例中的“F”可能在不同的可能世界中表示不同的实体。因此，例如，可以说一个物质对象 x 的存在取决于组成 x 的物质，即使它可能由不同的物质组成，因为在 x 存在的每个可能世界中，组成 x 的物质在该世界中存在。
 
@@ -68,7 +68,7 @@ x 的存在取决于 F =df N。只有当 F 存在时，x 才存在。
 
 (EDG)
 
-x 对其存在依赖于 Fs =df 必然地，只有当某个 F 存在时，x 才存在。
+x 对其存在依赖于 Fs = df 必然地，只有当某个 F 存在时，x 才存在。
 
 复合对象是存在依赖对象的存在，这是根据存在依赖关系理论（EDG）来说的，因为它们需要适当部分的存在（在（EDG）中将 F 设为“x 的适当部分”）。使用之前的形式化符号，我们可以将（EDG）表示为“□（Ex→∃Fy）”。在这里，我们添加了存在量词“∃”以及一般术语“F”，以表达“x 的存在在于某个 F 的存在”或者“x 的存在必然需要 F”的思想。刚性和一般情况之间的重要区别在于，（EDR）指的是特定的对象，而（EDG）只要求至少存在一些 F。之前提到的另一个例子，（EDG）似乎捕捉到了正确的依赖意义，即“电子本体上依赖于电子”。更准确地说，我们可以说电力的存在依赖于电子。
 
@@ -84,7 +84,7 @@ x 对其存在依赖于 Fs =df 必然地，只有当某个 F 存在时，x 才�
 
  （EDP）
 
-x 的存在取决于 Fs =df 必须的是，只有当 Fs 存在时，x 才存在。
+x 的存在取决于 Fs = df 必须的是，只有当 Fs 存在时，x 才存在。
 
 (EDG)和(EDN)之间的相似性是显而易见的：例如，说一个复合对象 x 的存在取决于 x 的适当部分，与说 x 的存在取决于 x 具有的适当部分的存在非常接近。
 
@@ -116,7 +116,7 @@ x 的存在取决于 Fs =df 必须的是，只有当 Fs 存在时，x 才存在�
 
  （EDX）
 
-x 依赖于 y 的存在=df 必然地，x 的存在仅仅是因为 y 的存在。
+x 依赖于 y 的存在 = df 必然地，x 的存在仅仅是因为 y 的存在。
 
 我们使用下标“X”，因为根据前面的讨论，称这种本体依赖为解释性存在依赖似乎是合适的。（我们稍后还需要下标“E”进行另一种用途。）在这里需要注意的是，在（EDX）的定义中出现的“仅仅”一词不应被理解为暗示一个对象 x 不可能依赖于两个（或更多）不同的事物 y 和 z 的存在来存在。因此，玛丽爱汤姆的特定关系（假设存在这样一个对象）可能仅仅是因为玛丽存在而存在，但也可能仅仅是因为汤姆存在而存在。此外，我们可以假设（EDX）并不意味着一个复合对象依赖于其组成部分的存在，也就是说，“它仅仅是因为它们存在而存在”的情况并不成立，因为在适当的替代部分被替换的情况下，它仍然可以存在。因此，就复合对象而言，（EDX）在部分-整体依赖关系方面与（EDG）非常不同。出于同样的原因，我们可以假设（EDX）并不意味着“亚里士多德式”的普遍依赖于其特定的实例。实际上，我们可以认为（EDX）的定义蕴含了（EDR）的定义，尽管反之不成立，所以以下原则是可以接受的：
 
@@ -126,7 +126,7 @@ x 依赖于 y 的存在=df 必然地，x 的存在仅仅是因为 y 的存在。
 
 然而，尽管有这些澄清，必须承认，“x 只存在因为 y 存在”这种说法在逻辑形式和确切含义上都不太清晰。此外，正因为我们引入了“因为”作为解释连词，可能会觉得它并不适合于现在为其设计的本体论角色（关于“因为”解释角色的最近尝试之一，请参见 deRosset 2013）。这里可能存在两个担忧的来源：首先，这种方法可能导致形而上学和认识论之间的混淆；其次（但相关的是），“因为”连词所控制的语境是不透明的（在技术上的意义上，它意味着 Leibniz 的不可辨识性原则不适用）。
 
-也许可以通过借鉴最近关于形而上学基础的研究来消除其中一些担忧，该研究对这种非因果的形而上学解释进行了更严格的分析（尤其是参见 Correia＆Schnieder（eds。）2012a 中的文章）。这并不是对基础和形而上学解释之间关系的立场（请参见关于形而上学基础的单独条目的第 4 节），而只是注意到围绕解释依赖的讨论在一定程度上独立于围绕本体依赖的更广泛考虑。因此，我们或许应该接受，就其本身而言，（EDX）并不能真正构成一种令人满意的存在依赖的定义，它被构想为实体之间的客观形而上学关系，因为它不够清晰。无论如何，（B-NEC）成立而其逆命题不成立的事实表明，我们应该努力构建一种清晰的本体依赖的定义，它是 x 和 y 之间的一种比“必然地，只有 y 存在时 x 存在”更强的关系（蕴含但不被蕴含）。此外，出于之前讨论的原因，这应该是一种非对称关系，或者更准确地说，是一种反对称关系，即关系 R 这样的关系，如果 xRy 且 yRx，则 x=y。这是为了允许原则上一个对象在预期的意义上在本体上依赖于自身，尽管这可能是有争议的（尽管这是至少从历史上来看是一个有趣的立场，例如，因为上帝依赖于自己的特殊情况）。
+也许可以通过借鉴最近关于形而上学基础的研究来消除其中一些担忧，该研究对这种非因果的形而上学解释进行了更严格的分析（尤其是参见 Correia＆Schnieder（eds。）2012a 中的文章）。这并不是对基础和形而上学解释之间关系的立场（请参见关于形而上学基础的单独条目的第 4 节），而只是注意到围绕解释依赖的讨论在一定程度上独立于围绕本体依赖的更广泛考虑。因此，我们或许应该接受，就其本身而言，（EDX）并不能真正构成一种令人满意的存在依赖的定义，它被构想为实体之间的客观形而上学关系，因为它不够清晰。无论如何，（B-NEC）成立而其逆命题不成立的事实表明，我们应该努力构建一种清晰的本体依赖的定义，它是 x 和 y 之间的一种比“必然地，只有 y 存在时 x 存在”更强的关系（蕴含但不被蕴含）。此外，出于之前讨论的原因，这应该是一种非对称关系，或者更准确地说，是一种反对称关系，即关系 R 这样的关系，如果 xRy 且 yRx，则 x = y。这是为了允许原则上一个对象在预期的意义上在本体上依赖于自身，尽管这可能是有争议的（尽管这是至少从历史上来看是一个有趣的立场，例如，因为上帝依赖于自己的特殊情况）。
 
 正如我们马上会看到的，一个可能对阐明相关依赖意义有所帮助的关系是身份依赖关系，下面将对其进行解释。但首先我们应该稍作偏离一下，注意到由（EDR）定义的关系的单向保持不太可能完成任务。根据这个建议，我们有：
 
@@ -186,7 +186,7 @@ x 在其存在上依赖于 y
 
 (ID)
 
-x 的身份依赖于 y =df 存在一个关系“R”，使得 x 的本质是 x 与 y 之间通过 R 相关联。
+x 的身份依赖于 y = df 存在一个关系“R”，使得 x 的本质是 x 与 y 之间通过 R 相关联。
 
 我们可以通过让 x 为{z}，y 为 z 来举例说明（ID），在这种情况下，我们有直观上正确的结论，即{z}的身份取决于 z，因为存在一种关系——即“成为单元素集合的成员”（也称为单元素集合函数）——使得{z}的本质是它是 z 的单元素集合的一部分。因此，我们可以根据具体情况更精确地解释关系 R。
 
@@ -218,15 +218,15 @@ x 的身份依赖于 y =df 存在一个关系“R”，使得 x 的本质是 x �
 
 (EDE)
 
-x 在其存在上依赖于 y =df x 的本质的一部分是只有在 y 存在的情况下 x 才存在。
+x 在其存在上依赖于 y = df x 的本质的一部分是只有在 y 存在的情况下 x 才存在。
 
-注意，假设（ID-NEX）的真实性，两个不同的实体不能相互依赖，但很可能每个不同的实体都依赖于另一个实体的存在。例如，考虑一个实心球体。为了本例的目的，假设实心球体是一种物质，一种基本的、本体论上独立的实体（详见§6.3 进一步讨论）。如果我们将实心球体的上半部分和下半部分视为几何定义的实体，其边界是通过参照它们作为相等的子分区的整个球体来指定的，那么可以认为每个半球的本质的一部分是它只有在另一个半球存在时才存在。（需要强调的是，这些“半球”不能与任何给定时间内“填充”它们的物质部分混淆，因此不应将其视为构成它的球体的“部分”）。同时，每个半球的身份依赖于整个球体——一个被确定为该球体的上半部分，另一个被确定为该球体的下半部分——而球体本身并不依赖于这些半球之一的身份，因为我们假设它是一种独立的物质。这个例子显然是有争议的：有人可能坚持认为每个半球的构成本质涉及整个球体，但不涉及另一个半球。此外，我们还可以关注半球的复数或集体本质，这可能有助于我们避免这种循环论证（关于复数/集体本质，请参见 Zylstra 2019）。还要注意的是，很可能如果 x 依赖于 y 的存在，那么 x 也依赖于 y 的存在：本质存在依赖意味着刚性存在依赖，但反之则不然。
+注意，假设（ID-NEX）的真实性，两个不同的实体不能相互依赖，但很可能每个不同的实体都依赖于另一个实体的存在。例如，考虑一个实心球体。为了本例的目的，假设实心球体是一种物质，一种基本的、本体论上独立的实体（详见 §6.3 进一步讨论）。如果我们将实心球体的上半部分和下半部分视为几何定义的实体，其边界是通过参照它们作为相等的子分区的整个球体来指定的，那么可以认为每个半球的本质的一部分是它只有在另一个半球存在时才存在。（需要强调的是，这些“半球”不能与任何给定时间内“填充”它们的物质部分混淆，因此不应将其视为构成它的球体的“部分”）。同时，每个半球的身份依赖于整个球体——一个被确定为该球体的上半部分，另一个被确定为该球体的下半部分——而球体本身并不依赖于这些半球之一的身份，因为我们假设它是一种独立的物质。这个例子显然是有争议的：有人可能坚持认为每个半球的构成本质涉及整个球体，但不涉及另一个半球。此外，我们还可以关注半球的复数或集体本质，这可能有助于我们避免这种循环论证（关于复数/集体本质，请参见 Zylstra 2019）。还要注意的是，很可能如果 x 依赖于 y 的存在，那么 x 也依赖于 y 的存在：本质存在依赖意味着刚性存在依赖，但反之则不然。
 
 我们已经看到（ID）和（EDE）对应于刚性形式的模态存在依赖，例如（EDR）。但我们也可以像在模态存在依赖的情况下一样，制定一个通用的本质依赖概念。对应于通用存在依赖（EDG），我们可以如下制定通用本质（存在）依赖：
 
 (EDEG)
 
-x 对于其存在依赖于 Fs =df x 的本质的一部分是，只有当某个 F 存在时，x 才存在。
+x 对于其存在依赖于 Fs = df x 的本质的一部分是，只有当某个 F 存在时，x 才存在。
 
 例如，如果 x 是一个特定的水分子，我们可以说，它是该水分子存在的本质的一部分，只有氢和氧的原子存在时它才存在。换句话说，水分子的存在本质上依赖于氢和氧这种类型的原子的存在。在这种联系中，引入个体本质和一般本质之间的区别可能会有所帮助。（EDEG）在水的情况下适用于每一个水分子，而不仅仅是其中的一个。因此，当我们在这个背景下谈论水的本质时，我们并不是指任何特定水分子的个体本质，而是指自然种类水的一般本质。（EDEG）涉及一个实体依赖于其一般本质的内容（例如，什么使某物成为水分子），而（EDE）涉及一个实体依赖于其个体本质的内容（例如，什么使某物成为特定的水分子，而不是其他任何物质）。（有关个体本质和一般本质之间的进一步讨论，请参见 Lowe 2008 年。）
 
@@ -252,7 +252,7 @@ x 对于其存在依赖于 Fs =df x 的本质的一部分是，只有当某个 F
 
 区分本体依赖和形而上学地基的一个最初的原因是，后者是一个更严格的概念。考虑到本体依赖可能是自反的这个想法：理论上没有任何规则排除了一种本体依赖关系以某种方式存在，以至于给定的对象依赖于自身。当然，是否实际上存在这样的实体是有争议的，但这并不足以将非自反性视为本体依赖的必要要求。相比之下，形而上学地基通常被认为是必然非自反的（当然，有人认为在地基的情况下可以放弃这一要求，就像在本体依赖的情况下可能会放弃一样；参见，例如，Jenkins 2011）。
 
-更一般的问题涉及每个概念的模态含义。特别是，是否存在一种本体依赖形式，既是必要的又是充分的用于基础？这似乎是不太可能的（正如 Rydéhn 在即将发表的文章中所论证的）。虽然有一些基础的实例明显是与刚性存在依赖相同的意义上刚性的，但也清楚的是，这种联系并非必要且充分。例如，假设存在事实[f]，并假设它完全基于事实[g]。这意味着[f]除了通过[g]之外无法基于其他事实。一个例子是单例苏格拉底的集合，其存在严格地基于苏格拉底存在的事实。在这种情况下，[f]严格地存在依赖于[g]，并且[f]依赖于[g]来确定其身份也是合理的。然而，其他基础的实例并不要求被基础的事实严格地依赖于其基础。例如，假设[f]是一个特定主体感到疼痛的事实，并且[f]完全基于关于该主体的一个特定神经事实[g]。似乎有可能这个主体可能感到疼痛，所以[f]可能发生，即使[g]没有发生。如果[f]是基于一个不同的神经事实[h]，那么就是这种情况。在这种情况下，[f]不能依赖于[g]来确定其身份，因为[f]不是严格依赖于[g]。这排除了一些将基础和刚性本体依赖联系起来的简单选项，但可以说，将其与一般的本体依赖联系起来也存在问题（有关更详细的讨论，请参见 Rydéhn 即将发表的文章）。
+更一般的问题涉及每个概念的模态含义。特别是，是否存在一种本体依赖形式，既是必要的又是充分的用于基础？这似乎是不太可能的（正如 Rydéhn 在即将发表的文章中所论证的）。虽然有一些基础的实例明显是与刚性存在依赖相同的意义上刚性的，但也清楚的是，这种联系并非必要且充分。例如，假设存在事实 [f]，并假设它完全基于事实 [g]。这意味着 [f] 除了通过 [g] 之外无法基于其他事实。一个例子是单例苏格拉底的集合，其存在严格地基于苏格拉底存在的事实。在这种情况下，[f] 严格地存在依赖于 [g]，并且 [f] 依赖于 [g] 来确定其身份也是合理的。然而，其他基础的实例并不要求被基础的事实严格地依赖于其基础。例如，假设 [f] 是一个特定主体感到疼痛的事实，并且 [f] 完全基于关于该主体的一个特定神经事实 [g]。似乎有可能这个主体可能感到疼痛，所以 [f] 可能发生，即使 [g] 没有发生。如果 [f] 是基于一个不同的神经事实 [h]，那么就是这种情况。在这种情况下，[f] 不能依赖于 [g] 来确定其身份，因为 [f] 不是严格依赖于 [g]。这排除了一些将基础和刚性本体依赖联系起来的简单选项，但可以说，将其与一般的本体依赖联系起来也存在问题（有关更详细的讨论，请参见 Rydéhn 即将发表的文章）。
 
 如果不能通过刚性或一般的依赖来轻松分析基础，那么我们可能会建议，如果将基础理解为一种本体依赖类型，那么它将是某种解释性依赖。无论做基础的是什么，它也以某种方式解释了被基础的内容，这是该概念吸引人的关键部分。本体依赖关系通常似乎具有类似的解释作用，但与解释的联系可能较弱：尽管水的存在依赖于氢和氧的存在，但似乎并不是氢和氧的存在解释了水的存在。相反，解释水的存在的是氢和氧原子形成分子的能力（尽管这是相当简化的）。因此，用基础关系来解释所有本体依赖关系至少存在一些困难。
 
@@ -268,11 +268,11 @@ x 对于其存在依赖于 Fs =df x 的本质的一部分是，只有当某个 F
 
 ### 6.1 Supervenience
 
-随附性的概念在随附性的单独条目中有更详细的介绍（特别是§3.5），但在这里需要简要提及，因为随附性有时被认为是一种依赖类型。这是因为当我们断言 A 随附 B 时，我们可能还会说 A 属性本体上依赖于 B 属性。以艺术作品的美和艺术作品的物理表现为典型例子。似乎如果你想改变艺术作品的审美属性，你也必须操纵它的物理表现。初步看来，这里起作用的依赖是由（EDG）定义的通用存在依赖，因此审美 A 属性依赖于一些物理 B 属性的存在。然而，一般来说，随附性并不容易分析，因为至少在一个通常的概念上，随附性不是非自反的，因此不是非对称的（参见 Steinberg 2013）。换句话说，我们至少可以说，与基础不同，随附性不是严格的偏序关系，因此不是本体优先关系。有各种方法可以进一步指定随附性的形式特征，并且确实可以争论它不应被视为一种依赖形式，但这不是我们可以在这里进行的任务。
+随附性的概念在随附性的单独条目中有更详细的介绍（特别是 §3.5），但在这里需要简要提及，因为随附性有时被认为是一种依赖类型。这是因为当我们断言 A 随附 B 时，我们可能还会说 A 属性本体上依赖于 B 属性。以艺术作品的美和艺术作品的物理表现为典型例子。似乎如果你想改变艺术作品的审美属性，你也必须操纵它的物理表现。初步看来，这里起作用的依赖是由（EDG）定义的通用存在依赖，因此审美 A 属性依赖于一些物理 B 属性的存在。然而，一般来说，随附性并不容易分析，因为至少在一个通常的概念上，随附性不是非自反的，因此不是非对称的（参见 Steinberg 2013）。换句话说，我们至少可以说，与基础不同，随附性不是严格的偏序关系，因此不是本体优先关系。有各种方法可以进一步指定随附性的形式特征，并且确实可以争论它不应被视为一种依赖形式，但这不是我们可以在这里进行的任务。
 
 ### 6.2 真理生成
 
-本体依赖与真理生成之间的联系属于更一般的类型。在许多解释中，真理生成理论的核心被认为是真理依赖于存在的想法（Bigelow 1988: 133; 另请参阅 Armstrong 2004、Schaffer 2010a 和 Liggins 2012）。最近，一些人对这个想法提出了反对意见（例如，Merricks 2007），但它在真理生成理论家中仍然很受欢迎（有关讨论，请参阅有关真理生成者的单独条目）。此外，真理生成与本体依赖之间的联系从一开始就是真理生成理论的一部分；Mulligan、Simons 和 Smith（1984: 294）在介绍真理生成的想法时依赖于胡塞尔关于本体依赖的工作（有关胡塞尔关于依赖的工作的进一步讨论，请参阅 Simons 1982 和 Johansson 2004: Ch. 9）。更确切地说，似乎必须有某种方式使得真命题成为真实的原因，但世界本身并不对真理具有对称依赖；真理与存在之间存在着一种非对称的依赖关系（因此，这种依赖关系需要用非对称的依赖概念来表达，请参见上文的§3）。
+本体依赖与真理生成之间的联系属于更一般的类型。在许多解释中，真理生成理论的核心被认为是真理依赖于存在的想法（Bigelow 1988: 133; 另请参阅 Armstrong 2004、Schaffer 2010a 和 Liggins 2012）。最近，一些人对这个想法提出了反对意见（例如，Merricks 2007），但它在真理生成理论家中仍然很受欢迎（有关讨论，请参阅有关真理生成者的单独条目）。此外，真理生成与本体依赖之间的联系从一开始就是真理生成理论的一部分；Mulligan、Simons 和 Smith（1984: 294）在介绍真理生成的想法时依赖于胡塞尔关于本体依赖的工作（有关胡塞尔关于依赖的工作的进一步讨论，请参阅 Simons 1982 和 Johansson 2004: Ch. 9）。更确切地说，似乎必须有某种方式使得真命题成为真实的原因，但世界本身并不对真理具有对称依赖；真理与存在之间存在着一种非对称的依赖关系（因此，这种依赖关系需要用非对称的依赖概念来表达，请参见上文的 §3）。
 
 然而，尽管这个观点很受欢迎，但并不完全没有争议。例如，MacBride（2014）认为没有必要诉诸真理生成来解释真理与存在之间的这种非对称依赖关系。事实上，有理由认为真理生成不能解释这种非对称性，至少不能基于真理依赖于存在的想法。这里的一部分混淆似乎围绕着相关的随附概念。在 Armstrong（2004: 8）的解释中，相关的随附概念是对称的：真理依赖于存在，但存在也依赖于真理。因此，所需的非对称性似乎不能从随附本身产生（另请参阅 Rodriguez-Pereyra 2005）。虽然这些问题必须在其他地方解决，但可以说在真理生成理论中无疑存在某种形式的本体依赖——关于如何指定真理生成仍存在着一场持续的辩论。最近的一个可能有一些发展空间的建议是，如果将真理生成理解为真理基础，即某个实体 x 使命题 p 的真实性基于 x 的存在（有关讨论，请参阅 Tahko 2013）。
 
@@ -282,13 +282,13 @@ x 对于其存在依赖于 Fs =df x 的本质的一部分是，只有当某个 F
 
 (SUB-1)
 
-x 是一种物质 =df x 是一个特定的物质，不存在任何不与 x 相同的特定物质 y，而 x 的存在依赖于 y。
+x 是一种物质 = df x 是一个特定的物质，不存在任何不与 x 相同的特定物质 y，而 x 的存在依赖于 y。
 
 (SUB-1) 可以被看作是遵循亚里士多德的先例，亚里士多德在《范畴学》中只承认个别事物作为“主要”实体，同时允许一些普遍性（主要实体的种类和属类）具有“次要”实体的地位（参见亚里士多德，《范畴学》：第 2 章）。然而，由于（SUB-1）依赖于（EDR），对于那些认为本体依赖的模态存在分析不够细致的人来说，它将是不令人满意的；它将面临我们在 2.2 节中讨论过的那种问题。我们已经知道，不能用（SUB-1）中所使用的存在依赖的概念来替换为依赖于本质的存在依赖关系（由（EDE）定义），因为后者既不是非对称关系也不是反对称关系。实际上，这是在给出（EDE）定义后立即讨论的球体的两个半球的例子的一个教训。因为整个球体很可能被视为一种实体，而它的“半球”都不可能是实体，因为它们缺乏所需的本体独立性。但是，当用（EDE）重新解释（SUB-1）时，确实有一个含义，即两个半球都不是实体，因为每个半球都依赖于另一个半球的存在，因此依赖于与自身不同的个别事物。然而，有一个明显的解决办法。我们可以简单地将在（SUB-1）模式的定义中对任何种类的存在依赖的引用替换为对身份依赖关系的引用（由（ID）定义），得到：
 
 (SUB-2)
 
-x 是一种物质 =df x 是一个特定的物质，并且不存在一个特定的 y，使得 y 不等同于 x，而 x 的身份取决于 y。
+x 是一种物质 = df x 是一个特定的物质，并且不存在一个特定的 y，使得 y 不等同于 x，而 x 的身份取决于 y。
 
 复合物质似乎符合（SUB-2）：因为虽然它们拥有适当的部分，但它们的身份并不依赖于这些部分，因为这些部分是哪些物质的部分并不能确定它们是哪些物质的部分（同样的物体可以成为许多不同物质的部分）。此外，一般来说，物质的身份也不依赖于它们的（偶然的）具体化属性（如果存在的话），也不依赖于它们参与的事件，也不依赖于它们所占据的位置，也不依赖于其他物质。物质的具体化属性（即，特定的特征或模式）和物质参与的事件，例如这个苹果的特定红色和凯撒的暗杀，似乎依赖于这些物质的身份，这排除了相反的关系的存在，否则会出现循环论证的问题。（然而，参见 Keinänen & Hakkarainen 2014 进行讨论；特别是，他们提出了一种在特征个体化中不涉及循环论证的特征个体化辨别策略。另请参见 Moltmann 2019，该文讨论了与特征和其他实体相关的空间位置问题。）至于位置，虽然一个物质确实必须占据某个位置，但它所占据的位置并不能确定它是哪个物质，因为物质可以交换位置。
 
@@ -308,80 +308,80 @@ x 是一种物质 =df x 是一个特定的物质，并且不存在一个特定�
 
 * Aristotle, *Categories*, in *Categories and De Interpretatione*, trans. J. L. Ackrill, Oxford: Clarendon Press, 1963.
 * Armstrong, D.M., 1978, *A Theory of Universals: Universals and Scientific Realism*, volume 2, Cambridge: Cambridge University Press.
-* –––, 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487552
-* Barnes, Elizabeth, 2012, “Emergence and Fundamentality”, *Mind*, 121(484): 873–901. doi:10.1093/mind/fzt001
+* –––, 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511487552
+* Barnes, Elizabeth, 2012, “Emergence and Fundamentality”, *Mind*, 121(484): 873–901. doi: 10.1093/mind/fzt001
 * –––, 2018, “Symmetric Dependence”, in *Reality and Its Structure: Essays in Fundamentality*, Ricki Bliss and Graham Priest (eds.), Oxford: Oxford University Press, 50–69.
-* Bennett, Karen, 2017, *Making Things Up*, Oxford: Oxford University Press. doi:10.1093/oso/9780199682683.001.0001
-* Bliss, Ricki Leigh, 2013, “Viciousness and the Structure of Reality”, *Philosophical Studies*, 166(2): 399–418. doi:10.1007/s11098-012-0043-0
+* Bennett, Karen, 2017, *Making Things Up*, Oxford: Oxford University Press. doi: 10.1093/oso/9780199682683.001.0001
+* Bliss, Ricki Leigh, 2013, “Viciousness and the Structure of Reality”, *Philosophical Studies*, 166(2): 399–418. doi: 10.1007/s11098-012-0043-0
 * Bigelow, John, 1988, *The Reality of Numbers: A Physicalist’s Philosophy of Mathematics*, Oxford: Oxford University Press.
-* Cameron, Ross P., 2007, “Turtles All the Way down: Regress, Priority and Fundamentality”, *The Philosophical Quarterly*, 58(230): 1–14. doi:10.1111/j.1467-9213.2007.509.x
-* Corkum, Phil, 2008, “Aristotle on Ontological Dependence”, *Phronesis*, 53(1): 65–92. doi:10.1163/156852808X252594
+* Cameron, Ross P., 2007, “Turtles All the Way down: Regress, Priority and Fundamentality”, *The Philosophical Quarterly*, 58(230): 1–14. doi: 10.1111/j.1467-9213.2007.509.x
+* Corkum, Phil, 2008, “Aristotle on Ontological Dependence”, *Phronesis*, 53(1): 65–92. doi: 10.1163/156852808X252594
 * Correia, Fabrice, 2005, *Existential Dependence and Cognate Notions*, München: Philosophia Verlag.
-* –––, 2008, “Ontological Dependence”, *Philosophy Compass*, 3(5): 1013–1032. doi:10.1111/j.1747-9991.2008.00170.x
-* –––, 2012, “On the Reduction of Necessity to Essence”, *Philosophy and Phenomenological Research*, 84(3): 639–653. doi:10.1111/j.1933-1592.2010.00436.x
-* Correia, Fabrice and Benjamin Schnieder (eds.), 2012a, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139149136
-* –––, 2012b, “Grounding: An Opinionated Introduction”, in Correia and Schnieder 2012a: 1–36. doi:10.1017/CBO9781139149136.001
+* –––, 2008, “Ontological Dependence”, *Philosophy Compass*, 3(5): 1013–1032. doi: 10.1111/j.1747-9991.2008.00170.x
+* –––, 2012, “On the Reduction of Necessity to Essence”, *Philosophy and Phenomenological Research*, 84(3): 639–653. doi: 10.1111/j.1933-1592.2010.00436.x
+* Correia, Fabrice and Benjamin Schnieder (eds.), 2012a, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139149136
+* –––, 2012b, “Grounding: An Opinionated Introduction”, in Correia and Schnieder 2012a: 1–36. doi: 10.1017/CBO9781139149136.001
 * deRosset, Louis, 2013, “Grounding Explanations”, *Philosopher’s Imprint*, 13: art. 7 (26 pages). [[deRosset 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.007)]
 * Descartes, Rene, *The Philosophical Writings of Descartes*, J. Cottingham et al. (eds.), Cambridge: Cambridge University Press, 1985.
 * Fine, Kit, 1994a, “Essence and Modality”, in *Philosophical Perspectives 8: Logic and Language*, J.E. Tomberlin (ed.), Atascadero, CA: Ridgeview Publishing Company.
-* –––, 1994b, “Ontological Dependence”, *Proceedings of the Aristotelian Society*, 95(1): 269–290. doi:10.1093/aristotelian/95.1.269
-* –––, 1995, “The Logic of Essence”, *Journal of Philosophical Logic*, 24(3): 241–273. doi:10.1007/BF01344203
-* –––, 2012, “Guide to Ground”, in Correia and Schnieder 2012a: 37–80. doi:10.1017/CBO9781139149136.002
-* French, Steven, 2010, “The Interdependence of Structure, Objects and Dependence”, *Synthese*, 175(S1): 89–109. doi:10.1007/s11229-010-9734-2
+* –––, 1994b, “Ontological Dependence”, *Proceedings of the Aristotelian Society*, 95(1): 269–290. doi: 10.1093/aristotelian/95.1.269
+* –––, 1995, “The Logic of Essence”, *Journal of Philosophical Logic*, 24(3): 241–273. doi: 10.1007/BF01344203
+* –––, 2012, “Guide to Ground”, in Correia and Schnieder 2012a: 37–80. doi: 10.1017/CBO9781139149136.002
+* French, Steven, 2010, “The Interdependence of Structure, Objects and Dependence”, *Synthese*, 175(S1): 89–109. doi: 10.1007/s11229-010-9734-2
 * Hoeltje, Miguel, Benjamin Schnieder, and Alex Steinberg (eds.), 2013, *Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence* (Basic Philosophical Concepts), Munich: Philosophia Verlag.
-* Hoffman, Joshua and Gary S. Rosenkrantz, 1994, *Substance among Other Categories*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527425
+* Hoffman, Joshua and Gary S. Rosenkrantz, 1994, *Substance among Other Categories*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511527425
 * Ingthorsson, Rognvaldur, 2002, “Causal Production as Interaction”, *Metaphysica*, 3(1): 87–119.
-* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?”:, *Monist*, 94(2): 267–276. doi:10.5840/monist201194213
-* Johansson, Ingvar, 2004, *Ontological Investigations: An Inquiry into the Categories of Nature, Man and Society*, Berlin, Boston: De Gruyter. doi:10.1515/9783110329865
-* Keinänen, Markku and Jani Hakkarainen, 2014, “The Problem of Trope Individuation: A Reply to Lowe”, *Erkenntnis*, 79(1): 65–79. doi:10.1007/s10670-013-9459-y
-* Keinänen, Markku, Antti Keskinen, and Jani Hakkarainen, 2019, “Quantity Tropes and Internal Relations”, *Erkenntnis*, 84(3): 519–534. doi:10.1007/s10670-017-9969-0
-* Koslicki, Kathrin, 2012, “Varieties of Ontological Dependence”, in Correia and Schnieder 2012a:186–213. doi:10.1017/CBO9781139149136.008
+* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?”:, *Monist*, 94(2): 267–276. doi: 10.5840/monist201194213
+* Johansson, Ingvar, 2004, *Ontological Investigations: An Inquiry into the Categories of Nature, Man and Society*, Berlin, Boston: De Gruyter. doi: 10.1515/9783110329865
+* Keinänen, Markku and Jani Hakkarainen, 2014, “The Problem of Trope Individuation: A Reply to Lowe”, *Erkenntnis*, 79(1): 65–79. doi: 10.1007/s10670-013-9459-y
+* Keinänen, Markku, Antti Keskinen, and Jani Hakkarainen, 2019, “Quantity Tropes and Internal Relations”, *Erkenntnis*, 84(3): 519–534. doi: 10.1007/s10670-017-9969-0
+* Koslicki, Kathrin, 2012, “Varieties of Ontological Dependence”, in Correia and Schnieder 2012a: 186–213. doi: 10.1017/CBO9781139149136.008
 * –––, 2013, “Ontological Dependence: An Opinionated Survey”, in Hoeltje, Schnieder, and Steinberg 2013: 31–64.
-* Kovacs, David Mark, 2018, “The Deflationary Theory of Ontological Dependence”, *The Philosophical Quarterly*, 68(272): 481–502. doi:10.1093/pq/pqy003
+* Kovacs, David Mark, 2018, “The Deflationary Theory of Ontological Dependence”, *The Philosophical Quarterly*, 68(272): 481–502. doi: 10.1093/pq/pqy003
 * Kripke, Saul, 1980, *Naming and Necessity*, Harvard, MA: Harvard University Press.
-* Ladyman, James, 1998, “What Is Structural Realism?”, *Studies in History and Philosophy of Science Part A*, 29(3): 409–424. doi:10.1016/S0039-3681(98)80129-5
-* Liggins, David, 2012, “Truth-Makers and Dependence”, in Correia and Schnieder 2012a: 254–271. doi:10.1017/CBO9781139149136.011
+* Ladyman, James, 1998, “What Is Structural Realism?”, *Studies in History and Philosophy of Science Part A*, 29(3): 409–424. doi: 10.1016/S0039-3681(98)80129-5
+* Liggins, David, 2012, “Truth-Makers and Dependence”, in Correia and Schnieder 2012a: 254–271. doi: 10.1017/CBO9781139149136.011
 * Locke, John, 1975, *An Essay Concerning Human Understanding*, P.H. Nidditch (ed.), Oxford: Clarendon Press.
-* Lowe, E. Jonathan, 1989, “What Is a Criterion of Identity?”, *The Philosophical Quarterly*, 39(154): 1–21. doi:10.2307/2220347
-* –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
-* –––, 2006, *The Four-Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Clarendon Press. doi:10.1093/0199254397.001.0001
-* –––, 2008, “Two Notions of Being: Entity and Essence”, *Royal Institute of Philosophy Supplement*, 62: 23–48. doi:10.1017/S1358246108000568
+* Lowe, E. Jonathan, 1989, “What Is a Criterion of Identity?”, *The Philosophical Quarterly*, 39(154): 1–21. doi: 10.2307/2220347
+* –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi: 10.1093/0199244995.001.0001
+* –––, 2006, *The Four-Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Clarendon Press. doi: 10.1093/0199254397.001.0001
+* –––, 2008, “Two Notions of Being: Entity and Essence”, *Royal Institute of Philosophy Supplement*, 62: 23–48. doi: 10.1017/S1358246108000568
 * –––, 2009, *More Kinds of Being*, Oxford: Wiley-Blackwell.
 * –––, 2005 [2010], “Ontological Dependence”, *The Stanford Encyclopedia of Philosophy* (Spring 2010 Edition), Edward N. Zalta (ed.), URL = <[Ontological Dependence (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/dependence-ontological/)>
-* –––, 2012, “Asymmetrical Dependence in Individuation”, in Correia and Schnieder 2012a: 214–233. doi:10.1017/CBO9781139149136.009
-* MacBride, Fraser, 2014, “How Truth Depends upon Being”, *Analysis*, 74(3): 370–378. doi:10.1093/analys/anu057
-* Marcus, Ruth Barcan, 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. doi:10.2307/2214714
-* Merricks, Trenton, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
+* –––, 2012, “Asymmetrical Dependence in Individuation”, in Correia and Schnieder 2012a: 214–233. doi: 10.1017/CBO9781139149136.009
+* MacBride, Fraser, 2014, “How Truth Depends upon Being”, *Analysis*, 74(3): 370–378. doi: 10.1093/analys/anu057
+* Marcus, Ruth Barcan, 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. doi: 10.2307/2214714
+* Merricks, Trenton, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199205233.001.0001
 * Moltmann, Friederike, 2019, “Ontological Dependence, Spatial Location, and Part Structure”, in *Ontology Makes Sense: Essays in Honor of Nicola Guarino*, S. Borgo, R. Ferrario, C. Masolo, and L. Vieu (eds), (Frontiers in Artificial Intelligence and Applications, 316), pp. 211–220.
-* Morganti, Matteo, 2014, “Metaphysical Infinitism and the Regress of Being: Metaphysical Infinitism and the Regress of Being”, *Metaphilosophy*, 45(2): 232–244. doi:10.1111/meta.12080
-* Mulligan, Kevin, Peter Simons, and Barry Smith, 1984, “Truth-Makers”, *Philosophy and Phenomenological Research*, 44(3): 287–321. doi:10.2307/2107686
-* Nolan, Daniel, 2011, “Categories and Ontological Dependence”:, *Monist*, 94(2): 277–301. doi:10.5840/monist201194214
-* –––, 2014, “Hyperintensional Metaphysics”, *Philosophical Studies*, 171(1): 149–160. doi:10.1007/s11098-013-0251-2
-* O’Conaill, Donnchadh, 2014, “Ontic Structural Realism and Concrete Objects”, *The Philosophical Quarterly*, 64(255): 284–300. doi:10.1093/pq/pqt053
-* Paseau, Alexander, 2010, “Defining Ultimate Ontological Basis and the Fundamental Layer”, *The Philosophical Quarterly*, 60(238): 169–175. doi:10.1111/j.1467-9213.2009.642.x
-* Peramatzis, Michail, 2011, *Priority in Aristotle’s Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199588350.001.0001
+* Morganti, Matteo, 2014, “Metaphysical Infinitism and the Regress of Being: Metaphysical Infinitism and the Regress of Being”, *Metaphilosophy*, 45(2): 232–244. doi: 10.1111/meta.12080
+* Mulligan, Kevin, Peter Simons, and Barry Smith, 1984, “Truth-Makers”, *Philosophy and Phenomenological Research*, 44(3): 287–321. doi: 10.2307/2107686
+* Nolan, Daniel, 2011, “Categories and Ontological Dependence”:, *Monist*, 94(2): 277–301. doi: 10.5840/monist201194214
+* –––, 2014, “Hyperintensional Metaphysics”, *Philosophical Studies*, 171(1): 149–160. doi: 10.1007/s11098-013-0251-2
+* O’Conaill, Donnchadh, 2014, “Ontic Structural Realism and Concrete Objects”, *The Philosophical Quarterly*, 64(255): 284–300. doi: 10.1093/pq/pqt053
+* Paseau, Alexander, 2010, “Defining Ultimate Ontological Basis and the Fundamental Layer”, *The Philosophical Quarterly*, 60(238): 169–175. doi: 10.1111/j.1467-9213.2009.642.x
+* Peramatzis, Michail, 2011, *Priority in Aristotle’s Metaphysics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199588350.001.0001
 * Raven, Michael J., 2013, “Is Ground a Strict Partial Order?”, *American Philosophical Quarterly*, 50(2): 191–199.
 * Rodriguez-Pereyra, Gonzalo, 2005, “Why Truthmakers”, in *Truthmakers: The Contemporary Debate*, Helen Beebee and Julian Dodd (eds.), Oxford: Oxford University Press, 17–31.
 * Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in *Modality: Metaphysics, Logic, and Epistemology*, Bob Hale and Aviv Hoffman (eds.), Oxford: Oxford University Press, 109–136.
-* Rydéhn, Henrik, forthcoming, “Grounding and Ontological Dependence”, *Synthese*, first online: 30 May 2018. doi:10.1007/s11229-018-1818-4
-* Schaffer, Jonathan, 2003, “Is There a Fundamental Level?”, *Noûs*, 37(3): 498–517. doi:10.1111/1468-0068.00448
+* Rydéhn, Henrik, forthcoming, “Grounding and Ontological Dependence”, *Synthese*, first online: 30 May 2018. doi: 10.1007/s11229-018-1818-4
+* Schaffer, Jonathan, 2003, “Is There a Fundamental Level?”, *Noûs*, 37(3): 498–517. doi: 10.1111/1468-0068.00448
 * –––, 2009, “On What Grounds What”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David J. Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 347–283.
-* –––, 2010a, “The Least Discerning and Most Promiscuous Truthmaker”, *The Philosophical Quarterly*, 60(239): 307–324. doi:10.1111/j.1467-9213.2009.612.x
-* –––, 2010b, “Monism: The Priority of the Whole”, *Philosophical Review*, 119(1): 31–76. doi:10.1215/00318108-2009-025
-* –––, 2012, “Grounding, Transitivity, and Contrastivity”, in Correia and Schnieder 2012a: 122–138. doi:10.1017/CBO9781139149136.005
-* Schnieder, Benjamin Sebastian, 2006, “A Certain Kind of Trinity: Dependence, Substance, Explanation”, *Philosophical Studies*, 129(2): 393–419. doi:10.1007/s11098-005-4636-8
+* –––, 2010a, “The Least Discerning and Most Promiscuous Truthmaker”, *The Philosophical Quarterly*, 60(239): 307–324. doi: 10.1111/j.1467-9213.2009.612.x
+* –––, 2010b, “Monism: The Priority of the Whole”, *Philosophical Review*, 119(1): 31–76. doi: 10.1215/00318108-2009-025
+* –––, 2012, “Grounding, Transitivity, and Contrastivity”, in Correia and Schnieder 2012a: 122–138. doi: 10.1017/CBO9781139149136.005
+* Schnieder, Benjamin Sebastian, 2006, “A Certain Kind of Trinity: Dependence, Substance, Explanation”, *Philosophical Studies*, 129(2): 393–419. doi: 10.1007/s11098-005-4636-8
 * Simons, Peter M., 1982, “The Formalisation of Husserl’s Theory of Parts and Wholes”, in *Parts and Moments: Studies in Logic and Formal Ontology*, Barry Smith (ed.), München: Philosophia Verlag, pp. 113–159.
-* –––, 1987, *Parts: A Study in Ontology*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199241460.001.0001
+* –––, 1987, *Parts: A Study in Ontology*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199241460.001.0001
 * Steinberg, Alex, 2013, “Supervenience: A Survey”, in Hoeltje, Schnieder, and Steinberg 2013: 123–166.
-* Tahko, Tuomas E., 2013, “Truth-Grounding and Transitivity”, *Thought: A Journal of Philosophy*, 2(4): 332–340. doi:10.1002/tht3.94
-* –––, 2014, “Boring Infinite Descent: Boring Infinite Descent”, *Metaphilosophy*, 45(2): 257–269. doi:10.1111/meta.12084
-* Tallant, Jonathan, 2015, “Ontological Dependence in a Spacetime-World”, *Philosophical Studies*, 172(11): 3101–3118. doi:10.1007/s11098-015-0459-4
-* Thomasson, Amie L., 1998, *Fiction and Metaphysics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527463
-* Thompson, Naomi, 2014, “Ontological Dependence”, *Oxford Bibliographies)* Oxford: Oxford University Press. doi:10.1093/obo/9780195396577-0203
-* Trogdon, Kelly, 2009, “Monism and Intrinsicality”, *Australasian Journal of Philosophy*, 87(1): 127–148. doi:10.1080/00048400802215497
+* Tahko, Tuomas E., 2013, “Truth-Grounding and Transitivity”, *Thought: A Journal of Philosophy*, 2(4): 332–340. doi: 10.1002/tht3.94
+* –––, 2014, “Boring Infinite Descent: Boring Infinite Descent”, *Metaphilosophy*, 45(2): 257–269. doi: 10.1111/meta.12084
+* Tallant, Jonathan, 2015, “Ontological Dependence in a Spacetime-World”, *Philosophical Studies*, 172(11): 3101–3118. doi: 10.1007/s11098-015-0459-4
+* Thomasson, Amie L., 1998, *Fiction and Metaphysics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511527463
+* Thompson, Naomi, 2014, “Ontological Dependence”, *Oxford Bibliographies)* Oxford: Oxford University Press. doi: 10.1093/obo/9780195396577-0203
+* Trogdon, Kelly, 2009, “Monism and Intrinsicality”, *Australasian Journal of Philosophy*, 87(1): 127–148. doi: 10.1080/00048400802215497
 * –––, 2013, “An Introduction to Grounding”, in Hoeltje, Schnieder, and Steinberg 2013: 97–122.
-* Wilson, Jessica M., 2014, “No Work for a Theory of Grounding”, *Inquiry*, 57(5–6): 535–579. doi:10.1080/0020174X.2014.907542
-* Zylstra, Justin, 2019, “Collective Essence and Monotonicity”, *Erkenntnis*, 84(5): 1087–1101. doi:10.1007/s10670-018-9996-5
+* Wilson, Jessica M., 2014, “No Work for a Theory of Grounding”, *Inquiry*, 57(5–6): 535–579. doi: 10.1080/0020174X.2014.907542
+* Zylstra, Justin, 2019, “Collective Essence and Monotonicity”, *Erkenntnis*, 84(5): 1087–1101. doi: 10.1007/s10670-018-9996-5
 
 ## Academic Tools
 

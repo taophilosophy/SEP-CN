@@ -30,7 +30,7 @@
 
 第二个特征，即损伤和残疾之间的区别，将更加成为我们讨论的中心。正是通过这些术语，医学模型和社会模型被区分开来，正是这种残疾的“解剖学”被几个最近的哲学定义所拒绝或显著修改。
 
-UPIAS 对残疾的理解中隐含着社会对残疾人施加限制的两种方式，对应于可能构成任何社会模式的两种不同思路。当 UPIAS 声称社会“排斥”有缺陷的人时，这暗示了少数群体模式，认为有缺陷的人是一个遭受污名化和排斥的少数人口。根据这一观点，残疾人遭遇困难的主要原因是因为他们遭受与种族或族裔少数群体相同的歧视。因此，公民权利保护和反歧视法律是对残疾的适当回应（例如，Hahn 1987 [1997]和 Oliver 1990）。也许最熟悉的少数群体模式表达可以在《美国残疾人法案》序言中找到，该法案将残疾人描述为“一个独立和与世隔绝的少数群体”——这明确引用了对种族少数群体的法律描述。
+UPIAS 对残疾的理解中隐含着社会对残疾人施加限制的两种方式，对应于可能构成任何社会模式的两种不同思路。当 UPIAS 声称社会“排斥”有缺陷的人时，这暗示了少数群体模式，认为有缺陷的人是一个遭受污名化和排斥的少数人口。根据这一观点，残疾人遭遇困难的主要原因是因为他们遭受与种族或族裔少数群体相同的歧视。因此，公民权利保护和反歧视法律是对残疾的适当回应（例如，Hahn 1987 [1997] 和 Oliver 1990）。也许最熟悉的少数群体模式表达可以在《美国残疾人法案》序言中找到，该法案将残疾人描述为“一个独立和与世隔绝的少数群体”——这明确引用了对种族少数群体的法律描述。
 
 UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这表明了人类变异模型，根据这一模型，残疾人面临的许多挑战并非源于他们被故意排斥，而是源于他们的特征与物理和社会环境之间的不匹配。根据这一观点，残疾是
 
@@ -46,7 +46,7 @@ UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这�
 
 ### 1.2 肯定模型？
 
-自 1970 年以来，医学模型和社会模型之间关于残疾人所经历的劣势来源的辩论主导了有关残疾的学术论述。然而，最近，残疾活动家和残疾学者质疑了这两种模型的明显共同假设，即残疾基本上是一种劣势、排斥或功能限制问题。这对残疾的解释提出了（部分）不同的观点；这一观点原则上与更医学化或更社会化的观点一致。约翰·斯温和莎莉·弗伦奇（2000）阐述的残疾和障碍的肯定模型认为，残疾首先不是问题，不仅仅是“个人悲剧”，也不仅仅是社会不公正。相反，残疾是一种不同的生活方式和体验世界的方式，不仅仅以其劣势而不以其优势为特征。
+自 1970 年以来，医学模型和社会模型之间关于残疾人所经历的劣势来源的辩论主导了有关残疾的学术论述。然而，最近，残疾活动家和残疾学者质疑了这两种模型的明显共同假设，即残疾基本上是一种劣势、排斥或功能限制问题。这对残疾的解释提出了（部分）不同的观点；这一观点原则上与更医学化或更社会化的观点一致。约翰 · 斯温和莎莉 · 弗伦奇（2000）阐述的残疾和障碍的肯定模型认为，残疾首先不是问题，不仅仅是“个人悲剧”，也不仅仅是社会不公正。相反，残疾是一种不同的生活方式和体验世界的方式，不仅仅以其劣势而不以其优势为特征。
 
 这并不是关于残疾的因果解释；相反，这是关于残疾现象中哪些方面应该成为社会科学理论中解释的对象的说法。因此，肯定性模型在表面上与医学模型或社会模型都是一致的，并且实际上往往会借鉴两者的考虑因素。残疾生活中多样化的优势和劣势可能源自生物因素、社会因素或两者之间的相互作用。在优势方面，像盲人这样的残疾人可能会因视觉缺失带来的对听觉和其他感官的增加关注以及他们与其他残疾人在一起抗击能力主义、争取社会正义时所体验到的团结而感到欢欣。在劣势方面，肯定性模型将指出一些人认为是个人悲剧的考虑因素，实际上是纯粹功能性挑战和社会排斥条件的结合，这些条件可能使生活更加艰难，但并不因此使其价值降低或不值得生活。
 
@@ -82,9 +82,9 @@ UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这�
 
 #### 2.2.1 正常功能观
 
-鉴于医学模式在文化中的普遍存在，人们可能会认为至少有一些近期的哲学家会捍卫一种残疾观，即将其定义为病理或远离正常功能的偏离（参见有关健康与疾病概念的条目）。然而，据我们所知，迄今为止，没有人明确地在印刷品中这样做。也许，克里斯托弗·布尔斯（Christopher Boorse）在他说到时最接近：
+鉴于医学模式在文化中的普遍存在，人们可能会认为至少有一些近期的哲学家会捍卫一种残疾观，即将其定义为病理或远离正常功能的偏离（参见有关健康与疾病概念的条目）。然而，据我们所知，迄今为止，没有人明确地在印刷品中这样做。也许，克里斯托弗 · 布尔斯（Christopher Boorse）在他说到时最接近：
 
-> 在第一眼看来，人们期望残疾[...]由严重到足以产生某些在道德和法律上重要的影响的病理条件组成。(Boorse 2010: 60–61)
+> 在第一眼看来，人们期望残疾 [...] 由严重到足以产生某些在道德和法律上重要的影响的病理条件组成。(Boorse 2010: 60–61)
 
 虽然博斯（Boorse）仅仅提出了这样一种定义的可能性，而没有进行辩护，但他关于健康和疾病的更广泛观点似乎支持这种方法。如果正如博斯所主张的，有一个良好的自然主义意义上的“病理学”，即（统计上）从物种典型功能下降，那么这个概念可以被纳入我们的道德和政治思考中，以制定以下模式的残疾定义：
 
@@ -115,7 +115,7 @@ UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这�
 
 在最近几年考虑残疾定义的大多数哲学家都对社会模型或肯定模型中的一个或两个表示同情。
 
-伊丽莎白·巴恩斯（Elizabeth Barnes）对社会模型中隐含的定义性主张的批评在最近的辩论中是一个重要时刻。巴恩斯担心，将残疾视为对身体差异的污名化、压迫性和排斥性回应，并不能将残疾与其他基于对身体的回应的特征区分开来，比如（根据许多观点）种族、性别和性取向身份。
+伊丽莎白 · 巴恩斯（Elizabeth Barnes）对社会模型中隐含的定义性主张的批评在最近的辩论中是一个重要时刻。巴恩斯担心，将残疾视为对身体差异的污名化、压迫性和排斥性回应，并不能将残疾与其他基于对身体的回应的特征区分开来，比如（根据许多观点）种族、性别和性取向身份。
 
 巴恩斯提出了一种替代观点，仍将残疾定义为一种社会属性，但以一种更符合肯定模式的方式，而不是经典社会模式所建议的定义，消除了残疾和损伤之间的区别，并且完全没有直接提到不公正或不利。巴恩斯（2016）建议根据残疾人自己的判断来定义残疾，而不是整个社会。换言之，只有当残疾人自己认为 S 是（身体上）残疾时，S 才是残疾。
 
@@ -139,7 +139,7 @@ UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这�
 
 林的修改的（预期）效果将是限制实际残疾权利运动的特定政治判断的权威。这指向了 Barnes 的论述可能存在更深层次问题的地方，以及 Lim 的部分跟随她的部分，使得残疾运动的规则所确定的认可成为残疾的决定性因素。如果残疾运动应该采纳能够确定某一群体的规则，那是否正是因为该群体共享了某种其他属性，使得这种选择合理？也就是说，难道不是残疾权利运动的成员共享了某种东西，解释了为什么他们应该团结一致寻求正义吗？那个东西，无论是什么，难道不是残疾的更好候选定义吗？具体来说，对于 Lim 的论述，我们为什么要否认某种状况是残疾，如果它是对合法利益的医学上有趣的限制，但并未被残疾权利运动的规则所承认？
 
-霍华德和阿斯（2018 年）以一种不同的方式回应了巴恩斯，制定了一个回溯到经典残疾社会模型的定义。在萨利·哈斯兰格（2000 年）关于性别和种族的研究基础上，他们经典地将残疾定义为对损伤的某种社会反应。在他们看来，在环境 C 中，人 S 被认为是残疾的，如果
+霍华德和阿斯（2018 年）以一种不同的方式回应了巴恩斯，制定了一个回溯到经典残疾社会模型的定义。在萨利 · 哈斯兰格（2000 年）关于性别和种族的研究基础上，他们经典地将残疾定义为对损伤的某种社会反应。在他们看来，在环境 C 中，人 S 被认为是残疾的，如果
 
 1. S 处于某种身体或心理状态 x【使得】
 2. x 在 C 的意识形态中通常被认为涉及一种损伤：一种功能失调的身体状态，限制了主要的生活活动
@@ -152,7 +152,7 @@ UPIAS 也声称，“当代社会组织”未能“考虑到”残疾人。这�
 
 詹金斯和韦伯（2021）提出了一种不同类型的社会建构残疾定义，实际上是三种不同但密切相关的定义。像巴恩斯、霍华德和阿斯一样，他们对理解哪些身体差异与残疾有关感兴趣。但他们更接近人类变异模型，而不是少数群体模型，以理解这些差异。他们的关键概念是他们所称的边缘化功能：拥有一个不符合我们社会建构期望的工作方式的身体。他们对残疾的三种定义都预设了这一概念；即：
 
-MF1：一个主体 S 如果在某一背景 C 中相对边缘化的功能，则被认为是[身体上]残疾，当且仅当这种情况是这样的：
+MF1：一个主体 S 如果在某一背景 C 中相对边缘化的功能，则被认为是 [身体上] 残疾，当且仅当这种情况是这样的：
 
 1. 存在一组社会规范 N，包括 n1、n2、…nn，每个规范都作为在构建共同社会环境和组织 C 中的共同社会互动方面的默认选择
 2. 在 N 中有一些规范 nx，使得 S 无法在满足它的方式下进行身体功能。(2021: 8)
@@ -175,7 +175,7 @@ MF2 通过规定解决了临时状况的问题。这可能在这里足够好，�
 
 这在口语中定义了残疾，从能力的角度来看；残疾大致是一种异常的无能力。然而，巴恩斯和其他人反对这一定义过于宽泛。例如，似乎使得某人无法“卷起舌头”或进行心算的人被视为残疾；因为在有利条件下，大多数人都能做到这一点。相反，这种观点似乎也无法涵盖某些残疾，因为有些疾病（例如纤维肌痛或抑郁症）只是使做事情更加困难，而并非使任何特定任务或功能直接无法实现。而且并不完全清楚这种观点如何避免明显的问题，即认同类别如种族、性别和性取向暗示残疾；由于社会偏见，某人因其性别或肤色而无法做到其他人能做到的事情。
 
-亚历克斯·格雷戈里（2020）采取了一种不同的方法来定义残疾，即不能力：
+亚历克斯 · 格雷戈里（2020）采取了一种不同的方法来定义残疾，即不能力：
 
 > 残疾理论：残疾意味着在某种程度上无法像一般情况下那样做某事，这种无能部分由您身体的非典型特征解释。（2020: 26）
 
@@ -213,7 +213,7 @@ MF2 通过规定解决了临时状况的问题。这可能在这里足够好，�
 
 #### 怀疑残疾的定义
 
-对定义残疾为个体特征、状况或功能的努力产生了两种怀疑性回应，这些特征、状况或功能是由某一套规则或标准选择的。第一种批评受到了迈克尔·福柯关于生命权力作为现代国家对其人口身体实施控制的工作的启发（Tremain 2017）。这种批评认为，将残疾定义为个体特征是忽略了大局。 “残疾”并不指一组个体特征，也不指涵盖这种特征的概念，而是指一种确定各种个体特征以进行社会控制的机制。值得注意的是，雪莉·特雷曼将残疾解读为一种由法律、非正式规范、文化理解和其他生命权力行使构建和维持的机制。损伤和残疾仅存在于这种在文化和历史上具有依赖性的装置中，这种装置在某种程度上是作为一种让自己视为“正常”的人来规范那些被标记为“异常”的人的手段而产生的。
+对定义残疾为个体特征、状况或功能的努力产生了两种怀疑性回应，这些特征、状况或功能是由某一套规则或标准选择的。第一种批评受到了迈克尔 · 福柯关于生命权力作为现代国家对其人口身体实施控制的工作的启发（Tremain 2017）。这种批评认为，将残疾定义为个体特征是忽略了大局。 “残疾”并不指一组个体特征，也不指涵盖这种特征的概念，而是指一种确定各种个体特征以进行社会控制的机制。值得注意的是，雪莉 · 特雷曼将残疾解读为一种由法律、非正式规范、文化理解和其他生命权力行使构建和维持的机制。损伤和残疾仅存在于这种在文化和历史上具有依赖性的装置中，这种装置在某种程度上是作为一种让自己视为“正常”的人来规范那些被标记为“异常”的人的手段而产生的。
 
 > 残疾并非一种形而上的基质，也不是一个自然的、生物学的范畴，或者仅仅是某些个体具有或拥有的特征，而是一个历史性的依赖关系网络，其中每个人都被牵涉和纠缠，每个人都占据一个位置。也就是说，残疾或非残疾是在残疾装置的生产约束内占据某种主体位置的情况....（2017: 22）。
 
@@ -235,77 +235,77 @@ Beaudry 承认，即使是开放式的方法也存在证据约束，但这些约
 
 ## Bibliography
 
-* Aas, Sean, 2020, “Disability, Society, and Personal Transformation”, *Journal of Moral Philosophy*, 18(1): 49–74. doi:10.1163/17455243-bja10060
-* Albrecht, Gary L., Katherine Seelman, and Michael Bury (eds.), 2001, *Handbook of Disability Studies*, Thousand Oaks, CA: SAGE Publications. doi:10.4135/9781412976251
-* Altman, Barbara M., 2001, “Definitions, Models, Classifications, Schemes, and Applications”, in Albrecht, Seelman, and Bury 2001: 97–122. doi:10.4135/9781412976251.n4
-* Amundson, Ron, 1992, “Disability, Handicap, and the Environment”, *Journal of Social Philosophy*, 23(1): 105–119. doi:10.1111/j.1467-9833.1992.tb00489.x
-* –––, 2000, “Against Normal Function”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 31(1): 33–53. doi:10.1016/S1369-8486(99)00033-3
-* Anastasiou, Dimitris and James M. Kauffman, 2013, “The Social Model of Disability: Dichotomy between Impairment and Disability”, *Journal of Medicine and Philosophy*, 38(4): 441–459. doi:10.1093/jmp/jht026
-* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
+* Aas, Sean, 2020, “Disability, Society, and Personal Transformation”, *Journal of Moral Philosophy*, 18(1): 49–74. doi: 10.1163/17455243-bja10060
+* Albrecht, Gary L., Katherine Seelman, and Michael Bury (eds.), 2001, *Handbook of Disability Studies*, Thousand Oaks, CA: SAGE Publications. doi: 10.4135/9781412976251
+* Altman, Barbara M., 2001, “Definitions, Models, Classifications, Schemes, and Applications”, in Albrecht, Seelman, and Bury 2001: 97–122. doi: 10.4135/9781412976251.n4
+* Amundson, Ron, 1992, “Disability, Handicap, and the Environment”, *Journal of Social Philosophy*, 23(1): 105–119. doi: 10.1111/j.1467-9833.1992.tb00489.x
+* –––, 2000, “Against Normal Function”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 31(1): 33–53. doi: 10.1016/S1369-8486(99)00033-3
+* Anastasiou, Dimitris and James M. Kauffman, 2013, “The Social Model of Disability: Dichotomy between Impairment and Disability”, *Journal of Medicine and Philosophy*, 38(4): 441–459. doi: 10.1093/jmp/jht026
+* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
 * Asch, Adrienne, 2006, “Appearance-Altering Surgery, Children’s Sense of Self, and Parental Love” *Surgically Shaping Children: Technology Ethics, and the Pursuit of Normality*, Erik Parens (ed.), Baltimore, MD: John Hopkins University Press, pp. 227–252.
 * Asch, Adrienne and Michelle Fine, 1988, “Introduction: Beyond Pedestals”, in *Women with Disabilities: Essays in Psychology, Culture, and Politics*, Michelle Fine and Adrienne Asch (eds.), Philadelphia, PA: Temple University Press, pp. 1–37.
 * Banks, Martha E. and Ellyn Kaschak (eds.), 2003, *Women with Visible and Invisible Disabilities: Multiple Intersections, Multiple Issues, Multiple Therapies*, New York: Haworth Press.
-* Barclay, Linda, 2018, *Disability with Dignity: Justice, Human Rights and Equal Status*, New York: Routledge. doi:10.4324/9781351017114
-* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732587.001.0001
-* –––, 2018, “Against Impairment: Replies to Aas, Howard, and Francis”, *Philosophical Studies*, 175(5): 1151–1162. doi:10.1007/s11098-018-1075-x
+* Barclay, Linda, 2018, *Disability with Dignity: Justice, Human Rights and Equal Status*, New York: Routledge. doi: 10.4324/9781351017114
+* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732587.001.0001
+* –––, 2018, “Against Impairment: Replies to Aas, Howard, and Francis”, *Philosophical Studies*, 175(5): 1151–1162. doi: 10.1007/s11098-018-1075-x
 * Basnett, Ian, 2001, “Health Care Professionals and Their Attitudes toward Decisions Affecting Disabled People”, in Albrecht, Seelman and Bury 2001: 450–467.
-* Beaudry, Jonas-Sébastien, 2016, “Beyond (Models of) Disability?”, *Journal of Medicine and Philosophy*, 41(2): 210–228. doi:10.1093/jmp/jhv063
+* Beaudry, Jonas-Sébastien, 2016, “Beyond (Models of) Disability?”, *Journal of Medicine and Philosophy*, 41(2): 210–228. doi: 10.1093/jmp/jhv063
 * –––, 2020 “Theoretical Strategies for Dedining Disabilities”, in *The Oxford Hanbook of Philosophy and Disability*, David Wasserman and Adam Cureon (eds.), Oxford: Oxford University Press.
-* Begon, Jessica, 2021, “Disability: A Justice-Based Account”, *Philosophical Studies*, 178(3): 935–962. doi:10.1007/s11098-020-01466-3
+* Begon, Jessica, 2021, “Disability: A Justice-Based Account”, *Philosophical Studies*, 178(3): 935–962. doi: 10.1007/s11098-020-01466-3
 * Bickenbach, Jerome Edmund, 1993, *Physical Disability and Social Policy*, Toronto and London: University of Toronto Press.
-* Brock, Dan W., 2005, “Preventing Genetically Transmitted Disabilities While Respecting Persons with Disabilities”, in *Quality of Life and Human Difference: Genetic Testing, Health Care, and Disability*, David Wasserman, Jerome Bickenbach, and Robert Wachbroit (eds.), Cambridge: Cambridge University Press, pp. 67–100. doi:10.1017/CBO9780511614590.004
-* Boorse, Christopher, 2010, “Disability and Medical Theory”, in *Philosophical Reflections on Disability*, D. Christopher Ralston and Justin Hubert Ho (eds.), (Philosophy and Medicine, 104), Dordrecht: Springer Netherlands, pp. 55–88. doi:10.1007/978-90-481-2477-0_4
+* Brock, Dan W., 2005, “Preventing Genetically Transmitted Disabilities While Respecting Persons with Disabilities”, in *Quality of Life and Human Difference: Genetic Testing, Health Care, and Disability*, David Wasserman, Jerome Bickenbach, and Robert Wachbroit (eds.), Cambridge: Cambridge University Press, pp. 67–100. doi: 10.1017/CBO9780511614590.004
+* Boorse, Christopher, 2010, “Disability and Medical Theory”, in *Philosophical Reflections on Disability*, D. Christopher Ralston and Justin Hubert Ho (eds.), (Philosophy and Medicine, 104), Dordrecht: Springer Netherlands, pp. 55–88. doi: 10.1007/978-90-481-2477-0_4
 * Brickner, Richard P., 1976, *My Second Twenty Years: An Unexpected Life*, New York: Basic Books.
-* Buchanan, Allen, Dan W. Brock, Norman Daniels, and Daniel Wikler, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806940
-* Campbell, Stephen M. and Joseph A. Stramondo, 2017, “The Complicated Relationship of Disability and Well-Being”, *Kennedy Institute of Ethics Journal*, 27(2): 151–184. doi:10.1353/ken.2017.0014
+* Buchanan, Allen, Dan W. Brock, Norman Daniels, and Daniel Wikler, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511806940
+* Campbell, Stephen M. and Joseph A. Stramondo, 2017, “The Complicated Relationship of Disability and Well-Being”, *Kennedy Institute of Ethics Journal*, 27(2): 151–184. doi: 10.1353/ken.2017.0014
 * Charlton, James I., 1998, *Nothing About Us Without Us: Disability, Oppression and Empowerment*, Berkeley, CA: University of California Press.
-* Cole, Phillip, 2007, “The Body Politic: Theorising Disability and Impairment”, *Journal of Applied Philosophy*, 24(2): 169–176. doi:10.1111/j.1468-5930.2007.00369.x
-* Cohen, G. A., 1993, “Equality of What? On Welfare, Goods, and Capabilities”, in *The Quality of Life*, Martha Nussbaum and Amartya Sen (eds.), Oxford: Clarendon Press, pp. 9–29. doi:10.1093/0198287976.003.0002
+* Cole, Phillip, 2007, “The Body Politic: Theorising Disability and Impairment”, *Journal of Applied Philosophy*, 24(2): 169–176. doi: 10.1111/j.1468-5930.2007.00369.x
+* Cohen, G. A., 1993, “Equality of What? On Welfare, Goods, and Capabilities”, in *The Quality of Life*, Martha Nussbaum and Amartya Sen (eds.), Oxford: Clarendon Press, pp. 9–29. doi: 10.1093/0198287976.003.0002
 * Crawford, Danette and Joan M. Ostrove, 2003, “Representations of Disability and the Personal Relationships of Women with Disabilities”, in Banks and Kaschak 2003: 127–44.
 * Davis, Lennard J., 2002, *Bending over Backwards: Disability, Dismodernism & Other Difficult Positions*, New York: New York University Press.
-* Davis, N. Ann, 2005, “Invisible Disability”, *Ethics*, 116(1): 153–213. doi:10.1086/453151
-* Edwards, Steven D., 1997, “Dismantling the Disability/Handicap Distinction”, *Journal of Medicine and Philosophy*, 22(6): 589–606. doi:10.1093/jmp/22.6.589
-* Francis, Leslie, 2018, “Understanding Disability Civil Rights Non-Categorically: The Minority Body and the Americans with Disabilities Act”, *Philosophical Studies*, 175(5): 1135–1149. doi:10.1007/s11098-018-1067-x
-* Garland-Thomson, Rosemarie, 2012, “The Case for Conserving Disability”, *Journal of Bioethical Inquiry*, 9(3): 339–355. doi:10.1007/s11673-012-9380-0
+* Davis, N. Ann, 2005, “Invisible Disability”, *Ethics*, 116(1): 153–213. doi: 10.1086/453151
+* Edwards, Steven D., 1997, “Dismantling the Disability/Handicap Distinction”, *Journal of Medicine and Philosophy*, 22(6): 589–606. doi: 10.1093/jmp/22.6.589
+* Francis, Leslie, 2018, “Understanding Disability Civil Rights Non-Categorically: The Minority Body and the Americans with Disabilities Act”, *Philosophical Studies*, 175(5): 1135–1149. doi: 10.1007/s11098-018-1067-x
+* Garland-Thomson, Rosemarie, 2012, “The Case for Conserving Disability”, *Journal of Bioethical Inquiry*, 9(3): 339–355. doi: 10.1007/s11673-012-9380-0
 * Gill, C. J., 2000, “Health Professionals, Disability, and Assisted Suicide: An Examination of Relevant Empirical Evidence and Reply to Batavia”, *Psychology, Public Policy, and Law: An Official Law Review of the University of Arizona College of Law and the University of Miami School of Law*, 6(2): 526–545.
 * Gliedman, John and William Roth, 1980, *The Unexpected Minority: Handicapped Children in America*, New York: Harcourt Brace Jovanovich.
-* Goering, Sara, 2008, “‘You Say You’re Happy, But…’: Contested Quality of Life Judgments in Bioethics and Disability Studies”, *Journal of Bioethical Inquiry*, 5(2–3): 125–135. doi:10.1007/s11673-007-9076-z
+* Goering, Sara, 2008, “‘You Say You’re Happy, But…’: Contested Quality of Life Judgments in Bioethics and Disability Studies”, *Journal of Bioethical Inquiry*, 5(2–3): 125–135. doi: 10.1007/s11673-007-9076-z
 * Goffman, Erving, 1963, *Stigma: Notes on the Maintenance of Spoiled Identity*, Englewood Cliffs, NJ: Prentiss Hall.
-* Gregory, Alex, 2020, “Disability as Inability”, *Journal of Ethics and Social Philosophy*, 18(1): 23–48. doi:10.26556/jesp.v18i1.572
+* Gregory, Alex, 2020, “Disability as Inability”, *Journal of Ethics and Social Philosophy*, 18(1): 23–48. doi: 10.26556/jesp.v18i1.572
 * Hacking, Ian, 1990, “The Normal State”, in *The Taming of Chance*, Cambridge: Cambridge University Press, pp. 161–169.
-* Hahn, Harlan, 1987 [1997], “Advertising the Acceptably Employable Image: Disability and Capitalism”, *Policy Studies Journal*, 15(3): 551–570. Reprinted in *The Disability Studies Reader*, L. J. Davis (ed.), London, UK: Routledge Kegan Paul, 1997, pp. 172–186. doi:10.1111/j.1541-0072.1987.tb00729.x
-* Haslanger, Sally, 2000, “Gender and Race: (What) Are They? (What) Do We Want Them To Be?”, *Noûs*, 34(1): 31–55. doi:10.1111/0029-4624.00201
-* Howard, Dana and Sean Aas, 2018, “On Valuing Impairment”, *Philosophical Studies*, 175(5): 1113. doi:10.1007/s11098-018-1074-y
-* Jenkins, Katharine and Aness Kim Webster, 2021, “Disability, Impairment, and Marginalised Functioning”, *Australasian Journal of Philosophy*, 99(4): 730–747. doi:10.1080/00048402.2020.1799048
+* Hahn, Harlan, 1987 [1997], “Advertising the Acceptably Employable Image: Disability and Capitalism”, *Policy Studies Journal*, 15(3): 551–570. Reprinted in *The Disability Studies Reader*, L. J. Davis (ed.), London, UK: Routledge Kegan Paul, 1997, pp. 172–186. doi: 10.1111/j.1541-0072.1987.tb00729.x
+* Haslanger, Sally, 2000, “Gender and Race: (What) Are They? (What) Do We Want Them To Be?”, *Noûs*, 34(1): 31–55. doi: 10.1111/0029-4624.00201
+* Howard, Dana and Sean Aas, 2018, “On Valuing Impairment”, *Philosophical Studies*, 175(5): 1113. doi: 10.1007/s11098-018-1074-y
+* Jenkins, Katharine and Aness Kim Webster, 2021, “Disability, Impairment, and Marginalised Functioning”, *Australasian Journal of Philosophy*, 99(4): 730–747. doi: 10.1080/00048402.2020.1799048
 * Johnson, Mary, 2003, *Make Them Go Away: Clint Eastwood, Christopher Reeve and the Case Against Disability Rights*, Louisville, KY: Advocado Press.
-* Kahane, Guy and Julian Savulescu, 2009, “The Welfarist Account of Disability”, in *Disability and Disadvantage*, Kimberley Brownlee and Adam Cureton (eds.), New York: Oxford University Press, pp. 14–53. doi:10.1093/acprof:osobl/9780199234509.003.0002
-* Kingma, Elselijn, 2007, “What Is It to Be Healthy?”, *Analysis*, 67(2): 128–133. doi:10.1093/analys/67.2.128
-* Lim, Chong-Ming, 2018, “Disabilities Are Also Legitimately Medically Interesting Constraints on Legitimate Interests”, *Mind*, 127(508): 977–1002. doi:10.1093/mind/fzy028
+* Kahane, Guy and Julian Savulescu, 2009, “The Welfarist Account of Disability”, in *Disability and Disadvantage*, Kimberley Brownlee and Adam Cureton (eds.), New York: Oxford University Press, pp. 14–53. doi: 10.1093/acprof: osobl/9780199234509.003.0002
+* Kingma, Elselijn, 2007, “What Is It to Be Healthy?”, *Analysis*, 67(2): 128–133. doi: 10.1093/analys/67.2.128
+* Lim, Chong-Ming, 2018, “Disabilities Are Also Legitimately Medically Interesting Constraints on Legitimate Interests”, *Mind*, 127(508): 977–1002. doi: 10.1093/mind/fzy028
 * Magee, Bryan and Martin Milligan, 1995, *On Blindness: Letters between Bryan Magee and Martin Milligan*, New York: Oxford University Press.
-* Martiny, Kristian Moltke, 2015, “How to Develop a Phenomenological Model of Disability”, *Medicine, Health Care and Philosophy*, 18(4): 553–565. doi:10.1007/s11019-015-9625-x
+* Martiny, Kristian Moltke, 2015, “How to Develop a Phenomenological Model of Disability”, *Medicine, Health Care and Philosophy*, 18(4): 553–565. doi: 10.1007/s11019-015-9625-x
 * Menzel, P. T., 1992, “Oregon’s Denial: Disabilities and Quality of Life”, *Hastings Center Report*, 22(6): 21–25.
-* Nordenfelt, Lennart, 1997, “The Importance of a Disability/Handicap Distinction”, *Journal of Medicine and Philosophy*, 22(6): 607–622. doi:10.1093/jmp/22.6.607
+* Nordenfelt, Lennart, 1997, “The Importance of a Disability/Handicap Distinction”, *Journal of Medicine and Philosophy*, 22(6): 607–622. doi: 10.1093/jmp/22.6.607
 * Oliver, Michael, 1990, *The Politics of Disablement*, Basingstoke, UK: Macmillan
 * Putnam, Ruth Anna, 1995, “Why Not a Feminist Theory of Justice?” in *Women, Culture and Development: A Study of Human Capabilities*, Martha Nussbaum and Jonathan Glover (eds.), Oxford: Clarendon Press, pp. 298–331.
 * Safilios-Rothschild, Constantina, 1970, *The Sociology and Social Psychology of Disability and Rehabilitation*, New York: Random House.
-* Samaha, Adam M. 2007, “What Good Is the Social Model of Disability?,” *University of Chicago Law Review*: 22(4), 1251–1308. doi:10.2307/20141862
-* Savulescu, Julian and Guy Kahane, 2011, “Disability: A Welfarist Approach”, *Clinical Ethics*, 6(1): 45–51. doi:10.1258/ce.2011.011010
+* Samaha, Adam M. 2007, “What Good Is the Social Model of Disability?,” *University of Chicago Law Review*: 22(4), 1251–1308. doi: 10.2307/20141862
+* Savulescu, Julian and Guy Kahane, 2011, “Disability: A Welfarist Approach”, *Clinical Ethics*, 6(1): 45–51. doi: 10.1258/ce.2011.011010
 * Schneider, Joseph W., and Peter Conrad, 1985, *Having Epilepsy: The Experience and Control of Illness*, Philadelphia, PA: Temple University Press.
-* Scotch, Richard K. and Kay Schriner, 1997, “Disability as Human Variation: Implications for Policy”, *The ANNALS of the American Academy of Political and Social Science*, 549(1): 148–159. doi:10.1177/0002716297549001011
-* Sen, Amartya, 1993, “Capability and Well‐Being”, in *The Quality of Life*, Martha Nussbaum and Amartya Sen (eds.), Oxford: Clarendon Press, pp. 30–53. doi:10.1093/0198287976.003.0003
+* Scotch, Richard K. and Kay Schriner, 1997, “Disability as Human Variation: Implications for Policy”, *The ANNALS of the American Academy of Political and Social Science*, 549(1): 148–159. doi: 10.1177/0002716297549001011
+* Sen, Amartya, 1993, “Capability and Well‐Being”, in *The Quality of Life*, Martha Nussbaum and Amartya Sen (eds.), Oxford: Clarendon Press, pp. 30–53. doi: 10.1093/0198287976.003.0003
 * Shakespeare, Tom, 2006, *Disability Rights and Wrongs*, London: Routledge.
 * Shakespeare, Tom, Kath Gillespie-Sells, and Dominic Davies, 1996, *The Sexual Politics of Disability: Untold Desires*, London, UK: Cassell.
-* Silvers, Anita, 2003, “On the Possibility and Desirability of Constructing a Neutral Conception of Disability”, *Theoretical Medicine and Bioethics*, 24(6): 471–487. doi:10.1023/B:META.0000006924.82156.5b
+* Silvers, Anita, 2003, “On the Possibility and Desirability of Constructing a Neutral Conception of Disability”, *Theoretical Medicine and Bioethics*, 24(6): 471–487. doi: 10.1023/B: META.0000006924.82156.5b
 * Stone, Karen G., 1997, *Awakening to Disability: Nothing About Us Without Us*, Volcano, CA: Volcano Press.
-* Swain, John and Sally French, 2000, “Towards an Affirmation Model of Disability”, *Disability & Society*, 15(4): 569–582. doi:10.1080/09687590050058189
-* Terzi, Lorella, 2004, “The Social Model of Disability: A Philosophical Critique”, *Journal of Applied Philosophy*, 21(2): 141–157. doi:10.1111/j.0264-3758.2004.00269.x
-* –––, 2009, “Vagaries of the Natural Lottery? Human Diversity, Disability, and Justice”, in *Disability and Disadvantage*, Kimberley Brownlee and Adam Cureton (eds.), New York: Oxford University Press, pp. 86–111. doi:10.1093/acprof:osobl/9780199234509.003.0004
-* Tremain, Shelley, 2001, “On the Government of Disability”, *Social Theory and Practice*, 27(4): 617–636. doi:10.5840/soctheorpract200127432
+* Swain, John and Sally French, 2000, “Towards an Affirmation Model of Disability”, *Disability & Society*, 15(4): 569–582. doi: 10.1080/09687590050058189
+* Terzi, Lorella, 2004, “The Social Model of Disability: A Philosophical Critique”, *Journal of Applied Philosophy*, 21(2): 141–157. doi: 10.1111/j.0264-3758.2004.00269.x
+* –––, 2009, “Vagaries of the Natural Lottery? Human Diversity, Disability, and Justice”, in *Disability and Disadvantage*, Kimberley Brownlee and Adam Cureton (eds.), New York: Oxford University Press, pp. 86–111. doi: 10.1093/acprof: osobl/9780199234509.003.0004
+* Tremain, Shelley, 2001, “On the Government of Disability”, *Social Theory and Practice*, 27(4): 617–636. doi: 10.5840/soctheorpract200127432
 * –––, 2017, *Foucault and Feminist Philosophy of Disability,* Ann Arbor, MI: Michigan University Press.
 * UPIAS, 1976, *Fundamental Principles of Disability*, London: Union of the Physically Impaired Against Segregation.
-* Wakefield, Jerome C., 1992, “The Concept of Mental Disorder: On the Boundary between Biological Facts and Social Values”, *American Psychologist*, 47(3): 373–388. doi:10.1037/0003-066X.47.3.373
+* Wakefield, Jerome C., 1992, “The Concept of Mental Disorder: On the Boundary between Biological Facts and Social Values”, *American Psychologist*, 47(3): 373–388. doi: 10.1037/0003-066X.47.3.373
 * Wasserman, David, 2001, “Philosophical Issues in the Definition and Social Response to Disability”, in Albrecht, Seelman, and Bury 2001: 219–251.
-* –––, 2018, “The Minority Body: A Theory of Disability”, *The Philosophical Review*, 127(2): 251–256. doi:10.1215/00318108-4326667
+* –––, 2018, “The Minority Body: A Theory of Disability”, *The Philosophical Review*, 127(2): 251–256. doi: 10.1215/00318108-4326667
 * Wates, Michael, 1997, *Disabled Parents: Dispelling of the Myths*, Cambridge, UK: National Childbirth Trust Publishing.
 * World Health Organization, 1980, *International Classification of Impairment, Disability and Handicap* (ICIDH), Geneva: World Health Organization.
 * –––, 2001 [ICF], *International Classification of Functioning, Disability and Health*, Geneva: World Health Organization. [[WHO 2001 available online](https://web.archive.org/web/20120126173453/https://whqlibdoc.who.int/publications/2001/9241545429.pdf).]

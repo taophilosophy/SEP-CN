@@ -30,7 +30,7 @@
 
 根据亚里士多德，有两种平等，数值平等和比例平等（亚里士多德，Nicomachean Ethics，1130b–1132b；参见柏拉图，《法律》，VI.757b–c）。对待他人的方式，或由此产生的分配，在对待所有人视为不可区分时是数值平等，因此将他们视为相同或授予他们相同数量的好处。这并不总是公正的。相比之下，对待他人的方式或分配是比例或相对平等的，当它将所有相关人员与其应得的相对对待时。公正的数值平等是比例平等的一个特例。数值平等只在特殊情况下才是公正的，即当人们在相关方面是相等的，以至于相关比例是相等的时。比例平等进一步明确了形式平等；它是形式平等更精确和全面的表述。它指示了产生适当平等的因素。
 
-在对待和分配物品时的比例平等至少涉及以下概念或变量：两个或更多人（P1，P2）和将物品分配给人（G）的两个或更多分配，以及 X 和 Y 作为个体具有相关规范性质量 E 的数量。这可以表示为一个带有分数或比率的方程。如果 P1 拥有 X 数量的 E，如果 P2 拥有 Y 数量的 E，那么 P1 应得到 X'数量的 G，P2 应得到 Y'数量的 G，以便比率 X/Y=X'/Y'有效。（为了使公式可用，涉及的潜在大量因素原则上必须是可量化的，并且可比较，即能够合成为一个总值。）
+在对待和分配物品时的比例平等至少涉及以下概念或变量：两个或更多人（P1，P2）和将物品分配给人（G）的两个或更多分配，以及 X 和 Y 作为个体具有相关规范性质量 E 的数量。这可以表示为一个带有分数或比率的方程。如果 P1 拥有 X 数量的 E，如果 P2 拥有 Y 数量的 E，那么 P1 应得到 X'数量的 G，P2 应得到 Y'数量的 G，以便比率 X/Y = X'/Y'有效。（为了使公式可用，涉及的潜在大量因素原则上必须是可量化的，并且可比较，即能够合成为一个总值。）
 
 当因素支持不平等对待或分配时，因为人们在相关方面不平等，根据这些因素进行的对待或分配是公正的。不平等的对待或分配要按比例考虑：这是人们被视为平等的先决条件。
 
@@ -142,7 +142,7 @@
 
 ### 3.8 能力方法
 
-限制自己于基本手段的平等分配的理论，希望能够公正地对待所有人类不同目标的理论，常常被批评为迷恋物质，因为它们关注手段而不是个体通过这些手段获得的东西（Sen 1980）。商品对某人的价值取决于客观可能性、自然环境和个体能力。因此，与资源主义方法相反，阿马蒂亚·森提议围绕“实现功能的能力”来定位分配，即一个人在生活中设法做到或成为的各种事情（Sen 1992）。换句话说，评估个体幸福感必须与实现和维持各种珍贵条件和“功能”有关，这些条件和“功能”构成一个人的存在，如充足的营养、良好的健康、自由行动的能力或毫无羞耻地公开露面的能力。在这里，获得幸福的真正自由也很重要，这种自由体现在选择实现形式和“功能”组合的能力上。对于森来说，能力因此成为人类享有的平等能力的度量标准，以引导他们的生活。能力方法经常引起的一个问题是如何权衡能力以得出平等的度量标准。这个问题的加剧是因为在能力的概念中融合了各种道德观点（Cohen 1993, p. 17–26, Williams 1987）。玛莎·努斯鲍姆（1992, 2000）将能力方法与亚里士多德的、本质主义的、“厚重”善的理论联系起来，这是一种旨在是“模糊的”、“不完整的”和足够开放的理论，以便为个体和文化变化留下空间。基于这种对好生活必要和普遍元素的“厚重”概念，某些能力和功能可以被指定为基础。通过这种方式，努斯鲍姆可以赋予能力方法一种精确性，提供人际比较的指标，但也面临着不足以对好的个人观念的多样性保持足够中立的风险，这种中立通常是大多数自由主义者所要求的（尤其是罗尔斯 1993；但请参阅罗贝因斯 2009，以了解与罗尔斯的比较的不同看法）。有关进一步讨论，请参阅能力方法条目。
+限制自己于基本手段的平等分配的理论，希望能够公正地对待所有人类不同目标的理论，常常被批评为迷恋物质，因为它们关注手段而不是个体通过这些手段获得的东西（Sen 1980）。商品对某人的价值取决于客观可能性、自然环境和个体能力。因此，与资源主义方法相反，阿马蒂亚 · 森提议围绕“实现功能的能力”来定位分配，即一个人在生活中设法做到或成为的各种事情（Sen 1992）。换句话说，评估个体幸福感必须与实现和维持各种珍贵条件和“功能”有关，这些条件和“功能”构成一个人的存在，如充足的营养、良好的健康、自由行动的能力或毫无羞耻地公开露面的能力。在这里，获得幸福的真正自由也很重要，这种自由体现在选择实现形式和“功能”组合的能力上。对于森来说，能力因此成为人类享有的平等能力的度量标准，以引导他们的生活。能力方法经常引起的一个问题是如何权衡能力以得出平等的度量标准。这个问题的加剧是因为在能力的概念中融合了各种道德观点（Cohen 1993, p. 17–26, Williams 1987）。玛莎 · 努斯鲍姆（1992, 2000）将能力方法与亚里士多德的、本质主义的、“厚重”善的理论联系起来，这是一种旨在是“模糊的”、“不完整的”和足够开放的理论，以便为个体和文化变化留下空间。基于这种对好生活必要和普遍元素的“厚重”概念，某些能力和功能可以被指定为基础。通过这种方式，努斯鲍姆可以赋予能力方法一种精确性，提供人际比较的指标，但也面临着不足以对好的个人观念的多样性保持足够中立的风险，这种中立通常是大多数自由主义者所要求的（尤其是罗尔斯 1993；但请参阅罗贝因斯 2009，以了解与罗尔斯的比较的不同看法）。有关进一步讨论，请参阅能力方法条目。
 
 ## 关系平等
 
@@ -190,7 +190,7 @@ Justice is primarily related to individual actions. Individual persons are the p
 
 内在平等主义者将平等视为一种内在的好处。作为纯粹的平等主义者，他们只关心平等，其中大多数人关注社会环境的平等，根据这一观点，如果一些人无过错地比其他人更糟糕，那么这是一种内在的不好。但事实上，并不是所有人都认为不平等是一种道德恶。内在平等主义者认为平等是可取的，即使平等对受影响的任何一方都没有用处，比如当只有通过降低每个人生活水平来实现平等时。但是，当某物对至少一个人有益时，它才能具有内在价值，当它以某种方式使一个人的生活更好时。
 
-以下的“水平下降”反对意味着消除平等实际上应该产生更好的情况；否则不清楚为什么应该期望平等。（对于这样的反对意见，请参见 Nozick 1974 年，第 229 页，Raz 1986 年，第 9 章，第 227、235 页，Temkin 1993 年，第 247-8 页。）有时候，不平等只能通过剥夺那些境况更好的人的资源来结束，使他们和其他人一样不幸。（对于寻找激烈文学例子的人，推荐 Kurt Vonnegut 的 1950 年科幻故事《哈里森·贝格伦》。）这将是一种根据内在概念的可接受方法。但如果在一个由盲人和有视力的人组成的群体中，有视力的人被变成盲人，因为盲人无法获得视力，这是否在道德上是好的？那将是道德上的反常。通过让每个人水平下降来消除不平等，据反对意见称，没有任何好处。当然，这样的水平下降反对意见只有在确实没有更好的同样平等的替代方案可用时才有效，但几乎总会有这样的替代方案：例如，能看见的人应该帮助盲人，无论是在财务上还是其他方面。当没有替代方案时，为了避免这样的反对意见，内在平等主义不能太严格，而需要是多元的。然后内在平等主义者可以说这种变化有好处，即更大的平等，尽管他们会承认其中有很多不好的地方。多元平等主义者不仅仅以平等为目标；他们还承认其他价值和原则，尤其是福利原则，根据这一原则，当人们状况更好时就更好。此外，多元平等主义应该足够温和，以便在平等和福利之间发生冲突时不总是让平等获胜。相反，他们必须接受为了所有人生活质量更高而减少平等（如 Rawls 的差别原则）。
+以下的“水平下降”反对意味着消除平等实际上应该产生更好的情况；否则不清楚为什么应该期望平等。（对于这样的反对意见，请参见 Nozick 1974 年，第 229 页，Raz 1986 年，第 9 章，第 227、235 页，Temkin 1993 年，第 247-8 页。）有时候，不平等只能通过剥夺那些境况更好的人的资源来结束，使他们和其他人一样不幸。（对于寻找激烈文学例子的人，推荐 Kurt Vonnegut 的 1950 年科幻故事《哈里森 · 贝格伦》。）这将是一种根据内在概念的可接受方法。但如果在一个由盲人和有视力的人组成的群体中，有视力的人被变成盲人，因为盲人无法获得视力，这是否在道德上是好的？那将是道德上的反常。通过让每个人水平下降来消除不平等，据反对意见称，没有任何好处。当然，这样的水平下降反对意见只有在确实没有更好的同样平等的替代方案可用时才有效，但几乎总会有这样的替代方案：例如，能看见的人应该帮助盲人，无论是在财务上还是其他方面。当没有替代方案时，为了避免这样的反对意见，内在平等主义不能太严格，而需要是多元的。然后内在平等主义者可以说这种变化有好处，即更大的平等，尽管他们会承认其中有很多不好的地方。多元平等主义者不仅仅以平等为目标；他们还承认其他价值和原则，尤其是福利原则，根据这一原则，当人们状况更好时就更好。此外，多元平等主义应该足够温和，以便在平等和福利之间发生冲突时不总是让平等获胜。相反，他们必须接受为了所有人生活质量更高而减少平等（如 Rawls 的差别原则）。
 
 目前，许多平等主义者已经准备好承认，在生活环境平等意义上并没有自身的强大价值，但在自由概念的正义框架下，其意义在于追求其他理想，比如普遍自由、人类能力的充分发展和人格的完善、减轻痛苦和打败支配和污名化、现代和自由构建社会的稳定一致等等（Scanlon 1996, 2018）。对于那些处境较差的人来说，不平等的环境往往意味着相当大的（相对）劣势和许多（绝对）罪恶；通常，这些（相对）劣势和（绝对）罪恶是我们对不平等环境道德谴责的根源。但这并不意味着不平等本身就是邪恶。因此，论点是，除了平等之外的基本道德理想支撑着我们对平等的追求。基于这样的理由拒绝不平等是支持平等，要么作为副产品，要么作为手段，而不是作为目标或内在价值。在将平等视为派生美德的处理中，这种平等主义的类型——如果这个术语实际上适用的话——是一种工具性的。
 
@@ -216,9 +216,9 @@ Justice is primarily related to individual actions. Individual persons are the p
 * Anderson, Elizabeth, 1999, “What Is the Point of Equality?,” *Ethics*, 109: 287–337.
 * Aristotle, *Nicomachean Ethics*, in J. Barnes (ed.), *The Complete Works of Aristotle*, Princeton: Princeton University Press.
 * Aristotle, *Politics*, in J. Barnes (ed.), *The Complete Works of Aristotle*, Princeton: Princeton University Press.
-* Arneson, Richard, 1989, “Equality and Equal Opportunity for Welfare,” *Philosophical Studies*, 56: 77–93; reprinted in L. Pojman & R. Westmoreland (eds.), 1997, *Equality. Selected Readings*, Oxford:Oxford University Press, pp. 229–241.
+* Arneson, Richard, 1989, “Equality and Equal Opportunity for Welfare,” *Philosophical Studies*, 56: 77–93; reprinted in L. Pojman & R. Westmoreland (eds.), 1997, *Equality. Selected Readings*, Oxford: Oxford University Press, pp. 229–241.
 * –––, 1990, “Liberalism, Distributive Subjectivism, and Equal Opportunity for Welfare,” *Philosophy and Public Affairs*, 19: 158–194.
-* –––, 1993, “Equality,” in R. Goodin & P. Pettit (eds.), *A Companion to Contemporary Political Philosophy*, Oxford:Blackwell, pp. 489–507.
+* –––, 1993, “Equality,” in R. Goodin & P. Pettit (eds.), *A Companion to Contemporary Political Philosophy*, Oxford: Blackwell, pp. 489–507.
 * Babeuf, Gracchus, 1796, “Manifeste des Égaux,” in *Histoire de G. Babeuf et du Babouvisme*, Paris 1884, Engl. trans. in L. Pojman & R. Westmoreland (eds.), 1997, *Equality. Selected Readings*, Oxford: Oxford University Press, pp. 49–52.
 * Baker, John, Kathleen Lynch, Sara Cantillon, Judy Walsh, 2004, *Equality. From Theory to Action*, Houndsmill/New York: Palgrave Macmillan.
 * Bedau, Hugo Adam, 1967, “Egalitarianism and the Idea of Equality,” in J. R. Pennock, J. Chapman (eds.), *Equality*, New York: Atherton, pp. 3–27.
@@ -268,7 +268,7 @@ Justice is primarily related to individual actions. Individual persons are the p
 * –––, 1797, *Metaphysik der Sitten*, in *Kants Gesammelte Schriften*, ed. by Preußischen Akademie der Wissenschaften, Berlin 1902ff., vol. VI.
 * Kateb, George, 2014, *Human Dignity*, Cambridge MA: Harvard University Press.
 * Kersting, Wolfgang, 2002, *Kritik der Gleichheit. Über die Grenzen der Gerechtigkeit und der Moral*, Weilerswist: Velbrück.
-* Kolodny, Nico, 2014, “Rule Over None II: Social Equality and the Justification of Democracy,” *Philosophy & Public Affairs*, 42 (4):287–336.
+* Kolodny, Nico, 2014, “Rule Over None II: Social Equality and the Justification of Democracy,” *Philosophy & Public Affairs*, 42 (4): 287–336.
 * Korsgaard, Christine, 1996, “Two Distinctions in Goodness,” in C. Korsgaard, *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press, pp. 249–253.
 * Kymlicka, Will, 1990, *Contemporary Political Philosophy*, Oxford: Clarendon Press.
 * Lakoff, Sandford A., 1964, *Equality in Political Philosophy*, Cambridge: Harvard University Press.

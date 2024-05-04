@@ -8,21 +8,21 @@
 
 ## 1. “无神论”的定义
 
-“无神论”一词具有多义性，它有多个相关的含义。在心理学意义上，无神论是一种心理状态，具体指的是无神论者的状态，其中无神论者被定义为不是有神论者的人，而有神论者被定义为相信上帝存在（或相信存在众神）的人。这导致了以下定义：无神论是缺乏相信上帝存在的心理状态。然而，在哲学中，更具体地说是在宗教哲学中，“无神论”一词通常用于指代上帝不存在的命题（或更广泛地说，指代没有神的命题）。因此，在这个定义下成为无神论者，仅仅对是否存在上帝保持中立是不够的，尽管这意味着缺乏有神论的信仰。相反，一个人必须否认上帝的存在。这种词的形而上学意义优于其他意义，包括心理学意义，不仅仅是有神论的哲学家，而且也是许多（尽管不是所有）哲学中的无神论者所偏好的。例如，罗宾·勒波迪文写道：“无神论者是指否认存在一个个人的、超越性的宇宙创造者的人，而不仅仅是一个在生活中不提及这样的存在的人”（1996 年：xvii）。J·L·谢林伯格说，在哲学中，“无神论者不仅仅是不接受有神论的人，而且更强烈地反对它。”换句话说，它是“否认有神论，声称没有上帝存在”（2019 年：5）。
+“无神论”一词具有多义性，它有多个相关的含义。在心理学意义上，无神论是一种心理状态，具体指的是无神论者的状态，其中无神论者被定义为不是有神论者的人，而有神论者被定义为相信上帝存在（或相信存在众神）的人。这导致了以下定义：无神论是缺乏相信上帝存在的心理状态。然而，在哲学中，更具体地说是在宗教哲学中，“无神论”一词通常用于指代上帝不存在的命题（或更广泛地说，指代没有神的命题）。因此，在这个定义下成为无神论者，仅仅对是否存在上帝保持中立是不够的，尽管这意味着缺乏有神论的信仰。相反，一个人必须否认上帝的存在。这种词的形而上学意义优于其他意义，包括心理学意义，不仅仅是有神论的哲学家，而且也是许多（尽管不是所有）哲学中的无神论者所偏好的。例如，罗宾 · 勒波迪文写道：“无神论者是指否认存在一个个人的、超越性的宇宙创造者的人，而不仅仅是一个在生活中不提及这样的存在的人”（1996 年：xvii）。J·L· 谢林伯格说，在哲学中，“无神论者不仅仅是不接受有神论的人，而且更强烈地反对它。”换句话说，它是“否认有神论，声称没有上帝存在”（2019 年：5）。
 
-这个定义也可以在多个哲学百科全书和词典中找到。例如，在《简明劳特里奇哲学百科全书》中，威廉·L·罗维（也是无神论者）写道：“无神论是肯定上帝不存在的立场。它提出了积极的不信仰而不仅仅是暂停信仰”（2000 年：62）。《剑桥哲学词典》承认“无神论”一词有多个意义，但在哲学中的标准意义是明确的：
+这个定义也可以在多个哲学百科全书和词典中找到。例如，在《简明劳特里奇哲学百科全书》中，威廉 ·L· 罗维（也是无神论者）写道：“无神论是肯定上帝不存在的立场。它提出了积极的不信仰而不仅仅是暂停信仰”（2000 年：62）。《剑桥哲学词典》承认“无神论”一词有多个意义，但在哲学中的标准意义是明确的：
 
-> [无神论是]认为没有神的观点。一个广泛使用的意义仅表示不相信神，并与不可知论[在心理学意义上]一致。一个更严格的意义表示相信没有神；这种用法已经成为标准。（波曼 2015，强调添加）
+> [无神论是] 认为没有神的观点。一个广泛使用的意义仅表示不相信神，并与不可知论 [在心理学意义上] 一致。一个更严格的意义表示相信没有神；这种用法已经成为标准。（波曼 2015，强调添加）
 
 有趣的是，《哲学百科全书》建议略微扩大“无神论者”的标准定义。它仍然要求拒绝对上帝的信仰，而不仅仅是缺乏这种信仰，但拒绝的基础不一定是神论是错误的。例如，它可能是因为它是无意义的。
 
 > 根据最常见的定义，无神论者是指坚持认为没有上帝存在的人，也就是说，“上帝存在”这个命题是错误的。相反，不可知论者（在认识论意义上）认为无法知道或者无法知晓是否有上帝存在，也就是说，“上帝存在”这个命题是真的。根据我们的定义，无神论者是指无论拒绝上帝信仰的原因是否是“上帝存在”这个命题是错误的，都拒绝相信上帝的人。人们经常因为其他原因而对某个立场持拒绝态度，而不仅仅是因为它是一个错误的命题。在当代哲学家中，这种态度很常见，而且在早些世纪也并不罕见，他们拒绝某些立场是因为它们是无意义的。（爱德华兹 2006：358）
 
-至少直到最近，对“无神论”这个词的标准形而上学理解在哲学中根深蒂固，以至于哲学家们可以安全地在这个意义上使用“无神论”一词，而不必担心会被误解，也不感到有任何需要为此辩护的必要。例如，在他的书《关于上帝的争论》中，另一位无神论者格雷厄姆·奥皮（Graham Oppy）反复将“不可知论者”（指在心理上对上帝的存在保持中立）和“无神论者”视为互相排斥的范畴（2006 年，1、15 和 34），而没有提供任何理由来支持这样做。他未能提供理由的唯一合理解释是，他期望读者将术语“无神论”理解为其形而上学意义上的含义，从而将在是否相信神存在方面持中立态度的人排除在无神论者的范畴之外。标准定义在哲学领域内占主导地位的另一个迹象是频繁使用术语“非神论者”来指代更广泛的缺乏上帝存在信仰的人群。
+至少直到最近，对“无神论”这个词的标准形而上学理解在哲学中根深蒂固，以至于哲学家们可以安全地在这个意义上使用“无神论”一词，而不必担心会被误解，也不感到有任何需要为此辩护的必要。例如，在他的书《关于上帝的争论》中，另一位无神论者格雷厄姆 · 奥皮（Graham Oppy）反复将“不可知论者”（指在心理上对上帝的存在保持中立）和“无神论者”视为互相排斥的范畴（2006 年，1、15 和 34），而没有提供任何理由来支持这样做。他未能提供理由的唯一合理解释是，他期望读者将术语“无神论”理解为其形而上学意义上的含义，从而将在是否相信神存在方面持中立态度的人排除在无神论者的范畴之外。标准定义在哲学领域内占主导地位的另一个迹象是频繁使用术语“非神论者”来指代更广泛的缺乏上帝存在信仰的人群。
 
-当然，“无神论”在哲学中被标准地定义为上帝不存在的命题，并不意味着它必须被定义为这样。标准定义也并非没有哲学上的反对者。例如，一些作者至少含蓄地将无神论与自然主义甚至唯物主义等积极的形而上学理论等同起来。在这种意义上，"无神论"的含义并不能直接从"有神论"的含义中推导出来。虽然这在词源上可能看起来很奇怪，但也许可以提出这样的观点：某种（形而上学的）自然主义之所以最初被称为"无神论"，只是因为非自然主义形式的有神论在文化上占主导地位，而不是因为被标记的观点仅仅是对有神论的否定。根据这种观点，即使没有有神论者存在，仍然会有无神论者——只是他们不会被称为"无神论者"。Baggini [2003, 3–10] 提出了这种思路，尽管他的"官方"定义是标准的形而上学定义。虽然"无神论"的这种定义是合法的，但它常常伴随着从无神论（=自然主义）的（被声称的）错误或可能的错误推导出有神论的真实性或可能的真实性的谬误推理。
+当然，“无神论”在哲学中被标准地定义为上帝不存在的命题，并不意味着它必须被定义为这样。标准定义也并非没有哲学上的反对者。例如，一些作者至少含蓄地将无神论与自然主义甚至唯物主义等积极的形而上学理论等同起来。在这种意义上，"无神论" 的含义并不能直接从 "有神论" 的含义中推导出来。虽然这在词源上可能看起来很奇怪，但也许可以提出这样的观点：某种（形而上学的）自然主义之所以最初被称为 "无神论"，只是因为非自然主义形式的有神论在文化上占主导地位，而不是因为被标记的观点仅仅是对有神论的否定。根据这种观点，即使没有有神论者存在，仍然会有无神论者——只是他们不会被称为 "无神论者"。Baggini [2003, 3–10] 提出了这种思路，尽管他的 "官方" 定义是标准的形而上学定义。虽然 "无神论" 的这种定义是合法的，但它常常伴随着从无神论（= 自然主义）的（被声称的）错误或可能的错误推导出有神论的真实性或可能的真实性的谬误推理。
 
-更激进地背离哲学的规范，一些哲学家（例如，迈克尔·马丁 1990 年：463-464）与许多非哲学家一起，将“无神论者”定义为缺乏对上帝存在的信念的人。这使他们承认采用了上述“无神论”的心理意义，根据这个意义，“无神论”根本不应被定义为一个命题，即使有神论是一个命题。相反，根据这些哲学家的观点，“无神论”应该被定义为一种心理状态：不相信上帝（或众神）存在的状态。这个观点由哲学家安东尼·弗鲁提出，并且可以说在他（1972 年）对所谓的“无神论”假设的辩护中起到了一定的作用。《牛津无神论手册》（Bullivant＆Ruse 2013）的编辑们也赞同这个定义，其中一位编辑，斯蒂芬·布利文特（2013 年），以学术实用性为理由进行了辩护。他的论点是，这个定义可以最好地作为一个广泛的术语，用于区分与无神论相关的各种立场。学者们可以使用“强有力”和“弱有力”（或“积极”和“消极”）等形容词来发展一个将不同的具体无神论区分开的分类法。不幸的是，这个论点忽视了一个事实，即如果将无神论定义为一种心理状态，那么没有命题可以被视为无神论的形式，因为命题不是一种心理状态。这削弱了布利文特对弗鲁定义的辩护的论点；因为它意味着他所谓的“强有力无神论”——即没有上帝的命题（或“所相信的东西”）——实际上根本不是无神论的一种形式。简而言之，他提出的“大伞”术语将所谓的强有力无神论（或一些人所称的积极无神论）置于雨中。
+更激进地背离哲学的规范，一些哲学家（例如，迈克尔 · 马丁 1990 年：463-464）与许多非哲学家一起，将“无神论者”定义为缺乏对上帝存在的信念的人。这使他们承认采用了上述“无神论”的心理意义，根据这个意义，“无神论”根本不应被定义为一个命题，即使有神论是一个命题。相反，根据这些哲学家的观点，“无神论”应该被定义为一种心理状态：不相信上帝（或众神）存在的状态。这个观点由哲学家安东尼 · 弗鲁提出，并且可以说在他（1972 年）对所谓的“无神论”假设的辩护中起到了一定的作用。《牛津无神论手册》（Bullivant＆Ruse 2013）的编辑们也赞同这个定义，其中一位编辑，斯蒂芬 · 布利文特（2013 年），以学术实用性为理由进行了辩护。他的论点是，这个定义可以最好地作为一个广泛的术语，用于区分与无神论相关的各种立场。学者们可以使用“强有力”和“弱有力”（或“积极”和“消极”）等形容词来发展一个将不同的具体无神论区分开的分类法。不幸的是，这个论点忽视了一个事实，即如果将无神论定义为一种心理状态，那么没有命题可以被视为无神论的形式，因为命题不是一种心理状态。这削弱了布利文特对弗鲁定义的辩护的论点；因为它意味着他所谓的“强有力无神论”——即没有上帝的命题（或“所相信的东西”）——实际上根本不是无神论的一种形式。简而言之，他提出的“大伞”术语将所谓的强有力无神论（或一些人所称的积极无神论）置于雨中。
 
 虽然弗卢对“无神论”的定义作为一个总称是失败的，但从某种意义上说，它确实是一个合理的定义，因为它反映了很多人对这个术语的使用。再次强调，“无神论”这个术语有不止一个合理的含义，本文中所说的并不意味着试图规定人们如何标记自己或给这些标签赋予什么含义。对于哲学和本文来说，问题是哪个定义对学术或更狭义地说，对哲学目的最有用。当然，在其他情境下，如何最好地定义“无神论”或“无神论者”的问题可能会有很大不同。例如，在某些情境下，关键问题可能是在政治上哪个定义的“无神论者”（与“无神论”相对）最有用，特别是考虑到自称为无神论者的人所面临的偏见。事实上，人多势众可能会推荐一个非常包容的“无神论者”的定义，将任何不信仰神的人纳入其中。话虽如此，人们应该认为，出于政治或其他原因，攻击那些不以“无神论者”自居，只是因为他们选择以其他同样合理的方式使用“无神论者”这个术语的非有神论者，并不会有任何好处。
 
@@ -36,13 +36,13 @@
 
 如果像在这里所争论的那样，无神论在哲学上通常和最好地被理解为上帝不存在的形而上学主张，那么人们可能会想，哲学家们应该如何处理流行术语“新无神论”？哲学家们写文章，并且专门为“新无神论”（French＆Wettstein 2013）献上期刊专题，但对于该术语的定义并没有接近共识。幸运的是，实际上并不需要一个真正的定义，因为术语“新无神论”并没有指代某种独特的哲学立场或现象。相反，它是一个流行的标签，用来代表由四位作者（Richard Dawkins，Daniel Dennett，Sam Harris 和 Christopher Hitchens）显著代表的运动，他们的作品统一批评宗教，但除此之外似乎只有时间和流行性的统一。此外，人们可能会质疑新无神论有什么新意。对宗教及其辩护论据的具体批评并不新鲜。例如，可以在休谟的《对话》（Wielenberg 2009）中找到一个更复杂且更有说服力的版本，这是 Dawkins 的中心无神论论证。此外，虽然 Dennett（2006）热情呼吁将宗教作为自然现象进行科学研究，但这种研究早在此呼吁之前就已存在。事实上，甚至宗教的认知科学在 20 世纪 90 年代就已经确立，宗教人类学至少可以追溯到 19 世纪。从内容转向风格，许多人对一些新无神论者的好战性感到惊讶，但在 Harris，Dawkins 和 Hitchens 之前，已经有很多好战的无神论者对宗教非常不尊重。（Dennett 并不特别好战。）最后，关于新无神论是宗教的、准宗教的或以某种前所未有的方式意识形态化的刻板印象显然是错误的，也是新无神论者所拒绝的。（有关这些观点的详细阐述，请参见 Zenk 2013。）
 
-无神论的另一个子类是“友善的无神论”，威廉·罗（1979）将其定义为这样一种立场：虽然上帝不存在，但一些（智力高超的）人有理由相信上帝的存在。罗自己是一个友善的无神论者，他将友善的无神论与不友善的无神论和漠不关心的无神论进行对比。不友善的无神论认为无神论是正确的，没有（高超的）神论信仰是有理由的。尽管它的名字非常误导，但这种观点可能是由最友善、最开明和宗教宽容的人持有的。最后，虽然罗将“漠不关心的无神论”称为一种“立场”，但它不是一个命题，而是一种心理状态，具体而言，它是一种既不友善也不不友善的无神论者的状态——即既不相信友善的无神论是正确的，也不相信不友善的无神论是正确的。
+无神论的另一个子类是“友善的无神论”，威廉 · 罗（1979）将其定义为这样一种立场：虽然上帝不存在，但一些（智力高超的）人有理由相信上帝的存在。罗自己是一个友善的无神论者，他将友善的无神论与不友善的无神论和漠不关心的无神论进行对比。不友善的无神论认为无神论是正确的，没有（高超的）神论信仰是有理由的。尽管它的名字非常误导，但这种观点可能是由最友善、最开明和宗教宽容的人持有的。最后，虽然罗将“漠不关心的无神论”称为一种“立场”，但它不是一个命题，而是一种心理状态，具体而言，它是一种既不友善也不不友善的无神论者的状态——即既不相信友善的无神论是正确的，也不相信不友善的无神论是正确的。
 
-或许更有趣的区别是亲上帝无神论和反上帝无神论之间的区别。像约翰·谢林伯格（在未发表的作品中创造了这个术语）这样的亲上帝无神论者是指在某种实际意义上热爱上帝或至少热爱上帝的概念的人，他们非常努力地想象这样一个存在可能创造出怎样美妙世界的存在（而不仅仅是假设这样一个存在会创造出一个类似我们观察到的世界的世界），并且正因为这个原因（至少部分地）相信上帝不存在。这样的无神论者可能对以下观点表示同情：
+或许更有趣的区别是亲上帝无神论和反上帝无神论之间的区别。像约翰 · 谢林伯格（在未发表的作品中创造了这个术语）这样的亲上帝无神论者是指在某种实际意义上热爱上帝或至少热爱上帝的概念的人，他们非常努力地想象这样一个存在可能创造出怎样美妙世界的存在（而不仅仅是假设这样一个存在会创造出一个类似我们观察到的世界的世界），并且正因为这个原因（至少部分地）相信上帝不存在。这样的无神论者可能对以下观点表示同情：
 
 > 相信上帝是对上帝的侮辱。一方面，这意味着他犯下了难以计算的残忍行为。另一方面，这意味着他故意给予他的人类创造物一个必然会导致他们否认他的存在的工具——他们的智力。诱人的结论是，如果他存在，那么在那些有教育背景的人中，无神论者和不可知论者是他最喜欢的人。因为他们是那些最认真对待他的人。（斯特劳森 1990）
 
-相反，像托马斯·纳格尔（1997：130-131）这样的反上帝的无神论者认为上帝的整个概念是冒犯的，因此不仅相信，而且非常希望没有这样的存在。纳格尔经常被称为“反神论者”（例如，卡哈尼 2011），但在这里故意避免使用这个术语，因为它有许多不同的意义（卡哈尼 2011：注 9）。此外，在这些意义中，一个人不需要成为无神论者才能成为反神论者，所以反神论不是无神论的一种形式。
+相反，像托马斯 · 纳格尔（1997：130-131）这样的反上帝的无神论者认为上帝的整个概念是冒犯的，因此不仅相信，而且非常希望没有这样的存在。纳格尔经常被称为“反神论者”（例如，卡哈尼 2011），但在这里故意避免使用这个术语，因为它有许多不同的意义（卡哈尼 2011：注 9）。此外，在这些意义中，一个人不需要成为无神论者才能成为反神论者，所以反神论不是无神论的一种形式。
 
 ## 2. “不可知论”的定义
 
@@ -62,7 +62,7 @@ He did not, however, define “agnosticism” simply as the state of being an ag
 
 值得一提的是，即使在赫胥黎的时代，一些否定神论的神论者也接受了“不可知论”这个术语，并声称所有好的基督徒崇拜的是一个“未知的上帝”。最近，一些无神论者自豪地称自己为“不可知论的无神论者”，尽管进一步思考后，这种立场与信仰论之间的对称性可能会使他们停下来。然而，这些自称为不可知论的无神论者所声称的是，虽然他们对上帝不存在的信念具有某种形式的积极认识论地位（至少不是非理性的），但它并没有将真实的信念转化为知识的那种积极认识论地位。
 
-毫无疑问，“不可知论”这个词在心理学和认识论两个意义上都将继续在哲学内外使用。希望通过上下文可以帮助消除歧义。然而，在本条目的其余部分，术语“不可知论”将以其认识论意义使用。这对于正当化问题有很大的影响。例如，考虑一下这段由不可知论者安东尼·肯尼（1983 年：84-85）写的文章：
+毫无疑问，“不可知论”这个词在心理学和认识论两个意义上都将继续在哲学内外使用。希望通过上下文可以帮助消除歧义。然而，在本条目的其余部分，术语“不可知论”将以其认识论意义使用。这对于正当化问题有很大的影响。例如，考虑一下这段由不可知论者安东尼 · 肯尼（1983 年：84-85）写的文章：
 
 > 我自己并不知道任何我认为令人信服的关于上帝存在的论证；在所有这些论证中，我都能找到缺陷。同样，我也不知道任何完全令人信服的反对上帝存在的论证；在我所知道的反对上帝存在的论证中，我同样能找到缺陷。所以，我对上帝存在的立场是不可知论。
 
@@ -92,9 +92,9 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 
 注意，在这种“全球无神论”的观点中，无神论者只否认那些值得崇拜的存在。因此，即使是全球无神论者也不一定否认某人称之为神或“上帝”的一切存在。例如，即使古埃及人崇拜太阳并认为它值得这样的崇拜，全球无神论者也不需要否认太阳的存在。相反，全球无神论者可以声称古埃及人错误地认为太阳值得宗教崇拜。
 
-同样地，考虑大卫·休谟《宗教自然史》第十一节开头的这段文字：
+同样地，考虑大卫 · 休谟《宗教自然史》第十一节开头的这段文字：
 
-> 如果我们不带偏见地审视古代异教神话，如同诗人所叙述的那样，我们将不会发现其中有任何我们一开始可能会担心的荒谬之处。在我们所能想象的这个可见世界、人类和动物的形成者，也同样创造了一种比其他物种更精致、更有权威的智慧生物。这些生物可能是反复无常、报复心强、充满激情、纵欲无度的，这是很容易想象的；而在我们自己之间，没有什么比绝对权威的自由更容易滋生这样的恶习了。总之，整个神话体系是如此自然，以至于在这个宇宙中包含的各种行星和世界中，它似乎更有可能在某个地方真正得到实施。（休谟[1757] 1956: 53，强调添加）
+> 如果我们不带偏见地审视古代异教神话，如同诗人所叙述的那样，我们将不会发现其中有任何我们一开始可能会担心的荒谬之处。在我们所能想象的这个可见世界、人类和动物的形成者，也同样创造了一种比其他物种更精致、更有权威的智慧生物。这些生物可能是反复无常、报复心强、充满激情、纵欲无度的，这是很容易想象的；而在我们自己之间，没有什么比绝对权威的自由更容易滋生这样的恶习了。总之，整个神话体系是如此自然，以至于在这个宇宙中包含的各种行星和世界中，它似乎更有可能在某个地方真正得到实施。（休谟 [1757] 1956: 53，强调添加）
 
 人们对于休谟是无神论者、有神论者还是两者都不是存在很大争议，但没有人使用这段文字来支持他实际上是多神论者的观点。也许这是因为，即使存在着自然的外星生物，就像古希腊和古罗马的众神一样，在力量上远远超过人类，但在道德和其他心理品质上却非常相似，至少现在没有人会被诱惑将它们视为值得崇拜的对象。
 
@@ -102,7 +102,7 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 
 ## 4. 不可知论的论证
 
-根据一种相对温和的不可知论观点，既不知道多才多艺的有神论，也不知道它的否定，即全球无神论，是真实的。罗宾·勒波德文（2010 年：76）以以下方式为这个立场辩护：
+根据一种相对温和的不可知论观点，既不知道多才多艺的有神论，也不知道它的否定，即全球无神论，是真实的。罗宾 · 勒波德文（2010 年：76）以以下方式为这个立场辩护：
 
 * (1)没有坚实的基础来判断有神论或无神论比另一种更有可能。
 * (2)没有坚实的基础来判断总体证据支持有神论或无神论胜过另一种。
@@ -127,7 +127,7 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 
 ## 5. 全球无神论的论证？
 
-几乎所有众所周知的无神论论证都是针对特定版本的局部无神论的论证。这个规则的一个可能例外是一种最近由一些新无神论者广为流传的论证，尽管它并不是他们发明的。加里·古廷（2013）将这个论证称为无神论的“无论证论证”：
+几乎所有众所周知的无神论论证都是针对特定版本的局部无神论的论证。这个规则的一个可能例外是一种最近由一些新无神论者广为流传的论证，尽管它并不是他们发明的。加里 · 古廷（2013）将这个论证称为无神论的“无论证论证”：
 
 * （1）没有充分的理由相信上帝的存在本身就是相信上帝不存在的一个充分理由。
 * （2）没有充分的理由相信上帝的存在。
@@ -164,7 +164,7 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 
 低先验论证背后的基本思想是，即使不可知论者正确地认为，在上帝的存在问题上，证据模糊或根本不存在，但并不意味着从总体上来看，有神论的概率是中等的，而是意味着有神论很可能是错误的。据说这是因为在考虑任何证据之前，有神论的先验概率非常低。（在这个背景下，“证据”指的是与假设有关的外在因素，可以提高或降低其概率。）由于模糊或不存在的证据对先验或内在概率没有影响，有神论的后验或总体概率也非常低。然而，如果有神论很可能是错误的，那么无神论很可能是正确的，这意味着（根据论证的辩护者）无神论的信仰是合理的。（这最后一个所谓的推论在第 7 节中进行了讨论。）
 
-这种论证与无神论和有神论哪个是适当的“默认”立场的问题非常相关。如果有神论的内在概率足够低，那么无神论可以说是正确的默认立场，因为模糊或缺失的证据将证明，我们不是在对上帝的存在问题保持中立，而是相信上帝不存在。这就是为什么勒普瓦丹的不可知论论证包括一个断言相关证据模糊的前提，以及一个断言至少在多才多艺的有神论的情况下，我们对有神论和无神论哪个具有更高的内在概率的问题一无所知的前提。不幸的是，关于哪个立场是正确的“默认立场”或者谁有“举证责任”的讨论往往被对圣诞老人、飞行意面怪物和伯特兰·罗素（[1952] 1997）著名的绕太阳椭圆轨道运行的中国茶壶的错误类比所牵扯（参见加维 2010 年和范·因瓦根 2012 年对其中一些类比的批评）。低先验概率论证以一种更复杂和有前景的方式隐含地解决了这个重要问题。
+这种论证与无神论和有神论哪个是适当的“默认”立场的问题非常相关。如果有神论的内在概率足够低，那么无神论可以说是正确的默认立场，因为模糊或缺失的证据将证明，我们不是在对上帝的存在问题保持中立，而是相信上帝不存在。这就是为什么勒普瓦丹的不可知论论证包括一个断言相关证据模糊的前提，以及一个断言至少在多才多艺的有神论的情况下，我们对有神论和无神论哪个具有更高的内在概率的问题一无所知的前提。不幸的是，关于哪个立场是正确的“默认立场”或者谁有“举证责任”的讨论往往被对圣诞老人、飞行意面怪物和伯特兰 · 罗素（[1952] 1997）著名的绕太阳椭圆轨道运行的中国茶壶的错误类比所牵扯（参见加维 2010 年和范 · 因瓦根 2012 年对其中一些类比的批评）。低先验概率论证以一种更复杂和有前景的方式隐含地解决了这个重要问题。
 
 在下面阐述的低先验论证版本中，通过将全能论与其否定相比较，而不仅仅是与一种更具体的无神论假设“源物理主义”相比较，改进了上述基本方法。与本体论物理主义不同，源物理主义是关于心理实体的来源的主张，而不是关于它们的本质的主张。无论他们是本体论物理主义者还是本体论二元论者，源物理主义者都相信物质世界在心理世界之前存在，并导致心理世界的出现，这意味着所有心理实体在因果上依赖于物质实体。此外，即使他们是本体论二元论者，源物理主义者也不必声称心理实体从不引起物质实体或其他心理实体，但他们必须声称如果没有一个或多个物质实体的先前存在（和因果能力），就不会有心理实体。论证如下：
 
@@ -229,7 +229,7 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 
 这个论证的步骤（4）-（6）与低先验论证的步骤（3）-（5）相同，只是低先验论证的第（3）步中的“源物理主义”被决定性证据论证的第（4）步中的“审美有神论”所取代。就从第（4）步到第（5）步的推理而言，这没有任何影响。这个推理，就像从第（1）步到第（4）步和从第（5）步到第（6）步的推理一样，显然是正确的。关键问题是，前提（1）、（2）和（3）是否都是真实的。
 
-尽管全能神论和美学有神论几乎完全重叠，但理查德·斯温伯恩（2004 年：96-109）对前提（1）提出质疑，理由是美学有神论必须假设一个坏的欲望来解释为什么神不做道德上最好的事情。根据斯温伯恩的观点，全能神论不需要这样做，因为道德上最好的事情就是整体上最好的事情，因此只要全知的存在没有除了根据任何特定情况下最佳行动的知识之外的其他欲望，它就必然会做道德上最好的事情。然而，这个挑战依赖于一个非常有问题的动机智力主义：它只有在仅仅相信一种行动是好的就意味着有做这种行动的欲望时才能成功。在大多数动机理论中，智力和欲望之间存在逻辑上的差距。如果存在这样的差距，那么全能神论在本质上似乎与美学有神论一样可能性不大。
+尽管全能神论和美学有神论几乎完全重叠，但理查德 · 斯温伯恩（2004 年：96-109）对前提（1）提出质疑，理由是美学有神论必须假设一个坏的欲望来解释为什么神不做道德上最好的事情。根据斯温伯恩的观点，全能神论不需要这样做，因为道德上最好的事情就是整体上最好的事情，因此只要全知的存在没有除了根据任何特定情况下最佳行动的知识之外的其他欲望，它就必然会做道德上最好的事情。然而，这个挑战依赖于一个非常有问题的动机智力主义：它只有在仅仅相信一种行动是好的就意味着有做这种行动的欲望时才能成功。在大多数动机理论中，智力和欲望之间存在逻辑上的差距。如果存在这样的差距，那么全能神论在本质上似乎与美学有神论一样可能性不大。
 
 很难想出对前提（2）的合理质疑，因为至少就通常被认为支持有神论而不是自然主义等竞争假设的证据而言，美学有神论至少与全能有神论一样能解释这些证据。例如，一个对好故事情有兴趣的神明会希望有一个既复杂又有秩序的世界，其中包含美丽、意识、智慧和道德行为体。也许在全能有神论上，我们更有理由期望自由意志的存在；但除非我们从全能有神论的真实性出发，似乎没有太多理由相信我们拥有这样的自由。即使我们认真对待内省或其他非神学证据支持自由意志的存在，构建一个关于美学有神论的“解释”也并不困难：要么解释为美学有神论能解释自由意志的存在以及为什么有明显但最终是误导性的证据支持其存在；例如，如果开放神论者正确，即连全知的存在也无法确定未来（自由）选择将会是什么，那么美学有神论可以通过声称一个带有真正惊喜的故事比一个完全可预测的故事更好来解释自由意志和其他形式的不确定性。或者，对于故事来说重要的只是角色们认为他们拥有自由意志，而不是他们真正拥有自由意志。
 
@@ -286,44 +286,44 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 ## Bibliography
 
 * Baggini, Julian, 2003, *Atheism: A Very Short Introduction*, Oxford: Oxford University Press.
-* Bishop, John C., 2008, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, *Philosophia*, 35(3–4): 387–402. doi:10.1007/s11406-007-9071-y
-* Buckareff, Andrei A. and Yujin Nagasawa (eds.), 2016, *Alternative Concepts of God: Essays on the Metaphysics of the Divine*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
+* Bishop, John C., 2008, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, *Philosophia*, 35(3–4): 387–402. doi: 10.1007/s11406-007-9071-y
+* Buckareff, Andrei A. and Yujin Nagasawa (eds.), 2016, *Alternative Concepts of God: Essays on the Metaphysics of the Divine*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198722250.001.0001
 * Bullivant, Stephen, 2013, “Defining ‘Atheism’”, in Bullivant and Ruse 2013: 11–21.
-* Bullivant, Stephen and Michael Ruse (eds.), 2013, *The Oxford Handbook of Atheism*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199644650.001.0001
+* Bullivant, Stephen and Michael Ruse (eds.), 2013, *The Oxford Handbook of Atheism*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199644650.001.0001
 * Darwin, Charles, 1859, *On the Origin of Species by Means of Natural Selection*, London: John Murray. [[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=side&pageseq=1)]
 * Dennett, Daniel C., 2006, *Breaking the Spell: Religion as a Natural Phenomenon*, New York: Viking Penguin.
-* Diller, Jeanine, 2016, “Global and Local Atheisms”, *International Journal for Philosophy of Religion*, 79(1): 7–18. doi:10.1007/s11153-015-9550-1
+* Diller, Jeanine, 2016, “Global and Local Atheisms”, *International Journal for Philosophy of Religion*, 79(1): 7–18. doi: 10.1007/s11153-015-9550-1
 * Diller, Jeanine and Asa Kasher, 2013, *Models of God and Alternative Ultimate Realities*, Dordrecht: Springer.
 * Draper, Paul, 2002, “Seeking but Not Believing: Confessions of a Practicing Agnostic”, in Daniel Howard-Snyder and Paul Moser (eds.), *Divine Hiddenness: New Essays*, Cambridge: Cambridge University Press, pp. 197–214.
 * –––, 2016, “Where Skeptical Theism Fails, Skeptical Atheism Prevails”, in *Oxford Studies in Philosophy of Religion*, volume 7, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 63–80.
 * Edwards, Paul, 2006, “Atheism”, in Donald M. Borchert (ed.), *Encyclopedia of Philosophy* (2nd edition, Volume 1), Detroit, MI: Macmillan Reference USA, pp. 356–377.
-* Ellis, Fiona, 2014, *God, Value, and Nature*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714125.001.0001
-* Flew, Antony, 1972, “The Presumption of Atheism”, *Canadian Journal of Philosophy*, 2(1): 29–46. doi:10.1080/00455091.1972.10716861
+* Ellis, Fiona, 2014, *God, Value, and Nature*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198714125.001.0001
+* Flew, Antony, 1972, “The Presumption of Atheism”, *Canadian Journal of Philosophy*, 2(1): 29–46. doi: 10.1080/00455091.1972.10716861
 * Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief”, *American Philosophical Quarterly*, 29(2): 111–121.
 * French, Peter A. and Howard K. Wettstein (eds.), 2013, “Special Issue: The New Atheism and Its Critics”, *Midwest Studies in Philosophy*, 37(1).
 * Garvey, Brian, 2010, “Absence of Evidence, Evidence of Absence, and the Atheist’s Teapot”, *Ars Disputandi*, 10: 9–22.
-* Gutting, Gary, 2013, “Religious Agnosticism”, *Midwest Studies in Philosophy*, 37(1): 51–67. doi:10.1111/misp.12002
+* Gutting, Gary, 2013, “Religious Agnosticism”, *Midwest Studies in Philosophy*, 37(1): 51–67. doi: 10.1111/misp.12002
 * Hume, David, [1757] 1956, *The Natural History of Religion*, H.E. Root (ed.), Stanford, CA: Stanford University Press, originally published in 1757. [[Hume 1757 available online (1889 edition)](http://oll.libertyfund.org/titles/hume-the-natural-history-of-religion)]
 * –––, [1779] 2007, *Dialogues Concerning Natural Religion*, Dorothy Coleman (ed.), Cambridge: Cambridge University Press. [References are to the part and paragraph number.]
 * Huxley, Thomas Henry, 1884, “Agnosticism: A Symposium”, *The Agnostic Annual*, Charles Watts (ed.), pp. 5–6. [[Huxley 1884 available online](http://aleph0.clarku.edu/huxley/UnColl/Rdetc/AgnAnn.html)]
 * –––, 1889, “Agnosticism and Christianity”, reprinted in his *Collected Essays, Volume 5: Science and the Christian Tradition*, Cambridge: Cambridge University Press, 1894, pp. 309–365. [[Huxley [1889] 1894 available online](http://aleph0.clarku.edu/huxley/CE5/Agn-X.html)]
-* Kahane, Guy, 2011, “Should We Want God to Exist?” *Philosophy and Phenomenological Research* 82(3): 674–696. doi:10.1111/j.1933-1592.2010.00426.x
+* Kahane, Guy, 2011, “Should We Want God to Exist?” *Philosophy and Phenomenological Research* 82(3): 674–696. doi: 10.1111/j.1933-1592.2010.00426.x
 * Kenny, Anthony, 1983, *Faith and Reason*, (Bampton lectures in America, no. 22), New York: Columbia University Press.
 * Le Poidevin, Robin, 1996, *Arguing for Atheism: An Introduction to the Philosophy of Religion*, London and New York: Routledge.
-* –––, 2010, *Agnosticism: A Very Short Introduction*, Oxford: Oxford University Press. doi:10.1093/actrade/9780199575268.001.0001
+* –––, 2010, *Agnosticism: A Very Short Introduction*, Oxford: Oxford University Press. doi: 10.1093/actrade/9780199575268.001.0001
 * Leftow, Brian, 2016, “Naturalistic Pantheism”, in Buckareff and Nagasawa 2016: 64–87.
 * Martin, Michael, 1990, *Atheism: A Philosophical Justification*, Philadelphia, PA: Temple University Press.
-* McLaughlin, Robert, 1984, “Necessary agnosticism?” *Analysis* 44(4): 198–202. doi:10.1093/analys/44.4.198
-* Morris, Thomas V., 1985, “Agnosticism”, *Analysis* 45(4): 219–224. doi:10.1093/analys/45.4.219
+* McLaughlin, Robert, 1984, “Necessary agnosticism?” *Analysis* 44(4): 198–202. doi: 10.1093/analys/44.4.198
+* Morris, Thomas V., 1985, “Agnosticism”, *Analysis* 45(4): 219–224. doi: 10.1093/analys/45.4.219
 * Morriston, Wes, 2017, “Protest and Enlightenment in the Book of Job”, in Paul Draper and J.L. Schellenberg (eds.), *Renewing Philosophy of Religion: Exploratory Essays*, Oxford: Oxford University Press, pp. 223–242.
-* Mulgan, Tim, 2015, *Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199646142.001.0001
+* Mulgan, Tim, 2015, *Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199646142.001.0001
 * Murphy, Mark C., 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*, Oxford: Oxford University Press.
-* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, *Philosophical Quarterly*, 58(233): 577–596. doi:10.1111/j.1467-9213.2008.578.x
-* Nagel, Thomas, 1997, *The Last Word*, Oxford: Oxford University Press. doi:10.1093/0195149831.001.0001
-* Oppy, Graham, 1994, “Weak Agnosticism Defended”, *International Journal for Philosophy of Religion,* 36(3): 147–67. doi:10.1007/BF01316921
+* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, *Philosophical Quarterly*, 58(233): 577–596. doi: 10.1111/j.1467-9213.2008.578.x
+* Nagel, Thomas, 1997, *The Last Word*, Oxford: Oxford University Press. doi: 10.1093/0195149831.001.0001
+* Oppy, Graham, 1994, “Weak Agnosticism Defended”, *International Journal for Philosophy of Religion,* 36(3): 147–67. doi: 10.1007/BF01316921
 * –––, 2006, *Arguing About Gods*, Cambridge: Cambridge University Press.
 * Pike, Nelson, 1970, *God and Timelessness*, New York: Schocken Books.
-* Plantinga, Alvin, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
+* Plantinga, Alvin, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi: 10.1093/0195131932.001.0001
 * Pojman, Louis P., 2015, “Atheism”, in Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*, Cambridge: Cambridge University Press.
 * Rowe, William L., 1979, “The Problem of Evil and Some Varieties of Atheism”, *American Philosophical Quarterly*, 16(4): 335–341.
 * –––, 2000, “Atheism”, in Edward Craig (ed.), *Concise Routledge Encyclopedia of Philosophy*, London and New York: Routledge, pp. 62–63.
@@ -331,9 +331,9 @@ Jeanine Diller（2016）指出，正如大多数有神论者在断言上帝存�
 * Schellenberg, J.L., 2007, *The Wisdom to Doubt: A Justification of Religious Skepticism*, Ithaca and London: Cornell University Press.
 * –––, 2019, *Progressive Atheism: How Moral Evolution Changes the God Debate*, London: Bloomsbury.
 * Strawson, Galen, 1990, “Review of *Created from Animals*, by James Rachels”, *The Independent*, London, June 24.
-* Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199277421.001.0001
-* Swinburne, Richard, 2001, *Epistemic Justification*, Oxford: Clarendon Press. doi:10.1093/0199243794.001.0001
-* –––, 2004, *The Existence of God*, second edition, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271672.001.0001
+* Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199277421.001.0001
+* Swinburne, Richard, 2001, *Epistemic Justification*, Oxford: Clarendon Press. doi: 10.1093/0199243794.001.0001
+* –––, 2004, *The Existence of God*, second edition, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199271672.001.0001
 * van Inwagen, Peter, 2012, “Russell’s China Teapot”, in Dariusz Lukasiewicz and Roger Pouivet (eds.), *The Right to Believe: Perspectives in Religious Epistemology*, Heusenstamm: Ontos Verlag, pp. 11–26.
 * Wielenberg, Erik J., 2009, “Dawkins’ Gambit, Hume’s Aroma, and God’s Simplicity”, *Philosophia Christi*, 11(1): 111–125.
 * Zenk, Thomas, 2013, “New Atheism”, in Bullivant and Ruse 2013: 245–260.

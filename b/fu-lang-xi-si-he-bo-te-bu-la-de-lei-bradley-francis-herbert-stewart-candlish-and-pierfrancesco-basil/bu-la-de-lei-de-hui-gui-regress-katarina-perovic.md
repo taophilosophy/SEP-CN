@@ -2,9 +2,9 @@
 
 *首次发表于 2017 年 11 月 1 日星期三*
 
-“布拉德雷倒退”是一个涉及属性和关系的本体论辩论的总称。最初的论证由英国唯心主义哲学家弗朗西斯·赫伯特·布拉德雷提出，在他的著作《表象与实在》（1893 年）中，他概述了三个不同的倒退论证，反对属性的关系统一性。布拉德雷认为，一个特定的事物（一块糖）仅仅是一束质量（白色、甜味和硬度）通过某种关系统一成一个有机整体。但是，对于布拉德雷来说，关系是非常棘手的。如果将其看作与其相关物“独立”的，它们本身需要进一步的关系来将它们与原始相关物联系起来，如此循环无穷。如果将其看作是“内在”的，它们将无法关联质量，并且还需要进一步的关系来将它们与质量联系起来。基于此，布拉德雷得出结论，质量的关系统一是无法实现的，更一般地说，关系是不连贯的，不应被视为真实的。
+“布拉德雷倒退”是一个涉及属性和关系的本体论辩论的总称。最初的论证由英国唯心主义哲学家弗朗西斯 · 赫伯特 · 布拉德雷提出，在他的著作《表象与实在》（1893 年）中，他概述了三个不同的倒退论证，反对属性的关系统一性。布拉德雷认为，一个特定的事物（一块糖）仅仅是一束质量（白色、甜味和硬度）通过某种关系统一成一个有机整体。但是，对于布拉德雷来说，关系是非常棘手的。如果将其看作与其相关物“独立”的，它们本身需要进一步的关系来将它们与原始相关物联系起来，如此循环无穷。如果将其看作是“内在”的，它们将无法关联质量，并且还需要进一步的关系来将它们与质量联系起来。基于此，布拉德雷得出结论，质量的关系统一是无法实现的，更一般地说，关系是不连贯的，不应被视为真实的。
 
-自弗朗西斯·赫伯特·布拉德雷（F. H. Bradley）首次提出以来的几十年里，“布拉德雷倒退”已经成为一种更广泛的论证形式。这种多样化发生在两个主要方向上：（i）与论证所针对的本体论有关；（ii）与所呈现的论证类型有关。 （i）布拉德雷最初的论证针对的是一种关于性质的单一范畴本体论，其中“性质”指的是不可重复的个别属性或特征。然而，同样的论证形式也被用来反对将性质概念化为多次发生的普遍性的一类本体论，以及反对个体和普遍性的两类本体论。事实上，在当代本体论辩论中，布拉德雷倒退的最常引用版本之一挑战了通过关系来统一个体（如电子、苹果、椅子）与其相应的属性普遍性（负电荷、圆形、黑色）的可能性。该论证旨在表明，任何对关系 R（实例化、举例等）与其普遍性 F 相关联的个体 a 的诉求都需要进一步的关系 R'来关联个体 a、普遍性 F 和关系 R；如此无限循环下去。（ii）在当代文献中，“布拉德雷倒退”与一些并非严格的倒退论证的论证和问题相关联。其中一些采取了关于统一性的一般问题的形式，即关于一束特征/事态的本体论基础是什么，而不是它们的成分的总和/列表/集合。其他问题是关于关系如何关联的解释，即关于关系使它们能够关联不同的关系者的特点是什么。还有一些问题是关于特定统一复合体存在的解释，即，问题是是什么使得一些合适的成分实际上相互连接，以形成一个现有的事实/状态/范畴的束。
+自弗朗西斯 · 赫伯特 · 布拉德雷（F. H. Bradley）首次提出以来的几十年里，“布拉德雷倒退”已经成为一种更广泛的论证形式。这种多样化发生在两个主要方向上：（i）与论证所针对的本体论有关；（ii）与所呈现的论证类型有关。 （i）布拉德雷最初的论证针对的是一种关于性质的单一范畴本体论，其中“性质”指的是不可重复的个别属性或特征。然而，同样的论证形式也被用来反对将性质概念化为多次发生的普遍性的一类本体论，以及反对个体和普遍性的两类本体论。事实上，在当代本体论辩论中，布拉德雷倒退的最常引用版本之一挑战了通过关系来统一个体（如电子、苹果、椅子）与其相应的属性普遍性（负电荷、圆形、黑色）的可能性。该论证旨在表明，任何对关系 R（实例化、举例等）与其普遍性 F 相关联的个体 a 的诉求都需要进一步的关系 R'来关联个体 a、普遍性 F 和关系 R；如此无限循环下去。（ii）在当代文献中，“布拉德雷倒退”与一些并非严格的倒退论证的论证和问题相关联。其中一些采取了关于统一性的一般问题的形式，即关于一束特征/事态的本体论基础是什么，而不是它们的成分的总和/列表/集合。其他问题是关于关系如何关联的解释，即关于关系使它们能够关联不同的关系者的特点是什么。还有一些问题是关于特定统一复合体存在的解释，即，问题是是什么使得一些合适的成分实际上相互连接，以形成一个现有的事实/状态/范畴的束。
 
 面对这些布拉德雷式的论证，哲学家们给出了各种回答。有些人选择了一种拒绝主义的路线，这涉及对布拉德雷的论证所做的假设进行质疑，并因此拒绝按照所陈述的论证进行回答（例如，罗素、布兰夏德、亚历山大和格罗斯曼认为，关系的作用是关联，如果认真对待关系的关联作用，布拉德雷的关系倒退就无法开始）。然而，大多数哲学家接受了布拉德雷式论证的某种形式，并以以下方式回答：1）通过诉诸于非关系性的联系来关联关联物（伯格曼、斯特劳森、阿姆斯特朗）；2）通过引用具有某些特殊特征的外部关系，使它们更适合关联它们的关联物（迈纳森、瓦利切拉、莫林、韦兰德和贝蒂）；3）通过描述一种潜在关联物之间的特殊相互依赖关系（弗雷格、巴克斯特、西蒙斯、佩罗维奇）；4）仅仅声称复杂实体本身（如事实或状态）作为它们自己成分的统一者（奥尔森、阿姆斯特朗）；以及 5）为无限倒退的良性性质辩护（阿姆斯特朗、奥里利亚）。
 
@@ -72,7 +72,7 @@ Henninger（1989 年）指出了一些正统穆斯林神学家，即 Mutakallimu
 
 为了使这个论证有一定的力量，布拉德雷需要为他对“独立”关系的概念进行支持的论证，即不能进行关联的关系。尽管他没有提供这样的论证，但他给了我们一个线索，即“真实”的关系应该是什么样子的：
 
-> 如果它[关系]要是真实的[即实际上进行关联]，它必须以某种方式损害术语，或者至少必须是出现在它们中或属于它们的东西。A 和 B 之间的关系实际上意味着它们内部有一个实质性的基础。(布拉德雷 1893: 18)
+> 如果它 [关系] 要是真实的 [即实际上进行关联]，它必须以某种方式损害术语，或者至少必须是出现在它们中或属于它们的东西。A 和 B 之间的关系实际上意味着它们内部有一个实质性的基础。(布拉德雷 1893: 18)
 
 这表明对于布拉德雷来说，“真实”的关系必须在某种方式上本体地基于它们的相关物。由于他的“独立”关系并没有以这种方式被构想为基于它们的相关物，所以它们无法相互关联。
 
@@ -80,7 +80,7 @@ Henninger（1989 年）指出了一些正统穆斯林神学家，即 Mutakallimu
 
 第三章着重讨论品质和关系之间的关系。该章的总体论证结论是整个关系思维方式是不可理解和有缺陷的。布拉德雷通过首先论证品质需要关系来得出这个结论；然后试图证明品质与关系是不可理解的；最后，他也同样论证了关系——即关系需要品质但与之不可理解。
 
-布拉德雷在本章的起始论点是品质需要关系。他假设如果没有关系，品质将会塌陷成一个无法区分的团块；因此，为了存在，品质需要关系来将它们从团块中分离出来，即起到区分的作用。此外，品质还需要关系来统一它们。因此，关系的要求是既能够区分品质，又能够统一品质。品质本身也具有“作为关系的支持者和被关系所构成的双重特性”（布拉德雷 1893:26）。品质通过关系的区分作用而被关系所构成，但品质也需要被关系联系成一个统一的整体。
+布拉德雷在本章的起始论点是品质需要关系。他假设如果没有关系，品质将会塌陷成一个无法区分的团块；因此，为了存在，品质需要关系来将它们从团块中分离出来，即起到区分的作用。此外，品质还需要关系来统一它们。因此，关系的要求是既能够区分品质，又能够统一品质。品质本身也具有“作为关系的支持者和被关系所构成的双重特性”（布拉德雷 1893: 26）。品质通过关系的区分作用而被关系所构成，但品质也需要被关系联系成一个统一的整体。
 
 对于布拉德雷来说，正如我们在上面看到的那样，只有内在关系才有可能是“真实的”[1]，并且随后能够完成刚才描述的双重任务。与此同时，布拉德雷的内在关系（从现在开始，称为内部 B 关系）意味着它们应该基于质量的适当部分（关于这种关系的特殊理解，请参见下文）。但是，如果质量的不同适当部分要真正不同，它们必须通过一些额外的内在关系来使它们不同。而这些后者又必须基于更多不同的质量部分的适当部分来确立。布拉德雷称之为“分裂过程”的这种情况无限地继续下去，从而在这些页面中产生了第二个无限倒退的关系，并为布拉德雷提供了所谓的“证明”，即处于关系中的质量是无法理解的。
 
@@ -93,11 +93,11 @@ Henninger（1989 年）指出了一些正统穆斯林神学家，即 Mutakallimu
 > ---
 >
 > 4. 从（1）和（2）可以得出结论，给定的属性 A 必须有一个部分 a，它是区分关系 Rd 的本体基础的一部分，即它是 A 与其他属性不同的基础。
-> 5. 从（1）和（3）可以得出结论，质量 A 必须有一个部分α，它是统一关系 Ru 的本体基础的一部分，即它是与其他质量统一的基础。
-> 6. 质量 A 的部分 a 和α是不同的。
+> 5. 从（1）和（3）可以得出结论，质量 A 必须有一个部分 α，它是统一关系 Ru 的本体基础的一部分，即它是与其他质量统一的基础。
+> 6. 质量 A 的部分 a 和 α 是不同的。
 > 7. 质量的部分内部差异需要内部 B 关系。
-> 8. A 的每个原始部分，即 a 和α，必须有一个部分来解释 a 与α的区别，分别是 a'和α'，以及一个部分来解释 a 与α的统一，分别是 a''和α''。
-> 9. 但是 a'和 a''是不同的，但又是统一的；α'和α''也是如此。因此，每个这些部分都必须有进一步的部分来解释这种不同和统一。如此无限循环。
+> 8. A 的每个原始部分，即 a 和 α，必须有一个部分来解释 a 与 α 的区别，分别是 a'和 α'，以及一个部分来解释 a 与 α 的统一，分别是 a''和 α''。
+> 9. 但是 a'和 a''是不同的，但又是统一的；α'和 α''也是如此。因此，每个这些部分都必须有进一步的部分来解释这种不同和统一。如此无限循环。
 
 这种倒退的主要工作是由前提(1)、(2)和(3)完成的。因此，布拉德雷没有花时间证明它们是非常不幸的。当涉及到他对关系内在性的特殊解释时，这尤其需要。为什么不声称整个质量可以作为地基的一部分（另一部分是其他质量或质量）来产生不同的内在关系？这肯定更符合当代对关系内在性的理解，而且可以阻止倒退。对于这个建议，布拉德雷可能会回应，重申同一质量既可以作为本体论地基的一部分，解释其与其他质量的不同，也可以作为本体论地基的一部分，解释其与其他质量的统一，这个想法是无法理解的。对此，人们可以质疑布拉德雷对关系需要解释质量之间的差异以及它们的统一的假设的依赖。事实上，更简单的做法是声称，比如，白色和甜味之间的不同不是因为它们之间有一个造成差异的部分，而仅仅是因为它们在其整体上是内在不同的。质量的内在差异可以成为布拉德雷理论的底线，是一个原始的概念，这将消除关系作为造成差异的因素的需要，从而拒绝了上述的前提(2)。
 
@@ -121,7 +121,7 @@ Henninger（1989 年）指出了一些正统穆斯林神学家，即 Mutakallimu
 
 在提出倒退 3 之后，布拉德雷认为他成功地表明了整个关系思维方式的缺陷，以及关系本身应该被归入表象领域，而不是现实领域。达到这样的结论的核心是他的假设，即他所称之为“独立”关系无法相互关联。布拉德雷似乎只是不知道如何思考这样的实体，并经常使用隐喻，谈论需要进一步链接的链接，并坚称我们无法展示“实体物体”如何与其他“实体物体”相连（参见布拉德雷 1893 年：28）。正如这些隐喻所示，布拉德雷的担忧似乎是，如果将关系看作是与它们相关的术语独立的，它们本身将变得与需要关联的术语一样，并且它们将失去它们的关联能力。
 
-### 1.3 弗朗西斯·赫伯特·布拉德雷与罗素在 1910/1911 年关于关系和复合体的辩论
+### 1.3 弗朗西斯 · 赫伯特 · 布拉德雷与罗素在 1910/1911 年关于关系和复合体的辩论
 
 布拉德雷对关系的反驳在他与罗素在 1910 年至 1911 年期间在《心灵》杂志上的辩论中获得了不同的维度。在这一点上，布拉德雷不再只关心反对质量的关系统一的论证；相反，他关心的是存在无法分析的复合统一的可能性。
 
@@ -145,7 +145,7 @@ Henninger（1989 年）指出了一些正统穆斯林神学家，即 Mutakallimu
 
 在 1923 年和 1924 年的前半部分，布拉德雷回到了关系的话题上。他正在撰写一篇打算在《心灵》杂志上发表的文章，其中的第一部分在他的《收集论文》第二卷中以简单的标题“关系”在他去世后才得以公开。这篇手稿很重要，因为布拉德雷一方面以稍微不同的方式重新陈述了他认为最重要的论证，另一方面扩大了他对关系的批判。
 
-因此，我们再次发现他对外在关系的倒退论证，这是基于他的假设，即这种关系无法相互关联；他写道，外在关系仅仅是从关系事实中“纯粹的抽象”，因此没有关联的能力（布拉德雷 1926 年：643）。内在关系也没有改进，布拉德雷拒绝接受任何他可能想要接受它们的建议（642）。真正的问题似乎是“一个实际的关系[…]必须同时具备‘一起’和‘之间’的特征，如果缺少其中任何一个，它就不再是一个关系”（布拉德雷 1926 年：644，634）。因此，正如在他的《表象与实在》（1893 年）中一样，布拉德雷要求关系同时具备“之间的角色”（我在上面称之为区别产生的角色）和“一起的角色”（我称之为统一的角色）。如果缺少其中任何一个角色，就不再是一个真正的关系，这反过来使得布拉德雷认为所谓的关系体验是矛盾的。
+因此，我们再次发现他对外在关系的倒退论证，这是基于他的假设，即这种关系无法相互关联；他写道，外在关系仅仅是从关系事实中“纯粹的抽象”，因此没有关联的能力（布拉德雷 1926 年：643）。内在关系也没有改进，布拉德雷拒绝接受任何他可能想要接受它们的建议（642）。真正的问题似乎是“一个实际的关系 […] 必须同时具备‘一起’和‘之间’的特征，如果缺少其中任何一个，它就不再是一个关系”（布拉德雷 1926 年：644，634）。因此，正如在他的《表象与实在》（1893 年）中一样，布拉德雷要求关系同时具备“之间的角色”（我在上面称之为区别产生的角色）和“一起的角色”（我称之为统一的角色）。如果缺少其中任何一个角色，就不再是一个真正的关系，这反过来使得布拉德雷认为所谓的关系体验是矛盾的。
 
 > 相对经验因其本质而言必然是自相矛盾的。矛盾无处不在，它试图将多样和多元的事物视为同一，并且（我们必须补充）将其简单地或与任何“如何”无关地视为同一。我们已经看到，如果没有多样性和统一性，相对经验就会丧失，而要结合这两个方面，它就没有任何可能的“如何”或方式，除了一个似乎肯定比相对经验更少或更多的方式。（布拉德雷 1926 年：635）
 
@@ -227,7 +227,7 @@ C. D. 布罗德（1933 年）也对布拉德雷的关系处理提出了异议；
 
 例如，瓦利切拉（Vallicella）主张存在一个外部统一运算符，将事实的组成部分连接起来并使事实存在。这个外部统一器 U 被描述为一个“形而上学的行为体”，它作为事实的“存在创造者”（Vallicella 2000: 250）；这是因为“偶然性自决的力量”，即它具有“偶然地决定自己作为对其操作的运算符”的能力（Vallicella 2000: 256）。通过这种方式对 U 进行描述，瓦利切拉试图确保 U 与其统一的事物之间的联系保持偶然性，并且这种统一是以 U 本身为基础的（出于对无限倒退的担忧）。他唯一能看到 U 同时履行这两个角色的方式是将其“构建成类似于上帝或超越意识”的方式（Vallicella 2000: 256）。当然，这种回应布拉德雷论证的问题在于，外部统一器 U 的类似上帝的创造角色仍然相当模糊，并且似乎将意识引入了运算符本身以及事态的创造中。
 
-迈纳森（Meinertsen）提出了另一种新颖的关系（2008 年）。他主张通过一种自关联关系来将个体和普遍性统一为事态。根据这个提议，使得 R 与对(a, b)相关的是一种自关联关系 U *，它将自身与 R、a 和 b 统一起来。因此，事态 R(a, b)实际上等同于事态 U*(U *, R, a, b)，而事态 Fa 只是 U*(U *, F, a)的简写（参见 Meinertsen 2008: 12）。自关联关系 U*在统一的事态中出现了两次：第一次，在括号外，U*以其“主动”的关联角色出现；第二次，在括号内，U*以其作为被关联的构成要素之一的“被动”角色出现（参见 Meinertsen 2008: 15）。
+迈纳森（Meinertsen）提出了另一种新颖的关系（2008 年）。他主张通过一种自关联关系来将个体和普遍性统一为事态。根据这个提议，使得 R 与对(a, b)相关的是一种自关联关系 U *，它将自身与 R、a 和 b 统一起来。因此，事态 R(a, b)实际上等同于事态 U*(U *, R, a, b)，而事态 Fa 只是 U*(U *, F, a)的简写（参见 Meinertsen 2008: 12）。自关联关系 U* 在统一的事态中出现了两次：第一次，在括号外，U *以其“主动”的关联角色出现；第二次，在括号内，U* 以其作为被关联的构成要素之一的“被动”角色出现（参见 Meinertsen 2008: 15）。
 
 这一切都引起了罗素关于关系具有双重性质的讨论，即关系能够作为关系的项以及关系的关系。这种双重角色的问题在于解释，正如布拉德雷问罗素的那样：“一个实际上进行关系的关系和一个没有进行关系的关系之间有什么区别？”（布拉德雷 1911 年：74）。或者对于迈纳森来说：关系在其被动角色中发生和在其主动角色中发生之间有什么区别？如果我们愿意接受这样一个原始观点，即存在这样一个区别，并且由于 U*作为自我关系的双重角色，它能够统一复杂的 a、b 和 R 的成分，那么为什么这样的观点比将关系 R 简单地与其相关物进行关系的观点更好呢？
 
@@ -259,7 +259,7 @@ Weiland 和 Betti（2008 年）一方面，Maurin（2010 年）另一方面，�
 
 瓦利切拉（2002 年）对这种蛮力事实方法提出了异议，认为它是神秘和不连贯的。他甚至指责蛮力事实方法的支持者承认以下矛盾：
 
-> 不言而喻的是，作为一个复杂的事实，事实由其组成部分组成，因此事实仅仅是它们。但是，不言而喻的是，作为其组成部分的统一，事实超越了其组成部分。面对这个矛盾，我们要么完全否认事实的存在[...]，要么超越事实寻找能够消除矛盾的东西（瓦利切拉 2002 年：20-21）。
+> 不言而喻的是，作为一个复杂的事实，事实由其组成部分组成，因此事实仅仅是它们。但是，不言而喻的是，作为其组成部分的统一，事实超越了其组成部分。面对这个矛盾，我们要么完全否认事实的存在 [...]，要么超越事实寻找能够消除矛盾的东西（瓦利切拉 2002 年：20-21）。
 
 当然，这个反对意见假定唯一无争议的组合形式是部分整体的形式，并且事实“仅仅是它们的组成部分”。阿姆斯特朗和奥尔森的事实公开反对这些假设：它们是超越其组成部分之和的统一体。但是，未能进一步说明总和和事实之间的差异，使得这些事实变得粗糙且不可接受。对于瓦利切拉来说。
 
@@ -273,7 +273,7 @@ Orilia（2006，2007）进一步发展了这种回应。他同意 Armstrong（19
 
 ## 4. 布拉德雷倒退的进一步应用
 
-基础。关于基础的本质和形而上学解释的辩论从不同的角度对布拉德雷的倒退产生了兴趣。在这里，布拉德雷启发的主要问题是是否应该成为形而上学解释的要求之一，即“必须有基础”。在这个背景下，布拉德雷的倒退问题在于它似乎致力于一个无限的事实链，每一个事实都在本体上依赖于后续事实来解释。这正是奥里利亚（2006 年，2007 年）所描述的情况。一个事态 Fa 的统一是通过诉诸于另一个更高阶的事实 R<Fa>来解释的，而这个事实又通过诉诸于进一步的事实 R'<R,<Fa>>来解释，依此类推。然而，卡梅隆（2008 年）发现这样的依赖链非常有问题。他认为，人们强烈地直觉上认为应该存在“一个形而上学的基础，一个本体上独立的对象的领域，为所有本体上依赖的实体提供最终的本体基础，以及一个基本事实的领域，为所有派生事实提供最终的形而上学基础”（卡梅隆 2008 年：8）。
+基础。关于基础的本质和形而上学解释的辩论从不同的角度对布拉德雷的倒退产生了兴趣。在这里，布拉德雷启发的主要问题是是否应该成为形而上学解释的要求之一，即“必须有基础”。在这个背景下，布拉德雷的倒退问题在于它似乎致力于一个无限的事实链，每一个事实都在本体上依赖于后续事实来解释。这正是奥里利亚（2006 年，2007 年）所描述的情况。一个事态 Fa 的统一是通过诉诸于另一个更高阶的事实 R <Fa> 来解释的，而这个事实又通过诉诸于进一步的事实 R'<R,<Fa> > 来解释，依此类推。然而，卡梅隆（2008 年）发现这样的依赖链非常有问题。他认为，人们强烈地直觉上认为应该存在“一个形而上学的基础，一个本体上独立的对象的领域，为所有本体上依赖的实体提供最终的本体基础，以及一个基本事实的领域，为所有派生事实提供最终的形而上学基础”（卡梅隆 2008 年：8）。
 
 卡梅隆承认很难通过诉诸于进一步的、更基本的形而上学原理来为这种直觉辩护。相反，他建议可以通过诉诸于理论效用来支持；对于同一类型现象的统一解释似乎比无限下降的解释链更可取。作为对卡梅隆的回应，奥里利亚（2009 年）指出了卡梅隆诉诸于统一解释作为支持所有本体依赖链（WF）的良基论的弱点；因此，奥里利亚得出结论，WF 还不能声称是一个偶然真理。
 
@@ -293,36 +293,36 @@ Orilia（2006，2007）进一步发展了这种回应。他同意 Armstrong（19
 * Armstrong, David M., 1978, *Nominalism & Realism: Universals & Scientific Realism* (Volume I), Cambridge: Cambridge University Press.
 * –––, 1989, *Universals: An Opinionated Introduction*, Boulder: Westview Press.
 * –––, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
-* –––, 2005, “Four Disputes About Properties”, *Synthese*, 144(3): 309–320. doi:10.1007/s11229-005-5852-7
+* –––, 2005, “Four Disputes About Properties”, *Synthese*, 144(3): 309–320. doi: 10.1007/s11229-005-5852-7
 * Baxter, Donald L.M., 1996, “Bradley on Substantive and Adjective: The Complex-Unity Problem”, in W.J. Mander (ed.), *Perspectives on the Logic and Metaphysics of F.H. Bradley*, Bristol: Thoemmes.
 * –––, 2001, “Instantiation as Partial Identity”, *Australasian Journal of Philosophy*, 79(4): 449–464.
-* Bennett, Karen, 2011, “By Our Bootstraps”, *Philosophical Perspectives*, 25(1): 27–41. doi:10.1111/j.1520-8583.2011.00207.x
+* Bennett, Karen, 2011, “By Our Bootstraps”, *Philosophical Perspectives*, 25(1): 27–41. doi: 10.1111/j.1520-8583.2011.00207.x
 * Bergmann, Gustav, 1967, *Realism: A Critique of Brentano and Meinong*, Madison: The University of Wisconsin Press.
 * Blanshard, Brand, 1986, “Bradley on Relations”, in Anthony Manser and Guy Stock (eds.), *Philosophy of F. H. Bradley*, Oxford: Oxford University Press.
-* Bonino, Guido, 2012, “Bradley’s Regress: Relations, Exemplification, Unity”, *Axiomathes*, 23(2): 189–200. doi:10.1007/s10516-012-9190-3
+* Bonino, Guido, 2012, “Bradley’s Regress: Relations, Exemplification, Unity”, *Axiomathes*, 23(2): 189–200. doi: 10.1007/s10516-012-9190-3
 * Bradley, F.H., 1893, *Appearance and Reality*, Oxford: Clarendon Press.
-* –––, 1910, “On Appearance, Error and Contradiction”, *Mind*, 19(74): 153–185. doi:10.1093/mind/XIX.1.153
-* –––, 1911, “Reply to Mr. Russell’s Explanations”, *Mind*, 20(77): 74–76. doi:10.1093/mind/XX.77.74
+* –––, 1910, “On Appearance, Error and Contradiction”, *Mind*, 19(74): 153–185. doi: 10.1093/mind/XIX.1.153
+* –––, 1911, “Reply to Mr. Russell’s Explanations”, *Mind*, 20(77): 74–76. doi: 10.1093/mind/XX.77.74
 * –––, 1926, “Relations”, in *Collected Essays* (Volume II), Oxford: Clarendon Press.
 * Broad, C.D., 1933, Examination of McTaggart’s Philosophy (Volume I), Cambridge: Cambridge University Press.
 * Brzozowski, Jacek, 2008, “On Locating Composite Objects”, in Dean Zimmerman (ed.), *Oxford Studies in Metaphysics* (Volume 4), 193–222.
-* Cameron, Ross P., 2008, “Turtles All The Way Down”, *Philosophical Quarterly*, 58(230): 1–14. doi:10.1111/j.1467-9213.2007.509.x
+* Cameron, Ross P., 2008, “Turtles All The Way Down”, *Philosophical Quarterly*, 58(230): 1–14. doi: 10.1111/j.1467-9213.2007.509.x
 * Candlish, Stewart and Pierfrancesco Basile, 2017, “Francis Herbert Bradley,” *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition),, Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2017/entries/bradley/>
 * Collins, J. 2011, *The Unity of Linguistic Meaning*, Oxford: Oxford University Press.
 * Daly, C., 1997, “Tropes”, in D. H. Mellor and A. Oliver (eds.), *Properties*, Oxford: Oxford University Press, 1997: 140–159.
 * Davidson, D. 2005, *Truth and Predication*, Cambridge, MA: The Belknap Press of Harvard University Press.
 * Frege, G., 1891, “Function and Concept”, in *The Frege Reader* (1997), M. Beaney (ed.), Oxford: Blackwell.
-* Gaskin, R., 1995, “Bradley’s Regress, The Copula and the Unity of the Proposition”, *Philosophical Quarterly*, 45(179): 161–180. doi:10.2307/2220413
+* Gaskin, R., 1995, “Bradley’s Regress, The Copula and the Unity of the Proposition”, *Philosophical Quarterly*, 45(179): 161–180. doi: 10.2307/2220413
 * –––, 2008, *The Unity of The Proposition*, Oxford: Oxford University Press.
 * Grossmann, R., 1992, *The Existence of The World*, London and New York: Routledge
-* Hanks, Peter W., 2007, “How Wittgenstein Defeated Russell’s Multiple Relation Theory of Judgment”, *Synthese*, 154(1): 121–146. doi:10.1007/s11229-005-0195-y
+* Hanks, Peter W., 2007, “How Wittgenstein Defeated Russell’s Multiple Relation Theory of Judgment”, *Synthese*, 154(1): 121–146. doi: 10.1007/s11229-005-0195-y
 * Henninger, M. G., 1989, *Relations: Medieval Theories 1250–1325*, Oxford: Clarendon Press.
 * Hochberg, H., 1978, *Thought, Fact, and Reference: The Origins and Ontology of Logical Atomism*, Minneapolis: The University of Minnesota Press.
-* Lewis, David, 2002, “Tensing the Copula”, *Mind*, 111(441): 1–13. doi:10.1093/mind/111.441.1
+* Lewis, David, 2002, “Tensing the Copula”, *Mind*, 111(441): 1–13. doi: 10.1093/mind/111.441.1
 * MacBride, Fraser, 2016, “Relations”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/relations>
-* Martin, C.B., 1980, “Substance Substantiated”, *Australasian Journal of Philosophy*, 58(1): 3–10. doi:10.1080/00048408012341001
+* Martin, C.B., 1980, “Substance Substantiated”, *Australasian Journal of Philosophy*, 58(1): 3–10. doi: 10.1080/00048408012341001
 * Meinertsen, B., 2008, “A Relation as the Unifier of States of Affairs”, *Dialectica*, 62(1): 1–19.
-* Maurin, Anna-Sofia, 2010, “Trope theory and the Bradley regress”, *Synthese*, 175(3): 311–326. doi:10.1007/s11229-009-9511-2
+* Maurin, Anna-Sofia, 2010, “Trope theory and the Bradley regress”, *Synthese*, 175(3): 311–326. doi: 10.1007/s11229-009-9511-2
 * –––, 2015, “States of Affairs and the Relation Regress”, in G. Galluzzo, M. J. Loux, and J. Lowe eds. *The Problem of Universals in Contemporary Philosophy*, Cambridge: Cambridge University Press, 195–214.
 * Olson, K. R., 1987, *An Essay on Facts*, Stanford: CSLI.
 * Mugnai, M., 2010, “Leibniz and Bradley’s Regress”, *The Leibniz Review*, 20: 1–12.
@@ -331,11 +331,11 @@ Orilia（2006，2007）进一步发展了这种回应。他同意 Armstrong（19
 * –––, 2007, “Bradley’s Regress: Meinong vs. Bergmann”, in L. Addis, G. Jesson, E. Tegtmeier, eds. *Ontology and Analysis: Essays and Recollections about Gustav Bergmann*, Frankfurt: Ontos Verlag, 133–163.
 * –––, 2009, “Bradley’s Regress and Ungrounded Dependence Chains: A Reply to Cameron”, *Dialectica*, 63(3): 333–341.
 * Plato, *Parmenides*, in *The Collected Dialogues*, (1963), E. Hamilton and H. Cairns (eds.), Princeton, NJ: Princeton University Press.
-* Perovic, Katarina, 2014, “The Import of The Original Bradley’s Regress(es)”, *Axiomathes*, 24(3): 375–394. doi:10.1007/s10516-014-9229-8
+* Perovic, Katarina, 2014, “The Import of The Original Bradley’s Regress(es)”, *Axiomathes*, 24(3): 375–394. doi: 10.1007/s10516-014-9229-8
 * –––, 2016, “A Neo-Armstrongian Defense of States of Affairs: A Reply to Vallicella”, *Metaphysica*, 17(2): 143–161.
 * Phemister, P., 2016, “Leibnizian pluralism and Bradleian monism: a question of relations”, *Studia Leibnitiana*, 45: 61–79.
 * Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press.
-* –––, 1910, “Some Explanations in Reply to Mr. Bradley”, *Mind*, 19(75): 373–378. doi:10.1093/mind/XIX.1.373
+* –––, 1910, “Some Explanations in Reply to Mr. Bradley”, *Mind*, 19(75): 373–378. doi: 10.1093/mind/XIX.1.373
 * –––, 1911, “On the Relations of Universals and Particulars”, page references to reprint in Russell 1956: 105–124.
 * Schaffer, Jonathan, 2016, “Monism”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/monism/>
 * Simons, P., 1994, “Particulars in Particular Clothing: Three Trope Theories of Substance”, *Philosophy and Phenomenological Research*, 54(3): 553–575.

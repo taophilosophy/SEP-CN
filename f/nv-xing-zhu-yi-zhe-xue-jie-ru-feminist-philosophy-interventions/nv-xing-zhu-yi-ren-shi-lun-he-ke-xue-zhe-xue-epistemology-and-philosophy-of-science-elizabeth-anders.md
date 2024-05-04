@@ -38,7 +38,7 @@ Situatedness influences knowers’ access to information and the terms in which 
 
 与其他探究者的关系。如果不同性别的人一起参与探究，知识中的性别差异可以减少。每个性别可以通过他人的证词获得另一性别通过直接经验获得的知识。每个人也可以学会如何更有效地进行想象性投射，并站在另一性别的角度思考。然而，性别规范影响男性和女性交流的条件（Kalbfleisch 1995）。在某些情境中，女性被禁止发言，或者她们的问题、评论和挑战被忽视、打断和系统性扭曲，或者她们不被接受为专家。因此，对话和认识权威的性别规范影响了知识实践将男性和女性的知识纳入探究过程的能力。女性主义认识论者探讨性别规范如何扭曲证词的传播以及探究者之间的认知权威关系（Addelson 1983；Code 1991；Fricker 2007），以及如何改革探究者的社会关系，特别是关于认识权威的分配，从而促进更成功的探究实践（Jones 2002；Longino 1990；Nelson 1990，1993）。
 
-关于性别定位知识的问题和方法。主流认识论将知识的范式视为关于原则上任何具有基本认知和感知装置的人都可以获得的简单命题知识：“2+2=4”；“草是绿色的”；“水解渴”。女性主义认识论并不声称这类知识是性别化的。关注性别定位知识使得可以探讨一些在假定性别和知识者的其他社会情境与知识无关的认识论中难以界定的问题。某些视角在认识论上是否具有特权？能否从不同性别视角构建更客观的视角？
+关于性别定位知识的问题和方法。主流认识论将知识的范式视为关于原则上任何具有基本认知和感知装置的人都可以获得的简单命题知识：“2+2 = 4”；“草是绿色的”；“水解渴”。女性主义认识论并不声称这类知识是性别化的。关注性别定位知识使得可以探讨一些在假定性别和知识者的其他社会情境与知识无关的认识论中难以界定的问题。某些视角在认识论上是否具有特权？能否从不同性别视角构建更客观的视角？
 
 女性主义认识论者已经考虑了三种传统中的情境知识：立场理论、后现代主义和经验主义。接下来的三节将解释这三种传统最初是如何表达的，而第 5 节讨论它们的互动和融合。
 
@@ -144,7 +144,7 @@ Situatedness influences knowers’ access to information and the terms in which 
 
 选择和权衡认知价值。库恩（1977）认为科学家需要借助认知价值来填补理论和证据之间的差距。他列出的认知价值包括准确性、范围、简洁性、富有成果性、内在一致性和与其他信念的一致性（保守主义）。朗吉诺（1994）认为女性主义者有理由偏好体现其他认知价值的理论，比如权力扩散。权力扩散，像简洁性一样，并非以真理为导向的认知价值。它们都被视为认知价值，因为它们使理论在认知上更易接近。权力扩散认识到认知易接近是相对于认知者的情境而言的。简化和权力扩散都与真理存在紧张关系，因为体现这些价值的理论不仅忽略了许多复杂的真理，甚至可能提出错误的主张。这是否不好取决于被忽略的真理或允许的不准确性是否重要。这只能相对于调查应该服务的利益来判断。所有合法的研究项目必须寻求经验充分性，这要求理论能够解释观察结果。这需要多少准确性取决于知识的预期用途会因更大的风险或误差边际而受到损害。因此，调查者或理论使用者的情境和实用利益可能会合法地影响理论选择中认知价值的选择和权衡。
 
-证据标准。归纳风险论证认为，理论应该根据 I 型错误（相信虚假内容）和 II 型错误（未能相信真实内容）的相对成本而被接受或拒绝。在医学领域，临床试验通常会在 P 值高于传统的<5%时停止，并接受结果为真实，如果结果足够显著，而不采取行动对患者的成本足够高。 Hare-Mustin 和 Maracek（1994）通过类比推理认为，是否应接受发现性别差异的研究，或未能发现它们的研究，取决于在特定情境下 Alpha 偏差（夸大差异）和 Beta 偏差（忽视差异）的相对成本。
+证据标准。归纳风险论证认为，理论应该根据 I 型错误（相信虚假内容）和 II 型错误（未能相信真实内容）的相对成本而被接受或拒绝。在医学领域，临床试验通常会在 P 值高于传统的 < 5%时停止，并接受结果为真实，如果结果足够显著，而不采取行动对患者的成本足够高。 Hare-Mustin 和 Maracek（1994）通过类比推理认为，是否应接受发现性别差异的研究，或未能发现它们的研究，取决于在特定情境下 Alpha 偏差（夸大差异）和 Beta 偏差（忽视差异）的相对成本。
 
 分类。现象被分类的方式可能合法地取决于社会价值观。在医学中，健康和疾病之间的区别既反映了因果判断，也反映了关于人类福祉和处理问题的适当方式的伦理判断。除非认为医疗干预是处理问题的适当且可能有效的方式，否则被判断为对人类有害的情况不被分类为疾病。女性主义的探究也提出了关于妇女压迫原因的问题，这需要将现象分类为强奸、性物化、性别歧视等实例，这些分类与它们符合经验和评价标准相关联（Anderson 1995a, 1995b）。一般来说，当探究试图回答关于价值负载现象的问题时，比如某些实践对人类福祉的影响，或者某些制度是否公平或歧视性，将要研究的经验现象的轮廓将由评价判断来定义（Intemann 2001, 2005）。
 
@@ -168,7 +168,7 @@ Situatedness influences knowers’ access to information and the terms in which 
 
 Aperspectivity. Aperspectivity 的理想假设是，如果一个人从没有特定立场、没有任何假设或偏见的角度看待事物，那么引导信念形成的唯一因素就是对象本身（外部指导）。女性主义者对“无处不在的视角”和无假设、无偏见的科学的可理解性提出质疑，原因既有后现代主义者（Haraway 1991）也有实用主义者（Antony 1993）的观点。认识者是处境性的。证据对理论的不确定性意味着需要偏见来启动理论建构。我们不应该徒劳地试图在没有偏见的情况下进行探究，而应该通过经验研究哪些偏见是有益的，哪些是误导性的，并相应地改革科学实践（Antony 1993）。一些女性主义批评者还认为，客观性的实践——假设观察到的规律反映了事物的固有本质，并相应地对待这些事物——当被权力者采用时，会产生证实该假设的那些规律。当男性观察者利用他们的权力让女性按照他们的愿望行事（例如，引诱女性顺从他们的侵略性性行为），但假定自己具有无处不在的视角时，他们会错误地将行为归因于女性的固有本质（女性的被动性），而不是归因于他们自身社会定位的权力。这一过程构成了对女性的“客体化”。它通过合法化强化了这种投射的性别歧视实践来伤害女性。它将观察到的规律误代为必然的，而不是社会上的偶然，以及它们的原因（由观察到的事物的固有本质产生，而不是由观察者对所观察到的事物的立场产生）（MacKinnon 1999，Haslanger 1993）。
 
-超然。根据这一理念，科学家应采取一种情感上的疏离、控制的立场来对待他们研究的对象，这被认为是为了避免投射错误而必要的。凯勒建议，这种理念导致科学被象征性地视为“男性化”，从而边缘化女性科学家，她们被刻板地认为是情感化的。这反映了一种以男性为中心的观点，满足了男性对避免“女性化”所产生的神经质焦虑。情感上的疏离也可能存在认识上的缺陷。对于“[个体]生物的感觉”可能使科学家对关键数据变得更敏感。Detachment. The ideal of detachment, according to which scientists should adopt an emotionally distanced, controlling stance toward their objects of study, is defended as necessary to avoid projective error. Keller suggests that it is responsible for the symbolically “masculine” standing of science that marginalizes women scientists, who are stereotyped as emotional. It reflects an androcentric perspective, serving men’s neurotic anxieties about avoiding the “feminine” (Keller 1985a, Bordo 1987). Emotional distance may also have epistemic defects. A “feeling for the [individual] organism” may sensitize a scientist to critical data (Keller 1983, Ruetsche 2004).
+超然。根据这一理念，科学家应采取一种情感上的疏离、控制的立场来对待他们研究的对象，这被认为是为了避免投射错误而必要的。凯勒建议，这种理念导致科学被象征性地视为“男性化”，从而边缘化女性科学家，她们被刻板地认为是情感化的。这反映了一种以男性为中心的观点，满足了男性对避免“女性化”所产生的神经质焦虑。情感上的疏离也可能存在认识上的缺陷。对于“[个体] 生物的感觉”可能使科学家对关键数据变得更敏感。Detachment. The ideal of detachment, according to which scientists should adopt an emotionally distanced, controlling stance toward their objects of study, is defended as necessary to avoid projective error. Keller suggests that it is responsible for the symbolically “masculine” standing of science that marginalizes women scientists, who are stereotyped as emotional. It reflects an androcentric perspective, serving men’s neurotic anxieties about avoiding the “feminine” (Keller 1985a, Bordo 1987). Emotional distance may also have epistemic defects. A “feeling for the [individual] organism” may sensitize a scientist to critical data (Keller 1983, Ruetsche 2004).
 
 价值中立性。客观性理想作为价值中立性是被证明为一种心理立场，需要防范对一厢情愿思考、教条主义、政治动机或意识形态推理的诱惑。女性主义者认为这一理想是自欺欺人且不切实际的（Potter 1993; Longino 1990, 2001; Harding 1991, 1998; Wylie 1996）。当科学家们将自己描述为中立时，这会阻碍他们认识到自己的价值观如何塑造了他们的探究方式，从而逃避对这些价值观的批判性审查。价值中立性忽视了价值判断在引导上述过程和研究成果中发挥的许多积极作用。还有其他程序可用于阻止科学上的一厢情愿思考和政治教条主义，而无需要求科学家们搁置他们的价值判断（Anderson 1995, 2004, Longino 2001）。
 
@@ -324,7 +324,7 @@ Aperspectivity. Aperspectivity 的理想假设是，如果一个人从没有特�
 * Lugones, Maria, and Elizabeth Spelman, 1983, “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism, and the Demand for ‘The Woman’s Voice’?,” *Women’s Studies International Forum*, 6: 573–581.
 * Lukács, Georg, 1971, “Reification and the Consciousness of the Proletariat,” in *History and Class Consciousness*, Rodney Livingstone (trans.), Cambridge, Mass.: MIT Press
 * MacKinnon, Catherine, 1989, *Toward a Feminist Theory of the State*, Cambridge, Mass.: Harvard University Press.
-* –––, 2000, “Points against Postmodernism,” *Chicago-Kent Law Review*, 75:687–712.
+* –––, 2000, “Points against Postmodernism,” *Chicago-Kent Law Review*, 75: 687–712.
 * Margonis, Frank, 2007, “John Dewey, W.E.B. DuBois, and Alain Locke: A Case Study in White Ignorance and Intellectual Segregation,” in Sullivan and Tuana.
 * Martin, Emily, 1996, “The Egg and the Sperm: How Science has Constructed a Romance Based on Stereotypical Male-Female Roles,” in *Feminism and Science*, Evelyn Fox Keller and Helen Longino (eds.), Oxford: Oxford University Press.
 * Marx, Karl, 1964, *The Eighteenth Brumaire of Louis Bonaparte*, New York: International Publishers.

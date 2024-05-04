@@ -1,6 +1,6 @@
 # 洞 holes (Roberto Casati and Achille Varzi)
 
-*首次发表于1996年12月5日星期四；实质性修订于2023年6月14日星期三*
+*首次发表于 1996 年 12 月 5 日星期四；实质性修订于 2023 年 6 月 14 日星期三*
 
 洞是本体论者和认识论者的一个有趣案例研究。对世界的天真、未受教育的描述将洞视为参照物，与普通物质对象平起平坐。（“奶酪上有多少洞，罐子里就有多少饼干。”）我们经常援引洞来解释因果关系，或解释某些事件的发生。（“水漏了是因为桶有个洞。”）因此，有关这种实体存在的初步证据。然而，也可以说提到洞只是一种说法，洞只是纯粹的表象实体，虚构。
 
@@ -73,7 +73,7 @@
 * Meadows, P. J., 2013, ‘What Angles Can Tell Us About What Holes Are Not’, *Erkenntnis*, 78: 319–331.
 * –––, 2015, ‘Holes Cannot Be Counted as Immaterial Objects’, *Erkenntnis*, 80: 841–852.
 * Miller, K., 2007, ‘Immaterial Beings’, *The Monist*, 90: 349–371.
-* Mollica, L., 2022, ‘Argle Victorious: A Theory of Holes as Hole-Linings’, *Synthese*, 200 (457). doi:10.1007/s11229-022-03952-z
+* Mollica, L., 2022, ‘Argle Victorious: A Theory of Holes as Hole-Linings’, *Synthese*, 200 (457). doi: 10.1007/s11229-022-03952-z
 * Nelson, R., and Palmer, S. E., 2001, ‘Of Holes and Wholes: The Perception of Surrounded Regions’, *Perception*, 30: 1213–1226.
 * O’Shaughnessy, B., 2000, *Consciousness and the World*, Oxford: Clarendon Press.
 * Siegel, S., 2009, ‘The Visual Experience of Causation’, *Philosophical Quarterly*, 59: 519–540.

@@ -89,9 +89,9 @@
 > | Geometry        |                              | 立体测量学（立体几何学） | Arithmetic    |
 > | ----------------- | ------------------------------ | -------------------------- | --------------- |
 > |                 | 评注者                       |                          |               |
-> | 光学<br /> （数学） | 天文学<br /> (数学)              | Mechanics                | 谐波<br /> (数学) |
+> | 光学 <br /> （数学） | 天文学 <br /> (数学)              | Mechanics                | 谐波 <br /> (数学) |
 > |                 |                              |                          |               |
-> | 关于彩虹        | 航海天文学<br /> 现象<br /> 经验主义 |                          | 声学科学      |
+> | 关于彩虹        | 航海天文学 <br /> 现象 <br /> 经验主义 |                          | 声学科学      |
 
 亚里士多德将科学分为不同层次，将彩虹、天文现象和声学谐波等描述性的科学视为描述性的，提供了某种情况的事实，但没有提供解释，解释由更高级的科学提供。可以很容易地推测亚里士多德会如何填写表格中的关系；例如，他是否会像柏拉图在《理想国》第七卷中那样将立体测量学放在几何学之下？同样，数学光学与几何学之间的解释关系与光学与经验光学之间的关系不同。这个彩虹的例子似乎是指《气象学》第三章第五节中的论证，其中观察到的事实是彩虹永远不会超过半圆（在平坦的土地上是真实的），这一事实通过一个完全几何化的光学证明得到解释。一旦提供了基本的设置和反射原理，剩下的就是几何学。
 
@@ -166,7 +166,7 @@
 
 在我们以 X qua Y 或 X 在 X 是 Y 的方面进行检查或研究的情况下，我们研究从某物是 Y 而产生的后果。换句话说，Y 决定了我们研究的逻辑空间。如果 X 是一个青铜三角形（一个可感知的大小），以青铜为基础研究 X 将是研究青铜和作为青铜的属性。以三角形为基础研究 X 将是研究作为三角形的属性。除非从某物是三角形而必须是青铜，否则青铜的属性不会出现在研究中。
 
-注意，并不一定要求“qua”运算符的形式为“qua Y”，其中 Y 是一个名词短语。例如，亚里士多德在《灵魂论》第三篇中说道（429b25-6），两件事情影响并受影响，“qua something in common belongs to both。”同样，作为“qua”在这些情境中并不总是意味着“因为”（通常情境太模糊，无法准确判断它是指“因为”还是“在...方面”），考虑Nicomachean Ethics i.3.1102b8-9，“Sleep is an inactivity of the soul qua it is called good or bad”，但绝对不是因为它是。
+注意，并不一定要求“qua”运算符的形式为“qua Y”，其中 Y 是一个名词短语。例如，亚里士多德在《灵魂论》第三篇中说道（429b25-6），两件事情影响并受影响，“qua something in common belongs to both。”同样，作为“qua”在这些情境中并不总是意味着“因为”（通常情境太模糊，无法准确判断它是指“因为”还是“在...方面”），考虑 Nicomachean Ethics i.3.1102b8-9，“Sleep is an inactivity of the soul qua it is called good or bad”，但绝对不是因为它是。
 
 除了可能有一两个例外，似乎亚里士多德每当提到 F(X) qua G(X)时，G(X)必须为真。我们可以研究一个可感知的三角形 qua 三角形，因为它是一个三角形。为了方便起见，我们可以称之为 qua-实在主义。
 
@@ -263,7 +263,7 @@
 亚里士多德提出了三种学院派对这些问题的解决方案。如果单位可以一起计数（例如田野上的十头牛），则它们是可比较的。如果在概念上不可能将它们一起计数，则它们是不可比较的（这是一个不太直观的概念）。
 
 1. 不可比较的单位：形式数字被构想为序数，单位被构想为被很好地排序。使得这个数字 3 的不是它是三个单位的串联，而是它的单位是这个单位系列中的第三个单位。因此，说前三个单位形成了数字三的统一是完全错误的。普通的串联，例如一群牛，十头牛之所以是十头牛，是因为它们可以按照形式数字的系列进行计数。不可比较数字的概念缺乏将数字构想为单位的串联的基本概念。
-2. 可比较/不可比较的单位：形式数字当然是特殊的。每个形式数字都是单位的完整统一体。例如，数字 3 的形式是三个单位的统一体。由于它是一个统一体，这三个单位形成这个统一体并不是偶然的。它们在某种意义上是可比较的，因为它们一起构成了“三本身”，并且可能无法单独构想。因此，它们不能是任何其他形式数字的一部分。我们不能从“三本身”中取出 2 个单位，然后将它们添加到“六本身”的 4 个单位中，以得到“七本身”的形式数字。迈尔斯·伯尼特曾经提出了一个类似于一副扑克牌的序列的类比，比如方块。从 A 到 10 的每张牌上都有相应的方块（从 1 到 10），它们通过在各自的牌上存在而统一。然而，我们不会从二和三中分别数出两个方块，而是将每张牌视为一个完整的统一体。
+2. 可比较/不可比较的单位：形式数字当然是特殊的。每个形式数字都是单位的完整统一体。例如，数字 3 的形式是三个单位的统一体。由于它是一个统一体，这三个单位形成这个统一体并不是偶然的。它们在某种意义上是可比较的，因为它们一起构成了“三本身”，并且可能无法单独构想。因此，它们不能是任何其他形式数字的一部分。我们不能从“三本身”中取出 2 个单位，然后将它们添加到“六本身”的 4 个单位中，以得到“七本身”的形式数字。迈尔斯 · 伯尼特曾经提出了一个类似于一副扑克牌的序列的类比，比如方块。从 A 到 10 的每张牌上都有相应的方块（从 1 到 10），它们通过在各自的牌上存在而统一。然而，我们不会从二和三中分别数出两个方块，而是将每张牌视为一个完整的统一体。
 3. 可比单位：这些是中间或数学数字（见第 6 节）。有无限多个单位（足够进行算术运算），它们被排列等等。可比数字解决了多元性问题，但没有解决统一性问题。
 
 亚里士多德报道称，一些学院派选择了不可比或可比/不可比单位的版本来解决统一性问题，并将可比单位引入数学定理的对象，例如，给定一些可比单位，即使它们可以被分成两半，也可以分成两个对应于（参与）相同形式-数字的连接。
@@ -351,7 +351,7 @@ The standard English translation is given first, and, where appropirate, other m
 
 | Barnes (1975-9): | Barnes, Jonathan, Schofield, Malcolm, and Sorabji, Richard, eds., 1975-9, *Articles on Aristotle*. Vol. 1: Science. Vol. 2: Ethics and Politics. Vol. 3: Metaphysics. Vol. 4: Psychology and Aesthetics. London: Duckworth. |
 | --- | --- |
-| Berti (1981): | Berti, Enrico, ed.. 1981, *Aristotle on Science the «Posterior Analytics.*» Proceedings of the eigth Symposium Aristotelicum, 1978. Padova: Editrice Antenore. |
+| Berti (1981): | Berti, Enrico, ed.. 1981, *Aristotle on Science the «Posterior Analytics.* » Proceedings of the eigth Symposium Aristotelicum, 1978. Padova: Editrice Antenore. |
 | Graeser (1987): | Graeser, A. ed., 1987, *Mathematics and Metaphysics in Aristotle*. Akten des X. Symposium Aristotelicum. Bern: Haupt. |
 | *QS*: | *Quellen und Studien zur Geschichte der Mathematik Astronomie und Physik* Abt. B: Studien |
 
@@ -372,7 +372,7 @@ The standard English translation is given first, and, where appropirate, other m
 * Barnes, Jonathan, 1969, "Aristotle's Theory of Demonstration." *Phronesis* 14: 123-52. Revised in Articles. Vol. 1, ed. Barnes et al., 65-87.
 * Barnes, Jonathan, 1981, "Proof and the Syllogism." In Berti (1981), 17-59.
 * Cleary, John, 1985, "On the Terminology of ‘Abstraction’ in Aristotle." *Phronesis* 300: 13-45.
-* Cleary, John, 1989, "Commentary on Halper's ‘Some Problems in Aristotle's Mathematical Ontology.’" P*roceedings of the Boston Area Colloquium in Ancient Philosophy* 5: 277-290.
+* Cleary, John, 1989, "Commentary on Halper's ‘Some Problems in Aristotle's Mathematical Ontology.’" P *roceedings of the Boston Area Colloquium in Ancient Philosophy* 5: 277-290.
 * Cleary, John J. 1995, *Aristotle & Mathematics: Aporetic Method in Cosmology & Metaphysics*. *Philosophia Antiqua* 67. Leiden: Brill.
 * Gaukroger, Stephen, 1980, "Aristotle on Intelligible Matter." *Phronesis* 25: 187-197.
 * Gomez-Lobo, A, 1977, "Aristotle's Hypotheses and Euclid's Elements." *Review of Metaphysics* 30: 430-439.

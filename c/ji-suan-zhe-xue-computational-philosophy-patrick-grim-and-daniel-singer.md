@@ -20,15 +20,15 @@
 
 ## 莱布尼茨的预期
 
-> 唯一纠正我们的推理的方法是使它们像数学家的推理一样具体，这样我们就可以一眼看出错误，当人们之间发生争执时，我们可以简单地说：让我们计算一下，看看谁是对的。 —— 莱布尼茨，《发现的艺术》（1685 年[1951:51]）
+> 唯一纠正我们的推理的方法是使它们像数学家的推理一样具体，这样我们就可以一眼看出错误，当人们之间发生争执时，我们可以简单地说：让我们计算一下，看看谁是对的。 —— 莱布尼茨，《发现的艺术》（1685 年 [1951: 51]）
 
 哲学论证的形式化历史可以追溯到逻辑的历史一样久远。逻辑是当代计算的历史源泉和基础。我们这里讨论的主题更为具体：将当代计算应用于一系列哲学问题。但这也有其历史，可以在莱布尼茨对计算力量的愿景中看到。
 
-莱布尼茨以在哲学中发展形式技术和设计制造实际计算机器而闻名。1642 年，哲学家布莱兹·帕斯卡发明了帕斯卡计算器，旨在进行加法和减法运算。在 1673 年至 1720 年期间，莱布尼茨设计了一系列用于实现乘法和除法的计算机：阶梯式计算器，采用至今仍被称为莱布尼茨轮的设计（Martin 1925）。唯一幸存的莱布尼茨阶梯计算器于 1879 年被发现，当时工人正在修理哥廷根大学的漏水屋顶。在通信中，莱布尼茨提到使用相同机械原理的加密编码器和解码器。基于这些描述，尼古拉斯·雷施尔（Rescher 2012）制作了一个可行的推测性重建。
+莱布尼茨以在哲学中发展形式技术和设计制造实际计算机器而闻名。1642 年，哲学家布莱兹 · 帕斯卡发明了帕斯卡计算器，旨在进行加法和减法运算。在 1673 年至 1720 年期间，莱布尼茨设计了一系列用于实现乘法和除法的计算机：阶梯式计算器，采用至今仍被称为莱布尼茨轮的设计（Martin 1925）。唯一幸存的莱布尼茨阶梯计算器于 1879 年被发现，当时工人正在修理哥廷根大学的漏水屋顶。在通信中，莱布尼茨提到使用相同机械原理的加密编码器和解码器。基于这些描述，尼古拉斯 · 雷施尔（Rescher 2012）制作了一个可行的推测性重建。
 
 但是，莱布尼茨对计算的能力有着远远超出纯粹算术和密码学的愿景。莱布尼茨 1666 年的《论组合术》吹嘘“组合艺术”作为一种产生新颖思想和发明的方法，以及将复杂思想分析为简单元素的方法（莱布尼茨 1666 [1923]）。莱布尼茨将其描述为“发明之母”，将导致“发现一切事物”，在逻辑、法律、医学和物理学等领域具有应用。这一愿景是在纯粹概念的完美语言中应用一套形式化方法，从而实现推理的普遍机械化（格雷 2016）。
 
-莱布尼茨的组合视野的具体内容可以追溯到大约 1308 年的雷蒙德·卢尔的神秘机制，这些组合机制在乔纳森·斯威夫特于 1726 年的《格列佛游记》中被讽刺，被认为可以让一个人..
+莱布尼茨的组合视野的具体内容可以追溯到大约 1308 年的雷蒙德 · 卢尔的神秘机制，这些组合机制在乔纳森 · 斯威夫特于 1726 年的《格列佛游记》中被讽刺，被认为可以让一个人..
 
 > 在哲学、诗歌、政治、数学和神学领域写书，毫无天赋或学习的帮助。（Swift 1726: 174, Lem 1964 [2013: 359]）
 
@@ -42,7 +42,7 @@
 
 计算哲学或许最容易通过聚焦代理模型在社会认识论、社会政治哲学、科学哲学和语言哲学问题上的应用来介绍。因此，第 3.1 至 3.3 节围绕这些领域中代理模型的例子展开。其他重要的计算方法和其他领域在第 3.4 至 3.6 节中进行讨论。
 
-传统认识论——即柏拉图、休谟、笛卡尔和康德的认识论——处理的是个体层面上的知识获取和验证。传统认识论所关注的问题始终是，作为个体，我如何能够获取客观世界的知识，当我所拥有的只是主观经验时。个体认识论的永恒问题仍然存在，但过去几十年也见证了一种非常不同形式的认识论的兴起。早期由阿尔文·I·戈德曼、海伦·朗吉诺、菲利普·基彻尔和米里亚姆·所罗门等人的研究为社会认识论奠定了基础，现在社会认识论不仅在专门期刊中显现，而且在整个哲学领域中也广泛存在（戈德曼，1987 年；朗吉诺，1990 年；基彻尔，1993 年；所罗门，1994a，1994b；戈德曼和惠特科姆，2011 年；戈德曼和奥康纳，2001 年[2019]；朗吉诺，2019 年）。我作为社会群体的一员获取对世界的知识：这个群体包括构成科学事业的调查者。为了理解知识的获取和验证，我们必须超越个体认识论的层面：我们需要理解科学调查的社会结构、动态和过程。正是在认识论的这种社会转向中，计算建模工具——特别是基于代理的建模——变得特别有用（Klein，Marx 和 Fischbach，2018）。
+传统认识论——即柏拉图、休谟、笛卡尔和康德的认识论——处理的是个体层面上的知识获取和验证。传统认识论所关注的问题始终是，作为个体，我如何能够获取客观世界的知识，当我所拥有的只是主观经验时。个体认识论的永恒问题仍然存在，但过去几十年也见证了一种非常不同形式的认识论的兴起。早期由阿尔文 ·I· 戈德曼、海伦 · 朗吉诺、菲利普 · 基彻尔和米里亚姆 · 所罗门等人的研究为社会认识论奠定了基础，现在社会认识论不仅在专门期刊中显现，而且在整个哲学领域中也广泛存在（戈德曼，1987 年；朗吉诺，1990 年；基彻尔，1993 年；所罗门，1994a，1994b；戈德曼和惠特科姆，2011 年；戈德曼和奥康纳，2001 年 [2019]；朗吉诺，2019 年）。我作为社会群体的一员获取对世界的知识：这个群体包括构成科学事业的调查者。为了理解知识的获取和验证，我们必须超越个体认识论的层面：我们需要理解科学调查的社会结构、动态和过程。正是在认识论的这种社会转向中，计算建模工具——特别是基于代理的建模——变得特别有用（Klein，Marx 和 Fischbach，2018）。
 
 以下两节使用信念变化的计算工作作为社会认识论中基于代理的建模的介绍。与科学交流相关的问题留给第 3.2.2 节和第 3.2.3 节。
 
@@ -52,13 +52,13 @@
 
 一个备受关注的信念变化和观点极化模型是 Hegselmann 和 Krause（2002, 2005, 2006）提出的模型，它提供了一个明确简单的代理技术应用示例。
 
-在 Hegselmann-Krause 模型中，观点被映射为[0, 1]区间内的数字，初始观点在人工群体中以随机均匀方式传播。个体通过取与自己“足够接近”的观点的平均值来更新他们的信念。随着代理的信念改变，可以预期不同一组代理或不同一组价值观将影响进一步更新。该模型中的一个关键参数是什么被视为实际影响的“足够接近”的阈值。
+在 Hegselmann-Krause 模型中，观点被映射为 [0, 1] 区间内的数字，初始观点在人工群体中以随机均匀方式传播。个体通过取与自己“足够接近”的观点的平均值来更新他们的信念。随着代理的信念改变，可以预期不同一组代理或不同一组价值观将影响进一步更新。该模型中的一个关键参数是什么被视为实际影响的“足够接近”的阈值。
 
-图 1 显示了在阈值ε分别设置为 0.01、0.15 和 0.25 时，单次运行中代理意见随时间的变化。在阈值为 0.01 时，个体在大量小的本地群体中保持孤立。在阈值为 0.15 时，代理形成两个永久群体。在阈值为 0.25 时，群体融合为单一的共识意见。这些是典型的代表性案例，运行略有不同。正如所预期的那样，所有结果都取决于个体代理人的数量以及它们在意见空间中的初始随机位置。请参见下面的其他互联网资源部分中 Hegselmann 和 Krause 有界信心模型的交互式模拟。
+图 1 显示了在阈值 ε 分别设置为 0.01、0.15 和 0.25 时，单次运行中代理意见随时间的变化。在阈值为 0.01 时，个体在大量小的本地群体中保持孤立。在阈值为 0.15 时，代理形成两个永久群体。在阈值为 0.25 时，群体融合为单一的共识意见。这些是典型的代表性案例，运行略有不同。正如所预期的那样，所有结果都取决于个体代理人的数量以及它们在意见空间中的初始随机位置。请参见下面的其他互联网资源部分中 Hegselmann 和 Krause 有界信心模型的交互式模拟。
 
 ![three graphs link to extended description below](https://plato.stanford.edu/entries/computational-philosophy/Picture1.png)
 
-图 1：Hegselmann 和 Krause（2002）模型中使用不同阈值ε∈{0.01,0.15,0.25}的单次运行中随时间变化的意见示例。【图 1 的详细描述请参见附录。】
+图 1：Hegselmann 和 Krause（2002）模型中使用不同阈值 ε∈{0.01,0.15,0.25}的单次运行中随时间变化的意见示例。【图 1 的详细描述请参见附录。】
 
 一个关于不同阈值的平均结果的示例出现在图 2 中。这里所代表的不是随时间的变化，而是在不同阈值下给出的最终意见立场。当阈值从 0 上升到大约 0.20 时，有越来越多的结果集中在分布的外缘，它们本身正在向内移动。在 0.22 到 0.26 之间，结果从最终的两个群体迅速过渡到只有一个最终群体的结果。对于更高的值，两侧足够接近，它们会融合成一个中心共识，尽管最终单一群体的确切位置会因每次运行而变化，形成所示的粗大中央尖峰。Hegselmann 和 Krause 描述随着阈值增加而产生的结果进展为经历三个阶段：
 
@@ -66,7 +66,7 @@
 
 ![a 3d graph link to extended description below](https://plato.stanford.edu/entries/computational-philosophy/Picture2.png)
 
-图 2：在 Hegselmann 和 Krause 模型中，针对不同阈值的平衡意见位置频率按比例缩放至[0, 100]（原始轴重新标记；Hegselmann 和 Krause，2002 年）。【图 2 的详细描述请参见附录。】
+图 2：在 Hegselmann 和 Krause 模型中，针对不同阈值的平衡意见位置频率按比例缩放至 [0, 100]（原始轴重新标记；Hegselmann 和 Krause，2002 年）。【图 2 的详细描述请参见附录。】
 
 一些模型进一步完善了 Hegselmann Krause 模型的“有限信心”机制。例如，Deffuant 等人用连续的影响值取代了 Hegselmann-Krause 中的影响尖峰（Deffuant 等，2002 年；Deffuant，2006 年；Meadows & Cliff，2012 年）。代理人再次被分配意见值和阈值（“不确定性”）范围，但代理人 i 的意见对代理人的影响程度与它们范围的重叠比例成正比（意见加上或减去阈值）。意见中心和阈值范围相应更新，导致可能存在范围较窄和较宽的个体。根据更新算法，影响也可能是不对称的：具有较窄容忍范围的个体，Deffuant 等人解释为更高的信心或更低的不确定性，将对具有较宽范围的个体产生更大影响，反之亦然。对于不改变的“固执”个体以及极端代理人的影响也已经被研究，显示出对群体信念变化动态的明显影响。
 
@@ -74,7 +74,7 @@ Eric Olsson 和 Sofi Angere 开发了一个复杂的程序，其中代理之间�
 
 极化的主题在由 Robert Axelrod 发起的细胞自动机模型的早期传统中被预期。Axelrod（1997）的基本前提是，人们倾向于与类似自己的人互动，并倾向于变得更像与之互动的人。但是，如果人们随着时间的推移开始分享彼此的信念（或其他文化特征），为什么我们没有观察到完全的文化融合？Axelrod 模型的核心是一个空间化的模仿机制，它在本地群体内产生文化融合，但也导致群体之间的逐渐差异化和文化隔离。
 
-100 个代理人被布置在一个 10×10 的点阵上，就像图 3 所示。每个代理人与其他四个代理人相连：上、下、左、右。例外情况是在数组的边缘或角落的代理人，它们分别只与三个和两个邻居相连。模型中的代理人具有多个文化“特征”，每个特征携带多个可能的“特质”之一。可以将这些特征看作是分类变量，将特质看作是每个类别中的选项或值。例如，第一个特征可能代表烹饪传统，第二个代表着服装风格，第三个代表音乐，依此类推。在基本配置中，代理人的“文化”由五个特征（F=5）定义，每个特征有 10 个特质（q=10），编号从 0 到 9。代理人 x 可能具有⟨8,7,2,5,4⟩作为文化签名，而代理人 y 则被描述为⟨1,4,4,8,4⟩。代理人固定在点阵位置上，因此也固定了他们的互动伙伴。代理人的互动和模仿速率由邻居相似性决定，其中相似性被定义为携带相同特质的特征位置的百分比。对于五个特征，如果一对代理人恰好共享一个这样的元素，则它们相似度为 20%；如果两个元素匹配，则它们相似度为 40%，依此类推。在刚才给出的例子中，代理人 x 和 y 的相似度为 20%，因为它们只共享一个特征。
+100 个代理人被布置在一个 10×10 的点阵上，就像图 3 所示。每个代理人与其他四个代理人相连：上、下、左、右。例外情况是在数组的边缘或角落的代理人，它们分别只与三个和两个邻居相连。模型中的代理人具有多个文化“特征”，每个特征携带多个可能的“特质”之一。可以将这些特征看作是分类变量，将特质看作是每个类别中的选项或值。例如，第一个特征可能代表烹饪传统，第二个代表着服装风格，第三个代表音乐，依此类推。在基本配置中，代理人的“文化”由五个特征（F = 5）定义，每个特征有 10 个特质（q = 10），编号从 0 到 9。代理人 x 可能具有 ⟨8,7,2,5,4⟩ 作为文化签名，而代理人 y 则被描述为 ⟨1,4,4,8,4⟩。代理人固定在点阵位置上，因此也固定了他们的互动伙伴。代理人的互动和模仿速率由邻居相似性决定，其中相似性被定义为携带相同特质的特征位置的百分比。对于五个特征，如果一对代理人恰好共享一个这样的元素，则它们相似度为 20%；如果两个元素匹配，则它们相似度为 40%，依此类推。在刚才给出的例子中，代理人 x 和 y 的相似度为 20%，因为它们只共享一个特征。
 
 ---
 
@@ -94,11 +94,11 @@ Eric Olsson 和 Sofi Angere 开发了一个复杂的程序，其中代理之间�
 
 图 3：典型的初始“文化”集合，用于一个基本的 Axelrod 风格模型，由 100 个代理人组成，位于一个 10×10 的格子上，每个代理人有五个特征和 10 种可能的特质。标记的视点与其上方的视点共享五个特征中的两个，使其文化相似度得分为 40%（Axelrod，1997）。
 
-对于每次迭代，模型随机选择一个代理人作为活跃代理人，并选择其一个邻居。以两者文化相似度相等的概率，这两个位置进行互动，活跃代理人将其不同的元素之一改变为邻居的元素。例如，如果选择代理人 i=⟨8,7,2,5,4⟩ 作为活跃代理人，并与其邻居代理人 j=⟨8,4,9,5,1⟩ 配对，那么两者将以 40%的概率进行互动，因为它们有两个共同元素。如果互动发生，代理人 i 将改变其不匹配的元素之一以匹配邻居的元素，可能变为 ⟨8,7,2,5,1⟩。这种改变会产生 60%的相似度分数，增加了未来两者之间互动的概率。
+对于每次迭代，模型随机选择一个代理人作为活跃代理人，并选择其一个邻居。以两者文化相似度相等的概率，这两个位置进行互动，活跃代理人将其不同的元素之一改变为邻居的元素。例如，如果选择代理人 i = ⟨8,7,2,5,4⟩ 作为活跃代理人，并与其邻居代理人 j = ⟨8,4,9,5,1⟩ 配对，那么两者将以 40%的概率进行互动，因为它们有两个共同元素。如果互动发生，代理人 i 将改变其不匹配的元素之一以匹配邻居的元素，可能变为 ⟨8,7,2,5,1⟩。这种改变会产生 60%的相似度分数，增加了未来两者之间互动的概率。
 
 在大约 80,000 次迭代过程中，阿克塞尔罗德的模型产生了大片文化特征相同的区域：局部收敛。然而，通常情况下，像所示的数组并不会完全收敛。相反，它们倾向于产生一小部分文化孤立的稳定区域——一组相同的代理人，他们中没有一个与相邻组共享特征，因此无法进一步互动。随着数组的发展，代理人与越来越相似的人频繁互动，与不相似的代理人互动的频率降低。只有局部收敛的机制，会出现一些相似代理人的小区域，这些区域朝着自身的同质性发展，远离其他群体的同质性。根据上述参数，阿克塞尔罗德报告称，在平衡状态下有三个稳定区域的中位数。正是这种全局分离的现象，阿克塞尔罗德称之为“极化”。请参见下面的其他互联网资源部分中阿克塞尔罗德极化模型的交互式模拟。
 
-Axelrod 指出了模型中的许多有趣结果，其中许多结果在后续研究中得到了进一步探讨。结果对于作为参数的特征数 F 和特质数 q 非常敏感。例如，特征数和特质数的变化会导致最终稳定区域的数量呈相反方向变化：稳定区域的数量与特征数 F 呈负相关，但与特质数 q 呈正相关（Klemm 等人，2003 年）。在 Axelrod 的基本情况下，当 F=5 且 q=10 时，在一个 10×10 的格子上，结果是三个稳定区域的中位数。当 q 从 10 增加到 15 时，最终区域的数量从三个增加到 20；增加特质数会显著增加稳定群体的数量。相反，如果将特征数 F 增加到 15，平均稳定区域的数量仅下降到 1.2（Axelrod，1997 年）。对人口规模、配置和动态参数的进一步探索，以及对结果群体相对大小的测量，出现在 Klemm 等人（2003a、b、c、2005 年）和 Centola 等人（2007 年）的研究中。
+Axelrod 指出了模型中的许多有趣结果，其中许多结果在后续研究中得到了进一步探讨。结果对于作为参数的特征数 F 和特质数 q 非常敏感。例如，特征数和特质数的变化会导致最终稳定区域的数量呈相反方向变化：稳定区域的数量与特征数 F 呈负相关，但与特质数 q 呈正相关（Klemm 等人，2003 年）。在 Axelrod 的基本情况下，当 F = 5 且 q = 10 时，在一个 10×10 的格子上，结果是三个稳定区域的中位数。当 q 从 10 增加到 15 时，最终区域的数量从三个增加到 20；增加特质数会显著增加稳定群体的数量。相反，如果将特征数 F 增加到 15，平均稳定区域的数量仅下降到 1.2（Axelrod，1997 年）。对人口规模、配置和动态参数的进一步探索，以及对结果群体相对大小的测量，出现在 Klemm 等人（2003a、b、c、2005 年）和 Centola 等人（2007 年）的研究中。
 
 计算建模承诺的一个结果是关于诸如观点极化这类现象的理解：真实的观点极化可能如何发生，以及如何避免。然而，另一个非常不同的结果是，计算建模既提供又要求对概念和度量的精确性，而这些在理论中可能缺乏。例如，Bramson 等人（2017）认为，“极化”在文献中可能有一系列可能的含义，不同的计算模型使用不同的度量捕捉了其中的不同方面。
 
@@ -122,7 +122,7 @@ Phan Minh Dung（1995）的早期工作，Gregor Betz 构建了一个基于“�
 
 #### 3.2.1 科学理论的网络模型
 
-“计算哲学科学”早在保罗·萨加德（Paul Thagard）的 1988 年就被确立为一本书的标题。他的工作的核心是一个连接主义的 ECHO 程序，该程序构建科学解释的网络结构（Thagard 1992, 2012）。从“解释”、“矛盾”、“数据”和“类似”等节点的状态和关系的输入中，ECHO 使用一组解释连贯性原则来构建一个网络，其中节点之间存在无向的兴奋和抑制链接，这些链接分别连接“连贯”和“不连贯”的节点。例如，如果 p1 到 pm 解释 q，那么 p1 到 pm 中的所有元素都与 q 及彼此连贯，尽管连贯性的权重会根据 p1 到 pm 的数量而减少。如果 p1 与 p2 相矛盾，或者 p1 和 p2 是对同一现象的竞争性解释的一部分，它们就“不连贯”。
+“计算哲学科学”早在保罗 · 萨加德（Paul Thagard）的 1988 年就被确立为一本书的标题。他的工作的核心是一个连接主义的 ECHO 程序，该程序构建科学解释的网络结构（Thagard 1992, 2012）。从“解释”、“矛盾”、“数据”和“类似”等节点的状态和关系的输入中，ECHO 使用一组解释连贯性原则来构建一个网络，其中节点之间存在无向的兴奋和抑制链接，这些链接分别连接“连贯”和“不连贯”的节点。例如，如果 p1 到 pm 解释 q，那么 p1 到 pm 中的所有元素都与 q 及彼此连贯，尽管连贯性的权重会根据 p1 到 pm 的数量而减少。如果 p1 与 p2 相矛盾，或者 p1 和 p2 是对同一现象的竞争性解释的一部分，它们就“不连贯”。
 
 从初始节点激活接近零开始，一致性网络的节点根据其旧激活和来自连接节点的加权输入同步更新，其中“数据”节点被设置为恒定输入 1。一旦网络达到平衡，如果解释性假设 p1 的激活值较高，通常是正的而不是负的，那么它将被认为击败另一个 p2（见图 5）。
 
@@ -138,7 +138,7 @@ Thagard 能够展示这样一个算法有效地反映了关于理论选择的一
 
 图 6：一个简单贝叶斯网络的标准示例。【图 6 的详细描述请参见补充说明。】
 
-贝叶斯网络节点的值的变化（例如对证据的响应）通过在每个节点应用的信念传播算法进行更新。对来自父节点的输入的响应更新使用链接的条件概率。父节点对来自子节点的输入的响应使用相关的似然比（另请参阅 Bringsjord & Govindarajulu 2018 [2019]中关于贝叶斯网络的补充）。将某些变量视为假设，将其他变量视为证据，可以轻松地从这样的结构中读取核心科学概念的简单实例。简单的解释涉及展示变量“下游”的值如何取决于“上游”的模式。简单的确认涉及增加节点 h 上游的概率或信念程度，鉴于下游的证据 e。评估竞争假设包括计算不同上游模式的比较概率。网络的一个明显解读是作为因果图。
+贝叶斯网络节点的值的变化（例如对证据的响应）通过在每个节点应用的信念传播算法进行更新。对来自父节点的输入的响应更新使用链接的条件概率。父节点对来自子节点的输入的响应使用相关的似然比（另请参阅 Bringsjord & Govindarajulu 2018 [2019] 中关于贝叶斯网络的补充）。将某些变量视为假设，将其他变量视为证据，可以轻松地从这样的结构中读取核心科学概念的简单实例。简单的解释涉及展示变量“下游”的值如何取决于“上游”的模式。简单的确认涉及增加节点 h 上游的概率或信念程度，鉴于下游的证据 e。评估竞争假设包括计算不同上游模式的比较概率。网络的一个明显解读是作为因果图。
 
 正如 Pearl 所指出的，贝叶斯网络不过是涉及变量的联合概率的巨大表格的图形表示（Pearl & Mackenzie 2018: 129）。然而，对于任何数量可观的变量，计算变得难以人力承受，因此关键在于使用计算机。贝叶斯网络如此计算密集的事实实际上是 Thagard 反对将其用作人类认知加工模型的一个观点（Thagard 1992: 201）。但这并不是针对其他哲学解释的反对意见。在科学哲学中将其应用于因果性的哲学问题的详细内容可参考 Spirtes, Glymour, 和 Scheines（1993）以及 Sprenger 和 Hartmann（2019）。贝叶斯网络现在已成为人工智能领域的一种标准，在其应用中无处不在，并已开发出强大的算法来从海量数据中提取因果网络。
 
@@ -148,7 +148,7 @@ Thagard 能够展示这样一个算法有效地反映了关于理论选择的一
 
 有人可能会认为，更多的调查人员对更多数据的访问将不可避免地优化调查团体的寻求真相的目标。根据这种直觉，更快速、更完整的沟通——即互联网的当代科学——将使对自然的探索更快速、更准确、更深入。然而，令人惊讶的是，这种建模的第一条线索提供了有力的论据，支持有限沟通的潜在好处。
 
-在理性选择理论的精神指导下，这项工作的灵感主要来自 Venkatesh Bala 和 Sanjeev Goyal（1998）在经济学中对无限人口的分析工作，由 Kevin Zollman（2007、2010a、2010b）在有限环境中为小人口进行计算实现，并关注哲学含义。在 Zollman 的模型中，贝叶斯代理在当前方法ϕ1 和被设定为更好方法ϕ2 之间进行选择，从随机信念开始，并允许代理人追求具有最高主观效用的调查行动。代理根据自己的测试结果（从该行动的分布中抽取）以及与其进行交流连接的其他代理的结果来更新他们的信念。当所有代理人都收敛于更好的ϕ2 时，认为社区已成功学习。
+在理性选择理论的精神指导下，这项工作的灵感主要来自 Venkatesh Bala 和 Sanjeev Goyal（1998）在经济学中对无限人口的分析工作，由 Kevin Zollman（2007、2010a、2010b）在有限环境中为小人口进行计算实现，并关注哲学含义。在 Zollman 的模型中，贝叶斯代理在当前方法 ϕ1 和被设定为更好方法 ϕ2 之间进行选择，从随机信念开始，并允许代理人追求具有最高主观效用的调查行动。代理根据自己的测试结果（从该行动的分布中抽取）以及与其进行交流连接的其他代理的结果来更新他们的信念。当所有代理人都收敛于更好的 ϕ2 时，认为社区已成功学习。
 
 Zollman 的结果如图 7 所示，适用于图 8 中显示的三个简单网络。表现最佳的通信网络不是完全连接的网络，其中所有调查人员都可以访问其他人的所有结果，而是由环表示的最大分布网络。正如 Zollman 所展示的那样，这也是需要最长时间才能实现收敛的配置。在下面的其他互联网资源部分查看 Zollman 模型简化版本的交互式模拟。
 
@@ -244,11 +244,11 @@ Weisberg 和 Muldoon 的景观有两种观点，如图 12 所示。在他们的�
 
 Weisberg 和 Muldoon 测量了代理群体发现最高峰的比例以及发现峰值的速度。他们报告说，当包括特立独行者时，追随者群体的认识成功会增加，并且这种效果的解释在于特立独行者可以为追随者提供路径：“特立独行者帮助许多追随者摆脱困境，探索认识景观中更有成效的领域”（有关详细信息，请参见 Weisberg & Muldoon 2009: 247 ff）。在这个背景下，他们提出了关于结合不同研究策略对认识社区价值的广泛主张。他们的模型所建议的最佳分工是“健康数量的追随者和少量的特立独行者”。
 
-对 Weisberg 和 Muldoon 模型的批评者认为，该模型存在简单的实施错误，其中使用>=代替>，导致他们的软件代理实际上并不按照其概述的策略运作（Alexander, Himmelreich, & Thomson 2015）。在实施时，他们的追随者往往陷入在两个等价空间之间振荡（通常值为 0）。据批评者称，当追随者得到正确实施时，结果表明特立独行者仅通过他们自己的发现帮助社区的成功，而不是通过使本不应该被困住的追随者“解脱”（另见 Thoma 2015）。如果批评者是正确的，那么 Weisberg-Muldoon 模型最初的实施证明不足以作为支持分工和战略多样性对于重要认识驱动力的哲学依据。在下面的其他互联网资源部分有 Weisberg 和 Muldoon 模型的交互式模拟，其中包括切换将>=更改为>的功能。
+对 Weisberg 和 Muldoon 模型的批评者认为，该模型存在简单的实施错误，其中使用 >= 代替 >，导致他们的软件代理实际上并不按照其概述的策略运作（Alexander, Himmelreich, & Thomson 2015）。在实施时，他们的追随者往往陷入在两个等价空间之间振荡（通常值为 0）。据批评者称，当追随者得到正确实施时，结果表明特立独行者仅通过他们自己的发现帮助社区的成功，而不是通过使本不应该被困住的追随者“解脱”（另见 Thoma 2015）。如果批评者是正确的，那么 Weisberg-Muldoon 模型最初的实施证明不足以作为支持分工和战略多样性对于重要认识驱动力的哲学依据。在下面的其他互联网资源部分有 Weisberg 和 Muldoon 模型的交互式模拟，其中包括切换将 >= 更改为 > 的功能。
 
 批评者并不否认 Weisberg 和 Muldoon 得出的总体结论：认知多样性或认知劳动分工可以促进社会认识论结果。他们否认的是 Weisberg 和 Muldoon 的模型是否充分支持这一结论。一个特别引人注目的模型，支持这一结论，建立在一种非常不同的多样性模型基础上，就是 Hong 和 Page（2004）的模型。但它也支持了 Alexander 等人强调的一点：认知多样性的优势在很大程度上取决于所探索的认识景观。
 
-陆鸿（Lu Hong）和斯科特·佩奇（Scott Page）在一个包围成环的二维景观中工作，共有 2000 个点。每个点被分配一个介于 1 和 100 之间的随机值。他们的认识个体使用由三个有序数字组成的启发式方法来探索这个景观，这些数字介于 1 到 12 之间。举个例子来说明。考虑一个在景观上第 112 点处具有启发式 ⟨2,4,7⟩ 的个体。他首先使用他的启发式 2 来查看右侧两个点——在 114 点——是否比他当前位置的值更高。如果是，他就移动到那个点。如果不是，他就原地不动。从那一点开始，无论是哪个点，他都会使用他的启发式 4 来查看右侧 4 步的点是否有更高的峰值，依此类推。一个代理人会反复循环使用他的启发式数字，直到他到达一个点，该点周围没有任何一个点的值比他的启发式提供的值更高。这个基本动态在图 13 中有所说明。
+陆鸿（Lu Hong）和斯科特 · 佩奇（Scott Page）在一个包围成环的二维景观中工作，共有 2000 个点。每个点被分配一个介于 1 和 100 之间的随机值。他们的认识个体使用由三个有序数字组成的启发式方法来探索这个景观，这些数字介于 1 到 12 之间。举个例子来说明。考虑一个在景观上第 112 点处具有启发式 ⟨2,4,7⟩ 的个体。他首先使用他的启发式 2 来查看右侧两个点——在 114 点——是否比他当前位置的值更高。如果是，他就移动到那个点。如果不是，他就原地不动。从那一点开始，无论是哪个点，他都会使用他的启发式 4 来查看右侧 4 步的点是否有更高的峰值，依此类推。一个代理人会反复循环使用他的启发式数字，直到他到达一个点，该点周围没有任何一个点的值比他的启发式提供的值更高。这个基本动态在图 13 中有所说明。
 
 ![a jagged line link to extended description below](https://plato.stanford.edu/entries/computational-philosophy/Picture13.png)
 
@@ -270,13 +270,13 @@ Hong 和 Page 的景观是这样的：2000 个点中的每一个都被赋予一�
 
 ### 3.3 伦理学和社会政治哲学
 
-> 那么，对于这个以自我为中心、天生不合群的存在，与类似存在并存的人应该采取什么行为，什么是合理的行为方式呢？ —— 亨利·西奇威克（Henry Sidgwick），《伦理学史纲要》（1886: 162）
+> 那么，对于这个以自我为中心、天生不合群的存在，与类似存在并存的人应该采取什么行为，什么是合理的行为方式呢？ —— 亨利 · 西奇威克（Henry Sidgwick），《伦理学史纲要》（1886: 162）
 
 Hobbes 的《利维坦》可以被理解为在问，与 Sidgwick 一起，合作如何能在自私的社会中出现（Hobbes，1651）。因此，合作是伦理学和社会政治哲学中的一个中心主题。
 
 #### 3.3.1 博弈论与合作演化
 
-博弈论一直是许多关于合作的哲学思考中的主要工具，通过计算方法进行扩展。这里的主要例子是囚徒困境，这是两个代理之间的战略互动，有一个收益矩阵，其中联合合作比联合背叛获得更高的回报，但当另一个玩家合作时，背叛的玩家获得最高回报（参见尤其是库恩，1997 年[2019 年]）。形式上，囚徒困境要求背叛对合作的价值 DC 高于联合合作的价值 CC，而 CC 高于合作对抗背叛的回报 CD。为了避免交替权衡的优势，CC 还应高于(CD+DC)/2。一个符合这些要求的简单数值集合显示在图 14 的矩阵中。
+博弈论一直是许多关于合作的哲学思考中的主要工具，通过计算方法进行扩展。这里的主要例子是囚徒困境，这是两个代理之间的战略互动，有一个收益矩阵，其中联合合作比联合背叛获得更高的回报，但当另一个玩家合作时，背叛的玩家获得最高回报（参见尤其是库恩，1997 年 [2019 年]）。形式上，囚徒困境要求背叛对合作的价值 DC 高于联合合作的价值 CC，而 CC 高于合作对抗背叛的回报 CD。为了避免交替权衡的优势，CC 还应高于(CD+DC)/2。一个符合这些要求的简单数值集合显示在图 14 的矩阵中。
 
 | | 玩家 A | | --- | --- | --- | --- | | 合作 | 背叛 | | 玩家 B | 合作 | 3,3 | 0,5 | | 背叛 | 5,0 | 1,1 |
 
@@ -284,9 +284,9 @@ Hobbes 的《利维坦》可以被理解为在问，与 Sidgwick 一起，合作
 
 在“一次性”囚徒困境中，很明显背叛是严格占优势的：无论另一位玩家是合作还是背叛，通过背叛都可以获得更多分数。但如果背叛总是带来更高的回报，那么合作有什么意义呢？在霍布斯式的自私主义者人口中，以囚徒困境中的回报为例，我们似乎应该预期相互背叛既是理所当然的事情，也是理性的结果——霍布斯所说的“人人自相残杀”。自私主义者人口如何能够合作？道德上的合作愿望如何产生并持续存在？
 
-已经显示出支持合作出现的几种机制：亲缘选择（Fisher 1930; Haldane 1932）、绿色胡须（Hamilton 1964a,b; Dawkins 1976）、秘密握手（Robson 1990; Wiseman & Yilankaya 2001）、迭代博弈、空间化和结构化互动（Grim 1995; Skyrms 1996, 2004; Grim, Mar, & St. Denis 1998; Alexander 2007），以及嘈杂信号（Nowak & Sigmund 1992）。本节提供了最后两种机制的示例。
+已经显示出支持合作出现的几种机制：亲缘选择（Fisher 1930; Haldane 1932）、绿色胡须（Hamilton 1964a, b; Dawkins 1976）、秘密握手（Robson 1990; Wiseman & Yilankaya 2001）、迭代博弈、空间化和结构化互动（Grim 1995; Skyrms 1996, 2004; Grim, Mar, & St. Denis 1998; Alexander 2007），以及嘈杂信号（Nowak & Sigmund 1992）。本节提供了最后两种机制的示例。
 
-在重复的囚徒困境中，玩家重复他们的互动，无论是在固定数量的回合中还是在无限或不确定的重复中。罗伯特·阿克塞尔罗德（Robert Axelrod）在上世纪 80 年代初的锦标赛是囚徒困境中经典研究，也是计算技术应用的早期例子。从各个领域的专家那里征集了囚徒困境的游戏策略，这些策略在 200 轮的循环赛中与其他所有人（包括自己）进行对抗。众所周知，获胜的策略是“以牙还牙”（Tit for Tat），这是一种简单的策略，对上一轮对方的合作作出合作回应，对上一轮对方的背叛作出背叛回应。更令人惊讶的是，“以牙还牙”在第二次锦标赛中再次脱颖而出，尽管提交的策略知道“以牙还牙”是要瞄准的对手。当这些相同的策略在复制动力学中被探索时，取代了循环赛的比赛，“以牙还牙”再次成为赢家（Axelrod 和 Hamilton，1981 年）。进一步的研究在一定程度上削弱了“以牙还牙”的声誉，强调了阿克塞尔罗德锦标赛的结构和提交的策略的限制（Kendall，Yao 和 Chang，2007 年；Kuhn，1997 年[2019 年]）。
+在重复的囚徒困境中，玩家重复他们的互动，无论是在固定数量的回合中还是在无限或不确定的重复中。罗伯特 · 阿克塞尔罗德（Robert Axelrod）在上世纪 80 年代初的锦标赛是囚徒困境中经典研究，也是计算技术应用的早期例子。从各个领域的专家那里征集了囚徒困境的游戏策略，这些策略在 200 轮的循环赛中与其他所有人（包括自己）进行对抗。众所周知，获胜的策略是“以牙还牙”（Tit for Tat），这是一种简单的策略，对上一轮对方的合作作出合作回应，对上一轮对方的背叛作出背叛回应。更令人惊讶的是，“以牙还牙”在第二次锦标赛中再次脱颖而出，尽管提交的策略知道“以牙还牙”是要瞄准的对手。当这些相同的策略在复制动力学中被探索时，取代了循环赛的比赛，“以牙还牙”再次成为赢家（Axelrod 和 Hamilton，1981 年）。进一步的研究在一定程度上削弱了“以牙还牙”的声誉，强调了阿克塞尔罗德锦标赛的结构和提交的策略的限制（Kendall，Yao 和 Chang，2007 年；Kuhn，1997 年 [2019 年]）。
 
 在图 15 中展示了一个简单的包括八种“反应性”策略的集合，其中玩家仅根据对手的先前动作行动。用“1”表示合作，“0”表示背叛，三个位置分别代表第一步 i，对对方合作的反应 c，以及对对方背叛的反应 d，这给我们提供了 8 种策略，包括全部背叛、全部合作、以及几种其他变体。
 
@@ -327,13 +327,13 @@ Martin Nowak 和 Karl Sigmund 提出了另一种变体，导致囚徒困境中�
 
 Nowak 和 Sigmund 用均匀随机策略取代图 14 中的“完美”策略，反映了一个充满嘈杂信号和行动的世界。现在最接近全叛的策略将是 .01, .01, .01，表明该策略最初只有 99% 的叛逆几率，并对合作或叛逆做出反应。最接近“以牙还牙”的策略将是 .99, .99, .01，仅表示以高概率开始合作，并对合作做出合作回应，对叛逆做出叛逆回应。通过数学虚构一个无限游戏，Nowak 和 Sigmund 能够忽略初始值。
 
-将这种类型的全范围随机策略在计算机化比赛中相互对抗，使用类似 Axelrod 和 Hamilton（1981）的复制动力学，Nowak 和 Sigmund 追踪策略的逐步演变。计算机模拟显示，不完全全反击是早期的赢家，随后是不完全以牙还牙。但在那一点上，人口中的主导地位转向了一个更具合作性的策略，该策略在合作时合作的时间占 99%，甚至在遇到叛变时也有 10%的合作。这种策略最终被一个在遇到叛变时有 20%的合作率的策略所取代，然后是一个在遇到叛变时有 30%的合作率的策略。Nowak 和 Sigmund 的结果的复制显示在图 17 中。Nowak 和 Sigmund 在分析中表明，在信息嘈杂的世界中，最成功的策略将是“慷慨以牙还牙”，对于合作对合作和叛变分别具有 1−ε和 1/3 的概率。
+将这种类型的全范围随机策略在计算机化比赛中相互对抗，使用类似 Axelrod 和 Hamilton（1981）的复制动力学，Nowak 和 Sigmund 追踪策略的逐步演变。计算机模拟显示，不完全全反击是早期的赢家，随后是不完全以牙还牙。但在那一点上，人口中的主导地位转向了一个更具合作性的策略，该策略在合作时合作的时间占 99%，甚至在遇到叛变时也有 10%的合作。这种策略最终被一个在遇到叛变时有 20%的合作率的策略所取代，然后是一个在遇到叛变时有 30%的合作率的策略。Nowak 和 Sigmund 的结果的复制显示在图 17 中。Nowak 和 Sigmund 在分析中表明，在信息嘈杂的世界中，最成功的策略将是“慷慨以牙还牙”，对于合作对合作和叛变分别具有 1−ε 和 1/3 的概率。
 
 ![a 2d graph; link to extended description below](https://plato.stanford.edu/entries/computational-philosophy/Picture17.png)
 
-图 17：在信息不完全的世界中朝向 Nowak 和 Sigmund 的“慷慨予以报答”演变（Nowak＆Sigmund，1992 年）。人口比例垂直显示为标记的策略，在 121 个随机策略⟨c，d⟩的初始池中，通过 12,000 代代代显示在 0.1 间隔上，完整值 0 和 1 被 0.01 和 0.99 替换（Grim，Mar 和 St. Denis，1998 年）。【图 17 的详细描述在附录中。】
+图 17：在信息不完全的世界中朝向 Nowak 和 Sigmund 的“慷慨予以报答”演变（Nowak＆Sigmund，1992 年）。人口比例垂直显示为标记的策略，在 121 个随机策略 ⟨c，d⟩ 的初始池中，通过 12,000 代代代显示在 0.1 间隔上，完整值 0 和 1 被 0.01 和 0.99 替换（Grim，Mar 和 St. Denis，1998 年）。【图 17 的详细描述在附录中。】
 
-在自私自利的社会中，合作如何产生？在囚徒困境的博弈论背景下，这些结果表明，迭代互动、空间化和结构化互动以及嘈杂信息都可以促进合作，至少以“以牙还牙”等策略的形式。当这三种效应结合在一起时，结果似乎是一种合作水平，甚至超过了 Nowak 和 Sigmund 所指示的水平。在使用随机策略的空间化囚徒困境中，概率为 1−ε和 2/3 的策略被认为是最优的，因为它们在与自身对抗时得分最高，同时不容易受到其他策略小集群的入侵（Grim 1996；Grim，Mar 和 St. Denis 1998）。
+在自私自利的社会中，合作如何产生？在囚徒困境的博弈论背景下，这些结果表明，迭代互动、空间化和结构化互动以及嘈杂信息都可以促进合作，至少以“以牙还牙”等策略的形式。当这三种效应结合在一起时，结果似乎是一种合作水平，甚至超过了 Nowak 和 Sigmund 所指示的水平。在使用随机策略的空间化囚徒困境中，概率为 1−ε 和 2/3 的策略被认为是最优的，因为它们在与自身对抗时得分最高，同时不容易受到其他策略小集群的入侵（Grim 1996；Grim，Mar 和 St. Denis 1998）。
 
 这个大纲着重介绍了囚徒困境和合作的一些基本背景。最近出现了一代更丰富的博弈论模型，使用了更多种类的冲突和协调游戏，并与社会和政治哲学中的历史先例更紧密地联系在一起。对霍布斯自然状态场景的新博弈论分析出现在范德斯克拉夫（2006 年）和钟（2015 年）中，通过模拟扩展到包括洛克和诺齐克在布鲁纳（即将出版）中。
 
@@ -365,7 +365,7 @@ Nowak 和 Sigmund 用均匀随机策略取代图 14 中的“完美”策略，�
 
 跨学科主题“复杂系统”的指导思想是，较高层次的现象可以从较低层次的复杂互动中“涌现”（Waldrop 1992，Kauffman 1995，Mitchell 2011，Krakauer 2019）。社会结果从个体选择的互动中涌现是一个自然的目标，而基于代理的建模是一个自然的工具。
 
-观点极化和合作演化，如上所述，都符合这一模式。另一个经典例子是托马斯·C·谢林关于住宅隔离的研究。看一眼美国城市的人口统计地图，住宅隔离的事实显而易见：种族和族裔群体呈现为明显区分的区域（见图 19）。这是否是美国生活中猖獗种族主义的明显迹象？
+观点极化和合作演化，如上所述，都符合这一模式。另一个经典例子是托马斯 ·C· 谢林关于住宅隔离的研究。看一眼美国城市的人口统计地图，住宅隔离的事实显而易见：种族和族裔群体呈现为明显区分的区域（见图 19）。这是否是美国生活中猖獗种族主义的明显迹象？
 
 ![see caption, red, purple, green, and orange are all clustered](https://plato.stanford.edu/entries/computational-philosophy/Picture19.png)
 
@@ -395,7 +395,7 @@ Schelling 从这样一个模型中得出的结论只是，低水平的偏好就�
 
 WordNet 是由 George Miller 在 1985 年建立的英语计算词汇数据库，具有层次结构的语义类别，旨在反映关于人类加工的经验观察。一个类别“鸟”包括一个子类别“鸣禽”，例如，“金丝雀”作为一个特定的例子，旨在解释这样一个事实：受试者可以更快地处理“金丝雀在唱歌”——这涉及穿越一个类别步骤——而不是处理“金丝雀在飞行”（Miller, Beckwith, Fellbaum, Gross, & Miller 1990）。
 
-在心理学、语言学和哲学领域，有着悠久的传统，认为类比和隐喻是抽象推理和创造力的重要关键（Black 1962; Hesse 1943 [1966]; Lakoff & Johnson 1980; Gentner 1982; Lakoff & Turner 1989）。从 20 世纪 80 年代开始，人们开始尝试运用计算工具来理解和生成类比。道格拉斯·霍夫斯塔德和梅兰妮·米切尔开发的 Copycat 被构建为高层认知模型，其中“代码片段”在网络中竞争，以回答类比的简单问题：“abc 对 abd，ijk 对什么？”（Hofstadter 2008）。Holyoak 和 Thagard 将隐喻视为源领域和目标领域在语义上不同的类比，呼吁在两个语义网络之间进行关系比较（Holyoak & Thagard 1989, 1995; 另见 Falkenhainer, Forbus, & Gentner 1989）。在 Holyoak 和 Thagard 的模型中，这些比较受到多种方式的限制，要求保持连贯性；他们关于隐喻连贯性的计算建模实际上是 Thagard 上述科学理论变化连贯性建模的直接前身（Thagard 1988, 1992）。
+在心理学、语言学和哲学领域，有着悠久的传统，认为类比和隐喻是抽象推理和创造力的重要关键（Black 1962; Hesse 1943 [1966]; Lakoff & Johnson 1980; Gentner 1982; Lakoff & Turner 1989）。从 20 世纪 80 年代开始，人们开始尝试运用计算工具来理解和生成类比。道格拉斯 · 霍夫斯塔德和梅兰妮 · 米切尔开发的 Copycat 被构建为高层认知模型，其中“代码片段”在网络中竞争，以回答类比的简单问题：“abc 对 abd，ijk 对什么？”（Hofstadter 2008）。Holyoak 和 Thagard 将隐喻视为源领域和目标领域在语义上不同的类比，呼吁在两个语义网络之间进行关系比较（Holyoak & Thagard 1989, 1995; 另见 Falkenhainer, Forbus, & Gentner 1989）。在 Holyoak 和 Thagard 的模型中，这些比较受到多种方式的限制，要求保持连贯性；他们关于隐喻连贯性的计算建模实际上是 Thagard 上述科学理论变化连贯性建模的直接前身（Thagard 1988, 1992）。
 
 Eric Steinhart 和 Eva Kittay 的 NETMET（见其他互联网资源）提供了对类比和隐喻的关系方法的示例。他们使用一个与生产相关的语义和推理子网来产生另一个与《泰特托斯》中的理念理论相关的子网。每个子网都根据包含、产生、丢弃、帮助、传递、表达和对立的关系进行分类。基于这一基础，NETMET 生成了诸如“苏格拉底是个助产士”、“思维是一个智慧的子宫”、“一个理念是思维的孩子”、“一些理念是死胎”等隐喻（Steinhart 1994；Steinhart & Kittay 1994）。NETMET 可应用于大型语言数据库，如 WordNet。
 
@@ -413,17 +413,17 @@ David Lewis 的发送者-接收者博弈是一种合作博弈，发送者观察�
 
 我们的许多计算哲学示例都是模拟的例子，通常是通过基于代理的建模进行社会模拟。但也有一种强大的传统，即使用计算不是在模拟中，而是作为机械化和扩展哲学论证的一种方式（通常被理解为演绎证明），在逻辑哲学中有应用，最终在义务逻辑、形而上学和宗教哲学中也有应用。
 
-在 1956 年的夏季达特茅斯会议上，组织者创造了术语“人工智能”。该会议的一个亮点是由卡内基梅隆大学的艾伦·纽厄尔（Allen Newell）和赫伯特·西蒙（Herbert Simon）开发的用于构建逻辑证明的计算程序，由 J. C. 肖（J. C. Shaw）在高级研究院（Institute for Advanced Study）的 JOHNNIAC 计算机上使用真空管进行编程（Bringsjord & Govindarajulu 2018 [2019]）。纽厄尔和西蒙的“逻辑理论家”从怀特海德（Whitehead）和罗素（Russell）的《数学原理》（1910 年，1912 年，1913 年）第二章中得到 52 个定理，成功证明了其中的 38 个，其中包括一种比怀特海德和罗素自己更优雅的证明（MacKenzie 1995，Loveland 1984，Davis 1957 [1983]）。罗素本人也对此印象深刻。
+在 1956 年的夏季达特茅斯会议上，组织者创造了术语“人工智能”。该会议的一个亮点是由卡内基梅隆大学的艾伦 · 纽厄尔（Allen Newell）和赫伯特 · 西蒙（Herbert Simon）开发的用于构建逻辑证明的计算程序，由 J. C. 肖（J. C. Shaw）在高级研究院（Institute for Advanced Study）的 JOHNNIAC 计算机上使用真空管进行编程（Bringsjord & Govindarajulu 2018 [2019]）。纽厄尔和西蒙的“逻辑理论家”从怀特海德（Whitehead）和罗素（Russell）的《数学原理》（1910 年，1912 年，1913 年）第二章中得到 52 个定理，成功证明了其中的 38 个，其中包括一种比怀特海德和罗素自己更优雅的证明（MacKenzie 1995，Loveland 1984，Davis 1957 [1983]）。罗素本人也对此印象深刻。
 
-> 我很高兴地得知《数学原理》现在可以由机器完成……我非常愿意相信演绎逻辑中的一切都可以由机器完成。（致赫伯特·西蒙的信，1956 年 11 月 2 日；引自奥利里，1991 年：52）
+> 我很高兴地得知《数学原理》现在可以由机器完成……我非常愿意相信演绎逻辑中的一切都可以由机器完成。（致赫伯特 · 西蒙的信，1956 年 11 月 2 日；引自奥利里，1991 年：52）
 
-尽管可能有人声称提前预见，其中最引人注目的可能是马丁·戴维斯（Martin Davis）于 1950 年实现了莫谢斯·普雷斯布格（Mojsesz Presburger）算术片段决策程序的计算机实现（Davis 1957），但逻辑理论家通常被视为第一个自动定理证明器。然而，纽厄尔（Newell）和西蒙（Simon）的目标并不是逻辑证明者，而是为智能或思考机器提供概念证明。根据西蒙自己的说法，他们拒绝了几何证明，因为太过依赖图表，拒绝了象棋，因为太难，于是转向逻辑，因为《数学原理》碰巧在他的书架上。
+尽管可能有人声称提前预见，其中最引人注目的可能是马丁 · 戴维斯（Martin Davis）于 1950 年实现了莫谢斯 · 普雷斯布格（Mojsesz Presburger）算术片段决策程序的计算机实现（Davis 1957），但逻辑理论家通常被视为第一个自动定理证明器。然而，纽厄尔（Newell）和西蒙（Simon）的目标并不是逻辑证明者，而是为智能或思考机器提供概念证明。根据西蒙自己的说法，他们拒绝了几何证明，因为太过依赖图表，拒绝了象棋，因为太难，于是转向逻辑，因为《数学原理》碰巧在他的书架上。
 
 Simon 和 Newell 的主要目标并不是一个优化的定理证明器，而是一台在某种程度上与人类智能相匹配的“思考机器”。因此，他们依赖启发式方法，被认为是与人类策略相匹配的，这种方法后来被王浩嘲笑。
 
 > 不需要用屠刀杀鸡，然而，总体印象是纽厄尔-肖-西蒙甚至未能杀死那只鸡……通过选择一种特别低效的算法来论证“启发式”方法优越性似乎并不公正。 (Wang 1960: 3)
 
-后来的定理证明器更加关注证明本身，而不是人类推理模型。到了 1960 年，王浩（Hao Wang）、保罗·吉尔莫（Paul Gilmore）和达格·普拉维茨（Dag Prawitz）已经为全一阶谓词演算开发了计算机定理证明器（Wang 1960，MacKenzie 1995）。在 1990 年代，威廉·麦克尤恩（William McCune）开发了 Otter，这是一个广泛分布且易于访问的一阶逻辑证明器（McCune & Wos 1997，Kalman 2001）。一个更近期的版本是 Prover9，结合了在 Mace4 中搜索模型和反例。Prover9 推导的示例可以在其他互联网资源中找到。一个当代的替代方案是 Vampire，由安德烈·沃龙科夫（Andrei Voronkov）、克里斯托夫·霍德雷（Kryštof Hodere）和亚历山大·里扎诺夫（Alexander Rizanov）开发（Riazanov & Voronkov 2002）。
+后来的定理证明器更加关注证明本身，而不是人类推理模型。到了 1960 年，王浩（Hao Wang）、保罗 · 吉尔莫（Paul Gilmore）和达格 · 普拉维茨（Dag Prawitz）已经为全一阶谓词演算开发了计算机定理证明器（Wang 1960，MacKenzie 1995）。在 1990 年代，威廉 · 麦克尤恩（William McCune）开发了 Otter，这是一个广泛分布且易于访问的一阶逻辑证明器（McCune & Wos 1997，Kalman 2001）。一个更近期的版本是 Prover9，结合了在 Mace4 中搜索模型和反例。Prover9 推导的示例可以在其他互联网资源中找到。一个当代的替代方案是 Vampire，由安德烈 · 沃龙科夫（Andrei Voronkov）、克里斯托夫 · 霍德雷（Kryštof Hodere）和亚历山大 · 里扎诺夫（Alexander Rizanov）开发（Riazanov & Voronkov 2002）。
 
 为了高阶逻辑而开发的定理证明器采用了各种方法，包括 TPS (Andrews 和 Brown 2006)，Leo-II 和 -III (Benzmüller, Sultana, Paulson, & Theiß 2015; Steen & Benzmüller 2018)，以及最为突出的 HOL 和特别是开发友好的 Isabelle/HOL (Gordon & Melham 1993; Paulson 1990)。通过巧妙的实现和扩展，这些工具还允许自动化处理模态、义务、认知、直觉主义和半一致逻辑的方面，这些逻辑在计算机科学、机器人技术和人工智能领域具有重要意义 (McRobbie 1991; Abe, Akama, & Nakamatsu 2015)。
 
@@ -433,7 +433,7 @@ Simon 和 Newell 的主要目标并不是一个优化的定理证明器，而是
 
 计算哲学中的一项重大进展之一是将定理证明器应用于对古典哲学立场和论证的分析。从一个形而上学对象理论的公理出发，Zalta 及其合作者使用 Prover9 和 Mace 建立关于可能世界的定理，比如声称每个可能世界都是极大的，莱布尼茨的模态定理，以及从柏拉图的形式理论中得出的结论（Fitelson & Zalta 2007; Alama, Oppenheimer, & Zalta 2015; Kirchner, Benzmüller, & Zalta 2019）。
 
-本体论论证的版本在最近使用定理证明器进行的工作中形成了一个重要的主题，这既因为它们本身的趣味性，也因为它们带来的技术挑战。Prover9 和 Mace 最近又被 Jack Horner 用来分析斯宾诺莎《伦理学》中的一个本体论论证版本（被发现无效），并提出了一个替代方案（Horner 2019）。对安瑟尔姆的本体论论证版本进行了大量工作（Oppenheimer & Zalta 2011；Garbacz 2012；Rushby 2018）。Christoph Benzmüller 及其同事们应用了高阶定理证明器，包括 Isabelle/HOL 以及他们自己的 Leo-II 和 Leo-III，来分析库尔特·哥德尔论文中的一个本体论论证版本（Benzmüller & Paelo 2016a, 2016b；Benzmüller, Weber, & Paleo 2017；Benzmüller & Fuenmayor 2018）。在哥德尔的原始论证中发现了一个先前未注意到的不一致性，尽管这在 Dana Scott 的转录中被避免了。定理证明器证实了哥德尔的论证导致了模态坍缩——所有真理都变成了必然真理。通过定理证明器的分析清楚地表明，C. Anthony Anderson 和 Melvin Fitting 提出的变体避免了这一后果，但方式有着重要的不同（Benzmüller & Paleo 2014；Kirchner, Benzmüller, & Zalta 2019）。
+本体论论证的版本在最近使用定理证明器进行的工作中形成了一个重要的主题，这既因为它们本身的趣味性，也因为它们带来的技术挑战。Prover9 和 Mace 最近又被 Jack Horner 用来分析斯宾诺莎《伦理学》中的一个本体论论证版本（被发现无效），并提出了一个替代方案（Horner 2019）。对安瑟尔姆的本体论论证版本进行了大量工作（Oppenheimer & Zalta 2011；Garbacz 2012；Rushby 2018）。Christoph Benzmüller 及其同事们应用了高阶定理证明器，包括 Isabelle/HOL 以及他们自己的 Leo-II 和 Leo-III，来分析库尔特 · 哥德尔论文中的一个本体论论证版本（Benzmüller & Paelo 2016a, 2016b；Benzmüller, Weber, & Paleo 2017；Benzmüller & Fuenmayor 2018）。在哥德尔的原始论证中发现了一个先前未注意到的不一致性，尽管这在 Dana Scott 的转录中被避免了。定理证明器证实了哥德尔的论证导致了模态坍缩——所有真理都变成了必然真理。通过定理证明器的分析清楚地表明，C. Anthony Anderson 和 Melvin Fitting 提出的变体避免了这一后果，但方式有着重要的不同（Benzmüller & Paleo 2014；Kirchner, Benzmüller, & Zalta 2019）。
 
 在运用定理证明器进行的形而上学工作仍在继续。特别值得注意的是 Ed Zalta 雄心勃勃且长期的尝试，试图将形而上学基础性地建立在计算实例化的客体理论之上（Fitelson & Zalta 2007; Zalta 2020）。Zalta 项目的链接可以在下面的其他互联网资源部分找到。
 
@@ -441,7 +441,7 @@ Simon 和 Newell 的主要目标并不是一个优化的定理证明器，而是
 
 1956 年的达特茅斯会议通常被视为标志着计算哲学领域和术语“人工智能”（AI）的开始。然而，在那次会议上出现了两条明显不同的发展轨迹。一些与会者将其目标定为开发智能或思考机器，或许将人类处理理解为达到这一目标的一种勉强手段。另一些人将他们的目标定为对人类处理的哲学和心理理解，而开发机器则是实现这一目标的手段。第一组人迅速利用线性规划：后来被称为“GOFAI”，或“传统人工智能”。第二组人在几十年后，当连接主义和神经网络架构成熟时感到高兴，这些架构承诺直接建立在并或许反映了人脑机制中的模型（Churchland，1995）。
 
-试图理解感知、概念化、信念变化和智能的努力都是心灵哲学的一部分。朝着这个目标使用计算模型——上述第二个方面——因此接近于计算哲学。丹尼尔·丹尼特（Daniel Dennett）曾经说过，人工智能是心灵哲学：“一种对智能或知识可能性的最抽象探讨”（Dennett 1979: 60; Bringsjord & Govindarajulu 2018 [2019]）。
+试图理解感知、概念化、信念变化和智能的努力都是心灵哲学的一部分。朝着这个目标使用计算模型——上述第二个方面——因此接近于计算哲学。丹尼尔 · 丹尼特（Daniel Dennett）曾经说过，人工智能是心灵哲学：“一种对智能或知识可能性的最抽象探讨”（Dennett 1979: 60; Bringsjord & Govindarajulu 2018 [2019]）。
 
 人工智能研究的大部分内容仍然强烈倾向于产生有效和有利可图的信息处理，无论结果是否提供哲学理解。因此，也许最好不要将人工智能与心灵哲学等同起来，尽管人工智能经常受到哲学观念的指导，人工智能的某些方面已被证明对哲学探索是富有成果的。受到人工智能启发并回应人工智能的人工智能哲学和心灵哲学，这里不是讨论的主题，比起运用人工智能技术发展的心灵哲学，前者都更为普遍。
 
@@ -473,7 +473,7 @@ OSCAR 的理性核心是实施可废除的非单调逻辑，采用表面理由�
 
 验证是一个非常不同且更具挑战性的要求：即模拟模型充分捕捉其所意图模拟的相关方面。对特定模型的常见批评是它们过于简单，忽略了所模拟现象的一些关键方面。当批评针对得当时，这可能是完全适当的批评。但所需要的并不是放弃建模，而是更好地构建一个更好的模型。
 
-> 在时间中……制图师公会绘制了一个帝国地图，其大小与帝国相同，且一一对应。随后的几代人发现，那个巨大的地图是无用的……（豪尔赫·路易斯·博尔赫斯，《科学中的精确性》，1946 年[1998 年英文翻译：325 页]）
+> 在时间中……制图师公会绘制了一个帝国地图，其大小与帝国相同，且一一对应。随后的几代人发现，那个巨大的地图是无用的……（豪尔赫 · 路易斯 · 博尔赫斯，《科学中的精确性》，1946 年 [1998 年英文翻译：325 页]）
 
 博尔赫斯的故事经常被引用来说明一个事实，即没有任何模型——也没有任何科学理论——能够包含其所打算模拟的所有特征（Weisberg，2013）。如果能够做到这一点，模型和理论就会变得毫无用处：理论和模型的目的是提供更简单的表征或机制，以捕捉现象的相关特征或动态。一个现象的哪些方面实际上是理解该现象所需的相关方面，这需要模型之外的评价性输入。但是，如果遗漏了相关方面，包含了无关方面，或者施加了不切实际或人为的约束，那么批评所需要的就是一个更好的模型（Martini＆Pinto，2017；Thicke 即将发表）。
 
@@ -497,48 +497,48 @@ OSCAR 的理性核心是实施可废除的非单调逻辑，采用表面理由�
 
 ## Bibliography
 
-* Abe, Jair Minoro, Seiki Akama, and Kazumi Nakamatsu, 2015, *Introduction to Annotated Logics: Foundations for Paracomplete and Paraconsistent Reasoning*, (Intelligent Systems Reference Library 88), Cham: Springer International Publishing. doi:10.1007/978-3-319-17912-4
-* Alama, Jesse, Paul E. Oppenheimer, and Edward N. Zalta, 2015, “Automating Leibniz’s Theory of Concepts”, in *Automated Deduction—CADE-25: Proceedings of the 25th International Conference on Automated Deduction, Berlin, Germany, August 1–7, 2015*, Amy P. Felty and Aart Middeldorp (eds.), (Lecture Notes in Computer Science 9195), Cham: Springer International Publishing, 73–97. doi:10.1007/978-3-319-21401-6_4
-* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50(2): 510–530. doi:10.2307/2274239
-* Alexander, J. McKenzie, 2007, *The Structural Evolution of Morality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511550997
-* Alexander, J. McKenzie, Johannes Himmelreich, and Christopher Thompson, 2015, “Epistemic Landscapes, Optimal Search, and the Division of Cognitive Labor”, *Philosophy of Science*, 82(3): 424–453. doi:10.1086/681766
-* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi:10.3366/epi.2006.3.1-2.8
-* Andrews, Peter B. and Chad E. Brown, 2006, “TPS: A Hybrid Automatic-Interactive System for Developing Proofs”, *Journal of Applied Logic*, 4(4): 367–395. doi:10.1016/j.jal.2005.10.002
+* Abe, Jair Minoro, Seiki Akama, and Kazumi Nakamatsu, 2015, *Introduction to Annotated Logics: Foundations for Paracomplete and Paraconsistent Reasoning*, (Intelligent Systems Reference Library 88), Cham: Springer International Publishing. doi: 10.1007/978-3-319-17912-4
+* Alama, Jesse, Paul E. Oppenheimer, and Edward N. Zalta, 2015, “Automating Leibniz’s Theory of Concepts”, in *Automated Deduction—CADE-25: Proceedings of the 25th International Conference on Automated Deduction, Berlin, Germany, August 1–7, 2015*, Amy P. Felty and Aart Middeldorp (eds.), (Lecture Notes in Computer Science 9195), Cham: Springer International Publishing, 73–97. doi: 10.1007/978-3-319-21401-6_4
+* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50(2): 510–530. doi: 10.2307/2274239
+* Alexander, J. McKenzie, 2007, *The Structural Evolution of Morality*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511550997
+* Alexander, J. McKenzie, Johannes Himmelreich, and Christopher Thompson, 2015, “Epistemic Landscapes, Optimal Search, and the Division of Cognitive Labor”, *Philosophy of Science*, 82(3): 424–453. doi: 10.1086/681766
+* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi: 10.3366/epi.2006.3.1-2.8
+* Andrews, Peter B. and Chad E. Brown, 2006, “TPS: A Hybrid Automatic-Interactive System for Developing Proofs”, *Journal of Applied Logic*, 4(4): 367–395. doi: 10.1016/j.jal.2005.10.002
 * Angere, Staffan and Erik J. Olsson, 2017, “Publish Late, Publish Rarely!: Network Density and Group Performance in Scientific Communication”, in *Scientific Collaboration and Collective Knowledge: New Essays*, Thomas Boyer-Kassem, Conor Mayo-Wilson, and Michael Weisberg (eds.), New York: Oxford University Press, pp. 34-63.
-* Axelrod, Robert, 1997, “The Dissemination of Culture: A Model with Local Convergence and Global Polarization”, *Journal of Conflict Resolution*, 41(2): 203–226. doi:10.1177/0022002797041002001
-* Axelrod, Robert and W. D. Hamilton, 1981, “The Evolution of Cooperation”, *Science*, 211(4489): 1390–1396. doi:10.1126/science.7466396
-* Bala, Venkatesh and Sanjeev Goyal, 1998, “Learning from Neighbours”, *Review of Economic Studies*, 65(3): 595–621. doi:10.1111/1467-937X.00059
-* Balbiani, Philippe, Jan Broersen, and Julien Brunel, 2009, “Decision Procedures for a Deontic Logic Modeling Temporal Inheritance of Obligations”, *Electronic Notes in Theoretical Computer Science*, 231: 69–89. doi:10.1016/j.entcs.2009.02.030
-* Baltag, Alexandru and Bryan Renne, 2016 [2019], “Dynamic Epistemic Logic”, *Stanford Encyclopedia of Philosophy*, (Winter 2019), Edward N. Zalta (ed.), URL= <https://plato.stanford.edu/archives/win2016/entries/dynamic-epistemic>
-* Baltag, A., R. Boddy, and S. Smets, 2018, “Group Knowledge in Interrogative Epistemology”, in *Jaakko Hintikka on Knowledge and Game-Theoretical Semantics*, Hans van Ditmarsch and Gabriel Sandu (eds.), (Outstanding Contributions to Logic 12), Cham: Springer International Publishing, 131–164. doi:10.1007/978-3-319-62864-6_5
-* Benzmüller, Christoph and Bruno Woltzenlogel Paleo, 2014, “Automating Gödel’s Ontological Proof of God’s Existence with Higher-order Automated Theorem Provers”, in *ECAI 2014*, Torsten Schaub, Gerhard Friedrich, and Barry O’Sullivan (eds.), (Frontiers in Artificial Intelligence and Applications 263), Amsterdam: IOS Press, pp. 93–98. doi:10.3233/978-1-61499-419-0-93
+* Axelrod, Robert, 1997, “The Dissemination of Culture: A Model with Local Convergence and Global Polarization”, *Journal of Conflict Resolution*, 41(2): 203–226. doi: 10.1177/0022002797041002001
+* Axelrod, Robert and W. D. Hamilton, 1981, “The Evolution of Cooperation”, *Science*, 211(4489): 1390–1396. doi: 10.1126/science.7466396
+* Bala, Venkatesh and Sanjeev Goyal, 1998, “Learning from Neighbours”, *Review of Economic Studies*, 65(3): 595–621. doi: 10.1111/1467-937X.00059
+* Balbiani, Philippe, Jan Broersen, and Julien Brunel, 2009, “Decision Procedures for a Deontic Logic Modeling Temporal Inheritance of Obligations”, *Electronic Notes in Theoretical Computer Science*, 231: 69–89. doi: 10.1016/j.entcs.2009.02.030
+* Baltag, Alexandru and Bryan Renne, 2016 [2019], “Dynamic Epistemic Logic”, *Stanford Encyclopedia of Philosophy*, (Winter 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/dynamic-epistemic>
+* Baltag, A., R. Boddy, and S. Smets, 2018, “Group Knowledge in Interrogative Epistemology”, in *Jaakko Hintikka on Knowledge and Game-Theoretical Semantics*, Hans van Ditmarsch and Gabriel Sandu (eds.), (Outstanding Contributions to Logic 12), Cham: Springer International Publishing, 131–164. doi: 10.1007/978-3-319-62864-6_5
+* Benzmüller, Christoph and Bruno Woltzenlogel Paleo, 2014, “Automating Gödel’s Ontological Proof of God’s Existence with Higher-order Automated Theorem Provers”, in *ECAI 2014*, Torsten Schaub, Gerhard Friedrich, and Barry O’Sullivan (eds.), (Frontiers in Artificial Intelligence and Applications 263), Amsterdam: IOS Press, pp. 93–98. doi: 10.3233/978-1-61499-419-0-93
 * –––, 2016a, “The Inconsistency in Gōdel’s Ontological Argument: A Success Story for AI in Metaphysics”, in *Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI 2016)*, Gerhard Brewka (ed.), New York: AAAI Press, pp. 936–942.
 * –––, 2016b, “An Object-Logic Explanation for the Inconsistency in Gōdel’s Ontological Theory”, in *KI 2016: Advances in Artificial Intelligence Proceedings*, Gerhard Friedrich, Malte Helmert, and Franz Wotawa (eds.), Berlin: Springer, pp. 244–250.
-* Benzmüller, Christoph, L. Weber, and Bruno Woltzenlogel Paleo, 2017, “Computer-Assisted Analysis of the Anderson–Hájek Ontological Controversy”, *Logica Universalis*, 11(1): 139–151. doi:10.1007/s11787-017-0160-9
+* Benzmüller, Christoph, L. Weber, and Bruno Woltzenlogel Paleo, 2017, “Computer-Assisted Analysis of the Anderson–Hájek Ontological Controversy”, *Logica Universalis*, 11(1): 139–151. doi: 10.1007/s11787-017-0160-9
 * Benzmüller, Christoph and David Fuenmayor, 2018, “Can Computers Help to Sharpen Our Understanding of Ontological Arguments?” in S. Gosh, R. Uppalari, K. Rao, V. Agarwal, and S. Sharma (eds.), *Mathematics and Reality: Proceedings of the 11th All Indian Students’ Conference on Science and Spiritual Quest (AISSQ)*, Bhudabenswar, Kolkata: The Bhaktiedanta Institute, pp. 195–226.
-* Benzmüller, Christoph, Nik Sultana, Lawrence C. Paulson, and Frank Theiß, 2015, “The Higher-Order Prover Leo-II”, *Journal of Automated Reasoning*, 55(4): 389–404. doi:10.1007/s10817-015-9348-y
-* Benzmüller, Christoph, Xavier Parent, and Leendert van der Torre, 2018, “A Deontic Logic Reasoning Infrastructure”, in *Sailing Routes in the World of Computation: 14th Conference on Computability in Europe, CiE 2018*, Florin Manea, Russell G. Miller, and Dirk Nowotka (eds.), (Lecture Notes in Computer Science 10936), Cham: Springer International Publishing, 60–69. doi:10.1007/978-3-319-94418-0_6
+* Benzmüller, Christoph, Nik Sultana, Lawrence C. Paulson, and Frank Theiß, 2015, “The Higher-Order Prover Leo-II”, *Journal of Automated Reasoning*, 55(4): 389–404. doi: 10.1007/s10817-015-9348-y
+* Benzmüller, Christoph, Xavier Parent, and Leendert van der Torre, 2018, “A Deontic Logic Reasoning Infrastructure”, in *Sailing Routes in the World of Computation: 14th Conference on Computability in Europe, CiE 2018*, Florin Manea, Russell G. Miller, and Dirk Nowotka (eds.), (Lecture Notes in Computer Science 10936), Cham: Springer International Publishing, 60–69. doi: 10.1007/978-3-319-94418-0_6
 * Benzmüller, Christoph, Ali Farjami, and Xavier Parent, 2018, “A Dyadic Deontic Logic in HOL”, in *Deontic Logic and Normative Systems, 14th International Conference (DEON 2018)*, Jan Broersen, Cleo Condoravdi, Nair Shyam and Gabriella Pigozzi (eds.), London: College Publications, pp. 33–50.
-* Berleman, James E., Jodie Scott, Taliana Chumley, and John R. Kirby, 2008, “Predataxis Behavior in *Myxococcus xanthus*”, *Proceedings of the National Academy of Sciences*, 105(44): 17127–17132. doi:10.1073/pnas.0804387105
-* Betz, Gregor, 2013, *Debate Dynamics: How Controversy Improves Our Beliefs*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-4599-5
+* Berleman, James E., Jodie Scott, Taliana Chumley, and John R. Kirby, 2008, “Predataxis Behavior in *Myxococcus xanthus*”, *Proceedings of the National Academy of Sciences*, 105(44): 17127–17132. doi: 10.1073/pnas.0804387105
+* Betz, Gregor, 2013, *Debate Dynamics: How Controversy Improves Our Beliefs*, Dordrecht: Springer Netherlands. doi: 10.1007/978-94-007-4599-5
 * Beyleveld, Deryck, 1992, *The Dialectical Necessity of Morality: An Analysis and Defense of Alan Gewirth’s Argument to the Principle of Generic Consistency*, Chicago: University of Chicago Press.
-* –––, 2012, “The Principle of Generic Consistency as the Supreme Principle of Human Rights”, *Human Rights Review*, 13(1): 1–18. doi:10.1007/s12142-011-0210-2
+* –––, 2012, “The Principle of Generic Consistency as the Supreme Principle of Human Rights”, *Human Rights Review*, 13(1): 1–18. doi: 10.1007/s12142-011-0210-2
 * Black, Max, 1962, *Models and Metaphors: Studies in Language and Philosophy*, Ithaca, NY: Cornell University Press.
 * Bobzien, Susanne, 2006 [2016], “Ancient Logic”, *The Stanford Encyclopedia of Philosophy*, (Winter 2016), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/logic-ancient/>
-* Boland, Philip J., 1989, “Majority Systems and the Condorcet Jury Theorem”, *Journal of the Royal Statistical Society: Series D (The Statistician)*, 38(3): 181–189. doi:10.2307/2348873
-* Boland, Philip J., Frank Proschan, and Y. L. Tong, 1989, “Modelling Dependence in Simple and Indirect Majority Systems”, *Journal of Applied Probability*, 26(1): 81–88. doi:10.2307/3214318
-* Borg, AnneMarie, Daniel Frey, Dunja Šešelja, and Christian Straßer, 2018, “Epistemic Effects of Scientific Interaction: Approaching the Question with an Argumentative Agent-Based Model.”, *Historical Social Research*, 43(1): 285-309.. doi:10.12759/HSR.43.2018.1.285-307
+* Boland, Philip J., 1989, “Majority Systems and the Condorcet Jury Theorem”, *Journal of the Royal Statistical Society: Series D (The Statistician)*, 38(3): 181–189. doi: 10.2307/2348873
+* Boland, Philip J., Frank Proschan, and Y. L. Tong, 1989, “Modelling Dependence in Simple and Indirect Majority Systems”, *Journal of Applied Probability*, 26(1): 81–88. doi: 10.2307/3214318
+* Borg, AnneMarie, Daniel Frey, Dunja Šešelja, and Christian Straßer, 2018, “Epistemic Effects of Scientific Interaction: Approaching the Question with an Argumentative Agent-Based Model.”, *Historical Social Research*, 43(1): 285-309.. doi: 10.12759/HSR.43.2018.1.285-307
 * Borges, Jorge Luis [pseud. Suarez Miranda], 1946 [1998], “Del rigor en la ciencia”, *Los Anales de Buenos Aires*, 1(3). Translated as “On Exactitude in Science”, in his *Collected Fictions*, Andrew Hurley (trans.), New York: Penguin Books, 1998.
-* Bramson, Aaron, Patrick Grim, Daniel J. Singer, William J. Berger, Graham Sack, Steven Fisher, Carissa Flocken, and Bennett Holman, 2017, “Understanding Polarization: Meanings, Measures, and Model Evaluation”, *Philosophy of Science*, 84(1): 115–159. doi:10.1086/688938
+* Bramson, Aaron, Patrick Grim, Daniel J. Singer, William J. Berger, Graham Sack, Steven Fisher, Carissa Flocken, and Bennett Holman, 2017, “Understanding Polarization: Meanings, Measures, and Model Evaluation”, *Philosophy of Science*, 84(1): 115–159. doi: 10.1086/688938
 * Bringsjord, Selmer and Naveen Sundar Govindarajulu, 2018 [2019], “Artificial Intelligence”, in *The Stanford Encyclopedia of Philosophy*, Winter 2019, Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2019/entries/artificial-intelligence/>
-* Brooks, Rodney A. and Maja J. Mataric, 1993, “Real Robots, Real Learning Problems”, in *Robot Learning*, Jonathan H. Connell and Sridhar Mahadevan (eds.), Dordrecht: Kluwer, 193–213. doi:10.1007/978-1-4615-3184-5_8
-* Bruch, Elizabeth E. and Robert D. Mare, 2006, “Neighborhood Choice and Neighborhood Change”, *American Journal of Sociology*, 112(3): 667–709. doi:10.1086/507856
-* Bruner, Justin P., 2017, “Minority (Dis)advantage in Population Games”, *Synthese,* 196 (1) DOI:10.1007/s11229-017- 1487-8.
-* –––, forthcoming, “Locke, Nozick and the State of Nature”, *Philosophical Studies*, first online: 20 November 2018. doi:10.1007/s11098-018-1201-9
-* Centola, Damon, Juan Carlos González-Avella, Víctor M. Eguíluz, and Maxi San Miguel, 2007, “Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups”, *Journal of Conflict Resolution*, 51(6): 905–929. doi:10.1177/0022002707307632
+* Brooks, Rodney A. and Maja J. Mataric, 1993, “Real Robots, Real Learning Problems”, in *Robot Learning*, Jonathan H. Connell and Sridhar Mahadevan (eds.), Dordrecht: Kluwer, 193–213. doi: 10.1007/978-1-4615-3184-5_8
+* Bruch, Elizabeth E. and Robert D. Mare, 2006, “Neighborhood Choice and Neighborhood Change”, *American Journal of Sociology*, 112(3): 667–709. doi: 10.1086/507856
+* Bruner, Justin P., 2017, “Minority (Dis)advantage in Population Games”, *Synthese,* 196 (1) DOI: 10.1007/s11229-017- 1487-8.
+* –––, forthcoming, “Locke, Nozick and the State of Nature”, *Philosophical Studies*, first online: 20 November 2018. doi: 10.1007/s11098-018-1201-9
+* Centola, Damon, Juan Carlos González-Avella, Víctor M. Eguíluz, and Maxi San Miguel, 2007, “Homophily, Cultural Drift, and the Co-Evolution of Cultural Groups”, *Journal of Conflict Resolution*, 51(6): 905–929. doi: 10.1177/0022002707307632
 * Cheney, Dorothy L. and Robert M. Seyfarth, 1990, *How Monkeys See the World: Inside the Mind of Another Species*, Chicago: University of Chicago Press.
-* Chung, Hun, 2015, “Hobbes’s State of Nature: A Modern Bayesian Game-Theoretic Analysis”, *Journal of the American Philosophical Association*, 1(3): 485–508. doi:10.1017/apa.2015.12
-* Church, Alonzo, 1936, “A Note on the Entscheidungsproblem”, *Journal of Symbolic Logic*, 1(1): 40–41. doi:10.2307/2269326
+* Chung, Hun, 2015, “Hobbes’s State of Nature: A Modern Bayesian Game-Theoretic Analysis”, *Journal of the American Philosophical Association*, 1(3): 485–508. doi: 10.1017/apa.2015.12
+* Church, Alonzo, 1936, “A Note on the Entscheidungsproblem”, *Journal of Symbolic Logic*, 1(1): 40–41. doi: 10.2307/2269326
 * Churchland, Paul M., 1995, *The Engine of Reason, the Seat of the Soul: A Philosophical Journey into the Brain*, Cambridge MA: MIT Press.
 * Condorcet, Nicolas de, 1785 [1995], “An Essay on the Application of Analysis to the Probability of Decisions Rendered by a Plurality of Votes (fifth part)”, Part translated in *Classics of Social Choice*, Iain McLean and Arnold B. Urken (trans. and eds.), Ann Arbor MI: University of Michigan Press, pp. 91–112, 1995.
 * Davis, Martin, 1957 [1983], “A Computer Program for Presburger’s Algorithm”, presented at the Cornell Summer Institute for Symbolic Logic. Reprinted in Siekmann and Wrightson 1983: 41–48.
@@ -547,72 +547,72 @@ OSCAR 的理性核心是实施可废除的非单调逻辑，采用表面理由�
 * Deffuant, Guillaume, 2006, “Comparing Extremism Propagation Patterns in Continuous Opinion Models”, *Journal of Artificial Societies and Social Simulation*, 9(3): 8. URL = <http://jasss.soc.surrey.ac.uk/9/3/8.html>
 * Deffuant, Guillaume, Frédéric Amblard, Gérard Weisbuch, and Thierry Faure, 2002, “How Can Extremism Prevail? A Study Based on the Relative Agreement Interaction Model”, *Journal of Artificial Societies and Social Simulation*, 5(4): 1. URL = <http://jasss.soc.surrey.ac.uk/5/4/1.html>
 * Dennett, Daniel, 1979, “Artificial Intelligence as Philosophy and as Psychology”, in *Philosophical Perspectives in Artificial Intelligence*, Martin Ringle (ed.), Atlantic Highlands, NJ: Humanities Press, pp. 57–80.
-* Dietrich, Franz and Kai Spiekermann, 2013, “Independent Opinions? On the Causal Foundations of Belief Formation and Jury Theorems”, *Mind*, 122(487): 655–685. doi:10.1093/mind/fzt074
-* Douven, Igor and Alexander Riegler, 2010, “Extending the Hegselmann-Krause Model I”, *Logic Journal of IGPL*, 18(2): 323–335. doi:10.1093/jigpal/jzp059
-* Dung, Phan Minh, 1995, “On the Acceptability of Arguments and Its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and *n*-Person Games”, *Artificial Intelligence*, 77(2): 321–357. doi:10.1016/0004-3702(94)00041-X
-* Ernst, Zachary, Branden Fitelson, Kenneth Harris, and Larry Wos, 2002, “Shortest Axiomatizations of Implicational S4 and S5”, *Notre Dame Journal of Formal Logic*, 43(3): 169–179. doi:10.1305/ndjfl/1074290715
+* Dietrich, Franz and Kai Spiekermann, 2013, “Independent Opinions? On the Causal Foundations of Belief Formation and Jury Theorems”, *Mind*, 122(487): 655–685. doi: 10.1093/mind/fzt074
+* Douven, Igor and Alexander Riegler, 2010, “Extending the Hegselmann-Krause Model I”, *Logic Journal of IGPL*, 18(2): 323–335. doi: 10.1093/jigpal/jzp059
+* Dung, Phan Minh, 1995, “On the Acceptability of Arguments and Its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and *n*-Person Games”, *Artificial Intelligence*, 77(2): 321–357. doi: 10.1016/0004-3702(94)00041-X
+* Ernst, Zachary, Branden Fitelson, Kenneth Harris, and Larry Wos, 2002, “Shortest Axiomatizations of Implicational S4 and S5”, *Notre Dame Journal of Formal Logic*, 43(3): 169–179. doi: 10.1305/ndjfl/1074290715
 * Fagin, Ronald, Joseph Y. Halpern, Yoram Moses and Moshe Vardi, 1995, *Reasoning About Knowledge*, Cambridge, MA: MIT Press.
-* Falkenhainer, Brian, Kenneth D. Forbus, and Dedre Gentner, 1989, “The Structure-Mapping Engine: Algorithm and Examples”, *Artificial Intelligence*, 41(1): 1–63. doi:10.1016/0004-3702(89)90077-5
+* Falkenhainer, Brian, Kenneth D. Forbus, and Dedre Gentner, 1989, “The Structure-Mapping Engine: Algorithm and Examples”, *Artificial Intelligence*, 41(1): 1–63. doi: 10.1016/0004-3702(89)90077-5
 * Fisher, Ronald, 1930, *The Genetical Theory of Natural Selection*, Oxford: Clarendon Press.
 * Fisher v. University of Texas, 2016, Brief for Lt. Gen. Julius W. Becton, Jr., Gen. John P. Abizaid, Adm. Dennis C. Blair, Gen. Bryan Doug Brown, Gen. George W. Casey, Lt. Gen Daniel W. Christman, Gen. Wesley K. Clark, Adm. Archie Clemins, Gen. Ann E. Dunwoody, Gen. Ronald R. Fogleman, Adm. Edmund P. Giambastiani, Jr., et al., as Amici Curiae in Support of respondents. [[Fisher v. University of Texas brief 2016 available online](https://www.scotusblog.com/wp-content/uploads/2015/11/LtGenJuliusWBectonJrEtAl.pdf)]
-* Fitelson, Branden and Edward N. Zalta, 2007, “Steps Toward a Computational Metaphysics”, *Journal of Philosophical Logic*, 36(2): 227–247. doi:10.1007/s10992-006-9038-7
+* Fitelson, Branden and Edward N. Zalta, 2007, “Steps Toward a Computational Metaphysics”, *Journal of Philosophical Logic*, 36(2): 227–247. doi: 10.1007/s10992-006-9038-7
 * Fuenmayor, David and Christoph Benzmüller, 2018, “Formalisation and Evaluation of Alan Gewirth’s Proof for the Principle of Generic Consistency in Isabelle/HOL”, *Archive of Formal Proofs*, 30 October 2018. URL = <[Formalisation and Evaluation of Alan Gewirth&#39;s Proof for the Principle of Generic Consistency in Isabelle/HOL - Archive of Formal Proofs](https://isa-afp.org/entries/GewirthPGCProof.html)>
-* Garbacz, Paweł, 2012, “Prover9’s Simplification Explained Away”, *Australasian Journal of Philosophy*, 90(3): 585–592. doi:10.1080/00048402.2011.636177
+* Garbacz, Paweł, 2012, “Prover9’s Simplification Explained Away”, *Australasian Journal of Philosophy*, 90(3): 585–592. doi: 10.1080/00048402.2011.636177
 * Gentner, Dedre, 1982, “Are Scientific Analogies Metaphors?” in *Metaphor: Problems and Perspectives*, David S. Miall (ed.), Brighton: Harvester Press, pg. 106–132.
 * Gewirth, Alan, 1978, *Reason and Morality*, Chicago: University of Chicago Press.
 * Gödel, Kurt, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I”, *Monatshefte für Mathematik und Physik*, 38(1): 173–198.
-* Goldman, Alvin I., 1987, “Foundations of Social Epistemics”, *Synthese*, 73(1): 109–144. doi:10.1007/BF00485444
-* –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
+* Goldman, Alvin I., 1987, “Foundations of Social Epistemics”, *Synthese*, 73(1): 109–144. doi: 10.1007/BF00485444
+* –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi: 10.1093/0198238207.001.0001
 * Goldman, Alvin and Cailin O’Connor, 2001 [2019], “Social Epistemology”, in *The Stanford Encyclopedia of Philosophy*, (Fall 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/epistemology-social/>
 * Goldman, Alvin and Dennis Whitcomb (eds.), 2011, *Social Epistemology: Essential Readings*, New York: Oxford University Press.
 * Gordon, Michael J.C. and T.F. Melham (eds.), 1993, *Introduction to HOL: A Theorem Proving Environment for Higher Order Logic*, Cambridge: Cambridge University Press.
-* Governatori, Guido and Giovanni Sartor (eds.), 2010, *Deontic Logic in Computer Science: 10th International Conference, DEON 2010, Fiesole, Italy, July 7-9, 2010. Proceedings*, (Lecture Notes in Computer Science 6181), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-14183-6
+* Governatori, Guido and Giovanni Sartor (eds.), 2010, *Deontic Logic in Computer Science: 10th International Conference, DEON 2010, Fiesole, Italy, July 7-9, 2010. Proceedings*, (Lecture Notes in Computer Science 6181), Berlin, Heidelberg: Springer Berlin Heidelberg. doi: 10.1007/978-3-642-14183-6
 * Gray, Jonathan, 2016, “’Let us Calculate!’: Leibniz, Lull, and the Computational Imagination”, *The Public Domain Review*, 10 November 2016. URL = <https://publicdomainreview.org/2016/11/10/let-us-calculate-leibniz-llull-and-computational-imagination/>
-* Grim, Patrick, 1995, “The Greater Generosity of the Spatialized Prisoner’s Dilemma”, *Journal of Theoretical Biology*, 173(4): 353–359. doi:10.1006/jtbi.1995.0068
-* –––, 1996, “Spatialization and Greater Generosity in the Stochastic Prisoner’s Dilemma”, *Biosystems*, 37(1–2): 3–17. doi:10.1016/0303-2647(95)01541-8
+* Grim, Patrick, 1995, “The Greater Generosity of the Spatialized Prisoner’s Dilemma”, *Journal of Theoretical Biology*, 173(4): 353–359. doi: 10.1006/jtbi.1995.0068
+* –––, 1996, “Spatialization and Greater Generosity in the Stochastic Prisoner’s Dilemma”, *Biosystems*, 37(1–2): 3–17. doi: 10.1016/0303-2647(95)01541-8
 * –––, 2006, “Tangled Webs: The Philosophical Importance of Networks”, The Marshall Weinberg lecture, University of Michigan.
 * –––, 2009, “Threshold Phenomena in Epistemic Networks”, *Proceedings, AAAI Fall Symposium on Complex Adaptive Systems and the Threshold Effect*, FS-09-03, AAAI Press.
 * Grim, Patrick, Gary R. Mar, and Paul St. Denis, 1998, *The Philosophical Computer: Exploratory Essays in Philosophical Computer Modeling*, Cambridge MA: MIT Press.
-* Grim, Patrick, Paul St. Denis and Trina Kokalis, 2002, “Learning to Communicate: The Emergence of Signaling in Spatialized Arrays of Neural Nets”, *Adaptive Behavior*, 10(4): 45–70. doi:10.1177/10597123020101003
-* Grim, Patrick, Trina Kokalis, Ali Alai-Tafti, Nicholas Kilb and Paul St. Denis, 2004, “Making Meaning Happen”, *Journal of Experimental and Theoretical Artificial Intelligence*, 16: 209–243. doi:10.1080/09528130412331294715
-* Grim, Patrick, Daniel J. Singer, Christopher Reade, and Steven Fisher, 2015, “Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks”, *Philosophy of Science*, 82(2): 219–243. doi:10.1086/680486
-* Grim, Patrick, Daniel J. Singer, Steven Fisher, Aaron Bramson, William J. Berger, Christopher Reade, Carissa Flocken, and Adam Sales, 2013, “Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence”, *Episteme*, 10(4): 441–464. doi:10.1017/epi.2013.36
-* Grim, Patrick, Daniel J. Singer, Aaron Bramson, Bennett Holman, Sean McGeehan, and William J. Berger, 2019, “Diversity, Ability, and Expertise in Epistemic Communities”, *Philosophy of Science*, 86(1): 98–123. doi:10.1086/701070
-* Grim, Patrick, Aaron Bramson, Daniel J. Singer, William J. Berger, Jiin Jung, and Scott E. Page, forthcoming, “Representation in Models of Epistemic Democracy”, *Episteme*, first online: 21 December 2018. doi:10.1017/epi.2018.51
-* Grim, Patrick, Robert Rosenberger, Adam Rosenfeld, Brian Anderson, and Robb E. Eason, 2013, “How Simulations Fail”, *Synthese*, 190(12): 2367–2390. doi:10.1007/s11229-011-9976-7
-* Gunn, Paul, 2014, “Democracy and Epistocracy”, *Critical Review*, 26(1–2): 59–79. doi:10.1080/08913811.2014.907041
+* Grim, Patrick, Paul St. Denis and Trina Kokalis, 2002, “Learning to Communicate: The Emergence of Signaling in Spatialized Arrays of Neural Nets”, *Adaptive Behavior*, 10(4): 45–70. doi: 10.1177/10597123020101003
+* Grim, Patrick, Trina Kokalis, Ali Alai-Tafti, Nicholas Kilb and Paul St. Denis, 2004, “Making Meaning Happen”, *Journal of Experimental and Theoretical Artificial Intelligence*, 16: 209–243. doi: 10.1080/09528130412331294715
+* Grim, Patrick, Daniel J. Singer, Christopher Reade, and Steven Fisher, 2015, “Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks”, *Philosophy of Science*, 82(2): 219–243. doi: 10.1086/680486
+* Grim, Patrick, Daniel J. Singer, Steven Fisher, Aaron Bramson, William J. Berger, Christopher Reade, Carissa Flocken, and Adam Sales, 2013, “Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence”, *Episteme*, 10(4): 441–464. doi: 10.1017/epi.2013.36
+* Grim, Patrick, Daniel J. Singer, Aaron Bramson, Bennett Holman, Sean McGeehan, and William J. Berger, 2019, “Diversity, Ability, and Expertise in Epistemic Communities”, *Philosophy of Science*, 86(1): 98–123. doi: 10.1086/701070
+* Grim, Patrick, Aaron Bramson, Daniel J. Singer, William J. Berger, Jiin Jung, and Scott E. Page, forthcoming, “Representation in Models of Epistemic Democracy”, *Episteme*, first online: 21 December 2018. doi: 10.1017/epi.2018.51
+* Grim, Patrick, Robert Rosenberger, Adam Rosenfeld, Brian Anderson, and Robb E. Eason, 2013, “How Simulations Fail”, *Synthese*, 190(12): 2367–2390. doi: 10.1007/s11229-011-9976-7
+* Gunn, Paul, 2014, “Democracy and Epistocracy”, *Critical Review*, 26(1–2): 59–79. doi: 10.1080/08913811.2014.907041
 * Habermas, Jürgen , 1992 [1996], *Faktizität und Geltung. Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt Am Main: Suhrkamp Verlag. Translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), Cambridge MA: MIT Press, 1996.
 * Haldane, J.B.S., 1932, *The Causes of Evolution*, London: Longmans, Green & Co.
 * Halpern, Joseph Y. and Yoram Moses, 1984, “Knowledge and Common Knowledge in a Distributed Environment”, in *Proceedings of the Third Annual ACM Symposium on Principles of Distributed Computing*, ACM Press, pp. 50–61.
-* Hamilton, W.D., 1964a, “The Genetical Evolution of Social Behaviour. I”, *Journal of Theoretical Biology*, 7(1): 1–16. doi:10.1016/0022-5193(64)90038-4
-* –––, 1964b, “The Genetical Evolution of Social Behaviour. II”, *Journal of Theoretical Biology*, 7(1): 17–52. doi:10.1016/0022-5193(64)90039-6
+* Hamilton, W.D., 1964a, “The Genetical Evolution of Social Behaviour. I”, *Journal of Theoretical Biology*, 7(1): 1–16. doi: 10.1016/0022-5193(64)90038-4
+* –––, 1964b, “The Genetical Evolution of Social Behaviour. II”, *Journal of Theoretical Biology*, 7(1): 17–52. doi: 10.1016/0022-5193(64)90039-6
 * Hegselmann, Rainer and Ulrich Krause, 2002, “Opinion Dynamics and Bounded Confidence: Models, Analysis and Simulation”, *Journal of Artificial Societies and Social Simulation*, 5(3): 2. URL = <http://jasss.soc.surrey.ac.uk/5/3/2.html>
-* –––, 2005, “Opinion Dynamics Driven by Various Ways of Averaging”, *Computational Economics*, 25(4): 381–405. doi:10.1007/s10614-005-6296-3
+* –––, 2005, “Opinion Dynamics Driven by Various Ways of Averaging”, *Computational Economics*, 25(4): 381–405. doi: 10.1007/s10614-005-6296-3
 * –––, 2006, “Truth and Cognitive Division of Labour: First Steps towards a Computer Aided Social Epistemology”, *Journal of Artificial Societies and Social Simulation*, 9(3): 10. URL = <http://jasss.soc.surrey.ac.uk/9/3/10.html>
 * Hesse, Hermann, 1943 [1969], *Das Glasperlenspelel*, Switzerland. Translated as *The Glass Bead Game (Magister Ludi)*, Richard & Clara Winston (trans.), New York: Holt, Rinehart & Winston, 1969.
 * Hesse, Mary B., 1966, *Models and Analogies in Science*, Notre Dame IN: Notre Dame University Press.
 * Hobbes, Thomas, 1651, *Leviathan*, London: Crooke, London: Penguin 1982.
 * Hofstadter, Douglas, 2008, *Fluid Concepts and Creative Analogies*, New York: Basic Books.
 * Holland, John H., 1975, *Adaptation in Natural and Artificial Systems*, Cambridge, MA: MIT Press.
-* Holyoak, Keith J. and Paul Thagard, 1989, “Analogical Mapping by Constraint Satisfaction”, *Cognitive Science*, 13(3): 295–355. doi:10.1207/s15516709cog1303_1
+* Holyoak, Keith J. and Paul Thagard, 1989, “Analogical Mapping by Constraint Satisfaction”, *Cognitive Science*, 13(3): 295–355. doi: 10.1207/s15516709cog1303_1
 * –––, 1995, *Mental Leaps: Analogy in Creative Thought*, Cambridge, MA: MIT Press.
-* Hong, Lu and Scott E. Page, 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers”, *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi:10.1073/pnas.0403723101
-* Horner, Jack K., 2019, “A Computationally Assisted Reconstruction of an Ontological Argument in Spinoza’s The Ethics”, *Open Philosophy*, (special issue on computational philosophy) 2(1): 211–229. doi:10.1515/opphil-2019-0012
-* Isenberg, Daniel J., 1986, “Group Polarization: A Critical Review and Meta-Analysis.”, *Journal of Personality and Social Psychology*, 50(6): 1141–1151. doi:10.1037/0022-3514.50.6.1141
+* Hong, Lu and Scott E. Page, 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers”, *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi: 10.1073/pnas.0403723101
+* Horner, Jack K., 2019, “A Computationally Assisted Reconstruction of an Ontological Argument in Spinoza’s The Ethics”, *Open Philosophy*, (special issue on computational philosophy) 2(1): 211–229. doi: 10.1515/opphil-2019-0012
+* Isenberg, Daniel J., 1986, “Group Polarization: A Critical Review and Meta-Analysis.”, *Journal of Personality and Social Psychology*, 50(6): 1141–1151. doi: 10.1037/0022-3514.50.6.1141
 * Kalman, John Arnold, 2001, *Automated Reasoning with Otter*, Princeton, NJ: Rinton Press.
 * Kauffman, Stuart, 1995, *At Home in the Universe: The Search for Laws of Self-Organization and Complexity*, New York: Oxford University Press.
 * Kendall, Graham, Xin Yao, and Siang Yew Chong, 2007, *The Iterated Prisoner’s Dilemma: 20 Years On*, Singapore: World Scientific.
 * Khaldūn, Ibn, 1377 [1958], *The Muqaddimah: An Introduction to History*, vol. 3, Franz Rosenthal, Princeton, NJ: Princeton University Press.
-* Kirchner, Daniel, Christoph Benzmüller, and Edward N. Zalta, 2019, “Computer Science and Metaphysics: A Cross-Fertilization”, *Open Philosophy*, (special issue on computational philosophy) 2(1): 230–251. doi:10.1515/opphil-2019-0015
-* Kitcher, Philip, 1993, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi:10.1093/0195096533.001.0001
-* Kleijnen, Jack P.C., 1995, “Verification and Validation of Simulation Models”, *European Journal of Operational Research*, 82(1): 145–162. doi:10.1016/0377-2217(94)00016-6
-* Klein, Dominik, Johannes Marx, and Kai Fischbach, 2018, “Agent-Based Modeling in Social Science, History, and Philosophy. An Introduction.”, *Historical Social Research*, 43(1): 7–27. doi:10.12759/HSR.43.2018.1.7-27
-* Klemm, Konstantin, Víctor M. Eguíluz, Raúl Toral, and Maxi San Miguel, 2003a, “Global Culture: A Noise-Induced Transition in Finite Systems”, *Physical ReviewE*, 67(4pt2): 045101. doi:10.1103/PhysRevE.67.045101
-* –––, 2003b, “Nonequilibrium Transitions in Complex Networks: A Model of Social Interaction”, *Physical Review E*, 67 (2): 026120. doi:10.1103/PhysRevE.67.026120
-* –––, 2003c, “Role of Dimensionality in Axelrod’s Model for the Dissemination of Culture”, *Physica A*, 327 (1): 1–5. doi:10.1016/S0378-4371(03)00428-X
-* –––, 2005, “Globalization, Polarization and Cultural Drift”, *Journal of Economic Dynamics and Control*, 29(1–2): 321–334. doi:10.1016/j.jedc.2003.08.005
+* Kirchner, Daniel, Christoph Benzmüller, and Edward N. Zalta, 2019, “Computer Science and Metaphysics: A Cross-Fertilization”, *Open Philosophy*, (special issue on computational philosophy) 2(1): 230–251. doi: 10.1515/opphil-2019-0015
+* Kitcher, Philip, 1993, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi: 10.1093/0195096533.001.0001
+* Kleijnen, Jack P.C., 1995, “Verification and Validation of Simulation Models”, *European Journal of Operational Research*, 82(1): 145–162. doi: 10.1016/0377-2217(94)00016-6
+* Klein, Dominik, Johannes Marx, and Kai Fischbach, 2018, “Agent-Based Modeling in Social Science, History, and Philosophy. An Introduction.”, *Historical Social Research*, 43(1): 7–27. doi: 10.12759/HSR.43.2018.1.7-27
+* Klemm, Konstantin, Víctor M. Eguíluz, Raúl Toral, and Maxi San Miguel, 2003a, “Global Culture: A Noise-Induced Transition in Finite Systems”, *Physical ReviewE*, 67(4pt2): 045101. doi: 10.1103/PhysRevE.67.045101
+* –––, 2003b, “Nonequilibrium Transitions in Complex Networks: A Model of Social Interaction”, *Physical Review E*, 67 (2): 026120. doi: 10.1103/PhysRevE.67.026120
+* –––, 2003c, “Role of Dimensionality in Axelrod’s Model for the Dissemination of Culture”, *Physica A*, 327 (1): 1–5. doi: 10.1016/S0378-4371(03)00428-X
+* –––, 2005, “Globalization, Polarization and Cultural Drift”, *Journal of Economic Dynamics and Control*, 29(1–2): 321–334. doi: 10.1016/j.jedc.2003.08.005
 * Krakauer, David C. (ed.), 2019, *Worlds Hidden in Plain Sight: Thirty Years of Complexity Thinking at the Santa Fe Institute*, Santa Fe, NM: Santa Fe Institute Press.
-* Kuehn, Daniel, 2017, “Diversity, Ability, and Democracy: A Note on Thompson’s Challenge to Hong and Page”, *Critical Review*, 29(1): 72–87. doi:10.1080/08913811.2017.1288455
+* Kuehn, Daniel, 2017, “Diversity, Ability, and Democracy: A Note on Thompson’s Challenge to Hong and Page”, *Critical Review*, 29(1): 72–87. doi: 10.1080/08913811.2017.1288455
 * Kuhn, Steven, 1997 [2019], “Prisoner’s Dilemma”, in *The Stanford Encyclopedia of Philosophy*, (Winter 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2019/entries/prisoner-dilemma/>
 * Lakoff, George and Mark Johnson, 1980, *Metaphors We Live By*, Chicago: University of Chicago Press.
 * Lakoff, George and Mark Turner, 1989, *More Than Cool Reason: A Field Guide to Poetic Metaphor*, Chicago: University of Chicago Press.
@@ -622,103 +622,103 @@ OSCAR 的理性核心是实施可废除的非单调逻辑，采用表面理由�
 * Lehrer, Keith and Carl Wagner, 1981, *Rational Consensus in Science and Society*, Dordrecht: Reidel.
 * Lem, Stanislaw, 1964 [2013], *Summa Technologiae*, Joanna Zylinski, Minneapolis, MN: University of Minnesota Press, 2013.
 * Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge MA: Harvard University Press.
-* Longino, Helen E., 1990, *Science as Social Knowledge:Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
+* Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
 * Longino, Helen, 2002 [2019], “The Social Dimensions of Scientific Knowledge”, in *The Stanford Encyclopedia of Philosophy*, (Summer 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2019/entries/scientific-knowledge-social/>
-* Lord, Charles G., Lee Ross, and Mark R. Lepper, 1979, “Biased Assimilation and Attitude Polarization: The Effects of Prior Theories on Subsequently Considered Evidence.”, *Journal of Personality and Social Psychology*, 37(11): 2098–2109. doi:10.1037/0022-3514.37.11.2098
+* Lord, Charles G., Lee Ross, and Mark R. Lepper, 1979, “Biased Assimilation and Attitude Polarization: The Effects of Prior Theories on Subsequently Considered Evidence.”, *Journal of Personality and Social Psychology*, 37(11): 2098–2109. doi: 10.1037/0022-3514.37.11.2098
 * Loveland, Donald W., 1984, “Automated Theorem Proving: A Quarter Century Review”, *Contemporary Mathematics,* 29: 1–45.
 * Llull, Ramon, 1308 [1986], *Ars generalis ultima*, in *Raimondi Lulli Opera Latina* XIV / CCCM 75, 4–527, Turnholt, Belgium: Brepols
-* MacKenzie, Donald, 1995, “The Automation of Proof: A Historical and Sociological Exploration”, *IEEE Annals of the History of Computing*, 17(3): 7–29. doi:10.1109/85.397057
+* MacKenzie, Donald, 1995, “The Automation of Proof: A Historical and Sociological Exploration”, *IEEE Annals of the History of Computing*, 17(3): 7–29. doi: 10.1109/85.397057
 * Martin, Ernst, 1925 [1992], *Die Rechenmaschinen und ihre Entwicklungsgeschichte*, Germany: Pappenheim. Translated as *The Calculating Machines: Their History and Development*, Peggy Aldrich Kidwell and Michael R. Williams (trans.), Cambridge MA: MIT Press, 1992.
-* Martini, Carlo and Manuela Fernández Pinto, 2017, “Modeling the Social Organization of Science: Chasing Complexity through Simulations”, *European Journal for Philosophy of Science*, 7(2): 221–238. doi:10.1007/s13194-016-0153-1
-* Mar, Gary and Patrick Grim, 1991, “Pattern and Chaos: New Images in the Semantics of Paradox”, *Noûs*, 25(5): 659–693. doi:10.2307/2215637
-* Mäs, Michael, 2019, “Challenges to Simulation Validation in the Social Sciences. A Critical Rationalist Perspective”, in *Computer Simulation Validation*, Claus Beisbart and Nicole J. Saam (eds.), Cham: Springer International Publishing, 857–879. doi:10.1007/978-3-319-70766-2_35
-* Mccune, William, 1997, “Solution of the Robbins Problem”, *Journal of Automated Reasoning*, 19(3): 263–276. doi:10.1023/A:1005843212881
-* McCune, William and Larry Wos, 1997, “Otter: The CADE-13 Competition Incarnations”, *Journal of Automated Reasoning*, 18(2): 211–220. doi:10.1023/A:1005843632307
-* McRobbie, Michael A., 1991, “Automated Reasoning and Nonclassical Logics: Introduction”, *Journal of Automated Reasoning*, 7(4): 447–451. doi:10.1007/BF01880323
-* Meadows, Michael and Dave Cliff, 2012, “Reexamining the Relative Agreement Model of Opinion Dynamics”, *Journal of Artificial Societies and Social Simulation*, 15(4): 4. doi:10.18564/jasss.2083
+* Martini, Carlo and Manuela Fernández Pinto, 2017, “Modeling the Social Organization of Science: Chasing Complexity through Simulations”, *European Journal for Philosophy of Science*, 7(2): 221–238. doi: 10.1007/s13194-016-0153-1
+* Mar, Gary and Patrick Grim, 1991, “Pattern and Chaos: New Images in the Semantics of Paradox”, *Noûs*, 25(5): 659–693. doi: 10.2307/2215637
+* Mäs, Michael, 2019, “Challenges to Simulation Validation in the Social Sciences. A Critical Rationalist Perspective”, in *Computer Simulation Validation*, Claus Beisbart and Nicole J. Saam (eds.), Cham: Springer International Publishing, 857–879. doi: 10.1007/978-3-319-70766-2_35
+* Mccune, William, 1997, “Solution of the Robbins Problem”, *Journal of Automated Reasoning*, 19(3): 263–276. doi: 10.1023/A: 1005843212881
+* McCune, William and Larry Wos, 1997, “Otter: The CADE-13 Competition Incarnations”, *Journal of Automated Reasoning*, 18(2): 211–220. doi: 10.1023/A: 1005843632307
+* McRobbie, Michael A., 1991, “Automated Reasoning and Nonclassical Logics: Introduction”, *Journal of Automated Reasoning*, 7(4): 447–451. doi: 10.1007/BF01880323
+* Meadows, Michael and Dave Cliff, 2012, “Reexamining the Relative Agreement Model of Opinion Dynamics”, *Journal of Artificial Societies and Social Simulation*, 15(4): 4. doi: 10.18564/jasss.2083
 * Meyer, John-Jules Ch. and Roel Wierenga, 1994, *Deontic Logic in Computer Science: Normative System Specification*. Hoboken, NJ: Wiley.
-* Miller, George A., Richard Beckwith, Christiane Fellbaum, Derek Gross, and Katherine J. Miller, 1990, “Introduction to WordNet: An On-Line Lexical Database”, *International Journal of Lexicography*, 3(4): 235–244. doi:10.1093/ijl/3.4.235
+* Miller, George A., Richard Beckwith, Christiane Fellbaum, Derek Gross, and Katherine J. Miller, 1990, “Introduction to WordNet: An On-Line Lexical Database”, *International Journal of Lexicography*, 3(4): 235–244. doi: 10.1093/ijl/3.4.235
 * Mitchell, Melanie, 2011, *Complexity: A Guided Tour*, New York: Oxford University Press.
-* Nowak, Martin A. and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations”, *Nature*, 355(6357): 250–253. doi:10.1038/355250a0
-* O’Connor, Cailin, 2017, “The Cultural Red King Effect”, *The Journal of Mathematical Sociology*, 41(3): 155–171. doi:10.1080/0022250X.2017.1335723
-* O’Connor, Cailin and Justin Bruner, 2019, “Dynamics and Diversity in Epistemic Communities”, *Erkenntnis*, 84(1): 101–119. doi:10.1007/s10670-017-9950-y
-* O’Connor, Cailin, Liam Kofi Bright, and Justin P. Bruner, 2019, “The Emergence of Intersectional Disadvantage”, *Social Epistemology*, 33(1): 23–41. doi:10.1080/02691728.2018.1555870
-* O’Connor, Cailin and James Owen Weatherall, 2018, “Scientific Polarization”, *European Journal for Philosophy of Science*, 8(3): 855–875. doi:10.1007/s13194-018-0213-9
-* O’Leary, Daniel J., 1991, “Principia Mathematica and the Development of Automated Theorem Proving”, in *Perspectives on the History of Mathematical Logic*, Thomas Drucker (ed.), Boston, MA: Birkhäuser Boston, 47–53. doi:10.1007/978-0-8176-4769-8_4
-* Olsson, Erik J., 2011, “A Simulation Approach to Veritistic Social Epistemology”, *Episteme*, 8(2): 127–143. doi:10.3366/epi.2011.0012
-* –––, 2013, “A Bayesian Simulation Model of Group Deliberation and Polarization”, in *Bayesian Argumentation*, Frank Zenker (ed.), Dordrecht: Springer Netherlands, 113–133. doi:10.1007/978-94-007-5357-0_6
-* Oppenheimer, Paul E. and Edward N. Zalta, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, *Australasian Journal of Philosophy*, 89(2): 333–349. doi:10.1080/00048401003674482
-* Overton, James A., 2013, “‘Explain’ in Scientific Discourse”, *Synthese*, 190(8): 1383–1405. doi:10.1007/s11229-012-0109-8
+* Nowak, Martin A. and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations”, *Nature*, 355(6357): 250–253. doi: 10.1038/355250a0
+* O’Connor, Cailin, 2017, “The Cultural Red King Effect”, *The Journal of Mathematical Sociology*, 41(3): 155–171. doi: 10.1080/0022250X.2017.1335723
+* O’Connor, Cailin and Justin Bruner, 2019, “Dynamics and Diversity in Epistemic Communities”, *Erkenntnis*, 84(1): 101–119. doi: 10.1007/s10670-017-9950-y
+* O’Connor, Cailin, Liam Kofi Bright, and Justin P. Bruner, 2019, “The Emergence of Intersectional Disadvantage”, *Social Epistemology*, 33(1): 23–41. doi: 10.1080/02691728.2018.1555870
+* O’Connor, Cailin and James Owen Weatherall, 2018, “Scientific Polarization”, *European Journal for Philosophy of Science*, 8(3): 855–875. doi: 10.1007/s13194-018-0213-9
+* O’Leary, Daniel J., 1991, “Principia Mathematica and the Development of Automated Theorem Proving”, in *Perspectives on the History of Mathematical Logic*, Thomas Drucker (ed.), Boston, MA: Birkhäuser Boston, 47–53. doi: 10.1007/978-0-8176-4769-8_4
+* Olsson, Erik J., 2011, “A Simulation Approach to Veritistic Social Epistemology”, *Episteme*, 8(2): 127–143. doi: 10.3366/epi.2011.0012
+* –––, 2013, “A Bayesian Simulation Model of Group Deliberation and Polarization”, in *Bayesian Argumentation*, Frank Zenker (ed.), Dordrecht: Springer Netherlands, 113–133. doi: 10.1007/978-94-007-5357-0_6
+* Oppenheimer, Paul E. and Edward N. Zalta, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, *Australasian Journal of Philosophy*, 89(2): 333–349. doi: 10.1080/00048401003674482
+* Overton, James A., 2013, “‘Explain’ in Scientific Discourse”, *Synthese*, 190(8): 1383–1405. doi: 10.1007/s11229-012-0109-8
 * Page, Scott E., 2007, *The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies*, Princeton, NJ: Princeton University Press.
 * Paulson, Lawrence C., 1990, “Isabelle: The Next 700 Theorem Provers”, in Piergiorgio Odifreddi (ed.), *Logic and Computer Science*, Cambridge, MA: Academic Press, pp. 361-386.
 * Pearl, Judea, 1988, *Probabilistic Reasoning in Intelligent Systems*, San Mateo, CA: Morgan Kaufmann.
 * –––, 2000, *Causality: Models, Reasoning, and Inference*, Cambridge, MA: Cambridge Univ. Press.
 * Pearl, Judea and Dana Mackenzie, 2018, *The Book of Why: The New Science of Cause and Effect*, New York: Basic Books.
-* Pence, Charles H. and Grant Ramsey, 2018, “How to Do Digital Philosophy of Science”, *Philosophy of Science*, 85(5): 930–941. doi:10.1086/699697
+* Pence, Charles H. and Grant Ramsey, 2018, “How to Do Digital Philosophy of Science”, *Philosophy of Science*, 85(5): 930–941. doi: 10.1086/699697
 * Pollock, John L., 1989, *How to Build a Person: A Prolegomenon*, Cambridge, MA: MIT Press.
 * –––, 1995, *Cognitive Carpentry: A Bluepoint for How to Build a Person*, Cambridge, MA: MIT Press.
-* –––, 2006, *Thinking about Acting: Logical Foundations for Rational Decision Making*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195304817.001.0001
+* –––, 2006, *Thinking about Acting: Logical Foundations for Rational Decision Making*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195304817.001.0001
 * Portoraro, Frederic, 2001 [2019], “Automated Reasoning”, in *The Stanford Encyclopedia of Philosophy*, (Spring 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2019/entries/reasoning-automated/>
 * Reijula, Samuli and Jaakko Kuorikoski, 2019, “Modeling Epistemic Communities”, in Miranda Fricker, Peter J. Graham, David Henderson and Nikolaj J.L.L. Pedersen (eds), *The Routledge Handbook of Social Epistemology*, Abingdon-on-Thames: Routledge, chapter 24.
 * Rendsvig, Rasmus and John Symons, 2006 [2019], “Epistemic Logic”, in *The Stanford Encyclopedia of Philosophy*, (Summer 2019), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2019/entries/logic-epistemic/>
 * Rescher, Nicholas, 2012, *Leibniz and Cryptography*, University Library System, University of Pittsburgh.
-* Riegler, Alexander and Igor Douven, 2009, “Extending the Hegselmann–Krause Model III: From Single Beliefs to Complex Belief States”, *Episteme*, 6(2): 145–163. doi:10.3366/E1742360009000616
+* Riegler, Alexander and Igor Douven, 2009, “Extending the Hegselmann–Krause Model III: From Single Beliefs to Complex Belief States”, *Episteme*, 6(2): 145–163. doi: 10.3366/E1742360009000616
 * –––, 2010, “Extending the Hegselmann-Krause Model II”, in T. Czarnecki, K. Kijania-Placek, O. Poller, and J. Wolenski (eds.), *The Analytical Way: Proceedings of the 6th European Congress of Analytic Philosophy*, London: College Publications.
 * Riazanov, Alexandre and Andrei Voronkov, 2002, “The Design and Implementation of VAMPIRE”, *AI Communications*, 15(2–3): 91–110.
-* Robson, Arthur J., 1990, “Efficiency in Evolutionary Games: Darwin, Nash and the Secret Handshake”, *Journal of Theoretical Biology*, 144(3): 379–396. doi:10.1016/S0022-5193(05)80082-7
-* Rosenstock, Sarita, Justin Bruner, and Cailin O’Connor, 2017, “In Epistemic Networks, Is Less Really More?”, *Philosophy of Science*, 84(2): 234–252. doi:10.1086/690717
-* Rubin, Hannah and Cailin O’Connor, 2018, “Discrimination and Collaboration in Science”, *Philosophy of Science*, 85(3): 380–402. doi:10.1086/697744
+* Robson, Arthur J., 1990, “Efficiency in Evolutionary Games: Darwin, Nash and the Secret Handshake”, *Journal of Theoretical Biology*, 144(3): 379–396. doi: 10.1016/S0022-5193(05)80082-7
+* Rosenstock, Sarita, Justin Bruner, and Cailin O’Connor, 2017, “In Epistemic Networks, Is Less Really More?”, *Philosophy of Science*, 84(2): 234–252. doi: 10.1086/690717
+* Rubin, Hannah and Cailin O’Connor, 2018, “Discrimination and Collaboration in Science”, *Philosophy of Science*, 85(3): 380–402. doi: 10.1086/697744
 * Rushby, John, 2018, “A Mechanically Assisted Examination of Begging the Question in Anselm’s Ontological Argument”, *Journal of Applied Logics*, 5(7): 1473–1496.
-* Sargent, R G, 2013, “Verification and Validation of Simulation Models”, *Journal of Simulation*, 7(1): 12–24. doi:10.1057/jos.2012.20
-* Schelling, Thomas C., 1971, “Dynamic Models of Segregation”, *The Journal of Mathematical Sociology*, 1(2): 143–186. doi:10.1080/0022250X.1971.9989794
+* Sargent, R G, 2013, “Verification and Validation of Simulation Models”, *Journal of Simulation*, 7(1): 12–24. doi: 10.1057/jos.2012.20
+* Schelling, Thomas C., 1971, “Dynamic Models of Segregation”, *The Journal of Mathematical Sociology*, 1(2): 143–186. doi: 10.1080/0022250X.1971.9989794
 * –––, 1978, *Micromotives and Macrobehavior*, New York: Norton.
-* Shults, F. LeRon, 2019, “Computer Modeling in Philosophy of Religion”, *Open Philosophy*, (special issue on computer modeling in philosophy) 2(1): 108–125. doi:10.1515/opphil-2019-0011
+* Shults, F. LeRon, 2019, “Computer Modeling in Philosophy of Religion”, *Open Philosophy*, (special issue on computer modeling in philosophy) 2(1): 108–125. doi: 10.1515/opphil-2019-0011
 * Sidgwick, Henry, 1886, *Outlines of the History of Ethics for English Readers*, London: Macmillan, Indianapolis IN: Hackett 1988.
 * Siekmann, Jörg and G. Wrightson (eds.), 1983, *Automation of Reasoning: Classical Papers on Computational Logic, 1957–1965*, volume 1, Berlin: Springer
-* Singer, Daniel J., 2019, “Diversity, Not Randomness, Trumps Ability”, *Philosophy of Science*, 86(1): 178–191. doi:10.1086/701074
-* Singer, Daniel J., Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger, 2019, “Rational Social and Political Polarization”, *Philosophical Studies*, 176(9): 2243–2267. doi:10.1007/s11098-018-1124-5
-* Singer, Daniel J., Aaron Bramson, Patrick Grim, Bennett Holman, Karen Kovaka, Jiin Jung, and William J. Berger, forthcoming, “Don’t Forget Forgetting: The Social Epistemic Importance of How We Forget”, *Synthese*, first online: 8 October 2019. doi:10.1007/s11229-019-02409-0
-* Skyrms, Brian, 1996, *Evolution of the Social Contract*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806308
-* –––, 2004, *The Stag Hunt and the Evolution of Social Structure*, New York: Cambridge University Press. doi:10.1017/CBO9781139165228
-* –––, 2010, *Signals: Evolution, Learning and Information*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199580828.001.0001
-* Solomon, Miriam, 1994a, “Social Empiricism”, *Noûs*, 28(3): 325–343. doi:10.2307/2216062
+* Singer, Daniel J., 2019, “Diversity, Not Randomness, Trumps Ability”, *Philosophy of Science*, 86(1): 178–191. doi: 10.1086/701074
+* Singer, Daniel J., Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger, 2019, “Rational Social and Political Polarization”, *Philosophical Studies*, 176(9): 2243–2267. doi: 10.1007/s11098-018-1124-5
+* Singer, Daniel J., Aaron Bramson, Patrick Grim, Bennett Holman, Karen Kovaka, Jiin Jung, and William J. Berger, forthcoming, “Don’t Forget Forgetting: The Social Epistemic Importance of How We Forget”, *Synthese*, first online: 8 October 2019. doi: 10.1007/s11229-019-02409-0
+* Skyrms, Brian, 1996, *Evolution of the Social Contract*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511806308
+* –––, 2004, *The Stag Hunt and the Evolution of Social Structure*, New York: Cambridge University Press. doi: 10.1017/CBO9781139165228
+* –––, 2010, *Signals: Evolution, Learning and Information*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199580828.001.0001
+* Solomon, Miriam, 1994a, “Social Empiricism”, *Noûs*, 28(3): 325–343. doi: 10.2307/2216062
 * –––, 1994b, “A More Social Epistemology”, in Frederick E. Schmitt (ed.), *Socializing Epistemology: The Social Dimensions of Knowledge*, Lanham, MD: Rowman and Littlefield, pp. 217-233.
-* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, *Causation, Prediction, and Search*, (Lecture Notes in Statistics 81), New York: Springer New York. doi:10.1007/978-1-4612-2748-9
-* Sprenger, Jan and Stephen Hartmann, 2019, *Bayesian Philosophy of Science*, Oxford: Oxford University Press. doi:10.1093/oso/9780199672110.001.0001
-* Steen, Alexander and Christoph Benzmüller, 2018, “The Higher-Order Prover Leo-III”, in *KI 2019: Advances in Artificial Intelligence: 42nd German Conference on AI*, Didier Galmiche, Stephan Schulz, and Roberto Sebastiani (eds.), (Lecture Notes in Computer Science 10900), Cham: Springer International Publishing, 108–116. doi:10.1007/978-3-319-94205-6_8
-* St. Denis, Paul and Patrick Grim, 1997, “Fractal Images of Formal Systems”, *Journal of Philosophical Logic*, 26(2): 181–222. doi:10.1023/A:1004280900954
-* Steinhart, Eric, 1994, “NETMET: A Program for Generating and Interpreting Metaphors”, *Computers and the Humanities*, 28(6): 383–392. doi:10.1007/BF01829973
-* Steinhart, Eric and Eva Kittay, 1994, “Generating Metaphors from Networks: A Formal Interpretation of the Semantic Field Theory of Metaphor”, in *Aspects of Metaphor*, Jaakko Hintikka (ed.), Dordrecht: Springer Netherlands, 41–94. doi:10.1007/978-94-015-8315-2_3
-* Swift, J., 1726, *Gulliver’s Travels* URL= <https://www.gutenberg.org/files/829/829-h/829-h.htm>
+* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, *Causation, Prediction, and Search*, (Lecture Notes in Statistics 81), New York: Springer New York. doi: 10.1007/978-1-4612-2748-9
+* Sprenger, Jan and Stephen Hartmann, 2019, *Bayesian Philosophy of Science*, Oxford: Oxford University Press. doi: 10.1093/oso/9780199672110.001.0001
+* Steen, Alexander and Christoph Benzmüller, 2018, “The Higher-Order Prover Leo-III”, in *KI 2019: Advances in Artificial Intelligence: 42nd German Conference on AI*, Didier Galmiche, Stephan Schulz, and Roberto Sebastiani (eds.), (Lecture Notes in Computer Science 10900), Cham: Springer International Publishing, 108–116. doi: 10.1007/978-3-319-94205-6_8
+* St. Denis, Paul and Patrick Grim, 1997, “Fractal Images of Formal Systems”, *Journal of Philosophical Logic*, 26(2): 181–222. doi: 10.1023/A: 1004280900954
+* Steinhart, Eric, 1994, “NETMET: A Program for Generating and Interpreting Metaphors”, *Computers and the Humanities*, 28(6): 383–392. doi: 10.1007/BF01829973
+* Steinhart, Eric and Eva Kittay, 1994, “Generating Metaphors from Networks: A Formal Interpretation of the Semantic Field Theory of Metaphor”, in *Aspects of Metaphor*, Jaakko Hintikka (ed.), Dordrecht: Springer Netherlands, 41–94. doi: 10.1007/978-94-015-8315-2_3
+* Swift, J., 1726, *Gulliver’s Travels* URL = <https://www.gutenberg.org/files/829/829-h/829-h.htm>
 * Thagard, Paul, 1988, *Computational Philosophy of Science*, Cambridge MA: MIT Press.
 * –––, 1992, *Conceptual Revolutions*, Princeton, NJ: Princeton University Press.
 * –––, 2012, *The Cognitive Science of Science: Explanation, Discovery, and Conceptual Change*, Cambridge MA: MIT Press.
-* Thicke, Michael, forthcoming, “Evaluating Formal Models of Science”, *Journal for General Philosophy of Science*, First online: 1 February 2019. doi:10.1007/s10838-018-9440-1
-* Thoma, Johanna, 2015, “The Epistemic Division of Labor Revisited”, *Philosophy of Science*, 82(3): 454–472. doi:10.1086/681768
+* Thicke, Michael, forthcoming, “Evaluating Formal Models of Science”, *Journal for General Philosophy of Science*, First online: 1 February 2019. doi: 10.1007/s10838-018-9440-1
+* Thoma, Johanna, 2015, “The Epistemic Division of Labor Revisited”, *Philosophy of Science*, 82(3): 454–472. doi: 10.1086/681768
 * Thompson, Abigail, 2014, “Does Diversity Trump Ability?: An Example of the Misuse of Mathematics in the Social Sciences”, *Notices of the American Mathematical Society*, 61(9): 1024–1030.
-* Turing, A. M., 1936–1937, “On Computable Numbers, with an Application to the *Entscheidungsproblem*”, *Proceedings of the London Mathematical Society*, s2-42(1): 230–265. doi:10.1112/plms/s2-42.1.230
-* van Benthem, Johan, 2006, “Epistemic Logic and Epistemology: The State of Their Affairs”, *Philosophical Studies*, 128(1): 49–76. doi:10.1007/s11098-005-4052-0
-* van de Rijt, Arnout, David Siegel, and Michael Macy, 2009, “Neighborhood Chance and Neighborhood Change: A Comment on Bruch and Mare”, *American Journal of Sociology*, 114(4): 1166–1180. doi:10.1086/588795
-* Van Den Hoven, Jeroen and Gert‐Jan Lokhorst, 2002, “Deontic Logic and Computer‐Supported Computer Ethics”, *Metaphilosophy*, 33(3): 376–386. doi:10.1111/1467-9973.00233
-* Van Ditmarsch, Hans, Wiebe van der Hoek, and Barteld Kooi, 2008, *Dynamic Epistemic Logic*, (Synthese Library 337), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-5839-4
-* Vanderschraaf, Peter, 2006, “War or Peace?: A Dynamical Analysis of Anarchy”, *Economics and Philosophy*, 22(2): 243–279. doi:10.1017/S0266267106000897
-* Wagner, Elliott, 2009, “Communication and Structured Correlation”, *Erkenntnis*, 71(3): 377–393. doi:10.1007/s10670-009-9157-y
+* Turing, A. M., 1936–1937, “On Computable Numbers, with an Application to the *Entscheidungsproblem*”, *Proceedings of the London Mathematical Society*, s2-42(1): 230–265. doi: 10.1112/plms/s2-42.1.230
+* van Benthem, Johan, 2006, “Epistemic Logic and Epistemology: The State of Their Affairs”, *Philosophical Studies*, 128(1): 49–76. doi: 10.1007/s11098-005-4052-0
+* van de Rijt, Arnout, David Siegel, and Michael Macy, 2009, “Neighborhood Chance and Neighborhood Change: A Comment on Bruch and Mare”, *American Journal of Sociology*, 114(4): 1166–1180. doi: 10.1086/588795
+* Van Den Hoven, Jeroen and Gert‐Jan Lokhorst, 2002, “Deontic Logic and Computer‐Supported Computer Ethics”, *Metaphilosophy*, 33(3): 376–386. doi: 10.1111/1467-9973.00233
+* Van Ditmarsch, Hans, Wiebe van der Hoek, and Barteld Kooi, 2008, *Dynamic Epistemic Logic*, (Synthese Library 337), Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-5839-4
+* Vanderschraaf, Peter, 2006, “War or Peace?: A Dynamical Analysis of Anarchy”, *Economics and Philosophy*, 22(2): 243–279. doi: 10.1017/S0266267106000897
+* Wagner, Elliott, 2009, “Communication and Structured Correlation”, *Erkenntnis*, 71(3): 377–393. doi: 10.1007/s10670-009-9157-y
 * Waldrop, M. Mitchell, 1992, *Complexity: The Emerging Science at the Edge of Order and Chaos*, New York: Simon and Schuster.
-* Wang, Hao, 1960, “Toward Mechanical Mathematics”, *IBM Journal of Research and Development*, 4(1): 2–22. doi:10.1147/rd.41.0002
-* Watts, Duncan J. and Steven H. Strogatz, 1998, “Collective Dynamics of ‘Small-World’ Networks”, *Nature*, 393(6684): 440–442. doi:10.1038/30918
-* Weisberg, Michael, 2013, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199933662.001.0001
-* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor”, *Philosophy of Science*, 76(2): 225–252. doi:10.1086/644786
-* Weymark, John A., 2015, “Cognitive Diversity, Binary Decisions, and Epistemic Democracy”, *Episteme*, 12(4): 497–511. doi:10.1017/epi.2015.34
+* Wang, Hao, 1960, “Toward Mechanical Mathematics”, *IBM Journal of Research and Development*, 4(1): 2–22. doi: 10.1147/rd.41.0002
+* Watts, Duncan J. and Steven H. Strogatz, 1998, “Collective Dynamics of ‘Small-World’ Networks”, *Nature*, 393(6684): 440–442. doi: 10.1038/30918
+* Weisberg, Michael, 2013, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199933662.001.0001
+* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor”, *Philosophy of Science*, 76(2): 225–252. doi: 10.1086/644786
+* Weymark, John A., 2015, “Cognitive Diversity, Binary Decisions, and Epistemic Democracy”, *Episteme*, 12(4): 497–511. doi: 10.1017/epi.2015.34
 * Whitehead, Alfred North and Bertrand Russell, 1910, 1912, 1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
-* Windrum, Paul, Giorgio Fagiolo, and Alessio Moneta, 2007, “Empirical Validation of Agent-Based Models: Alternatives and Prospects”, *Journal of Artificial Societies and Social Simulation*, 10(2): 8. URL = http://jasss.soc.surrey.ac.uk/10/2/8.html>
-* Wiseman, Thomas and Okan Yilankaya, 2001, “Cooperation, Secret Handshakes, and Imitation in the Prisoners’ Dilemma”, *Games and Economic Behavior*, 37(1): 216–242. doi:10.1006/game.2000.0836
+* Windrum, Paul, Giorgio Fagiolo, and Alessio Moneta, 2007, “Empirical Validation of Agent-Based Models: Alternatives and Prospects”, *Journal of Artificial Societies and Social Simulation*, 10(2): 8. URL = http://jasss.soc.surrey.ac.uk/10/2/8.html >
+* Wiseman, Thomas and Okan Yilankaya, 2001, “Cooperation, Secret Handshakes, and Imitation in the Prisoners’ Dilemma”, *Games and Economic Behavior*, 37(1): 216–242. doi: 10.1006/game.2000.0836
 * Wright, Sewall, 1932, “The Roles of Mutation, Inbreeding, Crossbreeding, and Selection in Evolution”, *Proceedings of the Sixth International Congress on Genetics,* vol. 1, D. F. Jones (ed.), pp. 355–366.
-* Young, H.P., 1993, “An Evolutionary Model of Bargaining”, *Journal of Economic Theory*, 59(1): 145–168. doi:10.1006/jeth.1993.1009
+* Young, H.P., 1993, “An Evolutionary Model of Bargaining”, *Journal of Economic Theory*, 59(1): 145–168. doi: 10.1006/jeth.1993.1009
 * Zalta, Edward, 2020, *Principia Metaphysica*, unpublished manuscript. URL = <https://mally.stanford.edu/principia.pdf>
-* Zollman, Kevin James Spears, 2005, “Talking to Neighbors: The Evolution of Regional Meaning”, *Philosophy of Science*, 72(1): 69–85. doi:10.1086/428390
-* –––, 2007, “The Communication Structure of Epistemic Communities”, *Philosophy of Science*, 74(5): 574–587. doi:10.1086/525605
-* –––, 2010a, “The Epistemic Benefit of Transient Diversity”, *Erkenntnis*, 72(1): 17–35. doi:10.1086/525605
-* –––, 2010b, “Social Structure and the Effects of Conformity”, *Synthese*, 172(3): 317–340. doi:10.1007/s11229-008-9393-8
+* Zollman, Kevin James Spears, 2005, “Talking to Neighbors: The Evolution of Regional Meaning”, *Philosophy of Science*, 72(1): 69–85. doi: 10.1086/428390
+* –––, 2007, “The Communication Structure of Epistemic Communities”, *Philosophy of Science*, 74(5): 574–587. doi: 10.1086/525605
+* –––, 2010a, “The Epistemic Benefit of Transient Diversity”, *Erkenntnis*, 72(1): 17–35. doi: 10.1086/525605
+* –––, 2010b, “Social Structure and the Effects of Conformity”, *Synthese*, 172(3): 317–340. doi: 10.1007/s11229-008-9393-8
 
 ## Academic Tools
 

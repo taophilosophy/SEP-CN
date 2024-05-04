@@ -1,8 +1,8 @@
-# 拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)
+# 拉尔夫 · 库德沃斯 Cudworth, Ralph (Sarah Hutton)
 
 *首次发表于 2021 年 5 月 7 日星期五*
 
-英国哲学家拉尔夫·卡德沃斯（1618-1688）无法被归类为传统哲学史中的常规类别。在主流哲学家宣布通过与过去决裂来宣扬他们的现代性的时代，卡德沃斯是一个延续性的人物，深谙古代哲学，同时又了解当代哲学和科学。他与培根、霍布斯和笛卡尔等自封为现代化者的哲学家分享了反斯科拉主义的议程，但他最原创的想法是通过诉诸古代而得出的。卡德沃斯通常被视为剑桥柏拉图主义者，尽管他本人可能不会承认这个标签。尽管他通常被归类为一位理性主义者，但越来越明显的是，这一称号是基于对他哲学著作的过于狭隘的看法。
+英国哲学家拉尔夫 · 卡德沃斯（1618-1688）无法被归类为传统哲学史中的常规类别。在主流哲学家宣布通过与过去决裂来宣扬他们的现代性的时代，卡德沃斯是一个延续性的人物，深谙古代哲学，同时又了解当代哲学和科学。他与培根、霍布斯和笛卡尔等自封为现代化者的哲学家分享了反斯科拉主义的议程，但他最原创的想法是通过诉诸古代而得出的。卡德沃斯通常被视为剑桥柏拉图主义者，尽管他本人可能不会承认这个标签。尽管他通常被归类为一位理性主义者，但越来越明显的是，这一称号是基于对他哲学著作的过于狭隘的看法。
 
 卡德沃斯的著作数量可观，但其中许多从未出版，他的哲学体系是不完整的。总体而言，他的哲学将柏拉图主义的伦理学和形而上学与一个原子论的自然哲学相结合。他主要因其认识论的先天主义和其伦理理想主义而被人们铭记。他哲学的独特元素包括他的意识和无意识理论，他将自由意志看作是自我决定的力量，以及他所称之为“自然的塑造力”的因果假设。他的著作中充满了巨大的人文主义学问，这使得他在后人文主义时代的哲学家身份有些被掩盖，但这并没有阻止他在 18 和 19 世纪的哲学中留下了可观的遗产。
 
@@ -10,7 +10,7 @@
 
 ## 1. 生平与作品
 
-凯德沃斯出生在萨默塞特郡的阿勒，接受教育于剑桥大学伊曼纽尔学院，于 1639 年当选为研究员。在英国内战的动荡时期，他在剑桥大学的学术生涯不断发展：他先后被任命为克莱尔学院院长（1645 年）、圣经教授（1645 年）和基督学院院长（1654 年）。尽管与过渡政权有关，但在 1660 年君主制恢复时，他保留了他在学院和大学的职位，一直留在剑桥直到 1688 年去世（Pailin 2020）。他的女儿达玛丽斯·玛尚夫人成为约翰·洛克的亲密朋友，是他的孩子中唯一追随他脚步成为哲学家的人。
+凯德沃斯出生在萨默塞特郡的阿勒，接受教育于剑桥大学伊曼纽尔学院，于 1639 年当选为研究员。在英国内战的动荡时期，他在剑桥大学的学术生涯不断发展：他先后被任命为克莱尔学院院长（1645 年）、圣经教授（1645 年）和基督学院院长（1654 年）。尽管与过渡政权有关，但在 1660 年君主制恢复时，他保留了他在学院和大学的职位，一直留在剑桥直到 1688 年去世（Pailin 2020）。他的女儿达玛丽斯 · 玛尚夫人成为约翰 · 洛克的亲密朋友，是他的孩子中唯一追随他脚步成为哲学家的人。
 
 凯德沃斯在他有生之年出版的唯一哲学作品是《宇宙的真正智力体系》（1678 年）（以下简称 TISU）。他的两部作品在他去世后出版：1731 年出版的《论永恒和不变的道德》（以下简称 TEIM）和 1838 年出版的《论自由意志》（以下简称 FW）。一大批关于“自由与必然”的手稿至今未被出版，尽管这些手稿可能在 17 世纪流传。在 TISU 出版之前，凯德沃斯的哲学思想主要通过少数几篇布道文传播，其中最著名的是 1647 年在议会前宣讲的布道文，预示了他哲学著作的柏拉图主义观点，并因其传达和解与和平的信息而被认为是一部经典。
 
@@ -20,7 +20,7 @@
 2. “自然正义和道德基于神” 和
 3. “必然性的自由和奖惩的分配正义”（TISU，Sig A34）
 
-这一主题的划分对应于他认为真正哲学和真正宗教的基本要素，即上帝的存在（即“一位全能的、理解的存在主宰着一切……[这是]本质上善良和公正的”），道德原则的真实存在，这些原则根植于神圣的善而不是神圣的意志（即，“某种本质上、永恒地公正和不公正的东西；不仅仅是通过任意的意志、法律和命令”），以及人类的道德自治（“我们在行动中是自己的原则或主人，因此要对它们负责”）（TISU A45）。卡德沃解释了这一体系标题中的“智性”一词，意在将其与天文理论或世界体系区分开来。这个术语还表明，他的“体系”被构想为柏拉图式的，作为一切事物的永恒、不变的模式或范例，即“智性体系”是揭示一切存在的形而上学框架的可理解领域。（很可能是柏拉图的《泰玛伊》在这里提供了灵感）。对于卡德沃来说，自然体系是神圣智慧的可理解产物。他的体系在哲学上是真实的，也因为它的哲学原则与宗教真理相容。
+这一主题的划分对应于他认为真正哲学和真正宗教的基本要素，即上帝的存在（即“一位全能的、理解的存在主宰着一切……[这是] 本质上善良和公正的”），道德原则的真实存在，这些原则根植于神圣的善而不是神圣的意志（即，“某种本质上、永恒地公正和不公正的东西；不仅仅是通过任意的意志、法律和命令”），以及人类的道德自治（“我们在行动中是自己的原则或主人，因此要对它们负责”）（TISU A45）。卡德沃解释了这一体系标题中的“智性”一词，意在将其与天文理论或世界体系区分开来。这个术语还表明，他的“体系”被构想为柏拉图式的，作为一切事物的永恒、不变的模式或范例，即“智性体系”是揭示一切存在的形而上学框架的可理解领域。（很可能是柏拉图的《泰玛伊》在这里提供了灵感）。对于卡德沃来说，自然体系是神圣智慧的可理解产物。他的体系在哲学上是真实的，也因为它的哲学原则与宗教真理相容。
 
 1678 年出版的 TISU 只是卡德沃计划撰写的三卷中的第一卷，但他将其捍卫为一部独立的作品。在这部作品中，他试图为有神论提供反决定论的辩护，反对怀疑论、无神论和唯物主义，并证明真正哲学与真正宗教的兼容性。在这样的论证中，他可能考虑到了柏拉图《法律》第十卷的反无神论论点。特别是最后一章，包含了许多与他的哲学同代人（笛卡尔、霍布斯和斯宾诺莎）的论证（通常是广泛的）。TISU 还涉及了一些认识论和伦理主题，这些主题在他去世时尚未完全展开的手稿中得到了更充分的处理。
 
@@ -52,7 +52,7 @@ Cudworth 系统的一个显著特征是他关于“塑性自然”的假设，�
 
 因此，Cudworth 将塑性自然定位为上帝维持物质宇宙日常运作的工具，以有序的方式调节生命过程，以维持自然界作为一个和谐、统一和有目的系统的概念，反映出建筑师的善良和智慧。塑性自然是一种渗透物质事物的力量或能量，结合了效率、目的和形式原因，同时也允许偶然性和错误的可能性。由于其缺陷，塑性自然容易出错（“失误”）：尽管它是神圣心灵的复制品，但只是一个模糊的复制品（“仅仅是智性的影子，心智和理解的微弱和模糊模仿”，TISU，172），并且在不知情的情况下运作（人类心灵与塑性自然的一个主要区别是塑性自然是无意识的）。通过这种方式，Cudworth 试图在偶然主义（需要上帝直接干预日常自然运作的微观层面）、决定论和机遇之间寻找一条道路。
 
-Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，他将亚里士多德将自然视为艺术（techne—《物理学》，2.8）的概念解释为其版本。但他最重要的债务是归于普罗提诺，尤其是他对无意识生命自然的想法，以及他对同情作为宇宙中一种粘合剂的概念（见《恩尼阿德》4.4）（Hutton 2021）。在 17 世纪，自然中的中介因果机构的概念并不是前所未有的，特别是在医学思想中。塑性自然与亨利·莫尔关于自然之灵的概念之间存在着密切的关联。然而，与莫尔的主要区别在于，塑性自然并非延伸——对于 Cudworth 来说，延伸是身体的属性，而不是非物质实体。
+Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，他将亚里士多德将自然视为艺术（techne—《物理学》，2.8）的概念解释为其版本。但他最重要的债务是归于普罗提诺，尤其是他对无意识生命自然的想法，以及他对同情作为宇宙中一种粘合剂的概念（见《恩尼阿德》4.4）（Hutton 2021）。在 17 世纪，自然中的中介因果机构的概念并不是前所未有的，特别是在医学思想中。塑性自然与亨利 · 莫尔关于自然之灵的概念之间存在着密切的关联。然而，与莫尔的主要区别在于，塑性自然并非延伸——对于 Cudworth 来说，延伸是身体的属性，而不是非物质实体。
 
 ## 6. 认识论
 
@@ -90,9 +90,9 @@ Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，�
 
 评估卡德沃思的影响程度是有问题的，因为他的认识论和伦理学在他有生之年几乎没有发表，很难确定他的未发表著作是否流传。他的哲学手稿的传播肯定可以解释为什么卢克和沙夫茨伯里的一些思想中存在着卡德沃思思想的迷人回响，尤其是卢克关于意识和权力的思想，以及沙夫茨伯里的道德感情主义。
 
-卡德沃思在哲学史上的地位因 1838 年出版《自由意志论》之前的情况而变得复杂，他被认为是类似于塞缪尔·克拉克的理性主义者，主要基于 TEIM 的基础上，例如休谟就是这样看待他的。自从约翰·帕斯莫尔对他未发表手稿著作的开创性研究（帕斯莫尔 1951 年）以来，这种分类已不再可持续。人们越来越意识到卡德沃思预见了道德哲学的后续发展，尤其是道德感情主义（吉尔 2004 年，哈顿 2012 年）。然而，帕斯莫尔的洞察力仍未完全渗透到今天对卡德沃思的评估中，他也被错误地描述为主要是一位神学家，一个自由意志主义者，甚至是一个神秘主义者。近来，卡德沃思的广博学识和华丽冗长的文字倾向被视为障碍，现代读者对他的综合哲学构想缺乏共鸣。然而，从 17 世纪到 19 世纪，卡德沃思的哲学吸引了一系列杰出的哲学读者，其中包括洛克、沙夫茨伯里、莱布尼茨、里德、休谟和其他苏格兰启蒙运动的哲学家。牛顿在卡德沃思身上做了大量笔记，保存在他的手稿“出自卡德沃思”中（牛顿，见）。理查德·普莱斯的《道德中的主要问题和困难评论》（普莱斯 1758 年）受到了卡德沃思遗作 TEIM 的影响。卡德沃思的崇拜者还包括亚历山大·蒲伯、塞缪尔·泰勒·柯勒律治和美国超验主义者。苏格兰哲学史家杜加尔德·斯图尔特对他非常推崇。他的“塑性自然”假说有着漫长的后世影响：它成为皮埃尔·贝尔和让·勒克莱之间的争议主题（罗莎 1994 年，西蒙努蒂 1993 年），后者在卡德沃思女儿达玛丽斯的怂恿下为他辩护。这一假说被植物学家约翰·雷采纳，被丹尼斯·狄德罗收录在《百科全书》中，并在 19 世纪中叶由保罗·珍娜特辩护。
+卡德沃思在哲学史上的地位因 1838 年出版《自由意志论》之前的情况而变得复杂，他被认为是类似于塞缪尔 · 克拉克的理性主义者，主要基于 TEIM 的基础上，例如休谟就是这样看待他的。自从约翰 · 帕斯莫尔对他未发表手稿著作的开创性研究（帕斯莫尔 1951 年）以来，这种分类已不再可持续。人们越来越意识到卡德沃思预见了道德哲学的后续发展，尤其是道德感情主义（吉尔 2004 年，哈顿 2012 年）。然而，帕斯莫尔的洞察力仍未完全渗透到今天对卡德沃思的评估中，他也被错误地描述为主要是一位神学家，一个自由意志主义者，甚至是一个神秘主义者。近来，卡德沃思的广博学识和华丽冗长的文字倾向被视为障碍，现代读者对他的综合哲学构想缺乏共鸣。然而，从 17 世纪到 19 世纪，卡德沃思的哲学吸引了一系列杰出的哲学读者，其中包括洛克、沙夫茨伯里、莱布尼茨、里德、休谟和其他苏格兰启蒙运动的哲学家。牛顿在卡德沃思身上做了大量笔记，保存在他的手稿“出自卡德沃思”中（牛顿，见）。理查德 · 普莱斯的《道德中的主要问题和困难评论》（普莱斯 1758 年）受到了卡德沃思遗作 TEIM 的影响。卡德沃思的崇拜者还包括亚历山大 · 蒲伯、塞缪尔 · 泰勒 · 柯勒律治和美国超验主义者。苏格兰哲学史家杜加尔德 · 斯图尔特对他非常推崇。他的“塑性自然”假说有着漫长的后世影响：它成为皮埃尔 · 贝尔和让 · 勒克莱之间的争议主题（罗莎 1994 年，西蒙努蒂 1993 年），后者在卡德沃思女儿达玛丽斯的怂恿下为他辩护。这一假说被植物学家约翰 · 雷采纳，被丹尼斯 · 狄德罗收录在《百科全书》中，并在 19 世纪中叶由保罗 · 珍娜特辩护。
 
-尽管《道德的智慧》从未成为畅销书，但在几个世纪间定期再版。托马斯·伯奇于 1743 年编辑的《道德的智慧》中包含了 TEIM，并于 1820 年和 1829 年再版。1837-1838 年在纽约出版了一版，约翰·哈里森于 1845 年出版了一版（附有莫斯海姆的注释）。卡德沃思的哲学被翻译成拉丁语、法语和意大利语，从而确保他的哲学在欧洲有读者。德国学者约翰·洛伦兹·莫斯海姆于 1733 年在耶拿出版的拉丁文译本（1773 年在莱顿重印）还包括了 TEIM 的翻译。（通过耶拿的联系可能与康德有关，尚待探讨）。《道德的智慧》的一部分被让·勒克莱在他的《精选图书馆》（1703-1706 年）中用法语出版。（很可能是莱布尼兹所知道的版本，尽管他也拥有一份由卡德沃思女儿达玛丽斯·马瑟姆赠送给他的原版副本）。在 18 世纪，卡德沃思的哲学也以缩短形式传播。托马斯·怀斯的缩短版本《反驳无神论的理由和哲学》在 1706 年至 1732 年间重印了三次。直到 1838 年《自由意志》出版时，他的任何未发表手稿才被印刷。
+尽管《道德的智慧》从未成为畅销书，但在几个世纪间定期再版。托马斯 · 伯奇于 1743 年编辑的《道德的智慧》中包含了 TEIM，并于 1820 年和 1829 年再版。1837-1838 年在纽约出版了一版，约翰 · 哈里森于 1845 年出版了一版（附有莫斯海姆的注释）。卡德沃思的哲学被翻译成拉丁语、法语和意大利语，从而确保他的哲学在欧洲有读者。德国学者约翰 · 洛伦兹 · 莫斯海姆于 1733 年在耶拿出版的拉丁文译本（1773 年在莱顿重印）还包括了 TEIM 的翻译。（通过耶拿的联系可能与康德有关，尚待探讨）。《道德的智慧》的一部分被让 · 勒克莱在他的《精选图书馆》（1703-1706 年）中用法语出版。（很可能是莱布尼兹所知道的版本，尽管他也拥有一份由卡德沃思女儿达玛丽斯 · 马瑟姆赠送给他的原版副本）。在 18 世纪，卡德沃思的哲学也以缩短形式传播。托马斯 · 怀斯的缩短版本《反驳无神论的理由和哲学》在 1706 年至 1732 年间重印了三次。直到 1838 年《自由意志》出版时，他的任何未发表手稿才被印刷。
 
 ## Bibliography
 
@@ -120,7 +120,7 @@ Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，�
   * 1733, Latin translation included in *TISU* 1733.
   * 1743, included in *TISU* 1743.
   * 1995, *Traité de morale et Traité du libre arbitre*, introduction, traduction et notes par Jean-Louis Breteau, Paris.
-  * 1996, *A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill*, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
+  * 1996, *A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill*, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139166720
 * [*FW*], *Of Freewill*. Quotations are from the 1996 edition edition printed with *TEIM* 1996.
   * 1838, *A Treatise of Freewill*, J. Allen (ed.), London.
   * 1996, included in *TEIM* 1996.
@@ -137,28 +137,28 @@ Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，�
 
 ### Secondary sources
 
-* Allen, Keith, 2013, “Cudworth on Mind, Body, and Plastic Nature: Cudworth on Mind, Body, and Plastic Nature”, *Philosophy Compass*, 8(4): 337–347. doi:10.1111/phc3.12026
+* Allen, Keith, 2013, “Cudworth on Mind, Body, and Plastic Nature: Cudworth on Mind, Body, and Plastic Nature”, *Philosophy Compass*, 8(4): 337–347. doi: 10.1111/phc3.12026
 * Aspelin, Gunnar, 1943, “Ralph Cudworth’s Interpretation of Greek Philosophy. A Study in the History of English Philosophical Ideas”, *Gôteborgs Hôgskolas Arsskrift*, 49, 1–47.
 * Bergemann, Lutz, 2012, *Ralph Cudworth: System aus Transformation: zur Naturphilosophie der Cambridge Platonists und ihrer Methode*, Berlin; Boston : De Gruyter.
 * Cassirer, Ernst, 1932, *Die Platonische Renaissance in England und di Schule von Cambridge*, Leipzig and Berlin: B. G. Teubner. English translation by James P. Pettigrove: *The Platonic Renaissance in England*, Edinburgh: Thomas Nelson and Sons, 1953.
 * Carter, Benjamin, 2011, *“The little commonwealth of man”: the Trinitarian Origins of the Ethical and Political Philosophy of Ralph Cudworth*, Leuven: Peeters.
 * –––, 2014, “Ralph Cudworth”, in *Early Modern Philosophy of Religion: The History of Western Philosophy of Religion*, Volume 3, Graham Oppy and N. N. Trakakis (eds), London: Routledge, 113–125.
-* Chappell, Vere, 2005, “Self–Determination”, in Christia Mercer and Eileen O'Neill (eds.), *Early Modern Philosophy: Mind, Matter, and Metaphysics*, Oxford: Oxford University Press. doi:10.1093/0195177606.003.0009
-* Cunning, David, 2003, “Systematic Divergences in Malebranche and Cudworth”, *Journal of the History of Philosophy*, 41(3): 343–363. doi:10.1353/hph.2003.0026
+* Chappell, Vere, 2005, “Self–Determination”, in Christia Mercer and Eileen O'Neill (eds.), *Early Modern Philosophy: Mind, Matter, and Metaphysics*, Oxford: Oxford University Press. doi: 10.1093/0195177606.003.0009
+* Cunning, David, 2003, “Systematic Divergences in Malebranche and Cudworth”, *Journal of the History of Philosophy*, 41(3): 343–363. doi: 10.1353/hph.2003.0026
 * Darwall, Stephen, 1995, *The British Moralists and the Internal “Ought”, 1640–1740*, Cambridge: Cambridge University Press.
 * Della Monica, Luigi, 2008, “Il Concetto di Amore nel Pensiero Religioso di Ralph Cudworth”, *Rivista di Filosofia Neo-Scolastica*, 100(4): 505–535.
 * Esquisabel, Oscar M. and María Griselda Gaiada, 2015, “Le libre arbitre et «le paradoxe des facultés». Suárez, Hobbes et Leibniz selon le jugement de Cudworth”, *Studia Leibnitiana*, 47(2): 162–185.
-* Giglioni, Guido, 1995, “Automata Compared Boyle, Leibniz and the Debate on the Notion of Life and Mind”, *British Journal for the History of Philosophy*, 3(2): 249–278. doi:10.1080/09608789508570917
-* Gill, Michael B., 2004, “Rationalism, Sentimentalism, and Ralph Cudworth”, *Hume Studies*, 30(1): 149–181. doi:10.1353/hms.2011.0243
+* Giglioni, Guido, 1995, “Automata Compared Boyle, Leibniz and the Debate on the Notion of Life and Mind”, *British Journal for the History of Philosophy*, 3(2): 249–278. doi: 10.1080/09608789508570917
+* Gill, Michael B., 2004, “Rationalism, Sentimentalism, and Ralph Cudworth”, *Hume Studies*, 30(1): 149–181. doi: 10.1353/hms.2011.0243
 * Gysi, Lydia, 1962, *Platonism and Cartesianism in the Philosophy of Ralph Cudworth*, Bern: Herbert Lang.
 * Gregory, Tullio, 1967, “Studi sull'atomismo del seicento: III Cudworth e l’atomismo”, *Giornale critico della filosofia italiana*, 46: 528–541.
-* Hunter, William B., 1950, “The Seventeenth Century Doctrine of Plastic Nature”, *Harvard Theological Review*, 43(3): 197–213. doi:10.1017/S0017816000024512
+* Hunter, William B., 1950, “The Seventeenth Century Doctrine of Plastic Nature”, *Harvard Theological Review*, 43(3): 197–213. doi: 10.1017/S0017816000024512
 * Hutton, Sarah, 1997, “Classicism and Baroque. A Note on J.L. Mosheim’s Footnotes to Cudworth’s *True Intellectual System of the Universe*”, in *Johann Lorenz Mosheim. (1693–1755)*, Martin Mulsow (ed.), Wiesbaden: Harrassowitz, 211–227.
 * –––, 1999, “Aristotle and the Cambridge Platonists: the case of Cudworth”, in *Conversations with Aristotle*, Constance Blackwell and Sachiko Kusukawa (eds), Aldershot: Ashgate, 337–349.
 * –––, 2001, “Ethics, Power and Action in Cudworth”, in *Dal Necessario al Possibile. Determinismo e libertà nel pensiero anglo-olandese del XVII secolo*, Luisa Simonutti (ed.), Milan: F. Angeli, 81–97.
-* –––, 2008, “Some Thoughts concerning Ralph Cudworth”, in *Studies on Locke: Sources, Contemporaries and Legacy*, Sarah Hutton and Paul Schuurman (eds), Dordrecht: Springer, 143–158. doi:10.1007/978-1-4020-8325-9_9
-* –––, 2012, “From Cudworth to Hume: Cambridge Platonism and the Scottish Enlightenment”, *Canadian Journal of Philosophy*, 42(S1): 8–26. doi:10.1080/00455091.2012.981009
-* –––, 2017, “Salving the Phenomena of Mind: Energy, *Hegemonikon*, and Sympathy in Cudworth”, *British Journal for the History of Philosophy*, 25(3): 465–486. doi:10.1080/09608788.2016.1185601
+* –––, 2008, “Some Thoughts concerning Ralph Cudworth”, in *Studies on Locke: Sources, Contemporaries and Legacy*, Sarah Hutton and Paul Schuurman (eds), Dordrecht: Springer, 143–158. doi: 10.1007/978-1-4020-8325-9_9
+* –––, 2012, “From Cudworth to Hume: Cambridge Platonism and the Scottish Enlightenment”, *Canadian Journal of Philosophy*, 42(S1): 8–26. doi: 10.1080/00455091.2012.981009
+* –––, 2017, “Salving the Phenomena of Mind: Energy, *Hegemonikon*, and Sympathy in Cudworth”, *British Journal for the History of Philosophy*, 25(3): 465–486. doi: 10.1080/09608788.2016.1185601
 * –––, 2019a, “Ralph Cudworth’s *Sermon before the House of Commons* in Theological and Political Context”, in *Origenes Cantabrigiensis: Ralph Cudworth, Predigt vor dem Unterhaus und andere Schriften* (Adamantiana, 11), Alfons Fürst and Christian Hengstermann (eds), Münster: Aschendorff Verlag. 35–49.
 * –––, 2019b, “Ralph Cudworth: Plastic Nature, Cognition and the Cognizable World”, in *Causation and Cognition in Early Modern Philosophy*, Dominik Perler and Sebastian Bender (eds), London and New York: Routledge, 105–122.
 * –––, 2021, “‘Plastick powers’ and the Power of Sympathy in Cudworth and More: the Spirit of Nature and Plastic Nature”, *Powers* (Oxford Philosophical Concepts), Julia Jorati (ed.), Oxford/New York: Oxford University Press, 189–213.
@@ -168,33 +168,33 @@ Cudworth 引用其他哲学家来支持他的假设，包括亚里士多德，�
 * Janet, Paul, 1848, *De plastica naturæ vita (Plastic life of nature) quæ a Cudwortho in systemate intellectuali celebratur*, Facultati Parisiensi hanc thesim proponebat, Paris: Joubert.
 * –––, 1860, *Essai sur le médiateur plastique de Cudworth*, Paris: Ladrange.
 * Kaldas, Samuel M., 2019, “Reason, Sentiment, and Autonomy in the Moral Philosophy of Ralph Cudworth”, *History of Philosophy Quarterly*, 36(2): 161–180.
-* Lähteenmäki, Vili, 2010, “Cudworth on Types of Consciousness”, *British Journal for the History of Philosophy*, 18(1): 9–34. doi:10.1080/09608780903422206
-* Leech, David, 2017, “Cudworth on Superintellectual Instinct as Inclination to the Good”, *British Journal for the History of Philosophy*, 25(5): 954–970. doi:10.1080/09608788.2017.1330188
-* Leisinger, Matthew A., 2019, “The Inner Work of Liberty: Cudworth on Desire and Attention”, *International Journal of Philosophical Studies*, 27(5): 649–667. doi:10.1080/09672559.2019.1657168
+* Lähteenmäki, Vili, 2010, “Cudworth on Types of Consciousness”, *British Journal for the History of Philosophy*, 18(1): 9–34. doi: 10.1080/09608780903422206
+* Leech, David, 2017, “Cudworth on Superintellectual Instinct as Inclination to the Good”, *British Journal for the History of Philosophy*, 25(5): 954–970. doi: 10.1080/09608788.2017.1330188
+* Leisinger, Matthew A., 2019, “The Inner Work of Liberty: Cudworth on Desire and Attention”, *International Journal of Philosophical Studies*, 27(5): 649–667. doi: 10.1080/09672559.2019.1657168
 * Leisinger, Matthew A., forthcoming, “Cudworthian Consciousness”, in *Oxford Studies in Early Modern Philosophy*, volume 11, Oxford: Oxford University Press.
 * Lotti, Brunello, 2004, *Ralph Cudworth e l’idea di natura plastica*, Udine: Campanotto.
 * Martin, Raymond, and John Barresi, 2013, *The Rise and Fall of Soul and Self: An Intellectual History of Personal Identity*, New York: Columbia University Press.
 * Mintz, Samuel I., 1962, *The Hunting of Leviathan*, Cambridge: Cambridge University Press.
 * Muirhead, John H., 1931, *The Platonic Tradition in Anglo-Saxon Philosophy*, New York: Allen & Unwin.
 * Musca, Giosuè, 1988, “«Omne genus animalium». Antichità e Medioevo in una biblioteca privata inglese del Seicento”, *Quaderni Medievali*, 25 : 25–76. On Cudworth’s books.
-* Pailin, David, 2020, “Cudworth, Ralph ”, *The Oxford Dictionary of National Biography*, Oxford: Oxford University Press. doi:10.1093/ref:odnb/6864
+* Pailin, David, 2020, “Cudworth, Ralph ”, *The Oxford Dictionary of National Biography*, Oxford: Oxford University Press. doi: 10.1093/ref: odnb/6864
 * Passmore, J.A., 1951, *Ralph Cudworth: An Interpretation*, Cambridge: Cambridge University Press. (Although Passmore misattributed one of the manuscripts, this classic study of Cudworth’s philosophy has not been superseded.)
-* Pécharman, Martine, 2014, “Cudworth on Self-Consciousness and the *I Myself*”, *Vivarium*, 52(3–4): 287–314. doi:10.1163/15685349-12341278
+* Pécharman, Martine, 2014, “Cudworth on Self-Consciousness and the *I Myself*”, *Vivarium*, 52(3–4): 287–314. doi: 10.1163/15685349-12341278
 * Popkin, Richard H., 1992, “Cudworth”, in his *The Third Force in Seventeenth-Century Philosophy*, Leiden: Brill, 333–350.
-* Radcliffe, Elizabeth S., 2019, “Ruly and Unruly Passions: Early Modern Perspectives”, *Royal Institute of Philosophy Supplement*, 85: 21–38. doi:10.1017/S1358246118000668
+* Radcliffe, Elizabeth S., 2019, “Ruly and Unruly Passions: Early Modern Perspectives”, *Royal Institute of Philosophy Supplement*, 85: 21–38. doi: 10.1017/S1358246118000668
 * Rogers, G.A.J., 1988, “Die Cambridge Platoniker” and “Ralph Cudworth”, *Ueberwegs Grundriss der Geschichte der Philosophie: die Philosophie des 17. Jahrhunderts*, vol. 3.1. Basle: Ueberweg, 267–82, 285–90.
-* Rogers, G.A.J., Jean-Michel Vienne, and Yves Charles Zarka, 1997, *The Cambridge Platonists in Philosophical Context. Politics, Metaphysics, and Religion*, Dordrecht: Springer. doi:10.1007/978-94-015-8933-8
-* Rosa, Susan, 1994, “Ralph Cudworth in the *République des Lettres*: The Controversy about Plastick Nature and the Reputation of Pierre Bayle”, *Studies in Eighteenth Century Culture*, 23: 157–160. doi:10.1353/sec.2010.0108
-* Sailor, Danton B., 1962, “Cudworth and Descartes”, *Journal of the History of Ideas*, 23(1): 133–140. doi:10.2307/2708062
-* –––, 1988, “Newton’s Debt to Cudworth”, *Journal of the History of Ideas*, 49(3): 511–518. doi:10.2307/2709490
+* Rogers, G.A.J., Jean-Michel Vienne, and Yves Charles Zarka, 1997, *The Cambridge Platonists in Philosophical Context. Politics, Metaphysics, and Religion*, Dordrecht: Springer. doi: 10.1007/978-94-015-8933-8
+* Rosa, Susan, 1994, “Ralph Cudworth in the *République des Lettres*: The Controversy about Plastick Nature and the Reputation of Pierre Bayle”, *Studies in Eighteenth Century Culture*, 23: 157–160. doi: 10.1353/sec.2010.0108
+* Sailor, Danton B., 1962, “Cudworth and Descartes”, *Journal of the History of Ideas*, 23(1): 133–140. doi: 10.2307/2708062
+* –––, 1988, “Newton’s Debt to Cudworth”, *Journal of the History of Ideas*, 49(3): 511–518. doi: 10.2307/2709490
 * Scott, Dominic, 1990, “Platonic Recollection and Cambridge Platonism”, *Hermathena*, 149: 73–97.
-* Sellars, John, 2011, “Is God a Mindless Vegetable? Cudworth on Stoic Theology”, *Intellectual History Review*, 21(2): 121–133. doi:10.1080/17496977.2011.574339
-* –––, 2012, “Stoics Against Stoics In Cudworth’s *A Treatise of Freewill*”, *British Journal for the History of Philosophy*, 20(5): 935–952. doi:10.1080/09608788.2012.718870
+* Sellars, John, 2011, “Is God a Mindless Vegetable? Cudworth on Stoic Theology”, *Intellectual History Review*, 21(2): 121–133. doi: 10.1080/17496977.2011.574339
+* –––, 2012, “Stoics Against Stoics In Cudworth’s *A Treatise of Freewill*”, *British Journal for the History of Philosophy*, 20(5): 935–952. doi: 10.1080/09608788.2012.718870
 * Simonutti, Luisa, 1993,“Bayle and Le Clerc as Readers of Cudworth: Aspects of the Debate on *Plastic Nature* in the Dutch Learned Journals”, *Geschiedenis van de Wijsbegeerte in Nederland*, 4(2): 147–165.
-* Smith, Justin E.H. and Pauline Phemister, 2007, “Leibniz and the Cambridge Platonists: The Debate Over Plastic Natures”, in *Leibniz and the English Speaking World*, Pauline Phemister and Stuart Brown (eds), Dordrecht: Springer, 95–110. doi:10.1007/978-1-4020-5243-9_7
-* Thiel, Udo, 1991, “Cudworth and Seventeenth-Century Theories of Consciousness”, in *The Uses of Antiquity: The Scientific Revolution and the Classical Tradition*, Stephen Gaukroger (ed.), Dordrecht: Kluwer, 79–99. doi:10.1007/978-94-011-3412-5_4
-* –––, 2011, *The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199542499.001.0001
-* Zarka, Yves Charles, 1997, “Critique de Hobbes et Fondement de la Morale chez Cudworth”, in Rogers, Vienne, and Zarka 1997: 39–52. doi:10.1007/978-94-015-8933-8_3
+* Smith, Justin E.H. and Pauline Phemister, 2007, “Leibniz and the Cambridge Platonists: The Debate Over Plastic Natures”, in *Leibniz and the English Speaking World*, Pauline Phemister and Stuart Brown (eds), Dordrecht: Springer, 95–110. doi: 10.1007/978-1-4020-5243-9_7
+* Thiel, Udo, 1991, “Cudworth and Seventeenth-Century Theories of Consciousness”, in *The Uses of Antiquity: The Scientific Revolution and the Classical Tradition*, Stephen Gaukroger (ed.), Dordrecht: Kluwer, 79–99. doi: 10.1007/978-94-011-3412-5_4
+* –––, 2011, *The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199542499.001.0001
+* Zarka, Yves Charles, 1997, “Critique de Hobbes et Fondement de la Morale chez Cudworth”, in Rogers, Vienne, and Zarka 1997: 39–52. doi: 10.1007/978-94-015-8933-8_3
 * Zarka, Ives Charles (ed), 2013, *Liberté et nécessité chez Hobbes et ses contemporains (Descartes, Cudworth, Spinoza, Leibniz)*, Paris: Vrin.
 
 ## Academic Tools

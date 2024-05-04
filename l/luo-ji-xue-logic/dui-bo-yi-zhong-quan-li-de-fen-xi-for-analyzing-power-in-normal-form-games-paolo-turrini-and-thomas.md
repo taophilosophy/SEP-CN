@@ -1,6 +1,6 @@
 # 对博弈中权力的分析 for analyzing power in normal form games (Paolo Turrini and Thomas Ågotnes)
 
-*首次发表于2017年6月14日，实质修订于2023年12月4日。*
+*首次发表于 2017 年 6 月 14 日，实质修订于 2023 年 12 月 4 日。*
 
 本条目讨论使用数学语言来表达和分析游戏中权力的形式属性。在本条目中讨论的数学语言将被称为逻辑，并根据其表达游戏相关概念的能力进行分类。
 
@@ -57,15 +57,15 @@
 
 总体而言，游戏可以被看作是一个数学结构
 
-(�,�,⪰,�)
+(�, �, ⪰, �)
 
 其中  是玩家的集合，通常是有限的，  是结果的集合，  是偏好关系，  是行动关系。
 
 这个数学结构也被称为关系结构（Blackburn, Rijke, & Venema 2001），它在某种意义上是所谓模态逻辑（Blackburn et al. 2001）的集合论等价物，这是一种适合表达关系的数学语言。关系结构将在此后被表示为  ，代表框架。
 
-为了将关系结构和模态逻辑联系起来，我们还需要最后一个要素，即一组原子命题 Atoms 的规范，它表达了我们感兴趣的结果的相关属性。这个集合通常被认为是可数的[1]，并且通过估值函数与结果相关联，即形式为的函数。
+为了将关系结构和模态逻辑联系起来，我们还需要最后一个要素，即一组原子命题 Atoms 的规范，它表达了我们感兴趣的结果的相关属性。这个集合通常被认为是可数的 [1]，并且通过估值函数与结果相关联，即形式为的函数。
 
-�:�→2Atoms
+�: �→2Atoms
 
 将每个结果与在该结果上为真的命题原子集关联起来。
 
@@ -77,7 +77,7 @@
 
 模态逻辑：背景概念：模态逻辑的语言是命题逻辑语言的扩展，具有一组在可数个原子命题上定义的模态运算符  ，在其上递归地构建了一组良构公式（有关逻辑和归纳的数学处理，请参见 Dalen 1980）。模态语言  的每个良构公式  ，以下简称为公式，使用以下语法构造：
 
-�::=�∣¬�∣�∧�∣◻��
+�::= �∣¬�∣�∧�∣◻��
 
 其中  和  。
 
@@ -85,7 +85,7 @@
 
 作为一般约定，具有模态  ，…，  ，…的多模态语言将用  表示，其中函数  将每个模态与其直观的简写关联起来。设  是具有模态  ，…，  ，…的模态语言，而  是该语言的模型。对于配对  ，满足关系的公式  定义如下真值条件：
 
-�,�⊨� if and only if �∈�(�)�,�⊨¬� if and only if �,�⊭��,�⊨�∧� if and only if �,�⊨� and �,�⊨��,�⊨◻�� if and only if ��∈��(�)
+�, �⊨� if and only if �∈�(�)�, �⊨¬� if and only if �, �⊭��, �⊨�∧� if and only if �, �⊨� and �, �⊨��, �⊨◻�� if and only if ��∈��(�)
 
 其中  被称为  的真值集或扩展。
 
@@ -95,7 +95,7 @@
 
  一个模态规则
 
-�1,…,���
+�1,…, ���
 
 如果  在一类模型中是合理的，那么  。
 
@@ -113,7 +113,7 @@
 
 并且  包含  的所有实例。
 
-当  是一个主过滤器[3]时，我们说模态  是正常的。在这种情况下，  可以等价地表示为  的关系，然后我们有  当且仅当  对于所有满足  的  。正常的模态逻辑可以在形式为  的结构中解释，其中每个  都是一个主过滤器。
+当  是一个主过滤器 [3] 时，我们说模态  是正常的。在这种情况下，  可以等价地表示为  的关系，然后我们有  当且仅当  对于所有满足  的  。正常的模态逻辑可以在形式为  的结构中解释，其中每个  都是一个主过滤器。
 
 ### 2.1 偏好
 
@@ -131,7 +131,7 @@
 
 在基于这样一个框架的模型  中，对于  的解释如下（注意这些模态性质是正常的）：
 
-�,�⊨◊���\enskip if and only if \enskip�,�′⊨�, for some �′ with ����′
+�, �⊨◊���\enskip if and only if \enskip�, �′⊨�, for some �′ with ����′
 
 所讨论的关系通常具有额外的属性。例如，  通常被认为满足以下条件：
 
@@ -147,7 +147,7 @@
 
 为了描述连通性，我们需要引入一种特殊类型的运算符：全局（或全域）形式（Goranko＆Passy 1992）。这种形式表达了模型  中所有状态的属性，并且其解释如下。
 
-�,�⊨��\enskip if and only if \enskip�,�′⊨�, for all �′∈�
+�, �⊨��\enskip if and only if \enskip�, �′⊨�, for all �′∈�
 
 公式  将被缩写为  。符号  是  的存在性对偶，并且它表示某个状态在模型中成立的某个公式。通过全局形式，我们真正增加了表达能力（如 Goranko＆Passy 1992 所示，同时伴随着进一步的成本和收益），因此我们可以通过在世界中表达真实性来表达模型中的有效性，证明了当且仅当  成立时，  成立。
 
@@ -167,7 +167,7 @@
 
 * 非自反性：即  我们有：不是这样的  ；
 
-在基本模态逻辑中，无法定义不可反身性（Blackburn 等，2001）。然而，如果原子命题足够强大，足以区分每个结果，则可以定义不可反身性。例如，让  是一个标识世界  的变量。[4]我们有以下内容。
+在基本模态逻辑中，无法定义不可反身性（Blackburn 等，2001）。然而，如果原子命题足够强大，足以区分每个结果，则可以定义不可反身性。例如，让  是一个标识世界  的变量。[4] 我们有以下内容。
 
  命题 3.
 
@@ -181,7 +181,7 @@
 
 上述三个属性共同表明，每个  在数学上都是一个等价关系，即一个满足以下条件的关系：
 
-⋃�∈�{[�]∣�′∈[�] whenever �∼��′}
+⋃�∈�{[�] ∣�′∈ [�] whenever �∼��′}
 
 是  的一个划分。该划分的每个元素都是玩家  的无差别类，即他或她对这些结果都是无差别的。
 
@@ -191,7 +191,7 @@
 
 一个效用函数是一个函数
 
-��:�→�
+��: �→�
 
 将结果映射到实数，表示玩家对某种状态的价值有多大。
 
@@ -211,7 +211,7 @@
 
 一个效用函数（Moulin＆Peleg 1982）是一个函数
 
-�:2�→22�
+�: 2�→22�
 
 将每个玩家组关联到一组结果集。
 
@@ -226,7 +226,7 @@
 
 然而，对于不够大的联盟也是如此。例如，考虑在荷兰、比利时和卢森堡之间可以形成的至少包括两个国家的所有联盟。
 
-�({Luxembourg, Belgium})=�({Luxembourg, The Netherlands})=�({Belgium, The Netherlands})=�({Luxembourg, Belgium, The Netherlands})={�}.
+�({Luxembourg, Belgium})= �({Luxembourg, The Netherlands})= �({Belgium, The Netherlands})= �({Luxembourg, Belgium, The Netherlands})={�}.
 
 因为它们的总权重最多为 5 票，它们本身无法决定或排除任何可能的协议。实际上，对于委员会提出的行动，每个联盟  ，其投票权重不至少为 12，具有相同的效能函数  。
 
@@ -258,7 +258,7 @@
 
 对于形式为  的公式，与对于一对  的满足关系定义如下：
 
-�,�⊨[�]�\enskipif and only if\enskip��∈��(�)
+�, �⊨ [�] �\enskipif and only if\enskip��∈��(�)
 
  其中，  。
 
@@ -268,7 +268,7 @@
 
 单调性规则对于每个  采取以下形式：
 
-�→�[�]�→[�]�
+�→� [�] �→ [�] �
 
 直观地说，如果  能够实现  并且我们有  蕴含  ，那么  也能够实现  。
 
@@ -341,13 +341,13 @@
 
 模态逻辑可以用来表示核心，其中  解释为之前的内容。首先考虑以下公式
 
-�→⋁�⊆�[�](⋀�∈�◊�≻�)
+�→⋁�⊆� [�](⋀�∈�◊�≻�)
 
 这意味着如果  为真，则某个联盟的成员可以改善某个  世界，这似乎不是表达逻辑稳定性的正确公式。然而，我们可以证明以下结果，利用了公式与特定类别的框架之间的对应关系。
 
 让  是一个（结果单调）有效性函数，让  是一个弱线性序。那么：
 
-(�,�′),�⊨�→⋁�⊆�[�](⋀�∈�◊�≻�)
+(�, �′), �⊨�→⋁�⊆� [�](⋀�∈�◊�≻�)
 
 对于每个  ，如果且仅当存在  和  ，对于所有  ，  ，我们有  ，则在  成立。
 
@@ -355,15 +355,15 @@
 
 注意，由于效果函数是结果单调的，如果我们有如果  和
 
-�⊆(⋀�∈�◊�≻�)(�,�′),
+�⊆(⋀�∈�◊�≻�)(�, �′),
 
  然后
 
-(⋀�∈�◊�≻�)(�,�′)∈��(�).
+(⋀�∈�◊�≻�)(�, �′)∈��(�).
 
 还要注意上面的结果允许
 
-∅=(⋀�∈�◊�≻�)�∈��(�),
+∅ =(⋀�∈�◊�≻�)�∈��(�),
 
 这可能是违反直觉的。要求  具有活力可以解决这个问题。
 
@@ -371,19 +371,19 @@
 
 命题 10. 设  是一个具有  的框架，对于每个  。我们有以下结论：
 
-⊨��→⋁�⊆�[�](⋀�∈�◊�≻�)
+⊨��→⋁�⊆� [�](⋀�∈�◊�≻�)
 
 当且仅当  中没有任何结果属于核心。
 
 再次，活力将处理一个微不足道的情况，即
 
-(⋀�∈�◊�≻�)(�,�)=∅.
+(⋀�∈�◊�≻�)(�, �)= ∅.
 
 另一种方法是将每个结果与语言中的一个名称（或者在混合逻辑的语言中，一个名词）进行标识。然后我们有以下结果。
 
 命题 11. 让  一个原子命题在结果  上为真，且仅在结果  上为真。
 
-(�,�),��⊨��→⋁�⊆�[�](⋀�∈�◊�≻��)
+(�, �), ��⊨��→⋁�⊆� [�](⋀�∈�◊�≻��)
 
 当且仅当  不属于核心时。
 
@@ -391,7 +391,7 @@
 
 命题 12. 假设  是一个原子命题，在结果  上为真且仅在结果  上为真。
 
-((�,�),�⊨⋁�⊆�⋄≻��
+((�, �), �⊨⋁�⊆�⋄≻��
 
 当且仅当  不属于  的核心时。
 
@@ -405,7 +405,7 @@
 
 形式上，一个战略游戏形式是一个元组
 
-(�,�,{Σ�}�∈�,�)
+(�, �,{Σ�}�∈�, �)
 
 其中 N 是有限玩家集合，  是结果集合，  是策略的集合，每个玩家  有一个策略，  是一个结果函数，将策略元组与结果相关联。
 
@@ -446,17 +446,17 @@
 
 命题 14. 设  是一个关系游戏结构。那么对于每个  ，当且仅当以下公式在  中对于不相交的  成立时，  是某个非合作游戏的  -效用函数：
 
-* �→�⊨�[�]�→[�]�
-* ⊨�[�]⊤
-* ⊨�¬[�]⊥
-* ⊨�¬[∅]�→[�]�
-* ⊨�[�′]�∧[�]�→[�′∪�](�∧�)
+* �→�⊨� [�] �→ [�] �
+* ⊨� [�] ⊤
+* ⊨�¬ [�] ⊥
+* ⊨�¬ [∅] �→ [�] �
+* ⊨� [�′] �∧ [�] �→ [�′∪�](�∧�)
 
 与合作游戏一样，我们可以问自己在战略情境中一个结果是否稳定或合理。
 
 纳什均衡和可定义性分析非合作游戏的主要解决概念是纳什均衡。非正式地说，纳什均衡是一组策略，每个玩家一个，使得没有玩家有兴趣改变自己的策略，只要其他人坚持他们的策略。形式上，策略配置  是一个（纯策略）纳什均衡，如果对于所有玩家  和所有  ，我们有
 
-�(��,�−�)⪰��(��′,�−�)
+�(��, �−�)⪰��(��′, �−�)
 
 例 8. 考虑以下投票
 
@@ -475,7 +475,7 @@
 
 如何用逻辑来表达纳什均衡？回想一下公式
 
-�→⋁�⊆�[�](⋀�∈�◊�≻�)
+�→⋁�⊆� [�](⋀�∈�◊�≻�)
 
 在一个框架  中是否成立，当且仅当核心为空，并且混合逻辑扩展可以告诉我们特定结果是否属于核心。如果  基于一个真正可玩的效用函数，我们已经有了一个非合作形式的核心游戏版本：一个结果，使得没有联盟能够并愿意偏离，而不考虑其他人的行动。然而，纳什均衡固定了一组策略，使得没有玩家能够并愿意偏离。换句话说，它需要对于给定配置的最佳反应的概念。
 
@@ -514,7 +514,7 @@
 
 现在定义一个效用函数  ，使得它满足以下条件：
 
-�∗(�)={[�]∣�′∈[�] whenever �≈��′}+
+�∗(�)={[�] ∣�′∈ [�] whenever �≈��′}+
 
 直观地说，  收集了个体能够实现的所有内容以及它们的超集。
 
@@ -548,11 +548,11 @@
 
 正如我们所见，联盟逻辑的（真正可玩的）有效性函数对应于游戏，其中所有代理的联合策略配置唯一确定结果。联盟逻辑可以通过多种方式进行修改（Naumov 等人，2021 年），以处理随机游戏，即这样的配置仅确定可能结果集上的概率分布。将模态  解释为“  可以以概率  强制执行  ”会导致有趣且非平凡的（无效的）属性，例如以下超加性的变体  。
 
-[�]�(�→�)→([�′]��→[�∪�′]���{�,�}�)
+[�] �(�→�)→([�′] ��→ [�∪�′] ���{�, �}�)
 
 不是有效的，而
 
-[�]�+�+�(�∨�∨�)→[�]2�(�∨�)∨[�]2�(�∨�)∨[�]2�(�∨�)
+[�] �+�+�(�∨�∨�)→ [�] 2�(�∨�)∨ [�] 2�(�∨�)∨ [�] 2�(�∨�)
 
 （其中  是所有代理的集合）是有效的。
 
@@ -560,7 +560,7 @@
 
 资源边界也已添加到联盟模态中，这些模态在与执行联合动作的成本相关的联盟模型中进行解释（Alechina 等，2009）。在这里，  表示  可以强制  在资源边界  下为真，即他们可以选择一个最多花费  的联合动作，以确保  为真。这些模态满足以下超添加性的变体  ：
 
-[��]�∧[��]�→[(�∪�)�+�](�∧�).
+[��] �∧ [��] �→ [(�∪�)�+�](�∧�).
 
 #### 3.2.5 条件权力和协调
 
@@ -572,13 +572,13 @@
 
 具有直观的意义，即  有能力使  成为真，同时使其他代理在同一时间能够实现任何目标  。由此产生的逻辑也可以看作是 INL 的多代理扩展。Goranko 和 Enqvist 2018 年还引入了以下形式的运算符
 
-[�1▹�1,…,��▹��]
+[�1▹�1,…, ��▹��]
 
 具有直观的意义，即联盟  具有一个共同策略，对于每个  ，该共同策略的限制对联盟  强制执行目标  。
 
 Goranko 和 Ju 2022 年注意到后一种运算符可以用来表达一种特定类型的条件能力，即  ，直观地说，  具有一种共同行动，强制执行  ，同时使  能够应用一种共同行动，以强制执行  。他们还引入了两种额外的条件能力模态：
 
-[�]�(�;⟨�⟩�) and [�]�(�;⟨�⟩�)
+[�] �(�; ⟨�⟩�) and [�] �(�; ⟨�⟩�)
 
 其中前者表示  具有一种共同策略，如果  应用任何确保  的行动，那么该共同策略（由  ）同时确保  ，而后者表示对于  通过强制执行  的任何共同行动，存在一致的  通过同时强制执行  的共同行动。这些能力概念分别对应于  和  的有效性。
 
@@ -612,7 +612,7 @@ Goranko 和 Ju 2022 年注意到后一种运算符可以用来表达一种特定
 
 因此，对于  是玩家  的目标，  是由玩家  控制的部分估值，我们说估值  是一种纳什均衡，如果对于每个  和每个  都成立。
 
-(��,�−�)⊭�� implies that (��′,�−�)⊭��
+(��, �−�)⊭�� implies that (��′, �−�)⊭��
 
 因此，如果  不满足  的目标，那么  无法做任何事情来满足它。
 
@@ -632,66 +632,66 @@ Goranko 和 Ju 2022 年注意到后一种运算符可以用来表达一种特定
 
 ## Bibliography
 
-* Abdou, Joseph and Hans Keiding, 1991, *Effectivity Functions in Social Choice*, (Theory and Decision Library 8), Dordrecht: Springer Netherlands, doi:10.1007/978-94-011-3448-4
+* Abdou, Joseph and Hans Keiding, 1991, *Effectivity Functions in Social Choice*, (Theory and Decision Library 8), Dordrecht: Springer Netherlands, doi: 10.1007/978-94-011-3448-4
 * Ågotnes, Thomas, Alechina, Natasha, 2015, “Embedding Coalition Logic in the Minimal Normal Multimodal Logic with Intersection”, in S. Ju, H. Liu, and H. Ono (eds.), *Modality, Semantics and Interpretations* (Logic in Asia: Studia Logica Library), Berlin, Heidelberg: Springer.
 * Ågotnes, Thomas, van der Hoek, W., & Wooldridge, M., 2008, “Quantified Coalition Logic”, *Synthese*, 165(2): 269–294. [[Ågotnes *et al*. 2008 available online](https://www.jstor.org/stable/40271103)]
 * –––, 2009, “Reasoning about coalitional games”, 2009, *Artificial Intelligence*, 173: 45–79.
-* Alechina, Natasha, Brian Logan, Hoang Nga Nguyen, Abdur Rakib, 2011, “Logic for coalitions with bounded resources”, *Journal of Logic and Computation*, 21(6): 907–937. doi:10.1093/logcom/exq032
+* Alechina, Natasha, Brian Logan, Hoang Nga Nguyen, Abdur Rakib, 2011, “Logic for coalitions with bounded resources”, *Journal of Logic and Computation*, 21(6): 907–937. doi: 10.1093/logcom/exq032
 * Baltag, Alexandru and Bryan Renne, 2016, “Dynamic Epistemic Logic”, in *Stanford Encyclopedia of Philosophy*, (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/dynamic-epistemic/>
 * Belnap, Nuel, Michael Perloff, and Ming Xu, 2001, *Facing the Future: Agents and Choices in Our Indeterminist World*, Oxford: Oxford University Press.
 * Benthem, Johan van, 2012, “In praise of strategies”, in J. van Eijck, R. Verbrugge (eds.), *Games, Actions and Social Software* (Lecture Notes in Computer Science: Volume 7010), Berlin, Heidelberg: Springer, pp. 96–116.
 * –––, 2014, *Logic in Games*, Cambridge, MA: MIT Press.
-* Benthem, J. van, Bezhanishvili, N., Enqvist, S., and Yu, J., 2017, “Instantial Neighbourhood Logic”, *The Review of Symbolic Logic*, 10(1): 116–144. doi:10.1017/S1755020316000447
-* Benthem, Johan van, Eric Pacuit, and Olivier Roy, 2011, “Toward a Theory of Play: A Logical Perspective on Games and Interaction”, *Games*, 2(1): 52–86. doi:10.3390/g2010052
-* Blackburn, Patrick, Maarten de Rijke, and Yde Venema, 2001, *Modal Logic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107050884
+* Benthem, J. van, Bezhanishvili, N., Enqvist, S., and Yu, J., 2017, “Instantial Neighbourhood Logic”, *The Review of Symbolic Logic*, 10(1): 116–144. doi: 10.1017/S1755020316000447
+* Benthem, Johan van, Eric Pacuit, and Olivier Roy, 2011, “Toward a Theory of Play: A Logical Perspective on Games and Interaction”, *Games*, 2(1): 52–86. doi: 10.3390/g2010052
+* Blackburn, Patrick, Maarten de Rijke, and Yde Venema, 2001, *Modal Logic*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781107050884
 * Boella, Guido, Dov M. Gabbay, Valerio Genovese, and Leendert van der Torre, 2010, “Higher-Order Coalition Logic”, in *Proceedings of the 2010 conference on ECAI 2010: 19th European Conference on Artificial Intelligence*, IOS Press, NLD, 555–560.
 * Broersen, J., Mastop, R., Ch.Meyer, J. J. and Turrini, P., 2009, “Strategic Ability Update: A Modal Logic Account”, in *2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology*, Milan, Italy, 2009, pp. 470–473. doi: 10.1109/WI-IAT.2009.328
 * Chellas, Brian, 1980, *Modal Logic: An Introduction*, Cambridge: Cambridge University Press.
-* Chen, Q., Li, Q., Su, K., Luo, X., 2014, “Quantified Coalition Logic for BDI-Agents: Completeness and Complexity”, in DN. Pham and SB. Park (eds.), *PRICAI 2014: Trends in Artificial Intelligence* (Lecture Notes in Computer Science: Volume 8862), Cham: Springer. doi:10.1007/978-3-319-13560-1_72
-* Chen, Q., Shi, C., and Wang, Y., 2023, “Reasoning about Dependence, Preference and Coalitional Power”, *Journal of Philosophical Logic*, first online 28 November 2023. doi:10.1007/s10992-023-09727-2
-* Dalen, Dirk van, 1980, *Logic and Structure*, Berlin: Springer-Verlag. doi:10.1007/978-3-662-02962-6
-* Das, R., Ramanujam, R., Simon, S., 2023, “A Logical Description of Priority Separable Games”, in N. Alechina, A. Herzig, and F. Liang (eds.), *Logic, Rationality, and Interaction*: LORI 2023 (Lecture Notes in Computer Science: Volume 14329), Cham: Springer. doi:10.1007/978-3-031-45558-2_3
+* Chen, Q., Li, Q., Su, K., Luo, X., 2014, “Quantified Coalition Logic for BDI-Agents: Completeness and Complexity”, in DN. Pham and SB. Park (eds.), *PRICAI 2014: Trends in Artificial Intelligence* (Lecture Notes in Computer Science: Volume 8862), Cham: Springer. doi: 10.1007/978-3-319-13560-1_72
+* Chen, Q., Shi, C., and Wang, Y., 2023, “Reasoning about Dependence, Preference and Coalitional Power”, *Journal of Philosophical Logic*, first online 28 November 2023. doi: 10.1007/s10992-023-09727-2
+* Dalen, Dirk van, 1980, *Logic and Structure*, Berlin: Springer-Verlag. doi: 10.1007/978-3-662-02962-6
+* Das, R., Ramanujam, R., Simon, S., 2023, “A Logical Description of Priority Separable Games”, in N. Alechina, A. Herzig, and F. Liang (eds.), *Logic, Rationality, and Interaction*: LORI 2023 (Lecture Notes in Computer Science: Volume 14329), Cham: Springer. doi: 10.1007/978-3-031-45558-2_3
 * Doherty, Patrick, Barbara Dunin-Keplicz, and Andrzej Szałas, 2011, “Tractable model checking for fragments of higher-order coalition logic”, in *The 10th International Conference on Autonomous Agents and Multiagent Systems – Volume 2* (AAMAS ’11), International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 743–750.
-* Dunne, Paul E. and Wiebe van der Hoek, 2004, “Representation and Complexity in Boolean Games”, in José Júlio Alferes & João Alexandre Leite (eds.), *Logics in Artificial Intelligence, 9th European Conference, JELIA 2004, Lisbon, Portugal, September 27–30, 2004, Proceedings*, Berlin, Heidelberg: Springer, 3229: 347–359. doi:10.1007/978-3-540-30227-8_30
+* Dunne, Paul E. and Wiebe van der Hoek, 2004, “Representation and Complexity in Boolean Games”, in José Júlio Alferes & João Alexandre Leite (eds.), *Logics in Artificial Intelligence, 9th European Conference, JELIA 2004, Lisbon, Portugal, September 27–30, 2004, Proceedings*, Berlin, Heidelberg: Springer, 3229: 347–359. doi: 10.1007/978-3-540-30227-8_30
 * Dunne, Paul E. and Michael Wooldridge, 2012, “Towards Tractable Boolean Games”, in Wiebe van der Hoek, Lin Padgham, Vincent Conitzer, & Michael Winikoff (eds.), *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems*, (AAMAS 2012), Valencia, Spain, June 4–8, 2012, Richland, SC: International Foundation for Autonomous Agents and Multiagent Systems, vol. 2, pp. 939–946.
 * Dunne, Paul E., Wiebe van der Hoek, Sarit Kraus, and Michael Wooldridge, 2008, “Cooperative Boolean Games”, in Lin Padgham, David C. Parkes, Jörg P. Müller, & Simon Parsons (eds.), *Proceedings of the 7th International Joint Conference on Autonomous Agents and Multiagent Systems*, (AAMAS 2008), Estoril, Portugal, May 12–16, 2008, Richland, SC: International Foundation for Autonomous Agents and Multiagent System, vol. 2, pp. 1015–1022.
 * Enqvist, Sebastian, Nick Bezhanishvili & Johan van Benthem, 2019, “A New Game Equivalence, its Logic and Algebra”, *Journal of Philosophical Logic*, 48(4): 649–684
-* Galimullin, R. and Ågotnes, T., 2021, “Dynamic Coalition Logic: Granting and Revoking Dictatorial Powers”, in *Logic, Rationality, and Interaction*: LORI 2021 (Proceedings of the 8th International Workshop), Xi’an, China, October 16-18, Berlin, Heidelberg: Springer-Verlag, pp. 88–101. doi:10.1007/978-3-030-88708-7_7
-* Galimullin, R., Ågotnes, T., 2023, “Action Models for Coalition Logic”, in C. Areces and D. Costa (eds.), *Dynamic Logic. New Trends and Applications*: DaLí 2022 (Lecture Notes in Computer Science: Volume 13780), Cham: Springer. doi:10.1007/978-3-031-26622-5_5
+* Galimullin, R. and Ågotnes, T., 2021, “Dynamic Coalition Logic: Granting and Revoking Dictatorial Powers”, in *Logic, Rationality, and Interaction*: LORI 2021 (Proceedings of the 8th International Workshop), Xi’an, China, October 16-18, Berlin, Heidelberg: Springer-Verlag, pp. 88–101. doi: 10.1007/978-3-030-88708-7_7
+* Galimullin, R., Ågotnes, T., 2023, “Action Models for Coalition Logic”, in C. Areces and D. Costa (eds.), *Dynamic Logic. New Trends and Applications*: DaLí 2022 (Lecture Notes in Computer Science: Volume 13780), Cham: Springer. doi: 10.1007/978-3-031-26622-5_5
 * Gargov, G., Passy, S., 1988, “A note on boolean modal logic”, in *Mathematical Logic* (Proceedings of The Summer School and Conference on Mathematical Logic, Heyting’88), New York: Plenum Press, pp. 311–321.
 * Garson, James, 2014, “Modal Logic”, in *Stanford Encyclopedia of Philosophy*, (Spring 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2016/entries/logic-modal/>.
-* Gerbrandy, Jelle, 2006, “Logics of Propositional Control”, in Hideyuki Nakashima, Michael P. Wellman, Gerhard Weiss, & Peter Stone (eds.), *Proceedings of the 5th International Joint Conference on Autonomous Agents and Multiagent Systems*, (AAMAS 2006), Hakodate, Japan, May 8–12, 2006, New York: ACM, pp. 193–200. doi:10.1145/1160633.1160664
-* Goranko, Valentin and Salomon Passy, 1992, “Using the Universal Modality: Gains and Questions”, *Journal of Logic and Computation*, 2(1): 5–30. doi:10.1093/logcom/2.1.5
+* Gerbrandy, Jelle, 2006, “Logics of Propositional Control”, in Hideyuki Nakashima, Michael P. Wellman, Gerhard Weiss, & Peter Stone (eds.), *Proceedings of the 5th International Joint Conference on Autonomous Agents and Multiagent Systems*, (AAMAS 2006), Hakodate, Japan, May 8–12, 2006, New York: ACM, pp. 193–200. doi: 10.1145/1160633.1160664
+* Goranko, Valentin and Salomon Passy, 1992, “Using the Universal Modality: Gains and Questions”, *Journal of Logic and Computation*, 2(1): 5–30. doi: 10.1093/logcom/2.1.5
 * Goranko, V., van Drimmelen, G., 2006, “Complete axiomatization and decidability of alternating-time temporal logic”, *Theoretical Computer Science*, 353(1–3): 93–117 (2006)
-* Goranko, Valentin, Wojciech Jamroga, and Paolo Turrini, 2013, “Strategic Games and Truly Playable Effectivity Functions”, *Autonomous Agents and Multi-Agent Systems*, 26(2): 288–314. doi:10.1007/s10458-012-9192-y
+* Goranko, Valentin, Wojciech Jamroga, and Paolo Turrini, 2013, “Strategic Games and Truly Playable Effectivity Functions”, *Autonomous Agents and Multi-Agent Systems*, 26(2): 288–314. doi: 10.1007/s10458-012-9192-y
 * Goranko, Valentin and Enqvist, Sebastian, 2018, “Socially Friendly and Group Protecting Coalition Logics”, in *Proceedings.of the 17th International Conference on Autonomous Agents and Multiagent Systems* (AAMAS 2018), M. Dastani, G. Sukthankar, E. André, S. Koenig (eds.), July 10–15, 2018, Stockholm, Sweden. International Foundation for Autonomous Agents and Multiagent Systems.
 * Goranko, Vanetin and Ju, Fengkui, 2022, “A Logic for Conditional Local Strategic Reasoning”, *Journal of Logic, Language and Information*, 31: 167–188.
 * Hansen, Helle Hvid, 2003, *Monotonic Modal Logics*, Masters Thesis, University of Amsterdam.
-* Hansen, Helle Hvid and Marc Pauly, 2002, “Axiomatising Nash-Consistent Coalition Logic”, in Sergio Flesca, Sergio Greco, Nicola Leone, & Giovambattista Ianni (eds.), *Logics in Artificial Intelligence*, Berlin: Springer, 2424: 394–406. doi:10.1007/3-540-45757-7_33
-* Hansen, Helle Hvid, Clemens Kupke, and Eric Pacuit, 2009, “Neighbourhood Structures: Bisimilarity and Basic Model Theory”, *Logical Methods in Computer Science*, 5(2): lmcs:1167. [[Hansen, Kupke, & Pacuit 2009 available online](https://lmcs.episciences.org/1167)]
+* Hansen, Helle Hvid and Marc Pauly, 2002, “Axiomatising Nash-Consistent Coalition Logic”, in Sergio Flesca, Sergio Greco, Nicola Leone, & Giovambattista Ianni (eds.), *Logics in Artificial Intelligence*, Berlin: Springer, 2424: 394–406. doi: 10.1007/3-540-45757-7_33
+* Hansen, Helle Hvid, Clemens Kupke, and Eric Pacuit, 2009, “Neighbourhood Structures: Bisimilarity and Basic Model Theory”, *Logical Methods in Computer Science*, 5(2): lmcs: 1167. [[Hansen, Kupke, & Pacuit 2009 available online](https://lmcs.episciences.org/1167)]
 * Hansson, Sven Ove and Till Grune-Yanoff, 2011, “Preferences”, in *Stanford Encyclopedia of Philosophy*, (Fall 2011 Edition), Edward N. Zalta (ed.), URL = <[Preferences (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](https://plato.stanford.edu/archives/fall2011/entries/preferences/)>
 * Harrenstein, Paul, Wiebe van der Hoek, John-Jules Meyer, and Cees Witteveen, 2001, “Boolean Games”, in Johan van Benthem (ed.), *Proceedings of the 8th Conference on Theoretical Aspects of Rationality and Knowledge*, (Tark ’01), San Francisco: Morgan Kaufmann, pp. 287–298.
 * Hawke, Peter, 2017, “The Logic of Joint Ability in Two-Player Tacit Games” *Review of Symbolic Logic*, 10(3): 481–508.
 * Hendricks, Vincent and John Symons, 2006, “Epistemic Logic”, in *Stanford Encyclopedia of Philosophy*, (Spring 2006 Edition), Edward N. Zalta (ed.), URL = <[Epistemic Logic (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/logic-epistemic/)>
 * Hodges, Wilfrid, 2013, “Logic and Games”, in *Stanford Encyclopedia of Philosophy*, (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[Logic and Games (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/logic-games/)>.
 * Hoek, Wiebe van der and Marc Pauly, 2006, “Modal Logic for Games and Information”, in Patrick Blackburn, Johan van Benthem, & Frank Wolter (eds.), *Handbook of Modal Logic*, pp. 1077–1148, Elsevier.
-* Hoek, Wiebe van der and Michael Wooldridge, 2005, “On the Logic of Cooperation and Propositional Control”, *Artificial Intelligence*, 164(1–2): 81–119. doi:10.1016/j.artint.2005.01.003
-* Kooi, Barteld and Allard Tamminga, 2008, “Moral Conflicts Between Groups of Agents”, *Journal of Philosophical Logic*, 37(1): 1–21. doi:10.1007/s10992-007-9049-z
-* Kracht, Marcus and Frank Wolter, 1999, “Normal Monomodal Logics Can Simulate All Others”, *Journal of Symbolic Logic*, 64(1): 99–138. doi:10.2307/2586754
-* Moulin, Herve and Bezalel Peleg, 1982, “Cores of Effectivity Functions and Implementation Theory”, *Journal of Mathematical Economics*, 10(1): 115–145. doi:10.1016/0304-4068(82)90009-X
-* Naumov, Pavel and Kevin Ros, 2021, “Strategic coalitions in stochastic games”, *Journal of Logic and Computation*, 31(7): 1845–1867. doi:10.1093/logcom/exab032
+* Hoek, Wiebe van der and Michael Wooldridge, 2005, “On the Logic of Cooperation and Propositional Control”, *Artificial Intelligence*, 164(1–2): 81–119. doi: 10.1016/j.artint.2005.01.003
+* Kooi, Barteld and Allard Tamminga, 2008, “Moral Conflicts Between Groups of Agents”, *Journal of Philosophical Logic*, 37(1): 1–21. doi: 10.1007/s10992-007-9049-z
+* Kracht, Marcus and Frank Wolter, 1999, “Normal Monomodal Logics Can Simulate All Others”, *Journal of Symbolic Logic*, 64(1): 99–138. doi: 10.2307/2586754
+* Moulin, Herve and Bezalel Peleg, 1982, “Cores of Effectivity Functions and Implementation Theory”, *Journal of Mathematical Economics*, 10(1): 115–145. doi: 10.1016/0304-4068(82)90009-X
+* Naumov, Pavel and Kevin Ros, 2021, “Strategic coalitions in stochastic games”, *Journal of Logic and Computation*, 31(7): 1845–1867. doi: 10.1093/logcom/exab032
 * Osborne, Martin and Ariel Rubinstein, 1994, *A Course in Game Theory*, Cambridge, MA: MIT Press.
 * Pacuit, Eric and Olivier Roy, 2015, “Epistemic Foundations of Game Theory”, in *Stanford Encyclopedia of Philosophy*, (Spring 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2015/entries/epistemic-game/>
 * Pauly, Marc, 2001, *Logic for Social Software*, Ph.D. thesis, University of Amsterdam. [[Pauly 2001 available online](http://hdl.handle.net/11245/1.194561)]
-* Peleg, Bezalel, 1998, “Effectivity Functions, Game Forms, Games and Rights”, *Social Choice and Welfare*, 15(1): 67–80. doi:10.1007/s003550050092
+* Peleg, Bezalel, 1998, “Effectivity Functions, Game Forms, Games and Rights”, *Social Choice and Welfare*, 15(1): 67–80. doi: 10.1007/s003550050092
 * Schelling, T., 1960, *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
 * Steele, Katie and Orri Stefansson, 2015, “Decision Theory”, in *Stanford Encyclopedia of Philosophy*, (Winter 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2015/entries/decision-theory/>
-* Tamminga, Allard, 2013, “Deontic Logic for Strategic Games”, *Erkenntnis*, 78(1): 183–200. doi:10.1007/s10670-011-9349-0
+* Tamminga, Allard, 2013, “Deontic Logic for Strategic Games”, *Erkenntnis*, 78(1): 183–200. doi: 10.1007/s10670-011-9349-0
 * Troquard, Nicolas, Wiebe van der Hoek, and Michael Wooldridge, 2009, “A Logic of Games and Propositional Control”, in Carles Sierra, Cristiano Castelfranchi, Keith S. Decker, & Jaime Simão Sichman (eds.), *Proceedings of the 8th International Joint Conference on Autonomous Agents and Multiagent Systems*, (AAMAS 2009), Budapest, Hungary, May 10–15, 2009, Volume 2, Richland, SC: International Foundation for Autonomous Agents and Multiagent Systems, pp. 961–968.
-* –––, 2011, “Reasoning About Social Choice Functions”, *Journal of Philosophical Logic*, 40(4): 473–498. doi:10.1007/s10992-011-9189-z
-* Turrini, Paolo, 2012, “Agreements as Norms”, in Thomas Ågotnes, Jan Broersen, & Dag Elgesem (eds.), *Deontic Logic in Computer Science: 11th International Conference* (DEON 2012), Bergen, Norway, July 16–18, 2012, Berlin: Springer, 31–45. doi:10.1007/978-3-642-31570-1_3
+* –––, 2011, “Reasoning About Social Choice Functions”, *Journal of Philosophical Logic*, 40(4): 473–498. doi: 10.1007/s10992-011-9189-z
+* Turrini, Paolo, 2012, “Agreements as Norms”, in Thomas Ågotnes, Jan Broersen, & Dag Elgesem (eds.), *Deontic Logic in Computer Science: 11th International Conference* (DEON 2012), Bergen, Norway, July 16–18, 2012, Berlin: Springer, 31–45. doi: 10.1007/978-3-642-31570-1_3
 * Wooldridge, Michael, & Dunne, P. E., 2004, “On the computational complexity of qualitative coalitional games”, *Artificial Intelligence*, 158(1): 27–73.
-* Wooldridge, Michael, Ulle Endriss, Sarit Kraus, and Jérôme Lang, 2013, “Incentive Engineering for Boolean Games”, *Artificial Intelligence*, 195: 418–439. doi:10.1016/j.artint.2012.11.003
+* Wooldridge, Michael, Ulle Endriss, Sarit Kraus, and Jérôme Lang, 2013, “Incentive Engineering for Boolean Games”, *Artificial Intelligence*, 195: 418–439. doi: 10.1016/j.artint.2012.11.003
 
 ## Academic Tools
 

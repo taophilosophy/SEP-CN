@@ -1,30 +1,30 @@
-# 卡尔·波普尔 Popper, Karl (Stephen Thornton)
+# 卡尔 · 波普尔 Popper, Karl (Stephen Thornton)
 
 *首次发表于 1997 年 11 月 13 日；实质性修订于 2022 年 9 月 12 日*
 
 ![Photo of Karl Popper](https://plato.stanford.edu/entries/popper/popper.jpg)
 
-卡尔·波普尔通常被认为是 20 世纪最伟大的科学哲学家之一。他也是一位具有相当声望的社会和政治哲学家，自称为批判理性主义者，坚决反对科学和人类事务中的任何形式的怀疑主义和相对主义，并坚定地倡导和捍卫“开放社会”。波普尔思想的许多显著特点之一是他的智力影响范围：他受到伯特兰·罗素的赞扬，在伦敦政治经济学院教授了伊姆雷·拉卡托什、保罗·费耶拉本德和慈善家乔治·索罗斯，他的研究助手中包括大卫·米勒、约瑟夫·阿加西、艾伦·马斯格雷夫和杰里米·谢尔默尔，托马斯·萨斯将他列为“我最重要的导师之一”，并与经济学家弗里德里希·哈耶克和艺术史学家恩斯特·冈布里希有密切联系。此外，彼得·梅达沃、约翰·埃克尔斯和赫尔曼·邦迪等杰出科学家承认他们在学术上受到他的影响，后者甚至宣称“科学没有比它的方法更多，而它的方法没有比波普尔所说的更多”。
+卡尔 · 波普尔通常被认为是 20 世纪最伟大的科学哲学家之一。他也是一位具有相当声望的社会和政治哲学家，自称为批判理性主义者，坚决反对科学和人类事务中的任何形式的怀疑主义和相对主义，并坚定地倡导和捍卫“开放社会”。波普尔思想的许多显著特点之一是他的智力影响范围：他受到伯特兰 · 罗素的赞扬，在伦敦政治经济学院教授了伊姆雷 · 拉卡托什、保罗 · 费耶拉本德和慈善家乔治 · 索罗斯，他的研究助手中包括大卫 · 米勒、约瑟夫 · 阿加西、艾伦 · 马斯格雷夫和杰里米 · 谢尔默尔，托马斯 · 萨斯将他列为“我最重要的导师之一”，并与经济学家弗里德里希 · 哈耶克和艺术史学家恩斯特 · 冈布里希有密切联系。此外，彼得 · 梅达沃、约翰 · 埃克尔斯和赫尔曼 · 邦迪等杰出科学家承认他们在学术上受到他的影响，后者甚至宣称“科学没有比它的方法更多，而它的方法没有比波普尔所说的更多”。
 
 ---
 
 ## 1. 生活
 
-卡尔·雷蒙德·波普尔于 1902 年 7 月 28 日出生在维也纳。他的父母是犹太人，他们在一个被他后来称为“明显书呆子”的氛围中抚养他长大。他的父亲是一名律师，但他也对古典文学和哲学有浓厚的兴趣，并向他的儿子传达了对社会和政治问题的兴趣。他的母亲灌输给他对音乐的热爱，以至于有一段时间他考虑将其作为职业；他最初选择音乐史作为他的博士考试的第二课题。随后，他对音乐的热爱成为他思想发展中的一种灵感力量，并在他对教条主义和批判性思维之间关系的高度原创解释中表现出来，在他对客观性和主观性区分的解释中表现出来，最重要的是，在他对历史唯物主义的敌意的增长中，包括对音乐“进步性”本质的历史唯物主义观念。年轻的卡尔就读于当地的 Realgymnasium，他对教学水平不满意，在生病后，他离开学校于 1918 年进入维也纳大学，四年后入学。1919 年，他深陷左翼政治，并一度成为马克思主义者。然而，他很快对后者的教条主义性质感到幻灭，并很快完全放弃了它。他还发现了弗洛伊德和阿德勒的精神分析理论（他在 20 世纪 20 年代曾短暂担任后者诊所的志愿社工，为贫困儿童服务），并听到爱因斯坦讲解相对论。 卡尔·波普尔认为，爱因斯坦对批判精神的主导地位以及马克思、弗洛伊德和阿德勒对此的完全缺乏，具有根本重要性：他开始认为，精神分析的先驱者们将他们的理论表达为只能接受证实的术语，而爱因斯坦的理论则具有可测试的推论，如果这些推论是错误的，将会推翻理论本身。
+卡尔 · 雷蒙德 · 波普尔于 1902 年 7 月 28 日出生在维也纳。他的父母是犹太人，他们在一个被他后来称为“明显书呆子”的氛围中抚养他长大。他的父亲是一名律师，但他也对古典文学和哲学有浓厚的兴趣，并向他的儿子传达了对社会和政治问题的兴趣。他的母亲灌输给他对音乐的热爱，以至于有一段时间他考虑将其作为职业；他最初选择音乐史作为他的博士考试的第二课题。随后，他对音乐的热爱成为他思想发展中的一种灵感力量，并在他对教条主义和批判性思维之间关系的高度原创解释中表现出来，在他对客观性和主观性区分的解释中表现出来，最重要的是，在他对历史唯物主义的敌意的增长中，包括对音乐“进步性”本质的历史唯物主义观念。年轻的卡尔就读于当地的 Realgymnasium，他对教学水平不满意，在生病后，他离开学校于 1918 年进入维也纳大学，四年后入学。1919 年，他深陷左翼政治，并一度成为马克思主义者。然而，他很快对后者的教条主义性质感到幻灭，并很快完全放弃了它。他还发现了弗洛伊德和阿德勒的精神分析理论（他在 20 世纪 20 年代曾短暂担任后者诊所的志愿社工，为贫困儿童服务），并听到爱因斯坦讲解相对论。 卡尔 · 波普尔认为，爱因斯坦对批判精神的主导地位以及马克思、弗洛伊德和阿德勒对此的完全缺乏，具有根本重要性：他开始认为，精神分析的先驱者们将他们的理论表达为只能接受证实的术语，而爱因斯坦的理论则具有可测试的推论，如果这些推论是错误的，将会推翻理论本身。
 
-波普尔花了一些时间来确定自己的职业；他接受了家具制作师的培训，在1925年获得了小学教师文凭，并在1929年取得了中学数学和物理教师资格。他在维也纳大学心理学系攻读博士学位，当时由卡尔·比勒监督，比勒是维尔茨堡实验心理学派的创始成员之一。波普尔最初的项目是对人类记忆进行心理学调查，他进行了初步研究。然而，计划中关于方法论的引言章节的主题逐渐占据了主导地位，并引起了比勒的共鸣。作为康德学者（哲学和心理学教授），比勒曾着名地讨论过当代心理学的“危机”问题。对比勒来说，这个“危机”与心理学的统一问题有关，由学科内不断竞争的范式的增多所引发，这些范式削弱了此前占主导地位的联想主义，并使方法问题变得复杂化。因此，在比勒的指导下，波普尔将自己的课题转向了认知心理学的方法论问题，并于1928年凭借他的论文《论思维心理学的方法问题》获得博士学位。在论文中，波普尔扩展了比勒的康德主义方法来解决危机问题，并批评了莫里茨·施利克的中性单元论计划，试图通过将心理学转变为脑过程科学来使其具有科学性。波普尔认为，后者的理想是错误的，但由此引发的问题最终使波普尔的注意力从比勒关于心理学统一的问题转向了其科学性的问题。 这种对方法、客观性和科学地位的问题的哲学关注成为了波普尔一生的主要关注点，使他的思想取向与当代的“分析”哲学家弗雷格和罗素以及维也纳学派的许多成员保持一致。
+波普尔花了一些时间来确定自己的职业；他接受了家具制作师的培训，在 1925 年获得了小学教师文凭，并在 1929 年取得了中学数学和物理教师资格。他在维也纳大学心理学系攻读博士学位，当时由卡尔 · 比勒监督，比勒是维尔茨堡实验心理学派的创始成员之一。波普尔最初的项目是对人类记忆进行心理学调查，他进行了初步研究。然而，计划中关于方法论的引言章节的主题逐渐占据了主导地位，并引起了比勒的共鸣。作为康德学者（哲学和心理学教授），比勒曾着名地讨论过当代心理学的“危机”问题。对比勒来说，这个“危机”与心理学的统一问题有关，由学科内不断竞争的范式的增多所引发，这些范式削弱了此前占主导地位的联想主义，并使方法问题变得复杂化。因此，在比勒的指导下，波普尔将自己的课题转向了认知心理学的方法论问题，并于 1928 年凭借他的论文《论思维心理学的方法问题》获得博士学位。在论文中，波普尔扩展了比勒的康德主义方法来解决危机问题，并批评了莫里茨 · 施利克的中性单元论计划，试图通过将心理学转变为脑过程科学来使其具有科学性。波普尔认为，后者的理想是错误的，但由此引发的问题最终使波普尔的注意力从比勒关于心理学统一的问题转向了其科学性的问题。 这种对方法、客观性和科学地位的问题的哲学关注成为了波普尔一生的主要关注点，使他的思想取向与当代的“分析”哲学家弗雷格和罗素以及维也纳学派的许多成员保持一致。
 
-1930 年，波普尔与约瑟芬·安娜·亨宁格（“亨妮”）结婚，她也担任他的文书，直到 1985 年去世。在他们婚姻的早期阶段，他们决定永远不要孩子。1937 年，他在新西兰坎特伯雷大学担任哲学教师，直到第二次世界大战结束。
+1930 年，波普尔与约瑟芬 · 安娜 · 亨宁格（“亨妮”）结婚，她也担任他的文书，直到 1985 年去世。在他们婚姻的早期阶段，他们决定永远不要孩子。1937 年，他在新西兰坎特伯雷大学担任哲学教师，直到第二次世界大战结束。
 
 1938 年奥地利被吞并成为催化剂，促使波普尔将他的写作重点转向社会和政治哲学。他在 1945 年出版了《开放社会及其敌人》，批判极权主义。1946 年，他搬到英国，在伦敦政治经济学院任教，并于 1949 年成为伦敦大学逻辑与科学方法学教授。从那时起，他作为科学哲学家和社会思想家的声誉和地位不断增长，他继续大量写作——他的一些作品，尤其是《科学发现的逻辑》（1959 年），现在被广泛视为该领域的开创性经典之一。然而，他好斗的个性与对自我扩张的热情相结合，对职业同事们并不讨好。他在战后的英国哲学界感到不自在，他认为那里过于关注细枝末节的语言问题，这是由他视为自己的宿敌维特根斯坦所决定的。波普尔对理性批评的首要性的承诺与对任何不完全接受他自己思想的敌意相对应，在英国——正如在维也纳的情况一样——他越来越成为一个孤立的人物，尽管他的思想继续激发人们的钦佩。
 
-在后来的岁月里，波普尔因其对科学的规定性方法和对证伪逻辑的强调而受到哲学批评。在许多人眼中，这一方法被托马斯·库恩在《科学革命的结构》（1962 年）中采取的社会历史方法所取代。在那部作品中，库恩主张竞争科学范式的不可比较性，并否认科学通过真理的积累而线性增长。
+在后来的岁月里，波普尔因其对科学的规定性方法和对证伪逻辑的强调而受到哲学批评。在许多人眼中，这一方法被托马斯 · 库恩在《科学革命的结构》（1962 年）中采取的社会历史方法所取代。在那部作品中，库恩主张竞争科学范式的不可比较性，并否认科学通过真理的积累而线性增长。
 
 波普尔于 1965 年被封为爵士，并于 1969 年从伦敦大学退休，一直活跃于作家、广播员和讲师的角色，直到 1994 年去世。（有关波普尔生平的更多细节，请参阅他的《未完的追求》[1976]）。
 
 ## 2. 波普尔思想的背景
 
-一些生平特点可以被认定为对波普尔思想产生了特殊影响。他在青少年时期与马克思主义有过一段暧昧关系，使他对马克思主义的辩证经济观、阶级斗争和历史观非常熟悉。但他对民主党派未能阻止20世纪20年代和30年代奥地利法西斯主义崛起以及马克思主义者对其的有效欢迎感到震惊。马克思主义者认为法西斯主义是资本主义崩溃和共产主义最终胜利的必要辩证步骤。《历史主义的贫困》（1944年；1957年）和《开放社会及其敌人》（1945年）是波普尔最激情和有影响力的社会著作，是对民主自由主义的有力辩护，也是对支撑各种形式的极权主义的哲学前提的强烈批判。
+一些生平特点可以被认定为对波普尔思想产生了特殊影响。他在青少年时期与马克思主义有过一段暧昧关系，使他对马克思主义的辩证经济观、阶级斗争和历史观非常熟悉。但他对民主党派未能阻止 20 世纪 20 年代和 30 年代奥地利法西斯主义崛起以及马克思主义者对其的有效欢迎感到震惊。马克思主义者认为法西斯主义是资本主义崩溃和共产主义最终胜利的必要辩证步骤。《历史主义的贫困》（1944 年；1957 年）和《开放社会及其敌人》（1945 年）是波普尔最激情和有影响力的社会著作，是对民主自由主义的有力辩护，也是对支撑各种形式的极权主义的哲学前提的强烈批判。
 
 波普尔也深受弗洛伊德和阿德勒所谓的“科学”理论与爱因斯坦在二十世纪前两个十年中在物理学上所引发的相对论革命之间的差异所打动。波普尔认为，他们之间的主要区别在于，爱因斯坦的理论是非常“冒险”的，因为可以从中推导出一些在当时主导的牛顿物理学的光线被偏折到固体物体的情况下是高度不可能的（例如，这一点在 1919 年埃丁顿的实验中得到了证实），而如果这些推导结果被证明是错误的，就会推翻整个理论。然而，没有任何东西，即使在原则上也不能推翻精神分析理论。波普尔认为，它们“只是不可测试的，不可反驳的。没有任何人类行为可以与之相矛盾”（1963 年：37）。因此，它们与神话更相似，而不是真正的科学；“它们包含了非常有趣的心理建议，但并非以可测试的形式呈现”（1963 年：38）。波普尔得出结论，精神分析学的主要优势似乎是其能够适应和解释各种可能的人类行为形式，但实际上这是一个关键的弱点，因为它意味着它不是真正的预测性的，也永远不可能是真正的预测性的。对于那些会回应说精神分析理论得到了临床观察的支持的人，波普尔指出
 
@@ -40,13 +40,13 @@
 
 因此，波普尔拒绝了归纳是科学研究和推理的特征方法的观点，取而代之的是可证伪性。他认为，几乎任何理论都可以获得支持的证据很容易获得，因此他认为这种“证实”，正如他所称之的，只有在它是真正“冒险”的预测的积极结果时，才能在科学上计算。从批判的角度来看，波普尔的划界理论基于他对验证和证伪之间的不对称性的感知：通过经验验证普遍命题在逻辑上是不可能的（正如休谟清楚地看到的），但是一个真正的反例可以证伪相应的普遍定律。简而言之，一个例外不仅不能“证明”一个规则，而且可以彻底推翻它。
 
-卡尔·波普尔认为，每个真正的科学理论都是禁止性的，因为自然科学的理论采取普遍陈述的形式。“所有的 A 都是 X”等同于“没有 A 不是 X”，如果“一些 A 不是 X”被证明是真的，那么这个理论就被证伪了。例如，能量守恒定律可以表达为“没有永动机”。
+卡尔 · 波普尔认为，每个真正的科学理论都是禁止性的，因为自然科学的理论采取普遍陈述的形式。“所有的 A 都是 X”等同于“没有 A 不是 X”，如果“一些 A 不是 X”被证明是真的，那么这个理论就被证伪了。例如，能量守恒定律可以表达为“没有永动机”。
 
 然而，他认为，这些定律的普遍性排除了它们被验证的可能性。因此，经过严格测试的理论应被视为得到了高度的证实，并且可以暂时保留为目前最好的理论，直到最终被证伪和/或被更好的理论取代。
 
 波普尔特别强调，没有唯一的方式，没有单一的方法（如归纳法）可以作为通往科学理论的途径，并且赞同爱因斯坦的观点：
 
-> 没有逻辑路径可以导向[科学的高度普遍定律]。它们只能通过直觉来达到，这种直觉基于对经验对象的一种智力上的爱。(2002: 8-9)
+> 没有逻辑路径可以导向 [科学的高度普遍定律]。它们只能通过直觉来达到，这种直觉基于对经验对象的一种智力上的爱。(2002: 8-9)
 
 在波普尔的观点中，科学是从问题开始的，而不是从观察开始的 - 实际上，正是在解决问题的背景下，科学家首次进行观察：他的观察是有选择性地设计来测试给定理论在解决给定问题上的满意程度。
 
@@ -127,11 +127,11 @@
 
 > 最终，真似度的概念在我们知道我们必须使用近似理论的情况下最为重要——也就是说，我们知道这些理论不能是真实的情况下。在这些情况下，我们仍然可以谈论更好或更差的真实近似（因此我们不需要将这些情况解释为工具主义的意义）。 （1963 年：235）
 
-1974 年，大卫·米勒（David Miller）和帕维尔·蒂奇（Pavel Tichý）分别独立工作，证明了波普尔在定性和定量真似度方面的解释中所规定的条件只有在理论为真时才能满足。在虚假理论的关键重要案例中，波普尔的定义在形式上存在缺陷：对于一个虚假理论 t2，其内容超过竞争理论 t1，t2 的真实内容和虚假内容都将超过 t1。因此，对于虚假理论，无论是在定量还是定性方面，波普尔比较真似度水平的条件永远无法满足。
+1974 年，大卫 · 米勒（David Miller）和帕维尔 · 蒂奇（Pavel Tichý）分别独立工作，证明了波普尔在定性和定量真似度方面的解释中所规定的条件只有在理论为真时才能满足。在虚假理论的关键重要案例中，波普尔的定义在形式上存在缺陷：对于一个虚假理论 t2，其内容超过竞争理论 t1，t2 的真实内容和虚假内容都将超过 t1。因此，对于虚假理论，无论是在定量还是定性方面，波普尔比较真似度水平的条件永远无法满足。
 
 波普尔的回应是双重的。首先，他承认自己的形式解释存在不足之处：
 
-> “……我的主要错误是没有立即意识到我的《关于真实内容的一个定理》[1966]可以扩展到虚假内容：如果一个虚假陈述 a 的内容超过陈述 b 的内容，那么陈述 a 的真实内容超过陈述 b 的真实内容，同样也适用于它们的虚假内容。”（1979 年，371 页）
+> “……我的主要错误是没有立即意识到我的《关于真实内容的一个定理》[1966] 可以扩展到虚假内容：如果一个虚假陈述 a 的内容超过陈述 b 的内容，那么陈述 a 的真实内容超过陈述 b 的真实内容，同样也适用于它们的虚假内容。”（1979 年，371 页）
 
 但他认为
 
@@ -229,7 +229,7 @@ P1→TT→EE→P2.
 
 波普尔基于对历史主义逻辑缺陷的论证，反对对社会结构的大规模规划的适当性。他认为，这在理论上和实践上都是错误的，因为我们规划的一部分是我们未来的知识，而我们未来的知识不是我们现在可以原则上拥有的——我们无法充分规划未来知识的意外进展，或者对这些进展对整个社会的影响进行充分规划。对他来说，这需要接受历史不确定性作为唯一与对人类知识的临时性和不完整性的适当理解相一致的历史哲学。
 
-这种对历史主义和整体主义的批判，在积极的一面上，被波普尔对个人主义和市场经济理念的肯定以及他对开放社会的坚决捍卫所平衡。他认为一个社会等同于其成员的总和，社会成员的行动塑造和影响着社会，并且有意行动的社会后果往往是无意的。他的社会哲学的这一部分受到了经济学家弗里德里希·哈耶克的影响，哈耶克与他在伦敦经济学院共事，并且是他的终身朋友。波普尔主张所谓的“逐步社会工程”作为社会规划的核心机制：利用这一机制，有意行动被指导到一次实现一个具体目标，这使得我们能够确定有意行动的不良意外效果是否发生，以便在必要时进行纠正和调整。当然，这与科学研究中对理论进行批判性测试的过程完全相同。这种社会规划方法（明确基于我们不知道未来会是什么样的前提）鼓励试图纠正社会中存在问题的地方，即被广泛认可的社会弊病，而不是试图将某种预先设想的“善”强加于整个社会。对于波普尔来说，在一个真正开放的社会中，逐步社会工程与负面功利主义相辅相成，即试图最小化痛苦和苦难的程度，而不是像正面功利主义那样试图最大化幸福的程度。他认为，国家应该致力于逐步制定和实施旨在应对实际面临的社会问题的政策，以最大程度地减轻人类的痛苦和苦难。 相反，增加社会和个人幸福的积极任务可以和应该留给个体公民，他们当然可以集体行动以达到这个目标。“我的论点”，波普尔说，
+这种对历史主义和整体主义的批判，在积极的一面上，被波普尔对个人主义和市场经济理念的肯定以及他对开放社会的坚决捍卫所平衡。他认为一个社会等同于其成员的总和，社会成员的行动塑造和影响着社会，并且有意行动的社会后果往往是无意的。他的社会哲学的这一部分受到了经济学家弗里德里希 · 哈耶克的影响，哈耶克与他在伦敦经济学院共事，并且是他的终身朋友。波普尔主张所谓的“逐步社会工程”作为社会规划的核心机制：利用这一机制，有意行动被指导到一次实现一个具体目标，这使得我们能够确定有意行动的不良意外效果是否发生，以便在必要时进行纠正和调整。当然，这与科学研究中对理论进行批判性测试的过程完全相同。这种社会规划方法（明确基于我们不知道未来会是什么样的前提）鼓励试图纠正社会中存在问题的地方，即被广泛认可的社会弊病，而不是试图将某种预先设想的“善”强加于整个社会。对于波普尔来说，在一个真正开放的社会中，逐步社会工程与负面功利主义相辅相成，即试图最小化痛苦和苦难的程度，而不是像正面功利主义那样试图最大化幸福的程度。他认为，国家应该致力于逐步制定和实施旨在应对实际面临的社会问题的政策，以最大程度地减轻人类的痛苦和苦难。 相反，增加社会和个人幸福的积极任务可以和应该留给个体公民，他们当然可以集体行动以达到这个目标。“我的论点”，波普尔说，
 
 > 人类的痛苦是理性公共政策中最紧迫的问题，而幸福并不是这样一个问题。幸福的实现应该留给我们的私人努力。（1963 年：361）
 
@@ -255,23 +255,23 @@ P1→TT→EE→P2.
 
 其次，波普尔的划界理论在很大程度上依赖于这样一个假设，即存在着所谓的关键测试，这些测试要么证伪一个理论，要么给予它强有力的证实。波普尔本人喜欢引用亚当斯和勒韦里尔解决天王星异常轨道问题的例子，作为这样一个关键测试的例子。他们独立地得出结论，假设牛顿力学是完全正确的，那么天王星椭圆轨道的观测偏差可以通过假设存在第七颗尚未观测到的外行星来解释。此外，他们还能够在牛顿力学的框架内计算出“新”行星的精确位置。因此，当柏林天文台的加勒随后的研究揭示出这样一个行星（海王星）实际上存在，并且正好位于亚当斯和勒韦里尔计算的位置时，这被所有人都誉为牛顿物理学的伟大胜利：按照波普尔的术语，牛顿的理论经受住了关键测试，并且以优异的成绩通过了。
 
-然而，拉卡托斯坚决否认科学中存在着波普尔意义上的关键测试，并通过将上述所谓关键测试的例子颠倒过来来有力地论证了这一观点。他问道，如果盖尔没有发现海王星，会发生什么？牛顿物理学会被放弃吗？还是牛顿的理论会被证伪？答案显然是否定的，因为盖尔的失败可以归因于除了牛顿物理学的错误之外的任何原因（例如，地球大气层对望远镜的干扰，隐藏新行星的小行星带的存在等）。这种建议是波普尔提出的“证伪/证实”二分法是不合理的：非证实不一定是证伪，高级科学理论的证伪从来不是由一个孤立的观察或一组观察引起的。现在广泛认可的观点是，这些理论对于证伪具有很高的抵抗力；它们被“大量的辅助假设的‘保护带’”（拉卡托斯1978年：4）所保护，因此，如果被证伪的话，不是通过波普尔式的关键测试，而是在与之相关的研究计划的复杂背景下逐渐停滞下来。波普尔在可证伪性逻辑与应用方法论之间的区别最终不能充分体现这样一个事实，即所有高级理论都会在存在异常情况（即与之不相容的事件/现象）的情况下生长和存在。拉卡托斯提出，工作科学家通常不会将这些异常情况视为该理论错误的迹象。相反，在一个进步的研究计划的背景下，他们必然会假设与该理论相关的辅助假设可以随着时间的推移进行修改，以包含并解释难以解决的现象。
+然而，拉卡托斯坚决否认科学中存在着波普尔意义上的关键测试，并通过将上述所谓关键测试的例子颠倒过来来有力地论证了这一观点。他问道，如果盖尔没有发现海王星，会发生什么？牛顿物理学会被放弃吗？还是牛顿的理论会被证伪？答案显然是否定的，因为盖尔的失败可以归因于除了牛顿物理学的错误之外的任何原因（例如，地球大气层对望远镜的干扰，隐藏新行星的小行星带的存在等）。这种建议是波普尔提出的“证伪/证实”二分法是不合理的：非证实不一定是证伪，高级科学理论的证伪从来不是由一个孤立的观察或一组观察引起的。现在广泛认可的观点是，这些理论对于证伪具有很高的抵抗力；它们被“大量的辅助假设的‘保护带’”（拉卡托斯 1978 年：4）所保护，因此，如果被证伪的话，不是通过波普尔式的关键测试，而是在与之相关的研究计划的复杂背景下逐渐停滞下来。波普尔在可证伪性逻辑与应用方法论之间的区别最终不能充分体现这样一个事实，即所有高级理论都会在存在异常情况（即与之不相容的事件/现象）的情况下生长和存在。拉卡托斯提出，工作科学家通常不会将这些异常情况视为该理论错误的迹象。相反，在一个进步的研究计划的背景下，他们必然会假设与该理论相关的辅助假设可以随着时间的推移进行修改，以包含并解释难以解决的现象。
 
-第三，波普尔对马克思主义的批评当然并未没有遭到挑战。然而，由此引发的辩论在许多情况下往往围绕意识形态而非哲学问题展开，这里将不予讨论。然而，也有一些有力的哲学回应。科恩福思将马克思主义视为一门理性科学学科，将马克思主义思想视为“一种理性和科学的社会问题解决方法”（科恩福思1968年：6），这与马克思和波普尔都认为重要的方式相一致。因此，他批评波普尔将马克思主义描绘为一套旨在封闭思维或预先排除我们理性能力在解决社会问题时发挥作用的教条体系。他反驳说，马克思主义构成了一种思维方式，旨在开放人们对人类生活真实可能性的思考，并将其视为最有助于推动他和波普尔都认同的开放社会理想的哲学。哈德尔森（1980年）认为，马克思主义经济学在波普尔对历史主义的批评中幸存下来，并且，无论如何，马克思并没有持有波普尔所指出的历史主义的许多原则。他还主张波普尔未能证明社会发展中不能存在，我们也不能知道社会发展的规律，并且马克思实际上并没有像波普尔所暗示的那样混淆趋势和规律。
+第三，波普尔对马克思主义的批评当然并未没有遭到挑战。然而，由此引发的辩论在许多情况下往往围绕意识形态而非哲学问题展开，这里将不予讨论。然而，也有一些有力的哲学回应。科恩福思将马克思主义视为一门理性科学学科，将马克思主义思想视为“一种理性和科学的社会问题解决方法”（科恩福思 1968 年：6），这与马克思和波普尔都认为重要的方式相一致。因此，他批评波普尔将马克思主义描绘为一套旨在封闭思维或预先排除我们理性能力在解决社会问题时发挥作用的教条体系。他反驳说，马克思主义构成了一种思维方式，旨在开放人们对人类生活真实可能性的思考，并将其视为最有助于推动他和波普尔都认同的开放社会理想的哲学。哈德尔森（1980 年）认为，马克思主义经济学在波普尔对历史主义的批评中幸存下来，并且，无论如何，马克思并没有持有波普尔所指出的历史主义的许多原则。他还主张波普尔未能证明社会发展中不能存在，我们也不能知道社会发展的规律，并且马克思实际上并没有像波普尔所暗示的那样混淆趋势和规律。
 
-第四，就弗洛伊德的精神分析而言，波普尔的批评在哲学上受到了一些评论家的挑战，尤其是阿道夫·格林鲍姆（1984年）。格林鲍姆对波普尔对精神分析声称自己是科学的批评持高度批判态度，甚至嘲笑，并认为弗洛伊德表现出了“对批评者常常指责他的方法论陷阱的敏锐认识”（格林鲍姆1984年：168），例如波普尔。他认为弗洛伊德对精神分析解释的证实和反证的逻辑问题非常敏感，并引用了弗洛伊德使用的协同性概念，即来自不同来源的证据的汇聚，作为满足该逻辑要求的一种认真和明确的尝试。对于格林鲍姆来说，波普尔对弗洛伊德的批评几乎是对这位奠定精神分析学科的先驱思想家的讽刺，他将其归因于波普尔对“弗洛伊德实际著作的无视”（1984年：124）。例如，他指出，波普尔在《猜想与反驳》（波普尔1963年：35）中使用的溺水儿童案例，这是波普尔用来支持他反对精神分析的部分论据，是人为编造的，并没有从弗洛伊德的实际临床文本中得出。
+第四，就弗洛伊德的精神分析而言，波普尔的批评在哲学上受到了一些评论家的挑战，尤其是阿道夫 · 格林鲍姆（1984 年）。格林鲍姆对波普尔对精神分析声称自己是科学的批评持高度批判态度，甚至嘲笑，并认为弗洛伊德表现出了“对批评者常常指责他的方法论陷阱的敏锐认识”（格林鲍姆 1984 年：168），例如波普尔。他认为弗洛伊德对精神分析解释的证实和反证的逻辑问题非常敏感，并引用了弗洛伊德使用的协同性概念，即来自不同来源的证据的汇聚，作为满足该逻辑要求的一种认真和明确的尝试。对于格林鲍姆来说，波普尔对弗洛伊德的批评几乎是对这位奠定精神分析学科的先驱思想家的讽刺，他将其归因于波普尔对“弗洛伊德实际著作的无视”（1984 年：124）。例如，他指出，波普尔在《猜想与反驳》（波普尔 1963 年：35）中使用的溺水儿童案例，这是波普尔用来支持他反对精神分析的部分论据，是人为编造的，并没有从弗洛伊德的实际临床文本中得出。
 
-格林鲍姆认为，在弗洛伊德的著作中，他展示了自己是一个“精明的科学方法论者”（格林鲍姆 1984 年：128），对其理论体系需要满足可测试性的要求有着敏锐的意识。其中一个例子是当弗洛伊德评估焦虑神经症是由性生活的干扰引起时，明确提到了可证伪性的概念：“只有当我被展示出性生活正常的恐惧症时，我的理论才能被证伪”（弗洛伊德 1895 年[1962 年：134]）。另一个例子出现在弗洛伊德 1915 年的论文《与精神分析理论相悖的偏执狂案例》，正如标题所示，他认为患者的症状集合有可能证伪该理论。此外，格林鲍姆认为，弗洛伊德对偏执狂的整个解释，即其源于潜在的压抑的同性恋，是可以通过经验进行证伪的，因为它具有可测试的含义，即减少对同性关系的社会制裁应该导致偏执狂发病率的降低（1984 年：111）。
+格林鲍姆认为，在弗洛伊德的著作中，他展示了自己是一个“精明的科学方法论者”（格林鲍姆 1984 年：128），对其理论体系需要满足可测试性的要求有着敏锐的意识。其中一个例子是当弗洛伊德评估焦虑神经症是由性生活的干扰引起时，明确提到了可证伪性的概念：“只有当我被展示出性生活正常的恐惧症时，我的理论才能被证伪”（弗洛伊德 1895 年 [1962 年：134]）。另一个例子出现在弗洛伊德 1915 年的论文《与精神分析理论相悖的偏执狂案例》，正如标题所示，他认为患者的症状集合有可能证伪该理论。此外，格林鲍姆认为，弗洛伊德对偏执狂的整个解释，即其源于潜在的压抑的同性恋，是可以通过经验进行证伪的，因为它具有可测试的含义，即减少对同性关系的社会制裁应该导致偏执狂发病率的降低（1984 年：111）。
 
 因此，格林鲍姆认为，弗洛伊德理论应被视为可证伪的，因此是真正的科学理论，尽管在他看来，最终是不成功的，因为支持其理论的临床证据受到分析师暗示的污染，因此无法支撑其概念的重量。这与格林鲍姆所认为的波普尔对弗洛伊德的简化否定完全不同：“某些科学哲学家无法发现弗洛伊德理论的任何可测试的后果”，他得出结论说，“这表明他们对其逻辑内容的掌握或审查不足，而不是精神分析的科学责任”（1984 年：113）。
 
 对于波普尔对精神分析理论声称具有科学地位的批评的严重性，几乎没有什么疑问。此外，弗洛伊德主义对当代生活的无与伦比的文化影响几乎是不可否认的，即使对弗洛伊德庞大的著作进行粗略的审查，也能发现一个具有非凡理论力量和想象力的思想家，他的科学有效性的主张不能轻易地被驳回。
 
-然而，尽管这种精神分析对波普尔的回应的细节是有争议的，但最引人注目和重要的是，正如格伦鲍姆所表达的那样，它本身是以波普尔科学解释/原理的广泛术语来表达的。也就是说，在拒绝精神分析未能满足波普尔规定的可证伪性标准的主张时，格伦鲍姆（他也拒绝了保罗·里克尔和于尔根·哈贝马斯等思想家对弗洛伊德提出的诠释）暗示地接受了这个标准，以及波普尔的划界理论的广泛范围。仅仅因为这个原因，波普尔的工作似乎将继续作为关于弗洛伊德思想科学地位的持续辩论中的一个关键参考点。
+然而，尽管这种精神分析对波普尔的回应的细节是有争议的，但最引人注目和重要的是，正如格伦鲍姆所表达的那样，它本身是以波普尔科学解释/原理的广泛术语来表达的。也就是说，在拒绝精神分析未能满足波普尔规定的可证伪性标准的主张时，格伦鲍姆（他也拒绝了保罗 · 里克尔和于尔根 · 哈贝马斯等思想家对弗洛伊德提出的诠释）暗示地接受了这个标准，以及波普尔的划界理论的广泛范围。仅仅因为这个原因，波普尔的工作似乎将继续作为关于弗洛伊德思想科学地位的持续辩论中的一个关键参考点。
 
 第五，科学定律通常以普遍陈述的形式表达（即，它们采用逻辑形式“所有的 A 都是 X”，或者等价的形式），因此它们是隐藏的条件陈述——它们必须被理解为在某些理想条件下断言将会发生的假设性陈述。它们本身并不具有存在性质。因此，“所有的 A 都是 X”意味着“如果任何东西是 A，那么它就是 X”。由于科学定律本质上是非存在性的，它们在本身上逻辑上不能暗示任何基本陈述，因为后者明确是存在性的。那么问题就出现了，任何基本陈述如何能够证伪科学定律，考虑到基本陈述本身不能从科学定律中推导出来？波普尔回答说，科学定律总是与描述系统研究的“初始条件”的陈述一起使用；当这些陈述与科学定律结合时，它们产生明确的推论。
 
-只有在波普尔假设的情况下，即特定存在性陈述总是能够弥合普遍理论和预测之间的差距时，这个回答才是合适的。希拉里·普特南姆特别主张这个假设是错误的，因为在某些情况下，用于弥合这个差距的陈述（他称之为“辅助假设”）是一般性的而不是特定的，因此当预测被证明是错误的时候，我们无法知道这是由于科学定律的错误还是辅助假设的错误。普特南姆认为，工作中的科学家总是最初假设是后者，这不仅表明了科学定律对于证伪的高度抵抗性，而且也解释了为什么科恩（1962 年）和拉卡托斯（1970 年，1978 年）也提出了类似的观点。
+只有在波普尔假设的情况下，即特定存在性陈述总是能够弥合普遍理论和预测之间的差距时，这个回答才是合适的。希拉里 · 普特南姆特别主张这个假设是错误的，因为在某些情况下，用于弥合这个差距的陈述（他称之为“辅助假设”）是一般性的而不是特定的，因此当预测被证明是错误的时候，我们无法知道这是由于科学定律的错误还是辅助假设的错误。普特南姆认为，工作中的科学家总是最初假设是后者，这不仅表明了科学定律对于证伪的高度抵抗性，而且也解释了为什么科恩（1962 年）和拉卡托斯（1970 年，1978 年）也提出了类似的观点。
 
 波普尔的最终立场是，他承认仅凭科学陈述的可证伪性无法将科学与非科学区分开来；他认识到科学理论只有在与辅助假设结合时才具有预测性和禁止性，并且他也认识到对辅助假设的调整或修改是科学实践的一部分。因此，他最终关注的是概述何时这种修改是真正科学的条件，何时只是临时应付。这本身显然是他立场的重大变化，并且可以说是他的实质性撤回：马克思主义不再能够简单地被视为“非科学”，仅仅因为其支持者通过修改理论来避免其被证伪——因为从一般意义上讲，这样的做法是完全值得尊重的科学实践。现在，波普尔认为它是非科学的，是因为对原始理论进行的修改的唯一理由是确保其避免被证伪，因此这些修改是临时应付而非科学的。这种观点虽然并不难以置信，但在敌对的眼中，它显得有些牵强，不太可能让坚定的马克思主义者担心。另一方面，波普尔自己基本立场的转变被一些批评家视为证伪主义在最终分析中并不比验证主义更好。
 
@@ -281,13 +281,13 @@ P1→TT→EE→P2.
 
 * 1928, *Zur Methodenfrage der Denkpsychologie*, Ph.D. Dissertation, University of Vienna, unpublished.
 * 1935, *Logik der Forschung*, Vienna: Julius Springer Verlag.
-* 1944–45, “The Poverty of Historicism”, *Economica*, Part 1, 11(42): 86–103; Part II, 11(43): 119–137; Part III, 12(46): 69–89. doi:10.2307/2549642 doi:10.2307/2550285 doi:10.2307/2549898
+* 1944–45, “The Poverty of Historicism”, *Economica*, Part 1, 11(42): 86–103; Part II, 11(43): 119–137; Part III, 12(46): 69–89. doi: 10.2307/2549642 doi: 10.2307/2550285 doi: 10.2307/2549898
 * 1945, *The Open Society and Its Enemies*, 2 volumes, London: Routledge. Republished 1966. Princeton, NJ: Princeton University Press.
 * 1957, *The Poverty of Historicism*, London: Routledge. Revised version of Popper 1944–5.
 * 1959 [2002], *The Logic of Scientific Discovery*, translation by the author of *Logik der Forschung* (1935), London: Hutchinson. Republished 2002, London & New York: Routledge Classics.
 * 1963, *Conjectures and Refutations: The Growth of Scientific Knowledge*, London: Routledge.
 * 1966, *Of Clouds and Clocks: An Approach to the Problem of Rationality and the Freedom of Man*. Washington, DC: Washington University Press.
-* 1967 [1972], “Epistemology Without a Knowing Subject”, in *Logic, Methodology and Philosophy of Science III*, B. Van Rootselaar and J. F. Staal (eds.), (Studies in Logic and the Foundations of Mathematics 52), Amsterdam: Elsevier, 333–373. Reprinted in Popper 1972a: 106–152. doi:10.1016/S0049-237X(08)71204-7
+* 1967 [1972], “Epistemology Without a Knowing Subject”, in *Logic, Methodology and Philosophy of Science III*, B. Van Rootselaar and J. F. Staal (eds.), (Studies in Logic and the Foundations of Mathematics 52), Amsterdam: Elsevier, 333–373. Reprinted in Popper 1972a: 106–152. doi: 10.1016/S0049-237X(08)71204-7
 * 1968 [1972], “On the Theory of the Objective Mind”, *Akten des XIV. Internationalen Kongresses für Philosophie*, vol. i, Vienna, 25–53. Translated and expanded in 1972a: 153–190.
 * 1970 [1972], “A Realist View of Logic, Physics, and History”, in *Physics, Logic and History*, W. Yougrau and A. D. Breck (eds), Plenum Press, 1–30. Reprinted in Popper 1972a: 285–318.
 * 1972 [1979], *Objective Knowledge: An Evolutionary Approach*, Oxford: Clarendon Press.
@@ -295,7 +295,7 @@ P1→TT→EE→P2.
 * 1974, “Replies to My Critics”, in Schilpp 1974: vol. 2, 961–1197.
 * 1976, *Unended Quest; An Intellectual Autobiography*, London: Fontana.
 * 1976, “A Note on Verisimilitude”, *The British Journal for the Philosophy of Science*, 27: 147–159.
-* 1977, *The Self and Its Brain: An Argument for Interactionism*, with John C. Eccles, London: Springer International. doi:10.4324/9780203537480
+* 1977, *The Self and Its Brain: An Argument for Interactionism*, with John C. Eccles, London: Springer International. doi: 10.4324/9780203537480
 * 1979 [2007], *Die Beiden Grundprobleme der Erkenntnistheorie*, Tübingen: Routledge. Based on manuscripts written in the early 1930s. Translated as *The Two Fundamental Problems of the Theory of Knowledge*, Troels Eggers Hansen (ed.), Andreas Pickel (trans.), London: Routledge, 2007.
 * 1980, “Three Worlds”, in *The Tanner Lectures on Human Values*, volume 1, S.M. McMurrin (ed.), Salt Lake City, UT: University of Utah Press, 141–167.
 * 1982, *The Open Universe: An Argument for Indeterminism*, W.W. Bartley III (ed.), London: Hutchinson.
@@ -303,29 +303,29 @@ P1→TT→EE→P2.
 * 1994, *The Myth of the Framework: In Defence of Science and Rationality*, M.A. Notturno, (ed.), London: Routledge.
 * 1994, *Knowledge and the Mind-Body Problem: In Defence of Interactionism*, M.A. Notturno (ed.), London: Routledge.
 * 2012, *After the Open Society: Selected Social and Political Writings*, Jeremy Shearmur and Piers Norris Turner (eds.), London and New York: Routledge.
-* 2020, “The Feyerabend-Popper Correspondence (1948–1967)”, in *Feyerabend’s Formative Years. Volume 1. Feyerabend and Popper*, Matteo Collodel and Eric Oberheim (eds.), (Vienna Circle Institute Library 5), Cham: Springer International Publishing, 59–420. doi:10.1007/978-3-030-00961-8_4
+* 2020, “The Feyerabend-Popper Correspondence (1948–1967)”, in *Feyerabend’s Formative Years. Volume 1. Feyerabend and Popper*, Matteo Collodel and Eric Oberheim (eds.), (Vienna Circle Institute Library 5), Cham: Springer International Publishing, 59–420. doi: 10.1007/978-3-030-00961-8_4
 * 2022, Binder, D., Piecha, T., Schroeder-Heister, P. (editors) (2022), *The Logical Writings of Karl Popper*. Cham: Springer. [[*The Logical Writings of Karl Popper* available online](https://link.springer.com/book/10.1007/978-3-030-94926-6)]
 
 ### Secondary Literature/Other Sources
 
 * Ackermann, Robert, 1976, *The Philosophy of Karl Popper*, Amherst, MA: University of Massachusetts Press.
-* Agassi, Joseph, 2014, *Popper and His Popular Critics: Thomas Kuhn, Paul Feyerabend and Imre Lakatos* (SpringerBriefs in Philosophy), Cham: Springer International Publishing. doi:10.1007/978-3-319-06587-8.
+* Agassi, Joseph, 2014, *Popper and His Popular Critics: Thomas Kuhn, Paul Feyerabend and Imre Lakatos* (SpringerBriefs in Philosophy), Cham: Springer International Publishing. doi: 10.1007/978-3-319-06587-8.
 * Akinci, Semiha, 2004, “Popper’ s Conventionalism”, in Catton and Macdonald 2004: 28–49.
 * Alamuiti, M. M., 2021, *Critical Rationalism and the Theory of Society: Critical Rationalism and the Open Society* (Volume 1), London: Routledge.
 * Bambrough, Renford (ed.), 1967, *Plato, Popper, and Politics: Some Contributions to a Modern Controversy*, New York: Barnes and Noble.
 * Baudoin, Jean, 1989, *Karl Popper*, Paris: Presses Universitaires de France.
-* Brink, Chris, 1989, “Verisimilitude: Views and Reviews”, *History and Philosophy of Logic*, 10(2): 181–201. doi:10.1080/014453408908837149
-* Brink, Chris and Johannes Heidema, 1987, “A Verisimilar Ordering of Theories Phrased in a Propositional Language”, *The British Journal for the Philosophy of Science*, 38(4): 533–549. doi:10.1093/bjps/38.4.533
+* Brink, Chris, 1989, “Verisimilitude: Views and Reviews”, *History and Philosophy of Logic*, 10(2): 181–201. doi: 10.1080/014453408908837149
+* Brink, Chris and Johannes Heidema, 1987, “A Verisimilar Ordering of Theories Phrased in a Propositional Language”, *The British Journal for the Philosophy of Science*, 38(4): 533–549. doi: 10.1093/bjps/38.4.533
 * Briskman, Laurence Barry, 2020, *A Sceptical Theory of Scientific Inquiry: Problems and Their Progress*, Jeremy Shearmur (ed.), Leiden: Brill.
-* Britz, Katarina and Chris Brink, 1995, “Computing Verisimilitude”, *Notre Dame Journal of Formal Logic*, 36(1): 30–43. doi:10.1305/ndjfl/1040308827
+* Britz, Katarina and Chris Brink, 1995, “Computing Verisimilitude”, *Notre Dame Journal of Formal Logic*, 36(1): 30–43. doi: 10.1305/ndjfl/1040308827
 * Bunge, Mario (ed.), 1964, *The Critical Approach to Science and Philosophy*, London & New York: The Free Press.
 * Burke, T.E., 1983, *The Philosophy of Popper*, Manchester: Manchester University Press.
 * Carnap, Rudolf, 1966 [1995], *Philosophical Foundations of Physics: An Introduction to the Philosophy of Science*, New York: Basic Books. New edition entitled *An Introduction to the Philosophy of Science*, New York: Dover, 1995.
-* Catton, Philip and Graham MacDonald (eds.), 2004, *Karl Popper: Critical Appraisals*, New York: Routledge. doi:10.4324/9780203326886
+* Catton, Philip and Graham MacDonald (eds.), 2004, *Karl Popper: Critical Appraisals*, New York: Routledge. doi: 10.4324/9780203326886
 * Cornforth, Maurice, 1968., *The Open Philosophy and the Open Society: A Reply to Dr. Popper’s Refutations of Marxism*, London: Lawrence & Wishart.
 * Corvi, Roberta, 1993 [1997], *Invito al pensiero di Karl Popper*, Milan: Gruppo Ugo Mursia S.P.A. Translated as *An Introduction to the Thought of Karl Popper*, Patrick Camiller (trans), London & New York: Routledge, 1997.
 * Currie, Gregory and Alan Musgrave (eds.), 1985, *Popper and the Human Sciences*, Dordrecht: Nijhoff.
-* Del Santo, F. 2022. ‘Beyond Method: The Diatribe Between Feyerabend and Popper Over the Foundations of Quantum Mechanics’, *International Studies in the Philosophy of Science*, Vol. 35, 2022, 5–22. Taylor&Francis Online. doi:10.1080/02698595.2022.2031430
+* Del Santo, F. 2022. ‘Beyond Method: The Diatribe Between Feyerabend and Popper Over the Foundations of Quantum Mechanics’, *International Studies in the Philosophy of Science*, Vol. 35, 2022, 5–22. Taylor&Francis Online. doi: 10.1080/02698595.2022.2031430
 * Edmonds, David and John Eidinow, 2001, *Wittgenstein’s Poker: The Story of a Ten-Minute Argument Between Two Great Philosophers*, New York: Harper & Collins.
 * Feyerabend, Paul, 1975, *Against Method*, London: New Left Books.
 * Freud, Sigmund, 1895 [1962], “Zur Kritik Der ‘Angstneurose’”, *Wiener klinische Wochenschrift*, 9(27): 417–19, 9(28): 435–7, and 9(29): 451–2; translated as “A Reply to Criticisms of My Paper on Anxiety Neurosis”, in the *Standard Edition of the Complete Psychological Works of Sigmund Freud*, James Strackey (ed.), London: Hogarth, 1962, 3: 121–140.
@@ -333,66 +333,66 @@ P1→TT→EE→P2.
 * Fuller, Steve, 2004, *Kuhn vs. Popper: The Struggle for the Soul of Science*, New York: Columbia University Press.
 * Galbraith, D., 2022, “Pigden Revisited, or In Defence of Popper’s Critique of the Conspiracy Theory of Society”, in *Philosophy of the Social Sciences*, 52(4): 235–257.
 * Gattei, Stefano, 2010, *Karl Popper’s Philosophy of Science: Rationality without Foundations*, New York: Routledge.
-* Grünbaum, Adolf, 1976, “Is the Method of Bold Conjectures and Attempted Refutations *Justifiably* the Method of Science?”, *The British Journal for the Philosophy of Science*, 27(2): 105–136. doi:10.1093/bjps/27.2.105
+* Grünbaum, Adolf, 1976, “Is the Method of Bold Conjectures and Attempted Refutations *Justifiably* the Method of Science?”, *The British Journal for the Philosophy of Science*, 27(2): 105–136. doi: 10.1093/bjps/27.2.105
 * –––, 1984, *The Foundations of Psycho-analysis: A Philosophical Critique*, Berkeley, CA: University of California Press.
 * Hacohen, Malachi Haim, 2000, *Karl Popper—The Formative Years, 1902–1945: Politics and Philosophy in Interwar Vienna*, Cambridge: Cambridge University Press.
-* Harris, John H., 1974, “Popper’s Definitions of ‘Verisimilitude’”, *The British Journal for the Philosophy of Science*, 25(2): 160–166. doi:10.1093/bjps/25.2.160
-* Howson, Colin, 1984, “Popper’s Solution to the Problem of Induction”, *The Philosophical Quarterly*, 34(135): 143–147. doi:10.2307/2219507
+* Harris, John H., 1974, “Popper’s Definitions of ‘Verisimilitude’”, *The British Journal for the Philosophy of Science*, 25(2): 160–166. doi: 10.1093/bjps/25.2.160
+* Howson, Colin, 1984, “Popper’s Solution to the Problem of Induction”, *The Philosophical Quarterly*, 34(135): 143–147. doi: 10.2307/2219507
 * Hudelson, Richard, 1980, “Popper’s Critique of Marx”, *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 37(3): 259–70.
 * Hume, David, 1739–40, *A Treatise of Human Nature*, London. Reprinted in his *The Philosophical Works*, T.H. Green & T.H. Grose (eds), 4 vols., Darmstadt: Scientia Verlag Aalen, 1964 (reprint of 1886 edition).
 * Jacobs, Struan, 1991, *Science and British Liberalism: Locke, Bentham, Mill and Popper*, Aldershot: Avebury.
 * James, Roger, 1980, *Return to Reason: Popper’s Thought in Public Life*, Shepton Mallet: Open Books.
 * Jarvie, Ian C. 2001, *The Republic of Science: The Emergence of Popper’s Social View of Science 1935–1945*, Amsterdam: Brill | Rodopi
 * Johansson, Ingvar, 1975, *A Critique of Karl Popper’s Methodology*, Stockholm: Scandinavian University Books.
-* Kekes, John, 1977, “Popper in Perspective”, *Metaphilosophy*, 8(1): 36–61. doi:10.1111/j.1467-9973.1977.tb00261.x
-* Keuth, Herbert, 1976, “Verisimilitude or the Approach to the Whole Truth”, *Philosophy of Science*, 43(3): 311–336. doi:10.1086/288691
+* Kekes, John, 1977, “Popper in Perspective”, *Metaphilosophy*, 8(1): 36–61. doi: 10.1111/j.1467-9973.1977.tb00261.x
+* Keuth, Herbert, 1976, “Verisimilitude or the Approach to the Whole Truth”, *Philosophy of Science*, 43(3): 311–336. doi: 10.1086/288691
 * Keuth, Herbert, 2000 [2004], *Die Philosophie Karl Popper*, Tübingen: Mohr Siebeck. Translated by the author as *The Philosophy of Karl Popper*, New York: Cambridge University Press, 2004.
 * Kuhn, Thomas S., 1962, *The Structure of Scientific Revolutions*, Chicago and London: University of Chicago Press.
-* Kuipers, Theo A.F., 1982, “Approaching Descriptive and Theoretical Truth”, *Erkenntnis*, 18(3): 343–378. doi:10.1007/BF00205277
+* Kuipers, Theo A.F., 1982, “Approaching Descriptive and Theoretical Truth”, *Erkenntnis*, 18(3): 343–378. doi: 10.1007/BF00205277
 * ––– (ed.), 1987, *What is Closer-to-the-Truth?*, Amsterdam: Rodopi.
-* Lakatos, Imre, 1970, “Falsification and the Methodology of Scientific Research Programmes”, in Lakatos and Musgrave 1970: 91–196. doi:10.1017/CBO9781139171434.009
+* Lakatos, Imre, 1970, “Falsification and the Methodology of Scientific Research Programmes”, in Lakatos and Musgrave 1970: 91–196. doi: 10.1017/CBO9781139171434.009
 * –––, 1978, *The Methodology of Scientific Research Programmes*, J. Worrel and G. Currie (eds.), Cambridge: Cambridge University Press.
-* Lakatos, Imre and Alan Musgrave (eds.), 1970, *Criticism and the Growth of Knowledge: Proceedings of the International Colloquium in the Philosophy of Science, London*, 1965, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171434
+* Lakatos, Imre and Alan Musgrave (eds.), 1970, *Criticism and the Growth of Knowledge: Proceedings of the International Colloquium in the Philosophy of Science, London*, 1965, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139171434
 * Laudan, Larry, 1977, *Progress and Its Problems: Towards a Theory of Scientific Growth*, Berkeley, CA: University of California Press.
-* Leplin, Jarrett, 2007, “Enlisting Popper in the Case for Scientific Realism”, *Philosophia Scientae*, 11(1): 71–97. doi:10.4000/philosophiascientiae.323 [[Leplin 2007 available online](https://journals.openedition.org/philosophiascientiae/323)]
+* Leplin, Jarrett, 2007, “Enlisting Popper in the Case for Scientific Realism”, *Philosophia Scientae*, 11(1): 71–97. doi: 10.4000/philosophiascientiae.323 [[Leplin 2007 available online](https://journals.openedition.org/philosophiascientiae/323)]
 * Levinson, Paul (ed.), 1982, *In Pursuit of Truth: Essays in Honour of Karl Popper on the Occasion of his 80th Birthday*, Atlantic Highlands, NJ: Humanities Press.
 * Levinson, Ronald B., 1953, *In Defense of Plato*, Cambridge, MA: Harvard University Press.
 * Magee, Bryan, 1973, *Karl Popper*, London: Penguin.
 * Maxwell, N., 2002, “Karl Raimund Popper”, in *British Philosophers, 1800–2000* (*Dictionary of Literary Biography*: 262), P. Dematteis, P. Fosl and L. McHenry (eds.), Detroit: Gale Research Inc., pp. 176–194
 * –––, 2017, *Karl Popper, Science and Enlightenment*, London: University College London Press.
 * –––, 2020, “Aim-Oriented Empiricism and the Metaphysics of Science”, *Philosophia*, 48: 347–364.
-* Mellor, D. H., 1977, “The Popper Phenomenon”, *Philosophy*, 52(200): 195–202. doi:10.1017/S0031819100023135
-* Milkov, Nikolay, 2012, “Karl Popper’s Debt to Leonard Nelson”, *Grazer Philosophische Studien*, 86(1): 137–156. doi:10.1163/9789401209182_009
-* Miller, David, 1974a, “On the Comparison of False Theories by Their Bases”, *The British Journal for the Philosophy of Science*, 25(2): 178–188. doi:10.1093/bjps/25.2.178
-* –––, 1974b, “Popper’s Qualitative Theory of Verisimilitude”, *The British Journal for the Philosophy of Science*, 25(2): 166–177. doi:10.1093/bjps/25.2.166
+* Mellor, D. H., 1977, “The Popper Phenomenon”, *Philosophy*, 52(200): 195–202. doi: 10.1017/S0031819100023135
+* Milkov, Nikolay, 2012, “Karl Popper’s Debt to Leonard Nelson”, *Grazer Philosophische Studien*, 86(1): 137–156. doi: 10.1163/9789401209182_009
+* Miller, David, 1974a, “On the Comparison of False Theories by Their Bases”, *The British Journal for the Philosophy of Science*, 25(2): 178–188. doi: 10.1093/bjps/25.2.178
+* –––, 1974b, “Popper’s Qualitative Theory of Verisimilitude”, *The British Journal for the Philosophy of Science*, 25(2): 166–177. doi: 10.1093/bjps/25.2.166
 * –––, 1994, *Critical Rationalism: A Restatement and Defence*, Chicago: Open Court.
-* Mulkay, Michael and G. Nigel Gilbert, 1981, “Putting Philosophy to Work: Karl Popper’s Influence on Scientific Practice”, *Philosophy of the Social Sciences*, 11(3): 389–407. doi:10.1177/004839318101100306
+* Mulkay, Michael and G. Nigel Gilbert, 1981, “Putting Philosophy to Work: Karl Popper’s Influence on Scientific Practice”, *Philosophy of the Social Sciences*, 11(3): 389–407. doi: 10.1177/004839318101100306
 * Munz, Peter, 1985, *Our Knowledge of the Growth of Knowledge: Popper or Wittgenstein?*, London: Routledge.
-* Naydler, Jeremy, 1982, “The Poverty of Popperism”, *The Thomist: A Speculative Quarterly Review*, 46(1): 92–107. doi:10.1353/tho.1982.0048
+* Naydler, Jeremy, 1982, “The Poverty of Popperism”, *The Thomist: A Speculative Quarterly Review*, 46(1): 92–107. doi: 10.1353/tho.1982.0048
 * Niiniluoto, Ilkka, 1987, *Truthlikeness*, Dordrecht: D. Reidel.
 * Oddie, Graham, 1986, *Likeness to Truth*, Dordrecht: D. Reidel.
 * O’Hear, Anthony, 1980, *Karl Popper*, London: Routledge.
-* ––– (ed.), 1995, *Karl Popper: Philosophy and Problems*, Cambridge & New York: Cambridge University Press. doi:10.1017/CBO9780511563751
-* Parusniková, Z. & Merritt, D. (eds.), 2021, *Karl Popper’s Science and Philosophy*, Cham: Springer, ebook. doi:10.1007/978-3-030-67036-8
+* ––– (ed.), 1995, *Karl Popper: Philosophy and Problems*, Cambridge & New York: Cambridge University Press. doi: 10.1017/CBO9780511563751
+* Parusniková, Z. & Merritt, D. (eds.), 2021, *Karl Popper’s Science and Philosophy*, Cham: Springer, ebook. doi: 10.1007/978-3-030-67036-8
 * Putnam, Hilary, 1974 [1991], “The ‘Corroboration’ of Theories”, in Schilpp 1974: vol. 1: 221–240. Republished with Retrospective Note in *The Philosophy of Science*, Richard Boyd, Philip Gasper, and J. D. Trout (eds.), Cambridge, MA: MIT Press, 1991, 121–138.
 * Quinton, Anthony, 1967, “Popper, Karl Raimund”, in *Encyclopedia of Philosophy* (Volume 6), Paul Edwards (ed.), New York: Collier Macmillan: 398–401.
 * Radnitzky, Gerard and Gunnar Andersson (eds.), 1978, *Progress and Rationality in Science*, Dordrecht: D. Reidel.
 * Radnitzky, Gerard and W. W. Bartley (eds.), 1987, *Evolutionary Epistemology, Rationality, and the Sociology of Knowledge*, La Salle, IL: Open Court.
 * Richmond, Sheldon, 1994, *Aesthetic Criteria: Gombrich and the Philosophies of Science of Popper and Polanyi*, Amsterdam/Atlanta, GA: Rodopi.
-* Rowbottom, Darrell P., 2010, *Popper’s Critical Rationalism: A Philosophical Investigation*, New York: Routledge. doi:10.4324/9780203836187
+* Rowbottom, Darrell P., 2010, *Popper’s Critical Rationalism: A Philosophical Investigation*, New York: Routledge. doi: 10.4324/9780203836187
 * Salmon, Wesley C., 1967, *The Foundations of Scientific Inference*, Pittsburgh: University of Pittsburgh Press.
 * Royer, C., Matei, L. (eds.), 2023, Open Society Unresolved. The Contemporary Relevance of a Contested Idea. Budapest, Vienna, New York: Central European University Press.
-* Sassower, Raphael and Nathaniel Laor (eds.), 2019, *The Impact of Critical Rationalism: Expanding the Popperian Legacy through the Works of Ian C. Jarvie*, Cham: Springer International Publishing. doi:10.1007/978-3-319-90826-7
+* Sassower, Raphael and Nathaniel Laor (eds.), 2019, *The Impact of Critical Rationalism: Expanding the Popperian Legacy through the Works of Ian C. Jarvie*, Cham: Springer International Publishing. doi: 10.1007/978-3-319-90826-7
 * Schilpp, Paul Arthur (ed.), 1974, *The Philosophy of Karl Popper*, 2 volumes, La Salle, IL: Open Court Press.
 * Shearmur, Jeremy, 1996, *Political Thought of Karl Popper*, London & New York: Routledge.
 * Simkin, C. G. F., 1993, *Popper’s Views on Natural and Social Science*, Leiden: Brill.
 * Stokes, Geoffrey, 1998, *Popper: Philosophy, Politics and Scientific Method*, New York: Wiley & Sons.
 * Stove, D. C., 1982, *Popper and After: Four Modern Irrationalists*, Oxford: Pergamon Press.
-* Sturm, Thomas, 2012, “Bühler and Popper: Kantian Therapies for the Crisis in Psychology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(2): 462–472. doi:10.1016/j.shpsc.2011.11.006
-* Tichý, Pavel, 1974, “On Popper’s Definitions of Verisimilitude”, *The British Journal for the Philosophy of Science*, 25(2): 155–160. doi:10.1093/bjps/25.2.155
-* –––, 1978, “Verisimilitude Revisited”, *Synthese*, 38(2): 175–196. doi:10.1007/BF00486149
+* Sturm, Thomas, 2012, “Bühler and Popper: Kantian Therapies for the Crisis in Psychology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(2): 462–472. doi: 10.1016/j.shpsc.2011.11.006
+* Tichý, Pavel, 1974, “On Popper’s Definitions of Verisimilitude”, *The British Journal for the Philosophy of Science*, 25(2): 155–160. doi: 10.1093/bjps/25.2.155
+* –––, 1978, “Verisimilitude Revisited”, *Synthese*, 38(2): 175–196. doi: 10.1007/BF00486149
 * Thomas, Allan James, 2019, “Thought Without a Thinking Subject: or Karl Popper as Film-Philosopher”, *Screen Thought Journal*, 3(1): 1–13.
-* Vetter, Hermann, 1977, “A New Concept of Verisimilitude”, *Theory and Decision*, 8(4): 369–375. doi:10.1007/BF00141535
+* Vetter, Hermann, 1977, “A New Concept of Verisimilitude”, *Theory and Decision*, 8(4): 369–375. doi: 10.1007/BF00141535
 * Watkins, John W. N., 1984, *Science and Scepticism*, Princeton, NJ: Princeton University Press and London: Hutchinson.
 * –––, 1997. “Popperian Ideas on Progress and Rationality in Science”, *The Critical Rationalist*, 2(2). [[Watkins 1997 available online](http://www.tkpw.net/tcr/volume-02/number-02/v02n02.html)].
 * Wilkins, Burleigh Taylor, 1978, *Has History Any Meaning? A Critique of Popper’s Philosophy of History*, Ithaca, NY: Cornell University Press.

@@ -2,7 +2,7 @@
 
 *首次发表于 2023 年 4 月 5 日星期三*
 
-赎罪是我们修复因错误行为而破裂的关系所做的事情。赎罪首先是通过解决破裂的根源，即错误行为，来修复这种破裂。最终目标是成为一体，和解。"弥补过失"通常用来描述修复破裂所做的事情。赎罪是犹太教和基督教中特别重要的概念，它们认为人类必须为他们对上帝的罪行赎罪。基督教的赎罪教义认为基督已经为人类的罪行赎罪。本条目概述了关于（i）赎罪的性质及其与其他相关概念的关系，以及（ii）基督教赎罪教义的理论的讨论历史。最近的哲学贡献将与神学和哲学神学中历史上重要的讨论并列。
+赎罪是我们修复因错误行为而破裂的关系所做的事情。赎罪首先是通过解决破裂的根源，即错误行为，来修复这种破裂。最终目标是成为一体，和解。"弥补过失" 通常用来描述修复破裂所做的事情。赎罪是犹太教和基督教中特别重要的概念，它们认为人类必须为他们对上帝的罪行赎罪。基督教的赎罪教义认为基督已经为人类的罪行赎罪。本条目概述了关于（i）赎罪的性质及其与其他相关概念的关系，以及（ii）基督教赎罪教义的理论的讨论历史。最近的哲学贡献将与神学和哲学神学中历史上重要的讨论并列。
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### 1.1 “赎罪”一词的起源及其用途
 
-“赎罪”和“赎罪”一词源自“使合一”和“合一”的表达。后一短语的使用可以追溯到约翰·威克里夫（Hayes 1998）在 14 世纪早期的著作中。因此，这个词在其核心概念中承载着使各方合一的概念-统一或调和。《牛津英语词典》对赎罪提供了几个定义：
+“赎罪”和“赎罪”一词源自“使合一”和“合一”的表达。后一短语的使用可以追溯到约翰 · 威克里夫（Hayes 1998）在 14 世纪早期的著作中。因此，这个词在其核心概念中承载着使各方合一的概念-统一或调和。《牛津英语词典》对赎罪提供了几个定义：
 
 * “与他人合一的状态”（定义 1），
 * “在冲突或争斗后使合一的行动，或者被使合一的状态”（定义 2），
@@ -23,7 +23,7 @@
 
 破裂的衣物的形象暗示了赎罪的另一个特点：它通常涉及一个社群。社会常常被比喻为一件衣物，例如，“社会的结构”。当一件衣物被撕裂时，衣物内的一些线被断开，一些部分的面料被分离。但整件衣物也被认为是破裂的。因此，赎罪不仅可以用来调和两个个体之间的关系，还可以用来调和一个个体或一个集体与一个集体之间的关系。
 
-尽管这个词在 14 世纪源自英语，但它所指代的概念显然要古得多。早期的希腊文学中包含了赎罪祭的概念（Hengel 1986; Versnel 2005）。《旧约圣经》中的利未记描述了希伯来人民应该献上的各种祭品，其中一些-尤其是赎罪日（或赎罪节）的祭品-是为了赎罪（Hayes 1998; Klawans 2006; Milgrom 1991）。新约圣经中的各种经文描述了基督为人类的罪而赎罪（例如，罗马书 3:23-25; 约翰一书 2:2）。这些经文陈述了著名的基督教赎罪教义-即通过他的一些行为，尤其是他的钉死十字架的行为，
+尽管这个词在 14 世纪源自英语，但它所指代的概念显然要古得多。早期的希腊文学中包含了赎罪祭的概念（Hengel 1986; Versnel 2005）。《旧约圣经》中的利未记描述了希伯来人民应该献上的各种祭品，其中一些-尤其是赎罪日（或赎罪节）的祭品-是为了赎罪（Hayes 1998; Klawans 2006; Milgrom 1991）。新约圣经中的各种经文描述了基督为人类的罪而赎罪（例如，罗马书 3: 23-25; 约翰一书 2: 2）。这些经文陈述了著名的基督教赎罪教义-即通过他的一些行为，尤其是他的钉死十字架的行为，
 
 > 耶稣的行为旨在消除由人类罪恶引起的人与上帝之间的裂痕或分歧，以实现人与上帝之间的和解。（Thurow 2021a: 239）
 
@@ -35,25 +35,25 @@
 
 现在我们可以提出一些合理的定义。
 
-> S 通过做 A 来赎罪冤屈 R =defn S 为了消除或减少由于 R 而导致的作者和受害者之间的裂痕，S 做 A，并且 A 成功地做到了这一点。
+> S 通过做 A 来赎罪冤屈 R = defn S 为了消除或减少由于 R 而导致的作者和受害者之间的裂痕，S 做 A，并且 A 成功地做到了这一点。
 
-（参见 Eddy＆Beilby 2006：9; Daly 2009：35; Forsyth 1910 [1938：54–8]; Hodges 1955：9–10; O'Collins 2007：11; Paul 1960：17–27; Rivière 1905 [1909：2–4]中的类似定义。）
+（参见 Eddy＆Beilby 2006：9; Daly 2009：35; Forsyth 1910 [1938：54–8]; Hodges 1955：9–10; O'Collins 2007：11; Paul 1960：17–27; Rivière 1905 [1909：2–4] 中的类似定义。）
 
 “赎罪”被定义为赎罪行为 A 成功地实现了关于错误的和解目标。这似乎与常见用法一致。然而，我们还需要一个中立的赎罪术语，不论是否成功。
 
-> S 通过执行 A 为错误 R 进行赎罪=defn S 执行 A 以便通过消除或减少由于 R 而导致的他们之间的裂痕，使 R 的作者和受害者和解。
+> S 通过执行 A 为错误 R 进行赎罪 = defn S 执行 A 以便通过消除或减少由于 R 而导致的他们之间的裂痕，使 R 的作者和受害者和解。
 
 一个人可以进行赎罪，但却未能赎罪自己的错误。这些定义也允许存在不同程度的赎罪：如果你消除了裂痕，那么你完全赎罪；如果你将裂痕减少到不同程度，那么你部分赎罪。一个人可以为一种错误赎罪，但对同一受害者的另一种错误却未能赎罪。在这种情况下，犯罪者和受害者可能已经就第一种错误达成了和解，但对第二种错误未能达成和解。最后，这些定义留下了第三方可以代表犯罪者赎罪的可能性。
 
-学者们使用了与该术语的语义范围密切相关的另外两个概念。琳达·拉齐克（Linda Radzik）在分析哲学中对赎罪进行了最广泛的研究，她定义了一种弥补的概念：
+学者们使用了与该术语的语义范围密切相关的另外两个概念。琳达 · 拉齐克（Linda Radzik）在分析哲学中对赎罪进行了最广泛的研究，她定义了一种弥补的概念：
 
-> S 通过做 A 来弥补错误 R =defn 通过做 A，S 做出了对已经犯下错误 R 做出道德上所要求的回应。（Radzik 2009: 7）
+> S 通过做 A 来弥补错误 R = defn 通过做 A，S 做出了对已经犯下错误 R 做出道德上所要求的回应。（Radzik 2009: 7）
 
 弥补是根本上的道德概念，而上述的赎罪概念根本上是关系性的。然而，Radzik 认为它们是相互关联的：如果适当地进行弥补，应该旨在某种程度的和解。因此，在她的观点中，只有提供赎罪才能适当地进行弥补。支持这一观点的进一步证据来自于赎罪旨在消除错误的想法。弥补可以说是具有相同目标的。但即使 Radzik 的观点是错误的，弥补可能非常适合并且经常导致赎罪。
 
 第三个相关的概念是赎罪作为赎罪、净化或洁净（Craig 2020）。我们将使用“赎罪”一词来指代这个概念：
 
-> S 通过做 A 来赎罪错误 R =defn A 净化或洁净 S 对于犯下错误 R 的罪恶感。
+> S 通过做 A 来赎罪错误 R = defn A 净化或洁净 S 对于犯下错误 R 的罪恶感。
 
 赎罪是古代犹太祭祀系统中的一个重要术语，人类的罪过（对上帝的冒犯）会玷污圣殿，而通过祭祀动物的血液来净化圣殿的污染，从而也洗清罪人对其罪行的负罪感。“负罪感”在这里并不指心理上的内疚状态。它也不意味着“犯了错误的行为”。它被认为是某种客观状态 - 一种标记或瑕疵（因此净化的语言特别适用），由于犯了错误而存在，直到被消除（Swinburne 1989: 74）。Craig（2020: 232）从报应的角度分析它，认为它是一种受罚的责任。它也可以被分析为某种道德债务 - 也许是对受害者的债务，以弥补错误行为（Radzik 2009: 29ff）。
 
@@ -94,7 +94,7 @@ Radzik 认为，在她的意义上，弥补也旨在实现和解。但由于当�
 
 这是关于宽恕与赎罪关系的唯一明确的观点。有一种普遍的观点认为，在错误行为者采取补救措施之后才应该（也只能）给予宽恕。但是，这种普遍观点受到了其他人的质疑，他们认为即使罪犯没有赎罪，我们也可以（有时也有充分的理由）宽恕。哪种观点是正确的取决于宽恕理论的正确性。（关于宽恕理论的优秀调查，请参阅有关宽恕的条目。）
 
-许多人捍卫这种普遍观点，认为宽恕应该（或者甚至在概念上必须）作为对错误行为者进行各种行为的回应，这些行为至少构成了部分赎罪。查尔斯·格里斯沃德（Charles Griswold）发展了一种受到巴特勒主教关于宽恕和怨恨的开创性讨论启发的方法，他认为 x 对 R 宽恕 y 当且仅当
+许多人捍卫这种普遍观点，认为宽恕应该（或者甚至在概念上必须）作为对错误行为者进行各种行为的回应，这些行为至少构成了部分赎罪。查尔斯 · 格里斯沃德（Charles Griswold）发展了一种受到巴特勒主教关于宽恕和怨恨的开创性讨论启发的方法，他认为 x 对 R 宽恕 y 当且仅当
 
 1. x 对 R 宽恕 y，并且
 2. x 适当地调节了对 y 的愤怒，因为 R，并且
@@ -122,19 +122,19 @@ Biggar (2001)在对二十世纪宽恕文献进行深入调查后，提出了一�
 
 #### 1.3.3 赎罪
 
-牺牲的概念通常与赎罪联系在一起，毫无疑问，这是因为圣经中这两个概念的历史。例如，利未记中描述了古代以色列人的各种仪式牺牲，其中一些旨在赎罪（米尔格罗姆 1991 年）。例如，如果有人（i）在公开案件中不说出他所知道的，（ii）触摸任何不洁净的东西，（iii）轻率地发誓，或者（iv）欺骗或欺骗他的邻居，那个人是“有罪的，将要负责”（利未记 5:17，NIV）。因此，
+牺牲的概念通常与赎罪联系在一起，毫无疑问，这是因为圣经中这两个概念的历史。例如，利未记中描述了古代以色列人的各种仪式牺牲，其中一些旨在赎罪（米尔格罗姆 1991 年）。例如，如果有人（i）在公开案件中不说出他所知道的，（ii）触摸任何不洁净的东西，（iii）轻率地发誓，或者（iv）欺骗或欺骗他的邻居，那个人是“有罪的，将要负责”（利未记 5: 17，NIV）。因此，
 
-> 作为惩罚，他必须带给祭司，也就是主，他的赎罪祭，一只没有残疾且价值适当的公羊。（利未记 6:6，NIV）
+> 作为惩罚，他必须带给祭司，也就是主，他的赎罪祭，一只没有残疾且价值适当的公羊。（利未记 6: 6，NIV）
 
 然后将公羊进行宗教性屠杀，将其血涂抹或洒在祭坛的某些部位，并烧掉其中的一些部分。
 
-> 这样，祭司就会在主面前为他赎罪，他将因为他所犯的这些使他有罪的事情而获得宽恕。（利未记 6:7，NIV）
+> 这样，祭司就会在主面前为他赎罪，他将因为他所犯的这些使他有罪的事情而获得宽恕。（利未记 6: 7，NIV）
 
 这些种类的祭品可以根据需要由人们在一年中的任何时候献上，尽管有一个年度仪式——赎罪日，或称赎罪日——其目的是处理以色列人在一年中犯下的所有罪行。[10]
 
-这些象征丰富的祭祀仪式被认为帮助古代以色列人赎罪和赎罪（Klawans 2006）。赎罪显然是这些仪式的结果，旨在回应和消除罪犯的有罪地位。但是，赎罪也显然是一个目标。《旧约圣经》说上帝将与以色列人同住（出埃及记 29:46），但罪恶会驱赶上帝的存在并导致上帝惩罚这个国家（利未记 26）。正确遵守祭祀的目的是防止这种情况发生-因此，通过罪恶引起的紧张关系（Klawans 2006）。
+这些象征丰富的祭祀仪式被认为帮助古代以色列人赎罪和赎罪（Klawans 2006）。赎罪显然是这些仪式的结果，旨在回应和消除罪犯的有罪地位。但是，赎罪也显然是一个目标。《旧约圣经》说上帝将与以色列人同住（出埃及记 29: 46），但罪恶会驱赶上帝的存在并导致上帝惩罚这个国家（利未记 26）。正确遵守祭祀的目的是防止这种情况发生-因此，通过罪恶引起的紧张关系（Klawans 2006）。
 
-这些祭祀仪式的其他特点显示出对赎罪的各个方面的重要性的认识-忏悔、悔改和道德改革的意愿（Thurow 2021a）。有人认为，献祭的屠杀代表了作为罪人的献祭者应得的惩罚-死亡作为对罪的惩罚（Halbertal 2012）。其中一些仪式要求对人类受害者进行赔偿（利未记 6:5）。因此，这些仪式承认罪恶或不义通常有两个受害者-上帝和人类-罪犯应该向两者赎罪。最后，这些仪式承认罪恶的集体影响和对集体或集体赎罪的需求。有趣的是，尽管在许多地方将罪描述为罪人的污点，但祭祀的血液并不被应用为象征性的洗涤剂来洗净罪人。相反，它被应用于圣殿。圣殿被人类的罪污染，而持续的这种污染对整个国家来说是灾难性的-不仅仅是对那些负责这些污点的个人罪犯。罪恶或不义对整个社区都有负面影响。赎罪日的仪式明确被呈现为对以色列整体罪恶的献祭（Milgrom 1991; J. Rutledge 2022; Thurow 2015）。
+这些祭祀仪式的其他特点显示出对赎罪的各个方面的重要性的认识-忏悔、悔改和道德改革的意愿（Thurow 2021a）。有人认为，献祭的屠杀代表了作为罪人的献祭者应得的惩罚-死亡作为对罪的惩罚（Halbertal 2012）。其中一些仪式要求对人类受害者进行赔偿（利未记 6: 5）。因此，这些仪式承认罪恶或不义通常有两个受害者-上帝和人类-罪犯应该向两者赎罪。最后，这些仪式承认罪恶的集体影响和对集体或集体赎罪的需求。有趣的是，尽管在许多地方将罪描述为罪人的污点，但祭祀的血液并不被应用为象征性的洗涤剂来洗净罪人。相反，它被应用于圣殿。圣殿被人类的罪污染，而持续的这种污染对整个国家来说是灾难性的-不仅仅是对那些负责这些污点的个人罪犯。罪恶或不义对整个社区都有负面影响。赎罪日的仪式明确被呈现为对以色列整体罪恶的献祭（Milgrom 1991; J. Rutledge 2022; Thurow 2015）。
 
 最终，犹太人和基督徒放弃了这些祭祀仪式，尽管两个群体都保持了牺牲和赎罪之间的联系。对于基督徒来说，耶稣被钉死在十字架上的死亡被视为为人类的罪而进行的终极牺牲，从而使动物祭品的系统变得多余。（有关基督教使用牺牲概念的最新解释，请参见 Daly 2009 和 Moffitt 2022。）对于犹太人来说，赎罪日至今仍然是最神圣的日子，它保持着对处理人类罪恶的核心关注。然而，拉比犹太教——与《旧约圣经》的线索合作——开始将其他各种人类活动视为祭祀、赎罪和赎罪，例如祈祷、忏悔、慈善和其他种类的自愿忍受的痛苦（Halbertal 2012）[11]。
 
@@ -182,7 +182,7 @@ Stump（1988）指出，当我们赎罪时，我们的目标是解决两个问�
 
 尽管对于如何最好地定义道歉的概念存在一些争议（N. Smith 2008），但许多道歉显然有助于赎罪。史密斯提出了一个范畴性道歉的概念，他认为这是一个规范理想（N. Smith 2008；2014）。范畴性道歉包括接受责备、将受害者视为道德对话者以及改变自己的行为等十三个特征。范畴性道歉的所有十三个特征显然都可以赎罪，因为它们每个都可以帮助弥合阻碍和解的裂痕，以及帮助履行道德上的债务。实际上，范畴性道歉的定义几乎包括了几乎所有可以用来赎罪的事情，对于史密斯来说，悔改、赔偿、接受惩罚和道德改造都算作道歉的一部分。但史密斯承认我们的大多数道歉并不包括所有十三个特征。
 
-无论我们如何定义道歉，对于我们如何赎罪的问题来说，这都是无关紧要的。行为可以按照个人意愿进行划分和分类，只要赎罪行为被包含在目录中的某个地方即可。在本节中，我将使用更狭义的真诚道歉概念：当一个人为自己的行为承担责任、有资格为此承担责任、感到悲伤和内疚、将受害者视为道德对话者、向受害者传达道歉，并打算进行改革和赔偿时，他就真诚地道歉了。令人惊讶的是，这个更狭义的概念在吉米·约翰三明治店经常看到的标志上得到了很好的表达：“正确的道歉有三个部分：1. 我的所作所为是错误的。2. 我为伤害你感到难过。3. 我该如何改善这个情况？”
+无论我们如何定义道歉，对于我们如何赎罪的问题来说，这都是无关紧要的。行为可以按照个人意愿进行划分和分类，只要赎罪行为被包含在目录中的某个地方即可。在本节中，我将使用更狭义的真诚道歉概念：当一个人为自己的行为承担责任、有资格为此承担责任、感到悲伤和内疚、将受害者视为道德对话者、向受害者传达道歉，并打算进行改革和赔偿时，他就真诚地道歉了。令人惊讶的是，这个更狭义的概念在吉米 · 约翰三明治店经常看到的标志上得到了很好的表达：“正确的道歉有三个部分：1. 我的所作所为是错误的。2. 我为伤害你感到难过。3. 我该如何改善这个情况？”
 
 通过道歉，行为不当者撤回了对受害者的侮辱。他们对将来避免错误行为的意愿至少给受害者一些理由来信任他们。因此，道歉的这两个方面可以减少行为不当者与受害者之间的隔阂，并带来和解，至少是道德上的和解。此外，行为不当者的内疚感和拒绝的恐惧可能是与受害者之间关系隔阂的源头。行为不当者无法面对受害者。通过道歉，行为不当者也打破了这种和解的障碍（格里菲斯 2021: 103）。
 
@@ -207,7 +207,7 @@ Stump（1988）指出，当我们赎罪时，我们的目标是解决两个问�
 
 ### 2.3 给出真实的解释/原理
 
-给出一个真实的解释/原理是准确描述发生的事情，并解释错误行为背后的动机、意图、欲望、激情和思维。理想情况下，行为不当者会了解到他们错误行为的真实和相对完整的解释/原理，并将这种理解传达给受害者，受害者将把它纳入自己对事件的理解中。在这种理想的情况下，对错误行为的真实解释和交流有助于实现和解。首先，为了悔改和真诚道歉，罪犯需要意识到他对错误行为的责任程度，这种意识需要接近对他行为的真实解释/原理。[18]出于类似的原因，罪犯对他们错误行为的真实解释/原理的认识有助于个人道德改造和转变，也可以赎罪。
+给出一个真实的解释/原理是准确描述发生的事情，并解释错误行为背后的动机、意图、欲望、激情和思维。理想情况下，行为不当者会了解到他们错误行为的真实和相对完整的解释/原理，并将这种理解传达给受害者，受害者将把它纳入自己对事件的理解中。在这种理想的情况下，对错误行为的真实解释和交流有助于实现和解。首先，为了悔改和真诚道歉，罪犯需要意识到他对错误行为的责任程度，这种意识需要接近对他行为的真实解释/原理。[18] 出于类似的原因，罪犯对他们错误行为的真实解释/原理的认识有助于个人道德改造和转变，也可以赎罪。
 
 其次，受害者可能会经历各种负面后果，部分原因是由于缺乏对错误行为的真实解释/原理的认识（Volf 2006）。受害者常常对为什么有人以他们所做的方式伤害他们感到困惑。这种困惑本身就是痛苦的。更糟糕的是，受害者常常觉得自己在某种程度上应对事件负责，或者因为成为受害者而感到羞耻。由于缺乏对发生的事情的真实解释/原理，受害者还可能感到更大的恐惧，不知道如何有效地防止再次成为受害者。从罪犯那里得到错误行为的真实解释/原理可以帮助治愈这些负面后果。“只有了解真相，才能从错误行为造成的心理伤害中获得自由”（Volf 2006: 75）。
 
@@ -233,7 +233,7 @@ Stump（1988）指出，当我们赎罪时，我们的目标是解决两个问�
 
 “赎罪”一词在今天最为人熟知的是指罗马天主教的赎罪圣事。用来指代整个圣事，它涉及对罪恶的悔悟、忏悔、补偿和赦免的过程。这个词通常更狭义地用来描述这个过程的第三步，即补偿（Barton 1961）。然而，尽管在这个更狭义的意义上，赎罪有时可能包括第 2.5 节中描述的那些事情，但这些事情是出于不同的目的而进行的。
 
-在罗马天主教中，赎罪圣事是一种对灵魂的药物（约翰·保罗二世 1984 年：31）。圣事的每个部分都是药物，包括补偿或狭义的赎罪（阿奎那《神学大全》补充 12.3）。狭义的赎罪在一定程度上可以涉及赔偿，因为赔偿是我们弥补和赎罪、从而消除我们罪恶感的一部分。但赎罪在另一方面也具有药物的作用：它应该表达对道德和精神转化的渴望，并帮助实现这种转化。因此，许多赎罪行为，如说特定的祷告、阅读特定的灵修文本或施舍，不是向我们罪恶的人类受害者赔偿（它们可能是对上帝的赔偿）。因此，狭义的赎罪指的是一类行为，它们表达了对第 2.4 节中讨论的道德转化以及精神转化的渴望，并有助于实现这种转化。
+在罗马天主教中，赎罪圣事是一种对灵魂的药物（约翰 · 保罗二世 1984 年：31）。圣事的每个部分都是药物，包括补偿或狭义的赎罪（阿奎那《神学大全》补充 12.3）。狭义的赎罪在一定程度上可以涉及赔偿，因为赔偿是我们弥补和赎罪、从而消除我们罪恶感的一部分。但赎罪在另一方面也具有药物的作用：它应该表达对道德和精神转化的渴望，并帮助实现这种转化。因此，许多赎罪行为，如说特定的祷告、阅读特定的灵修文本或施舍，不是向我们罪恶的人类受害者赔偿（它们可能是对上帝的赔偿）。因此，狭义的赎罪指的是一类行为，它们表达了对第 2.4 节中讨论的道德转化以及精神转化的渴望，并有助于实现这种转化。
 
 赎罪，在较狭义上，如果概念进一步缩小，也可以具有世俗的意义：如果 x 为错误 R 而做某事来表达对道德转变的渴望并帮助产生道德转变，那么 x 为错误 R 而做赎罪。在这个意义上，罪犯可以通过做社区服务或致力于帮助他人避免犯类似罪行来为自己的罪行赎罪。
 
@@ -295,7 +295,7 @@ Hill and Jedwab (2015) object that Murphy begs the question by assuming that the
 
 其次，得罪上帝与得罪人类在某些方面有所不同。得罪上帝是对他的不尊重和侮辱，而得罪他人则始终是“在本质上客观有害的”（Cross 2001: 401）。然而，上帝受到罪恶的伤害方式与人类受到错误行为的伤害方式不同。上帝的安全或存在从未受到威胁。上帝在他的神性本质上无法受到身体或情感上的伤害（25）。但是上帝可以以其他方式受到伤害：他希望人类爱他和顺从他的愿望可能会受到挫败，他对人类的计划可能会受到挫败（安瑟姆 CDH I.23），并且他间接受到对他所爱之物的伤害的伤害（Hick 1993 [2005: 123]）（26）。后一种伤害意味着向上帝赎罪将需要向自己错误行为的人类受害者赎罪（Thurow 2017a）（27）。
 
-第三，赎罪的形式取决于人类对上帝的罪孽所希望或应该希望与上帝建立的和解关系的种类，或者上帝希望与他们建立的关系——尤其重要的是，如果像基督徒所信仰的那样，上帝在帮助人类赎罪方面起着至关重要的作用（Thurow 2021b）[28]。这种关系已经以许多不同的方式描述过：作为一种特定类型的爱的结合（约翰福音 17:20ff；斯坦普 2018），作为家庭关系——作为基督的兄弟姐妹，上帝作为父亲（希伯来书 2:10ff），与上帝的友谊（约翰福音 15:12ff；阿奎那圣多玛斯神学 II-II.23.1），与上帝的交往（哥林多前书 1:9；泰勒 1941），契约之爱（申命记 7:9–10；莱文森 2016），所有追随上帝的人在一个身体中合一，以基督为头（以弗所书 4:1ff；德吕巴克 1947 [1988]），以及在人类中更新上帝的形象（哥林多后书 3:18；阿他那修斯《论道成肉身》）。这些关系比单纯的道德和解关系更加牢固。
+第三，赎罪的形式取决于人类对上帝的罪孽所希望或应该希望与上帝建立的和解关系的种类，或者上帝希望与他们建立的关系——尤其重要的是，如果像基督徒所信仰的那样，上帝在帮助人类赎罪方面起着至关重要的作用（Thurow 2021b）[28]。这种关系已经以许多不同的方式描述过：作为一种特定类型的爱的结合（约翰福音 17: 20ff；斯坦普 2018），作为家庭关系——作为基督的兄弟姐妹，上帝作为父亲（希伯来书 2: 10ff），与上帝的友谊（约翰福音 15: 12ff；阿奎那圣多玛斯神学 II-II.23.1），与上帝的交往（哥林多前书 1: 9；泰勒 1941），契约之爱（申命记 7: 9–10；莱文森 2016），所有追随上帝的人在一个身体中合一，以基督为头（以弗所书 4: 1ff；德吕巴克 1947 [1988]），以及在人类中更新上帝的形象（哥林多后书 3: 18；阿他那修斯《论道成肉身》）。这些关系比单纯的道德和解关系更加牢固。
 
 毫不奇怪，关于人类如何能够和应该向上帝赎罪，存在着几种不同的解释。在接下来的两节中，我们将概述几种不同的基督教赎罪教义理论。每种理论都倾向于强调第 2 节中描述的赎罪方式中的一种或多种，以解释基督如何为人类的罪孽赎罪。因此，这些理论暗示了向上帝赎罪在某种程度上类似于向人类赎罪——尽管上帝的本质、人类罪孽的严重性、人类的软弱以及其他背景因素被认为意味着向上帝赎罪在实践和细节上将与向人类赎罪有所不同（Thurow 2021a）。
 
@@ -315,9 +315,9 @@ Hill and Jedwab (2015) object that Murphy begs the question by assuming that the
 
 在本节中，我们简要概述了有关赎罪教义的一些最重要的历史解释。有各种方案用于对解释进行分类。奥伦（1930 [1931]）著名地将它们分为三类：基督胜利论、法庭论和主观或榜样论。其他人则区分客观理论和主观理论，或者上帝向人类的理论和人类向上帝的理论（麦金农 1966；格伦斯特德 1920；菲德斯 1989；图罗 2021a）。另一种分类解释的方式是根据强调基督为人类罪行赎罪所采取的方式（见上文第 2 节）来进行分类。
 
-这些理论有一些共同的假设。首先，如果没有基督的赎罪工作，人类无法从罪恶状态中得救（哥林多前书 15:3-4，17）。其次，有一个反佩拉奥派的假设：人类无法凭借自己的力量获得救恩，因此他们也无法凭借自己的力量赎罪（奥科林斯 2007:64ff）。第三，尽管基督为人类罪行赎罪，但要利用基督的赎罪工作，人类必须自己悔改他们的罪行（约翰一书 1:7-2:2）。因此，人类为他们的罪行做出了一些贡献，尽管即使在这里，人类也需要上帝的恩典来完全悔改。第四，人类罪行的赎罪必须在正常情况下涉及或包含人类在道德上的转变，正如特纳所说，
+这些理论有一些共同的假设。首先，如果没有基督的赎罪工作，人类无法从罪恶状态中得救（哥林多前书 15: 3-4，17）。其次，有一个反佩拉奥派的假设：人类无法凭借自己的力量获得救恩，因此他们也无法凭借自己的力量赎罪（奥科林斯 2007: 64ff）。第三，尽管基督为人类罪行赎罪，但要利用基督的赎罪工作，人类必须自己悔改他们的罪行（约翰一书 1: 7-2: 2）。因此，人类为他们的罪行做出了一些贡献，尽管即使在这里，人类也需要上帝的恩典来完全悔改。第四，人类罪行的赎罪必须在正常情况下涉及或包含人类在道德上的转变，正如特纳所说，
 
-> 即使是最严格客观的十字架教义也必须为基督的模仿留出空间，至少作为一个推论或结果。（1952 [2004:117]）
+> 即使是最严格客观的十字架教义也必须为基督的模仿留出空间，至少作为一个推论或结果。（1952 [2004: 117]）
 
 第五，虽然基督生活的许多不同方面可能会赎罪，但他在十字架上的死亡在赎罪中起着重要而独特的作用（Pelikan 1978: 131ff; Thurow 2021a）。其中一些假设更像是规范或期望；实际上，有些解释因未能充分尊重这些规范而受到批评。
 
@@ -325,7 +325,7 @@ Hill and Jedwab (2015) object that Murphy begs the question by assuming that the
 
 ### 4.1 赎罪理论
 
-赎罪理论在基督教的最初几个世纪广泛流传。它的版本可以在拉丁语（奥古斯丁，《三位一体论》第四和第十三卷）、希腊语（尼西亚的格里高利，《宗教教育演讲》）和叙利亚语（纳尔赛，《复活大主日的讲道》）教父的著作中找到。它是更广泛的观点家族的一个例子：基督胜者。格雷戈里·博伊德（Gregory Boyd）是基督胜者解释的辩护者，他说这种观点的“本质”是上帝打破人类历史，摧毁罪恶的力量，并将我们从束缚于罪恶的宇宙力量中解救出来。（2006 年：29）
+赎罪理论在基督教的最初几个世纪广泛流传。它的版本可以在拉丁语（奥古斯丁，《三位一体论》第四和第十三卷）、希腊语（尼西亚的格里高利，《宗教教育演讲》）和叙利亚语（纳尔赛，《复活大主日的讲道》）教父的著作中找到。它是更广泛的观点家族的一个例子：基督胜者。格雷戈里 · 博伊德（Gregory Boyd）是基督胜者解释的辩护者，他说这种观点的“本质”是上帝打破人类历史，摧毁罪恶的力量，并将我们从束缚于罪恶的宇宙力量中解救出来。（2006 年：29）
 
 > 关于如何描绘宇宙力量、人类对宇宙力量的束缚的性质以及上帝如何通过基督的工作使人类摆脱束缚，不同的观点存在差异。赎罪解释以一种独特而令人难忘的方式填补了这些细节，尽管如今很少有人为其辩护（一个值得注意的例外是 Lombardo 2013 年的观点）。
 
@@ -395,7 +395,7 @@ Views differ over how to depict the cosmic powers, the nature of human bondage t
 
 许多人反对安瑟姆的荣耀观念，认为它本质上是封建观念，既与圣经背景无关，也不应归因于上帝（例如，惠登 2011 年）。其他人对这一指责提出了异议，认为安瑟姆的满足观念具有更古老的根源，与封建制度无关（安德森 2009 年；克里斯普 2020a：71；曼西尼 1987 年；惠登 2011 年），并且它符合他更广泛的形而上学观念——事物应该是正确的，按照上帝的道德秩序进行（R. Campbell 1998；麦格拉思 1981 年）。
 
-神学家福斯塔斯·索西努斯以对赎罪的客观理论提出了一系列异议而闻名（格伦斯特德 1920 年）。其中两个异议特别针对满足观。首先，如果为罪恶赎罪，那么上帝就不会赦免或宽恕。但是，经文明确宣称上帝赦免人类的罪恶，因此满足观必定是错误的。然而，这一异议依赖于债务取消的宽恕观，这一观点已经受到质疑（佩蒂格罗夫 2012 年），并与第 1.3.2 节中描述的其他宽恕观相冲突。其次，索西努斯认为，安瑟姆允许同一种族的人为人类的罪恶赎罪是没有动机的，也违反了我们的道德标准——只有罪人自己应该付出代价。然而，鉴于对安瑟姆来说，“代价”似乎是修复性的，除了罪人之外，其他人也可以通过帮助修复其有害影响来赎罪（普蒂尔 1990 年）。
+神学家福斯塔斯 · 索西努斯以对赎罪的客观理论提出了一系列异议而闻名（格伦斯特德 1920 年）。其中两个异议特别针对满足观。首先，如果为罪恶赎罪，那么上帝就不会赦免或宽恕。但是，经文明确宣称上帝赦免人类的罪恶，因此满足观必定是错误的。然而，这一异议依赖于债务取消的宽恕观，这一观点已经受到质疑（佩蒂格罗夫 2012 年），并与第 1.3.2 节中描述的其他宽恕观相冲突。其次，索西努斯认为，安瑟姆允许同一种族的人为人类的罪恶赎罪是没有动机的，也违反了我们的道德标准——只有罪人自己应该付出代价。然而，鉴于对安瑟姆来说，“代价”似乎是修复性的，除了罪人之外，其他人也可以通过帮助修复其有害影响来赎罪（普蒂尔 1990 年）。
 
 斯科托斯反对安瑟姆对犯罪造成的无限债务的计算。他认为罪恶产生的债务是由于对有限事物的错误爱或追求而产生的有限债务。人类可以进行超额行为，将其作为满足来偿还这个有限债务（参见 Burns 1975）。
 
@@ -407,13 +407,13 @@ Lombardo (2013) 反对安瑟姆的观点，认为安瑟姆坚持说上帝愿意�
 
 最后，许多人批评安瑟姆的观点没有解释人类如何回应并接受基督的赎罪工作（例如，Grensted 1920; Crisp 2020a）。然而，这个空白可能是由于《CDH》的狭窄目标；安瑟姆在其他地方显示出对人类悔改和信仰对与上帝和解的重要性的深刻敏感（Thurow＆Strabbing 2020）[39]。
 
-安瑟姆观点的当代辩护，或者修改后的满足观点，可以在 Anderson 2009; Aspenson 1990; Farris＆Hamilton 2018; Rogers 2001; Shannon 2009; Sonderegger 2017 以及最著名的理查德·斯温伯恩的作品中找到，这将在第 5.2 节中讨论。
+安瑟姆观点的当代辩护，或者修改后的满足观点，可以在 Anderson 2009; Aspenson 1990; Farris＆Hamilton 2018; Rogers 2001; Shannon 2009; Sonderegger 2017 以及最著名的理查德 · 斯温伯恩的作品中找到，这将在第 5.2 节中讨论。
 
 ### 4.4 刑罚代替
 
 刑罚代替在改革派和更广泛的福音派传统中得到了许多人的辩护。它在路德和加尔文中有着深厚的根基；关于是否存在更早的先驱者一直存在着相当大的争议。[40] 根据这个观点，基督代替人类为人类的罪受到惩罚，而不是为人类的罪付出赎罪。上帝的公义因此得到满足，使上帝和人类能够和解（Schreiner 2006a）。
 
-然而，威廉·莱恩·克雷格更广泛地定义了这个观点
+然而，威廉 · 莱恩 · 克雷格更广泛地定义了这个观点
 
 > 作为上帝对基督施加的苦难，这是我们因罪行所应受的惩罚，因此我们不再应受惩罚。（2020 年：147）
 
@@ -453,9 +453,9 @@ Lombardo (2013) 反对安瑟姆的观点，认为安瑟姆坚持说上帝愿意�
 
 奥伦（1930 [1931]）对于赎罪的教父观点的研究导致了这种方法在二十一世纪的神学文献中的繁荣。基督胜利论强调了圣经中的赎回主题：人类在某种程度上被罪的力量奴役，他们唯一能够摆脱其力量的途径是通过拯救者耶稣基督，他将人类从其力量中解救出来。然而，当代观点很少支持上述的赎回理论。
 
-一些人，比如格雷戈里·博伊德（2006），认真对待撒旦的存在和恶魔活动的现实，并主张基督的救赎工作旨在削弱他们对人类的影响。基督通过他的教导、医治和驱魔事工来实现这一点。但他的死亡和复活构成了他对撒旦的最终击败，因为他允许撒旦影响人类杀害他，只是为了表明撒旦无法获胜。在这种观点上，基督的复活是赎罪的核心，因为它是对撒旦最糟糕的失败的证明。
+一些人，比如格雷戈里 · 博伊德（2006），认真对待撒旦的存在和恶魔活动的现实，并主张基督的救赎工作旨在削弱他们对人类的影响。基督通过他的教导、医治和驱魔事工来实现这一点。但他的死亡和复活构成了他对撒旦的最终击败，因为他允许撒旦影响人类杀害他，只是为了表明撒旦无法获胜。在这种观点上，基督的复活是赎罪的核心，因为它是对撒旦最糟糕的失败的证明。
 
-其他人，如达比·凯瑟琳·雷（1998 年），J·丹尼·韦弗（2001 年）和沃尔特·温克（1992 年），对基督胜利观进行了神话化解构。人类需要从中解脱的不是字面上的恶魔，而是一种人类允许其感染机构、组织和文化的非人格化邪恶力量。基督以非暴力方式与邪恶力量作斗争。通过这样做，特别是通过他的死亡，他揭示了邪恶的最糟糕一面。当人们看到邪恶被揭示出来，然后看到基督通过复活战胜了邪恶的最糟糕一面时，人们会转而追随上帝的生活方式和他对邪恶的回应。
+其他人，如达比 · 凯瑟琳 · 雷（1998 年），J· 丹尼 · 韦弗（2001 年）和沃尔特 · 温克（1992 年），对基督胜利观进行了神话化解构。人类需要从中解脱的不是字面上的恶魔，而是一种人类允许其感染机构、组织和文化的非人格化邪恶力量。基督以非暴力方式与邪恶力量作斗争。通过这样做，特别是通过他的死亡，他揭示了邪恶的最糟糕一面。当人们看到邪恶被揭示出来，然后看到基督通过复活战胜了邪恶的最糟糕一面时，人们会转而追随上帝的生活方式和他对邪恶的回应。
 
 基督胜利理论在各个方面受到了批评（其中一些只适用于特定的理论）。首先，它们没有解释基督的受难对于赎罪的重要性（Thurow 2021a）。战胜邪恶力量可以通过很多方式实现（事实上，除了他的死亡之外，还可以通过其他方式实现），而不涉及无辜上帝之子的死亡。其次，它们淡化了个人对罪的责任（Schreiner 2006b）。这可能使人们觉得基督胜利的解释并没有提供一个关于赎罪的理论，因为它们没有解释人类罪恶对上帝造成的错误是如何得到解决的（Crisp 2020a: 55）。最后，如果赎罪的主要机制是使人类摆脱罪的力量，经验证据表明这并没有实现（Reichenbach 2006）。然而，据说基督已经为人类的罪赎罪。
 
@@ -469,7 +469,7 @@ Porter (2004)，以及其他人（Quinn 1994；Stump 2018；Thurow 2021a），�
 
 ### 5.3 玛利亚/多默斯理论
 
-在她对阿奎那关于赎罪的观点（Stump 1988; 2003）的早期解释和发展的基础上，埃莱诺尔·斯坦普（2018）捍卫了她所称之为马利亚赎罪理论（以新约中的许多马利亚命名）。根据这个理论，基督的赎罪旨在将人类与上帝以爱结合在一起。要在爱中合一，双方必须彼此关注并全心全意地渴望对方。由于人类的罪恶而产生的罪恶感和羞耻感以及对灵魂的污染阻止了人类与上帝的合一。上帝完全准备好和解；唯一阻止和解的是人类对上帝的抵抗。基督的赎罪工作以多种方式使人类与上帝之间建立了爱的纽带。首先，基督在十字架上经历了历史上每一个人类罪恶的感受，因此上帝以第二人称的方式关注人类。其次，基督在十字架上的死是上帝融化人类心灵的最佳方式，因为人类抵制接受上帝的爱。因此向上帝投降的人会得到圣灵的恩赐，这使他们对上帝有了第二人称的意识，并使他们渴望渴望上帝，随着时间的推移，使人类的第一阶欲望与这种第二阶欲望保持一致，从而使人类成圣，消除了所有来自罪恶、羞耻和灵魂污染的和解障碍。
+在她对阿奎那关于赎罪的观点（Stump 1988; 2003）的早期解释和发展的基础上，埃莱诺尔 · 斯坦普（2018）捍卫了她所称之为马利亚赎罪理论（以新约中的许多马利亚命名）。根据这个理论，基督的赎罪旨在将人类与上帝以爱结合在一起。要在爱中合一，双方必须彼此关注并全心全意地渴望对方。由于人类的罪恶而产生的罪恶感和羞耻感以及对灵魂的污染阻止了人类与上帝的合一。上帝完全准备好和解；唯一阻止和解的是人类对上帝的抵抗。基督的赎罪工作以多种方式使人类与上帝之间建立了爱的纽带。首先，基督在十字架上经历了历史上每一个人类罪恶的感受，因此上帝以第二人称的方式关注人类。其次，基督在十字架上的死是上帝融化人类心灵的最佳方式，因为人类抵制接受上帝的爱。因此向上帝投降的人会得到圣灵的恩赐，这使他们对上帝有了第二人称的意识，并使他们渴望渴望上帝，随着时间的推移，使人类的第一阶欲望与这种第二阶欲望保持一致，从而使人类成圣，消除了所有来自罪恶、羞耻和灵魂污染的和解障碍。
 
 Stump 在一定程度上通过否定安瑟姆派观点并坚持上帝的宽恕和和解是普遍和无条件的来证明她的观点。正如在 4.3 节中所指出的，有几个人对她关于爱和宽恕的观点提出了质疑。Thurow 和 Strabbing（2020）认为，安瑟姆观点的核心是人类的罪恶是如此严重，以至于悔改的罪人应该并且会愿意向上帝提供满足，这是合理的，并且可以纳入 Stump 对赎罪的解释中。他们还质疑她对向上帝投降的解释。其他人对 Stump 的观点如何解释人类罪恶对自然造成的损害（Pawl 2021）以及赎罪社会罪恶（Pogin 2021）提出了质疑。Dougherty（2019）、A. Jeffrey（2021）和 Rea（2019）批评了其他细节。Stump（2019；2021）回应了其中一些关切。
 
@@ -477,10 +477,10 @@ Stump 在一定程度上通过否定安瑟姆派观点并坚持上帝的宽恕�
 
 参与理论以使徒保罗的各种陈述为出发点：
 
-* “我已经与基督同钉十字架，现在活着的不再是我，而是基督在我里面活着”（加拉太书 2:19-20），
-* “所以，我们藉着洗礼与他一同埋葬，使我们藉着父的荣耀，像基督从死里复活一样，也可以过新生活”（罗马书 6:4），
-* “我们都是藉着一位圣灵受洗，成了一个身体”（哥林多前书 12:13），并且
-* 基督是身体的头（歌罗西书 1:18）。
+* “我已经与基督同钉十字架，现在活着的不再是我，而是基督在我里面活着”（加拉太书 2: 19-20），
+* “所以，我们藉着洗礼与他一同埋葬，使我们藉着父的荣耀，像基督从死里复活一样，也可以过新生活”（罗马书 6: 4），
+* “我们都是藉着一位圣灵受洗，成了一个身体”（哥林多前书 12: 13），并且
+* 基督是身体的头（歌罗西书 1: 18）。
 
 参与理论认为这些陈述表明，赎罪是通过人类与基督以某种方式联合起来实现的，所以他所做的也是为他们做的，这也对人类的心灵产生了治愈作用。因此，这些理论强调了神化/治愈的主题，这种治愈是通过与基督的联合参与而实现的。
 
@@ -496,7 +496,7 @@ Bayne 和 Restall（2009）认为，参与理论比其他理论更好地解释�
 
 这两种方法都需要解释一系列重要的道德现象。其中包括：对集体的道歉，以及在某些情况下，受害者认为来自集体的道歉比来自集体成员个人的道歉更为需要；对历史不公正的集体责任，当目前不存在的集体成员没有参与或协助任何不公正行为；作为一个冤枉他人的集体成员而感到内疚或羞愧；道德上可接受的集体惩罚；在有罪的集体中，个人对集体有罪行的责任程度可以有所不同。（有关这些和其他相关问题的重要论文集，请参阅 French＆Wettstein 2006、2014；Isaacs＆Vernon 2011；May＆Hoffman 1991）。
 
-集体赎罪是其中之一。只要群体可以对世界上的行为或状态负责，它们也可以对同样的行为进行赎罪。由于赎罪旨在和解，集体赎罪将旨在使一个群体与另一个个人或群体和解。例如，罗伊·布鲁克斯认为“种族和解应该是种族赔偿的主要目的”（2004 年：141）。因此，他提出了他所称之为黑人赔偿的赎罪模式，其目标是通过政府的道歉和赔偿来实现和解。赔偿不仅是因为造成的伤害程度，而且因为它们“对于赎罪是必不可少的”，因为它们“使道歉变得可信”（2004 年：142）。即使没有真正共同对任何事情负责的行为体，也存在可以导致和由错误引起的不良社会事实和关系，有时被称为社会罪恶或社会罪过（约翰·保罗二世 1984 年）。有时，充分的赎罪将需要对社会罪恶进行赔偿。
+集体赎罪是其中之一。只要群体可以对世界上的行为或状态负责，它们也可以对同样的行为进行赎罪。由于赎罪旨在和解，集体赎罪将旨在使一个群体与另一个个人或群体和解。例如，罗伊 · 布鲁克斯认为“种族和解应该是种族赔偿的主要目的”（2004 年：141）。因此，他提出了他所称之为黑人赔偿的赎罪模式，其目标是通过政府的道歉和赔偿来实现和解。赔偿不仅是因为造成的伤害程度，而且因为它们“对于赎罪是必不可少的”，因为它们“使道歉变得可信”（2004 年：142）。即使没有真正共同对任何事情负责的行为体，也存在可以导致和由错误引起的不良社会事实和关系，有时被称为社会罪恶或社会罪过（约翰 · 保罗二世 1984 年）。有时，充分的赎罪将需要对社会罪恶进行赔偿。
 
 对基督教赎罪教义的一些思考运用了集体性的概念。强调基督作为第二个亚当和人类（或教会）的头领的神化/医治主题版本认为，基督代表集体实体是他赎罪人类罪孽的一部分。希伯来圣经中包含了明确的集体责任观念，最清楚地体现在赎罪日的仪式中（Milgrom 1991），这种观念可能影响到新约中基督作为祭司献上自己作为牺牲的概念。一些人认为，安瑟姆认为基督赎罪是为了集体罪（D. Brown 2004; Thurow 2017b; 有不同解读见 Rogers 2012）。基于这些来源，Thurow 2015 发展了一个赎罪理论，其中基督主要为人类的集体罪孽赎罪，其次为那些以信仰和悔改加入基督的个人的罪孽赎罪。
 
@@ -512,11 +512,11 @@ Tanner (2010: 249f)观察到，几个女性主义批评与神学论辩历史上�
 
 D. Williams 建议
 
-> 代理上帝的形象...支持和加强了伴随着[黑人妇女]代孕经历的剥削。(1991: 9)
+> 代理上帝的形象...支持和加强了伴随着 [黑人妇女] 代孕经历的剥削。(1991: 9)
 
 Brock 和 Parker（2001）讲述了许多女性遭受伴侣虐待和忽视的故事，并被教会成员告知要忍受这种痛苦，甚至为此感到欢喜，因为这使她们更接近在十字架上受难的基督。
 
-> 如果一个人赞美基督默默忍受并自愿承受苦难，他是“顺服至死”（腓立比书 2:8）的榜样，要求所有受到家长制压迫的人效仿...他不仅合法化了对妇女和儿童的暴力行为，还使其成为可能。（Fiorenza 1994: 106）
+> 如果一个人赞美基督默默忍受并自愿承受苦难，他是“顺服至死”（腓立比书 2: 8）的榜样，要求所有受到家长制压迫的人效仿...他不仅合法化了对妇女和儿童的暴力行为，还使其成为可能。（Fiorenza 1994: 106）
 
 这反过来可能导致一种解释性不公正，妨碍妇女和其他受压迫的人看到抵抗不公正和为自己的福祉而奋斗是可以接受和高尚的（Pogin 2020）。
 
@@ -544,13 +544,13 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 
 ### References
 
-* Adams, Marilyn McCord, 1991, “Forgiveness: A Christian Model”, *Faith and Philosophy*, 8(3): 277–304. doi:10.5840/faithphil19918319
+* Adams, Marilyn McCord, 1991, “Forgiveness: A Christian Model”, *Faith and Philosophy*, 8(3): 277–304. doi: 10.5840/faithphil19918319
 * Adams, Robert Merrihew, 1987, “Moral Arguments for Theistic Belief”, in R.M. Adams, *The Virtue of Faith and Other Essays in Philosophical Theology*, New York: Oxford University Press, pp. 144–163.
 * Anderson, Gary, 2009, *Sin: A History*, New Haven, CT: Yale University Press.
 * [*CDH*] Anselm, c. 1098 [1998], *Cur Deus Homo*. Translated as “Why God Became Man”, in Davies and Evans 1998: 260–356.
 * [*ST*] Aquinas, Thomas, 1267–73, *Summa theologica*. See the entry on [Aquinas](https://plato.stanford.edu/entries/aquinas/) especially the bibliography.
 * Aspenson, Steven S., 1990, “In Defense of Anselm”, *History of Philosophy Quarterly*, 7(1): 33–45.
-* –––, 1996, “Swinburne on Atonement”, *Religious Studies*, 32(2): 187–204. doi:10.1017/S0034412500024227
+* –––, 1996, “Swinburne on Atonement”, *Religious Studies*, 32(2): 187–204. doi: 10.1017/S0034412500024227
 * Athanasius, c. 318 CE [1993], *De Incarnatione*, originally in Greek. Translated as *On the Incarnation*, John Behr (tr.), Centenary Press, 1944. Reprinted Crestwood, NY: St Vladimir Seminary Press, 1993.
 * Augustine of Hippo, early 400s, *De Trinitate* (*On the Trinity*).
 * Aulén, Gustaf, 1930 [1931], *Den kristna försoningstanken, huvudtyper och brytningar. Olaus-Petri- föreläsningar hållna vid Uppsala universitet*, Stockholm: Svenska kyrkans diakonistyrelses bokförlag. Translated as *Christus Victor: An Historical Study of the Three Main Types of the Idea of the Atonement*, A. G. Herbert (trans.), London: SPCK Press, 1931.
@@ -568,38 +568,38 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 * Bovens, Luc, 2008, “Apologies”, *Proceedings of the Aristotelian Society* (New Series), 108: 219–39.
 * Brock, Rita Nakashima and Rebecca Parker, 2001, *Proverbs of Ashes: Violence, Redemptive Suffering, and the Search for What Saves Us*, Boston: Beacon Press.
 * Brooks, Roy, 2004, *Atonement and Forgiveness: A New Model for Black Reparations*, Berkeley, CA: University of California Press.
-* Brown, David, 2004, “Anselm on Atonement”, in *The Cambridge Companion to Anselm*, Brian Davies and Brian Leftow (eds.), Cambridge: Cambridge University Press, 279–302. doi:10.1017/CCOL0521807468.013
+* Brown, David, 2004, “Anselm on Atonement”, in *The Cambridge Companion to Anselm*, Brian Davies and Brian Leftow (eds.), Cambridge: Cambridge University Press, 279–302. doi: 10.1017/CCOL0521807468.013
 * Brown, Joanne and Rebecca Parker, 1989, “For God So Loved the World”, in *Christianity, Patriarchy, and Abuse*, Joanne Brown and Carole Bohn (eds.), New York: Pilgrim, pp. 1–30.
-* Buck, Jennifer M., 2020, “Feminist Philosophical Theology of the Atonement”, *Feminist Theology*, 28(3): 239–250. doi:10.1177/0966735020906938
-* Burns, J. Patout, 1975, “The Concept of Satisfaction in Medieval Redemption Theory”, *Theological Studies*, 36(2): 285–304. doi:10.1177/004056397503600204
+* Buck, Jennifer M., 2020, “Feminist Philosophical Theology of the Atonement”, *Feminist Theology*, 28(3): 239–250. doi: 10.1177/0966735020906938
+* Burns, J. Patout, 1975, “The Concept of Satisfaction in Medieval Redemption Theory”, *Theological Studies*, 36(2): 285–304. doi: 10.1177/004056397503600204
 * Bynum, Caroline Walker, 2004, “The Power in the Blood: Sacrifice, Satisfaction, and Substitution in Late Medieval Soteriology”, in *The Redemption: An Interdisciplinary Symposium on Christ as Redeemer*, Stephen T. Davis, Daniel Kendall, and Gerald O’Collins (eds.), Oxford: Oxford University Press, pp. 177–206.
 * Campbell, J. McLeod, 1856 [1996], *The Nature of the Atonement*, Cambridge: MacMillan. Reprinted Grand Rapids: Eerdmans, 1996.
 * Campbell, Richard, 1998, “The Conceptual Roots of Anselm’s Soteriology”, in *Anselm: Aosta, Bec and Canterbury*, David E. Luscombe and Craig A. Evans (eds.), Sheffield: Sheffield Academic Press, 256–263.
 * Carter, Jeffrey (ed.), 2003, *Understanding Religious Sacrifice: A Reader*, London: Continuum.
 * Chisholm, Roderick, 1963, “Supererogation and Offence: A Conceptual Scheme for Ethics”, *Ratio*, old series 5: 1–14.
 * Cornille, Catherine (ed.), 2021, *Atonement and Comparative Theology*, New York: Fordham University Press.
-* Craig, William Lane, 2019, “Eleonore Stump’s Critique of Penal Substitutionary Atonement Theories”, *Faith and Philosophy*, 36(4): 522–544. doi:10.5840/faithphil2019364136
+* Craig, William Lane, 2019, “Eleonore Stump’s Critique of Penal Substitutionary Atonement Theories”, *Faith and Philosophy*, 36(4): 522–544. doi: 10.5840/faithphil2019364136
 * –––, 2020, *Atonement and the Death of Christ*, Waco, TX: Baylor University Press.
-* Crisp, Oliver D., 2007, “Non-Penal Substitution”, *International Journal of Systematic Theology*, 9(4): 415–433. doi:10.1111/j.1468-2400.2007.00262.x
-* –––, 2008, “Penal Non-Substitution”, *The Journal of Theological Studies*, 59(1): 140–168. doi:10.1093/jts/flm147
-* –––, 2012, “The Moral Government of God”, in *After Jonathan Edwards: The Courses of the New England Theology*, Oliver D. Crisp and Douglas A. Sweeney (eds.), New York: Oxford University Press, 78–90. doi:10.1093/acprof:oso/9780199756292.003.0006
-* –––, 2015, “Is Ransom Enough?”, *Journal of Analytic Theology*, 3: 1–16. doi:10.12978/jat.2015-3.141117021715a
+* Crisp, Oliver D., 2007, “Non-Penal Substitution”, *International Journal of Systematic Theology*, 9(4): 415–433. doi: 10.1111/j.1468-2400.2007.00262.x
+* –––, 2008, “Penal Non-Substitution”, *The Journal of Theological Studies*, 59(1): 140–168. doi: 10.1093/jts/flm147
+* –––, 2012, “The Moral Government of God”, in *After Jonathan Edwards: The Courses of the New England Theology*, Oliver D. Crisp and Douglas A. Sweeney (eds.), New York: Oxford University Press, 78–90. doi: 10.1093/acprof: oso/9780199756292.003.0006
+* –––, 2015, “Is Ransom Enough?”, *Journal of Analytic Theology*, 3: 1–16. doi: 10.12978/jat.2015-3.141117021715a
 * –––, 2016, *The Word Enfleshed*, Grand Rapids, MI: Baker Academic.
 * –––, 2020a, *Approaching the Atonement*, Downers Grove, IL: IVP Academic.
-* –––, 2020b, “Moral Exemplarism and Atonement”, *Scottish Journal of Theology*, 73(2): 137–149. doi:10.1017/S0036930620000265
+* –––, 2020b, “Moral Exemplarism and Atonement”, *Scottish Journal of Theology*, 73(2): 137–149. doi: 10.1017/S0036930620000265
 * Crisp, Oliver and Fred Sanders (eds.), 2015, *Locating Atonement: Explorations in Constructive Dogmatics*, Grand Rapids, MI: Zondervan.
-* Cross, Richard, 2001, “Atonement without Satisfaction”, *Religious Studies*, 37(4): 397–416. doi:10.1017/S0034412501005765
+* Cross, Richard, 2001, “Atonement without Satisfaction”, *Religious Studies*, 37(4): 397–416. doi: 10.1017/S0034412501005765
 * Cunningham, Erin, 2022, “Other times popes have apologized for the sins of the Catholic Church”, *Washington Post*, 25 July 2022. [[Cunningham 2022 available online](https://www.washingtonpost.com/world/2022/07/25/pope-francis-apology-catholic-church-sexual-abuse-scandal/)].
 * Davies, Brian, 2020, *An Introduction to the Philosophy of Religion*, fourth edition, Oxford/New York: Oxford University Press. First edition 1982, second 1993, third 2004.
 * Davies, Brian and G.R. Evans (eds.), 1998, *Anselm of Canterbury: The Major Works*, Oxford: Oxford University Press.
 * Daly, Robert, 2009, *Sacrifice Unveiled*, London: T&T Clark.
 * de Lubac, Henri, 1947 [1988], *Catholicisme: les aspects sociaux du dogme*, Paris: Éditions du Cerf. Translated as *Catholicism: Christ and the Common Destiny of Man*, Lancelot C. Sheppard and Elizabeth Englund (trans.), San Francisco, CA: Ignatius Press, 1988.
 * Denzinger, Heinrich, 2012, *Enchiridion Symbolorum / Compendium of creeds, definitions, and declarations on matters of faith and morals*, Peter Hünermann (ed.), 43rd edition, San Francisco, CA: Ignatius Press.
-* Dougherty, Trent, 2019, “Divine Union with and without the Gospel: A Probabilistic Problem of Pluralism”, *European Journal for Philosophy of Religion*, 11(1): 135–143. doi:10.24204/ejpr.v11i1.2635
+* Dougherty, Trent, 2019, “Divine Union with and without the Gospel: A Probabilistic Problem of Pluralism”, *European Journal for Philosophy of Religion*, 11(1): 135–143. doi: 10.24204/ejpr.v11i1.2635
 * Eberhart, Christian, 2011, *The Sacrifice of Jesus: Understanding Atonement Biblically*, Minneapolis, MN: Fortress Press.
 * Eddy, Paul R. and James Beilby, 2006, “The Atonement: An Introduction”, in Beilby and Eddy 2006: 9–21 (intro).
 * Ensor, Peter 2011, “Justin Martyr and Penal Substitutionary Atonement”, *Evangelical Quarterly*, 83(3): 217–32.
-* Farris, Joshua and S. Mark Hamilton, 2018, “The Logic of Reparative Substitution: Contemporary Restitution Models of Atonement, Divine Justice, and Somatic Death”, *Irish Theological Quarterly*, 83(1): 62–77. doi:10.1177/0021140017742804
+* Farris, Joshua and S. Mark Hamilton, 2018, “The Logic of Reparative Substitution: Contemporary Restitution Models of Atonement, Divine Justice, and Somatic Death”, *Irish Theological Quarterly*, 83(1): 62–77. doi: 10.1177/0021140017742804
 * Fiddes, Paul S., 1989, *Past Event and Present Salvation: The Christian Idea of Atonement*, London: Darton, Longman & Todd.
 * Fiorenza, Elisabeth Schussler, 1994, “The Execution of Jesus and the Theology of the Cross”, in E.S. Fiorenza, *Jesus: Miriam’s Child, Sophia’s Prophet*, New York: Continuum, pp. 97–128.
 * Flood, Derek, 2010, “Substitutionary Atonement and the Church Fathers: A Reply to the Authors of *Pierced For Our Transgressions*”, *Evangelical Quarterly*, 82(2): 142–159.
@@ -612,20 +612,20 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 * Gathercole, Simon, 2015, *Defending Substitution: An Essay on Atonement in Paul*, Grand Rapids, MI: Baker Academic.
 * Girard, René, 1986, *The Scapegoat*, Baltimore, MD: Johns Hopkins University Press.
 * Gorman, Michael, 2014, *The Death of the Messiah and the Birth of the New Covenant*, Eugene, OR: Cascade Books.
-* Gorringe, Timothy, 1996, *God’s Just Vengeance: Crime, Violence, and the Rhetoric of Salvation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511627934
+* Gorringe, Timothy, 1996, *God’s Just Vengeance: Crime, Violence, and the Rhetoric of Salvation*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511627934
 * Green, Joel B., 2006, “Kaleidoscopic View”, in Beilby and Eddy 2006: 157–185 (ch. 4).
 * Gregory of Nyssa, mid 300s [1954], *Logos katechetikos ho megas* (also known in Latin as *Oratio Catechetica*), translated as *An Address on Religious Instruction*, in Edward Hardy (ed.), *Christology of the Later Fathers*, Louisville, KY: Westminster/John Knox Press, 1954, pp. 268–325.
 * Grensted, L.W., 1920, *A Short History of the Doctrine of the Atonement*, Manchester: Manchester University Press.
 * Griffiths, Paul, 2021, *Regret: A Theology*, Notre Dame, IN: Notre Dame Press.
-* Griswold, Charles, 2007, *Forgiveness: A Philosophical Exploration*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511619168
-* Guðmundsdóttir, Arnfríður, 2010, *Meeting God on the Cross: Christ, the Cross, and the Feminist Critique*, (AAR Academy Series), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195397963.001.0001
+* Griswold, Charles, 2007, *Forgiveness: A Philosophical Exploration*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511619168
+* Guðmundsdóttir, Arnfríður, 2010, *Meeting God on the Cross: Christ, the Cross, and the Feminist Critique*, (AAR Academy Series), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195397963.001.0001
 * –––, 2017, “Crucified—So What? Feminist Rereadings of the Cross-Event”, in Adam Johnson 2017: 335–354 (ch. 18).
 * Gunton, Colin, 1989, *The Actuality of Atonement: A Study of Metaphor, Rationality and the Christian Tradition*, London: T&T Clark.
 * Halbertal, Moshe, 2012, *On Sacrifice*, Princeton, NJ: Princeton University Press.
 * Hare, John E., 1996, *The Moral Gap*, Oxford: Oxford University Press.
-* –––, 2005, “Kant on the Rational Instability of Atheism”, in *God and the Ethics of Belief*, Andrew Dole and Andrew Chignell (eds.), Cambridge: Cambridge University Press, 202–218. doi:10.1017/CBO9780511499166.010
-* –––, 2011, “Ethics and Religion: Two Kantian”, *Philosophical Investigations*, 34(2): 151–168. doi:10.1111/j.1467-9205.2011.01437.x
-* Hayes, John H., 1998, “Atonement in the Book of Leviticus”, *Interpretation: A Journal of Bible and Theology*, 52(1): 5–15. doi:10.1177/002096439605200102
+* –––, 2005, “Kant on the Rational Instability of Atheism”, in *God and the Ethics of Belief*, Andrew Dole and Andrew Chignell (eds.), Cambridge: Cambridge University Press, 202–218. doi: 10.1017/CBO9780511499166.010
+* –––, 2011, “Ethics and Religion: Two Kantian”, *Philosophical Investigations*, 34(2): 151–168. doi: 10.1111/j.1467-9205.2011.01437.x
+* Hayes, John H., 1998, “Atonement in the Book of Leviticus”, *Interpretation: A Journal of Bible and Theology*, 52(1): 5–15. doi: 10.1177/002096439605200102
 * Heim, S. Mark, 2006, *Saved From Sacrifice: A Theology of the Cross*, Grand Rapids, MI: Eerdmans.
 * Hengel, Martin, 1986, “The Atonement”, in his *The Cross and the Son of God*, London: SCM Press, pp. 189–263.
 * Hick, John, 1993 [2005], *The Metaphor of God Incarnate: Christology in a Pluralistic Age*, London: SCM Press. Second edition Louisville, Ky: Westminster John Knox Press, 2006.
@@ -633,9 +633,9 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 * Hill, Daniel and Joseph Jedwab, 2015, “Atonement and the Concept of Punishment”, in Crisp and Sanders 2015: 139–153 (ch. 7).
 * Hodges, H.A., 1955, *The Pattern of Atonement*, London: SCM Press.
 * [*AH*] Irenaeus, c. 180 CE, *Adversus Haereses* (*Against Heresies*), originally in Greek though much is known only from Latin translations.
-* Isaacs, Tracy Lynn, 2011, *Moral Responsibility in Collective Contexts*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199782963.001.0001
-* Isaacs, Tracy and Richard Vernon (eds.), 2011, *Accountability for Collective Wrongdoing*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511976780
-* Jeffrey, Anne, 2021, “Is the Atonement Necessary or Fitting?”, *Religious Studies*, 57(1): 148–156. doi:10.1017/S0034412519000507
+* Isaacs, Tracy Lynn, 2011, *Moral Responsibility in Collective Contexts*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199782963.001.0001
+* Isaacs, Tracy and Richard Vernon (eds.), 2011, *Accountability for Collective Wrongdoing*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511976780
+* Jeffrey, Anne, 2021, “Is the Atonement Necessary or Fitting?”, *Religious Studies*, 57(1): 148–156. doi: 10.1017/S0034412519000507
 * Jeffrey, Steve, Michael Ovey, and Andrew Sach, 2007, *Perceived for our Transgressions*, Wheaton, IL: Crossway Books.
 * John Paul II, 1984, “Reconciliatio et Paenitentia” (Reconciliation and Penance), Apostolic Exhortation, 2 December 1984, Vatican City: Libreria Editrice Vaticana. [[John Paul II 1984 available online](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html).
 * Johnson, Adam J. (ed.), 2017, *T&T Clark Companion to Atonement*, (Bloomsbury Companions 5), London ; New York: Bloomsbury T&T Clark.
@@ -644,118 +644,118 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 * Kelly, J.N.D., 1950 [1978], *Early Christian Doctrines*, London: Longmans Green. Fifth revised edition, New York: Harper Collins, 1978.
 * Keshgegian, Flora, 2000, “The Scandal of the Cross: Revisiting Anselm and His Feminist Critics”, *Anglican Theological Review*, 82(3): 475–492.
 * Khalil, Atif, 2018, *Repentance and the Return to God: Tawba in Early Sufism*, Albany, NY: SUNY Press.
-* Klawans, Jonathan, 2006, *Purity, Sacrifice, and the Temple: Symbolism and Supersessionism in the Study of Ancient Judaism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195162639.001.0001
+* Klawans, Jonathan, 2006, *Purity, Sacrifice, and the Temple: Symbolism and Supersessionism in the Study of Ancient Judaism*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195162639.001.0001
 * Leibniz, Gottfried, 1710 [2006], “Making the case for God”, in the version by Jonathan Bennett [available online](https://www.earlymoderntexts.com/assets/pdfs/leibniz1710.pdf).
 * Letham, Robert, 1993, *The Work of Christ*, Downers Grove, IL: Intervarsity Press.
 * Levenson, Jon, 2016, *The Love of God: Divine Gift, Human Gratitude, and Mutual Faithfulness in Judaism*, Princeton, NJ: Princeton University Press.
 * Lewis, David, 1997, “Do We Believe in Penal Substitution?” in his *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press, pp. 128–35.
-* Lewis, H. D., 1948, “Collective Responsibility”, *Philosophy*, 23(84): 3–18. Reprinted in May and Hoffman 1991: 17–34. doi:10.1017/S0031819100065943
-* Lombardo, Nicholas E., 2013, *The Father’s Will: Christ’s Crucifixion and the Goodness of God*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199688586.001.0001
+* Lewis, H. D., 1948, “Collective Responsibility”, *Philosophy*, 23(84): 3–18. Reprinted in May and Hoffman 1991: 17–34. doi: 10.1017/S0031819100065943
+* Lombardo, Nicholas E., 2013, *The Father’s Will: Christ’s Crucifixion and the Goodness of God*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199688586.001.0001
 * Lucas, J.R., 1976, “Atonement and Redemption”, in his *Freedom and Grace: Essays*, Grand Rapids, MI: Eerdmans, pp. 50–63.
 * –––, 1994, “Reflections on the Atonement”, in Padgett 1994: 265–275 (ch. 12).
 * MacKinnon, Donald M., 1966, “Subjective and Objective Conceptions of Atonement”, in F.G. Healey (ed.), *Prospect for Theology: Essays in Honour of H.H. Farmer*, London: Nisbet, pp. 169–82.
-* Mansini, Guy, 1987, “St. Anselm, ‘Satisfactio’, and the ‘Rule’ of St. Benedict”, *Revue Bénédictine*, 97(1–2): 101–121. doi:10.1484/J.RB.4.01174
+* Mansini, Guy, 1987, “St. Anselm, ‘Satisfactio’, and the ‘Rule’ of St. Benedict”, *Revue Bénédictine*, 97(1–2): 101–121. doi: 10.1484/J.RB.4.01174
 * Marshall, I. Howard, 2007, *Aspects of the Atonement*, London: Paternoster Press.
 * Martin, Ralph P., 1981 [1997], *Reconciliation: A Study of Paul’s Theology*, (New Foundations Theological Library), Atlanta, GA: John Knox Press. Revised edition Eugene, OR: Wipf and Stock Publishers, 1997.
 * May, Larry and Stacey Hoffman (eds.), 1991, *Collective Responsibility: Five Decades of Debate in Theoretical and Applied Ethics*, Lanham, MD: Rowman and Littlefield.
 * McEvoy, Jane, 2000, *The Satisfied Life: Medieval Women Mystics on Atonement*, Cleveland, OH: Pilgrim Press.
 * McEwan, Ian, 2001, *Atonement*, New York: Anchor.
-* McGrath, Alister E., 1981, “Rectitude: The Moral Foundation of Anselm of Canterbury’s Soteriology”, *The Downside Review*, 99(336): 204–213. doi:10.1177/001258068109933604
-* –––, 1985, “The Moral Theory of the Atonement: An Historical and Theological Critique”, *Scottish Journal of Theology*, 38(2): 205–220. doi:10.1017/S0036930600041351
+* McGrath, Alister E., 1981, “Rectitude: The Moral Foundation of Anselm of Canterbury’s Soteriology”, *The Downside Review*, 99(336): 204–213. doi: 10.1177/001258068109933604
+* –––, 1985, “The Moral Theory of the Atonement: An Historical and Theological Critique”, *Scottish Journal of Theology*, 38(2): 205–220. doi: 10.1017/S0036930600041351
 * McKnight, Scott, 2007, *A Community Called Atonement*, Nashville, TN: Abingdon Press.
 * McNall, Joshua, 2019, *The Mosaic of Atonement: An Integrated Approach to Christ’s Work*, Grand Rapids, MI: Zondervan Academic.
-* McNaughton, David, 1992, “Reparation and Atonement”, *Religious Studies*, 28(2): 129–144. doi:10.1017/S0034412500021508
-* Meens, Rob, 2014, *Penance in Medieval Europe, 600–1200*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139029667
+* McNaughton, David, 1992, “Reparation and Atonement”, *Religious Studies*, 28(2): 129–144. doi: 10.1017/S0034412500021508
+* Meens, Rob, 2014, *Penance in Medieval Europe, 600–1200*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9781139029667
 * Mersch, Émile, 1933/1938 [2011], *Le corps mystique du Christ: études de théologie historique*, 2 vols., Louvain: Museum Lessianum; second edition 1936. Second edition translated as *The Whole Christ: The Historical Development of the Doctrine of the Mystical Body in Scripture and Tradition*, John R. Kelly (trans.), London: D. Dobson, 1938. New edition, Eugene, OR: Wipf and Stock Publishers, 2011.
 * Milgrom, Jacob (ed.), 1991, *Leviticus 1-16: A New Translation with Introduction and Commentary*, (The Anchor Bible 3), New York: Doubleday.
 * Moberly, R.C., 1924, *Atonement and Personality*, London: John Murray.
 * Moffitt, David, 2022, *Rethinking the Atonement*, Grand Rapids, MI: Baker Academic.
 * Morris, Leon, 1983, *The Atonement*, Downers Grove, IL: Intervarsity Press.
-* Murphy, Jeffrie G., 2003, *Getting Even: Forgiveness and Its Limits*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195178555.001.0001
+* Murphy, Jeffrie G., 2003, *Getting Even: Forgiveness and Its Limits*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195178555.001.0001
 * –––, 2012a, “Repentance, Mercy, and Communicative Punishment”, in Jeffrie Murphy 2012c: 114–128 (ch. 6).
 * –––, 2012b, “Remorse, Apology, and Mercy”, in Jeffrie Murphy 2012c: 129–180 (ch. 7).
-* –––, 2012c, *Punishment and the Moral Emotions: Essays in Law, Morality, and Religion*, New York: Oxford University Press. doi:10.1093/acprof:osobl/9780199764396.001.0001
-* Murphy, Mark C., 2009, “Not Penal Substitution but Vicarious Punishment”:, *Faith and Philosophy*, 26(3): 253–273. doi:10.5840/faithphil200926314
+* –––, 2012c, *Punishment and the Moral Emotions: Essays in Law, Morality, and Religion*, New York: Oxford University Press. doi: 10.1093/acprof: osobl/9780199764396.001.0001
+* Murphy, Mark C., 2009, “Not Penal Substitution but Vicarious Punishment”:, *Faith and Philosophy*, 26(3): 253–273. doi: 10.5840/faithphil200926314
 * Myers, Benjamin, 2015, “The Patristic Atonement Model”, in Crisp and Sanders 2015: 71–88 (ch. 3).
-* Naiden, F. S., 2013, *Smoke Signals for the Gods: Ancient Greek Sacrifice from the Archaic through Roman Periods*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199916405.001.0001
+* Naiden, F. S., 2013, *Smoke Signals for the Gods: Ancient Greek Sacrifice from the Archaic through Roman Periods*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199916405.001.0001
 * Narsai, 400s, “Homily for the Great Sunday of the Resurrection”, originally in Syriac. Translated in “Narsai’s Metrical Homilies on the Nativity, Epiphany, Passion, Resurrection and Ascension: Critical Edition of Syriac text / English translation”, Frederick G. McLeod (ed./trans.) in *Patrologia Orientalis*, volume 40(1979): 137–162.
-* Narveson, Jan, 2002, “Collective Responsibility”, *The Journal of Ethics*, 6(2): 179–198. doi:10.1023/A:1015823716891
-* Nichols, Ryan, 2004, “Moral Motivation and Christian Theism”:, *Faith and Philosophy*, 21(2): 175–194. doi:10.5840/faithphil20042123
-* Ohtsubo, Yohsuke and Esuka Watanabe, 2009, “Do Sincere Apologies Need to Be Costly? Test of a Costly Signaling Model of Apology”, *Evolution and Human Behavior*, 30(2): 114–123. doi:10.1016/j.evolhumbehav.2008.09.004
-* O’Collins, Gerald, 2007, *Jesus Our Redeemer: A Christian Approach to Salvation*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199203130.001.0001
+* Narveson, Jan, 2002, “Collective Responsibility”, *The Journal of Ethics*, 6(2): 179–198. doi: 10.1023/A: 1015823716891
+* Nichols, Ryan, 2004, “Moral Motivation and Christian Theism”:, *Faith and Philosophy*, 21(2): 175–194. doi: 10.5840/faithphil20042123
+* Ohtsubo, Yohsuke and Esuka Watanabe, 2009, “Do Sincere Apologies Need to Be Costly? Test of a Costly Signaling Model of Apology”, *Evolution and Human Behavior*, 30(2): 114–123. doi: 10.1016/j.evolhumbehav.2008.09.004
+* O’Collins, Gerald, 2007, *Jesus Our Redeemer: A Christian Approach to Salvation*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199203130.001.0001
 * Oxford English Dictionary, “atonement, n.”, OED Online, March 2023.
-* Packer, J. I., 1974, “What Did the Cross Achieve? The Logic of Penal Substitution”, *Tyndale Bulletin*, 25: 3–45. doi:10.53751/001c.30636
+* Packer, J. I., 1974, “What Did the Cross Achieve? The Logic of Penal Substitution”, *Tyndale Bulletin*, 25: 3–45. doi: 10.53751/001c.30636
 * Padgett, Alan G. (ed.), 1994, *Reason and the Christian Religion: Essays in Honour of Richard Swinburne*, Oxford: Clarendon Press.
 * Paul, Robert, 1960, *The Atonement and the Sacraments*, New York: Abingdon Press.
-* Pawl, Faith Glavey, 2021, “Satisfaction and Restoration of the World”, *Religious Studies*, 57(1): 141–147. doi:10.1017/S0034412519000490
+* Pawl, Faith Glavey, 2021, “Satisfaction and Restoration of the World”, *Religious Studies*, 57(1): 141–147. doi: 10.1017/S0034412519000490
 * Pelikan, Jaroslav, 1978, *The Christian Tradition: A History of the Development of Doctrine* (Volume 3: The Growth of Medieval Theology 600-1300), Chicago: The University of Chicago Press.
-* Pettigrove, Glen, 2012, *Forgiveness and Love*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199646555.001.0001
-* Pogin, Kathryn, 2020, “Conceptualizing the Atonement”, in *Voices from the Edge: Centring Marginalized Perspectives in Analytic Theology*, Michelle Panchuk and Michael Rea (eds.), Oxford/New York: Oxford University Press, 166–182 (ch. 7). doi:10.1093/oso/9780198848844.003.0008
-* –––, 2021, “Social Sin, Social Redemption”, *Religious Studies*, 57(1): 157–164. doi:10.1017/S0034412519000581
+* Pettigrove, Glen, 2012, *Forgiveness and Love*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199646555.001.0001
+* Pogin, Kathryn, 2020, “Conceptualizing the Atonement”, in *Voices from the Edge: Centring Marginalized Perspectives in Analytic Theology*, Michelle Panchuk and Michael Rea (eds.), Oxford/New York: Oxford University Press, 166–182 (ch. 7). doi: 10.1093/oso/9780198848844.003.0008
+* –––, 2021, “Social Sin, Social Redemption”, *Religious Studies*, 57(1): 157–164. doi: 10.1017/S0034412519000581
 * Porter, Steven L., 2002, “Rethinking the Logic of Penal Substitution”, in *Philosophy of Religion: A Reader and Guide*, William Lane Craig, Kevin Meeker, J. P. Moreland, Michael Murray, and Timothy O’Connor (eds.), Edinburgh: Edinburgh University Press, 596–608 (ch. 6.4).
-* –––, 2004, “Swinburnian Atonement and the Doctrine of Penal Substitution”:, *Faith and Philosophy*, 21(2): 228–241. doi:10.5840/faithphil20042126
+* –––, 2004, “Swinburnian Atonement and the Doctrine of Penal Substitution”:, *Faith and Philosophy*, 21(2): 228–241. doi: 10.5840/faithphil20042126
 * Pugh, Ben, 2014, *Atonement Theories: A Way Through the Maze*, Eugene, OR: Cascade Books.
 * Purtill, Richard L., 1990, “Justice, Mercy, Supererogation, and Atonement”, in *Christian Philosophy*, Thomas P. Flint (ed.), (University of Notre Dame Studies in the Philosophy of Religion 6), Notre Dame, IN: University of Notre Dame Press, pp. 37-50.
-* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, *Faith and Philosophy*, 3(4): 440–462. doi:10.5840/faithphil19863433
+* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, *Faith and Philosophy*, 3(4): 440–462. doi: 10.5840/faithphil19863433
 * –––, 1989, “Aquinas on Atonement”, in *Trinity, Incarnation, and Atonement: Philosophical and Theological Essays*, Ronald Jay Feenstra and Cornelius Plantinga (eds.), (Library of Religious Philosophy 1), Notre Dame, IN: University of Notre Dame Press, 153–177.
 * –––, 1993, “Abelard on Atonement: ‘Nothing Unintelligible, Arbitrary, Illogical, or Immoral about It’”, in *Reasoned Faith: Essays in Philosophical Theology in Honor of Norman Kretzmann*, Eleonore Stump (ed.), Ithaca, NY: Cornell University Press, 281–300.
 * –––, 1994, “Swinburne on Guilt, Atonement, and Christian Redemption”, in Padgett 1994: 277–300 (ch. 13).
-* –––, 2004, “Review of *Papers in Ethics and Social Philosophy*, by David Lewis”, *Noûs*, 38(4): 711–730. doi:10.1111/j.0029-4624.2004.00490.x
-* Radzik, Linda, 2009, *Making Amends: Atonement in Morality, Law, and Politics*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195373660.001.0001
+* –––, 2004, “Review of *Papers in Ethics and Social Philosophy*, by David Lewis”, *Noûs*, 38(4): 711–730. doi: 10.1111/j.0029-4624.2004.00490.x
+* Radzik, Linda, 2009, *Making Amends: Atonement in Morality, Law, and Politics*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195373660.001.0001
 * Radzik, Linda and Colleen Murphy, 2015 [2021], “Reconciliation”, *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2021/entries/reconciliation/>.
 * Rashdall, Hastings, 1907, *The Theory of Good and Evil: A Treatise on Moral Philosophy*, Oxford: The Clarendon Press.
 * –––, 1920, *The Idea of Atonement in Christian Theology: Being the Bampton Lectures for 1915*, London: Macmillan.
 * Ray, Darby Kathleen, 1998, *Deceiving the Devil: Atonement, Abuse, and Ransom*, Cleveland, OH: Pilgrim Press.
-* Rea, Michael, 2019, “The Ill-Made Knight and the Stain on the Soul”, *European Journal for Philosophy of Religion*, 11(1): 117–134. doi:10.24204/ejpr.v11i1.2568
+* Rea, Michael, 2019, “The Ill-Made Knight and the Stain on the Soul”, *European Journal for Philosophy of Religion*, 11(1): 117–134. doi: 10.24204/ejpr.v11i1.2568
 * Reichenbach, Bruce, 2006, “Healing Response to Christus Victor”, in Beilby and Eddy 2006: 54–60 (ch. 1 response).
 * Richards, Norvin, 1988, “Forgiveness”, *Ethics*, 99(1): 77–97.
 * Rivière, Jean, 1905 [1909], *Le Dogme de la Rédemption: Étude historique*, Paris: Victor Lecoffre. Translated as *The Doctrine of the Atonement*, Luigi Cappadelta (trans.), London: Kegan Paul, Trench, Trübner, 1909.
-* Rogers, Katherin A., 2001, “A Defense of Anselm’s *Cur Deus Homo* Argument”, *Proceedings of the American Catholic Philosophical Association*, 74: 187–200. doi:10.5840/acpaproc20007426
-* –––, 2012, “Christ Our Brother: Family Unity in Anselm’s Theory of the Atonement”, *American Catholic Philosophical Quarterly*, 86(2): 223–236. doi:10.5840/acpq201286217
+* Rogers, Katherin A., 2001, “A Defense of Anselm’s *Cur Deus Homo* Argument”, *Proceedings of the American Catholic Philosophical Association*, 74: 187–200. doi: 10.5840/acpaproc20007426
+* –––, 2012, “Christ Our Brother: Family Unity in Anselm’s Theory of the Atonement”, *American Catholic Philosophical Quarterly*, 86(2): 223–236. doi: 10.5840/acpq201286217
 * Rutledge, Fleming, 2015, *The Crucifixion: Understanding the Death of Jesus Christ*, Grand Rapids, MI: Eerdmans.
-* Rutledge, Jonathan C., 2022, *Forgiveness and Atonement: Christ’s Restorative Sacrifice*, (Routledge Studies in Analytic and Systematic Theology), Abingdon/New York: Routledge. doi:10.4324/9780367754778
+* Rutledge, Jonathan C., 2022, *Forgiveness and Atonement: Christ’s Restorative Sacrifice*, (Routledge Studies in Analytic and Systematic Theology), Abingdon/New York: Routledge. doi: 10.4324/9780367754778
 * Sanders, John (ed.), 2006, *Atonement and Violence: A Theological Conversation*, Nashville, TN: Abingdon Press.
 * Schmiechen, Peter, 2005, *Saving Power: Theories of Atonement and Forms of the Church*, Grand Rapids, MI: Eerdmans.
 * Schreiner, Thomas R., 2006a, “Penal Substitution View”, in Beilby and Eddy 2006: 67–98 (ch. 2).
 * –––, 2006b, “Penal Substitution Response to Christus Victor”, in Beilby and Eddy 2006: 50–53 (ch. 1 response).
 * Shannon, Daniel, 2009, “Justifying Atonement: An Anselmian Response to Modern Critics”, *The Saint Anselm Journal*, 6(2): 1–19.
-* Smith, Nick, 2008, *I Was Wrong: The Meanings of Apologies*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511499258
-* –––, 2014, *Justice through Apologies: Remorse, Reform, and Punishment*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511843969
+* Smith, Nick, 2008, *I Was Wrong: The Meanings of Apologies*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511499258
+* –––, 2014, *Justice through Apologies: Remorse, Reform, and Punishment*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511843969
 * Socinus, Faustus, 1668, *De Jesu Christo Servatore*, in *Bibliotheca Fratrum Polonorum II*, Andreas Wissowatius (ed.), Amsterdam.
 * Sonderegger, Katherine, 2017, “Anselmian Atonement”, in Adam Johnson 2017: 175–194 (ch. 10).
 * Spelman, Elizabeth, 2002, *Repair: The Impulse to Restore in a Fragile World*, Boston, MA: Beacon Press.
-* Stevenson, Leslie, 2015, “Atonement in Theology and Literature”, *Philosophy and Literature*, 39(1): 47–63. doi:10.1353/phl.2015.0018
+* Stevenson, Leslie, 2015, “Atonement in Theology and Literature”, *Philosophy and Literature*, 39(1): 47–63. doi: 10.1353/phl.2015.0018
 * Stott, John, 1986, *The Cross of Christ*, Downers Grove, IL: Intervarsity Press.
-* Strabbing, Jada Twedt, 2016, “The Permissibility of the Atonement as Penal Substitution”, in *Oxford Studies in Philosophy of Religion, Volume 7*, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, 239–270. doi:10.1093/acprof:oso/9780198757702.003.0010
-* –––, 2020, “Forgiveness and Reconciliation”, *Australasian Journal of Philosophy*, 98(3): 531–545. doi:10.1080/00048402.2019.1687532
+* Strabbing, Jada Twedt, 2016, “The Permissibility of the Atonement as Penal Substitution”, in *Oxford Studies in Philosophy of Religion, Volume 7*, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, 239–270. doi: 10.1093/acprof: oso/9780198757702.003.0010
+* –––, 2020, “Forgiveness and Reconciliation”, *Australasian Journal of Philosophy*, 98(3): 531–545. doi: 10.1080/00048402.2019.1687532
 * Stump, Eleonore, 1988, “Atonement According to Aquinas”, in *Philosophy and the Christian Faith*, Thomas Morris (ed.), Notre Dame, IN: University of Notre Dame Press, pp. 61–91.
-* –––, 2003, *Aquinas*, (Arguments of the Philosophers), London/New York: Routledge. doi:10.4324/9780203928356
-* –––, 2018, *Atonement*, (Oxford Studies in Analytic Theology), Oxford: Oxford University Press. doi:10.1093/oso/9780198813866.001.0001
-* –––, 2019, “The Doctrine of the Atonement: Response to Michael Rea, Trent Dougherty, and Brandon Warmke”, *European Journal for Philosophy of Religion*, 11(1): 165–186. doi:10.24204/ejpr.v11i1.2710
-* –––, 2021, “*Atonement* : Response to Critics”, *Religious Studies*, 57(1): 165–178. doi:10.1017/S0034412519000660
+* –––, 2003, *Aquinas*, (Arguments of the Philosophers), London/New York: Routledge. doi: 10.4324/9780203928356
+* –––, 2018, *Atonement*, (Oxford Studies in Analytic Theology), Oxford: Oxford University Press. doi: 10.1093/oso/9780198813866.001.0001
+* –––, 2019, “The Doctrine of the Atonement: Response to Michael Rea, Trent Dougherty, and Brandon Warmke”, *European Journal for Philosophy of Religion*, 11(1): 165–186. doi: 10.24204/ejpr.v11i1.2710
+* –––, 2021, “*Atonement* : Response to Critics”, *Religious Studies*, 57(1): 165–178. doi: 10.1017/S0034412519000660
 * Swamy, Muthuraj, 2018, *Reconciliation*, London: SPCK.
-* Swinburne, Richard, 1977 [2016], *The Coherence of Theism*, Oxford: Oxford University Press. Second edition, 2016. doi:10.1093/acprof:oso/9780198779698.001.0001
-* –––, 1989, *Responsibility and Atonement*, Oxford: Clarendon Press. doi:10.1093/0198248490.001.0001
-* –––, 2019, “Stump On Forgiveness”, *Faith and Philosophy*, 36(4): 512–521. doi:10.5840/faithphil20191119130
-* Tanner, Kathryn, 2010, *Christ the Key*, (Current Issues in Theology), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511803499
+* Swinburne, Richard, 1977 [2016], *The Coherence of Theism*, Oxford: Oxford University Press. Second edition, 2016. doi: 10.1093/acprof: oso/9780198779698.001.0001
+* –––, 1989, *Responsibility and Atonement*, Oxford: Clarendon Press. doi: 10.1093/0198248490.001.0001
+* –––, 2019, “Stump On Forgiveness”, *Faith and Philosophy*, 36(4): 512–521. doi: 10.5840/faithphil20191119130
+* Tanner, Kathryn, 2010, *Christ the Key*, (Current Issues in Theology), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511803499
 * Taylor, Vincent, 1941, *Forgiveness and Reconciliation*, London: Macmillan.
 * –––, 1940 [1946], *The Atonement in New Testament Teaching*, London: Epworth Press. Second edition, 1946.
 * –––, 1957, *The Cross of Christ*, London: Macmillan.
-* Thatcher, Adrian, 1985, “The Personal God and a God Who Is a Person”, *Religious Studies*, 21(1): 61–73. doi:10.1017/S0034412500016899
-* Thurow, Joshua C., 2015, “Communal Substitutionary Atonement”, *Journal of Analytic Theology*, 3: 47–69. doi:10.12978/jat.2015-3.0914-65190722a
-* –––, 2017a, “Atoning in Purgatory”, *Religious Studies*, 53(2): 217–237. doi:10.1017/S0034412516000056
-* –––, 2017b, “Finding Collective Sin and Recompense in Anselm’s *Cur Deus Homo*”, *American Catholic Philosophical Quarterly*, 91(3): 431–446. doi:10.5840/acpq2017531120
-* –––, 2021a, “He Died for Our Sins (in a Contextually-Sensitive Way)”, *Journal of Analytic Theology*, 9: 238–261. doi:10.12978/jat.2021-9.0914-65190722
+* Thatcher, Adrian, 1985, “The Personal God and a God Who Is a Person”, *Religious Studies*, 21(1): 61–73. doi: 10.1017/S0034412500016899
+* Thurow, Joshua C., 2015, “Communal Substitutionary Atonement”, *Journal of Analytic Theology*, 3: 47–69. doi: 10.12978/jat.2015-3.0914-65190722a
+* –––, 2017a, “Atoning in Purgatory”, *Religious Studies*, 53(2): 217–237. doi: 10.1017/S0034412516000056
+* –––, 2017b, “Finding Collective Sin and Recompense in Anselm’s *Cur Deus Homo*”, *American Catholic Philosophical Quarterly*, 91(3): 431–446. doi: 10.5840/acpq2017531120
+* –––, 2021a, “He Died for Our Sins (in a Contextually-Sensitive Way)”, *Journal of Analytic Theology*, 9: 238–261. doi: 10.12978/jat.2021-9.0914-65190722
 * –––, 2021b, “Reconciling Atonement”, *Criswell Theological Review*, 19(1): 99–114.
-* Thurow, Joshua and Jada Twedt Strabbing, 2020, “Entwining Thomistic and Anselmian Interpretations of the Atonement”, *Faith and Philosophy*, 37(4): 516–535. doi:10.37977/faithphil.2020.37.4.8
-* Todd, Obbie Tyler, 2019, “A Public Atonement: The Public Nature of Sin and Salvation in the American Moral Governmental Theory of the Atonement”, *International Journal of Systematic Theology*, 21(3): 251–264. doi:10.1111/ijst.12365
+* Thurow, Joshua and Jada Twedt Strabbing, 2020, “Entwining Thomistic and Anselmian Interpretations of the Atonement”, *Faith and Philosophy*, 37(4): 516–535. doi: 10.37977/faithphil.2020.37.4.8
+* Todd, Obbie Tyler, 2019, “A Public Atonement: The Public Nature of Sin and Salvation in the American Moral Governmental Theory of the Atonement”, *International Journal of Systematic Theology*, 21(3): 251–264. doi: 10.1111/ijst.12365
 * Torrance, T.F., 2009, *Atonement*, Downers Grove: IVP Academic.
 * Turner, H. E. W., 1952 [2004], *The Patristic Doctrine of Redemption: A Study of the Development of Doctrine during the First Five Centuries*, London: A. R. Mowbray. Reprinted Eugene, OR: Wipf and Stock Publishers, 2004.
 * Turretin, Francis, 1978, *The Atonement of Christ*, Grand Rapids, MI: Baker.
 * Versnel, Henk, 2005, “Making Sense of Jesus’ Death”, in *Deutungen des Todes Jesu im Neuen Testament*, J. Frey and J. Schröter (eds.), Tübingen: Mohr Siebeck, pp. 213–294.
 * Volf, Miroslav, 2006, *The End of Memory: Remembering Rightly in a Violent World*, Grand Rapids, MI: Eerdmans.
-* Walker, Margaret Urban, 2006, *Moral Repair: Reconstructing Moral Relations after Wrongdoing*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511618024
-* Warmke, Brandon, 2019, “Stump’s Forgiveness”, *European Journal for Philosophy of Religion*, 11(1): 145–163. doi:10.24204/ejpr.v11i1.2570
+* Walker, Margaret Urban, 2006, *Moral Repair: Reconstructing Moral Relations after Wrongdoing*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511618024
+* Warmke, Brandon, 2019, “Stump’s Forgiveness”, *European Journal for Philosophy of Religion*, 11(1): 145–163. doi: 10.24204/ejpr.v11i1.2570
 * Weaver, J. Denny, 2001, *The Nonviolent Atonement*, Grand Rapids, MI: Eerdmans.
 * –––, 2006, “Narrative *Christus Victor*: the Answer to Anselmian Atonement Violence”, in Sanders 2006: 1–32 (ch. 1).
 * Weingart, Richard E., 1970, *The Logic of Divine Love: A Critical Analysis of the Soteriology of Peter Abailard*, London: Clarendon.
@@ -765,7 +765,7 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 * Wink, Walter, 1992, *Engaging the Powers*, Minneapolis, MN: Fortress Press.
 * Wolterstorff, Nicholas, 2011, *Justice in Love*, Grand Rapids, MI: Eerdmans.
 * Wright, N.T., 2016, *The Day the Revolution Began: Reconsidering the Meaning of Jesus’s Crucifixion*, New York: HarperOne.
-* Zaibert, Leo, 2018, *Rethinking Punishment*, Cambridge: Cambridge University Press. doi:10.1017/9781108151740
+* Zaibert, Leo, 2018, *Rethinking Punishment*, Cambridge: Cambridge University Press. doi: 10.1017/9781108151740
 * Zolkos, Magdalena, 2020, *Restitution and the Politics of Repair: Tropes, Imaginaries, Theory*, Edinburgh: Edinburgh University Press.
 
 ## Academic Tools
@@ -778,7 +778,7 @@ Guðmundsdóttir（2010; 2017）认为，一些批评并没有充分区分神学
 
 ## Other Internet Resources
 
-* Finlan, Stephen, 2020, “[Atonement](https://oxfordbibliographies.com/view/document/obo-9780195393361/obo-9780195393361-0128.xml)”, *Oxford Bibliographies*. doi:10.1093/OBO/9780195393361-0128
+* Finlan, Stephen, 2020, “[Atonement](https://oxfordbibliographies.com/view/document/obo-9780195393361/obo-9780195393361-0128.xml)”, *Oxford Bibliographies*. doi: 10.1093/OBO/9780195393361-0128
 * Skylstad, Rose, 2021, “[Reckoning and Reparation: Canada Navigates Past Mistreatment of Indigenous Populations](https://www.wilsoncenter.org/article/reckoning-and-reparation-canada-navigates-past-mistreatment-indigenous-populations)”, Canada Institute at the Wilson Center, Washington, DC, 18 November 2021.
 * Smith, Matthew, 2019, “[70% of Germans say country has atoned for Nazi past](https://yougov.co.uk/topics/international/articles-reports/2019/11/09/70-germans-say-country-has-atoned-nazi-past)”, YouGov, London, 9 November 2019.
 * Christian ecclesiastical bodies statements about Jesus’s atonement:

@@ -1,8 +1,8 @@
 # 对象 object (Bradley Rettler and Andrew M. Bailey)
 
-*首次发表于2017年10月26日，实质修订于2023年11月3日。*
+*首次发表于 2017 年 10 月 26 日，实质修订于 2023 年 11 月 3 日。*
 
-形而上学的一个任务是将现实划分为不同的类别[1]。有些事物可能不存在，它们属于有条件存在的类别。有些是事件，它们属于事件类别。等等。人们可能会想，是否存在一个包含所有事物的类别？提供一个有信息量的关于这种类别的解释并不容易。因为没有什么能够将属于这个类别的事物与不属于这个类别的事物区分开来——毕竟，后者根本不存在。因此，似乎很难对任何完全通用的类别做出太多的陈述；而且它似乎根本不进行任何划分或分类或分割。尽管如此，有一些候选人可以担任这种完全通用的职务，包括事物、存在、实体、项目、存在者，以及尤其是对象[2]。
+形而上学的一个任务是将现实划分为不同的类别 [1]。有些事物可能不存在，它们属于有条件存在的类别。有些是事件，它们属于事件类别。等等。人们可能会想，是否存在一个包含所有事物的类别？提供一个有信息量的关于这种类别的解释并不容易。因为没有什么能够将属于这个类别的事物与不属于这个类别的事物区分开来——毕竟，后者根本不存在。因此，似乎很难对任何完全通用的类别做出太多的陈述；而且它似乎根本不进行任何划分或分类或分割。尽管如此，有一些候选人可以担任这种完全通用的职务，包括事物、存在、实体、项目、存在者，以及尤其是对象 [2]。
 
 很明显，并不存在任何完全通用的类别（无论是对象还是其他）。因此，并非所有关于对象的解释都将其归类为完全通用的类别，而是允许存在非对象。在这些观点中，对象确实进行了划分。
 
@@ -24,7 +24,7 @@
 
 根据一种自然的解读，对比问题可以很容易地得到答案；确定“对象”的内容（也许通过规定），就能明确是否存在非对象。因此，一些哲学家认为存在一个完全通用的类别，并将“对象”定义为指代它。根据这种伞观点，我们将每个事物都视为对象（也许是通过“对象”的定义），并且该类别没有对比，或者如果有对比或补充，对比是未填充的，补充是未实现的。
 
-伞视图是否真实？在这里的争议可能仅仅是言辞上的，仅仅涉及如何使用“对象”这个词。[3]然而，这并不完全正确。因此，为了澄清：伞视图涉及实质性的形而上学命题和语义命题。形而上学命题是说存在一个最广泛的本体论范畴，包括所有事物。语义命题是说“对象”——也许是根据规定——指的是这个最广泛的范畴。因此，关于伞视图的争议在某种程度上仅仅是言辞上的。在涉及语义命题时，它们仅仅是言辞上的。但是，关于形而上学命题的争议不必然是——而且在我们看来也不是——仅仅是言辞上的；它们不涉及英语单词“对象”，而是涉及一个完全普遍的本体论范畴的存在和范围。
+伞视图是否真实？在这里的争议可能仅仅是言辞上的，仅仅涉及如何使用“对象”这个词。[3] 然而，这并不完全正确。因此，为了澄清：伞视图涉及实质性的形而上学命题和语义命题。形而上学命题是说存在一个最广泛的本体论范畴，包括所有事物。语义命题是说“对象”——也许是根据规定——指的是这个最广泛的范畴。因此，关于伞视图的争议在某种程度上仅仅是言辞上的。在涉及语义命题时，它们仅仅是言辞上的。但是，关于形而上学命题的争议不必然是——而且在我们看来也不是——仅仅是言辞上的；它们不涉及英语单词“对象”，而是涉及一个完全普遍的本体论范畴的存在和范围。
 
 还要注意，伞视图的组成命题在逻辑上是独立的。首先，语义命题并不蕴含形而上学命题，就像语义命题“上帝”——根据定义——指的是一个最伟大的存在并不蕴含形而上学命题，即确实存在这样一个存在。其次，形而上学命题并不蕴含语义命题；存在一个最广泛的范畴并不蕴含它被任何一个词所指代，更不用说英语单词“对象”了。
 
@@ -54,7 +54,7 @@
 
 但是，从伞视图并不意味着关于对象类别什么都不能说。对于伞视图的支持者来说，对象与成为参考（参见条目）或思考的候选者之间显然存在着联系，即可以被引用或思考的东西（例如，罗素对“术语”的使用）。我们将在第 3.1 节中更详细地讨论这种联系以及它所暗示的对象性质的解释。
 
-最后，注意到可能有理由对任何完全一般的范畴（无论是通过“对象”、“事物”、“实体”或其他方式表达）持谨慎态度。也就是说，可能有理由对“伞观点”的形而上学连词表示怀疑。首先，与谈论或“量化”每一件事物相关的悖论和难题是存在的[4]。其次，任何完全一般的范畴都缺乏对比或补充。因此，它可能在分类、划分或分割方面显得无用——这是范畴的中心理论任务，人们可能会认为——从而引起怀疑，认为它没有理论上的用途。
+最后，注意到可能有理由对任何完全一般的范畴（无论是通过“对象”、“事物”、“实体”或其他方式表达）持谨慎态度。也就是说，可能有理由对“伞观点”的形而上学连词表示怀疑。首先，与谈论或“量化”每一件事物相关的悖论和难题是存在的 [4]。其次，任何完全一般的范畴都缺乏对比或补充。因此，它可能在分类、划分或分割方面显得无用——这是范畴的中心理论任务，人们可能会认为——从而引起怀疑，认为它没有理论上的用途。
 
 如果存在非对象，一些明显的话题可以追求，包括它们是什么以及它们的特点。在这里，我们可以借鉴形而上学家在不同项目中提出的各种区别。这些区别可能不完全对应于对象/非对象的划分，并且可能没有明确以这些术语来表述。但它们仍然可以揭示对象的对比或补充，并进而阐明对象范畴的含义。
 
@@ -72,7 +72,7 @@
 
 在考虑到这个身份假设的情况下，我们现在将调查一些关于事物/属性区别可能意味着什么以及它如何划分现实的理论。
 
-在本节中，我们的主题是事物/属性或对象/非对象（以下简称为“对象/属性”）的区别，而不是对象的确切性质（参见§3）或属性的性质。因此，我们将省略一些术语上的细节。我们不仅仅讨论以这些术语精确表述的对象/属性区别的理论，还将概述几种试图理解其他相关区别的尝试，尤其是物质/属性区别和普遍/特殊区别。
+在本节中，我们的主题是事物/属性或对象/非对象（以下简称为“对象/属性”）的区别，而不是对象的确切性质（参见 §3）或属性的性质。因此，我们将省略一些术语上的细节。我们不仅仅讨论以这些术语精确表述的对象/属性区别的理论，还将概述几种试图理解其他相关区别的尝试，尤其是物质/属性区别和普遍/特殊区别。
 
 罗素提供了关于对象/属性（在他的手中是“特殊/普遍”）的经典论述，以及描述它的各种方式：
 
@@ -94,7 +94,7 @@
 
 #### 1.2.3 对象是单一定位的；属性可以多重定位
 
-似乎许多属性在物体之间是共享的。我们的《对象：寻常之外》的副本具有相同的形状，克努特·罗克尼的头盔的金色色调与乔·蒙塔纳的相同。但《对象：寻常之外》并不只有一个多重定位的副本；有许多共享相同形状的副本。并不只有一个圣母大学橄榄球头盔；有数百个。这些书和头盔是众多的；它们的每个属性也许是一个。
+似乎许多属性在物体之间是共享的。我们的《对象：寻常之外》的副本具有相同的形状，克努特 · 罗克尼的头盔的金色色调与乔 · 蒙塔纳的相同。但《对象：寻常之外》并不只有一个多重定位的副本；有许多共享相同形状的副本。并不只有一个圣母大学橄榄球头盔；有数百个。这些书和头盔是众多的；它们的每个属性也许是一个。
 
 因此，人们可以区分对象和属性。对象仅限于一个时空区域，而属性则不受限制。大多数对象通过在这些区域具有部分而占据许多时空区域。因此，最好说对象只能完全位于一个区域，而属性可以完全位于许多不相交的区域。[9]
 
@@ -126,7 +126,7 @@
 
 #### 1.2.7 对象是未实例化的；属性是实例化的
 
-对象/属性对比的最终观点是认为属性是实例化的，而对象则不是。这可以说是语言观点在§1.2.1 中讨论的形而上学对应物，并享有类似的动机。实例化通常被认为是原始的，但对它可以说一些事情。在一种观点中，它是一个二元关系（参见关系条目），关系的两个元素是一个对象和一个属性，或者是一个属性和一个属性。在另一种观点中，它是一种“非关系性的联系”，将属性与对象和其他属性“粘合”在一起（参见，例如，斯特劳森 1959 年）。对象只能是实例化的事物；它们不能被实例化。相比之下，属性既可以实例化也可以被实例化。[13]
+对象/属性对比的最终观点是认为属性是实例化的，而对象则不是。这可以说是语言观点在 §1.2.1 中讨论的形而上学对应物，并享有类似的动机。实例化通常被认为是原始的，但对它可以说一些事情。在一种观点中，它是一个二元关系（参见关系条目），关系的两个元素是一个对象和一个属性，或者是一个属性和一个属性。在另一种观点中，它是一种“非关系性的联系”，将属性与对象和其他属性“粘合”在一起（参见，例如，斯特劳森 1959 年）。对象只能是实例化的事物；它们不能被实例化。相比之下，属性既可以实例化也可以被实例化。[13]
 
 ### 1.3 对比：对象 vs. 主体
 
@@ -148,7 +148,7 @@
 
 ## 2. 对象的范围
 
-关于对象类别，有一个问题需要问，即它包括哪些内容，即它的范围是什么？这就是范围问题。某些类别的范围是显而易见的。电子类别的范围是所有的电子而没有非电子。数字类别的范围是所有且仅有数字。复合物类别的范围是所有且仅有具有适当部分的事物[14]。对于某些类别，会出现一些困难的问题。其中一些问题涉及到某些事物是否属于该类别的范围，例如，教皇是否属于单身汉类别的范围？胎儿是否属于人类类别的范围？还有一些问题涉及到属于该类别的事物的性质。书籍类别的范围包括所有且仅有书籍。它是否包括电子书？它是否包括某个特定且备受喜爱的《物质存在》的副本，带有破损的页面和封面，或者是这个特定副本的抽象类型？回答范围问题会引发许多其他问题，其中一个问题是属于该范围的事物的性质。但是，知道哪些事物属于范围是弄清它们的性质的良好起点。
+关于对象类别，有一个问题需要问，即它包括哪些内容，即它的范围是什么？这就是范围问题。某些类别的范围是显而易见的。电子类别的范围是所有的电子而没有非电子。数字类别的范围是所有且仅有数字。复合物类别的范围是所有且仅有具有适当部分的事物 [14]。对于某些类别，会出现一些困难的问题。其中一些问题涉及到某些事物是否属于该类别的范围，例如，教皇是否属于单身汉类别的范围？胎儿是否属于人类类别的范围？还有一些问题涉及到属于该类别的事物的性质。书籍类别的范围包括所有且仅有书籍。它是否包括电子书？它是否包括某个特定且备受喜爱的《物质存在》的副本，带有破损的页面和封面，或者是这个特定副本的抽象类型？回答范围问题会引发许多其他问题，其中一个问题是属于该范围的事物的性质。但是，知道哪些事物属于范围是弄清它们的性质的良好起点。
 
 因此，对于范畴对象来说，一个重要的问题是哪些事物属于它的范围。这个问题会有各种不同的答案。根据是否存在对比类别，它会有各种不同的解释。如果对象没有对比类别，并且每个事物都属于它的范围——如果“伞形观点”的形而上学和语义学命题都是正确的——那么对象范围的问题等同于本体论问题（见下文）。如果对象有一个对比类别——如果“伞形观点”的形而上学和语义学命题中至少有一个是错误的——那么对象范围的问题就不等同于本体论问题。相反，它问道：“在所有存在的事物中，哪些是对象？”如果对象的对比类别是属性，那么范围问题就是：“有哪些不是属性的事物？”如果对比类别是普遍性，问题就是：“有哪些不是普遍性的事物？”如果对比类别没有被指定，并且从普通人接受的事物开始，那么范围问题就是：“有哪些普通对象？”
 
@@ -174,7 +174,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 其中一个理由可能源于虚无主义的经济性。达斯古普塔（2009 年）认为，对象（他称之为“个体”）在物理上是多余的，经验上是不可检测的。更准确地说，他认为，在过去 400 年考虑过的每个物理理论都暗示对象在物理上是多余的和经验上是不可检测的。它们在经验上是不可检测的，因为只有在个体事实上有所不同的两种情况是无法区分的。而且它们在物理上是多余的，因为只有在个体事实上有所不同的两个系统将继续只在这些事实上有所不同。而且在两个理论之间——唯一的区别是一个假设了在物理上多余和经验上不可检测的事物——我们应该选择那个不假设这些事物的理论。
 
-达斯古普塔说，如果没有个体，那么基本事实都是一般事实，比如∃xFx，∃x∃yGxy 等（参见达斯古普塔 2016 年）。但是在这些句子中，变量是指什么？个体？对象？为了回避这样的问题，我们必须构建一种不对对象进行量化的语言。达斯古普塔使用了一种谓词函数语言的版本，用谓词和定义的适应性替代个体。因此，我们不再有“x 是圆的”，“某物是圆的”或“某物爱某人”的说法，而是有“Round1 获得”，“cRound1 获得”和“ccLoves2 获得”。通过对所有句子进行系统处理，我们可以摒弃对对象的所有引用，用一般事态来替代它们。而且，由于个体在物理上是多余的且经验上是不可检测的，这是一件好事。
+达斯古普塔说，如果没有个体，那么基本事实都是一般事实，比如 ∃xFx，∃x∃yGxy 等（参见达斯古普塔 2016 年）。但是在这些句子中，变量是指什么？个体？对象？为了回避这样的问题，我们必须构建一种不对对象进行量化的语言。达斯古普塔使用了一种谓词函数语言的版本，用谓词和定义的适应性替代个体。因此，我们不再有“x 是圆的”，“某物是圆的”或“某物爱某人”的说法，而是有“Round1 获得”，“cRound1 获得”和“ccLoves2 获得”。通过对所有句子进行系统处理，我们可以摒弃对对象的所有引用，用一般事态来替代它们。而且，由于个体在物理上是多余的且经验上是不可检测的，这是一件好事。
 
 上述作者似乎都同意，如果可以用一种不对对象进行量化的逻辑来替代量化对象的一阶逻辑，或者可以将一阶逻辑的每个直观真句翻译成不对对象进行量化的另一种语言，那么本体论虚无主义就得到了证明。也就是说，如果可以给出每个句子的“本体论无罪”（即不对任何事物进行量化）释义，或者给出一个这样做的方案，那么本体论虚无主义就站稳了脚跟。
 
@@ -194,7 +194,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 #### 2.1.3 存在多元主义
 
-存在多元主义是认为存在不止一种事物的观点。毫无疑问，存在多元主义是标准观点，即使在形而上学家中也是如此。事实上，大多数人认为有很多事物。伞观点和存在多元主义的结合意味着存在不止一个对象。但是，如果一个人认为有很多事物，他可能也认为它们并不都是对象。因此，存在多元主义者可能希望将本体论问题与范围问题区分开来（对于他们来说，请参见§2.2）。
+存在多元主义是认为存在不止一种事物的观点。毫无疑问，存在多元主义是标准观点，即使在形而上学家中也是如此。事实上，大多数人认为有很多事物。伞观点和存在多元主义的结合意味着存在不止一个对象。但是，如果一个人认为有很多事物，他可能也认为它们并不都是对象。因此，存在多元主义者可能希望将本体论问题与范围问题区分开来（对于他们来说，请参见 §2.2）。
 
 ##### 名词主义
 
@@ -214,7 +214,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 #### 2.2.1 普通对象
 
-对于那些不接受伞观点的人来说，扩展问题与本体论问题是不同的。那么，扩展问题到底是什么？可以假设否定伞观点的人认为存在对象和非对象。换句话说，她对本体论问题的回答包括对象和其他事物。对于她来说，扩展问题是：在所有存在的事物中，哪些是对象？否定伞观点的人有各种将对象与非对象区分开的方式，我们在§1.2 中讨论过。
+对于那些不接受伞观点的人来说，扩展问题与本体论问题是不同的。那么，扩展问题到底是什么？可以假设否定伞观点的人认为存在对象和非对象。换句话说，她对本体论问题的回答包括对象和其他事物。对于她来说，扩展问题是：在所有存在的事物中，哪些是对象？否定伞观点的人有各种将对象与非对象区分开的方式，我们在 §1.2 中讨论过。
 
 另一种将对象与非对象区分开的方法不是先回答本体论问题，然后从所有事物中挑选出对象，也不是回答对比问题，然后将事物分为对象或其对比类别。相反，可以简单地从扩展问题开始，可以列出明显和普通的对象候选人（参见普通对象条目）。
 
@@ -226,7 +226,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 大多数考虑到扩展问题的人可能认为科学所涉及的物体中存在光子、电子、夸克等基本物理粒子。而这些物体似乎构成了其他物体，如原子、分子、元素、细胞等，一直到中等大小的干货、大楼、山脉和行星。
 
-因此，事物通常是由其他事物组成的。但是，在什么条件下会发生组合？范·因瓦根（1990）将此称为“特殊组合问题”（以下简称“SCQ”）。更准确地说，SCQ 要求填写以下句子中的Φ：对于任何 xs，存在一个 y，使得 xs 组成 y 当且仅当Φ。答案必须是非分析的，并且只能有“xs”自由。[21]
+因此，事物通常是由其他事物组成的。但是，在什么条件下会发生组合？范 · 因瓦根（1990）将此称为“特殊组合问题”（以下简称“SCQ”）。更准确地说，SCQ 要求填写以下句子中的 Φ：对于任何 xs，存在一个 y，使得 xs 组成 y 当且仅当 Φ。答案必须是非分析的，并且只能有“xs”自由。[21]
 
 这里有一些对于 SCQ 的候选答案。联系：'xs 之间有联系'。生命：'xs 被卷入了生活中'。部分论：'只有一个 xs'。整体论：'xs 的数量为一个或多个'。
 
@@ -252,7 +252,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 这三个例子抽离出高度抽象或一般性的角色-成为引用对象、被量化或被思考。这些角色是通过形式而非内容来指定的；仅仅角色本身对填充它们的事物种类施加了非常少的限制或要求。可以合理地说，无论是具体的物质对象还是抽象的命题都可能满足这些角色中的任何一个。这三个例子涉及到部分由于与思想或语言的联系而指定的角色。但是这些联系可能会被切断。例如，我们可以将对象角色指定为属性的承载者（这将是对 1.2.7 中讨论的观点的自然扩展，或者是对 1.2.1 中讨论的观点的非语言扩展）。
 
-而每个角色依次暗示了对象是什么的理论：（i）成为对象就是成为指称物，（ii）成为对象就是被量化，以及（iii）成为对象就是成为思维对象。[24]范·因瓦根在这里提供了（i）的一个版本（请注意“can”的使用，表明这是对象扮演的一种情态角色，即可能的指称物；我们在此假设“对象”和“事物”之间已经提到的紧密联系）：
+而每个角色依次暗示了对象是什么的理论：（i）成为对象就是成为指称物，（ii）成为对象就是被量化，以及（iii）成为对象就是成为思维对象。[24] 范 · 因瓦根在这里提供了（i）的一个版本（请注意“can”的使用，表明这是对象扮演的一种情态角色，即可能的指称物；我们在此假设“对象”和“事物”之间已经提到的紧密联系）：
 
 > 最一般的形而上学范畴是“事物”范畴。我使用“事物”作为最一般的可数名词。一切都是事物。事物是可以由第三人称单数代词指称的任何东西，就像当我说：“以下对一切事物都成立，即它与自身相同。”“事物”范畴包括一切存在的东西（因为我对不存在的东西持坚决的反梅农派立场：不存在的东西根本就不存在：它们的数量为 0）。 （2007：199）
 
@@ -266,13 +266,13 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 对某物的陈述-某物的本质或性质-可以采用多种形式。一个人说某物是什么；x 的真正定义可能是：成为 x 就是成为 y。或者一个类别 F 的真正定义：成为 F 就是成为 G。当一个人说：“成为单身汉就是成为未婚男性”，他正在给出单身汉的真正定义。
 
-另一种方式是说对于一个对象或类别来说什么是必要的，正如 Fine（1995）所建议的：对于 x 来说，Φ是必要的。或者，对于 Fs 来说，Φ是必要的。
+另一种方式是说对于一个对象或类别来说什么是必要的，正如 Fine（1995）所建议的：对于 x 来说，Φ 是必要的。或者，对于 Fs 来说，Φ 是必要的。
 
 无论如何，手头的任务不是写一篇关于真正定义是什么的部分，而是如何将这个概念与对象联系起来。
 
-如果一个人认为真正的定义最能揭示事物的本质，并且对于陈述对象或物体的本质感兴趣，那么有两种选择。一种是在以下句子中替换Φ：作为一个对象就是Φ。第二种是在以下句子中替换Φ：对于对象来说，Φ是必要的。
+如果一个人认为真正的定义最能揭示事物的本质，并且对于陈述对象或物体的本质感兴趣，那么有两种选择。一种是在以下句子中替换 Φ：作为一个对象就是 Φ。第二种是在以下句子中替换 Φ：对于对象来说，Φ 是必要的。
 
-注意这种方法与给出必要和充分条件的方法之间的区别：x 是一个对象当且仅当Φ。如果一个人心中有一个对比类别，那么可以假设将Φ替换为该对比类别的否定，例如，“x 是一个对象当且仅当 x 不是一个属性”。但这并不是作为一个对象的本质。真正的定义要求更多。
+注意这种方法与给出必要和充分条件的方法之间的区别：x 是一个对象当且仅当 Φ。如果一个人心中有一个对比类别，那么可以假设将 Φ 替换为该对比类别的否定，例如，“x 是一个对象当且仅当 x 不是一个属性”。但这并不是作为一个对象的本质。真正的定义要求更多。
 
 有人可能认为对象没有一个真正的定义。对比类别（例如属性）可能是一个自然类别，但对象不是。
 
@@ -302,7 +302,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 裸的个体在手头的理论中扮演着两个重要角色。首先，它们是属性的主体，或者是属性通过实例化或举例附着的项目。因此，奥尔斯顿：
 
-> 我们必须询问涉及这种关系的任何情况（例如，举例说明[绿色]）的关系是什么。其中之一是普遍的。另一个是什么？显然不能回答——一个 grum（定义为[绿色]的一个实例）；因为这等于说，问题中的关系是那个与[绿色]之间的实例关系相对应的东西；确实如此，但并不令人明白。它仍然没有回答问题——是什么与[绿色]之间的实例关系相对应？……唯一剩下的选择似乎是一个“裸”的个体，或者我更喜欢称之为基质。一旦我们看到需要提供一个与涉及的普遍性之间具有被举例的关系的实体，我们就可以看到只有一个裸的个体才能胜任这项工作。（1954 年：255）
+> 我们必须询问涉及这种关系的任何情况（例如，举例说明 [绿色]）的关系是什么。其中之一是普遍的。另一个是什么？显然不能回答——一个 grum（定义为 [绿色] 的一个实例）；因为这等于说，问题中的关系是那个与 [绿色] 之间的实例关系相对应的东西；确实如此，但并不令人明白。它仍然没有回答问题——是什么与 [绿色] 之间的实例关系相对应？……唯一剩下的选择似乎是一个“裸”的个体，或者我更喜欢称之为基质。一旦我们看到需要提供一个与涉及的普遍性之间具有被举例的关系的实体，我们就可以看到只有一个裸的个体才能胜任这项工作。（1954 年：255）
 
 其次，裸的个体使个体化。考虑两个在相关方面完全相同的对象（它们都是皇家蓝色，重 1 千克，等等）；是什么使它们成为两个而不是一个？什么可以解释它们的不同之处？由于它们在相关方面完全相同，似乎没有什么可以解释它们的不同之处的差异性的诉求（例如，皇家蓝色，重 1 千克，等等）。因此，裸的个体主义者认为，必须有非属性类的成分，使它们有所不同。[31]
 
@@ -314,7 +314,7 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 #### 3.2.2 关系本体论
 
-现在我们转向关系本体论。回想一下，组成本体论认为对象具有属性作为部分或组成部分。关系本体论接受对象和属性的扩展都不为空[33] - 但对于它们来说，没有对象有任何属性作为部分或组成部分。对象可以说是 Armstrong 所说的斑点（1989 年：76-77）。大多数关系本体论者会非常乐意说对象有部分 - 只是那些部分都是其他对象，而不是属性。
+现在我们转向关系本体论。回想一下，组成本体论认为对象具有属性作为部分或组成部分。关系本体论接受对象和属性的扩展都不为空 [33] - 但对于它们来说，没有对象有任何属性作为部分或组成部分。对象可以说是 Armstrong 所说的斑点（1989 年：76-77）。大多数关系本体论者会非常乐意说对象有部分 - 只是那些部分都是其他对象，而不是属性。
 
 ##### 对象作为斑点
 
@@ -336,267 +336,267 @@ Turner（2011）同意 Hawthorne 和 Cortens 的观点，即本体论虚无主�
 
 在类名义主义中，属性是事物的类或可能事物的类。绿色属性是所有绿色事物的类，聪明属性是所有聪明事物的类，姐妹关系是姐妹是有序对的类，其中第一个成员是第二个成员的姐妹，依此类推。[35]
 
-对于一个对象来拥有（或者举例，或者实例化，或者其他）一个属性，在这个观点中，就是它属于一类事物。类成员关系，就像集合成员关系一样，是一种外在关系；因此，类名义主义最适合于对对象的斑点视图。范·因瓦根（van Inwagen）解释了这种联系如下：
+对于一个对象来拥有（或者举例，或者实例化，或者其他）一个属性，在这个观点中，就是它属于一类事物。类成员关系，就像集合成员关系一样，是一种外在关系；因此，类名义主义最适合于对对象的斑点视图。范 · 因瓦根（van Inwagen）解释了这种联系如下：
 
 > 根据刘易斯（一个类名义主义者）的观点，属性是一组可能的对象。（如果一个集合的所有成员都是可能的对象，那么它就是一个属性。）刘易斯说，成为一只猪或者猪性的属性，就是所有可能的猪的集合——这个集合远远大于实际猪的集合。考虑一只实际的猪，弗雷迪。弗雷迪当然拥有猪性。那么，这个关系“拥有”是猪和属性之间的关系是什么呢？嗯，就是集合成员关系。而一组可能性对其个体成员的关系当然不是成分关系。弗雷迪在某种意义上无疑是所有可能的猪的成分——“成分”是一个非常灵活的词，它可能足够灵活以允许这种应用——，但是在任何可想象的意义上，所有可能的猪的集合都不是弗雷迪的成分。（2011 年：392-393）
 
 ## Bibliography
 
-* Addis, Laird, 1967, “Particulars and acquaintance”, *Philosophy of Science*, 34(3): 251–259. doi:10.1086/288156
+* Addis, Laird, 1967, “Particulars and acquaintance”, *Philosophy of Science*, 34(3): 251–259. doi: 10.1086/288156
 * Alston, William P., 1954, “Particulars: bare and qualified”, *Philosophy and Phenomenological Research*, 15(2): 253–258.
 * Aristotle, *Categories*, in *Aristotle’s ‘Categories’ and, ‘De interpretatione’*, translated with notes by J.L. Ackrill, Oxford: Clarendon Press, 1963.
 * Aristotle, *Metaphysics*, in *The Complete Works of Aristotle* (Revised Oxford Translation), J. Barnes (ed.), Princeton: Princeton University Press, 1984.
 * Armstrong, D.M., 1989, *Universals: An Opinionated Introduction*, Boulder, CO: Westview.
-* –––, 1997, *A World of States of Affairs*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511583308
-* Armstrong, David M., 2005, “Four disputes about properties”, *Synthese*, 144(3): 1–12. doi:10.1007/s11229-005-5852-7
-* Ayer, A.J., 1933, “On Particulars and Universals”, *Proceedings of the Aristotelian Society*, 34(1): 51–62. doi:10.1093/aristotelian/34.1.51
-* –––, 1952, “Individuals”, *Mind*, 61(244): 441–457. doi:10.1093/mind/LXI.244.441
+* –––, 1997, *A World of States of Affairs*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511583308
+* Armstrong, David M., 2005, “Four disputes about properties”, *Synthese*, 144(3): 1–12. doi: 10.1007/s11229-005-5852-7
+* Ayer, A.J., 1933, “On Particulars and Universals”, *Proceedings of the Aristotelian Society*, 34(1): 51–62. doi: 10.1093/aristotelian/34.1.51
+* –––, 1952, “Individuals”, *Mind*, 61(244): 441–457. doi: 10.1093/mind/LXI.244.441
 * Azzouni, Jody, 2017, *Ontology Without Borders*, Oxford: Oxford University Press.
 * Bacon, John, 1995, *Universals and Property Instances: The Alphabet of Being*, Oxford: Blackwell.
-* Bailey, Andrew M., 2012, “No Bare Particulars”, *Philosophical Studies*, 158(1): 31–41. doi:10.1007/s11098-010-9665-2
-* –––, 2015, “The Priority Principle”, *Journal of the American Philosophical Association*, 1(1): 163–174. doi:10.1017/apa.2014.12
+* Bailey, Andrew M., 2012, “No Bare Particulars”, *Philosophical Studies*, 158(1): 31–41. doi: 10.1007/s11098-010-9665-2
+* –––, 2015, “The Priority Principle”, *Journal of the American Philosophical Association*, 1(1): 163–174. doi: 10.1017/apa.2014.12
 * Bailey, Andrew M. & Andrew Brenner, 2020, “Why Composition Matters”, *Canadian Journal of Philosophy*, 50: 934–949.
 * Bailey, Andrew M. & S.M. Wilkins, 2018, *The Resurgence of Hylomorphism in Contemporary Philosophy*, Oxford Bibliographies in Philosophy.
-* Baker, Lynne Rudder, 2007, *The Metaphysics of Everyday Life: An Essay in Practical Realism*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487545
-* Baker, Robert, 1967, “Particulars: Bare, Naked, and Nude”, *Noûs*, 1(2): 211–212. doi:10.2307/2214588
-* Balaguer, Mark, 2020, “Why metaphysical debates are not merely verbal (or how to have a non-verbal metaphysical debate)”, *Synthese*, 197(3): 1181–1201. doi:10.1007/s11229-017-1375-2
+* Baker, Lynne Rudder, 2007, *The Metaphysics of Everyday Life: An Essay in Practical Realism*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511487545
+* Baker, Robert, 1967, “Particulars: Bare, Naked, and Nude”, *Noûs*, 1(2): 211–212. doi: 10.2307/2214588
+* Balaguer, Mark, 2020, “Why metaphysical debates are not merely verbal (or how to have a non-verbal metaphysical debate)”, *Synthese*, 197(3): 1181–1201. doi: 10.1007/s11229-017-1375-2
 * Barnes, Gordon P., 2003, “The Paradoxes of Hylomorphism”, *Review of Metaphysics*, 56(3): 501–523.
 * Bealer, George, 1982, *Quality and Concept*, Oxford: Clarendon Press.
-* –––, 1993, “Universals”, *Journal of Philosophy*, 60(1): 5–32. doi:10.2307/2940824
+* –––, 1993, “Universals”, *Journal of Philosophy*, 60(1): 5–32. doi: 10.2307/2940824
 * –––, 1998, “Universals and properties”, in Laurence & MacDonald 1998: 131–147.
-* Benovsky, Jiri, 2008, “The Bundle Theory and the Substratum Theory: Deadly Enemies or Twin Brothers?”, *Philosophical Studies*, 141(2): 175–190. doi:10.1007/s11098-007-9158-0
-* –––, 2010, “Relational and substantival ontologies, and the nature and the role of primitives in ontological theories”, *Erkenntnis*, 73(1): 101–121. doi:10.1007/s10670-010-9213-7
-* Bergmann, Gustav, 1947, “Russell on Particulars”, *Philosophical Review*, 56(1): 59–72. doi:10.2307/2182057
-* Berman, Scott, 2008, “Universals: Ways or Things?”, *Metaphysica*, 9(2): 219–234. doi:10.1007/s12133-008-0035-x
-* Black, Max, 1952, “The identity of indiscernibles”, *Mind*, 61(242): 153–164. doi:10.1093/mind/LXI.242.153
-* Bliss, Henry E., 1917, “The Subject-Object Relation”, *Philosophical Review*, 26(4): 395–408. doi:10.2307/2178486
-* Boolos, George, 1984, “To be is to be the value of a variable (or to be some values of some variables)”, *Journal of Philosophy*, 81(8): 430–449. doi:10.2307/2026308
-* Britton, Teresa, 2012, “The Limits of Hylomorphism”, *Metaphysica*, 13(2): 145–153. doi:10.1007/s12133-012-0099-5
-* Brower, Jeffrey E., 2014, *Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198714293.001.0001
+* Benovsky, Jiri, 2008, “The Bundle Theory and the Substratum Theory: Deadly Enemies or Twin Brothers?”, *Philosophical Studies*, 141(2): 175–190. doi: 10.1007/s11098-007-9158-0
+* –––, 2010, “Relational and substantival ontologies, and the nature and the role of primitives in ontological theories”, *Erkenntnis*, 73(1): 101–121. doi: 10.1007/s10670-010-9213-7
+* Bergmann, Gustav, 1947, “Russell on Particulars”, *Philosophical Review*, 56(1): 59–72. doi: 10.2307/2182057
+* Berman, Scott, 2008, “Universals: Ways or Things?”, *Metaphysica*, 9(2): 219–234. doi: 10.1007/s12133-008-0035-x
+* Black, Max, 1952, “The identity of indiscernibles”, *Mind*, 61(242): 153–164. doi: 10.1093/mind/LXI.242.153
+* Bliss, Henry E., 1917, “The Subject-Object Relation”, *Philosophical Review*, 26(4): 395–408. doi: 10.2307/2178486
+* Boolos, George, 1984, “To be is to be the value of a variable (or to be some values of some variables)”, *Journal of Philosophy*, 81(8): 430–449. doi: 10.2307/2026308
+* Britton, Teresa, 2012, “The Limits of Hylomorphism”, *Metaphysica*, 13(2): 145–153. doi: 10.1007/s12133-012-0099-5
+* Brower, Jeffrey E., 2014, *Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198714293.001.0001
 * Busuioc, Octavian, 2009, “Thinking Of Particulars”, *Florida Philosophical Review*, 9(1): 1–13.
-* Caplan, Ben & Bob Bright, 2005, “Fusions and Ordinary Physical Objects”, *Philosophical Studies*, 125(1): 61–83. doi:10.1007/s11098-005-7809-6
-* Carmichael, Chad, 2010, “Universals”, *Philosophical Studies*, 150(3): 373–389. doi:10.1007/s11098-009-9417-3
-* –––, 2015, “Deep Platonism”, *Philosophy and Phenomenological Research*, 92(2): 307–328. doi:10.1111/phpr.12190
-* Cartwright, Helen Morris., 1972, “Chappell on Stuff and Things”, *Noûs*, 6(4): 369–377. doi:10.2307/2214311
-* Casati, Riccardo, 2004, “Is the Object Concept Formal?”, *Dialectica*, 58(3): 383–394. doi:10.1111/j.1746-8361.2004.tb00312.x
-* Casullo, Albert, 1981, “Russell on the Reduction of Particulars”, *Analysis*, 41(4): 199–205. doi:10.1093/analys/41.4.199
-* –––, 1984, “The contingent identity of particulars and universals”, *Mind*, 93(372): 527–541. doi:10.1093/mind/XCIII.372.527
-* –––, 1988, “A Fourth Version of the Bundle Theory”, *Philosophical Studies*, 54(1): 125–139. doi:10.1007/BF00354181
-* Chalmers, David, 2011, “Verbal Disputes”, *Philosophical Review*, 120(4): 515–566. doi:10.1215/00318108-1334478
-* Chappell, V.C., 1971, “Stuff and Things”, *Proceedings of the Aristotelian Society*, 71(1): 61–76. doi:10.1093/aristotelian/71.1.61
-* Connolly, Niall, 2015, “Yes: Bare Particulars!”, *Philosophical Studies*, 172(5): 1355–1370. doi:10.1007/s11098-014-0353-5
-* Curtis, Benjamin L., 2014, “The Rumble in the Bundle”, *Noûs*, 48(2): 298–313. doi:10.1111/j.1468-0068.2012.00872.x
-* Dasgupta, Shamik, 2009, “Individuals: An essay in revisionary metaphysics”, *Philosophical Studies*, 145(1): 35–67. doi:10.1007/s11098-009-9390-x
-* –––, 2014, “The Possibility of Physicalism”, *Journal of Philosophy*, 111(9/10): 557–592. doi:10.5840/jphil20141119/1037
+* Caplan, Ben & Bob Bright, 2005, “Fusions and Ordinary Physical Objects”, *Philosophical Studies*, 125(1): 61–83. doi: 10.1007/s11098-005-7809-6
+* Carmichael, Chad, 2010, “Universals”, *Philosophical Studies*, 150(3): 373–389. doi: 10.1007/s11098-009-9417-3
+* –––, 2015, “Deep Platonism”, *Philosophy and Phenomenological Research*, 92(2): 307–328. doi: 10.1111/phpr.12190
+* Cartwright, Helen Morris., 1972, “Chappell on Stuff and Things”, *Noûs*, 6(4): 369–377. doi: 10.2307/2214311
+* Casati, Riccardo, 2004, “Is the Object Concept Formal?”, *Dialectica*, 58(3): 383–394. doi: 10.1111/j.1746-8361.2004.tb00312.x
+* Casullo, Albert, 1981, “Russell on the Reduction of Particulars”, *Analysis*, 41(4): 199–205. doi: 10.1093/analys/41.4.199
+* –––, 1984, “The contingent identity of particulars and universals”, *Mind*, 93(372): 527–541. doi: 10.1093/mind/XCIII.372.527
+* –––, 1988, “A Fourth Version of the Bundle Theory”, *Philosophical Studies*, 54(1): 125–139. doi: 10.1007/BF00354181
+* Chalmers, David, 2011, “Verbal Disputes”, *Philosophical Review*, 120(4): 515–566. doi: 10.1215/00318108-1334478
+* Chappell, V.C., 1971, “Stuff and Things”, *Proceedings of the Aristotelian Society*, 71(1): 61–76. doi: 10.1093/aristotelian/71.1.61
+* Connolly, Niall, 2015, “Yes: Bare Particulars!”, *Philosophical Studies*, 172(5): 1355–1370. doi: 10.1007/s11098-014-0353-5
+* Curtis, Benjamin L., 2014, “The Rumble in the Bundle”, *Noûs*, 48(2): 298–313. doi: 10.1111/j.1468-0068.2012.00872.x
+* Dasgupta, Shamik, 2009, “Individuals: An essay in revisionary metaphysics”, *Philosophical Studies*, 145(1): 35–67. doi: 10.1007/s11098-009-9390-x
+* –––, 2014, “The Possibility of Physicalism”, *Journal of Philosophy*, 111(9/10): 557–592. doi: 10.5840/jphil20141119/1037
 * –––, 2016, “Can We Do Without Fundamental Individuals? Yes”, in *Current Controversies in Metaphysics*, Elizabeth Barnes (ed.), New York: Routledge-Taylor & Francis, pp. 7–23.
-* Davis, Richard Brian, 2013a, “Are Bare Particulars Constituents?”, *Acta Analytica*, 28(4): 395–410. doi:10.1007/s12136-012-0178-9
-* –––, 2013b, “How to Individuate Universals—Or Not”, *Axiomathes*, 23(3): 551–566. doi:10.1007/s10516-012-9196-x
+* Davis, Richard Brian, 2013a, “Are Bare Particulars Constituents?”, *Acta Analytica*, 28(4): 395–410. doi: 10.1007/s12136-012-0178-9
+* –––, 2013b, “How to Individuate Universals—Or Not”, *Axiomathes*, 23(3): 551–566. doi: 10.1007/s10516-012-9196-x
 * deRosset, Louis, 2020, “What is Conservatism?”, *Analysis*, 80(3): 514–533.
-* Denkel, Arda, 1996, *Object and Property*, (Cambridge Studies in Philosophy), Cambridge University Press. doi:10.1017/CBO9780511554575
-* Duncan-Jones, Austin E., 1933, “Universals and Particulars”, *Proceedings of the Aristotelian Society*, 34(1): 63–86. doi:10.1093/aristotelian/34.1.63
-* Effingham, Nikk, 2015, “The Location of Properties”, *Noûs*, 49(4): 846–866. doi:10.1111/nous.12093
-* Ehring, Douglas, 2001, “Temporal Parts and Bundle Theory”, *Philosophical Studies*, 104(2): 163–168. doi:10.1023/A:1010327401920
-* –––, 2004, “Distinguishing Universals from Particulars”, *Analysis*, 64(4): 326–332. doi:10.1093/analys/64.4.326
-* –––, 2004, “Property Counterparts and Natural Class Trope Nominalism”, *Australasian Journal of Philosophy*, 82(3): 443–463. doi:10.1080/713659878
-* –––, 2011, *Tropes: Properties, Objects, and Mental Causation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608539.001.0001
+* Denkel, Arda, 1996, *Object and Property*, (Cambridge Studies in Philosophy), Cambridge University Press. doi: 10.1017/CBO9780511554575
+* Duncan-Jones, Austin E., 1933, “Universals and Particulars”, *Proceedings of the Aristotelian Society*, 34(1): 63–86. doi: 10.1093/aristotelian/34.1.63
+* Effingham, Nikk, 2015, “The Location of Properties”, *Noûs*, 49(4): 846–866. doi: 10.1111/nous.12093
+* Ehring, Douglas, 2001, “Temporal Parts and Bundle Theory”, *Philosophical Studies*, 104(2): 163–168. doi: 10.1023/A: 1010327401920
+* –––, 2004, “Distinguishing Universals from Particulars”, *Analysis*, 64(4): 326–332. doi: 10.1093/analys/64.4.326
+* –––, 2004, “Property Counterparts and Natural Class Trope Nominalism”, *Australasian Journal of Philosophy*, 82(3): 443–463. doi: 10.1080/713659878
+* –––, 2011, *Tropes: Properties, Objects, and Mental Causation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199608539.001.0001
 * Elder, Crawford L., 2004, *Real Natures and Familiar Objects*, Cambridge, MA: MIT Press.
-* –––, 2011, *Familiar Objects and Their Shadows*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511760129
-* Fine, Kit, 1992, “Aristotle on Matter”, *Mind*, 101(401): 35–57. doi:10.1093/mind/101.401.35
+* –––, 2011, *Familiar Objects and Their Shadows*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511760129
+* Fine, Kit, 1992, “Aristotle on Matter”, *Mind*, 101(401): 35–57. doi: 10.1093/mind/101.401.35
 * –––, 1994, “A Puzzle Concerning Matter and Form”, in *Unity, Identity and Explanation in Aristotle’s Metaphysics*, T. Scaltsas, D. Charles, and M.L. Gill (eds), Oxford: Clarendon Press, 13–40.
-* –––, 1995, “Ontological Dependence”, *Proceedings of the Aristotelian Society*, 95(1): 269–90. doi:10.1093/aristotelian/95.1.269
-* –––, 1999, “Things and their parts”, *Midwest Studies in Philosophy*, 23: 61–74. doi:10.1111/1475-4975.00004
-* –––, 2008, “Coincidence and Form”, *Aristotelian Society Supplementary Volume*, 82: 101–118. doi:10.1111/j.1467-8349.2008.00164.x
-* Frege, Gottlob, 1892 [1951], “On concept and object”, (P.T. Geach (trans.) and Max Black), *Mind*, 60(238): 168–180. doi:10.1093/mind/LX.238.168
+* –––, 1995, “Ontological Dependence”, *Proceedings of the Aristotelian Society*, 95(1): 269–90. doi: 10.1093/aristotelian/95.1.269
+* –––, 1999, “Things and their parts”, *Midwest Studies in Philosophy*, 23: 61–74. doi: 10.1111/1475-4975.00004
+* –––, 2008, “Coincidence and Form”, *Aristotelian Society Supplementary Volume*, 82: 101–118. doi: 10.1111/j.1467-8349.2008.00164.x
+* Frege, Gottlob, 1892 [1951], “On concept and object”, (P.T. Geach (trans.) and Max Black), *Mind*, 60(238): 168–180. doi: 10.1093/mind/LX.238.168
 * –––, 1891 [1960], “Function and Concept” (Über Funktion und Begriff), translated in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and Max Black (eds. and trans.), Oxford: Blackwell.
 * Freundlich, Yehudah, 1974, “Objects and their attributes: A physicist’s point of view”, *Foundations of Physics*, 4(1): 1–8.
-* Garcia, Robert K., 2015a, “Tropes as Character-Grounders”, *Australasian Journal of Philosophy*, 94(3): 499–515. doi:10.1080/00048402.2015.1106567
-* –––, 2015b, “Two Ways to Particularize a Property”, *Journal of the American Philosophical Association*, 1(4): 635–652. doi:10.1017/apa.2015.21
-* Giberman, Daniel, 2012, “Against zero-dimensional material objects (and other bare particulars)”, *Philosophical Studies*, 160(2): 305–321. doi:10.1007/s11098-011-9720-7
-* –––, 2015, “A Topological Theory of Fundamental Concrete Particulars”, *Philosophical Studies*, 172(10): 2679–2704. doi:10.1007/s11098-014-0432-7
-* Gilmore, Cody, 2003, “In Defence of Spatially Related Universals”, *Australasian Journal of Philosophy*, 81(3): 420–428. doi:10.1080/713659709
+* Garcia, Robert K., 2015a, “Tropes as Character-Grounders”, *Australasian Journal of Philosophy*, 94(3): 499–515. doi: 10.1080/00048402.2015.1106567
+* –––, 2015b, “Two Ways to Particularize a Property”, *Journal of the American Philosophical Association*, 1(4): 635–652. doi: 10.1017/apa.2015.21
+* Giberman, Daniel, 2012, “Against zero-dimensional material objects (and other bare particulars)”, *Philosophical Studies*, 160(2): 305–321. doi: 10.1007/s11098-011-9720-7
+* –––, 2015, “A Topological Theory of Fundamental Concrete Particulars”, *Philosophical Studies*, 172(10): 2679–2704. doi: 10.1007/s11098-014-0432-7
+* Gilmore, Cody, 2003, “In Defence of Spatially Related Universals”, *Australasian Journal of Philosophy*, 81(3): 420–428. doi: 10.1080/713659709
 * Goodman, Nelson, 1972, “A World of Individuals”, in his *Problems and Projects*, Indianapolis and New York: The Bobbs-Merrill Company, Inc., pp. 155–72.
 * Gyekye, Kwame, 1973, “An examination of the bundle-theory of substance”, *Philosophy and Phenomenological Research*, 34(1): 51–61.
-* Hacker, Peter, 2004, “Substance: Things and Stuffs”, *Aristotelian Society Supplementary Volume*, 78(1): 41–63. doi:10.1111/j.0309-7013.2004.00114.x
-* Harte, Verity, 2002, *Plato on Parts and Wholes*, Oxford: Clarendon Press. doi:10.1093/0198236751.001.0001
-* Hawthorne, John & Theodore Sider, 2002, “Locations”, *Philosophical Topics*, 30(1): 53–75. doi:10.5840/philtopics200230110
-* Heller, Mark, 1990, *The Ontology of Physical Objects: Four-Dimensional Hunks of Matter*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166409
+* Hacker, Peter, 2004, “Substance: Things and Stuffs”, *Aristotelian Society Supplementary Volume*, 78(1): 41–63. doi: 10.1111/j.0309-7013.2004.00114.x
+* Harte, Verity, 2002, *Plato on Parts and Wholes*, Oxford: Clarendon Press. doi: 10.1093/0198236751.001.0001
+* Hawthorne, John & Theodore Sider, 2002, “Locations”, *Philosophical Topics*, 30(1): 53–75. doi: 10.5840/philtopics200230110
+* Heller, Mark, 1990, *The Ontology of Physical Objects: Four-Dimensional Hunks of Matter*, (Cambridge Studies in Philosophy), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139166409
 * Hirsch, Eli, 1993, *Dividing Reality*, Oxford: Oxford University Press.
-* Hochberg, Herbert, 1995, “Particulars As Universals: Russell’s Ontological Assay of Particularity and Phenomenological Space-Time”, *Journal of Philosophical Research*, 20: 83–111. doi:10.5840/jpr_1995_24
-* –––, 1996, “Particulars, Universals and Russell’s Late Ontology”, *Journal of Philosophical Research*, 21: 129–137. doi:10.5840/jpr_1996_22
-* –––, 2004, “Russell and Ramsey on distinguishing between universals and particulars”, *Grazer Philosophische Studien*, 67(1): 195–207. doi:10.1163/18756735-90000829
+* Hochberg, Herbert, 1995, “Particulars As Universals: Russell’s Ontological Assay of Particularity and Phenomenological Space-Time”, *Journal of Philosophical Research*, 20: 83–111. doi: 10.5840/jpr_1995_24
+* –––, 1996, “Particulars, Universals and Russell’s Late Ontology”, *Journal of Philosophical Research*, 21: 129–137. doi: 10.5840/jpr_1996_22
+* –––, 2004, “Russell and Ramsey on distinguishing between universals and particulars”, *Grazer Philosophische Studien*, 67(1): 195–207. doi: 10.1163/18756735-90000829
 * Hoffman, Joshua & Gary Rosenkrantz, 1997, *Substance: Its Nature and Existence*, New York: Routledge.
-* Holdcroft, David, 1971, “Talking about particulars”, *Philosophical Books*, 12(2): 18–20. doi:10.1111/j.1468-0149.1971.tb00554.x
+* Holdcroft, David, 1971, “Talking about particulars”, *Philosophical Books*, 12(2): 18–20. doi: 10.1111/j.1468-0149.1971.tb00554.x
 * Horgan, Terry & Matjaž Potrč, 2000, “Blobjectivism and Indirect Correspondence”, *Facta Philosophica*, 2: 249–270.
 * –––, 2008, *Austere Realism: Contextual Semantics Meets Minimal Ontology*, Cambridge, MA: The MIT Press.
 * –––, 2012, “Existence monism trumps priority monism”, in Philip Goff (ed.), *Spinoza on Monism*, Hampshire: Palgrave Macmillan, 51–76.
-* Hoy, Ronald C., 1998, “Review: *Object and Property* by Denkel Arda”, *Dialogue*, 37(3): 613–614. doi:10.1017/S0012217300020643
-* Inman, Ross, 2014, “Neo-Aristotelian Plenitude”, *Philosophical Studies*, 168(3): 583–597. doi:10.1007/s11098-013-0144-4
+* Hoy, Ronald C., 1998, “Review: *Object and Property* by Denkel Arda”, *Dialogue*, 37(3): 613–614. doi: 10.1017/S0012217300020643
+* Inman, Ross, 2014, “Neo-Aristotelian Plenitude”, *Philosophical Studies*, 168(3): 583–597. doi: 10.1007/s11098-013-0144-4
 * Jacquette, Dale, 1999, “Abstract entity”, in Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*, second edition, Cambridge: Cambridge University Press, pp. 3–4.
-* Jaworski, William, 2014, “Hylomorphism and the Metaphysics of Structure”, *Res Philosophica*, 91(2): 179–201. doi:10.11612/resphil.2014.91.2.2
-* –––, 2016, *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198749561.001.0001
-* Jenkins, C.S.I., 2014, “Merely Verbal Disputes”, *Erkenntnis*, 79(S1): 11–30. doi:10.1007/s10670-013-9443-6
-* Johnston, Mark, 2006, “Hylomorphism”, *Journal of Philosophy*, 103(12): 652–698. doi:10.5840/jphil2006103125
+* Jaworski, William, 2014, “Hylomorphism and the Metaphysics of Structure”, *Res Philosophica*, 91(2): 179–201. doi: 10.11612/resphil.2014.91.2.2
+* –––, 2016, *Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198749561.001.0001
+* Jenkins, C.S.I., 2014, “Merely Verbal Disputes”, *Erkenntnis*, 79(S1): 11–30. doi: 10.1007/s10670-013-9443-6
+* Johnston, Mark, 2006, “Hylomorphism”, *Journal of Philosophy*, 103(12): 652–698. doi: 10.5840/jphil2006103125
 * Kates, Carol A., 1979, “The problem of universals: An empiricist account of ideal objects”, *Man and World*, 12(4): 465–485.
 * Kaufman, Daniel A., 2002, “Composite Objects and the Abstract/Concrete Distinction”, *Journal of Philosophical Research*, 27: 215–238.
-* Keyt, David, 1963, “Wittgenstein’s Notion of an Object”, *Philosophical Quarterly*, 13(50): 13–25. doi:10.2307/2217002
-* Kleinschmidt, Shieva, 2007, “Some Things About Stuff”, *Philosophical Studies*, 135(3): 407–423. doi:10.1007/s11098-007-9075-2
-* Klemke, E.D., 1960, “Universals and particulars in a phenomenalist ontology”, *Philosophy of Science*, 27(3): 254–261. doi:10.1086/287744
-* Kluge, Eike-Henner W., 1973, “Objects as Universals: A Re-appraisal of the *Tractatus*”, *Dialogue*, 12(1): 64–77. doi:10.1017/S0012217300027190
-* Koons, Robert, 2014, “Staunch vs. Faint-hearted Hylomorphism: Toward an Aristotelian Account of Composition”, *Res Philosophica*, 91(2): 151–177. doi:10.11612/resphil.2014.91.2.1
+* Keyt, David, 1963, “Wittgenstein’s Notion of an Object”, *Philosophical Quarterly*, 13(50): 13–25. doi: 10.2307/2217002
+* Kleinschmidt, Shieva, 2007, “Some Things About Stuff”, *Philosophical Studies*, 135(3): 407–423. doi: 10.1007/s11098-007-9075-2
+* Klemke, E.D., 1960, “Universals and particulars in a phenomenalist ontology”, *Philosophy of Science*, 27(3): 254–261. doi: 10.1086/287744
+* Kluge, Eike-Henner W., 1973, “Objects as Universals: A Re-appraisal of the *Tractatus*”, *Dialogue*, 12(1): 64–77. doi: 10.1017/S0012217300027190
+* Koons, Robert, 2014, “Staunch vs. Faint-hearted Hylomorphism: Toward an Aristotelian Account of Composition”, *Res Philosophica*, 91(2): 151–177. doi: 10.11612/resphil.2014.91.2.1
 * Koons, Robert C. & Timothy H. Pickavance, 2015, *Metaphysics: The Fundamentals*, Malden, MA: Wiley Blackwell.
 * Korman, Daniel Z., 2010, “Locke on Substratum: A Deflationary Interpretation”, *Locke Studies*, 10: 61–84.
-* –––, 2016, *Objects: Nothing Out of the Ordinary*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732532.001.0001
-* Korman, Daniel Z. & Chad Carmichael, 2016, “Composition”, *Oxford Handbooks Online*. doi:10.1093/oxfordhb/9780199935314.013.9
-* Koslicki, Kathrin, 2008, *The Structure of Objects*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199539895.001.0001
+* –––, 2016, *Objects: Nothing Out of the Ordinary*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732532.001.0001
+* Korman, Daniel Z. & Chad Carmichael, 2016, “Composition”, *Oxford Handbooks Online*. doi: 10.1093/oxfordhb/9780199935314.013.9
+* Koslicki, Kathrin, 2008, *The Structure of Objects*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199539895.001.0001
 * Koslicki, Kathryn, 2018, *Form, Matter, Substance*, Oxford: Oxford University Press.
-* Lafrance, J.D., 2015, “A bundle of universals theory of material objects”, *Philosophical Quarterly*, 65(259): 202–219. doi:10.1093/pq/pqu078
+* Lafrance, J.D., 2015, “A bundle of universals theory of material objects”, *Philosophical Quarterly*, 65(259): 202–219. doi: 10.1093/pq/pqu078
 * Laurence, Stephen & Cynthia MacDonald (eds.), 1998, *Contemporary Readings in the Foundations of Metaphysics*, Cambridge, MA: Blackwell.
-* Laycock, Henry, 1989, “Matter and Objecthood Disentangled”, *Dialogue*, 28(1): 17–22. doi:10.1017/S0012217300015560
+* Laycock, Henry, 1989, “Matter and Objecthood Disentangled”, *Dialogue*, 28(1): 17–22. doi: 10.1017/S0012217300015560
 * –––, 2005, “Mass nouns, Count nouns and Non-count nouns: Philosophical Aspects”, *Encyclopedia of Language and Linguistics*, second edition, Amsterdam: Elsevier, pp. 534–538
-* –––, 2006, *Words without Objects:* , Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
-* Lee, Seungil, forthcoming, “Bundle Theory and Weak Discernibility”, *Analytic Philosophy*, first online 10 January 2022. doi:10.1111/phib.12255
+* –––, 2006, *Words without Objects:* , Oxford: Oxford University Press. doi: 10.1093/0199281718.001.0001
+* Lee, Seungil, forthcoming, “Bundle Theory and Weak Discernibility”, *Analytic Philosophy*, first online 10 January 2022. doi: 10.1111/phib.12255
 * Le Bihan, Baptiste, 2015, “No Physical Particles for a Dispositional Monist?”, *Philosophical Papers*, 44(2): 207–232.
 * –––, 2016, “Super-Relationism: Combining Eliminativism about Objects and Relationism about Spacetime”, *Philosophical Studies*, 173(8): 2151–2172.
 * Lehrer, Keith & Vann McGee, 1992, “Particulars, Individual Qualities, and Universals”, in Kevin Mulligan (ed.), *Language, Truth and Ontology*, Dordrecht: Kluwer, 37–47.
-* Lewis, David, 1970, “How to Define Theoretical Terms”, *Journal of Philosophy*, 67(13): 427–446. doi:10.2307/2023861
-* –––, 1983, “New Work For a Theory of Universals”, *Australasian Journal of Philosophy*, 6(4): 343–377. doi:10.1080/00048408312341131
+* Lewis, David, 1970, “How to Define Theoretical Terms”, *Journal of Philosophy*, 67(13): 427–446. doi: 10.2307/2023861
+* –––, 1983, “New Work For a Theory of Universals”, *Australasian Journal of Philosophy*, 6(4): 343–377. doi: 10.1080/00048408312341131
 * –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
-* Long, Douglas C., 1968, “Particulars and their qualities”, *Philosophical Quarterly*, 18(72): 193–206. doi:10.2307/2218557
-* Losonsky, Michael, 1987, “Individuation and the Bundle Theory”, *Philosophical Studies*, 52(2): 191–198. doi:10.1007/BF00646455
+* Long, Douglas C., 1968, “Particulars and their qualities”, *Philosophical Quarterly*, 18(72): 193–206. doi: 10.2307/2218557
+* Losonsky, Michael, 1987, “Individuation and the Bundle Theory”, *Philosophical Studies*, 52(2): 191–198. doi: 10.1007/BF00646455
 * Loux, Michael J. (ed.), 1970, *Universals and Particulars: Readings in Ontology*, Notre Dame, IN: University of Notre Dame Press.
 * –––, 1998, “Beyond Substrata and Bundles”, in Laurence & MacDonald 1998: 233–248.
 * –––, 2006, “Aristotle’s Constituent Ontology”, in *Oxford Studies in Metaphysics*, vol. 2, Dean Zimmerman (ed.), Oxford: Oxford University Press.
-* Lowe, E.J., 1995, “The Metaphysics of Abstract Objects”, *Journal of Philosophy*, 92(10): 509–524. doi:10.2307/2940785
-* –––, 2000, “How are Ordinary Objects Possible?”, *The Monist*, 88(4): 510–533. doi:10.5840/monist200588431
+* Lowe, E.J., 1995, “The Metaphysics of Abstract Objects”, *Journal of Philosophy*, 92(10): 509–524. doi: 10.2307/2940785
+* –––, 2000, “How are Ordinary Objects Possible?”, *The Monist*, 88(4): 510–533. doi: 10.5840/monist200588431
 * –––, 2003, “Individuation”, in Michael J. Loux & Dean W. Zimmerman (eds.), *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press.
-* –––, 2004, “The particular-universal distinction: A reply to MacBride”, *Dialectica*, 58(3): 335–340. doi:10.1111/j.1746-8361.2004.tb00308.x
+* –––, 2004, “The particular-universal distinction: A reply to MacBride”, *Dialectica*, 58(3): 335–340. doi: 10.1111/j.1746-8361.2004.tb00308.x
 * –––, 2005, “Things”, *The Oxford Companion to Philosophy*, second edition, Oxford: Oxford University Press.
-* Ludwig, Jan, 1976, “‘Substance’ and ‘simple objects’ in Tractatus 2.02ff”, *Philosophical Studies*, 29(5): 307–318. doi:10.1007/BF00473440
-* MacBride, Fraser, 1998, “Where are particulars and universals?”, *Dialectica*, 52(3): 203–227. doi:10.1111/j.1746-8361.1998.tb00050.x
-* –––, 2004, “Whence the particular-universal distinction?”, *Grazer Philosophische Studien*, 67(1): 181–194. doi:10.1163/18756735-90000828
+* Ludwig, Jan, 1976, “‘Substance’ and ‘simple objects’ in Tractatus 2.02ff”, *Philosophical Studies*, 29(5): 307–318. doi: 10.1007/BF00473440
+* MacBride, Fraser, 1998, “Where are particulars and universals?”, *Dialectica*, 52(3): 203–227. doi: 10.1111/j.1746-8361.1998.tb00050.x
+* –––, 2004, “Whence the particular-universal distinction?”, *Grazer Philosophische Studien*, 67(1): 181–194. doi: 10.1163/18756735-90000828
 * –––, 2005a, “Ramsey on universals”, in Hallvard Lillehammer & D.H. Mellor (eds.), *Ramsey’s Legacy*, Oxford: Oxford University Press
-* –––, 2005b, “The particular-universal distinction: A dogma of metaphysics?”, *Mind*, 114(455): 565–614. doi:10.1093/mind/fzi565
+* –––, 2005b, “The particular-universal distinction: A dogma of metaphysics?”, *Mind*, 114(455): 565–614. doi: 10.1093/mind/fzi565
 * –––, 2006, “Subject and predicate”, in Barry C. Smith (ed.), *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press
 * –––, 2009, “Universals: the contemporary debate”, in Robin Le Poidevin, Peter Simons, Andrew McGonigal, Ross P. Cameron (eds), *The Routledge Companion to Metaphysics*, London: Routledge.
-* Manley, David, 2002, “Properties and Resemblance Classes”, *Noûs*, 36(1): 75–96. doi:10.1111/1468-0068.00361
-* Manning, Gideon, 2013, “The History of ‘Hylomorphism’”, *Journal of the History of Ideas*, 74(2): 173–187. doi:10.1353/jhi.2013.0018
-* Markosian, Ned, 1998, “Brutal Composition”, *Philosophical Studies*, 92(3): 211–249. doi:10.1023/A:1004267523392
+* Manley, David, 2002, “Properties and Resemblance Classes”, *Noûs*, 36(1): 75–96. doi: 10.1111/1468-0068.00361
+* Manning, Gideon, 2013, “The History of ‘Hylomorphism’”, *Journal of the History of Ideas*, 74(2): 173–187. doi: 10.1353/jhi.2013.0018
+* Markosian, Ned, 1998, “Brutal Composition”, *Philosophical Studies*, 92(3): 211–249. doi: 10.1023/A: 1004267523392
 * –––, 2000, “What are physical objects?”, *Philosophy and Phenomenological Research*, 61(2): 375–395.
-* –––, 2004, “Simples, Stuff, and Simple People”, *The Monist*, 87(3): 405–421. doi:10.5840/monist200487318
-* –––, 2015, “The Right Stuff”, *Australasian Journal of Philosophy*, 93(4): 665–687. doi:10.1080/00048402.2014.999001
-* Marmodoro, Anna, 2013, “Aristotle’s hylomorphism without reconditioning”, *Philosophical Inquiry*, 37(1–2): 5–22. doi:10.5840/philinquiry2013371/28
-* McDaniel, Kris, 2001, “Tropes and Ordinary Physical Objects”, *Philosophical Studies*, 104(3): 269–290. doi:10.1023/A:1010310503120
-* McGilvary, Evander Bradley, 1939a, “Relations in general and universals in particular. I”, *Journal of Philosophy*, 36(1): 5–15. doi:10.2307/2018232
-* –––, 1939b, “Relations in general and universals in particular. II”, *Journal of Philosophy*, 36(2): 29–40. doi:10.2307/2018642
-* McGrath, Matthew, 1998, “No Objects, No Problem?”, *Australasian Journal of Philosophy*, 83(4): 457–486. doi:10.1080/00048400500338609
-* McKay, Thomas, 2006, *Plural Predication*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278145.001.0001
+* –––, 2004, “Simples, Stuff, and Simple People”, *The Monist*, 87(3): 405–421. doi: 10.5840/monist200487318
+* –––, 2015, “The Right Stuff”, *Australasian Journal of Philosophy*, 93(4): 665–687. doi: 10.1080/00048402.2014.999001
+* Marmodoro, Anna, 2013, “Aristotle’s hylomorphism without reconditioning”, *Philosophical Inquiry*, 37(1–2): 5–22. doi: 10.5840/philinquiry2013371/28
+* McDaniel, Kris, 2001, “Tropes and Ordinary Physical Objects”, *Philosophical Studies*, 104(3): 269–290. doi: 10.1023/A: 1010310503120
+* McGilvary, Evander Bradley, 1939a, “Relations in general and universals in particular. I”, *Journal of Philosophy*, 36(1): 5–15. doi: 10.2307/2018232
+* –––, 1939b, “Relations in general and universals in particular. II”, *Journal of Philosophy*, 36(2): 29–40. doi: 10.2307/2018642
+* McGrath, Matthew, 1998, “No Objects, No Problem?”, *Australasian Journal of Philosophy*, 83(4): 457–486. doi: 10.1080/00048400500338609
+* McKay, Thomas, 2006, *Plural Predication*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199278145.001.0001
 * McKenzie, Kerry and F.A. Muller, 2017, “Bound states and the Special Composition Question”, in *EPSA15 Selected Papers: The 5th conference of the European Philosophy of Science Association*, Michela Massimi, Jan-Willem Romeijn & Gerhard Schurz (eds.), Düsseldorf: Springer.
 * Mellor, D.H. & Alex Oliver (eds.), 1997, *Properties*, Oxford: Oxford University Press.
-* Merricks, Trenton, 2001, *Objects and Persons*, Oxford: Oxford University Press. doi:10.1093/0199245363.001.0001
-* Miller, Barry, 1990, “Individuals and Individuality”, *Grazer Philosophische Studien*, 37: 75–91. doi:10.1163/18756735-90000426
-* Moltmann, Friederike, 2013, *Abstract Objects and the Semantics of Natural Language*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608744.001.0001
-* Moravcsik, Julius M.E., 1981, “Universals and particulars”, *Philosophia*, 10(3–4): 151–167. doi:10.1007/BF02380761
+* Merricks, Trenton, 2001, *Objects and Persons*, Oxford: Oxford University Press. doi: 10.1093/0199245363.001.0001
+* Miller, Barry, 1990, “Individuals and Individuality”, *Grazer Philosophische Studien*, 37: 75–91. doi: 10.1163/18756735-90000426
+* Moltmann, Friederike, 2013, *Abstract Objects and the Semantics of Natural Language*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199608744.001.0001
+* Moravcsik, Julius M.E., 1981, “Universals and particulars”, *Philosophia*, 10(3–4): 151–167. doi: 10.1007/BF02380761
 * Moreland, James Porter, 1998, “Theories of Individuation: A Reconsideration of Bare Particulars”, *Pacific Philosophical Quarterly*, 79(3): 251–263.
 * –––, 2001, *Universals*, Montreal: McGill-Queen’s University Press.
-* –––, 2013, “Exemplification and Constituent Realism: A Clarification and Modest Defense”, *Axiomathes*, 23(2): 247–259. doi:10.1007/s10516-011-9148-x
-* Moreland, J.P. & Timothy Pickavance, 2003, “Bare Particulars and Individuation: Reply to Mertz”, *Australasian Journal of Philosophy*, 81(1): 1–13. doi:10.1080/715690946
-* Morganti, Matteo, 2011, “Substrata and Properties: From Bare Particulars to Supersubstantivalism?”, *Metaphysica*, 12(2): 183–195. doi:10.1007/s12133-011-0085-3
-* Myers, C. Mason, 1973, “Universals and resembling particulars”, *Southern Journal of Philosophy*, 11(4): 291–298. doi:10.1111/j.2041-6962.1973.tb01144.x
-* Noone, Timothy B., 2003, “Universals and Individuation”, in Thomas Williams (ed.), *The Cambridge Companion to Duns Scotus*, Cambridge: Cambridge University Press, pp. 100–128. doi:10.1017/CCOL0521632056.004
-* Nounou, Antigone M., 2012, “Kinds of objects and varieties of properties”, in Elaine Landry & Dean Rickles (eds.), *Structural Realism: Structures, Objects and Causality*, (The Western Ontario Series in Philosophy of Science, 77), Dordrecht: Springer Netherlands, pp. 117–133. doi:10.1007/978-94-007-2579-9_6
-* Oaklander, L. Nathan, 1977, “Particulars, positional qualities, and individuation”, *Philosophy of Science*, 44(3): 478–490. doi:10.1086/288761
-* Oaklander, L. Nathan & Alicia Rothstein, 2000, “Loux on Particulars: Bare and Concrete”, *Modern Schoolman*, 78(1): 97–102. doi:10.5840/schoolman20007817
+* –––, 2013, “Exemplification and Constituent Realism: A Clarification and Modest Defense”, *Axiomathes*, 23(2): 247–259. doi: 10.1007/s10516-011-9148-x
+* Moreland, J.P. & Timothy Pickavance, 2003, “Bare Particulars and Individuation: Reply to Mertz”, *Australasian Journal of Philosophy*, 81(1): 1–13. doi: 10.1080/715690946
+* Morganti, Matteo, 2011, “Substrata and Properties: From Bare Particulars to Supersubstantivalism?”, *Metaphysica*, 12(2): 183–195. doi: 10.1007/s12133-011-0085-3
+* Myers, C. Mason, 1973, “Universals and resembling particulars”, *Southern Journal of Philosophy*, 11(4): 291–298. doi: 10.1111/j.2041-6962.1973.tb01144.x
+* Noone, Timothy B., 2003, “Universals and Individuation”, in Thomas Williams (ed.), *The Cambridge Companion to Duns Scotus*, Cambridge: Cambridge University Press, pp. 100–128. doi: 10.1017/CCOL0521632056.004
+* Nounou, Antigone M., 2012, “Kinds of objects and varieties of properties”, in Elaine Landry & Dean Rickles (eds.), *Structural Realism: Structures, Objects and Causality*, (The Western Ontario Series in Philosophy of Science, 77), Dordrecht: Springer Netherlands, pp. 117–133. doi: 10.1007/978-94-007-2579-9_6
+* Oaklander, L. Nathan, 1977, “Particulars, positional qualities, and individuation”, *Philosophy of Science*, 44(3): 478–490. doi: 10.1086/288761
+* Oaklander, L. Nathan & Alicia Rothstein, 2000, “Loux on Particulars: Bare and Concrete”, *Modern Schoolman*, 78(1): 97–102. doi: 10.5840/schoolman20007817
 * Oderberg, David S., 2007, *Real Essentialism*, New York: Routledge.
-* O’Leary-Hawthorne, John, 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, *Analysis*, 55(3): 191–196. doi:10.1093/analys/55.3.191
-* O’Leary-Hawthorne, John & Andrew Cortens, 1995, “Towards Ontological Nihilism”, *Philosophical Studies*, 79(2): 143–165. doi:10.1007/BF00989707
-* O’Leary-Hawthorne, John & J.A. Cover, 1998, “A World of Universals”, *Philosophical Studies*, 91(3): 205–219. doi:10.1023/A:1004276510940
-* Oliver, Alex, 1996, “The Metaphysics of Properties”, *Mind*, 105(417): 1–80. doi:10.1093/mind/105.417.1
+* O’Leary-Hawthorne, John, 1995, “The Bundle Theory of Substance and the Identity of Indiscernibles”, *Analysis*, 55(3): 191–196. doi: 10.1093/analys/55.3.191
+* O’Leary-Hawthorne, John & Andrew Cortens, 1995, “Towards Ontological Nihilism”, *Philosophical Studies*, 79(2): 143–165. doi: 10.1007/BF00989707
+* O’Leary-Hawthorne, John & J.A. Cover, 1998, “A World of Universals”, *Philosophical Studies*, 91(3): 205–219. doi: 10.1023/A: 1004276510940
+* Oliver, Alex, 1996, “The Metaphysics of Properties”, *Mind*, 105(417): 1–80. doi: 10.1093/mind/105.417.1
 * –––, 2005, “Abstract entities”, *The Oxford Companion to Philosophy*, second edition, Oxford: Oxford University Press.
 * Parsons, Terence, 1980, *Nonexistent Objects*, New Haven: Yale University Press.
-* –––, 1987, “Entities Without Identity”, *Philosophical Perspectives*, 1: 1–19. doi:10.2307/2214141
+* –––, 1987, “Entities Without Identity”, *Philosophical Perspectives*, 1: 1–19. doi: 10.2307/2214141
 * Pasnau, Robert, 2010, “Form and Matter”, in *The Cambridge History of Medieval Philosophy*, volume 2, Robert Pasnau (ed.), Cambridge: Cambridge University Press, 635–46.
-* –––, 2011, “Substratum”, in his *Metaphysical Themes 1274–1671*, Oxford: Oxford University Press, chapter 2. doi:10.1093/acprof:oso/9780199567911.003.0002
-* Paul, L.A., 2002, “Logical parts”, *Noûs*, 36(4): 578–596. doi:10.1111/1468-0068.00402
-* –––, 2012, “Building the World from Its Fundamental Constituents”, *Philosophical Studies*, 158(2): 221–256. doi:10.1007/s11098-012-9885-8
+* –––, 2011, “Substratum”, in his *Metaphysical Themes 1274–1671*, Oxford: Oxford University Press, chapter 2. doi: 10.1093/acprof: oso/9780199567911.003.0002
+* Paul, L.A., 2002, “Logical parts”, *Noûs*, 36(4): 578–596. doi: 10.1111/1468-0068.00402
+* –––, 2012, “Building the World from Its Fundamental Constituents”, *Philosophical Studies*, 158(2): 221–256. doi: 10.1007/s11098-012-9885-8
 * –––, 2017a, “Mereological bundle theory”, in Hans Burkhardt, Johanna Seibt & Guido Imaguire (eds.), *Handbook of Mereology*, Munich: Philosophia Verlag.
-* –––, 2017b, “A One Category Ontology”, in *Being, Freedom, and Method: Themes from Peter van Inwagen*, John A. Keller (ed.), Oxford: Oxford University Press, pp. 32–61. doi:10.1093/acprof:oso/9780198715702.003.0003
-* Pickavance, Timothy, 2009, “In defence of ‘partially clad’ bare particulars”, *Australasian Journal of Philosophy*, 87(1): 155–158. doi:10.1080/00048400802215570
+* –––, 2017b, “A One Category Ontology”, in *Being, Freedom, and Method: Themes from Peter van Inwagen*, John A. Keller (ed.), Oxford: Oxford University Press, pp. 32–61. doi: 10.1093/acprof: oso/9780198715702.003.0003
+* Pickavance, Timothy, 2009, “In defence of ‘partially clad’ bare particulars”, *Australasian Journal of Philosophy*, 87(1): 155–158. doi: 10.1080/00048400802215570
 * –––, 2014, “Bare Particulars and Exemplification”, *American Philosophical Quarterly*, 51(2): 95–108.
 * Peirce, Charles Sanders, 1931, *Collected Papers of Charles Sanders Peirce*, volume 1, Charles Hartshorne & Paul Weiss (eds), Cambridge, MA: Harvard University Press.
 * Plato, *Timaeus*, in *Plato: Complete Works*, J. M. Cooper and D. S. Hutchinson (eds.), Indianapolis: Hackett, 1997.
-* Preston, Aaron, 2005, “Quality Instances and the Structure of the Concrete Particular”, *Axiomathes*, 15(2): 267–292. doi:10.1007/s10516-004-6680-y
-* Priest, Graham., 2000, “Objects of Thought”, *Australasian Journal of Philosophy*, 78(4): 494–502. doi:10.1080/00048400012349761
+* Preston, Aaron, 2005, “Quality Instances and the Structure of the Concrete Particular”, *Axiomathes*, 15(2): 267–292. doi: 10.1007/s10516-004-6680-y
+* Priest, Graham., 2000, “Objects of Thought”, *Australasian Journal of Philosophy*, 78(4): 494–502. doi: 10.1080/00048400012349761
 * Quine, W.V., 1948, “On What There Is”, *Review of Metaphysics*, 2(1): 21–38.
-* –––, 1957, “Speaking of Objects”, *Proceedings and Addresses of the American Philosophical Association*, 31(3): 5–22. Reprinted in his *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969. doi:10.2307/3129242
-* Ramsey, F.P., 1925, “Universals”, *Mind*, 34(136): 401–417. doi:10.1093/mind/XXXIV.136.401
+* –––, 1957, “Speaking of Objects”, *Proceedings and Addresses of the American Philosophical Association*, 31(3): 5–22. Reprinted in his *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969. doi: 10.2307/3129242
+* Ramsey, F.P., 1925, “Universals”, *Mind*, 34(136): 401–417. doi: 10.1093/mind/XXXIV.136.401
 * Rayo, Augustin & Gabriel Uzquiano., 2006, *Absolute Generality*, Oxford: Oxford University Press.
-* Rea, Michael C., 1998, “Sameness without identity”, *Ratio* 11(2): 316–328. doi:10.1111/1467-9329.00073
-* –––, 2001, “How to be an Eleatic monist”, *Philosophical Perspectives* 15: 129–151. doi:10.1111/0029-4624.35.s15.7
+* Rea, Michael C., 1998, “Sameness without identity”, *Ratio* 11(2): 316–328. doi: 10.1111/1467-9329.00073
+* –––, 2001, “How to be an Eleatic monist”, *Philosophical Perspectives* 15: 129–151. doi: 10.1111/0029-4624.35.s15.7
 * –––, 2011, “Hylomorphism Reconditioned”, *Philosophical Perspectives*, 25(1): 341–358. doi: 10.1111/j.1520-8583.2011.00219.x
 * Rettler, Bradley, 2018, “Mereological Nihilism and Puzzles about Material Objects”, *Pacific Philosophical Quarterly*, 99(4): 842–868.
 * –––, forthcoming, “Properties as Truthmakers”, in *The Routledge Handbook on Properties*, Anna-Sofia Maurin and A.R.J. Fisher (eds.), London: Routledge.
-* Robinson, Howard, 2014, “Modern Hylomorphism and the Reality and Causal Power of Structure: A Skeptical Investigation”, *Res Philosophica*, 91(2): 203–214. doi:10.11612/resphil.2014.91.2.5
+* Robinson, Howard, 2014, “Modern Hylomorphism and the Reality and Causal Power of Structure: A Skeptical Investigation”, *Res Philosophica*, 91(2): 203–214. doi: 10.11612/resphil.2014.91.2.5
 * Rodriguez-Pereyra, Gonzalo, 2014, *Leibniz’s Principle of Identity of Indiscernibles*, Oxford: Oxford University Press.
 * Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press; reprinted, London: G. Allen & Unwin, 1937.
-* –––, 1911, “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12(1): 1–24. doi:10.1093/aristotelian/12.1.1
-* –––, 1918 [1985], “The Philosophy of Logical Atomism”, *The Monist*, 28(4): 495–527. Reprinted in *The Philosophy of Logical Atomism*, David Pears (ed.), LaSalle, IL: Open Court, 35–155. doi:10.5840/monist19182843
-* Sanford, David H., 1979, “Nostalgia for the Ordinary: Comments on Papers by Unger and Wheeler”, *Synthese*, 41(2): 175–184. doi:10.1007/BF00869570
-* –––, 1993, “The Problem of the Many, Many Composition Questions, and Naive Mereology”,*Noûs*, 27(2): 219–228. doi:10.2307/2215757
-* Sattig, Thomas, 2015, *The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199683017.001.0001
-* Saunders, Simon, 2006, “Are Quantum Particles Objects?”, *Analysis*, 66(1): 52–63. doi:10.1093/analys/66.1.52
-* Schaffer, Jonathan, 2007, “From Nihilism to Monism”, *Australasian Journal of Philosophy*, 85(2): 175–91. doi:10.1080/00048400701343150
-* –––, 2009, “Spacetime the One Substance”, *Philosophical Studies*, 145(1): 131–148. doi:10.1007/s11098-009-9386-6
-* –––, 2010a, “Monism: The Priority of the Whole”, *Philosophical Review*, 119(1): 31–76. doi:10.1215/00318108-2009-025
-* –––, 2010b, “The Internal Relatedness of All Things”, *Mind*, 119(474): 341–376. doi:10.1093/mind/fzq033
+* –––, 1911, “On the Relations of Universals and Particulars”, *Proceedings of the Aristotelian Society*, 12(1): 1–24. doi: 10.1093/aristotelian/12.1.1
+* –––, 1918 [1985], “The Philosophy of Logical Atomism”, *The Monist*, 28(4): 495–527. Reprinted in *The Philosophy of Logical Atomism*, David Pears (ed.), LaSalle, IL: Open Court, 35–155. doi: 10.5840/monist19182843
+* Sanford, David H., 1979, “Nostalgia for the Ordinary: Comments on Papers by Unger and Wheeler”, *Synthese*, 41(2): 175–184. doi: 10.1007/BF00869570
+* –––, 1993, “The Problem of the Many, Many Composition Questions, and Naive Mereology”, *Noûs*, 27(2): 219–228. doi: 10.2307/2215757
+* Sattig, Thomas, 2015, *The Double Lives of Objects: An Essay in the Metaphysics of the Ordinary World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199683017.001.0001
+* Saunders, Simon, 2006, “Are Quantum Particles Objects?”, *Analysis*, 66(1): 52–63. doi: 10.1093/analys/66.1.52
+* Schaffer, Jonathan, 2007, “From Nihilism to Monism”, *Australasian Journal of Philosophy*, 85(2): 175–91. doi: 10.1080/00048400701343150
+* –––, 2009, “Spacetime the One Substance”, *Philosophical Studies*, 145(1): 131–148. doi: 10.1007/s11098-009-9386-6
+* –––, 2010a, “Monism: The Priority of the Whole”, *Philosophical Review*, 119(1): 31–76. doi: 10.1215/00318108-2009-025
+* –––, 2010b, “The Internal Relatedness of All Things”, *Mind*, 119(474): 341–376. doi: 10.1093/mind/fzq033
 * Schmidt, M., 2005, “Can Bundle Theory Explain Individuation?”, *Organon F: Medzinárodný Časopis Pre Analytickú Filozofiu*, 12(1): 62–71.
 * Sellars, Wilfrid, 1952, “Particulars”, *Philosophy and Phenomenological Research*, 13(2): 184–199.
-* Shiver, Anthony, 2013, “Mereological bundle theory and the identity of indiscernibles”, *Synthese*, 191(5): 901–913. doi:10.1007/s11229-013-0298-9
-* Shoemaker, Sydney, 1988, “On What There Are”, *Philosophical Topics*, 16(1): 201–223. doi:10.5840/philtopics19881617
-* Sidelle, Alan, 2014, “Does Hylomorphism Offer a Distinctive Solution to the Grounding Problem?”, *Analysis*, 74(3): 397–404. doi:10.1093/analys/anu034
-* Sider, Theodore, 2006, “‘Bare particulars’”, *Philosophical Perspectives*, 20(1): 387–397. doi:10.1111/j.1520-8583.2006.00112.x
-* Simons, Peter, 1991, “Ramsey, Particulars, and Universals”, *Theoria*, 57(3): 150–161. doi:10.1111/j.1755-2567.1991.tb00835.x
+* Shiver, Anthony, 2013, “Mereological bundle theory and the identity of indiscernibles”, *Synthese*, 191(5): 901–913. doi: 10.1007/s11229-013-0298-9
+* Shoemaker, Sydney, 1988, “On What There Are”, *Philosophical Topics*, 16(1): 201–223. doi: 10.5840/philtopics19881617
+* Sidelle, Alan, 2014, “Does Hylomorphism Offer a Distinctive Solution to the Grounding Problem?”, *Analysis*, 74(3): 397–404. doi: 10.1093/analys/anu034
+* Sider, Theodore, 2006, “‘Bare particulars’”, *Philosophical Perspectives*, 20(1): 387–397. doi: 10.1111/j.1520-8583.2006.00112.x
+* Simons, Peter, 1991, “Ramsey, Particulars, and Universals”, *Theoria*, 57(3): 150–161. doi: 10.1111/j.1755-2567.1991.tb00835.x
 * –––, 1994, “Particulars in particular clothing: Three trope theories of substance”, *Philosophy and Phenomenological Research*, 54(3): 553–575.
 * Spencer, Joshua, 2019, “On the Explanatory Demands of the Special Composition Question”, *Synthese*, 198(18): 4375–4388.
-* Stebbing, L. Susan, 1924, “Universals and Professor Whitehead’s Theory of Objects”, *Proceedings of the Aristotelian Society*, 25: 305–330. doi:10.1093/aristotelian/25.1.305
-* Strawson, P.F., 1954, “Particular and General”, *Proceedings of the Aristotelian Society*, 54: 233–260. doi:10.1093/aristotelian/54.1.233
+* Stebbing, L. Susan, 1924, “Universals and Professor Whitehead’s Theory of Objects”, *Proceedings of the Aristotelian Society*, 25: 305–330. doi: 10.1093/aristotelian/25.1.305
+* Strawson, P.F., 1954, “Particular and General”, *Proceedings of the Aristotelian Society*, 54: 233–260. doi: 10.1093/aristotelian/54.1.233
 * –––, 1959, *Individuals: An Essay in Descriptive Metaphysics*, London: Methuen.
 * Swenson, Philip, and Bradley Rettler, “Bundle Theory and the Identity of Indiscernibles”, *Res Philosophica*, 96(4): 495–508.
 * Thomasson, Amie L., 1997, “Ontological Categories and How to Use Them”, *Electronic Journal of Analytic Philosophy*, 5. URL = <http://ejap.louisiana.edu/EJAP/1997.spring/thomasson976.html>
 * –––, 2008, “Categories”, *The Stanford Encyclopedia of Philosophy* (Fall 2008), Edward N. Zalta (ed.), URL = <[Categories (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/categories/).
-* –––, 2006, “Metaphysical Arguments Against Ordinary Objects”, *Philosophical Quarterly*, 56(224): 340–359. doi:10.1111/j.1467-9213.2006.00446.x
-* –––, 2007, *Ordinary Objects*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195319910.001.0001
-* –––, 2015, *Ontology Made Easy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199385119.001.0001
+* –––, 2006, “Metaphysical Arguments Against Ordinary Objects”, * Philosophical Quarterly*, 56(224): 340–359. doi: 10.1111/j.1467-9213.2006.00446.x
+* –––, 2007, * Ordinary Objects*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195319910.001.0001
+* –––, 2015, * Ontology Made Easy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199385119.001.0001
 * –––, 2017, “Metaphysical Disputes and Metalinguistic Negotiation”, Analytic Philosophy 58: 1–28.
-* Thompson, Manley, 1965, “Abstract Entities and Universals”, *Mind*, 74(295): 365–381. doi:10.1093/mind/LXXIV.295.365
-* Toner, Patrick, 2010, “On Substance”, *American Catholic Philosophical Quarterly*, 84(1): 25–48. doi:10.5840/acpq20108412
-* –––, 2013, “On Aristotelianism and Structures as Parts”, *Ratio*, 26(2): 148–161. doi:10.1111/rati.12003
-* Tugendhat, Ernst, 1976 [1982], *Traditional and analytical philosophy: Lectures on the philosophy of language* (*Vorlesungen zur Einführung in die sprachanalytische Philosophie* ), Cambridge: Cambridge University Press. doi:10.1017/CBO9781316535608
-* Turner, Jason, 2011, “Ontological Nihilism”, in Karen Bennett & Dean W. Zimmerman (eds.), *Oxford Studies in Metaphysics*, volume 6, Oxford: Oxford University Press, 3–54.
-* Van Cleve, James, 1985, “Three Versions of the Bundle Theory”, *Philosophical Studies*, 47(1): 95–107. doi:10.1007/BF00355089
-* van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
-* –––, 1998, “Meta-Ontology”, *Erkenntnis*, 48(2–3): 233–250. doi:10.1023/A:1005323618026
-* –––, 2001, “It is Nonsensical to Speak of the *Total Number of Objects*”, in *Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖbvetHpt Verlagsgesellschaft, pp. 61–71.
-* –––, 2004, “A Theory of Properties”, *Oxford Studies in Metaphysics*, 1: 107–138.
-* –––, 2007, “A Materialist Ontology of the Human Person” in *Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds), Oxford: Oxford University Press.
-* –––, 2009, “Being, Existence, and Ontological Commitment”, *Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 472–506.
-* –––, 2011, “Relational vs. Constituent Ontologies”, *Philosophical Perspectives*, 25(1): 389–405. doi:10.1111/j.1520-8583.2011.00221.x
-* –––, 2021, “What is an Ontological Category?”, *Disputatio*, 10(16): 241–261.
-* –––, 2023, *Being: A Study in Ontology*, *Oxford*: Oxford University Press.
-* Varzi, Achille C., 2002, “Words and Objects”, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), *Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
-* Ward, Thomas M., 2014, *John Duns Scotus on Parts, Wholes, and Hylomorphism*, Leiden: Brill.
-* Waechter, Jonas and James Ladyman, 2019, “In Defence of Ordinary Objects and a Naturalistic Answer to the Special Composition Question”, in *The Nature of Ordinary Objects*, Javier Cumpa & Bill Brewer (eds.), New York: Cambridge University Press.
-* Westerhoff, Jan, 2005, *Ontological Categories: Their Nature and Significance*, Oxford: Clarendon. doi:10.1093/acprof:oso/9780199285044.001.0001
-* Wetzel, L., 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: MIT Press.
-* Wheeler, Samuel C., 1979, “On That Which is Not”, *Synthese*, 41(2): 155–173. doi:10.1007/BF00869569
-* Wieland, Jan Willem, 2008, “What problem of universals?”, *Philosophica*, 81: 7–21. [[Wieland 2008 available online](http://www.philosophica.ugent.be/fulltexts/81-2.pdf)]
-* Wildman, Nathan, 2015, “Load bare-ing particulars”, *Philosophical Studies*, 172(6): 1419–1434. doi:10.1007/s11098-014-0356-2
-* Williams, Donald C., 1953, “The Elements of Being”, *Review of Metaphysics*, 7(1): 3–18 and 7(2): 171–192.
-* Williamson, Timothy, 2002, “Necessary Existents”. in *Logic, Thought and Language*, A. O’Hear (ed.), Cambridge: Cambridge University Press. pp. 233–251.
-* –––, 2003, “Everything”, *Philosophical Perspectives* 17: 415–465. doi:10.1111/j.1520-8583.2003.00017.x
-* Wolterstorff, Nicholas, 1970, “Bergmann’s Constituent Ontology”, *Noûs*, 4(2): 109–134. doi:10.2307/2214317
-* Zimmerman, Dean W., 1995, “Theories of Masses and Problems of Constitution”, *Philosophical Review*, 104(1): 53–110. doi:10.2307/2186012
-* –––, 1997a, “Coincident Objects: Could a ‘Stuff Ontology’ Help?” *Analysis*, 57(1): 19–27. doi:10.1093/analys/57.1.19
-* –––, 1997b, “Distinct Indiscernibles and the Bundle Theory”, *Mind*, 106(422): 305–309. doi:10.1093/mind/106.422.305
+* Thompson, Manley, 1965, “Abstract Entities and Universals”, * Mind*, 74(295): 365–381. doi: 10.1093/mind/LXXIV.295.365
+* Toner, Patrick, 2010, “On Substance”, * American Catholic Philosophical Quarterly*, 84(1): 25–48. doi: 10.5840/acpq20108412
+* –––, 2013, “On Aristotelianism and Structures as Parts”, * Ratio*, 26(2): 148–161. doi: 10.1111/rati.12003
+* Tugendhat, Ernst, 1976 [1982], * Traditional and analytical philosophy: Lectures on the philosophy of language * (* Vorlesungen zur Einführung in die sprachanalytische Philosophie* ), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316535608
+* Turner, Jason, 2011, “Ontological Nihilism”, in Karen Bennett & Dean W. Zimmerman (eds.), * Oxford Studies in Metaphysics*, volume 6, Oxford: Oxford University Press, 3–54.
+* Van Cleve, James, 1985, “Three Versions of the Bundle Theory”, * Philosophical Studies*, 47(1): 95–107. doi: 10.1007/BF00355089
+* van Inwagen, Peter, 1990, * Material Beings*, Ithaca, NY: Cornell University Press.
+* –––, 1998, “Meta-Ontology”, * Erkenntnis*, 48(2–3): 233–250. doi: 10.1023/A: 1005323618026
+* –––, 2001, “It is Nonsensical to Speak of the * Total Number of Objects *”, in * Metaphysik im postmetaphysichen Zeitalter/Metaphysics in the post-metaphysical age*, (Schriftenreihe der Wittgenstein-Gesellschaft, 28), Uwe Meixner (ed.), Wien: ÖbvetHpt Verlagsgesellschaft, pp. 61–71.
+* –––, 2004, “A Theory of Properties”, * Oxford Studies in Metaphysics*, 1: 107–138.
+* –––, 2007, “A Materialist Ontology of the Human Person” in * Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds), Oxford: Oxford University Press.
+* –––, 2009, “Being, Existence, and Ontological Commitment”, * Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 472–506.
+* –––, 2011, “Relational vs. Constituent Ontologies”, * Philosophical Perspectives*, 25(1): 389–405. doi: 10.1111/j.1520-8583.2011.00221.x
+* –––, 2021, “What is an Ontological Category?”, * Disputatio*, 10(16): 241–261.
+* –––, 2023, * Being: A Study in Ontology *, * Oxford*: Oxford University Press.
+* Varzi, Achille C., 2002, “Words and Objects”, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), * Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
+* Ward, Thomas M., 2014, * John Duns Scotus on Parts, Wholes, and Hylomorphism*, Leiden: Brill.
+* Waechter, Jonas and James Ladyman, 2019, “In Defence of Ordinary Objects and a Naturalistic Answer to the Special Composition Question”, in * The Nature of Ordinary Objects*, Javier Cumpa & Bill Brewer (eds.), New York: Cambridge University Press.
+* Westerhoff, Jan, 2005, * Ontological Categories: Their Nature and Significance*, Oxford: Clarendon. doi: 10.1093/acprof: oso/9780199285044.001.0001
+* Wetzel, L., 2009, * Types and Tokens: On Abstract Objects*, Cambridge, MA: MIT Press.
+* Wheeler, Samuel C., 1979, “On That Which is Not”, * Synthese*, 41(2): 155–173. doi: 10.1007/BF00869569
+* Wieland, Jan Willem, 2008, “What problem of universals?”, * Philosophica*, 81: 7–21. [[Wieland 2008 available online](http://www.philosophica.ugent.be/fulltexts/81-2.pdf)]
+* Wildman, Nathan, 2015, “Load bare-ing particulars”, * Philosophical Studies*, 172(6): 1419–1434. doi: 10.1007/s11098-014-0356-2
+* Williams, Donald C., 1953, “The Elements of Being”, * Review of Metaphysics*, 7(1): 3–18 and 7(2): 171–192.
+* Williamson, Timothy, 2002, “Necessary Existents”. in * Logic, Thought and Language*, A. O’Hear (ed.), Cambridge: Cambridge University Press. pp. 233–251.
+* –––, 2003, “Everything”, * Philosophical Perspectives* 17: 415–465. doi: 10.1111/j.1520-8583.2003.00017.x
+* Wolterstorff, Nicholas, 1970, “Bergmann’s Constituent Ontology”, * Noûs*, 4(2): 109–134. doi: 10.2307/2214317
+* Zimmerman, Dean W., 1995, “Theories of Masses and Problems of Constitution”, * Philosophical Review*, 104(1): 53–110. doi: 10.2307/2186012
+* –––, 1997a, “Coincident Objects: Could a ‘Stuff Ontology’ Help?” * Analysis*, 57(1): 19–27. doi: 10.1093/analys/57.1.19
+* –––, 1997b, “Distinct Indiscernibles and the Bundle Theory”, * Mind*, 106(422): 305–309. doi: 10.1093/mind/106.422.305
 
 ## Academic Tools
 

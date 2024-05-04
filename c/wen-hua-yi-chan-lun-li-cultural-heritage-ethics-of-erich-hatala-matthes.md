@@ -26,7 +26,7 @@
 
 从本质上讲，“遗产”的概念通常被理解为从过去继承的东西（在文化遗产的情况下，是文化；Harrison 2009: 9; Prott & O’Keefe 1992: 311）。对当代环境中遗产被运用和解释的方式范围越来越关注，这导致强调过去被用于现在目的作为遗产定义本身的一个重要方面（Harrison 2013: 14; Smith 2006: 44; Ashworth, Graham, & Tunbridge 2007: 3）。对遗产这一方面的认识开辟了对遗产概念的批判和重新解释的途径（Lowenthal 1998）。通过展示遗产如何被用于现在的目的，我们可以识别可能在过去未被注意到的隐含评价假设。特别是，学者们开始区分“官方”和“非官方”遗产（Harrison 2013: 14–15）。
 
-“官方遗产”的概念特别受到劳拉简·史密斯对她所称之为“授权遗产话语”的分析的影响（史密斯，2006 年）。这是我们从博物馆、国家纪念碑和其他机构认可的遗产理解中熟悉的呈现方式，比如联合国教科文组织世界遗产名录。因此，“官方遗产”经常被政府和文化机构用来围绕过去的某个方面培育民族或世界性身份认同感。正如史密斯总结的那样：
+“官方遗产”的概念特别受到劳拉简 · 史密斯对她所称之为“授权遗产话语”的分析的影响（史密斯，2006 年）。这是我们从博物馆、国家纪念碑和其他机构认可的遗产理解中熟悉的呈现方式，比如联合国教科文组织世界遗产名录。因此，“官方遗产”经常被政府和文化机构用来围绕过去的某个方面培育民族或世界性身份认同感。正如史密斯总结的那样：
 
 > 这种主导的西方话语强调物质性、纪念性、宏伟性、时间深度、美学以及历史和文化中的所有“好”的方面（史密斯，2010 年：63）。
 
@@ -168,7 +168,7 @@
 
 文化挪用的错误性的一个潜在来源是可能会冒犯文化群体成员。如果这是错误的文化挪用的唯一解释，那么情况相对较弱：认为挪用是错误的表面理由可能很容易被任何数量的道德上重要的相抵因素所击败。虽然可能存在一般的反对毫无必要地冒犯他人的假设，但事实上，任何事情都可能引起某人的冒犯，这使得普通的冒犯似乎相对容易被证明是合理的。
 
-如果我们认为文化挪用不仅仅会引起简单的冒犯，而且可能引起乔尔·费恩伯格所称的深刻冒犯，那么文化挪用的错误性就变得更加重要：“对一个人道德感知的冒犯……[这]侵犯了一个人的核心价值观或自我感”（杨 2005: 135）。尽管文化挪用可能是深刻冒犯的，因此有理由认为它是错误的表面理由，但人们仍然可能认为，考虑到行为的其他道德相关特征，比如其社会价值、言论自由的价值、行为的时间和地点、它被群体成员容忍的程度以及冒犯的合理程度（杨 2005），文化挪用可能在所有方面都是道德上允许的。鉴于价值观和感知的多样性，深刻冒犯的潜在性在社会生活的许多领域都是巨大的。虽然在什么情况下上述特征击败了认为深刻冒犯的挪用是错误的表面理由是值得争论的，但在许多情况下，人们通常认为深刻冒犯被其他价值所抵消，这表明文化挪用通常在所有方面都是道德上允许的（杨 2005: 138）。事实上，人们可能认为文化挪用是文化发展的一个重要方面，实际上是文化创造力和交流的一个有益方面（杨 2008；罗杰斯 2006；海德 2003）。
+如果我们认为文化挪用不仅仅会引起简单的冒犯，而且可能引起乔尔 · 费恩伯格所称的深刻冒犯，那么文化挪用的错误性就变得更加重要：“对一个人道德感知的冒犯……[这] 侵犯了一个人的核心价值观或自我感”（杨 2005: 135）。尽管文化挪用可能是深刻冒犯的，因此有理由认为它是错误的表面理由，但人们仍然可能认为，考虑到行为的其他道德相关特征，比如其社会价值、言论自由的价值、行为的时间和地点、它被群体成员容忍的程度以及冒犯的合理程度（杨 2005），文化挪用可能在所有方面都是道德上允许的。鉴于价值观和感知的多样性，深刻冒犯的潜在性在社会生活的许多领域都是巨大的。虽然在什么情况下上述特征击败了认为深刻冒犯的挪用是错误的表面理由是值得争论的，但在许多情况下，人们通常认为深刻冒犯被其他价值所抵消，这表明文化挪用通常在所有方面都是道德上允许的（杨 2005: 138）。事实上，人们可能认为文化挪用是文化发展的一个重要方面，实际上是文化创造力和交流的一个有益方面（杨 2008；罗杰斯 2006；海德 2003）。
 
 #### 4.2.2 伤害
 
@@ -200,7 +200,7 @@
 
 在道德层面上，有人可能担心反对文化挪用会以一种方式使文化群体边界实体化，这种方式可能会排除边缘或边缘化的群体成员，或构建文化真实性的漫画甚至压迫性概念（Killmister 2011; Rogers 2006; Shelby 2002: 249–54）。这可能会产生与文化挪用本身相同类型的有害文化误认（Matthes 2016a: 355–358）。
 
-这两组异议恰当地体现在艾伦·帕顿对多元文化主义的“本质主义困境”中：
+这两组异议恰当地体现在艾伦 · 帕顿对多元文化主义的“本质主义困境”中：
 
 > 要么文化以“本质主义”方式被理解，这种情况下多元文化主义在经验和道德上存在缺陷；要么文化以非本质主义方式被理解，但这个概念不再为多元文化主义提供进行重要的经验判断和规范主张的手段（帕顿 2014 年：39 页）。
 
@@ -214,7 +214,7 @@
 
 这种观点中所代表的自然与文化之间的明显区别受到了来自多方的批评，原因包括对环境价值持过于狭隘的观点，以及忽视人类对环境的实际历史和现实影响的程度（Cronon 1995；O’Neill 2002；Scoville 2013；Heyd 2005）。话虽如此，我们可能会认同 Elliot 所指出的重要环境价值，前提是我们不要犯认为这是唯一价值的错误（Matthes 2016b）。当然，这将显著减弱 Elliot 关于环境恢复前景的规范性结论的力量。但对自然与文化之间区别的更加细致的理解，即认识到一个更广泛的光谱而不是严格的二分法，仍然可以提供理由去培养对自然自主性或“自发性”的尊重，并且理由去保护和维护这一自然遗产（Heyd 2005: 345）。其他环境保护方法也利用了环境的遗产价值，尽管强调了这一遗产的文化维度以及“自然”维度。
 
-例如，一个人可能会认为，认识到环境是我们文化遗产的一部分可以为保护它提供独特的理由或义务（Thompson 2000a）。例如，将环境的某些方面视为我们祖先文化传承的一部分可能会为保护环境作为代际社会契约的一部分提供理由（Thompson 2000a,b）；或者，因为“特定地点对个人和社区都很重要，因为它们体现了他们的历史和文化身份”（O’Neill, Holland, & Light 2008: 2–3），我们可能认为我们对环境保护和决策的方法应该在一定程度上受到指导，即“从过去到现在最适当的轨迹是什么？”（O’Neill, Holland, & Light 2008: 156）；或者，我们可能会认识到
+例如，一个人可能会认为，认识到环境是我们文化遗产的一部分可以为保护它提供独特的理由或义务（Thompson 2000a）。例如，将环境的某些方面视为我们祖先文化传承的一部分可能会为保护环境作为代际社会契约的一部分提供理由（Thompson 2000a, b）；或者，因为“特定地点对个人和社区都很重要，因为它们体现了他们的历史和文化身份”（O’Neill, Holland, & Light 2008: 2–3），我们可能认为我们对环境保护和决策的方法应该在一定程度上受到指导，即“从过去到现在最适当的轨迹是什么？”（O’Neill, Holland, & Light 2008: 156）；或者，我们可能会认识到
 
 > 土著民族长期以来一直主张，保护和恢复本土物种、培育第一食物以及维护精神实践需要具有特定遗传血统的植物和动物的存在，他们的生活与生态、经济和文化上重要的故事、知识和记忆交织在一起（Whyte 2017）.
 
@@ -240,126 +240,126 @@
 
 ## Bibliography
 
-* Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism”, *The Journal of Political Philosophy*, 12(3): 291–313. doi:10.1111/j.1467-9760.2004.00201.x
+* Abizadeh, Arash, 2004, “Historical Truth, National Myths and Liberal Democracy: On the Coherence of Liberal Nationalism”, *The Journal of Political Philosophy*, 12(3): 291–313. doi: 10.1111/j.1467-9760.2004.00201.x
 * Anderson, Elizabeth, 1995, *Value in Ethics and Economics*, Cambridge, MA: Harvard University Press.
 * Appiah, Kwame Anthony, 1994, *Race, Culture, Identity: Misunderstood Connections*, (The Tanner Lectures on Human Values), University of California at San Diego. [[Appiah 1994 available online](https://philpapers.org/rec/APPRCI)]
 * –––, 2006, “Whose Culture Is It, Anyway?”, in his *Cosmopolitanism*, New York, London: W. W. Norton & Company, 115–135.
 * Arntzen, Sven, 2008, “The Complex Cultural Landscape: Humans and the Land, Preservation and Change”, in *Humans in the Land: The Ethics and Aesthetics of the Cultural Landscape*, edited by Emily Brady and Sven Antzen, Oslo: Oslo Academic Press, Unipub Norway.
 * Ashworth, G. J., Brian Graham, and J. E. Tunbridge, 2007, *Pluralising Pasts: Heritage, Identity and Place in Multicultural Societies*, London and Ann Arbor: Pluto Press.
 * Benhabib, Seyla, 2002, *The Claims of Culture: Equality and Diversity in the Global Era*, Princeton, NJ: Princeton University Press.
-* Björnberg, Karin Edvardsson, 2014, “Historic Injustices and the Moral Case for Cultural Repatriation”, *Ethical Theory and Moral Practice*, 18(3): 461–474. doi:10.1007/s10677-014-9530-z
-* Boxill, Bernard R., 2003, “A Lockean Argument for Black Reparations”, *The Journal of Ethics*, 7(1): 63–91. doi:10.1023/A:1022826929393
+* Björnberg, Karin Edvardsson, 2014, “Historic Injustices and the Moral Case for Cultural Repatriation”, *Ethical Theory and Moral Practice*, 18(3): 461–474. doi: 10.1007/s10677-014-9530-z
+* Boxill, Bernard R., 2003, “A Lockean Argument for Black Reparations”, *The Journal of Ethics*, 7(1): 63–91. doi: 10.1023/A: 1022826929393
 * Brown, Michael F., 2003, *Who Owns Native Culture?*, Cambridge, MA: Harvard University Press.
-* –––, 2005, “Heritage Trouble: Recent Work on the Protection of Intangible Cultural Property”, *International Journal of Cultural Property*, 12: 40–61. doi:10.1017/S0940739105050010
+* –––, 2005, “Heritage Trouble: Recent Work on the Protection of Intangible Cultural Property”, *International Journal of Cultural Property*, 12: 40–61. doi: 10.1017/S0940739105050010
 * –––, 2009, “Exhibiting Indigenous Heritage in the Age of Cultural Property”, in *Whose Culture? The Promise of Museums and the Debate over Antiquities*, edited by James Cuno. Princeton, NJ: Princeton University Press.
-* Butt, Daniel, 2009, *Rectifying International Injustice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199218240.001.0001
+* Butt, Daniel, 2009, *Rectifying International Injustice*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199218240.001.0001
 * Carpenter, Kristen A., Sonia K. Katyal, and Angela R. Riley, 2009, “In Defense of Property”, *The Yale Law Journal*, 118(6): 1022–1125. [[Carpenter et al. 2009 available online](https://papers.ssrn.com/abstract=1220665)]
 * Child, Brenda J, 1998, *Boarding School Seasons: American Indian Families, 1900–1940*, Lincoln, NE: University of Nebraska Press.
-* Cleere, Henry, 1996, “The concept of ‘outstanding universal value’ in the World Heritage Convention”, *Conservation and Management of Archaeological Sites*, 1(4): 227–233. doi:10.1179/135050396793139042
-* Coleman, Elizabeth Burns, 2001, “Aboriginal Painting: Identity and Authenticity”, *The Journal of Aesthetics and Art Criticism*, 59(4): 385–402. doi:10.1111/0021-8529.00040
-* –––, 2006, “Cultural Property and Collective Identity”, in *Returning (to) Communities: Theory, Culture and Political Practice of the Communal*, edited by Stefan Herbrechter and Michael Higgins, Netherlands: Brill, 161–171. doi:10.1163/9789004325623_011
+* Cleere, Henry, 1996, “The concept of ‘outstanding universal value’ in the World Heritage Convention”, *Conservation and Management of Archaeological Sites*, 1(4): 227–233. doi: 10.1179/135050396793139042
+* Coleman, Elizabeth Burns, 2001, “Aboriginal Painting: Identity and Authenticity”, *The Journal of Aesthetics and Art Criticism*, 59(4): 385–402. doi: 10.1111/0021-8529.00040
+* –––, 2006, “Cultural Property and Collective Identity”, in *Returning (to) Communities: Theory, Culture and Political Practice of the Communal*, edited by Stefan Herbrechter and Michael Higgins, Netherlands: Brill, 161–171. doi: 10.1163/9789004325623_011
 * –––, 2010, “Repatriation and the Concept of Inalienable Possession”, in *The Long Way Home*, edited by Paul Turnbull and Michael Pickering, Berghan Books, 82–95.
-* Coleman, Elizabeth Burns, Rosemary J. Coombe, and Fiona MacArailt, 2012, “A Broken Record: Subjecting ‘Music’ to Cultural Rights”, in Young and Brunk 2012: 173–210. doi:10.1002/9781444311099.ch8
-* Coombe, Rosemary J., 1993, “The Properties of Culture and the Politics of Possessing Identity: Native Claims in the Cultural Appropriation Controversy”, *Canadian Journal of Law and Jurisprudence*, 6(2): 249–285. doi:10.1017/S0841820900001922
+* Coleman, Elizabeth Burns, Rosemary J. Coombe, and Fiona MacArailt, 2012, “A Broken Record: Subjecting ‘Music’ to Cultural Rights”, in Young and Brunk 2012: 173–210. doi: 10.1002/9781444311099.ch8
+* Coombe, Rosemary J., 1993, “The Properties of Culture and the Politics of Possessing Identity: Native Claims in the Cultural Appropriation Controversy”, *Canadian Journal of Law and Jurisprudence*, 6(2): 249–285. doi: 10.1017/S0841820900001922
 * Cowen, Tyler, 2002, *Creative Destruction: How Globalization is Changing the World’s Cultures*, Princeton, NJ: Princeton University Press.
 * Cronon, William, 1995, “The Trouble with Wilderness; or, Getting Back to the Wrong Nature”, in *Uncommon Ground: Rethinking the Human Place in Nature*, edited by William Cronon, New York: W. W. Norton & Co.
 * Cuno, James, 2001, “Museums and the Acquisition of Antiquities”, *Cardozo Arts & Entertainment Law Journal*, 19(1): 83–96. [[Cuno 2001 available online](http://www.cardozoaelj.com/wp-content/uploads/2013/05/James-Cuno-Museums-and-the-Acquisition-of-Antiquities.pdf)]
-* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi:10.1111/j.1527-2001.2011.01177.x
-* Eaton, A. W. and Ivan Gaskell, 2012, “Do Subaltern Artifacts Belong in Art Museums?”, in Young and Brunk 2012: 235–267. doi:10.1002/9781444311099.ch10
-* Elliot, Robert, 1982, “Faking Nature”, *Inquiry*, 25(1): 81–93. doi:10.1080/00201748208601955
-* Figueroa, Robert Melchior and Gordon Waitt, 2010, “Climb: Restorative Justice, Environmental Heritage, and the Moral Terrains of Uluru-Kata Tjuta National Park”, *Environmental Philosophy*, 7(2): 135–163. doi:10.5840/envirophil20107219
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford and New York: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Gaskell, Ivan, 2008, “Ethical Judgments in Museums”, in *Art and Ethical Criticism*, edited by Garry L. Hagberg, Oxford: Blackwell Publishing, 229–242. doi:10.1002/9781444302813.ch10
+* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi: 10.1111/j.1527-2001.2011.01177.x
+* Eaton, A. W. and Ivan Gaskell, 2012, “Do Subaltern Artifacts Belong in Art Museums?”, in Young and Brunk 2012: 235–267. doi: 10.1002/9781444311099.ch10
+* Elliot, Robert, 1982, “Faking Nature”, *Inquiry*, 25(1): 81–93. doi: 10.1080/00201748208601955
+* Figueroa, Robert Melchior and Gordon Waitt, 2010, “Climb: Restorative Justice, Environmental Heritage, and the Moral Terrains of Uluru-Kata Tjuta National Park”, *Environmental Philosophy*, 7(2): 135–163. doi: 10.5840/envirophil20107219
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford and New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
+* Gaskell, Ivan, 2008, “Ethical Judgments in Museums”, in *Art and Ethical Criticism*, edited by Garry L. Hagberg, Oxford: Blackwell Publishing, 229–242. doi: 10.1002/9781444302813.ch10
 * Harding, Sarah, 1997, “Justifying Repatriation of Native American Cultural Property”, *Indiana Law Journal*, 72(3): 723–774. [[Harding 1997 available online](https://www.repository.law.indiana.edu/ilj/vol72/iss3/4)]
 * –––, 1999, “Value, Obligation and Cultural Heritage”, *Arizona State Law Journal*, 31: 291–354. [[Harding 1999 available online](https://scholarship.kentlaw.iit.edu/fac_schol/274)]
 * Harjo, Suzan Shown, 1996, “Introduction”, in *Mending the Circle: A Native American Repatriation Guide*, New York: American Indian Ritual Object Repatriation Foundation.
 * Harrison, Rodney, 2009, “Chapter 1: What is Heritage?”, in *Understanding the Politics of Heritage*, edited by Rodney Harrison, Manchester, UK: Manchester University Press.
 * –––, 2013, *Heritage: Critical Approaches*, New York: Routledge.
-* –––, 2015, “Beyond ‘Natural’ and ‘Cultural’ Heritage: Toward an Ontological Politics of Heritage in the Age of Anthropocene”, *Heritage and Society*, 8(1): 24–42. doi:10.1179/2159032X15Z.00000000036
-* Heyd, Thomas, 2003, “Rock Art Aesthetics and Cultural Appropriation”, *The Journal of Aesthetics and Art Criticism*, 61(1): 37–46. doi:10.1111/1540-6245.00090
-* –––, 2005, “Nature, Culture, and Natural Heritage: Toward a Culture of Nature”, *Environmental Ethics*, 27(4): 339–354. doi:10.5840/enviroethics20052742
+* –––, 2015, “Beyond ‘Natural’ and ‘Cultural’ Heritage: Toward an Ontological Politics of Heritage in the Age of Anthropocene”, *Heritage and Society*, 8(1): 24–42. doi: 10.1179/2159032X15Z.00000000036
+* Heyd, Thomas, 2003, “Rock Art Aesthetics and Cultural Appropriation”, *The Journal of Aesthetics and Art Criticism*, 61(1): 37–46. doi: 10.1111/1540-6245.00090
+* –––, 2005, “Nature, Culture, and Natural Heritage: Toward a Culture of Nature”, *Environmental Ethics*, 27(4): 339–354. doi: 10.5840/enviroethics20052742
 * Hladki, Janice, 1994, “Problematizing the Issue of Cultural Appropriation”, *Alternate Routes*, 11: 95–119. [[Hladki 1994 available online](http://www.alternateroutes.ca/index.php/ar/article/view/20307)]
-* Holland, Alan, 2011, “Why it is Important to Take Account of History”, *Ethics, Policy & Environment*, 14(3): 377–392. doi:10.1080/21550085.2011.605866
-* Hollowell, Julie, 2006, “Moral Arguments on Subsistence Digging”, in Scarre and Scarre 2006: 69–94. doi:10.1017/CBO9780511817656.005
-* Hourdequin, Marion and David G. Havlick, 2011, “Ecological Restoration in Context: Ethics and the Naturalization of Former Military Lands”, *Ethics, Policy & Environment*, 14(1): 69–89. doi:10.1080/13668791003778891
-* ––– (eds), 2016, *Restoring Layered Landscapes: History, Ecology, and Culture*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190240318.001.0001
+* Holland, Alan, 2011, “Why it is Important to Take Account of History”, *Ethics, Policy & Environment*, 14(3): 377–392. doi: 10.1080/21550085.2011.605866
+* Hollowell, Julie, 2006, “Moral Arguments on Subsistence Digging”, in Scarre and Scarre 2006: 69–94. doi: 10.1017/CBO9780511817656.005
+* Hourdequin, Marion and David G. Havlick, 2011, “Ecological Restoration in Context: Ethics and the Naturalization of Former Military Lands”, *Ethics, Policy & Environment*, 14(1): 69–89. doi: 10.1080/13668791003778891
+* ––– (eds), 2016, *Restoring Layered Landscapes: History, Ecology, and Culture*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190240318.001.0001
 * Hurka, Thomas, 1999, “Should Whites Write About Minorities?”, in his *Principles: Short Essays on Ethics*, Toronto: Harcourt Brace.
-* Ireland, Tracy and John Schofield, 2015, “The Ethics of Cultural Heritage”, in *The Ethics of Cultural Heritage*, edited by Tracy Ireland and John Schofield, New York: Springer, 1–10. doi:10.1007/978-1-4939-1649-8_1
-* James, Simon P., 2013, “Why Old Things Matter”, *Journal of Moral Philosophy*, 12(3): 313–329, doi:10.1163/17455243-4681038
+* Ireland, Tracy and John Schofield, 2015, “The Ethics of Cultural Heritage”, in *The Ethics of Cultural Heritage*, edited by Tracy Ireland and John Schofield, New York: Springer, 1–10. doi: 10.1007/978-1-4939-1649-8_1
+* James, Simon P., 2013, “Why Old Things Matter”, *Journal of Moral Philosophy*, 12(3): 313–329, doi: 10.1163/17455243-4681038
 * Jeffers, Chike, 2015, “The Ethics and Politics of Cultural Preservation”, *Journal of Value Inquiry*, 49(1–2): 205–220. doi:/10.1007/s10790-014-9470-9
 * Joyce, Richard, 2003, “Cultural Treasures and Slippery Slopes”, *Public Affairs Quarterly*, 17(1): 1–16.
 * Keeshig-Tobias, Lenore, 1990, “The Magic of Others”, in *Language in Her Eye: Views on Writing and Gender by Canadian Women Writing in English*, edited by Libby Scheier, Sarah Sheard and Eleanor Wachtel, Toronto: Coach House Press.
 * Kersel, Morag M. and Christina Luke, 2015, “Civil Societies? Heritage Diplomacy and Neo-Imperialism”, in *Global Heritage: A Reader*, edited by Lynn Meskell, Chichester: John Wiley & Sons, Inc.
-* Killmister, Suzy, 2011, “Group-Differentiated Rights and the Problem of Membership”, *Social Theory and Practice*, 37(2): 227–255. doi:10.5840/soctheorpract201137214
-* Korsmeyer, Carolyn, 2016, “Real Old Things”, *British Journal of Aesthetics*, 56(3): 219–231. doi:10.1093/aesthj/ayw032
-* Lackey, Douglas P., 2006, “Ethics and Native American Reburials: A Philosopher’s View of Two Decades Of NAGPRA”, in Scarre and Scarre 2006: 146–162. doi:10.1017/CBO9780511817656.009
-* Lackey, Jennifer, 2017, “Group Assertion”, *Erkenntnis*, 83(1): 21–42. doi:10.1007/s10670-016-9870-2
-* Lee, Alex, Adam Perou Hermans, and Benjamin Hale, 2014, “Restoration, Obligation, and the Baseline Problem”, *Environmental Ethics*, 36(2): 171–186. doi:10.5840/enviroethics201436217.
-* Liberto, Hallie, 2014, “Exploitation and the Vulnerability Clause”, *Ethical Theory and Moral Practice*, 17(4): 619–629. doi:10.1007/s10677-014-9494-z
-* Lindsay, Peter, 2012, “Can We Own the Past? Cultural Artifacts as Public Goods”, *Critical Review of International Social and Political Philosophy*, 15(1): 1–17. doi:10.1080/13698230.2011.583533
-* Logan, William S., 2007, “Closing Pandora’s Box: Human Rights Conundrums in Cultural Heritage Protection”, in *Cultural Heritage and Human Rights*, edited by Helaine Silverman and D. Fairchild Ruggles, New York: Springer, 33–52. doi:10.1007/978-0-387-71313-7_2
+* Killmister, Suzy, 2011, “Group-Differentiated Rights and the Problem of Membership”, *Social Theory and Practice*, 37(2): 227–255. doi: 10.5840/soctheorpract201137214
+* Korsmeyer, Carolyn, 2016, “Real Old Things”, *British Journal of Aesthetics*, 56(3): 219–231. doi: 10.1093/aesthj/ayw032
+* Lackey, Douglas P., 2006, “Ethics and Native American Reburials: A Philosopher’s View of Two Decades Of NAGPRA”, in Scarre and Scarre 2006: 146–162. doi: 10.1017/CBO9780511817656.009
+* Lackey, Jennifer, 2017, “Group Assertion”, *Erkenntnis*, 83(1): 21–42. doi: 10.1007/s10670-016-9870-2
+* Lee, Alex, Adam Perou Hermans, and Benjamin Hale, 2014, “Restoration, Obligation, and the Baseline Problem”, *Environmental Ethics*, 36(2): 171–186. doi: 10.5840/enviroethics201436217.
+* Liberto, Hallie, 2014, “Exploitation and the Vulnerability Clause”, *Ethical Theory and Moral Practice*, 17(4): 619–629. doi: 10.1007/s10677-014-9494-z
+* Lindsay, Peter, 2012, “Can We Own the Past? Cultural Artifacts as Public Goods”, *Critical Review of International Social and Political Philosophy*, 15(1): 1–17. doi: 10.1080/13698230.2011.583533
+* Logan, William S., 2007, “Closing Pandora’s Box: Human Rights Conundrums in Cultural Heritage Protection”, in *Cultural Heritage and Human Rights*, edited by Helaine Silverman and D. Fairchild Ruggles, New York: Springer, 33–52. doi: 10.1007/978-0-387-71313-7_2
 * Lowenthal, David, 1985, *The Past is a Foreign Country*, Cambridge: Cambridge University Press.
-* –––, 1998, *The Heritage Crusade and the Spoils of History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511523809
+* –––, 1998, *The Heritage Crusade and the Spoils of History*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511523809
 * Macdonald, Sharon, 2009, *Difficult Heritage: Negotiating the Nazi Past in Nuremberg and Beyond*, USA and Canada: Routledge.
-* –––, 2016, “Is ‘Difficult Heritage’ Still ‘Difficult’? Why Public Acknowledgment of Past Perpetration May No Longer Be So Unsettling to Collective Identities”, *Museum International*, 67(1–4): 6–22. doi:10.1111/muse.12078
-* Matthes, Erich Hatala, 2015, “Impersonal Value, Universal Value, and the Scope of Cultural Heritage”, *Ethics*, 125(4): 999–1027. doi:10.1086/680908
-* –––, 2016a, “Cultural Appropriation Without Cultural Essentialism?”, *Social Theory and Practice*, 42(2): 343–366. doi:10.5840/soctheorpract201642219
-* –––, 2016b, “The Ethics of Historic Preservation”, *Philosophy Compass*, 11(12): 786–794. doi:10.1111/phc3.12379
-* –––, 2017, “Repatriation and the Radical Redistribution of Art”, *Ergo*, 4(32): 931–953. doi:10.3998/ergo.12405314.0004.032
+* –––, 2016, “Is ‘Difficult Heritage’ Still ‘Difficult’? Why Public Acknowledgment of Past Perpetration May No Longer Be So Unsettling to Collective Identities”, *Museum International*, 67(1–4): 6–22. doi: 10.1111/muse.12078
+* Matthes, Erich Hatala, 2015, “Impersonal Value, Universal Value, and the Scope of Cultural Heritage”, *Ethics*, 125(4): 999–1027. doi: 10.1086/680908
+* –––, 2016a, “Cultural Appropriation Without Cultural Essentialism?”, *Social Theory and Practice*, 42(2): 343–366. doi: 10.5840/soctheorpract201642219
+* –––, 2016b, “The Ethics of Historic Preservation”, *Philosophy Compass*, 11(12): 786–794. doi: 10.1111/phc3.12379
+* –––, 2017, “Repatriation and the Radical Redistribution of Art”, *Ergo*, 4(32): 931–953. doi: 10.3998/ergo.12405314.0004.032
 * –––, 2018, “‘Saving Lives or Saving Stones?’ The Ethics of Cultural Heritage Protection in War”, *Public Affairs Quarterly*, 32(1): 67–84.
-* McShane, Katie, 2012, “Some Challenges for Narrative Accounts of Value”, *Ethics & the Environment*, 17(1): 45–69. doi:10.2979/ethicsenviro.17.1.45
-* Merryman, John Henry, 1986, “Two Ways of Thinking About Cultural Property”, *The American Journal of International Law*, 80(4): 831–853. doi:10.2307/2202065
-* –––, 1994, “The Nation and the Object”, *International Journal of Cultural Property*, 3: 61–76. doi:10.1017/S094073919400007X
+* McShane, Katie, 2012, “Some Challenges for Narrative Accounts of Value”, *Ethics & the Environment*, 17(1): 45–69. doi: 10.2979/ethicsenviro.17.1.45
+* Merryman, John Henry, 1986, “Two Ways of Thinking About Cultural Property”, *The American Journal of International Law*, 80(4): 831–853. doi: 10.2307/2202065
+* –––, 1994, “The Nation and the Object”, *International Journal of Cultural Property*, 3: 61–76. doi: 10.1017/S094073919400007X
 * Meskell, Lynn, 2002, “Negative Heritage and Past Mastering in Archaeology”, *Anthropological Quarterly*, 75(3): 557–574.
 * –––, 2011, *The Nature of Heritage: The New South Africa*, Walden, MA: Wiley-Blackwell.
 * Mezey, Naomi, 2007, “The Paradoxes of Cultural Property”, *Columbia Law Review*, 107: 2004–2046. [[Mezey 2007 available online](https://scholarship.law.georgetown.edu/facpub/899)]
 * Moustakas, John, 1989, “Group Rights in Cultural Property: Justifying Strict Inalienability”, *Cornell Law Review*, 74(6): 1179–1227. [[Moustakas 1989 available online](https://scholarship.law.cornell.edu/clr/vol74/iss6/5)]
-* Narayan, Uma, 1998, “Essence of Culture and a Sense of History: A Feminist Critique of Cultural Essentialism”, *Hypatia*, 13(2): 86–106. doi:10.1111/j.1527-2001.1998.tb01227.x
-* Nicholas, George P. and Alison Wylie, 2013, “‘Do not do unto others…’ Cultural Misrecognition and the Harms of Appropriation in an Open-Source World”, in Scarre and Coningham 2013: 195–221. doi:10.1017/CBO9781139026932.013
-* Nicholas, George P. and Kelly P Bannister, 2004, “Copyrighting the Past? Emerging Intellectual Property Rights Issues in Archaeology”, *Current Anthropology*, 45(3): 327–250. doi:10.1086/382251
-* O’Neill, John, 2002, “Wilderness, Cultivation and Appropriation”, *Philosophy & Geography*, 5(1): 35–50. doi:10.1080/10903770120116822
+* Narayan, Uma, 1998, “Essence of Culture and a Sense of History: A Feminist Critique of Cultural Essentialism”, *Hypatia*, 13(2): 86–106. doi: 10.1111/j.1527-2001.1998.tb01227.x
+* Nicholas, George P. and Alison Wylie, 2013, “‘Do not do unto others…’ Cultural Misrecognition and the Harms of Appropriation in an Open-Source World”, in Scarre and Coningham 2013: 195–221. doi: 10.1017/CBO9781139026932.013
+* Nicholas, George P. and Kelly P Bannister, 2004, “Copyrighting the Past? Emerging Intellectual Property Rights Issues in Archaeology”, *Current Anthropology*, 45(3): 327–250. doi: 10.1086/382251
+* O’Neill, John, 2002, “Wilderness, Cultivation and Appropriation”, *Philosophy & Geography*, 5(1): 35–50. doi: 10.1080/10903770120116822
 * O’Neill, John, Alan Holland, and Andrew Light, 2008, *Environmental Values*, New York: Routledge.
 * Okin, Susan Moller, 1997, “Is Multiculturalism Bad for Women”, *Boston Review*, October/November 1997. [[Okin 1997 available online](http://bostonreview.net/archives/BR22.5/okin.html)]
-* Omland, Atle, 2006, “The Ethics of the World Heritage Concept”, in Scarre and Scarre 2006: 242–259. doi:10.1017/CBO9780511817656.014
-* Palmer, Clare, 2011, “Place-Historical Narratives: Road—or Roadblock—to Sustainability?”, *Ethics, Policy & Environment*, 14(3): 345–59. doi:10.1080/21550085.2011.605863
-* Pantazatos, Andreas, 2016, “The Ethics of Trusteeship and the Biography of Objects”, *Royal Institute of Philosophy Supplement*, 79: 179–197. doi:10.1017/S1358246116000138
+* Omland, Atle, 2006, “The Ethics of the World Heritage Concept”, in Scarre and Scarre 2006: 242–259. doi: 10.1017/CBO9780511817656.014
+* Palmer, Clare, 2011, “Place-Historical Narratives: Road—or Roadblock—to Sustainability?”, *Ethics, Policy & Environment*, 14(3): 345–59. doi: 10.1080/21550085.2011.605863
+* Pantazatos, Andreas, 2016, “The Ethics of Trusteeship and the Biography of Objects”, *Royal Institute of Philosophy Supplement*, 79: 179–197. doi: 10.1017/S1358246116000138
 * –––, 2017, “Epistemic Injustice and Cultural Heritage”, in *The Routledge Handbook to Epistemic Injustice*, edited by Ian James Kidd, José Medina and Gaile Polhaus, Jr. New York: Routledge.
-* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi:10.1093/019824908X.001.0001
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi: 10.1093/019824908X.001.0001
 * Patten, Alan, 2014, *Equal Recognition: The Moral Foundations of Minority Rights*, Princeton: Princeton University Press.
-* Perez, Nahshon, 2011, “On Compensation and Return: Can the ‘Continuing Injustice Argument’ for Compensating for Historical Injustices Justify Compensation for Such Injustices or the Return of Property?”, *Journal of Applied Philosophy*, 28(2): 151–168. doi:10.1111/j.1468-5930.2011.00518.x
-* Prott, Lyndel V. and Patrick J. O’Keefe, 1992, “‘Cultural Heritage’ or ‘Cultural Property’?”, *International Journal of Cultural Property*, 1(2): 307–320. doi:10.1017/S094073919200033X
-* Rogers, Richard A., 2006, “From Cultural Exchange to Transculturation: A Review and Reconceptualization of Cultural Appropriation”, *Communication Theory*, 16(4): 474–503. doi:10.1111/j.1468-2885.2006.00277.x
+* Perez, Nahshon, 2011, “On Compensation and Return: Can the ‘Continuing Injustice Argument’ for Compensating for Historical Injustices Justify Compensation for Such Injustices or the Return of Property?”, *Journal of Applied Philosophy*, 28(2): 151–168. doi: 10.1111/j.1468-5930.2011.00518.x
+* Prott, Lyndel V. and Patrick J. O’Keefe, 1992, “‘Cultural Heritage’ or ‘Cultural Property’?”, *International Journal of Cultural Property*, 1(2): 307–320. doi: 10.1017/S094073919200033X
+* Rogers, Richard A., 2006, “From Cultural Exchange to Transculturation: A Review and Reconceptualization of Cultural Appropriation”, *Communication Theory*, 16(4): 474–503. doi: 10.1111/j.1468-2885.2006.00277.x
 * Root, Deborah, 1996, *Cannibal Culture: Art, Appropriation, and the Commodification of Difference*, Boulder, CO: Westview Press.
-* Rowell, John, 1995, “The Politics of Cultural Appropriation”, *The Journal of Value Inquiry*, 29(1): 137–142. doi:10.1007/BF01079071
-* Rudinow, Joel, 1994, “Race, Ethnicity, Expressive Authenticity: Can White People Sing the Blues?”, *The Journal of Aesthetics and Art Criticism*, 52(1): 127–137. doi:10.2307/431591
-* Saito, Yuriko, 2007, *Everyday Aesthetics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195311594.001.0001
+* Rowell, John, 1995, “The Politics of Cultural Appropriation”, *The Journal of Value Inquiry*, 29(1): 137–142. doi: 10.1007/BF01079071
+* Rudinow, Joel, 1994, “Race, Ethnicity, Expressive Authenticity: Can White People Sing the Blues?”, *The Journal of Aesthetics and Art Criticism*, 52(1): 127–137. doi: 10.2307/431591
+* Saito, Yuriko, 2007, *Everyday Aesthetics*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195311594.001.0001
 * Sandel, Michael J., 2012, *What Money Can’t Buy: The Moral Limits of Markets*, USA: Farrar, Straus and Giroux.
-* Sandis, Constantine, 2014a, “Culture, Heritage, and Ethics”, in Sandis 2014b: 11–20. doi:10.11647/OBP.0047.01
+* Sandis, Constantine, 2014a, “Culture, Heritage, and Ethics”, in Sandis 2014b: 11–20. doi: 10.11647/OBP.0047.01
 * ––– (ed.), 2014b, *Cultural Heritage Ethics: Between Theory and Practice*, Cambridge: Open Book Publishers.
-* Satz, Deborah, 2010, *Why Some Things Should Not Be For Sale: The Moral Limits of Markets*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195311594.001.0001
+* Satz, Deborah, 2010, *Why Some Things Should Not Be For Sale: The Moral Limits of Markets*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195311594.001.0001
 * Scafidi, Susan, 2005, *Who Owns Culture? Appropriation and Authenticity in American Law*, New Brunswick, NJ: Rutgers University Press.
-* Scarre, Chris and Geoffrey Scarre (eds), 2006, *The Ethics of Archaeology: Philosophical Perspectives on Archaeological Practice*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511817656
-* Scarre, Geoffrey, 2003, “Archaeology and Respect for the Dead”, *Journal of Applied Philosophy*, 20(3): 237–249. doi:10.1046/j.0264-3758.2003.00250.x
-* –––, 2014, “The Ethics of Digging”, in Sandis 2014b: 117–127. doi:10.11647/OBP.0047.07
-* Scarre, Geoffrey and Robin Coningham (eds), 2013, *Appropriating the Past: Philosophical Perspectives on the Practice of Archaeology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139026932
-* Scheffler, Samuel, 2007, “Immigration and the Significance of Culture”, *Philosophy & Public Affairs*, 35(2): 93–125. doi:10.1111/j.1088-4963.2007.00101.x
-* Scoville, J. Michael, 2013, “Historical Environmental Values”, *Environmental Ethics*, 35(1): 7–25. doi:10.5840/enviroethics20133513
-* Shelby, Tommie, 2002, “Foundations of Black Solidarity: Collective Identity or Common Oppression?”, *Ethics*, 112(2): 231–266. doi:10.1086/340276
+* Scarre, Chris and Geoffrey Scarre (eds), 2006, *The Ethics of Archaeology: Philosophical Perspectives on Archaeological Practice*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511817656
+* Scarre, Geoffrey, 2003, “Archaeology and Respect for the Dead”, *Journal of Applied Philosophy*, 20(3): 237–249. doi: 10.1046/j.0264-3758.2003.00250.x
+* –––, 2014, “The Ethics of Digging”, in Sandis 2014b: 117–127. doi: 10.11647/OBP.0047.07
+* Scarre, Geoffrey and Robin Coningham (eds), 2013, *Appropriating the Past: Philosophical Perspectives on the Practice of Archaeology*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139026932
+* Scheffler, Samuel, 2007, “Immigration and the Significance of Culture”, *Philosophy & Public Affairs*, 35(2): 93–125. doi: 10.1111/j.1088-4963.2007.00101.x
+* Scoville, J. Michael, 2013, “Historical Environmental Values”, *Environmental Ethics*, 35(1): 7–25. doi: 10.5840/enviroethics20133513
+* Shelby, Tommie, 2002, “Foundations of Black Solidarity: Collective Identity or Common Oppression?”, *Ethics*, 112(2): 231–266. doi: 10.1086/340276
 * –––, 2007, *We Who Are Dark: The Philosophical Foundations of Black Solidarity*, Cambridge, MA: Harvard University Press.
-* Simmons, A. John, 1995, “Historical Rights and Fair Shares”, *Law and Philosophy*, 14(2): 149–184. doi:10.1007/BF01001042
+* Simmons, A. John, 1995, “Historical Rights and Fair Shares”, *Law and Philosophy*, 14(2): 149–184. doi: 10.1007/BF01001042
 * Smith, Laurajane, 2006, *The Uses of Heritage*, New York: Routledge.
 * –––, 2010, “Ethics or Social Justice? Heritage and the Politics of Recognition”, *Australian Aboriginal Studies*, 2: 60–68.
 * –––, 2017, “Heritage, Identity and Power”, in *Citizens, Civil Society and Heritage-Making in Asia*, edited by Hsin-Huang Michael Hsiao, Hui Yew-Foong and Philippe Peycam, Singapore: ISEAS Publishing, 15–39.
 * TallBear, Kim, 2013, *Native American DNA: Tribal Belonging and the False Promise of Genetic Science*, University of Minnesota Press.
-* Taylor, Paul Christopher, 1995, “… So Black and Blue: Response to Rudinow”, *The Journal of Aesthetics and Art Criticism*, 53(3): 313–316. doi:10.2307/431356
+* Taylor, Paul Christopher, 1995, “… So Black and Blue: Response to Rudinow”, *The Journal of Aesthetics and Art Criticism*, 53(3): 313–316. doi: 10.2307/431356
 * –––, 2005, “Does Hip Hop Belong to Me? The Philosophy of Race and Culture”, in *Hip Hop and Philosophy: Rhyme 2 Reason*, edited by Derrick Darby and Tommie Shelby, Chicago: Open Court, 79–91.
-* Thompson, Janna, 2000a, “Environment as Cultural Heritage”, *Environmental Ethics*, 22(3): 241–258. doi:10.5840/enviroethics200022316
-* –––, 2000b, “Historical Obligations”, *Australasian Journal of Philosophy*, 78(3): 334–345. doi:10.1080/00048400012349631
+* Thompson, Janna, 2000a, “Environment as Cultural Heritage”, *Environmental Ethics*, 22(3): 241–258. doi: 10.5840/enviroethics200022316
+* –––, 2000b, “Historical Obligations”, *Australasian Journal of Philosophy*, 78(3): 334–345. doi: 10.1080/00048400012349631
 * –––, 2002, *Taking Responsibility for the Past: Reparation and Historical Justice*, Malden, MA: Polity.
-* –––, 2003, “Cultural Property, Restitution and Value”, *Journal of Applied Philosophy*, 20(3): 251–262. doi:10.1046/j.0264-3758.2003.00251.x
-* –––, 2004, “Art, Property Rights, and the Interests of Humanity”, *The Journal of Value Inquiry*, 38(4): 545–600. doi:10.1007/s10790-005-5869-7
+* –––, 2003, “Cultural Property, Restitution and Value”, *Journal of Applied Philosophy*, 20(3): 251–262. doi: 10.1046/j.0264-3758.2003.00251.x
+* –––, 2004, “Art, Property Rights, and the Interests of Humanity”, *The Journal of Value Inquiry*, 38(4): 545–600. doi: 10.1007/s10790-005-5869-7
 * –––, 2010, “War and the Protection of Property”, in *Civilian Immunity in War*, edited by Igor Primoratz, Oxford: Oxford University Press, 239–256.
-* –––, 2013, “The Ethics of Repatriation: Rights of Possession and Duties of Respect”, in Scarre and Coningham 2013: 82–97. doi:10.1017/CBO9781139026932.006
+* –––, 2013, “The Ethics of Repatriation: Rights of Possession and Duties of Respect”, in Scarre and Coningham 2013: 82–97. doi: 10.1017/CBO9781139026932.006
 * Todd, Loretta, 1990, “Notes on Appropriation”, *Parallelogramme*, 16(1): 24–33. [[Todd 1990 available online](https://philpapers.org/rec/TODNOA-2)]
 * –––, 1992, “What More Do They Want?”, in *Indigena: Contemporary Native Perspectives in Canadian Art*, edited by Gerald McMaster and Lee-Ann Martin, Vancouver, BC: Douglas & McIntyre.
 * Trope, Jack F. and Walter R. Echo-Hawk, 1992, “The Native American Graves Protection and Repatriation Act: Background and Legislative History”, *Arizona State Law Journal*, 24: 35–77.
@@ -367,22 +367,22 @@
 * Tunbridge, J. E. and G. J. Ashworth, 1996, *Dissonant Heritage: The Management of the Past as a Resource in Conflict*, New York: Wiley.
 * Valdman, Mikhail, 2009, “A Theory of Wrongful Exploitation”, *Philosophers’ Imprint*, 9(6). [[Valdman 2009 available online](http://hdl.handle.net/2027/spo.3521354.0009.006)]
 * Vitelli, Karen D. and Chip Colwell-Chanthaphonh (eds), 2006, *Archaeological Ethics*, Second edition, Lanham, MD: AltaMira Press.
-* Waldron, Jeremy, 1992, “Superseding Historic Injustice”, *Ethics*, 103(1): 4–28. doi:10.1086/293468
-* Walsh, Andrea N. and Dominic McIver Lopes, 2012, “Objects of Appropriation”, in Young and Brunk 2012: 211–234. doi:10.1002/9781444311099.ch9
+* Waldron, Jeremy, 1992, “Superseding Historic Injustice”, *Ethics*, 103(1): 4–28. doi: 10.1086/293468
+* Walsh, Andrea N. and Dominic McIver Lopes, 2012, “Objects of Appropriation”, in Young and Brunk 2012: 211–234. doi: 10.1002/9781444311099.ch9
 * Warren, Karen J., 1989, “A Philosophical Perspective on the Ethics and Resolution of Cultural Property Issues”, in *The Ethics of Collecting Cultural Property: Whose Culture? Whose Property?*, edited by Phyllis Mauch Messenger, Albuquerque, NM: University of New Mexico Press, 1–25.
 * Watkins, Joe, 2005, “Cultural Nationalists, Internationalists, and ‘Intra-nationalists’: Who’s Right and Whose Right?”, *International Journal of Cultural Property*, 12(1): 78–94.
-* Weiss, Lindsay, 2007, “Heritage-Making and Political Identity”, *Journal of Social Archaeology*, 7(3): 413–431. doi:10.1177/1469605307081400
+* Weiss, Lindsay, 2007, “Heritage-Making and Political Identity”, *Journal of Social Archaeology*, 7(3): 413–431. doi: 10.1177/1469605307081400
 * Whittaker, John, 1997, “‘Here Come the Anthros’: What Good is an Archaeologist?”, in *Anthropology Matters: Essays in Honor of Ralph A. Luebben*, edited by Jonathan G. Andelson. Grinnell College.
 * Whyte, Kyle Powys, 2017, “Our Ancestors’ Dystopia Now: Indigenous Conservation and the Anthropocene”, in *The Routledge Companion to the Environmental Humanities*, edited by Ursula Heise, Jon Christensen and Michelle Niemann, New York: Routledge. [[Whyte 2017 available online](https://ssrn.com/abstract=2770047)]
 * Wylie, Alison, 1996, “Ethical Dilemmas in Archaeological Practice: Looting, Repatriation, Stewardship, and the (Trans)formation of Disciplinary Identity”, *Perspectives on Science*, 4(2): 154–194.
-* –––, 2005, “The Promise and Perils of an Ethic of Stewardship”, in *Embedding Ethics*, edited by Lynn Meskell and Peter Pels, Oxford, New York: Berg Publishers, 47–68. doi:10.5040/9781474214759.ch-002
-* Young, James O., 2005, “Profound Offense and Cultural Appropriation”, *The Journal of Aesthetics and Art Criticism*, 63(2): 135–146. doi:10.1111/j.0021-8529.2005.00190.x
-* –––, 2006, “Cultures and the Ownership of Archaeological Finds”, in Scarre and Scarre 2006: 15–31. doi:10.1017/CBO9780511817656.002
-* –––, 2007, “Cultures and Cultural Property”, *Journal of Applied Philosophy*, 24(2): 111–123. doi:10.1111/j.1468-5930.2007.00359.x
-* –––, 2008, *Cultural Appropriation and the Arts*, Oxford: Blackwell Publishing. doi:10.1002/9780470694190
-* –––, 2013, “The Values of the Past”, in Scarre and Coningham 2013: 25–41. doi:10.1017/CBO9781139026932.003
-* Young, James O. and Conrad G. Brunk (eds), 2012, *The Ethics of Cultural Appropriation*, Oxford: Blackwell Publishing. doi:10.1002/9781444311099
-* Ypi, Lea, 2013, “What’s Wrong with Colonialism”, *Philosophy & Public Affairs*, 41(2): 158–191. doi:10.1111/papa.12014
+* –––, 2005, “The Promise and Perils of an Ethic of Stewardship”, in *Embedding Ethics*, edited by Lynn Meskell and Peter Pels, Oxford, New York: Berg Publishers, 47–68. doi: 10.5040/9781474214759.ch-002
+* Young, James O., 2005, “Profound Offense and Cultural Appropriation”, *The Journal of Aesthetics and Art Criticism*, 63(2): 135–146. doi: 10.1111/j.0021-8529.2005.00190.x
+* –––, 2006, “Cultures and the Ownership of Archaeological Finds”, in Scarre and Scarre 2006: 15–31. doi: 10.1017/CBO9780511817656.002
+* –––, 2007, “Cultures and Cultural Property”, *Journal of Applied Philosophy*, 24(2): 111–123. doi: 10.1111/j.1468-5930.2007.00359.x
+* –––, 2008, *Cultural Appropriation and the Arts*, Oxford: Blackwell Publishing. doi: 10.1002/9780470694190
+* –––, 2013, “The Values of the Past”, in Scarre and Coningham 2013: 25–41. doi: 10.1017/CBO9781139026932.003
+* Young, James O. and Conrad G. Brunk (eds), 2012, *The Ethics of Cultural Appropriation*, Oxford: Blackwell Publishing. doi: 10.1002/9781444311099
+* Ypi, Lea, 2013, “What’s Wrong with Colonialism”, *Philosophy & Public Affairs*, 41(2): 158–191. doi: 10.1111/papa.12014
 * –––, 2017, “Structural Injustice and the Place of Attachment”, *Journal of Practical Ethics*, 5(1): 1–21. [[Ypi 2017 available online](http://www.jpe.ox.ac.uk/papers/structural-injustice-and-the-place-of-attachment/)]
 * Ziff, Bruce and Pratima V. Rao (eds), 1997, *Borrowed Power*, New Brunswick, NJ: Rutgers University Press.
 

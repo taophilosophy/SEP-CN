@@ -2,9 +2,9 @@
 
 *首次发表于 2024 年 2 月 6 日星期二*
 
-政治建构主义是一个比喻性术语，暗示政治道德与人造的“建构”的物体之间存在某种相似性。为了阐明这种相似性，建构主义者可能会建议，政治道德实际上是一种工艺品，类似于一个特意设计的法律和社会规范集合。然而，这种建议与那种天真的信念格格不入，即良好的道德原则是被发现而不仅仅是被发明的。建构主义者可能会建议，各种政治原则具有某些设计者会选择的特征，并且仅将类比应用于政治道德的一部分而非整体。本文重点关注约翰·罗尔斯（John Rawls）的观点，他支持这种更为复杂的假设性和限制性解释。
+政治建构主义是一个比喻性术语，暗示政治道德与人造的“建构”的物体之间存在某种相似性。为了阐明这种相似性，建构主义者可能会建议，政治道德实际上是一种工艺品，类似于一个特意设计的法律和社会规范集合。然而，这种建议与那种天真的信念格格不入，即良好的道德原则是被发现而不仅仅是被发明的。建构主义者可能会建议，各种政治原则具有某些设计者会选择的特征，并且仅将类比应用于政治道德的一部分而非整体。本文重点关注约翰 · 罗尔斯（John Rawls）的观点，他支持这种更为复杂的假设性和限制性解释。
 
-政治建构主义的理论存在于约翰·罗尔斯（John Rawls）的《正义论》（1971 年，1999a）中，并在罗尔斯后来的作品中得到更明确的发展，包括他的杜威讲座（Rawls 1980，1999b：第 16 章；James 2014；Krasnoff 2014；Laden 2014）和第二本书《政治自由主义》（Rawls 1993，1996，2005：第三讲）。存在着非罗尔斯式形式的政治建构主义（Barry 1995；Forst 2011），建构主义还被用来指代数学哲学（Bridges＆Palmgren 2013）和元伦理学（Bagnoli 2013＆2022；Enoch 2009；Fitzpatrick 2005；Korsgaard 1996，2003 [2008]；Hussain＆Shah 2006；Lenman＆Shemmer 2012；Scanlon 2012；Street 2008，2010；Wedgwood 2002）中的立场。在很大程度上搁置这些替代方案，这里的建构主义一词将指代罗尔斯思想中存在的一种“关于政治构想的结构和内容的观点”（Rawls 1993：89）。
+政治建构主义的理论存在于约翰 · 罗尔斯（John Rawls）的《正义论》（1971 年，1999a）中，并在罗尔斯后来的作品中得到更明确的发展，包括他的杜威讲座（Rawls 1980，1999b：第 16 章；James 2014；Krasnoff 2014；Laden 2014）和第二本书《政治自由主义》（Rawls 1993，1996，2005：第三讲）。存在着非罗尔斯式形式的政治建构主义（Barry 1995；Forst 2011），建构主义还被用来指代数学哲学（Bridges＆Palmgren 2013）和元伦理学（Bagnoli 2013＆2022；Enoch 2009；Fitzpatrick 2005；Korsgaard 1996，2003 [2008]；Hussain＆Shah 2006；Lenman＆Shemmer 2012；Scanlon 2012；Street 2008，2010；Wedgwood 2002）中的立场。在很大程度上搁置这些替代方案，这里的建构主义一词将指代罗尔斯思想中存在的一种“关于政治构想的结构和内容的观点”（Rawls 1993：89）。
 
 Rawls 的政治建构主义声称，各种合理的行动指导性政治原则类似于工艺品，因为它们可以被“代表”，就好像它们是由一些想象的代理人产生的，这些代理人进行了“建构过程”，验证了这些原则（Rawls 1993: 93，参见 Rawls 1999a: 40）。此外，Rawls 肯定了一种限制性而非包容性的建构主义形式，声称政治道德中的人为元素并没有耗尽其内容，更不用说整个道德、评价或规范领域了。正如他所说，
 
@@ -132,7 +132,7 @@ Rawls 对于所谓的自由主义三难问题的回应是坚持自由的优先�
 
 Rawls 在解释政治建构主义客观性概念时的策略是声称它满足这些最低限度的条件（Rawls 1993: 114–116），并且不肯定或否认两种相互对立且更全面的客观成功概念。
 
-一种综合性的概念是罗尔斯所称的理性直觉主义的道德现实主义形式，并归因于塞缪尔·克拉克、理查德·普莱斯、亨利·西奇威克和 W. D. 罗斯（Rawls 1993: 91; Rawls 2000: 72, 235–237）。根据罗尔斯，理性直觉主义声称
+一种综合性的概念是罗尔斯所称的理性直觉主义的道德现实主义形式，并归因于塞缪尔 · 克拉克、理查德 · 普莱斯、亨利 · 西奇威克和 W. D. 罗斯（Rawls 1993: 91; Rawls 2000: 72, 235–237）。根据罗尔斯，理性直觉主义声称
 
 > 道德原则和判断，当正确时，是关于道德价值独立秩序的真实陈述...[这个秩序] 不依赖于，也不是任何（人类）思维活动所解释的...（Rawls 1993: 91）
 
@@ -220,7 +220,7 @@ Rawls 坚持认为，这一额外主张既不被政治建构主义所肯定，�
 
 > 有一些主张在涉及理由的意义上是不可简化的，并在最强烈的意义上是真实的。但这些真理并没有本体论的含义。为了这些主张是真实的，这些涉及理由的属性也不需要存在于时空世界中作为自然属性，或者存在于现实的某个非时空部分中。(Parfit 2011: vol. 2, 486)
 
-多年来，罗纳德·多尔金（Dworkin）持有类似立场，他也捍卫一种肯定存在道德事实的现实主义，这些事实能够证明我们的态度，但无法解释它们（Dworkin，1996 年和 2011 年）。可以说，在某些方面，政治建构主义预见了这些观点。
+多年来，罗纳德 · 多尔金（Dworkin）持有类似立场，他也捍卫一种肯定存在道德事实的现实主义，这些事实能够证明我们的态度，但无法解释它们（Dworkin，1996 年和 2011 年）。可以说，在某些方面，政治建构主义预见了这些观点。
 
 ## 5. The Appeal of Political Constructivism 政治建构主义的吸引力
 
@@ -298,7 +298,7 @@ Cohen 的论点起始于一个直观上合理的观念，即在某些事实基�
 
 Cohen 关于事实敏感和事实不敏感原则之间关系的论点引发了各种批评（例如，Estlund 2020: ch. 9; de Maagt 2014; Kurtulmus 2009; Miller 2012: chs. 1 and 10; Pogge 2008; Quong 2010b; Ronzoni & Valentini 2008）。正如 Cohen 预料的那样，一些批评者可能会质疑他的前提，特别是他的第三个前提，他花了一些精力来捍卫它们（2008: 236–247）。然而，大多数批评者认为，建构主义者要么不否认科恩所确定的那种事实不敏感的第一原则的存在，要么可以承认它们的存在，同时保持他们的其他关键主张。
 
-为了理解后者的调和回应的一种辩护，有必要回到第一原则和次要规则与准则之间的区别。解释这种区别的一种方式是将其应用于正义价值时，将合理的第一原则解释为陈述使对象正义或不正义的属性，并为行动提供充分理由（Rawls 1993: 121）。相比之下，次要规范是指导思考的标准，以增强与那些主要原则陈述的理由一致性。Rawls 并没有完全明确这种区别，但这是一种自然的解释方式，解释建构主义理论中第一原则的作用。将第一原则视为关于正义事实的陈述，提供行动理由也符合 Rawls 关于亨利·西奇威克的一些言论。例如，Rawls 归因于西奇威克和其他英国伦理学家，即理性直觉主义者的观点。
+为了理解后者的调和回应的一种辩护，有必要回到第一原则和次要规则与准则之间的区别。解释这种区别的一种方式是将其应用于正义价值时，将合理的第一原则解释为陈述使对象正义或不正义的属性，并为行动提供充分理由（Rawls 1993: 121）。相比之下，次要规范是指导思考的标准，以增强与那些主要原则陈述的理由一致性。Rawls 并没有完全明确这种区别，但这是一种自然的解释方式，解释建构主义理论中第一原则的作用。将第一原则视为关于正义事实的陈述，提供行动理由也符合 Rawls 关于亨利 · 西奇威克的一些言论。例如，Rawls 归因于西奇威克和其他英国伦理学家，即理性直觉主义者的观点。
 
 > 道德的第一原则……是关于……某事物是（固有）好的充分理由的自明命题，或者某种行为是正确的事情要做的，或者某种品质具有道德价值的命题。（Rawls 1999a: 343）
 
@@ -394,7 +394,7 @@ Rawls 对机会平等的复杂言论表明我们面临选择。我们可以接�
 
 ## 8. Conclusion 8. 结论
 
-广泛的假设是，认识到正义要求可能有助于增进我们彼此之间的关系，这一观点立即具有直观吸引力，并可以说，任何特定正义观念的可信度在一定程度上取决于它在我们的思想和行为中体现时可能发挥的促进社会团结的作用。在英美哲学中，约翰·罗尔斯以无与伦比的深度和创造力进一步完善了这些观念，其结果是政治建构主义学说。哲学深度和创造力的直接产物通常并不十分清晰，因此前几节主要试图澄清该学说的关键推测，即健全的政治道德在某些方面类似于一种工艺品，借鉴了罗尔斯偏爱的自由主义平等主义建构主义版本以及他最主要批评者之一 G. A. 科恩的作品。罗尔斯写到了另一个同样具有开创性和相关性的想法，
+广泛的假设是，认识到正义要求可能有助于增进我们彼此之间的关系，这一观点立即具有直观吸引力，并可以说，任何特定正义观念的可信度在一定程度上取决于它在我们的思想和行为中体现时可能发挥的促进社会团结的作用。在英美哲学中，约翰 · 罗尔斯以无与伦比的深度和创造力进一步完善了这些观念，其结果是政治建构主义学说。哲学深度和创造力的直接产物通常并不十分清晰，因此前几节主要试图澄清该学说的关键推测，即健全的政治道德在某些方面类似于一种工艺品，借鉴了罗尔斯偏爱的自由主义平等主义建构主义版本以及他最主要批评者之一 G. A. 科恩的作品。罗尔斯写到了另一个同样具有开创性和相关性的想法，
 
 > 这对我来说是一个很大的谜团，为什么政治自由主义没有早些得到解决：考虑到政治生活中存在合理的多元主义，这似乎是一种自然的表现自由主义思想的方式。是不是有深层次的缺陷，之前的作家可能在其中发现了我没有看到的问题，从而导致他们将其抛弃？（Rawls 2005: 374, n. 1）
 
@@ -402,84 +402,84 @@ Rawls 对机会平等的复杂言论表明我们面临选择。我们可以接�
 
 ## Bibliography
 
-* Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York/Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195384994.001.0001
-* Anderson, Elizabeth, 2010, “The Fundamental Disagreement between Luck Egalitarians and Relational Egalitarians”, *Canadian Journal of Philosophy Supplementary Volume*, 36: 1–23. doi:10.1080/00455091.2010.10717652
-* Arneson, Richard J., 2008, “Justice Is Not Equality”, *Ratio*, 21(4): 371–391. doi:10.1111/j.1467-9329.2008.00409.x
-* Bagnoli, Carla (ed.), 2013, *Constructivism in Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139094221
-* –––, 2022, *Ethical Constructivism*, (Elements in Ethics), Cambridge: Cambridge University Press. doi:10.1017/9781108588188
+* Adler, Matthew D., 2012, *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York/Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195384994.001.0001
+* Anderson, Elizabeth, 2010, “The Fundamental Disagreement between Luck Egalitarians and Relational Egalitarians”, *Canadian Journal of Philosophy Supplementary Volume*, 36: 1–23. doi: 10.1080/00455091.2010.10717652
+* Arneson, Richard J., 2008, “Justice Is Not Equality”, *Ratio*, 21(4): 371–391. doi: 10.1111/j.1467-9329.2008.00409.x
+* Bagnoli, Carla (ed.), 2013, *Constructivism in Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139094221
+* –––, 2022, *Ethical Constructivism*, (Elements in Ethics), Cambridge: Cambridge University Press. doi: 10.1017/9781108588188
 * Barry, Brian, 1989, *Theories of Justice: A Treatise on Social Justice*, Volume 1, Berkeley, CA: University of California Press.
 * –––, 1995, *Justice as Impartiality*, Oxford: Oxford University Press.
 * Bridges, Douglas and Erik Palmgren, 2013, “Constructive Mathematics”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Constructive Mathematics (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/mathematics-constructive/)>.
-* Brink, David O., 1987, “Rawlsian Constructivism in Moral Theory”, *Canadian Journal of Philosophy*, 17(1): 71–90. doi:10.1080/00455091.1987.10715901
-* –––, 1989, *Moral Realism and the Foundations of Ethics*, (Cambridge Studies in Philosophy), Cambridge ; New York/Cambridge University Press. doi:10.1017/CBO9780511624612
-* Casal, Paula, 2007, “Why Sufficiency Is Not Enough”, *Ethics*, 117(2): 296–326. doi:10.1086/510692
-* Chalmers, David J., 2011, “Verbal Disputes”, *The Philosophical Review*, 120(4): 515–566. doi:10.1215/00318108-1334478
+* Brink, David O., 1987, “Rawlsian Constructivism in Moral Theory”, *Canadian Journal of Philosophy*, 17(1): 71–90. doi: 10.1080/00455091.1987.10715901
+* –––, 1989, *Moral Realism and the Foundations of Ethics*, (Cambridge Studies in Philosophy), Cambridge ; New York/Cambridge University Press. doi: 10.1017/CBO9780511624612
+* Casal, Paula, 2007, “Why Sufficiency Is Not Enough”, *Ethics*, 117(2): 296–326. doi: 10.1086/510692
+* Chalmers, David J., 2011, “Verbal Disputes”, *The Philosophical Review*, 120(4): 515–566. doi: 10.1215/00318108-1334478
 * Clayton, Matthew, 1999, “Political Liberalism, Disagreement, and Sectarianism”, *Polis: Revista de Stiinte Politice*, 6: 71–92
 * Clayton, Matthew and Andrew Williams (eds.), 2000, *The Ideal of Equality*, New York: St. Martin’s Press.
 * Cohen, G. A., 1992, “Incentives, Inequality and Community”, in Grethe B. Peterson (ed.), *The Tanner Lectures on Human Values* (Volume 13), Salt Lake City, UT: University of Utah Press.
-* –––, 1997, “Where the Action Is: On the Site of Distributive Justice”, *Philosophy & Public Affairs*, 26(1): 3–30. doi:10.1111/j.1088-4963.1997.tb00048.x
-* –––, 2003, “Facts and Principles”, *Philosophy & Public Affairs*, 31(3): 211–245. doi:10.1111/j.1088-4963.2003.00211.x
+* –––, 1997, “Where the Action Is: On the Site of Distributive Justice”, *Philosophy & Public Affairs*, 26(1): 3–30. doi: 10.1111/j.1088-4963.1997.tb00048.x
+* –––, 2003, “Facts and Principles”, *Philosophy & Public Affairs*, 31(3): 211–245. doi: 10.1111/j.1088-4963.2003.00211.x
 * –––, 2008, *Rescuing Justice and Equality*, Cambridge, MA: Harvard University Press.
-* Cohen, Joshua, 2009, “Truth and Public Reason”, *Philosophy & Public Affairs*, 37(1): 2–42. doi:10.1111/j.1088-4963.2008.01144.x
-* –––, 2010, *Rousseau: A Free Community of Equals*, (Founders of Modern Political and Social Thought), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199581498.001.0001
+* Cohen, Joshua, 2009, “Truth and Public Reason”, *Philosophy & Public Affairs*, 37(1): 2–42. doi: 10.1111/j.1088-4963.2008.01144.x
+* –––, 2010, *Rousseau: A Free Community of Equals*, (Founders of Modern Political and Social Thought), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199581498.001.0001
 * Daniels, Norman, 2003 [2013], “Reflective Equilibrium”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Reflective Equilibrium (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/reflective-equilibrium/)>.
-* de Maagt, Sem, 2014, “In Defence of Fact-Dependency”, *Canadian Journal of Philosophy*, 44(3–4): 443–462. doi:10.1080/00455091.2014.955268
-* Dworkin, Ronald, 1973, “The Original Position”, *The University of Chicago Law Review*, 40(3): 500–533. doi:10.2307/1599246
-* –––, 1996, “Objectivity and Truth: You’d Better Believe It”, *Philosophy & Public Affairs*, 25(2): 87–139. doi:10.1111/j.1088-4963.1996.tb00036.x
+* de Maagt, Sem, 2014, “In Defence of Fact-Dependency”, *Canadian Journal of Philosophy*, 44(3–4): 443–462. doi: 10.1080/00455091.2014.955268
+* Dworkin, Ronald, 1973, “The Original Position”, *The University of Chicago Law Review*, 40(3): 500–533. doi: 10.2307/1599246
+* –––, 1996, “Objectivity and Truth: You’d Better Believe It”, *Philosophy & Public Affairs*, 25(2): 87–139. doi: 10.1111/j.1088-4963.1996.tb00036.x
 * –––, 2011, *Justice for Hedgehogs*, Cambridge, MA: Belknap Press of Harvard University Press.
-* Ebels-Duggan, Kyla, 2010, “The Beginning of Community: Politics in the Face of Disagreement”, *The Philosophical Quarterly*, 60(238): 50–71. doi:10.1111/j.1467-9213.2008.591.x
-* Enoch, David, 2009, “Can There Be a Global, Interesting, Coherent Constructivism about Practical Reason?”, *Philosophical Explorations*, 12(3): 319–339. doi:10.1080/13869790903067683
+* Ebels-Duggan, Kyla, 2010, “The Beginning of Community: Politics in the Face of Disagreement”, *The Philosophical Quarterly*, 60(238): 50–71. doi: 10.1111/j.1467-9213.2008.591.x
+* Enoch, David, 2009, “Can There Be a Global, Interesting, Coherent Constructivism about Practical Reason?”, *Philosophical Explorations*, 12(3): 319–339. doi: 10.1080/13869790903067683
 * Estlund, David, 2020, *Utopophobia: On the Limits (If Any) of Political Philosophy*, Princeton, NJ: Princeton University Press.
-* FitzPatrick, William J., 2005, “The Practical Turn in Ethical Theory: Korsgaard’s Constructivism, Realism, and the Nature of Normativity”, *Ethics*, 115(4): 651–691. doi:10.1086/430750
+* FitzPatrick, William J., 2005, “The Practical Turn in Ethical Theory: Korsgaard’s Constructivism, Realism, and the Nature of Normativity”, *Ethics*, 115(4): 651–691. doi: 10.1086/430750
 * Forst, Rainer, 2011, *The Right to Justification: Elements of a Constructivist Theory of Justice*, Jeffrey Flynn (trans.), New York: Columbia University Press.
-* Freeman, Samuel, 2007, “The Burdens of Public Justification: Constructivism, Contractualism, and Publicity”, *Politics, Philosophy & Economics*, 6(1): 5–43. doi:10.1177/1470594X07073003
-* –––, 2009, “Constructivism, Facts, and Moral Justification”, in *Contemporary Debates in Political Philosophy*, Thomas Christiano and John Christman (eds.), Oxford, UK: Wiley-Blackwell, 41–60. doi:10.1002/9781444310399.ch3
-* Gheaus, Anca, 2013, “The Feasibility Constraint on The Concept of Justice”, *The Philosophical Quarterly*, 63(252): 445–464. doi:10.1111/1467-9213.12058
-* Gustafsson, Johan E., 2013, “The Irrelevance of the Diachronic Money-Pump Argument for Acyclicity”, *Journal of Philosophy*, 110(8): 460–464. doi:10.5840/jphil2013110819
+* Freeman, Samuel, 2007, “The Burdens of Public Justification: Constructivism, Contractualism, and Publicity”, *Politics, Philosophy & Economics*, 6(1): 5–43. doi: 10.1177/1470594X07073003
+* –––, 2009, “Constructivism, Facts, and Moral Justification”, in *Contemporary Debates in Political Philosophy*, Thomas Christiano and John Christman (eds.), Oxford, UK: Wiley-Blackwell, 41–60. doi: 10.1002/9781444310399.ch3
+* Gheaus, Anca, 2013, “The Feasibility Constraint on The Concept of Justice”, *The Philosophical Quarterly*, 63(252): 445–464. doi: 10.1111/1467-9213.12058
+* Gustafsson, Johan E., 2013, “The Irrelevance of the Diachronic Money-Pump Argument for Acyclicity”, *Journal of Philosophy*, 110(8): 460–464. doi: 10.5840/jphil2013110819
 * Hansson, Sven Ove and Till Grüne-Yanoff, 2006 [2012], “Preferences”, *The Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[Preferences (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/preferences/)>.
 * Harman, Gilbert, 1977, *The Nature of Morality: An Introduction to Ethics*, New York: Oxford University Press.
-* Hinton, Timothy (ed.), 2015, *The Original Position*, (Classic Philosophical Arguments), Cambridge: Cambridge University Press. doi:10.1017/CBO9781107375321
+* Hinton, Timothy (ed.), 2015, *The Original Position*, (Classic Philosophical Arguments), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781107375321
 * Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-Consequentialist Theory of Morality*, Oxford: Clarendon Press
 * Horwich, Paul, 1998, *Truth*, second edition, Oxford: Oxford University Press.
 * Hussain, Nadeem and Nishi Shah, 2006, “Misunderstanding Metaethics: Korsgaards’s Rejection of Realism”, in Russ Shafer-Landau (ed.), *Oxford Studies in Metaethics* (Volume 1), Oxford: Oxford University Press, pp. 265–294.
-* James, Aaron, 2014, “Political Constructivism”, in Mandle and Reidy 2014: 251–264. doi:10.1002/9781118328460.ch14
+* James, Aaron, 2014, “Political Constructivism”, in Mandle and Reidy 2014: 251–264. doi: 10.1002/9781118328460.ch14
 * –––, 2018, “Constructivism, Intuitionism, Ecumenism”, in *Oxford Handbook of Distributive Justice*, Serena Olsaretti (ed.), Oxford: Oxford University Press, pp. 346–366.
 * Johnson, Conrad D, 1991, *Moral Legislation: A Legal-Political Model for Indirect Consequentialist Reasoning*, Cambridge: Cambridge University Press.
-* Kavka, Gregory S., 1983, “The Toxin Puzzle”, *Analysis*, 43(1): 33–36. doi:10.1093/analys/43.1.33
-* Kelly, Thomas and Sarah McGrath, 2010, “Is Reflective Equilibrium Enough?”, *Philosophical Perspectives*, 24(1): 325–359. doi:10.1111/j.1520-8583.2010.00195.x
-* Kim, Brian, 2017, “Pragmatic Encroachment in Epistemology”, *Philosophy Compass*, 12(5): e12415. doi:10.1111/phc3.12415
-* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511554476
-* –––, 2003 [2008], “Realism and Constructivism in Twentieth-Century Moral Philosophy”:, *Journal of Philosophical Research*, 28(supplement): 99–122. Reprinted in her *The Constitution of Agency: Essays on Practical Reason and Moral Psychology*, Oxford: Oxford University Press, 2008, 302–326. doi:10.5840/jpr_2003_8
-* Krasnoff, Larry, 2014, “Kantian Constructivism”, in Mandle and Reidy 2014: 73–87. doi:10.1002/9781118328460.ch4
+* Kavka, Gregory S., 1983, “The Toxin Puzzle”, *Analysis*, 43(1): 33–36. doi: 10.1093/analys/43.1.33
+* Kelly, Thomas and Sarah McGrath, 2010, “Is Reflective Equilibrium Enough?”, *Philosophical Perspectives*, 24(1): 325–359. doi: 10.1111/j.1520-8583.2010.00195.x
+* Kim, Brian, 2017, “Pragmatic Encroachment in Epistemology”, *Philosophy Compass*, 12(5): e12415. doi: 10.1111/phc3.12415
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511554476
+* –––, 2003 [2008], “Realism and Constructivism in Twentieth-Century Moral Philosophy”:, *Journal of Philosophical Research*, 28(supplement): 99–122. Reprinted in her *The Constitution of Agency: Essays on Practical Reason and Moral Psychology*, Oxford: Oxford University Press, 2008, 302–326. doi: 10.5840/jpr_2003_8
+* Krasnoff, Larry, 2014, “Kantian Constructivism”, in Mandle and Reidy 2014: 73–87. doi: 10.1002/9781118328460.ch4
 * Kumar, Rahul, 2009, “Wronging Future Generations: A Contractualist Proposal”, in *Intergenerational Justice*, Axel Gosseries and Lukas Meyer (ed.), Oxford: Oxford University Press, pp. 251–272.
-* Kurtulmus, A. Faik, 2009, “Rawls and Cohen on Facts and Principles”, *Utilitas* 21(4): 489–505. doi:10.1017/S0953820809990240
-* Laden, Anthony Simon, 2014, “Constructivism as Rhetoric”, in Mandle and Reidy 2014: 57–72. doi:10.1002/9781118328460.ch3
-* Leland, R. J., 2019, “Civic Friendship, Public Reason”, *Philosophy & Public Affairs*, 47(1): 72–103. doi:10.1111/papa.12141
-* Lenman, James and Yonatan Shemmer (eds.), 2012, *Constructivism in Practical Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609833.001.0001
+* Kurtulmus, A. Faik, 2009, “Rawls and Cohen on Facts and Principles”, *Utilitas* 21(4): 489–505. doi: 10.1017/S0953820809990240
+* Laden, Anthony Simon, 2014, “Constructivism as Rhetoric”, in Mandle and Reidy 2014: 57–72. doi: 10.1002/9781118328460.ch3
+* Leland, R. J., 2019, “Civic Friendship, Public Reason”, *Philosophy & Public Affairs*, 47(1): 72–103. doi: 10.1111/papa.12141
+* Lenman, James and Yonatan Shemmer (eds.), 2012, *Constructivism in Practical Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199609833.001.0001
 * Lister, Andrew, 2013, *Public Reason and Political Community*, London: Bloomsbury.
-* Mandle, Jon, 1997, “Rousseauian Constructivism”, *Journal of the History of Philosophy*, 35(4): 545–562. doi:10.1353/hph.1997.0075
-* Mandle, Jon and David A. Reidy (eds.), 2014, *A Companion to Rawls*, Malden, MA: Wiley-Blackwell. doi:10.1002/9781118328460
+* Mandle, Jon, 1997, “Rousseauian Constructivism”, *Journal of the History of Philosophy*, 35(4): 545–562. doi: 10.1353/hph.1997.0075
+* Mandle, Jon and David A. Reidy (eds.), 2014, *A Companion to Rawls*, Malden, MA: Wiley-Blackwell. doi: 10.1002/9781118328460
 * Martin, Rex, 1985, *Rawls and Rights*, Lawrence, KS: University of Kansas Press
 * McGrath, Sarah, 2019, *Moral Knowledge*, Oxford: Oxford University Press.
-* McKeever, Sean and Michael Ridge, 2006, *Principled Ethics: Generalism as a Regulative Ideal*, Oxford: Oxford University Press. doi:10.1093/0199290652.001.0001
-* Melenovsky, C. M., 2016, “Incentives, Conventionalism, and Constructivism”, *Ethics* 126(3): 549–574. doi:abs/10.1086/684715
-* Miller, David, 2012, *Justice for Earthlings: Essays in Political Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139236898
+* McKeever, Sean and Michael Ridge, 2006, *Principled Ethics: Generalism as a Regulative Ideal*, Oxford: Oxford University Press. doi: 10.1093/0199290652.001.0001
+* Melenovsky, C. M., 2016, “Incentives, Conventionalism, and Constructivism”, *Ethics* 126(3): 549–574. doi: abs/10.1086/684715
+* Miller, David, 2012, *Justice for Earthlings: Essays in Political Philosophy*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139236898
 * Nozick, Robert, 1969, “Newcomb’s Problem and Two Principles of Choice”, *Essays in Honor of Carl G. Hempel*, Nicholas Rescher (ed.), Dordrecht: Reidel, pp. 114–146.
 * –––, 1993, *The Nature of Rationality*, Princeton, NJ: Princeton University Press.
-* O’Neill, Onora, 1989, *Constructions of Reason: Explorations of Kant’s Practical Philosophy*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139173773
-* –––, 2002, “Constructivism in Rawls and Kant”, in *The Cambridge Companion to Rawls*, Samuel Freeman (ed.), Cambridge: Cambridge University Press, 347–367. doi:10.1017/CCOL0521651670.010
-* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press. doi:10.1093/019824908X.001.0001
+* O’Neill, Onora, 1989, *Constructions of Reason: Explorations of Kant’s Practical Philosophy*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9781139173773
+* –––, 2002, “Constructivism in Rawls and Kant”, in *The Cambridge Companion to Rawls*, Samuel Freeman (ed.), Cambridge: Cambridge University Press, 347–367. doi: 10.1017/CCOL0521651670.010
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press. doi: 10.1093/019824908X.001.0001
 * –––, 2000, “Equality or Priority?”, inClayton and Williams 2000: 81–125.
-* –––, 2011a, *On What Matters: Volume One*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199572809.002.0011
-* –––, 2011b, *On What Matters: Volume Two*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199572816.001.0001
+* –––, 2011a, *On What Matters: Volume One*, Oxford: Oxford University Press. doi: 10.1093/acprof: osobl/9780199572809.002.0011
+* –––, 2011b, *On What Matters: Volume Two*, Oxford: Oxford University Press. doi: 10.1093/acprof: osobl/9780199572816.001.0001
 * Pogge, Thomas W., 1989, *Realizing Rawls*, Ithaca, NY: Cornell University Press.
-* –––, 1995, “Three Problems with Contractarian-Consequentialist Ways of Assessing Social Institutions”, *Social Philosophy and Policy*, 12(2): 241–266. doi:10.1017/S026505250000474X
-* –––, 2008 [2009], “Cohen to the Rescue!”, *Ratio*, 21(4): 454–475. Reprinted in Brian Feltham (ed.), *Justice, Equality and Constructivism*, Malden, MA: Wiley-Blackwell, 2009, pp. 88–109. doi:10.1111/j.1467-9329.2008.00413.x
-* Quong, Jonathan, 2010a, *Liberalism without Perfection*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199594870.001.0001
-* –––, 2010b, “Justice Beyond Equality”:, *Social Theory and Practice*, 36(2): 315–340. doi:10.5840/soctheorpract201036215
-* –––, 2014, “On the Idea of Public Reason”, in Mandle and Reidy 2014: 265–280. doi:10.1002/9781118328460.ch15
+* –––, 1995, “Three Problems with Contractarian-Consequentialist Ways of Assessing Social Institutions”, *Social Philosophy and Policy*, 12(2): 241–266. doi: 10.1017/S026505250000474X
+* –––, 2008 [2009], “Cohen to the Rescue!”, *Ratio*, 21(4): 454–475. Reprinted in Brian Feltham (ed.), *Justice, Equality and Constructivism*, Malden, MA: Wiley-Blackwell, 2009, pp. 88–109. doi: 10.1111/j.1467-9329.2008.00413.x
+* Quong, Jonathan, 2010a, *Liberalism without Perfection*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199594870.001.0001
+* –––, 2010b, “Justice Beyond Equality”:, *Social Theory and Practice*, 36(2): 315–340. doi: 10.5840/soctheorpract201036215
+* –––, 2014, “On the Idea of Public Reason”, in Mandle and Reidy 2014: 265–280. doi: 10.1002/9781118328460.ch15
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Belknap Press of Harvard University Press. Heavily revised edition 1999a.
-* –––, 1980 [1999], “Kantian Constructivism in Moral Theory”, *The Journal of Philosophy*, 77(9): 515–572. Collected in 1999b: chap. 16. doi:10.2307/2025790
+* –––, 1980 [1999], “Kantian Constructivism in Moral Theory”, *The Journal of Philosophy*, 77(9): 515–572. Collected in 1999b: chap. 16. doi: 10.2307/2025790
 * –––, 1993, *Political Liberalism*, New York: Columbia University Press. Paperback edition 1996. Expanded edition 2005.
 * –––, 1996, *Political Liberalism*, paperback edition, New York: Columbia University Press. First edition, 1993. [The 1996 edition includes some material not in the 1993 edition.]
 * –––, 1999a, *A Theory of Justice*, revised edition, Cambridge, MA: Belknap Press of Harvard University Press.
@@ -487,34 +487,34 @@ Rawls 对机会平等的复杂言论表明我们面临选择。我们可以接�
 * –––, 2000, *Lectures on the History of Moral Philosophy*, Barbara Herman (ed.), Cambridge, MA: Harvard University Press.
 * –––, 2001, *Justice as Fairness: A Restatement*, Erin Kelly (ed.), Cambridge, MA: Belknap Press of Harvard University Press.
 * –––, 2005, *Political Liberalism*, expanded edition, New York: Columbia University Press. Expanded edition of his 1993.
-* Raz, Joseph, 1986, *The Morality of Freedom*, Oxford: Clarendon Press. doi:10.1093/0198248075.001.0001
+* Raz, Joseph, 1986, *The Morality of Freedom*, Oxford: Clarendon Press. doi: 10.1093/0198248075.001.0001
 * –––, 1989, “Facing Up: A Reply”, *Southern California Law Review*, 62(3/4): 1153–1235.
 * –––, 1999, “Incommensurability and Agency”, in his *Engaging Reason*, Oxford: Oxford University Press, pp. 46–66. Reprinted in Ruth Chang (ed.), 1998, *Incommensurability, Incomparability, and Practical Reason*, Cambridge, MA: Harvard University Press
 * –––, 2009, “On the Value of Distributional Equality”, in *Hillel Steiner and the Anatomy of Justice: Themes and Challenges*, Stephen De Wijze, Matthew H. Kramer, Ian Carter (ed.), London: Routledge, pp. 22–33
 * –––, 2011, “Reasons: Explanatory and Normative”, in his *From Normativity to Responsibility*, Oxford: Oxford University Press, pp. 13–35.
-* Ripstein, Arthur, 2010, “Critical Notice: *Rescuing Justice and Equity* by G. A. Cohen”, *Canadian Journal of Philosophy*, 40(4): 669–699. doi:10.1080/00455091.2010.10716739
-* Roeber, Blake, 2018, “The Pragmatic Encroachment Debate: The Pragmatic Encroachment Debate”, *Noûs*, 52(1): 171–195. doi:10.1111/nous.12156
-* Ronzoni, Miriam and Laura Valentini, 2008, “On the Meta-Ethical Status of Constructivism: Reflections on G.A. Cohen’s ‘Facts and Principles’”, *Politics, Philosophy & Economics*, 7(4): 403–422. doi:10.1177/1470594X08095751
+* Ripstein, Arthur, 2010, “Critical Notice: *Rescuing Justice and Equity* by G. A. Cohen”, *Canadian Journal of Philosophy*, 40(4): 669–699. doi: 10.1080/00455091.2010.10716739
+* Roeber, Blake, 2018, “The Pragmatic Encroachment Debate: The Pragmatic Encroachment Debate”, *Noûs*, 52(1): 171–195. doi: 10.1111/nous.12156
+* Ronzoni, Miriam and Laura Valentini, 2008, “On the Meta-Ethical Status of Constructivism: Reflections on G.A. Cohen’s ‘Facts and Principles’”, *Politics, Philosophy & Economics*, 7(4): 403–422. doi: 10.1177/1470594X08095751
 * Sayre-McCord, Geoffrey, 1988, “Introduction: The Many Moral Realisms”, in *Essays on Moral Realism*, G. Sayre-McCord (ed.), Ithaca, NY & London: Cornell University Press, pp. 1–23.
-* Scanlon, T. M., 1982, “Contractualism and Utilitarianism”, in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 103–128. doi:10.1017/CBO9780511611964.007
+* Scanlon, T. M., 1982, “Contractualism and Utilitarianism”, in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 103–128. doi: 10.1017/CBO9780511611964.007
 * –––, 1999, *What We Owe to Each Other*, Cambridge, MA: Belknap Press of Harvard University Press.
-* –––, 2003, “Metaphysics and Morals”, *Proceedings and Addresses of the American Philosophical Association*, 77(2): 7–22. doi:10.2307/3219738
+* –––, 2003, “Metaphysics and Morals”, *Proceedings and Addresses of the American Philosophical Association*, 77(2): 7–22. doi: 10.2307/3219738
 * –––, 2006, “Justice, Responsibility, and the Demands of Equality”, in *The Egalitarian Conscience—Essays in Honour of G. A. Cohen*, Christine Sypnowich (ed.), Oxford: Oxford University Press, 70–87.
 * –––, 2012, “The Appeal and Limits of Constructivism”, in Lenman and Shemmer 2012: 226–242.
-* –––, 2014, *Being Realistic About Reasons*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199678488.001.0001
-* Segall, Shlomi, 2016, *Why Inequality Matters: Luck Egalitarianism, Its Meaning and Value*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316416969
+* –––, 2014, *Being Realistic About Reasons*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199678488.001.0001
+* Segall, Shlomi, 2016, *Why Inequality Matters: Luck Egalitarianism, Its Meaning and Value*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316416969
 * Street, Sharon, 2008, “Constructivism about Reasons”, in *Oxford Studies in Metaethics* (Volume 3), Russ Shafer-Landau (ed.), Oxford: Oxford University Press, pp. 207–245.
-* –––, 2010, “What Is Constructivism in Ethics and Metaethics?”, *Philosophy Compass*, 5(5): 363–384. doi:10.1111/j.1747-9991.2009.00280.x
+* –––, 2010, “What Is Constructivism in Ethics and Metaethics?”, *Philosophy Compass*, 5(5): 363–384. doi: 10.1111/j.1747-9991.2009.00280.x
 * –––, 2012, “Coming to Terms with Contingency: Humean Constructivism about Practical Reason”, in Lenman and Shemmer 2012: 40–59.
 * Temkin, Larry S., 2000, “Equality, Priority, and the Levelling Down Objection”, in Clayton and Williams 2000: 126–161.
-* –––, 2003, “Egalitarianism Defended”, *Ethics*, 113(4): 764–782. doi:10.1086/373955
-* –––, 2012, *Rethinking the Good: Moral Ideals and the Nature of Practical Reasoning*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199759446.001.0001
-* Tungodden, Bertil and Peter Vallentyne, 2005, “On the Possibility of Paretian Egalitarianism”, *The Journal of Philosophy*, 102(3): 126–154. doi:10.5840/jphil200510234
-* Wedgwood, Ralph, 2002, “Practical Reasoning as Figuring Out What Is Best: Against Constructivism”, *Topoi*, 21(1/2): 139–152. doi:10.1023/A:1014809205396
+* –––, 2003, “Egalitarianism Defended”, *Ethics*, 113(4): 764–782. doi: 10.1086/373955
+* –––, 2012, *Rethinking the Good: Moral Ideals and the Nature of Practical Reasoning*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199759446.001.0001
+* Tungodden, Bertil and Peter Vallentyne, 2005, “On the Possibility of Paretian Egalitarianism”, *The Journal of Philosophy*, 102(3): 126–154. doi: 10.5840/jphil200510234
+* Wedgwood, Ralph, 2002, “Practical Reasoning as Figuring Out What Is Best: Against Constructivism”, *Topoi*, 21(1/2): 139–152. doi: 10.1023/A: 1014809205396
 * Weirich, Paul, 2008 [2020], “Causal Decision Theory”, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/decision-causal/>.
-* Weithman, Paul, 2010, *Why Political Liberalism: on John Rawls’s Political Turn*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195393033.001.0001
-* Williams, Andrew, 1998, “Incentives, Inequality, and Publicity”, *Philosophy & Public Affairs*, 27(3): 225–247. doi:10.1111/j.1088-4963.1998.tb00069.x
-* –––, 2008, “Justice, Incentives and Constructivism”, *Ratio*, 21(4): 476–493. doi:10.1111/j.1467-9329.2008.00414.x
+* Weithman, Paul, 2010, *Why Political Liberalism: on John Rawls’s Political Turn*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195393033.001.0001
+* Williams, Andrew, 1998, “Incentives, Inequality, and Publicity”, *Philosophy & Public Affairs*, 27(3): 225–247. doi: 10.1111/j.1088-4963.1998.tb00069.x
+* –––, 2008, “Justice, Incentives and Constructivism”, *Ratio*, 21(4): 476–493. doi: 10.1111/j.1467-9329.2008.00414.x
 * Williams, Bernard, 1985, *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press.
 * –––, 1989, “Internal Reasons and the Obscurity of Blame”, William J. Prior (ed.), *Reason and Moral Judgment*, *Logos*, *vol. 10*. Santa Clara University, and Bernard Williams, *Making Sense of Humanity and Other Philosophical Papers: 1982–1993*, Cambridge: Cambridge University Press, pp. 35–45.
 

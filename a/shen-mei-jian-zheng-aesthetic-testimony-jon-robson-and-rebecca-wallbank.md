@@ -10,7 +10,7 @@
 
 ### 1.1 范围和术语
 
-证言的确切性质本身就是一个哲学争议的问题，提出了各种不同的解释。伊丽莎白·弗里克（2012: 254）认为证言是一个非常广泛的问题，涉及“一般的陈述”，同样索萨（1991: 219）将证言描述为“某人的思想或信仰的陈述[或表达]，他们可能向整个世界，而不是特定的人”发表。其他合理的解释包括了这样的条件，即表达必须以传达新信息的意图进行交流（Lackey 2008: Ch1），还有一些解释包括了某些积极的认识论方面，例如证人在手头问题上具有某种程度的能力（Coady 1992: 42）。在接下来的内容中，我们将很少谈论这些一般性的争论，而是像美学争论一样，专注于非常广泛的证言意义上，旨在适应这样一个基本观点，即当一个人作证时，他对某个命题的真实性做出断言。
+证言的确切性质本身就是一个哲学争议的问题，提出了各种不同的解释。伊丽莎白 · 弗里克（2012: 254）认为证言是一个非常广泛的问题，涉及“一般的陈述”，同样索萨（1991: 219）将证言描述为“某人的思想或信仰的陈述 [或表达]，他们可能向整个世界，而不是特定的人”发表。其他合理的解释包括了这样的条件，即表达必须以传达新信息的意图进行交流（Lackey 2008: Ch1），还有一些解释包括了某些积极的认识论方面，例如证人在手头问题上具有某种程度的能力（Coady 1992: 42）。在接下来的内容中，我们将很少谈论这些一般性的争论，而是像美学争论一样，专注于非常广泛的证言意义上，旨在适应这样一个基本观点，即当一个人作证时，他对某个命题的真实性做出断言。
 
 在追随美学争论的过程中，值得注意的是，我们将按照现在的标准，限制在“纯粹的证言”案例中，即在这些案例中，证人邀请他们的听众相信 p，基于她的通知者 T 声称 p 的基础上，而独立于 T 为该主张提供的任何证据。（霍普金斯 2011: 138）
 
@@ -18,7 +18,7 @@
 
 某人对马蒂斯的《阿波罗》的美感纯粹作证，只会简单地陈述“马蒂斯的《阿波罗》很美”，而不会添加进一步的理由或描述来为他们的判断辩护。
 
-在考虑到这种证言观念的基础上，我们将重点关注的中心争议是关于我们是否应该在审美上听从证言。对纯粹证言的顺从性回应要求我们接受根据证言形成判断 p 的邀请，即使证言者没有为这个判断添加任何支持理由，并且要求我们在不试图进一步验证事实的情况下这样做。非顺从性的回应通常被理解为我们在这个问题上暂时保持中立的回应（霍普金斯 2001: 167-169），并积极地对待这个问题，使用证言作为调查和尝试自己形成判断的提示（一个不那么慈善的对话者可能会完全忽视证言，但这并不是在相关意义上不顺从所必需的）。如果在形成判断 p 时，一个人咨询了关于证言者一般能力和真诚性的更广泛信息，例如考虑到证言者在审美领域的一般记录，或者咨询任何可用的关于证言者为了社会利益而撒谎的信息，那么他仍然可以被视为顺从，只要他不试图特别验证 p 是否为真。那些对审美中的顺从性持负面观点的人通常也会（正如我们将在下面的§1.2 中看到的那样）对其他方法（如归纳推理）在建立审美主张方面的作用持怀疑态度。然而，我们不认为这是该立场本身的决定性因素。
+在考虑到这种证言观念的基础上，我们将重点关注的中心争议是关于我们是否应该在审美上听从证言。对纯粹证言的顺从性回应要求我们接受根据证言形成判断 p 的邀请，即使证言者没有为这个判断添加任何支持理由，并且要求我们在不试图进一步验证事实的情况下这样做。非顺从性的回应通常被理解为我们在这个问题上暂时保持中立的回应（霍普金斯 2001: 167-169），并积极地对待这个问题，使用证言作为调查和尝试自己形成判断的提示（一个不那么慈善的对话者可能会完全忽视证言，但这并不是在相关意义上不顺从所必需的）。如果在形成判断 p 时，一个人咨询了关于证言者一般能力和真诚性的更广泛信息，例如考虑到证言者在审美领域的一般记录，或者咨询任何可用的关于证言者为了社会利益而撒谎的信息，那么他仍然可以被视为顺从，只要他不试图特别验证 p 是否为真。那些对审美中的顺从性持负面观点的人通常也会（正如我们将在下面的 §1.2 中看到的那样）对其他方法（如归纳推理）在建立审美主张方面的作用持怀疑态度。然而，我们不认为这是该立场本身的决定性因素。
 
 某种类似于对证言的顺从普遍负面观点的东西，被称为“对审美证言的悲观主义”（这个术语最早由霍普金斯（2007 年）使用，用来指代对道德证言的平行立场）。悲观主义者认为，我们不能合法地根据证言形成审美判断。相比之下，悲观主义者的对手，对审美证言持乐观态度的人认为，在满足一定条件的情况下，这样做是完全合法的。这些观点（正如我们将在第 3 节中看到的那样）是对双方观点的过度简化版本，但暂时对我们有所帮助。
 
@@ -28,7 +28,7 @@
 
 > 如果一个人...不觉得一座建筑、一片景色或一首诗美丽，即使有一百个声音高度赞扬它，也不能强迫他内心的认同...他清楚地看到，他人的认同对美的判断没有有效的证明...一件事情让他人满意永远不能作为审美判断的基础。（1790 年：第一部分，第一章，§33 [1914 年：157]）
 
-当然，早期就有关于证言合法性的讨论（例如奥古斯丁[修订版 I.3]；洛克 1689 年[人类理解论 IV.16]；里德 1764 年[关于常识原理的人类心灵探究 VI.24]），以及我们形成审美判断的手段（休谟 1757 年；哈奇森 1725/26 年），但是康德似乎是第一个明确排除证言作为特定审美判断依据的人。（或者至少，如果有任何相关的历史先驱，它们尚未在当前有关该主题的文献中突出显示。）
+当然，早期就有关于证言合法性的讨论（例如奥古斯丁 [修订版 I.3]；洛克 1689 年 [人类理解论 IV.16]；里德 1764 年 [关于常识原理的人类心灵探究 VI.24]），以及我们形成审美判断的手段（休谟 1757 年；哈奇森 1725/26 年），但是康德似乎是第一个明确排除证言作为特定审美判断依据的人。（或者至少，如果有任何相关的历史先驱，它们尚未在当前有关该主题的文献中突出显示。）
 
 与康德的许多作品一样，他在这里的论断受到了一系列截然不同的解释，并激发了一系列不同形式的悲观主义（戈罗迪斯基 2010 年；霍普金斯 2001 年；斯克鲁顿 1974 年）。问题的关键部分在于康德对证言的讨论非常简短（几乎只包括上面引用的材料）。他几乎立即转向强调他认为更大的障碍，即将我们的审美判断建立在“根据明确规则确定的先验证明”基础上的障碍（1790 年，第一部分，第一章，§33 [1914 年：157]）。特别是，他开始否认一种特定类型的证明的合法性，即基于所谓的“品味原则”的证明。要有一种品味原则，就需要
 
@@ -36,7 +36,7 @@
 
 这种原则至少在康德的一些前辈和同时代人中得到了一些启示，但对于这些作家是否真正致力于完全成熟的审美原则，可以从解释学的角度进行讨论。例如，Hutcheson（1725/26）认为美丽的对象是那些显示出适当的一致性和多样性比例的对象。然而，尽管我们接受了这种特定的美的观点，但不清楚一个缺乏审美判断力的人是否能够独立地确定适当的多样性中的统一性，并从中推断出美。关于审美原则的争论，或者说缺乏审美原则的争论，随后成为二十世纪分析美学的重要内容（参见，例如，Beardsley 1962 和 Mothersill 1961），从而使对审美证言的具体讨论有些被忽视。同样，在第 2 节中，也存在着关于我们将讨论的更广泛原则的重要争论。这些原则排除了将审美判断基于证言，但也排除了基于论证的判断。
 
-对审美证言的忽视的一个显著例外是托米（Tormey）对批判判断的讨论（他认为[1973: 35]与“审美判断”同义），他明确指出（1973: 38）依赖证言的情况应该被排除在合法批判判断的范围之外。正如我们将在下面进一步探讨的那样，理查德·沃尔海姆（Richard Wollheim）在他著名的“熟悉原则”中也表达了这种思想（1980: 233），该原则的第二部分认为审美判断“除了在非常狭窄的范围内，不能从一个人传递给另一个人”。与该原则的其他方面一样，沃尔海姆显然认为自己（1980）指出的是美学领域内已经形成的共识，而不是提出任何创新性的观点。这可能表明，即使在印刷品中很少提到，悲观主义在当时被视为一种常识立场。事实上，Zangwill（1990）在对审美证言地位的第一次广泛讨论中，甚至将其列为康德美学的“教条”，然后提出了一种反对悲观主义的广泛论证。
+对审美证言的忽视的一个显著例外是托米（Tormey）对批判判断的讨论（他认为 [1973: 35] 与“审美判断”同义），他明确指出（1973: 38）依赖证言的情况应该被排除在合法批判判断的范围之外。正如我们将在下面进一步探讨的那样，理查德 · 沃尔海姆（Richard Wollheim）在他著名的“熟悉原则”中也表达了这种思想（1980: 233），该原则的第二部分认为审美判断“除了在非常狭窄的范围内，不能从一个人传递给另一个人”。与该原则的其他方面一样，沃尔海姆显然认为自己（1980）指出的是美学领域内已经形成的共识，而不是提出任何创新性的观点。这可能表明，即使在印刷品中很少提到，悲观主义在当时被视为一种常识立场。事实上，Zangwill（1990）在对审美证言地位的第一次广泛讨论中，甚至将其列为康德美学的“教条”，然后提出了一种反对悲观主义的广泛论证。
 
 尽管在二十世纪很少看到对审美证言的明确关注（斯克鲁顿（Scruton）1974 年是另一个值得注意的例外），但在二十一世纪情况却迥然不同。在相对较短的时间内发表了三篇具有极大影响力的论文后（Hopkins 2000 年，Budd 2003 年和 Meskin 2004 年），审美证言迅速成为一个重要的辩论领域。这与哲学中对证言的关注增加（Coady 1992 年；Lackey 2008 年；Lackey＆Sosa 2006 年；Matilal＆Chakrabarti 1994 年）以及其他被认为是例外领域，如伦理学（Hills 2009 年）和宗教（Jay 2016 年）的情况相一致。
 
@@ -46,19 +46,19 @@
 
 ### 2.1 认识原则
 
-这里最常被引用的原则是理查德·沃尔海姆（1980: 233）的认识原则（AP），根据该原则
+这里最常被引用的原则是理查德 · 沃尔海姆（1980: 233）的认识原则（AP），根据该原则
 
 > 审美价值的判断，与道德知识的判断不同，必须基于对其对象的第一手经验，并且除非在非常狭窄的范围内，否则不能从一个人传递给另一个人。
 
 这个原则（至少在提到“非常狭窄的范围”时）似乎两次排除了对审美证言的诉诸，因为证言无法提供我们第一手的了解，并且显然需要某种人际传递。
 
-对于悲观主义的解释，对 AP 的呼吁存在两个问题。首先，沃尔海姆的原则及其后续讨论有时很难解释。其次，有人认为 AP 本身是错误的。当然，这两个问题是相关的，支持者和反对者都常常争论原则的各种解释明显使其变得琐碎或不可信（霍普金斯 2006 年；巴德 2003 年；兰索姆 2019 年；洛德 2018 年）。例如，很明显，要求我们必须始终与作品本身互动才能对其进行任何审美判断是不合理的，而适当准确的复制品或足够详细的照片在许多情况下都可以提供一些审美洞察力。这些理论家的分歧在于是否存在任何不以这种方式被误解的原则版本。对于 AP 处理观念艺术等特定类型的艺术作品的能力也存在进一步的担忧（有关这些问题和一些回应的讨论，请参见汉森（2015））。有些人，比如利文斯顿（2003 年），认为这些担忧削弱了既真实又非琐碎的 AP 版本的前景，但其他人则更有希望。例如，洛德（2018 年）提出，我们应该思考的不是与特定艺术作品的熟悉，而是与对象具体实现的某个高度确定的审美属性的熟悉。对这个属性的熟悉严格来说并不需要与作品本身熟悉，而是允许与复制品或照片熟悉。然而，这种原则仍然排除了根据归纳或证言形成我们的审美判断的可能性。无论我们如何解释这个原则的范围，仍然存在一个问题，即在这里“必须”应该如何解释。 在某些观点中，这种需求被解释为一种认识论需求，认为熟悉是审美知识的先决条件（Pettit 1983; Budd 2003），但正如我们将在§3.2 中看到的，即使在悲观主义者中，也越来越多地将这种需求解释为与某种非认识论规范有关的方式（Hopkins 2006）。
+对于悲观主义的解释，对 AP 的呼吁存在两个问题。首先，沃尔海姆的原则及其后续讨论有时很难解释。其次，有人认为 AP 本身是错误的。当然，这两个问题是相关的，支持者和反对者都常常争论原则的各种解释明显使其变得琐碎或不可信（霍普金斯 2006 年；巴德 2003 年；兰索姆 2019 年；洛德 2018 年）。例如，很明显，要求我们必须始终与作品本身互动才能对其进行任何审美判断是不合理的，而适当准确的复制品或足够详细的照片在许多情况下都可以提供一些审美洞察力。这些理论家的分歧在于是否存在任何不以这种方式被误解的原则版本。对于 AP 处理观念艺术等特定类型的艺术作品的能力也存在进一步的担忧（有关这些问题和一些回应的讨论，请参见汉森（2015））。有些人，比如利文斯顿（2003 年），认为这些担忧削弱了既真实又非琐碎的 AP 版本的前景，但其他人则更有希望。例如，洛德（2018 年）提出，我们应该思考的不是与特定艺术作品的熟悉，而是与对象具体实现的某个高度确定的审美属性的熟悉。对这个属性的熟悉严格来说并不需要与作品本身熟悉，而是允许与复制品或照片熟悉。然而，这种原则仍然排除了根据归纳或证言形成我们的审美判断的可能性。无论我们如何解释这个原则的范围，仍然存在一个问题，即在这里“必须”应该如何解释。 在某些观点中，这种需求被解释为一种认识论需求，认为熟悉是审美知识的先决条件（Pettit 1983; Budd 2003），但正如我们将在 §3.2 中看到的，即使在悲观主义者中，也越来越多地将这种需求解释为与某种非认识论规范有关的方式（Hopkins 2006）。
 
-然而，最近有争议是否应将 AP 解释为支持（非平凡的）悲观主义。Lopes（2014: 170）声称“对熟悉原则的争议源于对其的错误解释”。许多哲学家将“审美判断”解释为指涉某种类似于信念的状态，这种状态可能无法满足某种规范，无论是认识论的还是其他方面的。根据 Lopes 的观点，“审美判断”应该被解释为某种特定类型的体验/欣赏状态，这种状态本质上无法基于例如证言的基础进入（Shelley 2023 提供了一种截然不同但同样具有修正性的 AP 解释）。这样的解释性转变确实有先例，考虑弗兰克·西布利的案例。关于审美证言的许多讨论（例如 Gorodeisky [2010: 58–9]，Laetz [2008: 356]和 Meskin [2006: 111]）认为西布利在他著名的（1965: 137）论断中支持某种形式的悲观主义
+然而，最近有争议是否应将 AP 解释为支持（非平凡的）悲观主义。Lopes（2014: 170）声称“对熟悉原则的争议源于对其的错误解释”。许多哲学家将“审美判断”解释为指涉某种类似于信念的状态，这种状态可能无法满足某种规范，无论是认识论的还是其他方面的。根据 Lopes 的观点，“审美判断”应该被解释为某种特定类型的体验/欣赏状态，这种状态本质上无法基于例如证言的基础进入（Shelley 2023 提供了一种截然不同但同样具有修正性的 AP 解释）。这样的解释性转变确实有先例，考虑弗兰克 · 西布利的案例。关于审美证言的许多讨论（例如 Gorodeisky [2010: 58–9]，Laetz [2008: 356] 和 Meskin [2006: 111]）认为西布利在他著名的（1965: 137）论断中支持某种形式的悲观主义
 
 > 实际上，假设可以在没有审美感知的情况下做出审美判断...是对审美判断的误解。（以及类似的言论，例如 Sibley 1959: 424–6 和 1974: 16）
 
-然而，这种解释是有争议的，有人（例如，利文斯顿[2003: 268]和洛佩斯本人[2014: 174]）提出，西布利只是在做一种特定类型的规定，并不打算支持任何实质性的悲观主义论点。然而，无论洛佩斯的 AP 版本有什么其他优点，都很难认为它们提供了沃尔海姆观点的准确解释。（雪莉[2023: 405]的解释也类似，但他澄清说，他并不特别关心他对 AP 的解释是否与沃尔海姆自己的理解相符，也没有暗示其他人在解释上犯了错误。）正如沃尔班克和罗布森（2022: 42-4）指出的那样，沃尔海姆自己的一些言论（1980: 231-2）明确表明他愿意考虑许多不同的 AP 解释，其中至少有一种明显是认识论性质的。
+然而，这种解释是有争议的，有人（例如，利文斯顿 [2003: 268] 和洛佩斯本人 [2014: 174]）提出，西布利只是在做一种特定类型的规定，并不打算支持任何实质性的悲观主义论点。然而，无论洛佩斯的 AP 版本有什么其他优点，都很难认为它们提供了沃尔海姆观点的准确解释。（雪莉 [2023: 405] 的解释也类似，但他澄清说，他并不特别关心他对 AP 的解释是否与沃尔海姆自己的理解相符，也没有暗示其他人在解释上犯了错误。）正如沃尔班克和罗布森（2022: 42-4）指出的那样，沃尔海姆自己的一些言论（1980: 231-2）明确表明他愿意考虑许多不同的 AP 解释，其中至少有一种明显是认识论性质的。
 
 ### 2.2 进一步的原则
 
@@ -74,9 +74,9 @@
 
 在审美判断的性质方面，存在着明显的两派分歧。第一派认为审美判断是一种信念，可以以狭义的认知主义意义（Hopkins 2006, 2011; Whiting 2015）或更广义的意义来理解，允许某些表达主义或准实在主义的等效形式（Robson 2023: 16–8）。第二派认为“判断”一词捕捉到了一种欣赏的状态。从欣赏的角度来理解，这个争论在很大程度上可以通过定义来解决，而且没有乐观主义者会坚持说我们可以仅凭证言就能达到欣赏的状态——通常被理解为以某种方式体验事物的品质，从而发现它们“值得或有价值”（Dickie 1974: 40）（Konigsberg 2012 是一个明显的例外，但这仅仅是因为他对“证言”的理解比我们关注的纯粹证言更广泛）。很容易看出，正如我们已经看到 Lopes（2014）对于 AP 的建议，这个争论的参与者可能只是在互相忽略，乐观主义者坚持我们可以合法地根据证言形成审美信念，而悲观主义者则否认我们可以合法地基于这一点欣赏审美品质。然而，虽然我们不否认这些争论中可能存在一定程度的误解，但我们认为这种和平的方法是错误的，原因有两个。
 
-首先，正如 Gorodeisky 和 Marcus（2018: 135–7）所强调的那样，参与这场辩论的人通常不认为他们只是任意规定“审美判断”的用法，而是在指出我们审美言论通常追踪的某种心理状态。因此，实质性的辩论通常涉及我们是否可以合法地基于证言形成这些状态。Robson（2023: 16–8）认为这些状态类似于信念，Todd（2004）认为它们是欣赏的状态，而 Gorodeisky 和 Marcus（2018）则选择了一种混合观点，即这些相关状态通常是欣赏的状态，但在某些非标准情况下，它们是信念（Briesen [即将出版]则辩护了一种非常不同的混合观点）。其次，虽然在第二种理解下排除依赖于证言的原因是清楚的，但确定证言是形成第一种意义上的判断的合法手段却远非微不足道的问题（Robson 2017 认为将审美判断视为信念会导致乐观主义，但这是有争议的）。相反，一些悲观主义者明确支持第一种解释。
+首先，正如 Gorodeisky 和 Marcus（2018: 135–7）所强调的那样，参与这场辩论的人通常不认为他们只是任意规定“审美判断”的用法，而是在指出我们审美言论通常追踪的某种心理状态。因此，实质性的辩论通常涉及我们是否可以合法地基于证言形成这些状态。Robson（2023: 16–8）认为这些状态类似于信念，Todd（2004）认为它们是欣赏的状态，而 Gorodeisky 和 Marcus（2018）则选择了一种混合观点，即这些相关状态通常是欣赏的状态，但在某些非标准情况下，它们是信念（Briesen [即将出版] 则辩护了一种非常不同的混合观点）。其次，虽然在第二种理解下排除依赖于证言的原因是清楚的，但确定证言是形成第一种意义上的判断的合法手段却远非微不足道的问题（Robson 2017 认为将审美判断视为信念会导致乐观主义，但这是有争议的）。相反，一些悲观主义者明确支持第一种解释。
 
-悲观主义者采用这种对“审美判断”的理解，对对审美证言的尊重提出了各种异议，按照（Hopkins 2011）的说法，这些抵制的思路通常被分为两个大的阵营：“不可得性悲观主义”和“不可用性悲观主义”。不可得性悲观主义者认为，审美证言简单地未能满足形成合法审美判断的认识条件，因此审美证言无法作为知识的来源。相比之下，不可用性悲观主义者认为，审美证言可能会产生审美知识，但是，仍然存在一种非认识规范，阻止我们将审美证言作为形成这种知识的合法资源。许多理论家认为，寻常证言（即大致上是关于普通事务的证言，在这些事务中，那些不倾向于任何一般性证言怀疑论的人通常都同意证言是无问题的）和审美证言之间的地位存在直观上的不对称性。此外，正如我们所见，这些理论家通常还认为，一手和二手审美判断来源之间也存在相关的直观上的不对称性。不可用性悲观主义者认为他们的进一步规范可以解释这些不对称性。（有关对这种直觉的可行性的更多信息，请参见§5.2。）
+悲观主义者采用这种对“审美判断”的理解，对对审美证言的尊重提出了各种异议，按照（Hopkins 2011）的说法，这些抵制的思路通常被分为两个大的阵营：“不可得性悲观主义”和“不可用性悲观主义”。不可得性悲观主义者认为，审美证言简单地未能满足形成合法审美判断的认识条件，因此审美证言无法作为知识的来源。相比之下，不可用性悲观主义者认为，审美证言可能会产生审美知识，但是，仍然存在一种非认识规范，阻止我们将审美证言作为形成这种知识的合法资源。许多理论家认为，寻常证言（即大致上是关于普通事务的证言，在这些事务中，那些不倾向于任何一般性证言怀疑论的人通常都同意证言是无问题的）和审美证言之间的地位存在直观上的不对称性。此外，正如我们所见，这些理论家通常还认为，一手和二手审美判断来源之间也存在相关的直观上的不对称性。不可用性悲观主义者认为他们的进一步规范可以解释这些不对称性。（有关对这种直觉的可行性的更多信息，请参见 §5.2。）
 
 ### 3.1 不可得性悲观主义
 
@@ -98,7 +98,7 @@
 
 对于那些怀疑审美证言价值的人来说，采用审美错误理论的吸引力是明显的，如果审美主张无法成立，我们可以预期审美证言没有认识论价值。然而，这个立场同样意味着基于第一手经验不能有真实的审美主张。因此，虽然它符合悲观主义通常被表述的要求，但它未能捕捉到第一手和第二手审美判断之间的关键不对称性，而大多数悲观主义者显然认为自己承诺了这种不对称性（参见 Meskin 2006 年）。
 
-最初，对审美相对主义的诉诸似乎更能捕捉到这种不对称性，因为对于接受证言的担忧（例如，我们是否与证言者分享相似的判断标准）在第一手判断的情况下并不适用。此外，（将在§5.1 中探讨）普遍存在的相对主义的普通人假设可能解释了为什么审美证言通常被直观地认为具有较低的认识论价值。然而，当涉及到更复杂的相对主义形式时，情况变得更加复杂（参见§4.1.1）。
+最初，对审美相对主义的诉诸似乎更能捕捉到这种不对称性，因为对于接受证言的担忧（例如，我们是否与证言者分享相似的判断标准）在第一手判断的情况下并不适用。此外，（将在 §5.1 中探讨）普遍存在的相对主义的普通人假设可能解释了为什么审美证言通常被直观地认为具有较低的认识论价值。然而，当涉及到更复杂的相对主义形式时，情况变得更加复杂（参见 §4.1.1）。
 
 在第 4.1.1 节中将讨论一种复杂的悲观吸引力表达主义和乐观回应的发展。现在，让我们观察一个非常基本的表达主义观点具有容纳某些悲观直觉的能力-根据这个观点，没有表达任何命题，因此不能通过这样的表达获得命题知识。然而，这种基本版本的表达主义在悲观主义者看来往往不吸引人，而且表达主义的更复杂版本与悲观主义之间的联系远不如清晰。
 
@@ -112,7 +112,7 @@
 
 最后还有一种方法可能合理地被归类为一种不可得悲观主义，如上所定义。然而，有趣的特点是，辩护者通常用“乐观主义”这个词来标记他们的论点。
 
-乐观主义和悲观主义之间的区别在第 1 节中被粗略地定义为反映那些认为我们可以根据证词合理地形成审美判断的人与那些认为我们不能的人之间的分歧（这是 Hopkins 2011 年、Whiting 2015 年和 Ransom 2019 年等人使用的区别）。正如我们所见（§3.1.1），这个立场通常与一种看似悲观的主张相联系，即审美证词具有与平凡证词不对称的认识地位。然而，我们在这里需要添加一些细微差别。有些自认为是悲观主义者明确承认，有些罕见情况下我们可能（合理地）通过证词获得审美知识（Hopkins 2011:154；Wollheim 1980:233）。此外，有些自认为是乐观主义者愿意支持这样一个观点，即审美证词与平凡证词（以及第一手审美体验）具有不对称的认识地位。
+乐观主义和悲观主义之间的区别在第 1 节中被粗略地定义为反映那些认为我们可以根据证词合理地形成审美判断的人与那些认为我们不能的人之间的分歧（这是 Hopkins 2011 年、Whiting 2015 年和 Ransom 2019 年等人使用的区别）。正如我们所见（§3.1.1），这个立场通常与一种看似悲观的主张相联系，即审美证词具有与平凡证词不对称的认识地位。然而，我们在这里需要添加一些细微差别。有些自认为是悲观主义者明确承认，有些罕见情况下我们可能（合理地）通过证词获得审美知识（Hopkins 2011: 154；Wollheim 1980: 233）。此外，有些自认为是乐观主义者愿意支持这样一个观点，即审美证词与平凡证词（以及第一手审美体验）具有不对称的认识地位。
 
 Hopkins（2007: 613; 2011: 139–32）建议我们将悲观主义和乐观主义之间的区分标记如下：悲观主义者认为在审美案例中存在一种活跃的原则或规范，但在平凡案例中不活跃，这妨碍了审美证言作为合法审美判断的可能性，而乐观主义者则否认这一点（有关为什么这种细微差别可能并不那么有帮助的讨论，请参见 Robson 2023: 24–6）。如果我们接受 Hopkin 的建议，一种方法是否认存在任何不同/非标准的认识论（或非认识论）规范来管理审美知识的形成，但仍然认为审美证言具有与平凡证言不对称的认识论地位是相关乐观的。这种方法可以坚持认为审美证言未能（或至少通常未能）满足作为合法审美知识来源的标准条件。
 
@@ -128,9 +128,9 @@ Hopkins（2007: 613; 2011: 139–32）建议我们将悲观主义和乐观主义
 
 作为证言的接收者，我们努力评估可用的一手证据，我们在确定这些证据的可靠性方面遇到困难，这反过来可能给我们提供足够的理由怀疑我们是否可以正当地相信这个证言。
 
-第一种主张是由亚伦·梅斯金（Aaron Meskin）（2004 年，2006 年）提出的。他认为，审美证人比非审美证人更有可能既不真诚（出于势利的原因），又不称职（出于教育原因）-因此，审美证言整体上是不可靠的（Meskin 2004 年，2006 年）。他认为，审美证言原则上可以与其他领域的证言具有相同的认识地位，但他坚持认为，由于证人通常不可靠，审美证言整体上往往劣于其他领域的证言。
+第一种主张是由亚伦 · 梅斯金（Aaron Meskin）（2004 年，2006 年）提出的。他认为，审美证人比非审美证人更有可能既不真诚（出于势利的原因），又不称职（出于教育原因）-因此，审美证言整体上是不可靠的（Meskin 2004 年，2006 年）。他认为，审美证言原则上可以与其他领域的证言具有相同的认识地位，但他坚持认为，由于证人通常不可靠，审美证言整体上往往劣于其他领域的证言。
 
-第二种主张（Wallbank 2021）认为，审美证言的真正问题不在于审美证人通常不可靠，而是我们不知道他们有多可靠，我们没有足够的资源来测试这一点。标准的监测技术在美学领域不可用（Nguyen 2020b；参见§1.2 关于审美品味原则的讨论）。这并不是说完全没有证据可用，如果证言者 T 做出了“x 很美”的审美判断，而接受证言的 R 也将 x 视为美丽，那么 R 将有一些直接证据来支持 T 具有专业知识的观点（Sibley 1965）。然而，尽管有这些证据，它似乎并不为我们对证言者能力的信任提供足够的支持，它只为这样一个观点提供足够的支持，即所谓的专家与自己具有相似的审美标准，而我们为什么要认为我们的审美品味准确呢，这一点并不清楚（Irvin 2007 在不同的背景下讨论了类似的挑战和可能的解决方法）。
+第二种主张（Wallbank 2021）认为，审美证言的真正问题不在于审美证人通常不可靠，而是我们不知道他们有多可靠，我们没有足够的资源来测试这一点。标准的监测技术在美学领域不可用（Nguyen 2020b；参见 §1.2 关于审美品味原则的讨论）。这并不是说完全没有证据可用，如果证言者 T 做出了“x 很美”的审美判断，而接受证言的 R 也将 x 视为美丽，那么 R 将有一些直接证据来支持 T 具有专业知识的观点（Sibley 1965）。然而，尽管有这些证据，它似乎并不为我们对证言者能力的信任提供足够的支持，它只为这样一个观点提供足够的支持，即所谓的专家与自己具有相似的审美标准，而我们为什么要认为我们的审美品味准确呢，这一点并不清楚（Irvin 2007 在不同的背景下讨论了类似的挑战和可能的解决方法）。
 
 ### 3.2 不可用性悲观主义
 
@@ -162,7 +162,7 @@ Hopkins（2007: 613; 2011: 139–32）建议我们将悲观主义和乐观主义
 
 尽管审美错误理论和审美相对主义可以容纳悲观直觉，即审美证言无法作为形成合法审美判断的手段，但审美错误理论和相对主义（或至少是那种直接排除对审美证言的诉求的粗糙相对主义）通常被审美证言辩论中的人士所拒绝。通常认为存在审美真理，并且这些真理（或至少其中的一些重要子集）在不同讲话者之间的真值不会变化。事实上，基于这些基本假设，理论家们通常设定了一个挑战，即如何解释审美证言似乎仍然具有（i）与日常领域的证言相比具有不对称的认识地位，以及（ii）与对对象的直接熟悉相比具有不对称的认识地位（Meskin 2006: 112–113; Hopkins 2011: 141）。Meskin（2006: 113）还强调了相对主义方法在解释为什么在志同道合的价值者的背景下，审美证言可能具有不对称地位（在上述两个意义上）方面面临额外的困难。
 
-有趣的是，基本的表达主义方法似乎也面临着与错误理论和相对主义相似的困境（参见 Meskin 2006）。悲观主义者（参见§3.1.3 的细微差别）通常热衷于观察一个人在审美证言的基础上形成审美判断的认识状态与第一手接触对象的状态之间的不对称性（Hopkins 2011）。然而，如果这种粗糙的表达主义者是正确的，这里就没有不对称性，既不能将证言也不能将接触作为知识的来源（Meskin 2007: 115）。当涉及到更复杂的相对主义和表达主义形式时，确实有人试图将这两者与悲观主义联系起来（参见 McGonigal 2006 和 Andow 2015，前者；以及 Scruton 1974、Todd 2004、Franzén 2018 和（可以说）Gorodeisky＆Marcus 2018，后者）。
+有趣的是，基本的表达主义方法似乎也面临着与错误理论和相对主义相似的困境（参见 Meskin 2006）。悲观主义者（参见 §3.1.3 的细微差别）通常热衷于观察一个人在审美证言的基础上形成审美判断的认识状态与第一手接触对象的状态之间的不对称性（Hopkins 2011）。然而，如果这种粗糙的表达主义者是正确的，这里就没有不对称性，既不能将证言也不能将接触作为知识的来源（Meskin 2007: 115）。当涉及到更复杂的相对主义和表达主义形式时，确实有人试图将这两者与悲观主义联系起来（参见 McGonigal 2006 和 Andow 2015，前者；以及 Scruton 1974、Todd 2004、Franzén 2018 和（可以说）Gorodeisky＆Marcus 2018，后者）。
 
 从表达主义开始，表达主义者通常可以（使用由 Blackburn 1993 等人开发的机制）愉快地诉诸于真理、知识等关键概念，这些概念也可以被他们的现实主义对应物使用。因此，悲观主义者不必担心除了来自证言的审美知识之外还必须拒绝一般的审美知识。然而，对于这些观点的关注（如 Meskin 2004: 71 和 Robson＆Sinclair 2023 所讨论的）是，一旦这些现实主义概念确立，表达主义是否还意味着悲观主义就不再清楚了。我们不知道在审美案例中是否存在乐观主义版本的表达主义，但值得注意的是，在伦理学中最著名的表达主义版本之一（Gibbard 1992: 174–88）允许：
 
@@ -178,7 +178,7 @@ Hopkins（2007: 613; 2011: 139–32）建议我们将悲观主义和乐观主义
 
 #### 4.1.3 “适度乐观的方法”：一个（更）乐观的回应
 
-坚持（i）审美证言的不可靠性是解释面临的主要困难，我们在验证这一主张时面临的困难（见§3.1.3）。坚持（ii）审美证言可靠性无法确定的解释面临的主要困难是我们在通过其他方式维持审美知识的可能性时面临的困难。正如霍普金斯（2011: 141）所指出的，后一种解释很难在不强制性地成为不可知论者的情况下继续进行。根据这种解释，似乎在审美证言和个人第一手感知之间没有真正的认识上的不对称性（特别是因为最近的讨论（见例如，Irvin 2014 和 Lopes 2014）对我们自己的审美能力的判断的可靠性提出了许多挑战）。
+坚持（i）审美证言的不可靠性是解释面临的主要困难，我们在验证这一主张时面临的困难（见 §3.1.3）。坚持（ii）审美证言可靠性无法确定的解释面临的主要困难是我们在通过其他方式维持审美知识的可能性时面临的困难。正如霍普金斯（2011: 141）所指出的，后一种解释很难在不强制性地成为不可知论者的情况下继续进行。根据这种解释，似乎在审美证言和个人第一手感知之间没有真正的认识上的不对称性（特别是因为最近的讨论（见例如，Irvin 2014 和 Lopes 2014）对我们自己的审美能力的判断的可靠性提出了许多挑战）。
 
 ### 4.2 对无法使用的悲观主义的乐观回应
 
@@ -190,7 +190,7 @@ Hopkins（2007: 613; 2011: 139–32）建议我们将悲观主义和乐观主义
 
 #### 4.2.2 自主性：一个乐观的回应
 
-从自主性的关注中出现的一个困难是，这个论点比起初看起来更加复杂。起初似乎自主性对我们的审美参与和顺从有着最重要的价值，而顺从则削弱了这一点。然而，在阮（2020a）的论证中的各个观点中，似乎长时间的审美参与（欣赏活动）对我们的审美生活有着最重要的价值，自主性被认为是我们实现这一价值的最佳途径（而顺从则被视为削弱了这一价值）。在这种情况下，自主性似乎只是一种工具性的价值，是实现长时间审美活动的手段。当我们参与这个论证时，我们需要澄清自主活动的价值有多大，长时间审美活动的价值有多大；我们还需要澄清我们所谈论的是什么价值。此外，如果延长审美活动是最重要的，值得强调的是，顺从的参与并不一定会削弱长时间的活动（见§4.2.4）。顺从使我们有与非顺从相同的审美参与机会，唯一的区别是我们没有首先对这个问题进行判断。
+从自主性的关注中出现的一个困难是，这个论点比起初看起来更加复杂。起初似乎自主性对我们的审美参与和顺从有着最重要的价值，而顺从则削弱了这一点。然而，在阮（2020a）的论证中的各个观点中，似乎长时间的审美参与（欣赏活动）对我们的审美生活有着最重要的价值，自主性被认为是我们实现这一价值的最佳途径（而顺从则被视为削弱了这一价值）。在这种情况下，自主性似乎只是一种工具性的价值，是实现长时间审美活动的手段。当我们参与这个论证时，我们需要澄清自主活动的价值有多大，长时间审美活动的价值有多大；我们还需要澄清我们所谈论的是什么价值。此外，如果延长审美活动是最重要的，值得强调的是，顺从的参与并不一定会削弱长时间的活动（见 §4.2.4）。顺从使我们有与非顺从相同的审美参与机会，唯一的区别是我们没有首先对这个问题进行判断。
 
 #### 4.2.3 真实性和审美个性：一种乐观的回应
 
@@ -200,7 +200,7 @@ Bräuer（2023）的方法有些不同。Bräuer 认为，审美证言之所以�
 
 #### 4.2.4 审美发展：（更）乐观的回应
 
-转向对于顺从审美证言会阻碍我们审美发展的关注。重要的是再次观察（参见§4.2.2），获得一些信息不一定会阻止一个人在以后的某个时候继续追求这个问题。实际上，在审美领域内，听取关于某个问题的证言可能正是激励某些缺乏自信的人自己参与该问题的事情。Wallbank 和 Reisner（2020）在一篇论文中提出了这一观点，认为顺从可以成为认识论的促进者，接受问题中的信念可以成为进一步调查和参与的跳板。即使顺从证言意味着接受虚假，从长远来看，它可能证明在认识论上是有益的，因为它作为进一步参与的跳板，从而使我们有可能进一步接触到真理。正如 Ransom（2019）和 Lord（2018）本人所承认的，顺从审美证言在这里对于那些特别缺乏审美经验和需要鼓励的个体来说尤其有益。
+转向对于顺从审美证言会阻碍我们审美发展的关注。重要的是再次观察（参见 §4.2.2），获得一些信息不一定会阻止一个人在以后的某个时候继续追求这个问题。实际上，在审美领域内，听取关于某个问题的证言可能正是激励某些缺乏自信的人自己参与该问题的事情。Wallbank 和 Reisner（2020）在一篇论文中提出了这一观点，认为顺从可以成为认识论的促进者，接受问题中的信念可以成为进一步调查和参与的跳板。即使顺从证言意味着接受虚假，从长远来看，它可能证明在认识论上是有益的，因为它作为进一步参与的跳板，从而使我们有可能进一步接触到真理。正如 Ransom（2019）和 Lord（2018）本人所承认的，顺从审美证言在这里对于那些特别缺乏审美经验和需要鼓励的个体来说尤其有益。
 
 ## 5. 悲观主义的论证
 
@@ -256,122 +256,122 @@ Bräuer（2023）的方法有些不同。Bräuer 认为，审美证言之所以�
 
 ### 7. 证言的价值
 
-值得注意的最后一个考虑因素是承认对审美证言的尊重实际上可能具有审美（或其他方面的）价值。以往关于审美证言的讨论（Meskin 2004: 76; Ransom 2019: 426）——无论是乐观派还是悲观派——都强调了当我们推迟对作品本身的参与而转而听从证言时，会失去很多价值（最明显的是审美欣赏）。然而，在这里可能还存在被低估的价值来源（Wallbank & Robson 2022）。关于对证言的信任的文献经常指出，对证言的尊重发挥了有价值的社会作用。它可以作为一种社会凝聚体验（Faulkner 2007; Jones 1996），通常被理解为促进人际关系和确保社会合作的手段。（与此相关的是，对某人证言的不信任和非信任往往被视为发挥了社会负面作用[Hazlett 2017]）。这里的想法是，如果 A 向 B 证明 p，A 将邀请 B 相信她已经做了相关的认知工作，并且足够能干和真诚，以至于 B 可以简单地相信 A 的话。如果 B 拒绝这个邀请，A 可以有理由感到受到了对她真诚或能力的暗示性质疑而感到受侮辱。还要注意的是，尽管文献通常关注人际关系的培养，但一些对信任的解释也允许这种社会凝聚体验在个体与集体之间发生（Wallbank 2021）。因此，个体对文化上被接受的审美判断的信任——比如，莫扎特的作品是壮丽的——可能反映了一种形成社群的体验、团体凝聚力，并且可能加强了集体认同感。 考虑到最近在审美学领域关于审美价值和社会价值之间可能存在亲密关系的研究（Riggle 2022；Cross 即将发表），有趣的是观察到研究人员有机会为提倡这样一个观点铺平道路：对审美证言的尊重不仅在审美上是可容许的，不仅仅是作为审美发展的临时工具有用，而且它本身就具有审美价值（有关审美判断基础的细微差别的讨论，请参见 King 2021；有关在伦理学中对证言的尊重可能具有积极价值的论证，请参见 McShane 2018）。)
+值得注意的最后一个考虑因素是承认对审美证言的尊重实际上可能具有审美（或其他方面的）价值。以往关于审美证言的讨论（Meskin 2004: 76; Ransom 2019: 426）——无论是乐观派还是悲观派——都强调了当我们推迟对作品本身的参与而转而听从证言时，会失去很多价值（最明显的是审美欣赏）。然而，在这里可能还存在被低估的价值来源（Wallbank & Robson 2022）。关于对证言的信任的文献经常指出，对证言的尊重发挥了有价值的社会作用。它可以作为一种社会凝聚体验（Faulkner 2007; Jones 1996），通常被理解为促进人际关系和确保社会合作的手段。（与此相关的是，对某人证言的不信任和非信任往往被视为发挥了社会负面作用 [Hazlett 2017]）。这里的想法是，如果 A 向 B 证明 p，A 将邀请 B 相信她已经做了相关的认知工作，并且足够能干和真诚，以至于 B 可以简单地相信 A 的话。如果 B 拒绝这个邀请，A 可以有理由感到受到了对她真诚或能力的暗示性质疑而感到受侮辱。还要注意的是，尽管文献通常关注人际关系的培养，但一些对信任的解释也允许这种社会凝聚体验在个体与集体之间发生（Wallbank 2021）。因此，个体对文化上被接受的审美判断的信任——比如，莫扎特的作品是壮丽的——可能反映了一种形成社群的体验、团体凝聚力，并且可能加强了集体认同感。 考虑到最近在审美学领域关于审美价值和社会价值之间可能存在亲密关系的研究（Riggle 2022；Cross 即将发表），有趣的是观察到研究人员有机会为提倡这样一个观点铺平道路：对审美证言的尊重不仅在审美上是可容许的，不仅仅是作为审美发展的临时工具有用，而且它本身就具有审美价值（有关审美判断基础的细微差别的讨论，请参见 King 2021；有关在伦理学中对证言的尊重可能具有积极价值的论证，请参见 McShane 2018）。)
 
 ## Bibliography
 
-* Andow, James, 2015, “A Semantic Solution to the Problem with Aesthetic Testimony”, *Acta Analytica*, 30(2): 211–218. doi:10.1007/s12136-014-0238-4
+* Andow, James, 2015, “A Semantic Solution to the Problem with Aesthetic Testimony”, *Acta Analytica*, 30(2): 211–218. doi: 10.1007/s12136-014-0238-4
 * –––, 2019, “Aesthetic Testimony and Experimental Philosophy”, in *Advances in Experimental Philosophy of Aesthetics*, Florian Cova and Sébastien Réhault (eds), (Advances in Experimental Philosophy), London: Bloomsbury Academic, 33–58 (ch. 2).
 * Augustine of Hippo, [2010], *Revisions*, Roland Teske (ed.). Boniface Ramsey (trans.), (The Works of Saint Augustine), New York: New City Press, 2010.
-* Beardsley, Monroe C., 1962, “On the Generality of Critical Reasons”, *The Journal of Philosophy*, 59(18): 477–486. doi:10.2307/2023219
+* Beardsley, Monroe C., 1962, “On the Generality of Critical Reasons”, *The Journal of Philosophy*, 59(18): 477–486. doi: 10.2307/2023219
 * Blackburn, Simon, 1993, *Essays in Quasi-Realism*, Oxford: Oxford University Press.
-* –––, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Clarendon Press. doi:10.1093/oso/9780198247852.001.0001
-* Bräuer, Felix, 2023, “Aesthetic Testimony and Aesthetic Authenticity”, *British Journal of Aesthetics*, 63(3): 395–416. doi:10.1093/aesthj/ayac045
+* –––, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Clarendon Press. doi: 10.1093/oso/9780198247852.001.0001
+* Bräuer, Felix, 2023, “Aesthetic Testimony and Aesthetic Authenticity”, *British Journal of Aesthetics*, 63(3): 395–416. doi: 10.1093/aesthj/ayac045
 * Briesen, Jochen, forthcoming, “Aesthetic Judgments, Evaluative Content, and (Hybrid) Expressivism”, *Ergo*.
-* Budd, Malcolm, 2003, “The Acquaintance Principle”, *The British Journal of Aesthetics*, 43(4): 386–392. doi:10.1093/bjaesthetics/43.4.386
-* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi:10.2307/2185680
-* Coady, C. A. J., 1992, *Testimony: A Philosophical Study*, Oxford: Clarendon Press. doi:10.1093/0198235518.001.0001
+* Budd, Malcolm, 2003, “The Acquaintance Principle”, *The British Journal of Aesthetics*, 43(4): 386–392. doi: 10.1093/bjaesthetics/43.4.386
+* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi: 10.2307/2185680
+* Coady, C. A. J., 1992, *Testimony: A Philosophical Study*, Oxford: Clarendon Press. doi: 10.1093/0198235518.001.0001
 * Cova, Florian; Garcia, Amanda & Liao, Shen-yi, 2015, “Experimental Philosophy of Aesthetics”, Philosophy Compass 10(12): 927–939.
 * Cross, Anthony, (forthcoming), “Social Aesthetic Goods and Aesthetic Alienation”, *Philosophers Imprint*.
-* Eaton, Marcia Muelder, 1994, “The Intrinsic, Non-Supervenient Nature of Aesthetic Properties”, *The Journal of Aesthetics and Art Criticism*, 52(4): 383–397. doi:10.2307/432026
-* Faulkner, Paul, 2007, “On Telling and Trusting”, *Mind*, 116(464): 875–902. doi:10.1093/mind/fzm875
-* –––, 2011, *Knowledge on Trust*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199589784.001.0001
-* Franzén, Nils, 2018, “Aesthetic Evaluation and First-Hand Experience”, *Australasian Journal of Philosophy*, 96(4): 669–682. doi:10.1080/00048402.2018.1425729
-* Friend, Stacie, 2023, “Aesthetic Appreciation without Inversion”, *Aristotelian Society Supplementary Volume*, 97(1): 202–220. doi:10.1093/arisup/akad004
+* Eaton, Marcia Muelder, 1994, “The Intrinsic, Non-Supervenient Nature of Aesthetic Properties”, *The Journal of Aesthetics and Art Criticism*, 52(4): 383–397. doi: 10.2307/432026
+* Faulkner, Paul, 2007, “On Telling and Trusting”, *Mind*, 116(464): 875–902. doi: 10.1093/mind/fzm875
+* –––, 2011, *Knowledge on Trust*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199589784.001.0001
+* Franzén, Nils, 2018, “Aesthetic Evaluation and First-Hand Experience”, *Australasian Journal of Philosophy*, 96(4): 669–682. doi: 10.1080/00048402.2018.1425729
+* Friend, Stacie, 2023, “Aesthetic Appreciation without Inversion”, *Aristotelian Society Supplementary Volume*, 97(1): 202–220. doi: 10.1093/arisup/akad004
 * Fricker, Elizabeth, 2006, “Testimony and Epistemic Autonomy” in *The Epistemology of Testimony*, Jennifer Lackey and Ernest Sosa (eds), Oxford: Oxford University Press, 225–50.
-* Fricker, Miranda, 2012, “Group Testimony? The Making of A Collective Good Informant”, *Philosophy and Phenomenological Research*, 84(2): 249–276. doi:10.1111/j.1933-1592.2011.00565.x
+* Fricker, Miranda, 2012, “Group Testimony? The Making of A Collective Good Informant”, *Philosophy and Phenomenological Research*, 84(2): 249–276. doi: 10.1111/j.1933-1592.2011.00565.x
 * Gibbard, Allan, 1992, Wise Choices, Apt Feelings: A Theory of Normative Judgement. Cambridge, MA: Harvard University Press.
 * Goldman, Alan H., 1995, *Aesthetic Value*, Boulder, CO: Westview Press.
-* Gorodeisky, Keren, 2010, “A New Look at Kant’s View of Aesthetic Testimony”, *The British Journal of Aesthetics*, 50(1): 53–70. doi:10.1093/aesthj/ayp052
-* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic Rationality”, *The Journal of Philosophy*, 115(3): 113–140. doi:10.5840/jphil201811538
-* Hanson, Louise, 2015, “Conceptual Art and the Acquaintance Principle”, *The Journal of Aesthetics and Art Criticism*, 73(3): 247–258. doi:10.1111/jaac.12181
-* Hazlett, Allan, 2017, “Towards Social Accounts of Testimonial Asymmetries”, *Noûs*, 51(1): 49–73. doi:10.1111/nous.12098
-* Hills, Alison, 2009, “Moral Testimony and Moral Epistemology”, *Ethics*, 120(1): 94–127. doi:10.1086/648610
+* Gorodeisky, Keren, 2010, “A New Look at Kant’s View of Aesthetic Testimony”, *The British Journal of Aesthetics*, 50(1): 53–70. doi: 10.1093/aesthj/ayp052
+* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic Rationality”, *The Journal of Philosophy*, 115(3): 113–140. doi: 10.5840/jphil201811538
+* Hanson, Louise, 2015, “Conceptual Art and the Acquaintance Principle”, *The Journal of Aesthetics and Art Criticism*, 73(3): 247–258. doi: 10.1111/jaac.12181
+* Hazlett, Allan, 2017, “Towards Social Accounts of Testimonial Asymmetries”, *Noûs*, 51(1): 49–73. doi: 10.1111/nous.12098
+* Hills, Alison, 2009, “Moral Testimony and Moral Epistemology”, *Ethics*, 120(1): 94–127. doi: 10.1086/648610
 * –––, 2015, “Cognitivism about Moral Judgement”, *Oxford Studies in Metaethics* 10, Russ Shafer-Landau (ed.), Oxford: Oxford University Press.
 * –––, 2017, “Aesthetic Understanding”, in *Making Sense of the World: New Essays on the Philosophy of Understanding*, Stephen R. Grimm (ed.), New York: Oxford University Press, 159–176 (ch. 8).
-* –––, 2022, “Aesthetic Testimony, Understanding and Virtue”, *Noûs*, 56(1): 21–39. doi:10.1111/nous.12344
+* –––, 2022, “Aesthetic Testimony, Understanding and Virtue”, *Noûs*, 56(1): 21–39. doi: 10.1111/nous.12344
 * Hopkins, Robert, 2000, “Beauty and Testimony”, in *Philosophy, the Good, the True, and the Beautiful*, Anthony O’Hear (ed.), (Royal Institute of Philosophy Supplement 47), Cambridge/New York: Cambridge University Press, 209–236.
-* –––, 2001, “Kant, Quasi‐Realism, and the Autonomy of Aesthetic Judgement”, *European Journal of Philosophy*, 9(2): 166–189. doi:10.1111/1468-0378.00134
+* –––, 2001, “Kant, Quasi‐Realism, and the Autonomy of Aesthetic Judgement”, *European Journal of Philosophy*, 9(2): 166–189. doi: 10.1111/1468-0378.00134
 * –––, 2006, “How to Form Aesthetic Belief: Interpreting the Acquaintance Principle”, *Postgraduate Journal of Aesthetics*, 3(3): 85–99. [[Hopkins 2006 available online](https://philarchive.org/rec/HOPHTF)]
-* –––, 2007, “What Is Wrong With Moral Testimony?”, *Philosophy and Phenomenological Research*, 74(3): 611–634. doi:10.1111/j.1933-1592.2007.00042.x
-* –––, 2011, “How to Be a Pessimist about Aesthetic Testimony”, *Journal of Philosophy*, 108(3): 138–157. doi:10.5840/jphil201110838
+* –––, 2007, “What Is Wrong With Moral Testimony?”, *Philosophy and Phenomenological Research*, 74(3): 611–634. doi: 10.1111/j.1933-1592.2007.00042.x
+* –––, 2011, “How to Be a Pessimist about Aesthetic Testimony”, *Journal of Philosophy*, 108(3): 138–157. doi: 10.5840/jphil201110838
 * Hume, David, 1757, “Of the Standard of Taste”, in his *Four Dissertations*, London: A. Millar, essay 4. [[Hume 1757 available online](https://www.econlib.org/library/LFBooks/Hume/hmMPL.html?chapter_num=28#book-reader)]
 * Hutcheson, Francis, 1725/26, *An Inquiry into the Original of Our Ideas of Beauty and Virtue: In Two Treatises*, London: Printed by J. Darby. Second revised edition, 1726. Second edition reprinted, 2004, Wolfgang Leidhold (ed.), Indianapolis, IN: Liberty Fund. [[Hutcheson 1725/26 [2004] available online](https://oll.libertyfund.org/title/leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004)]
-* Inglis, Matthew and Andrew Aberdein, 2015, “Beauty Is Not Simplicity: An Analysis of Mathematicians’ Proof Appraisals”, *Philosophia Mathematica*, 23(1): 87–109. doi:10.1093/philmat/nku014
+* Inglis, Matthew and Andrew Aberdein, 2015, “Beauty Is Not Simplicity: An Analysis of Mathematicians’ Proof Appraisals”, *Philosophia Mathematica*, 23(1): 87–109. doi: 10.1093/philmat/nku014
 * Irvin, Sherri, (2007), “Forgery and the corruption of aesthetic understanding”, *Canadian Journal of Philosophy*, 37(2): 283–304.
-* –––, 2014, “Is Aesthetic Experience Possible?”, in *Aesthetics and the Sciences of Mind*, Greg Currie, Matthew Kieran, Aaron Meskin, and Jon Robson (eds), Oxford University Press, 37–56 (ch. 2). doi:10.1093/acprof:oso/9780199669639.003.0003
-* Jay, Christopher, 2016, “Testimony, Belief, and Non-Doxastic Faith: The Humean Argument for Religious Fictionalism”, *Religious Studies*, 52(2): 247–261. doi:10.1017/S0034412515000177
-* Jones, Karen, 1996, “Trust as an Affective Attitude”, *Ethics*, 107(1): 4–25. doi:10.1086/233694
+* –––, 2014, “Is Aesthetic Experience Possible?”, in *Aesthetics and the Sciences of Mind*, Greg Currie, Matthew Kieran, Aaron Meskin, and Jon Robson (eds), Oxford University Press, 37–56 (ch. 2). doi: 10.1093/acprof: oso/9780199669639.003.0003
+* Jay, Christopher, 2016, “Testimony, Belief, and Non-Doxastic Faith: The Humean Argument for Religious Fictionalism”, *Religious Studies*, 52(2): 247–261. doi: 10.1017/S0034412515000177
+* Jones, Karen, 1996, “Trust as an Affective Attitude”, *Ethics*, 107(1): 4–25. doi: 10.1086/233694
 * Kant, Immanuel, 1790 [1914], *Kritik der Urteilskraft*, Berlin und Libau: Lagarde und Friedrich. Translated as *Critique of Judgement*, J. H. Bernard (trans.), London: Macmillan, 1892; second edition 1914. [[Kant 1790 [1914] available online](https://oll.libertyfund.org/title/bernard-the-critique-of-judgement)]
 * King, Alex, 2021, “Reasons, normativity, and value in aesthetics”, *Philosophy Compass* 17(1): 1–17.
-* Konigsberg, Amir, 2012, “The Acquaintance Principle, Aesthetic Autonomy, and Aesthetic Appreciation”, *The British Journal of Aesthetics*, 52(2): 153–168. doi:10.1093/aesthj/ays003
-* Korsmeyer, Carolyn Wilker, 1975, “Relativism and Hutcheson’s Aesthetic Theory”, *Journal of the History of Ideas*, 36(2): 319–330. doi:10.2307/2708930
-* Lackey, Jennifer, 2006a, “Knowing from Testimony”, *Philosophy Compass*, 1(5): 432–448. doi:10.1111/j.1747-9991.2006.00035.x
-* –––, 2006b, “The Nature of Testimony”, *Pacific Philosophical Quarterly*, 87(2): 177–197. doi:10.1111/j.1468-0114.2006.00254.x
-* –––, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199219162.001.0001
+* Konigsberg, Amir, 2012, “The Acquaintance Principle, Aesthetic Autonomy, and Aesthetic Appreciation”, *The British Journal of Aesthetics*, 52(2): 153–168. doi: 10.1093/aesthj/ays003
+* Korsmeyer, Carolyn Wilker, 1975, “Relativism and Hutcheson’s Aesthetic Theory”, *Journal of the History of Ideas*, 36(2): 319–330. doi: 10.2307/2708930
+* Lackey, Jennifer, 2006a, “Knowing from Testimony”, *Philosophy Compass*, 1(5): 432–448. doi: 10.1111/j.1747-9991.2006.00035.x
+* –––, 2006b, “The Nature of Testimony”, *Pacific Philosophical Quarterly*, 87(2): 177–197. doi: 10.1111/j.1468-0114.2006.00254.x
+* –––, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199219162.001.0001
 * –––, 2011, “Assertion and Isolated Second‐Hand Knowledge”, in *Assertion: New Philosophical Essays*, Jessica Brown and Herman Cappelen (eds), Oxford/New York: Oxford University Press, 251–276.
-* Lackey, Jennifer and Ernest Sosa (eds), 2006, *The Epistemology of Testimony*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199276011.001.0001
-* Laetz, Brian, 2008, “A Modest Defense of Aesthetic Testimony”, *Journal of Aesthetics and Art Criticism*, 66(4): 355–363. doi:10.1111/j.1540-6245.2008.00316.x
-* Levinson, Jerrold, 2002, “Hume’s Standard of Taste: The Real Problem”, *Journal of Aesthetics and Art Criticism*, 60(3): 227–238. doi:10.1111/1540-6245.00070
-* –––, 2005, “Aesthetic Properties II”, *Aristotelian Society Supplementary Volume*, 79(1): 211–227. doi:10.1111/j.0309-7013.2005.00133.x
+* Lackey, Jennifer and Ernest Sosa (eds), 2006, *The Epistemology of Testimony*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199276011.001.0001
+* Laetz, Brian, 2008, “A Modest Defense of Aesthetic Testimony”, *Journal of Aesthetics and Art Criticism*, 66(4): 355–363. doi: 10.1111/j.1540-6245.2008.00316.x
+* Levinson, Jerrold, 2002, “Hume’s Standard of Taste: The Real Problem”, *Journal of Aesthetics and Art Criticism*, 60(3): 227–238. doi: 10.1111/1540-6245.00070
+* –––, 2005, “Aesthetic Properties II”, *Aristotelian Society Supplementary Volume*, 79(1): 211–227. doi: 10.1111/j.0309-7013.2005.00133.x
 * –––, 2010, “Artistic Worth and Personal Taste”, *The Journal of Aesthetics and Art Criticism*, 68: 225–233
-* Livingston, Paisley, 2003, “On an Apparent Truism in Aesthetics”, *The British Journal of Aesthetics*, 43(3): 260–278. doi:10.1093/bjaesthetics/43.3.260
+* Livingston, Paisley, 2003, “On an Apparent Truism in Aesthetics”, *The British Journal of Aesthetics*, 43(3): 260–278. doi: 10.1093/bjaesthetics/43.3.260
 * Locke, John, 1689, *An Essay Concerning Human Understanding*, London: Edward Mory.
-* Lopes, Dominic McIver, 2014, *Beyond Art*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199591558.001.0001
+* Lopes, Dominic McIver, 2014, *Beyond Art*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199591558.001.0001
 * Lord, Errol, 2018, “How to Learn about Aesthetics and Morality through Acquaintance and Deference”, in *Oxford Studies in Metaethics 13*, Russ Shafer-Landau (ed.), Oxford: Oxford University Press, 71–97 (ch. 4).
 * Mackie, John L. 1997, *Ethics: Inventing Right and Wrong*, New York: Penguin Books
-* Matilal, Bimal Krishna and Arindam Chakrabarti (eds.), 1994, *Knowing from Words: Western and Indian Philosophical Analysis of Understanding and Testimony*, (Synthese Library 230), Dordrecht/Boston: Kluwer Academic. doi:10.1007/978-94-017-2018-2
+* Matilal, Bimal Krishna and Arindam Chakrabarti (eds.), 1994, *Knowing from Words: Western and Indian Philosophical Analysis of Understanding and Testimony*, (Synthese Library 230), Dordrecht/Boston: Kluwer Academic. doi: 10.1007/978-94-017-2018-2
 * McGonigal, Andrew, 2006, ‘The Autonomy of Aesthetic Judgement’ *British Journal of Aesthetics*, 46(4): 331–48.
-* McGrath, Sarah, 2009, “The Puzzle of Pure Moral Deference”, *Philosophical Perspectives*, 23(1): 321–344. doi:10.1111/j.1520-8583.2009.00174.x
-* –––, 2011, “Skepticism about Moral Expertise as a Puzzle for Moral Realism”, *Journal of Philosophy*, 108(3): 111–137. doi:10.5840/jphil201110837
-* McKinnon, Rachel, 2017, “How to Be an Optimist about Aesthetic Testimony”, *Episteme*, 14(2): 177–196. doi:10.1017/epi.2016.4
-* McShane, Paddy Jane, 2018, “The Non-Remedial Value of Dependence on Moral Testimony”, *Philosophical Studies*, 175(3): 629–647. doi:10.1007/s11098-017-0885-6
-* Meskin, Aaron, 2004, “Aesthetic Testimony: What Can We Learn from Others about Beauty and Art?”, *Philosophy and Phenomenological Research*, 69(1): 65–91. doi:10.1111/j.1933-1592.2004.tb00384.x
-* –––, 2006, “Solving the Puzzle of Aesthetic Testimony”, in *Knowing Art: Essays in Aesthetics and Epistemology*, Matthew Kieran and Dominic McIver Lopes (eds), (Philosophical Studies Series 107), Dordrecht: Springer Netherlands, 109–124. doi:10.1007/978-1-4020-5265-1_8
-* Moran, Richard, 2018, *The Exchange of Words: Speech, Testimony, and Intersubjectivity*, New York: Oxford University Press. doi:10.1093/oso/9780190873325.001.0001
-* Mothersill, Mary, 1961, “Critical Reasons”, *The Philosophical Quarterly*, 11(42): 74–78. doi:10.2307/2216682
+* McGrath, Sarah, 2009, “The Puzzle of Pure Moral Deference”, *Philosophical Perspectives*, 23(1): 321–344. doi: 10.1111/j.1520-8583.2009.00174.x
+* –––, 2011, “Skepticism about Moral Expertise as a Puzzle for Moral Realism”, *Journal of Philosophy*, 108(3): 111–137. doi: 10.5840/jphil201110837
+* McKinnon, Rachel, 2017, “How to Be an Optimist about Aesthetic Testimony”, *Episteme*, 14(2): 177–196. doi: 10.1017/epi.2016.4
+* McShane, Paddy Jane, 2018, “The Non-Remedial Value of Dependence on Moral Testimony”, *Philosophical Studies*, 175(3): 629–647. doi: 10.1007/s11098-017-0885-6
+* Meskin, Aaron, 2004, “Aesthetic Testimony: What Can We Learn from Others about Beauty and Art?”, *Philosophy and Phenomenological Research*, 69(1): 65–91. doi: 10.1111/j.1933-1592.2004.tb00384.x
+* –––, 2006, “Solving the Puzzle of Aesthetic Testimony”, in *Knowing Art: Essays in Aesthetics and Epistemology*, Matthew Kieran and Dominic McIver Lopes (eds), (Philosophical Studies Series 107), Dordrecht: Springer Netherlands, 109–124. doi: 10.1007/978-1-4020-5265-1_8
+* Moran, Richard, 2018, *The Exchange of Words: Speech, Testimony, and Intersubjectivity*, New York: Oxford University Press. doi: 10.1093/oso/9780190873325.001.0001
+* Mothersill, Mary, 1961, “Critical Reasons”, *The Philosophical Quarterly*, 11(42): 74–78. doi: 10.2307/2216682
 * –––, 1994, *Beauty Restored*, Oxford: Oxford University Press.
-* Ninan, Dilip, 2014, “Taste Predicates and the Acquaintance Inference”, *Semantics and Linguistic Theory*, 24: 290–309. doi:10.3765/salt.v24i0.2413
-* Nguyen, C. Thi, 2017, “The Uses of Aesthetic Testimony”, *The British Journal of Aesthetics*, 57(1): 19–36. doi:10.1093/aesthj/ayw089
-* –––, 2020a, “Autonomy and Aesthetic Engagement”, *Mind*, 129(516): 1127–1156. doi:10.1093/mind/fzz054
-* –––, 2020b, “Echo Chambers and Epistemic Bubbles”, *Episteme*, 17(2): 141–161. doi:10.1017/epi.2018.32
-* Page, Jeremy, 2022, “Aesthetic Understanding”, *Estetika: The European Journal of Aesthetics*, LIX/XV(1): 48–68. doi:10.33134/eeja.269
+* Ninan, Dilip, 2014, “Taste Predicates and the Acquaintance Inference”, *Semantics and Linguistic Theory*, 24: 290–309. doi: 10.3765/salt.v24i0.2413
+* Nguyen, C. Thi, 2017, “The Uses of Aesthetic Testimony”, *The British Journal of Aesthetics*, 57(1): 19–36. doi: 10.1093/aesthj/ayw089
+* –––, 2020a, “Autonomy and Aesthetic Engagement”, *Mind*, 129(516): 1127–1156. doi: 10.1093/mind/fzz054
+* –––, 2020b, “Echo Chambers and Epistemic Bubbles”, *Episteme*, 17(2): 141–161. doi: 10.1017/epi.2018.32
+* Page, Jeremy, 2022, “Aesthetic Understanding”, *Estetika: The European Journal of Aesthetics*, LIX/XV(1): 48–68. doi: 10.33134/eeja.269
 * Pettit, Philip, 1983, “The Possibility of Aesthetic Realism”, in *Pleasure, Preference, and Value: Studies in Philosophical Aesthetics*, Eva Schaper (ed.), Cambridge/New York: Cambridge University Press, 17–38.
-* Ranalli, Chris, 2020, “The Puzzle of Philosophical Testimony”, *European Journal of Philosophy*, 28(1): 142–163. doi:10.1111/ejop.12449
-* Ransom, Madeleine, 2019, “Frauds, Posers And Sheep: A Virtue Theoretic Solution To The Acquaintance Debate”, *Philosophy and Phenomenological Research*, 98(2): 417–434. doi:10.1111/phpr.12467
+* Ranalli, Chris, 2020, “The Puzzle of Philosophical Testimony”, *European Journal of Philosophy*, 28(1): 142–163. doi: 10.1111/ejop.12449
+* Ransom, Madeleine, 2019, “Frauds, Posers And Sheep: A Virtue Theoretic Solution To The Acquaintance Debate”, *Philosophy and Phenomenological Research*, 98(2): 417–434. doi: 10.1111/phpr.12467
 * Reid, Thomas, 1764, *An Inquiry into the Human Mind on the Principles of Common Sense*, Edinburgh: A. Kincaid & J. Bell and London: A. Millar.
-* Riggle, Nick, 2015, “On the Aesthetic Ideal”, *The British Journal of Aesthetics*, 55(4): 433–447. doi:10.1093/aesthj/ayv026
-* –––, 2022, “Toward a Communitarian Theory of Aesthetic Value”, *The Journal of Aesthetics and Art Criticism*, 80(1): 16–30. doi:10.1093/jaac/kpab060
-* Robson, Jon, 2012, “Aesthetic Testimony”, *Philosophy Compass*, 7(1): 1–10. doi:10.1111/j.1747-9991.2011.00455.x
-* –––, 2014, “A Social Epistemology of Aesthetics: Belief Polarization, Echo Chambers and Aesthetic Judgement”, *Synthese*, 191(11): 2513–2528. doi:10.1007/s11229-014-0437-y
-* –––, 2015a, “Aesthetic Testimony and the Norms of Belief Formation: Aesthetic Testimony and the Norms of Belief Formation”, *European Journal of Philosophy*, 23(3): 750–763. doi:10.1111/ejop.12007
+* Riggle, Nick, 2015, “On the Aesthetic Ideal”, *The British Journal of Aesthetics*, 55(4): 433–447. doi: 10.1093/aesthj/ayv026
+* –––, 2022, “Toward a Communitarian Theory of Aesthetic Value”, *The Journal of Aesthetics and Art Criticism*, 80(1): 16–30. doi: 10.1093/jaac/kpab060
+* Robson, Jon, 2012, “Aesthetic Testimony”, *Philosophy Compass*, 7(1): 1–10. doi: 10.1111/j.1747-9991.2011.00455.x
+* –––, 2014, “A Social Epistemology of Aesthetics: Belief Polarization, Echo Chambers and Aesthetic Judgement”, *Synthese*, 191(11): 2513–2528. doi: 10.1007/s11229-014-0437-y
+* –––, 2015a, “Aesthetic Testimony and the Norms of Belief Formation: Aesthetic Testimony and the Norms of Belief Formation”, *European Journal of Philosophy*, 23(3): 750–763. doi: 10.1111/ejop.12007
 * –––, 2015b, “Norms of Belief and Norms of Assertion in Aesthetics”, *Philosopher’s Imprint*, 15: article 6. [[Robson 2015b available online](http://hdl.handle.net/2027/spo.3521354.0015.006)]
 * –––, 2017, “Against Aesthetic Exceptionalism”, in *Art and Belief*, Ema Sullivan-Bissett, Helen Bradley, and Paul Noordhof (eds), Oxford: Oxford University Press, 213–229 (ch. 12).
-* –––, 2018, “Is Perception the Canonical Route to Aesthetic Judgment?”, *Australasian Journal of Philosophy*, 96(4): 657–668. doi:10.1080/00048402.2017.1389964
+* –––, 2018, “Is Perception the Canonical Route to Aesthetic Judgment?”, *Australasian Journal of Philosophy*, 96(4): 657–668. doi: 10.1080/00048402.2017.1389964
 * –––, 2023, *Aesthetic Testimony: an Optimistic Approach*. Oxford: Oxford University Press.
-* Robson, Jon and Neil Sinclair, 2023, “Speculative Aesthetic Expressivism”, *British Journal of Aesthetics*, 63(2): 181–197. doi:10.1093/aesthj/ayac036
+* Robson, Jon and Neil Sinclair, 2023, “Speculative Aesthetic Expressivism”, *British Journal of Aesthetics*, 63(2): 181–197. doi: 10.1093/aesthj/ayac036
 * Scruton, Roger, 1974, *Art and Imagination: A Study in the Philosophy of Mind*, London: Methuen.
-* Shelley, James, 2023, “Aesthetic Acquaintance”, *Pacific Philosophical Quarterly*, 104(2): 392–407. doi:10.1111/papq.12402
-* Sibley, Frank, 1959, “Aesthetic Concepts”, *The Philosophical Review*, 68(4): 421–450. doi:10.2307/2182490
-* –––, 1965, “Aesthetic and Nonaesthetic”, *The Philosophical Review*, 74(2): 135–159. doi:10.2307/2183262
-* –––, 1968, “Objectivity and Aesthetics I”, *Aristotelian Society Supplementary Volume*, 42: 31–54. doi:10.1093/aristoteliansupp/42.1.31
+* Shelley, James, 2023, “Aesthetic Acquaintance”, *Pacific Philosophical Quarterly*, 104(2): 392–407. doi: 10.1111/papq.12402
+* Sibley, Frank, 1959, “Aesthetic Concepts”, *The Philosophical Review*, 68(4): 421–450. doi: 10.2307/2182490
+* –––, 1965, “Aesthetic and Nonaesthetic”, *The Philosophical Review*, 74(2): 135–159. doi: 10.2307/2183262
+* –––, 1968, “Objectivity and Aesthetics I”, *Aristotelian Society Supplementary Volume*, 42: 31–54. doi: 10.1093/aristoteliansupp/42.1.31
 * –––,1974, “Particularity, Art and Evaluation” *Aristotelian Society Supplementary*, 48(1): 1–22.
-* Simion, Mona, Christoph Kelp, and Harmen Ghijsen, 2016, “Norms of Belief”, *Philosophical Issues*, 26(1): 374–392. doi:10.1111/phis.12077
-* Sinclair, Neil, 2006, “The Moral Belief Problem”, *Ratio*, 19(2): 249–260. doi:10.1111/j.1467-9329.2006.00323.x
-* Sliwa, Paulina, 2012, “In Defense of Moral Testimony”, *Philosophical Studies*, 158(2): 175–195. doi:10.1007/s11098-012-9887-6
-* Sosa, Ernest, 1991, *Knowledge in Perspective: Selected Essays in Epistemology*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511625299
+* Simion, Mona, Christoph Kelp, and Harmen Ghijsen, 2016, “Norms of Belief”, *Philosophical Issues*, 26(1): 374–392. doi: 10.1111/phis.12077
+* Sinclair, Neil, 2006, “The Moral Belief Problem”, *Ratio*, 19(2): 249–260. doi: 10.1111/j.1467-9329.2006.00323.x
+* Sliwa, Paulina, 2012, “In Defense of Moral Testimony”, *Philosophical Studies*, 158(2): 175–195. doi: 10.1007/s11098-012-9887-6
+* Sosa, Ernest, 1991, *Knowledge in Perspective: Selected Essays in Epistemology*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511625299
 * Sweeney, Kevin W., 2007, “Can a Soup Be Beautiful? The Rise of Gastronomy and the Aesthetics of Food”, in *Food & Philosophy: Eat, Drink, and Be Merry*, Fritz Allhoff and Dave Monroe (eds.), Malden, MA: Blackwell, 117–132 (ch. 8).
 * Tanner, Michael, 2003, “Ethics and Aesthetics are —?”, in *Art and Morality*, Josè Luis Bermudez and Sebastian Gardner (eds), New York: Routledge, 19–36.
-* Todd, Cain Samuel, 2004, “Quasi−Realism, Acquaintance, and The Normative Claims of Aesthetic Judgement”, *The British Journal of Aesthetics*, 44(3): 277–296. doi:10.1093/aesthj/44.3.277
-* Tormey, Alan, 1973, “Critical Judgments”, *Theoria*, 39(1–3): 35–49. doi:10.1111/j.1755-2567.1973.tb00629.x
+* Todd, Cain Samuel, 2004, “Quasi−Realism, Acquaintance, and The Normative Claims of Aesthetic Judgement”, *The British Journal of Aesthetics*, 44(3): 277–296. doi: 10.1093/aesthj/44.3.277
+* Tormey, Alan, 1973, “Critical Judgments”, *Theoria*, 39(1–3): 35–49. doi: 10.1111/j.1755-2567.1973.tb00629.x
 * Wallbank, Rebecca, 2021, “Trust in Aesthetic Testimony”, PhD thesis, Uppsala University. [[Wallbank 2021 available online](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-440401)]
 * Wallbank, Rebecca and Andrew Reisner, 2020, “Trust, Testimony, and Reasons for Belief”, in *Epistemic Duties: New Arguments, New Angles*, Kevin McCain and Scott Stapleford (eds.), New York: Routledge, 239–253 (ch. 15).
 * Wallbank, Rebecca and Jon Robson, 2022, “Over-Appreciating Appreciation”, in *Perspectives on Taste: Aesthetics, Language, Metaphysics, and Experimental Philosophy*, Jeremy Wyatt, Julia Zakkou, and Dan Zeman (eds.), New York: Routledge, chapter 3.
-* Weinberg, Jonathan M., 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”, *Midwest Studies in Philosophy*, 31(1): 318–343. doi:10.1111/j.1475-4975.2007.00157.x
-* Whiting, Daniel, 2015, “The Glass Is Half Empty: A New Argument for Pessimism about Aesthetic Testimony”, *The British Journal of Aesthetics*, 55(1): 91–107. doi:10.1093/aesthj/ayu099
-* Wollheim, Richard, 1980, *Art and Its Objects*, second edition, (Cambridge Philosophy Classics), Cambridge: Cambridge University Press. doi:10.1017/CBO9781316286777
-* Wright, Stephen, 2019, *Knowledge Transmission*, New York: Routledge. doi:10.4324/9781315111384
-* Young, James O., 2009, “Relativism, Standards and Aesthetic Judgements”, *International Journal of Philosophical Studies*, 17(2): 221–231. doi:10.1080/09672550902794439
+* Weinberg, Jonathan M., 2007, “How to Challenge Intuitions Empirically Without Risking Skepticism”, *Midwest Studies in Philosophy*, 31(1): 318–343. doi: 10.1111/j.1475-4975.2007.00157.x
+* Whiting, Daniel, 2015, “The Glass Is Half Empty: A New Argument for Pessimism about Aesthetic Testimony”, *The British Journal of Aesthetics*, 55(1): 91–107. doi: 10.1093/aesthj/ayu099
+* Wollheim, Richard, 1980, *Art and Its Objects*, second edition, (Cambridge Philosophy Classics), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316286777
+* Wright, Stephen, 2019, *Knowledge Transmission*, New York: Routledge. doi: 10.4324/9781315111384
+* Young, James O., 2009, “Relativism, Standards and Aesthetic Judgements”, *International Journal of Philosophical Studies*, 17(2): 221–231. doi: 10.1080/09672550902794439
 * Zangwill, Nick, 1990, “Two Dogmas of Kantian Aesthetics”, *Proceedings of XIth International Congress in Aesthetics, 1988*, Richard Woodfield (ed.), Nottingham: Nottingham Polytechnic Press, 233–238.
 
 ## Academic Tools

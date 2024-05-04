@@ -1,6 +1,6 @@
 # 生命 life (Carlos Mariscal)
 
-*首次发表于2021年11月30日星期二*
+*首次发表于 2021 年 11 月 30 日星期二*
 
 打开一本生物学教科书，你会找到一个所谓的生命定义，通常以适用于生物体、它们的部分、它们的相互作用或它们的历史的特征列表的形式呈现。通常这些定义只是描述，或者依赖于更有争议的理论承诺。
 
@@ -20,11 +20,11 @@
 
 还有几种其他的定义概念。名义（也称词典）定义是通过分析用法确定的。对于前沿或有争议的问题，这种定义不适用，因为这些定义遵循文化接受的缓慢过程，而不是为处于这些辩论前沿的研究人员提供指导。学者更有可能引用词典定义，而不是从中获得启示。
 
-还有一种示意或指示性定义，这是我们可以通过共同观察传达的概念：例如，“那是红色的”，同时指着一个红色的物体。波特·斯图尔特以这种方式著名地定义了色情作品，他说“我看到它时就知道它是什么”（Stewart 1964）。通过示意获得的知识可能反映了对自然种类的认知访问，尽管这可能与内化的文化类别难以区分。即使在地球上的物体中，如病毒和朊病毒，科学家对于什么是“生命”存在巨大的变化，这表明这种定义方式对于这个目标来说是不可行的。
+还有一种示意或指示性定义，这是我们可以通过共同观察传达的概念：例如，“那是红色的”，同时指着一个红色的物体。波特 · 斯图尔特以这种方式著名地定义了色情作品，他说“我看到它时就知道它是什么”（Stewart 1964）。通过示意获得的知识可能反映了对自然种类的认知访问，尽管这可能与内化的文化类别难以区分。即使在地球上的物体中，如病毒和朊病毒，科学家对于什么是“生命”存在巨大的变化，这表明这种定义方式对于这个目标来说是不可行的。
 
 然后还有规定性定义，这些是通过命令引入和定义的术语。在欧几里得几何中，一个圆可以被定义为一个平面图形，其边界由无限个与另一个点等距离的点组成。在欧几里得几何的公理下，这个定义没有可能的反例。这种方法在现实世界中提供了很少的避难所。考虑试图将天鹅定义为“长着长脖子的白色鸟类”。根据规定，鹳、大白鹭和许多鹤都会被归类为天鹅，而澳大利亚的黑天鹅则不会。这样一个草率的定义似乎是在一开始就定义了这个类别，可能只适用于被接受的公理或理论之内。生命可以被规定为“基于碳的繁殖实体”，这将通过命令排除基于硅的生命。这样的定义只是将辩论推向了那些规定性定义违背直觉概念的情景。
 
-20世纪见证了从定义向概念的替代观点迈出的一些步伐，尤其是原型、典型和理论（Machery 2009）。原型概念是大多数但不是所有类别成员共享的抽象特征（Rosch＆Mervis 1975；Rosch 1978；Hampton 1979, 2006；Smith 2002）。生物学教科书中对生命的定义可以慷慨地理解为原型概念。在生物哲学中流行的属性群自然种类也是如此（Boyd 1991, 1999, 2010；Diguez 2013；Slater 2015）。典型概念是围绕与特定个案的相似性构建的概念（Medin＆Schaffer 1978；Nosofsky 1986）。原型和典型概念都依赖于与范例案例的相似性，前者是一种想象中的理想，后者是一个真实的实例（Komatsu 1992）。对于基于相似性的概念在生命等科学案例中的运作，我们需要一个解释哪些相似性重要，以及为什么重要的解释。与基于相似性的概念相比，理论概念的要求有些模糊。理论概念是以科学理论为模型，因此反映了它们的多样性（Carey 1985；Murphy＆Medin 1985；Gopnik＆Meltzoff 1997）。在核心上，理论概念依赖于解释为什么类别成员共享某些属性。生命的边缘案例，如病毒、朊病毒或原细胞，可能包含在某些生命理论中，但不包含在其他理论中。
+20 世纪见证了从定义向概念的替代观点迈出的一些步伐，尤其是原型、典型和理论（Machery 2009）。原型概念是大多数但不是所有类别成员共享的抽象特征（Rosch＆Mervis 1975；Rosch 1978；Hampton 1979, 2006；Smith 2002）。生物学教科书中对生命的定义可以慷慨地理解为原型概念。在生物哲学中流行的属性群自然种类也是如此（Boyd 1991, 1999, 2010；Diguez 2013；Slater 2015）。典型概念是围绕与特定个案的相似性构建的概念（Medin＆Schaffer 1978；Nosofsky 1986）。原型和典型概念都依赖于与范例案例的相似性，前者是一种想象中的理想，后者是一个真实的实例（Komatsu 1992）。对于基于相似性的概念在生命等科学案例中的运作，我们需要一个解释哪些相似性重要，以及为什么重要的解释。与基于相似性的概念相比，理论概念的要求有些模糊。理论概念是以科学理论为模型，因此反映了它们的多样性（Carey 1985；Murphy＆Medin 1985；Gopnik＆Meltzoff 1997）。在核心上，理论概念依赖于解释为什么类别成员共享某些属性。生命的边缘案例，如病毒、朊病毒或原细胞，可能包含在某些生命理论中，但不包含在其他理论中。
 
 总之，有许多潜在的定义方法，每种方法都有不同的好处、缺点和成功标准。关于这些和其他可能的方法还可以说更多，但这对我们的目的来说已经足够了。关于定义生命的争议中的一些分歧在澄清使用的定义或概念类型后会消除。许多明确尝试定义生命的努力都集中在操作性和哲学性定义上，但往往没有承认或误解了这两者之间的区别。人们会注意到这两个定义是相互对立的 - 操作性定义可以快速而简单，而哲学性定义则寻求给出必要和充分条件。对生命作为非定义概念的研究工作较少，尽管这种情况可能正在改变。
 
@@ -38,7 +38,7 @@
 
 几个世纪后，笛卡尔对动物生命和理性生命之间的区别进行了更为明确的划分，而不是对无生命物体和动物生命之间的区别进行划分。这是对中世纪方法的转变，中世纪方法认为植物和动物之间的差距更大。对于笛卡尔来说，动物类似于复杂的时钟，缺乏人类体验中的内在或精神生活（笛卡尔 2010/1664）。因此，笛卡尔对生命的分类既不符合希腊的概念，也不符合当前的概念框架。笛卡尔及其追随者发展的机械观点通常被认为与当前的科学思维相一致，但这可能是不合时宜的，因为将动物生命和理性生命之间的理论基础大部分不再被接受。
 
-对笛卡尔的回应被归为“生命力论”。生命力论跨越了三个世纪，是一种异质的哲学立场，其统一性在于信奉者对完全机械化的生命观持怀疑态度。生命力论者对生命的定义特征有各种各样的本体论，如非物质原因、物质的特定排列、特殊的生命液体、特定的目标，甚至是心理力量。生物学的一种历史观点宣称，弗里德里希·沃勒尔从氰酸铵合成尿素的合成标志着生命力论的死亡。这种观点认为，如果生物化学物质可以从纯粹的化学反应中产生，那么生物学也只是纯粹的化学。尽管这是一个重要的步骤，但许多化学家已经接受了机械世界观，许多其他研究人员继续发展生命力论的理论，直到 20 世纪（伯格森 1959，德里希 1905/1914）。
+对笛卡尔的回应被归为“生命力论”。生命力论跨越了三个世纪，是一种异质的哲学立场，其统一性在于信奉者对完全机械化的生命观持怀疑态度。生命力论者对生命的定义特征有各种各样的本体论，如非物质原因、物质的特定排列、特殊的生命液体、特定的目标，甚至是心理力量。生物学的一种历史观点宣称，弗里德里希 · 沃勒尔从氰酸铵合成尿素的合成标志着生命力论的死亡。这种观点认为，如果生物化学物质可以从纯粹的化学反应中产生，那么生物学也只是纯粹的化学。尽管这是一个重要的步骤，但许多化学家已经接受了机械世界观，许多其他研究人员继续发展生命力论的理论，直到 20 世纪（伯格森 1959，德里希 1905/1914）。
 
 ### 1.2 当代对生命的定义
 
@@ -113,15 +113,15 @@
 
 ## 4. 生命的起源
 
-生命的本质与其起源的问题密不可分。古代和现代思想家都认可生命经常从非生命中自发产生。经过两个世纪的实验，最终推翻了这一被广泛接受的观点，达到了路易斯·巴斯德的天鹅颈瓶实验的顶峰。从那时起，生命起源的谜团一直是科学界最大、最重要的问题之一。
+生命的本质与其起源的问题密不可分。古代和现代思想家都认可生命经常从非生命中自发产生。经过两个世纪的实验，最终推翻了这一被广泛接受的观点，达到了路易斯 · 巴斯德的天鹅颈瓶实验的顶峰。从那时起，生命起源的谜团一直是科学界最大、最重要的问题之一。
 
-达尔文对这个问题保持了沉默，尽管在给他的朋友约瑟夫·胡克的一封信中，达尔文透露他想象生命起源于“一些温暖的小池塘”（见下面的其他互联网资源；以及 Peretó等人 2009 年）。直到 20 世纪 20 年代，亚历山大·奥帕林和 J.B.S.霍尔丹独立提出了关于生命起源的假设，认为当时的地球条件是合理的（霍尔丹 1929 年；奥帕林 2010/1936 年）。作为 20 世纪 50 年代的研究生，斯坦利·米勒对这一提议进行了测试，在混合物中发现了数十种氨基酸（1953 年）。从那时起，生命起源研究领域得到了巨大的扩展。
+达尔文对这个问题保持了沉默，尽管在给他的朋友约瑟夫 · 胡克的一封信中，达尔文透露他想象生命起源于“一些温暖的小池塘”（见下面的其他互联网资源；以及 Peretó 等人 2009 年）。直到 20 世纪 20 年代，亚历山大 · 奥帕林和 J.B.S.霍尔丹独立提出了关于生命起源的假设，认为当时的地球条件是合理的（霍尔丹 1929 年；奥帕林 2010/1936 年）。作为 20 世纪 50 年代的研究生，斯坦利 · 米勒对这一提议进行了测试，在混合物中发现了数十种氨基酸（1953 年）。从那时起，生命起源研究领域得到了巨大的扩展。
 
 我们对这个行星的最早可靠记录可以追溯到大约 35 亿年前，其中包含了微生物化石的独特证据，包括与当前原核生物的大小和形状相关的独特形状，以及我们所知的生命的碳比例（Schopf 1993，Schopf 等人 2017）。许多分析将我们对生命起源的信心推得更远，暗示着一旦地球不再是熔融状态，它就充满了生命（Pearce 等人 2018，Lineweaver 2020）。生命是如何开始以及为什么如此迅速开始仍然是科学界最紧迫的未解之谜之一。
 
 在生命起源研究中存在许多未解的哲学问题。其中一些问题集中在所讨论的解释对象以及我们知识的认识论限制上。例如，研究人员对于生命起源研究的目的是发现生命可能如何起源还是生命确实是如何起源存在分歧（Scharf 等人 2015，Mariscal 等人 2019）。在这个过程中，有些步骤可能是偶然的，有些可能是确定性的但高度依赖的，还有些可能是生命在宇宙中唯一起源的方式。
 
-对于探究生命起源，有几种广泛的方法。"自下而上"的方法从前生物化学开始，探索它如何能够承受压力，以便形成和演化类似生命的实体。目前存在许多未解决的问题，最明显的是大多数能量有利的相互作用会消耗涉及原生生命形式。科学家们聪明地试图通过放松假设来缓解这个问题：也许环境提供了我们的第一个边界（Koonin 2009），或者提供了原基遗传物质（Mathis et al. 2017），所有这些可能发生在粘性溶剂而不是细胞中（He et al. 2017），或者发生在表面上（Wächtershäuser 1988），或者使用最终被封装的各种实体（Eigen & Schuster 1977）。然而，前生物化学和最简单的生命形式之间的鸿沟仍然巨大，任何解释只能解释概念距离的一小部分。
+对于探究生命起源，有几种广泛的方法。"自下而上" 的方法从前生物化学开始，探索它如何能够承受压力，以便形成和演化类似生命的实体。目前存在许多未解决的问题，最明显的是大多数能量有利的相互作用会消耗涉及原生生命形式。科学家们聪明地试图通过放松假设来缓解这个问题：也许环境提供了我们的第一个边界（Koonin 2009），或者提供了原基遗传物质（Mathis et al. 2017），所有这些可能发生在粘性溶剂而不是细胞中（He et al. 2017），或者发生在表面上（Wächtershäuser 1988），或者使用最终被封装的各种实体（Eigen & Schuster 1977）。然而，前生物化学和最简单的生命形式之间的鸿沟仍然巨大，任何解释只能解释概念距离的一小部分。
 
 另一种方法，“自上而下”的方法，使用当前的分类群来推断地球上生命的起源的性质和时间。为此，我们以地球上现有的生命为例，并通过比较近百个共享基因（主要与生物翻译有关）来追溯它们的祖先（Koonin 2011）。所有生命都有一个最后的普遍共同祖先，简称为“LUCA”。生命可能有多个起源，但我们的证据不足以区分这种情况和单一起源的情况。尽管如此，至少有一个起源，可能是在地球的前生物条件下，导致了 LUCA 的存在，这对于关于生命起源的理论构建是一个重要的限制。普遍预期 LUCA 只是更大群体中的一个生物，并且在第一个有机体起源之后存在了很长时间。关于 LUCA 还有各种各样的问题：它是简单的还是复杂的（Mariscal＆Doolittle 2015）；它是否有类似于当前膜的膜（Koonin 2011）；它所包含的基因是我们自己基因的祖先还是后来获得的（Doolittle＆Brown 1994，Woese＆Fox 1977；Woese 1998）；它的基因组是否由 DNA 构成（Forterre 2006a）；它是异养生物还是自养生物；它生活在哪里；以及它生活在何时。
 
@@ -133,13 +133,13 @@
 
 生物标志，顾名思义，被认为是生命的标记。化学生物标志是地球上没有生命的帮助很少或从不产生的化合物。因此，发现生物标志意味着对生命的物质概念，可能以生物化学，新陈代谢或热力学的形式存在。已经有许多尝试检测生物标志，主要是在火星上。这些方法包括在行星表面进行的实验，从地球或低地球轨道进行的观测，以及对附近行星体的流星和其他碎片的研究。
 
-更实际地说，卫星或望远镜观测其他行星已被用于寻找热力学平衡之外的气体。自 2004 年以来，火星上已经零星检测到甲烷（Formisano 等，2004 年，Webster 等，2018 年），并伴随着甲醛检测的声称（Peplow，2005 年）。金星也引起了关注，因为在金星云层中检测到了磷化氢气体（Greaves 等，2020 年）。尽管这是一个有争议的发现，但它仍然引起了科学的想象力。未来的科学研究预计将加速这种观测方法，特别是通过新的詹姆斯·韦伯太空望远镜（JWST）收集的新数据。借助其设备，JWST 能够以分辨率成像外行星，从而检测外行星大气层中的气体生物标志物（Loeb＆Maoz 2013）。
+更实际地说，卫星或望远镜观测其他行星已被用于寻找热力学平衡之外的气体。自 2004 年以来，火星上已经零星检测到甲烷（Formisano 等，2004 年，Webster 等，2018 年），并伴随着甲醛检测的声称（Peplow，2005 年）。金星也引起了关注，因为在金星云层中检测到了磷化氢气体（Greaves 等，2020 年）。尽管这是一个有争议的发现，但它仍然引起了科学的想象力。未来的科学研究预计将加速这种观测方法，特别是通过新的詹姆斯 · 韦伯太空望远镜（JWST）收集的新数据。借助其设备，JWST 能够以分辨率成像外行星，从而检测外行星大气层中的气体生物标志物（Loeb＆Maoz 2013）。
 
 相比之下，在另一个行星表面探测化学生命的尝试很少。 1975 年，美国宇航局向火星发送了维京号着陆器，任务包括一些被认为可以探测到生命的科学实验。 其中一个实验，标记释放实验，确实探测到了生命存在的迹象。 但是，其结果与其他载有实验的结果不一致，因此结果被认为是不确定的（Levin＆Straat 1976，Ezell＆Ezell 1984）。 目前在火星上的毅力号探测器能够评估某些生物标志物，美国国家航空航天局、中国国家航天局和日本宇宙航空研究开发机构的即将进行的任务都旨在确定火星是否有过去或现在的生命证据。
 
 火星上的生命是否与地球上的生命起源不同并不明显，因为这两个行星每年交换数吨的岩石，至少从理论上讲，生命可能在一个行星上形成，然后被转移到另一个行星上（McKay 2010）。 由于火星是比地球小的天体，它在地球之前形成，因此可以想象生命可能首先在那里形成，尽管这在天体生物学界是一个相对边缘的观点。 来自火星和其他行星体的陨石也是所谓生物标志物的来源。 1996 年，火星陨石 ALH84001 在形成天体生物学科学方面起到了重要作用，美国宇航局科学家在其中发现了类似细菌的结构（McKay 等，1996）。 随后的陨石也引起了科学界的兴趣（例如 White 等，2014 年）。
 
-另一种寻找生命的主要尝试是寻找智能，更容易引起人们的想象。寻找地外智能（SETI）的工作已经进行了几个世纪（Dick 1982）。那些认为地球是独一无二的和那些认为地球是众多世界之一的人之间一直存在着激烈的争论（在某种程度上仍然存在）。众多世界的支持者通过他们的望远镜寻找证据。一个著名的例子是珀西瓦尔·洛厄尔（Percival Lowell）在 19 世纪 90 年代绘制的火星运河。受到 19 世纪中叶观察到的火星上看似交叉的河道的影响，洛厄尔根据自己的观察绘制了一系列的运河。科幻小说很快捡起了这个观察结果，并推测了一个垂死的文明，希望从火星极地的最后一点残存冰中挤出水来。
+另一种寻找生命的主要尝试是寻找智能，更容易引起人们的想象。寻找地外智能（SETI）的工作已经进行了几个世纪（Dick 1982）。那些认为地球是独一无二的和那些认为地球是众多世界之一的人之间一直存在着激烈的争论（在某种程度上仍然存在）。众多世界的支持者通过他们的望远镜寻找证据。一个著名的例子是珀西瓦尔 · 洛厄尔（Percival Lowell）在 19 世纪 90 年代绘制的火星运河。受到 19 世纪中叶观察到的火星上看似交叉的河道的影响，洛厄尔根据自己的观察绘制了一系列的运河。科幻小说很快捡起了这个观察结果，并推测了一个垂死的文明，希望从火星极地的最后一点残存冰中挤出水来。
 
 在洛厄尔的绘图之后，20 世纪初出现了对从外太空探测无线电信号的兴趣。这种兴趣在 1957 年苏联发射了人造卫星后加速发展，并在 20 世纪 70 年代末开始更系统和正式地进行。自 1994 年以来，SETI 研究没有公开资助，但私人和公共捐助者以及学术界和业余研究人员一直在维持这个项目。寻找的过程面临许多技术挑战：太空无比广阔，信号微弱，星际通信的可能性多种多样，我们的搜索只能覆盖微不足道的一部分任务。
 
@@ -153,9 +153,9 @@
 
 在“微生物学的黄昏地带”中还有其他实体，包括可转座元件、类病毒体、无法培养的（但据信存在的）微生物、处于植物状态的生物和朊病毒（Postgate，1999 年）。这些实体面临的问题相似：它们中的一些可以通过自然选择进化，具有生物化学复杂性，但缺乏与生命相关的其他特性。例如，朊病毒是生命的蛋白质产物，可以以一种使朊病毒累积进化的方式折叠其他朊病毒（Li 等人，2010 年）。由于在大多数环境中不活跃且起源相对简单（作为功能蛋白质的错误折叠），它们很少被归类为“生命”。
 
-如果微生物学有一个微妙的领域，生态学也有一个微妙的领域。生物体形成种群、物种、谱系、类群和生态系统。每个生物体的地位都是一个开放的问题，但它们具有与上述生命描述相似的许多特征。也许最有力的例子可以从社会性昆虫中得出，比如一些蚂蚁、蜜蜂、黄蜂和白蚁。在几个物种中，繁殖和非繁殖蚁种之间存在严格的区别，后者中的许多个体扮演照顾幼崽的角色（Hölldobler和Wilson 2009）。可以注意到，生物体水平以上的实体通常比组成它们的生物体更少集成和连接。这也许是生命的一个普遍特征：从生物层次结构的每个项目的角度来看，它的部分比它本身更加同质。我们的细胞似乎比我们的身体更加集成和自包含，同样，个体昆虫比它们所属的群体更加自包含。
+如果微生物学有一个微妙的领域，生态学也有一个微妙的领域。生物体形成种群、物种、谱系、类群和生态系统。每个生物体的地位都是一个开放的问题，但它们具有与上述生命描述相似的许多特征。也许最有力的例子可以从社会性昆虫中得出，比如一些蚂蚁、蜜蜂、黄蜂和白蚁。在几个物种中，繁殖和非繁殖蚁种之间存在严格的区别，后者中的许多个体扮演照顾幼崽的角色（Hölldobler 和 Wilson 2009）。可以注意到，生物体水平以上的实体通常比组成它们的生物体更少集成和连接。这也许是生命的一个普遍特征：从生物层次结构的每个项目的角度来看，它的部分比它本身更加同质。我们的细胞似乎比我们的身体更加集成和自包含，同样，个体昆虫比它们所属的群体更加自包含。
 
-最具争议的是盖亚的案例。盖亚是希腊神话中的一个词语；她是地球的拟人化。1979 年，詹姆斯·洛夫洛克在他的书《盖亚：重新审视地球上的生命》中重新提出了这个概念。在他看来，地球范围内相互关联的生态系统可以被视为一个整体。洛夫洛克的一个洞察已经在前一节中提到过：全球范围的相互作用是探测其他地方的生命的重要尺度。洛夫洛克的书引发了围绕地球作为一个自我调节的稳态系统的模型的可信度的争议。在当时，许多人认为这是一个不准确的描述：地球原则上不能进化，并且随后将地球授予生命地位的本体论行动是没有动机的（Doolittle 1981）。最近试图在更理论的基础上重新激活盖亚概念的尝试涉及无生物和生物调节机制以及在类群水平上的自然选择（Lenton 等人 2018 年，Doolittle 2019 年）。无论当前的理论证明尝试如何，将地球视为一个有生命的实体的想法激发了环境运动中的许多人，并且这个想法仍然是一个常见的参考。
+最具争议的是盖亚的案例。盖亚是希腊神话中的一个词语；她是地球的拟人化。1979 年，詹姆斯 · 洛夫洛克在他的书《盖亚：重新审视地球上的生命》中重新提出了这个概念。在他看来，地球范围内相互关联的生态系统可以被视为一个整体。洛夫洛克的一个洞察已经在前一节中提到过：全球范围的相互作用是探测其他地方的生命的重要尺度。洛夫洛克的书引发了围绕地球作为一个自我调节的稳态系统的模型的可信度的争议。在当时，许多人认为这是一个不准确的描述：地球原则上不能进化，并且随后将地球授予生命地位的本体论行动是没有动机的（Doolittle 1981）。最近试图在更理论的基础上重新激活盖亚概念的尝试涉及无生物和生物调节机制以及在类群水平上的自然选择（Lenton 等人 2018 年，Doolittle 2019 年）。无论当前的理论证明尝试如何，将地球视为一个有生命的实体的想法激发了环境运动中的许多人，并且这个想法仍然是一个常见的参考。
 
 ## 7. 伦理学、法律和政治
 
@@ -187,7 +187,7 @@
 * Bains, William, 2004, “Many chemistries could be used to build living systems,” *Astrobiology*, 4(2): 137–167.
 * Basl, John, 2019, *The Death of the Ethic of Life*, Oxford: Oxford University Press.
 * Bedau, Mark A., and Carol E. Cleland (eds.), 2010, *The Nature of Life: Classical and Contemporary Perspectives from Philosophy and Science*, New York: Cambridge University Press.
-* Benner, Steven Albert, 2010, “Defining life,” *Astrobiology*, 10(10): 1021–1030. doi:10.1089/ast.2010.0524
+* Benner, Steven Albert, 2010, “Defining life,” *Astrobiology*, 10(10): 1021–1030. doi: 10.1089/ast.2010.0524
 * Bergson, Henri, 1907 [1959], *L’évolution créatrice*, Paris: Presses Universitaires de France.
 * Boden, Margaret Ann, 1999, “Is metabolism necessary?” *The British Journal for the Philosophy of Science*, 50(2): 231–248. doi: 10.1093/bjps/50.2.231
 * Boyd, Richard, 1991, “Realism, Anti-Foundationalism and the Enthusiasm for Natural Kinds,” *Philosophical Studies*, 61(1–2): 127–148.
@@ -228,7 +228,7 @@
 * –––, 2006, “Concepts as prototypes,” in B.H. Ross (ed.), *The Psychology of Learning and Motivation: Advances in Research and Theory* (Volume 46), New York: Academic Press, pp. 79–113.
 * He, Christine, Isaac Gállego, Brandon Laughlin, Martha A. Grover, and Nicholas V. Hud, 2017, “A Viscous Solvent Enables Information Transfer from Gene-Length Nucleic Acids in a Model Prebiotic Replication Cycle,” *Nature Chemistry*, 9(4): 318–324.
 * Hölldobler, Bert and Wilson, Edward O., 2009, *The Superorganism: the Beauty, Elegance, and Strangeness of Insect Societies*, New York: W.W. Norton & Company.
-* Hutchison, Clyde A., Ray-Yuan Chuang, Vladimir N. Noskov, Nacyra Assad-Garcia, Thomas J. Deerinck, Mark H. Ellisman, John Gill, Krishna Kannan, Bogumil J. Karas, Li Ma, James F. Pelletier, Zhi-Qing Qi, R. Alexander Richter, Elizabeth A. Strychalski, Lijie Sun, Yo Suzuki, Billyana Tsvetanova, Kim S. Wise, Hamilton O. Smith, John I. Glass, Chuck Merryman, Daniel G. Gibson, J. Craig Venter, 2016, “Design and synthesis of a minimal bacterial genome,” *Science*, 351(6280). doi:10.1126/science.aad6253
+* Hutchison, Clyde A., Ray-Yuan Chuang, Vladimir N. Noskov, Nacyra Assad-Garcia, Thomas J. Deerinck, Mark H. Ellisman, John Gill, Krishna Kannan, Bogumil J. Karas, Li Ma, James F. Pelletier, Zhi-Qing Qi, R. Alexander Richter, Elizabeth A. Strychalski, Lijie Sun, Yo Suzuki, Billyana Tsvetanova, Kim S. Wise, Hamilton O. Smith, John I. Glass, Chuck Merryman, Daniel G. Gibson, J. Craig Venter, 2016, “Design and synthesis of a minimal bacterial genome,” *Science*, 351(6280). doi: 10.1126/science.aad6253
 * Jabr, Ferris, 2013, “Why Life Does Not Really Exist,” *Scientific American*, published 02 December 2013 [[Jabr 2013 available online](http://blogs.scientificamerican.com/brainwaves/2013/12/02/why-life-does-not-really-exist/)].
 * Joyce, Gerard F., 1994, forward, in D. W. Deamer, G. R. Fleischaker (eds.), *Origins of Life: the Central Concepts*, Boston: Jones & Bartlett, pp. xi–xii.
 * Komatsu, Lloyd K., 1992, “Recent Views of Conceptual Structure,” *Psychological Bulletin*, 112: 500–526.
@@ -271,7 +271,7 @@
 * Pályi, Gyula, Claudia Zucchi, and Luciano Caglioti, (eds.), 2002, *Fundamentals of Life*, Paris: Elsevier.
 * Parke, Emily C., 2020, “Dimensions of Life Definitions,” in K.C. Smith & C. Mariscal (eds.), *Social and Conceptual Issues in Astrobiology*, Oxford: Oxford University Press, pp. 79–90.
 * Pearce, Ben K.D., Andrew S. Tupper, Ralph E. Pudritz, and Paul G. Higgs, 2018, “Constraining the time interval for the origin of life on Earth,” *Astrobiology*, 18(3): 343–364.
-* Peplow, Mark, 2005, “Formaldehyde claim inflames Martian debate,” *Nature*, published online 25 February 2005. doi:10.1038/news050221-15
+* Peplow, Mark, 2005, “Formaldehyde claim inflames Martian debate,” *Nature*, published online 25 February 2005. doi: 10.1038/news050221-15
 * Peretó, Juli, Jeffrey L. Bada, and Antonio Lazcano, 2009, “Charles Darwin and the origin of life,” *Origins of Life and Evolution of Biospheres*, 39(5): 395–406.
 * Plato, *Phaedrus*, in *Plato: Complete Works*, J. Cooper and D. Hutchinson (eds.), Indianapolis: Hackett, 1997.
 * –––, *The Republic*, in *Plato: Complete Works*, J. Cooper and D. Hutchinson (eds.), Indianapolis: Hackett, 1997.
@@ -297,7 +297,7 @@
 * Szostak, Jack W., 2012, “Attempts to Define Life Do Not Help to Understand the Origin of Life.” *Journal of Biomolecular Structure & Dynamics*, 29(4): 599–600. doi: 10.1080/073911012010524998
 * Trifonov, Edward N., 2011, “Vocabulary of definitions of life suggests a definition.” *Journal of Biomolecular Structure and Dynamics*, 29(2): 259–266
 * Trombley, Carolyn A. and Karl Cottenie, 2019, “Quantifying the scientific cost of ambiguous terminology in community ecology,” *Philosophical Topics*, 47(1): 203–218.
-* Tsokolov, Serhiy A., 2009, “Why Is the Definition of Life So Elusive? Epistemological Considerations,” *Astrobiology*, 9(4): 401–412. doi:10.1089/ast.2007.0201
+* Tsokolov, Serhiy A., 2009, “Why Is the Definition of Life So Elusive? Epistemological Considerations,” *Astrobiology*, 9(4): 401–412. doi: 10.1089/ast.2007.0201
 * Wächtershäuser, Günter, 1988, “Before Enzymes and templates: Theory of Surface Metabolism,” *Microbiological Reviews*, 52(4): 452–484.
 * Weber, Bruce H., 2007, “Emergence of life,” *Zygon*, 42: 837–856.
 * –––, 2010, “What is Life? Defining Life in the Context of Emergent Complexity,” *Origins of Life and Evolution of Biospheres*, 40: 221–229.

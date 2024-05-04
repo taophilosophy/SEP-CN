@@ -8,7 +8,7 @@
 
 ## 1. 笛卡尔方法的起源和定义
 
-笛卡尔方法的起源与他对一种基于力学、物理和数学的激进自然哲学的引入同时发生，而这种组合在十七世纪之前的科学史上几乎是缺席的（关于中世纪科学中力学、物理和数学之间的关系，参见杜埃姆 1905–1906，1906–1913，1913–1959；迈尔 1949–1958；克拉杰特 1959；克伦比 1961；西拉 1991；莱尔德和鲁 2008）。笛卡尔最初是从荷兰科学家和博学家伊萨克·贝克曼（1588–1637）那里学会如何结合这些艺术和科学的（他在 1619 年在布雷达作为纳索王子军队的士兵时遇到了贝克曼）（参见罗迪斯-刘易斯 1998: 24–49 和克拉克 2006: 37–67）。贝克曼将他的自然哲学形式描述为“物理数学”（参见 AT 10: 67–77 和舒斯特 2013），两人讨论和通信关于数学和自然哲学的问题，包括音乐理论、静力学和物体下落的动力学问题（参见 AT 10: 46–47, 51–63, 67–74, 75–78, 89–141, 331–348；谢伊 1991: 1–121；达默罗等 1992；舒斯特 2013: 99–167）。
+笛卡尔方法的起源与他对一种基于力学、物理和数学的激进自然哲学的引入同时发生，而这种组合在十七世纪之前的科学史上几乎是缺席的（关于中世纪科学中力学、物理和数学之间的关系，参见杜埃姆 1905–1906，1906–1913，1913–1959；迈尔 1949–1958；克拉杰特 1959；克伦比 1961；西拉 1991；莱尔德和鲁 2008）。笛卡尔最初是从荷兰科学家和博学家伊萨克 · 贝克曼（1588–1637）那里学会如何结合这些艺术和科学的（他在 1619 年在布雷达作为纳索王子军队的士兵时遇到了贝克曼）（参见罗迪斯-刘易斯 1998: 24–49 和克拉克 2006: 37–67）。贝克曼将他的自然哲学形式描述为“物理数学”（参见 AT 10: 67–77 和舒斯特 2013），两人讨论和通信关于数学和自然哲学的问题，包括音乐理论、静力学和物体下落的动力学问题（参见 AT 10: 46–47, 51–63, 67–74, 75–78, 89–141, 331–348；谢伊 1991: 1–121；达默罗等 1992；舒斯特 2013: 99–167）。
 
 尽管很难确定笛卡尔何时撰写了他的主要方法论著作《思维的指导规则》（Regulae ad directionem ingenii），但普遍认为他在 1620 年代撰写了这些规则（参见 Weber 1964: 194–207；Gaukroger 1995: 104–187；Schuster 2013: 307–349）。最近的证据表明，笛卡尔可能在 1628 年之后继续研究这些规则（参见 Descartes ES）。《规则》中包含了笛卡尔整个著作中最详细的方法论描述。然而，他从未完成它，并且在他的已发表著作或通信中从未明确提及它。
 
@@ -22,7 +22,7 @@
 
 ### 2.1 笛卡尔对“科学”的定义
 
-对于笛卡尔来说，科学是深度相互依赖和相互连接的，并且必须通过一种方法来学习（AT 10: 360–361，CSM 1: 9–10）。他在规则 2 中将“科学”（scientia）定义为“确定和明显的认知”（omnis scientia est cognitio certa et evidens，AT 10: 362，CSM 1: 10）。许多斯科拉学派的亚里士多德主义者以同样的方式定义科学。然而，亚里士多德主义者并不认为每一门科学都同样满足这个定义；有些科学（如数学）可能比其他科学（如自然哲学）更精确，因此更确定。亚里士多德主义者始终为笛卡尔所称的“可能认知”留有余地，尤其是在自然哲学中（规则 2，AT 10: 362，CSM 1: 10）。在规则 2 中，笛卡尔大胆宣称“我们拒绝一切[…]仅仅是可能认知，并决心只相信那些完全被知晓且无法被怀疑的事物”（同上）。
+对于笛卡尔来说，科学是深度相互依赖和相互连接的，并且必须通过一种方法来学习（AT 10: 360–361，CSM 1: 9–10）。他在规则 2 中将“科学”（scientia）定义为“确定和明显的认知”（omnis scientia est cognitio certa et evidens，AT 10: 362，CSM 1: 10）。许多斯科拉学派的亚里士多德主义者以同样的方式定义科学。然而，亚里士多德主义者并不认为每一门科学都同样满足这个定义；有些科学（如数学）可能比其他科学（如自然哲学）更精确，因此更确定。亚里士多德主义者始终为笛卡尔所称的“可能认知”留有余地，尤其是在自然哲学中（规则 2，AT 10: 362，CSM 1: 10）。在规则 2 中，笛卡尔大胆宣称“我们拒绝一切 […] 仅仅是可能认知，并决心只相信那些完全被知晓且无法被怀疑的事物”（同上）。
 
 ### 2.2 直觉
 
@@ -34,7 +34,7 @@
 
 #### 2.2.1 直觉的对象：简单本质
 
-直观的主要对象是“简单本质”。简单本质不是命题，而是“如此清晰和明确[已知]，以至于思维无法将其分割为更明确已知的其他内容”（AT 10: 418，CSM 1: 44）。简单本质可以说是人类知识的基本单位（Hamelin 1921: 86）；所有其他概念和命题都由简单本质组成。笛卡尔将简单本质分为三类：智力（例如，知识、怀疑、无知、意志等）、物质（例如，延展、形状、运动等）和共同（例如，存在、统一、持续性，以及共同概念“其自明性是我们进行所有合理推论的基础”，例如“与第三个事物相同的事物彼此相同”，等等，AT 10: 419，CSM 1: 45）。智力的简单本质必须通过智力本身直观得知。物质的简单本质必须通过智力辅助想象力直观得知。共同的简单本质可以通过智力本身或智力辅助想象力直观得知（同上）。智力的简单本质定义了心灵的本质（笛卡尔形而上学的对象之一），而物质的简单本质定义了身体的本质（笛卡尔的数学和自然哲学的对象）。
+直观的主要对象是“简单本质”。简单本质不是命题，而是“如此清晰和明确 [已知]，以至于思维无法将其分割为更明确已知的其他内容”（AT 10: 418，CSM 1: 44）。简单本质可以说是人类知识的基本单位（Hamelin 1921: 86）；所有其他概念和命题都由简单本质组成。笛卡尔将简单本质分为三类：智力（例如，知识、怀疑、无知、意志等）、物质（例如，延展、形状、运动等）和共同（例如，存在、统一、持续性，以及共同概念“其自明性是我们进行所有合理推论的基础”，例如“与第三个事物相同的事物彼此相同”，等等，AT 10: 419，CSM 1: 45）。智力的简单本质必须通过智力本身直观得知。物质的简单本质必须通过智力辅助想象力直观得知。共同的简单本质可以通过智力本身或智力辅助想象力直观得知（同上）。智力的简单本质定义了心灵的本质（笛卡尔形而上学的对象之一），而物质的简单本质定义了身体的本质（笛卡尔的数学和自然哲学的对象）。
 
 笛卡尔的简单本质理论在他的方法中起着极其重要的作用（参见 Marion 1992）。首先，简单本质“是自明的，从不包含任何虚假”（AT 10: 420，CSM 1: 45），在它们之中没有“超出我们在思考中直观或达到的内容”（同上）。其次，
 
@@ -54,11 +54,11 @@
 
 笛卡尔在第 12 条规则中提供了两个有用的演绎例子，他写道“当我们推断没有延伸的东西不能有形状”时，
 
-> 我们直觉地感知到一个与另一个的结合是完全必要的[...] 因为形状和延伸之间存在必然的联系。(AT 10: 424–425, CSM 1: 48)
+> 我们直觉地感知到一个与另一个的结合是完全必要的 [...] 因为形状和延伸之间存在必然的联系。(AT 10: 424–425, CSM 1: 48)
 
 这种“必然的结合”是我在想象中直接“看到”的，每当我直觉地感知到一个形状时；我想象的任何形状都必然在长度、宽度和高度上延伸。同样，如果
 
-> 苏格拉底[...]说他怀疑一切，那么他至少明白他在怀疑，因此他知道某些事情可以是真或假等等；因为这些事实与怀疑的本质之间存在必然的联系。(AT 10: 421, CSM 1: 46)
+> 苏格拉底 [...] 说他怀疑一切，那么他至少明白他在怀疑，因此他知道某些事情可以是真或假等等；因为这些事实与怀疑的本质之间存在必然的联系。(AT 10: 421, CSM 1: 46)
 
 在这两个例子中，直觉定义了推理的每一步，正如笛卡尔所要求的那样，他写道“推理中的每个命题”必须“清楚地直觉到”。因此，推理由一系列或一连串的直觉或直觉命题组成：
 
@@ -86,7 +86,7 @@
 
 枚举 3 是“基于列举所有可能的替代方案或类似实例的推理形式”（Beck 1952: 143; 基于规则 7, AT 10: 388–389, 29–30, 1–7, CSM 1: 26 和规则 8, AT 10: 394–395, CSM 1: 29）。例如，
 
-> 如果我希望证明[...]理性灵魂不是物质的[...]，只需将所有物体分组成几个类别，以证明理性灵魂不能归属于其中任何一个（AT 10: 390, CSM 1: 26–27）。
+> 如果我希望证明 [...] 理性灵魂不是物质的 [...]，只需将所有物体分组成几个类别，以证明理性灵魂不能归属于其中任何一个（AT 10: 390, CSM 1: 26–27）。
 
 在这里，枚举本身就是一种推理形式：我构建类以推断出一个结论。枚举的其他例子包括笛卡尔在《沉思录》第一篇中列举他可疑的观点，从而导致他在《沉思录》第二篇中发现他无法将命题“我是，我存在”归入这些类别之一（见第 9 节）。
 
@@ -170,13 +170,13 @@
 
 笛卡尔的第二个比较将（1）光传播的介质比作一个完全装满半压葡萄和酒的酒桶，（2）光在这个介质中的作用比作酒倾向于沿着位于桶底的孔直线运动的倾向：
 
-> 酒的各个部分倾向于在打开孔的那一瞬间沿着一条直线向下运动[...]。同样地，与我们眼睛接触的太阳一侧的细微物质[光所组成的]倾向于在我们睁开眼睛的那一瞬间沿着一条直线朝我们的眼睛运动[...]（AT 7: 87–88, CSM 1: 154–155）。
+> 酒的各个部分倾向于在打开孔的那一瞬间沿着一条直线向下运动 [...]。同样地，与我们眼睛接触的太阳一侧的细微物质 [光所组成的] 倾向于在我们睁开眼睛的那一瞬间沿着一条直线朝我们的眼睛运动 [...]（AT 7: 87–88, CSM 1: 154–155）。
 
 这个比较说明了从一个空间的一部分到另一个空间的实际运动与运动的倾向之间的重要区别。就像酒桶中的所有酒都倾向于沿着桶底的孔直线运动一样，光只是一种最小物质在我们眼睛和太阳（或任何其他发光物体）之间具有的沿着直线运动的倾向。我们眼睛和任何发光物体之间的空间是如此拥挤，以至于最小的物质部分无法实际从发光物体到达我们的眼睛。相反，它们的“作用”在于它们朝着我们的眼睛运动的倾向。这种倾向对我们的眼睛施加压力，当通过神经传递到大脑时，产生了心灵中的光的感觉。
 
 第三个比较说明了光线在反射和折射中受到其他物体影响时的直线运动倾向：
 
-> 但是当[光线]遇到某些其他物体时，它们可能会被偏转或削弱，就像球或石头被抛向空中时被遇到的物体偏转一样。因为很容易相信，行动或运动的倾向（我已经说过，应该被视为光线）在这方面必须遵守与运动本身相同的规律。（AT 7: 88–89, CSM 1: 155）
+> 但是当 [光线] 遇到某些其他物体时，它们可能会被偏转或削弱，就像球或石头被抛向空中时被遇到的物体偏转一样。因为很容易相信，行动或运动的倾向（我已经说过，应该被视为光线）在这方面必须遵守与运动本身相同的规律。（AT 7: 88–89, CSM 1: 155）
 
 就像球的运动可以受到遇到的物体的影响一样，光线也可以受到遇到的物体的影响。根据这些物体自身的物理构成，它们可以反射或折射光线。软物体，如亚麻布、沙子或泥浆，“完全阻止球并阻碍其运动”，而硬物体只是“将球发送到另一个方向而不停止它”（AT 7: 89, CSM 1: 155）。由于运动的倾向遵循与运动本身相同的规律，笛卡尔通过将折射光与网球在穿透亚麻布之前和之后的运动进行比较来证明折射定律。
 
@@ -198,7 +198,7 @@ Descartes proceeds to deduce the law of refraction. The ball is struck by the ra
 
 要理解笛卡尔在这里的推理，平行的分量决定 AH 必须被视为沿着其初始路径继续前进，因为它不接触平面的表面。AH 应该延伸到哪里？由于球失去了一半的初始速度，因此在碰撞后到达圆周的时间将是原来的两倍，我们通过将其延伸到 F 来使 AH 的长度加倍。因此，球必须降落在从 F 垂直下落的线上的某个地方，但由于它不能降落在表面上方，所以它必须降落在 CBE 下方的某个地方。它恰好降落在从 F 垂直下落的线与圆在 I 处相交的地方（同上）。一旦我们有了 I，我们将 AB 延伸到 I。笛卡尔观察到折射的程度“与各个物体的渗透性的变化成正比”（AT 7: 101, CSM 1: 161）。然而，他坚持认为，在这个比例中应该相互比较的量不是 ABH 和 IBE 本身（入射角和折射角，分别），“因为这些角度之间的比率或比例随着射线的各种不同倾斜而变化”（同上）。换句话说，入射角和折射角不会根据任何可确定的比例变化。笛卡尔不是将角度相互比较，而是将线段 AH 和 HF（入射角和折射角的正弦值，分别）进行比较，并且发现这些线段之间的比例是 1/2，这是这两个介质之间的所有折射都必须遵守的比例，无论入射角和折射角如何。由于线段 AH 和 HF 是角度的正弦值，笛卡尔的折射定律通常被称为“正弦定律”。
 
-sini=nsinr
+sini = nsinr
 
 入射角 i 的正弦等于折射角 r 的正弦乘以由折射介质的性质定义的常数 n（在上面讨论的例子中，由该介质定义的常数为 1/2，因此 AH = 1/2 HF）。
 
@@ -216,7 +216,7 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 这个观察得出了一个初步的结论：
 
-> [因此]我很容易判断出[彩虹]仅仅来自光线对那些水滴的作用，然后朝着我们的眼睛。（AT 6: 325，CSM 1: 332）
+> [因此] 我很容易判断出 [彩虹] 仅仅来自光线对那些水滴的作用，然后朝着我们的眼睛。（AT 6: 325，CSM 1: 332）
 
 在《气象学 V》（AT 6: 279–280，MOGM: 298–299）中，笛卡尔根据他对水滴形状的早期描述推断，
 
@@ -224,13 +224,13 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 他设计了一个模型，以便更多地观察光在水中的行为。由于水是完全圆形的，并且水的大小不会改变弧线的外观，他用水装满了“一个完全圆形和透明的大瓶子”，并观察光在瓶中的行为。在这个早期阶段，关于相关性和无关性的微妙考虑已经清晰地展现出来，这些考虑使笛卡尔能够缩小范围并更清晰地定义问题。一旦他用水装满了大瓶子，他就可以开始观察光在水中的行为。
 
-> 发现，例如，当太阳来自标记为 AFZ 的天空部分，并且我的眼睛在点 E 处时，当我将这个球放在位置 BCD 时，它的部分 D 对我来说完全是红色的，比其他部分更加明亮不可比拟[...]。（AT 6: 325–326, MOGM: 332；见图 3）。
+> 发现，例如，当太阳来自标记为 AFZ 的天空部分，并且我的眼睛在点 E 处时，当我将这个球放在位置 BCD 时，它的部分 D 对我来说完全是红色的，比其他部分更加明亮不可比拟 [...]。（AT 6: 325–326, MOGM: 332；见图 3）。
 
 ![link to extended description below](https://plato.stanford.edu/entries/descartes-method/fg-flask.png)
 
 图 3：笛卡尔对太阳光作用于水滴的瓶模型（MOGM: 333）。[图 3 的扩展描述和 SVG 图表在附录中。]
 
-正如笛卡尔无疑从经验中知道的那样，红色是主彩虹（位于弓形的最上部分）的最后一种颜色，也是次彩虹（位于弓形的最下部分）的第一种颜色。正如他也必须从经验中知道的那样，主彩虹中的红色比次彩虹中的红色要明亮得多。因此，笛卡尔观察到 D 部分完全是红色的，并且比瓶子的所有其他部分更加明亮，这一点肯定立即引起了他的兴趣和希望。因此，他继续探索太阳光线、他眼睛的位置和 D 处红色的亮度之间的关系，通过改变条件观察变化和保持不变的内容，以更精确地确定相关因素。D 处的红色亮度不受将瓶子放在观察者右侧或左侧的影响，也不受观察者围绕瓶子转动的影响，只要角度 DEM 保持不变。当笛卡尔测量时，角度 DEM 为 42º。因此，眼睛与 D 和 M 在 DEM 处形成的 42º角度是影响 D 处更亮红色外观的因素。在确定了角度 DEM 的测量后，笛卡尔随后改变角度以确定是否发生其他变化。这使他能够将角度的减小与瓶子中其他颜色的出现相联系：
+正如笛卡尔无疑从经验中知道的那样，红色是主彩虹（位于弓形的最上部分）的最后一种颜色，也是次彩虹（位于弓形的最下部分）的第一种颜色。正如他也必须从经验中知道的那样，主彩虹中的红色比次彩虹中的红色要明亮得多。因此，笛卡尔观察到 D 部分完全是红色的，并且比瓶子的所有其他部分更加明亮，这一点肯定立即引起了他的兴趣和希望。因此，他继续探索太阳光线、他眼睛的位置和 D 处红色的亮度之间的关系，通过改变条件观察变化和保持不变的内容，以更精确地确定相关因素。D 处的红色亮度不受将瓶子放在观察者右侧或左侧的影响，也不受观察者围绕瓶子转动的影响，只要角度 DEM 保持不变。当笛卡尔测量时，角度 DEM 为 42º。因此，眼睛与 D 和 M 在 DEM 处形成的 42º 角度是影响 D 处更亮红色外观的因素。在确定了角度 DEM 的测量后，笛卡尔随后改变角度以确定是否发生其他变化。这使他能够将角度的减小与瓶子中其他颜色的出现相联系：
 
 > 如果我稍微减小角度，颜色不会一下子全部出现，而是首先分成两个不那么明亮的部分，其中可以看到黄色、蓝色和其他颜色。
 
@@ -244,7 +244,7 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 到目前为止，已经取得了相当大的进展。已经确定了主彩虹和次级彩虹出现的角度。我们对彩虹出现的时间和地点有了更精确的信息。然而，我们还没有一个解释。彩虹的根本原因仍然未知。因此，笛卡尔决定“更详细地研究是什么导致了球体 BCD 的部分 D 变成红色”，并发现
 
-> 它是太阳的光线，从 A 射向 B 时被弯曲[折射]进入水中的 B 点，然后朝 C 方向传播，再被反射朝 D 方向传播；然后，在离开水面时再次被弯曲[折射]，朝 E 方向传播。
+> 它是太阳的光线，从 A 射向 B 时被弯曲 [折射] 进入水中的 B 点，然后朝 C 方向传播，再被反射朝 D 方向传播；然后，在离开水面时再次被弯曲 [折射]，朝 E 方向传播。
 
 笛卡尔是如何得出这个特定的发现的？通过直接干预模型，排除与产生效果无关的因素（D 点的明亮红色），并清晰地分离出仅产生该效果的原因。每当他“在 AB、BC、CD 或 DE 线上的某个位置放置不透明或黑暗的物体时，这个红色就会消失”，但每当他“除了 B 点和 D 点，将整个球体都遮盖住，并在其他地方放置黑暗的物体”时，红色就会出现在 D 点。同样，在 K 点的情况下，他发现产生红色的光线是从 F 射向 G，然后被折射向 H，再被反射向 I，然后在 I 点再次反射，这次朝 K 点，然后被折射向 E。他得出结论：
 
@@ -254,7 +254,7 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 笛卡尔接下来研究了他所描述的“主要困难”。假设一束光线在 K 和 B 之间的某处击中烧瓶，经历了两次折射和一次或两次反射，离开烧瓶后趋向于眼睛 E。为什么这束光线不产生颜色，“只有我所说的那些光线才会产生特定的颜色”，目前还不清楚（AT 6: 329, MOGM: 334）。这里的困难有两个方面。首先，为什么只有笛卡尔所确定的光线才会产生颜色？其次，为什么这些光线会产生“特定的颜色”，即这些颜色按照特定的顺序（参见 Buchwald 2008: 10）？为了解决这个困难，笛卡尔
 
-> 寻找是否有其他地方它们[颜色]以同样的方式出现，这样通过彼此比较我可以更好地判断它们的原因。（AT 6: 329, MOGM: 335）
+> 寻找是否有其他地方它们 [颜色] 以同样的方式出现，这样通过彼此比较我可以更好地判断它们的原因。（AT 6: 329, MOGM: 335）
 
 比较的主要功能是确定在水中产生彩虹颜色的因素是否存在于其他介质中。笛卡尔决定在一个棱镜中研究这些颜色的产生（见图 4）。棱镜的形状与水不同，能够在没有任何反射和只有一次折射的情况下产生彩虹的颜色。这些条件与在烧瓶中产生彩虹颜色的条件相当不同。因此，彩虹的真正原因尚未完全确定。
 
@@ -268,7 +268,7 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 他还“毫无疑问地认为光是必要的，因为没有光我们什么都看不见”（AT 6: 331，MOGM: 335）。最后，他
 
-> 观察到[...]阴影，或者说这种光的限制是必要的；因为如果我们移除 NP 上的黑暗物体，FGH 的颜色就不再出现，如果我们使 DE 的开口足够大，F 处的红色、橙色和黄色不会比 G 处的绿色、蓝色和紫色更远——相反，两者之间的额外空间都是白色的。（AT 6: 331，MOGM: 336）
+> 观察到 [...] 阴影，或者说这种光的限制是必要的；因为如果我们移除 NP 上的黑暗物体，FGH 的颜色就不再出现，如果我们使 DE 的开口足够大，F 处的红色、橙色和黄色不会比 G 处的绿色、蓝色和紫色更远——相反，两者之间的额外空间都是白色的。（AT 6: 331，MOGM: 336）
 
 当完全移除棱柱底部两部分的黑色物体时，FGH 处不会出现任何颜色，如果打开得太宽，所有颜色都会退到 F 和 H，中间不会出现任何颜色（参见 Buchwald 2008: 14）。
 
@@ -278,7 +278,7 @@ Descartes begins his inquiry into the cause of the rainbow by enumerating2 all o
 
 在光学中，笛卡尔描述了光的性质为一种非常细小的物质的作用或运动，其粒子可以想象为在地球物体的孔隙中滚动的小球（AT 6: 331，MOGM: 336）
 
-> 这些小球倾向于旋转的方式取决于决定它们这样做的原因。当它们被普通表面折射时，“在同一侧[小球]上发生的所有折射都会使它们以相同的方向旋转”（同上），但它们的旋转速度倾向不一定相同。光的粒子在折射后可以获得不同的旋转速度倾向，这取决于它们周围的物体。
+> 这些小球倾向于旋转的方式取决于决定它们这样做的原因。当它们被普通表面折射时，“在同一侧 [小球] 上发生的所有折射都会使它们以相同的方向旋转”（同上），但它们的旋转速度倾向不一定相同。光的粒子在折射后可以获得不同的旋转速度倾向，这取决于它们周围的物体。
 
 The manner in which these balls tend to rotate depends on the causes that determine them to do so. When they are refracted by a common surface, “all the refractions which occur on the same side [of the balls] cause them to turn in the same direction” (ibid.), but they do not necessarily have the same tendency to rotational speed. Particles of light can acquire different tendencies to rotational speed after refraction, depending on the bodies that surround them,
 
@@ -286,7 +286,7 @@ The manner in which these balls tend to rotate depends on the causes that determ
 
  而
 
-> 在 H 处可见的颗粒的特性仅在于这些小颗粒的旋转速度没有通常情况下那么快[...] 以至于当它们转动稍微慢一点时，会呈现绿色，而当它们转动非常慢时，则呈现蓝色。(引自同上)
+> 在 H 处可见的颗粒的特性仅在于这些小颗粒的旋转速度没有通常情况下那么快 [...] 以至于当它们转动稍微慢一点时，会呈现绿色，而当它们转动非常慢时，则呈现蓝色。(引自同上)
 
 组成射线 EH 的球体具有较弱的旋转倾向，而组成射线 DF 的球体具有较强的旋转倾向。因此，在折射后，不同的颜色差异是由于旋转速度的差异产生的。这是笛卡尔自然哲学中机械解释的典型例子。微观机械水平上对粒子行为的描述解释了相关现象的可观测效应。
 
@@ -316,7 +316,7 @@ The manner in which these balls tend to rotate depends on the causes that determ
 
 这些线段只能通过给定线段的加法、减法、乘法、除法和开方来找到。虽然我们知道如何对数字进行这些运算，但对线段进行这些运算的意义不太清楚。例如，将一条线段乘以另一条线段是什么意思？
 
-将线段进行乘法运算的一个非常基本的例子可以在求解线段的平方问题中看到。假设给定线段为 a，并且要求将 a 乘以自身（x=a2）。为了找到 x 的值，我只需在下方构造出 a2 的正方形（参见图 7）：
+将线段进行乘法运算的一个非常基本的例子可以在求解线段的平方问题中看到。假设给定线段为 a，并且要求将 a 乘以自身（x = a2）。为了找到 x 的值，我只需在下方构造出 a2 的正方形（参见图 7）：
 
 ![a line](https://plato.stanford.edu/entries/descartes-method/fg-lsc-a-line.svg)
 
@@ -332,9 +332,9 @@ a3
 
 图 7：线、正方形和立方体。维度的问题。
 
-这个例子清楚地说明了如何在线上进行乘法运算，但它的简单性掩盖了一个问题。笛卡尔的前辈们非常有限地将几何构造与算术运算联系在一起：由于几何学中只有三个空间维度，超过立方体的乘法运算变得困难。一个数可以用一条线表示，一个数的平方可以用一个表面（一个正方形）表示，一个数的立方可以用一个立体（一个立方体）表示，但在立体之外，没有更多的维度来表示 n>3 条线的乘法（参见 Mancosu 2008: 112）（见图 7）。正如后来被称为“维度问题”的问题，它对在几何中使用代数构成了严重的障碍（同上）。假设问题是将一条线提升到四次方（x=a4）。对于笛卡尔的前辈们来说，这在几何上完全没有意义。
+这个例子清楚地说明了如何在线上进行乘法运算，但它的简单性掩盖了一个问题。笛卡尔的前辈们非常有限地将几何构造与算术运算联系在一起：由于几何学中只有三个空间维度，超过立方体的乘法运算变得困难。一个数可以用一条线表示，一个数的平方可以用一个表面（一个正方形）表示，一个数的立方可以用一个立体（一个立方体）表示，但在立体之外，没有更多的维度来表示 n > 3 条线的乘法（参见 Mancosu 2008: 112）（见图 7）。正如后来被称为“维度问题”的问题，它对在几何中使用代数构成了严重的障碍（同上）。假设问题是将一条线提升到四次方（x = a4）。对于笛卡尔的前辈们来说，这在几何上完全没有意义。
 
-笛卡尔通过展示在线上执行的算术运算永远不会超越这条线来解决了维度的问题。例如，如果线段 AB 是单位线段（见图 8），我想要将线段 BD 乘以线段 BC，“我只需要连接点 A 和 C，然后画 DE 与 CA 平行，BE 就是这个乘法的乘积”（AT 6: 370，MOGM: 177–178）。笛卡尔的方法是基于相似三角形的（两个或多个三角形的边长可能不同，但角度相等）。所有相似三角形的边长成比例（例如，三角形 ACB 与三角形 DEB 相似，BC 与 BE 成比例，BA 与 BD 成比例，等等）（参见欧几里得的《几何原本》VI.4–5 [1908: [2] 200–204]）。通过利用比例理论，笛卡尔可以轻松地证明 BA:BD=BC:BE，或者 1:a=b:c（例如，1:2=2:4，所以 2∙2=4，等等），在这种情况下 a∙b=c 或 BD∙BC=BE。两条或多条线段的乘积永远不会产生一个正方形或一个立体，而只会产生另一条与其他线段有明确（成比例）关系的线段。所有大小可以轻松地作为相互之间通过某种度量或比例相关的线段进行比较，有效地为在几何中无限制地使用代数打开了大门。
+笛卡尔通过展示在线上执行的算术运算永远不会超越这条线来解决了维度的问题。例如，如果线段 AB 是单位线段（见图 8），我想要将线段 BD 乘以线段 BC，“我只需要连接点 A 和 C，然后画 DE 与 CA 平行，BE 就是这个乘法的乘积”（AT 6: 370，MOGM: 177–178）。笛卡尔的方法是基于相似三角形的（两个或多个三角形的边长可能不同，但角度相等）。所有相似三角形的边长成比例（例如，三角形 ACB 与三角形 DEB 相似，BC 与 BE 成比例，BA 与 BD 成比例，等等）（参见欧几里得的《几何原本》VI.4–5 [1908: [2] 200–204]）。通过利用比例理论，笛卡尔可以轻松地证明 BA: BD = BC: BE，或者 1: a = b: c（例如，1: 2 = 2: 4，所以 2∙2 = 4，等等），在这种情况下 a∙b = c 或 BD∙BC = BE。两条或多条线段的乘积永远不会产生一个正方形或一个立体，而只会产生另一条与其他线段有明确（成比例）关系的线段。所有大小可以轻松地作为相互之间通过某种度量或比例相关的线段进行比较，有效地为在几何中无限制地使用代数打开了大门。
 
 ![Image from Descartes work Two lines meet at point B to form an acute angle; points D and A with D further from B are on the lower line and points E and C with point E further from B are on the upper line; a line segment connects D and E and also A and C Link to SVG diagram and extended description below](https://plato.stanford.edu/entries/descartes-method/fg-two-lines.png)
 
@@ -342,17 +342,17 @@ a3
 
 在解释了如何在几何中应用乘法和其他算术运算之后（AT 6: 369–370，MOGM: 177–178），笛卡尔继续描述了如何将这种方法应用于几何问题中：
 
-> 因此，如果我们希望解决某个问题，首先我们应该考虑它已经解决了，并给所有线条命名——无论是未知的还是其他看起来在构建问题中必要的线条。然后，不考虑已知线条和未知线条之间的任何差异，我们应该按照最自然地显示这些线条之间相互依赖关系的顺序来解决问题，直到我们找到一种方法以两种方式表达一个单一的量。这将被称为方程，因为其中一种方式[表达数量]的项等于另一种方式的项。(AT 6: 372, MOGM: 179)
+> 因此，如果我们希望解决某个问题，首先我们应该考虑它已经解决了，并给所有线条命名——无论是未知的还是其他看起来在构建问题中必要的线条。然后，不考虑已知线条和未知线条之间的任何差异，我们应该按照最自然地显示这些线条之间相互依赖关系的顺序来解决问题，直到我们找到一种方法以两种方式表达一个单一的量。这将被称为方程，因为其中一种方式 [表达数量] 的项等于另一种方式的项。(AT 6: 372, MOGM: 179)
 
-这就是分析的方法，它也将在形而上学中找到一些应用(见第 9 节)。要将该方法应用于几何问题，首先必须“考虑[问题]已解决”，用字母来命名已知线条和未知线条。然后，必须产生与未知线条数量相等的方程，并且每个方程必须用已知线条来表达未知线条。(方程将未知量定义为已知量。例如，方程 x2=ax+b2 将未知量“x”与已知量“a”和“b”相关联，从而以两种方式表达一个数量。)最后，必须使用这些方程来几何地构造所需的线条。
+这就是分析的方法，它也将在形而上学中找到一些应用(见第 9 节)。要将该方法应用于几何问题，首先必须“考虑 [问题] 已解决”，用字母来命名已知线条和未知线条。然后，必须产生与未知线条数量相等的方程，并且每个方程必须用已知线条来表达未知线条。(方程将未知量定义为已知量。例如，方程 x2 = ax+b2 将未知量“x”与已知量“a”和“b”相关联，从而以两种方式表达一个数量。)最后，必须使用这些方程来几何地构造所需的线条。
 
-笛卡尔在几何学第一章中提供了一个简单的例子。给定线段 a 和 b，我必须构造一条线 x，使得 x2=ax+b2。构造过程如下(见图 9)。
+笛卡尔在几何学第一章中提供了一个简单的例子。给定线段 a 和 b，我必须构造一条线 x，使得 x2 = ax+b2。构造过程如下(见图 9)。
 
 ![Image from Descartes A circle dotted with a center of N and bisected by the line segment OP with O at approximately 160 degrees and P at 20 degrees Point L is on the circle at 90 degrees from N The line segment OP extends beyond the circle to intersect at point M with a horizontal line extending from L Link to SVG diagram and description below](https://plato.stanford.edu/entries/descartes-method/fg-circle.png)
 
 图 9（AT 6: 375，MOGM: 181，D1637: 302）。[图 9 的扩展描述和 SVG 图表在附录中。]
 
-首先，我画一个直角三角形 NLM，使得 LN=1/2a，LM=b，且角 NLM=90º。
+首先，我画一个直角三角形 NLM，使得 LN = 1/2a，LM = b，且角 NLM = 90º。
 
 其次，我以 N 为中心，半径为 1/2a 画一个圆。
 
@@ -360,19 +360,19 @@ a3
 
 MO = x，所需的线段。
 
-证明：根据《几何原本》第 III.36 定理，MO∙MP=LM2。因此，x(x−a)=b2 或 x2=ax+b2（参见 Bos 2001: 305）。
+证明：根据《几何原本》第 III.36 定理，MO∙MP = LM2。因此，x(x−a)= b2 或 x2 = ax+b2（参见 Bos 2001: 305）。
 
 这个过程相对简单（不熟悉相关欧几里得构造的读者被鼓励参考欧几里得的《几何原本》III.36 [1908: [2] 73–75]）。所采用的方法很清晰。通过使用已知和未知量的字母来代数地表达问题，并产生一个方程，其中未知量仅以已知量的形式表达。然后通过添加满足方程的线段来构造未知量。这种构造使得问题的解可以通过直觉或智力辅助想象力（或在纸上，它体现了智力对线段在想象中的操作）直接看到。因此，几何构造是笛卡尔几何中直觉的基础，也是解决任何问题的最后一步。
 
 笛卡尔采用他的方法来解决在数学历史上从未解决过的问题。其中一个问题是“帕普斯问题”，即轨迹问题，或者说必须找到满足一定条件（方程）的所有点的轨迹（位置），由四世纪的希腊数学家亚历山大的帕普斯（公元 300-350 年）提出：
 
-> [如果]我们有三条、四条或更多直线在给定位置上，我们首先必须有一个点，从这个点我们可以画出与给定直线成给定角度的其他直线，每条直线上都有一条。（AT 6: 379, MOGM: 184）
+> [如果] 我们有三条、四条或更多直线在给定位置上，我们首先必须有一个点，从这个点我们可以画出与给定直线成给定角度的其他直线，每条直线上都有一条。（AT 6: 379, MOGM: 184）
 
 这样，这些线之间存在着明确的比例关系。在涉及超过六条线的轨迹问题中（其中方程的一侧必须显示三条线与另一侧的四条线存在比例关系），帕普斯认为问题的维度性质阻止了对这些问题的解决，“因为没有超过三个维度的图形”，所以“由这些线围成的图形无法以任何方式理解”（见上文）。相比之下，笛卡尔认为，任意数量的线的乘法可以有几何意义。笛卡尔对帕普斯问题提供了完全通用的解决方案：无论有多少条线，他都演示了如何找到一个方程并产生一个满足所需条件的构造（参见 Bos 2001: 313–334）。更广泛地说，他对几何学中遇到的问题类型进行了完整的枚举（由复杂程度定义）；列举了解决每个类别问题所需的几何构造；并通过能否用代数方式表达来定义几何上可接受的构造的类别。
 
 ## 9. 形而上学中的方法
 
-笛卡尔在《沉思录》中运用了分析方法（第二回答，AT 7: 155–156, CSM 2: 110–111）。在形而上学中，分析方法“展示了问题的发现过程”（上文）。笛卡尔将分析与综合相对立，综合中的首要原理不是被发现，而是以定义、假设、公理、定理和问题的形式给出（上文），就像在欧几里得的证明中一样。笛卡尔写道，综合“不能如此方便地应用于[...]形而上学的主题”。为什么呢？
+笛卡尔在《沉思录》中运用了分析方法（第二回答，AT 7: 155–156, CSM 2: 110–111）。在形而上学中，分析方法“展示了问题的发现过程”（上文）。笛卡尔将分析与综合相对立，综合中的首要原理不是被发现，而是以定义、假设、公理、定理和问题的形式给出（上文），就像在欧几里得的证明中一样。笛卡尔写道，综合“不能如此方便地应用于 [...] 形而上学的主题”。为什么呢？
 
 > 不同之处在于几何真理的证明所假设的基本概念是任何人都能轻易接受的，因为它们符合我们感官的使用。然而，在形而上学中，没有什么比使我们对基本概念的感知变得清晰明确更费力了。(AT 7: 156–157, CSM 1: 111)
 
@@ -380,7 +380,7 @@ MO = x，所需的线段。
 
 笛卡尔在《沉思录》第一篇中的分析过程包括列举他的观点并将它们置于怀疑之中，以便任何经受住这些怀疑的命题都能被安全地接受为真实。笛卡尔还将此描述为“普遍怀疑的方法”(AT 7: 203, CSM 2: 207)。
 
-> [为了]拒绝我所有的观点，只要我在每个观点中找到至少一些怀疑的理由就足够了。为了做到这一点，我不需要逐个审查它们，那将是一个无尽的任务。[...]我将直接着手处理原则。（AT 7: 18，CSM 2: 17）
+> [为了] 拒绝我所有的观点，只要我在每个观点中找到至少一些怀疑的理由就足够了。为了做到这一点，我不需要逐个审查它们，那将是一个无尽的任务。[...] 我将直接着手处理原则。（AT 7: 18，CSM 2: 17）
 
 他决定不逐个审查他的所有观点，而是决定将它们归类并检查每个特定类别中的一个或两个成员，以查看是否有理由怀疑它们。他将自己的观点定义为那些“我通过感官或通过感官获得的观点”（AT 7: 18，CSM 1: 12），然后进一步将这个类别分为：（a）关于“非常小或远处的事物”的观点，他经常在这方面犯错误；（b）关于他的身体和他的周围环境的观点，这可能只是一个梦；（c）关于事物的观点，即使它们是想象的，至少也是由真实的事物构成的一个类别，其中包括了整体的物质性质，以及它的延伸；延伸物体的形状；这些事物的数量、大小和数量；它们可能存在的地方；它们可能持续的时间，等等。
 
@@ -421,41 +421,41 @@ Other primary sources include:
 * Bacon, Francis, 1620 [2000], *The New Organon*, Lisa Jardine and Michael Silverthorne (eds), Cambridge: Cambridge University Press.
 * Descartes, René, 1987, *Discours de la méthode. Texte et commentaire par Étienne Gilson*, Paris: Vrin.
 * Descartes, René and Martin Schook, 1988, *La Querelle d’Utrecht*, Theo Verbeek (ed.), Paris: Les impressions Nouvelles.
-* Empiricus, Sextus, 2005, *Against the Logicians*, Richard Bett (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511815232
+* Empiricus, Sextus, 2005, *Against the Logicians*, Richard Bett (ed.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511815232
 * [*Elements*] Euclid, 1908, *The Thirteen Books of Euclid’s Elements*, 3 volumes, Thomas L. Heath (trans.), Cambridge: Cambridge University Press. [[Euclid *Elements* available online](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)]
 * Gassendi, Pierre, 1658, *Opera omnia*, vol. I, Lyon: Laurent Anisson and Jean-Baptiste Devenet.
 * Lipstorp, Daniel, 1653, *Specimina philosophiæ cartesianæ. Quibus accedit ejusdem authoris Copernicus redivivus*, Amsterdam: Elsevier.
 * Poisson, Nicolas-Joseph, 1670, *Commentaire ou Remarques sur la méthode de René Descartes où on établit plusiers Principes generaux, necessaires pour entendre toutes ses Oeuvres*, Vandsome: Sebastian Hip.
 * Pourchot, Edmond, 1695, *Institutio philosophica ad faciliorem veterum ac recentiorum philosophorum intelligentiam comparatae*, Paris: J.-B. Coignard.
-* Schook[ius], Martin[us], et al., 1643, *Admiranda methodus novae philosophiae Renati des Cartes*, Utrecht: J. van Waesberge.
+* Schook [ius], Martin [us], et al., 1643, *Admiranda methodus novae philosophiae Renati des Cartes*, Utrecht: J. van Waesberge.
 
 ### Secondary Sources
 
 * Alanen, Lilli, 1999, “Intuition, Assent and Necessity: The Question of Descartes’s Psychologism”, *Acta Philosophica Fennica 64: Norms and Modes of Thinking in Descartes*, Tuomo Aho and Mikko Yrjönsuuri (eds), Helsinki: Philosophical Society of Finland, 99–125.
 * Alanen, Lilli and Yrjönsuuri, Mikko, 1997, “Intuition, jugement et evidence chez Ockham et Descartes”, in *Descartes et le moyen age*, Joël Biard and Roshdi Rashed (eds), Paris: Vrin, 155–175.
 * Alexandrescu, Vlad, 2013, “Descartes et le rêve (Baconien) de ‘le plus haute et plus parfaite science’”, *Studia Universitatis Babes-Bolyai – Philosophia*, 58(3): 11–35.
-* Ariew, Roger, 2014, *Descartes and the First Cartesians*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199563517.001.0001
+* Ariew, Roger, 2014, *Descartes and the First Cartesians*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199563517.001.0001
 * Azouvi, François, 2002, *Descartes et la France. Histoire d’une passion nationale*, Paris: Fayard.
 * Bachelard, Gaston, 1934 [1985], *Le Nouvel esprit scientifique*, Paris: Félix Alcan, PUF. Translated as *The New Scientific Spirit*, Arthur Goldhammer (trans.), Boston: Beacon Press, 1985.
 * Baillet, Adrien, 1691, *La vie de Monsieur Descartes*, vol. 1, Paris: Daniel Horthemels. [[Baillet 1691 available online](https://archive.org/details/bub_gb_RhNEAAAAcAAJ/page/n6/mode/2up)]
 * Beck, John Leslie, 1952, *The Method of Descartes: A Study of the Regulae*, Oxford: Clarendon Press.
-* Bos, Henk J., 2001, *Redefining Geometrical Exactness: Descartes’ Transformation of the Early Modern Concept of Construction*, New York: Springer. doi:10.1007/978-1-4613-0087-8
-* Buchwald, Jed Z., 2008, “Descartes’ Experimental Journey Past the Prism and through the Invisible World to the Rainbow”, *Annals of Science* 65(1): 1–46. doi:10.1080/00033790701406982
+* Bos, Henk J., 2001, *Redefining Geometrical Exactness: Descartes’ Transformation of the Early Modern Concept of Construction*, New York: Springer. doi: 10.1007/978-1-4613-0087-8
+* Buchwald, Jed Z., 2008, “Descartes’ Experimental Journey Past the Prism and through the Invisible World to the Rainbow”, *Annals of Science* 65(1): 1–46. doi: 10.1080/00033790701406982
 * Brockliss, Lawrence, 1987, *French Higher Education in the Seventeenth and Eighteenth Centuries: A Cultural History*, Oxford: Clarendon Press.
 * Broughton, Janet, 2002, *Descartes’s Method of Doubt*, Princeton: Princeton University Press.
 * Cassan, Elodie, 2015, *Les chemins cartésien du jugement*, Paris: Honoré Champion.
 * Clagett, Marshall, 1959, *The Science of Mechanics in the Middle Ages*, Madison, WI: University of Wisconsin Press.
 * Clarke, Desmond M., 1982. *Descartes’ Philosophy of Science*. University Park: The Pennsylvania State University Press.
-* –––, 2003, *Descartes’ Theory of Mind*, Oxford: Oxford University Press. doi:10.1093/0199261237.001.0001
-* –––, 2006, *Descartes: A Biography*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498077
+* –––, 2003, *Descartes’ Theory of Mind*, Oxford: Oxford University Press. doi: 10.1093/0199261237.001.0001
+* –––, 2006, *Descartes: A Biography*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498077
 * Crombie, A.C., 1961, *Robert Grosseteste and the Origins of Experimental Science, 1100–1700*, Oxford: Clarendon Press.
 * Curley, Edwin, 1978, *Descartes against the Skeptics*, Cambridge, MA: Harvard University Press.
-* Damerow, Peter, Gideon Freudenthal, Peter McLaughlin, and Jürgen Renn, 1992, *Exploring the Limits of Preclassical Mechanics: A Study of Conceptual Development in Early Modern Science: Free Fall and Compounded Motion in the Work of Descartes, Galileo and Beeckman*, (Sources and Studies in the History of Mathematics and Physical Sciences), New York, NY: Springer New York. doi:10.1007/978-1-4757-3994-7
-* Dear, Peter, 2000, “Method and the Study of Nature”, in *The Cambridge History of Seventeenth-Century Philosophy*, vol. 1, Daniel Garber and Michael Ayers (eds), Cambridge: Cambridge University Press, 147­177. doi:10.1017/CHOL9780521307635.009
+* Damerow, Peter, Gideon Freudenthal, Peter McLaughlin, and Jürgen Renn, 1992, *Exploring the Limits of Preclassical Mechanics: A Study of Conceptual Development in Early Modern Science: Free Fall and Compounded Motion in the Work of Descartes, Galileo and Beeckman*, (Sources and Studies in the History of Mathematics and Physical Sciences), New York, NY: Springer New York. doi: 10.1007/978-1-4757-3994-7
+* Dear, Peter, 2000, “Method and the Study of Nature”, in *The Cambridge History of Seventeenth-Century Philosophy*, vol. 1, Daniel Garber and Michael Ayers (eds), Cambridge: Cambridge University Press, 147­177. doi: 10.1017/CHOL9780521307635.009
 * de Buzon, Frédéric, 2013, *La science cartésienne et son objet: mathesis et phénomène*, Paris: Honoré Champion.
 * Des Chene, Denis, 1996, *Physiologia: Natural Philosophy in Late Aristotelian and Cartesian Thought*, Ithaca, NY: Cornell University Press.
 * –––, 2000, *Life’s Form: Late Aristotelian Conceptions of Soul*, Ithaca, NY: Cornell University Press.
-* Dika, Tarek R., 2015, “Method, Practice, and the Unity of *Scientia* in Descartes’s *Regulae*”, *Journal of Early Modern Studies*, 4(2): 93–110. doi:10.5840/jems20154216
+* Dika, Tarek R., 2015, “Method, Practice, and the Unity of *Scientia* in Descartes’s *Regulae*”, *Journal of Early Modern Studies*, 4(2): 93–110. doi: 10.5840/jems20154216
 * –––, forthcoming, “The Origins of Cartesian Dualism”, *Journal of the American Philosophical Association*.
 * Dika, Tarek R. and Denis Kambouchner, forthcoming, “Descartes’ Method”, in *The Cartesian Mind*, Cecilia Wee and Jorge Secada (ed.), New York: Routledge.
 * Dubouclez, Olivier, 2013, *Descartes et la voie de l’analyse*, Paris: Vrin.
@@ -464,19 +464,19 @@ Other primary sources include:
 * –––, 1913–1959, *Le système du monde, histoire des doctrines cosmologiques de Platon à Copernic*, 10 volumes, Paris: Hermann.
 * Feyerabend, Paul, 1975, *Against Method*, London: New Left Books.
 * Flage, Daniel E. and Clarence A. Bonnen, 1999, *Descartes and Method: A Search for Method in Meditations*, London: Routledge.
-* Garber, Daniel, 1988, “Descartes, the Aristotelians, and the Revolution that did not Happen in 1637”, *Monist*, 71(4): 471–486. doi:10.5840/monist198871441
+* Garber, Daniel, 1988, “Descartes, the Aristotelians, and the Revolution that did not Happen in 1637”, *Monist*, 71(4): 471–486. doi: 10.5840/monist198871441
 * –––, 1992, *Descartes’ Metaphysical Physics*, Chicago: Chicago University Press.
-* –––, 2001, *Descartes Embodied: Reading Cartesian Philosophy through Cartesian Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511605994
+* –––, 2001, *Descartes Embodied: Reading Cartesian Philosophy through Cartesian Science*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511605994
 * Gaukroger, Stephen, 1989, *Cartesian Logic: An Essay on Descartes’s Conception of Inference*, Oxford: Clarendon Press.
-* –––, 1995, *Descartes: An Intellectual Biography*, Oxford: Clarendon Press. doi:10.1093/0198237243.001.0001
-* –––, 2006, “Knowledge, Evidence, and Method”, in *The Cambridge Companion to Early Modern Philosophy*, Donald Rutherford (ed.), Cambridge: Cambridge University Press, 39–66. doi:10.1017/CCOL0521822424.003
+* –––, 1995, *Descartes: An Intellectual Biography*, Oxford: Clarendon Press. doi: 10.1093/0198237243.001.0001
+* –––, 2006, “Knowledge, Evidence, and Method”, in *The Cambridge Companion to Early Modern Philosophy*, Donald Rutherford (ed.), Cambridge: Cambridge University Press, 39–66. doi: 10.1017/CCOL0521822424.003
 * Gewirth, Alan, 1991. “Clearness and Distinctness in Descartes”, in Moyal 1991: 185–204.
 * Gibson, A. Boyce, 1932, *The Philosophy of Descartes*, London: Methuen & Co.
-* Gibson, W. R. Boyce, 1898, “The Regulae of Descartes”, *Mind*, 7(26): 145–158. doi:10.1093/mind/VII.26.145
+* Gibson, W. R. Boyce, 1898, “The Regulae of Descartes”, *Mind*, 7(26): 145–158. doi: 10.1093/mind/VII.26.145
 * Gilbert, Neal Ward, 1960, *Renaissance Concepts of Method*, New York: Columbia University Press.
-* Gontier, Thierry, 2006, “Mathématiques et science universelle chez Bacon et chez Descartes”, *Revue d’histoire des sciences*, 59(2): 285–312. doi:10.3917/rhs.592.0285
+* Gontier, Thierry, 2006, “Mathématiques et science universelle chez Bacon et chez Descartes”, *Revue d’histoire des sciences*, 59(2): 285–312. doi: 10.3917/rhs.592.0285
 * Gueroult, Martial, 1984, *Descartes’ Philosophy Interpreted According to the Order of Reasons*, 2 volumes, Roger Ariew (trans.), Minneapolis, MN: University of Minnesota Press.
-* Hamou, Phillipe, 2014, “Sur les origines du concept de méthode à l’âge Classique: La Ramée, Bacon et Descartes”, *Revue LISA*, 12(5). doi:10.4000/lisa.6249
+* Hamou, Phillipe, 2014, “Sur les origines du concept de méthode à l’âge Classique: La Ramée, Bacon et Descartes”, *Revue LISA*, 12(5). doi: 10.4000/lisa.6249
 * Humber, James. M., 1991, “Recognizing Clear and Distinct Perceptions”, in Moyal 1991: 204–222.
 * Kambouchner, Denis, 1995, *L’homme des passions. Commentaires sur Descartes I. Analytique*, Paris: Albin Michel.
 * –––, 2005, *Les Méditations Métaphysiques de Descartes: Introduction Générale. Première Méditation*, Paris: Vrin.
@@ -484,29 +484,29 @@ Other primary sources include:
 * Koyré, Alexandre, 1939 [1978], *Études galiléennes*, Paris: Hermann. Translates as *Galileo Studies*, John Mepham (trans.), Hassocks: Harvester Press.
 * Kuhn, Thomas, 1977, *The Essential Tension: Selected Studies in Scientific Tradition and Change*, Chicago: University of Chicago Press.
 * Lalande, André, 1911, “Sur quelques textes de Bacon et de Descartes”, *Revue de métaphysique et de morale*, 11(3): 296–311.
-* Laird, Walter Roy and Sophie Roux, 2008, *Mechanics and Natural Philosophy before the Scientific Revolution*, Dordrecht: Springer. doi:10.1007/978-1-4020-5967-4
+* Laird, Walter Roy and Sophie Roux, 2008, *Mechanics and Natural Philosophy before the Scientific Revolution*, Dordrecht: Springer. doi: 10.1007/978-1-4020-5967-4
 * Larmore, Charles, 1980, “Descartes’ Empirical Epistemology”, in *Descartes: Philosophy, Mathematics and Physics*, Stephen Gaukrgoer (ed.), Sussex: Harvester Press, 6–22.
 * Maier, Analeise, 1949–1958, *Studien zur Naturphilosophie der Spätscholastik*, 5 volumes, Rome: Editione di storia e letteratura.
-* Mancosu, Paolo, 2008, “Descartes’ Mathematics”, in *A Companion to Descartes*, Janet Broughton and John Carriero (eds), Oxford: Blackwell, 103–124. doi:10.1002/9780470696439.ch7
+* Mancosu, Paolo, 2008, “Descartes’ Mathematics”, in *A Companion to Descartes*, Janet Broughton and John Carriero (eds), Oxford: Blackwell, 103–124. doi: 10.1002/9780470696439.ch7
 * Marion, Jean-Luc, 1992, “Cartesian metaphysics and the role of the simple natures”, in *The Cambridge Companion to Descartes*, John Cottingham (ed.), Cambridge: Cambridge University Press, 115–140.
 * –––, 1975, *Sur l’ontologie grise de Descartes: science cartésienne et savoir aristotelicien dans les Regulae*, Paris: Vrin.
 * Markie, Peter, 1991, “Clear and Distinct Perception and Metaphysical Certainty”, in *RenRené Descartes: Critical Assessments*, J.D. Moyal (ed.), London: New York, 177–185.
 * Martinet, M., 1975, “Science et hypothèses chez Descartes”, *Archives internationale d’histoire des sciences*, 24: 319–338.
 * Mikkeli, Heikki, 2010, “The Structure and Method of Scientific Knowledge”, in Paul Richard Blum (ed.), *Philosophers of the Renaissance*, Washington DC: The Catholic University of America Press, pp. 181–191
 * Moyal, George J. D. (ed.), 1991, *René Descartes: Critical Assessments*, volume 1, London: Routledge.
-* Newman, Lex, 2019, “Descartes on the Method of Analysis”, in *The Oxford Handbook of Descartes and Cartesianism*, Steven Nadler, Tad M. Schmaltz, and Delphine Antoine-Mahut (eds), Oxford: Oxford University Press, 64–88. doi:10.1093/oxfordhb/9780198796909.013.4
-* Normore, Calvin, 1993. “The Necessity in Deduction: Cartesian Inference and its Medieval Background”, *Synthese*, 96(3): 437–454. doi:10.1007/BF01064011
+* Newman, Lex, 2019, “Descartes on the Method of Analysis”, in *The Oxford Handbook of Descartes and Cartesianism*, Steven Nadler, Tad M. Schmaltz, and Delphine Antoine-Mahut (eds), Oxford: Oxford University Press, 64–88. doi: 10.1093/oxfordhb/9780198796909.013.4
+* Normore, Calvin, 1993. “The Necessity in Deduction: Cartesian Inference and its Medieval Background”, *Synthese*, 96(3): 437–454. doi: 10.1007/BF01064011
 * Randall, J.H., 1961, *The School of Padua and the Emergence of Modern Science*, Padova: Editrice Antenore.
 * Reiss, Timothy J., 2000, “Neo-Aristotle and Method: between Zabarella and Descartes”, in *Descartes’ Natural Philosophy*, Stephen Gaukroger, John Schuster, and John Sutton (eds), New York: Routledge, 195–227.
 * Robinet, André, 1996, *Aux sources de l’ésprit cartésien: l’axe La Ramée-Descartes: de la Dialectique des 1555 aux Regulae*, Paris: Vrin.
 * Rodis-Lewis, Geneviève, 1998, *Descartes: His Life and Thought*, Ithaca, NY: Cornell University Press.
-* Schmaltz, Tad M., 2017, *Early Modern Cartesianisms: Dutch and French Constructions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190495220.001.0001
-* Schuster, John, 2013. *Descartes-Agonistes: Physico-mathematics, Method & Corpuscular Mechanism, 1618–1633*, Dordrecht: Springer. doi:10.1007/978-94-007-4746-3
-* Schuster, John and Richard Yeo (eds), 1986, *The Politics and Rhetoric of Scientific Method: Historical Studies*, Dordrecht: D. Reidel. doi:10.1007/978-94-009-4560-9
+* Schmaltz, Tad M., 2017, *Early Modern Cartesianisms: Dutch and French Constructions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190495220.001.0001
+* Schuster, John, 2013. *Descartes-Agonistes: Physico-mathematics, Method & Corpuscular Mechanism, 1618–1633*, Dordrecht: Springer. doi: 10.1007/978-94-007-4746-3
+* Schuster, John and Richard Yeo (eds), 1986, *The Politics and Rhetoric of Scientific Method: Historical Studies*, Dordrecht: D. Reidel. doi: 10.1007/978-94-009-4560-9
 * Schouls, Peter, 1980, *The Imposition of Method: A Study of Descartes and Locke*, Oxford: Clarendon Press.
 * Shea, William R., 1991, *The Magic of Numbers and Motion: The Scientific Career of René Descartes*, New York: Science History Publications.
-* Slowik, Edward, 2002, *Cartesian Spacetime: Descartes’ Physics and the Relational Theory of Space and Motion*, Dordrecht: Kluwer. doi:10.1007/978-94-017-0975-0
-* Smith, Kurt, 2010, *Matter Matters: Metaphysics and Methodology in the Early Modern Period*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199583652.001.0001
+* Slowik, Edward, 2002, *Cartesian Spacetime: Descartes’ Physics and the Relational Theory of Space and Motion*, Dordrecht: Kluwer. doi: 10.1007/978-94-017-0975-0
+* Smith, Kurt, 2010, *Matter Matters: Metaphysics and Methodology in the Early Modern Period*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199583652.001.0001
 * Sylla, Edith Dudley, 1991, *The Oxford Calculators and the Mathematics of Motion, 1320–1350: Physics and Measurements by Latitudes*, New York: Garland.
 * Verbeek, Theo, 1992, *Descartes and the Dutch: Early Reactions to Cartesian Philosophy 1637–1650*, Carbondale: Southern Illinois University Press.
 * Weber, J.P., 1964, *La constitution du texte des “Regulae”*, Paris: Société d’édition d’enseignement supérieur.

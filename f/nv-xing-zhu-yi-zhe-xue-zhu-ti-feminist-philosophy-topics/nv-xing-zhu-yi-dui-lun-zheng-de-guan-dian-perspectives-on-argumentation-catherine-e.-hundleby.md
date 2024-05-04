@@ -18,11 +18,11 @@
 
 一些女性主义哲学家认为，与男性气质相关的侵略文化不利于推理过程，并阻碍哲学学科，因为它将人们之间和彼此推理的非对抗性参与置于次要地位，降低甚至排除。这一问题的证据在各个地方显现，从用军事和侵略性语言描述哲学话语和一般理性争论的普遍现象开始（Lakoff & Johnson 1980; Ayim 1988; Cohen 1995）。
 
-珍妮丝·莫尔顿（1983）认为，她所称之为“对手方法”的特定风格主导了哲学学科，这超越了一组态度或互动风格，还包括优先考虑特定的话语逻辑。莫尔顿对哲学学科实践的表征得到了菲利斯·鲁尼（2012）和凯瑟琳·亨德尔比（2010）的进一步证据。
+珍妮丝 · 莫尔顿（1983）认为，她所称之为“对手方法”的特定风格主导了哲学学科，这超越了一组态度或互动风格，还包括优先考虑特定的话语逻辑。莫尔顿对哲学学科实践的表征得到了菲利斯 · 鲁尼（2012）和凯瑟琳 · 亨德尔比（2010）的进一步证据。
 
 ### 1.1 男性侵略的隐喻与规范
 
-争论作为战争的隐喻为乔治·莱科夫（George Lakoff）和马克·约翰逊（Mark Johnson）的里程碑之作《我们生活的隐喻》（1980 年）提供了一个中心例子。战争可以作为辩论的“结构隐喻”。
+争论作为战争的隐喻为乔治 · 莱科夫（George Lakoff）和马克 · 约翰逊（Mark Johnson）的里程碑之作《我们生活的隐喻》（1980 年）提供了一个中心例子。战争可以作为辩论的“结构隐喻”。
 
 > 虽然没有实际的战斗，但存在一场言语上的战斗，而论证的结构——进攻、防守、反击等——反映了这一点。 (1980: 4)
 
@@ -30,7 +30,7 @@
 
 莫尔顿（1983）观察到，在辩论实践中优先考虑攻击性，并将攻击性与某些男性形式联系起来是有问题的。如果人们认为成功需要攻击性，那么讨论者必须显得具有攻击性，才能显得在辩论中胜任。这种假设不仅可能是错误的，而且可能对女性造成明显的不利。将攻击性视为男性的一种自然品质的文化，鼓励并使男性在争辩模式中处于有利地位。当成功需要攻击性时，以其他风格提出的理由交换，包括那些被视为女性的风格，将无法达到要求；甚至可能不会被注意到。同时，一个女性仅仅通过表达自己的观点或以其他方式展示能力就可能显得具有攻击性。在许多情境中，她可能会因为行为不当而显眼，即使她的行动因为她的女性社会身份而被认可（Moulton 1983: 150; Rancer & Stewart 1985; Hample et al. 2005; Kukla 2014; Olberding 2014）。
 
-莫尔顿(Moulton)指出了欧美文化中哲学方法在辩论和推理方面呈现出明显的对抗性动态，反映了激进的期望。她对学科和论证模式的关注得到了许多女性主义哲学家的共鸣（Ayim 1988; Burrow 2010; Gilbert 1994, 1997; Hundleby 2010, 2013b, Rooney 2003, 2010），以及一些非特定女性主义者（Cohen 1995）。玛丽安·艾姆(Maryann Ayim)观察到，一种敌意文化可以通过用于描述哲学辩论的军事化、暴力化、征服性和控制性语言来体现，尤其是辩论即战争的隐喻。
+莫尔顿(Moulton)指出了欧美文化中哲学方法在辩论和推理方面呈现出明显的对抗性动态，反映了激进的期望。她对学科和论证模式的关注得到了许多女性主义哲学家的共鸣（Ayim 1988; Burrow 2010; Gilbert 1994, 1997; Hundleby 2010, 2013b, Rooney 2003, 2010），以及一些非特定女性主义者（Cohen 1995）。玛丽安 · 艾姆(Maryann Ayim)观察到，一种敌意文化可以通过用于描述哲学辩论的军事化、暴力化、征服性和控制性语言来体现，尤其是辩论即战争的隐喻。
 
 > 哲学家倾向于重视他们的“敏锐”学生，他们可能会公开赞扬他们的“深刻”见解。偶尔他们会发现具有“敏锐”智慧的学生，也许有一两个像“钢夹子”一样的头脑。哲学家认为这样的学生很重要：他们需要“坚定”的对手，可以在课堂上“招架”，这样他们就可以向其他人展示哲学论证的“攻击”是什么意思。然而，这种“智力较量”有些风险，一个“战士”必须始终注意“占上风”，“赢得否定”，“避免自食其果”。如果你发现自己在讲座结束时时间紧迫，被迫“走投无路”，或者有时甚至更形象地说，“进退维谷”，你可能不得不诉诸“强硬手段”，发表“尖刻”的评论，直指要害，将对手的论点“击溃”，或者“动用重炮”。如果陷入真正的困境，你甚至可能不得不“直面问题”，或通过提出“对抗性”困境来反驳这个困境。 (Ayim 1988: 188)
 
@@ -44,17 +44,17 @@
 
 否则，该学科可能会继续延续来自更大文化及其历史的性别歧视标准。
 
-丹尼尔·科恩（1995）建议，对抗性态度可能实际上并不会增强竞争和其应该服务的知识，并且强加达成一致的目标可能会使理性的对话沉默，并削弱哲学的目标进一步探究。挑战我们自己信念的信息的价值总是很难认识到的，这一困难被描述为“确认偏见”，当争论的焦点是赢而不是学习或确定真相时，这一问题可能会加剧（Makau & Marty 2013: 39–40, 167; Linker 2015）。
+丹尼尔 · 科恩（1995）建议，对抗性态度可能实际上并不会增强竞争和其应该服务的知识，并且强加达成一致的目标可能会使理性的对话沉默，并削弱哲学的目标进一步探究。挑战我们自己信念的信息的价值总是很难认识到的，这一困难被描述为“确认偏见”，当争论的焦点是赢而不是学习或确定真相时，这一问题可能会加剧（Makau & Marty 2013: 39–40, 167; Linker 2015）。
 
 ### 对手范式与哲学学科
 
-男性侵略的规范可能有助于一种特定的推理方法主导哲学学科，詹妮丝·莫尔顿在一篇早期文章中提出（1983 年）。她将通过演绎反驳——通常是通过反例——进行竞争性推理的过程描述为“对手方法”。根据莫尔顿的说法，该方法利用关于一个主题的相反观点作为彼此的测试——对立越严重越好，而且在对抗中生存赋予一个观点“客观性”。在这种方式的辩论中获胜取决于击败基于其内在缺陷的竞争立场。当主张非常具体时，击败对立立场变得更加决定性，因为具体性有助于演绎反驳。
+男性侵略的规范可能有助于一种特定的推理方法主导哲学学科，詹妮丝 · 莫尔顿在一篇早期文章中提出（1983 年）。她将通过演绎反驳——通常是通过反例——进行竞争性推理的过程描述为“对手方法”。根据莫尔顿的说法，该方法利用关于一个主题的相反观点作为彼此的测试——对立越严重越好，而且在对抗中生存赋予一个观点“客观性”。在这种方式的辩论中获胜取决于击败基于其内在缺陷的竞争立场。当主张非常具体时，击败对立立场变得更加决定性，因为具体性有助于演绎反驳。
 
-至少在莫尔顿（1983）晚期二十世纪英美或“分析”哲学的背景下，哲学可能被对抗性辩论和演绎逻辑的结合所渗透，以至于对手方法作为一种学科“范式”运作。莫尔顿认为，这种哲学的“范式”要求对他人观点进行积极的反对，就像托马斯·库恩观察到成熟科学学科要求遵循一个全面的理论、一个理想和一个实践，这三者共同构成了一种文化范式。哲学家们试图驳斥彼此主张的技术反映了卡尔·波普尔的认识论，但哲学中的对抗性推理采取了许多不同形式，至少可以追溯到亚里士多德。笛卡尔和康德将逻辑研究的规范焦点从对话转向个体认知，对抗逻辑内化了（Dutilh Novaes 2011, 2015）。然而，辩论作为一种对话形式的推理保留了对抗性动态。
+至少在莫尔顿（1983）晚期二十世纪英美或“分析”哲学的背景下，哲学可能被对抗性辩论和演绎逻辑的结合所渗透，以至于对手方法作为一种学科“范式”运作。莫尔顿认为，这种哲学的“范式”要求对他人观点进行积极的反对，就像托马斯 · 库恩观察到成熟科学学科要求遵循一个全面的理论、一个理想和一个实践，这三者共同构成了一种文化范式。哲学家们试图驳斥彼此主张的技术反映了卡尔 · 波普尔的认识论，但哲学中的对抗性推理采取了许多不同形式，至少可以追溯到亚里士多德。笛卡尔和康德将逻辑研究的规范焦点从对话转向个体认知，对抗逻辑内化了（Dutilh Novaes 2011, 2015）。然而，辩论作为一种对话形式的推理保留了对抗性动态。
 
 莫尔顿批评对手方法作为一种范式的运作方式如何通过限制讨论可能性来阻碍哲学推理的进展。孤立的主张最大程度地增加了它们的脆弱性，并使它们准备好接受对手测试，迫使支持者依赖临时修订，禁止鼓励理论演变的系统性重新考虑。例如，仅仅为了“论证”而进行的临时让步仅通过限制分歧基础来创造讨论的共同基础；因此，莫尔顿认为，它们减缓了哲学思想的发展（1983: 154–155）。
 
-莫尔顿（1983）认为，对手方法的狭窄话语严重限制了哲学与女性主义关切的相关性。她以朱迪思·贾维斯·汤姆森（Judith Jarvis Thomson）关于堕胎的道德容许性的经典哲学辩护为例，承认了很多（胎儿是一个有生命权的完全人）以显示生命权并不高于身体自主权。莫尔顿关注的是，即使汤姆森的立场支持女性主义的理论观点，但其使用的推理与怀孕情境相去甚远，对于寻求就实际堕胎问题做出决策的人们并没有提供指导。将辩论的目的视为击败一种观点限制了辩证交流的实际相关性。
+莫尔顿（1983）认为，对手方法的狭窄话语严重限制了哲学与女性主义关切的相关性。她以朱迪思 · 贾维斯 · 汤姆森（Judith Jarvis Thomson）关于堕胎的道德容许性的经典哲学辩护为例，承认了很多（胎儿是一个有生命权的完全人）以显示生命权并不高于身体自主权。莫尔顿关注的是，即使汤姆森的立场支持女性主义的理论观点，但其使用的推理与怀孕情境相去甚远，对于寻求就实际堕胎问题做出决策的人们并没有提供指导。将辩论的目的视为击败一种观点限制了辩证交流的实际相关性。
 
 莫尔顿提出了一个进一步相关的观点，即强迫狭隘的理论进行竞争可能会使哲学看起来相当荒谬。道德论证是针对利己主义者的，认识论则是提供给怀疑论者的。关于外部世界的存在和上帝的存在的争论占据了哲学家们的注意力，而忽视了我们生活的世界的特征或上帝在我们宗教中的角色。莫尔顿解释说，哲学家们很少质疑必须存在至高道德原则的假设，否则就没有意义让不同的理论竞争获得承认的至高地位（1983: 157–158）。忽视争论的其他原因甚至可能导致对哲学史上关键人物的误解。莫尔顿指出，解释者经常忽略苏格拉底争论的各种目的，因为他们假定他的唯一目标是反驳（1983: 155–157）。假设对手方法推动哲学进步的观点可能扭曲哲学家对自己学科价值的理解。
 
@@ -104,7 +104,7 @@ Ayim 认为，为了避免强化从属模式，我们必须检测并审视价值
 
 关注历史上被忽视的特定个人经验，为女性主义立场提供了特定的经验和科学价值，并标志着两种一般女性主义科学认识论，即女性主义立场理论和女性主义经验主义，相互重合的地方（Intemann 2010）。
 
-同样的女性主义认识论关注激发了迈克尔·吉尔伯特的“合并论证”模型，该模型将辩论视为涉及远不止一般性表达前提-结论复合体的沟通。在合并论证中，发言者的观点相互对立，但发言者本人并不相互对立。辩论者对他人的取向要求他们考虑与对话中的人的相互联系以及他们的决定如何影响他人。在这种协作模型中，目标不是击败想法或对手，而是找到人们之间的共同基础，这需要对相关考虑有一个广泛的视野（1994 年；1997 年）。合并论证的过程需要比仅仅找出他人论点的错误所需的信息更多。逻辑学家认识为论证的前提-结论复合体在合并辩论中被理解为代表辩者的“一组态度、信念、感受和直觉”（吉尔伯特 1994 年：96，原文强调）。辩论者的动机为解释提供了基础，这为认识那些看似不同意的人之间的共同立场提供了更多的空间。探索这一共同领域还暗示了可能制定替代解决方案的途径。通过强调不同立场涉及支持者观点和愿望的一致性，可以将分歧点与一致点区分开并减少。根据吉尔伯特的模型，“人们不是问‘我可以不同意什么？’而是问‘我必须不同意什么？’”（1994 年：109）。
+同样的女性主义认识论关注激发了迈克尔 · 吉尔伯特的“合并论证”模型，该模型将辩论视为涉及远不止一般性表达前提-结论复合体的沟通。在合并论证中，发言者的观点相互对立，但发言者本人并不相互对立。辩论者对他人的取向要求他们考虑与对话中的人的相互联系以及他们的决定如何影响他人。在这种协作模型中，目标不是击败想法或对手，而是找到人们之间的共同基础，这需要对相关考虑有一个广泛的视野（1994 年；1997 年）。合并论证的过程需要比仅仅找出他人论点的错误所需的信息更多。逻辑学家认识为论证的前提-结论复合体在合并辩论中被理解为代表辩者的“一组态度、信念、感受和直觉”（吉尔伯特 1994 年：96，原文强调）。辩论者的动机为解释提供了基础，这为认识那些看似不同意的人之间的共同立场提供了更多的空间。探索这一共同领域还暗示了可能制定替代解决方案的途径。通过强调不同立场涉及支持者观点和愿望的一致性，可以将分歧点与一致点区分开并减少。根据吉尔伯特的模型，“人们不是问‘我可以不同意什么？’而是问‘我必须不同意什么？’”（1994 年：109）。
 
 在女性主义对合作和融合式论证模型的普遍兴趣下，Tempest M. Henning (2018)警告称，这些模型可能反映了某些文化假设和普遍文化的假设。她所认定的“非对抗性女性主义论证模型”所推荐的规范，特别归因于 Ayim，可能与美国黑人女性的文化和需求相悖。更普遍地说，论证理论倾向于规定一种语调的愉快和直接性，这种语调在某些文化中意味着尊重，但在其他文化中则不然（Henning 2021; 参见第 2.4 节关于礼貌和文明）。一些女性主义哲学家也重视对抗性辩论，甚至个人认同对抗性辩论者。因此，对对抗性辩论形式的抵制似乎提供了一种某些女性关切和论证理论中被接受观点之间的有价值的共同点，但可能仅反映了某些白人女性的利益。这实际上可能有悖于其他女性群体的利益，并可能加剧种族边缘化的风险。
 
@@ -112,11 +112,11 @@ Ayim 认为，为了避免强化从属模式，我们必须检测并审视价值
 
 即使女性主义者对对抗性推理表示关注，也认识到它促进了可能推动获得知识和理解目标的批评。知识是争论服务的重要目的之一，不同风格的争论可以服务不同的目的。一些建立知识的努力可能会受益于对抗性的风格和模式，尤其是如果辩论者能够避免自动陷入敌对的“附属”侵略模式（Govier 1999）。辩论者还可能需要避免强化其他重视男性相互作用的认识文化和亚文化（Rooney 2012）。因此，女性主义者需要支持批评这种男性中心文化和实践以及开发关于这些系统如何运作的知识的辩论规范。
 
-非对抗性的推理模型，如合并论证，也可以帮助人们理解他人及其立场，尤其是相互理解的发展源自合并辩论，因为这要求找到共同点。人们之间及其信仰之间的剩余对立构成了特鲁迪·戈维尔（1999）和鲁尼（2010）认为对于论证的发展和产生知识过程中论证的作用可能是有价值的最小对抗取向。辩论者可以互相帮助实现知识，这是学术辩论的主要目标，尽管学者有时可能会被世俗的权力博弈所分散注意力。
+非对抗性的推理模型，如合并论证，也可以帮助人们理解他人及其立场，尤其是相互理解的发展源自合并辩论，因为这要求找到共同点。人们之间及其信仰之间的剩余对立构成了特鲁迪 · 戈维尔（1999）和鲁尼（2010）认为对于论证的发展和产生知识过程中论证的作用可能是有价值的最小对抗取向。辩论者可以互相帮助实现知识，这是学术辩论的主要目标，尽管学者有时可能会被世俗的权力博弈所分散注意力。
 
-由于普遍的认识目的，科恩建议那些在辩论中输掉观念的人可能会因为学到最多而受益最多（1995: 182）。人们也可能分享一个探究（Dutilh Novaes 2015: 598–599），并且认识上的好处可能会积累到社区。个体科学家共同合作通过检验彼此主张的辩论实践可能展现出一些特征，海伦·朗吉诺（1990）的科学推理模型认为支持一种客观性。朗吉诺对客观性的描述涉及到女性主义对科学理论中性别偏见的关注，并包含合作和对抗性两个要素。
+由于普遍的认识目的，科恩建议那些在辩论中输掉观念的人可能会因为学到最多而受益最多（1995: 182）。人们也可能分享一个探究（Dutilh Novaes 2015: 598–599），并且认识上的好处可能会积累到社区。个体科学家共同合作通过检验彼此主张的辩论实践可能展现出一些特征，海伦 · 朗吉诺（1990）的科学推理模型认为支持一种客观性。朗吉诺对客观性的描述涉及到女性主义对科学理论中性别偏见的关注，并包含合作和对抗性两个要素。
 
-这样的共享认识项目可能被理解为与其他推理者“辩论”而不是“反对”（Rooney 2003）。Rooney 认为，诸如“矛盾”和“相反”等常用逻辑术语可以充分描述持有不同观点的人之间的差异，而不涉及这些人之间的对立（2003；2010：222）。这种语言可能有助于推理者摆脱对对手方法作为范式的主导以及可能是无效的辩论。在英语中，“argument”和“arguing”带有负面含义可能是问题的一部分。[4]其他印欧语言中的相关词汇并不具有口头争斗的暗示（Hitchcock 2017：449）。避免英语词汇的含义是理论家通常选择使用“论证”这个术语的原因，尽管这种术语可能不够清晰或过于抽象。
+这样的共享认识项目可能被理解为与其他推理者“辩论”而不是“反对”（Rooney 2003）。Rooney 认为，诸如“矛盾”和“相反”等常用逻辑术语可以充分描述持有不同观点的人之间的差异，而不涉及这些人之间的对立（2003；2010：222）。这种语言可能有助于推理者摆脱对对手方法作为范式的主导以及可能是无效的辩论。在英语中，“argument”和“arguing”带有负面含义可能是问题的一部分。[4] 其他印欧语言中的相关词汇并不具有口头争斗的暗示（Hitchcock 2017：449）。避免英语词汇的含义是理论家通常选择使用“论证”这个术语的原因，尽管这种术语可能不够清晰或过于抽象。
 
 然而，批评必须是女性主义的一部分，特别是针对性别歧视，女性主义者可能并不比其他人更擅长避免争论的陷阱，比如其加剧冲突的倾向。女性主义辩论模式避免对人进行批评，而是将批评直接针对他们持有的观点，以更好地服务于每个人的理解。女性主义辩论模式以及女性主义者和非女性主义者使用的一些辩论方式在辩论过程中对其他辩论者表现出一种善意的关注，但他们也可能对其他人说的话进行广泛的批评和反对。
 
@@ -124,7 +124,7 @@ Ayim 认为，为了避免强化从属模式，我们必须检测并审视价值
 
 > 一个辩论者，在实际或潜在地与持不同观点的人交流时，致力于承认人们可能有不同的想法，以及他们的想法及其背后的原因是重要的。 (1999: 8, 50)
 
-女性主义批评经常涉及愤怒，这种情绪也经常与论证联系在一起。愤怒可能会对推理产生干扰甚至破坏性影响，并且可能表明有害的傲慢（Tanesini 2018）。莫伊拉·豪斯（Moira Howes）和凯瑟琳·亨德尔比（Catherine Hundleby）提出，论证可以帮助从愤怒中获得认知益处，因为论证鼓励推理者表达和阐明他们的理由（2018）。它可以揭示推理的方面，否则这些方面将保持无意识，这是道格拉斯·沃尔顿（Douglas Walton）所确定的论证过程的“助产效应”（1992）。
+女性主义批评经常涉及愤怒，这种情绪也经常与论证联系在一起。愤怒可能会对推理产生干扰甚至破坏性影响，并且可能表明有害的傲慢（Tanesini 2018）。莫伊拉 · 豪斯（Moira Howes）和凯瑟琳 · 亨德尔比（Catherine Hundleby）提出，论证可以帮助从愤怒中获得认知益处，因为论证鼓励推理者表达和阐明他们的理由（2018）。它可以揭示推理的方面，否则这些方面将保持无意识，这是道格拉斯 · 沃尔顿（Douglas Walton）所确定的论证过程的“助产效应”（1992）。
 
 女性主义论证的认识论中经常被区分为“女性化”的沟通和分享理由风格：吉尔伯特将关注演讲者和寻求一致的价值观赋予了合并论证中的基本角色，而林克则将具有合作技能和接受脆弱性的移情智者描述为具有合作技能和接受脆弱性。因此，对女性的责任感的女性伦理目标可以从追求知识中受益。不仅对于女性主义者，对于所有理性人来说，理解他人的伦理价值可以增强对论证的标准哲学处理，将其视为逻辑前提-结论复合体。一旦我们将批评与侵略性寻找错误的争论文化区分开来（米勒，1995 年），合并和智性移情的推理将补充批判性分析。
 
@@ -176,7 +176,7 @@ Nye 从 Parmenides 的“存在是什么”逻辑开始她的研究，探讨了�
 
 她追溯中世纪逻辑形式，探讨逻辑普遍适用性的主张可能如何阻止对授权这些逻辑描述的社会制度的批评。这些制度包括一般的父权制，有时由上帝支持，罗马帝国和天主教会。
 
-逻辑上对什么算作推理的限制，在奈伊的阐释中，当戈特洛布·弗雷格将逻辑从人类对话中移出，用符号语言来表达时达到了顶点。弗雷格的功能主义符号表示承诺用目的表达所有形式的真理，奈伊暗示，“思维将被统一，科学、数学和哲学中的逻辑错误将被揭示”（1990: 131）。采用弗雷格的方法，一个概念如何指涉世界变成了“客观事实：…一个人无法创造其价值”（1990: 135）。因此，使概念具有意义的机构，包括语言这一社会机构在内，不容置疑，创造了一种回溯到巴门尼德的新形式的沉默。维也纳学派用经验性输入取代弗雷格函数所依赖的概念后，周围的沉默再次被打破。奈伊指出，这种理论发展将科学置于有意义的批评之上，因此允许科学推理被威权政权利用（1990: 163–171）。
+逻辑上对什么算作推理的限制，在奈伊的阐释中，当戈特洛布 · 弗雷格将逻辑从人类对话中移出，用符号语言来表达时达到了顶点。弗雷格的功能主义符号表示承诺用目的表达所有形式的真理，奈伊暗示，“思维将被统一，科学、数学和哲学中的逻辑错误将被揭示”（1990: 131）。采用弗雷格的方法，一个概念如何指涉世界变成了“客观事实：…一个人无法创造其价值”（1990: 135）。因此，使概念具有意义的机构，包括语言这一社会机构在内，不容置疑，创造了一种回溯到巴门尼德的新形式的沉默。维也纳学派用经验性输入取代弗雷格函数所依赖的概念后，周围的沉默再次被打破。奈伊指出，这种理论发展将科学置于有意义的批评之上，因此允许科学推理被威权政权利用（1990: 163–171）。
 
 作为逻辑的替代方案，奈伊建议为女性建立信心，并借助具体的（自然的，而非人为的）“女性语言”来发展新概念。关于女性或为女性而设的话语可能提供包容、凝聚力和分享权力的方式。历史上，女性一直依赖于阅读所需的技能。
 
@@ -210,7 +210,7 @@ Nye 的试验在避免争论方面存在两种方式上的失败，这是女性�
 
 Rooney 指出，人为地将论证与叙事和修辞实践分离有助于将论证与女性化分开，并阻碍了女性主义哲学论证实践（2010; Le Doeuff 1980 [1989]）。关注修辞及其影响的研究可能被称为“修辞学研究”（通常在英语或文学系），但也可能在传播学、心理学以及女性和性别研究或论证研究等跨学科领域找到。修辞学研究关注特定观众的视角，对观众及观众可能拥有的各种利益的关注挑战了观点——尤其是在哲学学科中——即推理和论证必须是一场持续的战斗。Rooney 认为，哲学实践本身涉及修辞和叙事，通过神话、思维实验和隐喻。这些修辞实践使理论对特定观众更具吸引力。哲学家通常将理性描绘为与女性力量对抗，这“主要对男性在性别主义或厌女文化环境中有文化认同的情境中的男性有意义”（2010: 227）。
 
-二十世纪的论证理论由沙音·佩尔尔曼（Chaim Perelman）和露西·奥尔布雷赫茨-提特卡（Lucie Olbrechts-Tyteca）（1958 [1969]）重新唤起了关于演讲者、听众、他们的目的和社会背景的修辞研究。佩尔尔曼独自撰写，主张学者们在论证时不应诉诸“理性”作为标准，而应考虑特定社区标准下的“理性”人（1977 [1982]）。
+二十世纪的论证理论由沙音 · 佩尔尔曼（Chaim Perelman）和露西 · 奥尔布雷赫茨-提特卡（Lucie Olbrechts-Tyteca）（1958 [1969]）重新唤起了关于演讲者、听众、他们的目的和社会背景的修辞研究。佩尔尔曼独自撰写，主张学者们在论证时不应诉诸“理性”作为标准，而应考虑特定社区标准下的“理性”人（1977 [1982]）。
 
 女性主义论证学通常将说服视为论证的目标。一些女性主义者对这一假设持有异议。担心说服可能本质上是一种一个人对另一个人的支配甚至暴力行为（Gearhart 1979），导致女性主义修辞学家发展出“邀请性修辞”的替代方案，其目标是理解论证的目的（Foss & Griffin 1995; Bone et al. 2008）。这种方法 resonates with 修辞学的亚里士多德历史，Christopher Tindale 观察到，这并不涉及一些女性主义者认为暴力的改变他人的意图，因为亚里士多德将改变看作是一个内在过程。根据 Tindale 的“修辞论证”模型，
 
@@ -224,13 +224,13 @@ Linker 认为，跨越权力差异的推理可以通过演讲者采用“智识�
 
 ## 4. 可信度与论证不公
 
-Speakers 和他们的证词所获得的信誉影响了辩论过程，并可能遵循性别和其他压迫轴线的社会类别（Govier 1993）。Miranda Fricker（2007）描述了证词不公正的案例，这是认识不公正的一种形式，并确定了当听众基于说话者的社会身份给予降低的信誉或认识权威时。Patrick Bondy（2010）将类似的“辩论不公正”定义为在人们错误评估辩论者的信誉时对辩论过程造成的相关伤害。我们可以通过使用社会刻板印象来评估辩论者的信誉而低估或高估辩论者的信誉（2010）。Bondy 解释说，过高估计和低估都可能是通过社会刻板印象来看待证人而导致的，通常情况下男性的信誉会被高估，而女性的信誉会被低估。此外，来自与我们不同社会身份的人的证词可能很难被接受，仅仅因为他们的经历与我们自己的经历以及我们认同的经历相对立。当被视为谬误时，这个第二个问题被称为“地方主义”（Kahane＆Cavender 2001），有时被归因于内群偏见的心理学（Brewer 1979; Rudman＆Goodman 2004）。无论是由于刻板印象还是内群偏见，被削弱作为讨论参与者的地位都构成了克里斯托弗·胡克韦（2010）所描述的“参与者不公正”的认识不公正。
+Speakers 和他们的证词所获得的信誉影响了辩论过程，并可能遵循性别和其他压迫轴线的社会类别（Govier 1993）。Miranda Fricker（2007）描述了证词不公正的案例，这是认识不公正的一种形式，并确定了当听众基于说话者的社会身份给予降低的信誉或认识权威时。Patrick Bondy（2010）将类似的“辩论不公正”定义为在人们错误评估辩论者的信誉时对辩论过程造成的相关伤害。我们可以通过使用社会刻板印象来评估辩论者的信誉而低估或高估辩论者的信誉（2010）。Bondy 解释说，过高估计和低估都可能是通过社会刻板印象来看待证人而导致的，通常情况下男性的信誉会被高估，而女性的信誉会被低估。此外，来自与我们不同社会身份的人的证词可能很难被接受，仅仅因为他们的经历与我们自己的经历以及我们认同的经历相对立。当被视为谬误时，这个第二个问题被称为“地方主义”（Kahane＆Cavender 2001），有时被归因于内群偏见的心理学（Brewer 1979; Rudman＆Goodman 2004）。无论是由于刻板印象还是内群偏见，被削弱作为讨论参与者的地位都构成了克里斯托弗 · 胡克韦（2010）所描述的“参与者不公正”的认识不公正。
 
 邦迪认为，一个被低估的证人至少会失去与他人进行批判性互动的一定能力。这种能力可能会逐渐恶化，或者这个人可能会内化其减弱的形式。低估证人会削弱辩论过程的理性，导致观众倾向于失去潜在有价值的信息和洞察力。另一方面，一个被高估的证人也可能无法从他人那里获得有价值的信息，通过阻止更好的推理线索的成功，使辩论交流偏离轨道。在特定讨论之后，被高估的人可能被视为不容置疑，因此失去（至少偶尔）参与辩论论证的好处。相比之下，弗里克的原始见解关于证言不公正的概念仅考虑了当他们的证言被低估时对知识者的有害影响，并且她认为认知不公正并不是由于高估可信度而产生的。
 
 辩论不公正的解决方案可能只是让听众注意以辩论者的方式对待。这样可以避免将人们视为群体成员，这种做法使推理者容易受到刻板印象的影响（Govier 1993, 1999）。然而，有时人们的社会身份与他们所说的话的可信度有关，例如，当涉及到他们个人的歧视经历时。此外，社会刻板印象会在我们的思维中无意识地产生影响，这种影响被称为“内隐偏见”。这种偏见不同于内部偏见，但与之并存，有时会加强它，有时会与之冲突。结果，女性经常对其他女性（甚至对自己）持有偏见，就像男性一样，有色人种可能对自己的族裔持有无意识的偏见。当这种偏见尽管有意识的相反信念而持续存在时，心理学家将其描述为“回避性偏见”（Greenwald & Banaji 1995; Jost, Banaji, & Nosek 2004; Kay & Zanna 2009）。
 
-隐性社会偏见的作用类似于其他认知偏见，比如那些鼓励我们从小样本和个人经验中概括的偏见，可能影响我们在推理和论证中的许多良好意图。在这些偏见削弱我们管理自身信心的能力时，它们会挫败本应抵消对抗倾向和动力的智识谦卑美德，当人们进行论证时（Kidd 2016; Aberdein 2016）。伊恩·詹姆斯·基德考虑了论证如何培养谦卑，并建议理想情况下，论证可以促进谦卑。
+隐性社会偏见的作用类似于其他认知偏见，比如那些鼓励我们从小样本和个人经验中概括的偏见，可能影响我们在推理和论证中的许多良好意图。在这些偏见削弱我们管理自身信心的能力时，它们会挫败本应抵消对抗倾向和动力的智识谦卑美德，当人们进行论证时（Kidd 2016; Aberdein 2016）。伊恩 · 詹姆斯 · 基德考虑了论证如何培养谦卑，并建议理想情况下，论证可以促进谦卑。
 
 > 也是通往其他智识和伦理善的途径，如真理、知识和启蒙，正如古代哲学家所坚持的。(2016: 399)
 
@@ -254,11 +254,11 @@ Linker 建议我们将认识特权视为一种关于论证的专业知识形式�
 
 ## 5. 论证评估的谬误方法
 
-论证理论在将谬论作为一个操作概念来识别论证问题方面有着悠久的传统。被识别为谬论的缺陷类型源自哲学史上不同的时期，正如查尔斯·汉布林（1970）首次认识到的那样，对论证评估的谬论方法往往缺乏关于何为谬论的共识。此外，许多理论家发现“谬论”既不适用作为一个分析范畴（Massey，1995），也不适用作为一个教学工具（Hitchcock，1995），然而学术上的争议并没有阻止人们常规地使用谬论来评估论证和教授推理。女性主义者与其他哲学家对谬论持有矛盾的态度，他们提出了自己的批评和发展，但在谬论的对抗性质方面出现了特定的争议。
+论证理论在将谬论作为一个操作概念来识别论证问题方面有着悠久的传统。被识别为谬论的缺陷类型源自哲学史上不同的时期，正如查尔斯 · 汉布林（1970）首次认识到的那样，对论证评估的谬论方法往往缺乏关于何为谬论的共识。此外，许多理论家发现“谬论”既不适用作为一个分析范畴（Massey，1995），也不适用作为一个教学工具（Hitchcock，1995），然而学术上的争议并没有阻止人们常规地使用谬论来评估论证和教授推理。女性主义者与其他哲学家对谬论持有矛盾的态度，他们提出了自己的批评和发展，但在谬论的对抗性质方面出现了特定的争议。
 
 一些女性主义者指责传统谬误的不足，无法解决女性在论证交流中面临的问题（Al Tamimi 2011），还有一些人指出一些哲学家使用谬误标签来否定和沉默女性哲学家。特别是，当女性哲学家运用关于哲学史的论证时，他们被指控犯有基因谬误（例如，Levin 1988）。这种谬误是由于认为一个主张或理论的重要性取决于其起源和历史——其起源，从而在不关注其当前含义和背景的情况下对该观点进行驳斥。女性主义哲学家考虑到，大多数理论，包括许多哲学理论，是由男性发展的这一事实可能会削弱将这些理论应用于女性的正当性。在这样做的过程中，女性主义者还关注这些理论目前的运作方式。
 
-一些哲学家难以认识到女性主义历史批判对哲学理论的复杂性，可能首先是因为女性主义使用了一些被发展出“遗传谬误”这一范畴的哲学家所针对的理论。玛格丽特·克劳奇解释说，遗传谬误的概念仅在 20 世纪初由一些分析传统中的哲学家明确发展，目的是贬低马克思主义和弗洛伊德学派的科学地位。考虑到来自欧洲大陆传统的马克思主义和弗洛伊德学派的理论影响了大量女性主义理论，克劳奇认为女性主义分析乍看之下似乎犯了遗传谬误并不奇怪（1991；1993）。
+一些哲学家难以认识到女性主义历史批判对哲学理论的复杂性，可能首先是因为女性主义使用了一些被发展出“遗传谬误”这一范畴的哲学家所针对的理论。玛格丽特 · 克劳奇解释说，遗传谬误的概念仅在 20 世纪初由一些分析传统中的哲学家明确发展，目的是贬低马克思主义和弗洛伊德学派的科学地位。考虑到来自欧洲大陆传统的马克思主义和弗洛伊德学派的理论影响了大量女性主义理论，克劳奇认为女性主义分析乍看之下似乎犯了遗传谬误并不奇怪（1991；1993）。
 
 此外，克劳奇（Crouch）认为，将“遗传谬误”这一标签用于批评哲学学科中历史上男性化的观点来源的女性主义批评，依赖于对什么构成谬误的误解，这一点在一个合理的共识已经形成的时候：并非每一种与谬误标签相关的推理模式——在这里是遗传诉求——都构成该谬误；可能存在例外情况，甚至有一些高度合理的实践采用了相同的模式。因此，一些对个人特征的诉求是相关的，并不构成人身攻击谬误，一些对权威的诉求是完全合理的，并不是从属威望谬误的案例（沃尔顿，1995）。关于遗传谬误的学术研究同样认识到，一个理论的历史发展方式只有在现在支持它的推理的价值时才会受到影响。特别是，克劳奇解释说，当证词是其唯一支持时，或者当一个主张涉及演讲者作为主题时，以及每当信息来源具有支持陈述真实性或虚假性的客观联系时，主张的起源会影响其理由（1991；1993）。
 
@@ -278,9 +278,9 @@ Linker 建议我们将认识特权视为一种关于论证的专业知识形式�
 
 Hundleby 认为，哲学系提供的批判性思维课程目前往往会强化学科偏见，因为它们援引了一种缺乏监督和评估的权威（Hanrahan & Antony 2005）。教科书呈现谬误的典型方式表现出对当前非正式逻辑学术的无知，而这些学术将提供适当的专业知识来源。很少有学者撰写的教科书中包含有关论证或逻辑的文章，而这些由非专家撰写的教科书最有可能展现出 Moulton（1983）所描述的对手方法。对该方法的依赖的不反思性质表明它在哲学中仍然具有权威性，同时也是“范式性的”（Hundleby 2010）。
 
-吉尔伯特（Gilbert 1994: 111）认为，批判性思维教育应肯定一系列不涉及传统逻辑的考虑。当代哲学理论倾向于将论证视为前提-结论复合体，仅仅作为生成它们的话语的“产物”（温泽尔（Wenzel 1980 [1992]）），而不考虑导致它们产生的过程。对前提-结论复合体的关注掩盖了与女性主义目标防止伤害相关的因素（朗（Lang 2010）），哲学中缺乏适当的“修辞空间”或概念框架阻碍了人们对妇女面临问题的教育（科德（Code 1995））。标准的欧美哲学实践——对抗范式或批判-逻辑模型——忽略了关于争论的重要方面，这些方面表明了关于争辩者社会身份的女性主义主张的重要性和说服力。争论具有见证性维度，正如奥德里·雅普（Audrey Yap）所解释的那样（2013；2015）。意识到推理和哲学论证的情境方面有助于欣赏女性主义观点。它还为更严谨的分析和更彻底的批判性思维提供了基础。
+吉尔伯特（Gilbert 1994: 111）认为，批判性思维教育应肯定一系列不涉及传统逻辑的考虑。当代哲学理论倾向于将论证视为前提-结论复合体，仅仅作为生成它们的话语的“产物”（温泽尔（Wenzel 1980 [1992]）），而不考虑导致它们产生的过程。对前提-结论复合体的关注掩盖了与女性主义目标防止伤害相关的因素（朗（Lang 2010）），哲学中缺乏适当的“修辞空间”或概念框架阻碍了人们对妇女面临问题的教育（科德（Code 1995））。标准的欧美哲学实践——对抗范式或批判-逻辑模型——忽略了关于争论的重要方面，这些方面表明了关于争辩者社会身份的女性主义主张的重要性和说服力。争论具有见证性维度，正如奥德里 · 雅普（Audrey Yap）所解释的那样（2013；2015）。意识到推理和哲学论证的情境方面有助于欣赏女性主义观点。它还为更严谨的分析和更彻底的批判性思维提供了基础。
 
-Linker (2015)反其道而行之，不同于未能反映论证学术的教科书的大趋势，而是遵循了一小部分由专家作者编写的教科书的传统，这些教科书也推动了关于论证的学术理论化（例如，Govier 1985; Johnson & Blair 1977; Makau & Marty 2001, 2013）。她的《智识共情》旨在为推理者提供理解社会不平等如何影响人们生活以及这些结构如何被维持的技能。在“智识共情”中涉及的前三项技能是：（i）理解特权的隐形性；（ii）知道社会身份是交叉的；[6]和（iii）使用合作推理模型。Linker 认为，社会身份是奎因所谓的“信念网络”的核心，也就是说，它与一个人的许多信念紧密相连；对于 Linker 来说，这涉及到他们的自尊。人们对社会身份的个人利益意味着涉及我们身份的讨论可能充满情感上的紧张。我们“把它当成个人的事”。当人们在讨论社会身份的方面时，他们经常陷入责备或内疚的情绪中。Linker 建议，通过考虑每个人在社会特权方面的个人情况的复杂性，推理者可以找到替代这种破坏性反应的方法。关注彼此观点的具体性使我们能够更好地理解彼此，并为推理者建立更具合作性和少对抗性的辩论准备（Linker 2015: 98）。
+Linker (2015)反其道而行之，不同于未能反映论证学术的教科书的大趋势，而是遵循了一小部分由专家作者编写的教科书的传统，这些教科书也推动了关于论证的学术理论化（例如，Govier 1985; Johnson & Blair 1977; Makau & Marty 2001, 2013）。她的《智识共情》旨在为推理者提供理解社会不平等如何影响人们生活以及这些结构如何被维持的技能。在“智识共情”中涉及的前三项技能是：（i）理解特权的隐形性；（ii）知道社会身份是交叉的；[6] 和（iii）使用合作推理模型。Linker 认为，社会身份是奎因所谓的“信念网络”的核心，也就是说，它与一个人的许多信念紧密相连；对于 Linker 来说，这涉及到他们的自尊。人们对社会身份的个人利益意味着涉及我们身份的讨论可能充满情感上的紧张。我们“把它当成个人的事”。当人们在讨论社会身份的方面时，他们经常陷入责备或内疚的情绪中。Linker 建议，通过考虑每个人在社会特权方面的个人情况的复杂性，推理者可以找到替代这种破坏性反应的方法。关注彼此观点的具体性使我们能够更好地理解彼此，并为推理者建立更具合作性和少对抗性的辩论准备（Linker 2015: 98）。
 
 根据林克（Linker）的观点，智识共情还要求，当遇到看似偏见或刻板印象的观点时，推理者（iv）应用一种有条件的信任原则，将持有该观点的人视为理性和出于善意。这种假设使我们更好地了解持有该观点的人真正的理由，并一般提高了听众收集和分享证据的能力（2015: 156–158）。根据林克的观点，智识共情还要求，当遇到看似偏见或刻板印象的观点时，推理者（iv）应用一种有条件的信任原则，将持有该观点的人视为理性和出于善意。这种假设使我们更好地了解持有该观点的人真正的理由，并一般提高了听众收集和分享证据的能力（2015: 156–158）。
 
@@ -300,123 +300,123 @@ Linker (2015)反其道而行之，不同于未能反映论证学术的教科书�
 * Al Tamimi, Khameiel, 2011, “A Gendered Analysis of the Role of Authority in Argumentation”, in Frank Zenker (ed.), *Argumentation: Cognition and Community: Proceedings of the 9th International Conference of the Ontario Society for the Study of Argumentation (OSSA 9)*, 8–21 May 2011, Windsor, Ontario, archive 5. [[Al Tamimi 2011 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA9/papersandcommentaries/5/)]
 * Alcoff, Linda Martin, 1993, “How is Epistemology Political?” in Roger S. Gottlieb (ed.), *Radical Philosophy: Tradition, Counter-tradition, Politics*, Philadelphia, PA: Temple University Press, pp. 65–85.
 * –––, 2013, “Philosophy’s Civil Wars”, *Proceedings and Addresses of the American Philosophical Association*, 87: 16–43.
-* Alston, Kal, 1995, “Begging the Question: Is Critical Thinking Biased?”, *Educational Theory*, 45(2): 225–233. doi:10.1111/j.1741-5446.1995.00225.x
+* Alston, Kal, 1995, “Begging the Question: Is Critical Thinking Biased?”, *Educational Theory*, 45(2): 225–233. doi: 10.1111/j.1741-5446.1995.00225.x
 * Anger, Beverley and Catherine Hundleby, 2016, “*Ad Stuprum*: The Appeal to Sex” in Bondy and Benacquista 2016: archive 104. [[Anger and Hundleby 2016 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA11/papersandcommentaries/104)]
 * Ayim, Maryann, 1988, “Violence and Domination as Metaphors in Academic Discourse”, in Trudy Govier (ed.), *Selected Issues in Logic and Communication*, Belmont, CA: Wadsworth, pp. 184–195.
-* –––, 1991, “Dominance and Affiliation: Paradigms in Conflict”, *Informal Logic*, 13(2): 79–88. doi:10.22329/il.v13i2.2557
-* –––, 1995, “Passing through the Needle’s Eye: Can a Feminist Teach Logic?”, *Argumentation*, 9(5): 801–820. doi:10.1007/BF00744759
-* Bailin, Sharon, 1995, “Is Critical Thinking Biased? Clarifications and Implications”, *Educational Theory*, 45(2): 191–197. doi:10.1111/j.1741-5446.1995.00191.x
-* Bell, Macalester, 2013, *Hard Feelings: The Moral Psychology of Contempt*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199794140.001.0001
-* Bondy, Patrick, 2010, “Argumentative Injustice”, *Informal Logic*, 30(3): 263–278. doi:10.22329/il.v30i3.3034
+* –––, 1991, “Dominance and Affiliation: Paradigms in Conflict”, *Informal Logic*, 13(2): 79–88. doi: 10.22329/il.v13i2.2557
+* –––, 1995, “Passing through the Needle’s Eye: Can a Feminist Teach Logic?”, *Argumentation*, 9(5): 801–820. doi: 10.1007/BF00744759
+* Bailin, Sharon, 1995, “Is Critical Thinking Biased? Clarifications and Implications”, *Educational Theory*, 45(2): 191–197. doi: 10.1111/j.1741-5446.1995.00191.x
+* Bell, Macalester, 2013, *Hard Feelings: The Moral Psychology of Contempt*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199794140.001.0001
+* Bondy, Patrick, 2010, “Argumentative Injustice”, *Informal Logic*, 30(3): 263–278. doi: 10.22329/il.v30i3.3034
 * Bondy, Patrick and Laura Benacquista (eds.), 2016, *Argumentation, Objectivity and Bias: Proceedings of the 11th International Conference of the Ontario Society for the Study of Argumentation (OSSA 11)*, 18–21 May 2016, Windsor, Ontario. [[Bondy and Benacquista 2016 available online](https://scholar.uwindsor.ca/ossaarchive/OSSA11/)]
-* Bone, Jennifer Emerling, Cindy L. Griffin, and T. M. Linda Scholz, 2008, “Beyond Traditional Conceptualizations of Rhetoric: Invitational Rhetoric and a Move Toward Civility”, *Western Journal of Communication*, 72(4): 434–462. doi:10.1080/10570310802446098
-* Brewer, Marilynn B., 1979, “In-Group Bias in the Minimal Intergroup Situation: A Cognitive-Motivational Analysis”, *Psychological Bulletin*, 86(2): 307–324. doi:10.1037/0033-2909.86.2.307
-* Brown, Penelope, 1976, “Women and Politeness: A New Perspective on Language and Society”, *Reviews in Anthropology*, 3(3): 240–249. doi:10.1080/00988157.1976.9977235
-* Brown, Penelope and Stephen C. Levinson, 1987, *Politeness: Some Universals in Language Usage*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511813085
-* Bruner, M. Lane, 1996, “Producing Identities: Gender Problematization and Feminist Argumentation”, *Argumentation and Advocacy*, 32(4): 185–198. doi:10.1080/00028533.1996.11977994
-* Burrow, Sylvia, 2010, “Verbal Sparring and Apologetic Points: Politeness in Gendered Argumentation Contexts”, *Informal Logic*, 30(3): 235–262. doi:10.22329/il.v30i3.3033
-* Calhoun, Cheshire, 2000, “The Virtue of Civility”, *Philosophy & Public Affairs*, 29(3): 251–275. doi:10.1111/j.1088-4963.2000.00251.x
-* Ciurria, Michelle and Khameiel Altamimi, 2014, “*Argumentum ad Verecundiam*: New Gender-Based Criteria for Appeals to Authority”, *Argumentation*, 28(4): 437–452. doi:10.1007/s10503-014-9328-0
+* Bone, Jennifer Emerling, Cindy L. Griffin, and T. M. Linda Scholz, 2008, “Beyond Traditional Conceptualizations of Rhetoric: Invitational Rhetoric and a Move Toward Civility”, *Western Journal of Communication*, 72(4): 434–462. doi: 10.1080/10570310802446098
+* Brewer, Marilynn B., 1979, “In-Group Bias in the Minimal Intergroup Situation: A Cognitive-Motivational Analysis”, *Psychological Bulletin*, 86(2): 307–324. doi: 10.1037/0033-2909.86.2.307
+* Brown, Penelope, 1976, “Women and Politeness: A New Perspective on Language and Society”, *Reviews in Anthropology*, 3(3): 240–249. doi: 10.1080/00988157.1976.9977235
+* Brown, Penelope and Stephen C. Levinson, 1987, *Politeness: Some Universals in Language Usage*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511813085
+* Bruner, M. Lane, 1996, “Producing Identities: Gender Problematization and Feminist Argumentation”, *Argumentation and Advocacy*, 32(4): 185–198. doi: 10.1080/00028533.1996.11977994
+* Burrow, Sylvia, 2010, “Verbal Sparring and Apologetic Points: Politeness in Gendered Argumentation Contexts”, *Informal Logic*, 30(3): 235–262. doi: 10.22329/il.v30i3.3033
+* Calhoun, Cheshire, 2000, “The Virtue of Civility”, *Philosophy & Public Affairs*, 29(3): 251–275. doi: 10.1111/j.1088-4963.2000.00251.x
+* Ciurria, Michelle and Khameiel Altamimi, 2014, “*Argumentum ad Verecundiam*: New Gender-Based Criteria for Appeals to Authority”, *Argumentation*, 28(4): 437–452. doi: 10.1007/s10503-014-9328-0
 * Code, Lorraine, 1991, *What Can She Know? Feminist Theory and the Construction of Knowledge*, Ithaca, NY: Cornell University Press.
-* –––, 1995, *Rhetorical Spaces: Essays on Gendered Locations*, New York: Routledge. doi:10.4324/9780203724132
-* –––, 2006, *Ecological Thinking: The Politics of Epistemic Location*, New York: Oxford University Press. doi:10.1093/0195159438.001.0001
-* Cohen, Daniel H., 1995, “Argument Is War...and War Is Hell: Philosophy, Education, and Metaphors for Argumentation”, *Informal Logic*, 17(2): 177–188. doi:10.22329/il.v17i2.2406
-* Crouch, Margaret A., 1991, “Feminist Philosophy and the Genetic Fallacy”, *Hypatia*, 6(2): 104–117. doi:10.1111/j.1527-2001.1991.tb01395.x
-* –––, 1993, “A ‘Limited’ Defense of the Genetic Fallacy”, *Metaphilosophy*, 24(3): 227–240. doi:10.1111/j.1467-9973.1993.tb00900.x
-* Dutilh Novaes, Catarina, 2011, “The Historical and Philosophical Origins of Normativism”, *Behavioral and Brain Sciences*, 34(5): 253–254. doi:10.1017/S0140525X11000124
-* –––, 2015, “A Dialogical, Multi-Agent Account of the Normativity of Logic: A Dialogical, Multi-Agent Account of the Normativity of Logic”, *Dialectica*, 69(4): 587–609. doi:10.1111/1746-8361.12118
+* –––, 1995, *Rhetorical Spaces: Essays on Gendered Locations*, New York: Routledge. doi: 10.4324/9780203724132
+* –––, 2006, *Ecological Thinking: The Politics of Epistemic Location*, New York: Oxford University Press. doi: 10.1093/0195159438.001.0001
+* Cohen, Daniel H., 1995, “Argument Is War...and War Is Hell: Philosophy, Education, and Metaphors for Argumentation”, *Informal Logic*, 17(2): 177–188. doi: 10.22329/il.v17i2.2406
+* Crouch, Margaret A., 1991, “Feminist Philosophy and the Genetic Fallacy”, *Hypatia*, 6(2): 104–117. doi: 10.1111/j.1527-2001.1991.tb01395.x
+* –––, 1993, “A ‘Limited’ Defense of the Genetic Fallacy”, *Metaphilosophy*, 24(3): 227–240. doi: 10.1111/j.1467-9973.1993.tb00900.x
+* Dutilh Novaes, Catarina, 2011, “The Historical and Philosophical Origins of Normativism”, *Behavioral and Brain Sciences*, 34(5): 253–254. doi: 10.1017/S0140525X11000124
+* –––, 2015, “A Dialogical, Multi-Agent Account of the Normativity of Logic: A Dialogical, Multi-Agent Account of the Normativity of Logic”, *Dialectica*, 69(4): 587–609. doi: 10.1111/1746-8361.12118
 * Fine, Cordelia, 2010, *Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference*, New York: W.W. Norton & Company.
-* Foss, Sonja K. and Cindy L. Griffin, 1995, “Beyond Persuasion: A Proposal for an Invitational Rhetoric”, *Communication Monographs*, 62(1): 2–18. doi:10.1080/03637759509376345
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Gearhart, Sally Miller, 1979, “The Womanization of Rhetoric”, *Women’s Studies International Quarterly*, 2(2): 195–201. doi:10.1016/S0148-0685(79)91809-8
-* Gilbert, Michael A., 1994, “Feminism, Argumentation and Coalescence”, *Informal Logic*, 16(2): 95–113. doi:10.22329/il.v16i2.2444
+* Foss, Sonja K. and Cindy L. Griffin, 1995, “Beyond Persuasion: A Proposal for an Invitational Rhetoric”, *Communication Monographs*, 62(1): 2–18. doi: 10.1080/03637759509376345
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
+* Gearhart, Sally Miller, 1979, “The Womanization of Rhetoric”, *Women’s Studies International Quarterly*, 2(2): 195–201. doi: 10.1016/S0148-0685(79)91809-8
+* Gilbert, Michael A., 1994, “Feminism, Argumentation and Coalescence”, *Informal Logic*, 16(2): 95–113. doi: 10.22329/il.v16i2.2444
 * –––, 1997, *Coalescent Argumentation*, Mahwah, NJ: Lawrence Erlbaum.
 * –––, 2007, “Informal Logic and Intersectionality”, in *Reason Reclaimed: Essays in Honour of J. Anthony Blair and Ralph H. Johnson*, Hans V. Hansen and Robert C. Pinto (eds.), Newport News, VA: Vale Press, pp. 229–241.
 * Gilligan, Carol, 1982, *In a Different Voice: Psychological Theory and Women’s Development*, Cambridge, MA: Harvard University Press.
-* Goodwin, Jean and Beth Innocenti, 2019, “The Pragmatic Force of Making an Argument”, *Topoi*, 38(4): 669–680. doi:10.1007/s11245-019-09643-8
+* Goodwin, Jean and Beth Innocenti, 2019, “The Pragmatic Force of Making an Argument”, *Topoi*, 38(4): 669–680. doi: 10.1007/s11245-019-09643-8
 * Govier, Trudy, 1985, *A Practical Study of Argument*, Belmont, CA: Wadsworth.
-* –––, 1993, “When Logic Meets Politics: Testimony, Distrust, and Rhetorical Disadvantage”, *Informal Logic*, 15(2): 93–104. doi:10.22329/il.v15i2.2476
+* –––, 1993, “When Logic Meets Politics: Testimony, Distrust, and Rhetorical Disadvantage”, *Informal Logic*, 15(2): 93–104. doi: 10.22329/il.v15i2.2476
 * –––, 1999, *The Philosophy of Argument*, Newport News, VA: Vale Press.
-* Greenwald, Anthony G. and Mahzarin R. Banaji, 1995, “Implicit Social Cognition: Attitudes, Self-Esteem, and Stereotypes”, *Psychological Review*, 102(1): 4–27. doi:10.1037/0033-295X.102.1.4
+* Greenwald, Anthony G. and Mahzarin R. Banaji, 1995, “Implicit Social Cognition: Attitudes, Self-Esteem, and Stereotypes”, *Psychological Review*, 102(1): 4–27. doi: 10.1037/0033-295X.102.1.4
 * Hamblin, Charles L., 1970, *Fallacies*, London: Methuen.
-* Hample, Dale, Marceline Thompson-Hayes, Kelly Wallenfelsz, Paul Wallenfelsz, and Christiana Knapp, 2005, “Face-to-Face Arguing Is an Emotional Experience: Triangulating Methodologies and Early Findings”, *Argumentation and Advocacy*, 42(2): 74–93. doi:10.1080/00028533.2005.11821643
-* Hanrahan, Rebecca and Louise Antony, 2005, “Because I Said So: Toward a Feminist Theory of Authority”, *Hypatia*, 20(4): 59–79. doi:10.1111/j.1527-2001.2005.tb00536.x
+* Hample, Dale, Marceline Thompson-Hayes, Kelly Wallenfelsz, Paul Wallenfelsz, and Christiana Knapp, 2005, “Face-to-Face Arguing Is an Emotional Experience: Triangulating Methodologies and Early Findings”, *Argumentation and Advocacy*, 42(2): 74–93. doi: 10.1080/00028533.2005.11821643
+* Hanrahan, Rebecca and Louise Antony, 2005, “Because I Said So: Toward a Feminist Theory of Authority”, *Hypatia*, 20(4): 59–79. doi: 10.1111/j.1527-2001.2005.tb00536.x
 * Hansen, Hans V. and Robert C. Pinto (eds.), *Fallacies: Classical and Contemporary Readings*, College Park, PA: Penn State University Press.
 * Harding, Sandra, 1991, *Whose Science? Whose Knowledge? Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
-* Harding, Sandra and Merrill B. Hintikka (eds.), 1983, *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science* (Synthese Library 161), Dordrecht: Kluwer Academic Publishers. doi:10.1007/0-306-48017-4
-* Henning, Tempest, 2018, “Bringing Wreck”, *Symposion*, 5(2): 197–211. doi:10.5840/symposion20185216
+* Harding, Sandra and Merrill B. Hintikka (eds.), 1983, *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science* (Synthese Library 161), Dordrecht: Kluwer Academic Publishers. doi: 10.1007/0-306-48017-4
+* Henning, Tempest, 2018, “Bringing Wreck”, *Symposion*, 5(2): 197–211. doi: 10.5840/symposion20185216
 * –––, 2021, “‘I Said What I Said’: Black Women and Argumentative Politeness Norms”, *Informal Logic* 41(1).
 * Hitchcock, David, 1995, “Do the Fallacies Have a Place in the Teaching of Reasoning Skills or Critical Thinking?” in Hansen and Pinto 1995: 319–227.
-* –––, 2017, “Informal Logic and the Concept of Argument”, in *On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking*, by David Hitchcock, (Argumentation Library 30), Cham: Springer International Publishing, pp. 447–475. doi:10.1007/978-3-319-53562-3_29
-* Hookway, Christopher, 2010, “Some Varieties of Epistemic Injustice: Reflections on Fricker”, *Episteme*, 7(2): 151–163. doi:10.3366/epi.2010.0005
-* Howes, Moira and Catherine Hundleby, 2018, “The Epistemology of Anger in Argumentation”, *Symposion*, 5(2): 229–254. doi:10.5840/symposion20185218
-* Hundleby, Catherine, 2010, “The Authority of the Fallacies Approach to Argument Evaluation”, *Informal Logic*, 30(3): 279–308. doi:10.22329/il.v30i3.3035
-* –––, 2013a, “Aggression, Politeness, and Abstract Adversaries”, *Informal Logic*, 33(2): 238–262. doi:10.22329/il.v33i2.3895
+* –––, 2017, “Informal Logic and the Concept of Argument”, in *On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking*, by David Hitchcock, (Argumentation Library 30), Cham: Springer International Publishing, pp. 447–475. doi: 10.1007/978-3-319-53562-3_29
+* Hookway, Christopher, 2010, “Some Varieties of Epistemic Injustice: Reflections on Fricker”, *Episteme*, 7(2): 151–163. doi: 10.3366/epi.2010.0005
+* Howes, Moira and Catherine Hundleby, 2018, “The Epistemology of Anger in Argumentation”, *Symposion*, 5(2): 229–254. doi: 10.5840/symposion20185218
+* Hundleby, Catherine, 2010, “The Authority of the Fallacies Approach to Argument Evaluation”, *Informal Logic*, 30(3): 279–308. doi: 10.22329/il.v30i3.3035
+* –––, 2013a, “Aggression, Politeness, and Abstract Adversaries”, *Informal Logic*, 33(2): 238–262. doi: 10.22329/il.v33i2.3895
 * –––, 2013b, “Critical Thinking and the Adversary Paradigm”, *Newsletter on Feminism and Philosophy* (The American Philosophical Association), 13(1): 2–8. [[Hundleby 2013b available online](https://www.apaonline.org/resource/collection/D03EBDAB-82D7-4B28-B897-C050FDC1ACB4/FeminismV13n1.pdf)]
 * –––, 2016, “The Status Quo Fallacy: Implicit Bias and Fallacies of Argumentation”, in *Implicit Bias and Philosophy: Volume 1, Metaphysics and Epistemology*, Michael Brownstein and Jennifer Saul (eds.), Oxford: Oxford University Press, pp. 238–264.
-* Intemann, Kristen, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, *Hypatia*, 25(4): 778–796. doi:10.1111/j.1527-2001.2010.01138.x
+* Intemann, Kristen, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, *Hypatia*, 25(4): 778–796. doi: 10.1111/j.1527-2001.2010.01138.x
 * Janack, Marianne and John Charles Adams, 1999, “Feminist Epistemologies, Rhetorical Traditions and the Ad Hominem”, in Christine M. Sutherland and Rebecca Sutcliffe (eds.), *The Changing Tradition: Women in the History of Rhetoric*, Calgary: University of Calgary Press, pp. 213–224.
-* Johnson, Ralph H., 1996 [2014], *The Rise of Informal Logic: Essays on Argumentation, Critical Thinking, Reasoning, and Politics*, four chapters co-authored by J. Anthony Blair, edited by John Hoaglund, Newport, VA: Vale Press. Reprint, 2014, with minor typographical changes, (Windsor Studies in Argumentation, 2), Windsor, Ontario: University of Windsor Digital Press. doi:10.22329/wsia.02.2014
+* Johnson, Ralph H., 1996 [2014], *The Rise of Informal Logic: Essays on Argumentation, Critical Thinking, Reasoning, and Politics*, four chapters co-authored by J. Anthony Blair, edited by John Hoaglund, Newport, VA: Vale Press. Reprint, 2014, with minor typographical changes, (Windsor Studies in Argumentation, 2), Windsor, Ontario: University of Windsor Digital Press. doi: 10.22329/wsia.02.2014
 * Johnson, Ralph H. and J. Anthony Blair, 1977, *Logical Self-Defense*, Toronto: McGraw-Hill Ryerson.
-* Jost, John T., Mahzarin R. Banaji, and Brian A. Nosek, 2004, “A Decade of System Justification Theory: Accumulated Evidence of Conscious and Unconscious Bolstering of the Status Quo”, *Political Psychology*, 25(6): 881–919. doi:10.1111/j.1467-9221.2004.00402.x
+* Jost, John T., Mahzarin R. Banaji, and Brian A. Nosek, 2004, “A Decade of System Justification Theory: Accumulated Evidence of Conscious and Unconscious Bolstering of the Status Quo”, *Political Psychology*, 25(6): 881–919. doi: 10.1111/j.1467-9221.2004.00402.x
 * Kahane, Howard and Nancy Cavender, 2001, *Logic and Contemporary Rhetoric*, ninth edition, Belmont, CA: Wadsworth.
-* Kay, Aaron C. and Mark P. Zanna, 2009, “A Contextual Analysis of the System Justification Motive and Its Societal Consequences”, in *Social and Psychological Bases of Ideology and System Justification*, John T. Jost, Aaron C. Kay, and Hulda Thorisdottir (eds.), New York: Oxford University Press, pp. 158–182. doi:10.1093/acprof:oso/9780195320916.003.007
+* Kay, Aaron C. and Mark P. Zanna, 2009, “A Contextual Analysis of the System Justification Motive and Its Societal Consequences”, in *Social and Psychological Bases of Ideology and System Justification*, John T. Jost, Aaron C. Kay, and Hulda Thorisdottir (eds.), New York: Oxford University Press, pp. 158–182. doi: 10.1093/acprof: oso/9780195320916.003.007
 * Keith, William, 1993, “Review of *Words of Power: A Feminist Reading of the History of Logic*, by Andrea Nye”, *Quarterly Journal of Speech*, 79(2): 263–265.
-* Keller, Evelyn Fox and Christine R. Grontkowski, 1983, “The Mind’s Eye”, in Harding and Hintikka 2004: 207–224. doi:10.1007/0-306-48017-4_12
-* Kidd, Ian James, 2016, “Intellectual Humility, Confidence, and Argumentation”, *Topoi*, 35(2): 395–402. doi:10.1007/s11245-015-9324-5
-* Kotzee, Ben, 2010, “Poisoning the Well and Epistemic Privilege”, *Argumentation*, 24(3): 265–281. doi:10.1007/s10503-010-9181-8
-* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi:10.1111/j.1527-2001.2012.01316.x
+* Keller, Evelyn Fox and Christine R. Grontkowski, 1983, “The Mind’s Eye”, in Harding and Hintikka 2004: 207–224. doi: 10.1007/0-306-48017-4_12
+* Kidd, Ian James, 2016, “Intellectual Humility, Confidence, and Argumentation”, *Topoi*, 35(2): 395–402. doi: 10.1007/s11245-015-9324-5
+* Kotzee, Ben, 2010, “Poisoning the Well and Epistemic Privilege”, *Argumentation*, 24(3): 265–281. doi: 10.1007/s10503-010-9181-8
+* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi: 10.1111/j.1527-2001.2012.01316.x
 * Lakoff, George and Mark Johnson, 1980, *Metaphors We Live By*, Chicago: University of Chicago Press.
 * Laverty, Megan, 2009, “Civility, Tact, and the Joy of Communication”, in *Philosophy of Education 2009*, Philosophy of Education Society, pp. 228–237. [[Laverty 2009 available online](https://educationjournal.web.illinois.edu/archive/index.php/pes/article/view/2706.pdf)]
-* Lang, James C., 2010, “Feminist Epistemologies of Situated Knowledges: Implications for Rhetorical Argumentation”, *Informal Logic*, 30(3): 309–334. doi:10.22329/il.v30i3.3036
+* Lang, James C., 2010, “Feminist Epistemologies of Situated Knowledges: Implications for Rhetorical Argumentation”, *Informal Logic*, 30(3): 309–334. doi: 10.22329/il.v30i3.3036
 * Le Doeuff, Michèle, 1980 [1989], *Recherches sur l’imaginaire philosophique*, Paris: Payot. Translated as *The Philosophical Imaginary*, Colin Gordon (trans.), Stanford, CA: Stanford University Press, 1989.
 * Levin, Margarita, 1988, “Caring New World: Feminism and Science”, *The American Scholar*, 57(1): 100–106.
-* Linker, Maureen, 2011, “Do Squirrels Eat Hamburgers?: Intellectual Empathy as a Remedy for Residual Prejudice”, *Informal Logic*, 31(2): 110–138. doi:10.22329/il.v31i2.3063
-* –––, 2014, “Epistemic Privilege and Expertise in the Context of Meta-Debate”, *Argumentation*, 28(1): 67–84. doi:10.1007/s10503-013-9299-6
+* Linker, Maureen, 2011, “Do Squirrels Eat Hamburgers?: Intellectual Empathy as a Remedy for Residual Prejudice”, *Informal Logic*, 31(2): 110–138. doi: 10.22329/il.v31i2.3063
+* –––, 2014, “Epistemic Privilege and Expertise in the Context of Meta-Debate”, *Argumentation*, 28(1): 67–84. doi: 10.1007/s10503-013-9299-6
 * –––, 2015, *Intellectual Empathy: Critical Thinking for Social Justice*, Ann Arbor, MI: University of Michigan Press.
-* Lloyd, Keith, 2014, “Feminist Challenges to ‘Academic Writing’ Writ Large: Changing the Argumentative Metaphor from War to Perception to Address the Problem of Argument Culture”, *Intertexts*, 18(1): 29–46. doi:10.1353/itx.2014.0004
+* Lloyd, Keith, 2014, “Feminist Challenges to ‘Academic Writing’ Writ Large: Changing the Argumentative Metaphor from War to Perception to Address the Problem of Argument Culture”, *Intertexts*, 18(1): 29–46. doi: 10.1353/itx.2014.0004
 * Longino, Helen E., 1990, *Science as Social Knowledge*, Princeton, NJ: Princeton University Press.
-* Lozano-Reich, Nina M. and Dana L. Cloud, 2009, “The Uncivil Tongue: Invitational Rhetoric and the Problem of Inequality”, *Western Journal of Communication*, 73(2): 220–226. doi:10.1080/10570310902856105
-* Lugones, María, 1987, “Playfulness, ‘World’-Travelling, and Loving Perception”, *Hypatia*, 2(2): 3–19. doi:10.1111/j.1527-2001.1987.tb01062.x
+* Lozano-Reich, Nina M. and Dana L. Cloud, 2009, “The Uncivil Tongue: Invitational Rhetoric and the Problem of Inequality”, *Western Journal of Communication*, 73(2): 220–226. doi: 10.1080/10570310902856105
+* Lugones, María, 1987, “Playfulness, ‘World’-Travelling, and Loving Perception”, *Hypatia*, 2(2): 3–19. doi: 10.1111/j.1527-2001.1987.tb01062.x
 * Makau, Josina M. and Debian L. Marty, 2001, *Cooperative Argumentation: A Model for Deliberative Community*, Long Grove, IL: Waveland Press.
 * –––, 2013, *Dialogue and Deliberation*, Long Grove, IL: Waveland Press.
 * Massey, Gerald J., 1995, “The Fallacy behind Fallacies”, in Hansen and Pinto 1995: 159–171.
 * Mayo, Cris, 2001, “Civility and its Discontents: Sexuality, Race, and the Lure of Beautiful Manners”, in *Philosophy of Education 2001*, Philosophy of Education Society, pp. 78–87. [[Mayo 2001 available online](https://educationjournal.web.illinois.edu/archive/index.php/pes/article/view/1873.pdf)]
-* Miller, Kathleen, 1995, “A Feminist Defense of the Critical-Logical Model”, *Informal Logic*, 17(3): 337–346. doi:10.22329/il.v17i3.2422
-* Mills, Charles W., 2005, “‘Ideal Theory’ as Ideology”, *Hypatia*, 20(3): 165–183. doi:10.1111/j.1527-2001.2005.tb00493.x
-* Moulton, Janice, 1983, “A Paradigm of Philosophy: The Adversary Method”, in Harding and Hintikka 1983: 149–164. doi:10.1007/0-306-48017-4_9
-* Norris, Stephen P., 1995, “Sustaining and Responding to Charges of Bias in Critical Thinking”, *Educational Theory*, 45(2): 199–211. doi:10.1111/j.1741-5446.1995.00199.x
-* Nye, Andrea, 1990, *Words of Power: A Feminist Reading of the History of Logic*, New York: Routledge. doi:10.4324/9780367854447
+* Miller, Kathleen, 1995, “A Feminist Defense of the Critical-Logical Model”, *Informal Logic*, 17(3): 337–346. doi: 10.22329/il.v17i3.2422
+* Mills, Charles W., 2005, “‘Ideal Theory’ as Ideology”, *Hypatia*, 20(3): 165–183. doi: 10.1111/j.1527-2001.2005.tb00493.x
+* Moulton, Janice, 1983, “A Paradigm of Philosophy: The Adversary Method”, in Harding and Hintikka 1983: 149–164. doi: 10.1007/0-306-48017-4_9
+* Norris, Stephen P., 1995, “Sustaining and Responding to Charges of Bias in Critical Thinking”, *Educational Theory*, 45(2): 199–211. doi: 10.1111/j.1741-5446.1995.00199.x
+* Nye, Andrea, 1990, *Words of Power: A Feminist Reading of the History of Logic*, New York: Routledge. doi: 10.4324/9780367854447
 * O’Keefe, Daniel J., 1982, “The Concepts of Argument and Arguing”, in *Advances in Argumentation Theory and Research*, J. Robert Cox and Charles Arthur Willard (eds.), Carbondale, IL: Southern Illinois University Press, pp. 3–23.
-* Olberding, Amy, 2014, “Subclinical Bias, Manners, and Moral Harm”, *Hypatia*, 29(2): 287–302. doi:10.1111/hypa.12026
-* –––, 2015, “It’s Not Them, It’s You: A Case Study Concerning the Exclusion of Non-Western Philosophy”, *Comparative Philosophy*, 6(2): 14–34. doi:10.31979/2151-6014(2015).060205
-* Orr, Deborah, 1989, “Just the Facts Ma’am: Informal Logic, Gender and Pedagogy”, *Informal Logic*, 11(1): 1–10. doi:10.22329/il.v11i1.2613
-* Ortega, Mariana, 2006, “Being Lovingly, Knowingly Ignorant: White Feminism and Women of Color”, *Hypatia*, 21(3): 56–74. doi:10.1111/j.1527-2001.2006.tb01113.x
-* Palczewski, Catherine Helen, 2016, “Feminisms and Argumentation”, in *The Wiley Blackwell Encyclopedia of Gender and Sexuality Studies*, Nancy A Naples (ed.-in-chief), Malden, MA: Wiley-Blackwell. doi:10.1002/9781118663219.wbegss030
+* Olberding, Amy, 2014, “Subclinical Bias, Manners, and Moral Harm”, *Hypatia*, 29(2): 287–302. doi: 10.1111/hypa.12026
+* –––, 2015, “It’s Not Them, It’s You: A Case Study Concerning the Exclusion of Non-Western Philosophy”, *Comparative Philosophy*, 6(2): 14–34. doi: 10.31979/2151-6014(2015).060205
+* Orr, Deborah, 1989, “Just the Facts Ma’am: Informal Logic, Gender and Pedagogy”, *Informal Logic*, 11(1): 1–10. doi: 10.22329/il.v11i1.2613
+* Ortega, Mariana, 2006, “Being Lovingly, Knowingly Ignorant: White Feminism and Women of Color”, *Hypatia*, 21(3): 56–74. doi: 10.1111/j.1527-2001.2006.tb01113.x
+* Palczewski, Catherine Helen, 2016, “Feminisms and Argumentation”, in *The Wiley Blackwell Encyclopedia of Gender and Sexuality Studies*, Nancy A Naples (ed.-in-chief), Malden, MA: Wiley-Blackwell. doi: 10.1002/9781118663219.wbegss030
 * Perelman, Chaim, 1977 [1982], *L’Empire rhétorique: rhétorique et argumentation*, Paris: J. Vrin. Translated as *The Realm of Rhetoric*, William Kluback (trans.), Notre Dame, IN: University of Notre Dame Press, 1982.
 * Perelman, Chaim and Lucie Olbrechts-Tyteca, 1958 [1969], *Traité de l’argumentation: la nouvelle rhétorique*, Paris: Presses universitaires de France. Translated as *The New Rhetoric: A Treatise on Argumentation*, John Wilkinson and Purcell Weaver (trans.), Notre Dame, IN: University of Notre Dame Press, 1969.
 * Quine, Willard van Orman, 1960, *Word and Object*, Cambridge, MA: MIT Press.
 * Quine, Willard van Orman and Joseph S. Ullian, 1970, *The Web of Belief*, New York: Random House. Second edition, 1978
 * Rancer, Andrew S. and Kathi J. Dierks-Stewart, 1985, “The Influence of Sex and Sex-role Orientation on Trait Argumentativeness”, *Journal of Personality Assessment*, 49(1): 69–70.
-* Reiheld, Alison, 2013, “Asking Too Much? Civility vs. Pluralism”, *Philosophical Topics*, 41(2): 59–78. doi:10.5840/philtopics201341215
+* Reiheld, Alison, 2013, “Asking Too Much? Civility vs. Pluralism”, *Philosophical Topics*, 41(2): 59–78. doi: 10.5840/philtopics201341215
 * Rooney, Phyllis, 2001, “Gender and Moral Reasoning Revisited: Reengaging Feminist Psychology”, in *Feminists Doing Ethics*, Peggy DesAutels and Joanne Waugh (eds), Lanham, MD: Rowman & Littlefield, pp. 153–166.
 * –––, 2003, “Feminism and Argumentation: A Response to Govier”, in J. Anthony Blair, Ralph H. Johnson, Hans V. Hansen, and Christopher W. Tindale (eds.), *Informal Logic at 25: Proceedings of the 5th International Conference of the Ontario Society for the Study of Argumentation (OSSA 5)*, pp. 14–17 May 2003, archive 77. [[Rooney 2003 available online](http://scholar.uwindsor.ca/ossaarchive/OSSA5/papersandcommentaries/77/)]
-* –––, 2010, “Philosophy, Adversarial Argumentation, and Embattled Reason”, *Informal Logic*, 30(3): 203–234. doi:10.22329/il.v30i3.3032
-* –––, 2012, “When Philosophical Argumentation Impedes Social and Political Progress: When Philosophical Argumentation Impedes Progress”, *Journal of Social Philosophy*, 43(3): 317–333. doi:10.1111/j.1467-9833.2012.01568.x
+* –––, 2010, “Philosophy, Adversarial Argumentation, and Embattled Reason”, *Informal Logic*, 30(3): 203–234. doi: 10.22329/il.v30i3.3032
+* –––, 2012, “When Philosophical Argumentation Impedes Social and Political Progress: When Philosophical Argumentation Impedes Progress”, *Journal of Social Philosophy*, 43(3): 317–333. doi: 10.1111/j.1467-9833.2012.01568.x
 * Rowland, Robert C., 1995, “In Defense of Rational Argument: A Pragmatic Justification of Argumentation Theory and Response to Postmodern Critique”, *Philosophy and Rhetoric*, 28(4): 350–364.
-* Rudman, Laurie A. and Stephanie A. Goodwin, 2004, “Gender Differences in Automatic In-Group Bias: Why Do Women Like Women More Than Men Like Men?”, *Journal of Personality and Social Psychology*, 87(4): 494–509. doi:10.1037/0022-3514.87.4.494
-* Schiffrin, Deborah, 1984, “Jewish Argument as Sociability”, *Language in Society*, 13(3): 311–335. doi:10.1017/S0047404500010526
-* Tanesini, Alessandra, 2018, “Arrogance, Anger and Debate”, *Symposion*, 5(2): 213–227. doi:10.5840/symposion20185217
+* Rudman, Laurie A. and Stephanie A. Goodwin, 2004, “Gender Differences in Automatic In-Group Bias: Why Do Women Like Women More Than Men Like Men?”, *Journal of Personality and Social Psychology*, 87(4): 494–509. doi: 10.1037/0022-3514.87.4.494
+* Schiffrin, Deborah, 1984, “Jewish Argument as Sociability”, *Language in Society*, 13(3): 311–335. doi: 10.1017/S0047404500010526
+* Tanesini, Alessandra, 2018, “Arrogance, Anger and Debate”, *Symposion*, 5(2): 213–227. doi: 10.5840/symposion20185217
 * Tindale, Christopher W., 1999, *Acts of Arguing: A Rhetorical Model of Argument*, Albany, NY: State University of New York Press.
-* –––, 2007, “Constrained Maneuvering: Rhetoric as a Rational Enterprise”, *Argumentation*, 20(4): 447–466. doi:10.1007/s10503-007-9026-2
-* Verbiest, Agnes, 1995, “Woman and the Gift of Reason”, *Argumentation*, 9(5): 821–836. doi:10.1007/BF00744760
+* –––, 2007, “Constrained Maneuvering: Rhetoric as a Rational Enterprise”, *Argumentation*, 20(4): 447–466. doi: 10.1007/s10503-007-9026-2
+* Verbiest, Agnes, 1995, “Woman and the Gift of Reason”, *Argumentation*, 9(5): 821–836. doi: 10.1007/BF00744760
 * Walton, Douglas N., 1992, *The Place of Emotion in Argument*, College Park, PA: The Pennsylvania State University Press.
 * –––, 1995, *A Pragmatic Theory of Fallacy*, Tuscaloosa, AL: University of Alabama Press.
-* Warren, Karen J., 1988, “Critical Thinking and Feminism”, *Informal Logic*, 10(1): 31–44. doi:10.22329/il.v10i1.2636
-* Weiner, Joan, 1994, “Review: *Words of Power. A Feminist Reading of the History of Logic* by Andrea Nye”, *The Journal of Symbolic Logic*, 59(2): 678–681. doi:10.2307/2275421
+* Warren, Karen J., 1988, “Critical Thinking and Feminism”, *Informal Logic*, 10(1): 31–44. doi: 10.22329/il.v10i1.2636
+* Weiner, Joan, 1994, “Review: *Words of Power. A Feminist Reading of the History of Logic* by Andrea Nye”, *The Journal of Symbolic Logic*, 59(2): 678–681. doi: 10.2307/2275421
 * Wenzel, Joseph W., 1980 [1992], “Perspectives on Argument”, *Proceedings of the Summer Conference on Argumentation (Alta, Utah, July 26–29, 1979)*, Jack Rhodes and Sara Newell (eds.), Annandale, VA: Speech Communication Association, pp. 112–133. Reprinted in *Reading in Argumentation*, William L. Benoit, Dale Hample, and Pamela Benoit (eds.), Berlin: Walter de Gruyter, 1992, pp. 121–143.
-* Yap, Audrey, 2013, “Ad Hominem Fallacies, Bias, and Testimony”, *Argumentation*, 27(2): 97–109. doi:10.1007/s10503-011-9260-5
-* –––, 2015, “Ad Hominem Fallacies and Epistemic Credibility”, in *Argument Types and Fallacies in Legal Argumentation*, Thomas Bustamante and Christian Dahlman (eds.), (Law and Philosophy Library 112), Cham: Springer International Publishing, pp. 19–35. doi:10.1007/978-3-319-16148-8_2
+* Yap, Audrey, 2013, “Ad Hominem Fallacies, Bias, and Testimony”, *Argumentation*, 27(2): 97–109. doi: 10.1007/s10503-011-9260-5
+* –––, 2015, “Ad Hominem Fallacies and Epistemic Credibility”, in *Argument Types and Fallacies in Legal Argumentation*, Thomas Bustamante and Christian Dahlman (eds.), (Law and Philosophy Library 112), Cham: Springer International Publishing, pp. 19–35. doi: 10.1007/978-3-319-16148-8_2
 
 ## Academic Tools
 

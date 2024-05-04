@@ -22,7 +22,7 @@
 
 康德熟悉我们刚才看到笛卡尔提出的那种论点（主要是从莱布尼茨和门德尔松的类似推理中），但他并不感到震惊。对于康德来说，意识的统一性并没有告诉我们关于心灵是什么样的实体，包括它们是否由物质构成（1781 年，《纯粹理性的谬论》章节）。他认为，通过一组组件共同作用实现统一意识的成就与通过某种简单的东西实现并不更神秘，即没有组件（1781 年：A352）。
 
-莱布尼茨（Leibniz）、休谟（Hume）、里德（Reid）、布伦塔诺（Brentano）和詹姆斯（James）对于意识的统一性持有各种立场。简而言之，对于莱布尼茨（参见莱布尼茨心灵哲学条目），统一的意识和他认为必须具备的不可分割性似乎是他所设想的单子体（monad）的模型，这是构成一切现实的基本单元。对于休谟（1739 年），情况更为复杂。根据他的原子论，应该不存在统一的意识，只有“一堆不同的感知”（[1739] 1962: 252）。然而，在一个著名的附录中，他表示有一些东西与他的原子论不一致（第 636 页）。他从未告诉我们这是什么，但可能是意识强烈地表现出超越一堆独立“感知”的特质。里德（1785 年），几乎与康德同时代，广泛运用了意识的统一性，其中包括运用笛卡尔从统一到不可分割性的论证。布伦塔诺（1874 年）认为一个人在某一时刻的所有意识状态将且可能必须相互统一。（他将这一观点与另一个强有力的命题相结合，即所有心理状态都是有意识的。）最后，在 19 世纪末，詹姆斯详细阐述了意识的同步（或“在某一时刻”）统一性。我们将在后面讨论他的观点（另请参阅大卫·休谟、托马斯·里德、弗朗茨·布伦塔诺和威廉·詹姆斯的条目）。
+莱布尼茨（Leibniz）、休谟（Hume）、里德（Reid）、布伦塔诺（Brentano）和詹姆斯（James）对于意识的统一性持有各种立场。简而言之，对于莱布尼茨（参见莱布尼茨心灵哲学条目），统一的意识和他认为必须具备的不可分割性似乎是他所设想的单子体（monad）的模型，这是构成一切现实的基本单元。对于休谟（1739 年），情况更为复杂。根据他的原子论，应该不存在统一的意识，只有“一堆不同的感知”（[1739] 1962: 252）。然而，在一个著名的附录中，他表示有一些东西与他的原子论不一致（第 636 页）。他从未告诉我们这是什么，但可能是意识强烈地表现出超越一堆独立“感知”的特质。里德（1785 年），几乎与康德同时代，广泛运用了意识的统一性，其中包括运用笛卡尔从统一到不可分割性的论证。布伦塔诺（1874 年）认为一个人在某一时刻的所有意识状态将且可能必须相互统一。（他将这一观点与另一个强有力的命题相结合，即所有心理状态都是有意识的。）最后，在 19 世纪末，詹姆斯详细阐述了意识的同步（或“在某一时刻”）统一性。我们将在后面讨论他的观点（另请参阅大卫 · 休谟、托马斯 · 里德、弗朗茨 · 布伦塔诺和威廉 · 詹姆斯的条目）。
 
 在 20 世纪初，意识的统一性几乎从研究议程中消失了。哲学中的逻辑原子论和心理学中的行为主义对这个概念几乎没有什么可说的。逻辑原子论关注认知的原子元素（感觉数据、简单的命题判断、协议句等），而不是这些元素如何联系在一起形成一个心灵。行为主义主张我们应该关注行为，认为心灵要么是一个神话，要么至少是我们在研究人类的科学中无法也不需要研究的东西。
 
@@ -36,13 +36,13 @@
 
 意识的统一性的特征是什么？请注意，这个问题可以在是否存在统一意识的情况下提出和回答。事实上，我们需要知道意识的统一性是什么样子，甚至才能探讨其存在的问题。（为了便于阐述，我们将假设存在统一意识，尽管这个问题直到下一节仍然是开放的。）
 
-然而，也应该注意到，要说关于意识的统一性的很多内容，既不是在回避问题，也不是简单地换了个说法，是很困难的，正如戴顿（2000）所强调的。即使像伊曼纽尔·康德这样伟大的主题理论家也束手无策。他观察到这种统一性“不是统一的范畴”（B131），也就是说，不仅仅是数值上的一致性，然后就不再多说。
+然而，也应该注意到，要说关于意识的统一性的很多内容，既不是在回避问题，也不是简单地换了个说法，是很困难的，正如戴顿（2000）所强调的。即使像伊曼纽尔 · 康德这样伟大的主题理论家也束手无策。他观察到这种统一性“不是统一的范畴”（B131），也就是说，不仅仅是数值上的一致性，然后就不再多说。
 
 在各种试图确定意识的统一性特征的努力背后，有两种对统一意识体验结构的相反观点。在我们将称之为经验部分观（EP）的观点中，统一的意识体验是其他体验的组合。无经验部分观（NEP）否认了这一点，声称虽然统一的意识体验将具有复杂的对象或内容，但它没有经验部分。根据这一观点，当特定经验的对象被纳入“更大”的统一体验时，新的体验取代了特定经验，而不是将它们作为部分包含在内。在这里讨论这两种观点还为时过早（请参见第 7.1 节和 7.2 节），但我们需要了解它们以理解对统一性的表征所做的努力。我们将检验的第一种表征意识统一性的方式是在经验部分方法内部。
 
 #### 2.1.1 包容性
 
-一种越来越突出的尝试来表征意识的统一性认为，在统一的意识中，特定的经验被纳入更复杂的经验中。例如，Bayne 和 Chalmers（2003）表示，当特定的经验被统一时，它们是“一个包容性意识状态的方面”（另见 Bayne 2010: 20, 31）。更准确地说，两种经验被他们称为“包容性统一”时，“它们都被一个意识状态所包容”（2010: 27）。这产生了独特的现象学。两种包容性统一的状态将具有他们所称的联合现象学：同时拥有两种状态的现象学，它包含了各自状态的现象学：“对于主体来说，处于[两种意识]状态同时存在一种体验”（2010: 32）。
+一种越来越突出的尝试来表征意识的统一性认为，在统一的意识中，特定的经验被纳入更复杂的经验中。例如，Bayne 和 Chalmers（2003）表示，当特定的经验被统一时，它们是“一个包容性意识状态的方面”（另见 Bayne 2010: 20, 31）。更准确地说，两种经验被他们称为“包容性统一”时，“它们都被一个意识状态所包容”（2010: 27）。这产生了独特的现象学。两种包容性统一的状态将具有他们所称的联合现象学：同时拥有两种状态的现象学，它包含了各自状态的现象学：“对于主体来说，处于 [两种意识] 状态同时存在一种体验”（2010: 32）。
 
 包容性的一个特征是它需要有经验性的部分。因此，那些支持 NEP 甚至希望统一意识的描述在这个问题上保持中立的人会寻找不同的解释。
 
@@ -52,7 +52,7 @@
 
 与包容性一样，大多数共同意识的版本都需要经验部分（接受 NEP 并因此对共同意识有不同看法的詹姆斯是个例外）。除了中立性缺乏的问题，这种要求还面临一个问题，即一些形式的统一意识似乎不涉及多个项目的情况，例如自我统一意识。如果没有多个项目，就没有东西可以进入“共同”关系。
 
-一些理论家将这两种方法结合起来。实际上，许多使用术语“共同意识”（co-consciousness）的人似乎将包容性（subsumption）作为潜在概念。例如，戴顿（Dainton）采用“共同意识”的语言，并将这一概念与“一起被体验”[包容性]联系起来（2000 年：236），但最终主张共同意识比包容性更为原始（Dainton 2005 年：258-259）。或者洛克伍德（Lockwood）（1989 年：88）：共同意识是“两种经验之间的关系，当它们都是一个经验的组成部分时”。同样，苏梅克（Shoemaker）（2003 年：65）：“这些经验是共同意识的……因为它们是意识的单一状态的组成部分……”。
+一些理论家将这两种方法结合起来。实际上，许多使用术语“共同意识”（co-consciousness）的人似乎将包容性（subsumption）作为潜在概念。例如，戴顿（Dainton）采用“共同意识”的语言，并将这一概念与“一起被体验”[包容性] 联系起来（2000 年：236），但最终主张共同意识比包容性更为原始（Dainton 2005 年：258-259）。或者洛克伍德（Lockwood）（1989 年：88）：共同意识是“两种经验之间的关系，当它们都是一个经验的组成部分时”。同样，苏梅克（Shoemaker）（2003 年：65）：“这些经验是共同意识的……因为它们是意识的单一状态的组成部分……”。
 
 #### 2.1.3 联合意识
 
@@ -88,7 +88,7 @@ Brook 和 Raymont 提出了另一个观点（Brook 1994: 38; Brook 2000; Brook &
 
 自我的统一意识被认为具有一些非常特殊的属性，例如，通过将自己称为自己来实现自我意识的参照必须是指示性的，不能使用“识别”（Castañeda 1966; Shoemaker 1968; Perry 1979）。概括后者的概念，有人声称自我参照根本不是通过将属性或特征归因于自己来进行的（Brook 2001）。支持这一观点的一个论据是，一个人可以以与自己每一个意识经验的主体相同的方式意识到自己。如果是这样，一个人不会意识到自己是某种东西而不是另一种东西。正如 Bennett（1974: 80）曾经说过的那样，对自我的意识不会是“经验分裂”的——表达它的陈述不会直接暗示“我将经历 C 而不是 D”的形式。如果是这样，一个人对自我的意识可能根本不是通过意识到自己的特征而获得的。
 
-一些理论家，特别是在经验文献中，认为第五种现象经验形式应该被称为“统一意识”。我们可以称之为焦点注意力的统一性。它与我们已经勾勒出的其他形式的统一意识有所不同。在其他形式中，意识要么涵盖许多经验项目（内容的统一意识），要么涉及到许多对象的体验（体验的统一意识），要么涉及到对自己作为许多体验的主体的多个访问行为（自我的统一意识）。焦点的统一性在这些统一的“领域”中挑选出某些东西。威廉·温特在他对意识领域（Blickfeld）和意识焦点（Blickpunkt）的区分中捕捉到了我们所指的内容（温特[1874] 1893 年：第二卷，67 页）。一个人专注的单个项目的意识是统一的，因为一个人在一个意识状态或行为中意识到了项目的许多方面（尤其是关系方面，例如，它可能带来的任何危险，它如何与一个人的目标相关等），以及关于该项目的许多不同考虑（一个人的目标，一个人在实现这些目标方面的表现如何等），在同一个意识状态或行为中。在统一的焦点注意力中，一个人整合了许多认知能力并将它们应用于一个对象。贝恩和查尔默斯的客体统一是一个相关概念（2003 年：24-25）。请注意，如果有与焦点注意力不同的统一意识形式，那么与波斯纳（1994 年）和其他人的观点相反，注意力并不是所有形式意识的组成部分（哈德卡斯尔 1997 年）。
+一些理论家，特别是在经验文献中，认为第五种现象经验形式应该被称为“统一意识”。我们可以称之为焦点注意力的统一性。它与我们已经勾勒出的其他形式的统一意识有所不同。在其他形式中，意识要么涵盖许多经验项目（内容的统一意识），要么涉及到许多对象的体验（体验的统一意识），要么涉及到对自己作为许多体验的主体的多个访问行为（自我的统一意识）。焦点的统一性在这些统一的“领域”中挑选出某些东西。威廉 · 温特在他对意识领域（Blickfeld）和意识焦点（Blickpunkt）的区分中捕捉到了我们所指的内容（温特 [1874] 1893 年：第二卷，67 页）。一个人专注的单个项目的意识是统一的，因为一个人在一个意识状态或行为中意识到了项目的许多方面（尤其是关系方面，例如，它可能带来的任何危险，它如何与一个人的目标相关等），以及关于该项目的许多不同考虑（一个人的目标，一个人在实现这些目标方面的表现如何等），在同一个意识状态或行为中。在统一的焦点注意力中，一个人整合了许多认知能力并将它们应用于一个对象。贝恩和查尔默斯的客体统一是一个相关概念（2003 年：24-25）。请注意，如果有与焦点注意力不同的统一意识形式，那么与波斯纳（1994 年）和其他人的观点相反，注意力并不是所有形式意识的组成部分（哈德卡斯尔 1997 年）。
 
 所有五种现象统一的形式都可以在某种程度上归因于康德。前四种显然是康德式的，但即使是第五种也与他有联系。他并不经常谈论注意力，但确实提到过。例如，参见 B156n。
 
@@ -108,7 +108,7 @@ Brook 和 Raymont 提出了另一个观点（Brook 1994: 38; Brook 2000; Brook &
 
 既然我们知道在谈论统一意识时我们在谈论什么，接下来要问的问题是：它是否存在？意识是否具有必须具备的统一性质？如果这种问题的划分看起来很奇怪，注意到这也可以适用于圣诞老人。我们可以对圣诞老人会是什么样子进行描述，而不必就此承认这样的存在。然而，这种划分可能以另一种方式看起来很奇怪：谁会否认意识是统一的？这似乎是显而易见的。事实上，对这个问题存在相当多的怀疑。
 
-有人会主张，在我们询问统一意识是否存在之前，我们应该首先问，意识是否存在？现在似乎有广泛的共识，即对这个问题的答案是，是的，在我们身上有一种适当称为“意识”的东西。即使那些认为长期以来的关于指向性的想法是关于命题态度的观念是错误的并且应该被淘汰的人，例如保罗和帕特里夏·丘奇兰，也承认意识的存在，尽管他们主张这个概念应该被修剪一点（例如，参见帕特里夏·丘奇兰 1983 年）。一些作家认为丹尼特（1991 年）否认意识的存在，要么是直接的，要么是间接的。然而，他本人多次表示意识是真实存在的（1995 年：135、146 是两个例子）。一些作家，例如威尔克斯（1984 年）和雷伊（1988 年），对意识持有真正的消除论观点，但他们只是极少数。
+有人会主张，在我们询问统一意识是否存在之前，我们应该首先问，意识是否存在？现在似乎有广泛的共识，即对这个问题的答案是，是的，在我们身上有一种适当称为“意识”的东西。即使那些认为长期以来的关于指向性的想法是关于命题态度的观念是错误的并且应该被淘汰的人，例如保罗和帕特里夏 · 丘奇兰，也承认意识的存在，尽管他们主张这个概念应该被修剪一点（例如，参见帕特里夏 · 丘奇兰 1983 年）。一些作家认为丹尼特（1991 年）否认意识的存在，要么是直接的，要么是间接的。然而，他本人多次表示意识是真实存在的（1995 年：135、146 是两个例子）。一些作家，例如威尔克斯（1984 年）和雷伊（1988 年），对意识持有真正的消除论观点，但他们只是极少数。
 
 ### 3.1 对于意识的统一性的怀疑
 
@@ -174,7 +174,7 @@ Dennett 在这方面很有趣。正如我们所看到的，他可以被合理地
 
 以下是一些导致这种评估的行为的例子。人类视网膜垂直分割，使得每个视网膜的左半部分主要连接到大脑的左半球，右半部分主要连接到大脑的右半球。现在假设我们在一个脑分裂的患者面前的屏幕上闪现单词“TAXABLE”，使得字母 TAX 击中视网膜的左侧，字母 ABLE 击中右侧，并且采取措施确保击中每个视网膜半部分的信息只传输到一个脑叶，而不传输到另一个脑叶。如果询问这样的患者显示了什么单词，通常由左半球控制的口腔会说“TAX”，而由不控制口腔的半球（通常是左手和右半球）控制的手会写“ABLE”。或者，如果控制手的半球（通常是左手）但不控制言语的半球被要求进行算术运算，而这种运算不会传递到控制言语的半球，并且手被眼睛屏蔽，口腔会坚称自己没有进行算术运算，甚至今天都没有考虑过算术等等，而适当的手却在忙着进行算术运算！
 
-最近，这种标准评估受到了挑战。在他 2010 年的重要著作和其他出版物中，蒂姆·贝恩（Tim Bayne）提出意识并非有两个中心，而只有一个中心。造成二元性外观的原因在于，这个单一的意识中心在意识的物质中从一个半球切换到另一个半球。他将此称为切换模型（2010 年：第 8.4 章和第 9.5 章）。要使这种方法得以启动，至关重要的是几乎没有证据表明有一个意识中心同时意识到 A、B 和 C，但不意识到 D、E 和 F，同时又有一个意识中心意识到 D、E 和 F，但不意识到 A、B、C。我们刚刚称之为标准评估的观点是基于一种信念，即存在大量这样的证据。贝恩持不同意见。我们将在第 4.2 节回顾贝恩的观点。
+最近，这种标准评估受到了挑战。在他 2010 年的重要著作和其他出版物中，蒂姆 · 贝恩（Tim Bayne）提出意识并非有两个中心，而只有一个中心。造成二元性外观的原因在于，这个单一的意识中心在意识的物质中从一个半球切换到另一个半球。他将此称为切换模型（2010 年：第 8.4 章和第 9.5 章）。要使这种方法得以启动，至关重要的是几乎没有证据表明有一个意识中心同时意识到 A、B 和 C，但不意识到 D、E 和 F，同时又有一个意识中心意识到 D、E 和 F，但不意识到 A、B、C。我们刚刚称之为标准评估的观点是基于一种信念，即存在大量这样的证据。贝恩持不同意见。我们将在第 4.2 节回顾贝恩的观点。
 
 由于大脑分裂手术在精神病学和神经病学之外引起了如此多的关注，我们已经引用了一些更重要的著作。对于我们将介绍的其他障碍，我们将不这样做。要获取更详尽的描述和参考资料，请参阅一本普通的精神病学教科书。在这里，我们只对它们展示的统一意识的变迁感兴趣，或者可能被认为展示的变迁感兴趣。
 
@@ -182,7 +182,7 @@ Dennett 在这方面很有趣。正如我们所看到的，他可以被合理地
 
 除了一个身体可能有两个统一意识中心的情况外，还有一种情况是一个统一意识中心可能跨越两个身体。镜像双胞胎有时会呈现这样的外观。镜像双胞胎是生物学上相同的双胞胎，每个身体都是对方的镜像。他们穿着完全一样，互相补充对方的话，尽可能一起做任务（如果正在煮鸡蛋，两只右手会握住煎锅的把手），等等。脑分裂案例被认为是意识中心数量与一个方向上的大脑和身体数量不匹配的例子。镜像双胞胎可能是另一种方向的例子。与统一意识相关，这种可能性是有趣的。
 
-最著名的案例是格里塔和弗雷达·卓别林的案例，他们在 1970 年代在英国曝光。涉及两个身体，但这两个身体的行为方式至少与跨越它们的统一意识实例相容。每个身体都能完成由另一个开始的复杂且不可预测的句子。这两个人一起做任何事情。当相隔几米以上时，他们会痛苦地抱怨，每个身体都报告说感觉自己的一部分被撕裂出去。等等。遗憾的是，没有找到关于这个案例的专业讨论，但当时广泛报道，例如在 1981 年 4 月 6 日的《时代》杂志。
+最著名的案例是格里塔和弗雷达 · 卓别林的案例，他们在 1970 年代在英国曝光。涉及两个身体，但这两个身体的行为方式至少与跨越它们的统一意识实例相容。每个身体都能完成由另一个开始的复杂且不可预测的句子。这两个人一起做任何事情。当相隔几米以上时，他们会痛苦地抱怨，每个身体都报告说感觉自己的一部分被撕裂出去。等等。遗憾的是，没有找到关于这个案例的专业讨论，但当时广泛报道，例如在 1981 年 4 月 6 日的《时代》杂志。
 
 #### 4.1.3 半侧忽视和自知障碍
 
@@ -260,7 +260,7 @@ Kelly (2005)提出了一个类似的问题。假设一个人正在听一首旋�
 
 一些重要的哲学家敦促，通过记忆携带的历时统一并不足以成为一个人。例如，康德在他著名的第三种谬误批判中主张了这一点。在康德看来，足以“保留前一个主体的思想并将其传递给后续主体”（1781 年：A363）的连续性，因此足以实现意识的历时统一，与“保留的思想”从一个主体传递到另一个主体完全兼容，因此与个人身份的完全缺失是相容的。如果是这样，那么历时统一并不足以构成个人身份（Brook 1994：第 8 章）。（注：洛克和康德之间的差距可能没有这个简短讨论所暗示的那么大。我们仅仅是用他们来说明这两种立场，并没有对他们进行全面讨论。）
 
-与人以外的事物中的身份相关的现象可能是一个程度问题。这一点可以通过著名的忒修斯之船很好地说明。假设多年来，某艘船被逐板重建，直到每一块都被更换。在这个过程结束时的船是开始这个过程的船吗？现在假设我们把所有那些腐烂的、被更换的木板重新组装成一艘船。这艘船是原来的船吗？似乎对这些问题没有明确的答案。你想说什么，你喜欢的可能会因为你是保险公司的理赔员还是历史爱好者而有所不同。许多哲学家坚持认为，这种不确定性永远不会出现在人身上。人的身份始终是完全明确的，绝不可能是一个程度问题（约瑟夫·巴特勒主教[1736]是一个著名的例子）。
+与人以外的事物中的身份相关的现象可能是一个程度问题。这一点可以通过著名的忒修斯之船很好地说明。假设多年来，某艘船被逐板重建，直到每一块都被更换。在这个过程结束时的船是开始这个过程的船吗？现在假设我们把所有那些腐烂的、被更换的木板重新组装成一艘船。这艘船是原来的船吗？似乎对这些问题没有明确的答案。你想说什么，你喜欢的可能会因为你是保险公司的理赔员还是历史爱好者而有所不同。许多哲学家坚持认为，这种不确定性永远不会出现在人身上。人的身份始终是完全明确的，绝不可能是一个程度问题（约瑟夫 · 巴特勒主教 [1736] 是一个著名的例子）。
 
 在脑分裂案例（见第 4.1 节描述）中，一些人认为，统一意识分裂成两个可能与此相关（Parfit 1971, 1984）。正如 Parfit 所主张的，人（或至少是心灵）分裂和重新融合的可能性对我们特殊性的直觉提出了真正的挑战。也许人的连续性可以像任何其他中等大小的物体的连续性一样复杂，也可以是程度问题。
 
@@ -308,7 +308,7 @@ EP 面临困难。詹姆斯在他关于十二个词句的例子中描述了这�
 
 > 以十几个词组成一句话，取十二个人，每人一词。然后让这些人排成一排或挤在一堆，让每个人都尽可能专注地思考自己的词；但无论如何，都不会有整个句子的意识。(詹姆斯 1890: 160)
 
-EP 需要的是一种结合经验的方式，不仅仅是将它们简单地连接成一个经验总和，因为简单地结合经验并不是结合的经验。EP 需要的是一种将经验和它们的内容结合在一起的方式。如果没有明确说明如何实现这种内容的结合，我们将得到一种简单的经验总和，其中的每个成员都对总和中其他状态的内容视而不见。正如詹姆斯所说，“a 的观念 + b 的观念并不等同于 (a+b) 的观念”（1890:161）。
+EP 需要的是一种结合经验的方式，不仅仅是将它们简单地连接成一个经验总和，因为简单地结合经验并不是结合的经验。EP 需要的是一种将经验和它们的内容结合在一起的方式。如果没有明确说明如何实现这种内容的结合，我们将得到一种简单的经验总和，其中的每个成员都对总和中其他状态的内容视而不见。正如詹姆斯所说，“a 的观念 + b 的观念并不等同于 (a+b) 的观念”（1890: 161）。
 
 意识的统一性的支持者可能会回答说，他们从未打算提供意识统一的解释。相反，应该将意识的统一性理论视为对统一意识状态结构的描述。换句话说，这是对这些状态及其如何被个体化的表征，而不是解释。可以认为，唯一良好的个体化意识状态的方法是基于内容。因此，由于通过意识状态意识到许多内容，那个状态本身必须由几个较简单的意识状态组成，这些状态已经（以某种方式）统一起来。至少，因此，那些支持 NEP 的人应该为我们提供一个个体化意识状态的替代基础。我们将在下一节回到这个问题。
 
@@ -364,7 +364,7 @@ Tye 提出了类似的观点，他将其称为“一个经验观”（Tye 2003: 
 
 ## 8. 统一意识的神经结构
 
-我们将在本文中简要探讨一些关于统一意识的神经结构可能是什么样子的哲学推测。当前意识研究中最热门的问题之一是大脑如何实现意识以及大脑的哪些部分在其中起到了最重要的作用，即“意识的神经相关”（NCC）是什么。对于一般意识的 NCC 的任何真正洞察力也很可能包含对统一意识的 NCC 的洞察。这方面的文献现在已经如此庞大，以至于需要另一篇文章来讨论这个主题。（Koch 2004 是对实证神经科学的出色评论，而 Chalmers 2000 是迄今为止对概念问题进行最广泛探讨的著作。）由于篇幅限制，我们在这里将限制自己讨论三种对意识的神经结构可能是什么样子的最有影响力的哲学方法，即保罗和帕特里夏·丘奇兰（例如保罗·丘奇兰 1995: 214）、丹尼尔·丹尼特（1991）和苏珊·赫利（1998）。
+我们将在本文中简要探讨一些关于统一意识的神经结构可能是什么样子的哲学推测。当前意识研究中最热门的问题之一是大脑如何实现意识以及大脑的哪些部分在其中起到了最重要的作用，即“意识的神经相关”（NCC）是什么。对于一般意识的 NCC 的任何真正洞察力也很可能包含对统一意识的 NCC 的洞察。这方面的文献现在已经如此庞大，以至于需要另一篇文章来讨论这个主题。（Koch 2004 是对实证神经科学的出色评论，而 Chalmers 2000 是迄今为止对概念问题进行最广泛探讨的著作。）由于篇幅限制，我们在这里将限制自己讨论三种对意识的神经结构可能是什么样子的最有影响力的哲学方法，即保罗和帕特里夏 · 丘奇兰（例如保罗 · 丘奇兰 1995: 214）、丹尼尔 · 丹尼特（1991）和苏珊 · 赫利（1998）。
 
 Churchlands（IGNORE）的观点源自对神经结构的激进图景。他们主张，支撑认知和意识的过程的结构并非由符号编码表示的转换构成，这是大多数哲学家所相信的，而是类似于相位空间中的矢量变换。因此在他们看来，统一意识的神经对应物与符号或句子一点相似之处都没有。
 
@@ -388,33 +388,33 @@ Dennett 和 Churchland 的观点自然地融入了对认知和意识神经实现
 ## Bibliography
 
 * Baars, Bernard, 1988, *A Cognitive Theory of Consciousness*, Cambridge: Cambridge University Press.
-* Bayne, Tim, 2000, “The Unity of Consciousness: Clarification and Defence”, *Australasian Journal of Philosophy*, 78(2): 248–254. doi:10.1080/00048400012349531
+* Bayne, Tim, 2000, “The Unity of Consciousness: Clarification and Defence”, *Australasian Journal of Philosophy*, 78(2): 248–254. doi: 10.1080/00048400012349531
 * –––, 2004, “Self-Consciousness and the Unity of Consciousness”, *The Monist*, 87(2): 219–236.
 * –––, 2008, “The Unity of Consciousness and the Split Brain Syndrome”, *Journal of Philosophy*, 105(6): 277–300.
-* –––, 2010, *The Unity of Consciousness*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199215386.001.0001
-* Bayne, Tim & David J. Chalmers, 2003, “What is the Unity of Consciousness?”, in Cleeremans 2003: chapter 1, pp. 23–5. doi:10.1093/acprof:oso/9780198508571.003.0002
-* Bennett, Jonathan, 1966, *Kant’s Analytic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316492901
-* –––, 1974, *Kant’s Dialectic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316492949
+* –––, 2010, *The Unity of Consciousness*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199215386.001.0001
+* Bayne, Tim & David J. Chalmers, 2003, “What is the Unity of Consciousness?”, in Cleeremans 2003: chapter 1, pp. 23–5. doi: 10.1093/acprof: oso/9780198508571.003.0002
+* Bennett, Jonathan, 1966, *Kant’s Analytic*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316492901
+* –––, 1974, *Kant’s Dialectic*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316492949
 * Blackmore, Susan J., 2004, *Consciousness: An Introduction*, Oxford: Oxford University Press.
 * Brentano, Franz, [1874] 1973, *Psychology from an Empirical Point of View* (*Psychologie vom empirischen Standpunkt)*), Trans. A.C. Rancurello, D.B. Tyrrell, and L. McAlister, London: Routledge.
 * Brook, Andrew, 1994, *Kant and the Mind*, New York: Cambridge University Press.
 * –––, 2000, “Unity of Consciousness: What it is and Where it is Found”, *Proceedings of the 22nd Annual Conference of the Cognitive Science Society*, New York: LEA, pages 68–70.
 * –––, 2001, “Kant, Self-Reference and Self-Awareness”, in Brook & DeVidi 2001: 9–30.
 * –––, 2005, “Kant, Cognitive Science, and Contemporary Neo-Kantianism”, *Journal of Consciousness Studies*, 11(10–11): 1–25.
-* –––, 2015, “Disorders of Unified Consciousness”, in Gennaro 2015b: 209–26. doi:10.7551/mitpress/9780262029346.003.0008
+* –––, 2015, “Disorders of Unified Consciousness”, in Gennaro 2015b: 209–26. doi: 10.7551/mitpress/9780262029346.003.0008
 * Brook, Andrew & Richard C. DeVidi (eds.), 2001, *Self-Reference and Self-Awareness*, Amsterdam: John Benjamins.
 * Brook, Andrew & Paul Raymont, 2006, “Unity of Consciousness”, *Proceedings of the 28th Annual Conference of the Cognitive Science Society*, New York: LEA, pp. 1056–1061. [[Brook and Raymond 2006](https://escholarship.org/uc/item/5x31r8s3)]
 * Butler, Joseph, 1736, “Dissertation I: Of Personal Identity”, in his *Analogy of Religion*, London: Dent, 1906. [[Butler 1736 available online](https://www.ccel.org/ccel/butler/analogy.iv.iii.html)]
 * Carnap, Rudolf, [1928] 1967, *Logical System of the World* (*Der Logische Aufbau der Welt*), Rolf A. George (trans.), Berkeley: University of California Press.
-* Cassam, Quassim, 1996, *Self and World*, Oxford: Oxford University Press. doi:10.1093/0198238959.001.000
+* Cassam, Quassim, 1996, *Self and World*, Oxford: Oxford University Press. doi: 10.1093/0198238959.001.000
 * Castañeda, Hector-Neri, 1966, “‘He’: a Study in the Logic of Self-Consciousness”, *Ratio*, (old series) 8(December): 130–57. Reprinted in Brook & DeVidi 2001: 51–79.
 * Chalmers, David J., 2000, “What is a Neural Correlate of Consciousness?”, in Thomas Metzinger (ed.), *Neural Correlates of Consciousness: Empirical and Conceptual Questions*, Cambridge MA: MIT Press, pages 17–39.
 * Churchland, Paul M., 1995, *The Engine of Reason, the Seat of the Soul: A Philosophical Journey into the Brain*, Cambridge, MA: MIT Press/A Bradford Book.
 * Churchland, Patricia S., 1983, “Consciousness: Transmutation of a Concept”, *Pacific Philosophical Quarterly*, 65: 80–95.
-* Cleeremans, Axel (ed.), 2003, *The Unity of Consciousness: Binding, Integration and Dissociation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198508571.001.0001
-* Crane, Tim, 1988, “The Waterfall Illusion”, *Analysis*, 48(3): 142–47. doi:10.2307/3328218
+* Cleeremans, Axel (ed.), 2003, *The Unity of Consciousness: Binding, Integration and Dissociation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198508571.001.0001
+* Crane, Tim, 1988, “The Waterfall Illusion”, *Analysis*, 48(3): 142–47. doi: 10.2307/3328218
 * Dainton, Barry, 2005, *Stream of Consciousness: Unity and Continuity in Conscious Experience*, 2nd edition, London: Routledge
-* Davidson, Donald, 1980, “Paradoxes of Irrationality”, in Richard Wollheim and James Hopkins (eds.), *Philosophical Essays on Freud*, Cambridge: Cambridge University Press, pages 289–305. Reprinted in Davidson’s 2004 *Problems of Rationality*, Oxford, Oxford University Press, pages 169–188. doi:10.1093/0198237545.003.0011
+* Davidson, Donald, 1980, “Paradoxes of Irrationality”, in Richard Wollheim and James Hopkins (eds.), *Philosophical Essays on Freud*, Cambridge: Cambridge University Press, pages 289–305. Reprinted in Davidson’s 2004 *Problems of Rationality*, Oxford, Oxford University Press, pages 169–188. doi: 10.1093/0198237545.003.0011
 * Dawson, Michael R.W., 1998, *Understanding Cognitive Science*, Oxford: Blackwell Publishers.
 * Dennett, Daniel C., 1991, *Consciousness Explained*, New York: Little, Brown.
 * –––, 1992, “The Self as Centre of Narrative Gravity”, in Frank S. Kessel, Pamela M. Cole, and Dale L. Johnson (eds.), *Self and Consciousness: Multiple Perspectives*, Hillsdale, NJ: Erlbaum Publishers, pages 103–115.
@@ -424,71 +424,71 @@ Dennett 和 Churchland 的观点自然地融入了对认知和意识神经实现
 * –––, 2005, “What Do You Believe Is True Even Though You Cannot Yet Prove It?”, *Edge World Question Center*, John Brockman (ed.), [[Dennett 2005 available online](https://www.edge.org/response-detail/11902)].
 * Descartes, René, 1641, *Meditations on First Philosophy*, Elizabeth S. Haldane and G.R.T. Ross (trans.) in *The Philosophical Works of Descartes*, Vol. 1. Cambridge: Cambridge University Press, 1970 [orig. 1911].
 * Dretske, Fred, 1995, *Naturalizing the Mind*, Cambridge MA: MIT Press/A Bradford Book
-* Gazzaniga, Michael S., 2000, “Cerebral Specialization and Interhemispheric Communication. Does the Corpus Callosum Enable the Human Condition?”, *Brain*, 123(7): 1293–1336. doi:10.1093/brain/123.7.1293
-* Gennaro, Rocco J., 2015a, “Somatoparaphrenia, Anosognosia, and Higher-Order Thoughts”, in Gennaro 2015b: 55–74. doi:10.7551/mitpress/9780262029346.003.0003
-* ––– (ed.), 2015b, *Disturbed Consciousness*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262029346.001.0001
+* Gazzaniga, Michael S., 2000, “Cerebral Specialization and Interhemispheric Communication. Does the Corpus Callosum Enable the Human Condition?”, *Brain*, 123(7): 1293–1336. doi: 10.1093/brain/123.7.1293
+* Gennaro, Rocco J., 2015a, “Somatoparaphrenia, Anosognosia, and Higher-Order Thoughts”, in Gennaro 2015b: 55–74. doi: 10.7551/mitpress/9780262029346.003.0003
+* ––– (ed.), 2015b, *Disturbed Consciousness*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262029346.001.0001
 * Hacking, Ian, 1995, *Rewriting the Soul: Multiple Personality and the Sciences of Memory*, Princeton NJ: Princeton University Press.
-* Hardcastle, Valerie Gray, 1997, “Attention Versus Consciousness: a Distinction with a Difference”, *Cognitive Studies: Bulletin of the Japanese Cognitive Science Society*, 4(3): 56–66. Reprinted in Naoyuki Osaka (ed.), 2003, *Neural Basis of Consciousness*, Amsterdam: John Benjamins Press, pp. 105–120. doi:10.11225/jcss.4.3_56
+* Hardcastle, Valerie Gray, 1997, “Attention Versus Consciousness: a Distinction with a Difference”, *Cognitive Studies: Bulletin of the Japanese Cognitive Science Society*, 4(3): 56–66. Reprinted in Naoyuki Osaka (ed.), 2003, *Neural Basis of Consciousness*, Amsterdam: John Benjamins Press, pp. 105–120. doi: 10.11225/jcss.4.3_56
 * –––, 1998, “The Binding Problem”, in *A Companion to Cognitive Science*, William Bechtel and George Graham (eds.), Oxford: Blackwell Publishers, pp. 255–65
 * Hill, Christopher S., 1991, *Sensations: A Defense of Type Materialism*, New York: Cambridge University Press.
-* Hirsch, E., 1991, “Divided Minds”, *Philosophical Review*, 100(1): 3–30. doi:10.2307/2185513
+* Hirsch, E., 1991, “Divided Minds”, *Philosophical Review*, 100(1): 3–30. doi: 10.2307/2185513
 * Hume, David, [1739] 1962, *Treatise of Human Nature*, L.A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1898, rev. 1962.
 * Hurley, Susan, 1994, “Unity and Objectivity”, in Peacocke 1994: 49–77.
 * –––, 1998, *Consciousness in Action*, Cambridge, MA: Harvard University Press.
-* –––, 2003, “Action, the Unity of Consciousness, and Vehicle Externalism”, in Cleeremans 2003: chapter 1.3, pp. 72–94. doi:10.1093/acprof:oso/9780198508571.003.0004
+* –––, 2003, “Action, the Unity of Consciousness, and Vehicle Externalism”, in Cleeremans 2003: chapter 1.3, pp. 72–94. doi: 10.1093/acprof: oso/9780198508571.003.0004
 * Husserl, Edmund, 1928, *On the Phenomenology of the Consciousness of Internal Time (1893–1917)* (*Zur Phänomenologie des inneren Zeitbewusstseins*), John Barnett Brough (trans. and ed.), Dordrecht: Kluwer, 1991,
 * James, William, 1890, *Principles of Psychology*, Vol. 1. London: Macmillan
 * –––, 1909, “A Pluralistic Universe”, in *Essays in Radical Empiricism and A Pluralistic Universe*, Gloucester, MA: P. Smith, 1967.
 * Kant, Immanuel, 1781/87, *Critique of Pure Reason*, P. Guyer and A. Wood (trans. and eds.), Cambridge: Cambridge University Press (cited as Axxx for the first edition of 1781 and Bxxx for the second of 1787).
-* Kelly, Sean D., 2005, “The Puzzle of Temporal Experience”, in Andrew Brook and Kathleen Akins (eds.), *Cognition and the Brain: The Philosophy and Neuroscience Movement*, New York: Cambridge University Press, pages 208–238. doi:10.1017/CBO9780511610608.007
-* Kennett, Jeanette & Steve Matthews, 2003, “The Unity and Disunity of Agency”, *Philosophy, Psychiatry, and Psychology*, 10(4): 308–312. doi:10.1353/ppp.2004.0020
+* Kelly, Sean D., 2005, “The Puzzle of Temporal Experience”, in Andrew Brook and Kathleen Akins (eds.), *Cognition and the Brain: The Philosophy and Neuroscience Movement*, New York: Cambridge University Press, pages 208–238. doi: 10.1017/CBO9780511610608.007
+* Kennett, Jeanette & Steve Matthews, 2003, “The Unity and Disunity of Agency”, *Philosophy, Psychiatry, and Psychology*, 10(4): 308–312. doi: 10.1353/ppp.2004.0020
 * Koch, Christof, 2004, *The Quest for Consciousness: A Neurobiological Approach*, Denver, CO: Roberts and Co.
-* LaRock, Eric, 2007, “Disambiguation, Binding, and the Unity of Visual Consciousness”, *Theory and Psychology*, 17(6): 747–77. doi:10.1177/0959354307083492
+* LaRock, Eric, 2007, “Disambiguation, Binding, and the Unity of Visual Consciousness”, *Theory and Psychology*, 17(6): 747–77. doi: 10.1177/0959354307083492
 * Leibniz, Gottfried Wilhelm, [1714] 1965, *Monadology and Other Philosophical Essays*, Paul and Anne Martin Schrecker (trans. & ed.), Indianapolis, IN: Bobbs-Merrill Co.
 * Lockwood, Michael, 1989, *Mind, Brain and the Quantum*, Oxford: Blackwell Publishers.
 * –––, 1994, “Issues of Unity and Objectivity”, in Peacocke 1994: 89–95.
 * Marcel, Anthony, 1994, “What is Relevant to the Unity of Consciousness?”, in Peacocke 1994: 79–88.
 * Marks, Charles E., 1981, *Commissurotomy, Consciousness and Unity of Mind*, Cambridge, MA: MIT Press.
-* Mylopoulous, Myrto, 2015, “Consciousness, Action, and Pathologies of Agency”, in Gennaro 2015b: 75–102. doi:10.7551/mitpress/9780262029346.003.0004
-* Nagel, Thomas, 1971, “Brain Bisection and the Unity of Consciousness”, *Synthese*, 22(3): 396–413. doi:10.1007/BF00413435
-* Nikolinakos, Drakon Derek, 2004, “Anosognosia and the Unity of Consciousness”, *Philosophical Studies*, 119(3): 315–342. doi:10.1023/B:PHIL.0000030435.87499.d4
-* O’Brien, Gerard & Jon Opie, 1998, “The Disunity of Consciousness”, *Australasian Journal of Philosophy*, 76(3): 378–395. doi:10.1080/00048409812348511
-* Parfit, Derek, 1971, “Personal Identity”, *Philosophical Review* 80(1): 3–27. doi:10.2307/2184309
-* –––, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi:10.1093/019824908X.001.0001
+* Mylopoulous, Myrto, 2015, “Consciousness, Action, and Pathologies of Agency”, in Gennaro 2015b: 75–102. doi: 10.7551/mitpress/9780262029346.003.0004
+* Nagel, Thomas, 1971, “Brain Bisection and the Unity of Consciousness”, *Synthese*, 22(3): 396–413. doi: 10.1007/BF00413435
+* Nikolinakos, Drakon Derek, 2004, “Anosognosia and the Unity of Consciousness”, *Philosophical Studies*, 119(3): 315–342. doi: 10.1023/B: PHIL.0000030435.87499.d4
+* O’Brien, Gerard & Jon Opie, 1998, “The Disunity of Consciousness”, *Australasian Journal of Philosophy*, 76(3): 378–395. doi: 10.1080/00048409812348511
+* Parfit, Derek, 1971, “Personal Identity”, *Philosophical Review* 80(1): 3–27. doi: 10.2307/2184309
+* –––, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi: 10.1093/019824908X.001.0001
 * Peacocke, Christopher, 1994, *Objectivity, Simulation, and the Unity of Consciousness*, Oxford: Oxford University Press (for the British Academy, volume 83). [[Peacocke 1994 available online](http://www.britac.ac.uk/pubs/proc/volumes/pba83.html)]
-* Perry, John, 1979, “The Problem of the Essential Indexical”, *Noûs*, 13(1): 3–21. doi:10.2307/2214792
+* Perry, John, 1979, “The Problem of the Essential Indexical”, *Noûs*, 13(1): 3–21. doi: 10.2307/2214792
 * Posner, Michael I., 1994, “Attention: the Mechanism of Consciousness”, *Proceedings of the National Academy of Science USA*, 91(16): 7398–7403.
-* Puccetti, Roland, 1973, “Brain Bisection and Personal Identity”, *British Journal for the Philosophy of Science*, 24(4): 339–55. doi:10.1093/bjps/24.4.339
-* –––, 1981, “The Case for Mental Duality: Evidence from Split-Brain Data and Other Considerations”, *The Behavioral and Brain Sciences*, 4(1): 93–123. doi:10.1017/S0140525X00007755
+* Puccetti, Roland, 1973, “Brain Bisection and Personal Identity”, *British Journal for the Philosophy of Science*, 24(4): 339–55. doi: 10.1093/bjps/24.4.339
+* –––, 1981, “The Case for Mental Duality: Evidence from Split-Brain Data and Other Considerations”, *The Behavioral and Brain Sciences*, 4(1): 93–123. doi: 10.1017/S0140525X00007755
 * Radden, Jennifer, 1998, “Pathologically Divided Minds, Synchronic Unity and Models of Self”, *Journal of Consciousness Studies*, 5(5–6): 658–672.
-* –––, 2003.“Learning from Disunity. Commentary on Special Issue: Agency, Narrative and Self. ” *Philosophy, Psychiatry & Psychology* Vol 10. No 4:357–359.
+* –––, 2003.“Learning from Disunity. Commentary on Special Issue: Agency, Narrative and Self. ” *Philosophy, Psychiatry & Psychology* Vol 10. No 4: 357–359.
 * Reid, Thomas, 1785, *Essay on the Intellectual Powers of Man*, Cambridge, MA: MIT Press, 1969
-* Revonsuo, Antti, 1999, “Binding and the Phenomenal Unity of Consciousness”, *Consciousness and Cognition*, 8(2): 173–185. doi:10.1006/ccog.1999.0384
+* Revonsuo, Antti, 1999, “Binding and the Phenomenal Unity of Consciousness”, *Consciousness and Cognition*, 8(2): 173–185. doi: 10.1006/ccog.1999.0384
 * –––, 2003, “The Contents of Phenomenal Consciousness: One Relation to Rule Them All and in the Unity Bind Them”, *Psyche* 9(08) (February) [[Revonsuo 2003 available online (pdf)](http://www.theassc.org/files/assc/2568.pdf)].
-* Rey, Georges, 1988, “A Question About Consciousness”, in Herbert R. Otto and James A. Tueidio (eds.), *Perspectives on Mind*, Norwell: Kluwer Publishers, pages 5–24. doi:10.1007/978-94-009-4033-8_2
+* Rey, Georges, 1988, “A Question About Consciousness”, in Herbert R. Otto and James A. Tueidio (eds.), *Perspectives on Mind*, Norwell: Kluwer Publishers, pages 5–24. doi: 10.1007/978-94-009-4033-8_2
 * Rosenthal, David M., 1986. “Two Concepts of Consciousness”, *Philosophical Studies* 49, 3: 329–359.
 * Rosenthal, David M., 2002, “Persons, Minds, and Consciousness”, in Randall E. Auxier and Lewis Edwin Hahn (eds.), *The Philosophy of Marjorie Grene*, (Library of Living Philosophers, Vol. 29), La Salle, Illinois: Open Court. (Page references are to version [available online (pdf)](https://web.archive.org/web/20060907130535/http://web.gc.cuny.edu/cogsci/grene.pdf).
-* –––, 2003, “Unity of Consciousness and the Self”, *Proceedings of the Aristotelian Society*, 103: 325–352. doi:10.1111/j.0066-7372.2003.00075.x
-* Schechter, Elizabeth, 2010, “Individuating Mental Tokens: the Split-Brain Case”, *Philosophia*, 38(1): 195–216. doi:10.1007/s11406-009-9187-3
-* –––, 2012, “The Switch Model of Split-Brain Consciousness”, *Philosophical Psychology*, 25(2): 203–226. doi:10.1080/09515089.2011.579417
-* Searle, John R., [2000] 2002, “Consciousness”, in his *Consciousness and Language*, Cambridge: Cambridge University Press. Originally published in 2000, *Annual Review of Neuroscience*, 23: 557–78. doi:10.1146/annurev.neuro.23.1.557
-* Sergent, Justine, 1990, “Furtive Incursions into Bicameral Minds”, *Brain*, 113(2): 537–68. doi:10.1093/brain/113.2.537
-* Shoemaker, Sydney S., 1968, “Self-Reference and Self-Awareness”, *Journal of Philosophy*, 65(19): 555–67. doi:10.2307/2024121
+* –––, 2003, “Unity of Consciousness and the Self”, *Proceedings of the Aristotelian Society*, 103: 325–352. doi: 10.1111/j.0066-7372.2003.00075.x
+* Schechter, Elizabeth, 2010, “Individuating Mental Tokens: the Split-Brain Case”, *Philosophia*, 38(1): 195–216. doi: 10.1007/s11406-009-9187-3
+* –––, 2012, “The Switch Model of Split-Brain Consciousness”, *Philosophical Psychology*, 25(2): 203–226. doi: 10.1080/09515089.2011.579417
+* Searle, John R., [2000] 2002, “Consciousness”, in his *Consciousness and Language*, Cambridge: Cambridge University Press. Originally published in 2000, *Annual Review of Neuroscience*, 23: 557–78. doi: 10.1146/annurev.neuro.23.1.557
+* Sergent, Justine, 1990, “Furtive Incursions into Bicameral Minds”, *Brain*, 113(2): 537–68. doi: 10.1093/brain/113.2.537
+* Shoemaker, Sydney S., 1968, “Self-Reference and Self-Awareness”, *Journal of Philosophy*, 65(19): 555–67. doi: 10.2307/2024121
 * –––, 1996, “Unity of Consciousness and Consciousness of Unity”, in *The First-Person Perspective and Other Essays*, Cambridge: Cambridge University Press
-* –––, 2003, “Consciousness and Co-Consciousness”, in Cleeremans 2003: chapter 1.2, pp. 59–71. doi:10.1093/acprof:oso/9780198508571.003.0003
+* –––, 2003, “Consciousness and Co-Consciousness”, in Cleeremans 2003: chapter 1.2, pp. 59–71. doi: 10.1093/acprof: oso/9780198508571.003.0003
 * Smith, Barry, 1994, *Austrian Philosophy: The Legacy of Franz Brentano*, Chicago: Open Court.
-* Sperry, Roger, 1984, “Consciousness, Personal Identity, and the Divided Brain”, *Neuropsychologia*, 22(6): 661–73. doi:10.1016/0028-3932(84)90093-9
+* Sperry, Roger, 1984, “Consciousness, Personal Identity, and the Divided Brain”, *Neuropsychologia*, 22(6): 661–73. doi: 10.1016/0028-3932(84)90093-9
 * Stephens, G. Lynn & George Graham, 2000, *When Self-Consciousness Breaks: Alien Voices and Inserted Thoughts*, Cambridge MA: MIT Press.
-* Stevenson, Leslie F., 2000, “Synthetic Unities of Experience”, *Philosophy and Phenomenological Research*, 60(2): 281–306. doi:10.2307/2653487
+* Stevenson, Leslie F., 2000, “Synthetic Unities of Experience”, *Philosophy and Phenomenological Research*, 60(2): 281–306. doi: 10.2307/2653487
 * Strawson, P.F., 1966, *The Bounds of Sense*, London: Methuen Ltd.
 * Trevarthen, Colwyn, 1984, “Biodynamic Structures, Cognitive Correlates of Motive Sets and the Development of Motives in Infants”, in W. Prinz and A. F. Sanders (eds), *Cognition and Motor Processes*, Berlin: Springer-Verlag, pp. 327–350
 * Tye, Michael, 2003, *Consciousness and Persons: Unity and Identity*, Cambridge, MA: MIT Press.
 * Van Gulick, Robert, 1994, “Deficit Studies and the Function of Phenomenal Consciousness”, in George Graham and G. Lynn Stevens (eds), *Philosophical Psychopathology*, Cambridge, MA: MIT Press, pp. 25–50.
-* Weiskrantz, Lawrence, 1986, *Blindsight: A Case Study and Implications*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198521921.001.0001
-* Wilkes, Kathleen V., 1984, “Is Consciousness Important?”, *British Journal for the Philosophy of Science*, 35(3): 223–43. doi:10.1093/bjps/35.3.223
+* Weiskrantz, Lawrence, 1986, *Blindsight: A Case Study and Implications*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198521921.001.0001
+* Wilkes, Kathleen V., 1984, “Is Consciousness Important?”, *British Journal for the Philosophy of Science*, 35(3): 223–43. doi: 10.1093/bjps/35.3.223
 * Wundt, Wilhelm M., [1874] 1893, *Grundzüge der physiologischen Psychologie*, (Band I, II), Leipzig: Engelmann; translated by Edward Bradford Titchener as *Principles of Physiological Psychology*, (2 vols.), London: Allen, 1893. Page references are to the translation.
 * Zaidel, Eran, Marco Iacoboni, Dahlia W. Zaedel, and Joseph E. Bogen, 1993, “The Callosal Syndromes”, in Kenneth M. Heilman and Edward Valenstein (eds.), *Clinical Neuropsychology*, Oxford: Oxford University Press, pages 347–403.
-* Zeki, Semir, 2003, “The Disunity of Consciousness”, *Trends in Cognitive Sciences*, 7(5): 214–218. doi:10.1016/S1364-6613(03)00081-0
+* Zeki, Semir, 2003, “The Disunity of Consciousness”, *Trends in Cognitive Sciences*, 7(5): 214–218. doi: 10.1016/S1364-6613(03)00081-0
 
 ## Academic Tools
 

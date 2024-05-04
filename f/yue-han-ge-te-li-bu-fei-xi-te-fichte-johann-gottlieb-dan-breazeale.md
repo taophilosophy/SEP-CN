@@ -1,8 +1,8 @@
-# 约翰·戈特利布·费希特 Fichte, Johann Gottlieb (Dan Breazeale)
+# 约翰 · 戈特利布 · 费希特 Fichte, Johann Gottlieb (Dan Breazeale)
 
 *首次发表于 2001 年 8 月 30 日星期四；实质性修订于 2022 年 2 月 18 日星期五*
 
-受康德阅读启发，约翰·戈特利布·费希特（1762-1814）在 18 世纪末十年间发展了一种根本修订且严谨系统的唯心论形式，他称之为“科学知识学说”或“Wissenschaftslehre”。也许 Wissenschaftslehre 最具特色、同时也最具争议的特征（至少在其早期和最具影响力的版本中）是费希特试图将整个系统建立在主体性的概念之上，或者如费希特所表达的那样，“纯粹的我”。在他在耶拿大学（1794-1799）的职业生涯中，费希特在这一基础上建立了一个包括科学哲学、伦理学、法哲学或“权利”以及宗教哲学的复杂的唯灵论体系。
+受康德阅读启发，约翰 · 戈特利布 · 费希特（1762-1814）在 18 世纪末十年间发展了一种根本修订且严谨系统的唯心论形式，他称之为“科学知识学说”或“Wissenschaftslehre”。也许 Wissenschaftslehre 最具特色、同时也最具争议的特征（至少在其早期和最具影响力的版本中）是费希特试图将整个系统建立在主体性的概念之上，或者如费希特所表达的那样，“纯粹的我”。在他在耶拿大学（1794-1799）的职业生涯中，费希特在这一基础上建立了一个包括科学哲学、伦理学、法哲学或“权利”以及宗教哲学的复杂的唯灵论体系。
 
 ---
 
@@ -10,13 +10,13 @@
 
 费希特（Fichte）于 1762 年 5 月 19 日出生在萨克森州奥伯劳西茨区的拉门瑙村。他是一个贫穷而虔诚的丝带织工家庭中的长子。他非凡的智力才华很快引起了当地一位男爵的注意，后者资助他接受教育，先是在当地牧师家中，然后在著名的普福尔塔寄宿学校，最后在耶拿和莱比锡的大学学习。随着他的资助者去世，费希特被迫中断学业，成为一名私人教师谋生，这个职业很快让他感到厌恶。
 
-在苏黎世长时间逗留后，他遇见了未来的妻子约翰娜·拉恩，费希特回到莱比锡，打算追求文学事业。当他的项目失败时，他再次被迫以家庭教师的身份生存。正是在这种情况下，他开始在 1790 年夏天讲授康德哲学。他与康德著作的第一次接触使费希特自己描述为他思维方式的“革命”。在此之前，他曾在实践上致力于人类道德改善，同时在理论上致力于“可理解的宿命”，他发现在批判哲学中一种方法，可以在不要求他牺牲对人类自由信仰的情况下，将他的“头脑”和“心灵”调和在一个系统中，这个系统可以满足最高的智力标准。
+在苏黎世长时间逗留后，他遇见了未来的妻子约翰娜 · 拉恩，费希特回到莱比锡，打算追求文学事业。当他的项目失败时，他再次被迫以家庭教师的身份生存。正是在这种情况下，他开始在 1790 年夏天讲授康德哲学。他与康德著作的第一次接触使费希特自己描述为他思维方式的“革命”。在此之前，他曾在实践上致力于人类道德改善，同时在理论上致力于“可理解的宿命”，他发现在批判哲学中一种方法，可以在不要求他牺牲对人类自由信仰的情况下，将他的“头脑”和“心灵”调和在一个系统中，这个系统可以满足最高的智力标准。
 
 费希特最终来到了康斯堡，在那里住了几个月。在与康德令人失望的面谈之后，他决定通过撰写一篇关于康德尚未涉及的主题的论著来展示自己对后者哲学的掌握：即，批判哲学与任何神圣启示概念的兼容性问题。费希特在几周内撰写了一份杰出的手稿，在其中得出结论：与批判哲学一致的唯一启示是道德法则本身。康德对这位未知且贫困的年轻人的才华印象深刻，他提出安排出版费希特的手稿，这份手稿于 1792 年由康德自己的出版商出版，题为《试论一切启示的批判》。然而，这部作品的第一版出版时，由于一些从未得到令人满意解释的原因，没有作者的姓名和序言，很快被广泛认为是康德本人的作品。当其真实作者身份被揭示时，费希特立即从完全默默无闻的状态被推到哲学名人堂。
 
 费希特再次被聘为私人教师，这次是在但泽附近的一个庄园，他在那里写了几篇匿名发表的政治小册子。其中第一篇于 1793 年发表，标题颇具挑衅，名为《从欧洲君主手中夺回思想自由》。1793 年夏，费希特回到苏黎世，在那里与未婚妻结婚，并监督了他那富有活力的《对法国革命公众评判的矫正贡献》的前两期（1793 年和 1794 年）的出版。在这部作品中，他不仅捍卫了法国革命者的原则（尽管不是所有做法），还试图概述自己对合法国家权威的民主观，并坚持革命权利。尽管这些政治著作是匿名出版的，但作者的身份广为人知，费希特因此获得了一个声誉，虽然并不完全当之无愧，作为一个激进的“雅各宾派”分子。
 
-费希特完成这些项目后，他将时间花在苏黎世重新思考和修订自己的哲学立场上。尽管保持对新的批判性或康德哲学的忠诚，费希特对 K. L. 雷因霍尔为批判哲学提供更加牢固的“基础”并将整个体系建立在单一“第一原则”之上的努力印象深刻。与此同时，他熟悉了两位对康德和雷因霍尔的哲学进行怀疑性攻击的作者的作品：所罗门·迈蒙和 G. E. 舒尔策（“Aenesidemus”）。正是对这些作者的尖锐批评的需要最终促使费希特构建了自己独特的形而上学唯心主义版本，于 1794 年春季，他最终创造了“Wissenschaftslehre”（“科学学说”或“科学知识理论”）这一名称。在 1793/94 年冬季，他撰写了一份长篇手稿，“关于基础哲学/实践哲学的私人沉思”，在其中阐述了他新体系的一些基本特征。1794 年 2 月和 3 月，他在苏黎世向一小群有影响力的牧师和知识分子进行了一系列关于他哲学构想的私人讲座。
+费希特完成这些项目后，他将时间花在苏黎世重新思考和修订自己的哲学立场上。尽管保持对新的批判性或康德哲学的忠诚，费希特对 K. L. 雷因霍尔为批判哲学提供更加牢固的“基础”并将整个体系建立在单一“第一原则”之上的努力印象深刻。与此同时，他熟悉了两位对康德和雷因霍尔的哲学进行怀疑性攻击的作者的作品：所罗门 · 迈蒙和 G. E. 舒尔策（“Aenesidemus”）。正是对这些作者的尖锐批评的需要最终促使费希特构建了自己独特的形而上学唯心主义版本，于 1794 年春季，他最终创造了“Wissenschaftslehre”（“科学学说”或“科学知识理论”）这一名称。在 1793/94 年冬季，他撰写了一份长篇手稿，“关于基础哲学/实践哲学的私人沉思”，在其中阐述了他新体系的一些基本特征。1794 年 2 月和 3 月，他在苏黎世向一小群有影响力的牧师和知识分子进行了一系列关于他哲学构想的私人讲座。
 
 他在这一刻收到了一份邀请，接任耶拿大学空缺不久的批判哲学教授职位，耶拿大学正迅速崛起为新德国哲学的中心。费希特于 1794 年 5 月抵达耶拿，并在那里取得了巨大的成功，持续了六年，期间奠定了他新体系的基础并发展了第一个系统化的表达。即使他忙于这项巨大的理论工作，他也试图面向更广泛的受众，并投身于各种改革大学生活的实践努力。正如一位困惑的同事所观察到的，“他是一个不安分的灵魂；他渴望有机会在世界上行动。费希特希望运用他的哲学来引导他所处时代的精神。”事实上，对“产生影响”的热切渴望仍然是费希特性格的一个核心特征，尤其是十年后在 1806 年法国占领期间在柏林发表的著名《致德意志民族的演讲》中最为显著地表达出来。在耶拿，这种渴望也体现在他开始在抵达耶拿后立即开始的广受欢迎的“学者道德”公开讲座系列中。这些讲座的前五篇于 1794 年出版，题为《关于学者使命的一些讲座》。
 
@@ -28,7 +28,7 @@
 
 费希特在彻底修订他系统的基础部分的同时，也同时致力于阐述相同系统的各个分支或系统分支。按照他的习惯，他首先在私人讲座中这样做，然后根据相同的内容在出版的文本中这样做。第一个这样的延伸是进入法哲学和社会哲学领域，结果是根据《Wissenschaftslehre》原则出版了《自然权利基础》（1796 年和 1797 年分两卷出版）。第二个延伸是进入道德哲学领域，结果是根据《Wissenschaftslehre》原则出版了《伦理体系》（1798 年）。费希特随后计划将他的系统扩展到宗教哲学领域。事实上，他宣布在 1799 年春季学期就这个主题进行讲座，但在他开始这些讲座之前，他在耶拿的职业生涯在 1798/99 年所谓的“无神论争议”之后突然而不幸地结束了。
 
-在 1798 年，约翰·戈特利布·费希特在他的《哲学杂志》上发表了一篇简短的论文《关于我们对神圣世界管理信仰的基础》，试图勾勒出他关于标题所指主题的一些初步想法，并同时首次明确公开暗示了一种“符合科学教义原则”的宗教哲学的性质。这篇论文的契机是《哲学杂志》同一期刊上发表的另一篇论文，作者是 K·L·福尔贝格。恰逢其时，这两篇论文激发了一位匿名作者发表了一本小册子，指责这两篇论文的作者是无神论者，并要求解雇费希特在耶拿的职务。这一事件迅速升级为一场重大的公开争论，最终导致该期刊被官方封禁，以及各个德国王子公开威胁阻止他们的学生入读耶拿大学。由这些行动引发的危机以及支持和反对费希特的出版物数量不断增加，其中包括费希特本人在 1799 年发表的一篇激烈的《向公众呼吁》，以及一篇更加深思熟虑的回应，名为《来自私人信函》（1799 年），最终激发了 F·H·雅各比发表了他著名的致费希特的“公开信”，在其中将哲学总论以及费希特的先验哲学特别等同于“虚无主义”。随着公开争论的展开，费希特严重误判了自己的立场，最终被迫辞去耶拿的职务，并逃往柏林，在 1799 年夏天抵达那里。
+在 1798 年，约翰 · 戈特利布 · 费希特在他的《哲学杂志》上发表了一篇简短的论文《关于我们对神圣世界管理信仰的基础》，试图勾勒出他关于标题所指主题的一些初步想法，并同时首次明确公开暗示了一种“符合科学教义原则”的宗教哲学的性质。这篇论文的契机是《哲学杂志》同一期刊上发表的另一篇论文，作者是 K·L· 福尔贝格。恰逢其时，这两篇论文激发了一位匿名作者发表了一本小册子，指责这两篇论文的作者是无神论者，并要求解雇费希特在耶拿的职务。这一事件迅速升级为一场重大的公开争论，最终导致该期刊被官方封禁，以及各个德国王子公开威胁阻止他们的学生入读耶拿大学。由这些行动引发的危机以及支持和反对费希特的出版物数量不断增加，其中包括费希特本人在 1799 年发表的一篇激烈的《向公众呼吁》，以及一篇更加深思熟虑的回应，名为《来自私人信函》（1799 年），最终激发了 F·H· 雅各比发表了他著名的致费希特的“公开信”，在其中将哲学总论以及费希特的先验哲学特别等同于“虚无主义”。随着公开争论的展开，费希特严重误判了自己的立场，最终被迫辞去耶拿的职务，并逃往柏林，在 1799 年夏天抵达那里。
 
 普鲁士首府当时没有自己的大学，费希特被迫通过提供私人辅导和关于《科学教义》的讲座以及新一轮的文学创作来维持生计，这些作品越来越倾向于面向广大受众。这些“通俗”著作中的第一部是对费希特体系的一些特征性教义和结论的精彩展示，强调了其道德和宗教性质。这部作品《人的天职》（1800 年）也许是费希特最伟大的文学成就，旨在间接回应雅各比对《科学教义》的公开否定。同年还出版了一部典型的大胆涉足政治经济学的作品《封闭的商业国家》，费希特在其中提出了一种社会主义政治观念和自给自足的经济原则的奇特融合。然而，在这一时期，捍卫其哲学免受误解仍然是费希特的主要关注点，这一点可以从他直接回应雅各比的作品中得到证明，该作品名为《向广大公众发表的晴朗报告，关于最新哲学的实际特性：一次迫使读者理解的尝试》（1801 年）。
 
@@ -38,7 +38,7 @@
 
 1806 年法国占领柏林后，费希特加入了普鲁士流亡政府在康斯贝格，他在那里进行了另一系列关于《科学教义》的讲座，并写了一本重要的短篇著作《作为作者的马基雅维利》（1807 年），该书捍卫了一种实用政治，至少在表面上与费希特早期政治著作中的自由主义和政治理想主义形成鲜明对比。然而，费希特很快回到了被占领的柏林，在 1807/8 年冬季，他发表了著名的《致德意志国民的演讲》（1808 年出版）。尽管这些讲座后来在德国民族主义史上获得了一个有争议的地位作为奠基文件，但它们主要关注国家认同的问题（特别是语言与国籍之间的关系）和国民教育的问题（这是该作品的主题）——费希特将这两者都视为通往更大的世界性目标的手段。
 
-费希特一直对教育问题充满浓厚兴趣，并在筹划在柏林建立的新普鲁士大学中扮演领导角色（尽管他自己的详细计划最终被威廉·冯·洪堡提出的计划所取代）。当新大学最终于 1810 年开放时，费希特成为哲学系的首任系主任，也是大学首位当选的校长。他的最后几年，无论是公共活动还是哲学探索的速度都没有减缓。他继续撰写关于自己体系基础和第一原则的新讲座，以及关于哲学的新导论讲座（《逻辑与哲学》[1812]和《意识的事实》[1813]），政治哲学（《权利学说体系》[1812]和《国家学说》[1813]）以及伦理学（《伦理理论体系》[1812]）。也许早期关于马基雅维利的著作已经预示，这些晚期对实践哲学领域的涉足展现出对人性更为悲观的看法，并捍卫了比费希特早期有关这些主题的著作中所能找到的更为威权主义的国家观。
+费希特一直对教育问题充满浓厚兴趣，并在筹划在柏林建立的新普鲁士大学中扮演领导角色（尽管他自己的详细计划最终被威廉 · 冯 · 洪堡提出的计划所取代）。当新大学最终于 1810 年开放时，费希特成为哲学系的首任系主任，也是大学首位当选的校长。他的最后几年，无论是公共活动还是哲学探索的速度都没有减缓。他继续撰写关于自己体系基础和第一原则的新讲座，以及关于哲学的新导论讲座（《逻辑与哲学》[1812] 和《意识的事实》[1813]），政治哲学（《权利学说体系》[1812] 和《国家学说》[1813]）以及伦理学（《伦理理论体系》[1812]）。也许早期关于马基雅维利的著作已经预示，这些晚期对实践哲学领域的涉足展现出对人性更为悲观的看法，并捍卫了比费希特早期有关这些主题的著作中所能找到的更为威权主义的国家观。
 
 在 1813 年，费希特取消了他的讲座，以便让他的学生参加反对拿破仑的“解放战争”，而费希特本人则成为了间接的受害者。他从妻子那里感染了一种致命的感染病，妻子当时在柏林的一家军事医院当志愿护士，费希特于 1814 年 1 月 29 日因此去世。几乎直到他去世的那一刻，他都在继续他一生的努力，重新思考和重新审视他哲学的基本基础和系统性含义，这在他记录了自己在这一最后时期的思想的杰出哲学“日记”中表现得深刻动人。
 
@@ -48,7 +48,7 @@
 
 费希特坚持在澄清超越哲学的任务和方法时，强调自然意识的“立场”（哲学的任务是“推导”和因此“解释”）与超越反思的立场之间的明显区别，后者是哲学家所需的立场。因此，他坚持认为超越唯心主义与日常生活的常识现实主义之间并无冲突。相反，前者的整个重点在于证明后者的必要性和不可得性。
 
-然而，费希特的企图可能在精神上是康德式的，但与此同时，他对康德在这一项目执行中所认为的某些明显的弱点和不足非常敏感。费希特深刻体会到了诸如 F. H.雅各比、萨洛蒙·迈蒙和 G. E.舒尔泽等同时代人的批评，他提出了对批判哲学进行了根本性修订的版本。首先，他认为“物自体”的概念本身，即作为感觉的心灵独立的外部“原因”，在批判性的基础上是站不住脚的。此外，他认为康德对“智力直觉”的可能性的否定，虽然在否定对外部对象的任何非感官意识的可能性方面是合理的，但却难以与康德关于“我”作为（理论上）认知主体（悟性观念的学说）和作为（实际上）努力的道德行为者（范畴命题学说）的某些其他康德学说相协调。
+然而，费希特的企图可能在精神上是康德式的，但与此同时，他对康德在这一项目执行中所认为的某些明显的弱点和不足非常敏感。费希特深刻体会到了诸如 F. H.雅各比、萨洛蒙 · 迈蒙和 G. E.舒尔泽等同时代人的批评，他提出了对批判哲学进行了根本性修订的版本。首先，他认为“物自体”的概念本身，即作为感觉的心灵独立的外部“原因”，在批判性的基础上是站不住脚的。此外，他认为康德对“智力直觉”的可能性的否定，虽然在否定对外部对象的任何非感官意识的可能性方面是合理的，但却难以与康德关于“我”作为（理论上）认知主体（悟性观念的学说）和作为（实际上）努力的道德行为者（范畴命题学说）的某些其他康德学说相协调。
 
 他对 K. L. Reinhold 的著作的研究使费希特相信，批判哲学的系统统一——特别是理论和实践理性的统一，第一和第二批判的统一——在康德自己对其哲学的阐述中并不足够明显，而展示所讨论的统一最有前途的方式将是为理论和实践哲学提供一个共同的基础。因此，费希特得出结论，哲学的第一个任务是发现一个单一、不言自明的起点或第一原则，从这个起点可以“推导”出理论和实践哲学，也就是说，我们对自己作为有限认知者和有限行动者的经验。这样的策略不仅可以保证哲学本身的系统统一，更重要的是，它还可以展示康德所暗示但从未证明的东西：即，理性本身的基本统一。
 
@@ -62,7 +62,7 @@
 
 这两种相对立的起点所带来的两种哲学策略，被费希特在他 1797 年的两篇《Wissenschaftslehre 导论》中深刻描绘出来，其中他将以纯粹的“我”开始的哲学描述为“唯心主义”，以以物自身开始的哲学描述为“独断论”。由于根据费希特早期在《关于 Wissenschaftslehre 概念》中的论证，一个统一的哲学体系只能有一个第一原则，而且只有两种可能的第一原则，因此可以得出结论，没有可能存在“混合”的唯心主义/独断论体系。此外，由于费希特理解的独断论不可避免地意味着一种严格的决定论或“可知的宿命论”，而唯心主义从一开始就致力于人类自由的现实，因此在这两种根本相反的体系之间达成任何形式的“妥协”也是实际上不可能的。
 
-费希特承认，无论是教条主义还是唯心主义都无法直接驳斥其对立面，因此他认识到，哲学起点之间的选择永远无法仅仅在理论上解决，然而他否认任何教条系统，也就是说，任何以纯客观性概念开始的系统都无法成功完成哲学所要求的任务。他认为，教条主义永远无法提供普通意识的超验演绎，因为为了完成这一点，它必须从“事物”的领域非法跃升到心智事件或“表象”[Vorstellungen]的领域。相反，至少在正确理解为展示智力本身必须按照某些必要法则运作的那种批判唯心主义的情况下，唯心主义可以——至少在原则上——完成哲学的规定任务，并解释我们对客体的经验（“伴随着必然性感觉的表象”）以智力本身的必要运作来解释，而无需非法诉诸于事物本身。当然，人们无法事先决定从纯粹自由自我意识的概念中是否真正可能推导出任何经验。费希特承认，这只能在涉及系统的构建之后才能决定。在那之前，人们只能假设人类自由原则，尽管在实践上是确定的，也是超验客体经验的适当起点。
+费希特承认，无论是教条主义还是唯心主义都无法直接驳斥其对立面，因此他认识到，哲学起点之间的选择永远无法仅仅在理论上解决，然而他否认任何教条系统，也就是说，任何以纯客观性概念开始的系统都无法成功完成哲学所要求的任务。他认为，教条主义永远无法提供普通意识的超验演绎，因为为了完成这一点，它必须从“事物”的领域非法跃升到心智事件或“表象”[Vorstellungen] 的领域。相反，至少在正确理解为展示智力本身必须按照某些必要法则运作的那种批判唯心主义的情况下，唯心主义可以——至少在原则上——完成哲学的规定任务，并解释我们对客体的经验（“伴随着必然性感觉的表象”）以智力本身的必要运作来解释，而无需非法诉诸于事物本身。当然，人们无法事先决定从纯粹自由自我意识的概念中是否真正可能推导出任何经验。费希特承认，这只能在涉及系统的构建之后才能决定。在那之前，人们只能假设人类自由原则，尽管在实践上是确定的，也是超验客体经验的适当起点。
 
 费希特的《科学教义》的起点的真实性不能通过任何哲学手段来确立，包括其作为哲学第一原则的实用性。相反——这是费希特最具特色和争议性的主张之一——一个人在进入构成《科学教义》的推论和论证链之前，必须在完全超出哲学范畴的基础上相信自己的自由的现实性。这就是费希特经常引用的断言“一个人选择的哲学取决于一个人的品格”之意。唯一令人信服的理由，为什么唯灵论者在“我自由地假定自己”这一命题上停下来，并因此以此开始他的体系，不是因为他无法对此产生理论上的怀疑，也不是因为他简单地无法继续反思抽象的过程。相反，他援引了费希特在其论文《我们对世界道德治理的信仰基础》中雄辩表达的原则，即：“我不能超越这个立场，因为我不被允许这样做。”正是因为范畴命题被这种方式地调用来确立他整个体系的第一原则，费希特才有资格宣称《科学教义》是“符合职责”的唯一哲学体系。
 
@@ -86,7 +86,7 @@
 
 I 必须对自身进行设定，才能成为一个 I；但它只能在将自己设定为有限（因此与自身相对立，因为它也将自己设定为无限或“绝对”）的情况下对自己进行设定。此外，它甚至不能为自己设定自己的限制，即不能产生或创造这些限制。有限的 I（智力）不能成为自身被动性的基础。根据费希特的分析，如果 I 要对自己进行设定，它必须简单地发现自己是有限的，费希特将这种发现描述为对 I 的自由、实践活动的一种“阻碍”或 Anstoß。然而，这种 I 的原始限制只有在 I 将其设定为这样的限制时才对 I 产生限制。根据费希特的分析，I 通过将自己的限制首先设定为一种简单的“感觉”，然后设定为一种“感觉”，再然后设定为一种事物的“直觉”，最后设定为一个“概念”来做到这一点。因此，Anstoß 提供了最初引发整个复杂活动系列的重要场合或推动力，最终导致我们对自己作为经验个体以及关于时空物质对象世界的意识体验。
 
-尽管这种 Anstoß的学说在费希特的哲学中似乎扮演着类似康德体系中物自体所扮演的角色，但根本区别在于：Anstoß并非对我而言是外来的。相反，它表示我原初地遭遇到自身的有限性。费希特认为，与其声称非我是 Anstoß的原因或基础，不如说前者是由我所假定的，正是为了“解释”给自己后者，也就是为了意识到后者。尽管《科学教义》表明，如果要实现自我意识，这样的 Anstoß必须发生，但超越论哲学本身无法推导或解释这种 Anstoß的实际发生——除非将其视为意识可能性的条件。因此，任何先验经验的推导都有严格的限制。根据费希特的观点，超越论哲学可以解释，例如，为什么世界具有时空特性和因果结构，但它永远无法解释为什么对象具有它们所具有的特定感性属性，或者为什么我是这个确定的个体而不是另一个。这是我必须同时发现的事情，同时也是我发现自由的条件。 （然而必须承认，费希特对他的项目的雄心勃勃的描述有时会掩盖其本质的限制，有时会给他的读者一种错误的印象，即《科学教义》旨在提供对经验的所有经验细节的完整先验推导。然而，这显然并非事实。）
+尽管这种 Anstoß 的学说在费希特的哲学中似乎扮演着类似康德体系中物自体所扮演的角色，但根本区别在于：Anstoß 并非对我而言是外来的。相反，它表示我原初地遭遇到自身的有限性。费希特认为，与其声称非我是 Anstoß 的原因或基础，不如说前者是由我所假定的，正是为了“解释”给自己后者，也就是为了意识到后者。尽管《科学教义》表明，如果要实现自我意识，这样的 Anstoß 必须发生，但超越论哲学本身无法推导或解释这种 Anstoß 的实际发生——除非将其视为意识可能性的条件。因此，任何先验经验的推导都有严格的限制。根据费希特的观点，超越论哲学可以解释，例如，为什么世界具有时空特性和因果结构，但它永远无法解释为什么对象具有它们所具有的特定感性属性，或者为什么我是这个确定的个体而不是另一个。这是我必须同时发现的事情，同时也是我发现自由的条件。 （然而必须承认，费希特对他的项目的雄心勃勃的描述有时会掩盖其本质的限制，有时会给他的读者一种错误的印象，即《科学教义》旨在提供对经验的所有经验细节的完整先验推导。然而，这显然并非事实。）
 
 尽管这一重要的限制适用于超越论哲学的范围，但在《科学教义》的基础部分仍有许多可以证明的内容。例如，可以表明，除非“我”也具有原始和自发地将有限与无限综合的能力，否则“我”无法意识到自己的极限，这是任何自我意识的可能性所必需的方式。在这个意义上，《科学教义》推导出生产想象力作为心灵的原始力量。同样，可以表明，除非“我”除了具有原始的“理论”生产想象力之外，还具有同样原始的“实践”意志力，否则“我”无法以所需的方式被“检查”，以便意识的可能性，一旦“检查”就立即转化为无尽奋斗的能力。因此，《科学教义》的基础部分还包括对范畴命题的推导（尽管以特别抽象和道德上空洞的形式）以及对“我”的实践力量的推导。对于费希特来说，“实践的首要性”意味着哲学不仅必须承认在其中实践理性有效且实践考虑得当的某种自治领域；相反，它意味着更强烈的东西：即，正如费希特所说，“实践力量是‘我’的最内在根源”，因此“我们的自由本身是我们世界的理论决定原则”。因此，整个《科学教义》可以被描述为一项巨大的努力，证明理性如果不是实践的话，它就不能是理论的——同时，当然也证明了理性如果不是理论的话，它也不能是实践的。
 
@@ -104,7 +104,7 @@ I 必须对自身进行设定，才能成为一个 I；但它只能在将自己�
 
 费希特的《伦理学体系》与其在耶拿时期的所有系统论著一样，始于对自我实现的详细分析。在这种情况下，重点在于自我必须为自身的活动或“效力”做出自我设定的必要性，以及对如何做到这一点的条件进行详细分析。费希特以此推导出他所称的“所有实践哲学的原则”，即，客观事物（一种存在）源自主观事物（一个概念），因此自我必须将自由的目的性或因果力归因于自身在感性世界中的力量。自我必须将自己设定为一个具有身体的意志，只有这样，它才能“发现”自己。从这一出发点出发，费希特进而推导出道德原则：即，我必须将我的自由看作受某种必要法则或范畴命令支配，费希特称之为“自给自足法则”或“自律”，并且我应始终根据这一法则决定我的自由。因此，这就是费希特所理解的“伦理学”哲学科学的任务：提供我们道德本质和作为人类的具体职责的先验推导。
 
-从实践哲学的角度来看，世界实际上不过是费希特曾经描述为“我们职责的材料变得可感知”的东西，这正是道德上投入、实际上努力的主体所采纳的观点。另一方面，这并不是看待世界的唯一方式，更具体地说，这并不是唯一被先验哲学所构建的方式。因此，将整个《科学教义》描述为“伦理理想主义”的系统有些误导性。正如上文所述，费希特确实成功地构建了一个意识的描述，充分将实践理性的命令和活动融入到后者的结构中，但这种整合始终受到对理论理性的构成作用和“我”的原始确定性的纯粹、偶然的“给定性”（Anstoß学说）的认可所平衡。
+从实践哲学的角度来看，世界实际上不过是费希特曾经描述为“我们职责的材料变得可感知”的东西，这正是道德上投入、实际上努力的主体所采纳的观点。另一方面，这并不是看待世界的唯一方式，更具体地说，这并不是唯一被先验哲学所构建的方式。因此，将整个《科学教义》描述为“伦理理想主义”的系统有些误导性。正如上文所述，费希特确实成功地构建了一个意识的描述，充分将实践理性的命令和活动融入到后者的结构中，但这种整合始终受到对理论理性的构成作用和“我”的原始确定性的纯粹、偶然的“给定性”（Anstoß 学说）的认可所平衡。
 
 ### 4.4 法哲学 (Recht)
 
@@ -136,7 +136,7 @@ I 必须对自身进行设定，才能成为一个 I；但它只能在将自己�
 
 在十九世纪的大部分时间里，从黑格尔对现代哲学史的自利解释开始，费希特的《科学教义》通常被纳入更广泛的德国唯心主义历史之中。费希特的《科学教义》被谢林和黑格尔批评为一种片面的“主观”唯心主义，是“反思哲学”的一个典型实例，几乎普遍被视为从“康德到黑格尔”阶梯上被取代的一环，因此被赋予纯粹的历史意义。尽管在这一时期《科学教义》可能被忽视了，但费希特并没有完全被遗忘，作为《致德意志民族的演说》的作者，他仍然具有影响力，并且被视为现代泛德国民族主义的奠基人之一，时而受到赞扬，时而受到谴责。
 
-在整个 20 世纪的大部分时间里，这种情况也同样存在，费希特的命运似乎与德国的命运紧密相连。特别是在前两次世界大战之前、期间和之后的漫长时期内，费希特几乎只在德国政治和民族认同的背景下被讨论，他的技术哲学往往被视为一种与当代哲学毫无关联的怪诞或滑稽的推测性偏差。当然，也有一些例外，像弗里茨·梅迪库斯、马蒂亚尔·盖鲁和马克斯·温特这样的作者，在 20 世纪上半叶认真对待费希特作为一位哲学家，并对他的思想研究做出了持久的贡献。但是，对费希特研究的真正繁荣是在过去的六十年中才出现的，这段时间内，费希特的《科学教义》再次成为引起强烈哲学审视和全球范围内活跃讨论的对象——正如在欧洲、日本和北美建立了致力于费希特的大型和活跃的专业学会所证明的那样。
+在整个 20 世纪的大部分时间里，这种情况也同样存在，费希特的命运似乎与德国的命运紧密相连。特别是在前两次世界大战之前、期间和之后的漫长时期内，费希特几乎只在德国政治和民族认同的背景下被讨论，他的技术哲学往往被视为一种与当代哲学毫无关联的怪诞或滑稽的推测性偏差。当然，也有一些例外，像弗里茨 · 梅迪库斯、马蒂亚尔 · 盖鲁和马克斯 · 温特这样的作者，在 20 世纪上半叶认真对待费希特作为一位哲学家，并对他的思想研究做出了持久的贡献。但是，对费希特研究的真正繁荣是在过去的六十年中才出现的，这段时间内，费希特的《科学教义》再次成为引起强烈哲学审视和全球范围内活跃讨论的对象——正如在欧洲、日本和北美建立了致力于费希特的大型和活跃的专业学会所证明的那样。
 
 斯特林曾经说过：“费希特有两个哲学时期；如果两者都属于传记，那么只有一个属于历史。”直到最近，这种观察仍然有很大的道理。事实上，即使在今天，费希特在耶拿后期的技术著作仍然为绝大多数哲学家所不熟悉。诚然，很难认出这些晚期文本——这些文本放弃了以自我分析开始的策略，以及对“实践的优先性”强调，包括毫不掩饰地提到一个明显超越的“绝对”（“存在”，“绝对存在”，“上帝”）——是同一位写下《整个知识学基础》的作者的作品。尽管费希特本人始终坚称他的基本哲学保持不变，无论他对此的表述在多年间如何改变，但许多有同情心的读者和不少见多识广的学者发现很难将这一说法与“早期”和“晚期”知识学之间表面上看起来的深刻系统和教义差异调和起来。因此，费希特思想的问题性“统一”仍然受到该领域专家的激烈讨论。
 
@@ -155,71 +155,71 @@ Editions of Fichte’s Complete Works in German
 ### Individual Works and English translations
 
 * *Versuch einer Kritik aller Offenbarung*, 1792; 2nd ed., 1793.
-  * *Attempt at a Critique of All Revelation*, trans. Garrett Green, New York: Cambridge University Press, 1978*.*
+  * *Attempt at a Critique of All Revelation*, trans. Garrett Green, New York: Cambridge University Press, 1978 *.*
 * *Beitrag zur Berichtigung der Urteile des Publikums über die französische Revolution*, 1793.
   * *Contribution to the Correction of the Public's Judgment on the French Revolution*, trans. Jeffrey Church and anna Marisa Schön. Albany: State University of New York Press, 2021.
 * *[Rezension:] Leonard Creuzer, Skeptische Betrachatungen über die Freiheit des Willens mit Hinsicht auf die neuestenh Theoreien dieselben*, 1793.
   * “Creuzer Review,” trans. Daniel Breazeale, *The Philosophical Forum* 32 (2001): 289–96.
 * *[Rezension: Friedrich Heinrich Gebhard, Ueber die sittliche Güte aus uninteresssirtem Wohlwollen*, 1793.
-  * “Gebhard Review,” trans. Daniel Breazeale, *The Philosophical Forum* 32 (2001): 297–310),
-* *[Rezension:] Aenesidemus*, 1794.
-  * “*Aenesidemus* Review.” In *Fichte: Early Philosophical Writings* (= *EPW*), trans. and ed. Daniel Breazeale, Ithaca: Cornell University Press, 1988, 2nd ed., 1993.
-* *Zuricher Vorlesungen über den Begriff der Wissenschaftslehre*, 1794*.*
-  * “The Zurich *Wissenschaftslehre,”* trans. Daniel Breazeale, in Fichte, *Foundation of the Entire Wissenschaftslehre and Related Writings (1794–95).* ed. and trans. Daniel Breazeale. Oxford: Oxford University Press, 2021 (hencefore = *FWL)*
-* *Ueber den Begriff der Wissenschaftslehre*, 1794, 2nd ed. 1798.
-  * *Concerning the Concept of the Wissenschaftslehre*, trans. Breazeale, in *EPW*. Rev. version in
-* *Einige Vorlesungen über die Bestimmung des Gelehrten*, 1794.
-  * *Some Lectures Concerning the Scholar’s Vocation*, trans. Breazeale, in *EPW*.
-* *Grundlage der gesamten Wissenschaftslehre*, 1794/95; 2nd edn. 1802;
-  * *Foundation of the Entire Wissenschaftslehre*, trans. Breazeale, in *FWL.*
-  * *Science of Knowledge*, trans. Peter Heath. In *Fichte: Science of Knowledge (Wissenschaftslehre)*, ed. Peter Heath and John Lachs, New York: Appleton-Century-Crofts, 1970; 2nd ed., Cambridge: Cambridge University Press, 1982 (= *SK*).
-* *Grundriß des Eigenthümlichen der Wissenschaftslehre in Rücksicht auf das theoretische Vermögen*, 1795.
-  * *Outline of the Distinctive Character of the Wissenschaftslehre with respect to the Theoretical Faculty*, trans. Breazeale, in *EPW;* rev. version in *FWL.*
-* *Von der Sprachfähigkeit und dem Ursprung der Sprache*, 1795.
-  * “On the Linguistic Capacity and the Origin of Language,” trans. Jerry Surber, in *Language and German Idealism: Fichte’s Linguistic Philosophy*, New Jersey: Humanities Press, 1996, pp. 119–45.
-* *Wissenschaftslehre nova methodo*, 1796–1799.
-  * *Foundations of Transcendental Philosophy (Wissenschaftslehre) nova methodo*, trans. and ed. Daniel Breazeale, Ithaca: Cornell University Press, 1992.
-* *[Rezension:] Kant, Zum ewigen Frieden: Ein philosophisher Entwurf*, 1796.
-  * “Review of Kant, *Perpetual Peace,”* trans. Daniel Breazeale, *The Philosophical Forum* 32 (2001): 311–21.
-* *Grundlage des Naturrechts nach Principien der Wissenschaftslehre*, 1796/97.
-  * *Foundations of Natural Right*, ed. Frederick Neuhouser, trans. Michael Baur, Cambridge: Cambridge University Press, 2000.
-* *Versuch einer neuen Darstellung der Wissenschaftslehre:* “Erste” und “Zweite Einleitung,” 1797; “Erste Capitel,” 1798.
-  * *Attempt at a New Presentation of the Wissenschaftslehre*. In *Introductions to the Wissenschaftslehre and Other Writings (1797–1800)* [henceforth = *IWL*], ed. and trans. Daniel Breazeale, Indianapolis: Hackett, 1994.
-  * “First and Second Introductions to *The Science of Knowledge*”, trans. Peter Heath, in *SK.*
-* *Das System der Sittenlehre nach den Principien der Wissenschaftslehre*, 1798.
-  * *The System of Ethics in accordance with the Principles of the Wissenschaftslehre*, ed. and trans. Daniel Breazeale and Günter Zöller, Cambridge: Cambridge University Press, 2005.
-* *Ueber den Grund unsers Glaubens an eine göttliche Weltregierung*, 1798.
-  * “On the Basis of our Belief in a Divine Governance of the World,” trans. Breazeale, in *IWL*.
-* J. G. Fichte’s D. Phil. *Doctors und Ordentlichen Professors zu Jena Appelation an das Publikum über die durch ein Kurf. Sächs. Confiscationsresccript ihm Beigemessenen Atheistischen Aeusserungen*, 1799,
-  * *J. G. Fichte: Appeal to the Public*, trans. Curtis Bowman, in *J. G. Fichte and the Atheism Dispute (1798–1800*, ed. Yolanda Estes and Curtis Bowman, Burlington, VT: Ashgate, 2010, pp. 85–125.
-* *Der Herausgeber des Philosophischen Journals gerichtliche Verantwortungschriften gegen die Anglage des Atheisums*, 1799.
-  * *J. G. Fichte: Juridical Defense*, trans. Curtis Bowman, in *J. F. Fichte and the Atheism Dispute*, pp. 145–204.
-* *Aus einem Privatschreiben*, 1800.
-  * “From a Private Letter,” trans. Breazeale, in *IWL*.
-* *Die Bestimmung des Menschen*, 1800.
-  * *The Vocation of Man*, trans. Peter Preuss, Indianapolis: Hackett, 1987.
-* *Der geschlossene Handelstaat*, 1800.
-  * *The Closed Commercial State*, trans. Anthony Curtis Adler, Albany, SUNY Press, 2012.
-* *Sonnenklarer Bericht an das größere Publikum über das eigentliche Wesen der neuesten Philosophie. Ein Versuch, die Leser zum Verstehen zu zwingen*, 1801.
-  * *A Crystal Clear Report to the General Public Concerning the Actual Essence of the Newest Philosophy: An Attempt to Force the Reader to Understand*, trans. John Botterman and William Rash, in *Philosophy of German Idealism*, ed. Ernst Behler, New York: Continuum, 1987.
-* *Neue Darstellung der Wissenschaftslehre* (1800). *New Version of the Wissenschaftslehre*, 1800,
-  * Partial translation by David Wood, in *The Philosopical Rupture between Fichte and Schelling: Selected Texts and Correspondence (1800–1802)*, trans. and ed. Michael G. Vater and David W. Wood, Albany, Albany, Suny Press, 2012.
-* *Wissenschaftlehre 1804*, second series, 1804.
-  * *The Science of Knowing: Fichte’s 1804 Lectures on the Wissenschaftslehre*, trans. Walter E. Wright, Albany: State University of New York Press, 2005.
-* *Der Grundzüge des gegewärtigen Zeitalters*, 1806.
-  * *The Characteristics of the Present Age*, in *The Popular Works of Johann Gottlieb Fichte* [henceforth = *PWF*], trans. William Smith, ed. and with an introduction by Daniel Breazeale, Bristol, England: Thoemes Press, 1999. [These translations were original published between 1848 and 1889.]
-* *Über des Wesen des Gelehrten, und seine Erscheinungen im Gebiete der Freiheit* (1806).
-  * *On The Nature of the Scholar and Its Manifestations*, trans. Smith, in *PWF*.
-* *Die Anweisung zum sieligen Leben, oder auch die Religionslehre*, 1806.
-  * *The Way Towards the Blessed Life; or, the Doctrine of Religion*, trans. Smith, in *PWF*.
-* *Reden an die deutsche Nation* (1808).
-  * *Addresses to the German Nation*, trans. Gregory Moore, Cambridge: Cambridge University Press, 2008.
-  * *Adresses to the German Nation*, trans. Isaac Nakhimovsky, Bela Kapossy, and Keith Tribe, Indianapolis, IN: Hackett, 2013.
-* *Die Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt*, 1810.
-  * “The Science of Knowledge in its General Outline,” trans. Walter E. Wright, *Idealistic Studies*, 6 (1976): 106–117.
-* *Sittenlehre 1812*, 1812.
-  * *Lectures on the Theory of Ethics (1812)*, trans. Benjamin D. Crowe, Albany: SUNY Press, 2015,
-* *Briefwechsel*, 1790–1802. See the selections from Fichte’s correspondence from 1792–1799, trans. Breazeale, in EPW and the selections from his 1800–1801 correspondence with Schelling, trans. Wood, in *The Philosophical Rupture between Fichte and Schelling*.
+  * “Gebhard Review,” trans. Daniel Breazeale, * The Philosophical Forum* 32 (2001): 297–310),
+* * [Rezension:] Aenesidemus*, 1794.
+  * “* Aenesidemus * Review.” In * Fichte: Early Philosophical Writings * (= * EPW*), trans. and ed. Daniel Breazeale, Ithaca: Cornell University Press, 1988, 2nd ed., 1993.
+* * Zuricher Vorlesungen über den Begriff der Wissenschaftslehre *, 1794*.*
+  * “The Zurich * Wissenschaftslehre,”* trans. Daniel Breazeale, in Fichte, * Foundation of the Entire Wissenschaftslehre and Related Writings (1794–95).* ed. and trans. Daniel Breazeale. Oxford: Oxford University Press, 2021 (hencefore = * FWL)*
+* * Ueber den Begriff der Wissenschaftslehre*, 1794, 2nd ed. 1798.
+  * * Concerning the Concept of the Wissenschaftslehre *, trans. Breazeale, in * EPW*. Rev. version in
+* * Einige Vorlesungen über die Bestimmung des Gelehrten*, 1794.
+  * * Some Lectures Concerning the Scholar’s Vocation *, trans. Breazeale, in * EPW*.
+* * Grundlage der gesamten Wissenschaftslehre*, 1794/95; 2nd edn. 1802;
+  * * Foundation of the Entire Wissenschaftslehre *, trans. Breazeale, in * FWL.*
+  * * Science of Knowledge *, trans. Peter Heath. In * Fichte: Science of Knowledge (Wissenschaftslehre)*, ed. Peter Heath and John Lachs, New York: Appleton-Century-Crofts, 1970; 2nd ed., Cambridge: Cambridge University Press, 1982 (= * SK*).
+* * Grundriß des Eigenthümlichen der Wissenschaftslehre in Rücksicht auf das theoretische Vermögen*, 1795.
+  * * Outline of the Distinctive Character of the Wissenschaftslehre with respect to the Theoretical Faculty *, trans. Breazeale, in * EPW; * rev. version in * FWL.*
+* * Von der Sprachfähigkeit und dem Ursprung der Sprache*, 1795.
+  * “On the Linguistic Capacity and the Origin of Language,” trans. Jerry Surber, in * Language and German Idealism: Fichte’s Linguistic Philosophy*, New Jersey: Humanities Press, 1996, pp. 119–45.
+* * Wissenschaftslehre nova methodo*, 1796–1799.
+  * * Foundations of Transcendental Philosophy (Wissenschaftslehre) nova methodo*, trans. and ed. Daniel Breazeale, Ithaca: Cornell University Press, 1992.
+* * [Rezension:] Kant, Zum ewigen Frieden: Ein philosophisher Entwurf*, 1796.
+  * “Review of Kant, * Perpetual Peace,”* trans. Daniel Breazeale, * The Philosophical Forum* 32 (2001): 311–21.
+* * Grundlage des Naturrechts nach Principien der Wissenschaftslehre*, 1796/97.
+  * * Foundations of Natural Right*, ed. Frederick Neuhouser, trans. Michael Baur, Cambridge: Cambridge University Press, 2000.
+* * Versuch einer neuen Darstellung der Wissenschaftslehre:* “Erste” und “Zweite Einleitung,” 1797; “Erste Capitel,” 1798.
+  * * Attempt at a New Presentation of the Wissenschaftslehre *. In * Introductions to the Wissenschaftslehre and Other Writings (1797–1800)* [henceforth = *IWL*], ed. and trans. Daniel Breazeale, Indianapolis: Hackett, 1994.
+  * “First and Second Introductions to * The Science of Knowledge *”, trans. Peter Heath, in * SK.*
+* * Das System der Sittenlehre nach den Principien der Wissenschaftslehre*, 1798.
+  * * The System of Ethics in accordance with the Principles of the Wissenschaftslehre*, ed. and trans. Daniel Breazeale and Günter Zöller, Cambridge: Cambridge University Press, 2005.
+* * Ueber den Grund unsers Glaubens an eine göttliche Weltregierung*, 1798.
+  * “On the Basis of our Belief in a Divine Governance of the World,” trans. Breazeale, in * IWL*.
+* J. G. Fichte’s D. Phil. * Doctors und Ordentlichen Professors zu Jena Appelation an das Publikum über die durch ein Kurf. Sächs. Confiscationsresccript ihm Beigemessenen Atheistischen Aeusserungen*, 1799,
+  * * J. G. Fichte: Appeal to the Public *, trans. Curtis Bowman, in * J. G. Fichte and the Atheism Dispute (1798–1800*, ed. Yolanda Estes and Curtis Bowman, Burlington, VT: Ashgate, 2010, pp. 85–125.
+* * Der Herausgeber des Philosophischen Journals gerichtliche Verantwortungschriften gegen die Anglage des Atheisums*, 1799.
+  * * J. G. Fichte: Juridical Defense *, trans. Curtis Bowman, in * J. F. Fichte and the Atheism Dispute*, pp. 145–204.
+* * Aus einem Privatschreiben*, 1800.
+  * “From a Private Letter,” trans. Breazeale, in * IWL*.
+* * Die Bestimmung des Menschen*, 1800.
+  * * The Vocation of Man*, trans. Peter Preuss, Indianapolis: Hackett, 1987.
+* * Der geschlossene Handelstaat*, 1800.
+  * * The Closed Commercial State*, trans. Anthony Curtis Adler, Albany, SUNY Press, 2012.
+* * Sonnenklarer Bericht an das größere Publikum über das eigentliche Wesen der neuesten Philosophie. Ein Versuch, die Leser zum Verstehen zu zwingen*, 1801.
+  * * A Crystal Clear Report to the General Public Concerning the Actual Essence of the Newest Philosophy: An Attempt to Force the Reader to Understand *, trans. John Botterman and William Rash, in * Philosophy of German Idealism*, ed. Ernst Behler, New York: Continuum, 1987.
+* * Neue Darstellung der Wissenschaftslehre * (1800). * New Version of the Wissenschaftslehre*, 1800,
+  * Partial translation by David Wood, in * The Philosopical Rupture between Fichte and Schelling: Selected Texts and Correspondence (1800–1802)*, trans. and ed. Michael G. Vater and David W. Wood, Albany, Albany, Suny Press, 2012.
+* * Wissenschaftlehre 1804*, second series, 1804.
+  * * The Science of Knowing: Fichte’s 1804 Lectures on the Wissenschaftslehre*, trans. Walter E. Wright, Albany: State University of New York Press, 2005.
+* * Der Grundzüge des gegewärtigen Zeitalters*, 1806.
+  * * The Characteristics of the Present Age *, in * The Popular Works of Johann Gottlieb Fichte* [henceforth = *PWF*], trans. William Smith, ed. and with an introduction by Daniel Breazeale, Bristol, England: Thoemes Press, 1999. [These translations were original published between 1848 and 1889.]
+* * Über des Wesen des Gelehrten, und seine Erscheinungen im Gebiete der Freiheit* (1806).
+  * * On The Nature of the Scholar and Its Manifestations *, trans. Smith, in * PWF*.
+* * Die Anweisung zum sieligen Leben, oder auch die Religionslehre*, 1806.
+  * * The Way Towards the Blessed Life; or, the Doctrine of Religion *, trans. Smith, in * PWF*.
+* * Reden an die deutsche Nation* (1808).
+  * * Addresses to the German Nation*, trans. Gregory Moore, Cambridge: Cambridge University Press, 2008.
+  * * Adresses to the German Nation*, trans. Isaac Nakhimovsky, Bela Kapossy, and Keith Tribe, Indianapolis, IN: Hackett, 2013.
+* * Die Wissenschaftslehre, in ihrem allgemeinen Umrisse dargestellt*, 1810.
+  * “The Science of Knowledge in its General Outline,” trans. Walter E. Wright, * Idealistic Studies*, 6 (1976): 106–117.
+* * Sittenlehre 1812*, 1812.
+  * * Lectures on the Theory of Ethics (1812)*, trans. Benjamin D. Crowe, Albany: SUNY Press, 2015,
+* * Briefwechsel *, 1790–1802. See the selections from Fichte’s correspondence from 1792–1799, trans. Breazeale, in EPW and the selections from his 1800–1801 correspondence with Schelling, trans. Wood, in * The Philosophical Rupture between Fichte and Schelling*.
 
 ### Secondary Literature about Fichte and the *Wissenschaftslehre*
 

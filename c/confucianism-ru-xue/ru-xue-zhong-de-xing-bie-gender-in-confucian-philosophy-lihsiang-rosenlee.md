@@ -30,7 +30,7 @@
 
 由于作为男人或女人与通过仪式学习体现家庭/社会角色密不可分，对这些角色如何在仪式上被书写的追问将是研究儒学中的性别的一个更加富有成果的途径。仪式化不仅标志着性别化过程的开始，更根本地标志着人性/文明的开始。性别化的过程不仅仅是性别差异的产生，更重要的是人类/文明的开始。性（xing 性）的概念——作为人性或动物性的替代物——并不是区分人群的一个标志，也不是区分人类和动物的标志。正如孔子在《论语》中所说：“性相近也，习相远也”（17.2；其他翻译请参见 Ames & Rosemont 1998）。同样地，根据荀子的说法，
 
-> 就素材、自然、意识和能力而言，君子和小人是平等的[...] 相反，是他们运用这些来做决定的方式使他们不同。（荀子 4.9；其他翻译请参见 Knoblock & Zhang 1999）
+> 就素材、自然、意识和能力而言，君子和小人是平等的 [...] 相反，是他们运用这些来做决定的方式使他们不同。（荀子 4.9；其他翻译请参见 Knoblock & Zhang 1999）
 
 圣人和我们其他人是同一种类，人类和禽兽之间几乎没有什么区别，因为人类和动物都拥有共同的原材料和天生的倾向。仪式的区别就是将人类与动物区分开来的微小差异。根据荀子，
 
@@ -42,7 +42,7 @@
 
 仪式的差异导致角色的差异，其中性别角色的差异（男女之别或夫妇有别）是基础的。正如《礼记》中所说，
 
-> 从男女之别产生了夫妇之义。从夫妇之义产生了父子之情。从父子之情产生了君臣之正。因此有言：“婚礼是其他礼仪的根本”。（《礼记·昏义》章；其他翻译请参见李约瑟 1885）
+> 从男女之别产生了夫妇之义。从夫妇之义产生了父子之情。从父子之情产生了君臣之正。因此有言：“婚礼是其他礼仪的根本”。（《礼记 · 昏义》章；其他翻译请参见李约瑟 1885）
 
 性别角色的区分反过来是沿着内外的空间二元对立标记的。根据《易经》，
 
@@ -78,7 +78,7 @@
 
 尽管班昭在外界的崭露头角令人瞩目，但首先要归功于她家族的幸运，而不是通过许多有才华的男性可利用的社会认可的途径。作为出生在一系列博学家庭的后代，这些家庭可以花费宝贵的资源来教育她，尽管在社会上看不到明显的效用，年轻时丧偶使班昭几乎可以像她的男性同行一样过上文学和治理的生活。如果没有这样的家族幸运，妇女要在外界留下印记而不招致重大社会成本是不可想象的。这是内外性别标记产生的许多不可避免的后果之一，它为妇女在文学文化和国家治理领域留下印记设置了结构性障碍。
 
-儒学中的性别：从自我、家庭、国家到整个世界，以同心圆的方式扩展自己的美德影响，旨在实现“大同”（《礼记·礼运》）。毕竟，孔子花费数十年离开家庭，冒着生命危险教导君主和弟子，努力使周围的世界道德化，超越了自己的家庭。因此，被限制在内圈领域，被剥夺了所有非家庭角色，丧失了在文学文化和国家治理中运作和卓越的规范途径，一个女性的道德人格，因此构建，基本上受到限制，依赖于她亲属的男性。
+儒学中的性别：从自我、家庭、国家到整个世界，以同心圆的方式扩展自己的美德影响，旨在实现“大同”（《礼记 · 礼运》）。毕竟，孔子花费数十年离开家庭，冒着生命危险教导君主和弟子，努力使周围的世界道德化，超越了自己的家庭。因此，被限制在内圈领域，被剥夺了所有非家庭角色，丧失了在文学文化和国家治理中运作和卓越的规范途径，一个女性的道德人格，因此构建，基本上受到限制，依赖于她亲属的男性。
 
 ## 4.女性依赖与女性教诲文本
 
@@ -138,9 +138,9 @@
 
 ### 5.2 婚姻与女性主义
 
-优先考虑男性血统的重要性支撑着中国家庭制度，并在各种仪式实践中得到了 codified。例如，婚姻仪式对于男性和女性有两种不同的含义。正如《白虎通》中所解释的，术语“婚姻”（jiaqu 嫁娶）实际上是一个复合术语：嫁给女性，娶给男性。对于女性来说，结婚（嫁）意味着寻求外部的完整，以找到一个合适的家，而对于男性来说，娶是为了获得[新娘]（《白虎通》，“嫁娶”章节；其他翻译请参见 Tjan 1949 [1952]；另请参见《说文解字》）。换句话说，在男性血统的家庭制度中，新郎的婚姻是他的家庭获取的一个场合，与他现有的身份相邻，而对于新娘来说，这是一个离开自己出生家庭的场合，寻找一个新家，一个对她的人格/女性身份的外部完整。
+优先考虑男性血统的重要性支撑着中国家庭制度，并在各种仪式实践中得到了 codified。例如，婚姻仪式对于男性和女性有两种不同的含义。正如《白虎通》中所解释的，术语“婚姻”（jiaqu 嫁娶）实际上是一个复合术语：嫁给女性，娶给男性。对于女性来说，结婚（嫁）意味着寻求外部的完整，以找到一个合适的家，而对于男性来说，娶是为了获得 [新娘]（《白虎通》，“嫁娶”章节；其他翻译请参见 Tjan 1949 [1952]；另请参见《说文解字》）。换句话说，在男性血统的家庭制度中，新郎的婚姻是他的家庭获取的一个场合，与他现有的身份相邻，而对于新娘来说，这是一个离开自己出生家庭的场合，寻找一个新家，一个对她的人格/女性身份的外部完整。
 
-妇女成功融入丈夫的家族是她生活中的一个重要仪式性和必要性。在儒家文本传统中，婚姻的成就并非通过丈夫和妻子之间的肉体亲密关系，而是通过祭祀祖先的仪式完成。根据《礼记》，婚姻的目的是双重的：首先是确保在祖堂中的祭祀服务，其次是延续家族血脉（《礼记·昏仪》）。确保她在祖堂中的服务标志着婚姻制度的优先地位，因此也标志着一个完成的婚姻的开始，通过这个婚姻，新娘确立自己作为这个新家族的一部分。
+妇女成功融入丈夫的家族是她生活中的一个重要仪式性和必要性。在儒家文本传统中，婚姻的成就并非通过丈夫和妻子之间的肉体亲密关系，而是通过祭祀祖先的仪式完成。根据《礼记》，婚姻的目的是双重的：首先是确保在祖堂中的祭祀服务，其次是延续家族血脉（《礼记 · 昏仪》）。确保她在祖堂中的服务标志着婚姻制度的优先地位，因此也标志着一个完成的婚姻的开始，通过这个婚姻，新娘确立自己作为这个新家族的一部分。
 
 一个新娘只有在参加了祭祖仪式后才完全成为一个妻子；否则，她还不是她新的男系家族的成员。正如《白虎通》所解释的那样，
 
@@ -194,7 +194,7 @@
 
 ## 7. 儒家女权主义：一种混合女权主义理论
 
-考虑到西方经典哲学家们——有些人与厌恶女性、白人至上主义、纳粹主义或恋童癖有明显联系，无论是个人上还是在文本中（Park 2013; Oltermann 2014; Zack 2017; Kirkpatrick 2019; Chrisafis 2019; Rosenlee 2020a,b）——被广泛整合到当代女性主义理论中，这引发了一个问题：为什么不考虑儒家哲学呢？接下来，我们将通过使用典型的儒家概念、方法和关注点来探讨当代世界中妇女的问题、关注点和经验，构建一个儒家女性主义的混合理论。这里提出的儒家女性主义不仅仅是对儒家文本传统中妇女生活的历史研究。相反，这是一个具有前瞻性的项目，旨在制定基于独特儒家框架的女性主义理论——一种儒家的女性主义理论，与自由女性主义、社会女性主义等其他女性主义理论一样，位于女性主义的众神殿中。
+考虑到西方经典哲学家们——有些人与厌恶女性、白人至上主义、纳粹主义或恋童癖有明显联系，无论是个人上还是在文本中（Park 2013; Oltermann 2014; Zack 2017; Kirkpatrick 2019; Chrisafis 2019; Rosenlee 2020a, b）——被广泛整合到当代女性主义理论中，这引发了一个问题：为什么不考虑儒家哲学呢？接下来，我们将通过使用典型的儒家概念、方法和关注点来探讨当代世界中妇女的问题、关注点和经验，构建一个儒家女性主义的混合理论。这里提出的儒家女性主义不仅仅是对儒家文本传统中妇女生活的历史研究。相反，这是一个具有前瞻性的项目，旨在制定基于独特儒家框架的女性主义理论——一种儒家的女性主义理论，与自由女性主义、社会女性主义等其他女性主义理论一样，位于女性主义的众神殿中。
 
 ### 7.1 内外之正
 
@@ -240,7 +240,7 @@
 
 一些对关怀伦理学的早期批评者指出，单纯主张以关怀为基础的伦理方法并不能使其成为女性主义，因为这可能会加剧对女性关怀劳动的需求（Card 1990; Friedman 1993; Yuan 2002）。在儒家女性主义中，通过基于内外友谊取代婚姻中基于性别的劳动分工，来解决这种关怀劳动的不平衡。在没有基于性别的等级制度或基于内外的性别劳动分工的情况下，这种儒家模式不仅为男性和女性承担不同关怀责任提供了灵活的安排，而且防止了对自我牺牲的片面需求。由于相互致力于道德完善是儒家友谊的锚定点，许多压迫性关系中典型的剥削和道德堕落也与基于友谊的婚姻相悖，其中关怀劳动是为了推动彼此达到道德完善，而不是为了实现基于性别的劳动分工或性别等级。
 
-一旦基于性别的劳动分工和等级制度从关怀劳动中被移除，儒家女性主义就可以在道德上肯定关心他人的重要性，特别是那些无法自我照顾的人。这一宣言是女性主义的，因为它不仅在道德上站得住脚，而且作为一个女性主义者，一个人应该致力于创造一个更关爱和更公平的世界，不仅仅是为了自己，还为了那些最需要帮助的人。正如伊娃·基泰（Kittay）所主张的，没有一个女性主义者会、能够或应该主张自愿放弃老年人、年幼者、生病者或残障者，更不应以追求平等或公平为借口（Kittay 2002: 238）。如果女性主义者放弃那些无法自助的人，那么对于从基于性别的压迫中解放出来的关注就显得空洞。
+一旦基于性别的劳动分工和等级制度从关怀劳动中被移除，儒家女性主义就可以在道德上肯定关心他人的重要性，特别是那些无法自我照顾的人。这一宣言是女性主义的，因为它不仅在道德上站得住脚，而且作为一个女性主义者，一个人应该致力于创造一个更关爱和更公平的世界，不仅仅是为了自己，还为了那些最需要帮助的人。正如伊娃 · 基泰（Kittay）所主张的，没有一个女性主义者会、能够或应该主张自愿放弃老年人、年幼者、生病者或残障者，更不应以追求平等或公平为借口（Kittay 2002: 238）。如果女性主义者放弃那些无法自助的人，那么对于从基于性别的压迫中解放出来的关注就显得空洞。
 
 在儒家思想中，道德深深植根于培育人际关系的过程中，女性主义也应当符合基本的道德准则，即首先对需要帮助的人做出响应，从家庭开始，然后辐射到整个世界。作为女性主义者和对那些无法自理的人做出道德回应的人之间不应该存在鸿沟，无论是近在咫尺还是遥远的地方。儒家女性主义——在儒家框架下的女性主义理论的混合解释——致力于通过以仁为基础的自我修养和以仁为基础的政治治理创造一个更加包容和富有同情心的世界。
 
@@ -253,32 +253,32 @@
 All the Chinese texts cited can be found in the [*Chinese Text Project*](https://ctext.org/), an open sourced, internet search engine. All the Chinese translations are by the present author, unless noted otherwise.
 
 * * [*Baihutong*](https://ctext.org/bai-hu-tong) (白虎通) [The Comprehensive Discussions in the White Tiger Hall], [ [available online](https://ctext.org/bai-hu-tong) ], compiled by Ban Gu (32–92 CE). For a translation see Tjan 1949 [1952]*.*
-  * [*Chunqiu fanlu*](https://ctext.org/chun-qiu-fan-lu) (春秋繁露) (*Luxurious Dews of the Spring and Autumn*), [ [available online](https://ctext.org/chun-qiu-fan-lu)], by Dong Zhongshu (2nd century BCE). For a partial translation see Csikszentmihalyi 2003.
-  * *Dadai liji* (大戴禮記) [The Rite by Dai De] [available online: https://ctext.org/da-dai-li-ji], by Dai De (c. 1st century BCE).
-  * [*Daodejing*](https://ctext.org/dao-de-jing) (道德經) (*Laozi*) [[available online](https://ctext.org/dao-de-jing)]. For a translation see Lau 1964; also see Hall and Ames 2003.
-  * *Hanshi waizhuan* (韓詩外傳) [The Outer Commentary to the *Book of Songs* by Master Han] [[available online](https://ctext.org/han-shi-wai-zhuan)], by Han Ying (2nd century BCE text).
-  * *Jiutang shu* (舊唐書) [Old History of Tang] [[available online](https://ctext.org/wiki.pl?if=en&res=456206)], by Liu Xu (c. 888–947 CE).
+  * [*Chunqiu fanlu*](https://ctext.org/chun-qiu-fan-lu) (春秋繁露) (* Luxurious Dews of the Spring and Autumn*), [ [available online](https://ctext.org/chun-qiu-fan-lu)], by Dong Zhongshu (2nd century BCE). For a partial translation see Csikszentmihalyi 2003.
+  * * Dadai liji* (大戴禮記) [The Rite by Dai De] [available online: https://ctext.org/da-dai-li-ji], by Dai De (c. 1st century BCE).
+  * [*Daodejing*](https://ctext.org/dao-de-jing) (道德經) (* Laozi*) [[available online](https://ctext.org/dao-de-jing)]. For a translation see Lau 1964; also see Hall and Ames 2003.
+  * * Hanshi waizhuan* (韓詩外傳) [The Outer Commentary to the *Book of Songs* by Master Han] [[available online](https://ctext.org/han-shi-wai-zhuan)], by Han Ying (2nd century BCE text).
+  * * Jiutang shu* (舊唐書) [Old History of Tang] [[available online](https://ctext.org/wiki.pl?if=en&res=456206)], by Liu Xu (c. 888–947 CE).
   * [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (孔子家語) [Family Sayings of Confucius] [[available online](https://ctext.org/kongzi-jiayu)], by Wang Su, a Han text. For a translation see Kramers 1950.
-  * *Lienü zhuan* (列女傳) (*Exemplary Women’s Biographies*) [[available online](https://ctext.org/lie-nv-zhuan)], by Liu Xiang (c. 18 BCE). For a translation see Kinney 2014.
-  * *Liji* (禮記) [Book of Rites] [[*Rites* available online](https://ctext.org/liji)]. For a translation see Legge 1885.
-    * Daxue (大學) [The Great Learning] (originally a chapter in the *Liji*). For a translation see Legge 1885.
-    * *Zhongyong* (中庸) [Centrality and Commonality] (originally a chapter in the *Liji*). For a translation see Legge 1885; also see Hall and Ames 2001.
-  * *Lunyu* (論語) (*The Analects*) [[available online](https://ctext.org/analects)]. For a translation see Ames and Rosemont 1998.
-  * *Mengzi* (孟子) (*Mencius*) [[available online](https://ctext.org/mengzi)]. For a translation see Lau 1970 [2003].
-  * *Mozi* (墨子)[The Mozi] [[available online](https://ctext.org/mozi)] by Mozi (4th century BCE). For a translation see Johnston 2010.
-  * *Nüsishu* (女四書) [Four Books for Women] [[available online](https://ctext.org/wiki.pl?if=en&res=363953)], compiled by Wang Xiang (c.1624 CE). For a translation see Pang-White 2018. Includes:
-    * *Nüjie* [Admonition for Women] by Ban Zhao (c.106 CE).
-    * *Nülunyu* [The Analects for Women] by Song Ruoxin and Song Ruozhao (c.820/825 CE).
-    * *Neixun* [Instructions for the Inner Quarter] by Empress Renxiaowen (c.1405 CE).
-    * *Nüfan jielu* [Concise Selections of Model Women] by Woman Liu (c.1580 CE).
-  * *Shiji* (史記) [Records of the Grand Historian] [available online: https://ctext.org/shiji], by Sima Qian (c. 145–86 BCE). For a translation see Watson 1961 [1993].
-  * *Shijing* (詩經) [Book of Songs] [[available online](https://ctext.org/book-of-poetry)]. For a translation see Legge 1876.
-  * *Shujing* (書經) [Book of Documents] [[available online](https://ctext.org/shang-shu)]. For a translation see Legge 1879.
-  * *Shuoyuan* (說苑) [Garden of Persuasions] [[available online](https://ctext.org/shuo-yuan)], by Liu Xiang (c.17 BCE). For a translation see Henry 2022.
+  * * Lienü zhuan * (列女傳) (* Exemplary Women’s Biographies*) [[available online](https://ctext.org/lie-nv-zhuan)], by Liu Xiang (c. 18 BCE). For a translation see Kinney 2014.
+  * * Liji* (禮記) [Book of Rites] [[*Rites* available online](https://ctext.org/liji)]. For a translation see Legge 1885.
+    * Daxue (大學) [The Great Learning] (originally a chapter in the * Liji*). For a translation see Legge 1885.
+    * * Zhongyong * (中庸) [Centrality and Commonality] (originally a chapter in the * Liji*). For a translation see Legge 1885; also see Hall and Ames 2001.
+  * * Lunyu * (論語) (* The Analects*) [[available online](https://ctext.org/analects)]. For a translation see Ames and Rosemont 1998.
+  * * Mengzi * (孟子) (* Mencius*) [[available online](https://ctext.org/mengzi)]. For a translation see Lau 1970 [2003].
+  * * Mozi* (墨子)[The Mozi] [[available online](https://ctext.org/mozi)] by Mozi (4th century BCE). For a translation see Johnston 2010.
+  * * Nüsishu* (女四書) [Four Books for Women] [[available online](https://ctext.org/wiki.pl?if=en&res=363953)], compiled by Wang Xiang (c.1624 CE). For a translation see Pang-White 2018. Includes:
+    * * Nüjie* [Admonition for Women] by Ban Zhao (c.106 CE).
+    * * Nülunyu* [The Analects for Women] by Song Ruoxin and Song Ruozhao (c.820/825 CE).
+    * * Neixun* [Instructions for the Inner Quarter] by Empress Renxiaowen (c.1405 CE).
+    * * Nüfan jielu* [Concise Selections of Model Women] by Woman Liu (c.1580 CE).
+  * * Shiji* (史記) [Records of the Grand Historian] [available online: https://ctext.org/shiji], by Sima Qian (c. 145–86 BCE). For a translation see Watson 1961 [1993].
+  * * Shijing* (詩經) [Book of Songs] [[available online](https://ctext.org/book-of-poetry)]. For a translation see Legge 1876.
+  * * Shujing* (書經) [Book of Documents] [[available online](https://ctext.org/shang-shu)]. For a translation see Legge 1879.
+  * * Shuoyuan* (說苑) [Garden of Persuasions] [[available online](https://ctext.org/shuo-yuan)], by Liu Xiang (c.17 BCE). For a translation see Henry 2022.
 * * [*Shuowen Jiezi*](https://ctext.org/shuo-wen-jie-zi) (說文解字) [Discussing Writings and Explaining Characters] [[available online](https://ctext.org/shuo-wen-jie-zi)], by Xu Shen (c. 58–148 CE, ed.).
   * *Xiaojing* (孝經) [Book of Filiality] [available online: https://ctext.org/xiao-jing] (4th-3rd century BCE text). For a translation see Ames and Rosemont 2008.
   * *Xiaoxue* (小學)[Elementary Learning] by Zhu Xi (1130–1200 CE).
-  * *Xinshu (*新書) [New Book] [available online: https://ctext.org/xin-shu], by Jia Yi (2nd century BCE text).
+  * *Xinshu (* 新書) [New Book] [available online: https://ctext.org/xin-shu], by Jia Yi (2nd century BCE text).
   * [*Xunzi*](https://ctext.org/xunzi) (荀子) (*Xunzi*) [ [available online](https://ctext.org/xunzi)]. For a translation see Knoblock and Zhang 1999.
   * *Yijing* (易經) [Book of Changes] [[available online](https://ctext.org/book-of-changes)]. For a translation see Legge 1882.
 
@@ -289,35 +289,35 @@ All the Chinese texts cited can be found in the [*Chinese Text Project*](https:
 * –––, 2011, *Confucian Role Ethics: A Vocabulary*, (Ch’ien Mu Lecture Series), Hong Kong: The Chinese University Press.
 * Ames, Roger T. and Henry Rosemont Jr. (intro./trans), 1998, *The Analects of Confucius: A Philosophical Translation*, New York, NY: Ballantine Books.
 * ––– (intro. & trans.), 2008, *The Chinese Classic of Family Reverence: The Philosophical Translation of the* Xiaojing, Honolulu, HI: University of Hawaii Press.
-* Barlow, Tani, 1989, “Beyond Dichotomies, Responses: Asian Perspective”, *Gender and History*, 1(3): 318–329. doi:10.1111/j.1468-0424.1989.tb00260.x
-* –––, 1994a, “Theorizing Woman: *Funü, Guojia, Jiating* (Chinese Women, Chinese State, Chinese Family)”, in *Body, Subject and Power in China*, Angela Zito and Tani E. Barlow (eds.), Chicago, IL: University of Chicago Press, pp. 253–290 (reprint of “Theorizing Woman: Funu, Guojia, Jiating [Chinese Women, Chinese State, Chinese Family]”, *Genders*, no. 10: Spring 1991, University of Texas Press, 132–160. doi:10.5555/gen.1991.10.132).
+* Barlow, Tani, 1989, “Beyond Dichotomies, Responses: Asian Perspective”, *Gender and History*, 1(3): 318–329. doi: 10.1111/j.1468-0424.1989.tb00260.x
+* –––, 1994a, “Theorizing Woman: *Funü, Guojia, Jiating* (Chinese Women, Chinese State, Chinese Family)”, in *Body, Subject and Power in China*, Angela Zito and Tani E. Barlow (eds.), Chicago, IL: University of Chicago Press, pp. 253–290 (reprint of “Theorizing Woman: Funu, Guojia, Jiating [Chinese Women, Chinese State, Chinese Family]”, *Genders*, no. 10: Spring 1991, University of Texas Press, 132–160. doi: 10.5555/gen.1991.10.132).
 * –––, 1994b, “Politics and Protocols of *Funü*: (Un)Making National Woman”, in *Engendering China: Women, Culture, and the State*, Christina K. Gilmartin, Gail Hershatter, Lisa Rofel, and Tyrene White (eds.), Cambridge, MA: Harvard University Press, pp. 339–359.
-* Barrett, Tim H., 2005, “Chinese Religion in English Guise: The History of an Illusion”, *Modern Asian Studies*, 39(3): 509–533. doi:10.1017/S0026749X04001659
+* Barrett, Tim H., 2005, “Chinese Religion in English Guise: The History of an Illusion”, *Modern Asian Studies*, 39(3): 509–533. doi: 10.1017/S0026749X04001659
 * Black, Alison, 1989, “Gender and Cosmology in Chinese Correlative Thinking”, in *Gender and Religion: On the Complexity of Symbols*, Caroline W. Bynum, Stevan Harrell, Paula Richman (eds.), Boston, MA: Beacon Press, pp. 166–95.
-* Blake, C. Fred, 1994, “Foot-Binding in Neo-Confucian China and the Appropriation of Female Labor”, *Signs: Journal of Women in Culture and Society*, 19(3): 676–712. doi:10.1086/494917
+* Blake, C. Fred, 1994, “Foot-Binding in Neo-Confucian China and the Appropriation of Female Labor”, *Signs: Journal of Women in Culture and Society*, 19(3): 676–712. doi: 10.1086/494917
 * Butnor, Ashby, and Jennifer McWeeny (eds.), 2014, *Asian and Feminist Philosophies in Dialogue: Liberating Traditions*, New York, NY: Columbia University Press.
-* Card, Claudia, 1990, “Caring and Evil”, *Hypatia*, 5(1): 101–108. doi:10.1111/j.1527-2001.1990.tb00393.x
-* –––, 1996, “Against Marriage and Motherhood”, *Hypatia*, 11(3): 1–23. doi:10.1111/j.1527-2001.1996.tb01013.x
-* –––, 2007, “Gay Divorce: Thoughts on the Legal Regulation of Marriage”, *Hypatia*, 22(1): 24–38. doi:10.1111/j.1527-2001.2007.tb01147.x
+* Card, Claudia, 1990, “Caring and Evil”, *Hypatia*, 5(1): 101–108. doi: 10.1111/j.1527-2001.1990.tb00393.x
+* –––, 1996, “Against Marriage and Motherhood”, *Hypatia*, 11(3): 1–23. doi: 10.1111/j.1527-2001.1996.tb01013.x
+* –––, 2007, “Gay Divorce: Thoughts on the Legal Regulation of Marriage”, *Hypatia*, 22(1): 24–38. doi: 10.1111/j.1527-2001.2007.tb01147.x
 * Chan, Ching-kiu Stephen, 1988, “The Language of Despair: Ideological Representations of the ‘New Women’ (*xing nüxing*) by May Fourth Writers”, *Modern Chinese Literature*, 4(1–2): 19–39.
 * Chan, Sin Yee, 2023, “Confucianism and Gender,” in Oldstone-Moore 2023: 408–422.
-* Chen, Ellen Marie, 1969, “Nothingness and the Mother Principle in Early Chinese Taoism”, *International Philosophical Quarterly*, 9(3): 391–405. doi:10.5840/ipq19699332
+* Chen, Ellen Marie, 1969, “Nothingness and the Mother Principle in Early Chinese Taoism”, *International Philosophical Quarterly*, 9(3): 391–405. doi: 10.5840/ipq19699332
 * Chrisafis, Angelique, 2019, “French Publishing Boss Claims She was Groomed at Age 14 by Acclaimed Author”, *The Guardian*, 27 December 2019. [[Chrisafis 2019 available online](https://www.theguardian.com/world/2019/dec/27/french-publishing-boss-claims-she-was-groomed-at-age-14-by-acclaimed-author) (accessed on 25 March 2022)]
 * Collins, Stephanie, 2015, *The Core of Care Ethics*, London, UK: Palgrave Macmillan.
 * Csikszentmihalyi, Mark (intro./trans.), 2003, “*Luxuriant Gems of the Spring and Autumn* (*Chunqiu fanlu*), Dong Zhongshu”, in *Images of Women in Chinese Thought and Culture: Writings from the Pre-Qin Period through the Song Dynasty*, Robin R. Wang (ed.), Indianapolis, IN: Hackett, pp. 162–69.
 * –––, 2020, “Confucius”, *The Stanford Encyclopedia of Philosophy*, (Summer 2020 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/sum2020/entries/confucius/>.
 * Dai, Yuanfang, 2019, *Transcultural Feminist Philosophy: Rethinking Difference and Solidarity through Chinese–American Encounters*, Lanham, MD: Lexington Books.
-* Dalmiya, Vrinda, 2009, “Caring Comparisons: Thoughts on Comparative Care Ethics”, *Journal of Chinese Philosophy*, 36(2): 192–209. doi:10.1111/j.1540-6253.2009.01514.x
+* Dalmiya, Vrinda, 2009, “Caring Comparisons: Thoughts on Comparative Care Ethics”, *Journal of Chinese Philosophy*, 36(2): 192–209. doi: 10.1111/j.1540-6253.2009.01514.x
 * Daly, Mary, 1978 [1990], *Gyn/Ecology: the Metaethics of Radical Feminism*, Boston, MA: Beacon Press. New edition, 1990.
-* Dixon, Nicholas, 1995, “The Friendship Model of Filial Obligations”, *Journal of Applied Philosophy*, 12(1): 77–87. doi:10.1111/j.1468-5930.1995.tb00121.x
+* Dixon, Nicholas, 1995, “The Friendship Model of Filial Obligations”, *Journal of Applied Philosophy*, 12(1): 77–87. doi: 10.1111/j.1468-5930.1995.tb00121.x
 * Dworkin, Andrea, 1974, *Woman Hating*, London, UK: Penguin.
-* Ebrey, Patricia Buckley, 1999, “Gender and Sinology: Shifting Western Interpretations of Footbinding, 1300–1890”, *Late Imperial China*, 20(2): 1–34. doi:10.1353/late.1999.0007
+* Ebrey, Patricia Buckley, 1999, “Gender and Sinology: Shifting Western Interpretations of Footbinding, 1300–1890”, *Late Imperial China*, 20(2): 1–34. doi: 10.1353/late.1999.0007
 * English, Jane, 1979 [1989], “What Do Grown Children Own Their Parents?” in *Having Children: Philosophical and Legal Reflections on Parenthood*, Onora O’Neill and William Ruddick (eds.), New York, NY: Oxford University Press. Reprinted in *Vice and Virtue in Everyday Life: Introductory Readings in Ethics*, second edition, Christina Sommers and Fred Sommers (eds.), San Diego, CA: Harcourt Brace Jovanovich Publishers, 1989, 682–689.
 * Foust, Mathew A. and Sor-hoon Tan (eds.), 2016, *Feminist Encounters with Confucius*, Leiden, NL: Brill.
 * Friedman, Marilyn, 1993, *What are Friends For? Feminist Perspectives on Personal Relationships and Moral Theory*, Ithaca, NY: Cornell University Press.
 * Goldin, Paul R., 2009, “Review of *Confucianism and Women: A Philosophical Interpretation*, by Li-Hsiang Lisa Rosenlee”, *China Review International*, 16(3): 371–374.
 * Graham, A. C., 1986, *Yin-Yang and the Nature of Correlative Thinking*, Singapore: Institute of East Asian Philosophies.
-* Greenhalgh, Susan, 1977, “Bound Feet, Hobbled Lives: Women in Old China”, *Frontiers: A Journal of Women Studies*, 2(1): 7–21. doi:10.2307/3346103
+* Greenhalgh, Susan, 1977, “Bound Feet, Hobbled Lives: Women in Old China”, *Frontiers: A Journal of Women Studies*, 2(1): 7–21. doi: 10.2307/3346103
 * Groenhout, Ruth, 2014, “Virtue and Feminist Ethics of Care,” in *Virtues and Their Vices*, Kevin Timpe and Craig A. Boyd (eds.), New York, NY: Oxford University Press, pp. 481–501.
 * Gu, Linyu (ed.), 2009, *Femininity and Feminism: Chinese and Contemporary*, special issue of *Journal of Chinese Philosophy*, 36(2): 185–358.
 * Hall, David L. and Roger T. Ames, 1998, *Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture*, Albany, NY: State University of New York Press.
@@ -325,17 +325,17 @@ All the Chinese texts cited can be found in the [*Chinese Text Project*](https:
 * –––, (intro./trans.), 2001, *Focusing the Familiar: A Translation and Philosophical Interpretation of the* Zhongyong, Honolulu, HI: University of Hawaii Press.
 * –––, (intro./trans.), 2003, Daodejing *“Making This Life Significant”: A Philosophical Translation*, New York, NY: Ballantine Books.
 * Hay, John (ed.), 1994, *Boundaries in China*, London, UK: Reaktion Books.
-* Held, Virginia, 2006, *The Ethics of Care: Personal, Political, and Global*, New York, NY: Oxford University Press. doi:10.1093/0195180992.001.0001
-* Henry, Eric, 2022, *Garden of Eloquence/*Shuoyuan *說苑*, Seattle, WA: University of Washington Press.
+* Held, Virginia, 2006, *The Ethics of Care: Personal, Political, and Global*, New York, NY: Oxford University Press. doi: 10.1093/0195180992.001.0001
+* Henry, Eric, 2022, *Garden of Eloquence/* Shuoyuan *說苑*, Seattle, WA: University of Washington Press.
 * Ivanhoe, Philip J., 2007, “Filial Piety as a Virtue”, in *Working Virtue: Virtue Ethics and Contemporary Moral Problems*, Rebecca L. Walker and Philip J. Ivanhoe (eds), New York, NY: Oxford University Press, pp. 297–312.
 * Jackson, Beverley, 1997, *Splendid Slippers: A Thousand Years of an Erotic Tradition*, Berkeley, CA: Ten Speed Press.
-* Jensen, Lionel M., 1997, *Manufacturing Confucianism: Chinese Traditions and Universal Civilization*, Durham, NC: Duke University Press. doi:10.1215/9780822399582.
+* Jensen, Lionel M., 1997, *Manufacturing Confucianism: Chinese Traditions and Universal Civilization*, Durham, NC: Duke University Press. doi: 10.1215/9780822399582.
 * Johnston, Ian (intro & trans.), 2010, *The Mozi: A Complete Translation*, New York, NY: Columbia University Press.
 * Judge, Joan and Ying Hu (eds.), 2011, *Beyond Exemplar Tales: Women’s Biography in Chinese History*, (New Perspectives on Chinese Culture and Society 1), Berkeley, CA: University of California Press.
 * Kinney, Anne Behnke (intro./trans.), 2014, *Exemplary Women of Early China: The* “Lienü Zhuan” *of Liu Xiang*, (Translations from the Asian Classics), New York, NY: Columbia University Press.
 * Kirkpatrick, Kate, 2019, “Was Simone de Beauvoir as Feminist as We Thought?” *The Guardian*, 20 August 2019. [[Kirkpatrick 2019 available online](https://www.theguardian.com/books/2019/aug/20/was-simone-de-beauvoir-as-feminist-as-we-thought) (accessed on 25 March 2022)]
-* Kittay, Eva Feder, 1999, *Love’s Labor: Essays on Women, Equality, and Dependency*, (Thinking Gender), New York, NY: Routledge. doi:10.4324/9781315108926
-* –––, 2002, “Loves Labor Revisited”, *Hypatia*, 17(3): 237–250. doi:10.1111/j.1527-2001.2002.tb00951.x
+* Kittay, Eva Feder, 1999, *Love’s Labor: Essays on Women, Equality, and Dependency*, (Thinking Gender), New York, NY: Routledge. doi: 10.4324/9781315108926
+* –––, 2002, “Loves Labor Revisited”, *Hypatia*, 17(3): 237–250. doi: 10.1111/j.1527-2001.2002.tb00951.x
 * Knoblock, John and Zhang Jue (intro./trans), 1999, *Xunzi*, 2 volumes, Hunan, China: Hunan People’s Publishing House.
 * Ko, Dorothy, 1994, *Teacher of the Inner Chambers: Women and Culture in Seventeenth Century China*, Stanford, CA: Stanford University Press.
 * –––, 2005, *Cinderella’s Sisters: A Revisionist History of Footbinding*, Berkeley, CA: University of California Press.
@@ -349,23 +349,23 @@ All the Chinese texts cited can be found in the [*Chinese Text Project*](https:
 * –––, (intro./trans.), 1882, *The Yi King*, Oxford: The Clarendon Press.
 * ––– (intro./trans.), 1885, *Li Chi: Book of Rites*, 2 volumes, New York: The Union Theological Seminary.
 * Levy, Howard, 1966, *Chinese Footbinding: The History of A Curious Erotic Custom*, New York, NY: Walton Rawls Publisher.
-* Li, Chenyang, 1994, “The Confucian Concept of *Jen* and the Feminist Ethics of Care: A Comparative Study”, *Hypatia*, 9(1): 70–89. doi:10.1111/j.1527-2001.1994.tb00110.x
+* Li, Chenyang, 1994, “The Confucian Concept of *Jen* and the Feminist Ethics of Care: A Comparative Study”, *Hypatia*, 9(1): 70–89. doi: 10.1111/j.1527-2001.1994.tb00110.x
 * ––– (ed.), 2000, *The Sage and the Second Sex: Confucianism, Ethics, and Gender*, Chicago, IL: Open Court.
 * Lloyd, Genevieve, 1984, *The Man of Reason: ‘Male’ and ‘Female’ in Western Philosophy*, London, UK: Methuen Publishing.
 * ––– (ed.), 2002, *Feminism and History of Philosophy*, New York, NY: Oxford University Press.
-* Mackenzie, Catriona, 2014, “The Importance of Relational Autonomy and Capabilities for an Ethics of Vulnerability”, in *Vulnerability: New Essays in Ethics and Feminist Philosophy*, Catriona Mackenzie, Wendy Rogers, and Susan Dodds (eds.), New York, NY: Oxford University Press, pp. 33–59. doi:10.1093/acprof:oso/9780199316649.003.0002
-* Mann, Susan, 1987, “Widows in the Kinship, Class, and Community Structures of Qing Dynasty China”, *The Journal of Asian Studies*, 46(1): 37–56. doi:10.2307/2056665
-* Mohanty, Chandra Talpade, 1984 [1988], “Under Western Eyes: Feminist Scholarship and Colonial Discourses”, *Boundary 2*, 12(3)/13(1): 333–358. Revised version in 1988, *Feminist Review*, 30(1): 61–88. doi:10.2307/302821 doi:10.1057/fr.1988.42
-* –––, 2003, *Feminism without Borders: Decolonizing Theory, Practicing Solidarity*, Durham, NC: Duke University Press. doi:10.1215/9780822384649
+* Mackenzie, Catriona, 2014, “The Importance of Relational Autonomy and Capabilities for an Ethics of Vulnerability”, in *Vulnerability: New Essays in Ethics and Feminist Philosophy*, Catriona Mackenzie, Wendy Rogers, and Susan Dodds (eds.), New York, NY: Oxford University Press, pp. 33–59. doi: 10.1093/acprof: oso/9780199316649.003.0002
+* Mann, Susan, 1987, “Widows in the Kinship, Class, and Community Structures of Qing Dynasty China”, *The Journal of Asian Studies*, 46(1): 37–56. doi: 10.2307/2056665
+* Mohanty, Chandra Talpade, 1984 [1988], “Under Western Eyes: Feminist Scholarship and Colonial Discourses”, *Boundary 2*, 12(3)/13(1): 333–358. Revised version in 1988, *Feminist Review*, 30(1): 61–88. doi: 10.2307/302821 doi: 10.1057/fr.1988.42
+* –––, 2003, *Feminism without Borders: Decolonizing Theory, Practicing Solidarity*, Durham, NC: Duke University Press. doi: 10.1215/9780822384649
 * Mohanty, Chandra Talpade, Ann Russo, and Lourdes Torres (eds.), 1991, *Third World Women and the Politics of Feminism*, Bloomington, IN: Indiana University Press.
-* Narayan, Uma, 1997, *Dislocating Cultures: Identities, Traditions, and Third-World Feminism*, (Thinking Gender), New York, NY: Routledge. doi:10.4324/9780203707487
+* Narayan, Uma, 1997, *Dislocating Cultures: Identities, Traditions, and Third-World Feminism*, (Thinking Gender), New York, NY: Routledge. doi: 10.4324/9780203707487
 * Needham, Joseph, 1956, *Science and Civilisation in China*, 5 volumes, Cambridge, UK: Cambridge University Press.
 * Noddings, Nel, 1984, *Caring: A Feminine Approach to Ethics and Moral Education*, Berkeley, CA: University of California Press.
 * –––, 2010, *The Maternal Factor: Two Paths to Morality*, Berkeley, CA: University of California Press.
 * Okin, Susan Miller, 1989, *Justice, Gender, and the Family*, New York, NY: Basic Books.
-* –––, 1994, “Gender Inequality and Cultural Differences”, *Political Theory*, 22(1): 5–24. doi:10.1177/0090591794022001002
+* –––, 1994, “Gender Inequality and Cultural Differences”, *Political Theory*, 22(1): 5–24. doi: 10.1177/0090591794022001002
 * –––, 1999, “Is Multiculturalism Bad for Women?” in *Is Multiculturalism Bad for Women?* Joshua Cohen, Matthew Howard, and Martha C. Nussbaum (eds.), Princeton, NJ: Princeton University Press, pp. 7–26.
-* Olberding, Amy, 2015, “A Sensible Confucian Perspective on Abortion”, *Dao: A Journal of Comparative Philosophy*, 14(2): 235–253. doi:10.1007/s11712-015-9433-2
+* Olberding, Amy, 2015, “A Sensible Confucian Perspective on Abortion”, *Dao: A Journal of Comparative Philosophy*, 14(2): 235–253. doi: 10.1007/s11712-015-9433-2
 * Oldstone-Moore, Jennifer, 2023, *The Oxford Handbook of Confucianism*, New York, NY: Oxford University Press.
 * Oltermann, Philip, 2014, “Heidegger’s ‘black notebooks’ Reveal Antisemitism at Core of His Philosophy”, *The Guardian*, 12 March 2014. [[Oltermann 2014 available online](https://www.theguardian.com/books/2014/mar/13/martin-heidegger-black-notebooks-reveal-nazi-ideology-antisemitism) (accessed on 25 March 2022)]
 * Pang-White, Ann (ed.), 2016, *The Bloomsbury Research Handbook of Chinese Philosophy and Gender*, London, UK: Bloomsbury.
@@ -375,29 +375,29 @@ All the Chinese texts cited can be found in the [*Chinese Text Project*](https:
 * Richey, Jeffrey L., 2023, “Confucianism and ‘Confucianism’: Describing and Problematizing the Tradition,” in Oldstone-Moore, 2023: 3–19.
 * Rosemont, Henry, Jr., 2015, *Against Individualism: A Confucian Rethinking of the Foundations of Morality, Politics, Family, and Religion*, Lanham, MD: Lexington Books.
 * Rosenlee, Li-Hsiang Lisa, 2006, *Confucianism and Women: A Philosophical Interpretation*, Albany, NY: SUNY Press.
-* –––, 2015, “Confucian Friendship (*You* 友) as Spousal Relationship: A Feminist Imagination”, *International Communication of Chinese Culture*, 2(3): 181–203. doi:10.1007/s40636-015-0036-8
+* –––, 2015, “Confucian Friendship (*You* 友) as Spousal Relationship: A Feminist Imagination”, *International Communication of Chinese Culture*, 2(3): 181–203. doi: 10.1007/s40636-015-0036-8
 * –––, 2020a, “A Revisionist History of Philosophy”, in Rosenlee et al. 2020: 121–137.
 * –––, 2020b, “Response to Amy K. Donahue, David Kim, Nelson Maldonado-Torres, and Kris Sealey on the Symposium: Why Historicizing the Canon?” in Rosenlee et al. 2020: 163–167.
 * Rosenlee, Li-Hsiang Lisa, Amy K. Donahue, David Kim, Nelson Maldonado-Torres, and Kris Sealey, 2020, “Symposium: Why Historicize the Canon?”, *Journal of World Philosophies*, 5(1): 121–176. [[Rosenlee et al. 2020 available online](https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/3605)]
-* Rubin, Vital A., 1982, “The Concepts of *Wu-Hsing* and *Yin-Yang*”, *Journal of Chinese Philosophy*, 9(2): 131–157. doi:10.1111/j.1540-6253.1982.tb00564.x
+* Rubin, Vital A., 1982, “The Concepts of *Wu-Hsing* and *Yin-Yang*”, *Journal of Chinese Philosophy*, 9(2): 131–157. doi: 10.1111/j.1540-6253.1982.tb00564.x
 * Said, Edward, 1978, *Orientalism*, New York, NY: Random House.
 * Schott, Robin May, 2003, *Discovering Feminist Philosophy: Knowledge, Ethics, Politics*, Lanham, MD: Rowman & Littlefield.
 * Standaert, Nicolas, 1999, “The Jesuits did NOT Manufacture ‘Confucianism’”, *East Asian Science, Technology, and Medicine*, 16: 115–132.
-* Spakowski, Nicola, 2011, “’Gender’ Trouble: Feminism in China under the Impact of Western Theory and the Specialization of Identity”, *Positions: East Asia Cultures Critique*, 19(1): 31–54. doi:10.1215/10679847-2010-023
-* Swann, Nancy Lee, 1932 [2001], *Pan Chao: Foremost Woman Scholar of China*, New York/London, UK: The Century. Reprinted Ann Arbor, MI: The University of Michigan Press, 2001*.*
+* Spakowski, Nicola, 2011, “’Gender’ Trouble: Feminism in China under the Impact of Western Theory and the Specialization of Identity”, *Positions: East Asia Cultures Critique*, 19(1): 31–54. doi: 10.1215/10679847-2010-023
+* Swann, Nancy Lee, 1932 [2001], *Pan Chao: Foremost Woman Scholar of China*, New York/London, UK: The Century. Reprinted Ann Arbor, MI: The University of Michigan Press, 2001 *.*
 * Tjan, Tjoe Som (intor./trans.), 1949 [1952], Po Hu T’ung, The *Comprehensive Discussions* in the *White Tiger Hall*. Leiden, NL: Brill.
 * Tronto, Joan, 2013, *Caring Democracy: Markets, Equality, and Justice*, New York, NY: New York University Press.
-* Wang, Huaiyu, 2016, “Between Hierarchy of Oppression and Style of Nourishment: Defending the Confucian Way of Civil Order”, *Philosophy East and West*, 66(2): 559–596. doi:10.1353/pew.2016.0034
-* Wang, Robin, 2005, “Dong Zhongshu’s Transformation of *Yin-Yang* Theory and Contesting of Gender Identity”, *Philosophy East and West*, 55(2): 209–231. doi:10.1353/pew.2005.0013
+* Wang, Huaiyu, 2016, “Between Hierarchy of Oppression and Style of Nourishment: Defending the Confucian Way of Civil Order”, *Philosophy East and West*, 66(2): 559–596. doi: 10.1353/pew.2016.0034
+* Wang, Robin, 2005, “Dong Zhongshu’s Transformation of *Yin-Yang* Theory and Contesting of Gender Identity”, *Philosophy East and West*, 55(2): 209–231. doi: 10.1353/pew.2005.0013
 * Watson, Burton (intro./trans.), 1961 [1993], *Records of the Grand Historian by Sima Qian*, Vol. I & II, New York, NY: Columbia University Press.
 * –––, (intro./trans.), 1963, *Hsun Tzu: Basic Writings*, New York, NY: Columbia University Press.
 * Wawrytko, Sandra A., 2000, “Prudery and Prurience: Historical Roots of the Confucian Conundrum Concerning Women, Sexuality, and Power”, in Li 2000: 163–198.
 * Woo, Terry, 1999, “Confucianism and Feminism”, in *Feminism and World Religions*, Arvind Sharma and Katherine K. Young (eds), Albany, NY: SUNY Press, pp. 110–147.
-* Yu, Ying-shih, 1986, “Han Foreign Relations”, in *The Cambridge History of China*, volume 1, Denis Twitchett and Michael Loewe (eds), Cambridge, UK: Cambridge University Press, pp. 377–462. doi:10.1017/CHOL9780521243278.008
-* Yuan, Lijun, 2002, “Ethics of Care and Concept of Jen: A Reply to Chenyang Li”, *Hypatia*, 17(1): 107–130. doi:10.1111/j.1527-2001.2002.tb00682.x
+* Yu, Ying-shih, 1986, “Han Foreign Relations”, in *The Cambridge History of China*, volume 1, Denis Twitchett and Michael Loewe (eds), Cambridge, UK: Cambridge University Press, pp. 377–462. doi: 10.1017/CHOL9780521243278.008
+* Yuan, Lijun, 2002, “Ethics of Care and Concept of Jen: A Reply to Chenyang Li”, *Hypatia*, 17(1): 107–130. doi: 10.1111/j.1527-2001.2002.tb00682.x
 * –––, 2019, *Confucian Ren and Feminist Ethics of Care: Integrating Relational Self, Power, and Democracy*, Lanham, MD: Lexington.
-* Zack, Naomi (ed.), 2017, *The Oxford Handbook of Philosophy and Race*, New York, NY: Oxford University Press. doi:10.1093/oxfordhb/9780190236953.001.0001
-* Zito, Angela, 2007, “Secularizing the Pain of Footbinding in China: Missionary and Medical Stagings of the Universal Body”, *Journal of the American Academy of Religion*, 75(1): 1–24. doi:10.1093/jaarel/lfl062.
+* Zack, Naomi (ed.), 2017, *The Oxford Handbook of Philosophy and Race*, New York, NY: Oxford University Press. doi: 10.1093/oxfordhb/9780190236953.001.0001
+* Zito, Angela, 2007, “Secularizing the Pain of Footbinding in China: Missionary and Medical Stagings of the Universal Body”, *Journal of the American Academy of Religion*, 75(1): 1–24. doi: 10.1093/jaarel/lfl062.
 
 ## Academic Tools
 

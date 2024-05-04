@@ -6,7 +6,7 @@
 
 > 涉及审查的不是身体或精神障碍，而是将特定属性定义为障碍的社会规范，以及将带有污名属性的特定人群集中在一起的社会条件。 (2017)
 
-批判的残疾理论将他们的工作重点放在行动主义上，但并不打算让洞见局限于学术范围内。例如，朱莉·阿维尔·米尼奇（Julie Avril Minich）认为，批判的残疾理论涉及到
+批判的残疾理论将他们的工作重点放在行动主义上，但并不打算让洞见局限于学术范围内。例如，朱莉 · 阿维尔 · 米尼奇（Julie Avril Minich）认为，批判的残疾理论涉及到
 
 > 批判的残疾理论 [that] 应该不是为了自身而进行，而是为了产生支持被污名化身体和心灵的人的正义知识。 (2017)
 
@@ -16,7 +16,7 @@
 
 > 残疾并非根本是医学或健康问题，也不仅仅是敏感和同情的问题；相反，它是政治和权力（无力）的问题，权力控制和权力赋予。（2006 年：2，引自 Gillies 2014 和 Sleeter 2010）
 
-批判的残疾理论关注被贬低的人，然而，对于批判的残疾理论的主体是谁的争议正是该方法的核心所在。这一争议强烈地表明了批判的残疾方法论对于更普遍的理论工作的重要性。批判的残疾理论认真对待残疾身份的传承和建构，但这种身份是不断变化的，与人类体现的本质相关。残疾作为一个“身份类别”是独特的，因为“任何人都可以随时进入[其中]，如果我们活得足够长，我们都会加入其中”（Garland-Thomson 2002: 20）。事实上，该方法对脆弱性的关注延伸到非人类动物，因为一些批判的残疾理论家参与批判动物研究（Taylor 2017）。这使得批判的残疾理论，因为它揭示了身体的关键方面，成为任何政治和社会分析的重要组成部分。
+批判的残疾理论关注被贬低的人，然而，对于批判的残疾理论的主体是谁的争议正是该方法的核心所在。这一争议强烈地表明了批判的残疾方法论对于更普遍的理论工作的重要性。批判的残疾理论认真对待残疾身份的传承和建构，但这种身份是不断变化的，与人类体现的本质相关。残疾作为一个“身份类别”是独特的，因为“任何人都可以随时进入 [其中]，如果我们活得足够长，我们都会加入其中”（Garland-Thomson 2002: 20）。事实上，该方法对脆弱性的关注延伸到非人类动物，因为一些批判的残疾理论家参与批判动物研究（Taylor 2017）。这使得批判的残疾理论，因为它揭示了身体的关键方面，成为任何政治和社会分析的重要组成部分。
 
 然而，一些理论家更倾向于直接探讨权力问题，而不是弱势体现。一些理论家认为，残疾及其“前兆”——损伤，恰恰是权力关系的产物（Tremain 2017: 86）。对于其他人来说，残疾指的是身体在“空间和期望的环境中的不一致”（Garland-Thomson 2002: 20）。虽然权力和不一致会产生实质影响，包括对体现的残疾影响，但这些批判性残疾理论家会将残疾描述为与权力直接相关，包括在话语和制度中的排斥和等级制度。然而，这再次强调了批判性残疾理论的重要性。对于例如异常性、能力等级制度以及与残疾相关的其他排斥性构建的关注，同时加深并受到种族主义和性别主义分析的加深。如果残疾是这些理论家所主张的权力的直接表达，那么权力及其对人类生活的影响不能在不将残疾政治化和社会化的情况下加以理解。
 
@@ -104,7 +104,7 @@ Erevelles 发出警告，关于跨越批判理论的联盟，引用了 Sharon Sn
 
 ### 批判的残疾理论内部的紧张关系
 
-批判的残疾理论挑战了更传统的残疾研究的规范性假设、焦点和方向。这种更传统的残疾研究是一个起源于推动社会模式残疾的跨学科领域（Mollow 2017: 340；参见残疾：定义、模式、经验条目）。残疾研究主要关注于为残疾人实现政治包容。为此，在残疾研究的支持下开展的工作通常使用公民权利、少数政治和自由正义框架的语言。西米·林顿将残疾研究描述为一种教育努力，即“一项补救性工作，纠正经典中的遗漏和过失”，同时也是一项必然的政治努力，专注于“包容和整合的认识论”（1998: 525–526）。林顿警告说，在一些学术领域，特别是在卫生专业领域，有一种倾向，即通过将残疾人作为研究对象来自称为“残疾研究”（1998: 526）。然而，这是不准确的，因为残疾研究采取了相反的方法，寻求残疾人的领导，并调查社会环境。同样重要的是要注意，残疾研究的语言已经被“康复和特殊教育部门”等部门所挪用，这些部门仍然与医学模式相关联，并且在涉及残疾时没有“重写剧本”（Meekosha & Shuttleworth 2009: 49）。残疾研究与残疾权利运动合作，将焦点从医学模式和对残疾人的相关干预转移到增加社会中的“适应性”到社会本身的“僵化、缺陷、缺陷和病态结构”（Linton 2005: 518）。例如，林顿写道，
+批判的残疾理论挑战了更传统的残疾研究的规范性假设、焦点和方向。这种更传统的残疾研究是一个起源于推动社会模式残疾的跨学科领域（Mollow 2017: 340；参见残疾：定义、模式、经验条目）。残疾研究主要关注于为残疾人实现政治包容。为此，在残疾研究的支持下开展的工作通常使用公民权利、少数政治和自由正义框架的语言。西米 · 林顿将残疾研究描述为一种教育努力，即“一项补救性工作，纠正经典中的遗漏和过失”，同时也是一项必然的政治努力，专注于“包容和整合的认识论”（1998: 525–526）。林顿警告说，在一些学术领域，特别是在卫生专业领域，有一种倾向，即通过将残疾人作为研究对象来自称为“残疾研究”（1998: 526）。然而，这是不准确的，因为残疾研究采取了相反的方法，寻求残疾人的领导，并调查社会环境。同样重要的是要注意，残疾研究的语言已经被“康复和特殊教育部门”等部门所挪用，这些部门仍然与医学模式相关联，并且在涉及残疾时没有“重写剧本”（Meekosha & Shuttleworth 2009: 49）。残疾研究与残疾权利运动合作，将焦点从医学模式和对残疾人的相关干预转移到增加社会中的“适应性”到社会本身的“僵化、缺陷、缺陷和病态结构”（Linton 2005: 518）。例如，林顿写道，
 
 > 残疾研究的项目是将残疾人重新编织到社会的结构中……作为权利和特权完整的全面公民，他们的历史和贡献被记录下来，他们在艺术、文学、电影、戏剧和其他形式的艺术表达中经常扭曲的形象得到充分分析。（同上）
 
@@ -116,23 +116,23 @@ Erevelles 发出警告，关于跨越批判理论的联盟，引用了 Sharon Sn
 
 批判的残疾理论展示了传统残疾研究中排除的方式。一些差异，比如“激进的语言差异”，包括聋人研究引入的差异，以及“认知残疾和相关的沟通差异”经常被排除在残疾研究之外（Erevelles & Kafer 2010: 212–213）。这些排除发生的一种方式是通过对公共残疾研究学者和活动家形象的投资，他们试图在公共领域展示“强大、抵抗和理性的声音”；Nirmala Erevelles 认为，“往往，这种声音体现了传统的沟通方式和理性”（2010: 213）。Erevelles 称与认知差异和精神疾病患者进行批判性理论和政治联盟为“危险的联盟”，鉴于残疾研究对体现和使用这种声音的重要性（2010: 214）。她主张促成这些联盟并化解残疾研究主导声音。另一方面，Erevelles 认为聋人研究具有激进潜力，但建议保持其独立领域，以与残疾研究的其他领域保持积极张力（2010: 210–212）。在这些领域以及其他领域的批判促成了批判的残疾理论的发展并确定了其议程。
 
-对这些批评，一些理论家持赞同态度。例如，安·福克斯将这种批评框定为对传统残疾研究必须努力成为“批判性”的提醒；她特别指出了批判的残疾理论必须关注的问题。
+对这些批评，一些理论家持赞同态度。例如，安 · 福克斯将这种批评框定为对传统残疾研究必须努力成为“批判性”的提醒；她特别指出了批判的残疾理论必须关注的问题。
 
 > 批判的残疾理论 (2017)
 
-批判的残疾理论认为，其他人则认为这些批评是不公平的，源于一种误导性的方法。例如，Simo Vehmas 和 Nick Watson 捍卫残疾研究，反对“批判性残疾研究”提出的一些关键挑战，包括拒绝残疾研究的唯物主义（在这种情况下，作者指的是古典马克思主义理论；Vehmas＆Watson 2014）。将批判性残疾理论家称为“后结构反二元论者”，Vehmas 和 Watson 认为他们的方法缺乏进行规范性和因此必要的政治工作的基础（2014：638–639）。他们写道：“[批判性残疾研究]不研究残疾人应该如何在权利和错误、好坏方面”（2014：638）。然而，批判性残疾理论家一贯认为自己在进行规范性和政治工作。例如，Margrit Shildrick 回应了批评她的女性主义后现代主义是非规范性的观点。她写道，
+批判的残疾理论认为，其他人则认为这些批评是不公平的，源于一种误导性的方法。例如，Simo Vehmas 和 Nick Watson 捍卫残疾研究，反对“批判性残疾研究”提出的一些关键挑战，包括拒绝残疾研究的唯物主义（在这种情况下，作者指的是古典马克思主义理论；Vehmas＆Watson 2014）。将批判性残疾理论家称为“后结构反二元论者”，Vehmas 和 Watson 认为他们的方法缺乏进行规范性和因此必要的政治工作的基础（2014：638–639）。他们写道：“[批判性残疾研究] 不研究残疾人应该如何在权利和错误、好坏方面”（2014：638）。然而，批判性残疾理论家一贯认为自己在进行规范性和政治工作。例如，Margrit Shildrick 回应了批评她的女性主义后现代主义是非规范性的观点。她写道，
 
 > 法律、绝对和指导性规则和原则的缺席本身要求在面对对回应的需求时具有高度的个人责任
 
 批判的残疾理论
 
-批判的残疾理论家担心传统残疾研究中对疼痛的重视不够（Mollow 2017, 350）。然而，那些致力于改变传统残疾研究的人尚未确定疼痛在批判性残疾工作中的角色。事实上，疼痛的问题在更广泛的残疾体现角色中起到了换喻的作用（Tremain 2017: 114）。一些人认为，随着社会模式残疾的持久影响使理论家远离体现，并转向对残疾的政治和社会描述，身体已经消失。像珍妮·莫里斯（Jenny Morris）这样的残疾女性主义思想家希望通过维持一种残疾叙事来实现对身体可能带来的障碍的认可。根据残疾理论家汤姆·莎士比亚（Tom Shakespeare）和马克·埃里克森（Mark Erickson）的观点，这些思想家：
+批判的残疾理论家担心传统残疾研究中对疼痛的重视不够（Mollow 2017, 350）。然而，那些致力于改变传统残疾研究的人尚未确定疼痛在批判性残疾工作中的角色。事实上，疼痛的问题在更广泛的残疾体现角色中起到了换喻的作用（Tremain 2017: 114）。一些人认为，随着社会模式残疾的持久影响使理论家远离体现，并转向对残疾的政治和社会描述，身体已经消失。像珍妮 · 莫里斯（Jenny Morris）这样的残疾女性主义思想家希望通过维持一种残疾叙事来实现对身体可能带来的障碍的认可。根据残疾理论家汤姆 · 莎士比亚（Tom Shakespeare）和马克 · 埃里克森（Mark Erickson）的观点，这些思想家：
 
-> 不否认社会造成了许多问题，[但]他们也觉得他们的身体可能会带来困难，并且希望任何残疾理论都能考虑到他们生活中的身体维度。他们认为，在发展社会和结构分析时，残疾运动忽略了他们经历的一个关键方面。 (2001: 195)
+> 不否认社会造成了许多问题，[但] 他们也觉得他们的身体可能会带来困难，并且希望任何残疾理论都能考虑到他们生活中的身体维度。他们认为，在发展社会和结构分析时，残疾运动忽略了他们经历的一个关键方面。 (2001: 195)
 
-批判的残疾理论认为，苏珊·温德尔（Susan Wendell）认为，将疼痛的欲望和可能性归于“他者”，同时幻想“正常”身体，重要支撑着排斥残疾者和拒绝残疾人的行为。对她而言，关注疼痛在和解自己的身体中扮演着重要角色（1996: 179）。因此，忽视疼痛及其在残疾中的作用将导致对正常性等级的误解。然而，雪莱·特雷门（Shelley Tremain）则专注于社会和政治，认为“疼痛及其经历在历史和文化上是相对的，并且是可解释的”（Tremain 2017: 116）。无论疼痛是否被否认，以及疼痛如何被视为在残疾中扮演角色，都已成为批判性残疾理论中的争议焦点。
+批判的残疾理论认为，苏珊 · 温德尔（Susan Wendell）认为，将疼痛的欲望和可能性归于“他者”，同时幻想“正常”身体，重要支撑着排斥残疾者和拒绝残疾人的行为。对她而言，关注疼痛在和解自己的身体中扮演着重要角色（1996: 179）。因此，忽视疼痛及其在残疾中的作用将导致对正常性等级的误解。然而，雪莱 · 特雷门（Shelley Tremain）则专注于社会和政治，认为“疼痛及其经历在历史和文化上是相对的，并且是可解释的”（Tremain 2017: 116）。无论疼痛是否被否认，以及疼痛如何被视为在残疾中扮演角色，都已成为批判性残疾理论中的争议焦点。
 
-这些紧张关系，以及更多的问题，已经在文献中出现。即使发生了地震般的变革，批判性残疾理论究竟是一种新运动还是更传统残疾研究的持续发展尚不清楚。语言使用在理论家之间以及在多个学术圈子中涌现的关于残疾的交叉、政治参与性工作中存在差异。在这方面，Meekosha 和 Shuttleworth 想知道批判性残疾理论是否“构成了一种激进的范式转变，还是仅仅意味着[残疾研究]的成熟”（2009: 48）。本文不会试图解决这个问题，因为这个问题尚未解决；相反，它将涵盖那些理论家们普遍认为是批判性残疾理论发展工作的标志性方法和主题。
+这些紧张关系，以及更多的问题，已经在文献中出现。即使发生了地震般的变革，批判性残疾理论究竟是一种新运动还是更传统残疾研究的持续发展尚不清楚。语言使用在理论家之间以及在多个学术圈子中涌现的关于残疾的交叉、政治参与性工作中存在差异。在这方面，Meekosha 和 Shuttleworth 想知道批判性残疾理论是否“构成了一种激进的范式转变，还是仅仅意味着 [残疾研究] 的成熟”（2009: 48）。本文不会试图解决这个问题，因为这个问题尚未解决；相反，它将涵盖那些理论家们普遍认为是批判性残疾理论发展工作的标志性方法和主题。
 
 ## 跨学科方法
 
@@ -140,15 +140,15 @@ Erevelles 发出警告，关于跨越批判理论的联盟，引用了 Sharon Sn
 
 ### 批判的残疾理论
 
-酷儿理论和批判的残疾理论在“残疾理论”这一概念的伞下进行富有成效的勾结，推动了两个领域的理解并沿着新的方向前进（McRuer 2003, 2004, 和 2006a; Mollow 2017; Schalk 2013）。酷儿理论和残疾理论有着共同的兴趣，包括挑战医学化，一些人认为艾滋病危机催生了两者之间的联系（例如，Mollow 2017, 342）。此外，残疾理论源自残疾研究，但借鉴酷儿理论进行新的分析（Schalk 2013）。例如，考虑到通过和出柜的问题，这些问题在酷儿理论和残疾理论的交汇处得到了富有成果的分析（见 Garland Thomson 2002: 21）。残疾理论家罗伯特·麦克鲁尔认为残疾理论
+酷儿理论和批判的残疾理论在“残疾理论”这一概念的伞下进行富有成效的勾结，推动了两个领域的理解并沿着新的方向前进（McRuer 2003, 2004, 和 2006a; Mollow 2017; Schalk 2013）。酷儿理论和残疾理论有着共同的兴趣，包括挑战医学化，一些人认为艾滋病危机催生了两者之间的联系（例如，Mollow 2017, 342）。此外，残疾理论源自残疾研究，但借鉴酷儿理论进行新的分析（Schalk 2013）。例如，考虑到通过和出柜的问题，这些问题在酷儿理论和残疾理论的交汇处得到了富有成果的分析（见 Garland Thomson 2002: 21）。残疾理论家罗伯特 · 麦克鲁尔认为残疾理论
 
 > 应该被理解为与残疾研究和身份具有类似的争议性关系，就像酷儿理论与 LGBT 研究和身份之间的关系一样。 (2006b: 35)
 
-扩展这一点，艾莉森·凯弗描述了麦克鲁尔的工作（例如，2006b）将“残疾理论置于与自由主义对接受、宽容和同化观念的对抗关系中”（2009: 292）。例如，麦克鲁尔“在酷儿批评新自由主义的基础上”，通过补充现有的酷儿对世界银行作为异性恋规范性场所的分析，描述其残疾主义或“反残疾”逻辑（凯弗 2009: 291）。残疾理论家坚持认为，对这一及其他感兴趣的场所的全面分析需要“酷儿和残疾理论”（同上，参见麦克鲁尔 2003, 2005, 2006a）。这些场所包括异性恋和健全身体的文化要求，它们之间有着重要的联系（凯弗 2003）。
+扩展这一点，艾莉森 · 凯弗描述了麦克鲁尔的工作（例如，2006b）将“残疾理论置于与自由主义对接受、宽容和同化观念的对抗关系中”（2009: 292）。例如，麦克鲁尔“在酷儿批评新自由主义的基础上”，通过补充现有的酷儿对世界银行作为异性恋规范性场所的分析，描述其残疾主义或“反残疾”逻辑（凯弗 2009: 291）。残疾理论家坚持认为，对这一及其他感兴趣的场所的全面分析需要“酷儿和残疾理论”（同上，参见麦克鲁尔 2003, 2005, 2006a）。这些场所包括异性恋和健全身体的文化要求，它们之间有着重要的联系（凯弗 2003）。
 
-在这种情况下，性研究是残疾理论的一个明显场所（McRuer 2011; McRuer & Mollow 2012）。采用残疾理论探讨性的文学作品多种多样，其中许多与种族交叉。以下是一些著名的例子。Eli Clare 在酷儿经历和残疾交叉点上广泛撰写，既有个人叙事也有政治叙事（例如，1999 年，2001 年，2013 年）。Ann Mollow 从缺乏和过剩两方面理论化残疾性，将她的洞见与精神分析联系起来（2012 年）。Lydia X. Z. Brown 从自闭症者的视角写作关于关系和性的文章（2013 年）。Kenny Fries 是几部重要回忆录的作者，将残疾和性联系起来（2003 年，2007 年，2017 年），他还写过关于美和身体形象的文章（1995 年[1998]）。Michael Gill 的研究重点是性代理和智力残疾，包括性虐待和同意（2010 年，2015 年），他分析了一档名为《特别人》的在线真人秀（2012 年）。该文章审视了一集中五名白人智力残疾成年人与曼谷性工作者之间的相遇引发了同意和性别跨越的问题（同上）。针对美国种族主义和能力主义的历史爆发性暴力和持续暴力，Michelle Jarman 理论化了“认知残疾男性的优生阉割”，以主张“将种族和残疾视为相互关联的、动态的过程可以丰富我们对过去和现在暴力的理解”（2012: 89–90）。Ellen Samuels 从残疾角度理论化了“走出柜子”的语言的局限性（2003 年）。同时，Alexandre Baril 运用残疾理论框架探讨与跨性别身份和残疾相关的各种问题，包括英语规范性、顺性规范性、虚弱性和跨能力（2015a，2015b，2015c，2016; Baril & Trevenen 2014）。
+在这种情况下，性研究是残疾理论的一个明显场所（McRuer 2011; McRuer & Mollow 2012）。采用残疾理论探讨性的文学作品多种多样，其中许多与种族交叉。以下是一些著名的例子。Eli Clare 在酷儿经历和残疾交叉点上广泛撰写，既有个人叙事也有政治叙事（例如，1999 年，2001 年，2013 年）。Ann Mollow 从缺乏和过剩两方面理论化残疾性，将她的洞见与精神分析联系起来（2012 年）。Lydia X. Z. Brown 从自闭症者的视角写作关于关系和性的文章（2013 年）。Kenny Fries 是几部重要回忆录的作者，将残疾和性联系起来（2003 年，2007 年，2017 年），他还写过关于美和身体形象的文章（1995 年 [1998]）。Michael Gill 的研究重点是性代理和智力残疾，包括性虐待和同意（2010 年，2015 年），他分析了一档名为《特别人》的在线真人秀（2012 年）。该文章审视了一集中五名白人智力残疾成年人与曼谷性工作者之间的相遇引发了同意和性别跨越的问题（同上）。针对美国种族主义和能力主义的历史爆发性暴力和持续暴力，Michelle Jarman 理论化了“认知残疾男性的优生阉割”，以主张“将种族和残疾视为相互关联的、动态的过程可以丰富我们对过去和现在暴力的理解”（2012: 89–90）。Ellen Samuels 从残疾角度理论化了“走出柜子”的语言的局限性（2003 年）。同时，Alexandre Baril 运用残疾理论框架探讨与跨性别身份和残疾相关的各种问题，包括英语规范性、顺性规范性、虚弱性和跨能力（2015a，2015b，2015c，2016; Baril & Trevenen 2014）。
 
-这些与性取向相关的问题并不能穷尽残疾理论的可能性；正如麦克鲁尔的工作所表明的那样，残疾理论延伸至利用酷儿和残疾理论为跳板的各种概念。事实上，残疾理论非常包容，并邀请被病态化的人士结成联盟，符合批判的残疾理论的传统。萨米·沙尔克指出
+这些与性取向相关的问题并不能穷尽残疾理论的可能性；正如麦克鲁尔的工作所表明的那样，残疾理论延伸至利用酷儿和残疾理论为跳板的各种概念。事实上，残疾理论非常包容，并邀请被病态化的人士结成联盟，符合批判的残疾理论的传统。萨米 · 沙尔克指出
 
 > Alison Kafer 认为残疾理论允许包容“那些缺乏‘适当’（即：在医学上可接受、由医生提供和保险商批准的）症状诊断的人”和“认同残疾但不仅缺乏诊断，而且没有任何‘症状’的人”。（Kafer 2013: 12, 13, 如 Schalk 2017 所引）
 
@@ -164,7 +164,7 @@ Erevelles 发出警告，关于跨越批判理论的联盟，引用了 Sharon Sn
 
 同样，Kim Q. Hall 支持对未来的激进希望，并认为这种希望不仅对酷儿、残障和女性主义运动有广泛影响，而且对缓解气候变化也有影响（2014 年）。Rayna Rapp 和 Faye Ginsburg 也在同一思路上，寻求共同创造宜居世界，关注残疾的未来性，并利用人口统计研究来“使残疾有意义”而不是“在未来计算残疾”（Ginsburg & Rapp 2015，另见 Ginsburg & Rapp 2017）。
 
-这种对未来的关注与批判理论传统紧密相连。例如，弗里奇（Fritsch）运用康德（Theodor Adorno）的负面辩证法概念，认为残疾是“感性批判思维”的中心部分，这是批判和另类生活所必需的（2013 年，参见阿多诺（Adorno）1966 年[1973 年：11]）。阿多诺描述了一个被同质化的“同一性思维”主导的世界，这种思维“抹除了矛盾、对立和差异”，“帮助并支持资本主义”。然而，酷儿/残疾人物，即“变形的残废者”，是一个不合群的存在，可以“鬼魂般地出现在拒绝差异的同一性思维的健全世界”中（2013 年）。弗里奇因此对变形的残废者能够打破同一性思维持有希望。她写道，
+这种对未来的关注与批判理论传统紧密相连。例如，弗里奇（Fritsch）运用康德（Theodor Adorno）的负面辩证法概念，认为残疾是“感性批判思维”的中心部分，这是批判和另类生活所必需的（2013 年，参见阿多诺（Adorno）1966 年 [1973 年：11]）。阿多诺描述了一个被同质化的“同一性思维”主导的世界，这种思维“抹除了矛盾、对立和差异”，“帮助并支持资本主义”。然而，酷儿/残疾人物，即“变形的残废者”，是一个不合群的存在，可以“鬼魂般地出现在拒绝差异的同一性思维的健全世界”中（2013 年）。弗里奇因此对变形的残废者能够打破同一性思维持有希望。她写道，
 
 > 批判的残疾理论认为，残疾者的转变将对新自由主义资本主义和残疾范畴本身提出最大挑战，并加以否定。通过认真、批判性和反思性地对待我们的痛苦之间的差异和相似之处，我们为不舒适的残疾社区的差异开辟了空间、裂缝和可能性。 (同上)
 
@@ -174,7 +174,7 @@ Erevelles 发出警告，关于跨越批判理论的联盟，引用了 Sharon Sn
 
 Subini Annamma 在批判的残疾理论中运用空间性和地理学来探讨无证残障人士，尤其是被困在这一管道中的年轻女孩的教育经历（2013 年，2014a，2014b，2017）。Annamma 与经常合作的 David Connor 和 Beth Ferri 为教育领域中使用批判的残疾理论设定了基调（Annamma，Connor 和 Ferri 2013; Annamma，Ferri 和 Connor 2018）。他们广泛编辑的著作《DisCrit：教育中的残疾研究和批判种族理论》展示了 21 位学者关于关键主题的研究成果，并展示了各种方法论和应用（Connor，Ferri 和 Annamma 2016）。
 
-“DisCrit 在黑人和批判性种族女权主义学术和行动中的基础”，包括安娜·朱莉娅·库珀（Anna Julia Cooper）、金伯莱·克伦肖（Kimberlé Crenshaw）、帕特里夏·希尔·柯林斯（Patricia Hill Collins）以及各种“知识祖先”，如安吉拉·戴维斯（Angela Davis）、贝尔·胡克斯（bell hooks）、奥德丽·洛德（Audre Lorde）和索杰娜·特鲁斯（Sojourner Truth）（Annamma, Ferri, and Connor 2018: 47）。尽管这些祖先和当代黑人女性主义者并未对残疾进行重要处理，但这种“开创性工作”的“交叉性质”仍然对 DisCrit 的发展起到了基础性作用”（2018: 47–48）。考虑到残疾研究中的基础性主张，包括“优先考虑基于残疾人生活经验的知识”（2018: 49），并将这一点与批判种族理论中的其他见解相结合，DisCrit 挑战了“特殊教育”，使理论家能够更好地“构建和分析有色残疾青年的生活”（2018: 49）。
+“DisCrit 在黑人和批判性种族女权主义学术和行动中的基础”，包括安娜 · 朱莉娅 · 库珀（Anna Julia Cooper）、金伯莱 · 克伦肖（Kimberlé Crenshaw）、帕特里夏 · 希尔 · 柯林斯（Patricia Hill Collins）以及各种“知识祖先”，如安吉拉 · 戴维斯（Angela Davis）、贝尔 · 胡克斯（bell hooks）、奥德丽 · 洛德（Audre Lorde）和索杰娜 · 特鲁斯（Sojourner Truth）（Annamma, Ferri, and Connor 2018: 47）。尽管这些祖先和当代黑人女性主义者并未对残疾进行重要处理，但这种“开创性工作”的“交叉性质”仍然对 DisCrit 的发展起到了基础性作用”（2018: 47–48）。考虑到残疾研究中的基础性主张，包括“优先考虑基于残疾人生活经验的知识”（2018: 49），并将这一点与批判种族理论中的其他见解相结合，DisCrit 挑战了“特殊教育”，使理论家能够更好地“构建和分析有色残疾青年的生活”（2018: 49）。
 
 Annamma, Ferri, and Connor 提供了 DisCrit 的详尽谱系，并审查了现有文献（2018）。通过对主题和话题进行深入审查，他们提出了 DisCrit 的七个基本原则，并在文献中列举了每个原则的例证。这些原则如下：
 
@@ -190,7 +190,7 @@ Annamma, Ferri, and Connor 提供了 DisCrit 的详尽谱系，并审查了现�
 
 与此同时，黑人残疾研究已经发展出一种独特的教育方法论，主张进行干预以转变整个教育范式，并拒绝在课程中进行混淆、特定主题的处理（Dunhamn 等，2015）。残疾的方法必须改变以开启有用的种族分析。例如，Sami Schalk 认为，不考虑残疾和能力，就不可能理论化种族和残疾的交叉点。例如，她认为，残疾，
 
-> 在对智力能力较低的主张方面，用来为黑人奴役辩护，同时对黑人身体的理解为超强和不受热和疼痛影响也为奴隶劳动条件辩护。这种种族双重束缚，借用玛丽莲·弗莱的话，将黑人定位为既残障又超能力，但在这两种情况下都适合奴役。（2017）
+> 在对智力能力较低的主张方面，用来为黑人奴役辩护，同时对黑人身体的理解为超强和不受热和疼痛影响也为奴隶劳动条件辩护。这种种族双重束缚，借用玛丽莲 · 弗莱的话，将黑人定位为既残障又超能力，但在这两种情况下都适合奴役。（2017）
 
 Liat Ben-Moshe，其关于监禁、去机构化和疯狂研究的工作支持了批判性残疾理论中的许多主题，并与种族有重要交集，她还致力于残疾在教学和教育中的问题。Ben-Moshe 共同编辑了《建设教学无障碍》（Ben-Moshe, Cory, Feldbaum, & Sagendorf 2005），这是一本提供高等教育无障碍资源和将残疾融入课程的文本。她关注了在课堂上使用残疾作为隐喻的问题，并提出了一些方法，通过这些方法，教育工作者可以富有成效地教授文学中残疾的使用（2006）。Ben-Moshe 还共同编辑了《残疾研究季刊》的一个特刊，主题是“残疾研究教学中的干预”（第 35 卷，第 2 期）。在这一期的引言中，Ben-Moshe 写道：“我将残疾研究视为传教工作，我的许多教学工作都是转化的工作”。在描述转化时，Ben-Moshe 提到了获取权限，但也提到了“将学生转化为交叉理解残疾的人，将其视为一种身份和文化”（Ben-Moshe, Day, Ferris, & Nielsen [eds] 2015）。
 
@@ -200,15 +200,15 @@ Liat Ben-Moshe，其关于监禁、去机构化和疯狂研究的工作支持了
 
 与此同时，Lavonna Lovern 从美国土著人的角度理论化残疾，考虑了北美土著社区内的差异和包容性（2008, 2017）。她认为，理论家和活动家必须关注主导文化与美国土著文化之间的差异；否则，选择将自己视为残疾可能会进一步压迫美国土著社区内的人。关注差异包括在理论化有关土著残疾或与这些社区团结一致时，对美国土著社区的本体论和认识论进行批判性关注（2008）。西方对身体和心灵的概念与美国土著的概念不同，殖民历史使这些差异变得尤为复杂。全球范围内的残疾对话将受益于土著声音的参与，残疾土著人的处境将因其被纳入而得到改善（2017）。与 Carol Locust 合作，Lovern 探讨了跨文化之间必要的翻译工作，以促进更深入的理解，阐明了美国土著对差异的理解（Lovern & Locust 2013）。在另一个重要的例子中，Devi Mucina 从南非土著 Ubuntu 的视角撰写；他的工作涉及残疾，包括发展性残疾、叙事和黑人身份（例如，2010）。
 
-批判的残疾理论领域的后殖民理论家处理殖民化和新殖民化问题，将残疾置于这一背景之中。正如我们已经看到的，土著残疾学者正在处理殖民化的纠缠影响。后殖民理论家试图通过以全球南方为中心，挑战资本主义、文化和话语中的新殖民主义，并从多元文化重新探讨残疾问题来去殖民化残疾（参见 Meekosha & Shuttleworth 2009: 54）。例如，肖恩·格雷奇详细描述了西方残疾研究的输出，指出这使生活在全球南方的大多数残疾人沉默。格雷奇揭示并批判了新自由主义发展项目在这一全球南方多数人群中的实施方式（2011 年）。另一个值得注意的例子是，菲奥娜·库玛里·坎贝尔在《Ableism 的轮廓》（2009 年）中对西方残疾研究进行了隐性批判。正如丹·古德利在该书前言中所写道：“坎贝尔不仅批判了无障碍主义，而且她将其从好船帝国的高位上抓住，然后将其撕成碎片”（2009: ix）。
+批判的残疾理论领域的后殖民理论家处理殖民化和新殖民化问题，将残疾置于这一背景之中。正如我们已经看到的，土著残疾学者正在处理殖民化的纠缠影响。后殖民理论家试图通过以全球南方为中心，挑战资本主义、文化和话语中的新殖民主义，并从多元文化重新探讨残疾问题来去殖民化残疾（参见 Meekosha & Shuttleworth 2009: 54）。例如，肖恩 · 格雷奇详细描述了西方残疾研究的输出，指出这使生活在全球南方的大多数残疾人沉默。格雷奇揭示并批判了新自由主义发展项目在这一全球南方多数人群中的实施方式（2011 年）。另一个值得注意的例子是，菲奥娜 · 库玛里 · 坎贝尔在《Ableism 的轮廓》（2009 年）中对西方残疾研究进行了隐性批判。正如丹 · 古德利在该书前言中所写道：“坎贝尔不仅批判了无障碍主义，而且她将其从好船帝国的高位上抓住，然后将其撕成碎片”（2009: ix）。
 
 ## 哲学方法论
 
-本节提供了哲学领域的关键工作示例，这些工作对批判性残疾理论产生影响并借鉴于此。一个子部分追踪了米歇尔·福柯的影响，他在批判性残疾理论中具有重要意义；第二个子部分捕捉了根植于大陆哲学的多个分析线索，这些线索对批判性残疾理论的话语、肉体和心理线索做出了贡献。
+本节提供了哲学领域的关键工作示例，这些工作对批判性残疾理论产生影响并借鉴于此。一个子部分追踪了米歇尔 · 福柯的影响，他在批判性残疾理论中具有重要意义；第二个子部分捕捉了根植于大陆哲学的多个分析线索，这些线索对批判性残疾理论的话语、肉体和心理线索做出了贡献。
 
 ### 福柯分析
 
-法国哲学家米歇尔·福柯（Michel Foucault）的作品，尤其是其对历史概念的购买和权力分析方面，在批判性残疾理论中具有深刻的影响。本小节提供了福柯主义方法在批判性残疾理论中的关键示例。
+法国哲学家米歇尔 · 福柯（Michel Foucault）的作品，尤其是其对历史概念的购买和权力分析方面，在批判性残疾理论中具有深刻的影响。本小节提供了福柯主义方法在批判性残疾理论中的关键示例。
 
 特雷门（Tremain）的编辑合集《福柯与残疾治理》（Foucault and the Government of Disability）（2005 年）汇集了跨学科、国际性的关于残疾的研究，涵盖了许多使用福柯方法的理论家的作品。在该卷的引言中，特雷门写道，
 
@@ -216,15 +216,15 @@ Liat Ben-Moshe，其关于监禁、去机构化和疯狂研究的工作支持了
 
 Tremain 认为，Foucault 关于生命权力和主体的概念在分析残疾方面是“不可或缺的”，这与他关于政府、或者说行为的行为，以及自由主义的核心概念相关。这意味着残疾对这两个概念都是至关重要的（2005: 7）。
 
-福柯主义方法跟随批判性残疾理论的努力，挑战了缺陷和残疾之间的区别。特雷曼认为，社会模型，根植于传统的残疾研究和英国活动家的思维中，失败在于它强烈区分了缺陷和残疾（2005: 9）。对于特雷曼来说，缺陷并非自然的、价值中立的和客观的，而是“具有历史特定性和表演性”（2017: 115，参见 2005: 11）。在这方面，特雷曼努力破坏、使陌生化和去自然化诸如“残疾人士”这样的术语，缺陷之间的“严重程度”层次，缺陷本身的术语，以及残疾之间的类型或种类区别（例如，身体或智力等其他类似术语）（2017）。对于她来说，缺陷，就像残疾一样，是权力关系的产物。正如朱迪斯·巴特勒声称性别是通过性别表现构成的一样，特雷曼利用福柯来提出残疾和缺陷之间关系的同样主张（2017: 115，参见特雷曼 2001）。她写道，“缺陷一直就是残疾——或者说，是残疾装置的一个元素”（2017: 93）。事实上，根据特雷曼的说法，我们不应该感到惊讶缺陷本身也是历史性的，因为“缺陷分类的变化限制和边界展示了其历史性和文化特异性”（2017: 93）。
+福柯主义方法跟随批判性残疾理论的努力，挑战了缺陷和残疾之间的区别。特雷曼认为，社会模型，根植于传统的残疾研究和英国活动家的思维中，失败在于它强烈区分了缺陷和残疾（2005: 9）。对于特雷曼来说，缺陷并非自然的、价值中立的和客观的，而是“具有历史特定性和表演性”（2017: 115，参见 2005: 11）。在这方面，特雷曼努力破坏、使陌生化和去自然化诸如“残疾人士”这样的术语，缺陷之间的“严重程度”层次，缺陷本身的术语，以及残疾之间的类型或种类区别（例如，身体或智力等其他类似术语）（2017）。对于她来说，缺陷，就像残疾一样，是权力关系的产物。正如朱迪斯 · 巴特勒声称性别是通过性别表现构成的一样，特雷曼利用福柯来提出残疾和缺陷之间关系的同样主张（2017: 115，参见特雷曼 2001）。她写道，“缺陷一直就是残疾——或者说，是残疾装置的一个元素”（2017: 93）。事实上，根据特雷曼的说法，我们不应该感到惊讶缺陷本身也是历史性的，因为“缺陷分类的变化限制和边界展示了其历史性和文化特异性”（2017: 93）。
 
 Tremain 使用 Foucault 的理论方法阐述了残疾的女性主义哲学。在这一观点中，残疾既是相对的，也是历史性的（2017）。在其他创新中，Tremain 引入了能力例外主义的概念，将残疾标记为非政治化，即使哲学家和其他理论家彻底将其他身份类别政治化和问题化（2017: 33-34）。沿着这些线索，她分析了女性主义哲学、哲学以及高等教育领域的工作，因其排斥而复制了残疾是个体、生物性问题的观念（2017: 30）。
 
-福柯在批判性残疾理论中的运用存在差异，因此在思考残疾问题时还有其他关键的福柯贡献。利西娅·卡尔森（Carlson，2009，另见 Carlson 2001）使用福柯的系谱学构建智力残疾的历史，展示智力残疾是偶然的和建构的，挑战了长期以来哲学和伦理学对其意义和影响的信念。尼尔玛拉·埃雷维尔斯（Erevelles，2002）利用福柯对皮埃尔·里维埃尔的论述来框定有关自闭症学生使用辅助沟通的辩论；通过这种比较，她利用福柯暗示人类主体是虚构的，从而打破了一个人是否被认为是智力残疾者能否自我表达的问题。艾米·哈姆雷（Hamraie，2015）的女性主义工作集中在批判性残疾理论中的获取、技术和通用设计，她运用福柯勾勒出一种历史认识论的残疾方法。约书亚·圣皮埃尔（St. Pierre，2013，2015a，2015b）的批判性工作侧重于言语障碍，他利用福柯将言语病理学定位为一种意图将言语置于生命权力之下的统治性话语。在这些背景下使用福柯并非没有批评。例如，比尔·休斯（Hughes，2005）反对在残疾理论中使用福柯分析。
+福柯在批判性残疾理论中的运用存在差异，因此在思考残疾问题时还有其他关键的福柯贡献。利西娅 · 卡尔森（Carlson，2009，另见 Carlson 2001）使用福柯的系谱学构建智力残疾的历史，展示智力残疾是偶然的和建构的，挑战了长期以来哲学和伦理学对其意义和影响的信念。尼尔玛拉 · 埃雷维尔斯（Erevelles，2002）利用福柯对皮埃尔 · 里维埃尔的论述来框定有关自闭症学生使用辅助沟通的辩论；通过这种比较，她利用福柯暗示人类主体是虚构的，从而打破了一个人是否被认为是智力残疾者能否自我表达的问题。艾米 · 哈姆雷（Hamraie，2015）的女性主义工作集中在批判性残疾理论中的获取、技术和通用设计，她运用福柯勾勒出一种历史认识论的残疾方法。约书亚 · 圣皮埃尔（St. Pierre，2013，2015a，2015b）的批判性工作侧重于言语障碍，他利用福柯将言语病理学定位为一种意图将言语置于生命权力之下的统治性话语。在这些背景下使用福柯并非没有批评。例如，比尔 · 休斯（Hughes，2005）反对在残疾理论中使用福柯分析。
 
-批判性思想家经常使用福柯来评估、分析和重新考虑与残疾密切相关的生物医学伦理学话题。凯瑟琳·米尔斯（Catherine Mills）批判性地介入生物伦理学，采用了主要的福柯式方法，涉及生殖、基因筛查和选择性终止等话题（2008 年，2011 年，2013 年，2015 年）。梅琳达·C·霍尔（Melinda C. Hall）运用福柯的系谱学和生物政治框架，包括他关于卑鄙主权的概念，重新构建了关于人类增强的生物伦理辩论（2013 年，2016 年）。她认为，残疾、拒绝残疾未来以及将政治和社会问题简化为生物记录是支撑超人类主义欲望实现后人类的基础（2016 年）。玛丽卢·加尼昂（Marilou Gagnon）在护理领域批判性地评估禁闭室、公共卫生运动、艾滋病毒和远程护理，采用福柯的主权权力和治理理论结构（Gagnon，Jacob 和 Holmes 2010 年；Gagnon 和 Stuart 2008 年；Guta，Gagon 和 Jacob 2012 年；以及 Jacob，Gagnon，Perron 和 Holmes 2009 年）。
+批判性思想家经常使用福柯来评估、分析和重新考虑与残疾密切相关的生物医学伦理学话题。凯瑟琳 · 米尔斯（Catherine Mills）批判性地介入生物伦理学，采用了主要的福柯式方法，涉及生殖、基因筛查和选择性终止等话题（2008 年，2011 年，2013 年，2015 年）。梅琳达 ·C· 霍尔（Melinda C. Hall）运用福柯的系谱学和生物政治框架，包括他关于卑鄙主权的概念，重新构建了关于人类增强的生物伦理辩论（2013 年，2016 年）。她认为，残疾、拒绝残疾未来以及将政治和社会问题简化为生物记录是支撑超人类主义欲望实现后人类的基础（2016 年）。玛丽卢 · 加尼昂（Marilou Gagnon）在护理领域批判性地评估禁闭室、公共卫生运动、艾滋病毒和远程护理，采用福柯的主权权力和治理理论结构（Gagnon，Jacob 和 Holmes 2010 年；Gagnon 和 Stuart 2008 年；Guta，Gagon 和 Jacob 2012 年；以及 Jacob，Gagnon，Perron 和 Holmes 2009 年）。
 
-艾伦·费德尔（Ellen Feder）经常采用福柯的方法，特别是利用福柯的生命权概念，介入生物伦理学话语，并在分析家庭、性别认同、间性问题、种族以及围绕身体的羞耻等方面取得进展，所有这些都是批判性残疾理论（1997 年、2000 年、2007 年、2009 年和 2014 年）中的重要内容。凯瑟琳·克卢恩-泰勒（Catherine Clune-Taylor）利用福柯批判性地审视和处理间性和性发育理解的演变，干预治疗方案、转化疗法以及对进化和性别的简化理解（2010 年；另见 Clune-Taylor 2016）。爱丽丝·德雷格（Alice Dreger）也曾运用福柯的理论来思考间性（1998 年）。费德尔还使用了其他大陆哲学家的概念，包括布尔迪厄的惯性，来考虑在儿童呈现非典型生殖器的情况下，规范化对亲子关系的影响（2006 年）。费德尔认为，性别差异的表现构建了现实，并成为共享意识形态的一部分，使人难以认识到复杂化了对性别差异的常见理解的证据（2006 年：191）。
+艾伦 · 费德尔（Ellen Feder）经常采用福柯的方法，特别是利用福柯的生命权概念，介入生物伦理学话语，并在分析家庭、性别认同、间性问题、种族以及围绕身体的羞耻等方面取得进展，所有这些都是批判性残疾理论（1997 年、2000 年、2007 年、2009 年和 2014 年）中的重要内容。凯瑟琳 · 克卢恩-泰勒（Catherine Clune-Taylor）利用福柯批判性地审视和处理间性和性发育理解的演变，干预治疗方案、转化疗法以及对进化和性别的简化理解（2010 年；另见 Clune-Taylor 2016）。爱丽丝 · 德雷格（Alice Dreger）也曾运用福柯的理论来思考间性（1998 年）。费德尔还使用了其他大陆哲学家的概念，包括布尔迪厄的惯性，来考虑在儿童呈现非典型生殖器的情况下，规范化对亲子关系的影响（2006 年）。费德尔认为，性别差异的表现构建了现实，并成为共享意识形态的一部分，使人难以认识到复杂化了对性别差异的常见理解的证据（2006 年：191）。
 
 福柯的工作，以及福柯主义方法，是 Vehmas 和 Watson（2014）用来针对整个批判性残疾理论的批评对象。评论家们普遍认为，福柯缺乏必要的基础来提出规范性主张，因为他拒绝在各种权力形式之间进行规范性区分（例如，Fraser 1989: 31 和 33）。霍尔对这一常见批评做出回应，写道，
 
@@ -242,15 +242,15 @@ Tremain 使用 Foucault 的理论方法阐述了残疾的女性主义哲学。�
 
 > This approach permits us to ask, what sort of problem do contemporary times need disability to be? And, what is the meaning of human embodiment that grounds the unquestioned status of disability as a problem? (*ibid.* ) 重试  错误原因
 
-现象学因此使蒂奇科斯基和米查尔科得以抵制埃德蒙·胡塞尔所称的“统治性隐匿”，并利用现象学和残疾研究之间的政治强大联盟，将残疾作为“我们可以构建我们如何体验具身存在的场景”（2012: 141）的地方。
+现象学因此使蒂奇科斯基和米查尔科得以抵制埃德蒙 · 胡塞尔所称的“统治性隐匿”，并利用现象学和残疾研究之间的政治强大联盟，将残疾作为“我们可以构建我们如何体验具身存在的场景”（2012: 141）的地方。
 
-生命写作是一种由现象学启发的实践。苏珊娜·B·明茨在残疾和生命写作方面做出了重要贡献（例如，2007 年）。她描述了残疾研究中的“现象学转向”，将分析重新连接到身体本身。明茨试图通过理论化皮肤和触摸，激进化正念和关怀伦理学，进一步推动这一机会（2016 年）。
+生命写作是一种由现象学启发的实践。苏珊娜 ·B· 明茨在残疾和生命写作方面做出了重要贡献（例如，2007 年）。她描述了残疾研究中的“现象学转向”，将分析重新连接到身体本身。明茨试图通过理论化皮肤和触摸，激进化正念和关怀伦理学，进一步推动这一机会（2016 年）。
 
 现象学被用来对抗医学中的主流话语，在疾病和健康讨论中产生了重要影响。Havi Carel 从现象学的角度广泛探讨了疾病、生命和死亡，涉及幸福、现象学在医学中的用处以及疾病经历等问题（2006, 2007, 2011, 2013, 2016）。Kevin Aho 主要关注现象学和心理健康，并提出了新的思考方式，例如对医学化（2008）、身体（Aho & Aho 2008）和抑郁症（2013）的思考。Maureen Connolly 同样经常运用现象学进行分析，包括对自闭症（2008）和具身化（2001；Connolly & Craig 2002）的研究。
 
-阿霍（Aho）的工作还涉及存在主义；他编辑的《存在医学：健康与疾病论文集》（Existential Medicine: Essays on Health and Illness）呈现了受马丁·海德格尔（Martin Heidegger）、莫里斯·梅洛-庞帝（Maurice Merleau-Ponty）、让-保罗·萨特（Jean-Paul Sartre）和汉斯-格奥尔格·加达默（Hans-Georg Gadamer）影响的关于这些主题的哲学作品（2018）。虽然这些干预指向健康专业，但它们涉及身体的物质性和医学的本体论，这与批判性残疾研究的理论努力深深交织在一起。与此同时，在《基因组之后的基尔克戈尔》（Kierkegaard after the Genome）中，阿达·亚尔斯玛（Ada Jaarsma）运用苏伦·基尔克戈尔（Søren Kierkegaard）的存在主义，进行了一项广泛的工作，试图在生物政治、科学空间中实现和政治化信仰，包括安慰剂和表观遗传学。她的工作将批判种族理论和残疾理论与基尔克戈尔的自由和绝望概念联系在一起（2017）。
+阿霍（Aho）的工作还涉及存在主义；他编辑的《存在医学：健康与疾病论文集》（Existential Medicine: Essays on Health and Illness）呈现了受马丁 · 海德格尔（Martin Heidegger）、莫里斯 · 梅洛-庞帝（Maurice Merleau-Ponty）、让-保罗 · 萨特（Jean-Paul Sartre）和汉斯-格奥尔格 · 加达默（Hans-Georg Gadamer）影响的关于这些主题的哲学作品（2018）。虽然这些干预指向健康专业，但它们涉及身体的物质性和医学的本体论，这与批判性残疾研究的理论努力深深交织在一起。与此同时，在《基因组之后的基尔克戈尔》（Kierkegaard after the Genome）中，阿达 · 亚尔斯玛（Ada Jaarsma）运用苏伦 · 基尔克戈尔（Søren Kierkegaard）的存在主义，进行了一项广泛的工作，试图在生物政治、科学空间中实现和政治化信仰，包括安慰剂和表观遗传学。她的工作将批判种族理论和残疾理论与基尔克戈尔的自由和绝望概念联系在一起（2017）。
 
-法国哲学家和合作者吉尔·德勒兹（Gilles Deleuze）和费利克斯·瓜塔里（Félix Guattari）在批判性残疾理论方面产生了重大影响，特别是在唯物主义和主体性方面。Rosi Braidotti（1994，2002，2006），Kelly Fritsch（2010），Dan Goodley（Goodley＆Lawthom 2011；Goodley，Liddiard 和 Runswick Cole 2018），Daniela Mercieca 和 Duncan Mercieca（2010），Griet Roets（Roets＆Braidotti 2012）等人使用“德勒兹瓜塔里”概念，包括组合体、强度和独特的物质性方法来理论化残疾。在这种观点中，“组合体”描述了一个本体论网络，在这个网络中，组成部分在整体中发挥的角色保持流动性；组合体包括“偶发形成”和“欲望力量”（Fritsch 2010：3 参见 Deleuze＆Guattari 1980 [1987]）。这意味着对所谓独立的“规范主权能体”提出了挑战（Fritsch 2010：3）。这一挑战可以成为残疾理论中的呼声。根据 Fritsch，
+法国哲学家和合作者吉尔 · 德勒兹（Gilles Deleuze）和费利克斯 · 瓜塔里（Félix Guattari）在批判性残疾理论方面产生了重大影响，特别是在唯物主义和主体性方面。Rosi Braidotti（1994，2002，2006），Kelly Fritsch（2010），Dan Goodley（Goodley＆Lawthom 2011；Goodley，Liddiard 和 Runswick Cole 2018），Daniela Mercieca 和 Duncan Mercieca（2010），Griet Roets（Roets＆Braidotti 2012）等人使用“德勒兹瓜塔里”概念，包括组合体、强度和独特的物质性方法来理论化残疾。在这种观点中，“组合体”描述了一个本体论网络，在这个网络中，组成部分在整体中发挥的角色保持流动性；组合体包括“偶发形成”和“欲望力量”（Fritsch 2010：3 参见 Deleuze＆Guattari 1980 [1987]）。这意味着对所谓独立的“规范主权能体”提出了挑战（Fritsch 2010：3）。这一挑战可以成为残疾理论中的呼声。根据 Fritsch，
 
 > disabled people are entangled in multiple assemblages: the human-machine assemblages of wheelchairs, ventilators, or walkers; human-animal assemblages such as assistive animals like guide dogs; or disabled-abled assemblages of the disabled person and care attendant. (2010: 3) 重试  错误原因
 
@@ -258,9 +258,9 @@ Tremain 使用 Foucault 的理论方法阐述了残疾的女性主义哲学。�
 
 批判的残疾理论挑战了传统残疾研究中普遍存在的损伤和残疾之间的区别（例如，Shakespeare 2006）。正如我们所看到的，福柯主义方法被用来批判这种区别。与此同时，Roets 和 Braidotti 利用德勒兹和瓜塔里来反击这种区别，特别是它强迫将损伤概念化为消极、悲剧性和个体化的方式。他们试图在德勒兹启发的唯物主义与残疾研究的政治目标之间取得平衡（2012）。从德勒兹和瓜塔里的角度来看，“物质性”可以被视为“多元、开放、复杂、不均匀和偶发的”，这种观点为实现这种平衡提供了机会（Goodley, Liddiard, & Runswick Cole 2018: 203）。
 
-新的精神分析方法，包括运用朱莉娅·克里斯蒂娃的精神分析策略，为理论化残疾提供了更多的批判资源。例如，乔什·多曼使用了克里斯蒂娃的排斥理论的一个版本，通过与萨拉·艾哈迈德和蒂娜·尚特的接触进行转化，来理解残疾排斥。尽管存在关于克里斯蒂娃作品中某些元素的争议，多曼认为，与其他残疾研究中发现的拉康分析相比，这种克里斯蒂娃的描述更可取（2016 年）。与此同时，克里斯蒂娃本人直接在围绕残疾的学术研究中运用她的概念，阐述了一种脆弱性政治（例如，克里斯蒂娃和赫尔曼，2010 年）。稻原美奈利用吕斯·伊里加莱作为一个跳板，来抵制弗洛伊德和拉康根深蒂固的能力主义和男性主义，并建立了一个关于身体残疾的精神分析理解（2009 年）。
+新的精神分析方法，包括运用朱莉娅 · 克里斯蒂娃的精神分析策略，为理论化残疾提供了更多的批判资源。例如，乔什 · 多曼使用了克里斯蒂娃的排斥理论的一个版本，通过与萨拉 · 艾哈迈德和蒂娜 · 尚特的接触进行转化，来理解残疾排斥。尽管存在关于克里斯蒂娃作品中某些元素的争议，多曼认为，与其他残疾研究中发现的拉康分析相比，这种克里斯蒂娃的描述更可取（2016 年）。与此同时，克里斯蒂娃本人直接在围绕残疾的学术研究中运用她的概念，阐述了一种脆弱性政治（例如，克里斯蒂娃和赫尔曼，2010 年）。稻原美奈利用吕斯 · 伊里加莱作为一个跳板，来抵制弗洛伊德和拉康根深蒂固的能力主义和男性主义，并建立了一个关于身体残疾的精神分析理解（2009 年）。
 
-然而，在哲学界受欢迎的精神分析方法与批判性残疾理论中对心理学的挑战存在一定的紧张关系。 批判性残疾理论的一个重要组成部分是对精神疾病的关注增加以及对理解和分析精神疾病的接受框架进行批判。 例如，为了克服传统残疾研究中普遍存在的二元论，玛格丽特·普莱斯（Margaret Price）创造了“身心”这一概念，以捕捉她在工作中感兴趣的完全体现，并处理疼痛问题（2015）。 普莱斯的《疯狂学校：精神残疾和学术生活的修辞学》（2011）挑战了传统残疾研究关注残疾身体而忽视残疾心灵的焦点。 普莱斯认为，学术文化是由有能力的头脑产生并假定的，并追踪了高等教育中精神残疾的影响（2011）。
+然而，在哲学界受欢迎的精神分析方法与批判性残疾理论中对心理学的挑战存在一定的紧张关系。 批判性残疾理论的一个重要组成部分是对精神疾病的关注增加以及对理解和分析精神疾病的接受框架进行批判。 例如，为了克服传统残疾研究中普遍存在的二元论，玛格丽特 · 普莱斯（Margaret Price）创造了“身心”这一概念，以捕捉她在工作中感兴趣的完全体现，并处理疼痛问题（2015）。 普莱斯的《疯狂学校：精神残疾和学术生活的修辞学》（2011）挑战了传统残疾研究关注残疾身体而忽视残疾心灵的焦点。 普莱斯认为，学术文化是由有能力的头脑产生并假定的，并追踪了高等教育中精神残疾的影响（2011）。
 
 对于在疯狂研究（例如，Mollow 2013 和 2014）和批判心理学研究（例如，Weiner 2005a，2005b 和 Wiener，Ribeiro 和 Warner 2009）领域工作的理论家来说，重新发展精神分析方法以使其适应这些分析，并打开新的思维模式是很重要的。一些思想家发现情感理论是挑战病态化的一个富有成果的领域。例如，Goodley，Liddiard 和 Runswick Cole 发现如此，写道，
 
@@ -270,9 +270,9 @@ Tremain 使用 Foucault 的理论方法阐述了残疾的女性主义哲学。�
 
 鉴于批判的残疾理论在理论与实践之间的深刻关系，本篇以对行动主义的直接讨论作为结束，包括有影响力的个人活动家、他们的项目以及做出重要工作的集体。围绕批判的残疾理论的行动主义涉及各种主题，从移民和不公正的雇佣做法到能力主义和叙事。由于压迫，包括经济压迫，以及高等教育中的排斥所产生的实际影响，许多这些活动家利用流行的网络平台，包括社交媒体，参与他们的倡导并传播他们的工作。在线努力、政策推广和倡导被涵盖，以指示那些在批判的残疾理论伞下工作的人目前正在进行的努力。
 
-批判的残疾理论活动是通过在线论坛公开进行的。教育、写作和倡导工具在网上提供，除了对政治、新闻、历史和思想进行批判性分析外。个人活动家和集体主义者提供这些工具和著作，并经常通过众包支持，包括物质和智力支持。活动家维利萨·汤普森（Vilissa Thompson）是博客 Ramp Your Voice!的作者，在批判种族和残疾理论的交汇处深度参与，撰写、收集和传播学术著作，并在这一交汇点开展倡导工作。根据博客的使命宣言，Ramp Your Voice!促进自我倡导，并提供教育工具和服务，包括支持残疾人的研讨会和公共演讲，尤其是支持有色彩的残疾女孩和妇女。汤普森还将博客作为残疾人撰写的平台。
+批判的残疾理论活动是通过在线论坛公开进行的。教育、写作和倡导工具在网上提供，除了对政治、新闻、历史和思想进行批判性分析外。个人活动家和集体主义者提供这些工具和著作，并经常通过众包支持，包括物质和智力支持。活动家维利萨 · 汤普森（Vilissa Thompson）是博客 Ramp Your Voice! 的作者，在批判种族和残疾理论的交汇处深度参与，撰写、收集和传播学术著作，并在这一交汇点开展倡导工作。根据博客的使命宣言，Ramp Your Voice! 促进自我倡导，并提供教育工具和服务，包括支持残疾人的研讨会和公共演讲，尤其是支持有色彩的残疾女孩和妇女。汤普森还将博客作为残疾人撰写的平台。
 
-活动家艾丽丝·王（Alice Wong）领导着《残疾可见性项目》。自 2014 年成立以来，该项目的使命是提供在线空间，“致力于记录、放大和分享残疾媒体和文化”（Disability Visibility Project）。王专注于收集口述历史，并与她的 DVP 合作伙伴组织 StoryCorps 进行合作。有影响力的作家米娅·明格斯（Mia Mingus）在推广批判性残疾活动主义的博客《留下证据》（Leaving Evidence），曾是《黑女孩危险》的协调员，该网站仍然是重要的批判性交叉工作在线档案和活动的跳板。
+活动家艾丽丝 · 王（Alice Wong）领导着《残疾可见性项目》。自 2014 年成立以来，该项目的使命是提供在线空间，“致力于记录、放大和分享残疾媒体和文化”（Disability Visibility Project）。王专注于收集口述历史，并与她的 DVP 合作伙伴组织 StoryCorps 进行合作。有影响力的作家米娅 · 明格斯（Mia Mingus）在推广批判性残疾活动主义的博客《留下证据》（Leaving Evidence），曾是《黑女孩危险》的协调员，该网站仍然是重要的批判性交叉工作在线档案和活动的跳板。
 
 Philosopher Shelley Tremain regularly blogs in online forums, examining political and social matters relevant to disability. She focuses especially on issues for disabled persons in academia, with specific attention to philosophy. To date, Tremain has conducted 50 interviews with disabled, queer, and POC academic philosophers about their experiences, their subject positions, and how ableism impacts their work. This series of interviews, called “Dialogues on Disability”, is a significant public philosophy project. First hosted on the blog *Discrimination and Disadvantage,*  the full archive and new interviews can now be found on the blog *BIOPOLITICAL PHILOSOPHY*. Together with Tremain’s other public writings, and the other writing available from a variety of scholars on both blogs, the Dialogues on Disability project constitutes an archive that raises the profile of issues facing disabled academics while at the same time exploring critical-theoretical and intersectional work on disability. 重试  错误原因
 
@@ -284,7 +284,7 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 
 最后，对残疾人进行直接的个人和政治倡导是批判性残疾活动的关键部分。Wong，一位曾任美国总统委任国家残疾人委员会的倡导者，是一位重要的倡导者。她与 DisabledWriters.com 合作，推动残疾作家和记者的职业发展，以及#CripTheVote，这是一个非党派运动，旨在将残疾置于政治议程并动员残疾人。Brown 与 Morénike Giwa Onaiwu 一起，指导基金会为有色人种自闭症患者的社区赔偿基金的相互依存、生存和赋权。该基金直接和实质性地支持有色人种的自闭症患者，这只是 Brown 为倡导个别残疾人而扩大影响力的众多方式之一。
 
-社区行动也通过集体行动来实现。这些集体完成了关键的基础工作，使人们能够获得基本信息、沟通和参与压迫问题的行动，包括但不限于警察暴行、无障碍和诠释不公。一些著名的例子（不全列举）包括：哈里特·塔布曼集体，一个由黑人聋哑和残疾活动家组成的团体；帮助教育促进聋人社区权利的组织；由 Leroy F. Moore Jr.创立的 Krip-Hop Nation，其中包括残疾嘻哈艺术家，并提升残疾非裔美国人在音乐和媒体中的声音；美国国家黑人残疾联盟，一个成立于 1990 年的为黑人残疾人士服务的全国性组织；美国拉丁裔残疾人联盟，一个为自认为拉丁裔和残疾人士的个体而设立的全国性组织；以及 Disability Rights Washington 的项目 Rooted in Rights，专注于使用视频和社交媒体探讨残疾权利问题。Rooted in Rights 的“讲故事者”在国际上参与，扩大了其影响范围。
+社区行动也通过集体行动来实现。这些集体完成了关键的基础工作，使人们能够获得基本信息、沟通和参与压迫问题的行动，包括但不限于警察暴行、无障碍和诠释不公。一些著名的例子（不全列举）包括：哈里特 · 塔布曼集体，一个由黑人聋哑和残疾活动家组成的团体；帮助教育促进聋人社区权利的组织；由 Leroy F. Moore Jr.创立的 Krip-Hop Nation，其中包括残疾嘻哈艺术家，并提升残疾非裔美国人在音乐和媒体中的声音；美国国家黑人残疾联盟，一个成立于 1990 年的为黑人残疾人士服务的全国性组织；美国拉丁裔残疾人联盟，一个为自认为拉丁裔和残疾人士的个体而设立的全国性组织；以及 Disability Rights Washington 的项目 Rooted in Rights，专注于使用视频和社交媒体探讨残疾权利问题。Rooted in Rights 的“讲故事者”在国际上参与，扩大了其影响范围。
 
 本节中突出显示的网站、博客和在线空间的链接被收集在标题为“其他互联网资源”下面。这一部分主要限于北美和英语为主的例子；欢迎向本条目的作者提出扩大范围的建议。
 
@@ -296,7 +296,7 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 
 批判的残疾理论也对一些不容易被认为是残疾研究关注的主题感兴趣，包括（例如）:
 
-> 抗议针对种族差异在健康、教育和执法方面的不公；争取环境正义和生殖自由；HIV/AIDS 和肥胖活动主义；奥德丽·洛德（Audre Lorde）关于失明和癌症的著作以及格洛丽亚·安萨尔杜亚（Gloria Anzaldúa）关于早期月经和糖尿病的著作。 (Minich 2016)
+> 抗议针对种族差异在健康、教育和执法方面的不公；争取环境正义和生殖自由；HIV/AIDS 和肥胖活动主义；奥德丽 · 洛德（Audre Lorde）关于失明和癌症的著作以及格洛丽亚 · 安萨尔杜亚（Gloria Anzaldúa）关于早期月经和糖尿病的著作。 (Minich 2016)
 
 批判的残疾理论是一个发展中的学科，其边界模糊，不断涌现新作品。事实上，一些人认为在这一领域提供文献综述还为时过早（Dunhamn et al., 2015; Meekosha & Shuttleworth 2009: 48）。尽管如此，本条目概述了目前在批判的残疾理论范畴下正在进行的工作，其标志性方法和关键争论。在这里有足够的空间来容纳术语上的重大变化和对新主题的关注，这是人们应该从这个政治响应和交叉领域中期待的。困难也随之出现，包括 Nirmala Erevelles 所称的这种企业的“复杂文化优先事项”。正如她所说的，这些“复杂文化优先事项”包括
 
@@ -308,32 +308,32 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 
 * Adorno, Theodor W., 1966 [1973], *Negative Dialektik*, Frankfurt: Suhrkamp Verlag. Translated as *Negative Dialectics*, E. B. Ashton (trans.), London: Routledge, 1973.
 * Aho, James and Keven Aho, 2008, *Body Matters: A Phenomenology of Sickness, Disease, and Illness*, Lanham, MD: Lexington Books.
-* Aho, Kevin A., 2008, “Medicalizing Mental Health: A Phenomenological Alternative”, *Journal of Medical Humanities*, 29(4): 243–259. doi:10.1007/s10912-008-9065-1
-* –––, 2013, “Depression and Embodiment: Phenomenological Reflections on Motility, Affectivity, and Transcendence”, *Medicine, Health Care and Philosophy*, 16(4): 751–759. doi:10.1007/s11019-013-9470-8
+* Aho, Kevin A., 2008, “Medicalizing Mental Health: A Phenomenological Alternative”, *Journal of Medical Humanities*, 29(4): 243–259. doi: 10.1007/s10912-008-9065-1
+* –––, 2013, “Depression and Embodiment: Phenomenological Reflections on Motility, Affectivity, and Transcendence”, *Medicine, Health Care and Philosophy*, 16(4): 751–759. doi: 10.1007/s11019-013-9470-8
 * ––– (ed.), 2018, *Existential Medicine: Essays on Health and Illness*, Lanham, MD: Rowman and Littlefield International.
 * Annamma, Subini Ancy, 2013, “Undocumented and Under Surveillance”, *Association of Mexican American Educators Journal*, 7(3): 32–41. [[Annamma 2013 available online](http://amaejournal.utsa.edu/index.php/amae/article/view/144)]
 * –––, 2014a, “Disabling Juvenile Justice: Engaging the Stories of Incarcerated Young Women of Color with Disabilities”, *Remedial and Special Education*, 35(5): 313–324.
 * –––, 2014b, “It Was Just Like a Piece of Gum: Intersectionality and Criminalization of Young Women of Color with Disabilities in the School to Prison Pipeline”, in D. J. Connor, J. W. Valle, and C. Hale (eds.), *Practicing Disability Studies in Education, Acting Toward Social Change*, New York: Teachers College Press.
 * –––, 2017, *The Pedagogy of Pathologization: Dis/Abled Girls of Color in the School-Prison Nexus* New York: Routledge.
-* Annamma, Subini A., Amy L. Boelé, Brooke A. Moore, and Janette Klingner, 2013, “Challenging the Ideology of Normal in Schools”, *International Journal of Inclusive Education*, 17(12): 1278–1294. doi:10.1080/13603116.2013.802379
-* Annamma, Subini Ancy, David Connor, and Beth Ferri, 2013, “Dis/Ability Critical Race Studies (DisCrit): Theorizing at the Intersections of Race and Dis/Ability”, *Race Ethnicity and Education*, 16(1): 1–31. doi:10.1080/13613324.2012.730511
-* Annamma, Subini Ancy, Beth A. Ferri, and David J. Connor, 2018, “Disability Critical Race Theory: Exploring the Intersectional Lineage, Emergence, and Potential Futures of DisCrit in Education”, *Review of Research in Education*, 42(1): 46–71. doi:10.3102/0091732X18759041
-* Baril, Alexandre, 2015a, “‘How Dare You Pretend to Be Disabled?’ The Discounting of Transabled People and Their Claims in Disability Movements and Studies”, *Disability & Society*, 30(5): 689–703. doi:10.1080/09687599.2015.1050088
-* –––, 2015b, “Needing to Acquire a Physical Impairment/Disability: (Re)Thinking the Connections between Trans and Disability Studies through Transability”, Catriona Leblanc (trans.), *Hypatia*, 30(1): 30–48. doi:10.1111/hypa.12113
-* –––, 2015c, “Transness as Debility: Rethinking Intersections between Trans and Disabled Embodiments”, *Feminist Review*, 111(1): 59–74. doi:10.1057/fr.2015.21
-* –––, 2016, “‘Doctor, Am I an Anglophone Trapped in a Francophone Body?’: An Intersectional Analysis of ‘Trans-Crip-t Time’ in Ableist, Cisnormative, Anglonormative Societies”, *Journal of Literary & Cultural Disability Studies*, 10(2): 155–172. doi:10.3828/jlcds.2016.14
+* Annamma, Subini A., Amy L. Boelé, Brooke A. Moore, and Janette Klingner, 2013, “Challenging the Ideology of Normal in Schools”, *International Journal of Inclusive Education*, 17(12): 1278–1294. doi: 10.1080/13603116.2013.802379
+* Annamma, Subini Ancy, David Connor, and Beth Ferri, 2013, “Dis/Ability Critical Race Studies (DisCrit): Theorizing at the Intersections of Race and Dis/Ability”, *Race Ethnicity and Education*, 16(1): 1–31. doi: 10.1080/13613324.2012.730511
+* Annamma, Subini Ancy, Beth A. Ferri, and David J. Connor, 2018, “Disability Critical Race Theory: Exploring the Intersectional Lineage, Emergence, and Potential Futures of DisCrit in Education”, *Review of Research in Education*, 42(1): 46–71. doi: 10.3102/0091732X18759041
+* Baril, Alexandre, 2015a, “‘How Dare You Pretend to Be Disabled?’ The Discounting of Transabled People and Their Claims in Disability Movements and Studies”, *Disability & Society*, 30(5): 689–703. doi: 10.1080/09687599.2015.1050088
+* –––, 2015b, “Needing to Acquire a Physical Impairment/Disability: (Re)Thinking the Connections between Trans and Disability Studies through Transability”, Catriona Leblanc (trans.), *Hypatia*, 30(1): 30–48. doi: 10.1111/hypa.12113
+* –––, 2015c, “Transness as Debility: Rethinking Intersections between Trans and Disabled Embodiments”, *Feminist Review*, 111(1): 59–74. doi: 10.1057/fr.2015.21
+* –––, 2016, “‘Doctor, Am I an Anglophone Trapped in a Francophone Body?’: An Intersectional Analysis of ‘Trans-Crip-t Time’ in Ableist, Cisnormative, Anglonormative Societies”, *Journal of Literary & Cultural Disability Studies*, 10(2): 155–172. doi: 10.3828/jlcds.2016.14
 * Baril, Alexandre and Kathryn Trevenen, 2014, “Exploring Ableism and Cisnormativity in the Conceptualization of Identity and Sexuality ‘Disorders,’”, *Annual Review of Critical Psychology*, 11: 389–416. [[Baril and Trevenen 2014 available online](https://thediscourseunit.files.wordpress.com/2016/05/22-exploring.pdf)]
 * Basas, Carrie Griffin, 2008, “Back Rooms, Board Rooms—Reasonable Accommodation and Resistance under the ADA”, *Berkeley Journal of Employment & Labor Law*, 29(1): 59–116. [[Basas 2008 available online](https://scholarship.law.berkeley.edu/bjell/vol29/iss1/2/)]
 * –––, 2013a, “A Collective Good: Disability Diversity as a Value in Public Sector Collective Bargaining Agreements”, *St. John’s Law Review*, 87(4): 793–846. [[Basas 2013b available online](https://scholarship.law.stjohns.edu/lawreview/vol87/iss4/1/)].
-* –––, 2013b, “Universally Designing the Public Sector Workplace: Technology as Disability Access: Basas: Technology as Disability Access”, *WorkingUSA*, 16(1): 69–86. doi:10.1111/wusa.12024
+* –––, 2013b, “Universally Designing the Public Sector Workplace: Technology as Disability Access: Basas: Technology as Disability Access”, *WorkingUSA*, 16(1): 69–86. doi: 10.1111/wusa.12024
 * Bell, Christopher, 2006, “Introducing White Disability Studies: A Modest Proposal”, in Leonard Davis (ed.), *The Disability Studies Reader*, 2nd edition, New York, NY: Routledge, pp. 275–282.
 * Belt, Rabia, 2015, “When God Demands Blood: Unusual Minds and the Troubled Juridical Ties of Religion, Madness, and Culpability”, *University of Miami Law Review*, 69(3): 755–794.
 * –––, 2017, “Ballots for Bullets?: Disabled Veterans and the Right to Vote”, *Stanford Law Review* 69(Feb.): 435–490.
-* Ben-Moshe, Liat, 2006, “Infusing Disability in the Curriculum: The Case of Saramago’s ‘Blindness’”, *Disability Studies Quarterly*, 26(2). doi:10.18061/dsq.v26i2.688
-* Ben-Moshe, Liat, Chris Chapman, and Allison C. Carey (eds.), 2014, *Disability Incarcerated: Imprisonment and Disability in the United States and Canada*, New York: Palgrave Macmillan US. doi:10.1057/9781137388476
+* Ben-Moshe, Liat, 2006, “Infusing Disability in the Curriculum: The Case of Saramago’s ‘Blindness’”, *Disability Studies Quarterly*, 26(2). doi: 10.18061/dsq.v26i2.688
+* Ben-Moshe, Liat, Chris Chapman, and Allison C. Carey (eds.), 2014, *Disability Incarcerated: Imprisonment and Disability in the United States and Canada*, New York: Palgrave Macmillan US. doi: 10.1057/9781137388476
 * Ben-Moshe, Liat, Rebecca C. Cory, Mia Feldbaum, and Ken Sagendorf (eds.), 2005, *Building Pedagogical Curb Cuts: Incorporating Disability in the University Classroom and Curriculum*, Syracuse, NY: Syracuse University Press.
-* Ben-Moshe, Liat, Allyson Day, Jim Ferris, and Kim Nielsen, 2015, “Interventions in Disability Studies Pedagogy: Introduction”, *Disability Studies Quarterly*, 35(2). doi:10.18061/dsq.v35i2.4877
-* Ben-Moshe, Liat, and Sandy Magaña, 2014, “An Introduction to Race, Gender,and Disability: Intersectionality, Disability Studies, and Families of Color”, *Women, Gender, and Families of Color*, 2(2): 105–114. doi:10.5406/womgenfamcol.2.2.0105
+* Ben-Moshe, Liat, Allyson Day, Jim Ferris, and Kim Nielsen, 2015, “Interventions in Disability Studies Pedagogy: Introduction”, *Disability Studies Quarterly*, 35(2). doi: 10.18061/dsq.v35i2.4877
+* Ben-Moshe, Liat, and Sandy Magaña, 2014, “An Introduction to Race, Gender, and Disability: Intersectionality, Disability Studies, and Families of Color”, *Women, Gender, and Families of Color*, 2(2): 105–114. doi: 10.5406/womgenfamcol.2.2.0105
 * Braidotti, Rosi, 1994, *Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory*, New York: Columbia University Press.
 * –––, 2002, *Metamorphoses: Towards a Materialist Theory of Becoming*, Cambridge: Polity Press.
 * –––, 2006, *Transpositions: On Nomadic Ethics*, Cambridge: Polity Press.
@@ -343,108 +343,108 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 * Bruno, Debra, 2016, “An Electric Shock Therapy Stops Self-Harm Among the Autistic, But at What Cost?”, *The Washington Post*, 23 November 2016. [[Bruno 2016 available online](https://www.washingtonpost.com/lifestyle/magazine/an-electric-shock-therapy-stops-self-harm-among-the-autistic-but-at-what-cost/2016/11/21/b9b06c44-8f2c-11e6-9c85-ac42097b8cc0_story.html?utm_term=.1a630c9664be)]
 * Burghardt, Madeline, 2011, “The Human Bottom of Non-Human Things: On Critical Theory and its Contributions to Critical Disability Studies”, *Critical Disability Discourse/Discours critiques dans le champ du handicap (CDD/DCCH)*, 3(art. 2): 1–16. [[Burghardt 2011 available online](https://cdd.journals.yorku.ca/index.php/cdd/article/view/31560/31234)].
 * Campbell, Fiona A. Kumari, 2001, “Inciting Legal Fictions: Disability's Date with Ontology and the Ableist Body of the Law”, *Griffith Law Review*, 10: 42–62.
-* –––, 2008a, “Exploring Internalized Ableism Using Critical Race Theory”, *Disability & Society*, 23(2): 151–162. doi:10.1080/09687590701841190
+* –––, 2008a, “Exploring Internalized Ableism Using Critical Race Theory”, *Disability & Society*, 23(2): 151–162. doi: 10.1080/09687590701841190
 * –––, 2008b, “Refusing Able(Ness): A Preliminary Conversation about Ableism”, *M/C Journal*, 11(3). [[Campbell 2008b available online](http://journal.media-culture.org.au/index.php/mcjournal/article/view/46)]
-* –––, 2009, *Contours of Ableism: The Production of Disability and Abledness*, London: Palgrave Macmillan UK. doi:10.1057/9780230245181
+* –––, 2009, *Contours of Ableism: The Production of Disability and Abledness*, London: Palgrave Macmillan UK. doi: 10.1057/9780230245181
 * Carel, Havi, 2006, *Life and Death in Freud and Heidegger*, Amsterdam: Rodopi.
-* –––, 2007, “Can I Be Ill and Happy?”, *Philosophia*, 35(2): 95–110. doi:10.1007/s11406-007-9085-5
-* –––, 2011, “Phenomenology and Its Application in Medicine”, *Theoretical Medicine and Bioethics*, 32(1): 33–46. doi:10.1007/s11017-010-9161-x
+* –––, 2007, “Can I Be Ill and Happy?”, *Philosophia*, 35(2): 95–110. doi: 10.1007/s11406-007-9085-5
+* –––, 2011, “Phenomenology and Its Application in Medicine”, *Theoretical Medicine and Bioethics*, 32(1): 33–46. doi: 10.1007/s11017-010-9161-x
 * –––, 2013, *Illness: The Cry of the Flesh*, revised edition, Durham, UK: Acumen.
-* –––, 2016, *Phenomenology of Illness*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669653.001.0001
-* Carlson, Licia, 2001, “Cognitive Ableism and Disability Studies: Feminist Reflections on the History of Mental Retardation”, *Hypatia*, 16(4): 124–146. doi:10.1111/j.1527-2001.2001.tb00756.x
+* –––, 2016, *Phenomenology of Illness*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199669653.001.0001
+* Carlson, Licia, 2001, “Cognitive Ableism and Disability Studies: Feminist Reflections on the History of Mental Retardation”, *Hypatia*, 16(4): 124–146. doi: 10.1111/j.1527-2001.2001.tb00756.x
 * –––, 2009, *The Faces of Intellectual Disability: Philosophical Reflections*, Bloomington, IN: Indiana University Press.
 * Clare, Eli, 1999, *Exile and Pride: Disability, Queerness, and Liberation*, Boston: South End Press.
 * –––, 2001, “Stolen Bodies, Reclaimed Bodies: Disability and Queerness”, *Public Culture*, 13(3): 359–365.
 * –––, 2013, “Body Shame, Body Pride: Lessons from the Disability Rights Movement”, in Susan Stryker and Aren Z. Aizura (ed.), *The Transgender Studies Reader 2*, New York: Routledge
-* Clune-Taylor, Catherine, 2010, “From Intersex to DSD: The Disciplining of Sex Development”, *PhaenEx*, 5(2): 152. doi:10.22329/p.v5i2.3087
-* –––, 2016, “Intersex Movement”, in *The Wiley Blackwell Encyclopedia of Gender and Sexuality Studies*, Angela Wong, Maithree Wickramasinghe, renee hoogland, and Nancy A Naples (eds.), Singapore: John Wiley & Sons. doi:10.1002/9781118663219.wbegss219
-* Connolly, Maureen, 2001, “Female Embodiment and Clinical Practice”, in *Handbook of Phenomenology and Medicine*, S. Kay Toombs (ed.), Dordrecht: Springer Netherlands, 177–196. doi:10.1007/978-94-010-0536-4_9
-* –––, 2008, “The Remarkable Logic of Autism: Developing and Describing an Embedded Curriculum Based in Semiotic Phenomenology”, *Sport, Ethics and Philosophy*, 2(2): 234–256. doi:10.1080/17511320802223824
-* Connolly, Maureen and Tom Craig, 2002, “Stressed Embodiment: Doing Phenomenology in the Wild”, *Human Studies*, 25(4): 451–462. doi:10.1023/A:1021226510898
+* Clune-Taylor, Catherine, 2010, “From Intersex to DSD: The Disciplining of Sex Development”, *PhaenEx*, 5(2): 152. doi: 10.22329/p.v5i2.3087
+* –––, 2016, “Intersex Movement”, in *The Wiley Blackwell Encyclopedia of Gender and Sexuality Studies*, Angela Wong, Maithree Wickramasinghe, renee hoogland, and Nancy A Naples (eds.), Singapore: John Wiley & Sons. doi: 10.1002/9781118663219.wbegss219
+* Connolly, Maureen, 2001, “Female Embodiment and Clinical Practice”, in *Handbook of Phenomenology and Medicine*, S. Kay Toombs (ed.), Dordrecht: Springer Netherlands, 177–196. doi: 10.1007/978-94-010-0536-4_9
+* –––, 2008, “The Remarkable Logic of Autism: Developing and Describing an Embedded Curriculum Based in Semiotic Phenomenology”, *Sport, Ethics and Philosophy*, 2(2): 234–256. doi: 10.1080/17511320802223824
+* Connolly, Maureen and Tom Craig, 2002, “Stressed Embodiment: Doing Phenomenology in the Wild”, *Human Studies*, 25(4): 451–462. doi: 10.1023/A: 1021226510898
 * Connor, David J., Beth A. Ferri, and Subini A. Annamma, 2016, *DisCrit: Disability Studies and Critical Race Theory in Education*, New York: Teachers College Press.
 * Crenshaw, Kimberlé, 1991, “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color”, *Stanford Law Review* 43(6): 1241–1299.
 * Deleuze, Gilles and Félix Guattari, 1980 [1987], *Mille plateaux*, Paris: Éditions de Minuit. Translated as *A Thousand Plateaus: Capitalism and Schizophrenia*, Brian Massumi (trans.), Minneapolis, MN: University of Minnesota Press.
-* Dohmen, Josh, 2016, “Disability as Abject: Kristeva, Disability, and Resistance”, *Hypatia*, 31(4): 762–778. doi:10.1111/hypa.12266
+* Dohmen, Josh, 2016, “Disability as Abject: Kristeva, Disability, and Resistance”, *Hypatia*, 31(4): 762–778. doi: 10.1111/hypa.12266
 * Dolmage, Jay Timothy, 2017, *Academic Ableism: Disability and Higher Education*, Ann Arbor, MI: University of Michigan Press.
 * Dreger, Alice Domurat, 1998, *Hermaphrodites and the Medical Invention of Sex*, Cambridge, MA: Harvard University Press.
-* Dunhamn, Jane, Jerome Harris, Shancia Jarrett, Leroy Moore, Akemi Nishida, Margaret Price, Britney Robinson, and Sami Schalk, 2015, “Developing and Reflecting on a Black Disability Studies Pedagogy: Work from the National Black Disability Coalition”, *Disability Studies Quarterly*, 35(2). doi:10.18061/dsq.v35i2.4637
+* Dunhamn, Jane, Jerome Harris, Shancia Jarrett, Leroy Moore, Akemi Nishida, Margaret Price, Britney Robinson, and Sami Schalk, 2015, “Developing and Reflecting on a Black Disability Studies Pedagogy: Work from the National Black Disability Coalition”, *Disability Studies Quarterly*, 35(2). doi: 10.18061/dsq.v35i2.4637
 * Ellis, Katie, Rosemarie Garland-Thomson, Mike Kent, and Rachel Robertson (eds.), 2018, *Manifestos for the Future of Critical Disability Studies, Volume 1*, New York: Routledge.
-* Erevelles, Nirmala, 2002, “Voices of Silence: Foucault, Disability, and the Question of Self-Determination”, *Studies in Philosophy and Education*, 21(1): 17–35. doi:10.1023/A:1014473121819
-* –––, 2014, “Thinking With Disability Studies”, *Disability Studies Quarterly*, 34(2). doi:10.18061/dsq.v34i2.4248
+* Erevelles, Nirmala, 2002, “Voices of Silence: Foucault, Disability, and the Question of Self-Determination”, *Studies in Philosophy and Education*, 21(1): 17–35. doi: 10.1023/A: 1014473121819
+* –––, 2014, “Thinking With Disability Studies”, *Disability Studies Quarterly*, 34(2). doi: 10.18061/dsq.v34i2.4248
 * Erevelles, Nirmala and Alison Kafer, 2010, “Committed Critique: An Interview with Nirmala Erevelles”, in Susan Burch and Alison Kafer (eds.), *Deaf and Disability Studies*, Washington, DC: Gallaudet University Press, pp. 204–221.
-* Erevelles, Nirmala and Andrea Minear, 2010, “Unspeakable Offenses: Untangling Race and Disability in Discourses of Intersectionality”, *Journal of Literary & Cultural Disability Studies*, 4(2): 127–145. doi:10.3828/jlcds.2010.11
-* Feder, Ellen K., 1997, “Disciplining the Family: The Case of Gender Identity Disorder”, *Philosophical Studies*, 85(2/3): 195–211. doi:10.1023/A:1004275024875
-* –––, 2000, “Review: Intersex in the Age of Ethics”:, *Teaching Philosophy*, 23(4): 392–395. doi:10.5840/teachphil200023453
+* Erevelles, Nirmala and Andrea Minear, 2010, “Unspeakable Offenses: Untangling Race and Disability in Discourses of Intersectionality”, *Journal of Literary & Cultural Disability Studies*, 4(2): 127–145. doi: 10.3828/jlcds.2010.11
+* Feder, Ellen K., 1997, “Disciplining the Family: The Case of Gender Identity Disorder”, *Philosophical Studies*, 85(2/3): 195–211. doi: 10.1023/A: 1004275024875
+* –––, 2000, “Review: Intersex in the Age of Ethics”:, *Teaching Philosophy*, 23(4): 392–395. doi: 10.5840/teachphil200023453
 * –––, 2006, “‘In their Best Interests’: Parents’ Experience of Atypical Genitalia”, in Erik Parens (ed.), *Surgically Shaping Children: Technology, Ethics, and the Pursuit of Normality*, Baltimore, MD: Johns Hopkins University Press, pp. 189–210.
-* –––, 2007, “The Dangerous Individual(’s) Mother: Biopower, Family, and the Production of Race”, *Hypatia*, 22(2): 60–78. doi:10.1111/j.1527-2001.2007.tb00982.x
+* –––, 2007, “The Dangerous Individual(’s) Mother: Biopower, Family, and the Production of Race”, *Hypatia*, 22(2): 60–78. doi: 10.1111/j.1527-2001.2007.tb00982.x
 * –––, 2009, “Imperatives of Normality: From ‘Intersex’ to ‘Disorders of Sex Development”, *A Journal of Lesbian and Gay Studies* 15 (2): 225-247.
-* –––, 2011, “Tilting the Ethical Lens: Shame, Disgust, and the Body in Question”, *Hypatia*, 26(3): 632–650. doi:10.1111/j.1527-2001.2011.01193.x
+* –––, 2011, “Tilting the Ethical Lens: Shame, Disgust, and the Body in Question”, *Hypatia*, 26(3): 632–650. doi: 10.1111/j.1527-2001.2011.01193.x
 * –––, 2014, *Making Sense of Intersex: Changing Ethical Perspectives in Biomedicine,* Bloomington, IN: Indiana University Press.
 * Foucault, Michel, 1988, “Power, Moral Values, and the Intellectual: an interview with Michel Foucault”, by Michael Bess on 3 November 1980, *History of the Present*, 4: 1–2, 11–13. [[Foucault 1988 available online](https://web.archive.org/web/20170303010515/https://www.michaelbess.org/foucault-interview/)]
-* Fox, Ann M., 2017, “We Must Be Critical: The Current Purpose of Disability Studies”, *Disability Studies Quarterly*, 37(3). doi:10.18061/dsq.v37i3.5925
-* Fox, Nick J. and Pam Alldred, 2015, “New Materialist Social Inquiry: Designs, Methods and the Research-Assemblage”, *International Journal of Social Research Methodology*, 18(4): 399–414. doi:10.1080/13645579.2014.921458
+* Fox, Ann M., 2017, “We Must Be Critical: The Current Purpose of Disability Studies”, *Disability Studies Quarterly*, 37(3). doi: 10.18061/dsq.v37i3.5925
+* Fox, Nick J. and Pam Alldred, 2015, “New Materialist Social Inquiry: Designs, Methods and the Research-Assemblage”, *International Journal of Social Research Methodology*, 18(4): 399–414. doi: 10.1080/13645579.2014.921458
 * Fraser, Nancy, 1989, *Unruly Practices: Power, Discourse and Gender in Contemporary Social Theory*, Minneapolis, MN: University of Minnesota Press.
 * Fries, Kenny, 1995 [1998], “The Imperfections of Beauty: On Being Gay and Disabled”, *Men's Style* September/October. Reprinted in Dawn Atkins (ed.), *Looking Queer: Body Image and Identity in Lesbian, Bisexual, Gay and Transgender Communities*, New York: The Haworth Press, 315–322, 1998.
 * –––, 2003, *Body, Remember: A Memoir*, Madison, WI: University of Wisconsin Press.
 * –––, 2007, *The History of My Shoes and the Evolution of Darwin’s Theory*, New York: Carroll and Graf.
 * –––, 2017, *In the Province of the Gods*, Madison, WI: University of Wisconsin Press.
 * Fritsch, Kelly, 2010, “Intimate Assemblages: Disability, Intercorporeality, and the Labour of Attendant Care”, *Critical Disability Discourses/Discours Critiques Dans Le Champ Du Handicap*, 2(art. 2): 1–14. [[Fritsch 2010 available online](https://cdd.journals.yorku.ca/index.php/cdd/article/view/23854)]
-* –––, 2013, “On the Negative Possibility of Suffering: Adorno, Feminist Philosophy, and the Transfigured Crip To Come”, *Disability Studies Quarterly*, 33(4). doi:10.18061/dsq.v33i4.3869
+* –––, 2013, “On the Negative Possibility of Suffering: Adorno, Feminist Philosophy, and the Transfigured Crip To Come”, *Disability Studies Quarterly*, 33(4). doi: 10.18061/dsq.v33i4.3869
 * –––, 2016, “Cripping Neoliberal Futurity: Marking the Elsewhere and Elsewhen of Desiring Otherwise”, *Feral Feminisms*, 5: 11–26. [[Fritsch 2016 available online](https://feralfeminisms.com/cripping-neoliberal-futurity/)]
-* Gagnon, Marilou, Jean Daniel Jacob, and Dave Holmes, 2010, “Governing through (in)Security: A Critical Analysis of a Fear-Based Public Health Campaign”, *Critical Public Health*, 20(2): 245–256. doi:10.1080/09581590903314092
-* Gagnon, Marilou and Meryn Stuart, 2009, “Manufacturing Disability: HIV, Women and the Construction of Difference”, *Nursing Philosophy*, 10(1): 42–52. doi:10.1111/j.1466-769X.2008.00380.x
+* Gagnon, Marilou, Jean Daniel Jacob, and Dave Holmes, 2010, “Governing through (in)Security: A Critical Analysis of a Fear-Based Public Health Campaign”, *Critical Public Health*, 20(2): 245–256. doi: 10.1080/09581590903314092
+* Gagnon, Marilou and Meryn Stuart, 2009, “Manufacturing Disability: HIV, Women and the Construction of Difference”, *Nursing Philosophy*, 10(1): 42–52. doi: 10.1111/j.1466-769X.2008.00380.x
 * Garland-Thomson, Rosemarie, 1996, *Extraordinary Bodies: Figuring Disability in American Culture and Literature*, New York, NY: Columbia University Press.
 * –––, 2002, “Integrating Disability, Transforming Feminist Theory”, *NWSA Journal*, 14(3): 1–32.
-* Gill, Michael, 2010, “Rethinking Sexual Abuse, Questions of Consent, and Intellectual Disability”, *Sexuality Research and Social Policy*, 7(3): 201–213. doi:10.1007/s13178-010-0019-9
-* –––, 2012, “*The Specials* Meet the Lady Boys of Bangkok: Sexual and Gender Transgression and Smashing Intellectual Disability”, *Review of Education, Pedagogy, and Cultural Studies*, 34(3–4): 156–169. doi:10.1080/10714413.2012.687287
+* Gill, Michael, 2010, “Rethinking Sexual Abuse, Questions of Consent, and Intellectual Disability”, *Sexuality Research and Social Policy*, 7(3): 201–213. doi: 10.1007/s13178-010-0019-9
+* –––, 2012, “*The Specials* Meet the Lady Boys of Bangkok: Sexual and Gender Transgression and Smashing Intellectual Disability”, *Review of Education, Pedagogy, and Cultural Studies*, 34(3–4): 156–169. doi: 10.1080/10714413.2012.687287
 * –––, 2015, *Already Doing It: Intellectual Disability and Sexual Agency*, Minneapolis, MN: University of Minnesota Press.
-* Gillies, Jennifer, 2014, “Critical Disability Theory”, in *Encyclopedia of Quality of Life and Well-Being Research*, Alex C. Michalos (ed.), Dordrecht: Springer Netherlands, 1348–1350. doi:10.1007/978-94-007-0753-5_619
+* Gillies, Jennifer, 2014, “Critical Disability Theory”, in *Encyclopedia of Quality of Life and Well-Being Research*, Alex C. Michalos (ed.), Dordrecht: Springer Netherlands, 1348–1350. doi: 10.1007/978-94-007-0753-5_619
 * Ginsburg, Faye and Rayna Rapp, 2015, “Making Disability Count: Demography, Futurity and the Making of Disability Publics”, *Somatosphere*, (May) [[Ginsburg and Rapp 2015 available online](http://somatosphere.net/2015/05/making-disability-count-demography-futurity-and-the-making-of-disability-publics.html)]
 * –––, 2017, “Cripping the Future: Making Disability Count”, in Juan Francisco Salazar, Sarah Pink, Andrew Irving, and Johannes Sjöberg (eds.), *Anthropologies and Futures: Researching Emerging and Uncertain Worlds*, London: Bloomsbury.
 * Goodley, Dan, 2009, “Foreword”, in Fiona Kumari Campbell, *Contours of Ableism: The Production of Disability and Abledness*, London: Palgrave Macmillan, ix–xii.
 * –––, 2014, *Dis/ability Studies: Theorising Disablism and Ableism*, New York, NY: Routledge.
 * –––, 2017, *Disability Studies: An Interdisciplinary Introduction*, Los Angeles/London: SAGE Publications Ltd.
 * Goodley, Dan and Rebecca Lawthom, 2011, “Deleuze, disability and sex”, in Frida Beckman (ed.), *Deleuze and Sex*, Edinburgh: Edinburgh University Press.
-* Goodley, Dan, Rebecca Lawthom, Kirsty Liddiard, and Katherine Runswick Cole, 2017, “Critical Disability Studies”, in *The Palgrave Handbook of Critical Social Psychology*, Brendan Gough (ed.), London: Palgrave Macmillan UK, 491–505. doi:10.1057/978-1-137-51018-1_24
-* Goodley, Dan, Kirsty Liddiard, and Katherine Runswick-Cole, 2018, “Feeling Disability: Theories of Affect and Critical Disability Studies”, *Disability & Society*, 33(2): 197–217. doi:10.1080/09687599.2017.1402752
-* Grech, Shaun, 2011, “Recolonising Debates or Perpetuated Coloniality? Decentring the Spaces of Disability, Development and Community in the Global South”, *International Journal of Inclusive Education*, 15(1): 87–100. doi:10.1080/13603116.2010.496198
-* Guta, Adrian, Marilou Gagnon, and Jean Daniel Jacob, 2012, “Using Foucault to Recast the Telecare Debate”, *The American Journal of Bioethics*, 12(9): 57–59. doi:10.1080/15265161.2012.699140
+* Goodley, Dan, Rebecca Lawthom, Kirsty Liddiard, and Katherine Runswick Cole, 2017, “Critical Disability Studies”, in *The Palgrave Handbook of Critical Social Psychology*, Brendan Gough (ed.), London: Palgrave Macmillan UK, 491–505. doi: 10.1057/978-1-137-51018-1_24
+* Goodley, Dan, Kirsty Liddiard, and Katherine Runswick-Cole, 2018, “Feeling Disability: Theories of Affect and Critical Disability Studies”, *Disability & Society*, 33(2): 197–217. doi: 10.1080/09687599.2017.1402752
+* Grech, Shaun, 2011, “Recolonising Debates or Perpetuated Coloniality? Decentring the Spaces of Disability, Development and Community in the Global South”, *International Journal of Inclusive Education*, 15(1): 87–100. doi: 10.1080/13603116.2010.496198
+* Guta, Adrian, Marilou Gagnon, and Jean Daniel Jacob, 2012, “Using Foucault to Recast the Telecare Debate”, *The American Journal of Bioethics*, 12(9): 57–59. doi: 10.1080/15265161.2012.699140
 * Hall, Kim Q. (ed.), 2011, *Feminist Disability Studies*, Bloomington, IN: Indiana University Press.
-* –––, 2014, “No Failure: Climate Change, Radical Hope, and Queer Crip Feminist Eco-Future”, *Radical Philosophy Review*, 17(1): 203–225. doi:10.5840/radphilrev201432614
-* Hall, Melinda C., 2013, “Vile Sovereigns in Bioethical Debate”, *Disability Studies Quarterly*, 33(4). doi:10.18061/dsq.v33i4.3870
-* –––, 2015, “Continental Approaches in Bioethics: Continental Approaches”, *Philosophy Compass*, 10(3): 161–172. doi:10.1111/phc3.12202
+* –––, 2014, “No Failure: Climate Change, Radical Hope, and Queer Crip Feminist Eco-Future”, *Radical Philosophy Review*, 17(1): 203–225. doi: 10.5840/radphilrev201432614
+* Hall, Melinda C., 2013, “Vile Sovereigns in Bioethical Debate”, *Disability Studies Quarterly*, 33(4). doi: 10.18061/dsq.v33i4.3870
+* –––, 2015, “Continental Approaches in Bioethics: Continental Approaches”, *Philosophy Compass*, 10(3): 161–172. doi: 10.1111/phc3.12202
 * –––, 2016, *The Bioethics of Enhancement: Transhumanism, Disability, and Biopolitics*, Lanham, MD: Lexington Books.
-* Hamraie, Aimi, 2015, “Historical Epistemology as Disability Studies Methodology: From the Models Framework to Foucault’s Archaeology of Cure”, *Foucault Studies*, 19: 108–134. doi:10.22439/fs.v0i19.4827
-* –––, 2016, “Beyond Accommodation: Disability, Feminist Philosophy, and the Design of Everyday Academic Life”, *PhiloSOPHIA*, 6(2): 259–271. doi:10.1353/phi.2016.0022
+* Hamraie, Aimi, 2015, “Historical Epistemology as Disability Studies Methodology: From the Models Framework to Foucault’s Archaeology of Cure”, *Foucault Studies*, 19: 108–134. doi: 10.22439/fs.v0i19.4827
+* –––, 2016, “Beyond Accommodation: Disability, Feminist Philosophy, and the Design of Everyday Academic Life”, *PhiloSOPHIA*, 6(2): 259–271. doi: 10.1353/phi.2016.0022
 * –––, 2017, *Building Access: Universal Design and the Politics of Disability*, Minneapolis, MN: University of Minnesota Press.
 * Hickey, Huhana, 2001, “Commentary: Indigeneity, Disability and Identity: Ko Wai Ahau? Who Am I? Indigenous Disabled Identities”, *Women’s Studies Journal*, 17(2): 110–118.
 * –––, 2006, “Replacing Medical and Social Models of Disability by a Communities-Based Model of Equal Access for People of Differing Abilities: A Maori Perspective”, *He Puna Korero: Journal of Maori and Pacific Development*, 7(1): 35–47.
 * –––, 2008, “Claiming Spaces: Maori (Indigenous Persons) Making the Invalid Valid”, in *Claiming Spaces: Proceedings of the 2007 National Maori and Pacific Psychologies Symposium* 23–24 November 2007, M. Levy, L.W. Nikora, B. Masters-Awatere, M. Rua, and W. Waitoki (eds), Hamilton, New Zealand: Māori and Psychology Research Unit, University of Waikato, pp. 62–67. [[Hickey 2008 available online](https://researchcommons.waikato.ac.nz/handle/10289/1542)].
 * Horkheimer, Max, 1972, *Critical Theory: Selected Essays,*, Matthew J. O’Connell and others (trans.), New York: Continuum. Essays originally appeared in book form in *Kritische Theorie*, 2 volumes, Frankfurt am Main: S. Fischer, 1968.
 * Hughes, Bill, 2005, “What Can a Foucauldian Analysis Contribute to Disability Theory?”, in Shelley Tremain (ed.), *Foucault and the Government of Disability*, Ann Arbor, MI: University of Michigan Press, pp. 78–92.
-* –––, 2007, “Being Disabled: Towards a Critical Social Ontology for Disability Studies”, *Disability & Society*, 22(7): 673–684. doi:10.1080/09687590701659527
+* –––, 2007, “Being Disabled: Towards a Critical Social Ontology for Disability Studies”, *Disability & Society*, 22(7): 673–684. doi: 10.1080/09687590701659527
 * Hutcheon, Emily J. and Gregor Wolbring, 2013, “Deconstructing the Resilience Concept Using an Ableism Lens: Implications for Persons with Diverse Abilities”, *Dilemata*, 5(11): 235–252.
-* Inahara, Minae, 2009, “This Body Which Is Not One: The Body, Femininity and Disability”, *Body & Society*, 15(1): 47–62. doi:10.1177/1357034X08100146
-* Jaarsma, Ada S., 2017, *Kierkegaard After the Genome*, Cham: Palgrave Macmillan. doi:10.1007/978-3-319-57981-8
-* Jacob, Jean Daniel, Marilou Gagnon, Amélie Perron, and Dave Holmes, 2009, “Sovereign Power, Spectacle and Punishment: A Critical Analysis of the Use of the Seclusion Room”, *International Journal of Culture and Mental Health*, 2(2): 75–85. doi:10.1080/03637750902792923
-* Jarman, Michelle, 2012, “Dismembering the Lynch Mob: Intersecting Narratives of Disability, Race, and Sexual Menace”, in McRuer and Mollow 2012: 89–107. doi:10.1215/9780822394877-005
-* –––, 2015, “Relations of Abortion: Crip Approaches to Reproductive Justice”, *Feminist Formations*, 27(1): 46–66. doi:10.1353/ff.2015.0008
-* Kafer, Alison, 2003, “Compulsory Bodies: Reflections on Heterosexuality and Able-Bodiedness”, *Journal of Women’s History*, 15(3): 77–89. doi:10.1353/jowh.2003.0071
-* –––, 2003, “Compulsory Bodies: Reflections on Heterosexuality and Able-Bodiedness”, *Journal of Women’s History*, 15(3): 77–89. doi:10.1353/jowh.2003.0071
-* –––, 2009, “What’s Crip About Queer Theory Now? *Crip Theory: Cultural Signs of Queerness and Disability*, by Robert McRuer”, *Sex Roles*, 60(3–4): 291–294. doi:10.1007/s11199-008-9511-6
+* Inahara, Minae, 2009, “This Body Which Is Not One: The Body, Femininity and Disability”, *Body & Society*, 15(1): 47–62. doi: 10.1177/1357034X08100146
+* Jaarsma, Ada S., 2017, *Kierkegaard After the Genome*, Cham: Palgrave Macmillan. doi: 10.1007/978-3-319-57981-8
+* Jacob, Jean Daniel, Marilou Gagnon, Amélie Perron, and Dave Holmes, 2009, “Sovereign Power, Spectacle and Punishment: A Critical Analysis of the Use of the Seclusion Room”, *International Journal of Culture and Mental Health*, 2(2): 75–85. doi: 10.1080/03637750902792923
+* Jarman, Michelle, 2012, “Dismembering the Lynch Mob: Intersecting Narratives of Disability, Race, and Sexual Menace”, in McRuer and Mollow 2012: 89–107. doi: 10.1215/9780822394877-005
+* –––, 2015, “Relations of Abortion: Crip Approaches to Reproductive Justice”, *Feminist Formations*, 27(1): 46–66. doi: 10.1353/ff.2015.0008
+* Kafer, Alison, 2003, “Compulsory Bodies: Reflections on Heterosexuality and Able-Bodiedness”, *Journal of Women’s History*, 15(3): 77–89. doi: 10.1353/jowh.2003.0071
+* –––, 2003, “Compulsory Bodies: Reflections on Heterosexuality and Able-Bodiedness”, *Journal of Women’s History*, 15(3): 77–89. doi: 10.1353/jowh.2003.0071
+* –––, 2009, “What’s Crip About Queer Theory Now? *Crip Theory: Cultural Signs of Queerness and Disability*, by Robert McRuer”, *Sex Roles*, 60(3–4): 291–294. doi: 10.1007/s11199-008-9511-6
 * –––, 2013, *Feminist, Queer, Crip*, Bloomington, IN: Indiana University Press.
 * Kearney, Richard, 1986, *Modern Movements in European Philosophy*, Manchester, UK: Manchester University Press.
 * Kearney, Richard and Mara Rainwater (eds.), 1996, *The Continental Philosophy Reader*, London, UK: Psychology Press Ltd.
-* Kelly, Christine, 2010, “Wrestling with Group Identity: Disability Activism and Direct Funding”, *Disability Studies Quarterly*, 30(3/4). doi:10.18061/dsq.v30i3/4.1279
+* Kelly, Christine, 2010, “Wrestling with Group Identity: Disability Activism and Direct Funding”, *Disability Studies Quarterly*, 30(3/4). doi: 10.18061/dsq.v30i3/4.1279
 * Kittay, Eva Feder and Ellen K. Feder (eds.), 2002, *The Subject of Care: Feminist Perspectives on Dependency*, Landham, MD: Rowman & Littlefield.
 * Kristeva, Julia and Jeanine Herman, 2010, “Liberty, Equality, Fraternity…and Vulnerability”, *Women's Studies Quarterly*, 38(1/2): 251–268.
-* Kudlick, Catherine and Susan Schweik, 2014, “Collision and Collusion: Artists, Academics, and Activists in Dialogue with the University of California and Critical Disability Studies”, *Disability Studies Quarterly*, 34(2). doi:10.18061/dsq.v34i2.4251
-* Linton, Simi, 1998, “Disability Studies/Not Disability Studies”, *Disability & Society*, 13(4): 525–539. doi:10.1080/09687599826588
+* Kudlick, Catherine and Susan Schweik, 2014, “Collision and Collusion: Artists, Academics, and Activists in Dialogue with the University of California and Critical Disability Studies”, *Disability Studies Quarterly*, 34(2). doi: 10.18061/dsq.v34i2.4251
+* Linton, Simi, 1998, “Disability Studies/Not Disability Studies”, *Disability & Society*, 13(4): 525–539. doi: 10.1080/09687599826588
 * –––, 2005, “What is Disability Studies?”, *PMLA*, 120(2): 518–522.
 * Lovern, Lavonna L., 2008, “Native American Worldview and the Discourse on Disability”, *Essays in Philosophy*, 9(1): Article 14. [[Lovern 2008 available online](https://commons.pacificu.edu/eip/vol9/iss1/14/)]
-* –––, 2017, “Indigenous Perspectives on Difference: A Case for Inclusion”, *Journal of Literary & Cultural Disability Studies*, 11(3): 303–320. doi:10.3828/jlcds.2017.24
-* Lovern, Lavonna L. and Carol Locust, 2013, *Native American Communities on Health and Disability*, New York: Palgrave Macmillan US. doi:10.1057/9781137312020
-* Mackenzie, Catriona, Wendy Rogers, and Susan Dodds (eds.), 2014, *Vulnerability: New Essays in Ethics and Feminist Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199316649.001.0001
+* –––, 2017, “Indigenous Perspectives on Difference: A Case for Inclusion”, *Journal of Literary & Cultural Disability Studies*, 11(3): 303–320. doi: 10.3828/jlcds.2017.24
+* Lovern, Lavonna L. and Carol Locust, 2013, *Native American Communities on Health and Disability*, New York: Palgrave Macmillan US. doi: 10.1057/9781137312020
+* Mackenzie, Catriona, Wendy Rogers, and Susan Dodds (eds.), 2014, *Vulnerability: New Essays in Ethics and Feminist Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199316649.001.0001
 * McRuer, Robert, 2003, “As Good As It Gets: Queer Theory and Critical Disability”, *GLQ: A Journal of Lesbian and Gay Studies*, 9(1): 79–105.
 * –––, 2004, “Composing Bodies; or, De-Composition: Queer Theory, Disability Studies, and Alternative Corporealities”, *JAC*, 24(1): 47–78.
 * –––, 2005, “Crip Eye for the Normate Guy: Queer Theory and the Disciplining of Disability Studies”, *PMLA*, 120(2): 586–592.
@@ -452,65 +452,65 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 * –––, 2006b, *Crip Theory: Cultural Signs of Queerness and Disability*, New York: New York University Press.
 * –––, 2011, “Disabling Sex: Notes for a Crip Theory of Sexuality”, *GLQ: A Journal of Lesbian and Gay Studies*, 17(1): 107–117.
 * –––, 2018, *Crip Times: Disability, Globalization, and Resistance*, New York: New York University Press.
-* McRuer, Robert and Anna Mollow (eds.), 2012, *Sex and Disability*, Durham, NC: Duke University Press. doi:10.1215/9780822394877
-* Meekosha, Helen and Russell Shuttleworth, 2009, “What’s so ‘Critical’ about Critical Disability Studies?”, *Australian Journal of Human Rights*, 15(1): 47–75. doi:10.1080/1323238X.2009.11910861
-* Mercieca, Daniela and Duncan Mercieca, 2010, “Opening Research to Intensities: Rethinking Disability Research with Deleuze and Guattari”, *Journal of Philosophy of Education*, 44(1): 79–92. doi:10.1111/j.1467-9752.2010.00745.x
+* McRuer, Robert and Anna Mollow (eds.), 2012, *Sex and Disability*, Durham, NC: Duke University Press. doi: 10.1215/9780822394877
+* Meekosha, Helen and Russell Shuttleworth, 2009, “What’s so ‘Critical’ about Critical Disability Studies?”, *Australian Journal of Human Rights*, 15(1): 47–75. doi: 10.1080/1323238X.2009.11910861
+* Mercieca, Daniela and Duncan Mercieca, 2010, “Opening Research to Intensities: Rethinking Disability Research with Deleuze and Guattari”, *Journal of Philosophy of Education*, 44(1): 79–92. doi: 10.1111/j.1467-9752.2010.00745.x
 * Mills, Catherine, 2008, “Genetic Screening and Selfhood”, *Australian Feminist Studies*, 23(55): 43–55.
 * –––, 2011, *Futures of Reproduction: Bioethics and Biopolitics*, Dordrecht: Springer Netherlands.
 * –––, 2013, “Reproductive Autonomy as Self-Making: Procreative Liberty and the Practice of Ethical Subjectivity”, *Journal of Medicine and Philosophy* , 38(6): 639–656.
 * –––, 2015, “The Case of the Missing Hand: Gender, Disability, and Bodily Norms in Selective Termination”, *Hypatia* 30(1): 82–96.
-* Minich, Julie Avril, 2016, “Enabling Whom? Critical Disability Studies Now”, *Lateral*, 5(1). doi:10.25158/L5.1.9 [[Minich 2016 available online](http://csalateral.org/issue/5-1/forum-alt-humanities-critical-disability-studies-now-minich/)]
+* Minich, Julie Avril, 2016, “Enabling Whom? Critical Disability Studies Now”, *Lateral*, 5(1). doi: 10.25158/L5.1.9 [[Minich 2016 available online](http://csalateral.org/issue/5-1/forum-alt-humanities-critical-disability-studies-now-minich/)]
 * Mintz, Susannah B., 2007, *Unruly Bodies: Life Writing by Women with Disabilities*, Chapel Hill, NC: University of North Carolina Press.
-* –––, 2016, “Mindful Skin: Disability and the Ethics of Touch in Life Writing”, *Life Writing*, 13(1): 47–62. doi:10.1080/14484528.2016.1132916
+* –––, 2016, “Mindful Skin: Disability and the Ethics of Touch in Life Writing”, *Life Writing*, 13(1): 47–62. doi: 10.1080/14484528.2016.1132916
 * Mollow, Anna, 2004, “Identity Politics and Disability Studies: A Critique of Recent Theory”, *Michigan Quarterly Review*, 43(2). [[Mollow 2004 available online](http://hdl.handle.net/2027/spo.act2080.0043.218)]
-* –––, 2012, “Is Sex Disability? Queer Theory and the Disability Drive”, in McRuer and Mollow 2012: 285–312. doi:10.1215/9780822394877-015
+* –––, 2012, “Is Sex Disability? Queer Theory and the Disability Drive”, in McRuer and Mollow 2012: 285–312. doi: 10.1215/9780822394877-015
 * –––, 2013, “Mad Feminism”, *Social Text Online*, 24 October 2013. [[Mollow 2013 available online](https://socialtextjournal.org/periscope_article/mad-feminism/)]
-* –––, 2014, “Criphystemologies: What Disability Theory Needs to Know about Hysteria”, *Journal of Literary & Cultural Disability Studies*, 8(2): 185–201. doi:10.3828/jlcds.2014.15
-* –––, 2017, “Disability Studies”, in *A Companion to Critical and Cultural Theory*, Imre Szeman, Sarah Blacker, and Justin Sully (eds.), Chichester, UK: John Wiley & Sons, Ltd, 339–356. doi:10.1002/9781118472262.ch21
+* –––, 2014, “Criphystemologies: What Disability Theory Needs to Know about Hysteria”, *Journal of Literary & Cultural Disability Studies*, 8(2): 185–201. doi: 10.3828/jlcds.2014.15
+* –––, 2017, “Disability Studies”, in *A Companion to Critical and Cultural Theory*, Imre Szeman, Sarah Blacker, and Justin Sully (eds.), Chichester, UK: John Wiley & Sons, Ltd, 339–356. doi: 10.1002/9781118472262.ch21
 * Mucina, Devi, 2010, “We Exist Because They Exist”, *Journal on Developmental Disabilities*, 16(3): 81–90. [[Mucina 2010 available online](https://oadd.org/wp-content/uploads/2010/01/41008_JoDD_16-3_81-90_mucina.pdf)]
 * Nelson, Camille A., 2016, “Frontlines: Policing at the Nexus of Race and Mental Health”, *Fordham Urban Law Journal*, 43(3): 615–684. [[Nelson 2016 available online](https://ir.lawnet.fordham.edu/ulj/vol43/iss3/4/)]
 * Nikora, Linda Waimarie, Rolinda Karapu, Huhana Hickey, and Ngahuia Te Awekotuku, 2004, “Disabled Māori and Disability Support Options”, A report prepared for the Ministry of Health, Hamilton Office, Hamilton, New Zealand: Maori & Psychology Research Unit, University of Waikato. [[Nikora et al. 2004 available online](https://researchcommons.waikato.ac.nz/handle/10289/460)].
 * O’Dell, Lindsay, Hanna Bertilsdotter Rosqvist, Francisco Ortega, Charlotte Brownlow, and Michael Orsini, 2016, “Critical Autism Studies: Exploring Epistemic Dialogues and Intersections, Challenging Dominant Understandings of Autism”, *Disability & Society*, 31(2): 166–179.
 * Pothier, Diane and Richard Devlin (eds), 2006, *Critical Disability Theory: Essays in Philosophy, Politics, Policy, and Law*, Vancouver, Canada: UBC Press.
 * Price, Margaret, 2011, *Mad at School: Rhetorics of Mental Disability and Academic Life*, Ann Arbor, MI: University of Michigan Press.
-* –––, 2015, “The Bodymind Problem and the Possibilities of Pain”, *Hypatia*, 30(1): 268–284. doi:10.1111/hypa.12127
+* –––, 2015, “The Bodymind Problem and the Possibilities of Pain”, *Hypatia*, 30(1): 268–284. doi: 10.1111/hypa.12127
 * Ramlow, Todd R., 2016, “Queering, Cripping”, in Noreen Giffney and Michael O’Rourke (eds.), *The Ashgate Research Companion to Queer Theory*, London: Routledge, pp. 129–146.
-* Reynolds, Joel Michael, 2016a, “The Ableism of Quality of Life Judgments in Disorders of Consciousness: Who Bears Epistemic Responsibility?”, *AJOB Neuroscience*, 7(1): 59–61. doi:10.1080/21507740.2016.1150911
+* Reynolds, Joel Michael, 2016a, “The Ableism of Quality of Life Judgments in Disorders of Consciousness: Who Bears Epistemic Responsibility?”, *AJOB Neuroscience*, 7(1): 59–61. doi: 10.1080/21507740.2016.1150911
 * –––, 2016b, “Toward a Critical Theory of Harm: Ableism, Normativity, and Transability (BIID)”, *APA Newsletter on Philosophy and Medicine*, 16(1): 37–46.
 * Rocco, Tonette S., 2005, “From Disability Studies to Critical Race Theory: Working Towards Critical Disability Theory”, *Proceedings of the Adult Education Research Conference*, Athens, GA: Kansas State University Libraries, New Prairie Press. [[Rocco 2005 available online](http://newprairiepress.org/cgi/viewcontent.cgi?article=2685&context=aerc)]
-* Roets, Griet and Rosi Braidotti, 2012, “Nomadology and Subjectivity: Deleuze, Guattari and Critical Disability Studies”, in *Disability and Social Theory: New Developments and Directions*, Dan Goodley, Bill Hughes, and Lennard Davis (eds.), London: Palgrave Macmillan UK, 161–178. doi:10.1057/9781137023001_10
+* Roets, Griet and Rosi Braidotti, 2012, “Nomadology and Subjectivity: Deleuze, Guattari and Critical Disability Studies”, in *Disability and Social Theory: New Developments and Directions*, Dan Goodley, Bill Hughes, and Lennard Davis (eds.), London: Palgrave Macmillan UK, 161–178. doi: 10.1057/9781137023001_10
 * Samuels, Ellen Jean, 2003, “My Body, My Closet: Invisible Disability and the Limits of Coming-Out Discourse”, *GLQ: A Journal of Lesbian and Gay Studies*, 9(1): 233–255.
 * –––, 2014, *Fantasies of Identification: Disability, Gender, Race*, New York: New York University Press.
-* Schalk, Sami, 2013, “Coming to Claim Crip: Disidentification with/in Disability Studies”, *Disability Studies Quarterly*, 33(2). doi:10.18061/dsq.v33i2.3705
-* –––, 2017, “Critical Disability Studies as Methodology”, *Lateral*, 6(1). doi:10.25158/L6.1.13 [[Schalk 2017 available online](http://csalateral.org/issue/6-1/forum-alt-humanities-critical-disability-studies-methodology-schalk/)]
+* Schalk, Sami, 2013, “Coming to Claim Crip: Disidentification with/in Disability Studies”, *Disability Studies Quarterly*, 33(2). doi: 10.18061/dsq.v33i2.3705
+* –––, 2017, “Critical Disability Studies as Methodology”, *Lateral*, 6(1). doi: 10.25158/L6.1.13 [[Schalk 2017 available online](http://csalateral.org/issue/6-1/forum-alt-humanities-critical-disability-studies-methodology-schalk/)]
 * –––, 2018, *Bodyminds Reimagined: (Dis)ability, Race, and Gender in Black Women’s Speculative Fiction*, Durham, NC: Duke University Press.
 * Scuro, Jennifer, 2017, *Addressing Ableism: Philosophical Questions via Disability Studies*, Lanham, MD: Lexington Books.
-* Shakespeare, Tom, 2005, “Disability Studies Today and Tomorrow”, *Sociology of Health and Illness*, 27(1): 138–148. doi:10.1111/j.1467-9566.2005.00435.x
+* Shakespeare, Tom, 2005, “Disability Studies Today and Tomorrow”, *Sociology of Health and Illness*, 27(1): 138–148. doi: 10.1111/j.1467-9566.2005.00435.x
 * –––, 2006, *Disability Rights and Wrongs*, Routledge.
 * Shakespeare, Tom and Mark Erickson, 2001, “Different Strokes: Beyond Biological Determinism and Social Constructionism”, in Hilary Rose and Steven Rose (eds.), *Alas Poor Darwin: Arguments Against Evolutionary Psychology*, New York, NY: Vintage, 190–205.
-* Shildrick, Margrit, 2008, “The Critical Turn in Feminist Bioethics: The Case of Heart Transplantation”, *IJFAB: International Journal of Feminist Approaches to Bioethics*, 1(1): 28–47. doi:10.3138/ijfab.1.1.28
+* Shildrick, Margrit, 2008, “The Critical Turn in Feminist Bioethics: The Case of Heart Transplantation”, *IJFAB: International Journal of Feminist Approaches to Bioethics*, 1(1): 28–47. doi: 10.3138/ijfab.1.1.28
 * –––, 2012, “Critical disability studies: rethinking the conventions for the age of postmodernity”, in Nick Watson, Alan Roulstone, and Carol Thomas (eds.), *Routledge Handbook of Disability Studies*, London: Routledge, pp. 30–41.
-* Sleeter, Christine, 2010, “Building Counter-Theory about Disability”, *Disability Studies Quarterly*, 30(2). doi:10.18061/dsq.v30i2.1244
+* Sleeter, Christine, 2010, “Building Counter-Theory about Disability”, *Disability Studies Quarterly*, 30(2). doi: 10.18061/dsq.v30i2.1244
 * Snyder, Sharon L. and David T. Mitchell, 2001, “Re-Engaging the Body: Disability Studies and the Resistance to Embodiment”, *Public Culture*, 13(3): 367–389.
 * St. Pierre, Joshua, 2013, “The Construction of the Disabled Speaker: Locating Stuttering in Disability Studies”, in Christopher Eagle (ed.), *Literature, Speech Disorders, and Disability: Talking Normal*, London: Routledge, pp. 9–23.
-* –––, 2015a, “Cripping Communication: Speech, Disability, and Exclusion in Liberal Humanist and Posthumanist Discourse: Cripping Communication”, *Communication Theory*, 25(3): 330–348. doi:10.1111/comt.12054
-* –––, 2015b, “Distending Straight-Masculine Time: A Phenomenology of the Disabled Speaking Body”, *Hypatia*, 30(1): 49–65. doi:10.1111/hypa.12128
-* St. Pierre, Joshua and Charis St. Pierre, 2018, “Governing the Voice: A Critical History of Speech-Language Pathology”, *Foucault Studies*, 24(June): 151–184. doi:10.22439/fs.v0i24.5530 [[J. St. Pierre and C. St. Pierre 2018 available online](https://rauli.cbs.dk/index.php/foucault-studies/article/view/5530/0)]
+* –––, 2015a, “Cripping Communication: Speech, Disability, and Exclusion in Liberal Humanist and Posthumanist Discourse: Cripping Communication”, *Communication Theory*, 25(3): 330–348. doi: 10.1111/comt.12054
+* –––, 2015b, “Distending Straight-Masculine Time: A Phenomenology of the Disabled Speaking Body”, *Hypatia*, 30(1): 49–65. doi: 10.1111/hypa.12128
+* St. Pierre, Joshua and Charis St. Pierre, 2018, “Governing the Voice: A Critical History of Speech-Language Pathology”, *Foucault Studies*, 24(June): 151–184. doi: 10.22439/fs.v0i24.5530 [[J. St. Pierre and C. St. Pierre 2018 available online](https://rauli.cbs.dk/index.php/foucault-studies/article/view/5530/0)]
 * Taylor, Sunaura, 2017, *Beasts of Burden: Animal and Disability Liberation*, New York, NY: The New Press.
-* Titchkosky, Tanya, 2000, “Disability Studies: The Old and the New”, *Canadian Journal of Sociology / Cahiers Canadiens de Sociologie*, 25(2): 197–224. doi:10.2307/3341823
-* Titchkosky, Tanya and Rod Michalko, 2012, “The Body as the Problem of Individuality: A Phenomenological Disability Studies Approach”, in *Disability and Social Theory: New Developments and Directions*, Dan Goodley, Bill Hughes, and Lennard Davis (eds.), London: Palgrave Macmillan UK, 127–142. doi:10.1057/9781137023001_8
+* Titchkosky, Tanya, 2000, “Disability Studies: The Old and the New”, *Canadian Journal of Sociology / Cahiers Canadiens de Sociologie*, 25(2): 197–224. doi: 10.2307/3341823
+* Titchkosky, Tanya and Rod Michalko, 2012, “The Body as the Problem of Individuality: A Phenomenological Disability Studies Approach”, in *Disability and Social Theory: New Developments and Directions*, Dan Goodley, Bill Hughes, and Lennard Davis (eds.), London: Palgrave Macmillan UK, 127–142. doi: 10.1057/9781137023001_8
 * Tremain, Shelley, 2001, “On the Government of Disability”, *Social Theory and Practice*, 27(4): 617–636.
 * –––, 2005, “Foucault, Governmentality, and Critical Disability Theory: An Introduction”, in Shelley Tremain (ed.), *Foucault and the Government of Disability*, Ann Arbor, MI: University of Michigan Press, pp. 1–24.
-* –––, 2015, “This Is What a Historicist and Relativist Feminist Philosophy of Disability Looks Like”, *Foucault Studies*, 19(June): 7–42. doi:10.22439/fs.v0i19.4822 [[Tremain 2015 available online](https://rauli.cbs.dk/index.php/foucault-studies/article/view/4822)]
+* –––, 2015, “This Is What a Historicist and Relativist Feminist Philosophy of Disability Looks Like”, *Foucault Studies*, 19(June): 7–42. doi: 10.22439/fs.v0i19.4822 [[Tremain 2015 available online](https://rauli.cbs.dk/index.php/foucault-studies/article/view/4822)]
 * –––, 2017, *Foucault and Feminist Philosophy of Disability*, Ann Arbor, MI: University of Michigan Press.
-* Vehmas, Simo and Nick Watson, 2014, “Moral Wrongs, Disadvantages, and Disability: A Critique of Critical Disability Studies”, *Disability & Society*, 29(4): 638–650. doi:10.1080/09687599.2013.831751
-* Watts, Ivan Eugene and Nirmala Erevelles, 2004, “These Deadly Times: Reconceptualizing School Violence by Using Critical Race Theory and Disability Studies”, *American Educational Research Journal*, 41(2): 271–299. doi:10.3102/00028312041002271
-* Wiener, Diane R., 2005a, “Antipsychiatric Activism and Feminism: The Use of Film and Text to Question Biomedicine”, *Journal of Public Mental Health*, 4(3): 42–47. doi:10.1108/17465729200500023
+* Vehmas, Simo and Nick Watson, 2014, “Moral Wrongs, Disadvantages, and Disability: A Critique of Critical Disability Studies”, *Disability & Society*, 29(4): 638–650. doi: 10.1080/09687599.2013.831751
+* Watts, Ivan Eugene and Nirmala Erevelles, 2004, “These Deadly Times: Reconceptualizing School Violence by Using Critical Race Theory and Disability Studies”, *American Educational Research Journal*, 41(2): 271–299. doi: 10.3102/00028312041002271
+* Wiener, Diane R., 2005a, “Antipsychiatric Activism and Feminism: The Use of Film and Text to Question Biomedicine”, *Journal of Public Mental Health*, 4(3): 42–47. doi: 10.1108/17465729200500023
 * –––, 2005b, “‘Normals, Crazies, Insiders, and Outsiders’: The Relevance of SueEstroff’s Medical Anthropology to Disability Studies”, *Review of Disability Studies: An International Journal*, 1(3): 76–82. [[Wiener 2005b available online](https://www.rdsjournal.org/index.php/journal/article/view/375)].
-* Wiener, Diane, Rebecca Ribeiro, and Kurt Warner, 2009, “Mentalism, Disability Rights and Modern Eugenics in a ‘Brave New World’”, *Disability & Society*, 24(5): 599–610. doi:10.1080/09687590903010974
+* Wiener, Diane, Rebecca Ribeiro, and Kurt Warner, 2009, “Mentalism, Disability Rights and Modern Eugenics in a ‘Brave New World’”, *Disability & Society*, 24(5): 599–610. doi: 10.1080/09687590903010974
 * Wendell, Susan, 1996, *The Rejected Body: Feminist Philosophical Reflections on Disability*, London: Routledge.
-* Wolbring, Gregor, 2008, “The Politics of Ableism”, *Development*, 51(2): 252–258. doi:10.1057/dev.2008.17
-* –––, 2012, “Expanding Ableism: Taking down the Ghettoization of Impact of Disability Studies Scholars”, *Societies*, 2(3): 75–83. doi:10.3390/soc2030075
+* Wolbring, Gregor, 2008, “The Politics of Ableism”, *Development*, 51(2): 252–258. doi: 10.1057/dev.2008.17
+* –––, 2012, “Expanding Ableism: Taking down the Ghettoization of Impact of Disability Studies Scholars”, *Societies*, 2(3): 75–83. doi: 10.3390/soc2030075
 
 ## Academic Tools
 

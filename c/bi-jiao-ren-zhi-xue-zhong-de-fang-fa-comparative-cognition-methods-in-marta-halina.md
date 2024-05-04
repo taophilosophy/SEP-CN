@@ -84,11 +84,11 @@ Kristin Andrews 记录了领域和实验室中不同可能的偏见来源。例�
 
 ### 2.2 认知和联想解释
 
-如上所述，为了提供有力证据表明动物具有类似情景记忆或心理理论的认知能力，研究人员旨在排除行为的合理替代解释。这种研究策略并非比较认知学独有，而是跨学科领域普遍存在。例如，朱利安·赖斯（Julian Reiss）认为，一个假设是合理的，只要排除了替代假设。换句话说，证据的强度取决于排除了多少替代方案以及这些替代方案有多么令人信服或显著（Reiss，2015）。在比较认知学中，联想学习经常被提出作为一个必须在得出动物具有复杂认知之前排除的显著替代方案。正如斯塔扎克（Starzak）和格雷（Gray）（2021）所写，
+如上所述，为了提供有力证据表明动物具有类似情景记忆或心理理论的认知能力，研究人员旨在排除行为的合理替代解释。这种研究策略并非比较认知学独有，而是跨学科领域普遍存在。例如，朱利安 · 赖斯（Julian Reiss）认为，一个假设是合理的，只要排除了替代假设。换句话说，证据的强度取决于排除了多少替代方案以及这些替代方案有多么令人信服或显著（Reiss，2015）。在比较认知学中，联想学习经常被提出作为一个必须在得出动物具有复杂认知之前排除的显著替代方案。正如斯塔扎克（Starzak）和格雷（Gray）（2021）所写，
 
 > 一次又一次地，人们熟悉的叠句是，“动物是否具有复杂的类人认知能力，还是它们的行为可以用诸如联想学习之类的简单过程来解释？”。 (2021: 2)
 
-什么是联想学习？广义上，联想学习是一类学习机制，其特点是两个或更多变量之间的关联发生变化。联想学习的两种常见形式是经典（巴甫洛夫式）条件作用和操作（仪器）条件作用。在经典条件作用中，一个刺激物会引起有机体的反应，因为它与另一个刺激物发生了关联。例如，借鉴俄罗斯心理学家伊万·巴甫洛夫的研究，狗会自然地对食物的味道产生唾液分泌（这种反应不需要训练或条件作用，因此是对无条件刺激的无条件反应）。然而，人们可以将另一个刺激物，如铃声，与食物的到来配对。随着时间的推移，狗会学会将食物与铃声联系起来，使得铃声本身足以引起唾液分泌（声音已成为导致条件反应的条件刺激）。在操作条件作用中，有机体的行为会根据该行为的后果而发生变化。例如，一只猫在与一个盒子玩耍时可能会表现出多种行为（比如，里面装有猫喜欢的食物），其中一些行为会导致猫意外成功打开盒子。随着时间的推移，成功的行为会被加强，而不成功的行为会被削弱，使得猫能够仅通过操作条件作用迅速打开盒子。行为在其积极和消极后果的影响下被加强或削弱的倾向分别被称为索恩代克效应法则，以美国心理学家爱德华·索恩代克的名字命名。
+什么是联想学习？广义上，联想学习是一类学习机制，其特点是两个或更多变量之间的关联发生变化。联想学习的两种常见形式是经典（巴甫洛夫式）条件作用和操作（仪器）条件作用。在经典条件作用中，一个刺激物会引起有机体的反应，因为它与另一个刺激物发生了关联。例如，借鉴俄罗斯心理学家伊万 · 巴甫洛夫的研究，狗会自然地对食物的味道产生唾液分泌（这种反应不需要训练或条件作用，因此是对无条件刺激的无条件反应）。然而，人们可以将另一个刺激物，如铃声，与食物的到来配对。随着时间的推移，狗会学会将食物与铃声联系起来，使得铃声本身足以引起唾液分泌（声音已成为导致条件反应的条件刺激）。在操作条件作用中，有机体的行为会根据该行为的后果而发生变化。例如，一只猫在与一个盒子玩耍时可能会表现出多种行为（比如，里面装有猫喜欢的食物），其中一些行为会导致猫意外成功打开盒子。随着时间的推移，成功的行为会被加强，而不成功的行为会被削弱，使得猫能够仅通过操作条件作用迅速打开盒子。行为在其积极和消极后果的影响下被加强或削弱的倾向分别被称为索恩代克效应法则，以美国心理学家爱德华 · 索恩代克的名字命名。
 
 通常可以制定合理的联想学习解释，以适应最初被认为支持因果推理或心灵理论的数据（例如，参见 Taylor, Medina 等人 2010 年; Heyes 2012 年; Halina 2022 年）。在许多情况下，人们认为这会削弱对数据的最初解释，因为联想学习被视为对动物行为的解释优于需要“复杂”或类似人类的认知能力的能力（Buckner 2011 年; Hanus 2016 年）。支持这种偏好的一个理由是，联想学习比替代认知解释“更简单”，因此在其他条件相等的情况下应该被优先考虑（见第 2.3 节）。然而，哲学家们争论称，在这种情况下仅仅依赖简单性是不够的。相反，必须表明所讨论的联想和认知解释实际上可以按复杂性排序，并且有充分理由在特定情况下更喜欢简单的解释（例如，因为更复杂的认知能力预设或需要更简单的联想能力）（Heyes 2012 年; Meketa 2014 年; Dacey 2016 年，2017 年）。偏好将联想学习作为解释的第二个理由是它在类系上广泛分布。如果联想学习在类系上广泛分布，那么合理地假设许多动物将使用它来解决物理和社会认知任务。Irina Mikhalevich（以 Meketa 2014 年发表）将此称为“分类普遍性论证”（2014 年：737）。对这种方法的一个担忧是，如果通常认为联想学习优于复杂认知（在两者与数据一致的情况下），那么这种做法本身可能导致联想学习看起来更具类系普遍性。因此，依赖这些结果来证明联想学习是首选假设似乎是在回避问题（Meketa 2014 年，但请参见 Heyes 2012 年）。
 
@@ -112,13 +112,13 @@ Dacey (2016) 还指出，“联想”这一概念最好被理解为一个“高�
 
 许多哲学家拒绝将摩根准则视为一种有用的方法论原则。首先，他们认为“复杂”是一个常常模糊的概念（Sober，2005 年；Fitzpatrick，2008 年；Meketa，2014 年）。简单性已被用来区分感知和概念推理、刺激-反应机制和意识思维、联想和非联想学习。此外，在所有这些情况下，对比似乎都存在问题（Andrews & Huss，2014 年）。其次，如果将摩根准则解释为“简单即更好或更可能为真”的箴言，那么它就是一个糟糕的研究指南。在比较研究中可以考虑许多简约性因素（本体简约性、解释简约性、进化简约性）：通常这些考虑方向不同，很少支持摩根准则所主张的结论（Sober，2005 年；Fitzpatrick，2008 年；Dacey，2016 年）。最后，科学哲学家们认为，将简单性作为一种美德进行辩护是依赖于背景的——也就是说，这不是一种适用于所有情况的美德（见 Longino，2008 年）。正如 Elliott Sober 所写：
 
-> 当科学家使用[简约原则]这个想法时，它之所以有意义，仅因为它嵌入了一个非常具体的探究背景之中。仅因为一系列背景假设，简约原则才会与某一特定研究问题中的可信性联系起来。因此，简约原则在一个背景下被认为是合理的，可能与其在另一个背景下重要的原因毫不相干。(Sober 1990 [1994: 140])
+> 当科学家使用 [简约原则] 这个想法时，它之所以有意义，仅因为它嵌入了一个非常具体的探究背景之中。仅因为一系列背景假设，简约原则才会与某一特定研究问题中的可信性联系起来。因此，简约原则在一个背景下被认为是合理的，可能与其在另一个背景下重要的原因毫不相干。(Sober 1990 [1994: 140])
 
 如果 Sober 是正确的，那么确定一个人是否应该偏好更简单的解释将取决于具体情况。就像 Morgan 的准则是一个通用的方法论原则，旨在适用于各种不同情况或者“对更低级解释持有一种普遍偏见”，根据这一观点，应该予以拒绝（Fitzpatrick 2008: 243）。比较认知学研究者已经得出类似的结论。例如，Tomasello 和 Call（2006）写道，
 
 > 我们既不是简约原则的坚定支持者（除非明确定义简约的标准），也不是摩根准则的倡导者——尤其是在有大量数据可供处理时，不能将它们作为与数据对抗的替代品。 (2006: 381)
 
-值得注意的是，并非所有对摩根准则的描述都将其视为一种简单性原则。例如，Simon Fitzpatrick 和 Grant Goodrich（2017）认为，当人们看待康威·劳埃德·摩根自己对该准则的阐述时，它并不是一种简单性原则。事实上，摩根明确拒绝了简单性作为选择竞争性解释的标准。相反，他认为应该选择与我们的观察和更广泛背景知识最为一致的解释。摩根的一个背景知识是，“更高级”的能力是从“更低级”的能力进化而来；因此，前者在自然界中会比后者更为罕见，这应该指导我们选择解释。同样，Adrian Currie（2021）认为，最好将摩根准则理解为认为进化古老且高度可进化的特征更有可能在整个生命树上找到。因此，那些涉及这种“更低级”特征的解释应该优先于那些不涉及的解释。在这种观点下，一个认知特征是简单还是复杂并不重要——重要的是它的预期分类分布和可进化性。
+值得注意的是，并非所有对摩根准则的描述都将其视为一种简单性原则。例如，Simon Fitzpatrick 和 Grant Goodrich（2017）认为，当人们看待康威 · 劳埃德 · 摩根自己对该准则的阐述时，它并不是一种简单性原则。事实上，摩根明确拒绝了简单性作为选择竞争性解释的标准。相反，他认为应该选择与我们的观察和更广泛背景知识最为一致的解释。摩根的一个背景知识是，“更高级”的能力是从“更低级”的能力进化而来；因此，前者在自然界中会比后者更为罕见，这应该指导我们选择解释。同样，Adrian Currie（2021）认为，最好将摩根准则理解为认为进化古老且高度可进化的特征更有可能在整个生命树上找到。因此，那些涉及这种“更低级”特征的解释应该优先于那些不涉及的解释。在这种观点下，一个认知特征是简单还是复杂并不重要——重要的是它的预期分类分布和可进化性。
 
 ### 2.4 非认知价值的作用
 
@@ -142,7 +142,7 @@ Dacey (2016) 还指出，“联想”这一概念最好被理解为一个“高�
 
 > 旧时的行为主义可能对动物心理学施加了过多的限制。但重新引入拟人论的风险是我们在拯救婴儿时可能会把脏水重新带回来。 (2004: 606)
 
-我们是否应该关注比较认知中的拟人主义？一个值得关注的原因是有实证研究表明，人类有将心理状态过度归因于周围物体的倾向。例如，在一项经典研究中，心理学家弗里茨·海德尔（Fritz Heider）和玛丽安娜·西梅尔（Marianne Simmel）（1944 年）向人类参与者展示了一个视频，展示了三个形状以不同的方向和速度移动。尽管这些物体是二维形状，几乎所有参与者都用拟人化或类人的术语描述了场景（例如，将形状描述为“争斗”或“追逐”彼此）。当代研究证实，人类很快就会根据行为和其他线索（如眼睛的存在）将心理状态归因于物体和代理人（Fiala, Arico, & Nichols 2011, 2014; Arico 等人 2011）。正如 Dacey（2017）所指出的，人类拟人化的倾向可能作为一种快速和经济的启发式，使人能够快速预测其他代理人的行为。然而，如果这种启发式在没有心理代理人的情况下也被激活，那么这可能导致动物认知研究中的大量误报。Dacey 认为，最佳的方法论方法不是一般禁止将类人的心理状态归因于动物，而是应用已知能有效对抗内隐偏见的方法，比如突出反刻板信息。例如，选择相对不太可能被拟人化的目标（如昆虫），并要求研究人员想象这些目标表现出智能行为，可能有助于对抗直觉上的拟人主义（Dacey 2017：1158–1161）。
+我们是否应该关注比较认知中的拟人主义？一个值得关注的原因是有实证研究表明，人类有将心理状态过度归因于周围物体的倾向。例如，在一项经典研究中，心理学家弗里茨 · 海德尔（Fritz Heider）和玛丽安娜 · 西梅尔（Marianne Simmel）（1944 年）向人类参与者展示了一个视频，展示了三个形状以不同的方向和速度移动。尽管这些物体是二维形状，几乎所有参与者都用拟人化或类人的术语描述了场景（例如，将形状描述为“争斗”或“追逐”彼此）。当代研究证实，人类很快就会根据行为和其他线索（如眼睛的存在）将心理状态归因于物体和代理人（Fiala, Arico, & Nichols 2011, 2014; Arico 等人 2011）。正如 Dacey（2017）所指出的，人类拟人化的倾向可能作为一种快速和经济的启发式，使人能够快速预测其他代理人的行为。然而，如果这种启发式在没有心理代理人的情况下也被激活，那么这可能导致动物认知研究中的大量误报。Dacey 认为，最佳的方法论方法不是一般禁止将类人的心理状态归因于动物，而是应用已知能有效对抗内隐偏见的方法，比如突出反刻板信息。例如，选择相对不太可能被拟人化的目标（如昆虫），并要求研究人员想象这些目标表现出智能行为，可能有助于对抗直觉上的拟人主义（Dacey 2017：1158–1161）。
 
 避免将类人的心理状态归因于动物的第二个论点强调，存在竞争性解释可以解释所讨论的行为，这些解释并不依赖于复杂的认知能力。例如，Shettleworth（2010b）讨论了动物洞察力、心灵理论和心智时间旅行的案例。研究表明，我们在类人猿和乌鸦等动物身上发现了这些能力。然而，Shettleworth 认为我们应该抵制这一结论，因为对于这些动物观察到的行为，存在替代的、非拟人化的解释。例如，我们可以将乌鸦表现出的明智解决问题行为解释为它们自然行为库的一部分，或者解释为受到环境中的线索驱动。我们可以将类人猿表现出的心灵理论能力解释为来自于一套关于在社会情境中期望什么的学习和先天规则（见第 2 节）。关键是，除了认为复杂的心理能力可能并非为动物行为提供最佳解释外，Shettleworth 还认为这种能力可能也不是为人类行为提供最佳解释。她写道，经验研究（IGNORE）
 
@@ -170,7 +170,7 @@ Andrews (2016, 2020) 也主张人类民间心理学在比较认知研究中的�
 
 > 我们推测黑猩猩可能具有一种“心灵理论”，与我们自己的心灵理论并没有明显不同。（Premack & Woodruff 1978: 515）
 
-然而，他们补充说，黑猩猩的心智理论可能在重要方面与人类的心智理论不同，例如，在推断的心理状态类型上。此外，在动物心智理论的研究中，研究人员对目标现象的理解和相关背景假设随着新发现而发生了变化。例如，研究人员并没有拒绝黑猩猩将感知状态归因于其他代理者的假设，而是将一些负面结果解释为由于其他因素（例如，生态效度不足或实验设计不佳）（Hare 等，2000 年；Kaminski 等，2004 年；Bräuer 等，2007 年）。这进而导致了关于需要哪些额外实验控制以成功检测自变量和因变量之间关系的建议（见第 2.1 节）。哲学家们指出，对目标现象的这种修订理解在生物学和认知科学中发挥着重要作用（Bechtel，2008 年；Bechtel 和 Richardson，1993 年[2010]）。然而，以这种方式修订现象会导致不确定性：面对冲突数据，研究人员不清楚是否应该拒绝目标假设还是对其进行修订（整体不确定性的一个实例）。
+然而，他们补充说，黑猩猩的心智理论可能在重要方面与人类的心智理论不同，例如，在推断的心理状态类型上。此外，在动物心智理论的研究中，研究人员对目标现象的理解和相关背景假设随着新发现而发生了变化。例如，研究人员并没有拒绝黑猩猩将感知状态归因于其他代理者的假设，而是将一些负面结果解释为由于其他因素（例如，生态效度不足或实验设计不佳）（Hare 等，2000 年；Kaminski 等，2004 年；Bräuer 等，2007 年）。这进而导致了关于需要哪些额外实验控制以成功检测自变量和因变量之间关系的建议（见第 2.1 节）。哲学家们指出，对目标现象的这种修订理解在生物学和认知科学中发挥着重要作用（Bechtel，2008 年；Bechtel 和 Richardson，1993 年 [2010]）。然而，以这种方式修订现象会导致不确定性：面对冲突数据，研究人员不清楚是否应该拒绝目标假设还是对其进行修订（整体不确定性的一个实例）。
 
 ### 3.4 签名和维度
 
@@ -188,7 +188,7 @@ Starzak 和 Gray (2021)同样敦促研究人员制定更精细的认知现象概
 
 ### 3.5 可重复性
 
-在心理学中，可重复性和复制性通常指重新进行实验以评估其可靠性。如果一项研究是可靠的，那么再次运行这项研究应该会产生相同的结果。如果复制失败，那么这可能意味着原始结果是由于测量误差、抽样误差、操作不精确、可疑的研究实践或其他因素导致的（有关概述，请参见 Romero（2019）和科学结果可重复性条目）。过去二十年来，各个领域，包括医学、计算机科学和心理学，努力复制研究的努力有所增加（Bohannon 2014）。这导致一些人描述为“复制危机”，因为令人惊讶的许多研究未能复制。例如，Open Science Collaboration 的 270 名心理学家尝试复制 100 项研究的努力发现，只有 38%的原始结果得到了明确的复制，一些尝试的复制发现效果与原始研究相反（Bohannon 2015）。这类发现导致研究人员开始思考比较认知是否也存在复制危机，如果是，如何改进这一领域（Brecht 等，2021）。例如，在最近的一项调查中，比较认知研究人员被问及他们对复制的看法（Farrar，Ostojić和 Clayton，2021）。在 210 名受访者中，大多数人同意（34.8%）或强烈同意（54.8%）在动物认知研究中进行复制是重要的。大多数人也不同意（55.5%）或强烈不同意（23.6%）在该领域已经进行了足够的复制。
+在心理学中，可重复性和复制性通常指重新进行实验以评估其可靠性。如果一项研究是可靠的，那么再次运行这项研究应该会产生相同的结果。如果复制失败，那么这可能意味着原始结果是由于测量误差、抽样误差、操作不精确、可疑的研究实践或其他因素导致的（有关概述，请参见 Romero（2019）和科学结果可重复性条目）。过去二十年来，各个领域，包括医学、计算机科学和心理学，努力复制研究的努力有所增加（Bohannon 2014）。这导致一些人描述为“复制危机”，因为令人惊讶的许多研究未能复制。例如，Open Science Collaboration 的 270 名心理学家尝试复制 100 项研究的努力发现，只有 38%的原始结果得到了明确的复制，一些尝试的复制发现效果与原始研究相反（Bohannon 2015）。这类发现导致研究人员开始思考比较认知是否也存在复制危机，如果是，如何改进这一领域（Brecht 等，2021）。例如，在最近的一项调查中，比较认知研究人员被问及他们对复制的看法（Farrar，Ostojić 和 Clayton，2021）。在 210 名受访者中，大多数人同意（34.8%）或强烈同意（54.8%）在动物认知研究中进行复制是重要的。大多数人也不同意（55.5%）或强烈不同意（23.6%）在该领域已经进行了足够的复制。
 
 尽管以上调查结果，比较认知学被描述为“复制努力的绝对灯塔”（Beran 2018: 2）。Beran（2018）指出，该领域的标准是进行一系列实验，第一次实验是对启发工作的研究进行复制，随后的实验致力于扩展该实验（2018: 2）。Halina（2021a）也认为，比较认知学中的复制研究很常见。她采纳了 Edouard Machery 的复制再抽样解释（Machery 2020），展示了在这种观点下，成功的复制研究在黑猩猩心灵理论研究等领域经常发生。如果复制成功是可靠性的明确指标，那么这对比较认知学来说是个好消息。然而，情况却受到几个因素的复杂影响。首先，失败的复制研究很难解释。通常情况下，复制研究会在几个方面与原始研究不同：在这种情况下，可能将失败归因于这些差异（Colaço、Bickle 和 Walters（2022）称之为“不匹配解释”）。例如，在黑猩猩心灵理论研究中，经常会通过对实验设置的变化来解释失败的复制研究（Halina 2021a）。正如我们在第 3.3 节中看到的，背景假设的修订是科学的重要组成部分。然而，这种修订意味着失败的复制研究通常不会被解释为削弱可靠性（Nosek、Spies 和 Motyl 2012）。正如 Alexandria Boyle（2021）所指出的，出于这个原因和其他原因，比较认知学中的复制研究是。
 
@@ -220,157 +220,157 @@ Colin Allen (2014) 认为，比较认知学将极大受益于发展数学严谨�
 
 ## Bibliography
 
-* Allen, Colin, 2006, “Transitive Inference in Animals: Reasoning or Conditioned Associations?”, in Hurley and Nudds 2006: 175–186. doi:10.1093/acprof:oso/9780198528272.003.0007
-* –––, 2014, “Models, Mechanisms, and Animal Minds”, *The Southern Journal of Philosophy*, 52(S1): 75–97. doi:10.1111/sjp.12072
-* –––, 2017, “On (Not) Defining Cognition”, *Synthese*, 194(11): 4233–4249. doi:10.1007/s11229-017-1454-4
-* Allen, Colin and Marc Bekoff, 1997, *Species of Mind: The Philosophy and Biology of Cognitive Ethology*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/6395.001.0001
-* Aplin, Lucy M., Ben C. Sheldon, and Julie Morand-Ferron, 2013, “Milk Bottles Revisited: Social Learning and Individual Variation in the Blue Tit, *Cyanistes caeruleus*”, *Animal Behaviour*, 85(6): 1225–1232. doi:10.1016/j.anbehav.2013.03.009
-* Amodio, Piero, Markus Boeckle, Alexandra K. Schnell, Ljerka Ostojíc, Graziano Fiorito, and Nicola S. Clayton, 2019, “Grow Smart and Die Young: Why Did Cephalopods Evolve Intelligence?”, *Trends in Ecology & Evolution*, 34(1): 45–56. doi:10.1016/j.tree.2018.10.010
-* Andrews, Kristin, 2015 [2020], *The Animal Mind: An Introduction to the Philosophy of Animal Cognition*, London: Routledge. Second edition, New York: Routledge, 2020. doi:10.4324/9780203712511.
+* Allen, Colin, 2006, “Transitive Inference in Animals: Reasoning or Conditioned Associations?”, in Hurley and Nudds 2006: 175–186. doi: 10.1093/acprof: oso/9780198528272.003.0007
+* –––, 2014, “Models, Mechanisms, and Animal Minds”, *The Southern Journal of Philosophy*, 52(S1): 75–97. doi: 10.1111/sjp.12072
+* –––, 2017, “On (Not) Defining Cognition”, *Synthese*, 194(11): 4233–4249. doi: 10.1007/s11229-017-1454-4
+* Allen, Colin and Marc Bekoff, 1997, *Species of Mind: The Philosophy and Biology of Cognitive Ethology*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/6395.001.0001
+* Aplin, Lucy M., Ben C. Sheldon, and Julie Morand-Ferron, 2013, “Milk Bottles Revisited: Social Learning and Individual Variation in the Blue Tit, *Cyanistes caeruleus*”, *Animal Behaviour*, 85(6): 1225–1232. doi: 10.1016/j.anbehav.2013.03.009
+* Amodio, Piero, Markus Boeckle, Alexandra K. Schnell, Ljerka Ostojíc, Graziano Fiorito, and Nicola S. Clayton, 2019, “Grow Smart and Die Young: Why Did Cephalopods Evolve Intelligence?”, *Trends in Ecology & Evolution*, 34(1): 45–56. doi: 10.1016/j.tree.2018.10.010
+* Andrews, Kristin, 2015 [2020], *The Animal Mind: An Introduction to the Philosophy of Animal Cognition*, London: Routledge. Second edition, New York: Routledge, 2020. doi: 10.4324/9780203712511.
 * –––, 2016, “Pluralistic Folk Psychology in Humans and Other Apes”, in *The Routledge Handbook of Philosophy of the Social Mind*, Julian Kiverstein (ed.), London: Routledge, 133–154 (chapter 7).
-* –––, 2020, *How to Study Animal Minds*, Cambridge/New York: Cambridge University Press. doi:10.1017/9781108616522
-* Andrews, Kristin and Jacob Beck (eds.), 2017, *The Routledge Handbook of Philosophy of Animal Minds*, New York: Routledge. doi:10.4324/9781315742250
-* Andrews, Kristin, Gary Comstock, G.K.D. Crozier, Sue Donaldson, Andrew Fenton, Tyler M. John, L. Syd M. Johnson, Robert C. Jones, Will Kymlicka, Letitia Meynell, Nathan Nobis, David Peña-Guzmán, and Jeff Sebo, 2018, *Chimpanzee Rights: The Philosophers’ Brief*, New York: Routledge. doi:10.4324/9780429461071
-* Andrews, Kristin and Brian Huss, 2014, “Anthropomorphism, Anthropectomy, and the Null Hypothesis”, *Biology & Philosophy*, 29(5): 711–729. doi:10.1007/s10539-014-9442-2
-* Arico, Adam, Brian Fiala, Robert F. Goldberg, and Shaun Nichols, 2011, “The Folk Psychology of Consciousness”, *Mind & Language*, 26(3): 327–352. doi:10.1111/j.1468-0017.2011.01420.x
-* Avital, Eytan and Eva Jablonka, 2000, *Animal Traditions: Behavioural Inheritance in Evolution*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511542251
-* Bandini, Elisa and Rachel A. Harrison, 2020, “Innovation in Chimpanzees”, *Biological Reviews*, 95(5): 1167–1197. doi:10.1111/brv.12604
-* Bastos, Amalia P. M. and Alex H. Taylor, 2020, “Kea Show Three Signatures of Domain-General Statistical Inference”, *Nature Communications*, 11: article 828. doi:10.1038/s41467-020-14695-1
-* Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum, 2013, “Simulation as an Engine of Physical Scene Understanding”, *Proceedings of the National Academy of Sciences*, 110(45): 18327–18332. doi:10.1073/pnas.1306572110
-* Bausman, William C., 2018, “Modeling: Neutral, Null, and Baseline”, *Philosophy of Science*, 85(4): 594–616. doi:10.1086/699021
-* Bausman, William and Marta Halina, 2018, “Not Null Enough: Pseudo-Null Hypotheses in Community Ecology and Comparative Psychology”, *Biology & Philosophy*, 33(3–4): article 30. doi:10.1007/s10539-018-9640-4
-* Bechtel, William, 2008, *Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience*, New York: Routledge. doi:10.4324/9780203810095
+* –––, 2020, *How to Study Animal Minds*, Cambridge/New York: Cambridge University Press. doi: 10.1017/9781108616522
+* Andrews, Kristin and Jacob Beck (eds.), 2017, *The Routledge Handbook of Philosophy of Animal Minds*, New York: Routledge. doi: 10.4324/9781315742250
+* Andrews, Kristin, Gary Comstock, G.K.D. Crozier, Sue Donaldson, Andrew Fenton, Tyler M. John, L. Syd M. Johnson, Robert C. Jones, Will Kymlicka, Letitia Meynell, Nathan Nobis, David Peña-Guzmán, and Jeff Sebo, 2018, *Chimpanzee Rights: The Philosophers’ Brief*, New York: Routledge. doi: 10.4324/9780429461071
+* Andrews, Kristin and Brian Huss, 2014, “Anthropomorphism, Anthropectomy, and the Null Hypothesis”, *Biology & Philosophy*, 29(5): 711–729. doi: 10.1007/s10539-014-9442-2
+* Arico, Adam, Brian Fiala, Robert F. Goldberg, and Shaun Nichols, 2011, “The Folk Psychology of Consciousness”, *Mind & Language*, 26(3): 327–352. doi: 10.1111/j.1468-0017.2011.01420.x
+* Avital, Eytan and Eva Jablonka, 2000, *Animal Traditions: Behavioural Inheritance in Evolution*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511542251
+* Bandini, Elisa and Rachel A. Harrison, 2020, “Innovation in Chimpanzees”, *Biological Reviews*, 95(5): 1167–1197. doi: 10.1111/brv.12604
+* Bastos, Amalia P. M. and Alex H. Taylor, 2020, “Kea Show Three Signatures of Domain-General Statistical Inference”, *Nature Communications*, 11: article 828. doi: 10.1038/s41467-020-14695-1
+* Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum, 2013, “Simulation as an Engine of Physical Scene Understanding”, *Proceedings of the National Academy of Sciences*, 110(45): 18327–18332. doi: 10.1073/pnas.1306572110
+* Bausman, William C., 2018, “Modeling: Neutral, Null, and Baseline”, *Philosophy of Science*, 85(4): 594–616. doi: 10.1086/699021
+* Bausman, William and Marta Halina, 2018, “Not Null Enough: Pseudo-Null Hypotheses in Community Ecology and Comparative Psychology”, *Biology & Philosophy*, 33(3–4): article 30. doi: 10.1007/s10539-018-9640-4
+* Bechtel, William, 2008, *Mental Mechanisms: Philosophical Perspectives on Cognitive Neuroscience*, New York: Routledge. doi: 10.4324/9780203810095
 * Bechtel, William and Robert C. Richardson, 1993 [2010], *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research*, Princeton, NJ: Princeton University Press. New edition, Cambridge, MA: The MIT Press, 2010.
-* Bekoff, Marc and Lofe Gruen, 1993, “Animal Welfare and Individual Characteristics: A Conversation Against Speciesism”, *Ethics & Behavior*, 3(2): 163–175. doi:10.1207/s15327019eb0302_2
-* Benz-Schwarzburg, Judith, Susana Monsó, and Ludwig Huber, 2020, “How Dogs Perceive Humans and How Humans Should Treat Their Pet Dogs: Linking Cognition With Ethics”, *Frontiers in Psychology*, 11: 584037. doi:10.3389/fpsyg.2020.584037
-* Beran, Michael J., 2018, “Replication and Pre-Registration in Comparative Psychology”, *International Journal of Comparative Psychology*, 31. doi:10.46867/ijcp.2018.31.01.09
-* Birch, Jonathan, 2017, “Animal Sentience and the Precautionary Principle”, *Animal Sentience*, 2(16): article 1. doi:10.51291/2377-7478.1200
-* –––, 2018, “Animal Cognition and Human Values”, *Philosophy of Science*, 85(5): 1026–1037. doi:10.1086/699744
-* Birch, Jonathan, Alexandra K. Schnell, and Nicola S. Clayton, 2020, “Dimensions of Animal Consciousness”, *Trends in Cognitive Sciences*, 24(10): 789–801. doi:10.1016/j.tics.2020.07.007
-* Boesch, Christophe, 2022, “What Does a Notion of Weight Mean to Chimpanzees?”, *Animal Behavior and Cognition*, 9(2): 222–238. doi:10.26451/abc.09.02.07.2022
-* Bohannon, John, 2014, “Replication Effort Provokes Praise—and ‘Bullying’ Charges”, *Science*, 344(6186): 788–789. doi:10.1126/science.344.6186.788
-* –––, 2015, “Many Psychology Papers Fail Replication Test”, *Science*, 349(6251): 910–911. doi:10.1126/science.349.6251.910
-* Bohn, Manuel, Katja Liebal, Linda Oña, and Michael Henry Tessler, 2022, “Great Ape Communication as Contextual Social Inference: A Computational Modelling Perspective”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1859): 20210096. doi:10.1098/rstb.2021.0096
-* Boyle, Alexandria, 2021, “Replication, Uncertainty and Progress in Comparative Cognition”, *Animal Behavior and Cognition*, 8(2): 296–304. doi:10.26451/abc.08.02.15.2021
-* Brakes, Philippa, Sasha R. X. Dall, Lucy M. Aplin, Stuart Bearhop, Emma L. Carroll, Paolo Ciucci, Vicki Fishlock, John K. B. Ford, Ellen C. Garland, Sally A. Keith, Peter K. McGregor, Sarah L. Mesnick, Michael J. Noad, Giuseppe Notarbartolo Di Sciara, Martha M. Robbins, Mark P. Simmonds, Fernando Spina, Alex Thornton, Paul R. Wade, Martin J. Whiting, et al., 2019, “Animal Cultures Matter for Conservation”, *Science*, 363(6431): 1032–1034. doi:10.1126/science.aaw3557
-* Bräuer, Juliane, Josep Call, and Michael Tomasello, 2007, “Chimpanzees Really Know What Others Can See in a Competitive Situation”, *Animal Cognition*, 10(4): 439–448. doi:10.1007/s10071-007-0088-1
-* Brecht, Katharina F., Edward W. Legg, Christian Nawroth, Hannah Fraser, and Ljerka Ostojić, 2021, “The Status and Value of Replications in Animal Behavior Science”, *Animal Behavior and Cognition*, 8(2): 97–106. doi:10.26451/abc.08.02.01.2021
-* Brigandt, Ingo, 2007, “Typology Now: Homology and Developmental Constraints Explain Evolvability”, *Biology & Philosophy*, 22(5): 709–725. doi:10.1007/s10539-007-9089-3
-* Brown, Rachael L., 2013, “Learning, Evolvability and Exploratory Behaviour: Extending the Evolutionary Reach of Learning”, *Biology & Philosophy*, 28(6): 933–955. doi:10.1007/s10539-013-9396-9
+* Bekoff, Marc and Lofe Gruen, 1993, “Animal Welfare and Individual Characteristics: A Conversation Against Speciesism”, *Ethics & Behavior*, 3(2): 163–175. doi: 10.1207/s15327019eb0302_2
+* Benz-Schwarzburg, Judith, Susana Monsó, and Ludwig Huber, 2020, “How Dogs Perceive Humans and How Humans Should Treat Their Pet Dogs: Linking Cognition With Ethics”, *Frontiers in Psychology*, 11: 584037. doi: 10.3389/fpsyg.2020.584037
+* Beran, Michael J., 2018, “Replication and Pre-Registration in Comparative Psychology”, *International Journal of Comparative Psychology*, 31. doi: 10.46867/ijcp.2018.31.01.09
+* Birch, Jonathan, 2017, “Animal Sentience and the Precautionary Principle”, *Animal Sentience*, 2(16): article 1. doi: 10.51291/2377-7478.1200
+* –––, 2018, “Animal Cognition and Human Values”, *Philosophy of Science*, 85(5): 1026–1037. doi: 10.1086/699744
+* Birch, Jonathan, Alexandra K. Schnell, and Nicola S. Clayton, 2020, “Dimensions of Animal Consciousness”, *Trends in Cognitive Sciences*, 24(10): 789–801. doi: 10.1016/j.tics.2020.07.007
+* Boesch, Christophe, 2022, “What Does a Notion of Weight Mean to Chimpanzees?”, *Animal Behavior and Cognition*, 9(2): 222–238. doi: 10.26451/abc.09.02.07.2022
+* Bohannon, John, 2014, “Replication Effort Provokes Praise—and ‘Bullying’ Charges”, *Science*, 344(6186): 788–789. doi: 10.1126/science.344.6186.788
+* –––, 2015, “Many Psychology Papers Fail Replication Test”, *Science*, 349(6251): 910–911. doi: 10.1126/science.349.6251.910
+* Bohn, Manuel, Katja Liebal, Linda Oña, and Michael Henry Tessler, 2022, “Great Ape Communication as Contextual Social Inference: A Computational Modelling Perspective”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 377(1859): 20210096. doi: 10.1098/rstb.2021.0096
+* Boyle, Alexandria, 2021, “Replication, Uncertainty and Progress in Comparative Cognition”, *Animal Behavior and Cognition*, 8(2): 296–304. doi: 10.26451/abc.08.02.15.2021
+* Brakes, Philippa, Sasha R. X. Dall, Lucy M. Aplin, Stuart Bearhop, Emma L. Carroll, Paolo Ciucci, Vicki Fishlock, John K. B. Ford, Ellen C. Garland, Sally A. Keith, Peter K. McGregor, Sarah L. Mesnick, Michael J. Noad, Giuseppe Notarbartolo Di Sciara, Martha M. Robbins, Mark P. Simmonds, Fernando Spina, Alex Thornton, Paul R. Wade, Martin J. Whiting, et al., 2019, “Animal Cultures Matter for Conservation”, *Science*, 363(6431): 1032–1034. doi: 10.1126/science.aaw3557
+* Bräuer, Juliane, Josep Call, and Michael Tomasello, 2007, “Chimpanzees Really Know What Others Can See in a Competitive Situation”, *Animal Cognition*, 10(4): 439–448. doi: 10.1007/s10071-007-0088-1
+* Brecht, Katharina F., Edward W. Legg, Christian Nawroth, Hannah Fraser, and Ljerka Ostojić, 2021, “The Status and Value of Replications in Animal Behavior Science”, *Animal Behavior and Cognition*, 8(2): 97–106. doi: 10.26451/abc.08.02.01.2021
+* Brigandt, Ingo, 2007, “Typology Now: Homology and Developmental Constraints Explain Evolvability”, *Biology & Philosophy*, 22(5): 709–725. doi: 10.1007/s10539-007-9089-3
+* Brown, Rachael L., 2013, “Learning, Evolvability and Exploratory Behaviour: Extending the Evolutionary Reach of Learning”, *Biology & Philosophy*, 28(6): 933–955. doi: 10.1007/s10539-013-9396-9
 * –––, 2017a, “Animal Traditions: What They Are, and Why They Matter”, in Andrews and Beck 2017: 362–371 (chapter 34).
-* –––, 2017b, “Not Statistically Significant, but Still Scientific”, *Animal Sentience*, 2(16): article 14. doi:10.51291/2377-7478.1247
-* –––, 2022, “Mapping Out the Landscape: A Multi-Dimensional Approach to Behavioral Innovation”, *Philosophy of Science*, 89(5): 1176–1185. doi:10.1017/psa.2022.42
-* Buckner, Cameron, 2011, “Two Approaches to the Distinction between Cognition and ‘Mere Association’”, *International Journal of Comparative Psychology*, 24(4): 314–348. doi:10.46867/IJCP.2011.24.04.06
-* –––, 2013, “Morgan’s Canon, Meet Hume’s Dictum: Avoiding Anthropofabulation in Cross-Species Comparisons”, *Biology & Philosophy*, 28(5): 853–871. doi:10.1007/s10539-013-9376-0
+* –––, 2017b, “Not Statistically Significant, but Still Scientific”, *Animal Sentience*, 2(16): article 14. doi: 10.51291/2377-7478.1247
+* –––, 2022, “Mapping Out the Landscape: A Multi-Dimensional Approach to Behavioral Innovation”, *Philosophy of Science*, 89(5): 1176–1185. doi: 10.1017/psa.2022.42
+* Buckner, Cameron, 2011, “Two Approaches to the Distinction between Cognition and ‘Mere Association’”, *International Journal of Comparative Psychology*, 24(4): 314–348. doi: 10.46867/IJCP.2011.24.04.06
+* –––, 2013, “Morgan’s Canon, Meet Hume’s Dictum: Avoiding Anthropofabulation in Cross-Species Comparisons”, *Biology & Philosophy*, 28(5): 853–871. doi: 10.1007/s10539-013-9376-0
 * –––, 2017, “Understanding Associative and Cognitive Explanations in Comparative Psychology”, in Andrews and Beck 2017: 409–418 (chapter 39).
-* –––, 2018, “Empiricism without Magic: Transformational Abstraction in Deep Convolutional Neural Networks”, *Synthese*, 195(12): 5339–5372. doi:10.1007/s11229-018-01949-1
+* –––, 2018, “Empiricism without Magic: Transformational Abstraction in Deep Convolutional Neural Networks”, *Synthese*, 195(12): 5339–5372. doi: 10.1007/s11229-018-01949-1
 * –––, forthcoming, *From Deep Learning to Rational Machines: What the History of Philosophy Can Teach Us about the Future of Artificial Intelligence*, Oxford: Oxford University Press.
 * Byrne, Richard W. and Andrew Whiten (eds.), 1988, *Machiavellian Intelligence: Social Expertise and the Evolution of Intellect in Monkeys, Apes, and Humans*, Oxford: Clarendon Press.
-* Clark, Jason A., 2010, “Relations of Homology between Higher Cognitive Emotions and Basic Emotions”, *Biology & Philosophy*, 25(1): 75–94. doi:10.1007/s10539-009-9170-1
-* Clayton, Nicola S. and Anthony Dickinson, 1998, “Episodic-like Memory during Cache Recovery by Scrub Jays”, *Nature*, 395(6699): 272–274. doi:10.1038/26216
-* Clayton, N. S., D. P. Griffiths, N. J. Emery, and A. Dickinson, 2001, “Elements of Episodic–like Memory in Animals”, *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 356(1413): 1483–1491. doi:10.1098/rstb.2001.0947
-* Colaço, David, John Bickle, and Bradley Walters, 2022, “When Should Researchers Cite Study Differences in Response to a Failure to Replicate?”, *Biology & Philosophy*, 37(5): article 39. doi:10.1007/s10539-022-09873-y
-* Cristol, Daniel A., Paul V. Switzer, Kara L. Johnson, and Leah S. Walke, 1997, “Crows Do Not Use Automobiles as Nutcrackers: Putting an Anecdote to the Test”, *The Auk*, 114(2): 296–298. doi:10.2307/4089172
-* Crosby, Matthew, 2020, “Building Thinking Machines by Solving Animal Cognition Tasks”, *Minds and Machines*, 30(4): 589–615. doi:10.1007/s11023-020-09535-6
-* Crosby, Matthew, Benjamin Beyret, and Marta Halina, 2019, “The Animal-AI Olympics”, *Nature Machine Intelligence*, 1(5): 257–257. doi:10.1038/s42256-019-0050-3
+* Clark, Jason A., 2010, “Relations of Homology between Higher Cognitive Emotions and Basic Emotions”, *Biology & Philosophy*, 25(1): 75–94. doi: 10.1007/s10539-009-9170-1
+* Clayton, Nicola S. and Anthony Dickinson, 1998, “Episodic-like Memory during Cache Recovery by Scrub Jays”, *Nature*, 395(6699): 272–274. doi: 10.1038/26216
+* Clayton, N. S., D. P. Griffiths, N. J. Emery, and A. Dickinson, 2001, “Elements of Episodic–like Memory in Animals”, *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 356(1413): 1483–1491. doi: 10.1098/rstb.2001.0947
+* Colaço, David, John Bickle, and Bradley Walters, 2022, “When Should Researchers Cite Study Differences in Response to a Failure to Replicate?”, *Biology & Philosophy*, 37(5): article 39. doi: 10.1007/s10539-022-09873-y
+* Cristol, Daniel A., Paul V. Switzer, Kara L. Johnson, and Leah S. Walke, 1997, “Crows Do Not Use Automobiles as Nutcrackers: Putting an Anecdote to the Test”, *The Auk*, 114(2): 296–298. doi: 10.2307/4089172
+* Crosby, Matthew, 2020, “Building Thinking Machines by Solving Animal Cognition Tasks”, *Minds and Machines*, 30(4): 589–615. doi: 10.1007/s11023-020-09535-6
+* Crosby, Matthew, Benjamin Beyret, and Marta Halina, 2019, “The Animal-AI Olympics”, *Nature Machine Intelligence*, 1(5): 257–257. doi: 10.1038/s42256-019-0050-3
 * Crosby, Matthew, Benjamin Beyret, Murray Shanahan, José Hernández-Orallo, Lucy Cheke, and Marta Halina, 2020, “The Animal-AI Testbed and Competition”, in *Proceedings of the NeurIPS 2019 Competition and Demonstration Track*, PMLR, 164–176. [[Crosby et al. 2020 available online](https://proceedings.mlr.press/v123/crosby20a.html)]
-* Crump, Andrew, Heather Browning, Alex Schnell, Charlotte Burn, and Jonathan Birch, 2022, “Sentience in Decapod Crustaceans: A General Framework and Review of the Evidence”, *Animal Sentience*, 7(32): article 1. doi:10.51291/2377-7478.1691
-* Currie, Adrian, 2021, *Comparative Thinking in Biology*, (Cambridge Elements. Elements in the Philosophy of Biology), Cambridge: Cambridge University Press. doi:10.1017/9781108616683
-* Dacey, Mike, 2016, “The Varieties of Parsimony in Psychology”, *Mind & Language*, 31(4): 414–437. doi:10.1111/mila.12113
-* –––, 2017, “Anthropomorphism as Cognitive Bias”, *Philosophy of Science*, 84(5): 1152–1164. doi:10.1086/694039
-* –––, 2023, “Evidence in Default: Rejecting Default Models of Animal Minds”, *The British Journal for the Philosophy of Science*, 74(2): 291–312. doi:10.1086/714799
-* De Waal, Frans B. M., 1999, “Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals”, *Philosophical Topics*, 27(1): 255–280. doi:10.5840/philtopics199927122
-* Dickinson, Anthony, 2012, “Associative Learning and Animal Cognition”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1603): 2733–2742. doi:10.1098/rstb.2012.0220
+* Crump, Andrew, Heather Browning, Alex Schnell, Charlotte Burn, and Jonathan Birch, 2022, “Sentience in Decapod Crustaceans: A General Framework and Review of the Evidence”, *Animal Sentience*, 7(32): article 1. doi: 10.51291/2377-7478.1691
+* Currie, Adrian, 2021, *Comparative Thinking in Biology*, (Cambridge Elements. Elements in the Philosophy of Biology), Cambridge: Cambridge University Press. doi: 10.1017/9781108616683
+* Dacey, Mike, 2016, “The Varieties of Parsimony in Psychology”, *Mind & Language*, 31(4): 414–437. doi: 10.1111/mila.12113
+* –––, 2017, “Anthropomorphism as Cognitive Bias”, *Philosophy of Science*, 84(5): 1152–1164. doi: 10.1086/694039
+* –––, 2023, “Evidence in Default: Rejecting Default Models of Animal Minds”, *The British Journal for the Philosophy of Science*, 74(2): 291–312. doi: 10.1086/714799
+* De Waal, Frans B. M., 1999, “Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals”, *Philosophical Topics*, 27(1): 255–280. doi: 10.5840/philtopics199927122
+* Dickinson, Anthony, 2012, “Associative Learning and Animal Cognition”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1603): 2733–2742. doi: 10.1098/rstb.2012.0220
 * Douglas, Heather E., 2009a, *Science, Policy, and the Value-Free Ideal*, Pittsburgh, PA: University of Pittsburgh Press.
-* –––, 2009b, “Reintroducing Prediction to Explanation”, *Philosophy of Science*, 76(4): 444–463. doi:10.1086/648111
-* –––, 2013, “The Value of Cognitive Values”, *Philosophy of Science*, 80(5): 796–806. doi:10.1086/673716
-* Douglas, Heather and P.D. Magnus, 2013, “State of the Field: Why Novel Prediction Matters”, *Studies in History and Philosophy of Science Part A*, 44(4): 580–589. doi:10.1016/j.shpsa.2013.04.001
-* Ereshefsky, Marc, 2007, “Psychological Categories as Homologies: Lessons from Ethology”, *Biology & Philosophy*, 22(5): 659–674. doi:10.1007/s10539-007-9091-9
-* –––, 2012, “Homology Thinking”, *Biology & Philosophy*, 27(3): 381–400. doi:10.1007/s10539-012-9313-7
-* Farrar, Benjamin G., Ljerka Ostojić, and Nicola S. Clayton, 2021, “The Hidden Side of Animal Cognition Research: Scientists’ Attitudes toward Bias, Replicability and Scientific Practice”, *PLoS ONE*, 16(8): e0256607. doi:10.1371/journal.pone.0256607
-* Farrar, Benjamin G., Konstantinos Voudouris, and Nicola S. Clayton, 2021, “Replications, Comparisons, Sampling and the Problem of Representativeness in Animal Cognition Research”, *Animal Behavior and Cognition*, 8(2): 273–295. doi:10.26451/abc.08.02.14.2021
-* Feest, Uljana, 2019, “Why Replication Is Overrated”, *Philosophy of Science*, 86(5): 895–905. doi:10.1086/705451
-* Fiala, Brian, Adam Arico, and Shaun Nichols, 2011, “On the Psychological Origins of Dualism: Dual-Process Cognition and the Explanatory Gap”, in *Creating Consilience: Integrating the Sciences and the Humanities*, Edward Slingerland and Mark Collard (eds.), New York: Oxford University Press, 88–110 (chapter 4). doi:10.1093/acprof:oso/9780199794393.003.0005
+* –––, 2009b, “Reintroducing Prediction to Explanation”, *Philosophy of Science*, 76(4): 444–463. doi: 10.1086/648111
+* –––, 2013, “The Value of Cognitive Values”, *Philosophy of Science*, 80(5): 796–806. doi: 10.1086/673716
+* Douglas, Heather and P.D. Magnus, 2013, “State of the Field: Why Novel Prediction Matters”, *Studies in History and Philosophy of Science Part A*, 44(4): 580–589. doi: 10.1016/j.shpsa.2013.04.001
+* Ereshefsky, Marc, 2007, “Psychological Categories as Homologies: Lessons from Ethology”, *Biology & Philosophy*, 22(5): 659–674. doi: 10.1007/s10539-007-9091-9
+* –––, 2012, “Homology Thinking”, *Biology & Philosophy*, 27(3): 381–400. doi: 10.1007/s10539-012-9313-7
+* Farrar, Benjamin G., Ljerka Ostojić, and Nicola S. Clayton, 2021, “The Hidden Side of Animal Cognition Research: Scientists’ Attitudes toward Bias, Replicability and Scientific Practice”, *PLoS ONE*, 16(8): e0256607. doi: 10.1371/journal.pone.0256607
+* Farrar, Benjamin G., Konstantinos Voudouris, and Nicola S. Clayton, 2021, “Replications, Comparisons, Sampling and the Problem of Representativeness in Animal Cognition Research”, *Animal Behavior and Cognition*, 8(2): 273–295. doi: 10.26451/abc.08.02.14.2021
+* Feest, Uljana, 2019, “Why Replication Is Overrated”, *Philosophy of Science*, 86(5): 895–905. doi: 10.1086/705451
+* Fiala, Brian, Adam Arico, and Shaun Nichols, 2011, “On the Psychological Origins of Dualism: Dual-Process Cognition and the Explanatory Gap”, in *Creating Consilience: Integrating the Sciences and the Humanities*, Edward Slingerland and Mark Collard (eds.), New York: Oxford University Press, 88–110 (chapter 4). doi: 10.1093/acprof: oso/9780199794393.003.0005
 * –––, 2014, “You, Robot”, in *Current Controversies in Experimental Philosophy*, Edouard Machery and Elizabeth O’Neill (eds.), New York: Routledge, 31–47.
 * Fisher, John Andrew, 1996, “The Myth of Anthropomorphism John Andrew Fisher”, in *Readings in Animal Cognition*, Marc Bekoff and Dale Jamison (eds.), Cambridge, MA: MIT Press, 3–16.
-* Fitzpatrick, Simon, 2008, “Doing Away with Morgan’s Canon”, *Mind & Language*, 23(2): 224–246. doi:10.1111/j.1468-0017.2007.00338.x
-* Fitzpatrick, Simon and Kristin Andrews, 2022, “Animal Culture and Animal Welfare”, *Philosophy of Science*, 89(5): 1104–1113. doi:10.1017/psa.2022.34
-* Fitzpatrick, Simon and Grant Goodrich, 2017, “Building a Science of Animal Minds: Lloyd Morgan, Experimentation, and Morgan’s Canon”, *Journal of the History of Biology*, 50(3): 525–569. doi:10.1007/s10739-016-9451-x
-* Fletcher, Logan and Peter Carruthers, 2013, “Behavior-Reading versus Mentalizing in Animals”, in *Agency and Joint Attention*, Janet Metcalfe and Herbert S. Terrace (eds.), New York: Oxford University Press, 82–99. doi:10.1093/acprof:oso/9780199988341.003.0005
-* Garcia-Pelegrin, Elias, Alexandra K. Schnell, Clive Wilkins, and Nicola S. Clayton, 2021, “Exploring the Perceptual Inabilities of Eurasian Jays ( *Garrulus glandarius* ) Using Magic Effects”, *Proceedings of the National Academy of Sciences*, 118(24): e2026106118. doi:10.1073/pnas.2026106118
-* Gibbons, Matilda, Elisabetta Versace, Andrew Crump, Bartosz Baran, and Lars Chittka, 2022, “Motivational Trade-Offs and Modulation of Nociception in Bumblebees”, *Proceedings of the National Academy of Sciences*, 119(31): e2205821119. doi:10.1073/pnas.2205821119
+* Fitzpatrick, Simon, 2008, “Doing Away with Morgan’s Canon”, *Mind & Language*, 23(2): 224–246. doi: 10.1111/j.1468-0017.2007.00338.x
+* Fitzpatrick, Simon and Kristin Andrews, 2022, “Animal Culture and Animal Welfare”, *Philosophy of Science*, 89(5): 1104–1113. doi: 10.1017/psa.2022.34
+* Fitzpatrick, Simon and Grant Goodrich, 2017, “Building a Science of Animal Minds: Lloyd Morgan, Experimentation, and Morgan’s Canon”, *Journal of the History of Biology*, 50(3): 525–569. doi: 10.1007/s10739-016-9451-x
+* Fletcher, Logan and Peter Carruthers, 2013, “Behavior-Reading versus Mentalizing in Animals”, in *Agency and Joint Attention*, Janet Metcalfe and Herbert S. Terrace (eds.), New York: Oxford University Press, 82–99. doi: 10.1093/acprof: oso/9780199988341.003.0005
+* Garcia-Pelegrin, Elias, Alexandra K. Schnell, Clive Wilkins, and Nicola S. Clayton, 2021, “Exploring the Perceptual Inabilities of Eurasian Jays ( *Garrulus glandarius* ) Using Magic Effects”, *Proceedings of the National Academy of Sciences*, 118(24): e2026106118. doi: 10.1073/pnas.2026106118
+* Gibbons, Matilda, Elisabetta Versace, Andrew Crump, Bartosz Baran, and Lars Chittka, 2022, “Motivational Trade-Offs and Modulation of Nociception in Bumblebees”, *Proceedings of the National Academy of Sciences*, 119(31): e2205821119. doi: 10.1073/pnas.2205821119
 * Griffiths, Paul E., 1997, *What Emotions Really Are: The Problem of Psychological Categories*, (Science and Its Conceptual Foundations), Chicago, IL: University of Chicago Press.
-* –––, 2007a, “The Phenomena of Homology”, *Biology & Philosophy*, 22(5): 643–658. doi:10.1007/s10539-007-9090-x
-* –––, 2007b, “Evo-Devo Meets the Mind”, in *Integrating Evolution and Development: From Theory to Practice*, Roger Sansom and Robert N. Brandon (eds.), Cambridge, MA: The MIT Press, 195–225. doi:10.7551/mitpress/7465.003.0008
-* Grimm, David, 2013, “Lawsuits Seek ‘Personhood’ for Chimpanzees”, *Science*, 342(6163): 1154–1155. doi:10.1126/science.342.6163.1154
-* Halina, Marta, 2021a, “Replications in Comparative Psychology”, *Animal Behavior and Cognition*, 8(2): 263–272. doi:10.26451/abc.08.02.13.2021
-* –––, 2021b, “Insightful Artificial Intelligence”, *Mind & Language*, 36(2): 315–329. doi:10.1111/mila.12321
-* –––, 2022, “Unlimited Associative Learning as a Null Hypothesis”, *Philosophy of Science*, 89(5): 1186–1195. doi:10.1017/psa.2022.66
-* Hanus, Daniel, 2016, “Causal Reasoning versus Associative Learning: A Useful Dichotomy or a Strawman Battle in Comparative Psychology?”, *Journal of Comparative Psychology*, 130(3): 241–248. doi:10.1037/a0040235
-* Hare, Brian, Josep Call, Bryan Agnetta, and Michael Tomasello, 2000, “Chimpanzees Know What Conspecifics Do and Do Not See”, *Animal Behaviour*, 59(4): 771–785. doi:10.1006/anbe.1999.1377
-* Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick, 2017, “Neuroscience-Inspired Artificial Intelligence”, *Neuron*, 95(2): 245–258. doi:10.1016/j.neuron.2017.06.011
-* Healy, Susan D. and T. Andrew Hurly, 2003, “Cognitive Ecology: Foraging in Hummingbirds as a Model System”, in *Advances in the Study of Behavior, Volume 32*, New York: Elsevier, 325–359. doi:10.1016/S0065-3454(03)01007-6
-* Heider, Fritz and Marianne Simmel, 1944, “An Experimental Study of Apparent Behavior”, *The American Journal of Psychology*, 57(2): 243–259. doi:10.2307/1416950
-* Herrmann, Esther, Josep Call, María Victoria Hernàndez-Lloreda, Brian Hare, and Michael Tomasello, 2007, “Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis”, *Science*, 317(5843): 1360–1366. doi:10.1126/science.1146282
-* Heyes, Cecilia, 2012, “Simple Minds: A Qualified Defence of Associative Learning”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1603): 2695–2703. doi:10.1098/rstb.2012.0217
-* Heyes, Cecilia and Anthony Dickinson, 1990, “The Intentionality of Animal Action”, *Mind & Language*, 5(1): 87–103. doi:10.1111/j.1468-0017.1990.tb00154.x
-* Hurley, Susan and Matthew Nudds (eds.), 2006, *Rational Animals?* Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198528272.001.0001
-* Jablonka, Eva and Marion J. Lamb, 2008, “Soft Inheritance: Challenging the Modern Synthesis”, *Genetics and Molecular Biology*, 31(2): 389–395. doi:10.1590/S1415-47572008000300001
-* Jozet-Alves, Christelle, Marion Bertin, and Nicola S. Clayton, 2013, “Evidence of Episodic-like Memory in Cuttlefish”, *Current Biology*, 23(23): R1033–R1035. doi:10.1016/j.cub.2013.10.021
-* Kaminski, Juliane, Josep Call, and Michael Tomasello, 2004, “Body Orientation and Face Orientation: Two Factors Controlling Apes? Begging Behavior from Humans”, *Animal Cognition*, 7(4): 216–223. doi:10.1007/s10071-004-0214-2
-* Keeley, Brian L., 2004, “Anthropomorphism, Primatomorphism, Mammalomorphism: Understanding Cross-Species Comparisons”, *Biology & Philosophy*, 19(4): 521–540. doi:10.1007/sBIPH-004-0540-4
-* Krupenye, Christopher and Josep Call, 2019, “Theory of Mind in Animals: Current and Future Directions”, *WIREs Cognitive Science*, 10(6): e1503. doi:10.1002/wcs.1503
-* Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman, 2017, “Building Machines That Learn and Think like People”, *Behavioral and Brain Sciences*, 40: e253. doi:10.1017/S0140525X16001837
-* Laland, Kevin N., Tobias Uller, Marcus W. Feldman, Kim Sterelny, Gerd B. Müller, Armin Moczek, Eva Jablonka, and John Odling-Smee, 2015, “The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions”, *Proceedings of the Royal Society B: Biological Sciences*, 282(1813): 20151019. doi:10.1098/rspb.2015.1019
+* –––, 2007a, “The Phenomena of Homology”, *Biology & Philosophy*, 22(5): 643–658. doi: 10.1007/s10539-007-9090-x
+* –––, 2007b, “Evo-Devo Meets the Mind”, in *Integrating Evolution and Development: From Theory to Practice*, Roger Sansom and Robert N. Brandon (eds.), Cambridge, MA: The MIT Press, 195–225. doi: 10.7551/mitpress/7465.003.0008
+* Grimm, David, 2013, “Lawsuits Seek ‘Personhood’ for Chimpanzees”, *Science*, 342(6163): 1154–1155. doi: 10.1126/science.342.6163.1154
+* Halina, Marta, 2021a, “Replications in Comparative Psychology”, *Animal Behavior and Cognition*, 8(2): 263–272. doi: 10.26451/abc.08.02.13.2021
+* –––, 2021b, “Insightful Artificial Intelligence”, *Mind & Language*, 36(2): 315–329. doi: 10.1111/mila.12321
+* –––, 2022, “Unlimited Associative Learning as a Null Hypothesis”, *Philosophy of Science*, 89(5): 1186–1195. doi: 10.1017/psa.2022.66
+* Hanus, Daniel, 2016, “Causal Reasoning versus Associative Learning: A Useful Dichotomy or a Strawman Battle in Comparative Psychology?”, *Journal of Comparative Psychology*, 130(3): 241–248. doi: 10.1037/a0040235
+* Hare, Brian, Josep Call, Bryan Agnetta, and Michael Tomasello, 2000, “Chimpanzees Know What Conspecifics Do and Do Not See”, *Animal Behaviour*, 59(4): 771–785. doi: 10.1006/anbe.1999.1377
+* Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick, 2017, “Neuroscience-Inspired Artificial Intelligence”, *Neuron*, 95(2): 245–258. doi: 10.1016/j.neuron.2017.06.011
+* Healy, Susan D. and T. Andrew Hurly, 2003, “Cognitive Ecology: Foraging in Hummingbirds as a Model System”, in *Advances in the Study of Behavior, Volume 32*, New York: Elsevier, 325–359. doi: 10.1016/S0065-3454(03)01007-6
+* Heider, Fritz and Marianne Simmel, 1944, “An Experimental Study of Apparent Behavior”, *The American Journal of Psychology*, 57(2): 243–259. doi: 10.2307/1416950
+* Herrmann, Esther, Josep Call, María Victoria Hernàndez-Lloreda, Brian Hare, and Michael Tomasello, 2007, “Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis”, *Science*, 317(5843): 1360–1366. doi: 10.1126/science.1146282
+* Heyes, Cecilia, 2012, “Simple Minds: A Qualified Defence of Associative Learning”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 367(1603): 2695–2703. doi: 10.1098/rstb.2012.0217
+* Heyes, Cecilia and Anthony Dickinson, 1990, “The Intentionality of Animal Action”, *Mind & Language*, 5(1): 87–103. doi: 10.1111/j.1468-0017.1990.tb00154.x
+* Hurley, Susan and Matthew Nudds (eds.), 2006, *Rational Animals?* Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198528272.001.0001
+* Jablonka, Eva and Marion J. Lamb, 2008, “Soft Inheritance: Challenging the Modern Synthesis”, *Genetics and Molecular Biology*, 31(2): 389–395. doi: 10.1590/S1415-47572008000300001
+* Jozet-Alves, Christelle, Marion Bertin, and Nicola S. Clayton, 2013, “Evidence of Episodic-like Memory in Cuttlefish”, *Current Biology*, 23(23): R1033–R1035. doi: 10.1016/j.cub.2013.10.021
+* Kaminski, Juliane, Josep Call, and Michael Tomasello, 2004, “Body Orientation and Face Orientation: Two Factors Controlling Apes? Begging Behavior from Humans”, *Animal Cognition*, 7(4): 216–223. doi: 10.1007/s10071-004-0214-2
+* Keeley, Brian L., 2004, “Anthropomorphism, Primatomorphism, Mammalomorphism: Understanding Cross-Species Comparisons”, *Biology & Philosophy*, 19(4): 521–540. doi: 10.1007/sBIPH-004-0540-4
+* Krupenye, Christopher and Josep Call, 2019, “Theory of Mind in Animals: Current and Future Directions”, *WIREs Cognitive Science*, 10(6): e1503. doi: 10.1002/wcs.1503
+* Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman, 2017, “Building Machines That Learn and Think like People”, *Behavioral and Brain Sciences*, 40: e253. doi: 10.1017/S0140525X16001837
+* Laland, Kevin N., Tobias Uller, Marcus W. Feldman, Kim Sterelny, Gerd B. Müller, Armin Moczek, Eva Jablonka, and John Odling-Smee, 2015, “The Extended Evolutionary Synthesis: Its Structure, Assumptions and Predictions”, *Proceedings of the Royal Society B: Biological Sciences*, 282(1813): 20151019. doi: 10.1098/rspb.2015.1019
 * Longino, Helen E., 2008, “Values, Heuristics, and the Politics of Knowledge”, in *The Challenge of the Social and the Pressure of Practice: Science and Values Revisited*, Martin Carrier, Don Howard, and Janet A. Kourany (eds.), Pittsburgh, PA: University of Pittsburgh Press, 68–86.
 * Mayr, Ernst, 1982, *The Growth of Biological Thought: Diversity, Evolution, and Inheritance*, Cambridge, MA: Belknap Press.
-* Machery, Edouard, 2020, “What Is a Replication?”, *Philosophy of Science*, 87(4): 545–567. doi:10.1086/709701
-* Matthen, Mohan, 2007, “Defining Vision: What Homology Thinking Contributes”, *Biology & Philosophy*, 22(5): 675–689. doi:10.1007/s10539-007-9088-4
-* Meketa, Irina, 2014, “A Critique of the Principle of Cognitive Simplicity in Comparative Cognition”, *Biology & Philosophy*, 29(5): 731–745. doi:10.1007/s10539-014-9429-z
-* Mesoudi, Alex, Andrew Whiten, and Kevin N. Laland, 2006, “Towards a Unified Science of Cultural Evolution”, *Behavioral and Brain Sciences*, 29(4): 329–347. doi:10.1017/S0140525X06009083
-* Mikhalevich, Irina, 2015, “Experiment and Animal Minds: Why the Choice of the Null Hypothesis Matters”, *Philosophy of Science*, 82(5): 1059–1069. doi:10.1086/683440
-* Nosek, Brian A., Jeffrey R. Spies, and Matt Motyl, 2012, “Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability”, *Perspectives on Psychological Science*, 7(6): 615–631. doi:10.1177/1745691612459058
-* Papineau, David and Cecilia Heyes, 2006, “Rational or Associative? Imitation in Japanese Quail”, in Hurley and Nudds 2006: 187–196. doi:10.1093/acprof:oso/9780198528272.003.0008
-* Pigliucci, Massimo, 2007, “Do We Need an Extended Evolutionary Synthesis?”, *Evolution*, 61(12): 2743–2749. doi:10.1111/j.1558-5646.2007.00246.x
-* Powell, Russell, Irina Mikhalevich, Corina Logan, and Nicola S. Clayton, 2017, “Convergent Minds: The Evolution of Cognitive Complexity in Nature”, *Interface Focus*, 7(3): 20170029. doi:10.1098/rsfs.2017.0029
-* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, *Behavioral and Brain Sciences*, 1(4): 515–526. doi:10.1017/S0140525X00076512
-* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, *Biology & Philosophy*, 28(3): 457–479. doi:10.1007/s10539-012-9347-x
+* Machery, Edouard, 2020, “What Is a Replication?”, *Philosophy of Science*, 87(4): 545–567. doi: 10.1086/709701
+* Matthen, Mohan, 2007, “Defining Vision: What Homology Thinking Contributes”, *Biology & Philosophy*, 22(5): 675–689. doi: 10.1007/s10539-007-9088-4
+* Meketa, Irina, 2014, “A Critique of the Principle of Cognitive Simplicity in Comparative Cognition”, *Biology & Philosophy*, 29(5): 731–745. doi: 10.1007/s10539-014-9429-z
+* Mesoudi, Alex, Andrew Whiten, and Kevin N. Laland, 2006, “Towards a Unified Science of Cultural Evolution”, *Behavioral and Brain Sciences*, 29(4): 329–347. doi: 10.1017/S0140525X06009083
+* Mikhalevich, Irina, 2015, “Experiment and Animal Minds: Why the Choice of the Null Hypothesis Matters”, *Philosophy of Science*, 82(5): 1059–1069. doi: 10.1086/683440
+* Nosek, Brian A., Jeffrey R. Spies, and Matt Motyl, 2012, “Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability”, *Perspectives on Psychological Science*, 7(6): 615–631. doi: 10.1177/1745691612459058
+* Papineau, David and Cecilia Heyes, 2006, “Rational or Associative? Imitation in Japanese Quail”, in Hurley and Nudds 2006: 187–196. doi: 10.1093/acprof: oso/9780198528272.003.0008
+* Pigliucci, Massimo, 2007, “Do We Need an Extended Evolutionary Synthesis?”, *Evolution*, 61(12): 2743–2749. doi: 10.1111/j.1558-5646.2007.00246.x
+* Powell, Russell, Irina Mikhalevich, Corina Logan, and Nicola S. Clayton, 2017, “Convergent Minds: The Evolution of Cognitive Complexity in Nature”, *Interface Focus*, 7(3): 20170029. doi: 10.1098/rsfs.2017.0029
+* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, *Behavioral and Brain Sciences*, 1(4): 515–526. doi: 10.1017/S0140525X00076512
+* Ramsey, Grant, 2013, “Culture in Humans and Other Animals”, *Biology & Philosophy*, 28(3): 457–479. doi: 10.1007/s10539-012-9347-x
 * –––, 2017, “What Is Animal Culture?”, in *The Routledge Handbook of Philosophy of Animal Minds*, Krstin Andrews and Jacob Beck (eds.), New York: Routledge, 345–353 (chapter 32).
-* Reiss, Julian, 2015, “A Pragmatist Theory of Evidence”, *Philosophy of Science*, 82(3): 341–362. doi:10.1086/681643
-* Romero, Felipe, 2019, “Philosophy of Science and the Replicability Crisis”, *Philosophy Compass*, 14(11): article e12633. doi:10.1111/phc3.12633
-* –––, 2020, “The Division of Replication Labor”, *Philosophy of Science*, 87(5): 1014–1025. doi:10.1086/710625
-* Rudner, Richard, 1953, “The Scientist *Qua* Scientist Makes Value Judgments”, *Philosophy of Science*, 20(1): 1–6. doi:10.1086/287231
-* Sani, Fabio and John Todman, 2006, *Experimental Design and Statistics for Psychology: A First Course*, Malden, MA: Blackwell. doi:10.1002/9780470776124
-* Schnell, Alexandra K., Nicola S. Clayton, Roger T. Hanlon, and Christelle Jozet-Alves, 2021, “Episodic-like Memory Is Preserved with Age in Cuttlefish”, *Proceedings of the Royal Society B: Biological Sciences*, 288(1957): 20211052. doi:10.1098/rspb.2021.1052
-* Schnell, Alexandra K., Piero Amodio, Markus Boeckle, and Nicola S. Clayton, 2021b, “How Intelligent Is a Cephalopod? Lessons from Comparative Cognition”, *Biological Reviews*, 96(1): 162–178. doi:10.1111/brv.12651
-* Seed, Amanda, Nathan Emery, and Nicola Clayton, 2009, “Intelligence in Corvids and Apes: A Case of Convergent Evolution?”, *Ethology*, 115(5): 401–420. doi:10.1111/j.1439-0310.2009.01644.x
+* Reiss, Julian, 2015, “A Pragmatist Theory of Evidence”, *Philosophy of Science*, 82(3): 341–362. doi: 10.1086/681643
+* Romero, Felipe, 2019, “Philosophy of Science and the Replicability Crisis”, *Philosophy Compass*, 14(11): article e12633. doi: 10.1111/phc3.12633
+* –––, 2020, “The Division of Replication Labor”, *Philosophy of Science*, 87(5): 1014–1025. doi: 10.1086/710625
+* Rudner, Richard, 1953, “The Scientist *Qua* Scientist Makes Value Judgments”, *Philosophy of Science*, 20(1): 1–6. doi: 10.1086/287231
+* Sani, Fabio and John Todman, 2006, *Experimental Design and Statistics for Psychology: A First Course*, Malden, MA: Blackwell. doi: 10.1002/9780470776124
+* Schnell, Alexandra K., Nicola S. Clayton, Roger T. Hanlon, and Christelle Jozet-Alves, 2021, “Episodic-like Memory Is Preserved with Age in Cuttlefish”, *Proceedings of the Royal Society B: Biological Sciences*, 288(1957): 20211052. doi: 10.1098/rspb.2021.1052
+* Schnell, Alexandra K., Piero Amodio, Markus Boeckle, and Nicola S. Clayton, 2021b, “How Intelligent Is a Cephalopod? Lessons from Comparative Cognition”, *Biological Reviews*, 96(1): 162–178. doi: 10.1111/brv.12651
+* Seed, Amanda, Nathan Emery, and Nicola Clayton, 2009, “Intelligence in Corvids and Apes: A Case of Convergent Evolution?”, *Ethology*, 115(5): 401–420. doi: 10.1111/j.1439-0310.2009.01644.x
 * Serpell, James A., 2005, “People in Disguise: Anthropomorphism and the Human-Pet Relationship”, in *Thinking with Animals: New Perspectives on Anthropomorphism*, Lorraine Daston and Gregg Mitman (eds.), New York: Columbia University Press, 121–136 (chapter 6).
-* Shanahan, Murray, Matthew Crosby, Benjamin Beyret, and Lucy Cheke, 2020, “Artificial Intelligence and the Common Sense of Animals”, *Trends in Cognitive Sciences*, 24(11): 862–872. doi:10.1016/j.tics.2020.09.002
-* Shettleworth, Sara J., 2009, “The Evolution of Comparative Cognition: Is the Snark Still a Boojum?”, *Behavioural Processes*, 80(3): 210–217. doi:10.1016/j.beproc.2008.09.001
+* Shanahan, Murray, Matthew Crosby, Benjamin Beyret, and Lucy Cheke, 2020, “Artificial Intelligence and the Common Sense of Animals”, *Trends in Cognitive Sciences*, 24(11): 862–872. doi: 10.1016/j.tics.2020.09.002
+* Shettleworth, Sara J., 2009, “The Evolution of Comparative Cognition: Is the Snark Still a Boojum?”, *Behavioural Processes*, 80(3): 210–217. doi: 10.1016/j.beproc.2008.09.001
 * –––, 2010a, *Cognition, Evolution, and Behavior*, second edition, Oxford/New York: Oxford University Press.
-* –––, 2010b, “Clever Animals and Killjoy Explanations in Comparative Psychology”, *Trends in Cognitive Sciences*, 14(11): 477–481. doi:10.1016/j.tics.2010.07.002
+* –––, 2010b, “Clever Animals and Killjoy Explanations in Comparative Psychology”, *Trends in Cognitive Sciences*, 14(11): 477–481. doi: 10.1016/j.tics.2010.07.002
 * –––, 2013, *Fundamentals of Comparative Cognition*, (The Fundamentals of Cognition Series 2), New York: Oxford University Press.
-* Shevlin, Henry and Marta Halina, 2019, “Apply Rich Psychological Terms in AI with Care”, *Nature Machine Intelligence*, 1(4): 165–167. doi:10.1038/s42256-019-0039-y
-* Shevlin, Henry, Karina Vold, Matthew Crosby, and Marta Halina, 2019, “The Limits of Machine Intelligence: Despite Progress in Machine Intelligence, Artificial General Intelligence Is Still a Major Challenge”, *EMBO Reports*, 20(10): e49177. doi:10.15252/embr.201949177
-* Sober, Elliott, 1990 [1994], “Explanation in Biology: Let’s Razor Ockham’s Razor”, *Royal Institute of Philosophy Supplement*, 27: 73–93. Reprinted as “Let’s Razor Ockham’s Razor”, in his *From a Biological Point of View: Essays in Evolutionary Philosophy*, (Cambridge Studies in Philosophy and Biology), Cambridge: Cambridge University Press, 1994, 136–157. doi:10.1017/S1358246100005051 doi:10.1017/CBO9780511624940.008
+* Shevlin, Henry and Marta Halina, 2019, “Apply Rich Psychological Terms in AI with Care”, *Nature Machine Intelligence*, 1(4): 165–167. doi: 10.1038/s42256-019-0039-y
+* Shevlin, Henry, Karina Vold, Matthew Crosby, and Marta Halina, 2019, “The Limits of Machine Intelligence: Despite Progress in Machine Intelligence, Artificial General Intelligence Is Still a Major Challenge”, *EMBO Reports*, 20(10): e49177. doi: 10.15252/embr.201949177
+* Sober, Elliott, 1990 [1994], “Explanation in Biology: Let’s Razor Ockham’s Razor”, *Royal Institute of Philosophy Supplement*, 27: 73–93. Reprinted as “Let’s Razor Ockham’s Razor”, in his *From a Biological Point of View: Essays in Evolutionary Philosophy*, (Cambridge Studies in Philosophy and Biology), Cambridge: Cambridge University Press, 1994, 136–157. doi: 10.1017/S1358246100005051 doi: 10.1017/CBO9780511624940.008
 * –––, 2005, “Comparative Psychology Meets Evolutionary Biology: Morgan’s Canon and Cladistic Parsimony”, in *Thinking with Animals: New Perspectives on Anthropomorphism*, Lorraine Daston and Gregg Mitman (eds.), New York: Columbia University Press, 85–99.
-* –––, 2012, “Anthropomorphism, Parsimony, and Common Ancestry”, *Mind & Language*, 27(3): 229–238. doi:10.1111/j.1468-0017.2012.01442.x
-* Starzak, Tobias Benjamin and Russell David Gray, 2021, “Towards Ending the Animal Cognition War: A Three-Dimensional Model of Causal Cognition”, *Biology & Philosophy*, 36(2): article 9. doi:10.1007/s10539-021-09779-1
+* –––, 2012, “Anthropomorphism, Parsimony, and Common Ancestry”, *Mind & Language*, 27(3): 229–238. doi: 10.1111/j.1468-0017.2012.01442.x
+* Starzak, Tobias Benjamin and Russell David Gray, 2021, “Towards Ending the Animal Cognition War: A Three-Dimensional Model of Causal Cognition”, *Biology & Philosophy*, 36(2): article 9. doi: 10.1007/s10539-021-09779-1
 * Sutton, Richard S. and Andrew G. Barto, 1998, *Reinforcement Learning: An Introduction*, (Adaptive Computation and Machine Learning), Cambridge, MA: MIT Press.
-* Taylor, Alex H., Amalia P.M. Bastos, Rachael L. Brown, and Colin Allen, 2022, “The Signature-Testing Approach to Mapping Biological and Artificial Intelligences”, *Trends in Cognitive Sciences*, 26(9): 738–750. doi:10.1016/j.tics.2022.06.002
-* Taylor, Alex H., Felipe S. Medina, Jennifer C. Holzhaider, Lindsay J. Hearne, Gavin R. Hunt, and Russell D. Gray, 2010, “An Investigation into the Cognition Behind Spontaneous String Pulling in New Caledonian Crows”, *PLoS ONE*, 5(2): e9345. doi:10.1371/journal.pone.0009345
-* Tomasello, Michael and Josep Call, 2006, “Do Chimpanzees Know What Others See—or Only What They Are Looking At?”, in Hurley and Nudds 2006: 371–384. doi:10.1093/acprof:oso/9780198528272.003.0017
-* –––, 2008, “Assessing the Validity of Ape-Human Comparisons: A Reply to Boesch (2007).”, *Journal of Comparative Psychology*, 122(4): 449–452. doi:10.1037/0735-7036.122.4.449
-* Ullman, Tomer D., Elizabeth Spelke, Peter Battaglia, and Joshua B. Tenenbaum, 2017, “Mind Games: Game Engines as an Architecture for Intuitive Physics”, *Trends in Cognitive Sciences*, 21(9): 649–665. doi:10.1016/j.tics.2017.05.012
-* Van Der Vaart, Elske, Rineke Verbrugge, and Charlotte K. Hemelrijk, 2012, “Corvid Re-Caching without ‘Theory of Mind’: A Model”, *PLoS ONE*, 7(3): e32904. doi:10.1371/journal.pone.0032904
-* Van Horik, Jayden O., Nicola S. Clayton, and Nathan J. Emery, 2012, “Convergent Evolution of Cognition in Corvids, Apes and Other Animals”, in *The Oxford Handbook of Comparative Evolutionary Psychology*, Todd K. Shackelford and Jennifer Vonk (eds.), Oxford: Oxford University Press, 80–101. doi:10.1093/oxfordhb/9780199738182.013.0005
-* Voudouris, Konstantinos, Matthew Crosby, Benjamin Beyret, José Hernández-Orallo, Murray Shanahan, Marta Halina, and Lucy G. Cheke, 2022, “Direct Human-AI Comparison in the Animal-AI Environment”, *Frontiers in Psychology*, 13: 711821. doi:10.3389/fpsyg.2022.711821
-* Whiten, Andrew, 2022, “Blind Alleys and Fruitful Pathways in the Comparative Study of Cultural Cognition”, *Physics of Life Reviews*, 43: 211–238. doi:10.1016/j.plrev.2022.10.003
-* Whiten, Andrew and Richard W. Byrne, 1988, “Tactical Deception in Primates”, *Behavioral and Brain Sciences*, 11(2): 233–244. doi:10.1017/S0140525X00049682
-* Woodruff, Michael L., 2017, “Scientific Uncertainty and the Animal Sentience Precautionary Principle”, *Animal Sentience*, 2(16): article 11. doi:10.51291/2377-7478.1237
-* Wynne, Clive D. L., 2004, “The Perils of Anthropomorphism”, *Nature*, 428(6983): 606–606. doi:10.1038/428606a
-* –––, 2007, “What Are Animals? Why Anthropomorphism Is Still Not a Scientific Approach to Behavior”, *Comparative Cognition & Behavior Reviews*, 2: 125–135. doi:10.3819/ccbr.2008.20008
-* Zhang, Mingjun, 2020, “The Use and Limitations of Null-Model-Based Hypothesis Testing”, *Biology & Philosophy*, 35(2): article 31. doi:10.1007/s10539-020-09748-0
+* Taylor, Alex H., Amalia P.M. Bastos, Rachael L. Brown, and Colin Allen, 2022, “The Signature-Testing Approach to Mapping Biological and Artificial Intelligences”, *Trends in Cognitive Sciences*, 26(9): 738–750. doi: 10.1016/j.tics.2022.06.002
+* Taylor, Alex H., Felipe S. Medina, Jennifer C. Holzhaider, Lindsay J. Hearne, Gavin R. Hunt, and Russell D. Gray, 2010, “An Investigation into the Cognition Behind Spontaneous String Pulling in New Caledonian Crows”, *PLoS ONE*, 5(2): e9345. doi: 10.1371/journal.pone.0009345
+* Tomasello, Michael and Josep Call, 2006, “Do Chimpanzees Know What Others See—or Only What They Are Looking At?”, in Hurley and Nudds 2006: 371–384. doi: 10.1093/acprof: oso/9780198528272.003.0017
+* –––, 2008, “Assessing the Validity of Ape-Human Comparisons: A Reply to Boesch (2007).”, *Journal of Comparative Psychology*, 122(4): 449–452. doi: 10.1037/0735-7036.122.4.449
+* Ullman, Tomer D., Elizabeth Spelke, Peter Battaglia, and Joshua B. Tenenbaum, 2017, “Mind Games: Game Engines as an Architecture for Intuitive Physics”, *Trends in Cognitive Sciences*, 21(9): 649–665. doi: 10.1016/j.tics.2017.05.012
+* Van Der Vaart, Elske, Rineke Verbrugge, and Charlotte K. Hemelrijk, 2012, “Corvid Re-Caching without ‘Theory of Mind’: A Model”, *PLoS ONE*, 7(3): e32904. doi: 10.1371/journal.pone.0032904
+* Van Horik, Jayden O., Nicola S. Clayton, and Nathan J. Emery, 2012, “Convergent Evolution of Cognition in Corvids, Apes and Other Animals”, in *The Oxford Handbook of Comparative Evolutionary Psychology*, Todd K. Shackelford and Jennifer Vonk (eds.), Oxford: Oxford University Press, 80–101. doi: 10.1093/oxfordhb/9780199738182.013.0005
+* Voudouris, Konstantinos, Matthew Crosby, Benjamin Beyret, José Hernández-Orallo, Murray Shanahan, Marta Halina, and Lucy G. Cheke, 2022, “Direct Human-AI Comparison in the Animal-AI Environment”, *Frontiers in Psychology*, 13: 711821. doi: 10.3389/fpsyg.2022.711821
+* Whiten, Andrew, 2022, “Blind Alleys and Fruitful Pathways in the Comparative Study of Cultural Cognition”, *Physics of Life Reviews*, 43: 211–238. doi: 10.1016/j.plrev.2022.10.003
+* Whiten, Andrew and Richard W. Byrne, 1988, “Tactical Deception in Primates”, *Behavioral and Brain Sciences*, 11(2): 233–244. doi: 10.1017/S0140525X00049682
+* Woodruff, Michael L., 2017, “Scientific Uncertainty and the Animal Sentience Precautionary Principle”, *Animal Sentience*, 2(16): article 11. doi: 10.51291/2377-7478.1237
+* Wynne, Clive D. L., 2004, “The Perils of Anthropomorphism”, *Nature*, 428(6983): 606–606. doi: 10.1038/428606a
+* –––, 2007, “What Are Animals? Why Anthropomorphism Is Still Not a Scientific Approach to Behavior”, *Comparative Cognition & Behavior Reviews*, 2: 125–135. doi: 10.3819/ccbr.2008.20008
+* Zhang, Mingjun, 2020, “The Use and Limitations of Null-Model-Based Hypothesis Testing”, *Biology & Philosophy*, 35(2): article 31. doi: 10.1007/s10539-020-09748-0
 
 ## Academic Tools
 
@@ -382,11 +382,11 @@ Colin Allen (2014) 认为，比较认知学将极大受益于发展数学严谨�
 
 ## Other Internet Resources
 
-* Beyret, Benjamin, José Hernández-Orallo, Lucy Cheke, Marta Halina, Murray Shanahan, and Matthew Crosby, 2019, “The Animal-AI Environment: Training and Testing Animal-Like Artificial Cognition”, arXiv:1909.07483. doi:10.48550/ARXIV.1909.07483 [[Beyret et al. 2019 available online](https://doi.org/10.48550/arXiv.1909.07483)]
+* Beyret, Benjamin, José Hernández-Orallo, Lucy Cheke, Marta Halina, Murray Shanahan, and Matthew Crosby, 2019, “The Animal-AI Environment: Training and Testing Animal-Like Artificial Cognition”, arXiv: 1909.07483. doi: 10.48550/ARXIV.1909.07483 [[Beyret et al. 2019 available online](https://doi.org/10.48550/arXiv.1909.07483)]
 * [ManyPrimates](https://manyprimates.github.io/)
 * [ManyBirds](https://themanybirds.com/)
 * [ManyDogs](https://manydogsproject.github.io/)
-* [“Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents”,](https://arxiv.org/abs/1801.08116) Joel Z. Leibo, Cyprien de Masson d’Autume, Daniel Zoran, David Amos, Charles Beattie, Keith Anderson, Antonio García Castañeda, Manuel Sanchez, Simon Green, Audrunas Gruslys, Shane Legg, Demis Hassabis, and Matthew M. Botvinick, 2018, arXiv. doi:10.48550/ARXIV.1801.08116
+* [“Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents”,](https://arxiv.org/abs/1801.08116) Joel Z. Leibo, Cyprien de Masson d’Autume, Daniel Zoran, David Amos, Charles Beattie, Keith Anderson, Antonio García Castañeda, Manuel Sanchez, Simon Green, Audrunas Gruslys, Shane Legg, Demis Hassabis, and Matthew M. Botvinick, 2018, arXiv. doi: 10.48550/ARXIV.1801.08116
 * [Nonhuman Rights Project](https://www.nonhumanrights.org/)
 
 ## Related Entries

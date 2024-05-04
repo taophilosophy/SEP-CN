@@ -68,7 +68,7 @@
 
 社会模式对正义的残疾挑战似乎最大的是智力和精神障碍，以及复杂的身体障碍，如纤维肌痛、多重化学敏感症等，这些疾病会极大地且不可预测地影响能量、耐力和功能（Wendell 1989, 1996; Davis 2005）。首先，这些疾病明显展示了作为污名和功能限制来源的损伤两个方面（见 SEP 条目，残疾：定义、模式、经验）。认知和精神障碍引起了一些最强烈的偏见，并且都带来了一些最困难的功能限制，例如在进行实践推理、识别他人意图和态度，或参与共享活动的能力上。其次，一些理论家认为，这些疾病对社会模式构成了更大的实际挑战，甚至比最严重的身体残疾还要多，部分原因是为了更大程度的包容所需的措施不那么具体或明显，可能需要更大的想象力来设想和实施。
 
-尽管在教育和职场包容方面已经做了大量实际工作，但哲学家们在面对认知障碍的社会重建挑战时感到畏缩。因此，乔纳森·沃尔夫（Jonathan Wolff）通常支持这种重建，他将其称为“地位提升”，认为这是最尊重的干预方式。
+尽管在教育和职场包容方面已经做了大量实际工作，但哲学家们在面对认知障碍的社会重建挑战时感到畏缩。因此，乔纳森 · 沃尔夫（Jonathan Wolff）通常支持这种重建，他将其称为“地位提升”，认为这是最尊重的干预方式。
 
 > 改变世界，使认知障碍者和其他人能够在世界上找到一个有价值的位置，这意味着什么？我们甚至能想象这将是什么吗？(2009a: 407)
 
@@ -78,7 +78,7 @@
 
 在本条目后面讨论时，关于那些智力障碍最为严重的个体是否符合正义主体的资格存在着严重分歧。但即使那些智力障碍最为严重的个体被视为正义主体，正义对他们的要求以及他们的要求可能是不确定的或有争议的。Nussbaum（2009）认为，这些个体的平等公民身份要求他们通过适当的代理人行使诸如投票和陪审团服务等政治权利。Wasserman 和 McMahan（2012）质疑那些最严重智力障碍个体的代理人是否能够有意义地行使这些权利。
 
-丹·维克勒（Dan Wikler）在其 1979 年的论文《家长主义与轻度智障》中提到了一种社会模型方法对认知残疾的哲学暗示。维克勒认为，认知残疾的范畴是由为重要社会活动设定的能力门槛所构建的，比如签订合同或参加选举。然而，尽管社会在某种意义上选择了谁会有认知障碍，但它并不具有无限的灵活性，因为改变这些门槛可能会带来重大的社会成本。维克勒得出的结论是，问题最终是一个正义问题；即如何公平地分配设定对某些人来说过高、对其他人来说过低的门槛的负担。然而，维克勒质疑正义是否需要，甚至允许进行必要的修改以实现更大程度的参与。二十年后，沃尔夫（Wolff）在引用维克勒时指出， 在维克勒（Dan Wikler）1979 年的论文《家长主义与轻度智障》中，可以找到一种社会模型方法对认知残疾的一些哲学暗示。维克勒认为，认知残疾的范畴是由为重要社会活动设定的能力门槛所构建的，比如签订合同或参加选举。然而，尽管社会在某种意义上选择了谁会有认知障碍，但它并不具有无限的灵活性，因为改变这些门槛可能会带来重大的社会成本。维克勒得出的结论是，问题最终是一个正义问题；即如何公平地分配设定对某些人来说过高、对其他人来说过低的门槛的负担。然而，维克勒质疑正义是否需要，甚至允许进行必要的修改以实现更大程度的参与。二十年后，沃尔夫（Wolff）在引用维克勒时指出，
+丹 · 维克勒（Dan Wikler）在其 1979 年的论文《家长主义与轻度智障》中提到了一种社会模型方法对认知残疾的哲学暗示。维克勒认为，认知残疾的范畴是由为重要社会活动设定的能力门槛所构建的，比如签订合同或参加选举。然而，尽管社会在某种意义上选择了谁会有认知障碍，但它并不具有无限的灵活性，因为改变这些门槛可能会带来重大的社会成本。维克勒得出的结论是，问题最终是一个正义问题；即如何公平地分配设定对某些人来说过高、对其他人来说过低的门槛的负担。然而，维克勒质疑正义是否需要，甚至允许进行必要的修改以实现更大程度的参与。二十年后，沃尔夫（Wolff）在引用维克勒时指出， 在维克勒（Dan Wikler）1979 年的论文《家长主义与轻度智障》中，可以找到一种社会模型方法对认知残疾的一些哲学暗示。维克勒认为，认知残疾的范畴是由为重要社会活动设定的能力门槛所构建的，比如签订合同或参加选举。然而，尽管社会在某种意义上选择了谁会有认知障碍，但它并不具有无限的灵活性，因为改变这些门槛可能会带来重大的社会成本。维克勒得出的结论是，问题最终是一个正义问题；即如何公平地分配设定对某些人来说过高、对其他人来说过低的门槛的负担。然而，维克勒质疑正义是否需要，甚至允许进行必要的修改以实现更大程度的参与。二十年后，沃尔夫（Wolff）在引用维克勒时指出，
 
 > 现实情况是，现代生活中许多事情的实现都依赖于具有约束力和可执行性的合同，这些合同又假定了一定水平的智力能力。改变世界以降低这种标准将带来巨大的成本。 (2009a: 407)
 
@@ -114,7 +114,7 @@
 
 ## 当代正义理论中的残疾
 
-对正义的哲学兴趣的复苏通常被追溯到 1971 年约翰·罗尔斯（John Rawls）的《正义论》一书的出版。尽管这仅仅是在 1973 年通过《康复法案》之前的两年，该法案体现了一种社会模式的残疾（见 SEP 条目，残疾：定义，模式，经验），但在学术上重新构想残疾作为一种社会现象之前已经很久了。在《正义论》之后的 25 年里，许多正义理论家默认接受了医学模式（例如，Dworkin 1981a，b; Daniels 1985）。他们将残疾视为个体的身体或精神限制，是残疾相关劣势的主要原因。因此，残疾对基于相互利益、假设协议或物质或社会平等的正义理论构成了问题。残疾人似乎没有提供相互的优势；他们使得就社会基本结构达成假设协议的任务变得复杂；他们使得平等的目标看起来变得不可实现。
+对正义的哲学兴趣的复苏通常被追溯到 1971 年约翰 · 罗尔斯（John Rawls）的《正义论》一书的出版。尽管这仅仅是在 1973 年通过《康复法案》之前的两年，该法案体现了一种社会模式的残疾（见 SEP 条目，残疾：定义，模式，经验），但在学术上重新构想残疾作为一种社会现象之前已经很久了。在《正义论》之后的 25 年里，许多正义理论家默认接受了医学模式（例如，Dworkin 1981a，b; Daniels 1985）。他们将残疾视为个体的身体或精神限制，是残疾相关劣势的主要原因。因此，残疾对基于相互利益、假设协议或物质或社会平等的正义理论构成了问题。残疾人似乎没有提供相互的优势；他们使得就社会基本结构达成假设协议的任务变得复杂；他们使得平等的目标看起来变得不可实现。
 
 到了 20 世纪 90 年代末，一些主流政治哲学家开始了解残疾的社会模式，一些残疾理论家也开始在政治哲学家中获得关注。一些哲学家试图修改正义的分配理论，以考虑残疾的社会和环境特征；另一些人引用这些理论未能充分考虑残疾的失败作为拒绝纯粹分配方法的原因之一。
 
@@ -130,25 +130,25 @@
 
 残疾学者对原始立场的资格条件特别持批评态度。如果原始立场中的决策者不相信他们可能代表，或者实际上可能是“严重和永久”残疾人士，当面纱揭开时，他们将没有选择为他们的社会选择提供这些人包容的基本结构的审慎理由。实际上，因为这些措施会给非残疾人士带来成本，各方将有理由不支持这些措施，因为这样做将损害那些他们知道自己可以代表的人的利益（即施加成本的健全人士），而为了那些他们明确知道自己不代表的人的利益而这样做（即为残疾人士施加成本）。
 
-一些对 Rawlsian 框架持同情态度的哲学家提出了修改建议，这些修改将使残疾人在社会契约过程中发挥更大更直接的作用。一些人认为，“完全合作”要求及其涉及的互惠性质可以被宽泛解释，以便不排除大多数有重大身体残疾的人（Hartley 2009b; Stark 2009）。Henry Richardson 更进一步，认为“Rawls 利用[原始立场]这一设想的论证并不基本依赖于任何互惠前提”（2006: 427）。他研究了修改过的原始立场版本，放弃了没有人有严重和永久残疾的假设。他认为，通过这种修改，原始立场可以产生更加关注残疾问题的原则，关于能力连续性的问题，由于虚假二分法而导致的污名化，以及排除严重残疾人的问题。
+一些对 Rawlsian 框架持同情态度的哲学家提出了修改建议，这些修改将使残疾人在社会契约过程中发挥更大更直接的作用。一些人认为，“完全合作”要求及其涉及的互惠性质可以被宽泛解释，以便不排除大多数有重大身体残疾的人（Hartley 2009b; Stark 2009）。Henry Richardson 更进一步，认为“Rawls 利用 [原始立场] 这一设想的论证并不基本依赖于任何互惠前提”（2006: 427）。他研究了修改过的原始立场版本，放弃了没有人有严重和永久残疾的假设。他认为，通过这种修改，原始立场可以产生更加关注残疾问题的原则，关于能力连续性的问题，由于虚假二分法而导致的污名化，以及排除严重残疾人的问题。
 
-对此，玛莎·纽斯鲍姆（2006b: 490–498）承认理查森提出的对罗尔斯的重建在很大程度上避免了残疾学者所反对的原始立场的排他性特征。但她认为，这种重建比理查森所承认的更为激进。她认为，如果根据理查森的说法，放弃了相互性要求和承包人具有大致相等的身体和精神能力的假设，那么这一理论就失去了其契约性质。
+对此，玛莎 · 纽斯鲍姆（2006b: 490–498）承认理查森提出的对罗尔斯的重建在很大程度上避免了残疾学者所反对的原始立场的排他性特征。但她认为，这种重建比理查森所承认的更为激进。她认为，如果根据理查森的说法，放弃了相互性要求和承包人具有大致相等的身体和精神能力的假设，那么这一理论就失去了其契约性质。
 
-罗尔斯的“道德力量”条件提出了进一步的问题。哈里·布赖豪斯（2001）指出，修改合作要求仍然排除了那些认知障碍使他们无法拥有这两种道德力量的人。苏菲亚·王（2009, 2007）认为，那些力量可以通过严重智力障碍的人获得，只要有足够的社会支持。莱斯利·弗朗西斯（2009）和阿妮塔·席尔弗斯（席尔弗斯和弗朗西斯，2009）认为，许多患有严重认知障碍的个体可以与他人合作，构建个性化、真实的善的概念。席尔弗斯和弗朗西斯（2005）以及克里斯蒂·哈特利（2009a）还主张，即使他们无法亲自参与，患有严重智力障碍的人也可以在一个以建立信任为主而不是硬性讨价还价的合同过程中得到充分代表。
+罗尔斯的“道德力量”条件提出了进一步的问题。哈里 · 布赖豪斯（2001）指出，修改合作要求仍然排除了那些认知障碍使他们无法拥有这两种道德力量的人。苏菲亚 · 王（2009, 2007）认为，那些力量可以通过严重智力障碍的人获得，只要有足够的社会支持。莱斯利 · 弗朗西斯（2009）和阿妮塔 · 席尔弗斯（席尔弗斯和弗朗西斯，2009）认为，许多患有严重认知障碍的个体可以与他人合作，构建个性化、真实的善的概念。席尔弗斯和弗朗西斯（2005）以及克里斯蒂 · 哈特利（2009a）还主张，即使他们无法亲自参与，患有严重智力障碍的人也可以在一个以建立信任为主而不是硬性讨价还价的合同过程中得到充分代表。
 
-其他人认为，从原始立场中排除残疾人不一定会对他们造成不利影响或不尊重他们。亚当·柯顿（2008）认为，将严重残疾人排除在原始立场之外只是其理想化的一部分，并不减弱他们主张的紧迫性或优先性。辛西娅·斯塔克（2007）提出，将完全合作要求放宽，以便在罗尔斯式的审议的第二阶段包括残疾人，在那里社会的宪法得以建立，而虚构的决策者们也获得了一些关于他们社会资源、发展水平和其他特征的知识。
+其他人认为，从原始立场中排除残疾人不一定会对他们造成不利影响或不尊重他们。亚当 · 柯顿（2008）认为，将严重残疾人排除在原始立场之外只是其理想化的一部分，并不减弱他们主张的紧迫性或优先性。辛西娅 · 斯塔克（2007）提出，将完全合作要求放宽，以便在罗尔斯式的审议的第二阶段包括残疾人，在那里社会的宪法得以建立，而虚构的决策者们也获得了一些关于他们社会资源、发展水平和其他特征的知识。
 
 对 Rawls 对这些回应的合理性在某种程度上取决于我们考虑的原始立场版本。Rawls 在他的《重述》（2001）中对原始立场的呈现进行了变更，这对认知障碍者尤为重要。他强调，原始立场中的参与者是未来社会的代表，而不是未来社会中生活的人，他们不了解自己的社会地位。如果代表被要求考虑到他们所代表的人可能是残疾人，这可能有助于确保残疾人的利益得到代表。然而，只有当承包商有能力想象具有各种残疾的人的非常不同的具体表现时，才能做到这一点，这是对 Rawls 的女权主义批评者对男性代表女性（Young 1990; Benhabib 1992; Okin 1994）提出质疑的能力。原始立场参与者的严格代表作用也将避免认知能力正常的个体代表自己和认知能力受损的个体所面临的利益冲突。
 
-更广泛地说，哲学家们在包括残疾人在契约论或契约主义讨论中的前景方面持乐观态度。一方面，劳伦斯·贝克（2005）建议，即使是自私、硬谈判的契约者（他的“强硬群体”）也会接受“互惠”的广泛概念，这将确保在他们采纳的社会合作方案中为残疾人提供充分的保障。他们对互惠的接受将源自对他们及其亲人目前或可能获得的需求和脆弱性的认识。这种认识对健康的社会保障提出了更高要求。
+更广泛地说，哲学家们在包括残疾人在契约论或契约主义讨论中的前景方面持乐观态度。一方面，劳伦斯 · 贝克（2005）建议，即使是自私、硬谈判的契约者（他的“强硬群体”）也会接受“互惠”的广泛概念，这将确保在他们采纳的社会合作方案中为残疾人提供充分的保障。他们对互惠的接受将源自对他们及其亲人目前或可能获得的需求和脆弱性的认识。这种认识对健康的社会保障提出了更高要求。
 
 > 即使对于强硬的人群来说，健康现在已经成熟到可以被列入基本商品的清单中。也许一个对健康有坚定社会承诺的健康将解决残疾人的正义问题——只要我们小心地包括心理健康的基本方面（即，与积极理性行为相关的那些……（2005: 35)
 
-对于强硬派成员可能不会那么小心，事实上，有些人甚至可能不将“积极的理性代理”视为健康问题，因为他们更狭隘地将其解释为强调生存和舒适。与贝克尔相反，伊娃·基泰（1999）认为，即使对 Rawls 方案进行最自由的解释也不足以对激发其理论的平等关切作出响应。Rawls 假设原始状况中的参与者是或代表社会中完全有生产力的成员，忽视了普遍、不可避免的人类依赖事实。“[ ]那些处于依赖关系中的人超出了 Rawls 的平等主义概念范围”（1999: 79）。
+对于强硬派成员可能不会那么小心，事实上，有些人甚至可能不将“积极的理性代理”视为健康问题，因为他们更狭隘地将其解释为强调生存和舒适。与贝克尔相反，伊娃 · 基泰（1999）认为，即使对 Rawls 方案进行最自由的解释也不足以对激发其理论的平等关切作出响应。Rawls 假设原始状况中的参与者是或代表社会中完全有生产力的成员，忽视了普遍、不可避免的人类依赖事实。“[ ] 那些处于依赖关系中的人超出了 Rawls 的平等主义概念范围”（1999: 79）。
 
 另一个在契约论理论中具有特定关联性的辩论涉及正义的范围本身：正义是否仅关注社会商品的分配，还是也关注“自然不平等”的纠正（Pogge 1989: 44–47）。Pogge（1995）认为，在原始立场中，各方忽视自然优势对未来公民的幸福（以实现两个“高阶利益”的履行为理解）的贡献是不理性的，因为从那个立场来看，未经补偿的残疾造成的劣势与仅仅获得社会初级商品的一小部分相同程度的劣势一样糟糕。但 Pogge 声称，试图消除这些不平等将超出正义的范围。然而，一些哲学家认为，许多自然不平等属于正义的范围，并且为了减轻这些不平等，提供医疗保健是正义的要求（Daniels 1985; Buchanan et al. 2000）。
 
-其他哲学家和残疾学者会否认与障碍相关的不平等可以被视为“自然的”（Amundson 1992; Wasserman 2001）。在质疑“自然不平等”这一概念的同时，他们加入了一个更广泛的哲学辩论，即是否可能在自然不平等与人为或社会不平等之间划分出一个连贯的区别（见 Lippert-Rasmussen 2004; Nagel 1997; Pogge 2004a,b; Aas 和 Wasserman, 2016）。即使可以合理地划分出这样的区别，结果可能是许多或大多数能力上的不平等是人为的：就像过时的技能一样，这些不平等可能主要归因于物理和社会环境（Bickenbach 1993）。
+其他哲学家和残疾学者会否认与障碍相关的不平等可以被视为“自然的”（Amundson 1992; Wasserman 2001）。在质疑“自然不平等”这一概念的同时，他们加入了一个更广泛的哲学辩论，即是否可能在自然不平等与人为或社会不平等之间划分出一个连贯的区别（见 Lippert-Rasmussen 2004; Nagel 1997; Pogge 2004a, b; Aas 和 Wasserman, 2016）。即使可以合理地划分出这样的区别，结果可能是许多或大多数能力上的不平等是人为的：就像过时的技能一样，这些不平等可能主要归因于物理和社会环境（Bickenbach 1993）。
 
 ### 4.2 残疾、结果导向理论和正义的“货币”
 
@@ -166,7 +166,7 @@
 
 对环境未能充分考虑的失败也可能在直接平等主义的资源为基础的方法中找到。例如，Dworkin（1981a，b）似乎认为社会环境在提出资源的假设分配时是理所当然的。在我们这样的社会中，给予有缺陷的人在个人资源中平等的份额几乎不可能满足在一个专门为具有标准禀赋的人设计的物理和社会环境中的平等要求。Dworkin 意识到这个问题，但他的解决方案是调整个人份额以包括针对环境不适的保险赔付，而不是重新设计环境以减少适应不平等。在这种程度上，Dworkin 似乎默认假设了残疾的医学模型，根据这个模型，由于缺陷造成的限制仅仅归因于缺陷本身，如果无法纠正，只能通过重新分配资源给那些有这种缺陷的人来进行补偿。这种补偿可能确保生存，但对于增强或平等参与几乎没有帮助，实际上，如果 Anderson（1999）正确，补偿残疾可能会表达出不尊重。此外，对于特定残疾的保险赔付的大小是由健全人愿意为自己保险以防止患上该残疾的可能性而决定的金额。在健全人的判断并不总是跟踪与残疾相关的劣势的直观相关事实的情况下，这种方法威胁着将关于残疾经历的错误假设“固化”到其对残疾人的正当权益的描述中（Bodenheimer 1997a，b）。
 
-马莎·努斯鲍姆（2006a）和阿马蒂亚·森（1980）以不同方式发展的能力方法是评估政治和社会平等目的的几种更具响应性的选择之一。他们的论述不仅关注个体拥有的资源，还关注她可以如何利用这些资源；关注她参与多种有价值的“功能”（functionings）的“能力”，例如建立亲密关系和拥有丰富的感官和审美体验。
+马莎 · 努斯鲍姆（2006a）和阿马蒂亚 · 森（1980）以不同方式发展的能力方法是评估政治和社会平等目的的几种更具响应性的选择之一。他们的论述不仅关注个体拥有的资源，还关注她可以如何利用这些资源；关注她参与多种有价值的“功能”（functionings）的“能力”，例如建立亲密关系和拥有丰富的感官和审美体验。
 
 努斯鲍姆（Nussbaum）早期对能力的表述非常强调物种典型功能。例如，她最初将“五官的运用”视为人类繁荣的必要组成部分。最近的表述更有利于社会模式的残疾，部分原因是努斯鲍姆接触到残疾学术研究。她现在为“自然”缺陷的社会贡献腾出空间（参见 Wasserman 1998; Terzi 2009），承认大多数能力只与人们的“自然赋予”之间具有偶然的、环境调节的关系。她抽象出残疾人和正常肢体功能之间的差异，找到了一个共同的主张，即获得从一个地方到另一个地方移动的手段。这些手段可以是建筑、车辆、机械或假肢；它们可能涉及使地方更易接近或使个人更具移动性。同样，一个缺乏视力或听力的人可以通过其他手段获得审美满足；一个智力障碍的人可以参与结构化活动，包括各种认知技能的个体。一个患有肺气肿的个体可以通过增加肺活量的措施以及通过改善交通和建筑设计来增加社交和商务场所的接触，从而增加他对物质环境的从属感和控制能力（努斯鲍姆 2006a 清单中的两种能力）。
 
@@ -186,9 +186,9 @@
 
 第二种方法将在特定优势度量上的平等替换为社会平等或尊重平等（Anderson 1999; Miller 1999; Norman 1997, 1999）。这种方法将比充分性解释更激进地远离运气平等主义，因为它并没有降低公正分配的标准，而是提出了一种非分配性的公正标准。这种标准将把正义看作是认可而不是或者说是再分配。尽管这种方法可能要求某种程度上的严格平等，但这种平等似乎并没有设定明确的分配要求。一个充满相互尊重的社会中，可以容忍福利、资源、机会或能力方面的显著差异。
 
-在这种方法的基础上，更基本的区分是正义的关系理论和分配理论。尽管可以以不同的方式进行这种区分（参见，例如，Lippert-Rasmussen 2015，Fourie 等人 2015），但它确定了正义的两个关键维度。一个关键在于个体的福祉如何，无论是绝对还是相对于彼此。另一个关键在于人们之间所处的社会关系的种类。正如在§4.3 中讨论的那样，一个困难的问题是正义的任一维度在多大程度上可以被归纳为另一维度，或者用另一维度来表达。
+在这种方法的基础上，更基本的区分是正义的关系理论和分配理论。尽管可以以不同的方式进行这种区分（参见，例如，Lippert-Rasmussen 2015，Fourie 等人 2015），但它确定了正义的两个关键维度。一个关键在于个体的福祉如何，无论是绝对还是相对于彼此。另一个关键在于人们之间所处的社会关系的种类。正如在 §4.3 中讨论的那样，一个困难的问题是正义的任一维度在多大程度上可以被归纳为另一维度，或者用另一维度来表达。
 
-反对将关系正义理解为分配正义的主张，可以观察到至少在平等方面，两个人站在某种关系中与某个第三物（即某种好处）同等程度，与两个人站在彼此之间的关系中同等程度之间存在重要的结构差异（例如，被尊重、被认可等关系）。就人际平等而言，当被构建为关系时具有不同的结构，认为它可以归结为分配平等的一种类型是错误的，因为在每种情况下，“相等”意味着不同的事物。例如，社会中任何两个人受到他人同等尊重是一回事；而社会中任何两个人彼此之间同等尊重是另一回事。这种区别与特定的残疾讨论相关，因为理解社会模式的一种方式是从关系观的角度——其核心观点是残疾不是个体的一种属性，以某种福利赤字来定义，而是由带有污名化或排斥态度、性情、实践和对待方式所定义的个体之间的 n 个关系（n>2）。
+反对将关系正义理解为分配正义的主张，可以观察到至少在平等方面，两个人站在某种关系中与某个第三物（即某种好处）同等程度，与两个人站在彼此之间的关系中同等程度之间存在重要的结构差异（例如，被尊重、被认可等关系）。就人际平等而言，当被构建为关系时具有不同的结构，认为它可以归结为分配平等的一种类型是错误的，因为在每种情况下，“相等”意味着不同的事物。例如，社会中任何两个人受到他人同等尊重是一回事；而社会中任何两个人彼此之间同等尊重是另一回事。这种区别与特定的残疾讨论相关，因为理解社会模式的一种方式是从关系观的角度——其核心观点是残疾不是个体的一种属性，以某种福利赤字来定义，而是由带有污名化或排斥态度、性情、实践和对待方式所定义的个体之间的 n 个关系（n > 2）。
 
 最近关于采取不同措施弥补与残疾相关的劣势的表现意义的辩论中，一些问题已经成为焦点。Pogge (2002) 和 Anderson (1999) 声称，将一个人的劣势归因于他或她的自然禀赋是不尊重的，因为这样做将其视为需要帮助、有缺陷或低人一等。因此，他们反对以纠正技能、才能或将资源转化为福利的自然不平等为理由来证明重新分配措施以实现包容性。相反，他们认为这些措施可以并且应该被证明是在纠正歧视，反之，未能实现包容性应该被认为是不公正的歧视。
 
@@ -220,13 +220,13 @@
 
 对社会身份的理想变化至少有两种方式。首先，即使某人的自我中的一些重要方面并非自主选择——比如说，一个人患有截瘫或聋的事实——但它们对一个人的自我概念有多重要，对一个人的利益和计划有多重要，在某种程度上是在一个人的自愿控制之内的。在某些观点中，尤其是科斯加德的观点，对身份的反思认可是其对代理人具有规范性的必要条件，即为她提供理由。同时，一个人的认同程度在多大程度上是自愿的取决于社会环境的限制。一个人不能简单地决定让自己的残疾在自己的传记身份中变得不那么突出，至少，特别是如果一个人的残疾并非“隐藏”。如果这种身份是被社会大众所赋予和强调的，那么在自己的实际推理中减少其重要性可能会很困难。但一个人仍然可以选择接受或抵制这种强调。
 
-其次，标签的正负性可以发生变化，就像“奇怪”的术语一样：曾经是一个负面标签，伴随着各种不公正的对待，可以转变为一个积极的标签，并被奉为自尊和骄傲的源泉，供那些分享集体身份的人使用。约翰·劳森（Lawson）讨论了残疾儿童的特殊教育，曾被视为创造负面、二等身份的主要因素，可以转变为“促进残疾作为文化身份的积极推广场所”（Lawson 2001: 203–21）。无论是在身份认同还是正负性方面的任何变化，都无法在没有斗争的情况下实现，无论是个人还是政治上的，但有时部分成功是可以实现的。
+其次，标签的正负性可以发生变化，就像“奇怪”的术语一样：曾经是一个负面标签，伴随着各种不公正的对待，可以转变为一个积极的标签，并被奉为自尊和骄傲的源泉，供那些分享集体身份的人使用。约翰 · 劳森（Lawson）讨论了残疾儿童的特殊教育，曾被视为创造负面、二等身份的主要因素，可以转变为“促进残疾作为文化身份的积极推广场所”（Lawson 2001: 203–21）。无论是在身份认同还是正负性方面的任何变化，都无法在没有斗争的情况下实现，无论是个人还是政治上的，但有时部分成功是可以实现的。
 
 残疾即使不是每个残疾人身份的核心组成部分，也不必是，但这并不否定残疾作为政治行动的组织原则的重要性。但当残疾的社会和政治认可成为政治行动的目标时，正如在身份政治中一样，就会引发“差异困境”（Minow 1990）。考虑儿童特殊教育：一方面，给一个孩子贴上“残疾”标签可能会导致污名化和孤立化这个孩子。从这个意义上说，被视为“不同”就意味着低人一等。另一方面，被贴上“残疾”标签是父母确保孩子学习和功能的特殊方式得到关注的一种方式。从这个意义上说，被视为“不同”就意味着有权获得适当的教育帮助。
 
 这个困境可能并非不可逾越。教育中的普遍设计运动旨在重塑课堂和教学实践，鼓励所有学生参与。在这一运动取得成功的程度上，将最大程度地减少对“特殊教育”的需求（Biklen 1992; Gartner and Lipsky 2002; Lipsky and Gartner 1996）。法律和公共政策必须创造性地思考解决这一困境的方法，以确保他们试图消除的污名不会被实际上加强。成功解决差异的困境可能会降低残疾身份对正义的重要性。如果残疾只是社会安排中需要考虑的一个特征，那么它可能变得像身高或能力一样重要或不重要。
 
-有至少另外两个身份政治的残疾风险。其中一个涉及假设特定边缘化群体的成员都分享相同的文化，无论是非裔美国人文化还是残疾文化。这种假设并不是成熟的身份政治所必需的，但可能会受到围绕单一身份动员多样个体的努力的鼓励。两个考虑因素可能有助于抵制这种倾向。首先，我们必须认识到文化是一个复杂的概念，定义它并不是一件容易的事情。其次，我们必须认识到根据任何合理的定义，具有相同残疾（更不用说不同残疾）的人不必分享共同的文化。有一些共同的残疾文化例子：聋文化可能是最为人熟知的。但许多聋人，特别是那些不会手语的人，并不认同为聋人或参与聋文化（Tucker 1997[10]）。即使对于那些参与的人来说，聋文化似乎并不是像 Kymlicka、Margalit 和 Raz 所声称的为其成员提供“选择背景”的“包容性”或“全面性”文化。[11]
+有至少另外两个身份政治的残疾风险。其中一个涉及假设特定边缘化群体的成员都分享相同的文化，无论是非裔美国人文化还是残疾文化。这种假设并不是成熟的身份政治所必需的，但可能会受到围绕单一身份动员多样个体的努力的鼓励。两个考虑因素可能有助于抵制这种倾向。首先，我们必须认识到文化是一个复杂的概念，定义它并不是一件容易的事情。其次，我们必须认识到根据任何合理的定义，具有相同残疾（更不用说不同残疾）的人不必分享共同的文化。有一些共同的残疾文化例子：聋文化可能是最为人熟知的。但许多聋人，特别是那些不会手语的人，并不认同为聋人或参与聋文化（Tucker 1997 [10]）。即使对于那些参与的人来说，聋文化似乎并不是像 Kymlicka、Margalit 和 Raz 所声称的为其成员提供“选择背景”的“包容性”或“全面性”文化。[11]
 
 第二个相关风险涉及优先考虑某一身份而不是其他身份。这对于拥有多个或“交叉”身份的人尤为重要。例如，非裔美国人和残疾人，或女性和残疾人，或残疾人和 LGBT 可能有时会感到这些身份之间的冲突。例如，在一项研究中，行动不便的非裔美国妇女报告说，她们感到与残疾权利运动疏远，部分原因是其领导层似乎主要是白人，部分原因是一些主要目标——最大程度地提高独立性——与她们更强调家庭和相互依赖的价值观相冲突（Feldman 和 Tegart 2003）。更普遍地说，尽管在残疾哲学研究中对残疾和种族之间的交叉点讨论相对较少（尽管参见 Stubblefield 2009），但在残疾研究中可以找到更多的讨论（例如，Bell 2011）。此外，一些人指出，主流女权主义对独立和自给自足的关注往往排斥残疾妇女，认为她们缺乏这些基本美德（Crawford 和 Ostrove 2003；Wendell 1996）。与此同时，残疾妇女往往特别容易受到激励女权主义运动的不公正待遇：她们经常成为性剥削的受害者（Crawford 和 Ostrove 2003），因为身体、心理和经济依赖而遇到许多离开不满意关系的障碍（Olkin 2003），她们的收入中位数低于贫困线，远远低于男性同行（Crawford 和 Ostrove 2003；Olkin 1999）。
 
@@ -258,169 +258,169 @@
 
 ## Bibliography
 
-* Aas, Sean and David Wasserman, 2016, “Natural and Social Inequality: Disability and Fair Equality of Opportunity”, *Journal of Moral Philosophy*, 13(5): 576–601. doi:10.1163/17455243-46810042
-* Acemoglu, Daron and Joshua Angrist, 1998, “Consequences of Employment Protection? The Case of the Americans with Disabilities Act”, NBER Working Paper 6670, Cambridge, MA: National Bureau of Economic Research. doi:10.3386/w6670
-* Albrecht, Gary L., Katherine Seelman, and Michael Bury (eds.), 2001, *Handbook of Disability Studies*, Thousand Oaks, CA: SAGE Publications. doi:10.4135/9781412976251
+* Aas, Sean and David Wasserman, 2016, “Natural and Social Inequality: Disability and Fair Equality of Opportunity”, *Journal of Moral Philosophy*, 13(5): 576–601. doi: 10.1163/17455243-46810042
+* Acemoglu, Daron and Joshua Angrist, 1998, “Consequences of Employment Protection? The Case of the Americans with Disabilities Act”, NBER Working Paper 6670, Cambridge, MA: National Bureau of Economic Research. doi: 10.3386/w6670
+* Albrecht, Gary L., Katherine Seelman, and Michael Bury (eds.), 2001, *Handbook of Disability Studies*, Thousand Oaks, CA: SAGE Publications. doi: 10.4135/9781412976251
 * [ADA], 1990, *Americans with Disabilities Act of 1990, as Amended*, [ADA 1990 amended available online](http://www.ada.gov/pubs/ada.htm)
-* Amundson, Ron, 1992, “Disability, Handicap, and the Environment”, *Journal of Social Philosophy*, 23(1): 105–119. doi:10.1111/j.1467-9833.1992.tb00489.x
-* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
+* Amundson, Ron, 1992, “Disability, Handicap, and the Environment”, *Journal of Social Philosophy*, 23(1): 105–119. doi: 10.1111/j.1467-9833.1992.tb00489.x
+* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
 * Appiah, Kwame Anthony, 2005, *The Ethics of Identity*, Princeton, NJ: Princeton Univ. Press.
 * Appiah, Kwame Anthony and Amy Gutmann, 1996, *Color Conscious: The Political Morality of Race*, Princeton, NJ: Princeton University Press.
-* Armitage, Faith, 2006, “Respect and Types of Injustice”, *Res Publica*, 12(1): 9–34. doi:10.1007/s11158-006-0003-7
-* Arneson, Richard J., 1989, “Equality and Equal Opportunity for Welfare”, *Philosophical Studies*, 56(1): 77–93. doi:10.1007/BF00646210
-* –––, 2000, “Luck Egalitarianism and Prioritarianism”, *Ethics*, 110(2): 339–349. doi:10.1086/233272
+* Armitage, Faith, 2006, “Respect and Types of Injustice”, *Res Publica*, 12(1): 9–34. doi: 10.1007/s11158-006-0003-7
+* Arneson, Richard J., 1989, “Equality and Equal Opportunity for Welfare”, *Philosophical Studies*, 56(1): 77–93. doi: 10.1007/BF00646210
+* –––, 2000, “Luck Egalitarianism and Prioritarianism”, *Ethics*, 110(2): 339–349. doi: 10.1086/233272
 * –––, 2006, “Distributive Justice and Basic Capability Equality: ‘Good Enough’ is Not Good Enough”, in Kaufman 2006: 15–43.
 * Asch, Adrienne, 1985, “Understanding and working with disability rights groups”, in *Complete Guide to Employing Persons with Disabilities*, Henry McCarthy (ed.), Albertson, NY: Human Resources Center, pp 170–184.
-* –––, 1989, “Reproductive Technology and Disability”, in *Reproductive Laws for the 1990s*, Sherrill Cohen and Nadine Taub (eds.), Totowa, NJ: Humana Press, 69–124. doi:10.1007/978-1-4612-3710-5_4
+* –––, 1989, “Reproductive Technology and Disability”, in *Reproductive Laws for the 1990s*, Sherrill Cohen and Nadine Taub (eds.), Totowa, NJ: Humana Press, 69–124. doi: 10.1007/978-1-4612-3710-5_4
 * Banks, Martha E. and Ellyn Kaschak (eds.), 2003, *Women with Visible and Invisible Disabilities: Multiple Intersections, Multiple Issues, Multiple Therapies*, New York: Haworth Press.
-* Barclay, Linda, 2010, “Disability, Respect and Justice”, *Journal of Applied Philosophy*, 27(2): 154–171. doi:10.1111/j.1468-5930.2010.00489.x
-* –––, 2011, “Justice and Disability: What Kind of Theorizing Is Needed?”, *Journal of Social Philosophy*, 42(3): 273–287. doi:10.1111/j.1467-9833.2011.01533.x
+* Barclay, Linda, 2010, “Disability, Respect and Justice”, *Journal of Applied Philosophy*, 27(2): 154–171. doi: 10.1111/j.1468-5930.2010.00489.x
+* –––, 2011, “Justice and Disability: What Kind of Theorizing Is Needed?”, *Journal of Social Philosophy*, 42(3): 273–287. doi: 10.1111/j.1467-9833.2011.01533.x
 * –––, 2018, *Disability with Dignity: Justice, Human Rights and Equal Status*, London and New York: Routledge.
-* Barnartt, Sharon, Kay Schriner, and Richard Scotch, 2001, “Advocacy and Political Action”, Albrecht, Seelman, and Bury 2001: 430–449. doi:10.4135/9781412976251.n18
+* Barnartt, Sharon, Kay Schriner, and Richard Scotch, 2001, “Advocacy and Political Action”, Albrecht, Seelman, and Bury 2001: 430–449. doi: 10.4135/9781412976251.n18
 * Barnartt, Sharon, with K. Schriner and R. Scotch, 2001, “Advocacy and Political Action”, in *Handbook of Disability Studies*, G.L. Albrecht, K.D.
-* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford and New York: Oxford University Press. doi:10.1093/acprof:oso/9780198732587.001.0001
-* Becker, Lawrence C., 2005, “Reciprocity, Justice, and Disability”, *Ethics*, 116(1): 9–39. doi:10.1086/453150
+* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford and New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198732587.001.0001
+* Becker, Lawrence C., 2005, “Reciprocity, Justice, and Disability”, *Ethics*, 116(1): 9–39. doi: 10.1086/453150
 * Bell, Christopher M. (ed.), 2011, *Blackness and Disability: Critical Examinations and Cultural Interventions*, (Forecast 21), East Lansing, MI: Michigan State University Press.
 * Benhabib, Seyla, 1992, *Situating the Self: Gender, Community, and Postmodernism in Contemporary Ethics*, New York: Routledge.
 * Bickenbach, Jerome Edmund, 1993, *Physical Disability and Social Policy*, Toronto and Buffalo: University of Toronto Press.
 * Biklen, Douglas, 1992, *Schooling Without Labels: Parents, Educators, and Inclusive Education*, Philadelphia, PA: Temple University Press.
 * Block, Lydia S., 2006, “Letter from the Guest Editor” *Journal of Postsecondary Education and Disability*, 19(2): 115–116.
-* Bodenheimer, Thomas, 1997a, “The Oregon Health Plan: Lessons for the Nation, First Part”, *New England Journal of Medicine*, 337(9): 651–656. doi:10.1056/NEJM199708283370923
-* –––, 1997b, “The Oregon Health Plan: Lessons for the Nation, Second Part”, *New England Journal of Medicine*, 337(10): 720–723. doi:10.1056/NEJM199709043371021
-* Bognar, Greg, 2011, “Impartiality and Disability Discrimination”, *Kennedy Institute of Ethics Journal*, 21(1): 1–23. doi:10.1353/ken.2011.0000
-* Bolton, Derek, 2008, *What Is Mental Disorder?: An Essay in Philosophy, Science, and Values*, New York: Oxford University Press. doi:10.1093/med/9780198565925.001.0001
+* Bodenheimer, Thomas, 1997a, “The Oregon Health Plan: Lessons for the Nation, First Part”, *New England Journal of Medicine*, 337(9): 651–656. doi: 10.1056/NEJM199708283370923
+* –––, 1997b, “The Oregon Health Plan: Lessons for the Nation, Second Part”, *New England Journal of Medicine*, 337(10): 720–723. doi: 10.1056/NEJM199709043371021
+* Bognar, Greg, 2011, “Impartiality and Disability Discrimination”, *Kennedy Institute of Ethics Journal*, 21(1): 1–23. doi: 10.1353/ken.2011.0000
+* Bolton, Derek, 2008, *What Is Mental Disorder?: An Essay in Philosophy, Science, and Values*, New York: Oxford University Press. doi: 10.1093/med/9780198565925.001.0001
 * Bowe, Frank, 1980, *Rehabilitating America: Toward Independence for Disabled and Elderly People*, New York, NY: Harper and Row.
-* Brighouse, Harry, 2001, “Can Justice as Fairness Accommodate the Disabled?”:, *Social Theory and Practice*, 27(4): 537–560. doi:10.5840/soctheorpract200127433
-* Brownlee, Kimberley and Adam Cureton (eds.), 2009, *Disability and Disadvantage*, New York: Oxford University Press. doi:10.1093/acprof:osobl/9780199234509.001.0001
-* Buchanan, Allen E. and Dan W. Brock, 1990, *Deciding for Others: The Ethics of Surrogate Decision Making*, (Studies in Philosophy and Health Policy), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171946
-* Buchanan, Allen, Dan W. Brock, Norman Daniels, and Daniel Wikler, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806940
+* Brighouse, Harry, 2001, “Can Justice as Fairness Accommodate the Disabled?”:, *Social Theory and Practice*, 27(4): 537–560. doi: 10.5840/soctheorpract200127433
+* Brownlee, Kimberley and Adam Cureton (eds.), 2009, *Disability and Disadvantage*, New York: Oxford University Press. doi: 10.1093/acprof: osobl/9780199234509.001.0001
+* Buchanan, Allen E. and Dan W. Brock, 1990, *Deciding for Others: The Ethics of Surrogate Decision Making*, (Studies in Philosophy and Health Policy), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139171946
+* Buchanan, Allen, Dan W. Brock, Norman Daniels, and Daniel Wikler, 2000, *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511806940
 * Bureau of Labor Statistics, U.S. Department of Labor, 2010, “Persons with a Disability: Labor Force Characteristics—2009”, [available online](https://www.bls.gov/news.release/archives/disabl_08252010.pdf), accessed April 21, 2012.
 * Calder, Gideon, 2010, “Pragmatism, Critical Theory and Democratic Inclusion”, *Etica & Politica/Ethics & Politics*, 12(1): 52–67. [[Calder 2010 available online](https://www.openstarts.units.it/bitstream/10077/4678/1/Calder_E%26P_XII_2010_1.pdf)]
-* Cavallero, Eric, 2011, “Health, Luck and Moral Fallacies of the Second Best”, *The Journal of Ethics*, 15(4): 387–403. doi:10.1007/s10892-011-9109-z
-* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice”, *Ethics*, 99(4): 906–944. doi:10.1086/293126
-* Connor, David J., Susan L. Gabel, Deborah J. Gallagher, and Missy Morton, 2008, “Disability Studies and Inclusive Education ��” Implications for Theory, Research, and Practice”, *International Journal of Inclusive Education*, 12(5–6): 441–457. doi:10.1080/13603110802377482
+* Cavallero, Eric, 2011, “Health, Luck and Moral Fallacies of the Second Best”, *The Journal of Ethics*, 15(4): 387–403. doi: 10.1007/s10892-011-9109-z
+* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice”, *Ethics*, 99(4): 906–944. doi: 10.1086/293126
+* Connor, David J., Susan L. Gabel, Deborah J. Gallagher, and Missy Morton, 2008, “Disability Studies and Inclusive Education ��” Implications for Theory, Research, and Practice”, *International Journal of Inclusive Education*, 12(5–6): 441–457. doi: 10.1080/13603110802377482
 * Crawford, Danette and Joan M. Ostrove, 2003, “Representations of Disability and the Personal relationships of Women with Disabilities”, in Banks and Kaschak 2003: 179–194.
 * Crossley, Mary, 2004, “Reasonable Accommodation as Part and Parcel of the Antidiscrimination Project”, *Rutgers Law Journal*, 35(3): 861–958.
 * Cureton, Adam, 2008, “A Rawlsian Perspective on Justice for the Disabled” *Essays in Philosophy*, 9(1): article 5. [[Cureton 2008 available online](https://commons.pacificu.edu/eip/vol9/iss1/5/)]
-* Cureton, Adam and Kimberley Brownlee, 2009, “Introduction”, in Brownlee and Cureton 2009: 1–13. doi:10.1093/acprof:osobl/9780199234509.003.0001
-* Danermark, Berth and Lotta Coniavitis Gellerstedt, 2004, “Social Justice: Redistribution and Recognition—a Non‐reductionist Perspective on Disability”, *Disability & Society*, 19(4): 339–353. doi:10.1080/09687590410001689458
-* Daniels, Norman, 1985, *Just Health Care*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624971
-* Daniels, Norman and James Sabin, 1997, “Limits to Health Care: Fair Procedures, Democratic Deliberation, and the Legitimacy Problem for Insurers”, *Philosophy & Public Affairs*, 26(4): 303–350. doi:10.1111/j.1088-4963.1997.tb00082.x
-* Davis, N. Ann, 2005, “Invisible Disability”, *Ethics*, 116(1): 153–213. doi:10.1086/453151
+* Cureton, Adam and Kimberley Brownlee, 2009, “Introduction”, in Brownlee and Cureton 2009: 1–13. doi: 10.1093/acprof: osobl/9780199234509.003.0001
+* Danermark, Berth and Lotta Coniavitis Gellerstedt, 2004, “Social Justice: Redistribution and Recognition—a Non‐reductionist Perspective on Disability”, *Disability & Society*, 19(4): 339–353. doi: 10.1080/09687590410001689458
+* Daniels, Norman, 1985, *Just Health Care*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511624971
+* Daniels, Norman and James Sabin, 1997, “Limits to Health Care: Fair Procedures, Democratic Deliberation, and the Legitimacy Problem for Insurers”, *Philosophy & Public Affairs*, 26(4): 303–350. doi: 10.1111/j.1088-4963.1997.tb00082.x
+* Davis, N. Ann, 2005, “Invisible Disability”, *Ethics*, 116(1): 153–213. doi: 10.1086/453151
 * Drimmer, Jonathan C., 1993, “Cripples, Overcomers, and Civil Rights: Tracing the Evolution of Federal Legislation and Social Policy for People with Disabilities”, *UCLA Law Review*, 40(5): 1341–1410.
 * Dworkin, Ronald, 1981a, “What Is Equality? Part 1: Equality of Welfare”, *Philosophy and Public Affairs*, 10(3): 185–246.
 * –––, 1981b, “What is Equality? Part 2: Equality of Resources”, *Philosophy and Public Affairs*, 10(4): 283–345.
-* –––, 2003, “Equality, Luck and Hierarchy”, *Philosophy & Public Affairs*, 31(2): 190–198. doi:10.1111/j.1088-4963.2003.00190.x
-* Feiring, E, 2008, “Lifestyle, Responsibility and Justice”, *Journal of Medical Ethics*, 34(1): 33–36. doi:10.1136/jme.2006.019067
+* –––, 2003, “Equality, Luck and Hierarchy”, *Philosophy & Public Affairs*, 31(2): 190–198. doi: 10.1111/j.1088-4963.2003.00190.x
+* Feiring, E, 2008, “Lifestyle, Responsibility and Justice”, *Journal of Medical Ethics*, 34(1): 33–36. doi: 10.1136/jme.2006.019067
 * Feldman, Scott I. and Georgina Tegart, 2003, “Keep Moving: Conceptions of Illness and Disability of Middle-Aged African-American Women with Arthritis”, in Banks, and Kaschak 2003: 127–144.
-* Fine, Michelle and Adrienne Asch, 1988, “Disability Beyond Stigma: Social Interaction, Discrimination, and Activism”, *Journal of Social Issues*, 44(1): 3–21. doi:10.1111/j.1540-4560.1988.tb02045.x
+* Fine, Michelle and Adrienne Asch, 1988, “Disability Beyond Stigma: Social Interaction, Discrimination, and Activism”, *Journal of Social Issues*, 44(1): 3–21. doi: 10.1111/j.1540-4560.1988.tb02045.x
 * Fishkin, James S., 1983, *Justice, Equal Opportunity, and the Family*, New Haven, CT: Yale University Press.
-* Fourie, Carina, Fabian Schuppert, and Ivo Wallimann-Helmer (eds.), 2015, *Social Equality: On What It Means to Be Equals*, Oxford and New York: Oxford University Press. doi:10.1093/acprof:oso/9780199331109.001.0001
-* Francis, Leslie P., 2009, “Understanding Autonomy in Light of Intellectual Disability”, in Brownlee and Cureton 2009: 200–215. doi:10.1093/acprof:osobl/9780199234509.003.0008
+* Fourie, Carina, Fabian Schuppert, and Ivo Wallimann-Helmer (eds.), 2015, *Social Equality: On What It Means to Be Equals*, Oxford and New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199331109.001.0001
+* Francis, Leslie P., 2009, “Understanding Autonomy in Light of Intellectual Disability”, in Brownlee and Cureton 2009: 200–215. doi: 10.1093/acprof: osobl/9780199234509.003.0008
 * Fraser, Nancy, 1995, “From Redistribution to Recognition: Dilemmas of Justice in a ‘Post-Socialist’ Age”, *New Left Law Review*, 212: 68–93. [[Fraser 1995 available online](https://newleftreview.org/issues/I212/articles/nancy-fraser-from-redistribution-to-recognition-dilemmas-of-justice-in-a-post-socialist-age)]
 * –––, 1996, *Social Justice in the Age of Identity Politics: Redistribution, Recognition, and Participation*, The Tanner Lectures on Human Values, Delivered at Stanford University, April 30–May 2, 1996. [[Fraser 1996 available online](https://tannerlectures.utah.edu/_resources/documents/a-to-z/f/Fraser98.pdf)]
 * –––, 1997, *Justice Interruptus: Critical Reflections on the “Postsocialist” Condition*, Routledge: New York.
-* –––, 2001, “Recognition without Ethics?”, *Theory, Culture & Society*, 18(2–3): 21–42. doi:10.1177/02632760122051760
-* –––, 2007, “Identity, Exclusion, and Critique: A Response to Four Critics”, *European Journal of Political Theory*, 6(3): 305–338. doi:10.1177/1474885107077319
+* –––, 2001, “Recognition without Ethics?”, *Theory, Culture & Society*, 18(2–3): 21–42. doi: 10.1177/02632760122051760
+* –––, 2007, “Identity, Exclusion, and Critique: A Response to Four Critics”, *European Journal of Political Theory*, 6(3): 305–338. doi: 10.1177/1474885107077319
 * Fremstad, Shawn, 2009, *Half in Ten: Why Taking Disability into Account is Essential to Reducing Income Poverty and Expanding Economic Inclusion*, Washington, DC: Center for Economic Policy Research. [[Fremstad 2009 available online](http://cepr.net/publications/reports/half-in-ten)]
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford and New York: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Galston, William A., 1991, *Liberal Purposes: Goods, Virtues, and Diversity in the Liberal State*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172462
-* Galvin, Rose, 2002, “Disturbing Notions of Chronic Illness and Individual Responsibility: Towards a Genealogy of Morals”, *Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine*, 6(2): 107–137. doi:10.1177/136345930200600201
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford and New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
+* Galston, William A., 1991, *Liberal Purposes: Goods, Virtues, and Diversity in the Liberal State*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139172462
+* Galvin, Rose, 2002, “Disturbing Notions of Chronic Illness and Individual Responsibility: Towards a Genealogy of Morals”, *Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine*, 6(2): 107–137. doi: 10.1177/136345930200600201
 * Gartner, Alan and Dorothy Kerzner Lipsky, 2002, *Inclusion: A Service, Not a Place—A Whole School Approach*, Port Chester, NY: National Publishing Resources.
 * Gliedman, John and William Roth, 1980, *The Unexpected Minority: Handicapped Children in America*, New York, NY: Harcourt Brace Jovanovich.
-* Goering, Sara, 2009, “‘Mental Illness’ and Justice as Recognition”, *Philosophy and Public Policy Quarterly*, 29(1–2): 14–18. doi:10.13021/g8pppq.292009.111
+* Goering, Sara, 2009, “‘Mental Illness’ and Justice as Recognition”, *Philosophy and Public Policy Quarterly*, 29(1–2): 14–18. doi: 10.13021/g8pppq.292009.111
 * Gutmann, Amy, 1987, *Democratic Education*, Princeton, NJ: Princeton University Press.
-* Hahn, Harlan, 1987 [1997], “Advertising the Acceptably Employable Image: Disability and Capitalism”, *Policy Studies Journal*, 15(3): 551–570. Reprinted in *The Disability Studies Reader*, Lennard J. Davis (ed), London, UK: Routledge Kegan Paul, pp. 172–186. doi:10.1111/j.1541-0072.1987.tb00729.x
-* Hartley, Christie, 2009a, “An Inclusive Contractualism”, in Brownlee and Cureton 2009: 138–162. doi:10.1093/acprof:osobl/9780199234509.003.0006
-* –––, 2009b, “Justice for the Disabled: A Contractualist Approach”, *Journal of Social Philosophy*, 40(1): 17–36. doi:10.1111/j.1467-9833.2009.01436.x
-* Heath, Joseph, 1998, “Culture: Choice or Circumstance?”, *Constellations*, 5(2): 183–200. doi:10.1111/1467-8675.00087
-* Hehir, Thomas, 2002, “Eliminating Ableism in Education”, *Harvard Educational Review*, 72(1): 1–33. doi:10.17763/haer.72.1.03866528702g2105
-* Honneth, Axel, 1992, “Integrity and Disrespect: Principles of a Conception of Morality Based on the Theory of Recognition”, *Political Theory*, 20(2): 187–201. doi:10.1177/0090591792020002001
+* Hahn, Harlan, 1987 [1997], “Advertising the Acceptably Employable Image: Disability and Capitalism”, *Policy Studies Journal*, 15(3): 551–570. Reprinted in *The Disability Studies Reader*, Lennard J. Davis (ed), London, UK: Routledge Kegan Paul, pp. 172–186. doi: 10.1111/j.1541-0072.1987.tb00729.x
+* Hartley, Christie, 2009a, “An Inclusive Contractualism”, in Brownlee and Cureton 2009: 138–162. doi: 10.1093/acprof: osobl/9780199234509.003.0006
+* –––, 2009b, “Justice for the Disabled: A Contractualist Approach”, *Journal of Social Philosophy*, 40(1): 17–36. doi: 10.1111/j.1467-9833.2009.01436.x
+* Heath, Joseph, 1998, “Culture: Choice or Circumstance?”, *Constellations*, 5(2): 183–200. doi: 10.1111/1467-8675.00087
+* Hehir, Thomas, 2002, “Eliminating Ableism in Education”, *Harvard Educational Review*, 72(1): 1–33. doi: 10.17763/haer.72.1.03866528702g2105
+* Honneth, Axel, 1992, “Integrity and Disrespect: Principles of a Conception of Morality Based on the Theory of Recognition”, *Political Theory*, 20(2): 187–201. doi: 10.1177/0090591792020002001
 * Howe, Kenneth R., 1996, “Educational Ethics, Social Justice and Children with Disabilities”, in *Disability and the Dilemmas of Education and Justice*, Carol Christensen and Fazal Rizvi (eds.), Buckingham: Open University Press, pp 46–62.
-* John, Tyler M., Joseph Millum, and David Wasserman, 2017, “How to Allocate Scarce Health Resources without Discriminating against People with Disabilities”, *Economics and Philosophy*, 33(2): 161–186. doi:10.1017/S0266267116000237
+* John, Tyler M., Joseph Millum, and David Wasserman, 2017, “How to Allocate Scarce Health Resources without Discriminating against People with Disabilities”, *Economics and Philosophy*, 33(2): 161–186. doi: 10.1017/S0266267116000237
 * Karlan, Pamela S. and George Rutherglen, 1996, “Disabilities, Discrimination, and Reasonable Accommodation”, *Duke Law Journal*, 46(1): 1–42.
-* Kaufman, Alexander (ed.), 2006, *Capabilities Equality: Basic Issues and Problems*, New York: Routledge. doi:10.4324/9780203799444
+* Kaufman, Alexander (ed.), 2006, *Capabilities Equality: Basic Issues and Problems*, New York: Routledge. doi: 10.4324/9780203799444
 * Kittay, Eva Feder, 1999, *Love’s Labor: Essays on Women, Equality and Dependency*, New York: Routledge.
-* Kittay, Eva Feder and Licia Carlson (eds.), 2010, *Cognitive Disability and Its Challenge to Moral Philosophy*, Oxford, UK: Wiley-Blackwell. doi:10.1002/9781444322781
-* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476
-* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
+* Kittay, Eva Feder and Licia Carlson (eds.), 2010, *Cognitive Disability and Its Challenge to Moral Philosophy*, Oxford, UK: Wiley-Blackwell. doi: 10.1002/9781444322781
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511554476
+* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199552795.001.0001
 * Kymlicka, Will, 1989, *Liberalism, Community and Culture*, Oxford: Clarendon.
-* Ladenson, Robert F., 2005, “The Zero-Reject Policy in Special Education: A Moral Analysis”, *Theory and Research in Education*, 3(3): 273–298. doi:10.1177/1477878505057428
-* Lawson, John, 2001, “Disability as a Cultural Identity”, *International Studies in Sociology of Education*, 11(3): 203–222. doi:10.1080/09620210100200076
-* Lippert-Rasmussen, Kasper, 2004, “Are Some Inequalities More Unequal than Others? Nature, Nurture and Equality”, *Utilitas*, 16(2): 193–219. doi:10.1017/S0953820804000536
-* –––, 2015, “Luck Egalitarians versus Relational Egalitarians: On the Prospects of a Pluralist Account of Egalitarian Justice”, *Canadian Journal of Philosophy*, 45(2): 220–241. doi:10.1080/00455091.2015.1061369
-* Lipsky, Dorothy Kerzner and Alan Gartner, 1996, “Inclusion, School Restructuring, and the Remaking of American Society”, *Harvard Educational Review*, 66(4): 762–797. doi:10.17763/haer.66.4.3686k7x734246430
+* Ladenson, Robert F., 2005, “The Zero-Reject Policy in Special Education: A Moral Analysis”, *Theory and Research in Education*, 3(3): 273–298. doi: 10.1177/1477878505057428
+* Lawson, John, 2001, “Disability as a Cultural Identity”, *International Studies in Sociology of Education*, 11(3): 203–222. doi: 10.1080/09620210100200076
+* Lippert-Rasmussen, Kasper, 2004, “Are Some Inequalities More Unequal than Others? Nature, Nurture and Equality”, *Utilitas*, 16(2): 193–219. doi: 10.1017/S0953820804000536
+* –––, 2015, “Luck Egalitarians versus Relational Egalitarians: On the Prospects of a Pluralist Account of Egalitarian Justice”, *Canadian Journal of Philosophy*, 45(2): 220–241. doi: 10.1080/00455091.2015.1061369
+* Lipsky, Dorothy Kerzner and Alan Gartner, 1996, “Inclusion, School Restructuring, and the Remaking of American Society”, *Harvard Educational Review*, 66(4): 762–797. doi: 10.17763/haer.66.4.3686k7x734246430
 * Longmore, Paul K., 1995, “The Second Phase: From Disability Rights to Disability Culture”, *Disability Rag*, 16: 4–11. [[Longmore 1995 available online](https://www.independentliving.org/docs3/longm95.html)]
-* McGuire, Joan M., Sally S. Scott, and Stan F. Shaw, 2006, “Universal Design and Its Applications in Educational Environments”, *Remedial and Special Education*, 27(3): 166–175. doi:10.1177/07419325060270030501
+* McGuire, Joan M., Sally S. Scott, and Stan F. Shaw, 2006, “Universal Design and Its Applications in Educational Environments”, *Remedial and Special Education*, 27(3): 166–175. doi: 10.1177/07419325060270030501
 * Miller, David, 1999, *Principles of Social Justice*, Cambridge, MA: Harvard University Press.
 * Minow, Martha, 1990, *Making All the Difference: Inclusion, Exclusion, and American Law*, Ithaca, NY: Cornell University Press.
-* Nagel, Thomas, 1997, “Justice and Nature”, *Oxford Journal of Legal Studies*, 17(2): 303–322. doi:10.1093/ojls/17.2.303
-* Norman, Richard, 1997, “The Social Basis of Equality”, *Ratio*, 10(3): 238–252. doi:10.1111/1467-9329.00043
-* –––, 1999, “Equality, Priority and Social Justice”, *Ratio*, 12(2): 178–194. doi:10.1111/1467-9329.00086
+* Nagel, Thomas, 1997, “Justice and Nature”, *Oxford Journal of Legal Studies*, 17(2): 303–322. doi: 10.1093/ojls/17.2.303
+* Norman, Richard, 1997, “The Social Basis of Equality”, *Ratio*, 10(3): 238–252. doi: 10.1111/1467-9329.00043
+* –––, 1999, “Equality, Priority and Social Justice”, *Ratio*, 12(2): 178–194. doi: 10.1111/1467-9329.00086
 * Nozick, Robert, 1974, *Anarchy, State and Utopia*, New York: Basic Books; see especially pp. 42–43.
 * Nussbaum, Martha, 1990, “Aristotelian Social Democracy”, in *Liberalism and the Human Good*, R. Bruce Douglass, Gerald M. Mara, and Henry S. Richardson (eds.), London: Routledge, Kegan, Paul.
 * –––, 2006a, *Frontiers of Justice: Disability, Nationality, Species Membership*, Cambridge: Harvard University Press.
-* –––, 2006b, “Replies”, *The Journal of Ethics*, 10(4): 463–506. doi:10.1007/s10892-006-9002-3
-* –––, 2009, “The Capabilities of People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 331–351. doi:10.1111/j.1467-9973.2009.01606.x
+* –––, 2006b, “Replies”, *The Journal of Ethics*, 10(4): 463–506. doi: 10.1007/s10892-006-9002-3
+* –––, 2009, “The Capabilities of People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 331–351. doi: 10.1111/j.1467-9973.2009.01606.x
 * Oliver, Michael, 1990, *The Politics of Disablement*, Basingstoke, UK: Macmillan
-* Oliver, Mike and Gerry Zarb, 1989, “The Politics of Disability: A New Approach”, *Disability, Handicap & Society*, 4(3): 221–239. doi:10.1080/02674648966780261
+* Oliver, Mike and Gerry Zarb, 1989, “The Politics of Disability: A New Approach”, *Disability, Handicap & Society*, 4(3): 221–239. doi: 10.1080/02674648966780261
 * Okin, Susan Moller, 1987, “Justice and Gender” *Philosophy & Public Affairs*, 16(1): 42–72.
-* –––, 1994, “Political Liberalism, Justice, and Gender”, *Ethics*, 105(1): 23–43. doi:10.1086/293677
+* –––, 1994, “Political Liberalism, Justice, and Gender”, *Ethics*, 105(1): 23–43. doi: 10.1086/293677
 * Olkin, Rhoda, 1999, *What Psychotherapists Should Know About Disability*, New York: Guilford Publications.
 * –––, 2003, “Women with Physical Disabilities Who Want to Leave Their Partners”, in Banks and Kaschak 2003: 237–246.
-* Olsen, Kevin, 2001, “Distributive Justice and the Politics of Difference”, *Critical Horizons*, 2(1): 5–32. doi:10.1163/156851601750169982
+* Olsen, Kevin, 2001, “Distributive Justice and the Politics of Difference”, *Critical Horizons*, 2(1): 5–32. doi: 10.1163/156851601750169982
 * Owren, Thomas, 2013, “Autreat and Autscape: Informing and Challenging the Neurotypical Will and Ability to Include”, Masters Thesis, Community Work, Bergen University College, Bergen, Norway.
 * Parens, Erik and Adrienne Asch, 2000, “The Disability Rights Critique of Prenatal Genetic Testing: Reflections and Recommendations”, in *Prenatal Testing and Disability Rights*, Erik Parens and Adrienne Asch (eds.), Washington, DC: Georgetown University Press, pp 3–43.
 * Pogge, Thomas W., 1989, *Realizing Rawls*, Ithaca, NY: Cornell University Press.
-* –––, 1995, “Three Problems with Contractarian-Consequentialist Ways of Assessing Social Institutions”, *Social Philosophy and Policy*, 12(2): 241–266. doi:10.1017/S026505250000474X
-* –––, 2002, “Can the Capability Approach Be Justified?”:, *Philosophical Topics*, 30(2): 167–228. doi:10.5840/philtopics200230216
-* –––, 2004a, “Equal Liberty for All?”, *Midwest Studies in Philosophy*, 28(1): 266–281. doi:10.1111/j.1475-4975.2004.00095.x
+* –––, 1995, “Three Problems with Contractarian-Consequentialist Ways of Assessing Social Institutions”, *Social Philosophy and Policy*, 12(2): 241–266. doi: 10.1017/S026505250000474X
+* –––, 2002, “Can the Capability Approach Be Justified?”:, *Philosophical Topics*, 30(2): 167–228. doi: 10.5840/philtopics200230216
+* –––, 2004a, “Equal Liberty for All?”, *Midwest Studies in Philosophy*, 28(1): 266–281. doi: 10.1111/j.1475-4975.2004.00095.x
 * –––, 2004b, “Relational Conceptions of Justice: Responsibilities for Health Outcomes”, in *Public Health, Ethics and Equity*, Sudhir Anand, Fabienne Peter, and Amartya Sen (eds.), Oxford: Clarendon Press, ch. 7.
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
 * –––, 1993, *Political Liberalism*, New York, NY: Columbia University Press.
 * –––, 2001, *Justice as Fairness: A Restatement*, Erin Kelly (ed.), Cambridge, MA: Harvard University Press.
-* Richardson, Henry S., 2006, “Rawlsian Social-Contract Theory and the Severely Disabled”, *The Journal of Ethics*, 10(4): 419–462. doi:10.1007/s10892-006-9000-5
-* Riddle, Christopher A., 2010, “Indexing, Capabilities, and Disability”, *Journal of Social Philosophy*, 41(4): 527–537. doi:10.1111/j.1467-9833.2010.01514.x
-* Robeyns, Ingrid, 2003, “Is Nancy Fraser’s Critique of Theories of Distributive Justice Justified?”, *Constellations*, 10(4): 538–554. doi:10.1046/j.1351-0487.2003.00352.x
+* Richardson, Henry S., 2006, “Rawlsian Social-Contract Theory and the Severely Disabled”, *The Journal of Ethics*, 10(4): 419–462. doi: 10.1007/s10892-006-9000-5
+* Riddle, Christopher A., 2010, “Indexing, Capabilities, and Disability”, *Journal of Social Philosophy*, 41(4): 527–537. doi: 10.1111/j.1467-9833.2010.01514.x
+* Robeyns, Ingrid, 2003, “Is Nancy Fraser’s Critique of Theories of Distributive Justice Justified?”, *Constellations*, 10(4): 538–554. doi: 10.1046/j.1351-0487.2003.00352.x
 * Samaha, Adam M., 2007, “What Good is the Social Model of Disability?” *University of Chicago Law Review*, 74(4): 1251–1308. [[Samaha 2007 available online](http://uchicagolawjournalsmshaytiubv.devcloud.acquia-sites.com/sites/lawreview.uchicago.edu/files/74_4_Samaha.pdf)]
 * Schartz, Helen A., D. J. Hendricks, and Peter Blanck, 2006, “Workplace Accommodations: Evidence Based Outcomes”, *Work*, 27(4): 345–354.
-* Schemmel, Christian, 2012, “Distributive and Relational Equality”, *Politics, Philosophy & Economics*, 11(2): 123–148. doi:10.1177/1470594X11416774
+* Schemmel, Christian, 2012, “Distributive and Relational Equality”, *Politics, Philosophy & Economics*, 11(2): 123–148. doi: 10.1177/1470594X11416774
 * Schneider, Joseph W. and Peter Conrad, 1985, *Having Epilepsy: The Experience and Control of Illness*, Philadelphia, PA: Temple University Press.
-* Schramme, Thomas, 2010, “Can We Define Mental Disorder by Using the Criterion of Mental Dysfunction?”, *Theoretical Medicine and Bioethics*, 31(1): 35–47. doi:10.1007/s11017-010-9136-y
+* Schramme, Thomas, 2010, “Can We Define Mental Disorder by Using the Criterion of Mental Dysfunction?”, *Theoretical Medicine and Bioethics*, 31(1): 35–47. doi: 10.1007/s11017-010-9136-y
 * Schreuer, Naomi, William N. Myhill, Tal Aratan-Bergman, Deepti Samant, and Peter Blanck, 2009, “Workplace Accommodations: Occupational Therapists as Mediators in the Interactive Process”, *Work*, 34(2): 149–160.
-* Scotch, Richard K., 1988, “Disability as the Basis for a Social Movement: Advocacy and the Politics of Definition”, *Journal of Social Issues*, 44(1): 159–172. doi:10.1111/j.1540-4560.1988
-* Scotch, Richard K. and Kay Schriner, 1997, “Disability as Human Variation: Implications for Policy”, *The Annals of the American Academy of Political and Social Science*, 549(1): 148–159. doi:10.1177/0002716297549001011
+* Scotch, Richard K., 1988, “Disability as the Basis for a Social Movement: Advocacy and the Politics of Definition”, *Journal of Social Issues*, 44(1): 159–172. doi: 10.1111/j.1540-4560.1988
+* Scotch, Richard K. and Kay Schriner, 1997, “Disability as Human Variation: Implications for Policy”, *The Annals of the American Academy of Political and Social Science*, 549(1): 148–159. doi: 10.1177/0002716297549001011
 * Sen, Amartya, 1980, “Equality of What?” in *Tanner Lectures on Human Values, Volume 1*, S. MacMurrin (ed.), Cambridge: Cambridge University Press.
 * Shakespeare, Tom, 2006, *Disability Rights and Wrongs*, New York, NY: Routledge.
-* Sher, George, 1997, *Beyond Neutrality: Perfectionism and Politics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609169
-* Silvers, Anita and Leslie Pickering Francis, 2005, “Justice through Trust: Disability and the ‘Outlier Problem’ in Social Contract Theory”, *Ethics*, 116(1): 40–76. doi:10.1086/454368
-* –––, 2009, “Thinking about the Good: Reconfiguring Liberal Metaphysics (or Not) for People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 475–498. doi:10.1111/j.1467-9973.2009.01602.x
-* Singer, P., J. McKie, H. Kuhse, and J. Richardson, 1995, “Double Jeopardy and the Use of QALYs in Health Care Allocation”, *Journal of Medical Ethics*, 21(3): 144–150. doi:10.1136/jme.21.3.144
-* Sparrow, Robert, 2005, “Defending Deaf Culture: The Case of Cochlear Implants*”, *Journal of Political Philosophy*, 13(2): 135–152. doi:10.1111/j.1467-9760.2005.00217.x
-* Stark, Cynthia A., 2007, “How to Include the Severely Disabled in a Contractarian Theory of Justice”, *Journal of Political Philosophy*, 15(2): 127–145. doi:10.1111/j.1467-9760.2005.00257.x
-* –––, 2009, “Contractarianism and Cooperation”, *Politics, Philosophy & Economics*, 8(1): 73–99. doi:10.1177/1470594X08098872
-* Stubblefield, Anna, 2009, “The Entanglement of Race and Cognitive Dis/Ability”, *Metaphilosophy*, 40(3–4): 531–551. doi:10.1111/j.1467-9973.2009.01603.x
-* Swain, John and Sally French, 2000, “Towards an Affirmation Model of Disability”, *Disability & Society*, 15(4): 569–582. doi:10.1080/09687590050058189
-* Szasz, Thomas S., 1960, “The Myth of Mental Illness”, *American Psychologist*, 15(2): 113–118. doi:10.1037/h0046535
-* Terzi, Lorella, 2009, “Vagaries of the Natural Lottery? Human Diversity, Disability, and Justice”, in Brownlee and Cureton 2009: 86–111. doi:10.1093/acprof:osobl/9780199234509.003.0004
-* Thomas, Carol, 2004, “Rescuing a Social Relational Understanding of Disability”, *Scandinavian Journal of Disability Research*, 6(1): 22–36. doi:10.1080/15017410409512637
-* Tucker, Bonnie Poitras, 1997, “The ADA and Deaf culture: Contrasting Precepts, Conflicting Results”, *The Annals of the American Academy of Political and Social Science*, 549(1), 24–36.
-* Veatch, Robert, 1986,*The Foundation of Justice: Why the Retarded and the Rest of Us Have Claims to Equality*, Oxford: Oxford University Press.
-* Wasserman, David T., 1998, “Distributive Justice”, in *Disability, Difference, Discrimination: Perspectives on Justice in Bioethics and Public Policy*, Anita Silvers, David T. Wasserman, and Mary Briody Mahowald (eds.), Lanham, MD: Rowman and Littlefield.
-* –––, 2001, “Philosophical Issues in the Definition and Social Response to Disability”, in Albrecht, Seelman, and Bury 2001: 219–251. doi:10.4135/9781412976251.n9
+* Sher, George, 1997, *Beyond Neutrality: Perfectionism and Politics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511609169
+* Silvers, Anita and Leslie Pickering Francis, 2005, “Justice through Trust: Disability and the ‘Outlier Problem’ in Social Contract Theory”, *Ethics*, 116(1): 40–76. doi: 10.1086/454368
+* –––, 2009, “Thinking about the Good: Reconfiguring Liberal Metaphysics (or Not) for People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 475–498. doi: 10.1111/j.1467-9973.2009.01602.x
+* Singer, P., J. McKie, H. Kuhse, and J. Richardson, 1995, “Double Jeopardy and the Use of QALYs in Health Care Allocation”, *Journal of Medical Ethics*, 21(3): 144–150. doi: 10.1136/jme.21.3.144
+* Sparrow, Robert, 2005, “Defending Deaf Culture: The Case of Cochlear Implants *”, * Journal of Political Philosophy*, 13(2): 135–152. doi: 10.1111/j.1467-9760.2005.00217.x
+* Stark, Cynthia A., 2007, “How to Include the Severely Disabled in a Contractarian Theory of Justice”, * Journal of Political Philosophy*, 15(2): 127–145. doi: 10.1111/j.1467-9760.2005.00257.x
+* –––, 2009, “Contractarianism and Cooperation”, * Politics, Philosophy & Economics*, 8(1): 73–99. doi: 10.1177/1470594X08098872
+* Stubblefield, Anna, 2009, “The Entanglement of Race and Cognitive Dis/Ability”, * Metaphilosophy*, 40(3–4): 531–551. doi: 10.1111/j.1467-9973.2009.01603.x
+* Swain, John and Sally French, 2000, “Towards an Affirmation Model of Disability”, * Disability & Society*, 15(4): 569–582. doi: 10.1080/09687590050058189
+* Szasz, Thomas S., 1960, “The Myth of Mental Illness”, * American Psychologist*, 15(2): 113–118. doi: 10.1037/h0046535
+* Terzi, Lorella, 2009, “Vagaries of the Natural Lottery? Human Diversity, Disability, and Justice”, in Brownlee and Cureton 2009: 86–111. doi: 10.1093/acprof: osobl/9780199234509.003.0004
+* Thomas, Carol, 2004, “Rescuing a Social Relational Understanding of Disability”, * Scandinavian Journal of Disability Research*, 6(1): 22–36. doi: 10.1080/15017410409512637
+* Tucker, Bonnie Poitras, 1997, “The ADA and Deaf culture: Contrasting Precepts, Conflicting Results”, * The Annals of the American Academy of Political and Social Science*, 549(1), 24–36.
+* Veatch, Robert, 1986,* The Foundation of Justice: Why the Retarded and the Rest of Us Have Claims to Equality*, Oxford: Oxford University Press.
+* Wasserman, David T., 1998, “Distributive Justice”, in * Disability, Difference, Discrimination: Perspectives on Justice in Bioethics and Public Policy*, Anita Silvers, David T. Wasserman, and Mary Briody Mahowald (eds.), Lanham, MD: Rowman and Littlefield.
+* –––, 2001, “Philosophical Issues in the Definition and Social Response to Disability”, in Albrecht, Seelman, and Bury 2001: 219–251. doi: 10.4135/9781412976251.n9
 * –––, 2006, “Disability, Capabilities, and Thresholds for Distributive Justice”, in Kaufman 2006: 214–225.
-* Wasserman, David and Jeff McMahan, 2012, “Cognitive Surrogacy, Assisted Participation, and Moral Status”, in *Medicine and Social Justice: Essays on the Distribution of Health Care*, second edition, Rosamond Rhodes, Margaret Battin, and Anita Silvers (eds.), Oxford: Oxford University Press, 325–334. doi:10.1093/acprof:osobl/9780199744206.003.0027
-* Wendell, Susan, 1989, “Toward a Feminist Theory of Disability”, *Hypatia*, 4(2): 104–124. doi:10.1111/j.1527-2001.1989.tb00576.x
-* –––, 1996, *The Rejected Body: Feminist Philosophical Reflections on Disability*, New York, NY: Routledge.
-* Wikler, Daniel, 1979, “Paternalism and the Mildly Retarded”, *Philosophy & Public Affairs*, 8(4): 377–392.
-* –––, 1987, “Personal Responsibility for Illness”, in *Health Care Ethics: An Introduction*, Donald VanDeVeer and Tom Regan (eds.), Philadelphia, PA: Temple University Press, 326–358.
-* Wolff, Jonathan, 2009a, “Cognitive Disability in a Society of Equals”, *Metaphilosophy*, 40(3–4): 402–415. doi:10.1111/j.1467-9973.2009.01598.x
-* –––, 2009b, “Disability among Equals”, in Brownlee and Cureton 2009: 112–137. doi:10.1093/acprof:osobl/9780199234509.003.0005
-* Wolff, Jonathan and Avner de-Shalit, 2007, *Disadvantage*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199278268.001.0001
-* Wong, Sophia Isako, 2007, “The Moral Personhood of Individuals Labeled ‘Mentally Retarded’: A Rawlsian Response to Nussbaum”, *Social Theory and Practice*, 33(4): 579–594. doi:10.5840/soctheorpract20073343
-* –––, 2009, “Duties of Justice to Citizens with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 382–401. doi:10.1111/j.1467-9973.2009.01604.x
-* Young, Iris Marion, 1990, *Justice and the Politics of Difference*, Princeton: Princeton University Press.
-* Zurn, Christopher F., 2003, “Identity or Status? Struggles over ‘Recognition’ in Fraser, Honneth, and Taylor”, *Constellations*, 10(4): 519–537. doi:10.1046/j.1351-0487.2003.00351.x
+* Wasserman, David and Jeff McMahan, 2012, “Cognitive Surrogacy, Assisted Participation, and Moral Status”, in * Medicine and Social Justice: Essays on the Distribution of Health Care*, second edition, Rosamond Rhodes, Margaret Battin, and Anita Silvers (eds.), Oxford: Oxford University Press, 325–334. doi: 10.1093/acprof: osobl/9780199744206.003.0027
+* Wendell, Susan, 1989, “Toward a Feminist Theory of Disability”, * Hypatia*, 4(2): 104–124. doi: 10.1111/j.1527-2001.1989.tb00576.x
+* –––, 1996, * The Rejected Body: Feminist Philosophical Reflections on Disability*, New York, NY: Routledge.
+* Wikler, Daniel, 1979, “Paternalism and the Mildly Retarded”, * Philosophy & Public Affairs*, 8(4): 377–392.
+* –––, 1987, “Personal Responsibility for Illness”, in * Health Care Ethics: An Introduction*, Donald VanDeVeer and Tom Regan (eds.), Philadelphia, PA: Temple University Press, 326–358.
+* Wolff, Jonathan, 2009a, “Cognitive Disability in a Society of Equals”, * Metaphilosophy*, 40(3–4): 402–415. doi: 10.1111/j.1467-9973.2009.01598.x
+* –––, 2009b, “Disability among Equals”, in Brownlee and Cureton 2009: 112–137. doi: 10.1093/acprof: osobl/9780199234509.003.0005
+* Wolff, Jonathan and Avner de-Shalit, 2007, * Disadvantage*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199278268.001.0001
+* Wong, Sophia Isako, 2007, “The Moral Personhood of Individuals Labeled ‘Mentally Retarded’: A Rawlsian Response to Nussbaum”, * Social Theory and Practice*, 33(4): 579–594. doi: 10.5840/soctheorpract20073343
+* –––, 2009, “Duties of Justice to Citizens with Cognitive Disabilities”, * Metaphilosophy*, 40(3–4): 382–401. doi: 10.1111/j.1467-9973.2009.01604.x
+* Young, Iris Marion, 1990, * Justice and the Politics of Difference*, Princeton: Princeton University Press.
+* Zurn, Christopher F., 2003, “Identity or Status? Struggles over ‘Recognition’ in Fraser, Honneth, and Taylor”, * Constellations*, 10(4): 519–537. doi: 10.1046/j.1351-0487.2003.00351.x
 
 ## Academic Tools
 

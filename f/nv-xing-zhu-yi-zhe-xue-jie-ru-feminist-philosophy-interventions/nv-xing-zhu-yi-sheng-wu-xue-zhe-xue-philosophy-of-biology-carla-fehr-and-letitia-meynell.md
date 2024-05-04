@@ -12,7 +12,7 @@
 
 女性主义生物哲学与非女性主义生物哲学有许多共同之处，它高度跨学科，边界不明确。主要贡献者包括科学家和哲学家。对生物哲学实践有两种一般且常常密切相关的方法。首先，生物哲学家使用哲学方法分析生物科学中的中心问题，如自然选择、适应性、适应和基因的本质。其次，生物哲学从生物科学的角度而非传统的物理学角度，探讨科学哲学的中心问题，如还原主义、自然法则和理论变化。生物哲学常常受到自然主义方法的启发，意味着工作与相关科学的实际历史和实践密切相关。生物哲学家通常在他们的职业生涯中的某个阶段，会与科学本身有显著的联系，无论是进行生物研究，还是与生物学家合作进行研究或教学项目。
 
-女性主义生物哲学的边界同样模糊不清。在本条目中引用的许多作者是否主要认为自己是生物哲学家、科学研究学者还是科学家并不清楚。此外，生物学家和其他具有独特但相关的进步政治承诺的哲学家（例如，Richard Lewontin 和 Stephen Jay Gould）对许多与女性主义批评共享许多内容的主流项目提出了批评，一些哲学家可能被归类为其中的任一阵营（例如，John Dupré和 Helen Longino）。女性主义和非女性主义生物哲学之间的界限变得越来越模糊，因为女性主义者对生物学和科学哲学的许多批评逐渐被主流接受。毫不奇怪，生物哲学的两种一般方法也在女性主义生物哲学中得到推广。
+女性主义生物哲学的边界同样模糊不清。在本条目中引用的许多作者是否主要认为自己是生物哲学家、科学研究学者还是科学家并不清楚。此外，生物学家和其他具有独特但相关的进步政治承诺的哲学家（例如，Richard Lewontin 和 Stephen Jay Gould）对许多与女性主义批评共享许多内容的主流项目提出了批评，一些哲学家可能被归类为其中的任一阵营（例如，John Dupré 和 Helen Longino）。女性主义和非女性主义生物哲学之间的界限变得越来越模糊，因为女性主义者对生物学和科学哲学的许多批评逐渐被主流接受。毫不奇怪，生物哲学的两种一般方法也在女性主义生物哲学中得到推广。
 
 首先，许多女性主义生物哲学家关注生物概念和知识主张，特别是关于性别和性别（参见女性主义对性别和性别观点的条目），以及性别意识形态对生物研究的影响。由于这些概念对接下来的内容至关重要，并且与之相关的混淆和争议频繁出现，值得澄清我们究竟指的是什么。在很大程度上受到 Judith Butler（1990）等酷儿理论家的启发，性别、性别本身以及它们与性取向的关系变得日益具有争议性。在这里，我们采纳 Sari van Anders 对性别、性别和性别/性别（2015）的定义。
 
@@ -38,7 +38,7 @@
 
 #### 2.1.1 反压迫动机
 
-女性主义者认为生物学对她们非常重要，因为妇女的生物学被用来合理化妇女的压迫。有许多生物学论据支持对妇女的压迫。例如，十九世纪爱德华·H·克拉克（Edward H. Clarke）认为，深入研究会通过将能量从子宫转移到大脑来对妇女造成身体伤害。他声称，高等教育会导致女性拥有“畸形的大脑和瘦弱的身体……[以及]异常虚弱的消化”（Clarke 1874: 41）。当然，用生物理论来解释和暗中证明妇女受压迫的情况早在此之前就已存在（参见 Schiebinger 1989，尤其是第 10 章），实际上可以追溯到亚里士多德（Deslauriers 2022）。毫不奇怪，关于妇女“天生”劣势的这种论点一直是女性主义生物学哲学的焦点（例如参见 Hubbard 1990）。同样，进化论的论点可能为性别主义或压迫性做出基础性支持，例如，关于对妇女施加暴力的适应性论点（详见 Thornhill & Palmer 2000，这一研究项目的可读介绍），已经引起女性主义者的强烈关注（例如参见 Travis 2003a 中的论文）。哈佛前校长劳伦斯·萨默斯（Lawrence Summers）并不是第一个使用关于男女智力分布不同的生物学论点来证明妇女缺席社会权力职位和高级职业的人（Wilson 1978；Summers 2005）。在这方面，女性主义者做出了重要回应（Bleier 1984；Fausto-Sterling 1985 [1992]；Fehr 2008）。
+女性主义者认为生物学对她们非常重要，因为妇女的生物学被用来合理化妇女的压迫。有许多生物学论据支持对妇女的压迫。例如，十九世纪爱德华 ·H· 克拉克（Edward H. Clarke）认为，深入研究会通过将能量从子宫转移到大脑来对妇女造成身体伤害。他声称，高等教育会导致女性拥有“畸形的大脑和瘦弱的身体……[以及] 异常虚弱的消化”（Clarke 1874: 41）。当然，用生物理论来解释和暗中证明妇女受压迫的情况早在此之前就已存在（参见 Schiebinger 1989，尤其是第 10 章），实际上可以追溯到亚里士多德（Deslauriers 2022）。毫不奇怪，关于妇女“天生”劣势的这种论点一直是女性主义生物学哲学的焦点（例如参见 Hubbard 1990）。同样，进化论的论点可能为性别主义或压迫性做出基础性支持，例如，关于对妇女施加暴力的适应性论点（详见 Thornhill & Palmer 2000，这一研究项目的可读介绍），已经引起女性主义者的强烈关注（例如参见 Travis 2003a 中的论文）。哈佛前校长劳伦斯 · 萨默斯（Lawrence Summers）并不是第一个使用关于男女智力分布不同的生物学论点来证明妇女缺席社会权力职位和高级职业的人（Wilson 1978；Summers 2005）。在这方面，女性主义者做出了重要回应（Bleier 1984；Fausto-Sterling 1985 [1992]；Fehr 2008）。
 
 #### 反对二态性
 
@@ -46,7 +46,7 @@
 
 #### 获取生物学正确
 
-最后，许多女性主义生物哲学也非常关心确保生物学的准确性。许多女性主义生物哲学家最初接受科学训练，不仅对批判感兴趣，而且对改进科学实践也感兴趣，特别是与性别、性别/性有关的实践。女性主义哲学家已经记录了女性主义对改进生物科学实践的影响。例如，唐娜·哈拉维（Donna Haraway）的著作《灵长类动物的幻象》（Primate Visions，1989）记录了将女性主义妇女纳入灵长类动物学研究对灵长类动物行为研究以及更普遍的动物行为研究的影响。哈拉维表明，女性主义灵长类动物学家琼·奥尔特曼（Jeanne Altmann）发起了一场悄然而强大的方法论革命。在动物行为研究中最常被引用的论文之一《行为的观察研究：采样方法》（1974 年）中，奥尔特曼评估了一系列采样方法，并在此过程中开发了一种方法，即焦点动物采样，这种方法颠覆了以往生成性别歧视领导和控制描述的研究，并促进了对雌性灵长类动物以及母性等新主题的研究。奥尔特曼对灵长类动物学中发现的男性中心主义和不够严谨的方法论感到困扰，她将自己作为一个女性、一个女性主义者、一个母亲和一个接受过数学训练的科学家的观点融入到改进研究方法中。焦点动物采样为研究雌性灵长类动物的社会行为提供了一种有效的方法，并已成为动物行为研究中的一种重要方法。哈拉维对奥尔特曼在灵长类动物学和动物行为研究中的贡献的描述提供了女性主义和女性主义科学家对科学研究实践和成果的积极影响的一个例子（另见斯特鲁姆和费迪根 2000 年）。
+最后，许多女性主义生物哲学也非常关心确保生物学的准确性。许多女性主义生物哲学家最初接受科学训练，不仅对批判感兴趣，而且对改进科学实践也感兴趣，特别是与性别、性别/性有关的实践。女性主义哲学家已经记录了女性主义对改进生物科学实践的影响。例如，唐娜 · 哈拉维（Donna Haraway）的著作《灵长类动物的幻象》（Primate Visions，1989）记录了将女性主义妇女纳入灵长类动物学研究对灵长类动物行为研究以及更普遍的动物行为研究的影响。哈拉维表明，女性主义灵长类动物学家琼 · 奥尔特曼（Jeanne Altmann）发起了一场悄然而强大的方法论革命。在动物行为研究中最常被引用的论文之一《行为的观察研究：采样方法》（1974 年）中，奥尔特曼评估了一系列采样方法，并在此过程中开发了一种方法，即焦点动物采样，这种方法颠覆了以往生成性别歧视领导和控制描述的研究，并促进了对雌性灵长类动物以及母性等新主题的研究。奥尔特曼对灵长类动物学中发现的男性中心主义和不够严谨的方法论感到困扰，她将自己作为一个女性、一个女性主义者、一个母亲和一个接受过数学训练的科学家的观点融入到改进研究方法中。焦点动物采样为研究雌性灵长类动物的社会行为提供了一种有效的方法，并已成为动物行为研究中的一种重要方法。哈拉维对奥尔特曼在灵长类动物学和动物行为研究中的贡献的描述提供了女性主义和女性主义科学家对科学研究实践和成果的积极影响的一个例子（另见斯特鲁姆和费迪根 2000 年）。
 
 总的来说，进行女性主义生物哲学研究的动机包括挑战生物学对女性压迫的理论基础，包括其所依赖的二态假设，并改进生物研究的实践和成果，特别是关于性别、性别和性别/性别的研究。
 
@@ -56,7 +56,7 @@
 
 #### 偏见
 
-女性主义生物哲学中最大的工作内容涉及揭示性别主义和以男性为中心的偏见，目标是消除它。该领域的核心和早期工作记录了在广泛的生物学性别和性别解释中存在女性被动和男性主动的假设。例如，批评性别决定研究（Birke 1986; Bleier 1984）、受精（Martin 1991）、人类进化（Bleier 1984; Fausto-Sterling 1985 [1992]; Hubbard 1990）和灵长类学科（Hrdy 1986, 1997, 以及 Haraway 1989）的例子。 （这种模式的普遍性可能与其亚里士多德起源有关[Deslauriers 2022]）。女性主义对生物学中的性别偏见的研究侧重于消除被当代社会价值观所影响的有关女性生物学的神话，并促进更准确揭示有关性别、性别和性别/性别事实的生物学研究的产生。从这个意义上说，女性主义视角被视为一种控制，其目标是消除偏见——特别是性别主义和以男性为中心的社会价值观——从科学研究中。例如，生物学与性别研究小组（1988: 61–62）写道，
+女性主义生物哲学中最大的工作内容涉及揭示性别主义和以男性为中心的偏见，目标是消除它。该领域的核心和早期工作记录了在广泛的生物学性别和性别解释中存在女性被动和男性主动的假设。例如，批评性别决定研究（Birke 1986; Bleier 1984）、受精（Martin 1991）、人类进化（Bleier 1984; Fausto-Sterling 1985 [1992]; Hubbard 1990）和灵长类学科（Hrdy 1986, 1997, 以及 Haraway 1989）的例子。 （这种模式的普遍性可能与其亚里士多德起源有关 [Deslauriers 2022]）。女性主义对生物学中的性别偏见的研究侧重于消除被当代社会价值观所影响的有关女性生物学的神话，并促进更准确揭示有关性别、性别和性别/性别事实的生物学研究的产生。从这个意义上说，女性主义视角被视为一种控制，其目标是消除偏见——特别是性别主义和以男性为中心的社会价值观——从科学研究中。例如，生物学与性别研究小组（1988: 61–62）写道，
 
 > 我们已经开始将女性主义批判视为我们将任何其他实验控制一样看待。每当进行实验时，我们会尽可能设置所有可以想到的控制条件，以尽可能确保所获得的结果不是来自其他任何来源。人们会问自己正在做出什么假设。我是否假设温度是恒定的？我是否假设 pH 值在反应过程中不会改变？女性主义批判询问是否有一些关于性别偏见的假设我们尚未检查。这样，女性主义批判应该成为规范科学的一部分。就像任何控制条件一样，它旨在提供批判性严谨性，忽视这种批判就是忽视一个可能的错误来源。
 
@@ -66,9 +66,9 @@
 
 #### 2.2.2 科学作为一个价值导向的社会实践
 
-海伦·朗吉诺（Helen Longino）发展了一种有影响力的科学知识生产社会解释，批判性语境经验主义（1990 年，2002 年）。这一观点受到她与鲁思·多尔（Ruth Doell）早期合作的研究的启发（Longino＆Doell 1983），研究对象是生物模型中荷尔蒙在性行为发展中的作用。朗吉诺指出理论与研究人员用来评估该理论的证据之间存在推理差距。她认为研究人员通过背景假设来弥合证据和理论之间的差距，而这些假设可能是他们不知道的。背景假设包括认识论和语境价值，语境价值可以包括性别社会价值（当然还有其他压迫轴相关的价值）。她认为，科学社区在包括持有不同背景假设的成员并认真对待持异议观点时，最大程度地实现客观性和理据性。这种批判视角的多样性促进了对构成研究实践的背景假设（包括那些性别歧视和以男性为中心的假设）的认识和批判评估。社区随后可以决定这些假设是否符合其研究目标。朗吉诺通过包括人类性别差异的进化、行为内分泌学和神经生物学在内的例子表明，性别假设构建了生物学中一系列研究项目。她写道
+海伦 · 朗吉诺（Helen Longino）发展了一种有影响力的科学知识生产社会解释，批判性语境经验主义（1990 年，2002 年）。这一观点受到她与鲁思 · 多尔（Ruth Doell）早期合作的研究的启发（Longino＆Doell 1983），研究对象是生物模型中荷尔蒙在性行为发展中的作用。朗吉诺指出理论与研究人员用来评估该理论的证据之间存在推理差距。她认为研究人员通过背景假设来弥合证据和理论之间的差距，而这些假设可能是他们不知道的。背景假设包括认识论和语境价值，语境价值可以包括性别社会价值（当然还有其他压迫轴相关的价值）。她认为，科学社区在包括持有不同背景假设的成员并认真对待持异议观点时，最大程度地实现客观性和理据性。这种批判视角的多样性促进了对构成研究实践的背景假设（包括那些性别歧视和以男性为中心的假设）的认识和批判评估。社区随后可以决定这些假设是否符合其研究目标。朗吉诺通过包括人类性别差异的进化、行为内分泌学和神经生物学在内的例子表明，性别假设构建了生物学中一系列研究项目。她写道
 
-> 长期以来对女性和种族少数群体的声音的贬低意味着这种[种族主义和性别歧视]的假设一直免受批判性审查的保护。(1990: 78–79)
+> 长期以来对女性和种族少数群体的声音的贬低意味着这种 [种族主义和性别歧视] 的假设一直免受批判性审查的保护。(1990: 78–79)
 
 这暗示着这些种族主义和性别歧视的假设，如果受到批判性审视，将被视为不可接受。在科学中非认识价值的重要性越来越受到生物哲学的非女性主义哲学家的认可（例如，Kitcher 2001; Reydon & Ereshefsky 2022），尽管在生物哲学领域一直存在着政治化的进步声音，关注这些价值在生物科学中的作用（例如，Gould 1981; Hull 1986; Lewontin 1992; Dupré 1993）。
 
@@ -76,15 +76,15 @@
 
 #### 2.2.3 Situated knowledge2.2.3 情境知识
 
-唐娜·哈拉维(Donna Haraway)引入了“情境知识”(situated knowledge)的概念，这个想法在学术女性主义中产生了很大影响，包括女性主义认识论(1988)。在她的著作《灵长类视野》(Primate Visions) (1989) 中，她探讨了灵长类学如何构建关于自然、性别和种族范畴的政治叙事，以及这些范畴如何与特定视角相结合，这些视角位于社会和物质位置。她还揭示了女性主义灵长类学家将灵长类学转变为一种被一些人称为女性主义科学的方式(另见 Fedigan 1997)。
+唐娜 · 哈拉维(Donna Haraway)引入了“情境知识”(situated knowledge)的概念，这个想法在学术女性主义中产生了很大影响，包括女性主义认识论(1988)。在她的著作《灵长类视野》(Primate Visions) (1989) 中，她探讨了灵长类学如何构建关于自然、性别和种族范畴的政治叙事，以及这些范畴如何与特定视角相结合，这些视角位于社会和物质位置。她还揭示了女性主义灵长类学家将灵长类学转变为一种被一些人称为女性主义科学的方式(另见 Fedigan 1997)。
 
 将知识视为具体情境下的概念削弱了一个通过使用科学方法可以从中立的无处不在视角中获得知识的普遍认知主体的概念。知识主体，包括生物学家在内，被认为是具有文化位置和具体体现的，这意味着一个人具有特定的物质、历史和社会位置（例如一个人的位置可能包括作为一个女性、女性主义者、科学家、英美人、异性恋者等）。这意味着我们获得知识和产生的知识的视角是片面的，既在于不完整，也在于被自身独特的兴趣和偏好所影响。一个人的视角不仅影响着一个人的兴趣，所提出的问题以及回答这些问题所使用的方法、理论和策略；它还影响着一个人的本体论，即一个人调查的对象和事物种类。
 
 女性主义观点不仅仅是片面的，而非女性主义观点也是片面的。事实上，即使一个被普遍接受且有充分证据支持的理论可能最终被证明存在严重缺陷，这是因为它建立在政治上有害或经验上可疑的假设之上，如果这些假设被所有竞争性假设所共享。Kathleen Okruhlik 的《Gender and the Biological Sciences》（1994）巧妙地展示了广泛认可的观点的不足之处，即经验方法，如果谨慎应用，可以保护科学结果免受偏见影响。这一观点意味着女性主义的顾虑可以被忽视，只要我们仔细关注观察到的事实，并确保所采用的理论最好地解释这些观察结果。为了阐明这一观点，Okruhlik 建议我们考虑这样一种可能性：在一个父权社会中，所有关于女性行为的提出的理论都可能被性别歧视所影响。在这样一个社会中，
 
-> 非性别歧视的[对立假设]甚至不会被提出。因此，通过科学评估准则选择的理论将简单地成为性别歧视对手中最好的一个；而科学的内容将是性别歧视的，无论我们在论证的背景下如何严格应用客观标准进行评估。实际上，在连续的测试之后，最好的性别歧视理论将越来越受到确认。(1994 [1998: 202])
+> 非性别歧视的 [对立假设] 甚至不会被提出。因此，通过科学评估准则选择的理论将简单地成为性别歧视对手中最好的一个；而科学的内容将是性别歧视的，无论我们在论证的背景下如何严格应用客观标准进行评估。实际上，在连续的测试之后，最好的性别歧视理论将越来越受到确认。(1994 [1998: 202])
 
-传统的非女性主义客观性观点将这种偏见定位为一个需要尽可能克服的缺陷，而女性主义者则将处境性视为一种不可避免的认识现实，可能是有害的或富有成效的，但只有在被忽视或否认时才会造成麻烦。我们可以看到一种富有成效的处境性知识，如琼·奥尔特曼（Jeanne Altmann）从一个女性、一个母亲和一个女性主义者的角度出发，开发了允许系统研究雌性灵长类动物之间以及母亲与子女之间通常不引人注目的互动的方法论。另一个来自《灵长类动物视野》（Primate Visions，哈拉维，1989）的例子是阿德里安·齐尔曼（Adrienne Zihlman）对通常将性二型化与（通常是雄性的）支配联系起来的批评。齐尔曼与南希·坦纳（Nancy Tanner）共同提出了早期人类进化的“女性采集者”理论而闻名，她有意发展了一种女性主义立场来看待性别和科学。齐尔曼认为性二型化不是一个统一的现象。不同物种的性二型化不仅程度不同，而且方式不同，包括骨长和结构、肌肉或脂肪组织的建造倾向，以及/或犬齿大小。这些不同类型的性二型化可能与攻击能力的差异和觅食策略的差异有关，这两者都与性别差异的进化解释相关。齐尔曼作为一名女性主义科学家的立场使她能够专注于性二型化的异质性和复杂性，并削弱了将一般性别二型化与男性支配联系起来的观念。
+传统的非女性主义客观性观点将这种偏见定位为一个需要尽可能克服的缺陷，而女性主义者则将处境性视为一种不可避免的认识现实，可能是有害的或富有成效的，但只有在被忽视或否认时才会造成麻烦。我们可以看到一种富有成效的处境性知识，如琼 · 奥尔特曼（Jeanne Altmann）从一个女性、一个母亲和一个女性主义者的角度出发，开发了允许系统研究雌性灵长类动物之间以及母亲与子女之间通常不引人注目的互动的方法论。另一个来自《灵长类动物视野》（Primate Visions，哈拉维，1989）的例子是阿德里安 · 齐尔曼（Adrienne Zihlman）对通常将性二型化与（通常是雄性的）支配联系起来的批评。齐尔曼与南希 · 坦纳（Nancy Tanner）共同提出了早期人类进化的“女性采集者”理论而闻名，她有意发展了一种女性主义立场来看待性别和科学。齐尔曼认为性二型化不是一个统一的现象。不同物种的性二型化不仅程度不同，而且方式不同，包括骨长和结构、肌肉或脂肪组织的建造倾向，以及/或犬齿大小。这些不同类型的性二型化可能与攻击能力的差异和觅食策略的差异有关，这两者都与性别差异的进化解释相关。齐尔曼作为一名女性主义科学家的立场使她能够专注于性二型化的异质性和复杂性，并削弱了将一般性别二型化与男性支配联系起来的观念。
 
 女性主义生物哲学家中普遍存在的认识局限性和情境性的欣赏，构成了一种广泛的认识论多元主义。这不仅源于对研究进行的不同社会和认识论背景的认可，还源于生物现象本身的复杂性、偶然性和异质性（在下一节中讨论）。女性主义生物哲学家通常愿意接受对同一现象的多种解释，并可能将此视为一种优点，这源自对这些本体论和/或认识论可能性的关注（前提是，这些解释是经过良好构建和有充分证据支持的）（Longino 2002; Fehr 2004）。例如，女性主义者批评了关于人类进化的“男人-猎人”理论，因为它们专注于复杂且多样化的进化历史的单一原因，即狩猎（Bleier 1984）。他们指出，虽然狩猎起到了一定作用，但采集很可能是主要的营养来源，并且许多因素的相互作用，如语言和文化的发展，很可能在人类进化中发挥了重要作用。
 
@@ -102,7 +102,7 @@
 
 这些关于基因表达的偶然性的见解在进化解释中经常被忽略。然而，显而易见的是，即使一个特征是自然选择的结果，或者换句话说是一种适应性，也并不意味着这种特征在一个群体中是统一表达的，或者在个体中是静态的。除此之外，一些适应性特征几乎总是存在，而另一些则需要非常具体的环境条件才能发展。一个人可能具有某种特征的基因相关性，而这种特征可能是自然选择的结果，然而改变环境可能会消除该特征的表达。此外，许多特征允许在发育环境中表现出一系列不同的可能性。一些人，包括女性主义者，已经指出了这些“反应规范”对于理解群体内发现的多样性以及欣赏它们的偶然性的重要性（Fausto-Sterling 1997; Meynell 2008; Jordan-Young 2010）。
 
-人口的多样性不仅受到发展的偶然因素的驱动，也受到进化过程的影响。尽管自然选择的解释在一代代之间是随机的，但在漫长的进化时间内往往被视为确定性的，产生了被认为是某一物种特征的适应性。然而，一些特征已经适应了过去的环境条件，并且在当前条件下并不增强其持有者的适应性。在非选择性条件下，特征往往会多样化，因为适应性中性的随机突变会在代代之间增加。一些特征使其持有者具有适应性优势，但并非自然选择的结果，因此不是适应性。其中一些可能是其他选择过程的副产品。伊丽莎白·劳埃德提出了一个有力的论点，即（人类）女性性高潮是这样一个例子——男性性高潮的选择压力和阴茎与阴蒂的发育同源的“奇妙奖励”（2005 年）。在她的著作《女性性高潮案例》中，劳埃德对多种自然选择解释进行了批判，声称它们是男性中心主义的——假设与证据相反，女性性反应与男性相似——以及适应主义——断然拒绝有趣特征（如女性性高潮）可能是除了自然选择之外的任何事物。对于人类物种中这种特征的复杂性、偶然性和多样性，简单、简化、确定性的“功能”故事是不准确的。最后，值得记住的是，自然选择本身只能作用于足够多样化的人口，以使得特征足够不同，从而在它们之间存在适应性差异。因此，简化主义、确定论和本质主义的解释在进化生物学、发育生物学或遗传学中并不被支持。自然与培育之间的任何明显差距都可以被认为是一个“幻觉”（2010 年凯勒），并且对于某一物种（或性别）的静态和普遍“本质”的任何描述在未经证实之前都应被视为可疑。
+人口的多样性不仅受到发展的偶然因素的驱动，也受到进化过程的影响。尽管自然选择的解释在一代代之间是随机的，但在漫长的进化时间内往往被视为确定性的，产生了被认为是某一物种特征的适应性。然而，一些特征已经适应了过去的环境条件，并且在当前条件下并不增强其持有者的适应性。在非选择性条件下，特征往往会多样化，因为适应性中性的随机突变会在代代之间增加。一些特征使其持有者具有适应性优势，但并非自然选择的结果，因此不是适应性。其中一些可能是其他选择过程的副产品。伊丽莎白 · 劳埃德提出了一个有力的论点，即（人类）女性性高潮是这样一个例子——男性性高潮的选择压力和阴茎与阴蒂的发育同源的“奇妙奖励”（2005 年）。在她的著作《女性性高潮案例》中，劳埃德对多种自然选择解释进行了批判，声称它们是男性中心主义的——假设与证据相反，女性性反应与男性相似——以及适应主义——断然拒绝有趣特征（如女性性高潮）可能是除了自然选择之外的任何事物。对于人类物种中这种特征的复杂性、偶然性和多样性，简单、简化、确定性的“功能”故事是不准确的。最后，值得记住的是，自然选择本身只能作用于足够多样化的人口，以使得特征足够不同，从而在它们之间存在适应性差异。因此，简化主义、确定论和本质主义的解释在进化生物学、发育生物学或遗传学中并不被支持。自然与培育之间的任何明显差距都可以被认为是一个“幻觉”（2010 年凯勒），并且对于某一物种（或性别）的静态和普遍“本质”的任何描述在未经证实之前都应被视为可疑。
 
 类似的简化主义、决定论研究项目可以在性别差异研究中找到，这些研究从染色体到激素再到大脑和行为。这类研究通常假定性别二态性，然后寻找数据来证实这一点。通常情况下，尽管存在许多人口中的成员不容易被简单地归类为男性或女性（无论在手头的具体研究中如何定义），尽管数据显示在所测量的任何方面两性之间存在相当大的重叠，但结果被解释为揭示了两种本质上不同的类型：男性染色体和女性染色体；男性激素和女性激素；男性大脑和女性大脑。
 
@@ -116,7 +116,7 @@ Sarah Richardson 在《性别本身：人类基因组中男性和女性的探寻
 
 在出生后，诸如幼崽自身的激素、母性关怀（取决于幼崽的性别）、物理环境以及其他幼崽会影响成年性行为。当幼崽成年后，其物理和社会环境中的因素，以及其激素状态和自身行为会影响其性行为。互动主义模型并不忽视低层次的原因，比如基因或激素，它只是拒绝将它们优先于可能被视为更高层次的环境和社会行为原因。
 
-最近，Sari van Anders、Jeffrey Steiger 和 Katherine Goldey 对互动主义观点进行了测试，研究了“性别→睾酮途径，突出了社会化对人类生物学的影响”（2015: 13805）。在男性和女性中测量在以“性别刻板方式”行使权力后睾酮水平的变化，他们发现“无论如何行使权力，都会显著增加睾酮水平”（2015: 13807），至少在女性中是如此。这些结果表明，线性激素模型不足以解释通过性别社会化获得的性别典型行为（如竞争和行使权力）“可能导致人类睾酮水平的变化”（2015: 13808）。
+最近，Sari van Anders、Jeffrey Steiger 和 Katherine Goldey 对互动主义观点进行了测试，研究了“性别 → 睾酮途径，突出了社会化对人类生物学的影响”（2015: 13805）。在男性和女性中测量在以“性别刻板方式”行使权力后睾酮水平的变化，他们发现“无论如何行使权力，都会显著增加睾酮水平”（2015: 13807），至少在女性中是如此。这些结果表明，线性激素模型不足以解释通过性别社会化获得的性别典型行为（如竞争和行使权力）“可能导致人类睾酮水平的变化”（2015: 13808）。
 
 将许多性别差异研究项目联系在一起的假设是，性别行为是由男性和女性大脑之间的差异引起的。女性主义与生物学的长期互动历史被用来支持涉及男性和女性大脑差异以及性激素对行为特征表达的影响的决定论论点。这一领域的许多最新工作被称为神经女性主义（尽管并非所有人都使用这个称号），其中包括神经科学的女性主义实践以及神经科学的女性主义学术研究（Fine 2010; Bluhm et al. 2012; Schmitz & Höppner 2014; Rippon 2019）。神经女性主义，像女性主义生物哲学的其他领域一样，既具有批判性又具有建设性的元素，包括关于性别社会价值观对神经科学的影响以及神经科学研究如何使有害的性别社会价值观和结构得以实现的研究。
 
@@ -128,7 +128,7 @@ Sarah Richardson 在《性别本身：人类基因组中男性和女性的探寻
 
 性少数群体，尤其是从事同性性行为的人，在大脑组织理论中具有特殊的重要性，因为他们的行为被认为与其性别不符合，因此假定存在某种遗传或激素因素是导致这种情况的原因。由于雌雄同体者具有不典型的生殖器官或不典型的染色体和激素水平影响其发育（参见 Fausto-Sterling 2000b，了解雌雄同体状况的有用概述），因此他们也具有特殊的重要性。Catherine Clune-Taylor 已经展示了大脑组织理论如何塑造了对雌雄同体状况的人的标准治疗方法（2019）。她认为，“当代雌雄同体管理既使顺性别生活的正常化得以实现，又在实质上构成了这种正常化”（2019: 691）。
 
-女性主义关注还原主义、决定论和本质主义，特别是在它们应用于性别二元性时，因为它们被用来否认和压制人类的多样性，特别是性别和性别多样性。在我们的社会中，那些被认为真正存在的类型经常被放置在价值等级制度中，他们的成员被期望（最好的情况下）或被强迫（最坏的情况下）扮演特定的社会角色并以特定方式行为，从而限制了他们的自由。此外，将性别和性别差异视为由简单的二元遗传机制决定的，这些机制决定了简单的二元激素机制，这些机制决定了大脑功能，最终决定了行为，这被认为意味着许多特征——从竞争性、性早熟、到颜色偏好——可能被合理地假定为完全由文化驱动的性别特征是生物学给定的性别特征。这似乎排除了在比进化时间尺度更快的任何时间内实现更公正和更平等的社会安排的可能性，甚至在那之后也不一定。当然，激发女性主义批评的不仅仅是这些还原主义、决定论和本质主义假设在政治上是有害的事实。它们也普遍是错误的。正如约翰·杜普雷（John Dupré）指出的那样，“与[性别和性别本质主义]相关联的生物决定论在科学上已不再可靠”（2021: 57）。这也是为什么它们也受到非女性主义生物哲学家的广泛批评，比如大卫·赫尔（David Hull）对还原主义的批评（1972 年，1974 年）（请参阅生物学中还原主义的条目进行彻底审查）或保罗·格里菲斯（Paul Griffith）对先天性和民间本质主义的批评（2002 年）。
+女性主义关注还原主义、决定论和本质主义，特别是在它们应用于性别二元性时，因为它们被用来否认和压制人类的多样性，特别是性别和性别多样性。在我们的社会中，那些被认为真正存在的类型经常被放置在价值等级制度中，他们的成员被期望（最好的情况下）或被强迫（最坏的情况下）扮演特定的社会角色并以特定方式行为，从而限制了他们的自由。此外，将性别和性别差异视为由简单的二元遗传机制决定的，这些机制决定了简单的二元激素机制，这些机制决定了大脑功能，最终决定了行为，这被认为意味着许多特征——从竞争性、性早熟、到颜色偏好——可能被合理地假定为完全由文化驱动的性别特征是生物学给定的性别特征。这似乎排除了在比进化时间尺度更快的任何时间内实现更公正和更平等的社会安排的可能性，甚至在那之后也不一定。当然，激发女性主义批评的不仅仅是这些还原主义、决定论和本质主义假设在政治上是有害的事实。它们也普遍是错误的。正如约翰 · 杜普雷（John Dupré）指出的那样，“与 [性别和性别本质主义] 相关联的生物决定论在科学上已不再可靠”（2021: 57）。这也是为什么它们也受到非女性主义生物哲学家的广泛批评，比如大卫 · 赫尔（David Hull）对还原主义的批评（1972 年，1974 年）（请参阅生物学中还原主义的条目进行彻底审查）或保罗 · 格里菲斯（Paul Griffith）对先天性和民间本质主义的批评（2002 年）。
 
 ### 3.2 隐喻
 
@@ -160,7 +160,7 @@ Sarah Richardson 在《性别本身：人类基因组中男性和女性的探寻
 
 在这种观点中，孔雀昂贵且危险的展示是雌性对具有最美丽展示的雄性的偏爱的结果。值得注意的是，达尔文发展了他对雌性选择的概念，以解释那些从单纯自然选择的角度看似不适应的特征。
 
-女性主义学者中，尤其是 Ruth Hubbard（1990），清楚指出达尔文关于雄性争相竞争以获取内向和挑剔雌性的描述与维多利亚时代的性别价值观存在密切的相似之处（另见，Fausto-Sterling 1985 [1992]）。还指出，达尔文赋予雌性的选择活动是由雌性对美的关注引起的，因此往往对雄性的生存和物种本身都产生负面影响。然而，女性主义者揭示了达尔文之所以独特之处，因为他理论化动物中的雌性选择实际上具有任何进化后果。例如，正如 Helena Cronin（1991）所指出的，达尔文的同时代人，尤其是 Alfred Russell Wallace，几位女性主义学者，尤其是露丝·哈伯德（1990 年），明确指出达尔文关于雄性争相竞争以获取内向和挑剔雌性的描述与维多利亚时代的性别价值观存在密切的相似之处（另见，福斯托-斯特林 1985 [1992]）。还指出，达尔文赋予雌性的选择活动是由雌性对美的关注引起的，因此往往对雄性的生存和物种本身都产生负面影响。然而，女性主义者揭示了达尔文之所以独特之处，因为他理论化动物中的雌性选择实际上具有任何进化后果。例如，正如海伦娜·克罗宁（1991）所指出的，达尔文的同时代人，尤其是阿尔弗雷德·罗素·华莱士，
+女性主义学者中，尤其是 Ruth Hubbard（1990），清楚指出达尔文关于雄性争相竞争以获取内向和挑剔雌性的描述与维多利亚时代的性别价值观存在密切的相似之处（另见，Fausto-Sterling 1985 [1992]）。还指出，达尔文赋予雌性的选择活动是由雌性对美的关注引起的，因此往往对雄性的生存和物种本身都产生负面影响。然而，女性主义者揭示了达尔文之所以独特之处，因为他理论化动物中的雌性选择实际上具有任何进化后果。例如，正如 Helena Cronin（1991）所指出的，达尔文的同时代人，尤其是 Alfred Russell Wallace，几位女性主义学者，尤其是露丝 · 哈伯德（1990 年），明确指出达尔文关于雄性争相竞争以获取内向和挑剔雌性的描述与维多利亚时代的性别价值观存在密切的相似之处（另见，福斯托-斯特林 1985 [1992]）。还指出，达尔文赋予雌性的选择活动是由雌性对美的关注引起的，因此往往对雄性的生存和物种本身都产生负面影响。然而，女性主义者揭示了达尔文之所以独特之处，因为他理论化动物中的雌性选择实际上具有任何进化后果。例如，正如海伦娜 · 克罗宁（1991）所指出的，达尔文的同时代人，尤其是阿尔弗雷德 · 罗素 · 华莱士，
 
 1. 怀疑女性（除了人类外，Fichman 2004: 268–9）是否具有审美感
 2. 相信如果它们确实有一个，那么这个稳定性不够可能会导致进化变化
@@ -169,7 +169,7 @@ Sarah Richardson 在《性别本身：人类基因组中男性和女性的探寻
 
 达尔文的性选择理论，尤其是雌性选择理论，几乎被搁置了一个世纪。
 
-当代关于性选择的思想受到生物学家安格斯·巴特曼（Bateman）和罗伯特·特里弗斯（Trivers）的工作的重大影响。巴特曼（1948）假设，繁殖成功的差异在雄性之间会比在雌性之间更大。雌性的繁殖受到雌性产卵数量的限制，在单个繁殖周期中，雌性使用来自一次或少数交配的精子。根据巴特曼的观点，一旦雌性获得了受精她的卵所需的精子，她就不会从进一步交配中获益。因此，雌性应该挑剔她与谁交配，而且根据这个理论，精子永远不会短缺，所有雌性被认为会生产大约相同数量的后代。另一方面，雄性的繁殖受到雄性可以授精的雌性数量的限制。雄性通过授精尽可能多的雌性而变得适合繁殖。这导致雄性之间为了获得雌性的机会而竞争，一些雄性与许多雌性交配，而一些雄性与少数或没有雌性交配。巴特曼进行了一项关于果蝇的实验，发现雄性繁殖成功的差异高于雌性繁殖成功的差异。（值得注意的是，最近未能复制巴特曼的发现，并且对该研究存在各种方法问题的识别已经对这些发现产生了怀疑[Tang-Martinez 2012]。）
+当代关于性选择的思想受到生物学家安格斯 · 巴特曼（Bateman）和罗伯特 · 特里弗斯（Trivers）的工作的重大影响。巴特曼（1948）假设，繁殖成功的差异在雄性之间会比在雌性之间更大。雌性的繁殖受到雌性产卵数量的限制，在单个繁殖周期中，雌性使用来自一次或少数交配的精子。根据巴特曼的观点，一旦雌性获得了受精她的卵所需的精子，她就不会从进一步交配中获益。因此，雌性应该挑剔她与谁交配，而且根据这个理论，精子永远不会短缺，所有雌性被认为会生产大约相同数量的后代。另一方面，雄性的繁殖受到雄性可以授精的雌性数量的限制。雄性通过授精尽可能多的雌性而变得适合繁殖。这导致雄性之间为了获得雌性的机会而竞争，一些雄性与许多雌性交配，而一些雄性与少数或没有雌性交配。巴特曼进行了一项关于果蝇的实验，发现雄性繁殖成功的差异高于雌性繁殖成功的差异。（值得注意的是，最近未能复制巴特曼的发现，并且对该研究存在各种方法问题的识别已经对这些发现产生了怀疑 [Tang-Martinez 2012]。）
 
 特里弗斯（1972）在贝特曼的论点中增加了对父母关怀的考虑。特里弗斯认为，雌性通常在繁殖方面投入的比雄性更多，不仅包括产卵，还包括幼崽的发育和照料。因此，雌性应更加慎重地选择配偶，并对雄性成为更有限资源。同样，这导致雄性被激励与尽可能多的雌性交配，而雌性被激励抵制雄性的进攻，希望选择最佳配偶。这与强调男性活跃、好色和竞争性，女性被动、羞怯和养育性的刻板印象相关联并加强。被动的女性和好色的男性的修辞正在减少，但在许多关于性选择的描述中仍然很常见。
 
@@ -189,15 +189,15 @@ Sarah Richardson 在《性别本身：人类基因组中男性和女性的探寻
 
 她指出，在这种视角转变发生时，主要是在 20 世纪 70 年代，女性灵长类动物学家的比例增加了，这些女性开始关注雌性灵长类动物。她怀疑女性科学家关注雌性行为并非仅仅是偶然的巧合，她在 1986 年写道：
 
-> 令人不安的是，灵长类动物学家开始发现在美国一名女性竞选副总统并且加里·特鲁多开始在他的漫画中取笑“关心他人的男性”时，女性主义者和关爱型男性几乎同时出现。(1986: 137)
+> 令人不安的是，灵长类动物学家开始发现在美国一名女性竞选副总统并且加里 · 特鲁多开始在他的漫画中取笑“关心他人的男性”时，女性主义者和关爱型男性几乎同时出现。(1986: 137)
 
-关于性选择的最新研究已经涵盖了更广泛的视角。特别是在男性选择、女性之间的竞争以及在性别之间的进化繁殖冲突中女性的积极角色等主题上，女性主义研究日益增多（参见 Hrdy 1981 [1999]和 Gowaty 1992, 1997b）。琼·劳夫加登提出了一种替代性选择的社会选择理论，着重于社会行为的直接生态效益，包括动物交配行为（2004, 2009）。这些生态效益指的是社会互动如何提高个体能够抚养的后代数量。这一理论可以解释用来支持性选择的经验证据。它不将同性性行为视为异常，因为这些社会互动可以提供支持生殖成功的生态效益。这一理论引发了激烈的辩论（例如，Milam 等人 2011）。鸟类学家理查德·普鲁姆（2017）最近提出了更加达尔文主义的性选择方法，强调审美和女性选择的重要性，同时质疑主流的正统观念，即认为装饰性特征仅仅展示良好基因，并强调个体自由和美丽作为进化驱动因素。他的描述是否成功，以及他对当代性选择理论的批评是否完全公正，一直存在争议（参见 Patricelli, Hebets, & Mendelson 2019）。毫无疑问，性选择理论是一个活跃的研究领域，其中存在着进一步进行女性主义分析的重要机会。
+关于性选择的最新研究已经涵盖了更广泛的视角。特别是在男性选择、女性之间的竞争以及在性别之间的进化繁殖冲突中女性的积极角色等主题上，女性主义研究日益增多（参见 Hrdy 1981 [1999] 和 Gowaty 1992, 1997b）。琼 · 劳夫加登提出了一种替代性选择的社会选择理论，着重于社会行为的直接生态效益，包括动物交配行为（2004, 2009）。这些生态效益指的是社会互动如何提高个体能够抚养的后代数量。这一理论可以解释用来支持性选择的经验证据。它不将同性性行为视为异常，因为这些社会互动可以提供支持生殖成功的生态效益。这一理论引发了激烈的辩论（例如，Milam 等人 2011）。鸟类学家理查德 · 普鲁姆（2017）最近提出了更加达尔文主义的性选择方法，强调审美和女性选择的重要性，同时质疑主流的正统观念，即认为装饰性特征仅仅展示良好基因，并强调个体自由和美丽作为进化驱动因素。他的描述是否成功，以及他对当代性选择理论的批评是否完全公正，一直存在争议（参见 Patricelli, Hebets, & Mendelson 2019）。毫无疑问，性选择理论是一个活跃的研究领域，其中存在着进一步进行女性主义分析的重要机会。
 
 ### 4.2 Sociobiology/Evolutionary Psychology4.2 社会生物学/进化心理学
 
-广义而言，社会生物学起源于种群遗传学、种群生态学和行为学的研究，是对人类和非人类社会行为的进化研究。社会生物学家假设一些行为是特征，就像身高或头发颜色一样，受自然选择的进化影响。理想情况下，要证明某种行为是进化适应，研究人员必须证明：（1）该行为是可遗传的，（2）在种群中个体之间存在或曾存在行为变异，以及（3）由于该行为的存在导致差异繁殖，从而导致在种群中倾向于表现该行为的个体频率增加。由于研究人员无法回到过去直接观察当前行为的进化，他们通常依赖间接证据。社会生物学通常与 E.O.威尔逊（E.O. Wilson）联系最紧密，无论是他在其著作《社会生物学：新综合》（1975）中体现的更一般性工作，还是《人类的本性》（1978）中关注人类社会生物学的工作。在社会生物学中也有女性主义的研究，比如萨拉·赫迪（Sarah Hrdy）关于母婴关系的研究（1981 [1999]，1986）。
+广义而言，社会生物学起源于种群遗传学、种群生态学和行为学的研究，是对人类和非人类社会行为的进化研究。社会生物学家假设一些行为是特征，就像身高或头发颜色一样，受自然选择的进化影响。理想情况下，要证明某种行为是进化适应，研究人员必须证明：（1）该行为是可遗传的，（2）在种群中个体之间存在或曾存在行为变异，以及（3）由于该行为的存在导致差异繁殖，从而导致在种群中倾向于表现该行为的个体频率增加。由于研究人员无法回到过去直接观察当前行为的进化，他们通常依赖间接证据。社会生物学通常与 E.O.威尔逊（E.O. Wilson）联系最紧密，无论是他在其著作《社会生物学：新综合》（1975）中体现的更一般性工作，还是《人类的本性》（1978）中关注人类社会生物学的工作。在社会生物学中也有女性主义的研究，比如萨拉 · 赫迪（Sarah Hrdy）关于母婴关系的研究（1981 [1999]，1986）。
 
-进化心理学有时被描述为受到进化理论启发的心理学，有时被描述为社会生物学的最新版本。进化心理学在几个方面与社会生物学不同。进化心理学家不是寻找特定行为的适应性解释，而是为产生行为的心理机制制定适应性假设，并倾向于假设心智模块理论。尽管人类行为具有令人难以置信的多样性，许多进化心理学家假设存在较少数量的机制或模块，这些机制或模块负责一系列行为。进化心理学的许多工作依赖于进化理论基础和心理学实证方法。进化心理学研究的主要主题包括社会交换研究（Cosmides 1989; Cosmides & Tooby 1992; Tooby & Cosmides 1992）、家庭动态和冲突（包括对继子[戴利和威尔逊 2005]和妻子[M.威尔逊和戴利 1998]的暴力），以及人类伴侣选择和性嫉妒（巴斯 1994 [2003]，2005）。
+进化心理学有时被描述为受到进化理论启发的心理学，有时被描述为社会生物学的最新版本。进化心理学在几个方面与社会生物学不同。进化心理学家不是寻找特定行为的适应性解释，而是为产生行为的心理机制制定适应性假设，并倾向于假设心智模块理论。尽管人类行为具有令人难以置信的多样性，许多进化心理学家假设存在较少数量的机制或模块，这些机制或模块负责一系列行为。进化心理学的许多工作依赖于进化理论基础和心理学实证方法。进化心理学研究的主要主题包括社会交换研究（Cosmides 1989; Cosmides & Tooby 1992; Tooby & Cosmides 1992）、家庭动态和冲突（包括对继子 [戴利和威尔逊 2005] 和妻子 [M.威尔逊和戴利 1998] 的暴力），以及人类伴侣选择和性嫉妒（巴斯 1994 [2003]，2005）。
 
 女性主义对性别和性别研究的生物社会学和进化心理学存在两个主要关注点。首先，研究呈现了一个展示男性为中心、性别歧视和资本主义社会价值观的人类本性图景。生物哲学的女性主义哲学家们被激励去仔细分析这些研究，并发现了重要的方法论问题。例如，Elisabeth Lloyd（2003）揭示了适应主义假设，以及在进化心理学对性侵犯的解释中未能证明遗传性或自然选择的作用。
 
@@ -218,7 +218,7 @@ and
 女性主义和非女性主义的生物哲学家们已经确定了社会生物学和进化心理学研究中普遍存在的一系列问题。（以下列表主要来自 Bleier 1984; 另请参见 Fausto-Sterling 1997, 2000a; Fausto-Sterling 等人 1997; Buller 2005; Kitcher 1985; 以及 Sterelny & Griffiths 1999 提供了非女性主义文献的良好概述和介绍。）这些问题包括各种偏见以及方法论挑战。
 
 * *Androcentrism.*  Historically female primates were studied only in their interactions with males or with infants. Women primatologists (see Haraway 1989) and sociobiologists (Hrdy 1986) who carefully observed females, as well as other members of primate groups, discovered new information that overthrew previously held beliefs regarding dominance hierarchies, mate selection, and female-female competition by focusing on female-female interactions.
-* 种族中心主义。许多关于人类行为的研究侧重于识别和解释在人类中普遍存在并具有跨文化意义的行为特征。例如，巴斯（Buss）认为爱是跨文化的（1994 [2003]），玛戈·威尔逊（Margo Wilson）和马丁·戴利（Martin Daly）认为婚姻是跨文化的（1992）。然而，人类生活在各种各样的文化和环境背景中。约翰·杜普雷（John Dupré）写道：
+* 种族中心主义。许多关于人类行为的研究侧重于识别和解释在人类中普遍存在并具有跨文化意义的行为特征。例如，巴斯（Buss）认为爱是跨文化的（1994 [2003]），玛戈 · 威尔逊（Margo Wilson）和马丁 · 戴利（Martin Daly）认为婚姻是跨文化的（1992）。然而，人类生活在各种各样的文化和环境背景中。约翰 · 杜普雷（John Dupré）写道：
 
   > 人类学家描述了一些婚姻制度，包括一夫一妻制、一夫多妻制、偶尔的一妻多夫制、高婚和低婚（女性向上或向下结婚，尽管平等地位被认为是最常见的情况），同性之间的婚姻，以及在某些情况下根本不涉及性关系。(2001: 59)
   >
@@ -227,7 +227,7 @@ and
 * 人类中心主义。当研究人员在物种之间进行比较时，未被认可或隐含的社会价值观可能会进入研究中。当研究人员使用在特定人类语言和文化背景下定义的具有含义的术语来描述动物行为，然后利用这些描述来论证人类行为是天生的时，很容易产生循环论证。例如，当描述非人灵长类动物的行为时，常常会提到“后宫”和“卖淫”。关于强奸的进化有大量文献，强奸在花朵、蝎子食蝇、某些鱼类和鸭子中被“观察”到，然后利用这些观察结果来得出关于人类强奸生物本性的结论。一个明显的问题是，人类中的强奸被定义为没有同意或违背受害者意愿的性行为。而在花朵、食蝇、鱼类和鸭子中，同意或意愿的概念是不存在的。
 * *Lack of attention to limitations inherent in studying humans.*  Human behavior is a fraught area of study. On one hand it is seductive because there is a deep interest in trying to understand why we behave as we do. One the other hand, if researchers are trying to understand social behavior in general, there is little to recommend human beings as experimental subjects. First, it is unethical to perform the necessary controlled experiments on humans. Furthermore, such experiments are impractical because we live too long for researchers to conveniently follow the development and evolutionary consequences of particular behavioral traits and tendencies. In addition, a common evolutionary investigative technique is to compare traits among closely related species. However as Sterelny and Griffiths (1999) point out, human beings are evolutionary orphans. Even though there are several species of non-human primates that are extensively studied, they are simply not as numerous, nor do they form as closely a related group of species with humans, as can be found in, for example, groups of social ant or bee species. Finally, human behavior is complicated by intentionality, language and culture, which make comparisons between human and non-human animals challenging. For example, refer back Martin’s (2003) critique of evolutionary explanations of rape. The notion of consent means something very different in a human as opposed to an animal context. As a result of limitations inherent to studying the evolution of human behavior, it is more challenging to draw conclusions about human behavior than about the behavior of many other groups of animals, and conclusions about human beings might need to be more tentative than conclusions about other organisms.
 * 对变化环境的忽视。对人类进化的环境，包括社会环境，缺乏良好的信息。我们知道人们目前生活的环境与早期人类环境之间存在差异。假设进化适应仅在参考特定环境时才有意义，因为适应是对特定环境挑战的响应。某种行为可能是对过去环境的适应，但在当前环境中并不有益于个体。或者，某种行为可能使个体受益，而不是自然选择造就了这种受益。因此，对人类行为进化的结论需要是暂时的。
-* 适应主义 (未能充分考虑除自然选择以外的进化原因)。必须测试除自然选择以外的进化原因。例如，即使存在与特定基因相关的行为，也不能推断该行为是自然选择的结果，因此是一种适应。基因通常具有多种效应，自然选择可能仅选择其中一种效应。在这种情况下，尽管未被选择，另一种效应在种群中的频率可能会增加。当两个基因在同一染色体上相连时，类似的情况可能发生。这样，一种行为可能非常普遍，不是因为它具有进化优势，而是因为它与另一种有益特质相关。进化的其他原因包括随机漂变、突变和个体在种群之间的迁移。请记住，伊丽莎白·劳埃德（Elisabeth Lloyd）指出适应主义是索恩希尔（Thornhill）和帕尔默（Palmer）关于强奸进化（2003 年）以及大多数关于女性性高潮进化的论点（2005 年）的问题。
+* 适应主义 (未能充分考虑除自然选择以外的进化原因)。必须测试除自然选择以外的进化原因。例如，即使存在与特定基因相关的行为，也不能推断该行为是自然选择的结果，因此是一种适应。基因通常具有多种效应，自然选择可能仅选择其中一种效应。在这种情况下，尽管未被选择，另一种效应在种群中的频率可能会增加。当两个基因在同一染色体上相连时，类似的情况可能发生。这样，一种行为可能非常普遍，不是因为它具有进化优势，而是因为它与另一种有益特质相关。进化的其他原因包括随机漂变、突变和个体在种群之间的迁移。请记住，伊丽莎白 · 劳埃德（Elisabeth Lloyd）指出适应主义是索恩希尔（Thornhill）和帕尔默（Palmer）关于强奸进化（2003 年）以及大多数关于女性性高潮进化的论点（2005 年）的问题。
 * 行为缺乏明确的定义。行为特征需要明确定义。例如，有人假设男性天生比女性更具侵略性。什么算是侵略性并不清楚。是指参加战争，还是打击他人，或者是具有非常活跃的肾上腺功能？适当的分析层次并不清晰。如果一个人生活在一个文化中，认为男性比女性更具侵略性，那么他可能会注意到犯下暴力犯罪的男性比女性更多，而不会注意到女性为了保护后代而进行搏斗或者为了资源而相互竞争的情况。定义特征的问题不仅仅是清晰度的问题。本体论也受到影响，因为为了解释世界上存在的事物的进化假设，我们的定义必须将世界划分为代代相传的特征，并且自然选择可以作用于这些特征上。
 * 对比物种选择存在问题。一个人可以收集的数据以及从非人类灵长类动物身上得出的关于人类行为进化的结论，高度依赖于所关注的灵长类物种。例如，在二十世纪中叶，灵长类学研究人员选择了研究物种，比如热带草原狒狒，其社会结构看似类似于人类。在 1970 年代，女性主义灵长类学家在说服科学界认为黑猩猩是一个更适合模拟人类进化关键转变的物种方面发挥了重要作用。这种模式生物的转变得到了分子系统发育学、比较解剖学和古生物学数据的支持，但也是一种策略性的女性主义举措，因为黑猩猩是以母系为中心的生物，具有复杂的社会生活。这促进了对母性的研究重点，这与西方女性主义那个时期对母性思维和社会母性的关注是一致的（Haraway 1989）。这里至少有两种建议。首先，如果一个人专注于消除偏见，那么就应该注意不要在灵长类物种之间的多样性中做出错误的概括（Hrdy 1986）。其次，一个人需要对自己选择的模式生物负责，因为这将影响到一个人可以产生的知识类型（Haraway 1989）。
 
@@ -247,12 +247,12 @@ and
 
 ## Bibliography
 
-* Altmann, Jeanne, 1974, “Observational Study of Behavior: Sampling Methods”, *Behaviour*, 49(3–4): 227–266. doi:10.1163/156853974X00534
+* Altmann, Jeanne, 1974, “Observational Study of Behavior: Sampling Methods”, *Behaviour*, 49(3–4): 227–266. doi: 10.1163/156853974X00534
 * Barash, David P., 1979, *The Whisperings Within*, New York: Harper & Row.
-* Barkow, Jerome H., Leda Cosmides, and John Tooby (eds), 1992, *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, New York: Oxford University Press. doi:10.1093/oso/9780195060232.001.0001
-* Bateman, A. J., 1948, “Intra-Sexual Selection in *Drosophila*”, *Heredity*, 2(3): 349–368. doi:10.1038/hdy.1948.21
-* Baylis, Françoise, 2019, *Altered Inheritance: CRISPR and the Ethics of Human Genome Editing*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674241954
-* Biology and Gender Study Group, 1988 [1989], “The Importance of Feminist Critique for Contemporary Cell Biology”, *Hypatia*, 3(1): 61–76. Collected in *Feminism & Science*, Nancy Tuana (ed.), (Race, Gender, and Science), Bloomington, IN: Indiana University Press, 172–187. doi:10.1111/j.1527-2001.1988.tb00056.x
+* Barkow, Jerome H., Leda Cosmides, and John Tooby (eds), 1992, *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, New York: Oxford University Press. doi: 10.1093/oso/9780195060232.001.0001
+* Bateman, A. J., 1948, “Intra-Sexual Selection in *Drosophila*”, *Heredity*, 2(3): 349–368. doi: 10.1038/hdy.1948.21
+* Baylis, Françoise, 2019, *Altered Inheritance: CRISPR and the Ethics of Human Genome Editing*, Cambridge, MA: Harvard University Press. doi: 10.4159/9780674241954
+* Biology and Gender Study Group, 1988 [1989], “The Importance of Feminist Critique for Contemporary Cell Biology”, *Hypatia*, 3(1): 61–76. Collected in *Feminism & Science*, Nancy Tuana (ed.), (Race, Gender, and Science), Bloomington, IN: Indiana University Press, 172–187. doi: 10.1111/j.1527-2001.1988.tb00056.x
 * Birke, Lynda, 1986, *Women, Feminism and Biology: The Feminist Challenge*, Brighton, Sussex: Wheatsheaf Books.
 * –––, 1992, “In Pursuit of Difference: Scientific Studies of Women and Men”, in *Inventing Women: Science, Technology, and Gender*, Gill Kirkup and Laurie S. Keller (eds), Cambridge, MA, USA: B. Blackwell, 81–102.
 * –––, 1994, *Feminism, Animals, and Science: The Naming of the Shrew*, Buckingham, UK: Open University Press.
@@ -261,53 +261,53 @@ and
 * Birkhead, Tim and Anders P. Møller (eds), 1998, *Sperm Competition and Sexual Selection*, San Diego: Academic Press.
 * Blackwell, Antoinette Louisa Brown, 1875, *The Sexes throughout Nature*, New York: G. P. Putnam.
 * Bleier, Ruth, 1976, “Myths of the Biological Inferiority of Women: An Exploration of the Sociology of Biological Research”, *University of Michigan Papers in Women’s Studies*, 2(2): 39–63. [[Bleier 1976 available online](http://hdl.handle.net/2027/spo.acp0359.0002.002:03)]
-* –––, 1978, “Bias in Biological and Human Sciences: Some Comments”, *Signs: Journal of Women in Culture and Society*, 4(1): 159–162. doi:10.1086/493577
+* –––, 1978, “Bias in Biological and Human Sciences: Some Comments”, *Signs: Journal of Women in Culture and Society*, 4(1): 159–162. doi: 10.1086/493577
 * –––, 1979, “Social and Political Bias in Science: An Examination of Animal Studies and Their Generalizations to Human Behavior and Evolution”, *Genes and Gender II*, Ruth Hubbard and Marian Lowe (eds), New York: Gordian Press, 49–70.
 * –––, 1984, *Science and Gender: A Critique of Biology and Its Theories on Women* (Athene Series), New York: Pergamon Press.
 * ––– (ed.), 1986a, *Feminist Approaches to Science*, New York: Pergamon Press.
 * –––, 1986b, “Sex Differences Research: Science or Belief?” in [Bleier 1986a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#bleier1986): 147–164.
-* –––, 1988a, “A Decade of Feminist Critiques in the Natural Sciences: An Address by Ruth Bleier”, Judith Walzer Leavitt and Linda Gordon (eds), *Signs: Journal of Women in Culture and Society*, 14(1): 182–195. doi:10.1086/494496
+* –––, 1988a, “A Decade of Feminist Critiques in the Natural Sciences: An Address by Ruth Bleier”, Judith Walzer Leavitt and Linda Gordon (eds), *Signs: Journal of Women in Culture and Society*, 14(1): 182–195. doi: 10.1086/494496
 * –––, 1988b, “Science and the Construction of Meanings in the Neurosciences”, *Feminism within the Science and Health Care Professions*, Sue Rosser (ed.), Elmsford, NY: Pergamon Press, 91–104.
-* Bluhm, Robyn, 2013a, “New Research, Old Problems: Methodological and Ethical Issues in fMRI Research Examining Sex/Gender Differences in Emotion Processing”, *Neuroethics*, 6(2): 319–330. doi:10.1007/s12152-011-9143-3
-* –––, 2013b, “Self‐Fulfilling Prophecies: The Influence of Gender Stereotypes on Functional Neuroimaging Research on Emotion”, *Hypatia*, 28(4): 870–886. doi:10.1111/j.1527-2001.2012.01311.x
+* Bluhm, Robyn, 2013a, “New Research, Old Problems: Methodological and Ethical Issues in fMRI Research Examining Sex/Gender Differences in Emotion Processing”, *Neuroethics*, 6(2): 319–330. doi: 10.1007/s12152-011-9143-3
+* –––, 2013b, “Self‐Fulfilling Prophecies: The Influence of Gender Stereotypes on Functional Neuroimaging Research on Emotion”, *Hypatia*, 28(4): 870–886. doi: 10.1111/j.1527-2001.2012.01311.x
 * Bluhm, Robyn, Anne Jaap Jacobson, and Heidi Lene Maibom (eds.), 2012, *Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science*, New York: Palgrave Macmillan.
 * Buller, David J., 2005, *Adapting Minds: Evolutionary Psychology and the Persistent Quest for Human Nature*, Cambridge, MA: MIT Press.
 * Buss, David M., 1994 [2003], *The Evolution of Desire: Strategies of Human Mating*, New York: Basic Books. Revised edition, 2003.
-* –––, 1995, “Psychological Sex Differences: Origins through Sexual Selection.”, *American Psychologist*, 50(3): 164–168. doi:10.1037/0003-066X.50.3.164
+* –––, 1995, “Psychological Sex Differences: Origins through Sexual Selection.”, *American Psychologist*, 50(3): 164–168. doi: 10.1037/0003-066X.50.3.164
 * –––, 2004, *Evolutionary Psychology: The New Science of the Mind*, Boston: Allyn and Bacon.
 * –––, 2005, *The Murderer Next Door: Why the Mind is Designed to Kill*, New YorkPenguin Books.
-* Butler, Judith, 1990, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge. doi:10.4324/9780203824979
+* Butler, Judith, 1990, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge. doi: 10.4324/9780203824979
 * Clarke, Edward H., 1874, *Sex in Education*, Boston: James R. Osgood and Company. [[Clarke 1874 available online](http://www.gutenberg.org/ebooks/18504)]
-* Clune‐Taylor, Catherine, 2019, “Securing Cisgendered Futures: Intersex Management under the ‘Disorders of Sex Development’ Treatment Model”, *Hypatia*, 34(4): 690–712. doi:10.1111/hypa.12494
-* Cosmides, Leda, 1989, “The Logic of Social Exchange: Has Natural Selection Shaped How Humans Reason? Studies with the Wason Selection Task”, *Cognition*, 31(3): 187–276. doi:10.1016/0010-0277(89)90023-1
-* Cosmides, Leda and John Tooby, 1992, “Cognitive Adaptations for Social Exchange”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 163–228. doi:10.1093/oso/9780195060232.003.0004
+* Clune‐Taylor, Catherine, 2019, “Securing Cisgendered Futures: Intersex Management under the ‘Disorders of Sex Development’ Treatment Model”, *Hypatia*, 34(4): 690–712. doi: 10.1111/hypa.12494
+* Cosmides, Leda, 1989, “The Logic of Social Exchange: Has Natural Selection Shaped How Humans Reason? Studies with the Wason Selection Task”, *Cognition*, 31(3): 187–276. doi: 10.1016/0010-0277(89)90023-1
+* Cosmides, Leda and John Tooby, 1992, “Cognitive Adaptations for Social Exchange”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 163–228. doi: 10.1093/oso/9780195060232.003.0004
 * Coyne, Jerry, 2003, “Of Vice and Men: A Case Study in Evolutionary Psychology”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 171–190.
 * Creager, Angela N. H., Elizabeth Lunbeck, and Londa L. Schiebinger (eds), 2001, *Feminism in Twentieth-Century Science, Technology, and Medicine* (Women in Culture and Society), Chicago: University of Chicago Press.
-* Crick, Francis, 1970, “Central Dogma of Molecular Biology”, *Nature*, 227(5258): 561–563. doi:10.1038/227561a0
+* Crick, Francis, 1970, “Central Dogma of Molecular Biology”, *Nature*, 227(5258): 561–563. doi: 10.1038/227561a0
 * Cronin, Helena, 1991, *The Ant and the Peacock: Altruism and Sexual Selection from Darwin to Today*, New York: Cambridge University Press.
 * –––, 1992, “Sexual Selection: Historical Perspectives”, *Keywords in Evolutionary Biology*, Evelyn Fox Keller and Elisabeth S. Lloyd (eds), Cambridge, MA: Harvard University Press, 286–293.
-* Daly, Martin and Margo Wilson, 2005, “The ‘Cinderella Effect’ Is No Fairy Tale”, *Trends in Cognitive Sciences*, 9(11): 507–508. doi:10.1016/j.tics.2005.09.007
+* Daly, Martin and Margo Wilson, 2005, “The ‘Cinderella Effect’ Is No Fairy Tale”, *Trends in Cognitive Sciences*, 9(11): 507–508. doi: 10.1016/j.tics.2005.09.007
 * Darwin, Charles, 1872, *On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*, 6th edition, London: Murray.
 * –––, 1871, *The Descent of Man and Selection in Relation to Sex*, two volumes, London: John Murray.
 * –––, 1874, *The Descent of Man and Selection in Relation to Sex*, 2nd edition, London: John Murray.
 * Deslauriers, Marguerite, 2022, *Aritotle on Sexual Difference: Metaphysics, Biology, Politics*, Oxford: Oxford University Press.
 * DesAutels, Peggy, 2015, “Feminist Ethics and Neuroethics”, in Jens Clausen and Neil Levy (eds) *Handbook of Neuroethics*, Dordrecht: Springer, 1421–1434.
-* DiMarco, Marina, Helen Zhao, Marion Boulicault, and Sarah S. Richardson, 2022, “Why ‘Sex as a Biological Variable’ Conflicts with Precision Medicine Initiatives”, *Cell Reports Medicine*, 3(4): article 100550. doi:10.1016/j.xcrm.2022.100550
+* DiMarco, Marina, Helen Zhao, Marion Boulicault, and Sarah S. Richardson, 2022, “Why ‘Sex as a Biological Variable’ Conflicts with Precision Medicine Initiatives”, *Cell Reports Medicine*, 3(4): article 100550. doi: 10.1016/j.xcrm.2022.100550
 * Drea, Christine and Kim Wallen, 2003, “Female Sexuality and the Myth of Male Control”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 29–60.
 * Dupré, John, 1993, *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
-* –––, 2001, *Human Nature and the Limits of Science*, Oxford: Clarendon. doi:10.1093/0199248060.001.0001
-* –––, 2021, “Gender and the End of Biological Determinism”, in *Why Gender?*, Jude Browne (ed.), Cambridge: Cambridge University Press, 57–77. doi:10.1017/9781108980548.005
+* –––, 2001, *Human Nature and the Limits of Science*, Oxford: Clarendon. doi: 10.1093/0199248060.001.0001
+* –––, 2021, “Gender and the End of Biological Determinism”, in *Why Gender?*, Jude Browne (ed.), Cambridge: Cambridge University Press, 57–77. doi: 10.1017/9781108980548.005
 * Eagly, Alice and Wendy Wood, 2003, “The Origins of Sex Differences in Human Behavior: Evolved Dispositions versus Social Roles”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 265–304.
 * Etcoff, Nancy L., 1999, *Survival of the Prettiest: The Science of Beauty*, New York: Doubleday.
-* Fausto-Sterling, Anne, 1989, “Life in the XY Corral”, *Women’s Studies International Forum*, 12(3): 319–331. doi:10.1016/S0277-5395(89)80009-3
+* Fausto-Sterling, Anne, 1989, “Life in the XY Corral”, *Women’s Studies International Forum*, 12(3): 319–331. doi: 10.1016/S0277-5395(89)80009-3
 * –––, 1985 [1992], *Myths of Gender: Biological Theories about Women and Men*, New York: Basic Books. Second edition, 1992.
 * –––, 1993, “Is Nature Really Red in Tooth and Claw?” *Discover*, 14(4): 24–27
-* –––, 1995, “Attacking Feminism Is No Substitute for Good Scholarship”, *Politics and the Life Sciences*, 14(2): 171–174. doi:10.1017/S0730938400019006
-* –––, 1997, “Feminism and Behavioral Evolution: A Taxonomy”, in [Gowaty 1997a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#gowaty1997): 42–60. doi:10.1007/978-1-4615-5985-6_3
+* –––, 1995, “Attacking Feminism Is No Substitute for Good Scholarship”, *Politics and the Life Sciences*, 14(2): 171–174. doi: 10.1017/S0730938400019006
+* –––, 1997, “Feminism and Behavioral Evolution: A Taxonomy”, in [Gowaty 1997a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#gowaty1997): 42–60. doi: 10.1007/978-1-4615-5985-6_3
 * –––, 2000a, “Beyond Difference: Feminism and Evolutionary Psychology”, in *Alas Poor Darwin: Arguments Against Evolutionary Psychology*, Hilary Rose and Steven Rose (eds), New York: Harmony Books, 209–227.
 * –––, 2000b, *Sexing the Body: Gender Politics and the Construction of Sexuality*, New York: Basic Books.
-* –––, 2005, “The Bare Bones of Sex: Part 1—Sex and Gender”, *Signs: Journal of Women in Culture and Society*, 30(2): 1491–1527. doi:10.1086/424932
-* Fausto-Sterling, Anne, Patricia Adair Gowaty, and Marlene Zuk, 1997, “Evolutionary Psychology and Darwinian Feminism”, *Feminist Studies*, 23(2): 402–417. doi:10.2307/3178406
+* –––, 2005, “The Bare Bones of Sex: Part 1—Sex and Gender”, *Signs: Journal of Women in Culture and Society*, 30(2): 1491–1527. doi: 10.1086/424932
+* Fausto-Sterling, Anne, Patricia Adair Gowaty, and Marlene Zuk, 1997, “Evolutionary Psychology and Darwinian Feminism”, *Feminist Studies*, 23(2): 402–417. doi: 10.2307/3178406
 * Fedigan, Linda, 1997, “Is Primatology a Feminist Science”, in [Hager 1997](https://plato.stanford.edu/entries/feminist-philosophy-biology/#hager1997): 56–75.
 * –––, 2001, “The Paradox of Feminist Primatology: The Goddess’s Discipline?” in [Creager, Lunbeck, and Schiebinger 2001](https://plato.stanford.edu/entries/feminist-philosophy-biology/#creageretal2001): 46–72.
 * Fehr, Carla, 2004, “Feminism and Science: Mechanism Without Reductionism”, *NWSA Journal*, 16(1): 136–156.
@@ -317,43 +317,43 @@ and
 * Fichman, Martin, 2004, *An Elusive Victorian: The Evolution of Alfred Russel Wallace*, Chicago: University of Chicago Press.
 * Fine, Cordelia, 2010, *Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference*, New York: W.W. Norton & Co.
 * –––, 2017, *Testosterone Rex: Unmaking the Myths of Our Gendered Minds*, New York: W.W. Norton and Co.
-* Gannett, Lisa, 2004, “The Biological Reification of Race”, *The British Journal for the Philosophy of Science*, 55(2): 323–345. doi:10.1093/bjps/55.2.323
+* Gannett, Lisa, 2004, “The Biological Reification of Race”, *The British Journal for the Philosophy of Science*, 55(2): 323–345. doi: 10.1093/bjps/55.2.323
 * Gilbert, Scott and Karen Rader, 2001, “Revisiting Women, Gender, and Feminism in Developmental Biology”, in [Creager, Lunbeck, and Schiebinger 2001](https://plato.stanford.edu/entries/feminist-philosophy-biology/#creageretal2001): 73–97.
 * Gould, Stephen Jay, 1981, *The Mismeasure of Man*, New York: W. W. Norton & Co.
-* Gould, Stephen Jay and R. C. Lewontin, 1979, “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme”, *Proceedings of the Royal Society of London. Series B. Biological Sciences*, 205(1161): 581–598. doi:10.1098/rspb.1979.0086
-* Gowaty, Patricia Adair, 1992, “Evolutionary Biology and Feminism”, *Human Nature*, 3(3): 217–249. doi:10.1007/BF02692240
-* ––– (ed.), 1997a, *Feminism and Evolutionary Biology: Boundaries, Intersections and Frontiers*, New York: Chapman Hall. doi:10.1007/978-1-4615-5985-6
+* Gould, Stephen Jay and R. C. Lewontin, 1979, “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme”, *Proceedings of the Royal Society of London. Series B. Biological Sciences*, 205(1161): 581–598. doi: 10.1098/rspb.1979.0086
+* Gowaty, Patricia Adair, 1992, “Evolutionary Biology and Feminism”, *Human Nature*, 3(3): 217–249. doi: 10.1007/BF02692240
+* ––– (ed.), 1997a, *Feminism and Evolutionary Biology: Boundaries, Intersections and Frontiers*, New York: Chapman Hall. doi: 10.1007/978-1-4615-5985-6
 * –––, 1997b, “Sexual Dialectics, Sexual Selection and Variation in Mating Behavior”, in [Gowaty 1997a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#gowaty1997): 351–384.
 * –––, 2003a, “Power Asymmetries between the Sexes, Mate Preferences, and Components of Fitness”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 61–86.
-* –––, 2003b, “Sexual Natures: How Feminism Changed Evolutionary Biology”, *Signs: Journal of Women in Culture and Society*, 28(3): 901–921. doi:10.1086/345324
-* Griffiths, Paul E., 2002, “What Is Innateness?”:, *The Monist*, 85(1): 70–85. doi:10.5840/monist20028518
-* Hager, Lori D. (ed.), 1997, *Women in Human Evolution*, New York: Routledge. doi:10.4324/9780203973103
-* Haraway, Donna, 1978a, “Animal Sociology and a Natural Economy of the Body Politic, Part I: A Political Physiology of Dominance”, *Signs: Journal of Women in Culture and Society*, 4(1): 21–36. doi:10.1086/493567
-* –––, 1978b, “Animal Sociology and a Natural Economy of the Body Politic, Part II: The Past Is the Contested Zone: Human Nature and Theories of Production and Reproduction in Primate Behavior Studies”, *Signs: Journal of Women in Culture and Society*, 4(1): 37–60. doi:10.1086/493568
+* –––, 2003b, “Sexual Natures: How Feminism Changed Evolutionary Biology”, *Signs: Journal of Women in Culture and Society*, 28(3): 901–921. doi: 10.1086/345324
+* Griffiths, Paul E., 2002, “What Is Innateness?”:, *The Monist*, 85(1): 70–85. doi: 10.5840/monist20028518
+* Hager, Lori D. (ed.), 1997, *Women in Human Evolution*, New York: Routledge. doi: 10.4324/9780203973103
+* Haraway, Donna, 1978a, “Animal Sociology and a Natural Economy of the Body Politic, Part I: A Political Physiology of Dominance”, *Signs: Journal of Women in Culture and Society*, 4(1): 21–36. doi: 10.1086/493567
+* –––, 1978b, “Animal Sociology and a Natural Economy of the Body Politic, Part II: The Past Is the Contested Zone: Human Nature and Theories of Production and Reproduction in Primate Behavior Studies”, *Signs: Journal of Women in Culture and Society*, 4(1): 37–60. doi: 10.1086/493568
 * –––, 1986, “Primatology is Politics by Other Means”, [Bleier 1986a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#bleier1986): 77–118.
-* –––, 1988, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, *Feminist Studies*, 14(3): 575–599. doi:10.2307/3178066
-* –––, 1989, *Primate Visions: Gender, Race, and Nature in the World of Modern Science*, New York: Routledge. doi:10.4324/9780203421918
-* –––, 1991, *Simians, Cyborgs and Women: The Reinvention of Nature*, New York: Routledge. doi:10.4324/9780203873106
+* –––, 1988, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”, *Feminist Studies*, 14(3): 575–599. doi: 10.2307/3178066
+* –––, 1989, *Primate Visions: Gender, Race, and Nature in the World of Modern Science*, New York: Routledge. doi: 10.4324/9780203421918
+* –––, 1991, *Simians, Cyborgs and Women: The Reinvention of Nature*, New York: Routledge. doi: 10.4324/9780203873106
 * Harding, Sandra, 1986, *The Science Question in Feminism*, Ithaca, NY: Cornell University Press.
 * Hrdy, Sarah Blaffer, 1981 [1999], *The Woman That Never Evolved*, Cambridge, MA: Harvard University Press. Revised edition, 1999.
 * –––, 1986, “Empathy, Polyandry, and the Myth of the Coy Female”, [Bleier 1986a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#bleier1986): 119–146.
-* –––, 1997, “Raising Darwin’s Consciousness: Female Sexuality and the Prehominid Origins of Patriarchy”, *Human Nature*, 8(1): 1–49. doi:10.1007/s12110-997-1003-9
+* –––, 1997, “Raising Darwin’s Consciousness: Female Sexuality and the Prehominid Origins of Patriarchy”, *Human Nature*, 8(1): 1–49. doi: 10.1007/s12110-997-1003-9
 * –––, 1999, *Mother Nature: A History of Mothers, Infants, and Natural Selection*, New York: Pantheon Books.
-* Hubbard, Ruth, 1983, “Have Only Men Evolved?”, in *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science*, Sandra Harding and Merrill B. Hintikka (eds), (Synthese Library 161), Dordrecht: D. Reidel, 45–69. doi:10.1007/0-306-48017-4_4
+* Hubbard, Ruth, 1983, “Have Only Men Evolved?”, in *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science*, Sandra Harding and Merrill B. Hintikka (eds), (Synthese Library 161), Dordrecht: D. Reidel, 45–69. doi: 10.1007/0-306-48017-4_4
 * –––, 1990, *The Politics of Women’s Biology*, New Brunswick, NJ: Rutgers University Press.
 * Hubbard, Ruth and Elijah Wald, 1993, *Exploding the Gene Myth: How Genetic Information Is Produced and Manipulated by Scientists, Physicians, Employers, Insurance Companies, Educators, and Law Enforcers*, Boston: Beacon Press.
-* Hull, David L., 1972, “Reduction in Genetics—Biology or Philosophy?”, *Philosophy of Science*, 39(4): 491–499. doi:10.1086/288470
+* Hull, David L., 1972, “Reduction in Genetics—Biology or Philosophy?”, *Philosophy of Science*, 39(4): 491–499. doi: 10.1086/288470
 * –––, 1974, *Philosophy of Biological Science* (Prentice-Hall Foundations of Philosophy Series), Englewood Cliffs, NJ: Prentice-Hall.
 * –––, 1986, “On Human Nature”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, Volume Two: Symposia and Invited Papers, 3–13
-* Intemann, Kristen and Inmaculada De Melo-Martín, 2010, “Social Values and Scientific Evidence: The Case of the HPV Vaccines”, *Biology & Philosophy*, 25(2): 203–213. doi:10.1007/s10539-009-9191-9
+* Intemann, Kristen and Inmaculada De Melo-Martín, 2010, “Social Values and Scientific Evidence: The Case of the HPV Vaccines”, *Biology & Philosophy*, 25(2): 203–213. doi: 10.1007/s10539-009-9191-9
 * Jordan-Young, Rebecca M., 2010, *Brain Storm: The Flaws in the Science of Sex Differences*, Cambridge, MA: Harvard University Press.
-* Kappeler, Peter M. and Carel van Schaik (eds), 2004, *Sexual Selection in Primates: New and Comparative Perspectives*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511542459
+* Kappeler, Peter M. and Carel van Schaik (eds), 2004, *Sexual Selection in Primates: New and Comparative Perspectives*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511542459
 * Keller, Evelyn Fox, 1983, *A Feeling for the Organism: The Life and Work of Barbara McClintock*, San Francisco, CA: W.H. Freeman.
 * –––, 1985, *Reflections on Gender and Science*, New Haven, CT: Yale University Press.
-* –––, 1988, “Demarcating Public from Private Values in Evolutionary Discourse”, *Journal of the History of Biology*, 21(2): 195–211. doi:10.1007/BF00146986
-* –––, 1990, “Physics and the Emergence of Molecular Biology: A History of Cognitive and Political Synergy”, *Journal of the History of Biology*, 23(3): 389–409. doi:10.1007/BF00136376
-* –––, 1992a, “Between Language and Science: The Question of Directed Mutation in Molecular Genetics”, *Perspectives in Biology and Medicine*, 35(2): 292–306. doi:10.1353/pbm.1992.0000
-* –––, 1992b, *Secrets of Life, Secrets of Death: Essays on Language, Gender, and Science*, New York: Routledge. doi:10.4324/9781315831886
+* –––, 1988, “Demarcating Public from Private Values in Evolutionary Discourse”, *Journal of the History of Biology*, 21(2): 195–211. doi: 10.1007/BF00146986
+* –––, 1990, “Physics and the Emergence of Molecular Biology: A History of Cognitive and Political Synergy”, *Journal of the History of Biology*, 23(3): 389–409. doi: 10.1007/BF00136376
+* –––, 1992a, “Between Language and Science: The Question of Directed Mutation in Molecular Genetics”, *Perspectives in Biology and Medicine*, 35(2): 292–306. doi: 10.1353/pbm.1992.0000
+* –––, 1992b, *Secrets of Life, Secrets of Death: Essays on Language, Gender, and Science*, New York: Routledge. doi: 10.4324/9781315831886
 * –––, 1995, *Refiguring Life: Metaphors of Twentieth-Century Biology* (The Wellek Library Lectures Series at the University of California, Irvine), New York: Columbia University Press.
 * –––, 2000, *The Century of the Gene*, Cambridge, MA/London: Harvard University Press.
 * –––, 2010, *The Mirage of a Space Between Nature and Nurture*, Durham, NC: Duke University Press.
@@ -362,40 +362,40 @@ and
 * Kitcher, Philip, 1985, *Vaulting Ambition: Sociobiology and the Quest for Human Nature*, Cambridge, MA: MIT Press.
 * –––, 2001. *Science, Truth, and Democracy*. Oxford: Oxford University Press.
 * Kourany, Janet A. (ed.), 2002, *The Gender of Science*, Upper Saddle River, NJ: Prentice Hall.
-* Lancaster, Jane B., 1991, “A Feminist and Evolutionary Biologist Looks at Women”, *American Journal of Physical Anthropology*, 34(S13): 1–11. doi:10.1002/ajpa.1330340603
+* Lancaster, Jane B., 1991, “A Feminist and Evolutionary Biologist Looks at Women”, *American Journal of Physical Anthropology*, 34(S13): 1–11. doi: 10.1002/ajpa.1330340603
 * Lewontin, Richard, 1992, *Biology as Ideology: The Doctrine of DNA*, New York, NY: HarperPerennial.
-* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, *Philosophical Studies*, 69(2–3): 139–153. doi:10.1007/BF00990080
-* –––, 1999, “Evolutionary Psychology: The Burdens of Proof”, *Biology & Philosophy*, 14(2): 211–233. doi:10.1023/A:1006638501739
+* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, *Philosophical Studies*, 69(2–3): 139–153. doi: 10.1007/BF00990080
+* –––, 1999, “Evolutionary Psychology: The Burdens of Proof”, *Biology & Philosophy*, 14(2): 211–233. doi: 10.1023/A: 1006638501739
 * –––, 2003, “Violence Against Science: Rape and Evolution”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 235–262.
 * –––, 2005, *The Case of the Female Orgasm: Bias in the Science of Evolution*, Cambridge, MA: Harvard University Press.
-* Longino, Helen E., 1987, “Can There Be A Feminist Science?”, *Hypatia*, 2(3): 51–64. doi:10.1111/j.1527-2001.1987.tb01341.x
+* Longino, Helen E., 1987, “Can There Be A Feminist Science?”, *Hypatia*, 2(3): 51–64. doi: 10.1111/j.1527-2001.1987.tb01341.x
 * –––, 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
 * –––, 2002, *The Fate of Knowledge*, Princeton, NJ: Princeton University Press.
-* Longino, Helen and Ruth Doell, 1983, “Body, Bias, and Behavior: A Comparative Analysis of Reasoning in Two Areas of Biological Science”, *Signs: Journal of Women in Culture and Society*, 9(2): 206–227. doi:10.1086/494044
+* Longino, Helen and Ruth Doell, 1983, “Body, Bias, and Behavior: A Comparative Analysis of Reasoning in Two Areas of Biological Science”, *Signs: Journal of Women in Culture and Society*, 9(2): 206–227. doi: 10.1086/494044
 * Mackey, Wade, 2003, “The Evolutionary Value of the Man (to) Child Affilative Bond: Closer to Obligate Than to Facultative”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 305–336.
 * Martin, Emily, 1987, *The Woman in the Body: A Cultural Analysis of Reproduction*, Boston: Beacon Press.
-* –––, 1991, “The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles”, *Signs: Journal of Women in Culture and Society*, 16(3): 485–501. doi:10.1086/494680
+* –––, 1991, “The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles”, *Signs: Journal of Women in Culture and Society*, 16(3): 485–501. doi: 10.1086/494680
 * –––, 2003, “What Is ‘Rape’—Toward a Historical Ethnographic Approach”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 363–382.
-* Mayberry, Maralee, Banu Subramaniam, and Lisa H. Weasel (eds), 2001, *Feminist Science Studies: A New Generation*, New York: Routledge. doi:10.4324/9780203614266
+* Mayberry, Maralee, Banu Subramaniam, and Lisa H. Weasel (eds), 2001, *Feminist Science Studies: A New Generation*, New York: Routledge. doi: 10.4324/9780203614266
 * Merchant, Carolyn, 1980, *The Death of Nature: Women, Ecology, and the Scientific Revolution*, San Francisco: Harper & Row.
-* Meynell, Letitia, 2008, “The Power and Promise of Developmental Systems Theory”, *Les ateliers de l’éthique*, 3(2): 88–103. doi:10.7202/1044598ar
-* –––, 2012, “Evolutionary Psychology, Ethology, and Essentialism (Because What They Don’t Know Can Hurt Us)”, *Hypatia*, 27(1): 3–27. doi:10.1111/j.1527-2001.2011.01240.x
+* Meynell, Letitia, 2008, “The Power and Promise of Developmental Systems Theory”, *Les ateliers de l’éthique*, 3(2): 88–103. doi: 10.7202/1044598ar
+* –––, 2012, “Evolutionary Psychology, Ethology, and Essentialism (Because What They Don’t Know Can Hurt Us)”, *Hypatia*, 27(1): 3–27. doi: 10.1111/j.1527-2001.2011.01240.x
 * –––, 2021, “What’s Wrong with (Narrow) Evolutionary Psychology”, in *The Routledge Handbook of Feminist Philosophy of Science*, Sharon Crasnow and Kristen Intemann (eds), New York: Routledge, 303–315.
-* Meynell, Letitia and Andrew Lopez, 2021, “Gendering Animals”, *Synthese*, 199(1–2): 4287–4311. doi:10.1007/s11229-020-02979-4
-* Milam, Erika L., Roberta L. Millstein, Angela Potochnik, and Joan E. Roughgarden, 2011, “Sex and Sensibility: The Role of Social Selection”, *Metascience*, 20(2): 253–277. doi:10.1007/s11016-010-9464-6
+* Meynell, Letitia and Andrew Lopez, 2021, “Gendering Animals”, *Synthese*, 199(1–2): 4287–4311. doi: 10.1007/s11229-020-02979-4
+* Milam, Erika L., Roberta L. Millstein, Angela Potochnik, and Joan E. Roughgarden, 2011, “Sex and Sensibility: The Role of Social Selection”, *Metascience*, 20(2): 253–277. doi: 10.1007/s11016-010-9464-6
 * Morgan, Elaine, 1972, *The Descent of Woman*, New York: Stein and Day.
-* Nelson, Lynn Hankinson, 2017, *Biology and Feminism: A Philosophical Introduction* (Cambridge Introductions to Philosophy and Biology), Cambridge: Cambridge University Press. doi:10.1017/9781316106280
-* Okruhlik, Kathleen, 1994 [1998], “Gender and the Biological Sciences”, *Canadian Journal of Philosophy Supplementary Volume*, 20: 21–42. Reprinted in *Philosophy of Science: The Central Issues*, Martin Curd and J. A. Cover (eds), New York: W.W. Norton and Company, 192–208. doi:10.1080/00455091.1994.10717393
-* Patricelli, Gail L., Eileen A. Hebets, and Tamra C. Mendelson, 2019, “Review of *The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World-and Us*, by Richard O. Prum”, *Evolution*, 73(1): 115–124. doi:10.1111/evo.13629
+* Nelson, Lynn Hankinson, 2017, *Biology and Feminism: A Philosophical Introduction* (Cambridge Introductions to Philosophy and Biology), Cambridge: Cambridge University Press. doi: 10.1017/9781316106280
+* Okruhlik, Kathleen, 1994 [1998], “Gender and the Biological Sciences”, *Canadian Journal of Philosophy Supplementary Volume*, 20: 21–42. Reprinted in *Philosophy of Science: The Central Issues*, Martin Curd and J. A. Cover (eds), New York: W.W. Norton and Company, 192–208. doi: 10.1080/00455091.1994.10717393
+* Patricelli, Gail L., Eileen A. Hebets, and Tamra C. Mendelson, 2019, “Review of *The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World-and Us*, by Richard O. Prum”, *Evolution*, 73(1): 115–124. doi: 10.1111/evo.13629
 * Pinker, Steven, 1997, *How the Mind Works*, New York: W.W. Norton.
 * Prum, Richard O., 2017, *The Evolution of Beauty: How Darwin’s Forgotten Theory of Mate Choice Shapes the Animal World—and Us*, New York: Doubleday.
 * Reydon, Thomas, Ereshefsky, Marc, 2022, “How to Incorporate Non-Epistemic Values into a Theory of Classification”, *European Journal of Philosophy of Science*, 12(4): doi s13194-021-00428-6
-* Richardson, Robert C., 2007, *Evolutionary Psychology as Maladapted Psychology* (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press. doi:10.7551/mitpress/7464.001.0001
+* Richardson, Robert C., 2007, *Evolutionary Psychology as Maladapted Psychology* (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press. doi: 10.7551/mitpress/7464.001.0001
 * Richardson, Sarah S., 2008, “When Gender Criticism Becomes Standard Scientific Practice: the Case of Sex Determination Genetics”, *Gendered Innovations in Science and Engineering*, Londa Schiebinger (ed.), Stanford, CA: Stanford University Press, 22–42.
-* –––, 2010, “Feminist Philosophy of Science: History, Contributions, and Challenges”, *Synthese*, 177(3): 337–362. doi:10.1007/s11229-010-9791-6
+* –––, 2010, “Feminist Philosophy of Science: History, Contributions, and Challenges”, *Synthese*, 177(3): 337–362. doi: 10.1007/s11229-010-9791-6
 * –––, 2013, *Sex Itself: The Search for Male and Female in the Human Genome*, Chicago/London: University of Chicago.
 * Rippon, Gina, 2019, *Gender and Our Brains: How New Neuroscience Explodes the Myths of the Male and Female Minds*, New York: Pantheon.
-* Rosner, Mary and T. R. Johnson, 1995, “Telling Stories: Metaphors of the Human Genome Project”, *Hypatia*, 10(4): 104–129. doi:10.1111/j.1527-2001.1995.tb01001.x
+* Rosner, Mary and T. R. Johnson, 1995, “Telling Stories: Metaphors of the Human Genome Project”, *Hypatia*, 10(4): 104–129. doi: 10.1111/j.1527-2001.1995.tb01001.x
 * Rosser, Sue Vilhauer (ed.), 1988a, *Feminism within the Science and Health Care Professions*, Sue Rosser (ed.), Elmsford, NY: Pergamon Press.
 * –––, 1988b, “Women in Science and Health Care: A Gender at Risk”, *Feminism within the Science and Health Care Professions*, Sue Rosser (ed.), Elmsford, NY: Pergamon Press, 3–15.
 * –––, 1992, *Biology & Feminism: A Dynamic Interaction* (Impact of Feminism on the Arts and Sciences), New York: Twayne Publishers.
@@ -403,48 +403,48 @@ and
 * Rosser, Sue and A. Charlotte Hogsett, 1984, “Darwin and Sexism: Victorian Causes, Contemporary Effects”, in *Feminist Visions: Toward a Transformation of the Liberal Arts Curriculum*, Diane L. Fowlkes and Charlotte S. McClure (eds), University, AL: University of Alabama Press, 42–45.
 * Roughgarden, Joan, 2004, *Evolution’s Rainbow: Diversity, Gender, and Sexuality in Nature and People*, Berkeley CA: University of California Press.
 * –––, 2009, *The Genial Gene: Deconstructing Darwinian Selfishness*, Berkeley CA: University of California Press.
-* Roy, Deboleena, 2004, “Feminist Theory in Science: Working Toward a Practical Transformation”, *Hypatia*, 19(1): 255–279. doi:10.1111/j.1527-2001.2004.tb01277.x
-* –––, 2016, “Neuroscience and Feminist Theory: A New Directions Essay”, *Signs: Journal of Women in Culture and Society*, 41(3): 531–552. doi:10.1086/684266
+* Roy, Deboleena, 2004, “Feminist Theory in Science: Working Toward a Practical Transformation”, *Hypatia*, 19(1): 255–279. doi: 10.1111/j.1527-2001.2004.tb01277.x
+* –––, 2016, “Neuroscience and Feminist Theory: A New Directions Essay”, *Signs: Journal of Women in Culture and Society*, 41(3): 531–552. doi: 10.1086/684266
 * Sanday, Peggy, 2003, “Rape-Free versus Rape-Prone: How Culture Makes a Difference”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 337–362.
 * Sayers, Janet, 1982, *Biological Politics: Feminist and Anti-Feminist Perspectives*, London/New York: Tavistock and Methuen.
 * Schiebinger, Londa L., 1989, *The Mind Has No Sex? Women in the Origins of Modern Science*, Cambridge, MA: Harvard University Press.
 * –––, 1999, *Has Feminism Changed Science?*, Cambridge, MA: Harvard University Press.
 * Shields, Stephanie and Pamela Steinke, 2003, “Does Self-Report Make Sense as an Investigative Method in Evolutionary Psychology?” in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 87–104.
-* Schmitz, Sigrid and Grit Höppner, 2014, “Neurofeminism and Feminist Neurosciences: A Critical Review of Contemporary Brain Research”, *Frontiers in Human Neuroscience*, 8: article 546. doi:10.3389/fnhum.2014.00546
+* Schmitz, Sigrid and Grit Höppner, 2014, “Neurofeminism and Feminist Neurosciences: A Critical Review of Contemporary Brain Research”, *Frontiers in Human Neuroscience*, 8: article 546. doi: 10.3389/fnhum.2014.00546
 * Slocum, Sally, 1975, “Woman the Gatherer: Male Bias in Anthropology”, in *Toward an Anthropology of Women*, Rayna R. Reiter (ed.), New York: Monthly Review Press, 36–50.
 * Small, Meredith F. (ed.), 1984, *Female Primates: Studies by Women Primatologists* (Monographs in Primatology, 4), New York: A.R. Liss.
 * –––, 1993, *Female Choices: Sexual Behavior of Female Primates*, Ithaca, NY: Cornell University Press.
 * –––, 1995, *What’s Love Got to Do with It? The Evolution of Human Mating*, New York: Anchor Books.
-* Smuts, Barbara, 1992, “Male Aggression against Women: An Evolutionary Perspective”, *Human Nature*, 3(1): 1–44. doi:10.1007/BF02692265
-* Smuts, Barbara B. and Robert W. Smuts, 1993, “Male Aggression and Sexual Coercion of Females in Nonhuman Primates and Other Mammals: Evidence and Theoretical Implications”, in *Advances in the Study of Behavior*, 22: 1–63. doi:10.1016/S0065-3454(08)60404-0
+* Smuts, Barbara, 1992, “Male Aggression against Women: An Evolutionary Perspective”, *Human Nature*, 3(1): 1–44. doi: 10.1007/BF02692265
+* Smuts, Barbara B. and Robert W. Smuts, 1993, “Male Aggression and Sexual Coercion of Females in Nonhuman Primates and Other Mammals: Evidence and Theoretical Implications”, in *Advances in the Study of Behavior*, 22: 1–63. doi: 10.1016/S0065-3454(08)60404-0
 * Spanier, Bonnie, 1995, “Biological Determinism and Homosexuality”, *NWSA Journal*, 7(1): 54–71.
-* Sperling, Susan, 1991, “Baboons with Briefcases: Feminism, Functionalism, and Sociobiology in the Evolution of Primate Gender”, *Signs: Journal of Women in Culture and Society*, 17(1): 1–27. doi:10.1086/494711
+* Sperling, Susan, 1991, “Baboons with Briefcases: Feminism, Functionalism, and Sociobiology in the Evolution of Primate Gender”, *Signs: Journal of Women in Culture and Society*, 17(1): 1–27. doi: 10.1086/494711
 * Sterelny, Kim and Paul E. Griffiths, 1999, *Sex and Death: An Introduction to Philosophy of Biology*, Chicago: University of Chicago Press.
 * Strum, Shirley and Lindo Fedigan (eds.), 2000, *Primate Encounters: Modles of Science, Gender, and Society*, Chicago: University of Chicago Press.
 * Summers, Lawrence, 2005, “Remarks at NBER Conference on Diversifying the Science & Engineering Workforce”, Cambridge, MA. [[Summers 2005 available online](https://www.harvard.edu/president/news-speeches-summers/2005/remarks-at-nber-conference-on-diversifying-the-science-engineering-workforce/)]
 * Tanner, Nancy Makepeace, 1981, *On Becoming Human*, Cambridge/New York: Cambridge University Press.
-* Tanner, Nancy and Adrienne Zihlman, 1976, “Women in Evolution. Part I: Innovation and Selection in Human Origins”, *Signs: Journal of Women in Culture and Society*, 1(3, Part 1): 585–608. doi:10.1086/493245
+* Tanner, Nancy and Adrienne Zihlman, 1976, “Women in Evolution. Part I: Innovation and Selection in Human Origins”, *Signs: Journal of Women in Culture and Society*, 1(3, Part 1): 585–608. doi: 10.1086/493245
 * Thornhill, Randy and Craig T. Palmer, 2000, *A Natural History of Rape: Biological Bases of Sexual Coercion*, Cambridge, Mass: MIT Press.
 * Toback, Ethel and Rachel Reed, 2003, “Understanding Rape”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 105–138.
-* Tooby, John and Leda Cosmides, 1992, “The Psychological Foundations of Culture”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 19–136. doi:10.1093/oso/9780195060232.003.0002
-* Travis, Cheryl Brown (ed.), 2003a, *Evolution, Gender, and Rape*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/2874.001.0001
+* Tooby, John and Leda Cosmides, 1992, “The Psychological Foundations of Culture”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 19–136. doi: 10.1093/oso/9780195060232.003.0002
+* Travis, Cheryl Brown (ed.), 2003a, *Evolution, Gender, and Rape*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/2874.001.0001
 * –––, 2003b, “Talking Evolution and Selling Difference”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 3–28.
 * –––, 2003c, “Theory and Data on Rape and Evolution”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 207–220.
-* Trivers, Robert L., 1972, “Parental Investment and Sexual Selection”, in *Sexual Selection and the Descent of Man:1871–1971*, Bernard Campbell (ed.), Chicago: Aldine, 136–179.
-* Tuana, Nancy, 1997, “Fleshing Gender, Sexing the Body: Refiguring the Sex/Gender Distinction”, *The Southern Journal of Philosophy*, 35(S1): 53–71. doi:10.1111/j.2041-6962.1997.tb02207.x
-* Van Anders, Sari M., 2015, “Beyond Sexual Orientation: Integrating Gender/Sex and Diverse Sexualities via Sexual Configurations Theory”, *Archives of Sexual Behavior*, 44(5): 1177–1213. doi:10.1007/s10508-015-0490-8
-* Van Anders, Sari M., Jeffrey Steiger, and Katherine L. Goldey, 2015, “Effects of Gendered Behavior on Testosterone in Women and Men”, *Proceedings of the National Academy of Sciences*, 112(45): 13805–13810. doi:10.1073/pnas.1509591112
-* Vandermassen, Griet, 2004, “Sexual Selection: A Tale of Male Bias and Feminist Denial”, *European Journal of Women’s Studies*, 11(1): 9–26. doi:10.1177/1350506804039812
+* Trivers, Robert L., 1972, “Parental Investment and Sexual Selection”, in *Sexual Selection and the Descent of Man: 1871–1971*, Bernard Campbell (ed.), Chicago: Aldine, 136–179.
+* Tuana, Nancy, 1997, “Fleshing Gender, Sexing the Body: Refiguring the Sex/Gender Distinction”, *The Southern Journal of Philosophy*, 35(S1): 53–71. doi: 10.1111/j.2041-6962.1997.tb02207.x
+* Van Anders, Sari M., 2015, “Beyond Sexual Orientation: Integrating Gender/Sex and Diverse Sexualities via Sexual Configurations Theory”, *Archives of Sexual Behavior*, 44(5): 1177–1213. doi: 10.1007/s10508-015-0490-8
+* Van Anders, Sari M., Jeffrey Steiger, and Katherine L. Goldey, 2015, “Effects of Gendered Behavior on Testosterone in Women and Men”, *Proceedings of the National Academy of Sciences*, 112(45): 13805–13810. doi: 10.1073/pnas.1509591112
+* Vandermassen, Griet, 2004, “Sexual Selection: A Tale of Male Bias and Feminist Denial”, *European Journal of Women’s Studies*, 11(1): 9–26. doi: 10.1177/1350506804039812
 * Vickers, A. Leah and Philip Kitcher, 2003, “Popsociobiology Reborn: The Evolutionary Psychology of Sex and Violence”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 139–168.
 * Weaver, Sara and Carla Fehr, 2017, “Values, Practices, and Metaphysical Assumptions in the Biological Sciences”, in *The Routledge Companion to Feminist Philosophy*, Ann Garry, Serena J. Khader, and Alison Stone (eds), New York: Routledge, 314–328 (ch. 26).
 * White, Jacquelyn and Lori Post, 2003, “Understanding Rape: A Metatheoretical Framework”, in [Travis 2003a](https://plato.stanford.edu/entries/feminist-philosophy-biology/#travis2003): 383–412.
 * Williams, George C., 1966, *Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought*, Princeton, NJ: Princeton University Press.
 * Wilson, Edward O., 1975, *Sociobiology: The New Synthesis*, Cambridge, MA: Belknap Press of Harvard University Press.
 * –––, 1978, *On Human Nature*, Cambridge, MA: Harvard University Press.
-* Wilson, Margo and Martin Daly, 1992, “The Man Who Mistook His Wife for a Chattel”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 289–326. doi:10.1093/oso/9780195060232.003.0008
+* Wilson, Margo and Martin Daly, 1992, “The Man Who Mistook His Wife for a Chattel”, in [Barkow, Cosmides, and Tooby 1992](https://plato.stanford.edu/entries/feminist-philosophy-biology/#barkowetal1992): 289–326. doi: 10.1093/oso/9780195060232.003.0008
 * –––, 1998, “Lethal and Nonlethal Violence Against Wives and the Evolutionary Psychology of Male Sexual Proprietariness”, in *Rethinking Violence against Women*, R. Emerson Dobash and Russell Dobash (eds.), (Sage Series on Violence against Women 9), Thousand Oaks, CA: Sage Publications, 199–230 (ch. 8).
-* Wylie, Alison, 2015, “A Plurality of Pluralisms: Collaborative Practice in Archaeology”, in *Objectivity in Science: New Perspectives from Science and Technology Studies*, Flavia Padovani, Alan Richardson, and Jonathan Y. Tsou (eds), (Boston Studies in the Philosophy and History of Science 310), Cham: Springer International Publishing, 189–210. doi:10.1007/978-3-319-14349-1_10
-* Zihlman, Adrienne L., 1978, “Women in Evolution, Part II: Subsistence and Social Organization among Early Hominids”, *Signs: Journal of Women in Culture and Society*, 4(1): 4–20. doi:10.1086/493566
+* Wylie, Alison, 2015, “A Plurality of Pluralisms: Collaborative Practice in Archaeology”, in *Objectivity in Science: New Perspectives from Science and Technology Studies*, Flavia Padovani, Alan Richardson, and Jonathan Y. Tsou (eds), (Boston Studies in the Philosophy and History of Science 310), Cham: Springer International Publishing, 189–210. doi: 10.1007/978-3-319-14349-1_10
+* Zihlman, Adrienne L., 1978, “Women in Evolution, Part II: Subsistence and Social Organization among Early Hominids”, *Signs: Journal of Women in Culture and Society*, 4(1): 4–20. doi: 10.1086/493566
 
 ## Academic Tools
 

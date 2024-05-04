@@ -18,7 +18,7 @@
 
 ## 理论理论
 
-在分析哲学中的一个主流观点是，民间心理学（FP）是一个理论，而 FP 的能力在某种意义上或在某个层面上中心地涉及理论化。这些观念在分析传统中有深刻的根基，并且已经塑造了关于这个主题的许多共识。一般观点被称为理论-理论，或 TT，在哲学和心理学领域中广为人知——这个名称最早由莫顿（1980）引入，以突出“FP 是一个理论”这一命题本身就是一个理论，而不明显是一个真实的理论。其他人，比如罗森伯格，坚持认为 FP在分析哲学中的一个主流观点是，民间心理学（FP）是一个理论，而 FP 的能力在某种意义上或在某个层面上中心地涉及理论化。这些观念在分析传统中有深刻的根基，并且已经塑造了关于这个主题的许多共识。一般观点被称为理论-理论，或 TT，在哲学和心理学领域中广为人知——这个名称最早由莫顿（1980）引入，以突出“FP 是一个理论”这一命题本身就是一个理论，而不明显是一个真实的理论。其他人，比如罗森伯格，坚持认为 FP
+在分析哲学中的一个主流观点是，民间心理学（FP）是一个理论，而 FP 的能力在某种意义上或在某个层面上中心地涉及理论化。这些观念在分析传统中有深刻的根基，并且已经塑造了关于这个主题的许多共识。一般观点被称为理论-理论，或 TT，在哲学和心理学领域中广为人知——这个名称最早由莫顿（1980）引入，以突出“FP 是一个理论”这一命题本身就是一个理论，而不明显是一个真实的理论。其他人，比如罗森伯格，坚持认为 FP 在分析哲学中的一个主流观点是，民间心理学（FP）是一个理论，而 FP 的能力在某种意义上或在某个层面上中心地涉及理论化。这些观念在分析传统中有深刻的根基，并且已经塑造了关于这个主题的许多共识。一般观点被称为理论-理论，或 TT，在哲学和心理学领域中广为人知——这个名称最早由莫顿（1980）引入，以突出“FP 是一个理论”这一命题本身就是一个理论，而不明显是一个真实的理论。其他人，比如罗森伯格，坚持认为 FP
 
 > 是如此简单和显而易见，几乎荒谬要称之为一个“理论”。 (2018: 36)
 
@@ -36,7 +36,7 @@ ToM 是一种特定类型的理论：它被认为具有独特类型的内容。 
 
 根据 TT 们的说法，参与 FP 涉及使用一套独特的原则——有关心理态度及其与其他心态关系的一套定律或命题，通过运用相关的心理概念来进行部署。据称，这种推论系统构成了解释并以理由为基础对行为进行合理化的核心框架，尽管它必须由进一步的支持性概括来论证，这些概括关于人们在各种情况下通常会做什么。
 
-几个哲学考虑共同促使 TT 成为 FP 的一个令人信服的观点。在他的开创性著作《经验主义与心灵哲学》（1956）中，威尔弗里德·塞拉斯提出了我们对心理状态的理解本质上是理论性的这一观点。在一段引人入胜的哲学人类学虚构中，他著名地思考了我们的莱尔祖先是如何首次将思想理解为内在事件的。他创造了一个神话中的琼斯，他将内在思想建模为明显的言语行为，并想象前者可以像后者一样在行动解释中被引用。假设原因是行动的推断性原因，那么认为使用超越他人外在反应中所给出的内容的模式来解释行动必然是一种理论活动，只是一个小小的步骤。根据上述要求将文本翻译为简体中文。
+几个哲学考虑共同促使 TT 成为 FP 的一个令人信服的观点。在他的开创性著作《经验主义与心灵哲学》（1956）中，威尔弗里德 · 塞拉斯提出了我们对心理状态的理解本质上是理论性的这一观点。在一段引人入胜的哲学人类学虚构中，他著名地思考了我们的莱尔祖先是如何首次将思想理解为内在事件的。他创造了一个神话中的琼斯，他将内在思想建模为明显的言语行为，并想象前者可以像后者一样在行动解释中被引用。假设原因是行动的推断性原因，那么认为使用超越他人外在反应中所给出的内容的模式来解释行动必然是一种理论活动，只是一个小小的步骤。根据上述要求将文本翻译为简体中文。
 
 这种理解方式是对世界各方面的真正智能交流通过某种形式的再现进行了中介的自然伙伴。接受一种心理再现理论然后假设我们对心智的 FP 了解需要再现智能生物的再现，从而采取一种“理论型”的或观察者的态度。根据这种观点，理解和与其他思想进行互动需要提出假设，明确“在”这些思想中究竟发生了什么，因为这些工作并没有直接开放给视察。
 
@@ -72,7 +72,7 @@ Fodor（1983）的原始表述中，心理模块的一个定义特征是它们�
 
 因此，每种类型的心智模块被假定仅限于处理其专业关注的主题。模块是特定领域的，因为只有一类有限的输入才能激活它们。由于人们认为它们能够完成这样专门的工作，ToM 模块是可以分离的：它们可以选择性地受损、损坏或失效，而不会影响其他系统的运作，反之亦然。一些人认为 ToM 模块的这个特征使它们特别适合解释特定情况下表现出的受损心理推理能力。据假设，这样的非典型认知特征是在 ToM 模块的受损或功能失调的神经认知机制中扎根的。据推测，受损的 ToM 模块负责特定的 FP 能力特征，这些能力由认知多样的个体展示 —— 那些具有特定心理病理的人，例如孤独症谱系障碍、精神分裂症和边缘人格障碍（例如，Baron-Cohen, Leslie, & Frith 1985；Ozonoff, Pennington, & Rogers 1991；Frith 1992；Baron-Cohen 1995，2000；Corcoran 2000；Brüne 2005；Sprong 等人 2007，Fonagy & Luyten 2009；Arntz et al. 2009；Franzen 等人 2011）。
 
-一些从业者和理论家质疑试图以受损的心理模拟模块来解释各种心理条件的解释价值（见例如：Hobson 1991，2002；Williams 2004；Shanker 2004；Belmonte 2009）。神经多样性倡导者认为，整个以心理模拟缺陷来解释假定的心理病理障碍的框架是令人反感的。他们认为，被指定为心理病理的非典型认知差异根本不应被称为认知缺陷或障碍。相反，我们应该仅仅认识到，特定的非典型认知特征与多样的认知风格相关联，并且其中一些特征具有特殊优势（见 Yergeau 2013，以及 Rosqvist、Chown 和 Stenning[eds] 2020 提供的一组沿着这些线路的评论文章）。
+一些从业者和理论家质疑试图以受损的心理模拟模块来解释各种心理条件的解释价值（见例如：Hobson 1991，2002；Williams 2004；Shanker 2004；Belmonte 2009）。神经多样性倡导者认为，整个以心理模拟缺陷来解释假定的心理病理障碍的框架是令人反感的。他们认为，被指定为心理病理的非典型认知差异根本不应被称为认知缺陷或障碍。相反，我们应该仅仅认识到，特定的非典型认知特征与多样的认知风格相关联，并且其中一些特征具有特殊优势（见 Yergeau 2013，以及 Rosqvist、Chown 和 Stenning [eds] 2020 提供的一组沿着这些线路的评论文章）。
 
 那些主张存在 ToM 模块的人的一个共同点是，他们假定这些心理设备是我们物种中无障碍成员通常进行日常社会认知的手段。在这一共识点之外，模块论者提出了关于 ToM 模块起源及其获取方式的重要不同理论。
 
@@ -206,7 +206,7 @@ FB 测试的结果在中立的呈现下并不自动支持心理理论解释。FB
 
 > 儿童的早期社会经验在这些社会中明显不同于西方文化中的儿童经验。（Mayer & Träuble 2013: 22; Barrett et al. 2013a, 2013b）
 
-例如，考虑梅尔和特劳布勒（2013）对萨摩亚儿童 FP 理解起始研究。像其他跨文化研究人员一样，他们选择研究这个特定人群，因为“民族志学报告了不同的社会心理理解实践”（梅尔和特劳布勒 2013:22）。在讨论萨摩亚案例中 FP 相关能力的出现和应用时，一个合理的解释关注于在该文化中使用心理状态术语的方式以及频率。正如文化人类学家和民族志学家所观察到的那样，太平洋社会广泛声称，在那里...
+例如，考虑梅尔和特劳布勒（2013）对萨摩亚儿童 FP 理解起始研究。像其他跨文化研究人员一样，他们选择研究这个特定人群，因为“民族志学报告了不同的社会心理理解实践”（梅尔和特劳布勒 2013: 22）。在讨论萨摩亚案例中 FP 相关能力的出现和应用时，一个合理的解释关注于在该文化中使用心理状态术语的方式以及频率。正如文化人类学家和民族志学家所观察到的那样，太平洋社会广泛声称，在那里...
 
 > 人们几乎不可能知道别人在想什么或感受到什么。(Robbins & Rumsey 2008: 407–408)
 
@@ -282,7 +282,7 @@ Goldman (2006) 比如 描绘了与民间心理学理解相关的高阶心智阅�
 
 叙事实践假说（NPH）全面挑战了 TT。在其最初的阐述中，它包含了现象学批评者和 FP pluralists 对 TT 提出的挑战的版本。受布鲁纳（1990）的启发，NPH 认为民间心理学是一种叙事实践，并假设我们的 FP 能力是通过参与获得社会支持的讲故事活动来培养的（Hutto 2004, 2007, 2008）.
 
-NPH（即故事性心理学）认为，参与特定类型的叙事实践是人类理解、解释和理解以心理学术语来说是基于理由的行为的正常途径。正是通过这种叙事实践，我们通常了解到心理态度或属性（例如，信念、欲望、希望、恐惧等），并了解到这些态度之间可能相互关联的复杂方式。NPH与心理学实践相当灵活这一事实是一致的。在解释某人的行为时，我们不仅调用了信念和欲望等心理状态，还包括希望、恐惧以及其他更基本的感知、情感等心理属性，以及性格特征和非心理属性。NPH假设对行为的更充分和完整的解释将详细说明个人的性格、处境和历史，简而言之，更多地讲述个人的“故事”。
+NPH（即故事性心理学）认为，参与特定类型的叙事实践是人类理解、解释和理解以心理学术语来说是基于理由的行为的正常途径。正是通过这种叙事实践，我们通常了解到心理态度或属性（例如，信念、欲望、希望、恐惧等），并了解到这些态度之间可能相互关联的复杂方式。NPH 与心理学实践相当灵活这一事实是一致的。在解释某人的行为时，我们不仅调用了信念和欲望等心理状态，还包括希望、恐惧以及其他更基本的感知、情感等心理属性，以及性格特征和非心理属性。NPH 假设对行为的更充分和完整的解释将详细说明个人的性格、处境和历史，简而言之，更多地讲述个人的“故事”。
 
 民间心理学的主要功能是通过规范化的解释来理解和证明行为的诠释。 它假设这样的解释不能被理解为向后看的正向预测的反向预测。 按照安德鲁斯（2003），NPH 因此挑战了预测和解释对称的假设。 与心理塑造假设一致，NPH 假定我们对心灵进行的任何理论化，通过调用概括，都是远不及基于叙事的理解行为原因的更主要方式的外围和寄生的。 NPH 假定理论化仅发生在第三人称背景中，支撑 FP 预测和解释的核心 FP 理解无需基于任何一种 ToM。
 
@@ -296,260 +296,260 @@ FP 叙事是叙事的一个特殊子集——它们提及并展示心理状态�
 
 * Anderson, Michael L., 2014, *After Phrenology: Neural Reuse and the Interactive Brain*, Cambridge, MA: MIT Press.
 * Andrews, Kristin, 2003, “Knowing Mental States: The Asymmetry of Psychological Prediction and Explanation”, in *Consciousness: New Philosophical Perspectives*, Quentin Smith and Aleksandar Jokic (eds.), Oxford: Oxford University Press, 201–219.
-* –––, 2008, “It’s in Your Nature: A Pluralistic Folk Psychology”, *Synthese*, 165(1): 13–29. doi:10.1007/s11229-007-9230-5
+* –––, 2008, “It’s in Your Nature: A Pluralistic Folk Psychology”, *Synthese*, 165(1): 13–29. doi: 10.1007/s11229-007-9230-5
 * –––, 2012, *Do Apes Read Minds? Toward a New Folk Psychology*, Cambridge, MA: MIT Press.
-* Andrews, Kristin, Shannon Spaulding, and Evan Westra, forthcoming, “Introduction to *Folk Psychology: Pluralistic Approaches*”, *Synthese*, first online: 20 August 2020. doi:10.1007/s11229-020-02837-3
-* Apperly, Ian A., 2008, “Beyond Simulation–Theory and Theory–Theory: Why Social Cognitive Neuroscience Should Use Its Own Concepts to Study ‘Theory of Mind’”, *Cognition*, 107(1): 266–283. doi:10.1016/j.cognition.2007.07.019
+* Andrews, Kristin, Shannon Spaulding, and Evan Westra, forthcoming, “Introduction to *Folk Psychology: Pluralistic Approaches*”, *Synthese*, first online: 20 August 2020. doi: 10.1007/s11229-020-02837-3
+* Apperly, Ian A., 2008, “Beyond Simulation–Theory and Theory–Theory: Why Social Cognitive Neuroscience Should Use Its Own Concepts to Study ‘Theory of Mind’”, *Cognition*, 107(1): 266–283. doi: 10.1016/j.cognition.2007.07.019
 * –––, 2010, *Mindreaders: The Cognitive Basis of “Theory of Mind”*, Abingdon: Psychology Press.
-* –––, 2013, “Can Theory of Mind Grow up? Mindreading in Adults, and Its Implications for the Development and Neuroscience of Mindreading”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 72–92. doi:10.1093/acprof:oso/9780199692972.003.0005
-* Apperly, Ian A. and Stephen A. Butterfill, 2009, “Do Humans Have Two Systems to Track Beliefs and Belief-like States?”, *Psychological Review*, 116(4): 953–970. doi:10.1037/a0016923
-* Arntz, Arnoud, David Bernstein, Margreet Oorschot, and Paul Schobre, 2009, “Theory of Mind in Borderline and Cluster-C Personality Disorder”, *Journal of Nervous & Mental Disease*, 197(11): 801–807. doi:10.1097/NMD.0b013e3181be78fb
+* –––, 2013, “Can Theory of Mind Grow up? Mindreading in Adults, and Its Implications for the Development and Neuroscience of Mindreading”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 72–92. doi: 10.1093/acprof: oso/9780199692972.003.0005
+* Apperly, Ian A. and Stephen A. Butterfill, 2009, “Do Humans Have Two Systems to Track Beliefs and Belief-like States?”, *Psychological Review*, 116(4): 953–970. doi: 10.1037/a0016923
+* Arntz, Arnoud, David Bernstein, Margreet Oorschot, and Paul Schobre, 2009, “Theory of Mind in Borderline and Cluster-C Personality Disorder”, *Journal of Nervous & Mental Disease*, 197(11): 801–807. doi: 10.1097/NMD.0b013e3181be78fb
 * Astington, Janet Wilde, 1990, “Narrative and the Child’s Theory of Mind”, in *Narrative Thought and Narrative Language*, Bruce K Britton and Anthony D. Pellegrini (eds), Hillsdale, NJ: Erlbaum, 151–171.
-* –––, 1996, “What Is Theoretical about the Child’s Theory of Mind?: A Vygotskian View of Its Development”, in Carruthers and Smith 1996: 184–199. doi:10.1017/CBO9780511597985.013
+* –––, 1996, “What Is Theoretical about the Child’s Theory of Mind?: A Vygotskian View of Its Development”, in Carruthers and Smith 1996: 184–199. doi: 10.1017/CBO9780511597985.013
 * –––, 2001, “The Paradox of Intention: Assessing Children’s Metarepresentational Understanding”, in Malle, Moses, and Baldwin 2001: 85–103.
-* Astington, Janet Wilde and Jennifer M. Jenkins, 1999, “A Longitudinal Study of the Relation between Language and Theory-of-Mind Development.”, *Developmental Psychology*, 35(5): 1311–1320. doi:10.1037/0012-1649.35.5.1311
-* Avis, Jeremy and Paul L. Harris, 1991, “Belief-Desire Reasoning among Baka Children: Evidence for a Universal Conception of Mind”, *Child Development*, 62(3): 460–467. doi:10.2307/1131123
-* Badgaiyan, Rajendra D., 2009, “Theory of Mind and Schizophrenia”, *Consciousness and Cognition*, 18(1): 320–322. doi:10.1016/j.concog.2008.10.008
+* Astington, Janet Wilde and Jennifer M. Jenkins, 1999, “A Longitudinal Study of the Relation between Language and Theory-of-Mind Development.”, *Developmental Psychology*, 35(5): 1311–1320. doi: 10.1037/0012-1649.35.5.1311
+* Avis, Jeremy and Paul L. Harris, 1991, “Belief-Desire Reasoning among Baka Children: Evidence for a Universal Conception of Mind”, *Child Development*, 62(3): 460–467. doi: 10.2307/1131123
+* Badgaiyan, Rajendra D., 2009, “Theory of Mind and Schizophrenia”, *Consciousness and Cognition*, 18(1): 320–322. doi: 10.1016/j.concog.2008.10.008
 * Baker, Lynne Rudder, 1988, *Saving Belief: A Critique of Physicalism*, Princeton, NJ: Princeton University Press.
-* Baillargeon, Renée, Rose M. Scott, and Lin Bian, 2016, “Psychological Reasoning in Infancy”, *Annual Review of Psychology*, 67(1): 159–186. doi:10.1146/annurev-psych-010213-115033
-* Baillargeon, Renée, Rose M. Scott, and Zijing He, 2010, “False-Belief Understanding in Infants”, *Trends in Cognitive Sciences*, 14(3): 110–118. doi:10.1016/j.tics.2009.12.006
+* Baillargeon, Renée, Rose M. Scott, and Lin Bian, 2016, “Psychological Reasoning in Infancy”, *Annual Review of Psychology*, 67(1): 159–186. doi: 10.1146/annurev-psych-010213-115033
+* Baillargeon, Renée, Rose M. Scott, and Zijing He, 2010, “False-Belief Understanding in Infants”, *Trends in Cognitive Sciences*, 14(3): 110–118. doi: 10.1016/j.tics.2009.12.006
 * Baron-Cohen Simon, 1995, *Mindblindness: An Essay on Autism and Theory of Mind*, Cambridge, MA: MIT Press.
 * –––, 1999, “The Evolution of Theory of Mind”, in *The Descent of Mind: Psychological Perspectives on Hominid Evolution*, Michael C. Corballis and Stephen E. G. Lea (eds), Oxford: Oxford University Press, 261–277.
 * –––, 2000, “Theory of Mind and Autism: A Fifteen Year Review”, in Baron-Cohen, Tager-Flusberg, and Cohen 2000: 3–20.
-* Baron-Cohen, Simon, Alan M. Leslie, and Uta Frith, 1985, “Does the Autistic Child Have a ‘Theory of Mind’?”, *Cognition*, 21(1): 37–46. doi:10.1016/0010-0277(85)90022-8
-* Baron-Cohen, Simon, Michael Lombardo, and Helen Tager-Flusberg (eds.), 2013, *Understanding Other Minds: Perspectives from Developmental Social Neuroscience*, third edition, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199692972.001.0001
+* Baron-Cohen, Simon, Alan M. Leslie, and Uta Frith, 1985, “Does the Autistic Child Have a ‘Theory of Mind’?”, *Cognition*, 21(1): 37–46. doi: 10.1016/0010-0277(85)90022-8
+* Baron-Cohen, Simon, Michael Lombardo, and Helen Tager-Flusberg (eds.), 2013, *Understanding Other Minds: Perspectives from Developmental Social Neuroscience*, third edition, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199692972.001.0001
 * Baron-Cohen, Simon, Helen Tager-Flusberg, and Donald J. Cohen (eds.), 2000, *Understanding Other Minds: Perspectives from Developmental Cognitive Neuroscience*, second edition, Oxford: Oxford University Press.
-* Barrett, H. Clark, Tanya Broesch, Rose M. Scott, Zijing He, Renée Baillargeon, Di Wu, Matthias Bolz, Joseph Henrich, Peipei Setoh, Jianxin Wang, and Stephen Laurence, 2013a, “Early False-Belief Understanding in Traditional Non-Western Societies”, *Proceedings of the Royal Society B: Biological Sciences*, 280(1755): 20122654 (6 pages). doi:10.1098/rspb.2012.2654
+* Barrett, H. Clark, Tanya Broesch, Rose M. Scott, Zijing He, Renée Baillargeon, Di Wu, Matthias Bolz, Joseph Henrich, Peipei Setoh, Jianxin Wang, and Stephen Laurence, 2013a, “Early False-Belief Understanding in Traditional Non-Western Societies”, *Proceedings of the Royal Society B: Biological Sciences*, 280(1755): 20122654 (6 pages). doi: 10.1098/rspb.2012.2654
 * –––, 2013b, “Supplementary Material: Early False-Belief Understanding in Traditional Non-Western Societies”, *Proceedings of the Royal Society B: Biological Sciences*, 280(1755): 1471–2954.
 * Bartsch Karen and Henry M. Wellman, 1995, *Children Talk about the Mind*, New York: Oxford University Press.
 * Belmonte, Matthew K., 2009, “What’s the Story Behind ‘Theory of Mind’ and Autism?” *Journal of Consciousness Studies*, 16(6–8): 118–139.
-* Bermúdez, José Luis, 2003, “The Domain of Folk Psychology”, *Royal Institute of Philosophy Supplement*, 53: 25–48. doi:10.1017/S1358246100008250
-* –––, 2011, “The Force-Field Puzzle and Mindreading in Non-Human Primates”, *Review of Philosophy and Psychology*, 2(3): 397–410. doi:10.1007/s13164-011-0077-9
-* Buckner, Cameron, 2014, “The Semantic Problem(s) with Research on Animal Mind-Reading: The Semantic Problem(s) with Research on Animal Mind-Reading”, *Mind & Language*, 29(5): 566–589. doi:10.1111/mila.12066
+* Bermúdez, José Luis, 2003, “The Domain of Folk Psychology”, *Royal Institute of Philosophy Supplement*, 53: 25–48. doi: 10.1017/S1358246100008250
+* –––, 2011, “The Force-Field Puzzle and Mindreading in Non-Human Primates”, *Review of Philosophy and Psychology*, 2(3): 397–410. doi: 10.1007/s13164-011-0077-9
+* Buckner, Cameron, 2014, “The Semantic Problem(s) with Research on Animal Mind-Reading: The Semantic Problem(s) with Research on Animal Mind-Reading”, *Mind & Language*, 29(5): 566–589. doi: 10.1111/mila.12066
 * Bogdan, Radu J., 2009, *Predicative Minds: The Social Ontogeny of Propositional Thinking*, Cambridge, MA: MIT Press.
-* Bradford, Elisabeth EF, Ines Jentzsch, Juan-Carlos Gomez, Yulu Chen, Da Zhang, and Yanjie Su, 2018, “Cross-Cultural Differences in Adult Theory of Mind Abilities: A Comparison of Native-English Speakers and Native-Chinese Speakers on the Self/Other Differentiation Task”, *Quarterly Journal of Experimental Psychology*, 71(12): 2665–2676. doi:10.1177/1747021818757170
-* Bowers, Jeffrey S. and Colin J. Davis, 2012, “Bayesian Just-so Stories in Psychology and Neuroscience.”, *Psychological Bulletin*, 138(3): 389–414. doi:10.1037/a0026450
-* Brüne, Martin, 2005, “‘Theory of Mind’ in Schizophrenia: A Review of the Literature”, *Schizophrenia Bulletin*, 31(1): 21–42. doi:10.1093/schbul/sbi002
+* Bradford, Elisabeth EF, Ines Jentzsch, Juan-Carlos Gomez, Yulu Chen, Da Zhang, and Yanjie Su, 2018, “Cross-Cultural Differences in Adult Theory of Mind Abilities: A Comparison of Native-English Speakers and Native-Chinese Speakers on the Self/Other Differentiation Task”, *Quarterly Journal of Experimental Psychology*, 71(12): 2665–2676. doi: 10.1177/1747021818757170
+* Bowers, Jeffrey S. and Colin J. Davis, 2012, “Bayesian Just-so Stories in Psychology and Neuroscience.”, *Psychological Bulletin*, 138(3): 389–414. doi: 10.1037/a0026450
+* Brüne, Martin, 2005, “‘Theory of Mind’ in Schizophrenia: A Review of the Literature”, *Schizophrenia Bulletin*, 31(1): 21–42. doi: 10.1093/schbul/sbi002
 * Bruner Jerome S., 1990, *Acts of Meaning*, Cambridge, MA: Harvard University Press.
-* Bugnyar, Thomas and Bernd Heinrich, 2006, “Pilfering Ravens, *Corvus corax*, Adjust Their Behaviour to Social Context and Identity of Competitors”, *Animal Cognition*, 9(4): 369–376. doi:10.1007/s10071-006-0035-6
-* Bugnyar, Thomas, Stephan A. Reber, and Cameron Buckner, 2016, “Ravens Attribute Visual Access to Unseen Competitors”, *Nature Communications*, 7(1): art. 10506. doi:10.1038/ncomms10506
-* Butterfill, Stephen A. and Ian A. Apperly, 2013, “How to Construct a Minimal Theory of Mind: How to Construct a Minimal Theory of Mind”, *Mind & Language*, 28(5): 606–637. doi:10.1111/mila.12036
-* Buttelmann, David, Malinda Carpenter, and Michael Tomasello, 2009, “Eighteen-Month-Old Infants Show False Belief Understanding in an Active Helping Paradigm”, *Cognition*, 112(2): 337–342. doi:10.1016/j.cognition.2009.05.006
+* Bugnyar, Thomas and Bernd Heinrich, 2006, “Pilfering Ravens, *Corvus corax*, Adjust Their Behaviour to Social Context and Identity of Competitors”, *Animal Cognition*, 9(4): 369–376. doi: 10.1007/s10071-006-0035-6
+* Bugnyar, Thomas, Stephan A. Reber, and Cameron Buckner, 2016, “Ravens Attribute Visual Access to Unseen Competitors”, *Nature Communications*, 7(1): art. 10506. doi: 10.1038/ncomms10506
+* Butterfill, Stephen A. and Ian A. Apperly, 2013, “How to Construct a Minimal Theory of Mind: How to Construct a Minimal Theory of Mind”, *Mind & Language*, 28(5): 606–637. doi: 10.1111/mila.12036
+* Buttelmann, David, Malinda Carpenter, and Michael Tomasello, 2009, “Eighteen-Month-Old Infants Show False Belief Understanding in an Active Helping Paradigm”, *Cognition*, 112(2): 337–342. doi: 10.1016/j.cognition.2009.05.006
 * Byrne, Richard W. and Andrew Whiten, 1991, “Computation and Mindreading in Primate Tactical Deception”, in *Natural Theories of Mind*, Andrew Whiten (ed.), Oxford: Basil Blackwell, 127–141.
-* –––, 1997, “Machiavellian Intelligence”, in *Machiavellian Intelligence II: Extensions and Evaluations*, Andrew Whiten and Richard W. Byrne (eds.), Cambridge: Cambridge University Press, 1–23. doi:10.1017/CBO9780511525636.002
-* Call, Josep and Michael Tomasello, 1999, “A Nonverbal False Belief Task: The Performance of Children and Great Apes”, *Child Development*, 70(2): 381–395. doi:10.1111/1467-8624.00028
+* –––, 1997, “Machiavellian Intelligence”, in *Machiavellian Intelligence II: Extensions and Evaluations*, Andrew Whiten and Richard W. Byrne (eds.), Cambridge: Cambridge University Press, 1–23. doi: 10.1017/CBO9780511525636.002
+* Call, Josep and Michael Tomasello, 1999, “A Nonverbal False Belief Task: The Performance of Children and Great Apes”, *Child Development*, 70(2): 381–395. doi: 10.1111/1467-8624.00028
 * –––, 2005, “What Chimpanzees Know about Seeing, Revisited: An Explanation of the Third Kind” in *Joint Attention: Communication and Other Minds*, Naomi Eilan, Christoph Horel, Teresa McCormack, and Johannes Roessler (eds), Oxford: Oxford University Press.
-* –––, 2008, “Does the Chimpanzee Have a Theory of Mind? 30 Years Later”, *Trends in Cognitive Sciences*, 12(5): 187–192. doi:10.1016/j.tics.2008.02.010
-* Carruthers, Peter, 2006, *The Architecture of the Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199207077.001.0001
-* –––, 2011, *The Opacity of MindAn Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199596195.001.0001
-* –––, 2013, “Mindreading in Infancy: Mindreading in Infancy”, *Mind & Language*, 28(2): 141–172. doi:10.1111/mila.12014
-* –––, 2016, “Two Systems for Mindreading?”, *Review of Philosophy and Psychology*, 7(1): 141–162. doi:10.1007/s13164-015-0259-y
-* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511597985
-* Castro, Victor Fernandez, 2020, “Regulation, Normativity and Folk Psychology”, *Topoi*, 39(1): 57–67. doi:10.1007/s11245-017-9511-7
-* Chao, Ruth K., 1994, “Beyond Parental Control and Authoritarian Parenting Style: Understanding Chinese Parenting Through the Cultural Notion of Training”, *Child Development*, 65(4): 1111–1119. doi:10.2307/1131308
-* Churchland, Paul M., 1979, *Scientific Realism and the Plasticity of Mind*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625435
-* –––, 1981, “Eliminative Materialism and the Propositional Attitudes”, *The Journal of Philosophy*, 78(2): 67–90. doi:10.2307/2025900
+* –––, 2008, “Does the Chimpanzee Have a Theory of Mind? 30 Years Later”, *Trends in Cognitive Sciences*, 12(5): 187–192. doi: 10.1016/j.tics.2008.02.010
+* Carruthers, Peter, 2006, *The Architecture of the Mind*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199207077.001.0001
+* –––, 2011, *The Opacity of MindAn Integrative Theory of Self-Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199596195.001.0001
+* –––, 2013, “Mindreading in Infancy: Mindreading in Infancy”, *Mind & Language*, 28(2): 141–172. doi: 10.1111/mila.12014
+* –––, 2016, “Two Systems for Mindreading?”, *Review of Philosophy and Psychology*, 7(1): 141–162. doi: 10.1007/s13164-015-0259-y
+* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511597985
+* Castro, Victor Fernandez, 2020, “Regulation, Normativity and Folk Psychology”, *Topoi*, 39(1): 57–67. doi: 10.1007/s11245-017-9511-7
+* Chao, Ruth K., 1994, “Beyond Parental Control and Authoritarian Parenting Style: Understanding Chinese Parenting Through the Cultural Notion of Training”, *Child Development*, 65(4): 1111–1119. doi: 10.2307/1131308
+* Churchland, Paul M., 1979, *Scientific Realism and the Plasticity of Mind*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625435
+* –––, 1981, “Eliminative Materialism and the Propositional Attitudes”, *The Journal of Philosophy*, 78(2): 67–90. doi: 10.2307/2025900
 * –––, 1989, *A Neurocomputational Perspective: The Nature of Mind and the Structure of Science*, Cambridge, MA: MIT Press.
-* –––, 1993, “Evaluating Our Self Conception”, *Mind & Language*, 8(2): 211–222. doi:10.1111/j.1468-0017.1993.tb00281.x
-* Clark, Andy, 2016, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190217013.001.0001
+* –––, 1993, “Evaluating Our Self Conception”, *Mind & Language*, 8(2): 211–222. doi: 10.1111/j.1468-0017.1993.tb00281.x
+* Clark, Andy, 2016, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190217013.001.0001
 * Corcoran, Rhiannon, 2000, “Theory of Mind in Other Clinical Conditions: Is a Selective ‘Theory of Mind’ Deficit Exclusive to Autism”, in Baron-Cohen, Tager-Flusberg, and Cohen 2000: 391–421.
-* Dally, Joanna M., Nathan J. Emery, and Nicola S. Clayton, 2006, “Food-Caching Western Scrub-Jays Keep Track of Who Was Watching When”, *Science*, 312(5780): 1662–1665. doi:10.1126/science.1126539
+* Dally, Joanna M., Nathan J. Emery, and Nicola S. Clayton, 2006, “Food-Caching Western Scrub-Jays Keep Track of Who Was Watching When”, *Science*, 312(5780): 1662–1665. doi: 10.1126/science.1126539
 * Davidson, Donald, 1984, *Inquiries into Truth and Interpretation*, Oxford: Clarendon Press.
 * –––, 1987, “Problems in the Explanation of Action”, in *Metaphysics and Morality: Essays in Honour of J.J.C. Smart*, Philip Pettit, Richard Sylvan, and Jean Norman (eds.), Oxford: Blackwell, 34–49.
 * Davies, Martin and Tony Stone (eds), 1995, *Mental Simulation: Evalulation and Applications*, Oxford: Blackwell.
-* De Bruin, L. C. and A. Newen, 2014, “The Developmental Paradox of False Belief Understanding: A Dual-System Solution”, *Synthese*, 191(3): 297–320. doi:10.1007/s11229-012-0127-6
-* Demeter, Tamás, 2013, “Mental Fictionalism: The Very Idea”, *Monist*, 96(4): 483–504. doi:10.5840/monist201396422
+* De Bruin, L. C. and A. Newen, 2014, “The Developmental Paradox of False Belief Understanding: A Dual-System Solution”, *Synthese*, 191(3): 297–320. doi: 10.1007/s11229-012-0127-6
+* Demeter, Tamás, 2013, “Mental Fictionalism: The Very Idea”, *Monist*, 96(4): 483–504. doi: 10.5840/monist201396422
 * Dennett, Daniel C., 1985, *Brainstorms*, Cambridge, MA: MIT Press.
 * –––, 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
-* –––, 1991, “Real Patterns”, *The Journal of Philosophy*, 88(1): 27–51. doi:10.2307/2027085
-* Doan, Stacey N. and Qi Wang, 2010, “Maternal Discussions of Mental States and Behaviors: Relations to Emotion Situation Knowledge in European American and Immigrant Chinese Children: Culture, Mental States, and Emotion”, *Child Development*, 81(5): 1490–1503. doi:10.1111/j.1467-8624.2010.01487.x
-* Egan, Frances, 1995, “Folk Psychology and Cognitive Architecture”, *Philosophy of Science*, 62(2): 179–196. doi:10.1086/289851
-* –––, 2014, “How to Think about Mental Content”, *Philosophical Studies*, 170(1): 115–135. doi:10.1007/s11098-013-0172-0
+* –––, 1991, “Real Patterns”, *The Journal of Philosophy*, 88(1): 27–51. doi: 10.2307/2027085
+* Doan, Stacey N. and Qi Wang, 2010, “Maternal Discussions of Mental States and Behaviors: Relations to Emotion Situation Knowledge in European American and Immigrant Chinese Children: Culture, Mental States, and Emotion”, *Child Development*, 81(5): 1490–1503. doi: 10.1111/j.1467-8624.2010.01487.x
+* Egan, Frances, 1995, “Folk Psychology and Cognitive Architecture”, *Philosophy of Science*, 62(2): 179–196. doi: 10.1086/289851
+* –––, 2014, “How to Think about Mental Content”, *Philosophical Studies*, 170(1): 115–135. doi: 10.1007/s11098-013-0172-0
 * –––, 2018, “The Nature and Function of Content in Computational Models”, in *The Routledge Handbook of the Computational Mind*, Mark Sprevak and Matteo Colombo (eds), London: Routledge, 247–258.
-* Fenici, Marco, 2015, “Social Cognitive Abilities in Infancy: Is Mindreading the Best Explanation?”, *Philosophical Psychology*, 28(3): 387–411. doi:10.1080/09515089.2013.865096
-* –––, 2015, “A Simple Explanation of Apparent Early Mindreading: Infants’ Sensitivity to Goals and Gaze Direction”, *Phenomenology and the Cognitive Sciences*, 14(3): 497–515. doi:10.1007/s11097-014-9345-3
-* –––, 2017, “What Is the Role of Experience in Children’s Success in the False Belief Test: Maturation, Facilitation, Attunement or Induction?”, *Mind & Language*, 32(3): 308–337. doi:10.1111/mila.12145
-* Fenici, Marco and Duilio Garofoli, 2017, “The Biocultural Emergence of Mindreading: Integrating Cognitive Archaeology and Human Development”, *Journal of Cultural Cognitive Science*, 1(2): 89–117. doi:10.1007/s41809-017-0008-0
-* Fiebich, Anika, 2016, “Narratives, Culture, and Folk Psychology”, *Phenomenology and the Cognitive Sciences*, 15(1): 135–149. doi:10.1007/s11097-014-9378-7
+* Fenici, Marco, 2015, “Social Cognitive Abilities in Infancy: Is Mindreading the Best Explanation?”, *Philosophical Psychology*, 28(3): 387–411. doi: 10.1080/09515089.2013.865096
+* –––, 2015, “A Simple Explanation of Apparent Early Mindreading: Infants’ Sensitivity to Goals and Gaze Direction”, *Phenomenology and the Cognitive Sciences*, 14(3): 497–515. doi: 10.1007/s11097-014-9345-3
+* –––, 2017, “What Is the Role of Experience in Children’s Success in the False Belief Test: Maturation, Facilitation, Attunement or Induction?”, *Mind & Language*, 32(3): 308–337. doi: 10.1111/mila.12145
+* Fenici, Marco and Duilio Garofoli, 2017, “The Biocultural Emergence of Mindreading: Integrating Cognitive Archaeology and Human Development”, *Journal of Cultural Cognitive Science*, 1(2): 89–117. doi: 10.1007/s41809-017-0008-0
+* Fiebich, Anika, 2016, “Narratives, Culture, and Folk Psychology”, *Phenomenology and the Cognitive Sciences*, 15(1): 135–149. doi: 10.1007/s11097-014-9378-7
 * Fiebich, Anika, Shaun Gallagher, and Daniel D. Hutto, 2016, “Pluralism, Interaction, and the Ontogeny of Social Cognition”, in *The Routledge Handbook of The Philosophy of the Social Mind*, Julian Kiverstein (ed.), London: Routledge.
-* Flavell, John H., Eleanor R. Flavell, and Frances L. Green, 1983, “Development of the Appearance-Reality Distinction”, *Cognitive Psychology*, 15(1): 95–120. doi:10.1016/0010-0285(83)90005-1
+* Flavell, John H., Eleanor R. Flavell, and Frances L. Green, 1983, “Development of the Appearance-Reality Distinction”, *Cognitive Psychology*, 15(1): 95–120. doi: 10.1016/0010-0285(83)90005-1
 * Fodor, Jerry A., 1981, *Representations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge, MA: MIT Press.
 * –––, 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
 * –––, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
 * –––, 1990, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press.
 * –––, 1994, *The Elm and the Expert*, Cambridge, MA: MIT Press.
 * –––, 1995, “A Theory of the Child’s Theory of Mind”, in Davies and Stone 1995: ch. 6 (pp. 109–122).
-* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, Oxford: Oxford University Press. doi:10.1093/0198236360.001.0001
-* Fonagy, Peter and Patrick Luyten, 2009, “A Developmental, Mentalization-Based Approach to the Understanding and Treatment of Borderline Personality Disorder”, *Development and Psychopathology*, 21(4): 1355–1381. doi:10.1017/S0954579409990198
+* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, Oxford: Oxford University Press. doi: 10.1093/0198236360.001.0001
+* Fonagy, Peter and Patrick Luyten, 2009, “A Developmental, Mentalization-Based Approach to the Understanding and Treatment of Borderline Personality Disorder”, *Development and Psychopathology*, 21(4): 1355–1381. doi: 10.1017/S0954579409990198
 * Frith, Christopher D., 1992, *The Cognitive Neuropsychology of Schizophrenia*, Hillsdale, NJ: Lawrence Erlbaum Associates.
-* Franzen, Nele, Meike Hagenhoff, Nina Baer, Ariane Schmidt, Daniela Mier, Gebhard Sammer, Bernd Gallhofer, Peter Kirsch, and Stefanie Lis, 2011, “Superior ‘Theory of Mind’ in Borderline Personality Disorder: An Analysis of Interaction Behavior in a Virtual Trust Game”, *Psychiatry Research*, 187(1–2): 224–233. doi:10.1016/j.psychres.2010.11.012
+* Franzen, Nele, Meike Hagenhoff, Nina Baer, Ariane Schmidt, Daniela Mier, Gebhard Sammer, Bernd Gallhofer, Peter Kirsch, and Stefanie Lis, 2011, “Superior ‘Theory of Mind’ in Borderline Personality Disorder: An Analysis of Interaction Behavior in a Virtual Trust Game”, *Psychiatry Research*, 187(1–2): 224–233. doi: 10.1016/j.psychres.2010.11.012
 * Gallagher Shaun, 2001, “The Practice of Mind: Theory, Simulation or Primary Interaction?”, *Journal of Consciousness Studies*, 8(5–7): 83–108.
-* –––, 2005, *How the Body Shapes the Mind*, Oxford: Oxford University Press. doi:10.1093/0199271941.001.0001
+* –––, 2005, *How the Body Shapes the Mind*, Oxford: Oxford University Press. doi: 10.1093/0199271941.001.0001
 * –––, 2015, “The Problem with 3-Year Olds”, *Journal of Consciousness Studies*, 22(1–2): 160–182.
-* –––, 2017, *Enactivist Interventions: Rethinking the Mind*, Oxford University Press. doi:10.1093/oso/9780198794325.001.0001
-* –––, 2020, *Action and Interaction*, Oxford: Oxford University Press. doi:10.1093/oso/9780198846345.001.0001
-* Gallagher, Shaun and Daniel D. Hutto, 2008, “Understanding Others through Primary Interaction and Narrative Practice”, in *Converging Evidence in Language and Communication Research*, Jordan Zlatev, Timothy P. Racine, Chris Sinha, and Esa Itkonen (eds.), (Converging Evidence in Language and Communication Research 12), Amsterdam: John Benjamins Publishing Company, 17–38. doi:10.1075/celcr.12.04gal
-* Gallagher, Shaun and Daniel J. Povinelli, 2012, “Enactive and Behavioral Abstraction Accounts of Social Understanding in Chimpanzees, Infants, and Adults”, *Review of Philosophy and Psychology*, 3(1): 145–169. doi:10.1007/s13164-012-0093-4
-* Gallagher, Shaun and Dan Zahavi, 2008, *The Phenomenological Mind: An Introduction to Philosophy of Mind and Cognitive Science*, London: Routledge. doi:10.4324/9780203086599
-* Garfield, Jay L., Candida C. Peterson, and Tricia Perry, 2001, “Social Cognition, Language Acquisition and The Development of the Theory of Mind”, *Mind & Language*, 16(5): 494–541. doi:10.1111/1468-0017.00180
+* –––, 2017, *Enactivist Interventions: Rethinking the Mind*, Oxford University Press. doi: 10.1093/oso/9780198794325.001.0001
+* –––, 2020, *Action and Interaction*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198846345.001.0001
+* Gallagher, Shaun and Daniel D. Hutto, 2008, “Understanding Others through Primary Interaction and Narrative Practice”, in *Converging Evidence in Language and Communication Research*, Jordan Zlatev, Timothy P. Racine, Chris Sinha, and Esa Itkonen (eds.), (Converging Evidence in Language and Communication Research 12), Amsterdam: John Benjamins Publishing Company, 17–38. doi: 10.1075/celcr.12.04gal
+* Gallagher, Shaun and Daniel J. Povinelli, 2012, “Enactive and Behavioral Abstraction Accounts of Social Understanding in Chimpanzees, Infants, and Adults”, *Review of Philosophy and Psychology*, 3(1): 145–169. doi: 10.1007/s13164-012-0093-4
+* Gallagher, Shaun and Dan Zahavi, 2008, *The Phenomenological Mind: An Introduction to Philosophy of Mind and Cognitive Science*, London: Routledge. doi: 10.4324/9780203086599
+* Garfield, Jay L., Candida C. Peterson, and Tricia Perry, 2001, “Social Cognition, Language Acquisition and The Development of the Theory of Mind”, *Mind & Language*, 16(5): 494–541. doi: 10.1111/1468-0017.00180
 * Gerrans, Philip, 2014, *The Measure of Madness: Philosophy of Mind, Cognitive Neuroscience, and Delusional Thought*, Cambridge, MA: MIT Press.
 * Giere, Ronald N., 1988, *Explaining Science: A Cognitive Approach*, Chicago, IL: University of Chicago Press.
-* Gilleen, James, Fei Xie, and Daniela Strelchuk, 2017, “Distinct Theory of Mind Deficit Profiles in Schizophrenia and Autism: A Meta-Analysis of Published Research”, *Schizophrenia Bulletin*, 43(suppl_1): S22–S22. doi:10.1093/schbul/sbx021.057
+* Gilleen, James, Fei Xie, and Daniela Strelchuk, 2017, “Distinct Theory of Mind Deficit Profiles in Schizophrenia and Autism: A Meta-Analysis of Published Research”, *Schizophrenia Bulletin*, 43(suppl_1): S22–S22. doi: 10.1093/schbul/sbx021.057
 * Godfrey-Smith, Peter, 2005, “Folk Psychology as a Model”, *Philosopher’s Imprint*, 5(November): art. 6. [[Godfrey-Smith 2005 available online](http://hdl.handle.net/2027/spo.3521354.0005.006)]
-* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind & Language*, 4(3): 161–185. doi:10.1111/j.1468-0017.1989.tb00249.x
-* –––, 2006, *Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading*, New York: Oxford University Press. doi:10.1093/0195138929.001.0001
-* Gopnik, Alison, 1988, “Conceptual and Semantic Development as Theory Change: The Case of Object Permanence”, *Mind & Language*, 3(3): 197–216. doi:10.1111/j.1468-0017.1988.tb00143.x
-* –––, 1990, “Developing the Idea of Intentionality: Children’s Theories of Mind”, *Canadian Journal of Philosophy*, 20(1): 89–113. doi:10.1080/00455091.1990.10717210
-* –––, 1996, “The Scientist as Child”, *Philosophy of Science*, 63(4): 485–514. doi:10.1086/289970
-* –––, 2003, “The Theory Theory as an Alternative to the Innateness Hypothesis”, in *Chomsky and His Critics*, Louise M. Antony and Norbert Hornstein (eds.), Oxford, UK: Blackwell Publishing, 238–254. doi:10.1002/9780470690024.ch10
-* –––, 2004, “Finding Our Inner Scientist”, *Daedalus*, 133(1): 21–28. doi:10.1162/001152604772746666
-* Gopnik, Alison and Clark Glymour, 2002, “Causal Maps and Bayes Nets: A Cognitive and Computational Account of Theory-Formation”, in *The Cognitive Basis of Science*, Peter Carruthers, Stephen Stich, and Michael Siegal (eds.), Cambridge: Cambridge University Press, 117–132. doi:10.1017/CBO9780511613517.007
+* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind & Language*, 4(3): 161–185. doi: 10.1111/j.1468-0017.1989.tb00249.x
+* –––, 2006, *Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading*, New York: Oxford University Press. doi: 10.1093/0195138929.001.0001
+* Gopnik, Alison, 1988, “Conceptual and Semantic Development as Theory Change: The Case of Object Permanence”, *Mind & Language*, 3(3): 197–216. doi: 10.1111/j.1468-0017.1988.tb00143.x
+* –––, 1990, “Developing the Idea of Intentionality: Children’s Theories of Mind”, *Canadian Journal of Philosophy*, 20(1): 89–113. doi: 10.1080/00455091.1990.10717210
+* –––, 1996, “The Scientist as Child”, *Philosophy of Science*, 63(4): 485–514. doi: 10.1086/289970
+* –––, 2003, “The Theory Theory as an Alternative to the Innateness Hypothesis”, in *Chomsky and His Critics*, Louise M. Antony and Norbert Hornstein (eds.), Oxford, UK: Blackwell Publishing, 238–254. doi: 10.1002/9780470690024.ch10
+* –––, 2004, “Finding Our Inner Scientist”, *Daedalus*, 133(1): 21–28. doi: 10.1162/001152604772746666
+* Gopnik, Alison and Clark Glymour, 2002, “Causal Maps and Bayes Nets: A Cognitive and Computational Account of Theory-Formation”, in *The Cognitive Basis of Science*, Peter Carruthers, Stephen Stich, and Michael Siegal (eds.), Cambridge: Cambridge University Press, 117–132. doi: 10.1017/CBO9780511613517.007
 * Gopnik, Alison and Andrew N. Meltzoff, 1997, *Words, Thoughts, and Theories*, Cambridge, MA: MIT Press.
-* Gopnik, Alison and Henry M. Wellman, 1992, “Why the Child’s Theory of Mind Really ‘Is’ a Theory”, *Mind & Language*, 7(1–2): 145–171. doi:10.1111/j.1468-0017.1992.tb00202.x
-* –––, 2012, “Reconstructing Constructivism: Causal Models, Bayesian Learning Mechanisms, and the Theory Theory.”, *Psychological Bulletin*, 138(6): 1085–1108. doi:10.1037/a0028044
-* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, *Mind & Language*, 1(2): 158–171. doi:10.1111/j.1468-0017.1986.tb00324.x
+* Gopnik, Alison and Henry M. Wellman, 1992, “Why the Child’s Theory of Mind Really ‘Is’ a Theory”, *Mind & Language*, 7(1–2): 145–171. doi: 10.1111/j.1468-0017.1992.tb00202.x
+* –––, 2012, “Reconstructing Constructivism: Causal Models, Bayesian Learning Mechanisms, and the Theory Theory.”, *Psychological Bulletin*, 138(6): 1085–1108. doi: 10.1037/a0028044
+* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, *Mind & Language*, 1(2): 158–171. doi: 10.1111/j.1468-0017.1986.tb00324.x
 * –––, 1995, “Simulation without Introspection or Inference from Me to You”, in Davies and Stone 1995: ch. 3 (pp. 53–67).
-* –––, 1996, “‘Radical’ Simulationism”, in Carruthers and Smith 1996: 11–21. doi:10.1017/CBO9780511597985.003
+* –––, 1996, “‘Radical’ Simulationism”, in Carruthers and Smith 1996: 11–21. doi: 10.1017/CBO9780511597985.003
 * Graham, George, and Terence Horgan, 1988, “How to be Realistic about Folk Psychology”, *Philosophical Psychology*, 1(1): 69–81.
-* Gweon, Hyowon, David Dodell-Feder, Marina Bedny, and Rebecca Saxe, 2012, “Theory of Mind Performance in Children Correlates With Functional Specialization of a Brain Region for Thinking About Thoughts: Behavioral and Neural Development in Theory of Mind”, *Child Development*, 83(6): 1853–1868. doi:10.1111/j.1467-8624.2012.01829.x
-* Hare, Brian, Josep Call, and Michael Tomasello, 2001, “Do Chimpanzees Know What Conspecifics Know?”, *Animal Behaviour*, 61(1): 139–151. doi:10.1006/anbe.2000.1518
+* Gweon, Hyowon, David Dodell-Feder, Marina Bedny, and Rebecca Saxe, 2012, “Theory of Mind Performance in Children Correlates With Functional Specialization of a Brain Region for Thinking About Thoughts: Behavioral and Neural Development in Theory of Mind”, *Child Development*, 83(6): 1853–1868. doi: 10.1111/j.1467-8624.2012.01829.x
+* Hare, Brian, Josep Call, and Michael Tomasello, 2001, “Do Chimpanzees Know What Conspecifics Know?”, *Animal Behaviour*, 61(1): 139–151. doi: 10.1006/anbe.2000.1518
 * Heal, Jane, 1986, “Replication and Functionalism”, in *Language, Mind and Logic*, Jeremy Butterfield (ed.), Cambridge: Cambridge University Press, 135–150.
 * –––, 1995, “How to Think about Thinking”, in Davies and Stone 1995: ch. 2 (pp. 33–52).
-* –––, 1996, “Simulation, Theory, and Content”, in Carruthers and Smith 1996: 75–89. doi:10.1017/CBO9780511597985.006
+* –––, 1996, “Simulation, Theory, and Content”, in Carruthers and Smith 1996: 75–89. doi: 10.1017/CBO9780511597985.006
 * –––, 1998a, “Understanding Other Minds From Inside”, in *Contemporary Issues in the Philosophy of Mind*, Anthony O’Hear (ed.), New York: Cambridge University Press, 83–100.
-* –––, 1998b, “Co-Cognition and Off-Line Simulation: Two Ways of Understanding the Simulation Approach”, *Mind & Language*, 13(4): 477–498. doi:10.1111/1468-0017.00088
-* Henrich, Joseph, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, *Behavioral and Brain Sciences*, 33(2–3): 61–83. doi:10.1017/S0140525X0999152X
+* –––, 1998b, “Co-Cognition and Off-Line Simulation: Two Ways of Understanding the Simulation Approach”, *Mind & Language*, 13(4): 477–498. doi: 10.1111/1468-0017.00088
+* Henrich, Joseph, Steven J. Heine, and Ara Norenzayan, 2010, “The Weirdest People in the World?”, *Behavioral and Brain Sciences*, 33(2–3): 61–83. doi: 10.1017/S0140525X0999152X
 * Herschbach M., 2008, “False-Belief Understanding and the Phenomenal Critics of Folk Psychology”, *Journal of Consciousness Studies*, 15: 33–56.
-* Heyes, Cecilia M., 1998, “Theory of Mind in Nonhuman Primates”, *Behavioral and Brain Sciences*, 21(1): 101–114. doi:10.1017/S0140525X98000703
+* Heyes, Cecilia M., 1998, “Theory of Mind in Nonhuman Primates”, *Behavioral and Brain Sciences*, 21(1): 101–114. doi: 10.1017/S0140525X98000703
 * –––, 2018, *Cognitive Gadgets: The Cultural Evolution of Thinking*, Cambridge, MA: Harvard University Press.
-* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, *Science*, 344(6190): 1243091–1243091. doi:10.1126/science.1243091
+* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, *Science*, 344(6190): 1243091–1243091. doi: 10.1126/science.1243091
 * Hipolito, Inês, Daniel D. Hutto, and Nick Chown, 2020, “Understanding Autistic Individuals: Cognitive Diversity not Theoretical Deficit”, in Rosqvist, Chown, and Stenning 2020: 193–209.
-* Hobson, R. Peter, 1991, “Against the Theory of ‘Theory of Mind’”, *British Journal of Developmental Psychology*, 9(1): 33–51. doi:10.1111/j.2044-835X.1991.tb00860.x
+* Hobson, R. Peter, 1991, “Against the Theory of ‘Theory of Mind’”, *British Journal of Developmental Psychology*, 9(1): 33–51. doi: 10.1111/j.2044-835X.1991.tb00860.x
 * –––, 2002, *The Cradle of Thought*, London: Macmillan.
-* Hohwy, Jakob, 2013, *The Predictive Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682737.001.0001
-* Hohwy, Jakob and Colin Palmer, 2014, “Social Cognition as Causal Inference: Implications for Common Knowledge and Autism”, in *Perspectives on Social Ontology and Social Cognition*, Mattia Gallotti and John Michael (eds.), Dordrecht: Springer Netherlands, 167–189. doi:10.1007/978-94-017-9147-2_12
-* Horgan, Terence and James Woodward, 1985, “Folk Psychology Is Here to Stay”, *The Philosophical Review*, 94(2): 197–226. doi:10.2307/2185428
+* Hohwy, Jakob, 2013, *The Predictive Mind*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199682737.001.0001
+* Hohwy, Jakob and Colin Palmer, 2014, “Social Cognition as Causal Inference: Implications for Common Knowledge and Autism”, in *Perspectives on Social Ontology and Social Cognition*, Mattia Gallotti and John Michael (eds.), Dordrecht: Springer Netherlands, 167–189. doi: 10.1007/978-94-017-9147-2_12
+* Horgan, Terence and James Woodward, 1985, “Folk Psychology Is Here to Stay”, *The Philosophical Review*, 94(2): 197–226. doi: 10.2307/2185428
 * Hornsby, Jennifer, 1996, *Simple-Mindedness: In Defense of Naive Naturalism in the Philosophy of Mind*, Cambridge, MA: Harvard University Press.
-* Hutto, Daniel D., 2004, “The Limits of Spectatorial Folk Psychology”, *Mind & Language*, 19(5): 548–573. doi:10.1111/j.0268-1064.2004.00272.x
-* –––, 2007, “The Narrative Practice Hypothesis: Origins and Applications of Folk Psychology”, *Royal Institute of Philosophy Supplement*, 60: 43–68. doi:10.1017/S1358246107000033
+* Hutto, Daniel D., 2004, “The Limits of Spectatorial Folk Psychology”, *Mind & Language*, 19(5): 548–573. doi: 10.1111/j.0268-1064.2004.00272.x
+* –––, 2007, “The Narrative Practice Hypothesis: Origins and Applications of Folk Psychology”, *Royal Institute of Philosophy Supplement*, 60: 43–68. doi: 10.1017/S1358246107000033
 * –––, 2008, *Folk Psychological Narratives. The Sociocultural Basis of Understanding Reasons*, Cambridge, MA: MIT Press.
-* –––, 2017, “Basic Social Cognition without Mindreading: Minding Minds without Attributing Contents”, *Synthese*, 194(3): 827–846. doi:10.1007/s11229-015-0831-0
+* –––, 2017, “Basic Social Cognition without Mindreading: Minding Minds without Attributing Contents”, *Synthese*, 194(3): 827–846. doi: 10.1007/s11229-015-0831-0
 * Hutto, Daniel D., Mitchell Herschbach, and Victoria Southgate (eds), 2011, *Social Cognition: Mindreading and Its Alternatives*, special issue of *Review of Philosophy and Psychology*, 2(3).
-* Hutto, Daniel D. and Matthew Ratcliffe (eds.), 2007, *Folk Psychology Re-Assessed*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-5558-4
-* Jara-Ettinger, Julian, 2019, “Theory of Mind as Inverse Reinforcement Learning”, *Current Opinion in Behavioral Sciences*, 29: 105–110. doi:10.1016/j.cobeha.2019.04.010
-* Jara-Ettinger, Julian, Hyowon Gweon, Laura E. Schulz, and Joshua B. Tenenbaum, 2016, “The Naïve Utility Calculus: Computational Principles Underlying Commonsense Psychology”, *Trends in Cognitive Sciences*, 20(8): 589–604. doi:10.1016/j.tics.2016.05.011
-* Kalbe, Elke, Marius Schlegel, Alexander T. Sack, Dennis A. Nowak, Manuel Dafotakis, Christopher Bangard, Matthias Brand, Simone Shamay-Tsoory, Oezguer A. Onur, and Josef Kessler, 2010, “Dissociating Cognitive from Affective Theory of Mind: A TMS Study”, *Cortex*, 46(6): 769–780. doi:10.1016/j.cortex.2009.07.010
-* Kano, Fumihiro, Christopher Krupenye, Satoshi Hirata, Josep Call, and Michael Tomasello, 2017, “Submentalizing Cannot Explain Belief-Based Action Anticipation in Apes”, *Trends in Cognitive Sciences*, 21(9): 633–634. doi:10.1016/j.tics.2017.06.011
-* Kano, Fumihiro, Christopher Krupenye, Satoshi Hirata, Masaki Tomonaga, and Josep Call, 2019, “Great Apes Use Self-Experience to Anticipate an Agent’s Action in a False-Belief Test”, *Proceedings of the National Academy of Sciences*, 116(42): 20904–20909. doi:10.1073/pnas.1910095116
+* Hutto, Daniel D. and Matthew Ratcliffe (eds.), 2007, *Folk Psychology Re-Assessed*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-5558-4
+* Jara-Ettinger, Julian, 2019, “Theory of Mind as Inverse Reinforcement Learning”, *Current Opinion in Behavioral Sciences*, 29: 105–110. doi: 10.1016/j.cobeha.2019.04.010
+* Jara-Ettinger, Julian, Hyowon Gweon, Laura E. Schulz, and Joshua B. Tenenbaum, 2016, “The Naïve Utility Calculus: Computational Principles Underlying Commonsense Psychology”, *Trends in Cognitive Sciences*, 20(8): 589–604. doi: 10.1016/j.tics.2016.05.011
+* Kalbe, Elke, Marius Schlegel, Alexander T. Sack, Dennis A. Nowak, Manuel Dafotakis, Christopher Bangard, Matthias Brand, Simone Shamay-Tsoory, Oezguer A. Onur, and Josef Kessler, 2010, “Dissociating Cognitive from Affective Theory of Mind: A TMS Study”, *Cortex*, 46(6): 769–780. doi: 10.1016/j.cortex.2009.07.010
+* Kano, Fumihiro, Christopher Krupenye, Satoshi Hirata, Josep Call, and Michael Tomasello, 2017, “Submentalizing Cannot Explain Belief-Based Action Anticipation in Apes”, *Trends in Cognitive Sciences*, 21(9): 633–634. doi: 10.1016/j.tics.2017.06.011
+* Kano, Fumihiro, Christopher Krupenye, Satoshi Hirata, Masaki Tomonaga, and Josep Call, 2019, “Great Apes Use Self-Experience to Anticipate an Agent’s Action in a False-Belief Test”, *Proceedings of the National Academy of Sciences*, 116(42): 20904–20909. doi: 10.1073/pnas.1910095116
 * Karmiloff-Smith, Annette, 1995, *Beyond Modularity: A Developmental Perspective on Cognitive Science*, Cambridge, MA: MIT Press.
-* Kobayashi, Chiyoko, Gary H. Glover, and Elise Temple, 2007, “Children’s and Adults’ Neural Bases of Verbal and Nonverbal ‘Theory of Mind’”, *Neuropsychologia*, 45(7): 1522–1532. doi:10.1016/j.neuropsychologia.2006.11.017
-* Koster-Hale, Jorie and Rebecca Saxe, 2013, “Theory of Mind: A Neural Prediction Problem”, *Neuron*, 79(5): 836–848. doi:10.1016/j.neuron.2013.08.020
-* Krachun, Carla, Malinda Carpenter, Josep Call, and Michael Tomasello, 2009, “A Competitive Nonverbal False Belief Task for Children and Apes”, *Developmental Science*, 12(4): 521–535. doi:10.1111/j.1467-7687.2008.00793.x
-* Langland-Hassan, Peter, 2020, *Explaining Imagination*, Oxford: Oxford University Press. doi:10.1093/oso/9780198815068.001.0001
-* Lavelle, Jane Suilin, forthcoming, “The Impact of Culture on Mindreading”, *Synthese*, first online: 14 November 2019. doi:10.1007/s11229-019-02466-5
-* Legrand, Dorothée and Perrine Ruby, 2009, “What Is Self-Specific? Theoretical Investigation and Critical Review of Neuroimaging Results.”, *Psychological Review*, 116(1): 252–282. doi:10.1037/a0014172
-* Leslie, Alan M., Ori Friedman, and Tim P. German, 2004, “Core Mechanisms in ‘Theory of Mind’”, *Trends in Cognitive Sciences*, 8(12): 528–533. doi:10.1016/j.tics.2004.10.001
-* Leudar, Ivan and Alan Costall (eds.), 2009, *Against Theory of Mind*, London: Palgrave Macmillan UK. doi:10.1057/9780230234383
-* Leudar, Ivan, Alan Costall, and Dave Francis, 2004, “Theory of Mind: A Critical Assessment”, *Theory & Psychology*, 14(5): 571–578. doi:10.1177/0959354304046173
-* Lewis, David, 1970, “How to Define Theoretical Terms”, *The Journal of Philosophy*, 67(13): 427–446. doi:10.2307/2023861
-* –––, 1972, “Psychophysical and Theoretical Identifications”, *Australasian Journal of Philosophy*, 50(3): 249–258. doi:10.1080/00048407212341301
-* Lillard, Angeline S., 1997, “Other Folks’ Theories of Mind and Behavior”, *Psychological Science*, 8(4): 268–274. doi:10.1111/j.1467-9280.1997.tb00437.x
-* –––, 1998, “Ethnopsychologies: Cultural Variations in Theories of Mind.”, *Psychological Bulletin*, 123(1): 3–32. doi:10.1037/0033-2909.123.1.3
-* Liu, David, Henry M. Wellman, Twila Tardif, and Mark A. Sabbagh, 2008, “Theory of Mind Development in Chinese Children: A Meta-Analysis of False-Belief Understanding across Cultures and Languages.”, *Developmental Psychology*, 44(2): 523–531. doi:10.1037/0012-1649.44.2.523
-* Livingston, Lucy Anne, Emma Colvert, the Social Relationships Study Team, Patrick Bolton, and Francesca Happé, 2019, “Good Social Skills despite Poor Theory of Mind: Exploring Compensation in Autism Spectrum Disorder”, *Journal of Child Psychology and Psychiatry*, 60(1): 102–110. doi:10.1111/jcpp.12886
-* Lurz, Robert W., 2009, “If Chimpanzees Are Mindreaders, Could Behavioral Science Tell? Toward a Solution of the Logical Problem”, *Philosophical Psychology*, 22(3): 305–328. doi:10.1080/09515080902970673
+* Kobayashi, Chiyoko, Gary H. Glover, and Elise Temple, 2007, “Children’s and Adults’ Neural Bases of Verbal and Nonverbal ‘Theory of Mind’”, *Neuropsychologia*, 45(7): 1522–1532. doi: 10.1016/j.neuropsychologia.2006.11.017
+* Koster-Hale, Jorie and Rebecca Saxe, 2013, “Theory of Mind: A Neural Prediction Problem”, *Neuron*, 79(5): 836–848. doi: 10.1016/j.neuron.2013.08.020
+* Krachun, Carla, Malinda Carpenter, Josep Call, and Michael Tomasello, 2009, “A Competitive Nonverbal False Belief Task for Children and Apes”, *Developmental Science*, 12(4): 521–535. doi: 10.1111/j.1467-7687.2008.00793.x
+* Langland-Hassan, Peter, 2020, *Explaining Imagination*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198815068.001.0001
+* Lavelle, Jane Suilin, forthcoming, “The Impact of Culture on Mindreading”, *Synthese*, first online: 14 November 2019. doi: 10.1007/s11229-019-02466-5
+* Legrand, Dorothée and Perrine Ruby, 2009, “What Is Self-Specific? Theoretical Investigation and Critical Review of Neuroimaging Results.”, *Psychological Review*, 116(1): 252–282. doi: 10.1037/a0014172
+* Leslie, Alan M., Ori Friedman, and Tim P. German, 2004, “Core Mechanisms in ‘Theory of Mind’”, *Trends in Cognitive Sciences*, 8(12): 528–533. doi: 10.1016/j.tics.2004.10.001
+* Leudar, Ivan and Alan Costall (eds.), 2009, *Against Theory of Mind*, London: Palgrave Macmillan UK. doi: 10.1057/9780230234383
+* Leudar, Ivan, Alan Costall, and Dave Francis, 2004, “Theory of Mind: A Critical Assessment”, *Theory & Psychology*, 14(5): 571–578. doi: 10.1177/0959354304046173
+* Lewis, David, 1970, “How to Define Theoretical Terms”, *The Journal of Philosophy*, 67(13): 427–446. doi: 10.2307/2023861
+* –––, 1972, “Psychophysical and Theoretical Identifications”, *Australasian Journal of Philosophy*, 50(3): 249–258. doi: 10.1080/00048407212341301
+* Lillard, Angeline S., 1997, “Other Folks’ Theories of Mind and Behavior”, *Psychological Science*, 8(4): 268–274. doi: 10.1111/j.1467-9280.1997.tb00437.x
+* –––, 1998, “Ethnopsychologies: Cultural Variations in Theories of Mind.”, *Psychological Bulletin*, 123(1): 3–32. doi: 10.1037/0033-2909.123.1.3
+* Liu, David, Henry M. Wellman, Twila Tardif, and Mark A. Sabbagh, 2008, “Theory of Mind Development in Chinese Children: A Meta-Analysis of False-Belief Understanding across Cultures and Languages.”, *Developmental Psychology*, 44(2): 523–531. doi: 10.1037/0012-1649.44.2.523
+* Livingston, Lucy Anne, Emma Colvert, the Social Relationships Study Team, Patrick Bolton, and Francesca Happé, 2019, “Good Social Skills despite Poor Theory of Mind: Exploring Compensation in Autism Spectrum Disorder”, *Journal of Child Psychology and Psychiatry*, 60(1): 102–110. doi: 10.1111/jcpp.12886
+* Lurz, Robert W., 2009, “If Chimpanzees Are Mindreaders, Could Behavioral Science Tell? Toward a Solution of the Logical Problem”, *Philosophical Psychology*, 22(3): 305–328. doi: 10.1080/09515080902970673
 * –––, 2011, *Mindreading Animals: The Debate over What Animals Know about Other Minds*, Cambridge, MA: MIT Press,
-* Lurz, Robert and Carla Krachun, 2019, “Experience-Projection Methods in Theory-of-Mind Research: Their Limits and Strengths”, *Current Directions in Psychological Science*, 28(5): 456–462. doi:10.1177/0963721419850156
-* Mahy, Caitlin E.V., Louis J. Moses, and Jennifer H. Pfeifer, 2014, “How and Where: Theory-of-Mind in the Brain”, *Developmental Cognitive Neuroscience*, 9: 68–81. doi:10.1016/j.dcn.2014.01.002
+* Lurz, Robert and Carla Krachun, 2019, “Experience-Projection Methods in Theory-of-Mind Research: Their Limits and Strengths”, *Current Directions in Psychological Science*, 28(5): 456–462. doi: 10.1177/0963721419850156
+* Mahy, Caitlin E.V., Louis J. Moses, and Jennifer H. Pfeifer, 2014, “How and Where: Theory-of-Mind in the Brain”, *Developmental Cognitive Neuroscience*, 9: 68–81. doi: 10.1016/j.dcn.2014.01.002
 * Malle, Bertram F., Louis J. Moses, and Dare A. Baldwin (eds), 2001, *Intentions and Intentionality: Foundations of Social Cognition*, Cambridge, MA: MIT Press.
-* Mayer, Andreas and Birgit E. Träuble, 2013, “Synchrony in the Onset of Mental State Understanding across Cultures? A Study among Children in Samoa”, *International Journal of Behavioral Development*, 37(1): 21–28. doi:10.1177/0165025412454030
-* Maginnity, Michelle E. and Randolph C. Grace, 2014, “Visual Perspective Taking by Dogs (*Canis familiaris*) in a Guesser–Knower Task: Evidence for a Canine Theory of Mind?”, *Animal Cognition*, 17(6): 1375–1392. doi:10.1007/s10071-014-0773-9
-* Maibom, Heidi L., 2003, “The Mindreader and the Scientist”, *Mind & Language*, 18(3): 296–315. doi:10.1111/1468-0017.00229
-* –––, 2007, “Social Systems”, *Philosophical Psychology*, 20(5): 557–578. doi:10.1080/09515080701545981
+* Mayer, Andreas and Birgit E. Träuble, 2013, “Synchrony in the Onset of Mental State Understanding across Cultures? A Study among Children in Samoa”, *International Journal of Behavioral Development*, 37(1): 21–28. doi: 10.1177/0165025412454030
+* Maginnity, Michelle E. and Randolph C. Grace, 2014, “Visual Perspective Taking by Dogs (*Canis familiaris*) in a Guesser–Knower Task: Evidence for a Canine Theory of Mind?”, *Animal Cognition*, 17(6): 1375–1392. doi: 10.1007/s10071-014-0773-9
+* Maibom, Heidi L., 2003, “The Mindreader and the Scientist”, *Mind & Language*, 18(3): 296–315. doi: 10.1111/1468-0017.00229
+* –––, 2007, “Social Systems”, *Philosophical Psychology*, 20(5): 557–578. doi: 10.1080/09515080701545981
 * –––, 2009, “In Defence of (Model) Theory Theory”, *Journal of Consciousness Studies*, 16(6–8): 360–78.
-* McGeer, Victoria, 2007, “The Regulative Dimension of Folk Psychology”, in Hutto and Ratcliffe 2007: 137–156. doi:10.1007/978-1-4020-5558-4_8
-* –––, 2015, “Mind-Making Practices: The Social Infrastructure of Self-Knowing Agency and Responsibility”, *Philosophical Explorations*, 18(2): 259–281. doi:10.1080/13869795.2015.1032331
-* –––, forthcoming, “Enculturating Folk Psychologists”, *Synthese*, first online: 1 July 2020. doi:10.1007/s11229-020-02760-7
+* McGeer, Victoria, 2007, “The Regulative Dimension of Folk Psychology”, in Hutto and Ratcliffe 2007: 137–156. doi: 10.1007/978-1-4020-5558-4_8
+* –––, 2015, “Mind-Making Practices: The Social Infrastructure of Self-Knowing Agency and Responsibility”, *Philosophical Explorations*, 18(2): 259–281. doi: 10.1080/13869795.2015.1032331
+* –––, forthcoming, “Enculturating Folk Psychologists”, *Synthese*, first online: 1 July 2020. doi: 10.1007/s11229-020-02760-7
 * McGinn, Colin, 1989, *Mental Content*, Oxford: Basil Blackwell.
-* Mills, Stephen, 2001, “The Idea of Different Folk Psychologies”, *International Journal of Philosophical Studies*, 9(4): 501–519. doi:10.1080/09672550110081285
+* Mills, Stephen, 2001, “The Idea of Different Folk Psychologies”, *International Journal of Philosophical Studies*, 9(4): 501–519. doi: 10.1080/09672550110081285
 * Mithen, Steven J., 1996, *The Prehistory of the Mind: the Cognitive Origins of Art, Religion and Science*, New York: Thames and Hudson.
 * –––, 2000, “Paleoanthropological Perspectives on the Theory of Mind”, in Baron-Cohen, Talgar-Flusberg, and Cohen 2000: 488–502.
-* Morris, Michael W. and Kaiping Peng, 1994, “Culture and Cause: American and Chinese Attributions for Social and Physical Events.”, *Journal of Personality and Social Psychology*, 67(6): 949–971. doi:10.1037/0022-3514.67.6.949
+* Morris, Michael W. and Kaiping Peng, 1994, “Culture and Cause: American and Chinese Attributions for Social and Physical Events.”, *Journal of Personality and Social Psychology*, 67(6): 949–971. doi: 10.1037/0022-3514.67.6.949
 * Morton, Adam, 1980, *Frames of Mind: Constraints on the Common Sense Conception of the Mental*, Oxford: Clarendon Press.
 * Murphy, Dominic, 2006, *Psychiatry in the Scientific Image*, Cambridge, MA: MIT Press.
-* Naito, Mika and Kayo Koyama, 2006, “The Development of False-Belief Understanding in Japanese Children: Delay and Difference?”, *International Journal of Behavioral Development*, 30(4): 290–304. doi:10.1177/0165025406063622
+* Naito, Mika and Kayo Koyama, 2006, “The Development of False-Belief Understanding in Japanese Children: Delay and Difference?”, *International Journal of Behavioral Development*, 30(4): 290–304. doi: 10.1177/0165025406063622
 * Nelson, Katherine, 2003, “Narrative and the Emergence of a Consciousness of Self”, in *Narrative and Consciousness: Literature, Psychology and the Brain*, Gary D. Fireman, Ted E. McVay, and Owen J. Flanagan (eds.), Oxford: Oxford University Press, 17–36.
 * –––, 2007, *Young Minds in Social Worlds*, Cambridge, MA: Harvard University Press.
-* Nichols, Shaun and Stephen P. Stich, 2003, *Mindreading: An Integrated Account of Pretence, Self-Awareness and Understanding of Other Minds*, Oxford: Oxford University Press. doi:10.1093/0198236107.001.0001
-* Onishi, Kristine H. and Renée Baillargeon, 2005, “Do 15-Month-Old Infants Understand False Beliefs?”, *Science*, 308(5719): 255–258. doi:10.1126/science.1107621
-* Ozonoff, Sally, Bruce F. Pennington, and Sally J. Rogers, 1991, “Executive Function Deficits in High-Functioning Autistic Individuals: Relationship to Theory of Mind”, *Journal of Child Psychology and Psychiatry*, 32(7): 1081–1105. doi:10.1111/j.1469-7610.1991.tb00351.x
-* Overgaard, Søren and John Michael, 2015, “The Interactive Turn in Social Cognition Research: A Critique”, *Philosophical Psychology*, 28(2): 160–183. doi:10.1080/09515089.2013.827109
-* Palmer, Colin J., Anil K. Seth, and Jakob Hohwy, 2015, “The Felt Presence of Other Minds: Predictive Processing, Counterfactual Predictions, and Mentalising in Autism”, *Consciousness and Cognition*, 36: 376–389. doi:10.1016/j.concog.2015.04.007
-* Penn, Derek C and Daniel J Povinelli, 2007, “On the Lack of Evidence That Non-Human Animals Possess Anything Remotely Resembling a ‘Theory of Mind’”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 362(1480): 731–744. doi:10.1098/rstb.2006.2023
-* Perner, Josef, Susan R. Leekam, and Heinz Wimmer, 1987, “Three-Year-Olds’ Difficulty with False Belief: The Case for a Conceptual Deficit”, *British Journal of Developmental Psychology*, 5(2): 125–137. doi:10.1111/j.2044-835X.1987.tb01048.x
-* Pezzulo, Giovanni, 2017, “Tracing the Roots of Cognition in Predictive ProcessingTracing the Roots of Cognition in Predictive Processing”, in *Philosophy and Predictive Processing*, Thomas K. Metzinger and Wanja Wiese (eds.), Frankfurt am Main: Theoretical Philosophy/MIND Group. doi:10.15502/9783958573215
-* Povinelli, Daniel, 1996, “Chimpanzee Theory of Mind?: The Long Road to Strong Inference”, in Carruthers and Smith 1996: 293–329. doi:10.1017/CBO9780511597985.019
-* –––, 2003, *Folk Physics for Apes: The Chimpanzee’s Theory of How the World Works*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198572190.001.0001
-* Povinelli, Daniel J. and Timothy J. Eddy, 1996, “What Young Chimpanzees Know about Seeing”, *Monographs of the Society for Research in Child Development*, 61(3): 1–52. doi:10.2307/1166159
-* Povinelli, Daniel J. and Jennifer Vonk, 2003, “Chimpanzee Minds: Suspiciously Human?”, *Trends in Cognitive Sciences*, 7(4): 157–160. doi:10.1016/S1364-6613(03)00053-6
-* –––, 2004, “We Don’t Need a Microscope to Explore the Chimpanzee’s Mind”, *Mind & Language*, 19(1): 1–28. doi:10.1111/j.1468-0017.2004.00244.x
-* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, *Behavioral and Brain Sciences*, 1(4): 515–526. doi:10.1017/S0140525X00076512
-* Ratcliffe, Matthew, 2006, “‘Folk Psychology’ Is Not Folk Psychology”, *Phenomenology and the Cognitive Sciences*, 5(1): 31–52. doi:10.1007/s11097-005-9010-y
-* –––, 2007, *Rethinking Commonsense Psychology: A Critique of Folk Psychology, Theory of Mind and Simulation*, London: Palgrave Macmillan UK. doi:10.1057/9780230287006
-* Reddy, Vasudevi and Paul Morris, 2004, “Participants Don’t Need Theories: Knowing Minds in Engagement”, *Theory & Psychology*, 14(5): 647–665. doi:10.1177/0959354304046177
-* Repacholi, Betty M. and Alison Gopnik, 1997, “Early Reasoning about Desires: Evidence from 14- and 18-Month-Olds.”, *Developmental Psychology*, 33(1): 12–21. doi:10.1037/0012-1649.33.1.12
-* Richner, Elizabeth S. and Ageliki Nicolopoulou, 2001, “The Narrative Construction of Differing Conceptions of the Person in the Development of Young Children’s Social Understanding”, *Early Education & Development*, 12(3): 393–432. doi:10.1207/s15566935eed1203_6
-* Robbins, Joel and Alan Rumsey, 2008, “Introduction: Cultural and Linguistic Anthropology and the Opacity of Other Minds”, *Anthropological Quarterly*, 81(2): 407–420. doi:10.1353/anq.0.0005
+* Nichols, Shaun and Stephen P. Stich, 2003, *Mindreading: An Integrated Account of Pretence, Self-Awareness and Understanding of Other Minds*, Oxford: Oxford University Press. doi: 10.1093/0198236107.001.0001
+* Onishi, Kristine H. and Renée Baillargeon, 2005, “Do 15-Month-Old Infants Understand False Beliefs?”, *Science*, 308(5719): 255–258. doi: 10.1126/science.1107621
+* Ozonoff, Sally, Bruce F. Pennington, and Sally J. Rogers, 1991, “Executive Function Deficits in High-Functioning Autistic Individuals: Relationship to Theory of Mind”, *Journal of Child Psychology and Psychiatry*, 32(7): 1081–1105. doi: 10.1111/j.1469-7610.1991.tb00351.x
+* Overgaard, Søren and John Michael, 2015, “The Interactive Turn in Social Cognition Research: A Critique”, *Philosophical Psychology*, 28(2): 160–183. doi: 10.1080/09515089.2013.827109
+* Palmer, Colin J., Anil K. Seth, and Jakob Hohwy, 2015, “The Felt Presence of Other Minds: Predictive Processing, Counterfactual Predictions, and Mentalising in Autism”, *Consciousness and Cognition*, 36: 376–389. doi: 10.1016/j.concog.2015.04.007
+* Penn, Derek C and Daniel J Povinelli, 2007, “On the Lack of Evidence That Non-Human Animals Possess Anything Remotely Resembling a ‘Theory of Mind’”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 362(1480): 731–744. doi: 10.1098/rstb.2006.2023
+* Perner, Josef, Susan R. Leekam, and Heinz Wimmer, 1987, “Three-Year-Olds’ Difficulty with False Belief: The Case for a Conceptual Deficit”, *British Journal of Developmental Psychology*, 5(2): 125–137. doi: 10.1111/j.2044-835X.1987.tb01048.x
+* Pezzulo, Giovanni, 2017, “Tracing the Roots of Cognition in Predictive ProcessingTracing the Roots of Cognition in Predictive Processing”, in *Philosophy and Predictive Processing*, Thomas K. Metzinger and Wanja Wiese (eds.), Frankfurt am Main: Theoretical Philosophy/MIND Group. doi: 10.15502/9783958573215
+* Povinelli, Daniel, 1996, “Chimpanzee Theory of Mind?: The Long Road to Strong Inference”, in Carruthers and Smith 1996: 293–329. doi: 10.1017/CBO9780511597985.019
+* –––, 2003, *Folk Physics for Apes: The Chimpanzee’s Theory of How the World Works*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198572190.001.0001
+* Povinelli, Daniel J. and Timothy J. Eddy, 1996, “What Young Chimpanzees Know about Seeing”, *Monographs of the Society for Research in Child Development*, 61(3): 1–52. doi: 10.2307/1166159
+* Povinelli, Daniel J. and Jennifer Vonk, 2003, “Chimpanzee Minds: Suspiciously Human?”, *Trends in Cognitive Sciences*, 7(4): 157–160. doi: 10.1016/S1364-6613(03)00053-6
+* –––, 2004, “We Don’t Need a Microscope to Explore the Chimpanzee’s Mind”, *Mind & Language*, 19(1): 1–28. doi: 10.1111/j.1468-0017.2004.00244.x
+* Premack, David and Guy Woodruff, 1978, “Does the Chimpanzee Have a Theory of Mind?”, *Behavioral and Brain Sciences*, 1(4): 515–526. doi: 10.1017/S0140525X00076512
+* Ratcliffe, Matthew, 2006, “‘Folk Psychology’ Is Not Folk Psychology”, *Phenomenology and the Cognitive Sciences*, 5(1): 31–52. doi: 10.1007/s11097-005-9010-y
+* –––, 2007, *Rethinking Commonsense Psychology: A Critique of Folk Psychology, Theory of Mind and Simulation*, London: Palgrave Macmillan UK. doi: 10.1057/9780230287006
+* Reddy, Vasudevi and Paul Morris, 2004, “Participants Don’t Need Theories: Knowing Minds in Engagement”, *Theory & Psychology*, 14(5): 647–665. doi: 10.1177/0959354304046177
+* Repacholi, Betty M. and Alison Gopnik, 1997, “Early Reasoning about Desires: Evidence from 14- and 18-Month-Olds.”, *Developmental Psychology*, 33(1): 12–21. doi: 10.1037/0012-1649.33.1.12
+* Richner, Elizabeth S. and Ageliki Nicolopoulou, 2001, “The Narrative Construction of Differing Conceptions of the Person in the Development of Young Children’s Social Understanding”, *Early Education & Development*, 12(3): 393–432. doi: 10.1207/s15566935eed1203_6
+* Robbins, Joel and Alan Rumsey, 2008, “Introduction: Cultural and Linguistic Anthropology and the Opacity of Other Minds”, *Anthropological Quarterly*, 81(2): 407–420. doi: 10.1353/anq.0.0005
 * Rosenberg, Alex, 2018, *How History Gets Things Wrong: The Neuroscience of Our Addiction to Stories*, Cambridge, MA: MIT Press.
-* Rosqvist, Hanna Bertilsdotter, Nick Chown, and Anna Stenning (eds.), 2020, *Neurodiversity Studies: A New Critical Paradigm*, London: Routledge. doi:10.4324/9780429322297
+* Rosqvist, Hanna Bertilsdotter, Nick Chown, and Anna Stenning (eds.), 2020, *Neurodiversity Studies: A New Critical Paradigm*, London: Routledge. doi: 10.4324/9780429322297
 * Saxe, Rebecca, 2009, “Theory of Mind (Neural Basis)”, in *Encyclopedia of Consciousness*, William P. Banks (ed.), Amsterdam: Elsevier and Academic Press, pp. 401–409.
-* Saxe, Rebecca and Anna Wexler, 2005, “Making Sense of Another Mind: The Role of the Right Temporo-Parietal Junction”, *Neuropsychologia*, 43(10): 1391–1399. doi:10.1016/j.neuropsychologia.2005.02.013
-* Saxe, Rebecca R., Susan Whitfield-Gabrieli, Jonathan Scholz, and Kevin A. Pelphrey, 2009, “Brain Regions for Perceiving and Reasoning About Other People in School-Aged Children”, *Child Development*, 80(4): 1197–1209. doi:10.1111/j.1467-8624.2009.01325.x
-* Scholl, Brian J. and Alan M. Leslie, 1999, “Modularity, Development and ‘Theory of Mind’”, *Mind & Language*, 14(1): 131–153. doi:10.1111/1468-0017.00106
-* Schönherr, Julius and Evan Westra, 2019, “Beyond ‘Interaction’: How to Understand Social Effects on Social Cognition”, *The British Journal for the Philosophy of Science*, 70(1): 27–52. doi:10.1093/bjps/axx041
-* Scott, Rose M. and Renée Baillargeon, 2017, “Early False-Belief Understanding”, *Trends in Cognitive Sciences*, 21(4): 237–249. doi:10.1016/j.tics.2017.01.012
-* Schuwerk, Tobias, Berthold Langguth, and Monika Sommer, 2014, “Modulating Functional and Dysfunctional Mentalizing by Transcranial Magnetic Stimulation”, *Frontiers in Psychology*, 5: art. 1309. doi:10.3389/fpsyg.2014.01309
-* Schwitzgebel, Eric, 2002, “A Phenomenal, Dispositional Account of Belief”, *Noûs*, 36(2): 249–275. doi:10.1111/1468-0068.00370
-* –––, 2013, “A Dispositional Approach to Attitudes: Thinking Outside of the Belief Box”, in *New Essays on Belief*, Nikolaj Nottelmann (ed.), London: Palgrave Macmillan UK, 75–99. doi:10.1057/9781137026521_5
-* Segal, Gabriel, 1996, “The Modularity of Theory of Mind”, in Carruthers and Smith 1996: 141–157. doi:10.1017/CBO9780511597985.010
+* Saxe, Rebecca and Anna Wexler, 2005, “Making Sense of Another Mind: The Role of the Right Temporo-Parietal Junction”, *Neuropsychologia*, 43(10): 1391–1399. doi: 10.1016/j.neuropsychologia.2005.02.013
+* Saxe, Rebecca R., Susan Whitfield-Gabrieli, Jonathan Scholz, and Kevin A. Pelphrey, 2009, “Brain Regions for Perceiving and Reasoning About Other People in School-Aged Children”, *Child Development*, 80(4): 1197–1209. doi: 10.1111/j.1467-8624.2009.01325.x
+* Scholl, Brian J. and Alan M. Leslie, 1999, “Modularity, Development and ‘Theory of Mind’”, *Mind & Language*, 14(1): 131–153. doi: 10.1111/1468-0017.00106
+* Schönherr, Julius and Evan Westra, 2019, “Beyond ‘Interaction’: How to Understand Social Effects on Social Cognition”, *The British Journal for the Philosophy of Science*, 70(1): 27–52. doi: 10.1093/bjps/axx041
+* Scott, Rose M. and Renée Baillargeon, 2017, “Early False-Belief Understanding”, *Trends in Cognitive Sciences*, 21(4): 237–249. doi: 10.1016/j.tics.2017.01.012
+* Schuwerk, Tobias, Berthold Langguth, and Monika Sommer, 2014, “Modulating Functional and Dysfunctional Mentalizing by Transcranial Magnetic Stimulation”, *Frontiers in Psychology*, 5: art. 1309. doi: 10.3389/fpsyg.2014.01309
+* Schwitzgebel, Eric, 2002, “A Phenomenal, Dispositional Account of Belief”, *Noûs*, 36(2): 249–275. doi: 10.1111/1468-0068.00370
+* –––, 2013, “A Dispositional Approach to Attitudes: Thinking Outside of the Belief Box”, in *New Essays on Belief*, Nikolaj Nottelmann (ed.), London: Palgrave Macmillan UK, 75–99. doi: 10.1057/9781137026521_5
+* Segal, Gabriel, 1996, “The Modularity of Theory of Mind”, in Carruthers and Smith 1996: 141–157. doi: 10.1017/CBO9780511597985.010
 * Sellars Wilfrid, 1956, “Empiricism and the Philosophy of Mind”, in *Minnesota Studies in the Philosophy of Science*, Volume 1, Herbert Feigl and Michael Scriven (eds), Minneapolis, MN: University of Minnesota Press, 253–329.
-* Shahaeian, Ameneh, Candida C. Peterson, Virginia Slaughter, and Henry M. Wellman, 2011, “Culture and the Sequence of Steps in Theory of Mind Development.”, *Developmental Psychology*, 47(5): 1239–1247. doi:10.1037/a0023899
-* Shanker, Stuart, 2004, “The Roots of Mindblindness”, *Theory & Psychology*, 14(5): 685–703. doi:10.1177/0959354304046179
-* Slors, Marc, 2012, “The Model-Model of the Theory-Theory”, *Inquiry*, 55(5): 521–542. doi:10.1080/0020174X.2012.716205
-* Slors, Marc and Cynthia Macdonald, 2008, “Rethinking Folk-Psychology: Alternatives to Theories of Mind”, *Philosophical Explorations*, 11(3): 153–161. doi:10.1080/13869790802245661
-* Southgate, Victoria, 2013, “Early Manifestations of Mindreading”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 2–18. doi:10.1093/acprof:oso/9780199692972.003.0001
-* Southgate, Victoria, A. Senju, and G. Csibra, 2007, “Action Anticipation Through Attribution of False Belief by 2-Year-Olds”, *Psychological Science*, 18(7): 587–592. doi:10.1111/j.1467-9280.2007.01944.x
-* Spaulding, Shannon, 2018a, “Do You See What I See? How Social Differences Influence Mindreading”, *Synthese*, 195(9): 4009–4030. doi:10.1007/s11229-017-1404-1
-* –––, 2018b, *How We Understand Others: Philosophy and Social Cognition*, London: Routledge. doi:10.4324/9781315396064
-* Sprong, Mirjam, Patricia Schothorst, Ellen Vos, Joop Hox, and Herman Van Engeland, 2007, “Theory of Mind in Schizophrenia: Meta-Analysis”, *British Journal of Psychiatry*, 191(1): 5–13. doi:10.1192/bjp.bp.107.035899
+* Shahaeian, Ameneh, Candida C. Peterson, Virginia Slaughter, and Henry M. Wellman, 2011, “Culture and the Sequence of Steps in Theory of Mind Development.”, *Developmental Psychology*, 47(5): 1239–1247. doi: 10.1037/a0023899
+* Shanker, Stuart, 2004, “The Roots of Mindblindness”, *Theory & Psychology*, 14(5): 685–703. doi: 10.1177/0959354304046179
+* Slors, Marc, 2012, “The Model-Model of the Theory-Theory”, *Inquiry*, 55(5): 521–542. doi: 10.1080/0020174X.2012.716205
+* Slors, Marc and Cynthia Macdonald, 2008, “Rethinking Folk-Psychology: Alternatives to Theories of Mind”, *Philosophical Explorations*, 11(3): 153–161. doi: 10.1080/13869790802245661
+* Southgate, Victoria, 2013, “Early Manifestations of Mindreading”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 2–18. doi: 10.1093/acprof: oso/9780199692972.003.0001
+* Southgate, Victoria, A. Senju, and G. Csibra, 2007, “Action Anticipation Through Attribution of False Belief by 2-Year-Olds”, *Psychological Science*, 18(7): 587–592. doi: 10.1111/j.1467-9280.2007.01944.x
+* Spaulding, Shannon, 2018a, “Do You See What I See? How Social Differences Influence Mindreading”, *Synthese*, 195(9): 4009–4030. doi: 10.1007/s11229-017-1404-1
+* –––, 2018b, *How We Understand Others: Philosophy and Social Cognition*, London: Routledge. doi: 10.4324/9781315396064
+* Sprong, Mirjam, Patricia Schothorst, Ellen Vos, Joop Hox, and Herman Van Engeland, 2007, “Theory of Mind in Schizophrenia: Meta-Analysis”, *British Journal of Psychiatry*, 191(1): 5–13. doi: 10.1192/bjp.bp.107.035899
 * Stich, Stephen P., 1983, *From Folk Psychology to Cognitive Science: The Case Against Belief*, Cambridge, MA: MIT Press.
-* Strijbos, Derek W. and Leon C. de Bruin, 2012, “Making Folk Psychology Explicit: The Relevance of Robert Brandom’s Philosophy for the Debate on Social Cognition”, *Philosophia*, 40(1): 139–163. doi:10.1007/s11406-010-9288-z
-* Stuhlmüller, A. and N.D. Goodman, 2014, “Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs”, *Cognitive Systems Research*, 28: 80–99. doi:10.1016/j.cogsys.2013.07.003
+* Strijbos, Derek W. and Leon C. de Bruin, 2012, “Making Folk Psychology Explicit: The Relevance of Robert Brandom’s Philosophy for the Debate on Social Cognition”, *Philosophia*, 40(1): 139–163. doi: 10.1007/s11406-010-9288-z
+* Stuhlmüller, A. and N.D. Goodman, 2014, “Reasoning about Reasoning by Nested Conditioning: Modeling Theory of Mind with Probabilistic Programs”, *Cognitive Systems Research*, 28: 80–99. doi: 10.1016/j.cogsys.2013.07.003
 * Suddendorf, Thomas and Andrew Whiten, 2003, “Reinterpreting the Mentality of Apes”, in *From Mating to Mentality: Evaluating Evolutionary Psychology*, Kim Sterelny and Julie Fitness (eds.), New York: Psychology Press, pp. 173–196.
-* Surian, Luca, Stefania Caldi, and Dan Sperber, 2007, “Attribution of Beliefs by 13-Month-Old Infants”, *Psychological Science*, 18(7): 580–586. doi:10.1111/j.1467-9280.2007.01943.x
-* Tomasello, Michael, Josep Call, and Brian Hare, 2003, “Chimpanzees Understand Psychological States: The Question Is Which Ones and to What Extent”, *Trends in Cognitive Sciences*, 7(4): 153–156. doi:10.1016/S1364-6613(03)00035-4
+* Surian, Luca, Stefania Caldi, and Dan Sperber, 2007, “Attribution of Beliefs by 13-Month-Old Infants”, *Psychological Science*, 18(7): 580–586. doi: 10.1111/j.1467-9280.2007.01943.x
+* Tomasello, Michael, Josep Call, and Brian Hare, 2003, “Chimpanzees Understand Psychological States: The Question Is Which Ones and to What Extent”, *Trends in Cognitive Sciences*, 7(4): 153–156. doi: 10.1016/S1364-6613(03)00035-4
 * Tomonaga, Masaki, Yuka Uwano, Sato Ogura, and Toyoshi Saito, 2010, “Bottlenose Dolphins’ (*Tursiops truncatus*) Theory of Mind as Demonstrated by Responses to their Trainers’ Attentional States”, *International Journal of Comparative Psychology*, 23(3): 386–400.
-* Vinden, Penelope G., 1996, “Junin Quechua Children’s Understanding of Mind”, *Child Development*, 67(4): 1707–1716. doi:10.2307/1131726
-* –––, 1999, “Children’s Understanding of Mind and Emotion: A Multi-Culture Study”, *Cognition & Emotion*, 13(1): 19–48. doi:10.1080/026999399379357
-* –––, 2002, “Understanding Minds and Evidence for Belief: A Study of Mofu Children in Cameroon”, *International Journal of Behavioral Development*, 26(5): 445–452. doi:10.1080/01650250143000391
-* Wellman, Henry M., 2011, “Developing a Theory of Mind”, in *The Wiley-Blackwell Handbook of Childhood Cognitive Development*, Usha Goswami (ed.), Oxford, UK: Wiley-Blackwell, 258–284. doi:10.1002/9781444325485.ch10
-* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief”, *Child Development*, 72(3): 655–684. doi:10.1111/1467-8624.00304
-* Wellman, Henry M. and David Liu, 2004, “Scaling of Theory-of-Mind Tasks”, *Child Development*, 75(2): 523–541. doi:10.1111/j.1467-8624.2004.00691.x
-* Wellman, Henry M., Fuxi Fang, David Liu, Liqi Zhu, and Guoxiong Liu, 2006, “Scaling of Theory-of-Mind Understandings in Chinese Children”, *Psychological Science*, 17(12): 1075–1081. doi:10.1111/j.1467-9280.2006.01830.x
-* Wellman, Henry M. and Candida C. Peterson, 2013, “Theory of Mind, Development, and Deafness”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 51–71. doi:10.1093/acprof:oso/9780199692972.003.0004
+* Vinden, Penelope G., 1996, “Junin Quechua Children’s Understanding of Mind”, *Child Development*, 67(4): 1707–1716. doi: 10.2307/1131726
+* –––, 1999, “Children’s Understanding of Mind and Emotion: A Multi-Culture Study”, *Cognition & Emotion*, 13(1): 19–48. doi: 10.1080/026999399379357
+* –––, 2002, “Understanding Minds and Evidence for Belief: A Study of Mofu Children in Cameroon”, *International Journal of Behavioral Development*, 26(5): 445–452. doi: 10.1080/01650250143000391
+* Wellman, Henry M., 2011, “Developing a Theory of Mind”, in *The Wiley-Blackwell Handbook of Childhood Cognitive Development*, Usha Goswami (ed.), Oxford, UK: Wiley-Blackwell, 258–284. doi: 10.1002/9781444325485.ch10
+* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief”, *Child Development*, 72(3): 655–684. doi: 10.1111/1467-8624.00304
+* Wellman, Henry M. and David Liu, 2004, “Scaling of Theory-of-Mind Tasks”, *Child Development*, 75(2): 523–541. doi: 10.1111/j.1467-8624.2004.00691.x
+* Wellman, Henry M., Fuxi Fang, David Liu, Liqi Zhu, and Guoxiong Liu, 2006, “Scaling of Theory-of-Mind Understandings in Chinese Children”, *Psychological Science*, 17(12): 1075–1081. doi: 10.1111/j.1467-9280.2006.01830.x
+* Wellman, Henry M. and Candida C. Peterson, 2013, “Theory of Mind, Development, and Deafness”, in Baron-Cohen, Lombardo, and Tager-Flusberg 2013: 51–71. doi: 10.1093/acprof: oso/9780199692972.003.0004
 * Wellman Henry M. and Ann T. Phillips, 2001, “Developing Intentional Understandings”, in Malle, Moses, and Baldwin 2001: 125–148.
-* Westra, Evan, 2018, “Character and Theory of Mind: An Integrative Approach”, *Philosophical Studies*, 175(5): 1217–1241. doi:10.1007/s11098-017-0908-3
-* –––, 2019, “Stereotypes, Theory of Mind, and the Action–Prediction Hierarchy”, *Synthese*, 196(7): 2821–2846. doi:10.1007/s11229-017-1575-9
-* –––, 2020, “Getting to Know You: Accuracy and Error in Judgments of Character”, *Mind & Language*, 35(5): 583–600. doi:10.1111/mila.12258
-* Whiten, Andrew, 1996, “When Does Smart Behaviour-Reading Become Mind-Reading?”, in Carruthers and Smith 1996: 277–292. doi:10.1017/CBO9780511597985.018
-* –––, 2013, “Humans Are Not Alone in Computing How Others See the World”, *Animal Behaviour*, 86(2): 213–221. doi:10.1016/j.anbehav.2013.04.021
-* Williams, Emma, 2004, “Who Really Needs a ‘Theory’ of Mind?: An Interpretative Phenomenological Analysis of the Autobiographical Writings of Ten High-Functioning Individuals with an Autism Spectrum Disorder”, *Theory & Psychology*, 14(5): 704–724. doi:10.1177/0959354304046180
-* Wimmer, Heinz and Josef Perner, 1983, “Beliefs about Beliefs: Representation and Constraining Function of Wrong Beliefs in Young Children’s Understanding of Deception”, *Cognition*, 13(1): 103–128. doi:10.1016/0010-0277(83)90004-5
-* Yergeau, Melanie, 2013, “Clinically Significant Disturbance: On Theorists Who Theorize Theory of Mind”, *Disability Studies Quarterly*, 33(4): Yergeau. doi:10.18061/dsq.v33i4.3876
-* Zawidzki, Tadeusz W., 2008, “The Function of Folk Psychology: Mind Reading or Mind Shaping?”, *Philosophical Explorations*, 11(3): 193–210. doi:10.1080/13869790802239235
+* Westra, Evan, 2018, “Character and Theory of Mind: An Integrative Approach”, *Philosophical Studies*, 175(5): 1217–1241. doi: 10.1007/s11098-017-0908-3
+* –––, 2019, “Stereotypes, Theory of Mind, and the Action–Prediction Hierarchy”, *Synthese*, 196(7): 2821–2846. doi: 10.1007/s11229-017-1575-9
+* –––, 2020, “Getting to Know You: Accuracy and Error in Judgments of Character”, *Mind & Language*, 35(5): 583–600. doi: 10.1111/mila.12258
+* Whiten, Andrew, 1996, “When Does Smart Behaviour-Reading Become Mind-Reading?”, in Carruthers and Smith 1996: 277–292. doi: 10.1017/CBO9780511597985.018
+* –––, 2013, “Humans Are Not Alone in Computing How Others See the World”, *Animal Behaviour*, 86(2): 213–221. doi: 10.1016/j.anbehav.2013.04.021
+* Williams, Emma, 2004, “Who Really Needs a ‘Theory’ of Mind?: An Interpretative Phenomenological Analysis of the Autobiographical Writings of Ten High-Functioning Individuals with an Autism Spectrum Disorder”, *Theory & Psychology*, 14(5): 704–724. doi: 10.1177/0959354304046180
+* Wimmer, Heinz and Josef Perner, 1983, “Beliefs about Beliefs: Representation and Constraining Function of Wrong Beliefs in Young Children’s Understanding of Deception”, *Cognition*, 13(1): 103–128. doi: 10.1016/0010-0277(83)90004-5
+* Yergeau, Melanie, 2013, “Clinically Significant Disturbance: On Theorists Who Theorize Theory of Mind”, *Disability Studies Quarterly*, 33(4): Yergeau. doi: 10.18061/dsq.v33i4.3876
+* Zawidzki, Tadeusz W., 2008, “The Function of Folk Psychology: Mind Reading or Mind Shaping?”, *Philosophical Explorations*, 11(3): 193–210. doi: 10.1080/13869790802239235
 * –––, 2013, *Mindshaping: A New Framework for Understanding Human Social Cognition*, Cambridge, MA: MIT Press.
-* Zednik, Carlos and Frank Jäkel, 2016, “Bayesian Reverse-Engineering Considered as a Research Strategy for Cognitive Science”, *Synthese*, 193(12): 3951–3985. doi:10.1007/s11229-016-1180-3
-* Zeng, Yi, Yuxuan Zhao, Tielin Zhang, Dongcheng Zhao, Feifei Zhao, and Enmeng Lu, 2020, “A Brain-Inspired Model of Theory of Mind”, *Frontiers in Neurorobotics*, 14(August): art. 60. doi:10.3389/fnbot.2020.00060
+* Zednik, Carlos and Frank Jäkel, 2016, “Bayesian Reverse-Engineering Considered as a Research Strategy for Cognitive Science”, *Synthese*, 193(12): 3951–3985. doi: 10.1007/s11229-016-1180-3
+* Zeng, Yi, Yuxuan Zhao, Tielin Zhang, Dongcheng Zhao, Feifei Zhao, and Enmeng Lu, 2020, “A Brain-Inspired Model of Theory of Mind”, *Frontiers in Neurorobotics*, 14(August): art. 60. doi: 10.3389/fnbot.2020.00060
 
 ## Academic Tools
 

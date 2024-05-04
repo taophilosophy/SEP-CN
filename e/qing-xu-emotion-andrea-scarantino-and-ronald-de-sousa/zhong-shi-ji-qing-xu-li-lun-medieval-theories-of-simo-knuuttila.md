@@ -24,13 +24,13 @@
 | 价值    | *Good*     | 快乐    | 渴望    |
 | *邪恶* | 痛苦 | 恐惧    |         |
 
-斯多葛派列出了包括这四种类型在内的更长的特定情绪清单。 （见罗德岛的伪安德洛尼库斯，Peri Pathôn，编辑 Glibert-Thirry，I.1–5；丢格尼斯·莱尔提乌斯 VII.110–14；斯托巴伊斯 II.90.7–92.17。）这种四重分类在许多著名作品中被引用，如奥古斯丁的《上帝之城》（XIV.5–9）和博伊西的《哲学的慰藉》（I.7，25–28），尽管斯多葛派对情绪的解释并没有得到追随者，但在中世纪时期广为人知。
+斯多葛派列出了包括这四种类型在内的更长的特定情绪清单。 （见罗德岛的伪安德洛尼库斯，Peri Pathôn，编辑 Glibert-Thirry，I.1–5；丢格尼斯 · 莱尔提乌斯 VII.110–14；斯托巴伊斯 II.90.7–92.17。）这种四重分类在许多著名作品中被引用，如奥古斯丁的《上帝之城》（XIV.5–9）和博伊西的《哲学的慰藉》（I.7，25–28），尽管斯多葛派对情绪的解释并没有得到追随者，但在中世纪时期广为人知。
 
 斯多葛哲学中一个著名的部分是由西塞罗、塞内卡和爱比克泰德所描述的情绪（therapeia）的哲学疗法。斯多葛疗法旨在达到无感情（apatheia），这是学会按照斯多葛对理性现实的看法而不自我中心承诺的结果。情绪通常被视为关于事物价值的错误判断以及对它们的行为反应。斯多葛学派经常通过指称其典型的心理生理反应来描述情绪的类型，但对于这些表达性动作及相应行为的正面信念被视为非理性。斯多葛疗法的要素通过西塞罗的《图库拉辩论》、塞内卡的《论愤怒》以及一些基督教来源在后来的拉丁哲学中得以了解。其他希腊化时期的哲学家如普鲁塔克通常遵循柏拉图和亚里士多德的心理学，主张情绪的调适（metriopatheia）。斯多葛的无感情被认为是不可能的，因为情感部分的存在，而且对他人的无情被视为不人道的麻木不仁。普罗提诺及其新柏拉图主义追随者主张无感情，尽管这并不意味着情感部分的消失——尘世情感在更高的新柏拉图领域中变得无用（见 Nussbaum 1994; Sorabji 2000）。
 
-亚历山大的神学家克莱门斯和奥利根结合了斯多亚派和柏拉图主义的思想，认为摆脱情绪是基督教完美性的一部分，也是通过参与神圣爱（agapê）实现神化的前提。这种神秘的结合用高度情绪化的语言描述，但超自然引起的灵性感受并不被简单地称为情绪。约翰·卡西安在西方修道院中使这种神圣爱与摆脱世俗情感的结合得以传承。这一方法在格里高利大帝和克莱尔沃修道院的伯纳德的重要论著中得到了应用。尽管这种方法也存在于卡帕多西亚的父亲们和奥古斯丁的著作中，但他们强调了柏拉图式的控制和在日常生活中的节制对于非修道院的听众的重要性。
+亚历山大的神学家克莱门斯和奥利根结合了斯多亚派和柏拉图主义的思想，认为摆脱情绪是基督教完美性的一部分，也是通过参与神圣爱（agapê）实现神化的前提。这种神秘的结合用高度情绪化的语言描述，但超自然引起的灵性感受并不被简单地称为情绪。约翰 · 卡西安在西方修道院中使这种神圣爱与摆脱世俗情感的结合得以传承。这一方法在格里高利大帝和克莱尔沃修道院的伯纳德的重要论著中得到了应用。尽管这种方法也存在于卡帕多西亚的父亲们和奥古斯丁的著作中，但他们强调了柏拉图式的控制和在日常生活中的节制对于非修道院的听众的重要性。
 
-修道文学对神秘上升的文学发展了主观感受的内省分析，这被克莱尔沃的伯纳德称为受到神圣行动影响的感觉（sentit intra se actitari，Opera II，10，28-29；Köpf 1980：136-174）。许多后来的神学家，如阿尔伯特大师和托马斯·阿奎那，写了关于伪狄奥尼修斯作品（公元五世纪后期）的评论，从基督教新柏拉图主义的角度教导了神秘体验（有关古代基督教讨论，请参见哈多特 1995；Knuuttila 2004；关于奥古斯丁，请参见 Byers 2013；高 2018；关于圣格里高利，请参见 Straw 1988；Humphries 2013；关于伪狄奥尼修斯的中世纪评论，请参见 Coakley 和 Stang（编者，2009）；Blankenhorn 2015）。
+修道文学对神秘上升的文学发展了主观感受的内省分析，这被克莱尔沃的伯纳德称为受到神圣行动影响的感觉（sentit intra se actitari，Opera II，10，28-29；Köpf 1980：136-174）。许多后来的神学家，如阿尔伯特大师和托马斯 · 阿奎那，写了关于伪狄奥尼修斯作品（公元五世纪后期）的评论，从基督教新柏拉图主义的角度教导了神秘体验（有关古代基督教讨论，请参见哈多特 1995；Knuuttila 2004；关于奥古斯丁，请参见 Byers 2013；高 2018；关于圣格里高利，请参见 Straw 1988；Humphries 2013；关于伪狄奥尼修斯的中世纪评论，请参见 Coakley 和 Stang（编者，2009）；Blankenhorn 2015）。
 
 修道院心理学也利用了最初斯多葛学派的第一运动理论，奥利根、后来是奥古斯丁和许多其他人将其应用于基督教对罪恶的概念。斯多葛学派的想法，由塞内加在《论愤怒》中描述（2.1-4），即使是无感情的人在特殊场合可能会有类似情绪的反应，但这并不真正是一种情绪，因为它不涉及判断性的同意。奥古斯丁教导说，由于原罪，那些因为经常浮现在脑海中而容易产生的罪恶思想，通过随后的同意变成了罪恶（《罗马书信某些命题的阐释》，2066）。
 
@@ -40,11 +40,11 @@
 
 ## 早期中世纪讨论
 
-奥古斯丁（Augustine）、卡西安（Cassian）和大圣格列高里（Gregory the Great）的著作是早期中世纪文学中情绪讨论的主要来源之一，而一些哲学和医学著作的拉丁翻译提供了新的非宗教冲动。其中之一是阿拉伯医学百科全书《阿里·伊本·阿巴斯·马古斯》（拉丁文 Haly Abbas）的翻译，其中包含基于伽倫医学哲学的各种情绪评论。第一部由非洲的康斯坦丁（约 1080 年）部分翻译被称为《Pantegni》，而安条克的史蒂芬（1127 年）完成的完整翻译被称为《Regalis dispositio》。古代医学和哲学情绪理论的元素也包含在来自公元四世纪末的埃梅萨的涅梅修斯（Nemesius）的《人的本性》（17-21）和第八世纪的约翰·达马斯金（John Damascene）的《正统信仰》中，后者受到涅梅修斯作品的很大影响。这些论著在十一至十二世纪被翻译成拉丁文。一个重要的早期中世纪心理学资料来源是伊本·西那（Avicenna）的《Shifā’》第六卷，于十二世纪中叶由冈迪萨尔维（Gundisalvi）和阿文道斯（Avendauth）翻译成拉丁文。这个翻译被称为《灵魂论》或《自然第六卷》。伊本·西那的作品影响了十三世纪中叶心理学评论对亚里士多德《灵魂论》的术语，后者成为十三世纪中叶心理学的主要教科书；亚里士多德的作品于约 1150 年由威尼斯的詹姆斯（James of Venice）和 1267 年由莫尔贝克的威廉（William of Moerbeke）翻译。
+奥古斯丁（Augustine）、卡西安（Cassian）和大圣格列高里（Gregory the Great）的著作是早期中世纪文学中情绪讨论的主要来源之一，而一些哲学和医学著作的拉丁翻译提供了新的非宗教冲动。其中之一是阿拉伯医学百科全书《阿里 · 伊本 · 阿巴斯 · 马古斯》（拉丁文 Haly Abbas）的翻译，其中包含基于伽倫医学哲学的各种情绪评论。第一部由非洲的康斯坦丁（约 1080 年）部分翻译被称为《Pantegni》，而安条克的史蒂芬（1127 年）完成的完整翻译被称为《Regalis dispositio》。古代医学和哲学情绪理论的元素也包含在来自公元四世纪末的埃梅萨的涅梅修斯（Nemesius）的《人的本性》（17-21）和第八世纪的约翰 · 达马斯金（John Damascene）的《正统信仰》中，后者受到涅梅修斯作品的很大影响。这些论著在十一至十二世纪被翻译成拉丁文。一个重要的早期中世纪心理学资料来源是伊本 · 西那（Avicenna）的《Shifā’》第六卷，于十二世纪中叶由冈迪萨尔维（Gundisalvi）和阿文道斯（Avendauth）翻译成拉丁文。这个翻译被称为《灵魂论》或《自然第六卷》。伊本 · 西那的作品影响了十三世纪中叶心理学评论对亚里士多德《灵魂论》的术语，后者成为十三世纪中叶心理学的主要教科书；亚里士多德的作品于约 1150 年由威尼斯的詹姆斯（James of Venice）和 1267 年由莫尔贝克的威廉（William of Moerbeke）翻译。
 
-从亚里士多德和新柏拉图心理学中汲取灵感，伊本·西那通过将它们与特殊的力量或能力联系起来来区分灵魂的功能。在这种联系中最相关的是感官运动力和内部感知：共同感知、想象（感觉的保留）、评估、记忆和想象（感官形式的分离和组合）。内部感知是感官灵魂的非感知理解力（《论灵魂》IV.1, 1–11; IV.3, 37–40）。感官灵魂的运动力分为指挥力和执行力，前者是情绪的中心。执行运动力通过神经系统和肌肉运作。它由指挥运动力驱动，后者的行为是由估计力的发生评估触发的，并伴随着身体感受以及行为变化，前提是执行运动力也被实现。如果指挥行为足够强大，执行力在动物中必然被实现，但在人类中并非如此，因为他们可以通过意志阻止执行运动力的冲动。意志是非物质智力灵魂的运动力。它应该与实践智力一起控制情绪（《论灵魂》I.5, 94; IV.4, 54–56, 59）。
+从亚里士多德和新柏拉图心理学中汲取灵感，伊本 · 西那通过将它们与特殊的力量或能力联系起来来区分灵魂的功能。在这种联系中最相关的是感官运动力和内部感知：共同感知、想象（感觉的保留）、评估、记忆和想象（感官形式的分离和组合）。内部感知是感官灵魂的非感知理解力（《论灵魂》IV.1, 1–11; IV.3, 37–40）。感官灵魂的运动力分为指挥力和执行力，前者是情绪的中心。执行运动力通过神经系统和肌肉运作。它由指挥运动力驱动，后者的行为是由估计力的发生评估触发的，并伴随着身体感受以及行为变化，前提是执行运动力也被实现。如果指挥行为足够强大，执行力在动物中必然被实现，但在人类中并非如此，因为他们可以通过意志阻止执行运动力的冲动。意志是非物质智力灵魂的运动力。它应该与实践智力一起控制情绪（《论灵魂》I.5, 94; IV.4, 54–56, 59）。
 
-感官指挥能力分为感性和易怒两部分。感性力的反应是对被视为愉悦的事物的欲望，易怒力的反应是对敌人的欲望和驱逐有害事物的欲望（《灵魂论》I.5, 83; IV.4, 56–57）。情绪的对象被评估力认定为情感相关。通过这种力量，羊判断应该避开狼，“即使外部感觉以前没有察觉到”。伊本·西那称评估力的表象为“意向”。对意向的认知在动物中通常是本能的，但在人类中主要是有意识的和在智力之前的概念化（《灵魂论》I.5, 86, 89; IV.1, 7; IV.3. 37–39; 另见 Black 2000; Hasse 2000: 130–141: Perler 2012）。由于当前情绪涉及各种不同能力的行为，必须有某种统领意识来结合这些行为（《灵魂论》V.7, 158–159; 《救赎之书》2.6.15, 译者拉赫曼, 64–68); 参见 Toivanen 和 Yrjönsuuri 2014: 441–442)。
+感官指挥能力分为感性和易怒两部分。感性力的反应是对被视为愉悦的事物的欲望，易怒力的反应是对敌人的欲望和驱逐有害事物的欲望（《灵魂论》I.5, 83; IV.4, 56–57）。情绪的对象被评估力认定为情感相关。通过这种力量，羊判断应该避开狼，“即使外部感觉以前没有察觉到”。伊本 · 西那称评估力的表象为“意向”。对意向的认知在动物中通常是本能的，但在人类中主要是有意识的和在智力之前的概念化（《灵魂论》I.5, 86, 89; IV.1, 7; IV.3. 37–39; 另见 Black 2000; Hasse 2000: 130–141: Perler 2012）。由于当前情绪涉及各种不同能力的行为，必须有某种统领意识来结合这些行为（《灵魂论》V.7, 158–159; 《救赎之书》2.6.15, 译者拉赫曼, 64–68); 参见 Toivanen 和 Yrjönsuuri 2014: 441–442)。
 
 阿维森纳的理论包括亚里士多德的构成理论的所有要素，但他将行为建议作为中心因素。因此，他不将快乐或喜悦列为可欲或易怒的情绪之一，而是将它们视为情感上的理解行为。有些奇怪的是，他将痛苦或苦恼添加到易怒的动机行为中，如恐惧和愤怒，显然认为它们是行动性的行为，而不仅仅是理解性的（《论灵魂》第四卷第 4 章，57-59 页）。
 
@@ -54,13 +54,13 @@
 
 奥古斯丁模型中的核心术语是建议、诱惑、第一动作、快乐和同意。奥古斯丁认为，第一动作伴随着自发意识，只要一个人可以自愿停止它。没有这种意识，灵魂就无法对第一动作做出有意识的撤退。奥古斯丁的内在控制模型相对简单易懂，这使得它在中世纪和近代早期的罪恶神学中备受欢迎。传统的修道院通过重新引导注意力来驱逐邪恶思想的做法也在笛卡尔和莱布尼茨的哲学论著中反复出现。事实上，这似乎是西方哲学和神学文献中唯一用于使自己摆脱诱惑的设备。（见笛卡尔，《心灵的激情》，487-488 页；莱布尼茨，《人类理解的新论文》，187-189 页，195-197 页。）
 
-在他的《伦理学》（1130 年代）中，彼得·阿伯拉尔对比了同意和意愿，暗示如果一个人同意一个目标，那么他也同意必要的手段，而一个人可以意愿实现目标，却不意愿实现必要的手段。阿伯拉尔关于“意愿”一词的术语观点，将其扩展到理性和灵魂的较低部分，并没有得到很多支持者。大多数思想家并不认同一切被称为“意愿”的东西都是情绪上喜欢的，而是认为“意愿”的行为类似于阿伯拉尔的“同意”。他们分离了意愿和情绪，认为不情愿选择的行为可以被称为是被意愿的（Knuuttila，2004）。
+在他的《伦理学》（1130 年代）中，彼得 · 阿伯拉尔对比了同意和意愿，暗示如果一个人同意一个目标，那么他也同意必要的手段，而一个人可以意愿实现目标，却不意愿实现必要的手段。阿伯拉尔关于“意愿”一词的术语观点，将其扩展到理性和灵魂的较低部分，并没有得到很多支持者。大多数思想家并不认同一切被称为“意愿”的东西都是情绪上喜欢的，而是认为“意愿”的行为类似于阿伯拉尔的“同意”。他们分离了意愿和情绪，认为不情愿选择的行为可以被称为是被意愿的（Knuuttila，2004）。
 
 阿尔雷德（Aelred of Rievaulx，1110-1167）和圣维克多的休（Hugh of St Victor，1096-1141）是两位修道院作家，他们通过关注灵魂的主观感受到的自发情感来讨论奥古斯丁的心理学。在他的著作《慈善之镜》中，阿尔雷德广泛探讨了情感（affectus）作为爱（amor）的一个要素。他所举的情感例子主要是对其他人的依恋。继奥古斯丁关于第一动机的评论之后，阿尔雷德解释说，情感是自发的、非自愿的甜蜜吸引，应该由理性的意志力来控制（《慈善之镜》3.16.39）。情感可以被描述为欲望情感的早期阶段。第一动机并不是罪过，但由情感引发的爱的延续是自愿可控的，并且像奥古斯丁一样需要负责。
 
 奥古斯丁的自由同意概念作为他选择的爱态度观点的核心，艾尔雷德认为，这种爱可以基于情感、理性或两者兼而有之。当灵魂的较高部分同意情感时，爱源自情感；当意志与理性的表现结合时，爱源自理性；在第三种形式的爱中，爱、理性和意志融为一体。“第一种是愉快但危险的；第二种是严厉但富有成果的；第三种具有其他两种的优点，是完美的”（《镜子》3.20，48）。他指出，在爱我们应该爱的事物时，我们比没有情感甜蜜地更强烈地爱着。
 
-雨格·圣维克多把爱看作是基本情绪，并将其定义为心灵的愉悦，因为某种原因而指向某物（《爱的本质》2.48-49）。这种情绪是灵魂对客体的实际取向，带有主观感受的愉悦。在同一处，雨格将爱视为爱、欲望和喜悦序列的第一阶段（49-51）。他认为情绪是在心脏中产生的，是各种形式的感官运动影响，而不是控制智力意志（《圣礼》273C）。关于可达目标的爱的初步愉悦感，如果不被驱逐，会增强力量，并导致新的情绪阶段，这些阶段之间由典型的行为变化分隔。当将主体移向目标时，这是欲望，当达到目标时，这是喜悦（《爱的本质》2.50-51）。情绪的开始并不是自由选择的行为，但它们的持续是，但雨格在将无意识的性运动视为宽恕的罪行方面与阿尔雷德有所不同（《圣礼》315C-316A，391B）。
+雨格 · 圣维克多把爱看作是基本情绪，并将其定义为心灵的愉悦，因为某种原因而指向某物（《爱的本质》2.48-49）。这种情绪是灵魂对客体的实际取向，带有主观感受的愉悦。在同一处，雨格将爱视为爱、欲望和喜悦序列的第一阶段（49-51）。他认为情绪是在心脏中产生的，是各种形式的感官运动影响，而不是控制智力意志（《圣礼》273C）。关于可达目标的爱的初步愉悦感，如果不被驱逐，会增强力量，并导致新的情绪阶段，这些阶段之间由典型的行为变化分隔。当将主体移向目标时，这是欲望，当达到目标时，这是喜悦（《爱的本质》2.50-51）。情绪的开始并不是自由选择的行为，但它们的持续是，但雨格在将无意识的性运动视为宽恕的罪行方面与阿尔雷德有所不同（《圣礼》315C-316A，391B）。
 
 在他们的情绪心理学中，Aelred 和 Hugh 将情绪视为下层灵魂运动的行为冲动愉快（或不愉快）感知。尽管这种描述可以被理解为对任何动物行为的外部解释，但它与奥古斯丁学派的一种主张相关，即应尽快由自由意志控制和引导自发运动。这将第一运动的内省知识添加到分析中，使情绪成为内在变化的主观意识问题，就像克莱尔沃的伯纳德一样。
 
@@ -74,13 +74,13 @@
 | 强度 | *把慢的事情做好* | 喜悦      | 痛苦 |
 | *Quick*     | 愤怒              | 恐惧      |      |
 
-约翰·拉罗谢尔（John of la Rochelle）是一位方济各会神学家，在他的《灵魂总论》（Summa de anima）中将这个方案称为一个众所周知的模型（1235 [1995: 262]）。这个模型在雅各布·韦克（Jacob Wecker）的十六世纪手册《医学语法学》（Medicinae utriusque syntaxes）中以表格形式呈现，括号内包含（1576, I.3, p. 181）。关于十四世纪的表述，请参见马伊诺·德·马内里（Maino de Maineri）的《健康管理》（Regimen sanitatis）3.8，巴黎 1506 年，第 38 页背面（参见吉尔-索特雷斯 1994 年）。
+约翰 · 拉罗谢尔（John of la Rochelle）是一位方济各会神学家，在他的《灵魂总论》（Summa de anima）中将这个方案称为一个众所周知的模型（1235 [1995: 262]）。这个模型在雅各布 · 韦克（Jacob Wecker）的十六世纪手册《医学语法学》（Medicinae utriusque syntaxes）中以表格形式呈现，括号内包含（1576, I.3, p. 181）。关于十四世纪的表述，请参见马伊诺 · 德 · 马内里（Maino de Maineri）的《健康管理》（Regimen sanitatis）3.8，巴黎 1506 年，第 38 页背面（参见吉尔-索特雷斯 1994 年）。
 
-阿维森纳（Avicenna）的情绪描述在多明尼库斯·冈迪萨尔维（Dominicus Gundisalvi）的《论灵魂》（De anima）中得到了讨论，该书在很大程度上由冈迪萨尔维和阿文道斯（Avendauth）对阿维森纳《灵魂论》的拉丁文翻译组成。冈迪萨尔维从阿维森纳关于感性动机行为的描述中引用的内容中，几乎一半涉及到了贪欲力和愤怒力之间的关系，以及心脏和精神的变化。这些内容被十三世纪初的拉丁文作者约翰·布伦德（John Blund）和迪南特的大卫（David of Dinant）所感兴趣。他们认为情绪的生理方面的医学描述在因果上是首要的，有些类似于詹姆斯-兰格（James-Lange）情绪理论，但这并不是一种有影响力的观点（约翰·布伦德，Tractatus de anima，25.380；大卫·迪南特，Fragmenta Quaternulorum，36–39，67–68）。
+阿维森纳（Avicenna）的情绪描述在多明尼库斯 · 冈迪萨尔维（Dominicus Gundisalvi）的《论灵魂》（De anima）中得到了讨论，该书在很大程度上由冈迪萨尔维和阿文道斯（Avendauth）对阿维森纳《灵魂论》的拉丁文翻译组成。冈迪萨尔维从阿维森纳关于感性动机行为的描述中引用的内容中，几乎一半涉及到了贪欲力和愤怒力之间的关系，以及心脏和精神的变化。这些内容被十三世纪初的拉丁文作者约翰 · 布伦德（John Blund）和迪南特的大卫（David of Dinant）所感兴趣。他们认为情绪的生理方面的医学描述在因果上是首要的，有些类似于詹姆斯-兰格（James-Lange）情绪理论，但这并不是一种有影响力的观点（约翰 · 布伦德，Tractatus de anima，25.380；大卫 · 迪南特，Fragmenta Quaternulorum，36–39，67–68）。
 
 十二世纪的分类讨论涉及到感官和愤怒情绪之间的区分，这对许多作者来说是棘手的。在圣维克多的休（Hugh of St. Victor）关于爱的本质的论著中，发现了一个更简单但有影响力的分类，他在其中定义了爱、欲望和喜悦的上升序列（见上文）。类似的三分法分类也被用于十三世纪对感官激情的分类。在他的《十二祖先》中，圣维克多的理查德（Richard of St. Victor，逝世于 1173 年）使用了一个列表，其他作者中找不到，列出了七种情绪：希望、恐惧、喜悦、苦恼、爱、憎恶和羞耻（见 Palmén 2014）。
 
-威廉·康谢斯（约 1154 年去世）认为情绪有两种主要类型，即爱和恨，根据对象是否受喜欢（placet）或不受喜欢（displicet）而分为两类。其他情绪源自这两种：爱包括喜悦和欲望，恨包括痛苦、恐惧和愤怒（《柏拉图注释》69，122）。这一术语后来被用于拉杜尔夫斯·阿尔登斯（约 1200 年）的《普遍镜》中，这是一部关于美德和恶习的广泛著作，然后在约翰·拉罗谢尔的具有影响力的《灵魂总论》（1235 年）中，用于基本的欲望情绪划分。西斯拉克修道院神学家伊莎克（约 1177 年去世）提出了一种奥古斯丁式的分类，将斯多葛四重表与柏拉图主义概念结合如下。
+威廉 · 康谢斯（约 1154 年去世）认为情绪有两种主要类型，即爱和恨，根据对象是否受喜欢（placet）或不受喜欢（displicet）而分为两类。其他情绪源自这两种：爱包括喜悦和欲望，恨包括痛苦、恐惧和愤怒（《柏拉图注释》69，122）。这一术语后来被用于拉杜尔夫斯 · 阿尔登斯（约 1200 年）的《普遍镜》中，这是一部关于美德和恶习的广泛著作，然后在约翰 · 拉罗谢尔的具有影响力的《灵魂总论》（1235 年）中，用于基本的欲望情绪划分。西斯拉克修道院神学家伊莎克（约 1177 年去世）提出了一种奥古斯丁式的分类，将斯多葛四重表与柏拉图主义概念结合如下。
 
 |               |      | **Time**                                                                                                                                                                                                                    |         |
 | --------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -88,11 +88,11 @@
 | **教职员工** | *情绪（关于所爱之物）*     | 喜悦                                                                                                                                                                                                                | 渴望    |
 | *易怒的（关于与所爱相反的事物）*              | 痛苦 | 恐惧                                                                                                                                                                                                                |         |
 
-以赛亚克（Isaac of Stella）, 《灵魂书信》（Letter on the Soul）, 1878 年，翻译见麦金（McGinn）1977 年。以赛亚克的分类被引用于具有影响力的十二世纪伪奥古斯丁论文《论灵与魂》（De spiritu et anima）（782 年；参见 814 年，翻译见麦金 1977 年），并通过菲利普大主教（Philip the Chancellor）的《善总集》（Summa de bono）（748-749 年）传承。在以赛亚克之前，斯多嘉学派对情绪的分类和柏拉图对灵魂的划分被一同呈现在圣蒂埃里的威廉（William of St. Thierry）的《论身体与灵魂的本质》（De natura corporis et animae）中（翻译见麦金 1977 年），但未解释它们之间的关系（2.88-91）。在以赛亚克的分类中，苦恼是一种易怒的情绪，与伊本·西那（Avicenna）一样，但以赛亚克受到拉丁传统的影响，其中贪欲情绪指向善对象，易怒情绪指向有害对象（Knuuttila 2004: 229）。圣蒂埃里的威廉写道，愤怒和爱是虔诚灵魂的良好易怒倾向，并因爱的热情和对恶习的憎恶而相匹配。克莱尔沃的伯纳德（Bernard of Clairvaux）同样将喜悦和愤怒归类为易怒的激情（《作品集 V》, 358-359）。关于西特尔修道院的情感列表，请参阅 Boquet 2005。
+以赛亚克（Isaac of Stella）, 《灵魂书信》（Letter on the Soul）, 1878 年，翻译见麦金（McGinn）1977 年。以赛亚克的分类被引用于具有影响力的十二世纪伪奥古斯丁论文《论灵与魂》（De spiritu et anima）（782 年；参见 814 年，翻译见麦金 1977 年），并通过菲利普大主教（Philip the Chancellor）的《善总集》（Summa de bono）（748-749 年）传承。在以赛亚克之前，斯多嘉学派对情绪的分类和柏拉图对灵魂的划分被一同呈现在圣蒂埃里的威廉（William of St. Thierry）的《论身体与灵魂的本质》（De natura corporis et animae）中（翻译见麦金 1977 年），但未解释它们之间的关系（2.88-91）。在以赛亚克的分类中，苦恼是一种易怒的情绪，与伊本 · 西那（Avicenna）一样，但以赛亚克受到拉丁传统的影响，其中贪欲情绪指向善对象，易怒情绪指向有害对象（Knuuttila 2004: 229）。圣蒂埃里的威廉写道，愤怒和爱是虔诚灵魂的良好易怒倾向，并因爱的热情和对恶习的憎恶而相匹配。克莱尔沃的伯纳德（Bernard of Clairvaux）同样将喜悦和愤怒归类为易怒的激情（《作品集 V》, 358-359）。关于西特尔修道院的情感列表，请参阅 Boquet 2005。
 
-这些考虑显示了如何结合各种分类观念存在一些不确定性。当亚里士多德的观点在 13 世纪初变得更为人所知时，人们意识到 12 世纪关于欲望和愤怒情绪之间的区分与亚里士多德有关灵魂同一部分的相反情绪的观念并不相容。（参见约翰·布伦德在《灵魂论》18-22 中对这一问题的相当复杂的解决尝试。）在 1220 年代，引入了一种有影响力的新分类观念作为解决方案。（参见匿名著作《灵魂及其能力论》47-48，以及《灵魂能力与客体》159、164，还有菲利普大主教的《善之总论》161）。人们认为相反欲望行为的客体仅仅是令人愉悦或痛苦的，而愤怒行为的客体也是艰难的（arduum），难以获得或避免的。
+这些考虑显示了如何结合各种分类观念存在一些不确定性。当亚里士多德的观点在 13 世纪初变得更为人所知时，人们意识到 12 世纪关于欲望和愤怒情绪之间的区分与亚里士多德有关灵魂同一部分的相反情绪的观念并不相容。（参见约翰 · 布伦德在《灵魂论》18-22 中对这一问题的相当复杂的解决尝试。）在 1220 年代，引入了一种有影响力的新分类观念作为解决方案。（参见匿名著作《灵魂及其能力论》47-48，以及《灵魂能力与客体》159、164，还有菲利普大主教的《善之总论》161）。人们认为相反欲望行为的客体仅仅是令人愉悦或痛苦的，而愤怒行为的客体也是艰难的（arduum），难以获得或避免的。
 
-在约翰·拉罗谢尔（John of la Rochelle）的《灵魂总论》（Summa de anima）中，基于“arduum”概念的详细的 13 世纪初分类涉及相反情绪。他将情绪视为两种运动力量的行为，即贪欲力和愤怒力，均分为几种类型的反对对。贪欲力的对是与喜欢（placentia）或不喜欢（displicentia）的相反倾向相关，而愤怒力的情绪则与强度（corroboratio）和弱点（debilitas）相关。这些对应于不同类型的评估行为，这些行为是它们的原因。这一新的系统性思想是使用这些感觉倾向和相应的行为反应作为分类原则。贪欲力的情绪分类如下：
+在约翰 · 拉罗谢尔（John of la Rochelle）的《灵魂总论》（Summa de anima）中，基于“arduum”概念的详细的 13 世纪初分类涉及相反情绪。他将情绪视为两种运动力量的行为，即贪欲力和愤怒力，均分为几种类型的反对对。贪欲力的对是与喜欢（placentia）或不喜欢（displicentia）的相反倾向相关，而愤怒力的情绪则与强度（corroboratio）和弱点（debilitas）相关。这些对应于不同类型的评估行为，这些行为是它们的原因。这一新的系统性思想是使用这些感觉倾向和相应的行为反应作为分类原则。贪欲力的情绪分类如下：
 
 自我相关反应 | 第一取向 | 欲望 | 厌恶 | 行动启动 | 欲望 | 厌恶 | 对结果的态度 | 喜悦 | 痛苦 | 对持久结果的态度 | 欣喜 | 苦恼 | 他人相关反应 | 对另一个经历的人的态度： | 善良 | 爱 | 嫉妒 | | 邪恶 | 憎恨 | 怜悯 |
 
@@ -112,11 +112,11 @@ La Rochelle 的易怒情绪与“艰难而困难的对象”有关，野心和�
 | 愤怒       |              |
 | 宽宏大量   |              |
 
-查看《灵魂总论》，256-262 页；Knuuttila 2004: 230-236；Knuuttila 2016。关于可欲和易怒情绪的更多神学讨论可在威廉·奥弗涅的近代作品《论美德》第 16-18 章中找到。关于骄傲和谦卑的十二世纪论文，请参阅克莱尔沃的伯纳德，《论谦卑和骄傲的程度》（Opera III，13-59）。
+查看《灵魂总论》，256-262 页；Knuuttila 2004: 230-236；Knuuttila 2016。关于可欲和易怒情绪的更多神学讨论可在威廉 · 奥弗涅的近代作品《论美德》第 16-18 章中找到。关于骄傲和谦卑的十二世纪论文，请参阅克莱尔沃的伯纳德，《论谦卑和骄傲的程度》（Opera III，13-59）。
 
-## 阿尔伯特大师，波纳文图拉和托马斯·阿奎那
+## 阿尔伯特大师，波纳文图拉和托马斯 · 阿奎那
 
-阿维森纳的心理学和新的欲望和愤怒情绪之间的划分，阿尔伯特大师和托马斯·阿奎那将情绪视为感官运动力的行为。虽然阿尔伯特在他的作品中采用了基于斯多嘉学派的分类，如埃梅萨的涅梅修斯和约翰·达马斯科（《人类论》第 66-67 题；《善论》3.5.2-3），托马斯·阿奎那提出了一个新的分类法（《神学大全》II-1，22-48），这可能受到了拉罗谢尔的影响。阿尔伯特认为情绪应被视为亚里士多德在《范畴论》第 8 篇中描述的品质（《善论》3.5.1，3.5.3）。阿奎那辩护将它们描述为灵魂的运动，认为情绪的基本分类原则在亚里士多德《物理学》第 V.5 篇的对立运动学说中找到。波纳文图拉在相对化感官和智力运动力之间的差异方面与这些作者不同，并将情绪归因于智力灵魂，而不仅仅是传统上所做的隐喻性归因。在他对《圣句注释》第三卷中讨论基督的灵魂时，波纳文图拉认为基督的智力意志中有欲望和愤怒部分，以及喜悦和苦恼的激情。类似的想法也在早期的所谓的哈伦纳总汇中提出（波纳文图拉，《圣句》III.16.2.1（354）；III.33.1.3（717）；另见普伦蒂斯 1957；瓦乌拉 2017）。尽管波纳文图拉的描述仍然很简略，但它影响了方济各会对意志情绪的看法，这一看法后来由约翰·邓斯·斯科特更系统地分析。
+阿维森纳的心理学和新的欲望和愤怒情绪之间的划分，阿尔伯特大师和托马斯 · 阿奎那将情绪视为感官运动力的行为。虽然阿尔伯特在他的作品中采用了基于斯多嘉学派的分类，如埃梅萨的涅梅修斯和约翰 · 达马斯科（《人类论》第 66-67 题；《善论》3.5.2-3），托马斯 · 阿奎那提出了一个新的分类法（《神学大全》II-1，22-48），这可能受到了拉罗谢尔的影响。阿尔伯特认为情绪应被视为亚里士多德在《范畴论》第 8 篇中描述的品质（《善论》3.5.1，3.5.3）。阿奎那辩护将它们描述为灵魂的运动，认为情绪的基本分类原则在亚里士多德《物理学》第 V.5 篇的对立运动学说中找到。波纳文图拉在相对化感官和智力运动力之间的差异方面与这些作者不同，并将情绪归因于智力灵魂，而不仅仅是传统上所做的隐喻性归因。在他对《圣句注释》第三卷中讨论基督的灵魂时，波纳文图拉认为基督的智力意志中有欲望和愤怒部分，以及喜悦和苦恼的激情。类似的想法也在早期的所谓的哈伦纳总汇中提出（波纳文图拉，《圣句》III.16.2.1（354）；III.33.1.3（717）；另见普伦蒂斯 1957；瓦乌拉 2017）。尽管波纳文图拉的描述仍然很简略，但它影响了方济各会对意志情绪的看法，这一看法后来由约翰 · 邓斯 · 斯科特更系统地分析。
 
 在讨论《神学大全》II-1.22–48 中的情绪时，阿奎那首先根据它们的通用对象将它们分为两类：感性情绪对感官层面上的好坏做出反应，而易怒情绪对艰难的感官好和感官恶做出反应。感性运动能力是通过认知而被对象激活的，由于情绪运动的方式在定义特定情绪时起到进一步的资格限定作用。在运用亚维森的估计力概念来把握对象的情感相关方面时，阿奎那说这在人类中可以称为特殊理性（《神学大全》I.78.4）。可识别的评价属性（如危险性）可以称为情绪的形式对象（《神学大全》II-1.43.1；参见 Kenny 1963: 189；King 2011）。
 
@@ -128,25 +128,25 @@ La Rochelle 的易怒情绪与“艰难而困难的对象”有关，野心和�
 
 至于快乐和痛苦，阿奎那解释说，虽然人们可能会谈论石头热爱其自然位置并渴望留在那里，但谈论石头的快乐或痛苦是没有意义的，因为它没有感觉。他认为快乐或痛苦是一种愉悦或不愉快的意识，这是情绪的一个方面，因为积极情绪中涉及某种形式的快乐，而消极情绪中涉及某种形式的痛苦（《神学大全》II-1.43.1）。罗马的吉尔斯，大多遵循阿奎那的分类法，指出快乐和痛苦作为情绪是一种状态，而不是运动。他还希望增加温和，这是阿奎那分类中与愤怒相对的一种情绪（见 Marmo 1991）。关于快乐和痛苦，阿奎那解释说，虽然人们可能会谈论石头热爱其自然位置并渴望留在那里，但谈论石头的快乐或痛苦是没有意义的，因为它没有感觉。他认为快乐或痛苦是一种愉悦或不愉快的意识，这是情绪的一个方面，因为积极情绪中涉及某种形式的快乐，而消极情绪中涉及某种形式的痛苦（《神学大全》II-1.43.1）。罗马的吉尔斯，大多遵循阿奎那的分类法，指出快乐和痛苦作为情绪是一种状态，而不是运动。他还希望增加温和，这是阿奎那分类中与愤怒相对的一种情绪（见 Marmo 1991）。
 
-阿奎那对情绪的讨论是中世纪文献中最广泛的，涉及每种情绪类型的详细术语、心理和伦理评论。像所有中世纪作者一样，阿奎那认为智力灵魂应该严格控制情绪，但他也批评了斯多嘉学派的无感情主义和普罗提诺对情绪的自由版本（《神学大全》II-1.24.3, 59.2, 61.5）。与亚里士多德一样，感性灵魂的美德是根据实践理性的判断来感受情绪的习惯。情绪本身并不能为良好生活提供足够的指导。阿奎那的理论和分类在 17 世纪之前非常有影响力。（有关从伊本·西那到阿奎那的中世纪讨论，请参见 Knuuttila 2004；有关阿奎那，请参见 King 1999, 2002, 2010, 2011；Lombardo 2011；Miner 2009；Murphy 1999；Pickavé 2018；Kahm 2019；有关基督的感性激情讨论，请参见 Gondreau 2002；Madigan 2007。）
+阿奎那对情绪的讨论是中世纪文献中最广泛的，涉及每种情绪类型的详细术语、心理和伦理评论。像所有中世纪作者一样，阿奎那认为智力灵魂应该严格控制情绪，但他也批评了斯多嘉学派的无感情主义和普罗提诺对情绪的自由版本（《神学大全》II-1.24.3, 59.2, 61.5）。与亚里士多德一样，感性灵魂的美德是根据实践理性的判断来感受情绪的习惯。情绪本身并不能为良好生活提供足够的指导。阿奎那的理论和分类在 17 世纪之前非常有影响力。（有关从伊本 · 西那到阿奎那的中世纪讨论，请参见 Knuuttila 2004；有关阿奎那，请参见 King 1999, 2002, 2010, 2011；Lombardo 2011；Miner 2009；Murphy 1999；Pickavé 2018；Kahm 2019；有关基督的感性激情讨论，请参见 Gondreau 2002；Madigan 2007。）
 
-## 苏格兰的约翰·邓斯·斯科特和晚中世纪的讨论
+## 苏格兰的约翰 · 邓斯 · 斯科特和晚中世纪的讨论
 
-约翰·邓斯·斯科特认为基于艰难概念的分类法是人为的，并批评了有影响力的亚里士多德学派观念，即事物中存在可以被估计力把握并驱动动机力的“意向”。他认为某种类型的表象会导致某些动物学习或本能行为上的改变，这在某些动物身上是法则性的事实。一只羊自然会逃离它所感知到的狼，而不是像亚里士多德那样通过内在感知认识到其内在的敌意；它甚至会逃离看起来像狼的和平的羊（Ordinatio I.3.1.1–2, p. 43–44; III.15, 42–43, p. 495–496; III.34, 35–38, p. 193–196; cf. Perler 2012）。斯科特对情绪的处理中具有影响力的部分是他系统地讨论了方济各会关于假设意志的激情的立场，这也是斯科特发展他的情绪理论的地方。根据斯科特的观点，当人意识到所渴望的实际情况或其相反情况时，“随之而来的是意志的激情，喜悦或苦恼，这是由以这种方式呈现的对象引起的”。这些激情并非直接由自由意志引起（Ordinatio III.15, 48, p. 498）。即使喜悦或苦恼在智力运动力的实际状态方面是意志的行为，但它们在具有外部有效原因且不是意志的自由行为的意义上是激情。这符合情绪被视为被动反应的传统观点。
+约翰 · 邓斯 · 斯科特认为基于艰难概念的分类法是人为的，并批评了有影响力的亚里士多德学派观念，即事物中存在可以被估计力把握并驱动动机力的“意向”。他认为某种类型的表象会导致某些动物学习或本能行为上的改变，这在某些动物身上是法则性的事实。一只羊自然会逃离它所感知到的狼，而不是像亚里士多德那样通过内在感知认识到其内在的敌意；它甚至会逃离看起来像狼的和平的羊（Ordinatio I.3.1.1–2, p. 43–44; III.15, 42–43, p. 495–496; III.34, 35–38, p. 193–196; cf. Perler 2012）。斯科特对情绪的处理中具有影响力的部分是他系统地讨论了方济各会关于假设意志的激情的立场，这也是斯科特发展他的情绪理论的地方。根据斯科特的观点，当人意识到所渴望的实际情况或其相反情况时，“随之而来的是意志的激情，喜悦或苦恼，这是由以这种方式呈现的对象引起的”。这些激情并非直接由自由意志引起（Ordinatio III.15, 48, p. 498）。即使喜悦或苦恼在智力运动力的实际状态方面是意志的行为，但它们在具有外部有效原因且不是意志的自由行为的意义上是激情。这符合情绪被视为被动反应的传统观点。
 
-斯科鄧斯（Scotus）列出了導致激情作為意志的因素的更長清單，其中包括對所發生的事情的理解是（1）實際上是反對自己的意志，（2）反對對幸福的自然傾向（affectio commodi），即使沒有特定的意志行為，（3）反對感官慾望，以及（4）根據在偏好但無法實現的情況下勉強意願的情況（velleitas）。有導致快樂的相應因素，這是意志的另一種激情（Ordinatio III.15, 60, p. 505）。因此，智力靈魂被認為是非常情緒化的——它的感受受到實際意志或不意志的影響，以及意志和靈魂感官部分的傾向。由於這些狀態在很大程度上影響人們的活動作為動機或障礙，道德教育應該加強對正義的自然傾向（affectio iustitiae）和良好的道德習慣的支持。新的意志習慣改變了感受快樂和痛苦的條件（參見 Boulnois 2003; Knuuttila 2012; Drummond 2012）。斯科鄧斯將喜歡和不喜歡（complacentia 和 displicentia）視為意志的非預謀第一方向，類似於感官情感反應，只是它們是自由行為。這些尚未有效的行為可以直接控制，與意志的激情不同。約翰·布里丹（John Buridan）在其他方面遵循斯科鄧斯的分析，指出喜歡和不喜歡不是自由行為，在這方面與感官情感相似（Quaestiones super decem libros Ethicorum, X.2; Zupko 1995）。布里丹的修改增加了意志的非自由情感現象的數量，但將情感術語應用於意志的趨勢也有其他形式。奧卡姆（Ockham）遵循斯科鄧斯將快樂和痛苦視為意志的激情的觀點，儘管他將它們的條件限制在斯科鄧斯清單中的第一和第四種情況。但他還解釋說，“激情是與認知不同的形式，存在於食慾力量中作為其主體，並且需要認知才能存在”（Quodlibet II.17, p. 186）。
+斯科鄧斯（Scotus）列出了導致激情作為意志的因素的更長清單，其中包括對所發生的事情的理解是（1）實際上是反對自己的意志，（2）反對對幸福的自然傾向（affectio commodi），即使沒有特定的意志行為，（3）反對感官慾望，以及（4）根據在偏好但無法實現的情況下勉強意願的情況（velleitas）。有導致快樂的相應因素，這是意志的另一種激情（Ordinatio III.15, 60, p. 505）。因此，智力靈魂被認為是非常情緒化的——它的感受受到實際意志或不意志的影響，以及意志和靈魂感官部分的傾向。由於這些狀態在很大程度上影響人們的活動作為動機或障礙，道德教育應該加強對正義的自然傾向（affectio iustitiae）和良好的道德習慣的支持。新的意志習慣改變了感受快樂和痛苦的條件（參見 Boulnois 2003; Knuuttila 2012; Drummond 2012）。斯科鄧斯將喜歡和不喜歡（complacentia 和 displicentia）視為意志的非預謀第一方向，類似於感官情感反應，只是它們是自由行為。這些尚未有效的行為可以直接控制，與意志的激情不同。約翰 · 布里丹（John Buridan）在其他方面遵循斯科鄧斯的分析，指出喜歡和不喜歡不是自由行為，在這方面與感官情感相似（Quaestiones super decem libros Ethicorum, X.2; Zupko 1995）。布里丹的修改增加了意志的非自由情感現象的數量，但將情感術語應用於意志的趨勢也有其他形式。奧卡姆（Ockham）遵循斯科鄧斯將快樂和痛苦視為意志的激情的觀點，儘管他將它們的條件限制在斯科鄧斯清單中的第一和第四種情況。但他還解釋說，“激情是與認知不同的形式，存在於食慾力量中作為其主體，並且需要認知才能存在”（Quodlibet II.17, p. 186）。
 
-如果这是一个经过深思熟虑的观点，那么所有发生的意志都变成了激情，无论是自由的还是不自由的（见 Hirvonen 2004; Perler 2017）。奥卡姆是在谈论激情还是“伪激情”？King（2012）和 Miner（2009）在讨论阿奎那关于意志作为无激情激情的评论时使用了这个术语。由于奥卡姆经常采用斯科鲁斯对快乐和痛苦的描述作为意志的激情，他对激情的定义可能有些粗略，并不是要引入一个新的语义来解释“激情”这个术语。然而，他的年轻同事和合作者亚当·沃德汉姆认为，意志和非意志是评价性认知，所有人类激情都可以归结为其中，因为灵魂的统一。发生的意志或非意志有一个认知作为部分原因，评价就涉及到这个认知。这种情感的认知解释与斯多葛学派的理论有一些相似之处，但似乎与之没有历史联系（Lectura secunda, prol. q. 1, secs. 2, 5–6; d. 1, q. 5, secs. 4–5, 11; cf. Knuuttila 2004: 275–282; Pickavé 2012 中有不同的解释）。
+如果这是一个经过深思熟虑的观点，那么所有发生的意志都变成了激情，无论是自由的还是不自由的（见 Hirvonen 2004; Perler 2017）。奥卡姆是在谈论激情还是“伪激情”？King（2012）和 Miner（2009）在讨论阿奎那关于意志作为无激情激情的评论时使用了这个术语。由于奥卡姆经常采用斯科鲁斯对快乐和痛苦的描述作为意志的激情，他对激情的定义可能有些粗略，并不是要引入一个新的语义来解释“激情”这个术语。然而，他的年轻同事和合作者亚当 · 沃德汉姆认为，意志和非意志是评价性认知，所有人类激情都可以归结为其中，因为灵魂的统一。发生的意志或非意志有一个认知作为部分原因，评价就涉及到这个认知。这种情感的认知解释与斯多葛学派的理论有一些相似之处，但似乎与之没有历史联系（Lectura secunda, prol. q. 1, secs. 2, 5–6; d. 1, q. 5, secs. 4–5, 11; cf. Knuuttila 2004: 275–282; Pickavé 2012 中有不同的解释）。
 
-许多神学家批评了斯科特和奥卡姆在神圣幻境（果实）中对爱与快乐之间的真实区别的假设，他们支持这一立场的理由是爱是意志的自由行为，而快乐则不是。彼得·奥里奥尔特别强调了相反的观点，他认为所有智性快乐都是意志的自由行为，爱和快乐在实现神圣幻境中无法区分。奥里奥尔的观点得到了沃德汉姆和沃尔特·查顿的支持，尤其是在果实方面，但不涉及有限的对象。斯科特和奥卡姆提供了各种例子来区分爱的实现和快乐的体验，其中之一是邪恶天使成功行动而没有快乐（见 Kitanov 2014）。
+许多神学家批评了斯科特和奥卡姆在神圣幻境（果实）中对爱与快乐之间的真实区别的假设，他们支持这一立场的理由是爱是意志的自由行为，而快乐则不是。彼得 · 奥里奥尔特别强调了相反的观点，他认为所有智性快乐都是意志的自由行为，爱和快乐在实现神圣幻境中无法区分。奥里奥尔的观点得到了沃德汉姆和沃尔特 · 查顿的支持，尤其是在果实方面，但不涉及有限的对象。斯科特和奥卡姆提供了各种例子来区分爱的实现和快乐的体验，其中之一是邪恶天使成功行动而没有快乐（见 Kitanov 2014）。
 
-当“喜欢”和“讨厌”的概念从感官体验的背景转移到斯科特斯、奥卡姆等人的意志领域时，它们仍然指涉主观可接触的第一人称事务。它们作为个人的自由行为阻止了斯科特斯称之为情绪（激情），但奥卡姆和彼得·奥里奥尔等其他人并未强调这种差异。事实上，即使在斯科特斯那里，它们也被视为某种准情绪。由于自由意志在意志主义理论中是人格的中心，关注其无效的喜好和讨厌是道德相关的自我意识的一个方面；一个人不仅应该控制行动的意图，还应该控制一般的无效喜好和讨厌。这些直接是自愿的，而意志的激情间接是如此；两者在道德行为中都起着推动作用。（参见《Ordinatio II.42》中对错误快乐的讨论，以及 Barnwell 2010；Cross 2014 中对文本历史的评价）。
+当“喜欢”和“讨厌”的概念从感官体验的背景转移到斯科特斯、奥卡姆等人的意志领域时，它们仍然指涉主观可接触的第一人称事务。它们作为个人的自由行为阻止了斯科特斯称之为情绪（激情），但奥卡姆和彼得 · 奥里奥尔等其他人并未强调这种差异。事实上，即使在斯科特斯那里，它们也被视为某种准情绪。由于自由意志在意志主义理论中是人格的中心，关注其无效的喜好和讨厌是道德相关的自我意识的一个方面；一个人不仅应该控制行动的意图，还应该控制一般的无效喜好和讨厌。这些直接是自愿的，而意志的激情间接是如此；两者在道德行为中都起着推动作用。（参见《Ordinatio II.42》中对错误快乐的讨论，以及 Barnwell 2010；Cross 2014 中对文本历史的评价）。
 
-斯科鲁斯（Scotus）和奥卡姆（Ockham）并不认为发生的爱是主体必然知晓的，但他们认为，那些愿意通过单独的内省行为来认识它的人是知晓的。奥卡姆写道，当某人爱上一个对象时，并不需要这个人知道自己爱上了它。然而，当一个人希望自己的行为被知晓时，立即就会发生这种知晓的行为，即通过这种行为，爱的行为被知晓。一些其他人，比如沃尔特·查顿（Walter Chatton），认为对于一个有意识的行为的认知是嵌入在这个行为中的。（见 Brower-Toland 2012。）
+斯科鲁斯（Scotus）和奥卡姆（Ockham）并不认为发生的爱是主体必然知晓的，但他们认为，那些愿意通过单独的内省行为来认识它的人是知晓的。奥卡姆写道，当某人爱上一个对象时，并不需要这个人知道自己爱上了它。然而，当一个人希望自己的行为被知晓时，立即就会发生这种知晓的行为，即通过这种行为，爱的行为被知晓。一些其他人，比如沃尔特 · 查顿（Walter Chatton），认为对于一个有意识的行为的认知是嵌入在这个行为中的。（见 Brower-Toland 2012。）
 
-晚中世纪关于情绪的哲学总集包括彼得·德·艾利（Peter of Ailly）的具有影响力的《灵魂论》（Tractatus de anima，约 1380 年），该作品在观点上折衷地运用了匿名的十三世纪阿尔伯特大师观点总集《自然总论》（Summa naturalium）和格雷戈里·里米尼（Gregory of Rimini）对斯科鲁斯（Scotus）、奥卡姆（Ockham）、奥里奥尔（Auriol）和沃德汉姆（Wodeham）关于意志的激情以及爱与快乐之间关系的简要评论。艾利的作品是晚十五世纪和十六世纪初在大学心理学教学中使用的介绍的来源之一，例如由约翰·卢特雷亚（John of Lutrea）和乌辛根的巴托洛梅乌斯·阿诺尔迪（Bartholomeus Arnoldi）所著的《爱尔福特论文》（Kärkkäinen，2009）。乌辛根应用了布里达尼（Buridanian）版本的满足心理学和不满心理学，并将它们视为不可归因的第一动作（Saarinen 2011: 106–107）。约翰·热尔松（John Gerson）的情绪论著作包括长长的激情列表，按照阿奎那（Aquinas）分类法的十一种类型进行分类（《作品集》IX，1–25，155–61）。
+晚中世纪关于情绪的哲学总集包括彼得 · 德 · 艾利（Peter of Ailly）的具有影响力的《灵魂论》（Tractatus de anima，约 1380 年），该作品在观点上折衷地运用了匿名的十三世纪阿尔伯特大师观点总集《自然总论》（Summa naturalium）和格雷戈里 · 里米尼（Gregory of Rimini）对斯科鲁斯（Scotus）、奥卡姆（Ockham）、奥里奥尔（Auriol）和沃德汉姆（Wodeham）关于意志的激情以及爱与快乐之间关系的简要评论。艾利的作品是晚十五世纪和十六世纪初在大学心理学教学中使用的介绍的来源之一，例如由约翰 · 卢特雷亚（John of Lutrea）和乌辛根的巴托洛梅乌斯 · 阿诺尔迪（Bartholomeus Arnoldi）所著的《爱尔福特论文》（Kärkkäinen，2009）。乌辛根应用了布里达尼（Buridanian）版本的满足心理学和不满心理学，并将它们视为不可归因的第一动作（Saarinen 2011: 106–107）。约翰 · 热尔松（John Gerson）的情绪论著作包括长长的激情列表，按照阿奎那（Aquinas）分类法的十一种类型进行分类（《作品集》IX，1–25，155–61）。
 
-中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔·比尔（Gabriel Biel）关于彼得·隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅·德·梅迪纳（Bartholomé de Medina）和弗朗西斯科·苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰·拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔·赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔·比尔（Gabriel Biel）关于彼得·隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅·德·梅迪纳（Bartholomé de Medina）和弗朗西斯科·苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰·拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔·赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。
+中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔 · 比尔（Gabriel Biel）关于彼得 · 隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅 · 德 · 梅迪纳（Bartholomé de Medina）和弗朗西斯科 · 苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰 · 拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔 · 赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。中世纪情绪理论也在许多具有影响力的十六世纪学术作品中讨论，比如加布里埃尔 · 比尔（Gabriel Biel）关于彼得 · 隆巴尔德（Peter Lombard）《句子集》的《集成》（Collectorium），以及卡杰坦枢机、巴尔托洛梅 · 德 · 梅迪纳（Bartholomé de Medina）和弗朗西斯科 · 苏亚雷斯（Francisco Suárez）对阿奎那《神学大全》的评论，经常将斯科特和阿奎那的理论进行比较。约翰 · 拉罗谢尔（John of la Rochelle）的情绪分类法也通过格雷戈尔 · 赖希（Gregor Reisch）十六世纪早期流行百科全书《哲学珍珠》（Margarita philosophica）中的释义而为人所知（12.4–5）。在早期现代思想中，最受讨论的中世纪理论之一是阿奎那关于情绪的分类法和斯科特关于意志的激情理论，这两者都受到苏亚雷斯的评论。
 
 ## Bibliography
 
@@ -215,66 +215,66 @@ La Rochelle 的易怒情绪与“艰难而困难的对象”有关，野心和�
 ### Secondary sources
 
 * Barnwell, Michael, 2010, *The Problem of Negligent Omissions. Medieval Action Theories to the Rescue*, Leiden: Brill.
-* Black, Deborah L., 2000, “Imagination and Estimation: Arabic Paradigms and Western Transformations”, *Topoi* 19(1): 59–75. doi:10.1023/A:1006399407731
+* Black, Deborah L., 2000, “Imagination and Estimation: Arabic Paradigms and Western Transformations”, *Topoi* 19(1): 59–75. doi: 10.1023/A: 1006399407731
 * Blankenhorn, Bernhard, 2015, *The Mystery of Union with God: Dionysian Mysticism in Albert the Great and Thomas Aquinas*, Washington, DC: The Catholic University of America Press.
 * Boquet, Damien, 2005, *L’Ordre de l’affect au Moyen Âge. Autour de l’anthropologie affective d’Aelred de Rievaulx*, Caen: Publications du CRAHM.
-* Boulnois, Olivier, 2003, “Duns Scot: existe-t-il des passions de la volonté?”, in Bernard Besnier, Pierre-François Moreau, and Laurence Renault (eds.), *Les Passions antiques et médiévales. Théories et critiques des passions* I, Paris: Presses Universitaires de France, 281–295. doi:10.3917/puf.bedou.2003.01.0281
+* Boulnois, Olivier, 2003, “Duns Scot: existe-t-il des passions de la volonté?”, in Bernard Besnier, Pierre-François Moreau, and Laurence Renault (eds.), *Les Passions antiques et médiévales. Théories et critiques des passions* I, Paris: Presses Universitaires de France, 281–295. doi: 10.3917/puf.bedou.2003.01.0281
 * Brower-Toland, Susan, 2012, “Medieval Approaches to Consciousness: Ockham and Chatton”, *Philosophers’ Imprint*, 12, 1–29.
-* Byers, Sarah Catherine, 2013, *Perception, Sensibility and Moral Motivation in Augustine: A Stoic/Platonic Synthesis*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139086110
+* Byers, Sarah Catherine, 2013, *Perception, Sensibility and Moral Motivation in Augustine: A Stoic/Platonic Synthesis*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139086110
 * Coakley, Sarah and Charles M. Stang, (eds.), 2009, *Re-thinking Dionysius the Areopagite*, Oxford: Blackwell.
 * Cohen, Alix and Robert Stern (eds.), 2017, *Thinking about the Emotions: A Philosophical History*, Oxford: Oxford University Press.
 * Coolman, Boyd Taylor, 2008, “Hugh of St. Victor on ‘Jesus wept’: Compassion as Ideal *Humanitas*”, *Theological Studies*, 69: 528–556.
 * Cooper, John M., 1999, *Reason and Emotion: Essays on Ancient Moral Psychology and Ethical Theory*, Princeton, NJ: Princeton University Press.
 * Cross, Richard, 2014, *Duns Scotus’s Theory of Cognition*, Oxford: Oxford University Press.
-* Dow, Jamie, 2015, *Passions and Persuasion in Aristotle’s Rhetoric*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198716266.001.0001
-* Drummond, Ian, 2012, “John Duns Scotus on the Passions of the Will”, in Pickavé and Shapiro 2012: 53–74. doi:10.1093/acprof:oso/9780199579914.003.0004
+* Dow, Jamie, 2015, *Passions and Persuasion in Aristotle’s Rhetoric*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198716266.001.0001
+* Drummond, Ian, 2012, “John Duns Scotus on the Passions of the Will”, in Pickavé and Shapiro 2012: 53–74. doi: 10.1093/acprof: oso/9780199579914.003.0004
 * Fortenbaugh, William W., 2003, *Aristotle on Emotions*, London: Duckworth.
-* Gao Yuan, 2018, *Freedom from Passions in Augustine*, Religions and Discourse, Oxford: Peter Lang. doi:10.3726/b11360
+* Gao Yuan, 2018, *Freedom from Passions in Augustine*, Religions and Discourse, Oxford: Peter Lang. doi: 10.3726/b11360
 * Gil-Sotres, Pedro, 1994, “Modelo teórico y observación clínica: las pasiones del alma en la psicología medica medieval”, in *Comprendre et maîtriser la nature au Moyen Age. Mélagnes d’histoire des sciences offerts à Guy Beaujouan*, École pratique des Hautes Études, Sciences historiques et philologiques, 5; Hautes études médiévales et modernes 73, Geneva: Droz, 181–204.
 * Gondreau, Paul, 2002, *The Passions of Christ’s Human Soul in the Theology of St. Thomas Aquinas*, Münster: Aschendorff.
 * Hadot, Pierre, 1995, *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault*, Michael Chase (trans.), Arnold Davidson (ed.), Oxford: Blackwell.
 * Hasse, Dag Nikolaus, 2000, *Avicenna’s “De anima” in the Latin West: The Formation of the Peripatetic Philosophy of the Soul, 1160–1300*, London/Turin: The Warburg Institute/Nino Aragno Editore.
-* Hirvonen, Vesa, 2004, *Passions in William Ockham’s Philosophical Psychology*, Studies in the History of the Philosophy of Mind, 2, Dordrecht: Kluwer. doi:10.1007/978-1-4020-2119-0
-* Humphries, Thomas L. Jr., 2013, *Ascetic Pneumatology from John Cassian to Gregory the Great*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199685035.001.0001
+* Hirvonen, Vesa, 2004, *Passions in William Ockham’s Philosophical Psychology*, Studies in the History of the Philosophy of Mind, 2, Dordrecht: Kluwer. doi: 10.1007/978-1-4020-2119-0
+* Humphries, Thomas L. Jr., 2013, *Ascetic Pneumatology from John Cassian to Gregory the Great*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199685035.001.0001
 * Irwin, Terence, 2017, “The Subject of the Virtues”, in Cohen and Stern 2017: 29–59.
 * Kahm, Nicholas, 2019, *Aquinas on the Emotion’s Participation in Reason*, Washington, DC, The Catholic University of America Press.
-* Kärkkäinen, Pekka, 2009, “Psychology and the Soul in Late Medieval Erfurt”, *Vivarium* 47(4): 421–443. doi:10.1163/004275409X12482627895168
+* Kärkkäinen, Pekka, 2009, “Psychology and the Soul in Late Medieval Erfurt”, *Vivarium* 47(4): 421–443. doi: 10.1163/004275409X12482627895168
 * Kenny, Anthony, 1963, *Action, Emotion and Will*, London: Routledge.
 * King, Peter, 1999, “Aquinas on the Passions”, in Scott MacDonald and Eleonore Stump (eds.), *Aquinas’s Moral Theory: Essays in Honor of Norman Kretzmann*, Ithaca, NY: Cornell University Press, 1999, 101–32.
-* –––, 2002, “Late Scholastic Theories of the Passions: Controversies in the Thomist Tradition”, in Henrik Lagerlund and Mikko Yrjönsuuri (eds.) *Emotions and Choice from Boethius to Descartes*, Studies in the History of the Philosophy of Mind 1, Dordrecht: Kluwer, 229–258. doi:10.1007/978-94-010-0506-7_10
+* –––, 2002, “Late Scholastic Theories of the Passions: Controversies in the Thomist Tradition”, in Henrik Lagerlund and Mikko Yrjönsuuri (eds.) *Emotions and Choice from Boethius to Descartes*, Studies in the History of the Philosophy of Mind 1, Dordrecht: Kluwer, 229–258. doi: 10.1007/978-94-010-0506-7_10
 * –––, 2010, “Emotions in Medieval Thought”, in Peter Goldie (ed.) *The Oxford Handbook of Philosophy of Emotions*, Oxford: Oxford University Press, 167–187.
 * –––, 2011, “Emotions”, in Brian Davies and Eleonore Stump (eds.), *The Oxford Handbook to Aquinas*, New York: Oxford University Press, 209–226.
-* –––, 2012, “Dispassionate Passions”, in Pickavé and Shapiro 2012: 9–31. doi:10.1093/acprof:oso/9780199579914.003.0002
+* –––, 2012, “Dispassionate Passions”, in Pickavé and Shapiro 2012: 9–31. doi: 10.1093/acprof: oso/9780199579914.003.0002
 * Kitanov, Severin Valentinov, 2014, *Beatific Enjoyment in Medieval Scholastic Debates: The Complex Legacy of Saint Augustine and Peter Lombard*, New York: Lexington Books.
-* Knuuttila, Simo, 2004, *Emotions in Ancient and Medieval Philosophy*, Oxford: Clarendon Press. doi:10.1093/0199266387.001.0001
+* Knuuttila, Simo, 2004, *Emotions in Ancient and Medieval Philosophy*, Oxford: Clarendon Press. doi: 10.1093/0199266387.001.0001
 * –––, 2010, “Emotion”, in Robert Pasnau (eds.), *The Cambridge History of Medieval Philosophy*, volume 1, Cambridge: Cambridge University Press, 428–40.
-* –––, 2011, “Emotions”, in Henrik Lagerlund (ed.), *Encyclopedia of Medieval Philosophy*, Dordrecht: Springer, 290–294. doi:10.1007/978-1-4020-9729-4_153
-* –––, 2012 “Sixteenth-Century Discussions of the Passions of the Will”, in Pickavé and Shapiro 2012: 116–132. doi:10.1093/acprof:oso/9780199579914.003.0007
-* –––, 2016, “On the History of the Tables in Taxonomy of Emotions”, in Damien Boquet and Piroska Nagy (eds.), *Histoire intellectuelle des émotions, de l’Antiquité à nos jours*, Paris: L’Atelier du CRH. doi:10.4000/acrh.7402
+* –––, 2011, “Emotions”, in Henrik Lagerlund (ed.), *Encyclopedia of Medieval Philosophy*, Dordrecht: Springer, 290–294. doi: 10.1007/978-1-4020-9729-4_153
+* –––, 2012 “Sixteenth-Century Discussions of the Passions of the Will”, in Pickavé and Shapiro 2012: 116–132. doi: 10.1093/acprof: oso/9780199579914.003.0007
+* –––, 2016, “On the History of the Tables in Taxonomy of Emotions”, in Damien Boquet and Piroska Nagy (eds.), *Histoire intellectuelle des émotions, de l’Antiquité à nos jours*, Paris: L’Atelier du CRH. doi: 10.4000/acrh.7402
 * Konstan, David, 2001, *Pity Transformed*, London: Duckworth, 2001.
 * –––, 2006, *Emotions of the Ancient Greeks: Studies in Aristotle and Classical Literature*, Toronto: University of Toronto Press.
 * Köpf, Ulrich, 1980, *Religiöse Erfahrung in der Theologie Bernhards von Clairvaux*, Tübingen: J.C.B. Mohr, 1980.
 * Lombardo, Nicholas E., 2011, *The Logic of Desire: Aquinas on Emotions*, Washington DC: The Catholic University of America Press.
-* Lorenz, Hendrik, 2006, *The Brute Within: Appetitive Desire in Plato and Aristotle*, Oxford: Clarendon Press. doi:10.1093/0199290636.001.0001
-* Madigan, Kevin, 2007, *The Passions of Christ in High-Medieval Theology*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195322743.001.0001
+* Lorenz, Hendrik, 2006, *The Brute Within: Appetitive Desire in Plato and Aristotle*, Oxford: Clarendon Press. doi: 10.1093/0199290636.001.0001
+* Madigan, Kevin, 2007, *The Passions of Christ in High-Medieval Theology*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195322743.001.0001
 * Marmo, Costantino, 1991, “Hoc autem etsi potest tollerari… Egidio Romano e Tommaso d’Aquino sulle passione dell’ anima”, *Documenti e studi sulla tradizione filosofica medievale*, 2(1): 281–315.
-* Miner, Robert, 2009, *Thomas Aquinas on the Passions: A Study of Summa Theologiae Ia2ae22–48*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576560
+* Miner, Robert, 2009, *Thomas Aquinas on the Passions: A Study of Summa Theologiae Ia2ae22–48*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511576560
 * –––, 2015, “The Difficulties of Mercy: Reading Thomas Aquinas on *Misericordia*”, *Studies in Christian Ethics*, 28: 70–85.
 * Murphy, Claudia Eisen, 1999, “Aquinas on Our Responsibility for Our Emotions”, *Medieval Philosophy and Theology* 8(2): 163–205.
 * Nussbaum, Martha, 1994, *The Therapy of Desire: Theory and Practice in Hellenistic Ethics*, Princeton, NJ: Princeton University Press.
 * Palmén, Ritva, 2014, *Richard of St. Victor’s Theory of Imagination*, Leiden: Brill.
-* Perler, Dominik, 2012, “Why is the Sheep Afraid of the Wolf? Medieval Debates on Animal Passions”, in Pickavé and Shapiro 2012: 32–52. doi:10.1093/acprof:oso/9780199579914.003.0003
+* Perler, Dominik, 2012, “Why is the Sheep Afraid of the Wolf? Medieval Debates on Animal Passions”, in Pickavé and Shapiro 2012: 32–52. doi: 10.1093/acprof: oso/9780199579914.003.0003
 * –––, 2017 “Emotions and Rational Control: Two Medieval Perspectives”, in Cohen and Stern 2017: 60–82.
-* Pickavé, Martin, 2012, “Emotion and Cognition in Later Medieval Philosophy: The Case of Adam Wodeham”, in Pickavé and Shapiro 2012: 94–115. doi:10.1093/acprof:oso/9780199579914.003.0006
+* Pickavé, Martin, 2012, “Emotion and Cognition in Later Medieval Philosophy: The Case of Adam Wodeham”, in Pickavé and Shapiro 2012: 94–115. doi: 10.1093/acprof: oso/9780199579914.003.0006
 * –––, 2018, “Emotions”, in Thomas Williams (ed.), *The Cambridge Companion to Medieval Ethics*, 257–279.
-* Pickavé, Martin and Lisa Shapiro (eds.), 2012, *Emotion and Cognitive Life in Medieval and Early Modern Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199579914.001.0001
+* Pickavé, Martin and Lisa Shapiro (eds.), 2012, *Emotion and Cognitive Life in Medieval and Early Modern Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199579914.001.0001
 * Prentice, Robert P., 1957, *The Psychology of Love According to St. Bonaventure*, St. Bonaventure, NY: The Franciscan Institute.
 * Price, A.W., 2010, “Emotions in Plato and Aristotle”, in Peter Goldie (ed.), *The Oxford Handbook of Philosophy of Emotions*, Oxford: Oxford University Press, 121–142.
 * Saarinen, Risto, 2011, *Weakness of Will in Renaissance and Reformation Thought*, New York: Oxford University Press.
-* Sorabji, Richard, 2000, *Emotion and the Peace of Mind: From Stoic Agitation to Christian Temptation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256600.001.0001
+* Sorabji, Richard, 2000, *Emotion and the Peace of Mind: From Stoic Agitation to Christian Temptation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199256600.001.0001
 * Straw, Carole, 1988, *Gregory the Great: Perfection in Imperfection*, Berkeley, Los Angeles, London: University of California Press.
 * –––, 2013, “Gregory’s Moral Theology”, in Bronwen Neil and Matthew Dal Santo (eds.), *Brill’s Companion to Gregory the Great*, Leiden: Brill, 177–203.
-* Toivanen, Juhana and Mikko Yrjönsuuri, 2014, “Self-Consciousness: Medieval Theories”, in Simo Knuuttila and Juha Sihvola (eds.), *Sourcebook for the History of the Philosophy of Mind: Philosophical Psychology from Plato to Kant*, Dordrecht: Springer, 429–445. doi:10.1007/978-94-007-6967-0_27
+* Toivanen, Juhana and Mikko Yrjönsuuri, 2014, “Self-Consciousness: Medieval Theories”, in Simo Knuuttila and Juha Sihvola (eds.), *Sourcebook for the History of the Philosophy of Mind: Philosophical Psychology from Plato to Kant*, Dordrecht: Springer, 429–445. doi: 10.1007/978-94-007-6967-0_27
 * Vaura, Tuomas, 2017, *The Psychology of the Incarnation in Thirteenth- and Early Fourteenth-Century Theology*, Doctoral dissertation, Theology, University of Helsinki. [[Vaura 2017 available online](http://urn.fi/URN:ISBN:978-951-51-3686-2)]
 * Zupko, Jack, 1995, “Freedom of Choice in Buridan’s Moral Psychology”, *Mediaeval Studies* 57: 75–99.
 

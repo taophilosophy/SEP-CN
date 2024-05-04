@@ -1,18 +1,18 @@
-# 以撒·阿尔巴拉格 Albalag, Isaac (Bakinaz Abdalla)
+# 以撒 · 阿尔巴拉格 Albalag, Isaac (Bakinaz Abdalla)
 
 *首次发表于 2020 年 8 月 20 日*
 
-以撒·阿尔巴拉格以犹太阿威罗伊学派的严谨代表之一而脱颖而出，该学派在 13 世纪的西欧繁荣发展，并延续至文艺复兴时期。该学派的成员，如伊本·卡斯皮、舍姆·托夫·伊本·法拉克拉、摩西·纳尔博尼、以撒·波尔卡尔、格尔索尼德斯和伊莱贾·德尔梅迪戈，将阿威罗伊的哲学著作，尤其是他对亚里士多德的评论，视为研究科学和哲学的主要来源。阿威罗伊对这些哲学家的影响，虽然各有不同，但延伸到了宗教和哲学之间的关系问题。许多犹太哲学家借鉴阿威罗伊的宗教认识论，将犹太教解释为一种哲学宗教，这种哲学宗教的方法可以说是由杰出的犹太哲学家梅蒙尼德（1204 年逝世）所倡导的。像大多数犹太阿威罗伊主义者一样，阿尔巴拉格专注于物理学、形而上学和认识论等纯粹哲学问题，并通过阿威罗伊的视角来探讨这些问题。典型地，阿尔巴拉格对亚里士多德怀有无保留的钦佩和忠诚，他认为亚里士多德的教导与真理相等，并在阿威罗伊的著作中发现了这一点。恢复亚里士多德主义并在犹太哲学学生中确立它成为阿尔巴拉格哲学事业的关键目标。在这一事业的框架内，阿尔巴拉格还探讨了犹太教和哲学之间的关系问题，并通过提倡双重真理学说来独特地回答了这个问题。
+以撒 · 阿尔巴拉格以犹太阿威罗伊学派的严谨代表之一而脱颖而出，该学派在 13 世纪的西欧繁荣发展，并延续至文艺复兴时期。该学派的成员，如伊本 · 卡斯皮、舍姆 · 托夫 · 伊本 · 法拉克拉、摩西 · 纳尔博尼、以撒 · 波尔卡尔、格尔索尼德斯和伊莱贾 · 德尔梅迪戈，将阿威罗伊的哲学著作，尤其是他对亚里士多德的评论，视为研究科学和哲学的主要来源。阿威罗伊对这些哲学家的影响，虽然各有不同，但延伸到了宗教和哲学之间的关系问题。许多犹太哲学家借鉴阿威罗伊的宗教认识论，将犹太教解释为一种哲学宗教，这种哲学宗教的方法可以说是由杰出的犹太哲学家梅蒙尼德（1204 年逝世）所倡导的。像大多数犹太阿威罗伊主义者一样，阿尔巴拉格专注于物理学、形而上学和认识论等纯粹哲学问题，并通过阿威罗伊的视角来探讨这些问题。典型地，阿尔巴拉格对亚里士多德怀有无保留的钦佩和忠诚，他认为亚里士多德的教导与真理相等，并在阿威罗伊的著作中发现了这一点。恢复亚里士多德主义并在犹太哲学学生中确立它成为阿尔巴拉格哲学事业的关键目标。在这一事业的框架内，阿尔巴拉格还探讨了犹太教和哲学之间的关系问题，并通过提倡双重真理学说来独特地回答了这个问题。
 
 ---
 
 ## 1. 生平与作品
 
-对于以撒·阿尔巴拉格的了解很少。我们所知道的是，他生活在十三世纪下半叶，可能在加泰罗尼亚或普罗旺斯（Sirat 1985: 238）。在中世纪犹太文献中提到阿尔巴拉格的引用表明，他并不是一个受欢迎的人物。他的名字出现在许多犹太文献中，通常与羞辱性的异端指控相关联。例如，卡巴拉派神秘主义者舍姆·托夫·伊本·舍姆·托夫（逝世于 1440 年）指责阿尔巴拉格在关于人类灵魂命运的异端观点上犯了异端（《信仰之书》第一卷）。在《内住和平之书》中，十五世纪西班牙思想家亚伯拉罕·沙洛姆攻击阿尔巴拉格，因为他彻底将天体运动的解释归纳为自然化（Vajda 1960: 271）。然而，阿尔巴拉格作为一位哲学家的价值并没有被忽视。十四世纪的伊萨克·波尔卡尔（ʿEzer ha-dat 的作者）非常尊重阿尔巴拉格，并在处理有关世界起源的有争议问题时引用了他（ʿEzer ha-dat: part II: p.46）。
+对于以撒 · 阿尔巴拉格的了解很少。我们所知道的是，他生活在十三世纪下半叶，可能在加泰罗尼亚或普罗旺斯（Sirat 1985: 238）。在中世纪犹太文献中提到阿尔巴拉格的引用表明，他并不是一个受欢迎的人物。他的名字出现在许多犹太文献中，通常与羞辱性的异端指控相关联。例如，卡巴拉派神秘主义者舍姆 · 托夫 · 伊本 · 舍姆 · 托夫（逝世于 1440 年）指责阿尔巴拉格在关于人类灵魂命运的异端观点上犯了异端（《信仰之书》第一卷）。在《内住和平之书》中，十五世纪西班牙思想家亚伯拉罕 · 沙洛姆攻击阿尔巴拉格，因为他彻底将天体运动的解释归纳为自然化（Vajda 1960: 271）。然而，阿尔巴拉格作为一位哲学家的价值并没有被忽视。十四世纪的伊萨克 · 波尔卡尔（ʿEzer ha-dat 的作者）非常尊重阿尔巴拉格，并在处理有关世界起源的有争议问题时引用了他（ʿEzer ha-dat: part II: p.46）。
 
-阿尔巴拉格只写了一部著作，《思想修正之书》（Sefer Tiqqun ha deʿot）-我在这里使用 Manekin 的标题翻译（Manekin 2007: 140）-这是对阿布·哈米德·安萨里百科全书式著作《哲学家的观点》（kitāb Maqāṣid al-Falāsifah）的前两节进行翻译并附有注释。第三节《自然哲学》由伊萨克·波尔卡尔完成（Vajda 1960: 268）。
+阿尔巴拉格只写了一部著作，《思想修正之书》（Sefer Tiqqun ha deʿot）-我在这里使用 Manekin 的标题翻译（Manekin 2007: 140）-这是对阿布 · 哈米德 · 安萨里百科全书式著作《哲学家的观点》（kitāb Maqāṣid al-Falāsifah）的前两节进行翻译并附有注释。第三节《自然哲学》由伊萨克 · 波尔卡尔完成（Vajda 1960: 268）。
 
-撰写《Tiqqun》的目标有两个。首要目标，正如标题所示（修正观点），是纠正性的。阿尔巴拉格对任何偏离亚里士多德教义和规则的学说持批判态度，这是基于对亚里士多德主义的信心。对他来说，哲学论述中的大多数错误都是偏离亚里士多德或对他教义的误解。除了阿威罗伊的评注之外，关于亚里士多德的累积评论文献中充斥着这样的例子。阿尔巴拉格特别认为阿维森纳是一个主要的错误源头，因此“修正”（Tiqqun）的过程主要是对阿维森纳哲学的系统批判。但阿维森纳并不是唯一的批评对象，尽管他是中心人物。阿尔巴拉格还批评了其他哲学家，如阿里·法拉比、迈蒙尼德和安萨里。阿尔巴拉格可能认为，像中世纪拉丁哲学家一样，《法拉斯菲法的目的》是对安萨里哲学观点的真实表达（有关安萨里在拉丁文学中的哲学形象，请参见 Salman 1999; Shihadeh 2011）。《法拉斯菲法的目的》概括了哲学家们的观点，并为阿尔巴拉格提供了一个理想的框架，以追求所宣布的“修正”（Tiqqun）的过程。在他的大多数讨论、批评和修正中，阿尔巴拉格从阿威罗伊的著作中得出他认为是对亚里士多德正确理解的观点。
+撰写《Tiqqun》的目标有两个。首要目标，正如标题所示（修正观点），是纠正性的。阿尔巴拉格对任何偏离亚里士多德教义和规则的学说持批判态度，这是基于对亚里士多德主义的信心。对他来说，哲学论述中的大多数错误都是偏离亚里士多德或对他教义的误解。除了阿威罗伊的评注之外，关于亚里士多德的累积评论文献中充斥着这样的例子。阿尔巴拉格特别认为阿维森纳是一个主要的错误源头，因此“修正”（Tiqqun）的过程主要是对阿维森纳哲学的系统批判。但阿维森纳并不是唯一的批评对象，尽管他是中心人物。阿尔巴拉格还批评了其他哲学家，如阿里 · 法拉比、迈蒙尼德和安萨里。阿尔巴拉格可能认为，像中世纪拉丁哲学家一样，《法拉斯菲法的目的》是对安萨里哲学观点的真实表达（有关安萨里在拉丁文学中的哲学形象，请参见 Salman 1999; Shihadeh 2011）。《法拉斯菲法的目的》概括了哲学家们的观点，并为阿尔巴拉格提供了一个理想的框架，以追求所宣布的“修正”（Tiqqun）的过程。在他的大多数讨论、批评和修正中，阿尔巴拉格从阿威罗伊的著作中得出他认为是对亚里士多德正确理解的观点。
 
 Tiqqun 的第二个目标是教育性的。在这里，安萨里的《哲学目的》再次成为一个合适的工具。由于安萨里的风格没有复杂性，并符合“普遍信仰”，《哲学目的》为那些在哲学方面接受过少量培训的学生提供了一个合适的媒介（Tiqqun 前言：4）。通过翻译和评论安萨里的《哲学目的》，阿尔巴拉格希望能够逐步教授哲学，从介绍伽利略的学说开始，最终确立亚里士多德的证明学说。总体而言，Tiqqun 遵循《哲学目的》的结构，只是在某些场合下，阿尔巴拉格进行了大幅度的离题。
 
@@ -33,7 +33,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 附加的第四种形式“有时放在第一种形式之后，而不是第三种形式之后”（ibid，1996 年：50）。
 
-《Tiqqun》以一种“有价值”的推理形式对第四种形式进行了准辩护（Tiqqun n.5:12）。这打破了阿尔巴拉格对阿威罗伊的整体遵循，后者与大多数中世纪逻辑学家一样，由于与“自然性”有关的考虑而拒绝第四种形式。根据阿威罗伊的说法，“在我们内在的本性中不存在三段论的第四种形式”，并涉及“荒谬的自我断言”（Manekin 1996 年：56）。在希伯来语的逻辑著作中，曾有有限的尝试来证明该形式的有效性，最著名的是格尔索尼德。《Tiqqun》中的讨论是另一种尝试，其中作者甚至对亚里士多德忽略了这种推理形式提出批评（Tiqqun n.5:12）。
+《Tiqqun》以一种“有价值”的推理形式对第四种形式进行了准辩护（Tiqqun n.5: 12）。这打破了阿尔巴拉格对阿威罗伊的整体遵循，后者与大多数中世纪逻辑学家一样，由于与“自然性”有关的考虑而拒绝第四种形式。根据阿威罗伊的说法，“在我们内在的本性中不存在三段论的第四种形式”，并涉及“荒谬的自我断言”（Manekin 1996 年：56）。在希伯来语的逻辑著作中，曾有有限的尝试来证明该形式的有效性，最著名的是格尔索尼德。《Tiqqun》中的讨论是另一种尝试，其中作者甚至对亚里士多德忽略了这种推理形式提出批评（Tiqqun n.5: 12）。
 
 ## 3. 认识论
 
@@ -41,7 +41,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 像大多数中世纪亚里士多德主义者一样，阿尔巴拉格将人的最终目标理解为智慧的完善（Tiqqun 前言：2-3，注 30：42；参见梅蒙尼德斯，指南 III：54；法拉比，选集格言：61；阿威罗伊，关于结合可能性的书信：103）。为了实现这个目标，人们必须以一种“消除怀疑”的方式获得存在事物的知识（Tiqqun 前言：3）。 “消除怀疑”的公式指的是确定性（yaqīn）的概念，在阿拉伯亚里士多德传统中被定义为认知状态，在这种状态下，认知者承认她所感知的是必然真实的，不能有其他可能性（参见 Black 2006：15-25）。与这一传统一致，阿尔巴拉格将演绎推理作为实现消除怀疑（即获得确定性）的手段。
 
-然而，这引发了一个困难，因为人类的最终目标似乎完全与哲学相关，而宗教的作用则相对较小。尽管这个困难并非阿尔巴拉格所特有，但在《Tiqqun》中尤为明显，其中ʾemunah（信仰）和 yediʿah（科学知识）之间的显著二分法将宗教/经文限制在一种在数量和质量上与证明性知识（即先知知识）有所不同的知识领域中。这种知识是否能够作为一种替代或并行的方式来满足知识完美的认知要求，是一个复杂的问题。就《Tiqqun》而言，ʾemunah 可以被正确地等同于信仰主义（参见 Tiqqun n.30: 38, 51），而不同于许多犹太和穆斯林哲学家和神学家所提倡的信仰的哲学概念（其中ʾiʿtiqād 和 taṣdīq 是阿拉伯语中的基本技术术语）（参见，例如，al-Farabi《论证书》：63–4；Saʿadia Gaʾon《信仰书》：14；Maimonides《指南》I:50）。根据后者的观点，信仰包括判断或肯定，是根据认知过程和演绎推理得出的结论，即给定的感知对象是真实的。因此，据说信仰与确定性或近似确定性相关联，这取决于推理形式。
+然而，这引发了一个困难，因为人类的最终目标似乎完全与哲学相关，而宗教的作用则相对较小。尽管这个困难并非阿尔巴拉格所特有，但在《Tiqqun》中尤为明显，其中 ʾemunah（信仰）和 yediʿah（科学知识）之间的显著二分法将宗教/经文限制在一种在数量和质量上与证明性知识（即先知知识）有所不同的知识领域中。这种知识是否能够作为一种替代或并行的方式来满足知识完美的认知要求，是一个复杂的问题。就《Tiqqun》而言，ʾemunah 可以被正确地等同于信仰主义（参见 Tiqqun n.30: 38, 51），而不同于许多犹太和穆斯林哲学家和神学家所提倡的信仰的哲学概念（其中 ʾiʿtiqād 和 taṣdīq 是阿拉伯语中的基本技术术语）（参见，例如，al-Farabi《论证书》：63–4；Saʿadia Gaʾon《信仰书》：14；Maimonides《指南》I: 50）。根据后者的观点，信仰包括判断或肯定，是根据认知过程和演绎推理得出的结论，即给定的感知对象是真实的。因此，据说信仰与确定性或近似确定性相关联，这取决于推理形式。
 
 相比之下，Tiqqun 指出了一种传统的信仰观念；即对给定的经文教义或一套教义的简单接受，而不需要事先的理性证明（Tiqqun n.30: 51）。由于先知的权威，简单的信仰总是可以被视为确定性的源泉，这似乎是 Tiqqun 的基本立场（有关犹太思想中信仰观念的背景，请参见 Wolfson 1942: 213–261; Kellner 1986; Rosenberg 1984: 273–307）。然而，重要的是要考虑到 Tiqqun 对先知知识的极端怀疑态度对这一立场所带来的影响。Tiqqun 包含了一些重要的评论，强调了对非先知来说，托拉的先知秘密是无法接触的——我们将在下文中看到，托拉有两层神秘知识，即先知知识和哲学知识。剩下的就是哲学知识的层面，哲学家们可以获得这一层面的知识，正如 Albalag 所指出的。获得这一层面的知识主要取决于对经文的寓言解释，以及从演绎科学中学到的知识（请参见下文）。这意味着，对于一个在演绎科学方面受过良好训练的人（即哲学家）来说，经文所引起的任何同意都将是基于理性的，即演绎的同意（参见 Averroes Decisive Treatise: 17–18）。因此，谈论“简单的信仰”（ʾemunah pashoṭah）是无关紧要的，除非我们承认简单的信仰与经文的表面层面有关。但这又是不可信的，因为 Albalag 承认这一层面是针对那些“像动物一样”缺乏理性的人群，而不是哲学家（Tiqqun n.30: 45；有关进一步讨论，请参见 Guttmann 1945）。
 
@@ -49,7 +49,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 虽然阿尔巴拉格没有专门讨论知识理论，但关于人类知识的限度、手段和特征的许多问题在《Tiqqun》中反复出现。他对这些问题的处理显示了对阿拉伯亚里士多德主义者阐述的亚里士多德认识论理论的借鉴，尤其是阿威罗伊。按照阿拉伯亚里士多德主义者普遍采用的表象知识理论框架，阿尔巴拉格将知识分为表象和同意两部分。前者是后者的先决条件，通过定义获得，而后者则通过证明获得（Tiqqun [Logic]: 98; cf. Maqāṣid: 12）。正如前面所述，阿尔巴拉格采用了亚里士多德的三段论理论，并赋予演绎三段论在引发确定同意方面的主要意义。此外，与阿威罗伊一样，阿尔巴拉格非常强调人类知识的经验基础（有关阿威罗伊的认识论，请参阅 Black 2019）。通过抽象和三段论推理的认知过程，理智思维在灵魂中产生。阿尔巴拉格肯定，如果没有外部形象，灵魂将无法理解理智形式，就像一个没有视觉数据的人无法理解颜色的本质一样（Tiqqun，n.11: 16，n.44: 71; cf. 亚里士多德《论灵魂》III, 7, 431a, 14–17）。
 
-虽然 Tiqqun 通常以自信的理性主义为特征，但它包含了怀疑主义的元素，这些元素回应了梅蒙尼德对人类智力在形而上知识方面的限制的批评（关于梅蒙尼德的这些批评，请参见 Pines 1979; Stern 2013）。阿尔巴拉格承认，像梅蒙尼德一样，完全了解非物质存在超出了人类智力的能力。这种限制的原因首先是人类的物质成分（ḥomer），它既是对知识追求的不断阻碍，也是智力缺陷的原因（Tiqqun n.11: 16, n.38: 58; cf. Guide III:9）。
+虽然 Tiqqun 通常以自信的理性主义为特征，但它包含了怀疑主义的元素，这些元素回应了梅蒙尼德对人类智力在形而上知识方面的限制的批评（关于梅蒙尼德的这些批评，请参见 Pines 1979; Stern 2013）。阿尔巴拉格承认，像梅蒙尼德一样，完全了解非物质存在超出了人类智力的能力。这种限制的原因首先是人类的物质成分（ḥomer），它既是对知识追求的不断阻碍，也是智力缺陷的原因（Tiqqun n.11: 16, n.38: 58; cf. Guide III: 9）。
 
 ## 4. 存在和上帝存在的概念
 
@@ -59,7 +59,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 对于阿尔巴拉格来说，阿维森纳关于上帝作为必然存在的证明似乎涉及对亚里士多德的明显偏离。首先，阿维森纳在形而上学科学中建立第一原理存在的程序在方法上是错误的。（Tiqqun n.8: 13–14）。阿尔巴拉格援引阿威罗伊的观点，认为必然运动者的存在必须从自然哲学中接受，而不是从神明的角度来看待，而形而上学家则从中推导出其状态和属性。显然，这个论证的理论基础是亚里士多德的规则：“任何艺术的大师都不能证明他的艺术的正确原则”（形而上学 IV 1003a21–22），根据阿威罗伊的观点，这意味着某个科学并不证明其主题的存在，而必须承认它们的存在，要么是作为“不言自明”的东西，要么是“在另一个科学中已经被证明的东西”（Wolfson 1950–1 : 691）。由于第一原理是形而上学的主题，它的存在不能在该特定科学中得到证实。
 
-其次，阿维森纳与亚里士多德的分歧在于他从存在的概念分析中建立起第一原理的存在，而不是从运动和被运动物体的分析中（亚里士多德的论证见《物理学》第 7 和 8 章）。为了建立必然存在者，阿维森纳从一个被以撒·阿尔巴拉格和阿威罗伊所驳斥的存在概念出发（阿尔巴拉格见《al-kashf》：14）。他对这个概念的不适主要是因为它与亚里士多德的观点相悖。但阿尔巴拉格还提到了错误和荒谬的推论，特别是在形而上学科学中，这些推论是从阿维森纳区分两种必然存在者的方法中得出的，即自身必然存在和他者必然存在。其中一个推论涉及独立智能的本质。假设任何不是自身必然存在的东西都包含两种模式，即必然性和可能性，正如阿维森纳所认为的，那么独立智能也必然包含必然性和可能性。然而，这与独立智能作为非物质存在的本质荒谬地相冲突，因为可能性必须存在于一个基础之中（《Tiqqun》n.8：14，n.29：27）。
+其次，阿维森纳与亚里士多德的分歧在于他从存在的概念分析中建立起第一原理的存在，而不是从运动和被运动物体的分析中（亚里士多德的论证见《物理学》第 7 和 8 章）。为了建立必然存在者，阿维森纳从一个被以撒 · 阿尔巴拉格和阿威罗伊所驳斥的存在概念出发（阿尔巴拉格见《al-kashf》：14）。他对这个概念的不适主要是因为它与亚里士多德的观点相悖。但阿尔巴拉格还提到了错误和荒谬的推论，特别是在形而上学科学中，这些推论是从阿维森纳区分两种必然存在者的方法中得出的，即自身必然存在和他者必然存在。其中一个推论涉及独立智能的本质。假设任何不是自身必然存在的东西都包含两种模式，即必然性和可能性，正如阿维森纳所认为的，那么独立智能也必然包含必然性和可能性。然而，这与独立智能作为非物质存在的本质荒谬地相冲突，因为可能性必须存在于一个基础之中（《Tiqqun》n.8：14，n.29：27）。
 
 这些与亚里士多德的偏离为阿尔巴拉格提供了拒绝上帝形而上学证明的充分理由。此外，阿维森纳在《目的》中重述的补充论证，即必然存在者是一个、简单和非物质的，未能满足消除怀疑（即确定性）的认识标准，与亚里士多德的运动论证不同，后者正如阿尔巴拉格所断言的那样，“消除怀疑”（Tiqqun n.33: 53）。但是，尽管阿尔巴拉格只信任亚里士多德的论证，他指出了一个微妙的问题，其根源可以追溯到对亚里士多德的古代注释：第一动因与神的关系问题（有关此问题，请参见阿维森纳的《治疗》[形而上学]：13）。亚里士多德的运动论证得出了一个不是物体或物体中的力量的运动者的存在。但是，无论那个运动者是第一原理/原因，即神，还是第一个效果，仍然是一个悬而未决的问题（Tiqqun n.8: 14，n.38: 61）。哲学家对这个问题没有一致的答案。虽然阿维森纳得出结论，即从亚里士多德对运动的分析中所知的第一动因在本体上优于神（Tiqqun n.38: 61），阿威罗伊在他的所有著作中将第一动因与神等同起来（例如《形而上学评注》：172）——排除的例外是，正如阿尔巴拉格正确指出的那样，《形而上学摘要》（见《自然之后的总结》：149），阿威罗伊遵循了阿维森纳的立场（Tiqqun n.69: 96）。
 
@@ -71,7 +71,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 ### 5.1 世界的起源
 
-凭借科学的理由，阿尔巴拉格驳斥了时间起源的教义，将其视为“有缺陷”，并接受宇宙的永恒存在作为不容置疑的真理（我们将在下文中看到，他接受前者是基于圣经的权威）。然而，阿尔巴拉格试图以一种具有神学吸引力的方式呈现亚里士多德的永恒理论及其基本前提。因此，他引入了“永恒起源”的理论（ḥidūsh neṣaḥi），认为“宇宙在任何时刻都没有起源”（Tiqqun n.30: 30；参见《疑惑的疑惑》，第三讨论）。宇宙没有时间的起点是阿尔巴拉格基于亚里士多德对球体和天体运动的永恒存在的证明所接受的前提（例如，参见 Tiqqun，n.30: 30，60:84–97；参见《天界论》I：2–3）。剩下的是要证明宇宙并非自给自足。这个过程是必要的，以避免混淆哲学上的永恒学说与伊壁鸠鲁学说，后者认为“宇宙没有原因”（Tiqqun n.30: 45）。更具体地说，它表明哲学上的永恒因果观念并非异端，绝不会消除起源的概念。
+凭借科学的理由，阿尔巴拉格驳斥了时间起源的教义，将其视为“有缺陷”，并接受宇宙的永恒存在作为不容置疑的真理（我们将在下文中看到，他接受前者是基于圣经的权威）。然而，阿尔巴拉格试图以一种具有神学吸引力的方式呈现亚里士多德的永恒理论及其基本前提。因此，他引入了“永恒起源”的理论（ḥidūsh neṣaḥi），认为“宇宙在任何时刻都没有起源”（Tiqqun n.30: 30；参见《疑惑的疑惑》，第三讨论）。宇宙没有时间的起点是阿尔巴拉格基于亚里士多德对球体和天体运动的永恒存在的证明所接受的前提（例如，参见 Tiqqun，n.30: 30，60: 84–97；参见《天界论》I：2–3）。剩下的是要证明宇宙并非自给自足。这个过程是必要的，以避免混淆哲学上的永恒学说与伊壁鸠鲁学说，后者认为“宇宙没有原因”（Tiqqun n.30: 45）。更具体地说，它表明哲学上的永恒因果观念并非异端，绝不会消除起源的概念。
 
 为此，阿尔巴拉格进行了一场哲学讨论，他试图证明永恒起源理论的一致性，此外，他提供了解释性注释，以表明永恒起源学说并不冒犯圣经（有关解释性注释，请参见费尔德曼 2000 年：19-30）。他的讨论间接地与安萨里在《哲学家的辩驳》中对哲学家关于上帝和宇宙的概念的批驳有所联系。安萨里的争论的核心观点是，哲学家对上帝与宇宙的关系的阐述依赖于两个前提，这两个前提构成了一个矛盾，即宇宙是永恒的，并且它有一个行动者和创造者（请参见《哲学家的辩驳》的第三和第十次讨论）。与安萨里相反，阿尔巴拉格认为这些前提是绝对一致的。更重要的是，他引入了永恒起源理论作为比时间起源学说更适当的表达宇宙和神圣因果关系的方式，后者是“有缺陷的”多数人的学说，将神圣因果关系限制在时间上。如果完美意味着绝对性，那么“完美”（shalem）一词适用于“绝对”（muḥlaṭ）的宇宙，它永恒且不变地存在，并且适用于“绝对”的创造者，其创造行为不受时间或环境限制。
 
@@ -96,7 +96,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 ### 5.3 神圣知识
 
-如果上帝拥有意愿，那么他必须也拥有智慧，因为思考和选择都需要对被意愿的事物有所了解。也就是说，上帝与世界的关系是基于意愿和智慧的。在讨论神圣知识的本质时，阿尔巴拉格表现出对神圣完美的执着。因此，他根据类型而不是等级区分神圣知识和人类知识，消除了任何比较它们或从人类知识和认知的特征推断上帝的理解和知识方式的基础。这种关于神圣知识的独特性的观念，以及所有神圣属性，最好用迈蒙尼德的模糊理论来表达。根据迈蒙尼德的观点，智慧、力量和意愿等术语只在上帝和创造物上具有模糊的意义。当这些术语被用于上帝和其他创造物时，它们在语义上是不相似的，只共享名称而不是意义（Guide I:56；cf. Tiqqun n.23: 24）。从认识论的角度来看，它们也没有信息量；它们构成了一种人为的语言，我们将其归因于上帝，是因为我们无法理解和表示他身上相应的特征（Benor 1995；Stern 2013: 198–204）。
+如果上帝拥有意愿，那么他必须也拥有智慧，因为思考和选择都需要对被意愿的事物有所了解。也就是说，上帝与世界的关系是基于意愿和智慧的。在讨论神圣知识的本质时，阿尔巴拉格表现出对神圣完美的执着。因此，他根据类型而不是等级区分神圣知识和人类知识，消除了任何比较它们或从人类知识和认知的特征推断上帝的理解和知识方式的基础。这种关于神圣知识的独特性的观念，以及所有神圣属性，最好用迈蒙尼德的模糊理论来表达。根据迈蒙尼德的观点，智慧、力量和意愿等术语只在上帝和创造物上具有模糊的意义。当这些术语被用于上帝和其他创造物时，它们在语义上是不相似的，只共享名称而不是意义（Guide I: 56；cf. Tiqqun n.23: 24）。从认识论的角度来看，它们也没有信息量；它们构成了一种人为的语言，我们将其归因于上帝，是因为我们无法理解和表示他身上相应的特征（Benor 1995；Stern 2013: 198–204）。
 
 在对神性属性的这种理解上，阿尔巴拉格研究了阿维森纳在《目的》中所阐述的神的知识理论，根据该理论，“上帝以普遍方式了解个别事物”（《目的》：118）。阿维森纳的神的知识理论一直存在不同的解释（Marmura 1962: 299–312; Adamson 2005: 257–278; Belo 2006: 177–199）。对于阿尔巴拉格来说，这仅仅意味着上帝的知识是普遍的。由于这种表达神的知识的方式暗示了神与人类知识之间的对应关系，阿尔巴拉格自然地拒绝并指责阿威罗伊散布关于上帝的不适当教义。相反，他坚持认为上帝的知识在特征上与人类知识相反，不仅仅是在等级上更高，它既不是特定的也不是普遍的，它是非时态的、不可分割的、绝对实在和自给自足的，完全依赖于上帝和独立智力的自我思考方式（Tiqqun n.42: 76）。
 
@@ -120,7 +120,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 在讨论必然存在者的基本特征时，安萨里考虑了绝对简单的神性属性对神圣因果关系和宇宙观的影响。安萨里解释道，根据阿维森纳的观点，从一个单一而简单的事物（即必然存在者）只能产生一件事物（Maqāṣid: 157；参见 al-Shifāʾ [Metaphysics]: 326–334；al-Najāt: 649–657）。在这种对神圣因果关系范围的理解之下，存在着一种因果关系与效果之间的对应关系的概念；“行动必须与其原因的本质一致”（Kogan 1984: 249）。因此，一个单一的原因只有一个行动，并且只产生一个效果。根据这种概念，并考虑到第一原则的绝对简单性，安萨里描述了一种发散宇宙学，其中第一原则并非直接引起多样性，而是通过一系列连续产生的发散中介体来引起。第一原则仅通过思考自身来产生一个实体，即第一智慧。接着，第一智慧通过思考其原因和自身来产生第二智慧和第一个天体（Maqāṣid: 157）。之所以会有这种多样性，是因为第一智慧并不像第一原则那样绝对简单，而是复杂的：除了思考其原则外，它还根据第一原则的可能性和必要性思考自身。发散过程以一种下降的方式继续进行，以活动智慧为终点，活动智慧是月球领域的智慧，是亚月界实体形式的直接来源。
 
-以撒·阿尔巴拉格深信，发散方案构成了对亚里士多德的不满意的偏离，他花费大量篇幅来阐明其不一致性和谬误，并替代性地建立他认为正确的亚里士多德方案。与发散方案不同，这个方案将宇宙的多样存在归因于上帝的直接因果关系：“从一个和简单的事物中可以产生许多事物”（Tiqqun n.96: 69）。[2] 阿尔巴拉格描述了一个分层的宇宙学方案，其中包括独立的智慧和天体球，每个独立的智慧与相应的球体关联，作为运动的原因，而第一原理/智慧与所有独立的智慧关联，作为直接的形式原因。[3] 有两种理论可以解释这个宇宙学方案：
+以撒 · 阿尔巴拉格深信，发散方案构成了对亚里士多德的不满意的偏离，他花费大量篇幅来阐明其不一致性和谬误，并替代性地建立他认为正确的亚里士多德方案。与发散方案不同，这个方案将宇宙的多样存在归因于上帝的直接因果关系：“从一个和简单的事物中可以产生许多事物”（Tiqqun n.96: 69）。[2] 阿尔巴拉格描述了一个分层的宇宙学方案，其中包括独立的智慧和天体球，每个独立的智慧与相应的球体关联，作为运动的原因，而第一原理/智慧与所有独立的智慧关联，作为直接的形式原因。[3] 有两种理论可以解释这个宇宙学方案：
 
 1. 神圣知识理论，如前所述，认为第一智慧通过思考其本质来理解所有存在的形式，
 2. 亚里士多德的“认知认同”理论，根据该理论，在实际思考中，知识主体、被知对象和思考是相同的（有关该理论的更多细节，请参见 Black 1999）。
@@ -146,9 +146,9 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 ## 8. 宗教与哲学的关系
 
-在现代学术界，阿尔巴拉格因其对宗教与哲学关系的观点而闻名。在中世纪犹太和伊斯兰哲学的背景下，他以直接强调、接受和解释哲学与先知知识之间的紧张关系而脱颖而出。他的名字通常与“双重真理”学说联系在一起，该学说认为先知的真理和哲学的真理可能相互矛盾，但同时仍然是真实的（Sirat 1985: 238; Zinberg 1973: 107]; Vajda 1960: 264–265）。长期以来，这一学说的起源一直被归因于阿威罗伊和拉丁阿威罗派，直到最近的研究对此进行了质疑。一些学者认为双重真理学说从未作为实际教义存在（Dales 1984）。同样，一些学者对将双重真理学说归因于阿尔巴拉格（Guttmann 1966: 227–229）和以利亚·德尔梅迪戈提出了质疑，后者是另一位犹太阿威罗派，他对这个问题的处理涉及一些暗示双重真理学说的元素（有关德尔梅迪戈，请参阅 Fraenkel 2013）。
+在现代学术界，阿尔巴拉格因其对宗教与哲学关系的观点而闻名。在中世纪犹太和伊斯兰哲学的背景下，他以直接强调、接受和解释哲学与先知知识之间的紧张关系而脱颖而出。他的名字通常与“双重真理”学说联系在一起，该学说认为先知的真理和哲学的真理可能相互矛盾，但同时仍然是真实的（Sirat 1985: 238; Zinberg 1973: 107]; Vajda 1960: 264–265）。长期以来，这一学说的起源一直被归因于阿威罗伊和拉丁阿威罗派，直到最近的研究对此进行了质疑。一些学者认为双重真理学说从未作为实际教义存在（Dales 1984）。同样，一些学者对将双重真理学说归因于阿尔巴拉格（Guttmann 1966: 227–229）和以利亚 · 德尔梅迪戈提出了质疑，后者是另一位犹太阿威罗派，他对这个问题的处理涉及一些暗示双重真理学说的元素（有关德尔梅迪戈，请参阅 Fraenkel 2013）。
 
-在《Tiqqun》中，关于宗教与哲学关系的讨论是复杂的，涵盖了许多背景。一方面，阿尔巴拉格在《Tiqqun》的前言中指出，哲学和《托拉》之间没有本质区别，只是前者向少数人传达真理的方式是演示性的，而后者向众多人以符号语言传达真理，以适应他们有限的理解能力。通过这种方式，阿尔巴拉格似乎与阿里·法拉比创立并被许多穆斯林和犹太哲学家采纳的宗教作为哲学的模仿的理解保持一致，其中最重要的是阿威罗伊，以及可以说是梅蒙尼德（参见阿里·法拉比《书信集》：19-26；梅蒙尼德《指南》：前言；阿威罗伊《决定性论文》：1-3，7-10）。这两位哲学家不仅认为宗教和哲学是兼容的，而且还赋予哲学在理解经文的真正含义方面至关重要的角色（梅蒙尼德《指南》：前言；阿威罗伊《决定性论文》：1-3，7-10）。此外，阿威罗伊提出了一种基于“真理不与真理相对立，而是与之一致并为之作证”的宗教认识论（《决定性论文》：9）。根据这一原则，宗教法和哲学之间的矛盾被视为仅仅是表面上的矛盾，而不是本质上的矛盾，这是由于经文的文学形式——包括比喻、隐喻和故事——是针对众多人的。由于宗教法关心所有人，即“红色和黑色”，它根据人们的不同智力能力和适合的同意类型，以不同的方式传达真理（同上，8）。只有那些精通科学的人（al-rasiẖuna fi-lʿilm）才能进入经文的内在含义，这是根据真理本身设计的，从而对经文产生确定的、演示性的同意。 借鉴阿威罗伊的宗教认识论，后迈蒙尼德学派的哲学家们继续迈蒙尼德的哲学宗教事业，试图将犹太教解释为“一种哲学宗教”，通过给予犹太教原本与自然主义哲学相冲突的解释原则（关于哲学宗教的概念，请参见弗兰克尔 2012 年：5）。同样，阿尔巴拉格对《起源记》的某些元素进行寓言解释，以明显辩护的语气表示，“可以从托拉中提取永恒创造的哲学教义”（Tiqqun n.30, 33）。
+在《Tiqqun》中，关于宗教与哲学关系的讨论是复杂的，涵盖了许多背景。一方面，阿尔巴拉格在《Tiqqun》的前言中指出，哲学和《托拉》之间没有本质区别，只是前者向少数人传达真理的方式是演示性的，而后者向众多人以符号语言传达真理，以适应他们有限的理解能力。通过这种方式，阿尔巴拉格似乎与阿里 · 法拉比创立并被许多穆斯林和犹太哲学家采纳的宗教作为哲学的模仿的理解保持一致，其中最重要的是阿威罗伊，以及可以说是梅蒙尼德（参见阿里 · 法拉比《书信集》：19-26；梅蒙尼德《指南》：前言；阿威罗伊《决定性论文》：1-3，7-10）。这两位哲学家不仅认为宗教和哲学是兼容的，而且还赋予哲学在理解经文的真正含义方面至关重要的角色（梅蒙尼德《指南》：前言；阿威罗伊《决定性论文》：1-3，7-10）。此外，阿威罗伊提出了一种基于“真理不与真理相对立，而是与之一致并为之作证”的宗教认识论（《决定性论文》：9）。根据这一原则，宗教法和哲学之间的矛盾被视为仅仅是表面上的矛盾，而不是本质上的矛盾，这是由于经文的文学形式——包括比喻、隐喻和故事——是针对众多人的。由于宗教法关心所有人，即“红色和黑色”，它根据人们的不同智力能力和适合的同意类型，以不同的方式传达真理（同上，8）。只有那些精通科学的人（al-rasiẖuna fi-lʿilm）才能进入经文的内在含义，这是根据真理本身设计的，从而对经文产生确定的、演示性的同意。 借鉴阿威罗伊的宗教认识论，后迈蒙尼德学派的哲学家们继续迈蒙尼德的哲学宗教事业，试图将犹太教解释为“一种哲学宗教”，通过给予犹太教原本与自然主义哲学相冲突的解释原则（关于哲学宗教的概念，请参见弗兰克尔 2012 年：5）。同样，阿尔巴拉格对《起源记》的某些元素进行寓言解释，以明显辩护的语气表示，“可以从托拉中提取永恒创造的哲学教义”（Tiqqun n.30, 33）。
 
 另一方面，阿尔巴拉格对于哲学方法在宗教中的可行性表现出矛盾心态。他主要关注的问题是经文的真正含义并不容易理解。原因在于，正如阿尔巴拉格一再强调的那样，先知的知识是专属于先知的，即使最有能力的哲学家也无法获得先知的“意图”。因此，当哲学家们将托拉的经文赋予哲学意义时，他们可能只是偏离了其真正的含义。阿尔巴拉格认为迈蒙尼德在这方面特别有过失，因此他将其称为我们这个时代的“轻率之人”之一，他不仅对“信仰”造成了伤害，还对“智慧”造成了伤害（Tiqqun n.1: 5; Tiqqun n.30: 44）。在他们试图理性支持宗教教义时，他们表现出“无知”，否认了证明性的哲学教义，而是提倡了薄弱的推测性论证，以及
 
@@ -169,9 +169,9 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 在双重真理学说的基础上，有一个独特的预言理论，将阿尔巴拉格视为创新者。这个理论偏离了中世纪犹太和伊斯兰哲学中广泛接受的预言观念，后者将先知视为卓越的哲学家，并在质量上将预言知识与哲学等同起来，而这个理论将先知和预言知识与神圣领域（即分离的智力领域）联系起来，同时强调了该领域的绝对超越性和不可知性。它相应地强调了哲学推理和知识与预言和预言知识之间的本质区别。根据阿尔巴拉格的观点，先知是具有特殊感知方式的非凡人类。由于这种感知方式，先知能够获得与哲学知识在内容和类型上不同的知识。先知不仅能够回答超出人类理性能力范围的问题，而且能够以超越的方式理解真理，独立于物质工具和理性知识所必需的认知过程（Guttmann 1945: 86）。
 
-> 他们（哲学家和先知）的感知方式是不同的。不仅如此，它们（就像两个）相反，因为前者（哲学家）通过感官对象感知可理解的[形式]，而后者（先知）通过可理解的[形式]感知感官对象。（Tiqqun n.30: 44 [我的翻译]）
+> 他们（哲学家和先知）的感知方式是不同的。不仅如此，它们（就像两个）相反，因为前者（哲学家）通过感官对象感知可理解的 [形式]，而后者（先知）通过可理解的 [形式] 感知感官对象。（Tiqqun n.30: 44 [我的翻译]）
 
-这个笔记表明，先知的理解方式与在 Tiqqun 中以类似方式描述的独立智力的理解方式相似：“如果宇宙中存在一个不通过物质工具获得知识的独立智力”，它对事物的“理解将完全与人类[智力]相反”（Tiqqun n.11: 16; cf. n.42: 67）。理解方式的区别涉及所感知知识特征的根本区别。人类的知识从潜在性到实际性。它可以是普遍的或特定的。它是暂时的，并涉及多样性、复合性和物质性的特征。相比之下，神圣的知识是超越的；它“既不是特定的也不是普遍的。”它始终是实际的，绝对不可分割，简单和非时间性的（Tiqqun n.42: 67）。以这种方式，先知的知识，就像对独立智力的知识一样，被认为在质上与哲学知识有所不同。阿尔巴拉格在极大程度上强调了预言和哲学之间的区别，强调了矛盾的可能性。
+这个笔记表明，先知的理解方式与在 Tiqqun 中以类似方式描述的独立智力的理解方式相似：“如果宇宙中存在一个不通过物质工具获得知识的独立智力”，它对事物的“理解将完全与人类 [智力] 相反”（Tiqqun n.11: 16; cf. n.42: 67）。理解方式的区别涉及所感知知识特征的根本区别。人类的知识从潜在性到实际性。它可以是普遍的或特定的。它是暂时的，并涉及多样性、复合性和物质性的特征。相比之下，神圣的知识是超越的；它“既不是特定的也不是普遍的。”它始终是实际的，绝对不可分割，简单和非时间性的（Tiqqun n.42: 67）。以这种方式，先知的知识，就像对独立智力的知识一样，被认为在质上与哲学知识有所不同。阿尔巴拉格在极大程度上强调了预言和哲学之间的区别，强调了矛盾的可能性。
 
 > 正如他们（哲学家和先知）理解事物的方式如此不同，他们对事物的理解也如此不同，以至于前者（哲学家）可以从下方（基于自然和推理）感知到后者（先知）从上方感知到的相反之处（hefekh）。（Tiqqun n.30: 45 [我的翻译]）
 
@@ -183,7 +183,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 
 值得注意的是，阿尔巴拉格以阿威罗伊在《目的论》中总结的政治主题开始了《Tiqqun》。《Tiqqun》的前言阐述了人类的政治本质，强调社会对个体福祉和人类生存的重要性。但是，社会只有在特定的情况下才能有利于福祉。对于像阿尔巴拉格这样的中世纪学者来说，多元主义是社会稳定的主要敌人。社会越多样化，稳定性越低，冲突越多。多元主义可能导致人们之间不断的战争，甚至威胁到人类的存在。因此，需要一个推动社会和谐的立法者，通过统一人们的信仰和实践来促进社会和谐。
 
-阿尔巴拉格将托拉放入这一政治主题中，赋予其在建立社会和政治秩序以及维持神圣命定的人类永恒存在中的关键角色。这种观点与中世纪亚里士多德主义者关于神法对社会政治利益的看法没有任何偏差。例如，梅蒙尼德认为托拉是建立和维护社会福祉的关键因素。然而，阿尔巴拉格与梅蒙尼德以及阿里·法拉比和阿威罗伊等杰出的穆斯林哲学家不同之处在于，他将托拉限定在这一特定的社会政治目的中。这些哲学家将神法定义为其目标：与只关心社会福祉的人造法律不同，神法关心社会福祉和灵魂福祉（Fraenkel 2012: 175; Z. Harvey 1980: 199–200）。梅蒙尼德特别强调，托拉的目标不仅仅集中在实践领域，它还涉及理论美德。即使是托拉中规定的实践行动也有助于履行“爱主你的神”（申命记 6:4-5）的诫命，梅蒙尼德解释这是对真正崇拜上帝的命令：智慧崇拜。因此，托拉呼吁人们通过获得知识来追求所有存在者，通过这种方式，人类达到智慧的完美，真正地崇拜上帝（《八章》：78；参见《指南》第三卷：53）。
+阿尔巴拉格将托拉放入这一政治主题中，赋予其在建立社会和政治秩序以及维持神圣命定的人类永恒存在中的关键角色。这种观点与中世纪亚里士多德主义者关于神法对社会政治利益的看法没有任何偏差。例如，梅蒙尼德认为托拉是建立和维护社会福祉的关键因素。然而，阿尔巴拉格与梅蒙尼德以及阿里 · 法拉比和阿威罗伊等杰出的穆斯林哲学家不同之处在于，他将托拉限定在这一特定的社会政治目的中。这些哲学家将神法定义为其目标：与只关心社会福祉的人造法律不同，神法关心社会福祉和灵魂福祉（Fraenkel 2012: 175; Z. Harvey 1980: 199–200）。梅蒙尼德特别强调，托拉的目标不仅仅集中在实践领域，它还涉及理论美德。即使是托拉中规定的实践行动也有助于履行“爱主你的神”（申命记 6: 4-5）的诫命，梅蒙尼德解释这是对真正崇拜上帝的命令：智慧崇拜。因此，托拉呼吁人们通过获得知识来追求所有存在者，通过这种方式，人类达到智慧的完美，真正地崇拜上帝（《八章》：78；参见《指南》第三卷：53）。
 
 与梅蒙尼德不同，阿尔巴拉格几乎没有将托拉与促进理论美德的任何明确角色联系起来。实际上，他在哲学和托拉的最终目标方面进行了区分。哲学追求的是少数人的幸福，而托拉追求的是众多人的幸福，前者的幸福是智力的，而后者则完全是公民的。在这方面，阿尔巴拉格定义了托拉的四个基本原则，正如他所说，这些原则也是哲学和宗教体系的基础。这些原则是：
 
@@ -222,32 +222,32 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 * Gersonides, *The Logic of Gersonides: A Translation of Sefer ha-heqqesh ha-Yashar [The Book of the Correct Syllogism] of Rabbi Levi ben Gershom with Introduction, Commentary, and Analytical Glossary*, Charles Manekin (trans.), Dordrecht; Boston: Kluwer Academic Publishers, 1992.
 * El-Fayyumi, Saʾadia, *kitāb al-ʾAmanāt wa-l-ʾiʿtiqadāt* [*Book of Beliefs and Opinions*], S Rosenblatt (trans.), New Haven, CT and London: Yale University Press, 1984.
 * Maimonides, *Dalalat al-haʿirin [The Guide of the Perplexed*], translated with an introduction and notes by Shlomo Pines and with introductory essay by Leo Strauss, Chicago: University of Chicago Press, 1963.
-* –––, *Ethical Writings of Maimonides*, C. Butterworth and R. Weiss (eds.), New York: Dover, 1975.
-* Polqar, Isaac, *ʿEzer ha-Dat*, George. S Belasco (ed.), London: J. Jacobs Publisher, 1906.
-* Ibn Shem Tov, Shem Tov, *Sefer ha Emunot*, Firarah: A. Usḳe, 317 [1556]
+* –––, * Ethical Writings of Maimonides*, C. Butterworth and R. Weiss (eds.), New York: Dover, 1975.
+* Polqar, Isaac, * ʿEzer ha-Dat*, George. S Belasco (ed.), London: J. Jacobs Publisher, 1906.
+* Ibn Shem Tov, Shem Tov, * Sefer ha Emunot*, Firarah: A. Usḳe, 317 [1556]
 
 ### Secondary Sources
 
-* Adamson, Peter, 2005, “On Knowledge of Particulars”, *Proceedings of the Aristotelian Society*, new series 105: 257–278. doi:10.1111/j.0066-7373.2004.00114.x
-* –––, 2013, “From the Necessary Existent to God”, in *Interpreting Avicenna: Critical Essays*, Peter Adamson (ed.), Cambridge: Cambridge University Press, 170–189. doi:10.1017/CBO9781139047890.010
-* Belo, Catarina, 2006, “Averroes on God’s Knowledge of Particulars”, *Journal of Islamic Studies*, 17(2): 177–199. doi:10.1093/jis/etl022
-* Benor, Ehud Z., 1995, “Meaning and Reference in Maimonides’ Negative Theology”, *Harvard Theological Review*, 88(3): 339–360. doi:10.1017/S0017816000030844
-* Black, Deborah L., 1999, “Conjunction and the Identity of Knower and Known in Averroes”:, *American Catholic Philosophical Quarterly*, 73(1): 159–184. doi:10.5840/acpq19997317
-* –––, 2006, “Knowledge (*‘Ilm*) and Certitude (*yaqīn*) in al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16(1): 11–45. doi:10.1017/S0957423906000221
+* Adamson, Peter, 2005, “On Knowledge of Particulars”, *Proceedings of the Aristotelian Society*, new series 105: 257–278. doi: 10.1111/j.0066-7373.2004.00114.x
+* –––, 2013, “From the Necessary Existent to God”, in *Interpreting Avicenna: Critical Essays*, Peter Adamson (ed.), Cambridge: Cambridge University Press, 170–189. doi: 10.1017/CBO9781139047890.010
+* Belo, Catarina, 2006, “Averroes on God’s Knowledge of Particulars”, *Journal of Islamic Studies*, 17(2): 177–199. doi: 10.1093/jis/etl022
+* Benor, Ehud Z., 1995, “Meaning and Reference in Maimonides’ Negative Theology”, *Harvard Theological Review*, 88(3): 339–360. doi: 10.1017/S0017816000030844
+* Black, Deborah L., 1999, “Conjunction and the Identity of Knower and Known in Averroes”:, *American Catholic Philosophical Quarterly*, 73(1): 159–184. doi: 10.5840/acpq19997317
+* –––, 2006, “Knowledge (*‘Ilm*) and Certitude (*yaqīn*) in al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16(1): 11–45. doi: 10.1017/S0957423906000221
 * –––, 2019, “Constructing Averroes’ Epistemology”, in *Interpreting Averroes: Critical Essays*, Peter Adamson (ed.), Cambridge: Cambridge University Press, 96–115.
 * Cohen-Sherbok, Dan, 1996, *Medieval Jewish Philosophy: an Introduction*, Richmond, Surrey: Curzon.
-* Dales, Richard C., 1984, “The Origin of the Doctrine of the Double Truth”, *Viator*, 15: 169–179. doi:10.1484/J.VIATOR.2.301439
+* Dales, Richard C., 1984, “The Origin of the Doctrine of the Double Truth”, *Viator*, 15: 169–179. doi: 10.1484/J.VIATOR.2.301439
 * Davidson, Herbert A., 1987, *Proofs for Eternity, Creation and the Existence of God in Medieval Islamic and Jewish Philosophy*, New York: Oxford University Press.
 * Donati, Silvia, 2015, “Is Celestial Motion a Natural Motion? Averroes’ Position and Its Reception in the Thirteenth and Early Fourteenth-Century Commentary Tradition of Physics”, in *Averroes’ Natural Philosophy and Its Reception in The Latin West*, Paul J.J.M. Bakker (ed.), Leuven: Leuven University Press, pp. 89–126.
 * Feldman, Seymour, 2000, “An Averroist Solution to a Maimonidean Perplexity”, in *Maimonidean Studies*, volume 4, New York: Yeshiva University, 15–31.
-* Fraenkel, Carlos, 2010, “Theocracy and Autonomy in Medieval Islamic and Jewish Philosophy”, *Political Theory*, 38(3): 340–366. doi:10.1177/0090591709359593
-* –––, 2012, *Philosophical Religions from Plato to Spinoza: Reason, Religion, and Autonomy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043052
-* –––, 2013, “Reconsidering the Case of Elijah Delmedigo’s Averroism and Its Impact on Spinoza”, in *Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe*, Anna Akasoy and Guido Giglioni (eds.), Dordrecht: Springer Netherlands, 213–236. doi:10.1007/978-94-007-5240-5_11
-* Freudenthal, Gad, 2002, “The Medieval Astrologization of Aristotle’s Biology: Averroes on the Role of the Celestial Bodies in the Generation of Animate Beings”, *Arabic Sciences and Philosophy*, 12(1): 111–137. doi:10.1017/S0957423902002059
-* Griffel, Frank, 2006, “MS London, British Library Or. 3126: An Unknown Work by al-Ghazālī on Metaphysics and Philosophical Theology”, *Journal of Islamic Studies*, 17(1): 1–42. doi:10.1093/jis/eti175
+* Fraenkel, Carlos, 2010, “Theocracy and Autonomy in Medieval Islamic and Jewish Philosophy”, *Political Theory*, 38(3): 340–366. doi: 10.1177/0090591709359593
+* –––, 2012, *Philosophical Religions from Plato to Spinoza: Reason, Religion, and Autonomy*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139043052
+* –––, 2013, “Reconsidering the Case of Elijah Delmedigo’s Averroism and Its Impact on Spinoza”, in *Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe*, Anna Akasoy and Guido Giglioni (eds.), Dordrecht: Springer Netherlands, 213–236. doi: 10.1007/978-94-007-5240-5_11
+* Freudenthal, Gad, 2002, “The Medieval Astrologization of Aristotle’s Biology: Averroes on the Role of the Celestial Bodies in the Generation of Animate Beings”, *Arabic Sciences and Philosophy*, 12(1): 111–137. doi: 10.1017/S0957423902002059
+* Griffel, Frank, 2006, “MS London, British Library Or. 3126: An Unknown Work by al-Ghazālī on Metaphysics and Philosophical Theology”, *Journal of Islamic Studies*, 17(1): 1–42. doi: 10.1093/jis/eti175
 * Guttmann, Julius, 1966, *Philosophies of Judaism: The History of Jewish Philosophy from Biblical Times to Franz Rosenzweig*, translated, by David W. Silverman and with an introduction by R. J. Zwi Werblowsky, from the German original, *Die Philosophie des Judentums* (München: E. Reinhardt, 1933), Garden City, NY: Anchor Books.
 * –––, 1945, “Mishnato Shel Isaac Albalag”, in *Louis Ginzberg: Jubilee Volume On the Occasion of his Seventieth Birthday* , New York, American Academy for Jewish Research, 75–92 [Hebrew]
-* Haliva, Racheli, 2018, “The Origin of the World – An Anti-Sceptical Approach in Medieval Jewish Averroism”, in *Scepticism and Anti-Scepticism in Medieval Jewish Philosophy and Thought*, Racheli Haliva (ed.), Berlin, Boston: De Gruyter, 130–145. doi:10.1515/9783110553321-008
+* Haliva, Racheli, 2018, “The Origin of the World – An Anti-Sceptical Approach in Medieval Jewish Averroism”, in *Scepticism and Anti-Scepticism in Medieval Jewish Philosophy and Thought*, Racheli Haliva (ed.), Berlin, Boston: De Gruyter, 130–145. doi: 10.1515/9783110553321-008
 * Harvey, Steven, 2009, “Author’s Introduction as a Gauge For Monitoring Philosophic Influence: The Case of Al-Gazali”, in *Tribute to Michael: Studies in Jewish & Muslim Thought Presented to Prof. Michael Schwarz*, SaraKlein-Braslavy, Binyamin Abrahamov and Joseph Sadan (eds.), Tel Aviv: Tel Aviv University Press, 53–66.
 * Harvey, Zev, 1980, “Between Political Philosophy and Halakha in Maimonides’ Thought”, *Iyyun*, 29: 198–212 [Hebrew].
 * –––, 2001, “How Leo Strauss Paralyzed the Scholarship on the Guide of the Perplexed in the 20th Century”, *Iyyun* 50: 387–396 [Hebrew].
@@ -256,11 +256,11 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 * Kogan, Barry, 1984, *Averroes And The Metaphysics of Causation*, Albany, NY: State University of New York Press
 * Macy, Jeffery, 1986, “Prophecy in al-Farabi and Maimonides”, in Pines and Yovel 1986: 185–201.
 * Manekin, Charles, 1992, *The Logic of Gersonides: A Translation of Sefer ha-heqqesh ha-Yashar* [The Book of the Correct Syllogism] of Rabbi Levi ben Gershom with Introduction, Commentary, and Analytical Glossary, Dordrecht; Boston: Kluwer Academic Publishers.
-* –––, 1996, “Some Aspects of the Assertoric Syllogism in Medieval Hebrew Logic”, *History and Philosophy of Logic*, 17(1–2): 49–71. doi:10.1080/01445349608837257
+* –––, 1996, “Some Aspects of the Assertoric Syllogism in Medieval Hebrew Logic”, *History and Philosophy of Logic*, 17(1–2): 49–71. doi: 10.1080/01445349608837257
 * –––, 1997, “Hebrew Philosophy in the Fourteenth and Fifteenth Centuries: An Overview”, in *History of Jewish Philosophy*, Daniel H. Frank and Oliver Leaman (eds.). London & New York: Routledge, 292–318.
-* ––– (ed.), 2007, *Medieval Jewish Philosophical Writings*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811067
-* Marmura, Michael E., 1962, “Some Aspects of Avicenna’s Theory of God’s Knowledge of Particulars”, *Journal of the American Oriental Society*, 82(3): 299–312. doi:10.2307/597641
-* –––, 1963, “Avicenna’s Psychological Proof of Prophecy”, *Journal of Near Eastern Studies*, 22(1): 49–56. doi:10.1086/371710
+* ––– (ed.), 2007, *Medieval Jewish Philosophical Writings*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511811067
+* Marmura, Michael E., 1962, “Some Aspects of Avicenna’s Theory of God’s Knowledge of Particulars”, *Journal of the American Oriental Society*, 82(3): 299–312. doi: 10.2307/597641
+* –––, 1963, “Avicenna’s Psychological Proof of Prophecy”, *Journal of Near Eastern Studies*, 22(1): 49–56. doi: 10.1086/371710
 * Mayer, Toby, 2001, “Ibn Sina’s ‘Burhan Al-Siddiqin’,” *Journal of Islamic Studies*, 12(1): 18–39.
 * McGinnis, Jon, 2010, *Avicenna*, Oxford: Oxford University Press.
 * Morris, James Winston, 1992, “The Philosopher Prophet in Avicenna’s Political Philosophy”, in *Political Aspects of Islamic Philosophy*, Charles Butterworth (ed.), Cambridge, MA; Harvard University Press, 152–198.
@@ -268,7 +268,7 @@ Tiqqun 的第一部分（逻辑）基本上是《哲学目的》的忠实翻译�
 * –––, 1986, “The Philosophical Purport of Maimonides' Halachic Works and the Purport of the Guide of the Perplexed”, in Pines and Yovel 1986: 1–14.
 * Pines, Shlomo and Yirmiyahu Yovel (eds.), 1986, *Maimonides and Philosophy: Papers Presented at the Sixth Jerusalem Philosophical Encounter, May 1985*, Dordrecht; Boston: M. Nijhoff Publishers ; Norwell, MA, USA: Distributors for the U.S. and Canada, Kluwer Academic Publishers.
 * Rahman, Fazl, 1958, *Prophecy in Islam: Philosophy and Orthodoxy*, London: Allen & Unwin.
-* Rescher, Nicholas, 1965, “New Light from Arabic Sources on Galen and the Fourth Figure of the Syllogism”, *Journal of the History of Philosophy*, 3(1): 27–41. doi:10.1353/hph.2008.1365
+* Rescher, Nicholas, 1965, “New Light from Arabic Sources on Galen and the Fourth Figure of the Syllogism”, *Journal of the History of Philosophy*, 3(1): 27–41. doi: 10.1353/hph.2008.1365
 * Rosenberg, Shalom, 1984, “The Concept of Emunah in Post-Maimonidean Jewish Philosophy”, in *Studies in Medieval Jewish History and Literature*, volume 2, Isadore Twersky (ed.), Cambridge, MA: Harvard University Press, 273–309.
 * Sabra, A. I, 1965, “ A Twelfth-Century Defense of the Fourth Figure of Syllogism”, *Journal of the Warburg and Courtauld Institute*, 28: 14–28.
 * Sadiq, Shalom, 2015, “La Doctrine de la Double Vérité dans la Pensée Philosophique de Rabbi Isaac Albalag”, *Revue des études Juives*, 174: 145–174.

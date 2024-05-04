@@ -2,7 +2,7 @@
 
 *首次发表于 2023 年 8 月 3 日星期四*
 
-编辑说明：以下由吉迪恩·艾尔福德（Gideon Elford）撰写的新条目取代了之前作者关于这个主题的条目。
+编辑说明：以下由吉迪恩 · 艾尔福德（Gideon Elford）撰写的新条目取代了之前作者关于这个主题的条目。
 
 机会平等的概念尽管为人熟知且表面上颇受欢迎，但却一直备受争议且难以捉摸。正因为“机会平等”一词被用来指代各种不同的观念，一些人曾诱惑质疑是否存在一个一贯的核心概念（Westen 1985），或者呼吁彻底放弃这一概念（Radcliffe Richards 1997）。因此，大量关于“机会平等”概念的哲学工作明确反映了对这一概念的思考，其中包括对隐藏在这一概念下的各种不同观念进行解析和区分（例如，Arneson 2018；Green 1989；Riva 2015）。如果说“机会平等”的各种概念之间存在一个广泛的统一主题，那就是合理的等级制度或不平等的概念，将某些因素归类为不适当的人们成功的决定因素。机会平等备受争议，部分原因是人们对哪些因素是否合格作为人们在相关意义上成功的障碍存在分歧。根据被认为是相关机会上的障碍的因素范围，不同的“机会平等”概念可以大致按照从形式到实质的顺序进行排序。
 
@@ -24,9 +24,9 @@
 
 机会平等存在争议（Joseph 1980; Gross 1987），根据被视为对个人成功前景产生不当影响的因素，可以区分出不同的机会平等概念。以一个负责在大学入学申请之间进行选择的委员会为例，试图确定适当的选择标准，同时遵守确保所有候选人机会平等的要求。委员会中的一种观点可能是，只要在选择过程中没有明显的种族或性别歧视，机会平等就得到满足。另一种观点可能是，这是必要的但不足够的，只有当取消给予校友家庭优待的传统入学时，机会平等才得到满足。委员会中的其他人可能会争辩说，尽管排除种族、性别和传统歧视是为了确保机会平等，但选择标准还应考虑导致某些候选人比其他人更有资格的社会劣势。他们认为，基于哪些候选人最有资格的选择标准意味着社会弱势候选人没有享有相关平等的入学机会。委员会内部表达的不同观点代表了对于决定谁被选中时不适当考虑的因素的不同看法，从而反映了对于机会平等要求的不同结论。因此，更广泛的观点是，关于哪些因素使“机会”变得不平等，机会平等的不同概念存在差异。
 
-平等机会的概念以这种方式不同有助于解释为什么平等机会的概念是有争议的。人们对哪些因素在道德上具有重要意义持有不同观点，进而对于哪些因素应该或不应该影响个人的职位或福祉前景也有不同看法。从这个角度看，平等机会可以被视为一个基本上有争议的概念（Gallie 1955）。关于平等机会是一件好事的普遍共识实际上掩盖了关于平等机会实际包含什么的重要不同看法。平等机会中的“机会”一词表明某种意义上某种好处是可得到的，但不一定是保证的（例如，Westen [1985: 839]认为“机会”是低于保证但高于纯粹可能性的）。根据一个人对平等机会的理解，拥有一个“机会”可能并不意味着一个人有任何实际的可能性获得相关职位或好处（Mason 2006: 22–26）。例如，可以说在某个社会中每个人都有平等的机会成为职业运动员，因为没有资格上的正式限制，然而对于那些由于身体限制使这一目标完全不切实际的人来说，情况将会有很多（关于“机会”与“自由”关系的讨论，请参见 Campbell 1974–75）。这种情况导致 G. A. Cohen（1989: 916–917）区分了平等机会和平等获取的概念。这里的想法是，尽管我们通常不会说某人缺乏机会仅仅是因为他们的身体或精神能力限制了他们实现某事的能力，但我们仍然需要一个术语——“获取”，用以表达由这些来源导致的不平等。根据这种观点，尽管可能有平等的机会成为职业运动员，但身体上的不平等意味着成为职业运动员的获取是不平等的。尽管 Cohen 的建议不成立，仍然有一些关于平等机会的概念使用“机会”一词来指代这些无法的来源。例如，可以争论说为女子运动划分单独的类别是为了在体育运动中为女性提供平等的机会，因为一个非分隔的类别会剥夺女性在公平条件下竞争的机会，考虑到男女之间的身体差异（关于这一观点的批评，请参见 Tannsjo 2007）。或者可以争论说整个体育竞赛结构（例如，可用体育项目的范围）应该被组织成为提供更广泛的身体优势范围，以便在体育运动中提供平等的机会（English 1978）。
+平等机会的概念以这种方式不同有助于解释为什么平等机会的概念是有争议的。人们对哪些因素在道德上具有重要意义持有不同观点，进而对于哪些因素应该或不应该影响个人的职位或福祉前景也有不同看法。从这个角度看，平等机会可以被视为一个基本上有争议的概念（Gallie 1955）。关于平等机会是一件好事的普遍共识实际上掩盖了关于平等机会实际包含什么的重要不同看法。平等机会中的“机会”一词表明某种意义上某种好处是可得到的，但不一定是保证的（例如，Westen [1985: 839] 认为“机会”是低于保证但高于纯粹可能性的）。根据一个人对平等机会的理解，拥有一个“机会”可能并不意味着一个人有任何实际的可能性获得相关职位或好处（Mason 2006: 22–26）。例如，可以说在某个社会中每个人都有平等的机会成为职业运动员，因为没有资格上的正式限制，然而对于那些由于身体限制使这一目标完全不切实际的人来说，情况将会有很多（关于“机会”与“自由”关系的讨论，请参见 Campbell 1974–75）。这种情况导致 G. A. Cohen（1989: 916–917）区分了平等机会和平等获取的概念。这里的想法是，尽管我们通常不会说某人缺乏机会仅仅是因为他们的身体或精神能力限制了他们实现某事的能力，但我们仍然需要一个术语——“获取”，用以表达由这些来源导致的不平等。根据这种观点，尽管可能有平等的机会成为职业运动员，但身体上的不平等意味着成为职业运动员的获取是不平等的。尽管 Cohen 的建议不成立，仍然有一些关于平等机会的概念使用“机会”一词来指代这些无法的来源。例如，可以争论说为女子运动划分单独的类别是为了在体育运动中为女性提供平等的机会，因为一个非分隔的类别会剥夺女性在公平条件下竞争的机会，考虑到男女之间的身体差异（关于这一观点的批评，请参见 Tannsjo 2007）。或者可以争论说整个体育竞赛结构（例如，可用体育项目的范围）应该被组织成为提供更广泛的身体优势范围，以便在体育运动中提供平等的机会（English 1978）。
 
-有关“机会”是否应被理解为一个主体依赖的概念存在争议，即个体的价值观是否影响某事是否合格为相关开放。例如，Parekh（2000: 241）认为，如果选择某条道路涉及违背一个人深深承诺的事情，那么某事就不符合相关意义上的机会。另一方面，Brian巴里（Brian Barry）（2001: 36-38）认为，一个人面临的机会范围是“客观事实”的问题，不取决于面对这些机会的人的价值观和他们在其中做出的选择。这表明，“机会”实际上是一个占位符，用于表达某些因素不应妨碍某种好处的可获得性或一个人成功的前景（即使其他因素，被认为是合法的，使得这种好处不可获得）。
+有关“机会”是否应被理解为一个主体依赖的概念存在争议，即个体的价值观是否影响某事是否合格为相关开放。例如，Parekh（2000: 241）认为，如果选择某条道路涉及违背一个人深深承诺的事情，那么某事就不符合相关意义上的机会。另一方面，Brian 巴里（Brian Barry）（2001: 36-38）认为，一个人面临的机会范围是“客观事实”的问题，不取决于面对这些机会的人的价值观和他们在其中做出的选择。这表明，“机会”实际上是一个占位符，用于表达某些因素不应妨碍某种好处的可获得性或一个人成功的前景（即使其他因素，被认为是合法的，使得这种好处不可获得）。
 
 这种思考不同机会平等观念的方式表明，关于机会平等的不同观念范围确实非常广泛。每种观念将是独特的，取决于被认为阻碍成功前景的因素组合，使得机会不平等。因此，一种粗略地对不同机会平等观念进行排序的方式是，根据阻碍机会平等的因素的广度来定位它们。识别相对较少阻碍机会平等的因素的观念将位于连续体的一端，而识别更多因素的观念将位于另一端（关于这种广泛的组织机会平等观念的方法，请参见科恩 2009 年：4-6；米勒 2013 年：118-119；塞加尔 2013 年：3-4；斯威夫特 2014 年：102-109）。尽管不够精确，但这是一种有用的区分较薄、形式化机会平等观念和较厚、更实质性观念的方式。
 
@@ -62,7 +62,7 @@
 
 以上的精英主义观念是对机会平等的一个相对正式的观点。它认为，只要个人不受法律或某些技术障碍或某些形式的歧视阻碍，他们在相关意义上享有平等的机会，并且在这种条件下，个人应该在一个旨在选拔最合格者的过程中竞争职位。在某种意义上，精英主义观念对于允许决定谁成功利用他们的机会的因素是相当严格的，根据“最合格者”的标准，只有适合该职位的品质或良好地决定竞争申请的结果。然而，精英主义观念在某种程度上仍然是相对正式的，因为它没有考虑到获得资格的更广泛障碍（或者说，应该奖励哪些资格），因此没有考虑到一系列可能对个人成功竞争社会优势的机会产生重大影响的因素（B. Barry 2005: ch.8）
 
-伯纳德·威廉姆斯提出了这个问题的一个著名例证，他举例说明了一个社会，其中对某个武士阶级的成员身份非常重视（Williams 1962 [1973]）。在历史上，这个阶级的成员只从社会中的富裕阶层中招募，但通过改革，现在所有社会成员都可以参与竞争成为武士。根据竞争的条件，武士是根据他们的体力被选中的。尽管现在选择的竞争是公开的，但事实证明，武士仍然只从社会中的富裕阶层中被选中，因为其他社会阶层的人口营养不良，缺乏足够的体力来成功竞争武士的地位。可以争论说，对于武士阶级成员资格的意义上的机会平等并没有真正实现，因为一些竞争者被剥夺了以相对平等条件竞争的手段——来自较贫困社会阶层的人缺乏成功满足选择标准的现实前景，比如体力。这里的一个回应可能是认为机会平等已经得到满足，因为来自较贫困社会阶层的人并不是因为贫穷而被排除，而只是因为他们体力较弱，这是武士阶级选择的一个相关标准。作为回应，可以争辩说，这将导致对机会平等的一种仅仅形式化和无实质内容的思考，因为来自较贫困社会阶层的人实际上被排除在外，即使他们没有明确被禁止（参见 Williams 1962 [1973: 244–245]）。
+伯纳德 · 威廉姆斯提出了这个问题的一个著名例证，他举例说明了一个社会，其中对某个武士阶级的成员身份非常重视（Williams 1962 [1973]）。在历史上，这个阶级的成员只从社会中的富裕阶层中招募，但通过改革，现在所有社会成员都可以参与竞争成为武士。根据竞争的条件，武士是根据他们的体力被选中的。尽管现在选择的竞争是公开的，但事实证明，武士仍然只从社会中的富裕阶层中被选中，因为其他社会阶层的人口营养不良，缺乏足够的体力来成功竞争武士的地位。可以争论说，对于武士阶级成员资格的意义上的机会平等并没有真正实现，因为一些竞争者被剥夺了以相对平等条件竞争的手段——来自较贫困社会阶层的人缺乏成功满足选择标准的现实前景，比如体力。这里的一个回应可能是认为机会平等已经得到满足，因为来自较贫困社会阶层的人并不是因为贫穷而被排除，而只是因为他们体力较弱，这是武士阶级选择的一个相关标准。作为回应，可以争辩说，这将导致对机会平等的一种仅仅形式化和无实质内容的思考，因为来自较贫困社会阶层的人实际上被排除在外，即使他们没有明确被禁止（参见 Williams 1962 [1973: 244–245]）。
 
 因此，可以认为机会平等要求人们享有实质性手段，以利用通过公开竞争可获得的正式机会。持这一观点的观点可以被广泛归类为机会平等的实质性概念。与不同的机会平等形式概念一样，实质性概念在机会应当具有实质性方面的方式上存在差异。
 
@@ -72,7 +72,7 @@
 
 ## 公平的机会平等
 
-约翰·罗尔斯提出的机会平等的一个重要实质概念涉及父母在富裕社会阶层投资剑术培训等因素，他将其称为公平机会平等（FEO）。 FEO 有两个组成部分。首先，根据“职业向才能开放”的形式意义，或者如上所述，即以功绩为基础的概念（罗尔斯 1999 年：53、57、62），所有职位和职位都应对所有人开放。这是为了进一步要求所有人都应有公平机会获得这些职位和职位（罗尔斯 1999 年：63；2001 年：43-44）。这里的公平机会意味着一个突出的机会平等的实质概念，涉及父母在富裕社会阶层投资剑术培训等因素，是约翰·罗尔斯提出的公平机会平等（FEO）。 FEO 有两个组成部分。首先，根据“职业向才能开放”的形式意义，或者如上所述，即以功绩为基础的概念（罗尔斯 1999 年：53、57、62），所有职位和职位都应对所有人开放。这是为了进一步要求所有人都应有公平机会获得这些职位和职位（罗尔斯 1999 年：63；2001 年：43-44）。这里的公平机会意味着
+约翰 · 罗尔斯提出的机会平等的一个重要实质概念涉及父母在富裕社会阶层投资剑术培训等因素，他将其称为公平机会平等（FEO）。 FEO 有两个组成部分。首先，根据“职业向才能开放”的形式意义，或者如上所述，即以功绩为基础的概念（罗尔斯 1999 年：53、57、62），所有职位和职位都应对所有人开放。这是为了进一步要求所有人都应有公平机会获得这些职位和职位（罗尔斯 1999 年：63；2001 年：43-44）。这里的公平机会意味着一个突出的机会平等的实质概念，涉及父母在富裕社会阶层投资剑术培训等因素，是约翰 · 罗尔斯提出的公平机会平等（FEO）。 FEO 有两个组成部分。首先，根据“职业向才能开放”的形式意义，或者如上所述，即以功绩为基础的概念（罗尔斯 1999 年：53、57、62），所有职位和职位都应对所有人开放。这是为了进一步要求所有人都应有公平机会获得这些职位和职位（罗尔斯 1999 年：63；2001 年：43-44）。这里的公平机会意味着
 
 > 具有相同水平或才能以及相同愿意利用这些天赋的人，无论其社会阶层如何，都应该有相同的成功前景。（Rawls 2001: 44）
 
@@ -104,7 +104,7 @@
 
 > 家庭的内部生活和文化影响着孩子的动机以及他从教育中获益的能力，因此反过来影响他的生活前景。 (Rawls 1999: 265)
 
-Rawls 认为 FEO 并不要求消除家庭之间的差异，因为它只需要纠正社会阶级的不平等（Rawls 1999: 265，尽管 Rawls 的其他段落似乎与此相矛盾，例如他承认 FEO“只能在某种程度上得到实施，至少在家庭的某种形式存在的时候”（1999: 64））。然而，由于家庭作为社会制度的存在总会导致不同个体之间的机会不平等，他提出了这个问题Rawls 认为机会平等并不要求消除家庭之间的差异，因为它只需要纠正社会阶级的不平等（Rawls 1999: 265，尽管 Rawls 的其他段落似乎与此相矛盾，例如他承认机会平等“只能在某种程度上得到实施，至少在家庭的某种形式存在的时候”（1999: 64））。然而，由于家庭作为社会制度的存在总会导致不同个体之间的机会不平等，他提出了这个问题
+Rawls 认为 FEO 并不要求消除家庭之间的差异，因为它只需要纠正社会阶级的不平等（Rawls 1999: 265，尽管 Rawls 的其他段落似乎与此相矛盾，例如他承认 FEO“只能在某种程度上得到实施，至少在家庭的某种形式存在的时候”（1999: 64））。然而，由于家庭作为社会制度的存在总会导致不同个体之间的机会不平等，他提出了这个问题 Rawls 认为机会平等并不要求消除家庭之间的差异，因为它只需要纠正社会阶级的不平等（Rawls 1999: 265，尽管 Rawls 的其他段落似乎与此相矛盾，例如他承认机会平等“只能在某种程度上得到实施，至少在家庭的某种形式存在的时候”（1999: 64））。然而，由于家庭作为社会制度的存在总会导致不同个体之间的机会不平等，他提出了这个问题
 
 > 家庭是否应该被废除？就其本身而言，并赋予一定的首要性，机会平等的理念倾向于这个方向。 (Rawls 1999: 448)
 
@@ -128,9 +128,9 @@ Rawls 认为 FEO 并不要求消除家庭之间的差异，因为它只需要纠
 
  并且那
 
-> 家庭制度允许[父母]拥有一种与其他成年人关系无法替代的关系。(Brighouse & Swift 2009: 53–54)
+> 家庭制度允许 [父母] 拥有一种与其他成年人关系无法替代的关系。(Brighouse & Swift 2009: 53–54)
 
-家庭的内部生活，以及其成员之间的共同活动、经历甚至价值观，支持了父母与子女之间独特的亲密关系，为父母提供了一种独特的繁荣源泉。其他关系无法替代父母与子女之间的关系，因此废除家庭意味着将失去一种特定且有价值的繁荣源泉。为了创造、维持和享受这种有价值的关系，父母需要能够与子女一起做事情，这必然会导致家庭之间的差异，使一些子女受益多于其他人。尽管这几乎肯定会破坏机会平等，布赖豪斯和斯威夫特认为这种亲密关系的价值是这种不平等的潜在理由。有些活动将是必要的，以滋养这种亲密关系，而其他则不会。在那些必要的活动中，布赖豪斯和斯威夫特（2009:57）举例说明了给孩子读睡前故事和父母让孩子参加能够让他们参与共同价值社区的协会。相比之下，让孩子就读旨在最大程度提高未来机会的昂贵私立学校，或者投资信托基金，几乎不太可能是父母与子女享受家庭关系所支持的独特商品所必需的（布赖豪斯和斯威夫特 2009:58）。如果要证明这些其他活动是合理的，鉴于它们倾向于延续的不平等，那必须基于其他价值观，而不是这种特殊的家庭亲密关系。
+家庭的内部生活，以及其成员之间的共同活动、经历甚至价值观，支持了父母与子女之间独特的亲密关系，为父母提供了一种独特的繁荣源泉。其他关系无法替代父母与子女之间的关系，因此废除家庭意味着将失去一种特定且有价值的繁荣源泉。为了创造、维持和享受这种有价值的关系，父母需要能够与子女一起做事情，这必然会导致家庭之间的差异，使一些子女受益多于其他人。尽管这几乎肯定会破坏机会平等，布赖豪斯和斯威夫特认为这种亲密关系的价值是这种不平等的潜在理由。有些活动将是必要的，以滋养这种亲密关系，而其他则不会。在那些必要的活动中，布赖豪斯和斯威夫特（2009: 57）举例说明了给孩子读睡前故事和父母让孩子参加能够让他们参与共同价值社区的协会。相比之下，让孩子就读旨在最大程度提高未来机会的昂贵私立学校，或者投资信托基金，几乎不太可能是父母与子女享受家庭关系所支持的独特商品所必需的（布赖豪斯和斯威夫特 2009: 58）。如果要证明这些其他活动是合理的，鉴于它们倾向于延续的不平等，那必须基于其他价值观，而不是这种特殊的家庭亲密关系。
 
 在探讨导致不同个体生活机会不平等的社会因素的工作中，家庭在讨论中被置于重要位置是可以理解的。这是因为家庭作为一种发展路径在塑造个体特质以成功参与社会竞争的前景方面具有重要影响（有关家庭如何传递优势的机制的良好分析，请参见 Swift 2005）。然而，从根本上讲，冲突更为普遍。因为似乎当个体以不同方式行使他们的联想自由时，这会产生不平等。家庭与机会平等之间的紧张关系反映了更普遍的自由与平等之间的紧张关系（James Fishkin 1987）。这种紧张关系以不同程度和不同方式显现，取决于一个人对机会平等概念的厚度，但似乎对所有概念都至少存在一定程度的影响。例如，种族歧视的自由受到相对薄弱、正式的机会平等概念的限制。精英主义的概念更进一步限制了在选择时除了最合格者以外的其他理由。更加实质性的机会平等概念则进一步暗示了相关平等的生活机会与自由结社并促进特定他人利益之间的紧张关系，这在不同个体之间呈现出不同的前景。
 
@@ -144,7 +144,7 @@ Rawls 认为 FEO 并不要求消除家庭之间的差异，因为它只需要纠
 
 LE lies near the thickest end of the continuum by which we can organize various conceptions of Equality of Opportunity. It holds that only choice is an appropriate source of unequal prospects for success. A still thicker conception might deny that even choice should determine differences, and, instead, that *no* factors are acceptable determinants of unequal success (for a qualified version of such a view see Persson 2007). This would amount to Equality of Opportunity as equal outcome. Whether or not this is a justified position, it might be strained to label this an Equal *Opportunity* view. Although LE occupies this place on the continuum of conceptions, where few factors are acceptable determinants of unequal prospects, it is misleading to think of LE as commending equal *chances* for success. Equal chances of success could be secured by simply having an equal lottery between everyone, the outcome of which results in some people faring very well and others faring very poorly. This would be straightforwardly inconsistent with LE, because the inequalities would not be a result of persons’ own choices but, rather, the outcome of the lottery (for an example of this type see B. Barry 1988)
 
-在 LE 的核心是罗纳德·多尔金首次引入的“选择运气”和“蛮力运气”之间的区别。Option luck 是
+在 LE 的核心是罗纳德 · 多尔金首次引入的“选择运气”和“蛮力运气”之间的区别。Option luck 是
 
 > Dworkin 1981: 293
 
@@ -211,138 +211,138 @@ LE 观点下对合理化的不平等有不同的方法。有时人们将 LE 理�
 ## Bibliography
 
 * Alexander, Larry, 1992, “What Makes Wrongful Discrimination Wrong Biases, Preferences, Stereotypes, and Proxies”, *University of Pennsylvania Law Review*, 141(1): 149–220.
-* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
-* –––, 2004, “Rethinking Equality of Opportunity: Comment on Adam Swift’s How Not to Be a Hypocrite”, *Theory and Research in Education*, 2(2): 99–110. doi:10.1177/1477878504043438
+* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
+* –––, 2004, “Rethinking Equality of Opportunity: Comment on Adam Swift’s How Not to Be a Hypocrite”, *Theory and Research in Education*, 2(2): 99–110. doi: 10.1177/1477878504043438
 * –––, 2010, *The Imperative of Integration*, Princeton, NJ: Princeton University Press.
-* Archard, David, 2010, *The Family: A Liberal Defence*, London: Palgrave Macmillan UK. doi:10.1057/9780230294578
-* Arneson, Richard J., 1999, “Against Rawlsian Equality of Opportunity”, *Philosophical Studies*, 93(1): 77–112. doi:10.1023/A:1004270811433
-* –––, 2004, “Luck Egalitarianism Interpreted and Defended”:, *Philosophical Topics*, 32(1): 1–20. doi:10.5840/philtopics2004321/217
+* Archard, David, 2010, *The Family: A Liberal Defence*, London: Palgrave Macmillan UK. doi: 10.1057/9780230294578
+* Arneson, Richard J., 1999, “Against Rawlsian Equality of Opportunity”, *Philosophical Studies*, 93(1): 77–112. doi: 10.1023/A: 1004270811433
+* –––, 2004, “Luck Egalitarianism Interpreted and Defended”:, *Philosophical Topics*, 32(1): 1–20. doi: 10.5840/philtopics2004321/217
 * –––, 2002 [2015], “Equality of Opportunity”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/equal-opportunity/>
-* –––, 2018, “Four Conceptions of Equal Opportunity”, *The Economic Journal*, 128(612): F152–F173. doi:10.1111/ecoj.12531
+* –––, 2018, “Four Conceptions of Equal Opportunity”, *The Economic Journal*, 128(612): F152–F173. doi: 10.1111/ecoj.12531
 * Barry, Brian, 1988, “Equal Opportunity and Moral Arbitrariness”, in Bowie 1988: 23–44.
 * –––, 1991, “Justice as Reciprocity”, in his *Liberty and Justice: Essays in Political Theory Volume 2*, Oxford: Clarendon Press, pp. 211–241.
 * –––, 1998, “Social Exclusion, Social Isolation and the Distribution of Income”, London School of Economics, Centre for Analysis of Social Exclusion, CASEpaper 12. [[Barry 1998 available online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1158903)]
 * –––, 2001, *Culture and Equality: An Egalitarian Critique of Multiculturalism*, Cambridge, UK: Polity Press.
 * –––, 2005, *Why Social Justice Matters*, Cambridge, UK: Polity.
-* Barry, Nicholas, 2006, “Defending Luck Egalitarianism”, *Journal of Applied Philosophy*, 23(1): 89–107. doi:10.1111/j.1468-5930.2006.00322.x
-* Bergmann, Barbara R., 2008, “Long Leaves, Child Well-Being, and Gender Equality”, *Politics & Society*, 36(3): 350–359. doi:10.1177/0032329208320564
+* Barry, Nicholas, 2006, “Defending Luck Egalitarianism”, *Journal of Applied Philosophy*, 23(1): 89–107. doi: 10.1111/j.1468-5930.2006.00322.x
+* Bergmann, Barbara R., 2008, “Long Leaves, Child Well-Being, and Gender Equality”, *Politics & Society*, 36(3): 350–359. doi: 10.1177/0032329208320564
 * Bowie, Norman E. (ed.), 1988, *Equal Opportunity*, Boulder, CO: Westview Press.
-* Boxill, Bernard R., 1987, “Global Equality of Opportunity and National Integrity”, *Social Philosophy and Policy*, 5(1): 143–168. doi:10.1017/S0265052500001291
-* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights”, in Francoise Baylis and Carolyn McLeod (eds.), *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press. doi: 10.1093/acprof:oso/9780199656066.003.0003
+* Boxill, Bernard R., 1987, “Global Equality of Opportunity and National Integrity”, *Social Philosophy and Policy*, 5(1): 143–168. doi: 10.1017/S0265052500001291
+* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights”, in Francoise Baylis and Carolyn McLeod (eds.), *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199656066.003.0003
 * Brennan, Samantha and Robert Noggle, 1997, “The Moral Status of Children: Children’s Rights, Parent’s Rights, and Family Justice”, *Social Theory and Practice*, 23(1): 1–26. doi: 10.5840/soctheorpract19972311
-* Brighouse, Harry and Adam Swift, 2006, “Parents’ Rights and the Value of the Family”, *Ethics*, 117(1): 80–108. doi:10.1086/508034
-* –––, 2009, “Legitimate Parental Partiality”, *Philosophy & Public Affairs*, 37(1): 43–80. doi:10.1111/j.1088-4963.2008.01145.x
-* –––, 2014, *Family Values: The Ethics of Parent-Child Relationships*, Princeton, NJ: Princeton University Press. doi:10.23943/princeton/9780691126913.001.0001
-* Brighouse, Harry and Erik Olin Wright, 2008, “Strong Gender Egalitarianism”, *Politics & Society*, 36(3): 360–372. doi:10.1177/0032329208320566
-* Cahn, Steven M. (ed.), 2002, *The Affirmative Action Debate*, second edition, New York: Routledge. doi:10.4324/9781315822075
-* Campbell, T. D., 1974–75, “Equality of Opportunity”, *Proceedings of the Aristotelian Society*, 75: 51–68. doi:10.1093/aristotelian/75.1.51
-* Caney, Simon, 2000a, “Cosmopolitan Justice and Cultural Diversity”, *Global Society*, 14(4): 525–551. doi:10.1080/713669066
+* Brighouse, Harry and Adam Swift, 2006, “Parents’ Rights and the Value of the Family”, *Ethics*, 117(1): 80–108. doi: 10.1086/508034
+* –––, 2009, “Legitimate Parental Partiality”, *Philosophy & Public Affairs*, 37(1): 43–80. doi: 10.1111/j.1088-4963.2008.01145.x
+* –––, 2014, *Family Values: The Ethics of Parent-Child Relationships*, Princeton, NJ: Princeton University Press. doi: 10.23943/princeton/9780691126913.001.0001
+* Brighouse, Harry and Erik Olin Wright, 2008, “Strong Gender Egalitarianism”, *Politics & Society*, 36(3): 360–372. doi: 10.1177/0032329208320566
+* Cahn, Steven M. (ed.), 2002, *The Affirmative Action Debate*, second edition, New York: Routledge. doi: 10.4324/9781315822075
+* Campbell, T. D., 1974–75, “Equality of Opportunity”, *Proceedings of the Aristotelian Society*, 75: 51–68. doi: 10.1093/aristotelian/75.1.51
+* Caney, Simon, 2000a, “Cosmopolitan Justice and Cultural Diversity”, *Global Society*, 14(4): 525–551. doi: 10.1080/713669066
 * –––, 2000b, “Global Equality of Opportunity and the Sovereignty of States”, in *International Justice*, Tony Coates (ed.), Aldershot: Ashgate, pp. 130–149.
-* –––, 2005, *Justice beyond Borders: A Global Political Theory*, Oxford/New York: Oxford University Press. doi:10.1093/019829350X.001.0001
+* –––, 2005, *Justice beyond Borders: A Global Political Theory*, Oxford/New York: Oxford University Press. doi: 10.1093/019829350X.001.0001
 * Cavanagh, Matt, 2002, *Against Equality of Opportunity*, Oxford: Oxford University Press.
-* Chambers, Clare, 2009, “Each Outcome Is Another Opportunity: Problems with the Moment of Equal Opportunity”, *Politics, Philosophy & Economics*, 8(4): 374–400. doi:10.1177/1470594X09343066
-* Clayton, Matthew, 2012, “On Widening Participation in Higher Education Through Positive Discrimination”, *Journal of Philosophy of Education*, 46(3): 414–431. doi:10.1111/j.1467-9752.2012.00858.x
-* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice”, *Ethics*, 99(4): 906–944. doi:10.1086/293126
-* –––, 2006, “Luck and Equality: A Reply to Hurley”, *Philosophy and Phenomenological Research*, 72(2): 439–446. doi:10.1111/j.1933-1592.2006.tb00571.x
+* Chambers, Clare, 2009, “Each Outcome Is Another Opportunity: Problems with the Moment of Equal Opportunity”, *Politics, Philosophy & Economics*, 8(4): 374–400. doi: 10.1177/1470594X09343066
+* Clayton, Matthew, 2012, “On Widening Participation in Higher Education Through Positive Discrimination”, *Journal of Philosophy of Education*, 46(3): 414–431. doi: 10.1111/j.1467-9752.2012.00858.x
+* Cohen, G. A., 1989, “On the Currency of Egalitarian Justice”, *Ethics*, 99(4): 906–944. doi: 10.1086/293126
+* –––, 2006, “Luck and Equality: A Reply to Hurley”, *Philosophy and Phenomenological Research*, 72(2): 439–446. doi: 10.1111/j.1933-1592.2006.tb00571.x
 * –––, 2009, *Why Not Socialism?*, Princeton, NJ: Princeton University Press.
 * Daniels, Norman, 1978, “Merit and Meritocracy”, *Philosophy & Public Affairs*, 7(3): 206–223.
-* Dekker, Teun J., 2009, “Choices, Consequences and Desert”, *Inquiry*, 52(2): 109–126. doi:10.1080/00201740902790201
-* de Shalit, Avner and Jonathan Wolff, 2011, “The Apparent Asymmetry of Responsibility”, in Knight and Stemplowska 2011: 216–229 (ch. 10). doi:10.1093/acprof:oso/9780199565801.003.0011
+* Dekker, Teun J., 2009, “Choices, Consequences and Desert”, *Inquiry*, 52(2): 109–126. doi: 10.1080/00201740902790201
+* de Shalit, Avner and Jonathan Wolff, 2011, “The Apparent Asymmetry of Responsibility”, in Knight and Stemplowska 2011: 216–229 (ch. 10). doi: 10.1093/acprof: oso/9780199565801.003.0011
 * Dworkin, Ronald, 1981, “What Is Equality? Part 2: Equality of Resources”, *Philosophy & Public Affairs*, 10(4): 283–345.
 * –––, 2000, *Sovereign Virtue*, Cambridge, MA: Harvard University Press.
 * –––, 2002a, “Are Quotas Unfair?” in Cahn 2002: 103–112 (ch. 15).
 * –––, 2002b, “What Did Bakke Really Decide?” in Cahn 2002: 113–123 (ch.16).
-* Elford, Gideon, 2016, “Social Class, Merit and Equality of Opportunity in Education”, *Res Publica*, 22(3): 267–284. doi:10.1007/s11158-015-9280-3
-* –––, 2017, “The Coherence of Luck Egalitarianism”, *Ethical Theory and Moral Practice*, 20(3): 617–626. doi:10.1007/s10677-017-9802-5
-* –––, 2018, “When Is Inequality Fair?”, *Ethical Theory and Moral Practice*, 21(5): 1205–1218. doi:10.1007/s10677-018-9963-x
+* Elford, Gideon, 2016, “Social Class, Merit and Equality of Opportunity in Education”, *Res Publica*, 22(3): 267–284. doi: 10.1007/s11158-015-9280-3
+* –––, 2017, “The Coherence of Luck Egalitarianism”, *Ethical Theory and Moral Practice*, 20(3): 617–626. doi: 10.1007/s10677-017-9802-5
+* –––, 2018, “When Is Inequality Fair?”, *Ethical Theory and Moral Practice*, 21(5): 1205–1218. doi: 10.1007/s10677-018-9963-x
 * English, Jane, 1978, “Sex Equality in Sports”, *Philosophy & Public Affairs*, 7(3): 269–277.
 * Fishkin, James S., 1983, *Justice, Equal Opportunity, and the Family*, New Haven, CT: Yale University Press.
-* –––, 1987, “Liberty Versus Equal Opportunity”, *Social Philosophy and Policy*, 5(1): 32–48. doi:10.1017/S0265052500001230
-* Fishkin, Joseph, 2014, *Bottlenecks: A New Theory of Equal Opportunity*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199812141.001.0001
+* –––, 1987, “Liberty Versus Equal Opportunity”, *Social Philosophy and Policy*, 5(1): 32–48. doi: 10.1017/S0265052500001230
+* Fishkin, Joseph, 2014, *Bottlenecks: A New Theory of Equal Opportunity*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199812141.001.0001
 * Fleurbaey, Marc, 2001, “Egalitarian Opportunities”, *Law and Philosophy*, 20(5): 499–530.
 * Flew, Antony, 1981, *The Politics of Procrustes: Contradications of Enforced Equality*, London: Temple Smith.
 * Folbre, Nancy, 1994, “Children as Public Goods”, *American Economic Review*, 84(2): 86–90.
 * –––, 2008, *Valuing Children: Rethinking the Economics of the Family*, (The Family and Public Policy), Cambridge, MA: Harvard University Press.
-* Gallie, W. B., 1955, “Essentially Contested Concepts”, *Proceedings of the Aristotelian Society*, 56: 167–198. doi:10.1093/aristotelian/56.1.167
-* Gheaus, Anca and Ingrid Robeyns, 2011, “Equality-Promoting Parental Leave”, *Journal of Social Philosophy*, 42(2): 173–191. doi:10.1111/j.1467-9833.2011.01525.x
-* Gornick, Janet C. and Marcia K. Meyers, 2008, “Creating Gender Egalitarian Societies: An Agenda for Reform”, *Politics & Society*, 36(3): 313–349. doi:10.1177/0032329208320562
-* Green, S. J. D., 1989, “Competitive Equality of Opportunity: A Defense”, *Ethics*, 100(1): 5–32. doi:10.1086/293142
-* Gross, Barry R., 1987, “Real Equality of Opportunity”, *Social Philosophy and Policy*, 5(1): 120–142. doi:10.1017/S026505250000128X
-* Holmes, Elisa, 2005, “Anti-Discrimination Rights without Equality”, *Modern Law Review*, 68(2): 175–194. doi:10.1111/j.1468-2230.2005.00534.x
+* Gallie, W. B., 1955, “Essentially Contested Concepts”, *Proceedings of the Aristotelian Society*, 56: 167–198. doi: 10.1093/aristotelian/56.1.167
+* Gheaus, Anca and Ingrid Robeyns, 2011, “Equality-Promoting Parental Leave”, *Journal of Social Philosophy*, 42(2): 173–191. doi: 10.1111/j.1467-9833.2011.01525.x
+* Gornick, Janet C. and Marcia K. Meyers, 2008, “Creating Gender Egalitarian Societies: An Agenda for Reform”, *Politics & Society*, 36(3): 313–349. doi: 10.1177/0032329208320562
+* Green, S. J. D., 1989, “Competitive Equality of Opportunity: A Defense”, *Ethics*, 100(1): 5–32. doi: 10.1086/293142
+* Gross, Barry R., 1987, “Real Equality of Opportunity”, *Social Philosophy and Policy*, 5(1): 120–142. doi: 10.1017/S026505250000128X
+* Holmes, Elisa, 2005, “Anti-Discrimination Rights without Equality”, *Modern Law Review*, 68(2): 175–194. doi: 10.1111/j.1468-2230.2005.00534.x
 * Hurley, S. L. 2003, *Justice, Luck, and Knowledge*, Cambridge, MA: Harvard University Press.
-* Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: The Theory and Practice of Egalitarian Justice*, (Cambridge Studies in Philosophy and Public Policy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511616556
-* Joseph, Lawrence B., 1980, “Some Ways of Thinking about Equality of Opportunity”, *The Western Political Quarterly*, 33(3): 393–400. doi:10.2307/447264
-* Kollar, Eszter and Michele Loi, 2015, “Prenatal Equality of Opportunity”, *Journal of Applied Philosophy*, 32(1): 35–49. doi:10.1111/japp.12067
-* Knight, Carl, 2005, “In Defence of Luck Egalitarianism”, *Res Publica*, 11(1): 55–73. doi:10.1007/s11158-004-4973-z
-* Knight, Carl and Zofia Stemplowska (eds.), 2011, *Responsibility and Distributive Justice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199565801.001.0001
-* Lippert-Rasmussen, Kasper, 2007, “Nothing Personal: On Statistical Discrimination”, *Journal of Political Philosophy*, 15(4): 385–403. doi:10.1111/j.1467-9760.2007.00285.x
-* –––, 2009, “Reaction Qualifications Revisited”, *Social Theory and Practice*, 35(3): 413–439. doi:10.5840/soctheorpract200935324
-* –––, 2014, *Born Free and Equal? A Philosophical Inquiry into the Nature of Discrimination*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199796113.001.0001
+* Jacobs, Lesley A., 2004, *Pursuing Equal Opportunities: The Theory and Practice of Egalitarian Justice*, (Cambridge Studies in Philosophy and Public Policy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511616556
+* Joseph, Lawrence B., 1980, “Some Ways of Thinking about Equality of Opportunity”, *The Western Political Quarterly*, 33(3): 393–400. doi: 10.2307/447264
+* Kollar, Eszter and Michele Loi, 2015, “Prenatal Equality of Opportunity”, *Journal of Applied Philosophy*, 32(1): 35–49. doi: 10.1111/japp.12067
+* Knight, Carl, 2005, “In Defence of Luck Egalitarianism”, *Res Publica*, 11(1): 55–73. doi: 10.1007/s11158-004-4973-z
+* Knight, Carl and Zofia Stemplowska (eds.), 2011, *Responsibility and Distributive Justice*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199565801.001.0001
+* Lippert-Rasmussen, Kasper, 2007, “Nothing Personal: On Statistical Discrimination”, *Journal of Political Philosophy*, 15(4): 385–403. doi: 10.1111/j.1467-9760.2007.00285.x
+* –––, 2009, “Reaction Qualifications Revisited”, *Social Theory and Practice*, 35(3): 413–439. doi: 10.5840/soctheorpract200935324
+* –––, 2014, *Born Free and Equal? A Philosophical Inquiry into the Nature of Discrimination*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199796113.001.0001
 * –––, 2016, *Luck Egalitarianism*, (Bloomsbury Ethics Series), London: Bloomsbury Academic.
-* –––, 2020, *Making Sense of Affirmative Action*, New York: Oxford University Press. doi:10.1093/oso/9780190648787.001.0001
-* Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigenetics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi:10.1093/phe/pht019
-* MacLeod, Colin M., 2002, “Liberal Equality and the Affective Family”, in *The Moral and Political Status of Children*, David Archard and Colin M. MacLeod (eds.), Oxford/New York: Oxford University Press, 212–230. doi:10.1093/0199242682.003.0012
+* –––, 2020, *Making Sense of Affirmative Action*, New York: Oxford University Press. doi: 10.1093/oso/9780190648787.001.0001
+* Loi, Michele, Lorenzo Del Savio, and Elia Stupka, 2013, “Social Epigenetics and Equality of Opportunity”, *Public Health Ethics*, 6(2): 142–153. doi: 10.1093/phe/pht019
+* MacLeod, Colin M., 2002, “Liberal Equality and the Affective Family”, in *The Moral and Political Status of Children*, David Archard and Colin M. MacLeod (eds.), Oxford/New York: Oxford University Press, 212–230. doi: 10.1093/0199242682.003.0012
 * Markovits, Daniel, 2019, *The Meritocracy Trap: How America’s Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite*, New York: Penguin Press.
-* Mason, Andrew, 2001, “Equality of Opportunity, Old and New”, *Ethics*, 111(4): 760–781. doi:10.1086/233572
-* –––, 2006, *Levelling the Playing Field: The Idea of Equal Opportunity and Its Place in Egalitarian Thought*, (Oxford Political Theory), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199264414.001.0001
-* –––, 2017, “Appearance, Discrimination, and Reaction Qualifications”, *Journal of Political Philosophy*, 25(1): 48–71. doi:10.1111/jopp.12099
-* Miller, David, 1996, “Two Cheers for Meritocracy”, *Journal of Political Philosophy*, 4(4): 277–301. doi:10.1111/j.1467-9760.1996.tb00053.x
+* Mason, Andrew, 2001, “Equality of Opportunity, Old and New”, *Ethics*, 111(4): 760–781. doi: 10.1086/233572
+* –––, 2006, *Levelling the Playing Field: The Idea of Equal Opportunity and Its Place in Egalitarian Thought*, (Oxford Political Theory), Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199264414.001.0001
+* –––, 2017, “Appearance, Discrimination, and Reaction Qualifications”, *Journal of Political Philosophy*, 25(1): 48–71. doi: 10.1111/jopp.12099
+* Miller, David, 1996, “Two Cheers for Meritocracy”, *Journal of Political Philosophy*, 4(4): 277–301. doi: 10.1111/j.1467-9760.1996.tb00053.x
 * –––, 1997, “What Kind of Equality Should the Left Pursue?” in *Equality*, Jane Franklin (ed.), London: Institute for Public Policy Research, 83–100.
 * –––, 1999, *Principles of Social Justice*, Cambridge, MA: Harvard University Press.
-* –––, 2005, “Against Global Egalitarianism”, *The Journal of Ethics*, 9(1–2): 55–79. doi:10.1007/s10892-004-3319-6
-* –––, 2013, “Equality of Opportunity and the Family”, in his *Justice for Earthlings: Essays in Political Philosophy*, Cambridge: Cambridge University Press, 115–141 (ch. 5). doi:10.1017/CBO9781139236898.006
-* –––, 2014, “The Incoherence of Luck Egalitarianism”, in *Distributive Justice and Access to Advantage: G.A. Cohen’s egalitarianism*, Alexander Kaufman (ed.), Cambridge: Cambridge University Press, 131–150. doi:10.1017/CBO9781139940924.009
+* –––, 2005, “Against Global Egalitarianism”, *The Journal of Ethics*, 9(1–2): 55–79. doi: 10.1007/s10892-004-3319-6
+* –––, 2013, “Equality of Opportunity and the Family”, in his *Justice for Earthlings: Essays in Political Philosophy*, Cambridge: Cambridge University Press, 115–141 (ch. 5). doi: 10.1017/CBO9781139236898.006
+* –––, 2014, “The Incoherence of Luck Egalitarianism”, in *Distributive Justice and Access to Advantage: G.A. Cohen’s egalitarianism*, Alexander Kaufman (ed.), Cambridge: Cambridge University Press, 131–150. doi: 10.1017/CBO9781139940924.009
 * Moellendorf, Darrel, 2002, *Cosmopolitan Justice*, Boulder, CO: Westview Press.
-* Morse, Jennifer Roback, 1999, “No Families, No Freedom: Human Flourishing in a Free Society”, *Social Philosophy and Policy*, 16(1): 290–314. doi:10.1017/S0265052500002338
-* Munoz-Dardé, Véronique, 1999, “Is the Family to Be Abolished Then?”, *Proceedings of the Aristotelian Society*, 99: 37–56. doi:10.1111/1467-9264.00044
-* Nickel, James W., 1972, “Discrimination and Morally Relevant Characteristics”, *Analysis*, 32(4): 113–114. doi:10.1093/analys/32.4.113
+* Morse, Jennifer Roback, 1999, “No Families, No Freedom: Human Flourishing in a Free Society”, *Social Philosophy and Policy*, 16(1): 290–314. doi: 10.1017/S0265052500002338
+* Munoz-Dardé, Véronique, 1999, “Is the Family to Be Abolished Then?”, *Proceedings of the Aristotelian Society*, 99: 37–56. doi: 10.1111/1467-9264.00044
+* Nickel, James W., 1972, “Discrimination and Morally Relevant Characteristics”, *Analysis*, 32(4): 113–114. doi: 10.1093/analys/32.4.113
 * Okin, Susan Moller, 1989, *Justice, Gender, and the Family*, New York: Basic Books.
-* Olsaretti, Serena, 2009, “Responsibility and the Consequences of Choice”, *Proceedings of the Aristotelian Society*, 109(pt2): 165–188. doi:10.1111/j.1467-9264.2009.00263.x
-* –––, 2013, “Children as Public Goods?: Children as Public Goods?”, *Philosophy & Public Affairs*, 41(3): 226–258. doi:10.1111/papa.12019
+* Olsaretti, Serena, 2009, “Responsibility and the Consequences of Choice”, *Proceedings of the Aristotelian Society*, 109(pt2): 165–188. doi: 10.1111/j.1467-9264.2009.00263.x
+* –––, 2013, “Children as Public Goods?: Children as Public Goods?”, *Philosophy & Public Affairs*, 41(3): 226–258. doi: 10.1111/papa.12019
 * Parekh, Bhikhu, 2000, *Rethinking Multiculturalism: Cultural Diversity and Political Theory*, Houndsmill: Macmillan Press.
 * Persson, Ingmar, 2007, “A Defence of Extreme Egalitarianism”, in *Egalitarianism: New Essays on the Nature and Value of Equality*, Nils Holtug and Kasper Lippert-Rasmussen (eds), Oxford: Clarendon Press.
-* Phillips, Anne, 2004, “Defending Equality of Outcome”, *Journal of Political Philosophy*, 12(1): 1–19. doi:10.1111/j.1467-9760.2004.00188.x
-* –––, 2006, “‘Really’ Equal: Opportunities and Autonomy”, *Journal of Political Philosophy*, 14(1): 18–32. doi:10.1111/j.1467-9760.2006.00241.x
-* Pogge, Thomas W., 1994, “An Egalitarian Law of Peoples”, *Philosophy & Public Affairs*, 23(3): 195–224. doi:10.1111/j.1088-4963.1994.tb00011.x
-* Radcliffe Richards, Janet, 1997, “Equality of Opportunity”, *Ratio*, new series 10(3): 253–279. doi:10.1111/1467-9329.00044
+* Phillips, Anne, 2004, “Defending Equality of Outcome”, *Journal of Political Philosophy*, 12(1): 1–19. doi: 10.1111/j.1467-9760.2004.00188.x
+* –––, 2006, “‘Really’ Equal: Opportunities and Autonomy”, *Journal of Political Philosophy*, 14(1): 18–32. doi: 10.1111/j.1467-9760.2006.00241.x
+* Pogge, Thomas W., 1994, “An Egalitarian Law of Peoples”, *Philosophy & Public Affairs*, 23(3): 195–224. doi: 10.1111/j.1088-4963.1994.tb00011.x
+* Radcliffe Richards, Janet, 1997, “Equality of Opportunity”, *Ratio*, new series 10(3): 253–279. doi: 10.1111/1467-9329.00044
 * Rawls, John, 1999, *A Theory of Justice* (revised edition), Cambridge, MA: Harvard University Press.
 * –––, 2001, *Justice as Fairness: A Restatement*, Erin Kelly (ed.), Cambridge, MA: Belknap Press.
-* Risse, Mathias, 2002, “What Equality of Opportunity Could Not Be”, *Ethics*, 112(4): 720–747. doi:10.1086/340473
-* Riva, Nicola, 2015, “Equal Chances and Equal Options: Two Conceptions of Equality of Opportunity”, *Ratio Juris*, 28(2): 293–306. doi:10.1111/raju.12083
-* Roemer, John E., 1998, *Equality of Opportunity*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674042872
-* –––, 2002, “Equality of Opportunity: A Progress Report”, *Social Choice and Welfare*, 19(2): 455–471. doi:10.1007/s003550100123
-* –––, 2003, “Defending Equality of Opportunity”:, *Monist*, 86(2): 261–282. doi:10.5840/monist200386210
+* Risse, Mathias, 2002, “What Equality of Opportunity Could Not Be”, *Ethics*, 112(4): 720–747. doi: 10.1086/340473
+* Riva, Nicola, 2015, “Equal Chances and Equal Options: Two Conceptions of Equality of Opportunity”, *Ratio Juris*, 28(2): 293–306. doi: 10.1111/raju.12083
+* Roemer, John E., 1998, *Equality of Opportunity*, Cambridge, MA: Harvard University Press. doi: 10.4159/9780674042872
+* –––, 2002, “Equality of Opportunity: A Progress Report”, *Social Choice and Welfare*, 19(2): 455–471. doi: 10.1007/s003550100123
+* –––, 2003, “Defending Equality of Opportunity”:, *Monist*, 86(2): 261–282. doi: 10.5840/monist200386210
 * Sandel, Michael J., 2020, *The Tyranny of Merit: What’s Become of the Common Good?*, New York: Farrar, Straus and Giroux.
-* Scheffler, Samuel, 2003, “What Is Egalitarianism?”, *Philosophy & Public Affairs*, 31(1): 5–39. doi:10.1111/j.1088-4963.2003.00005.x
-* –––, 2005, “Choice, Circumstance, and the Value of Equality”, *Politics, Philosophy & Economics*, 4(1): 5–28. doi:10.1177/1470594X05049434
-* Segall, Shlomi, 2007, “In Solidarity with the Imprudent: A Defense of Luck Egalitarianism”, *Social Theory and Practice*, 33(2): 177–198. doi:10.5840/soctheorpract200733224
+* Scheffler, Samuel, 2003, “What Is Egalitarianism?”, *Philosophy & Public Affairs*, 31(1): 5–39. doi: 10.1111/j.1088-4963.2003.00005.x
+* –––, 2005, “Choice, Circumstance, and the Value of Equality”, *Politics, Philosophy & Economics*, 4(1): 5–28. doi: 10.1177/1470594X05049434
+* Segall, Shlomi, 2007, “In Solidarity with the Imprudent: A Defense of Luck Egalitarianism”, *Social Theory and Practice*, 33(2): 177–198. doi: 10.5840/soctheorpract200733224
 * –––, 2013, *Equality and Opportunity*, Oxford: Oxford University Press.
-* Seligman, Matthew, 2007, “Luck, Leverage, and Equality: A Bargaining Problem for Luck Egalitarians”, *Philosophy & Public Affairs*, 35(3): 266–292. doi:10.1111/j.1088-4963.2007.00111.x
+* Seligman, Matthew, 2007, “Luck, Leverage, and Equality: A Bargaining Problem for Luck Egalitarians”, *Philosophy & Public Affairs*, 35(3): 266–292. doi: 10.1111/j.1088-4963.2007.00111.x
 * Sher, George, 1975, “Justifying Reverse Discrimination in Employment”, *Philosophy & Public Affairs*, 4(2): 159–170.
 * –––, 1988, “Qualifications, Fairness and Desert”, in Bowie 1988: 113–127.
-* Sreenivasan, Gopal, 2014, “Equality, Opportunity, Ambiguity”, *Politics, Philosophy & Economics*, 13(1): 82–92. doi:10.1177/1470594X13496071
-* Stemplowska, Zofia, 2009, “Making Justice Sensitive to Responsibility”, *Political Studies*, 57(2): 237–259. doi:10.1111/j.1467-9248.2008.00731.x
-* –––, 2013, “Rescuing Luck Egalitarianism”, *Journal of Social Philosophy*, 44(4): 402–419. doi:10.1111/josp.12039
+* Sreenivasan, Gopal, 2014, “Equality, Opportunity, Ambiguity”, *Politics, Philosophy & Economics*, 13(1): 82–92. doi: 10.1177/1470594X13496071
+* Stemplowska, Zofia, 2009, “Making Justice Sensitive to Responsibility”, *Political Studies*, 57(2): 237–259. doi: 10.1111/j.1467-9248.2008.00731.x
+* –––, 2013, “Rescuing Luck Egalitarianism”, *Journal of Social Philosophy*, 44(4): 402–419. doi: 10.1111/josp.12039
 * Strauss, David A., 1992, “The Illusory Distinction between Equality of Opportunity and Equality of Result”, *William and Mary Law Review*, 34(1): 171–188.
-* Swift, Adam, 2005, “Justice, Luck, and The Family: The Intergenerational Transmission of Economic Advantage From a Normative Perspective”, in *Unequal Chances: Family Background and Economic Success*, Samuel Bowles, Herbert Gintis, and Melissa Osborne Groves (eds.), Princeton, NJ: Princeton University Press, 256–276. doi:10.1515/9781400835492.256
-* –––, 2008, “The Value of Philosophy in Nonideal Circumstances”:, *Social Theory and Practice*, 34(3): 363–387. doi:10.5840/soctheorpract200834322
+* Swift, Adam, 2005, “Justice, Luck, and The Family: The Intergenerational Transmission of Economic Advantage From a Normative Perspective”, in *Unequal Chances: Family Background and Economic Success*, Samuel Bowles, Herbert Gintis, and Melissa Osborne Groves (eds.), Princeton, NJ: Princeton University Press, 256–276. doi: 10.1515/9781400835492.256
+* –––, 2008, “The Value of Philosophy in Nonideal Circumstances”:, *Social Theory and Practice*, 34(3): 363–387. doi: 10.5840/soctheorpract200834322
 * –––, 2014, *Political Philosophy: A Beginners’ Guide for Students and Politicians*, third edition, Malden, MA: Polity Press.
-* Swift, Adam and Gordon Marshall, 1997, “Meritocratic Equality of Opportunity: Economic Efficiency, Social Justice, or Both?”, *Policy Studies*, 18(1): 35–48. doi:10.1080/01442879708423720
-* Tan, Kok-Chor, 2008, “A Defense of Luck Egalitarianism”, *Journal of Philosophy*, 105(11): 665–690. doi:10.5840/jphil20081051120
+* Swift, Adam and Gordon Marshall, 1997, “Meritocratic Equality of Opportunity: Economic Efficiency, Social Justice, or Both?”, *Policy Studies*, 18(1): 35–48. doi: 10.1080/01442879708423720
+* Tan, Kok-Chor, 2008, “A Defense of Luck Egalitarianism”, *Journal of Philosophy*, 105(11): 665–690. doi: 10.5840/jphil20081051120
 * Tannsjo, Torbjorn, 2007, “Against Sexual Discrimination in Sports”, in *Ethics in Sport*, second edition, William J. Morgan (ed.), Champaign, IL: Human Kinetics, 347–358 (ch. 27).
 * Tawney, R. H., 1931, *Equality*, London: George Allen and Unwin.
 * Temkin, Larry S., 1993, *Inequality*, New York: Oxford University Press.
-* –––, 2011, “Justice, Equality, Fairness, Desert, Rights, Free Will, Responsibility, and Luck” in Knight and Stemplowska 2011: 51–76 (ch. 2). doi:10.1093/acprof:oso/9780199565801.003.0003
-* –––, 2016, “The Many Faces of Equal Opportunity”, *Theory and Research in Education*, 14(3): 255–276. doi:10.1177/1477878516680410
+* –––, 2011, “Justice, Equality, Fairness, Desert, Rights, Free Will, Responsibility, and Luck” in Knight and Stemplowska 2011: 51–76 (ch. 2). doi: 10.1093/acprof: oso/9780199565801.003.0003
+* –––, 2016, “The Many Faces of Equal Opportunity”, *Theory and Research in Education*, 14(3): 255–276. doi: 10.1177/1477878516680410
 * Thomson, Judith Jarvis, 1973, “Preferential Hiring”, *Philosophy & Public Affairs*, 2(4): 364–384.
-* Valls, Andrew, 1999, “The Libertarian Case for Affirmative Action”:, *Social Theory and Practice*, 25(2): 299–323. doi:10.5840/soctheorpract199925218
-* Voigt, Kristin, 2007, “The Harshness Objection: Is Luck Egalitarianism Too Harsh on the Victims of Option Luck?”, *Ethical Theory and Moral Practice*, 10(4): 389–407. doi:10.1007/s10677-006-9060-4
-* Voorhoeve, Alex, 2008, “Scanlon on Substantive Responsibility”, *Journal of Political Philosophy*, 16(2): 184–200. doi:10.1111/j.1467-9760.2007.00297.x
-* Wertheimer, Alan, 1983, “Jobs, Qualifications, and Preferences”, *Ethics*, 94(1): 99–112. doi:10.1086/292512
-* Westen, Peter, 1985, “The Concept of Equal Opportunity”, *Ethics*, 95(4): 837–850. doi:10.1086/292687
+* Valls, Andrew, 1999, “The Libertarian Case for Affirmative Action”:, *Social Theory and Practice*, 25(2): 299–323. doi: 10.5840/soctheorpract199925218
+* Voigt, Kristin, 2007, “The Harshness Objection: Is Luck Egalitarianism Too Harsh on the Victims of Option Luck?”, *Ethical Theory and Moral Practice*, 10(4): 389–407. doi: 10.1007/s10677-006-9060-4
+* Voorhoeve, Alex, 2008, “Scanlon on Substantive Responsibility”, *Journal of Political Philosophy*, 16(2): 184–200. doi: 10.1111/j.1467-9760.2007.00297.x
+* Wertheimer, Alan, 1983, “Jobs, Qualifications, and Preferences”, *Ethics*, 94(1): 99–112. doi: 10.1086/292512
+* Westen, Peter, 1985, “The Concept of Equal Opportunity”, *Ethics*, 95(4): 837–850. doi: 10.1086/292687
 * Williams, Bernard, 1962 [1973], “The Idea of Equality”, in Peter Laslett and W. G. Runciman (eds.), *Philosophy, Politics and Society* (2nd Series), Oxford: Blackwell, 110–131; reprinted in B. Williams, *Problems of the Self: Philosophical Papers 1956–1972*, Cambridge: Cambridge University Press, 1973, 230–249 (ch. 14).
-* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi:10.1111/j.1088-4963.1998.tb00063.x
-* –––, 2017, “Forms of Differential Social Inclusion”, *Social Philosophy and Policy*, 34(1): 164–185. doi:10.1017/S0265052517000085
+* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi: 10.1111/j.1088-4963.1998.tb00063.x
+* –––, 2017, “Forms of Differential Social Inclusion”, *Social Philosophy and Policy*, 34(1): 164–185. doi: 10.1017/S0265052517000085
 
 ## Academic Tools
 

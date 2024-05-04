@@ -36,7 +36,7 @@ d.
 
 句子（1a）通常用于断言。说话者会告诉或告知听话者冰箱里有一瓶啤酒。这样的话语被称为断言性的。相比之下，（1b）用于提问（话语则是疑问的），（1c）用于表达愿望（愿望语气），（1d）用于发出命令或请求（祈使语气）。本条目讨论的是第一种话语，以及通过它们进行的言语行为。
 
-戈特洛布·弗雷格强调了判断思想内容（弗雷格称之为思想）为真和仅仅思考/娱乐该内容之间的区别。两者都与内容本身不同。类似地，他区分了具有断言性质或力量（见下文）的话语和没有断言性质的话语。例如，一个断言性的话语
+戈特洛布 · 弗雷格强调了判断思想内容（弗雷格称之为思想）为真和仅仅思考/娱乐该内容之间的区别。两者都与内容本身不同。类似地，他区分了具有断言性质或力量（见下文）的话语和没有断言性质的话语。例如，一个断言性的话语
 
 (2)
 
@@ -46,9 +46,9 @@ d.
 
 像弗雷格一样，C.S.皮尔斯强调了区分“命题和人们对其的处理方式”的重要性。他也隐含地采用了力量和内容的区别：
 
-> 同一命题可以被肯定、否定、判断、怀疑、内心探究、提问、希望、要求、有效命令、教授或仅仅表达，并且由此并不成为不同的命题（皮尔斯[NEM]：248）[2]。
+> 同一命题可以被肯定、否定、判断、怀疑、内心探究、提问、希望、要求、有效命令、教授或仅仅表达，并且由此并不成为不同的命题（皮尔斯 [NEM]：248）[2]。
 
-弗雷格将话语的断言性质描述为话语的断言力量（“behauptende Kraft”；弗雷格 1918a[TFR: 330]）。这个想法后来被一般言语行为理论的奠基人 J.L.奥斯汀（1962[1975: 99-100]）接受。奥斯汀区分了几个层次的言语行为，包括：言语行为、言辞行为和言辞效果行为。言语行为是“以完全正常的意义上‘说某事’的行为”（1962[1975: 94]），即用某些具有特定意义的词语在特定的语法结构中表达，例如将“我喜欢冰淇淋”作为英语句子说出。
+弗雷格将话语的断言性质描述为话语的断言力量（“behauptende Kraft”；弗雷格 1918a [TFR: 330]）。这个想法后来被一般言语行为理论的奠基人 J.L.奥斯汀（1962 [1975: 99-100]）接受。奥斯汀区分了几个层次的言语行为，包括：言语行为、言辞行为和言辞效果行为。言语行为是“以完全正常的意义上‘说某事’的行为”（1962 [1975: 94]），即用某些具有特定意义的词语在特定的语法结构中表达，例如将“我喜欢冰淇淋”作为英语句子说出。
 
 通过示例（1962 [1975: 98–102]），奥斯汀引入了言语行为的概念，并且这是正常的程序。言语行为是指断言、提问、警告、威胁、宣布裁决或意图、约定、下令、表达愿望、提出请求等行为。通过提问的方式发出的句子，即言语行为，具有疑问的力量；如果进行断言，则具有断言的力量。
 
@@ -70,9 +70,9 @@ d.
 
 作为对明示/执行区分的替代，奥斯汀提出了五类言行类型（或言行动词）：裁决性、执行性、承诺性、习性和解释性（奥斯汀 1962 [1975: 151–64]）。例如，你作为法官宣判时，你展示了裁决性；通过任命、投票或建议来展示执行性；通过承诺、承担或声明你将做某事来展示承诺性；通过道歉、批评、诅咒或祝贺来展示习性；通过适当前缀为“我回答”、“我辩论”、“我承认”等的行为来展示解释性，具有一般性的解释性质。
 
-在这个分类中，断言最好放在解释性语句下面，因为前缀“I assert”是或可能是解释性的性质。奥斯汀在他的第一组解释性语句中明确包括了动词“affirm”、“deny”和“state”（1962 [1975: 162]）。玛丽娜·斯比萨（2020）认为，断言既属于解释性语句，也属于判断性语句，因为断言表达了一个判断/裁决。
+在这个分类中，断言最好放在解释性语句下面，因为前缀“I assert”是或可能是解释性的性质。奥斯汀在他的第一组解释性语句中明确包括了动词“affirm”、“deny”和“state”（1962 [1975: 162]）。玛丽娜 · 斯比萨（2020）认为，断言既属于解释性语句，也属于判断性语句，因为断言表达了一个判断/裁决。
 
-其他分类法也有提出，例如斯蒂芬·希弗（1972）、约翰·西尔（1975b）、肯特·巴赫和罗伯特·M·哈尼什（1979）、弗朗索瓦·雷卡纳蒂（1987）和威廉·P·奥尔斯顿（2000）[5]。
+其他分类法也有提出，例如斯蒂芬 · 希弗（1972）、约翰 · 西尔（1975b）、肯特 · 巴赫和罗伯特 ·M· 哈尼什（1979）、弗朗索瓦 · 雷卡纳蒂（1987）和威廉 ·P· 奥尔斯顿（2000）[5]。
 
 ## 2. 语用学
 
@@ -86,7 +86,7 @@ d.
 
 开普勒在贫困中死去。
 
-除非特定的术语“开普勒”具有指称，否则“开普勒在贫困中死去”是不真实的。然而，弗雷格认为，通过（4）这种方式断言开普勒在贫困中死去的说话者并不断言“开普勒”具有指称（弗雷格 1892 年[TPW: 69]）。开普勒具有指称并不是该句的意义的一部分。弗雷格的理由是，如果是这样的话，它的否定的意义就会是
+除非特定的术语“开普勒”具有指称，否则“开普勒在贫困中死去”是不真实的。然而，弗雷格认为，通过（4）这种方式断言开普勒在贫困中死去的说话者并不断言“开普勒”具有指称（弗雷格 1892 年 [TPW: 69]）。开普勒具有指称并不是该句的意义的一部分。弗雷格的理由是，如果是这样的话，它的否定的意义就会是
 
 (5)
 
@@ -98,13 +98,13 @@ d.
 
 (6)
 
-约翰设法[没设法]及时停下来。
+约翰设法 [没设法] 及时停下来。
 
 暗示约翰试图及时停下来，而
 
 (7)
 
-玛莎后悔[不后悔]喝了约翰自酿的酒。
+玛莎后悔 [不后悔] 喝了约翰自酿的酒。
 
 暗示玛莎喝了约翰自酿的酒。
 
@@ -120,7 +120,7 @@ d.
 
 ### 2.2 蕴涵
 
-弗雷格（1879：[TPW:10]）指出，像这样的句子在真值条件内容上没有区别，例如
+弗雷格（1879：[TPW: 10]）指出，像这样的句子在真值条件内容上没有区别，例如
 
 (9)
 
@@ -176,7 +176,7 @@ B 断言他不知道约翰在加拿大的夏天在哪里度过。推理如下：
 
 你能递给我盐吗？
 
-通过说一个疑问句，说话者请求被说话对象递给他盐。这个请求是间接的。这个问题，字面上关于被说话对象是否能递给他盐，是直接的。根据约翰·西尔（1975b: 59–60）的定义，以及巴赫和哈尼什（1979: 70）的定义，间接言语行为是从属于另一个更主要的行为，并且依赖于第一个行为的成功。萨多克（1974: 73）给出的另一个定义是，如果一个行为与所使用的句型标准相关的言语力与之不同，那么这个行为就是间接的。
+通过说一个疑问句，说话者请求被说话对象递给他盐。这个请求是间接的。这个问题，字面上关于被说话对象是否能递给他盐，是直接的。根据约翰 · 西尔（1975b: 59–60）的定义，以及巴赫和哈尼什（1979: 70）的定义，间接言语行为是从属于另一个更主要的行为，并且依赖于第一个行为的成功。萨多克（1974: 73）给出的另一个定义是，如果一个行为与所使用的句型标准相关的言语力与之不同，那么这个行为就是间接的。
 
 通过问题和命令/请求的间接断言的例子由...给出。
 
@@ -210,7 +210,7 @@ b.
 
 ### 2.4 明确性
 
-一个相关的问题是言辞可以偏离明确性的程度，但仍然被视为断言，无论是适当的还是间接的。根据一种直觉，一旦听者无法完全确定言辞的预期内容或其表达的力度，该言辞就无法成为断言。不确定性是关键问题。这一点已经由伊丽莎白·弗里克（2012 年）提出争论。但这个问题是有争议的，已经提出了几种不同的反对意见，例如约翰·霍桑（2012 年）、安德鲁·皮特（2015 年，即将出版）和曼努埃尔·加西亚-卡平特罗（2016 年，2019b 年）[10]。
+一个相关的问题是言辞可以偏离明确性的程度，但仍然被视为断言，无论是适当的还是间接的。根据一种直觉，一旦听者无法完全确定言辞的预期内容或其表达的力度，该言辞就无法成为断言。不确定性是关键问题。这一点已经由伊丽莎白 · 弗里克（2012 年）提出争论。但这个问题是有争议的，已经提出了几种不同的反对意见，例如约翰 · 霍桑（2012 年）、安德鲁 · 皮特（2015 年，即将出版）和曼努埃尔 · 加西亚-卡平特罗（2016 年，2019b 年）[10]。
 
 ## 3. 描述性解释，内容导向
 
@@ -218,7 +218,7 @@ b.
 
 ### 3.1 关于真理的关系
 
-弗雷格（1918a [TFR: 329]）认为，断言是对判断（Urteil）的外在表示。在弗雷格看来，判断是从思考一个思想到承认其真实性的一步（弗雷格 1892 年[TPW: 64]）[11]。主体首先仅仅思考 p 的思想，然后在判断阶段，继续承认它为真。对于弗雷格来说，由于真值是一个句子的指称（Bedeutung），判断是从一个句子的意义到其指称的进展。如果主体犯了错误，那么它不是实际的指称，而是主体认为它具有的指称。
+弗雷格（1918a [TFR: 329]）认为，断言是对判断（Urteil）的外在表示。在弗雷格看来，判断是从思考一个思想到承认其真实性的一步（弗雷格 1892 年 [TPW: 64]）[11]。主体首先仅仅思考 p 的思想，然后在判断阶段，继续承认它为真。对于弗雷格来说，由于真值是一个句子的指称（Bedeutung），判断是从一个句子的意义到其指称的进展。如果主体犯了错误，那么它不是实际的指称，而是主体认为它具有的指称。
 
 对于弗雷格来说，真理并不是相对的。思想只有一个评估点，即世界本身。如果我们接受多个评估点，比如不同的可能世界，那么简单的真理就等同于在实际世界上的真理。然后，我们可以调整弗雷格的观点，说判断 p 是在实际世界上的指称，或者再次说，在实际世界上评估为真。
 
@@ -258,7 +258,7 @@ c.
 
 因此，存在着“作为真实呈现”的较弱意义，这并不要求呈现本身具有断言力量（就像瓶子上的过时标签），而这些意义太弱了。显然还存在一种更强的意义，它确实需要断言力量（适用于标签被认为有效的情况），但这正是我们想要（非循环地）解释的。仅仅使用“作为真实呈现”这个短语本身并没有帮助。
 
-以真实相关态度来描述断言的另一个想法是，断言旨在追求真理。例如，这一点被伯纳德·威廉姆斯（1966 年）、迈克尔·达梅特（1973 [1981 年]）以及最近的马西利（2018 年）都提到过。"追求真理"的概念可以以不同的方式理解（关于相信追求真理可能是什么意思的一些理解方式，请参见恩格尔 2004 年和格吕尔和维克福斯 2013 年）。
+以真实相关态度来描述断言的另一个想法是，断言旨在追求真理。例如，这一点被伯纳德 · 威廉姆斯（1966 年）、迈克尔 · 达梅特（1973 [1981 年]）以及最近的马西利（2018 年）都提到过。"追求真理" 的概念可以以不同的方式理解（关于相信追求真理可能是什么意思的一些理解方式，请参见恩格尔 2004 年和格吕尔和维克福斯 2013 年）。
 
 威廉姆斯（1966 年）以不同的方式描述了断言的目标。对他来说，追求真理的属性是区分事实陈述性话语与评价性或指令性话语的特征。自然而然地想到
 
@@ -310,11 +310,11 @@ iii.
 
 斯塔尔纳克对第一条规则进行了评论：
 
-> 断言与预设相矛盾是自我打败的[...] 而断言已经预设的事情是试图做已经完成的事情。
+> 断言与预设相矛盾是自我打败的 [...] 而断言已经预设的事情是试图做已经完成的事情。
 
-在这种方法中，前提的满足是断言的准入条件（参见 Karttunen 1974; Heim 1988）。这个想法与奥斯汀更一般的言语行为幸福条件的想法相联系[14]。斯塔尔内克是否提供了关于断言本身的解释？答案是否定的，因为断言的角色也被其他言语行为（如假设和猜测）所共享（斯塔尔内克 1978: 153）。添加到共同基础的内容仅用于对话的目的，并不一定被参与者实际相信。只要被接受即可（参见斯塔尔内克 2002: 716）。
+在这种方法中，前提的满足是断言的准入条件（参见 Karttunen 1974; Heim 1988）。这个想法与奥斯汀更一般的言语行为幸福条件的想法相联系 [14]。斯塔尔内克是否提供了关于断言本身的解释？答案是否定的，因为断言的角色也被其他言语行为（如假设和猜测）所共享（斯塔尔内克 1978: 153）。添加到共同基础的内容仅用于对话的目的，并不一定被参与者实际相信。只要被接受即可（参见斯塔尔内克 2002: 716）。
 
-斯塔尔内克（据我们所知）并没有试图为模型添加断言的区别特征。然而，这一点已经被谢弗（2008 年）、科尔贝尔（2011: 68–70）和斯托克（2013 年）尝试过[15]。
+斯塔尔内克（据我们所知）并没有试图为模型添加断言的区别特征。然而，这一点已经被谢弗（2008 年）、科尔贝尔（2011: 68–70）和斯托克（2013 年）尝试过 [15]。
 
 帕金（2011 年，2020 年）提供了另一种认知解释。这个解释可以用短语“断言是一个表达初步信息的话语”来概括。对于一个话语来说，它是信息性的，意味着它在一定程度上是“因为它是真实的”。这意味着对于说话者和听话者来说，其含义是不同的，但是互补的。对于说话者来说，使用特定的句子的原因之一是它是真实的（在特定语境中）；也就是说，说话者相信这个句子表达了一个真实的命题，并且部分因为这个原因而说出来。对于听话者来说，将话语视为信息性的意味着默认情况下，作为对话语的回应，他们会更新对命题的置信度，向上调整到超过 0.5 的水平。
 
@@ -344,7 +344,7 @@ Jary（2010）中还有另一种认知解释。Jary 的解释是基于关联理�
 
 （“R-intend”如上所述，是“反身意图”的简称）。根据这个观点，表达完全是关于面向听者的意图的问题。
 
-这个提议的优点是涵盖了真诚和不真诚的情况，但缺点是需要高度的复杂性。相比之下，伯纳德·威廉姆斯（2002 年：74）声称真诚的断言只是以更原始和不复杂的方式直接表达信念。不真诚的断言是不同的。根据威廉姆斯（2002 年：74）的说法，在一个断言中，发言者要么直接表达信念，要么他打算让听者“接受”他有这个信念（参见欧文斯 2006）。
+这个提议的优点是涵盖了真诚和不真诚的情况，但缺点是需要高度的复杂性。相比之下，伯纳德 · 威廉姆斯（2002 年：74）声称真诚的断言只是以更原始和不复杂的方式直接表达信念。不真诚的断言是不同的。根据威廉姆斯（2002 年：74）的说法，在一个断言中，发言者要么直接表达信念，要么他打算让听者“接受”他有这个信念（参见欧文斯 2006）。
 
 可能，所提到的意图是关于听者对发言者的信念的意图。在这种情况下，对所需的复杂性的反对意见就不那么紧迫了，因为它只涉及不真诚的断言。然而，威廉姆斯的想法（如格赖斯 1969 年所述）则相反，没有考虑到更多的复杂性。这个想法，即真诚的替代是意图让听者相信发言者相信他所断言的内容，不够普遍。例如，有双重欺骗，发言者断言真实的事实，以欺骗听者，发言者相信听者会期望发言者撒谎。再者，一个不真诚的发言者 S 断言 p，可能知道听者 A 知道 S 不相信 p，但仍然打算让 A 相信 S 不知道 A 的知识，正是通过断言 p。欺骗发言者计算的复杂性没有明确的上限。此外，发言者可能只是敷衍了事，重申一个断言，没有任何希望说服听者相信任何事情。
 
@@ -370,7 +370,7 @@ Mitchell S. Green（2007）采取了一种有关的方法，他诉诸于“表�
 
 从而代表自己断言他在生物系，因为他代表自己是一个真诚断言他在生物系的人。通过这种方式，他在某种意义上代表自己相信他在生物系。但观众并不被邀请相信说话者，也就是演员，有这种信念。
 
-显然，“代表”这个相关意义并不容易确定。尽管如此，它仍然被认为是追踪真实现象的证据，这常常被称为摩尔悖论。这个悖论断言的句子，例如“外面在下雨，但我不相信外面在下雨。”（摩尔式省略句）是明显奇怪的，甚至从表面上看是自相矛盾的，尽管它们很可能是真实的。在对摩尔悖论的不同解释中，摩尔自己强调了断言和相信之间的联系。摩尔的想法（1944 年：175-176；1912 年[1966 年：63]）是说，说话者在某种意义上暗示她相信自己所断言的内容。因此，通过断言（25），说话者在所断言的内容和所暗示的内容之间引发了矛盾。据说这个矛盾可以解释这种奇怪现象。[16]
+显然，“代表”这个相关意义并不容易确定。尽管如此，它仍然被认为是追踪真实现象的证据，这常常被称为摩尔悖论。这个悖论断言的句子，例如“外面在下雨，但我不相信外面在下雨。”（摩尔式省略句）是明显奇怪的，甚至从表面上看是自相矛盾的，尽管它们很可能是真实的。在对摩尔悖论的不同解释中，摩尔自己强调了断言和相信之间的联系。摩尔的想法（1944 年：175-176；1912 年 [1966 年：63]）是说，说话者在某种意义上暗示她相信自己所断言的内容。因此，通过断言（25），说话者在所断言的内容和所暗示的内容之间引发了矛盾。据说这个矛盾可以解释这种奇怪现象。[16]
 
 (25)
 
@@ -442,7 +442,7 @@ H 相信 p 的意图。
 
 根据巴赫和哈尼什的理解，演讲者 S 表达一种态度，只有在 S 反身地意图（反身地打算）使听者将 S 的话语视为理由来认为 S 具有那种态度。他们对意图的反身性质的理解与西尔相当一致。他们说（1979 年：15）沟通行为的预期效果不仅仅是通过承认产生某种效果的意图而产生的任何效果，而是对那种意图的承认。
 
-这些对反身意图的诉求后来受到了批评，特别是由斯珀伯和威尔逊（1986 [1995:256–257]）提出的。他们的观点是，如果一个意图 I 既有意图 J，又有意图让听者认识到 I，这将产生一个无限长的序列：意图：J 和听者认识到意图：J 和听者认识到意图：J 和……）。如果这是一个意图内容，那么它是无法理解的。[17]
+这些对反身意图的诉求后来受到了批评，特别是由斯珀伯和威尔逊（1986 [1995: 256–257]）提出的。他们的观点是，如果一个意图 I 既有意图 J，又有意图让听者认识到 I，这将产生一个无限长的序列：意图：J 和听者认识到意图：J 和听者认识到意图：J 和……）。如果这是一个意图内容，那么它是无法理解的。[17]
 
 除了断言的交际意图账户之外，还有更一般的问题，即发言者必须具备什么样的意图，才能使他的话语符合断言的要求。例如，他必须有意将其作为断言吗？必须是自愿发表吗？
 
@@ -454,7 +454,7 @@ H 相信 p 的意图。
 
 #### 5.1.1 现代方法：正确性和允许性
 
-长期以来，哲学家们一直对我们将断言描述为“正确的”、“合理的”、“适当的”、“允许的”、“可断言的”或“允许断言的”时的含义进行分析。后一种概念在实用主义和后来的反实在主义形式中被采纳。杜威（1938 年）似乎是第一个用断言的正确性来表征真理的人，他提出了保证性断言的概念，尽管这个想法与莫里茨·施利克（1936 年）的可验证性原则有明显的亲和性。杜威在继皮尔斯之后，将真理视为科学探究的理想极限（1938 年：345），只有在通过这样的探究而知道的命题才能被保证地断言。保证性断言是这样一种命题的属性，这种命题在其中存在这样的知识的潜在可能性（1938 年：9）。杜威后来被杜梅特（1976 年）和普特南（1981 年）所追随。他们共同的立场是，真理除了被最佳证据支持之外，不能有其他东西。在这些早期的讨论中，策略是通过诉诸于断言的正确性概念来把握真理，这被认为更为基本。根据杜梅特的观点，我们之所以能够得到与正确断言概念不同的真理概念，仅仅是因为复合句的语义（1976 年：50-52）。断言的正确性究竟包含什么内容的问题在早期的研究中并没有得到广泛讨论，但在上世纪 80 年代已经成为讨论的主题，其中包括博戈西安和其他人的研究。
+长期以来，哲学家们一直对我们将断言描述为“正确的”、“合理的”、“适当的”、“允许的”、“可断言的”或“允许断言的”时的含义进行分析。后一种概念在实用主义和后来的反实在主义形式中被采纳。杜威（1938 年）似乎是第一个用断言的正确性来表征真理的人，他提出了保证性断言的概念，尽管这个想法与莫里茨 · 施利克（1936 年）的可验证性原则有明显的亲和性。杜威在继皮尔斯之后，将真理视为科学探究的理想极限（1938 年：345），只有在通过这样的探究而知道的命题才能被保证地断言。保证性断言是这样一种命题的属性，这种命题在其中存在这样的知识的潜在可能性（1938 年：9）。杜威后来被杜梅特（1976 年）和普特南（1981 年）所追随。他们共同的立场是，真理除了被最佳证据支持之外，不能有其他东西。在这些早期的讨论中，策略是通过诉诸于断言的正确性概念来把握真理，这被认为更为基本。根据杜梅特的观点，我们之所以能够得到与正确断言概念不同的真理概念，仅仅是因为复合句的语义（1976 年：50-52）。断言的正确性究竟包含什么内容的问题在早期的研究中并没有得到广泛讨论，但在上世纪 80 年代已经成为讨论的主题，其中包括博戈西安和其他人的研究。
 
 #### 5.1.2 当代方法：断言的规范
 
@@ -678,7 +678,7 @@ DeRose 提出了一种并行解决方案，他区分了主要和次要的适当�
 
 只有在你有正当理由相信 p 的情况下才断言 p。
 
-由于（JBNA）要求既要有理据又要有信念，这意味着（JNA）和（BNA）都是真实的。但是，为了满足这个更严格的规范，我们应该如何描述理据？对于 Kvanvig（2009 年，2011 年）来说，相关概念是知识层面的理据：“在存在非盖蒂尔真信念的情况下足以支持知识的那种[理据]”（2009 年：156）；Coffman（2014 年）则辩护了这一要求的更强版本（可能是知识）。
+由于（JBNA）要求既要有理据又要有信念，这意味着（JNA）和（BNA）都是真实的。但是，为了满足这个更严格的规范，我们应该如何描述理据？对于 Kvanvig（2009 年，2011 年）来说，相关概念是知识层面的理据：“在存在非盖蒂尔真信念的情况下足以支持知识的那种 [理据]”（2009 年：156）；Coffman（2014 年）则辩护了这一要求的更强版本（可能是知识）。
 
 理据规则可能难以解释的一个问题是错误断言的错误性。错误断言似乎有一些固有的缺陷，而真实、有理据的断言显然比虚假、同样有理据的断言更有价值。但是（JNA）和（JBNA）无法解释错误性的缺陷。作为回应，Marsili（2018 年）指出，非事实性解释的支持者可以利用断言目标的概念：当我们进行断言时，我们意图描述世界的真实情况；只有当断言是真实的时候，我们的断言目标才能得到满足。根据这种观点，虚假的断言并不是不允许的，但仍然有缺陷，因为它们未能达到其所声称的目标。
 
@@ -730,7 +730,7 @@ Kneer（2017）还发现了确凿的证据表明，（JNA）比（KNA）、TNA �
 
 杜梅特（1973 [1981: 302, 311]）主张，言语行为的力度与句子类型之间存在传统的关联。根据这种观点，陈述句用于陈述，疑问句用于提问，祈使句用于命令和请求，这是一种约定。西尔（1969 年）和科特科（1998 年）也提出了类似的观点，而科尔贝尔（2010 年）则最近对这一观点进行了辩护。根据西尔（1969 年：38, 40）的观点，言语行为是传统的，而相关的约定规定了每种语言特定的力度指示设备（西尔 1969 年：64）。
 
-然而，断言行为类型在这个意义上是传统的观点遭到了很多反对。斯特劳森（1964: 153–154）早就反对普通的断言行为需要依赖任何约定来确定其力度，例如使用陈述句“那边的冰很薄”作为警告时。这种批评针对邓梅特，后来又得到了罗伯特·J·斯坦顿（1996 年，2006 年）的支持，他强调在适当的语境中，像“约翰的父亲”（指着一个男人）或“非常快”（看着一辆车）这样的子句可以用来作出断言，并给出了语言学的论证，说明并非所有这样的用法都可以被视为省略的情况（也就是说，作为省略一个句子的一部分，说话者和听话者心照不宣）。如果斯特劳森和斯坦顿是对的，那么约定对于进行断言并非必要。
+然而，断言行为类型在这个意义上是传统的观点遭到了很多反对。斯特劳森（1964: 153–154）早就反对普通的断言行为需要依赖任何约定来确定其力度，例如使用陈述句“那边的冰很薄”作为警告时。这种批评针对邓梅特，后来又得到了罗伯特 ·J· 斯坦顿（1996 年，2006 年）的支持，他强调在适当的语境中，像“约翰的父亲”（指着一个男人）或“非常快”（看着一辆车）这样的子句可以用来作出断言，并给出了语言学的论证，说明并非所有这样的用法都可以被视为省略的情况（也就是说，作为省略一个句子的一部分，说话者和听话者心照不宣）。如果斯特劳森和斯坦顿是对的，那么约定对于进行断言并非必要。
 
 此外，戴维森（1979 年，1984 年）强调，没有任何传统符号可以作为这种意义上的力度指示器，因为任何传统符号都可以（并且将会）在不真诚的话语中使用，其中相应的力度缺失，包括欺骗、笑话、模仿和其他戏剧表演的情况。巴赫和哈尼什（1979 年：122–127）也提出了基本相同的观点。如果戴维森、巴赫和哈尼什是对的，那么约定也是不充分的（但请参见 Kölbel 2010 年对这一观点的反驳）。
 
@@ -740,21 +740,21 @@ Kneer（2017）还发现了确凿的证据表明，（JNA）比（KNA）、TNA �
 
 ### 6.1 承诺
 
-断言具有规范性后果。为了描述断言的社会维度，一些作者关注当沟通者声称某事是真实的时候所承担的独特责任（"承诺"[32]）。我们将首先回顾两种理解断言承诺的主要方式。
+断言具有规范性后果。为了描述断言的社会维度，一些作者关注当沟通者声称某事是真实的时候所承担的独特责任（"承诺" [32]）。我们将首先回顾两种理解断言承诺的主要方式。
 
 第一个观点，我们可以称之为“承诺作为问责”，侧重于演讲者如果所声称的内容被证明是错误的，所接受的制裁。这种对断言的描述最早由皮尔斯提出：
 
-> 断言的行为[…]使[演讲者]在所声称的命题不真实的情况下，承担社会法律（或至少是道德法律）的惩罚责任，除非他有明确而充分的借口。（[CP]：2.315）
+> 断言的行为 […] 使 [演讲者] 在所声称的命题不真实的情况下，承担社会法律（或至少是道德法律）的惩罚责任，除非他有明确而充分的借口。（[CP]：2.315）
 
-威廉·P·奥尔斯顿（2000 年：55）如下所述：演讲者接受对内容 p 为真负责的责任，当且仅当演讲者接受责任。
+威廉 ·P· 奥尔斯顿（2000 年：55）如下所述：演讲者接受对内容 p 为真负责的责任，当且仅当演讲者接受责任。
 
 > 知 ingly [takes] on the liability to ([lay] herself open to) blame (censure, reproach, being taken to task, being called to account), in case of not-p.[ 33]
 
 在这里，责任的概念是规范性的：当你断言 p 时，你的听众获得了一种（可废止的）权利，如果你所说的是假的，他们有权批评你。从这个观点来看，断言类似于通过签署合同来承担责任，即你对某事（你所说的话）是真实的负责，并接受否则的后果。[ 34]
 
-为了强调这一点，一些作者写道，断言保证（皮尔斯[CP]：5.543；沃森 2004：66），确保（莫兰 2005，辛奇曼 2013）或担保（卡森 2006）他们的内容是真实的。然而，显然断言保证的不是他们的内容是真实的。可能是断言者接受了对自己有理由相信自己知道命题是真实的责任（格林 2009），或者他们知道命题是真实的。
+为了强调这一点，一些作者写道，断言保证（皮尔斯 [CP]：5.543；沃森 2004：66），确保（莫兰 2005，辛奇曼 2013）或担保（卡森 2006）他们的内容是真实的。然而，显然断言保证的不是他们的内容是真实的。可能是断言者接受了对自己有理由相信自己知道命题是真实的责任（格林 2009），或者他们知道命题是真实的。
 
-用来描述断言所产生的责任的另一种方式是关注说话者根据做出断言而期望做的事情。断言责任可以理解为一种以特定方式行动的承诺。当你做出断言时，你会产生一个期望，即你会以某种方式行为，而不是其他方式，特别是与你接下来要说的内容相关的方式。[35]举个简单的例子，一旦你断言 p，你就不适合做出明显与 p 相矛盾的陈述（Hamblin 1970b），或者以与接受 p 为真相激烈对立的方式行为（Geurts 2019）。[36]
+用来描述断言所产生的责任的另一种方式是关注说话者根据做出断言而期望做的事情。断言责任可以理解为一种以特定方式行动的承诺。当你做出断言时，你会产生一个期望，即你会以某种方式行为，而不是其他方式，特别是与你接下来要说的内容相关的方式。[35] 举个简单的例子，一旦你断言 p，你就不适合做出明显与 p 相矛盾的陈述（Hamblin 1970b），或者以与接受 p 为真相激烈对立的方式行为（Geurts 2019）。[36]
 
 此外，做出断言还要求你以特定的方式回应人们的问题和挑战，随着对话的发展而变化。Brandom（1994: 173–175）强调了这一点，并认为断言同时实现了两个不同的社会结果：（i）它使说话者承诺在面对合理的挑战时捍卫自己的主张；以及相关地（ii）授权听者声称从说话者所断言的内容中得出任何结论。MacFarlane（2003: 14 [其他网络参考资料]）总结（并修订）了这一基本思想，如下所示：
 
@@ -772,7 +772,7 @@ Kneer（2017）还发现了确凿的证据表明，（JNA）比（KNA）、TNA �
 
 像(Q)和(D)这样的挑战通常是合适的，但并非总是如此。例如，如果在对话中已经确定说话者所说的是真的，那么这些挑战可能是不合适的。[37] 断言只会使你承诺回应适当的挑战 - 否则就撤回你的断言（关于撤回的规范，请参见第 5.1.4 节）。
 
-人们经常争论说，有一整个言语行为家族（"断言"或"代表性"）"使说话者（在不同程度上）承诺某事是真实的"（西尔 1979: 12）：诸如警告、否认、提醒、争论、推断等的言语行为。这些言语行为在它们产生的承诺的强度上有所不同（例如，发誓 p 比简单断言涉及更强的承诺），以及它们成功执行所需的条件上有所不同（例如，警告关于 p 只有在 p 对对话者构成风险或危险时才合适）。如果一个言语行为涉及比断言更强的承诺和/或额外的适应条件，我们可以说它比断言更"强"。西尔和范德韦肯（1985）指出，每当你执行更强的言语行为时，你也已经做出了一个断言。例如，用说话者声称、断言或确认她是一名经过认证的叉车操作员来报告（34）或（35）是不正确的：
+人们经常争论说，有一整个言语行为家族（"断言" 或 "代表性"）"使说话者（在不同程度上）承诺某事是真实的"（西尔 1979: 12）：诸如警告、否认、提醒、争论、推断等的言语行为。这些言语行为在它们产生的承诺的强度上有所不同（例如，发誓 p 比简单断言涉及更强的承诺），以及它们成功执行所需的条件上有所不同（例如，警告关于 p 只有在 p 对对话者构成风险或危险时才合适）。如果一个言语行为涉及比断言更强的承诺和/或额外的适应条件，我们可以说它比断言更 "强"。西尔和范德韦肯（1985）指出，每当你执行更强的言语行为时，你也已经做出了一个断言。例如，用说话者声称、断言或确认她是一名经过认证的叉车操作员来报告（34）或（35）是不正确的：
 
 (34)
 
@@ -796,13 +796,13 @@ Kneer（2017）还发现了确凿的证据表明，（JNA）比（KNA）、TNA �
 
 在标准情境下，由于说出(36)，说话者和听话者都会认为说话者对听话者产生了义务。
 
-在文献中，标准观点是断言和承诺产生不同类型的承诺，因此它们属于不同的类别（例如，Searle 1969, 1979）。关于断言和承诺之间的关系，在 Watson（2004）中有详细讨论，他引入了一种主次承诺的区别。断言和承诺在它们产生的主要承诺上有所不同。当你承诺要φ时，你的主要承诺是（打算）采取行动使φ发生。相比之下，当你断言 p 时，你的主要承诺是独立于你的行动的事实：即，对 Watson 来说，p 的可辩护性（Watson 2004: 68）。此外，断言和承诺还涉及到在某些情况下“如果被询问或出现问题”时采取某种行动的次要承诺（2004: 67）。根据这种观点，演讲者在受到质疑时捍卫断言的承诺是次要的，这是从主要承诺中得出的（2004: 70）。
+在文献中，标准观点是断言和承诺产生不同类型的承诺，因此它们属于不同的类别（例如，Searle 1969, 1979）。关于断言和承诺之间的关系，在 Watson（2004）中有详细讨论，他引入了一种主次承诺的区别。断言和承诺在它们产生的主要承诺上有所不同。当你承诺要 φ 时，你的主要承诺是（打算）采取行动使 φ 发生。相比之下，当你断言 p 时，你的主要承诺是独立于你的行动的事实：即，对 Watson 来说，p 的可辩护性（Watson 2004: 68）。此外，断言和承诺还涉及到在某些情况下“如果被询问或出现问题”时采取某种行动的次要承诺（2004: 67）。根据这种观点，演讲者在受到质疑时捍卫断言的承诺是次要的，这是从主要承诺中得出的（2004: 70）。
 
-一些作者认为承诺和断言之间存在更强的联系。Marsili（2016）认为，承诺你将要φ“言语行为蕴含”断言你将要φ。这个想法是，承诺的行为就像上面讨论的“强断言”（发誓、承认、保证等），其表现使演讲者承担已经做出断言的责任。例如，如果 Pepa 说出（36），可以说 Pepa 已经断言、肯定或声称她将会打电话给修理店。如果 Pepa 不相信她会打电话给修理店，可以说 Pepa 撒谎了。从这个意义上说，承诺要做某事蕴含着断言你将要做它。[39]
+一些作者认为承诺和断言之间存在更强的联系。Marsili（2016）认为，承诺你将要 φ“言语行为蕴含”断言你将要 φ。这个想法是，承诺的行为就像上面讨论的“强断言”（发誓、承认、保证等），其表现使演讲者承担已经做出断言的责任。例如，如果 Pepa 说出（36），可以说 Pepa 已经断言、肯定或声称她将会打电话给修理店。如果 Pepa 不相信她会打电话给修理店，可以说 Pepa 撒谎了。从这个意义上说，承诺要做某事蕴含着断言你将要做它。[39]
 
 Hawley（2019）还在断言和承诺之间建立了强烈的联系，但方向相反：她从承诺的角度分析了断言（参见 Carson 2006）。Hawley 认为，每当你对 p 进行断言时，你也承诺要如实地陈述关于 p 的事实。这意味着每当你进行断言时，你对如实陈述的承诺同时被作出，并且会被履行或违背（取决于你是否如实陈述）。然而，这种观点无法解释断言和承诺之间的一个重要区别：断言可以被减轻（“也许我会做”是完全可以的），但承诺不行（“我承诺也许我会做”不是真正的承诺）。
 
-承诺是一些“混合”断言解释的核心，即将不同的断言理论洞察力结合在一起的解释。对于皮尔斯来说，承诺是断言的核心，但不是唯一的特征。在他看来，断言还涉及到信念表达：“它是演讲者向听众提供证据，证明演讲者相信某事”（皮尔斯[CP]：2.335）。此外，对于皮尔斯来说，断言必然伴随着一种说服听众的意图：“每个断言都涉及努力使预期的解释者相信所断言的内容”（皮尔斯[CP]：5.547）。简而言之，皮尔斯的观点是，在断言 p 时，你试图通过向听众提供你相信 p 的证据来说服他们 p 是真实的，从而对 p 的真实性承担责任（即负有责任）。[40]
+承诺是一些“混合”断言解释的核心，即将不同的断言理论洞察力结合在一起的解释。对于皮尔斯来说，承诺是断言的核心，但不是唯一的特征。在他看来，断言还涉及到信念表达：“它是演讲者向听众提供证据，证明演讲者相信某事”（皮尔斯 [CP]：2.335）。此外，对于皮尔斯来说，断言必然伴随着一种说服听众的意图：“每个断言都涉及努力使预期的解释者相信所断言的内容”（皮尔斯 [CP]：5.547）。简而言之，皮尔斯的观点是，在断言 p 时，你试图通过向听众提供你相信 p 的证据来说服他们 p 是真实的，从而对 p 的真实性承担责任（即负有责任）。[40]
 
 另一个混合账户由 Searle（1969）辩护（参见 Searle 1975b：322 和 Searle＆Vanderveken 1985）。 Searle 对断言的描述在他的著作中略有不同，但核心思想是，可以通过其独特的规则来确定断言 - 发出断言的“成功”和“非缺陷”（即幸福）的规则。它们被呈现为使用力指示装置的规则（Searle 1969：62-4）。这些规则可以总结如下。这里 S 是说话者，H 是听者：
 
@@ -820,7 +820,7 @@ Hawley（2019）还在断言和承诺之间建立了强烈的联系，但方向�
 
 第五条规则是至关重要的，并被认为是断言的构成要素。西尔将构成规则与规范规则进行对比。根据西尔的说法，构成规则就像定义一样：它们定义了参与某种活动的方式，例如，“以一种不会使国王不受攻击的方式攻击国王算作将军”（西尔 1969 年：33）。
 
-西尔似乎采用了一种涉及对挑战做出回应的“承诺”概念（布兰多姆式），以及对制裁负有责任的概念（皮尔斯式）：断言者被期望“能够为原始陈述提供理由[...]，如果原始陈述被证明是错误的，可以公开追究其责任”（西尔 2010 年：82）。与皮尔斯一样，西尔（1969 年：65）也将承诺与信念表达相结合：发言者表达了诚实规则所要求的状态，即在断言的情况下，其诚实规则为（4），发言者表达了一种信念。最后，发言者暗示准备条件已经满足，因此西尔的观点有一个奇怪的后果，即在断言 p 时，你暗示 p 显然不是真的。
+西尔似乎采用了一种涉及对挑战做出回应的“承诺”概念（布兰多姆式），以及对制裁负有责任的概念（皮尔斯式）：断言者被期望“能够为原始陈述提供理由 [...]，如果原始陈述被证明是错误的，可以公开追究其责任”（西尔 2010 年：82）。与皮尔斯一样，西尔（1969 年：65）也将承诺与信念表达相结合：发言者表达了诚实规则所要求的状态，即在断言的情况下，其诚实规则为（4），发言者表达了一种信念。最后，发言者暗示准备条件已经满足，因此西尔的观点有一个奇怪的后果，即在断言 p 时，你暗示 p 显然不是真的。
 
 第三种“混合”账户由格林（1999 年，2000 年，2007 年，2013 年，2017 年，2020a 年）辩护。格林区分了三种不同的规范概念，可以用来描述断言（和其他肯定性言论行为）：
 
@@ -852,261 +852,261 @@ Hawley（2019）还在断言和承诺之间建立了强烈的联系，但方向�
 
 * Adler, Jonathan E., 2002, *Belief’s Own Ethics*, Cambridge, MA: MIT Press.
 * Alston, William P., 2000, *Illocutionary Acts and Sentence Meaning*, Ithaca, NY: Cornell University Press.
-* Antonsen, Paal, 2018, “Scorekeeping”, *Analysis*, 78(4): 589–595. doi:10.1093/analys/anx145
-* Austin, John Langshaw, 1956 [1979], “Performative Utterances”, corrected transcript of an unscripted radio talk delivered in the Third Programme of the BBC. Reprint in his *Philosophical Papers*, Oxford: Oxford University Press, 1961, 220–239. Third edition, 1979, 233–252. doi:10.1093/019283021X.003.0010
+* Antonsen, Paal, 2018, “Scorekeeping”, *Analysis*, 78(4): 589–595. doi: 10.1093/analys/anx145
+* Austin, John Langshaw, 1956 [1979], “Performative Utterances”, corrected transcript of an unscripted radio talk delivered in the Third Programme of the BBC. Reprint in his *Philosophical Papers*, Oxford: Oxford University Press, 1961, 220–239. Third edition, 1979, 233–252. doi: 10.1093/019283021X.003.0010
 * –––, 1962 [1975], *How to Do Things with Words*, James O. Urmson (ed.), Cambridge, MA: Harvard University Press; based on his 1955 William James Lectures at Harvard; second edition, James O. Urmson and Marina Sbisà (eds.), 1975.
-* Bach, Kent, 1994, “Conversational Impliciture”, *Mind & Language*, 9(2): 124–162. doi:10.1111/j.1468-0017.1994.tb00220.x
-* –––, 2008, “Applying Pragmatics to Epistemology”, *Philosophical Issues*, 18: 68–88. doi:10.1111/j.1533-6077.2008.00138.x
+* Bach, Kent, 1994, “Conversational Impliciture”, *Mind & Language*, 9(2): 124–162. doi: 10.1111/j.1468-0017.1994.tb00220.x
+* –––, 2008, “Applying Pragmatics to Epistemology”, *Philosophical Issues*, 18: 68–88. doi: 10.1111/j.1533-6077.2008.00138.x
 * Bach, Kent and R. M. Harnish, 1979, *Linguistic Communication and Speech Acts*, Cambridge, MA: MIT Press.
 * Baghramian, Maria and J. Adam Carter, 2020, “Relativism”, in *The Stanford Encyclopedia of Philosophy* (Fall 2020), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/relativism/>
-* Begby, Endre, 2020, “The Knowledge Norm of Assertion in Dialectical Context”, *Ratio*, 33(4): 295–306. doi:10.1111/rati.12261
+* Begby, Endre, 2020, “The Knowledge Norm of Assertion in Dialectical Context”, *Ratio*, 33(4): 295–306. doi: 10.1111/rati.12261
 * Bellucci, Francesco, 2019, “Peirce on Assertion and Other Speech Acts”, *Semiotica*, 2019(228): 29-54. https://doi.org/10.1515/sem-2018-0081
-* Benton, Matthew A., 2011, “Two More for the Knowledge Account of Assertion”, *Analysis*, 71(4): 684–687. doi:10.1093/analys/anr085
-* –––, 2013, “Dubious Objections from Iterated Conjunctions”, *Philosophical Studies*, 162(2): 355–358. doi:10.1007/s11098-011-9769-3
-* –––, 2016, “Gricean Quality”, *Noûs*, 50(4): 689–703. doi:10.1111/nous.12065
-* Blaauw, Martijn and Jeroen de Ridder, 2012, “Unsafe Assertions”, *Australasian Journal of Philosophy*, 90(4): 797–801. doi:10.1080/00048402.2011.641573
-* Black, Dylan, 2019, “A Non-Normative Account of Assertion”, *Ratio*, 32(1): 53–62. doi:10.1111/rati.12210
-* Black, Max, 1952, “The Identity of Indiscernibles”, *Mind*, 61(242): 153–164. doi:10.1093/mind/LXI.242.153
-* Bonalumi, Francesca, Thom Scott-Phillips, Julius Tacha, and Christophe Heintz, 2020, “Commitment and Communication: Are We Committed to What We Mean, or What We Say?”, *Language and Cognition*, 12(2): 360–384. doi:10.1017/langcog.2020.2
-* Borg, Emma, 2012, *Pursuing Meaning*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199588374.001.0001
-* –––, 2019, “Explanatory Roles for Minimal Content”, *Noûs*, 53(3): 513–539. doi:10.1111/nous.12217
+* Benton, Matthew A., 2011, “Two More for the Knowledge Account of Assertion”, *Analysis*, 71(4): 684–687. doi: 10.1093/analys/anr085
+* –––, 2013, “Dubious Objections from Iterated Conjunctions”, *Philosophical Studies*, 162(2): 355–358. doi: 10.1007/s11098-011-9769-3
+* –––, 2016, “Gricean Quality”, *Noûs*, 50(4): 689–703. doi: 10.1111/nous.12065
+* Blaauw, Martijn and Jeroen de Ridder, 2012, “Unsafe Assertions”, *Australasian Journal of Philosophy*, 90(4): 797–801. doi: 10.1080/00048402.2011.641573
+* Black, Dylan, 2019, “A Non-Normative Account of Assertion”, *Ratio*, 32(1): 53–62. doi: 10.1111/rati.12210
+* Black, Max, 1952, “The Identity of Indiscernibles”, *Mind*, 61(242): 153–164. doi: 10.1093/mind/LXI.242.153
+* Bonalumi, Francesca, Thom Scott-Phillips, Julius Tacha, and Christophe Heintz, 2020, “Commitment and Communication: Are We Committed to What We Mean, or What We Say?”, *Language and Cognition*, 12(2): 360–384. doi: 10.1017/langcog.2020.2
+* Borg, Emma, 2012, *Pursuing Meaning*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199588374.001.0001
+* –––, 2019, “Explanatory Roles for Minimal Content”, *Noûs*, 53(3): 513–539. doi: 10.1111/nous.12217
 * Brandom, Robert, 1983, “Asserting”, *Noûs,* 17(4): 637-50.
 * Brandom, Robert, 1994, *Making it Explicit: Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
 * Brock, Jarrett E, 1981,“An Introduction to Peirce’s Theory of Speech Acts”. *Transactions of the Charles S. Peirce Society. A Quarterly Journal in American Philosophy* 17(4): 319-26
 * Brogaard, Berit, 2014, “Intellectual Flourishing as the Fundamental Epistemic Norm”. In C. Littlejohn & J. Turri (2014), pp. 11-31.
-* Brogaard, Berit and Dimitria Electra Gatzia, 2017, “Introduction: Epistemic Modals”, *Topoi*, 36(1): 127–130. doi:10.1007/s11245-016-9374-3
-* Brown, Jessica, 2008, “The Knowledge Norm for Assertion”, *Philosophical Issues*, 18: 89–103. doi:10.1111/j.1533-6077.2008.00139.x
-* –––, 2010, “Knowledge and Assertion”, *Philosophy and Phenomenological Research*, 81(3): 549–566. doi:10.1111/j.1933-1592.2010.00369.x
+* Brogaard, Berit and Dimitria Electra Gatzia, 2017, “Introduction: Epistemic Modals”, *Topoi*, 36(1): 127–130. doi: 10.1007/s11245-016-9374-3
+* Brown, Jessica, 2008, “The Knowledge Norm for Assertion”, *Philosophical Issues*, 18: 89–103. doi: 10.1111/j.1533-6077.2008.00139.x
+* –––, 2010, “Knowledge and Assertion”, *Philosophy and Phenomenological Research*, 81(3): 549–566. doi: 10.1111/j.1933-1592.2010.00369.x
 * –––, 2011, “Fallibilism and the Knowledge Norm for Assertion and Practical Reasoning”, in Brown and Cappelen 2011: 153–174.
-* –––, 2012, “Assertion and Practical Reasoning: Common or Divergent Epistemic Standards?”, *Philosophy and Phenomenological Research*, 84(1): 123–157. doi:10.1111/j.1933-1592.2010.00432.x
-* Brown, Jessica and Herman Cappelen (eds.), 2011, *Assertion: New Philosophical Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199573004.001.0001
-* Caffi, Claudia, 1999, “On Mitigation”, *Journal of Pragmatics*, 31(7): 881–909. doi:10.1016/S0378-2166(98)00098-8
+* –––, 2012, “Assertion and Practical Reasoning: Common or Divergent Epistemic Standards?”, *Philosophy and Phenomenological Research*, 84(1): 123–157. doi: 10.1111/j.1933-1592.2010.00432.x
+* Brown, Jessica and Herman Cappelen (eds.), 2011, *Assertion: New Philosophical Essays*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199573004.001.0001
+* Caffi, Claudia, 1999, “On Mitigation”, *Journal of Pragmatics*, 31(7): 881–909. doi: 10.1016/S0378-2166(98)00098-8
 * Cappelen, Herman, 2011, “Against Assertion”, in Brown and Cappelen 2011: 21–47.
-* –––, 2020, “Assertion: A Defective Theoretical Category”, in Goldberg 2020: 137–155. doi:10.1093/oxfordhb/9780190675233.013.6
-* Carson, Thomas L., 2006, “The Definition of Lying”, *Noûs*, 40(2): 284–306. doi:10.1111/j.0029-4624.2006.00610.x
-* Carter, J. Adam, 2017, “Assertion, Uniqueness and Epistemic Hypocrisy”, *Synthese*, 194(5): 1463–1476. doi:10.1007/s11229-015-0766-5
-* Carter, J. Adam and Emma C. Gordon, 2011, “Norms of Assertion: The Quantity and Quality of Epistemic Support”, *Philosophia*, 39(4): 615–635. doi:10.1007/s11406-011-9317-6
-* Carter, Sam. forthcoming. Degrees of Assertability. *Philosophy and Phenomenological Research*. doi:10.1111/phpr.12725
-* Caso, Ramiro, 2014, “Assertion and Relative Truth”, *Synthese*, 191(6): 1309–1325. doi:10.1007/s11229-013-0329-6
-* Coates, Jennifer, 1987, “Epistemic Modality and Spoken Discourse”, *Transactions of the Philological Society*, 85(1): 110–131. doi:10.1111/j.1467-968X.1987.tb00714.x
+* –––, 2020, “Assertion: A Defective Theoretical Category”, in Goldberg 2020: 137–155. doi: 10.1093/oxfordhb/9780190675233.013.6
+* Carson, Thomas L., 2006, “The Definition of Lying”, *Noûs*, 40(2): 284–306. doi: 10.1111/j.0029-4624.2006.00610.x
+* Carter, J. Adam, 2017, “Assertion, Uniqueness and Epistemic Hypocrisy”, *Synthese*, 194(5): 1463–1476. doi: 10.1007/s11229-015-0766-5
+* Carter, J. Adam and Emma C. Gordon, 2011, “Norms of Assertion: The Quantity and Quality of Epistemic Support”, *Philosophia*, 39(4): 615–635. doi: 10.1007/s11406-011-9317-6
+* Carter, Sam. forthcoming. Degrees of Assertability. *Philosophy and Phenomenological Research*. doi: 10.1111/phpr.12725
+* Caso, Ramiro, 2014, “Assertion and Relative Truth”, *Synthese*, 191(6): 1309–1325. doi: 10.1007/s11229-013-0329-6
+* Coates, Jennifer, 1987, “Epistemic Modality and Spoken Discourse”, *Transactions of the Philological Society*, 85(1): 110–131. doi: 10.1111/j.1467-968X.1987.tb00714.x
 * Coffman, E. J., 2014, “Lenient Accounts of Warranted Assertability”, in Littlejohn and Turri 2014: ch. 2, pp. 33–58.
 * Cole, Peter and Jerry L. Morgan (eds.), 1975 *Syntax and Semantics 3: Speech Acts*, New York: Academic Press.
 * Conte, Amedeo G., 1991, “L’enjeu des règles”, *Droit et société,* 17(1): 125–146.
 * Cull, Matthew J., 2019, “When Alston met Brandom: Defining Assertion”, *Rivista Italiana Di Filosofia Del Linguaggio*, 13(1): 36–50. [[Cull 2019 available online](http://www.rifl.unical.it/index.php/rifl/article/view/527)]
-* Davidson, Donald, 1979, “Moods and Performances”, in *Meaning and Use*, Avishai Margalit (ed.), Dordrecht: Springer Netherlands, 9–22. doi:10.1007/978-1-4020-4104-4_2
-* –––, 1984, “Communication and Convention”, *Synthese*, 59(1): 3–17. doi:10.1007/BF00873278
-* Davis, Wayne A., 1999, “Communicating, Telling, and Informing”:, *Philosophical Inquiry*, 21(1): 21–43. doi:10.5840/philinquiry19992112
-* DeRose, Keith, 2002, “Assertion, Knowledge, and Context”, *The Philosophical Review*, 111(2): 167–203. doi:10.1215/00318108-111-2-167
+* Davidson, Donald, 1979, “Moods and Performances”, in *Meaning and Use*, Avishai Margalit (ed.), Dordrecht: Springer Netherlands, 9–22. doi: 10.1007/978-1-4020-4104-4_2
+* –––, 1984, “Communication and Convention”, *Synthese*, 59(1): 3–17. doi: 10.1007/BF00873278
+* Davis, Wayne A., 1999, “Communicating, Telling, and Informing”:, *Philosophical Inquiry*, 21(1): 21–43. doi: 10.5840/philinquiry19992112
+* DeRose, Keith, 2002, “Assertion, Knowledge, and Context”, *The Philosophical Review*, 111(2): 167–203. doi: 10.1215/00318108-111-2-167
 * Dewey, John, 1938, *Logic. The Theory of Inquiry*, New York: Henry Holt Company.
-* Douven, Igor, 2006, “Assertion, Knowledge, and Rational Credibility”, *The Philosophical Review*, 115(4): 449–485. doi:10.1215/00318108-2006-010
-* –––, 2009, “Assertion, Moore, and Bayes”, *Philosophical Studies*, 144(3): 361–375. doi:10.1007/s11098-008-9214-4
+* Douven, Igor, 2006, “Assertion, Knowledge, and Rational Credibility”, *The Philosophical Review*, 115(4): 449–485. doi: 10.1215/00318108-2006-010
+* –––, 2009, “Assertion, Moore, and Bayes”, *Philosophical Studies*, 144(3): 361–375. doi: 10.1007/s11098-008-9214-4
 * Dummett, Michael, 1976, “What Is a Theory of Meaning? (II)”, in *Truth and Meaning*, Gareth Evans & John McDowell (eds.), Oxford: Oxford University Press, pp. 63-137.
 * –––, 1973 [1981], *Frege: Philosophy of Language*, London: Duckworth. Second edition, Cambridge, MA: Harvard University Press, 1981.
 * –––, 1991, *The Logical Basis of Metaphysics*, Cambridge, MA: Harvard University Press.
-* Egan, Andy, 2012, “Relativist Dispositional Theories of Value: Relativist Dispositional Theories of Value”, *The Southern Journal of Philosophy*, 50(4): 557–582. doi:10.1111/j.2041-6962.2012.00136.x
+* Egan, Andy, 2012, “Relativist Dispositional Theories of Value: Relativist Dispositional Theories of Value”, *The Southern Journal of Philosophy*, 50(4): 557–582. doi: 10.1111/j.2041-6962.2012.00136.x
 * Engel, Pascal, 2004, “Truth and the Aim of Belief”, in *Laws and Models in Science*, Donald Gillies (ed.), London: King’s College Publications, pp. 77-97.
-* –––, 2008, “In What Sense Is Knowledge the Norm of Assertion?” *Grazer Philosophische Studien*, 77: 45–59. doi:10.1163/18756735-90000843
+* –––, 2008, “In What Sense Is Knowledge the Norm of Assertion?” *Grazer Philosophische Studien*, 77: 45–59. doi: 10.1163/18756735-90000843
 * Evans, Gareth, 1985, “Does Tense Logic Rest on a Mistake?” in his *Collected Papers*, Antonia Phillips (ed.), Oxford: Clarendon Press, pp. 341–363.
-* Fallis, Don, 2013, “Davidson Was Almost Right about Lying”, *Australasian Journal of Philosophy*, 91(2): 337–353. doi:10.1080/00048402.2012.688980
-* Fantl, Jeremy and Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550623.001.0001
+* Fallis, Don, 2013, “Davidson Was Almost Right about Lying”, *Australasian Journal of Philosophy*, 91(2): 337–353. doi: 10.1080/00048402.2012.688980
+* Fantl, Jeremy and Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199550623.001.0001
 * Frege, Gottlob, 1879, *Begriffsschrift, Eine Der Aritmetischen Nachgebildete Formelsprache Des Reinen Denkens*, Halle: Louis Nebert; *partial* translation in Frege [TPW], pp. 1–21. Full translation in J van Heijenoort (ed.), *Frege and Gödel. Two Fundamental Texts in Mathematical Logic*, Cambridge, Mass: Harvard University Press, 1970.
 * –––, 1892, “Über Sinn Und Bedeutung”, *Zeitschrift Für Philosophie Und Philosophische Kritik*, 100: 22–50; translated by Max Black as “On Sense and Meaning”, in Frege [TPW]: 56–78.
-* –––, 1918a, “Der Gedanke: Eine logische Untersuchung”, *Beiträge Zur Philosophie Des Deutschen Idealismus*, 100: 58–77; English translation by P. T. Geach and R. H. Stoothoff as “Thoughts: A Logical Enquiry”, republished in Frege [TFR], 325–45.
-* –––, 1918b, “Die Verneinung. Eine logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, I (1918–1919), pp. 143–157; translated by Peter T. Geach as “Negation”, in Frege [TPW]: 117–135.
+* –––, 1918a, “Der Gedanke: Eine logische Untersuchung”, * Beiträge Zur Philosophie Des Deutschen Idealismus*, 100: 58–77; English translation by P. T. Geach and R. H. Stoothoff as “Thoughts: A Logical Enquiry”, republished in Frege [TFR], 325–45.
+* –––, 1918b, “Die Verneinung. Eine logische Untersuchung”, * Beiträge zur Philosophie des deutschen Idealismus *, I (1918–1919), pp. 143–157; translated by Peter T. Geach as “Negation”, in Frege [TPW]: 117–135.
 * –––, [TFR], *The Frege Reader*, Mike Beaney (ed.), Oxford: Blackwell Publishing 1997.
 * –––, [TPW], *Translations from the Philosophical Writings of Gottlob Frege*, Peter T. Geach and Max Black (eds.), Oxford: Basil Blackwell, 1952.
-* Fricker, Elizabeth, 2012, “Stating and Insinuating”, *Aristotelian Society Supplementary Volume*, 86: 61–94. doi:10.1111/j.1467-8349.2012.00208.x
+* Fricker, Elizabeth, 2012, “Stating and Insinuating”, *Aristotelian Society Supplementary Volume*, 86: 61–94. doi: 10.1111/j.1467-8349.2012.00208.x
 * García-Carpintero, Manuel, 2004, “Assertion and the Semantics of Force-Markers”, in *The Semantics/Pragmatics Distinction*, Claudia Bianchi (ed.), Stanford, CA: CSLI Publications, pp. 133–166.
-* –––, 2008, “Relativism, Vagueness and What Is Said”, in *Relative Truth*, Manuel García-Carpintero and Max Kölbel (eds.), Oxford: Oxford University Press, 129–154. doi:10.1093/acprof:oso/9780199234950.003.0006
+* –––, 2008, “Relativism, Vagueness and What Is Said”, in *Relative Truth*, Manuel García-Carpintero and Max Kölbel (eds.), Oxford: Oxford University Press, 129–154. doi: 10.1093/acprof: oso/9780199234950.003.0006
 * –––, 2013, “Explicit performatives revisited”, *Journal of Pragmatics*, 49, 1-17.
-* –––, 2016, “Indirect Assertion”, *Polish Journal of Philosophy*, 10(1): 13–49. doi:10.5840/pjphil20161012
-* –––, 2019a, “Conventions and Constitutive Norms”, *Journal of Social Ontology*, 5(1): 35–52. doi:10.1515/jso-2019-0013
+* –––, 2016, “Indirect Assertion”, *Polish Journal of Philosophy*, 10(1): 13–49. doi: 10.5840/pjphil20161012
+* –––, 2019a, “Conventions and Constitutive Norms”, *Journal of Social Ontology*, 5(1): 35–52. doi: 10.1515/jso-2019-0013
 * –––, 2019b, “Sneaky Assertions”, *Philosophical Perspectives* 32(1): 188-218. https://doi.org/10.1111/phpe.12116.
 * –––, forthcoming, “How to Understand Rule-Constituted Kinds”, *Review of Philosophy and Psychology*. https://doi.org/10.1007/s13164-021-00576-z
-* Gerken, Mikkel, 2012, “Discursive Justification and Skepticism”, *Synthese*, 189(2): 373–394. doi:10.1007/s11229-012-0076-0
-* –––, 2014, “Same, Same but Different: The Epistemic Norms of Assertion, Action and Practical Reasoning”, *Philosophical Studies*, 168(3): 725–744. doi:10.1007/s11098-013-0156-0
-* –––, 2017, *On Folk Epistemology: How We Think and Talk about Knowledge*, Oxford: Oxford University Press. doi:10.1093/oso/9780198803454.001.0001
-* Gerken, Mikkel and Esben Nedenskov Petersen, 2020, “Epistemic Norms of Assertion and Action”, in Goldberg 2020: 681–706. doi:10.1093/oxfordhb/9780190675233.013.49
-* Geurts, Bart, 2019, “Communication as Commitment Sharing: Speech Acts, Implicatures, Common Ground”, *Theoretical Linguistics*, 45(1–2): 1–30. doi:10.1515/tl-2019-0001
-* Glüer, Kathrin and Peter Pagin, 1998, “Rules of Meaning and Practical Reasoning”, *Synthese*, 117(2): 207–227. doi:10.1023/A:1005162503125
-* –––, 2003, “Meaning Theory and Autistic Speakers”, *Mind & Language*, 18(1): 23–51. doi:10.1111/1468-0017.00213
+* Gerken, Mikkel, 2012, “Discursive Justification and Skepticism”, *Synthese*, 189(2): 373–394. doi: 10.1007/s11229-012-0076-0
+* –––, 2014, “Same, Same but Different: The Epistemic Norms of Assertion, Action and Practical Reasoning”, *Philosophical Studies*, 168(3): 725–744. doi: 10.1007/s11098-013-0156-0
+* –––, 2017, *On Folk Epistemology: How We Think and Talk about Knowledge*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198803454.001.0001
+* Gerken, Mikkel and Esben Nedenskov Petersen, 2020, “Epistemic Norms of Assertion and Action”, in Goldberg 2020: 681–706. doi: 10.1093/oxfordhb/9780190675233.013.49
+* Geurts, Bart, 2019, “Communication as Commitment Sharing: Speech Acts, Implicatures, Common Ground”, *Theoretical Linguistics*, 45(1–2): 1–30. doi: 10.1515/tl-2019-0001
+* Glüer, Kathrin and Peter Pagin, 1998, “Rules of Meaning and Practical Reasoning”, *Synthese*, 117(2): 207–227. doi: 10.1023/A: 1005162503125
+* –––, 2003, “Meaning Theory and Autistic Speakers”, *Mind & Language*, 18(1): 23–51. doi: 10.1111/1468-0017.00213
 * Glüer, Kathrin and Åsa Wikforss, 2013, “Aiming at Truth: On the Role of Belief”, *Theorema*, 32(3): 137–160.
-* Goldberg, Sanford C., 2015, *Assertion: On the Philosophical Significance of Assertoric Speech*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732488.001.0001
-* ––– (ed.), 2020, *The Oxford Handbook of Assertion*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190675233.001.0001
-* Graham, Peter J., 2020, “Assertions, Handicaps, and Social Norms”. *Episteme,* 17(3), 349-363. doi:10.1017/epi.2019.53
-* Green, Mitchell S., 1999, “Illocutions, Implicata, and What a Conversation Requires”, *Pragmatics & Cognition*, 7(1): 65–91. doi:10.1075/pc.7.1.05gre
-* –––, 2000, “Illocutionary Force And Semantic Content”, *Linguistics and Philosophy*, 23(5): 435–473. doi:10.1023/A:1005642421177
-* –––, 2007, *Self-Expression*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199283781.001.0001
-* –––, 2009, “Speech Acts, the Handicap Principle and the Expression of Psychological States”, *Mind & Language*, 24(2): 139–163. doi:10.1111/j.1468-0017.2008.01357.x
+* Goldberg, Sanford C., 2015, *Assertion: On the Philosophical Significance of Assertoric Speech*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732488.001.0001
+* ––– (ed.), 2020, *The Oxford Handbook of Assertion*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780190675233.001.0001
+* Graham, Peter J., 2020, “Assertions, Handicaps, and Social Norms”. *Episteme,* 17(3), 349-363. doi: 10.1017/epi.2019.53
+* Green, Mitchell S., 1999, “Illocutions, Implicata, and What a Conversation Requires”, *Pragmatics & Cognition*, 7(1): 65–91. doi: 10.1075/pc.7.1.05gre
+* –––, 2000, “Illocutionary Force And Semantic Content”, *Linguistics and Philosophy*, 23(5): 435–473. doi: 10.1023/A: 1005642421177
+* –––, 2007, *Self-Expression*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199283781.001.0001
+* –––, 2009, “Speech Acts, the Handicap Principle and the Expression of Psychological States”, *Mind & Language*, 24(2): 139–163. doi: 10.1111/j.1468-0017.2008.01357.x
 * –––, 2013, “Assertions”, in *Pragmatics of Speech Actions*, Marina Sbisà and Ken Turner (eds.), (Handbooks of Pragmatics, 2), Berlin: De Gruyter Mouton, 387–409.
-* –––, 2017, “Assertion”, in *Oxford Handbooks Online*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199935314.013.8
-* –––, 2020a, “Assertion and Convention”, in Goldberg 2020: 345–369. doi:10.1093/oxfordhb/9780190675233.013.8
+* –––, 2017, “Assertion”, in *Oxford Handbooks Online*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199935314.013.8
+* –––, 2020a, “Assertion and Convention”, in Goldberg 2020: 345–369. doi: 10.1093/oxfordhb/9780190675233.013.8
 * –––, 2020b, “Speech Acts”, in *The Stanford Encyclopedia of Philosophy* (Winter 2020), Edward N. Zalta (ed.). URL = <https://plato.stanford.edu/archives/win2020/entries/speech-acts/>
 * Greenough, Patrick, 2011, “Truth-Relativism, Norm-Relativism, and Assertion”, in Brown and Cappelen 2011: 187–231.
 * Greenberg, Alexander, 2020, “There Is No (Sui Generis) Norm of Assertion”, *Philosophy*, 95(3): 337-62. https://doi.org/10.1017/S0031819120000169
-* Grice, Herbert Paul, 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–388. doi:10.2307/2182440
-* –––, 1969, “Utterer’s Meaning and Intention”, *The Philosophical Review*, 78(2): 147–177. doi:10.2307/2184179
+* Grice, Herbert Paul, 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–388. doi: 10.2307/2182440
+* –––, 1969, “Utterer’s Meaning and Intention”, *The Philosophical Review*, 78(2): 147–177. doi: 10.2307/2184179
 * –––, 1975, “Logic and Conversation”, in Cole and Morgan 1975: 41–58.
 * –––, 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
 * Hamblin, C. L., 1970a, *Fallacies*, London: Methuen.
-* –––, 1970b, “The Effect of When It’s Said”, *Theoria*, 36(3): 249–263. doi:10.1111/j.1755-2567.1970.tb00426.x
-* Hawley, Katherine, 2019, *How To Be Trustworthy*, Oxford: Oxford University Press. doi:10.1093/oso/9780198843900.001.0001
-* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi:10.1093/0199269556.001.0001
-* –––, 2012, “Some Comments on Fricker’s ‘Stating and Insinuating’”, *Aristotelian Society Supplementary Volume*, 86: 95–108. doi:10.1111/j.1467-8349.2012.00209.x
-* Hawthorne, John and Jason Stanley, 2008, “Knowledge and Action”:, *Journal of Philosophy*, 105(10): 571–590. doi:10.5840/jphil20081051022
+* –––, 1970b, “The Effect of When It’s Said”, *Theoria*, 36(3): 249–263. doi: 10.1111/j.1755-2567.1970.tb00426.x
+* Hawley, Katherine, 2019, *How To Be Trustworthy*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198843900.001.0001
+* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi: 10.1093/0199269556.001.0001
+* –––, 2012, “Some Comments on Fricker’s ‘Stating and Insinuating’”, *Aristotelian Society Supplementary Volume*, 86: 95–108. doi: 10.1111/j.1467-8349.2012.00209.x
+* Hawthorne, John and Jason Stanley, 2008, “Knowledge and Action”:, *Journal of Philosophy*, 105(10): 571–590. doi: 10.5840/jphil20081051022
 * Heim, Irene, 1988, “On the Projection Problem for Presuppositions”, in *Proceedings of the Second West Coast Conference on Formal Linguistics*, Dan Flickinger et al. (eds.), Stanford, CA: Stanford University Press, 114–125.
-* Hill, Christopher S. and Joshua Schechter, 2007, “Hawthorne’s Lottery Puzzle and the Nature of Belief”, *Philosophical Issues*, 17: 102–122. doi:10.1111/j.1533-6077.2007.00125.x
-* Hinchman, Edward S., 2013, “Assertion, Sincerity, and Knowledge”, *Noûs*, 47(4): 613–646. doi:10.1111/nous.12045
-* Hindriks, Frank, 2007, “The Status of the Knowledge Account of Assertion”, *Linguistics and Philosophy*, 30(3): 393–406. doi:10.1007/s10988-007-9019-5
-* Holmes, Janet, 1984, “Modifying Illocutionary Force”, *Journal of Pragmatics*, 8(3): 345–365. doi:10.1016/0378-2166(84)90028-6
+* Hill, Christopher S. and Joshua Schechter, 2007, “Hawthorne’s Lottery Puzzle and the Nature of Belief”, *Philosophical Issues*, 17: 102–122. doi: 10.1111/j.1533-6077.2007.00125.x
+* Hinchman, Edward S., 2013, “Assertion, Sincerity, and Knowledge”, *Noûs*, 47(4): 613–646. doi: 10.1111/nous.12045
+* Hindriks, Frank, 2007, “The Status of the Knowledge Account of Assertion”, *Linguistics and Philosophy*, 30(3): 393–406. doi: 10.1007/s10988-007-9019-5
+* Holmes, Janet, 1984, “Modifying Illocutionary Force”, *Journal of Pragmatics*, 8(3): 345–365. doi: 10.1016/0378-2166(84)90028-6
 * Hookway, Christopher, 1985, *Peirce,* Routledge, London.
-* Hornsby, Jennifer and Rae Langton, 1998, “Free Speech and Illocution”, *Legal Theory*, 4(1): 21–37. doi:10.1017/S1352325200000902
-* Incurvati, Luca and Julian J. Schlöder, 2019, “Weak Assertion”, *The Philosophical Quarterly*, 69(277): 741–770. doi:10.1093/pq/pqz016
-* Jackson, Frank,1979, “On assertion and indicative conditionals”, *The Philosophical Review,* 88 (4):565-589.
-* Jary, Mark, 2010, *Assertion*, London: Palgrave Macmillan UK. doi:10.1057/9780230274617
+* Hornsby, Jennifer and Rae Langton, 1998, “Free Speech and Illocution”, *Legal Theory*, 4(1): 21–37. doi: 10.1017/S1352325200000902
+* Incurvati, Luca and Julian J. Schlöder, 2019, “Weak Assertion”, *The Philosophical Quarterly*, 69(277): 741–770. doi: 10.1093/pq/pqz016
+* Jackson, Frank,1979, “On assertion and indicative conditionals”, *The Philosophical Review,* 88 (4): 565-589.
+* Jary, Mark, 2010, *Assertion*, London: Palgrave Macmillan UK. doi: 10.1057/9780230274617
 * Kaplan, David, 1989, “Demonstratives: An Essay on the Semantics, Logic, Metaphysics and Epistemology of Demonstratives and other Indexicals”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563. Paper first presented at the March 1977 meeting of the Pacfic Division of the American Philosophical Association.
-* Karttunen, Lauri, 1974, “Presupposition and Linguistic Context”, *Theoretical Linguistics*, 1(1–3): 181–194. doi:10.1515/thli.1974.1.1-3.181
-* Kneer, Markus, 2018, “The Norm of Assertion: Empirical Data”, *Cognition*, 177: 165–171. doi:10.1016/j.cognition.2018.03.020
-* –––, 2021, “Norms of assertion in the United States, Germany, and Japan”, *Proceedings of the National Academy of Sciences*, 118 (37). doi:10.1073/pnas.2105365118
-* Koethe, John, 2009, “Knowledge and the Norms of Assertion”, *Australasian Journal of Philosophy*, 87(4): 625–638. doi:10.1080/00048400802598660
-* Kot’átko, Petr, 1998, “Two Notions of Utterance Meaning”, *Proceedings of the Aristotelian Society*, 98(3): 225–239. doi:10.1111/1467-9264.00035
-* Kölbel, Max, 2004, “Faultless Disagreement”, *Proceedings of the Aristotelian Society*, 104(1): 53–73. doi:10.1111/j.0066-7373.2004.00081.x
-* –––, 2010, “Literal Force: A Defence of Conventional Assertion”, in *New Waves in Philosophy of Language*, Sarah Sawyer (ed.), London: Palgrave Macmillan UK, 108–137. doi:10.1057/9780230248588_7
+* Karttunen, Lauri, 1974, “Presupposition and Linguistic Context”, *Theoretical Linguistics*, 1(1–3): 181–194. doi: 10.1515/thli.1974.1.1-3.181
+* Kneer, Markus, 2018, “The Norm of Assertion: Empirical Data”, *Cognition*, 177: 165–171. doi: 10.1016/j.cognition.2018.03.020
+* –––, 2021, “Norms of assertion in the United States, Germany, and Japan”, *Proceedings of the National Academy of Sciences*, 118 (37). doi: 10.1073/pnas.2105365118
+* Koethe, John, 2009, “Knowledge and the Norms of Assertion”, *Australasian Journal of Philosophy*, 87(4): 625–638. doi: 10.1080/00048400802598660
+* Kot’átko, Petr, 1998, “Two Notions of Utterance Meaning”, *Proceedings of the Aristotelian Society*, 98(3): 225–239. doi: 10.1111/1467-9264.00035
+* Kölbel, Max, 2004, “Faultless Disagreement”, *Proceedings of the Aristotelian Society*, 104(1): 53–73. doi: 10.1111/j.0066-7373.2004.00081.x
+* –––, 2010, “Literal Force: A Defence of Conventional Assertion”, in *New Waves in Philosophy of Language*, Sarah Sawyer (ed.), London: Palgrave Macmillan UK, 108–137. doi: 10.1057/9780230248588_7
 * –––, 2011, “Conversational Score, Assertion, and Testimony”, in Brown and Cappelen 2011: 49–77.
 * Kvanvig, Jonathan L., 2009, “Assertion, Knowledge and Lotteries”, in *Williamson on Knowledge*, Patrick Greenough and Duncan Pritchard (eds.), Oxford: Oxford University Press, pp. 140–160.
 * –––, 2011, “Norms of Assertion”, in Brown and Cappelen 2011: 233–250.
-* Labinaz, Paolo, 2018, “Brandom’s Deontic Scorekeeping Model and the Assertive Family”, *Journal of Pragmatics*, 128: 53–66. doi:10.1016/j.pragma.2018.03.006
-* Labinaz, Paolo and Marina Sbisà, 2014, “Certainty and Uncertainty in Assertive Speech Acts”, in *Communicating Certainty and Uncertainty in Medical, Supportive and Scientific Contexts*, Andrzej Zuczkowski, Ramona Bongelli, Ilaria Riccioni, and Carla Canestrari (eds.), (Dialogue Studies 25), Amsterdam: John Benjamins Publishing Company, 31–58. doi:10.1075/ds.25.02lab
-* Lackey, Jennifer, 2007, “Norms of Assertion”, *Noûs*, 41(4): 594–626. doi:10.1111/j.1468-0068.2007.00664.x
+* Labinaz, Paolo, 2018, “Brandom’s Deontic Scorekeeping Model and the Assertive Family”, *Journal of Pragmatics*, 128: 53–66. doi: 10.1016/j.pragma.2018.03.006
+* Labinaz, Paolo and Marina Sbisà, 2014, “Certainty and Uncertainty in Assertive Speech Acts”, in *Communicating Certainty and Uncertainty in Medical, Supportive and Scientific Contexts*, Andrzej Zuczkowski, Ramona Bongelli, Ilaria Riccioni, and Carla Canestrari (eds.), (Dialogue Studies 25), Amsterdam: John Benjamins Publishing Company, 31–58. doi: 10.1075/ds.25.02lab
+* Lackey, Jennifer, 2007, “Norms of Assertion”, *Noûs*, 41(4): 594–626. doi: 10.1111/j.1468-0068.2007.00664.x
 * –––, 2008, “Norms of Assertion and Testimonial Knowledge”, in her *Learning from Words: Testimony as a Source of Knowledge*, Oxford: Oxford University Press, pp. 103–141.
 * –––, 2011, “Assertion and Isolated Second-Hand Knowledge”, in Brown and Cappelen 2011: 251–275.
-* Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste”, *Linguistics and Philosophy*, 28(6): 643–686. doi:10.1007/s10988-005-0596-x
-* Levin, Janet, 2008, “Assertion, Practical Reason, and Pragmatic Theories of Knowledge”, *Philosophy and Phenomenological Research*, 76(2): 359–384. doi:10.1111/j.1933-1592.2007.00136.x
-* Levinson, Stephen C., 1983, *Pragmatics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511813313
+* Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste”, *Linguistics and Philosophy*, 28(6): 643–686. doi: 10.1007/s10988-005-0596-x
+* Levin, Janet, 2008, “Assertion, Practical Reason, and Pragmatic Theories of Knowledge”, *Philosophy and Phenomenological Research*, 76(2): 359–384. doi: 10.1111/j.1933-1592.2007.00136.x
+* Levinson, Stephen C., 1983, *Pragmatics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511813313
 * –––, 2000, *Presumptive Meanings. The Theory of Generalized Conversational Implicature*, Cambridge, MA: MIT Press.
 * Lewis, David, 1976, “Probabilities of conditionals and conditional probabilities”, *Philosophical Review,* 85(3), 297–315.
 * –––, 1979, “Scorekeeping in a Language Game”, *Journal of Philosophical Logic*, 8(1): 339–359.
-* Littlejohn, Clayton and John Turri (eds.), 2014, *Epistemic Norms: New Essays on Action, Belief, and Assertion*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199660025.001.0001
+* Littlejohn, Clayton and John Turri (eds.), 2014, *Epistemic Norms: New Essays on Action, Belief, and Assertion*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199660025.001.0001
 * Lyons, John. 1977. *Semantics*, Volume 2. Cambridge University Press.
-* MacFarlane, John, 2005, “Making Sense of Relative Truth”, *Proceedings of the Aristotelian Society (Hardback)*, 105(1): 305–323. doi:10.1111/j.0066-7373.2004.00116.x
+* MacFarlane, John, 2005, “Making Sense of Relative Truth”, *Proceedings of the Aristotelian Society (Hardback)*, 105(1): 305–323. doi: 10.1111/j.0066-7373.2004.00116.x
 * –––, 2011, “What is Assertion?” in Brown and Cappelen 2011: 79–96. [[MacFarlane 2011 draft available online](https://www.johnmacfarlane.net/assertion.pdf)]
-* –––, 2014, *Assessment Sensitivity: Relative Truth and Its Applications*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682751.001.0001
+* –––, 2014, *Assessment Sensitivity: Relative Truth and Its Applications*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199682751.001.0001
 * Maitra, Ishani, 2011, “Assertion, Norms, and Games”, in Brown and Cappelen 2011: 277–296.
-* Maitra, Ishani and Brian Weatherson, 2010, “Assertion, Knowledge, and Action”, *Philosophical Studies*, 149(1): 99–118. doi:10.1007/s11098-010-9542-z
-* Marques, Teresa, 2014, “Relative Correctness”, *Philosophical Studies*, 167(2): 361–373. doi:10.1007/s11098-013-0100-3
-* Marsili, Neri, 2015, “Normative Accounts of Assertion: From Peirce to Williamson, and Back Again”, *Rivista Italiana Di Filosofia Del Linguaggio*, 2015: 112–130. doi:10.4396/26SFL2014
-* –––, 2016, “Lying by Promising”, *International Review of Pragmatics*, 8(2): 271–313. doi:10.1163/18773109-00802005
-* –––, 2018, “Truth and Assertion: Rules versus Aims”, *Analysis*, 78(4): 638–648. doi:10.1093/analys/any008
-* –––, forthcoming-a, “The Norm of Assertion: A ‘Constitutive’ Rule?”, *Inquiry*. doi:10.1080/0020174X.2019.1667868
+* Maitra, Ishani and Brian Weatherson, 2010, “Assertion, Knowledge, and Action”, *Philosophical Studies*, 149(1): 99–118. doi: 10.1007/s11098-010-9542-z
+* Marques, Teresa, 2014, “Relative Correctness”, *Philosophical Studies*, 167(2): 361–373. doi: 10.1007/s11098-013-0100-3
+* Marsili, Neri, 2015, “Normative Accounts of Assertion: From Peirce to Williamson, and Back Again”, *Rivista Italiana Di Filosofia Del Linguaggio*, 2015: 112–130. doi: 10.4396/26SFL2014
+* –––, 2016, “Lying by Promising”, *International Review of Pragmatics*, 8(2): 271–313. doi: 10.1163/18773109-00802005
+* –––, 2018, “Truth and Assertion: Rules versus Aims”, *Analysis*, 78(4): 638–648. doi: 10.1093/analys/any008
+* –––, forthcoming-a, “The Norm of Assertion: A ‘Constitutive’ Rule?”, *Inquiry*. doi: 10.1080/0020174X.2019.1667868
 * –––, forthcoming-b, “Lies, Common Ground and Performative Utterances”, *Erkenntnis.* doi: 10.1007/s10670-020-00368-4
-* Marsili, Neri and Alex Wiegmann, 2021, “Should I Say That? An Experimental Investigation of the Norm of Assertion”, *Cognition*, 212: 104657. doi:10.1016/j.cognition.2021.104657
-* Mazzarella, Diana, Robert Reinecke, Ira Noveck, and Hugo Mercier, 2018, “Saying, Presupposing and Implicating: How Pragmatics Modulates Commitment”, *Journal of Pragmatics*, 133: 15–27. doi:10.1016/j.pragma.2018.05.009
+* Marsili, Neri and Alex Wiegmann, 2021, “Should I Say That? An Experimental Investigation of the Norm of Assertion”, *Cognition*, 212: 104657. doi: 10.1016/j.cognition.2021.104657
+* Mazzarella, Diana, Robert Reinecke, Ira Noveck, and Hugo Mercier, 2018, “Saying, Presupposing and Implicating: How Pragmatics Modulates Commitment”, *Journal of Pragmatics*, 133: 15–27. doi: 10.1016/j.pragma.2018.05.009
 * McCammon, Christopher, 2014, “Representing Yourself as Knowing”, *American Philosophical Quarterly*, 51(2): 134–144.
 * McIntosh, Jonny, 2020, “How to understand the knowledge norm of assertion: reply to Schlöder”, *Thought: A Journal of Philosophy,* 9,207–214.https://doi.org10.1002/tht3.452
-* McKenna, Robin, 2013, “Why Assertion and Practical Reasoning Are Possibly Not Governed by the Same Epistemic Norm”, *Logos & Episteme*, 4(4): 457–464. doi:10.5840/logos-episteme2013446
-* –––, 2015, “Assertion, Complexity, and Sincerity”, *Australasian Journal of Philosophy*, 93(4): 782–798. doi:10.1080/00048402.2014.1003075
+* McKenna, Robin, 2013, “Why Assertion and Practical Reasoning Are Possibly Not Governed by the Same Epistemic Norm”, *Logos & Episteme*, 4(4): 457–464. doi: 10.5840/logos-episteme2013446
+* –––, 2015, “Assertion, Complexity, and Sincerity”, *Australasian Journal of Philosophy*, 93(4): 782–798. doi: 10.1080/00048402.2014.1003075
 * McKinnon, Rachel, 2013, “The Supportive Reasons Norm of Assertion”, *American Philosophical Quarterly*, 50(2): 121–135.
-* –––, 2015, *The Norms of Assertion: Truth, Lies, and Warrant*, London: Palgrave Macmillan UK. doi:10.1057/9781137521729
-* McKinnon, Rachel and John Turri, 2013, “Irksome Assertions”, *Philosophical Studies*, 166(1): 123–128. doi:10.1007/s11098-012-0028-z
-* Mehta, Neil, 2016, “Knowledge and Other Norms for Assertion, Action, and Belief: A Teleological Account”, *Philosophy and Phenomenological Research*, 93(3): 681–705. doi:10.1111/phpr.12222
-* Midgley, G. C. J., 1959, “Linguistic Rules”, *Proceedings of the Aristotelian Society*, 59(1): 271–290. doi:10.1093/aristotelian/59.1.271
+* –––, 2015, *The Norms of Assertion: Truth, Lies, and Warrant*, London: Palgrave Macmillan UK. doi: 10.1057/9781137521729
+* McKinnon, Rachel and John Turri, 2013, “Irksome Assertions”, *Philosophical Studies*, 166(1): 123–128. doi: 10.1007/s11098-012-0028-z
+* Mehta, Neil, 2016, “Knowledge and Other Norms for Assertion, Action, and Belief: A Teleological Account”, *Philosophy and Phenomenological Research*, 93(3): 681–705. doi: 10.1111/phpr.12222
+* Midgley, G. C. J., 1959, “Linguistic Rules”, *Proceedings of the Aristotelian Society*, 59(1): 271–290. doi: 10.1093/aristotelian/59.1.271
 * Milić, Ivan, 2015, “A Note on Existentially Known Assertions”, *Philosophical Quarterly,* 65(261), 813-821.
-* –––, 2017, “Against Selfless Assertions”, *Philosophical Studies*, 174(9): 2277–2295. doi:10.1007/s11098-016-0798-9
-* Montminy, Martin, 2013a, “Explaining Dubious Assertions”, *Philosophical Studies*, 165(3): 825–830. doi:10.1007/s11098-012-9983-7
-* –––, 2013b, “The Single Norm of Assertion”, in *Perspectives on Pragmatics and Philosophy*, Alessandro Capone, Franco Lo Piparo, and Marco Carapezza (eds.), Cham: Springer International Publishing, 35–52. doi:10.1007/978-3-319-01011-3_2
+* –––, 2017, “Against Selfless Assertions”, *Philosophical Studies*, 174(9): 2277–2295. doi: 10.1007/s11098-016-0798-9
+* Montminy, Martin, 2013a, “Explaining Dubious Assertions”, *Philosophical Studies*, 165(3): 825–830. doi: 10.1007/s11098-012-9983-7
+* –––, 2013b, “The Single Norm of Assertion”, in *Perspectives on Pragmatics and Philosophy*, Alessandro Capone, Franco Lo Piparo, and Marco Carapezza (eds.), Cham: Springer International Publishing, 35–52. doi: 10.1007/978-3-319-01011-3_2
 * Moore, George Edward, 1912 [1966], *Ethics: The Nature of Moral Philosophy*, New York: Henry Holt. Second edition, Oxford: Oxford University Press, 1966.
 * –––, 1944, “Russell’s ‘Theory of Description’”, in *The Philosophy of Bertrand Russell*, Paul Arthur Schilpp (ed.), Evanston, IL: Northwestern University, 175–225.
 * Moran, Richard, 2005, “Getting Told and Being Believed”, *Philosophers’ Imprint*, 5: art. 5. [[Moran 2005 available online](http://hdl.handle.net/2027/spo.3521354.0005.005)]
-* Nes, Anders, 2016, “Assertion, Belief, and ‘I Believe’-Guarded Affirmation”, *Linguistics and Philosophy*, 39(1): 57–86. doi:10.1007/s10988-015-9181-0
-* Owens, David, 2006, “Testimony and Assertion”, *Philosophical Studies*, 130: 105–129. doi:10.1007/s11098-005-3237-x
+* Nes, Anders, 2016, “Assertion, Belief, and ‘I Believe’-Guarded Affirmation”, *Linguistics and Philosophy*, 39(1): 57–86. doi: 10.1007/s10988-015-9181-0
+* Owens, David, 2006, “Testimony and Assertion”, *Philosophical Studies*, 130: 105–129. doi: 10.1007/s11098-005-3237-x
 * Pagin, Peter, 1987, *Ideas for a Theory of Rules*, PhD thesis, Stockholm University, Department of Philosophy.
-* –––, 2004, “Is Assertion Social?”, *Journal of Pragmatics*, 36(5): 833–859. doi:10.1016/j.pragma.2003.10.004
-* –––, 2009, “Assertion Not Possibly Social”, *Journal of Pragmatics*, 41(12): 2563–2567. doi:10.1016/j.pragma.2008.12.014
+* –––, 2004, “Is Assertion Social?”, *Journal of Pragmatics*, 36(5): 833–859. doi: 10.1016/j.pragma.2003.10.004
+* –––, 2009, “Assertion Not Possibly Social”, *Journal of Pragmatics*, 41(12): 2563–2567. doi: 10.1016/j.pragma.2008.12.014
 * –––, 2011, “Information and Assertoric Force”, in Brown and Cappelen 2011: 97–136.
-* –––, 2016a, “*De Se* Communication”, in *About Oneself*, Manuel García-Carpintero and Stephan Torre (eds.), Oxford: Oxford University Press, 272–306. doi:10.1093/acprof:oso/9780198713265.003.0011
-* –––, 2016b, “Problems with Norms of Assertion”, *Philosophy and Phenomenological Research*, 93(1): 178–207. doi:10.1111/phpr.12209
-* –––, 2020, “The Indicativity View”, in Goldberg 2020: 118–137. doi:10.1093/oxfordhb/9780190675233.013.5
-* Papafragou, Anna, 2006, “Epistemic Modality and Truth Conditions”, *Lingua*, 116(10): 1688–1702. doi:10.1016/j.lingua.2005.05.009
+* –––, 2016a, “*De Se* Communication”, in *About Oneself*, Manuel García-Carpintero and Stephan Torre (eds.), Oxford: Oxford University Press, 272–306. doi: 10.1093/acprof: oso/9780198713265.003.0011
+* –––, 2016b, “Problems with Norms of Assertion”, *Philosophy and Phenomenological Research*, 93(1): 178–207. doi: 10.1111/phpr.12209
+* –––, 2020, “The Indicativity View”, in Goldberg 2020: 118–137. doi: 10.1093/oxfordhb/9780190675233.013.5
+* Papafragou, Anna, 2006, “Epistemic Modality and Truth Conditions”, *Lingua*, 116(10): 1688–1702. doi: 10.1016/j.lingua.2005.05.009
 * Peet, Andrew, 2015, “Testimony, pragmatics, and plausible deniability”, *Episteme*, 12(1): 29-51. https://doi.org/10.1017/epi.2014.31
-* –––, forthcoming, “Assertoric Content, Responsibility, and Metasemantics”, *Mind and Language,* doi:10.1111/mila.12372
-* Pegan, Philip, 2009, “Why Assertion May yet Be Social”, *Journal of Pragmatics*, 41(12): 2557–2562. doi:10.1016/j.pragma.2008.12.009
+* –––, forthcoming, “Assertoric Content, Responsibility, and Metasemantics”, *Mind and Language,* doi: 10.1111/mila.12372
+* Pegan, Philip, 2009, “Why Assertion May yet Be Social”, *Journal of Pragmatics*, 41(12): 2557–2562. doi: 10.1016/j.pragma.2008.12.009
 * Peirce, Charles Sanders, [MS], “Lectures on Logic, to be delivered at the Lowell Institute”, 1903, manuscript MS R 454, Robin Catalogue.
 * –––, [NEM], *The New Elements of Mathematics*, Carolyn Eisele (ed.), volume IV, The Hague: Mouton, 1976.
 * –––, [CP], *Collected Papers of Charles Sanders Peirce*, 8 volumes (Volume 2: *Elements of Logic*, 1932; Volume 5: *Pragmatism and Pragmaticism*, 1935), Charles Hartshorne, Paul Weiss, and Arthur W. Burks (eds.), Cambridge, MA: Harvard University Press, 1931–1958.
 * Pelling, Charlie. 2011. “A self-referential paradox for the truth account of assertion”, *Analysis* 71 (4): 688-688. https://doi.org/10.1093/analys/anr093.
-* –––, 2013a, “Assertion and The Provision of Knowledge”, *The Philosophical Quarterly*, 63(251): 293–312. doi:10.1111/1467-9213.12013
+* –––, 2013a, “Assertion and The Provision of Knowledge”, *The Philosophical Quarterly*, 63(251): 293–312. doi: 10.1111/1467-9213.12013
 * –––, 2013b, “Paradox and the Knowledge Account of Assertion”, *Erkenntnis* 78 (5): 977-78. https://doi.org/10.1007/s10670-012-9360-0.
 * Pritchard, Duncan, 2014, “Epistemic Luck, Safety, and Assertion”, in Littlejohn and Turri 2014: ch. 8, pp. 155–172.
-* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398
-* Rawls, John, 1955, “Two Concepts of Rules”, *The Philosophical Review*, 64(1): 3–32. doi:10.2307/2182230
+* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625398
+* Rawls, John, 1955, “Two Concepts of Rules”, *The Philosophical Review*, 64(1): 3–32. doi: 10.2307/2182230
 * Recanati, François, 1987, *Meaning and Force. The Pragmatics of Performative Utterances*, Cambridge: Cambridge University Press.
-* –––, 2004, *Literal Meaning*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511615382
-* –––, 2007, *Perspectival Thought: A Plea for (Moderate) Relativism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230532.001.0001
-* Reiland, Indrek, 2020, “Constitutive Rules: Games, Language, and Assertion”, *Philosophy and Phenomenological Research*, 100(1): 136–159. doi:10.1111/phpr.12525
+* –––, 2004, *Literal Meaning*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511615382
+* –––, 2007, *Perspectival Thought: A Plea for (Moderate) Relativism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199230532.001.0001
+* Reiland, Indrek, 2020, “Constitutive Rules: Games, Language, and Assertion”, *Philosophy and Phenomenological Research*, 100(1): 136–159. doi: 10.1111/phpr.12525
 * Reinach, Adolf, 1913, “Die apriorischen Grundlagen des bürgerlichen Rechts”, *Jahrbuch für Philosophie und phänomenologische Forschung,* I(2), 685-847, Translated by J. F. Crosby as “The Apriori Foundations of the Civil Law”, *Aletheia*, III, 1983: 1-142.
 * Rescorla, Michael, 2007, “A Linguistic Reason for Truthfulness”, in *Truth and Speech Acts: Studies in the Philosophy of Language*, Dirk Greimann and Geo Siegwart (eds.), London: Routledge, pp. 250-279.
-* –––, 2009a, “Assertion and Its Constitutive Norms”, *Philosophy and Phenomenological Research*, 79(1): 98–130. doi:10.1111/j.1933-1592.2009.00268.x
-* –––, 2009b, “Shifting the Burden of Proof?”, *The Philosophical Quarterly*, 59(234): 86–109. doi:10.1111/j.1467-9213.2008.555.x
-* Reuter, Kevin and Peter Brössel, 2019, “No Knowledge Required”, *Episteme*, 16(3): 303–321. doi:10.1017/epi.2018.10
-* Reynolds, Steven L., 2002, “Testimony, Knowledge, and Epistemic Goals”, *Philosophical Studies*, 110(2): 139–161. doi:10.1023/A:1020254327114
+* –––, 2009a, “Assertion and Its Constitutive Norms”, *Philosophy and Phenomenological Research*, 79(1): 98–130. doi: 10.1111/j.1933-1592.2009.00268.x
+* –––, 2009b, “Shifting the Burden of Proof?”, *The Philosophical Quarterly*, 59(234): 86–109. doi: 10.1111/j.1467-9213.2008.555.x
+* Reuter, Kevin and Peter Brössel, 2019, “No Knowledge Required”, *Episteme*, 16(3): 303–321. doi: 10.1017/epi.2018.10
+* Reynolds, Steven L., 2002, “Testimony, Knowledge, and Epistemic Goals”, *Philosophical Studies*, 110(2): 139–161. doi: 10.1023/A: 1020254327114
 * Rysiew, Patrick, 2007, “Beyond Words: Communication, Truthfulness, and Understanding”. *Episteme* 4 (3): 285-304. https://doi.org/10.3366/E1742360007000093
 * Rosenkranz, Sven, forthcoming, “Problems for factive accounts of assertion”, *Noûs,* 10.1111/nous.12395
 * Sadock, Jerrold M., 1974, *Toward a Linguistic Theory of Speech Acts*, New York: Academic Press.
-* Sbisà, Marina, 2001, “Illocutionary Force and Degrees of Strength in Language Use”, *Journal of Pragmatics*, 33(12): 1791–1814. doi:10.1016/S0378-2166(00)00060-6
-* –––, 2020, “Assertion among the Speech Acts”, in Goldberg 2020: 157–178. doi:10.1093/oxfordhb/9780190675233.013.7
-* Schaffer, Jonathan, 2008, “Knowledge in the Image of Assertion”, *Philosophical Issues*, 18: 1–19. doi:10.1111/j.1533-6077.2008.00134.x
+* Sbisà, Marina, 2001, “Illocutionary Force and Degrees of Strength in Language Use”, *Journal of Pragmatics*, 33(12): 1791–1814. doi: 10.1016/S0378-2166(00)00060-6
+* –––, 2020, “Assertion among the Speech Acts”, in Goldberg 2020: 157–178. doi: 10.1093/oxfordhb/9780190675233.013.7
+* Schaffer, Jonathan, 2008, “Knowledge in the Image of Assertion”, *Philosophical Issues*, 18: 1–19. doi: 10.1111/j.1533-6077.2008.00134.x
 * Schiffer, Stephen, 1972, *Meaning*, Oxford: Clarendon Press.
-* Schlick, Moritz, 1936, “Meaning and Verification”, *The Philosophical Review*, 45(4): 339–369. doi:10.2307/2180487
+* Schlick, Moritz, 1936, “Meaning and Verification”, *The Philosophical Review*, 45(4): 339–369. doi: 10.2307/2180487
 * Schlöder, Julian J., 2018,. The logic of the knowledge norm of assertion. *Thought: A Journal of Philosophy*, 7,49–57. https://doi.org10.1002/tht3.268 Simion, M. (2016). Assertion: know
-* Searle, John R., 1969, *Speech Acts: An Essay in the Philosophy of Language*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173438
+* Searle, John R., 1969, *Speech Acts: An Essay in the Philosophy of Language*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139173438
 * –––, 1975a, “A Taxonomy of Illocutionary Acts”, in *Language, Mind and Knowledge*, Keith Gunderson (ed.), (Minnesota studies in the philosophy of science, 7), 344–369. [[Searle 1975 available online](https://hdl.handle.net/11299/185220)]
 * –––, 1975b, “Indirect Speech Acts”, in Cole and Morgan 1975: 59–82.
-* –––, 1979, *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609213
-* –––, 2010, *Making the Social World: The Structure of Human Civilization*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780195396171.001.0001
+* –––, 1979, *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511609213
+* –––, 2010, *Making the Social World: The Structure of Human Civilization*, Oxford: Oxford University Press. doi: 10.1093/acprof: osobl/9780195396171.001.0001
 * Searle John, and Daniel Vanderveken, 1985, *Foundations of Illocutionary Logic*, Cambridge: Cambridge University Press.
-* Shapiro, Lionel, 2020, “Commitment Accounts of Assertion”, in Goldberg 2020: 73-97. doi:10.1093/oxfordhb/9780190675233.013.4
-* Siebel, Mark, 2020, “The Belief View of Assertion”, in Goldberg 2020: 97–118. doi:10.1093/oxfordhb/9780190675233.013.4
-* Simion, Mona, 2016, “Assertion: Knowledge Is Enough”, *Synthese*, 193(10): 3041–3056. doi:10.1007/s11229-015-0914-y
-* Simion, Mona and Christoph Kelp, 2020, “Assertion: The Constitutive Norms View”, in Goldberg 2020: 57–73. doi:10.1093/oxfordhb/9780190675233.013.2
-* Simons, Mandy, 2006, “Foundational Issues in Presupposition”, *Philosophy Compass*, 1(4): 357–372. doi:10.1111/j.1747-9991.2006.00028.x
+* Shapiro, Lionel, 2020, “Commitment Accounts of Assertion”, in Goldberg 2020: 73-97. doi: 10.1093/oxfordhb/9780190675233.013.4
+* Siebel, Mark, 2020, “The Belief View of Assertion”, in Goldberg 2020: 97–118. doi: 10.1093/oxfordhb/9780190675233.013.4
+* Simion, Mona, 2016, “Assertion: Knowledge Is Enough”, *Synthese*, 193(10): 3041–3056. doi: 10.1007/s11229-015-0914-y
+* Simion, Mona and Christoph Kelp, 2020, “Assertion: The Constitutive Norms View”, in Goldberg 2020: 57–73. doi: 10.1093/oxfordhb/9780190675233.013.2
+* Simons, Mandy, 2006, “Foundational Issues in Presupposition”, *Philosophy Compass*, 1(4): 357–372. doi: 10.1111/j.1747-9991.2006.00028.x
 * Slote, Michael A., 1979, “Assertion and Belief”, in *Papers on Language and Logic*, Jonathan Dancy (ed.), Keele: Keele University Library, 177–190,.
-* Smith, Barry, 1990, “Towards a History of Speech Act Theory”, in *Speech Acts, Meanings and Intentions. Critical Approaches to the Philosophy of John R. Searle*, Armin Brukhardt (ed.), Berlin/New York: Walter de Gruyter, 29–61. doi:10.1515/9783110859485.29
-* Smith, Martin, 2012, “Some Thoughts on the JK-Rule 1”, *Noûs*, 46(4): 791–802. doi:10.1111/j.1468-0068.2012.00866.x
-* Smithies, Declan, 2012, “The Normative Role of Knowledge”, *Noûs*, 46(2): 265–288. doi:10.1111/j.1468-0068.2010.00787.x
-* Sosa, David, 2009, “Dubious Assertions”, *Philosophical Studies*, 146(2): 269–272. doi:10.1007/s11098-008-9255-8
+* Smith, Barry, 1990, “Towards a History of Speech Act Theory”, in *Speech Acts, Meanings and Intentions. Critical Approaches to the Philosophy of John R. Searle*, Armin Brukhardt (ed.), Berlin/New York: Walter de Gruyter, 29–61. doi: 10.1515/9783110859485.29
+* Smith, Martin, 2012, “Some Thoughts on the JK-Rule 1”, *Noûs*, 46(4): 791–802. doi: 10.1111/j.1468-0068.2012.00866.x
+* Smithies, Declan, 2012, “The Normative Role of Knowledge”, *Noûs*, 46(2): 265–288. doi: 10.1111/j.1468-0068.2010.00787.x
+* Sosa, David, 2009, “Dubious Assertions”, *Philosophical Studies*, 146(2): 269–272. doi: 10.1007/s11098-008-9255-8
 * Sperber, Dan and Deirdre Wilson, 1986, *Relevance: Communication and Cognition*, Oxford: Blackwell.
 * –––, 1995, *Relevance: Communication and Cognition*, second edition, Oxford: Blackwell.
-* Stainton, Robert J., 1996, “What Assertion Is Not”, *Philosophical Studies*, 85(1): 57–73. doi:10.1023/A:1017922124403
-* –––, 2006, *Words and Thoughts: Subsentences, Ellipsis, and the Philosophy of Language*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199250387.001.0001
+* Stainton, Robert J., 1996, “What Assertion Is Not”, *Philosophical Studies*, 85(1): 57–73. doi: 10.1023/A: 1017922124403
+* –––, 2006, *Words and Thoughts: Subsentences, Ellipsis, and the Philosophy of Language*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199250387.001.0001
 * Stalnaker, Robert, 1974, “Pragmatic Presuppositions”, in *Semantics and Philosophy*, Milton K. Munitz and Peter Unger (eds.), New York: New York University Press, pp. 197–213.
 * –––, 1978, “Assertion”, in *Syntax and Semantics 9: Pragmatics*, Peter Cole (ed.), New York: New York Academic Press, 315–332.
-* –––, 2002, “Common Ground”, *Linguistics and Philosophy*, 25(5/6): 701–721. doi:10.1023/A:1020867916902
-* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Oxford University Press. doi:10.1093/0199288038.001.0001
-* –––, 2008, “Knowledge and Certainty”, *Philosophical Issues*, 18: 35–57. doi:10.1111/j.1533-6077.2008.00136.x
-* Stokke, Andreas, 2013, “Lying and Asserting”:, *Journal of Philosophy*, 110(1): 33–60. doi:10.5840/jphil2013110144
-* Stone, Jim, 2007, “Contextualism and Warranted Assertion”, *Pacific Philosophical Quarterly*, 88(1): 92–113. doi:10.1111/j.1468-0114.2007.00282.x
-* Strawson, Peter F., 1964, “Intention and Convention in Speech Acts”, *The Philosophical Review*, 73(4): 439–460. doi:10.2307/2183301
-* Tanesini, Alessandra, 2020, “Silencing and Assertion”, in Goldberg 2020: 748–769. doi:10.1093/oxfordhb/9780190675233.013.31
+* –––, 2002, “Common Ground”, *Linguistics and Philosophy*, 25(5/6): 701–721. doi: 10.1023/A: 1020867916902
+* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Oxford University Press. doi: 10.1093/0199288038.001.0001
+* –––, 2008, “Knowledge and Certainty”, *Philosophical Issues*, 18: 35–57. doi: 10.1111/j.1533-6077.2008.00136.x
+* Stokke, Andreas, 2013, “Lying and Asserting”:, *Journal of Philosophy*, 110(1): 33–60. doi: 10.5840/jphil2013110144
+* Stone, Jim, 2007, “Contextualism and Warranted Assertion”, *Pacific Philosophical Quarterly*, 88(1): 92–113. doi: 10.1111/j.1468-0114.2007.00282.x
+* Strawson, Peter F., 1964, “Intention and Convention in Speech Acts”, *The Philosophical Review*, 73(4): 439–460. doi: 10.2307/2183301
+* Tanesini, Alessandra, 2020, “Silencing and Assertion”, in Goldberg 2020: 748–769. doi: 10.1093/oxfordhb/9780190675233.013.31
 * Toulmin, Stephen E., 1958, *The Uses of Argument*, Cambridge: Cambridge University Press.
-* Turri, John, 2010, “Epistemic Invariantism and Speech Act Contextualism”, *The Philosophical Review*, 119(1): 77–95. doi:10.1215/00318108-2009-026
-* –––, 2011, “The Express Knowledge Account of Assertion”, *Australasian Journal of Philosophy*, 89(1): 37–45. doi:10.1080/00048401003660333
-* –––, 2013, “The Test of Truth: An Experimental Investigation of the Norm of Assertion”, *Cognition*, 129(2): 279–291. doi:10.1016/j.cognition.2013.06.012
-* –––, 2014, “Knowledge and Suberogatory Assertion”, *Philosophical Studies*, 167(3): 557–567. doi:10.1007/s11098-013-0112-z
-* –––, 2015, “Selfless Assertions: Some Empirical Evidence”, *Synthese*, 192(4): 1221–1233. doi:10.1007/s11229-014-0621-0
-* –––, 2016, “Knowledge and Assertion in ‘Gettier’ Cases”, *Philosophical Psychology*, 29(5): 759–775. doi:10.1080/09515089.2016.1154140
+* Turri, John, 2010, “Epistemic Invariantism and Speech Act Contextualism”, *The Philosophical Review*, 119(1): 77–95. doi: 10.1215/00318108-2009-026
+* –––, 2011, “The Express Knowledge Account of Assertion”, *Australasian Journal of Philosophy*, 89(1): 37–45. doi: 10.1080/00048401003660333
+* –––, 2013, “The Test of Truth: An Experimental Investigation of the Norm of Assertion”, *Cognition*, 129(2): 279–291. doi: 10.1016/j.cognition.2013.06.012
+* –––, 2014, “Knowledge and Suberogatory Assertion”, *Philosophical Studies*, 167(3): 557–567. doi: 10.1007/s11098-013-0112-z
+* –––, 2015, “Selfless Assertions: Some Empirical Evidence”, *Synthese*, 192(4): 1221–1233. doi: 10.1007/s11229-014-0621-0
+* –––, 2016, “Knowledge and Assertion in ‘Gettier’ Cases”, *Philosophical Psychology*, 29(5): 759–775. doi: 10.1080/09515089.2016.1154140
 * –––, 2017, “Experimental work on the norms of assertion”. *Philosophy Compass*, 12(e12425). https://doi.org/10.1111/phc3.12425
 * Tuzet, Giovanni, 2006, «Responsible for Truth? Peirce on Judgment and Assertion», in *Cognitio,* 7: 317-336.
-* Unger, Peter, 1975, *Ignorance: A Case for Scepticism*, Oxford: Oxford University Press. doi:10.1093/0198244177.001.0001
-* van Riel, Raphael van, 2019, “Lying beyond a Conversational Purpose: A Critique of Stokke’s Assertion-Based Account of Lying”, *The Journal of Philosophy*, 116(2): 106–118. doi:10.5840/jphil201911626
-* Vlach, Frank, 1981, “Speaker’s Meaning”, *Linguistics and Philosophy*, 4(3): 359–391. doi:10.1007/BF00304401
-* Watson, Gary, 2004, “Asserting and Promising”, *Philosophical Studies*, 117(1/2): 57–77. doi:10.1023/B:PHIL.0000014525.93335.9e
-* Weiner, Matthew, 2005, “Must We Know What We Say?”, *The Philosophical Review*, 114(2): 227–251. doi:10.1215/00318108-114-2-227
-* Whiting, Daniel, 2013, “Stick to the Facts: On the Norms of Assertion”, *Erkenntnis*, 78(4): 847–867. doi:10.1007/s10670-012-9383-6
-* –––, 2015, “Truth Is (Still) the Norm for Assertion: A Reply to Littlejohn”, *Erkenntnis*, 80(6): 1245–1253. doi:10.1007/s10670-015-9722-5
-* Williams, Bernard A. O., 1966, “Consistency and Realism”, *Aristotelian Society Supplementary Volume*, 40: 1–22. doi:10.1093/aristoteliansupp/40.1.1
+* Unger, Peter, 1975, *Ignorance: A Case for Scepticism*, Oxford: Oxford University Press. doi: 10.1093/0198244177.001.0001
+* van Riel, Raphael van, 2019, “Lying beyond a Conversational Purpose: A Critique of Stokke’s Assertion-Based Account of Lying”, *The Journal of Philosophy*, 116(2): 106–118. doi: 10.5840/jphil201911626
+* Vlach, Frank, 1981, “Speaker’s Meaning”, *Linguistics and Philosophy*, 4(3): 359–391. doi: 10.1007/BF00304401
+* Watson, Gary, 2004, “Asserting and Promising”, *Philosophical Studies*, 117(1/2): 57–77. doi: 10.1023/B: PHIL.0000014525.93335.9e
+* Weiner, Matthew, 2005, “Must We Know What We Say?”, *The Philosophical Review*, 114(2): 227–251. doi: 10.1215/00318108-114-2-227
+* Whiting, Daniel, 2013, “Stick to the Facts: On the Norms of Assertion”, *Erkenntnis*, 78(4): 847–867. doi: 10.1007/s10670-012-9383-6
+* –––, 2015, “Truth Is (Still) the Norm for Assertion: A Reply to Littlejohn”, *Erkenntnis*, 80(6): 1245–1253. doi: 10.1007/s10670-015-9722-5
+* Williams, Bernard A. O., 1966, “Consistency and Realism”, *Aristotelian Society Supplementary Volume*, 40: 1–22. doi: 10.1093/aristoteliansupp/40.1.1
 * –––, 2002, *Truth and Truthfulness. An Essay in Genealogy*, Princeton, NJ: Princeton University Press.
-* Williamson, Timothy, 1996, “Knowing and Asserting”, *The Philosophical Review*, 105(4): 489–523. doi:10.2307/2998423
-* –––, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Williamson, Timothy, 1996, “Knowing and Asserting”, *The Philosophical Review*, 105(4): 489–523. doi: 10.2307/2998423
+* –––, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi: 10.1093/019925656X.001.0001
 * Willard-Kyle, Christopher, forthcoming, “P, but you Don’t Know That P”. *Synthese*.
 * Wright, Crispin, 1992, *Truth and Objectivity*, Cambridge, MA: Harvard University Press.
 * Znamierowski, Czesław, 1924, *Podstawowe Pojęcia Teorii Prawa,* *cz. I. Układ Prawny i Norma* *Prawna* (The Basic Concepts of the Theory of Law, Part I: Legal System and Legal Norm), Fiszer i Majewski, Poznań.

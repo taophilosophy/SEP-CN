@@ -36,7 +36,7 @@
 
 今天，尽管许多女性主义哲学家的主流哲学教育仍然经常专注于一种哲学方法或传统，但人们可以毫不犹豫地找到“分析女性主义者”讨论博沃亚、福柯或巴特勒。可以说，由于女性主义哲学家的政治价值观和与其他女性主义者交流的愿望，他们比许多非女性主义哲学家更有动力寻求方法论的跨学科交流。（请参阅实用主义与大陆女性主义之间的交叉点和分析与大陆女性主义之间的交叉点。）
 
-女性主义哲学/理论自 1970 年代以来最广为人知的类别是由艾莉森·贾格尔（Alison Jaggar）基于政治价值观、目标和假设发展的。贾格尔区分了自由主义、激进主义、古典马克思主义和社会主义女性主义。每种女性主义都确定了妇女压迫的主要来源，并包括一个认识论、人类本性理论以及政治理论和社会变革策略（1983）\[4]。非常重要的是，一些有色人种妇女长期以来一直反对这些类别的广泛和霸权性使用（参见桑多瓦尔 1991 年，2000 年）。此外，由于这些类别基于政治理论，因此并不奇怪它们在社会/政治理论化方面的运作比在哲学内外进行形而上学、科学哲学、美学等工作的哲学家更为出色。
+女性主义哲学/理论自 1970 年代以来最广为人知的类别是由艾莉森 · 贾格尔（Alison Jaggar）基于政治价值观、目标和假设发展的。贾格尔区分了自由主义、激进主义、古典马克思主义和社会主义女性主义。每种女性主义都确定了妇女压迫的主要来源，并包括一个认识论、人类本性理论以及政治理论和社会变革策略（1983）\[4]。非常重要的是，一些有色人种妇女长期以来一直反对这些类别的广泛和霸权性使用（参见桑多瓦尔 1991 年，2000 年）。此外，由于这些类别基于政治理论，因此并不奇怪它们在社会/政治理论化方面的运作比在哲学内外进行形而上学、科学哲学、美学等工作的哲学家更为出色。
 
 Sandra Harding 在科学哲学和认识论的背景下发展了一套不同的广泛使用的女性主义哲学类别（1986）。 Harding 区分了女性主义经验主义者（实践自然和社会科学家，倾向于依赖逻辑实证主义理论）、从马克思主义认识论中汲取灵感的女性主义立场理论家，以及女性主义后现代主义者。尽管 Harding 通过哲学方法论来区分女性主义者，但重要的是要强调，她所谓的“女性主义经验主义者”类别捕捉到了一种在科学实践中致力于将科学实践保持在所谓科学客观性和中立性标准下的开创性女性科学家的趋势；然而，这种趋势背后的假设并非当今哲学家在谈论女性主义经验主义时所考虑的内容。当代分析女性主义经验主义哲学家倾向于是后维特根斯坦-奎因-戴维森经验主义者，因此不受 Harding 所提出的科学家主要反对意见的影响。例如，Longino（1990，2002），Nelson（1990），Solomon（2001），E. Lloyd（2008），以及 Scheman 和 O’Connor（2002）收集的论文，Nelson 和 Nelson（2003），Clough（2003），Superson 和 Brennan（2005），Grasswick（2011），Crasnow 和 Superson（2012），以及 Garavaso（2018）。
 
@@ -58,7 +58,7 @@ Sandra Harding 在科学哲学和认识论的背景下发展了一套不同的�
 
 这种“核心欲望”在分析女性主义者使用库德提到的一些我们可能称之为“核心概念”的方式中得到表达：真理、逻辑一致性、客观性、理性和正义。尽管如上文第 1 节所述，分析女性主义者同意其他女性主义哲学家认为这些概念的重要方面存在男性偏见，但分析女性主义者以其他女性主义者不同的方式捍卫这些概念。同时，分析女性主义者在一些问题上存在分歧，例如，关于真理或客观性应该采取何种解释，或者科学现实主义或反实在论哪种策略更好等。我们将在后面详细阐述这些细节，当我们在第六节讨论分析女性主义者对分析哲学的捍卫时，以及分析女性主义者对批评的回应。
 
-Pieranna Garavaso（皮埃兰娜·加拉瓦索）在 2018 年对分析女性主义的描述重新构建了核心概念或愿望，将其表述为工具包和阅读方式
+Pieranna Garavaso（皮埃兰娜 · 加拉瓦索）在 2018 年对分析女性主义的描述重新构建了核心概念或愿望，将其表述为工具包和阅读方式
 
 > 分析女性主义者是哲学家，他们使用通常在接受分析哲学培训时学到的方法论方法，即可能包括概念和逻辑分析、论证的运用、思维实验、反例等工具的不断扩展工具包，并通过突出各种社会不平等系统的存在和影响的滤镜阅读古典和当代哲学文本，这些不平等系统包括性别、种族、阶级、身体和精神能力以及性取向。(Garavaso 2018: 8)
 
@@ -70,9 +70,9 @@ Pieranna Garavaso（皮埃兰娜·加拉瓦索）在 2018 年对分析女性主�
 
 ### 4.3 风格与侵略
 
-尽管明确辩论并不等同于具有侵略性或对抗性的辩论方式，分析女性主义者已经讨论了风格上的侵略性问题。我们必须区分这个主题上的两个相关问题：首先，一般辩论中的侵略性方式，其次，珍妮丝·莫尔顿（Janice Moulton）对“对手方法”作为哲学范式的批评，特别是在分析哲学中（1983 年）。莫尔顿的观点不仅仅是社会构建的信念认为侵略是一种不像女性的特征，这使得女性在将侵略与能力等同的职业如哲学中处于不利地位（实际上，处于双重困境）。她还关注对手方法作为哲学范式的使用方式如何限制和扭曲哲学家的工作。
+尽管明确辩论并不等同于具有侵略性或对抗性的辩论方式，分析女性主义者已经讨论了风格上的侵略性问题。我们必须区分这个主题上的两个相关问题：首先，一般辩论中的侵略性方式，其次，珍妮丝 · 莫尔顿（Janice Moulton）对“对手方法”作为哲学范式的批评，特别是在分析哲学中（1983 年）。莫尔顿的观点不仅仅是社会构建的信念认为侵略是一种不像女性的特征，这使得女性在将侵略与能力等同的职业如哲学中处于不利地位（实际上，处于双重困境）。她还关注对手方法作为哲学范式的使用方式如何限制和扭曲哲学家的工作。
 
-莫尔顿使用“对手方法”来指称哲学观点，其中哲学家的任务是发展一般性主张，提出彼此一般性主张的反例，并仅使用演绎推理（1983: 152–153）。如果这是哲学的范式，而不仅仅是众多策略之一，那么这一学科将排除许多富有成效的探索和发展，扭曲哲学史，并（因为它在明确定义的领域中效果最佳，甚至是孤立的论证）极大地狭窄了哲学关注的范围。莫尔顿还看到这一范式中融入了她批判的几个理想，例如“无价值”推理和客观性。有趣的是，她并未从分析哲学中的明显例子（如埃德蒙德·盖蒂尔对“S 知道 p”的分析以及对此的几十年回应）中提取例证。相反，她使用了早期的女性主义文章，朱迪思·汤姆森的“堕胎的辩护”（1971 年），展示了由于对手方法施加的限制而可以搁置重要议题方面的方式。
+莫尔顿使用“对手方法”来指称哲学观点，其中哲学家的任务是发展一般性主张，提出彼此一般性主张的反例，并仅使用演绎推理（1983: 152–153）。如果这是哲学的范式，而不仅仅是众多策略之一，那么这一学科将排除许多富有成效的探索和发展，扭曲哲学史，并（因为它在明确定义的领域中效果最佳，甚至是孤立的论证）极大地狭窄了哲学关注的范围。莫尔顿还看到这一范式中融入了她批判的几个理想，例如“无价值”推理和客观性。有趣的是，她并未从分析哲学中的明显例子（如埃德蒙德 · 盖蒂尔对“S 知道 p”的分析以及对此的几十年回应）中提取例证。相反，她使用了早期的女性主义文章，朱迪思 · 汤姆森的“堕胎的辩护”（1971 年），展示了由于对手方法施加的限制而可以搁置重要议题方面的方式。
 
 我不知道有哪位女性主义者曾在印刷品中反对莫尔顿反对对手方法的具体论点，尽管有些人进行了进一步的区分（例如，Govier 1999 和 Rooney 2010）。然而，一些分析女性主义者指出了一般争论的价值。例如，Louise Antony 认为，从女性使用激进的分析写作和论证风格中可能产生的性别越界感和自由感具有价值（Antony 2003，另见 Baber 1993）。对于激进或对抗性风格的最新讨论出现在关于哲学中女性人数持续较低的讨论中，与其他人文学科相比（例如，Burrow 2010，Rooney 2010，Beebee 2014，以及关注黑人女性的不同观点，参见 Henning 2018，2020）。这个问题并没有使分析女性主义者（或其他人）达成一致意见。在风格上的分歧背后是重要的共同目标：为女性主义立场提供清晰、理性的支持，并在不同意的同时保持对他人的尊重。女性主义哲学家发现后者尤为重要，但在彼此之间存在分歧时却异常难以实现。尊重分歧的范围引发了有趣的辩论。
 
@@ -82,7 +82,7 @@ Pieranna Garavaso（皮埃兰娜·加拉瓦索）在 2018 年对分析女性主�
 
 随着分析女性主义领域的不断发展，其从业者已扩展了他们重建哲学所依赖的资源范围。一些分析女性主义者与其他追求参与式学术研究的人士一道，认为传统哲学和女性主义哲学都需要反映性别、种族/族裔、性取向、残疾、阶级等交叉分析的复杂性（Bailey 2010 和 Garry 2012 在他们关于交叉性的论点中特别针对分析女性主义者）。哲学家需要借鉴女性主义批判种族理论、批判性残疾研究以及酷儿和跨性别理论，丰富他们对各种压迫和特权交织方式的理解。
 
-重建哲学还需要理解特权和压迫在广泛构建认识上的无知以及导致认识不义和认识压迫的实践中所起的作用。例如，二十一世纪迅速增长的文献，如 Miranda Fricker（2007）和 Kristie Dotson（2011, 2014），以及 Nancy Tuana 和 Shannon Sullivan（2006）的多位作者，Sullivan 和 Tuana（2007），以及 Ian Kidd，José Medina 和 Gaile Pohlhaus（2017）引起我们的注意，特权被构建的深度以及其触手延伸到我们认识和道德生活的多个方面。\[8]有关女性主义社会认识论的更详细讨论，请参阅女性主义社会认识论入口。
+重建哲学还需要理解特权和压迫在广泛构建认识上的无知以及导致认识不义和认识压迫的实践中所起的作用。例如，二十一世纪迅速增长的文献，如 Miranda Fricker（2007）和 Kristie Dotson（2011, 2014），以及 Nancy Tuana 和 Shannon Sullivan（2006）的多位作者，Sullivan 和 Tuana（2007），以及 Ian Kidd，José Medina 和 Gaile Pohlhaus（2017）引起我们的注意，特权被构建的深度以及其触手延伸到我们认识和道德生活的多个方面。\[8] 有关女性主义社会认识论的更详细讨论，请参阅女性主义社会认识论入口。
 
 ## 二十世纪女性主义对分析哲学的批评
 
@@ -96,17 +96,17 @@ Pieranna Garavaso（皮埃兰娜·加拉瓦索）在 2018 年对分析女性主�
 
 杰格（Jaggar）并未声称她的批判适用于实证主义以外的分析哲学，但指出新实证主义价值观即使在二十世纪晚期的规范理论中仍然存在。她考虑到政治或道德理论家将客观性描述为公正和缺乏偏见（1983: 357）。
 
-在桑德拉·哈丁（Sandra Harding）对女性主义者所依赖的话语进行的分析中，对分析哲学最相关的是她对自然和社会科学家实践的经验主义的描述。尽管哈丁谈论的是科学家而不是哲学家，但她对经验主义观点的局限性的批判，特别是其对“无价值”客观性的假定解释，也适用于利用这种客观性概念的哲学家。哈丁主张女性主义者保留一个融入适当价值观的客观性概念（她的“强客观性”），并通过以下论据批评经验主义者所声称的“无价值”客观性。
+在桑德拉 · 哈丁（Sandra Harding）对女性主义者所依赖的话语进行的分析中，对分析哲学最相关的是她对自然和社会科学家实践的经验主义的描述。尽管哈丁谈论的是科学家而不是哲学家，但她对经验主义观点的局限性的批判，特别是其对“无价值”客观性的假定解释，也适用于利用这种客观性概念的哲学家。哈丁主张女性主义者保留一个融入适当价值观的客观性概念（她的“强客观性”），并通过以下论据批评经验主义者所声称的“无价值”客观性。
 
 1. 它延续了研究者的价值观，并以不同方式，既过于狭窄又过于宽泛。它过于狭窄，因为它只能检测到研究者和“胜任”的评论家之间存在差异的价值观，而过于宽泛，因为它声称要消除所有社会价值观，而实际上可能有些价值观有利于科学，而另一些则会削弱科学(Harding 1991: 143–4)。
 2. 它在政治和道德上是倒退的；例如，它以一种允许科学家成为“雇佣的快枪手”而不是关注支持和暗示其行为的道德和政治价值的方式构建科学。 (Harding 1991: 158–9)
 3. 这与其他不太可能的观点相关。例如，首先，只有错误的信念具有社会原因，而真实的信念具有自然原因；其次，理想的行动者必须创造并不断监管一个海湾的边界，一个无人区，位于他作为主体和他的研究、知识或行动对象之间。 为了成为“一个心灵完美反映世界的自我”（1991: 158）。Harding 利用 Nancy Hartsock 的术语“抽象男性”来表达这个观念（Harding 1991: 158）。
 
-南希·荷兰（Nancy Holland）利用了哈丁（Harding）和贾格尔（Jaggar）的重叠批评，特别是对抽象个人主义的批评，并认为这些批评揭示了整体上的英美哲学（她认为洛克和休谟以及当代分析哲学家是英美哲学的典型代表）。荷兰关注经验主义的形而上学假设，这些假设排除了女性参与哲学。她写道，当代分析哲学，女性主义。
+南希 · 荷兰（Nancy Holland）利用了哈丁（Harding）和贾格尔（Jaggar）的重叠批评，特别是对抽象个人主义的批评，并认为这些批评揭示了整体上的英美哲学（她认为洛克和休谟以及当代分析哲学家是英美哲学的典型代表）。荷兰关注经验主义的形而上学假设，这些假设排除了女性参与哲学。她写道，当代分析哲学，女性主义。
 
 > 通过保持经验主义传统，不仅继承了该传统的问题，而且自我定义将其确定为必然是男性哲学.... \[Men’s] philosophy 定义自身的方式贯穿其历史，以排除我们文化定义为女性经验的内容，不被视为适当的哲学内容。 (1990: 3)
 
-尽管简·杜兰（Jane Duran）重视分析哲学的严谨性并希望将其纳入女性主义认识论，但她认为分析认识论（“纯认识论”）是“男性主义、以男性为中心的传统的最新化身，导致了一种超规范化、理想化和风格上具有侵略性的思维方式”（1991: 8）。她不仅引用哈丁（Harding），还引用伊夫琳·福克斯·凯勒（Evelyn Fox Keller，1985）和苏珊·博尔多（Susan Bordo，1987），以及詹妮丝·莫尔顿（Janice Moulton，1983）在第 4 节中讨论的对手范式的批判。杜兰列举了被视为男性中心的特征的例子，包括，尽管简·杜兰（Jane Duran）重视分析哲学的严谨性并希望将其纳入女性主义认识论，但她认为分析认识论（“纯认识论”）是“男性主义、以男性为中心的传统的最新化身，导致了一种超规范化、理想化和风格上具有侵略性的思维方式”（1991: 8）。她不仅引用哈丁（Harding），还引用伊夫琳·福克斯·凯勒（Evelyn Fox Keller，1985）和苏珊·博尔多（Susan Bordo，1987），以及詹妮丝·莫尔顿（Janice Moulton，1983）在第 4 节中讨论的对手范式的批判。杜兰列举了被视为男性中心的特征的例子，包括，
+尽管简 · 杜兰（Jane Duran）重视分析哲学的严谨性并希望将其纳入女性主义认识论，但她认为分析认识论（“纯认识论”）是“男性主义、以男性为中心的传统的最新化身，导致了一种超规范化、理想化和风格上具有侵略性的思维方式”（1991: 8）。她不仅引用哈丁（Harding），还引用伊夫琳 · 福克斯 · 凯勒（Evelyn Fox Keller，1985）和苏珊 · 博尔多（Susan Bordo，1987），以及詹妮丝 · 莫尔顿（Janice Moulton，1983）在第 4 节中讨论的对手范式的批判。杜兰列举了被视为男性中心的特征的例子，包括，尽管简 · 杜兰（Jane Duran）重视分析哲学的严谨性并希望将其纳入女性主义认识论，但她认为分析认识论（“纯认识论”）是“男性主义、以男性为中心的传统的最新化身，导致了一种超规范化、理想化和风格上具有侵略性的思维方式”（1991: 8）。她不仅引用哈丁（Harding），还引用伊夫琳 · 福克斯 · 凯勒（Evelyn Fox Keller，1985）和苏珊 · 博尔多（Susan Bordo，1987），以及詹妮丝 · 莫尔顿（Janice Moulton，1983）在第 4 节中讨论的对手范式的批判。杜兰列举了被视为男性中心的特征的例子，包括，
 
 > 根据逻辑上必要和充分条件、缺乏对描述充分的模型的暗示、反例的重要性、条件的普遍化等方面进行分析。 (1991: 44)
 
@@ -116,7 +116,7 @@ Naomi Scheman 自称为“半失格的分析哲学家”——离开了她哲学
 
 Lorraine Code 是批评分析哲学使用道德-认识个体的人之一，这种个体是“抽象的，‘概括的’，和超然的”，并且更关注于理想的行动者或知者会做什么，而不是真实的行动者（1995: xi）。Code 使用“S 知道 p”认识论的例子来集中她最广为人知的批评之一。在 Code 连字符号称为“实证主义-经验主义”认识论中，知识主体 S 是一个个体——一个超然的，中立的，可互换的旁观者，他或她的知识在感官观察发生在理想条件下时最可靠，而不是在真实的日常条件下。Code 认为“S 知道 p”的知识模型仅在一个规定的领域中起作用；事实上，它们偏爱一种狭窄的科学知识。对知识的更充分的描述必须适用于真实人生中的广泛例子。为了做到这一点，它不能使用可互换的主体 S，而必须包括 S 的主观特征，如个人的身份，兴趣或环境。因为没有这些特征，我们无法解释复杂的，关系性的认识，例如，认识一个人。此外，对知识的充分解释应揭示政治利益如何被用来决定谁被允许成为标准的知者，也就是 S（Code 1991, 1995, 1998）。这只是 Code 对分析哲学的早期论证之一。在第 7 节中，我们将讨论她指出分析风格中自然化认识论的局限性的论点。
 
-在我们结束对一些重要的经典女性主义批判分析哲学的讨论时，请回想一下在第 4 节中讨论过的另一个批评：珍妮丝·莫尔顿对对手方法作为哲学范式的批评。尽管对手方法的使用不一定局限于分析哲学家，但莫尔顿的批评显然适用于 20 世纪分析哲学中的广泛实践。
+在我们结束对一些重要的经典女性主义批判分析哲学的讨论时，请回想一下在第 4 节中讨论过的另一个批评：珍妮丝 · 莫尔顿对对手方法作为哲学范式的批评。尽管对手方法的使用不一定局限于分析哲学家，但莫尔顿的批评显然适用于 20 世纪分析哲学中的广泛实践。
 
 ## 6. 分析女性主义者对批评的回应
 
@@ -132,23 +132,23 @@ Response (2): 无论当代分析哲学的确切特征如何，它显然不能等
 
 让我们以争论的例子为例（1）女性主义者认为，有用的分析哲学思潮将以某种方式被自然化。我们需要在这里广泛地铺开一个宽容的网，以确定什么算作“自然化”，并承认一些关于它与分析哲学以及女性主义关系的争议。在这里使用的“自然化哲学”包括那些明确受到心理学/认知科学、社会学、人类学以及其他领域的关于认知者、行动者和社会结构的经验信息启发而非替代的哲学。尽管大多数分析女性主义者支持“自然化”哲学（对其社会认识论子类别有很强的偏好），但他们批评许多非女性主义的自然化方式。\[10]
 
-传统归化认识论关注“个体”而非“社会”科学，忽视了我们思维的“情境性”。关于术语的最后警告：由于对“归化”和“分析”范围的适当性存在分歧，有人会反对认为归化哲学根本不是分析哲学的一个流派。例如，奎恩可能被认为是归化认识论之父，完全符合我们对分析哲学的描述；然而，琳恩·汉金森·纳尔逊认为他是后分析的（纳尔逊和纳尔逊 2003 年）。当然，在任何情况下，归化哲学与分析哲学之间并没有必然联系；只需想到福柯或杜威就能切断这种联系。
+传统归化认识论关注“个体”而非“社会”科学，忽视了我们思维的“情境性”。关于术语的最后警告：由于对“归化”和“分析”范围的适当性存在分歧，有人会反对认为归化哲学根本不是分析哲学的一个流派。例如，奎恩可能被认为是归化认识论之父，完全符合我们对分析哲学的描述；然而，琳恩 · 汉金森 · 纳尔逊认为他是后分析的（纳尔逊和纳尔逊 2003 年）。当然，在任何情况下，归化哲学与分析哲学之间并没有必然联系；只需想到福柯或杜威就能切断这种联系。
 
-考虑到所有这些警告和争议，让我们转向自然化认识论的例子，以考虑“自然化”对帮助女性主义者克服与分析哲学的困难所能做的事情。女性主义者批评分析哲学的认知者（和代理人）的概念，例如，认为认知者是一个抽象的、理想化的、可互换的、无定位的、脱节的、非具体的等。自然化认识论可以做的第一件事是将焦点从抽象或理想化的认知者转移到具有信念和知识的人的具体方面。尽管这一举措本身并非女性主义，简·杜兰（Jane Duran）认为这是朝着“女性中心”的认识论迈出的积极一步。她认为，自然化认识论——通过其描述性特征以及对认知的背景和细节的关注——能够包括女性主义立场认识论所重视的特征，例如，认知的关系方面以及知识在身体和日常生活活动中的基础（1991 年：112，246）。杜兰是第一批明确将女性主义立场理论与分析取向的自然化认识论相结合的女性主义者之一，也是分析女性主义者普遍避免女性中心主义的普遍倾向的例外。当然，人们不必同意杜兰分析的具体内容，就能够欣赏自然化认识论对背景和具体细节的描述关注的重要性：这种描述性关注使性别成为认识论的一部分，因为认知者和背景的方面变得相关。然后，人们可以讨论哪些社会结构、个体变化及其相互作用是有益的探索途径。
+考虑到所有这些警告和争议，让我们转向自然化认识论的例子，以考虑“自然化”对帮助女性主义者克服与分析哲学的困难所能做的事情。女性主义者批评分析哲学的认知者（和代理人）的概念，例如，认为认知者是一个抽象的、理想化的、可互换的、无定位的、脱节的、非具体的等。自然化认识论可以做的第一件事是将焦点从抽象或理想化的认知者转移到具有信念和知识的人的具体方面。尽管这一举措本身并非女性主义，简 · 杜兰（Jane Duran）认为这是朝着“女性中心”的认识论迈出的积极一步。她认为，自然化认识论——通过其描述性特征以及对认知的背景和细节的关注——能够包括女性主义立场认识论所重视的特征，例如，认知的关系方面以及知识在身体和日常生活活动中的基础（1991 年：112，246）。杜兰是第一批明确将女性主义立场理论与分析取向的自然化认识论相结合的女性主义者之一，也是分析女性主义者普遍避免女性中心主义的普遍倾向的例外。当然，人们不必同意杜兰分析的具体内容，就能够欣赏自然化认识论对背景和具体细节的描述关注的重要性：这种描述性关注使性别成为认识论的一部分，因为认知者和背景的方面变得相关。然后，人们可以讨论哪些社会结构、个体变化及其相互作用是有益的探索途径。
 
 安东尼（Antony）提出的第二种自然化方法涉及认识者的另一个方面——中立性。安东尼认为，自然化认识论解决了“偏见悖论”（如何能够一贯批判男性偏见，同时又反对中立、客观或公正知识的概念）。自然化认识论拒绝了中立的理想，而是给我们提供了实证规范，以区分好的偏见和坏的偏见，即那些使我们朝向而不是远离真理的偏见（1993 \[2002: 113–116, 134–144]）。安东尼还涉及分析和非分析女性主义之间的许多其他方面的辩论，我们稍后将回到这个问题。
 
 第三种策略，仍然在自然化认识论/科学哲学的背景下，是改变经验主义和个体之间的关系。Lynn Hankinson Nelson 和 Helen Longino 是经验主义者，不是像洛克或休谟那样的风格，而是在他们认为证据来自感官、经验的立场上（Nelson 1990: 21; Longino 1990: 215）。这可以概括为经验主义是一种证据理论。通过不同的论证线索，他们都将焦点从个体转移到了社区。Nelson 认为，社区而不是个体“‘获得’和拥有知识”（Nelson 1990: 14）。她希望利用昆恩和女性主义资源来建立一个足够丰富和复杂的经验主义，以克服早期女性主义经验主义的批评，例如哈丁所提出的批评，同时避免女性主义对个人主义的反对（无论是对贾格尔的“抽象个人主义”还是上述其他形式）。Nelson 认为，昆恩虽然仍然是一位经验主义者，但已经削弱或放弃了哈丁和贾格尔反对的后实证主义特征。因此，经验主义在 Nelson 关注社区作为认知者的基础上，可以充分考虑认知者的社会身份以及个体对认识论社区的复杂依赖关系。
 
-长野海伦在《科学作为社会知识》（1990）中的方法是主张科学作为社会的众多方式之一是认识论规范适用于社群的实践，而不仅仅适用于个体。在《知识的命运》（2002）中，她进一步发展了她的语境经验主义论点，打破了理性与社会（以及许多其他二分法）之间的对立。尽管她的论点涵盖范围广泛，但我们现在只关注她的观点如何打破个人主义与经验主义之间的联系。长野区分了个人主义作为一种哲学立场（在某些方面倾向于认为认识者可以互换）以及个体是否实际拥有知识（2002: 14–48）。她并不否认认识论规范适用于个体的实践，也不否认爱因斯坦拥有“非凡的智慧，但使\[爱因斯坦的]杰出思想成为知识的是批判性接受的过程”（2002: 122）。知识需要社会互动，而不是理性与社会之间的二分法；它还在构成和语境层面上整合了价值观——其中一些是社会价值观。
+长野海伦在《科学作为社会知识》（1990）中的方法是主张科学作为社会的众多方式之一是认识论规范适用于社群的实践，而不仅仅适用于个体。在《知识的命运》（2002）中，她进一步发展了她的语境经验主义论点，打破了理性与社会（以及许多其他二分法）之间的对立。尽管她的论点涵盖范围广泛，但我们现在只关注她的观点如何打破个人主义与经验主义之间的联系。长野区分了个人主义作为一种哲学立场（在某些方面倾向于认为认识者可以互换）以及个体是否实际拥有知识（2002: 14–48）。她并不否认认识论规范适用于个体的实践，也不否认爱因斯坦拥有“非凡的智慧，但使\[爱因斯坦的] 杰出思想成为知识的是批判性接受的过程”（2002: 122）。知识需要社会互动，而不是理性与社会之间的二分法；它还在构成和语境层面上整合了价值观——其中一些是社会价值观。
 
 Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义批评的回应都展示了对主题（1）的不同变体：他们同意女性主义批评的某些方面，但利用特定分析哲学流派内的资源（在他们的情况下是自然化认识论/科学哲学）以及其他女性主义资源来产生能够克服分析认识论异议的认识论。他们的策略各不相同：Longino 和 Nelson 减少了个体的重要性，转而支持社群；Antony 和 Duran 保持对个体的关注，但使其更具体；此外，Antony 试图解决偏见的悖论。
 
 让我们简要地转向策略（2）和（3）。 （2）中的说法是，女性主义对分析哲学及其前身的分析存在解释错误，削弱了女性主义的批评。在（3）中，批评者在削弱形而上学或中心概念（如理性）等哲学领域时走得太远，我们需要保留。这两种方法的例子（有时甚至在同一篇论文中）可以在 Louise Antony 和 Charlotte Witt 的《A Mind of One’s Own》中找到，这是一本关注西方哲学史和当代哲学各个领域中理性和客观性的论文集（1993 \[2002]）。提出（2）主张的人包括 Margaret Atherton 和 Louise Antony。Atherton（1993 \[2002]）批评了 Genevieve Lloyd（1984）和 Susan Bordo（1987）对笛卡尔的解释。尽管 Atherton 的文章纯粹是历史性的，但它与我们的讨论相关，因为所有辩论分析哲学价值的女性主义者都承认历史分析，尤其是 Lloyd 在“理性之人”方面的广泛研究。Louise Antony 认为 Jaggar（1983）和 Jane Flax（1987）对理性主义或经验主义传统进行了错误描述，因此忽略了分析哲学家已经拒绝其中某些方面的程度。这导致女性主义者将分析认识论误认为经验主义，并忽视了更多理性主义的可能性（Antony 1993 \[2002]）。
 
-最后，策略（3）。当分析女性主义者捍卫某一领域或概念免受其他女性主义者“走得太远”的批评时，她们可能在抵御那些根本不想从事传统形而上学的后结构主义批评者，或者她们可能在讨论该领域的哪些方面存在男性偏见（例如，基础主义风格的形而上学或倾向于将某些类别视为自然的倾向）。夏洛特·维特（Charlotte Witt）和莎莉·哈斯兰格（Sally Haslanger）都认为，拒绝形而上学并没有明确的女性主义理由。维特考虑了“作为人类是什么”的特殊情况。她认为，女性主义者实际上需要关于作为人类是什么的假设和理论，甚至是为了批评传统的形而上学理论（1993 \[2002]）。哈斯兰格讨论了有关社会建构、现实主义和自然与社会类别的一系列问题。在她讨论像凯瑟琳·麦金农（Catharine MacKinnon）和朱迪斯·巴特勒（Judith Butler）等女性主义者时，哈斯兰格对社会建构的种类和功能进行了许多区分，梳理了形而上学和政治之间的关系方式，并且总体上提供了一个女性主义形而上学辩论的例子，区分了形而上学中存在的男性偏见方面和对女性主义者有用的方面（1995b，1996，2000，2012）。描述这种方法的一种方式是寻找更大、更有问题（或至少更具争议性）讨论中的“真理核心”，从而为那些可能对麦金农或巴特勒的某些观点持有同情态度，但又不愿接受包含它们的全部工作的读者提供服务。
+最后，策略（3）。当分析女性主义者捍卫某一领域或概念免受其他女性主义者“走得太远”的批评时，她们可能在抵御那些根本不想从事传统形而上学的后结构主义批评者，或者她们可能在讨论该领域的哪些方面存在男性偏见（例如，基础主义风格的形而上学或倾向于将某些类别视为自然的倾向）。夏洛特 · 维特（Charlotte Witt）和莎莉 · 哈斯兰格（Sally Haslanger）都认为，拒绝形而上学并没有明确的女性主义理由。维特考虑了“作为人类是什么”的特殊情况。她认为，女性主义者实际上需要关于作为人类是什么的假设和理论，甚至是为了批评传统的形而上学理论（1993 \[2002]）。哈斯兰格讨论了有关社会建构、现实主义和自然与社会类别的一系列问题。在她讨论像凯瑟琳 · 麦金农（Catharine MacKinnon）和朱迪斯 · 巴特勒（Judith Butler）等女性主义者时，哈斯兰格对社会建构的种类和功能进行了许多区分，梳理了形而上学和政治之间的关系方式，并且总体上提供了一个女性主义形而上学辩论的例子，区分了形而上学中存在的男性偏见方面和对女性主义者有用的方面（1995b，1996，2000，2012）。描述这种方法的一种方式是寻找更大、更有问题（或至少更具争议性）讨论中的“真理核心”，从而为那些可能对麦金农或巴特勒的某些观点持有同情态度，但又不愿接受包含它们的全部工作的读者提供服务。
 
-一个更具争议的分析女性主义回应是玛莎·努斯鲍姆（Martha Nussbaum）对客观性和理性概念及标准的辩护。她坚决主张，从理论和实践的角度来看，保留相当传统的客观性和理性理想，同时承认它们被滥用是符合女性主义者的利益的。这个立场本身不会引起很大争议，即使并非普遍被接受。然而，由于努斯鲍姆将某些批评男性偏见方面的客观性和理性的批评者视为“对理性的女性主义攻击”（1994: 59），她的论文及对其他女性主义者观点的解释在当时引起了广泛而激烈的讨论。\[12]
+一个更具争议的分析女性主义回应是玛莎 · 努斯鲍姆（Martha Nussbaum）对客观性和理性概念及标准的辩护。她坚决主张，从理论和实践的角度来看，保留相当传统的客观性和理性理想，同时承认它们被滥用是符合女性主义者的利益的。这个立场本身不会引起很大争议，即使并非普遍被接受。然而，由于努斯鲍姆将某些批评男性偏见方面的客观性和理性的批评者视为“对理性的女性主义攻击”（1994: 59），她的论文及对其他女性主义者观点的解释在当时引起了广泛而激烈的讨论。\[12]
 
 在我们结束对分析女性主义者对分析哲学批评的讨论时，重申一个显而易见的观点是很重要的：并非每位分析女性主义者都会同意这里选择的几个例子中所阐述的回应。事实上，尽管希望分析女性主义哲学足够规范，但在诸如对待通常体现规范性的概念这类问题上存在分歧。考虑客观性的传统理想：观点从认为尽管理性和客观性的理想“既无法实现又不值得追求”，我们仍然应该将它们视为“规范性准则”或“启发”（Antony 1995: 87）到对客观性有多种不同理解的观点，这些理解使得客观性不那么容易被扭曲或滥用（例如，E. Lloyd 1995a, 1995b; Haslanger 1993 \[2002]; Scheman 2001a; Heldke 2001; Janack 2002）。
 
@@ -158,17 +158,17 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 
 尽管传统的分析哲学在许多人看来对女性主义来说可能是最不友好的哲学方法，但分析女性主义者数十年来的工作大大增加了这一方法的友好性并展示了其潜力。现在让我们考虑一些分析女性主义仍然存在的局限性和挑战。
 
-各种女性主义哲学的优势和局限性可能源自相同的来源——如果女性主义者接近主流传统，那么她们将受到至少一些限制，尽管她们有更好的机会影响它并“架起桥梁”，而不像那些更深入批判传统的人那样。奥德·洛德（Audre Lorde）在 1979 年针对一个女性主义会议上的种族主义和异性恋主义发表讲话时，强烈指出了一个风险，她说：“主人的工具永远不会拆除主人的房子”（Lorde 1984: 112）。尽管几十年来，洛德的说法让跨学科领域的女性主义者感到不安，但女性主义哲学的存在要求，哲学交易的“工具”和房屋不是“主人”的唯一财产。女性主义哲学家，无论是分析性的还是非分析性的，不仅建立在其他女性主义者和从事相关工作的其他学者的工作基础上，有时还建立在一些传统哲学家的工作基础上。由于希望利用以及修改传统哲学，女性主义者必须时刻警惕可能在她们的工作中显现出来的更深层次的男性或其他种类的偏见——这可能是传统分析哲学的不受欢迎的包袱。
+各种女性主义哲学的优势和局限性可能源自相同的来源——如果女性主义者接近主流传统，那么她们将受到至少一些限制，尽管她们有更好的机会影响它并“架起桥梁”，而不像那些更深入批判传统的人那样。奥德 · 洛德（Audre Lorde）在 1979 年针对一个女性主义会议上的种族主义和异性恋主义发表讲话时，强烈指出了一个风险，她说：“主人的工具永远不会拆除主人的房子”（Lorde 1984: 112）。尽管几十年来，洛德的说法让跨学科领域的女性主义者感到不安，但女性主义哲学的存在要求，哲学交易的“工具”和房屋不是“主人”的唯一财产。女性主义哲学家，无论是分析性的还是非分析性的，不仅建立在其他女性主义者和从事相关工作的其他学者的工作基础上，有时还建立在一些传统哲学家的工作基础上。由于希望利用以及修改传统哲学，女性主义者必须时刻警惕可能在她们的工作中显现出来的更深层次的男性或其他种类的偏见——这可能是传统分析哲学的不受欢迎的包袱。
 
 分析女性主义者可能具有的一些潜在“包袱”包括他们的概念和方法的深层局限性，以及他们倾向于工作的抽象水平。例如，当这些因素之一导致无法注意和关注多样化经验时，分析女性主义者就无法关注到他们希望包容的复杂人类生活的全部范围；种族/族裔、社会阶层、宗教、国籍、酷儿和跨性别生活、残疾人士的生活等的影响和意义将会丧失。以下是此类局限性以及其他示例。
 
-1. 克里斯蒂·多特森（Kristie Dotson）在赞扬弗里克（Fricker）（2007）对理解认知不义的重要贡献时指出，弗里克缺乏关于认知不义构成的“开放概念结构”，导致她的工作持续使认知不义得以延续。多特森认为，这种情况发生是因为弗里克将认知不义与认知厄运进行对比（多特森 2012：25）。多特森以更广泛的方式探讨认知压迫，更直接地涉及系统性压迫的不同层面，并包括各种重要形式的认知排斥和暴力，例如沉默和扼杀（2011, 2012, 2014）。
+1. 克里斯蒂 · 多特森（Kristie Dotson）在赞扬弗里克（Fricker）（2007）对理解认知不义的重要贡献时指出，弗里克缺乏关于认知不义构成的“开放概念结构”，导致她的工作持续使认知不义得以延续。多特森认为，这种情况发生是因为弗里克将认知不义与认知厄运进行对比（多特森 2012：25）。多特森以更广泛的方式探讨认知压迫，更直接地涉及系统性压迫的不同层面，并包括各种重要形式的认知排斥和暴力，例如沉默和扼杀（2011, 2012, 2014）。
 2. Naomi Scheman 和 Linda Martín Alcoff 指出了分析女性主义者可能没有充分意识到已经被包含在她们的理论和概念中的政治、形而上学和认识论包袱的方式。Scheman 认为 Nussbaum 对于理性的批判停止得太早，并未意识到对合理论证的开放（Nussbaum 所倡导的）意味着我们要认识到当我们自己对合理性的概念受到质疑时（Scheman 2001b）。Alcoff 认为，我们需要一些关于理性的概念，她提出了类似的反对 Nussbaum 的论点，并指出了宣称某种特定理性概念是不可放弃的概念的教条性特征（Alcoff 1995）。
 3. 一个密切相关的反对意见是，将一个人的方法与政治分开并不总是容易的，甚至有时是不可能的。因为一些分析女性主义的工作是自由主义的，例如，Nussbaum (2000a), Cudd (2006), 和 Bhandary (2020), 其他分析女性主义者则努力将她们的方法与政治分开。Antony 认为她自己的社会主义政治与分析方法是兼容的 (2003)。尽管人们可以理解 Antony 的观点，但如果一个分析女性主义者正在阐述一种社会主义女性主义，而不是支持某种社会主义或其他形式，那么她的立场的各个方面最终源自马克思、奎因和女性主义，需要仔细加以梳理，以便使它们能够很好地结合在一起。
 
 其他人提出了更一般性的问题，关于哲学方法与女性主义和反种族主义政治之间的关系。例如，Alice Crary 探讨了哲学方法与女性主义政治之间的一般关系，发现 Fricker 的中立哲学方法和理性概念（2007）不足以支持女性主义政治（2018）。Tina Fernandes Botts（2018）和 Jana Cattien（2019）都批评了分析性女性主义者高度抽象的种族和性别分析水平，以及他们对两者使用类似模型的做法。相反，被边缘化人群的具体生活经验需要更加集中地出现在我们的思考中（Botts 2018）。Cattien 认为，在政治上所涉及的问题被分析性女性主义形而上学家所掩盖（包括他们的规范性假设），他们需要“能够将自己视为政治批判的对象”（2019：733）。例如，她发现 Haslanger（2012）的分析将所有种族置于一个概念平面上无法充分体现“白人在维持种族主义权力关系中的复杂性”（2019：720）。
 
-4. 围绕主观性和立场的分离异议集中在一起。传统的分析哲学因其无法处理主观性而受到批评。在考虑这一批评是否也适用于分析女性主义者时，让我们将其放在知识的背景下来考虑。伊丽莎白·安德森称知识是“处境性”的立场是女性主义认识论的基本观点（见女性主义认识论和科学哲学）。分析女性主义者所发展的“处境性”知识能否捕捉到人类个体主观性以及物质条件和复杂社会制度如何构建妇女和其他边缘群体的立场？这里显然有两个独立的问题——之所以一起提出是因为它们关注分析女性主义是否具有资源来捕捉其他女性主义方法论传统中非常重要的内容：立场理论、精神分析和后结构主义。
+4. 围绕主观性和立场的分离异议集中在一起。传统的分析哲学因其无法处理主观性而受到批评。在考虑这一批评是否也适用于分析女性主义者时，让我们将其放在知识的背景下来考虑。伊丽莎白 · 安德森称知识是“处境性”的立场是女性主义认识论的基本观点（见女性主义认识论和科学哲学）。分析女性主义者所发展的“处境性”知识能否捕捉到人类个体主观性以及物质条件和复杂社会制度如何构建妇女和其他边缘群体的立场？这里显然有两个独立的问题——之所以一起提出是因为它们关注分析女性主义是否具有资源来捕捉其他女性主义方法论传统中非常重要的内容：立场理论、精神分析和后结构主义。
 
 考虑 Longino 作为一个例子：她在科学背景下处理着处境知识。她的语境经验主义以及她最近提出的完全消解理性/社会二分法及其基础的二分法的论点使她能够深入到正确的领域。当然，科学并非生活或知识的全部，因此她的论点需要延伸到 Code 等人已经讨论过的日常生活领域。无论语境经验主义的局限性如何，它在分析构建主体性的结构和物质特征方面要比阐明个体主体性要好。正是在后一领域，后结构主义和精神分析方法蓬勃发展（例如，参见 Butler 1990；Butler & Salih 2003；Irigaray 1991；Whitford 1991；Kristeva & Oliver 2002）。他们关注人类主体性的不透明、碎片化或未完成特征，这对许多分析女性主义者来说可能有些凌乱。但鉴于这一主题对女性主义哲学的重要性，有必要就此展开富有成果的对话。
 
@@ -179,10 +179,10 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 
 这些问题的更详细讨论可在 Intemann (2010, 2016), Anderson (2020)以及关于女性主义社会认识论和女性主义对科学观点的条目中找到。
 
-6. 涉及自然化认识论的异议涉及。如上所述，女性主义社会认识论是当今最典型的女性主义自然化认识论形式。社会认识论者对以个体为中心和“科学主义”分析自然化认识论进行了深刻批判。除了上面已经讨论过的女性主义者外，科德（Code）和菲利斯·鲁尼（Phyllis Rooney）都认为典型的自然化认识论与女性主义认识论之间存在紧张关系；鲁尼称之为“不安的联盟”（Rooney 2003）。科德提出了一个生态模型，她认为这个模型比分析和个体主义取向的自然主义更可取（1996 年，2006 年）。鲁尼援引了有关性别和认知的心理研究，为她对经验研究的假设（以及构建并使用经验结果的认识论）提供证据。例如，鲁尼希望批判个体/社会区分的稳定性假设，性别的稳定性，或者性别是稳定的还是情境性的假设，因为可能有更多选择（Rooney 2003）。尽管分析女性主义自然化认识论者可能会在很大程度上同意鲁尼的批评，但科德的 2006 年生态模型将是一个几乎不可能的挑战。无论如何，分析女性主义者在选择自己的模型反思他们所默认的假设类型时必须非常小心，无论是上述提到的还是其他可能被归类为“科学主义”的假设。
+6. 涉及自然化认识论的异议涉及。如上所述，女性主义社会认识论是当今最典型的女性主义自然化认识论形式。社会认识论者对以个体为中心和“科学主义”分析自然化认识论进行了深刻批判。除了上面已经讨论过的女性主义者外，科德（Code）和菲利斯 · 鲁尼（Phyllis Rooney）都认为典型的自然化认识论与女性主义认识论之间存在紧张关系；鲁尼称之为“不安的联盟”（Rooney 2003）。科德提出了一个生态模型，她认为这个模型比分析和个体主义取向的自然主义更可取（1996 年，2006 年）。鲁尼援引了有关性别和认知的心理研究，为她对经验研究的假设（以及构建并使用经验结果的认识论）提供证据。例如，鲁尼希望批判个体/社会区分的稳定性假设，性别的稳定性，或者性别是稳定的还是情境性的假设，因为可能有更多选择（Rooney 2003）。尽管分析女性主义自然化认识论者可能会在很大程度上同意鲁尼的批评，但科德的 2006 年生态模型将是一个几乎不可能的挑战。无论如何，分析女性主义者在选择自己的模型反思他们所默认的假设类型时必须非常小心，无论是上述提到的还是其他可能被归类为“科学主义”的假设。
 7. 挑战的最后一组问题涉及语言、形象和“修辞空间”。这些挑战旨在引起分析女性主义者对其他种类“包袱”的注意。尽管认为女性主义和非女性主义的分析哲学家都倾向于使用文字的字面意义，但在进行哲学论证时，他们也依赖隐喻、类比、形象等（想想诺拉特的船通过奎因的频率）。分析女性主义者需要关注他们对语言的字面意义、形象以及与 Lorraine Code 所称的“修辞空间”之间的关系的假设和含义（或者在其他情况下，未能发挥作用）。在使用“修辞空间”时，Code 考虑到我们的话语结构如何限制什么可以被视为有意义、被认真对待、产生洞察力、期望被接受等（1995 年：ix–x；在 Code 2006 中继续讨论）。
 
-玛格丽特·拉卡泽（Marguerite La Caze）使用米歇尔·勒杜夫（Michèle Le Dœuff）开发的方法论，认为女性主义和非女性主义的分析哲学家都使用了可能无意中延续排除女性形象的图像——想想政治哲学中的神话社会契约以及关于知识的视觉和空间隐喻（La Caze 2002，Le Dœuff 1980 \[1989]；另见 Gatens 1991）。要求分析女性主义者扩大分析哲学中的修辞空间，并认识和审视她们实际上在所谓的字面上的言论中使用的图像。
+玛格丽特 · 拉卡泽（Marguerite La Caze）使用米歇尔 · 勒杜夫（Michèle Le Dœuff）开发的方法论，认为女性主义和非女性主义的分析哲学家都使用了可能无意中延续排除女性形象的图像——想想政治哲学中的神话社会契约以及关于知识的视觉和空间隐喻（La Caze 2002，Le Dœuff 1980 \[1989]；另见 Gatens 1991）。要求分析女性主义者扩大分析哲学中的修辞空间，并认识和审视她们实际上在所谓的字面上的言论中使用的图像。
 
 大多数分析女性主义者都欢迎来自任何背景的其他女性主义者对其立场提出挑战。毕竟，要保持诚实并认识到自己在哲学中与男性或其他偏见勾结的更容易方法是让女性主义同事指出。希望保持对勾结和自我欺骗持续可能性的态度是任何合理女性主义的一部分。坦诚、公正的对话有益于所有形式的女性主义。
 
@@ -204,7 +204,7 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 
 在我们结束这一部分时，重要的是不要夸大哲学方法上的差异在女性主义者的世代或女性主义哲学的分支中是如何体现的：这些差异是程度上的问题。更重要的是提醒自己，无论其方法如何，女性主义哲学都保留着女性主义和哲学的根基。它不应被单纯地归入父系哲学身份之下。在讨论通过声称和与其他女性主义思想家互动来构建女性主义思想的女性系谱的重要性时，弗莱讽刺地指出，当一个人被视为“在历史上更好地定位”时，看起来是多么讽刺。
 
-> 在那个威严的牛津剑桥血统中\[奥斯汀和维特根斯坦，而不是]在一个由集体撰写的数十份复印的女性主义小册子构成的血统中，... 凯特·米勒特，玛丽·戴利，安德烈亚·多金，... \[女性主义哲学家如] 克劳迪娅·卡德，娜奥米·舍曼，玛丽亚·卢戈内斯，莎拉·霍格兰德，以及像阿里克斯·多宾和威利·泰森这样的吟游诗人。 (弗莱 2001: 86–87)
+> 在那个威严的牛津剑桥血统中\[奥斯汀和维特根斯坦，而不是] 在一个由集体撰写的数十份复印的女性主义小册子构成的血统中，... 凯特 · 米勒特，玛丽 · 戴利，安德烈亚 · 多金，... \[女性主义哲学家如] 克劳迪娅 · 卡德，娜奥米 · 舍曼，玛丽亚 · 卢戈内斯，莎拉 · 霍格兰德，以及像阿里克斯 · 多宾和威利 · 泰森这样的吟游诗人。 (弗莱 2001: 86–87)
 
 为了抵抗父系遗产的舒适/抹除，分析女性主义者在回应弗莱的同时，可以声称并与其他女性主义思想家、批判种族理论家、跨性别和酷儿理论家等展开互动。许多人已经这样做了。这不仅有助于维持女性主义传统，还将增加女性主义工作的丰富性，减少女性主义者被男性偏见的哲学方法、理论、概念和形象所囚禁的可能性。
 
@@ -227,209 +227,209 @@ Longino, Nelson, Antony, and Duran 对先前阶段的分析哲学的女性主义
 
 ## Bibliography
 
-* Alcoff, Linda Martín, 1995, “Is the Feminist Critique of Reason Rational?”, *Philosophical Topics*, 23(2): 1–26. doi:10.5840/philtopics19952323
+* Alcoff, Linda Martín, 1995, “Is the Feminist Critique of Reason Rational?”, *Philosophical Topics*, 23(2): 1–26. doi: 10.5840/philtopics19952323
 * –––, 1996, *Real Knowing: New Versions of the Coherence Theory*, Ithaca, NY: Cornell University Press.
-* –––, 2006, *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press. doi:10.1093/0195137345.001.0001
+* –––, 2006, *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press. doi: 10.1093/0195137345.001.0001
 * Alcoff, Linda and Elizabeth Potter (eds.), 1993, *Feminist Epistemologies*, New York: Routledge.
 * Allen, Anita L., 1988, *Uneasy Access: Privacy for Women in a Free Society*, Lanham, MD: Rowman and Littlefield.
 * –––, 2019, “The Philosophy of Privacy and Digital Life”, *Proceedings and Addresses of the American Philosophical Association*, 93: 21–38.
-* Anderson, Elizabeth, 1995a, “Feminist Epistemology: An Interpretation and a Defense”, *Hypatia*, 10(3): 50–84. doi:10.1111/j.1527-2001.1995.tb00737.x
-* –––, 1995b, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”, *Philosophical Topics*, 23(2): 27–58. doi:10.5840/philtopics199523213
+* Anderson, Elizabeth, 1995a, “Feminist Epistemology: An Interpretation and a Defense”, *Hypatia*, 10(3): 50–84. doi: 10.1111/j.1527-2001.1995.tb00737.x
+* –––, 1995b, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”, *Philosophical Topics*, 23(2): 27–58. doi: 10.5840/philtopics199523213
 * –––, 2002, “Should Feminists Reject Rational Choice Theory?”, in Antony and Witt 2002: 369–397. Not in 1993 edition.
 * –––, 2000 \[2020], “Feminist Epistemology and Philosophy of Science”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/feminism-epistemology/](https://plato.stanford.edu/archives/spr2020/entries/feminism-epistemology/)
 * Antony, Louise M., 1993 \[2002], “Quine as Feminist: The Radical Import of Naturalized Epistemology”, in Antony and Witt 1993 \[2002: 110–153].
-* –––, 1995, “Sisters, Please, I’d Rather Do It Myself: A Defense of Individualism in Feminist Epistemology”, *Philosophical Topics*, 23(2): 59–94. doi:10.5840/philtopics19952322
+* –––, 1995, “Sisters, Please, I’d Rather Do It Myself: A Defense of Individualism in Feminist Epistemology”, *Philosophical Topics*, 23(2): 59–94. doi: 10.5840/philtopics19952322
 * –––, 2003, “Fantasies for Empowerment and Entitlement: Analytic Philosophy and Feminism”, *American Philosophical Association Newsletter on Feminism and Philosophy*, 2(2): 126–129. \[[Antony 2003 available online](https://www.apaonline.org/resource/collection/D03EBDAB-82D7-4B28-B897-C050FDC1ACB4/v02n2Feminism.pdf)]
-* –––, 2020, “Feminism Without Metaphysics or a Deflationary Account of Gender”, *Erkenntnis*, 85(3): 529–549. doi:10.1007/s10670-020-00243-2
+* –––, 2020, “Feminism Without Metaphysics or a Deflationary Account of Gender”, *Erkenntnis*, 85(3): 529–549. doi: 10.1007/s10670-020-00243-2
 * Antony, Louise M. and Charlotte Witt (eds.), 1993 \[2002], *A Mind of One’s Own: Feminist Essays on Reason and Objectivity*, Boulder, CO: Westview Press. Second edition, 2002, New York: Routledge.
-* Ásta, 2018, *Categories We Live By: The Construction of Sex, Gender, Race, and Other Social Categories*, New York: Oxford University Press. doi:10.1093/oso/9780190256791.001.0001
+* Ásta, 2018, *Categories We Live By: The Construction of Sex, Gender, Race, and Other Social Categories*, New York: Oxford University Press. doi: 10.1093/oso/9780190256791.001.0001
 * Atherton, Margaret, 1993 \[2002], “Cartesian Reason, Gendered Reason”, in Antony and Witt 1993 \[2002: 21–37].
 * Baber, Harriet E., 1993, “Has Feminist Philosophy Lost Contact with Women?”, *American Philosophical Association Newsletter on Feminism and Philosophy*, 92(2): 47–50.
 * Baier, Annette, 1994, *Moral Prejudices: Essays on Ethics*, Cambridge, MA: Harvard University Press.
 * Bailey, Alison, 2010, “On Intersectionality and the Whiteness of Feminist Philosophy”, *The Center Must Not Hold: White Women on the Whiteness of Philosophy*, George Yancy (ed.), Lanham, MD: Lexington Books, 51–76.
-* Barnes, Elizabeth, 2020, “Gender and Gender Terms”, *Noûs*, 54(3): 704–730. doi:10.1111/nous.12279
-* Beebee, Helen, 2014, “Women and Deviance in Philosophy”, in *Women in Philosophy: What Needs to Change?*, Katrina Hutchison and Fiona Jenkins (eds.), New York: Oxford University Press, 61–80. doi:10.1093/acprof:oso/9780199325603.003.0004
+* Barnes, Elizabeth, 2020, “Gender and Gender Terms”, *Noûs*, 54(3): 704–730. doi: 10.1111/nous.12279
+* Beebee, Helen, 2014, “Women and Deviance in Philosophy”, in *Women in Philosophy: What Needs to Change?*, Katrina Hutchison and Fiona Jenkins (eds.), New York: Oxford University Press, 61–80. doi: 10.1093/acprof: oso/9780199325603.003.0004
 * Bettcher, Talia Mae, 2013, “Trans Women and the Meaning of ‘Woman’”, *Philosophy of Sex: Contemporary Readings*, sixth edition, Nicholas Power, Raja Halwani, and Alan Soble (eds.), Landan, MD: Rowman and Littlefield, 233–250.
 * –––, 2017, “Through the Looking Glass: Trans Theory Meets Feminist Philosophy”, in Garry, Khader, and Stone 2017: 393–404.
-* –––, 2019, “What Is Trans Philosophy?”, *Hypatia*, 34(4): 644–667. doi:10.1111/hypa.12492
+* –––, 2019, “What Is Trans Philosophy?”, *Hypatia*, 34(4): 644–667. doi: 10.1111/hypa.12492
 * –––, forthcoming, *Intimacy, Illusion, and Personhood: An Essay in Trans Philosophy*, Minneapolis, MN: University of Minnesota Press.
-* Bhandary, Asha, 2020, *Freedom to Care: Liberalism, Dependency Care, and Culture*, New York: Routledge. doi:10.4324/9780429283093
+* Bhandary, Asha, 2020, *Freedom to Care: Liberalism, Dependency Care, and Culture*, New York: Routledge. doi: 10.4324/9780429283093
 * Bordo, Susan, 1987, *The Flight to Objectivity: Essays on Cartesianism and Culture*, Albany, NY: State University of New York Press.
 * Borradori, Giovanna, 1994, *The American Philosopher: Conversations with Quine, Davidson, Putnam, Nozick, Danto, Rorty, Cavell, Macintyre, and Kuhn*, Chicago: University of Chicago Press.
 * Botts, Tina Fernandes (ed.), 2016, *Philosophy and the Mixed Race Experience*, Lanhan, MD: Lexington Books.
-* –––, 2018, “Race and Method: The Tuvel Affair”, *Philosophy Today*, 62(1): 51–72. doi:10.5840/philtoday201828195
-* Burrow, Sylvia, 2010, “Verbal Sparring and Apologetic Points: Politeness in Gendered Argumentation Contexts”, *Informal Logic*, 30(3): 235–262. doi:10.22329/il.v30i3.3033
+* –––, 2018, “Race and Method: The Tuvel Affair”, *Philosophy Today*, 62(1): 51–72. doi: 10.5840/philtoday201828195
+* Burrow, Sylvia, 2010, “Verbal Sparring and Apologetic Points: Politeness in Gendered Argumentation Contexts”, *Informal Logic*, 30(3): 235–262. doi: 10.22329/il.v30i3.3033
 * Butler, Judith, 1990, *Gender Trouble: Feminism and the Subversion of Identity*, New York: Routledge.
 * Butler, Judith and Sara Salih (eds.), 2003, *The Judith Butler Reader*, Malden, MA: Blackwell.
-* Calhoun, Cheshire, 2000, *Feminism, the Family, and the Politics of the Closet: Lesbian and Gay Displacement*, New York: Oxford University Press. doi:10.1093/0199257663.001.0001
+* Calhoun, Cheshire, 2000, *Feminism, the Family, and the Politics of the Closet: Lesbian and Gay Displacement*, New York: Oxford University Press. doi: 10.1093/0199257663.001.0001
 * Callahan, Joan (ed.), 2000, “Symposium: Feminist Philosophy at ‘the’ Millennium” (Lynn Hankinson Nelson, Sandra Harding, Sally Haslanger, Christine Distefano, Alison M. Jaggar), *American Philosophical Association Newsletter on Feminism and Philosophy*, 99(2): 186–205.
 * Campbell, Richmond, 1998, *Illusions of Paradox: A Feminist Epistemology Naturalized*, Lanham, MD: Rowman and Littlefield.
 * –––, 2001, “The Bias Paradox in Feminist Epistemology”, in Tuana and Morgen 2001: 195–217.
 * Card, Claudia, 1995, *Lesbian Choices*, New York: Columbia University Press.
 * –––, 1996, *The Unnatural Lottery: Character and Moral Luck*, Philadelphia, PA: Temple University Press.
-* –––, 2002, *The Atrocity Paradigm: A Theory of Evil*, New York: Oxford University Press. doi:10.1093/0195145089.001.0001
-* Cattien, Jana, 2019, “Against ‘Transracialism’: Revisiting the Debate”, *Hypatia*, 34(4): 713–735. doi:10.1111/hypa.12499
+* –––, 2002, *The Atrocity Paradigm: A Theory of Evil*, New York: Oxford University Press. doi: 10.1093/0195145089.001.0001
+* Cattien, Jana, 2019, “Against ‘Transracialism’: Revisiting the Debate”, *Hypatia*, 34(4): 713–735. doi: 10.1111/hypa.12499
 * Cherry, Myisha V., 2019, “Gendered Failures in Extrinsic Emotional Regulation; Or, Why Telling a Woman to ‘Relax’ or a Young Boy to ‘Stop Crying Like a Girl’ Is Not a Good Idea”, *Philosophical Topics*, 47(2):  95–112.
 * –––, forthcoming, *The Case for Rage: On the Role of Anger in Anti-Racist Struggle*, New York: Oxford University Press.
 * Clough, Sharyn (ed.), 2003, *Siblings under the Skin: Feminism, Social Justice, and Analytic Philosophy*, Aurora, CO: Davies Group.
 * Code, Lorraine, 1991, *What Can She Know?: Feminist Theory and the Construction of Knowledge*, Ithaca, NY: Cornell University Press.
-* –––, 1995, *Rhetorical Spaces: Essays on Gendered Locations*, New York: Routledge. doi:10.4324/9780203724132
+* –––, 1995, *Rhetorical Spaces: Essays on Gendered Locations*, New York: Routledge. doi: 10.4324/9780203724132
 * –––, 1996, “What Is Natural About Epistemology Naturalized?”, *American Philosophical Quarterly*, 33(1): 1–22.
 * –––, 1998, “Voice and Voicelessness: A Modest Proposal?”, in Kourany 1998: 204–230.
-* –––, 2006, *Ecological Thinking: The Politics of Epistemic Location*, New York: Oxford University Press. doi:10.1093/0195159438.001.0001
+* –––, 2006, *Ecological Thinking: The Politics of Epistemic Location*, New York: Oxford University Press. doi: 10.1093/0195159438.001.0001
 * Collins, Patricia Hill, 1990, *Black Feminist Thought, Knowledge, Consciousness, and the Politics of Empowerment*, Boston: Unwin Hyman.
 * Crary, Alice, 2018, “The Method is Political: What’s the Matter with ‘Analytic Feminism’?”, *Radical Philosophy*, 2(2): 47–60.
-* Crasnow, Sharon, 2008, “Feminist Philosophy of Science: ‘Standpoint’ and Knowledge”, *Science & Education*, 17(10): 1089–1110. doi:10.1007/s11191-006-9069-z
-* –––, 2009, “Is Standpoint Theory a Resource for Feminist Epistemology? An Introduction”, *Hypatia*, 24(4): 189–192. doi:10.1111/j.1527-2001.2009.01066.x
-* Crasnow, Sharon L. and Anita M. Superson (eds.), 2012, *Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199855469.001.0001
+* Crasnow, Sharon, 2008, “Feminist Philosophy of Science: ‘Standpoint’ and Knowledge”, *Science & Education*, 17(10): 1089–1110. doi: 10.1007/s11191-006-9069-z
+* –––, 2009, “Is Standpoint Theory a Resource for Feminist Epistemology? An Introduction”, *Hypatia*, 24(4): 189–192. doi: 10.1111/j.1527-2001.2009.01066.x
+* Crasnow, Sharon L. and Anita M. Superson (eds.), 2012, *Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199855469.001.0001
 * Cudd, Ann E., 1996 \[2006], “Analytic Feminism”, in *The Encyclopedia of Philosophy Supplement*, Donald M. Borchert (ed.), New York: Macmillan Reference, 20–21; reprinted in the *The Encyclopedia of Philosophy*, second edition, Donald M. Borchert (ed.), New York: Macmillan Reference, 2006, vol. 1, 157–159.
 * –––, 2002, “Rational Choice Theory and the Lessons of Feminism”, Antony and Witt 2002: 398–417. Not in 1993 edition.
-* –––, 2006, *Analyzing Oppression*, New York: Oxford University Press. doi:10.1093/0195187431.001.0001
+* –––, 2006, *Analyzing Oppression*, New York: Oxford University Press. doi: 10.1093/0195187431.001.0001
 * Cudd, Ann E. and Virginia Klenk (eds.), 1995, *Hypatia*, Special Issue on *Analytic Feminism*, 10(3).
 * Cudd, Ann E. and Kathryn J. Norlock, 2018, “The Society for Analytical Feminism: Our Founding 25 Years Ago”, in Garavaso 2018: 37–42.
-* Dembroff, Robin, 2018, “Real Talk on the Metaphysics of Gender”, *Philosophical Topics*, 46(2): 21–50. doi:10.5840/philtopics201846212
+* Dembroff, Robin, 2018, “Real Talk on the Metaphysics of Gender”, *Philosophical Topics*, 46(2): 21–50. doi: 10.5840/philtopics201846212
 * –––, 2020, “Beyond Binary: Genderqueer as Critical Gender Kind”, *Philosophers Imprint*, 20(9): 1–23. \[[Dembroff 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.009)]
-* Diaz‐Leon, Esa, 2016, “Woman as a Politically Significant Term: A Solution to the Puzzle”, *Hypatia*, 31(2): 245–258. doi:10.1111/hypa.12234
-* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi:10.1111/j.1527-2001.2011.01177.x
+* Diaz‐Leon, Esa, 2016, “Woman as a Politically Significant Term: A Solution to the Puzzle”, *Hypatia*, 31(2): 245–258. doi: 10.1111/hypa.12234
+* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi: 10.1111/j.1527-2001.2011.01177.x
 * –––, 2012, “A Cautionary Tale: On Limiting Epistemic Oppression”, *Frontiers: A Journal of Women Studies*, 33(1): 24–47.
-* –––, 2014, “Conceptualizing Epistemic Oppression”, *Social Epistemology*, 28(2): 115–138. doi:10.1080/02691728.2013.782585
+* –––, 2014, “Conceptualizing Epistemic Oppression”, *Social Epistemology*, 28(2): 115–138. doi: 10.1080/02691728.2013.782585
 * Duran, Jane, 1991, *Toward a Feminist Epistemology*, Savage, MD: Rowman and Littlefield.
 * –––, 1994, *Knowledge in Context: Naturalized Epistemology and Sociolinguistics*, Lanham, MD: Rowman and Littlefield.
 * –––, 1998, *Philosophies of Science/Feminist Theories*, Boulder, CO: Westview Press.
 * –––, 2001, *Worlds of Knowing: Global Feminist Epistemologies*, New York: Routledge.
 * Flax, Jane, 1987, “Postmodernism and Gender Relations in Feminist Theory”, *Signs*, 12(4): 621–643.
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Fricker, Miranda and Jennifer Hornsby (eds.), 2000, *The Cambridge Companion to Feminism in Philosophy*, Cambridge and New York: Cambridge University Press. doi:10.1017/CCOL0521624517
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
+* Fricker, Miranda and Jennifer Hornsby (eds.), 2000, *The Cambridge Companion to Feminism in Philosophy*, Cambridge and New York: Cambridge University Press. doi: 10.1017/CCOL0521624517
 * Frye, Marilyn, 1983, *The Politics of Reality: Essays in Feminist Theory*, Trumansburg, NY: Crossing Press. See especially “On Being White: Thinking toward a Feminist Understanding of Race and Race Supremacy”, 110–127.
 * –––, 1992, *Willful Virgin: Essays in Feminism, 1976–1992*, Freedom, CA: Crossing Press.
 * –––, 2001, “Intra-Feminist Critique: Modes of Disengagement”, *American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 85–87.
 * Garavaso, Pieranna (ed.), 2018, *The Bloomsbury Companion to Analytic Feminism*, London: Bloomsbury.
-* Garry, Ann, 1995, “A Minimally Decent Philosophical Method? Analytic Philosophy and Feminism”, *Hypatia*, 10(3): 7–30. doi:10.1111/j.1527-2001.1995.tb00735.x
+* Garry, Ann, 1995, “A Minimally Decent Philosophical Method? Analytic Philosophy and Feminism”, *Hypatia*, 10(3): 7–30. doi: 10.1111/j.1527-2001.1995.tb00735.x
 * ––– (ed.), 2001, “Symposium: Intra-Feminist Criticism and the ‘Rules of Engagement’” (Naomi Zack, Marilyn Frye, Ann Garry, Martha C. Nussbaum, Naomi Scheman), *American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 82–96. [Garry 2001 available online.](https://cdn.ymaws.com/www.apaonline.org/resource/collection/D03EBDAB-82D7-4B28-B897-C050FDC1ACB4/FeminismV00n2Spring2001.pdf)
 * –––, 2012, “Who Is Included? Intersectionality, Metaphors, and the Multiplicity of Gender”, in Crasnow and Superson 2012: 493–530. Abbreviated version, “Intersectionality, Metaphors, and the Multiplicity of Gender”, in *Hypatia*, 2011, 26(4): 826–850. doi: 10.1111/j.1527-2001.2011.01194.x
 * –––, 2018, “Why Analytic Feminism?” in Garavaso 2018: 17–36.
-* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, *The Routledge Companion to Feminist Philosophy*, New York: Routledge. doi:10.4324/9781315758152
+* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, *The Routledge Companion to Feminist Philosophy*, New York: Routledge. doi: 10.4324/9781315758152
 * Garry, Ann and Marilyn Pearsall (eds.), 1996, *Women, Knowledge, and Reality: Explorations in Feminist Philosophy*, second edition, New York: Routledge.
 * Gatens, Moira, 1991, *Feminism and Philosophy: Perspectives on Difference and Equality*, Bloomington, IN: Indiana University Press.
 * Govier, Trudy, 1999, *The Philosophy of Argument*, Newport News, VA: Vale Press.
-* Grasswick, Heidi E. (ed.), 2011, *Feminist Epistemology and Philosophy of Science: Power in Knowledge*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-6835-5
-* –––, 2006 \[2018], “Feminist Social Epistemology”, *Stanford Encyclopedia of Philosophy* (Fall 2018 edition), Edward N. Zalta (ed.), URL = \<https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/.
-* Harding, Sandra, 1986, *The Science Question in Feminism*, Ithaca, NY: Cornell University Press.
-* –––, 1991, *Whose Science? Whose Knowledge?: Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
-* –––, 1998, *Is Science Multicultural? Postcolonialisms, Feminisms, and Epistemologies*, Bloomington, IN: Indiana University Press.
-* ––– (ed.), 2004, *The Feminist Standpoint Theory Reader*, New York: Routledge.
-* –––, 2009, “Standpoint Theories: Productively Controversial”, *Hypatia*, 24(4): 192–200. doi:10.1111/j.1527-2001.2009.01067.x
-* Harding, Sandra G. and Merrill B. Hintikka (eds.), 1983, *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science*, Dordrecht and Hingham, MA: D. Reidel.
+* Grasswick, Heidi E. (ed.), 2011, *Feminist Epistemology and Philosophy of Science: Power in Knowledge*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-6835-5
+* –––, 2006 \[2018], “Feminist Social Epistemology”, *Stanford Encyclopedia of Philosophy* (Fall 2018 edition), Edward N. Zalta (ed.), URL = \< https://plato.stanford.edu/archives/fall2018/entries/feminist-social-epistemology/.
+* Harding, Sandra, 1986, * The Science Question in Feminism*, Ithaca, NY: Cornell University Press.
+* –––, 1991, * Whose Science? Whose Knowledge?: Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
+* –––, 1998, * Is Science Multicultural? Postcolonialisms, Feminisms, and Epistemologies*, Bloomington, IN: Indiana University Press.
+* ––– (ed.), 2004, * The Feminist Standpoint Theory Reader*, New York: Routledge.
+* –––, 2009, “Standpoint Theories: Productively Controversial”, * Hypatia*, 24(4): 192–200. doi: 10.1111/j.1527-2001.2009.01067.x
+* Harding, Sandra G. and Merrill B. Hintikka (eds.), 1983, * Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science*, Dordrecht and Hingham, MA: D. Reidel.
 * Haslanger, Sally, 1993 \[2002], “On Being Objective and Being Objectified”, in Antony and Witt 1993 \[2002: 209–253].
-* ––– (ed.), 1995a, *Philosophical Topics*, Special Issue: *Feminist Perspectives on Language, Knowledge, and Reality*, 23(2).
-* –––, 1995b, “Ontology and Social Construction”, *Philosophical Topics*, 23(2): 95–125. doi:10.5840/philtopics19952324
+* ––– (ed.), 1995a, * Philosophical Topics *, Special Issue: * Feminist Perspectives on Language, Knowledge, and Reality*, 23(2).
+* –––, 1995b, “Ontology and Social Construction”, * Philosophical Topics*, 23(2): 95–125. doi: 10.5840/philtopics19952324
 * –––, 1996, “Objective Reality, Male Reality, and Social Construction”, in Garry and Pearsall 1996: 84–107.
-* –––, 2000, “Feminism in Metaphysics”, in Fricker and Hornsby 2000: 107–126. doi:10.1017/CCOL0521624517.007
-* –––, 2012, *Resisting Reality: Social Construction and Social Critique*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199892631.001.0001
-* Held, Virginia, 1993, *Feminist Morality: Transforming Culture, Society, and Politics*, Chicago: University of Chicago Press.
+* –––, 2000, “Feminism in Metaphysics”, in Fricker and Hornsby 2000: 107–126. doi: 10.1017/CCOL0521624517.007
+* –––, 2012, * Resisting Reality: Social Construction and Social Critique*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199892631.001.0001
+* Held, Virginia, 1993, * Feminist Morality: Transforming Culture, Society, and Politics*, Chicago: University of Chicago Press.
 * Heldke, Lisa, 2001, “How to Be Really Responsible”, in Tuana and Morgen 2001: 81–97.
-* Henning, Tempest M., 2018, “Bringing Wreck”, *Symposion*, 5(2): 197–211. doi:10.5840/symposion20185216
-* –––, 2020, “‘I Said What I Said:’ Black Women and Argumentative Politeness Norms”, in the *Proceedings of Reason to Dissent: The 3rd European Conference on Argumentation*, Milton Keynes: College Publications.0
-* Herman, Barbara, 1993, *The Practice of Moral Judgment*, Cambridge, MA: Harvard University Press.
-* Hoagland, Sarah Lucia, 1988, *Lesbian Ethics: Toward New Value*, Palo Alto, CA: institute of Lesbian Ethics.
-* Holland, Nancy J., 1990, *Is Women’s Philosophy Possible?* Savage, MD: Rowman & Littlefield Publishers.
+* Henning, Tempest M., 2018, “Bringing Wreck”, * Symposion*, 5(2): 197–211. doi: 10.5840/symposion20185216
+* –––, 2020, “‘I Said What I Said:’ Black Women and Argumentative Politeness Norms”, in the * Proceedings of Reason to Dissent: The 3rd European Conference on Argumentation*, Milton Keynes: College Publications.0
+* Herman, Barbara, 1993, * The Practice of Moral Judgment*, Cambridge, MA: Harvard University Press.
+* Hoagland, Sarah Lucia, 1988, * Lesbian Ethics: Toward New Value*, Palo Alto, CA: institute of Lesbian Ethics.
+* Holland, Nancy J., 1990, * Is Women’s Philosophy Possible?* Savage, MD: Rowman & Littlefield Publishers.
 * Homiak, Marcia, 1993 \[2002], “Feminism and Aristotle’s Rational Ideal”, in Antony and Witt 1993 \[2002: 3–20].
-* Intemann, Kristen, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, *Hypatia*, 25(4): 778–796. doi:10.1111/j.1527-2001.2010.01138.x
-* –––, 2016, “Feminist Standpoint”, *The Oxford Handbook of Feminist Theory*, Lisa Disch and Mary Hawkesworth (eds.), New York: Oxford University Press, 261–282.
-* Irigaray, Luce, 1991, *The Irigaray Reader*, Margaret Whitford (ed.), Cambridge, MA: Basil Blackwell.
-* –––, 1993, *An Ethics of Sexual Difference*, Ithaca, NY: Cornell University Press.
+* Intemann, Kristen, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, * Hypatia*, 25(4): 778–796. doi: 10.1111/j.1527-2001.2010.01138.x
+* –––, 2016, “Feminist Standpoint”, * The Oxford Handbook of Feminist Theory*, Lisa Disch and Mary Hawkesworth (eds.), New York: Oxford University Press, 261–282.
+* Irigaray, Luce, 1991, * The Irigaray Reader*, Margaret Whitford (ed.), Cambridge, MA: Basil Blackwell.
+* –––, 1993, * An Ethics of Sexual Difference*, Ithaca, NY: Cornell University Press.
 * Jaggar, Alison M., 1977, “Political Philosophies of Women’s Liberation”, in Vetterling-Braggin, Elliston, and English 1977: 5–21.
-* –––, 1983, *Feminist Politics and Human Nature*, Totowa, NJ: Rowman and Allanheld.
-* Janack, Marianne, 2002, “Dilemmas of Objectivity”, *Social Epistemology*, 16(3): 267–281. doi:10.1080/0269172022000025624
-* Keller, Evelyn Fox, 1985, *Reflections on Gender and Science*, New Haven, CT: Yale University Press.
-* –––, 1992, *Secrets of Life, Secrets of Death: Essays on Language, Gender, and Science*, New York: Routledge.
-* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of *Woman*”, *Ethics*, 126(2): 394–421. doi:10.1086/683535
-* –––, 2018, “Toward an Account of Gender Identity”, *Ergo*, 5(27): 713—744. doi:10.3998/ergo.12405314.0005.027
-* –––, 2020, “Ontic Injustice”, *Journal of the American Philosophical Association*, 6(2): 188–205. doi:10.1017/apa.2019.27
-* Kapusta, Stephanie Julia, 2016, “Misgendering and Its Moral Contestability”, *Hypatia*, 31(3): 502–519. doi:10.1111/hypa.12259
-* Khader, Serene J., 2019, *Decolonizing Universalism: A Transnational Feminist Ethic*, New York: Oxford University Press. doi:10.1093/oso/9780190664190.001.0001
-* Kidd, Ian James, José Medina, and Gaile Pohlhaus, Jr. (eds.), 2017, *The Routledge Handbook of Epistemic Injustice*, New York: Routledge. doi:10.4324/9781315212043
-* Kittay, Eva Feder, 1999, *Love’s Labor: Essays on Women, Equality and Dependency*, New York: Routledge.
-* –––, 2019, *Learning from My Daughter: The Value and Care of Disabled Minds*, New York: Oxford University Press. doi:10.1093/oso/9780190844608.001.0001
-* Kornblith, Hilary (ed.), 1994, *Naturalizing Epistemology*, second edition, Cambridge, MA: MIT Press.
-* Kourany, Janet A. (ed.), 1998, *Philosophy in a Feminist Voice: Critiques and Reconstructions*, Princeton, NJ: Princeton University Press.
-* –––, 2009, “The Place of Standpoint Theory in Feminist Science Studies”, *Hypatia*, 24(4): 209–218. doi: 10.1111/j.1527-2001.2009.01069.x
-* Kristeva, Julia and Kelly Oliver (eds.), 2002, *The Portable Kristeva*, New York: Columbia University Press.
-* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi:10.1111/j.1527-2001.2012.01316.x
-* La Caze, Marguerite, 2002, *The Analytic Imaginary*, Ithaca, NY: Cornell University Press.
+* –––, 1983, * Feminist Politics and Human Nature*, Totowa, NJ: Rowman and Allanheld.
+* Janack, Marianne, 2002, “Dilemmas of Objectivity”, * Social Epistemology*, 16(3): 267–281. doi: 10.1080/0269172022000025624
+* Keller, Evelyn Fox, 1985, * Reflections on Gender and Science*, New Haven, CT: Yale University Press.
+* –––, 1992, * Secrets of Life, Secrets of Death: Essays on Language, Gender, and Science*, New York: Routledge.
+* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of * Woman *”, * Ethics*, 126(2): 394–421. doi: 10.1086/683535
+* –––, 2018, “Toward an Account of Gender Identity”, * Ergo*, 5(27): 713—744. doi: 10.3998/ergo.12405314.0005.027
+* –––, 2020, “Ontic Injustice”, * Journal of the American Philosophical Association*, 6(2): 188–205. doi: 10.1017/apa.2019.27
+* Kapusta, Stephanie Julia, 2016, “Misgendering and Its Moral Contestability”, * Hypatia*, 31(3): 502–519. doi: 10.1111/hypa.12259
+* Khader, Serene J., 2019, * Decolonizing Universalism: A Transnational Feminist Ethic*, New York: Oxford University Press. doi: 10.1093/oso/9780190664190.001.0001
+* Kidd, Ian James, José Medina, and Gaile Pohlhaus, Jr. (eds.), 2017, * The Routledge Handbook of Epistemic Injustice*, New York: Routledge. doi: 10.4324/9781315212043
+* Kittay, Eva Feder, 1999, * Love’s Labor: Essays on Women, Equality and Dependency*, New York: Routledge.
+* –––, 2019, * Learning from My Daughter: The Value and Care of Disabled Minds*, New York: Oxford University Press. doi: 10.1093/oso/9780190844608.001.0001
+* Kornblith, Hilary (ed.), 1994, * Naturalizing Epistemology*, second edition, Cambridge, MA: MIT Press.
+* Kourany, Janet A. (ed.), 1998, * Philosophy in a Feminist Voice: Critiques and Reconstructions*, Princeton, NJ: Princeton University Press.
+* –––, 2009, “The Place of Standpoint Theory in Feminist Science Studies”, * Hypatia*, 24(4): 209–218. doi: 10.1111/j.1527-2001.2009.01069.x
+* Kristeva, Julia and Kelly Oliver (eds.), 2002, * The Portable Kristeva*, New York: Columbia University Press.
+* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, * Hypatia*, 29(2): 440–457. doi: 10.1111/j.1527-2001.2012.01316.x
+* La Caze, Marguerite, 2002, * The Analytic Imaginary*, Ithaca, NY: Cornell University Press.
 * Langton, Rae, 2000, “Feminism in Epistemology: Exclusion and Objectification,” in Fricker and Hornsby (eds.) 2000: 127–145.
-* Larrabee, Mary Jeanne (ed.), 1993, *An Ethic of Care: Feminist and Interdisciplinary Perspectives*, New York: Routledge. doi:10.4324/9780203760192
-* Le Dœuff, Michèle, 1980 \[1989], *Recherches sur l’imaginaire philosophique*, Paris: Payot. Translated as *The Philosophical Imaginary*, Colin Gordon (trans.), Stanford, CA: Stanford University Press, 1989.
-* Linker, Maureen, 2003, “A Case for a *Responsibly Rationalized* Feminist Epistemology”, in Nelson and Nelson 2003: 153–172.
-* Lloyd, Elisabeth A., 1995a, “Feminism As Method: What Scientists Get That Philosophers Don’t”, *Philosophical Topics*, 23(2): 189–220. doi:10.5840/philtopics199523214
-* –––, 1995b, “Objectivity and the Double Standard for Feminist Epistemologies”, *Synthese*, 104(3): 351–381. doi:10.1007/BF01064505
-* –––, 2008, *Science, Politics and Evolution*, New York: Cambridge University Press. doi:10.1017/CBO9780511619724
-* Lloyd, Genevieve, 1984, *The Man of Reason: “Male” and “Female” in Western Philosophy*, Minneapolis, MN: University of Minnesota Press.
-* Longino, Helen E., 1988, “Science, Objectivity, and Feminist Values”, *Feminist Studies*, 14(3): 561–574. doi:10.2307/3178065
-* –––, 1989, “Feminist Critiques of Rationality: Critiques of Science or Philosophy of Science?”, *Women’s Studies International Forum*, 12(3): 261–269. doi:10.1016/S0277-5395(89)80004-4
-* –––, 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
-* –––, 2002, *The Fate of Knowledge*, Princeton, NJ: Princeton University Press.
-* –––, 2013, *Studying Human Behavior: How Scientists Investigate Aggression and Sexuality*, Chicago, IL: University of Chicago Press.
-* Lorde, Audre, 1984, *Sister Outsider: Essays and Speeches*, Trumansburg, NY: Crossing Press.
-* MacKinnon, Catherine, 1987, *Feminism Unmodified*, Cambridge, MA: Harvard University Press.
-* Marks, Elaine and Isabelle De Courtivron (eds.), 1981, *New French Feminisms: An Anthology*, New York: Schocken Books.
-* McKinnon, Rachel, 2014, “Stereotype Threat and Attributional Ambiguity for Trans Women”, *Hypatia*, 29(4): 857–872. doi:10.1111/hypa.12097
-* McKitrick, Jennifer, 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172(10): 2575–2589. doi:10.1007/s11098-014-0425-6
-* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199929023.001.0001
-* Meyers, Diana Tietjens, and Louise Antony (eds.), 1993, “Symposium: Doing Philosophy as a Feminist” (Margaret Atherton, H. E. Baber, Patrice Diquinizio), *American Philosophical Association Newsletter on Feminism and Philosophy* 92(2): 44–53.
-* Mikkola, Mari, 2016, *The Wrong of Injustice: Dehumanization and its Role in Feminist Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190601072.001.0001
-* Mills, Charles W., 1997, *The Racial Contract*, Ithaca, NY: Cornell University Press.
-* –––, 2005, “‘Ideal Theory’ as Ideology”, *Hypatia*, 20(3): 165–183. doi:10.1111/j.1527-2001.2005.tb00493.x
+* Larrabee, Mary Jeanne (ed.), 1993, * An Ethic of Care: Feminist and Interdisciplinary Perspectives*, New York: Routledge. doi: 10.4324/9780203760192
+* Le Dœuff, Michèle, 1980 \[1989], * Recherches sur l’imaginaire philosophique *, Paris: Payot. Translated as * The Philosophical Imaginary*, Colin Gordon (trans.), Stanford, CA: Stanford University Press, 1989.
+* Linker, Maureen, 2003, “A Case for a * Responsibly Rationalized* Feminist Epistemology”, in Nelson and Nelson 2003: 153–172.
+* Lloyd, Elisabeth A., 1995a, “Feminism As Method: What Scientists Get That Philosophers Don’t”, * Philosophical Topics*, 23(2): 189–220. doi: 10.5840/philtopics199523214
+* –––, 1995b, “Objectivity and the Double Standard for Feminist Epistemologies”, * Synthese*, 104(3): 351–381. doi: 10.1007/BF01064505
+* –––, 2008, * Science, Politics and Evolution*, New York: Cambridge University Press. doi: 10.1017/CBO9780511619724
+* Lloyd, Genevieve, 1984, * The Man of Reason: “Male” and “Female” in Western Philosophy*, Minneapolis, MN: University of Minnesota Press.
+* Longino, Helen E., 1988, “Science, Objectivity, and Feminist Values”, * Feminist Studies*, 14(3): 561–574. doi: 10.2307/3178065
+* –––, 1989, “Feminist Critiques of Rationality: Critiques of Science or Philosophy of Science?”, * Women’s Studies International Forum*, 12(3): 261–269. doi: 10.1016/S0277-5395(89)80004-4
+* –––, 1990, * Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
+* –––, 2002, * The Fate of Knowledge*, Princeton, NJ: Princeton University Press.
+* –––, 2013, * Studying Human Behavior: How Scientists Investigate Aggression and Sexuality*, Chicago, IL: University of Chicago Press.
+* Lorde, Audre, 1984, * Sister Outsider: Essays and Speeches*, Trumansburg, NY: Crossing Press.
+* MacKinnon, Catherine, 1987, * Feminism Unmodified*, Cambridge, MA: Harvard University Press.
+* Marks, Elaine and Isabelle De Courtivron (eds.), 1981, * New French Feminisms: An Anthology*, New York: Schocken Books.
+* McKinnon, Rachel, 2014, “Stereotype Threat and Attributional Ambiguity for Trans Women”, * Hypatia*, 29(4): 857–872. doi: 10.1111/hypa.12097
+* McKitrick, Jennifer, 2015, “A Dispositional Account of Gender”, * Philosophical Studies*, 172(10): 2575–2589. doi: 10.1007/s11098-014-0425-6
+* Medina, José, 2013, * The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199929023.001.0001
+* Meyers, Diana Tietjens, and Louise Antony (eds.), 1993, “Symposium: Doing Philosophy as a Feminist” (Margaret Atherton, H. E. Baber, Patrice Diquinizio), * American Philosophical Association Newsletter on Feminism and Philosophy* 92(2): 44–53.
+* Mikkola, Mari, 2016, * The Wrong of Injustice: Dehumanization and its Role in Feminist Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190601072.001.0001
+* Mills, Charles W., 1997, * The Racial Contract*, Ithaca, NY: Cornell University Press.
+* –––, 2005, “‘Ideal Theory’ as Ideology”, * Hypatia*, 20(3): 165–183. doi: 10.1111/j.1527-2001.2005.tb00493.x
 * Moulton, Janice, 1983, “A Paradigm of Philosophy: The Adversary Method”, in Harding and Hintikka 1983: 149–164.
-* Nelson, Lynn Hankinson, 1990, *Who Knows: From Quine to a Feminist Empiricism*, Philadelphia, PA: Temple University Press.
+* Nelson, Lynn Hankinson, 1990, * Who Knows: From Quine to a Feminist Empiricism*, Philadelphia, PA: Temple University Press.
 * –––, 1996, “Who Knows? What Can They Know? And When?” in Garry and Pearsall 1996: 286–297.
-* Nelson, Lynn Hankinson and Jack Nelson (eds.), 1996, *Feminism, Science, and the Philosophy of Science*, Dordrecht and Boston: Kluwer Academic Publishers.
-* –––, 2000, *On Quine*, Belmont, CA: Wadsworth/Thomson Learning.
-* ––– (eds.), 2003, *Feminist Interpretations of W. V. Quine*, University Park, PA: Pennsylvania State University Press.
-* Nussbaum, Martha C., 1994, “Feminism and Philosophy: Review of Louise Antony and Charlotte Witt, eds., *a Mind of One’s Own*”, *The New York Review of Books*, 41(17): 59–63.
-* –––, 1995, “Human Capabilities, Female Human Beings”, *Women, Culture, and Development: A Study of Human Capabilities*, Martha C. Nussbaum and Jonathan Glover (eds.), New York: Oxford University Press, 61–104.
-* –––, 2000a, “The Future of Feminist Liberalism”, *Proceedings and Addresses of the American Philosophical Association*, 74(2): 47–79. doi:10.2307/3219683
-* –––, 2000b, *Women and Human Development: The Capabilities Approach*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511841286
-* –––, 2001, “How Should Feminists Criticize One Another?” *American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 89–92.&#x20;
-* Okruhlik, Kathleen, 2004, “Logical Empiricism, Feminism, and Neurath’s Auxiliary Motive”, *Hypatia*, 19(1): 48–72. doi:10.1111/j.1527-2001.2004.tb01268.x
-* Parekh, Serena, 2017, *Refugees and the Ethics of Forced Displacement*, New York: Routledge. doi:10.4324/9781315883854
-* Potter, Elizabeth, 2006, *Feminism and Philosophy of Science: An Introduction*, New York: Routledge. doi:10.4324/9780203646663
-* Rolin, Kristina, 2009, “Standpoint Theory as a Methodology for the Study of Power Relations”, *Hypatia*, 24(4): 218–226. doi:10.1111/j.1527-2001.2009.01070.x
+* Nelson, Lynn Hankinson and Jack Nelson (eds.), 1996, * Feminism, Science, and the Philosophy of Science*, Dordrecht and Boston: Kluwer Academic Publishers.
+* –––, 2000, * On Quine*, Belmont, CA: Wadsworth/Thomson Learning.
+* ––– (eds.), 2003, * Feminist Interpretations of W. V. Quine*, University Park, PA: Pennsylvania State University Press.
+* Nussbaum, Martha C., 1994, “Feminism and Philosophy: Review of Louise Antony and Charlotte Witt, eds., * a Mind of One’s Own *”, * The New York Review of Books*, 41(17): 59–63.
+* –––, 1995, “Human Capabilities, Female Human Beings”, * Women, Culture, and Development: A Study of Human Capabilities*, Martha C. Nussbaum and Jonathan Glover (eds.), New York: Oxford University Press, 61–104.
+* –––, 2000a, “The Future of Feminist Liberalism”, * Proceedings and Addresses of the American Philosophical Association*, 74(2): 47–79. doi: 10.2307/3219683
+* –––, 2000b, * Women and Human Development: The Capabilities Approach*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9780511841286
+* –––, 2001, “How Should Feminists Criticize One Another?” * American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 89–92.&#x20;
+* Okruhlik, Kathleen, 2004, “Logical Empiricism, Feminism, and Neurath’s Auxiliary Motive”, * Hypatia*, 19(1): 48–72. doi: 10.1111/j.1527-2001.2004.tb01268.x
+* Parekh, Serena, 2017, * Refugees and the Ethics of Forced Displacement*, New York: Routledge. doi: 10.4324/9781315883854
+* Potter, Elizabeth, 2006, * Feminism and Philosophy of Science: An Introduction*, New York: Routledge. doi: 10.4324/9780203646663
+* Rolin, Kristina, 2009, “Standpoint Theory as a Methodology for the Study of Power Relations”, * Hypatia*, 24(4): 218–226. doi: 10.1111/j.1527-2001.2009.01070.x
 * Rooney, Phyllis, 2003, “Feminist Epistemology and Naturalized Epistemology: An Uneasy Alliance”, in Nelson and Nelson 2003: 205–239.
-* –––, 2010, “Philosophy, Adversarial Argumentation, and Embattled Reason”, *Informal Logic*, 30(3): 203–234. doi:10.22329/il.v30i3.3032
-* Rouse, Joseph, 2009, “Standpoint Theories Reconsidered”, *Hypatia*, 24(4): 200–209. doi:10.1111/j.1527-2001.2009.01068.x
-* Sandoval, Chela, 1991, “U.S. Third World Feminism: The Theory and Method of Oppositional Consciousness in the Postmodern World”, *Genders*, 10: 1–24.
-* –––, 2000, *Methodology of the Oppressed*, Minneapolis, MN: University of Minnesota Press.
+* –––, 2010, “Philosophy, Adversarial Argumentation, and Embattled Reason”, * Informal Logic*, 30(3): 203–234. doi: 10.22329/il.v30i3.3032
+* Rouse, Joseph, 2009, “Standpoint Theories Reconsidered”, * Hypatia*, 24(4): 200–209. doi: 10.1111/j.1527-2001.2009.01068.x
+* Sandoval, Chela, 1991, “U.S. Third World Feminism: The Theory and Method of Oppositional Consciousness in the Postmodern World”, * Genders*, 10: 1–24.
+* –––, 2000, * Methodology of the Oppressed*, Minneapolis, MN: University of Minnesota Press.
 * Saul, Jennifer, 2012, “Politically Significant Terms and Philosophy of Language: Methodological Issues”, in Crasnow and Superson 2012: 195–216.
-* Scheman, Naomi, 1993, *Engenderings: Constructions of Knowledge, Authority, and Privilege*, New York: Routledge. doi:10.4324/9781315831855
+* Scheman, Naomi, 1993, * Engenderings: Constructions of Knowledge, Authority, and Privilege*, New York: Routledge. doi: 10.4324/9781315831855
 * –––, 2001a, “Epistemology Resuscitated: Objectivity as Trustworthiness”, in Tuana and Morgen 2001: 23–52.
-* –––, 2001b, “Openness, Vulnerability, and Feminist Engagement”, *American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 92–96.
-* –––, 2011, *Shifting Ground: Knowledge and Reality, Transgression and Trustworthiness*, New York: Oxford University Press. doi:10.1093/acprof:osobl/9780195395112.001.0001
-* Scheman, Naomi and Peg O’Connor (eds.), 2002, *Feminist Interpretations of Ludwig Wittgenstein*, University Park, PA: Pennsylvania State University Press.
-* Sedgwick, Eve Kosofsky, 1990, *The Epistemology of the Closet*, Berkeley and Los Angeles: University of California Press.
-* Solomon, Miriam, 2001, *Social Empiricism*, Cambridge, MA: MIT Press (Bradford Book).
-* –––, 2009, “Standpoint and Creativity”, *Hypatia*, 24(4): 226–237. doi:10.1111/j.1527-2001.2009.01071.x
+* –––, 2001b, “Openness, Vulnerability, and Feminist Engagement”, * American Philosophical Association Newsletter on Feminism and Philosophy*, 00(2): 92–96.
+* –––, 2011, * Shifting Ground: Knowledge and Reality, Transgression and Trustworthiness*, New York: Oxford University Press. doi: 10.1093/acprof: osobl/9780195395112.001.0001
+* Scheman, Naomi and Peg O’Connor (eds.), 2002, * Feminist Interpretations of Ludwig Wittgenstein*, University Park, PA: Pennsylvania State University Press.
+* Sedgwick, Eve Kosofsky, 1990, * The Epistemology of the Closet*, Berkeley and Los Angeles: University of California Press.
+* Solomon, Miriam, 2001, * Social Empiricism*, Cambridge, MA: MIT Press (Bradford Book).
+* –––, 2009, “Standpoint and Creativity”, * Hypatia*, 24(4): 226–237. doi: 10.1111/j.1527-2001.2009.01071.x
 * Spencer, Ayanna De’Vante, 2018, “Say Her Name: Maladjusted Epistemic Salience in the Fight against Anti-Black Police Brutality”, in Garavaso 2018: 310–328.
-* Sullivan, Shannon and Nancy Tuana (eds.), 2007, *Race and Epistemologies of Ignorance*, Albany, NY: State University of New York Press.
-* Superson, Anita (ed.), 2003, “Symposium: Feminism as a Meeting Place: Analytic and Continental Traditions” (Louise Antony, Ann Cudd, Anita Superson, Georgia Warnke, Cynthia Willets), *American Philosophical Association Newsletter on Feminism and Philosophy*, 02(2): 120–135. \[[Superson 2003 available online](https://www.apaonline.org/resource/collection/D03EBDAB-82D7-4B28-B897-C050FDC1ACB4/v02n2Feminism.pdf)]
-* –––, 2011, “Strategies for Making Feminist Philosophy Mainstream Philosophy”, *Hypatia*, 26(2): 410–418. doi:10.1111/j.1527-2001.2011.01166.x
-* Superson, Anita and Samantha Brennan (eds.), 2005, *Hypatia*, Special Issue on *Analytic Feminism*, 20(4).
-* Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, *Philosophy and Public Affairs*, 1(1): 47–66.
-* Tuana, Nancy (ed.), 1992, “Symposium: Doing Philosophy as a Feminist” (Sally Haslanger, Naomi Scheman, Virginia Held), *American Philosophical Association Newsletter on Feminism and Philosophy*, 91(1): 112–120.
-* Tuana, Nancy and Sandra Morgen (eds.), 2001, *Engendering Rationalities*, Albany, NY: State University of New York Press.
-* Tuana, Nancy and Shannon Sullivan (eds.), 2006, *Hypatia*, Special Issue on *Feminist Epistemologies of Ignorance*, 21(3).
-* Vetterling-Braggin, Mary, Frederick A. Elliston, and Jane English (eds.), 1977, *Feminism and Philosophy*, Totowa, NJ: Rowman and Littlefield.
-* Vogler, Candace, 1995, “Philosophical Feminism, Feminist Philosophy”, *Philosophical Topics*, 23(2): 295–319. doi:10.5840/philtopics19952329
-* Whitford, Margaret (ed.), 1991, *The Irigaray Reader*, Cambridge, MA: Basil Blackwell.
+* Sullivan, Shannon and Nancy Tuana (eds.), 2007, * Race and Epistemologies of Ignorance*, Albany, NY: State University of New York Press.
+* Superson, Anita (ed.), 2003, “Symposium: Feminism as a Meeting Place: Analytic and Continental Traditions” (Louise Antony, Ann Cudd, Anita Superson, Georgia Warnke, Cynthia Willets), * American Philosophical Association Newsletter on Feminism and Philosophy*, 02(2): 120–135. \[[Superson 2003 available online](https://www.apaonline.org/resource/collection/D03EBDAB-82D7-4B28-B897-C050FDC1ACB4/v02n2Feminism.pdf)]
+* –––, 2011, “Strategies for Making Feminist Philosophy Mainstream Philosophy”, * Hypatia*, 26(2): 410–418. doi: 10.1111/j.1527-2001.2011.01166.x
+* Superson, Anita and Samantha Brennan (eds.), 2005, * Hypatia *, Special Issue on * Analytic Feminism*, 20(4).
+* Thomson, Judith Jarvis, 1971, “A Defense of Abortion”, * Philosophy and Public Affairs*, 1(1): 47–66.
+* Tuana, Nancy (ed.), 1992, “Symposium: Doing Philosophy as a Feminist” (Sally Haslanger, Naomi Scheman, Virginia Held), * American Philosophical Association Newsletter on Feminism and Philosophy*, 91(1): 112–120.
+* Tuana, Nancy and Sandra Morgen (eds.), 2001, * Engendering Rationalities*, Albany, NY: State University of New York Press.
+* Tuana, Nancy and Shannon Sullivan (eds.), 2006, * Hypatia *, Special Issue on * Feminist Epistemologies of Ignorance*, 21(3).
+* Vetterling-Braggin, Mary, Frederick A. Elliston, and Jane English (eds.), 1977, * Feminism and Philosophy*, Totowa, NJ: Rowman and Littlefield.
+* Vogler, Candace, 1995, “Philosophical Feminism, Feminist Philosophy”, * Philosophical Topics*, 23(2): 295–319. doi: 10.5840/philtopics19952329
+* Whitford, Margaret (ed.), 1991, * The Irigaray Reader*, Cambridge, MA: Basil Blackwell.
 * Witt, Charlotte, 1993 \[2002], “Feminist Metaphysics”, in Antony and Witt 1993 \[2002: 302–318].
-* –––, 1995, “Anti-Essentialism in Feminist Theory”, *Philosophical Topics*, 23(2): 321–344. doi:10.5840/philtopics19952327
-* –––, 2011a, *The Metaphysics of Gender*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199740413.001.0001
-* ––– (ed.), 2011b, *Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self*, New York: Springer. doi:10.1007/978-90-481-3783-1
-* Wittgenstein, Ludwig, 1956 \[1967], *Bemerkungen über die Grundlagen der Mathematik*, translated as *Remarks on the Foundations of Mathematics*, G. H. von Wright, R. Rhees, G. E. M. Anscombe (eds.), G. E. M. Anscombe (trans.), Oxford: Basil Blackwell. Page numbers from the 1967 MIT University Press paperback printing.
+* –––, 1995, “Anti-Essentialism in Feminist Theory”, * Philosophical Topics*, 23(2): 321–344. doi: 10.5840/philtopics19952327
+* –––, 2011a, * The Metaphysics of Gender*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199740413.001.0001
+* ––– (ed.), 2011b, * Feminist Metaphysics: Explorations in the Ontology of Sex, Gender and the Self*, New York: Springer. doi: 10.1007/978-90-481-3783-1
+* Wittgenstein, Ludwig, 1956 \[1967], * Bemerkungen über die Grundlagen der Mathematik *, translated as * Remarks on the Foundations of Mathematics*, G. H. von Wright, R. Rhees, G. E. M. Anscombe (eds.), G. E. M. Anscombe (trans.), Oxford: Basil Blackwell. Page numbers from the 1967 MIT University Press paperback printing.
 * Wylie, Alison, 2004, “Why Standpoint Matters”, in Harding 2004: 339–351.
-* Yap, Audrey, 2010, “Feminism and Carnap’s Principle of Tolerance”, *Hypatia*, 25(2): 437–454. doi:10.1111/j.1527-2001.2009.01080.x
-* Zack, Naomi, 1993, *Race and Mixed Race*, Philadelphia, PA: Temple University Press.
-* Zurn, Perry, 2019, “Waste Culture and Isolation: Prisons, Toilets, and Gender Segregation”, *Hypatia*, 34(4): 668–689. doi:10.1111/hypa.12498
+* Yap, Audrey, 2010, “Feminism and Carnap’s Principle of Tolerance”, * Hypatia*, 25(2): 437–454. doi: 10.1111/j.1527-2001.2009.01080.x
+* Zack, Naomi, 1993, * Race and Mixed Race*, Philadelphia, PA: Temple University Press.
+* Zurn, Perry, 2019, “Waste Culture and Isolation: Prisons, Toilets, and Gender Segregation”, * Hypatia*, 34(4): 668–689. doi: 10.1111/hypa.12498
 
 ## Academic Tools
 

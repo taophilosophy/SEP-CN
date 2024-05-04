@@ -54,7 +54,7 @@ TMs 和大多数现代计算机被称为（经典）数字计算机，即操作�
 
 ### 2.1 简单映射解释
 
-计算的最早和最有影响力的描述之一是由希拉里·普特南提出的。在第一次近似中，这一描述表明，任何可以准确描述为计算描述 C 的东西都是实现 C 的计算系统。
+计算的最早和最有影响力的描述之一是由希拉里 · 普特南提出的。在第一次近似中，这一描述表明，任何可以准确描述为计算描述 C 的东西都是实现 C 的计算系统。
 
 更准确地说，普特南仅以图灵机（Turing Machines，TMs）的术语勾勒了他最早的观点，他引用了“机器表”这一标准定义特定 TMs 的方式。 机器表由 TM 的（有限数量的）内部状态的每一列和机器的符号类型的每一行组成。 机器表中的每个条目指定了机器在给定相关符号和内部状态时的操作。 这是普特南解释物理系统成为 TM 所需的条件。
 
@@ -137,7 +137,7 @@ TMs 和大多数现代计算机被称为（经典）数字计算机，即操作�
 
 语义学解释试图通过对物理状态和计算状态之间可接受映射施加语义限制来解决实施问题；只有符合（正确类型的）表征的物理状态才能映射到计算状态上。相比之下，句法学解释可以被视为取代这种语义限制：只有符合句法要求的物理状态才能映射到计算状态上，从而被视为计算状态。如果一个状态缺乏句法结构，那么它就不是计算状态。
 
-有待观察的是什么被视为句法状态。对于物理世界中句法的重要阐述归功于斯蒂芬·斯蒂奇（1983, 150–157）。尽管斯蒂奇没有使用“计算”这个术语，但他对句法的阐述旨在奠定心理状态和过程的句法阐述。斯蒂奇的心灵句法理论反过来是他对认知科学家提出的计算理论的解释，与福多的语义解释相竞争。由于斯蒂奇对句法的阐述最终旨在奠定认知的计算理论，斯蒂奇对句法的阐述也提供了（隐含的）计算的句法阐述。
+有待观察的是什么被视为句法状态。对于物理世界中句法的重要阐述归功于斯蒂芬 · 斯蒂奇（1983, 150–157）。尽管斯蒂奇没有使用“计算”这个术语，但他对句法的阐述旨在奠定心理状态和过程的句法阐述。斯蒂奇的心灵句法理论反过来是他对认知科学家提出的计算理论的解释，与福多的语义解释相竞争。由于斯蒂奇对句法的阐述最终旨在奠定认知的计算理论，斯蒂奇对句法的阐述也提供了（隐含的）计算的句法阐述。
 
 根据斯蒂奇（Stich）的观点，粗略地说，当满足两个条件时，一个物理系统包含有句法结构化的对象。首先，系统的行为相关的物理状态与一类句法类型之间存在映射，这些句法类型由一个定义了如何从（有限多个）基本句法类型形成复杂句法类型的语法来指定。其次，系统的行为是由一个理论解释的，该理论的概括是以句法类型之间的形式关系来表述的，这些句法类型映射到系统的物理状态。
 
@@ -199,7 +199,7 @@ Hinckfuss 对这个问题的暗示答案是，是的，一桶水可能会执行�
 
 Putnam 考虑的是本质上是对第 2.2 节中岩石示例的一般化，该示例是一个简单有限自动机在没有输入或输出的情况下通过一系列计算状态转换的示例。一个经历（可能是连续的）物理转换的任意物理系统可以被离散化，使得它的物理状态映射到任意自动机的计算状态，从而将物理状态转换映射到计算状态转换。由于物理系统和自动机是任意的，每个物理系统都实现了每个有限自动机。
 
-这个例子不包括输入和输出（这些对于计算解释可能是必要的），所以普特南引入了一个小改变，以允许具有输入和输出的自动机。这个想法是类似的，只是必须考虑物理状态（被视为输入和输出）与相关自动机的输入和输出之间的同构映射。这种限制导致一个更弱的结论：不是每个物理系统都实现每个有限自动机，而是任何给定的物理系统实现了可数无限个有限自动机（即那些产生正确输入/输出对的自动机）。这是因为，对于任意任意的输入/输出对<i, o>，当给定输入 i 时，有可数无限多个自动机产生输出 o（详见普特南 1988 年的附录）。
+这个例子不包括输入和输出（这些对于计算解释可能是必要的），所以普特南引入了一个小改变，以允许具有输入和输出的自动机。这个想法是类似的，只是必须考虑物理状态（被视为输入和输出）与相关自动机的输入和输出之间的同构映射。这种限制导致一个更弱的结论：不是每个物理系统都实现每个有限自动机，而是任何给定的物理系统实现了可数无限个有限自动机（即那些产生正确输入/输出对的自动机）。这是因为，对于任意任意的输入/输出对 <i, o>，当给定输入 i 时，有可数无限多个自动机产生输出 o（详见普特南 1988 年的附录）。
 
 如果无限泛计算论是正确的，那么系统 S 执行某种计算的主张就变得微不足道或几乎无意义；它未能区分 S 与其他任何事物（或者也许是与具有相同输入和输出的其他任何事物）。因此，无限泛计算论威胁到认知计算理论的实用性。如果认知是计算，仅仅因为认知系统，就像其他一切一样，可以被视为在相关输入上执行更多或更少任意的计算，那么认知计算理论似乎既是微不足道的又是无意义的（尽管请参阅 Schweizer 2019 年对抵制这一结论的尝试）。同样，无限泛计算论威胁到理论计算机科学与物理计算的相关性。例如，计算复杂度理论根据计算的复杂性对计算系统进行分类；如果任何物理系统都可以实现任何计算系统，而不考虑其计算复杂度，那么这些结果对具体计算是无关紧要的。这种微不足道的威胁是对应对无限泛计算论论据的主要动机。
 
@@ -235,7 +235,7 @@ Putnam 考虑的是本质上是对第 2.2 节中岩石示例的一般化，该�
 
 经验性主张是，所有基本物理量及其状态转换都可以被适当的计算形式准确描述，而无需借助标准计算建模中常见的近似方法。这一主张的形式各异，取决于将哪种计算形式认为可以准确描述宇宙。主要的两种选择是元胞自动机，这是一种经典的计算形式，以及量子计算，这是非经典的。
 
-本体泛计算论的最早和最著名版本归功于康拉德·祖斯（1970 年，1982 年）和爱德华·弗雷德金，他们关于这一主题的未发表观点影响了许多美国物理学家（例如，费曼 1982 年，托福利 1982 年，沃尔夫拉姆 2002 年；另请参见惠勒 1982 年，弗雷德金 1990 年）。根据一些物理学家的观点，宇宙实际上是一个巨大的元胞自动机。元胞自动机是一个离散单元格的点阵；每个单元格可以处于有限多个状态之一，并且每个单元格根据其相邻单元格的状态在离散步骤中更新其状态。为了使宇宙成为一个元胞自动机，所有基本物理量必须是离散的，即它们最多只能取有限多个值。此外，时间和空间必须在基本上是离散的，或者必须从元胞自动机的离散处理中产生。在基本层面上，连续性不是世界的真实特征——没有真正的实值物理量。这与大多数主流物理学相悖，但这并非显然错误的假设。假设是，在足够小的尺度上，目前超出我们的观测和实验范围，（表面上的）连续性让位于离散性。因此，所有基本变量的所有值，以及所有状态转换，都可以完全准确地由元胞自动机的状态和状态转换所捕捉。
+本体泛计算论的最早和最著名版本归功于康拉德 · 祖斯（1970 年，1982 年）和爱德华 · 弗雷德金，他们关于这一主题的未发表观点影响了许多美国物理学家（例如，费曼 1982 年，托福利 1982 年，沃尔夫拉姆 2002 年；另请参见惠勒 1982 年，弗雷德金 1990 年）。根据一些物理学家的观点，宇宙实际上是一个巨大的元胞自动机。元胞自动机是一个离散单元格的点阵；每个单元格可以处于有限多个状态之一，并且每个单元格根据其相邻单元格的状态在离散步骤中更新其状态。为了使宇宙成为一个元胞自动机，所有基本物理量必须是离散的，即它们最多只能取有限多个值。此外，时间和空间必须在基本上是离散的，或者必须从元胞自动机的离散处理中产生。在基本层面上，连续性不是世界的真实特征——没有真正的实值物理量。这与大多数主流物理学相悖，但这并非显然错误的假设。假设是，在足够小的尺度上，目前超出我们的观测和实验范围，（表面上的）连续性让位于离散性。因此，所有基本变量的所有值，以及所有状态转换，都可以完全准确地由元胞自动机的状态和状态转换所捕捉。
 
 虽然细胞自动机已被证明能描述基础物理的许多方面，但很难看出如何使用经典形式主义（如细胞自动机）来模拟宇宙的量子力学特征（Feynman，1982）。这一关注促使了量子计算形式主义的发展（Deutsch，1985；Nielsen 和 Chuang，2000）。量子计算不依赖于数字——最常见的是二进制数字或比特——而是依赖于 qudit——最常见的是二进制 qudit 或量子位。数字和 qudit 之间的主要区别在于，数字只能取有限多个状态之一，比如 0 和 1（比特的情况），而 qudit 还可以取无限多个状态，这些状态是基础状态的叠加，程度不同，比如 0 和 1 的叠加（量子位的情况）。此外，与一组数字不同，一组 qudit 可以表现出量子纠缠。根据本体泛计算论的量子版本，宇宙不是经典计算机，而是量子计算机——一种操作量子位（Lloyd，2006）或更一般地说，qudit 的计算机。
 
@@ -362,7 +362,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 
 神经网络可能比图灵机更强大，然而，可以通过再次利用实数的表达能力来定义。这类网络中最著名的是模拟循环神经网络（ARNNs）（Siegelmann 1999）。ARNNs 不应与传统意义上的模拟计算机混淆（Pour-El 1974，Rubel 1993，Mills 2008）。而模拟计算机操作实数变量，而不依赖于任意实值量的精确值，ARNNs 通过操作数字串（可能）依赖于任意实值量的精确值。具体而言，ARNNs 内部连接的权重可以取任意实数的精确值，包括图灵不可计算的值，并且这些精确值在计算中被利用。当它们的权重是图灵不可计算的时，ARNNs 可以超越图灵机的能力：它们可以计算二进制串上的任何函数。比图灵机更强大的 ARNNs 无法可靠运行，因为它们需要无限精确的权重。此外，所需的权重是图灵不可计算的，因此构建比图灵机更强大的 ARNNs 需要已经具备执行超计算的能力（Davis 2004，Schonbein 2005，Siegelmann 1999，148）。
 
-也许最著名的超级计算机提议归功于马克·霍加斯（1994 年，2004 年），他发展了伊塔马尔·皮托夫斯基（1990 年）的一个想法。相对论性超级计算机利用了一种特殊类型的时空，称为马拉门特-霍加斯时空，从物理上讲，这种时空构成了爱因斯坦广义相对论场方程的解。马拉门特-霍加斯时空包含具有无限时间轨迹λ的区域，可以被有限时间轨迹γ绕过。换句话说，λ和γ有一个共同的起源，并且在γ上有一个时空点 p，使得λ，尽管是无限的，完全位于 p 的时间过去。如果观察者沿着λ发射 TM，然后沿着γ行进，她可能在有限时间内发现自己处于 TM 执行的无限长计算的未来。如果 TM 能够向观察者发送信号，观察者将能够知道潜在无限长计算的结果，从而具有比（普通）TM 更强大的计算手段。例如，观察者可能能够获得 TM 的停机函数的任意实例的结果。
+也许最著名的超级计算机提议归功于马克 · 霍加斯（1994 年，2004 年），他发展了伊塔马尔 · 皮托夫斯基（1990 年）的一个想法。相对论性超级计算机利用了一种特殊类型的时空，称为马拉门特-霍加斯时空，从物理上讲，这种时空构成了爱因斯坦广义相对论场方程的解。马拉门特-霍加斯时空包含具有无限时间轨迹 λ 的区域，可以被有限时间轨迹 γ 绕过。换句话说，λ 和 γ 有一个共同的起源，并且在 γ 上有一个时空点 p，使得 λ，尽管是无限的，完全位于 p 的时间过去。如果观察者沿着 λ 发射 TM，然后沿着 γ 行进，她可能在有限时间内发现自己处于 TM 执行的无限长计算的未来。如果 TM 能够向观察者发送信号，观察者将能够知道潜在无限长计算的结果，从而具有比（普通）TM 更强大的计算手段。例如，观察者可能能够获得 TM 的停机函数的任意实例的结果。
 
 构建和使用相对论超级计算机是具有挑战性的。第一个问题是我们的时空是否是 Malament-Hogarth。答案目前尚不清楚。即使我们的时空在全局范围内不是 Malament-Hogarth，它仍然可能包含在局部具有 Malament-Hogarth 属性的区域。这样一个区域的例子是一个巨大的旋转黑洞；有证据表明我们的宇宙包含这样的黑洞（Etesi 和 Németi，2002）。但即使在我们的宇宙中存在 Malament-Hogarth 区域，仍然存在相当大的障碍。首先，（i）离我们最近的巨大旋转黑洞可能超出我们的能力范围以及我们后代的能力范围，（ii）完成无限计算需要无界内存，这可能需要无限量的物质，（iii）需要无限量的物质运行无限时间的机器将以概率 1 发生故障，使其变得无用（Button，2009，779）。后一挑战可能可以通过使用多个相互检查计算而不是单个机器的自我复制和自我校正机器来解决（Andréka 等，2018），尽管这似乎加剧了对无限资源的需求（另请参见 Németi 和 Dávid，2006 年，Andréka，Németi 和 Németi，2009 年）。
 
@@ -383,7 +383,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 * Allender, E., and McCartin, C., 2000, “Basic Complexity,” in R. Downey & D. Hirschfeldt (eds.), *Aspects of Complexity*, pp. 1–28, Berlin: Walter de Gruyter.
 * Arora, S., and Barak, B., 2009, *Computational Complexity: A Modern Approach*, Cambridge, England: Cambridge University Press.
 * Artemov, S., and Kuznets, R., 2014, “Logical Omniscience as infeasibility,” *Annals of Pure and Applied Logic*, 165: 6–25.
-* Baker, T., Gill, J., and Solovay, S., 1975, “Relativizations of the P=NP? question,” *SIAM Journal on Computing*, 4(4): 431–442.
+* Baker, T., Gill, J., and Solovay, S., 1975, “Relativizations of the P = NP? question,” *SIAM Journal on Computing*, 4(4): 431–442.
 * Balcázar, J., Diaz, J., and Gabarró, J., 1988, *Structural Complexity* Vol. I, Berlin: Springer Verlag.
 * Bellantoni, S., and Cook, S., 1992, “A new recursion-theoretic characterization of the polytime functions,” *Computational Complexity*, 2(2): 97–110.
 * Bellman, R., 1962, “Dynamic Programming Treatment of the Travelling Salesman Problem,” *Journal of the ACM*, 9: 61–63.
@@ -411,7 +411,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 * Clarke, E., Emerson, E., and Sistla, A., 1986, “Automatic Verification of Finite-State Concurrent Systems Using Temporal Logic Specifications,” *ACM Transactions on Programming Languages and Systems*, 8(2): 244–263.
 * Cobham, A., 1965, “The Intrinsic Computational Difficulty of Functions,“ *Proceedings of the Third International Congress for Logic, Methodology and Philosophy of Science, Amsterdam*, North-Holland.
 * Cook, S., 1971, “The complexity of theorem-proving procedures,” *Proceedings of the Third Annual ACM Symposium on Theory of Computing*, ACM.
-* –––, 1973, “A hierarchy for nondeterministic time complexity,“ *Journal of Computer System Science*, 7(4):343–353.
+* –––, 1973, “A hierarchy for nondeterministic time complexity,“ *Journal of Computer System Science*, 7(4): 343–353.
 * –––, 2006, “The **P** versus **NP** problem,” in J. Carlson, A. Jaffe, & A. Wiles (eds.), *The Millennium Prize Problem*, pp. 88–104, Providence: American Mathematical Society.
 * Cook, S., and Kolokolova, A., 2001, “A second-order system for polytime reasoning using Gradel’s theorem,” in *Logic in Computer Science, 2001. Proceedings. 16th Annual IEEE Symposium on*, pp. 177–186.
 * Cook, S., and Mitchell, D., 1997, “Finding Hard Instances of the Satisfiability Problem,” in *Satisfiability Problem: Theory and Applications: DIMACS Workshop, March 11-13, 1996*, Vol. 35, pp. 1–17, American Mathematical Soc.
@@ -422,7 +422,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 * Cormen, T., Leiserson, C., and Rivest, R., 2005, *Introduction to Algorithms* (Second Ed.), Cambridge, Massachusetts: MIT Press.
 * Crandall, R., and Pomerance, C., 2005, *Prime Numbers* (Second Ed.), Berlin: Springer.
 * Davis, Martin, and Putnam, Hilary, 1960, “A Computing Procedure for Quantification Theory,” *Journal of the ACM (JACM)*, 7(3): 201–215.
-* DeMillo, R., and Lipton, R., 1980, “The consistency of P=NP and related problems with fragments of number theory,” in *Proceedings of the Twelfth Annual ACM Symposium on Theory of Computing*, pp. 45–57, ACM.
+* DeMillo, R., and Lipton, R., 1980, “The consistency of P = NP and related problems with fragments of number theory,” in *Proceedings of the Twelfth Annual ACM Symposium on Theory of Computing*, pp. 45–57, ACM.
 * Deutsch, D., 1985, “Quantum theory, the Church-Turing principle and the universal quantum computer,” *Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences*, 400(1818): 97–117.
 * Du, D., and Ko, K., 2000, *Theory of Computational Complexity*, New York: John Wiley.
 * Dummett, M., 1975, “Wang’s Paradox,” *Synthese*, 30(3/4): 301–324.
@@ -439,150 +439,150 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 * Fischer, M., and Rabin, M., 1974, “Super-exponential complexity of Presburger arithmetic,” in R.M. Karp (ed.), *Complexity of Computation*, Vols. SIAM-AMS Symposium in Applied Mathematics, pp. 122–135.
 * Fortnow, L., 2003, “One Complexity Theorist’s View of Quantum Computing,” *Theoretical Computer Science*, 292(3): 597–610.
 * –––, 2009, “The status of the **P** versus **NP** problem,” *Communications of the ACM*, 52(9): 78–86.
-* –––, 2013, *Golden Ticket: **P**, **NP**, and the Search for the Impossible*, Princeton: Princeton University Press.
+* –––, 2013, *Golden Ticket: * *P* *, * *NP* *, and the Search for the Impossible*, Princeton: Princeton University Press.
 * Fortnow, L., and Homer, S., 2003, “A short history of computational complexity,” *Bulletin of the EATCS*, 80: 95–133.
 * Fraenkel, A., and Lichtenstein, D., 1981, “Computing a perfect strategy for n×n chess requires time exponential in n,” *Journal of Combinatorial Theory, Series A*, 31(2): 199–214.
 * Gaifman, H., 2010, “Vagueness, tolerance and contextual logic,” *Synthese*, 174: 1–42.
 * Gaifman, Haim, 2012, “On Ontology and Realism in Mathematics,” *Review of Symbolic Logic*, 5(3): 480–512.
 * Gandy, R., 1980, “Church’s Thesis and principles for mechanisms,” in H.J. Keisler J. Barwise & K. Kunen (eds.), *The Kleene Symposium*, Vol. 101, pp. 123–148, Amsterdam: North-Holland.
 * Ganea, M., 2014, “Finitistic Arithmetic and Classical Logic,” *Philosophia Mathematica*, 22: 167–197.
-* Garey, M., and Johnson, D., 1979, *Computers and intractability. A guide to the theory of **NP**-completeness*, New York: W.H. Freeman; Company.
+* Garey, M., and Johnson, D., 1979, *Computers and intractability. A guide to the theory of * *NP* *-completeness*, New York: W.H. Freeman; Company.
 * Gigerenzer, G., and Selten, R., 2002, *Bounded Rationality: The Adaptive Toolbox*, Cambridge, Massachusetts: MIT Press.
-* Goldreich, O., 2010, ***P**, **NP**, and **NP**-completeness: The basics of computational complexity*, Cambridge, England: Cambridge University Press.
-* Gödel, K., 1932, “Ein Spezialfall des Entscheidungsproblems der theoretischen Logik,” *Ergebnisse Eines Mathematischen Kolloquiums*, 2: 27–28.
-* –––, 1986a, “On Intuitionistic Arithmetic and Number Theory,” in S. Feferman (ed.), *Collected Works Volume 1*, pp. 287–295, New York: Oxford University Press.
-* –––, 1986b, “On undecidable propositions of formal mathematical systems (with postscript dated 1964),” in S. Feferman (ed.), *Kurt Gödel Collected Works. Vol. I. Publications 1929-1936*, pp. 346–371, New York: Oxford University Press.
+* Goldreich, O., 2010, ***P* *, * *NP* *, and * *NP* *-completeness: The basics of computational complexity*, Cambridge, England: Cambridge University Press.
+* Gödel, K., 1932, “Ein Spezialfall des Entscheidungsproblems der theoretischen Logik,” * Ergebnisse Eines Mathematischen Kolloquiums*, 2: 27–28.
+* –––, 1986a, “On Intuitionistic Arithmetic and Number Theory,” in S. Feferman (ed.), * Collected Works Volume 1*, pp. 287–295, New York: Oxford University Press.
+* –––, 1986b, “On undecidable propositions of formal mathematical systems (with postscript dated 1964),” in S. Feferman (ed.), * Kurt Gödel Collected Works. Vol. I. Publications 1929-1936*, pp. 346–371, New York: Oxford University Press.
 * Gödel, Kurt, 1956, “Letter to von Neumann (1956),” Reprinted in Sipser 1992, p. 612.
-* Greenlaw, R., Hoover, H., and Ruzzo, W., 1995, *Limits to parallel computation: **P**-completeness theory*, New York: Oxford University Press, USA.
-* Grover, L., 1996, “A Fast Quantum Mechanical Algorithm for Database Search,” in *Proceedings of the Twenty-Eighth Annual ACM Symposium on Theory of Computing*, pp. 212–219, ACM.
-* Gutin, G., and Punnen, A., 2002, *The Traveling Salesman Problem and Its Variations* Vol. 12, New York: Kluwer.
-* Haken, A., 1985, “The Intractability of Resolution,” *Theoretical Computer Science*, 39: 297–308.
-* Halpern, J., and Moses, Y., 1992, “A Guide to Completeness and Complexity for Modal Logics of Knowledge and Belief,” *Artificial Intelligence*, 54(3): 319–379.
-* Harel, D., 2006, *Algorithmics: The Spirit of Computing*, Boston: Addison-Wesley.
-* Harman, G., 1986, *Change in View: Principles of Reasoning.*, Cambridge, Massachusetts: Cambridge University Press.
-* Hartmanis, J., 1993, “Gödel, von Neumann and the P=NP? Problem,” in G., Rozenberg, & A. Salomaa (eds.), *Current Trends in Theoretical Computer Science*, pp. 445–450, Singapore: World Scientific.
-* Hartmanis, J., and Stearns, R., 1965, “On the computational complexity of algorithms,” *Transactions of the American Mathematical Society*, 117(5): 285–306.
-* Hájek, P., and Pudlák, P., 1998, *Metamathematics of First-Order Arithmetic*, Berlin: Springer.
-* Hemaspaandra, L., and Ogihara, M., 2002, *The Complexity Theory Companion*, Berlin: Springer Verlag.
-* Hintikka, J., 1962, *Knowledge and Belief: An Introduction to the Logic of the Two Notions*, Ithaca: Cornell University Press.
-* Homer, S., and Selman, A., 2011, *Turing and the Development of Computational Complexity* (No. 2011-06), SUNY Buffalo Department of Computer Science.
-* Hopcroft, J., and Ulman, J., 1979, *Introduction to Automata Theory, Languages and Computation*, Reading, Massachusetts: Addison-Wesley.
-* Immerman, N., 1982, “Relational Queries Computable in Polynomial Time,” in *Proceedings of the Fourteenth Annual ACM Symposium on Theory of Computing*, pp. 147–152, ACM.
-* –––, 1987, “Languages That Capture Complexity Classes,” *SIAM Journal on Computing*, 16(4): 760–778.
-* –––, 1999, *Descriptive Complexity*, New York: Springer Verlag.
-* Impagliazzo, R., 1995, “A personal view of average-case complexity,” in *Structure in Complexity Theory, Proceedings of Tenth Annual IEEE Conference*, pp. 134–147.
-* Impagliazzo, R., and Paturi, R., 1999, “Complexity of k-SAT,” in *Computational Complexity, 1999. Proceedings. Fourteenth Annual IEEE Conference*, pp. 237–240.
-* Isles, D., 1992, “What evidence is there that 265536 is a natural number?” *Notre Dame Journal of Formal Logic*, 33(4).
-* Iwan, S., 2000, “On the Untenability of Nelson’s Predicativism,” *Erkenntnis*, 53(1-2): 147–154.
-* Kahneman, D., 2003, “A Perspective on Judgment and Choice: Mapping Bounded Rationality.” *American Psychologist*, 58(9): 697–720.
-* Kanovich, M., 1994, “The complexity of Horn fragments of linear logic,” *Annals of Pure and Applied Logic*, 69(2): 195–241.
-* Kapovich, I., Myasnikov, A., Schupp, P., and Shpilrain, V., 2003, “Generic-Case Complexity, Decision Problems in Group Theory, and Random Walks,” *Journal of Algebra*, 264(2): 665–694.
-* Karp, R., 1972, “Reducibility Among Combinatorial Problems,” in R.E. Miller & J.W. Thatcher (eds.), *Complexity of computer computations*, pp. 85–103, New York: Plenum Press.
-* Kaye, R., 2000, “Minesweeper is **NP**-complete,” *The Mathematical Intelligencer*, 22(2): 9–15.
-* Kent, C., and Hodgson, B., 1982, “An arithmetical characterization of **NP**,” *Theoretical Computer Science*, 21(3): 255–267.
-* Kleene, S., 1936, “General recursive functions of natural numbers,” *Mathematische Annalen*, 112(1): 727–742.
-* –––, 1951, *Representation of Events in Nerve Nets and Finite Automata* (No. RM-704), RAND Corporation.
-* –––, 1952, *Introduction to Metamathematics* Vol. 1, Amsterdam: North-Holland.
-* Knuth, D., 1973, *The Art of Computer Programming* Vols. I–III, Reading, Massachusetts: Addison Wesley.
-* Kozen, D., and Parikh, R., 1981, “An elementary proof of the completeness of PDL,” *Theoretical Computer Science*, 14(1): 113–118.
-* Kuznets, R., 2000, “On the Complexity of Explicit Modal Logics,” in *Computer Science Logic*, pp. 371–383, Springer.
-* Ladner, R., 1975, “On the Structure of Polynomial Time Reducibility,” *Journal of the ACM*, 22(1): 155–171.
-* –––, 1977, “The Computational Complexity of Provability in Systems of Modal Propositional Logic,” *SIAM Journal on Computing*, 6(3): 467–480.
-* Lange, M., 2006, “Model Checking Propositional Dynamic Logic with All Extras,” *Journal of Applied Logic*, 4(1): 39–49.
-* Lautemann, C., 1983, “**BPP** and the polynomial hierarchy,” *Information Processing Letters*, 17(4): 215–217.
-* Leivant, D., 1994, “A Foundational Delineation of Poly-Time,” *Information and Computation*, 110(2): 391–420.
-* Lenzen, W., 1978, “Recent Work in Epistemic Logic,” *Acta Philosophica Fennica*, 30: 1–219.
-* Levesque, H., 1984, “A Logic of Implicit and Explicit Belief,” in *Proceedings of the Fourth National Conference on Artificial Intelligence (AAAI-84)*, pp. 198–202.
-* Levin, L., 1973, “Universal sorting problems (Corrected Translation Published in Trakhtenbrot 1984),” *Problems of Information Transmission*, 9(3): 265–266.
-* Lewis, H., 1980, “Complexity Results for Classes of Quantificational Formulas,” *Journal of Computer and System Sciences*, 21(3): 317–353.
-* Lewis, H., and Papadimitriou, C., 1998, *Elements of the Theory of Computation*, Upper Saddle River, New Jersey: Prentice Hall.
-* Li, M., and Vitányi, P., 1997, *An Introduction to Kolmogorov Complexity and Its Applications* (Second Ed.), New York: Springer.
-* Lichtenstein, D., and Sipser, M., 1980, “Go is polynomial-space hard,” *Journal of the ACM*, 27(2): 393–401.
-* Lincoln, P., 1995, “Deciding Provability of Linear Logic Formulas,” in *Proceedings of the Workshop on Advances in Linear Logic*, pp. 109–122, New York: Cambridge University Press.
-* Lincoln, P., Mitchell, J., Scedrov, A., and Shankar, N., 1992, “Decision Problems for Propositional Linear Logic,” *Annals of Pure and Applied Logic*, 56(1): 239–311.
-* Lipton, R., and Regan, K., 2013, *People, Problems, and Proofs*, Berlin: Springer.
-* Löwenheim, L., 1967, “On Possibilities in the Calculus of Relatives (1915),” in van Heijenoort (ed.), *From Frege to Gödel : A Source Book in Mathematical Logic, 1879-1931*, pp. 232–251, Cambridge, Massachusetts: Harvard University Press.
-* Magidor, O., 2011, “Strict Finitism and the Happy Sorites,” *Journal of Philosophical Logic*, 41: 1–21.
-* Manders, K. L., and Adleman, L., 1978, “**NP**-complete decision problems for binary quadratics,” *Journal of Computer and System Sciences*, 16(2): 168–184.
-* Manin, Y., 1980, *Computable and Uncomputable*, Moscow: Sovetskoye Radio.
-* Marx, M., 2007, “Complexity of Modal Logic,” in P. Blackburn, J. van Benthem, & F. Wolter (eds.), *Handbook of Modal Logic*, pp. 140–179, Amsterdam: Elsevier.
-* Mermin, N., 2007, *Quantum Computer Science: An Introduction*, Cambridge, England: Cambridge University Press.
-* Miller, G., 1976, “Riemann’s Hypothesis and Tests for Primality,” *Journal of Computer and System Sciences*, 13(3): 300–317.
-* Milnikel, R., 2007, “Derivability in certain subsystems of the Logic of Proofs is ΠP2-complete,” *Annals of Pure and Applied Logic*, 145(3): 223–239.
-* Moore, C., and Mertens, S., 2011, *The Nature of Computation*, Oxford: Oxford University Press.
-* Morton, A., 2004, “Epistemic Virtues, Metavirtues, and Computational Complexity,” *Noûs*, 38(3): 481–502.
-* –––, 2012, *Bounded Thinking: Intellectual Virtues for Limited Agents*, Oxford: Oxford University Press.
-* Moschovakis, Y., 1974, *Elementary Induction on Abstract Structures*, Amsterdam: North Holland.
-* Mulmuley, K., and Sohoni, M., 2001, “Geometric complexity theory I: An approach to P vs. NP and related problems,” *SIAM Journal on Computing*, 31(2): 496–526.
-* Mundhenk, M., and Weiß, F., 2010, “The Complexity of Model Checking for Intuitionistic Logics and Their Modal Companions,” in A. Kučera & I. Potapov (eds.), *Reachability Problems*, Vol. 6227, pp. 146–160, Berlin; Heidelberg: Springer.
-* Negri, S., and Von Plato, J., 2001, *Structural Proof Theory*, Cambridge, England: Cambridge University Press.
-* Nelson, E., 1986, *Predicative Arithmetic* Vol. 32, Princeton: Princeton University Press.
-* Nielsen, M. A., and Chuang, I., 2000, *Quantum Computation and Quantum Information*, Cambridge, England: Cambridge University Press.
-* Odifreddi, P., 1999, *Classical Recursion Theory. Vol. II* Vol. 143, Amsterdam: North-Holland.
-* Papadimitriou, C., 1994, *Computational Complexity*, New York: Addison-Wesley.
-* Parikh, R., 1971, “Existence and Feasibility in Arithmetic,” *Journal of Symbolic Logic*, 36(3): 494–508.
-* Pippenger, N., 1979, “On Simultaneous Resource Bounds,” in *Foundations of Computer Science, 1979., 20th Annual Symposium on*, pp. 307–311, IEEE.
-* Post, E., 1947, “Recursive unsolvability of a problem of Thue,” *Journal of Symbolic Logic*, 12(1): 1–11.
-* Pudlák, Pavel, 2013, *Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction*, Berlin: Springer.
-* Rabin, M., 1980, “Probabilistic Algorithm for Testing Primality,” *Journal of Number Theory*, 12(1): 128–138.
-* Rabin, M., and Scott, D., 1959, “Finite Automata and Their Decision Problems,” *IBM Journal of Research and Development*, 3(2): 114–125.
-* Rantala, V., 1982, “Impossible Worlds Semantics and Logical Omniscience,” *Acta Philosophica Fennica*, 35: 106–115.
-* Razborov, A., and Rudich, S., 1994, “Natural Proofs,” in *Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing*, pp. 204–213, ACM.
-* Rivest, R., Shamir, A., and Adleman, L., 1978, “A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,” *Communications of the ACM*, 21(2): 120–126.
-* Robson, J., 1983, “The complexity of Go,” *Information Processing: Proceedings of IFIP Congress*,
-* –––, 1984, “N by N checkers is **EXPTIME** complete,” *SIAM Journal on Computing*, 13(2): 252–267.
-* Rogers, H., 1987, *Theory of Recursive Functions and Effective Computability* (Second Ed.), Cambridge, Massachusetts: MIT Press.
-* Rose, H., 1984, *Subrecursion: functions and hierarchies*, Oxford: Clarendon Press.
-* Rubinstein, A., 1998, *Modeling Bounded Rationality* Vol. 1, Cambridge, Massachusetts: MIT press.
-* Savitch, W., 1970, “Relationship Between Deterministic and Non-Deterministic Tape Classes,” *Journal Computer System Science*, 4: 177–192.
-* Sazonov, V., 1995, “On Feasible Numbers,” in D. Leivant (ed.), *Logic and Computational Complexity*, Vol. 960, pp. 30–51, Berlin: Springer.
-* Schorr, A., 1983, “Physical Parallel Devices Are Not Much Faster Than Sequential Ones,” *Information Processing Letters*, 17(2): 103–106.
-* Schrijver, A., 2005, “On the history of combinatorial optimization (till 1960),” *Discrete Optimization*, 12: 1–68.
-* Scott, A., and Sorkin, G., 2006, “Solving sparse random instances of MAX CUT and MSC 2-CSP in linear expected time,” *Combinatorics, Probability and Computing*, 15(1-2): 281–315.
-* Segerlind, N., 2007, “The Complexity of Propositional Proofs,” *Bulletin of Symbolic Logic*, 13(4): 417–481.
-* Seiferas, J., Fischer, M., and Meyer, A., 1973, “Refinements of the Nondeterministic Time and Space Hierarchies,” in *14th Annual Symposium on Switching and Automata Theory, 1973*, pp. 130–137.
-* Shor, P., 1999, “Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,” *SIAM Review*, 41(2): pp. 303–332.
-* Sieg, W., 2009, “On Computability,” in Andrew Irvine (ed.), *Philosophy of Mathematics*, Vol. 4, pp. 549–630, Amsterdam: North-Holland.
-* Simon, H., 1957, *Models of Man: Social and Rational*, New York: John Wiley.
-* –––, 1972, “Theories of Bounded Rationality,” *Decision and Organization*, 1: 161–176.
-* Sipser, H., 2006, *Introduction to the Theory of Computation*, Boston: Thomson.
-* Sipser, M., 1992, “The history and status of the **P** versus **NP** question,” in *Proceedings of the Twenty-Fourth Annual ACM Symposium on Theory of Computing*, pp. 603–618, ACM.
-* Sistla, A., and Clarke, E., 1985, “The Complexity of Propositional Linear Temporal Logics,” *Journal of the ACM*, 32(3): 733–749.
-* Skolem, T., 1956, “An ordered set of arithmetic functions representing the least ϵ-number,” *Det Konigelige Norske Videnskabers Selskab Fordhandlinger*, 29: 54–59.
-* Slot, C., and Emde Boas, P. van, 1988, “The Problem of Space Invariance for Sequential Machines,” *Information and Computation*, 77(2): 93–122.
-* Stalnaker, R., 1991, “The problem of logical omniscience, I,” *Synthese*, 89(3): 425–440.
-* –––, 1999, “The Problem of Logical Omniscience, II,” in *Context and Content*, pp. 255–283, Oxford: Oxford University Press.
-* Statman, R., 1979, “Intuitionistic Propositional Logic Is Polynomial-Space Complete,” *Theoretical Computer Science*, 9(1): 67–72.
-* Stearns, R., Hartmanis, J., and Lewis, P., 1965, “Hierarchies of memory limited computations,” in *Sixth Annual Symposium on Switching Circuit Theory and Logical Design*, pp. 179–190.
-* Stockmeyer, L., 1977, “The Polynomial-Time Hierarchy,” *Theoretical Computer Science*, 3(1): 1–22.
-* Stockmeyer, L., and Meyer, A., 1973, “Word Problems Requiring Exponential Time (Preliminary Report),” in *Proceedings of the Fifth Annual ACM Symposium on Theory of Computing*, pp. 1–9, ACM.
-* Trakhtenbrot, B., 1984, “A survey of Russian approaches to *perebor* (brute-force searches) algorithms,” *Annals of the History of Computing*, 6(4): 384–400.
-* Troelstra, A., and Schwichtenberg, H., 2000, *Basic Proof Theory* 2nd ed., Cambridge, England: Cambridge University Press.
-* Turing, A., 1937, “On computable numbers, with an application to the *Entscheidungsproblem*,” *Proceedings of the London Mathematical Society*, 2(1): 230.
-* Tversky, A., and Kahneman, D., 1974, “Judgment Under Uncertainty: Heuristics and Biases,” *Science*, 185(4157): 1124–1131.
-* Urquhart, A., 1984, “The Undecidability of Entailment and Relevant Implication,” *The Journal of Symbolic Logic*, 49(4): pp. 1059–1073.
-* Van Bendegem, J., 2012, “A Defense of Strict Finitism,” *Constructivist Foundations*, 7(2): 141–149.
-* Van Dantzig, D., 1955, “Is 101010 a finite number?” *Dialectica*, 9(3-4): 273–277.
-* Van Den Dries, L., and Levitz, H., 1984, “On Skolem’s exponential functions below 22x,” *Transactions of the American Mathematical Society*, 286(1): 339–349.
-* Van Leeuwen, J., 1990, *Handbook of theoretical computer science* Vol. A, Amsterdam: Elsevier.
-* Vardi, M., 1982, “The Complexity of Relational Query Languages,” in *Proceedings of the Fourteenth Annual ACM Symposium on Theory of Computing*, pp. 137–146.
-* Vardi, M., and Stockmeyer, L., 1985, “Improved Upper and Lower Bounds for Modal Logics of Programs,” in *Proceedings of the Seventeenth Annual ACM Symposium on Theory of Computing*, pp. 240–251.
-* Visser, Albert, 2009, “The predicative Frege hierarchy,” *Annals of Pure and Applied Logic*, 160(2): 129–153.
-* Vitányi, P., 1986, “Nonsequential Computation and Laws of Nature,” in F. Makedon, K. Mehlhorn, T. Papatheodorou, & P. Spirakis (eds.), *VLSI Algorithms and Architectures*, Vol. 227, pp. 108–120, Berlin; Heidelberg: Springer.
-* Vollmer, H., 1999, *Introduction to Circuit Complexity: A Uniform Approach*, New York: Springer-Verlag.
-* Vopěnka, P., 1979, *Mathematics in the Alternative Set Theory*, Leipzig: Teubner.
-* Wagner, K., and Wechsung, G., 1986, *Computational Complexity*, Dordrecht: Reidel.
-* Wang, H., 1958, “Eighty years of foundational studies,” *Dialectica*, 12: 466–497.
-* Watrous, J., 2009, “Quantum Computational Complexity,” in *Encyclopedia of Complexity and Systems Science*, pp. 7174–7201, Berlin: Springer.
-* –––, 2006b, “**P**, **NP** and mathematics–a computational complexity perspective,” in *Proceedings of the 2006 International Congress of Mathematicians*, pp. 665–712.
-* Williams, H., 1998, *Édouard Lucas and Primality Testing*, New York: Wiley.
-* Wolper, P., 1986, “Expressing Interesting Properties of Programs in Propositional Temporal Logic,” in *Proceedings of the 13th ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages*, pp. 184–193.
-* Wrathall, C., 1978, “Rudimentary Predicates and Relative Computation,” *SIAM Journal on Computing*, 7(2): 194–209.
-* Yanofsky, N., and Mannucci, M., 2007, *Quantum Computing for Computer Scientists*, Cambridge, England: Cambridge University Press.
-* Yessenin-Volpin, A., 1961, “Le Programme Ultra-Intuitionniste Des Fondements Des Mathématiques.” in *Infinitistic Methods, Proceedings of the Symposium on the Foundations of Mathematics,* pp. 201–223, Oxford: Pergamon Press.
-* –––, 1970, “The Ultra-Intuitionistic Criticism and the Antitraditional Program for the Foundations of Mathematics,” in A. Kino, J. Myhill, & R. Vesley (eds.), *Intuitionism and Proof Theory*, pp. 3–45, Amsterdam: North-Holland.
-* Yablonski, S. 1959, “On the impossibility of eliminating *perebor* in solving some problems of circuit theory,” *Dokl. A.N. SSSR* 124: 44–47
-* Zambella, D., 1996, “Notes on Polynomially Bounded Arithmetic,” *The Journal of Symbolic Logic*, 61(3): 942–966.
+* Greenlaw, R., Hoover, H., and Ruzzo, W., 1995, * Limits to parallel computation: **P**-completeness theory*, New York: Oxford University Press, USA.
+* Grover, L., 1996, “A Fast Quantum Mechanical Algorithm for Database Search,” in * Proceedings of the Twenty-Eighth Annual ACM Symposium on Theory of Computing*, pp. 212–219, ACM.
+* Gutin, G., and Punnen, A., 2002, * The Traveling Salesman Problem and Its Variations* Vol. 12, New York: Kluwer.
+* Haken, A., 1985, “The Intractability of Resolution,” * Theoretical Computer Science*, 39: 297–308.
+* Halpern, J., and Moses, Y., 1992, “A Guide to Completeness and Complexity for Modal Logics of Knowledge and Belief,” * Artificial Intelligence*, 54(3): 319–379.
+* Harel, D., 2006, * Algorithmics: The Spirit of Computing*, Boston: Addison-Wesley.
+* Harman, G., 1986, * Change in View: Principles of Reasoning.*, Cambridge, Massachusetts: Cambridge University Press.
+* Hartmanis, J., 1993, “Gödel, von Neumann and the P = NP? Problem,” in G., Rozenberg, & A. Salomaa (eds.), * Current Trends in Theoretical Computer Science*, pp. 445–450, Singapore: World Scientific.
+* Hartmanis, J., and Stearns, R., 1965, “On the computational complexity of algorithms,” * Transactions of the American Mathematical Society*, 117(5): 285–306.
+* Hájek, P., and Pudlák, P., 1998, * Metamathematics of First-Order Arithmetic*, Berlin: Springer.
+* Hemaspaandra, L., and Ogihara, M., 2002, * The Complexity Theory Companion*, Berlin: Springer Verlag.
+* Hintikka, J., 1962, * Knowledge and Belief: An Introduction to the Logic of the Two Notions*, Ithaca: Cornell University Press.
+* Homer, S., and Selman, A., 2011, * Turing and the Development of Computational Complexity* (No. 2011-06), SUNY Buffalo Department of Computer Science.
+* Hopcroft, J., and Ulman, J., 1979, * Introduction to Automata Theory, Languages and Computation*, Reading, Massachusetts: Addison-Wesley.
+* Immerman, N., 1982, “Relational Queries Computable in Polynomial Time,” in * Proceedings of the Fourteenth Annual ACM Symposium on Theory of Computing*, pp. 147–152, ACM.
+* –––, 1987, “Languages That Capture Complexity Classes,” * SIAM Journal on Computing*, 16(4): 760–778.
+* –––, 1999, * Descriptive Complexity*, New York: Springer Verlag.
+* Impagliazzo, R., 1995, “A personal view of average-case complexity,” in * Structure in Complexity Theory, Proceedings of Tenth Annual IEEE Conference*, pp. 134–147.
+* Impagliazzo, R., and Paturi, R., 1999, “Complexity of k-SAT,” in * Computational Complexity, 1999. Proceedings. Fourteenth Annual IEEE Conference*, pp. 237–240.
+* Isles, D., 1992, “What evidence is there that 265536 is a natural number?” * Notre Dame Journal of Formal Logic*, 33(4).
+* Iwan, S., 2000, “On the Untenability of Nelson’s Predicativism,” * Erkenntnis*, 53(1-2): 147–154.
+* Kahneman, D., 2003, “A Perspective on Judgment and Choice: Mapping Bounded Rationality.” * American Psychologist*, 58(9): 697–720.
+* Kanovich, M., 1994, “The complexity of Horn fragments of linear logic,” * Annals of Pure and Applied Logic*, 69(2): 195–241.
+* Kapovich, I., Myasnikov, A., Schupp, P., and Shpilrain, V., 2003, “Generic-Case Complexity, Decision Problems in Group Theory, and Random Walks,” * Journal of Algebra*, 264(2): 665–694.
+* Karp, R., 1972, “Reducibility Among Combinatorial Problems,” in R.E. Miller & J.W. Thatcher (eds.), * Complexity of computer computations*, pp. 85–103, New York: Plenum Press.
+* Kaye, R., 2000, “Minesweeper is * *NP* *-complete,” * The Mathematical Intelligencer*, 22(2): 9–15.
+* Kent, C., and Hodgson, B., 1982, “An arithmetical characterization of * *NP* *,” * Theoretical Computer Science*, 21(3): 255–267.
+* Kleene, S., 1936, “General recursive functions of natural numbers,” * Mathematische Annalen*, 112(1): 727–742.
+* –––, 1951, * Representation of Events in Nerve Nets and Finite Automata* (No. RM-704), RAND Corporation.
+* –––, 1952, * Introduction to Metamathematics* Vol. 1, Amsterdam: North-Holland.
+* Knuth, D., 1973, * The Art of Computer Programming* Vols. I–III, Reading, Massachusetts: Addison Wesley.
+* Kozen, D., and Parikh, R., 1981, “An elementary proof of the completeness of PDL,” * Theoretical Computer Science*, 14(1): 113–118.
+* Kuznets, R., 2000, “On the Complexity of Explicit Modal Logics,” in * Computer Science Logic*, pp. 371–383, Springer.
+* Ladner, R., 1975, “On the Structure of Polynomial Time Reducibility,” * Journal of the ACM*, 22(1): 155–171.
+* –––, 1977, “The Computational Complexity of Provability in Systems of Modal Propositional Logic,” * SIAM Journal on Computing*, 6(3): 467–480.
+* Lange, M., 2006, “Model Checking Propositional Dynamic Logic with All Extras,” * Journal of Applied Logic*, 4(1): 39–49.
+* Lautemann, C., 1983, “* *BPP* * and the polynomial hierarchy,” * Information Processing Letters*, 17(4): 215–217.
+* Leivant, D., 1994, “A Foundational Delineation of Poly-Time,” * Information and Computation*, 110(2): 391–420.
+* Lenzen, W., 1978, “Recent Work in Epistemic Logic,” * Acta Philosophica Fennica*, 30: 1–219.
+* Levesque, H., 1984, “A Logic of Implicit and Explicit Belief,” in * Proceedings of the Fourth National Conference on Artificial Intelligence (AAAI-84)*, pp. 198–202.
+* Levin, L., 1973, “Universal sorting problems (Corrected Translation Published in Trakhtenbrot 1984),” * Problems of Information Transmission*, 9(3): 265–266.
+* Lewis, H., 1980, “Complexity Results for Classes of Quantificational Formulas,” * Journal of Computer and System Sciences*, 21(3): 317–353.
+* Lewis, H., and Papadimitriou, C., 1998, * Elements of the Theory of Computation*, Upper Saddle River, New Jersey: Prentice Hall.
+* Li, M., and Vitányi, P., 1997, * An Introduction to Kolmogorov Complexity and Its Applications* (Second Ed.), New York: Springer.
+* Lichtenstein, D., and Sipser, M., 1980, “Go is polynomial-space hard,” * Journal of the ACM*, 27(2): 393–401.
+* Lincoln, P., 1995, “Deciding Provability of Linear Logic Formulas,” in * Proceedings of the Workshop on Advances in Linear Logic*, pp. 109–122, New York: Cambridge University Press.
+* Lincoln, P., Mitchell, J., Scedrov, A., and Shankar, N., 1992, “Decision Problems for Propositional Linear Logic,” * Annals of Pure and Applied Logic*, 56(1): 239–311.
+* Lipton, R., and Regan, K., 2013, * People, Problems, and Proofs*, Berlin: Springer.
+* Löwenheim, L., 1967, “On Possibilities in the Calculus of Relatives (1915),” in van Heijenoort (ed.), * From Frege to Gödel : A Source Book in Mathematical Logic, 1879-1931*, pp. 232–251, Cambridge, Massachusetts: Harvard University Press.
+* Magidor, O., 2011, “Strict Finitism and the Happy Sorites,” * Journal of Philosophical Logic*, 41: 1–21.
+* Manders, K. L., and Adleman, L., 1978, “* *NP* *-complete decision problems for binary quadratics,” * Journal of Computer and System Sciences*, 16(2): 168–184.
+* Manin, Y., 1980, * Computable and Uncomputable*, Moscow: Sovetskoye Radio.
+* Marx, M., 2007, “Complexity of Modal Logic,” in P. Blackburn, J. van Benthem, & F. Wolter (eds.), * Handbook of Modal Logic*, pp. 140–179, Amsterdam: Elsevier.
+* Mermin, N., 2007, * Quantum Computer Science: An Introduction*, Cambridge, England: Cambridge University Press.
+* Miller, G., 1976, “Riemann’s Hypothesis and Tests for Primality,” * Journal of Computer and System Sciences*, 13(3): 300–317.
+* Milnikel, R., 2007, “Derivability in certain subsystems of the Logic of Proofs is ΠP2-complete,” * Annals of Pure and Applied Logic*, 145(3): 223–239.
+* Moore, C., and Mertens, S., 2011, * The Nature of Computation*, Oxford: Oxford University Press.
+* Morton, A., 2004, “Epistemic Virtues, Metavirtues, and Computational Complexity,” * Noûs*, 38(3): 481–502.
+* –––, 2012, * Bounded Thinking: Intellectual Virtues for Limited Agents*, Oxford: Oxford University Press.
+* Moschovakis, Y., 1974, * Elementary Induction on Abstract Structures*, Amsterdam: North Holland.
+* Mulmuley, K., and Sohoni, M., 2001, “Geometric complexity theory I: An approach to P vs. NP and related problems,” * SIAM Journal on Computing*, 31(2): 496–526.
+* Mundhenk, M., and Weiß, F., 2010, “The Complexity of Model Checking for Intuitionistic Logics and Their Modal Companions,” in A. Kučera & I. Potapov (eds.), * Reachability Problems*, Vol. 6227, pp. 146–160, Berlin; Heidelberg: Springer.
+* Negri, S., and Von Plato, J., 2001, * Structural Proof Theory*, Cambridge, England: Cambridge University Press.
+* Nelson, E., 1986, * Predicative Arithmetic* Vol. 32, Princeton: Princeton University Press.
+* Nielsen, M. A., and Chuang, I., 2000, * Quantum Computation and Quantum Information*, Cambridge, England: Cambridge University Press.
+* Odifreddi, P., 1999, * Classical Recursion Theory. Vol. II* Vol. 143, Amsterdam: North-Holland.
+* Papadimitriou, C., 1994, * Computational Complexity*, New York: Addison-Wesley.
+* Parikh, R., 1971, “Existence and Feasibility in Arithmetic,” * Journal of Symbolic Logic*, 36(3): 494–508.
+* Pippenger, N., 1979, “On Simultaneous Resource Bounds,” in * Foundations of Computer Science, 1979., 20th Annual Symposium on*, pp. 307–311, IEEE.
+* Post, E., 1947, “Recursive unsolvability of a problem of Thue,” * Journal of Symbolic Logic*, 12(1): 1–11.
+* Pudlák, Pavel, 2013, * Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction*, Berlin: Springer.
+* Rabin, M., 1980, “Probabilistic Algorithm for Testing Primality,” * Journal of Number Theory*, 12(1): 128–138.
+* Rabin, M., and Scott, D., 1959, “Finite Automata and Their Decision Problems,” * IBM Journal of Research and Development*, 3(2): 114–125.
+* Rantala, V., 1982, “Impossible Worlds Semantics and Logical Omniscience,” * Acta Philosophica Fennica*, 35: 106–115.
+* Razborov, A., and Rudich, S., 1994, “Natural Proofs,” in * Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing*, pp. 204–213, ACM.
+* Rivest, R., Shamir, A., and Adleman, L., 1978, “A Method for Obtaining Digital Signatures and Public-Key Cryptosystems,” * Communications of the ACM*, 21(2): 120–126.
+* Robson, J., 1983, “The complexity of Go,” * Information Processing: Proceedings of IFIP Congress*,
+* –––, 1984, “N by N checkers is * *EXPTIME* * complete,” * SIAM Journal on Computing*, 13(2): 252–267.
+* Rogers, H., 1987, * Theory of Recursive Functions and Effective Computability* (Second Ed.), Cambridge, Massachusetts: MIT Press.
+* Rose, H., 1984, * Subrecursion: functions and hierarchies*, Oxford: Clarendon Press.
+* Rubinstein, A., 1998, * Modeling Bounded Rationality* Vol. 1, Cambridge, Massachusetts: MIT press.
+* Savitch, W., 1970, “Relationship Between Deterministic and Non-Deterministic Tape Classes,” * Journal Computer System Science*, 4: 177–192.
+* Sazonov, V., 1995, “On Feasible Numbers,” in D. Leivant (ed.), * Logic and Computational Complexity*, Vol. 960, pp. 30–51, Berlin: Springer.
+* Schorr, A., 1983, “Physical Parallel Devices Are Not Much Faster Than Sequential Ones,” * Information Processing Letters*, 17(2): 103–106.
+* Schrijver, A., 2005, “On the history of combinatorial optimization (till 1960),” * Discrete Optimization*, 12: 1–68.
+* Scott, A., and Sorkin, G., 2006, “Solving sparse random instances of MAX CUT and MSC 2-CSP in linear expected time,” * Combinatorics, Probability and Computing*, 15(1-2): 281–315.
+* Segerlind, N., 2007, “The Complexity of Propositional Proofs,” * Bulletin of Symbolic Logic*, 13(4): 417–481.
+* Seiferas, J., Fischer, M., and Meyer, A., 1973, “Refinements of the Nondeterministic Time and Space Hierarchies,” in * 14th Annual Symposium on Switching and Automata Theory, 1973*, pp. 130–137.
+* Shor, P., 1999, “Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,” * SIAM Review*, 41(2): pp. 303–332.
+* Sieg, W., 2009, “On Computability,” in Andrew Irvine (ed.), * Philosophy of Mathematics*, Vol. 4, pp. 549–630, Amsterdam: North-Holland.
+* Simon, H., 1957, * Models of Man: Social and Rational*, New York: John Wiley.
+* –––, 1972, “Theories of Bounded Rationality,” * Decision and Organization*, 1: 161–176.
+* Sipser, H., 2006, * Introduction to the Theory of Computation*, Boston: Thomson.
+* Sipser, M., 1992, “The history and status of the * *P* * versus * *NP* * question,” in * Proceedings of the Twenty-Fourth Annual ACM Symposium on Theory of Computing*, pp. 603–618, ACM.
+* Sistla, A., and Clarke, E., 1985, “The Complexity of Propositional Linear Temporal Logics,” * Journal of the ACM*, 32(3): 733–749.
+* Skolem, T., 1956, “An ordered set of arithmetic functions representing the least ϵ-number,” * Det Konigelige Norske Videnskabers Selskab Fordhandlinger*, 29: 54–59.
+* Slot, C., and Emde Boas, P. van, 1988, “The Problem of Space Invariance for Sequential Machines,” * Information and Computation*, 77(2): 93–122.
+* Stalnaker, R., 1991, “The problem of logical omniscience, I,” * Synthese*, 89(3): 425–440.
+* –––, 1999, “The Problem of Logical Omniscience, II,” in * Context and Content*, pp. 255–283, Oxford: Oxford University Press.
+* Statman, R., 1979, “Intuitionistic Propositional Logic Is Polynomial-Space Complete,” * Theoretical Computer Science*, 9(1): 67–72.
+* Stearns, R., Hartmanis, J., and Lewis, P., 1965, “Hierarchies of memory limited computations,” in * Sixth Annual Symposium on Switching Circuit Theory and Logical Design*, pp. 179–190.
+* Stockmeyer, L., 1977, “The Polynomial-Time Hierarchy,” * Theoretical Computer Science*, 3(1): 1–22.
+* Stockmeyer, L., and Meyer, A., 1973, “Word Problems Requiring Exponential Time (Preliminary Report),” in * Proceedings of the Fifth Annual ACM Symposium on Theory of Computing*, pp. 1–9, ACM.
+* Trakhtenbrot, B., 1984, “A survey of Russian approaches to * perebor * (brute-force searches) algorithms,” * Annals of the History of Computing*, 6(4): 384–400.
+* Troelstra, A., and Schwichtenberg, H., 2000, * Basic Proof Theory* 2nd ed., Cambridge, England: Cambridge University Press.
+* Turing, A., 1937, “On computable numbers, with an application to the * Entscheidungsproblem *,” * Proceedings of the London Mathematical Society*, 2(1): 230.
+* Tversky, A., and Kahneman, D., 1974, “Judgment Under Uncertainty: Heuristics and Biases,” * Science*, 185(4157): 1124–1131.
+* Urquhart, A., 1984, “The Undecidability of Entailment and Relevant Implication,” * The Journal of Symbolic Logic*, 49(4): pp. 1059–1073.
+* Van Bendegem, J., 2012, “A Defense of Strict Finitism,” * Constructivist Foundations*, 7(2): 141–149.
+* Van Dantzig, D., 1955, “Is 101010 a finite number?” * Dialectica*, 9(3-4): 273–277.
+* Van Den Dries, L., and Levitz, H., 1984, “On Skolem’s exponential functions below 22x,” * Transactions of the American Mathematical Society*, 286(1): 339–349.
+* Van Leeuwen, J., 1990, * Handbook of theoretical computer science* Vol. A, Amsterdam: Elsevier.
+* Vardi, M., 1982, “The Complexity of Relational Query Languages,” in * Proceedings of the Fourteenth Annual ACM Symposium on Theory of Computing*, pp. 137–146.
+* Vardi, M., and Stockmeyer, L., 1985, “Improved Upper and Lower Bounds for Modal Logics of Programs,” in * Proceedings of the Seventeenth Annual ACM Symposium on Theory of Computing*, pp. 240–251.
+* Visser, Albert, 2009, “The predicative Frege hierarchy,” * Annals of Pure and Applied Logic*, 160(2): 129–153.
+* Vitányi, P., 1986, “Nonsequential Computation and Laws of Nature,” in F. Makedon, K. Mehlhorn, T. Papatheodorou, & P. Spirakis (eds.), * VLSI Algorithms and Architectures*, Vol. 227, pp. 108–120, Berlin; Heidelberg: Springer.
+* Vollmer, H., 1999, * Introduction to Circuit Complexity: A Uniform Approach*, New York: Springer-Verlag.
+* Vopěnka, P., 1979, * Mathematics in the Alternative Set Theory*, Leipzig: Teubner.
+* Wagner, K., and Wechsung, G., 1986, * Computational Complexity*, Dordrecht: Reidel.
+* Wang, H., 1958, “Eighty years of foundational studies,” * Dialectica*, 12: 466–497.
+* Watrous, J., 2009, “Quantum Computational Complexity,” in * Encyclopedia of Complexity and Systems Science*, pp. 7174–7201, Berlin: Springer.
+* –––, 2006b, “* *P* *, * *NP* * and mathematics–a computational complexity perspective,” in * Proceedings of the 2006 International Congress of Mathematicians*, pp. 665–712.
+* Williams, H., 1998, * Édouard Lucas and Primality Testing*, New York: Wiley.
+* Wolper, P., 1986, “Expressing Interesting Properties of Programs in Propositional Temporal Logic,” in * Proceedings of the 13th ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages*, pp. 184–193.
+* Wrathall, C., 1978, “Rudimentary Predicates and Relative Computation,” * SIAM Journal on Computing*, 7(2): 194–209.
+* Yanofsky, N., and Mannucci, M., 2007, * Quantum Computing for Computer Scientists*, Cambridge, England: Cambridge University Press.
+* Yessenin-Volpin, A., 1961, “Le Programme Ultra-Intuitionniste Des Fondements Des Mathématiques.” in * Infinitistic Methods, Proceedings of the Symposium on the Foundations of Mathematics,* pp. 201–223, Oxford: Pergamon Press.
+* –––, 1970, “The Ultra-Intuitionistic Criticism and the Antitraditional Program for the Foundations of Mathematics,” in A. Kino, J. Myhill, & R. Vesley (eds.), * Intuitionism and Proof Theory*, pp. 3–45, Amsterdam: North-Holland.
+* Yablonski, S. 1959, “On the impossibility of eliminating * perebor * in solving some problems of circuit theory,” * Dokl. A.N. SSSR* 124: 44–47
+* Zambella, D., 1996, “Notes on Polynomially Bounded Arithmetic,” * The Journal of Symbolic Logic*, 61(3): 942–966.
 
 ## Academic Tools
 
@@ -596,7 +596,7 @@ Gandy (1980) 是最早讨论谦逊物理 CTT 版本之一，他认为具有离�
 
 * [The **P** vs **NP** Problem](http://www.claymath.org/millennium-problems/p-vs-np-problem), Millennium Problems, Clay Mathematics Institute
 * A comprehensive [list of NP-complete problems](http://en.wikipedia.org/wiki/List_of_NP-complete_problems), maintained by *Wikipedia*.
-* [Gödel’s Lost Letter and **P**=**NP**](http://rjlipton.wordpress.com/), a weblog on computational complexity theory maintained by Richard Lipton and Kenneth Regan (some extracted articles are published in Lipton and Regan 2013).
+* [Gödel’s Lost Letter and **P** = **NP**](http://rjlipton.wordpress.com/), a weblog on computational complexity theory maintained by Richard Lipton and Kenneth Regan (some extracted articles are published in Lipton and Regan 2013).
 * [Computational Complexity](http://blog.computationalcomplexity.org/), a weblog on computational complexity theory maintained by Lance Fortnow and William Gasarch.
 * [Shtetl-Optimized](http://www.scottaaronson.com/blog/), a weblog on complexity theory and quantum computation maintained by Scott Aaronson.
 

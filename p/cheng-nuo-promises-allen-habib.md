@@ -1,6 +1,6 @@
 # 承诺 promises (Allen Habib)
 
-*首次发表于2008年10月10日；实质修订于2022年6月17日。*
+*首次发表于 2008 年 10 月 10 日；实质修订于 2022 年 6 月 17 日。*
 
 很少有道德判断比承诺应该被遵守更直观明显且更广泛共享的。正是这种固定的地位在我们的直观判断中使得承诺对哲学家、社会科学家和其他理论家具有特殊的兴趣。
 
@@ -44,11 +44,11 @@
 
 阿奎那斯间接讨论了承诺，在他对誓约的处理中，他认为誓约是对上帝的承诺。他将亚里士多德的德行理论适应于自然法则的规定，对理论进行了一些重要的改变，主要是将焦点转移到承诺者的意愿作为义务的行动者。对于阿奎那斯来说，承诺本质上是通过意愿的行动“约束”自己（即产生义务）：
 
-> 誓约表示对某件特定事情的约束。现在，一个人通过承诺将自己与另一个人联系起来，承诺是理性的行动，它属于指导的能力。正如一个人通过命令或祈祷，以某种方式指导别人为他做事一样，通过承诺，他指导自己为另一个人做事。\[...]现在，承诺是做某事的目的的结果：而目的前提是经过深思熟虑，因为它是深思熟虑的意愿的行动。因此，誓约有三个基本要素：第一个是深思熟虑；第二个是意愿的目的；第三个是承诺，在其中完成了誓约的本质。然而，有时还会添加另外两个东西作为誓约的确认，即口头宣告，根据诗篇 65:13，“我要向你偿还我的誓约，是我嘴唇所发出的”；和他人的见证。因此，大师说（Sent. iv, D, 38）誓约是“自发承诺的见证，应该向上帝作出，并涉及与上帝有关的事物”：尽管“见证”严格来说是指内心的抗议。（总论，II-II，q.88）
+> 誓约表示对某件特定事情的约束。现在，一个人通过承诺将自己与另一个人联系起来，承诺是理性的行动，它属于指导的能力。正如一个人通过命令或祈祷，以某种方式指导别人为他做事一样，通过承诺，他指导自己为另一个人做事。\[...] 现在，承诺是做某事的目的的结果：而目的前提是经过深思熟虑，因为它是深思熟虑的意愿的行动。因此，誓约有三个基本要素：第一个是深思熟虑；第二个是意愿的目的；第三个是承诺，在其中完成了誓约的本质。然而，有时还会添加另外两个东西作为誓约的确认，即口头宣告，根据诗篇 65: 13，“我要向你偿还我的誓约，是我嘴唇所发出的”；和他人的见证。因此，大师说（Sent. iv, D, 38）誓约是“自发承诺的见证，应该向上帝作出，并涉及与上帝有关的事物”：尽管“见证”严格来说是指内心的抗议。（总论，II-II，q.88）
 
 还有一些重要的早期现代自然法传统中的评论家，如洛克（1689 年，《政府论》第二篇第 14 章），里德（1788 年，《人的积极力量论》第 2 章），格罗修斯（1625 年，《自然法》第二卷第 11 章），普芬多夫（1672 年，《自然法和国际法》第三卷第 5 章第 9 节），斯泰尔（1681/93 年，《苏格兰法律制度》第一卷第 10 章第 1 节）等人将这一学说发展到了新的方向。
 
-在现代时期，这种自然法传统在哲学家中的流行度有所下降，有影响力的早期理论家如霍布斯和休谟采取了传统主义的观点。这与西方哲学许多不同领域更加自然主义观点的转变是一致的，但这一传统从未消失。通过西班牙和其他地方的后来的自然法学家的作品（苏亚雷斯，莫利纳），这一传统极大地影响了欧洲私法学说的发展——这些学说是合同法和侵权法等事物的基础。有关承诺理论与合同法之间关系的更多信息，请参见下面的章节。有关这些问题的优秀概述，请参阅詹姆斯·戈德利的《现代合同学说的哲学起源》（1991 年）第 1 章。
+在现代时期，这种自然法传统在哲学家中的流行度有所下降，有影响力的早期理论家如霍布斯和休谟采取了传统主义的观点。这与西方哲学许多不同领域更加自然主义观点的转变是一致的，但这一传统从未消失。通过西班牙和其他地方的后来的自然法学家的作品（苏亚雷斯，莫利纳），这一传统极大地影响了欧洲私法学说的发展——这些学说是合同法和侵权法等事物的基础。有关承诺理论与合同法之间关系的更多信息，请参见下面的章节。有关这些问题的优秀概述，请参阅詹姆斯 · 戈德利的《现代合同学说的哲学起源》（1991 年）第 1 章。
 
 ### 1.3 当代观点
 
@@ -60,19 +60,19 @@
 >
 > (i) 最明显的特权案例是由承诺产生的。通过承诺做或不做某事，我们自愿承担义务，并在我们承诺的人身上创造或授予权利；我们改变了当事人在某种行动方面的自由选择的现有道德独立性，并在他们之间创造了一种新的道德关系，以至于承诺的人有权决定承诺人如何行动。这非常符合一个人所拥有的权利与应该做什么之间的区别。承诺人在某个特定事项上对他人的意愿具有临时的权威或主权，我们通过说承诺人有义务履行他所承诺的来表达这一点。对于一些哲学家来说，道德现象——权利和义务——可以通过个人的自愿行动产生，这一观点似乎是完全神秘的；但我认为这是因为他们没有清楚地看到权利和义务的特殊性，以及它们与自由选择的分配如何特别相关\[...]（哈特 1955 年：183-184）
 
-哈特的提议是这些理论复兴的先驱，首先是在法律理论家中，然后是在更广泛的道德哲学家中。最早并且最有影响力的作者之一，接受哈特的观点的是约瑟夫·拉兹。拉兹首次在他的 1977 年的论文《承诺与义务》（Raz 1977）中提出这一观点，后来在他的著作《自由的道德》（1986 年）和其他地方（参见 Raz 1982, 2014）中进一步阐述了一种规范权力观，明确将承诺权力基于我们对自我约束以促进合作和协调的兴趣。
+哈特的提议是这些理论复兴的先驱，首先是在法律理论家中，然后是在更广泛的道德哲学家中。最早并且最有影响力的作者之一，接受哈特的观点的是约瑟夫 · 拉兹。拉兹首次在他的 1977 年的论文《承诺与义务》（Raz 1977）中提出这一观点，后来在他的著作《自由的道德》（1986 年）和其他地方（参见 Raz 1982, 2014）中进一步阐述了一种规范权力观，明确将承诺权力基于我们对自我约束以促进合作和协调的兴趣。
 
 > 规范权力是人们（或机构）通过旨在实现这些变化的行为来改变规范情境或条件（即强制或废除义务，授予或撤销权利，改变地位等）的能力，其中能力取决于（即基于，以...为基础，由...证明）那些人（或机构）拥有这些能力的可取性（价值）。
 >
 > 在承诺的情况下，权力的价值在于通过行动扩展人们塑造自己的生活或生活的方面的能力。通过他们的承诺，他们承诺给别人。在某种程度上，承诺类似于构成决策的原因，决策者执行他们决定执行的行为。从规范的角度来说，两者都是通过关闭其他选项来打开选项的方式。决策除了有目标外，还促进进行需要协调行动的复杂活动（传球，写交响乐等）。承诺作为对他人的承诺，促进了合作，铸造了依赖、信任和共同行动的关系，等等。为了简洁起见，当这些权力由机构持有时，我将把拥有这些权力的价值称为增强控制（自己生活）的价值，尽管在解释这些权力的价值时需要稍微不同的解释。（Raz 2014: 61）
 
-大卫·欧文斯（2006 年，2008 年，2011 年，2012 年）在最近一种广泛有影响力的方法中，提出了一种基于他所称之为我们的“权威利益”的权力，或者说我们在对他人拥有某种实际权威时的利益，即作为承诺的接受者给予我们的权威。这种权力是一系列类似权力中的一种，其目的是通过声明来服务于我们对塑造规范景观的兴趣，这种兴趣至少有两种形式：权威利益，为承诺义务提供支持，以及许可利益，为同意的权力提供支持。
+大卫 · 欧文斯（2006 年，2008 年，2011 年，2012 年）在最近一种广泛有影响力的方法中，提出了一种基于他所称之为我们的“权威利益”的权力，或者说我们在对他人拥有某种实际权威时的利益，即作为承诺的接受者给予我们的权威。这种权力是一系列类似权力中的一种，其目的是通过声明来服务于我们对塑造规范景观的兴趣，这种兴趣至少有两种形式：权威利益，为承诺义务提供支持，以及许可利益，为同意的权力提供支持。
 
 > 我将主张，承诺之所以存在，是因为至少在涉及彼此行动时，人类往往具有一种可以称之为权威利益的利益：我经常希望我有权决定你做什么，而不是你。如果你答应送我回家，这个承诺赋予我要求你开车送我回家的权利；从这个意义上说，它使我对你有权威。这是显而易见的。我所主张的是，人类往往希望拥有这种权威，是为了权威本身的缘故（不仅仅是为了便于预测或协调）。我经常有一个利益，希望有权决定你是否会送我一程，超越我对你（或我们）实际做什么的任何兴趣。我声称，承诺之所以存在，是因为它满足了这种权威利益。（欧文斯，2006 年：51）
 
 Seana Shiffrin（2008 年，2012b 年）最近还提出了一种新颖的规范权力观点，这种观点将权力基于我们在形成和维持与他人的关系方面的利益，而不是基于权威或协调。在 Shiffrin 的观点中，承诺与其他对人际关系结构至关重要的承诺形式相一致：
 
-> \[…]具有作出约束性承诺的权力，以及形成各种其他相关承诺形式的能力，是以平等尊重的条件下以道德良好的方式参与特殊关系的能力的一个组成部分。（Shiffrin 2008 年：485）
+> \[…] 具有作出约束性承诺的权力，以及形成各种其他相关承诺形式的能力，是以平等尊重的条件下以道德良好的方式参与特殊关系的能力的一个组成部分。（Shiffrin 2008 年：485）
 
 这些最近的发展引发了一系列的文献，重点关注规范权力本身的问题，例如 Chang（2013 年，2020 年），Westlund（2013 年，2018 年），Nieswandt（2017 年），以及它们解释承诺义务的适当性，例如 E. Taylor（2013 年），Fruh（2014 年，2019 年），Molina（2019 年），Melenovsky（2017 年）等等。
 
@@ -132,7 +132,7 @@ Rawls 区分了他所称之为“摘要”规则概念和“实践”规则观�
 
 ### 2.2 典型的常规主义
 
-或许更好地理解当代常规主义理论的方式是，它们在承诺方面在规范上和本体论上都是典型的常规主义。约翰·罗尔斯在他的重要著作《正义论》（1971 年）中提出了这样一种理论。
+或许更好地理解当代常规主义理论的方式是，它们在承诺方面在规范上和本体论上都是典型的常规主义。约翰 · 罗尔斯在他的重要著作《正义论》（1971 年）中提出了这样一种理论。
 
 罗尔斯将承诺不视为独特的道德行为，而是本质上的制度性产物，因此承诺义务是制度义务，与所有这类义务一样，都有相同的基础。这些制度由一系列规则组成，为制度参与者规定和禁止某些行为。规则的要旨是道德义务的内容。罗尔斯将制度义务归结为他所称的公平原则。
 
@@ -154,11 +154,11 @@ Rawls 并没有详细说明规则中提到的情况和条件，但他指出承�
 
 因此，与 Hobbes 和 Hume 不同，对于 Rawls 来说，约定既是承诺现象的来源，也是承诺义务的道德正当性的来源。个体承诺是承诺游戏中的“着法”，就像击球是棒球中的着法一样，承诺义务直接基于约定的价值。
 
-另一个重要的传统主义理论的当代分支是由约翰·西尔（1965 年等）提出的。像罗尔斯一样，西尔认为承诺本质上是制度行为，这是由承诺惯例的规则所可能的。同样，承诺义务是一种制度义务，它附属于那些已经受到制度约束的人。而个体承诺的规范力最终根植于整个惯例的价值。有关更多信息，请参阅下面的《承诺和言语行为》（第 6.1 节）。
+另一个重要的传统主义理论的当代分支是由约翰 · 西尔（1965 年等）提出的。像罗尔斯一样，西尔认为承诺本质上是制度行为，这是由承诺惯例的规则所可能的。同样，承诺义务是一种制度义务，它附属于那些已经受到制度约束的人。而个体承诺的规范力最终根植于整个惯例的价值。有关更多信息，请参阅下面的《承诺和言语行为》（第 6.1 节）。
 
 ### 2.3 混合理论
 
-到了二十世纪末，在法学院之外，这种双重传统主义成为了那些研究这些问题的理论家中的主流观点。托马斯·斯坎伦的有影响力的作品提出了一种对承诺的期望观点，将这一传统视为其目标。
+到了二十世纪末，在法学院之外，这种双重传统主义成为了那些研究这些问题的理论家中的主流观点。托马斯 · 斯坎伦的有影响力的作品提出了一种对承诺的期望观点，将这一传统视为其目标。
 
 在《承诺与实践》（1990 年）中，斯坎伦认为（除其他事项外），传统观点对于违背承诺的伤害理解错误。根据传统观点，当有人违背承诺时，他们伤害了整个承诺的惯例，进而伤害了所有依赖于它的人。但这与我们坚定的直觉相冲突，即破坏的承诺主要伤害了被抛弃的受承诺者。
 
@@ -176,7 +176,7 @@ Rawls 并没有详细说明规则中提到的情况和条件，但他指出承�
 
 期望性方法最初由功利主义者如边沁（《对评论的评论》）、西奇威克（《伦理学方法》）、纳维森（1967 年，1971 年）、辛格（1972 年）和阿尔达尔（1968 年，1976 年）采用。但在过去的 50 年中，许多具有其他规范框架的理论家也提出了这样的观点，例如麦克尼利（1972 年）、麦考密克（1972 年）、安斯康姆（1981 年：第 1 章）、汤姆森（1990 年：第 12 章）、T. M. 斯坎伦（1990 年，1999 年：第 7 章）、富特（2001 年：第 1 章）和弗里德里希和南伍德（2011 年）。
 
-我们可以根据承诺人所要求的义务承担方式（与弗里德里希和南伍德\[2009 年，2011 年]等人一起）将期望理论分为三种类型，即保证、依赖和信任。
+我们可以根据承诺人所要求的义务承担方式（与弗里德里希和南伍德\[2009 年，2011 年] 等人一起）将期望理论分为三种类型，即保证、依赖和信任。
 
 ### 3.1 承诺
 
@@ -210,11 +210,11 @@ Rawls 并没有详细说明规则中提到的情况和条件，但他指出承�
 
 所有三种期望理论都采用了一种承诺接受的条件，如上所述。这导致学者们就这种条件的性质展开了一系列独立的讨论。
 
-文献中对期望理论对承诺义务的批评和反对有很多。其中一个问题组围绕着这样的观点：通过将承诺仅仅看作是产生期望的机制，期望论者将承诺与其他事物（如建议、警告和威胁）之间的区别消除了（参见 Raz 1972; Peetz 1977; 另见Árdal 1979 的回应）。
+文献中对期望理论对承诺义务的批评和反对有很多。其中一个问题组围绕着这样的观点：通过将承诺仅仅看作是产生期望的机制，期望论者将承诺与其他事物（如建议、警告和威胁）之间的区别消除了（参见 Raz 1972; Peetz 1977; 另见 Árdal 1979 的回应）。
 
-除了这些问题之外，还有人指责期望论者无法解释为什么承诺的期望会产生义务，而其他期望则不会（参见 Raz 1972; Owens 2006）。埃莉诺·梅森（Elinor Mason）在一篇关于斯坎伦理论的最新文章中支持这种消除观点，她声称承诺只是一种诱导信任的方式之一，而违背承诺所造成的伤害正是通过撒谎或其他欺骗行为可能造成的误导伤害（Mason 2005）。
+除了这些问题之外，还有人指责期望论者无法解释为什么承诺的期望会产生义务，而其他期望则不会（参见 Raz 1972; Owens 2006）。埃莉诺 · 梅森（Elinor Mason）在一篇关于斯坎伦理论的最新文章中支持这种消除观点，她声称承诺只是一种诱导信任的方式之一，而违背承诺所造成的伤害正是通过撒谎或其他欺骗行为可能造成的误导伤害（Mason 2005）。
 
-对于期望观点来说，另一个传统问题是循环性的指责（参见Robins 1976; Prichard 1949; Warnock 1971）。问题是这样的：当我向某人承诺做某事时，如果一切顺利，由于我的承诺，他们会信任我会做那件事。但是，根据期望观点，这种信任是我履行承诺义务的来源。因此，似乎我的承诺者的信任既是我的承诺的原因又是结果，这似乎是一个不可接受的循环。问题最好用认识论的术语来表述，作为承诺者必须信任被承诺者的原因之一。被承诺者信任的直观明显原因是承诺者已经承诺，并因此对自己有了道义义务去履行承诺。这种信念与对承诺者道义正直的信念结合起来，使被承诺者有充分的理由相信承诺者会履行承诺。期望观点的问题在于，根据这种观点，被承诺者不能依赖承诺义务的事实作为信任的理由，因为在这种观点下，这种义务是基于信任本身的先前事实。如果对承诺者的信任是履行承诺的道义义务的基础，那么在被承诺者开始信任承诺者之前，这种义务是不存在的。因此，当被承诺者寻找信任的理由时，标准的理由被排除在考虑之外。
+对于期望观点来说，另一个传统问题是循环性的指责（参见 Robins 1976; Prichard 1949; Warnock 1971）。问题是这样的：当我向某人承诺做某事时，如果一切顺利，由于我的承诺，他们会信任我会做那件事。但是，根据期望观点，这种信任是我履行承诺义务的来源。因此，似乎我的承诺者的信任既是我的承诺的原因又是结果，这似乎是一个不可接受的循环。问题最好用认识论的术语来表述，作为承诺者必须信任被承诺者的原因之一。被承诺者信任的直观明显原因是承诺者已经承诺，并因此对自己有了道义义务去履行承诺。这种信念与对承诺者道义正直的信念结合起来，使被承诺者有充分的理由相信承诺者会履行承诺。期望观点的问题在于，根据这种观点，被承诺者不能依赖承诺义务的事实作为信任的理由，因为在这种观点下，这种义务是基于信任本身的先前事实。如果对承诺者的信任是履行承诺的道义义务的基础，那么在被承诺者开始信任承诺者之前，这种义务是不存在的。因此，当被承诺者寻找信任的理由时，标准的理由被排除在考虑之外。
 
 此外，如果一位期望主义者旨在提供一种解释承诺义务的理论，而不需要引用约定或承诺实践（如斯坎伦所做的），那么解释承诺信任的另一种标准途径将被阻断。如果存在一项管理承诺的约定，并且该约定能够激发受承诺者对承诺人会履行承诺的信心，那么可以说承诺会产生必要的期望。但这种观点与约定不是解释承诺义务的必要条件的主张不相容。N.科洛德尼和 R.J.华莱士（2003）对斯坎伦的理论提出了这些异议。
 
@@ -222,7 +222,7 @@ Rawls 并没有详细说明规则中提到的情况和条件，但他指出承�
 
 ## 4. 人际承诺
 
-在过去的二十年中，出现了一种新的承诺义务理论。这种方法将承诺义务视为从人际交往中产生的若干特殊义务（以及其他规范现象）之一。两种主要观点是斯蒂芬·达沃尔（Stephen Darwall）（2006 年，2009 年，2011 年）和玛格丽特·吉尔伯特（Margaret Gilbert）（1993 年，2011 年，2013 年）的观点。
+在过去的二十年中，出现了一种新的承诺义务理论。这种方法将承诺义务视为从人际交往中产生的若干特殊义务（以及其他规范现象）之一。两种主要观点是斯蒂芬 · 达沃尔（Stephen Darwall）（2006 年，2009 年，2011 年）和玛格丽特 · 吉尔伯特（Margaret Gilbert）（1993 年，2011 年，2013 年）的观点。
 
 ### 4.1 共同承诺
 
@@ -234,7 +234,7 @@ Rawls 并没有详细说明规则中提到的情况和条件，但他指出承�
 
 ### 4.2 第二人称
 
-斯蒂芬·达沃尔（Stephen Darwall）的观点认为，承诺义务是他所称之为“第二人称”规范现象的一种。第二人称现象多种多样，达沃尔将承诺归类为“交易”类别，其中包括合同和其他相互安排，基于基本的第二人称权威（即我们彼此“提出要求和要求”的权力）生成履行交易中所概述的义务。这种第二人称权威反过来是一种规范基础，达沃尔认为这种权威在所有约定安排的情况下都是必然假设的。
+斯蒂芬 · 达沃尔（Stephen Darwall）的观点认为，承诺义务是他所称之为“第二人称”规范现象的一种。第二人称现象多种多样，达沃尔将承诺归类为“交易”类别，其中包括合同和其他相互安排，基于基本的第二人称权威（即我们彼此“提出要求和要求”的权力）生成履行交易中所概述的义务。这种第二人称权威反过来是一种规范基础，达沃尔认为这种权威在所有约定安排的情况下都是必然假设的。
 
 达沃尔假设交易可以在没有明确“协议”的情况下产生义务。他以接受邀请为例。此外，达沃尔的第二人称权威理论通过契约主义机制产生明确的道德义务：粗略地说，我们进入协议的权威是必要的，以建立一种类似斯坎隆式的假设契约主义。
 
@@ -250,17 +250,17 @@ Darwall 的工作还导致了文献的一个新的子部分，参见 Watson（20
 
 ### 5.1 有问题的受承诺人和接受条件
 
-讨论的一个来源是与范例受承诺人有所不同的受承诺人的问题。范例受承诺人意识到承诺，确认并确认承诺安排，欢迎或至少不拒绝承诺的行为，并期望和/或依赖其执行或随后的事态发展。在文献中，这些被称为“接受”条件（该术语由汤姆森\[1990: 301]创造）。
+讨论的一个来源是与范例受承诺人有所不同的受承诺人的问题。范例受承诺人意识到承诺，确认并确认承诺安排，欢迎或至少不拒绝承诺的行为，并期望和/或依赖其执行或随后的事态发展。在文献中，这些被称为“接受”条件（该术语由汤姆森\[1990: 301] 创造）。
 
 大多数承诺理论都采用某种接受条件，出于不同的原因（参见 Liberto 2018），期望理论通常具有更高的要求。但并非所有合理的受承诺者都能满足这些条件。这些是有问题的受承诺者，即承诺对他们来说在直觉上似乎是有效的，但受承诺者未能满足接受条件的情况。
 
-这类有问题的案例的典型例子是对已故或垂危者的承诺，因为这些受承诺者无法感到失望或受到伤害。也就是说，除非有人认同死者可以受到伤害的观点，而这是否可能是一个思想家们也花了一些时间来探讨的问题（参见 Boonin 2019，对这里的哲学文献进行了调查）。与对自己的承诺一样，对已故者的承诺在散文和诗歌中都很常见，比如简·奥斯汀的《傲慢与偏见》或 J·斯塔福德的《山姆·麦吉的火葬》。
+这类有问题的案例的典型例子是对已故或垂危者的承诺，因为这些受承诺者无法感到失望或受到伤害。也就是说，除非有人认同死者可以受到伤害的观点，而这是否可能是一个思想家们也花了一些时间来探讨的问题（参见 Boonin 2019，对这里的哲学文献进行了调查）。与对自己的承诺一样，对已故者的承诺在散文和诗歌中都很常见，比如简 · 奥斯汀的《傲慢与偏见》或 J· 斯塔福德的《山姆 · 麦吉的火葬》。
 
 二十世纪中期出现了一种这样的情况，即所谓的“荒岛”案例，即在孤立（荒岛上）向某人承诺，然后该人去世。这个案例被用来反对行为功利主义者，作为他们所支持的期望主义观点无法回答的一种情况的例子（参见 Nowell-Smith 1956；Narveson 1963: 210；Cargile 1964；Narveson 1967: 196–7）。
 
-但最近学者们对此进行了批评。尼克·莱昂纳德（即将出版）认为，与死者和垂危者一样，没有标准认知能力依赖承诺的受承诺人肯定无法满足期望理论的接纳条件。他在这个角色中设想了小孩子或者认知严重受限的人。这些受承诺人直观上应该得到忠诚，但期望承诺理论无法解释这个判断，因为受承诺人没有必要的接纳，即他们无法形成期望或依赖。莱昂纳德进一步认为，共同承诺观点同样要求认知能力，因为它们需要像相互意图这样复杂而精细的心理状态。
+但最近学者们对此进行了批评。尼克 · 莱昂纳德（即将出版）认为，与死者和垂危者一样，没有标准认知能力依赖承诺的受承诺人肯定无法满足期望理论的接纳条件。他在这个角色中设想了小孩子或者认知严重受限的人。这些受承诺人直观上应该得到忠诚，但期望承诺理论无法解释这个判断，因为受承诺人没有必要的接纳，即他们无法形成期望或依赖。莱昂纳德进一步认为，共同承诺观点同样要求认知能力，因为它们需要像相互意图这样复杂而精细的心理状态。
 
-同样，詹姆斯·S·泰勒（2021）认为，像欧文斯那样依靠受承诺人对承诺人可能行使权力的权威观点无法解释死者或缺席的受承诺人。霍利·利伯托（2018）通过一系列微妙而巧妙的案例，认为权威观点和共同承诺观点中的接纳条件甚至可能被完全典型的受承诺人违反。这些案例涉及到在承诺义务创建时延迟、缺席或尚未指定的受承诺人。利伯托认为，接纳具有她所称的“向后延伸”的特点，意味着它必须能够在承诺义务形成后满足。
+同样，詹姆斯 ·S· 泰勒（2021）认为，像欧文斯那样依靠受承诺人对承诺人可能行使权力的权威观点无法解释死者或缺席的受承诺人。霍利 · 利伯托（2018）通过一系列微妙而巧妙的案例，认为权威观点和共同承诺观点中的接纳条件甚至可能被完全典型的受承诺人违反。这些案例涉及到在承诺义务创建时延迟、缺席或尚未指定的受承诺人。利伯托认为，接纳具有她所称的“向后延伸”的特点，意味着它必须能够在承诺义务形成后满足。
 
 Albrecht (2018)认为，对于已故或失踪的人、年幼的孩子或自己的承诺会产生“不对称”的承诺。根据 Albrecht 所称的“交易性”承诺理论，承诺是权利（或权威，或其他特定机制）的交换，这种交易发生在独立的代理之间。但在某些情况下，当受承诺者无法履行他们的交易义务时，承诺者可以作为其代理人代替履行。但 Albrecht 表示，这仅发生在承诺者在某种程度上已经对受承诺者负有责任的情况下。因此，当我们承诺给我们的年幼孩子提供良好的教育时，我们会代表他们接受承诺，作为他们的代理人，在我们作为父母的角色中，以同样的方式我们可能代表他们收到金钱或其他物品。
 
@@ -270,7 +270,7 @@ Albrecht (2018)认为，对于已故或失踪的人、年幼的孩子或自己�
 
 因此（罗斯认为），如果我们将受许诺人解释为意图让许诺人履行承诺的行为，并且如果我们将意图视为认知的一部分，即在某种程度上由信念构成，那么我们可以避免需要理由的需要，从而避免循环论证，因为这种类型的信念通常不需要理由：
 
-> 通过提供足够有吸引力的邀请（大多数承诺都是如此），许诺人引导受许诺人接受。而受许诺人通过意图让许诺人采取行动来接受。因此，我们有了许诺人引导受许诺人形成信念的情况（正如原理 F 所要求的），但不需要证据。因为，如果认知主义是正确的，意图ϕ的期望通常不是基于证据的。\[...] 还要注意，所描述的过程完全与期望（因此接受）是自愿的相容。一个有吸引力的邀请被发出并自愿接受：受许诺人自愿意图许诺人的行动，并且根据认知主义，从而形成期望。（罗斯 2016 年：111）
+> 通过提供足够有吸引力的邀请（大多数承诺都是如此），许诺人引导受许诺人接受。而受许诺人通过意图让许诺人采取行动来接受。因此，我们有了许诺人引导受许诺人形成信念的情况（正如原理 F 所要求的），但不需要证据。因为，如果认知主义是正确的，意图 ϕ 的期望通常不是基于证据的。\[...] 还要注意，所描述的过程完全与期望（因此接受）是自愿的相容。一个有吸引力的邀请被发出并自愿接受：受许诺人自愿意图许诺人的行动，并且根据认知主义，从而形成期望。（罗斯 2016 年：111）
 
 这一转变也引发了一些最近的讨论，参见 Sharadin（2018），Shaver（2019），Dannenberg（2019），Kenessey（2020）和 Lichter（2021）
 
@@ -280,9 +280,9 @@ Albrecht (2018)认为，对于已故或失踪的人、年幼的孩子或自己�
 
 传统上，自我承诺（以及它们的对应物，承诺、决心和类似承诺）被视为不正当的承诺，但近年来在文献中有许多试图为自我承诺辩护，并为其规范力提供一些积极解释的尝试。
 
-康妮·罗萨蒂在她有影响力的文章《自我承诺的重要性》（2011 年）中认为，自我承诺不是边缘现象，而是承诺的典范实例，因为它们是我们对自己的权威行使。这个观点并非没有先例-罗萨蒂承认，R.S.唐尼在他 1985 年的《承诺的三种解释》中也有类似的说法。但罗萨蒂的解释更加完善-她引用了欧文式的权威和达沃尔的第二人称规范框架。
+康妮 · 罗萨蒂在她有影响力的文章《自我承诺的重要性》（2011 年）中认为，自我承诺不是边缘现象，而是承诺的典范实例，因为它们是我们对自己的权威行使。这个观点并非没有先例-罗萨蒂承认，R.S.唐尼在他 1985 年的《承诺的三种解释》中也有类似的说法。但罗萨蒂的解释更加完善-她引用了欧文式的权威和达沃尔的第二人称规范框架。
 
-乔拉·丹内伯格（2015 年）以尼采的方式主张，自我承诺是巩固我们的意志，保护我们珍视的选择不受时间和考验的侵蚀的一种方式。而詹尼斯·沙布（2021 年）则反驳了她所称的“不连贯”论证反对一个人解除自己的承诺的可能性。
+乔拉 · 丹内伯格（2015 年）以尼采的方式主张，自我承诺是巩固我们的意志，保护我们珍视的选择不受时间和考验的侵蚀的一种方式。而詹尼斯 · 沙布（2021 年）则反驳了她所称的“不连贯”论证反对一个人解除自己的承诺的可能性。
 
 这个子文献中的一个核心问题是最后一个问题-受承诺人解除的问题。这个问题可以追溯到霍布斯，他在自我承诺中说道：
 
@@ -304,7 +304,7 @@ Kyle Fruh（2019）调查了一些承诺理论，特别是期望理论在解释�
 
 关于誓约本身，除了 Fruh 的工作外，Alida Liberman（2019）还提出了关于誓约义务的新理论，将誓约视为一种决心的一种形式。
 
-在另一个方面，伊丽莎白·布雷克（Elizabeth Brake）在她广为人知的 2011 年文章《离婚是承诺破坏吗》中认为，婚礼誓言不能被解释为承诺，否则就等于说离婚是承诺破坏。布雷克提出了这个观点和其他原因，认为婚礼誓言根本不应被视为承诺。
+在另一个方面，伊丽莎白 · 布雷克（Elizabeth Brake）在她广为人知的 2011 年文章《离婚是承诺破坏吗》中认为，婚礼誓言不能被解释为承诺，否则就等于说离婚是承诺破坏。布雷克提出了这个观点和其他原因，认为婚礼誓言根本不应被视为承诺。
 
 布雷克的研究反过来引发了关于婚礼誓言作为承诺的进一步对话，参见 Gheaus（2017）、Cowley（2020）和 Liberman（2021）。
 
@@ -314,7 +314,7 @@ Kyle Fruh（2019）调查了一些承诺理论，特别是期望理论在解释�
 
 传统上，誓言被理解为一种独立的产生义务的承诺形式，是对上帝的“呼唤见证”，以增强宣誓者对真实性的主张。例如，阿奎那将其分为四种类型：对过去或现在真相的呼唤，他称之为宣告性誓言，以及对某种未来行为的主张，这些是承诺性誓言。此外，誓言可以是简单的见证邀请，即普通誓言，也可以是对宣誓者违约进行惩罚的邀请，即诅咒：
 
-> 誓言是為了確認而作出的。現在，推理從自然而然且絕對真實的原則出發，對於推論命題進行確認。但是，關於人的特定偶然事實無法通過必然的理由來確認，因此關於這些事情的命題通常需要通過證人來確認。然而，一個人的證人不足以確認這些事情，原因有兩個。首先，由於人缺乏真實，因為許多人都會撒謊，正如詩篇16:10所說：“他們的口說謊言\[拉丁語：‘傲慢’]”。其次，由於缺乏知識，因為他既不能知道未來，也不能知道秘密的思想，也不能知道遠方的事物：然而人們對這些事情談論得很多，我們的日常生活需要對這些事情有一定的確定性。因此，需要求助於神的證人，因為上帝既不能撒謊，也沒有什麼是他看不見的。現在，呼喚上帝作證被稱為“宣誓”（jurare），因為它被確立為法律（jure）的原則，即一個人在上帝作為他的證人的呼喚下所斷言的事情應該被接受為真實。有時候，當我們斷言現在或過去的事件時，我們呼喚上帝作證，這被稱為“宣誓宣言”；有時候，當我們對未來的某事進行確認時，我們呼喚上帝作證，這被稱為“宣誓承諾”。但是，宣誓不是用來證明必要的事情，也不是用來證明需要理性調查的事情；因為在科學討論中，希望通過宣誓來證明自己的觀點似乎是荒謬的。（《神學大全》第二部分第二部問題89-第一條）
+> 誓言是為了確認而作出的。現在，推理從自然而然且絕對真實的原則出發，對於推論命題進行確認。但是，關於人的特定偶然事實無法通過必然的理由來確認，因此關於這些事情的命題通常需要通過證人來確認。然而，一個人的證人不足以確認這些事情，原因有兩個。首先，由於人缺乏真實，因為許多人都會撒謊，正如詩篇 16: 10 所說：“他們的口說謊言\[拉丁語：‘傲慢’]”。其次，由於缺乏知識，因為他既不能知道未來，也不能知道秘密的思想，也不能知道遠方的事物：然而人們對這些事情談論得很多，我們的日常生活需要對這些事情有一定的確定性。因此，需要求助於神的證人，因為上帝既不能撒謊，也沒有什麼是他看不見的。現在，呼喚上帝作證被稱為“宣誓”（jurare），因為它被確立為法律（jure）的原則，即一個人在上帝作為他的證人的呼喚下所斷言的事情應該被接受為真實。有時候，當我們斷言現在或過去的事件時，我們呼喚上帝作證，這被稱為“宣誓宣言”；有時候，當我們對未來的某事進行確認時，我們呼喚上帝作證，這被稱為“宣誓承諾”。但是，宣誓不是用來證明必要的事情，也不是用來證明需要理性調查的事情；因為在科學討論中，希望通過宣誓來證明自己的觀點似乎是荒謬的。（《神學大全》第二部分第二部問題 89-第一條）
 >
 > 一个人被称为证人，目的是让他揭示所谓的真相。现在，上帝揭示所谓的事实是否真实有两种方式。一种方式是他简单地揭示真相，要么通过内在的启示，要么通过揭示事实，即公开之前秘密的事情：另一种方式是惩罚说谎的证人，然后他既是法官又是证人，因为通过惩罚说谎者，他揭示了他的谎言。因此，誓言有两种：一种是对上帝的简单争辩，就像一个人说“上帝是我的见证人”，或者“我在上帝面前说话”，或者“以上帝之名”，这与奥古斯丁所说的意思相同\[\*见相反的论证]；另一种是诅咒，它是一个人将自己或他的某物绑定到惩罚上，如果所谓的事情不是真的。（同上，答复第 3 个反对意见）
 
@@ -322,7 +322,7 @@ Kyle Fruh（2019）调查了一些承诺理论，特别是期望理论在解释�
 
 最近的哲学研究倾向于重述这一分析，但没有神圣的受承诺者。这无疑扩大了吸引力，但它意味着义务的基础性质发生了实质性的变化。
 
-托马斯·斯坎伦（Thomas Scanlon）在他有影响力的 1990 年作品《承诺与实践》中是一个例子。斯坎伦提供了与该术语大致相同的含义，并重述了多马斯主义关于遗嘱和许诺誓言之间的区别，但他认为誓言不是为了邀请见证或惩罚，而是对重要或神圣的对象或思想的祈求：
+托马斯 · 斯坎伦（Thomas Scanlon）在他有影响力的 1990 年作品《承诺与实践》中是一个例子。斯坎伦提供了与该术语大致相同的含义，并重述了多马斯主义关于遗嘱和许诺誓言之间的区别，但他认为誓言不是为了邀请见证或惩罚，而是对重要或神圣的对象或思想的祈求：
 
 > 在誓言中，一个人为了支持自己说真话或有真诚可靠的意愿去做某件事的主张，会说：“我向你发誓，以……为证”，在这里命名了一个被认为具有重要价值的东西，比如上帝、圣经或所爱之人的记忆。并不需要所诉诸的价值涉及荣誉准则或真实陈述的约定。所声称的只是演讲者在提出当前主张时的真诚程度与他或她对所命名价值的奉献的真诚程度相当。如果为了个人利益而支持一个不真诚的主张而引用这样的价值观，将会贬低这样的价值观，因此与对它的真正奉献不相容。当然，有些人认为，将某物视为神圣，却以此方式支持任何主张是不相容的，这就是为什么一些宗教禁止以这种方式使用圣经或上帝的名字。（斯坎伦 1990 年：223）
 
@@ -334,13 +334,13 @@ Fruh (2019)反对这种观点，并质疑将誓言理解为“针对”交易对
 
 另一组在文献中讨论的问题可以称为承诺心理学问题。这些问题涉及承诺者和受承诺者的心理状态，以及这些心理状态在产生、解释或证明承诺义务方面的作用。主要关注的是承诺的原因。
 
-承诺人有什么理由遵守承诺？这些承诺是如何产生和发挥作用的？它们有多强大，如果有的话，有哪些理由可能会推翻它们？这些都是这个领域中最常见的问题之一，关于它们的文献非常丰富，太多了，无法在这里进行充分的调查，因此我只会提到一些重要的焦点。约瑟夫·拉兹（Joseph Raz）（1975 年，1982 年，1986 年，2012 年）提供的这些问题的答案尤其引人关注。
+承诺人有什么理由遵守承诺？这些承诺是如何产生和发挥作用的？它们有多强大，如果有的话，有哪些理由可能会推翻它们？这些都是这个领域中最常见的问题之一，关于它们的文献非常丰富，太多了，无法在这里进行充分的调查，因此我只会提到一些重要的焦点。约瑟夫 · 拉兹（Joseph Raz）（1975 年，1982 年，1986 年，2012 年）提供的这些问题的答案尤其引人关注。
 
 拉兹提出了一个实践理性的系统，包括第一和第二阶段的理由。第一阶段的理由是支持或反对行动的理由，而第二阶段的理由是关于理由本身的理由。排除性理由是排除其他第一阶段理由的第二阶段理由。拉兹说，承诺（在承诺人身上）产生了两种理由，一是执行承诺行为的第一阶段理由，二是排除大多数第一阶段理由的第二阶段排除性理由，这些理由劝告不要遵守承诺。
 
 > 假设一个人因为 p 是他做 A 的理由而做 A，那么他因为 p 的理由而不做 A，当且仅当他不是因为 p 的理由而做 A。换句话说，如果一个人不做某个行为，或者做了但不是因为这个理由，那么他因为某个理由而不采取行动。这里所说的“不采取行动”是以一种广义的意义使用的，不意味着代理人有意避免因为这个理由而采取行动。第二阶段理由是任何因为某个理由而采取行动或因为某个理由而不采取行动的理由。排除性理由是因为某个理由而不采取某个行动的第二阶段理由。（拉兹 1975 年：487）
 
-此外，在 Razian 图片排除的原因中，“内容独立”的原因是指行动的原因与其所涉及的“内容”或“性质”无关的概念（最初由 Hart \[1958, 1982]在 Sciaraffa 2009 中引用）：
+此外，在 Razian 图片排除的原因中，“内容独立”的原因是指行动的原因与其所涉及的“内容”或“性质”无关的概念（最初由 Hart \[1958, 1982] 在 Sciaraffa 2009 中引用）：
 
 有一大批文献涉及 Raz 引人入胜的建议，跨越了许多年代。有关此方面的一些早期文献的概述，请参见 Sciaraffa（2009）。更近期的研究可以在 McBride（2015）、MacMahon（2018）、Molina（2019）、Murphy（2020）、Kimel（即将出版）等人的著作中找到。其中很多工作是关于私法哲学基础的法律理论。
 
@@ -398,9 +398,9 @@ Hodgson（1967: 38）和其他人提出的一个更复杂的问题是，承诺�
 
 注意，功利主义者不能回答我们在我们的案例中未能考虑到承诺者的期望的问题，因为主张是承诺者没有理由产生任何特殊的期望，即承诺者会履行她的承诺，正是因为他知道承诺者是一位行为功利主义者，并且知道她会按照效用计算告诉她最好的做法去做，而不考虑她的承诺。当然，承诺者可以自由地产生一些期望，即承诺者会根据她至少有（现在的）意图来履行承诺的假设来履行她的承诺。但是，正如 Raz（1972 年）、Kolodny 和 Wallace（2003 年）以及其他人指出的那样，告知承诺者自己仅仅有意愿履行承诺的行为是不足以产生与承诺相伴的那种期望的充分理由的。
 
-最近，有一些努力试图恢复行为功利主义在承诺义务方面的地位。一些理论家，如迈克尔·史密斯（1994 年，2011 年），提出通过增加其他价值观来使理论复杂化，可能使其适应“与代理人相关”的价值观，如履行承诺（M.史密斯 2011 年：208-215）。
+最近，有一些努力试图恢复行为功利主义在承诺义务方面的地位。一些理论家，如迈克尔 · 史密斯（1994 年，2011 年），提出通过增加其他价值观来使理论复杂化，可能使其适应“与代理人相关”的价值观，如履行承诺（M.史密斯 2011 年：208-215）。
 
-其他人，如阿拉斯泰尔·诺克罗斯，提出了一种否定性的辩护，认为通常用来证明问题的反例在经过审查后无法成立（诺克罗斯 2011 年）。诺克罗斯还提出了一种间接形式的后果主义，其中代理人有意识地采用的决策程序与理论本身不同。这种方法由彼得·雷尔顿（1984 年）概述。
+其他人，如阿拉斯泰尔 · 诺克罗斯，提出了一种否定性的辩护，认为通常用来证明问题的反例在经过审查后无法成立（诺克罗斯 2011 年）。诺克罗斯还提出了一种间接形式的后果主义，其中代理人有意识地采用的决策程序与理论本身不同。这种方法由彼得 · 雷尔顿（1984 年）概述。
 
 #### 6.3.2 规则功利主义
 
@@ -416,252 +416,252 @@ Hodgson（1967: 38）和其他人提出的一个更复杂的问题是，承诺�
 
 ## Bibliography
 
-* Albrecht, Ingrid V., 2018, “Graveside and Other Asymmetrical Promises”, *Social Theory and Practice*, 44(4): 469–483. doi:10.5840/soctheorpract201891344
+* Albrecht, Ingrid V., 2018, “Graveside and Other Asymmetrical Promises”, *Social Theory and Practice*, 44(4): 469–483. doi: 10.5840/soctheorpract201891344
 * Alston, William P., 1964, *The Philosophy of Language*, Englewood Cliffs, NJ: Prentice Hall.
 * –––, 1994, “Illocutionary Acts and Linguistic Meaning”, in *Foundations of Speech Act Theory: Philosophical and Linguistic Perspectives*, S. L. Tsohatzidis (ed.), London, New York: Routledge, pp. 29–49.
 * Anscombe, G.E.M., 1981, *Ethics, Religion and Politic*, Oxford: Blackwell.
 * Aquinas, Thomas, *The Summa Theologica of St. Thomas Aquinas*, Translated by English Dominicans, London: Burns, Oates, and Washbourne. Reprinted New York: Christian Classics, 1981.
-* Árdal, Páll S., 1968, “‘And That’s a Promise’”, *The Philosophical Quarterly*, 18(72): 225–237. doi:10.2307/2218560
-* –––, 1976, “Promises and Reliance”, *Dialogue*, 15(1): 54–61. doi:10.1017/S0012217300021946
-* –––, 1979, “Threats and Promises: A Reply to Vera Peetz”, *Mind*, 88(352): 586–587. doi:10.1093/mind/LXXXVIII.1.586
+* Árdal, Páll S., 1968, “‘And That’s a Promise’”, *The Philosophical Quarterly*, 18(72): 225–237. doi: 10.2307/2218560
+* –––, 1976, “Promises and Reliance”, *Dialogue*, 15(1): 54–61. doi: 10.1017/S0012217300021946
+* –––, 1979, “Threats and Promises: A Reply to Vera Peetz”, *Mind*, 88(352): 586–587. doi: 10.1093/mind/LXXXVIII.1.586
 * Aristotle, *Nicomachean Ethics*, Jonathon Barnes (ed.), Princeton, NJ: Princeton University Press, 1984.
-* Arneson, Richard, 2005, “Sophisticated Rule Consequentialism: Some Simple Objections”, *Philosophical Issues*, 15: 235–251. doi:10.1111/j.1533-6077.2005.00064.x
+* Arneson, Richard, 2005, “Sophisticated Rule Consequentialism: Some Simple Objections”, *Philosophical Issues*, 15: 235–251. doi: 10.1111/j.1533-6077.2005.00064.x
 * Atiyah, P. S., 1961, *An Introduction to the Law of Contract*, Oxford: Clarendon Press.
 * –––, 1979, *The Rise and Fall of the Freedom of Contract*, Oxford: Clarendon Press.
 * –––, 1981, *Promises, Morals and the Law*, Oxford: Clarendon Press.
 * Austin, J. L., 1962 \[1975], *How To Do Things With Words*, from the William James lectures of 1955, J. O. Urmson (ed.), Cambridge, MA: Harvard University Press. Second edition, J. O. Urmson and Marina Sbisà (eds).
-* Baier, Annette C., 1992, “Artificial Virtues and the Equally Sensible Non-Knaves: A Response to Gauthier”, *Hume Studies*, 18(2): 429–439. doi:10.1353/hms.2011.0402
+* Baier, Annette C., 1992, “Artificial Virtues and the Equally Sensible Non-Knaves: A Response to Gauthier”, *Hume Studies*, 18(2): 429–439. doi: 10.1353/hms.2011.0402
 * Bentham, Jeremy, 1928 \[1977], *A Comment on the Commentaries*, written c. 1775, first published 1928, *A Comment on the Commentaries: A Criticism of William Blackstone’s “Commentaries on the Laws of England”*, Oxford: Clarendon Press. Reprinted in *The Collected Works of Jeremy Bentham: A Comment on the Commentaries and A Fragment on Government*, J.H. Burns and H.L.A. Hart (eds), London: Athlone Press.
 * Binmore, Ken, 1994, *Playing Fair: Game Theory and the Social Contract : Volume 1, Playing Fair*, Cambridge, MA: The MIT Press.
 * Bix, Brian, 2012, “Theories of Contract Law and Enforcing Promissory Morality: Comments on Charles Fried”, *Suffolk University Law Review*, 45(3): 719–734.
 * –––,  2017, “Theories of contract law”, In *Comparative Contract Law,* London: Edward Elgar Publishing.
-* Blok, Vincent, 2013, “The Power of Speech Acts: Reflections on a Performative Concept of Ethical Oaths in Economics and Business”, *Review of Social Economy*, 71(2): 187–208. doi:10.1080/00346764.2013.799965
-* Brake, Elizabeth, 2011, “Is Divorce Promise-Breaking?”, *Ethical Theory and Moral Practice*, 14(1): 23–39. doi:10.1007/s10677-009-9217-z
-* –––, 2012, *Minimizing Marriage: Marriage, Morality, and the Law*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199774142.001.0001
+* Blok, Vincent, 2013, “The Power of Speech Acts: Reflections on a Performative Concept of Ethical Oaths in Economics and Business”, *Review of Social Economy*, 71(2): 187–208. doi: 10.1080/00346764.2013.799965
+* Brake, Elizabeth, 2011, “Is Divorce Promise-Breaking?”, *Ethical Theory and Moral Practice*, 14(1): 23–39. doi: 10.1007/s10677-009-9217-z
+* –––, 2012, *Minimizing Marriage: Marriage, Morality, and the Law*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199774142.001.0001
 * Brandt, Richard B., 1959, *Ethical Theory: The Problems of Normative and Critical Ethics*, Englewood Cliffs, NJ: Prentice-Hall.
 * –––, 1979, *Theory of the Good and the Right*, Oxford: Clarendon Press.
 * Boonin, D., 2019, *Dead Wrong: The Ethics of Posthumous Harm*. Oxford: Oxford University Press.
-* Carassa, Antonella and Marco Colombetti, 2014, “Interpersonal Responsibilities and Communicative Intentions”, *Phenomenology and the Cognitive Sciences*, 13(1): 145–159. doi:10.1007/s11097-013-9325-z
-* Cargile, James, 1964, “Utilitarianism and the Desert Island Problem”, *Analysis*, 25(1): 23–24. doi:10.1093/analys/25.1.23
+* Carassa, Antonella and Marco Colombetti, 2014, “Interpersonal Responsibilities and Communicative Intentions”, *Phenomenology and the Cognitive Sciences*, 13(1): 145–159. doi: 10.1007/s11097-013-9325-z
+* Cargile, James, 1964, “Utilitarianism and the Desert Island Problem”, *Analysis*, 25(1): 23–24. doi: 10.1093/analys/25.1.23
 * Chang, Ruth, 2013, “Commitments, Reasons, and the Will”, in *Oxford Studies in Metaethics, Volume 8*, Oxford: Oxford University Press, pp. 74–113.
-* –––, 2020, “Do We Have Normative Powers?”, *Aristotelian Society Supplementary Volume*, 94: 275–300. doi:10.1093/arisup/akaa012
+* –––, 2020, “Do We Have Normative Powers?”, *Aristotelian Society Supplementary Volume*, 94: 275–300. doi: 10.1093/arisup/akaa012
 * Cholbi, Michael, 2014, “A Plethora of Promises—or None at All”, *American Philosophical Quarterly*, 51(3): 261–272.
-* –––, 2015, “On Marcus Singer’s ‘On Duties to Oneself’”, *Ethics*, 125(3): 851–853. doi:10.1086/679554
+* –––, 2015, “On Marcus Singer’s ‘On Duties to Oneself’”, *Ethics*, 125(3): 851–853. doi: 10.1086/679554
 * Chwang, Eric, 2011, “On Coerced Promises”, in Sheinman 2011: 156–179 (ch. 6).
 * Cicero, 44 BCE, *De Officiis*. Printed with an English translation as *On Duties*, by Walter Miller, (Loeb Classical Library, 30), Cambridge, MA: Harvard University Press, 1913.
-* Cohon, Rachel, 2006, “Hume on Promises and the Peculiar Act of the Mind”, *Journal of the History of Philosophy*, 44(1): 25–45. doi:10.1353/hph.2006.0007
-* –––, 2021, “Hume’s Practice Theory of Promises and Its Dissimilar Descendants”, *Synthese*, 199(1–2): 617–635. doi:10.1007/s11229-020-02684-2
-* Conee, Earl, 2000, “The Moral Value in Promises”, *Philosophical Review*, 109(3): 411–422. doi:10.1215/00318108-109-3-411
+* Cohon, Rachel, 2006, “Hume on Promises and the Peculiar Act of the Mind”, *Journal of the History of Philosophy*, 44(1): 25–45. doi: 10.1353/hph.2006.0007
+* –––, 2021, “Hume’s Practice Theory of Promises and Its Dissimilar Descendants”, *Synthese*, 199(1–2): 617–635. doi: 10.1007/s11229-020-02684-2
+* Conee, Earl, 2000, “The Moral Value in Promises”, *Philosophical Review*, 109(3): 411–422. doi: 10.1215/00318108-109-3-411
 * Corredor, Cristina, 2001, “A Comment on Threats and Communicative Rationality”, *Theoria. Revista de Teoría, Historia y Fundamentos de La Ciencia*, 16(1): 147–166.
-* Cowley, Christopher, 2020, “Divorce, Disorientation, and Remarriage”, *Ethical Theory and Moral Practice*, 23(3–4): 531–544. doi:10.1007/s10677-019-10036-4
-* Cupit, Geoffrey, 1994, “How Requests (And Promises) Create Obligations”, *The Philosophical Quarterly*, 44(177): 439–455. doi:10.2307/2220244
-* Cureton, Adam, 2015, “Making Room for Rules”, *Philosophical Studies*, 172(3): 737–759. doi:10.1007/s11098-014-0331-y
-* Dannenberg, Jorah, 2015, “Promising Ourselves, Promising Others”, *The Journal of Ethics*, 19(2): 159–183. doi:10.1007/s10892-015-9192-7
-* –––, 2019, “Promising as Doxastic Entrustment”, *The Journal of Ethics*, 23(4): 425–447. doi:10.1007/s10892-019-09304-3
+* Cowley, Christopher, 2020, “Divorce, Disorientation, and Remarriage”, *Ethical Theory and Moral Practice*, 23(3–4): 531–544. doi: 10.1007/s10677-019-10036-4
+* Cupit, Geoffrey, 1994, “How Requests (And Promises) Create Obligations”, *The Philosophical Quarterly*, 44(177): 439–455. doi: 10.2307/2220244
+* Cureton, Adam, 2015, “Making Room for Rules”, *Philosophical Studies*, 172(3): 737–759. doi: 10.1007/s11098-014-0331-y
+* Dannenberg, Jorah, 2015, “Promising Ourselves, Promising Others”, *The Journal of Ethics*, 19(2): 159–183. doi: 10.1007/s10892-015-9192-7
+* –––, 2019, “Promising as Doxastic Entrustment”, *The Journal of Ethics*, 23(4): 425–447. doi: 10.1007/s10892-019-09304-3
 * Darwall, Stephen, 2006, *The Second Person Standpoint: Morality, Respect, and Accountability*, Cambridge, MA: Harvard University Press.
-* –––, 2009, “Authority and Second-Personal Reasons for Acting”, in Sobel and Wall 2009: 134–154. doi:10.1017/CBO9780511720185.007
+* –––, 2009, “Authority and Second-Personal Reasons for Acting”, in Sobel and Wall 2009: 134–154. doi: 10.1017/CBO9780511720185.007
 * –––, 2011, “Demystifying Promises”, in Sheinman 2011: 256–274 (ch. 11).
-* Deigh, John, 2002, “Promises under Fire”, *Ethics*, 112(3): 483–506. doi:10.1086/338483
+* Deigh, John, 2002, “Promises under Fire”, *Ethics*, 112(3): 483–506. doi: 10.1086/338483
 * Diggs, B.J., 1970, “A Comment on ‘Some Merits of One Form of Utilitarianism’”, in *Readings in Contemporary Ethical Theory*, Kenneth Pahel and Marvin Schiller (eds.), Englewood Cliffs, NJ: Prentice Hall, 307–317.
-* Dougherty, Tom, 2015, “Yes Means Yes : Consent as Communication”, *Philosophy & Public Affairs*, 43(3): 224–253. doi:10.1111/papa.12059
-* Downie, R. S., 1985, “Three Accounts of Promising”, *The Philosophical Quarterly*, 35(140): 259–271. doi:10.2307/2218905
-* Dressel, Ashley, 2015, “‘Directed Obligations and the Trouble with Deathbed Promises’”, *Ethical Theory and Moral Practice*, 18(2): 323–335. doi:10.1007/s10677-014-9520-1
+* Dougherty, Tom, 2015, “Yes Means Yes : Consent as Communication”, *Philosophy & Public Affairs*, 43(3): 224–253. doi: 10.1111/papa.12059
+* Downie, R. S., 1985, “Three Accounts of Promising”, *The Philosophical Quarterly*, 35(140): 259–271. doi: 10.2307/2218905
+* Dressel, Ashley, 2015, “‘Directed Obligations and the Trouble with Deathbed Promises’”, *Ethical Theory and Moral Practice*, 18(2): 323–335. doi: 10.1007/s10677-014-9520-1
 * Driver, Julia, 2011, “Promising Too Much”, in Sheinman 2011: 183–195 (ch. 7).
-* Dunn, John, 1984, “The Concept of ‘Trust’ in the Politics of John Locke”, in *Philosophy in History: Essays in the Historiography of Philosophy*, Richard Rorty, Jerome B. Schneewind, and Quentin Skinner (eds.), Cambridge: Cambridge University Press, pp. 279–302. doi:10.1017/CBO9780511625534.015
+* Dunn, John, 1984, “The Concept of ‘Trust’ in the Politics of John Locke”, in *Philosophy in History: Essays in the Historiography of Philosophy*, Richard Rorty, Jerome B. Schneewind, and Quentin Skinner (eds.), Cambridge: Cambridge University Press, pp. 279–302. doi: 10.1017/CBO9780511625534.015
 * Dworkin, Ronald, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
-* Eggleston, Ben, 2007, “Conflicts of Rules in Hooker’s Rule-Consequentialism”, *Canadian Journal of Philosophy*, 37(3): 329–349. doi:10.1353/cjp.2007.0026
+* Eggleston, Ben, 2007, “Conflicts of Rules in Hooker’s Rule-Consequentialism”, *Canadian Journal of Philosophy*, 37(3): 329–349. doi: 10.1353/cjp.2007.0026
 * Encarnacion, E, 2018, “Contract as Commodified Promise” *Vanderbilt Law Rev.*, 71: 61.
-* Feinberg, Joel, 1970, “The Nature and Value of Rights”, *The Journal of Value Inquiry*, 4(4): 243–260. doi:10.1007/BF00137935
+* Feinberg, Joel, 1970, “The Nature and Value of Rights”, *The Journal of Value Inquiry*, 4(4): 243–260. doi: 10.1007/BF00137935
 * Finnis, John, 1980, *Natural Law and Natural Rights*, Oxford: Clarendon Press.
 * Fleming, Lauren, 2009, “The normativity of personal commitment”, Ph.D. Thesis, Georgetown University. \[[Fleming 2009 available online](http://hdl.handle.net/10822/553193)]
-* Flew, Anthony, 1964, “On Not Deriving ‘ought’ from ‘Is’”, *Analysis*, 25(2): 25–32. doi:10.1093/analys/25.2.25
-* Foot, Philippa, 2001, *Natural Goodness*, Oxford: Clarendon Press. doi:10.1093/0198235089.001.0001
-* Fried, Charles, 1981 \[2015], *Contract as Promise: A Theory of Contractual Obligation*, Cambridge, MA: Harvard University Press. Second edition with new preface and postscript, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190240158.001.0001
+* Flew, Anthony, 1964, “On Not Deriving ‘ought’ from ‘Is’”, *Analysis*, 25(2): 25–32. doi: 10.1093/analys/25.2.25
+* Foot, Philippa, 2001, *Natural Goodness*, Oxford: Clarendon Press. doi: 10.1093/0198235089.001.0001
+* Fried, Charles, 1981 \[2015], *Contract as Promise: A Theory of Contractual Obligation*, Cambridge, MA: Harvard University Press. Second edition with new preface and postscript, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190240158.001.0001
 * Friedrich, D. & Southwood, N., 2009, “Promises beyond assurance”, *Philosophical studies*, 144(2): 261–280.
 * –––, 2011, “Promises and Trust”, in Sheinman 2011: 277–294 (ch. 12).
-* Fruh, Kyle, 2014, “The Power to Promise Oneself”, *The Southern Journal of Philosophy*, 52(1): 61–85. doi:10.1111/sjp.12048
-* –––, 2019, “Promising’s Neglected Siblings: Oaths, Vows, and Promissory Obligation”, *Pacific Philosophical Quarterly*, 100(3): 858–880. doi:10.1111/papq.12286
-* Fuller, L. L. and William R. Perdue, 1936, “The Reliance Interest in Contract Damages: 1”, *The Yale Law Journal*, 46(1): 52–96. doi:10.2307/791632
-* –––, 1937, “The Reliance Interest in Contract Damages: 2”, *The Yale Law Journal*, 46(3): 373–420. doi:10.2307/791834
+* Fruh, Kyle, 2014, “The Power to Promise Oneself”, *The Southern Journal of Philosophy*, 52(1): 61–85. doi: 10.1111/sjp.12048
+* –––, 2019, “Promising’s Neglected Siblings: Oaths, Vows, and Promissory Obligation”, *Pacific Philosophical Quarterly*, 100(3): 858–880. doi: 10.1111/papq.12286
+* Fuller, L. L. and William R. Perdue, 1936, “The Reliance Interest in Contract Damages: 1”, *The Yale Law Journal*, 46(1): 52–96. doi: 10.2307/791632
+* –––, 1937, “The Reliance Interest in Contract Damages: 2”, *The Yale Law Journal*, 46(3): 373–420. doi: 10.2307/791834
 * Gaius, c. 161 CE, *Institutiones*. Translated as *The Institutes of Gaius*, W.M. Gordon and O.F. Robinson (trans.), Latin and English, London: Duckworth, 1988.
 * Gauthier, David, 1986, *Morals by Agreement*, Oxford: Clarendon Press.
-* –––, 1992, “Artificial Virtues and the Sensible Knave”, *Hume Studies*, 18(2): 401–427. doi:10.1353/hms.2011.0388
-* Gheaus, Anca, 2017, “Love and Justice: A Paradox?”, *Canadian Journal of Philosophy*, 47(6): 739–759. doi:10.1080/00455091.2017.1319656
-* Gibbard, Allan F., 1965, “Rule-Utilitarianism: Merely an Illusory Alternative?”, *Australasian Journal of Philosophy*, 43(2): 211–220. doi:10.1080/00048406512341181
-* Gilbert, Margaret, 1990, “Walking Together: A Paradigmatic Social Phenomenon”, *Midwest Studies in Philosophy*, 15: 1–14. doi:10.1111/j.1475-4975.1990.tb00202.x
-* –––, 1993, “Is an Agreement an Exchange of Promises?”, *The Journal of Philosophy*, 90(12): 627–649. doi:10.2307/2940815
+* –––, 1992, “Artificial Virtues and the Sensible Knave”, *Hume Studies*, 18(2): 401–427. doi: 10.1353/hms.2011.0388
+* Gheaus, Anca, 2017, “Love and Justice: A Paradox?”, *Canadian Journal of Philosophy*, 47(6): 739–759. doi: 10.1080/00455091.2017.1319656
+* Gibbard, Allan F., 1965, “Rule-Utilitarianism: Merely an Illusory Alternative?”, *Australasian Journal of Philosophy*, 43(2): 211–220. doi: 10.1080/00048406512341181
+* Gilbert, Margaret, 1990, “Walking Together: A Paradigmatic Social Phenomenon”, *Midwest Studies in Philosophy*, 15: 1–14. doi: 10.1111/j.1475-4975.1990.tb00202.x
+* –––, 1993, “Is an Agreement an Exchange of Promises?”, *The Journal of Philosophy*, 90(12): 627–649. doi: 10.2307/2940815
 * –––, 2011, “Three Dogmas about Promising”, in Sheinman 2011: 81–108 (ch. 3).
-* –––, 2013, *Joint Commitment: How We Make the Social World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199970148.001.0001
+* –––, 2013, *Joint Commitment: How We Make the Social World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199970148.001.0001
 * Gill, M. B., 2012, “The non-consequentialist moral force of promises: a response to Sinnott-Armstrong”, *Analysis*, 72(3): 506–513.
-* Goldman, Holly S., 1974, “David Lyons on Utilitarian Generalization”, *Philosophical Studies*, 26(2): 77–95. doi:10.1007/BF00355261
+* Goldman, Holly S., 1974, “David Lyons on Utilitarian Generalization”, *Philosophical Studies*, 26(2): 77–95. doi: 10.1007/BF00355261
 * Gordley, James, 1991, *The Philosophical Origins of Modern Contract Doctrine*, Oxford: Clarendon Press.
 * Grotius, Hugo, 1625 \[1901], *De Jure Belli ac Pacis Libri Tres*, Paris: Buon. Translated as *The Rights of War and Peace*, A.C. Campbell (trans.), Washington, DC: M. Walter Dunne, 1901.
-* Habib, Allen, 2009, “Promises to the Self”, *Canadian Journal of Philosophy*, 39(4): 537–558. doi:10.1353/cjp.0.0061
-* Hampton, Jean, 1987, *Hobbes and the Social Contract Tradition*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625060
-* Hanfling, Oswald, 1975, “Promises, Games and Institutions”, *Proceedings of the Aristotelian Society*, 75: 13–32. doi:10.1093/aristotelian/75.1.13
+* Habib, Allen, 2009, “Promises to the Self”, *Canadian Journal of Philosophy*, 39(4): 537–558. doi: 10.1353/cjp.0.0061
+* Hampton, Jean, 1987, *Hobbes and the Social Contract Tradition*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625060
+* Hanfling, Oswald, 1975, “Promises, Games and Institutions”, *Proceedings of the Aristotelian Society*, 75: 13–32. doi: 10.1093/aristotelian/75.1.13
 * Hardin, Russell, 1988, *Morality within the Limits of Reason*, Chicago, IL: University of Chicago Press.
 * Hare, R. M., 1964, “The Promising Game”, *Revue Internationale de Philosophie*, 18(70): 398–412. Reprinted in *The Is-Ought Question: A Collection of Papers on the Central Problems in Moral Philosophy* , W. D. Hudson (ed.), London: Macmillan, 1969, pp. 144–156.
 * Harris, Daniel W. and Rachel McKinney, 2021, “Speech-Act Theory”, *The Routledge Handbook of Social and Political Philosophy of Language*, Justin Khoo and Rachel Sterken (eds.), London: Routledge, ch. 5.
-* Harsanyi, John C., 1955, “Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility”, *Journal of Political Economy*, 63(4): 309–321. doi:10.1086/257678
-* Hart, H. L. A., 1955, “Are There Any Natural Rights?”, *Philosophical Review*, 64(2): 175–191. doi:10.2307/2182586
+* Harsanyi, John C., 1955, “Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility”, *Journal of Political Economy*, 63(4): 309–321. doi: 10.1086/257678
+* Hart, H. L. A., 1955, “Are There Any Natural Rights?”, *Philosophical Review*, 64(2): 175–191. doi: 10.2307/2182586
 * –––, 1958, “Legal and Moral Obligations” in *Essays in Moral Philosophy*, A.I. Melden, (ed.), Seattle, WA: University of Washington Press, 82–107.
-* Helmreich, Jeffrey S., 2018, “The Bounds of Morality: Gilbert on Promissory Obligation”, *ProtoSociology*, 35: 217–234. doi:10.5840/protosociology20183512
+* Helmreich, Jeffrey S., 2018, “The Bounds of Morality: Gilbert on Promissory Obligation”, *ProtoSociology*, 35: 217–234. doi: 10.5840/protosociology20183512
 * Hill, Thomas E., Jr, 1991, “Promises to Oneself”, in his *Autonomy and Self Respect*, Cambridge: Cambridge University Press, pp. 138–154.
 * Hobbes, Thomas, 1651 \[1991], *Leviathan*, London. Reprinted, Richard Tuck (ed.), Cambridge: Cambridge University Press, 1991.
 * Hodgson, David H., 1967, *Consequences of Utilitarianism: A Study in Normative Ethics and Legal Theory*, Oxford: Clarendon Press.
-* Hoekstra, Kinch, 1997, “Hobbes and the Foole”, *Political Theory*, 25(5): 620–654. doi:10.1177/0090591797025005002
+* Hoekstra, Kinch, 1997, “Hobbes and the Foole”, *Political Theory*, 25(5): 620–654. doi: 10.1177/0090591797025005002
 * Hohfeld, Wesley Newcomb, 1919, *Some Fundamental Legal Conceptions as Applied in Judicial Reasonings*, Walter Wheeler Cook (ed.), New Haven, CT: Yale University Press.
-* Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-Consequentialist Theory of Morality*, Oxford: Clarendon Press. doi:10.1093/0199256578.001.0001
+* Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-Consequentialist Theory of Morality*, Oxford: Clarendon Press. doi: 10.1093/0199256578.001.0001
 * –––, 2011, “Promises and Rule-Consequentialism”, in Sheinman 2011: 238–254 (ch. 10).
 * Hume, David A., 1739–40, *A Treatise of Human Nature*, London. Reprinted, L. A. Selby-Bigge (ed.), London: Oxford University Press, 1896. Second edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.
-* Ibbetson, D. J., 1999, *A Historical Introduction to the Law of Obligations*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198764113.001.0001
-* Jones, David H., 1966, “Making and Keeping Promises”, *Ethics*, 76(4): 287–296. doi:10.1086/291598
+* Ibbetson, D. J., 1999, *A Historical Introduction to the Law of Obligations*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198764113.001.0001
+* Jones, David H., 1966, “Making and Keeping Promises”, *Ethics*, 76(4): 287–296. doi: 10.1086/291598
 * Kant, Immanuel, 1785 \[1990], *Grundlegung zur Metaphysik der Sitten*, Riga. Translated as *Foundations of the Metaphysics of Morals* in *Foundations of the Metaphysics of Morals and, What is Enlightenment*, Lewis White Beck (trans.), New York: Macmillan.
-* Kanygina, Yuliya, forthcoming, “Duties to Oneself and Their Alleged Incoherence”, *Australasian Journal of Philosophy*, first online: 10 May 2021q. doi:10.1080/00048402.2021.1909086
-* Kavka, Gregory S., 1995, “The Rationality of Rule-Following: Hobbes’s Dispute with the Foole”, *Law and Philosophy*, 14(1): 5–34. doi:10.1007/BF01000523
-* Kenessey, Brendan de, 2020, “Promises as Proposals in Joint Practical Deliberation”, *Noûs*, 54(1): 204–232. doi:10.1111/nous.12269
+* Kanygina, Yuliya, forthcoming, “Duties to Oneself and Their Alleged Incoherence”, *Australasian Journal of Philosophy*, first online: 10 May 2021q. doi: 10.1080/00048402.2021.1909086
+* Kavka, Gregory S., 1995, “The Rationality of Rule-Following: Hobbes’s Dispute with the Foole”, *Law and Philosophy*, 14(1): 5–34. doi: 10.1007/BF01000523
+* Kenessey, Brendan de, 2020, “Promises as Proposals in Joint Practical Deliberation”, *Noûs*, 54(1): 204–232. doi: 10.1111/nous.12269
 * Kimel, Dori, 2003, *From Promise to Contract: Toward a Liberal Theory of Contract*, Oxford: Hart Publishing.
 * –––, forthcoming, “The Next Best Thing to a Promise”, in *Private Law and Practical Reason: Essays on John Gardner’s Private Law Theory*, Haris Psarras and Sandy Steel (eds.), Oxford: Oxford University Press.
-* Kolodny, Niko and R. Jay Wallace, 2003, “Promises and Practices Revisited”, *Philosophy & Public Affairs*, 31(2): 119–154. doi:10.1111/j.1088-4963.2003.00119.x
-* Korsgaard, Christine M., 2007, “Autonomy and the Second Person Within: A Commentary on Stephen Darwall’s *The Second‐Person Standpoint*”, *Ethics*, 118(1): 8–23. doi:10.1086/522019
+* Kolodny, Niko and R. Jay Wallace, 2003, “Promises and Practices Revisited”, *Philosophy & Public Affairs*, 31(2): 119–154. doi: 10.1111/j.1088-4963.2003.00119.x
+* Korsgaard, Christine M., 2007, “Autonomy and the Second Person Within: A Commentary on Stephen Darwall’s *The Second‐Person Standpoint*”, *Ethics*, 118(1): 8–23. doi: 10.1086/522019
 * Kurji, Aadil Hanif, 2013, “An Update Semantics for Promises and Other Obligation-Creating Speech Acts: A Promising Start”, MSc Thesis, University of Amsterdam.
-* Leonard, Nick, forthcoming, “Promises and all of the people who rely on them”, *Journal of Social Philosophy*, first online: 06 May 2021. doi:10.1111/josp.12412
+* Leonard, Nick, forthcoming, “Promises and all of the people who rely on them”, *Journal of Social Philosophy*, first online: 06 May 2021. doi: 10.1111/josp.12412
 * Lewis, David, 1969, *Convention, a Philosophical Study*, Cambridge, MA: Harvard University Press.
-* –––, 1972, “Utilitarianism and Truthfulness”, *Australasian Journal of Philosophy*, 50(1): 17–19. doi:10.1080/00048407212341021
+* –––, 1972, “Utilitarianism and Truthfulness”, *Australasian Journal of Philosophy*, 50(1): 17–19. doi: 10.1080/00048407212341021
 * Liberman, Alida, 2015, “The Mental States First Theory of Promising”, Ph.D. Thesis, University of Southern California.
-* –––, 2017, “Reconsidering Resolutions”, *Journal of Ethics and Social Philosophy*, 10(2): 1–27. doi:10.26556/jesp.v10i2.98
-* –––, 2019, “On the Rationality of Vow‐making”, *Pacific Philosophical Quarterly*, 100(3): 881–900. doi:10.1111/papq.12287
+* –––, 2017, “Reconsidering Resolutions”, *Journal of Ethics and Social Philosophy*, 10(2): 1–27. doi: 10.26556/jesp.v10i2.98
+* –––, 2019, “On the Rationality of Vow‐making”, *Pacific Philosophical Quarterly*, 100(3): 881–900. doi: 10.1111/papq.12287
 * –––, 2020, “Consequentialism and Promises”, in *Oxford Handbook of Consequentialism*, Douglas W. Portmore (ed.), Oxford: Oxford University Press, pp. 289–309.
-* –––, 2021, “For Better or for Worse: When Are Uncertain Wedding Vows Permissible?”, *Social Theory and Practice*, 47(4): 765–788. doi:10.5840/soctheorpract2021923141
-* Liberto, Hallie, 2016a, “Promises, Release-Seeking, and Exploitation: What We Should Not Do To Get Off the Hook”, *The Southern Journal of Philosophy*, 54: 143–165. doi:10.1111/sjp.12191
+* –––, 2021, “For Better or for Worse: When Are Uncertain Wedding Vows Permissible?”, *Social Theory and Practice*, 47(4): 765–788. doi: 10.5840/soctheorpract2021923141
+* Liberto, Hallie, 2016a, “Promises, Release-Seeking, and Exploitation: What We Should Not Do To Get Off the Hook”, *The Southern Journal of Philosophy*, 54: 143–165. doi: 10.1111/sjp.12191
 * –––, 2016b, “Against a Unified Account” *Oxford Studies in Normative Ethics, Volume* 6(6): 102.
 * –––, 2018, “Promises and the Backward Reach of Uptake”, *American Philosophical Quarterly*, 55(1): 15–26.
-* Lichter, Andrew, 2021, “Promises, Intentions, and Reasons for Action”, *Ethics*, 132(1): 218–231. doi:10.1086/715285
+* Lichter, Andrew, 2021, “Promises, Intentions, and Reasons for Action”, *Ethics*, 132(1): 218–231. doi: 10.1086/715285
 * Locke, John, 1689 \[1988], *Two Treatises of Government*, London. Reprinted, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1988.
 * Lyons, David, 1965, *Forms and Limits of Utilitarianism*, Oxford: Clarendon Press.
-* MacCormick, Neil, 1972, “Voluntary Obligations and Normative Powers I”, *Aristotelian Society Supplementary Volume*, 46: 59–78. doi:10.1093/aristoteliansupp/46.1.59
+* MacCormick, Neil, 1972, “Voluntary Obligations and Normative Powers I”, *Aristotelian Society Supplementary Volume*, 46: 59–78. doi: 10.1093/aristoteliansupp/46.1.59
 * MacMahon, P, 2018, “Conflict and contract law”. *Oxford Journal of Legal Studies* 38(2): 270–299.
-* Markovits, Daniel, 2004, “Contract and Collaboration”, *The Yale Law Journal*, 113(7): 1417–1518. doi:10.2307/4135772
+* Markovits, Daniel, 2004, “Contract and Collaboration”, *The Yale Law Journal*, 113(7): 1417–1518. doi: 10.2307/4135772
 * –––, 2011, “Promise as an Arm’s-Length Relation”, in Sheinman 2011: 296–326 (ch. 13).
-* –––, 2020, “Contract as collaboration”, in *Research Handbook on Private Law Theory*. London:Edward Elgar Publishing.
+* –––, 2020, “Contract as collaboration”, in *Research Handbook on Private Law Theory*. London: Edward Elgar Publishing.
 * Markovits, Daniel and Alan Schwartz, 2012, “The Expectation Remedy and the Promissory Basis of Contract”, *Suffolk University Law Review*, 45(3): 799–825.
-* Mason, Elinor, 2005, “We Make No Promises”, *Philosophical Studies*, 123(1–2): 33–46. doi:10.1007/s11098-004-5219-9
-* McBride, Mark, 2015, “Raz, Practical Inferences, Promising, Legal Reasoning”, *Ratio Juris*, 28(2): 286–292. doi:10.1111/raju.12082
-* McNeilly, F. S., 1972, “Promises De-Moralized”, *Philosophical Review*, 81(1): 63–81. doi:10.2307/2184226
+* Mason, Elinor, 2005, “We Make No Promises”, *Philosophical Studies*, 123(1–2): 33–46. doi: 10.1007/s11098-004-5219-9
+* McBride, Mark, 2015, “Raz, Practical Inferences, Promising, Legal Reasoning”, *Ratio Juris*, 28(2): 286–292. doi: 10.1111/raju.12082
+* McNeilly, F. S., 1972, “Promises De-Moralized”, *Philosophical Review*, 81(1): 63–81. doi: 10.2307/2184226
 * Melden, A. I., 1977, *Rights and Persons*, Berkeley, CA: University of California Press.
-* Melenovsky, CM, 2017, “Promises, Practices and Reciprocity”, *The Philosophical Quarterly*, 67(266):106–126, https://doi.org/10.1093/pq/pqw041
+* Melenovsky, CM, 2017, “Promises, Practices and Reciprocity”, *The Philosophical Quarterly*, 67(266): 106–126, https://doi.org/10.1093/pq/pqw041
 * Menetrez, Frank, 1999, “Consequentialism, Promissory Obligation, and the Theory of Efficient Breach”, *UCLA Law Review*, 47(3): 859–885.
-* Midgley, Mary, 1974, “The Game Game”, *Philosophy*, 49(189): 231–253. doi:10.1017/S0031819100048208
-* Migotti, Mark, 2003, “All Kinds of Promises”, *Ethics*, 114(1): 60–87. doi:10.1086/376716
+* Midgley, Mary, 1974, “The Game Game”, *Philosophy*, 49(189): 231–253. doi: 10.1017/S0031819100048208
+* Migotti, Mark, 2003, “All Kinds of Promises”, *Ethics*, 114(1): 60–87. doi: 10.1086/376716
 * Miles, Steven H., 2005, *The Hippocratic Oath and the Ethics of Medicine*, Oxford: Oxford University Press.
-* Molina, Crescente, 2019, “Is There Value in Keeping a Promise? A Response to Joseph Raz”, *Journal of Ethics and Social Philosophy*, 15(1): 85–90. doi:10.26556/jesp.v15i1.616
-* Muñoz, Daniel, 2021, “From Rights to Prerogatives”, *Philosophy and Phenomenological Research*, 102(3): 608–623. doi:10.1111/phpr.12682
+* Molina, Crescente, 2019, “Is There Value in Keeping a Promise? A Response to Joseph Raz”, *Journal of Ethics and Social Philosophy*, 15(1): 85–90. doi: 10.26556/jesp.v15i1.616
+* Muñoz, Daniel, 2021, “From Rights to Prerogatives”, *Philosophy and Phenomenological Research*, 102(3): 608–623. doi: 10.1111/phpr.12682
 * Murphy, Liam, 2020, “The Artificial Morality of Private Law: The Persistence of an Illusion”, *University of Toronto Law Journal*, 70(4): 453–488.
-* Narveson, Jan, 1963, “The Desert-Island Problem”, *Analysis*, 23(3): 63–67. doi:10.1093/analys/23.3.63
+* Narveson, Jan, 1963, “The Desert-Island Problem”, *Analysis*, 23(3): 63–67. doi: 10.1093/analys/23.3.63
 * –––, 1967, *Morality and Utility*, Baltimore, MD: Johns Hopkins University Press.
-* –––, 1971, “Promising, Expecting, and Utility”, *Canadian Journal of Philosophy*, 1(2): 207–233. doi:10.1080/00455091.1971.10716017
+* –––, 1971, “Promising, Expecting, and Utility”, *Canadian Journal of Philosophy*, 1(2): 207–233. doi: 10.1080/00455091.1971.10716017
 * –––, 1988, *The Libertarian Idea*, Philadelphia, PA: Temple University Press.
 * Nieswandt, K, 2017, “Anscombe on the Sources of Normativity”, *The Journal of Value Inquiry*, 51(1): 141–163.
-* –––, 2019a, “What Is Conventionalism about Moral Rights and Duties?”, *Australasian Journal of Philosophy*, 97(1): 15–28. doi:10.1080/00048402.2018.1425306
-* –––, 2019b, “Authority and Interest in the Theory of Right”, in *Dimensions of Normativity: New Essays on Metaethics and Jurisprudence*, David Plunkett, Scott J. Shapiro, and Kevin Toh (eds.), New York: Oxford University Press, 315–334. doi:10.1093/oso/9780190640408.003.0014
+* –––, 2019a, “What Is Conventionalism about Moral Rights and Duties?”, *Australasian Journal of Philosophy*, 97(1): 15–28. doi: 10.1080/00048402.2018.1425306
+* –––, 2019b, “Authority and Interest in the Theory of Right”, in *Dimensions of Normativity: New Essays on Metaethics and Jurisprudence*, David Plunkett, Scott J. Shapiro, and Kevin Toh (eds.), New York: Oxford University Press, 315–334. doi: 10.1093/oso/9780190640408.003.0014
 * Nietzsche, Friedrich, 1887 \[1967], *Zur Genealogie der Moral: Eine Streitschrift*, Leipzig. Translated as *On the Genealogy of Morals*, Walter Kaufmann and R.J. Hollingdale (trans), New York: Vintage Books.
 * Norcross, Alastair, 2011, “Act-utilitarianism and Promissory Obligation”, in Sheinman 2011: 218–233 (ch. 9).
 * Nowell-Smith, P.H., 1956, *Ethics*, London: Penguin Books.
 * Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
 * Osmola, Szymon, 2018, “Promises to Unidentified Individuals”, *Principia*, 65: 91–111.
-* Owens, David, 2006, “A Simple Theory of Promising”, *Philosophical Review*, 115(1): 51–77. doi:10.1215/00318108-2005-002
-* –––, 2007, “Duress, Deception, and the Validity of a Promise”, *Mind*, 116(462): 293–315. doi:10.1093/mind/fzm293
-* –––, 2008, “Promising without Intending”, *Journal of Philosophy*, 105(12): 737–755. doi:10.5840/jphil20081051217
+* Owens, David, 2006, “A Simple Theory of Promising”, *Philosophical Review*, 115(1): 51–77. doi: 10.1215/00318108-2005-002
+* –––, 2007, “Duress, Deception, and the Validity of a Promise”, *Mind*, 116(462): 293–315. doi: 10.1093/mind/fzm293
+* –––, 2008, “Promising without Intending”, *Journal of Philosophy*, 105(12): 737–755. doi: 10.5840/jphil20081051217
 * –––, 2011, “The Problem with Promising”, in Sheinman 2011: 59–79 (ch. 2).
-* –––, 2012, *Shaping the Normative Landscape*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199691500.001.0001
-* Peetz, Vera, 1977, “Promises and Threats”, *Mind*, 86(344): 578–581. doi:10.1093/mind/LXXXVI.344.578
-* Pickard-Cambridge, W. A., 1932, “Two Problems about Duty”, *Mind*, 41(161): 72–96, 41(162): 145–172, 41(163): 311–340. doi:10.1093/mind/XLI.161.72 doi:10.1093/mind/XLI.162.145 doi:10.1093/mind/XLI.163.311
-* Pink, Thomas, 2009, “Promising and Obligation”, *Philosophical Perspectives*, 23: 389–420. doi:10.1111/j.1520-8583.2009.00177.x
+* –––, 2012, *Shaping the Normative Landscape*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199691500.001.0001
+* Peetz, Vera, 1977, “Promises and Threats”, *Mind*, 86(344): 578–581. doi: 10.1093/mind/LXXXVI.344.578
+* Pickard-Cambridge, W. A., 1932, “Two Problems about Duty”, *Mind*, 41(161): 72–96, 41(162): 145–172, 41(163): 311–340. doi: 10.1093/mind/XLI.161.72 doi: 10.1093/mind/XLI.162.145 doi: 10.1093/mind/XLI.163.311
+* Pink, Thomas, 2009, “Promising and Obligation”, *Philosophical Perspectives*, 23: 389–420. doi: 10.1111/j.1520-8583.2009.00177.x
 * Pitcher, George, 1984, “The Misfortunes of the Dead”, *American Philosophical Quarterly*, 21(2): 183–188.
-* Pitson, Anthony E., 1988, “Hume on Promises and Their Obligation”, *Hume Studies*, 14(1): 176–190. doi:10.1353/hms.2011.0514
+* Pitson, Anthony E., 1988, “Hume on Promises and Their Obligation”, *Hume Studies*, 14(1): 176–190. doi: 10.1353/hms.2011.0514
 * Pratt, Michael G., 2003, “Promises and Perlocutions”, in *Scanlon and Contractualism: Readings and Responses*, Matt Matravers (ed.), London: Frank Cass Publishers, pp. 93–119.
-* –––, 2007, “Promises, Contracts and Voluntary Obligations”, *Law and Philosophy*, 26(6): 531–574. doi:10.1007/s10982-006-9003-1
-* –––, 2014, “Some Features of Promises and Their Obligations”, *The Southern Journal of Philosophy*, 52(3): 382–402. doi:10.1111/sjp.12080
-* Prichard, H.A., 1949 \[2002], “The Obligation to Keep a Promise”, written around 1940, collected in his *Moral Obligation: Essays and Lectures*, Oxford: Clarendon Press, 1949. Reprinted in his *Moral Writings*, Jim MacAdam (ed.), Oxford: Clarendon Press, 2002, pp. 257–266. doi:10.1093/0199250197.003.0012
+* –––, 2007, “Promises, Contracts and Voluntary Obligations”, *Law and Philosophy*, 26(6): 531–574. doi: 10.1007/s10982-006-9003-1
+* –––, 2014, “Some Features of Promises and Their Obligations”, *The Southern Journal of Philosophy*, 52(3): 382–402. doi: 10.1111/sjp.12080
+* Prichard, H.A., 1949 \[2002], “The Obligation to Keep a Promise”, written around 1940, collected in his *Moral Obligation: Essays and Lectures*, Oxford: Clarendon Press, 1949. Reprinted in his *Moral Writings*, Jim MacAdam (ed.), Oxford: Clarendon Press, 2002, pp. 257–266. doi: 10.1093/0199250197.003.0012
 * Pufendorf, Samuel, 1672, *De jure naturae et gentium libri octo*, Lund, Junghans. Translated as *On the Law of Nature and Nations*, Charles Henry Oldfather and W.A. Oldfather (trans), Oxford: Clarendon Press, 1934.
 * Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality”, *Philosophy & Public Affairs*, 13(2): 134–171. \[[Railton 1984 available online](https://philarchive.org/rec/RAIACA)]
-* Rawls, John, 1955, “Two Concepts of Rules”, *Philosophical Review*, 64(1): 3–32. doi:10.2307/2182230
+* Rawls, John, 1955, “Two Concepts of Rules”, *Philosophical Review*, 64(1): 3–32. doi: 10.2307/2182230
 * –––, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Raz, Joseph, 1972, “Voluntary Obligations and Normative Powers II”, *Aristotelian Society Supplementary Volume*, 46: 80–102. doi:10.1093/aristoteliansupp/46.1.59
+* Raz, Joseph, 1972, “Voluntary Obligations and Normative Powers II”, *Aristotelian Society Supplementary Volume*, 46: 80–102. doi: 10.1093/aristoteliansupp/46.1.59
 * –––, 1975, *Practical Reason and Norms*, (Hutchinson University Library), London: Hutchinson.
 * –––, 1977, “Promises and Obligations”, in *Law, Morality, and Society: Essays in Honour of H.L.A. Hart*, P.M.S. Hacker and Joseph Raz (eds.), Oxford: Clarendon press, pp. 210–228.
-* –––, 1982, “Promises in Morality and Law”, *Harvard Law Review* 95:916.
-* –––, 1984, “On the Nature of Rights”, *Mind*, 93(370): 194–214. doi:10.1093/mind/XCIII.370.194
+* –––, 1982, “Promises in Morality and Law”, *Harvard Law Review* 95: 916.
+* –––, 1984, “On the Nature of Rights”, *Mind*, 93(370): 194–214. doi: 10.1093/mind/XCIII.370.194
 * –––, 1986, *The Morality of Freedom*, New York: Oxford University Press.
 * –––, 2012, “Is there a Reason to Keep Promises”, Columbia Public Law Research Paper No. 12–320. \[[Raz 2012 available online](https://scholarship.law.columbia.edu/faculty\_scholarship/1766)]
 * –––, 2014, “Is There a Reason to Keep a Promise?”, in *Philosophical Foundations of Contract Law*, Gregory Klass, George Letsas, and Prince Saprai (eds.), Oxford: Oxford University Press, pp.58–77 (ch. 4).
 * Reid, Thomas, 1788 \[2010], *Essays on the Active Powers of Man*. Reprinted in volume 7 of the *Edinburgh Edition of Thomas Reid*, Knud Haakonssen and James A. Harris (eds.), Edinburgh: Edinburgh University Press.
-* Robins, Michael H., 1976, “The Primacy of Promising”, *Mind*, 85(339): 321–340. doi:10.1093/mind/LXXXV.339.321
+* Robins, Michael H., 1976, “The Primacy of Promising”, *Mind*, 85(339): 321–340. doi: 10.1093/mind/LXXXV.339.321
 * –––, 1984, *Promising, Intending, and Moral Autonomy*, Cambridge: Cambridge University Press.
 * Rosati, Connie, 2011, “The Importance of Self-Promises”, in Sheinman 2011: 125–155 (ch. 5).
 * Ross, W. David, 1930, *The Right and the Good*, Oxford: Clarendon Press.
 * –––, 1939, *Foundations of Ethics: the Gifford Lectures Delivered in the University of Aberdeen, 1935*, Oxford: Clarendon Press.
-* Roth, Abraham Sesshu, 2016, “Intention, Expectation, and Promissory Obligation”, *Ethics*, 127(1): 88–115. doi:10.1086/687333
+* Roth, Abraham Sesshu, 2016, “Intention, Expectation, and Promissory Obligation”, *Ethics*, 127(1): 88–115. doi: 10.1086/687333
 * –––, 2021, “Directed Duty, Practical Intimacy, and Legal Wronging”, in *Collective Action, Philosophy and Law*, Teresa Marques and Chiara Valentini (eds.), New York: Routledge, pp. 152–174.
-* Rouméas, Élise, 2021, “The Procedural Value of Compromise”, *Social Theory and Practice*, 47(2): 377–396. doi:10.5840/soctheorpract2021419126
-* Salgueiro, Antonio Blanco, 2010, “Promises, Threats, and the Foundations of Speech Act Theory”, *Pragmatics*, 20(2): 213–228. doi:10.1075/prag.20.2.05bla
+* Rouméas, Élise, 2021, “The Procedural Value of Compromise”, *Social Theory and Practice*, 47(2): 377–396. doi: 10.5840/soctheorpract2021419126
+* Salgueiro, Antonio Blanco, 2010, “Promises, Threats, and the Foundations of Speech Act Theory”, *Pragmatics*, 20(2): 213–228. doi: 10.1075/prag.20.2.05bla
 * Saprai, P, 2013, “The penalties rule and the promise theory of contract”, *Canadian Journal of Law & Jurisprudence*, 26(2): 443–469.
 * Scanlon, Thomas, 1990, “Promises and Practices”, *Philosophy & Public Affairs*, 19(3): 199–226.
 * –––, 1998, *What We Owe To Each Other*, Cambridge, MA: Harvard University Press.
-* Schaab, Janis David, 2021, “On the Supposed Incoherence of Obligations to Oneself”, *Australasian Journal of Philosophy*, 99(1): 175–189. doi:10.1080/00048402.2020.1714677
+* Schaab, Janis David, 2021, “On the Supposed Incoherence of Obligations to Oneself”, *Australasian Journal of Philosophy*, 99(1): 175–189. doi: 10.1080/00048402.2020.1714677
 * Schofield, Paul, 2014, “Stephen Darwall, ‘Morality, Authority, and Law: Essays in Second-Personal Ethics I’”, *Philosophy in Review*, 34(6): 296–299.
-* –––, 2021, *Duty to Self: Moral, Political, and Legal Self-Relation*, New York: Oxford University Press. doi:10.1093/oso/9780190941758.001.0001
-* Sciaraffa, Stefan, 2009, “On Content-Independent Reasons: It’s Not in the Name”, *Law and Philosophy*, 28(3): 233–260. doi:10.1007/s10982-008-9037-7
+* –––, 2021, *Duty to Self: Moral, Political, and Legal Self-Relation*, New York: Oxford University Press. doi: 10.1093/oso/9780190941758.001.0001
+* Sciaraffa, Stefan, 2009, “On Content-Independent Reasons: It’s Not in the Name”, *Law and Philosophy*, 28(3): 233–260. doi: 10.1007/s10982-008-9037-7
 * Searle, John R., 1963, *Speech Acts*, Cambridge, MA: Harvard University Press.
-* –––, 1964, “How to Derive ‘Ought’ From ‘Is’”, *Philosophical Review*, 73(1): 43–58. doi:10.2307/2183201
-* –––, 1965, “What is a speech act?”, in *Perspectives in the philosophy of language: a concise anthology*,Stainton, R. J. (ed.), Broadview Press, 253–268.
-* –––, 1979, *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609213
+* –––, 1964, “How to Derive ‘Ought’ From ‘Is’”, *Philosophical Review*, 73(1): 43–58. doi: 10.2307/2183201
+* –––, 1965, “What is a speech act?”, in *Perspectives in the philosophy of language: a concise anthology*, Stainton, R. J. (ed.), Broadview Press, 253–268.
+* –––, 1979, *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511609213
 * Searle, J. R., Kiefer, F., & Bierwisch, M. (eds.), 1980, *Speech Act Theory and Pragmatics* (Vol. 10), Dordrecht: D. Reidel.
 * Searle, John R. and Daniel Vanderveken, 1985, *Foundations of Illocutionary Logic*, Cambridge: Cambridge University Press.
-* Sharadin, Nathaniel, 2018, “Two Problems for Accepting as Intending”, *Ethics*, 128(3): 626–641. doi:10.1086/695991
-* Shaver, Robert, 2019, “Promissory Obligation: A Sidgwickian View”, *History of Philosophy Quarterly*, 36(2): 181–197. doi:10.2307/48563643
-* –––, 2020, “Promises as Invitations to Trust”, *Philosophical Studies*, 177(6): 1515–1522. doi:10.1007/s11098-019-01271-7
-* Sheehy, Paul, 2002, “On Plural Subject Theory”, *Journal of Social Philosophy*, 33(3): 377–394. doi:10.1111/0047-2786.00148
-* Sheinman, Hanoch (ed.), 2011, *Promises and Agreements: Philosophical Essays*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195377958.001.0001
+* Sharadin, Nathaniel, 2018, “Two Problems for Accepting as Intending”, *Ethics*, 128(3): 626–641. doi: 10.1086/695991
+* Shaver, Robert, 2019, “Promissory Obligation: A Sidgwickian View”, *History of Philosophy Quarterly*, 36(2): 181–197. doi: 10.2307/48563643
+* –––, 2020, “Promises as Invitations to Trust”, *Philosophical Studies*, 177(6): 1515–1522. doi: 10.1007/s11098-019-01271-7
+* Sheehy, Paul, 2002, “On Plural Subject Theory”, *Journal of Social Philosophy*, 33(3): 377–394. doi: 10.1111/0047-2786.00148
+* Sheinman, Hanoch (ed.), 2011, *Promises and Agreements: Philosophical Essays*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195377958.001.0001
 * Shiffrin, Seana Valentine, 2007, “The Divergence of Contract and Promise”, *Harvard Law Review*, 120(3): 709–749.
-* –––, 2008, “Promising, Intimate Relationships, and Conventionalism”, *Philosophical Review*, 117(4): 481–524. doi:10.1215/00318108-2008-014
+* –––, 2008, “Promising, Intimate Relationships, and Conventionalism”, *Philosophical Review*, 117(4): 481–524. doi: 10.1215/00318108-2008-014
 * –––, 2011, “Immoral, Conflicting, and Redundant Promises”, in *Reasons and Recognition: Essays on the Philosophy of T.M. Scanlon*, R. Jay Wallace, Rahul Kumar, and Samuel Freeman (eds.), New York: Oxford University Press, pp. 155–171, (ch. 7).
 * –––, 2012a, “Are Contracts Promises?” in *The Routledge Companion to the Philosophy of Law*, London: Routledge, pp. 241–258 (ch. 16).
 * –––, 2012b, “Promise?” *The Routledge Companion to Philosophy of Law*, 241.
 * Shockley, K, 2008, “On that peculiar practice of promising”, *Philosophical Studies*, 140(3): 385–399.
 * Sidgwick, Henry, 1874 \[1962], *The Methods of Ethics*, London: Macmillan. Seventh edition, reissued, Chicago: University of Chicago Press.
 * Simpson, A. W. Brian, 1975, *A History of the Common Law of Contract: The Rise of the Action of Assumpsit*, Oxford: Clarendon Press.
-* Singer, Peter, 1972, “Is Act-Utilitarianism Self-Defeating?”, *Philosophical Review*, 81(1): 94–104. doi:10.2307/2184228
+* Singer, Peter, 1972, “Is Act-Utilitarianism Self-Defeating?”, *Philosophical Review*, 81(1): 94–104. doi: 10.2307/2184228
 * Sinnott-Armstrong, W., 2009, “How strong is this obligation? An argument for consequentialism from concomitant variation”, *Analysis*, 69(3): 438–442.
 * Skyrms, Brian, 1996, *Evolution of the Social Contract*, Cambridge: Cambridge University Press.
-* Smith, Holly M., 1997, “A Paradox of Promising”, *Philosophical Review*, 106(2): 153–196. doi:10.2307/2998356
+* Smith, Holly M., 1997, “A Paradox of Promising”, *Philosophical Review*, 106(2): 153–196. doi: 10.2307/2998356
 * Smith, Michael, 1994, *The Moral Problem*, Oxford: Blackwell.
 * –––, 2011, “The Value of Making and Keeping Promises”, in Sheinman 2011: 198–215 (ch. 8).
-* Sobel, David and Steven Wall (eds.), 2009, *Reasons for Action*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511720185
+* Sobel, David and Steven Wall (eds.), 2009, *Reasons for Action*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511720185
 * Stafford, Kim, 1978, “Promises to the Dead”, *Northwest Review*, 17(1): 29.
 * Stair, 1st Viscount (James Dalrymple), 1681/1693 \[1981], *Institutions of the Law of Scotland*, Edinburgh: Anderson. Second edition, 1693. Revised edition, David M. Walker (ed.), Edinburgh: University Presses.
-* Swain, Warren, 2013, “Contract as Promise: The Role of Promising in the Law of Contract. An Historical Account”, *Edinburgh Law Review*, 17(1): 1–21. doi:10.3366/elr.2013.0136
-* Tadros, Victor, 2020, “Appropriate Normative Powers”, *Aristotelian Society Supplementary Volume*, 94: 301–326. doi:10.1093/arisup/akaa009
-* Taylor, Erin, 2013, “A New Conventionalist Theory of Promising”, *Australasian Journal of Philosophy*, 91(4): 667–682. doi:10.1080/00048402.2013.768278
-* Taylor, James Stacey, 2021, “Promises to the Dead”, *Royal Institute of Philosophy Supplement*, 90: 81–103. doi:10.1017/S1358246121000242
+* Swain, Warren, 2013, “Contract as Promise: The Role of Promising in the Law of Contract. An Historical Account”, *Edinburgh Law Review*, 17(1): 1–21. doi: 10.3366/elr.2013.0136
+* Tadros, Victor, 2020, “Appropriate Normative Powers”, *Aristotelian Society Supplementary Volume*, 94: 301–326. doi: 10.1093/arisup/akaa009
+* Taylor, Erin, 2013, “A New Conventionalist Theory of Promising”, *Australasian Journal of Philosophy*, 91(4): 667–682. doi: 10.1080/00048402.2013.768278
+* Taylor, James Stacey, 2021, “Promises to the Dead”, *Royal Institute of Philosophy Supplement*, 90: 81–103. doi: 10.1017/S1358246121000242
 * Thomson, Judith Jarvis, 1990, *The Realm of Rights*, Cambridge, MA: Harvard University Press.
-* Tsevreni, Magdalini, 2018, “The Concept of Promise and Contract Theory”, in *Proceedings of the XXIII World Congress of Philosophy*, Athens: Greek Philosophical Society, 405–409. doi:10.5840/wcp232018691592
-* Urmson, J. O., 1953, “The Interpretation of the Moral Philosophy of J. S. Mill”, *The Philosophical Quarterly*, 3(10): 33–39. doi:10.2307/2216697
+* Tsevreni, Magdalini, 2018, “The Concept of Promise and Contract Theory”, in *Proceedings of the XXIII World Congress of Philosophy*, Athens: Greek Philosophical Society, 405–409. doi: 10.5840/wcp232018691592
+* Urmson, J. O., 1953, “The Interpretation of the Moral Philosophy of J. S. Mill”, *The Philosophical Quarterly*, 3(10): 33–39. doi: 10.2307/2216697
 * van Roojen, Mark, 2013, “Scanlon’s Promising Proposal and the Right Kind of Reasons to Believe”, *Oxford Studies in Normative Ethics* 3: 59–78.
 * –––, 2020, “Promising and Assertion”, *The Oxford Handbook of Assertion*, Sanford Goldberg (ed.), Oxford: Oxford University Press, pp. 179–201.
-* Verbeek, Bruno, 2002, *Instrumental Rationality and Moral Philosophy: An Essay on the Virtues of Cooperation*, (Theory and Decision Library 33), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-015-9982-5
+* Verbeek, Bruno, 2002, *Instrumental Rationality and Moral Philosophy: An Essay on the Virtues of Cooperation*, (Theory and Decision Library 33), Dordrecht/Boston: Kluwer Academic Publishers. doi: 10.1007/978-94-015-9982-5
 * Vitek, William, 1993, *Promising*, Philadelphia, PA: Temple University Press.
-* Wall, Edmund, 2009, “Hooker’s Consequentialism and the Depth of Moral Experience”, *Dialogue*, 48(2): 337–351. doi:10.1017/S0012217309090283
+* Wall, Edmund, 2009, “Hooker’s Consequentialism and the Depth of Moral Experience”, *Dialogue*, 48(2): 337–351. doi: 10.1017/S0012217309090283
 * Warnock, G. J., 1971, *The Object of Morality*, London: Methuen.
-* Watson, Gary, 2004, “Asserting and Promising”, *Philosophical Studies*, 117(1/2): 57–77. doi:10.1023/B:PHIL.0000014525.93335.9e
-* –––, 2007, “Morality as Equal Accountability: Comments on Stephen Darwall’s *The Second‐Person Standpoint*”, *Ethics*, 118(1): 37–51. doi:10.1086/522017
-* –––, 2009, “Promises, Reasons, and Normative Powers”, in Sobel and Wall 2009: 155–178. doi:10.1017/CBO9780511720185.008
+* Watson, Gary, 2004, “Asserting and Promising”, *Philosophical Studies*, 117(1/2): 57–77. doi: 10.1023/B: PHIL.0000014525.93335.9e
+* –––, 2007, “Morality as Equal Accountability: Comments on Stephen Darwall’s *The Second‐Person Standpoint*”, *Ethics*, 118(1): 37–51. doi: 10.1086/522017
+* –––, 2009, “Promises, Reasons, and Normative Powers”, in Sobel and Wall 2009: 155–178. doi: 10.1017/CBO9780511720185.008
 * Westlund, A. C., 2013 “Deference as a normative power” *Philosophical studies*, 166(3): 455–474.
 * –––, 2018, “Relational autonomy and practical authority”, *The Bloomsbury Companion to Analytic Feminism*, 375–393.
-* Weiss, Jonathan A., 2003, “Why Keep Promises to the Dead If There Is No Afterlife”, *Quaderni Di Diritto e Politica Ecclesiastica*, 11(3): 643–649. doi:10.1440/12300
+* Weiss, Jonathan A., 2003, “Why Keep Promises to the Dead If There Is No Afterlife”, *Quaderni Di Diritto e Politica Ecclesiastica*, 11(3): 643–649. doi: 10.1440/12300
 * Woods, Jack, 2016, “The Normative Force of Promising”, in *Oxford Studies in Normative Ethics, Volume 6*, Mark Timmons (ed.), Oxford: Oxford University Press, pp. 77–101 (ch. 4).
-* Zemach, Eddy M., 1971, “Ought, Is, and a Game Called ‘Promise’”, *The Philosophical Quarterly*, 21(82): 61–63. doi:10.2307/2217570
-* Zylberman, Ariel, 2014, “The Very Thought of (Wronging) You”, *Philosophical Topics*, 42(1): 153–175. doi:10.5840/philtopics20144217
+* Zemach, Eddy M., 1971, “Ought, Is, and a Game Called ‘Promise’”, *The Philosophical Quarterly*, 21(82): 61–63. doi: 10.2307/2217570
+* Zylberman, Ariel, 2014, “The Very Thought of (Wronging) You”, *Philosophical Topics*, 42(1): 153–175. doi: 10.5840/philtopics20144217
 
 ## Academic Tools
 

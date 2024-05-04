@@ -18,11 +18,11 @@
 
 指责佛教徒自私和利己可能会忽视佛教思想的一些众所周知的特点。佛教的八正道包括帮助他人的责任和禁止伤害他人。在大乘佛教中，菩萨道包括一个漫长的、也许是无限期的阶段，在这个阶段里，菩萨体现并实践着大慈，致力于结束所有众生的苦难，然后才进入涅槃。宋明理学家对中国佛教的这些方面了如指掌，因此，对他们的批评进行慈悲和历史性的解读应更加细致。更好地理解自私指责的一种方式是，它描述了事实上大多数普通佛教修行者的动机，而不是原则上理想修行者的动机。这将是一个自然的结果，因为通往他人关怀的佛教途径要求比儒家更多，因为对他人的关怀更容易通过与家人和社区成员的日常互动而不是通过激进的无所附着来实现。另一种宋明理学家批评的变体是暗示将伦理道德置于救度论之下具有问题。如果所有规范，包括伦理规范，在很大程度上都是通过它们对结束个人苦难的贡献来证明的，那么这将赋予善的概念一个不同的形态。像向佛教神龛捐款和保持佛教饮食习惯这样的做法，潜在地可以被构想为“善”，而不必然参考改善他人的生活或有效参与人际关系。
 
-一些宋明理学家也反对他们认为的关于如何最好控制难以驾驭的意图和情感的幼稚佛教和道教观点，过分依赖冥想实践来解决最好通过学习、反思和培养尊重或崇敬的结合来解决的问题（*JSL* 13.6；*ZZYL* 126:3019；Tiwald 2018a：141–147）。最后，这个时代的儒家之间普遍认同的一点是，佛教形而上学在事物的最终本质上犯了一些根本性错误。中国的佛教徒经常强调他们所谓的一切现象事物的空（*kong* 空），而宋明理学家认为这意味着这些事物是虚幻且没有价值。这反过来又解释了为什么佛教徒致力于超越现象世界，因为通过重新排列幻象无法获得任何有价值的东西（Fu 1986；*JSL* 13.12）。事实上，这种表征忽略了佛教空性教义的许多微妙之处和变体，佛教徒认为这与关心和采取行动来减轻现象实体的苦难是一致的。有影响力的宋明理学家朱熹承认了这一点，但似乎认为透明地存在问题的空性观念是大多数佛教实践中的运作模式（*ZZYL* 126:3013；Cai 2009：204–206；Fu 1986；Tiwald 2018a：147–154）。
+一些宋明理学家也反对他们认为的关于如何最好控制难以驾驭的意图和情感的幼稚佛教和道教观点，过分依赖冥想实践来解决最好通过学习、反思和培养尊重或崇敬的结合来解决的问题（*JSL* 13.6；*ZZYL* 126: 3019；Tiwald 2018a：141–147）。最后，这个时代的儒家之间普遍认同的一点是，佛教形而上学在事物的最终本质上犯了一些根本性错误。中国的佛教徒经常强调他们所谓的一切现象事物的空（*kong* 空），而宋明理学家认为这意味着这些事物是虚幻且没有价值。这反过来又解释了为什么佛教徒致力于超越现象世界，因为通过重新排列幻象无法获得任何有价值的东西（Fu 1986；*JSL* 13.12）。事实上，这种表征忽略了佛教空性教义的许多微妙之处和变体，佛教徒认为这与关心和采取行动来减轻现象实体的苦难是一致的。有影响力的宋明理学家朱熹承认了这一点，但似乎认为透明地存在问题的空性观念是大多数佛教实践中的运作模式（*ZZYL* 126: 3013；Cai 2009：204–206；Fu 1986；Tiwald 2018a：147–154）。
 
 尽管如此，毫无疑问，宋明理学中有一些突出和基本的观点带有佛教和道教的影响。其中之一是关于人性善良的宋明理学解释。这一时期许多主要的宋明理学家支持这样一种观点，即人性中的道德倾向从出生开始就被良好地形成，因此培养美德的工作很大程度上主要是恢复和消除阻碍我们接近这种本性的障碍，特别是自私或以自我为中心的欲望以及它们所呈现的各种坏习惯和偏见（Ivanhoe 2000）。这些哲学家认为自己正在阐述《孟子》中发现的人性教义，但事实上，孟子似乎认为“人性善良”（*xingshan* 性善）之所以成立，是因为人类有成为善良的自然能力或潜力，而不是因为他们天生善良或从一开始就具有良好的道德倾向（*Mencius* 6A6，6A8）。一个更可能的观点认为我们天生具有良好倾向的来源是中国佛教，长期以来一直认为人类（以及所有有情众生）始终具有某种佛性或具备完全形成的倾向，可以完美地应对其所处的环境。在这里，良好的本性也应通过消除障碍来恢复或发现，对于佛教徒来说，这些障碍被视为对事物的虚假和附会性概念化。宋明理学家甚至使用或改编了佛教长期以来用来描述我们完美本性受阻情况的许多隐喻，将其比作悬浮在浑浊水中的珍珠或被尘埃覆盖的镜子（Jorgensen 2018：73–86；Z. Liu 2003）。
 
-道学_的儒家也采用了一个术语，在他们的时代，这个术语早已被佛教形而上学长期使用，以解释事物的最终本质和统一性。这个术语是_li\* 理（模式，原则），佛教徒有时将其描述为空，而新儒家则将其描述为（或作为）不断生生不息的源泉或基础，被理解为一种系统，其中出生、成长和繁衍和谐地工作，以维持生物的连续性。在这里，新儒家再次认为他们是阐明了他们在古典儒家文本中找到的一个观念，但事实上，在古典经典中很少提及_li_，甚至更少的可以合理地被解读为与新儒家所提议的相同的形而上学意义（戴2009: 265–286; Ivanhoe 2002: 46–58; Makeham 2003b: 193–195）。另外，从佛教和道教的影响中，还有更大的对禅修的兴趣（Chan 1989: 255–270; Cai 2009: 195–197; Yang 2015）以及倾向于将自我放弃或消除欲望视为自我修养的主要目标。一些新儒家认为自己接纳了比他们的道教和佛教同行更广泛的欲望，但在很大程度上由于朱熹的影响，许多人在可接受的欲望与自私欲望之间划清了相对明显的界限，这些可接受的欲望与不断生生不息的模式一致，而不可接受的欲望则是自私的（Chan 1989: 197–211）。这样做的结果是，他们排除了比古典儒家可能打算排除的更广泛的欲望（Tiwald 2012: 30–33）。再加上这些影响，以及各种共享的概念框架、术语和哲学问题，宋明时期的儒家表述变得非常难以从长期以来的佛教和道教思维中分离出来（Angle 2018; Araki 2008; Ivanhoe, 2002; Makeham 2018a; Ziporyn 2018）。
+道学_的儒家也采用了一个术语，在他们的时代，这个术语早已被佛教形而上学长期使用，以解释事物的最终本质和统一性。这个术语是_li\* 理（模式，原则），佛教徒有时将其描述为空，而新儒家则将其描述为（或作为）不断生生不息的源泉或基础，被理解为一种系统，其中出生、成长和繁衍和谐地工作，以维持生物的连续性。在这里，新儒家再次认为他们是阐明了他们在古典儒家文本中找到的一个观念，但事实上，在古典经典中很少提及_li_，甚至更少的可以合理地被解读为与新儒家所提议的相同的形而上学意义（戴 2009: 265–286; Ivanhoe 2002: 46–58; Makeham 2003b: 193–195）。另外，从佛教和道教的影响中，还有更大的对禅修的兴趣（Chan 1989: 255–270; Cai 2009: 195–197; Yang 2015）以及倾向于将自我放弃或消除欲望视为自我修养的主要目标。一些新儒家认为自己接纳了比他们的道教和佛教同行更广泛的欲望，但在很大程度上由于朱熹的影响，许多人在可接受的欲望与自私欲望之间划清了相对明显的界限，这些可接受的欲望与不断生生不息的模式一致，而不可接受的欲望则是自私的（Chan 1989: 197–211）。这样做的结果是，他们排除了比古典儒家可能打算排除的更广泛的欲望（Tiwald 2012: 30–33）。再加上这些影响，以及各种共享的概念框架、术语和哲学问题，宋明时期的儒家表述变得非常难以从长期以来的佛教和道教思维中分离出来（Angle 2018; Araki 2008; Ivanhoe, 2002; Makeham 2018a; Ziporyn 2018）。
 
 ## 2. 显著人物
 
@@ -56,7 +56,7 @@
 
 ### 2.5 宋明时期的异类
 
-除了在[第 2.1 节](https://plato.stanford.edu/entries/song-ming-confucianism/#NeoConfNortSong9601)中描述的北宋新儒家外，迄今为止提到的每位哲学家都是狭义上与_道学_相关的新儒家（请参阅[第 1 节](https://plato.stanford.edu/entries/song-ming-confucianism/#HistContBuddDaoiNeoConf)关于“新儒家”广义和狭义之间差异的内容）。也就是说，每位哲学家大多数灵感来自程颢和程颐兄弟，尤其是通过采纳他们关于人性的坚实形而上学观和事物的基本统一性或一体性。但是，这类哲学家并不垄断儒家话语，经过大约七个世纪的宋、元和明思想发展，有许多才华横溢、富有创新精神的儒家哲学家处于主流之外或超越了主流。
+除了在 [第 2.1 节](https://plato.stanford.edu/entries/song-ming-confucianism/#NeoConfNortSong9601) 中描述的北宋新儒家外，迄今为止提到的每位哲学家都是狭义上与_道学_相关的新儒家（请参阅 [第 1 节](https://plato.stanford.edu/entries/song-ming-confucianism/#HistContBuddDaoiNeoConf) 关于“新儒家”广义和狭义之间差异的内容）。也就是说，每位哲学家大多数灵感来自程颢和程颐兄弟，尤其是通过采纳他们关于人性的坚实形而上学观和事物的基本统一性或一体性。但是，这类哲学家并不垄断儒家话语，经过大约七个世纪的宋、元和明思想发展，有许多才华横溢、富有创新精神的儒家哲学家处于主流之外或超越了主流。
 
 宋明理学中曾经具有影响力但现在有些被忽视的一群哲学家通常被称为“永嘉学派”儒家，以其最杰出的思想家在生活和教学中的一些时期所在的县城命名。永嘉儒家的根源可以追溯到程颢和程颐的教导以及道学，但随着时间的推移，一些主要思想家开始将自己视为那一传统的反对者，部分原因是因为他们对推测性形而上学的不耐和更加实际导向于治理和管理问题。与永嘉学派结盟的两位最杰出的儒家是陈亮（1143–1194）和叶适（1150–1223），他们是同时代人，也是朱熹偶尔的对话者。陈亮和叶适倾向于根据其对公共福利或一般社会利益（利）的贡献来衡量公共政策和道德实践的倾向，这种倾向最终导致一些 20 世纪和 21 世纪的历史学家将陈亮和叶适描述为“功利主义”思想家（齐 1982: 1178–1187；蒂尔曼 1982；肖 1982: 539）。对于陈亮和叶适来说，特定实践的正确性和可取性是由其后果而不是（或至少不是直接）行动者的动机和品格来决定的。陈亮和叶适还反对将道描绘为超越具体事务和环境的永恒、抽象实体的观点（牛 1998；蒂尔曼 1982）。
 
@@ -74,7 +74,7 @@
 
 在这里翻译为“模式”的中文字符是_理_，这个术语在古典儒家文本中出现相对较少，但在宋代之前的哲学讨论中变得无处不在，那时它经常被用来指代事物的潜在现实或终极本质。对于许多佛教徒来说，一件事物的模式是其固有的“空”，也就是说，粗略地说，它缺乏任何固有的现象特质或本质。对于佛教徒来说，这有助于证明现象特质或本质是虚幻的，仅仅是惯例的，或者是由更大的整体赋予的。大多数宋明时期的新儒家拒绝了这种观点。他们认同所有事物都有一个潜在的模式，但这种模式是他们所称的不断生产生命或不断生命生成性，而不是空。而且，这是一种所有事物共享的模式，因此它们属于一个统一的不断生命生成性系统。因此，事物参与并促进这些以出生、成长和繁殖为特征的系统是事物的终极本质。在季节更替中出生、成长和繁殖的循环中，或者出生、成长和繁殖如何作为家庭的中心目标或组织原则的方式中，可以找到模式的典范模型。
 
-许多道学儒家认为，**Pattern** 能够做一些**气**无法做到的解释性工作。**Pattern** 解释了为什么船只能在水上航行，而车只能在陆地上行驶。**Pattern** 解释了为什么孩子们天生倾向于爱护侍奉父母，以及为什么由**气**制成的东西在**阴**（被动）和**阳**（主动）两个阶段或状态之间交替。**Pattern** 还具有规范意义，不仅解释了孩子们倾向于爱护侍奉父母的事实，还解释了他们这样做是正确和美德的事情。大多数人认识到这些事实与事物中的**气**有很大关系，而宋明理学儒家中的少数人（如张载、王庭祥和王夫之）致力于展示**气**的特征和倾向可以充分解释某些或所有这样的事实（Kasoff 1984；刘毅 2000；Angle & Tiwald 2017：36–38）。但大多数人认为，**Pattern** 在解释这些事实时具有一定独立的作用，一些解释力量并非严格可归结为**气**的解释力量。朱熹关于**Pattern** 与**气**关系的理论在他一生中发生了变化，但在他成熟和最有影响力的观点中，**Pattern** 至少在两个意义上独立于**气**。首先，朱熹说**Pattern** 在某种意义上是“优先于”**气**。他明确指出，这不是一种时间上的优先性——不是**Pattern** 先存在，然后**气** 随后出现——而是当我们试图推断事物的起源或基础时，应将**Pattern** 视为优先或更基础的（*朱子语类* 1：3）。这具体的含义是一种推测的问题（Angle & Tiwald 2017：38–40；陈述 1987：3–29）。**Pattern** 的第二种独立性是，它作为一种指导者或“主人”（*zhu* 主或_zai_ 宰）的功能**气**。朱熹小心翼翼地表示，**Pattern** 不会干涉事务或直接作用于**气**，而是制定规则，**气** 然后自行遵循（Angle & Tiwald 2017：40–42）。
+许多道学儒家认为，**Pattern** 能够做一些 **气** 无法做到的解释性工作。**Pattern** 解释了为什么船只能在水上航行，而车只能在陆地上行驶。**Pattern** 解释了为什么孩子们天生倾向于爱护侍奉父母，以及为什么由 **气** 制成的东西在 **阴**（被动）和 **阳**（主动）两个阶段或状态之间交替。**Pattern** 还具有规范意义，不仅解释了孩子们倾向于爱护侍奉父母的事实，还解释了他们这样做是正确和美德的事情。大多数人认识到这些事实与事物中的 **气** 有很大关系，而宋明理学儒家中的少数人（如张载、王庭祥和王夫之）致力于展示 **气** 的特征和倾向可以充分解释某些或所有这样的事实（Kasoff 1984；刘毅 2000；Angle & Tiwald 2017：36–38）。但大多数人认为，**Pattern** 在解释这些事实时具有一定独立的作用，一些解释力量并非严格可归结为 **气** 的解释力量。朱熹关于 **Pattern** 与 **气** 关系的理论在他一生中发生了变化，但在他成熟和最有影响力的观点中，**Pattern** 至少在两个意义上独立于 **气**。首先，朱熹说 **Pattern** 在某种意义上是“优先于”**气**。他明确指出，这不是一种时间上的优先性——不是 **Pattern** 先存在，然后 **气** 随后出现——而是当我们试图推断事物的起源或基础时，应将 **Pattern** 视为优先或更基础的（*朱子语类* 1：3）。这具体的含义是一种推测的问题（Angle & Tiwald 2017：38–40；陈述 1987：3–29）。**Pattern** 的第二种独立性是，它作为一种指导者或“主人”（*zhu* 主或_zai_ 宰）的功能 **气**。朱熹小心翼翼地表示，**Pattern** 不会干涉事务或直接作用于 **气**，而是制定规则，**气** 然后自行遵循（Angle & Tiwald 2017：40–42）。
 
 ### 3.2 **Pattern** 与自然
 
@@ -86,7 +86,7 @@
 
 “心”是思想和情感的所在，也是负责正确引导它们的能力。宋明时期的儒家学者对心性的本质、特征和功能产生了极大的哲学兴趣，对其阐释有助于确定和明确道德和认识美德的特征。然而，其中一个最具争议的问题与心性与“Pattern”（纲）之间的关系有关。
 
-以宏观的笔触来看，我们可以说，在这个时代，儒家关于心性与格物关系的讨论中存在着两大哲学关切的集群。首先，许多儒家担心制定伦理规范体系过于脱离我们实际心理倾向。例如，他们批评墨家认为人们应该将所有人的福祉视为对自己平等的要求，无论他们与自己的关系如何（例如，是父母还是陌生人），认为这种理想远离了我们的自然倾向，因此是不可能的（*JSL* 2.89, 13.2； *CXL* 93）。他们建议，我们的伦理规范应该是我们有一定自然能力理解和接受的规范。其中一个主要原因是所谓的“全心全意的标准”：如果某人完全具体化了某种美德，那么这个人必定完全接受并毫无犹豫或相抵的欲望（Tiwald 2018b：179–183）。例如，那些对他人怀有怨恨或有些犹豫的人就不能是完全仁慈或仁爱的人。许多宋明儒家认为，值得我们尊敬的美德只有那些我们有可能全心全意 embrace 的美德，有时被称为“诚”（*cheng* 誠）的状态，由程氏兄弟及其追随者提出（*JSL* 1.3； *HNCSYS* 6:92）。通过将全心全意的可能性作为尊重某物为美德的条件，他们将他们的伦理学与我们所拥有的心性更紧密地联系在一起。采纳违背我们自然倾向的做法已经够困难了，更难的是毫不保留地 embrace 并实践这些做法。
+以宏观的笔触来看，我们可以说，在这个时代，儒家关于心性与格物关系的讨论中存在着两大哲学关切的集群。首先，许多儒家担心制定伦理规范体系过于脱离我们实际心理倾向。例如，他们批评墨家认为人们应该将所有人的福祉视为对自己平等的要求，无论他们与自己的关系如何（例如，是父母还是陌生人），认为这种理想远离了我们的自然倾向，因此是不可能的（*JSL* 2.89, 13.2； *CXL* 93）。他们建议，我们的伦理规范应该是我们有一定自然能力理解和接受的规范。其中一个主要原因是所谓的“全心全意的标准”：如果某人完全具体化了某种美德，那么这个人必定完全接受并毫无犹豫或相抵的欲望（Tiwald 2018b：179–183）。例如，那些对他人怀有怨恨或有些犹豫的人就不能是完全仁慈或仁爱的人。许多宋明儒家认为，值得我们尊敬的美德只有那些我们有可能全心全意 embrace 的美德，有时被称为“诚”（*cheng* 誠）的状态，由程氏兄弟及其追随者提出（*JSL* 1.3； *HNCSYS* 6: 92）。通过将全心全意的可能性作为尊重某物为美德的条件，他们将他们的伦理学与我们所拥有的心性更紧密地联系在一起。采纳违背我们自然倾向的做法已经够困难了，更难的是毫不保留地 embrace 并实践这些做法。
 
 鉴于许多宋明儒家强调全心全意以及完全 embrace 伦理规范的需求，一些人认为将心性与格物紧密联系在一起的观点具有优势。如果某种特定的实践或品德特征（例如，孝道）之所以正确，是因为它是格物的体现或表达，并且这种实践或品德特征应该是我们可以全心全意和自然 embrace 的，我们可以解释格物和我们的全心全意潜力如何 converg，即格物与我们的心性有着共同的源泉或甚至是由我们的心性构成。几位儒家哲学家明确表达了这一观点。将心性视为格物构成的最著名倡导者是陆象山和王阳明，他们经常被描述为属于一种特殊传统或思想流派，被称为“心学”（*Xinxue*）。陆和王采纳这种对格物的理解部分原因是因为他们认为这将使儒家伦理规范能够触手可及普通人的日常生活，并批评更多学术性或书生气的方法来理解儒家之道，他们担心这些方法永远不会变得足够直观，以至于无法全心全意或真诚 embrace（Ivanhoe 2009）。更激进的观点是由所谓的台州儒家如王艮、罗汝芳和李贽提出的，他们认为儒家之道应该对普通心性如此易懂，以至于即使是受过少量教育或正规儒家培训的人也能直观地理解（Angle & Tiwald 2017：86–87，106–108）。
 
@@ -98,9 +98,9 @@
 
 ### 4.1 知识
 
-大多数儒家认为儒家经典具有权威性和真实性。《论语》、《孟子》和《礼记》等文本是任何有抱负的学者必读的内容，儒家经常援引这些文本来证实他们的主张。但现代读者有时会惊讶地发现，关于阅读儒家经典是否以及在多大程度上是必要的正确自我发展存在一些争论（Ivanhoe 2000）。一方面，许多儒家认为许多人持有错误观点，而权威的儒家文本似乎是纠正这些观点最明显的途径。另一方面，这个时代的一些儒家担心，从书籍中获得的知识无法以达到全心全意的美德所需的方式获得和内化（见[第 3.3 节](https://plato.stanford.edu/entries/song-ming-confucianism/#PattHear)）。此外，大多数人都同意我们天生具有良好的道德能力（[第 3.2 节](https://plato.stanford.edu/entries/song-ming-confucianism/#PattNatu)）。因此，诸如陆象山和王阳明之类的哲学家认为，我们可以更多地依赖于我们自己的直觉或来自日常生活的深刻道德洞察，而这些往往比与书本学习相关的更零碎和抽象的学习方式更可取（*CXL* 49；Ivanhoe 2002: 77–80；Ivanhoe 2009: 34–39；Tiwald & Van Norden 2014: 243–245）。相比之下，朱熹担心直觉过于不可靠，我们太容易去合理化或找到巧妙的方式来容忍自私的倾向和判断，并认为以开放的心态和恭敬的注意阅读权威的儒家文本是检验我们自私偏见的好方法（Angle & Tiwald 2017: 151–155；Chu 1990: 128–162；*ZZYL* 10–11）。
+大多数儒家认为儒家经典具有权威性和真实性。《论语》、《孟子》和《礼记》等文本是任何有抱负的学者必读的内容，儒家经常援引这些文本来证实他们的主张。但现代读者有时会惊讶地发现，关于阅读儒家经典是否以及在多大程度上是必要的正确自我发展存在一些争论（Ivanhoe 2000）。一方面，许多儒家认为许多人持有错误观点，而权威的儒家文本似乎是纠正这些观点最明显的途径。另一方面，这个时代的一些儒家担心，从书籍中获得的知识无法以达到全心全意的美德所需的方式获得和内化（见 [第 3.3 节](https://plato.stanford.edu/entries/song-ming-confucianism/#PattHear)）。此外，大多数人都同意我们天生具有良好的道德能力（[第 3.2 节](https://plato.stanford.edu/entries/song-ming-confucianism/#PattNatu)）。因此，诸如陆象山和王阳明之类的哲学家认为，我们可以更多地依赖于我们自己的直觉或来自日常生活的深刻道德洞察，而这些往往比与书本学习相关的更零碎和抽象的学习方式更可取（*CXL* 49；Ivanhoe 2002: 77–80；Ivanhoe 2009: 34–39；Tiwald & Van Norden 2014: 243–245）。相比之下，朱熹担心直觉过于不可靠，我们太容易去合理化或找到巧妙的方式来容忍自私的倾向和判断，并认为以开放的心态和恭敬的注意阅读权威的儒家文本是检验我们自私偏见的好方法（Angle & Tiwald 2017: 151–155；Chu 1990: 128–162；*ZZYL* 10–11）。
 
-宋明时期的儒家从《孟子》中采纳了一般的道德知识获取框架，根据这一框架，存在一些典范情景或案例（例如，看到一个孩子快要掉进井里或者食物带着蔑视给予时）会引发可靠的良好或美德反应，但许多其他情况则不会。正如孟子描述他的目标那样，目标是“推”或扩展从那些典范情景到新情景中可靠的道德判断和情感反应（*Mencius* 2A6, 6A10）。在《孟子》中，部分是通过注意到案例之间的相关相似之处来实现这一点，就像当一个人意识到为了特殊好处收受贿赂是自贬身份和可耻的方式与接受带着蔑视的食物相似，或者对待长者的态度一般类似于我们已经给予自己长辈的尊重（*Mencius* 1A7, 6A10；Van Norden 2007: 234–246）。宋明时期的儒家倾向于类似地描述新道德知识的获取，经常援引孟子的“推”概念。朱熹补充说，我们部分通过看到一个我们应该遵守的规则或准则如何融入维系相互生命生成的规范体系中来获取新的道德知识（一个生命、成长和繁衍持续互惠的系统）。这是他所描述的辨别“为什么如此”的一部分，对于更深入地理解我们否则只是凭信仰或对传统的信心是必要的（*ZZYL* 18:625；Angle & Tiwald 2017: 122–129）。
+宋明时期的儒家从《孟子》中采纳了一般的道德知识获取框架，根据这一框架，存在一些典范情景或案例（例如，看到一个孩子快要掉进井里或者食物带着蔑视给予时）会引发可靠的良好或美德反应，但许多其他情况则不会。正如孟子描述他的目标那样，目标是“推”或扩展从那些典范情景到新情景中可靠的道德判断和情感反应（*Mencius* 2A6, 6A10）。在《孟子》中，部分是通过注意到案例之间的相关相似之处来实现这一点，就像当一个人意识到为了特殊好处收受贿赂是自贬身份和可耻的方式与接受带着蔑视的食物相似，或者对待长者的态度一般类似于我们已经给予自己长辈的尊重（*Mencius* 1A7, 6A10；Van Norden 2007: 234–246）。宋明时期的儒家倾向于类似地描述新道德知识的获取，经常援引孟子的“推”概念。朱熹补充说，我们部分通过看到一个我们应该遵守的规则或准则如何融入维系相互生命生成的规范体系中来获取新的道德知识（一个生命、成长和繁衍持续互惠的系统）。这是他所描述的辨别“为什么如此”的一部分，对于更深入地理解我们否则只是凭信仰或对传统的信心是必要的（*ZZYL* 18: 625；Angle & Tiwald 2017: 122–129）。
 
 宋明理学家也对不同种类或类型的知识感兴趣。经常讨论的区别之一是“常知”和“真知”之间的区别。常知通常被描述为仅仅是正确和可靠地确认某事物是真实或正确的肯定，而真知通常需要对事物有一定的了解，并且必然会产生（或者由此构成）一些适当的感受和动机。在一个有影响力的讨论中，程颐通过描述对附近有老虎袭击人的消息的两种不同反应来说明这种区别。一些村民感到惊讶，但并没有像一个曾经被老虎伤过的农民那样有强烈的、几乎是无意识的恐惧。程颐认为，道德知识应该具有与幸存者的恐惧相同的特征。王阳明后来利用这个粗糙的框架来论证他著名的知行合一的命题。
 
@@ -108,7 +108,7 @@
 
 由于佛教的影响，宋明时期的儒家对那些微妙或难以察觉的心理倾向和现象如何阻碍我们清晰正确地认识事物感兴趣。一些人认为，大多数或所有道德失败都可以归因于对自我重要性的夸大或以自我为中心的倾向(*si*)，这表现为自私的倾向或欲望，然后导致我们误入歧途(Shun 2010: 185–187)。因此，这个时代的儒家发展并探讨了各种技术，旨在帮助我们发现并削弱自私的倾向和欲望，以及其他类似佛教冥想的技术，帮助平静心灵，使其能够以更公正和平和的态度回应世界。
 
-第一组技术涉及发现和根除自私的想法或倾向，有时他们将这项任务描述为(或作为)“克己”(*keji* 克己)。许多人强调，在情感初现(*ji* 機)的边缘时寻找这些想法和倾向是最有利的，就在情感开始进入意识但在它们开始重塑其他心理过程和倾向之前(Smith 等，1990: 190–199; Tiwald & Van Norden 2014: 282)。大多数宋明时期的儒家都赞同这种自我监控，尽管有些人似乎认为这在修养自己方面起着更重要的作用。王阳明是那些认为这对改善个人品德和心境工作至关重要且不可或缺的人之一，有时说我们的自私倾向需要像强盗一样被追捕并彻底根除(*CXL* 39, 60, 279)。相比之下，朱熹认为自我监控很重要，但比王阳明认为的要求稍微少一些。在他看来，如果我们完全实现或体现了敬畏的注意力(*jing* 敬)，那么很多自我监控的工作就变得不必要了。朱熹将克己的工作比作治疗疾病的药物：当一个人身体健康时(在所思考的一切中体现出适当的敬畏注意力)，那么服药(自我监控)就是不必要的(*ZZYL* 9:151–52; Angle & Tiwald 2017: 146)。
+第一组技术涉及发现和根除自私的想法或倾向，有时他们将这项任务描述为(或作为)“克己”(*keji* 克己)。许多人强调，在情感初现(*ji* 機)的边缘时寻找这些想法和倾向是最有利的，就在情感开始进入意识但在它们开始重塑其他心理过程和倾向之前(Smith 等，1990: 190–199; Tiwald & Van Norden 2014: 282)。大多数宋明时期的儒家都赞同这种自我监控，尽管有些人似乎认为这在修养自己方面起着更重要的作用。王阳明是那些认为这对改善个人品德和心境工作至关重要且不可或缺的人之一，有时说我们的自私倾向需要像强盗一样被追捕并彻底根除(*CXL* 39, 60, 279)。相比之下，朱熹认为自我监控很重要，但比王阳明认为的要求稍微少一些。在他看来，如果我们完全实现或体现了敬畏的注意力(*jing* 敬)，那么很多自我监控的工作就变得不必要了。朱熹将克己的工作比作治疗疾病的药物：当一个人身体健康时(在所思考的一切中体现出适当的敬畏注意力)，那么服药(自我监控)就是不必要的(*ZZYL* 9: 151–52; Angle & Tiwald 2017: 146)。
 
 宋明时期的一些儒家辩论涉及冥想在实现心灵稳定和洞察力方面的作用。对于儒家来说，最流行的形式是“静坐”(*jingzuo* 靜坐)，许多人推荐这种方式来达到宁静或安宁的状态(*jing* 靜)。一些道学儒家认为，当心境处于这种宁静状态时，我们发现了自己内在的善性，这个观点最著名的持有者是程颢的学生杨时(1053–1135)。朱熹拒绝了这种冥想在修养自己中的作用观念，坚持认为我们不能直接体验或感知到自己的善性，而只能通过其对世俗事件的反应间接体验，这需要一种活跃和响应的状态，而不是冥想的状态(Angle & Tiwald 2017: 147–149)。然而，朱熹认为静坐在发展自己的心智纪律能力方面起着重要的支持作用。他认为这是学习和反思的重要补充，并建议对于一些心境特别难以驾驭的人来说，这可能是自我改进最有效的途径(Chan 1989: 255–270)。
 
@@ -118,9 +118,9 @@
 
 在宋、元和明代，儒家对德行的本质和心理结构感兴趣，特别是与培育和维护良好人际关系有关的德行。他们认为，他们对人际关系美德的强调使他们与道家和佛家有所区别，因为后两者倾向于提倡对个人救赎的关注（这被一些儒家视为轻视道德美德）和对无所附着的关注（许多人认为这与拥有有意义的人际关系是不相容的）。
 
-在这个时期，有一个相对强烈的共识，即五常是最重要的，无论是在它们应该规范的人类活动范围上，还是在它们对于具有美德的人的道德品质的贡献方面。"五常"（*Wuchang* 五常）包括仁（*ren* 仁，有时翻译为"仁爱"或"善良"）、义（*yi* 义）、礼（*li* 礼，有时简单地翻译为"礼仪"）、智（*zhi* 智）和信（*xin* 信）。这个时期的儒家经常指出这些特定美德之间的重叠之处，以至于一个人不能体现其中一个而不体现另一个（Angle & Tiwald 2017: 164–165）。但他们仍倾向于认为其中四种美德具有某些典型的领域或情境，在那里它们最为显著。仁的典型案例是一个人出于爱或关心他人的利益而行动，比如帮助或照顾家人。许多道学儒家也感情地描述这种美德为与其他人或更广泛地说是与宇宙“形成一体”，这反过来要求我们把自己看作是他人或反之的延伸（Ivanhoe 2018: 58–73; Tiwald & Van Norden 2014: 140–141）。义的典型案例是一个人拒绝违反那些理应被视为羞辱或可耻的禁忌，比如拒绝一个本来诱人的贿赂。有时义只是确保按照功绩或地位公正分配物品。礼的明显案例是一个人恭敬地执行一个仪式。然而，“礼”这个汉字的范围远比其英文对应词广泛，几乎涵盖了应该以尊重的态度执行的每一项社交礼仪，从婚礼和葬礼到问候（比如鞠躬）以及端茶递水。智的典型案例包括理解其他美德（它们的特征动机和感情）、正确评估一个人的品德质量（比如在选择某人担任重要职务时），以及知道实现美德目标的最佳手段。第五种美德，信，最好理解为一种忠诚于现实并以一种一贯可靠的方式加以引导的美德。一些儒家小心地指出，从根本意义上说，这种美德并没有自己的典型活动领域——它调节和支持所有美德，因为它们都要求我们注意现实并避免那些否则会让我们摆脱责任的自私幻想（*BXZY* 47–82; Angle & Tiwald 2017: 160–163; Fuji 2011: 28–31）。
+在这个时期，有一个相对强烈的共识，即五常是最重要的，无论是在它们应该规范的人类活动范围上，还是在它们对于具有美德的人的道德品质的贡献方面。"五常"（*Wuchang* 五常）包括仁（*ren* 仁，有时翻译为 "仁爱" 或 "善良"）、义（*yi* 义）、礼（*li* 礼，有时简单地翻译为 "礼仪"）、智（*zhi* 智）和信（*xin* 信）。这个时期的儒家经常指出这些特定美德之间的重叠之处，以至于一个人不能体现其中一个而不体现另一个（Angle & Tiwald 2017: 164–165）。但他们仍倾向于认为其中四种美德具有某些典型的领域或情境，在那里它们最为显著。仁的典型案例是一个人出于爱或关心他人的利益而行动，比如帮助或照顾家人。许多道学儒家也感情地描述这种美德为与其他人或更广泛地说是与宇宙“形成一体”，这反过来要求我们把自己看作是他人或反之的延伸（Ivanhoe 2018: 58–73; Tiwald & Van Norden 2014: 140–141）。义的典型案例是一个人拒绝违反那些理应被视为羞辱或可耻的禁忌，比如拒绝一个本来诱人的贿赂。有时义只是确保按照功绩或地位公正分配物品。礼的明显案例是一个人恭敬地执行一个仪式。然而，“礼”这个汉字的范围远比其英文对应词广泛，几乎涵盖了应该以尊重的态度执行的每一项社交礼仪，从婚礼和葬礼到问候（比如鞠躬）以及端茶递水。智的典型案例包括理解其他美德（它们的特征动机和感情）、正确评估一个人的品德质量（比如在选择某人担任重要职务时），以及知道实现美德目标的最佳手段。第五种美德，信，最好理解为一种忠诚于现实并以一种一贯可靠的方式加以引导的美德。一些儒家小心地指出，从根本意义上说，这种美德并没有自己的典型活动领域——它调节和支持所有美德，因为它们都要求我们注意现实并避免那些否则会让我们摆脱责任的自私幻想（*BXZY* 47–82; Angle & Tiwald 2017: 160–163; Fuji 2011: 28–31）。
 
-一个潜在的混淆源于仁有时被更基本和全面的意义所使用，它指的不是关爱或关心他人福祉的美德，而是指与或融入更大的相互生命生成系统相协调的美德，被理解为正确参与一个系统，其中每个人的生命适当地为他人的生命做出贡献 (*BXZY* 70; 安格尔 & 蒂沃尔德 2017: 162–163)。在这更基本意义上的仁不一定需要由爱或关心来驱使 —— 一个人可以展现与更大整体协调的美德，即使在出于羞耻感（如所需的义）或尊敬（如礼仪所需）的情况下。但有一种情况是，即使在行为正当或符合礼仪的时候，我们也展现了相互生命生成的美德。根据朱熹的一种解释，这是因为所有其他美德都可以被看作是从为相互生命生成做出贡献的角色中获得其目的和价值，就像春天的生命产出赋予夏天、秋天和冬天目的和价值一样 (*ZZYL* 20:694; 安格尔 & 蒂沃尔德 2017: 166–167)。
+一个潜在的混淆源于仁有时被更基本和全面的意义所使用，它指的不是关爱或关心他人福祉的美德，而是指与或融入更大的相互生命生成系统相协调的美德，被理解为正确参与一个系统，其中每个人的生命适当地为他人的生命做出贡献 (*BXZY* 70; 安格尔 & 蒂沃尔德 2017: 162–163)。在这更基本意义上的仁不一定需要由爱或关心来驱使 —— 一个人可以展现与更大整体协调的美德，即使在出于羞耻感（如所需的义）或尊敬（如礼仪所需）的情况下。但有一种情况是，即使在行为正当或符合礼仪的时候，我们也展现了相互生命生成的美德。根据朱熹的一种解释，这是因为所有其他美德都可以被看作是从为相互生命生成做出贡献的角色中获得其目的和价值，就像春天的生命产出赋予夏天、秋天和冬天目的和价值一样 (*ZZYL* 20: 694; 安格尔 & 蒂沃尔德 2017: 166–167)。
 
 ## 6. 治理
 
@@ -138,7 +138,7 @@
 
 关于这个问题的大部分明确辩论发生在北宋末期王安石及其继任者进行了一系列激进改革尝试之后。然而，无论这些改革本身多么合理，它们都恰逢一场导致普遍债务和动荡的灾荒，最后一轮重大改革发生在北宋沦陷于女真入侵者之前不久。随着这种国家痛苦和耻辱作为后来南宋许多政治思想的历史背景，许多政治思想家指责仅仅通过改革（而非性格的同时改善）来改善治理的尝试导致了北宋的覆灭。因此，大多数政治思想家倾向于赞同荀子在人（品德良好的人）与制度规则的相对重要性问题上的立场。朱熹在对学生的一些记录发表了这一共识立场的版本：
 
-这个时代存在两个缺陷：其制度规则（*fa*）的缺陷和当前政治局势的缺陷。规则上的缺陷可以很容易一次性全部改变，但当前政治局势的缺陷都存在于人们之中。当人们带着自私的心态去处理事务时，它们如何能够改变呢！仁宗末年的规则可以被认为是有缺陷的。王安石在（成为皇帝的宰相）后很快改变了它们，但这只是导致了许多新的缺陷。这是因为人们很难改变。（*ZZYL* 108:2688；翻译略有修改，参考 Zhu 2019: 62）
+这个时代存在两个缺陷：其制度规则（*fa*）的缺陷和当前政治局势的缺陷。规则上的缺陷可以很容易一次性全部改变，但当前政治局势的缺陷都存在于人们之中。当人们带着自私的心态去处理事务时，它们如何能够改变呢！仁宗末年的规则可以被认为是有缺陷的。王安石在（成为皇帝的宰相）后很快改变了它们，但这只是导致了许多新的缺陷。这是因为人们很难改变。（*ZZYL* 108: 2688；翻译略有修改，参考 Zhu 2019: 62）
 
 朱熹等以人格为中心的理论家，如胡宏，似乎认为良好的制度规则和有德行的国家官员都是良好治理所必需的。但一旦规则变得良好，朱熹提出，人们不能指望在没有品德的改善的情况下取得进一步的进展，以确保更好的实施。朱熹和胡宏似乎也被这样一个观念所触动，即制度规则本身几乎没有因果责任，更多地应归功于有德行的人们的善用（Tiwald 2019）。
 
@@ -155,7 +155,7 @@
 ### A. Major Chinese Sources Cited by Title or Abbreviation
 
 * \[*BXZY*] *Beixi ziyi* 北溪字義, by Chen Chun 陳淳 (1159–1223), cited by section number in the English translation below.
-  * Chen Chun陳淳, 1983, *Beixi ziyi* 北溪字義, Beijing: Zhonghua shuju (Chinese edition).
+  * Chen Chun 陳淳, 1983, *Beixi ziyi* 北溪字義, Beijing: Zhonghua shuju (Chinese edition).
   * Ch’en, Ch’un, 1986, *Neo-Confucian Terms Explained (the Pei-Hsi Tzu-I)*, Wing-tsit Chan (trans.), New York: Columbia University Press (English translation).
 * \[*CXL*] *Chuanxi lu* 傳習錄, by Wang Yangming 王陽明 (1472–1529), cited by section number in the English translation below.
   * Wang Yangming 王陽明, “*Chuanxi lu* 傳習錄”, in Wang Yangming 王陽明, *Wang Yangming quanji* 王陽明全集, Shanghai: Shanghai guji chuban she, 1–143, 1992 (Chinese edition).
@@ -166,10 +166,10 @@
 * \[*HNCSYS*] *Henan Chengshi yishu* 河南程氏遺書, by Cheng Hao 程顥 (1032–1085) and Cheng Yi 程頤 (1033–1107), cited by *juan* and page number in the Chinese edition below.
   * Cheng Hao 程顥 and Cheng Yi 程頤, “*Henan Chengshi yishu* 河南程氏遺書”, in Cheng Hao 程顥 and Cheng Yi 程頤, *Ercheng ji* 二程集, vol. 1., Wang Xiaoyu 王孝魚 (ed.), Beijing: Zhonghua shuju, 1–349, 1981 (Chinese edition).
 * \[*JSL*] *Jinsi lu* 近思錄, edited by Zhu Xi 朱熹 (1130–1200) and Lü Zuqian 呂祖謙 (1137–1181), cited by chapter and section number in the English translation below.
-  * Zhu Xi 朱熹and Lü Zuqian 呂祖, 謙_Jinsi Lu_ 近思錄, Zhengzhou: Zhongzhou guji chuban she, 2008 (Chinese edition).
+  * Zhu Xi 朱熹 and Lü Zuqian 呂祖, 謙_Jinsi Lu_ 近思錄, Zhengzhou: Zhongzhou guji chuban she, 2008 (Chinese edition).
   * Chu, Hsi, and Lü, Tsu-ch’ien, *Reflections on Things at Hand*, Wing-tsit Chan (trans.), New York: Columbia University Press, 1965 (English translation).
 * \[*Mencius*] *Mengzi* 孟子, attributed to Mengzi 孟子 (4th century BCE), cited by book and section number in the following editions.
-  * *Mengzi zhengyi* 孟子正義, Jiao Xun焦循 (comm. and ed.), Beijing: Zhonghua shuju, 1987 (Chinese edition).
+  * *Mengzi zhengyi* 孟子正義, Jiao Xun 焦循 (comm. and ed.), Beijing: Zhonghua shuju, 1987 (Chinese edition).
   * *Mengzi: With Selections from Traditional Commentaries*, Bryan Van Norden (trans.), Cambridge, MA: Hackett Publishing, 2008 (English translation).
 * \[*MRXA*] *Mingru xue’an* 明儒學案, by Huang Zongxi 黃宗羲 (1610–1695), cited by *juan* and page number in the Chinese edition below.
   * Huang Zongxi 黃宗羲, *Mingru xue’an* 明儒學案, vols. 1–4, Taibei: Zhonghua shuju, 1965 (Chinese edition).
@@ -190,26 +190,26 @@
 ### B. Others Sources Cited by Author and Date
 
 * Adler, Joseph A., 2014, *Reconstructing the Confucian Dao: Zhu Xi’s Appropriation of Zhou Dunyi*, Albany, NY: SUNY Press.
-* Angle, Stephen C., 2002, *Human Rights and Chinese Thought: A Cross-Cultural Inquiry*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511499227
+* Angle, Stephen C., 2002, *Human Rights and Chinese Thought: A Cross-Cultural Inquiry*, Cambridge, UK: Cambridge University Press. doi: 10.1017/CBO9780511499227
 * –––, 2018, “Buddhism and Zhu Xi’s Epistemology of Discernment”, in Makeham 2018b: 156–192.
 * Angle, Stephen C. and Justin Tiwald, 2017, *Neo-Confucianism: A Philosophical Introduction*, Cambridge, UK: Polity Press.
-* Araki, Kengo 荒木見悟, 2008. *Fojiao yu Rujiao* 佛教與儒, Liao Zhaoheng寥肇亨 (trans.), Taibei: Lianjing chubanshe.
+* Araki, Kengo 荒木見悟, 2008. *Fojiao yu Rujiao* 佛教與儒, Liao Zhaoheng 寥肇亨 (trans.), Taibei: Lianjing chubanshe.
 * Birdwhistell, Anne, 1989, *Transition to Neo-Confucianism: Shao Yung on Knowledge and Symbols of Reality*, Stanford, CA: Stanford University Press.
 * Bol, Peter K., 2008, *Neo-Confucianism in History*, Cambridge, MA: Harvard University Asian Center.
 * Brown, Miranda, 2011, “Returning the Gaze: An Experiment in Reviving Gu Yanwu (1613–1682)”, *Fragments*, 1: 41–77. \[[Brown 2011 available online](http://hdl.handle.net/2027/spo.9772151.0001.006)]
 * Cai, Zhenfeng 蔡振豐, 2009, “*Zhuzi dui Fojiao de lijie ji qi xianzhi* 朱子對佛教的理解及其限制”, in Zhenfeng Cai 蔡振豐 (ed.), *Dongya Zhuzixue de quanshi yu fazhan* 東亞朱子學的詮釋與發展, Taibei: Taiwan daxue chuban xin.
 * Chan, Wing-tsit, 1989, *Chu Hsi: New Studies*, Honolulu: University of Hawaii Press.
 * Chen, Lai 陳來, 1987, *Zhu Xi zhexue yanjiu* 朱熹哲學研究, Beijing: Zhongguo shehui kexue.
-* –––, 1991, *Youwu zhi jing—Wang Yangming zhexue de jingshen* 有無之境－王陽明哲學的精神, Beijing: Renmin chuban she.
+* –––, 1991, *Youwu zhi jing—Wang Yangming zhexue de jingshen* 有無之境 － 王陽明哲學的精神, Beijing: Renmin chuban she.
 * –––, 2010, *Song Yuan Ming zhexue shi jiaocheng* 宋元明哲學史教程, Beijing: Shenghuo, dushu, xinzhi sanlian shudian.
 * Cheng, Chung-ying, 1991, “Li-Ch’i and Li-Yü Relationships in Seventeenth-Century Neo-Confucian Philosophy”, in Chung-ying Cheng (ed.), *New Dimensions of Confucian and Neo-Confucian Philosophy*, Albany, NY: SUNY Press, pp. 504–36.
-* Cheng, Yu-yin (trans. and ed.), 2001, “Selected Writings by Luo Rufang (1515-1588)”,in Susan Mann and Yu-yin Cheng (eds.), *Under Confucian Eyes: Writings on Gender in Chinese History*, Berkeley and Los Angeles: University of California Press, pp. 103-18.
+* Cheng, Yu-yin (trans. and ed.), 2001, “Selected Writings by Luo Rufang (1515-1588)”, in Susan Mann and Yu-yin Cheng (eds.), *Under Confucian Eyes: Writings on Gender in Chinese History*, Berkeley and Los Angeles: University of California Press, pp. 103-18.
 * Chu, Hsi (Zhu Xi), 1990, *Learning to Be a Sage: Selections from the Conversations of Master Chu, Arranged Topically*, Gardner, Daniel K. (trans. and ed.), Berkeley: University of California Press.
 * Dai, Zhen 戴震, 2009, *Dai Zhen ji* 戴震集, Shanghai: Shanghai guji chubanshe.
 * de Bary, Wm. Theodore, 1970, “Individualism and Humanitarianism in Late Ming Thought”, in Wm. Theodore de Bary (ed.), *Self and Society in Ming Thought*, New York: Columbia University Press, pp. 145–248.
 * –––, 2011, “*Waiting for the Dawn*: Huang Zongxi’s Critique of the Chinese Dynastic System”, in *Finding Wisdom in East Asian Classics*, edited by Wm. Theodore de Bary, New York: Columbia University Press, pp. 199–208.
 * Fu, Charles Wei-hsun, 1986, “Chu Hsi on Buddhism,” in Wing-tsit Chan (ed.), *Chu Hsi and Neo-Confucianism*, Honolulu: University of Hawaii Press, pp. 377-407.
-* Fuji, Michiaki 藤井倫明, 2011, *Zhu Xi sixiang jiegou tansuo* 朱熹思想結構探索,Taibei: Taida chuban zhongxin.
+* Fuji, Michiaki 藤井倫明, 2011, *Zhu Xi sixiang jiegou tansuo* 朱熹思想結構探索, Taibei: Taida chuban zhongxin.
 * Graham, A. C., 1992, *Two Chinese Philosophers*, La Salle: Open Court.
 * Gregory, Peter N., 2002, *Tsung-Mi and the Sinification of Buddhism*, Honolulu: University of Hawaii Press.
 * Gu, Yanwu, 2017, *Record of Daily Knowledge and Collected Poems and Essays*, Ian Johnston (trans. and ed.), New York: Columbia University Press.
@@ -217,45 +217,45 @@
 * –––, 2002, *Ethics in the Confucian Tradition: The Thought of Mengzi and Wang Yangming*, rev. 2nd edition, Indianapolis: Hackett Publishing.
 * –––, 2009, *Readings from the Lu-Wang School of Neo-Confucianism*, Philip J. Ivanhoe (trans. and ed.), Cambridge, MA: Hackett Publishing.
 * –––, 2016, *Three Streams: Confucian Reflections on Learnings and the Moral Heart-Mind in China, Korea, and Japan*, New York: Oxford University Press.
-* –––, 2018, *Oneness: East Asian Conceptions of Virtue, Happiness, and How We Are All Connected*, New York: Oxford University Press. doi:10.1093/oso/9780190840518.001.0001
+* –––, 2018, *Oneness: East Asian Conceptions of Virtue, Happiness, and How We Are All Connected*, New York: Oxford University Press. doi: 10.1093/oso/9780190840518.001.0001
 * Jorgensen, John, 2018, “The Radiant Mind: Zhu Xi and the Chan Doctrine of *Tathāgatagarbha*,” in Makeham 2018b: 36–121.
-* Kasoff, Ira E., 1984, *The Thought of Chang Tsai (1020–1077)*, New York: Cambridge University Press. doi:10.1017/CBO9780511558511
-* Kim, Youngmin, 2008, “Cosmogony and Political Philosophy,” *Philosophy East\&West,* 58(1):108-25.
+* Kasoff, Ira E., 1984, *The Thought of Chang Tsai (1020–1077)*, New York: Cambridge University Press. doi: 10.1017/CBO9780511558511
+* Kim, Youngmin, 2008, “Cosmogony and Political Philosophy,” *Philosophy East\&West,* 58(1): 108-25.
 * Lee, Pauline C., 2012, *Li Zhi, Confucianism, and the Virtue of Desire*, Albany, NY: SUNY Press
 * Lee, Ming-huei, 2017, *Confucianism: Its Roots and Global Significance*, Davide Jones (ed.), Honolulu: University of Hawai’i Press.
-* Liu, JeeLoo, 2010, “Wang Fuzhi’s Philosophy of Principle (*Li*) Inherent in *Qi*”, in Makeham 2010: 355–379. doi:10.1007/978-90-481-2930-0\_17
-* –––, 2018, *Neo-Confucianism: Metaphysics, Mind, and Morality*, Malden, MA: Wiley & Sons.
-* Liu, Youming 劉又銘, 2000, *Li zai qi zhong: Luo Qinshun, Wang Tingxiang, Gu Yanwu, Dai Zhen qiben lun yanjiu* 理在氣中: 羅欽順, 王廷相, 顧炎武, 戴震氣本論研究, Taibei: Wunan tushu chuban she.
-* Liu, Zhenwei 劉振維, 2003, “*Luelun Zhu Xi ‘renxing benshan’ shuo yu fojiao zhongguo wenhuazhong zhi ‘foxing’ de guanlian—yi Zhu Xi Sishu jizhu yu Guifeng Zongmi Huayan Yuanren lun wei li* ” 略論朱熹「人性本善」說與佛教中國化中之「佛性」的關聯—以朱熹《四書集注》與圭峰宗密《華嚴原人論》為例, *Zhexue yu wenhua* 哲學與文化, 349: 43–60.
-* Lu, Xiangshan 陸象山, 1980, *Lu Jiuyuan ji* 陸九淵集, Beijing: Zhonghua shuju.
-* Luo, Rufang 羅汝芳, 2007, *Luo Rufang ji* 羅汝芳集, Fang Zuyou 方祖猷, Liang Yiqun 梁一群, Li Qinglong 李慶龍, et al. (eds.), Nanjing: Fenghuang chubanshe.
-* Makeham, John (ed.), 2003a, *New Confucianism: A Critical Examination*, New York: Palgrave Macmillan. doi:10.1057/9781403982414
-* –––, 2003b, *Transmitters and Creators: Chinese Commentators and Commentaries on the Analects*, Cambridge, MA: Harvard University Asia Center.
-* ––– (ed.), 2010, *Dao Companion to Neo-Confucian Philosophy*, Dordrecht: Springer. doi:10.1007/978-90-481-2930-0
+* Liu, JeeLoo, 2010, “Wang Fuzhi’s Philosophy of Principle (*Li*) Inherent in *Qi*”, in Makeham 2010: 355–379. doi: 10.1007/978-90-481-2930-0\_17
+* –––, 2018, * Neo-Confucianism: Metaphysics, Mind, and Morality*, Malden, MA: Wiley & Sons.
+* Liu, Youming 劉又銘, 2000, * Li zai qi zhong: Luo Qinshun, Wang Tingxiang, Gu Yanwu, Dai Zhen qiben lun yanjiu* 理在氣中: 羅欽順, 王廷相, 顧炎武, 戴震氣本論研究, Taibei: Wunan tushu chuban she.
+* Liu, Zhenwei 劉振維, 2003, “* Luelun Zhu Xi ‘renxing benshan’ shuo yu fojiao zhongguo wenhuazhong zhi ‘foxing’ de guanlian—yi Zhu Xi Sishu jizhu yu Guifeng Zongmi Huayan Yuanren lun wei li * ” 略論朱熹「人性本善」說與佛教中國化中之「佛性」的關聯—以朱熹《四書集注》與圭峰宗密《華嚴原人論》為例, * Zhexue yu wenhua* 哲學與文化, 349: 43–60.
+* Lu, Xiangshan 陸象山, 1980, * Lu Jiuyuan ji* 陸九淵集, Beijing: Zhonghua shuju.
+* Luo, Rufang 羅汝芳, 2007, * Luo Rufang ji* 羅汝芳集, Fang Zuyou 方祖猷, Liang Yiqun 梁一群, Li Qinglong 李慶龍, et al. (eds.), Nanjing: Fenghuang chubanshe.
+* Makeham, John (ed.), 2003a, * New Confucianism: A Critical Examination*, New York: Palgrave Macmillan. doi: 10.1057/9781403982414
+* –––, 2003b, * Transmitters and Creators: Chinese Commentators and Commentaries on the Analects*, Cambridge, MA: Harvard University Asia Center.
+* ––– (ed.), 2010, * Dao Companion to Neo-Confucian Philosophy*, Dordrecht: Springer. doi: 10.1007/978-90-481-2930-0
 * –––, 2018a, “Monism and the Problem of the Ignorance and Badness in Chinese Buddhism and Zhu Xi’s Neo-Confucianism”, in Makeham 2018b: 277–344.
-* ––– (ed.), 2018b, *The Buddhist Roots of Zhu Xi’s Philosophical Thought*, New York: Oxford University Press. doi:10.1093/oso/9780190878559.001.0001
+* ––– (ed.), 2018b, * The Buddhist Roots of Zhu Xi’s Philosophical Thought*, New York: Oxford University Press. doi: 10.1093/oso/9780190878559.001.0001
 * Niu, Pu, 1998, “Confucian Statecraft in Song China: Ye Shi and the Yongjia School”, PhD dissertation, Tempe, AZ: Arizona State University.
-* Ong, Chang Woei, 2006, “The Principles are Many: Wang Tingxiang and Intellectual Transition in Mid-Ming China”, *Harvard Journal of Asiatic Studies* 66(2): 461–493.
-* Peng, Guoxiang 彭國翔, 2003, *Liangzhi xue de zhankai—Wang Longxi yu zhongwanming de Yangmingxue* 良知學的展開—王龍溪與中晚明的陽明學, Taibei: Taiwan xuesheng shuju.
-* Peterson, Willard, 1998, “Confucian Learning in Late Ming Thought”, in *The Cambridge History of China*, vol. 8, part 2, Denis Twitchett and Frederick W. Mote (eds.), New York: Cambridge University Press, pp. 708–788.
-* Qi, Xia 漆侠, 1982, *Songdai jingji shi* 宋代經濟史, Shanghai: Shanghai renmin.
-* Shun, Kwong-loi, 2010, “Zhu Xi’s Moral Psychology”, in Makeham 2010: 177–195. doi:10.1007/978-90-481-2930-0\_9
-* Smith, Kidder, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt, 1990, *Sung Dynasty Uses of the I Ching*, Princeton: Princeton University Press.
-* Tillman, Hoyt Cleveland, 1982, *Utilitarian Confucianism: Ch’en Liang’s Challenge to Chu Hsi*, Cambridge, MA: Council on East Asian Studies.
-* Tiwald, Justin, 2012, “Dai Zhen’s Defense of Self-Interest”, *Journal of Chinese Philosophy*, 38(s1): 29–45. doi:10.1111/j.1540-6253.2012.01687.x
-* –––, 2016, “Xunzi Among the Chinese Neo-Confucians”, in *Dao Companion to the Philosophy of Xunzi*, Eric L. Hutton (ed.), Dordrecht: Springer, pp. 435–473. doi:10.1007/978-94-017-7745-2\_15
+* Ong, Chang Woei, 2006, “The Principles are Many: Wang Tingxiang and Intellectual Transition in Mid-Ming China”, * Harvard Journal of Asiatic Studies* 66(2): 461–493.
+* Peng, Guoxiang 彭國翔, 2003, * Liangzhi xue de zhankai—Wang Longxi yu zhongwanming de Yangmingxue* 良知學的展開—王龍溪與中晚明的陽明學, Taibei: Taiwan xuesheng shuju.
+* Peterson, Willard, 1998, “Confucian Learning in Late Ming Thought”, in * The Cambridge History of China*, vol. 8, part 2, Denis Twitchett and Frederick W. Mote (eds.), New York: Cambridge University Press, pp. 708–788.
+* Qi, Xia 漆侠, 1982, * Songdai jingji shi* 宋代經濟史, Shanghai: Shanghai renmin.
+* Shun, Kwong-loi, 2010, “Zhu Xi’s Moral Psychology”, in Makeham 2010: 177–195. doi: 10.1007/978-90-481-2930-0\_9
+* Smith, Kidder, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt, 1990, * Sung Dynasty Uses of the I Ching*, Princeton: Princeton University Press.
+* Tillman, Hoyt Cleveland, 1982, * Utilitarian Confucianism: Ch’en Liang’s Challenge to Chu Hsi*, Cambridge, MA: Council on East Asian Studies.
+* Tiwald, Justin, 2012, “Dai Zhen’s Defense of Self-Interest”, * Journal of Chinese Philosophy*, 38(s1): 29–45. doi: 10.1111/j.1540-6253.2012.01687.x
+* –––, 2016, “Xunzi Among the Chinese Neo-Confucians”, in * Dao Companion to the Philosophy of Xunzi*, Eric L. Hutton (ed.), Dordrecht: Springer, pp. 435–473. doi: 10.1007/978-94-017-7745-2\_15
 * –––, 2018a, “Zhu Xi’s Critique of Buddhism: Selfishness, Salvation, Self-Cultivation”, in Makeham 2018b: 122–155.
-* –––, 2018b, “Confucianism and Neo-Confucianism”, *Oxford Handbook of Virtue*, Nancy E. Snow (ed.), New York: Oxford University Press, pp. 171–189.
-* –––, 2019, “On the View that People and Not Institutions Bear Primary Credit for Success in Governance: Confucian Arguments”, *Journal of Confucian Philosophy and Culture*, 32: 65–97. \[[Tiwald 2019 available online](https://philpapers.org/go.pl?id=TIWOTV\&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FTIWOTV.pdf)]
-* Tiwald, Justin and Bryan W. Van Norden (eds.), 2014, *Readings in Later Chinese Philosophy: Han to the Twentieth Century*, Indianapolis: Hackett Publishing.
-* Van Norden, Bryan W., 2007, *Virtue Ethics and Consequentialism in Early Chinese Philosophy*, New York: Cambridge University Press. doi:10.1017/CBO9780511497995
-* Wyatt, Don J., 1996, *The Recluse of Loyang: Shao Yung and the Moral Evolution of Early Sung Thought*, Honolulu: University of Hawaii Press.
-* Xiao, Gongquan蕭公權, 1982, *Zhongguo zhengzhi sixiang shi* 中國政治思想史 , vol. 2., Taibei: Lianjing chubanshe.
-* Xie, Bingying 謝冰瑩, 2003, *Xinyi sishu duben* 新譯四書讀本, Tabei: Sanmin shuju.
-* Yang, Rur-bin, 2015, “Reverence and Quietude in Neo-Confucianism”, in Halvor Eifring (ed.), *Meditation and Culture: The Interplay of Practice and Context*, London: Bloomsbury Publishing, pp. 76–101.
-* Zhu Xi, 2019, *Zhu Xi: Selected Writings*, Philip J. Ivanhoe (ed.), New York: Oxford University Press.
-* Ziporyn, Brook A., 2018, “The *Ti-Yong* 體用 Model and Its Discontents: Models of Ambiguous Priority in Chinese Buddhism and Zhu Xi’s Neo-Confucianism”, in Makeham 2018b: 193–276.
-* Zuo, Ya, 2019, “Zhang Zai’s (1020–1077) Critique of the Senses”, *Journal of Chinese History*, 3(1): 83–111. doi:10.1017/jch.2018.17
+* –––, 2018b, “Confucianism and Neo-Confucianism”, * Oxford Handbook of Virtue*, Nancy E. Snow (ed.), New York: Oxford University Press, pp. 171–189.
+* –––, 2019, “On the View that People and Not Institutions Bear Primary Credit for Success in Governance: Confucian Arguments”, * Journal of Confucian Philosophy and Culture*, 32: 65–97. \[[Tiwald 2019 available online](https://philpapers.org/go.pl?id=TIWOTV\&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FTIWOTV.pdf)]
+* Tiwald, Justin and Bryan W. Van Norden (eds.), 2014, * Readings in Later Chinese Philosophy: Han to the Twentieth Century*, Indianapolis: Hackett Publishing.
+* Van Norden, Bryan W., 2007, * Virtue Ethics and Consequentialism in Early Chinese Philosophy*, New York: Cambridge University Press. doi: 10.1017/CBO9780511497995
+* Wyatt, Don J., 1996, * The Recluse of Loyang: Shao Yung and the Moral Evolution of Early Sung Thought*, Honolulu: University of Hawaii Press.
+* Xiao, Gongquan 蕭公權, 1982, * Zhongguo zhengzhi sixiang shi* 中國政治思想史 , vol. 2., Taibei: Lianjing chubanshe.
+* Xie, Bingying 謝冰瑩, 2003, * Xinyi sishu duben* 新譯四書讀本, Tabei: Sanmin shuju.
+* Yang, Rur-bin, 2015, “Reverence and Quietude in Neo-Confucianism”, in Halvor Eifring (ed.), * Meditation and Culture: The Interplay of Practice and Context*, London: Bloomsbury Publishing, pp. 76–101.
+* Zhu Xi, 2019, * Zhu Xi: Selected Writings*, Philip J. Ivanhoe (ed.), New York: Oxford University Press.
+* Ziporyn, Brook A., 2018, “The * Ti-Yong* 體用 Model and Its Discontents: Models of Ambiguous Priority in Chinese Buddhism and Zhu Xi’s Neo-Confucianism”, in Makeham 2018b: 193–276.
+* Zuo, Ya, 2019, “Zhang Zai’s (1020–1077) Critique of the Senses”, * Journal of Chinese History*, 3(1): 83–111. doi: 10.1017/jch.2018.17
 
 ## Academic Tools
 

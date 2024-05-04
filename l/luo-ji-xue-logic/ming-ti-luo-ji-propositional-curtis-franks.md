@@ -1,6 +1,6 @@
 # 命题逻辑 propositional (Curtis Franks)
 
-*首次发表于2023年5月18日*
+*首次发表于 2023 年 5 月 18 日*
 
 命题逻辑学是基于命题连接词这一特定类别的逻辑运算符在确定这些命题的真实性或可断言性条件方面所起的作用，研究句子的含义和推理关系的学科。早在亚里士多德时代，人们就观察到命题连接词具有逻辑意义，并且在许多世纪里，对它们的一些性质进行了零散的观察。但是，命题逻辑学本身直到 19 世纪才出现，人们才意识到研究命题连接词在与其他运算符隔离的情况下的行为的价值。
 
@@ -18,7 +18,7 @@
 
 命题逻辑学就是研究这种逻辑标准的规范的学科，其中只考虑命题连接词的意义（例如上面的例子中的“和”，但不包括“是”、“都”等），以评估推理的合理性或句子的真值条件等。
 
-命题连接词是一种语言粒子，它将句子绑定在一起以创建一个新的复合句，或者屈折一个单独的句子以创建一个新的句子。在命题连接词中，命题连接词具有特征，即当它操作的原始句子是（或表达）命题时，其应用产生的新句子也是（或表达）命题。正如人们所期望的那样，关于命题是什么的理论有很多竞争性的理论，而命题逻辑起源于这场辩论之外的科学学科。因此，确定哪些语言粒子符合命题连接词的精确划分有些模糊甚至有争议。但是，一般的启发法则是，命题连接词必须从一些原始句子中创建一个同级别的新句子。直观地说，因为“A和B”只是对A和B的内容的肯定，而“非A”只是对A的内容的否定，所以“和”和“非”作为命题连接词。另一方面，“A是必要的”不是关于A的内容的主张，而是关于句子A本身的主张。同样，“A蕴含B”是关于句子A和B的主张，它们彼此之间存在蕴含关系，而不是关于A和B本身所主张的事物的主张。因此，必要性限定词和蕴含关系通常不被视为命题连接词，而是被视为情态操作符。在“如果A，则B”等表达中，条件运算符尚未达成共识：在某些分析中，它被视为命题连接词，但在其他分析中则不是。
+命题连接词是一种语言粒子，它将句子绑定在一起以创建一个新的复合句，或者屈折一个单独的句子以创建一个新的句子。在命题连接词中，命题连接词具有特征，即当它操作的原始句子是（或表达）命题时，其应用产生的新句子也是（或表达）命题。正如人们所期望的那样，关于命题是什么的理论有很多竞争性的理论，而命题逻辑起源于这场辩论之外的科学学科。因此，确定哪些语言粒子符合命题连接词的精确划分有些模糊甚至有争议。但是，一般的启发法则是，命题连接词必须从一些原始句子中创建一个同级别的新句子。直观地说，因为“A 和 B”只是对 A 和 B 的内容的肯定，而“非 A”只是对 A 的内容的否定，所以“和”和“非”作为命题连接词。另一方面，“A 是必要的”不是关于 A 的内容的主张，而是关于句子 A 本身的主张。同样，“A 蕴含 B”是关于句子 A 和 B 的主张，它们彼此之间存在蕴含关系，而不是关于 A 和 B 本身所主张的事物的主张。因此，必要性限定词和蕴含关系通常不被视为命题连接词，而是被视为情态操作符。在“如果 A，则 B”等表达中，条件运算符尚未达成共识：在某些分析中，它被视为命题连接词，但在其他分析中则不是。
 
 在呈现命题逻辑时，我们不会假设任何特定的命题理论。正如我们将看到的，只有当没有特定的命题概念存在时，命题逻辑的发展和多样性才能得到充分的认识。唯一的规定是连接词始终作用于整个句子，而不是作用于子句项，如谓词或术语，并且它们创建的句子与它们所作用的句子在同一评估类中，而不是关于该类句子的高阶表达式。
 
@@ -104,14 +104,14 @@
 
 | input |  |
 | ------- | -- |
-| **T**,**T**,**T**    | **T** |
-| **T**,**T**,**F**    | **T** |
-| **T**,**F**,**T**    | **F** |
-| **T**,**F**,**F**    | **F** |
-| **F**,**T**,**T**    | **F** |
-| **F**,**T**,**F**    | **T** |
-| **F**,**F**,**T**    | **F** |
-| **F**,**F**,**F**    | **F** |
+| **T**, **T**, **T**    | **T** |
+| **T**, **T**, **F**    | **T** |
+| **T**, **F**, **T**    | **F** |
+| **T**, **F**, **F**    | **F** |
+| **F**, **T**, **T**    | **F** |
+| **F**, **T**, **F**    | **T** |
+| **F**, **F**, **T**    | **F** |
+| **F**, **F**, **F**    | **F** |
 
 有一个简单的算法可以构造一个与 (A, B, C) 等价的布尔公式：对于定义表的每一行，其中输出值为 T，构造一个由被赋值为 T 的每个命题变量和被赋值为 F 的每个命题变量的否定构成的合取式：在我们的例子中，来自第一行，来自第二行和来自第三行。然后将这些合取式进行析取。在我们的例子中，最终的公式是
 
@@ -125,11 +125,11 @@
 
 DNF 定理的一个推论是，布尔逻辑——命题逻辑的片段，只有连接词 , , 和 ，从某种意义上说与具有无限多个连接词和无限多个连接词性的完全经典命题逻辑一样具有表达能力。这个事实通常被表达为，经典解释上的连接词集合  是“真值功能完备的”：其他连接词在上述使用的意义上并不完全是冒牌货，但它们每个都可以被看作是布尔连接词的某种组合的缩写。代数上，人们可以认为无限函数空间完全由布尔函数所覆盖。
 
-真值功能完备性的概念可以通过简单的观察进一步推进，即  是  的经典等价物，因此它也可以被视为一种缩写。因此，  这对是真值功能完备的。同样，  是  的缩写：  是真值功能完备的。1913 年，亨利·谢弗重新发现了查尔斯·桑德斯·皮尔斯的一项未发表的观察，即函数  和  分别逼近了自然语言表达式“不是两者都……和……”和“既不……也不……”的真值条件，每个函数都独立地覆盖了双值真值函数的整个空间。
+真值功能完备性的概念可以通过简单的观察进一步推进，即  是  的经典等价物，因此它也可以被视为一种缩写。因此，  这对是真值功能完备的。同样，  是  的缩写：  是真值功能完备的。1913 年，亨利 · 谢弗重新发现了查尔斯 · 桑德斯 · 皮尔斯的一项未发表的观察，即函数  和  分别逼近了自然语言表达式“不是两者都……和……”和“既不……也不……”的真值条件，每个函数都独立地覆盖了双值真值函数的整个空间。
 
 #### 2.1.3 在开关电路中的实现
 
-然而，比将连接词的数量减少到最小可能的真值完备集更具生产力的是选择能够最清晰地揭示演绎推理结构的连接词。我们已经指出，布尔连接词通过紧密逼近普通语言中的“非”、“与”和“或”的真值条件，提供了一种评估有内容的人类推理的形式机制。布尔选择的另一个优点是它在继电器和开关电路描述中的自然实现。1940 年，克劳德·香农描述了一种命题逻辑的解释，其中句子字母代表电路：原子电路是节点，通过一个门控路径连接，当闭合时允许电流通过，当打开时不允许电流通过。表示电路 A 和 B 的串联连接，表示它们的并联连接，表示一个电路，如果 A 打开则闭合，如果 A 关闭则打开（这是一个理论假设：仅凭解释本身无法预先确定如何构建这样的电路）。让值 0 表示电路闭合，值 1 表示电路打开，可以看出命题逻辑的公式表示了构建电路的所有可能方式，它们的经典真值分析确定了所表示电路是否打开：打开的电路评估为 T，闭合的电路评估为 F。
+然而，比将连接词的数量减少到最小可能的真值完备集更具生产力的是选择能够最清晰地揭示演绎推理结构的连接词。我们已经指出，布尔连接词通过紧密逼近普通语言中的“非”、“与”和“或”的真值条件，提供了一种评估有内容的人类推理的形式机制。布尔选择的另一个优点是它在继电器和开关电路描述中的自然实现。1940 年，克劳德 · 香农描述了一种命题逻辑的解释，其中句子字母代表电路：原子电路是节点，通过一个门控路径连接，当闭合时允许电流通过，当打开时不允许电流通过。表示电路 A 和 B 的串联连接，表示它们的并联连接，表示一个电路，如果 A 打开则闭合，如果 A 关闭则打开（这是一个理论假设：仅凭解释本身无法预先确定如何构建这样的电路）。让值 0 表示电路闭合，值 1 表示电路打开，可以看出命题逻辑的公式表示了构建电路的所有可能方式，它们的经典真值分析确定了所表示电路是否打开：打开的电路评估为 T，闭合的电路评估为 F。
 
 由于经典命题逻辑的简洁性，香农的论文极大地促进了电路设计。立即可以看出，任何电路都等同于（即在相同条件下打开和关闭）由析取范式公式描述的电路。因此，可以给出复杂电路 A、B 和 C，将 A 和 B 串联起来（），然后将其与 C 并联（），最后希望得到一个在此电路打开时关闭的电路：。这个公式描述了你所追求的电路关闭的条件，但它并没有指定一种构建它的方法。析取范式定理告诉我们，存在一个具有相同闭合条件的“正常”电路。由于这种正常电路中的所有开关都在原子级别上应用，因此有一种已知的构建方法。此外，还有系统化的方法可以将析取范式公式简化为具有最少原子出现次数的等价公式（Quine 1955 提供了一种最初由 Samson 和 Mills 1954 发现的算法）。结合香农的结果，这不仅表明符号操作提供了如何构建具有所需闭合条件的电路的指南，而且可以用于设计最简单和资源需求最少的电路。
 
@@ -137,13 +137,13 @@ DNF 定理的一个推论是，布尔逻辑——命题逻辑的片段，只有�
 
 古典解释的另一个重要特点是二元真值函数的特殊作用，除非给定输入 T，F，否则始终返回值 T。这个真值函数经常被争议地描述为给出陈述语气条件连接词“如果...，那么...”的真值条件，甚至错误地被描述为“蕴含”的关系。强调将真值功能归因于蕴含关系的错误是很重要的。说一个命题蕴含另一个命题是说在第一个命题为真的任何条件下，第二个命题也为真。暗示这种关系是真值功能的是在暗示仅仅知道 A 和 B 是否为真就足以确定 A 是否蕴含 B。这种暗示是站不住脚的，因为 A 和 B 的真假对其他条件没有任何指示。B 可能为真，但即使如此，也不被 A 蕴含，因为在其他情况下，A 可能为真而 B 为假。正如上面强调的那样，蕴含关系通常不被认为是一个命题连接词，而是两个命题之间可能存在的关系。
 
-更有趣的是捕捉陈述语气条件表达式的真值条件的论点。给定这种真值功能解释的二元连接词被称为“物质条件”，通常用符号表示。可以很容易地验证等价于布尔表达式。关于普通语言条件表达式是否是真值功能的可行性有大量的文献。这个论点本身显然是古老的，归功于梅拉加的菲洛和克里西普斯在命题逻辑的早期系统化中引用。它在现代背景下得到了查尔斯·皮尔斯、H·P·格赖斯和弗兰克·杰克逊的支持。但它的反对者很多（参见关于陈述条件的条目）。
+更有趣的是捕捉陈述语气条件表达式的真值条件的论点。给定这种真值功能解释的二元连接词被称为“物质条件”，通常用符号表示。可以很容易地验证等价于布尔表达式。关于普通语言条件表达式是否是真值功能的可行性有大量的文献。这个论点本身显然是古老的，归功于梅拉加的菲洛和克里西普斯在命题逻辑的早期系统化中引用。它在现代背景下得到了查尔斯 · 皮尔斯、H·P· 格赖斯和弗兰克 · 杰克逊的支持。但它的反对者很多（参见关于陈述条件的条目）。
 
-特别有趣的是，最初由弗兰克·拉姆齐提出的建议，即陈述语气中形式为“如果 A，那么 B”的表达最好以条件概率的方式理解为“在给定 A 的情况下，B 的概率几乎肯定是()”。1976 年，大卫·刘易斯证明了这种理解下的条件表达式不仅不是真值功能的，而且实际上也不是命题。多萝西·埃奇顿（1995: 280）为刘易斯的结果提供了以下简单的论证：假设测量了某个（不一定是真值功能的）命题的概率。如果 A 蕴含 B，那么当 A 为假时，B 为真。因此，当 A 不可能时，B 不可能。但是，A 的不可能性当然不会阻止 B 的概率非常低。另一方面，如果 A 不蕴含 B，那么当 A 为真时，B 可能为假，对 B 的确定性仍然存在疑问。但是对 B 的确定足以使 A 成立。由此可知，既不蕴含也不不蕴含，这种情况只能发生在没有任何真值条件的情况下，即不测量任何命题的概率。
+特别有趣的是，最初由弗兰克 · 拉姆齐提出的建议，即陈述语气中形式为“如果 A，那么 B”的表达最好以条件概率的方式理解为“在给定 A 的情况下，B 的概率几乎肯定是()”。1976 年，大卫 · 刘易斯证明了这种理解下的条件表达式不仅不是真值功能的，而且实际上也不是命题。多萝西 · 埃奇顿（1995: 280）为刘易斯的结果提供了以下简单的论证：假设测量了某个（不一定是真值功能的）命题的概率。如果 A 蕴含 B，那么当 A 为假时，B 为真。因此，当 A 不可能时，B 不可能。但是，A 的不可能性当然不会阻止 B 的概率非常低。另一方面，如果 A 不蕴含 B，那么当 A 为真时，B 可能为假，对 B 的确定性仍然存在疑问。但是对 B 的确定足以使 A 成立。由此可知，既不蕴含也不不蕴含，这种情况只能发生在没有任何真值条件的情况下，即不测量任何命题的概率。
 
-这个例子再次凸显了确定哪些联结词可以在命题逻辑的范围内进行分析的问题的微妙性。在某些解释（包括真值功能解释）中，陈述语气的条件句可以进行分析，但在拉姆齐的解释中则不行。1982 年，W. V. O.奎因通过表达谨慎之意（他将之归因于菲利普·赖内兰德），不要混淆条件句“如果 A，那么 B”的陈述与在条件 A 下陈述 B。他认为，后者通常是理解“如果 A，那么 B”这种表达方式的正确方式，因为在没有条件 A 的情况下，它是一个非陈述句，根本不能理解为命题。
+这个例子再次凸显了确定哪些联结词可以在命题逻辑的范围内进行分析的问题的微妙性。在某些解释（包括真值功能解释）中，陈述语气的条件句可以进行分析，但在拉姆齐的解释中则不行。1982 年，W. V. O.奎因通过表达谨慎之意（他将之归因于菲利普 · 赖内兰德），不要混淆条件句“如果 A，那么 B”的陈述与在条件 A 下陈述 B。他认为，后者通常是理解“如果 A，那么 B”这种表达方式的正确方式，因为在没有条件 A 的情况下，它是一个非陈述句，根本不能理解为命题。
 
-哥德洛布·弗雷格经常被视为物质条件的捍卫者之一，但他对这个连接词的态度是微妙的。他对命题逻辑的系统化确实包含了一个具有由...给出的真值条件的连接词，但弗雷格拒绝了这个连接词表达自然语言中的陈述条件的想法。他写道：“在‘如果’这个词中隐含的因果关系...并没有被我们的符号所表达”（1972: 116）。关于弗雷格是否认为物质条件甚至无法捕捉到普通语言中陈述条件的真值条件，还是他只是指物质条件虽然捕捉到了这些条件的真值条件，但无法捕捉到其他非真值条件的意义方面，这是一个持续争论的问题。清楚的是，无论他在普通条件陈述和物质条件之间检测到了什么不匹配，都没有阻止他将后者置于他的逻辑研究的中心。
+哥德洛布 · 弗雷格经常被视为物质条件的捍卫者之一，但他对这个连接词的态度是微妙的。他对命题逻辑的系统化确实包含了一个具有由...给出的真值条件的连接词，但弗雷格拒绝了这个连接词表达自然语言中的陈述条件的想法。他写道：“在‘如果’这个词中隐含的因果关系...并没有被我们的符号所表达”（1972: 116）。关于弗雷格是否认为物质条件甚至无法捕捉到普通语言中陈述条件的真值条件，还是他只是指物质条件虽然捕捉到了这些条件的真值条件，但无法捕捉到其他非真值条件的意义方面，这是一个持续争论的问题。清楚的是，无论他在普通条件陈述和物质条件之间检测到了什么不匹配，都没有阻止他将后者置于他的逻辑研究的中心。
 
 鉴于真值功能完备的连接词集的多样性，为什么弗雷格或其他人会选择将物质条件作为古典逻辑的原始连接词？弗雷格认识到选择物质条件作为原始连接词的价值不在于它对普通语言表达的近似，而在于它在逻辑理论内部的作用。让我们用  表示在真理的古典理论中公式 B 是有效的。推广这个推理符号，我们还可以用  表示 B 是 A 的古典命题推论，其中  是一组命题公式，  表示 B 是  中所有公式的古典命题推论。一个基本事实，可以通过真值表进行验证，即  当且仅当 。在  为空的情况下，  当且仅当 。我们之前强调过，物质条件不能被理解为逻辑蕴涵的表达。另一方面，古典逻辑蕴涵的关系实际上是一种（特别严格的）逻辑蕴涵关系，物质条件与之直接相关：  不表示 A 和 B 之间的任何蕴涵关系，但  是古典命题有效性的主张，是这种蕴涵的表达。
 
@@ -169,7 +169,7 @@ DNF 定理的一个推论是，布尔逻辑——命题逻辑的片段，只有�
 
 ### 2.2 推导
 
-引入于 1879 年的哥特洛布·弗雷格（Gottlob Frege）的形式演绎系统提供了命题连接词含义的替代规范。这种系统的特点是一组有限的公式，称为公理，和一组有限的推理规则。弗雷格系统中的命题公理是
+引入于 1879 年的哥特洛布 · 弗雷格（Gottlob Frege）的形式演绎系统提供了命题连接词含义的替代规范。这种系统的特点是一组有限的公式，称为公理，和一组有限的推理规则。弗雷格系统中的命题公理是
 
 推理规则是
 
@@ -336,7 +336,7 @@ K2
 
 #### 2.3.1 自然演算
 
-在 1920 年早期的讲座中，大卫·希尔伯特指出，一个形式演绎系统的推理规则可以被看作是提供它们所控制的联结词的意义（希尔伯特 2013: 323）。希尔伯特的想法在根岑的自然演绎演算中得到了深刻的实现。自然演绎是“证明论语义学”中的一个早期而具有象征意义的成就：这一传统是以推理而非指示性术语来指定定义。
+在 1920 年早期的讲座中，大卫 · 希尔伯特指出，一个形式演绎系统的推理规则可以被看作是提供它们所控制的联结词的意义（希尔伯特 2013: 323）。希尔伯特的想法在根岑的自然演绎演算中得到了深刻的实现。自然演绎是“证明论语义学”中的一个早期而具有象征意义的成就：这一传统是以推理而非指示性术语来指定定义。
 
 在像 cpc 这样的系统中，唯一负责特定联结词的推理规则是假言演绎。如果这个规则不仅仅是描述了一个演绎有效的模式，而实际上提供了联结词的定义，那么这意味着什么呢？如果我们将假言演绎理解为不仅仅是众多有效推理模式之一，而是说它是条件句的定义，它授权了从 A 到 B 的推理，那么我们的意思之一是，任何与 A 一起允许从 A 到 B 的推理的句子都表达了与 A 或更强的等价的东西。为了说明这一点，让我们将假言演绎用转角符号表示为
 
@@ -377,7 +377,7 @@ Gentzen 观察到，具有引入/消除规则对于连接词，，，的自然�
 1. 当且仅当，当且仅当，
 2. 如果通过要求推理箭头的右侧最多只有一个公式，并相应地重写规则为，来修改 pk，则 pk 会发生变化。
 
-所得的演算π是这样的，当且仅当，当且仅当，其中 ipc 代表 Heyting 的命题直觉主义逻辑和其等价的形式演绎系统。（显然，规则交换(R)和收缩(R)在π中没有作用，可以省略。）
+所得的演算 π 是这样的，当且仅当，当且仅当，其中 ipc 代表 Heyting 的命题直觉主义逻辑和其等价的形式演绎系统。（显然，规则交换(R)和收缩(R)在 π 中没有作用，可以省略。）
 
 3. 割除定理：如果通过删除“割”规则简单修改 pk 和 pi，所得的演算 pk-和 pi-是这样的，当且仅当，当且仅当，和，当且仅当，。
 4. 在 pk-或 pi-证明中出现的所有公式都是出现在最终结论中的公式的子公式。（这个“子公式性质”显然不适用于 pk 和 pi 的证明。）
@@ -392,7 +392,7 @@ Gentzen 观察到，具有引入/消除规则对于连接词，，，的自然�
 
 证明。如果在经典真值解释下，公式在逻辑上是有效的，则称一个推理序列是有效的。正如人们所期望的那样，很容易验证 pk 的所有规则都保持有效性。更令人惊讶的是，除了 thinning 规则之外，当反向阅读时，相同的规则也保持有效性。将这样的推理图形称为“可逆的”。现在假设给定一个包含 n 个逻辑连接词的推理序列。一个直接的数学归纳法证明了，如果是有效的，则存在一个 pk 证明。首先假设不包含逻辑连接词）。那么它的前提和后件中必定有一些原子是相同的。显然，可以通过一系列的 thinning 和 exchange 推理从中证明。现在假设当时是可证明的，选择其中的任意一个不是原子的公式，并确定它的主要连接词。例如，假设它在中，并且它的主要连接词是。然后我们可以从下往上构建一个证明，以我们选择的公式为基础，并用表示删除了所选公式出现的部分的。
 
-由于（L）的可逆性，该树的两个叶节点都标有包含 k 个连接词的有效推理序列。归纳假设保证它们有 pk 证明。因此，有一个 pk 证明。类似的论证适用于每个连接词。在特殊情况下，如果是空的并且包含一个（有效的）公式，这个构造表明如果◻
+由于（L）的可逆性，该树的两个叶节点都标有包含 k 个连接词的有效推理序列。归纳假设保证它们有 pk 证明。因此，有一个 pk 证明。类似的论证适用于每个连接词。在特殊情况下，如果是空的并且包含一个（有效的）公式，这个构造表明如果 ◻
 
 正如前面提到的，Gentzen 没有提出这个非常简单版本的完备性定理。因为他对削减消除作为他的规则完备性的表达感兴趣，所以他追求了这个方向，并提供了一种复杂的证明转换技术。然而，对于 pk-的完备性的了解，可以导致对削减消除的另一种验证：假设。因为所有基本的推理都是有效的，而且所有的 pk 规则都保持有效性，所以。但是 pk-是完备的，所以。
 
@@ -509,7 +509,7 @@ Gödel 进一步声明：“在 S4 中，命题的翻译是不可推导的”，
 
 回到近似自然语言表达的问题，一些作者提出通过对形式为的命题的真实性施加更强的条件来克服物质条件的明显不足。相关逻辑学家认为，物质条件所展示的许多特征似乎违背了说话者对条件表达式真实性的直觉，这些特征源于将前提与结论无关的条件表达式的真实性归因。为了确保相关性，他们提出了“变量共享条件”。变量共享通常被认为只是相关性的必要条件，然而，描述足够的形式条件的项目仍在进行中。
 
-连接逻辑学家的目标是实现这样的直觉，即条件语句为真时，其结论的否定与其前提不相容。这对条件语句的真实性有着强大的历史背景，在斯多嘉哲学家克里西普和塞克斯图斯·恩皮里库斯的逻辑手稿中出现，并在当时显然获得了比梅拉加的菲洛相反的更多支持。相关的想法已经出现在《先验分析》中，亚里士多德声称如果非 A，则 A 是不可能的。这个“亚里士多德的论点”可以形式化为，显然在经典逻辑和直觉逻辑中都是无效的。有时这个公式也被称为亚里士多德的论点。连接逻辑系统接受这两个公理，以及旨在形式化上述克里西普思想的原始原则和（这两个原则在基本理论 ipc 上是相互推导的，与亚里士多德的论点相同）。
+连接逻辑学家的目标是实现这样的直觉，即条件语句为真时，其结论的否定与其前提不相容。这对条件语句的真实性有着强大的历史背景，在斯多嘉哲学家克里西普和塞克斯图斯 · 恩皮里库斯的逻辑手稿中出现，并在当时显然获得了比梅拉加的菲洛相反的更多支持。相关的想法已经出现在《先验分析》中，亚里士多德声称如果非 A，则 A 是不可能的。这个“亚里士多德的论点”可以形式化为，显然在经典逻辑和直觉逻辑中都是无效的。有时这个公式也被称为亚里士多德的论点。连接逻辑系统接受这两个公理，以及旨在形式化上述克里西普思想的原始原则和（这两个原则在基本理论 ipc 上是相互推导的，与亚里士多德的论点相同）。
 
 通过将经典无效的原则作为定理包含在内，这些逻辑学风险因为 cpc 的最大化而变得琐碎。一些方法通过拒绝自然推理的“-消除规则”等经典原则来解决这个问题，从而避免了任何公式及其否定成为定理。其他方法是“半矛盾的”，即允许定理 A 和 B，但不允许从这个矛盾中推导出任意公式。半矛盾的方法通常可以用上述提到的 4 值真值赋值进行解释。
 
@@ -539,53 +539,53 @@ Gödel 进一步声明：“在 S4 中，命题的翻译是不可推导的”，
 
 ### References
 
-* Belnap, Nuel D., 1977, “A Useful Four-Valued Logic”, in *Modern Uses of Multiple-Valued Logic*, J. Michael Dunn and George Epstein (eds.), Dordrecht/Boston: D. Reidel, 5–37. doi:10.1007/978-94-010-1161-7_2
-* Bernays, Paul, 1926, “Axiomatische Untersuchung des Aussagen-Kalkuls der *Principia Mathematica*”, *Mathematische Zeitschrift*, 25: 305–320. doi:10.1007/BF01283841
-* Cook, Stephen A., 1971, “The Complexity of Theorem-Proving Procedures”, in *Proceedings of the Third Annual ACM Symposium on Theory of Computing*, New York: ACM Press, 151–158. doi:10.1145/800157.805047
-* Cobreros, Pablo, Paul Égré, David Ripley, and Robert van Rooij, 2014, “Foreword: Three-Valued Logics and Their Applications”, *Journal of Applied Non-Classical Logics*, 24(1–2): 1–11. doi:10.1080/11663081.2014.909631
-* Church, Alonzo, 1936, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–353. doi:10.2307/2371045
-* Edgington, Dorothy, 1995, “On Conditionals”, *Mind*, 104(414): 235–329. doi:10.1093/mind/104.414.235
-* Franks, Curtis, 2010, “Cut as Consequence”, *History and Philosophy of Logic*, 31(4): 349–379. doi:10.1080/01445340.2010.522365
-* –––, 2021, “The Deduction Theorem (Before and After Herbrand)”, *History and Philosophy of Logic*, 42(2): 129–159. doi:10.1080/01445340.2021.1889117
+* Belnap, Nuel D., 1977, “A Useful Four-Valued Logic”, in *Modern Uses of Multiple-Valued Logic*, J. Michael Dunn and George Epstein (eds.), Dordrecht/Boston: D. Reidel, 5–37. doi: 10.1007/978-94-010-1161-7_2
+* Bernays, Paul, 1926, “Axiomatische Untersuchung des Aussagen-Kalkuls der *Principia Mathematica*”, *Mathematische Zeitschrift*, 25: 305–320. doi: 10.1007/BF01283841
+* Cook, Stephen A., 1971, “The Complexity of Theorem-Proving Procedures”, in *Proceedings of the Third Annual ACM Symposium on Theory of Computing*, New York: ACM Press, 151–158. doi: 10.1145/800157.805047
+* Cobreros, Pablo, Paul Égré, David Ripley, and Robert van Rooij, 2014, “Foreword: Three-Valued Logics and Their Applications”, *Journal of Applied Non-Classical Logics*, 24(1–2): 1–11. doi: 10.1080/11663081.2014.909631
+* Church, Alonzo, 1936, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–353. doi: 10.2307/2371045
+* Edgington, Dorothy, 1995, “On Conditionals”, *Mind*, 104(414): 235–329. doi: 10.1093/mind/104.414.235
+* Franks, Curtis, 2010, “Cut as Consequence”, *History and Philosophy of Logic*, 31(4): 349–379. doi: 10.1080/01445340.2010.522365
+* –––, 2021, “The Deduction Theorem (Before and After Herbrand)”, *History and Philosophy of Logic*, 42(2): 129–159. doi: 10.1080/01445340.2021.1889117
 * Frege, Gottlob, 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle: L. Nebert. Translated as *Conceptual Notation: a formula language of pure thought modeled upon the formula language of arithmetic* in Frege 1972:: 101–208.
 * –––, 1910 [1980], “Letter to Jourdain”, translated and reprinted in his *Philosophical and Mathematical Correspondence*, G. Gabriel, et al. (eds.), Chicago: University of Chicago Press, 1980.
 * –––, 1972, *Conceptual Notation, and Related Articles*, Terrell Ward Bynum (trans.), Oxford: Clarendon Press.
-* Gentzen, Gerhard, 1932, “Über die Existenz unabhängiger Axiomensysteme zu unendlichen Satzsystemen”, *Mathematische Annalen* 107: 329–50. Translated as “On the Existence of Independent Axiomsystems for Infinite Sentence Systems”, in Gentzen 1969: 29–52. doi:10.1007/BF01448897 (de)
+* Gentzen, Gerhard, 1932, “Über die Existenz unabhängiger Axiomensysteme zu unendlichen Satzsystemen”, *Mathematische Annalen* 107: 329–50. Translated as “On the Existence of Independent Axiomsystems for Infinite Sentence Systems”, in Gentzen 1969: 29–52. doi: 10.1007/BF01448897 (de)
 * –––, 1934–35, “Untersuchungen über das logische Schließen”, Gentzen’s doctoral thesis at the University of Göttingen, translated as “Investigations into Logical Deduction”, in Gentzen 1969: 68–131.
 * –––, 1969, *The Collected Papers of Gerhard Gentzen*, M. E. Szabo (ed.), (Studies in Logic and the Foundations of Mathematics 55), Amsterdam: North-Holland.
-* Girard, Jean-Yves, 1987, “Linear Logic”, *Theoretical Computer Science*, 50(1): 1–101. doi:10.1016/0304-3975(87)90045-4
+* Girard, Jean-Yves, 1987, “Linear Logic”, *Theoretical Computer Science*, 50(1): 1–101. doi: 10.1016/0304-3975(87)90045-4
 * Glivenko, Valéry, 1929, “Sur quelques points de la logique de M. Brouwer”, *Académie royale de Belgique, Bulletin de la classe des sciences*, series 5, 15: 183–188.
-* Gödel, Kurt, 1930 [1986], “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 37: 349–360. Translated by S. Bauer-Mengelberg as “The completeness of the axioms of the functional calculus of logic” reprinted in Gödel 1986: 102–23. doi:10.1007/BF01696781
+* Gödel, Kurt, 1930 [1986], “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 37: 349–360. Translated by S. Bauer-Mengelberg as “The completeness of the axioms of the functional calculus of logic” reprinted in Gödel 1986: 102–23. doi: 10.1007/BF01696781
 * –––, 1932 [1986], “Zum intuitionistischen Aussagenkalkül”, *Anzeiger der Akademie der Wissenschaftischen in Wien*, 69: 65–66. Translated by J. Dawson as “On the intuitionistic propositional calculus”, in Gödel 1986: 223–25.
 * –––, 1933a [1986], “Eine Interpretation des intuitionistischen Aussagenkalküls”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 39–40. Translated as “An Interpretation of the Intuitionistic Propositional Calculus”, in Gödel 1986: 301–302.
 * –––, 1933b [1986], “Zur intuitionistischen Arithmetik und Zahlentheorie”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 34–38. Translated as “On Intuitionistic Arithmetic and Number Theory”, in Gödel 1986: 287–295.
 * –––, 1986, *Collected Works, Volume I: Publications 1929–1936*, Solomon Feferman, John W. Dawson Jr, Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean van Heijenoort (eds.), Oxford/New York: Clarendon Press.
 * Herbrand, Jacques, 1930, *Recherches sur la théorie de la démonstration*, Herbrand’s doctoral thesis at the University of Paris. Translated by W. Goldfarb, except pp. 133–88 translated by B. Dreben and J. van Heijenoort, as “Investigations in proof theory” in Herbrand 1968 [1971: 44–202].
 * –––, 1968 [1971], *Écrits Logigues*, Jean van Heijenoort (ed.), (Bibliothèque de Philosophie Contemporaine. Logique et Philosophie Des Sciences), Paris: Presses universitaires de France. Translated as *Logical Writings*, Warren D. Goldfarb (trans.), Dordrecht, Holland: D. Reidel, 1971.
-* Hilbert, David, 2013, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic 1917-1933* (David Hilbert’s Lectures on the Foundations of Mathematics and Physics, 1891–1933, vol. 3), William Ewald and Wilfried Sieg (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-540-69444-1
+* Hilbert, David, 2013, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic 1917-1933* (David Hilbert’s Lectures on the Foundations of Mathematics and Physics, 1891–1933, vol. 3), William Ewald and Wilfried Sieg (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg. doi: 10.1007/978-3-540-69444-1
 * Hilbert, David and W. Ackermann, 1928, *Grundzüge der theoretischen Logik*, (Die Grundlehren der mathematischen Wissenschaften 27), Berlin: J. Springer.
 * Johansson, Ingebrigt, 1937, “Der Minimalkalkül, ein reduzierter Intuitionistischer Formalismus”, *Compositio Mathematica*, 4: 119–136. [[Johansson 1937 available online](http://www.numdam.org/item/CM_1937__4__119_0/)]
 * Kalmár, László, 1935, “Über die Axiomatisierbarkeit des Aussagenkalküls”, *Acta Scientiarum Mathematicarum*, 7(4): 222–43.
 * Kolmogorov [Kolmogoroff], Andrey N., 1925 [1967], “О принцип tertium non datur”, *Matematicheskii Sbornik*, 32(4): 646–667. Translated as “On the Principle of Excluded Middle”, in *From Frege to Gödel A Source Book in Mathematical Logic, 1879-1931*, Jean van Heijenoort (ed.), Cambridge, MA: Harvard University Press, 1967, 416–437.
-* Kreisel, Georg and Hilary Putnam, 1957, “Eine Unableitbarkeitsbeweismethode für den Intuitionistischen Aussagenkalkül”, *Archiv für Mathematische Logik und Grundlagenforschung*, 3(3–4): 74–78. doi:10.1007/BF01988049
-* Lewis, David, 1976, “Probabilities of Conditionals and Conditional Probabilities”, *The Philosophical Review*, 85(3): 297–315. doi:10.2307/2184045
-* Lincoln, Patrick, John Mitchell, Andre Scedrov, and Natarajan Shankar, 1992, “Decision Problems for Propositional Linear Logic”, *Annals of Pure and Applied Logic*, 56(1–3): 239–311. doi:10.1016/0168-0072(92)90075-B
+* Kreisel, Georg and Hilary Putnam, 1957, “Eine Unableitbarkeitsbeweismethode für den Intuitionistischen Aussagenkalkül”, *Archiv für Mathematische Logik und Grundlagenforschung*, 3(3–4): 74–78. doi: 10.1007/BF01988049
+* Lewis, David, 1976, “Probabilities of Conditionals and Conditional Probabilities”, *The Philosophical Review*, 85(3): 297–315. doi: 10.2307/2184045
+* Lincoln, Patrick, John Mitchell, Andre Scedrov, and Natarajan Shankar, 1992, “Decision Problems for Propositional Linear Logic”, *Annals of Pure and Applied Logic*, 56(1–3): 239–311. doi: 10.1016/0168-0072(92)90075-B
 * Nicod, J. G. P., 1917, “A Reduction in the Number of Primitive Propositions of Logic”, *Proceedings of the Cambridge Philosophical Society*, 19: 32–41.
-* Post, Emil L., 1921, “Introduction to a General Theory of Elementary Propositions”, *American Journal of Mathematics*, 43(3): 163–185. doi:10.2307/2370324
+* Post, Emil L., 1921, “Introduction to a General Theory of Elementary Propositions”, *American Journal of Mathematics*, 43(3): 163–185. doi: 10.2307/2370324
 * Priest, Graham, 1992, “What is a non-normal world?”, *Logique & Analyse*, 139–140: 291–302.
 * Prucnal, Tadeusz, 1976, “Structural Completeness of Medvedev’s Propositional Calculus”, *Reports on Mathematical Logic*, 6: 103–105.
-* Quine, W. V. O., 1955, “A Way to Simplify Truth Functions”, *The American Mathematical Monthly*, 62(9): 627–631. doi:10.1080/00029890.1955.11988710
+* Quine, W. V. O., 1955, “A Way to Simplify Truth Functions”, *The American Mathematical Monthly*, 62(9): 627–631. doi: 10.1080/00029890.1955.11988710
 * –––, 1982, *Methods of Logic*, fourth edition, Cambridge, MA: Harvard University Press.
 * Samson, E. and B. Mills, 1954, “Circuit minimization: algebra and algorithms for new Boolean canonical expressions”, Technical Report 54–21, Air Force Cambridge Research Center.
 * Schröder, Ernst, 1890, *Vorlesungen über die Algebra der Logik (exakte Logik)*, volume 1, Leipzig: B. G. Teubner. Reprinted 1966, New York: Chelsea.
 * Shannon, Claude Elwood, 1940, “A Symbolic Analysis of Relay and Switching Circuits”, Thesis (M.S.), Massachusetts Institute of Technology, Dept. of Electrical Engineering. [[Shannon 1940 available online](https://dspace.mit.edu/handle/1721.1/11173)]
-* Sheffer, Henry Maurice, 1913, “A Set of Five Independent Postulates for Boolean Algebras, with Application to Logical Constants”, *Transactions of the American Mathematical Society*, 14(4): 481–488. doi:10.1090/S0002-9947-1913-1500960-1
-* Sorbi, Andrea, 1991, “Some Quotient Lattices of the Medvedev Lattice”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 37(9–12): 167–182. doi:10.1002/malq.19910370905
+* Sheffer, Henry Maurice, 1913, “A Set of Five Independent Postulates for Boolean Algebras, with Application to Logical Constants”, *Transactions of the American Mathematical Society*, 14(4): 481–488. doi: 10.1090/S0002-9947-1913-1500960-1
+* Sorbi, Andrea, 1991, “Some Quotient Lattices of the Medvedev Lattice”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 37(9–12): 167–182. doi: 10.1002/malq.19910370905
 * Takeuti, Gaisi, 1987 [2013], *Proof Theory*, second edition, (Studies in Logic and the Foundations of Mathematics 81), Amsterdam/New York: North-Holland. Reprinted New York: Dover, 2013.
-* Tarski, Alfred, 1933, “Einige Betrachtungen über die Begriffe der ω-Widerspruchsfreiheit und der ω-Vollständigkeit”, *Monatshefte für Mathematik und Physik*, 40(1): 97–112. doi:10.1007/BF01708855
+* Tarski, Alfred, 1933, “Einige Betrachtungen über die Begriffe der ω-Widerspruchsfreiheit und der ω-Vollständigkeit”, *Monatshefte für Mathematik und Physik*, 40(1): 97–112. doi: 10.1007/BF01708855
 * Troelstra, A. S. and D. van Dalen, 1988, *Constructivism in Mathematics, Volume 1: An Introduction*, (Studies in Logic and the Foundations of Mathematics 121), Amsterdam: North-Holland.
-* Turing, A. M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society*, series 2, 42(1): 230–265. doi:10.1112/plms/s2-42.1.230
-* Urquhart, Alasdair, 1984, “The Undecidability of Entailment and Relevant Implication”, *Journal of Symbolic Logic*, 49(4): 1059–1073. doi:10.2307/2274261
+* Turing, A. M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society*, series 2, 42(1): 230–265. doi: 10.1112/plms/s2-42.1.230
+* Urquhart, Alasdair, 1984, “The Undecidability of Entailment and Relevant Implication”, *Journal of Symbolic Logic*, 49(4): 1059–1073. doi: 10.2307/2274261
 * Whitehead, Alfred North and Bertrand Russell, 1925–27, *Principia Mathematica, Volumes 1, 2 and 3*, 2nd Edition, Cambridge: Cambridge University Press.
 
 ### More Readings
@@ -600,14 +600,14 @@ Another sensitive treatment of propositional logic with attention to non-classic
 
 Among standard textbook treatments, standout presentations of propositional logic can be found in Quine 1982 and in:
 
-* Buss, Samuel R., 1998, “An Introduction to Proof Theory”, in *Handbook of Proof Theory*, Samuel R. Buss (ed.), (Studies in Logic and the Foundations of Mathematics 137), Amsterdam: Elsevier, 1–78. doi:10.1016/S0049-237X(98)80016-5
+* Buss, Samuel R., 1998, “An Introduction to Proof Theory”, in *Handbook of Proof Theory*, Samuel R. Buss (ed.), (Studies in Logic and the Foundations of Mathematics 137), Amsterdam: Elsevier, 1–78. doi: 10.1016/S0049-237X(98)80016-5
 * Kleene, Stephen Cole, 1952, *Introduction to Metamathematics*, (The University Series in Higher Mathematics), New York: Van Nostrand.
 * Mendelson, Elliott, 2015, *Introduction to Mathematical Logic*, sixth edition, (Textbooks in Mathematics), Boca Raton, FL: CRC Press.
-* Von Plato, Jan, 2013, *Elements of Logical Reasoning*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139567862
+* Von Plato, Jan, 2013, *Elements of Logical Reasoning*, Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9781139567862
 
 An excellent presentation of the rapid historical development of the subject in the early twentieth century is:
 
-* Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), Oxford/New York: Oxford University Press, 318–470. doi:10.1093/acprof:oso/9780195137316.003.0029
+* Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), Oxford/New York: Oxford University Press, 318–470. doi: 10.1093/acprof: oso/9780195137316.003.0029
 
 ## Academic Tools
 

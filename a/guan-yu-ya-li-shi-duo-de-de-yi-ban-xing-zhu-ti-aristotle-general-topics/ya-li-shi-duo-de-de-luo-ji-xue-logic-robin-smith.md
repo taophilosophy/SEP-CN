@@ -14,7 +14,7 @@
 
 亚里士多德的逻辑著作包含了我们所拥有的最早的逻辑形式研究。因此，更加令人惊讶的是，它们共同构成了一个高度发展的逻辑理论，能够在许多世纪内获得巨大的尊重：康德，他距离亚里士多德比我们远十倍，甚至认为在这两千年的时间里没有任何重要的东西被添加到亚里士多德的观点中。
 
-在过去的一个世纪里，亚里士多德作为逻辑学家的声誉经历了两次显著的逆转。现代形式逻辑的兴起，继弗雷格和罗素的工作之后，带来了对亚里士多德逻辑的许多严重限制的认识；今天，很少有人会试图坚持认为它足以作为理解科学、数学甚至日常推理的基础。与此同时，接受现代形式技术培训的学者们开始以新的尊重之眼看待亚里士多德，不仅仅是因为他的结果的正确性，更是因为他的工作与现代逻辑之间的显著相似性。正如乔纳森·利尔所说，“亚里士多德与现代逻辑学家共享对元理论的基本兴趣”：他的主要目标不是提供一个实用的论证指南，而是研究推理系统本身的属性。
+在过去的一个世纪里，亚里士多德作为逻辑学家的声誉经历了两次显著的逆转。现代形式逻辑的兴起，继弗雷格和罗素的工作之后，带来了对亚里士多德逻辑的许多严重限制的认识；今天，很少有人会试图坚持认为它足以作为理解科学、数学甚至日常推理的基础。与此同时，接受现代形式技术培训的学者们开始以新的尊重之眼看待亚里士多德，不仅仅是因为他的结果的正确性，更是因为他的工作与现代逻辑之间的显著相似性。正如乔纳森 · 利尔所说，“亚里士多德与现代逻辑学家共享对元理论的基本兴趣”：他的主要目标不是提供一个实用的论证指南，而是研究推理系统本身的属性。
 
 ## 2. 亚里士多德的逻辑著作：《范畴论》
 
@@ -35,7 +35,7 @@
 
 > 推理是一种言辞（logos），在其中，假定了某些事物，由于它们的存在，必然会得出与所假定的不同的结果。（《先验论证》I.2，24b18-20）
 
-"每个“假设的事物”都是论证的前提（前提），而“必然结果”是结论（sumperasma）。
+" 每个“假设的事物”都是论证的前提（前提），而“必然结果”是结论（sumperasma）。
 
 这个定义的核心是“必然结果”的概念（ex anankês sumbainein）。这对应于现代逻辑推理的概念：如果 Y 和 Z 为真时，X 不可能为假，那么 X 就是 Y 和 Z 的必然结果。因此，我们可以将其视为“有效论证”的一般定义。
 
@@ -83,8 +83,8 @@
 
 | | **Affirmations** | **Denials** |||
 | --- | --- | --- | --- | --- |
-| **Universal** | P affirmed of all of S | Every S is P,<br>All S is (are) P | P denied of all of S | No S is P |
-| **Particular** | P affirmed of some of S | Some S is (are) P | P denied of some of S | Some S is not P,<br>Not every S is P |
+| **Universal** | P affirmed of all of S | Every S is P, <br> All S is (are) P | P denied of all of S | No S is P |
+| **Particular** | P affirmed of some of S | Some S is (are) P | P denied of some of S | Some S is not P, <br> Not every S is P |
 | **Indefinite** | P affirmed of S | S is P | P denied of S | S is not P |
 
 无论是对一个普遍主体肯定还是否定的陈述，都可以普遍地（katholou 或“全部”，kata pantos）在部分（kata meros，en merei）或不确定地（adihoristos）进行肯定或否定。
@@ -152,11 +152,11 @@ Eab→EbaIab→IbaAab→Iba
 | ------------- | --------------- | ---------------------- |
 | 1. MaN      |               | *如果 M 属于每个 N* |
 | 2. MeX      |               | *但不是 X，*        |
-| 证明：<br />NeX |               | *那么 N 也不属于任何 X。*                     |
+| 证明：<br /> NeX |               | *那么 N 也不属于任何 X。*                     |
 | 3. MeX      | （2，前提）   | *如果 M 不属于任何 X，*                     |
 | 4. XeM      | (3，转换为 e) | *那么 X 也不属于任何 M；*                     |
 | 5. MaN      | (1, 前提)     | *但 M 属于每个 N；*                     |
-| 6. XeN      | (4, 5,*Celarent*)       | *因此，X 将不属于任何 N（因为第一图形已经发生）。*                     |
+| 6. XeN      | (4, 5, *Celarent*)       | *因此，X 将不属于任何 N（因为第一图形已经发生）。*                     |
 | 7. NeX      | (6，转换为 e) | *由于否定词的转换，N 也不属于任何 X。*                     |
 
 通过“不可能”的完成或证明，可以证明从一对前提中得出某个结论，方法是假设第三个前提是该结论的否定，并从它和一个原始前提中推导出其他前提的否定（或相反）。这是一种“不可能”的推导，亚里士多德的证明在这一点上结束。一个例子是他在 27a36-b1 中对 Baroco 的证明。
@@ -186,22 +186,22 @@ Eab→EbaIab→IbaAab→Iba
 | Form           | Mnemonic | Proof                                         |
 | ---------------- | ---------- | ----------------------------------------------- |
 | <br /> 第一图      |          |                                               |
-| Aab,Abc⊢Aac   | *Barbara*         | Perfect                                       |
-| Eab,Abc⊢Eac   | *Celarent*         | Perfect                                       |
-| Aab,Ibc⊢Iac   | *Darii*         | 完美；也可以通过不可能性，从 Camestres        |
+| Aab, Abc⊢Aac   | *Barbara*         | Perfect                                       |
+| Eab, Abc⊢Eac   | *Celarent*         | Perfect                                       |
+| Aab, Ibc⊢Iac   | *Darii*         | 完美；也可以通过不可能性，从 Camestres        |
 | Eab，Ibc⊢Oac  | *Ferio*         | 完美的；也可以通过不可能性，从 Cesare         |
 | <br /> 第二图形    |          |                                               |
-| Eab,Aac⊢Ebc   | *Cesare*         | (Eab,Aac)→(Eba,Aac) ⊢CelEbc                 |
-| Aab,Eac⊢Ebc   | *Camestres*         | (Aab,Eac)→(Aab,Eca)=(Eca,Aab) ⊢ CelEcb→Ebc |
-| Eab,Iac ⊢ Obc | *Festino*         | (Eab,Iac)→(Eba,Iac) ⊢ FerObc                |
+| Eab, Aac⊢Ebc   | *Cesare*         | (Eab, Aac)→(Eba, Aac) ⊢CelEbc                 |
+| Aab, Eac⊢Ebc   | *Camestres*         | (Aab, Eac)→(Aab, Eca)=(Eca, Aab) ⊢ CelEcb→Ebc |
+| Eab, Iac ⊢ Obc | *Festino*         | (Eab, Iac)→(Eba, Iac) ⊢ FerObc                |
 | Aab，Oac⊢Obc  | *Baroco*         | (Aab，Oac+Abc)⊢Bar(Aac，Oac) ⊢ImpObc        |
 | <br /> 第三图      |          |                                               |
-| Aac,Abc⊢Iab   | *Darapti*         | (Aac,Abc)→(Aac,Icb) ⊢DarIab                 |
-| Eac,Abc⊢Oab   | *Felapton*         | (Eac,Abc)→(Eac,Icb) ⊢FerOab                 |
-| Iac,Abc ⊢Iab  | *Disamis*         | (Iac,Abc)→(Ica,Abc)=(Abc,Ica) ⊢DarIba→Iab  |
+| Aac, Abc⊢Iab   | *Darapti*         | (Aac, Abc)→(Aac, Icb) ⊢DarIab                 |
+| Eac, Abc⊢Oab   | *Felapton*         | (Eac, Abc)→(Eac, Icb) ⊢FerOab                 |
+| Iac, Abc ⊢Iab  | *Disamis*         | (Iac, Abc)→(Ica, Abc)=(Abc, Ica) ⊢DarIba→Iab  |
 | Aac，Ibc⊢Iab  | *Datisi*         | (Aac，Ibc)→(Aac，Icb) ⊢DarIab               |
-| Oac，Abc⊢Oab  | *Bocardo*         | (Oac,+Aab,Abc)⊢Bar(Aac,Oac) ⊢ImpOab         |
-| Eac,Ibc⊢Oab   | *Ferison*         | (Eac,Ibc)→(Eac,Icb) ⊢FerOab                 |
+| Oac，Abc⊢Oab  | *Bocardo*         | (Oac,+Aab, Abc)⊢Bar(Aac, Oac) ⊢ImpOab         |
+| Eac, Ibc⊢Oab   | *Ferison*         | (Eac, Ibc)→(Eac, Icb) ⊢FerOab                 |
 
 图表中的推论表
 
@@ -223,11 +223,11 @@ Eab→EbaIab→IbaAab→Iba
 
  （达里伊）
 
-(Aab,Ibc,+Eac)⊢Camestres(Ebc,Ibc)⊢ImpIac
+(Aab, Ibc,+Eac)⊢Camestres(Ebc, Ibc)⊢ImpIac
 
 (*Ferio*)
 
-(Eab,Ibc,+Aac)⊢Cesare(Ebc,Ibc)⊢ImpOac
+(Eab, Ibc,+Aac)⊢Cesare(Ebc, Ibc)⊢ImpOac
 
 然后他观察到，既然他已经展示了如何将除了 Baroco 和 Bocardo 之外的所有其他图形中的特定推论归纳为 Darii 和 Ferio，那么这些推论就可以归纳为 Barbara 和 Celarent。这个证明在结构和主题上与现代系统中公理冗余的证明非常相似。
 
@@ -253,7 +253,7 @@ Eab→EbaIab→IbaAab→Iba
 
 虽然他通常只考虑在其断言形式中进行推理的前提组合，但有时他会扩展这一点；同样，他有时也考虑除了纯粹断言前提所能得出的结论之外的结论。
 
-由于这是他的做法，因此方便地用相应的非模态三段论加上表示前提和结论的模态的三个字母来描述模态三段论：N = “必要的”，P = “可能的”，A = “断言的”。因此，“Barbara NAN”意味着“具有必要的主前提、断言的次前提和必要的结论的 Barbara 形式”。我也将字母“N”和“P”作为前提的前缀；没有前缀的前提是断言的。因此，Barbara NAN 将是 NAab,Abc⊢NAac。
+由于这是他的做法，因此方便地用相应的非模态三段论加上表示前提和结论的模态的三个字母来描述模态三段论：N = “必要的”，P = “可能的”，A = “断言的”。因此，“Barbara NAN”意味着“具有必要的主前提、断言的次前提和必要的结论的 Barbara 形式”。我也将字母“N”和“P”作为前提的前缀；没有前缀的前提是断言的。因此，Barbara NAN 将是 NAab, Abc⊢NAac。
 
 #### 5.6.3 模态转换
 
@@ -277,7 +277,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 由于必要前提蕴含主张前提，每个 AN 或 NA 前提的组合都将蕴含相应的 AA 对，从而得出相应的 A 结论。因此，ANA 和 NAA 三段论始终有效。然而，亚里士多德认为一些 ANN 和 NAN 的组合是有效的，但不是全部。具体而言，他接受 Barbara NAN 但拒绝 Barbara ANN。几乎从亚里士多德自己的时代开始，解释者们发现他对这种区别的理由模糊不清，或者不具有说服力，或者两者兼而有之，并且经常没有遵循他的观点。例如，他的密切合作者提奥弗拉斯特斯采用了更简单的规则，即三段论的结论的模态性总是在前提中找到的“最弱”模态，其中 N 比 A 更强，A 比 P 更强（而 P 可能必须被定义为“不一定不”）。
 
-从阿尔布雷希特·贝克尔开始，使用现代形式逻辑方法解释亚里士多德的模态逻辑的解释者们将“两个芭芭拉”问题视为解释模态三段论的一系列困难之一。已经提出了非常广泛的重建方案：参见 Becker 1933，McCall 1963，Nortmann 1996，Van Rijen 1989，Patterson 1995，Thomason 1993，Thom 1996，Rini 2012，Malink 2013。大多数重建方案并不试图复制亚里士多德的阐述的每个细节，而是产生了修改后的重建方案，放弃了其中的一些结果。然而，Malink 2013 提供了一个重建方案，复制了亚里士多德所说的一切，尽管所得到的模型引入了很高的复杂性。（这个主题很快变得过于复杂，无法在这篇简短的文章中进行总结。）
+从阿尔布雷希特 · 贝克尔开始，使用现代形式逻辑方法解释亚里士多德的模态逻辑的解释者们将“两个芭芭拉”问题视为解释模态三段论的一系列困难之一。已经提出了非常广泛的重建方案：参见 Becker 1933，McCall 1963，Nortmann 1996，Van Rijen 1989，Patterson 1995，Thomason 1993，Thom 1996，Rini 2012，Malink 2013。大多数重建方案并不试图复制亚里士多德的阐述的每个细节，而是产生了修改后的重建方案，放弃了其中的一些结果。然而，Malink 2013 提供了一个重建方案，复制了亚里士多德所说的一切，尽管所得到的模型引入了很高的复杂性。（这个主题很快变得过于复杂，无法在这篇简短的文章中进行总结。）
 
 ## 6. 演示和演示科学
 
@@ -285,7 +285,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 ### 6.1 亚里士多德科学
 
-《后分析学》的主题是“知识”（epistêmê）。这是希腊语中可以合理翻译为“知识”的几个词之一，但亚里士多德只关注一种特定类型的知识（如下文所述）。将 epistêmê在这个技术意义上翻译为科学（science）是一个长期的传统，我将在这里遵循这个传统。然而，读者不应被这个词所误导。特别是，亚里士多德的科学理论不能被视为现代科学哲学的对应物，至少不能没有实质性的限定。
+《后分析学》的主题是“知识”（epistêmê）。这是希腊语中可以合理翻译为“知识”的几个词之一，但亚里士多德只关注一种特定类型的知识（如下文所述）。将 epistêmê 在这个技术意义上翻译为科学（science）是一个长期的传统，我将在这里遵循这个传统。然而，读者不应被这个词所误导。特别是，亚里士多德的科学理论不能被视为现代科学哲学的对应物，至少不能没有实质性的限定。
 
 根据亚里士多德的观点，当我们知道以下内容时，我们拥有科学知识：
 
@@ -315,7 +315,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 ### 6.2 回归问题
 
-在《后分析学》I.2 中，亚里士多德考虑了科学可能性面临的两个挑战。其中一方（由乔纳森·巴恩斯称为“不可知论者”）从以下两个前提出发：
+在《后分析学》I.2 中，亚里士多德考虑了科学可能性面临的两个挑战。其中一方（由乔纳森 · 巴恩斯称为“不可知论者”）从以下两个前提出发：
 
 1. 任何科学所知必须被证明。
 2. 证明的前提必须是科学所知。
@@ -369,9 +369,9 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 在亚里士多德的定义概念中，存在着本质断言的概念（katêgoreisthai en tôi ti esti，即对于它是什么的断言）。在任何真实的肯定断言中，谓词要么“说出了主语是什么”，即谓词要么是对于主语提出的问题“它是什么？”的可接受答案，要么不是。布西法勒斯是一匹马，马是一种动物；因此，“布西法勒斯是一匹马”和“布西法勒斯是一种动物”是本质断言。然而，“布西法勒斯是棕色的”，虽然是真实的，但并没有陈述布西法勒斯是什么，只是说了一些关于他的事情。
 
-由于事物的定义说明了它是什么，所以定义本质上是被谓词化的。然而，并非所有本质上被谓词化的东西都是定义。由于布西法勒斯是一匹马，马是一种哺乳动物，哺乳动物是一种动物，"马"、"哺乳动物"和"动物"都是布西法勒斯的本质谓词。此外，由于马是一种哺乳动物，"哺乳动物"是马的本质谓词。当谓词 X 是 Y 的本质谓词，但也是其他事物的谓词时，X 是 Y 的种类（genos）。
+由于事物的定义说明了它是什么，所以定义本质上是被谓词化的。然而，并非所有本质上被谓词化的东西都是定义。由于布西法勒斯是一匹马，马是一种哺乳动物，哺乳动物是一种动物，"马"、"哺乳动物" 和 "动物" 都是布西法勒斯的本质谓词。此外，由于马是一种哺乳动物，"哺乳动物" 是马的本质谓词。当谓词 X 是 Y 的本质谓词，但也是其他事物的谓词时，X 是 Y 的种类（genos）。
 
-对 X 的定义不仅必须是其本质谓词，还必须只能被其谓词化：用亚里士多德《论题》中的术语来说，定义和其定义的事物必须"反谓"（antikatêgoreisthai）彼此。如果 X 适用于 Y 适用于的事物，并且反之亦然，则 X 与 Y 反谓。尽管 X 的定义必须与 X 反谓，但并非所有与 X 反谓的事物都是它的定义。例如，"能笑"与"人类"反谓，但不是其定义。这样的谓词（非本质但反谓）是一种特殊的属性或性质（idion）。
+对 X 的定义不仅必须是其本质谓词，还必须只能被其谓词化：用亚里士多德《论题》中的术语来说，定义和其定义的事物必须 "反谓"（antikatêgoreisthai）彼此。如果 X 适用于 Y 适用于的事物，并且反之亦然，则 X 与 Y 反谓。尽管 X 的定义必须与 X 反谓，但并非所有与 X 反谓的事物都是它的定义。例如，"能笑" 与 "人类" 反谓，但不是其定义。这样的谓词（非本质但反谓）是一种特殊的属性或性质（idion）。
 
 最后，如果 X 被谓词化于 Y，但既不是本质谓词也不是反谓词，则 X 是 Y 的偶然（sumbebêkos）。
 
@@ -413,7 +413,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 | **传统名称** | **Literally**                           | **Greek**              | **Examples**                                     |
 | --------------- | ---------------------------- | --------------- | -------------------------------------- |
-| Substance     | 物质<br /> “这个”<br /> 什么是它 | *ousia*<br />*tode ti*<br />*是什么* | 人，马<br /> 苏格拉底<br /> 苏格拉底是一个人 |
+| Substance     | 物质 <br /> “这个”<br /> 什么是它 | *ousia* <br /> *tode ti* <br /> *是什么* | 人，马 <br /> 苏格拉底 <br /> 苏格拉底是一个人 |
 | Quantity      | 多少                       | *poson*              | 四英尺，五英尺                       |
 | Quality       | 什么种类                   | *poion*              | 白色，有文化的                       |
 | Relation      | 与什么相关                 | *范畴论*     | 双倍，一半，更大                     |
@@ -456,7 +456,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 ### 8.1 辩证前提：endoxos 的含义
 
-最近的学者对于 endoxos 这个术语提出了不同的解释。亚里士多德经常将这个形容词用作名词：ta endoxa，即“被接受的事物”，“被接受的观点”。根据一种理解，这个观点源自 G. E. L. Owen 的研究，并由乔纳森·巴恩斯和特伦斯·欧文进一步发展，endoxa 是各种人持有的具有某种形式或其他地位的观点的汇编：“经过一些思考的相当有思想的人的观点”，用欧文的话来说。因此，辩证法只是“一种从[这些人]的共同信念中进行的论证方法”。对于欧文来说，endoxa 就是“共同的信念”。乔纳森·巴恩斯指出，endoxa 是具有一定地位的观点，他用“有声望的”来翻译。
+最近的学者对于 endoxos 这个术语提出了不同的解释。亚里士多德经常将这个形容词用作名词：ta endoxa，即“被接受的事物”，“被接受的观点”。根据一种理解，这个观点源自 G. E. L. Owen 的研究，并由乔纳森 · 巴恩斯和特伦斯 · 欧文进一步发展，endoxa 是各种人持有的具有某种形式或其他地位的观点的汇编：“经过一些思考的相当有思想的人的观点”，用欧文的话来说。因此，辩证法只是“一种从 [这些人] 的共同信念中进行的论证方法”。对于欧文来说，endoxa 就是“共同的信念”。乔纳森 · 巴恩斯指出，endoxa 是具有一定地位的观点，他用“有声望的”来翻译。
 
 我个人的观点是，亚里士多德的文本支持一种稍微不同的理解。他还告诉我们，辩证前提与演绎前提的不同之处在于前者是问题，而后者是假设或断言：“演绎者不问，而是接受”，他说。这与辩证法被理解为通过问答向他人提出论证的观点最为契合，并因此将对方的让步作为前提。以这种方式进行辩论的人，为了成功，必须要求对话者接受的前提，而在这方面取得成功的最佳方法就是拥有一系列可接受的前提，即实际上被不同类型的人接受的前提清单。
 
@@ -498,7 +498,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 #### 8.3.2 将被测试的辩证法
 
-亚里士多德还提到了一种“试验的艺术”，或者一种“将被测试”的各种辩证论证（希腊词是 peirastikê的形容词，是女性形式：这样的表达通常指代艺术或技能，例如 rhêtorikê，“修辞艺术”）。它的功能是检查那些声称自己有一些知识的人的主张，并且可以由不具备相关知识的人来实践。这种检查是一种反驳，基于这样一个原则：谁对一个主题有所了解，他对此必须持有一致的信念：所以，如果你能向我展示我的某种信念导致了矛盾，那么你就证明了我对此没有知识。
+亚里士多德还提到了一种“试验的艺术”，或者一种“将被测试”的各种辩证论证（希腊词是 peirastikê 的形容词，是女性形式：这样的表达通常指代艺术或技能，例如 rhêtorikê，“修辞艺术”）。它的功能是检查那些声称自己有一些知识的人的主张，并且可以由不具备相关知识的人来实践。这种检查是一种反驳，基于这样一个原则：谁对一个主题有所了解，他对此必须持有一致的信念：所以，如果你能向我展示我的某种信念导致了矛盾，那么你就证明了我对此没有知识。
 
 这非常像苏格拉底的质询风格，几乎可以肯定是由此演变而来。事实上，亚里士多德经常指出辩证论证本质上是反驳性的。
 
@@ -629,7 +629,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 ## Bibliography
 
-* Ackrill, J. L., 1961. *Aristotle’s Categories and De Interpretatione* (Clarendon Aristotle Series),Oxford: Clarendon Press.
+* Ackrill, J. L., 1961. *Aristotle’s Categories and De Interpretatione* (Clarendon Aristotle Series), Oxford: Clarendon Press.
 * Barnes, Jonathan, 1981. “Proof and the Syllogism”, 17–59 in Berti 1981.
 * ––– (trans.), 1994. *Aristotle, Posterior Analytics* (translation with commentary), 2nd edition, Oxford: Clarendon Press.
 * Becker, Albrecht, 1933. *Die Aristotelische Theorie der Möglichkeitsschlüsse*, Berlin: Junker und Dunnhaupt.
@@ -686,7 +686,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 * McCall, Storrs, 1963. *Aristotle’s Modal Syllogistic*, Amsterdam: North-Holland.
 * McKirahan, Richard, 1992. *Principles and Proofs*, Princeton: Princeton University Press.
 * Moraux, Paul, 1968. “La joute dialectique d’après le huitième livre des *Topiques*”, in Owen 1968.
-* Morison, Ben, 2008. “What Was Aristotle’s Concept of Logical Form?”, in Morison and Katerina Ierodiakonou (eds.), *Episteme, Etc.* ,Oxford: Oxford University Press, 172–188.
+* Morison, Ben, 2008. “What Was Aristotle’s Concept of Logical Form?”, in Morison and Katerina Ierodiakonou (eds.), *Episteme, Etc.* , Oxford: Oxford University Press, 172–188.
 * Nortmann, Ulrich, 1996. *Modale Syllogismen, mögliche Welten, Essentialismus: eine Analyse der aristotelischen Modallogik*, Berlin: De Gruyter.
 * –––, 2002. “The Logic of Necessity in Aristotle: An Outline of Approaches to the Modal Syllogistic, Together with a General Account of *de dicto*- and *de re*-Necessity”, *History and Philosophy of Logic*, 23: 253–265.
 * Nussbaum, Martha, 1986. *The Fragility of Goodness*, Cambridge: Cambridge University Press.

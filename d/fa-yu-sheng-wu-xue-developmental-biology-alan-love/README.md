@@ -8,7 +8,7 @@
 
 ## 1. 概述
 
-发育生物学是一门研究各种相互作用过程如何产生生物异质形状、大小和结构特征的科学，这些特征在从胚胎到成体的过程中产生，或者更普遍地说，在整个生命周期中产生（Love 2008; Minelli 2011a）。它代表了当代实验生物学的一个典范领域，专注于许多自古以来困扰自然哲学家和科学家超过两千年的现象。在胚胎早期阶段看似同质的组分之间的动态关系如何产生一个包含异质部分、排列合适且连接正确的整体有机体？更简洁地说，我们如何解释个体发生（或者更古老地说，生成）？在《动物的产生》中，亚里士多德首次系统地研究了发育现象，并认识到了关于分级组织部分的出现和关系的关键问题（例如，包含骨头和骨头的解剖特征），以及解释难度如何确定后代中形态形成可靠性的问题（例如，特定物种附肢的典型形状和结构）。生成一直是早期现代时期的一个尖锐问题，并由当时许多重要人物探讨，包括威廉·哈维、勒内·笛卡尔、罗伯特·波义尔、皮埃尔·加桑迪、尼古拉斯·马勒布朗什、哥特弗里德·威廉·莱布尼茨、安妮·康威、伊曼纽尔·康德等（Smith 2006）。对生命周期转变的观察，如变态，为这些努力提供了支持，并导致了引人注目的结论，例如莱布尼兹对生成的否定。
+发育生物学是一门研究各种相互作用过程如何产生生物异质形状、大小和结构特征的科学，这些特征在从胚胎到成体的过程中产生，或者更普遍地说，在整个生命周期中产生（Love 2008; Minelli 2011a）。它代表了当代实验生物学的一个典范领域，专注于许多自古以来困扰自然哲学家和科学家超过两千年的现象。在胚胎早期阶段看似同质的组分之间的动态关系如何产生一个包含异质部分、排列合适且连接正确的整体有机体？更简洁地说，我们如何解释个体发生（或者更古老地说，生成）？在《动物的产生》中，亚里士多德首次系统地研究了发育现象，并认识到了关于分级组织部分的出现和关系的关键问题（例如，包含骨头和骨头的解剖特征），以及解释难度如何确定后代中形态形成可靠性的问题（例如，特定物种附肢的典型形状和结构）。生成一直是早期现代时期的一个尖锐问题，并由当时许多重要人物探讨，包括威廉 · 哈维、勒内 · 笛卡尔、罗伯特 · 波义尔、皮埃尔 · 加桑迪、尼古拉斯 · 马勒布朗什、哥特弗里德 · 威廉 · 莱布尼茨、安妮 · 康威、伊曼纽尔 · 康德等（Smith 2006）。对生命周期转变的观察，如变态，为这些努力提供了支持，并导致了引人注目的结论，例如莱布尼兹对生成的否定。
 
 动物和所有其他有机物质没有起源……它们表面上的生成只是一种发展，一种增加……一种像任何其他变化一样的转变，例如像毛虫变成蝴蝶那样。（Smith 2011: 186–187）
 
@@ -20,7 +20,7 @@
 
 图 1：一个早期现代的描绘，展示了一个位于精子内部的微小人物，体现了预成论观点。
 
-在 19 世纪末 20 世纪初，发育主题在围绕生命力论的争议中备受关注，比如威廉·劳和汉斯·德里什在解释个体发生过程中存在的分歧（Maienschein 1991） 。劳认为受精卵包含代表不同有机特征的遗传元素。在细胞分裂过程中，这些元素在子细胞之间不均匀分布，导致不同的细胞命运。相反，德里什认为，尽管发生分化，但每个细胞通过分裂保留了其全部潜力。尽管这个问题通常被理解为生命形而上学（生命力论与唯物主义）的问题，但德里什对发育和生物体自主性的解释具有认识论维度（Maienschein 2000）。解释上的分歧涉及不同的实验方法和对早期发生过程中分化性质的不同看法（例如，细胞预定程度）。贯穿这些讨论的一个熟悉的哲学主题，无论是认识论还是形而上学，都是生物学中还原主义的地位。到 20 世纪中叶，研究发育的科学学科胚胎学逐渐转变为发育生物学，其中包含多种经过重新设计和顽固的元素（Berrill 1961）。与还原主义问题相结合的这段历史的一个关键方面是实验性（而非比较性）胚胎学的分子化（Fraser and Harland 2000），并伴随着对基因解释力量的强调（参见有关基因和第 3.1 节）。这个复杂而迷人的历史，包括与医学和生殖技术的相互关系，已在其他地方详细介绍（参见，例如，Oppenheimer 1967；Horder 等人 1986；Hamburger 1988；Hopwood 2019；Maienschein 2014；Maienschein 等人 2005；Gilbert 1991；Embryo Project in Other Internet Resources）。
+在 19 世纪末 20 世纪初，发育主题在围绕生命力论的争议中备受关注，比如威廉 · 劳和汉斯 · 德里什在解释个体发生过程中存在的分歧（Maienschein 1991） 。劳认为受精卵包含代表不同有机特征的遗传元素。在细胞分裂过程中，这些元素在子细胞之间不均匀分布，导致不同的细胞命运。相反，德里什认为，尽管发生分化，但每个细胞通过分裂保留了其全部潜力。尽管这个问题通常被理解为生命形而上学（生命力论与唯物主义）的问题，但德里什对发育和生物体自主性的解释具有认识论维度（Maienschein 2000）。解释上的分歧涉及不同的实验方法和对早期发生过程中分化性质的不同看法（例如，细胞预定程度）。贯穿这些讨论的一个熟悉的哲学主题，无论是认识论还是形而上学，都是生物学中还原主义的地位。到 20 世纪中叶，研究发育的科学学科胚胎学逐渐转变为发育生物学，其中包含多种经过重新设计和顽固的元素（Berrill 1961）。与还原主义问题相结合的这段历史的一个关键方面是实验性（而非比较性）胚胎学的分子化（Fraser and Harland 2000），并伴随着对基因解释力量的强调（参见有关基因和第 3.1 节）。这个复杂而迷人的历史，包括与医学和生殖技术的相互关系，已在其他地方详细介绍（参见，例如，Oppenheimer 1967；Horder 等人 1986；Hamburger 1988；Hopwood 2019；Maienschein 2014；Maienschein 等人 2005；Gilbert 1991；Embryo Project in Other Internet Resources）。
 
 发育生物学越来越成为生物哲学探索领域，因为发育对于理解进化具有潜在相关性（Love 2015; Section 5），生物学中还涉及还原主义主题和分子遗传学解释（Robert 2004; Rosenberg 2006; Section 3），以及对特定研究项目细节的关注增加，如干细胞生物学（Fagan 2013; Laplane 2016）。然而，不应忘记发生学在 20 世纪哲学学者的视野中，如 Ernest Nagel 对生命系统发展中的等级组织和还原的处理（Nagel 1961: 432ff）。对于当代科学哲学而言，发育生物学展示了丰富的物质和概念实践，可以进行分析以更好地理解实验生命科学中展示的科学推理（参见生物学实验条目）。在简要回顾了一些发生学中心现象之后，本条目探讨了代表发育生物学认识论概念反思的重要性和前景的四个领域。
 
@@ -90,9 +90,9 @@
 
 为什么认为问题为发育生物学的认识论提供组织架构？它们是其推理实践的普遍特征，体现在捕捉关于解释标准、实验方法、基本概念和经验内容的实质社区共识的教科书中。与讨论自然选择理论的进化生物学教科书或讨论微观经济理论的经济学教科书不同，对几个主要教科书版本的检查表明，发育生物学没有类似的理论。
 
-乔纳森·斯拉克（Jonathan Slack）的《Essential Developmental Biology》（斯拉克，2006 年，2013 年）围绕胚胎发育过程中发生的四种主要类型的过程展开，也被描述为问题的聚类组，这些过程包括区域特异性（模式形成）、细胞分化、形态发生和生长。然后，这些广泛的组被详细阐述在早期发育的标准时间线上，重点介绍了配子发生、受精、分裂、胚胎形成和轴向特异性（见第 1.2 节）。不同的实验方法（细胞和分子生物学、发育遗传学和实验胚胎学）被用于一组特定的模式生物（见下文，第 4 节），以解剖这些发育现象的运作。随后的章节涵盖了发育的后期方面（例如器官发生），不同的系统通过组织层、分化和生长深入探讨，或者与进化问题相关（见下文，第 5 节）。在这个展示过程中，没有特定的理论、假设集或主导模型被用来组织这些不同领域的调查。相反，反映一般划分过程（分化、特异性、形态发生和生长）的广泛问题组被设定为研究议程。
+乔纳森 · 斯拉克（Jonathan Slack）的《Essential Developmental Biology》（斯拉克，2006 年，2013 年）围绕胚胎发育过程中发生的四种主要类型的过程展开，也被描述为问题的聚类组，这些过程包括区域特异性（模式形成）、细胞分化、形态发生和生长。然后，这些广泛的组被详细阐述在早期发育的标准时间线上，重点介绍了配子发生、受精、分裂、胚胎形成和轴向特异性（见第 1.2 节）。不同的实验方法（细胞和分子生物学、发育遗传学和实验胚胎学）被用于一组特定的模式生物（见下文，第 4 节），以解剖这些发育现象的运作。随后的章节涵盖了发育的后期方面（例如器官发生），不同的系统通过组织层、分化和生长深入探讨，或者与进化问题相关（见下文，第 5 节）。在这个展示过程中，没有特定的理论、假设集或主导模型被用来组织这些不同领域的调查。相反，反映一般划分过程（分化、特异性、形态发生和生长）的广泛问题组被设定为研究议程。
 
-斯科特·吉尔伯特（Scott Gilbert）的《Developmental Biology》展示了类似的模式（吉尔伯特，2000 年[2003 年，2006 年，2010 年]）。发育生物学由两个广泛问题构成（“受精卵如何发展成成体？成体如何再生产另一个体？”），然后可以进一步细分为不同类别，如分化、形态发生、生长、繁殖、再生、进化和环境调节。这些问题可以更具分析性地解析为五个变量：抽象性、多样性、连接性、时间性和空间构成。赋予这些变量的值构建了研究问题的星座，这些问题对应于一般划分过程的广泛问题议程。例如，围绕斑马鱼胚胎形成的研究问题的结构方式与围绕脊椎动物神经嵴细胞迁移的研究问题的结构方式不同，因为它们涉及到五个变量的不同值：抽象性（斑马鱼与脊椎动物）、时间性（早期与晚期）、空间构成（组织层相互作用与细胞的独特群体）、多样性（上皮移行与上皮到间充质转变）、连接性（肠道形成和内胚层与器官发生和外胚层/中胚层）。这些配置可以根据不同变量的值的变化而轻松调整（洛夫，2014 年）。
+斯科特 · 吉尔伯特（Scott Gilbert）的《Developmental Biology》展示了类似的模式（吉尔伯特，2000 年 [2003 年，2006 年，2010 年]）。发育生物学由两个广泛问题构成（“受精卵如何发展成成体？成体如何再生产另一个体？”），然后可以进一步细分为不同类别，如分化、形态发生、生长、繁殖、再生、进化和环境调节。这些问题可以更具分析性地解析为五个变量：抽象性、多样性、连接性、时间性和空间构成。赋予这些变量的值构建了研究问题的星座，这些问题对应于一般划分过程的广泛问题议程。例如，围绕斑马鱼胚胎形成的研究问题的结构方式与围绕脊椎动物神经嵴细胞迁移的研究问题的结构方式不同，因为它们涉及到五个变量的不同值：抽象性（斑马鱼与脊椎动物）、时间性（早期与晚期）、空间构成（组织层相互作用与细胞的独特群体）、多样性（上皮移行与上皮到间充质转变）、连接性（肠道形成和内胚层与器官发生和外胚层/中胚层）。这些配置可以根据不同变量的值的变化而轻松调整（洛夫，2014 年）。
 
 这些问题的解剖学，具有从这些变量的不同价值中衍生的明确认识论结构，用于组织发育科学。来自不同学科的研究人员可能在解决同一个问题，但提出不同的问题，需要不同但互补的方法资源。发育生物学中的知识和探究是错综复杂的，只是不是由一个中心理论或一组模型组织，这种疑问性组织在认识论上是可以被参与的科学家接触到的。尽管理论知识，特别是从分子生物学机制（见分子生物学条目）和数学模型（例如，反应-扩散模型）中获得的知识是无处不在的（理论指导），但在教科书中反复出现的问题簇并对应于不同类型的过程提供了支配性的架构（非理论导向），可以根据所描述的变量明确地加以表征。对这一问题解剖学的进一步分析是可能的，包括它如何在常规研究文章中展示，而不仅仅是在教科书中，以及生物学的其他领域（例如，Brigandt 和 Love 2012）。
 
@@ -116,7 +116,7 @@
 
 ### 3.2 物理学
 
-流体流动作为一种物理力量，在心脏发育以及更普遍的胚胎发育过程中也起着重要作用，发育生物学家借助物理差异制造者，这些差异制造者被理解为产生发育现象形态特性的因素（Forgacs and Newman 2005）。物理因果关系方法在 19 世纪晚期的威廉·希斯（Hopwood 1999, 2000; Pearson 2018）的研究中展现出来，尤其在 20 世纪初的达西·汤普森等人的研究中尤为明显（Thompson 1992 [1942]; Keller 2002: ch. 2; Olby 1986）。这发生在越来越多关注染色体遗传理论以及尝试通过经典遗传方法探索发育现象的背景下（Morgan 1923, 1926, 1934）。汤普森提出了不同生长速率和几何关系约束来解释有机体形态的起源。通过无生物、机械类比的视觉表现提供了合理性，比如液体飞溅的形状或悬挂滴对应于水母游泳阶段的杯和钟形构造。如果物理力量在粘弹性材料中产生特定形态，那么活体物种中的类似形态应该用作用于发育胚胎的粘弹性材料的物理力量来解释。然而，产生形态的形态发生过程在过去半个世纪中主要，如果不是完全地，被视为遗传学的术语。随着分子遗传学方法的不断壮大，物理方法逐渐淡出（Fraser and Harland 2000）。
+流体流动作为一种物理力量，在心脏发育以及更普遍的胚胎发育过程中也起着重要作用，发育生物学家借助物理差异制造者，这些差异制造者被理解为产生发育现象形态特性的因素（Forgacs and Newman 2005）。物理因果关系方法在 19 世纪晚期的威廉 · 希斯（Hopwood 1999, 2000; Pearson 2018）的研究中展现出来，尤其在 20 世纪初的达西 · 汤普森等人的研究中尤为明显（Thompson 1992 [1942]; Keller 2002: ch. 2; Olby 1986）。这发生在越来越多关注染色体遗传理论以及尝试通过经典遗传方法探索发育现象的背景下（Morgan 1923, 1926, 1934）。汤普森提出了不同生长速率和几何关系约束来解释有机体形态的起源。通过无生物、机械类比的视觉表现提供了合理性，比如液体飞溅的形状或悬挂滴对应于水母游泳阶段的杯和钟形构造。如果物理力量在粘弹性材料中产生特定形态，那么活体物种中的类似形态应该用作用于发育胚胎的粘弹性材料的物理力量来解释。然而，产生形态的形态发生过程在过去半个世纪中主要，如果不是完全地，被视为遗传学的术语。随着分子遗传学方法的不断壮大，物理方法逐渐淡出（Fraser and Harland 2000）。
 
 实验胚胎学的分子化是当代生物学最引人注目的成功故事之一，因为基因和基因相互作用（例如，在转录网络和信号通路中；见第 1.3 节）被发现是形成发育过程中结构的细节、形态生成、图案形成和生长的基础。遗传方法在当代发育生物学中占主导地位，物理因果关系方式经常被忽视。对于对胚胎发育中的物理因果关系感兴趣的研究人员的挫折感是明显的。
 
@@ -142,9 +142,9 @@
 
 遗传原因可能导致物理因果，反之亦然。物理因果通过力学传导带来遗传因果。拉伸、收缩、压缩、流体剪切应力以及其他物理动力被细胞内外的不同分子组分感知，这些分子组分将这些环境变化转化为生化信号（Hoffman 等，2011 年；Wozniak 和 Chen，2009 年）。遗传因果通过创造细胞和组织的不同物理特性，通过特定蛋白质的存在、缺失或频率变化而导致物理因果。例如，细胞粘附分子（例如，钙粘蛋白）的不同表达模式可以导致组织上皮层之间的差异粘附，从而通过表面张力变化产生相分离或区隔（Newman 和 Bhat，2008 年）。如果这些因果模式不是相互竞争的话，那么如何将遗传和物理差异制造者结合成一个综合的因果解释呢？对于这种“相互作用”的解释能达到多少统一性？
 
-寻找用于解释遗传学和物理学整合的哲学模型仍然是一个悬而未决的问题（Love，2017b）。在确定相对贡献的意义上分配因果责任（例如，在牛顿力学中不同物理力量的因果量的组成）是有问题的，因为这需要就因果如何产生效果而言的可比性（Sober，1988 年）。在以差异制造者的概念理解因果的背景下，整合的困难是对约翰·斯图尔特·密尔所指出的因果推理问题的一种变体，被标记为“效果的混合”，这涉及多个因素以混合方式贡献以产生结果。
+寻找用于解释遗传学和物理学整合的哲学模型仍然是一个悬而未决的问题（Love，2017b）。在确定相对贡献的意义上分配因果责任（例如，在牛顿力学中不同物理力量的因果量的组成）是有问题的，因为这需要就因果如何产生效果而言的可比性（Sober，1988 年）。在以差异制造者的概念理解因果的背景下，整合的困难是对约翰 · 斯图尔特 · 密尔所指出的因果推理问题的一种变体，被标记为“效果的混合”，这涉及多个因素以混合方式贡献以产生结果。
 
-> 这种困难在生理现象的情况下尤为明显；很少可能分离出共同构成有机体的不同机构，而不破坏我们要研究的现象本身。（密尔，1843 年[1974]：456 [第 3 卷，第 11 章，第 1 节，第 7 段]）
+> 这种困难在生理现象的情况下尤为明显；很少可能分离出共同构成有机体的不同机构，而不破坏我们要研究的现象本身。（密尔，1843 年 [1974]：456 [第 3 卷，第 11 章，第 1 节，第 7 段]）
 
 仔细的实验统计方法可以回答一个问题，即某种差异制造者是否在特定人群的效应变量的变异中占更大比例。但是，关于差异制造者排名的问题并不等同于将两种因果模式合并为一个综合解释。另一种回应是通过将所有因果相互作用简化为两种截然不同的模式之一来解决整合问题，从而实现某种解释统一性（Rosenberg 2006）。然而，这种方法被工作生物学家所回避，他们认为遗传和物理两种因果模式都很重要，彼此之间不能简化为一种。
 
@@ -198,7 +198,7 @@ Hox 基因在轴向图式中的保守作用被称为在动物中具有功能同�
 
 这就是使功能相似性成为同源性的一个特别棘手的标准(Abouheif 等人，1997)。因为功能相似性是类比的适当关系，对于类比来说，类似功能不需要由于共同祖先而具有相同的功能——尽管具有不同起源的相似性就足够了(Ghiselin，2005)。类比的经典案例涉及不共享展现该结构的近期共同祖先的分类单元，比如海豚和金枪鱼的外部体态形态(Pabst，2000)。因此，功能同源性似乎是一个范畴错误，因为一个结构的功能不应该成为同源对应和功能相似性评估的一部分，而功能的相似性往往是通过自然选择适应共同环境需求的结果，而不是共同祖先。
 
-尽管我们可能倾向于简单地禁止功能同源的术语，但其在分子和发育生物学中的广泛使用至少应该让我们停下来思考[18]。虽然重视这种普遍实践很重要，但有些情况可能是不当的。在物种之间交换结构同源基因以拯救突变或零表型并不是功能同源的真正标准，尤其是当几乎没有关注建立系统发育背景时。这使得一些功能同源的主张成为可疑。为了避免概念上的紧张，必须明确关注“功能”的含义。生物实践至少包含四种不同的功能含义(Wouters，2003，2005)：活动(某物的作用)，因果作用(对能力的贡献)，适应优势或生存能力(拥有某物的价值)，以及选择效应或病因学(通过自然选择的起源和维持)。关于哪种(如果有的话)最适合生物和心理推理的不同方面，或者最具一般性(即，是什么使它们都是功能概念？)的辩论一直存在(参见 Garson，2016 中的讨论)。在这里，问题是我们是否能够确定一个合法的功能同源概念。
+尽管我们可能倾向于简单地禁止功能同源的术语，但其在分子和发育生物学中的广泛使用至少应该让我们停下来思考 [18]。虽然重视这种普遍实践很重要，但有些情况可能是不当的。在物种之间交换结构同源基因以拯救突变或零表型并不是功能同源的真正标准，尤其是当几乎没有关注建立系统发育背景时。这使得一些功能同源的主张成为可疑。为了避免概念上的紧张，必须明确关注“功能”的含义。生物实践至少包含四种不同的功能含义(Wouters，2003，2005)：活动(某物的作用)，因果作用(对能力的贡献)，适应优势或生存能力(拥有某物的价值)，以及选择效应或病因学(通过自然选择的起源和维持)。关于哪种(如果有的话)最适合生物和心理推理的不同方面，或者最具一般性(即，是什么使它们都是功能概念？)的辩论一直存在(参见 Garson，2016 中的讨论)。在这里，问题是我们是否能够确定一个合法的功能同源概念。
 
 如果我们要避免混淆同源性和类比性，那么适当的功能概念不能基于选择历史，这与类比概念相关联，并涉及特定类型的功能。同样，生存能力解释集中于特定类型的功能至关重要，因为它赋予了生存优势。任何依赖于特定类型功能的功能解释（因为它被选择或因为它赋予生存能力）都与同源性应关注“在每一种形式和功能的情况下”这一要求相冲突。因果角色解释强调了一个功能对系统能力的贡献。它也集中于特定类型的功能，尽管方式与选择效应或生存能力解释不同。只有一种活动解释（‘某物做什么’）强调功能本身，而不是它对系统能力的具体贡献和在更大背景中的位置。因此，最适合纳入功能同源性的含义是“活动功能”，因为活动功能至少有可能在每种情况下保持不变。对于由共同祖先导致的相同性的评估是单独进行的，与功能所扮演的角色（或其用途）无关，无论是以因果角色、适应优势还是选择历史的方式理解。活动功能可以被用于不同用途，同时通过共同血统共享（即同源）。更准确地说，功能同源性可以被定义为在每种形式和用途功能下不同动物中相同的活动功能（Love 2007）。这明确消除了困扰功能同源性的紧张关系。
 
@@ -331,7 +331,7 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 * –––, 2000, “Producing development: the anatomy of human embryos and the norms of Wilhelm His”, *Bulletin of the History of Medicine*, 74: 29–79.
 * –––, 2005, “Visual standards and disciplinary change: normal plates, tables and stages in embryology”, *History of Science*, 43: 239–303.
 * –––, 2007, “A history of normal plates, tables and stages in vertebrate embryology”, *International Journal of Developmental Biology*, 51: 1–26.
-* –––, 2019, “Inclusion and exclusion in the history of developmental biology”, *Development*, 146(7): dev175448. doi:10.1242/dev.175448
+* –––, 2019, “Inclusion and exclusion in the history of developmental biology”, *Development*, 146(7): dev175448. doi: 10.1242/dev.175448
 * Horder, T.J., J.A. Witkowski, and C.C. Wylie (eds), 1986, *A History of Embryology*, Cambridge: Cambridge University Press.
 * Hove, J.R., R.W. Köster, A.S. Forouhar, G. Acevedo-Bolton, S.E. Fraser, and M. Gharib, 2003, “Intracardiac fluid forces are an essential epigenetic factor for embryonic cardiogenesis”, *Nature*, 421: 172–177.
 * Huang, A., C.A. Scougall, J.W. Lowenthal, A.R. Jilbert, and I. Kotlarski, 2001, “Structural and functional homology between duck and chicken interferon-gamma”, *Developmental and Comparative Immunology*, 25: 55–68.
@@ -399,7 +399,7 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 * Owen, R., 1843, *Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*, London: Longman, Brown, Green, and Longmans.
 * Pabst, D.A., 2000, “To bend a dolphin: convergence of force transmission designs in Cetaceans and Scombrid fishes”, *American Zoologist*, 40: 146–155.
 * Parkkinen, V-P., 2014, “Developmental explanations”, in *New Directions in the Philosophy of Science: The Philosophy of Science in a European Perspective, Vol. 5*, M.C. Galavotti, D. Dieks, W.J. Gonzalez, S. Hartmann, T. Uebel, and M. Weber (eds.), Berlin: Springer.
-* Pearson, C., 2018, “How-possibly explanation in biology: lessons from Wilhelm His’s ‘simple experiments’ models”, *Philosophy, Theory, and Practice in Biology*, 10(4), doi:10.3998/ptpbio.16039257.0010.004
+* Pearson, C., 2018, “How-possibly explanation in biology: lessons from Wilhelm His’s ‘simple experiments’ models”, *Philosophy, Theory, and Practice in Biology*, 10(4), doi: 10.3998/ptpbio.16039257.0010.004
 * Peter, I.S., and E.H. Davidson, 2011, “A gene regulatory network controlling the embryonic specification of endoderm”, *Nature*, 474: 635–639.
 * Pigliucci, M., 2001, *Phenotypic Plasticity: Beyond Nature and Nurture*, Baltimore and London: The Johns Hopkins University Press.
 * –––, 2002, “Touchy and bushy: phenotypic plasticity and integration in response to wind stimulation in *Arabidopsis thaliana*”, *International Journal of Plant Sciences*, 163: 399–408.
@@ -417,7 +417,7 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 * Scheiner, S.M., 1993, “Genetics and evolution of phenotypic plasticity”, *Annual Review of Ecology and Systematics*, 24: 35–68.
 * Schulze, J., and E. Schierenberg, 2011, “Evolution of embryonic development in nematodes”, *EvoDevo*, 2: 18.
 * Sheil, C.A., and E. Greenbaum, 2005, “Reconsideration of skeletal development of *Chelydra serpentina* (Reptilia: Testudinata: Chelydridae): evidence for intraspecific variation”, *Journal of Zoology*, 265: 235–267.
-* Sidzinska, M., 2017, “Not one, not two: toward an ontology of pregnancy”, *Feminist Philosophy Quarterly*, 3(4), Article 2, doi:10.5206/fpq/2017.4.2
+* Sidzinska, M., 2017, “Not one, not two: toward an ontology of pregnancy”, *Feminist Philosophy Quarterly*, 3(4), Article 2, doi: 10.5206/fpq/2017.4.2
 * Slack, J.M.W., 2006, *Essential Developmental Biology*, 2nd ed. Malden, MA: Blackwell Publishing.
 * –––, 2009, “Emerging market organisms”, *Science*, 323: 1674–1675.
 * –––, 2013, *Essential Developmental Biology*, 3rd edition, Chichester: Wiley-Blackwell.
@@ -431,7 +431,7 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 * Thompson, D’A.W. 1992 [1942]. *On Growth and Form*, Complete Revised Edition. New York: Dover Publications, Inc.
 * Varner, V.D., and C.M. Nelson, 2014, “Cellular and physical mechanisms of branching morphogenesis”, *Development*, 141: 2750–2759.
 * Vázquez-Novelle, M.D., V. Esteban, A. Bueno, and M.P. Sacristán., 2005, “Functional homology among human and fission yeast Cdc14 phosphatases”, *Journal of Biological Chemistry*, 280: 29144–29150.
-* Von Dassow, M., J. Strother, and L.A. Davidson, 2010, “Surprisingly simple mechanical behavior of a complex embryonic tissue”, *PLoS ONE*, 5:e15359.
+* Von Dassow, M., J. Strother, and L.A. Davidson, 2010, “Surprisingly simple mechanical behavior of a complex embryonic tissue”, *PLoS ONE*, 5: e15359.
 * Waters, C.K., 2007a, “Causes that make a difference”, *Journal of Philosophy*, 104: 551–579.
 * –––, 2007b, “The nature and context of exploratory experimentation”, *History and Philosophy of the Life Sciences*, 29: 275–284.
 * Weber, M., 2005, *Philosophy of Experimental Biology*, New York: Cambridge University Press.
@@ -448,13 +448,13 @@ Figure 7: 美洲胡椒蛾幼虫中的颜色多型性，代表了发育可塑性�
 
 ### Figure Credits
 
-* [Figure 1](https://plato.stanford.edu/entries/biology-developmental/#fig1): “Preformation”, drawn by Nicolaas Hartsoeker (*Essai de Dioptrique*, 1694). Licensed under Public domain via Wikimedia Commons. [File:Preformation.GIF - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Preformation.GIF)
-* [Figure 2](https://plato.stanford.edu/entries/biology-developmental/#fig2): “Spiral cleavage in gastropod *Trochus*” by Morgan Q. Goulding, 2009, “Cell Lineage of the Ilyanassa Embryo: Evolutionary Acceleration of Regional Differentiation during Early Development“, *PLoS ONE*, 4(5): e5506, doi:10.1371/journal.pone.0005506, Figure 1 TIFF. Licensed under Creative Commons Attribution 2.5 via Wikimedia Commons. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005506 OR [File:Spiral cleavage in Trochus.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Spiral_cleavage_in_Trochus.png)
-* [Figure 3](https://plato.stanford.edu/entries/biology-developmental/#fig3): “Hematopoiesis simple” by Mikael Häggström (no attribution required), from original by A. Rad (requires attribution) - Image:Hematopoiesis_(human)_diagram.png by A. Rad. Licensed under Creative Commons Attribution-Share Alike 3.0 via Wikimedia Commons. [File:Hematopoiesis simple.svg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Hematopoiesis_simple.svg)
-* [Figure 4](https://plato.stanford.edu/entries/biology-developmental/#fig4): “Wingless and Hedgehog reciprocal signaling during segmentation of *Drosophila* embryos” by Fred the Oyster (requires attribution). Licensed under Creative Commons Attribution-Share Alike 4.0 via Wikimedia Commons. https://upload.wikimedia.org/wikipedia/commons/7/7c/Wingless_and_Hedgehog_reciprocal_signaling_during_segmentation_of_Drosophila_embryos.svg
-* [Figure 5](https://plato.stanford.edu/entries/biology-developmental/#fig5): “*Drosophila melanogaster*—side (aka)” by André Karwath aka Aka - Own work. Licensed under Creative Commons Attribution-Share Alike 2.5 via Wikimedia Commons: [File:Drosophila melanogaster - side (aka).jpg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Drosophila_melanogaster\-_side_(aka).jpg)
-* [Figure 6](https://plato.stanford.edu/entries/biology-developmental/#fig6): “Homology” from George John Romanes, 1892 [1910], *Darwin and after Darwin*, (fourth edition), Chicago: The Open Court Publishing Company, Figure 5, Chapter 3, p. 56, “Wings of Reptile, Mammal, and Bird. Drawn from nature (Brit. Mus.)”. http://www.talkorigins.org/faqs/precursors/images/homology.jpg. Licensed under Public domain via Wikimedia Commons - [File:Homology.jpg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Homology.jpg)
-* [Figure 7](https://plato.stanford.edu/entries/biology-developmental/#fig7): “*Biston betularia* caterpillars on birch (left) and willow (right)” by Mohamed A.F. Noor, Robin S. Parnell, Bruce S. Grant, 2008, “A Reversible Color Polyphenism in American Peppered Moth (*Biston betularia cognataria*) Caterpillars”, *PLoS ONE*, 3(9): e3142. doi:10.1371/journal.pone.0003142. [A Reversible Color Polyphenism in American Peppered Moth (Biston betularia cognataria) Caterpillars | PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003142) Licensed under Creative Commons Attribution 2.5 via Wikimedia Commons - [File:Biston betularia.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Biston_betularia.png)
+* [Figure 1](https://plato.stanford.edu/entries/biology-developmental/#fig1): “Preformation”, drawn by Nicolaas Hartsoeker (*Essai de Dioptrique*, 1694). Licensed under Public domain via Wikimedia Commons. [File: Preformation.GIF - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Preformation.GIF)
+* [Figure 2](https://plato.stanford.edu/entries/biology-developmental/#fig2): “Spiral cleavage in gastropod *Trochus*” by Morgan Q. Goulding, 2009, “Cell Lineage of the Ilyanassa Embryo: Evolutionary Acceleration of Regional Differentiation during Early Development“, *PLoS ONE*, 4(5): e5506, doi: 10.1371/journal.pone.0005506, Figure 1 TIFF. Licensed under Creative Commons Attribution 2.5 via Wikimedia Commons. http://journals.plos.org/plosone/article?id = 10.1371/journal.pone.0005506 OR [File: Spiral cleavage in Trochus.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Spiral_cleavage_in_Trochus.png)
+* [Figure 3](https://plato.stanford.edu/entries/biology-developmental/#fig3): “Hematopoiesis simple” by Mikael Häggström (no attribution required), from original by A. Rad (requires attribution) - Image: Hematopoiesis_(human)_diagram.png by A. Rad. Licensed under Creative Commons Attribution-Share Alike 3.0 via Wikimedia Commons. [File: Hematopoiesis simple.svg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Hematopoiesis_simple.svg)
+* [Figure 4](https://plato.stanford.edu/entries/biology-developmental/#fig4): “Wingless and Hedgehog reciprocal signaling during segmentation of * Drosophila* embryos” by Fred the Oyster (requires attribution). Licensed under Creative Commons Attribution-Share Alike 4.0 via Wikimedia Commons. https://upload.wikimedia.org/wikipedia/commons/7/7c/Wingless_and_Hedgehog_reciprocal_signaling_during_segmentation_of_Drosophila_embryos.svg
+* [Figure 5](https://plato.stanford.edu/entries/biology-developmental/#fig5): “* Drosophila melanogaster*—side (aka)” by André Karwath aka Aka - Own work. Licensed under Creative Commons Attribution-Share Alike 2.5 via Wikimedia Commons: [File: Drosophila melanogaster - side (aka).jpg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Drosophila_melanogaster\-_side_(aka).jpg)
+* [Figure 6](https://plato.stanford.edu/entries/biology-developmental/#fig6): “Homology” from George John Romanes, 1892 [1910], * Darwin and after Darwin*, (fourth edition), Chicago: The Open Court Publishing Company, Figure 5, Chapter 3, p. 56, “Wings of Reptile, Mammal, and Bird. Drawn from nature (Brit. Mus.)”. http://www.talkorigins.org/faqs/precursors/images/homology.jpg. Licensed under Public domain via Wikimedia Commons - [File: Homology.jpg - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Homology.jpg)
+* [Figure 7](https://plato.stanford.edu/entries/biology-developmental/#fig7): “* Biston betularia * caterpillars on birch (left) and willow (right)” by Mohamed A.F. Noor, Robin S. Parnell, Bruce S. Grant, 2008, “A Reversible Color Polyphenism in American Peppered Moth (* Biston betularia cognataria *) Caterpillars”, * PLoS ONE*, 3(9): e3142. doi: 10.1371/journal.pone.0003142. [A Reversible Color Polyphenism in American Peppered Moth (Biston betularia cognataria) Caterpillars | PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003142) Licensed under Creative Commons Attribution 2.5 via Wikimedia Commons - [File: Biston betularia.png - Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Biston_betularia.png)
 
 ## Academic Tools
 

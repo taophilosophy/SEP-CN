@@ -8,17 +8,17 @@
 
 ## 历史背景
 
-早期的西方女性主义者对肉体持怀疑态度并不奇怪，他们选择强调女性心智的理性力量；正如弗朗索瓦·普兰·德·拉·巴尔在 1673 年著名地声称，“心灵没有性别”（1673 [1990: 87]）。对一些早期女性主义者来说，这意味着热情地支持心灵与肉体之间的二元论，将肉体特征视为自我的偶然特征，而潜在的理性心智则是其核心。对她们来说，正如对后来的女性主义者来说一样，打破任何暗示的决定性联系，即肉体特征、心智能力和社会角色之间的联系是至关重要的。她们大多声称，理性是一种独立于肉体差异的普遍人类能力（沃斯通克拉夫、密尔和泰勒·密尔）。对于十八世纪的沃斯通克拉夫和十九世纪的泰勒·密尔等早期女性主义者来说，还有其他原因让她们对自己的身体持怀疑态度。在她们作为中产阶级妇女生活的背景下，她们的身体是商品，需要打理和维护，以便吸引男人结婚，这样她们就有物质条件生活。因此，女性对自己身体的关注表现为将其塑造为他人评价的对象，沃斯通克拉夫在此看到的危险在女性主义工作中一直有所反响。沃斯通克拉夫于 1792 年的著作《女权辩护》正如博尔多（1993）所指出的那样，清晰地展示了女性身体的规训，正如我们在后福柯时代所描述的那样。
+早期的西方女性主义者对肉体持怀疑态度并不奇怪，他们选择强调女性心智的理性力量；正如弗朗索瓦 · 普兰 · 德 · 拉 · 巴尔在 1673 年著名地声称，“心灵没有性别”（1673 [1990: 87]）。对一些早期女性主义者来说，这意味着热情地支持心灵与肉体之间的二元论，将肉体特征视为自我的偶然特征，而潜在的理性心智则是其核心。对她们来说，正如对后来的女性主义者来说一样，打破任何暗示的决定性联系，即肉体特征、心智能力和社会角色之间的联系是至关重要的。她们大多声称，理性是一种独立于肉体差异的普遍人类能力（沃斯通克拉夫、密尔和泰勒 · 密尔）。对于十八世纪的沃斯通克拉夫和十九世纪的泰勒 · 密尔等早期女性主义者来说，还有其他原因让她们对自己的身体持怀疑态度。在她们作为中产阶级妇女生活的背景下，她们的身体是商品，需要打理和维护，以便吸引男人结婚，这样她们就有物质条件生活。因此，女性对自己身体的关注表现为将其塑造为他人评价的对象，沃斯通克拉夫在此看到的危险在女性主义工作中一直有所反响。沃斯通克拉夫于 1792 年的著作《女权辩护》正如博尔多（1993）所指出的那样，清晰地展示了女性身体的规训，正如我们在后福柯时代所描述的那样。
 
 > 为了保持个人的美丽，女人的荣耀！四肢和才能被束缚得比中国带子还要糟糕，而她们被迫过着久坐的生活，而男孩们在户外嬉戏，这削弱了肌肉……美的人为观念和对感性的错误描述早已与她的行动动机纠缠在一起。 (Wollstonecraft 1792 [1988: 55])
 
 身体也是一种脆弱的源泉。密尔和泰勒密尔一直关注着他们对疾病的敏感性如何打断了他们生产哲学作品的能力，并给他们的人生计划蒙上了早逝的阴影。此外，对女性身体作为感官快乐源泉的任何赞美都受到怀孕风险的限制。
 
-19 世纪英国女性主义在约瑟芬·巴特勒（Josephine Butler）领导的反传染病法案（Jordan 2001）运动中也开始崭露头角。该法案允许对妇女进行强制性的性病检查。巴特勒将自由主义政治哲学中突出的个人权利观念扩展到了对自己身体的权利。检查运动被视为对这些权利的特别令人发指的侵犯，妇女被视为男性和医学对其身体的占有和剥夺的受害者。在这里，我们发现了后来在反对强奸和性暴力运动中以及争取获得避孕和堕胎权利以及女性健康运动中提出的论点的开端；所有这些都强调了妇女控制自己身体发生的事情的权利。这种缺乏控制在奴隶妇女身体的情况中找到了最极端的例子，她们的身体实际上成为了他人的财产，受到一种与沃斯通克拉夫特所阐述的截然不同的纪律。
+19 世纪英国女性主义在约瑟芬 · 巴特勒（Josephine Butler）领导的反传染病法案（Jordan 2001）运动中也开始崭露头角。该法案允许对妇女进行强制性的性病检查。巴特勒将自由主义政治哲学中突出的个人权利观念扩展到了对自己身体的权利。检查运动被视为对这些权利的特别令人发指的侵犯，妇女被视为男性和医学对其身体的占有和剥夺的受害者。在这里，我们发现了后来在反对强奸和性暴力运动中以及争取获得避孕和堕胎权利以及女性健康运动中提出的论点的开端；所有这些都强调了妇女控制自己身体发生的事情的权利。这种缺乏控制在奴隶妇女身体的情况中找到了最极端的例子，她们的身体实际上成为了他人的财产，受到一种与沃斯通克拉夫特所阐述的截然不同的纪律。
 
 > 她的背部和肌肉…被迫参与田间劳动，她被迫像男人一样工作。她的双手被要求照顾和培育白人男性及其家人…她的阴道被用于他的性快感…子宫…资本投资的地方…所产生的孩子…在奴隶市场上价值超额（Omolade 1983: 354）
 
-在 19 世纪和 20 世纪初，争取妇女选举权的运动主导了西方的女性主义活动。《塞内卡瀑布大会声明》没有提到身体，但索洁娜·特鲁斯的著名演讲在俄亥俄州妇女大会上引起了人们对身体作为女性主义运动内种族和阶级差异标志的关注。
+在 19 世纪和 20 世纪初，争取妇女选举权的运动主导了西方的女性主义活动。《塞内卡瀑布大会声明》没有提到身体，但索洁娜 · 特鲁斯的著名演讲在俄亥俄州妇女大会上引起了人们对身体作为女性主义运动内种族和阶级差异标志的关注。
 
 > 我有和任何男人一样多的肌肉，能做和任何男人一样多的工作。我耕种、播种、收割，把庄稼堆进谷仓，没有人能超过我！我不也是一个女人吗？我能像男人一样努力工作、吃得和男人一样多——只要我能得到——忍受鞭打！我不也是一个女人吗？（Truth 1851 [1881: 116]）。
 
@@ -32,15 +32,15 @@
 
 ## 第二性 (The Second Sex)
 
-然而，正是随着西蒙·德·波伏娃（Beauvoir 1949 [1982: 39]）出版《第二性》，女性主义者对身体与自我之间关系的理论化开始占据主导地位。与其他现象学家一样，特别是梅洛·庞蒂和萨特，波伏娃认识到“存在于世界中严格意味着存在一个既是世界中的物质事物又是朝向世界的视角的身体”（Beauvoir 1949 [1982: 39]）。对于现象学家和弗洛伊德而言，自我必然是肉体的，身体构成了自我。它不是一个自我与之相对立的独立实体。然而，这个身体并不仅仅是生物学提供的解释。引起他们关注的身体是作为生活的身体，产生主体感官体验和生活意向性的身体，这个主体正在与其世界进行协商。这也是一个被他人遇见的身体，他人对它的回应调解了我们自身存在感。波伏娃论述的核心是，这种身体存在、它提供的视角以及它所获得的回应对于男性和女性是不同的。她的论述提供了一个关于物质和文化在形成我们具体自我的交织中的复杂而非简化的图景（参见西蒙·德·波伏娃条目，Kruks 2010，Sandford 2006，Moi 1999）。
+然而，正是随着西蒙 · 德 · 波伏娃（Beauvoir 1949 [1982: 39]）出版《第二性》，女性主义者对身体与自我之间关系的理论化开始占据主导地位。与其他现象学家一样，特别是梅洛 · 庞蒂和萨特，波伏娃认识到“存在于世界中严格意味着存在一个既是世界中的物质事物又是朝向世界的视角的身体”（Beauvoir 1949 [1982: 39]）。对于现象学家和弗洛伊德而言，自我必然是肉体的，身体构成了自我。它不是一个自我与之相对立的独立实体。然而，这个身体并不仅仅是生物学提供的解释。引起他们关注的身体是作为生活的身体，产生主体感官体验和生活意向性的身体，这个主体正在与其世界进行协商。这也是一个被他人遇见的身体，他人对它的回应调解了我们自身存在感。波伏娃论述的核心是，这种身体存在、它提供的视角以及它所获得的回应对于男性和女性是不同的。她的论述提供了一个关于物质和文化在形成我们具体自我的交织中的复杂而非简化的图景（参见西蒙 · 德 · 波伏娃条目，Kruks 2010，Sandford 2006，Moi 1999）。
 
 ### 生物学的数据
 
-在《第二性》的第一章中，博沃亚回顾了生物学的数据。但她这样做时提出了警告。这些数据不应被视为决定个体特征或社会生活的因素。在这个警告之后，她继续描述了声称的女性作为动物或有机体的生物特征，除了在生殖角色上的差异之外，还包括声称 *“* 女人比男人弱，她的肌肉力量较小，...可以举起的重物较轻”（1949 年[1982:66]）。她重复这些“事实”，同时宣称“这些事实本身没有意义”（1949 年[1982:66]）。这是因为“只有在人类的视角下，我们才能比较人类物种的雌雄”，从这个人类的视角来看，“生理事实...具有意义，这种意义...取决于整个背景”（1949 年[1982:66]）。因此，例如，关于“女性由于她的生殖功能而承担的负担...只有社会才是裁决者”（1949 年[1982:67]）。
+在《第二性》的第一章中，博沃亚回顾了生物学的数据。但她这样做时提出了警告。这些数据不应被视为决定个体特征或社会生活的因素。在这个警告之后，她继续描述了声称的女性作为动物或有机体的生物特征，除了在生殖角色上的差异之外，还包括声称 *“* 女人比男人弱，她的肌肉力量较小，...可以举起的重物较轻”（1949 年 [1982: 66]）。她重复这些“事实”，同时宣称“这些事实本身没有意义”（1949 年 [1982: 66]）。这是因为“只有在人类的视角下，我们才能比较人类物种的雌雄”，从这个人类的视角来看，“生理事实...具有意义，这种意义...取决于整个背景”（1949 年 [1982: 66]）。因此，例如，关于“女性由于她的生殖功能而承担的负担...只有社会才是裁决者”（1949 年 [1982: 67]）。
 
-这样的言论导致人们将波伏儿视为性别二元论的创始人，这在 1970 年代的女性主义理论中变得至关重要（参见条目：关于性别的女性主义观点）。通常，性别被视为由生物学确定，而性别则被视为附加在这种生物学上的社会意义，被认为在历史上和社会上是可变的，并且可以改变。正是在这种背景下，波伏儿著名的说法“一个女人并非生来如此，而是逐渐成为一个女人”被不断引用（1949 年[1982:295]）。然而，波伏儿自己的立场并不直接映射到这种性别二元论上（桑福德 2006，列侬和奥尔索普 2019，cp 4）。对于她来说，作为事实提供的生物学数据缺乏后来有时被认为理所当然的固定性。她表明自己意识到文化神话和隐喻如何影响对生物学故事的叙述，即使她自己向我们提供了这些叙述。在指出文化意识形态对描述活跃精子和被动卵子的影响时（1949 年[1982:44]），她预见了后来作家的工作（马丁 1987）。此外，她始终意识到生物数据给我们留下的可能性，强调了在整个生物领域中异性繁殖的替代方案，人类和其他动物中雌雄同体现象的发生，并且在动物王国中指出了雌雄动物共同照料卵和幼崽的情况。结果是，甚至性别差异的生物学也没有被确定下来。
+这样的言论导致人们将波伏儿视为性别二元论的创始人，这在 1970 年代的女性主义理论中变得至关重要（参见条目：关于性别的女性主义观点）。通常，性别被视为由生物学确定，而性别则被视为附加在这种生物学上的社会意义，被认为在历史上和社会上是可变的，并且可以改变。正是在这种背景下，波伏儿著名的说法“一个女人并非生来如此，而是逐渐成为一个女人”被不断引用（1949 年 [1982: 295]）。然而，波伏儿自己的立场并不直接映射到这种性别二元论上（桑福德 2006，列侬和奥尔索普 2019，cp 4）。对于她来说，作为事实提供的生物学数据缺乏后来有时被认为理所当然的固定性。她表明自己意识到文化神话和隐喻如何影响对生物学故事的叙述，即使她自己向我们提供了这些叙述。在指出文化意识形态对描述活跃精子和被动卵子的影响时（1949 年 [1982: 44]），她预见了后来作家的工作（马丁 1987）。此外，她始终意识到生物数据给我们留下的可能性，强调了在整个生物领域中异性繁殖的替代方案，人类和其他动物中雌雄同体现象的发生，并且在动物王国中指出了雌雄动物共同照料卵和幼崽的情况。结果是，甚至性别差异的生物学也没有被确定下来。
 
-> 仅通过存在，事实才会显现……没有任何要求这个身体具有这种或那种特定的结构……物种的延续并不需要性别差异……[尽管]仍然是真实的，没有身体的思维和永生的人都是严格无法想象的……我们可以想象一个无性或雌雄同体的社会。（1949 [1982: 390]，我强调）
+> 仅通过存在，事实才会显现……没有任何要求这个身体具有这种或那种特定的结构……物种的延续并不需要性别差异……[尽管] 仍然是真实的，没有身体的思维和永生的人都是严格无法想象的……我们可以想象一个无性或雌雄同体的社会。（1949 [1982: 390]，我强调）
 
 另一方面，我们赋予我们的物质性的意义和重要性并不脱离那种物质性。我们生活的身体方式必须适应生物学试图捕捉的数据，包括生殖、月经和更年期等事实。对于波伏儿来说，“性别”并不是一个生物学范畴。正如桑福德（2006）指出的那样，它是一个存在主义范畴。在探讨作为一个女性存在的内容时，生物数据只是其中的一个组成部分。
 
@@ -66,7 +66,7 @@
 
 女性如何将自己的身体视为他人凝视的对象的方式开始于“教育和周围环境”（1949 [2010: 304]），而非解剖学。博沃亚对女性如何以这种被客体化的方式生活其身体的描述，内化了凝视并将自己的身体塑造为他人的对象，这是她对女性体现现象学的最重要贡献之一，预示并影响了后来女性主义者如巴特基和杨（见下文 5.1 和 7.1 节）的工作。
 
-女性主义者博伊沃尔（Beauvoir）对女性经验的现象学也对那些探讨种族化具身体性的哲学家产生了影响，并与他们进行了对话。现象学作家弗朗茨·法农（Franz Fanon）在《黑皮肤白面具》（1952 [1968]）中描述了他抵达法国后如何发现自己的黑人身份：
+女性主义者博伊沃尔（Beauvoir）对女性经验的现象学也对那些探讨种族化具身体性的哲学家产生了影响，并与他们进行了对话。现象学作家弗朗茨 · 法农（Franz Fanon）在《黑皮肤白面具》（1952 [1968]）中描述了他抵达法国后如何发现自己的黑人身份：
 
 > 我发现自己是其他物体中的一个对象……其他人固定我，就像染料用于固定化学溶液一样….这不再是关于黑人是黑人的问题，而是关于他是黑人与白人相对立的问题……我们不得不面对白人的凝视….我突然间对我的身体负责，对我的种族负责，对我的祖先负责。我用客观的目光审视自己，发现了我的黑人身份，我的种族特征，然后我被食人主义、智力缺陷的迷恋、种族缺陷、奴隶船所震撼，最重要的是，最重要的是，“Sho good Banana”。（1952 [1968: 185–186]）
 
@@ -78,25 +78,25 @@
 
 ### 3.1 激进女性主义
 
-有关如何准确界定激进女性主义存在一些争议。在这里使用的术语指的是那些强调男性和女性之间本质或根深蒂固差异的女权主义者，他们赞美女性独特的具身方式和经验能力。激进女性主义者曾经/正在积极参与全球范围内对妇女性暴力的揭示，有时他们将这种暴力视为源于男性本性或深层社会化过程。尽管雪拉米丝·费尔斯通（Shulamith Firestone）（1970 [1979]；Merck and Sandford 2010）提出了解放妇女免于生殖任务的早期愿景；在大多数英美激进女性主义中，女性性欲和女性生育能力被视为肯定女性身体力量和价值的基础。女性性欲因其力量和据称能够摆脱支配和服从结构的能力而受到赞美（Rich 1979）。女性的母性身体被视为积极价值的源泉，用以对抗男性规范，强调关怀和主体间性，而非自治和责任（Rich 1979，Ruddick 1989）。女性参与生殖过程也被视为扎根于反军国主义和对自然界的尊重，使她们成为和平和生态运动的先锋（Griffin 1978）。生育和照顾角色也使她们与男性的普遍暴力对立。这些方法对于赋予女性身体积极价值以引发自豪感而非羞耻感非常重要。然而，这些方法也存在将性欲和母性体验的变化经历同质化的危险。正如格林肖（Grimshaw）所指出的，对于妇女而言，生育被视为“既是最大快乐的源泉，也是她们最大痛苦的根源”（1986: 73）。此外，妇女自己也从事军事职业，并且她们在私人和公共空间中也可能表现出暴力。因此，赞美女性具身方式的主张需要听取波伏儿（Beauvoir）强调的具身体验是情境的产物这一观点。
+有关如何准确界定激进女性主义存在一些争议。在这里使用的术语指的是那些强调男性和女性之间本质或根深蒂固差异的女权主义者，他们赞美女性独特的具身方式和经验能力。激进女性主义者曾经/正在积极参与全球范围内对妇女性暴力的揭示，有时他们将这种暴力视为源于男性本性或深层社会化过程。尽管雪拉米丝 · 费尔斯通（Shulamith Firestone）（1970 [1979]；Merck and Sandford 2010）提出了解放妇女免于生殖任务的早期愿景；在大多数英美激进女性主义中，女性性欲和女性生育能力被视为肯定女性身体力量和价值的基础。女性性欲因其力量和据称能够摆脱支配和服从结构的能力而受到赞美（Rich 1979）。女性的母性身体被视为积极价值的源泉，用以对抗男性规范，强调关怀和主体间性，而非自治和责任（Rich 1979，Ruddick 1989）。女性参与生殖过程也被视为扎根于反军国主义和对自然界的尊重，使她们成为和平和生态运动的先锋（Griffin 1978）。生育和照顾角色也使她们与男性的普遍暴力对立。这些方法对于赋予女性身体积极价值以引发自豪感而非羞耻感非常重要。然而，这些方法也存在将性欲和母性体验的变化经历同质化的危险。正如格林肖（Grimshaw）所指出的，对于妇女而言，生育被视为“既是最大快乐的源泉，也是她们最大痛苦的根源”（1986: 73）。此外，妇女自己也从事军事职业，并且她们在私人和公共空间中也可能表现出暴力。因此，赞美女性具身方式的主张需要听取波伏儿（Beauvoir）强调的具身体验是情境的产物这一观点。
 
 ### 这个不是一个的性别
 
-在伊里加雷（1975 年，1977 年，1993 年）的作品中，我们发现对哲学和精神分析的持续批判，因为它们具有男性主义的假设。她指出，在这些作品中，“男人”被呈现为普遍规范，性别差异没有得到承认，或者以一种使女性被概念化为“母性-女性”的方式得到承认，这在抽象思维中被抛在脑后。这样的批评坚持要求承认性别差异以及女性肉体性可以对思维的形式产生的影响。她在这里提出了一个似乎相当惊人的说法：即身体的形态反映在某些思维过程的形态中。例如，西方的理性被标记为同一性原则、非矛盾性、二元主义、原子主义和确定性个体化。她将此视为：“形式、个体、（男性）性器官的一个”。相比之下：“至少两个（嘴唇）的接触使女性与自己保持联系”（1977 年[1985:79]），并提出了个体化的模糊性、流动性和移动性，拒绝了稳定形式。
+在伊里加雷（1975 年，1977 年，1993 年）的作品中，我们发现对哲学和精神分析的持续批判，因为它们具有男性主义的假设。她指出，在这些作品中，“男人”被呈现为普遍规范，性别差异没有得到承认，或者以一种使女性被概念化为“母性-女性”的方式得到承认，这在抽象思维中被抛在脑后。这样的批评坚持要求承认性别差异以及女性肉体性可以对思维的形式产生的影响。她在这里提出了一个似乎相当惊人的说法：即身体的形态反映在某些思维过程的形态中。例如，西方的理性被标记为同一性原则、非矛盾性、二元主义、原子主义和确定性个体化。她将此视为：“形式、个体、（男性）性器官的一个”。相比之下：“至少两个（嘴唇）的接触使女性与自己保持联系”（1977 年 [1985: 79]），并提出了个体化的模糊性、流动性和移动性，拒绝了稳定形式。
 
 这样的说法被一些人解释为伊里加莱是一位生物本质主义者，她认为男性和女性身体的生物学会产生（潜在的）不同的思维模式，并坚持认为表达女性身体的思维和书写应该被展现出来。然而，与这样的阅读相反，伊里加莱本人坚持认为不可能回到身体在文化中的再现之外。这表明，她在著作中援引的身体特征并非粗糙的物质性，而是（也许在惠特福德 1991 年最清晰地表达出来），身体作为它们在西方文化的符号和想象中的特征（1991 年：第 3 章）。当伊里加莱提到男性和女性的身体特征时，根据惠特福德的说法，她捕捉到了她发现这些特征在个人和社会领域中既被表现又被想象，也就是说，在情感上经历的方式。她主张需要重建一个关于女性身体的相互联系的想象和符号，使之对女性而言既可居住又积极。惠特福德认为，这不是提供关于女性身体真实情况的准确描述的本质主义任务，而是一个创造性的任务，女性身体在其中被充满爱意地重新想象和重新表达，使女性能够以不同的方式感受和思考自己的具象形式。然而，伊里加莱对想象身体的关注是受到对物质性、自然的尊重的，尽管这种物质性对多种披露方式敞开，但它为我们提供了两种性别身体，我们的想象意义仍然要对其负责。
 
-伊里格莱本人考虑了，如果我们以重新想象的女性或母性身体作为起点，而不是以阴茎形象化的男性身体，那么哲学和精神分析思维会有何不同。这样的工作在巴特斯比（1998年）、卡瓦雷罗（1995年）和艾莉森·斯通（2011年）等人的著作中得到了延续。巴特斯比探讨了“如果我们把具身的女性视为自我的模式的规范，那么身份观念会发生什么变化”（1998: 38）。出生的概念挑战了对身份固定观念的看法，表明自我和非自我的关系并非对立，而身份是“从肉体中爆发出来的”（1998: 39）。对于卡瓦雷罗来说，对我们是由女人所生这一事实缺乏关注，使西方形而上学过于关注死亡而不是生命的诞生。斯通（2011年）探索了母性身体，提出了一种新型主体性模型，沉浸在亲密关系和依赖关系中。斯通“分析了这种主体性形式，描述了母亲通常如何与她的孩子一起再现她与自己母亲的身体关系史，导致一种独特的母性和循环的生活时光形式”（2011: 书封）。
+伊里格莱本人考虑了，如果我们以重新想象的女性或母性身体作为起点，而不是以阴茎形象化的男性身体，那么哲学和精神分析思维会有何不同。这样的工作在巴特斯比（1998 年）、卡瓦雷罗（1995 年）和艾莉森 · 斯通（2011 年）等人的著作中得到了延续。巴特斯比探讨了“如果我们把具身的女性视为自我的模式的规范，那么身份观念会发生什么变化”（1998: 38）。出生的概念挑战了对身份固定观念的看法，表明自我和非自我的关系并非对立，而身份是“从肉体中爆发出来的”（1998: 39）。对于卡瓦雷罗来说，对我们是由女人所生这一事实缺乏关注，使西方形而上学过于关注死亡而不是生命的诞生。斯通（2011 年）探索了母性身体，提出了一种新型主体性模型，沉浸在亲密关系和依赖关系中。斯通“分析了这种主体性形式，描述了母亲通常如何与她的孩子一起再现她与自己母亲的身体关系史，导致一种独特的母性和循环的生活时光形式”（2011: 书封）。
 
 ## 交叉性
 
 基于身体差异理论家和交叉理论家之间对性别差异的基础地位和不可避免性的争论已成为一个关键焦点，他们的工作特别扎根于黑人女性主义思想（Crenshaw 2019，Hill Collins 和 Bilge 2016），同时也包括来自身体能力理论家和跨性别理论家的贡献（Garland-Thomson 2002，Bettcher 和 Garry 2009，Koyama 2006）。这些理论家挑战了性别差异在我们对具体主体性的描述中的优先地位，以及提供关于这种差异内容的通用描述的可能性。作为男人或女人的标准是什么，性别定位带来了什么生活机会，以及这些因素如何内化形成我们作为性别存在的生活经验，都受到与性别相关的其他类别的交叉影响。成为“黑人男人/女人”、“同性恋男人/女人”或“跨性别男人/女人”（它们本身也相互调解，并受到其他因素的进一步调解，例如国籍、宗教、年龄、阶级以及我们在能力/残疾轴上的定位），与成为“白人、直人、中产阶级、顺性别、有能力的女人或男人”有着不同的内涵。这些概念所附带的规范理想是不同的，但也有重叠之处。这些定位对我们在经济和更广泛社会领域的生活机会产生后果，这些结构数据表明了这一点。所有这些对我们的生活主体性产生后果，我们如何体验我们的身体，我们作为男性或女性的自我意识，以及其他识别符号。
 
-黑人女性主义批评挑战了主流白人女性主义思想的种族主义，因为它从白人女性的角度理论化女性，从而使黑人和其他边缘化女性群体的特定经历变得不可见。奥德丽·洛德写道：
+黑人女性主义批评挑战了主流白人女性主义思想的种族主义，因为它从白人女性的角度理论化女性，从而使黑人和其他边缘化女性群体的特定经历变得不可见。奥德丽 · 洛德写道：
 
 > 作为一名黑人女同性恋女性主义者，我对自己身份的多个方面感到舒适，作为一个致力于种族和性解放的女性，我发现自己不断被鼓励剔除自己的某个方面，并将其呈现为一个有意义的整体，遮蔽或否认自我的其他部分。但这是一种破坏性和分裂性的生活方式。 (Lorde 1984)
 
-两个世纪前，苏琼纳·特鲁思（Sojourner Truth）在塞内卡瀑布（Seneca Falls）的著名“我不也是一个女人吗”演讲中（见上文）指出了黑奴妇女和白人资产阶级妇女截然不同的具体体现方式。术语“交叉性”（intersectionality）的创造常被归功于非裔美国民权倡导者、女权主义者和批判种族学者金伯利·克伦肖（Kimberle Crenshaw）（2019 年）。克伦肖认为，作为黑人女性，我们不是将种族主义和性别主义作为分离的、独立的压迫形式，而是种族主义和性别主义相互交汇、相互结合，以非常具体的方式塑造了黑人女性的生活，包括体验的经历。这不是将种族化的经历添加到性别身份的基础上。作为一个女性的构成与作为一个黑人的构成相互关联，挑战了性别差异理论的普遍主义。
+两个世纪前，苏琼纳 · 特鲁思（Sojourner Truth）在塞内卡瀑布（Seneca Falls）的著名“我不也是一个女人吗”演讲中（见上文）指出了黑奴妇女和白人资产阶级妇女截然不同的具体体现方式。术语“交叉性”（intersectionality）的创造常被归功于非裔美国民权倡导者、女权主义者和批判种族学者金伯利 · 克伦肖（Kimberle Crenshaw）（2019 年）。克伦肖认为，作为黑人女性，我们不是将种族主义和性别主义作为分离的、独立的压迫形式，而是种族主义和性别主义相互交汇、相互结合，以非常具体的方式塑造了黑人女性的生活，包括体验的经历。这不是将种族化的经历添加到性别身份的基础上。作为一个女性的构成与作为一个黑人的构成相互关联，挑战了性别差异理论的普遍主义。
 
 自 1990 年代起，残疾理论家探讨了残疾如何影响性别化过程以及性别经验和不同身体能力的结果（Mairs 1990，Thomas 1999）。女性主义理论，正如 Garland-Thomson 所主张的：
 
@@ -154,13 +154,13 @@
 
 此外，在这个过程中，需要二元性别差异，因为它是“生命本身的本体特征之一”（1999 [2008: 44]）。对于她来说，这种性别差异化和性选择是交织在一起的，然后被用来作为种族和其他形式的身体差异的基础。
 
-Grosz 对使性别二元不可动摇的生物学的支持受到批评，因为它超越了承认物质重要性的范畴，而是偏袒了特定的生物学解释（Jagger 2015）。性别差异研究的历史表明，解释性别差异的生物学理论是特定历史和文化时刻的产物。这种认识使得可以重新审视关于性别的文化假设如何影响了生物学对性别差异的解释。在这方面至关重要的是一种假设，即只有两性，男性和女性，这一模式越来越受到挑战。Fausto-Sterling 指出了被强行归入二元分类系统的各种性别间体（1992, 2000）。她指出，“这些变化如此多样……以至于任何分类方案都无法涵盖临床实践中遇到的各种性器官的多样性”（1993: 22）。Oudshoorn（1994）在性激素理论的出现的系谱中展示了二元性别差异模型是如何盛行的，而在这种情况下，男性和女性的二元概念本可以被抛弃（参见女性主义生物学哲学和 Fausto-Sterling 1992, 2000; Fine 2012, 2017）。Lane 认为Grosz 对使性别二元不可动摇的生物学的支持受到批评，因为它超越了承认物质重要性的范畴，而是偏袒了特定的生物学解释（Jagger 2015）。性别差异研究的历史表明，解释性别差异的生物学理论是特定历史和文化时刻的产物。这种认识使得可以重新审视关于性别的文化假设如何影响了生物学对性别差异的解释。在这方面至关重要的是一种假设，即只有两性，男性和女性，这一模式越来越受到挑战。Fausto-Sterling 指出了被强行归入二元分类系统的各种性别间体（1992, 2000）。她指出，“这些变化如此多样……以至于任何分类方案都无法涵盖临床实践中遇到的各种性器官的多样性”（1993: 22）。Oudshoorn（1994）在性激素理论的出现的系谱中展示了二元性别差异模型是如何盛行的，而在这种情况下，男性和女性的二元概念本可以被抛弃（参见女性主义生物学哲学和 Fausto-Sterling 1992, 2000; Fine 2012, 2017）。Lane 认为
+Grosz 对使性别二元不可动摇的生物学的支持受到批评，因为它超越了承认物质重要性的范畴，而是偏袒了特定的生物学解释（Jagger 2015）。性别差异研究的历史表明，解释性别差异的生物学理论是特定历史和文化时刻的产物。这种认识使得可以重新审视关于性别的文化假设如何影响了生物学对性别差异的解释。在这方面至关重要的是一种假设，即只有两性，男性和女性，这一模式越来越受到挑战。Fausto-Sterling 指出了被强行归入二元分类系统的各种性别间体（1992, 2000）。她指出，“这些变化如此多样……以至于任何分类方案都无法涵盖临床实践中遇到的各种性器官的多样性”（1993: 22）。Oudshoorn（1994）在性激素理论的出现的系谱中展示了二元性别差异模型是如何盛行的，而在这种情况下，男性和女性的二元概念本可以被抛弃（参见女性主义生物学哲学和 Fausto-Sterling 1992, 2000; Fine 2012, 2017）。Lane 认为 Grosz 对使性别二元不可动摇的生物学的支持受到批评，因为它超越了承认物质重要性的范畴，而是偏袒了特定的生物学解释（Jagger 2015）。性别差异研究的历史表明，解释性别差异的生物学理论是特定历史和文化时刻的产物。这种认识使得可以重新审视关于性别的文化假设如何影响了生物学对性别差异的解释。在这方面至关重要的是一种假设，即只有两性，男性和女性，这一模式越来越受到挑战。Fausto-Sterling 指出了被强行归入二元分类系统的各种性别间体（1992, 2000）。她指出，“这些变化如此多样……以至于任何分类方案都无法涵盖临床实践中遇到的各种性器官的多样性”（1993: 22）。Oudshoorn（1994）在性激素理论的出现的系谱中展示了二元性别差异模型是如何盛行的，而在这种情况下，男性和女性的二元概念本可以被抛弃（参见女性主义生物学哲学和 Fausto-Sterling 1992, 2000; Fine 2012, 2017）。Lane 认为
 
 > 将生物学解读为开放性和创造性的行动，支持一种将性别和性别多样性视为连续体而非二分法的观点——简而言之，“自然”产生了所有这种多样性，社会需要接受它。(2009: 137)
 
 Lane 作为一位跨性别理论家，正在面对被视为表演性别理论中反生物主义的问题，并探讨跨性别主体形成的生物和文化因素之间复杂的相互作用，而不将 Grosz 的生物学解释视为权威（见有关跨性别问题的女性主义观点条目）。
 
-这并不是否认存在独立于我们概念化的东西，它对我们所能说的内容施加了限制。我们无法将所给予的部分与我们思考方式中的部分分开。Barad 认为需要解决的是“物质和意义的纠缠”（Barad 2007），言说和物质的相互牵连，其中没有一方被赋予优先权。Barad 特别参考物理学家尼尔斯·玻尔的工作来探讨这种纠缠。将物质视为一个积极的“代理人”确保了物质和意义的相互表达。然而，重要的是，尽管物质的经验世界起着积极作用，但这并不意味着赋予它某种即时的给定性，或者直接决定性的作用。在她的方法中，Barad 继承了哈拉维的思路。在巴特勒的《性别麻烦》之前的 1985 年，哈拉维发表了她的“赛博格宣言”（1985 [1991]）。哈拉维的项目与后来由巴特勒阐述的项目有一些重叠。她希望克服自然与文化之间的二元对立，用自然/文化取代这两个术语，其中不同的元素无法分开。她还关注构成我们所认为的自然的复杂因素。最关键的是，她关注颠覆某些二元对立所假定的自然性；坚持打破人类与动物之间以及动物与机器之间的界限。因此，她提出了赛博格的概念：一种“同时是动物和机器”的生物，生存在一个“模糊自然和人工制品”的世界中（1985 [1991: 149]）。指向赛博格作为捕捉我们“身体现实”的形象，哈拉维抵制任何呼吁构成我们身体存在的纯自然性。自然与构造之间没有明确的界限。然而，在哈拉维的描述中，身体以及自然界的其他部分具有她所称的“抵抗各种类别和项目的恶作剧品质”（1997: 128）。在她的后续作品中（Haraway 2003, 2008），她对于在巴特勒那里主要被讨论为言说实践特征的古怪性和代理性，与自然同样具有特征。自然被视为一个积极的代理人，积极地促成我们所面对的不可分割的自然/文化。 “我们必须找到除了再现、占有、挪用和怀旧之外的另一种与自然的关系”（2008: 158）。这种其他关系是将自然视为“强大对话中的合作伙伴”（2008: 158），在其中我们试图构成它。她的工作引人注目之处在于对身体存在的具体性和生物叙事以及历史和文化叙事的细致尊重。
+这并不是否认存在独立于我们概念化的东西，它对我们所能说的内容施加了限制。我们无法将所给予的部分与我们思考方式中的部分分开。Barad 认为需要解决的是“物质和意义的纠缠”（Barad 2007），言说和物质的相互牵连，其中没有一方被赋予优先权。Barad 特别参考物理学家尼尔斯 · 玻尔的工作来探讨这种纠缠。将物质视为一个积极的“代理人”确保了物质和意义的相互表达。然而，重要的是，尽管物质的经验世界起着积极作用，但这并不意味着赋予它某种即时的给定性，或者直接决定性的作用。在她的方法中，Barad 继承了哈拉维的思路。在巴特勒的《性别麻烦》之前的 1985 年，哈拉维发表了她的“赛博格宣言”（1985 [1991]）。哈拉维的项目与后来由巴特勒阐述的项目有一些重叠。她希望克服自然与文化之间的二元对立，用自然/文化取代这两个术语，其中不同的元素无法分开。她还关注构成我们所认为的自然的复杂因素。最关键的是，她关注颠覆某些二元对立所假定的自然性；坚持打破人类与动物之间以及动物与机器之间的界限。因此，她提出了赛博格的概念：一种“同时是动物和机器”的生物，生存在一个“模糊自然和人工制品”的世界中（1985 [1991: 149]）。指向赛博格作为捕捉我们“身体现实”的形象，哈拉维抵制任何呼吁构成我们身体存在的纯自然性。自然与构造之间没有明确的界限。然而，在哈拉维的描述中，身体以及自然界的其他部分具有她所称的“抵抗各种类别和项目的恶作剧品质”（1997: 128）。在她的后续作品中（Haraway 2003, 2008），她对于在巴特勒那里主要被讨论为言说实践特征的古怪性和代理性，与自然同样具有特征。自然被视为一个积极的代理人，积极地促成我们所面对的不可分割的自然/文化。 “我们必须找到除了再现、占有、挪用和怀旧之外的另一种与自然的关系”（2008: 158）。这种其他关系是将自然视为“强大对话中的合作伙伴”（2008: 158），在其中我们试图构成它。她的工作引人注目之处在于对身体存在的具体性和生物叙事以及历史和文化叙事的细致尊重。
 
 ## 回归现象学
 
@@ -231,8 +231,8 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
 * Ahmed, Sara, 2000, *Strange Encounters: Embodied Others in Postcoloniality*, London and New York: Routledge.
 * –––, 2006, *Queer Phenomenology: Orientations, Objects, Others*, Durham, NC: Duke University Press.
 * Alaimo, Stacy and Susan Hekman (eds), 2008, *Material Feminisms*, Bloomington, IN: Indiana University Press.
-* Alsop, Rachel and Kathleen Lennon, 2018, “Aesthetic Surgery and the Expressive Body”, *Feminist Theory*, 19(1): 95–112. doi:10.1177/1464700117734736
-* Alcoff, Linda Martín, 2006, *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press. doi:10.1093/0195137345.001.0001
+* Alsop, Rachel and Kathleen Lennon, 2018, “Aesthetic Surgery and the Expressive Body”, *Feminist Theory*, 19(1): 95–112. doi: 10.1177/1464700117734736
+* Alcoff, Linda Martín, 2006, *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press. doi: 10.1093/0195137345.001.0001
 * Astell, Mary, 1694 [2002], *A Serious Proposal to the Ladies: Parts I and II*, Patricia Springborg (ed.), Peterborough, Ontario: Broadview Press.
 * Ausch, Robert, Randal Doane, and Laura Perez, 2000. “Interview with Elizabeth Grosz”, *Found Object*, 9: 1–16. [[Ausch, Doane, and Perez 2000 available online](https://web.archive.org/web/20030219031437/http://web.gc.cuny.edu/csctw/found_object/text/grosz.htm)]
 * Battersby, Christine, 1998, *The Phenomenal Woman: Feminist Metaphysics and the Patterns of Identity*, Cambridge: Polity and New York: Routledge.
@@ -243,7 +243,7 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
   * 2010, Translated as *The Second Sex*, Constance Borde and Sheila Malovany-Chevallier (trans.), London: Vintage
 * Bergoffen, Debra and Gail Weiss (eds), 2011, *Ethics of Embodiment*, special issue of *Hypatia*, 26(3).
 * ––– (eds), 2012, *Cluster: Contesting the Norms of Embodiment*, special issue of *Hypatia*, 27(2).
-* Bettcher, Talia and Ann Garry, 2009, “Introduction: Transgender Studies and Feminism: Theory, Politics, and Gendered Realities (special issue)”, *Hypatia*, 24(3): 1–10. doi:10.1111/j.1527-2001.2009.01042.x
+* Bettcher, Talia and Ann Garry, 2009, “Introduction: Transgender Studies and Feminism: Theory, Politics, and Gendered Realities (special issue)”, *Hypatia*, 24(3): 1–10. doi: 10.1111/j.1527-2001.2009.01042.x
 * Bordo, Susan, 1993, *Unbearable Weight: Feminism, Western Culture and the Body*, Berkeley, CA: University of California Press.
 * Butler, Judith, 1990, *Gender Trouble, Feminism and the Subversion of Identity*, London: Routledge.
 * –––, 1993, *Bodies that Matter: On the Discursive Limits of Sex*, London: Routledge.
@@ -258,33 +258,33 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
 * Dworkin, Andrea, 1974, *Women Hating*, New York: Dutton.
 * Diprose, Ros, 1994, *The Bodies of Women: Ethics, Embodiment and Sexual Difference*, London: Routledge
 * Dolezal, Luna, 2015, *The Body and Shame: Phenomenology, Feminism, and the Socially Shaped Body*, Lanham, MD: Lexington Books
-* Dylan More, Sam, 1998, “The Pregnant Man—an Oxymoron?”, *Journal of Gender Studies*, 7(3): 319–328. doi:10.1080/09589236.1998.9960725
+* Dylan More, Sam, 1998, “The Pregnant Man—an Oxymoron?”, *Journal of Gender Studies*, 7(3): 319–328. doi: 10.1080/09589236.1998.9960725
 * Fanon, Frantz, 1952 [1968], *Peau noire, masques blancs*, Seuil. Translated as *Black Skin, White Masks*, Charles Lam Markmann (trans.), London: MacGibbon and Kee.
 * Fausto-Sterling, Anne, 1992, *Myths of Gender: biological theories about women and men*, New York: Basic Books.
-* –––, 1993, “The Five Sexes: Why Male and Female Are Not Enough”, *The Sciences*, 33(2): 20–24. doi:10.1002/j.2326-1951.1993.tb03081.x
+* –––, 1993, “The Five Sexes: Why Male and Female Are Not Enough”, *The Sciences*, 33(2): 20–24. doi: 10.1002/j.2326-1951.1993.tb03081.x
 * –––, 2000, *Sexing the Body: Gender Politics and the Construction of Sexuality*, New York: Basic Books
 * Fine, Claudia, 2012, *Delusions of Gender*, London: Icon books
 * –––, 2017, *Testosterone Rex*, London; Icon books
 * Firestone, Shulamith, 1970 [1979], *The Dialectic of Sex: the Case for Feminist Revolution*, London: The Women’s Press
-* Fischer, Clara and Luna Dolezal (eds), 2018, *New Feminist Perspectives on Embodiment*, Cham: Palgrave Macmillan. doi:10.1007/978-3-319-72353-2
+* Fischer, Clara and Luna Dolezal (eds), 2018, *New Feminist Perspectives on Embodiment*, Cham: Palgrave Macmillan. doi: 10.1007/978-3-319-72353-2
 * Foucault, Michel, 1975 [1979], *Surveiller et punir*, Paris: Gallimard. Translated as *Discipline and Punish*, Alan Sheridan (trans.), New York: Vintage, 1979.
 * Freud, Sigmund, 1923 [1962], *Das Ich und das Es*, Vienna: Internationaler Psychoanalytischer. Translated as *The Ego and the Id*, J. Riviere (trans.), J. Stacey (ed.), New York: W.W.Norton, 1962.
 * Garland-Thomson, Rosmarie, 1997, *Extraordinary Bodies: Figuring Physical Disability in American Culture and Literature*, New York: Columbia University Press.
 * –––, 2002, “Integrating Disability, Transforming Feminist Theory”, *NWSA Journal*, (special issue: *Feminist Disability Studies*), 14(3): 1–32.
-* –––, 2011, “Misfits: A Feminist Materialist Disability Concept”, *Hypatia*, 26(3): 591–609. doi:10.1111/j.1527-2001.2011.01206.x
+* –––, 2011, “Misfits: A Feminist Materialist Disability Concept”, *Hypatia*, 26(3): 591–609. doi: 10.1111/j.1527-2001.2011.01206.x
 * Gatens, Moira, 1996, *Imaginary Bodies: Ethics, Power and Corporeality*, London and New York: Routledge.
-* –––, 2006, “Beauvoir and Biology: A second Look”, in *The Cambridge Companion to Simone de Beauvoir*, Claudia Card (ed.), Cambridge: Cambridge University Press, 266–285. doi:10.1017/CCOL0521790964.014
+* –––, 2006, “Beauvoir and Biology: A second Look”, in *The Cambridge Companion to Simone de Beauvoir*, Claudia Card (ed.), Cambridge: Cambridge University Press, 266–285. doi: 10.1017/CCOL0521790964.014
 * Gatens, Moira and Genevieve Lloyd, 1999, *Collective Imaginings: Spinoza Past and Present*, London and New York: Routledge.
 * Gilman, Sander L., 1985, *Difference and Pathology: Stereotypes of Sexuality, Race, and Madness*, Ithaca, NY: Cornell University Press.
 * –––, 1991, *The Jew’s Body*, New York: Routledge.
 * –––, 1999, *Making the Body Beautiful, a cultural history of cosmetic surgery*, Princeton and Oxford: Princeton University Press.
-* Gines, Kathryn T., 2017, “Simone de Beauvoir and the Race/Gender Analogy in The Second Sex Revisited”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), Chichester, UK: John Wiley & Sons, 47–58. doi:10.1002/9781118795996.ch4
-* Gonzalez-Arnal, Stella, Gill Jagger, and Kathleen Lennon (eds.), 2012, *Embodied Selves*, London: Palgrave Macmillan UK. doi:10.1057/9781137283696
+* Gines, Kathryn T., 2017, “Simone de Beauvoir and the Race/Gender Analogy in The Second Sex Revisited”, in *A Companion to Simone de Beauvoir*, Laura Hengehold and Nancy Bauer (eds.), Chichester, UK: John Wiley & Sons, 47–58. doi: 10.1002/9781118795996.ch4
+* Gonzalez-Arnal, Stella, Gill Jagger, and Kathleen Lennon (eds.), 2012, *Embodied Selves*, London: Palgrave Macmillan UK. doi: 10.1057/9781137283696
 * Gooding-Williams, Robert, 2005, *Look, a Negro: Philosophical Essays on Race, Culture and Politics*, New York: Routledge.
 * Griffin, Susan, 1978, *Woman and Nature: The Roaring Inside Her*, New York: Harper and Row.
 * Grimshaw, Jean, 1986, *Feminist Philosophers*, Brighton: Wheatsheaf.
 * Grosz, Elizabeth, 1994, *Volatile Bodies: Towards a Corporeal Feminism*, London: Routledge.
-* –––, 1999 [2008], “Darwin and Feminism: Preliminary Investigations for a Possible Alliance”, *Australian Feminist Studies*, 14(29): 31-45, doi:10.1080/08164649993317; reprinted in Alaimo and Hekman 2008: 23–51.
+* –––, 1999 [2008], “Darwin and Feminism: Preliminary Investigations for a Possible Alliance”, *Australian Feminist Studies*, 14(29): 31-45, doi: 10.1080/08164649993317; reprinted in Alaimo and Hekman 2008: 23–51.
 * Haraway, Donna J., 1985 [1991], “Manifest for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s”, *Socialist Review*, 80: 65–108. Reprinted as “A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the 1980s” in Haraway 1991: 149–181.
 * Haraway, Donna J., 1991, *Simians, Cyborgs and Women: The Re-invention of Nature*, London: Free Association Books.
 * –––, 1997, *Modest Witness @ Second Millennium. FemaleMan Meets Oncomouse: Feminism and Technoscience*, New York and London: Routledge.
@@ -292,71 +292,71 @@ Alcoff 引起了对特定身体特征在我们体验自己的身体和他人身�
 * –––, 2008, “Otherworldly Conversations, Terran Topics, Local terms”, in Alaimo and Hekman 2008: 157–187.
 * Heinämaa, Sara, 2003, *Toward a Phenomenology of Sexual Difference*, New York and Oxford: Rowman and Littlefield.
 * Heyes, Cressida and Meredith Jones (eds), 2009, *Cosmetic Surgery, A Feminist Primer*, Ashgate: Farnham.
-* Hines, Sally, 2010, “Sexing Gender; Gendering Sex: Towards an Intersectional Analysis of Transgender”, in *Theorizing Intersectionality and Sexuality*, Yvette Taylor, Sally Hines, and Mark E. Casey (eds.), London: Palgrave Macmillan UK, 140–162. doi:10.1057/9780230304093_8
+* Hines, Sally, 2010, “Sexing Gender; Gendering Sex: Towards an Intersectional Analysis of Transgender”, in *Theorizing Intersectionality and Sexuality*, Yvette Taylor, Sally Hines, and Mark E. Casey (eds.), London: Palgrave Macmillan UK, 140–162. doi: 10.1057/9780230304093_8
 * Hill Collins, Patricia and Sirma Bilge, 2016, *Intersectionality*, Cambridge: Polity
 * hooks, bell, 1990, *Yearning: Race, Gender and Cultural Politics*, Boston, MA: South End Press.
 * Inahara, Minae, 2009, *Abject Love: Undoing the Boundaries of Physical Disability*, Saarbrucken: VDM Verlag.
-* –––, 2012, “The Voice of Pain: The Semiotic and Embodied Subjectivity”, in Gonzalez-Arnal, Jagger, and Lennon 2012: 180–195. doi:10.1057/9781137283696_11
+* –––, 2012, “The Voice of Pain: The Semiotic and Embodied Subjectivity”, in Gonzalez-Arnal, Jagger, and Lennon 2012: 180–195. doi: 10.1057/9781137283696_11
 * Irigaray, Luce, 1975 [1985], *Speculum de l’autre femme*, Paris: Minuit. Translated as *Speculum of the Other Woman*, Gillian C. Gill (trans.), Ithaca, NY: Cornell University Press, 1985.
 * –––, 1977 [1985/1997], *Ce sexe qui n'en est pas un*, Paris: Éditions de Minuit. Translated as *This Sex Which is Not One*, Catherine Porter (trans.), with Carolyn Burke, Ithaca, NY: Cornell University Press; reprinted in Conboy, Medina and Stanboy 1997: ch. 14.***check*
-* –––, 1993. *An Ethics of Sexual Difference*, Ithaca: Cornell University Press.
-* Jagger, Gill, 2015, “The New Materialism and Sexual Difference”, *Signs: Journal of Women in Culture and Society*, 40(2): 321–342. doi:10.1086/678190
-* Jordan, Jane, 2001, *Josephine Butler*, London: John Murray.
-* Koyama, Emi, 2006, “Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate”, in *The Transgender Studies Reader*, Susan Stryker and Stephen Whittle (eds), London: Routledge
-* Kruks, Sonia, 2010, “Simone de Beauvoir: Engaging Discrepant Materialisms”, in *New Materialisms: Ontology, Agency, and Politics*, Diana Coole and Samantha Frost (eds.), Durham, NC: Duke University Press, 258–280. doi:10.1215/9780822392996-012
-* Lacan, Jacques, 1966. *Ecrits*, Paris: Seuil.
-* Lane, Riki, 2009, “Trans as Bodily Becoming: Rethinking the Biological as Diversity, Not Dichotomy”, *Hypatia*, 24(3): 136–157. doi:10.1111/j.1527-2001.2009.01049.x
-* Lennon, Kathleen, 2015, *Imagination and the Imaginary*, London: Routledge.
-* Lennon, Kathleen and Rachel Alsop, 2019, *Gender Theory in Troubled Times*, Cambridge: Polity.
-* Lloyd, Genevieve, 1998, “Spinoza and the Education of the Imaginary”, in *Philosophers on Education: New Historical Perspectives*, Amélie Oksenberg Rorty (ed.), New York: Routledge, ch. 12.
-* Lorde, Audre, 1984, *Sister Outsider: Essays and Speeches*, Freedom, CA: The Crossing Press.
+* –––, 1993. * An Ethics of Sexual Difference*, Ithaca: Cornell University Press.
+* Jagger, Gill, 2015, “The New Materialism and Sexual Difference”, * Signs: Journal of Women in Culture and Society*, 40(2): 321–342. doi: 10.1086/678190
+* Jordan, Jane, 2001, * Josephine Butler*, London: John Murray.
+* Koyama, Emi, 2006, “Whose Feminism is it Anyway? The Unspoken Racism of the Trans Inclusion Debate”, in * The Transgender Studies Reader*, Susan Stryker and Stephen Whittle (eds), London: Routledge
+* Kruks, Sonia, 2010, “Simone de Beauvoir: Engaging Discrepant Materialisms”, in * New Materialisms: Ontology, Agency, and Politics*, Diana Coole and Samantha Frost (eds.), Durham, NC: Duke University Press, 258–280. doi: 10.1215/9780822392996-012
+* Lacan, Jacques, 1966. * Ecrits*, Paris: Seuil.
+* Lane, Riki, 2009, “Trans as Bodily Becoming: Rethinking the Biological as Diversity, Not Dichotomy”, * Hypatia*, 24(3): 136–157. doi: 10.1111/j.1527-2001.2009.01049.x
+* Lennon, Kathleen, 2015, * Imagination and the Imaginary*, London: Routledge.
+* Lennon, Kathleen and Rachel Alsop, 2019, * Gender Theory in Troubled Times*, Cambridge: Polity.
+* Lloyd, Genevieve, 1998, “Spinoza and the Education of the Imaginary”, in * Philosophers on Education: New Historical Perspectives*, Amélie Oksenberg Rorty (ed.), New York: Routledge, ch. 12.
+* Lorde, Audre, 1984, * Sister Outsider: Essays and Speeches*, Freedom, CA: The Crossing Press.
 * Mairs, Nancy, 1990 [1997], “Carnal Acts”, in Conboy, Medina, and Stanbury, 1997: 296–308.
-* Martin, Emily, 1987, *The Woman in the Body: A Cultural Analysis of Reproduction*, Milton Keynes: Open University Press.
-* McClintock, Anne, 1995, *Imperial Leather: Race, Gender and Sexuality in the Colonial Contest*, New York: Routledge.
-* McDonald, Elizabeth (director) and Campbell, Luke (producer), 2008, *Pregnant Man*, Bend, Oregon: September Films.
-* McNay, Lois, 2000, *Gender and Agency*, Cambridge: Polity.
-* McRuer, Robert, 2006, *Crip Theory: Cultural Signs of Queerness and Disability*, New York: NYU Press.
-* Merck, Mandy and Stella Sandford (eds), 2010, *Further Adventures of “The Dialectic of Sex”: Critical Essays on Shulamith Firestone*, New York: Palgrave MacMillan. doi:10.1057/9780230109995
-* Merleau-Ponty, Maurice, 1945 [1962], *Phénoménologie de la perception*, Paris: Gallimard. Translated as *Phenomenology of Perception*, Colin Smith (trans.), London: Routledge and Kegan Paul, 1962.
-* Mill, John Stuart and Harriet Taylor, 1970, *Essays on Sex Equality*, Alice S. Rossi (ed.), Chicago and London: University of Chicago Press.
-* Moi, Toril, 1999, *What is a Woman? And Other Essays*, Oxford: Oxford University Press.
-* More, Kate and Stephen Whittle (eds), 1999, *Reclaiming Genders: Transsexual Grammars at the Fin de Siecle*, London and New York: Cassell.
-* Omolade, Barbara, 1983, “Hearts of Darkness”, in *Powers of Desire: The Politics of Sexuality*, Ann Snitow, Christine Stansell, and Sharon Thompson (eds), New York: Monthly Review Press, pp. 350–367.
-* Oudshoorn, Nelly, 1994, *Beyond the Natural Body: An Archaeology of Sex Hormones*, London: Routledge.
-* Poullain de la Barre, François, 1673 [1990], *De l’Égalité des Deux Sexes: Discours physique et moral où l’on voit l’importance de se défaire des préjugés*, Paris: Jean du Puis. Translated as *The Equality of the Sexes*, Desmond M. Clarke (trans.) , Manchester and New York: Manchester University Press, 1990.
-* Price, Janet and Margrit Shildrick (eds), 1999, *Feminist Theory and The Body: A Reader*, Edinburgh: Edinburgh University Press.
-* Prosser, Jay, 1998, *Second Skins: The Body Narratives of Transsexuality*, New York: Columbia University Press.
-* Rich, Adrienne, 1979, *Of Women Born*, *Motherhood as Experience and Institution*, London, Virago.
-* Rodriguez, Richard, 1992, *Days of Obligation: An Argument with My Mexican Father*, New York, NY: Viking.
-* Ruddick, Sara, 1989, *Maternal Thinking: Towards a Politics of Peace*, New York: Ballantine Books.
-* Salamon, Gayle, 2010, *Assuming a Body: Transgender and Rhetorics of Materiality*, New York: Columbia University Press.
-* Sandford, Stella, 2006, *How to Read Beauvoir*, London: Granta Books.
-* Sartre, Jean-Paul, 1943 [1956], *’Être et le néant : Essai d’ontologie phénoménologique*, Paris: Éditions Gallimard. Translated as *Being and Nothingness*, Hazel Barnes (trans.), New York: Pocket Books.
-* Schilder, Paul, 1935 [1950], *The Image and Appearance of the Human Body: Studies in the Constructive Energies of the Psyche*, New York: International Universities Press.
-* Shildrick, Margrit and Janet Price, 1998, *Vital Signs: Feminist Reconfigurations of the Bio/logical Body*, Edinburgh: Edinburgh University Press.
-* Spelman Elizabeth, 1988, *Inessential Woman: Problems of Exclusion in Feminist Thought*, Boston: Beacon Press.
-* Spivak, Gayatri Chakravorty, 1989, “In a Word: *Interview*” (with Ellen Rooney), *differences*, 1(2): 124–156.
+* Martin, Emily, 1987, * The Woman in the Body: A Cultural Analysis of Reproduction*, Milton Keynes: Open University Press.
+* McClintock, Anne, 1995, * Imperial Leather: Race, Gender and Sexuality in the Colonial Contest*, New York: Routledge.
+* McDonald, Elizabeth (director) and Campbell, Luke (producer), 2008, * Pregnant Man*, Bend, Oregon: September Films.
+* McNay, Lois, 2000, * Gender and Agency*, Cambridge: Polity.
+* McRuer, Robert, 2006, * Crip Theory: Cultural Signs of Queerness and Disability*, New York: NYU Press.
+* Merck, Mandy and Stella Sandford (eds), 2010, * Further Adventures of “The Dialectic of Sex”: Critical Essays on Shulamith Firestone*, New York: Palgrave MacMillan. doi: 10.1057/9780230109995
+* Merleau-Ponty, Maurice, 1945 [1962], * Phénoménologie de la perception *, Paris: Gallimard. Translated as * Phenomenology of Perception*, Colin Smith (trans.), London: Routledge and Kegan Paul, 1962.
+* Mill, John Stuart and Harriet Taylor, 1970, * Essays on Sex Equality*, Alice S. Rossi (ed.), Chicago and London: University of Chicago Press.
+* Moi, Toril, 1999, * What is a Woman? And Other Essays*, Oxford: Oxford University Press.
+* More, Kate and Stephen Whittle (eds), 1999, * Reclaiming Genders: Transsexual Grammars at the Fin de Siecle*, London and New York: Cassell.
+* Omolade, Barbara, 1983, “Hearts of Darkness”, in * Powers of Desire: The Politics of Sexuality*, Ann Snitow, Christine Stansell, and Sharon Thompson (eds), New York: Monthly Review Press, pp. 350–367.
+* Oudshoorn, Nelly, 1994, * Beyond the Natural Body: An Archaeology of Sex Hormones*, London: Routledge.
+* Poullain de la Barre, François, 1673 [1990], * De l’Égalité des Deux Sexes: Discours physique et moral où l’on voit l’importance de se défaire des préjugés *, Paris: Jean du Puis. Translated as * The Equality of the Sexes*, Desmond M. Clarke (trans.) , Manchester and New York: Manchester University Press, 1990.
+* Price, Janet and Margrit Shildrick (eds), 1999, * Feminist Theory and The Body: A Reader*, Edinburgh: Edinburgh University Press.
+* Prosser, Jay, 1998, * Second Skins: The Body Narratives of Transsexuality*, New York: Columbia University Press.
+* Rich, Adrienne, 1979, * Of Women Born *, * Motherhood as Experience and Institution*, London, Virago.
+* Rodriguez, Richard, 1992, * Days of Obligation: An Argument with My Mexican Father*, New York, NY: Viking.
+* Ruddick, Sara, 1989, * Maternal Thinking: Towards a Politics of Peace*, New York: Ballantine Books.
+* Salamon, Gayle, 2010, * Assuming a Body: Transgender and Rhetorics of Materiality*, New York: Columbia University Press.
+* Sandford, Stella, 2006, * How to Read Beauvoir*, London: Granta Books.
+* Sartre, Jean-Paul, 1943 [1956], *’Être et le néant : Essai d’ontologie phénoménologique *, Paris: Éditions Gallimard. Translated as * Being and Nothingness*, Hazel Barnes (trans.), New York: Pocket Books.
+* Schilder, Paul, 1935 [1950], * The Image and Appearance of the Human Body: Studies in the Constructive Energies of the Psyche*, New York: International Universities Press.
+* Shildrick, Margrit and Janet Price, 1998, * Vital Signs: Feminist Reconfigurations of the Bio/logical Body*, Edinburgh: Edinburgh University Press.
+* Spelman Elizabeth, 1988, * Inessential Woman: Problems of Exclusion in Feminist Thought*, Boston: Beacon Press.
+* Spivak, Gayatri Chakravorty, 1989, “In a Word: * Interview *” (with Ellen Rooney), * differences*, 1(2): 124–156.
 * Stanton, Elizabeth Cady, 1860 [1881], “Mrs. Stanton’s Address to Legislature in 1860”, Printed in Stanton, Anthony, and Gage 1881: 679–685. [[Stanton 1860 [1881] available online](https://archive.org/details/historyofwomansu01stanuoft/page/679)]
-* Stanton, Elizabeth Cady, Susan B. Anthony, and Matilda Joslyn Gage, 1881, *History of Woman*, volume 1, New York: Fowler & Wells, Publishers. [[Stanton, Anthony, and Gage 1881 available online](https://archive.org/details/historyofwomansu01stanuoft/page/n11)]
-* Stone, Alison, 2007, *An Introduction to Feminist Philosophy*, Cambridge: Polity
-* –––, 2011, *Feminism Psychoanalysis and Maternal Subjectivity*, London: Routledge. doi:10.4324/9780203182932
-* Stone, Sandy, 1991 , “The Empire Strikes Back: A Post-Transsexual Manifesto”, in *Body Guards: the Cultural Politics of Gender Ambiguity*, Julia Epstein and Kristina Straub (eds.), New York: Routledge.
-* Suleiman, Susan Rubin (ed.), 1986, *The Female Body in Western Culture*, Cambridge, MA: Harvard University Press.
-* Tate, Shirley Anne, 2009, *Black Beauty: Aesthetics, Stylisation, Politics*, Aldershot: Ashgate.
-* Thomas, Carol, 1999, *Female Forms: Experiencing and Understanding Disability*, Buckingham: Open University Press.
-* Toombs, S. Kay (ed.), 2001, *Handbook of Phenomenology and Medicine*, (Philosophy and Medicine 68), Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0536-4
+* Stanton, Elizabeth Cady, Susan B. Anthony, and Matilda Joslyn Gage, 1881, * History of Woman*, volume 1, New York: Fowler & Wells, Publishers. [[Stanton, Anthony, and Gage 1881 available online](https://archive.org/details/historyofwomansu01stanuoft/page/n11)]
+* Stone, Alison, 2007, * An Introduction to Feminist Philosophy*, Cambridge: Polity
+* –––, 2011, * Feminism Psychoanalysis and Maternal Subjectivity*, London: Routledge. doi: 10.4324/9780203182932
+* Stone, Sandy, 1991 , “The Empire Strikes Back: A Post-Transsexual Manifesto”, in * Body Guards: the Cultural Politics of Gender Ambiguity*, Julia Epstein and Kristina Straub (eds.), New York: Routledge.
+* Suleiman, Susan Rubin (ed.), 1986, * The Female Body in Western Culture*, Cambridge, MA: Harvard University Press.
+* Tate, Shirley Anne, 2009, * Black Beauty: Aesthetics, Stylisation, Politics*, Aldershot: Ashgate.
+* Thomas, Carol, 1999, * Female Forms: Experiencing and Understanding Disability*, Buckingham: Open University Press.
+* Toombs, S. Kay (ed.), 2001, * Handbook of Phenomenology and Medicine*, (Philosophy and Medicine 68), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-010-0536-4
 * Truth, Sojourner, 1851 [1881], “Speech at Women’s Rights Convention in Akron, Ohio”, quoted by Frances D. Gage in Stanton, Anthony, and Gage 1881: 116–117. [[Truth 1851 [1881] available online](https://archive.org/details/historyofwomansu01stanuoft/page/116)]
-* Weiss, Gail, 1999, *Body Images: Embodiment as Intercorporeality*, New York and London: Routledge
-* –––, 2015, “The Normal, the Natural, and the Normative: A Merleau-Pontian Legacy to Feminist Theory, Critical Race Theory, and Disability Studies”, *Continental Philosophy Review*, 48(1): 77–93. doi:10.1007/s11007-014-9316-y
-* Wendell, Susan, 1996, *The Rejected Body: Feminist Philosophical Reflections on the Disabled Body*, London: Routledge.
-* Whitford, Margaret, 1991, *Luce Irigaray: Philosophy in the Feminine*, London and New York: Routledge.
-* Widdows, Heather, 2018, *Perfect Me: Beauty as an Ethical Ideal*, Princeton: Princeton University Press.
-* Wollstonecraft, Mary, 1792 [1988], *A Vindication of the Rights of Woman*, in *The Feminist Papers: From Adams to Beauvoir*, Alice S. Rossi (ed.), Boston: North Eastern University Press, pp. 40–85.
-* Young, Iris Marion, 1980 [2005], “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality” *Human Studies* 3(2): 137–156. Reprinted in Young 2005b: 27–45.
-* –––, 1984 [2005], “Pregnant Embodiment: Subjectivity and Alienation”, *Journal of Medicine and Philosophy*, 9(1): 45–62. Reprinted in Young 2005b: 46–61. doi:10.1093/jmp/9.1.45
-* –––, 1992 [2005], “Breasted Experience: The Look and the Feeling”, in *The Body in Medical Thought and Practice*, Drew Leder (ed.), (Philosophy and Medicine 43), Dordrecht: Springer Netherlands, 215–230. Reprinted in an expanded form in Young 2005b: 75–96. doi:10.1007/978-94-015-7924-7_13
+* Weiss, Gail, 1999, * Body Images: Embodiment as Intercorporeality*, New York and London: Routledge
+* –––, 2015, “The Normal, the Natural, and the Normative: A Merleau-Pontian Legacy to Feminist Theory, Critical Race Theory, and Disability Studies”, * Continental Philosophy Review*, 48(1): 77–93. doi: 10.1007/s11007-014-9316-y
+* Wendell, Susan, 1996, * The Rejected Body: Feminist Philosophical Reflections on the Disabled Body*, London: Routledge.
+* Whitford, Margaret, 1991, * Luce Irigaray: Philosophy in the Feminine*, London and New York: Routledge.
+* Widdows, Heather, 2018, * Perfect Me: Beauty as an Ethical Ideal*, Princeton: Princeton University Press.
+* Wollstonecraft, Mary, 1792 [1988], * A Vindication of the Rights of Woman *, in * The Feminist Papers: From Adams to Beauvoir*, Alice S. Rossi (ed.), Boston: North Eastern University Press, pp. 40–85.
+* Young, Iris Marion, 1980 [2005], “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality” * Human Studies* 3(2): 137–156. Reprinted in Young 2005b: 27–45.
+* –––, 1984 [2005], “Pregnant Embodiment: Subjectivity and Alienation”, * Journal of Medicine and Philosophy*, 9(1): 45–62. Reprinted in Young 2005b: 46–61. doi: 10.1093/jmp/9.1.45
+* –––, 1992 [2005], “Breasted Experience: The Look and the Feeling”, in * The Body in Medical Thought and Practice*, Drew Leder (ed.), (Philosophy and Medicine 43), Dordrecht: Springer Netherlands, 215–230. Reprinted in an expanded form in Young 2005b: 75–96. doi: 10.1007/978-94-015-7924-7_13
 * –––, 2005a, “Menstrual Meditations”, in Young 2005b: 97–122.
-* –––, 2005b, *On Female Body Experience: “Throwing Like a Girl” and Other Essays*, New York: Oxford University Press. doi:10.1093/0195161920.001.0001
+* –––, 2005b, * On Female Body Experience: “Throwing Like a Girl” and Other Essays*, New York: Oxford University Press. doi: 10.1093/0195161920.001.0001
 
 ## Academic Tools
 

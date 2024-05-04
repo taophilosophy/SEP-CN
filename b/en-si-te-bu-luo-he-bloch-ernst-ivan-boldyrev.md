@@ -1,16 +1,16 @@
-# 恩斯特·布洛赫 Bloch, Ernst (Ivan Boldyrev)
+# 恩斯特 · 布洛赫 Bloch, Ernst (Ivan Boldyrev)
 
 *首次发布于 2023 年 1 月 25 日*
 
-恩斯特·布洛赫（1885-1977）是一位德国哲学家和文化批评家，他主要因为重新激发对乌托邦的兴趣以及在解放的激进哲学、非教条宗教思想、大众文化分析和新的美学形式（尤其是表现主义）之间进行调和而受到赞誉。他的著作，尤其是《希望原则》（1954-1959），对一种特定形式的批判理论做出了贡献，并以其独特的散文风格而在学术界和非学术界都颇受欢迎。布洛赫是魏玛德国知识分子中的重要声音，然后在第二次世界大战后的短暂时期内成为东德的主要哲学家。然而，他很快成为马克思主义意识形态的“偏离者”。除了东方集团，他对乌托邦研究、神学和上个世纪的美学产生了深远影响，但也对政治哲学和批判理论产生了普遍影响。布洛赫的左倾取向和对希望的乐观描述使他成为存在主义思想的批评者，尽管在基因谱和风格上有许多亲缘关系。布洛赫以黑格尔和马克思为基础，但也借鉴了许多其他知识传统，试图为不确定和未完成的世界制定本体论和政治哲学。这体现在他的“乌托邦诠释学”中，试图揭示自然或文化现象中的未完成性和“尚未”；在他对人类存在的直接性的敏感性（部分受到现象学运动的启发）和对各种形式的大众文化的敏感性；以及在他试图将马克思主义重新阐释为人类化自然/自然化人类的乌托邦项目时。乌托邦非同一性的经验被提升到本体论原则的层面：“S 尚未 P”，而人类对解放的追求则根植于存在本身的未实现状态。
+恩斯特 · 布洛赫（1885-1977）是一位德国哲学家和文化批评家，他主要因为重新激发对乌托邦的兴趣以及在解放的激进哲学、非教条宗教思想、大众文化分析和新的美学形式（尤其是表现主义）之间进行调和而受到赞誉。他的著作，尤其是《希望原则》（1954-1959），对一种特定形式的批判理论做出了贡献，并以其独特的散文风格而在学术界和非学术界都颇受欢迎。布洛赫是魏玛德国知识分子中的重要声音，然后在第二次世界大战后的短暂时期内成为东德的主要哲学家。然而，他很快成为马克思主义意识形态的“偏离者”。除了东方集团，他对乌托邦研究、神学和上个世纪的美学产生了深远影响，但也对政治哲学和批判理论产生了普遍影响。布洛赫的左倾取向和对希望的乐观描述使他成为存在主义思想的批评者，尽管在基因谱和风格上有许多亲缘关系。布洛赫以黑格尔和马克思为基础，但也借鉴了许多其他知识传统，试图为不确定和未完成的世界制定本体论和政治哲学。这体现在他的“乌托邦诠释学”中，试图揭示自然或文化现象中的未完成性和“尚未”；在他对人类存在的直接性的敏感性（部分受到现象学运动的启发）和对各种形式的大众文化的敏感性；以及在他试图将马克思主义重新阐释为人类化自然/自然化人类的乌托邦项目时。乌托邦非同一性的经验被提升到本体论原则的层面：“S 尚未 P”，而人类对解放的追求则根植于存在本身的未实现状态。
 
 ***
 
 ## 1. 简介
 
-恩斯特·布洛赫（Ernst Bloch）于 1885 年 7 月 8 日出生在莱茵河畔路德维希港，他的家庭是铁路员工家庭，几乎完全与学术生活无缘。但这并没有影响他对哲学的早期兴趣，他在邻近的曼海姆市的图书馆和剧院的经历以及与当时重要思想家（恩斯特·马赫、泰奥多尔·利普斯、埃德华·冯·哈特曼和威廉·温德尔班德）的通信支持和加强了他对哲学的兴趣。1905 年至 1908 年，布洛赫在慕尼黑和维尔茨堡学习哲学（同时也学习物理学和音乐理论），最终以博士论文答辩通过，后来以《关于海因里希·里克特和现代认识论问题的批判性思考》（Bloch 1909）为题发表。然后他搬到柏林，在 1908 年至 1911 年期间参加了围绕乔治·西梅尔的私人学术讨论会，并在 1912 年至 1914 年期间搬到海德堡，那里的马克斯·韦伯圈子成为布洛赫的主要吸引力。在这些年里，与乔治·卢卡奇的亲密友谊在布洛赫的思想发展中起到了重要作用，卢卡奇在回忆与布洛赫的邂逅时也承认了这一点。
+恩斯特 · 布洛赫（Ernst Bloch）于 1885 年 7 月 8 日出生在莱茵河畔路德维希港，他的家庭是铁路员工家庭，几乎完全与学术生活无缘。但这并没有影响他对哲学的早期兴趣，他在邻近的曼海姆市的图书馆和剧院的经历以及与当时重要思想家（恩斯特 · 马赫、泰奥多尔 · 利普斯、埃德华 · 冯 · 哈特曼和威廉 · 温德尔班德）的通信支持和加强了他对哲学的兴趣。1905 年至 1908 年，布洛赫在慕尼黑和维尔茨堡学习哲学（同时也学习物理学和音乐理论），最终以博士论文答辩通过，后来以《关于海因里希 · 里克特和现代认识论问题的批判性思考》（Bloch 1909）为题发表。然后他搬到柏林，在 1908 年至 1911 年期间参加了围绕乔治 · 西梅尔的私人学术讨论会，并在 1912 年至 1914 年期间搬到海德堡，那里的马克斯 · 韦伯圈子成为布洛赫的主要吸引力。在这些年里，与乔治 · 卢卡奇的亲密友谊在布洛赫的思想发展中起到了重要作用，卢卡奇在回忆与布洛赫的邂逅时也承认了这一点。
 
-第一次世界大战期间，布洛赫在瑞士流亡：他从一开始就坚决反对战争，与当时大多数德国知识分子的立场截然不同。在瑞士，他致力于撰写他的第一本重要著作《乌托邦的精神》（1918 \[2000]）。这本书的普遍唯心主义情绪在很大程度上归功于他的第一任妻子埃尔泽·布洛赫-冯·斯特里茨基，她是一位虔诚的基督徒。这本书包含了布洛赫对音乐哲学的最广泛研究，作为一个相对独立的部分。另一个项目是一本关于形式逻辑的书（Bloch 1985c: 253），这本书仅作为手稿存在，并在 20 世纪 30 年代遗失（Zudeick 1985）。与此同时，布洛赫还积极参与政治活动，成为一个公开表达政治观点的知识分子（Bloch 1923 \[1964]; 1985a），批评军国主义的德国和威权主义的苏联（Franz 1985）。1919 年，他回到柏林，在那里度过了大部分时间，直到 1933 年，期间长时间居住在慕尼黑、巴黎以及意大利和法国的不同地方。在这些年里，作为一个犹太人和一个非正统思想家，布洛赫在德国没有学术生涯的前景，主要以自由散文家的身份工作（Bloch 2007）。这一时期的重要著作包括一部历史和哲学背景下的传记《托马斯·门策尔：革命的神学家》（1921 \[GA 2]）；1923 年版的《乌托邦的精神》（最终版本于 1964 年出版，参见 Bloch 1918 \[2000]，\[GA 3]）；《痕迹》（1930 \[2006]，\[GA 1]），这是一本包含了散文、轶事和短篇小说的集子，大部分作品可以追溯到 1910 年代；以及关于政治和意识形态的书籍《我们时代的遗产》（1935 \[1991]，\[GA 4]）。在 20 世纪 30 年代，布洛赫还在撰写一部关于唯物主义理论和历史的长篇手稿（《物质的理论与实践》），其中的部分内容最终于 1972 年出版为《唯物主义问题：其历史与实质》（GA 7），并于 2000 年出版为《物质的逻辑》（Bloch 2000a）。
+第一次世界大战期间，布洛赫在瑞士流亡：他从一开始就坚决反对战争，与当时大多数德国知识分子的立场截然不同。在瑞士，他致力于撰写他的第一本重要著作《乌托邦的精神》（1918 \[2000]）。这本书的普遍唯心主义情绪在很大程度上归功于他的第一任妻子埃尔泽 · 布洛赫-冯 · 斯特里茨基，她是一位虔诚的基督徒。这本书包含了布洛赫对音乐哲学的最广泛研究，作为一个相对独立的部分。另一个项目是一本关于形式逻辑的书（Bloch 1985c: 253），这本书仅作为手稿存在，并在 20 世纪 30 年代遗失（Zudeick 1985）。与此同时，布洛赫还积极参与政治活动，成为一个公开表达政治观点的知识分子（Bloch 1923 \[1964]; 1985a），批评军国主义的德国和威权主义的苏联（Franz 1985）。1919 年，他回到柏林，在那里度过了大部分时间，直到 1933 年，期间长时间居住在慕尼黑、巴黎以及意大利和法国的不同地方。在这些年里，作为一个犹太人和一个非正统思想家，布洛赫在德国没有学术生涯的前景，主要以自由散文家的身份工作（Bloch 2007）。这一时期的重要著作包括一部历史和哲学背景下的传记《托马斯 · 门策尔：革命的神学家》（1921 \[GA 2]）；1923 年版的《乌托邦的精神》（最终版本于 1964 年出版，参见 Bloch 1918 \[2000]，\[GA 3]）；《痕迹》（1930 \[2006]，\[GA 1]），这是一本包含了散文、轶事和短篇小说的集子，大部分作品可以追溯到 1910 年代；以及关于政治和意识形态的书籍《我们时代的遗产》（1935 \[1991]，\[GA 4]）。在 20 世纪 30 年代，布洛赫还在撰写一部关于唯物主义理论和历史的长篇手稿（《物质的理论与实践》），其中的部分内容最终于 1972 年出版为《唯物主义问题：其历史与实质》（GA 7），并于 2000 年出版为《物质的逻辑》（Bloch 2000a）。
 
 1933 年，布洛赫不得不逃往瑞士，并开始在欧洲各地流浪（维也纳、巴黎、布拉格），其中一个原因是他的妻子卡罗拉是德国和奥地利共产党的秘密特工。那时，他成为了一个坚定的马克思主义者（布洛赫 1972b），甚至支持 1937 年至 1938 年的斯大林主义恐慌中的秀审。然而，1938 年他并没有像卢卡奇那样移民苏联，而是移民到了美国。在那里，他生活在纽约、新罕布什尔州的马尔伯勒和 1942 年至 1949 年的马萨诸塞州剑桥，专注于写作，并与美国的知识界（他几乎不会说英语）和同胞移民（他与阿多诺和霍克海默的社会研究所的关系紧张）隔离开来。1949 年，布洛赫与家人搬到了新成立的德意志民主共和国，在莱比锡大学教授哲学（布洛赫 1985b）。他的巨著《希望原理》主要是在美国写成的，于 1954 年至 1959 年在东德和西德出版（GA 5）。
 
@@ -26,7 +26,7 @@
 
 布洛赫将世界构想为一个乌托邦整体。在这种本体论构想中，逻辑也发挥着它的作用——不是作为知识的起点，因为布洛赫坚持以惊奇和惊叹作为其起点（见下文），而是在其启发功能中形式化和结构化需要把握复杂变化现实的范畴（布洛赫 2000a）。布洛赫的“推测唯物主义”将物质理解为“真实的可能性”（布洛赫 1954-59 \[1986a: 235f.]），即_natura naturans_，它不需要外部的形式决定，而是在自身内部承载着未来。因此，物质被历史化。“推测”意味着物质，作为根本新颖性的源泉，是与世界的整体相关的概念，而不仅仅是与其单一方面相关（Moir 2019b）。正是这种本体论参照定义了布洛赫的关键洞见：乌托邦不是一个“纯粹”的幻想，因为它是整个世界在做梦，或者“冒险超越”。
 
-然而，早期的布洛赫试图通过提及主体性（他在《乌托邦的精神》中称之为“灵魂”，或者在《托马斯·门策》中称之为“主体的革命魔力”）和那些应该实现世界给予自己的乌托邦承诺的人群的共同体来把握未来的这个维度。在他的第一本书中，布洛赫使用了一种灵性主义、预言性、表演性的语言，并且大量借鉴了神秘主义（特别是诺斯底主义）传统的丰富内容，试图将它们与马克思主义唯物主义综合起来（Christen 1979）。对主观预期的关注使阿多诺评论说，布洛赫的关键论点类似于本体论证明：乌托邦预期的存在和持久性，对超越现状的渴望，支持了世界怀抱未实现的可能性的观点（布洛赫 1988: 16）。
+然而，早期的布洛赫试图通过提及主体性（他在《乌托邦的精神》中称之为“灵魂”，或者在《托马斯 · 门策》中称之为“主体的革命魔力”）和那些应该实现世界给予自己的乌托邦承诺的人群的共同体来把握未来的这个维度。在他的第一本书中，布洛赫使用了一种灵性主义、预言性、表演性的语言，并且大量借鉴了神秘主义（特别是诺斯底主义）传统的丰富内容，试图将它们与马克思主义唯物主义综合起来（Christen 1979）。对主观预期的关注使阿多诺评论说，布洛赫的关键论点类似于本体论证明：乌托邦预期的存在和持久性，对超越现状的渴望，支持了世界怀抱未实现的可能性的观点（布洛赫 1988: 16）。
 
 布洛赫哲学的重要起点是以各种形式存在的非同一性和脆弱性的主观体验，这些体验被称为“生活时刻的黑暗”或“无法构思问题的形状”（指在没有依赖于预先给定解决方案的情况下，无法阐述终极形而上学问题的不可能性）（Czajka 2006）。布洛赫强调我们存在的核心不可用性和相关的缺失感。人类意识永远无法完全体验自身，也无法立即理解其瞬时状态的完整意义（1969 \[GA 10: 74, 145f.]）。未来的黑暗作为这种体验的客观对应物。
 
@@ -34,7 +34,7 @@
 
 后来，布洛赫提出了“前沿”概念，将其视为常常需要我们抓住新机遇的最实际时刻（Siebers 2012）。对于布洛赫关于时间性的理念来说，实现的时刻概念也很重要，因为这是许多乌托邦投射所期待的时刻。布洛赫早期思想的强度在于对乌托邦（主要是伦理性质，如善的自明性）完全即刻存在的坚持与无法完全把握、表达和适应之间的矛盾。
 
-在后期的作品中，布洛赫在整合他的哲学直觉方面更加系统化，而在展示世界乌托邦目标的启示方面则不那么激进。例如，他试图对“可能性”的不同层次进行编码（布洛赫 1954–59 \[1986a: Ch. 18]）。但即使在稍后的《图宾根哲学导论》中，他反思的起点也是人类存在的驱动力（饥饿）。然后，布洛赫以更抽象的形式描述了这个实现过程，即从“那”（*Daß*）作为一种主动潜力到其产物“什么”（*Was*）的过程。客观世界的结构通过“主观因素”来实现自身。正是这种批判性的主体性帮助逃脱各种现实结构的再物化，并允许以其过程性复杂性来研究它（布洛赫 2000a），而这种主观干预在这个开放性过程中是必要的，因为其结果是不确定的，取决于这种人类实践（Gekle 1986）。布洛赫设想了主观和客观的相互辩证调和（“人的自然化和自然的人性化”，参见 Raulet 1982），并坚持认为当人类实践意识在其中产生时，物质在更高层次上运动（布洛赫 1954–59 \[1986a: 261]）。正如布洛赫所说，人类是对世界提出的问题的回答，而这个问题本身在其存在的全部强度上被理解。意识和自由的出现（Moir 2019b）本身反映了作为开放过程的物质内在倾向，它的自主活动，这是布洛赫从“伪经”唯物主义传统中乐意继承的——“左派”亚里士多德主义（布洛赫 1952 \[2018]）和文艺复兴时期的思想家，尤其是朱尔达诺·布鲁诺，还有谢林（Habermas 1969/1970）。布洛赫阅读这一传统时，世界的创造不是完全外在的行为，而是“上帝物质的自我运动、自我施肥”（布洛赫 1954–59 \[1986a: 236]）。对于布洛赫来说，乌托邦过程也是“实现元素”的实现（参见布洛赫 1954–59 \[1986a: ch. 20]；GA 15, ch. 49），是主动主体性的实现。在布洛赫的本体论（也可以理解为人类学）中，自然和人类的救赎是相互预设的。
+在后期的作品中，布洛赫在整合他的哲学直觉方面更加系统化，而在展示世界乌托邦目标的启示方面则不那么激进。例如，他试图对“可能性”的不同层次进行编码（布洛赫 1954–59 \[1986a: Ch. 18]）。但即使在稍后的《图宾根哲学导论》中，他反思的起点也是人类存在的驱动力（饥饿）。然后，布洛赫以更抽象的形式描述了这个实现过程，即从“那”（*Daß*）作为一种主动潜力到其产物“什么”（*Was*）的过程。客观世界的结构通过“主观因素”来实现自身。正是这种批判性的主体性帮助逃脱各种现实结构的再物化，并允许以其过程性复杂性来研究它（布洛赫 2000a），而这种主观干预在这个开放性过程中是必要的，因为其结果是不确定的，取决于这种人类实践（Gekle 1986）。布洛赫设想了主观和客观的相互辩证调和（“人的自然化和自然的人性化”，参见 Raulet 1982），并坚持认为当人类实践意识在其中产生时，物质在更高层次上运动（布洛赫 1954–59 \[1986a: 261]）。正如布洛赫所说，人类是对世界提出的问题的回答，而这个问题本身在其存在的全部强度上被理解。意识和自由的出现（Moir 2019b）本身反映了作为开放过程的物质内在倾向，它的自主活动，这是布洛赫从“伪经”唯物主义传统中乐意继承的——“左派”亚里士多德主义（布洛赫 1952 \[2018]）和文艺复兴时期的思想家，尤其是朱尔达诺 · 布鲁诺，还有谢林（Habermas 1969/1970）。布洛赫阅读这一传统时，世界的创造不是完全外在的行为，而是“上帝物质的自我运动、自我施肥”（布洛赫 1954–59 \[1986a: 236]）。对于布洛赫来说，乌托邦过程也是“实现元素”的实现（参见布洛赫 1954–59 \[1986a: ch. 20]；GA 15, ch. 49），是主动主体性的实现。在布洛赫的本体论（也可以理解为人类学）中，自然和人类的救赎是相互预设的。
 
 在追随各种哲学思潮的过程中，布洛赫因此发展出了对自然的定性视野，他将自然看作是朝着可能性（或潜在性）的实现而创造性地驱动着的力量，这种力量可以用自然-主体（Natursubjekt）的概念来理解，这也可能被指责为拟人主义（哈贝马斯 1969/1970）。自然-主体本身是一种内在的冲动，一种“内在机构”（Moir 2013: 128f.），存在于物质世界之中（布洛赫 1954-59 \[1986a: 673]）。用美学术语来说，布洛赫提醒我们，风景——人类的创造——是自然的潜力。自然历史中更好结果的机会不仅依赖于人类的活动，而且是自然本身的潜力，正因为这种活动。
 
@@ -48,7 +48,7 @@
 
 布洛赫的哲学受到许多先前的传统的影响：他从亚里士多德和“左亚里士多德主义”那里继承了对物质的描述；他对倾向和驱动力的概念受到莱布尼兹关于“欲望”的启发，这一概念表示未来存在于现在的方式；布洛赫对内在客观性的坚持源于斯宾诺莎；鉴于世界的根本不透明性，以及对非经验、非决定性的规范性现实的赞赏，布洛赫将实践理性的主导地位与康德联系在一起；他对现实的批判性视角，认为现实由超越自我的社会实体和实践组成，受到黑格尔和马克思的启发；他对原始强度和偶然性的关注，对逻辑或理性之前和之外的存在的信仰，作为不可约的残余，遵循了谢林的思想；他的过程思维、与非理性或狄奥尼修斯的接触的紧迫性、对语言表达能力的信任以及布洛赫的乐观主义反映了他早期对尼采的着迷；他对日常经验和平凡文化形式的关注，以及对“个体法则”的重要性的重视，受到西美尔的影响。\[3]
 
-黑格尔的观点对布洛赫的认识论也至关重要。认识的过程本质上被重新考虑为自我理解或自我表达的过程，是对开放世界的（Cunico 2000）理解。认识论的范畴因此成为存在的形式，但布洛赫处理的是物质而不是精神。由于这个物质世界是未完成的，他的认识论也意味着对世界的积极参与，一系列相互参照的概念网络（Holz 1975），没有稳定的定义，而是作为辩证过程的结果。布洛赫试图通过辩证法来解决把握根本新颖性的困难，同时坚持它尚未被揭示。布洛赫经常使用辩证法的中介形式，例如在《乌托邦的精神》中试图综合康德和黑格尔（Bloch 1918 \[2000: 185f.]），或者在《希望的原则》中设想自由的乌托邦（由[托马斯·莫尔](https://plato.stanford.edu/entries/thomas-more/)提出）和秩序的乌托邦（由[托马索·坎帕内拉](https://plato.stanford.edu/entries/campanella/)构想）（Bloch 1954-59 \[1986a: 528f.]）。但布洛赫最终希望超越黑格尔，因为他认为黑格尔缺乏真正的新颖性和开放性，并将存在经验简化为整体的运动（这也是布洛赫在接触到的最先进的黑格尔主义马克思主义作品，即卢卡奇的《历史与阶级意识》中所抱怨的）（Hudson 1982）。
+黑格尔的观点对布洛赫的认识论也至关重要。认识的过程本质上被重新考虑为自我理解或自我表达的过程，是对开放世界的（Cunico 2000）理解。认识论的范畴因此成为存在的形式，但布洛赫处理的是物质而不是精神。由于这个物质世界是未完成的，他的认识论也意味着对世界的积极参与，一系列相互参照的概念网络（Holz 1975），没有稳定的定义，而是作为辩证过程的结果。布洛赫试图通过辩证法来解决把握根本新颖性的困难，同时坚持它尚未被揭示。布洛赫经常使用辩证法的中介形式，例如在《乌托邦的精神》中试图综合康德和黑格尔（Bloch 1918 \[2000: 185f.]），或者在《希望的原则》中设想自由的乌托邦（由 [托马斯 · 莫尔](https://plato.stanford.edu/entries/thomas-more/) 提出）和秩序的乌托邦（由 [托马索 · 坎帕内拉](https://plato.stanford.edu/entries/campanella/) 构想）（Bloch 1954-59 \[1986a: 528f.]）。但布洛赫最终希望超越黑格尔，因为他认为黑格尔缺乏真正的新颖性和开放性，并将存在经验简化为整体的运动（这也是布洛赫在接触到的最先进的黑格尔主义马克思主义作品，即卢卡奇的《历史与阶级意识》中所抱怨的）（Hudson 1982）。
 
 布洛赫对存在经验的关注以及在他的美学论文中反思具体而丰富的事物性（例如《乌托邦的精神》中的一只旧水罐）与海德格尔存在着相似之处，以至于布洛赫有时甚至被称为左翼海德格尔。此外，布洛赫在 1930 年代的斯大林主义立场与海德格尔的政治倾向相似（Münster 1987；Zipes 2019）。事实上，布洛赫早在 1918 年就提出了存在的问题，并试图通过关注人类存在来回答这个问题（Riedel 1994），而海德格尔在他对时间性的分析中将未来置于优先位置（Levinas 1976）。但对于海德格尔来说，被投射的感觉和存在的恐惧（Angst）是与未来相关的中心情感，这显然与布洛赫对未来性的理念相对立。布洛赫的“家园”与海德格尔的不同，它是作为乌托邦运动的地平线而被期待的，而不是作为我们经验的先验基础（Habermas 1969/1970；Korstvedt 2010），而且它是需要主动促成而不是被动期待的。
 
@@ -80,19 +80,19 @@
 
 ### 3.3 历史理论与非同时性
 
-应用于社会和政治领域，布洛赫哲学的动态本体论视野特别关注时间性和非同一性：在“尚未”世界中，重要的是过去尚未实现的承诺（遗产），以及未来等待社会实现的可能性。布洛赫对历史的看法建立在其开放性过程和历史时间的多样性的基础上，这使得他与瓦尔特·本雅明非常接近。\[[5](https://plato.stanford.edu/entries/bloch/notes.html#note-5)]事实上，早在他的博士论文中，布洛赫就批评了线性历史进步模型（Mendes-Flohr 1983; Pelletier 2019）。
+应用于社会和政治领域，布洛赫哲学的动态本体论视野特别关注时间性和非同一性：在“尚未”世界中，重要的是过去尚未实现的承诺（遗产），以及未来等待社会实现的可能性。布洛赫对历史的看法建立在其开放性过程和历史时间的多样性的基础上，这使得他与瓦尔特 · 本雅明非常接近。\[[5](https://plato.stanford.edu/entries/bloch/notes.html#note-5)]事实上，早在他的博士论文中，布洛赫就批评了线性历史进步模型（Mendes-Flohr 1983; Pelletier 2019）。
 
-这种观点在《我们时代的遗产》一书中表现得最为明显，布洛赫在该书中发展了一种非同时性（或非同步性，*Ungleichzeitigkeit*）理论，声称在一个历史时期内可以存在各种时间性，并且过去的意识和存在仍然可以存在于现在（Rabinbach 1977; Dietschy 2012）。这一理论捕捉到了历史时间的多样性，并强调过去的不确定因素作为尚未实现可能性的承诺，这也是布洛赫在他关于托马斯·门策的书中典型地发展的观点。在那里，他发展了“实现”的概念，即“自我遭遇”或受影响的另一个名称，历史的概念和人物重新出现在舞台上，以实现革命的承诺。
+这种观点在《我们时代的遗产》一书中表现得最为明显，布洛赫在该书中发展了一种非同时性（或非同步性，*Ungleichzeitigkeit*）理论，声称在一个历史时期内可以存在各种时间性，并且过去的意识和存在仍然可以存在于现在（Rabinbach 1977; Dietschy 2012）。这一理论捕捉到了历史时间的多样性，并强调过去的不确定因素作为尚未实现可能性的承诺，这也是布洛赫在他关于托马斯 · 门策的书中典型地发展的观点。在那里，他发展了“实现”的概念，即“自我遭遇”或受影响的另一个名称，历史的概念和人物重新出现在舞台上，以实现革命的承诺。
 
 非同步的同步性与启蒙时代形成的线性发展历史观相对立。布洛赫的理念有助于对这种进步观念进行相对化。历史时间的异质性赋予了历史时间性的多样性，包括非西方社会。它与个体经验的根本非同一性相联系：个体永远不与自己同时存在。各种社会形态，如国家、地理区域、阶级或制度逻辑，都可以是非同时的，彼此之间也可以是非同时的。各种非同时的元素既可以阻碍解放工作，又可以在其所谓的失败之后帮助其复兴。非同时性是乌托邦社会愿景的适当概念，它充满了革命性的断裂。
 
 布洛赫在《我们时代的遗产》中发展的现代性理论旨在解释纳粹意识形态的成功，他通过展示如何将被压制的非同时性元素（国家或王国的观念）纳入其中来实现这一目标。在他对卢卡奇的《历史与阶级意识》的评论中，布洛赫建议在马克思主义辩证法中，从整体的概念转向领域的概念（GA 10），实际上试图将社会分析重新思考为异质时间性的聚合体，然而，这些时间性相互作用、相互对立并相互构成。有时，他似乎希望在真实存在的愿景中克服非同时性，这应该是乌托邦的，并且在未来通过辩证方式进行调和：
 
-> \[C]ontemporaneity is not such if it is not also super-contemporaneous; it is not the capitalist of the uncontrolled, changeable Today who stands at par with the real present but only the knower and controller of the Tomorrow in the Today together, in short, the active Marxist. (Bloch 1935 \[1991: 195f.])
+> \[C] ontemporaneity is not such if it is not also super-contemporaneous; it is not the capitalist of the uncontrolled, changeable Today who stands at par with the real present but only the knower and controller of the Tomorrow in the Today together, in short, the active Marxist. (Bloch 1935 \[1991: 195f.])
 
 布洛赫对超时代理想的理解是在当下拥抱未来的强烈力量。
 
-在与新保守主义的斗争中，非同时代的社会群体——城市资产阶级、白领工人、农民、青年——应该发挥特定的作用，这在历史唯物主义的教科书版本中常常被忽视，这些版本只关注资本家和工业工人之间的冲突。布洛赫批评了历史唯物主义中狭隘的经济主义版本，这一点在他关于门策尔的书中已经有所体现，他借鉴了马克斯·韦伯的观点。在《我们时代的遗产》一书中，他认为德国法西斯主义者可以利用这些社会阶层中的反资本主义乌托邦倾向，并将其重新用于保守派的政治宣传中，从而调动非同时代的能量，这应该由更具包容性的左派重新获得。\[[7](https://plato.stanford.edu/entries/bloch/notes.html#note-7)]
+在与新保守主义的斗争中，非同时代的社会群体——城市资产阶级、白领工人、农民、青年——应该发挥特定的作用，这在历史唯物主义的教科书版本中常常被忽视，这些版本只关注资本家和工业工人之间的冲突。布洛赫批评了历史唯物主义中狭隘的经济主义版本，这一点在他关于门策尔的书中已经有所体现，他借鉴了马克斯 · 韦伯的观点。在《我们时代的遗产》一书中，他认为德国法西斯主义者可以利用这些社会阶层中的反资本主义乌托邦倾向，并将其重新用于保守派的政治宣传中，从而调动非同时代的能量，这应该由更具包容性的左派重新获得。\[[7](https://plato.stanford.edu/entries/bloch/notes.html#note-7)]
 
 布洛赫因此批评了马克思主义中过于实证主义的倾向（列宁称之为“愚蠢的唯物主义”，详见 Levitas 2012），这种倾向往往在关键时刻对各种“非理性”因素置之不理，而这正是与它们进行接触的关键时刻。在资本主义社会中也存在同样的情况，这些因素往往被资本主义的“同时性”所压制。布洛赫通过吸纳它们，遵循基本的辩证策略，与其他异质于资本主义或马克思主义理性的事物形成新的综合。过去的承诺和主张既作为解释因素，也作为对与布洛赫认为至关重要的“遗产”进行新的实践参与的规范性正当化。
 
@@ -138,7 +138,7 @@
 
 在侦探小说中，小细节至关重要，以及生活时刻的黑暗（GA 9: 247, 260, 参见布洛赫 1965 \[1998]），犯罪的根本不明确性推动着调查。对于布洛赫来说，关键是这种不明确性不仅仅是需要在认识上阐明的东西。它本身仍然不清楚，就像俄狄浦斯的故事一样（布洛赫也承认精神分析在怀疑的解释学中的作用）。整个世界因此成为对其自身模糊起源的调查，而侦探解释学（包括本雅明所实践的解释学）成为主要的认识论策略。
 
-童话对于布洛赫来说是一种代表对于窒息的静态神话力量的胜利的文体，它的想象力是解放性的，并且指向未来的幸福（GA 9: 131），它的普遍乐观和希望的态度被认为是理性启蒙的自治（Weissberg 1992）。“流行文学”（尤其是卡尔·迈）对于布洛赫来说非常重要，因为它具有民主倾向、基层性质和对新事物的真诚愿望，它梦想着革命（Edwards 2013）。浪漫主义也被重新运用，以反对资产阶级的激情。根据布洛赫的政治哲学，保留德国保守文化的元素——从海贝尔（Siebers 2011）到瓦格纳（Korstvedt 2010）。
+童话对于布洛赫来说是一种代表对于窒息的静态神话力量的胜利的文体，它的想象力是解放性的，并且指向未来的幸福（GA 9: 131），它的普遍乐观和希望的态度被认为是理性启蒙的自治（Weissberg 1992）。“流行文学”（尤其是卡尔 · 迈）对于布洛赫来说非常重要，因为它具有民主倾向、基层性质和对新事物的真诚愿望，它梦想着革命（Edwards 2013）。浪漫主义也被重新运用，以反对资产阶级的激情。根据布洛赫的政治哲学，保留德国保守文化的元素——从海贝尔（Siebers 2011）到瓦格纳（Korstvedt 2010）。
 
 布洛赫的思想策略在 20 世纪 30 年代的表现主义辩论中尤为显著。这是一场重要的美学讨论。布洛赫反对卢卡奇斯的观点，认为在当代资本主义的虚无世界中，先锋艺术是真正的美学成就（Schmitt 1973; Ujma 1995）。他坚持真正艺术作品的开放性和不连续性，这一点他在《乌托邦的精神》中就已经进行了推测性的辩护（Riedel 1994），并且专注于片段作为一种传达内在乌托邦潜力的技巧。布洛赫宣传的美学态度，即对现实的不连续、震撼和疏离的干预——例如蒙太奇技术或语法错乱，即叙事流程的突然中断——对他来说是真正的现实主义，是对世界中普遍存在的乌托邦剩余的忠实模仿，通过行动来激活这种剩余。
 
@@ -196,76 +196,76 @@ English translations and other primary sources cited in the text (here listed by
 
 ### Secondary literature
 
-* Agar, Jolyon, 2014, *Post-Secularism, Realism and Utopia: Transcendence and Immanence from Hegel to Bloch*, London/New York: Routledge. doi:10.4324/9781315863023
+* Agar, Jolyon, 2014, *Post-Secularism, Realism and Utopia: Transcendence and Immanence from Hegel to Bloch*, London/New York: Routledge. doi: 10.4324/9781315863023
 * Adorno, Theodor, 1980, “Bloch’s ‘Traces’: The Philosophy of Kitsch”, Rodney Livingstone (trans.), *New Left Review*, I/121(May/June): 49–62.
-* Bensaïd, Daniel, 2016, “Utopia and Messianism: Bloch, Benjamin, and the Sense of the Virtual”, *Historical Materialism*, 24(4): 36–50. doi:10.1163/1569206X-12341492
-* Bielik-Robson, Agata, 2019, “Dreams of Matter. Ernst Bloch on Religion as Organized Fantasy”:, *Revue Internationale de Philosophie*, 289(3): 333–360. doi:10.3917/rip.289.0333
+* Bensaïd, Daniel, 2016, “Utopia and Messianism: Bloch, Benjamin, and the Sense of the Virtual”, *Historical Materialism*, 24(4): 36–50. doi: 10.1163/1569206X-12341492
+* Bielik-Robson, Agata, 2019, “Dreams of Matter. Ernst Bloch on Religion as Organized Fantasy”:, *Revue Internationale de Philosophie*, 289(3): 333–360. doi: 10.3917/rip.289.0333
 * Bloch, Karola, 1981, *Aus meinem Leben*, Pfullingen: Neske.
 * Boldyrev, I. A., 2014, *Ernst Bloch and His Contemporaries: Locating Utopian Messianism*, (Bloomsbury Studies in Continental Philosophy), London: Bloomsbury.
 * Caysa, Volker, Petra Caysa, Klaus-Dieter Eichler, and Elke Uhl (eds.), 1992, *Hoffnung kann enttäuscht werden: Ernst Bloch in Leipzig*, Frankfurt am Main: A. Hain.
 * Christen, Anton F., 1979, *Ernst Blochs Metaphysik der Materie*, (Abhandlungen zur Philosophie, Psychologie und Pädagogik 139), Bonn: Bouvier.
 * Cunico, Gerardo, 2000, “Nachwort des Herausgebers. Logik utopischen Denkens und Seins”, in: *Logos der Materie. Eine Logik im Werden. Aus dem Nachlaß 1923–1949*, Gerardo Cunico (ed.), Frankfurt am Main: Suhrkamp, 451–467.
 * Czajka, Anna, 2006, *Poetik und Ästhetik des Augenblicks: Studien zu einer neuen Literaturauffassung auf der Grundlage von Ernst Blochs literarischem und literaturästhetischem Werk*, (Schriften zur Literaturwissenschaft 27), Berlin: Duncker & Humblot.
-* Deuber-Mankowsky, Astrid, 2002, “Walter Benjamin’s *Theological-Political Fragment* as a Response to Ernst Bloch’s *Spirit of Utopia*”, *The Leo Baeck Institute Yearbook*, 47: 3–19. doi:10.1093/leobaeck/47.1.3
-* Dietschy, Beat, 2012, “Ungleichzeitigkeit, Gleichzeitigkeit, Übergleichzeitigkeit”, in Dietschy et al. 2012: 589–633. doi:10.1515/9783110256710.589
-* Dietschy, Beat, Doris Zeilinger, and Rainer Ernst Zimmermann (eds.), 2012, *Bloch-Wörterbuch: Leitbegriffe der Philosophie Ernst Blochs*, Berlin/Boston: De Gruyter. doi:10.1515/9783110256710
-* Dubbels, Elke, 2011, *Figuren des Messianischen in Schriften deutsch-jüdischer Intellektueller 1900-1933:*, Berlin/Boston: De Gruyter. doi:10.1515/9783110258240
+* Deuber-Mankowsky, Astrid, 2002, “Walter Benjamin’s *Theological-Political Fragment* as a Response to Ernst Bloch’s *Spirit of Utopia*”, *The Leo Baeck Institute Yearbook*, 47: 3–19. doi: 10.1093/leobaeck/47.1.3
+* Dietschy, Beat, 2012, “Ungleichzeitigkeit, Gleichzeitigkeit, Übergleichzeitigkeit”, in Dietschy et al. 2012: 589–633. doi: 10.1515/9783110256710.589
+* Dietschy, Beat, Doris Zeilinger, and Rainer Ernst Zimmermann (eds.), 2012, *Bloch-Wörterbuch: Leitbegriffe der Philosophie Ernst Blochs*, Berlin/Boston: De Gruyter. doi: 10.1515/9783110256710
+* Dubbels, Elke, 2011, *Figuren des Messianischen in Schriften deutsch-jüdischer Intellektueller 1900-1933:*, Berlin/Boston: De Gruyter. doi: 10.1515/9783110258240
 * Eagleton, Terry, 2015, *Hope without Optimism*, (Page-Barbour Lectures for 2014), Charlottesville, VA/London: University of Virginia Press.
-* Edwards, Caroline, 2013, “Uncovering the ‘Gold-Bearing Rubble’: Ernst Bloch’s Literary Criticism”, in *Utopianism, Modernism, and Literature in the Twentieth Century*, Alice Reeve-Tucker and Nathan Waddell (eds.), London: Palgrave Macmillan UK, 182–203. doi:10.1057/9781137336620\*11
-* Franz, Trautje, 1985, *Revolutionäre Philosophie in Aktion: Ernst Blochs politischer Weg, genauer besehen*, Hamburg: Junius.
-* Gallope, Michael, 2017, *Deep Refrains: Music, Philosophy, and the Ineffable*, Chicago: The University of Chicago Press.
-* Gekle, Hanna, 1986, *Wunsch und Wirklichkeit: Blochs Philosophie des Noch-Nicht-Bewussten und Freuds Theorie des Unbewussten*, Frankfurt am Main: Suhrkamp.
-* –––, 1990, *Die Tränen des Apoll: zur Bedeutung des Dionysos in der Philosophie Ernst Blochs*, Tübingen: Edition Diskord.
-* Geoghegan, Vincent, 1996, *Ernst Bloch*, London/New York: Routledge. doi:10.4324/9780203131442
-* Gramm, Christof, 1990, “Ernst Bloch Als Politischer Rechtsphilosoph”, *ARSP: Archiv Für Rechts- Und Sozialphilosophie / Archives for Philosophy of Law and Social Philosophy*, 76(2): 244–254.
-* Habermas, Jürgen, 1969/1970, “Ernst Bloch—A Marxist Romantic”, *Salmagundi*, 10/11: 311–325.
-* Hartmann, Heiko, 2012, “Zeit”, in Dietschy et al. 2012: 673–678. doi:10.1515/9783110256710.673
-* Hindrichs, Gunnar, 1994, “Substanz und Materie : Zur materialistischen Spinoza-Deutung Ernst Blochs”, *Studia Spinozana*, 10: 155–172.
-* Holz, Hans Heinz, 1975, *Logos spermatikos. Ernst Blochs Philosophie der unfertigen Welt*, Darmstadt, Neuwied: Luchterhand.
-* Honneth, Axel, 2017, “Hoffnung in hoffnungslosen Zeiten. Rede anlässlich der Verleihung des Ernst-Bloch-Preises”, *Bloch-Almanach*, 34: 15–28.
-* Hudson, Wayne, 1982, *The Marxist Philosophy of Ernst Bloch*, London: Macmillan.
-* Jameson, Frederic, 1971, *Marxism and Form: Twentieth Century Dialectical Theories of Literature*, Princeton, NJ: Princeton University Press.
-* Jay, Martin, 1984, *Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, LA: University of California Press.
-* Kosnoski, Jason, 2011, “Specter and Spirit: Ernst Bloch, Jacques Derrida, and the Work of Utopia”, *Rethinking Marxism*, 23(4): 507–523. doi:10.1080/08935696.2011.605282
-* Korstvedt, Benjamin M., 2010, *Listening for Utopia in Ernst Bloch’s Musical Philosophy*, Cambridge/New York: Cambridge University Press.
+* Edwards, Caroline, 2013, “Uncovering the ‘Gold-Bearing Rubble’: Ernst Bloch’s Literary Criticism”, in *Utopianism, Modernism, and Literature in the Twentieth Century*, Alice Reeve-Tucker and Nathan Waddell (eds.), London: Palgrave Macmillan UK, 182–203. doi: 10.1057/9781137336620\*11
+* Franz, Trautje, 1985, * Revolutionäre Philosophie in Aktion: Ernst Blochs politischer Weg, genauer besehen*, Hamburg: Junius.
+* Gallope, Michael, 2017, * Deep Refrains: Music, Philosophy, and the Ineffable*, Chicago: The University of Chicago Press.
+* Gekle, Hanna, 1986, * Wunsch und Wirklichkeit: Blochs Philosophie des Noch-Nicht-Bewussten und Freuds Theorie des Unbewussten*, Frankfurt am Main: Suhrkamp.
+* –––, 1990, * Die Tränen des Apoll: zur Bedeutung des Dionysos in der Philosophie Ernst Blochs*, Tübingen: Edition Diskord.
+* Geoghegan, Vincent, 1996, * Ernst Bloch*, London/New York: Routledge. doi: 10.4324/9780203131442
+* Gramm, Christof, 1990, “Ernst Bloch Als Politischer Rechtsphilosoph”, * ARSP: Archiv Für Rechts- Und Sozialphilosophie / Archives for Philosophy of Law and Social Philosophy*, 76(2): 244–254.
+* Habermas, Jürgen, 1969/1970, “Ernst Bloch—A Marxist Romantic”, * Salmagundi*, 10/11: 311–325.
+* Hartmann, Heiko, 2012, “Zeit”, in Dietschy et al. 2012: 673–678. doi: 10.1515/9783110256710.673
+* Hindrichs, Gunnar, 1994, “Substanz und Materie : Zur materialistischen Spinoza-Deutung Ernst Blochs”, * Studia Spinozana*, 10: 155–172.
+* Holz, Hans Heinz, 1975, * Logos spermatikos. Ernst Blochs Philosophie der unfertigen Welt*, Darmstadt, Neuwied: Luchterhand.
+* Honneth, Axel, 2017, “Hoffnung in hoffnungslosen Zeiten. Rede anlässlich der Verleihung des Ernst-Bloch-Preises”, * Bloch-Almanach*, 34: 15–28.
+* Hudson, Wayne, 1982, * The Marxist Philosophy of Ernst Bloch*, London: Macmillan.
+* Jameson, Frederic, 1971, * Marxism and Form: Twentieth Century Dialectical Theories of Literature*, Princeton, NJ: Princeton University Press.
+* Jay, Martin, 1984, * Marxism and Totality: The Adventures of a Concept from Lukács to Habermas*, Berkeley, LA: University of California Press.
+* Kosnoski, Jason, 2011, “Specter and Spirit: Ernst Bloch, Jacques Derrida, and the Work of Utopia”, * Rethinking Marxism*, 23(4): 507–523. doi: 10.1080/08935696.2011.605282
+* Korstvedt, Benjamin M., 2010, * Listening for Utopia in Ernst Bloch’s Musical Philosophy*, Cambridge/New York: Cambridge University Press.
 * Levinas, Emmanuel, 1976, “Sur la mort dans la pensée de Ernst Bloch”, in Raulet 1976: 318–326.
-* Levitas, Ruth, 1990, “Educated Hope: Ernst Bloch on Abstract and Concrete Utopia”, *Utopian Studies*, 1(2): 13–26.
-* –––, 2012, “Secularism and Post-Secularism in Roberto Unger and Ernst Bloch: Toward a Utopian Ontology”, in *Existential Utopia: New Perspectives on Utopian Thought*, Patricia Vieira and Michael Marder (eds), New York: Continuum, pp. 97–112.
+* Levitas, Ruth, 1990, “Educated Hope: Ernst Bloch on Abstract and Concrete Utopia”, * Utopian Studies*, 1(2): 13–26.
+* –––, 2012, “Secularism and Post-Secularism in Roberto Unger and Ernst Bloch: Toward a Utopian Ontology”, in * Existential Utopia: New Perspectives on Utopian Thought*, Patricia Vieira and Michael Marder (eds), New York: Continuum, pp. 97–112.
 * –––, 2013, “Singing Summons the Existence of the Fountain: Bloch, Music, and Utopia” in Thompson and Žižek 2013: 219–45
-* Löwy, Michael, 1988 \[1992], *Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective*, (Sociologie d’aujourd’hui), Paris: Presses universitaies de France. Translated as *Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
+* Löwy, Michael, 1988 \[1992], * Rédemption et utopie: le judaïsme libertaire en Europe Centrale: une étude d’affinité élective *, (Sociologie d’aujourd’hui), Paris: Presses universitaies de France. Translated as * Redemption and Utopia: Jewish Libertarian Thought in Central Europe: A Study in Elective Affinity*, Hope Heaney (trans.), London: Athlone, 1992.
 * Lyotard, Jean-François, 1976, “Puissance de Traces, ou contribution de Bloch à une histoire païenne”, in Raulet 1976: 57–67.
-* Marchesoni, Stefano, 2014, “Zur Vorgeschichte des Eingedenkens: Über Ernst Blochs »motorisch-phantastische Erkenntnistheorie« in Geist der Utopie und ihre »Umfunktionierung« bei Benjamin”, in *Benjamin-Studien 3*, Daniel Weidner and Sigrid Weigel (eds.), München: Brill/Fink, 13–29. doi:10.30965/9783846757826\*003
-* Mendes-Flohr, Paul R., 1983, “‘To Brush History Against the Grain’: The Eschatology of the Frankfurt School and Ernst Bloch”, *Journal of the American Academy of Religion*, LI(4): 631–650. doi:10.1093/jaarel/LI.4.631
+* Marchesoni, Stefano, 2014, “Zur Vorgeschichte des Eingedenkens: Über Ernst Blochs »motorisch-phantastische Erkenntnistheorie« in Geist der Utopie und ihre »Umfunktionierung« bei Benjamin”, in * Benjamin-Studien 3 *, Daniel Weidner and Sigrid Weigel (eds.), München: Brill/Fink, 13–29. doi: 10.30965/9783846757826\* 003
+* Mendes-Flohr, Paul R., 1983, “‘To Brush History Against the Grain’: The Eschatology of the Frankfurt School and Ernst Bloch”, *Journal of the American Academy of Religion*, LI(4): 631–650. doi: 10.1093/jaarel/LI.4.631
 * Moir, Cat, 2013, “The Education of Hope: On the Dialectical Potential of Speculative Materialism”, in Thompson and Žižek 2013: 121–143.
-* –––, 2019a, “The Birth of Materialism out of the Spirit of Expressionism: Nietzsche and Bloch’s Philosophy of Language:”, *Revue Internationale de Philosophie*, 289(3): 303–332. doi:10.3917/rip.289.0303
+* –––, 2019a, “The Birth of Materialism out of the Spirit of Expressionism: Nietzsche and Bloch’s Philosophy of Language:”, *Revue Internationale de Philosophie*, 289(3): 303–332. doi: 10.3917/rip.289.0303
 * –––, 2019b, *Ernst Bloch’s Speculative Materialism: Ontology, Epistemology, Politics*, (Historical Materialism Book Series 202), Leiden/Boston: Brill.
 * Moltmann, Jürgen, 1964 \[1967], *Theologie der Hoffnung. Untersuchungen zur Begründung und zu den Konsequenzen einer christlichen Eschatologie*, (Beiträge zur evangelischen Theologie), München: Kaiser. Translated as *Theology of Hope: On the Ground and the Implications of a Christian Eschatology*, London: SCM Press, 1967.
 * Moylan, Tom, 1997, “Bloch against Bloch: The Theological Reception of *Das Prinzip Hoffnung* and the Liberation of the Utopian Function”, in *Not Yet: Reconsidering Ernst Bloch*, Jamie Owen Daniel and Tom Moylan (eds.), London ; New York: Verso, 96–121.
 * Münster, Arno, 1982, *Utopie, Messianismus und Apokalypse im Frühwerk von Ernst Bloch*, (Suhrkamp Taschenbuch Wissenschaft 372), Frankfurt am Main: Suhrkamp.
 * –––, 1987, “Das Totenschiff der Philosophie? Ernst Bloch und Martin Heidegger”, in *Verdinglichung und Utopie: Ernst Bloch und Georg Lukács zum 100. Geburtstag: Beitrage des Internationalen Kolloquiums in Paris, März 1985*, Michael Löwy, Arno Münster, and Nicolas Tertulian (eds.), Frankfurt am Main: Sendler, 161–179.
 * Pelletier, Lucien, 2009, “Ernst Bloch à la rencontre de la phénoménologie”, *Bloch-Almanach*, 28: 201–276.
-* –––, 2015, “La formation de la philosophie d’Ernst Bloch à partir de la mystique de Maître Eckhart”, *Laval théologique et philosophique*, 71(1): 97–132. doi:10.7202/1033689ar
-* –––, 2019, “Les sources de la philosophie de l’histoire d’Ernst Bloch”, *Revue internationale de philosophie*, 289(3): 261–277, doi:10.3917/rip.289.0261.
+* –––, 2015, “La formation de la philosophie d’Ernst Bloch à partir de la mystique de Maître Eckhart”, *Laval théologique et philosophique*, 71(1): 97–132. doi: 10.7202/1033689ar
+* –––, 2019, “Les sources de la philosophie de l’histoire d’Ernst Bloch”, *Revue internationale de philosophie*, 289(3): 261–277, doi: 10.3917/rip.289.0261.
 * Raulet, Gérard (ed.), 1976, *Utopie, marxisme selon Ernst Bloch: un système de l’inconstructible : hommages à Ernst Bloch pour son 90e anniversaire*, (Critique de la politique), Paris: Payot.
 * –––, 1982, *Humanisation de la nature, naturalisation de l’homme: Ernst Bloch ou le projet d’une autre rationalité*, (Philosophia 8), Paris: Klincksieck.
-* Rabinbach, Anson, 1977, “Unclaimed Heritage: Ernst Bloch’s Heritage of Our Times and the Theory of Fascism”, *New German Critique*, 11: 5–21. doi:10.2307/487801
+* Rabinbach, Anson, 1977, “Unclaimed Heritage: Ernst Bloch’s Heritage of Our Times and the Theory of Fascism”, *New German Critique*, 11: 5–21. doi: 10.2307/487801
 * Riedel, Manfred, 1994, *Tradition und Utopie: Ernst Blochs Philosophie im Licht unserer geschichtlichen Denkerfahrung*, (Suhrkamp Taschenbuch Wissenschaft 1063), Frankfurt am Main: Suhrkamp.
 * Schiller, Hans-Ernst, 1982, *Metaphysik und Gesellschaftskritik: zur Konkretisierung der Utopie im Werk Ernst Blochs*, (Monographien zur philosophischen Forschung 217), Königstein/Ts: Forum Academicum in der Verlagsgruppe Athenäum, Hain, Scriptor, Hanstein.
 * –––, 1991, *Bloch-Konstellationen: Utopien der Philosophie*, Lüneburg: zu Klampen.
 * Schmidt, Burghart, 1985, *Ernst Bloch*, (Sammlung Metzler 222), Stuttgart: Metzler.
 * Schmitt, Hans-Jürgen (ed.), 1973, *Die Expressionismusdebatte: Materialien zu einer marxistischen Realismuskonzeption*, Frankfurt am Main: Suhrkamp-Verlag.
-* Siebers, Johan, 2011, “‘Aufenthalt im unerhörten’: Bloch’s Reading of Hebel (1926–65)”, *Oxford German Studies*, 40(1): 62–71. doi:10.1179/007871911x568052
-* –––, 2012, “Front”, in Dietschy et al. 2012: 161–164. doi:10.1515/9783110256710.161
+* Siebers, Johan, 2011, “‘Aufenthalt im unerhörten’: Bloch’s Reading of Hebel (1926–65)”, *Oxford German Studies*, 40(1): 62–71. doi: 10.1179/007871911x568052
+* –––, 2012, “Front”, in Dietschy et al. 2012: 161–164. doi: 10.1515/9783110256710.161
 * –––, 2013, “Ernst Bloch’s Dialectical Anthropology”, in Thompson and Žižek 2013: 61–81.
-* Tegtmeyer, Henning, 2012, “Braucht Hoffnung Gründe? Ernst Bloch über das Hoffen als Affekt und Tugend”, *Deutsche Zeitschrift für Philosophie*, 60(1): 31–48. doi:10.1524/dzph.2012.0004
+* Tegtmeyer, Henning, 2012, “Braucht Hoffnung Gründe? Ernst Bloch über das Hoffen als Affekt und Tugend”, *Deutsche Zeitschrift für Philosophie*, 60(1): 31–48. doi: 10.1524/dzph.2012.0004
 * Thompson, Peter and Slavoj Žižek (eds.), 2013, *The Privatization of Hope: Ernst Bloch and the Future of Utopia*, (SIC 8), Durham, NC: Duke University Press.
-* Ujma, Christina, 1995, *Ernst Blochs Konstruktion der Moderne aus Messianismus und Marxismus: Erörterungen mit Berücksichtigung von Lukács und Benjamin*, Stuttgart: M und P, Verlag für Wiss. und Forschung. doi:10.1007/978-3-476-04237-8
+* Ujma, Christina, 1995, *Ernst Blochs Konstruktion der Moderne aus Messianismus und Marxismus: Erörterungen mit Berücksichtigung von Lukács und Benjamin*, Stuttgart: M und P, Verlag für Wiss. und Forschung. doi: 10.1007/978-3-476-04237-8
 * Vattimo, Gianni, 1985 \[1988], *La fine della modernità*, Milano: Garzanti. Translated as *The End of Modernity: Nihilism and Hermeneutics in Post-Modern Culture*, Jon R. Snyder (trans.), Baltimore, MD: Johns Hopkins University Press, 1988.
 * Vidal, Francesca, 1994, *Kunst als Vermittlung von Welterfahrung: zur Rekonstruktion der Ästhetik von Ernst Bloch*, (Epistemata 150), Würzburg: Königshausen & Neumann.
-* –––, 2012, “Hoffnung”, in Dietschy et al. 2012: 189–212. doi:10.1515/9783110256710.189
+* –––, 2012, “Hoffnung”, in Dietschy et al. 2012: 189–212. doi: 10.1515/9783110256710.189
 * Wagner, Hartmut, 1995, *Utopie, Menschenrechte, Naturrecht: zur Rechtsphilosophie Ernst Blochs*, (Nomos-Universitätsschriften Recht 180), Baden-Baden: Nomos.
-* Weissberg, Liliane, 1992, “Philosophy and the Fairy Tale: Ernst Bloch as Narrator”, *New German Critique*, 55: 21–44. doi:10.2307/488287
-* Zipes, Jack, 2019, *Ernst Bloch: The Pugnacious Philosopher of Hope*, Basingstoke: Palgrave MacMillan. doi:10.1007/978-3-030-21174-5
+* Weissberg, Liliane, 1992, “Philosophy and the Fairy Tale: Ernst Bloch as Narrator”, *New German Critique*, 55: 21–44. doi: 10.2307/488287
+* Zipes, Jack, 2019, *Ernst Bloch: The Pugnacious Philosopher of Hope*, Basingstoke: Palgrave MacMillan. doi: 10.1007/978-3-030-21174-5
 
 ## Academic Tools
 

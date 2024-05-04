@@ -1,8 +1,8 @@
 # 记忆的认识论问题 epistemological problems of (Matthew Frise)
 
-*首次发表于2023年3月27日*
+*首次发表于 2023 年 3 月 27 日*
 
-[编辑注：以下由马修·弗里斯（Matthew Frise）撰写的新条目取代了前任作者关于此主题的旧条目。]
+[编辑注：以下由马修 · 弗里斯（Matthew Frise）撰写的新条目取代了前任作者关于此主题的旧条目。]
 
 你告诉你的朋友你目睹了一件奇怪的事件。你的朋友追问你：你怎么知道它真的发生了？回答说你亲眼看到了是很自然的。但这不能完全解释你如何知道。仅仅过去的目睹并不能完全解释现在的知识或合理的信仰。当我们过去的学习对我们在现在可以确信的事情有所影响时，有些东西将两者联系起来。这个东西似乎就是记忆。记忆在我们日常的信仰中起到一定的作用，仔细观察后，这个作用显得至关重要。然而，记忆是秘密的，总是在运作，几乎总是在我们不注意的情况下，而且经常逃避我们对其运作的任何努力的理解。即使在哲学中，我们也认为记忆的不懈努力是理所当然的。关于它如何支持良好的归纳推理，存在一些神秘之处，尽管我们认识到良好的归纳推理依赖于过去的观察。而记忆正是通过魔力实现了这种不可或缺的依赖。
 
@@ -100,7 +100,7 @@
 
 简而言之，上述问题中的一些问题引起了人们对于一个时间的事态如何直接影响另一个时间的理由的关注。如果一个主体现在可以有理由相信 p，即使她忘记了 p 的原始证据并且现在没有其他支持 p 的证据，似乎她的过去可以直接影响她现在的理由。这是因为她曾经有理由或证明理由，所以她现在有理由。同样，如果一个似乎回忆起 p 的主体现在无法有理由相信 p，因为她忘记了 p 的反证，她的过去似乎直接影响她现在的理由。
 
-时间和理由如何联系，以及记忆在这种联系中起到的作用并不明显。基本的选择很少。以下是一些选择：可能直接影响某一时刻的理由只与该时刻的情况有关。将暗示这一点的理论称为理由的时间切片理论。或者，过去的事态也直接影响该时刻的理由。将暗示这一点的理论称为历史理论。 （有关进一步讨论，请参见Kelly 2016和Moss 2015）。一个较少探讨的可能性是未来的事态直接影响某一时刻的理由——但由于时间切片理论和历史理论是最受欢迎的两个候选理论，本文将重点关注它们。为了将记忆纳入这些选择，并以现在为中心：也许记忆仅通过主体的记忆当前的状态或活动方式来影响她现在的理由——例如，主体现在回忆起或倾向于回忆起或以其他方式储存在记忆中的内容。或者，即使现在不在她的记忆中，曾经是主体记忆的一部分的内容现在也对她的理由有影响。或者，她将来会记起的内容对她现在的理由也有影响。
+时间和理由如何联系，以及记忆在这种联系中起到的作用并不明显。基本的选择很少。以下是一些选择：可能直接影响某一时刻的理由只与该时刻的情况有关。将暗示这一点的理论称为理由的时间切片理论。或者，过去的事态也直接影响该时刻的理由。将暗示这一点的理论称为历史理论。 （有关进一步讨论，请参见 Kelly 2016 和 Moss 2015）。一个较少探讨的可能性是未来的事态直接影响某一时刻的理由——但由于时间切片理论和历史理论是最受欢迎的两个候选理论，本文将重点关注它们。为了将记忆纳入这些选择，并以现在为中心：也许记忆仅通过主体的记忆当前的状态或活动方式来影响她现在的理由——例如，主体现在回忆起或倾向于回忆起或以其他方式储存在记忆中的内容。或者，即使现在不在她的记忆中，曾经是主体记忆的一部分的内容现在也对她的理由有影响。或者，她将来会记起的内容对她现在的理由也有影响。
 
 请注意，时间切片和历史区分横跨了内在主义和外在主义的区别。无论一个合理化理论在一个区别中落地，它都可能在另一个区别中落地。例如，内在主义的合理化理论可以陈述，一个主体现在的状态，包括她现在的记忆方式，直接影响她现在的合理化（Feldman＆Conee 2001）。或者它可以陈述，她过去的元素，包括对主体记忆的影响，直接影响她现在的合理化（Huemer 1999; McGrath 2007, 2016）。有些组合比其他组合更常见，也更有可能。内在主义者更倾向于时间切片观点，而外在主义者更倾向于历史观点。Goldman（2009）的可靠主义是一种典型的外在主义、历史观点：一个记忆信念的当前合理化状态主要取决于记忆保持信念过去状态的程度，而过去状态部分由主体外部因素决定，如最初形成信念的过程的可靠性。外在主义的理论可以是时间切片的，但这种情况较少见。
 
@@ -114,7 +114,7 @@
 
 安尼斯（1980）认为历史理论更能解释儿童所拥有的理由。一个孩子目前的心智可能还不足够复杂，无法解释她目前在记忆中的一些理由合理的信念是如何合理的。相反，现在所证明这些信念的理由必须在过去找到。安尼斯还认为时间切片理论在遗忘证据和遗忘失败的问题上陷入困境。
 
-一个特别值得注意的历史理论是认识论保守主义（Harman 1986; McCain 2008, 2019; McGrath 2007, 2016; Poston 2014）。根据认识论保守主义，一个相信一个命题的主体有一些初步理由继续相信它。除非主体有理由放弃她的信念，否则她有一些保持信念的理由。这个理论是历史性的，因为它说在某个时间拥有一个信念直接导致在以后拥有对它的理由。过去的信念对现在的理由很重要。值得注意的是，这个理论也对内在主义友好，而对外在主义者友好。它确定了影响主体现在理由的过去要素，但这些要素都是心理的，即主体的过去信念。McGrath（2007）将认识论保守主义应用于记忆的一系列认识论问题。他（2007: 14）认为它解决了遗忘证据的问题。一个主体可能已经忘记了她对p的信念的原始证据，然而这个信念仍然被认为是有理据的。认识论保守主义可以解释为什么：主体已经相信过p，而这种过去的信念，在没有推翻者的情况下，足以使她的信念现在成为有理据的。McGrath（2007: 21）还认为认识论保守主义解决了存储信念的问题。一个存储在记忆中的有理据的信念很可能是刚刚相信过的信念。相信这一点解释了为什么这个信念现在是有理据的。
+一个特别值得注意的历史理论是认识论保守主义（Harman 1986; McCain 2008, 2019; McGrath 2007, 2016; Poston 2014）。根据认识论保守主义，一个相信一个命题的主体有一些初步理由继续相信它。除非主体有理由放弃她的信念，否则她有一些保持信念的理由。这个理论是历史性的，因为它说在某个时间拥有一个信念直接导致在以后拥有对它的理由。过去的信念对现在的理由很重要。值得注意的是，这个理论也对内在主义友好，而对外在主义者友好。它确定了影响主体现在理由的过去要素，但这些要素都是心理的，即主体的过去信念。McGrath（2007）将认识论保守主义应用于记忆的一系列认识论问题。他（2007: 14）认为它解决了遗忘证据的问题。一个主体可能已经忘记了她对 p 的信念的原始证据，然而这个信念仍然被认为是有理据的。认识论保守主义可以解释为什么：主体已经相信过 p，而这种过去的信念，在没有推翻者的情况下，足以使她的信念现在成为有理据的。McGrath（2007: 21）还认为认识论保守主义解决了存储信念的问题。一个存储在记忆中的有理据的信念很可能是刚刚相信过的信念。相信这一点解释了为什么这个信念现在是有理据的。
 
 这种解决存储信念问题的方法面临着挑战（Frise 2017a）。一个主体 Ric 可能有合理的存储信念。一个邪恶的恶魔可能带来另一个主体 Vic，他在心理上与 Ric 完全相同。当 Vic 出现时，他也有存储信念。但在存在之前，他没有任何信念。认识论保守主义无法解释他在创造时如何能够合理地证明他的存储信念。而且有理由认为其中一些在那时是合理的 - Vic 是 Ric 的心理孪生兄弟，Ric 在那时有合理的存储信念。更重要的是，Vic 在从创造的那一刻到下一刻可能完全不会在心理上发生任何变化。但是因为 Vic 在第一刻就有信念，根据认识论保守主义，他在第二刻对这些信念有初步的合理性证明。认识论保守主义解释了他在第二次的存储信念的合理性，但不是第一次，尽管他在这些时刻是自己的心理复制品。
 
@@ -242,131 +242,131 @@ Michaelian (2012b)认为，元认知的认可机制是可靠和合理的，尽�
 > | ![inpho icon](../../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=memory-episprob&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
 > | ![phil papers icon](../../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/memory-episprob/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
-* Adams, Fred, 2011, “Husker Du?”, *Philosophical Studies*, 153(1): 81–94. doi:10.1007/s11098-010-9663-4
-* Annis, David B., 1980, “Memory and Justification”, *Philosophy and Phenomenological Research*, 40(3): 324–333. doi:10.2307/2106396
+* Adams, Fred, 2011, “Husker Du?”, *Philosophical Studies*, 153(1): 81–94. doi: 10.1007/s11098-010-9663-4
+* Annis, David B., 1980, “Memory and Justification”, *Philosophy and Phenomenological Research*, 40(3): 324–333. doi: 10.2307/2106396
 * Anscombe, G. E. M., 1981, *Collected Philosophical Papers, Vol. 2: Metaphysics and the Philosophy of Mind*, Minneapolis, MN: University of Minnesota Press.
-* Arango-Muñoz, Santiago, 2013, “Scaffolded Memory and Metacognitive Feelings”, *Review of Philosophy and Psychology*, 4(1): 135–152. doi:10.1007/s13164-012-0124-1
-* –––, 2014, “The Nature of Epistemic Feelings”, *Philosophical Psychology*, 27(2): 193–211. doi:10.1080/09515089.2012.732002
-* Arango-Muñoz, Santiago and Kourken Michaelian, 2014, “Epistemic Feelings, Epistemic Emotions: Review and Introduction to the Focus Section”, *Philosophical Inquiries*, 2(1): 97–122. doi:10.4454/philinq.v2i1.79
-* Audi, Robert, 1995, “Memorial Justification”:, *Philosophical Topics*, 23(1): 31–45. doi:10.5840/philtopics199523123
+* Arango-Muñoz, Santiago, 2013, “Scaffolded Memory and Metacognitive Feelings”, *Review of Philosophy and Psychology*, 4(1): 135–152. doi: 10.1007/s13164-012-0124-1
+* –––, 2014, “The Nature of Epistemic Feelings”, *Philosophical Psychology*, 27(2): 193–211. doi: 10.1080/09515089.2012.732002
+* Arango-Muñoz, Santiago and Kourken Michaelian, 2014, “Epistemic Feelings, Epistemic Emotions: Review and Introduction to the Focus Section”, *Philosophical Inquiries*, 2(1): 97–122. doi: 10.4454/philinq.v2i1.79
+* Audi, Robert, 1995, “Memorial Justification”:, *Philosophical Topics*, 23(1): 31–45. doi: 10.5840/philtopics199523123
 * –––, 1997, “The Place of Testimony in the Fabric of Knowledge and Justification”, *American Philosophical Quarterly*, 34(4): 405–422.
-* –––, 2002, “The Sources of Knowledge”, in *The Oxford Handbook of Epistemology*, Paul K. Moser (ed.), Oxford: Oxford University Press, 71–94. doi:10.1093/oxfordhb/9780195301700.003.0003
+* –––, 2002, “The Sources of Knowledge”, in *The Oxford Handbook of Epistemology*, Paul K. Moser (ed.), Oxford: Oxford University Press, 71–94. doi: 10.1093/oxfordhb/9780195301700.003.0003
 * Ayer, A.J., 1956, *The Problem of Knowledge*, London: Macmillan.
-* Barnett, David James, 2015, “Is Memory Merely Testimony from One’s Former Self?”, *The Philosophical Review*, 124(3): 353–392. doi:10.1215/00318108-2895337
-* Bernecker, Sven, 2008, *The Metaphysics of Memory*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-8220-7
-* –––, 2010, *Memory: A Philosophical Study*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199577569.001.0001
+* Barnett, David James, 2015, “Is Memory Merely Testimony from One’s Former Self?”, *The Philosophical Review*, 124(3): 353–392. doi: 10.1215/00318108-2895337
+* Bernecker, Sven, 2008, *The Metaphysics of Memory*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-8220-7
+* –––, 2010, *Memory: A Philosophical Study*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199577569.001.0001
 * –––, 2018, “On the Blameworthiness of Forgetting”, in Michaelian, Debus, and Perrin 2018: 241–258 (ch. 12).
-* Bernecker, Sven and Thomas Grundmann, 2019, “Knowledge From Forgetting”, *Philosophy and Phenomenological Research*, 98(3): 525–540. doi:10.1111/phpr.12469
-* Bernecker, Sven and Kourken Michaelian (eds.), 2017, *The Routledge Handbook of Philosophy of Memory*, Abingdon: Routledge. doi:10.4324/9781315687315
-* BonJour, Laurence, 1980, “Externalist Theories of Empirical Knowledge”, *Midwest Studies in Philosophy*, 5: 53–73. doi:10.1111/j.1475-4975.1980.tb00396.x
-* –––, 2016, “Goldman against Internalism”, in McLaughlin and Kornblith 2016: 22–42 (ch. 2). doi:10.1002/9781118609378.ch2
-* Bortolotti, Lisa and Ema Sullivan-Bissett, 2018, “The Epistemic Innocence of Clinical Memory Distortions”, *Mind & Language*, 33(3): 263–279. doi:10.1111/mila.12175
+* Bernecker, Sven and Thomas Grundmann, 2019, “Knowledge From Forgetting”, *Philosophy and Phenomenological Research*, 98(3): 525–540. doi: 10.1111/phpr.12469
+* Bernecker, Sven and Kourken Michaelian (eds.), 2017, *The Routledge Handbook of Philosophy of Memory*, Abingdon: Routledge. doi: 10.4324/9781315687315
+* BonJour, Laurence, 1980, “Externalist Theories of Empirical Knowledge”, *Midwest Studies in Philosophy*, 5: 53–73. doi: 10.1111/j.1475-4975.1980.tb00396.x
+* –––, 2016, “Goldman against Internalism”, in McLaughlin and Kornblith 2016: 22–42 (ch. 2). doi: 10.1002/9781118609378.ch2
+* Bortolotti, Lisa and Ema Sullivan-Bissett, 2018, “The Epistemic Innocence of Clinical Memory Distortions”, *Mind & Language*, 33(3): 263–279. doi: 10.1111/mila.12175
 * Brogaard, Berit, 2017, “Foundationalism”, in Bernecker and Michaelian 2017: 296–309 (ch. 23).
-* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi:10.2307/2185680
-* –––, 1997, “Interlocution, Perception, and Memory”, *Philosophical Studies*, 86(1): 21–47. doi:10.1023/A:1004261628340
-* –––, 2003, “Memory and Persons”, *The Philosophical Review*, 112(3): 289–337. doi:10.1215/00318108-112-3-289
+* Burge, Tyler, 1993, “Content Preservation”, *The Philosophical Review*, 102(4): 457–488. doi: 10.2307/2185680
+* –––, 1997, “Interlocution, Perception, and Memory”, *Philosophical Studies*, 86(1): 21–47. doi: 10.1023/A: 1004261628340
+* –––, 2003, “Memory and Persons”, *The Philosophical Review*, 112(3): 289–337. doi: 10.1215/00318108-112-3-289
 * Carter, J. Adam, 2018, “Virtue Epistemology and Extended Cognition”, in *The Routledge Handbook of Virtue Epistemology*, Heather Battaly (ed.), New York: Routledge, 420–432 (ch. 34).
-* Carter, J. Adam and Jesper Kallestrup, 2016, “Extended Cognition and Propositional Memory”, *Philosophy and Phenomenological Research*, 92(3): 691–714. doi:10.1111/phpr.12157
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Cohen, Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46(3): 279–295. doi:10.1007/BF00372907
+* Carter, J. Adam and Jesper Kallestrup, 2016, “Extended Cognition and Propositional Memory”, *Philosophy and Phenomenological Research*, 92(3): 691–714. doi: 10.1111/phpr.12157
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi: 10.1093/analys/58.1.7
+* Cohen, Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46(3): 279–295. doi: 10.1007/BF00372907
 * Conee, Earl and Richard Feldman, 1998, “The Generality Problem for Reliabilism”, *Philosophical Studies* 89: 1–29.
-* –––, 2011, “Replies”, in Dougherty 2011: 283–323 (ch. 17). doi:10.1093/acprof:oso/9780199563500.003.0018
-* De Brigard, Felipe, 2014, “Is Memory for Remembering? Recollection as a Form of Episodic Hypothetical Thinking”, *Synthese*, 191(2): 155–185. doi:10.1007/s11229-013-0247-7
-* Dogramaci, Sinan, 2015, “Forget and Forgive: A Practical Approach to Forgotten Evidence”, *Ergo, an Open Access Journal of Philosophy*, 2(26): 645–677. doi:10.3998/ergo.12405314.0002.026
-* Dougherty, Trent (ed.), 2011, *Evidentialism and Its Discontents*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199563500.001.0001
-* Feldman, Richard, 1988, “Having Evidence”, in *Philosophical Analysis: A Defense by Example*, David F. Austin (ed.), Dordrecht/Boston: Kluwer, 83–104. doi:10.1007/978-94-009-2909-8_6
+* –––, 2011, “Replies”, in Dougherty 2011: 283–323 (ch. 17). doi: 10.1093/acprof: oso/9780199563500.003.0018
+* De Brigard, Felipe, 2014, “Is Memory for Remembering? Recollection as a Form of Episodic Hypothetical Thinking”, *Synthese*, 191(2): 155–185. doi: 10.1007/s11229-013-0247-7
+* Dogramaci, Sinan, 2015, “Forget and Forgive: A Practical Approach to Forgotten Evidence”, *Ergo, an Open Access Journal of Philosophy*, 2(26): 645–677. doi: 10.3998/ergo.12405314.0002.026
+* Dougherty, Trent (ed.), 2011, *Evidentialism and Its Discontents*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199563500.001.0001
+* Feldman, Richard, 1988, “Having Evidence”, in *Philosophical Analysis: A Defense by Example*, David F. Austin (ed.), Dordrecht/Boston: Kluwer, 83–104. doi: 10.1007/978-94-009-2909-8_6
 * –––, 2005, “Justification is Internal”, in Steup and Sosa 2005: 270–284.
 * Feldman, Richard and Earl Conee, 2001, “Internalism Defended”, *American Philosophical Quarterly*, 38(1): 1–18.
-* Fernández, Jordi, 2016, “Epistemic Generation in Memory”, *Philosophy and Phenomenological Research*, 92(3): 620–644. doi:10.1111/phpr.12189
-* Frise, Matthew, 2017a, “Internalism and the Problem of Stored Beliefs”, *Erkenntnis*, 82(2): 285–304. doi:10.1007/s10670-016-9817-7
-* –––, 2017b, “Preservationism in the Epistemology of Memory”, *The Philosophical Quarterly*, 67(268): 486–507. doi:10.1093/pq/pqw074
-* –––, 2018a, “Eliminating the Problem of Stored Beliefs”, *American Philosophical Quarterly*, 55(1): 63–79. doi:10.2307/45128599
+* Fernández, Jordi, 2016, “Epistemic Generation in Memory”, *Philosophy and Phenomenological Research*, 92(3): 620–644. doi: 10.1111/phpr.12189
+* Frise, Matthew, 2017a, “Internalism and the Problem of Stored Beliefs”, *Erkenntnis*, 82(2): 285–304. doi: 10.1007/s10670-016-9817-7
+* –––, 2017b, “Preservationism in the Epistemology of Memory”, *The Philosophical Quarterly*, 67(268): 486–507. doi: 10.1093/pq/pqw074
+* –––, 2018a, “Eliminating the Problem of Stored Beliefs”, *American Philosophical Quarterly*, 55(1): 63–79. doi: 10.2307/45128599
 * –––, 2018b, “Forgetting”, in Michaelian, Debus, and Perrin 2018: 223–240 (ch. 11).
-* –––, 2018c, “Metacognition As Evidence for Evidentialism”, in *Believing in Accordance with the Evidence: New Essays on Evidentialism*, Kevin McCain (ed.), (Synthese Library 398), Cham: Springer International Publishing, 91–107. doi:10.1007/978-3-319-95993-1_7
-* –––, 2018d, “The Reliability Problem for Reliabilism”, *Philosophical Studies*, 175(4): 923–945. doi:10.1007/s11098-017-0899-0
-* –––, 2021, “Reliabilism’s Memory Loss”, *The Philosophical Quarterly*, 71(3): 565–585. doi:10.1093/pq/pqaa057
+* –––, 2018c, “Metacognition As Evidence for Evidentialism”, in *Believing in Accordance with the Evidence: New Essays on Evidentialism*, Kevin McCain (ed.), (Synthese Library 398), Cham: Springer International Publishing, 91–107. doi: 10.1007/978-3-319-95993-1_7
+* –––, 2018d, “The Reliability Problem for Reliabilism”, *Philosophical Studies*, 175(4): 923–945. doi: 10.1007/s11098-017-0899-0
+* –––, 2021, “Reliabilism’s Memory Loss”, *The Philosophical Quarterly*, 71(3): 565–585. doi: 10.1093/pq/pqaa057
 * –––, 2022, “You Don’t Know What Happened”, in *Current Controversies in Philosophy of Memory*, André Sant’Anna, Christopher Jude McCarroll and Kourken Michaelian (eds.), New York: Routledge, 244–259 (ch. 12).
-* Frise, Matthew and Kevin McCain, 2021, “Forgetting Memory Skepticism”, *Philosophy and Phenomenological Research*, 103(2): 253–263. doi:10.1111/phpr.12715
+* Frise, Matthew and Kevin McCain, 2021, “Forgetting Memory Skepticism”, *Philosophy and Phenomenological Research*, 103(2): 253–263. doi: 10.1111/phpr.12715
 * Ginet, Carl, 1975, *Knowledge, Perception, and Memory*, Dordrecht/Boston: D. Reidel.
 * Goldman, Alvin I., 1979, “What is Justified Belief?” in *Justification and Knowledge: New Studies in Epistemology*, George S. Pappas (ed.), Boston: D. Reidel, pp. 1–25.
-* –––, 1999, “Internalism Exposed”, *Journal of Philosophy*, 96(6): 271–293. doi:10.2307/2564679
+* –––, 1999, “Internalism Exposed”, *Journal of Philosophy*, 96(6): 271–293. doi: 10.2307/2564679
 * –––, 2009, “Internalism, Externalism, and the Architecture of Justification”, *Journal of Philosophy*, 106(6): 309–338.
-* –––, 2011, “Toward a Synthesis of Reliabilism and Evidentialism? Or: Evidentialism’s Troubles, Reliabilism’s Rescue Package”, in Dougherty 2011: 254–280 (ch. 16). doi:10.1093/acprof:oso/9780199563500.003.0017
+* –––, 2011, “Toward a Synthesis of Reliabilism and Evidentialism? Or: Evidentialism’s Troubles, Reliabilism’s Rescue Package”, in Dougherty 2011: 254–280 (ch. 16). doi: 10.1093/acprof: oso/9780199563500.003.0017
 * –––, 2016, “Reply to Kelly”, in McLaughlin and Kornblith 2016: 66–68.
 * Greco, John, 2005, “Justification is Not Internal”, in Steup and Sosa 2005: 257–269.
 * Harman, Gilbert, 1986, *Change in View: Principles of Reasoning*, Cambridge, MA: MIT Press.
-* Hasan, Ali, 2021, “The Reliability of Memory: An Argument from the Armchair”, *Episteme*, 18(2): 142–159. doi:10.1017/epi.2019.8
-* Heersmink, Richard and J. Adam Carter, 2020, “The Philosophy of Memory Technologies: Metaphysics, Knowledge, and Values”, *Memory Studies*, 13(4): 416–433. doi:10.1177/1750698017703810
-* Huemer, Michael, 1999, “The Problem of Memory Knowledge”, *Pacific Philosophical Quarterly*, 80(4): 346–357. doi:10.1111/1468-0114.00088
-* Jackson, Alexander, 2011, “Appearances, Rationality, and Justified Belief”, *Philosophy and Phenomenological Research*, 82(3): 564–593. doi:10.1111/j.1933-1592.2011.00493.x
-* James, Steven, 2017, “Epistemic and Non-Epistemic Theories of Remembering”, *Pacific Philosophical Quarterly*, 98(S1): 109–127. doi:10.1111/papq.12157
-* Kelly, Thomas, 2016, “Historical Versus Current Time Slice Theories in Epistemology”, in McLaughlin and Kornblith 2016: 43–65 (ch. 3). doi:10.1002/9781118609378.ch3
-* Lackey, Jennifer, 2005, “Memory as a Generative Epistemic Source”, *Philosophy and Phenomenological Research*, 70(3): 636–658. doi:10.1111/j.1933-1592.2005.tb00418.x
-* –––, 2007, “Why Memory Really *Is* a Generative Epistemic Source: A Reply to Senor”, *Philosophy and Phenomenological Research*, 74(1): 209–219. doi:10.1111/j.1933-1592.2007.00010.x
-* Lai, Changsheng, 2022, “Memory, Knowledge, and Epistemic Luck”, *The Philosophical Quarterly*, 72(4): 896–917. doi:10.1093/pq/pqab064
+* Hasan, Ali, 2021, “The Reliability of Memory: An Argument from the Armchair”, *Episteme*, 18(2): 142–159. doi: 10.1017/epi.2019.8
+* Heersmink, Richard and J. Adam Carter, 2020, “The Philosophy of Memory Technologies: Metaphysics, Knowledge, and Values”, *Memory Studies*, 13(4): 416–433. doi: 10.1177/1750698017703810
+* Huemer, Michael, 1999, “The Problem of Memory Knowledge”, *Pacific Philosophical Quarterly*, 80(4): 346–357. doi: 10.1111/1468-0114.00088
+* Jackson, Alexander, 2011, “Appearances, Rationality, and Justified Belief”, *Philosophy and Phenomenological Research*, 82(3): 564–593. doi: 10.1111/j.1933-1592.2011.00493.x
+* James, Steven, 2017, “Epistemic and Non-Epistemic Theories of Remembering”, *Pacific Philosophical Quarterly*, 98(S1): 109–127. doi: 10.1111/papq.12157
+* Kelly, Thomas, 2016, “Historical Versus Current Time Slice Theories in Epistemology”, in McLaughlin and Kornblith 2016: 43–65 (ch. 3). doi: 10.1002/9781118609378.ch3
+* Lackey, Jennifer, 2005, “Memory as a Generative Epistemic Source”, *Philosophy and Phenomenological Research*, 70(3): 636–658. doi: 10.1111/j.1933-1592.2005.tb00418.x
+* –––, 2007, “Why Memory Really *Is* a Generative Epistemic Source: A Reply to Senor”, *Philosophy and Phenomenological Research*, 74(1): 209–219. doi: 10.1111/j.1933-1592.2007.00010.x
+* Lai, Changsheng, 2022, “Memory, Knowledge, and Epistemic Luck”, *The Philosophical Quarterly*, 72(4): 896–917. doi: 10.1093/pq/pqab064
 * Lewis, C. I., 1946, *An Analysis of Knowledge and Valuation*, La Salle, IL: Open Court.
-* Locke, Don, 1971, *Memory*, (Problems of Philosophy), London: Macmillan. doi:10.1007/978-1-349-00702-8
+* Locke, Don, 1971, *Memory*, (Problems of Philosophy), London: Macmillan. doi: 10.1007/978-1-349-00702-8
 * Loftus, Elizabeth F., 1979 [1996], *Eyewitness Testimony*, Cambridge, MA: Harvard University Press. Second edition 1996.
-* Madison, Brent J. C., 2014, “Epistemic Internalism, Justification, and Memory”, *Logos & Episteme*, 5(1): 33–62. doi:10.5840/logos-episteme20145122
+* Madison, Brent J. C., 2014, “Epistemic Internalism, Justification, and Memory”, *Logos & Episteme*, 5(1): 33–62. doi: 10.5840/logos-episteme20145122
 * –––, 2017, “Internalism and Externalism”, in Bernecker and Michaelian 2017: 283–295 (ch. 22).
 * Malcolm, Norman, 1963, *Knowledge and Certainty: Essays and Lectures*, Englewood Cliffs, NJ: Prentice-Hall.
-* Malmgren, Anna-Sara, 2006, “Is There A Priori Knowledge by Testimony?”, *Philosophical Review*, 115(2): 199–241. doi:10.1215/00318108-115-2-199
+* Malmgren, Anna-Sara, 2006, “Is There A Priori Knowledge by Testimony?”, *Philosophical Review*, 115(2): 199–241. doi: 10.1215/00318108-115-2-199
 * Martin, Michael G. F., 2001, “Out of the Past: Episodic Recall as Retained Acquaintance”, in *Time and Memory: Issues in Philosophy and Psychology*, Christoph Hoerl and Teresa McCormack (eds.), Oxford: Clarendon Press, 257–284 (ch. 10).
-* McCain, Kevin, 2008, “The Virtues of Epistemic Conservatism”, *Synthese*, 164(2): 185–200. doi:10.1007/s11229-007-9222-5
-* –––, 2014, *Evidentialism and Epistemic Justification*, New York: Routledge. doi:10.4324/9781315882390
-* –––, 2015, “Is Forgotten Evidence a Problem for Evidentialism?”, *The Southern Journal of Philosophy*, 53(4): 471–480. doi:10.1111/sjp.12152
+* McCain, Kevin, 2008, “The Virtues of Epistemic Conservatism”, *Synthese*, 164(2): 185–200. doi: 10.1007/s11229-007-9222-5
+* –––, 2014, *Evidentialism and Epistemic Justification*, New York: Routledge. doi: 10.4324/9781315882390
+* –––, 2015, “Is Forgotten Evidence a Problem for Evidentialism?”, *The Southern Journal of Philosophy*, 53(4): 471–480. doi: 10.1111/sjp.12152
 * –––, 2019, “Epistemic Conservatism and the Basing Relation”, in *Well-Founded Belief: New Essays on the Epistemic Basing Relation*, J. Adam Carter and Patrick Bondy (eds.), New York: Routledge, pp. 210–214 (ch. 11).
-* McGrath, Matthew, 2007, “Memory and Epistemic Conservatism”, *Synthese*, 157(1): 1–24. doi:10.1007/s11229-006-0011-3
-* –––, 2016, “The Justification of Memory Beliefs: Evidentialism, Reliabilism, Conservatism”, in McLaughlin and Kornblith 2016: 69–87 (ch. 4). doi:10.1002/9781118609378.ch4
-* McLaughlin, Brian P. and Hilary Kornblith (eds.), 2016, *Goldman and His Critics*, (Philosophers and Their Critics), Malden, MA: Wiley Blackwell. doi:10.1002/9781118609378
-* Michaelian, Kourken, 2011a, “The Epistemology of Forgetting”, *Erkenntnis*, 74(3): 399–424. doi:10.1007/s10670-010-9232-4
-* –––, 2011b, “Generative Memory”, *Philosophical Psychology*, 24(3): 323–342. doi:10.1080/09515089.2011.559623
-* –––, 2011c, “Is Memory a Natural Kind?”, *Memory Studies*, 4(2): 170–189. doi:10.1177/1750698010374287
-* –––, 2012a, “Is External Memory Memory? Biological Memory and Extended Mind”, *Consciousness and Cognition*, 21(3): 1154–1165. doi:10.1016/j.concog.2012.04.008
-* –––, 2012b, “Metacognition and Endorsement”, *Mind & Language*, 27(3): 284–307. doi:10.1111/j.1468-0017.2012.01445.x
+* McGrath, Matthew, 2007, “Memory and Epistemic Conservatism”, *Synthese*, 157(1): 1–24. doi: 10.1007/s11229-006-0011-3
+* –––, 2016, “The Justification of Memory Beliefs: Evidentialism, Reliabilism, Conservatism”, in McLaughlin and Kornblith 2016: 69–87 (ch. 4). doi: 10.1002/9781118609378.ch4
+* McLaughlin, Brian P. and Hilary Kornblith (eds.), 2016, *Goldman and His Critics*, (Philosophers and Their Critics), Malden, MA: Wiley Blackwell. doi: 10.1002/9781118609378
+* Michaelian, Kourken, 2011a, “The Epistemology of Forgetting”, *Erkenntnis*, 74(3): 399–424. doi: 10.1007/s10670-010-9232-4
+* –––, 2011b, “Generative Memory”, *Philosophical Psychology*, 24(3): 323–342. doi: 10.1080/09515089.2011.559623
+* –––, 2011c, “Is Memory a Natural Kind?”, *Memory Studies*, 4(2): 170–189. doi: 10.1177/1750698010374287
+* –––, 2012a, “Is External Memory Memory? Biological Memory and Extended Mind”, *Consciousness and Cognition*, 21(3): 1154–1165. doi: 10.1016/j.concog.2012.04.008
+* –––, 2012b, “Metacognition and Endorsement”, *Mind & Language*, 27(3): 284–307. doi: 10.1111/j.1468-0017.2012.01445.x
 * –––, 2012c, “(Social) Metacognition and (Self-) Trust”, *Review of Philosophy and Psychology* 3(4): 481–514.
-* –––, 2013, “The Information Effect: Constructive Memory, Testimony, and Epistemic Luck”, *Synthese*, 190(12): 2429–2456. doi:10.1007/s11229-011-9992-7
-* –––, 2016, *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*, (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: The MIT Press. doi:10.7551/mitpress/10591.001.0001
-* Michaelian, Kourken, Dorothea Debus, and Denis Perrin (eds.), 2018, *New Directions in the Philosophy of Memory*, (Routledge Studies in Contemporary Philosophy), New York: Routledge. doi:10.4324/9781315159591
-* Moon, Andrew, 2012a, “Knowing Without Evidence”, *Mind*, 121(482): 309–331. doi:10.1093/mind/fzs048
-* –––, 2012b, “Three Forms of Internalism and the New Evil Demon Problem”, *Episteme*, 9(4): 345–360. doi:10.1017/epi.2012.26
-* –––, 2013, “Remembering Entails Knowing”, *Synthese*, 190(14): 2717–2729. doi:10.1007/s11229-012-0065-3
+* –––, 2013, “The Information Effect: Constructive Memory, Testimony, and Epistemic Luck”, *Synthese*, 190(12): 2429–2456. doi: 10.1007/s11229-011-9992-7
+* –––, 2016, *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*, (Life and Mind : Philosophical Issues in Biology and Psychology), Cambridge, MA: The MIT Press. doi: 10.7551/mitpress/10591.001.0001
+* Michaelian, Kourken, Dorothea Debus, and Denis Perrin (eds.), 2018, *New Directions in the Philosophy of Memory*, (Routledge Studies in Contemporary Philosophy), New York: Routledge. doi: 10.4324/9781315159591
+* Moon, Andrew, 2012a, “Knowing Without Evidence”, *Mind*, 121(482): 309–331. doi: 10.1093/mind/fzs048
+* –––, 2012b, “Three Forms of Internalism and the New Evil Demon Problem”, *Episteme*, 9(4): 345–360. doi: 10.1017/epi.2012.26
+* –––, 2013, “Remembering Entails Knowing”, *Synthese*, 190(14): 2717–2729. doi: 10.1007/s11229-012-0065-3
 * –––, 2017, “Skepticism and Memory”, in Bernecker and Michaelian 2017: 335–347 (ch. 26).
-* Moss, Sarah, 2015, “Time–Slice Epistemology and Action under Indeterminacy”, in *Oxford Studies in Epistemology Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 172–194. doi:10.1093/acprof:oso/9780198722762.003.0006
-* Naylor, Andrew, 2012, “Belief from the Past”, *European Journal of Philosophy*, 20(4): 598–620. doi:10.1111/j.1468-0378.2010.00423.x
-* –––, 2015, “Justification and Forgetting”, *Pacific Philosophical Quarterly*, 96(3): 372–391. doi:10.1111/papq.12076
+* Moss, Sarah, 2015, “Time–Slice Epistemology and Action under Indeterminacy”, in *Oxford Studies in Epistemology Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford: Oxford University Press, 172–194. doi: 10.1093/acprof: oso/9780198722762.003.0006
+* Naylor, Andrew, 2012, “Belief from the Past”, *European Journal of Philosophy*, 20(4): 598–620. doi: 10.1111/j.1468-0378.2010.00423.x
+* –––, 2015, “Justification and Forgetting”, *Pacific Philosophical Quarterly*, 96(3): 372–391. doi: 10.1111/papq.12076
 * Olsson, Erik J., 2017, “Coherentism”, in Bernecker and Michaelian 2017: 310–322 (ch. 24).
-* Owens, David, 1996, “A Lockean Theory of Memory Experience”, *Philosophy and Phenomenological Research*, 56(2): 319–332. doi:10.2307/2108522
-* –––, 1999, “The Authority of Memory”, *European Journal of Philosophy*, 7(3): 312–329. doi:10.1111/1468-0378.00091
-* –––, 2000, *Reason without Freedom: The Problem of Epistemic Normativity*, (International Library of Philosophy), London/New York: Routledge. doi:10.4324/9780203464601
-* Pappas, George S., 1980, “Lost Justification”, *Midwest Studies in Philosophy*, 5: 127–134. doi:10.1111/j.1475-4975.1980.tb00400.x
-* –––, 1983, “Ongoing Knowledge”, *Synthese*, 55(2): 253–267. doi:10.1007/BF00485071
+* Owens, David, 1996, “A Lockean Theory of Memory Experience”, *Philosophy and Phenomenological Research*, 56(2): 319–332. doi: 10.2307/2108522
+* –––, 1999, “The Authority of Memory”, *European Journal of Philosophy*, 7(3): 312–329. doi: 10.1111/1468-0378.00091
+* –––, 2000, *Reason without Freedom: The Problem of Epistemic Normativity*, (International Library of Philosophy), London/New York: Routledge. doi: 10.4324/9780203464601
+* Pappas, George S., 1980, “Lost Justification”, *Midwest Studies in Philosophy*, 5: 127–134. doi: 10.1111/j.1475-4975.1980.tb00400.x
+* –––, 1983, “Ongoing Knowledge”, *Synthese*, 55(2): 253–267. doi: 10.1007/BF00485071
 * –––, 1987, “Suddenly He Knows”, in *The Possibility of Knowledge: Nozick and His Critics*, Steven Luper (ed.), Totowa, NJ: Rowman & Littlefield.
-* Piazza, Tommaso, 2009, “Evidentialism and the Problem of Stored Beliefs”, *Philosophical Studies*, 145(2): 311–324. doi:10.1007/s11098-008-9233-1
+* Piazza, Tommaso, 2009, “Evidentialism and the Problem of Stored Beliefs”, *Philosophical Studies*, 145(2): 311–324. doi: 10.1007/s11098-008-9233-1
 * Pollock, John, 1986, *Contemporary Theories of Knowledge*, Totowa, NJ: Rowman & Littlefield.
-* Poston, Ted, 2014, *Reason and Explanation: A Defense of Explanatory Coherentism*, London: Palgrave Macmillan UK. doi:10.1057/9781137012265
-* Proust, Joëlle, 2013, *The Philosophy of Metacognition: Mental Agency and Self-Awareness*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199602162.001.0001
-* Puddifoot, Katherine and Lisa Bortolotti, 2019, “Epistemic Innocence and the Production of False Memory Beliefs”, *Philosophical Studies*, 176(3): 755–780. doi:10.1007/s11098-018-1038-2
+* Poston, Ted, 2014, *Reason and Explanation: A Defense of Explanatory Coherentism*, London: Palgrave Macmillan UK. doi: 10.1057/9781137012265
+* Proust, Joëlle, 2013, *The Philosophy of Metacognition: Mental Agency and Self-Awareness*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199602162.001.0001
+* Puddifoot, Katherine and Lisa Bortolotti, 2019, “Epistemic Innocence and the Production of False Memory Beliefs”, *Philosophical Studies*, 176(3): 755–780. doi: 10.1007/s11098-018-1038-2
 * Russell, Bertrand, 1921, *The Analysis of Mind*, London: George Allen & Unwin.
-* Sakuragi, Shin, 2013, “Propositional Memory and Knowledge”, *Logos & Episteme*, 4(1): 69–83. doi:10.5840/logos-episteme20134140
-* Salvaggio, Mary, 2018, “The Justification of Reconstructive and Reproductive Memory Beliefs”, *Philosophical Studies*, 175(3): 649–663. doi:10.1007/s11098-017-0886-5
+* Sakuragi, Shin, 2013, “Propositional Memory and Knowledge”, *Logos & Episteme*, 4(1): 69–83. doi: 10.5840/logos-episteme20134140
+* Salvaggio, Mary, 2018, “The Justification of Reconstructive and Reproductive Memory Beliefs”, *Philosophical Studies*, 175(3): 649–663. doi: 10.1007/s11098-017-0886-5
 * Schacter, Daniel L., 1996, *Searching for Memory: The Brain, the Mind, and the Past*, New York: Basic Books.
 * –––, 2001, *The Seven Sins of Memory: How the Mind Forgets and Remembers*, Boston: Houghton Mifflin Harcourt.
-* Schroer, Robert, 2008, “Memory Foundationalism and the Problem of Unforgotten Carelessness”, *Pacific Philosophical Quarterly*, 89(1): 74–85. doi:10.1111/j.1468-0114.2008.00310.x
-* Senor, Thomas D., 1993, “Internalistic Foundationalism and the Justification of Memory Belief”, *Synthese*, 94(3): 453–476. doi:10.1007/BF01064489
-* –––, 2007, “Preserving Preservationism: A Reply to Lackey”, *Philosophy and Phenomenological Research*, 74(1): 199–208. doi:10.1111/j.1933-1592.2007.00009.x
+* Schroer, Robert, 2008, “Memory Foundationalism and the Problem of Unforgotten Carelessness”, *Pacific Philosophical Quarterly*, 89(1): 74–85. doi: 10.1111/j.1468-0114.2008.00310.x
+* Senor, Thomas D., 1993, “Internalistic Foundationalism and the Justification of Memory Belief”, *Synthese*, 94(3): 453–476. doi: 10.1007/BF01064489
+* –––, 2007, “Preserving Preservationism: A Reply to Lackey”, *Philosophy and Phenomenological Research*, 74(1): 199–208. doi: 10.1111/j.1933-1592.2007.00009.x
 * –––, 2010, “Memory”, in *A Companion to Epistemology*, second edition, Jonathan Dancy, Ernest Sosa, and Matthias Steup (eds.), Malden, MA: Wiley-Blackwell, 520–524.
 * –––, 2017, “Preservation and Generation”, in Bernecker and Michaelian 2017: 323–334 (ch. 25).
-* Shanton, Karen, 2011, “Memory, Knowledge and Epistemic Competence”, *Review of Philosophy and Psychology*, 2(1): 89–104. doi:10.1007/s13164-010-0038-8
+* Shanton, Karen, 2011, “Memory, Knowledge and Epistemic Competence”, *Review of Philosophy and Psychology*, 2(1): 89–104. doi: 10.1007/s13164-010-0038-8
 * Shoemaker, Sydney, 1967, “Memory”, in *The Encyclopedia of Philosophy* (Vol. 5), Paul Edwards (ed.), New York: Macmillan.
 * Steup, Matthias and Ernest Sosa (eds.), 2005, *Contemporary Debates in Epistemology*, (Contemporary Debates in Philosophy 3), Malden, MA: Blackwell.
 * Sutton, John and Kellie Williamson, 2014, “Embodied Remembering”, in *The Routledge Handbook of Embodied Cognition*, Lawrence Shapiro (ed.), Abingdon: Routledge, 315–325.
-* Taylor, Richard, 1956, “The ‘Justification’ of Memories and the Analogy of Vision”, *The Philosophical Review*, 65(2): 192–205. doi:10.2307/2182831
-* Teroni, Fabrice, 2014, “The Epistemological Disunity of Memory”, in *Mind, Values, and Metaphysics: Philosophical Essays in Honor of Kevin Mulligan, Volume 2*, Anne Reboul (ed.), Cham: Springer International Publishing, 183–202. doi:10.1007/978-3-319-05146-8_12
+* Taylor, Richard, 1956, “The ‘Justification’ of Memories and the Analogy of Vision”, *The Philosophical Review*, 65(2): 192–205. doi: 10.2307/2182831
+* Teroni, Fabrice, 2014, “The Epistemological Disunity of Memory”, in *Mind, Values, and Metaphysics: Philosophical Essays in Honor of Kevin Mulligan, Volume 2*, Anne Reboul (ed.), Cham: Springer International Publishing, 183–202. doi: 10.1007/978-3-319-05146-8_12
 * –––, 2018, “On Seeming to Remember”, in Michaelian, Debus, and Perrin 2018: 329–345 (ch. 17).
 * Tulving, Endel, 1972, “Episodic and Semantic Memory”, in *Organization of Memory*, Endel Tulving and Wayne Donaldson (eds.), New York: Academic Press, pp. 381–403.
-* Weatherson, Brian, 2015, “Memory, Belief and Time”, *Canadian Journal of Philosophy*, 45(5–6): 692–715. doi:10.1080/00455091.2015.1125250
-* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford/New York: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Weatherson, Brian, 2015, “Memory, Belief and Time”, *Canadian Journal of Philosophy*, 45(5–6): 692–715. doi: 10.1080/00455091.2015.1125250
+* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford/New York: Oxford University Press. doi: 10.1093/019925656X.001.0001
 
 ## Other Internet Resources
 

@@ -10,9 +10,9 @@
 
 亚里士多德写了两部伦理论著：《Nicomachean Ethics》和《Eudemian Ethics》。他本人并没有使用这两个标题，尽管在《政治学》（1295a36）中，他回顾了其中一部——可能是《Eudemian Ethics》——作为他关于品德的著作。后来加上了“尤德米安”和“尼科马科斯”这两个词，可能是因为前者由他的朋友尤德莫斯编辑，后者由他的儿子尼科马科斯编辑。无论如何，这两部作品基本上涵盖了相同的内容：它们从对幸福和繁荣的讨论开始，然后转向对德行（“美德”、“卓越”）的本质和人类为了过上最好的生活所需要的品质的审查。这两部论著都考察了适当赞扬或责备的条件，以及快乐和友谊的本质；在每部作品的末尾，我们可以找到一段关于人与神之间适当关系的简短讨论。
 
-尽管每部作品所表达的总体观点是相同的，但在组织和内容上存在许多微妙的差异。显然，其中一部是对另一部的重新改编，虽然没有单一的证据能够确切地显示它们的顺序，但普遍认为Nicomachean Ethics是Eudemian Ethics的后期和改进版本。（并非Eudemian Ethics的所有部分都经过修订：它的第四、五和六卷重新出现为Nicomachean Ethics的第五、六和七卷。）也许最能说明这种排序的迹象是，在几个实例中，Nicomachean Ethics发展了一个Eudemian Ethics中没有提及的主题。只有Nicomachean Ethics讨论了伦理探究与政治之间的密切关系；只有Nicomachean Ethics批判性地审视了苏伦的悖论性格言，即一个人只有死了才能算是幸福；只有Nicomachean Ethics提出了一系列论证，证明哲学生活优于政治生活。因此，本文的其余部分将重点关注这部作品。（注：此后的页码和行号将指代这篇论文。）
+尽管每部作品所表达的总体观点是相同的，但在组织和内容上存在许多微妙的差异。显然，其中一部是对另一部的重新改编，虽然没有单一的证据能够确切地显示它们的顺序，但普遍认为 Nicomachean Ethics 是 Eudemian Ethics 的后期和改进版本。（并非 Eudemian Ethics 的所有部分都经过修订：它的第四、五和六卷重新出现为 Nicomachean Ethics 的第五、六和七卷。）也许最能说明这种排序的迹象是，在几个实例中，Nicomachean Ethics 发展了一个 Eudemian Ethics 中没有提及的主题。只有 Nicomachean Ethics 讨论了伦理探究与政治之间的密切关系；只有 Nicomachean Ethics 批判性地审视了苏伦的悖论性格言，即一个人只有死了才能算是幸福；只有 Nicomachean Ethics 提出了一系列论证，证明哲学生活优于政治生活。因此，本文的其余部分将重点关注这部作品。（注：此后的页码和行号将指代这篇论文。）
 
-第三篇论文被称为《大伦理学》（"大伦理学"）的《大伦理学》被包括在亚里士多德著作的完整版本中，但其作者身份存在争议。它涵盖了其他两部作品中更详细讨论的主题，观点与它们相似。（为什么它被称为《大伦理学》？因为它被分为两卷纸卷，每卷都异常长。就像一只大老鼠可以是一只小动物一样，两个大章节可以组成一本小书。这部作品显然是根据其部分而非整体而被称为“大”。）古代有几位作者提到了这个名字的作品，并将其归功于亚里士多德，但它并未被几位权威人士提及，比如西塞罗和狄奥根尼斯·拉尔修斯，我们本来期望他们会知道它。一些学者认为这是亚里士多德关于伦理学的最早课程 - 也许是他自己的讲义或学生的讲义；其他人则认为它是亚里士多德真正的伦理学著作的后期编纂或改编。
+第三篇论文被称为《大伦理学》（"大伦理学"）的《大伦理学》被包括在亚里士多德著作的完整版本中，但其作者身份存在争议。它涵盖了其他两部作品中更详细讨论的主题，观点与它们相似。（为什么它被称为《大伦理学》？因为它被分为两卷纸卷，每卷都异常长。就像一只大老鼠可以是一只小动物一样，两个大章节可以组成一本小书。这部作品显然是根据其部分而非整体而被称为“大”。）古代有几位作者提到了这个名字的作品，并将其归功于亚里士多德，但它并未被几位权威人士提及，比如西塞罗和狄奥根尼斯 · 拉尔修斯，我们本来期望他们会知道它。一些学者认为这是亚里士多德关于伦理学的最早课程 - 也许是他自己的讲义或学生的讲义；其他人则认为它是亚里士多德真正的伦理学著作的后期编纂或改编。
 
 尽管亚里士多德在道德哲学上深受柏拉图的影响，特别是柏拉图的核心洞察力，即道德思维必须与我们的情感和欲望相结合，并且这种性格的统一准备工作应该从儿童教育开始，但亚里士多德对这些主题的系统性讨论是一项引人注目的创新。在亚里士多德之前，没有人写过伦理学著作。例如，柏拉图的《理想国》并没有将伦理学作为一个独立的主题来论述；它也没有对幸福、美德、自愿性、快乐或友谊的本质进行系统的研究。当然，在柏拉图的作品中，我们可以找到对这些现象的重要讨论，但它们没有像在亚里士多德的伦理著作中那样被整合和统一起来。
 
@@ -146,7 +146,7 @@
 
 ## 8. 乐趣
 
-亚里士多德经常强调乐趣对人生的重要性，因此对他研究我们应该如何生活的重要性（例如见 1099a7-20 和 1104b3-1105a16），但他对乐趣的性质和价值的全面考察可以在两个地方找到：第七章 11-14 和第十章 1-5。奇怪的是乐趣接受了两次详细的处理；伦理学中没有其他主题以这种方式重新讨论。Nicomachean Ethics的第七章与Eudemian Ethics的第六章完全相同；由于未知的原因，前者的编辑决定在其中包括既是该作品独有的乐趣处理（X.1-5），又是两个论文共同研究的部分（VII.11-14）。这两个论述在很大程度上是相似的。它们对乐趣的价值持相同观点，捍卫有关其性质的理论，并反对竞争理论。亚里士多德认为幸福的生活必须包括乐趣，因此他反对那些认为乐趣本质上是坏的人。他坚持认为除了感官的乐趣之外还有其他乐趣，并且最好的乐趣是由具有足够资源进行优秀活动的有德行的人所体验的乐趣。
+亚里士多德经常强调乐趣对人生的重要性，因此对他研究我们应该如何生活的重要性（例如见 1099a7-20 和 1104b3-1105a16），但他对乐趣的性质和价值的全面考察可以在两个地方找到：第七章 11-14 和第十章 1-5。奇怪的是乐趣接受了两次详细的处理；伦理学中没有其他主题以这种方式重新讨论。Nicomachean Ethics 的第七章与 Eudemian Ethics 的第六章完全相同；由于未知的原因，前者的编辑决定在其中包括既是该作品独有的乐趣处理（X.1-5），又是两个论文共同研究的部分（VII.11-14）。这两个论述在很大程度上是相似的。它们对乐趣的价值持相同观点，捍卫有关其性质的理论，并反对竞争理论。亚里士多德认为幸福的生活必须包括乐趣，因此他反对那些认为乐趣本质上是坏的人。他坚持认为除了感官的乐趣之外还有其他乐趣，并且最好的乐趣是由具有足够资源进行优秀活动的有德行的人所体验的乐趣。
 
 第七册简要介绍了快乐的本质和非本质。快乐不是一个过程，而是一种自然状态的畅通无阻的活动（1153a7-17）。亚里士多德没有详细说明什么是自然状态，但显然他指的是身体的健康状况，尤其是感官能力的健康状态和灵魂的美德状态。关于活动无阻的含义，亚里士多德没有多少论述，但他提醒我们，美德的活动会受到外部物质供应不足的阻碍（1153b17-19）。有人可能会反对说，即使生病或道德有缺陷的人也能体验到快乐，尽管亚里士多德并不认为他们处于自然状态。他有两种策略来回应。首先，当一个生病的人在恢复健康的过程中体验到一定程度的快乐时，他所感受到的快乐是因为他不再完全生病。他的一小部分处于自然状态，并且没有受到阻碍（1152b35-6）。其次，亚里士多德愿意说，对某些人来说似乎令人愉快的事物实际上可能并不令人愉快（1152b31-2），就像对一个不健康的味觉来说苦味可能并不苦。将某物称为快乐不仅仅是报告一种心态，还是向他人认可它。亚里士多德对快乐本质的分析并不适用于每一种对某人来说似乎令人愉快的情况，而只适用于真正的快乐活动。所有这些都是自然状态的畅通无阻的活动。
 
@@ -319,13 +319,13 @@ Lockwood 2005.
 
 * *Nicomachean Ethics*
   * 2012, *Aristotle’s Nicomachean Ethics*, Robert C. Bartlett, and Susan D. Collins (eds/trans.), Chicago: The University of Chicago Press.
-  * 2000, *Nicomachean Ethics*, Roger Crisp (ed./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511802058
+  * 2000, *Nicomachean Ethics*, Roger Crisp (ed./trans.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511802058
   * 1999, *Nicomachean Ethics*, Terence H. Irwin (ed./trans.), Indianapolis: Hackett Publishing Co. With Introduction, Notes, and Glossary. Second edition.
   * 2014, *Nicomachean Ethics*, C.D.C. Reeve, Indianapolis: Hackett Publishing Co.
   * 1984, *Nicomachean Ethics*, W.D. Ross (trans.), revised by J.O. Urmson, in *The Complete Works of Aristotle*, The Revised Oxford Translation, vol. 2, Jonathan Barnes (ed.), Princeton: Princeton University Press, 1984.
   * 2002, *Nicomachean Ethics*, Christopher Rowe (trans.), Oxford: Oxford University Press, With philosophical introduction and commentary by Sarah Broadie.
 * *Eudemian Ethics*
-  * 2013, *Eudemian Ethics*, (Cambridge Texts in the History of Philosophy), Brad Inwood and Raphael Woolf (eds./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043281
+  * 2013, *Eudemian Ethics*, (Cambridge Texts in the History of Philosophy), Brad Inwood and Raphael Woolf (eds./trans.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139043281
   * 2011, *Eudemian Ethics*, (Oxford World’s Classics), Anthony Kenny (ed./trans.), Oxford: Oxford University Press.
   * 1984, *Eudemian Ethics*, J. Solomon (trans.), in *The Complete Works of Aristotle*, The Revised Oxford Translation, volume 2, Jonathan Barnes (ed.), Princeton: Princeton University Press.
   * 1952, *Eudemian Ethics*, H. Rackham (trans.), in the Loeb Classical Library, Aristotle, vol. 20, Cambridge, MA: Harvard University Press.
@@ -333,10 +333,10 @@ Lockwood 2005.
 
 ### Secondary Literature
 
-* Annas, Julia, 1977, “Plato and Aristotle on Friendship and Altruism”, *Mind*, 86: 532–54. doi:10.1093/mind/LXXXVI.344.532
-* –––, 1993, *The Morality of Happiness*, New York: Oxford University Press. doi:10.1093/0195096525.001.0001
+* Annas, Julia, 1977, “Plato and Aristotle on Friendship and Altruism”, *Mind*, 86: 532–54. doi: 10.1093/mind/LXXXVI.344.532
+* –––, 1993, *The Morality of Happiness*, New York: Oxford University Press. doi: 10.1093/0195096525.001.0001
 * Anton, John P. & Anthony Preus (eds.), 1991, *Aristotle’s Ethics: Essays in Ancient Greek Philosophy*, vol. 5, Albany, NY: The State University of New York Press, 1991.
-* Austin, J. L., 1957 [1961], “A Plea for Excuses: The Presidential Address”, *Proceedings of the Aristotelian Society*, 57: 1–30. Reprinted in his *Philosophical Papers*, Oxford: Clarendon Press, 1961. doi:10.1093/aristotelian/57.1.1
+* Austin, J. L., 1957 [1961], “A Plea for Excuses: The Presidential Address”, *Proceedings of the Aristotelian Society*, 57: 1–30. Reprinted in his *Philosophical Papers*, Oxford: Clarendon Press, 1961. doi: 10.1093/aristotelian/57.1.1
 * Barnes, Jonathan, 1980, “Aristotle and the Methods of Ethics”, *Revue Internationale de la Philosophie*, 34(133/134): 490–511.
 * Barnes, Jonathan, Malcolm Schofield, and Richard Sorabji (eds.), 1977, *Articles on Aristotle*, vol. 2, *Ethics and Politics*, London: Duckworth, 1977.
 * Barney, Rachel, 2008, “Aristotle’s Argument for a Human Function”, *Oxford Studies in Ancient Philosophy*, 34(Summer): 293–322.
@@ -345,14 +345,14 @@ Lockwood 2005.
 * Bielskis, Andrius, Eleni Leontsinia, and Kelvin Knight (eds.), 2020, *Virtue Ethics and Contemporary Aristotelianism: Modernity, Conflict, and Politics*, London: Bloomsbury Academic.
 * Bobonich, Christopher and Pierre Destree (eds.), 2007, *Akrasia in Greek Philosophy: From Socrates to Plotinus*, Leiden: Brill.
 * Bostock, David, 2000, *Aristotle’s Ethics*, Oxford: Oxford University Press.
-* Brewer, Talbot, 2005, “Virtues We Can Share: Friendship and Aristotelian Ethical Theory”, *Ethics*, 115(4): 721–758. doi:10.1086/430489
+* Brewer, Talbot, 2005, “Virtues We Can Share: Friendship and Aristotelian Ethical Theory”, *Ethics*, 115(4): 721–758. doi: 10.1086/430489
 * Brickhouse, Thomas C., 2003, “Does Aristotle Have a Consistent Account of Vice?” *Review of Metaphysics*, 57(1): 3–23.
-* Broadie, Sarah, 1991, *Ethics with Aristotle*, New York: Oxford University Press. doi:10.1093/0195085604.001.0001
+* Broadie, Sarah, 1991, *Ethics with Aristotle*, New York: Oxford University Press. doi: 10.1093/0195085604.001.0001
 * –––, 1998, “Interpreting Aristotle’s Directions”, in Gentzler 1998: 291–306.
 * –––, 2005, “On the Idea of the *Summum Bonum*”, in Gill 2005: 41–58 (ch. 2). Reprinted in Broadie 2007b: 135–152 (ch. 9).
-* –––, 2006, “Aristotle and Contemporary Ethics”, in Kraut 2006: 342–361. Reprinted in Broadie 2007b: 113–134. doi:10.1002/9780470776513.ch16
+* –––, 2006, “Aristotle and Contemporary Ethics”, in Kraut 2006: 342–361. Reprinted in Broadie 2007b: 113–134. doi: 10.1002/9780470776513.ch16
 * –––, 2007a, “What Should We Mean by ‘The Highest Good’?”, in Broadie 2007b: 153–165 (ch. 10).
-* –––, 2007b, *Aristotle and Beyond: Essays on Metaphysics and Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511551086
+* –––, 2007b, *Aristotle and Beyond: Essays on Metaphysics and Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511551086
 * Brown, Lesley, 1997, “What is the Mean Relative to Us in Aristotle’s Ethics?” *Phronesis*, 42: 77–93.
 * Brunschwig, Jacques, 1996, “The Aristotelian Theory of Equity”, in Michael Frede & Gisela Striker (eds.), *Rationality in Greek Thought*, Oxford: Clarendon Press, pp. 115–155.
 * Burger, Ronna, 2008, *Aristotle’s Dialogue with Socrates: on the Nicomachean Ethics*, Chicago: The University of Chicago Press.
@@ -360,21 +360,21 @@ Lockwood 2005.
 * Charles, David, 1984, *Aristotle’s Philosophy of Action*, London: Duckworth.
 * –––, 1999, “Aristotle on Well-Being and Intellectual Contemplation”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 73: 205–223.
 * –––, 2007, “Aristotle’s Weak Akrates: What does her Ignorance Consist in?”, in Bobonich and Destree 2007: 139–166.
-* Clark, Stephen R.L., 1975, *Aristotle’s Man: Speculations upon Aristotelian Anthropology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198245162.001.0001
-* Coope, Ursula, 2012, “Why does Aristotle Think that Ethical Virtue is Required for Practical Wisdom?” *Phronesis*, 57(2): 142–163. doi:10.1163/156852812X628998
+* Clark, Stephen R.L., 1975, *Aristotle’s Man: Speculations upon Aristotelian Anthropology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198245162.001.0001
+* Coope, Ursula, 2012, “Why does Aristotle Think that Ethical Virtue is Required for Practical Wisdom?” *Phronesis*, 57(2): 142–163. doi: 10.1163/156852812X628998
 * Cooper, John M., 1986, *Reason and Human Good in Aristotle*, Indianapolis: Hackett.
 * –––, 1999, *Reason and Emotion: Essays on Ancient Moral Psychology and Ethical Theory*, Princeton: Princeton University Press.
-* Cooper, Neil, 1989, “Aristotle’s Crowning Virtue”, *Apeiron*, 22(3): 191–205. doi:10.1515/APEIRON.1989.22.3.191
+* Cooper, Neil, 1989, “Aristotle’s Crowning Virtue”, *Apeiron*, 22(3): 191–205. doi: 10.1515/APEIRON.1989.22.3.191
 * Curzer, Howard J., 1990, “A Great Philosopher’s Not So Great Account of Great Virtue: Aristotle’s Treatment of ‘Greatness of Soul’”, *Canadian Journal of Philosophy*, 20(4): 517–537.
-* Curzer, Howard J., 1991, “The Supremely Happy Life in Aristotle’s *Nicomachean Ethics*”, *Apeiron*, 24(1): 47–69. doi:10.1515/APEIRON.1991.24.1.47
-* –––, 1995, “Aristotle’s Account of the Virtue of Justice”, *Apeiron*, 28(3): 207–238. doi:10.1515/APEIRON.1995.28.3.207
-* –––, 1996, “A Defense of Aristotle’s Doctrine that Virtue Is a Mean”, *Ancient Philosophy*, 16(1): 129–138. doi:10.5840/ancientphil199616116
-* –––, 1997, “Aristotle’s Account of the Virtue of Temperance in *Nicomachean Ethics* III 10–11”, *Journal of the History of Philosophy*, 35(1): 5–25. doi:10.1353/hph.1997.0008
+* Curzer, Howard J., 1991, “The Supremely Happy Life in Aristotle’s *Nicomachean Ethics*”, *Apeiron*, 24(1): 47–69. doi: 10.1515/APEIRON.1991.24.1.47
+* –––, 1995, “Aristotle’s Account of the Virtue of Justice”, *Apeiron*, 28(3): 207–238. doi: 10.1515/APEIRON.1995.28.3.207
+* –––, 1996, “A Defense of Aristotle’s Doctrine that Virtue Is a Mean”, *Ancient Philosophy*, 16(1): 129–138. doi: 10.5840/ancientphil199616116
+* –––, 1997, “Aristotle’s Account of the Virtue of Temperance in *Nicomachean Ethics* III 10–11”, *Journal of the History of Philosophy*, 35(1): 5–25. doi: 10.1353/hph.1997.0008
 * –––, 2005, “How Good People Do Bad Things: Aristotle on the Misdeeds of the Virtuous”, *Oxford Studies in Ancient Philosophy*, 28(Summer): 233–272.
-* –––, 2012, *Aristotle and the Virtues*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693726.001.0001
+* –––, 2012, *Aristotle and the Virtues*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199693726.001.0001
 * Dahl, Norman O., 1984, *Practical Reason, Aristotle, and Weakness of Will*, Minneapolis, MN: University of Minnesota Press.
 * Destrée, Pierre, 2007, “Aristotle on the Causes of Akrasia”, in Bobonich and Destree 2007: 139–166.
-* Di Muzio, Gianluca, 2000, “Aristotle on Improving One’s Character”, *Phronesis*, 45(3): 205–219. doi:10.1163/156852800510180
+* Di Muzio, Gianluca, 2000, “Aristotle on Improving One’s Character”, *Phronesis*, 45(3): 205–219. doi: 10.1163/156852800510180
 * Engberg-Pedersen, Troels, 1983, *Aristotle’s Theory of Moral Insight*, Oxford: Clarendon Press.
 * Engstrom, Stephen and Jennifer Whiting (eds.), 1996, *Aristotle, Kant, and the Stoics*, Cambridge: Cambridge University Press.
 * Fortenbaugh, W.W., 1975, *Aristotle on Emotion*, London: Duckworth.
@@ -387,172 +387,172 @@ Lockwood 2005.
 * Gentzler, Jyl (ed.), 1998, *Method in Ancient Philosophy*, Oxford: Clarendon Press.
 * Gerson, Lloyd, 2004, “Platonism in Aristotle’s Ethics”, *Oxford Studies in Ancient Philosophy*, 27(Winter): 217–48.
 * Gill, Christopher (ed.), 2005, *Virtue, Norms, and Objectivity: Issues in Ancient and Modern Ethics*, Oxford: Clarendon Press.
-* Gomez-Lobo, Alfonso, 1989, “The *Ergon* Inference”, *Phronesis*, 34(1): 170–84. doi:10.1163/156852889X00116
-* Gosling, J.C.B. & C.C.W. Taylor, 1982, *The Greeks on Pleasure*, Oxford: Clarendon Press, Chapters 11–17. doi:10.1093/acprof:oso/9780198246664.001.0001
-* Gottlieb, Paula, 1991, “Aristotle and Protagoras: The Good Human Being as the Measure of Goods”, *Apeiron*, 24(1): 25–45. doi:10.1515/APEIRON.1991.24.1.25
+* Gomez-Lobo, Alfonso, 1989, “The *Ergon* Inference”, *Phronesis*, 34(1): 170–84. doi: 10.1163/156852889X00116
+* Gosling, J.C.B. & C.C.W. Taylor, 1982, *The Greeks on Pleasure*, Oxford: Clarendon Press, Chapters 11–17. doi: 10.1093/acprof: oso/9780198246664.001.0001
+* Gottlieb, Paula, 1991, “Aristotle and Protagoras: The Good Human Being as the Measure of Goods”, *Apeiron*, 24(1): 25–45. doi: 10.1515/APEIRON.1991.24.1.25
 * –––, 1993, “Aristotle’s Measure Doctrine and Pleasure”, *Archiv für Geschichte der Philosophie*, 75(1): 31–46. doi: 10.1515/agph.1993.75.1.31
-* –––, 1994a, “Aristotle’s ‘Nameless’ Virtues”, *Apeiron*, 27(1): 1–15. doi:10.1515/APEIRON.1994.27.1.1
-* –––, 1994b, “Aristotle on Dividing the Soul and Uniting the Virtues”, *Phronesis*, 39(3): 275–290. doi:10.1163/156852894321052081
-* –––, 1996, “Aristotle’s Ethical Egoism”, *Pacific Philosophical Quarterly*, 77(1): 1–18. doi:10.1111/j.1468-0114.1996.tb00155.x
-* –––, 2009, *The Virtue of Aristotle’s Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511581526
+* –––, 1994a, “Aristotle’s ‘Nameless’ Virtues”, *Apeiron*, 27(1): 1–15. doi: 10.1515/APEIRON.1994.27.1.1
+* –––, 1994b, “Aristotle on Dividing the Soul and Uniting the Virtues”, *Phronesis*, 39(3): 275–290. doi: 10.1163/156852894321052081
+* –––, 1996, “Aristotle’s Ethical Egoism”, *Pacific Philosophical Quarterly*, 77(1): 1–18. doi: 10.1111/j.1468-0114.1996.tb00155.x
+* –––, 2009, *The Virtue of Aristotle’s Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511581526
 * –––, 2021, *Aristotle on Thought and Feeling*, Cambridge: Cambridge University Press.
 * Gröngross, Gösta, 2007, “Listening to Reason in Aristotle’s Moral Psychology”, *Oxford Studies in Ancient Philosophy*, 32(Summer): 251–272.
 * Hall, Edith, 2019, *Aristotle’s Way: How Ancient Wisdom Can Change Your Life*, London: The Bodley Head.
 * Halper, Edward, 1999, “The Unity of the Virtues in Aristotle”, *Oxford Studies in Ancient Philosophy*, 17: 115–144.
-* Hardie, W.F.R., 1978, “*Magnanimity* in Aristotle’s Ethics”, *Phronesis*, 78(1): 63–79. doi:10.1163/156852878X00226
-* –––, 1980, *Aristotle’s Ethical Theory*, second edition, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198246329.001.0001
+* Hardie, W.F.R., 1978, “*Magnanimity* in Aristotle’s Ethics”, *Phronesis*, 78(1): 63–79. doi: 10.1163/156852878X00226
+* –––, 1980, *Aristotle’s Ethical Theory*, second edition, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198246329.001.0001
 * Heinaman, Robert (ed.), 1995, *Aristotle and Moral Realism*, Boulder, CO: Westview.
 * –––, 2002, “The Improvability of Eudaimonia in the Nicomachean Ethics”, *Oxford Studies in Ancient Philosophy*, 23: 99–145.
 * –––, 2007, “Eudaimonia as an Activity in Nicomachean Ethics I.8–12”, *Oxford Studies in Ancient Philosophy*, 33(Winter): 221–254.
 * Hitz, Zena, 2011, “Aristotle on Self-Knowledge and Friendship” *Philosophers’ Imprint*, 11(12): 1–28. [[Hitz 2011 available online](http://hdl.handle.net/2027/spo.3521354.0011.012)]
-* Hursthouse, Rosalind, 1984, “Acting and Feeling in Character: *Nicomachean Ethics* 3.1”, *Phronesis*, 29(3): 252–266. doi:10.1163/156852884X00030
+* Hursthouse, Rosalind, 1984, “Acting and Feeling in Character: *Nicomachean Ethics* 3.1”, *Phronesis*, 29(3): 252–266. doi: 10.1163/156852884X00030
 * –––, 1988, “Moral Habituation”, *Oxford Studies in Ancient Philosophy*, 6: 201–219.
 * Hutchinson, D.S., 1986, *The Virtues of Aristotle*, London: Routledge & Kegan Paul.
 * Irwin, Terence H., 1988a, “Disunity in the Aristotelian Virtues”, *Oxford Studies in Ancient Philosophy*, Supplementary Volume 1988: 61–78.
-* –––, 1988b, *Aristotle’s First Principles*, Oxford: Clarendon Press. doi:10.1093/0198242905.001.0001
+* –––, 1988b, *Aristotle’s First Principles*, Oxford: Clarendon Press. doi: 10.1093/0198242905.001.0001
 * –––, 2012, “Conceptions of Happiness in the *Nicomachean Ethics*”, in Shields 2012b: 495–428
 * Jimenez, Marta, 2020, *Aristotle on Shame and Learning to Be Good*, Oxford: Oxford University Press.
-* Kahn, Charles H., 1981, “Aristotle and Altruism”, *Mind*, 90(357): 20–40. doi:10.1093/mind/XC.357.20
-* Karbowski, Joseph, 2014a, “Aristotle on the Rational Abilities of Women”, *Apeiron*, 47(4): 435–460. doi:10.1515/apeiron-2013-0061
-* –––, 2014b, “*Endoxa*, Facts, and the Starting Points of the *Nicomachean Ethics*”, in Karen Margrethe Nielsen and Devon Henry (eds.), *Bridging the Gap Between Aristotle’s Science and Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511846397.007
-* –––, 2015a, “Is Aristotle’s *Eudemian Ethics* Quasi-Mathematical?” *Apeiron*, 48(3): 368–386. doi:10.1515/apeiron-2014-0046
+* Kahn, Charles H., 1981, “Aristotle and Altruism”, *Mind*, 90(357): 20–40. doi: 10.1093/mind/XC.357.20
+* Karbowski, Joseph, 2014a, “Aristotle on the Rational Abilities of Women”, *Apeiron*, 47(4): 435–460. doi: 10.1515/apeiron-2013-0061
+* –––, 2014b, “*Endoxa*, Facts, and the Starting Points of the *Nicomachean Ethics*”, in Karen Margrethe Nielsen and Devon Henry (eds.), *Bridging the Gap Between Aristotle’s Science and Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511846397.007
+* –––, 2015a, “Is Aristotle’s *Eudemian Ethics* Quasi-Mathematical?” *Apeiron*, 48(3): 368–386. doi: 10.1515/apeiron-2014-0046
 * –––, 2015b, “*Phainomena* as Witnesses and Examples: The Methodology of *Eudemian Ethics* I.6” *Oxford Studies in Ancient Philosophy*, 49: 193–225.
 * –––, 2019, *Aristotle’s Method in Ethics: Philosophy in Practice*, Cambridge: Cambridge University Press.
-* Kenny, Anthony, 1978, *The Aristotelian Ethics: A Study of The Relationship between the Eudemian and Nicomachean Ethics of Aristotle*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198245544.001.0001
+* Kenny, Anthony, 1978, *The Aristotelian Ethics: A Study of The Relationship between the Eudemian and Nicomachean Ethics of Aristotle*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198245544.001.0001
 * –––, 1979, *Aristotle’s Theory of the Will*, New Haven, CT: Yale University Press.
-* –––, 1992, *Aristotle on the Perfect Life*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198240174.001.0001
+* –––, 1992, *Aristotle on the Perfect Life*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198240174.001.0001
 * Keyt, David, 1978, “Intellectualism in Aristotle”, *Paideia*, 7: 138–157.
 * Kontos, Pavlos, 2011, *Aristotle’s Moral Realism Reconsidered: Phenomenological Ethics*, New York: Routledge.
 * –––, (ed.), 2018, *Evil in Aristotle*, Cambridge: Cambridge University Press.
 * –––, 2021, *Aristotle on the Scope of Practical Reason: Spectators, Legislators, Hopes, and Evils*, New York: Routledge.
 * Korsgaard, Christine M., 1986a, “Aristotle on Function and Virtue”, *History of Philosophy Quarterly*, 3(3): 259–279.
-* –––, 1986b, “Aristotle and Kant on the Source of Value”, *Ethics*, 96(3): 486–505. doi:10.1086/292771
-* Kraut, Richard, 1979a, “Two Conceptions of Happiness”, *Philosophical Review*, 88(2): 167–197. doi:10.2307/2184505
-* –––, 1979b, “The Peculiar Function of Human Beings”, *Canadian Journal of Philosophy*, 9(3): 53–62. doi:10.1080/00455091.1979.10716263
+* –––, 1986b, “Aristotle and Kant on the Source of Value”, *Ethics*, 96(3): 486–505. doi: 10.1086/292771
+* Kraut, Richard, 1979a, “Two Conceptions of Happiness”, *Philosophical Review*, 88(2): 167–197. doi: 10.2307/2184505
+* –––, 1979b, “The Peculiar Function of Human Beings”, *Canadian Journal of Philosophy*, 9(3): 53–62. doi: 10.1080/00455091.1979.10716263
 * –––, 1989, *Aristotle on the Human Good*, Princeton: Princeton University Press.
 * –––, 1998, “Aristotle on Method and Moral Education”, in Gentzler 1998: 271–290.
 * –––, 2002, *Aristotle: Political Philosophy*, Oxford: Oxford University Press.
 * –––, 2006a, “Doing Without Morality: Reflections on the Meaning of Dein in Aristotle’s Nicomachean Ethics”, *Oxford Studies in Ancient Philosophy*, 30(Summer): 169–200.
-* ––– (ed.), 2006b, *The Blackwell Guide to Aristotle’s Ethics*, Oxford: Blackwell Publishers. doi:10.1002/9780470776513
+* ––– (ed.), 2006b, *The Blackwell Guide to Aristotle’s Ethics*, Oxford: Blackwell Publishers. doi: 10.1002/9780470776513
 * –––, 2012, “Aristotle on Becoming Good: Habituation, Reflection, and Perception”, in Shields 2012b: 529–557.
-* –––, 2013, “An Aesthetic Reading of Aristotle’s Ethics”, in Verity Harte and Melissa Lane (eds.), *Politeia: Essays in Honour of Malcolm Schofield*, Cambridge: Cambridge University Press, pp. 231–250. doi:10.1017/CBO9781139096843.016
+* –––, 2013, “An Aesthetic Reading of Aristotle’s Ethics”, in Verity Harte and Melissa Lane (eds.), *Politeia: Essays in Honour of Malcolm Schofield*, Cambridge: Cambridge University Press, pp. 231–250. doi: 10.1017/CBO9781139096843.016
 * –––, 2018, *The Quality of Life: Aristotle Revised*, Oxford: Oxford University Press.
-* Lawrence, Gavin, 1993, “Aristotle and the Ideal Life”, *Philosophical Review*, 102(1): 1–34. doi:10.2307/2185651
-* –––, 1997, “Nonaggregatability, Inclusiveness, and the Theory of Focal Value: *Nicomachean Ethics* I.7 1097b16–20”, *Phronesis*, 42(1): 32–76. doi:10.1163/156852897321163409
-* –––, 2001, “The Function of the Function Argument”, *Ancient Philosophy*, 21(2): 445–475. doi:10.5840/ancientphil200121227
+* Lawrence, Gavin, 1993, “Aristotle and the Ideal Life”, *Philosophical Review*, 102(1): 1–34. doi: 10.2307/2185651
+* –––, 1997, “Nonaggregatability, Inclusiveness, and the Theory of Focal Value: *Nicomachean Ethics* I.7 1097b16–20”, *Phronesis*, 42(1): 32–76. doi: 10.1163/156852897321163409
+* –––, 2001, “The Function of the Function Argument”, *Ancient Philosophy*, 21(2): 445–475. doi: 10.5840/ancientphil200121227
 * Lear, Gabriel Richardson, 2000, *Happy Lives and the Highest Good: An Essay on Aristotle’s Nicomachean Ethics*, Princeton: Princeton University Press.
 * Lear, Jonathan, 2000, *Happiness, Death, and the Remainder of Life*, Cambridge, MA: Harvard University Press.
-* LeBar, Mark, 2013, *The Value of Living Well*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199931118.001.0001
-* Leunissen, Mariska, 2012, “Aristotle on Natural Character and Its Implications for Moral Development”, *Journal of the History of Philosophy*, 50(4): 507–530. doi:10.1353/hph.2012.0062
+* LeBar, Mark, 2013, *The Value of Living Well*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199931118.001.0001
+* Leunissen, Mariska, 2012, “Aristotle on Natural Character and Its Implications for Moral Development”, *Journal of the History of Philosophy*, 50(4): 507–530. doi: 10.1353/hph.2012.0062
 * –––, 2013, “’Becoming good starts with nature’Aristotle on the Heritability and Advantages of Good Natural Character”, *Oxford Studies in Ancient Philosophy*, 44: 99–128.
 * –––, 2017, *From Natural Character to Moral Virtue in Aristotle*, New York: Oxford University Press.
-* Lockwood, Thornton C., 2005 “A Topical Bibliography of Scholarship on Aristotle’s *Nicomachean Ethics*: 1880 to 2004”, *Journal of Philosophical Research*, 30: 1–116. doi:10.5840/jpr20053048
-* Lorenz, Hendrik, 2006, *The Brute Within: Appetitive Desire in Plato and Aristotle*, Oxford: Clarendon Press. doi:10.1093/0199290636.001.0001
+* Lockwood, Thornton C., 2005 “A Topical Bibliography of Scholarship on Aristotle’s *Nicomachean Ethics*: 1880 to 2004”, *Journal of Philosophical Research*, 30: 1–116. doi: 10.5840/jpr20053048
+* Lorenz, Hendrik, 2006, *The Brute Within: Appetitive Desire in Plato and Aristotle*, Oxford: Clarendon Press. doi: 10.1093/0199290636.001.0001
 * –––, 2009, “Virtue of Character in Aristotle’s Nicomachean Ethics”, *Oxford Studies in Ancient Philosophy*, 37(Winter): 177–212.
-* MacDonald, Scott, 1989, “Aristotle and the Homonymy of the Good”, *Archiv Für Geschichte der Philosophie*, 71(2): 150–174. doi:10.1515/agph.1989.71.2.150
+* MacDonald, Scott, 1989, “Aristotle and the Homonymy of the Good”, *Archiv Für Geschichte der Philosophie*, 71(2): 150–174. doi: 10.1515/agph.1989.71.2.150
 * MacIntyre, Alasdair, 1999, *Dependent Rational Animals: Why Human Beings Need the Virtues*, Chicago: Open Court.
 * McDowell, John, 1995, “Eudaimonism and Realism in Aristotle’s Ethics”, Heinaman 1995: 201–208. Reprinted in McDowell 2009: 23–40 (ch. 2).
 * –––, 1996a, “Deliberation and Moral Development in Aristotle’s Ethics”, Engstrom & Whiting 1996: 19–35. Reprinted in McDowell 2009: 41–58 (ch. 3).
 * –––, 1996b, “Incontinence and Practical Wisdom in Aristotle”, in Sabina Lovibond & Stephen G. Williams (eds.), *Essays for David Wiggins: Identity, Truth and Value*, Oxford: Blackwell, pp. 167–197. Reprinted in McDowell 2009: 59–76 (ch. 4).
 * –––, 1998, “Some Issues in Aristotle’s Moral Psychology”, in *Mind, Value, and Reality*, Cambridge, MA: Harvard University Press, pp. 23–49.
 * –––, 2009, *The Engaged Intellect: Philosophical Essays*, Cambridge, MA: Harvard University Press.
-* McKerlie, Dennis, 1998, “Aristotle and Egoism”, *Southern Journal of Philosophy*, 36(4): 531–555. doi:10.1111/j.2041-6962.1998.tb01769.x
-* –––, 2001, “Aristotle’s Theory of Justice”, *Southern Journal of Philosophy*, 39(1): 119–141. doi:10.1111/j.2041-6962.2001.tb01809.x
+* McKerlie, Dennis, 1998, “Aristotle and Egoism”, *Southern Journal of Philosophy*, 36(4): 531–555. doi: 10.1111/j.2041-6962.1998.tb01769.x
+* –––, 2001, “Aristotle’s Theory of Justice”, *Southern Journal of Philosophy*, 39(1): 119–141. doi: 10.1111/j.2041-6962.2001.tb01809.x
 * Meyer, Susan Sauvé, 1993, *Aristotle on Moral Responsibility*, Oxford: Blackwell.
-* Milgram, Elijah, 1987, “Aristotle on Making Other Selves”, *Canadian Journal of Philosophy*, 17(2): 361–376. doi:10.1080/00455091.1987.10716441
+* Milgram, Elijah, 1987, “Aristotle on Making Other Selves”, *Canadian Journal of Philosophy*, 17(2): 361–376. doi: 10.1080/00455091.1987.10716441
 * Miller, Jon (ed.), 2011, *Aristotle’s Nicomachean Ethics: A Critical Guide*, Cambridge: Cambridge University Press.
 * Milo, Ronald D., 1966, *Aristotle on Practical Knowledge and Weakness of Will*, The Hague: Mouton.
 * Modrak, Deborah, 1994, “Aristotle: Women, Deliberation, and Nature”, in Bat-Ami Bar On (ed.), *Engendering Origins: Critical Feminist Readings in Plato and Aristotle*, Albany, NY: State University of New York Press, pp. 207–22.
-* Moss, Jessica, 2011, “‘Virtue Makes the Goal Right’ Virtue and *Phronesis* in Aristotle’s Ethics”, *Phronesis*, 56(3): 204–261. doi:10.1163/156852811X575907
-* –––, 2012, *Aristotle on the Apparent Good: Perception, Phantasia, Thought, and Desire*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199656349.001.0001
+* Moss, Jessica, 2011, “‘Virtue Makes the Goal Right’ Virtue and *Phronesis* in Aristotle’s Ethics”, *Phronesis*, 56(3): 204–261. doi: 10.1163/156852811X575907
+* –––, 2012, *Aristotle on the Apparent Good: Perception, Phantasia, Thought, and Desire*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199656349.001.0001
 * Natali, Carlo (ed.), 2009, *Aristotle’s ‘Nicomachean Ethics’, Book VII*, (Symposia Aristotelia), Oxford: Oxford University Press.
-* –––, 2010, “*Posterior Analytics* and the Definition of Happiness in *NE* I”, *Phronesis*, 55(4): 304–324. doi:10.1163/156852810X523905
+* –––, 2010, “*Posterior Analytics* and the Definition of Happiness in *NE* I”, *Phronesis*, 55(4): 304–324. doi: 10.1163/156852810X523905
 * Nehamas, Alexander, 2010, “Aristotelian *Philia*, Modern Friendship”, *Oxford Studies in Ancient Philosophy*, 39: 213–47.
-* Nussbaum, Martha C., 1985, “The Discernment of Perception: An Aristotelian Conception of Private and Public Rationality”, *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 1: 151–201. Reprinted in her *Love’s Knowledge*, New York: Oxford University Press, 1990, pp. 54–105. doi:10.1163/2213441785X00102
+* Nussbaum, Martha C., 1985, “The Discernment of Perception: An Aristotelian Conception of Private and Public Rationality”, *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 1: 151–201. Reprinted in her *Love’s Knowledge*, New York: Oxford University Press, 1990, pp. 54–105. doi: 10.1163/2213441785X00102
 * –––, 1986, *The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy*, Cambridge: Cambridge University Press.
 * Olfert, Christiana, 2017, *Aristotle on Practical Truth*, New York: Oxford University Press.
 * Owen, G.E.L., 1971, “Aristotelian Pleasures”, *Proceedings of the Aristotelian Society*, 72: 135–152. Reprinted in his, *Logic, Science and Dialectic: Collected Papers in Greek Philosophy*, M. Nussbaum (ed.), Ithaca, NY: Cornell University Press, pp. 334–46.
 * Pakaluk, Michael, 1998, *Aristotle: Nicomachean Ethics, Books VIII and IX*, (Clarendon Aristotle Series), Oxford: Clarendon Press.
 * –––, 2004, “The Meaning of Aristotelian Magnanimity”, *Oxford Studies in Ancient Philosophy*, 26(Summer): 241–276.
 * –––, 2005, *Aristotle’s Nicomachean Ethics: An Introduction*, Cambridge: Cambridge University Press.
-* Pakaluk, Michael and Giles Pearson (eds.), 2010, *Moral Psychology and Human Action in Aristotle*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199546541.001.0001
-* Pangle, Lorraine Smith, 2003, *Aristotle and the Philosophy of Friendship*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498282
+* Pakaluk, Michael and Giles Pearson (eds.), 2010, *Moral Psychology and Human Action in Aristotle*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199546541.001.0001
+* Pangle, Lorraine Smith, 2003, *Aristotle and the Philosophy of Friendship*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498282
 * Pearson, Giles, 2006, “Aristotle on Acting Unjustly without Being Unjust”, *Oxford Studies in Ancient Philosophy*, 30(Summer): 211–234.
 * –––, 2007, “Phronesis as a Mean in the Eudemian Ethics”, *Oxford Studies in Ancient Philosophy*, 32(Summer): 273–296.
-* –––, 2012, *Aristotle on Desire*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139161770
+* –––, 2012, *Aristotle on Desire*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139161770
 * Peters, Julia, 2014, *Aristotelian Ethics in Contemporary Perspective*, New York: Routlege.
-* Peterson, Sandra, 1988, “*’Horos’* (limit) in Aristotle’s *Nicomachean Ethics*”, *Phronesis*, 33(1): 233–250. doi:10.1163/156852888X00180
+* Peterson, Sandra, 1988, “*’Horos’* (limit) in Aristotle’s *Nicomachean Ethics*”, *Phronesis*, 33(1): 233–250. doi: 10.1163/156852888X00180
 * Pickavé, Martin and Jennifer Whiting, 2008, “Nicomachean Ethics 7.3 on Akratic Ignorance”, *Oxford Studies in Ancient Philosophy*, 34(Summer): 323–372.
-* Polansky, Ronald (ed.), 2014, *The Cambridge Companion to Aristotle’s Nicomachean Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CCO9781139022484
-* Politis, Vasilis, 1998, “Aristotle’s Advocacy of Non-Productive Action”, *Ancient Philosophy*, 18(2): 353–379. doi:10.5840/ancientphil199818238
-* Price, A.W., 1989, *Love and Friendship in Plato and Aristotle*, New York: Oxford University Press, Chapters 4–7. doi:10.1093/acprof:oso/9780198248996.001.0001
-* –––, 2011, *Virtue and Reason in Plato and Aristotle*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199609611.001.0001
+* Polansky, Ronald (ed.), 2014, *The Cambridge Companion to Aristotle’s Nicomachean Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CCO9781139022484
+* Politis, Vasilis, 1998, “Aristotle’s Advocacy of Non-Productive Action”, *Ancient Philosophy*, 18(2): 353–379. doi: 10.5840/ancientphil199818238
+* Price, A.W., 1989, *Love and Friendship in Plato and Aristotle*, New York: Oxford University Press, Chapters 4–7. doi: 10.1093/acprof: oso/9780198248996.001.0001
+* –––, 2011, *Virtue and Reason in Plato and Aristotle*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199609611.001.0001
 * Purinton, Jeffrey S., 1998, “Aristotle’s Definition of Happiness (NE I.7 1098a16–18)”, *Oxford Studies in Ancient Philosophy*, 16: 259–298.
-* Reeve, C.D.C., 1992, *Practices of Reason: Aristotle’s Nicomachean Ethics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198235651.001.0001
+* Reeve, C.D.C., 1992, *Practices of Reason: Aristotle’s Nicomachean Ethics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198235651.001.0001
 * –––, 2012a, *Action, Contemplation, and Happiness: An Essay on Aristotle*, Cambridge, MA: Harvard University Press.
 * –––, 2012b, “Aristotle’s Philosophical Method”, in Shields 2012b: 150–170.
 * –––, 2013, *Aristotle on Practical Wisdom: Nicomachean Ethics VI*, Cambridge, MA: Harvard University Press.
-* Roche, Timothy D., 1988a, “*Ergon* and *Eudaimonia* in *Nicomachean Ethics* I: Reconsidering the Intellectualist Interpretation”, *Journal of the History of Philosophy*, 26(2): 175–194. doi:10.1353/hph.1988.0034
-* –––, 1988b, “On the Alleged Metaphysical Foundation of Aristotle’s Ethics”, *Ancient Philosophy*, 8(1): 49–62. doi:10.5840/ancientphil19888120
+* Roche, Timothy D., 1988a, “*Ergon* and *Eudaimonia* in *Nicomachean Ethics* I: Reconsidering the Intellectualist Interpretation”, *Journal of the History of Philosophy*, 26(2): 175–194. doi: 10.1353/hph.1988.0034
+* –––, 1988b, “On the Alleged Metaphysical Foundation of Aristotle’s Ethics”, *Ancient Philosophy*, 8(1): 49–62. doi: 10.5840/ancientphil19888120
 * ––– (ed.), 1988c, *Aristotle’s Ethics*, *The Southern Journal of Philosophy*, Spindel Conference, Supplement 27(S1).
-* –––, 1992, “In Defense of an Alternative View of the Foundation of Aristotle’s Moral Theory”, *Phronesis*, 37(1): 46–84. doi:10.1163/156852892321052650
-* Rogers, Kelly, 1994, “Aristotle on Loving Another For His Own Sake”, *Phronesis*, 39(3): 291–302. doi:10.1163/156852894321052090
-* Rorty, Amélie Oksenberg, 1974, “The Place of Pleasure in Aristotle’s Ethics”, *Mind*, 83(332): 481–93. doi:10.1093/mind/LXXXIII.332.481
+* –––, 1992, “In Defense of an Alternative View of the Foundation of Aristotle’s Moral Theory”, *Phronesis*, 37(1): 46–84. doi: 10.1163/156852892321052650
+* Rogers, Kelly, 1994, “Aristotle on Loving Another For His Own Sake”, *Phronesis*, 39(3): 291–302. doi: 10.1163/156852894321052090
+* Rorty, Amélie Oksenberg, 1974, “The Place of Pleasure in Aristotle’s Ethics”, *Mind*, 83(332): 481–93. doi: 10.1093/mind/LXXXIII.332.481
 * ––– (ed.), 1980, *Essays on Aristotle’s Ethics*, Berkeley: University of California Press.
 * Rowe, C.J., 1971, *The Eudemian and Nicomachean Ethics—a Study in the Development of Aristotle’s Thought*, Cambridge: Proceedings of the Cambridge Philological Society, suppl. no. 3.
 * Russell, Daniel C., 2012a, “Aristotle’s Virtues of Greatness”, *Oxford Studies in Ancient Philosophy*, Supplementary Volume 2012, *Virtue and Happiness: Essays in Honour of Julia Annas*, pp. 115–147.
-* –––, 2012b, *Happiness for Humans*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199583683.001.0001
+* –––, 2012b, *Happiness for Humans*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199583683.001.0001
 * Santas, Gerasimos, 2001, *Goodness and Justice: Plato, Aristotle, and the Moderns*, Oxford: Blackwell Publishers.
-* Scaltsas, Theodore, 1995, “Reciprocal Justice in Aristotle’s *Nicomachean Ethics*”, *Archiv für Geschichte der Philosophie*, 77(3): 248–262. doi:10.1515/agph.1995.77.3.248
+* Scaltsas, Theodore, 1995, “Reciprocal Justice in Aristotle’s *Nicomachean Ethics*”, *Archiv für Geschichte der Philosophie*, 77(3): 248–262. doi: 10.1515/agph.1995.77.3.248
 * Schollmeier, Paul, 1994, *Other Selves: Aristotle on Personal and Political Friendship*, Albany, NY: State University of New York Press.
-* Schütrumpf, Eckart, 1989, “Magnanimity, *Mεγαλοψυχία*, and the System of Aristotle’s *Nicomachean Ethics*”, *Archiv für Geschichte der Philosophie*, 71(1): 10–22. doi:10.1515/agph.1989.71.1.10
+* Schütrumpf, Eckart, 1989, “Magnanimity, *Mεγαλοψυχία*, and the System of Aristotle’s *Nicomachean Ethics*”, *Archiv für Geschichte der Philosophie*, 71(1): 10–22. doi: 10.1515/agph.1989.71.1.10
 * Scott, Dominic, 1999, “Aristotle on Well-Being and Intellectual Contemplation: Primary and Secondary Eudaimonia”, *Aristotelian Society, Supplementary Volume*, 73: 225–242.
 * –––, 2000, “Aristotle on Posthumous Fortune”, *Oxford Studies in Ancient Philosophy*, 18(Summer): 211–230.
-* –––, 2015, *Levels of Argument: A Comparative Study of Plato’s Republic and Aristotle’s Nicomachean Ethics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199249640.001.0001
+* –––, 2015, *Levels of Argument: A Comparative Study of Plato’s Republic and Aristotle’s Nicomachean Ethics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199249640.001.0001
 * Segvic, Heda, 2002, “Aristotle’s Metaphysics of Action”, *Philosophiegeschichte und logische Analyse / Logical Analysis and History of Philosophy*, 5: 23–53. Reprint in Segvic 2009b: 111–143 (ch. 5).
 * –––, 2004, “Aristotle on the Varieties of Goodness”, *Apeiron*, 37: 151–176. Reprinted in Segvic 2009b: 89–110 (ch. 4).
-* –––, 2009a, “Deliberation and Choice in Aristotle”, in Segvic 2009b: 144–171. Also appeared in Pakaluk and Pearson 2010: 159–186. doi:10.1093/acprof:oso/9780199546541.003.0008
+* –––, 2009a, “Deliberation and Choice in Aristotle”, in Segvic 2009b: 144–171. Also appeared in Pakaluk and Pearson 2010: 159–186. doi: 10.1093/acprof: oso/9780199546541.003.0008
 * –––, 2009b, *From Protagoras to Aristotle: Essays in Ancient Moral Philosophy*, Myles Burnyeat (ed.), Princeton: Princeton University Press.
-* Sherman, Nancy, 1987, “Aristotle on Friendship and the Shared Life”, *Philosophy and Phenomenological Research*, 47(4): 589–613. doi:10.2307/2107230
-* –––, 1989, *The Fabric of Character: Aristotle’s Theory of Virtue*, Oxford: Clarendon Press. doi:10.1093/0198239173.001.0001
-* –––, 1997, *Making a Virtue of Necessity: Aristotle and Kant on Virtue*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624865
+* Sherman, Nancy, 1987, “Aristotle on Friendship and the Shared Life”, *Philosophy and Phenomenological Research*, 47(4): 589–613. doi: 10.2307/2107230
+* –––, 1989, *The Fabric of Character: Aristotle’s Theory of Virtue*, Oxford: Clarendon Press. doi: 10.1093/0198239173.001.0001
+* –––, 1997, *Making a Virtue of Necessity: Aristotle and Kant on Virtue*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511624865
 * ––– (ed.), 1999, *Aristotle’s Ethics: Critical Essays*, Lanham, Maryland: Rowman & Littlefield.
-* –––, 2000, “Is the Ghost of Aristotle Haunting Freud’s House?” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 16(1): 63–81. doi:10.1163/2213441700X00079
+* –––, 2000, “Is the Ghost of Aristotle Haunting Freud’s House?” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 16(1): 63–81. doi: 10.1163/2213441700X00079
 * Shields, Christopher, 2012a, “Goodness is Meant in Many Ways”, in G. Rudebusch and J. Hardy (eds.) *Grundlagen der Antiken Ethik / Foundations of Ancient Ethics*, Goettingen: Vanderhoek & Ruprecht, pp. 185–199.
-* Shields, Christopher (ed.), 2012b, *The Oxford Handbook of Aristotle*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195187489.001.0001
+* Shields, Christopher (ed.), 2012b, *The Oxford Handbook of Aristotle*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780195187489.001.0001
 * Sim, May (ed.), 1995, *The Crossroads of Norm and Nature*, Lanham, Maryland: Rowman & Littlefield.
-* –––, 2007, *Remastering Morals with Aristotle and Confucius*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497841
+* –––, 2007, *Remastering Morals with Aristotle and Confucius*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511497841
 * Stern-Gillet, Suzanne, 1995, *Aristotle’s Philosophy of Friendship*, Albany, NY: State University of New York Press.
-* Stohr, Karen, 2003, “Moral Cacophony: When Continence is a Virtue”, *Journal of Ethics*, 7(4): 339–363. doi:10.1023/A:1026111711649
-* –––, 2009, “Minding Others’ Business”, *Pacific Philosophical Quarterly*, 90(1): 116–139. doi:10.1111/j.1468-0114.2009.01331.x
-* Suits, Bernard, 1974, “Aristotle on the Function of Man: Fallacies, Heresies and other Entertainments”, *Canadian Journal of Philosophy*, 4(1): 23–40. doi:10.1080/00455091.1974.10716919
+* Stohr, Karen, 2003, “Moral Cacophony: When Continence is a Virtue”, *Journal of Ethics*, 7(4): 339–363. doi: 10.1023/A: 1026111711649
+* –––, 2009, “Minding Others’ Business”, *Pacific Philosophical Quarterly*, 90(1): 116–139. doi: 10.1111/j.1468-0114.2009.01331.x
+* Suits, Bernard, 1974, “Aristotle on the Function of Man: Fallacies, Heresies and other Entertainments”, *Canadian Journal of Philosophy*, 4(1): 23–40. doi: 10.1080/00455091.1974.10716919
 * Taylor, C.C.W., 1988, “Urmson on Aristotle on Pleasure”, in J. Dancy, J. M. E. Moravcsik, and C. C. W. Taylor (eds.), *Human Agency: Language, Duty, and Value. Philosophical Essays in Honor of J. O. Urmson*, Stanford, CA: Stanford University Press, pp. 120–132. Reprinted in Taylor 2008: 107–120 (ch. 7).
 * –––, 2003a, “Pleasure: Aristotle’s Response to Plato”, in Robert Heinaman (ed.), *Plato and Aristotle’s Ethics*, Aldershot: Ashgate Publishing, pp. 1–20.
 * –––, 2003b, “Aristotle on the Practical Intellect”, (in German, trans. R. May, with the assistance of A. W. Müller), in T. Buchheim, H. Flashar, and R. A. H. King (eds.), *Kann man heute noch etwas anfangen mit Aristoteles?*, Hamburg: Meiner Verlag, pp. 142–162. Reprinted (in English) in Taylor 2008: 204–222 (ch. 12).
 * –––, 2004, “Wisdom and Courage in the Protagoras and the Nicomachean Ethics”, (in Italian, trans. S. Casertano), in G. Casertano (ed.), *Il Protagora di Platone: struttura e problematiche*, Naples: Loffredo Editore, Naples, pp. 716–728. Reprinted (in English) in Taylor 2008: 281–294 (ch. 16).
-* –––, 2008, *Pleasure, Mind, and Soul: Selected Papers in Ancient Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199226399.001.0001
+* –––, 2008, *Pleasure, Mind, and Soul: Selected Papers in Ancient Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199226399.001.0001
 * Telfer, Elizabeth, 1989–90, “The Unity of Moral Virtues in Aristotle’s *Nicomachean Ethics*”, *Proceedings of the Aristotelian Society*, 91: 35–48.
-* Tuozzo, Thomas M., 1995, “Contemplation, the Noble, and the Mean: The Standard of Moral Virtue in Aristotle’s Ethics”, *Apeiron*, special issue *Aristotle, Virtue and the Mean*, 28(4): 129–154. doi:10.1515/APEIRON.1995.28.4.129.
+* Tuozzo, Thomas M., 1995, “Contemplation, the Noble, and the Mean: The Standard of Moral Virtue in Aristotle’s Ethics”, *Apeiron*, special issue *Aristotle, Virtue and the Mean*, 28(4): 129–154. doi: 10.1515/APEIRON.1995.28.4.129.
 * Urmson, J.O., 1967, “Aristotle on Pleasure”, in J.M.E. Moravcsik (ed.), *Aristotle: A Collection of Critical Essays*, Garden City, NY: Anchor Books, pp. 323–33.
 * –––, 1987, *Aristotle’s Ethics*, Oxford: Basil Blackwell.
 * Van Cleemput, 2006, “Aristotle on Eudaimonia in Nicomachean Ethics I”, *Oxford Studies in Ancient Philosophy*, 30(Summer): 127–158.
-* Walker, Matthew D., 2014, “Aristotle on the Utility and Choiceworthiness of Friends”, *Archiv für Geschichte der Philosophie*, 96(2): 151–182. doi:10.1515/agph-2014-0008
+* Walker, Matthew D., 2014, “Aristotle on the Utility and Choiceworthiness of Friends”, *Archiv für Geschichte der Philosophie*, 96(2): 151–182. doi: 10.1515/agph-2014-0008
 * Walsh, James, 1963, *Aristotle’s Conception of Moral Weakness*, New York: Columbia University Press.
 * Ward, Julie K. (ed.), 1996, *Feminism and Ancient Philosophy*, New York: Routledge.
 * Warren, James, 2009, “Aristotle on Speusippus on Eudoxus on Pleasure”, *Oxford Studies in Ancient Philosophy*, 36(Summer): 249–282.
-* Wedin, Michael V., 1981, “Aristotle on the Good for Man”, *Mind*, 90(358): 243–62. doi:10.1093/mind/XC.358.243
-* White, Nicholas P., 2002, *Individual and Conflict in Greek Ethics*, Oxford: Oxford University Press. doi:10.1093/0198250592.001.0001
+* Wedin, Michael V., 1981, “Aristotle on the Good for Man”, *Mind*, 90(358): 243–62. doi: 10.1093/mind/XC.358.243
+* White, Nicholas P., 2002, *Individual and Conflict in Greek Ethics*, Oxford: Oxford University Press. doi: 10.1093/0198250592.001.0001
 * –––, 2006, *A Brief History of Happiness*, Malden, ME: Blackwell.
 * White, Stephen. A., 1992, *Sovereign Virtue*, Stanford: Stanford University Press.
-* Whiting, Jennifer, 1986, “Human Nature and Intellectualism in Aristotle”, *Archiv für Geschichte der Philosophie*, 68(1): 70–95. doi:10.1515/agph.1986.68.1.70
-* –––, 1988, “Aristotle’s Function Argument: A Defense”, *Ancient Philosophy*, 8(1): 33–48. doi:10.5840/ancientphil19888119
-* –––, 1991, “Impersonal Friends”, *Monist*, 74(1): 3–29. doi:10.5840/monist19917414
+* Whiting, Jennifer, 1986, “Human Nature and Intellectualism in Aristotle”, *Archiv für Geschichte der Philosophie*, 68(1): 70–95. doi: 10.1515/agph.1986.68.1.70
+* –––, 1988, “Aristotle’s Function Argument: A Defense”, *Ancient Philosophy*, 8(1): 33–48. doi: 10.5840/ancientphil19888119
+* –––, 1991, “Impersonal Friends”, *Monist*, 74(1): 3–29. doi: 10.5840/monist19917414
 * –––, 1996, “Self-Love and Authoritative Virtue: Prolegomenon to a Kantian Reading of Eudemian Ethics VIII.3”, in Engstrom & Whiting 1996: 162–99.
 * Wielenberg, Erik J., 2004, “Egoism and *Eudaimonia*-Maximization in the *Nicomachean Ethics*”, *Oxford Studies in Ancient Philosophy*, 26: 277–295.
-* Wiggins, David, 2009, “What is the Order Among the Varieties of Goodness? A Question Posed by von Wright; and a Conjecture Made by Aristotle”, *Philosophy*, 84(2): 175–200. doi:10.1017/S0031819109000308
+* Wiggins, David, 2009, “What is the Order Among the Varieties of Goodness? A Question Posed by von Wright; and a Conjecture Made by Aristotle”, *Philosophy*, 84(2): 175–200. doi: 10.1017/S0031819109000308
 * Williams, Bernard, 1985, *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press, Chapter 3.
-* Wolfsdorf, David, 2013, *Pleasure in Ancient Greek Philosophy*, Chapter 6. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511667510
-* Young, Charles M., 1988, “Aristotle on Temperance” *Philosophical Review*, 97(4): 521–542. doi:10.2307/2185414
+* Wolfsdorf, David, 2013, *Pleasure in Ancient Greek Philosophy*, Chapter 6. Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511667510
+* Young, Charles M., 1988, “Aristotle on Temperance” *Philosophical Review*, 97(4): 521–542. doi: 10.2307/2185414
 * Yu, Jiyuan, 2007, *The Ethics of Confucius and Aristotle: Mirrors of Virtue*, New York: Routledge.
 * Zingano Marco, 2007a, “Akrasia and the Method of Ethics”, in Bobonich and Destree 2007: 167–192
 * –––, 2007b, “Aristotle and the Problems of Method in Ethics”, *Oxford Studies in Ancient Philosophy*, 32(Summer): 297–330.

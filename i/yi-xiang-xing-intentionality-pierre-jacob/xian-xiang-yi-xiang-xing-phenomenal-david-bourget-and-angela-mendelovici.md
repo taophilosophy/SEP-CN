@@ -1,6 +1,6 @@
 # 现象意向性 phenomenal (David Bourget and Angela Mendelovici)
 
-*首次发表于2016年8月29日星期一；实质性修订于2019年1月29日星期二*
+*首次发表于 2016 年 8 月 29 日星期一；实质性修订于 2019 年 1 月 29 日星期二*
 
 现象意向性是一种意向性或关于性，它根植于现象意识，即某些心理状态的主观体验特征。现象意向性理论是一种关于意向性的理论，根据该理论，存在现象意向性，并且所有其他类型的意向性至少部分源自它。近年来，现象意向性理论越来越被视为意向性的主要方法之一。
 
@@ -53,9 +53,9 @@ PIT 认为现象意向性在解释意向现象中起着核心作用。下一小�
 
 另一种观点是，非现象意向性状态从它们与现象意向性状态之间的功能关系中获得其意向性（Loar 2003a, Horgan & Tienson 2002, Graham, Horgan, & Tienson 2007）。根据这种观点，关于草是绿色的持续信念可能是由于与大量现象意向性状态适当连接而具有其内容。
 
-第三种观点是，非现象意向性是理想理性解释的问题（Kriegel 2011a,b, Pautz 2013）。例如，在 Kriegel 的观点中，相关的现象意向性状态存在于一个可能的理想理性解释者的心灵中。
+第三种观点是，非现象意向性是理想理性解释的问题（Kriegel 2011a, b, Pautz 2013）。例如，在 Kriegel 的观点中，相关的现象意向性状态存在于一个可能的理想理性解释者的心灵中。
 
-以下将讨论更多版本的适度现象意向性理论。适度现象意向性理论的支持者（或接近该理论的人）包括 Loar（1987, 1988, 1995, 2003a, 2003b）、Searle（1983, 1990, 1991, 1992）、Goldman（1993a,b）、Siewert（1998）、McGinn（1988）、Kriegel（2003, 2011a,b）、Horgan, Tienson & Graham（2003, 2004, 2006, 2007）、Georgalis（2006）、Pitt（2004, 2009, 2011）、Farkas（2008a,b, 2013）、Mendola（2008）、Chalmers（2010: xxiv）、Bourget（2010）、Pautz（2010, 2013）、Smithies（2012, 2013a, 2013b, 2014）和 Montague（2016）。
+以下将讨论更多版本的适度现象意向性理论。适度现象意向性理论的支持者（或接近该理论的人）包括 Loar（1987, 1988, 1995, 2003a, 2003b）、Searle（1983, 1990, 1991, 1992）、Goldman（1993a, b）、Siewert（1998）、McGinn（1988）、Kriegel（2003, 2011a, b）、Horgan, Tienson & Graham（2003, 2004, 2006, 2007）、Georgalis（2006）、Pitt（2004, 2009, 2011）、Farkas（2008a, b, 2013）、Mendola（2008）、Chalmers（2010: xxiv）、Bourget（2010）、Pautz（2010, 2013）、Smithies（2012, 2013a, 2013b, 2014）和 Montague（2016）。
 
 弱现象意向性理论仅声称存在现象意向性。它允许存在与现象意识无关的非现象意向性状态。支持弱现象意向性理论的人太多了，无法一一列举。正如我们将在下文看到的那样，弱现象意向性理论是哲学心灵学中一些广泛接受的观点的必然结果，包括许多关于现象意识的再现主义形式，即现象状态与意向状态相同（也许满足某些进一步条件）的观点。
 
@@ -83,7 +83,7 @@ PIT 的不同版本之间的变化的一个重要维度涉及现象意向性的�
 
 现象意向性理论家对于哪些心理状态（如果有的话）具有非现象意向性也存在分歧。Horgan＆Tienson（2002）和 Kriegel（2011a）声称至少一些无意识的个人下意识状态具有非现象意向性，而 Searle（1990，1991，1992）和 Mendelovici（2018）否认这一点。Searle（1990，1991，1992）认为至少一些持续状态，例如非发生的信念和欲望，具有非现象意向性，而 Strawson（2008）和 Mendelovici（2018）否认这一点。
 
-另一个重要问题涉及现象意向性的结构。一些现象意向性的支持者认为它具有关系结构（Pautz 2010, 2013; Speaks 2015; Bourget 即将出版-a, 即将出版-c），而其他人（Farkas 2008a,b; Kriegel 2011a,b, 2013; Mendelovici 2018; Pitt 2009）否认这一点。我们在第 4.6 节中简要讨论了这个问题。
+另一个重要问题涉及现象意向性的结构。一些现象意向性的支持者认为它具有关系结构（Pautz 2010, 2013; Speaks 2015; Bourget 即将出版-a, 即将出版-c），而其他人（Farkas 2008a, b; Kriegel 2011a, b, 2013; Mendelovici 2018; Pitt 2009）否认这一点。我们在第 4.6 节中简要讨论了这个问题。
 
 ## 3. PIT 在逻辑空间中的位置
 
@@ -186,7 +186,7 @@ Wilson (2003) 反对 Loar 对于脑中的容器的诉求，声称关于它们的
 
 ### 4.4 现象意向性的方面形状
 
-在 PIT 的早期辩护中，Searle (1990, 1991, 1992) 提出了一个基于"方面形状"的论证。这个论证相当复杂，可以有几种解释，但这里是一种简化的理解方式：Searle 首先指出，所有的现象意向性都有一个方面形状，方面形状是关于某事物如何被表示的问题。例如，表示 Hesperus 和表示 Phosphorus 之间有所区别，或者表示 Superman 和表示 Clark Kent 之间有所区别。这些区别不在于所表示的对象，而在于它们如何被表示——这些是它们方面形状的差异。
+在 PIT 的早期辩护中，Searle (1990, 1991, 1992) 提出了一个基于 "方面形状" 的论证。这个论证相当复杂，可以有几种解释，但这里是一种简化的理解方式：Searle 首先指出，所有的现象意向性都有一个方面形状，方面形状是关于某事物如何被表示的问题。例如，表示 Hesperus 和表示 Phosphorus 之间有所区别，或者表示 Superman 和表示 Clark Kent 之间有所区别。这些区别不在于所表示的对象，而在于它们如何被表示——这些是它们方面形状的差异。
 
 然后，西尔认为，没有内在或外在的无意识的物理或功能事实可以确定现象形状。唯一能够确定现象形状的是意识。如果是这样的话，那么无意识状态似乎只能通过与有意识状态的连接来确定其现象形状。西尔更具体地得出结论，无意识的意向状态涉及对有意识状态的倾向，这一论点他称之为连接原则。（有时他说无意识状态潜在地可以被意识所接触，显然意味着它们可以被有意识地内省（1992 年，第 156 页），但其他时候他说的是我们在这里所说的：无意识状态涉及对有意识状态的倾向（1992 年，第 159 页，第 161-162 页）。后者是西尔在他为连接原则辩护时所说的，这种解释更符合他所使用的论证。）
 
@@ -272,7 +272,7 @@ PIT 的一个论证线索是基于这样的主张：在某些现象意向性的�
 | ---------- | ---------------------------------- |
 | (个体化) | 思维具有个体化的现象意向性特征。 |
 
-“专有”一词是由大卫·皮特（2004 年）提出的。只有当思维的现象特征是特殊的或独特的，即它们不是感知的、言语的、身体的或情感的现象特征，或者不是思维以外的心理状态中存在的其他现象特征时，思维才具有专有的现象特征。根据当前的用法，我们称所有上述种类的现象学为感知现象学，而思维的假定的专有现象学称为认知现象学。思维具有专有现象学的主张只是它具有非感知现象学的主张。
+“专有”一词是由大卫 · 皮特（2004 年）提出的。只有当思维的现象特征是特殊的或独特的，即它们不是感知的、言语的、身体的或情感的现象特征，或者不是思维以外的心理状态中存在的其他现象特征时，思维才具有专有的现象特征。根据当前的用法，我们称所有上述种类的现象学为感知现象学，而思维的假定的专有现象学称为认知现象学。思维具有专有现象学的主张只是它具有非感知现象学的主张。
 
 只有当具有不同意向内容的思维具有不同的现象特征，并且具有不同现象特征的思维具有不同的意向内容时，思维才具有个体化的现象特征。（我们使用“个体化”一词的方式与贝恩和蒙塔格（2011 年：第 1 章）使用它的方式相同。皮特（2004 年）对类似概念使用术语“独特”，并将术语“个体化”用于其他含义。）
 
@@ -286,11 +286,11 @@ PIT 的一个论证线索是基于这样的主张：在某些现象意向性的�
 
 尽管对思维现象学的讨论大部分涉及仔细的论证和案例考虑，但值得一提的是，许多主张专有思维现象学的人认为这个观点是显而易见的，而对这个观点的否定则明显是错误的甚至荒谬的。斯特劳森写道：
 
-> 要否认这种[认知现象学]，就必须坚持我们生活经验的总体特征——我们对生活的体验——完全由一种或另一种裸露或纯粹的感觉或情感组成。例如，说我们对某人的死感到痛苦时，包括有意识地理解、相信、娱乐他已经死亡的命题，这种说法肯定是错误的。（斯特劳森 2011a: 295，原文斜体）
+> 要否认这种 [认知现象学]，就必须坚持我们生活经验的总体特征——我们对生活的体验——完全由一种或另一种裸露或纯粹的感觉或情感组成。例如，说我们对某人的死感到痛苦时，包括有意识地理解、相信、娱乐他已经死亡的命题，这种说法肯定是错误的。（斯特劳森 2011a: 295，原文斜体）
 
 在同样的思路上，克里格尔写道：
 
-> 就我而言，我相信认知体验的存在[...]最生动的证据是类似于日常经验的压倒性：我的内心生活似乎对我来说比仅仅由感知经验组成的意识体验更有趣。(Kriegel 2011a: 50)
+> 就我而言，我相信认知体验的存在 [...] 最生动的证据是类似于日常经验的压倒性：我的内心生活似乎对我来说比仅仅由感知经验组成的意识体验更有趣。(Kriegel 2011a: 50)
 
 接下来，我们讨论了已经提出的主要论点，以补充对认知现象学的明显性的诉求。
 
@@ -322,7 +322,7 @@ Strawson（1994）通过对比一个只会英语的人和一个只会法语的�
 
 虽然具有意向内容和现象特征不同的思维对的实例为认知现象学的个体化认知现象的存在提供了一些证据，但为了使思维具有个体化的现象学成立，必须不存在内容相同但现象特征不同的思维案例。这种后一种情况将成为（个体化）的反例。威尔逊（2003 年）对霍根和蒂恩森的现象对比案例做出回应，接受他们的观察，但试图提供这样一个反例：
 
-> 在霍根和蒂恩森呼吁读者“关注自己的经验”的精神中（[2002]第 521 页），我刚刚进行了决定性的实验：我首先认为乔治·布什是美国总统，并且有 CNN 介导的听觉和视觉现象学，专注于他的一次演讲。然后我休息了一会儿，涂鸦了一下，四处走动，然后有了一个具有完全相同内容的思维...什么也没有。或者至少没有像第一种情况那样明显像布什的。 （威尔逊 2003 年：417）
+> 在霍根和蒂恩森呼吁读者“关注自己的经验”的精神中（[2002] 第 521 页），我刚刚进行了决定性的实验：我首先认为乔治 · 布什是美国总统，并且有 CNN 介导的听觉和视觉现象学，专注于他的一次演讲。然后我休息了一会儿，涂鸦了一下，四处走动，然后有了一个具有完全相同内容的思维...什么也没有。或者至少没有像第一种情况那样明显像布什的。 （威尔逊 2003 年：417）
 
 如果威尔逊是对的，这不仅表明基于现象对比的论证最终失败，而且还提供了反对（个体化）的积极考虑，因为它表明可以有具有相同内容但没有相同现象特征的思维。
 
@@ -340,7 +340,7 @@ Chudnoff（2013）提供了一个他声称可以避免这种回应的现象对�
 
 Siewert（1998，2011）声称突然的领悟是认知现象意向性特别明显的情况。
 
-> [Y]ou are standing at the door to your house, reaching in your pants pocket for the door key, and find it empty. You feel a sudden panic; you think perhaps you have locked yourself out; you try to remember where you put the keys, then recall switching them to your coat pocket earlier; you reach and find them there—relief. (Siewert 1998: 277)
+> [Y] ou are standing at the door to your house, reaching in your pants pocket for the door key, and find it empty. You feel a sudden panic; you think perhaps you have locked yourself out; you try to remember where you put the keys, then recall switching them to your coat pocket earlier; you reach and find them there—relief. (Siewert 1998: 277)
 
 > 我遇到一个朋友，她问我：“你带了那本书吗？”一时间我不知道她在说哪本书，然后我突然意识到是哪本书。（Siewert 2011: 258）
 
@@ -388,7 +388,7 @@ Pitt 的论证如下：通常情况下，我们可以有意识地、内省地和
 
 Levine (2011)认为 Pitt (2004)未能排除一种相关自知类型的替代解释：即即时自知是一种非推理性地获得表达自己正在思考的意向状态的问题。在拥有这样的状态时，人们会自动意识到其内容。Pitt (2011)回应说，除非存在有争议的认知现象意向性，否则 Levine 的提议无法奏效。
 
-Goldman (1993a,b)也利用自知的考虑来论证思维的现象意向性。他认为，我们能够知道自己处于何种心理状态的方式不是通过其功能角色或神经属性，而是通过其现象属性。在认知状态的情况下，我们能够区分不同欲望强度或信念程度的最佳解释是思维伴随着现象意向性。
+Goldman (1993a, b)也利用自知的考虑来论证思维的现象意向性。他认为，我们能够知道自己处于何种心理状态的方式不是通过其功能角色或神经属性，而是通过其现象属性。在认知状态的情况下，我们能够区分不同欲望强度或信念程度的最佳解释是思维伴随着现象意向性。
 
 ## 6. PIT 的挑战
 
@@ -426,7 +426,7 @@ Kriegel（2011a，b）的解释旨在以统一的方式解释持续状态和无�
 
 ### 6.3 广义意向性状态
 
-广义意向性状态是依赖于我们环境中物品的关系的意向性状态。它们是外在主义成立的状态（见第 4.3 节）。广义意向性状态的主要候选者是关于自然种类（例如，H2O）和关于个体对象（例如，比尔·盖茨）的思想。可以说，在现象上相似并且具有完全相同的现象意向性状态的主体在其广义意向性状态上可能存在差异。因此，广义意向性状态似乎不是现象意向性状态。
+广义意向性状态是依赖于我们环境中物品的关系的意向性状态。它们是外在主义成立的状态（见第 4.3 节）。广义意向性状态的主要候选者是关于自然种类（例如，H2O）和关于个体对象（例如，比尔 · 盖茨）的思想。可以说，在现象上相似并且具有完全相同的现象意向性状态的主体在其广义意向性状态上可能存在差异。因此，广义意向性状态似乎不是现象意向性状态。
 
 一个双子地球案例有助于说明在广泛意向状态的情况下可用的选择（参见普特南 1975 年）。考虑两个个体，爱丽丝和双胞胎爱丽丝。爱丽丝生活在地球上，而双胞胎爱丽丝生活在离我们很远的这个世界上的一个地球的副本上。让我们假设爱丽丝和双胞胎爱丽丝是现象上的重复：他们在他们的存在过程中实现了完全相同的现象特性。
 
@@ -438,7 +438,7 @@ Siewert（1998），Kriegel（2007）和 Farkas（2008a）采用了一种消除�
 
 Pitt（1999，2011）也支持一种消除主义策略，反对外在主义直觉。Mendelovici（2010，2018）也支持消除主义，但声称她可以通过派生心理表征的概念捕捉许多外在主义直觉（请参见前一节）。
 
-衍生主义策略也被应用于广泛的内容（Loar 2003a,b, Horgan and Tienson 2002, Horgan, Tienson & Graham 2004, Bourget 2010, Chalmers 2010）。这里的想法是广泛的意向状态有两个内容：一个是现象构成的狭义内容，另一个是由狭义内容和环境中相关因素共同决定的广义内容。所以 Alice 的思想有两个内容：一个是狭义的，一个是广义的。她的思想的广义内容只在 Bob 快乐的世界中为真。狭义内容只在一个具有某些类似 Bob 特征的人快乐的世界中为真。相关的类似 Bob 的特征可能包括被某个社区的人称为“Bob”。
+衍生主义策略也被应用于广泛的内容（Loar 2003a, b, Horgan and Tienson 2002, Horgan, Tienson & Graham 2004, Bourget 2010, Chalmers 2010）。这里的想法是广泛的意向状态有两个内容：一个是现象构成的狭义内容，另一个是由狭义内容和环境中相关因素共同决定的广义内容。所以 Alice 的思想有两个内容：一个是狭义的，一个是广义的。她的思想的广义内容只在 Bob 快乐的世界中为真。狭义内容只在一个具有某些类似 Bob 特征的人快乐的世界中为真。相关的类似 Bob 的特征可能包括被某个社区的人称为“Bob”。
 
 当然，这种衍生主义方法与 Alice 思想的狭义内容的其他解释是兼容的。PIT 的支持者可以选择与一般狭义内容理论相同的选项。例如，这种衍生主义方法可以利用二维狭义内容理论的所有资源（参见 Chalmers 2002a 以及关于二维语义学和狭义心理内容的条目）。
 
@@ -462,7 +462,7 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * BonJour, Lawrence, 1998, *In Defense of Pure Reason*, Cambridge: Cambridge University Press.
 * Bourget, David, 2010, “Consciousness is underived intentionality”, *Noûs*, 44(1): 32–58.
 * –––, forthcoming-a, “Implications of intensional perceptual ascriptions for relationalism, disjunctivism, and representationalism about perceptual experience”, *Erkenntnis*, 1–28.
-* –––, forthcoming-b, “The role of consciousness in grasping and understanding”, *Philosophy and Phenomenological Research*, published online 27 August 2015. doi:10.1111/phpr.12208
+* –––, forthcoming-b, “The role of consciousness in grasping and understanding”, *Philosophy and Phenomenological Research*, published online 27 August 2015. doi: 10.1111/phpr.12208
 * –––, forthcoming-c, “Relational vs adverbial conceptions of phenomenal intentionality”, In A. Sullivan, ed., *Sensations, Thoughts, Language: Essays in honor of Brian Loar.* Routledge.
 * Bourget, David & Angela Mendelovici, 2014, “Tracking Representationalism”, in Andrew Bailey (ed.), *Philosophy of Mind: The Key Thinkers*, Continuum, London: Bloomsbury Academic, 209–235.
 * Brentano, F., 1874, *Psychology from empirical standpoint*, O. Kraus (ed.), English edition translated by A.C. Rancurello, D.B. Terrell, and L.L. McAlister, London: Routledge and Kegan Paul, 1973.
@@ -470,8 +470,8 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Burge, T., 1979, “Individualism and the mental”, *Midwest Studies in Philosophy*, 4(1): 73–122.
 * Byrne, A., 2009,“ Experience and content”, *Philosophical Quarterly*, 59(236): 429–451.
 * –––, 2015, “Skepticism about the Internal World”, In Gideon Rosen, Alex Byrne, Joshua Cohen & Seana Valentine Shiffrin (eds.), *The Norton Introduction to Philosophy*, W. W. Norton, New York.
-* Campbell, John, 2002, “Reference and Consciousness”, Oxford: Oxford University Press. doi:10.1093/0199243816.001.0001
-* Carruthers, Peter & Bénédicte Veillet, 2011, “The Case Against Cognitive Phenomenology”, in Bayne & Montague 2011: 35–56. doi:10.1093/acprof:oso/9780199579938.003.0002
+* Campbell, John, 2002, “Reference and Consciousness”, Oxford: Oxford University Press. doi: 10.1093/0199243816.001.0001
+* Carruthers, Peter & Bénédicte Veillet, 2011, “The Case Against Cognitive Phenomenology”, in Bayne & Montague 2011: 35–56. doi: 10.1093/acprof: oso/9780199579938.003.0002
 * Chalmers, David J., 1996, *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
 * –––, 2002a, “The components of content”, in Chalmers 2002b: 608–633
 * ––– (ed.), 2002b, *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press.
@@ -479,9 +479,9 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * –––, 2010, *The Character of Consciousness*, Oxford: Oxford University Press.
 * –––, 2012, *Constructing the World*, Oxford: Oxford University Press.
 * Chisholm, R. 1957. *Perceiving: A Philosophical Study*, Ithaca, NY: Cornell University Press.
-* Chudnoff, Elijah, 2013, “Intellectual Gestalts”, in Kriegel 2013b: 174–193. doi:10.1093/acprof:oso/9780199764297.003.0010
+* Chudnoff, Elijah, 2013, “Intellectual Gestalts”, in Kriegel 2013b: 174–193. doi: 10.1093/acprof: oso/9780199764297.003.0010
 * –––, 2015a, *Cognitive Phenomenology*, New York: Routledge.
-* –––, 2015b, “Phenomenal Contrast Arguments for Cognitive Phenomenology”, *Philosophical and Phenomenological Research*, 91(1): 82–104. doi:10.1111/phpr.12177
+* –––, 2015b, “Phenomenal Contrast Arguments for Cognitive Phenomenology”, *Philosophical and Phenomenological Research*, 91(1): 82–104. doi: 10.1111/phpr.12177
 * Davidson, D., 2001, *Essays Into Truth and Interpretation*, Oxford: Oxford University Press.
 * Davies, M., 1995, “Consciousness and the varieties of aboutness”, In C. Macdonald (ed.), *Philosophy of Psychology: Debates on Psychological Explanation*, Oxford: Oxford University Press.
 * Dennett, D.C., 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
@@ -489,11 +489,11 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Ducasse, C.J., 1942, “Moore’s Refutation of Idealism”, In P.A. Schlipp (ed.), *The Philosophy of G.E. Moore*, La Salle IL: Open Court, 232–233
 * Farkas, Katalin, 2008a, “Phenomenal intentionality without compromise”, *The Monist*, 91(2): 273–93.
 * –––, 2008b, *The Subject’s Point of View*, Oxford: Oxford University Press.
-* –––, 2013, “Constructing a World for the Senses”, in Kriegel 2013b: 99–115. doi:10.1093/acprof:oso/9780199764297.003.0006
+* –––, 2013, “Constructing a World for the Senses”, in Kriegel 2013b: 99–115. doi: 10.1093/acprof: oso/9780199764297.003.0006
 * Fodor, J.A. & E. Lepore, 1994, “What is the connection principle?” *Philosophy and Phenomenological Research*, 54(4): 837–45.
 * Georgalis, N., 2003, “The fiction of phenomenal intentionality”, *Consciousness and Emotion*, 4(2): 243–256.
 * –––, 2006, *The Primacy of the Subjective: Foundations for a Unified Theory of Mind and Language*, Cambridge, MA: Bradford Book/MIT Press.
-* Gertler, Brie, 2001, “The relationship between phenomenality and intentionality: Comments on Siewert’s *The Significance of Consciousness*”, *Psyche*, 7(17). URL=<http://journalpsyche.org/files/0xaa9a.pdf>
+* Gertler, Brie, 2001, “The relationship between phenomenality and intentionality: Comments on Siewert’s *The Significance of Consciousness*”, *Psyche*, 7(17). URL = <http://journalpsyche.org/files/0xaa9a.pdf>
 * Goff, P., 2012, “Does Mary know I experience plus rather than quus? A new hard problem”, *Philosophical Studies*, 160(2): 223–235.
 * Goldman, A., 1993a, “The psychology of folk psychology”, *Behavioral and Brain Sciences*, 16: 15–28.
 * –––, 1993b, “Consciousness, folk psychology, and cognitive science”, *Consciousness and Cognition*, 2(4): 364–382.
@@ -502,7 +502,7 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Greenberg, Mark & Gilbert Harman, 2007, “Conceptual role semantics”, in Ernest LePore & Barry Smith (eds.), *Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press, 293–322.
 * Harman, Gilbert, 1987, “(Nonsolipsistic) conceptual role semantics”, in Ernest LePore (ed.), *New Directions in Semantics*, New York: Academic Press, 55–81
 * –––, 1990, “The intrinsic quality of experience”, *Philosophical Perspectives*, 4: 31–52.
-* Horgan, Terence, 2011a, “From Agentive Phenomenology to Cognitive Phenomenology: A Guide for the Perplexed”, in Bayne & Montague 2011: 57–78. doi:10.1093/acprof:oso/9780199579938.003.0003
+* Horgan, Terence, 2011a, “From Agentive Phenomenology to Cognitive Phenomenology: A Guide for the Perplexed”, in Bayne & Montague 2011: 57–78. doi: 10.1093/acprof: oso/9780199579938.003.0003
 * –––, 2011b, “Phenomenal intentionality and the evidential role of perceptual experience: comments on Jack Lyons, *Perception and Basic Beliefs*”, *Philosophical Studies*, 153(3): 447–455.
 * –––, 2013, “Original Intentionality is Phenomenal Intentionality”, *The Monist*, 96(2): 232–251.
 * Horgan, Terence & George Graham, 2012, “Phenomenal Intentionality and Content Determinacy”, in Richard Schantz (ed.), *Prospects for Meaning*, Berlin: De Gruyter. 321–344.
@@ -518,7 +518,7 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Kim, Jaegwon, 1998, *Current Issues in Philosophy of Mind*, New York: Cambridge University Press.
 * Kriegel, Uriah, 2007, “Intentional inexistence and phenomenal intentionality”, *Philosophical Perspectives*, 21(1): 307–340.
 * –––, 2011a, *The Sources of Intentionality*, Oxford: Oxford University Press.
-* –––, 2011b, “Cognitive Phenomenology as the Basis of Unconscious Content”, in Bayne & Montague 2011: 79–102. doi:10.1093/acprof:oso/9780199579938.003.0004
+* –––, 2011b, “Cognitive Phenomenology as the Basis of Unconscious Content”, in Bayne & Montague 2011: 79–102. doi: 10.1093/acprof: oso/9780199579938.003.0004
 * –––, 2012, “Towards a New Feeling Theory of Emotion”, *European Journal of Philosophy*, 3: 420–442.
 * –––, 2013a, “Phenomenal intentionality past and present: introductory”, *Phenomenology and the Cognitive Sciences*, 12(3): 437–444.
 * –––, (ed.), 2013b, *Phenomenal Intentionality*, Oxford: Oxford University Press.
@@ -527,7 +527,7 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Levine, Joseph, 1983, “Materialism and qualia: The explanatory gap”, *Pacific Philosophical Quarterly*, 64(October): 354–61.
 * –––, 2003, “Experience and representation”, in Smith & Jokic 2003: 57–76.
 * –––, 2008, “Secondary Qualities: Where Consciousness and Intentionality Meet”, *The Monist*, 91(2): 215–236.
-* –––, 2011, “On the Phenomenology of Thought”, in Bayne & Montague 2011: 103–120. doi:10.1093/acprof:oso/9780199579938.003.0005
+* –––, 2011, “On the Phenomenology of Thought”, in Bayne & Montague 2011: 103–120. doi: 10.1093/acprof: oso/9780199579938.003.0005
 * Lewis, David K., 1983, *Philosophical Papers*, Oxford: Oxford University Press.
 * Loar, Brian, 1987, “Subjective intentionality”, *Philosophical Topics*, 15(1): 89–124.
 * –––, 1988, “Social content and psychological content”, in Robert H. Grimm & D. D. Merrill (eds.), *Contents of Thought*, Tucson: University of Arizona Press, 99–110.
@@ -541,32 +541,32 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * McGinn, Colin, 1988, “Consciousness and content”, *Proceedings of the British Academy*, 74: 219–39.
 * –––, 1991, *The Problem of Consciousness: Essays Toward a Resolution*, Maldon, MA: Blackwell.
 * Mendelovici, Angela, 2010, *Mental Representation and Closely Conflated Topics*, Ph.D. dissertation, Princeton University.
-* –––, 2013, “Intentionalism About Moods”, *Thought: A Journal of Philosophy*, 2(2): 126–136. doi:10.1002/tht3.81
+* –––, 2013, “Intentionalism About Moods”, *Thought: A Journal of Philosophy*, 2(2): 126–136. doi: 10.1002/tht3.81
 * –––, 2018, *The Phenomenal Basis of Intentionality*, New York: Oxford University Press.
-* Mendelovici, Angela & David Bourget, 2014, “Naturalizing Intentionality: Tracking Theories Versus Phenomenal Intentionality Theories”, Philosophy Compass 9(5): 325–337. doi:10.1111/phc3.12123
+* Mendelovici, Angela & David Bourget, 2014, “Naturalizing Intentionality: Tracking Theories Versus Phenomenal Intentionality Theories”, Philosophy Compass 9(5): 325–337. doi: 10.1111/phc3.12123
 * Mendelovici, Angela & David Bourget, forthcoming, “Consciousness and intentionality”, in Uriah Kriegel (ed.), *Oxford Handbook of Consciousness*, New York, USA: Oxford University Press.
 * Mendola, J., 2008, *Anti-Externalism*, Oxford: Oxford University Press.
 * Miller, G.H., 1999, “How phenomenological content determines the intentional object”, *Husserl Studies*, 16(1): 1–24.
 * Mohanty, J., 1989, *Transcendental Phenomenology: An Analytic Account*, Maldon, MA: Basil Blackwell.
 * Montague, M., 2016, *The Given: Experience and its Content*. OUP.
 * Nelkin, Dana K., 2001, “Phenomenal consciousness and intentionality”, *Psyche*, 7(13). URL = <http://journalpsyche.org/files/0xaa98.pdf>
-* Pautz, Adam, 2006a, Sensory awareness is not a wide physical relation: An empirical argument against externalist intentionalism. *Noûs* 40 (2):205–240.
-* –––, 2006b, , Can the physicalist explain colour structure in terms of colour experience? *Australasian Journal of Philosophy* 84 (4):535–564.
-* –––, 2008, The interdependence of phenomenology and intentionality. *The Monist* 91(2):250–272.
+* Pautz, Adam, 2006a, Sensory awareness is not a wide physical relation: An empirical argument against externalist intentionalism. *Noûs* 40 (2): 205–240.
+* –––, 2006b, , Can the physicalist explain colour structure in terms of colour experience? *Australasian Journal of Philosophy* 84 (4): 535–564.
+* –––, 2008, The interdependence of phenomenology and intentionality. *The Monist* 91(2): 250–272.
 * –––, 2009, Colour, philosophical perspectives. In Axel Cleeremans, Patrick Wilken & Tim Bayne (eds.), *Oxford Companion to Consciousness.* Oxford University Press. pp. 144–149.
-* –––, 2010, “A Simple View of Consciousness”, in Robert C. Koons and George Bealer (ed.), *The Waning of Materialism*, Oxford: Oxford University Press, pages 25–66. doi:10.1093/acprof:oso/9780199556182.003.0002
-* –––, 2013, “Does Phenomenology Ground Mental Content?”, in Kriegel 2013b: 194–234 doi:10.1093/acprof:oso/9780199764297.003.0011
+* –––, 2010, “A Simple View of Consciousness”, in Robert C. Koons and George Bealer (ed.), *The Waning of Materialism*, Oxford: Oxford University Press, pages 25–66. doi: 10.1093/acprof: oso/9780199556182.003.0002
+* –––, 2013, “Does Phenomenology Ground Mental Content?”, in Kriegel 2013b: 194–234 doi: 10.1093/acprof: oso/9780199764297.003.0011
 * –––, 2014, “The Real Trouble with Armchair Arguments Against Phenomenal Externalismi”, in Sprevak and Kallestrup (eds) New Waves in the Philosophy of Mind, Palgrave.
-* –––, 2017, “The Significance Argument for the Irreducibility of Consciousness”, *Philosophical Perspectives* 31 (1):349–407 (2017)
-* Peacocke, Christopher, 1998, “Conscious Attitudes, Attention, and Self-Knowledge”, in Crispin Wright, Barry C. Smith, and Cynthia Macdonald (eds.), *Knowing Our Own Minds*, Oxford: Oxford University Press, 63–98. doi:10.1093/0199241406.003.0004
+* –––, 2017, “The Significance Argument for the Irreducibility of Consciousness”, *Philosophical Perspectives* 31 (1): 349–407 (2017)
+* Peacocke, Christopher, 1998, “Conscious Attitudes, Attention, and Self-Knowledge”, in Crispin Wright, Barry C. Smith, and Cynthia Macdonald (eds.), *Knowing Our Own Minds*, Oxford: Oxford University Press, 63–98. doi: 10.1093/0199241406.003.0004
 * Pitt, David, 1999, “In defense of definitions”, *Philosophical Psychology*, 12(2): 139–156.
 * –––, 2004, “The phenomenology of cognition, or, what is it like to think that *P*?” *Philosophy and Phenomenological Research*, 69(1): 1–36.
 * –––, 2009, “Intentional psychologism”, *Philosophical Studies*, 146(1): 117 - 138.
-* –––, 2011, “Introspection, Phenomenality, and the Availability of Intentional Content”, in Bayne & Montague 2011: 141–173. doi:10.1093/acprof:oso/9780199579938.003.0007
+* –––, 2011, “Introspection, Phenomenality, and the Availability of Intentional Content”, in Bayne & Montague 2011: 141–173. doi: 10.1093/acprof: oso/9780199579938.003.0007
 * Putnam, H., 1975, “The meaning of ‘meaning’”, *Minnesota Studies in the Philosophy of Science*, 7: 131–193.
 * Quine, W.V.O., 1960, *Word & Object*, Cambridge, MA: MIT Press.
-* Richards, T. Brad & Andrew R. Bailey, 2014, “Horgan and Tienson on phenomenology and intentionality.”, *Philosophical Studies* 167 (2):313–326.
-* Robinson, William S., 2011, “A frugal view of cognitive phenomenology”, in Bayne and Montague 2011: 197–214. doi:10.1093/acprof:oso/9780199579938.003.0009
+* Richards, T. Brad & Andrew R. Bailey, 2014, “Horgan and Tienson on phenomenology and intentionality.”, *Philosophical Studies* 167 (2): 313–326.
+* Robinson, William S., 2011, “A frugal view of cognitive phenomenology”, in Bayne and Montague 2011: 197–214. doi: 10.1093/acprof: oso/9780199579938.003.0009
 * Russell, Bertrand, 1910, “Knowledge by acquaintance and knowledge by description”, *Proceedings of the Aristotelian Society*, 11(5): 108—28.
 * Schwitzgebel, E., 2002, “A phenomenal, dispositional account of belief”, *Noûs*, 36(2): 249–75.
 * Seager, William E. & David Bourget, 2007, “Representationalism about consciousness”, in Velmans & Schneider 2007: 261–276.
@@ -582,26 +582,26 @@ Bourget（2010 年，2015 年）和 Pitt（2009 年，其他互联网资源）�
 * Smith, D.W., 1986, “The ins and outs of perception”, *Philosophical Studies*, 49(March): 187–211.
 * Smith, Quentin & Aleksandar Jokic (eds.), 2003, *Consciousness: New Philosophical Perspectives*, Oxford: Oxford University Press.
 * Smithies, D., 2014, The Phenomenal Basis of Epistemic Justification. In Jesper Kallestrup & Mark Sprevak (eds.), *New Waves in Philosophy of Mind*. Palgrave MacMillan 98–124.
-* –––, 2013a, The Significance of Cognitive Phenomenology. *Philosophy Compass* 8 (8):731–743.
-* –––, 2013b, The Nature of Cognitive Phenomenology. *Philosophy Compass* 8 (8):744–754.
-* –––, 2012. The mental lives of zombies. *Philosophical Perspectives* 26 (1):343–372.
+* –––, 2013a, The Significance of Cognitive Phenomenology. *Philosophy Compass* 8 (8): 731–743.
+* –––, 2013b, The Nature of Cognitive Phenomenology. *Philosophy Compass* 8 (8): 744–754.
+* –––, 2012. The mental lives of zombies. *Philosophical Perspectives* 26 (1): 343–372.
 * Speaks, Jeff, 2015, *The Phenomenal and the Representational*, Oxford University Press.
 * Strawson, Galen, 1994, *Mental Reality*, Cambridge, MA: MIT Press.
 * –––, 2008, “Real intentionality 3: Why intentionality entails consciousness”, in Galen Strawson, *Real Materialism and Other Essays*, Oxford: Oxford University Press, 53–74.
-* –––, 2011a, “Cognitive phenomenology: real life”, in Bayne & Montague 2011: 285–325. doi:10.1093/acprof:oso/9780199579938.003.0013
+* –––, 2011a, “Cognitive phenomenology: real life”, in Bayne & Montague 2011: 285–325. doi: 10.1093/acprof: oso/9780199579938.003.0013
 * –––, 2011b, “Real naturalism”, *Proceedings and Addresses of the American Philosophical Association*, 86(2).
 * Travis, Charles S., 2004, “The silence of the senses”, *Mind*, 113(449): 57–94.
 * Trogdon, Kelly, 2013, “An Introduction to Grounding”, in Miguel Hoeltje, Benjamin Schnieder & Alex Steinberg (eds.), *Varieties of Dependence: Ontological Dependence, Grounding, Supervenience, Response-Dependence*, (Basic Philosophical Concepts), München: Philosophia Verlag, pages 97–122.
 * Tye, Michael, 2000, *Consciousness, Color, and Content*, Cambridge, MA: MIT Press.
 * –––, forthcoming, “Phenomenal externalism, lolita, and the planet xenon”, in Terence E. Horgan & David Sosa (eds.), *Collection on the Philosophy of Jaegwon Kim*, Cambridge, MA: MIT Press.
-* Tye, Michael & Briggs Wright, 2011, “Is there a phenomenology of thought?” in Bayne & Montague 2011: 326–344. doi:10.1093/acprof:oso/9780199579938.003.0014
+* Tye, Michael & Briggs Wright, 2011, “Is there a phenomenology of thought?” in Bayne & Montague 2011: 326–344. doi: 10.1093/acprof: oso/9780199579938.003.0014
 * Van Baaren, Robbert, 1999, “A critical evaluation of Searle’s connection principle”, *Teorema*, 18(1): 73–83.
 * Van Gulick, Robert, 1995, “How should we understand the relation between intentionality and phenomenal consciousness”, *Philosophical Perspectives*, 9: 271–89. doi: 10.2307/2214222
 * Velmans, Max & Susan Schneider (eds.), 2007, *The Blackwell Companion to Consciousness*, Maldon, MA: Blackwell.
 * Wilson, R.A., 2003, “Intentionality and phenomenology”, *Pacific Philosophical Quarterly*, 84(4): 413–431.
 * Woodward, P., forthcoming-a. “Phenomenal intentionality: reductionism vs. primitivism”. *Canadian Journal of Philosophy*, 1–22.
 * –––, forthcoming-b, “Primer, Proposal, and Paradigm: A Review Essay of Mendelovici’s *The Phenomenal Basis of Intentionality*”, *Philosophical Psychology*.
-* –––, 2016, “Conscious intentionality in perception, imagination, and cognition.” *Phenomenology and Mind* (10):140–155.
+* –––, 2016, “Conscious intentionality in perception, imagination, and cognition.” *Phenomenology and Mind* (10): 140–155.
 
 ## Academic Tools
 

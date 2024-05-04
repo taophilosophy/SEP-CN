@@ -1,12 +1,12 @@
 # 互联网研究伦理 internet research (Elizabeth A. Buchanan and Michael Zimmer)
 
-*首次发表于2012年6月22日星期五；实质性修订于2021年1月12日星期二*
+*首次发表于 2012 年 6 月 22 日星期五；实质性修订于 2021 年 1 月 12 日星期二*
 
 很少有研究不受互联网的影响。作为一个领域、工具和场所，互联网具有特定且广泛的伦理问题。互联网研究伦理是一个跨越许多学科的子学科，包括社会科学、艺术与人文学科、医学/生物医学学科和自然科学。现有的伦理框架，包括后果主义、义务论、德性伦理和女性主义伦理，对互联网研究中的伦理问题的考虑和评估做出了贡献。
 
-从概念上和历史上看，互联网研究伦理与计算机和信息伦理最相关，包括参与者知情和同意、数据隐私、安全性、匿名性和保密性、数据完整性、知识产权问题以及社区、学科和专业标准或规范等伦理问题。在互联网的发展过程中，人们一直在争论是否出现了新的伦理困境，或者现有的困境是否与其他研究领域的困境类似（Elgesem 2002；Walther 2002；Ess & AoIR 2002；Marhkam & Buchanan 2012）。这些争论类似于计算机和信息伦理的哲学争论。例如，许多年前，詹姆斯·穆尔（James Moor）提出了“计算机有什么特别之处”的问题，以便理解在伦理上是否存在独特之处。然而，van Heerden 等人（2020）和 Sloan 等人（2020）强调，无论技术干预如何，研究本身必须受到伦理原则的指导，社会研究的基本伦理原则保持不变（Ess & AoIR 2002；King 1996；Samuel and Buchanan, 2020）。
+从概念上和历史上看，互联网研究伦理与计算机和信息伦理最相关，包括参与者知情和同意、数据隐私、安全性、匿名性和保密性、数据完整性、知识产权问题以及社区、学科和专业标准或规范等伦理问题。在互联网的发展过程中，人们一直在争论是否出现了新的伦理困境，或者现有的困境是否与其他研究领域的困境类似（Elgesem 2002；Walther 2002；Ess & AoIR 2002；Marhkam & Buchanan 2012）。这些争论类似于计算机和信息伦理的哲学争论。例如，许多年前，詹姆斯 · 穆尔（James Moor）提出了“计算机有什么特别之处”的问题，以便理解在伦理上是否存在独特之处。然而，van Heerden 等人（2020）和 Sloan 等人（2020）强调，无论技术干预如何，研究本身必须受到伦理原则的指导，社会研究的基本伦理原则保持不变（Ess & AoIR 2002；King 1996；Samuel and Buchanan, 2020）。
 
-然而，随着互联网逐渐演变成为更具社交和交流功能的工具和场所，伦理问题已经从纯粹的数据驱动转变为更加以人为中心。然而，“现实世界”或面对面的类比可能不适用于在线研究。例如，公园的概念被用作研究人员可以在其中观察他人而几乎没有伦理争议的场所，但在线上，公共与私人的概念要复杂得多（SACHRP 2013）。因此，一些学者认为，互联网研究伦理的特殊性需要新的监管和/或专业和学科指导。出于这些原因，人体研究政策和规定的概念在这篇文章中起到了指导作用，将继续讨论伦理和方法论的复杂性，包括个人可识别性、声誉风险和伤害、公共空间和公共文本的概念、数据的所有权和持久性，以及与互联网研究相关的各种期望和隐私形式的保护。具体而言，社交网络的出现引发了一系列问题，涉及受试者或参与者招募实践、分层知情同意模型以及在不断扩散和普及的技术世界中保护各种隐私期望和形式的问题。其他伦理关注点集中在匿名性和数据保密性的问题上，在这些场所中，研究人员及其受试者可能无法完全理解这些场所或工具的条款和条件，数据完整性的挑战，因为研究项目可以外包或众包到在线劳动力市场，以及司法管辖权的问题，因为越来越多的研究通过云计算或远程服务器地点进行处理、存储和传播，鉴于数据法律的司法管辖权差异，这带来了众多的法律复杂性。此外，大数据研究的主导地位在各个研究领域持续存在，"真实世界数据"和普适计算的概念被广泛接受和应用于所有学科。 众多方式中使用大数据集的便利性和可用性使得人工智能（AI）和机器学习（ML）成为研究人员的标准工具。
+然而，随着互联网逐渐演变成为更具社交和交流功能的工具和场所，伦理问题已经从纯粹的数据驱动转变为更加以人为中心。然而，“现实世界”或面对面的类比可能不适用于在线研究。例如，公园的概念被用作研究人员可以在其中观察他人而几乎没有伦理争议的场所，但在线上，公共与私人的概念要复杂得多（SACHRP 2013）。因此，一些学者认为，互联网研究伦理的特殊性需要新的监管和/或专业和学科指导。出于这些原因，人体研究政策和规定的概念在这篇文章中起到了指导作用，将继续讨论伦理和方法论的复杂性，包括个人可识别性、声誉风险和伤害、公共空间和公共文本的概念、数据的所有权和持久性，以及与互联网研究相关的各种期望和隐私形式的保护。具体而言，社交网络的出现引发了一系列问题，涉及受试者或参与者招募实践、分层知情同意模型以及在不断扩散和普及的技术世界中保护各种隐私期望和形式的问题。其他伦理关注点集中在匿名性和数据保密性的问题上，在这些场所中，研究人员及其受试者可能无法完全理解这些场所或工具的条款和条件，数据完整性的挑战，因为研究项目可以外包或众包到在线劳动力市场，以及司法管辖权的问题，因为越来越多的研究通过云计算或远程服务器地点进行处理、存储和传播，鉴于数据法律的司法管辖权差异，这带来了众多的法律复杂性。此外，大数据研究的主导地位在各个研究领域持续存在，"真实世界数据" 和普适计算的概念被广泛接受和应用于所有学科。 众多方式中使用大数据集的便利性和可用性使得人工智能（AI）和机器学习（ML）成为研究人员的标准工具。
 
 因此，将互联网作为研究工具和/或研究空间的研究人员以及他们的研究伦理委员会（REBs，也称为美国的机构审查委员会（IRBs）或其他国家（如澳大利亚）的人类研究伦理委员会（HRECs））面临一系列新的伦理问题：研究人员对于保护在“公共”互联网空间中从事活动的受试者的隐私有哪些伦理义务？这样的公共空间是什么？在普遍和无处不在的监视和数据追踪时代，是否存在合理的隐私期望？在线上如何确保机密性或匿名性？在线上如何获得和应该获得知情同意？如何进行未成年人的研究，以及如何证明受试者不是未成年人？欺骗（假扮成别人，隐瞒可识别信息等）是否是可以接受的在线规范或伤害？在在线空间中，对于存在的人来说，“伤害”是如何可能的？在大数据集中个人的可识别性有多高？人类受试者保护是否适用于大数据？随着越来越多的行业赞助研究的进行，当前监管结构之外还存在哪些伦理保护措施？随着诸如欧盟的《通用数据保护条例》（GDPR 2016）的法律的颁布，对于数据隐私和个人权利的全球影响是什么？
 
@@ -43,9 +43,9 @@
 
 > 一组基于互联网的应用程序，建立在 Web 2.0 的意识形态和技术基础上，允许用户生成内容的创建和交流（Kaplan＆Haenlein 2010 年：61）。
 
-"社交网络网站"是一类具有个人资料、半持久性公开评论以及与个人资料相关的可遍历的公开社交网络的网站类别。
+"社交网络网站" 是一类具有个人资料、半持久性公开评论以及与个人资料相关的可遍历的公开社交网络的网站类别。
 
-工具和场所的崩溃主要可以追溯到第三方网站和应用程序的增加使用，例如 Facebook、Twitter 或任何其他各种在线研究工具，其中主题或参与者招募、数据收集、数据分析和数据传播都可以在同一空间中进行。随着这些边界的崩溃，"跨辖区协调"的条件（Gilbert 2009: 3）本质上具有挑战性；Gilbert 特别反对虚拟世界中的使用条款或最终用户许可协议规定，指出这些协议通常是"有缺陷"的，因为它们依赖于特定地区的法律法规，并试图在非基于地点的环境中强制执行它们。尽管如此，研究人员现在经常使用数据聚合工具，从用户资料或交易日志中抓取数据，从 Twitter 流中收集数据，或者仅在同意与这些网站相关的服务条款后将数据存储在云服务器（如 Dropbox）上。使用这些第三方应用程序或工具改变了研究的基本方面，往往使研究人员或研究团队不再是其数据的唯一所有者。这些独特的特征涉及隐私、同意、所有权和辖区边界的概念和实际问题。
+工具和场所的崩溃主要可以追溯到第三方网站和应用程序的增加使用，例如 Facebook、Twitter 或任何其他各种在线研究工具，其中主题或参与者招募、数据收集、数据分析和数据传播都可以在同一空间中进行。随着这些边界的崩溃，"跨辖区协调" 的条件（Gilbert 2009: 3）本质上具有挑战性；Gilbert 特别反对虚拟世界中的使用条款或最终用户许可协议规定，指出这些协议通常是 "有缺陷" 的，因为它们依赖于特定地区的法律法规，并试图在非基于地点的环境中强制执行它们。尽管如此，研究人员现在经常使用数据聚合工具，从用户资料或交易日志中抓取数据，从 Twitter 流中收集数据，或者仅在同意与这些网站相关的服务条款后将数据存储在云服务器（如 Dropbox）上。使用这些第三方应用程序或工具改变了研究的基本方面，往往使研究人员或研究团队不再是其数据的唯一所有者。这些独特的特征涉及隐私、同意、所有权和辖区边界的概念和实际问题。
 
 一个典型的关键时刻，引起了许多这些关注的问题，是在 2014 年 Facebook 的情绪传染研究中出现的（Booth，2014）。通过同意 Facebook 的服务条款，用户是否同意参与研究活动？实验后是否应该进行解释说明？大学研究伦理委员会对这项研究进行了多么彻底的审查？行业赞助的研究是否需要进行内部伦理审查？作为对传染研究的抗议，Ok Cupid 的 Christian Rudder（2014 [ OIR]）为这类实验进行了辩护，指出
 
@@ -57,7 +57,7 @@
 
 人类受试者保护的实际、专业和理论意义在学术文献中得到了广泛讨论，涵盖了医学/生物医学、社会科学、计算和技术学科（参见 Beauchamp＆Childress 2008；Emanual 等，2003；PRIM＆R 等，2021；Sieber 1992；Wright 2006）。在研究伦理违规行为面前，相关的保护和规定仍然受到广泛关注（例如，Skloot 2010 关于 Henrietta Lacks；美国政府就 1940 年代在危地马拉进行的性病测试向危地马拉政府承认并道歉（BBC 2011）；以及 Gaw＆Burns 2011 关于过去的经验如何指导当前的研究伦理和行为）。
 
-人类受试者保护的历史（Sparks 2002 [见其他互联网资源，即OIR]）起源于二战期间纳粹人体实验等暴行，导致了纽伦堡宪章（1947年）的出台；随后是涉及人类受试者的医学研究伦理原则宣言（世界医学协会1964/2008）。部分原因是为了回应图斯基吉梅实验，这是一项由美国公共卫生局在1932年至1972年间进行的臭名昭著的临床研究，研究对象是阿拉巴马州农村非裔美国男性未经治疗梅毒的自然进展，以获得政府提供的免费医疗保健，美国卫生与人类服务部提出了一套基本规定，以保护人类受试者（45 C.F.R. § 46）（请参阅其他互联网资源部分的链接，法律和政府文件）。随后，由国家生物医学和行为研究人类受试者保护委员会发布了《人类研究受试者保护的伦理原则和指南》，即贝尔蒙特报告（NCPHSBBR 1979）。贝尔蒙特报告确定了所有人类受试者研究的三个基本伦理原则：尊重人的原则、善行原则和公正原则。
+人类受试者保护的历史（Sparks 2002 [见其他互联网资源，即 OIR]）起源于二战期间纳粹人体实验等暴行，导致了纽伦堡宪章（1947 年）的出台；随后是涉及人类受试者的医学研究伦理原则宣言（世界医学协会 1964/2008）。部分原因是为了回应图斯基吉梅实验，这是一项由美国公共卫生局在 1932 年至 1972 年间进行的臭名昭著的临床研究，研究对象是阿拉巴马州农村非裔美国男性未经治疗梅毒的自然进展，以获得政府提供的免费医疗保健，美国卫生与人类服务部提出了一套基本规定，以保护人类受试者（45 C.F.R. § 46）（请参阅其他互联网资源部分的链接，法律和政府文件）。随后，由国家生物医学和行为研究人类受试者保护委员会发布了《人类研究受试者保护的伦理原则和指南》，即贝尔蒙特报告（NCPHSBBR 1979）。贝尔蒙特报告确定了所有人类受试者研究的三个基本伦理原则：尊重人的原则、善行原则和公正原则。
 
 为了确保美国联邦机构在人体试验保护方面的一致性，1991 年，制定了《人体试验保护联邦政策》，也被称为“共同规则”；修订后的共同规则于 2017 年 1 月 19 日在《联邦公报》上发布，并于 2018 年 7 月 19 日生效。世界各地也存在类似的人体试验保护的监管框架，例如加拿大三议会、澳大利亚研究委员会、欧洲委员会、挪威研究委员会及其社会科学和人文学科国家研究伦理委员会（NESH 2006；NESH 2019），以及英国的 NHS 国家研究伦理服务和 ESRC（经济和社会研究委员会）的研究伦理框架（REF）的总体指南，以及亚洲和西太平洋地区的伦理审查委员会论坛（FERCAP）。
 
@@ -100,7 +100,7 @@
 
 已经长期从事人类主体研究的多个学科（医学、社会学、人类学、心理学、传播学）已经建立了伦理准则，旨在帮助研究人员和负责确保人类主体研究遵循法律要求和伦理实践的人员。但是，在涉及互联网的研究中，个人越来越多地在具有渗透性和不断变化的平台上共享个人信息，数据从不同来源的传播和聚合已成为常态，网络服务及其隐私政策和服务条款也在迅速变化和演变，传统上研究人员和伦理审查委员会使用的伦理框架和假设经常受到挑战。
 
-伦理研究委员会自身面临着基于互联网的研究协议所具有的独特伦理维度的挑战。在 2008 年对美国伦理审查委员会的调查中，不到一半的伦理审查委员会认为基于互联网的研究是当时的“关注或重要领域”，只有 6%的委员会制定了针对基于互联网的研究协议的指南或检查清单（Buchanan＆Ess 2009）。到 2015 年，93%的伦理审查委员会承认使用“在线数据”进行研究存在独特的伦理问题，但只有 55%的委员会表示他们对在线数据收集的技术方面非常熟悉，只有 57%的委员会同意他们的委员会具备跟上在线技术变化的专业知识。伦理审查委员会现在面临着大数据研究的进一步挑战（见下文的§4.5），这种研究越来越依赖于通过社交媒体、数字设备或其他方式生成的大量个人信息数据集，这些数据通常对用户隐藏。一项 2019 年对伦理审查委员会的研究显示，只有 25%的委员会准备好评估依赖大数据的协议，只有 6%的委员会拥有足够的工具来考虑这个新兴的互联网研究领域（Zimmer＆Chapman 2020）。此外，在被提出各种使用大数据的假设性研究场景并被问及他们的伦理审查委员会可能如何审查此类协议后，许多观点在许多情况下存在明显差异。请考虑以下情景：
+伦理研究委员会自身面临着基于互联网的研究协议所具有的独特伦理维度的挑战。在 2008 年对美国伦理审查委员会的调查中，不到一半的伦理审查委员会认为基于互联网的研究是当时的“关注或重要领域”，只有 6%的委员会制定了针对基于互联网的研究协议的指南或检查清单（Buchanan＆Ess 2009）。到 2015 年，93%的伦理审查委员会承认使用“在线数据”进行研究存在独特的伦理问题，但只有 55%的委员会表示他们对在线数据收集的技术方面非常熟悉，只有 57%的委员会同意他们的委员会具备跟上在线技术变化的专业知识。伦理审查委员会现在面临着大数据研究的进一步挑战（见下文的 §4.5），这种研究越来越依赖于通过社交媒体、数字设备或其他方式生成的大量个人信息数据集，这些数据通常对用户隐藏。一项 2019 年对伦理审查委员会的研究显示，只有 25%的委员会准备好评估依赖大数据的协议，只有 6%的委员会拥有足够的工具来考虑这个新兴的互联网研究领域（Zimmer＆Chapman 2020）。此外，在被提出各种使用大数据的假设性研究场景并被问及他们的伦理审查委员会可能如何审查此类协议后，许多观点在许多情况下存在明显差异。请考虑以下情景：
 
 > 研究人员计划从在线报纸页面上抓取公共评论以预测选举结果。他们将汇总分析结果以确定公众情绪。研究人员不打算通知评论者，并计划收集可能可识别的用户名。抓取评论违反了报纸的服务条款。
 
@@ -110,19 +110,19 @@
 
 自 1990 年代以来，围绕互联网用于研究的大量文献已经涌现出来（S. Jones 1999; Hunsinger, Klastrup, & Allen (eds.) 2010; Consalvo & Ess (eds.) 2011; Zimmer & Kinder-Kurlanda (eds.) 2017），并越来越强调互联网研究的伦理维度。
 
-一系列的互联网研究以及对其中伦理问题的明确关注始于 1990 年代中期。1996 年，斯托姆·金（Storm King）意识到互联网作为研究场所的日益增长的使用。他的工作探讨了美国心理学协会关于新兴形式的电子邮件、聊天、列表和虚拟社区的人类研究指南。金对互联网受试者的风险和利益给予了谨慎的关注，并发出了警告：
+一系列的互联网研究以及对其中伦理问题的明确关注始于 1990 年代中期。1996 年，斯托姆 · 金（Storm King）意识到互联网作为研究场所的日益增长的使用。他的工作探讨了美国心理学协会关于新兴形式的电子邮件、聊天、列表和虚拟社区的人类研究指南。金对互联网受试者的风险和利益给予了谨慎的关注，并发出了警告：
 
 > 当一个研究领域是新的时候，其中涉及的伦理考虑的细节是未定义的。随着该领域的发展和结果的编制，研究人员经常回顾早期的研究，并因为对涉及的人类受试者的明显漠视而感到担忧（1996 年：119）。
 
 1996 年《信息社会》杂志专门致力于互联网研究，被认为是一个重要的时刻，并包括许多至今仍具有影响力和相关性的开创性研究（Allen 1996; Boehlefeld 1996; Reid 1996）。
 
-1997 年，谢丽·特克尔（Sherry Turkle）的《屏幕上的生活：互联网时代的身份》（Life on the Screen: Identity in the Age of the Internet）直接关注了在线游戏环境中的人类因素。特克尔将研究重点从以文本为基础转向以人为基础，推动研究人员考虑互联网研究的人类主体影响。同样，马克汉姆（Markham）在 1998 年的《在线生活：虚拟空间中的真实体验研究》（Life Online: Researching Real Experience in Virtual Space）中强调了在线民族志研究的方法论复杂性，雅各布森（Jacobson）在 1999 年的互联网研究方法论处理中也提到了这一点。研究的“领域”改变了研究者与被研究者的角色、身份和参与者在虚拟空间中的表现。马克汉姆在定性在线研究方面的工作对各学科产生了影响，护理学、心理学和医学的研究发现了这一范式在在线研究中的潜力（Flicker 等，2004 年；Eysenbach 和 Till，2001 年；Seaboldt 和 Kupier，1997 年；Sharf，1997 年）。
+1997 年，谢丽 · 特克尔（Sherry Turkle）的《屏幕上的生活：互联网时代的身份》（Life on the Screen: Identity in the Age of the Internet）直接关注了在线游戏环境中的人类因素。特克尔将研究重点从以文本为基础转向以人为基础，推动研究人员考虑互联网研究的人类主体影响。同样，马克汉姆（Markham）在 1998 年的《在线生活：虚拟空间中的真实体验研究》（Life Online: Researching Real Experience in Virtual Space）中强调了在线民族志研究的方法论复杂性，雅各布森（Jacobson）在 1999 年的互联网研究方法论处理中也提到了这一点。研究的“领域”改变了研究者与被研究者的角色、身份和参与者在虚拟空间中的表现。马克汉姆在定性在线研究方面的工作对各学科产生了影响，护理学、心理学和医学的研究发现了这一范式在在线研究中的潜力（Flicker 等，2004 年；Eysenbach 和 Till，2001 年；Seaboldt 和 Kupier，1997 年；Sharf，1997 年）。
 
 然后，在 1999 年，美国科学促进会（AAAS）在美国研究风险保护办公室（现称为人类研究保护办公室）的合同下召开了一次研讨会，旨在评估传统研究伦理概念与互联网研究的一致性。该研讨会承认了互联网上潜在可用的大量社会和行为信息，使其成为希望研究人类互动动态及其在这个虚拟媒介中的后果的研究人员的主要目标。研究人员可以以相对较低的成本和较短的时间从广泛分散的人群中收集数据，而类似的努力在现实世界中需要更多的时间。因此，互联网研究的数量增加了，从调查到自然观察都有（Frankel 和 Siang，1999 年：1）。
 
 > 伦理学对互联网研究的保护的重要性已经得到了广泛的认可。互联网上潜在可用的大量社会和行为信息使其成为希望研究人类互动动态及其在这个虚拟媒介中的后果的研究人员的主要目标。研究人员可以以相对较低的成本和较短的时间从广泛分散的人群中收集数据，而类似的努力在现实世界中需要更多的时间。因此，互联网研究的数量增加了，从调查到自然观察都有（Frankel 和 Siang，1999 年：1）。
 
-在医学/生物医学领域，互联网研究迅速发展。1999 年，冈瑟·艾森巴赫（Gunther Eysenbach）撰写了新成立的《医学互联网研究杂志》的第一篇社论。这本杂志成立的背后有三个推动力，艾森巴赫指出了互联网日益增长的社交和人际交往方面的重要性：
+在医学/生物医学领域，互联网研究迅速发展。1999 年，冈瑟 · 艾森巴赫（Gunther Eysenbach）撰写了新成立的《医学互联网研究杂志》的第一篇社论。这本杂志成立的背后有三个推动力，艾森巴赫指出了互联网日益增长的社交和人际交往方面的重要性：
 
 > 首先，互联网协议被用于临床信息和沟通。未来，互联网技术将成为许多远程医疗应用的平台。其次，互联网改变了医学非临床信息的收集、获取和传播方式：通过图形用户界面，现在可以全球范围内访问文献和事实数据库，可以使用互联网收集流行病学和公共卫生信息，互联网越来越多地用于互动医学教育应用。第三，互联网在消费者健康教育、健康促进和远程预防中发挥重要作用。（顺便提一下，应强调“互联网上的健康教育”超越了传统的健康教育模式，即医务人员教导患者的模式：在互联网上，很多“健康教育”是通过患者自我支持团体在虚拟空间中组织的“消费者对消费者”方式进行的。这种患者之间的交流已成为医疗保健的重要组成部分，并重新定义了传统的预防医学和健康促进模式）。
 
@@ -156,21 +156,21 @@
 
 2018 年欧盟《通用数据保护条例》规定了欧盟范围内数据使用的法律和监管要求。Mondschein 和 Monda（2018）对 GDPR 中考虑的不同类型的数据进行了详细讨论：个人数据，如姓名、身份证号码、位置数据等；特殊类别的个人数据，如种族或民族起源、政治观点或宗教信仰；伪匿名数据，指已经更改以使主体无法直接识别而需要进一步信息的数据；匿名数据，即与可识别的自然人或已经以使数据主体不再可识别的个人数据无关的信息。他们还建议研究人员考虑
 
-> 在使用个人数据的大规模研究项目中，早期阶段的数据保护问题非常重要（2018年：56）。
+> 在使用个人数据的大规模研究项目中，早期阶段的数据保护问题非常重要（2018 年：56）。
 
-互联网研究给旨在保护个体隐私的长期定义和监管框架带来了新的复杂性。例如，研究人员越来越能够从Facebook、Twitter、博客或公共电子邮件档案等来源收集有关个人的详细数据，这些丰富的数据集可以更容易地进行处理、比较和与其他在线可用的数据（和数据集）相结合。在许多情况下，研究人员和普通公众都能够通过分析和比较这些数据集来重新识别个体，使用的数据字段可能只是邮政编码（Sweeny 2002）、随机网络搜索查询（Barbaro＆Zeller 2006）或电影评分（Narayanan＆Shmatikov 2008）等看似无害的信息作为重新识别假定匿名用户的关键。在广泛基于互联网的数据收集和处理之前，很少有人会将电影评分或邮政编码视为可以识别个人身份的信息。然而，这些案例揭示了仅仅剥离传统的“可识别”信息，如主体的姓名、地址或社会安全号码，已不再足以确保数据保持匿名（Ohm 2010），并需要重新考虑什么被认为是“个人可识别信息”（Schwartz＆Solove 2011）。这指出了保持数据机密与真正匿名数据之间的关键区别。随着研究人员经常证明他们可以轻松地重新识别“匿名化”数据集中隐藏的个体（Ohm 2010），数据很少完全匿名。这一现实对确保数据至少通过物理和计算安全措施得到适当保密施加了新的压力。这些措施还可能包括要求在“无污染室”或非网络环境中存储数据，以控制数据传输。
+互联网研究给旨在保护个体隐私的长期定义和监管框架带来了新的复杂性。例如，研究人员越来越能够从 Facebook、Twitter、博客或公共电子邮件档案等来源收集有关个人的详细数据，这些丰富的数据集可以更容易地进行处理、比较和与其他在线可用的数据（和数据集）相结合。在许多情况下，研究人员和普通公众都能够通过分析和比较这些数据集来重新识别个体，使用的数据字段可能只是邮政编码（Sweeny 2002）、随机网络搜索查询（Barbaro＆Zeller 2006）或电影评分（Narayanan＆Shmatikov 2008）等看似无害的信息作为重新识别假定匿名用户的关键。在广泛基于互联网的数据收集和处理之前，很少有人会将电影评分或邮政编码视为可以识别个人身份的信息。然而，这些案例揭示了仅仅剥离传统的“可识别”信息，如主体的姓名、地址或社会安全号码，已不再足以确保数据保持匿名（Ohm 2010），并需要重新考虑什么被认为是“个人可识别信息”（Schwartz＆Solove 2011）。这指出了保持数据机密与真正匿名数据之间的关键区别。随着研究人员经常证明他们可以轻松地重新识别“匿名化”数据集中隐藏的个体（Ohm 2010），数据很少完全匿名。这一现实对确保数据至少通过物理和计算安全措施得到适当保密施加了新的压力。这些措施还可能包括要求在“无污染室”或非网络环境中存储数据，以控制数据传输。
 
 同样，互联网研究中经常收集的新类型数据也可能被用于在先前假定的匿名数据集中识别主体。例如，互联网研究人员在进行在线调查或分析交易日志时可能会收集到 Internet 协议（IP）地址。IP 地址是分配给连接到互联网的每个设备的唯一标识符；在大多数情况下，个人计算机被分配一个唯一的 IP 地址，而在某些情况下，该地址被分配给一组计算机的较大节点或互联网网关。几乎所有的网站和互联网服务提供商都会存储将活动与 IP 地址关联起来的活动日志，在许多情况下，最终与特定的计算机或用户相关联。目前，美国法律不认为 IP 地址是可以识别个人的信息，而其他国家和监管机构则认为是可以识别个人的信息。例如，欧洲数据隐私法第 29 条规定，IP 地址构成个人身份信息。然而，Buchanan 等人（2011）指出，在美国民权法案下，根据 HIPAA 法案的目的，IP 地址被视为一种个人身份信息（45 C.F.R. § 164.514 2002）。其他联邦监管机构对 IP 地址作为个人身份信息的认定可能会重新考虑，研究人员和委员会在发生这种变化时需要保持警惕。
 
 在考虑互联网研究背景下的“私人信息”含义时，也出现了类似的复杂情况。美国联邦法规将“私人信息”定义为：
 
-> [A]在个人可以合理预期没有观察或记录正在进行的情况下发生的行为信息，以及个人提供的并且个人可以合理预期不会公开的特定目的的信息（例如，医疗记录）（45 C.F.R. § 46.102(f) 2009）。
+> [A] 在个人可以合理预期没有观察或记录正在进行的情况下发生的行为信息，以及个人提供的并且个人可以合理预期不会公开的特定目的的信息（例如，医疗记录）（45 C.F.R. § 46.102(f) 2009）。
 
 “私人信息”的标准定义包含两个关键要素。首先，私人信息是指主体合理地期望不会被常规监控或收集的信息。其次，私人信息是指主体合理地期望不会通常公开的信息。相反，该定义也暗示了相反的情况：如果用户不能合理地期望数据不被观察或记录，或者他们不能期望数据不公开，那么这些数据就不符合需要特定隐私保护的“私人信息”的标准。研究人员和伦理审查委员会通常使用这个“私人信息”的定义来确保个人隐私的保护。
 
 然而，当考虑到与基于互联网的研究常见的数据环境和收集实践时，这些区别变得更加重要。对于有兴趣收集或分析受试者的在线行为的研究人员，他们可能会通过挖掘在线服务器日志、使用跟踪 cookie 或抓取社交媒体个人资料和动态来主张受试者没有合理的期望，即这些在线活动不会被例行监测，因为几乎所有在线交易和互动都会被网站和服务提供商例行记录。因此，在线数据轨迹可能不会达到“私人信息”的程度。然而，许多研究表明，普通互联网用户对于他们的活动如何被例行跟踪以及他们访问的网站的相关隐私实践和政策有不完全的了解（Hoofnagle & King 2008 [OIR]；Milne & Culnan 2004；Tsai et al. 2006）。Hudson 和 Bruckman（2005）对用户对隐私的期望和理解进行了实证研究，发现参与者对于公共聊天室内的隐私期望与实际上是一个非常公开的在线空间相冲突。Rosenberg（2010）在虚拟世界领域研究了公共/私人区分，指出研究人员必须确定在线空间中主导的社会规范和关系类型，然后再对所分享信息的“公开性”做出假设。因此，目前尚不清楚互联网用户是否真正了解他们的在线活动是否经常被监测和跟踪，以及真正存在哪种合理的期望。这种不确定性为研究人员和伦理审查委员会在试图将“私人信息”的定义应用于确保受试者隐私得到妥善处理时带来了新的挑战（Zimmer 2010）。
 
-在互联网研究中处理主体隐私的复杂性进一步加剧了社交网络的兴起，成为信息共享和研究的场所。用户在 Facebook 或 Twitter 等平台上越来越多地分享个人信息。对于研究人员来说，社交媒体平台提供了丰富的研究资源，大部分内容可以轻松查看和下载。由于社交媒体网站上发布的大部分信息是公开可见的，因此未能满足“私人信息”的标准监管定义。因此，试图收集和分析社交媒体帖子的研究人员可能不会将数据视为需要特别考虑隐私的数据。然而，社交媒体平台代表了一个复杂的社交互动环境，在这个环境中，用户通常需要将朋友、恋人、同事和稍微熟悉的人放在同一个“朋友”类别中，而隐私政策和服务条款并没有被完全理解（Madejski 等，2011 年），技术基础设施也未能真正支持隐私保护（Bonneau＆Preibush，2010 年）并且经常在没有提前通知的情况下进行更改（Stone，2009 年[ OIR]；Zimmer，2009 年[ OIR]）。因此，很难确定用户在将项目发布到社交媒体平台时的意图（Acquisti＆Gross，2006 年）。用户可能打算将帖子发布给一个私人群组，但未能完全理解如何相应地调整隐私设置。或者，信息可能之前仅限于某些朋友，但技术平台的变化突然使数据对所有人更加可见。
+在互联网研究中处理主体隐私的复杂性进一步加剧了社交网络的兴起，成为信息共享和研究的场所。用户在 Facebook 或 Twitter 等平台上越来越多地分享个人信息。对于研究人员来说，社交媒体平台提供了丰富的研究资源，大部分内容可以轻松查看和下载。由于社交媒体网站上发布的大部分信息是公开可见的，因此未能满足“私人信息”的标准监管定义。因此，试图收集和分析社交媒体帖子的研究人员可能不会将数据视为需要特别考虑隐私的数据。然而，社交媒体平台代表了一个复杂的社交互动环境，在这个环境中，用户通常需要将朋友、恋人、同事和稍微熟悉的人放在同一个“朋友”类别中，而隐私政策和服务条款并没有被完全理解（Madejski 等，2011 年），技术基础设施也未能真正支持隐私保护（Bonneau＆Preibush，2010 年）并且经常在没有提前通知的情况下进行更改（Stone，2009 年 [ OIR]；Zimmer，2009 年 [ OIR]）。因此，很难确定用户在将项目发布到社交媒体平台时的意图（Acquisti＆Gross，2006 年）。用户可能打算将帖子发布给一个私人群组，但未能完全理解如何相应地调整隐私设置。或者，信息可能之前仅限于某些朋友，但技术平台的变化突然使数据对所有人更加可见。
 
 Ohm（2010 年）警告说
 
@@ -180,7 +180,7 @@ Ohm（2010 年）警告说
 
 ### 4.2 招募
 
-根据进行的互联网研究类型的不同，可以通过多种方式招募参与者。与任何形式的研究一样，研究人群或参与者是为特定目的而选择的（例如，对在线游戏玩家特定群体进行民族志研究），或者可以从一系列抽样技术中选择（例如，从亚马逊的 Mechanical Turk 众包平台用户中方便地获取样本[4]）。在美国的背景下，招募计划被视为知情同意过程的一部分，因此，任何招募脚本或发布必须在发布或开始征求意见之前由伦理审查委员会审查和批准（如果项目涉及人体研究）。此外，参与者的选择必须公正和无偏，任何风险和利益必须公平分配。在互联网环境中应用这一概念具有挑战性，因为人群通常是自我选择的，并且可以根据会员资格和访问状态以及基于经济和社会变量的在线访问的常见差异而具有排他性。研究人员还面临招募挑战，因为在线受试者可能具有潜在的匿名性，特别是与在线使用假名、在线具有多个或替代身份以及验证受试者年龄和人口统计信息的一般挑战相关。此外，接触和招募参与者的基本伦理原则包括保护他们的隐私和保密性。互联网研究既可以最大程度地保护这些权益，因为个人可能永远不会超出屏幕名称或虚拟形象的存在；或者，IP 地址的使用、cookie 的放置、提供和访问超出研究目的所需的更多信息等，可能会减少隐私和保密性的保护。
+根据进行的互联网研究类型的不同，可以通过多种方式招募参与者。与任何形式的研究一样，研究人群或参与者是为特定目的而选择的（例如，对在线游戏玩家特定群体进行民族志研究），或者可以从一系列抽样技术中选择（例如，从亚马逊的 Mechanical Turk 众包平台用户中方便地获取样本 [4]）。在美国的背景下，招募计划被视为知情同意过程的一部分，因此，任何招募脚本或发布必须在发布或开始征求意见之前由伦理审查委员会审查和批准（如果项目涉及人体研究）。此外，参与者的选择必须公正和无偏，任何风险和利益必须公平分配。在互联网环境中应用这一概念具有挑战性，因为人群通常是自我选择的，并且可以根据会员资格和访问状态以及基于经济和社会变量的在线访问的常见差异而具有排他性。研究人员还面临招募挑战，因为在线受试者可能具有潜在的匿名性，特别是与在线使用假名、在线具有多个或替代身份以及验证受试者年龄和人口统计信息的一般挑战相关。此外，接触和招募参与者的基本伦理原则包括保护他们的隐私和保密性。互联网研究既可以最大程度地保护这些权益，因为个人可能永远不会超出屏幕名称或虚拟形象的存在；或者，IP 地址的使用、cookie 的放置、提供和访问超出研究目的所需的更多信息等，可能会减少隐私和保密性的保护。
 
 很多招聘活动都是通过社交媒体进行的；例如，推送技术是一种同步方法，研究人员根据个人资料数据、平台活动或地理位置向潜在参与者发送短信或推文。拉取技术招聘的其他方法包括直接发送电子邮件、专用网页、YouTube 视频，通过在论坛或网站上发布“便利贴”引导参与者访问研究网站，或者通过数据聚合或抓取潜在招募数据。无论使用何种方式，研究人员必须遵守网站的条款，包括特定规范和细微差别，以及服务协议方面的法律问题。例如，早期的亚洲瘦网站（参见 Overbeke 2008）通常被视为需要特别考虑的敏感空间，研究人员被要求尊重参与者的隐私并不进行研究（Walstrom 2004）。在游戏环境中，Reynolds 和 de Zwart（2010）提出以下问题：
 
@@ -295,7 +295,7 @@ Spriggs（2010）在澳大利亚的背景下指出，虽然在《国家声明》
 
 尽管大数据的概念并不新鲜，这个术语自上世纪 90 年代以来一直存在于技术讨论中，但公众对大数据研究的认识和反应要远远晚于现在。随着基于社交媒体的研究的兴起，布坎南（2016）描述了从 2012 年至今“大数据”研究的出现，而且没有终点的迹象。
 
-大数据研究对研究伦理委员会来说是具有挑战性的，常常出现计算机伦理学家詹姆斯·穆尔所称的“概念混乱”：无法正确概念化新技术背景下的伦理价值和困境。例如，主题隐私通常通过一系列策略和实践来保护研究伦理的背景，包括在受控或匿名环境下进行数据收集、限制收集的个人信息、清除数据以删除或模糊个人身份信息、使用访问限制和相关数据安全方法来防止未经授权的访问和使用研究数据本身。然而，在大数据研究的背景下，隐私的性质和理解变得混乱，因此，在这个新领域确保隐私得到尊重和保护变得具有挑战性。
+大数据研究对研究伦理委员会来说是具有挑战性的，常常出现计算机伦理学家詹姆斯 · 穆尔所称的“概念混乱”：无法正确概念化新技术背景下的伦理价值和困境。例如，主题隐私通常通过一系列策略和实践来保护研究伦理的背景，包括在受控或匿名环境下进行数据收集、限制收集的个人信息、清除数据以删除或模糊个人身份信息、使用访问限制和相关数据安全方法来防止未经授权的访问和使用研究数据本身。然而，在大数据研究的背景下，隐私的性质和理解变得混乱，因此，在这个新领域确保隐私得到尊重和保护变得具有挑战性。
 
 例如，在大数据研究的背景下，确定何为“私人信息”——从而引发特定的隐私关注——变得困难。在监管定义的“私人信息”内部的区别——即，它仅适用于受试者合理预期通常不会被监测或收集且通常不会公开的信息——在考虑到大数据研究的数据环境和收集实践时变得不太适用，例如对 Facebook 新闻订阅内容或公开的 OKCupid 解释进行全面抓取。
 
@@ -303,13 +303,13 @@ Spriggs（2010）在澳大利亚的背景下指出，虽然在《国家声明》
 
 如上所述，在第 4.1 节中，确认用户在社交媒体平台上分享信息的意图变得困难，以及用户是否意识到在社交环境中提供信息也会使其广泛被研究人员收集和使用。社交媒体和基于互联网的平台用户的意图和期望的不确定性——往往是由平台设计本身引起的——在我们正确缓解大数据研究中潜在隐私问题的能力方面造成了许多概念上的混乱。
 
-在大数据研究背景下，关于隐私和个人身份信息定义的概念差距不可避免地导致了关于何时需要知情同意的类似差距。例如，挖掘Facebook个人资料信息或公共Twitter信息流的研究人员通常认为不需要特定的同意，因为这些信息是公开可得的。目前尚不清楚用户是否真正理解了他们在这些社交媒体平台上公开信息的技术条件，或者他们是否预料到自己的数据会被用于研究目的，而不仅仅是在朋友和关注者的屏幕上短暂地出现（Fiesler和Proferes，2018年）。在Facebook情绪传染实验（Kramer，Guillory和Hancock 2014年）的案例中，最初没有获得同意的缺失最初是通过研究似乎是在Facebook广泛的服务条款下进行的这一观念来合理化的，而这些服务条款的数据使用政策虽然长达9000多个字，但确实提到了“研究”。然而，后来揭示出，实验进行时的数据使用政策根本没有提到“研究”（Hill 2014年）。
+在大数据研究背景下，关于隐私和个人身份信息定义的概念差距不可避免地导致了关于何时需要知情同意的类似差距。例如，挖掘 Facebook 个人资料信息或公共 Twitter 信息流的研究人员通常认为不需要特定的同意，因为这些信息是公开可得的。目前尚不清楚用户是否真正理解了他们在这些社交媒体平台上公开信息的技术条件，或者他们是否预料到自己的数据会被用于研究目的，而不仅仅是在朋友和关注者的屏幕上短暂地出现（Fiesler 和 Proferes，2018 年）。在 Facebook 情绪传染实验（Kramer，Guillory 和 Hancock 2014 年）的案例中，最初没有获得同意的缺失最初是通过研究似乎是在 Facebook 广泛的服务条款下进行的这一观念来合理化的，而这些服务条款的数据使用政策虽然长达 9000 多个字，但确实提到了“研究”。然而，后来揭示出，实验进行时的数据使用政策根本没有提到“研究”（Hill 2014 年）。
 
 关于机器学习和人工智能发展所涉及的大规模数据收集实践，引发了额外的伦理关注。例如，针对从照片中推断性取向的算法和基于变性人视频训练的人脸识别算法，都受到了负面的公众关注。在这两种情况下，人们对这些算法的目的以及训练它们的数据（分别是约会资料照片和 YouTube 视频）是“公开”的，但是这些数据是从潜在的弱势群体中收集而来的，且没有得到同意，引发了伦理关注（Metcalf 2017; Keyes 2019）。虽然构建人工智能系统的人无法始终控制所使用数据的收集条件，但他们对社交媒体或相关来源捕获的大型数据集的增加使用引发了一系列关注，超出了通常被视为人工智能伦理关注的范畴：只有在数据收集以公平、伦理和公正的方式完成时，人工智能中的公平性、问责性和透明度才能得到充分实现（Stahl & Wright 2018; Kerry 2020）。
 
 ### 4.6 互联网研究和行业伦理
 
-上述讨论的Facebook情绪传染实验只是大数据研究的一个例子，这种研究往往在传统大学研究伦理监管机制之外进行。几乎所有在线公司和平台都会分析数据并测试理论，这些理论往往依赖于个体用户的数据。基于行业的数据研究曾经仅限于面向市场的界面设计或企业通信信息的良性变化的“A/B测试”，现在已经涵盖了关于用户在线行为、点击和阅读的信息，以及他们的移动、饮食和睡眠情况，他们在线消费的内容，甚至他们在家中的活动方式。这样的研究推断出个人的品味和偏好、社交关系、沟通方式、活动方式和工作习惯。它意味着对产品和服务进行广泛测试，这些产品和服务是日常生活中密切相关的一部分，从智能家居产品到社交网络再到智能汽车。除非与学术机构合作，否则公司通常不会将内部研究活动提交正式的伦理审查程序，因为研究结果通常不会公开分享，对用户的影响也很小。
+上述讨论的 Facebook 情绪传染实验只是大数据研究的一个例子，这种研究往往在传统大学研究伦理监管机制之外进行。几乎所有在线公司和平台都会分析数据并测试理论，这些理论往往依赖于个体用户的数据。基于行业的数据研究曾经仅限于面向市场的界面设计或企业通信信息的良性变化的“A/B 测试”，现在已经涵盖了关于用户在线行为、点击和阅读的信息，以及他们的移动、饮食和睡眠情况，他们在线消费的内容，甚至他们在家中的活动方式。这样的研究推断出个人的品味和偏好、社交关系、沟通方式、活动方式和工作习惯。它意味着对产品和服务进行广泛测试，这些产品和服务是日常生活中密切相关的一部分，从智能家居产品到社交网络再到智能汽车。除非与学术机构合作，否则公司通常不会将内部研究活动提交正式的伦理审查程序，因为研究结果通常不会公开分享，对用户的影响也很小。
 
 工业大数据研究的增长，然而，一方面对个人隐私构成了新的风险，另一方面对组织的合法合规性、声誉和品牌构成了新的风险。当组织在原始上下文之外处理个人数据时，个人在某些情况下可能会获得很大的好处，但在其他情况下可能会感到惊讶、愤怒甚至受到伤害。从受影响的个人那里征求同意可能是不切实际的：组织可能会间接收集数据，或者基于与个人联系方式不直接匹配的标识符收集数据。此外，根据定义，一些非上下文使用（包括为了新兴用途而保留数据的时间超过预期）可能在收集时是无法预见的。正如 Crawford 和 Schultz（2014）所指出的，
 
@@ -323,7 +323,7 @@ Spriggs（2010）在澳大利亚的背景下指出，虽然在《国家声明》
 
 > 伦理审查流程对于创新流程非常重要，但对于告诉我们有关他们产品开发中的伦理价值的信息很少。
 
-此外，在他们对众多硅谷公司内从事伦理工作的员工进行研究时，Metcalf和他的同事发现，在解决组织数据实践中出现的棘手伦理困境与主导内部决策的更广泛的商业模式和企业逻辑之间存在相当大的紧张关系（Metcalf，Moss和boyd 2019）。
+此外，在他们对众多硅谷公司内从事伦理工作的员工进行研究时，Metcalf 和他的同事发现，在解决组织数据实践中出现的棘手伦理困境与主导内部决策的更广泛的商业模式和企业逻辑之间存在相当大的紧张关系（Metcalf，Moss 和 boyd 2019）。
 
 ## 5. Research Ethics Boards Guidelines
 
@@ -340,150 +340,150 @@ Additional resources are found in [Other Internet Resources](https://plato.stan
 
 ## Bibliography
 
-* Acquisti, Alessandro and Ralph Gross, 2006, “Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook”, in *Privacy Enhancing Technologies: PET 2006*, George Danezis and Philippe Golle (eds.), (Lecture Notes in Computer Science 4258), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 36–58. doi:10.1007/11957454_3
-* Allen, Christina, 1996, “What’s Wrong with the ‘Golden Rule’? Conundrums of Conducting Ethical Research in Cyberspace”, *The Information Society*, 12(2): 175–188. doi:10.1080/713856146
-* Annas, George J., 2009, “Globalized Clinical Trials and Informed Consent”, *New England Journal of Medicine*, 360(20): 2050–2053. doi:10.1056/NEJMp0901474
-* Aycock, John, Elizabeth Buchanan, Scott Dexter, and David Dittrich, 2012, “Human Subjects, Agents, or Bots: Current Issues in Ethics and Computer Security Research”, in *Financial Cryptography and Data Security*, George Danezis, Sven Dietrich, and Kazue Sako (eds.), (Lecture Notes in Computer Science 7126), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 138–145. doi:10.1007/978-3-642-29889-9_12
+* Acquisti, Alessandro and Ralph Gross, 2006, “Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook”, in *Privacy Enhancing Technologies: PET 2006*, George Danezis and Philippe Golle (eds.), (Lecture Notes in Computer Science 4258), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 36–58. doi: 10.1007/11957454_3
+* Allen, Christina, 1996, “What’s Wrong with the ‘Golden Rule’? Conundrums of Conducting Ethical Research in Cyberspace”, *The Information Society*, 12(2): 175–188. doi: 10.1080/713856146
+* Annas, George J., 2009, “Globalized Clinical Trials and Informed Consent”, *New England Journal of Medicine*, 360(20): 2050–2053. doi: 10.1056/NEJMp0901474
+* Aycock, John, Elizabeth Buchanan, Scott Dexter, and David Dittrich, 2012, “Human Subjects, Agents, or Bots: Current Issues in Ethics and Computer Security Research”, in *Financial Cryptography and Data Security*, George Danezis, Sven Dietrich, and Kazue Sako (eds.), (Lecture Notes in Computer Science 7126), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 138–145. doi: 10.1007/978-3-642-29889-9_12
 * Banks, Will and Michelle Eble, 2007, “Digital Spaces, Online Environments, and Human Participant Research: Interfacing with Institutional Review Boards”, in *Digital Writing Research: Technologies, Methodologies, and Ethical Issues*, Heidi A. McKee and Dànielle Nicole DeVoss (eds.), Cresskill, NJ: Hampton Press, pp. 27–47.
 * Barbaro, Michael and Tom Zeller Jr., 2006, “A Face Is Exposed for AOL Searcher No. 4417749”, *The New York Times*, 9 August 2006, pp. A1.
 * Barratt, Monica Jane and Simon Lenton, 2010, “Beyond Recruitment? Participatory Online Research with People Who Use Drugs”, *International Journal of Internet Research Ethics*, 3(1): 69–86. [[Barratt and Lenton 2010 available online](http://hdl.handle.net/20.500.11937/23339)]
 * BBC, 2011, “US Scientists ‘Knew Guatemala Syphilis Tests Unethical’”, BBC News, 30 August 2011, sec. Latin America & Caribbean. [[BBC 2011 available online](https://www.bbc.com/news/world-latin-america-14712089)]
 * Beauchamp, Tom L. and James F. Childress, 2008, *Principles of Biomedical Ethics*, Oxford: Oxford University Press.
 * Blackstone, Mary, Lisa Given, Joseph Levy, Michelle McGinn, Patrick O’Neill, Ted Palys, and Will van den Hoonaard, 2008, *Extending the Spectrum: The TCPS and Ethical Issues Involving Internet-Based Research*, Interagency Advisory Panel and Secretariat on Research Ethics, Ottawa, Canada. [[Blackstone et al. 2008 available online](https://researchoutput.csu.edu.au/en/publications/extending-the-spectrum-the-tcps-and-ethical-issues-involving-inte)]
-* Boehlefeld, Sharon Polancic, 1996, “Doing the Right Thing: Ethical Cyberspace Research”, *The Information Society*, 12(2): 141–152. doi:10.1080/713856136
-* Boga, Mwanamvua, Alun Davies, Dorcas Kamuya, Samson M. Kinyanjui, Ester Kivaya, Francis Kombe, Trudie Lang, Vicki Marsh, Bibi Mbete, Albert Mlamba, et al., 2011, “Strengthening the Informed Consent Process in International Health Research through Community Engagement: The KEMRI-Wellcome Trust Research Programme Experience”, *PLoS Medicine*, 8(9): e1001089. doi:10.1371/journal.pmed.1001089
-* Bonneau, Joseph and Sören Preibusch, 2010, “The Privacy Jungle: On the Market for Data Protection in Social Networks”, in *Economics of Information Security and Privacy*, Tyler Moore, David Pym, and Christos Ioannidis (eds.), Boston: Springer US, pp. 121–167. doi:10.1007/978-1-4419-6967-5_8
+* Boehlefeld, Sharon Polancic, 1996, “Doing the Right Thing: Ethical Cyberspace Research”, *The Information Society*, 12(2): 141–152. doi: 10.1080/713856136
+* Boga, Mwanamvua, Alun Davies, Dorcas Kamuya, Samson M. Kinyanjui, Ester Kivaya, Francis Kombe, Trudie Lang, Vicki Marsh, Bibi Mbete, Albert Mlamba, et al., 2011, “Strengthening the Informed Consent Process in International Health Research through Community Engagement: The KEMRI-Wellcome Trust Research Programme Experience”, *PLoS Medicine*, 8(9): e1001089. doi: 10.1371/journal.pmed.1001089
+* Bonneau, Joseph and Sören Preibusch, 2010, “The Privacy Jungle: On the Market for Data Protection in Social Networks”, in *Economics of Information Security and Privacy*, Tyler Moore, David Pym, and Christos Ioannidis (eds.), Boston: Springer US, pp. 121–167. doi: 10.1007/978-1-4419-6967-5_8
 * Booth, Robert, 2014, “Facebook reveals news feed experiment to control emotions”, *The Guardian*, 29 June 2014. [[Booth 2014 available online](https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds)]
 * Bromseth, Janne C. H., 2002, “Public Places: Public Activities? Methodological Approaches and Ethical Dilemmas in Research on Computer-mediated Communication Contexts”, in *Researching ICTs in Context*, Andrew Morrison (ed.), InterMedia Report 3/2002, Oslo: University of Oslo, pp. 33–61. [[Bromseth 2002 available online](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.156.7392&rep=rep1&type=pdf)]
-* Brothers, Kyle Bertram and Ellen Wright Clayton, 2010, “‘Human Non-Subjects Research’: Privacy and Compliance”, *The American Journal of Bioethics*, 10(9): 15–17. doi:10.1080/15265161.2010.492891
-* Bruckman, Amy, 2006, “Teaching Students to Study Online Communities Ethically”, *Journal of Information Ethics*, 15(2): 82–98. doi:10.3172/JIE.15.2.82
+* Brothers, Kyle Bertram and Ellen Wright Clayton, 2010, “‘Human Non-Subjects Research’: Privacy and Compliance”, *The American Journal of Bioethics*, 10(9): 15–17. doi: 10.1080/15265161.2010.492891
+* Bruckman, Amy, 2006, “Teaching Students to Study Online Communities Ethically”, *Journal of Information Ethics*, 15(2): 82–98. doi: 10.3172/JIE.15.2.82
 * Buchanan, Elizabeth A. (ed.), 2004, *Readings in Virtual Research Ethics: Issues and Controversies*, Hershey, PA: Information Science Publishing.
-* –––, 2006, “Introduction: Internet Research Ethics at a Critical Juncture”, *Journal of Information Ethics*, 15(2): 14–17. doi:10.3172/JIE.15.2.14
-* –––, 2011, “Internet Research Ethics: Past, Present, and Future”, in Consalvo and Ess 2011: 83–108. doi:10.1002/9781444314861.ch5
-* –––, 2016, “Ethics in Digital Research”, in *Handbuch Soziale Praktiken und Digitale Alltagswelten*, Heidrun Friese, Gala Rebane, Marcus Nolden, and Miriam Schreiter (eds.), Wiesbaden: Springer Fachmedien Wiesbaden, pp. 1–9. doi:10.1007/978-3-658-08460-8_47-1
-* Buchanan, Elizabeth A. and Charles M. Ess, 2008, “Internet Research Ethics: The Field and Its Critical Issues”, in *The Handbook of Information and Computer Ethics*, Kenneth Einar Himma and Herman T. Tavani (eds.), Hoboken, NJ: John Wiley & Sons, Inc., pp. 273–292. doi:10.1002/9780470281819.ch11
-* –––, 2009, “Internet Research Ethics and the Institutional Review Board: Current Practices and Issues”, *ACM SIGCAS Computers and Society*, 39(3): 43–49. doi:10.1145/1713066.1713069
-* Buchanan, Elizabeth A. and Erin E. Hvizdak, 2009, “Online Survey Tools: Ethical and Methodological Concerns of Human Research Ethics Committees”, *Journal of Empirical Research on Human Research Ethics*, 4(2): 37–48. doi:10.1525/jer.2009.4.2.37
-* Buchanan, Elizabeth, John Aycock, Scott Dexter, David Dittrich, and Erin Hvizdak, 2011, “Computer Science Security Research and Human Subjects: Emerging Considerations for Research Ethics Boards”, *Journal of Empirical Research on Human Research Ethics*, 6(2): 71–83. doi:10.1525/jer.2011.6.2.71
+* –––, 2006, “Introduction: Internet Research Ethics at a Critical Juncture”, *Journal of Information Ethics*, 15(2): 14–17. doi: 10.3172/JIE.15.2.14
+* –––, 2011, “Internet Research Ethics: Past, Present, and Future”, in Consalvo and Ess 2011: 83–108. doi: 10.1002/9781444314861.ch5
+* –––, 2016, “Ethics in Digital Research”, in *Handbuch Soziale Praktiken und Digitale Alltagswelten*, Heidrun Friese, Gala Rebane, Marcus Nolden, and Miriam Schreiter (eds.), Wiesbaden: Springer Fachmedien Wiesbaden, pp. 1–9. doi: 10.1007/978-3-658-08460-8_47-1
+* Buchanan, Elizabeth A. and Charles M. Ess, 2008, “Internet Research Ethics: The Field and Its Critical Issues”, in *The Handbook of Information and Computer Ethics*, Kenneth Einar Himma and Herman T. Tavani (eds.), Hoboken, NJ: John Wiley & Sons, Inc., pp. 273–292. doi: 10.1002/9780470281819.ch11
+* –––, 2009, “Internet Research Ethics and the Institutional Review Board: Current Practices and Issues”, *ACM SIGCAS Computers and Society*, 39(3): 43–49. doi: 10.1145/1713066.1713069
+* Buchanan, Elizabeth A. and Erin E. Hvizdak, 2009, “Online Survey Tools: Ethical and Methodological Concerns of Human Research Ethics Committees”, *Journal of Empirical Research on Human Research Ethics*, 4(2): 37–48. doi: 10.1525/jer.2009.4.2.37
+* Buchanan, Elizabeth, John Aycock, Scott Dexter, David Dittrich, and Erin Hvizdak, 2011, “Computer Science Security Research and Human Subjects: Emerging Considerations for Research Ethics Boards”, *Journal of Empirical Research on Human Research Ethics*, 6(2): 71–83. doi: 10.1525/jer.2011.6.2.71
 * Carpenter, Katherine J. and David Dittrich, 2012, “Bridging the Distance: Removing the Technology Buffer and Seeking Consistent Ethical Analysis in Computer Security Research”, in *Digital Ethics: Research & Practice* (Digital Formations 85), Don Heider and Adrienne Massanari (eds.), New York: Peter Lang, pp. 1–29.
 * [CASRO] Council of American Survey Research, 2011, “CASRO Code of Standards and Ethics for Survey Research”, First adopted 1977 and revised since. [[CASRO code available online](https://www.ftc.gov/sites/default/files/documents/public_comments/preliminary-ftc-staff-report-protecting-consumer-privacy-era-rapid-change-proposed-framework/00356-57963.pdf)]
 * Chen, Jenny J., Natala J. Menezes, and Adam D. Bradley, 2011, “Opportunities for Crowdsourcing Research on Amazon Mechanical Turk”, *Interfaces*, 5(3). [[J. Chen, Menezes, and Bradley 2011 available online](https://www.researchgate.net/publication/228954187_Opportunities_for_Crowdsourcing_Research_on_Amazon_Mechanical_Turk)]
 * Colvin, Jan and Jane Lanigan, 2005, “Ethical Issues and Best Practice Considerations for Internet Research”, *Journal of Family and Consumer Sciences*, 97(3): 34–39.
-* Conley, Caryn and Jennifer Tosti-Kharas, 2014, “Crowdsourcing Content Analysis for Managerial Research”, *Management Decision*, 52(4): 675–688. doi:10.1108/MD-03-2012-0156
-* Consalvo, Mia and Charles Ess (eds.), 2011, *The Handbook of Internet Studies*, Oxford: Wiley-Blackwell. doi:10.1002/9781444314861
+* Conley, Caryn and Jennifer Tosti-Kharas, 2014, “Crowdsourcing Content Analysis for Managerial Research”, *Management Decision*, 52(4): 675–688. doi: 10.1108/MD-03-2012-0156
+* Consalvo, Mia and Charles Ess (eds.), 2011, *The Handbook of Internet Studies*, Oxford: Wiley-Blackwell. doi: 10.1002/9781444314861
 * Crawford, Kate and Jason Schultz, 2014, “Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms”, *Boston College Law Review*, 55(1): 93–128.
-* Dittrich, David, Michael Bailey, and Sven Dietrich, 2011, “Building an Active Computer Security Ethics Community”, *IEEE Security & Privacy Magazine*, 9(4): 32–40. doi:10.1109/MSP.2010.199
-* Drew, David A., Long H. Nguyen, Claire J. Steves, Cristina Menni, Maxim Freydin, Thomas Varsavsky, Carole H. Sudre, M. Jorge Cardoso, Sebastien Ourselin, Jonathan Wolf, et al., 2020, “Rapid Implementation of Mobile Technology for Real-Time Epidemiology of COVID-19”, *Science*, 368(6497): 1362–1367. doi:10.1126/science.abc0473
-* Elgesem, Dag, 2002, “What Is Special about the Ethical Issues in Online Research?”, *Ethics and Information Technology*, 4(3): 195–203. doi:10.1023/A:1021320510186
+* Dittrich, David, Michael Bailey, and Sven Dietrich, 2011, “Building an Active Computer Security Ethics Community”, *IEEE Security & Privacy Magazine*, 9(4): 32–40. doi: 10.1109/MSP.2010.199
+* Drew, David A., Long H. Nguyen, Claire J. Steves, Cristina Menni, Maxim Freydin, Thomas Varsavsky, Carole H. Sudre, M. Jorge Cardoso, Sebastien Ourselin, Jonathan Wolf, et al., 2020, “Rapid Implementation of Mobile Technology for Real-Time Epidemiology of COVID-19”, *Science*, 368(6497): 1362–1367. doi: 10.1126/science.abc0473
+* Elgesem, Dag, 2002, “What Is Special about the Ethical Issues in Online Research?”, *Ethics and Information Technology*, 4(3): 195–203. doi: 10.1023/A: 1021320510186
 * Emanuel, Ezekiel J., Robert A. Crouch, John D. Arras, Jonathan D. Moreno, and Christine Grady (eds.), 2003, *Ethical and Regulatory Aspects of Clinical Research: Readings and Commentary*, Baltimore: Johns Hopkins University Press.
-* Ess, Charles, 2016, “Phronesis for machine ethics? Can robots perform ethical judgments?”, *Frontiers in Artificial Intelligence and Applications*, 290: 386–389. doi:10.3233/978-1-61499-708-5-386
+* Ess, Charles, 2016, “Phronesis for machine ethics? Can robots perform ethical judgments?”, *Frontiers in Artificial Intelligence and Applications*, 290: 386–389. doi: 10.3233/978-1-61499-708-5-386
 * Ess, Charles and the Association of Internet Researchers (AoIR) Ethics Working committee, 2002, “Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee”, Approved by the AoIR, 27 November 2002. [[Ess and AoIR 2002 available online](http://aoir.org/reports/ethics.pdf)]
-* Eysenbach, Gunther, 1999, “Welcome to the Journal of Medical Internet Research”, *Journal of Medical Internet Research*, 1(1): e5. doi:10.2196/jmir.1.1.e5
-* Eysenbach, Gunther and James E. Till, 2001, “Ethical Issues in Qualitative Research on Internet Communities”, *BMJ*, 323(7321): 1103–1105. doi:10.1136/bmj.323.7321.1103
+* Eysenbach, Gunther, 1999, “Welcome to the Journal of Medical Internet Research”, *Journal of Medical Internet Research*, 1(1): e5. doi: 10.2196/jmir.1.1.e5
+* Eysenbach, Gunther and James E. Till, 2001, “Ethical Issues in Qualitative Research on Internet Communities”, *BMJ*, 323(7321): 1103–1105. doi: 10.1136/bmj.323.7321.1103
 * Fairfield, Joshua A., 2012, “Avatar Experimentation: Human Subjects Research in Virtual Worlds”, *U.C. Irvine Law Review*, 2: 695–772.
 * Federal Register, 2011, “Submission for Review and Comment: ‘The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research’” (“Menlo Report”) for the Department of Homeland Security (DHS), Science and Technology, Cyber Security Division (CSD), Protected Repository for the Defense of Infrastructure Against Cyber Threats (PREDICT)”, 28 December 2011, Volume 76, Number 249, Docket No. DHS-2011-0074. [[Federal Register 2011 available online](https://www.federalregister.gov/documents/2011/12/28/2011-33231/submission-for-review-and-comment-the-menlo-report-ethical-principles-guiding-information-and)]
 * –––, 2017, “Federal Policy for the Protection of Human Subjects”, 19 January 2017, Volume 82, Number 12 [[Federal Register 2017 available online](https://www.federalregister.gov/documents/2017/01/19/2017-01058/federal-policy-for-the-protection-of-human-subjects)]
 * Fiesler, Casey, Nathan Beard, and Brian C. Keegan, 2020, “No Robots, Spiders, or Scrapers: Legal and Ethical Regulation of Data Collection Methods in Social Media Terms of Service”, *Proceedings of the International AAAI Conference on Web and Social Media*, 14: 187–196. [[Fiesler, Beard, and Keegan 2020 available online](https://www.aaai.org/ojs/index.php/ICWSM/article/view/7290)]
-* Fiesler, Casey, Jeff Hancock, Amy Bruckman, Michael Muller, Cosmin Munteanu, and Melissa Densmore, 2018, “Research Ethics for HCI: A Roundtable Discussion”, in *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems*, , Montreal QC Canada: ACM, 1–5. doi:10.1145/3170427.3186321
-* Fiesler, Casey and Nicholas Proferes, 2018, “‘Participant’ Perceptions of Twitter Research Ethics”, *Social Media + Society*, 4(1), first online 10 March 2018. doi:10.1177/2056305118763366
-* Flicker, Sarah, Dave Haans, and Harvey Skinner, 2004, “Ethical Dilemmas in Research on Internet Communities”, *Qualitative Health Research*, 14(1): 124–134. doi:10.1177/1049732303259842
-* Fossheim, Hallvard and Helene Ingierd (eds.), 2016, *Internet Research Ethics:*, Oslo: Cappelen Damm Akademisk/NOASP. doi:10.17585/noasp.3.1
+* Fiesler, Casey, Jeff Hancock, Amy Bruckman, Michael Muller, Cosmin Munteanu, and Melissa Densmore, 2018, “Research Ethics for HCI: A Roundtable Discussion”, in *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems*, , Montreal QC Canada: ACM, 1–5. doi: 10.1145/3170427.3186321
+* Fiesler, Casey and Nicholas Proferes, 2018, “‘Participant’ Perceptions of Twitter Research Ethics”, *Social Media + Society*, 4(1), first online 10 March 2018. doi: 10.1177/2056305118763366
+* Flicker, Sarah, Dave Haans, and Harvey Skinner, 2004, “Ethical Dilemmas in Research on Internet Communities”, *Qualitative Health Research*, 14(1): 124–134. doi: 10.1177/1049732303259842
+* Fossheim, Hallvard and Helene Ingierd (eds.), 2016, *Internet Research Ethics:*, Oslo: Cappelen Damm Akademisk/NOASP. doi: 10.17585/noasp.3.1
 * Frankel, Mark S. and Sanyin Siang, 1999, “Ethical and Legal Aspects of Human Subjects Research in Cyberspace”, A Report of a Workshop, 10–11 June 1999, Washington, DC: American Association for the Advancement of Science. [[Frankel and Siang 1999 available online](https://www.aaas.org/sites/default/files/report2.pdf)]
 * Franzke, Aline Shakti, Anja Bechmann, Michael Zimmer, Charles M. Ess, and the Association of Internet Researchers (AoIR), 2020, *Internet Research: Ethical Guidelines 3.0*, AoIR. [[Franzke et al. available online (pdf)](https://aoir.org/reports/ethics3.pdf)]
-* Frauenberger, Christopher, Amy S. Bruckman, Cosmin Munteanu, Melissa Densmore, and Jenny Waycott, 2017, “Research Ethics in HCI: A Town Hall Meeting”, in *Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems – CHI EA ’17*, Denver: ACM Press, pp. 1295–1299. doi:10.1145/3027063.3051135
+* Frauenberger, Christopher, Amy S. Bruckman, Cosmin Munteanu, Melissa Densmore, and Jenny Waycott, 2017, “Research Ethics in HCI: A Town Hall Meeting”, in *Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems – CHI EA ’17*, Denver: ACM Press, pp. 1295–1299. doi: 10.1145/3027063.3051135
 * Gaw, Allan and Michael H. J. Burns, 2011, *On Moral Grounds: Lessons from the History of Research Ethics*, Westerwood, Glasgow: SA Press.
 * [GDPR] General Data Protection Regulation (GDPR), 2016, “Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46”. [[available online](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)]
 * Gilbert, Brendan James, 2009, “Getting to Conscionable: Negotiating Virtual Worlds’ End User License Agreements without Getting Externally Regulated”, *Journal of International Commercial Law and Technology*, 4(4): 238–251. [[Gilbert 2009 available online](https://www.neliti.com/publications/28835/getting-to-conscionable-negotiating-virtual-worlds%C3%A2tm-end-user-license-agreement#cite)]
-* Glickman, Seth W., Sam Galhenage, Lindsay McNair, Zachry Barber, Keyur Patel, Kevin A. Schulman, and John G. McHutchison, 2012, “The Potential Influence of Internet-Based Social Networking on the Conduct of Clinical Research Studies”, *Journal of Empirical Research on Human Research Ethics*, 7(1): 71–80. doi:10.1525/jer.2012.7.1.71
+* Glickman, Seth W., Sam Galhenage, Lindsay McNair, Zachry Barber, Keyur Patel, Kevin A. Schulman, and John G. McHutchison, 2012, “The Potential Influence of Internet-Based Social Networking on the Conduct of Clinical Research Studies”, *Journal of Empirical Research on Human Research Ethics*, 7(1): 71–80. doi: 10.1525/jer.2012.7.1.71
 * Goldfarb, Norman M., 2008, “Age of Consent for Clinical Research”, *Journal of Clinical Research Best Practices*, 4(6). [[Goldfarb 2008 available online](https://www.magiworld.org/resources/journal/459_Consent_Age.pdf)]
 * [HHS] Health and Human Services, 2017, “Excerpts from the January 19, 2017 Revised Common Rule Preamble”. [[HHS 2017 available online](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/2018-req-preamble/)]
 * Hill, Kashmir, 2014, “Facebook Added ‘Research’ To User Agreement 4 Months After Emotion Manipulation Study”, *Forbes.com.*, 30 June 2014. [[Hill 2014 available online](https://www.forbes.com/sites/kashmirhill/2014/06/30/facebook-only-got-permission-to-do-research-on-users-after-emotion-manipulation-study/#23483d1a10c1)]
 * Hoffmann, Anna Lauren, 2016, “Facebook has a New Process for Discussing Ethics. But is It Ethical?” *The Guardian*, 17 June 2016. [[Hoffmann 2016 available online](https://www.theguardian.com/technology/2016/jun/17/facebook-ethics-but-is-it-ethical)]
 * Homeland Security Department, 2011, “Submission for Review and Comment: ‘The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research’”, *Federal Register: The Daily Journal of the United States Government*, FR Doc. 2011-3323, 28 December 2011. [[Homeland Security Department 2011 available online](https://www.federalregister.gov/articles/2011/12/28/2011-33231/submission-for-review-and-comment-the-menlo-report-ethical-principles-guiding-information-and)].
-* Hubach, Randolph D., Andrew O’Neil, Mollie Stowe, Zachary Giano, Brenda Curtis, and Celia B. Fisher, forthcoming, “Perceived Confidentiality Risks of Mobile Technology-Based Ecologic Momentary Assessment to Assess High-Risk Behaviors Among Rural Men Who Have Sex with Men”, *Archives of Sexual Behavior*, first online: 20 February 2020. doi:10.1007/s10508-019-01612-x
-* Hudson, James M. and Amy Bruckman, 2004, “‘Go Away’: Participant Objections to Being Studied and the Ethics of Chatroom Research”, *The Information Society*, 20(2): 127–139. doi:10.1080/01972240490423030
-* –––, 2005, “Using Empirical Data to Reason about Internet Research Ethics”, in *ECSCW 2005: Proceedings of the Ninth European Conference on Computer-Supported Cooperative Work, 18–22 September 2005, Paris, France*, Hans Gellersen, Kjeld Schmidt, Michel Beaudouin-Lafon, and Wendy Mackay (eds.), Berlin/Heidelberg: Springer-Verlag, pp. 287–306. doi:10.1007/1-4020-4023-7_15
-* Hunsinger, Jeremy, Lisbeth Klastrup, and Matthew Allen (eds.), 2010, *International Handbook of Internet Research*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-9789-8
-* Illingworth, Nicola, 2001, “The Internet Matters: Exploring the Use of the Internet as a Research Tool”, *Sociological Research Online*, 6(2): 79–90. doi:10.5153/sro.600 [[Illingworth 2001 available online](https://www.socresonline.org.uk/6/2/illingworth.html)]
+* Hubach, Randolph D., Andrew O’Neil, Mollie Stowe, Zachary Giano, Brenda Curtis, and Celia B. Fisher, forthcoming, “Perceived Confidentiality Risks of Mobile Technology-Based Ecologic Momentary Assessment to Assess High-Risk Behaviors Among Rural Men Who Have Sex with Men”, *Archives of Sexual Behavior*, first online: 20 February 2020. doi: 10.1007/s10508-019-01612-x
+* Hudson, James M. and Amy Bruckman, 2004, “‘Go Away’: Participant Objections to Being Studied and the Ethics of Chatroom Research”, *The Information Society*, 20(2): 127–139. doi: 10.1080/01972240490423030
+* –––, 2005, “Using Empirical Data to Reason about Internet Research Ethics”, in *ECSCW 2005: Proceedings of the Ninth European Conference on Computer-Supported Cooperative Work, 18–22 September 2005, Paris, France*, Hans Gellersen, Kjeld Schmidt, Michel Beaudouin-Lafon, and Wendy Mackay (eds.), Berlin/Heidelberg: Springer-Verlag, pp. 287–306. doi: 10.1007/1-4020-4023-7_15
+* Hunsinger, Jeremy, Lisbeth Klastrup, and Matthew Allen (eds.), 2010, *International Handbook of Internet Research*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-9789-8
+* Illingworth, Nicola, 2001, “The Internet Matters: Exploring the Use of the Internet as a Research Tool”, *Sociological Research Online*, 6(2): 79–90. doi: 10.5153/sro.600 [[Illingworth 2001 available online](https://www.socresonline.org.uk/6/2/illingworth.html)]
 * International Telecommunications Union, 2019, “New ITU Data Reveal Growing Internet Uptake but a Widening Digital Gender Divide”, *ITU Media Centre*, [[ITU 2019 available online](https://www.itu.int/en/mediacentre/Pages/2019-PR19.aspx)]
 * Jackman, Molly and Lauri Kanerva, 2016, “Evolving the IRB: Building Robust Review for Industry Research”, *Washington and Lee Law Review Online*, 72(3): 442–457.
-* Jacobson, David, 1999, “Doing Research in Cyberspace”, *Field Methods*, 11(2): 127–145. doi:10.1177/1525822X9901100204
+* Jacobson, David, 1999, “Doing Research in Cyberspace”, *Field Methods*, 11(2): 127–145. doi: 10.1177/1525822X9901100204
 * Johns, Mark D., Shing-Ling Sarina Chen, and G. Jon Hall (eds.), 2003, *Online Social Research: Methods, Issues, and Ethics*, New York: Peter Lang.
 * Jones, Arnita, 2008, “AHA Statement on IRB’s and Oral History Research”, *American Historical Association Activities*, 1 February 2008. [[A. Jones 2008 available online](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2008/aha-statement-on-irbs-and-oral-history-research)]
 * Jones, Steve (ed.), 1999, *Doing Internet Research: Critical Issues and Methods for Examining the Net*, Thousand Oaks, CA: Sage.
-* Kaplan, Andreas M. and Michael Haenlein, 2010, “Users of the World, Unite! The Challenges and Opportunities of Social Media”, *Business Horizons*, 53(1): 59–68. doi:10.1016/j.bushor.2009.09.003
+* Kaplan, Andreas M. and Michael Haenlein, 2010, “Users of the World, Unite! The Challenges and Opportunities of Social Media”, *Business Horizons*, 53(1): 59–68. doi: 10.1016/j.bushor.2009.09.003
 * Kerry, Cameron F., 2020, “Protecting privacy in an AI-driven world” (AI Governance), 10 February 2020, Center for Technology Innovation, Brookings Institute. [[Kerry 2020 available online](https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/)]
 * Keyes, Os, 2019, “Counting the Countless: Why data science is a profound threat for queer people”, *Real Life*, 8 April 2019. [[Keyes 2019 available online](https://reallifemag.com/counting-the-countless/)]
-* King, Storm A., 1996, “Researching Internet Communities: Proposed Ethical Guidelines for the Reporting of Results”, *The Information Society*, 12(2): 119–128. doi:10.1080/713856145
-* Kitchin, Heather A., 2003, “The Tri-Council Policy Statement and Research in Cyberspace: Research Ethics, the Internet, and Revising a ‘Living Document’”, *Journal of Academic Ethics*, 1(4): 397–418. doi:10.1023/B:JAET.0000025671.83557.fa
+* King, Storm A., 1996, “Researching Internet Communities: Proposed Ethical Guidelines for the Reporting of Results”, *The Information Society*, 12(2): 119–128. doi: 10.1080/713856145
+* Kitchin, Heather A., 2003, “The Tri-Council Policy Statement and Research in Cyberspace: Research Ethics, the Internet, and Revising a ‘Living Document’”, *Journal of Academic Ethics*, 1(4): 397–418. doi: 10.1023/B: JAET.0000025671.83557.fa
 * –––, 2008, *Research Ethics and the Internet: Negotiating Canada’s Tri-Council’s Policy*, Winnipeg, Manitoba: Fernwood Publishing
-* Kramer, Adam D. I., James E. Guillory, and Jeffrey T. Hancock, 2014, “Experimental Evidence of Massive-Scale Emotional Contagion through Social Networks”, *Proceedings of the National Academy of Sciences*, 111(24): 8788–8790. doi:10.1073/pnas.1320040111
-* Kraut, Robert, Judith Olson, Mahzarin Banaji, Amy Bruckman, Jeffrey Cohen, and Mick Couper, 2004, “Psychological Research Online: Report of Board of Scientific Affairs’ Advisory Group on the Conduct of Research on the Internet.”, *American Psychologist*, 59(2): 105–117. doi:10.1037/0003-066X.59.2.105
-* Krogstad, Donald J., Samba Diop, Amadou Diallo, Fawaz Mzayek, Joseph Keating, Ousmane A. Koita, and Yéya T. Touré, 2010, “Informed Consent in International Research: The Rationale for Different Approaches”, *The American Journal of Tropical Medicine and Hygiene*, 83(4): 743–747. doi:10.4269/ajtmh.2010.10-0014
+* Kramer, Adam D. I., James E. Guillory, and Jeffrey T. Hancock, 2014, “Experimental Evidence of Massive-Scale Emotional Contagion through Social Networks”, *Proceedings of the National Academy of Sciences*, 111(24): 8788–8790. doi: 10.1073/pnas.1320040111
+* Kraut, Robert, Judith Olson, Mahzarin Banaji, Amy Bruckman, Jeffrey Cohen, and Mick Couper, 2004, “Psychological Research Online: Report of Board of Scientific Affairs’ Advisory Group on the Conduct of Research on the Internet.”, *American Psychologist*, 59(2): 105–117. doi: 10.1037/0003-066X.59.2.105
+* Krogstad, Donald J., Samba Diop, Amadou Diallo, Fawaz Mzayek, Joseph Keating, Ousmane A. Koita, and Yéya T. Touré, 2010, “Informed Consent in International Research: The Rationale for Different Approaches”, *The American Journal of Tropical Medicine and Hygiene*, 83(4): 743–747. doi: 10.4269/ajtmh.2010.10-0014
 * Lawson, Danielle, 2004, “Blurring the Boundaries: Ethical Considerations for Online Research Using Synchronous CMC Forums”, in Buchanan 2004: 80–100.
 * Leibovici, Didier G., Suchith Anand, Jerry Swan, James Goulding, Gobe Hobona, Lucy Bastin, Sergiusz Pawlowicz, Mike Jackson, and Richard James, 2010, “Workflow Issues for Health Mapping ‘Mashups’ of OGC”, University of Nottingham, CGS Technical Report, 2010 DL1. [[Leibovici et al. 2010 available online](https://www.researchgate.net/publication/282698491_Workflow_issues_for_Health-mapping_mashups)]
-* Madejski, Michelle, Maritza Lupe Johnson, and Steven Michael Bellovin, 2011, “The Failure of Online Social Network Privacy Settings”. Columbia Research Report CUCS-010-11, Columbia University. doi:10.7916/D8NG4ZJ1
+* Madejski, Michelle, Maritza Lupe Johnson, and Steven Michael Bellovin, 2011, “The Failure of Online Social Network Privacy Settings”. Columbia Research Report CUCS-010-11, Columbia University. doi: 10.7916/D8NG4ZJ1
 * Mann, Chris, 2003, “Generating Data Online: Ethical Concerns and Challenges for the C21 Researcher”, in Thorseth 2003: 31–49.
 * Markham, Annette N., 1998, *Life Online: Researching Real Experience in Virtual Space*, Walnut Creek, CA: Altamira Press.
-* –––, 2012, “Fabrication as Ethical Practice: Qualitative Inquiry in Ambiguous Internet Contexts”, *Information, Communication & Society*, 15(3): 334–353. doi:10.1080/1369118X.2011.641993
+* –––, 2012, “Fabrication as Ethical Practice: Qualitative Inquiry in Ambiguous Internet Contexts”, *Information, Communication & Society*, 15(3): 334–353. doi: 10.1080/1369118X.2011.641993
 * Markham, Annette N. and Nancy K. Baym (eds.), 2008, *Internet Inquiry: Conversations about Method*, Thousand Oaks, CA: Sage Publications.
 * Markham, Annette, N. and Elizabeth Buchanan, 2012. : *Ethical decision-making and internet research: Version 2.0. recommendations from the AoIR ethics working committee* Association of Internet Researchers. [[Markham and Buchanan 2012 available online](https://aoir.org/reports/ethics2.pdf)]
 * Markoff, John, 2010, “In a Video Game, Tackling the Complexities of Protein Folding”, *New York Times*, 4 August 2010. [[Markoff 2010 available online](http://www.nytimes.com/2010/08/05/science/05protein.html)]
 * McKee, Heidi A. and James E. Porter, 2009, *The Ethics of Internet Research: A Rhetorical, Case-based Process*, New York: Peter Lang Publishing.
-* Mendelson, Cindy, 2007, “Recruiting Participants for Research From Online Communities”, *CIN: Computers, Informatics, Nursing*, 25(6): 317–323. doi:10.1097/01.NCN.0000299653.13777.51
+* Mendelson, Cindy, 2007, “Recruiting Participants for Research From Online Communities”, *CIN: Computers, Informatics, Nursing*, 25(6): 317–323. doi: 10.1097/01.NCN.0000299653.13777.51
 * Metcalf, Jacob, 2017, “‘The Study Has Been Approved by the IRB’: Gayface AI, Research Hype and the Pervasive Data Ethics Gap”. PERVADE Team: Pervasive Data Ethics for Computational Research, Report. [[Metcalf 2017 available online](https://medium.com/pervade-team/the-study-has-been-approved-by-the-irb-gayface-ai-research-hype-and-the-pervasive-data-ethics-ed76171b882c)]
 * Metcalf, Jacob, Emanuel Moss, and danah boyd, 2019, “Owning Ethics: Corporate Logics, Silicon Valley, and the Institutionalization of Ethics”, *Social Research: An International Quarterly*, 86(2): 449–476.
-* Milne, George R. and Mary J. Culnan, 2004, “Strategies for Reducing Online Privacy Risks: Why Consumers Read (or Don’t Read) Online Privacy Notices”, *Journal of Interactive Marketing*, 18(3): 15–29. doi:10.1002/dir.20009
-* Mondschein, Christopher F. and Cosimo Monda, 2018, “The EU’s General Data Protection Regulation (GDPR) in a Research Context”, in *Fundamentals of Clinical Data Science*, Pieter Kubben, Michel Dumontier, and Andre Dekker (eds.), Cham: Springer International Publishing, pp. 55–71. doi:10.1007/978-3-319-99713-1_5
-* Moor, James H., 1985, “What Is Computer Ethics?”, *Metaphilosophy*, 16(4): 266–275. doi:10.1111/j.1467-9973.1985.tb00173.x
+* Milne, George R. and Mary J. Culnan, 2004, “Strategies for Reducing Online Privacy Risks: Why Consumers Read (or Don’t Read) Online Privacy Notices”, *Journal of Interactive Marketing*, 18(3): 15–29. doi: 10.1002/dir.20009
+* Mondschein, Christopher F. and Cosimo Monda, 2018, “The EU’s General Data Protection Regulation (GDPR) in a Research Context”, in *Fundamentals of Clinical Data Science*, Pieter Kubben, Michel Dumontier, and Andre Dekker (eds.), Cham: Springer International Publishing, pp. 55–71. doi: 10.1007/978-3-319-99713-1_5
+* Moor, James H., 1985, “What Is Computer Ethics?”, *Metaphilosophy*, 16(4): 266–275. doi: 10.1111/j.1467-9973.1985.tb00173.x
 * Alexander, Larry and Michael Moore, 2007, “Deontological Ethics”, *The Stanford Encyclopedia of Philosophy* (Winter 2007 Edition), Edward N. Zalta (ed.). URL = <[Deontological Ethics (Stanford Encyclopedia of Philosophy/Winter 2007 Edition)](https://plato.stanford.edu/archives/win2007/entries/ethics-deontological/)>
-* Narayanan, Arvind and Vitaly Shmatikov, 2008, “Robust de-anonymization of Large Sparse Datasets”, *Proceedings of the 29th IEEE Symposium on Security and Privacy, Oakland, CA, May 2008*, IEEE, pp. 111–125. doi:10.1109/SP.2008.33 [[Narayanan and Shmatikov 2008 available online (pdf)](http://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)]
+* Narayanan, Arvind and Vitaly Shmatikov, 2008, “Robust de-anonymization of Large Sparse Datasets”, *Proceedings of the 29th IEEE Symposium on Security and Privacy, Oakland, CA, May 2008*, IEEE, pp. 111–125. doi: 10.1109/SP.2008.33 [[Narayanan and Shmatikov 2008 available online (pdf)](http://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)]
 * [NCPHSBBR] The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, 1979, “The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research”, Office for Human Research Protections, Department of Health and Human Services, United States. [[NCPHSBBR 1979 available online](http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html)]
 * [NESH] The National Committee for Research Ethics in the Social Sciences and the Humanities [Norway], 2006, “Guidelines for Research Ethics in the Social Sciences, Law, and Humanities”, Published September 2006. [[NESH 2006 available online](http://graduateschool.nd.edu/assets/21765/guidelinesresearchethicsinthesocialscienceslawhumanities.pdf)].
 * –––, 2019, “A Guide to Internet Research Ethics”. [[NESH 2019 available online](https://www.forskningsetikk.no/en/guidelines/social-sciences-humanities-law-and-theology/a-guide-to-internet-research-ethics/)].
 * Nissenbaum, Helen, 2009, *Privacy in Context: Technology, Policy, and the Integrity of Social Life*, Stanford, CA: Stanford University Press.
 * [NSTC] National Science and Technology Council, 2016, “National Privacy Research Strategy”, Office of the President of the United States, June 2016. [[NSTC 2016 available online](https://www.nitrd.gov/pubs/NationalPrivacyResearchStrategy.pdf)]
-* Nuremberg Code, 1947 (1996), “The Nuremberg Code”, *BMJ*, 313. doi:https://doi.org/10.1136/bmj.313.7070.1448
+* Nuremberg Code, 1947 (1996), “The Nuremberg Code”, *BMJ*, 313. doi: https://doi.org/10.1136/bmj.313.7070.1448
 * Ohm, Paul, 2010, “Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization”, *UCLA Law Review*, 57: 1701–1777.
 * Overbeke, Grace, 2008, “Pro-Anorexia Websites: Content, Impact, and Explanations of Popularity”, *Mind Matters: The Wesleyan Journal of Psychology*, 3: 49–62. [[Overbeke 2008 available online](https://www.academia.edu/6383345/Pro-Anorexia_Websites_Content_Impact_and_Explanations_of_Popularity)]
 * [PRIM&R] Public Responsibility in Medicine and Research, Bankert, E., Gordon, B., Hurley, E., and Shriver, S. (eds), 2021, *Institutional Review Board: Management and Function* (third edition). Burlington, MA: Jones and Bartlett.
-* Reid, Elizabeth, 1996, “Informed Consent in the Study of On-Line Communities: A Reflection on the Effects of Computer-Mediated Social Research”, *The Information Society*, 12(2): 169–174. doi:10.1080/713856138
+* Reid, Elizabeth, 1996, “Informed Consent in the Study of On-Line Communities: A Reflection on the Effects of Computer-Mediated Social Research”, *The Information Society*, 12(2): 169–174. doi: 10.1080/713856138
 * Reynolds, Ren, and Melissa de Zwart, 2010, “The Duty to ‘Play’: Ethics, EULAs and MMOs”, *International Journal of Internet Research Ethics*, 3(1): 48–68. [[Reynolds & de Zwart 2010 available online](https://www.globethics.net/gel/4410705)]
 * Ritchie, Donald A., 2003, *Doing Oral History: A Practical Guide*, New York: Oxford University Press.
 * Rosenberg, Åsa, 2010, “Virtual World Research Ethics and the Private/Public Distinction”, *International Journal of Internet Research Ethics*, 3(1): 23–37.
-* Rosser, B. R. Simon, J. Michael Oakes, Joseph Konstan, Simon Hooper, Keith J. Horvath, Gene P. Danilenko, Katherine E. Nygaard, and Derek J. Smolenski, 2010, “Reducing HIV Risk Behavior of Men Who Have Sex with Men through Persuasive Computing: Results of the Menʼs INTernet Study-II”, *AIDS*, 24(13): 2099–2107. doi:10.1097/QAD.0b013e32833c4ac7
+* Rosser, B. R. Simon, J. Michael Oakes, Joseph Konstan, Simon Hooper, Keith J. Horvath, Gene P. Danilenko, Katherine E. Nygaard, and Derek J. Smolenski, 2010, “Reducing HIV Risk Behavior of Men Who Have Sex with Men through Persuasive Computing: Results of the Menʼs INTernet Study-II”, *AIDS*, 24(13): 2099–2107. doi: 10.1097/QAD.0b013e32833c4ac7
 * [SACHRP] Secretary’s Advisory Committee to the Office for Human Research Protections, Unitd States Department of Health & Human Services, 2010, “[SACHRP July 20–21, 2010 Meeting Presentations](https://web.archive.org/web/20170209180021/http://archive.hhs.gov/ohrp/sachrp/mtgings/mtg07-10/present.html)”.
 * –––, 2013, “[Attachment B: Considerations and Recommendations concerning Internet Research and Human Subjects Research Regulations, with Revisions](https://www.hhs.gov/ohrp/sachrp-committee/recommendations/2013-may-20-letter-attachment-b/index.html)”, Final document approved 12–13 March 2013. ([SACHRP 2013 pdf version](https://www.hhs.gov/ohrp/sites/default/files/ohrp/sachrp/mtgings/2013%20March%20Mtg/internet_research.pdf))
 * –––, 2013, “Considerations and Recommendations Concerning Internet Research and Human Subjects Research Regulations, with Revisions”. [[SACHRP 2013 available online](https://www.hhs.gov/ohrp/sites/default/files/ohrp/sachrp/mtgings/2013%20March%20Mtg/internet_research.pdf)]
 * –––, 2015, “[Attachment A: Human Subjects Research Implications of ‘Big Data’ Studies](https://www.hhs.gov/ohrp/sachrp-committee/recommendations/2015-april-24-attachment-a/index.html)”, 24 April 2015.
-* Samuel, Gabrielle and Elizabeth Buchanan, 2020, “Guest Editorial: Ethical Issues in Social Media Research”, *Journal of Empirical Research on Human Research Ethics*, 15(1–2): 3–11. doi:10.1177/1556264619901215
+* Samuel, Gabrielle and Elizabeth Buchanan, 2020, “Guest Editorial: Ethical Issues in Social Media Research”, *Journal of Empirical Research on Human Research Ethics*, 15(1–2): 3–11. doi: 10.1177/1556264619901215
 * Scholz, Trebor, 2008, “Market Ideology and the Myths of Web 2.0”, *First Monday*, 13(3): 3 March 2008. [[Scholz 2008 available online](https://firstmonday.org/ojs/index.php/fm/article/view/2138)]
 * Schwartz, Paul M. and Daniel J. Solove, 2011, “The PII Problem: Privacy and a New Concept of Personally Identifiable Information”, *New York University Law Review*, 86(6): 1814–1893.
-* Seaboldt, James A. and Randy Kuiper, 1997, “Comparison of Information Obtained from a Usenet Newsgroup and from Drug Information Centers”, *American Journal of Health-System Pharmacy*, 54(15): 1732–1735. doi:10.1093/ajhp/54.15.1732
-* Sharf, Barbara F., 1997, “Communicating Breast Cancer On-Line: Support and Empowerment on the Internet”, *Women & Health*, 26(1): 65–84. doi:10.1300/J013v26n01_05
+* Seaboldt, James A. and Randy Kuiper, 1997, “Comparison of Information Obtained from a Usenet Newsgroup and from Drug Information Centers”, *American Journal of Health-System Pharmacy*, 54(15): 1732–1735. doi: 10.1093/ajhp/54.15.1732
+* Sharf, Barbara F., 1997, “Communicating Breast Cancer On-Line: Support and Empowerment on the Internet”, *Women & Health*, 26(1): 65–84. doi: 10.1300/J013v26n01_05
 * Sieber, Joan E., 1992, *Planning Ethically Responsible Research: A Guide for Students and Internal Review Boards*, Thousand Oaks, CA: Sage.
 * –––, 2015, *Planning Ethically Responsible Research: A Guide for Students and Internal Review Boards*, second edition, Thousand Oaks, CA: Sage.
-* Simmhan, Yogesh, Roger Barga, Catharine van Ingen, Ed Lazowska, and Alex Szalay, 2008, “On Building Scientific Workflow Systems for Data Management in the Cloud”, in *2008 IEEE Fourth International Conference on EScience*, Indianapolis, IN: IEEE, pp. 434–435. doi:10.1109/eScience.2008.150
+* Simmhan, Yogesh, Roger Barga, Catharine van Ingen, Ed Lazowska, and Alex Szalay, 2008, “On Building Scientific Workflow Systems for Data Management in the Cloud”, in *2008 IEEE Fourth International Conference on EScience*, Indianapolis, IN: IEEE, pp. 434–435. doi: 10.1109/eScience.2008.150
 * Simmhan, Yogesh, Catharine van Ingen, Girish Subramanian, and Jie Li, 2009, “Bridging the Gap between the Cloud and an EScience Application Platform”. Microsoft Research Tech Report MSR-TR-2009-2021. [[Simmhan et al. 2009 available online](https://www.microsoft.com/en-us/research/publication/bridging-the-gap-between-the-cloud-and-an-escience-application-platform/)]
 * Skloot, Rebecca, 2010, *The Immortal Life of Henrietta Lacks*, New York: Crown Publishers.
 * Sloan, Luke, Curtis Jessop, Tarek Al Baghal, and Matthew Williams, 2020, “Linking Survey and Twitter Data: Informed Consent, Disclosure, Security, and Archiving”, *Journal of Empirical Research on Human Research Ethics,* 15(1–2): 63–76.
-* Smith, Michael A. and Brant Leigh, 1997, “Virtual Subjects: Using the Internet as an Alternative Source of Subjects and Research Environment”, *Behavior Research Methods, Instruments, & Computers*, 29(4): 496–505. doi:10.3758/BF03210601
+* Smith, Michael A. and Brant Leigh, 1997, “Virtual Subjects: Using the Internet as an Alternative Source of Subjects and Research Environment”, *Behavior Research Methods, Instruments, & Computers*, 29(4): 496–505. doi: 10.3758/BF03210601
 * Spriggs, Merle, 2010, *A Handbook for Human Research Ethics Committees and Researchers: Understanding Consent in Research Involving Children: The Ethical Issues*, Melbourne: The University of Melbourne/Murdoch Childrens Research Institute/The Royal Children’s Hospital Melbourne, version 4. [Spriggs 2010 available online](https://web.archive.org/web/20120324133800/http://www.mcri.edu.au/media/62539/handbook.pdf)]
-* Stahl, Bernd Carsten and David Wright, 2018, “Ethics and Privacy in AI and Big Data: Implementing Responsible Research and Innovation”, *IEEE Security & Privacy*, 16(3): 26–33. doi:10.1109/MSP.2018.2701164
+* Stahl, Bernd Carsten and David Wright, 2018, “Ethics and Privacy in AI and Big Data: Implementing Responsible Research and Innovation”, *IEEE Security & Privacy*, 16(3): 26–33. doi: 10.1109/MSP.2018.2701164
 * Sveningsson, Malin, 2004, “Ethics in Internet Ethnography” in Buchanan 2004: 45–61.
-* Sweeney, Latanya, 2002, “K-Anonymity: A Model for Protecting Privacy”, *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(5): 557–570. doi:10.1142/S0218488502001648
+* Sweeney, Latanya, 2002, “K-Anonymity: A Model for Protecting Privacy”, *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(5): 557–570. doi: 10.1142/S0218488502001648
 * Thomas, Jim, 2004, “Reexamining the Ethics of Internet research: Facing the Challenge of Overzealous Oversight”, in Johns, Chen, and Hall 2004: 187–201.
 * Thorseth, May (ed.), 2003, *Applied Ethics in Internet Research* (Programme for Applied Ethics Publication Series No. 1), Trondheim, Norway: NTNU University Press.
-* Tsai, Janice, Lorrie Faith Cranor, Alessandro Acquisti, and Christina M. Fong, 2006, “What’s It To You? A Survey of Online Privacy Concerns and Risks”. NET Institute Working Paper No. 06–29. doi:10.2139/ssrn.941708
+* Tsai, Janice, Lorrie Faith Cranor, Alessandro Acquisti, and Christina M. Fong, 2006, “What’s It To You? A Survey of Online Privacy Concerns and Risks”. NET Institute Working Paper No. 06–29. doi: 10.2139/ssrn.941708
 * Turkle, Sherry,1997, *Life on the Screen: Identity in the Age of the Internet*, New York: Touchstone.
-* Van Heerden, Alastair, Doug Wassenaar, Zaynab Essack, Khanya Vilakazi, and Brandon A. Kohrt, 2020, “In-Home Passive Sensor Data Collection and Its Implications for Social Media Research: Perspectives of Community Women in Rural South Africa”, *Journal of Empirical Research on Human Research Ethics*, 15(1–2): 97–107. doi:10.1177/1556264619881334
-* Vitak, Jessica, Nicholas Proferes, Katie Shilton, and Zahra Ashktorab, 2017, “Ethics Regulation in Social Computing Research: Examining the Role of Institutional Review Boards”, *Journal of Empirical Research on Human Research Ethics*, 12(5): 372–382. doi:10.1177/1556264617725200
+* Van Heerden, Alastair, Doug Wassenaar, Zaynab Essack, Khanya Vilakazi, and Brandon A. Kohrt, 2020, “In-Home Passive Sensor Data Collection and Its Implications for Social Media Research: Perspectives of Community Women in Rural South Africa”, *Journal of Empirical Research on Human Research Ethics*, 15(1–2): 97–107. doi: 10.1177/1556264619881334
+* Vitak, Jessica, Nicholas Proferes, Katie Shilton, and Zahra Ashktorab, 2017, “Ethics Regulation in Social Computing Research: Examining the Role of Institutional Review Boards”, *Journal of Empirical Research on Human Research Ethics*, 12(5): 372–382. doi: 10.1177/1556264617725200
 * Walstrom, Mary K., 2004, “Ethics and Engagement in Communication Scholarship: Analyzing Public, Online Support Groups as Researcher/Participant-Experiencer”, in Buchanan 2004: 174–202.
-* Walther, Joseph B., 2002, “Research Ethics in Internet-Enabled Research: Human Subjects Issues and Methodological Myopia”, *Ethics and Information Technology*, 4(3): 205–216. doi:10.1023/A:1021368426115
-* White, Michele, 2002, “Representations or People?”, *Ethics and Information Technology*, 4(3): 249–266. doi:10.1023/A:1021376727933
+* Walther, Joseph B., 2002, “Research Ethics in Internet-Enabled Research: Human Subjects Issues and Methodological Myopia”, *Ethics and Information Technology*, 4(3): 205–216. doi: 10.1023/A: 1021368426115
+* White, Michele, 2002, “Representations or People?”, *Ethics and Information Technology*, 4(3): 249–266. doi: 10.1023/A: 1021376727933
 * World Medical Association, 1964/2008, “Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects”. Adopted by the 18th World Medical Assembly. Amended 1975, 1983, 1989, 1996, 2000, 2002, 2004, 2008. [[Declaration of Helsinki available online](https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/)]
-* Wright, David R., 2006, “Research Ethics and Computer Science: An Unconsummated Marriage”, in *Proceedings of the 24th Annual Conference on Design of Communication: SIGDOC ’06*, Myrtle Beach, SC: ACM Press, pp. 196–201. doi:10.1145/1166324.1166369
-* Zimmer, Michael T., 2010, “‘But the Data Is Already Public’: On the Ethics of Research in Facebook”, *Ethics and Information Technology*, 12(4): 313–325. doi:10.1007/s10676-010-9227-5
+* Wright, David R., 2006, “Research Ethics and Computer Science: An Unconsummated Marriage”, in *Proceedings of the 24th Annual Conference on Design of Communication: SIGDOC ’06*, Myrtle Beach, SC: ACM Press, pp. 196–201. doi: 10.1145/1166324.1166369
+* Zimmer, Michael T., 2010, “‘But the Data Is Already Public’: On the Ethics of Research in Facebook”, *Ethics and Information Technology*, 12(4): 313–325. doi: 10.1007/s10676-010-9227-5
 * –––, 2016, “OkCupid Study Reveals the Perils of Big-Data Science”, *Wired.com*, 14 May 2016. [[Zimmer 2016 available online](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)]
 * Zimmer, Michael and Edward Chapman, 2020, “Ethical Review Boards and Pervasive Data Research: Gaps and Opportunities”, Paper presented at AoIR 2020: The 21st Annual Conference of the Association of Internet Researchers. [[Zimmer and Chapman 2020 extended abstract available online (pdf)](https://spir.aoir.org/ojs/index.php/spir/article/download/11369/9983)]
 * Zimmer, Michael T. and Katharina Kinder-Kurlanda (eds.), 2017, *Internet Research Ethics for the Social Age: New Challenges, Cases, and Contexts*, New York: Peter Lang Publishing.
@@ -503,7 +503,7 @@ Additional resources are found in [Other Internet Resources](https://plato.stan
 * Allan, Rob, 2012, “[Cloud and Web 2.0 Services for Supporting Research](https://epubs.stfc.ac.uk/work/54691)”.
 * Chen, Xiaoyu, Gary Wills, Lester Gilbert, and David Bacigalupo, 2010, “Using Cloud for Research: A Technical Review”, JISC Final Report for the TeciRes project. [[X. Chen et al. 2010 available online](https://www.researchgate.net/publication/44298273_Using_Cloud_for_Research_A_Technical_Review)]
 * Dittrich, David and Erin Kenneally, 2012, [The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research](https://www.caida.org/publications/papers/2012/menlo_report_actual_formatted/), Homeland Security, United States Government.
-* Hoofnagle, Chris Jay and Jennifer King, 2008, “What Californians Understand About Privacy Online”, Research Report from Samuelson Law Technology & Public Policy Clinic, UC Berkeley Law: Berkeley, CA. doi:10.2139/ssrn.1262130 [[Hoofnagle and King 2008 available online](https://www.law.berkeley.edu/wp-content/uploads/2016/06/Californians.pdf)]
+* Hoofnagle, Chris Jay and Jennifer King, 2008, “What Californians Understand About Privacy Online”, Research Report from Samuelson Law Technology & Public Policy Clinic, UC Berkeley Law: Berkeley, CA. doi: 10.2139/ssrn.1262130 [[Hoofnagle and King 2008 available online](https://www.law.berkeley.edu/wp-content/uploads/2016/06/Californians.pdf)]
 * [NHRPAC] National Human Subjects Protection Advisory Committee, 2002, “[Recommendations on Public Use Data Files](https://web.archive.org/web/20161221060957/http://archive.hhs.gov/ohrp/nhrpac/documents/dataltr.pdf)”.
 * [NIH] National Institutes of Health, 2010, “[Guide for Identifying and Handling Sensitive Information at the NIH](https://oma.od.nih.gov/DMS/Documents/Privacy/Guide%20for%20Handling%20Sensitive%20Information%20at%20NIH.pdf)”
 * –––, 2021, “Certificates of Confidentiality (CoC)”, National Institutes of Health [[NIH 2021 available online](https://grants.nih.gov/policy/humansubjects/coc.htm)]

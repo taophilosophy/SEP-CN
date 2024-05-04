@@ -1,6 +1,6 @@
 # 货币与金融哲学 money and finance, philosophy of (Boudewijn de Bruin, Lisa Herzog, Martin O’Neill, and Joakim Sandberg)
 
-*首次发表于2018年11月2日星期五；实质性修订于2023年3月10日星期五。*
+*首次发表于 2018 年 11 月 2 日星期五；实质性修订于 2023 年 3 月 10 日星期五。*
 
 货币与哲学可能看起来是完全不同的领域。但它们至少有一个共同的祖先：米利都的泰勒斯。泰勒斯通常被认为是第一位哲学家，但他也是一位金融创新者。他似乎是我们现在所称的期权交易员。他预测明年的橄榄收成会很好，因此付了一小笔钱给橄榄压榨机的所有者，以获得明年使用的权利。当收成像预测的那样好时，泰勒斯通过出租榨油机赚了一大笔钱（亚里士多德，《政治学》，1259a）。
 
@@ -30,7 +30,7 @@
 
 对信用理论的批评往往是规范性的，并且关注货币过度扩张的风险，即国家（和银行）可能过度使用他们的“印钞机”，这可能导致不可持续的债务水平、过度通货膨胀、金融不稳定和经济危机。有人认为这些观点是回归金本位制的论据（Rothbard 1983，Schlichter 2014）。然而，其他人认为，认识到货币是社会构建的事实是发展更可持续和公平的货币制度的最佳起点（Graeber 2010，Pettifor 2014）。我们将在下面的政治辩论中回到这个问题（第 5.2 节）。
 
-货币的社会本体论：但是，“货币的社会建构”究竟是如何运作的呢？这个问题涉及到更一般的哲学问题，即社会本体论，其中货币经常被用作一个主要例子。在早期的哲学社会学解释中，乔治·西梅尔（1900）将货币描述为一种制度，它是现代性的重要前提，因为它允许对事物进行价值评估并简化交易；他还批评了货币以此取代其他形式的评估的方式（另见第 4.1 节）。
+货币的社会本体论：但是，“货币的社会建构”究竟是如何运作的呢？这个问题涉及到更一般的哲学问题，即社会本体论，其中货币经常被用作一个主要例子。在早期的哲学社会学解释中，乔治 · 西梅尔（1900）将货币描述为一种制度，它是现代性的重要前提，因为它允许对事物进行价值评估并简化交易；他还批评了货币以此取代其他形式的评估的方式（另见第 4.1 节）。
 
 在最近的讨论中，可以区分出两个主要的哲学派别。一个有影响力的社会本体论解释认为，货币是一种社会制度，其存在依赖于“集体意向性”：在社区中共享的信念和态度（西尔，1995 年，2010 年）。这个过程始于某人简单而单方面地宣布某物是货币，这是一种履行性言语行为。当其他人承认或接受这一宣布时，它就成为一项常规社会规则。因此，货币被认为依赖于我们的主观态度，但并不仅仅位于我们的思想中（另见劳森，2016 年，布林亚斯多蒂尔，2018 年，帕辛斯基，2020 年，沃伊斯和迪克，2021 年）。
 
@@ -62,7 +62,7 @@
 
 这一点进一步引发了关于信念和知识规范性的问题。对于信念伦理学和德性认识论等课题的研究考虑了主体在认识事务中所拥有的责任。这些责任包括关于信息获取、存储和传输的认识义务；证据评估；以及信念的修订或拒绝（参见信念伦理学）。与商业伦理学中德性理论的重新评估相一致，特别是德性认识论引起了从事金融研究的学者的关注。例如，尽管大多数评论家都关注导致 2008 年金融危机的道德失误，但越来越多的文献研究了认识上的失败。
 
-金融领域的认识上的失败既可以在个体层面上检测到，也可以在集体层面上检测到（de Bruin 2015）。组织可以通过三个维度培养企业认识德性：通过将认识德性与特定职能相匹配（例如，董事会层面的多样性）；通过为行使认识德性提供充分的组织支持（例如，知识管理技术）；并通过采取组织性对抗认识恶习的补救措施（例如，轮岗政策）。使用这种三管齐下的方法有助于解释金融尽职调查未能发现伯纳德·麦道夫臭名昭著的庞氏骗局（在金融危机中被揭露）的认识上的失败（de Bruin 2014a，2015）。
+金融领域的认识上的失败既可以在个体层面上检测到，也可以在集体层面上检测到（de Bruin 2015）。组织可以通过三个维度培养企业认识德性：通过将认识德性与特定职能相匹配（例如，董事会层面的多样性）；通过为行使认识德性提供充分的组织支持（例如，知识管理技术）；并通过采取组织性对抗认识恶习的补救措施（例如，轮岗政策）。使用这种三管齐下的方法有助于解释金融尽职调查未能发现伯纳德 · 麦道夫臭名昭著的庞氏骗局（在金融危机中被揭露）的认识上的失败（de Bruin 2014a，2015）。
 
 认识论美德不仅与金融机构本身相关，还与金融系统中的其他机构相关。一个重要的例子涉及会计（审计）公司。会计公司调查企业，以确保其账目（年度报告）准确反映财务状况。虽然这些审计服务的主要受益者是股东（以及广大公众），但会计师是由他们审计的公司支付报酬。这种报酬制度通常被认为会导致利益冲突。虽然会计伦理主要关注伦理准则和其他管理工具以最小化这些利益冲突，但认识论的视角可能有助于表明企业与审计师的关系应被视为涉及一个共同的认识论代理，其中企业提供证据，审计师提供认识论的理据（de Bruin 2013）。我们将在下面（第 4.2 节）讨论与利益冲突相关的问题。
 
@@ -74,11 +74,11 @@
 
 与金融从业者相比，人们可能认为金融经济学家在货币与金融问题上应该具有认识优势。金融经济学是社会科学中一个相当年轻但已经确立的学科，旨在理解、解释和预测金融市场内的活动。然而，在 2008 年的金融危机发生几个月后，伊丽莎白二世女王在伦敦向一群金融经济学家提问，为什么他们没有预测到这场危机（Egidi 2014）。女王的问题应该是研究金融经济学科学哲学的一个绝佳起点。然而，只有少数科学哲学家专门考虑了金融（Vergara Fernández & de Bruin 2021）[1]。
 
-金融经济学中的一些重要主题受到了部分关注，包括莫迪格利安尼-米勒资本结构无关定理（Hindriks 2008），有效市场假说（Collier 2011），布莱克-斯科尔斯期权定价模型（Weatherall 2017），投资组合理论（Walsh 2015），金融均衡模型（Farmer＆Geanakoplos 2009），货币概念（Mäki 1997）和行为金融学（Brav，Heaton，＆Rosenberg 2004），尽管大部分辩论仍然发生在对方法论感兴趣的经济学家之间，而不是哲学家之间。然而，还有许多主题有待研究，包括风险价值（VaR）概念（以及更广泛的金融风险概念），资本资产定价模型（CAPM），高斯Copula，随机游走，金融衍生品，事件研究，预测（和大数据），波动性，动物精神，资本成本，各种财务比率，破产概念和神经金融，都需要哲学家们更持续的关注。
+金融经济学中的一些重要主题受到了部分关注，包括莫迪格利安尼-米勒资本结构无关定理（Hindriks 2008），有效市场假说（Collier 2011），布莱克-斯科尔斯期权定价模型（Weatherall 2017），投资组合理论（Walsh 2015），金融均衡模型（Farmer＆Geanakoplos 2009），货币概念（Mäki 1997）和行为金融学（Brav，Heaton，＆Rosenberg 2004），尽管大部分辩论仍然发生在对方法论感兴趣的经济学家之间，而不是哲学家之间。然而，还有许多主题有待研究，包括风险价值（VaR）概念（以及更广泛的金融风险概念），资本资产定价模型（CAPM），高斯 Copula，随机游走，金融衍生品，事件研究，预测（和大数据），波动性，动物精神，资本成本，各种财务比率，破产概念和神经金融，都需要哲学家们更持续的关注。
 
-在科学哲学中，关于金融的现有研究大多涉及模型和建模（参见科学模型和经济学哲学中的模型）。将金融市场视为极其复杂的系统似乎是直观的：由于有如此多不同的因素在起作用，预测证券（股票、债券等）的价格几乎是不可能的。然而，主流金融经济学坚定地认为，市场行为应该被理解为最终由最大化预期效用的代理人相互作用所导致的。这是所谓的新古典经济学在19世纪末和20世纪初发展起来的直接应用。尽管这一学派继续主导该领域的教科书，但越来越多的学术趋势试图批评、补充甚至取代其一些主要假设。我们可以看到这些问题在企业金融和资产定价理论中如何发挥作用。
+在科学哲学中，关于金融的现有研究大多涉及模型和建模（参见科学模型和经济学哲学中的模型）。将金融市场视为极其复杂的系统似乎是直观的：由于有如此多不同的因素在起作用，预测证券（股票、债券等）的价格几乎是不可能的。然而，主流金融经济学坚定地认为，市场行为应该被理解为最终由最大化预期效用的代理人相互作用所导致的。这是所谓的新古典经济学在 19 世纪末和 20 世纪初发展起来的直接应用。尽管这一学派继续主导该领域的教科书，但越来越多的学术趋势试图批评、补充甚至取代其一些主要假设。我们可以看到这些问题在企业金融和资产定价理论中如何发挥作用。
 
-企业金融涉及企业的融资。一个问题涉及到企业的资本结构：企业应该通过股权（即股东期望获得股息）还是通过债务（即债券持有人向企业借款并有合同权利获得利息）获得资金，或者两者结合。企业金融中的一个关键结果是莫迪格利亚尼-米勒定理，该定理认为企业的资本结构与其市场价值无关（莫迪格利亚尼和米勒，1958年）。该定理做出了许多高度不现实的假设，其中包括市场有效和没有税收的假设。因此，与经济学中的许多其他结果一样，它可能被认为对预测目的是无用的，甚至是危险的（Egidi，2014年）。然而，在对莫迪格利亚尼-米勒定理进行详细研究的一篇论文中，Hindriks（2008年）提出，经济学中高度理想化模型的价值可能在于它们提供了反事实的见解，就像物理学一样。伽利略的自由落体定律告诉我们在真空中会发生什么。尽管真空在现实中很少见，但这个定律并不是没有信息的，因为它使我们能够将观察到的现象与需要放松的不现实假设程度联系起来。同样，如果莫迪格利亚尼-米勒定理所做的假设之一是没有税收，那么资本结构的相关性的观察结果很可能需要解释为特定税收制度的结果。通过放松不现实的假设得到的解释被称为“具体化解释”（Hindriks，2008年）。
+企业金融涉及企业的融资。一个问题涉及到企业的资本结构：企业应该通过股权（即股东期望获得股息）还是通过债务（即债券持有人向企业借款并有合同权利获得利息）获得资金，或者两者结合。企业金融中的一个关键结果是莫迪格利亚尼-米勒定理，该定理认为企业的资本结构与其市场价值无关（莫迪格利亚尼和米勒，1958 年）。该定理做出了许多高度不现实的假设，其中包括市场有效和没有税收的假设。因此，与经济学中的许多其他结果一样，它可能被认为对预测目的是无用的，甚至是危险的（Egidi，2014 年）。然而，在对莫迪格利亚尼-米勒定理进行详细研究的一篇论文中，Hindriks（2008 年）提出，经济学中高度理想化模型的价值可能在于它们提供了反事实的见解，就像物理学一样。伽利略的自由落体定律告诉我们在真空中会发生什么。尽管真空在现实中很少见，但这个定律并不是没有信息的，因为它使我们能够将观察到的现象与需要放松的不现实假设程度联系起来。同样，如果莫迪格利亚尼-米勒定理所做的假设之一是没有税收，那么资本结构的相关性的观察结果很可能需要解释为特定税收制度的结果。通过放松不现实的假设得到的解释被称为“具体化解释”（Hindriks，2008 年）。
 
 解释通过具体化的方式工作，如果模型和现实至少共享一些具体特征。这在金融学中的许多现有模型中可以说是成立的，包括与解释 2008 年危机直接相关的泡沫和危机模型（Abreu＆Brunnermeier 2003）。然而，最近出现的一种叫做“经济物理学”的发展可能是一个例外。经济物理学使用物理学方法来建模金融市场（参见 Rickles 2007 的概述）。传统危机模型包括通过概率分布和效用函数建模的个体投资者的信念和欲望，而经济物理学模型则捕捉了物质从流体到固体状态的转变方式（Kuhlmann 2014）。
 
@@ -96,7 +96,7 @@
 
 #### 4.1.1 对金钱的追求
 
-在对货币与金融进行广泛批评的核心问题中，存在着动机的问题。例如，完整的圣经引文说“贪爱钱财是万恶之根”（提摩太前书 6:10）。拥有“贪爱钱财”，或者（用不那么道德化的话来说）追求利润动机，意味着为了钱而追求钱。这在历史上一直受到很多道德批评，并在大众道德中继续引起争议。
+在对货币与金融进行广泛批评的核心问题中，存在着动机的问题。例如，完整的圣经引文说“贪爱钱财是万恶之根”（提摩太前书 6: 10）。拥有“贪爱钱财”，或者（用不那么道德化的话来说）追求利润动机，意味着为了钱而追求钱。这在历史上一直受到很多道德批评，并在大众道德中继续引起争议。
 
 批评有三个主要变种。第一个变种认为利润动机本身是不自然的。例如，亚里士多德认为我们应该以符合其基本性质的方式对待物体，由于货币本身并不是一种好东西，而只是一种交换媒介（见第 1.1 节），他得出结论，追求钱财本身是不自然的（《政治学》1252a-1260b）。马克思也提出了类似的思想，他认为资本主义用 M-C-M（货币交换为商品交换为货币）取代了自然经济循环 C-M-C。因此，无休止的积累财富成为资本家的唯一目标，马克思将其描述为一种“拜物教”（马克思 1867 年，第一卷）。
 
@@ -104,9 +104,9 @@
 
 批评的第三个变种认为，利润动机意味着缺乏更合适的动机。康德认为，只有出于道德原因才具有道德价值的行动才是有意义的，或者更具体地说，是出于义务的缘故。因此，仅仅做正确的事情是不够的，我们还必须因为它是正确的而去做（Kant 1785）。康德的另一个相关原则是，我们永远不应该将他人仅仅视为实现自己目的的手段，而应始终将他人也视为目的本身（参见康德的道德哲学）。这两个原则似乎与利润动机相矛盾，因此在道德上存在问题（Bowie 1999，Maitland 2002）。康德对“商品化”和其他市场过度现象的几个例子持强烈批评并不足为奇（参见市场）。
 
-有两条主要的防御论证线路。最有影响力的是亚当·斯密关于自私追求利润的积极副作用的论证：尽管面包师和酿酒师只追求自己的利益，斯密建议说，他们被“看不见的手”引导，同时促进公共利益（斯密 1776 年，参见曼德维尔 1732 年）。这个论证通常被视为对利润动机（也参见后果主义）的合理化：积极的社会效应在道德上可以超越个人美德的可能缺陷（弗鲁 1976 年）。
+有两条主要的防御论证线路。最有影响力的是亚当 · 斯密关于自私追求利润的积极副作用的论证：尽管面包师和酿酒师只追求自己的利益，斯密建议说，他们被“看不见的手”引导，同时促进公共利益（斯密 1776 年，参见曼德维尔 1732 年）。这个论证通常被视为对利润动机（也参见后果主义）的合理化：积极的社会效应在道德上可以超越个人美德的可能缺陷（弗鲁 1976 年）。
 
-第二个论证更直接，认为利润动机可以体现积极的美德。例如，有着强调努力工作、纪律和节俭的著名新教工作伦理（朗 1972 年，卫斯理 1771 年）。从这个观点来看，利润动机可以与雄心、勤奋和纪律等美德相关联（参见布伦南 2021 年）。根据马克斯·韦伯（1905 年）的观点，新教工作伦理在资本主义的发展中起到了重要作用。当然，目前尚不清楚这些论证是否能够合理化对利润的独家关注，或者只是在特定情况下也允许关注利润。
+第二个论证更直接，认为利润动机可以体现积极的美德。例如，有着强调努力工作、纪律和节俭的著名新教工作伦理（朗 1972 年，卫斯理 1771 年）。从这个观点来看，利润动机可以与雄心、勤奋和纪律等美德相关联（参见布伦南 2021 年）。根据马克斯 · 韦伯（1905 年）的观点，新教工作伦理在资本主义的发展中起到了重要作用。当然，目前尚不清楚这些论证是否能够合理化对利润的独家关注，或者只是在特定情况下也允许关注利润。
 
 #### 4.1.2 高利贷和利息
 
@@ -164,7 +164,7 @@
 
 有几种哲学观点被用来解释内幕交易有什么问题（如果有的话）。第一种观点涉及公平竞争的概念。即使在完全自治的交易者情况下，论点是，如果一方拥有另一方没有的信息，市场交易就不公平。公平竞争要求“公平竞争环境”，即没有参与者从不公平的优势地位开始（Werhane 1989, 1991）。然而，批评者认为，这种观点对信息平等提出了过高的要求。市场上存在许多信息不对称，似乎并没有问题，例如，古董商比他的顾客更了解古董（Lawson 1988, Machan 1996）。那么，内部信息的不可获取性是否是问题所在？但是，反对这一观点的人可以辩称，原则上，外部人有可能成为内部人，从而获得完全相同的信息（Lawson 1988, Moore 1990）。
 
-第二个观点认为内幕交易是对职责的违背，不是对交易对手的违背，而是对信息来源的违背。美国的立法将内幕信息视为基础公司的财产，因此，内幕交易本质上是对公司财产的盗窃行为（通常称为盗用理论）（劳森，1988年）。相关建议是，可以将其视为内部人员对所在公司的受托责任的违反（摩尔，1990年）。然而，批评者认为，盗用理论误解了公司与内部人员之间的关系。一方面，在许多正常的商业情况下，内部人员被允许甚至期望向外部来源传播内幕信息（博特赖特，2014年）。另一方面，如果信息是公司的财产，为什么我们不允许将其作为一种报酬“出售”给内部人员呢？（恩格伦和范利德克，2010年，曼恩，1966年）
+第二个观点认为内幕交易是对职责的违背，不是对交易对手的违背，而是对信息来源的违背。美国的立法将内幕信息视为基础公司的财产，因此，内幕交易本质上是对公司财产的盗窃行为（通常称为盗用理论）（劳森，1988 年）。相关建议是，可以将其视为内部人员对所在公司的受托责任的违反（摩尔，1990 年）。然而，批评者认为，盗用理论误解了公司与内部人员之间的关系。一方面，在许多正常的商业情况下，内部人员被允许甚至期望向外部来源传播内幕信息（博特赖特，2014 年）。另一方面，如果信息是公司的财产，为什么我们不允许将其作为一种报酬“出售”给内部人员呢？（恩格伦和范利德克，2010 年，曼恩，1966 年）
 
 第三个观点涉及允许内幕交易的直接和间接影响。有趣的是，许多人认为这种政策的直接影响可能是积极的。如上所述，金融市场的主要目的之一是形成（或“发现”）反映有关公司的所有可用信息的价格。由于内幕交易提供了重要信息，它很可能改善价格发现过程（Manne 1966）。事实上，同样的推理表明，内幕交易实际上有助于交易对手获得更好的价格（因为内幕交易很可能将价格朝着“正确”的方向推动），因此它是一种无害犯罪（Engelen＆Liedekerke 2010）。然而，其他人对间接影响表示担忧，这些影响很可能更为负面。允许内幕交易可能通过偏爱机会主义而不是公平竞争来侵蚀市场参与者的道德标准（Werhane 1989）。此外，许多人可能会因为觉得市场对他们不利而被劝阻参与市场（Strudler 2009）。
 
@@ -214,11 +214,11 @@
 
 政治哲学对金融提出的许多问题与“金融化”有关。 “金融化”现象指的是经济系统日益被金融资本的主导地位和金融中介系统所特征化（Ertürk 等，2008 年; Davis，2011 年; Engelen 等，2011 年; Palley，2013 年），在许多方面具有潜在的规范意义。相关的规范关注点是金融部门政治权力的潜在增长，这可能被视为对民主政治的威胁。
 
-这些担忧实际上是对资本的“结构性权力”或“结构性约束”的熟悉担忧的放大，即资本主义投资者通过威胁“投资罢工”来减少民主政府的行动自由（参见 Lindblom，1977 年，1982 年; Przeworski＆Wallerstein，1988 年; Cohen，1989 年; B. Barry，2002 年; Christiano，2010 年，2012 年; Furendal＆O'Neill，2022 年）。以最近版本的这些担忧为例，斯图尔特·怀特（Stuart White）认为，共和主义对人民主权的承诺与接受一个重要的关于投资的选择以及经济发展方向受金融利益控制的经济体系之间存在显著紧张关系（White，2011 年）。
+这些担忧实际上是对资本的“结构性权力”或“结构性约束”的熟悉担忧的放大，即资本主义投资者通过威胁“投资罢工”来减少民主政府的行动自由（参见 Lindblom，1977 年，1982 年; Przeworski＆Wallerstein，1988 年; Cohen，1989 年; B. Barry，2002 年; Christiano，2010 年，2012 年; Furendal＆O'Neill，2022 年）。以最近版本的这些担忧为例，斯图尔特 · 怀特（Stuart White）认为，共和主义对人民主权的承诺与接受一个重要的关于投资的选择以及经济发展方向受金融利益控制的经济体系之间存在显著紧张关系（White，2011 年）。
 
-在许多这样的辩论中，分歧似乎是传统的那种，即支持通过自由市场进行社会协调，因此对国家活动有严格限制的人，以及支持民主政治，因此对市场有严格限制的人（不否认可能存在中间立场）。但当前的金融体系并不是纯粹由自由市场创造的。在我们目前看到的金融体系中，个人对其行为承担财务责任的原则，以及他们因此将受到市场的“约束”，最多也只是零星的。一个主要问题，如上所述，是银行过于庞大和相互关联，其失败将危及整个金融体系——因此，他们可以预见到他们将会被纳税人的钱救助，这就产生了巨大的“道德风险”问题（例如，皮斯托尔2013年，2017年）。此外，当前的法律体系很难对分工复杂的过程进行问责，这就是为什么2008年金融危机后几乎没有法律救济措施的原因（例如，赖夫2017年）。
+在许多这样的辩论中，分歧似乎是传统的那种，即支持通过自由市场进行社会协调，因此对国家活动有严格限制的人，以及支持民主政治，因此对市场有严格限制的人（不否认可能存在中间立场）。但当前的金融体系并不是纯粹由自由市场创造的。在我们目前看到的金融体系中，个人对其行为承担财务责任的原则，以及他们因此将受到市场的“约束”，最多也只是零星的。一个主要问题，如上所述，是银行过于庞大和相互关联，其失败将危及整个金融体系——因此，他们可以预见到他们将会被纳税人的钱救助，这就产生了巨大的“道德风险”问题（例如，皮斯托尔 2013 年，2017 年）。此外，当前的法律体系很难对分工复杂的过程进行问责，这就是为什么 2008 年金融危机后几乎没有法律救济措施的原因（例如，赖夫 2017 年）。
 
-缺乏解释加剧了人们对民主政治家与金融领域个人或企业之间权力关系的担忧。一个问题是，我们是否能将我们对今天这种金融体系的社会应用于标准的民主概念。我们可以质疑高度金融化的社会是否能够成为真正的民主国家，或者更有可能成为“后民主国家”（Crouch 2004）。例如，拥有高额主权债务的国家将需要考虑金融市场对每个重大政策决策的反应（参见Streeck 2013 [2014]，另见Klein 2020）。此外，私人金融机构与监管机构之间的“旋转门”对公职人员追究金融机构责任的能力产生影响。这与上述利益冲突问题类似（参见第2节和第4.2.2节）。如果金融合同成为社会关系的核心形式，甚至可能成为最核心的形式（Lazzarato 2012），这可能与公民平等地位无关，而公民平等地位应该是民主社会及其公共讨论领域的基础（参见Bennett 2020，从认识论的角度看）。
+缺乏解释加剧了人们对民主政治家与金融领域个人或企业之间权力关系的担忧。一个问题是，我们是否能将我们对今天这种金融体系的社会应用于标准的民主概念。我们可以质疑高度金融化的社会是否能够成为真正的民主国家，或者更有可能成为“后民主国家”（Crouch 2004）。例如，拥有高额主权债务的国家将需要考虑金融市场对每个重大政策决策的反应（参见 Streeck 2013 [2014]，另见 Klein 2020）。此外，私人金融机构与监管机构之间的“旋转门”对公职人员追究金融机构责任的能力产生影响。这与上述利益冲突问题类似（参见第 2 节和第 4.2.2 节）。如果金融合同成为社会关系的核心形式，甚至可能成为最核心的形式（Lazzarato 2012），这可能与公民平等地位无关，而公民平等地位应该是民主社会及其公共讨论领域的基础（参见 Bennett 2020，从认识论的角度看）。
 
 尽管货币与金融在漫长的历史时期内一直受到严格的监督，但自大约 1970 年以来，出现了一种逆转的趋势，即向去监管。2008 年金融危机后，出现了许多要求重新监管的呼声。提议包括提高银行的资本比率（Admati＆Hellwig 2013），恢复商业银行与投机金融的分离，就像在美国实施《格拉斯-斯蒂格尔法案》期间一样（Kay 2015），或者实施金融交易税（Wollner 2014）。然而，鉴于金融系统是一个全球系统，一个有争议的问题是，单个国家的监管措施是否会产生除资本外流之外的任何效果。
 
@@ -226,17 +226,17 @@
 
 当涉及国内社会公正时，与金融系统相关的核心问题是金融系统的组织方式如何帮助或阻碍实现公正。
 
-这里首先涉及到一个问题，已经在上面关于小额信贷的讨论中提到过（第4.3.2节），即公民作为金融市场参与者的地位问题。他们是否都应该有权利获得某些金融服务，比如银行账户或某些形式的贷款，因为信贷应该被视为资本主义经济中的一种主要商品（参见Hudon 2009，Sorell 2015，Meyer 2018）？更广泛地说，信贷获取的模式如何影响社会内自由和非自由的分配？（参见Dietsch 2021；Preiss 2021）。这些问题不仅仅是对于非常贫穷的国家来说，对于经济不平等程度较高的富裕国家也是如此，这成为了一个国内公正的问题。在一些国家，所有居民都有权利开设基本银行账户（参见欧盟的银行账户在其他互联网资源中）。而在其他国家，情况并非如此。有人认为，无法获得基本金融服务会造成不公平，因为它会使较贫困的个人陷入现金经济中，更容易受到剥削性放贷者的伤害，并且更难以积累储蓄（例如，Baradaran 2015）。因此，有人建议要么更严格地监管个人银行服务（例如，Herzog 2017a），要么考虑各种形式的家庭债务减免（Persad 2018），要么提供公共银行服务，例如由邮局经营，以提供可负担的基本服务（Baradaran 2015）。
+这里首先涉及到一个问题，已经在上面关于小额信贷的讨论中提到过（第 4.3.2 节），即公民作为金融市场参与者的地位问题。他们是否都应该有权利获得某些金融服务，比如银行账户或某些形式的贷款，因为信贷应该被视为资本主义经济中的一种主要商品（参见 Hudon 2009，Sorell 2015，Meyer 2018）？更广泛地说，信贷获取的模式如何影响社会内自由和非自由的分配？（参见 Dietsch 2021；Preiss 2021）。这些问题不仅仅是对于非常贫穷的国家来说，对于经济不平等程度较高的富裕国家也是如此，这成为了一个国内公正的问题。在一些国家，所有居民都有权利开设基本银行账户（参见欧盟的银行账户在其他互联网资源中）。而在其他国家，情况并非如此。有人认为，无法获得基本金融服务会造成不公平，因为它会使较贫困的个人陷入现金经济中，更容易受到剥削性放贷者的伤害，并且更难以积累储蓄（例如，Baradaran 2015）。因此，有人建议要么更严格地监管个人银行服务（例如，Herzog 2017a），要么考虑各种形式的家庭债务减免（Persad 2018），要么提供公共银行服务，例如由邮局经营，以提供可负担的基本服务（Baradaran 2015）。
 
 其次，金融化可能对社会经济不平等产生更直接的影响。金融部门内的管理职位在收入分配的最高端中所占比例过大，因此不平等的增长部分可以通过金融部门本身的增长来解释（皮凯蒂 2014）。金融部门的“超精英主义”规范也可能对社会范围内的不平等增加产生影响，从而增加了社会对不平等的容忍度（皮凯蒂 2014: 265, 2020；参见奥尼尔 2017, 2021）。正如迪奇等人指出的那样，近几十年来，先进工业社会中金融化进程的增加得到了中央银行的推动，因此金融化问题也与中央银行和货币政策的公正性和合法性问题密切相关（迪奇、克拉沃、丰坦 2016, 2018；参见雅各布斯和金 2016）。
 
 第三，关于分配公正与金融体系之间关系的许多辩论围绕着抵押贷款市场展开，因为对于许多个人来说，房屋是他们需要贷款购买的最大资产，而他们的抵押贷款是他们与金融体系互动的主要方式。这意味着谁能够获得抵押贷款以及以什么价格获得抵押贷款，对整体收入和财富的分配都会产生重大影响。此外，它还会影响金融风险在社会中的分布。高负债的个人在个人生活（例如疾病、失业、离婚）或整个经济（例如经济衰退）的起伏中更加脆弱（米安和苏菲 2014）。这里的危险在于，现有的不平等（许多正义理论都认为是不公正的）可能会进一步加剧（赫尔佐格 2017a）。
 
-然而，在这里，关于劳动分工的制度性问题出现了：在市场内（尤其是金融市场内）应该实现哪些分配公正的目标，以及通过其他手段（例如税收和再分配）应该实现哪些目标？后者是许多福利制度所采用的标准方法：即让市场自由运作，然后通过税收和再分配来实现所期望的分配模式。如果我们仍然坚持这种范式，就会出现关于金融部门是否应该征收更高税收的问题。相比之下，“预分配”（Hacker 2011；O’Neill & Williamson 2012；O’Neill 202）的方法，或者Dietsch所称的“过程再分配”（2010），是设计经济游戏规则，以促进实现被视为公正的分配模式。例如，这可能意味着通过对发薪贷款机构和银行实施监管，减少不平等，保护贫困个体免于陷入不断加重的债务漩涡。更激进的观点可能是将这些个体面临的金融问题视为更普遍的结构性不公正所导致的，解决这些问题不一定需要对金融行业进行干预，而是需要更普遍的再分配（或预分配）政策。
+然而，在这里，关于劳动分工的制度性问题出现了：在市场内（尤其是金融市场内）应该实现哪些分配公正的目标，以及通过其他手段（例如税收和再分配）应该实现哪些目标？后者是许多福利制度所采用的标准方法：即让市场自由运作，然后通过税收和再分配来实现所期望的分配模式。如果我们仍然坚持这种范式，就会出现关于金融部门是否应该征收更高税收的问题。相比之下，“预分配”（Hacker 2011；O’Neill & Williamson 2012；O’Neill 202）的方法，或者 Dietsch 所称的“过程再分配”（2010），是设计经济游戏规则，以促进实现被视为公正的分配模式。例如，这可能意味着通过对发薪贷款机构和银行实施监管，减少不平等，保护贫困个体免于陷入不断加重的债务漩涡。更激进的观点可能是将这些个体面临的金融问题视为更普遍的结构性不公正所导致的，解决这些问题不一定需要对金融行业进行干预，而是需要更普遍的再分配（或预分配）政策。
 
-货币创造：另一种替代的理论方法是将分配关注点整合到货币政策中，即在货币创造方面。到目前为止，中央银行一直关注货币稳定和就业水平。这种技术性关注，再加上政治家可能滥用货币政策试图在选举前提振经济的风险，已被用来主张将货币供应的控制权交给技术专家，使货币政策脱离民主政治。但在2008年的金融危机之后，许多中央银行采取了非常规措施，如“量化宽松”，这些措施具有强烈的回归效应，偏袒股票或土地所有者（Fontan等，2016年；Dietsch，2017年）；它们没有考虑到其他社会目标，例如绿色能源的融资。这引发了新的公正问题：如果这些措施的宣称目标是将经济从低迷中拉出来，这也有助于弱势群体（Haldane，2014年），那么这样的措施是否合理？其他措施，例如向所有公民分发的“直升机货币”，是否是更好的选择？如果使用这些措施，是否仍然适合将中央银行视为只需要技术专长的机构，还是应该对社会负有某种形式的责任？（Fontan，Claveau和Dietsch，2016年；Dietsch，2017年；Riles，2018年；另请参见Tucker，2018年；van ’t Klooster，2020年；James＆Hockett，2020年；Downey，2021年）[2]。
+货币创造：另一种替代的理论方法是将分配关注点整合到货币政策中，即在货币创造方面。到目前为止，中央银行一直关注货币稳定和就业水平。这种技术性关注，再加上政治家可能滥用货币政策试图在选举前提振经济的风险，已被用来主张将货币供应的控制权交给技术专家，使货币政策脱离民主政治。但在 2008 年的金融危机之后，许多中央银行采取了非常规措施，如“量化宽松”，这些措施具有强烈的回归效应，偏袒股票或土地所有者（Fontan 等，2016 年；Dietsch，2017 年）；它们没有考虑到其他社会目标，例如绿色能源的融资。这引发了新的公正问题：如果这些措施的宣称目标是将经济从低迷中拉出来，这也有助于弱势群体（Haldane，2014 年），那么这样的措施是否合理？其他措施，例如向所有公民分发的“直升机货币”，是否是更好的选择？如果使用这些措施，是否仍然适合将中央银行视为只需要技术专长的机构，还是应该对社会负有某种形式的责任？（Fontan，Claveau 和 Dietsch，2016 年；Dietsch，2017 年；Riles，2018 年；另请参见 Tucker，2018 年；van ’t Klooster，2020 年；James＆Hockett，2020 年；Downey，2021 年）[2]。
 
-我们已经讨论了货币的本体论地位的一般问题（上面的 1.1 节）。但是，在政治哲学中，关于货币供应应该由什么样的机构在哪里控制的问题也存在重要的争议。这里的一个复杂因素是关于货币创造的机构基础的广泛分歧，如上所述。货币信用理论的一个分支强调，在当今世界，货币创造是一个商业银行发挥重要作用的过程。当商业银行向个人或企业客户发放新贷款时，它们实际上创造了新的货币（参见 McLeay，Radia 和 Thomas 2014; 另请参阅 Palley 1996; Ryan-Collins 等 2012; Werner 2014a，b）。詹姆斯·托宾用一个引人入胜但现在已经过时的形象将商业银行创造的货币称为“钢笔货币”，也就是说，用银行经理的钢笔一挥而就创造的货币（托宾 1963）。
+我们已经讨论了货币的本体论地位的一般问题（上面的 1.1 节）。但是，在政治哲学中，关于货币供应应该由什么样的机构在哪里控制的问题也存在重要的争议。这里的一个复杂因素是关于货币创造的机构基础的广泛分歧，如上所述。货币信用理论的一个分支强调，在当今世界，货币创造是一个商业银行发挥重要作用的过程。当商业银行向个人或企业客户发放新贷款时，它们实际上创造了新的货币（参见 McLeay，Radia 和 Thomas 2014; 另请参阅 Palley 1996; Ryan-Collins 等 2012; Werner 2014a，b）。詹姆斯 · 托宾用一个引人入胜但现在已经过时的形象将商业银行创造的货币称为“钢笔货币”，也就是说，用银行经理的钢笔一挥而就创造的货币（托宾 1963）。
 
 然而，私人商业银行与中央银行之间的关系是复杂的，因此我们最好将货币创造视为一种涉及混合公私合作的问题。霍克特和奥马罗娃将这种关系称为“金融特许经营”，私人银行在“特许经营”基础上获得了主权货币机构的货币创造权力，而范特克洛斯特则将公共和私人之间的这种关系描述为“混合货币宪法”（Hockett＆Omarova 2017; van't Klooster 2017; 另请参阅 Bell 2001）。在这种混合的公私货币体系中，私人商业银行确实创造货币，但他们这样做的方式涉及受到每个货币司法管辖区内央行的监管和权威的约束，央行在银行间贷款枯竭时也充当“最后贷款人”（Bagehot 1873）[3]。
 
@@ -250,253 +250,253 @@
 
 最后，一些问题将金融问题与全球正义问题联系起来。关于全球正义的辩论（参见全球正义）权衡了“国家主义”和“世界主义”方法的利弊，即关注国家（可能还有一些对全球贫困人口的善行义务）或关注全球尺度的正义方法。金融系统是目前存在的最全球化的社会互动系统之一，全球纠葛是难以否认的（例如，Valentini 2011：195-8）。因此，问题是这是否对金融系统产生了正义义务，如果是，它是否履行了这些义务，即它是否有助于使世界更加全球公正，还是倾向于相反的方向（或者是否中立）。
 
-有许多机构，尤其是世界银行和国际货币基金组织（IMF），构成了一个基本的全球金融秩序。可以说，许多国家，尤其是较贫穷的国家，无法合理地选择退出这些机构所建立的规则（例如，Hassoun 2012，Krishnamurthy 2014）。因此，这些机构的治理方式应当代表所有国家的利益，这可能是正义所要求的。但由于历史上的路径依赖性，并且因为它们的大部分预算来自西方国家，其治理结构在很大程度上对它们有利（例如，美国可以否决IMF的所有重要决策）。米勒（2010：134-41）将这种情况描述为美国的“间接金融统治”（另见Herzog 2021）。
+有许多机构，尤其是世界银行和国际货币基金组织（IMF），构成了一个基本的全球金融秩序。可以说，许多国家，尤其是较贫穷的国家，无法合理地选择退出这些机构所建立的规则（例如，Hassoun 2012，Krishnamurthy 2014）。因此，这些机构的治理方式应当代表所有国家的利益，这可能是正义所要求的。但由于历史上的路径依赖性，并且因为它们的大部分预算来自西方国家，其治理结构在很大程度上对它们有利（例如，美国可以否决 IMF 的所有重要决策）。米勒（2010：134-41）将这种情况描述为美国的“间接金融统治”（另见 Herzog 2021）。
 
 在这个背景下值得注意的一个问题是，美元和欧元作为事实上的全球货币，全球贸易的很大一部分以这些货币进行交易（例如，Mehrling 2011，Eichengreen 2011）。这使得发行国可以运行经常账户赤字，这相当于从较贫穷的国家向较富裕的国家进行再分配，可能需要进行补偿（Reddy 2005：224-5）。这个事实也引发了关于全球领域权力分配的问题，这经常被批评为偏向西方国家（例如，Gulati 1980，联合国 2009）。然而，全球金融市场不仅用于为商品和服务提供融资；还存在关于这些市场波动的问题，这些波动仅仅是由投机行为引起的（参见上文 1.4.3 节）。这样的波动可能会对较贫穷的国家造成不成比例的伤害，因为它们更容易受到资本流动或商品价格的快速变化的影响。因此，一个最近从全球正义的角度重新提出并得到辩护的旧提议是“托宾税”（Tobin 1978），它将对金融交易征税，从而减少国际金融市场的波动性（Reddy 2005，Wollner 2014）。
 
 当前全球秩序的第二个受到正义观点批评的特征是“借款特权”。正如 Pogge 所描述的（例如，2008 年：第 4 章），各国政府可以在国际金融市场上借款，无论它们是否具有民主合法性。这意味着流氓政府可以通过累积债务来为自己提供资金，而未来几代公民将不得不偿还这些债务。
 
-主权债务引发了一系列与全球公正相关的问题。通常情况下，这些债务合同被认为是绝对约束力的（例如，Suttle 2016），这可能威胁到国家主权（Dietsch 2011），并引发了债务国公民以及债权国本身在道德和政治责任方面的问题（Wiedenbrüg，2018a，2018b）。这些问题尤其在所谓的“恶性”债务（Sack 1927，Howse 2007，Dimitriu 2015，King 2016）方面存在：即政府官员签署债务合同以谋取个人利益，而债权人对此事实心知肚明。这些案例一直是呼吁为负债国家进行债务减免的核心问题。目前，国际上没有约束性的规则来处理主权破产，财政困境的国家没有系统地提出自己的要求，这从公正的角度来看是有问题的（例如，Palley 2003；Reddy 2005：26-33；Herman 2007；C. Barry＆Tomitova 2007；Wollner 2018）。国际货币基金组织（IMF）经常在重组主权债务方面支持各国，但这种支持往往有条件，要求对国家的经济结构进行重新安排（有关此类做法的可允许性的讨论，请参见C. Barry 2011）。
+主权债务引发了一系列与全球公正相关的问题。通常情况下，这些债务合同被认为是绝对约束力的（例如，Suttle 2016），这可能威胁到国家主权（Dietsch 2011），并引发了债务国公民以及债权国本身在道德和政治责任方面的问题（Wiedenbrüg，2018a，2018b）。这些问题尤其在所谓的“恶性”债务（Sack 1927，Howse 2007，Dimitriu 2015，King 2016）方面存在：即政府官员签署债务合同以谋取个人利益，而债权人对此事实心知肚明。这些案例一直是呼吁为负债国家进行债务减免的核心问题。目前，国际上没有约束性的规则来处理主权破产，财政困境的国家没有系统地提出自己的要求，这从公正的角度来看是有问题的（例如，Palley 2003；Reddy 2005：26-33；Herman 2007；C. Barry＆Tomitova 2007；Wollner 2018）。国际货币基金组织（IMF）经常在重组主权债务方面支持各国，但这种支持往往有条件，要求对国家的经济结构进行重新安排（有关此类做法的可允许性的讨论，请参见 C. Barry 2011）。
 
-最后，也许最重要的是，金融监管问题具有全球性的维度，因为资本可以跨越国界流动，从而产生了上述对民主的威胁。这一事实使得个别国家，尤其是较小的国家，很难从公正的角度出发制定更为严格的金融监管措施。就像许多其他全球公正问题一样（例如，关于税收的Dietsch 2015），我们似乎看到了国家之间协调失败的情况，导致了“向底部竞赛”。因此，要使全球金融机构更加公正，很可能需要大量的国际合作。
+最后，也许最重要的是，金融监管问题具有全球性的维度，因为资本可以跨越国界流动，从而产生了上述对民主的威胁。这一事实使得个别国家，尤其是较小的国家，很难从公正的角度出发制定更为严格的金融监管措施。就像许多其他全球公正问题一样（例如，关于税收的 Dietsch 2015），我们似乎看到了国家之间协调失败的情况，导致了“向底部竞赛”。因此，要使全球金融机构更加公正，很可能需要大量的国际合作。
 
 ## Bibliography
 
-* Abreu, Dilip and Markus K. Brunnermeier, 2003, “Bubbles and Crashes”, *Econometrica*, 71(1): 173–204. doi:10.1111/1468-0262.00393
+* Abreu, Dilip and Markus K. Brunnermeier, 2003, “Bubbles and Crashes”, *Econometrica*, 71(1): 173–204. doi: 10.1111/1468-0262.00393
 * Admati, Anat and Martin Hellwig, 2013, *The Bankers’ New Clothes. What’s Wrong with Banking and What to Do about It*, Princeton, NJ: Princeton University Press.
 * Andersson, Alexander and Joakim Sandberg, 2019, “Moralising Economic Desert,” in Christopher Cowton, James Dempsey, and Tom Sorell (eds.), *Business Ethics After the Global Financial Crisis: Lessons from the Crash*, New York: Routledge, pp. 165–184.
-* Angel, James J. and Douglas M. McCabe, 2009, “The Ethics of Speculation”, *Journal of Business Ethics*, 90(supp. 3): 277–286. doi:10.1007/s10551-010-0421-5
+* Angel, James J. and Douglas M. McCabe, 2009, “The Ethics of Speculation”, *Journal of Business Ethics*, 90(supp. 3): 277–286. doi: 10.1007/s10551-010-0421-5
 * Aquinas, *Summa Theologica*, Fathers of the English Dominican Province, trans. 5 vols. Westminster, MD: Christian Classics, 1981.
 * Aristotle, *Politics*, in *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Princeton University Press, 1984. [[*Politics* available online](http://data.perseus.org/texts/urn:cts:greekLit:tlg0086.tlg035.perseus-eng1)]
 * Armendáriz, Beatriz and Jonathan Morduch, 2010, *The Economics of Microfinance*, second edition, Cambridge, MA: The MIT Press.
-* Arnold, Denis G. and Andres Valentin, 2013, “Corporate Social Responsibility at the Base of the Pyramid”, *Journal of Business Research*, 66(10): 1904–1914. doi:10.1016/j.jbusres.2013.02.012
+* Arnold, Denis G. and Andres Valentin, 2013, “Corporate Social Responsibility at the Base of the Pyramid”, *Journal of Business Research*, 66(10): 1904–1914. doi: 10.1016/j.jbusres.2013.02.012
 * Ayub, Muhammad, 2007, *Understanding Islamic Finance*, Chichester: John Wiley & Sons.
 * Bagehot, Walter, 1873 [1999]. *Lombard Street: A Description of the Money Market*, New York: Wiley Investment Classics.
 * Baradaran, Mehrsa, 2015, *How the Other Half Banks. Exclusion, Exploitation, and the Threat to Democracy*, Cambridge, MA: Harvard University Press.
-* Barry, Brian, 2002, “Capitalists Rule Ok? Some Puzzles About Power”, *Politics, Philosophy & Economics*, 1(2): 155–184. doi:10.1177/1470594X02001002001
-* Barry, Christian, 2011, “Human Rights Conditionality in Sovereign Debt Relief”, *Journal of Political Philosophy*, 19(3): 282–305. doi:10.1111/j.1467-9760.2011.00395.x
-* Barry, Christian and Lydia Tomitova, 2007, “Fairness in Sovereign Debt”, *Ethics & International Affairs*, 21(S1): 41–79. doi:10.1111/j.1747-7093.2007.00084.x
+* Barry, Brian, 2002, “Capitalists Rule Ok? Some Puzzles About Power”, *Politics, Philosophy & Economics*, 1(2): 155–184. doi: 10.1177/1470594X02001002001
+* Barry, Christian, 2011, “Human Rights Conditionality in Sovereign Debt Relief”, *Journal of Political Philosophy*, 19(3): 282–305. doi: 10.1111/j.1467-9760.2011.00395.x
+* Barry, Christian and Lydia Tomitova, 2007, “Fairness in Sovereign Debt”, *Ethics & International Affairs*, 21(S1): 41–79. doi: 10.1111/j.1747-7093.2007.00084.x
 * Bateman, Milford, 2010, *Why Doesn’t Microfinance Work?* London: Zed Books.
-* Bell, Stephanie, 2001, “The Role of the State and the Hierarchy of Money”, *Cambridge Journal of Economics*, 25(2): 149–163. doi:10.1093/cje/25.2.149
-* Bennett, Michael, 2020, “An Epistemic Argument for an Egalitarian Public Sphere”, *Episteme*, first online 26 October 2020. doi:10.1017/epi.2020.42
+* Bell, Stephanie, 2001, “The Role of the State and the Hierarchy of Money”, *Cambridge Journal of Economics*, 25(2): 149–163. doi: 10.1093/cje/25.2.149
+* Bennett, Michael, 2020, “An Epistemic Argument for an Egalitarian Public Sphere”, *Episteme*, first online 26 October 2020. doi: 10.1017/epi.2020.42
 * Bentham, Jeremy, 1787, *Defence of Usury*, London: Payne and Foss.
-* Bertolotti, Tommaso and Lorenzo Magnani, 2017, “Contemporary Finance as a Critical Cognitive Niche: An Epistemological Outlook on the Uncertain Effects of Contrasting Uncertainty”, *Studies in Applied Philosophy, Epistemology and Rational Ethics*, 34(2): 129–150. doi:10.1007/978-3-319-49872-0_8
+* Bertolotti, Tommaso and Lorenzo Magnani, 2017, “Contemporary Finance as a Critical Cognitive Niche: An Epistemological Outlook on the Uncertain Effects of Contrasting Uncertainty”, *Studies in Applied Philosophy, Epistemology and Rational Ethics*, 34(2): 129–150. doi: 10.1007/978-3-319-49872-0_8
 * Birnie, Arthur, 1952, *The History and Ethics of Interest*, London: William Hodge & Company.
-* Boatright, John Raymond (ed.), 2010, *Finance Ethics: Critical Issues in Theory and Practice*, Hoboken, NJ: John Wiley & Sons. doi:10.1002/9781118266298
+* Boatright, John Raymond (ed.), 2010, *Finance Ethics: Critical Issues in Theory and Practice*, Hoboken, NJ: John Wiley & Sons. doi: 10.1002/9781118266298
 * –––, 2014, *Ethics in Finance*, third edition, Chichester: John Wiley & Sons.
 * Bogle, John C., 2012, *The Clash of Cultures: Investment vs. Speculation*, Hoboken, NJ: John Wiley & Sons.
-* Booth, Anthony and Boudewijn de Bruin, 2021, “Stakes Sensitivity and Credit Rating: A New Challenge for Regulators”, *Journal of Business Ethics*, 169: 169–179. doi:10.1007/s10551-019-04260-2
-* Borna, Shaheen and James Lowry, 1987, “Gambling and Speculation”, *Journal of Business Ethics*, 6(3): 219–224. doi:10.1007/BF00382867
+* Booth, Anthony and Boudewijn de Bruin, 2021, “Stakes Sensitivity and Credit Rating: A New Challenge for Regulators”, *Journal of Business Ethics*, 169: 169–179. doi: 10.1007/s10551-019-04260-2
+* Borna, Shaheen and James Lowry, 1987, “Gambling and Speculation”, *Journal of Business Ethics*, 6(3): 219–224. doi: 10.1007/BF00382867
 * Bowie, Norman E., 1999, *Business Ethics: A Kantian Perspective*, Oxford: Blackwell.
-* Brav, Alon, J.B. Heaton, and Alexander Rosenberg, 2004, “The Rational-Behavioral Debate in Financial Economics”, *Journal of Economic Methodology*, 11(4): 393–409. doi:10.1080/1350178042000177978
+* Brav, Alon, J.B. Heaton, and Alexander Rosenberg, 2004, “The Rational-Behavioral Debate in Financial Economics”, *Journal of Economic Methodology*, 11(4): 393–409. doi: 10.1080/1350178042000177978
 * Brennan, Jason, 2021, *Why It’s OK to Want to Be Rich*, New York: Routledge.
-* Brunnermeier, Markus K. and Martin Oehmke, 2013, “Bubbles, Financial Crises, and Systemic Risk”, in *Handbook of the Economics of Finance*, George M. Constantinides, Milton Harris, and Rene M. Stulz (eds), Amsterdam: Elsevier, Volume 2, Part B: 1221–1288. doi:10.1016/B978-0-44-459406-8.00018-4
+* Brunnermeier, Markus K. and Martin Oehmke, 2013, “Bubbles, Financial Crises, and Systemic Risk”, in *Handbook of the Economics of Finance*, George M. Constantinides, Milton Harris, and Rene M. Stulz (eds), Amsterdam: Elsevier, Volume 2, Part B: 1221–1288. doi: 10.1016/B978-0-44-459406-8.00018-4
 * Brynjarsdóttir, Eyja, 2018, *The Reality of Money: The Metaphysics of Financial Value*, London: Rowman & Littlefield International.
-* Cetina, Karin Knorr and Alex Preda (eds.), 2012, *The Oxford Handbook of the Sociology of Finance*, first edition, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199590162.001.0001
-* Christiano, Thomas, 2010, “The Uneasy Relationship between Democracy and Capital”, *Social Philosophy and Policy*, 27(1): 195–217. doi:10.1017/S0265052509990082
-* –––, 2012, “Money and Politics”, in David Estlund (ed.), *The Oxford Handbook of Political Philosophy*, Oxford: Oxford University Press, 241–257. doi:10.1093/oxfordhb/9780195376692.013.0013
-* Cohen, Joshua, 1989, “The Economic Basis of Deliberative Democracy”, *Social Philosophy and Policy*, 6(2): 25–50. doi:10.1017/S0265052500000625
-* Collier, Charles W., 2011, “An Inefficient Truth”, *Critical Review*, 23(1–2), 29–71. doi:10.1080/08913811.2011.574469
-* Cowton, Christopher J. and Joakim Sandberg, 2012, “Socially Responsible Investment”, in R. Chadwick (ed.), *Encyclopedia of Applied Ethics*, second edition, vol. 4, San Diego: Academic Press, pp. 142–151. doi:10.1016/B978-0-12-373932-2.00086-7
+* Cetina, Karin Knorr and Alex Preda (eds.), 2012, *The Oxford Handbook of the Sociology of Finance*, first edition, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199590162.001.0001
+* Christiano, Thomas, 2010, “The Uneasy Relationship between Democracy and Capital”, *Social Philosophy and Policy*, 27(1): 195–217. doi: 10.1017/S0265052509990082
+* –––, 2012, “Money and Politics”, in David Estlund (ed.), *The Oxford Handbook of Political Philosophy*, Oxford: Oxford University Press, 241–257. doi: 10.1093/oxfordhb/9780195376692.013.0013
+* Cohen, Joshua, 1989, “The Economic Basis of Deliberative Democracy”, *Social Philosophy and Policy*, 6(2): 25–50. doi: 10.1017/S0265052500000625
+* Collier, Charles W., 2011, “An Inefficient Truth”, *Critical Review*, 23(1–2), 29–71. doi: 10.1080/08913811.2011.574469
+* Cowton, Christopher J. and Joakim Sandberg, 2012, “Socially Responsible Investment”, in R. Chadwick (ed.), *Encyclopedia of Applied Ethics*, second edition, vol. 4, San Diego: Academic Press, pp. 142–151. doi: 10.1016/B978-0-12-373932-2.00086-7
 * Crouch, Colin, 2004, *Post-Democracy*, Cambridge: Polity.
 * Dallas, Lynne L., 2012, “Short-Termism, the Financial Crisis, and Corporate Governance”, *Journal of Corporation Law*, 37: 265–364.
 * Davis, Gerald F., 2011, *Managed by the Markets. How Finance Re-Shaped America*, New York: Oxford University Press.
-* de Bruin, Boudewijn, 2013, “Epistemic Integrity in Accounting: Accountants as Justifiers in Joint Epistemic Agents”, *Business & Professional Ethics Journal*, 32(2): 109–130. doi:10.5840/bpej2013321/25
-* –––, 2014a, “Epistemically Virtuous Risk Management: Financial Due Diligence and Uncovering the Madoff Fraud”, in Christoph Luetge and Johanna Jauernig (eds.), *Business Ethics and Risk Management*, Dordrecht: Springer, 27–42. doi:10.1007/978-94-007-7441-4_3
-* –––, 2014b, “Ethics Management in Banking and Finance”, in Nicholas Morris and David Vines (eds.), *Capital Failure: Rebuilding Trust in Financial Services*, Oxford: Oxford University Press, 255–276. doi:10.1093/acprof:oso/9780198712220.003.0012
+* de Bruin, Boudewijn, 2013, “Epistemic Integrity in Accounting: Accountants as Justifiers in Joint Epistemic Agents”, *Business & Professional Ethics Journal*, 32(2): 109–130. doi: 10.5840/bpej2013321/25
+* –––, 2014a, “Epistemically Virtuous Risk Management: Financial Due Diligence and Uncovering the Madoff Fraud”, in Christoph Luetge and Johanna Jauernig (eds.), *Business Ethics and Risk Management*, Dordrecht: Springer, 27–42. doi: 10.1007/978-94-007-7441-4_3
+* –––, 2014b, “Ethics Management in Banking and Finance”, in Nicholas Morris and David Vines (eds.), *Capital Failure: Rebuilding Trust in Financial Services*, Oxford: Oxford University Press, 255–276. doi: 10.1093/acprof: oso/9780198712220.003.0012
 * –––, 2015, *Ethics and the Global Financial Crisis. Why Incompetence is Worse than Greed*, Cambridge: Cambridge University Press.
-* –––, 2016, “Pledging Integrity: Oaths as Forms of Business Management”, *Journal of Business Ethics*, 136(1): 23–42. doi:10.1007/s10551-014-2504-1
-* –––, 2017, “Information as a Condition of Justice in Financial Markets: The Regulation of Credit-Rating Agencies”, in Herzog 2017b: 250–270. doi:10.1093/oso/9780198755661.003.0011
-* –––, 2018, “Moral Responsibility for Large-Scale Events: The Difference between Climate Change and Economic Crises”, *Midwest Studies in Philosophy*, 42(1): 191–212. doi:10.1111/misp.12090
-* –––, 2021, “Epistemic Injustice in Finance”, *Topoi*, 40(4): 755–763. doi:10.1007/s11245-019-09677-y
+* –––, 2016, “Pledging Integrity: Oaths as Forms of Business Management”, *Journal of Business Ethics*, 136(1): 23–42. doi: 10.1007/s10551-014-2504-1
+* –––, 2017, “Information as a Condition of Justice in Financial Markets: The Regulation of Credit-Rating Agencies”, in Herzog 2017b: 250–270. doi: 10.1093/oso/9780198755661.003.0011
+* –––, 2018, “Moral Responsibility for Large-Scale Events: The Difference between Climate Change and Economic Crises”, *Midwest Studies in Philosophy*, 42(1): 191–212. doi: 10.1111/misp.12090
+* –––, 2021, “Epistemic Injustice in Finance”, *Topoi*, 40(4): 755–763. doi: 10.1007/s11245-019-09677-y
 * –––, 2023, “Climate Change and Reflexive Law: The EU Sustainable Finance Action Plan”, in Joakim Sandberg & Lisa Warenski (eds.), *The Philosophy of Money and Finance*, Oxford: Oxford University Press.
-* de Bruin, Boudewijn and Christian Walter, 2017, “Research Habits in Financial Modelling: The Case of Non-normativity of Market Returns in the 1970s and the 1980s”, in Ippoliti and Chen 2017: 73–93. doi:10.1007/978-3-319-49872-0_5
+* de Bruin, Boudewijn and Christian Walter, 2017, “Research Habits in Financial Modelling: The Case of Non-normativity of Market Returns in the 1970s and the 1980s”, in Ippoliti and Chen 2017: 73–93. doi: 10.1007/978-3-319-49872-0_5
 * Dichter, Thomas W. and Malcolm Harper (eds.), 2007, *What’s Wrong with Microfinance?* Rugby: Practical Action Publishing.
-* Dietsch, Peter, 2010, “The Market, Competition, and Equality”, *Politics, Philosophy & Economics*, 9(2): 213–244. doi:10.1177/1470594X09359148
-* –––, 2011, “Rethinking Sovereignty in International Fiscal Policy”, *Review of International Studies*, 37(5): 2107–2120. doi:10.1017/S0260210511000349
-* –––, 2015, *Catching Capital: The Ethics of Tax Competition*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190251512.001.0001
-* –––, 2017, “Normative Dimensions of Central Banking: How the Guardians of Financial Markets Affect Justice”, in Herzog 2017b: 231–249. doi:10.1093/oso/9780198755661.003.0010
+* Dietsch, Peter, 2010, “The Market, Competition, and Equality”, *Politics, Philosophy & Economics*, 9(2): 213–244. doi: 10.1177/1470594X09359148
+* –––, 2011, “Rethinking Sovereignty in International Fiscal Policy”, *Review of International Studies*, 37(5): 2107–2120. doi: 10.1017/S0260210511000349
+* –––, 2015, *Catching Capital: The Ethics of Tax Competition*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190251512.001.0001
+* –––, 2017, “Normative Dimensions of Central Banking: How the Guardians of Financial Markets Affect Justice”, in Herzog 2017b: 231–249. doi: 10.1093/oso/9780198755661.003.0010
 * –––, 2021, “Money creation, debt, and justice”, *Politics, Philosophy and Economics*, 20(2): 151–179.
 * Dietsch, Peter, François Claveau, and Clément Fontan, 2016, “Central banking and inequality: taking off the blinders”, *Politics, Philosophy & Economics*, 15(4): 319–357.
 * Dietsch, Peter, François Claveau, and Clément Fontan, 2018, *Do Central Banks Serve the People?* Oxford: Polity Press.
 * Dilworth, John B., 1994, “The Ethical Importance of Conflicts of Interest: Accounting and Finance Examples”, *Business & Professional Ethics Journal*, 13(1): 25–40.
-* Dimitriu, Cristian, 2015, “Odious Debts: A Moral Account”, *Jurisprudence*, 6(3): 470–491. doi:10.1080/20403313.2015.1065646
+* Dimitriu, Cristian, 2015, “Odious Debts: A Moral Account”, *Jurisprudence*, 6(3): 470–491. doi: 10.1080/20403313.2015.1065646
 * Downey, Leah, 2021, “Delegation in Democracy: A Temporal Analysis”, *Journal of Political Philosophy*, 29(3): 305–29. doi: 10.1111/jopp.12234
 * Douglas, Alexander X., 2016, *The Philosophy of Debt*, New York: Routledge.
-* Dow, Sheila, 2016, “The Political Economy of Monetary Reform”, *Cambridge Journal of Economics*, 40(5): 1363–1376. doi:10.1093/cje/bew013
+* Dow, Sheila, 2016, “The Political Economy of Monetary Reform”, *Cambridge Journal of Economics*, 40(5): 1363–1376. doi: 10.1093/cje/bew013
 * Duska, Ronald F. and James J. Clarke, 2002, “Ethical Issues in Financial Services”, in Norman E. Bowie (ed.), *The Blackwell Guide to Business Ethics*, Oxford: Blackwell, 206–224.
 * Dyson, Ben, Graham Hodgson, and Frank van Lerven, 2016a, *Sovereign Money: an Introduction*, London: Positive Money.
-* –––, 2016b, “A Response to Critiques of ‘Full Reserve Banking’”, *Cambridge Journal of Economics*, 40(5): 1351–1361. doi:10.1093/cje/bew036
-* Egidi, Massimo, 2014, “The Economics of Wishful Thinking and the Adventures of Rationality”, *Mind and Society*, 13(1): 9–27. doi:10.1007/s11299-014-0146-8
+* –––, 2016b, “A Response to Critiques of ‘Full Reserve Banking’”, *Cambridge Journal of Economics*, 40(5): 1351–1361. doi: 10.1093/cje/bew036
+* Egidi, Massimo, 2014, “The Economics of Wishful Thinking and the Adventures of Rationality”, *Mind and Society*, 13(1): 9–27. doi: 10.1007/s11299-014-0146-8
 * Eich, Stefan, 2019, “Between Justice and Accumulation: Aristotle on Currency and Reciprocity”, *Political Theory*, 47(3): 363–90. doi: 10.1177/0090591718802634
 * –––, 2020, “John Locke and the Politics of Monetary Depoliticization”, *Modern Intellectual History*, 17(1): 1–28. doi: 10.1017/S1479244318000185
 * –––, 2022, *The Currency of Politics: The Political Theory of Money from Aristotle to Keynes*, Princeton: Princeton University Press.
 * Eichengreen, Barry J., 2011, *Exorbitant Privilege: The Rise and the Fall of the Dollar and the Future of the International Monetary System*, Oxford: Oxford University Press.
 * Endörfer, Richard, 2022, *Weapons of Mass Destruction: Financial Crises from a Philosophical Perspective*, Gothenburg: Acta Universitatis Gothoburgensis.
 * Endörfer, Richard and Boudewijn de Bruin, 2019, “Freedom in Finance: The Importance of Epistemic Virtues and Interlucent Communication”, in *Business Ethics after the Global Financial Crisis: Lessons from the Crash*, Christopher Cowton, James Demsey and Tom Sorell (eds.), New York: Routledge, 104–130.
-* Engelen, Peter-Jan and Luc Van Liedekerke, 2010, “Insider Trading”, in Boatright 2010: 199–221. doi:10.1002/9781118266298.ch11
-* Engelen, Ewald, Ismail Ertürk, Julie Froud, Sukhdev Johal, Adam Leaver, Mick Moran, Adriana Nilsson, and Karel Williams, 2011, *After the Great Complacence: Financial Crisis and the Politics of Reform*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199589081.001.0001
+* Engelen, Peter-Jan and Luc Van Liedekerke, 2010, “Insider Trading”, in Boatright 2010: 199–221. doi: 10.1002/9781118266298.ch11
+* Engelen, Ewald, Ismail Ertürk, Julie Froud, Sukhdev Johal, Adam Leaver, Mick Moran, Adriana Nilsson, and Karel Williams, 2011, *After the Great Complacence: Financial Crisis and the Politics of Reform*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199589081.001.0001
 * Ertürk, Ismail, Julie Froud, Sukhdev Johal, Adam Leaver, and Karel Williams (eds.), 2008, *Financialization at Work: Key Texts and Commentary*, London: Routledge.
 * Fabozzi, Frank J., 2002, *The Handbook of Financial Instruments*, Hoboken: Wiley.
-* Farmer, J. Doyne and John Geanakoplos, 2009, “The Virtues and Vices of Equilibrium and the Future of Financial Economics”, *Complexity*, 14(3): 11–38. doi:10.1002/cplx.20261
+* Farmer, J. Doyne and John Geanakoplos, 2009, “The Virtues and Vices of Equilibrium and the Future of Financial Economics”, *Complexity*, 14(3): 11–38. doi: 10.1002/cplx.20261
 * Ferguson, Niall, 2008, *The Ascent of Money: A Financial History of the World*, London: Penguin.
-* Flew, Antony, 1976, “The Profit Motive”, *Ethics*, 86(4): 312–322. doi:10.1086/292007
-* Fontan, Clément, François Claveau, and Peter Dietsch, 2016, “Central Banking and Inequalities: Taking off the Blinders”, *Politics, Philosophy & Economics*, 15(4): 319–357. doi:10.1177/1470594X16651056
-* Fontana, Giuseppe and Malcolm Sawyer, 2016, “Full Reserve Banking: More ‘Cranks’ Than ‘Brave Heretics’”, *Cambridge Journal of Economics*, 40(5): 1333–1350. doi:10.1093/cje/bew016
+* Flew, Antony, 1976, “The Profit Motive”, *Ethics*, 86(4): 312–322. doi: 10.1086/292007
+* Fontan, Clément, François Claveau, and Peter Dietsch, 2016, “Central Banking and Inequalities: Taking off the Blinders”, *Politics, Philosophy & Economics*, 15(4): 319–357. doi: 10.1177/1470594X16651056
+* Fontana, Giuseppe and Malcolm Sawyer, 2016, “Full Reserve Banking: More ‘Cranks’ Than ‘Brave Heretics’”, *Cambridge Journal of Economics*, 40(5): 1333–1350. doi: 10.1093/cje/bew016
 * Friedman, Milton, 1962, “Should There Be an Independent Monetary Authority?” in Leland B. Yeager (ed.), *In Search of a Monetary Constitution*, Cambridge, MA: Harvard University Press, 219–43.
 * Furendal, Markus and Martin O’Neill, 2022, “Work, Justice, and Collective Capital Institutions: Revisiting Rudolf Meidner and the Case for Wage-Earner Funds”, *Journal of Applied Philosophy*, first online 24 November 2022. doi: 10.1111/japp.12631
-* Frydman, Roman and Michael D. Goldberg, 2013, “Fallibility in Formal Macroeconomics and Finance Theory”, *Journal of Economic Methodology*, 20(4): 386–396. doi:10.1080/1350178X.2013.859425
-* Gershman, John and Jonathan Morduch, 2015, “Credit Is Not a Right”, in *Microfinance, Rights and Global Justice*, Tom Sorell and Luis Cabrera (eds.), Cambridge: Cambridge University Press, 14–26. doi:10.1017/CBO9781316275634.002
+* Frydman, Roman and Michael D. Goldberg, 2013, “Fallibility in Formal Macroeconomics and Finance Theory”, *Journal of Economic Methodology*, 20(4): 386–396. doi: 10.1080/1350178X.2013.859425
+* Gershman, John and Jonathan Morduch, 2015, “Credit Is Not a Right”, in *Microfinance, Rights and Global Justice*, Tom Sorell and Luis Cabrera (eds.), Cambridge: Cambridge University Press, 14–26. doi: 10.1017/CBO9781316275634.002
 * Golumbia, David, 2016, *The Politics of Bitcoin: Software as Right-Wing Extremism*, Minneapolis, University of Minnesota Press.
 * Goodhart, Charles A.E. and Meinhard A. Jensen, 2015, “Currency School versus Banking School: an Ongoing Confrontation”, *Economic Thought*, 4(2): 20–31. [[Goodhart & Jensen 2015 available online](http://et.worldeconomicsassociation.org/papers/a-commentary-on-patrizio-lainas-proposals-for-full-reserve-banking-a-historical-survey-from-david-ricardo-to-martin-wolf/)]
-* Graafland, Johan J., 2010, “Calvin’s Restrictions on Interest: Guidelines for the Credit Crisis”, *Journal of Business Ethics*, 96(2): 233–248. doi:10.1007/s10551-010-0462-9
-* Graafland, Johan J. and Bert W. van de Ven, 2011, “The Credit Crisis and the Moral Responsibility of Professionals in Finance”, *Journal of Business Ethics*, 103(4): 605–619. doi:10.1007/s10551-011-0883-0
+* Graafland, Johan J., 2010, “Calvin’s Restrictions on Interest: Guidelines for the Credit Crisis”, *Journal of Business Ethics*, 96(2): 233–248. doi: 10.1007/s10551-010-0462-9
+* Graafland, Johan J. and Bert W. van de Ven, 2011, “The Credit Crisis and the Moral Responsibility of Professionals in Finance”, *Journal of Business Ethics*, 103(4): 605–619. doi: 10.1007/s10551-011-0883-0
 * Graeber, David, 2011, *Debt: The First 5000 Years*, New York: Melville House.
 * Guala, Francesco, 2016, *Understanding Institutions: The Science and Philosophy of Living Together*, Princeton: Princeton University Press.
 * Gulati, Iqbal, 1980, *International Monetary Development and the Third World: A Proposal to Redress the Balance*, New Dehli: Orient Longman.
 * Hacker, Jacob S., 2011, “The Institutional Foundations of Middle-Class Democracy”, in *Priorities for a New Political Economy: Memos to the Left*, Policy Network Briefs, <[Hacker 2011 available online](https://web.archive.org/web/20181116113848/http://www.policy-network.net/pno_detail.aspx?ID=3998)>
-* Haigh, Matthew and James Hazelton, 2004, “Financial Markets: A Tool for Social Responsibility?”, *Journal of Business Ethics*, 52(1): 59–71. doi:10.1023/B:BUSI.0000033107.22587.0b
+* Haigh, Matthew and James Hazelton, 2004, “Financial Markets: A Tool for Social Responsibility?”, *Journal of Business Ethics*, 52(1): 59–71. doi: 10.1023/B: BUSI.0000033107.22587.0b
 * Haldane, Andrew G., 2014, “Unfair Shares”, Remarks given at the Bristol Festival of Ideas, May 21. [[Haldane 2014 available online](https://www.bankofengland.co.uk/-/media/boe/files/speech/2014/unfair-shares)]
-* Hassoun, Nicole, 2012, *Globalization and Global Justice: Shrinking Distances, Expanding Obligations*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511845802
-* Hawley, James P., Andreas G.F. Hoepner, Keith L. Johnson, Joakim Sandberg, and Edward J. Waitzer (eds.), 2014, *Cambridge Handbook of Institutional Investment and Fiduciary Duty*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139565516
+* Hassoun, Nicole, 2012, *Globalization and Global Justice: Shrinking Distances, Expanding Obligations*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511845802
+* Hawley, James P., Andreas G.F. Hoepner, Keith L. Johnson, Joakim Sandberg, and Edward J. Waitzer (eds.), 2014, *Cambridge Handbook of Institutional Investment and Fiduciary Duty*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139565516
 * Heacock, Marian V, Kendall P. Hill, and Seth C. Anderson, 1987, “Churning: An Ethical Issue in Finance”, *Business and Professional Ethics Journal*, 6(1): 3–17.
-* Hendry, John, 2013, *Ethics and Finance: An Introduction*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139162494
-* Herman, Barry, 2007, “The Players and the Game of Sovereign Debt”, *Ethics & International Affairs*, 21(S1): 9–39. doi:10.1111/j.1747-7093.2007.00083.x
-* Herzog, Lisa, 2017a, “What Could be Wrong with a Mortgage? Private Debt Markets from a Perspective of Structural Injustice”, *Journal of Political Philosophy*, 25(4): 411–434. doi:10.1111/jopp.12107
-* ––– (ed.), 2017b, *Just Financial Markets? Finance in a Just Society*, Oxford: Oxford University Press. doi:10.1093/oso/9780198755661.001.0001
-* –––, 2019, “Professional Ethics in Banking and the Logic of ‘Integrated Situations’: Aligning Responsibilities, Recognition, and Incentives”, *Journal of Business Ethics*, First Online: 12 May 2017. doi:10.1007/s10551-017-3562-y
+* Hendry, John, 2013, *Ethics and Finance: An Introduction*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139162494
+* Herman, Barry, 2007, “The Players and the Game of Sovereign Debt”, *Ethics & International Affairs*, 21(S1): 9–39. doi: 10.1111/j.1747-7093.2007.00083.x
+* Herzog, Lisa, 2017a, “What Could be Wrong with a Mortgage? Private Debt Markets from a Perspective of Structural Injustice”, *Journal of Political Philosophy*, 25(4): 411–434. doi: 10.1111/jopp.12107
+* ––– (ed.), 2017b, *Just Financial Markets? Finance in a Just Society*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198755661.001.0001
+* –––, 2019, “Professional Ethics in Banking and the Logic of ‘Integrated Situations’: Aligning Responsibilities, Recognition, and Incentives”, *Journal of Business Ethics*, First Online: 12 May 2017. doi: 10.1007/s10551-017-3562-y
 * –––, 2021, “Global reserve currencies from the perspective of structural global justice: distribution and domination”, *Critical Review of International Social and Political Philosophy*, 24(7): 931–953.
-* Hindriks, Frank, 2008, “False Models as Explanatory Engines”, *Philosophy of the Social Sciences*, 38(3): 334–360. doi:10.1177/0048393108319414
+* Hindriks, Frank, 2008, “False Models as Explanatory Engines”, *Philosophy of the Social Sciences*, 38(3): 334–360. doi: 10.1177/0048393108319414
 * Hindriks, Frank & Joakim Sandberg, 2020, “Money: What It Is and What It Should Be,” *Journal of Social Ontology*, 6(2): 237–243.
 * Hindriks, Frank & Francesco Guala, 2021, “The Functions of Institutions: Etiology and Teleology,” *Synthese*, 198(3): 2027–2043.
-* Hockett, Robert C. and Saule T. Omarova, 2017, “The Finance Franchise”, *Cornell Law Review*, 102: 1143–1218. doi:10.2139/ssrn.2820176
+* Hockett, Robert C. and Saule T. Omarova, 2017, “The Finance Franchise”, *Cornell Law Review*, 102: 1143–1218. doi: 10.2139/ssrn.2820176
 * Howse, Robert, 2007, “The Concept of Odious Debt in Public International Law”, (UNCTAD Discussion Papers, 185), United Nations Conference on Trade and Development, July. [[Howse 2007 available online](https://ideas.repec.org/p/unc/dispap/185.html)]
-* Hudon, Marek, 2009, “Should Access to Credit Be a Right?” *Journal of Business Ethics*, 84(1): 17–28. doi:10.1007/s10551-008-9670-y
-* Hudon, Marek and Arvind Ashta, 2013, “Fairness and Microcredit Interest Rates: from Rawlsian Principles of Justice to the Distribution of the Bargaining Range”, *Business Ethics: A European Review*, 22(3): 277–291. doi:10.1111/beer.12026
-* Hudon, Marek and Joakim Sandberg, 2013, “The Ethical Crisis in Microfinance: Issues, Findings, and Implications”, *Business Ethics Quarterly*, 23(4): 561–589. doi:10.5840/beq201323440
-* Hudson, Richard, 2005, “Ethical Investing: Ethical Investors and Managers”, *Business Ethics Quarterly*, 15(4): 641–657. doi:10.5840/beq200515445
+* Hudon, Marek, 2009, “Should Access to Credit Be a Right?” *Journal of Business Ethics*, 84(1): 17–28. doi: 10.1007/s10551-008-9670-y
+* Hudon, Marek and Arvind Ashta, 2013, “Fairness and Microcredit Interest Rates: from Rawlsian Principles of Justice to the Distribution of the Bargaining Range”, *Business Ethics: A European Review*, 22(3): 277–291. doi: 10.1111/beer.12026
+* Hudon, Marek and Joakim Sandberg, 2013, “The Ethical Crisis in Microfinance: Issues, Findings, and Implications”, *Business Ethics Quarterly*, 23(4): 561–589. doi: 10.5840/beq201323440
+* Hudson, Richard, 2005, “Ethical Investing: Ethical Investors and Managers”, *Business Ethics Quarterly*, 15(4): 641–657. doi: 10.5840/beq200515445
 * Ingham, Geoffrey, 2004, *The Nature of Money*, Cambridge: Polity Press.
-* Ingham, Geoffrey, Ken Coutts, and Sue Konzelmann, 2016, “Introduction: ‘Cranks’ and ‘Brave Heretics’: Rethinking Money and Banking after the Great Financial Crisis”, *Cambridge Journal of Economics*, 40(5): 1247–1257. doi:10.1093/cje/bew040
+* Ingham, Geoffrey, Ken Coutts, and Sue Konzelmann, 2016, “Introduction: ‘Cranks’ and ‘Brave Heretics’: Rethinking Money and Banking after the Great Financial Crisis”, *Cambridge Journal of Economics*, 40(5): 1247–1257. doi: 10.1093/cje/bew040
 * Innes, A. Mitchell, 1913, “What is Money?”, *Banking Law Journal*, 30(5/May): 377–408.
 * –––, 1914, “The Credit Theory of Money”, *Banking Law Journal*, 31(2/February): 151–168.
-* Ippoliti, Emiliano and Ping Chen (eds.), 2017, *Methods and Finance: A Unifying View on Finance, Mathematics, and Philosophy*, (Studies in Applied Philosophy, Epistemology and Rational Ethics, 34), Cham: Springer. doi:10.1007/978-3-319-49872-0
+* Ippoliti, Emiliano and Ping Chen (eds.), 2017, *Methods and Finance: A Unifying View on Finance, Mathematics, and Philosophy*, (Studies in Applied Philosophy, Epistemology and Rational Ethics, 34), Cham: Springer. doi: 10.1007/978-3-319-49872-0
 * Irvine, William B., 1987a, “Insider Trading: An Ethical Appraisal”, *Business and Professional Ethics Journal*, 6(4): 3–33.
-* –––, 1987b, “The Ethics of Investing”, *Journal of Business Ethics*, 6(1): 233–242. doi:10.1007/BF00382870
+* –––, 1987b, “The Ethics of Investing”, *Journal of Business Ethics*, 6(1): 233–242. doi: 10.1007/BF00382870
 * Jackson, Andrew and Ben Dyson, 2012, *Modernising Money: Why Our Monetary System Is Broken and How It Can Be Fixed*, London: Positive Money.
 * Jacobs, Lawrence R. and Desmond S. King, 2016, *Fed Power: How Finance Wins*, New York: Oxford University Press.
-* Jaggar, Alison M., 2002, “A Feminist Critique of the Alleged Southern Debt”, *Hypatia*, 17(4): 119–142. doi:10.1353/hyp.2002.0078
-* James, Aaron, 2012, *Fairness in Practice: A Social Contract for a Global Economy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199846153.001.0001
-* –––, 2017, “The Distinctive Significance of Systemic Risk”, *Ratio Juris*, 30(3): 239–258. doi:10.1111/raju.12150
+* Jaggar, Alison M., 2002, “A Feminist Critique of the Alleged Southern Debt”, *Hypatia*, 17(4): 119–142. doi: 10.1353/hyp.2002.0078
+* James, Aaron, 2012, *Fairness in Practice: A Social Contract for a Global Economy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199846153.001.0001
+* –––, 2017, “The Distinctive Significance of Systemic Risk”, *Ratio Juris*, 30(3): 239–258. doi: 10.1111/raju.12150
 * James, Aaron and Robert Hockett, 2020, *Money From Nothing: Or, Why We Should Stop Worrying about Debt and Learn to Love the Federal Reserve*, Melville House Publishing.
 * Kant, Immanuel, 1785, *Grundlegung zur Metaphysik der Sitten*, Riga: J. F. Hartknoch.
 * Kay, J.A., 2015, *Other People’s Money: Masters of the Universe or Servants of the People?* London: Profile Books
 * Keynes, John Maynard, 1936, *The General Theory of Employment, Interest and Money*, London: Palgrave
 * Kindleberger, Charles P., 1978, *Manias, Panics, and Crashes: A History of Financial Crises*, London: Macmillan.
 * Klein, Steven, 2020, “The power of money: Critical theory, capitalism, and the politics of debt”, *Constellations* 27(1): 19–35.
-* King, Jeff, 2016, *The Doctrine of Odious Debt in International Law. A Restatement*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316422809
+* King, Jeff, 2016, *The Doctrine of Odious Debt in International Law. A Restatement*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316422809
 * Knapp, Georg Friedrich, 1924, *The State Theory of Money*, H. M. Lucas and James Bonar (trans.), London: Macmillan. Abridgment and translation of *Staatliche Theorie des Geldes*, Leipzig: Duncker & Humblot, 1905.
 * Knight, Frank H., 1921, *Risk, Uncertainty and Profit*, Boston: Houghton Mifflin Company.
-* Kolers, Avery, 2001, “Ethical Investing: the Permissibility of Participation”, *Journal of Political Philosophy*, 9(4): 435–452. doi:10.1111/1467-9760.00135
+* Kolers, Avery, 2001, “Ethical Investing: the Permissibility of Participation”, *Journal of Political Philosophy*, 9(4): 435–452. doi: 10.1111/1467-9760.00135
 * Koslowski, Peter, 2009, *Ethik der Banken: Folgerungen aus der Finanzkrise*, Munich: Wilhelm Fink Verlag.
 * Krishnamurthy, Meena, 2014, “International Financial Institutions”, in Darell Moellendorf and Heather Widdows (eds.), *Handbook of Global Ethics*, Abingdon: Routledge, 230–250.
-* Kuhlmann, Meinard, 2014, “Explaining Financial Markets in Terms of Complex Systems”, *Philosophy of Science*, 81(5): 1117–1130. doi:10.1086/677699
+* Kuhlmann, Meinard, 2014, “Explaining Financial Markets in Terms of Complex Systems”, *Philosophy of Science*, 81(5): 1117–1130. doi: 10.1086/677699
 * Lacke, Jay C., 1996, “The Ethics of Financial Derivatives in the History of Economic Thought”, in W. Michael Hoffman, Judith Brown Kamm, Robert E. Frederick, and Edward S. Petry (eds.), *The Ethics of Accounting and Finance: Trust, Responsibility, and Control*, Westport: Quorum Books, pp. 165–179.
 * Lanchester, John, 2010, *I.O.U.: Why Everyone Owes Everyone and No One Can Pay*, New York: Simon & Schuster
 * Lainà, Patrizio, 2015, “Proposals for Full-Reserve Banking: a Historical Survey from David Ricardo to Martin Wolf”, *Economic Thought*, 4(2): 1–19. [[Lainà 2015 available online](http://et.worldeconomicsassociation.org/papers/proposals-for-full-reserve-banking-a-historical-survey-from-david-ricardo-to-martin-wolf/)]
-* Langtry, B., 2002, “The Ethics of Shareholding”, *Journal of Business Ethics*, 37(2): 175–85. doi:10.1023/A:1015074116149
-* Larmer, Robert, 1997, “The Ethics of Investing: a Reply to William Irvine”, *Journal of Business Ethics*, 16(4): 397–400. doi:10.1023/A:1017944922741
+* Langtry, B., 2002, “The Ethics of Shareholding”, *Journal of Business Ethics*, 37(2): 175–85. doi: 10.1023/A: 1015074116149
+* Larmer, Robert, 1997, “The Ethics of Investing: a Reply to William Irvine”, *Journal of Business Ethics*, 16(4): 397–400. doi: 10.1023/A: 1017944922741
 * Larue, Louis, 2022, “The Case Against Alternative Currencies,” *Politics, Philosophy and Economics*, 21(1): 75–93.
 * Larue, Louis, Clément Fontan & Joakim Sandberg, 2020, “The Promises and Perils of Central Bank Digital Currencies,” *Revue de la Régulation*, 28(2): 1–21.
 * Larue, Louis, Camille Meyer, Marek Hudon & Joakim Sandberg, 2022, “The Ethics of Alternative Currencies,” *Business Ethics Quarterly*, 32(2): 299–321.
 * Lawson, Gary, 1988, “The Ethics of Insider Trading”, *Harvard Journal of Law & Public Policy*, 11(3): 727–783.
 * Lawson, Tony, 2016, “Social Positioning and the Nature of Money,” *Cambridge Journal of Economics*, 40(4): 961–996.
 * Lazzarato, Maurizio, 2012, *The Making of the Indebted Man. An Essay on the Neoliberal Condition*, Cambridge, MA: The MIT Press.
-* Linarelli, John, 2017, “Luck, Justice and Systemic Financial Risk”, *Journal of Applied Philosophy*, 34(3): 331–352. doi:10.1111/japp.12148
+* Linarelli, John, 2017, “Luck, Justice and Systemic Financial Risk”, *Journal of Applied Philosophy*, 34(3): 331–352. doi: 10.1111/japp.12148
 * Lindblom, Charles E., 1977, *Politics and Markets: The World’s Political Economic Systems*, New York: Basic Books.
-* –––, 1982, “The Market as Prison”, *The Journal of Politics*, 44(2): 323–336. doi:10.2307/2130588
-* Long, John D., 1972, “The Protestant Ethic Reexamined”, *Business Horizons*, 15(1): 75–82. doi:10.1016/0007-6813(72)90024-9
-* Lydenberg, Steve, 2014, “Reason, Rationality and Fiduciary Duty”, in Hawley et al. 2014: 287–299. doi:10.1017/CBO9781139565516.027
+* –––, 1982, “The Market as Prison”, *The Journal of Politics*, 44(2): 323–336. doi: 10.2307/2130588
+* Long, John D., 1972, “The Protestant Ethic Reexamined”, *Business Horizons*, 15(1): 75–82. doi: 10.1016/0007-6813(72)90024-9
+* Lydenberg, Steve, 2014, “Reason, Rationality and Fiduciary Duty”, in Hawley et al. 2014: 287–299. doi: 10.1017/CBO9781139565516.027
 * Machan, Tibor R., 1996, “What is Morally Right with Insider Trading”, *Public Affairs Quarterly*, 10(2): 135–142.
 * Mackenzie, Craig, 1997, *Ethical Investment and the Challenge of Corporate Reform*, PhD Thesis, University of Bath, England. [[Mackenzie 1997 available online](http://staff.bath.ac.uk/hssal/crm/)]
 * Macleod, Harry Dunning, 1889, *The Theory of Credit*, London: Longmans, Green, and Co.
-* Maitland, Ian, 2002, “The Human Face of Self-Interest”, *Journal of Business Ethics*, 38(1–2): 3–17. doi:10.1023/A:1015716928549
-* Mäki, U., 1997, “Universals and the Methodenstreit: a Re-Examination of Carl Menger’s Conception of Economics as An Exact Science”, *Studies in History and Philosophy of Science Part A*, 28(3), 475–495. doi:10.1016/S0039-3681(96)00011-8
-* Mandelbrot, Benoit, 1963, “The Variation of Certain Speculative Prices”, *The Journal of Business*, 36(4): 394–419. doi:10.1086/294632
+* Maitland, Ian, 2002, “The Human Face of Self-Interest”, *Journal of Business Ethics*, 38(1–2): 3–17. doi: 10.1023/A: 1015716928549
+* Mäki, U., 1997, “Universals and the Methodenstreit: a Re-Examination of Carl Menger’s Conception of Economics as An Exact Science”, *Studies in History and Philosophy of Science Part A*, 28(3), 475–495. doi: 10.1016/S0039-3681(96)00011-8
+* Mandelbrot, Benoit, 1963, “The Variation of Certain Speculative Prices”, *The Journal of Business*, 36(4): 394–419. doi: 10.1086/294632
 * Mandeville, Bernard, 1732, *The Fable of the Bees or Private Vices, Publick Benefits*, Oxford: Clarendon Press.
 * Mankiw, N. Gregory, 2009, *Macroeconomics*, seventh edition, New York: Worth Publishers.
 * Manne, Henry G., 1966, *Insider Trading and the Stock Market*, New York: Free Press.
 * Martin, Felix, 2013, *Money: the Unauthorised Biography*, London: The Bodley Head.
 * Marx, Karl, 1867, *Das Kapital: Kritik der politischen Oekonomie*, Hamburg: Verlag von Otto Meissner.
-* McCall, John J., 2010, “Executive Compensation”, in Boatright 2010: 547–564. doi:10.1002/9781118266298.ch29
+* McCall, John J., 2010, “Executive Compensation”, in Boatright 2010: 547–564. doi: 10.1002/9781118266298.ch29
 * McCarty, Richard, 1988, “Business and Benevolence”, *Business & Professional Ethics Journal*, 7(2): 63–83.
 * McLean, Bethany and Peter Elkind, 2003, *The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron*, New York: Portfolio.
 * McLeay, Michael, Amar Radia, and Ryland Thomas, 2014, “Money Creation in the Modern Economy”, *Bank of England Quarterly Bulletin*, Q1: 14–27. [[McLeay, Radia, & Thomas 2014 available online](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)]
 * Mehrling, Perry, 2011, *The New Lombard Street: How the Fed Became the Dealer of Last Resort*, Princeton, NJ: Princeton University Press.
 * Mellor, Mary, 2019, “Democratizing Finance or Democratizing Money?”, *Politics and Society*, 47(4): 635–650.
-* Menger, Carl, 1892, “On the Origins of Money”, *The Economic Journal*, 2(6): 239–255. doi:10.2307/2956146
-* Meyer, Marco, 2018, “The Right to Credit”, *Journal of Political Philosophy*, 26(3): 304–326. doi:10.1111/jopp.12138
+* Menger, Carl, 1892, “On the Origins of Money”, *The Economic Journal*, 2(6): 239–255. doi: 10.2307/2956146
+* Meyer, Marco, 2018, “The Right to Credit”, *Journal of Political Philosophy*, 26(3): 304–326. doi: 10.1111/jopp.12138
 * Mian, Atif and Amir Sufi, 2014, *House of Debt*, Chicago: University of Chicago Press.
-* Miller, Richard W., 2010, *Globalizing Justice. The Ethics of Poverty and Power*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199581986.001.0001
+* Miller, Richard W., 2010, *Globalizing Justice. The Ethics of Poverty and Power*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199581986.001.0001
 * Minsky, Hyman P., 1986, *Stabilizing an Unstable Economy*, New Haven: Yale University Press.
 * Mishkin, Frederic S., 2016, *The Economics of Money, Banking, and Financial Markets*, eleventh edition, New York: Pearson Education.
 * Modigliani, Franco and Merton H. Miller, 1958, “The Cost of Capital, Corporation Finance and the Theory of Investment”, *The American Economic Review*, 48(3): 261–297.
-* Moggia, Jakob, 2021, “Moral Responsibility for Systemic Financial Risk”, *Journal of Business Ethics*, 169(3): 461–473. doi:10.1007/s10551-019-04288-4
-* Moore, Jennifer, 1990, “What is Really Unethical about Insider Trading?” *Journal of Business Ethics*, 9(3): 171–182. doi:10.1007/BF00382642
-* Mussell, Helen, 2021, “The Silenced and Unsought Beneficiary: Investigating Epistemic Injustice in the Fiduciary”, *Business Ethics Quarterly*, 31(4): 549–571. doi:10.1017/beq.2021.4
-* O’Neill, Martin, 2017, “Philosophy and Public Policy after Piketty”, *Journal of Political Philosophy*, 25(3): 343–375. doi:10.1111/jopp.12129
-* –––, 2020, “Power, Predistribution, and Social Justice”, *Philosophy*, 95(1): 63–91. doi:10.1017/S0031819119000482
-* –––, 2021, “Justice, Power, and Participatory Socialism: on Piketty’s *Capital and Ideology*”, *Analyse & Kritik*, 43(1): 89–124. doi:10.1515/auk-2021-0006
+* Moggia, Jakob, 2021, “Moral Responsibility for Systemic Financial Risk”, *Journal of Business Ethics*, 169(3): 461–473. doi: 10.1007/s10551-019-04288-4
+* Moore, Jennifer, 1990, “What is Really Unethical about Insider Trading?” *Journal of Business Ethics*, 9(3): 171–182. doi: 10.1007/BF00382642
+* Mussell, Helen, 2021, “The Silenced and Unsought Beneficiary: Investigating Epistemic Injustice in the Fiduciary”, *Business Ethics Quarterly*, 31(4): 549–571. doi: 10.1017/beq.2021.4
+* O’Neill, Martin, 2017, “Philosophy and Public Policy after Piketty”, *Journal of Political Philosophy*, 25(3): 343–375. doi: 10.1111/jopp.12129
+* –––, 2020, “Power, Predistribution, and Social Justice”, *Philosophy*, 95(1): 63–91. doi: 10.1017/S0031819119000482
+* –––, 2021, “Justice, Power, and Participatory Socialism: on Piketty’s *Capital and Ideology*”, *Analyse & Kritik*, 43(1): 89–124. doi: 10.1515/auk-2021-0006
 * O’Neill, Martin and Thad Williamson, 2012, “The Promise of Predistribution”, *Policy Network Observatory*. [[O’Neill and Williamson 2012 available online](http://www.academia.edu/3620045/_The_Promise_of_Predistribution_Policy_Network_2012_)]
 * Palley, Thomas I., 1996, *Post Keynesian Economics: Debt, Distribution and the Macro Economy*, London: Macmillan.
-* –––, 2003, “Sovereign Debt Restructuring Proposals: A Comparative Look”, *Ethics & International Affairs*, 17(2): 26–33. doi:10.1111/j.1747-7093.2003.tb00435.x
+* –––, 2003, “Sovereign Debt Restructuring Proposals: A Comparative Look”, *Ethics & International Affairs*, 17(2): 26–33. doi: 10.1111/j.1747-7093.2003.tb00435.x
 * –––, 2013, *Financialization: the Economics of Finance Capital Domination*, New York: Palgrave Macmillan.
 * Parkin, Michael, 2011, *Economics*, tenth edition, Boston: Pearson Addison-Wesley.
 * Passinsky, Asya, 2020, “Social Objects, Response-dependence, and Realism,” *Journal of the American Philosophical Association*, 6(4): 431–443
-* Persad, Govind, 2018, “Distributive Justice and the Relief of Household Debt”, *Journal of Political Philosophy*, 26(3): 327–343. doi:10.1111/jopp.12153
+* Persad, Govind, 2018, “Distributive Justice and the Relief of Household Debt”, *Journal of Political Philosophy*, 26(3): 327–343. doi: 10.1111/jopp.12153
 * Pettifor, Ann, 2014, *Just Money: How Society Can Break the Despotic Power of Finance*, Margate: Commonwealth Publishing.
 * Piketty, Thomas, 2014, *Capital in the Twenty-First Century*, Cambridge, MA: Harvard University Press.
 * –––, 2020, *Capital and Ideology*, Cambridge, MA: Harvard University Press.
 * Pilbeam, Keith, 2010, *Finance & Financial Markets*, third edition, Basingstoke: Palgrave Macmillan.
-* Pistor, Katharina, 2013, “A Legal Theory of Finance”, *Journal of Comparative Economics*, 41(2): 315–330. doi:10.1016/j.jce.2013.03.003
-* –––, 2017, “Money’s Legal Hierarchy”, in Herzog 2017b: 185–204. doi:10.1093/oso/9780198755661.003.0008
+* Pistor, Katharina, 2013, “A Legal Theory of Finance”, *Journal of Comparative Economics*, 41(2): 315–330. doi: 10.1016/j.jce.2013.03.003
+* –––, 2017, “Money’s Legal Hierarchy”, in Herzog 2017b: 185–204. doi: 10.1093/oso/9780198755661.003.0008
 * Pogge, Thomas, 2008, *World Poverty and Human Rights. Cosmopolitan Responsibilities and Reforms*, second edition, Cambridge: Polity.
-* Preiss, Joshua, 2021, “Did We Trade Freedom for Credit? Finance, Domination, and the Political Economy of Freedom”, *European Journal of Political Theory*, 20(3): 486–509. doi:10.1177/1474885118806693
-* Priyadarshee, Anurag and Asad K. Ghalib, 2012, “Over-Indebtedness, Coercion, and Default: Causes of the Andhra Pradesh Microfinance Crisis and Regulatory Implications”, *Enterprise Development and Microfinance*, 23(3): 185–200. doi:10.3362/1755-1986.2012.020
-* Przeworski, Adam and Michael Wallerstein, 1988, “Structural Dependence of the State on Capital”, *American Political Science Review*, 82(2): 11–29. doi:10.2307/1958056
-* Ragatz, Julie A. and Ronald F. Duska, 2010, “Financial Codes of Ethics”, in Boatright 2010: 297–323. doi:10.1002/9781118266298.ch16
+* Preiss, Joshua, 2021, “Did We Trade Freedom for Credit? Finance, Domination, and the Political Economy of Freedom”, *European Journal of Political Theory*, 20(3): 486–509. doi: 10.1177/1474885118806693
+* Priyadarshee, Anurag and Asad K. Ghalib, 2012, “Over-Indebtedness, Coercion, and Default: Causes of the Andhra Pradesh Microfinance Crisis and Regulatory Implications”, *Enterprise Development and Microfinance*, 23(3): 185–200. doi: 10.3362/1755-1986.2012.020
+* Przeworski, Adam and Michael Wallerstein, 1988, “Structural Dependence of the State on Capital”, *American Political Science Review*, 82(2): 11–29. doi: 10.2307/1958056
+* Ragatz, Julie A. and Ronald F. Duska, 2010, “Financial Codes of Ethics”, in Boatright 2010: 297–323. doi: 10.1002/9781118266298.ch16
 * Reddy, Sanjay G., 2005, “Developing Just Monetary Arrangements”, in Christian Barry and Thomas W. Pogge (eds.), *Global Institutions and Responsibilities: Achieving Global Justice*, Wiley, 218–234.
 * Reinhart, Carmen M. and Kenneth S. Rogoff, 2009, *This Time is Different: Eight Centuries of Financial Folly*, Princeton, NJ: Princeton University Press.
-* Reiff, Mark R., 2017, “Punishment in the Executive Suite. Moral Responsibility, Causal Responsibility, and Financial Crime”, in Herzog 2017b: 125–153. doi:10.1093/oso/9780198755661.003.0006
-* Richardson, Benjamin J., and Wes Cragg, 2010, “Being Virtuous and Prosperous: SRI’s Conflicting Goals”, *Journal of Business Ethics*, 92(supp. 1): 21–39. doi:10.1007/s10551-010-0632-9
-* Rickles, Dean, 2007, “Econophysics for Philosophers”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 38(4): 948–978. doi:10.1016/j.shpsb.2007.01.003
+* Reiff, Mark R., 2017, “Punishment in the Executive Suite. Moral Responsibility, Causal Responsibility, and Financial Crime”, in Herzog 2017b: 125–153. doi: 10.1093/oso/9780198755661.003.0006
+* Richardson, Benjamin J., and Wes Cragg, 2010, “Being Virtuous and Prosperous: SRI’s Conflicting Goals”, *Journal of Business Ethics*, 92(supp. 1): 21–39. doi: 10.1007/s10551-010-0632-9
+* Rickles, Dean, 2007, “Econophysics for Philosophers”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 38(4): 948–978. doi: 10.1016/j.shpsb.2007.01.003
 * Riles, Annelise, 2018, *Financial Citizenship: Experts, Publics, and the Politics of Central Banking*, Ithaca and London: Cornell University Press. [[Riles 2018 available online](https://einaudi.manifoldapp.org/projects/financial-citizenship).
 * Robison, John Mark, 2022, “The Neoliberal Utopianism of Bitcoin and Modern Monetary Theory,” *Utopian Studies*, 33(1): 127–143.
 * Roodman, David, 2012, *Due Diligence: An Impertinent Inquiry into Microfinance*, Washington, DC: Center for Global Development.
 * Rosenberg, R., A. Gonzalez, and S. Narain, 2009, “The New Moneylenders: Are the Poor Being Exploited by High Microcredit Interest Rates?”, *CGAP Occasional Paper*, 15, Washington DC: CGAP.
 * Rothbard, Murray N., 1983, *The Mystery of Banking*, New York: Richardson & Snyder.
-* Russell, Roseanne and Charlotte Villiers, 2017, “Gender Justice in Financial Markets”, in Herzog 2017b: 271–292. doi:10.1093/oso/9780198755661.003.0012
+* Russell, Roseanne and Charlotte Villiers, 2017, “Gender Justice in Financial Markets”, in Herzog 2017b: 271–292. doi: 10.1093/oso/9780198755661.003.0012
 * Ryan, John A., 1902, “The Ethics of Speculation”, *International Journal of Ethics*, 12(3): 335–347.
 * Ryan-Collins, Josh, Tony Greenham, Richard Werner, and Andrew Jackson, 2012, *Where Does Money Come From? A Guide to the UK Monetary and Banking System*, London: New Economics Foundation.
 * Sack, A.N., 1927, *Les Effets des Transformations des Etats sur leurs Dettes Publiques et Autres Obligations Financières: Traité Juridique et Financier*, Paris: Recueil Sirey.
 * Sandberg, Joakim, 2008, *The Ethics of Investing. Making Money or Making a Difference?* Gothenburg: Acta Universitatis Gothoburgensis.
-* –––, 2011, “Changing the World through Shareholder Activism?”, *Nordic Journal of Applied Ethics*, 5(1): 51–78. doi:10.5324/eip.v5i1.1733
-* –––, 2012, “Mega-Interest on Microcredit: Are Lenders Exploiting the Poor?”, *Journal of Applied Philosophy*, 29(3): 169–185. doi:10.1111/j.1468-5930.2012.00560.x
-* –––, 2013, “(Re-)Interpreting Fiduciary Duty to Justify Socially Responsible Investment for Pension Funds?”, *Corporate Governance: An International Review*, 21(5): 436–446. doi:10.1111/corg.12028
-* –––, 2016, “Pension Funds, Future Generations, and Fiduciary Duty”, in *Institutions For Future Generations*, Iñigo González-Ricoy and Axel Gosseries (eds.), Oxford: Oxford University Press, 385–399. doi:10.1093/acprof:oso/9780198746959.003.0023
+* –––, 2011, “Changing the World through Shareholder Activism?”, *Nordic Journal of Applied Ethics*, 5(1): 51–78. doi: 10.5324/eip.v5i1.1733
+* –––, 2012, “Mega-Interest on Microcredit: Are Lenders Exploiting the Poor?”, *Journal of Applied Philosophy*, 29(3): 169–185. doi: 10.1111/j.1468-5930.2012.00560.x
+* –––, 2013, “(Re-)Interpreting Fiduciary Duty to Justify Socially Responsible Investment for Pension Funds?”, *Corporate Governance: An International Review*, 21(5): 436–446. doi: 10.1111/corg.12028
+* –––, 2016, “Pension Funds, Future Generations, and Fiduciary Duty”, in *Institutions For Future Generations*, Iñigo González-Ricoy and Axel Gosseries (eds.), Oxford: Oxford University Press, 385–399. doi: 10.1093/acprof: oso/9780198746959.003.0023
 * Schlichter, Detlev S., 2014, *Paper Money Collapse: The Folly of Elastic Money*, second edition, Hoboken: Wiley.
 * Schumpeter, Joseph A., 1954, *History of Economic Analysis*, London: Allen & Unwin.
 * Searle, John, 1995, *The Construction of Social Reality*, New York: The Free Press.
-* –––, 2010, *Making the Social World: The Structure of Human Civilization*, Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780195396171.001.0001
+* –––, 2010, *Making the Social World: The Structure of Human Civilization*, Oxford: Oxford University Press. doi: 10.1093/acprof: osobl/9780195396171.001.0001
 * Selgin, George A., 1988, *The Theory of Free Banking: Money Supply under Competitive Note Issue*, Lanham, MD.: Rowman & Littlefield. [[Selgin 1988 available online](http://oll.libertyfund.org/titles/selgin-the-theory-of-free-banking-money-supply-under-competitive-note-issue)]
 * Shiller, Robert J., 2012, *Finance and the Good Society*, Princeton: Princeton University Press.
 * Simmel, Georg, 1900, *Philosophie des Geldes*, Leipzig: Duncker und Humblot.
-* Simons, Henry C., 1936, “Rules versus Authorities in Monetary Policy”, *Journal of Political Economy*, 44(1): 1–30. doi:10.1086/254882
+* Simons, Henry C., 1936, “Rules versus Authorities in Monetary Policy”, *Journal of Political Economy*, 44(1): 1–30. doi: 10.1086/254882
 * Sinn, Hans-Werner, 2010, *Casino Capitalism: How the Financial Crisis Came About and What Needs to be Done Now*, Oxford: Oxford University Press.
 * Smaga, Pawel, 2014, “The Concept of Systemic Risk”, SRC Special Paper No 5, Systemic Risk Center, London School of Economics and Political Science..
-* Smit, J.P., Filip Buekens, and Stan du Plessis, 2011, “What Is Money? an Alternative To Searle’s Institutional Facts”, *Economics and Philosophy*, 27(1): 1–22. doi:10.1017/S0266267110000441
+* Smit, J.P., Filip Buekens, and Stan du Plessis, 2011, “What Is Money? an Alternative To Searle’s Institutional Facts”, *Economics and Philosophy*, 27(1): 1–22. doi: 10.1017/S0266267110000441
 * –––, 2016, “Cigarettes, Dollars and Bitcoins – an Essay on the Ontology of Money”, *Journal of Institutional Economics*, 12(2): 327–347.
 * Smith, Adam, 1776, *An Inquiry into the Nature and Causes of the Wealth of Nations*, London: W. Strahan and T. Cadell.
-* Sorell, Tom, 2015, “Is There a Human Right to Microfinance?”, in *Microfinance, Rights and Global Justice*, Tom Sorell and Luis Cabrera (eds.), Cambridge: Cambridge University Press, 27–46. doi:10.1017/CBO9781316275634.003
+* Sorell, Tom, 2015, “Is There a Human Right to Microfinance?”, in *Microfinance, Rights and Global Justice*, Tom Sorell and Luis Cabrera (eds.), Cambridge: Cambridge University Press, 27–46. doi: 10.1017/CBO9781316275634.003
 * Sorell, Tom and John Hendry, 1994, *Business Ethics*, Oxford: Butterworth-Heinemann.
 * Soros, George, 1987, *The Alchemy of Finance*, Hoboken, NJ: John Wiley & Sons.
 * –––, 2008, *The Crash of 2008 and What it Means*, New York: Public Affairs.
@@ -505,40 +505,40 @@
 * Streeck, Wolfgang, 2013 [2014], *Gekaufte Zeit*, Berlin: Suhrkamp Verlag. Translated as *Buying Time. The Delayed Crisis of Democratic Capitalism*, Patrick Camiller (trans.), London: Verso, 2014.
 * Strudler, Alan, 2009, “Insider Trading: A Moral Problem”, *Philosophy & Public Policy Quarterly*, 29(3/4): 12–16. [[Strudler 2009 available online](https://journals.gmu.edu/PPPQ/article/view/105)]
 * Suttle, Oisin, 2016, “Debt, Default, and Two Liberal Theories of Justice”, *German Law Journal*, 17(5): 799–834.
-* Thamotheram, Raj and Aidan Ward, 2014, “Whose Risk Counts?”, in Hawley et al. 2014: 207–221. doi:10.1017/CBO9781139565516.020
+* Thamotheram, Raj and Aidan Ward, 2014, “Whose Risk Counts?”, in Hawley et al. 2014: 207–221. doi: 10.1017/CBO9781139565516.020
 * Thomas, Abdulkader (ed.), 2006, *Interest in Islamic Economics: Understanding Riba*, New York: Routledge.
-* Thorgeirsdottir, Sigridur, 2015, “Dependency and Emancipation in the Debt-Economy: Care-Ethical Critique of Contractarian Conceptions of the Debtor-Creditor Relation”, *Hypatia*, 30(3): 564–579. doi:10.1111/hypa.12157
+* Thorgeirsdottir, Sigridur, 2015, “Dependency and Emancipation in the Debt-Economy: Care-Ethical Critique of Contractarian Conceptions of the Debtor-Creditor Relation”, *Hypatia*, 30(3): 564–579. doi: 10.1111/hypa.12157
 * Tobin, James, 1963, “Commercial Banks as Creators of ‘Money’”, *Cowles Foundation Discussion Paper*, no. 159, New Haven, CT: Yale University. [[Tobin 1963 available online](http://cowles.yale.edu/sites/default/files/files/pub/d01/d0159.pdf) (PDF)]
 * –––, 1978, “A Proposal for International Monetary Reform”, *Eastern Economic Journal*, 4(3–4): 153–159.
 * Tucker, Paul, 2018, *Unelected Power: The Quest for Legitimacy in Central Banking and the Regulatory State*, Princeton, NJ: Princeton University Press.
 * United Nations, 2009, “Report of the Commission of Experts of the President of the United Nations General Assembly on Reforms of the International Monetary and Financial System”, New York: United Nations. [[United Nations 2009 available online](http://www.un.org/ga/econcrisissummit/docs/FinalReport_CoE.pdf)]
-* Valentini, Laura, 2011, *Justice in a Globalized World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199593859.001.0001
-* van ’t Klooster, Johannes Maria, 2017, *How to Make Money: Distributive Justice, Finance, and Monetary Constitutions*, PhD thesis, Department of Philosophy, University of Cambridge. doi:10.17863/CAM.22062
-* –––, 2019, “Central Banking in Rawls’ Property-Owning Democracy”, *Political Theory*, 47(5): 674–698. doi:10.1177/0090591718810377
-* –––, 2020, “The Ethics of Delegating Monetary Policy”, *Journal of Politics*, 82(2): 587–99. doi:10.1086/706765
-* Visser, Wayne A.M. and Alastair MacIntosh, 1998, “A Short Review of the Historical Critique of Usury”, *Accounting, Business and Financial History*, 8(2): 175–189. doi:10.1080/095852098330503
+* Valentini, Laura, 2011, *Justice in a Globalized World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199593859.001.0001
+* van ’t Klooster, Johannes Maria, 2017, *How to Make Money: Distributive Justice, Finance, and Monetary Constitutions*, PhD thesis, Department of Philosophy, University of Cambridge. doi: 10.17863/CAM.22062
+* –––, 2019, “Central Banking in Rawls’ Property-Owning Democracy”, *Political Theory*, 47(5): 674–698. doi: 10.1177/0090591718810377
+* –––, 2020, “The Ethics of Delegating Monetary Policy”, *Journal of Politics*, 82(2): 587–99. doi: 10.1086/706765
+* Visser, Wayne A.M. and Alastair MacIntosh, 1998, “A Short Review of the Historical Critique of Usury”, *Accounting, Business and Financial History*, 8(2): 175–189. doi: 10.1080/095852098330503
 * von Hayek, Friedrich A., 1978, *Denationalization of Money: The Argument Refined*, London: Institute of Economic Affairs. [[von Hayek 1978 available online](https://mises.org/library/denationalisation-money-argument-refined)]
 * Vooys, Sarah and David G. Dick, 2021, “Money and Mental Contents,” *Synthese*, 198(4): 3443–3458.
 * Walsh, Adrian and Tony Lynch, 2008, *The Morality of Money*, Basingstoke: Palgrave Macmillan.
-* Walsh, D.M., 2015, “Variance, Invariance and Statistical Explanation”, *Erkenntnis*, 80(3), 469–489. doi:10.1007/s10670-014-9680-3
+* Walsh, D.M., 2015, “Variance, Invariance and Statistical Explanation”, *Erkenntnis*, 80(3), 469–489. doi: 10.1007/s10670-014-9680-3
 * Warde, Ibrahim, 2010, *Islamic Finance in the Global Economy*, Edinburgh: Edinburgh University Press.
 * Warenski, Lisa, 2018, “Disentangling the Epistemic Failings of the 2008 Financial Crisis”, in: David Coady and James Chase (eds.), *The Routledge Handbook of Applied Epistemology*, New York: Routledge.
-* Weatherall, James, 2017, “The Peculiar Logic of the Black-Scholes Model”, *SSRN Electronic Journal*, 1–16. doi:10.2139/ssrn.2976242
+* Weatherall, James, 2017, “The Peculiar Logic of the Black-Scholes Model”, *SSRN Electronic Journal*, 1–16. doi: 10.2139/ssrn.2976242
 * Weatherford, Jack, 1997, *The History of Money*, New York: Three Rivers Press.
 * Weber, Heloise, 2004 “The ‘New Economy’ and Social Risk: Banking on the Poor?” *Review of International Political Economy*, 11(2): 356–86.
 * Weber, Max, 1905, “Die protestantische Ethik und der Geist des Kapitalismus”, *Archiv für Sozialwissenschaften und Sozialpolitik*, 21(1): 1–110.
-* Werhane, Patricia H., 1989, “The Ethics of Insider Trading”, *Journal of Business Ethics*, 8(11): 841–845. doi:10.1007/BF00384525
-* –––, 1991, “The Indefensibility of Insider Trading”, *Journal of Business Ethics*, 10(9): 729–731. doi:10.1007/BF00705879
-* Werner, Richard A., 2014a, “How Do Banks Create Money, and Why Can Other Firms Not Do the Same? An Explanation for the Coexistence of Lending and Deposit-Taking”, *International Review of Financial Analysis*, 36: 71–77. doi:10.1016/j.irfa.2014.10.013
-* –––, 2014b, “Can Banks Individually Create Money out of Nothing?—The Theories and the Empirical Evidence”, *International Review of Financial Analysis*, 36: 1–19. doi:10.1016/j.irfa.2014.07.015
+* Werhane, Patricia H., 1989, “The Ethics of Insider Trading”, *Journal of Business Ethics*, 8(11): 841–845. doi: 10.1007/BF00384525
+* –––, 1991, “The Indefensibility of Insider Trading”, *Journal of Business Ethics*, 10(9): 729–731. doi: 10.1007/BF00705879
+* Werner, Richard A., 2014a, “How Do Banks Create Money, and Why Can Other Firms Not Do the Same? An Explanation for the Coexistence of Lending and Deposit-Taking”, *International Review of Financial Analysis*, 36: 71–77. doi: 10.1016/j.irfa.2014.10.013
+* –––, 2014b, “Can Banks Individually Create Money out of Nothing?—The Theories and the Empirical Evidence”, *International Review of Financial Analysis*, 36: 1–19. doi: 10.1016/j.irfa.2014.07.015
 * Wesley, John, 1771, “The Use of Money”, in *Sermon on Several Occasions*, Grand Rapids, MI: Christian Classic Ethereal Library.
-* White, Stuart, 2011, “The Republican Critique of Capitalism”, *Critical Review of International Social and Political Philosophy*, 14(5): 561–579. doi:10.1080/13698230.2011.617119
-* Wiedenbrüg, Anahí, 2018a, “What Citizens Owe: Two Grounds for Challenging Debt Repayment”, *Journal of Political Philosophy*, 26(3): 368–387. doi:10.1111/jopp.12163
-* –––, 2018b, “What Creditors Owe”, *Constellations*, 25(1): 101–16. doi:10.1111/1467-8675.12293
+* White, Stuart, 2011, “The Republican Critique of Capitalism”, *Critical Review of International Social and Political Philosophy*, 14(5): 561–579. doi: 10.1080/13698230.2011.617119
+* Wiedenbrüg, Anahí, 2018a, “What Citizens Owe: Two Grounds for Challenging Debt Repayment”, *Journal of Political Philosophy*, 26(3): 368–387. doi: 10.1111/jopp.12163
+* –––, 2018b, “What Creditors Owe”, *Constellations*, 25(1): 101–16. doi: 10.1111/1467-8675.12293
 * Wolf, Martin, 2014a, “Strip Private Banks of Their Power to Create Money”, *Financial Times*, 24 April 2014.
 * –––, 2014b, *The Shifts and the Shocks: What We’ve Learned—and Still Have to Learn—from the Financial Crisis*, London: Penguin Books.
-* Wollner, Gabriel, 2014, “Justice in Finance: The Normative Case for an International Financial Transactions Tax”, *Journal of Political Philosophy*, 22(4): 458–485. doi:10.1111/jopp.12016
-* –––, 2018, “Morally Bankrupt: International Financial Governance and the Ethics of Sovereign Default”, *Journal of Political Philosophy*, 26(3): 344–367. doi:10.1111/jopp.12151
+* Wollner, Gabriel, 2014, “Justice in Finance: The Normative Case for an International Financial Transactions Tax”, *Journal of Political Philosophy*, 22(4): 458–485. doi: 10.1111/jopp.12016
+* –––, 2018, “Morally Bankrupt: International Financial Governance and the Ethics of Sovereign Default”, *Journal of Political Philosophy*, 26(3): 344–367. doi: 10.1111/jopp.12151
 * Woodruff, D. M. 2019. “To Democratize Finance, Democratize Central Banking”, *Politics and Society* 47(4): 593–610.
 * Yunus, Muhammad, 1998, *Banker to the Poor*, Dhaka: The University Press Limited.
 * –––, 2007, *Creating a World Without Poverty: Social Business and the Future of Capitalism*, New York: PublicAffairs.

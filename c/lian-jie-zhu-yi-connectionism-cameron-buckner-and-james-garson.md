@@ -78,7 +78,7 @@ Elman（IGNORE）1991 年关于能够理解语法结构的网络的研究对于�
 
 分布式表示的非符号性质提供了一种新颖的方式来构想大脑中的信息处理。如果我们用一个数字来模拟每个神经元的活动，那么整个大脑的活动可以用一个巨大的向量（或列表）来表示，每个神经元对应一个数字。大脑从感觉系统接收的输入以及输出到单个肌肉神经元的活动也可以被视为相同类型的向量。因此，大脑可以被视为一个向量处理器，而心理学问题则转化为关于哪些向量操作解释了人类认知的不同方面的问题。
 
-亚符号表示对于大脑必须包含类似语言句子的符号表示的经典假设具有有趣的含义。这个想法通常被称为思维语言（或 LOT）论题，可能会受到联结主义表示性质的挑战。很难准确地说 LOT 论题到底意味着什么，但范·格尔德（1990）提供了一个有影响力且被广泛接受的标准，用于确定何时应该说大脑包含类似句子的表示。即当一个表示被标记时，从而标记了该表示的组成部分。例如，如果我写下“John loves Mary”，我已经写下了句子的组成部分：“John”、“loves”和“Mary”。对于像“John loves Mary”这样的复杂表达式，可以构建分布式表示，而这些表示不包含任何明确表示它们部分的表示（Smolensky，1990）。有关组成部分的信息可以从表示中提取出来，但神经网络模型本身不需要明确提取这些信息才能正确处理它（Chalmers，1990）。这表明神经网络模型作为思维语言对人类认知是必要条件的反例。然而，这个问题仍然是一个活跃的讨论话题（Fodor，1997）。
+亚符号表示对于大脑必须包含类似语言句子的符号表示的经典假设具有有趣的含义。这个想法通常被称为思维语言（或 LOT）论题，可能会受到联结主义表示性质的挑战。很难准确地说 LOT 论题到底意味着什么，但范 · 格尔德（1990）提供了一个有影响力且被广泛接受的标准，用于确定何时应该说大脑包含类似句子的表示。即当一个表示被标记时，从而标记了该表示的组成部分。例如，如果我写下“John loves Mary”，我已经写下了句子的组成部分：“John”、“loves”和“Mary”。对于像“John loves Mary”这样的复杂表达式，可以构建分布式表示，而这些表示不包含任何明确表示它们部分的表示（Smolensky，1990）。有关组成部分的信息可以从表示中提取出来，但神经网络模型本身不需要明确提取这些信息才能正确处理它（Chalmers，1990）。这表明神经网络模型作为思维语言对人类认知是必要条件的反例。然而，这个问题仍然是一个活跃的讨论话题（Fodor，1997）。
 
 分布式和叠加的联结主义信息存储的新颖性自然引起人们对经典符号计算概念在描述大脑中的可行性产生疑问。Ramsey (1997) 认为，尽管我们可能将符号表示归因于神经网络，但这些归因并不在模型行为的合法解释中起作用。这一觏定很重要，因为经典认知加工的描述（和民间直觉）假定表示在理解心智中起到解释作用。人们普遍认为，认知科学本质上需要诉诸于表示的解释（Von Eckardt 2003）。如果 Ramsey 是正确的，这一观点可能有两种不同的解读。有些人可能会用它来主张对心智的新的非经典理解，而另一些人则会用它来主张联结主义是不足的，因为它无法解释必须解释的内容。然而，Haybron (2000) 反驳 Ramsey，认为在激进的联结主义结构中，表示具有解释作用的空间是充足的。Roth (2005) 提出了一个有趣的观点，与初步印象相反，即通过参考计算机程序来解释网络的行为也可能是完全合理的，即使没有办法通过时间来区分计算的一系列步骤。
 
@@ -102,7 +102,7 @@ Fodor 和 McLaughlin（1990）详细论证了联结主义者未能解释系统�
 
 对清晰展示强系统性的网络的研究一直在继续。Jansen 和 Watter（2012）对沿着这些方向进行的更近期努力提供了很好的总结，并提出了解决问题的有趣基础。他们使用了一个更复杂的架构，将无监督的自组织映射与简单循环网络的特征相结合。然而，主要创新在于允许正在处理的单词的代码表示单词所代表的感觉运动特征。一旦训练完成，他们的网络在区分那些训练集中甚至从未出现过的单词的语法特征方面显示出非常好的准确性。这可能看起来像作弊，因为单词代码可能暗中表示语法类别，或者至少它们可能不公平地促进学习这些类别。然而，Jansen 和 Watter 指出，一个刚刚学会一个新单词的孩子对单词所代表的感觉运动特征是显而易见的，因此这些信息在语言学习模型中并不是禁区。他们做出了有趣的观察，即解决系统性问题可能需要包括迄今在语言学习理论中被忽视的环境信息来源。这项工作使系统性辩论变得更加复杂，因为它引发了一个关于如何回应挑战的合法信息资源是什么的新担忧。然而，这提醒我们，无论是经典的还是联结主义的架构，单靠架构本身都不会解决系统性问题，因此有趣的问题涉及需要哪些补充信息来源才能使语法学习成为可能。
 
-肯特·约翰逊（2004）认为整个系统性辩论是误导的。试图精确定义语言或思维的系统性，要么让我们陷入琐碎，要么让我们陷入错误。联结主义者确实有解释的责任，但约翰逊建议，将他们的负担视为系统性的范畴是徒劳的。艾扎瓦（2014）也建议，鉴于认知科学当前的氛围，这场辩论已不再相关。相反，需要发展出神经可信的联结主义模型，能够处理具有递归句法的语言，对词汇表中新项目的引入做出即时反应，而不引入古典架构的特征。正如约翰逊建议的那样，“系统性”辩论可能已经结束，因为哈德利对强语义系统性的要求可以被视为要求联结主义者在这方面取得成功。
+肯特 · 约翰逊（2004）认为整个系统性辩论是误导的。试图精确定义语言或思维的系统性，要么让我们陷入琐碎，要么让我们陷入错误。联结主义者确实有解释的责任，但约翰逊建议，将他们的负担视为系统性的范畴是徒劳的。艾扎瓦（2014）也建议，鉴于认知科学当前的氛围，这场辩论已不再相关。相反，需要发展出神经可信的联结主义模型，能够处理具有递归句法的语言，对词汇表中新项目的引入做出即时反应，而不引入古典架构的特征。正如约翰逊建议的那样，“系统性”辩论可能已经结束，因为哈德利对强语义系统性的要求可以被视为要求联结主义者在这方面取得成功。
 
 最近的研究（Loula, Baroni, & Lake 2018）为这一争议带来了新的视角。在这项研究中，循环神经网络被训练来解释一个包含“跳跃”、“行走”、“左”、“右”、“相反”和“环绕”等基本命令的简单语言中的复杂命令。 “相反”被解释为要求执行一项命令两次，“环绕”则要求执行四次。因此，“跳跃环绕左”要求左跳四次。作者报告称，他们的神经网络在展示强语义系统性的任务上表现出非常准确的泛化能力。即使“跳跃环绕右”这个短语在训练集中从未出现，网络也能正确解析测试集中包含该短语的命令。然而，网络在更具挑战性的任务上的失败表明了它们在泛化方面存在局限性，无法展示真正的系统性。当测试集中的命令比训练集中呈现的命令更长（甚至更短）时，网络表现出非常糟糕的性能。因此，它们似乎无法自发地从各部分的含义中组合出复杂表达式的含义。需要进行新的研究来了解这些失败的本质，以及它们是否可以在非经典架构中克服，以及人类在类似情况下是否会展示类似的错误。
 
@@ -180,171 +180,171 @@ PC 模型还显示出解释更高层认知现象的潜力。一个经常被引�
 
 ## Bibliography
 
-* Aizawa, Kenneth, 1994, “Representations without Rules, Connectionism and the Syntactic Argument”, *Synthese*, 101(3): 465–492. doi:10.1007/BF01063898
-* –––, 1997a, “Exhibiting versus Explaining Systematicity: A Reply to Hadley and Hayward”, *Minds and Machines*, 7(1): 39–55. doi:10.1023/A:1008203312152
-* –––, 1997b, “Explaining Systematicity”, *Mind & Language*, 12(2): 115–136. doi:10.1111/j.1468-0017.1997.tb00065.x
+* Aizawa, Kenneth, 1994, “Representations without Rules, Connectionism and the Syntactic Argument”, *Synthese*, 101(3): 465–492. doi: 10.1007/BF01063898
+* –––, 1997a, “Exhibiting versus Explaining Systematicity: A Reply to Hadley and Hayward”, *Minds and Machines*, 7(1): 39–55. doi: 10.1023/A: 1008203312152
+* –––, 1997b, “Explaining Systematicity”, *Mind & Language*, 12(2): 115–136. doi: 10.1111/j.1468-0017.1997.tb00065.x
 * –––, 2003, *The Systematicity Arguments*, Dordrecht: Kluwer.
 * –––, 2014, “A Tough Time to be Talking Systematicity”, in Calvo and Symons 2014: 77–101.
-* Bechtel, William, 1987, “Connectionism and the Philosophy of Mind: An Overview”, *The Southern Journal of Philosophy*, 26(S1): 17–41. doi:10.1111/j.2041-6962.1988.tb00461.x
-* –––, 1988, “Connectionism and Rules and Representation Systems: Are They Compatible?”, *Philosophical Psychology*, 1(1): 5–16. doi:10.1080/09515088808572922
+* Bechtel, William, 1987, “Connectionism and the Philosophy of Mind: An Overview”, *The Southern Journal of Philosophy*, 26(S1): 17–41. doi: 10.1111/j.2041-6962.1988.tb00461.x
+* –––, 1988, “Connectionism and Rules and Representation Systems: Are They Compatible?”, *Philosophical Psychology*, 1(1): 5–16. doi: 10.1080/09515088808572922
 * Bechtel, William and Adele Abrahamsen, 1990, *Connectionism and the Mind: An Introduction to Parallel Processing in Networks*, Cambridge, MA: Blackwell.
-* Bengio, Yoshua and Olivier Delalleau, 2011, “On the Expressive Power of Deep Architectures”, in *International Conference on Algorithmic Learning Theory (ALT 2011)*, Jyrki Kivinen, Csaba Szepesvári, Esko Ukkonen, and Thomas Zeugmann (eds.) (Lecture Notes in Computer Science 6925), Berlin, Heidelberg: Springer Berlin Heidelberg, 18–36. doi:10.1007/978-3-642-24412-4_3
-* Bengio, Yoshua, Thomas Mesnard, Asja Fischer, Saizheng Zhang, and Yuhuai Wu, 2017, “STDP-Compatible Approximation of Backpropagation in an Energy-Based Model”, *Neural Computation*, 29(3): 555–577. doi:10.1162/NECO_a_00934
-* Bodén, Mikael and Lars Niklasson, 2000, “Semantic Systematicity and Context in Connectionist Networks”, *Connection Science*, 12(2): 111–142. doi:10.1080/09540090050129754
-* Buckner, Cameron, 2018, “Empiricism without Magic: Transformational Abstraction in Deep Convolutional Neural Networks”, *Synthese*, 195(12): 5339–5372. doi:10.1007/s11229-018-01949-1
-* Butler, Keith, 1991, “Towards a Connectionist Cognitive Architecture”, *Mind & Language*, 6(3): 252–272. doi:10.1111/j.1468-0017.1991.tb00191.x
-* Calvo Garzón, Francisco, 2003, “Connectionist Semantics and the Collateral Information Challenge”, *Mind & Language*, 18(1): 77–94. doi:10.1111/1468-0017.00215
+* Bengio, Yoshua and Olivier Delalleau, 2011, “On the Expressive Power of Deep Architectures”, in *International Conference on Algorithmic Learning Theory (ALT 2011)*, Jyrki Kivinen, Csaba Szepesvári, Esko Ukkonen, and Thomas Zeugmann (eds.) (Lecture Notes in Computer Science 6925), Berlin, Heidelberg: Springer Berlin Heidelberg, 18–36. doi: 10.1007/978-3-642-24412-4_3
+* Bengio, Yoshua, Thomas Mesnard, Asja Fischer, Saizheng Zhang, and Yuhuai Wu, 2017, “STDP-Compatible Approximation of Backpropagation in an Energy-Based Model”, *Neural Computation*, 29(3): 555–577. doi: 10.1162/NECO_a_00934
+* Bodén, Mikael and Lars Niklasson, 2000, “Semantic Systematicity and Context in Connectionist Networks”, *Connection Science*, 12(2): 111–142. doi: 10.1080/09540090050129754
+* Buckner, Cameron, 2018, “Empiricism without Magic: Transformational Abstraction in Deep Convolutional Neural Networks”, *Synthese*, 195(12): 5339–5372. doi: 10.1007/s11229-018-01949-1
+* Butler, Keith, 1991, “Towards a Connectionist Cognitive Architecture”, *Mind & Language*, 6(3): 252–272. doi: 10.1111/j.1468-0017.1991.tb00191.x
+* Calvo Garzón, Francisco, 2003, “Connectionist Semantics and the Collateral Information Challenge”, *Mind & Language*, 18(1): 77–94. doi: 10.1111/1468-0017.00215
 * Calvo, Paco and John Symons, 2014, *The Architecture of Cognition: Rethinking Fodor and Pylyshyn’s Systematicity Challenge*, Cambridge: MIT Press.
-* Chalmers, David J., 1990, “Syntactic Transformations on Distributed Representations”, *Connection Science*, 2(1–2): 53–62. doi:10.1080/09540099008915662
-* –––, 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, *Philosophical Psychology*, 6(3): 305–319. doi:10.1080/09515089308573094
+* Chalmers, David J., 1990, “Syntactic Transformations on Distributed Representations”, *Connection Science*, 2(1–2): 53–62. doi: 10.1080/09540099008915662
+* –––, 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, *Philosophical Psychology*, 6(3): 305–319. doi: 10.1080/09515089308573094
 * Chomsky, Noam, 1965, *Aspects of the Theory of Syntax*, Cambridge, MA: MIT Press.
-* Christiansen, Morten H. and Nick Chater, 1994, “Generalization and Connectionist Language Learning”, *Mind & Language*, 9(3): 273–287. doi:10.1111/j.1468-0017.1994.tb00226.x
-* –––, 1999a, “Toward a Connectionist Model of Recursion in Human Linguistic Performance”, *Cognitive Science*, 23(2): 157–205. doi:10.1207/s15516709cog2302_2
-* –––, 1999b, “Connectionist Natural Language Processing: The State of the Art”, *Cognitive Science*, 23(4): 417–437. doi:10.1207/s15516709cog2304_2
+* Christiansen, Morten H. and Nick Chater, 1994, “Generalization and Connectionist Language Learning”, *Mind & Language*, 9(3): 273–287. doi: 10.1111/j.1468-0017.1994.tb00226.x
+* –––, 1999a, “Toward a Connectionist Model of Recursion in Human Linguistic Performance”, *Cognitive Science*, 23(2): 157–205. doi: 10.1207/s15516709cog2302_2
+* –––, 1999b, “Connectionist Natural Language Processing: The State of the Art”, *Cognitive Science*, 23(4): 417–437. doi: 10.1207/s15516709cog2304_2
 * Churchland, Paul M., 1989, *A Neurocomputational Perspective: The Nature of Mind and the Structure of Science*, Cambridge, MA: MIT Press.
 * –––, 1995, *The Engine of Reason, the Seat of the Soul: A Philosophical Journey into the Brain*, Cambridge, MA: MIT Press.
-* –––, 1998, “Conceptual Similarity Across Sensory and Neural Diversity: The Fodor/Lepore Challenge Answered”, *Journal of Philosophy*, 95(1): 5–32. doi:10.5840/jphil19989514
+* –––, 1998, “Conceptual Similarity Across Sensory and Neural Diversity: The Fodor/Lepore Challenge Answered”, *Journal of Philosophy*, 95(1): 5–32. doi: 10.5840/jphil19989514
 * Clark, Andy, 1989, *Microcognition: Philosophy, Cognitive Science, and Parallel Distributed Processing*, (Explorations in Cognitive Science), Cambridge, MA: MIT Press.
-* –––, 1990 [1995], “Connectionist Minds”, *Proceedings of the Aristotelian Society*, 90: 83–102. Reprinted in MacDonald and MacDonald 1995: 339–356. doi:10.1093/aristotelian/90.1.83
+* –––, 1990 [1995], “Connectionist Minds”, *Proceedings of the Aristotelian Society*, 90: 83–102. Reprinted in MacDonald and MacDonald 1995: 339–356. doi: 10.1093/aristotelian/90.1.83
 * –––, 1993, *Associative Engines: Connectionism, Concepts, and Representational Change*, Cambridge, MA: MIT Press.
-* –––, 2013, “Whatever next? Predictive Brains, Situated Agents, and the Future of Cognitive Science”, *Behavioral and Brain Sciences*, 36(3): 181–204. doi:10.1017/S0140525X12000477
-* Clark, Andy and Rudi Lutz (eds.), 1992, *Connectionism in Context*, London: Springer London. doi:10.1007/978-1-4471-1923-4
+* –––, 2013, “Whatever next? Predictive Brains, Situated Agents, and the Future of Cognitive Science”, *Behavioral and Brain Sciences*, 36(3): 181–204. doi: 10.1017/S0140525X12000477
+* Clark, Andy and Rudi Lutz (eds.), 1992, *Connectionism in Context*, London: Springer London. doi: 10.1007/978-1-4471-1923-4
 * Cotrell G.W. and S.L. Small, 1983, “A Connectionist Scheme for Modeling Word Sense Disambiguation”, *Cognition and Brain Theory*, 6(1): 89–120.
 * Cummins, Robert, 1991, “The Role of Representation in Connectionist Explanations of Cognitive Capacities”, in Ramsey, Stich, and Rumelhart 1991: 91–114.
-* –––, 1996, “Systematicity”:, *Journal of Philosophy*, 93(12): 591–614. doi:10.2307/2941118
-* Cummins, Robert and Georg Schwarz, 1991, “Connectionism, Computation, and Cognition”, in Horgan and Tienson 1991: 60–73. doi:10.1007/978-94-011-3524-5_3
-* Davies, Martin, 1989, “Connectionism, Modularity, and Tacit Knowledge”, *The British Journal for the Philosophy of Science*, 40(4): 541–555. doi:10.1093/bjps/40.4.541
+* –––, 1996, “Systematicity”:, *Journal of Philosophy*, 93(12): 591–614. doi: 10.2307/2941118
+* Cummins, Robert and Georg Schwarz, 1991, “Connectionism, Computation, and Cognition”, in Horgan and Tienson 1991: 60–73. doi: 10.1007/978-94-011-3524-5_3
+* Davies, Martin, 1989, “Connectionism, Modularity, and Tacit Knowledge”, *The British Journal for the Philosophy of Science*, 40(4): 541–555. doi: 10.1093/bjps/40.4.541
 * –––, 1991, “Concepts, Connectionism and the Language of Thought”, in Ramsey, Stich, and Rumelhart 1991: 229–257.
 * Dinsmore, John (ed.), 1992, *The Symbolic and Connectionist Paradigms: Closing the Gap*, Hillsdale, NJ: Erlbaum.
-* Ehsan, Upol, Brent Harrison, Larry Chan, and Mark O. Riedl, 2018, “Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations”, in *Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’18)*, New Orleans, LA: ACM Press, 81–87. doi:10.1145/3278721.3278736
-* Eliasmith, Chris, 2007, “How to Build a Brain: From Function to Implementation”, *Synthese*, 159(3): 373–388. doi:10.1007/s11229-007-9235-0
+* Ehsan, Upol, Brent Harrison, Larry Chan, and Mark O. Riedl, 2018, “Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations”, in *Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’18)*, New Orleans, LA: ACM Press, 81–87. doi: 10.1145/3278721.3278736
+* Eliasmith, Chris, 2007, “How to Build a Brain: From Function to Implementation”, *Synthese*, 159(3): 373–388. doi: 10.1007/s11229-007-9235-0
 * –––, 2013, *How to Build a Brain: a Neural Architecture for Biological Cognition*, New York: Oxford University Press.
-* Elman, Jeffrey L., 1991, “Distributed Representations, Simple Recurrent Networks, and Grammatical Structure”, in Touretzky 1991: 91–122. doi:10.1007/978-1-4615-4008-3_5
-* Elman, Jeffrey, Elizabeth Bates, Mark H. Johnson, Annette Karmiloff-Smith,Domenico Parisi, and Kim Plunkett, 1996, *Rethinking Innateness: A Connectionist Perspective on Development*, Cambridge, MA: MIT Press.
+* Elman, Jeffrey L., 1991, “Distributed Representations, Simple Recurrent Networks, and Grammatical Structure”, in Touretzky 1991: 91–122. doi: 10.1007/978-1-4615-4008-3_5
+* Elman, Jeffrey, Elizabeth Bates, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, and Kim Plunkett, 1996, *Rethinking Innateness: A Connectionist Perspective on Development*, Cambridge, MA: MIT Press.
 * Elsayed, Gamaleldin F., Shreya Shankar, Brian Cheung, Nicolas Papernot, Alexey Kurakin, Ian Goodfellow, and Jascha Sohl-Dickstein, 2018, “Adversarial Examples That Fool Both Computer Vision and Time-Limited Humans”, in *Proceedings of the 32Nd International Conference on Neural Information Processing Systems, (NIPS’18)*, 31: 3914–3924.
 * Fodor, Jerry A., 1988, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
-* –––, 1997, “Connectionism and the Problem of Systematicity (Continued): Why Smolensky’s Solution Still Doesn’t Work”, *Cognition*, 62(1): 109–119. doi:10.1016/S0010-0277(96)00780-9
+* –––, 1997, “Connectionism and the Problem of Systematicity (Continued): Why Smolensky’s Solution Still Doesn’t Work”, *Cognition*, 62(1): 109–119. doi: 10.1016/S0010-0277(96)00780-9
 * Fodor, Jerry and Ernest Lepore, 1992, *Holism: A Shopper’s Guide*, Cambridge: Blackwell.
-* Fodor, Jerry and Ernie Lepore, 1999, “All at Sea in Semantic Space: Churchland on Meaning Similarity”, *Journal of Philosophy*, 96(8): 381–403. doi:10.5840/jphil199996818
-* Fodor, Jerry and Brian P. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, *Cognition*, 35(2): 183–204. doi:10.1016/0010-0277(90)90014-B
-* Fodor, Jerry A. and Zenon W. Pylyshyn, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, *Cognition*, 28(1–2): 3–71. doi:10.1016/0010-0277(88)90031-5
-* Friston, Karl, 2005, “A Theory of Cortical Responses”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 360(1456): 815–836. doi:10.1098/rstb.2005.1622
-* Friston, Karl J. and Klaas E. Stephan, 2007, “Free-Energy and the Brain”, *Synthese*, 159(3): 417–458. doi:10.1007/s11229-007-9237-y
-* Fukushima, Kunihiko, 1980, “Neocognitron: A Self-Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position”, *Biological Cybernetics*, 36(4): 193–202. doi:10.1007/BF00344251
-* Garfield, Jay L., 1997, “Mentalese Not Spoken Here: Computation, Cognition and Causation”, *Philosophical Psychology*, 10(4): 413–435. doi:10.1080/09515089708573231
-* Garson, James W., 1991, “What Connectionists Cannot Do: The Threat to Classical AI”, in Horgan and Tienson 1991: 113–142. doi:10.1007/978-94-011-3524-5_6
-* –––, 1994, “Cognition without Classical Architecture”, *Synthese*, 100(2): 291–305. doi:10.1007/BF01063812
+* Fodor, Jerry and Ernie Lepore, 1999, “All at Sea in Semantic Space: Churchland on Meaning Similarity”, *Journal of Philosophy*, 96(8): 381–403. doi: 10.5840/jphil199996818
+* Fodor, Jerry and Brian P. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, *Cognition*, 35(2): 183–204. doi: 10.1016/0010-0277(90)90014-B
+* Fodor, Jerry A. and Zenon W. Pylyshyn, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, *Cognition*, 28(1–2): 3–71. doi: 10.1016/0010-0277(88)90031-5
+* Friston, Karl, 2005, “A Theory of Cortical Responses”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 360(1456): 815–836. doi: 10.1098/rstb.2005.1622
+* Friston, Karl J. and Klaas E. Stephan, 2007, “Free-Energy and the Brain”, *Synthese*, 159(3): 417–458. doi: 10.1007/s11229-007-9237-y
+* Fukushima, Kunihiko, 1980, “Neocognitron: A Self-Organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position”, *Biological Cybernetics*, 36(4): 193–202. doi: 10.1007/BF00344251
+* Garfield, Jay L., 1997, “Mentalese Not Spoken Here: Computation, Cognition and Causation”, *Philosophical Psychology*, 10(4): 413–435. doi: 10.1080/09515089708573231
+* Garson, James W., 1991, “What Connectionists Cannot Do: The Threat to Classical AI”, in Horgan and Tienson 1991: 113–142. doi: 10.1007/978-94-011-3524-5_6
+* –––, 1994, “Cognition without Classical Architecture”, *Synthese*, 100(2): 291–305. doi: 10.1007/BF01063812
 * –––, 1997, “Syntax in a Dynamic Brain”, *Synthese*, 110(3): 343–355.
 * Goodfellow, Ian, Yoshua Bengio, and Aaron Courville, 2016, *Deep Learning*, Cambridge, MA: MIT Press.
 * Goodfellow, Ian J., Jonathon Shlens, and Christian Szegedy, 2015, “Explaining and Harnessing Adversarial Examples.”, in *3rd International Conference on Learning Representations, ICLR 2015*, San Diego, CA, May 7–9, 2015, [available online](http://arxiv.org/abs/1412.6572).
 * Goodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio, 2014, “Generative Adversarial Nets”, in *Proceedings of the 27th International Conference on Neural Information Processing Systems, (NIPS’14)*, Cambridge, MA: MIT Press, 2: 2672–2680.
-* Goodman, Bryce and Seth Flaxman, 2017, “European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’”, *AI Magazine*, 38(3): 50–57. doi:10.1609/aimag.v38i3.2741
+* Goodman, Bryce and Seth Flaxman, 2017, “European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’”, *AI Magazine*, 38(3): 50–57. doi: 10.1609/aimag.v38i3.2741
 * Goodman, Nelson, 1955, *Fact, Fiction, and Forecast*, Cambridge, MA: Harvard University Press.
-* Grush, Rick, 2004, “The Emulation Theory of Representation: Motor Control, Imagery, and Perception”, *Behavioral and Brain Sciences*, 27(3): 377–396. doi:10.1017/S0140525X04000093
-* Guarini, Marcello, 2001, “A Defence of Connectionism Against the ‘Syntactic’ Argument”, *Synthese*, 128(3): 287–317. doi:10.1023/A:1011905917986
-* Hadley, Robert F., 1994a, “Systematicity in Connectionist Language Learning”, *Mind & Language*, 9(3): 247–272. doi:10.1111/j.1468-0017.1994.tb00225.x
-* –––, 1994b, “Systematicity Revisited: Reply to Christiansen and Chater and Niklasson and van Gelder”, *Mind & Language*, 9(4): 431–444. doi:10.1111/j.1468-0017.1994.tb00317.x
-* –––, 1997a, “Explaining Systematicity: A Reply to Kenneth Aizawa”, *Minds and Machines*, 7(4): 571–579. doi:10.1023/A:1008252322227
-* –––, 1997b, “Cognition, Systematicity and Nomic Necessity”, *Mind & Language*, 12(2): 137–153. doi:10.1111/j.1468-0017.1997.tb00066.x
-* –––, 2004, “On The Proper Treatment of Semantic Systematicity”, *Minds and Machines*, 14(2): 145–172. doi:10.1023/B:MIND.0000021693.67203.46
-* Hadley, Robert F. and Michael B. Hayward, 1997, “Strong Semantic Systematicity from Hebbian Connectionist Learning”, *Minds and Machines*, 7(1): 1–37. doi:10.1023/A:1008252408222
+* Grush, Rick, 2004, “The Emulation Theory of Representation: Motor Control, Imagery, and Perception”, *Behavioral and Brain Sciences*, 27(3): 377–396. doi: 10.1017/S0140525X04000093
+* Guarini, Marcello, 2001, “A Defence of Connectionism Against the ‘Syntactic’ Argument”, *Synthese*, 128(3): 287–317. doi: 10.1023/A: 1011905917986
+* Hadley, Robert F., 1994a, “Systematicity in Connectionist Language Learning”, *Mind & Language*, 9(3): 247–272. doi: 10.1111/j.1468-0017.1994.tb00225.x
+* –––, 1994b, “Systematicity Revisited: Reply to Christiansen and Chater and Niklasson and van Gelder”, *Mind & Language*, 9(4): 431–444. doi: 10.1111/j.1468-0017.1994.tb00317.x
+* –––, 1997a, “Explaining Systematicity: A Reply to Kenneth Aizawa”, *Minds and Machines*, 7(4): 571–579. doi: 10.1023/A: 1008252322227
+* –––, 1997b, “Cognition, Systematicity and Nomic Necessity”, *Mind & Language*, 12(2): 137–153. doi: 10.1111/j.1468-0017.1997.tb00066.x
+* –––, 2004, “On The Proper Treatment of Semantic Systematicity”, *Minds and Machines*, 14(2): 145–172. doi: 10.1023/B: MIND.0000021693.67203.46
+* Hadley, Robert F. and Michael B. Hayward, 1997, “Strong Semantic Systematicity from Hebbian Connectionist Learning”, *Minds and Machines*, 7(1): 1–37. doi: 10.1023/A: 1008252408222
 * Hanson, Stephen J. and Judy Kegl, 1987, “PARSNIP: A Connectionist Network that Learns Natural Language Grammar from Exposure to Natural Language Sentences”, *Ninth Annual Conference of the Cognitive Science Society*, Hillsdale, NJ: Erlbaum, pp. 106–119.
 * Harman, Gilbert and Sanjeev Kulkarni, 2007, *Reliable Reasoning: Induction and Statistical Learning Theory*, Cambridge MA: MIT Press.
 * Hatfield, Gary, 1991a, “Representation in Perception and Cognition: Connectionist Affordances”, in Ramsey, Stich, and Rumelhart 1991: 163–195.
-* –––, 1991b, “Representation and Rule-Instantiation in Connectionist Systems”, in Horgan and Tienson 1991: 90–112. doi:10.1007/978-94-011-3524-5_5
-* Hawthorne, John, 1989, “On the Compatibility of Connectionist and Classical Models”, *Philosophical Psychology*, 2(1): 5–15. doi:10.1080/09515088908572956
-* Haybron, Daniel M., 2000, “The Causal and Explanatory Role of Information Stored in Connectionist Networks”, *Minds and Machines*, 10(3): 361–380. doi:10.1023/A:1026545231550
-* Hinton, Geoffrey E., 1990 [1991], “Mapping Part-Whole Hierarchies into Connectionist Networks”, *Artificial Intelligence*, 46(1–2): 47–75. Reprinted in Hinton 1991: 47–76. doi:10.1016/0004-3702(90)90004-J
+* –––, 1991b, “Representation and Rule-Instantiation in Connectionist Systems”, in Horgan and Tienson 1991: 90–112. doi: 10.1007/978-94-011-3524-5_5
+* Hawthorne, John, 1989, “On the Compatibility of Connectionist and Classical Models”, *Philosophical Psychology*, 2(1): 5–15. doi: 10.1080/09515088908572956
+* Haybron, Daniel M., 2000, “The Causal and Explanatory Role of Information Stored in Connectionist Networks”, *Minds and Machines*, 10(3): 361–380. doi: 10.1023/A: 1026545231550
+* Hinton, Geoffrey E., 1990 [1991], “Mapping Part-Whole Hierarchies into Connectionist Networks”, *Artificial Intelligence*, 46(1–2): 47–75. Reprinted in Hinton 1991: 47–76. doi: 10.1016/0004-3702(90)90004-J
 * ––– (ed.), 1991, *Connectionist Symbol Processing*, Cambridge, MA: MIT Press.
 * –––, 1992, “How Neural Networks Learn from Experience”, *Scientific American*, 267(3): 145–151.
-* –––, 2010, “Learning to Represent Visual Input”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 365(1537): 177–184. doi:10.1098/rstb.2009.0200
+* –––, 2010, “Learning to Represent Visual Input”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 365(1537): 177–184. doi: 10.1098/rstb.2009.0200
 * Hinton, Geoffrey E., James L. McClelland, and David E. Rumelhart, 1986, “Distributed Representations”, Rumelhart, McClelland, and the PDP group 1986: chapter 3.
-* Hohwy, Jakob, 2012, “Attention and Conscious Perception in the Hypothesis Testing Brain”, *Frontiers in Psychology*, 3(96): 1–14. doi:10.3389/fpsyg.2012.00096
-* Hong, Ha, Daniel L K Yamins, Najib J Majaj, and James J DiCarlo, 2016, “Explicit Information for Category-Orthogonal Object Properties Increases along the Ventral Stream”, *Nature Neuroscience*, 19(4): 613–622. doi:10.1038/nn.4247
+* Hohwy, Jakob, 2012, “Attention and Conscious Perception in the Hypothesis Testing Brain”, *Frontiers in Psychology*, 3(96): 1–14. doi: 10.3389/fpsyg.2012.00096
+* Hong, Ha, Daniel L K Yamins, Najib J Majaj, and James J DiCarlo, 2016, “Explicit Information for Category-Orthogonal Object Properties Increases along the Ventral Stream”, *Nature Neuroscience*, 19(4): 613–622. doi: 10.1038/nn.4247
 * Horgan, Terence E. and John Tienson, 1989, “Representations without Rules”, *Philosophical Topics*, 17(1): 147–174.
-* –––, 1990, “Soft Laws”, *Midwest Studies In Philosophy*, 15: 256–279. doi:10.1111/j.1475-4975.1990.tb00217.x
-* ––– (eds.), 1991, *Connectionism and the Philosophy of Mind*, Dordrecht: Kluwer. doi:10.1007/978-94-011-3524-5
+* –––, 1990, “Soft Laws”, *Midwest Studies In Philosophy*, 15: 256–279. doi: 10.1111/j.1475-4975.1990.tb00217.x
+* ––– (eds.), 1991, *Connectionism and the Philosophy of Mind*, Dordrecht: Kluwer. doi: 10.1007/978-94-011-3524-5
 * –––, 1996, *Connectionism and the Philosophy of Psychology*, Cambridge, MA: MIT Press.
-* Hosoya, Toshihiko, Stephen A. Baccus, and Markus Meister, 2005, “Dynamic Predictive Coding by the Retina”, *Nature*, 436(7047): 71–77. doi:10.1038/nature03689
-* Huang, Yanping and Rajesh P. N. Rao, 2011, “Predictive Coding”, *Wiley Interdisciplinary Reviews: Cognitive Science*, 2(5): 580–593. doi:10.1002/wcs.142
-* Hubel, David H. and Torsten N. Wiesel, 1965, “Receptive Fields and Functional Architecture in Two Nonstriate Visual Areas (18 and 19) of the Cat”, *Journal of Neurophysiology*, 28(2): 229–289. doi:10.1152/jn.1965.28.2.229
-* Jansen, Peter A. and Scott Watter, 2012, “Strong Systematicity through Sensorimotor Conceptual Grounding: An Unsupervised, Developmental Approach to Connectionist Sentence Processing”, *Connection Science*, 24(1): 25–55. doi:10.1080/09540091.2012.664121
-* Johnson, Kent, 2004, “On the Systematicity of Language and Thought”:, *Journal of Philosophy*, 101(3): 111–139. doi:10.5840/jphil2004101321
-* Jones, Matt and Bradley C. Love, 2011, “Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition”, *Behavioral and Brain Sciences*, 34(4): 169–188. doi:10.1017/S0140525X10003134
-* Khaligh-Razavi, Seyed-Mahdi and Nikolaus Kriegeskorte, 2014, “Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation”, *PLoS Computational Biology*, 10(11): e1003915. doi:10.1371/journal.pcbi.1003915
+* Hosoya, Toshihiko, Stephen A. Baccus, and Markus Meister, 2005, “Dynamic Predictive Coding by the Retina”, *Nature*, 436(7047): 71–77. doi: 10.1038/nature03689
+* Huang, Yanping and Rajesh P. N. Rao, 2011, “Predictive Coding”, *Wiley Interdisciplinary Reviews: Cognitive Science*, 2(5): 580–593. doi: 10.1002/wcs.142
+* Hubel, David H. and Torsten N. Wiesel, 1965, “Receptive Fields and Functional Architecture in Two Nonstriate Visual Areas (18 and 19) of the Cat”, *Journal of Neurophysiology*, 28(2): 229–289. doi: 10.1152/jn.1965.28.2.229
+* Jansen, Peter A. and Scott Watter, 2012, “Strong Systematicity through Sensorimotor Conceptual Grounding: An Unsupervised, Developmental Approach to Connectionist Sentence Processing”, *Connection Science*, 24(1): 25–55. doi: 10.1080/09540091.2012.664121
+* Johnson, Kent, 2004, “On the Systematicity of Language and Thought”:, *Journal of Philosophy*, 101(3): 111–139. doi: 10.5840/jphil2004101321
+* Jones, Matt and Bradley C. Love, 2011, “Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition”, *Behavioral and Brain Sciences*, 34(4): 169–188. doi: 10.1017/S0140525X10003134
+* Khaligh-Razavi, Seyed-Mahdi and Nikolaus Kriegeskorte, 2014, “Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation”, *PLoS Computational Biology*, 10(11): e1003915. doi: 10.1371/journal.pcbi.1003915
 * Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton, 2012, “Imagenet Classification with Deep Convolutional Neural Networks”, *Advances in Neural Information Processing Systems*, 25: 1097–1105.
-* Kubilius, Jonas, Stefania Bracci, and Hans P. Op de Beeck, 2016, “Deep Neural Networks as a Computational Model for Human Shape Sensitivity”, *PLOS Computational Biology*, 12(4): e1004896. doi:10.1371/journal.pcbi.1004896
-* Laakso, Aarre and Garrison Cottrell, 2000, “Content and Cluster Analysis: Assessing Representational Similarity in Neural Systems”, *Philosophical Psychology*, 13(1): 47–76. doi:10.1080/09515080050002726
-* Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum, 2015, “Human-Level Concept Learning through Probabilistic Program Induction”, *Science*, 350(6266): 1332–1338. doi:10.1126/science.aab3050
+* Kubilius, Jonas, Stefania Bracci, and Hans P. Op de Beeck, 2016, “Deep Neural Networks as a Computational Model for Human Shape Sensitivity”, *PLOS Computational Biology*, 12(4): e1004896. doi: 10.1371/journal.pcbi.1004896
+* Laakso, Aarre and Garrison Cottrell, 2000, “Content and Cluster Analysis: Assessing Representational Similarity in Neural Systems”, *Philosophical Psychology*, 13(1): 47–76. doi: 10.1080/09515080050002726
+* Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum, 2015, “Human-Level Concept Learning through Probabilistic Program Induction”, *Science*, 350(6266): 1332–1338. doi: 10.1126/science.aab3050
 * Lake, Brenden M., Wojciech Zaremba, Rob Fergus, and Todd M. Gureckis, 2015, “Deep Neural Networks Predict Category Typicality Ratings for Images”, *Proceedings of the 37th Annual Cognitive Science Society*, Pasadena, CA, 22–25 July 2015, [available online](https://mindmodeling.org/cogsci2015/papers/0219/).
-* Lillicrap, Timothy P., Daniel Cownden, Douglas B. Tweed, and Colin J. Akerman, 2016, “Random Synaptic Feedback Weights Support Error Backpropagation for Deep Learning”, *Nature Communications*, 7(1): 13276. doi:10.1038/ncomms13276
-* Loula, João, Marco Baroni, and Brenden Lake, 2018, “Rearranging the Familiar: Testing Compositional Generalization in Recurrent Networks”, in *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, Brussels, Belgium: Association for Computational Linguistics, 108–114. doi:10.18653/v1/W18-5413
+* Lillicrap, Timothy P., Daniel Cownden, Douglas B. Tweed, and Colin J. Akerman, 2016, “Random Synaptic Feedback Weights Support Error Backpropagation for Deep Learning”, *Nature Communications*, 7(1): 13276. doi: 10.1038/ncomms13276
+* Loula, João, Marco Baroni, and Brenden Lake, 2018, “Rearranging the Familiar: Testing Compositional Generalization in Recurrent Networks”, in *Proceedings of the 2018 EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*, Brussels, Belgium: Association for Computational Linguistics, 108–114. doi: 10.18653/v1/W18-5413
 * MacDonald, Cynthia and Graham MacDonald (eds), 1995, *Connectionism*, (Debates on Psychological Explanation, 2), Oxford: Blackwell.
-* Matthews, Robert J., 1997, “Can Connectionists Explain Systematicity?”, *Mind & Language*, 12(2): 154–177. doi:10.1111/j.1468-0017.1997.tb00067.x
-* Marcus, Gary F., 1998, “Rethinking Eliminative Connectionism”, *Cognitive Psychology*, 37(3): 243–282. doi:10.1006/cogp.1998.0694
+* Matthews, Robert J., 1997, “Can Connectionists Explain Systematicity?”, *Mind & Language*, 12(2): 154–177. doi: 10.1111/j.1468-0017.1997.tb00067.x
+* Marcus, Gary F., 1998, “Rethinking Eliminative Connectionism”, *Cognitive Psychology*, 37(3): 243–282. doi: 10.1006/cogp.1998.0694
 * –––, 2001, *The Algebraic Mind: Integrating Connectionism and Cognitive Science*, Cambridge, MA: MIT Press.
-* McClelland, James L and Jeffrey L Elman, 1986, “The TRACE Model of Speech Perception”, *Cognitive Psychology*, 18(1): 1–86. doi:10.1016/0010-0285(86)90015-0
+* McClelland, James L and Jeffrey L Elman, 1986, “The TRACE Model of Speech Perception”, *Cognitive Psychology*, 18(1): 1–86. doi: 10.1016/0010-0285(86)90015-0
 * McClelland, James L., David E. Rumelhart, and the PDP Research Group (ed.), 1986, *Parallel Distributed Processing, Volume II: Explorations in the Microstructure of Cognition: Psychological and Biological Models*, Cambridge, MA: MIT Press.
-* McLaughlin, Brian P., 1993, “The Connectionism/Classicism Battle to Win Souls”, *Philosophical Studies*, 71(2): 163–190. doi:10.1007/BF00989855
+* McLaughlin, Brian P., 1993, “The Connectionism/Classicism Battle to Win Souls”, *Philosophical Studies*, 71(2): 163–190. doi: 10.1007/BF00989855
 * Miikkulainen, Risto, 1993, *Subsymbolic Natural Language Processing: An Integrated Model of Scripts, Lexicon, and Memory*, Cambridge, MA: MIT Press.
-* Miikkulainen, Risto and Michael G. Dyer, 1991, “Natural Language Processing With Modular Pdp Networks and Distributed Lexicon”, *Cognitive Science*, 15(3): 343–399. doi:10.1207/s15516709cog1503_2
-* Miracchi, Lisa, 2019, “A Competence Framework for Artificial Intelligence Research”, *Philosophical Psychology*, 32(5): 588–633. doi:10.1080/09515089.2019.1607692
-* Montavon, Grégoire, Wojciech Samek, and Klaus-Robert Müller, 2018, “Methods for Interpreting and Understanding Deep Neural Networks”, *Digital Signal Processing*, 73: 1–15. doi:10.1016/j.dsp.2017.10.011
+* Miikkulainen, Risto and Michael G. Dyer, 1991, “Natural Language Processing With Modular Pdp Networks and Distributed Lexicon”, *Cognitive Science*, 15(3): 343–399. doi: 10.1207/s15516709cog1503_2
+* Miracchi, Lisa, 2019, “A Competence Framework for Artificial Intelligence Research”, *Philosophical Psychology*, 32(5): 588–633. doi: 10.1080/09515089.2019.1607692
+* Montavon, Grégoire, Wojciech Samek, and Klaus-Robert Müller, 2018, “Methods for Interpreting and Understanding Deep Neural Networks”, *Digital Signal Processing*, 73: 1–15. doi: 10.1016/j.dsp.2017.10.011
 * Montúfar, Guido, Razvan Pascanu, Kyunghyun Cho, and Yoshua Bengio, 2014, “On the Number of Linear Regions of Deep Neural Networks”, in *Proceedings of the 27th International Conference on Neural Information Processing Systems (NIPS’14)*, Cambridge, MA: MIT Press, 2: 2924–2932.
-* Morris, William C., Garrison W. Cottrell, and Jeffrey Elman, 2000, “A Connectionist Simulation of the Empirical Acquisition of Grammatical Relations”, in Wermter and Sun 2000: 1778:175–193. doi:10.1007/10719871_12
+* Morris, William C., Garrison W. Cottrell, and Jeffrey Elman, 2000, “A Connectionist Simulation of the Empirical Acquisition of Grammatical Relations”, in Wermter and Sun 2000: 1778: 175–193. doi: 10.1007/10719871_12
 * Nguyen, Anh, Jason Yosinski, Jeff Clune, 2015, “Deep Neural Networks Are Easily Fooled: High Confidence Predictions for Unrecognizable Images”, *Proceedings of the 28th IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2015)*, 427–436, [available online](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.html).
-* Niklasson, Lars F. and Tim van Gelder, 1994, “On Being Systematically Connectionist”, *Mind & Language*, 9(3): 288–302. doi:10.1111/j.1468-0017.1994.tb00227.x
-* O’Reilly, Randall C., 1996, “Biologically Plausible Error-Driven Learning Using Local Activation Differences: The Generalized Recirculation Algorithm”, *Neural Computation*, 8(5): 895–938. doi:10.1162/neco.1996.8.5.895
-* Phillips, Steven, 2002, “Does Classicism Explain Universality?”, *Minds and Machines*, 12(3): 423–434. doi:10.1023/A:1016160512967
+* Niklasson, Lars F. and Tim van Gelder, 1994, “On Being Systematically Connectionist”, *Mind & Language*, 9(3): 288–302. doi: 10.1111/j.1468-0017.1994.tb00227.x
+* O’Reilly, Randall C., 1996, “Biologically Plausible Error-Driven Learning Using Local Activation Differences: The Generalized Recirculation Algorithm”, *Neural Computation*, 8(5): 895–938. doi: 10.1162/neco.1996.8.5.895
+* Phillips, Steven, 2002, “Does Classicism Explain Universality?”, *Minds and Machines*, 12(3): 423–434. doi: 10.1023/A: 1016160512967
 * Pinker, Steven and Jacques Mehler (eds.), 1988, *Connections and Symbols*, Cambridge, MA: MIT Press.
-* Pinker, Steven and Alan Prince, 1988, “On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition”, *Cognition*, 28(1–2): 73–193. doi:10.1016/0010-0277(88)90032-7
+* Pinker, Steven and Alan Prince, 1988, “On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition”, *Cognition*, 28(1–2): 73–193. doi: 10.1016/0010-0277(88)90032-7
 * Pollack, Jordan B., 1989, “Implications of Recursive Distributed Representations”, in Touretzky 1989: 527–535, [available online](http://papers.nips.cc/paper/114-implications-of-recursive-distributed-representations).
-* –––, 1991, “Induction of Dynamical Recognizers”, in Touretzky 1991: 123–148. doi:10.1007/978-1-4615-4008-3_6
-* Pollack, Jordan B., 1990 [1991], “Recursive Distributed Representations”, *Artificial Intelligence*, 46(1–2): 77–105. Reprinted in Hinton 1991: 77–106. doi:10.1016/0004-3702(90)90005-K
-* Port, Robert F., 1990, “Representation and Recognition of Temporal Patterns”, *Connection Science*, 2(1–2): 151–176. doi:10.1080/09540099008915667
+* –––, 1991, “Induction of Dynamical Recognizers”, in Touretzky 1991: 123–148. doi: 10.1007/978-1-4615-4008-3_6
+* Pollack, Jordan B., 1990 [1991], “Recursive Distributed Representations”, *Artificial Intelligence*, 46(1–2): 77–105. Reprinted in Hinton 1991: 77–106. doi: 10.1016/0004-3702(90)90005-K
+* Port, Robert F., 1990, “Representation and Recognition of Temporal Patterns”, *Connection Science*, 2(1–2): 151–176. doi: 10.1080/09540099008915667
 * Port, Robert F. and Timothy van Gelder, 1991, “Representing Aspects of Language”, *Proceedings of the Thirteenth Annual Conference of the Cognitive Science Society*, Hillsdale, N.J.: Erlbaum, 487–492, [available online](http://mindmodeling.org/cogscihistorical/cogsci_13.pdf).
-* Quine, W. V., 1969, “Natural Kinds”, in *Essays in Honor of Carl G. Hempel*, Nicholas Rescher (ed.), Dordrecht: Springer Netherlands, 5–23. doi:10.1007/978-94-017-1466-2_2
+* Quine, W. V., 1969, “Natural Kinds”, in *Essays in Honor of Carl G. Hempel*, Nicholas Rescher (ed.), Dordrecht: Springer Netherlands, 5–23. doi: 10.1007/978-94-017-1466-2_2
 * Raghu, Maithra, Ben Poole, Jon Kleinberg, Surya Ganguli, and Jascha Sohl-Dickstein, 2017, “On the Expressive Power of Deep Neural Networks”, in *Proceedings of the 34th International Conference on Machine Learning*, 70: 2847–2854, [available online](http://proceedings.mlr.press/v70/raghu17a.html).
-* Ramsey, William, 1997, “Do Connectionist Representations Earn Their Explanatory Keep?”, *Mind & Language*, 12(1): 34–66. doi:10.1111/j.1468-0017.1997.tb00061.x
+* Ramsey, William, 1997, “Do Connectionist Representations Earn Their Explanatory Keep?”, *Mind & Language*, 12(1): 34–66. doi: 10.1111/j.1468-0017.1997.tb00061.x
 * Ramsey, William, Stephen P. Stich, and Joseph Garon, 1991, “Connectionism, Eliminativism, and the Future of Folk Psychology”, in Ramsey, Stich, and Rumelhart 1991: 199–228.
 * Ramsey, William, Stephen P. Stich, and David E. Rumelhart, 1991, *Philosophy and Connectionist Theory*, Hillsdale, N.J.: Erlbaum.
-* Rao, Rajesh P. N. and Dana H. Ballard, 1999, “Predictive Coding in the Visual Cortex: A Functional Interpretation of Some Extra-Classical Receptive-Field Effects”, *Nature Neuroscience*, 2(1): 79–87. doi:10.1038/4580
-* Rohde, Douglas L. T. and David C. Plaut, 2003, “Connectionist Models of Language Processing”, *Cognitive Studies* (Japan), 10(1): 10–28. doi:10.11225/jcss.10.10
-* Roth, Martin, 2005, “Program Execution in Connectionist Networks”, *Mind & Language*, 20(4): 448–467. doi:10.1111/j.0268-1064.2005.00295.x
+* Rao, Rajesh P. N. and Dana H. Ballard, 1999, “Predictive Coding in the Visual Cortex: A Functional Interpretation of Some Extra-Classical Receptive-Field Effects”, *Nature Neuroscience*, 2(1): 79–87. doi: 10.1038/4580
+* Rohde, Douglas L. T. and David C. Plaut, 2003, “Connectionist Models of Language Processing”, *Cognitive Studies* (Japan), 10(1): 10–28. doi: 10.11225/jcss.10.10
+* Roth, Martin, 2005, “Program Execution in Connectionist Networks”, *Mind & Language*, 20(4): 448–467. doi: 10.1111/j.0268-1064.2005.00295.x
 * Rumelhart, David E. and James L. McClelland, 1986, “On Learning the Past Tenses of English Verbs”, in McClelland, Rumelhart, and the PDP group 1986: 216–271.
 * Rumelhart, David E., James L. McClelland, and the PDP Research Group (eds), 1986, *Parallel Distributed Processing, Volume 1: Explorations in the Microstructure of Cognition: Foundations*, Cambridge, MA: MIT Press.
 * Sadler, Matthew and Natasha Regan, 2019, *Game Changer: AlphaZero’s Groundbreaking Chess Strategies and the Promise of AI*, Alkmaar: New in Chess.
-* Schmidhuber, Jürgen, 2015, “Deep Learning in Neural Networks: An Overview”, *Neural Networks*, 61: 85–117. doi:10.1016/j.neunet.2014.09.003
-* Schwarz, Georg, 1992, “Connectionism, Processing, Memory”, *Connection Science*, 4(3–4): 207–226. doi:10.1080/09540099208946616
+* Schmidhuber, Jürgen, 2015, “Deep Learning in Neural Networks: An Overview”, *Neural Networks*, 61: 85–117. doi: 10.1016/j.neunet.2014.09.003
+* Schwarz, Georg, 1992, “Connectionism, Processing, Memory”, *Connection Science*, 4(3–4): 207–226. doi: 10.1080/09540099208946616
 * Sejnowski, Terrence J. and Charles R. Rosenberg, 1987, “Parallel Networks that Learn to Pronounce English Text”, *Complex Systems*, 1(1): 145–168, [available online](https://www.complex-systems.com/abstracts/v01_i01_a10/).
-* Servan-Schreiber, David, Axel Cleeremans, and James L. McClelland, 1991, “Graded State Machines: The Representation of Temporal Contingencies in Simple Recurrent Networks”, in Touretzky 1991: 57–89. doi:10.1007/978-1-4615-4008-3_4
-* Shastri, Lokendra and Venkat Ajjanagadde, 1993, “From Simple Associations to Systematic Reasoning: A Connectionist Representation of Rules, Variables and Dynamic Bindings Using Temporal Synchrony”, *Behavioral and Brain Sciences*, 16(3): 417–451. doi:10.1017/S0140525X00030910
-* Shea, Nicholas, 2007, “Content and Its Vehicles in Connectionist Systems”, *Mind & Language*, 22(3): 246–269. doi:10.1111/j.1468-0017.2007.00308.x
-* Shevlin, Henry and Marta Halina, 2019, “Apply Rich Psychological Terms in AI with Care”, *Nature Machine Intelligence*, 1(4): 165–167. doi:10.1038/s42256-019-0039-y
+* Servan-Schreiber, David, Axel Cleeremans, and James L. McClelland, 1991, “Graded State Machines: The Representation of Temporal Contingencies in Simple Recurrent Networks”, in Touretzky 1991: 57–89. doi: 10.1007/978-1-4615-4008-3_4
+* Shastri, Lokendra and Venkat Ajjanagadde, 1993, “From Simple Associations to Systematic Reasoning: A Connectionist Representation of Rules, Variables and Dynamic Bindings Using Temporal Synchrony”, *Behavioral and Brain Sciences*, 16(3): 417–451. doi: 10.1017/S0140525X00030910
+* Shea, Nicholas, 2007, “Content and Its Vehicles in Connectionist Systems”, *Mind & Language*, 22(3): 246–269. doi: 10.1111/j.1468-0017.2007.00308.x
+* Shevlin, Henry and Marta Halina, 2019, “Apply Rich Psychological Terms in AI with Care”, *Nature Machine Intelligence*, 1(4): 165–167. doi: 10.1038/s42256-019-0039-y
 * Shultz, Thomas R. and Alan C. Bale, 2001, “Neural Network Simulation of Infant Familiarization to Artificial Sentences”, *Infancy*, 2(4): 501–536.
-* –––, 2006, “Neural Networks Discover a Near-Identity Relation to Distinguish Simple Syntactic Forms”, *Minds and Machines*, 16(2): 107–139. doi:10.1007/s11023-006-9029-z
-* Silver, David, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, et al., 2018, “A General Reinforcement Learning Algorithm That Masters Chess, Shogi, and Go through Self-Play”, *Science*, 362(6419): 1140–1144. doi:10.1126/science.aar6404
-* Smolensky, Paul, 1987, “The Constituent Structure of Connectionist Mental States: A Reply to Fodor and Pylyshyn”, *The Southern Journal of Philosophy*, 26(S1): 137–161. doi:10.1111/j.2041-6962.1988.tb00470.x
-* –––, 1988, “On the Proper Treatment of Connectionism”, *Behavioral and Brain Sciences*, 11(1): 1–23. doi:10.1017/S0140525X00052432
-* –––, 1990 [1991], “Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems”, *Artificial Intelligence*, 46(1–2): 159–216. Reprinted in Hinton 1991: 159–216. doi:10.1016/0004-3702(90)90007-M
+* –––, 2006, “Neural Networks Discover a Near-Identity Relation to Distinguish Simple Syntactic Forms”, *Minds and Machines*, 16(2): 107–139. doi: 10.1007/s11023-006-9029-z
+* Silver, David, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, et al., 2018, “A General Reinforcement Learning Algorithm That Masters Chess, Shogi, and Go through Self-Play”, *Science*, 362(6419): 1140–1144. doi: 10.1126/science.aar6404
+* Smolensky, Paul, 1987, “The Constituent Structure of Connectionist Mental States: A Reply to Fodor and Pylyshyn”, *The Southern Journal of Philosophy*, 26(S1): 137–161. doi: 10.1111/j.2041-6962.1988.tb00470.x
+* –––, 1988, “On the Proper Treatment of Connectionism”, *Behavioral and Brain Sciences*, 11(1): 1–23. doi: 10.1017/S0140525X00052432
+* –––, 1990 [1991], “Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems”, *Artificial Intelligence*, 46(1–2): 159–216. Reprinted in Hinton 1991: 159–216. doi: 10.1016/0004-3702(90)90007-M
 * –––, 1995, “Constituent Structure and Explanation in an Integrated Connectionist/Symbolic Cognitive Architecture”, in MacDonald and MacDonald 1995: .
-* St. John, Mark F. and James L. McClelland, 1990 [1991], “Learning and Applying Contextual Constraints in Sentence Comprehension”, *Artificial Intelligence*, 46(1–2): 217–257. Reprinted in Hinton 1991: 217–257 doi:10.1016/0004-3702(90)90008-N
+* St. John, Mark F. and James L. McClelland, 1990 [1991], “Learning and Applying Contextual Constraints in Sentence Comprehension”, *Artificial Intelligence*, 46(1–2): 217–257. Reprinted in Hinton 1991: 217–257 doi: 10.1016/0004-3702(90)90008-N
 * Tomberlin, James E. (ed.), 1995, *Philosophical Perspectives 9: AI, Connectionism and Philosophical Psychology*, Atascadero: Ridgeview Press.
 * Touretzky, David S. (ed.), 1989, *Advances in Neural Information Processing Systems I*, San Mateo, CA: Kaufmann, [available online](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-1-1988).
 * ––– (ed.), 1990, *Advances in Neural Information Processing Systems II*, San Mateo, CA: Kaufmann.
-* ––– (ed.), 1991, *Connectionist Approaches to Language Learning*, Boston, MA: Springer US. doi:10.1007/978-1-4615-4008-3
+* ––– (ed.), 1991, *Connectionist Approaches to Language Learning*, Boston, MA: Springer US. doi: 10.1007/978-1-4615-4008-3
 * Touretzky, David S., Geoffrey E. Hinton, and Terrence Joseph Sejnowski (eds), 1988, *Proceedings of the 1988 Connectionist Models Summer School*, San Mateo, CA: Kaufmann.
-* Van Gelder, Tim, 1990, “Compositionality: A Connectionist Variation on a Classical Theme”, *Cognitive Science*, 14(3): 355–384. doi:10.1016/0364-0213(90)90017-Q
+* Van Gelder, Tim, 1990, “Compositionality: A Connectionist Variation on a Classical Theme”, *Cognitive Science*, 14(3): 355–384. doi: 10.1016/0364-0213(90)90017-Q
 * –––, 1991, “What is the ‘D’ in PDP?” in Ramsey, Stich, and Rumelhart 1991: 33–59.
 * Van Gelder, Timothy and Robert Port, 1993, “Beyond Symbolic: Prolegomena to a Kama-Sutra of Compositionality”, in Vasant G Honavar, Leonard Uhr (eds.), *Symbol Processing and Connectionist Models in AI and Cognition: Steps Towards Integration*, Boston: Academic Press.
-* Vilcu, Marius and Robert F. Hadley, 2005, “Two Apparent ‘Counterexamples’ to Marcus: A Closer Look”, *Minds and Machines*, 15(3–4): 359–382. doi:10.1007/s11023-005-9000-4
-* Von Eckardt, Barbara, 2003, “The Explanatory Need for Mental Representations in Cognitive Science”, *Mind & Language*, 18(4): 427–439. doi:10.1111/1468-0017.00235
+* Vilcu, Marius and Robert F. Hadley, 2005, “Two Apparent ‘Counterexamples’ to Marcus: A Closer Look”, *Minds and Machines*, 15(3–4): 359–382. doi: 10.1007/s11023-005-9000-4
+* Von Eckardt, Barbara, 2003, “The Explanatory Need for Mental Representations in Cognitive Science”, *Mind & Language*, 18(4): 427–439. doi: 10.1111/1468-0017.00235
 * –––, 2005, “Connectionism and the Propositional Attitudes”, in Christina Erneling and David Martel Johnson (eds.), *The Mind as a Scientific Object: Between Brain and Culture*, New York: Oxford University Press.
-* Waltz, David L. and Jordan B. Pollack, 1985, “Massively Parallel Parsing: A Strongly Interactive Model of Natural Language Interpretation*”, *Cognitive Science*, 9(1): 51–74. doi:10.1207/s15516709cog0901_4
-* Wermter, Stefan and Ron Sun (eds.), 2000, *Hybrid Neural Systems*, (Lecture Notes in Computer Science 1778), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/10719871
-* Yamins, Daniel L. K. and James J. DiCarlo, 2016, “Using Goal-Driven Deep Learning Models to Understand Sensory Cortex”, *Nature Neuroscience*, 19(3): 356–365. doi:10.1038/nn.4244
-* Yosinski, Jason, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson, 2015, “Understanding Neural Networks Through Deep Visualization”, *Deep Learning Workshop, 31st International Conference on Machine Learning*, Lille, France, [available online](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf).
-* Zhou, Zhenglong and Chaz Firestone, 2019, “Humans Can Decipher Adversarial Images”, *Nature Communications*, 10(1): 1334. doi:10.1038/s41467-019-08931-6
+* Waltz, David L. and Jordan B. Pollack, 1985, “Massively Parallel Parsing: A Strongly Interactive Model of Natural Language Interpretation *”, * Cognitive Science*, 9(1): 51–74. doi: 10.1207/s15516709cog0901_4
+* Wermter, Stefan and Ron Sun (eds.), 2000, * Hybrid Neural Systems*, (Lecture Notes in Computer Science 1778), Berlin, Heidelberg: Springer Berlin Heidelberg. doi: 10.1007/10719871
+* Yamins, Daniel L. K. and James J. DiCarlo, 2016, “Using Goal-Driven Deep Learning Models to Understand Sensory Cortex”, * Nature Neuroscience*, 19(3): 356–365. doi: 10.1038/nn.4244
+* Yosinski, Jason, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson, 2015, “Understanding Neural Networks Through Deep Visualization”, * Deep Learning Workshop, 31st International Conference on Machine Learning*, Lille, France, [available online](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf).
+* Zhou, Zhenglong and Chaz Firestone, 2019, “Humans Can Decipher Adversarial Images”, * Nature Communications*, 10(1): 1334. doi: 10.1038/s41467-019-08931-6
 
 ## Academic Tools
 

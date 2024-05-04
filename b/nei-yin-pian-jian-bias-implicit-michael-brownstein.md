@@ -2,7 +2,7 @@
 
 *首次发表于 2015 年 2 月 26 日；实质性修订于 2019 年 7 月 31 日*
 
-对“内隐偏见”的研究表明，人们可能在没有意图的情况下基于偏见和刻板印象行事。虽然“内隐社会认知”领域的心理学家研究消费品、自尊心、食物、酒精、政治价值观等多个方面，但最引人注目和广为人知的研究集中在对社会受到污名的群体成员（如非洲裔美国人、女性和 LGBTQ 社群）的内隐偏见上。\[1] 例如，想象一下弗兰克，他明确认为女性和男性同样适合从事家庭外的职业。尽管他明确持有平等主义的信念，但弗兰克可能仍会以多种有偏见的方式行事，从不信任女同事的反馈到雇佣同样符合条件的男性而不是女性。弗兰克歧视性行为的部分原因可能是内隐的性别偏见。心理学对内隐偏见的研究一直在稳步增长\[2]，引发了形而上学\[3]、认识论\[4]和伦理学问题\[5]的讨论。
+对“内隐偏见”的研究表明，人们可能在没有意图的情况下基于偏见和刻板印象行事。虽然“内隐社会认知”领域的心理学家研究消费品、自尊心、食物、酒精、政治价值观等多个方面，但最引人注目和广为人知的研究集中在对社会受到污名的群体成员（如非洲裔美国人、女性和 LGBTQ 社群）的内隐偏见上。\[1] 例如，想象一下弗兰克，他明确认为女性和男性同样适合从事家庭外的职业。尽管他明确持有平等主义的信念，但弗兰克可能仍会以多种有偏见的方式行事，从不信任女同事的反馈到雇佣同样符合条件的男性而不是女性。弗兰克歧视性行为的部分原因可能是内隐的性别偏见。心理学对内隐偏见的研究一直在稳步增长\[2]，引发了形而上学\[3]、认识论\[4] 和伦理学问题\[5] 的讨论。
 
 ***
 
@@ -24,7 +24,7 @@
 
 因此，内隐测量可以被视为一种间接评估人们思想、感受和行为的工具，即不依赖于“自我报告”。然而，这种观点过于草率。例如，一个调查问卷询问“你对黑人有什么看法”是明确和直接的，因为受试者的判断既是明确报告的，又是直接询问研究者感兴趣的主题。然而，一个调查问卷询问“你对达内尔有什么看法”（即一个具有典型黑人名字的人）是明确但间接的，因为受试者的判断是明确报告的，但被研究者推断出来的是被判断的内容（即受试者对种族的态度）。直接和间接测量之间的区别也是相对而非绝对的。即使在一些直接测量中，如人格问卷，受试者可能并不完全意识到正在研究什么。
 
-在文献中，“内隐”一词用于至少四个不同的含义（Gawronski＆Brannon 2017）：（1）一个独特的心理构建，如“内隐态度”，通过各种工具进行评估；（2）一类被称为“内隐测量”的工具，以特定方式评估人们的思想和感受（例如，以一种最大程度减少受试者依赖内省和策略性回应能力的方式）；（3）一组认知和情感过程——“内隐过程”，影响各种测量的反应；以及（4）一种由特定情况引发的评价行为，例如认知负荷。在本文中，除非另有说明，我将使用（2）和（4）的“内隐”含义。这种方法的一个优点是可以对内隐测量所评估的现象的性质保持不可知。\[4]再考虑一下弗兰克。他的内隐性别偏见可以通过几种不同的工具进行评估，例如顺序启动或“内隐联想测试”（IAT；Greenwald 等，1998）。IAT 是最著名的内隐测试，是一种反应时间测量。在标准的 IAT 中，受试者试图尽快将单词或图片分类到不同的类别中，并尽量减少错误。在下面的图像中，正确答案将是左、右、左、右。
+在文献中，“内隐”一词用于至少四个不同的含义（Gawronski＆Brannon 2017）：（1）一个独特的心理构建，如“内隐态度”，通过各种工具进行评估；（2）一类被称为“内隐测量”的工具，以特定方式评估人们的思想和感受（例如，以一种最大程度减少受试者依赖内省和策略性回应能力的方式）；（3）一组认知和情感过程——“内隐过程”，影响各种测量的反应；以及（4）一种由特定情况引发的评价行为，例如认知负荷。在本文中，除非另有说明，我将使用（2）和（4）的“内隐”含义。这种方法的一个优点是可以对内隐测量所评估的现象的性质保持不可知。\[4] 再考虑一下弗兰克。他的内隐性别偏见可以通过几种不同的工具进行评估，例如顺序启动或“内隐联想测试”（IAT；Greenwald 等，1998）。IAT 是最著名的内隐测试，是一种反应时间测量。在标准的 IAT 中，受试者试图尽快将单词或图片分类到不同的类别中，并尽量减少错误。在下面的图像中，正确答案将是左、右、左、右。
 
 ![中间是一个黑色方框，上方左侧是白色字体的“Michelle”，上方右侧是绿色字体的“女性”或白色字体的“家庭”，下方右侧是绿色字体的“男性”或白色字体的“职业”](https://plato.stanford.edu/entries/implicit-bias/image1.png)
 
@@ -76,7 +76,7 @@ Gendler 写道，“拥有 alief”意味着
 
 根据根德勒（Gendler）的观点，内隐信念（aliefs）可以解释许多原本令人困惑的信念与行为不一致的情况，包括不仅仅是内隐偏见，还有恐惧症、虚构情感和不良习惯（2008b: 554）。事实上，根德勒还提出（2008a: 663），无论行为是否与信念一致，内隐信念都在很大程度上对人类行为的“每时每刻的管理”负有因果责任。
 
-批评者对这种方法提出了许多关切，特别是关于所谓的内隐信念是否形成了一个统一的类别（Egan 2011; Currie & Ichino 2012; Doggett 2012; Nagel 2012; Mandelbaum 2013）。其他人则提出了关于行动导向的双重态度的替代概念。例如，布朗斯坦（Brownstein）和马德瓦（Madva）（2012a,b；另见 Madva 和 Brownstein 2018 以及 Brownstein 2018）提出，内隐态度由 F-T-B-A 组成：显著特征（F）的感知触发了自动的低层次情感紧张感（T），而这又与特定的行为反应（B）相关联，这些行为反应要么缓解，要么不缓解主体感受到的紧张感（A）。这种方法与根德勒的观点一样，即内隐信念/态度与明示信念/态度在种类上有所不同。此外，这些所谓的状态之间的区别不一定是主体对它们的内省访问。根德勒提出，当主体需要新的相关信息时，典范性信念会进行更新，而典范性内隐信念则不会。相反，布朗斯坦和马德瓦认为，内隐态度会在面对新信息时进行更新——这就是“缓解”所起到的前馈功能——因此可以自动且灵活地随时间修改和改进。因此，对于布朗斯坦和马德瓦来说，内隐态度不仅与偏见和成见有关，还与熟练、智能甚至道德行为有关。\[7]然而，根据布朗斯坦和马德瓦的观点，内隐态度并不是弹道式、对信息不敏感的反射，它们也不以与普通态度相同的方式进行更新。布朗斯坦和马德瓦通过两个关键特征来区分它们。首先，内隐态度在信息呈现的逻辑形式上典型上不敏感。例如，研究对象已被证明会根据信息及其否定形式形成等效的内隐态度（例如，Gawronski 等人，2008 年）。其次，内隐态度未能以系统性方式对其他心理状态的语义内容做出反应；它们似乎“推理贫乏”。例如，内隐态度与难以给出推理解释的行为有关（例如，Dovidio 等人，1997 年），并且内隐态度会对无关信息做出改变（例如，Gregg 等人，2006 年；Han 等人，2006 年）。列维（Levy）（2012 年，2015 年）认为内隐态度是“不完全认同”的，他对内隐态度的更新与不更新提出了类似的观点，尽管他并没有像根德勒、布朗斯坦和马德瓦那样认为这些状态是“行动导向”的。关于这些发现的辩论仍在进行中（§2.3）。
+批评者对这种方法提出了许多关切，特别是关于所谓的内隐信念是否形成了一个统一的类别（Egan 2011; Currie & Ichino 2012; Doggett 2012; Nagel 2012; Mandelbaum 2013）。其他人则提出了关于行动导向的双重态度的替代概念。例如，布朗斯坦（Brownstein）和马德瓦（Madva）（2012a, b；另见 Madva 和 Brownstein 2018 以及 Brownstein 2018）提出，内隐态度由 F-T-B-A 组成：显著特征（F）的感知触发了自动的低层次情感紧张感（T），而这又与特定的行为反应（B）相关联，这些行为反应要么缓解，要么不缓解主体感受到的紧张感（A）。这种方法与根德勒的观点一样，即内隐信念/态度与明示信念/态度在种类上有所不同。此外，这些所谓的状态之间的区别不一定是主体对它们的内省访问。根德勒提出，当主体需要新的相关信息时，典范性信念会进行更新，而典范性内隐信念则不会。相反，布朗斯坦和马德瓦认为，内隐态度会在面对新信息时进行更新——这就是“缓解”所起到的前馈功能——因此可以自动且灵活地随时间修改和改进。因此，对于布朗斯坦和马德瓦来说，内隐态度不仅与偏见和成见有关，还与熟练、智能甚至道德行为有关。\[7] 然而，根据布朗斯坦和马德瓦的观点，内隐态度并不是弹道式、对信息不敏感的反射，它们也不以与普通态度相同的方式进行更新。布朗斯坦和马德瓦通过两个关键特征来区分它们。首先，内隐态度在信息呈现的逻辑形式上典型上不敏感。例如，研究对象已被证明会根据信息及其否定形式形成等效的内隐态度（例如，Gawronski 等人，2008 年）。其次，内隐态度未能以系统性方式对其他心理状态的语义内容做出反应；它们似乎“推理贫乏”。例如，内隐态度与难以给出推理解释的行为有关（例如，Dovidio 等人，1997 年），并且内隐态度会对无关信息做出改变（例如，Gregg 等人，2006 年；Han 等人，2006 年）。列维（Levy）（2012 年，2015 年）认为内隐态度是“不完全认同”的，他对内隐态度的更新与不更新提出了类似的观点，尽管他并没有像根德勒、布朗斯坦和马德瓦那样认为这些状态是“行动导向”的。关于这些发现的辩论仍在进行中（§2.3）。
 
 **2.1.3 单一态度**
 
@@ -94,7 +94,7 @@ RIM 和 APE 与上述哲学中讨论的双重态度理论相似。事实上，Bo
 
 #### 2.3.1 内隐态度的命题模型
 
-在心理学文献中，德·豪尔（De Houwer）及其同事们提出了一种被认为支持矛盾信念的观点（Mitchell 等人，2009 年；Hughes 等人，2011 年；德·豪尔，2014 年）。根据这个模型，命题\[[10](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-10)]具有三个定义特征：（1）命题是关于世界的陈述，指明了概念之间的关系性质（例如，“我是好人”和“我想成为好人”是涉及相同两个概念——“我”和“好人”的命题，但在概念关系上有所不同）；（2）命题可以根据指令或推理迅速形成；（3）受试者对命题有意识（德·豪尔，2014 年）。根据与这些标准一致的数据，例如，内隐测量的反应受到一次性指令的影响，德·豪尔（2014 年）认为内隐测量捕捉到了命题状态（即信念）\[[11](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-11)]。这一观点代表了米切尔等人（2009 年）更广泛的论证，即_所有_学习都是命题性的（即没有一种情况是学习是由心理表征的自动联想链接所导致的）。哲学家对这一观点感兴趣的原因之一是因为它与心灵哲学中经验主义者和理性主义者、行为主义者和认知主义者等经典辩论相 resonates。
+在心理学文献中，德 · 豪尔（De Houwer）及其同事们提出了一种被认为支持矛盾信念的观点（Mitchell 等人，2009 年；Hughes 等人，2011 年；德 · 豪尔，2014 年）。根据这个模型，命题\[[10](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-10)]具有三个定义特征：（1）命题是关于世界的陈述，指明了概念之间的关系性质（例如，“我是好人”和“我想成为好人”是涉及相同两个概念——“我”和“好人”的命题，但在概念关系上有所不同）；（2）命题可以根据指令或推理迅速形成；（3）受试者对命题有意识（德 · 豪尔，2014 年）。根据与这些标准一致的数据，例如，内隐测量的反应受到一次性指令的影响，德 · 豪尔（2014 年）认为内隐测量捕捉到了命题状态（即信念）\[[11](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-11)]。这一观点代表了米切尔等人（2009 年）更广泛的论证，即_所有_学习都是命题性的（即没有一种情况是学习是由心理表征的自动联想链接所导致的）。哲学家对这一观点感兴趣的原因之一是因为它与心灵哲学中经验主义者和理性主义者、行为主义者和认知主义者等经典辩论相 resonates。
 
 #### 2.3.2 通用信念
 
@@ -110,7 +110,7 @@ SBF 对普通信念概念具有强烈的修正主义倾向（但参见 Helton（
 
 ### 2.4 特质
 
-与“态度”和“命题性”等术语一样，心理学家和哲学家在使用“特质”一词时往往有不同的方式。在心理学中，特质样的构建在时间和情境上是稳定的。如果你一直不喜欢吃猪肉，无论情境如何都不吃，那么你对猪肉的感觉就是特质样的。如果你有时拒绝吃猪肉，但有时根据公司或心情而放纵自己，那么你的感觉更像是“状态”样的。从心理学家的角度来看，有很多证据表明内隐偏见更像是状态样的，而不是特质样的。多个纵向研究发现，个体在内隐测量上的得分在几天、几周和几个月内变化很大，远远超过相应显性测量上的得分（Cooley 和 Payne 2017; Cunningham 等人 2001; Devine 等人 2012; Gawronski 等人 2017）。当然，这的重要性取决于一个人对内隐偏见的理论。如果内隐测量被理论化为捕捉自发情感反应（如 APE 所建议的；§2.2），那么在性能上的情境和时间变异应该是可以“预测”的（例如，在观看了关于露丝·巴德·金斯伯格的纪录片之后，对女性领导人形象的即时反应很可能与在观看了《迷失东京》之后的反应不同）。然而，如果内隐测量旨在“诊断”个体的稳定特征，如政党倾向，那么应该预期变异较小。另一个可能性是测量误差对内隐测量得分的不稳定性有很大贡献。事实上，方法改进在某些情况下提高了参与者性能的时间稳定性，支持了这个观点（例如，Cooley 和 Payne 2017）。
+与“态度”和“命题性”等术语一样，心理学家和哲学家在使用“特质”一词时往往有不同的方式。在心理学中，特质样的构建在时间和情境上是稳定的。如果你一直不喜欢吃猪肉，无论情境如何都不吃，那么你对猪肉的感觉就是特质样的。如果你有时拒绝吃猪肉，但有时根据公司或心情而放纵自己，那么你的感觉更像是“状态”样的。从心理学家的角度来看，有很多证据表明内隐偏见更像是状态样的，而不是特质样的。多个纵向研究发现，个体在内隐测量上的得分在几天、几周和几个月内变化很大，远远超过相应显性测量上的得分（Cooley 和 Payne 2017; Cunningham 等人 2001; Devine 等人 2012; Gawronski 等人 2017）。当然，这的重要性取决于一个人对内隐偏见的理论。如果内隐测量被理论化为捕捉自发情感反应（如 APE 所建议的；§2.2），那么在性能上的情境和时间变异应该是可以“预测”的（例如，在观看了关于露丝 · 巴德 · 金斯伯格的纪录片之后，对女性领导人形象的即时反应很可能与在观看了《迷失东京》之后的反应不同）。然而，如果内隐测量旨在“诊断”个体的稳定特征，如政党倾向，那么应该预期变异较小。另一个可能性是测量误差对内隐测量得分的不稳定性有很大贡献。事实上，方法改进在某些情况下提高了参与者性能的时间稳定性，支持了这个观点（例如，Cooley 和 Payne 2017）。
 
 在哲学中，“特质”一词更常用于反表征主义、倾向性心灵理论的背景下。而表征主义者将“信念”等概念定义为心灵内部的表征结构，倾向性理论则将“信念”等概念定义为倾向以某种方式行为（也许还包括感受和思考）。Schwitzgebel（2006/2010, 2010, 2013）在 Ryle（1949/2009）的基础上提出了一种态度的倾向性理论（在哲学意义上，即认为信念、欲望、希望等是倾向性的理论）。在他的观点中，态度具有广泛（或“多轨道”）的特征，包括倾向以特定方式感受、思考和言说。给定态度的倾向性特征由拥有该态度的民间心理学刻板印象决定，而不是由代理人的隐喻性“信念盒子”内部的内容决定。例如，要确定乔丹是否相信女性是优秀的哲学家，可以看她对女性哲学家的评价，她对哪些哲学家优秀哪些不优秀的判断，她的招聘实践，她对男性和女性哲学家的直觉感受等。具有内隐偏见的代理人对倾向性理论提出了有趣的挑战，因为这些代理人往往只部分符合相关的民间心理学刻板印象。例如，乔丹可能会说她相信女性是优秀的哲学家，但却不阅读任何女性哲学家的作品（或者回想起弗兰克；[§1](https://plato.stanford.edu/entries/implicit-bias/#IntrHistMeasImplSociCogn)）。在 Schwitzgebel 的“渐进倾向性理论”中，乔丹和弗兰克将成为“中间信念者”，即在某种程度上符合所讨论态度的相关民间心理学刻板印象的代理人。
 
@@ -134,7 +134,7 @@ SBF 对普通信念概念具有强烈的修正主义倾向（但参见 Helton（
 
 内隐偏见通常被认为是无意识的（§2.1.1），但这究竟意味着什么？有几种可能性：与相关心理状态或倾向相关联的现象学可能不存在；代理人可能不知道其内隐测量表现背后的表征内容，或者可能不知道其内隐偏见的来源以及这些偏见对其行为的影响；代理人可能不知道其相关状态之间的关系（例如，其对给定目标的内隐和外显评价之间的冲突）；代理人可能对自己的心智有不同的意识模式（例如，“访问”与“现象”意识；Block 1995）。Gawronski 和同事（2006）认为，代理人通常缺乏对其内隐偏见的“来源”和“影响”意识，但通常具有“内容”意识。\[[15](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-15)]内容意识的证据来自于“虚假管道”实验（例如，Nier 2005），在这些实验中，参与者被引导相信实验者将会发现不准确的自我报告。在这些实验中，参与者的内隐和外显测量得分越来越相关，表明参与者意识到了那些被内隐测量检测到的判断的内容，并在他们相信实验者会注意到差异时改变了自己的报告。对内容意识的其他证据可以在将内隐测量和自我报告纳入概念对齐的研究（例如，Banse 等人，2001）以及要求代理人预测自己的内隐偏见的研究中找到（Hahn 等人，2014）。事实上，Hahn 和同事（2014）以及 Hahn 和 Gawronski（2019）发现，无论测试如何描述，参与者参与测试的经验有多少，以及在参与测试之前他们得到了多少解释，人们都能很好地预测自己的 IAT 得分。此外，人们对自己在测试中的表现有独特的洞察力，这种洞察力不能通过他们对一般人的表现的信念来解释。
 
-然而，Hahn 和同事的数据并不能确定代理人是通过内省、从自己的行为中推断还是通过其他途径意识到其内隐偏见的内容（有关讨论，请参见 Berger 即将发表的文章）。这对于确定代理人对其内隐偏见的意识是否构成自我知识非常重要。如果我们对内隐偏见的内容的意识是基于我们（例如）自己的行为所做的推断，那么问题是，这些推断是否合理，假设知识包含合理的真实信念。有人提出，关于内隐偏见的事实支持对我们作为认识主体的能力持有“全局”怀疑态度（Saul 2012；见[§3.2.2](https://plato.stanford.edu/entries/implicit-bias/#GlobSkep)）。如果这是正确的，那么我们应该担心我们对自己内隐偏见内容的推断，从我们日常行为的各种方式中得出的推断很可能是不合理的。然而，其他人则认为人们通常非常善于解读自己的心智（例如，Carruthers 2009；Levy 2012），在这种情况下，我们对自己内隐偏见内容的推断更有可能是合理的。但是，如果被证明我们对自己的偏见有直接的内省访问权限，那么我们对自己心智的推断是否合理就无关紧要了。
+然而，Hahn 和同事的数据并不能确定代理人是通过内省、从自己的行为中推断还是通过其他途径意识到其内隐偏见的内容（有关讨论，请参见 Berger 即将发表的文章）。这对于确定代理人对其内隐偏见的意识是否构成自我知识非常重要。如果我们对内隐偏见的内容的意识是基于我们（例如）自己的行为所做的推断，那么问题是，这些推断是否合理，假设知识包含合理的真实信念。有人提出，关于内隐偏见的事实支持对我们作为认识主体的能力持有“全局”怀疑态度（Saul 2012；见 [§3.2.2](https://plato.stanford.edu/entries/implicit-bias/#GlobSkep)）。如果这是正确的，那么我们应该担心我们对自己内隐偏见内容的推断，从我们日常行为的各种方式中得出的推断很可能是不合理的。然而，其他人则认为人们通常非常善于解读自己的心智（例如，Carruthers 2009；Levy 2012），在这种情况下，我们对自己内隐偏见内容的推断更有可能是合理的。但是，如果被证明我们对自己的偏见有直接的内省访问权限，那么我们对自己心智的推断是否合理就无关紧要了。
 
 ### 3.2 怀疑主义
 
@@ -142,7 +142,7 @@ SBF 对普通信念概念具有强烈的修正主义倾向（但参见 Helton（
 
 #### 3.2.1 感知信念
 
-与首先展示白人面孔图片的参与者相比，那些在佩恩（2001）中被暗示黑人面孔的参与者更快地将枪的图片识别为枪，并更有可能将工具的图片误认为枪。这一发现已经得到了直接和概念上的复制（例如，佩恩等人，2002 年；康瑞等人，2005 年），并且是关于态度和信念对感知影响的更广泛发现的一个例子（例如，巴里克等人，2002 年；普罗菲特，2006 年）。佩恩的发现在近年来警察枪杀无辜黑人男子（如阿马杜·迪亚洛和奥斯卡·格兰特）的情况下尤为令人不安。这些发现表明，认知主体对“黑人男子”和“枪支”的内隐联系可能通过影响他们的判断和行为来影响他们所看到的东西。除了道德上的含义外，这可能引起一种特定类型的认识论关注。正如西格尔（2012 年，2017 年，即将出版）所说，担忧在于内隐偏见引入了一种循环结构到信念形成中。如果一个认知主体相信黑人男子比白人男子更有可能拥有或使用枪支，并且这种信念导致认知主体更容易将黑人男子手中的模糊物体视为枪支，那么当认知主体依赖视觉感知作为证据来确认她的信念时，她将陷入一种恶性循环。
+与首先展示白人面孔图片的参与者相比，那些在佩恩（2001）中被暗示黑人面孔的参与者更快地将枪的图片识别为枪，并更有可能将工具的图片误认为枪。这一发现已经得到了直接和概念上的复制（例如，佩恩等人，2002 年；康瑞等人，2005 年），并且是关于态度和信念对感知影响的更广泛发现的一个例子（例如，巴里克等人，2002 年；普罗菲特，2006 年）。佩恩的发现在近年来警察枪杀无辜黑人男子（如阿马杜 · 迪亚洛和奥斯卡 · 格兰特）的情况下尤为令人不安。这些发现表明，认知主体对“黑人男子”和“枪支”的内隐联系可能通过影响他们的判断和行为来影响他们所看到的东西。除了道德上的含义外，这可能引起一种特定类型的认识论关注。正如西格尔（2012 年，2017 年，即将出版）所说，担忧在于内隐偏见引入了一种循环结构到信念形成中。如果一个认知主体相信黑人男子比白人男子更有可能拥有或使用枪支，并且这种信念导致认知主体更容易将黑人男子手中的模糊物体视为枪支，那么当认知主体依赖视觉感知作为证据来确认她的信念时，她将陷入一种恶性循环。
 
 无论内隐偏见是否引起这种认识上的关注，取决于社会态度对视觉感知的因果影响。如果黑人的暗示使工具的图像看起来像枪支，通过对感知体验本身的影响（Siegel 2012, 2017, 未来），那么佩恩的武器偏见研究结果将成为“认知渗透”的一个案例。这无疑会在信念形成中引入循环结构。其他情景则提出了非法信念形成的可能性，而没有真正的认知渗透。考虑 Siegel 所称的“感知绕过”：黑人的暗示并不会使工具看起来像枪支（即，暗示并不会导致感知体验的变化），但是代理人的某种状态，例如高度焦虑的状态，受到黑人的影响，并导致代理人产生分类错误。这将被视为非法信念形成的一种情况，因为代理人的社会态度使她对自己的视觉刺激不敏感，从而证实了她的先前态度（Siegel 2012）。其他情景可能会减轻对非法信念形成的担忧。例如，Siegel 所称的“不承认的行为”提出了与“感知绕过”相同的分类错误路径，只是代理人事先将其错误视为错误。经验证据可以帮助澄清这些可能性，尽管可能无法最终解决它们之间的争议（例如，Correll 等人 2015 年）。
 
@@ -152,7 +152,7 @@ SBF 对普通信念概念具有强烈的修正主义倾向（但参见 Helton（
 
 每当我们考虑一个主张、一个论点、一个建议、一个问题等，来自一个我们能够识别其明显社会群体的人时（Saul 2012: 250）。
 
-如果能够开发出成功的干预措施来纠正内隐偏见导致的认识误差，就可以减少与偏见相关的怀疑。在某些情况下，修复可能很简单，比如对求职者档案进行匿名审查。但其他情境肯定会更具挑战性。\[[17](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-17)]总的来说，Saul 对与偏见相关的怀疑的描述对我们无意识习惯的规范性持有强烈的悲观态度。“她写道：“一旦我们反思了内隐偏见，很难再如何适当地信任\[我们的习惯]”(2012: 254)。然而，其他人强调了无意识习惯可以具有认识优点的方式（例如，Arpaly 2004; Railton 2014; Brownstein & Madva 2012a,b; Nagel 2012; Antony 2016）。将对我们的习惯的认识状态持悲观态度的原因与这些思路相协调，将是未来研究中的重要问题。
+如果能够开发出成功的干预措施来纠正内隐偏见导致的认识误差，就可以减少与偏见相关的怀疑。在某些情况下，修复可能很简单，比如对求职者档案进行匿名审查。但其他情境肯定会更具挑战性。\[[17](https://plato.stanford.edu/entries/implicit-bias/notes.html#note-17)]总的来说，Saul 对与偏见相关的怀疑的描述对我们无意识习惯的规范性持有强烈的悲观态度。“她写道：“一旦我们反思了内隐偏见，很难再如何适当地信任\[我们的习惯]”(2012: 254)。然而，其他人强调了无意识习惯可以具有认识优点的方式（例如，Arpaly 2004; Railton 2014; Brownstein & Madva 2012a, b; Nagel 2012; Antony 2016）。将对我们的习惯的认识状态持悲观态度的原因与这些思路相协调，将是未来研究中的重要问题。
 
 ### 3.3 道德/认识困境
 
@@ -176,7 +176,7 @@ Egan（2011）对于直观方式解决这个困境提出了问题，而选择了
 
 有理由认为，对我们内隐偏见的自觉意识是对这些偏见的道德责任的必要条件。索尔表达了这个直观的观点，建议我们
 
-> 放弃认为对受污名化群体的所有偏见都是“应受责备的”...\[因为一个]人不应该为他们完全不知道的内隐偏见受到指责，这种偏见仅仅是因为他们生活在一个性别歧视的文化中。（2013 年：55，原文强调）
+> 放弃认为对受污名化群体的所有偏见都是“应受责备的”...\[因为一个] 人不应该为他们完全不知道的内隐偏见受到指责，这种偏见仅仅是因为他们生活在一个性别歧视的文化中。（2013 年：55，原文强调）
 
 索尔的观点似乎与关于应受指责和内隐偏见的民间心理态度相一致。卡梅伦和同事（2010 年）发现，当描述“约翰”以歧视黑人的方式行事时，尽管“认为人们应该平等对待，不论种族”，被试者更愿意将道德责任归因于他，而不是当描述他以歧视的方式行事时，尽管他“下意识地不喜欢非裔美国人”，但他“不知道自己有这种偏见”。
 
@@ -186,7 +186,7 @@ Egan（2011）对于直观方式解决这个困境提出了问题，而选择了
 
 解开基于意识的论证的第二种方式是关注代理人对内隐偏见应该了解的内容，而不是他们实际了解的内容。这种方法将道德责任与个人的社会和认识环境联系起来。例如，Kelly＆Roedder（2008）认为，“精明的评分员”应该根据内隐偏见的研究来调整她的评分，因为她应该意识到并受到其影响。在类似的精神中，Washington＆Kelly（2016）比较了两个具有相同心理特征的理论平等主义者，他们之间唯一的区别是“老派平等主义者”在 1980 年评估简历，而“新派平等主义者”在 2014 年评估。虽然两者都没有听说过内隐偏见，但 Washington＆Kelly 认为新派平等主义者在道德上应该受到谴责，而老派平等主义者则不应该。只有新派平等主义者本应该知道自己可能存在的内隐偏见，鉴于 1980 年和 2014 年心理研究的相对状态。这里的基本直觉是，对责任的评估会随着代理人社会和认识环境的变化而改变。
 
-解开意识论的第三种方式是关注态度在意识到之后是否与代理人的其他态度相互融合（Levy 2012; 参见[§2.1](https://plato.stanford.edu/entries/implicit-bias/#Atti)）。根据这种观点，导致负责任行为的态度可供广泛的认知系统使用。例如，在认知失调实验中（例如，Festinger 1956），代理人将虚构的理由归因于自己，然后倾向于按照这些自我归因的理由行事。根据 Levy（2012）的说法，这种情况下的自我理由归因对行为具有整合效应，因此可以被视为支持道德责任所需的代理能力。关键是，当代理人意识到自己的自我归因理由时，它们才具有这种整合效应。这为主张代理人负责的态度是那些在代理人意识到这些态度的内容时能够整合行为的态度提供了依据。根据 Levy 的说法，内隐态度并非如此。道德上重要的是，
+解开意识论的第三种方式是关注态度在意识到之后是否与代理人的其他态度相互融合（Levy 2012; 参见 [§2.1](https://plato.stanford.edu/entries/implicit-bias/#Atti)）。根据这种观点，导致负责任行为的态度可供广泛的认知系统使用。例如，在认知失调实验中（例如，Festinger 1956），代理人将虚构的理由归因于自己，然后倾向于按照这些自我归因的理由行事。根据 Levy（2012）的说法，这种情况下的自我理由归因对行为具有整合效应，因此可以被视为支持道德责任所需的代理能力。关键是，当代理人意识到自己的自我归因理由时，它们才具有这种整合效应。这为主张代理人负责的态度是那些在代理人意识到这些态度的内容时能够整合行为的态度提供了依据。根据 Levy 的说法，内隐态度并非如此。道德上重要的是，
 
 > 意识到我们内隐态度的内容未能将其融入到我们个人层面的关切中，以满足直接的道德责任要求。（Levy 2012: 9）。
 
@@ -230,7 +230,7 @@ Egan（2011）对于直观方式解决这个困境提出了问题，而选择了
 
 *Priming goals, moods, and motivations* (Huntsinger et al. 2010; Moskowitz & Li 2011; Mann & Kawakami 2012): priming egalitarian goals, multicultural ideologies, or particular moods can lower scores of prejudice on implicit measures.
 
-对于这种分类干预方式存在一些疑问，因为一些基于控制的干预措施也可能改变行为者的潜在联系，而一些基于联系的干预措施也可能促进控制（Stewart＆Payne 2008; Mendoza 等，2010）。然而，更重要的是对这些干预措施的效力的担忧（Lai 等，2016），它们的实际可行性（Bargh 1999; Schneider 2004），以及它们可能分散对经济和制度不公正的更广泛问题的关注（Anderson 2010; Dixon 等，2012; 参见[§5](https://plato.stanford.edu/entries/implicit-bias/#FutuRese)）。当然，关于这些干预措施的大部分研究都是最近进行的，因此目前还不清楚哪种策略或策略组合（Devine 等，2012）会或不会有效。一些人对实验室干预措施在更广泛的打击偏见和歧视的努力中所起的作用表示乐观（例如，Kelly 等，2010a; Madva 2017）。
+对于这种分类干预方式存在一些疑问，因为一些基于控制的干预措施也可能改变行为者的潜在联系，而一些基于联系的干预措施也可能促进控制（Stewart＆Payne 2008; Mendoza 等，2010）。然而，更重要的是对这些干预措施的效力的担忧（Lai 等，2016），它们的实际可行性（Bargh 1999; Schneider 2004），以及它们可能分散对经济和制度不公正的更广泛问题的关注（Anderson 2010; Dixon 等，2012; 参见 [§5](https://plato.stanford.edu/entries/implicit-bias/#FutuRese)）。当然，关于这些干预措施的大部分研究都是最近进行的，因此目前还不清楚哪种策略或策略组合（Devine 等，2012）会或不会有效。一些人对实验室干预措施在更广泛的打击偏见和歧视的努力中所起的作用表示乐观（例如，Kelly 等，2010a; Madva 2017）。
 
 ## 5. 批判性回应
 
@@ -244,7 +244,7 @@ Egan（2011）对于直观方式解决这个困境提出了问题，而选择了
 
 ### 5.2 内隐偏见与明显偏见
 
-有人认为，明显偏见可以解释内隐偏见所声称要解释的很多问题（例如，Hermanson 2017a,b, 2018（其他互联网资源）；Singal 2017；Buckwalter 2018）。例如，Jesse Singal（2017）否认内隐偏见比明显偏见更重要，指出美国司法部关于弗格森市有意识的种族歧视的调查结果，以及 2016 年美国选举出了一位相对明显的种族主义总统。
+有人认为，明显偏见可以解释内隐偏见所声称要解释的很多问题（例如，Hermanson 2017a, b, 2018（其他互联网资源）；Singal 2017；Buckwalter 2018）。例如，Jesse Singal（2017）否认内隐偏见比明显偏见更重要，指出美国司法部关于弗格森市有意识的种族歧视的调查结果，以及 2016 年美国选举出了一位相对明显的种族主义总统。
 
 Singal 和其他人无疑是对的，明显偏见和公然偏见是持久存在的，在某些地方普遍存在。然而，目前尚不清楚有谁认为内隐偏见比明显偏见更重要。哲学家们特别关注内隐偏见，是因为尽管明显偏见持续存在且普遍存在，但有很多人，可能包括阅读本文的许多人，都希望以无偏见的方式思考和行动，然而却容易受到内隐偏见研究者所研究的那种有偏见的行为的影响。这不仅是一个重要的现象本身，而且可能在因果上对 Singal 所讨论的非常令人震惊的偏见事件的主流漠不关心态度起到一定的促进作用。内隐偏见也可能在明显偏见方面起到因果作用，特别是在充斥着有偏见规范的环境中（Madva 2019）。
 
@@ -293,15 +293,15 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Arkes, H. & P. Tetlock, 2004, “Attributions of implicit prejudice, or ‘would Jesse Jackson ‘fail’ the Implicit Association Test?’”, *Psychological Inquiry*, 15: 257–278.
 * Aronson, E. & C. Cope, 1968, “My Enemy’s Enemy is My Friend”, *Journal of Personality and Social Psychology*, 8(1): 8–12.
 * Arpaly, N., 2004, *Unprincipled Virtue: An Inquiry into Moral Agency*, Oxford: Oxford University Press.
-* Ashburn-Nardo, L., M. Knowles, & M. Monteith, 2003, “Black Americans’ implicit racial associations and their implications for intergroup judgment”, *Social Cognition*, 21:1, 61–87.
+* Ashburn-Nardo, L., M. Knowles, & M. Monteith, 2003, “Black Americans’ implicit racial associations and their implications for intergroup judgment”, *Social Cognition*, 21: 1, 61–87.
 * Ayala, S., 2016, “Speech affordances: A structural take on how much we can do with our words,” *European Journal of Philosophy*, 24: 879–891.
-* –––, 2018, “A Structural Explanation of Injustice in Conversations: It’s about Norms,” *Pacific Philosophical Quarterly*, 99(4): 726–748. doi:10.1111/papq.12244
+* –––, 2018, “A Structural Explanation of Injustice in Conversations: It’s about Norms,” *Pacific Philosophical Quarterly*, 99(4): 726–748. doi: 10.1111/papq.12244
 * Banaji, M. & A. Greenwald, 2013, *Blindspot*, New York: Delacorte Press.
 * Banaji, M. & C. Hardin, 1996, “Automatic stereotyping”, *Psychological Science*, 7(3): 136–141.
 * Banaji, M., C. Hardin, & A. Rothman, 1993, “Implicit stereotyping in person judgment”, *Journal of personality and Social Psychology*, 65(2): 272.
 * Bandura, A., 1978, “The self system in reciprocal determinism,” *American Psychologist*, 33: 344–358. Banks, R. R., & R.T. Ford, 2008, “(How) Does Unconscious Bias Matter: law, Politics, and Racial Inequality,” *Emory LJ*, 58: 1053–1152.
 * Banse, R., J. Seise, & N. Zerbes, 2001, “Implicit attitudes towards homosexuality: Reliability, validity, and controllability of the IAT”, *Zeitschrift* *für Experimentelle Psychologie*, 48: 145–160.
-* Bar-Anan, Y. & B. Nosek, 2014, “A Comparative Investigation of Seven Implicit Measures of Social Cognition”, *Behavior Research Methods*, 46(3): 668–688. doi:10.3758/s13428-013-0410-6
+* Bar-Anan, Y. & B. Nosek, 2014, “A Comparative Investigation of Seven Implicit Measures of Social Cognition”, *Behavior Research Methods*, 46(3): 668–688. doi: 10.3758/s13428-013-0410-6
 * Bargh, J., 1994, “The four horsemen of automaticity: Awareness, intention, efficiency, and control in social cognition”, in *Handbook of social cognition (2nd ed.)*, R. Wyer, Jr. & T. Srull (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, Inc., pp 1–40.
 * –––, 1999, “The cognitive monster: The case against the controllability of automatic stereotype effects”, in Chaiken & Trope (eds.) 1999: 361–382.
 * Barrick, C., D. Taylor, & E. Correa, 2002, “Color sensitivity and mood disorders: biology or metaphor?”, *Journal of affective disorders*, 68(1): 67–71.
@@ -309,7 +309,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Beeghly, E., 2014, *Seeing Difference: The Epistemology and Ethics of Stereotyping*, PhD diss., University of California, Berkeley, California.
 * Beeghly, E. & A. Madva, forthcoming, *An Introduction to Implicit Bias: Knowledge, Justice, and the Social Mind*, New York: Routledge.
 * Begby, E., 2013, “The Epistemology of Prejudice”, *Thought: A Journal of Philosophy*, 2(2): 90–99.
-* Berger, J., forthcoming, “Implicit attitudes and awareness,” *Synthese*, first online 14 March 2018. doi:10.1007/s11229-018-1754-3
+* Berger, J., forthcoming, “Implicit attitudes and awareness,” *Synthese*, first online 14 March 2018. doi: 10.1007/s11229-018-1754-3
 * Bertrand, M., D. Chugh, & S. Mullainathan, 2005, “Implicit discrimination”, *American Economic Review*, 94–98.
 * Bertrand, M. & S. Mullainathan, 2004, “Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market”, NBER Working Papers from National Bureau of Economic Research, Inc., No. 9873.
 * Blanton, H., & E.G. Ikizer, 2019, “Elegant Science Narratives and Unintended Influences: An Agenda for the Science of Science Communication,” *Social Issues and Policy Review*, 13(1): 154–181.
@@ -324,11 +324,11 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * –––, forthcoming, “Skepticism about Bias,” in Beeghly & Madva (eds.), forthcoming.
 * Brownstein, M. & A. Madva, 2012a, “Ethical Automaticity”, *Philosophy of the Social Sciences*, 42(1): 67–97.
 * –––, 2012b, “The Normativity of Automaticity”, *Mind and Language*, 27(4): 410–434.
-* Brownstein, M., Madva, A., & Gawronski, B., 2019, “What do implicit measures measure?,” *WIREs Cognitive Science*. doi:10.1002/wcs.1501
+* Brownstein, M., Madva, A., & Gawronski, B., 2019, “What do implicit measures measure?,” *WIREs Cognitive Science*. doi: 10.1002/wcs.1501
 * Brownstein, M. & J. Saul (eds.), 2016A, *Implicit Bias & Philosophy: Volume I, Metaphysics and Epistemology*, Oxford: Oxford University Press.
 * ––– (eds.), 2016B, *Implicit Bias and Philosophy: Volume 2, Moral Responsibility, Structural Injustice, and Ethics*, Oxford: Oxford University Press.
-* Buckwalter, W., forthcoming, “Implicit attitudes and the ability argument,” *Philosophical Studies*, first online 15 September 2018. doi:10.1007/s11098-018-1159-7 \[[available online](https://link.springer.com/article/10.1007%2Fs11098-018-1159-7)]
-* Byrd, N., forthcoming, “What we can (and can’t) infer about implicit bias from debiasing experiments,” *Synthese*, first online 12 February 2019. doi:10.1007/s11229-019-02128-6
+* Buckwalter, W., forthcoming, “Implicit attitudes and the ability argument,” *Philosophical Studies*, first online 15 September 2018. doi: 10.1007/s11098-018-1159-7 \[[available online](https://link.springer.com/article/10.1007%2Fs11098-018-1159-7)]
+* Byrd, N., forthcoming, “What we can (and can’t) infer about implicit bias from debiasing experiments,” *Synthese*, first online 12 February 2019. doi: 10.1007/s11229-019-02128-6
 * Cameron, C., B. Payne, & J. Knobe, 2010, “Do theories of implicit race bias change moral judgments?”, *Social Justice Research*, 23: 272–289.
 * Cameron, C.D., Brown-Iannuzzi, J. L., & B.K. Payne, B. K., 2012, “Sequential priming measures of implicit social cognition: A meta-analysis of associations with behavior and explicit attitudes,” *Personality and Social Psychology Review*, 16: 330–350.
 * Carruthers, P., 2009, “How we know our own minds: the relationship between mindreading and metacognition”, *Behavioral and Brain Sciences*, 32: 121–138.
@@ -348,7 +348,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Dasgupta, N., 2004, “Implicit Ingroup Favoritism, Outgroup Favoritism, and Their Behavioral Manifestations”, *Social Justice Research*, 17(2): 143–168.
 * Dasgupta, N. & A. Greenwald, 2001, “On the malleability of automatic attitudes: Combating automatic prejudice with images of admired and disliked individuals”, *Journal of Personality and Social Psychology*, 81: 800–814.
 * Dasgupta, N. & L. Rivera, 2008, “When social context matters: The influence of long-term contact and short-term exposure to admired group members on implicit attitudes and behavioral intentions”, *Social Cognition*, 26: 112–123.
-* Davidson, L. J., & D. Kelly, forthcoming, “Minding the gap: Bias, soft structures, and the double life of social norms,” *Journal of Applied Philosophy*, first online 23 December 2018. doi:10.1111/japp.12351
+* Davidson, L. J., & D. Kelly, forthcoming, “Minding the gap: Bias, soft structures, and the double life of social norms,” *Journal of Applied Philosophy*, first online 23 December 2018. doi: 10.1111/japp.12351
 * De Houwer, J., 2009, “The propositional approach to associative learning as an alternative for association formation models,” *Learning & Behavior*, 37: 1–20.
 * –––, 2011, “Evaluative Conditioning: A review of functional knowledge and mental process theories”, in *Associative Learning and Conditioning Theory: Human and Non-Human Applications*, T. Schachtman and S. Reilly (eds.), Oxford: Oxford University Press, pp. 399–417.
 * –––, 2014, “A Propositional Model of Implicit Evaluation”, *Social Psychology and Personality Compass*, 8(7): 342–353.
@@ -367,7 +367,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Dovidio, J., K. Kawakami, & S. Gaertner, 2002, “Implicit and explicit prejudice and interracial interaction”, *Journal of Personality and Social Psychology*,82: 62–68.
 * Dovidio, J., K. Kawakami, C. Johnson, B. Johnson, & A. Howard, 1997, “On the nature of prejudice: Automatic and controlled processes”, *Journal of Experimental Social Psychology*, 33: 510–540.
 * Dreyfus, H. & S. Dreyfus, 1992, “What is Moral Maturity? Towards a Phenomenology of Ethical Expertise”, in *Revisioning Philosophy*, J. Ogilvy (ed.), Albany: State University of New York.Drug Policy Alliance, 2018, “From Prohibition to Progress: A Status Report on Marijuana Legalization,” \[[available online](http://www.drugpolicy.org/sites/default/files/dpa_marijuana_legalization_report_feb14_2018_0.pdf)].
-* Dunham, Y., M. Srinivasan, R. Dotsch, & D. Barner, 2013a, “Religion insulates ingroup evaluations: the development of intergroup attitudes in India”, *Developmental Science*, 17(2): 311–319. doi:10.1111/desc.12105
+* Dunham, Y., M. Srinivasan, R. Dotsch, & D. Barner, 2013a, “Religion insulates ingroup evaluations: the development of intergroup attitudes in India”, *Developmental Science*, 17(2): 311–319. doi: 10.1111/desc.12105
 * Dunham, Y., E. Chen, & M. Banaji, 2013b, “Two Signatures of Implicit Intergroup Attitudes Developmental Invariance and Early Enculturation”, *Psychological science*, 24(6) 860–868.
 * Egan, A., 2008, “Seeing and believing: perception, belief formation and the divided mind”, *Philosophical Studies*, 140(1): 47–63.
 * –––, 2011. “Comments on Gendler’s ‘The epistemic costs of implicit bias,’”, *Philosophical Studies*, 156: 65–79.
@@ -421,14 +421,14 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * –––, 2015, “Social Structure, Narrative, and Explanation,” *Canadian Journal of Philosophy*, 45(1): 1–15.
 * Hehman, E., Flake, J. K., & J. Calanchini, J., 2017, “Disproportionate use of lethal force in policing is associated with regional racial biases of residents,” *Social Psychological and Personality Science*, 1948550617711229.
 * Heider, F., 1958, *The Psychology of Interpersonal Relations*, New York: Wiley.
-* Hermanson, S., 2017a, “Implicit Bias, Stereotype Threat, and Political Correctness in Philosophy,” *Philosophies*, 2(2): 12. doi:10.3390/philosophies2020012 \[[available online](https://www.mdpi.com/2409-9287/2/2/12)].
+* Hermanson, S., 2017a, “Implicit Bias, Stereotype Threat, and Political Correctness in Philosophy,” *Philosophies*, 2(2): 12. doi: 10.3390/philosophies2020012 \[[available online](https://www.mdpi.com/2409-9287/2/2/12)].
 * –––, 2017b, “Review of *Implicit Bias and Philosophy* (vol. 1 & 2), Edited by Michael Brownstein and Jennifer Saul, Oxford University Press, 2016,” *The Journal of the Royal Institute of Philosophy*, 315—322.
-* Helton, G., forthcoming, “If you can’t change what you believe, you don’t believe it,” *Nous*, first online 26 August 2018. doi:10.1111/nous.12265
+* Helton, G., forthcoming, “If you can’t change what you believe, you don’t believe it,” *Nous*, first online 26 August 2018. doi: 10.1111/nous.12265
 * Hieronymi, P., 2008, “Responsibility for believing”, *Synthese*, 161: 357–373.
 * Hofmann, W., Gawronski, B., Gschwendner, T., Le, H., & M. Schmitt, 2005, “A meta-analysis on the correlation between the Implicit Association Test and explicit self-report measures,” *Personality and Social Psychology Bulletin*, 31(10): 1369–1385.
 * Holroyd, J., 2012, “Responsibility for Implicit Bias”, *Journal of Social Philosophy*, 43(3): 274–306.
 * Holroyd, J. and D. Kelly, 2016, “Implicit Bias, Character, and Control.” in J. Webber and A. Masala (eds.) *From Personality to Virtue*, Oxford: Oxford University Press.
-* Holroyd, J., Scaife, R., & T. Stafford, T., 2017, “Responsibility for implicit bias,” *Philosophy Compass*, 12(3). doi:10.1111/phc3.12410
+* Holroyd, J., Scaife, R., & T. Stafford, T., 2017, “Responsibility for implicit bias,” *Philosophy Compass*, 12(3). doi: 10.1111/phc3.12410
 * Holroyd, J. & J. Sweetman, 2016, “The Heterogeneity of Implicit Biases”, in Brownstein & Saul (eds.) 2016A.
 * Hookway, C., 2010, “Some Varieties of Epistemic Injustice: Response to Fricker”, *Episteme*, 7(2): 151–163.
 * Houben, K. & R. Wiers, 2008, “Implicitly positive about alcohol? Implicit positive associations predict drinking behavior”, *Addictive behaviors*, 33(8): 979–986.
@@ -454,7 +454,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Kelly, D. & E. Roedder, 2008, “Racial Cognition and the Ethics of Implicit Bias”, *Philosophy Compass*, 3(3): 522–540.
 * Korsgaard, C., 1997, “The Normativity of Instrumental Reason”, in *Ethics and Practical Reason*, G. Cullity & B. Gaut (eds.), Oxford: Clarendon Press, pp 27–68.
 * Krickel, B., 2018, “Are the states underlying implicit biases unconscious? A Neo-Freudian answer,” *Philosophical Psychology*, 31(7): 1007–1026.
-* Kurdi, B., Seitchik, A., Axt, J., Carroll, T., Karapetyan, A., Kaushik, N., Tomezsko, D., Greenwald, A., and M. Banaji, M., 2019, “Relationship between the Implicit Association Test and intergroup behavior: A meta-analysis, *American Psychologist* 74(5): 569–586. doi:10.1037/amp0000364
+* Kurdi, B., Seitchik, A., Axt, J., Carroll, T., Karapetyan, A., Kaushik, N., Tomezsko, D., Greenwald, A., and M. Banaji, M., 2019, “Relationship between the Implicit Association Test and intergroup behavior: A meta-analysis, *American Psychologist* 74(5): 569–586. doi: 10.1037/amp0000364
 * Kwong, J., 2012, “Resisting Aliefs: Gendler on Alief-Discordant Behaviors”, *Philosophical Psychology*, 25(1): 77–91.
 * Lai, C., K. Hoffman, & B. Nosek, 2013, “Reducing implicit prejudice”, *Social and Personality Psychology Compass*, 7: 315–330.
 * Lai, C., M. Marini, S. Lehr, C. Cerruti, J. Shin, J. Joy-Gaba, A. Ho, … & B. Nosek, 2014, “Reducing implicit racial preferences: I. A comparative investigation of 17 interventions”, *Journal of Experimental Psychology: General*, 143(4): 1765–1785.
@@ -487,7 +487,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Mai, R., S. Hoffmann, J. Helmert, B. Velichkovsky, S. Zahn, D. Jaros, … & H. Rohm, 2011, “Implicit food associations as obstacles to healthy nutrition: the need for further research”, *The British Journal of Diabetes & Vascular Disease*, 11(4): 182–186.
 * Maison, D., A. Greenwald, & R. Bruin, 2004, “Predictive validity of the Implicit Association Test in studies of brands, consumer attitudes, and behavior”, *Journal of Consumer Psychology*, 14(4): 405–415.
 * Mandelbaum, E., 2011, “The architecture of belief: An essay on the unbearable automaticity of believing”, Doctoral dissertation, University of North Carolina, Carolina.
-* –––, 2013, “Against alief”, *Philosophical Studies*, 165:197–211.
+* –––, 2013, “Against alief”, *Philosophical Studies*, 165: 197–211.
 * –––, 2014, “Thinking is Believing”, *Inquiry*, 57(1): 55–96.
 * –––, 2016, “Attitude, Association, and Inference: On the Propositional Structure of Implicit Bias”, *Noûs*, 50(3): 629–658.
 * Mann, T. C., & M.J. Ferguson, 2017, “Reversing implicit first impressions through reinterpretation after a two-day delay,” *Journal of Experimental Social Psychology*, 68: 122–127.
@@ -504,7 +504,7 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Monteith, M., 1993, “Self-regulation of prejudiced responses: Implications for progress in prejudice-reduction efforts”, *Journal of Personality and Social Psychology*, 65(3): 469–485.
 * Monteith, M., L. Ashburn-Nardo, C. Voils, & A. Czopp, 2002, “Putting the brakes on prejudice: on the development and operation of cues for control”, *Journal of personality and social psychology*”, 83(5): 1029–1050.
 * Moskowitz, G. & P. Li, 2011, “Egalitarian goals trigger stereotype inhibition: a proactive form of stereotype control”, *Journal of Experimental Social Psychology*, 47(1): 103–116.
-* Moss-Racusin, C., J. Dovidio, V. Brescoll, M. Graham, & J. Handelsman, 2012, “Science faculty’s subtle gender biases favor male students”, *Proceedings of the National Academy of the Sciences*, 109(41): 16474–16479. doi:10.1073/pnas.1211286109
+* Moss-Racusin, C., J. Dovidio, V. Brescoll, M. Graham, & J. Handelsman, 2012, “Science faculty’s subtle gender biases favor male students”, *Proceedings of the National Academy of the Sciences*, 109(41): 16474–16479. doi: 10.1073/pnas.1211286109
 * Mugg, J., 2013, “What are the cognitive costs of racism? A reply to Gendler”, *Philosophical studies*, 166(2): 217–229.
 * Muller, H. & B. Bashour, 2011, “Why alief is not a legitimate psychological category”, *Journal of Philosophical Research*, 36: 371–389.
 * Murphy, M.C., K.M., Kroeper, & E.M. Ozier, 2018, “Prejudiced Places: How Contexts Shape Inequality and How Policy Can Change Them,” *Policy Insights from the Behavioral and Brain Sciences*, 5(1): 66–74.
@@ -590,8 +590,8 @@ Nosek 和同事（2011）认为，内隐社会认知研究的第二代将被称�
 * Washington, N. & D. Kelly, 2016, “Who’s responsible for this? Implicit bias and the knowledge condition”, in Brownstein & Saul (eds.) 2016B.
 * Watson, G., 1975, “Free Agency”, *Journal of Philosophy*, 72(8): 205–220.
 * –––, 1996, “Two faces of responsibility”, *Philosophical Topics*, 24(2): 227–248.
-* Webb, T., P. Sheeran, & A. Pepper, 2012, “Gaining control over responses to implicit attitude tests: Implementation intentions engender fast responses on attitude-incongruent trials”, *British Journal of Social Psychology*, 51(1): 13–32. doi:10.1348/014466610X532192
-* Welpinghus, A., forthcoming, “The imagination model of implicit bias,” *Philosophical Studies*, first online 11 March 2019. doi:10.1007/s11098-019-01277-1
+* Webb, T., P. Sheeran, & A. Pepper, 2012, “Gaining control over responses to implicit attitude tests: Implementation intentions engender fast responses on attitude-incongruent trials”, *British Journal of Social Psychology*, 51(1): 13–32. doi: 10.1348/014466610X532192
+* Welpinghus, A., forthcoming, “The imagination model of implicit bias,” *Philosophical Studies*, first online 11 March 2019. doi: 10.1007/s11098-019-01277-1
 * Wigley, S., 2007, “Automaticity, Consciousness, and Moral Responsibility”, *Philosophical Psychology*, 20(2): 209–225.
 * Wolfe, R., & S. Johnson, 1995, “Personality as a Predictor of College Performance,” *Education and Psychological Measurement,* 55(2): 177–185.
 * Zanna, M. P., & R.H. Fazio, 1982, “The attitude-behavior relation: Moving toward a third generation of research,” in M. P. Zanna, E. T. Higgins, C. P. Herman (Eds.), *Consistency in social behavior: The Ontario symposium* (Vol. 2, pp. 283–301), Hillsdale, N.J.: Erlbaum.

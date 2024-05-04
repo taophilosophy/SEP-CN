@@ -1,30 +1,30 @@
-# 托马斯·希尔·格林 Green, Thomas Hill (David Brink)
+# 托马斯 · 希尔 · 格林 Green, Thomas Hill (David Brink)
 
-*首次发布于2021年12月29日星期三*
+*首次发布于 2021 年 12 月 29 日星期三*
 
-托马斯·希尔·格林（1836-1882年）被广泛认为是英国唯心主义传统中最具创始性和影响力的人物，该传统在19世纪下半叶和20世纪初在英格兰（尤其是牛津）、苏格兰（尤其是格拉斯哥和爱丁堡）蓬勃发展（参见，例如，曼德尔2011年）。格林的唯心主义是系统的，涵盖了形而上学和认识论、伦理理论、政治哲学以及历史和宗教哲学。在形而上学和认识论方面，格林反映了伊曼纽尔·康德的影响，批评了约翰·洛克和大卫·休谟的英国经验主义遗产。格林认为经验知识是人类头脑的产物，现实取决于思想，不能超越思想，客观性的可能性需要一个单一的集体或神圣意识的存在，个体心灵是其适当部分。格林认为，唯一可辩护的唯心主义形式是绝对唯心主义，其中现实的所有方面都是单一意识的运作。在伦理学上，格林接受了一种将人类善与自我实现和道德人和行动者的本性完善相结合的完美主义形式。但自我实现必须反映个体参与协会和社区的方式，并且必须反映个体追求共同利益的要求。在阐述这种完美主义观念时，格林认为自己在合成两种不同伦理传统中的最佳元素——希腊幸福主义和康德的理性主义。格林的完美主义伦理观影响了他的政治观点。他为一种超越19世纪英国自由主义某些流派特征的自由放任主义的新进步形式提供了哲学基础。国家有责任促进共同利益，个人权利受到共同利益的限制。 这不仅赋予国家消除干涉公民自由和机会的消极义务，还赋予其提供资源和机会以实现个人自我实现的积极义务。 格林认为，对自我实现的伦理和政治要求是自由，这是正确理解的。 他认为，历史上的道德和政治进步在于逐渐且越来越充分地实现完美、共同利益和自由的价值观。 由于格林将上帝与人类本性中的形而上学、伦理学和政治原则联系起来，他认为上帝存在于人类历史中的渐进发展中。
+托马斯 · 希尔 · 格林（1836-1882 年）被广泛认为是英国唯心主义传统中最具创始性和影响力的人物，该传统在 19 世纪下半叶和 20 世纪初在英格兰（尤其是牛津）、苏格兰（尤其是格拉斯哥和爱丁堡）蓬勃发展（参见，例如，曼德尔 2011 年）。格林的唯心主义是系统的，涵盖了形而上学和认识论、伦理理论、政治哲学以及历史和宗教哲学。在形而上学和认识论方面，格林反映了伊曼纽尔 · 康德的影响，批评了约翰 · 洛克和大卫 · 休谟的英国经验主义遗产。格林认为经验知识是人类头脑的产物，现实取决于思想，不能超越思想，客观性的可能性需要一个单一的集体或神圣意识的存在，个体心灵是其适当部分。格林认为，唯一可辩护的唯心主义形式是绝对唯心主义，其中现实的所有方面都是单一意识的运作。在伦理学上，格林接受了一种将人类善与自我实现和道德人和行动者的本性完善相结合的完美主义形式。但自我实现必须反映个体参与协会和社区的方式，并且必须反映个体追求共同利益的要求。在阐述这种完美主义观念时，格林认为自己在合成两种不同伦理传统中的最佳元素——希腊幸福主义和康德的理性主义。格林的完美主义伦理观影响了他的政治观点。他为一种超越 19 世纪英国自由主义某些流派特征的自由放任主义的新进步形式提供了哲学基础。国家有责任促进共同利益，个人权利受到共同利益的限制。 这不仅赋予国家消除干涉公民自由和机会的消极义务，还赋予其提供资源和机会以实现个人自我实现的积极义务。 格林认为，对自我实现的伦理和政治要求是自由，这是正确理解的。 他认为，历史上的道德和政治进步在于逐渐且越来越充分地实现完美、共同利益和自由的价值观。 由于格林将上帝与人类本性中的形而上学、伦理学和政治原则联系起来，他认为上帝存在于人类历史中的渐进发展中。
 
 ---
 
-## 1. 托马斯·希尔·格林 的生平、著作和影响
+## 1. 托马斯 · 希尔 · 格林 的生平、著作和影响
 
-格林于 1836 年 4 月 7 日出生在约克郡的伯肯。他的母亲在他很小的时候去世，他由父亲瓦伦丁·格林抚养长大，直到 1850 年进入拉格比学校接受教育。1855 年，格林进入牛津大学巴利奥尔学院，受到本杰明·乔维特和查尔斯·帕克的教导。在乔维特的指导下，格林接触到古典希腊以及十八和十九世纪的德国哲学，并在哲学学士学位中取得了一等荣誉。
+格林于 1836 年 4 月 7 日出生在约克郡的伯肯。他的母亲在他很小的时候去世，他由父亲瓦伦丁 · 格林抚养长大，直到 1850 年进入拉格比学校接受教育。1855 年，格林进入牛津大学巴利奥尔学院，受到本杰明 · 乔维特和查尔斯 · 帕克的教导。在乔维特的指导下，格林接触到古典希腊以及十八和十九世纪的德国哲学，并在哲学学士学位中取得了一等荣誉。
 
 格林获得学位后留在牛津继续学习。1860 年，他被任命为巴利奥尔学院古代和现代历史讲师，并于 1877 年当选为牛津大学维特教授，直到 1882 年去世。格林是那些负责改革哲学课程以包括现代和古代来源的人之一。他对本科生的影响是巨大的，通过他的智力、道德和精神严肃性激励了许多学生。
 
 格林于 19 世纪 60 年代中期开始活跃于自由党政治。1876 年，他当选为牛津市议会议员；他是第一个作为市民代表而非牛津大学代表的教授。他的主要政策改革涉及土地改革、劳工监管、教育和禁酒。他支持 1881 年的爱尔兰土地法案，旨在保障爱尔兰农民的财产权。在教育方面，他主张初等教育应当是义务的并由国家资助。他曾担任陶顿委员会的助理专员（1865-1866 年），主张对教育进行重大改革，以实现高等教育机会的均等。他是牛津学校董事会成员，并参与创办了牛津男子学校。他是大学推广运动的重要推动者，致力于向女性开放大学教育，并倡导利用奖学金和其他补助金，使工人阶级能够接受大学教育。
 
-格林于 1871 年与夏洛特·西蒙兹结婚。格林夫妇没有子女。格林身体素来不佳，于 1882 年因败血症病倒，并在 3 月 15 日去世，就在他的第 46 个生日前几天。
+格林于 1871 年与夏洛特 · 西蒙兹结婚。格林夫妇没有子女。格林身体素来不佳，于 1882 年因败血症病倒，并在 3 月 15 日去世，就在他的第 46 个生日前几天。
 
-格林在他的一生中发表了相当少量的文章、评论和小册子。他写了对休谟《人性论》的有影响力的评论，这是他和托马斯·希尔·格林编辑并于1874年出版的《大卫·休谟哲学作品集》的一部分。此外，他在1882年发表了一篇三部曲文章《人类是否可以有自然科学？》，当年他去世。这两部作品反映了被纳入格林《伦理学前奏》第一卷的形而上学和认识论主题，该书于1883年在他去世后出版。此外，格林的《关于自由立法和契约自由的演讲》于1881年出版（作品III）。格林的其他主要哲学作品是在他去世后出版的。这包括格林最重要的作品《伦理学前奏》。《前奏》在格林去世前基本完成，只有他希望添加的20-30页尚未完成。根据格林的指示，A.C.布拉德利监督了《前奏》的出版，于1883年出版。其他重要的遗作包括他的文章《关于“自由”在意志和人的道德进步中的不同意义》，他的《康德哲学讲座》以及他的《政治义务原则讲座》（均收录在作品II中）。
+格林在他的一生中发表了相当少量的文章、评论和小册子。他写了对休谟《人性论》的有影响力的评论，这是他和托马斯 · 希尔 · 格林编辑并于 1874 年出版的《大卫 · 休谟哲学作品集》的一部分。此外，他在 1882 年发表了一篇三部曲文章《人类是否可以有自然科学？》，当年他去世。这两部作品反映了被纳入格林《伦理学前奏》第一卷的形而上学和认识论主题，该书于 1883 年在他去世后出版。此外，格林的《关于自由立法和契约自由的演讲》于 1881 年出版（作品 III）。格林的其他主要哲学作品是在他去世后出版的。这包括格林最重要的作品《伦理学前奏》。《前奏》在格林去世前基本完成，只有他希望添加的 20-30 页尚未完成。根据格林的指示，A.C.布拉德利监督了《前奏》的出版，于 1883 年出版。其他重要的遗作包括他的文章《关于“自由”在意志和人的道德进步中的不同意义》，他的《康德哲学讲座》以及他的《政治义务原则讲座》（均收录在作品 II 中）。
 
-格林的形而上学、伦理学和政治观点在英国产生了影响，尤其是在（Nettleship 1888; Richter 1964）的著作中。由于格林最重要的作品是在他去世后出版的，他对他人的直接影响主要来自他的教学、公开讲座和政治活动。尽管格林有时对自己能否清晰而严谨地阐述唯心主义原则感到绝望，但他仍然通过他的智识、道德和精神认真性激励了许多学生和同行（Works V 444–48, 485）。他的形而上学和伦理观点在英国得到了同情和发展，由伯纳德·博萨涅、A.C.布拉德利、F.H.布拉德利、爱德华·凯尔德、R.B.霍尔丹、J.S.麦肯齐、J.H.缪尔黑德、R.L.内特尔希普、黑斯廷斯·拉什道尔、D.G.里奇、阿诺德·汤因比和威廉·华莱士在英国接受和发展。
+格林的形而上学、伦理学和政治观点在英国产生了影响，尤其是在（Nettleship 1888; Richter 1964）的著作中。由于格林最重要的作品是在他去世后出版的，他对他人的直接影响主要来自他的教学、公开讲座和政治活动。尽管格林有时对自己能否清晰而严谨地阐述唯心主义原则感到绝望，但他仍然通过他的智识、道德和精神认真性激励了许多学生和同行（Works V 444–48, 485）。他的形而上学和伦理观点在英国得到了同情和发展，由伯纳德 · 博萨涅、A.C.布拉德利、F.H.布拉德利、爱德华 · 凯尔德、R.B.霍尔丹、J.S.麦肯齐、J.H.缪尔黑德、R.L.内特尔希普、黑斯廷斯 · 拉什道尔、D.G.里奇、阿诺德 · 汤因比和威廉 · 华莱士在英国接受和发展。
 
 格林的政治影响也是显著的。除了格林倡导的具体经济、政治和教育改革外，他对英国自由党方向的重要影响也是显著的。他对人类完美的平等关注，特别是他坚持法律和制度应服务于共同利益，为新自由主义的发展提供了智力基础，这种新自由主义要求国家不仅仅是不干涉公民的自由和机会，还要提供各种积极的条件和资源，供公民在追求更美好生活时利用。尽管他们之间存在重大差异，但新自由主义中的许多有影响力的人物可以声称是格林政治哲学的继承人，包括博萨涅、里奇和 L.T.霍布豪斯。
 
 ## 2. 唯心主义形而上学和认识论
 
-托马斯·希尔·格林的唯心主义形而上学和认识论最系统的阐述出现在《序言》的第一卷中。格林介绍他的形而上学和认识论探究，以回应他认为在英国道德哲学中占主导地位的自然主义方法。他将伦理自然主义与享乐主义联系起来，并专注于功利主义传统，特别是约翰·斯图尔特·密尔和亨利·西奇威克（PE §2）。格林将自然主义与试图基于感官建构知识的经验主义联系在一起，而不受理解的影响。但格林认为，在没有理解的作用下，不可能有经验知识，并得出结论，纯粹的自然主义或经验主义的道德科学是不可能的（PE §8；参见Works II 83–85）。
+托马斯 · 希尔 · 格林的唯心主义形而上学和认识论最系统的阐述出现在《序言》的第一卷中。格林介绍他的形而上学和认识论探究，以回应他认为在英国道德哲学中占主导地位的自然主义方法。他将伦理自然主义与享乐主义联系起来，并专注于功利主义传统，特别是约翰 · 斯图尔特 · 密尔和亨利 · 西奇威克（PE §2）。格林将自然主义与试图基于感官建构知识的经验主义联系在一起，而不受理解的影响。但格林认为，在没有理解的作用下，不可能有经验知识，并得出结论，纯粹的自然主义或经验主义的道德科学是不可能的（PE §8；参见 Works II 83–85）。
 
 格林在《前奏曲》的第一卷中有四个主要目标。(1)他想要拒绝经验主义观点，即知识可以分析为两个可分离的组成部分——感官的交付和理解的运作——其中自然赋予的是真实的，而理解的贡献则不是(PE §§9–10, 20, 70)。相比之下，格林认为，即使是最简单的经验也涉及理解的运作和与自我意识心灵的其他元素的关系。(2)对经验主义的攻击旨在支持唯心主义主张，即自然是理解的产物(PE §20)。格林对经验主义的攻击显然受到康德在《纯粹理性批判》中的主张的影响，特别是康德在《经验的综合统一》中对概念统一的阐述。但是，在捍卫唯心主义时，格林认为康德没有将他的唯心主义原则推至逻辑结论(PE §41)；他拒绝康德的表象和物自体的二元论(PE §§11, 30–41)。(3)为了使唯心主义者区分表象和现实，有必要在一个包括个体人的自我意识心灵中设想一个“永恒”和“不可改变”的关系系统(PE §§13, 26, 69)。(4)虽然《前奏曲》的第一卷大部分内容涉及自我意识在明显不连续的经验片段中的作用，但格林也关注自我意识在知识中的作用。知识需要不仅仅是对表象的行动；它涉及对真实表象的出于充分理由的同意。这需要能够远离表象并评估表象的证据，特别是它们与意识的其他元素的一致性。这种认识责任要求自我意识。
 
@@ -52,7 +52,7 @@
 
 > 它让我们无法回答这个问题，即心灵建立的关系秩序如何能够再现那些被假定为完全不同起源和性质的物质世界的关系。(PE §34)
 
-实际上，托马斯·希尔·格林 认为物自体的概念是空洞的，因为我们无法构想物自体。
+实际上，托马斯 · 希尔 · 格林 认为物自体的概念是空洞的，因为我们无法构想物自体。
 
 格林 还认为康德的二元论是不必要的。唯心主义者可以解释错误。我们永远无法接触到物自体。但我们可以接触到其他表象，这些表象以各种方式可能将某个特定表象表示为异常。在这里，我们通过向其他表象求助来检验一个表象(PE §§12–13, 64)。根据这一观点，我们可以区分个别表象或经验簇与现实，但不能区分现实和特定心灵所持有的整个表象系统(PE §13)。我们通过将现实和客观性与被一个自我意识心灵整体概念的方式等同起来，避免回答我们的世界观如何与独立于它们的世界相匹配的问题(PE §§10, 13, 36–37, 63)。
 
@@ -122,7 +122,7 @@
 
 这种自我实现的正当化也解释了为什么格林将自我实现的命令视为范畴命令。像康德一样，格林寻求一个以她的代理人身份为基础的义务解释，而不依赖于偶然和可变的倾向。格林认为，自我实现的目标满足了这一要求。
 
-> 与此同时，因为它【自我实现】是他自己的实现，是他内在潜能的实现，它会激起他的兴趣，这种兴趣与他的任何其他兴趣都不同，性质上不同于他的任何欲望和厌恶，除非这些欲望和厌恶源自于它。这将是一种对一个被构想为绝对价值的对象的兴趣；其价值并不取决于个体在任何时候可能对它或其他任何事物产生的任何欲望，或者取决于他可能体验到的任何快乐……对于这个对象的欲望将建立在对其可取之处的构想上，作为一个人意识到自己时所意识到的潜能的实现。…[自我实现]将表现为[对]规则的强加……要求做某事，而不考虑是否有倾向去做，不考虑它是否是某个期望的目标，除了这个被认为绝对可取的目标。 (PE §193)
+> 与此同时，因为它【自我实现】是他自己的实现，是他内在潜能的实现，它会激起他的兴趣，这种兴趣与他的任何其他兴趣都不同，性质上不同于他的任何欲望和厌恶，除非这些欲望和厌恶源自于它。这将是一种对一个被构想为绝对价值的对象的兴趣；其价值并不取决于个体在任何时候可能对它或其他任何事物产生的任何欲望，或者取决于他可能体验到的任何快乐……对于这个对象的欲望将建立在对其可取之处的构想上，作为一个人意识到自己时所意识到的潜能的实现。…[自我实现] 将表现为 [对] 规则的强加……要求做某事，而不考虑是否有倾向去做，不考虑它是否是某个期望的目标，除了这个被认为绝对可取的目标。 (PE §193)
 
 因为自我实现的要求仅取决于那些使人成为负责任的行动者的审慎能力，它们是范畴命题。
 
@@ -166,7 +166,7 @@
 
 尽管每种自由形式都有价值，法律自由和道德自由都服从于真实和完美的自由（Works II 308–09）。真实自由是代理的规范理想，没有法律自由和道德自由就无法实现真实自由，但二者也不足以产生真实自由（Works II 324）。 格林最终支持黑格尔观点的一个版本，即自由是一个程度问题，道德进步可以理解为对真实自由逐渐更完美实现的过程（Works II 324–30）。
 
-在《自由的两个概念》中，以赛亚·柏林着名地区分了消极自由和积极自由，并批评了包括格林在内的各种积极自由概念（1958 年：132-33，141-54）。对于柏林来说，消极自由专注于其他个人或国家的外部强迫的缺席。相比之下，积极自由涉及自我决定，其中灵魂的理性部分在控制。理性自我是真正的自我，而真正的自我实现在理性本性的完善中（1958 年：131-34，141-53）。柏林认为积极自由是有害的，因为真正的自由是消极自由，而积极自由则在自由的幌子下偷偷摸摸地引入其他所谓的道德善，导致我们忽视追求这些善所涉及的自由成本。
+在《自由的两个概念》中，以赛亚 · 柏林着名地区分了消极自由和积极自由，并批评了包括格林在内的各种积极自由概念（1958 年：132-33，141-54）。对于柏林来说，消极自由专注于其他个人或国家的外部强迫的缺席。相比之下，积极自由涉及自我决定，其中灵魂的理性部分在控制。理性自我是真正的自我，而真正的自我实现在理性本性的完善中（1958 年：131-34，141-53）。柏林认为积极自由是有害的，因为真正的自由是消极自由，而积极自由则在自由的幌子下偷偷摸摸地引入其他所谓的道德善，导致我们忽视追求这些善所涉及的自由成本。
 
 但柏林的批评误解了格林关于自由的主张。对于格林来说，消极自由作为不受干涉的自由体现在司法自由中，而司法自由是自由的一个重要且合法的部分。但对于柏林来说，司法自由并不能穷尽自由。他在《自由立法》中这样表达这一观点
 
@@ -184,13 +184,13 @@
 
 ### 权利与共同利益
 
-托马斯·希尔·格林关于政治义务原则的讲座讨论了政治哲学和法理学中的许多问题，包括社会契约对国家权威的性质和限度的充分性，权利的性质，私人财产权以及惩罚的正当性。要理解格林独特的完善主义自由主义观念，最相关的是他对权利的理解。
+托马斯 · 希尔 · 格林关于政治义务原则的讲座讨论了政治哲学和法理学中的许多问题，包括社会契约对国家权威的性质和限度的充分性，权利的性质，私人财产权以及惩罚的正当性。要理解格林独特的完善主义自由主义观念，最相关的是他对权利的理解。
 
 格林关注政治义务的焦点是国家对其公民的可强制要求的性质和限度（LPPO §§1, 12）。社会契约理论试图将政治义务锚定在协议中，无论是实际的还是假设的。格林讨论了斯宾诺莎、霍布斯、洛克和卢梭的社会契约理论。尽管总体上批评社会契约理论，但他对霍布斯持特别批评态度，并对洛克和卢梭的重要元素表示同情。
 
 格林对社会契约理论的批评反映了他对权利的理解。根据格林的观点，权利是个人拥有的对那些被社会认可为有助于共同利益的权力的主张（LPPO §§25–26, 113–115, 138, 143）。特别是，格林认为，我对他人的某些规范权力的权利取决于我承认其他人对这些同样权力的权利（LPPO §138）。格林拒绝将自然权利看作是先于社会的权利，但接受将自然权利视为先于并独立于政治联合建立的积极权利的观念（LPPO §§9, 16, 30）。
 
-这种权利观导致托马斯·希尔·格林对试图解释权利如何可能从一个前社会状态的自然状态中产生持怀疑态度。霍布斯在这里是格林的主要批评对象，因为霍布斯认为自然状态是一种反社会条件，涉及所有人之间的战争（《利维坦》第 13 章 8-9 节），并声称个体权利，或至少除了不受干涉之外的个体权利，只有在个体同意离开自然状态并将权力转移给主权时才可能实现（《利维坦》第 13 章 10、13 节；第 14 章 1 节；第 15 章 3 节）。格林持怀疑态度有两方面。首先，他不明白如果在自然状态中没有道德义务，协议如何能建立政治义务（《政治哲学原理》第 46 节）。如果主权是必要的以使承诺具有约束力，那么我们无法解释主权如何能够自身产生于具有约束力的前政治契约之中。其次，格林的权利观导致他否定了霍布斯主义的主张，即权利和义务取决于主权的存在。权利取决于共同利益，而在政治联合和积极权利之前，共同利益存在着事实。
+这种权利观导致托马斯 · 希尔 · 格林对试图解释权利如何可能从一个前社会状态的自然状态中产生持怀疑态度。霍布斯在这里是格林的主要批评对象，因为霍布斯认为自然状态是一种反社会条件，涉及所有人之间的战争（《利维坦》第 13 章 8-9 节），并声称个体权利，或至少除了不受干涉之外的个体权利，只有在个体同意离开自然状态并将权力转移给主权时才可能实现（《利维坦》第 13 章 10、13 节；第 14 章 1 节；第 15 章 3 节）。格林持怀疑态度有两方面。首先，他不明白如果在自然状态中没有道德义务，协议如何能建立政治义务（《政治哲学原理》第 46 节）。如果主权是必要的以使承诺具有约束力，那么我们无法解释主权如何能够自身产生于具有约束力的前政治契约之中。其次，格林的权利观导致他否定了霍布斯主义的主张，即权利和义务取决于主权的存在。权利取决于共同利益，而在政治联合和积极权利之前，共同利益存在着事实。
 
 格林对霍布斯的批评对洛克和卢梭的适用性不太明显。洛克的自然状态虽然是前政治的，但并非反社会，洛克承认自然状态中的义务和权利（《论政府论》第 2 册第 2 章第 6 节；第 1 章第 14 节；第 3 章第 16-21 节；第 6 章第 57 节）。对于洛克来说，从自然状态过渡到公民政府是为了更可靠和有效地保护自然权利、保护财产和促进公共利益，所有这些都是自然状态内的道德要求（《论政府论》第 2 册第 7 章第 85 节；参见《政治哲学原理》第 55-58 节）。
 
@@ -206,7 +206,7 @@ The solution to this problem is for individuals to submit to constraints embodie
 
 这些权利必须得到社会承认吗？即使社会承认使得格林能区分自然权利和法定权利，我们可能会想知道他是否能区分自然权利和义务以及正面道德所承认的权利和义务（参见，例如，罗斯 1930 年：50-52）。社会承认论似乎排除了理解少数权利或未被承认的权利的可能性。格林解决了这个问题，并作出了两个回应，澄清了社会承认论（LPPO §§137-147）。首先，他并没有声称特定权利需要成为社会承认的对象。相反，权利必须有助于共同利益，这是相互承认的对象。我要求尊重和权利的主张取决于我承认其他人也有同样要求受到尊重和享有权利的权利，因为我们都是同样的道德人（LPPO §§138；参见辛顿 2001）。然而，这一主张可能暗示，如果其他人不将他们视为平等的道德人，个人就缺乏权利，这似乎暗示了一种道德习俗或地方主义，这与格林自己的世界主义相矛盾。因此，格林坚持认为，权利需要的社会承认是潜在的，而不是实际的承认。
 
-> 其[权利]可要求的条件是，其行使应有助于公众良知能够欣赏的某种社会利益，不一定是在私人利益普遍存在的情况下可以得到应有的承认，但仍然是人们在其行动和语言中表现出自己意识到的利益（LPPO §143）。
+> 其 [权利] 可要求的条件是，其行使应有助于公众良知能够欣赏的某种社会利益，不一定是在私人利益普遍存在的情况下可以得到应有的承认，但仍然是人们在其行动和语言中表现出自己意识到的利益（LPPO §143）。
 
 这样，格林认识到奴隶拥有自由的自然权利，即使在奴隶制在社会上被认可的社会中也会被侵犯（LPPO §140）。只要其他人能够认识到某人的共同人性，他们未能这样做并不妨碍对他人权利的承认。
 
@@ -242,13 +242,13 @@ The solution to this problem is for individuals to submit to constraints embodie
 
 格林对上帝的概念是矛盾的。一方面，他将绝对唯心主义的永恒自我意识与上帝联系起来。格林认为自我意识的心灵是意识经验的条件，而不是意识经验的一部分，因此它们超越了时空。个体心灵的特征也适用于格林认为使客观性成为可能的集体心灵。这将使上帝成为超越的现实。另一方面，格林有充分理由认为上帝在世界中是内在的。自我意识通过意志表达自己，这是行动的原因。如果是这样，自我意识就不能超越时空。此外，格林将上帝视为存在于个体和历史中的内在实体。每个人内在的实践理性原则调节他的欲望，使他成为道德行为者，这是一个神圣的原则，共同利益是神圣原则在人类中的适当对象，其在人类法律和制度中的逐步实现是上帝向世界展现自己的方式。不能将格林的非正统基督教形式与他的唯心主义哲学和他的伦理要求分开，即个体应将自己的低级自我置于追求更高共同利益之下。
 
-正如我们所看到的，格林将完美、自由和共同利益视为我们所追求的规范理想，人类随着时间的推移更好地接近这些理想。这一点在共同利益范围逐渐扩大的过程中得到了说明，这个范围包括了先前被排除在完全道德人格之外的人，比如奴隶、妇女和工人（PE 第三册，特别是§§205-206、271、285）。这也体现在我们对自我实现条件和政府促进其公民完善的要求的概念日益充实。像黑格尔一样，格林对历史持有渐进的观点，他认为历史是对完美、共同利益和真正自由要求的日益充分实现（PE §§172-176；“自由”，作品 II 330；LPPO §6）。
+正如我们所看到的，格林将完美、自由和共同利益视为我们所追求的规范理想，人类随着时间的推移更好地接近这些理想。这一点在共同利益范围逐渐扩大的过程中得到了说明，这个范围包括了先前被排除在完全道德人格之外的人，比如奴隶、妇女和工人（PE 第三册，特别是 §§205-206、271、285）。这也体现在我们对自我实现条件和政府促进其公民完善的要求的概念日益充实。像黑格尔一样，格林对历史持有渐进的观点，他认为历史是对完美、共同利益和真正自由要求的日益充分实现（PE §§172-176；“自由”，作品 II 330；LPPO §6）。
 
 ## 6. 理想主义形而上学与伦理学
 
 现在我们已经审视了格林的形而上学和伦理学，值得问一下它们之间的关系。一个问题是格林的伦理学是否依赖于他的形而上学，如果是，依赖的方式是什么。另一个问题是关于个体和集体自我意识和价值之间的优先级，如果有的话。
 
-格林的完美主义伦理理论是否依赖于他的唯心主义形而上学？如果是这样，他的完美主义就受制于他的唯心主义，对他的形而上学的怀疑可能会威胁到他的完美主义。《伦理学前奏》是格林最系统的作品，其结构可能表明，他在第二至第四卷中发展的自我实现的完美主义伦理建立在第一卷中捍卫的唯心主义形而上学之上。当然，许多解释者接受了格林形而上学和伦理之间这种相互依存的观点（例如，尼科尔森2006年，阿默2006年和曼德2006年）。然而，格林在实践哲学方面的几篇著作，尤其是《自由立法》一文和他的《政治义务原则讲演》，并没有先于复杂的形而上学讨论或绝对唯心主义的论证。此外，即使我们看《伦理学前奏》，反对享乐主义并支持完美主义和共同利益的许多论点是可以理解和评估的，而无需诉诸于绝对唯心主义的教义。自我意识在认识和实践代理中都起着至关重要的作用是事实。如果唯心主义仅仅意味着自我意识对知识和道德人格的重要性，那可能会为格林的形而上学和伦理提供一种统一性。这将把关键的唯心主义形而上学主张描述为一种相对温和和可信的主张。但是，关于自我意识重要性的这些主张并不需要任何特定的唯心主义形而上学主张，即现实仅限于意识的对象或可能成为意识对象的东西。事实上，我们已经看到格林的道德心理学和他的唯心主义形而上学之间存在紧张关系。格林认为责任在于自我意识反思和评估自己的欲望和选择的能力，并且自我实现或完美在于对这些理性响应能力的适当运用。 格林的完善主义伦理要求自我意识的心灵在意志和行动中发挥这种因果作用，这与格林唯心主义形而上学中的假设相矛盾，即自我意识的心灵存在于空间和时间之外（Irwin 2009: §1235）。
+格林的完美主义伦理理论是否依赖于他的唯心主义形而上学？如果是这样，他的完美主义就受制于他的唯心主义，对他的形而上学的怀疑可能会威胁到他的完美主义。《伦理学前奏》是格林最系统的作品，其结构可能表明，他在第二至第四卷中发展的自我实现的完美主义伦理建立在第一卷中捍卫的唯心主义形而上学之上。当然，许多解释者接受了格林形而上学和伦理之间这种相互依存的观点（例如，尼科尔森 2006 年，阿默 2006 年和曼德 2006 年）。然而，格林在实践哲学方面的几篇著作，尤其是《自由立法》一文和他的《政治义务原则讲演》，并没有先于复杂的形而上学讨论或绝对唯心主义的论证。此外，即使我们看《伦理学前奏》，反对享乐主义并支持完美主义和共同利益的许多论点是可以理解和评估的，而无需诉诸于绝对唯心主义的教义。自我意识在认识和实践代理中都起着至关重要的作用是事实。如果唯心主义仅仅意味着自我意识对知识和道德人格的重要性，那可能会为格林的形而上学和伦理提供一种统一性。这将把关键的唯心主义形而上学主张描述为一种相对温和和可信的主张。但是，关于自我意识重要性的这些主张并不需要任何特定的唯心主义形而上学主张，即现实仅限于意识的对象或可能成为意识对象的东西。事实上，我们已经看到格林的道德心理学和他的唯心主义形而上学之间存在紧张关系。格林认为责任在于自我意识反思和评估自己的欲望和选择的能力，并且自我实现或完美在于对这些理性响应能力的适当运用。 格林的完善主义伦理要求自我意识的心灵在意志和行动中发挥这种因果作用，这与格林唯心主义形而上学中的假设相矛盾，即自我意识的心灵存在于空间和时间之外（Irwin 2009: §1235）。
 
 关于格林的形而上学和伦理学的另一个问题是个体和集体分析水平之间的关系。考虑格林形而上学中个体和集体意识的优先顺序。很明显，个体在发现顺序中是优先的。我们首先尝试理解个体的意识体验和知识。这导致格林接受局部唯心主义，即认为现实或可知现实不能涉及事物本身，而是独立于个体思想家如何或可以出现的方式。事实上，个体的经验和知识的讨论占据了《前奏》第一册的大部分内容。然后，格林提出了这样的假设，即存在一个单一的集体意识，个体意识是这个集体意识的适当部分，以避免个体特定现实的不可比较的多样性，并解释客观性的可能性。在一种解读中，个体唯心主义仍然是首要的，不仅在发现顺序中，而且在解释和证明顺序中也是如此。格林认为，研究支持个体唯心主义，而绝对唯心主义是一种关于如何尝试为个体意识奠定客观性的哲学推测。在另一种解读中，格林可能认为，尽管个体唯心主义在发现顺序中优先于绝对唯心主义，但对客观性可能性的思考表明，绝对唯心主义在解释或证明顺序中是优先的。从这个观点来看，集体或永恒意识是唯一的实质，个体意识是这种实质的附属物。
 
@@ -266,7 +266,7 @@ The solution to this problem is for individuals to submit to constraints embodie
 
 ## 7. 结论说明
 
-格林或许是英国唯心主义传统中最重要的人物。但他的唯心主义意义超越了那个传统。他对唯心主义形而上学、认识论和绝对唯心主义的辩护为包括伯克利、康德、费希特、黑格尔和布拉德利在内的唯心主义传统做出了有趣的贡献。他对伦理学的唯心主义方法包含了一种自我实现的完善主义理论，致力于自由和共同利益的丰富概念，旨在综合希腊幸福论和康德的理性主义中的最佳元素。尽管完善主义是一种被低估的传统，但格林为这一传统做出了持久的贡献。格林的完善主义使他发展出一种进步的自由主义观念，在19世纪末20世纪初的英国政治中具有影响力，并可与当代自由主义观念相比较。
+格林或许是英国唯心主义传统中最重要的人物。但他的唯心主义意义超越了那个传统。他对唯心主义形而上学、认识论和绝对唯心主义的辩护为包括伯克利、康德、费希特、黑格尔和布拉德利在内的唯心主义传统做出了有趣的贡献。他对伦理学的唯心主义方法包含了一种自我实现的完善主义理论，致力于自由和共同利益的丰富概念，旨在综合希腊幸福论和康德的理性主义中的最佳元素。尽管完善主义是一种被低估的传统，但格林为这一传统做出了持久的贡献。格林的完善主义使他发展出一种进步的自由主义观念，在 19 世纪末 20 世纪初的英国政治中具有影响力，并可与当代自由主义观念相比较。
 
 ## Bibliography
 
@@ -282,7 +282,7 @@ This is a list of Green’s principal published and unpublished philosophical wr
 * [*Works*] *Collected Works of T.H. Green*, 5 vols., Peter P. Nicholson (ed.), Bristol: Thoemmes Press, 1997. Cited as *Works*. The first three volumes of Nicholson’s edition reprint Nettleship’s edition, the fourth volume contains the 1883 edition of the *Prolegomena to Ethics*, and the fifth volume contains additional unpublished essays, lectures, and selected correspondence.
 * 1874–75, *The Philosophical Works of David Hume*, 4 vols., T.H. Green and T.H. Grose (eds), London: Longmans, Green, and Co. Green wrote the introductions to Hume’s *Treatise* in the first and second volumes. Green’s introductions to the *Treatise* are reprinted in *Works* I, 1–371, and its main themes are incorporated into Book I of Green’s *Prolegomena to Ethics*.
 * 1881, “Liberal Legislation and Freedom of Contract”. Originally published in 1881 and in *Works* III, 365–386. Cited as “Liberal Legislation.”
-* 1882, “Can There Be a Natural Science of Man?” *Mind*, original series, 7(25): 1–29, 7(26): 161–185, 7(27): 321–348. This three-part article appeared in the year of Green’s death and was incorporated into Book I of the *Prolegomena*. [doi:10.1093/mind/os-VII.25.1, doi:10.1093/mind/os-VII.26.161, doi:10.1093/mind/os-VII.27.321]
+* 1882, “Can There Be a Natural Science of Man?” *Mind*, original series, 7(25): 1–29, 7(26): 161–185, 7(27): 321–348. This three-part article appeared in the year of Green’s death and was incorporated into Book I of the *Prolegomena*. [doi: 10.1093/mind/os-VII.25.1, doi: 10.1093/mind/os-VII.26.161, doi: 10.1093/mind/os-VII.27.321]
 * [*PE*] 1883, *Prolegomena to Ethics*, A.C. Bradley (ed.), Oxford: Clarendon Press. Cited as *Prolegomena* or *PE*. The *Prolegomena* was published posthumously in 1883. A.C. Bradley edited Green’s unfinished manuscript and supplied a useful analytical table of contents. *The Prolegomena* was out of print for many years. It is reprinted in *Works* IV. A recent edition is T.H. Green, *Prolegomena to Ethics*, edited by D. Brink, Oxford: Clarendon Press, 2003, which follows Bradley’s 1883 edition and contains a substantial introduction.
 * *Lectures on the Philosophy of Kant*. Published posthumously in *Works* II, 1–155, and cited as *Lectures on Kant*. There are two lectures, one on Kant’s *Critique of Pure Reason* and one on Kant’s Metaphysics of Ethics.]
 * “On the Different Senses of ‘Freedom’ as Applied to Will and the Moral Progress of Man”. Published posthumously in *Works* II, 308–333, and cited as “Freedom.”
@@ -307,7 +307,7 @@ More comprehensive bibliographies of Green’s published and unpublished writing
 * –––, 1785, *Grundlegung zur Metaphysik der Sitten*, Riga. Translated as *Groundwork of the Metaphysics of Morals* in his *Practical Philosophy*, 37–108. Cited as *Groundwork*, by volume (4) and page number in the Prussian Academy edition.
 * –––, 1788, *Kritik der praktischen Vernunft)*, Riga. Translated as *Critique of Practical Reason* in his *Practical Philosophy*, 133–272. Cited by volume (5) and page number in the Prussian Academy edition.
 * –––, 1797, *Die Metaphysik der Sitten*, Königsberg. Translated as *The Metaphysics of Morals* in his *Practical Philosophy*, 353–604. Cited by volume (6) and page number in the Prussian Academy edition.
-* –––, 1996, *Practical Philosophy*, Mary J. Gregor (ed./trans.), New York: Cambridge University Press. doi:10.1017/CBO9780511813306
+* –––, 1996, *Practical Philosophy*, Mary J. Gregor (ed./trans.), New York: Cambridge University Press. doi: 10.1017/CBO9780511813306
 * Locke, John, 1689, *Two Treatises of Government*, London. Reprinted, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1968. Cited as *Treatises*, and by treatise, chapter, and section number.
 * –––, 1690, *An Essay Concerning Human Understanding*, London. Reprinted, P.H. Nidditch (ed.), Oxford: Clarendon Press, 1979. Cited as *Essay*, by book, chapter, and section number.
 * Mill, John Stuart, *The Collected Works of John Stuart Mill*, 33 volumes, John M. Robson (ed.), Toronto: University of Toronto Press, 1963–91.
@@ -316,53 +316,53 @@ More comprehensive bibliographies of Green’s published and unpublished writing
 * –––, 1861, *Considerations on Representative Government*, London: Parker, Son, and Bourn. Reprinted in *Collected Works* XIX.
 * Rousseau, Jean-Jacques, 1762, *Du contrat social; ou Principes du droit politique*, Amsterdam: Marc Michel Rey. Translated as *On the Social Contract* in *Jean-Jacques Rousseau, The Basic Political Writings*, ed. D. Cress, Indianapolis: Hackett, 1987. Cited as *Social Contract* or *SC* and by book, chapter, and paragraph number.
 * Sidgwick, Henry, 1874 [1907], *The Methods of Ethics*, London: Macmillan. Seventh edition, London: Macmillan, 1907. Cited as *Methods*; page numbers from the 1907 edition.
-* –––, 1888, “The Kantian Conception of Free Will,” *Mind*, original series, 13(51): 405–412. Reprinted as an appendix to the 1907 edition of *Methods*. doi:10.1093/mind/os-XIII.51.405
-* –––, 1901, “The Philosophy of T. H. Green,” *Mind*, 10(1): 18–29. doi:10.1093/mind/X.1.18
+* –––, 1888, “The Kantian Conception of Free Will,” *Mind*, original series, 13(51): 405–412. Reprinted as an appendix to the 1907 edition of *Methods*. doi: 10.1093/mind/os-XIII.51.405
+* –––, 1901, “The Philosophy of T. H. Green,” *Mind*, 10(1): 18–29. doi: 10.1093/mind/X.1.18
 * –––, 1902, *Lectures on the Ethics of T.H. Green, Mr. Herbert Spencer, and J. Martineau*, London: Macmillan. Cited as *Lectures*.
 
 ### B. Secondary Sources
 
-* Armour, Leslie, 2006, “Green’s Idealism and the Metaphysics of Ethics,” in Dimova-Cookson and Mander 2006: 160–186. doi:10.1093/acprof:oso/9780199271665.003.0007
+* Armour, Leslie, 2006, “Green’s Idealism and the Metaphysics of Ethics,” in Dimova-Cookson and Mander 2006: 160–186. doi: 10.1093/acprof: oso/9780199271665.003.0007
 * Berlin, Isaiah, 1958, “Two Concepts of Liberty,” inaugural lecture, Oxford, 31 October, 1958, Oxford: Clarendon Press; reprinted in Isaiah Berlin, *Four Essays on Liberty*, Oxford: Clarendon Press, 1969, 118–172.
 * Bosanquet, Bernard, 1899, *The Philosophical Theory of the State*, London: Macmillan; fouth edition, London: Macmillan, 1923.
-* Brink, David O., 1997, “Self-Love and Altruism,” *Social Philosophy and Policy*, 14(1): 122–157. doi:10.1017/S0265052500001709
-* –––, 2003, *Perfectionism and the Common Good: Themes in the Philosophy of T. H. Green*, Oxford: Clarendon Press. doi:10.1093/0199266409.001.0001
-* –––, 2006, “Self‐Realization and the Common Good: Themes in T. H. Green,” in Dimova-Cookson and Mander 2006: 17–46. doi:10.1093/acprof:oso/9780199271665.003.0002
-* –––, 2013, *Mill’s Progressive Principles*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199672141.001.0001
+* Brink, David O., 1997, “Self-Love and Altruism,” *Social Philosophy and Policy*, 14(1): 122–157. doi: 10.1017/S0265052500001709
+* –––, 2003, *Perfectionism and the Common Good: Themes in the Philosophy of T. H. Green*, Oxford: Clarendon Press. doi: 10.1093/0199266409.001.0001
+* –––, 2006, “Self‐Realization and the Common Good: Themes in T. H. Green,” in Dimova-Cookson and Mander 2006: 17–46. doi: 10.1093/acprof: oso/9780199271665.003.0002
+* –––, 2013, *Mill’s Progressive Principles*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199672141.001.0001
 * –––, 2018, “Eudaimonism and Cosmopolitan Concern,” in *Virtue, Happiness, and Knowledge: Themes from the Work of Gail Fine and Terence Irwin*, David O. Brink, Susan Sauvé Meyer, and Christopher Shields (eds.), Oxford: Clarendon Press, ch. 15, 270–292.
 * –––, 2019, “Normative Perfectionism and the Kantian Tradition,” *Philosopher’s Imprint*, 19: art. 45. [[Brink 2019 available online](http://hdl.handle.net/2027/spo.3521354.0019.045)]
-* Cohen, Joshua, 2010, *Rousseau: A Free Community of Equals*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199581498.001.0001
+* Cohen, Joshua, 2010, *Rousseau: A Free Community of Equals*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199581498.001.0001
 * Dimova-Cookson, Maria, 2001, *T.H. Green’s Moral and Political Philosophy: A Phenomenological Perspective*, London: Palgrave.
-* Dimova-Cookson, Maria and William J. Mander (eds.), 2006, *T. H. Green: Ethics, Metaphysics, and Political Philosophy*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271665.001.0001
-* Freeden, Michael, 1978, *The New Liberalism: An Ideology of Social Reform*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198229612.001.0001
-* Gaus, Gerald F., 2006, “The Rights Recognition Thesis: Defending and Extending Green,” in Dimova-Cookson and Mander 2006: 209–235. doi:10.1093/acprof:oso/9780199271665.003.0009
-* Hinton, Timothy, 2001, “The Perfectionist Liberalism of T.H. Green,” *Social Theory and Practice*, 27(3): 473–499. doi:10.5840/soctheorpract20012736
+* Dimova-Cookson, Maria and William J. Mander (eds.), 2006, *T. H. Green: Ethics, Metaphysics, and Political Philosophy*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199271665.001.0001
+* Freeden, Michael, 1978, *The New Liberalism: An Ideology of Social Reform*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198229612.001.0001
+* Gaus, Gerald F., 2006, “The Rights Recognition Thesis: Defending and Extending Green,” in Dimova-Cookson and Mander 2006: 209–235. doi: 10.1093/acprof: oso/9780199271665.003.0009
+* Hinton, Timothy, 2001, “The Perfectionist Liberalism of T.H. Green,” *Social Theory and Practice*, 27(3): 473–499. doi: 10.5840/soctheorpract20012736
 * Hobhouse, L.T., 1911, *Liberalism*, London: Henry Holt.
 * –––, 1918, *The Metaphysical Theory of the State: A Criticism*, London: Allen & Unwin.
-* Hurka, Thomas, 1993, *Perfectionism*, Oxford: Clarendon Press. doi:10.1093/0195101162.001.0001
-* Hylton, Peter, 1990, *Russell, Idealism, and the Emergence of Analytic Philosophy*, Oxford: Clarendon Press. doi:10.1093/019824018X.001.0001
+* Hurka, Thomas, 1993, *Perfectionism*, Oxford: Clarendon Press. doi: 10.1093/0195101162.001.0001
+* Hylton, Peter, 1990, *Russell, Idealism, and the Emergence of Analytic Philosophy*, Oxford: Clarendon Press. doi: 10.1093/019824018X.001.0001
 * Irwin, Terence H., 1984, “Morality and Personality: Kant and Green,” in *Self and Nature in Kant’s Philosophy*, Allen W. Wood (ed.), Ithaca, NY: Cornell University Press, 31–56.
-* –––, 1992, “Eminent Victorians and Greek Ethics: Sidgwick, Green, and Aristotle,” in *Essays on Henry Sidgwick*, Bart Schultz (ed.), New York: Cambridge University Press, 279–310. doi:10.1017/CBO9781139172363.012
-* –––, 2006, “Green’s Criticism of the British Moralists,” in Dimova-Cookson and Mander 2006: 106–136. doi:10.1093/acprof:oso/9780199271665.003.0005
+* –––, 1992, “Eminent Victorians and Greek Ethics: Sidgwick, Green, and Aristotle,” in *Essays on Henry Sidgwick*, Bart Schultz (ed.), New York: Cambridge University Press, 279–310. doi: 10.1017/CBO9781139172363.012
+* –––, 2006, “Green’s Criticism of the British Moralists,” in Dimova-Cookson and Mander 2006: 106–136. doi: 10.1093/acprof: oso/9780199271665.003.0005
 * –––, 2009, *The Development of Ethics* (Volume 3: *From Kant to Rawls*), Oxford: Oxford University Press.
-* Mander, William J., 2006, “In Defence of the Eternal Consciousness,” in Dimova-Cookson and Mander 2006: 187–206. doi:10.1093/acprof:oso/9780199271665.003.0008
-* –––, 2011, *British Idealism: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199559299.001.0001
-* ––– (ed.), 2014, *The Oxford Handbook of British Philosophy in the Nineteenth Century*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199594474.001.0001
-* –––, 2016, *Idealist Ethics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198748892.001.0001
-* Martin, Rex, 2001, “T. H. Green on Individual Rights and the Common Good,” in Simhony and Weinstein 2001: 49–68. doi:10.1017/CBO9780511558337.003
+* Mander, William J., 2006, “In Defence of the Eternal Consciousness,” in Dimova-Cookson and Mander 2006: 187–206. doi: 10.1093/acprof: oso/9780199271665.003.0008
+* –––, 2011, *British Idealism: A History*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199559299.001.0001
+* ––– (ed.), 2014, *The Oxford Handbook of British Philosophy in the Nineteenth Century*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199594474.001.0001
+* –––, 2016, *Idealist Ethics*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198748892.001.0001
+* Martin, Rex, 2001, “T. H. Green on Individual Rights and the Common Good,” in Simhony and Weinstein 2001: 49–68. doi: 10.1017/CBO9780511558337.003
 * Nettleship, Richard Lewis, 1885, “Memoir of T.H. Green,” in *Works* III, xi-clxi.
-* Neuhouser, Frederick, 1990, *Fichte’s Theory of Subjectivity*, New York: Cambridge University Press. doi:10.1017/CBO9780511624827
+* Neuhouser, Frederick, 1990, *Fichte’s Theory of Subjectivity*, New York: Cambridge University Press. doi: 10.1017/CBO9780511624827
 * –––, 2000, *Foundations of Hegel’s Social Theory: Actualizing Freedom*, Cambridge, MA: Harvard University Press.
 * Nicholson, Peter, 1990, *The Political Philosophy of the British Idealists*, Cambridge: Cambridge University Press.
-* –––, 2006, “Green’s ‘Eternal Consciousness’,” in Dimova-Cookson and Mander 2006: 139–159. doi:10.1093/acprof:oso/9780199271665.003.0006
+* –––, 2006, “Green’s ‘Eternal Consciousness’,” in Dimova-Cookson and Mander 2006: 139–159. doi: 10.1093/acprof: oso/9780199271665.003.0006
 * Quinton, Anthony M., 1971. “Absolute Idealism,” Dawes Hicks Lecture on Philosophy, read 27 October 1971, *Proceedings of the British Academy*, 57: 303–329.
 * Richter, Melvin, 1964, *The Politics of Conscience: T.H. Green and His Age*, Cambridge, MA: Harvard University Press.
 * Ritchie, D.G., 1891, *The Principles of State Interference: Four Essays on the Political Philosophy of Mr. Herbert Spencer, J.S. Mill, and T.H. Green*, London: Swan Sonnenschein.
 * Ross, W.D., 1930, *The Right and the Good*, Oxford: Clarendon Press.
-* Simhony, Avital, 2001, “T. H. Green’s Complex Common Good: Between Liberalism and Communitarianism,” in Simhony and Weinstein 2001: 69–91. doi:10.1017/CBO9780511558337.004
-* Simhony, Avital and David Weinstein (eds.), 2001, *The New Liberalism: Reconciling Liberty and Community*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511558337
-* Skorupski, John, 2006, “Green and the Idealist Conception of a Person’s Good,” in Dimova-Cookson and Mander 2006: 47–75. doi:10.1093/acprof:oso/9780199271665.003.0003
-* –––, 2021, *Being and Freedom: On Late Modern Ethics in Europe*, New York: Oxford University Press. doi:10.1093/oso/9780198716761.001.0001
+* Simhony, Avital, 2001, “T. H. Green’s Complex Common Good: Between Liberalism and Communitarianism,” in Simhony and Weinstein 2001: 69–91. doi: 10.1017/CBO9780511558337.004
+* Simhony, Avital and David Weinstein (eds.), 2001, *The New Liberalism: Reconciling Liberty and Community*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511558337
+* Skorupski, John, 2006, “Green and the Idealist Conception of a Person’s Good,” in Dimova-Cookson and Mander 2006: 47–75. doi: 10.1093/acprof: oso/9780199271665.003.0003
+* –––, 2021, *Being and Freedom: On Late Modern Ethics in Europe*, New York: Oxford University Press. doi: 10.1093/oso/9780198716761.001.0001
 * Thomas, Geoffrey, 1987, *The Moral Philosophy of T.H. Green*, Oxford: Clarendon Press.
 * Tyler, Colin, 2010, *The Metaphysics of Self-Realisation and Freedom: Part 1 of The Liberal Socialism of Thomas Hill Green*, Exeter: Imprint Academic.
 * –––, 2018, *Bibliography of Thomas Hill Green (1836–1882)*, Working Paper Series: Number 3, Centre for Idealism and the New Liberalism [[Tyler 2018 available online](https://www.psa.ac.uk/sites/default/files/page-files/CINL%20WP%202018%20version%20-%20T%20H%20Green.pdf)].

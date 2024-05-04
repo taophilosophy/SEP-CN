@@ -1,6 +1,6 @@
 # 陪审团定理 jury theorems (Franz Dietrich and Kai Spiekermann)
 
-*首次发布于2021年11月17日星期三*
+*首次发布于 2021 年 11 月 17 日星期三*
 
 陪审团定理是关于集体能力做出正确决策的数学定理。几个陪审团定理传递了乐观的信息，在适当的情况下，“人群是明智的”：许多个体一起（例如使用多数投票）倾向于做出良好的决策，胜过较少或只有一个个体。陪审团定理构成了民主的认识论论证的技术核心，并为推理集体决策的认识质量提供了概率工具。陪审团定理的流行跨越了经济学、政治学、哲学和计算机科学等各个学科。
 
@@ -51,11 +51,11 @@
 
 ## 2. 陪审团定理
 
-本节陈述并讨论了关于两个选择之间的多数决策的三个陪审团定理。它们假设一个个体的人口，标记为 1,2,…，代表决策团体的可能成员。人口可能包含例如一个州的所有公民（用于政治决策）或所有科学家（用于科学决策）。它是无限的——这是为了考虑任意大的决策机构而需要的理想化。该团体具有任意有限的大小 n≥1，并由前 n 个个体 1,2,…,n 组成。每个成员为一个选择投票。获得多数的选择获胜（如果 n 是偶数，则可以出现平局而没有集体决策）。根据认识论方法，一个选择是正确的（对的，更好的等等），另一个选择是错误的（错的，更差的等等），与决策过程无关。这使得任何个体判断和任何团体决策都是正确或错误的。
+本节陈述并讨论了关于两个选择之间的多数决策的三个陪审团定理。它们假设一个个体的人口，标记为 1,2,…，代表决策团体的可能成员。人口可能包含例如一个州的所有公民（用于政治决策）或所有科学家（用于科学决策）。它是无限的——这是为了考虑任意大的决策机构而需要的理想化。该团体具有任意有限的大小 n≥1，并由前 n 个个体 1,2,…, n 组成。每个成员为一个选择投票。获得多数的选择获胜（如果 n 是偶数，则可以出现平局而没有集体决策）。根据认识论方法，一个选择是正确的（对的，更好的等等），另一个选择是错误的（错的，更差的等等），与决策过程无关。这使得任何个体判断和任何团体决策都是正确或错误的。
 
-陪审团定理在概率框架下运作：任何未知的事物都被建模为一个随机事件或变量（相对于某个背景概率空间的定义[1]）。
+陪审团定理在概率框架下运作：任何未知的事物都被建模为一个随机事件或变量（相对于某个背景概率空间的定义 [1]）。
 
-符号：对于任何条目的陪审团定理，概率函数（基础概率空间的）用 P 表示。根据陪审团定理的需要，将个体 i（=1,2,…）正确的事件表示为 Ri，并且对于每个可能的团体大小 n∈{1,2,…}，多数正确的事件（即 R1,…,Rn 中超过一半成立）表示为 Majn[2]。
+符号：对于任何条目的陪审团定理，概率函数（基础概率空间的）用 P 表示。根据陪审团定理的需要，将个体 i（= 1,2,…）正确的事件表示为 Ri，并且对于每个可能的团体大小 n∈{1,2,…}，多数正确的事件（即 R1,…, Rn 中超过一半成立）表示为 Majn [2]。
 
 ### 2.1 陪审团定理
 
@@ -71,7 +71,7 @@
 
 无条件能力（UC）。 （无条件的）个体正确概率 P（Ri）-普遍能力-超过 12，并且对于所有个体 i 都相同。
 
-康多塞的陪审团定理：假设 UI 和 UC，多数正确性的概率 P（Majn）随着（奇数[5]）群体规模 n 的增加而增加，并趋于 1。
+康多塞的陪审团定理：假设 UI 和 UC，多数正确性的概率 P（Majn）随着（奇数 [5]）群体规模 n 的增加而增加，并趋于 1。
 
 这个定理对群体的智慧描绘了一个乐观的画面，通过得出多数结果不仅随着选民的增加而越来越可靠，而且在极限情况下是绝对正确的。
 
@@ -79,11 +79,11 @@
 
 图 1. 不同团体规模和能力水平下的多数正确性概率。[图 1 的详细描述在补充材料中。]
 
-图 1 展示了不同个体能力水平 p=P(Ri)下的多数可靠性增加。请注意，即使只有稍微有能力的个体，也会迅速收敛到 1。
+图 1 展示了不同个体能力水平 p = P(Ri)下的多数可靠性增加。请注意，即使只有稍微有能力的个体，也会迅速收敛到 1。
 
 为什么这个定理成立？直观上，UI 和 UC 意味着个体判断行为类似于对同一个偏向真实的硬币进行独立投掷。硬币投掷次数越多，多数投掷结果“正确”的可能性越大，并且这个可能性收敛到 1。
 
-从技术上讲，通过一个非平凡的组合论论证可以得出可靠性增加的结论。无误差的结论有一个简单的证明，可以在这里概述。根据 UC，一般能力 p=P(Ri) 是与选民无关的。群体的正确投票比例是一个随机变量，根据大数定律和 UI，它以概率收敛于 p。因此，由于 UC 中 p>12，这个比例超过 12 的概率，即 P(Majn)，当 n→∞ 时收敛于 1。
+从技术上讲，通过一个非平凡的组合论论证可以得出可靠性增加的结论。无误差的结论有一个简单的证明，可以在这里概述。根据 UC，一般能力 p = P(Ri) 是与选民无关的。群体的正确投票比例是一个随机变量，根据大数定律和 UI，它以概率收敛于 p。因此，由于 UC 中 p > 12，这个比例超过 12 的概率，即 P(Majn)，当 n→∞ 时收敛于 1。
 
 尽管在康多塞和其他两个陪审团定理中，“增加”应该被理解为“弱增加”，但在这些定理的所有非退化情况下，严格增加的 P(Majn) 结论成立。
 
@@ -113,7 +113,7 @@
 
 陪审团定理的基本条件：正确性事件 R1、R2，以及任意随机变量 x（事实变量，例如表示状态或共同原因），都是相对于概率空间定义的。
 
-约定：涉及 x 的定义将假设 x 的每个值都具有正概率（这有助于条件化，但限制了对离散而非连续 x 的关注）。所有定义都可以推广[7]。
+约定：涉及 x 的定义将假设 x 的每个值都具有正概率（这有助于条件化，但限制了对离散而非连续 x 的关注）。所有定义都可以推广 [7]。
 
 这些是修订后的前提和定理。
 
@@ -121,7 +121,7 @@
 
 条件能力 (CC)。对于事实 x 的任何值 x，特定能力在 x 上的条件正确概率 P(Ri|x)超过 12，并且对于所有个体 i 都是相同的。
 
-条件陪审团定理：在假设 CI 和 CC 的情况下，多数正确性的概率 P(Majn)随着奇数[8]的群体规模 n 的增加而增加，并趋于 1。
+条件陪审团定理：在假设 CI 和 CC 的情况下，多数正确性的概率 P(Majn)随着奇数 [8] 的群体规模 n 的增加而增加，并趋于 1。
 
 这个定理得出与康多塞定理相同的乐观结论，但是基于新的前提。新的独立性假设更加合理，因为事实 x 包括共同原因或其代理。如果事实是世界的状态-共同原因的一个非常粗略的代理，那么就得到了文献中最常见的条件化形式和经典的陪审团定理（例如，奥斯汀-史密斯和班克斯 1996 年）。条件陪审团定理将这个熟悉的陪审团定理推广到任意的条件化目标 x。通过任意条件化替换状态条件化，使得陪审团定理更加灵活，为真实可信的独立性假设打开了大门。
 
@@ -129,7 +129,7 @@
 
 个体 i 的一般能力可以表示为他在可能的事实 x 上的（概率加权）平均特定能力，即 x 的可能值。
 
-(1)P(Ri)=∑xP(Ri|x)P(x).
+(1)P(Ri)= ∑xP(Ri|x)P(x).
 
 这表明 CC 意味着 UC。
 
@@ -146,13 +146,13 @@
 
 为什么存在这种紧张关系？除了形式化的理论化之外，显而易见的是，某人是否有能力——即，更多时候是对的而不是错的——取决于所考虑的判断任务的类型（参考类）。可以合理地说，在所有可想象的判断任务中，人们更常常是正确的（最大的参考类），并且很可能也在许多大型参考类中是正确的，例如所有有罪或无罪的判断任务。但是，某人在某些非常特定类型的判断任务中很可能是无能的——更常常是错误的，例如所有令人困惑的任务，以及所有看似诚实但撒谎的证人的有罪或无罪的判断任务。
 
-每个事实 x 的实例定义了一类（参考类）任务：这些任务中的事实是 x。一些事实 x 的实例使得形成正确判断变得容易：事实透明，证人诚实，实验室测试正确等。在这里，个体 i 是有能力的：P(Ri|x)>12。也许其他一些事实 x 的实例使得形成正确判断变得困难：有误导性证据的实例等。在这里，选民是没有能力的：P(Ri|x)≤12。误导性实例是否存在-即 CC 是否失败-取决于所使用的事实变量 x。如果所有共同原因都被打包到 x 中（可能是为了确保条件独立性 CI），那么几乎不可避免地，某些 x 的实例代表了误导性情况，在这种情况下，选民 i 的能力很低 P(Ri|x)<12。具有讽刺意味的是，如果将更少的信息打包到事实 x 中，甚至将 x 减少到状态（通常是仅具有两个实例的变量），那么可能会恢复条件能力，同时牺牲条件独立性。这就是两难境地。
+每个事实 x 的实例定义了一类（参考类）任务：这些任务中的事实是 x。一些事实 x 的实例使得形成正确判断变得容易：事实透明，证人诚实，实验室测试正确等。在这里，个体 i 是有能力的：P(Ri|x)> 12。也许其他一些事实 x 的实例使得形成正确判断变得困难：有误导性证据的实例等。在这里，选民是没有能力的：P(Ri|x)≤12。误导性实例是否存在-即 CC 是否失败-取决于所使用的事实变量 x。如果所有共同原因都被打包到 x 中（可能是为了确保条件独立性 CI），那么几乎不可避免地，某些 x 的实例代表了误导性情况，在这种情况下，选民 i 的能力很低 P(Ri|x)< 12。具有讽刺意味的是，如果将更少的信息打包到事实 x 中，甚至将 x 减少到状态（通常是仅具有两个实例的变量），那么可能会恢复条件能力，同时牺牲条件独立性。这就是两难境地。
 
 ### 2.5 陪审团定理
 
 可以通过具有更合理前提和结论的陪审团定理来摆脱这个困境。将事实 x 视为足够丰富，以证明条件独立性的理由；因此，x 包含了共同原因，或者足够好的代理或替代品。
 
-尽管在某些（不幸的）情况下，选民可能会无能，但他们大部分时间都有能力，即在大多数情况下。这表明应该用更弱的前提替换条件能力，即趋向于能力。这个公理是什么？它说能力往往是高于低于 0.5 的。更准确地说，无论正数多少，能力超过 0.5 的次数至少与其低于 0.5 的次数相等。因此，能力超过 0.5 的次数至少与其低于 0.5 的次数相等；能力超过 0.55 的次数至少与其低于 0.45 的次数相等；等等。形式上，个体 i 的特定能力 P(Ri|x)取决于（随机的）事实 x，因此本身也是随机的。如果其值超过 12，可以称这些事实对 i 来说是真实有益的或容易的；如果其值低于 12，可以称这些事实对 i 来说是误导性的或困难的；如果其值为 12，可以称这些事实对 i 来说是中立的，因为它们不朝任何方向推动。离散随机数（如特定能力 P(Ri|x)）倾向于超过 12，如果对于每个ϵ>0，它等于 12+ϵ的概率至少与其等于 12-ϵ的概率相等。
+尽管在某些（不幸的）情况下，选民可能会无能，但他们大部分时间都有能力，即在大多数情况下。这表明应该用更弱的前提替换条件能力，即趋向于能力。这个公理是什么？它说能力往往是高于低于 0.5 的。更准确地说，无论正数多少，能力超过 0.5 的次数至少与其低于 0.5 的次数相等。因此，能力超过 0.5 的次数至少与其低于 0.5 的次数相等；能力超过 0.55 的次数至少与其低于 0.45 的次数相等；等等。形式上，个体 i 的特定能力 P(Ri|x)取决于（随机的）事实 x，因此本身也是随机的。如果其值超过 12，可以称这些事实对 i 来说是真实有益的或容易的；如果其值低于 12，可以称这些事实对 i 来说是误导性的或困难的；如果其值为 12，可以称这些事实对 i 来说是中立的，因为它们不朝任何方向推动。离散随机数（如特定能力 P(Ri|x)）倾向于超过 12，如果对于每个 ϵ > 0，它等于 12+ϵ 的概率至少与其等于 12-ϵ 的概率相等。
 
 ![a plot link to extended description below](https://plato.stanford.edu/entries/jury-theorems/Fig2.png)
 
@@ -167,9 +167,9 @@
 
 能力倾向（TC）：特定能力的条件正确概率 P(Ri|x)倾向于超过 12，并且对于所有个体 i 都是相同的。
 
-能力敏感的陪审团定理：在假设 CI 和 TC 的情况下，多数正确性的概率 P(Majn)随着群体规模 n（奇数[9]）的增加而增加，并收敛到一个值，除非 CC 成立。
+能力敏感的陪审团定理：在假设 CI 和 TC 的情况下，多数正确性的概率 P(Majn)随着群体规模 n（奇数 [9]）的增加而增加，并收敛到一个值，除非 CC 成立。
 
-在 CI 和 TC 的情况下，多数正确性的极限是什么？它是事实（例如共享证据）具有真相导向性的概率加上事实具有中立性的概率的一半[10]。粗略地说，群体在极限情况下的表现与事实一样好。毫不奇怪，群体无法超越事实。与事实渐近匹配已经算作一种成功。
+在 CI 和 TC 的情况下，多数正确性的极限是什么？它是事实（例如共享证据）具有真相导向性的概率加上事实具有中立性的概率的一半 [10]。粗略地说，群体在极限情况下的表现与事实一样好。毫不奇怪，群体无法超越事实。与事实渐近匹配已经算作一种成功。
 
 从条件陪审团定理到陪审团定理的双重演变是，能力前提被削弱为 TC，而绝对正确的结论被颠倒。因此，即使在渐近大的团体中，多数人也可能是错误的——除非 CC 成立，即除非选民始终具备能力。“除非”在定理中可以被强烈解读为“当且仅当不是这种情况”。
 
@@ -178,7 +178,7 @@
 表 1 总结了三个陪审团定理。
 
 | | | | | | --- | --- | --- | --- |Table 1. Three jury theorems compared | |  *| | | | | | --- | --- | --- | --- |表 1. 三个陪审团定理的比较 | | 康多塞的陪审团定理* | *| 有条件的
- 陪审团定理* | *| 敏感能力
+ 陪审团定理 * | *| 敏感能力
  陪审团定理*| | Premise 1 | 无条件
 陪审团定理 | 有条件
 陪审团定理 | 有条件
@@ -234,11 +234,11 @@
 
 众人的智慧如何得到恢复？两种众人智慧假设依次讨论。
 
-尽管能力不同，但渐近无误。如果将 UC 弱化为每个人的能力存在一个固定的下界 12+ϵ，那么康多塞的陪审团定理的渐近结论仍然成立（Paroush 1998）。这个假设可以进一步放宽：只要无限多的个体在平均上是有能力的，这就允许存在许多无能力的个体[12]（参见 Dietrich 2008；有关相关或更一般的结果：Boland 1989；Owen，Grofman 和 Feld 1989；Berend 和 Paroush 1998）。不幸的是，这些康多塞的陪审团定理的变体（以及条件陪审团定理的类似变体）只保留了无误的结论，牺牲了可靠性的增加。更为棘手的结论被保留下来，人们可能会抱怨。
+尽管能力不同，但渐近无误。如果将 UC 弱化为每个人的能力存在一个固定的下界 12+ϵ，那么康多塞的陪审团定理的渐近结论仍然成立（Paroush 1998）。这个假设可以进一步放宽：只要无限多的个体在平均上是有能力的，这就允许存在许多无能力的个体 [12]（参见 Dietrich 2008；有关相关或更一般的结果：Boland 1989；Owen，Grofman 和 Feld 1989；Berend 和 Paroush 1998）。不幸的是，这些康多塞的陪审团定理的变体（以及条件陪审团定理的类似变体）只保留了无误的结论，牺牲了可靠性的增加。更为棘手的结论被保留下来，人们可能会抱怨。
 
 尽管能力不同，但可靠性增加。在面对能力差异的情况下，有两种广泛的方法来恢复可靠性增加的假设，从而捍卫大规模民主。
 
-第一种方法有效地否认了更大的团体拥有“更差”的成员，通过假设一种不同的程序来确定团体成员：成员是匿名选择的，而不是（例如）通过能力来选择。增加团体规模不再意味着保留“旧”的成员并添加“新”的成员，通常是能力较差的成员，而是从人口中完全新的（更大的）团体中选择。[13]这种选择成员的程序与必须是预定义的个体“优先顺序”中的前 n 个个体的程序有很大的不同。新的程序是匿名的，而不是有效地将个体 1 优先于个体 2，个体 2 优先于个体 3 等。哪种程序更现实是有争议的，也取决于上下文。
+第一种方法有效地否认了更大的团体拥有“更差”的成员，通过假设一种不同的程序来确定团体成员：成员是匿名选择的，而不是（例如）通过能力来选择。增加团体规模不再意味着保留“旧”的成员并添加“新”的成员，通常是能力较差的成员，而是从人口中完全新的（更大的）团体中选择。[13] 这种选择成员的程序与必须是预定义的个体“优先顺序”中的前 n 个个体的程序有很大的不同。新的程序是匿名的，而不是有效地将个体 1 优先于个体 2，个体 2 优先于个体 3 等。哪种程序更现实是有争议的，也取决于上下文。
 
 第二种方法假设 - 相当现实地 - 个体的能力水平是未知的。即使额外的团体成员在客观上较不称职，这个事实也不足够被了解或被证实（参见 Romeijn＆Atkinson 2011）。制度设计者可以考虑三种对大型包容性团体的正当性辩解。认识论的辩解指出，用于能力的任何代理可能是误导性的。例如，排除没有大学教育的公民似乎是不合理的，因为他们可能同样称职或更称职；排除他们可能会降低集体能力。一个程序上的辩解认为，即使他们的无能已经被合理怀疑地证实，排除个体免于民主决策是不公平的。这样的程序性包容理由可以基于平等机会影响的民主权利。另一个更细致的程序性观点并不一般反对选民的排除，但要求将无能证实到较高的标准，因为被排除的人有权知道被他人统治的原因。
 
@@ -325,7 +325,7 @@
 
 两种直觉相互竞争：是通过降低判断独立性来威胁集体认知成功，还是通过提高个体能力来增加认知成功？
 
-第一种直觉需要细化。通过增加投票的共同来源，陪审团定理降低了无条件的判断独立性；请参见第 3.4 节和图 4[18]。因此，陪审团定理进一步削弱了康多塞（天真的）无条件独立性公理。但是，只要在共同原因上进行条件化，陪审团定理不会削弱条件独立性公理和能力敏感的陪审团定理[19]。
+第一种直觉需要细化。通过增加投票的共同来源，陪审团定理降低了无条件的判断独立性；请参见第 3.4 节和图 4 [18]。因此，陪审团定理进一步削弱了康多塞（天真的）无条件独立性公理。但是，只要在共同原因上进行条件化，陪审团定理不会削弱条件独立性公理和能力敏感的陪审团定理 [19]。
 
 转向第二种直觉，陪审团定理确实会影响能力。由于陪审团定理倾向于扩大判断的基础（再次参见第 3.4 节），因此对能力的影响往往是积极的，可以推测。在第 2 节考虑的所有三个能力公理中，陪审团定理比没有陪审团定理更容易满足。这一推测在图 5 中有所说明。
 
@@ -343,7 +343,7 @@
 
 所有这些都对陪审团模型的一个基本假设提出了质疑：即某人的判断和能力是与群体无关的，因此，例如，在一个由 3 个成员组成的小规模讨论组中和一个由 333 个成员组成的大规模讨论组中，判断和能力是相同的。这否认了群体动态对判断的任何影响。
 
-为了模拟群体依赖性，个体 i 正确的事件 Ri 应该被取代为对于所有群体大小 n（即包括 i 的群体）的群体大小相关的正确性事件 Ri,n。个体 i 的能力，无论是一般的还是特定的，都成为一个群体大小相关的量，分别由 P(Ri,n)或 P(Ri,n|x)给出。人们可以假设能力是一个最初增加然后逐渐下降的函数，因此在某个“个体最优”群体大小 ni 处达到峰值。如果将群体独立判断的普通假设替换为后一种假设，那么陪审团定理的可靠性增加的结论仍然成立，但仅限于每个个体群体成员 i=1,…,n 的个体最优群体大小 ni 至多为 n 的群体大小。集体最优群体大小可以超过所有个体 i 的个体最优值，因为借助众多思维可以抵消个体能力的损失。但是，集体最优值可以有限，与可靠性增加的假设相悖。
+为了模拟群体依赖性，个体 i 正确的事件 Ri 应该被取代为对于所有群体大小 n（即包括 i 的群体）的群体大小相关的正确性事件 Ri, n。个体 i 的能力，无论是一般的还是特定的，都成为一个群体大小相关的量，分别由 P(Ri, n)或 P(Ri, n|x)给出。人们可以假设能力是一个最初增加然后逐渐下降的函数，因此在某个“个体最优”群体大小 ni 处达到峰值。如果将群体独立判断的普通假设替换为后一种假设，那么陪审团定理的可靠性增加的结论仍然成立，但仅限于每个个体群体成员 i = 1,…, n 的个体最优群体大小 ni 至多为 n 的群体大小。集体最优群体大小可以超过所有个体 i 的个体最优值，因为借助众多思维可以抵消个体能力的损失。但是，集体最优值可以有限，与可靠性增加的假设相悖。
 
 ### 4.7 知识策略性投票
 
@@ -351,7 +351,7 @@
 
 这可以称为认识论战略投票，因为选民是出于共同的认识目标而进行战略规划，而不是出于利益冲突。这怎么可能呢？假设一个由 9 名陪审员组成的陪审团通过多数票达成有罪或无罪的裁决。一名陪审员推理道：
 
-> 我相信有罪。只有当我的陪审团同事们意见分歧时，我的投票才会起到决定性的作用，即他们的意见分为 4:4。所以，让我假设存在这种分歧。但是，然后有四个（有能力的）同事相信无罪。所以无罪的可能性比我想象的要高。无罪的概率更高，这就为“无罪”裁决提供了合理性。所以我将投票支持无罪。
+> 我相信有罪。只有当我的陪审团同事们意见分歧时，我的投票才会起到决定性的作用，即他们的意见分为 4: 4。所以，让我假设存在这种分歧。但是，然后有四个（有能力的）同事相信无罪。所以无罪的可能性比我想象的要高。无罪的概率更高，这就为“无罪”裁决提供了合理性。所以我将投票支持无罪。
 
 她的投票基于的是条件性的信念，而不是她的真实信念。如果每个人的推理都是一样的，那么没有人会透露他们真实的判断。投票不反映任何私人信息或见解，集体决策是随意的。即使每个人都相信有罪，被告也会被一致无罪释放。
 
@@ -369,14 +369,14 @@
 
 一个认知聚合问题具有以下组成部分。
 
-替代方案、投票和聚合。让 A 是一个非空集合，表示最一般意义上的“替代方案”——例如，选择替代方案、信念或判断集合，或者对选项的价值分配。决策组根据成员的投票选择一个替代方案，应用一些聚合规则 F，将每个投票数为 n≥1 的投票配置(a1,…,an)∈An 映射到一个决策 F(a1,…,an)∈A（或者可能是一个子集 F(a1,…,an)⊆A，以允许不确定的结果）[21]。例如，对于多数规则（假设 A 只包含两个替代方案），F(a1,…,an)是在 a1,…,an 中出现次数超过 n/2 次的替代方案[22]。
+替代方案、投票和聚合。让 A 是一个非空集合，表示最一般意义上的“替代方案”——例如，选择替代方案、信念或判断集合，或者对选项的价值分配。决策组根据成员的投票选择一个替代方案，应用一些聚合规则 F，将每个投票数为 n≥1 的投票配置(a1,…, an)∈An 映射到一个决策 F(a1,…, an)∈A（或者可能是一个子集 F(a1,…, an)⊆A，以允许不确定的结果）[21]。例如，对于多数规则（假设 A 只包含两个替代方案），F(a1,…, an)是在 a1,…, an 中出现次数超过 n/2 次的替代方案 [22]。
 
-投票者输入和集体决策在类型上不同（而不是都属于同一个集合 A）的聚合问题也可能是感兴趣的[23]。我们在这里将它们放在一边。
+投票者输入和集体决策在类型上不同（而不是都属于同一个集合 A）的聚合问题也可能是感兴趣的 [23]。我们在这里将它们放在一边。
 
 正确性、状态和投票。每个替代方案都具有“真实”或“客观”值、质量或正确性水平。如果替代方案是信念或信念集合，价值通常取决于真实性；如果替代方案是对对象的评估，价值可能取决于与正确评估的距离等。价值由一个未知的“状态”确定。让 S 是可能状态的非空集合。个体 1、2、…的投票和状态被解释为随机变量 v1、v2、…和 s 的结果，其范围分别为 A 和 S。可以更或者更不复杂：
 
-* “简单”的正确性标准区分了两个正确性水平，“正确”和“错误”，并将状态与（单一的）正确选择 S=A 相对应。认知表现通过正确性概率来衡量，即判断与状态匹配的概率。因此，个体 i 的表现通过 P(vi=s)来衡量，集体表现通过 P(F(v1,…,vn)=s)来衡量。
-* 在更一般的（“分级”）正确性标准下，每个备选方案和状态的配对（a,s）被赋予一个数值 V(a,s)，即在状态 s 下方案 a 的价值或正确程度。这定义了一个从 A×S 到 R 的值函数 V。认知表现通过期望决策价值来衡量：E(V(vi,s))衡量个体 i 的表现，E(V(F(v1,…,vn),s))衡量集体表现。这种一般情况更加灵活。例如，它可以区分类型 1 错误（如错误定罪）和类型 2 错误（如错误无罪）。简单的正确性标准是一种特殊情况。[24]
+* “简单”的正确性标准区分了两个正确性水平，“正确”和“错误”，并将状态与（单一的）正确选择 S = A 相对应。认知表现通过正确性概率来衡量，即判断与状态匹配的概率。因此，个体 i 的表现通过 P(vi = s)来衡量，集体表现通过 P(F(v1,…, vn)= s)来衡量。
+* 在更一般的（“分级”）正确性标准下，每个备选方案和状态的配对（a, s）被赋予一个数值 V(a, s)，即在状态 s 下方案 a 的价值或正确程度。这定义了一个从 A×S 到 R 的值函数 V。认知表现通过期望决策价值来衡量：E(V(vi, s))衡量个体 i 的表现，E(V(F(v1,…, vn), s))衡量集体表现。这种一般情况更加灵活。例如，它可以区分类型 1 错误（如错误定罪）和类型 2 错误（如错误无罪）。简单的正确性标准是一种特殊情况。[24]
 
 问题。尽管认知社会选择理论的大部分研究旨在优化给定固定群体规模 n 的聚合规则 F，但陪审团定理是一个例外。它们固定 F 并变化 n，研究集体认知表现（通过正确性概率或更一般的期望决策价值来衡量）如何取决于群体规模。一些著名的问题是：表现是否随着群体规模增加而提高（增加可靠性），还是在某个有限的群体规模达到峰值？集体在极限情况下表现如何？
 
@@ -386,31 +386,31 @@
 
 ### 5.3 聚合估计
 
-假设该团体必须估计或预测一些实值数量，例如通货膨胀、收入不平等或全球温度。在这里，A 是一个实数区间，例如 R 或[0,1]，包含可能的估计值。让团体通过取成员估计的平均值（而不是像加尔顿在 1907 年关于群体智慧的经典论文中那样取中位数）来汇总成员的估计。形式上，
+假设该团体必须估计或预测一些实值数量，例如通货膨胀、收入不平等或全球温度。在这里，A 是一个实数区间，例如 R 或 [0,1]，包含可能的估计值。让团体通过取成员估计的平均值（而不是像加尔顿在 1907 年关于群体智慧的经典论文中那样取中位数）来汇总成员的估计。形式上，
 
-F(x1,…,xn)=1nn∑i=1xi
+F(x1,…, xn)= 1nn∑i = 1xi
 
-对于任何团体规模 n 和任何个体估计 x1,…,xn∈A。状态 s 是 A 中的真实数量(=S)。假设，在给定状态 s 的条件下，个体估计 v1,v2,…
+对于任何团体规模 n 和任何个体估计 x1,…, xn∈A。状态 s 是 A 中的真实数量(= S)。假设，在给定状态 s 的条件下，个体估计 v1, v2,…
 
 1. 独立的，
 2. 相同分布的，
 3. 期望正确的。[ 26]
 
-条件（i）和（ii）反映了选民独立性和同质性的熟悉概念。条件（iii）捕捉了无偏性作为能力。然后，根据科尔莫哥洛夫（1930 年）（强）大数定律，平均估计 F(v1,…,vn)当 n 趋于无穷大时以概率 1 收敛于真实状态 s。[27]这意味着渐近无误差。[28]
+条件（i）和（ii）反映了选民独立性和同质性的熟悉概念。条件（iii）捕捉了无偏性作为能力。然后，根据科尔莫哥洛夫（1930 年）（强）大数定律，平均估计 F(v1,…, vn)当 n 趋于无穷大时以概率 1 收敛于真实状态 s。[27] 这意味着渐近无误差。[28]
 
-这将大数定律转化为了一个用于聚合估计的陪审团定理。它的独立性和同质性假设可以被大幅削弱。[29]但是（可疑的）无偏性条件是必要的，这引发了对这个陪审团定理的担忧。
+这将大数定律转化为了一个用于聚合估计的陪审团定理。它的独立性和同质性假设可以被大幅削弱。[29] 但是（可疑的）无偏性条件是必要的，这引发了对这个陪审团定理的担忧。
 
 ### 5.4 聚合评估或分级
 
-一些选项、前景或其他对象根据某个标准进行评估（“分级”）。一幅画可以根据美丽程度进行评估：它是“美丽的”、“中立的”还是“丑陋的”？一个学术申请者可以根据研究能力进行评分。设 A 是可能的分级的有限集合，从“最高”到“最低”进行线性排序。状态 s 是 A（=S）中的真实值或分级。每个小组成员都会给出一个分级。将得到的分级配置文件（a1，…，an）聚合到中位数分级 a=F（a1，…，an），即在将 a1，…，an 按弱增序排列后的中间分级（为确保存在中位数，让 n 为奇数）。例如，如果一幅画被评为“美丽”两次，评为“丑陋”一次，其中 n=3，则中位数评估为“美丽”。给定状态 s 的实例，考虑选民 i 的正确概率 P（vi=s|s），过高估值概率 P（vi>s|s）和过低估值概率 P（vi<s|s）。过高估值概率与过低估值概率之间的绝对差定义了 i 的偏见，即过高或过低估值的倾向。Morreau（2021）证明了一个“分级陪审团定理”：如果在任何状态下，分级 v1，v2，…是（i）独立的，（ii）均匀分布的，并且（iii）足够无偏（即偏见低于正确概率），则中位数评估的正确概率随着（奇数）小组大小的增加而增加，并趋于确定性。[30]只要正确概率超过偏见，正确概率可以变得非常小。如果真实值非常高或非常低，那么具有小偏见似乎特别困难，因为极端值很容易被低估或高估。
+一些选项、前景或其他对象根据某个标准进行评估（“分级”）。一幅画可以根据美丽程度进行评估：它是“美丽的”、“中立的”还是“丑陋的”？一个学术申请者可以根据研究能力进行评分。设 A 是可能的分级的有限集合，从“最高”到“最低”进行线性排序。状态 s 是 A（= S）中的真实值或分级。每个小组成员都会给出一个分级。将得到的分级配置文件（a1，…，an）聚合到中位数分级 a = F（a1，…，an），即在将 a1，…，an 按弱增序排列后的中间分级（为确保存在中位数，让 n 为奇数）。例如，如果一幅画被评为“美丽”两次，评为“丑陋”一次，其中 n = 3，则中位数评估为“美丽”。给定状态 s 的实例，考虑选民 i 的正确概率 P（vi = s|s），过高估值概率 P（vi > s|s）和过低估值概率 P（vi < s|s）。过高估值概率与过低估值概率之间的绝对差定义了 i 的偏见，即过高或过低估值的倾向。Morreau（2021）证明了一个“分级陪审团定理”：如果在任何状态下，分级 v1，v2，…是（i）独立的，（ii）均匀分布的，并且（iii）足够无偏（即偏见低于正确概率），则中位数评估的正确概率随着（奇数）小组大小的增加而增加，并趋于确定性。[30]只要正确概率超过偏见，正确概率可以变得非常小。如果真实值非常高或非常低，那么具有小偏见似乎特别困难，因为极端值很容易被低估或高估。
 
 ### 5.5 陪审团定理下的相互关联命题的判断聚合
 
-在陪审团定理中，一个团体对几个命题形成是/否判断（List＆Pettit 2002; Dietrich 2007; 参见信念合并条目）。该团体可能判断经济增长是否会增加（命题 p），是否会错过一些气候目标（命题 q），以及前者是否意味着后者（命题 p→q）。这三个判断是相互关联的：一个人不能一致地接受 p，p→q 和¬q。让备选方案成为完整且一致的判断集合；在这个例子中，
+在陪审团定理中，一个团体对几个命题形成是/否判断（List＆Pettit 2002; Dietrich 2007; 参见信念合并条目）。该团体可能判断经济增长是否会增加（命题 p），是否会错过一些气候目标（命题 q），以及前者是否意味着后者（命题 p→q）。这三个判断是相互关联的：一个人不能一致地接受 p，p→q 和 ¬q。让备选方案成为完整且一致的判断集合；在这个例子中，
 
-A={{p,p→q,q},{¬p,p→q,q},…}.
+A ={{p, p→q, q},{¬p, p→q, q},…}.
 
-状态 s 是 A（=S）中的正确判断集合，包含真实的命题。某人的能力在不同命题上可能有所不同。某人在某些命题上具有能力，即有可能正确判断真值，这构成了她的能力范围。
+状态 s 是 A（= S）中的正确判断集合，包含真实的命题。某人的能力在不同命题上可能有所不同。某人在某些命题上具有能力，即有可能正确判断真值，这构成了她的能力范围。
 
 认识论上成功的陪审团决策规则往往依赖于个体具备能力的判断。在这个例子中，团体应该如何判断是否 q，即在什么情况下集体判断集合应包含 q，以及何时包含 ¬q？“基于结论的程序”采用对 q 的多数判断。“基于前提的程序”采用对 p 和 p→q 的多数判断的逻辑蕴涵。这两种主要程序中哪一种更有可能发现关于 q 的真相，大致取决于个体在 q 上是否主要具备能力，还是在 p 和 p→q 上主要具备能力。如果个体具有不同的能力领域，情况会变得复杂起来。
 
@@ -424,9 +424,9 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 
 在这个范式中，正确的投票取决于个体。理由可能是投票表达了关于代理人索引事实的判断，例如关于哪个选择对自己最好，即符合自己的利益。显然，“选项 X 符合我的利益”这样的判断的正确性是依赖于选民的。对于依赖于选民的正确性的完全不同的理由是，正确性事实是主观的——这是有时用于规范事实的元伦理学命题。无论哪种方式，个体可能无法确定哪个选择在个体上是正确的（例如，符合他们自己的利益或者是主观上正确的）。在这个框架中，个体的能力是追踪自己的正确性事实。
 
-群体在其集体决策中追踪哪个真理？集体正确标准结合了个体标准。集体正确性可以被定义为大多数个体的正确性。[33]追踪这个集体真理的自然方法是多数投票（假设只有两个选择）。然而，多数结果可能是集体错误的，因为个体可能投出个别错误的选票。然而，在一些简化的假设下，包括广义康多塞特能力和独立性假设，多数投票可以产生越来越可靠且可能渐近无误的结果（参见米勒1986年和List＆Spiekermann 2016年提出的定理）。
+群体在其集体决策中追踪哪个真理？集体正确标准结合了个体标准。集体正确性可以被定义为大多数个体的正确性。[33] 追踪这个集体真理的自然方法是多数投票（假设只有两个选择）。然而，多数结果可能是集体错误的，因为个体可能投出个别错误的选票。然而，在一些简化的假设下，包括广义康多塞特能力和独立性假设，多数投票可以产生越来越可靠且可能渐近无误的结果（参见米勒 1986 年和 List＆Spiekermann 2016 年提出的定理）。
 
-但是这种集体正确性的标准是可以质疑的。它仅仅依赖于一个替代方案在个体层面上的正确性频率。然而，某人的正确性标准（例如，她的福利）是否得到满足或违反也可能很重要。这在具体的例子中变得明显。为了考虑程度，让一个正确性标准由一个值函数V给出，将一个值或正确度分配给每个替代方案，形式上为V：A→R。如果V1，V2，...是分别属于个体1，2，...的（未知的）值函数，那么替代方案在集体上有多有价值或正确？在加法方法下，集体值函数是V1+⋯+Vn。如果个体值代表个体福利或利益，那么这种加法集体值代表功利主义集体福利；但是，对于价值的功利主义解释并不重要。现在，如果一个替代方案在A中最大化相关的值函数，那么它就是正确的（个体上或集体上）。在这种情况下，集体正确性不再简化为大多数个体的正确性。Pivato（2016）的统计功利主义定理——最初是关于做出近似功利最优决策的定理——可以解释为这种分级个体正确性和加法集体正确性的陪审团定理。
+但是这种集体正确性的标准是可以质疑的。它仅仅依赖于一个替代方案在个体层面上的正确性频率。然而，某人的正确性标准（例如，她的福利）是否得到满足或违反也可能很重要。这在具体的例子中变得明显。为了考虑程度，让一个正确性标准由一个值函数 V 给出，将一个值或正确度分配给每个替代方案，形式上为 V：A→R。如果 V1，V2，...是分别属于个体 1，2，...的（未知的）值函数，那么替代方案在集体上有多有价值或正确？在加法方法下，集体值函数是 V1+⋯+Vn。如果个体值代表个体福利或利益，那么这种加法集体值代表功利主义集体福利；但是，对于价值的功利主义解释并不重要。现在，如果一个替代方案在 A 中最大化相关的值函数，那么它就是正确的（个体上或集体上）。在这种情况下，集体正确性不再简化为大多数个体的正确性。Pivato（2016）的统计功利主义定理——最初是关于做出近似功利最优决策的定理——可以解释为这种分级个体正确性和加法集体正确性的陪审团定理。
 
 陪审团定理在追踪个体事实的选民的基础上，与普通陪审团框架和经典认识论民主有两个根本性的不同。首先，不同的选民追踪不同的“真相”，违背了认识论民主的概念。其次，集体正确的替代方案取决于群体规模 n，因此是一个随着选民增加而变化的移动目标。然而，这样的定理提出了一个显著的观点：追求个体利益的投票可以创造集体利益，就像通过一只看不见的手一样。即使选民追求不同的纯粹个体的真相，民主也能找到集体的真相。但是，如果选民表达被判断的个体真相或被判断的集体真相，民主是否更容易找到集体真相？这是一个对认识论民主来说尚未解答的问题。
 
@@ -436,15 +436,15 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 
 是否群众能够聪明并且应该被委托重要决策是一个具有悠久哲学渊源的问题。雅典民主制度相对于寡头制的竞争对手增加了决策机构的规模，证明了这种扩大可以产生集体认知成功（Ober 2008; 2013）。在这个背景下，关于民主制度认知表现的哲学辩论开始了。例如，亚里士多德尽管对人民统治持怀疑态度，但承认群体智慧的可能性（亚里士多德，《政治学》：1281a11；Waldron 1995），尽管这种解读存在争议（Cammack 2013；Lane 2013）。
 
-尽管在康多塞之前，关于借鉴众多思想的认知优势的辩论已经进行了很长时间，但他是第一个发展出类似现代陪审团定理的概率框架，并明确关注投票机制的人。康多塞的显著进展可能也影响了他的同时代人。让-雅克·卢梭对民主统治的论证受到了康多塞思想的影响，并且类似于他的定理的非正式陈述，根据 Grofman 和 Feld（1988）的一篇有影响力的文章（但请参阅 Wyckoff 2011 对该历史推测的批判性看法）。
+尽管在康多塞之前，关于借鉴众多思想的认知优势的辩论已经进行了很长时间，但他是第一个发展出类似现代陪审团定理的概率框架，并明确关注投票机制的人。康多塞的显著进展可能也影响了他的同时代人。让-雅克 · 卢梭对民主统治的论证受到了康多塞思想的影响，并且类似于他的定理的非正式陈述，根据 Grofman 和 Feld（1988）的一篇有影响力的文章（但请参阅 Wyckoff 2011 对该历史推测的批判性看法）。
 
-尽管康多塞的陪审团定理在他去世后基本被遗忘，但他所发起的关于聚合的数学方法仍然存在。例如，弗朗西斯·高尔顿在 1906 年参观一个牛市时偶然发现了用于测试信念聚合认知表现的有用数据。高尔顿观察到了一个称重比赛：参与者被要求猜测一头牛的屠宰重量，并以书面形式提交他们的猜测。令高尔顿惊讶的是，中位数的猜测与实际重量相差不到 0.8％，远远超过了个体判断。尽管高尔顿没有直接引用陪审团定理，但他指出
+尽管康多塞的陪审团定理在他去世后基本被遗忘，但他所发起的关于聚合的数学方法仍然存在。例如，弗朗西斯 · 高尔顿在 1906 年参观一个牛市时偶然发现了用于测试信念聚合认知表现的有用数据。高尔顿观察到了一个称重比赛：参与者被要求猜测一头牛的屠宰重量，并以书面形式提交他们的猜测。令高尔顿惊讶的是，中位数的猜测与实际重量相差不到 0.8％，远远超过了个体判断。尽管高尔顿没有直接引用陪审团定理，但他指出
 
 > 中间估计表达了大众的意见，其他估计被大多数选民认为过低或过高。（加尔顿，1907 年）
 
-康多塞是社会选择理论的奠基人，不仅因为他的陪审团定理而闻名。当邓肯·布莱克（1958 年）重新发现他的工作时，他的陪审团定理在政治科学和民主理论中受到了新的关注（格罗夫曼，1975 年似乎是首次使用“康多塞陪审团定理”这个术语）。然而，最初的反应并不友好：布莱克（1958 年：163）驳斥了选举中独立正确标准的想法，约翰·罗尔斯（1971 年[1999 年]：315）对选票是否足够独立表示怀疑。布莱恩·巴里（1965 年[2010 年：205-6]）可能是 20 世纪第一个肯定该定理对民主理论重要性的政治理论家。
+康多塞是社会选择理论的奠基人，不仅因为他的陪审团定理而闻名。当邓肯 · 布莱克（1958 年）重新发现他的工作时，他的陪审团定理在政治科学和民主理论中受到了新的关注（格罗夫曼，1975 年似乎是首次使用“康多塞陪审团定理”这个术语）。然而，最初的反应并不友好：布莱克（1958 年：163）驳斥了选举中独立正确标准的想法，约翰 · 罗尔斯（1971 年 [1999 年]：315）对选票是否足够独立表示怀疑。布莱恩 · 巴里（1965 年 [2010 年：205-6]）可能是 20 世纪第一个肯定该定理对民主理论重要性的政治理论家。
 
-当代民主理论对陪审团定理存在分歧。广义上讲，该领域区分了民主的工具性和程序性论证（德沃金，1987 年；利斯特和古丁，2001 年；安德森，2009 年）。近年来，对工具性论证，尤其是认知论证的兴趣日益增加。但即使在认知民主主义者中（早期的支持者包括科恩，1986 年；科尔曼和费雷约翰，1986 年；参见施瓦茨伯格，2015 年的概述），陪审团定理的价值也存在争议。一些认知民主主义者认为陪审团定理是证明民主合理性的核心工具（例如，利斯特和古丁，2001 年；兰德莫尔，2013 年；迪特里希和斯皮克曼，2013a；古丁和斯皮克曼，2018 年）。其他人持不同意见。例如，亨利·S·理查森（2002 年）拒绝了康多塞的独立性假设。大卫·埃斯特伦德则拒绝了康多塞的能力假设（埃斯特伦德，2008 年：第 12 章），并将康多塞的陪审团定理视为提供“过于脆弱的基础”（埃斯特伦德，2008 年：223）。伊丽莎白·安德森也对康多塞的不合理假设和结论提出了异议（安德森，2006 年）。
+当代民主理论对陪审团定理存在分歧。广义上讲，该领域区分了民主的工具性和程序性论证（德沃金，1987 年；利斯特和古丁，2001 年；安德森，2009 年）。近年来，对工具性论证，尤其是认知论证的兴趣日益增加。但即使在认知民主主义者中（早期的支持者包括科恩，1986 年；科尔曼和费雷约翰，1986 年；参见施瓦茨伯格，2015 年的概述），陪审团定理的价值也存在争议。一些认知民主主义者认为陪审团定理是证明民主合理性的核心工具（例如，利斯特和古丁，2001 年；兰德莫尔，2013 年；迪特里希和斯皮克曼，2013a；古丁和斯皮克曼，2018 年）。其他人持不同意见。例如，亨利 ·S· 理查森（2002 年）拒绝了康多塞的独立性假设。大卫 · 埃斯特伦德则拒绝了康多塞的能力假设（埃斯特伦德，2008 年：第 12 章），并将康多塞的陪审团定理视为提供“过于脆弱的基础”（埃斯特伦德，2008 年：223）。伊丽莎白 · 安德森也对康多塞的不合理假设和结论提出了异议（安德森，2006 年）。
 
 政治哲学中的这些辩论受到了对康多塞初始版本定理的关注的阻碍，因为它具有问题的假设和结论（见第 2 节）；这些反对意见通常对其他陪审团定理来说不那么重要。
 
@@ -456,7 +456,7 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 
 社会认识论可以大致分为群体认识论和群体中的认识论（Dietrich 和 Spiekermann 即将发表）。陪审团定理对前者至关重要，对后者也有间接影响。
 
-群体认识论分析了群体如何成为认识者以及它们作为认识者的表现。应用社会认识论学者之间进行了激烈的辩论，探讨不同机构如何促进群体知识（以及促进效果如何）。例如，阿尔文·戈德曼（Alvin Goldman）的开创性著作《社会世界中的知识》（1999）在社会认识论分析民主制度时借鉴了孔多塞的陪审团定理。这一辩论还延伸到了法庭（Spiekermann 和 Goodin 2012；Sunstein 2009；Vermeule 2009）、互联网（Masterton、Olsson 和 Angere 2016）乃至科学界的知识及其被广大公众所认知的领域（Hahn、Harris 和 Corner 2016）。进一步拓展社会认识论的边界，甚至可以说动物的决策过程对群体知识的形成有更多或更少的促进作用（例如，Conradt 和 List 2009）。
+群体认识论分析了群体如何成为认识者以及它们作为认识者的表现。应用社会认识论学者之间进行了激烈的辩论，探讨不同机构如何促进群体知识（以及促进效果如何）。例如，阿尔文 · 戈德曼（Alvin Goldman）的开创性著作《社会世界中的知识》（1999）在社会认识论分析民主制度时借鉴了孔多塞的陪审团定理。这一辩论还延伸到了法庭（Spiekermann 和 Goodin 2012；Sunstein 2009；Vermeule 2009）、互联网（Masterton、Olsson 和 Angere 2016）乃至科学界的知识及其被广大公众所认知的领域（Hahn、Harris 和 Corner 2016）。进一步拓展社会认识论的边界，甚至可以说动物的决策过程对群体知识的形成有更多或更少的促进作用（例如，Conradt 和 List 2009）。
 
 陪审团定理对于社会认识论在群体中的间接影响更为重要，尤其是在同伴分歧下的信念修正。当了解他人的信念时，一个人应该如何修正自己的信念？许多人认为同伴的数量、他们的能力和独立性都很重要（Elga 2010；Kelly 2011；Lackey 2013）。例如，Barnett（2019）讨论了与“群体代表”存在同伴分歧的情况，该代表采纳了群体的多数观点。陪审团定理可以有助于系统地探讨这类问题。
 
@@ -464,109 +464,109 @@ A={{p,p→q,q},{¬p,p→q,q},…}.
 
 ### 6.3 陪审团定理和认识论社会选择理论
 
-如果从数学角度来看，陪审团定理属于认知社会选择理论，是社会选择理论的一个分支（请参阅社会选择理论的条目）。社会选择理论研究群体中的聚合程序。与民主理论类似，社会选择理论有程序性和认知性两个分支。程序性社会选择理论学者希望程序本身对个体来说是“民主的”或“公平的”；他们制定了一些公理要求，捕捉规范原则（如匿名性或帕累托主义），并询问哪些程序满足这些要求[36]。相反，认知社会选择理论学者希望程序“追踪真相”；他们对结果制定了一些认知标准（如高正确概率），并分析程序在多大程度上满足这些标准。
+如果从数学角度来看，陪审团定理属于认知社会选择理论，是社会选择理论的一个分支（请参阅社会选择理论的条目）。社会选择理论研究群体中的聚合程序。与民主理论类似，社会选择理论有程序性和认知性两个分支。程序性社会选择理论学者希望程序本身对个体来说是“民主的”或“公平的”；他们制定了一些公理要求，捕捉规范原则（如匿名性或帕累托主义），并询问哪些程序满足这些要求 [36]。相反，认知社会选择理论学者希望程序“追踪真相”；他们对结果制定了一些认知标准（如高正确概率），并分析程序在多大程度上满足这些标准。
 
 陪审团定理属于认知社会选择的范畴。在认知社会选择中，它们与传统的程序参数（如超过半数规则中的接受阈值或加权投票规则中的个体权重）相比，更关注决策机构的规模。陪审团定理旨在优化给定程序（例如，给定多数规则）下的群体规模，而不是优化给定群体规模下的程序。程序优化有时可以通过分析来实现。一般的发现是，在经典的独立性假设下，二元选择中认知上最优的程序是加权（简单的、超过半数或次于半数）多数规则，其中选民的权重是能力的一个明确定义的递增函数（对于小于 12 的能力，权重变为负值）；参见，例如，Nitzan 和 Paroush（1982），Ben-Yashar 和 Nitzan（1997），Dietrich（2006）和 Pivato（2013）。简单多数规则可能远非最优；在适当的情况下，如果选民能力相等且选项最初的正确概率相等，则简单多数规则是最优的。
 
 ## Bibliography
 
-* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi:10.3366/epi.2006.3.1-2.8
+* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi: 10.3366/epi.2006.3.1-2.8
 * –––, 2009, “Democracy: Instrumental vs. Non-Instrumental Value”, in Thomas Christiano and John Christman (eds.), *Contemporary Debates in Political Philosophy*, Chichester: Wiley Blackwell. pp. 213–227.
 * Aristotle, *The Politics* (Cambridge Texts in the History of Political Thought), Cambridge: Cambridge University Press, 1988.
-* Austen-Smith, David and Jeffrey S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem”, *American Political Science Review*, 90(1): 34–45. doi:10.2307/2082796
-* Barnett, Zach, 2019, “Belief Dependence: How Do the Numbers Count?”, *Philosophical Studies*, 176(2): 297–319. doi:10.1007/s11098-017-1016-0
+* Austen-Smith, David and Jeffrey S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem”, *American Political Science Review*, 90(1): 34–45. doi: 10.2307/2082796
+* Barnett, Zach, 2019, “Belief Dependence: How Do the Numbers Count?”, *Philosophical Studies*, 176(2): 297–319. doi: 10.1007/s11098-017-1016-0
 * Barry, Brian, 1965 [2010], *Political Argument*, New York: Humanities Press. Reprinted Routledge Revivals, New York: Routledge, 2010.
-* Ben-Yashar, Ruth C. and Shmuel I. Nitzan, 1997, “The Optimal Decision Rule for Fixed-Size Committees in Dichotomous Choice Situations: The General Result”, *International Economic Review*, 38(1): 175–186. doi:10.2307/2527413
-* Berend, Daniel and Jacob Paroush, 1998, “When Is Condorcet’s Jury Theorem Valid?”, *Social Choice and Welfare*, 15(4): 481–488. doi:10.1007/s003550050118
-* Berend, Daniel and Luba Sapir, 2005, “Monotonicity in Condorcet Jury Theorem”, *Social Choice and Welfare*, 24(1): 83–92. doi:10.1007/s00355-003-0293-z
-* Berg, Sven, 1993, “Condorcet’s Jury Theorem, Dependency among Jurors”, *Social Choice and Welfare*, 10(1). doi:10.1007/BF00187435
+* Ben-Yashar, Ruth C. and Shmuel I. Nitzan, 1997, “The Optimal Decision Rule for Fixed-Size Committees in Dichotomous Choice Situations: The General Result”, *International Economic Review*, 38(1): 175–186. doi: 10.2307/2527413
+* Berend, Daniel and Jacob Paroush, 1998, “When Is Condorcet’s Jury Theorem Valid?”, *Social Choice and Welfare*, 15(4): 481–488. doi: 10.1007/s003550050118
+* Berend, Daniel and Luba Sapir, 2005, “Monotonicity in Condorcet Jury Theorem”, *Social Choice and Welfare*, 24(1): 83–92. doi: 10.1007/s00355-003-0293-z
+* Berg, Sven, 1993, “Condorcet’s Jury Theorem, Dependency among Jurors”, *Social Choice and Welfare*, 10(1). doi: 10.1007/BF00187435
 * Black, Duncan, 1958, *The Theory of Committees and Elections*, Cambridge: Cambridge University Press.
-* Boland, Philip J., 1989, “Majority Systems and the Condorcet Jury Theorem”, *Journal of the Royal Statistical Society: Series D (The Statistician)*, 38(3): 181–189. doi:10.2307/2348873
-* Boland, Philip J., Frank Proschan, and Y. L. Tong, 1989, “Modelling Dependence in Simple and Indirect Majority Systems”, *Journal of Applied Probability*, 26(1): 81–88. doi:10.2307/3214318
-* Bovens, Luc and Wlodek Rabinowicz, 2006, “Democratic Answers to Complex Questions – An Epistemic Perspective”, *Synthese*, 150(1): 131–153. doi:10.1007/s11229-006-0005-1
-* Bozbay, İrem, Franz Dietrich, and Hans Peters, 2014, “Judgment Aggregation in Search for the Truth”, *Games and Economic Behavior*, 87: 571–590. doi:10.1016/j.geb.2014.02.007
-* Brennan, Jason, 2018, “Does the Demographic Objection to Epistocracy Succeed?”, *Res Publica*, 24(1): 53–71. doi:10.1007/s11158-017-9385-y
-* Brennan, Geoffrey and Loren Lomasky (eds.), 1993, *Democracy and Decision: The Pure Theory of Electoral Preference*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173544
-* Cammack, Daniela, 2013, “Aristotle on the Virtue of the Multitude”, *Political Theory*, 41(2): 175–202. doi:10.1177/0090591712470423
-* Cohen, Joshua, 1986, “An Epistemic Conception of Democracy”, *Ethics*, 97(1): 26–38. doi:10.1086/292815
-* Coleman, Jules and John Ferejohn, 1986, “Democracy and Social Choice”, *Ethics*, 97(1): 6–25. doi:10.1086/292814
+* Boland, Philip J., 1989, “Majority Systems and the Condorcet Jury Theorem”, *Journal of the Royal Statistical Society: Series D (The Statistician)*, 38(3): 181–189. doi: 10.2307/2348873
+* Boland, Philip J., Frank Proschan, and Y. L. Tong, 1989, “Modelling Dependence in Simple and Indirect Majority Systems”, *Journal of Applied Probability*, 26(1): 81–88. doi: 10.2307/3214318
+* Bovens, Luc and Wlodek Rabinowicz, 2006, “Democratic Answers to Complex Questions – An Epistemic Perspective”, *Synthese*, 150(1): 131–153. doi: 10.1007/s11229-006-0005-1
+* Bozbay, İrem, Franz Dietrich, and Hans Peters, 2014, “Judgment Aggregation in Search for the Truth”, *Games and Economic Behavior*, 87: 571–590. doi: 10.1016/j.geb.2014.02.007
+* Brennan, Jason, 2018, “Does the Demographic Objection to Epistocracy Succeed?”, *Res Publica*, 24(1): 53–71. doi: 10.1007/s11158-017-9385-y
+* Brennan, Geoffrey and Loren Lomasky (eds.), 1993, *Democracy and Decision: The Pure Theory of Electoral Preference*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139173544
+* Cammack, Daniela, 2013, “Aristotle on the Virtue of the Multitude”, *Political Theory*, 41(2): 175–202. doi: 10.1177/0090591712470423
+* Cohen, Joshua, 1986, “An Epistemic Conception of Democracy”, *Ethics*, 97(1): 26–38. doi: 10.1086/292815
+* Coleman, Jules and John Ferejohn, 1986, “Democracy and Social Choice”, *Ethics*, 97(1): 6–25. doi: 10.1086/292814
 * Condorcet, Marquis De, Marie Jean Antoine Nicolas de Caritat, 1785, *Essai sur l’application de l’analyse à la Probabilité des Décisions Rendues à la Pluralité des Voix*.
-* Conradt, Larissa and Christian List, 2009, “Group Decisions in Humans and Animals: A Survey”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1518): 719–742. doi:10.1098/rstb.2008.0276
-* Coughlan, Peter J., 2000, “In Defense of Unanimous Jury Verdicts: Mistrials, Communication, and Strategic Voting”, *American Political Science Review*, 94(2): 375–393. doi:10.2307/2586018
-* Dietrich, Franz, 2006, “General Representation of Epistemically Optimal Procedures”, *Social Choice and Welfare*, 26(2): 263–283. doi:10.1007/s00355-006-0094-2
-* –––, 2007, “A Generalised Model of Judgment Aggregation”, *Social Choice and Welfare*, 28(4): 529–565. doi:10.1007/s00355-006-0187-y
-* –––, 2008, “The Premises of Condorcet’s Jury Theorem Are Not Simultaneously Justified”, *Episteme*, 5(1): 56–73. doi:10.3366/E1742360008000233
-* Dietrich, Franz and Christian List, 2004, “A Model of Jury Decisions Where All Jurors Have the Same Evidence”, *Synthese*, 142(2): 175–202. doi:10.1007/s11229-004-1276-z
-* Dietrich, Franz and Kai Spiekermann, 2013a, “Epistemic Democracy with Defensible Premises”, *Economics and Philosophy*, 29(1): 87–120. doi:10.1017/S0266267113000096
-* –––, 2013b, “Independent Opinions? On the Causal Foundations of Belief Formation and Jury Theorems”, *Mind*, 122(487): 655–685. doi:10.1093/mind/fzt074
+* Conradt, Larissa and Christian List, 2009, “Group Decisions in Humans and Animals: A Survey”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 364(1518): 719–742. doi: 10.1098/rstb.2008.0276
+* Coughlan, Peter J., 2000, “In Defense of Unanimous Jury Verdicts: Mistrials, Communication, and Strategic Voting”, *American Political Science Review*, 94(2): 375–393. doi: 10.2307/2586018
+* Dietrich, Franz, 2006, “General Representation of Epistemically Optimal Procedures”, *Social Choice and Welfare*, 26(2): 263–283. doi: 10.1007/s00355-006-0094-2
+* –––, 2007, “A Generalised Model of Judgment Aggregation”, *Social Choice and Welfare*, 28(4): 529–565. doi: 10.1007/s00355-006-0187-y
+* –––, 2008, “The Premises of Condorcet’s Jury Theorem Are Not Simultaneously Justified”, *Episteme*, 5(1): 56–73. doi: 10.3366/E1742360008000233
+* Dietrich, Franz and Christian List, 2004, “A Model of Jury Decisions Where All Jurors Have the Same Evidence”, *Synthese*, 142(2): 175–202. doi: 10.1007/s11229-004-1276-z
+* Dietrich, Franz and Kai Spiekermann, 2013a, “Epistemic Democracy with Defensible Premises”, *Economics and Philosophy*, 29(1): 87–120. doi: 10.1017/S0266267113000096
+* –––, 2013b, “Independent Opinions? On the Causal Foundations of Belief Formation and Jury Theorems”, *Mind*, 122(487): 655–685. doi: 10.1093/mind/fzt074
 * –––, 2020, “Jury Theorems”, in Miranda Fricker, Peter J. Graham, Peter Henderson, and Nikolai J.L.L. Pedersen (eds.), *The Routledge Handbook of Social Epistemology*, New York and London: Routledge, ch. 38, pp. 386-96.
 * –––, forthcoming, “Social Epistemology”, in Markus Knauff and Wolfgang Spohn (eds), *The Handbook of Rationality*, Cambridge, MA: MIT Press.
-* Dryzek, John S. and Christian List, 2003, “Social Choice Theory and Deliberative Democracy: A Reconciliation”, *British Journal of Political Science*, 33(1): 1–28. doi:10.1017/S0007123403000012
+* Dryzek, John S. and Christian List, 2003, “Social Choice Theory and Deliberative Democracy: A Reconciliation”, *British Journal of Political Science*, 33(1): 1–28. doi: 10.1017/S0007123403000012
 * Dworkin, Ronald, 1987, “What Is Equality - Part 4: Political Equality Marshall P. Madison Lecture”, *University of San Francisco Law Review*, 22(1): 1–30.
 * Elga, Adam, 2010, “How to Disagree about How to Disagree”, in Richard Feldman and Ted A. Warfield (eds.), *Disagreement*, Oxford: Oxford University Press, pp. 175–86.
-* Elster, Jon, 2012, “The Optimal Design of a Constituent Assembly”, in Landemore and Elster 2012: 148–172. doi:10.1017/CBO9780511846427.008
+* Elster, Jon, 2012, “The Optimal Design of a Constituent Assembly”, in Landemore and Elster 2012: 148–172. doi: 10.1017/CBO9780511846427.008
 * Estlund, David M., 2008, *Democratic Authority: A Philosophical Framework*, Princeton, NJ: Princeton University Press.
-* Feddersen, Timothy and Wolfgang Pesendorfer, 1998, “Convicting the Innocent: The Inferiority of Unanimous Jury Verdicts under Strategic Voting”, *American Political Science Review*, 92(1): 23–35. doi:10.2307/2585926
-* –––, 1999, “Elections, Information Aggregation, and Strategic Voting”, *Proceedings of the National Academy of Sciences*, 96(19): 10572–10574. doi:10.1073/pnas.96.19.10572
-* Fuerstein, Michael, 2008, “Epistemic Democracy and the Social Character of Knowledge”, *Episteme*, 5(1): 74–93. doi:10.3366/E1742360008000245
-* Galton, Francis, 1907, “Vox Populi”, *Nature*, 75(1949): 450–451. doi:10.1038/075450a0
-* Gaus, Gerald, 2011, “On Seeking the Truth (Whatever That Is) through Democracy: Estlund’s Case for the Qualified Epistemic Claim”, *Ethics*, 121(2): 270–300. doi:10.1086/658141
-* Gerardi, Dino and Leeat Yariv, 2007, “Deliberative Voting”, *Journal of Economic Theory*, 134(1): 317–338. doi:10.1016/j.jet.2006.05.002
-* Goldman, Alvin I., 1999, *Knowledge in a Social World*, Oxford: Clarendon Press. doi:10.1093/0198238207.001.0001
-* Goodin, Robert E. and Kai Spiekermann, 2018, *An Epistemic Theory of Democracy*, Oxford: Oxford University Press. doi:10.1093/oso/9780198823452.001.0001
-* Grofman, Bernard, 1975, “A Comment on ‘Democratic Theory: A Preliminary Mathematical Model’”, *Public Choice*, 21: 99–103. doi:10.1007/BF01705949
-* Grofman, Bernard and Scott L. Feld, 1988, “Rousseau’s General Will: A Condorcetian Perspective”, *American Political Science Review*, 82(2): 567–576. doi:10.2307/1957401
-* Grofman, Bernard, Guillermo Owen, and Scott L. Feld, 1983, “Thirteen Theorems in Search of the Truth”, *Theory and Decision*, 15(3): 261–278. doi:10.1007/BF00125672
-* Gunn, Paul, 2019, “Against Epistocracy”, *Critical Review*, 31(1): 26–82. doi:10.1080/08913811.2019.1609842
-* Hahn, Ulrike, Adam J. L. Harris, and Adam Corner, 2016, “Public Reception of Climate Science: Coherence, Reliability, and Independence”, *Topics in Cognitive Science*, 8(1): 180–195. doi:10.1111/tops.12173
-* Hitchcock, Christopher and Miklós Rédei, 2020, “Reichenbach’s Common Cause Principle”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2020 edition). URL= <https://plato.stanford.edu/archives/spr2020/entries/physics-Rpcc/>.
-* Hong, Lu and Scott E. Page, 2009, “Interpreted and Generated Signals”, *Journal of Economic Theory*, 144(5): 2174–2196. doi:10.1016/j.jet.2009.01.006
-* –––, 2012, “Some Microfoundations of Collective Wisdom”, in Landemore and Elster 2012: 56–71. doi:10.1017/CBO9780511846427.004
-* Kaniovski, Serguei, 2010, “Aggregation of Correlated Votes and Condorcet’s Jury Theorem”, *Theory and Decision*, 69(3): 453–468. doi:10.1007/s11238-008-9120-4
-* Karotkin, Drora and Jacob Paroush, 2003, “Optimum Committee Size: Quality-versus-Quantity Dilemma”, *Social Choice and Welfare*, 20(3): 429–441. doi:10.1007/s003550200190
+* Feddersen, Timothy and Wolfgang Pesendorfer, 1998, “Convicting the Innocent: The Inferiority of Unanimous Jury Verdicts under Strategic Voting”, *American Political Science Review*, 92(1): 23–35. doi: 10.2307/2585926
+* –––, 1999, “Elections, Information Aggregation, and Strategic Voting”, *Proceedings of the National Academy of Sciences*, 96(19): 10572–10574. doi: 10.1073/pnas.96.19.10572
+* Fuerstein, Michael, 2008, “Epistemic Democracy and the Social Character of Knowledge”, *Episteme*, 5(1): 74–93. doi: 10.3366/E1742360008000245
+* Galton, Francis, 1907, “Vox Populi”, *Nature*, 75(1949): 450–451. doi: 10.1038/075450a0
+* Gaus, Gerald, 2011, “On Seeking the Truth (Whatever That Is) through Democracy: Estlund’s Case for the Qualified Epistemic Claim”, *Ethics*, 121(2): 270–300. doi: 10.1086/658141
+* Gerardi, Dino and Leeat Yariv, 2007, “Deliberative Voting”, *Journal of Economic Theory*, 134(1): 317–338. doi: 10.1016/j.jet.2006.05.002
+* Goldman, Alvin I., 1999, *Knowledge in a Social World*, Oxford: Clarendon Press. doi: 10.1093/0198238207.001.0001
+* Goodin, Robert E. and Kai Spiekermann, 2018, *An Epistemic Theory of Democracy*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198823452.001.0001
+* Grofman, Bernard, 1975, “A Comment on ‘Democratic Theory: A Preliminary Mathematical Model’”, *Public Choice*, 21: 99–103. doi: 10.1007/BF01705949
+* Grofman, Bernard and Scott L. Feld, 1988, “Rousseau’s General Will: A Condorcetian Perspective”, *American Political Science Review*, 82(2): 567–576. doi: 10.2307/1957401
+* Grofman, Bernard, Guillermo Owen, and Scott L. Feld, 1983, “Thirteen Theorems in Search of the Truth”, *Theory and Decision*, 15(3): 261–278. doi: 10.1007/BF00125672
+* Gunn, Paul, 2019, “Against Epistocracy”, *Critical Review*, 31(1): 26–82. doi: 10.1080/08913811.2019.1609842
+* Hahn, Ulrike, Adam J. L. Harris, and Adam Corner, 2016, “Public Reception of Climate Science: Coherence, Reliability, and Independence”, *Topics in Cognitive Science*, 8(1): 180–195. doi: 10.1111/tops.12173
+* Hitchcock, Christopher and Miklós Rédei, 2020, “Reichenbach’s Common Cause Principle”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2020 edition). URL = <https://plato.stanford.edu/archives/spr2020/entries/physics-Rpcc/>.
+* Hong, Lu and Scott E. Page, 2009, “Interpreted and Generated Signals”, *Journal of Economic Theory*, 144(5): 2174–2196. doi: 10.1016/j.jet.2009.01.006
+* –––, 2012, “Some Microfoundations of Collective Wisdom”, in Landemore and Elster 2012: 56–71. doi: 10.1017/CBO9780511846427.004
+* Kaniovski, Serguei, 2010, “Aggregation of Correlated Votes and Condorcet’s Jury Theorem”, *Theory and Decision*, 69(3): 453–468. doi: 10.1007/s11238-008-9120-4
+* Karotkin, Drora and Jacob Paroush, 2003, “Optimum Committee Size: Quality-versus-Quantity Dilemma”, *Social Choice and Welfare*, 20(3): 429–441. doi: 10.1007/s003550200190
 * Kelly, Thomas, 2011, “Peer Disagreement and Higher Order Evidence”, in Alvin I. Goldman and Dennis Whitcomb (eds.), *Social Epistemology: Essential Readings*, New York: Oxford University Press, pp. 183–217.
 * Kolmogorov, Andrey N., 1930, “Sur La Loi Forte Des Grands Nombres”, *Comptes Rendus de l’Académie Des Sciences*, 191: 910–912.
 * Lackey, Jennifer, 2013, “Disagreement and Belief Dependence Why Numbers Matter”, in David Christensen and Jennifer Lackey (eds.), *The Epistemology of Disagreement: New Essays*, Oxford: Oxford University Press. pp. 243–68.
-* Ladha, Krishna K., 1992, “The Condorcet Jury Theorem, Free Speech, and Correlated Votes”, *American Journal of Political Science*, 36(3): 617–634. doi:10.2307/2111584
-* –––, 1993, “Condorcet’s Jury Theorem in Light of de Finetti’s Theorem: Majority-Rule Voting with Correlated Votes”, *Social Choice and Welfare*, 10(1). doi:10.1007/BF00187434
+* Ladha, Krishna K., 1992, “The Condorcet Jury Theorem, Free Speech, and Correlated Votes”, *American Journal of Political Science*, 36(3): 617–634. doi: 10.2307/2111584
+* –––, 1993, “Condorcet’s Jury Theorem in Light of de Finetti’s Theorem: Majority-Rule Voting with Correlated Votes”, *Social Choice and Welfare*, 10(1). doi: 10.1007/BF00187434
 * –––, 1995, “Information Pooling through Majority-Rule Voting: Condorcet’s Jury Theorem with Correlated Votes”, *Journal of Economic Behavior & Organization*, 26(3): 353–372.
 * Landemore, Hélène, 2013, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton, NJ: Princeton University Press.
-* Landemore, Hélène and Jon Elster (eds.), 2012, *Collective Wisdom: Principles and Mechanisms*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511846427
-* Lane, Melissa, 2013, “Claims to Rule: The Case of the Multitude”, in *The Cambridge Companion to Aristotle’s Politics*, Marguerite Deslauriers and Pierre Destrée (eds.), Cambridge: Cambridge University Press, 247–274. doi:10.1017/CCO9780511791581.011
-* Lippert-Rasmussen, Kasper, 2012, “Estlund on Epistocracy: A Critique”, *Res Publica*, 18(3): 241–258. doi:10.1007/s11158-012-9179-1
-* List, Christian, 2005, “Group Knowledge and Group Rationality: A Judgment Aggregation Perspective”, *Episteme*, 2(1): 25–38. doi:10.3366/epi.2005.2.1.25
-* –––, 2013, “Social Choice Theory”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy (Winter 2013)*, URL= <[Social Choice Theory (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/social-choice)/>.
-* List, Christian and Robert E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem”, *Journal of Political Philosophy*, 9(3): 277–306. doi:10.1111/1467-9760.00128
-* List, Christian and Philip Pettit, 2002, “Aggregating Sets of Judgments: An Impossibility Result”, *Economics and Philosophy*, 18(1): 89–110. doi:10.1017/S0266267102001098
-* List, Christian and Kai Spiekermann, 2016, “The Condorcet Jury Theorem and Voter-Specific Truth”, in *Goldman and His Critics*, Brian P. McLaughlin and Hilary Kornblith (eds.), Hoboken, NJ: John Wiley & Sons, Inc., 219–233. doi:10.1002/9781118609378.ch10
-* Masterton, George, Erik J. Olsson, and Staffan Angere, 2016, “Linking as Voting: How the Condorcet Jury Theorem in Political Science Is Relevant to Webometrics”, *Scientometrics*, 106(3): 945–966. doi:10.1007/s11192-016-1837-1
+* Landemore, Hélène and Jon Elster (eds.), 2012, *Collective Wisdom: Principles and Mechanisms*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511846427
+* Lane, Melissa, 2013, “Claims to Rule: The Case of the Multitude”, in *The Cambridge Companion to Aristotle’s Politics*, Marguerite Deslauriers and Pierre Destrée (eds.), Cambridge: Cambridge University Press, 247–274. doi: 10.1017/CCO9780511791581.011
+* Lippert-Rasmussen, Kasper, 2012, “Estlund on Epistocracy: A Critique”, *Res Publica*, 18(3): 241–258. doi: 10.1007/s11158-012-9179-1
+* List, Christian, 2005, “Group Knowledge and Group Rationality: A Judgment Aggregation Perspective”, *Episteme*, 2(1): 25–38. doi: 10.3366/epi.2005.2.1.25
+* –––, 2013, “Social Choice Theory”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy (Winter 2013)*, URL = <[Social Choice Theory (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/social-choice)/>.
+* List, Christian and Robert E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem”, *Journal of Political Philosophy*, 9(3): 277–306. doi: 10.1111/1467-9760.00128
+* List, Christian and Philip Pettit, 2002, “Aggregating Sets of Judgments: An Impossibility Result”, *Economics and Philosophy*, 18(1): 89–110. doi: 10.1017/S0266267102001098
+* List, Christian and Kai Spiekermann, 2016, “The Condorcet Jury Theorem and Voter-Specific Truth”, in *Goldman and His Critics*, Brian P. McLaughlin and Hilary Kornblith (eds.), Hoboken, NJ: John Wiley & Sons, Inc., 219–233. doi: 10.1002/9781118609378.ch10
+* Masterton, George, Erik J. Olsson, and Staffan Angere, 2016, “Linking as Voting: How the Condorcet Jury Theorem in Political Science Is Relevant to Webometrics”, *Scientometrics*, 106(3): 945–966. doi: 10.1007/s11192-016-1837-1
 * Miller, Nicholas R., 1986, “Information, Electorates, and Democracy: Some Extentions and Interpretations of the Condorcet Jury Theorem”, in Bernard Grofman and Guillermo Owen (eds.), *Information Pooling and Group Decision Making*, Greenwich, CT: JAI Press, pp. 173–192.
-* Morreau, Michael, 2021, “Democracy without Enlightenment: A Jury Theorem for Evaluative Voting*”, *Journal of Political Philosophy*, 29(2): 188–210. doi:10.1111/jopp.12226
-* Muirhead, Russell, 2014, “The Politics of Getting It Right”, *Critical Review*, 26(1–2): 115–128. doi:10.1080/08913811.2014.907045
-* Müller, Julian F., 2018, “Epistemic Democracy: Beyond Knowledge Exploitation”, *Philosophical Studies*, 175(5): 1267–1288. doi:10.1007/s11098-017-0910-9
-* Nitzan, Shmuel and Jacob Paroush, 1982, “Optimal Decision Rules in Uncertain Dichotomous Choice Situations”, *International Economic Review*, 23(2): 289–297. doi:10.2307/2526438
-* Ober, Josiah, 2008, *Democracy and Knowledge: Innovation and Learning in Classical Athens*, Princeton, NJ: Princeton University Press.
-* –––, 2013, “Democracy’s Wisdom: An Aristotelian Middle Way for Collective Judgment”, *American Political Science Review*, 107(1): 104–122. doi:10.1017/S0003055412000627
-* Owen, Guillermo, Bernard Grofman, and Scott L. Feld, 1989, “Proving a Distribution-Free Generalization of the Condorcet Jury Theorem”, *Mathematical Social Sciences*, 17: 1–16. doi:10.1016/0165-4896(89)90012-7
-* Paroush, Jacob, 1998, “Stay Away from Fair Coins: A Condorcet Jury Theorem”, *Social Choice and Welfare*, 15(1): 15–20. doi:10.1007/s003550050088
-* Pearl, Judea, 2000, *Causality: Models, Reasoning and Inference*, Cambridge: Cambridge University Press.
-* Peleg, Bezalel and Shmuel Zamir, 2012, “Extending the Condorcet Jury Theorem to a General Dependent Jury”, *Social Choice and Welfare*, 39(1): 91–125. doi:10.1007/s00355-011-0546-1
-* Pigozzi, Gabriella, 2016, “Belief Merging and Judgment Aggregation”, in Edward N. Zalta (ed.). *The Stanford Encyclopedia of Philosophy (Winter 2016)*, Available at URL = <https://plato.stanford.edu/archives/win2016/entries/belief-merging/>.
-* Pivato, Marcus, 2013, “Voting Rules as Statistical Estimators”, *Social Choice and Welfare*, 40(2): 581–630. doi:10.1007/s00355-011-0619-1
-* –––, 2016, “Statistical Utilitarianism”, in *The Political Economy of Social Choices*, Maria Gallego and Norman Schofield (eds.), (Studies in Political Economy), Cham: Springer International Publishing, 187–204. doi:10.1007/978-3-319-40118-8_8
-* –––, 2017, “Epistemic Democracy with Correlated Voters”, *Journal of Mathematical Economics*, 72: 51–69. doi:10.1016/j.jmateco.2017.06.001
-* Rawls, John, 1971 [1999], *A Theory of Justice*, Cambridge, MA: Belknap Press. Revised edition, Oxford: Oxford University Press, 1999.
-* Reichenbach, Hans, 1956, *The Direction of Time*, Berkeley, CA: University of California Press.
-* Richardson, Henry S., 2002, *Democratic Autonomy: Public Reasoning about the Ends of Policy*, New York: Oxford University Press.
-* Romeijn, Jan-Willem and David Atkinson, 2011, “Learning Juror Competence: A Generalized Condorcet Jury Theorem”, *Politics, Philosophy & Economics*, 10(3): 237–262. doi:10.1177/1470594X10372317
-* Schuessler, Alexander A., 2000, “Expressive Voting”, *Rationality and Society*, 12(1): 87–119. doi:10.1177/104346300012001005
-* Schwartzberg, Melissa, 2015, “Epistemic Democracy and Its Challenges”, *Annual Review of Political Science*, 18: 187–203. doi:10.1146/annurev-polisci-110113-121908
-* Spiekermann, Kai and Robert E. Goodin, 2012, “Courts of Many Minds”, *British Journal of Political Science*, 42(3): 555–571. doi:10.1017/S000712341100041X
-* Sunstein, Cass R., 2009, *A Constitution of Many Minds: Why the Founding Document Doesn’t Mean What It Meant Before*, Princeton, NJ: Princeton University Press.
-* Sunstein, Cass R. and Reid Hastie, 2014, *Wiser: Getting Beyond Groupthink to Make Groups Smarter*, Boston, MA: Harvard Business Review Press.
-* Vermeule, Adrian, 2009, “Many-Minds Arguments in Legal Theory”, *Journal of Legal Analysis*, 1(1): 1–45. doi:10.4159/jla.v1i1.7
-* Waldron, Jeremy, 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s *Politics*”, *Political Theory*, 23(4): 563–584. doi:10.1177/0090591795023004001
-* Wyckoff, Jason, 2011, “Rousseau’s General Will and the Condorcet Jury Theorem”, *History of Political Thought*, 32(1): 49–62.
+* Morreau, Michael, 2021, “Democracy without Enlightenment: A Jury Theorem for Evaluative Voting *”, * Journal of Political Philosophy*, 29(2): 188–210. doi: 10.1111/jopp.12226
+* Muirhead, Russell, 2014, “The Politics of Getting It Right”, * Critical Review*, 26(1–2): 115–128. doi: 10.1080/08913811.2014.907045
+* Müller, Julian F., 2018, “Epistemic Democracy: Beyond Knowledge Exploitation”, * Philosophical Studies*, 175(5): 1267–1288. doi: 10.1007/s11098-017-0910-9
+* Nitzan, Shmuel and Jacob Paroush, 1982, “Optimal Decision Rules in Uncertain Dichotomous Choice Situations”, * International Economic Review*, 23(2): 289–297. doi: 10.2307/2526438
+* Ober, Josiah, 2008, * Democracy and Knowledge: Innovation and Learning in Classical Athens*, Princeton, NJ: Princeton University Press.
+* –––, 2013, “Democracy’s Wisdom: An Aristotelian Middle Way for Collective Judgment”, * American Political Science Review*, 107(1): 104–122. doi: 10.1017/S0003055412000627
+* Owen, Guillermo, Bernard Grofman, and Scott L. Feld, 1989, “Proving a Distribution-Free Generalization of the Condorcet Jury Theorem”, * Mathematical Social Sciences*, 17: 1–16. doi: 10.1016/0165-4896(89)90012-7
+* Paroush, Jacob, 1998, “Stay Away from Fair Coins: A Condorcet Jury Theorem”, * Social Choice and Welfare*, 15(1): 15–20. doi: 10.1007/s003550050088
+* Pearl, Judea, 2000, * Causality: Models, Reasoning and Inference*, Cambridge: Cambridge University Press.
+* Peleg, Bezalel and Shmuel Zamir, 2012, “Extending the Condorcet Jury Theorem to a General Dependent Jury”, * Social Choice and Welfare*, 39(1): 91–125. doi: 10.1007/s00355-011-0546-1
+* Pigozzi, Gabriella, 2016, “Belief Merging and Judgment Aggregation”, in Edward N. Zalta (ed.). * The Stanford Encyclopedia of Philosophy (Winter 2016)*, Available at URL = <https://plato.stanford.edu/archives/win2016/entries/belief-merging/>.
+* Pivato, Marcus, 2013, “Voting Rules as Statistical Estimators”, * Social Choice and Welfare*, 40(2): 581–630. doi: 10.1007/s00355-011-0619-1
+* –––, 2016, “Statistical Utilitarianism”, in * The Political Economy of Social Choices*, Maria Gallego and Norman Schofield (eds.), (Studies in Political Economy), Cham: Springer International Publishing, 187–204. doi: 10.1007/978-3-319-40118-8_8
+* –––, 2017, “Epistemic Democracy with Correlated Voters”, * Journal of Mathematical Economics*, 72: 51–69. doi: 10.1016/j.jmateco.2017.06.001
+* Rawls, John, 1971 [1999], * A Theory of Justice*, Cambridge, MA: Belknap Press. Revised edition, Oxford: Oxford University Press, 1999.
+* Reichenbach, Hans, 1956, * The Direction of Time*, Berkeley, CA: University of California Press.
+* Richardson, Henry S., 2002, * Democratic Autonomy: Public Reasoning about the Ends of Policy*, New York: Oxford University Press.
+* Romeijn, Jan-Willem and David Atkinson, 2011, “Learning Juror Competence: A Generalized Condorcet Jury Theorem”, * Politics, Philosophy & Economics*, 10(3): 237–262. doi: 10.1177/1470594X10372317
+* Schuessler, Alexander A., 2000, “Expressive Voting”, * Rationality and Society*, 12(1): 87–119. doi: 10.1177/104346300012001005
+* Schwartzberg, Melissa, 2015, “Epistemic Democracy and Its Challenges”, * Annual Review of Political Science*, 18: 187–203. doi: 10.1146/annurev-polisci-110113-121908
+* Spiekermann, Kai and Robert E. Goodin, 2012, “Courts of Many Minds”, * British Journal of Political Science*, 42(3): 555–571. doi: 10.1017/S000712341100041X
+* Sunstein, Cass R., 2009, * A Constitution of Many Minds: Why the Founding Document Doesn’t Mean What It Meant Before*, Princeton, NJ: Princeton University Press.
+* Sunstein, Cass R. and Reid Hastie, 2014, * Wiser: Getting Beyond Groupthink to Make Groups Smarter*, Boston, MA: Harvard Business Review Press.
+* Vermeule, Adrian, 2009, “Many-Minds Arguments in Legal Theory”, * Journal of Legal Analysis*, 1(1): 1–45. doi: 10.4159/jla.v1i1.7
+* Waldron, Jeremy, 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s * Politics *”, * Political Theory*, 23(4): 563–584. doi: 10.1177/0090591795023004001
+* Wyckoff, Jason, 2011, “Rousseau’s General Will and the Condorcet Jury Theorem”, * History of Political Thought*, 32(1): 49–62.
 
 ## Academic Tools
 

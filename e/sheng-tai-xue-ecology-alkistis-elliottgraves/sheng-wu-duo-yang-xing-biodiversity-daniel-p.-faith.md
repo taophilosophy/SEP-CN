@@ -102,7 +102,7 @@
 
 > 生物多样性的选择价值最好的论据是，我们看到许多目前有益的单位，并且保持未来大量单位（生物多样性）将有助于保持这些有益单位的稳定流动... 因此，生物多样性的选择价值将“变异”和“价值”联系起来：提供生物多样性的基本关联价值，反映了我们对未来世代利益的关注程度
 
-Intergenerational justice or equity is linked to both investment/options and insurance (Bartkowski 2017: 53):代际正义或公平与投资/选择以及保险相关联（Bartkowski 2017: 53）:
+Intergenerational justice or equity is linked to both investment/options and insurance (Bartkowski 2017: 53): 代际正义或公平与投资/选择以及保险相关联（Bartkowski 2017: 53）:
 
 > 两种视角——保险和选择——在本质上是相互关联的；然而，它们依赖于不同类型的不确定性（供给与需求），这使得区分变得合理。将生物多样性视为期权价值的观点源自这样一种认识：生物多样性丰富的生态系统，其中包含许多不同的物种和基因组，可以最好地适应未来意愿（偏好）的变化。就像保险价值的情况一样，这可以与跨代公平的考虑相结合。事实上，在期权价值的情况下，这一概念可能更为核心：目前的高生物多样性意味着我们的后代有许多不同的选择。
 
@@ -217,7 +217,7 @@ Koricheva and Siipi (2004)观察到
 
 生物多样性的前史也突显了应该将多样性本身的价值与个体物种（“生物特定”）的认可益处（和不利益）一起考虑，所有这些益处/价值可以进入支持决策的权衡和协同关系。关于生物多样性及其价值的一些当前观点或框架可以被理解为再次模糊了生物多样性和“生物特定”之间的区别。其中一种框架将“生物多样性”等同于自然的全部。关注“生物多样性”作为个体单位/元素的集合暗示着“生物多样性”涵盖了如此之多的个体元素，以至于它或多或少可以等同于生物性“自然”。生态/生态系统对生物多样性的框架进一步扩展了这一点——“生物多样性”可以被解释为不仅包括许多个体元素，还包括所有它们的生态相互作用和相关过程。这些扩展的观点，关注元素及其相互作用，存在一个风险，即我们可能会错失适当考虑自然/生态的价值以及与生物多样性-多样性相关的价值的机会。
 
-生物多样性的定义和价值存在广泛的观点差异，这可能有几个因素可以解释。其中一个是认为“生物多样性”一词旨在涵盖我们在保护生物多样性学科内希望保护的一切。另一个观点是“生物多样性”仅在支持生态系统功能和服务方面对人类具有意义和重要性。这两种框架得到了对该概念历史的特定解释的支持。最近出现的另一个新兴观点是呼吁重新构思“生物多样性”一词，使其更全面地反映社会生态思维。上述概述的主题大致对应于“生物多样性”的三种重新构思，定义如下三个部分：§4 生态/生态系统服务框架，§5 保护生物学框架和§6 社会生态框架。
+生物多样性的定义和价值存在广泛的观点差异，这可能有几个因素可以解释。其中一个是认为“生物多样性”一词旨在涵盖我们在保护生物多样性学科内希望保护的一切。另一个观点是“生物多样性”仅在支持生态系统功能和服务方面对人类具有意义和重要性。这两种框架得到了对该概念历史的特定解释的支持。最近出现的另一个新兴观点是呼吁重新构思“生物多样性”一词，使其更全面地反映社会生态思维。上述概述的主题大致对应于“生物多样性”的三种重新构思，定义如下三个部分：§4 生态/生态系统服务框架，§5 保护生物学框架和 §6 社会生态框架。
 
 ## 生态/生态系统服务框架
 
@@ -345,7 +345,7 @@ Sarkar (2017)指出，在保护生物学的早期历史中，生态多样性指�
 
 生物多样性已被现代保护科学视为核心目标，但在哲学文献中对这一概念的实用性存在一些怀疑。一系列哲学家认为生物多样性概念对环境保护工作有害（Maier 2012; Santana 2014, 2018; Morar, Toadvine, & Bohannan 2015）。这些论点通常围绕几个方面展开：生物多样性概念不可操作化，生物多样性并非可取之物，以及这一概念掩盖了人们对自然的许多价值观。论点是，这一概念要么无法使用，要么可以使用，但必须认识到它并不代表我们对环境的道德利益。
 
-生物多样性无法充分操作化的信念已经在文献中多次出现。一些人认为，操作化生物多样性需要一个“多样性”度量，或一组度量，既代表生物多样性的概念，又不在其关于保护什么的建议上产生矛盾。布莱恩·诺顿早期建议
+生物多样性无法充分操作化的信念已经在文献中多次出现。一些人认为，操作化生物多样性需要一个“多样性”度量，或一组度量，既代表生物多样性的概念，又不在其关于保护什么的建议上产生矛盾。布莱恩 · 诺顿早期建议
 
 > 强有力的论点表明，捕捉所有合法包含的生物多样性的指数是不可能的。生物多样性无法成为可衡量的数量。(Norton 2008: 373)
 
@@ -483,127 +483,127 @@ Sarkar（2017）的主张中也显而易见地存在相关的概念脱节
 
 ## Bibliography
 
-* Anonymous, 1974, “Trends, Priorities, and Needs in Systematic and Evolutionary Biology”, *Systematic Biology*, 23(3): 416–39. doi:10.1093/sysbio/23.3.416
-* Balvanera, Patricia, Gretchen C. Daily, Paul R. Ehrlich, Taylor H. Ricketts, Sallie-Anne Bailey, Salit Kark, Claire Kremen, and Henrique Pereira, 2001, “Conserving Biodiversity and Ecosystem Services”, *Science*, 291(5511): 2047. doi:10.1126/science.291.5511.2047
-* Balvanera, Patricia, Sandra Quijas, Berta Martín-López, Edmundo Barrios, Laura Dee, Forest Isbell, Isabelle Durance, Piran White, Ryan Blanchard, and Rudolf de Groot, 2016, “The Links Between Biodiversity and Ecosystem Services”, in *Routledge Handbook of Ecosystem Services*, Marion Potschin, Roy Haines-Young, Robert Fish, and R. Kerry Turner (eds.), New York: Routledge, pp. 45–61. doi:10.4324/9781315775302-5
-* Bartkowski, Bartosz, 2017, “Are Diverse Ecosystems More Valuable? Economic Value of Biodiversity as Result of Uncertainty and Spatial Interactions in Ecosystem Service Provision”, *Ecosystem Services*, 24: 50–57. doi:10.1016/j.ecoser.2017.02.023
-* –––, 2019, “Valuation of Biodiversity”, in his *Oxford Research Encyclopedia of Environmental Science*, Oxford: Oxford University Press. doi:10.1093/acrefore/9780199389414.013.459
-* Binder, Seth and Stephen Polasky, 2013, “Biodiversity, Human Well-Being, and Markets”, in Levin 2013, 1: 435–439. doi:10.1016/B978-0-12-384719-5.00360-9
-* Brauman, Kate A., Lucas A. Garibaldi, Stephen Polasky, Yildiz Aumeeruddy-Thomas, Pedro H. S. Brancalion, Fabrice DeClerck, Ute Jacob, Matias Enrique Mastrangelo, Nsalambi V. Nkongolo, Hannes Palang, Néstor Pérez-Méndez, Lynne J. Shannon, Uttam Babu Shrestha, Evelyn Strombome, and Madhu Vermar, 2020, “Global Trends in Nature’s Contributions to People”, *Proceedings of the National Academy of Sciences*, 117(51): 32799–32805. doi:10.1073/pnas.2010473117
+* Anonymous, 1974, “Trends, Priorities, and Needs in Systematic and Evolutionary Biology”, *Systematic Biology*, 23(3): 416–39. doi: 10.1093/sysbio/23.3.416
+* Balvanera, Patricia, Gretchen C. Daily, Paul R. Ehrlich, Taylor H. Ricketts, Sallie-Anne Bailey, Salit Kark, Claire Kremen, and Henrique Pereira, 2001, “Conserving Biodiversity and Ecosystem Services”, *Science*, 291(5511): 2047. doi: 10.1126/science.291.5511.2047
+* Balvanera, Patricia, Sandra Quijas, Berta Martín-López, Edmundo Barrios, Laura Dee, Forest Isbell, Isabelle Durance, Piran White, Ryan Blanchard, and Rudolf de Groot, 2016, “The Links Between Biodiversity and Ecosystem Services”, in *Routledge Handbook of Ecosystem Services*, Marion Potschin, Roy Haines-Young, Robert Fish, and R. Kerry Turner (eds.), New York: Routledge, pp. 45–61. doi: 10.4324/9781315775302-5
+* Bartkowski, Bartosz, 2017, “Are Diverse Ecosystems More Valuable? Economic Value of Biodiversity as Result of Uncertainty and Spatial Interactions in Ecosystem Service Provision”, *Ecosystem Services*, 24: 50–57. doi: 10.1016/j.ecoser.2017.02.023
+* –––, 2019, “Valuation of Biodiversity”, in his *Oxford Research Encyclopedia of Environmental Science*, Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199389414.013.459
+* Binder, Seth and Stephen Polasky, 2013, “Biodiversity, Human Well-Being, and Markets”, in Levin 2013, 1: 435–439. doi: 10.1016/B978-0-12-384719-5.00360-9
+* Brauman, Kate A., Lucas A. Garibaldi, Stephen Polasky, Yildiz Aumeeruddy-Thomas, Pedro H. S. Brancalion, Fabrice DeClerck, Ute Jacob, Matias Enrique Mastrangelo, Nsalambi V. Nkongolo, Hannes Palang, Néstor Pérez-Méndez, Lynne J. Shannon, Uttam Babu Shrestha, Evelyn Strombome, and Madhu Vermar, 2020, “Global Trends in Nature’s Contributions to People”, *Proceedings of the National Academy of Sciences*, 117(51): 32799–32805. doi: 10.1073/pnas.2010473117
 * Brennan, Andrew and Yeuk-Sze Lo, 2002 [2016], “Environmental Ethics”, *The Stanford Encyclopedia of Philosophy*, Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/win2016/entries/ethics-environmental/>.
-* Burch-Brown, Joanna and Alfred Archer, 2017, “In Defence of Biodiversity”, *Biology & Philosophy*, 32(6): 969–997. doi:10.1007/s10539-017-9587-x
-* Casetta, Elena, Jorge Marques da Silva, and Davide Vecchi (eds.), 2019, *From Assessing to Conserving Biodiversity: Conceptual and Practical Challenges*, (History, Philosophy and Theory of the Life Sciences 24), Cham: Springer International Publishing. doi:10.1007/978-3-030-10991-2
-* Cavender-Bares, Jeannine, James Heffernan, Elizabeth King, Stephen Polasky, Patricia Balvanera, and William C. Clark, 2013, “Sustainability and Biodiversity”, in Levin 2013: vol. 7, pp. 71–84. doi:10.1016/B978-0-12-384719-5.00390-7
-* Chan, Kai M.A. and Terre Satterfield, 2013, “Justice, Equity and Biodiversity”, in Levin 2013: vol. 4, pp. 434–441. doi:10.1016/B978-0-12-384719-5.00252-5
+* Burch-Brown, Joanna and Alfred Archer, 2017, “In Defence of Biodiversity”, *Biology & Philosophy*, 32(6): 969–997. doi: 10.1007/s10539-017-9587-x
+* Casetta, Elena, Jorge Marques da Silva, and Davide Vecchi (eds.), 2019, *From Assessing to Conserving Biodiversity: Conceptual and Practical Challenges*, (History, Philosophy and Theory of the Life Sciences 24), Cham: Springer International Publishing. doi: 10.1007/978-3-030-10991-2
+* Cavender-Bares, Jeannine, James Heffernan, Elizabeth King, Stephen Polasky, Patricia Balvanera, and William C. Clark, 2013, “Sustainability and Biodiversity”, in Levin 2013: vol. 7, pp. 71–84. doi: 10.1016/B978-0-12-384719-5.00390-7
+* Chan, Kai M.A. and Terre Satterfield, 2013, “Justice, Equity and Biodiversity”, in Levin 2013: vol. 4, pp. 434–441. doi: 10.1016/B978-0-12-384719-5.00252-5
 * CBD, 1992, *Convention on biological diversity*, United Nations. [[CBD 1992 available available online](https://www.cbd.int/convention/text/)]
 * Daily, Gretchen C. (ed.), 1997, *Nature’s Services: Societal Dependence on Natural Ecosystems*, Washington, DC: Island Press.
-* Dasgupta, Partha, Ann P. Kinzig, and Charles Perrings, 2013, “The Value of Biodiversity”, in Levin 2013: vol. 7, pp. 167–179. doi:10.1016/B978-0-12-384719-5.00372-5
+* Dasgupta, Partha, Ann P. Kinzig, and Charles Perrings, 2013, “The Value of Biodiversity”, in Levin 2013: vol. 7, pp. 167–179. doi: 10.1016/B978-0-12-384719-5.00372-5
 * Díaz, Sandra, 2019, “Why Care About Nature? a Pluralistic Agenda for Biodiversity”, in Wyborn, Kalas, and Rust 2019: 62–65.
-* Díaz, Sandra, Andy Hector, and David A Wardle, 2009, “Biodiversity in Forest Carbon Sequestration Initiatives: Not Just a Side Benefit”, *Current Opinion in Environmental Sustainability*, 1(1): 55–60. doi:10.1016/j.cosust.2009.08.001
-* Díaz, Sandra, Sebsebe Demissew, Julia Carabias, Carlos Joly, Mark Lonsdale, Neville Ash, Anne Larigauderie, Jay Ram Adhikari, Salvatore Arico, András Báldi, et al., 2015, “The IPBES Conceptual Framework: Connecting Nature and People”, *Current Opinion in Environmental Sustainability*, 14: 1–16. doi:10.1016/j.cosust.2014.11.002
-* Díaz, Sandra, Unai Pascual, Marie Stenseke, Berta Martín-López, Robert T. Watson, Zsolt Molnár, Rosemary Hill, Kai M. A. Chan, Ivar A. Baste, Kate A. Brauman, et al., 2018, “Assessing Nature’s Contributions to People”, *Science*, 359(6373): 270–272. doi:10.1126/science.aap8826
+* Díaz, Sandra, Andy Hector, and David A Wardle, 2009, “Biodiversity in Forest Carbon Sequestration Initiatives: Not Just a Side Benefit”, *Current Opinion in Environmental Sustainability*, 1(1): 55–60. doi: 10.1016/j.cosust.2009.08.001
+* Díaz, Sandra, Sebsebe Demissew, Julia Carabias, Carlos Joly, Mark Lonsdale, Neville Ash, Anne Larigauderie, Jay Ram Adhikari, Salvatore Arico, András Báldi, et al., 2015, “The IPBES Conceptual Framework: Connecting Nature and People”, *Current Opinion in Environmental Sustainability*, 14: 1–16. doi: 10.1016/j.cosust.2014.11.002
+* Díaz, Sandra, Unai Pascual, Marie Stenseke, Berta Martín-López, Robert T. Watson, Zsolt Molnár, Rosemary Hill, Kai M. A. Chan, Ivar A. Baste, Kate A. Brauman, et al., 2018, “Assessing Nature’s Contributions to People”, *Science*, 359(6373): 270–272. doi: 10.1126/science.aap8826
 * Ehrenfeld, David W., 1970, *Biological Conservation*, New York: Holt, Rinehart and Winston.
 * –––, 1988, “Why Put a Value on Biodiversity?”, in Wilson 1988: 212–216. [[Ehrenfeld 1988 available online](https://nap.nationalacademies.org/read/989/chapter/7#212)]
 * Ehrlich, Paul R. and Anne E. Ehrlich, 1981, *Extinction: The Causes and Consequences of the Disappearance of Species*, New York: Random House.
 * –––, 1992, “The Value of Biodiversity”, *Ambio*, 21(3): 219–226.
-* Ehrlich, Paul R. and Edward O. Wilson, 1991, “Biodiversity Studies: Science and Policy”, *Science*, 253(5021): 758–762. doi:10.1126/science.253.5021.758
+* Ehrlich, Paul R. and Edward O. Wilson, 1991, “Biodiversity Studies: Science and Policy”, *Science*, 253(5021): 758–762. doi: 10.1126/science.253.5021.758
 * Elliot, Kevin C., 2019, “The Values Embedded Within Scientific Language: How ‘Biodiversity’ Separates Humans and Nature”, in Wyborn, Kalas, and Rust 2019: 66–68
 * Eser, Uta, Albrecht Müller, Ann-Kathrin Neureuther, and Hannah Seyfang 2014, *Prudence, Justice and the Good Life: A Typology of Ethical Reasoning in Selected European National Biodiversity Strategies*, Bonn: IUCN Publications.
-* Faith, Daniel P., 1992, “Conservation Evaluation and Phylogenetic Diversity”, *Biological Conservation*, 61(1): 1–10. doi:10.1016/0006-3207(92)91201-3
-* –––, 1994, “Phylogenetic Pattern and the Quantification of Organismal Biodiversity”, *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 345(1311): 45–58. doi:10.1098/rstb.1994.0085
+* Faith, Daniel P., 1992, “Conservation Evaluation and Phylogenetic Diversity”, *Biological Conservation*, 61(1): 1–10. doi: 10.1016/0006-3207(92)91201-3
+* –––, 1994, “Phylogenetic Pattern and the Quantification of Organismal Biodiversity”, *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 345(1311): 45–58. doi: 10.1098/rstb.1994.0085
 * –––, 1995, *Biodiversity and Regional Sustainability Analysis*, Canberra, Australia: CSIRO (Commonwealth Scientific and Industrial Research Organization) Division of Wildlife and Ecology.
 * –––, 2017, “A General Model for Biodiversity and Its Value”, in Garson, Plutynski, and Sarkar 2017: 69–85.
-* –––, 2018a, “Biodiversity’s Option Value: A Comment on Maier (2018)”, *Ambio*, 47(6): 735–736. doi:10.1007/s13280-018-1069-0
-* –––, 2018b, “Avoiding Paradigm Drifts in IPBES: Reconciling ‘Nature’s Contributions to People,’ Biodiversity, and Ecosystem Services”, *Ecology and Society*, 23(2): art40. doi:10.5751/ES-10195-230240
-* –––, 2019, “Defending Biodiversity: Environmental Science and Ethics Jonathan A.Newman, Gary Varner and Stefan Linquist, 2017 Cambridge and New York: Cambridge University Press, Xiv + 441 p.; £36.99 (Pb)”, *Journal of Applied Philosophy*, 36(4): 688–690. doi:10.1111/japp.12350
+* –––, 2018a, “Biodiversity’s Option Value: A Comment on Maier (2018)”, *Ambio*, 47(6): 735–736. doi: 10.1007/s13280-018-1069-0
+* –––, 2018b, “Avoiding Paradigm Drifts in IPBES: Reconciling ‘Nature’s Contributions to People,’ Biodiversity, and Ecosystem Services”, *Ecology and Society*, 23(2): art40. doi: 10.5751/ES-10195-230240
+* –––, 2019, “Defending Biodiversity: Environmental Science and Ethics Jonathan A.Newman, Gary Varner and Stefan Linquist, 2017 Cambridge and New York: Cambridge University Press, Xiv + 441 p.; £36.99 (Pb)”, *Journal of Applied Philosophy*, 36(4): 688–690. doi: 10.1111/japp.12350
 * –––, forthcoming, “Valuation and Appreciation of Biodiversity: The ‘Maintenance of Options’ Provided by the Variety of Life”, *Frontiers in Ecology and Evolution*.
 * Farnham, Timothy J., 2007, *Saving Nature’s Legacy: Origins of the Idea of Biological Diversity*, New Haven: Yale University Press.
 * –––, 2017, “A Confluence of Values: Historical Roots of Concern for Biological Diversity”, in Garson, Plutynski, and Sarkar 2017: ch. 1
 * Francis, 2015, “Encyclical Letter *Laudato Si’* of the Holy Father Francis: On Care for Our Common Home”, 24 May 2015, The Vatican. [[Francis 2015 available online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)]
-* Gascon, Claude, Thomas M. Brooks, Topiltzin Contreras-MacBeath, Nicolas Heard, William Konstant, John Lamoreux, Frederic Launay, Michael Maunder, Russell A. Mittermeier, Sanjay Molur, et al., 2015, “The Importance and Benefits of Species”, *Current Biology*, 25(10): R431–R438. doi:10.1016/j.cub.2015.03.041
-* Garson, Justin, Anya Plutynski, and Sahotra Sarkar (eds.), 2017, *The Routledge Handbook of Philosophy of Biodiversity*, London: Routledge. doi:10.4324/9781315530215
-* Gómez-Baggethun, Erik, Rudolf de Groot, Pedro L. Lomas, and Carlos Montes, 2010, “The History of Ecosystem Services in Economic Theory and Practice: From Early Notions to Markets and Payment Schemes”, *Ecological Economics*, 69(6): 1209–1218. doi:10.1016/j.ecolecon.2009.11.007
-* Hanley, Nick and Charles Perrings, 2019, “The Economic Value of Biodiversity”, *Annual Review of Resource Economics*, 11: 355–375. doi:10.1146/annurev-resource-100518-093946
-* Haskins, C., 1974, “Scientists Talk of the Need for Conservation and an Ethic of Biotic Diversity to Slow Species Extinction”, *Science*, 184(4137): 646–647. doi:10.1126/science.184.4137.646
-* Hillebrand, Helmut, Bernd Blasius, Elizabeth T. Borer, Jonathan M. Chase, John A. Downing, Britas Klemens Eriksson, Christopher T. Filstrup, W. Stanley Harpole, Dorothee Hodapp, Stefano Larsen, et al., 2018, “Biodiversity Change Is Uncoupled from Species Richness Trends: Consequences for Conservation and Monitoring”, *Journal of Applied Ecology*, 55(1): 169–184. doi:10.1111/1365-2664.12959
-* Himes, Austin and Barbara Muraca, 2018, “Relational Values: The Key to Pluralistic Valuation of Ecosystem Services”, *Current Opinion in Environmental Sustainability*, 35: 1–7. doi:10.1016/j.cosust.2018.09.005
+* Gascon, Claude, Thomas M. Brooks, Topiltzin Contreras-MacBeath, Nicolas Heard, William Konstant, John Lamoreux, Frederic Launay, Michael Maunder, Russell A. Mittermeier, Sanjay Molur, et al., 2015, “The Importance and Benefits of Species”, *Current Biology*, 25(10): R431–R438. doi: 10.1016/j.cub.2015.03.041
+* Garson, Justin, Anya Plutynski, and Sahotra Sarkar (eds.), 2017, *The Routledge Handbook of Philosophy of Biodiversity*, London: Routledge. doi: 10.4324/9781315530215
+* Gómez-Baggethun, Erik, Rudolf de Groot, Pedro L. Lomas, and Carlos Montes, 2010, “The History of Ecosystem Services in Economic Theory and Practice: From Early Notions to Markets and Payment Schemes”, *Ecological Economics*, 69(6): 1209–1218. doi: 10.1016/j.ecolecon.2009.11.007
+* Hanley, Nick and Charles Perrings, 2019, “The Economic Value of Biodiversity”, *Annual Review of Resource Economics*, 11: 355–375. doi: 10.1146/annurev-resource-100518-093946
+* Haskins, C., 1974, “Scientists Talk of the Need for Conservation and an Ethic of Biotic Diversity to Slow Species Extinction”, *Science*, 184(4137): 646–647. doi: 10.1126/science.184.4137.646
+* Hillebrand, Helmut, Bernd Blasius, Elizabeth T. Borer, Jonathan M. Chase, John A. Downing, Britas Klemens Eriksson, Christopher T. Filstrup, W. Stanley Harpole, Dorothee Hodapp, Stefano Larsen, et al., 2018, “Biodiversity Change Is Uncoupled from Species Richness Trends: Consequences for Conservation and Monitoring”, *Journal of Applied Ecology*, 55(1): 169–184. doi: 10.1111/1365-2664.12959
+* Himes, Austin and Barbara Muraca, 2018, “Relational Values: The Key to Pluralistic Valuation of Ecosystem Services”, *Current Opinion in Environmental Sustainability*, 35: 1–7. doi: 10.1016/j.cosust.2018.09.005
 * Holdren, John P. and Paul R. Ehrlich, 1974, “Human Population and the Global Environment”, *American Scientist*, 62(3): 282–292.
 * IPBES, 2018a. *Background document: nature’s contributions to people*, IPBES consultation and capacity building workshop, 4–6 June 2018. Objective 2: Nature’s contribution to people, Bonn, Germany, 15 pages.
 * –––, 2018b, *The IPBES Regional Assessment Report on Biodiversity and Ecosystem Services for Asia and the Pacific*, Madhav Karki, Sonali Senaratna Sellamuttu, Sana Okayasu, Wataru Suzuki (eds.), Bonn, Germany: Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, 612 pages. [[IPBES 2018b available online](https://ipbes.net/assessment-reports/asia-pacific)]
 * –––, 2018c, *The IPBES Regional Assessment Report on Biodiversity and Ecosystem Services for Europe and Central Asia*, Mark Rounsevell, Markus Fischer, Amor Torre-Marin Rando, and André Mader (eds.), Bonn, Germany: Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, 892 pages. [[IPBES 2018c available online](https://ipbes.net/assessment-reports/eca)]
-* –––, 2019, *Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services*, S. Díaz, J. Settele, E. S. Brondízio, H. T. Ngo, M. Guèze, J. Agard, A. Arneth, P. Balvanera, K. A. Brauman, S. H. M. Butchart, K. M. A. Chan, L. A. Garibaldi, K. Ichii J. Liu, S. M. Subramanian, G. F. Midgley, P. Miloslavich, Z. Molnár, D. Obura, A. Pfaff, S. Polasky, A. Purvis, J. Razzaque, B. Reyers, R. Roy Chowdhury, Y. J. Shin, I. J. Visseren-Hamakers, K. J. Willis, and C. N. Zayas (eds.), Bonn, Germany: IPBES Secretariat. doi:10.5281/zenodo.3553579
-* Iltis, Hugh H., 1972, “Shepherds Leading Sheep to Slaughter: The Extinction of Species and the Destruction of Ecosystems”, *The American Biology Teacher*, 34(4): 201–221. doi:10.2307/4443886
+* –––, 2019, *Summary for Policymakers of the Global Assessment Report on Biodiversity and Ecosystem Services*, S. Díaz, J. Settele, E. S. Brondízio, H. T. Ngo, M. Guèze, J. Agard, A. Arneth, P. Balvanera, K. A. Brauman, S. H. M. Butchart, K. M. A. Chan, L. A. Garibaldi, K. Ichii J. Liu, S. M. Subramanian, G. F. Midgley, P. Miloslavich, Z. Molnár, D. Obura, A. Pfaff, S. Polasky, A. Purvis, J. Razzaque, B. Reyers, R. Roy Chowdhury, Y. J. Shin, I. J. Visseren-Hamakers, K. J. Willis, and C. N. Zayas (eds.), Bonn, Germany: IPBES Secretariat. doi: 10.5281/zenodo.3553579
+* Iltis, Hugh H., 1972, “Shepherds Leading Sheep to Slaughter: The Extinction of Species and the Destruction of Ecosystems”, *The American Biology Teacher*, 34(4): 201–221. doi: 10.2307/4443886
 * IUCN, 1980, *World Conservation Strategy: living resource conservation for sustainable development*, International Union for Conservation of Nature and Natural Resources (IUCN). [[IUCN 1980 available online (pdf)](https://portals.iucn.org/library/efiles/documents/wcs-004.pdf)]
-* Jetzkowitz, Jens, C.S.A. (Kris) van Koppen, Rolf Lidskog, Konrad Ott, Lieske Voget-Kleschin, and Catherine Mei Ling Wong, 2018, “The Significance of Meaning. Why IPBES Needs the Social Sciences and Humanities”, *Innovation: The European Journal of Social Science Research*, 31(sup1): S38–S60. doi:10.1080/13511610.2017.1348933
-* Josephson, Julian, 1982, “Why Maintain Biological Diversity?”, *Environmental Science & Technology*, 16(2): 94A-97A. doi:10.1021/es00096a717
-* Justus, James, Mark Colyvan, Helen Regan, and Lynn Maguire, 2009, “Buying into Conservation: Intrinsic versus Instrumental Value”, *Trends in Ecology & Evolution*, 24(4): 187–191. doi:10.1016/j.tree.2008.11.011
-* Kirkpatrick, J.B., 1983, “An Iterative Method for Establishing Priorities for the Selection of Nature Reserves: An Example from Tasmania”, *Biological Conservation*, 25(2): 127–134. doi:10.1016/0006-3207(83)90056-3
-* Koricheva, Julia and Helena Siipi, 2004, “The Phenomenon of Biodiversity”, in Oksanen and Pietarinen 2004: 27–53. doi:10.1017/CBO9780511498527.002
-* Lean, Christopher Hunter, 2017, “Biodiversity Realism: Preserving the Tree of Life”, *Biology & Philosophy*, 32(6): 1083–1103. doi:10.1007/s10539-017-9592-0
+* Jetzkowitz, Jens, C.S.A. (Kris) van Koppen, Rolf Lidskog, Konrad Ott, Lieske Voget-Kleschin, and Catherine Mei Ling Wong, 2018, “The Significance of Meaning. Why IPBES Needs the Social Sciences and Humanities”, *Innovation: The European Journal of Social Science Research*, 31(sup1): S38–S60. doi: 10.1080/13511610.2017.1348933
+* Josephson, Julian, 1982, “Why Maintain Biological Diversity?”, *Environmental Science & Technology*, 16(2): 94A-97A. doi: 10.1021/es00096a717
+* Justus, James, Mark Colyvan, Helen Regan, and Lynn Maguire, 2009, “Buying into Conservation: Intrinsic versus Instrumental Value”, *Trends in Ecology & Evolution*, 24(4): 187–191. doi: 10.1016/j.tree.2008.11.011
+* Kirkpatrick, J.B., 1983, “An Iterative Method for Establishing Priorities for the Selection of Nature Reserves: An Example from Tasmania”, *Biological Conservation*, 25(2): 127–134. doi: 10.1016/0006-3207(83)90056-3
+* Koricheva, Julia and Helena Siipi, 2004, “The Phenomenon of Biodiversity”, in Oksanen and Pietarinen 2004: 27–53. doi: 10.1017/CBO9780511498527.002
+* Lean, Christopher Hunter, 2017, “Biodiversity Realism: Preserving the Tree of Life”, *Biology & Philosophy*, 32(6): 1083–1103. doi: 10.1007/s10539-017-9592-0
 * Lele, Sharachchandra, Eduardo S. Brondizio, John Byrne, Georgina M. Mace, and Joan Martinez-Alier (eds.), 2018a, *Rethinking Environmentalism: Linking Justice, Sustainability, and Diversity* (Strüngmann Forum Reports, 23), Cambridge, MA: MIT Press.
 * –––, 2018b, “Framing the Environment”, in Lele et al. 2018a: 1–19.
 * Levin, Simon A., 2013, *Encyclopedia of Biodiversity*, second edition, 7 volumes, Cambridge, MA: Academic Press.
 * Lovejoy, T. E., 1980, “Changes in Biological Diversity”, in *The Global 2000 Report to The President* (Volume 2: The Technical Report), Gerald O. Barney (ed.), Harmondsworth: Penguin Books, pp. 327–332.
 * MacArthur, Roberrt H., 1972, “Coexistence of Species”, in *Challenging Biological Problems: Directions Toward Their Solution*, John A. Behnke (ed.), New York: Oxford University Press, pp. 253–259.
-* Mace, Georgina M., 2014, “Whose Conservation?”, *Science*, 345(6204): 1558–1560. doi:10.1126/science.1254704
+* Mace, Georgina M., 2014, “Whose Conservation?”, *Science*, 345(6204): 1558–1560. doi: 10.1126/science.1254704
 * –––, 2019, “Where to Next for Biodiversity Science?”, in Wyborn, Kalas, and Rust 2019: 105–108.
-* Mace, Georgina M., Ken Norris, and Alastair H. Fitter, 2012, “Biodiversity and Ecosystem Services: A Multilayered Relationship”, *Trends in Ecology & Evolution*, 27(1): 19–26. doi:10.1016/j.tree.2011.08.006
-* Mace, Georgina M., Mike Barrett, Neil D. Burgess, Sarah E. Cornell, Robin Freeman, Monique Grooten, and Andy Purvis, 2018, “Aiming Higher to Bend the Curve of Biodiversity Loss”, *Nature Sustainability*, 1(9): 448–451. doi:10.1038/s41893-018-0130-0
+* Mace, Georgina M., Ken Norris, and Alastair H. Fitter, 2012, “Biodiversity and Ecosystem Services: A Multilayered Relationship”, *Trends in Ecology & Evolution*, 27(1): 19–26. doi: 10.1016/j.tree.2011.08.006
+* Mace, Georgina M., Mike Barrett, Neil D. Burgess, Sarah E. Cornell, Robin Freeman, Monique Grooten, and Andy Purvis, 2018, “Aiming Higher to Bend the Curve of Biodiversity Loss”, *Nature Sustainability*, 1(9): 448–451. doi: 10.1038/s41893-018-0130-0
 * Maclaurin, James and Kim Sterelny, 2008, *What is Biodiversity?*, Chicago: University of Chicago Press.
-* Maier, Donald S., 2012, *What’s So Good About Biodiversity?*, (The International Library of Environmental, Agricultural and Food Ethics, 19), Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-3991-8
-* –––, 2018, “Should Biodiversity and Nature Have to Earn Their Keep? What It Really Means to Bring Environmental Goods into the Marketplace”, *Ambio*, 47(4): 477–492. doi:10.1007/s13280-017-0996-5
+* Maier, Donald S., 2012, *What’s So Good About Biodiversity?*, (The International Library of Environmental, Agricultural and Food Ethics, 19), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-007-3991-8
+* –––, 2018, “Should Biodiversity and Nature Have to Earn Their Keep? What It Really Means to Bring Environmental Goods into the Marketplace”, *Ambio*, 47(4): 477–492. doi: 10.1007/s13280-017-0996-5
 * Malaterre, Christophe, 2017, “Going Small: The Challenges of Microbial Biodiversity”, in Garson, Plutynski, and Sarkar 2017: ch. 10.
-* Martin, Adrian, Shawn McGuire, and Sian Sullivan, 2013, “Global Environmental Justice and Biodiversity Conservation: Global Environmental Justice and Biodiversity Conservation”, *The Geographical Journal*, 179(2): 122–131. doi:10.1111/geoj.12018
+* Martin, Adrian, Shawn McGuire, and Sian Sullivan, 2013, “Global Environmental Justice and Biodiversity Conservation: Global Environmental Justice and Biodiversity Conservation”, *The Geographical Journal*, 179(2): 122–131. doi: 10.1111/geoj.12018
 * Matthiessen, Peter, 1959 [1987], *Wildlife in America*. New York: Viking. Updated edition, New York: Viking, 1987.
-* Mazur, Allan and Jinling Lee, 1993, “Sounding the Global Alarm: Environmental Issues in the US National News”, *Social Studies of Science*, 23(4): 681–720. doi:10.1177/030631293023004003
+* Mazur, Allan and Jinling Lee, 1993, “Sounding the Global Alarm: Environmental Issues in the US National News”, *Social Studies of Science*, 23(4): 681–720. doi: 10.1177/030631293023004003
 * McNeely, Jeffrey A., 1988, *Economics and Biological Diversity: Developing and Using Economic Incentives to Conserve Biological Resources*, Gland, Switzerland: IUCN.
 * McShane, Katie, 2017, “Is Biodiversity Intrinsically Valuable? (And What Might that Mean?)”, in Garson, Plutynski, and Sarkar 2017: 410–443.
 * Millennium Ecosystem Assessment, 2005, *Ecosystems and Human Well-Being: Biodiversity Synthesis*, Washington, DC: World Resources Institute. Ecosystem Assessment, 2005. [ [(PDF)](https://www.millenniumassessment.org/documents/document.354.aspx.pdf)]
-* Meinard, Yves, Sylvain Coq, and Bernhard Schmid, 2019, “The Vagueness of ‘Biodiversity’ and Its Implications in Conservation Practice”, in Casetta, da Silva, and Vecchi 2019: 353–374. doi:10.1007/978-3-030-10991-2_17
-* Meine, Curt, Michael Soule, and Reed F. Noss, 2006, “‘A Mission-Driven Discipline’: The Growth of Conservation Biology”, *Conservation Biology*, 20(3): 631–651. doi:10.1111/j.1523-1739.2006.00449.x
-* Morar, Nicolae, Ted Toadvine, and Brendan J. M. Bohannan, 2015, “Biodiversity at Twenty-Five Years: Revolution Or Red Herring?”, *Ethics, Policy & Environment*, 18(1): 16–29. doi:10.1080/21550085.2015.1018380
-* Morgan, Gregory J., 2009, “The Many Dimensions of Biodiversity”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(3): 235–238. doi:10.1016/j.shpsc.2009.06.001
-* Myers, Norman, 1976, “An Expanded Approach to the Problem of Disappearing Species”, *Science*, 193(4249): 198–202. doi:10.1126/science.193.4249.198
+* Meinard, Yves, Sylvain Coq, and Bernhard Schmid, 2019, “The Vagueness of ‘Biodiversity’ and Its Implications in Conservation Practice”, in Casetta, da Silva, and Vecchi 2019: 353–374. doi: 10.1007/978-3-030-10991-2_17
+* Meine, Curt, Michael Soule, and Reed F. Noss, 2006, “‘A Mission-Driven Discipline’: The Growth of Conservation Biology”, *Conservation Biology*, 20(3): 631–651. doi: 10.1111/j.1523-1739.2006.00449.x
+* Morar, Nicolae, Ted Toadvine, and Brendan J. M. Bohannan, 2015, “Biodiversity at Twenty-Five Years: Revolution Or Red Herring?”, *Ethics, Policy & Environment*, 18(1): 16–29. doi: 10.1080/21550085.2015.1018380
+* Morgan, Gregory J., 2009, “The Many Dimensions of Biodiversity”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(3): 235–238. doi: 10.1016/j.shpsc.2009.06.001
+* Myers, Norman, 1976, “An Expanded Approach to the Problem of Disappearing Species”, *Science*, 193(4249): 198–202. doi: 10.1126/science.193.4249.198
 * –––, 1979, *The Sinking Ark: A New Look at the Problem of Disappearing Species*, New York: Pergamon Press.
 * Myers, Norman and Edward S. Ayensu, 1983, “Reduction of Biological Diversity and Species Loss”, *Ambio*, 12(2): 72–74.
-* Newman, Jonathan A., Gary Varner, and Stefan Linquist, 2017, *Defending Biodiversity: Environmental Science and Ethics*, Cambridge: Cambridge University Press. doi:10.1017/9781139024105
-* Norman, Colin, 1981, “The Threat to One Million Species”, *Science*, 214(4525): 1105–1107. doi:10.1126/science.214.4525.1105
+* Newman, Jonathan A., Gary Varner, and Stefan Linquist, 2017, *Defending Biodiversity: Environmental Science and Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/9781139024105
+* Norman, Colin, 1981, “The Threat to One Million Species”, *Science*, 214(4525): 1105–1107. doi: 10.1126/science.214.4525.1105
 * Norton, Bryan G. (ed), 1986, *The Preservation of Species: The Value of Biological Diversity*, Princeton: Princeton University Press.
 * –––, 2001, “Conservation Biology and Environmental Values: Can There be a Universal Earth Ethic?” in *Protecting Biological Diversity: Roles and Responsibilities*, Catherine Potvin, Margaret Kraenzel, and Gilles Seutin (eds.), Montreal: McGill-Queen’s University Press, pp. 71–102.
-* –––, 2008, “Toward a Policy-Relevant Definition of Biodiversity”, in *Saving Biological Diversity: Balancing Protection of Endangered Species and Ecosystems*, Robert A. Askins, Glenn D. Dreyer, Gerald R. Visgilio, and Diana M. Whitelaw (eds.), Boston, MA: Springer, pp. 11–20. doi:10.1007/978-0-387-09565-3_2
+* –––, 2008, “Toward a Policy-Relevant Definition of Biodiversity”, in *Saving Biological Diversity: Balancing Protection of Endangered Species and Ecosystems*, Robert A. Askins, Glenn D. Dreyer, Gerald R. Visgilio, and Diana M. Whitelaw (eds.), Boston, MA: Springer, pp. 11–20. doi: 10.1007/978-0-387-09565-3_2
 * –––, 2015, *Sustainable Values, Sustainable Change: a Guide to Environmental Decision Making*, Chicago: University of Chicago Press.
-* Noss, Reed F., 1990, “Indicators for Monitoring Biodiversity: A Hierarchical Approach”, *Conservation Biology*, 4(4): 355–364. doi:10.1111/j.1523-1739.1990.tb00309.x
+* Noss, Reed F., 1990, “Indicators for Monitoring Biodiversity: A Hierarchical Approach”, *Conservation Biology*, 4(4): 355–364. doi: 10.1111/j.1523-1739.1990.tb00309.x
 * Odenbaugh, Jay, 2016 [2019], “Conservation Biology”, *The Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/conservation-biology/>.
 * Oksanen, Markku, 1997, “The Moral Value of Biodiversity”, *Ambio*, 26(8): 541–545.
-* –––, 2004, “Biodiversity Considered Philosophically: An Introduction”, in Oksanen and Pietarinen 2004: 1–24. doi:10.1017/CBO9780511498527.001
-* Oksanen, Markku and Juhani Pietarinen (eds.), 2004, *Philosophy and Biodiversity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498527
+* –––, 2004, “Biodiversity Considered Philosophically: An Introduction”, in Oksanen and Pietarinen 2004: 1–24. doi: 10.1017/CBO9780511498527.001
+* Oksanen, Markku and Juhani Pietarinen (eds.), 2004, *Philosophy and Biodiversity*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498527
 * Pascual, Unai, 2019, “Why Do We Need a More Pluralistic Approach to Valuing Biodiversity?” in Wyborn, Kalas, and Rust 2019: 126–130
-* Peterson, Garry D., Zuzana V. Harmáčková, Megan Meacham, Cibele Queiroz, Amanda Jiménez-Aceituno, Jan J. Kuiper, Katja Malmborg, Nadia Sitas, and Elena M. Bennett, 2018, “Welcoming Different Perspectives in IPBES: ‘Nature’s Contributions to People’ and ‘Ecosystem Services’”, *Ecology and Society*, 23(1): art39. doi:10.5751/ES-10134-230139
+* Peterson, Garry D., Zuzana V. Harmáčková, Megan Meacham, Cibele Queiroz, Amanda Jiménez-Aceituno, Jan J. Kuiper, Katja Malmborg, Nadia Sitas, and Elena M. Bennett, 2018, “Welcoming Different Perspectives in IPBES: ‘Nature’s Contributions to People’ and ‘Ecosystem Services’”, *Ecology and Society*, 23(1): art39. doi: 10.5751/ES-10134-230139
 * Reid, Walter V. and Kenton R. Miller, 1989, *Keeping Options Alive: The Scientific Basis for Conserving Biological Diversity*, Washington, DC: World Resources Institute. [[Reid and Miller 1989 available online](https://www.wri.org/publication/keeping-options-alive)]
 * Redford, Kent H. and Georgina M. Mace, 2018, “Conserving and Contesting Biodiversity in the Homogocene”, in Lele et al. 2018a: 23–40.
-* Reyers, Belinda, Stephen Polasky, Heather Tallis, Harold A. Mooney, and Anne Larigauderie, 2012, “Finding Common Ground for Biodiversity and Ecosystem Services”, *BioScience*, 62(5): 503–507. doi:10.1525/bio.2012.62.5.12
+* Reyers, Belinda, Stephen Polasky, Heather Tallis, Harold A. Mooney, and Anne Larigauderie, 2012, “Finding Common Ground for Biodiversity and Ecosystem Services”, *BioScience*, 62(5): 503–507. doi: 10.1525/bio.2012.62.5.12
 * Roush, G. Jon, 1977, “Why Save Diversity?” *Nature Conservancy News*, 21(1): 9–12.
-* Santana, Carlos, 2014, “Save the Planet: Eliminate Biodiversity”, *Biology & Philosophy*, 29(6): 761–780. doi:10.1007/s10539-014-9426-2
-* –––, 2018, “Biodiversity Is a Chimera, and Chimeras Aren’t Real”, *Biology & Philosophy*, 33(1–2): art. 15. doi:10.1007/s10539-018-9626-2
-* Sarkar, Sahotra, 2002, “Defining ‘Biodiversity’; Assessing Biodiversity”, *Monist*, 85(1): 131–155. doi:10.5840/monist20028515
-* –––, 2005, *Biodiversity and Environmental Philosophy: An Introduction*, (Cambridge Studies in Philosophy and Biology), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498558
+* Santana, Carlos, 2014, “Save the Planet: Eliminate Biodiversity”, *Biology & Philosophy*, 29(6): 761–780. doi: 10.1007/s10539-014-9426-2
+* –––, 2018, “Biodiversity Is a Chimera, and Chimeras Aren’t Real”, *Biology & Philosophy*, 33(1–2): art. 15. doi: 10.1007/s10539-018-9626-2
+* Sarkar, Sahotra, 2002, “Defining ‘Biodiversity’; Assessing Biodiversity”, *Monist*, 85(1): 131–155. doi: 10.5840/monist20028515
+* –––, 2005, *Biodiversity and Environmental Philosophy: An Introduction*, (Cambridge Studies in Philosophy and Biology), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511498558
 * –––, 2012, *Environmental Philosophy: from Theory to Practice*, Chichester, England: John Wiley & Sons.
-* –––, 2014, “Biodiversity and Systematic Conservation Planning for the Twenty-First Century: A Philosophical Perspective”, *Conservation Science*, 2(1): 1–11. doi:10.3126/cs.v2i1.13765
+* –––, 2014, “Biodiversity and Systematic Conservation Planning for the Twenty-First Century: A Philosophical Perspective”, *Conservation Science*, 2(1): 1–11. doi: 10.3126/cs.v2i1.13765
 * –––, 2006 [2016], “Ecology”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/ecology/>.
 * –––, 2017, *Approaches to Biodiversity*, in Garson, Plutynski, and Sarkar 2017: ch. 3.
-* –––, 2019, “What Should ‘Biodiversity’ Be?”, in Casetta, da Silva, and Vecchi 2019: 375–399. doi:10.1007/978-3-030-10991-2_18
-* Sarkar, Sahotra and Chris Margules, 2002, “Operationalizing Biodiversity for Conservation Planning”, *Journal of Biosciences*, 27(4): 299–308. doi:10.1007/BF02704961
+* –––, 2019, “What Should ‘Biodiversity’ Be?”, in Casetta, da Silva, and Vecchi 2019: 375–399. doi: 10.1007/978-3-030-10991-2_18
+* Sarkar, Sahotra and Chris Margules, 2002, “Operationalizing Biodiversity for Conservation Planning”, *Journal of Biosciences*, 27(4): 299–308. doi: 10.1007/BF02704961
 * Schroeder Doris and Balakrishna Pisupati, 2010, “Ethics, Justice and the Convention on Biological Diversity”, United Nations Environmental Program (UNEP). [[Schroeder and Pisupati 2010 available online](https://www.unep.org/resources/report/ethics-justice-and-convention-biological-diversity)]
-* Seddon, Nathalie, Georgina M. Mace, Shahid Naeem, Joseph A. Tobias, Alex L. Pigot, Rachel Cavanagh, David Mouillot, James Vause, and Matt Walpole, 2016, “Biodiversity in the Anthropocene: Prospects and Policy”, *Proceedings of the Royal Society B: Biological Sciences*, 283(1844): 20162094. doi:10.1098/rspb.2016.2094
-* Swingland, Ian R., 2013, “Biodiversity, Definition Of”, in Levin 2013: vol. 1, pp. 399–410. doi:10.1016/B978-0-12-384719-5.00009-5
+* Seddon, Nathalie, Georgina M. Mace, Shahid Naeem, Joseph A. Tobias, Alex L. Pigot, Rachel Cavanagh, David Mouillot, James Vause, and Matt Walpole, 2016, “Biodiversity in the Anthropocene: Prospects and Policy”, *Proceedings of the Royal Society B: Biological Sciences*, 283(1844): 20162094. doi: 10.1098/rspb.2016.2094
+* Swingland, Ian R., 2013, “Biodiversity, Definition Of”, in Levin 2013: vol. 1, pp. 399–410. doi: 10.1016/B978-0-12-384719-5.00009-5
 * WCED (World Commission on Environment and Development), 1987, *Our Common Future*, Oxford: Oxford University Press.
-* Weikard, Hans-Peter, 2002, “Diversity Functions and the Value of Biodiversity”, *Land Economics*, 78(1): 20–27. doi:10.2307/3146920
-* Weitzman, Martin L., 1992, “On Diversity”, *The Quarterly Journal of Economics*, 107(2): 363–405. doi:10.2307/2118476
-* Westman, Walter E., 1977, “How Much Are Nature’s Services Worth?”, *Science*, 197(4307): 960–964. doi:10.1126/science.197.4307.960
+* Weikard, Hans-Peter, 2002, “Diversity Functions and the Value of Biodiversity”, *Land Economics*, 78(1): 20–27. doi: 10.2307/3146920
+* Weitzman, Martin L., 1992, “On Diversity”, *The Quarterly Journal of Economics*, 107(2): 363–405. doi: 10.2307/2118476
+* Westman, Walter E., 1977, “How Much Are Nature’s Services Worth?”, *Science*, 197(4307): 960–964. doi: 10.1126/science.197.4307.960
 * Wilson, Edward O., 1984, “Million-Year Histories: Species Diversity as an Ethical Goal”, *Wilderness*, 47 (Summer): 12–17.
-* –––, 1985, “The Biological Diversity Crisis”, *BioScience*, 35(11): 700–706. doi:10.2307/1310051
-* ––– (ed.), 1988, *Biodiversity*, Washington, DC: National Academies Press. doi:10.17226/989
-* Wyborn, Carina, Nicole Kalas, and Niki A. Rust, 2019, *Seeds of Change: Provocations for a New Research Agenda*, Biodiversity Revisited Symposium Conference Proceedings, 11–13 September 2019, Vienna, Austria. doi:10.13140/RG.2.2.22170.59848/3
+* –––, 1985, “The Biological Diversity Crisis”, *BioScience*, 35(11): 700–706. doi: 10.2307/1310051
+* ––– (ed.), 1988, *Biodiversity*, Washington, DC: National Academies Press. doi: 10.17226/989
+* Wyborn, Carina, Nicole Kalas, and Niki A. Rust, 2019, *Seeds of Change: Provocations for a New Research Agenda*, Biodiversity Revisited Symposium Conference Proceedings, 11–13 September 2019, Vienna, Austria. doi: 10.13140/RG.2.2.22170.59848/3
 
 ## Academic Tools
 

@@ -1,6 +1,6 @@
 # 直觉 intuition (Joel Pust)
 
-*首次发表于2012年12月4日；实质性修订于2017年5月9日*
+*首次发表于 2012 年 12 月 4 日；实质性修订于 2017 年 5 月 9 日*
 
 这个条目通过考虑以下问题来讨论直觉的本质和认识论角色：（1）什么是直觉？（2）它们在哲学（和其他“坐在椅子上”进行的）探究中起到什么作用？（3）它们应该起到这样的作用吗？（4）对直觉的经验研究对其适当角色有什么影响？以及（在名为“案例方法的逻辑结构”的补充文件中）（5）在考虑假设情况时，直觉的内容是什么？
 
@@ -10,26 +10,26 @@
 
 考虑一个完全理性的人不会同时相信 p 和非 p 的说法。很可能，当你考虑这个说法时，它对你来说似乎是真实的。当你考虑以下命题时，可能会发生类似的情况：
 
-* [I1]如果非非 p，则 p。
-* [I2]以娱乐为目的折磨有感知能力的生物是错误的。
-* [I3]一个正方形不可能有五条边。
-* [I4]一个人的大脑移植到新的身体后可以存活。
+* [I1] 如果非非 p，则 p。
+* [I2] 以娱乐为目的折磨有感知能力的生物是错误的。
+* [I3] 一个正方形不可能有五条边。
+* [I4] 一个人的大脑移植到新的身体后可以存活。
 
 这篇文章的重点是直觉——在这些命题中，命题以某种方式似乎是真实的心理状态或事件。
 
 显然，普通用法包括“直觉”一词的范围比这些状态更广泛，因为它允许父母可能有一种直觉，即他们的孩子对某些罪行是无辜的，或者考古学家可能有一种直觉，即某个有趣的古代遗址位于某个特定区域。一些心理学研究似乎也是如此。考虑一下关于自然决策中的“直觉”的最新研究（Klein 1998）。这样的研究表明，在某个特定领域（如新生儿护理、消防或国际象棋）具有足够经验的代理人会根据一种与有意识考虑各种选项、权衡证据和效用的认知过程不同的方式做出判断和决策。这些专家的“直觉”，比如某个婴儿患有败血症，火灾将采取某种路线，或某个国际象棋走法是好的，会立即出现在意识中。
 
-在各个领域中，语言用法的重要性不及我们的理论是否能够捕捉到世界中存在的相关心理和认识论的关节。本文的重点是直觉在独特的哲学（和其他“坐在椅子上”）探究中的作用。在哲学中感兴趣的直觉很可能构成一种单一的认知和心理类型，如[I1]–[I4]所示，并且还有许多其他例子，这些例子出现在下面的第 2.2 节和第 2.3 节中，但不包括前一段中提到的那种类型。
+在各个领域中，语言用法的重要性不及我们的理论是否能够捕捉到世界中存在的相关心理和认识论的关节。本文的重点是直觉在独特的哲学（和其他“坐在椅子上”）探究中的作用。在哲学中感兴趣的直觉很可能构成一种单一的认知和心理类型，如 [I1]–[I4] 所示，并且还有许多其他例子，这些例子出现在下面的第 2.2 节和第 2.3 节中，但不包括前一段中提到的那种类型。
 
 ### 1.1 直觉作为信念
 
-一些哲学家将直觉等同于信念或某种信念。例如，大卫·刘易斯写道，
+一些哲学家将直觉等同于信念或某种信念。例如，大卫 · 刘易斯写道，
 
 > 我们的“直觉”只是意见；我们的哲学理论也是如此。有些是常识性的，有些是复杂的；有些是具体的，有些是一般的；有些更坚定，有些不那么坚定。但它们都只是意见...（1983 年：x）
 
 这样的言论暗示着以下解释：
 
-* [A1]S 直觉地认为 p 当且仅当 S 相信 p。
+* [A1] S 直觉地认为 p 当且仅当 S 相信 p。
 
 为什么采用 [A1]？一些人可能出于本体论的简洁性而采用它。如果直觉是信念，我们就不需要接受新的心理状态。此外，直觉和信念之间显然存在着紧密的联系，因为人们通常相信自己直觉的内容。
 
@@ -37,35 +37,35 @@
 
 这些情况还展示了直觉的一个重要特征——它们与明确的信念相对独立的因果关系。与感知的类比是有帮助的。当观看穆勒-莱尔错觉时，一个人可能会感觉到一条线比另一条线长，即使他反复测量了这些线，坚信它们的长度是相等的。当提到一些道德直觉可能是不可消除的道德错觉时，正是这样的类比被引用，即使理论告诉我们更好的答案，这些道德直觉也不会失去直观吸引力。（Kagan 1989: 15）
 
-> ineliminable moral illusion[s], similar to certain optical illusions which do not lose their intuitive appeal even when theory tells us better. (Kagan 1989: 15)
+> ineliminable moral illusion [s], similar to certain optical illusions which do not lose their intuitive appeal even when theory tells us better. (Kagan 1989: 15)
 
 这种解释的更具辨别力的版本认为，直觉是具有适当因果关系的信念。许多心理学家和具有自然主义倾向的哲学家都支持这种观点，将直觉视为没有意识或内省可访问的推理因果关系（Gopnik 和 Schwitzgebel 1998; Devitt 2006: 491; Kornblith 1998）。
 
-* [A2]如果 S 形成了不经意地从其他信念中推理出来的 p 的信念，那么 S 就有直觉 p。
+* [A2] 如果 S 形成了不经意地从其他信念中推理出来的 p 的信念，那么 S 就有直觉 p。
 
-根据[A2]，具有人们意识到的推理起源的信念不是直觉。然而，[A2]仍然错误地将非推理的感知信念、记忆信念和内省信念包括在直觉中。此外，[A2]和[A1]一样，都违背了一个事实，即一个人可以有自己不相信的直觉内容。前一个问题可能可以通过对所讨论的非推理信念的内容进行限制或进一步的因果关系限制来解决。后一个问题似乎不那么容易解决。
+根据 [A2]，具有人们意识到的推理起源的信念不是直觉。然而，[A2] 仍然错误地将非推理的感知信念、记忆信念和内省信念包括在直觉中。此外，[A2] 和 [A1] 一样，都违背了一个事实，即一个人可以有自己不相信的直觉内容。前一个问题可能可以通过对所讨论的非推理信念的内容进行限制或进一步的因果关系限制来解决。后一个问题似乎不那么容易解决。
 
 对于信念分析的更具辨识性的病因修正（Ludwig 2007: 135）是
 
-* [A3]S 如果且仅当 S 仅基于与 p 相关的概念的能力形成了 p 的当前信念，那么 S 就有直觉 p。
+* [A3] S 如果且仅当 S 仅基于与 p 相关的概念的能力形成了 p 的当前信念，那么 S 就有直觉 p。
 
-这种分析不会受到[A1]和[A2]的许多反对意见。它不会将内省、记忆或感知信念视为直觉。然而，假设所讨论的概念不矛盾，它可能意味着（取决于对概念能力的要求）直觉是不可错误的。即使直觉是不可错误的，如果 S 错误地拒绝了构成悖论 p 的命题之一，那么她似乎仍然可能与[A3]相反，仍然有直觉 p。最后，[A3]似乎对直接内省判断一个人是否有直觉难以证明，因为一个人无法直接内省地接触到自己信念的非意识原因。
+这种分析不会受到 [A1] 和 [A2] 的许多反对意见。它不会将内省、记忆或感知信念视为直觉。然而，假设所讨论的概念不矛盾，它可能意味着（取决于对概念能力的要求）直觉是不可错误的。即使直觉是不可错误的，如果 S 错误地拒绝了构成悖论 p 的命题之一，那么她似乎仍然可能与 [A3] 相反，仍然有直觉 p。最后，[A3] 似乎对直接内省判断一个人是否有直觉难以证明，因为一个人无法直接内省地接触到自己信念的非意识原因。
 
 ### 1.2 直觉作为相信倾向
 
-彼得·范·因瓦根声称，直觉可能是
+彼得 · 范 · 因瓦根声称，直觉可能是
 
 > 在某些情况下，使某些信念对我们具有吸引力的倾向，使我们朝着接受某些命题的方向“移动”，但并不完全接受。（1997 年：309）
 
 这暗示着类似以下的情况：
 
-* [A4]S 直觉到 p 当且仅当 S 倾向于相信 p。
+* [A4] S 直觉到 p 当且仅当 S 倾向于相信 p。
 
 如果倾向于相信是一种命题态度，这样的解释将允许直觉是命题态度，并且与信念分析不同，允许一个人可以有直觉而没有信念。然而，[A4] 在对所涉及的倾向的性质或来源没有任何限制上显得过于宽松。如果一个人转头看到一只狗，他可能倾向于相信附近有只狗；如果一个人反思自己的痛苦，他可能倾向于相信自己疼痛；甚至如果一个人适当地推理，他可能倾向于相信一个复杂的定理。但是，单独考虑这些倾向相信的情况，都不足以构成直觉。此外，根据某些倾向观点，[A4] 还暗示一个人相信 p 不能通过他们直觉到 p 来解释。
 
-对于[A4]的这种担忧可能会受到性格倾向的限制。一个更有说服力的解释（Sosa 1998）是：
+对于 [A4] 的这种担忧可能会受到性格倾向的限制。一个更有说服力的解释（Sosa 1998）是：
 
-* [A5]如果且仅当 S 基于对 p 的理解而仅仅基于此相信 p，S 才会有直觉 p。
+* [A5] 如果且仅当 S 基于对 p 的理解而仅仅基于此相信 p，S 才会有直觉 p。
 
 然而，许多人声称直觉的主要概念是指 S 只有在处于相关的有意识心理状态时才会有直觉 p。如果是这样的话，任何纯粹的性格倾向解释都无法捕捉到直觉的有意识特征，就像对其他有意识状态的性格倾向分析一样失败。在某个时间，一个人可能有很多相信的性格倾向，但在那个时间内却没有一个直觉。例如，一个人在被要求考虑时可能会有直觉天真的理解公理是真实的，但在繁忙的交通中开车回家时可能没有这样的直觉。然而，这可能是真实的，即使在这个过程中，她在理解它的基础上仅仅是有性格倾向相信这个命题（Bealer 1998: 209）。此外，一个人现在可能有直接内省的知识，即自己有直觉 p，而对于自己的性格倾向，特别是非激活的性格倾向，基于仅仅理解的相信，可能没有这样的直接内省知识。（有关性格倾向分析的进一步讨论，请参见 Pust 2000，Erlenbaugh 和 Molyneux 2009 以及 Koksvik 2011。）
 
@@ -81,26 +81,26 @@
 
 根据这种观点的“似乎”版本，对直觉的无差别解释如下：
 
-* [A6]S 如果且仅当 S 觉得 p 时，S 具有直觉。
+* [A6] S 如果且仅当 S 觉得 p 时，S 具有直觉。
 
 尽管这种解释似乎适用于关于直觉主题的大部分心理学研究，但它不够具有区分性。如果存在具有命题内容的记忆或内省的觉得，它们不可能被合理地认定为与本条目开始时所讨论的那种直觉相同。此外，当与感知经验包含适当的觉得 p 的观点相结合时，这个观点暗示了存在感知直觉。通过规定这些状态即使它们都是某个共同类别的物种，也不是直觉，可以提供清晰度。
 
 更具区分性的解释如下：
 
-* [A7]如果且仅如果 S 在智力上似乎 p，那么 S 具有直觉 p。
+* [A7] 如果且仅如果 S 在智力上似乎 p，那么 S 具有直觉 p。
 
-然而，一些人声称，在哲学探究中，主要感兴趣的直觉与涉及智力似乎 p 的其他状态之间存在重要区别。例如，比勒尔声称，哲学探究通常依赖于“先验直觉”，这必须与科学思维实验引发的“物理直觉”区分开来，因为后者并不表现为必然的，而前者则是如此（1998 年：165）。那些希望区分科学思维实验中涉及的状态与通常涉及哲学探究的状态的人可以支持[A7]并拒绝这样的物理直觉涉及相同的智力似乎，或者对那些具有独特哲学相关性的直觉施加进一步的条件，如以下描述：
+然而，一些人声称，在哲学探究中，主要感兴趣的直觉与涉及智力似乎 p 的其他状态之间存在重要区别。例如，比勒尔声称，哲学探究通常依赖于“先验直觉”，这必须与科学思维实验引发的“物理直觉”区分开来，因为后者并不表现为必然的，而前者则是如此（1998 年：165）。那些希望区分科学思维实验中涉及的状态与通常涉及哲学探究的状态的人可以支持 [A7] 并拒绝这样的物理直觉涉及相同的智力似乎，或者对那些具有独特哲学相关性的直觉施加进一步的条件，如以下描述：
 
-* [A8]如果且仅如果 S 在智力上似乎必然 p，那么 S 具有理性直觉 p。
-* [A9]如果且仅如果（1）S 在智力上似乎 p，且（2）如果 S 考虑 p 是否必然为真，那么 S 在智力上似乎必然 p，那么 S 具有有理直觉。
+* [A8] 如果且仅如果 S 在智力上似乎必然 p，那么 S 具有理性直觉 p。
+* [A9] 如果且仅如果（1）S 在智力上似乎 p，且（2）如果 S 考虑 p 是否必然为真，那么 S 在智力上似乎必然 p，那么 S 具有有理直觉。
 
-[A8]在内容上将所有有理直觉明确地转化为情态，并且根据一个概念占有观念，即在 t 时刻占有概念 c 的能力要求在思维中运用 c，需要一定的复杂性，而这种复杂性显然不是哲学上的无辜者所具备的，尽管他们可能具备有理直觉的能力（Pust 2000: 38; Ludwig 2007: 136）。此外，可能性直觉对于哲学实践也是至关重要的，如果[A8]的支持者希望将可能性主张作为直觉的内容（而不是将其视为由有理直觉和必然可能性原则推理证明的），那么他们必须将这些直觉视为具有迭代情态命题内容。
+[A8] 在内容上将所有有理直觉明确地转化为情态，并且根据一个概念占有观念，即在 t 时刻占有概念 c 的能力要求在思维中运用 c，需要一定的复杂性，而这种复杂性显然不是哲学上的无辜者所具备的，尽管他们可能具备有理直觉的能力（Pust 2000: 38; Ludwig 2007: 136）。此外，可能性直觉对于哲学实践也是至关重要的，如果 [A8] 的支持者希望将可能性主张作为直觉的内容（而不是将其视为由有理直觉和必然可能性原则推理证明的），那么他们必须将这些直觉视为具有迭代情态命题内容。
 
-[A9]（参见 Pust 2000: 46）在有理直觉中需要一个单一的发生的有意识心理状态，并将该状态与物理直觉区分开来，同时允许一个天真的行动者可能具有有理直觉，尽管目前没有运用形而上学必然性的概念。它也不要求可能性直觉涉及发生的迭代情态内容。然而，由于它有时将有理和物理（或其他）直觉的区别留给了倾向性因素而不是发生性因素，[A9]可能会引发对我们直接辨别自己是否具有有理直觉的能力的担忧。
+[A9]（参见 Pust 2000: 46）在有理直觉中需要一个单一的发生的有意识心理状态，并将该状态与物理直觉区分开来，同时允许一个天真的行动者可能具有有理直觉，尽管目前没有运用形而上学必然性的概念。它也不要求可能性直觉涉及发生的迭代情态内容。然而，由于它有时将有理和物理（或其他）直觉的区别留给了倾向性因素而不是发生性因素，[A9] 可能会引发对我们直接辨别自己是否具有有理直觉的能力的担忧。
 
 一些哲学家认为，这种独特的命题态度不存在或不属于他们自己的心理生活的一部分。例如，威廉姆森写道，
 
-> 对于我自己来说，我意识到除了我有意识地倾向于相信 Gettier 命题之外，没有超越我的智力表现。如果这个短语的意思超过了刘易斯或范·因瓦根的直觉，那么这些范例就没有提供智力表现的证据。（2007 年：217）
+> 对于我自己来说，我意识到除了我有意识地倾向于相信 Gettier 命题之外，没有超越我的智力表现。如果这个短语的意思超过了刘易斯或范 · 因瓦根的直觉，那么这些范例就没有提供智力表现的证据。（2007 年：217）
 
 这类观点的支持者必须关注解释他们对手的错误，并在理想情况下使他们能够在自己身上找到这些状态。（参见 Chudnoff 2011a 和 Koksvik 2011，试图通过仔细描述他们应该寻找的东西来帮助这些怀疑论者。）
 
@@ -174,23 +174,23 @@
 
 传统上，理性主义的一个论证是诉诸于我们似乎明显有理由相信的各种命题，而这些命题似乎不是通过经验来证明的，而仅仅是通过我们似乎看到或理解它们为真来证明的。合理的候选者包括经典逻辑原理、基本算术、分析命题、颜色或形状排除原则以及传递性主张。以下例子是代表性的：
 
-* [R1]没有东西可以同时是红色和绿色的。
-* [R2]2+2=4
-* [R3]如果 A 比 B 高，而 B 比 C 高，那么 A 就比 C 高。
-* [R4]没有圆的正方形。
+* [R1] 没有东西可以同时是红色和绿色的。
+* [R2] 2+2 = 4
+* [R3] 如果 A 比 B 高，而 B 比 C 高，那么 A 就比 C 高。
+* [R4] 没有圆的正方形。
 * R5 暗示 Q。
 
 在认识论、道德理论、形而上学和心灵哲学中，推动许多哲学理论的假设案例示例，在某种意义上，具有特定的内容。理性主义者的例子通常更为普遍。
 
 实际上，在各个普遍性层面上都存在具有哲学意义的命题，这些命题可以成为直觉的内容。以下是一些被认为具有直觉性的普遍命题的例子：
 
-* [G1]如果 S 在相信 p 的同时也在相信□(p⊃q)，那么 S 在相信 q 时是合理的。
-* [G2]如果 X 是一堆沙子，那么即使移除一粒沙子，X 仍然是一堆沙子。
-* [G3]如果 S 本可以做其他事情，那么[S]S 才能自由地执行行为 A。
-* [G4]对于每个属性 P，存在一组个体（可能为空）拥有 P。
-* [G5]通过给定的不在给定线上的点，存在且仅存在一条与给定线平行的线。
-* [G6]无论一个后来的人 y 是否在数字上与一个早期的人 x 相同，只能取决于关于 x 和 y 以及 x 和 y 之间关系的内在事实。
-* [G7]在所有非道德方面完全相同的任意两个可能行动，在所有道德方面必须完全相同。
+* [G1] 如果 S 在相信 p 的同时也在相信 □(p⊃q)，那么 S 在相信 q 时是合理的。
+* [G2] 如果 X 是一堆沙子，那么即使移除一粒沙子，X 仍然是一堆沙子。
+* [G3] 如果 S 本可以做其他事情，那么 [S] S 才能自由地执行行为 A。
+* [G4] 对于每个属性 P，存在一组个体（可能为空）拥有 P。
+* [G5] 通过给定的不在给定线上的点，存在且仅存在一条与给定线平行的线。
+* [G6] 无论一个后来的人 y 是否在数字上与一个早期的人 x 相同，只能取决于关于 x 和 y 以及 x 和 y 之间关系的内在事实。
+* [G7] 在所有非道德方面完全相同的任意两个可能行动，在所有道德方面必须完全相同。
 
 ### 2.4 作为证据的直觉：被直觉的对象与直觉的过程
 
@@ -230,13 +230,13 @@
 
 *缺乏独立校准的论证*
 
-* [P1]只有当我们对所谓的证据来源的可靠性有独立的理由相信时，我们才能正当地相信其内容。
-* [P2]我们缺乏对直觉可靠性的独立理由。
-* [C]我们没有正当理由相信直觉的内容。
+* [P1] 只有当我们对所谓的证据来源的可靠性有独立的理由相信时，我们才能正当地相信其内容。
+* [P2] 我们缺乏对直觉可靠性的独立理由。
+* [C] 我们没有正当理由相信直觉的内容。
 
-尽管它与各种派生的认识源（如科学仪器）有着相当的合理性，但很明显[P1]违反了当地的怀疑主义约束。它实际上是一个无法满足的要求。如果，正如[P1]所暗示的那样，直觉必须由其他源头 X 进行校准，那么根据[P1]，X 本身必须由另一个证据源 Y 进行校准，而 Y 本身又必须进行校准，依此类推。有人认为，由于这个事实，不可能得出合理的信念，而其他人认为在适当的情况下是可能的。如果前者是真的，那么[P1]违反了当地的怀疑主义约束。相反，如果后者是真的，那么[P1]是错误的。此外，显然，支持[P1]的论证将需要对认识直觉进行证据依赖，从而违反了非自我破坏要求。
+尽管它与各种派生的认识源（如科学仪器）有着相当的合理性，但很明显 [P1] 违反了当地的怀疑主义约束。它实际上是一个无法满足的要求。如果，正如 [P1] 所暗示的那样，直觉必须由其他源头 X 进行校准，那么根据 [P1]，X 本身必须由另一个证据源 Y 进行校准，而 Y 本身又必须进行校准，依此类推。有人认为，由于这个事实，不可能得出合理的信念，而其他人认为在适当的情况下是可能的。如果前者是真的，那么 [P1] 违反了当地的怀疑主义约束。相反，如果后者是真的，那么 [P1] 是错误的。此外，显然，支持 [P1] 的论证将需要对认识直觉进行证据依赖，从而违反了非自我破坏要求。
 
-那么[P2]呢？除了非还原的证言解释，独立校准似乎不太可能成功适用于哲学上相关的直觉的全部范围，至少是根据上述更受限制的直觉解释来看。主要原因是直觉的内容与那些由适当独立源头证明的信念之间缺乏重叠。似乎并不使用感官来辨别某个假设情况是否是知识或正确行动的情况，或者某个假设实体是否有意识，或者两个时间上不同的人是否是同一个人。此外，虽然感知可以指示某个命题的真实性，从而表明其可能性，但似乎无法本身证明非实际真理的可能性或任何命题的必然性。
+那么 [P2] 呢？除了非还原的证言解释，独立校准似乎不太可能成功适用于哲学上相关的直觉的全部范围，至少是根据上述更受限制的直觉解释来看。主要原因是直觉的内容与那些由适当独立源头证明的信念之间缺乏重叠。似乎并不使用感官来辨别某个假设情况是否是知识或正确行动的情况，或者某个假设实体是否有意识，或者两个时间上不同的人是否是同一个人。此外，虽然感知可以指示某个命题的真实性，从而表明其可能性，但似乎无法本身证明非实际真理的可能性或任何命题的必然性。
 
 ### 3.3 来自不可靠性的论证
 
@@ -244,29 +244,29 @@
 
 *不可靠性论证—第一版本*
 
-* [P1]只有当一个被认为是证据来源的基础是可靠的时候，一个人才有理由相信。
-* [P2]直觉（或类型为 T 的直觉）是不可靠的。
-* [C]仅基于直觉（或类型为 T 的直觉）的信念是不合理的。
+* [P1] 只有当一个被认为是证据来源的基础是可靠的时候，一个人才有理由相信。
+* [P2] 直觉（或类型为 T 的直觉）是不可靠的。
+* [C] 仅基于直觉（或类型为 T 的直觉）的信念是不合理的。
 
 就范式前提被认为是表达必然真理的，但它容易受到“新邪恶魔”的反例的影响，这个反例质疑了可靠性的必要性（科恩 1984）。根据这个反例，即使具有与我们完全相同的经验和信念，受到欺骗性邪恶魔的影响的主体也有理由相信我们所相信的。由于这里违反了对可靠性条件的自然解释，许多人认为可靠性（如此理解）不是合理信念的必要条件。
 
-然而，即使那些拒绝[P1]的人通常也允许有充分的理由认为证据的潜在来源是不可靠的，足以击败它可能提供的任何初步证明。因此，为了给这个论证提供一个更有说服力的规范前提，我们可以重新阐述这个论证如下：
+然而，即使那些拒绝 [P1] 的人通常也允许有充分的理由认为证据的潜在来源是不可靠的，足以击败它可能提供的任何初步证明。因此，为了给这个论证提供一个更有说服力的规范前提，我们可以重新阐述这个论证如下：
 
 *不可靠性论证——第二版本*
 
 * [P1*]只有在没有（未被击败的）理由认为它不可靠的情况下，一个人才有理由相信某个证据的潜在来源。
-* [P2*]我们有（无敌的）理由认为直觉（或类型为 T 的直觉）是不可靠的。
-* [C]因此，仅基于直觉（或类型为 T 的直觉）的信念是没有理据的。
+* [P2*] 我们有（无敌的）理由认为直觉（或类型为 T 的直觉）是不可靠的。
+* [C] 因此，仅基于直觉（或类型为 T 的直觉）的信念是没有理据的。
 
-由于辩护[P1]或[P1*]需要诉诸认识直觉，任何试图通过这种方式来证明关于所有直觉、所有认识直觉甚至所有规范直觉的怀疑性结论的尝试，都将无法遵守非自我破坏的约束。
+由于辩护 [P1] 或[P1*]需要诉诸认识直觉，任何试图通过这种方式来证明关于所有直觉、所有认识直觉甚至所有规范直觉的怀疑性结论的尝试，都将无法遵守非自我破坏的约束。
 
-然而，值得考虑的是尝试以某种方式证明怀疑论的有限形式的可能途径，即通过认为某种直觉是不可靠的（这种直觉不包括认识直觉，或者至少不包括用来证明前提的认识直觉）。鉴于相关的非规范前提必须声称这种相关直觉更频繁地是错误的而不是正确的（或者错误和正确的可能性相等），似乎需要基于足够多的案例的归纳证明，其中我们有理由相信∼p，而p是直觉的内容。
+然而，值得考虑的是尝试以某种方式证明怀疑论的有限形式的可能途径，即通过认为某种直觉是不可靠的（这种直觉不包括认识直觉，或者至少不包括用来证明前提的认识直觉）。鉴于相关的非规范前提必须声称这种相关直觉更频繁地是错误的而不是正确的（或者错误和正确的可能性相等），似乎需要基于足够多的案例的归纳证明，其中我们有理由相信 ∼p，而 p 是直觉的内容。
 
-开发案例的一种方式涉及到足够多的案例，其中一个人在直觉独立的理由下认为∼p，而直觉证明了 p（个人内部来源的不一致性）。另一种方式涉及到足够多的案例，其中一个人直觉认为 p，而自己或其他人直觉认为∼p。在个人内部的情况下，这可能涉及到我们在某个时间认为某个命题直觉上是正确的，而在另一个时间我们认为它的明确否定直觉上是正确的（个人内部来源的不一致性）。更有可能的是一种不太直接的不一致性，比如当我们有两种直觉，虽然它们不是彼此的明确命题否定，但可以通过某些其他合理的原则来证明它们相互矛盾。然而，许多当代怀疑论者希望以人际间的分歧作为他们怀疑论的理由。在这里，我们应该区分一下其他人对于自己直觉内容的否定具有直觉独立的理由的情况（人际间来源的不一致性），以及其他人对于自己直觉的内容具有相互矛盾的直觉，或者可能对 p 没有任何直觉（人际间内部来源的不一致性）的情况。
+开发案例的一种方式涉及到足够多的案例，其中一个人在直觉独立的理由下认为 ∼p，而直觉证明了 p（个人内部来源的不一致性）。另一种方式涉及到足够多的案例，其中一个人直觉认为 p，而自己或其他人直觉认为 ∼p。在个人内部的情况下，这可能涉及到我们在某个时间认为某个命题直觉上是正确的，而在另一个时间我们认为它的明确否定直觉上是正确的（个人内部来源的不一致性）。更有可能的是一种不太直接的不一致性，比如当我们有两种直觉，虽然它们不是彼此的明确命题否定，但可以通过某些其他合理的原则来证明它们相互矛盾。然而，许多当代怀疑论者希望以人际间的分歧作为他们怀疑论的理由。在这里，我们应该区分一下其他人对于自己直觉内容的否定具有直觉独立的理由的情况（人际间来源的不一致性），以及其他人对于自己直觉的内容具有相互矛盾的直觉，或者可能对 p 没有任何直觉（人际间内部来源的不一致性）的情况。
 
 #### 3.3.1 间接来源的不一致性
 
-如在承认独立校准缺乏的论证（§3.2）的事实前提[P2]时所指出的，在直觉的独特解释（§1.3）中，理性直觉的所谓结果与我们其他的证据来源之间几乎没有直接冲突（Bealer 1998; BonJour 1998）。间接冲突是指经验理论的结果与理性直觉的内容相矛盾的情况。如果有的话，这样的情况非常罕见。
+如在承认独立校准缺乏的论证（§3.2）的事实前提 [P2] 时所指出的，在直觉的独特解释（§1.3）中，理性直觉的所谓结果与我们其他的证据来源之间几乎没有直接冲突（Bealer 1998; BonJour 1998）。间接冲突是指经验理论的结果与理性直觉的内容相矛盾的情况。如果有的话，这样的情况非常罕见。
 
 实际上，鉴于缺乏直接冲突，有充分的理由认为间接冲突必然很少，因为标准经验理论似乎不太可能得出关于直觉所告知的领域的结论。这些事实表明，人际间的不一致性也不足以成为怀疑的基础。
 
@@ -280,11 +280,11 @@
 
 > 我们基本的具体案例直觉之间的一致是关于人类认知最令人印象深刻的普遍事实之一。（1998 年：214）
 
-（见§4.1中讨论的实验哲学家的“变异项目”。）例如，功能主义者通常不声称缺乏直觉，即中国国家（Block 1978）缺乏质感。相反，他们经常费尽心思地解释这种直觉，制定功能主义理论以适应它们（Putnam 1967），或有选择地削弱它们的认识价值。可靠主义者通常不声称没有新的邪恶恶魔问题（Cohen 1984）。相反，他们进行了相当大的调整，以贬低这种直觉，以一种对直接可靠主义不造成损害的方式重新表述它，或者最常见的是提供一种替代的、可识别的可靠主义理论，以适应这种直觉。
+（见 §4.1 中讨论的实验哲学家的“变异项目”。）例如，功能主义者通常不声称缺乏直觉，即中国国家（Block 1978）缺乏质感。相反，他们经常费尽心思地解释这种直觉，制定功能主义理论以适应它们（Putnam 1967），或有选择地削弱它们的认识价值。可靠主义者通常不声称没有新的邪恶恶魔问题（Cohen 1984）。相反，他们进行了相当大的调整，以贬低这种直觉，以一种对直接可靠主义不造成损害的方式重新表述它，或者最常见的是提供一种替代的、可识别的可靠主义理论，以适应这种直觉。
 
-最近关于不同意见的认识重要性的文献大部分集中在以下情况：两个人对一个推理上有正当理由的命题持不同意见，并且这两个人彼此知道彼此有相同的证据和一般的认知优势（Christensen 2009）。这些情况对于目前的问题的教训可能是有限的。如果直觉是非推理地证明信念的证据，那么即使在前述情况下应该暂缓判断，也不意味着在直觉上的不同意见的情况下也应该如此。因此，我们必须转而关注非推理地证明的信念之间的不同意见的情况，或者更恰当地说，关注某种非信念基础的命题内容。Feldman（2007）提供了一个感知的案例（明确与理性直觉之类的东西进行比较），其中一个人似乎看到了p，而另一个处于类似情况的人似乎没有看到p。当两者了解彼此的外貌（并且知道彼此视力都很好且诚实）时，Feldman认为他们必须对p保持保留意见。也许对于哲学直觉也是如此。
+最近关于不同意见的认识重要性的文献大部分集中在以下情况：两个人对一个推理上有正当理由的命题持不同意见，并且这两个人彼此知道彼此有相同的证据和一般的认知优势（Christensen 2009）。这些情况对于目前的问题的教训可能是有限的。如果直觉是非推理地证明信念的证据，那么即使在前述情况下应该暂缓判断，也不意味着在直觉上的不同意见的情况下也应该如此。因此，我们必须转而关注非推理地证明的信念之间的不同意见的情况，或者更恰当地说，关注某种非信念基础的命题内容。Feldman（2007）提供了一个感知的案例（明确与理性直觉之类的东西进行比较），其中一个人似乎看到了 p，而另一个处于类似情况的人似乎没有看到 p。当两者了解彼此的外貌（并且知道彼此视力都很好且诚实）时，Feldman 认为他们必须对 p 保持保留意见。也许对于哲学直觉也是如此。
 
-然而，确定他人没有直觉p的认识上的重要性可能是困难的，因为他们可能尚未真正理解或考虑到相关的确切命题。在感知的情况下也存在类似的情况，例如当一个人看到一个很好伪装的物体，而另一个人声称没有看到。然而，如果我们限制在这样一种情况下，即一个人有充分理由认为对方完全理解了相关内容，并声称没有直觉或者有相反的直觉，我们必须问在这种情况下适当的回应是什么。在这里，似乎适当的回应有时是暂时搁置信念或适当减少信任度（BonJour 1998: 138–142）。即使在这种情况下，对于关于p的分歧正确的回应是搁置信念（或减少信任度），也不能得出结论认为没有已知分歧的命题的信念受到了削弱。也不能得出结论认为在接受直觉的内容之前，必须始终有独立的理由认为没有分歧。那是不可能的。
+然而，确定他人没有直觉 p 的认识上的重要性可能是困难的，因为他们可能尚未真正理解或考虑到相关的确切命题。在感知的情况下也存在类似的情况，例如当一个人看到一个很好伪装的物体，而另一个人声称没有看到。然而，如果我们限制在这样一种情况下，即一个人有充分理由认为对方完全理解了相关内容，并声称没有直觉或者有相反的直觉，我们必须问在这种情况下适当的回应是什么。在这里，似乎适当的回应有时是暂时搁置信念或适当减少信任度（BonJour 1998: 138–142）。即使在这种情况下，对于关于 p 的分歧正确的回应是搁置信念（或减少信任度），也不能得出结论认为没有已知分歧的命题的信念受到了削弱。也不能得出结论认为在接受直觉的内容之前，必须始终有独立的理由认为没有分歧。那是不可能的。
 
 对于某些直觉类的基于分歧的局部怀疑，如果逃避了非自我削弱的约束，那么就需要有理由认为与某个同样（或更）有能力的他人存在相当大的分歧。不能假设一个问题，即是否有理由认为某个表面上有能力的对话者真诚地证明了 p，完全独立于他们表面上的断言内容或与其他思维存在和其心理内容的存在相关的全部证据。某些表面上的分歧会对对话者的理解力、精神健康、智力或真诚性提出质疑，例如当其他人否认算术的某个基本真理时。考虑费尔德曼感知案例的一个版本，其中有连续的场合，一个人似乎看到 p，而对话者明显否认他们看到任何这样的事物。如果这种情况变得足够频繁，就可能有理由怀疑对方是否诚实和有能力，是否使用的是自己的语言，或者是否存在另一个与之对话的人。对于直觉的非常广泛的分歧的可能性也存在类似的障碍，特别是对于那些认为直觉的可靠性构成了拥有某些概念的基础的观点（Bealer 1998；Huemer 2005；Ludwig 2007）。
 
@@ -308,17 +308,17 @@ of the moral intuitions. When, for example, one has the intuition, in the Transp
 
 > *缺乏解释必要性的论证*
 >
-> * [P1]除了描述她内省可接触状态发生的命题之外，S 只有在相应的内省可接触状态发生的最佳解释中的命题中才有理由相信。
-> * [P2]道德命题不是 S 内省可接触状态发生的最佳解释的一部分。
-> * [C]S 没有理由相信道德命题。
+> * [P1] 除了描述她内省可接触状态发生的命题之外，S 只有在相应的内省可接触状态发生的最佳解释中的命题中才有理由相信。
+> * [P2] 道德命题不是 S 内省可接触状态发生的最佳解释的一部分。
+> * [C] S 没有理由相信道德命题。
 
-规范前提[P1]是非常普遍的，因此可以同样用来削弱任何未达到其标准的命题的合理信念。实际上，有同样充分的理由认为，大多数哲学直觉的内容不会成为我们拥有这些直觉的最佳解释的一部分（在态度语境之外）。（参见戈德曼 1989 年、1992 年关于当代形而上学中使用直觉的类似怀疑论论证。）
+规范前提 [P1] 是非常普遍的，因此可以同样用来削弱任何未达到其标准的命题的合理信念。实际上，有同样充分的理由认为，大多数哲学直觉的内容不会成为我们拥有这些直觉的最佳解释的一部分（在态度语境之外）。（参见戈德曼 1989 年、1992 年关于当代形而上学中使用直觉的类似怀疑论论证。）
 
-对这种论证的一种可能回应是承认[P1]并辩称，对于所讨论的命题类别，它们确实满足合理性的必要条件。斯特金（1984 年）对哈曼的反驳代表了这种策略。斯特金认为，我们通常有理由认为，除非某个行为或人实际上具有某种相关的道德属性，否则我们不会认为它们具有该属性。更准确地说，他认为，为了使某个行为或者行为者具有不同的道德地位，它们必须在某种非道德的方式上有所不同，而我们通常不会认为它们具有相同的道德地位。然而，无论这种解释在实际的具体行为或者人物上是否合理，如何将反事实的标准应用于典型方法中的仅仅假设情况中的行为的道德地位则不太清楚。此外，即使将斯特金的策略视为成功应对哈曼对道德直觉的攻击，如何将其扩展到上述许多对直觉的引用也是相当不清楚的（§2）。
+对这种论证的一种可能回应是承认 [P1] 并辩称，对于所讨论的命题类别，它们确实满足合理性的必要条件。斯特金（1984 年）对哈曼的反驳代表了这种策略。斯特金认为，我们通常有理由认为，除非某个行为或人实际上具有某种相关的道德属性，否则我们不会认为它们具有该属性。更准确地说，他认为，为了使某个行为或者行为者具有不同的道德地位，它们必须在某种非道德的方式上有所不同，而我们通常不会认为它们具有相同的道德地位。然而，无论这种解释在实际的具体行为或者人物上是否合理，如何将反事实的标准应用于典型方法中的仅仅假设情况中的行为的道德地位则不太清楚。此外，即使将斯特金的策略视为成功应对哈曼对道德直觉的攻击，如何将其扩展到上述许多对直觉的引用也是相当不清楚的（§2）。
 
-也有人认为[P1]是不合理的（Pust 2001）。有两种方式可以证明[P1]的合理性。一种是通过直觉来证明，另一种是通过我们对合理信念特定案例的直觉支持来证明。然而，[P1]并不是直觉的。此外，基于我们对合理信念特定案例的直觉的归纳论证也无法支持[P1]，因为许多直观上最合理的信念都违背了[P1]（参见§1中的[I1]–[I4]以及§2.2和§2.3中的例子）。我们许多特定的认识论信念、道德信念和模态信念在直觉上似乎并不比我们的经验信念更不合理。事实上，有些似乎更合理。由于所有这些命题都被认为是解释我们直觉发生的最佳方式所必需的，因此[P1]所要求的这种角色在这些案例中受到了削弱，这似乎是不合理的。
+也有人认为 [P1] 是不合理的（Pust 2001）。有两种方式可以证明 [P1] 的合理性。一种是通过直觉来证明，另一种是通过我们对合理信念特定案例的直觉支持来证明。然而，[P1] 并不是直觉的。此外，基于我们对合理信念特定案例的直觉的归纳论证也无法支持 [P1]，因为许多直观上最合理的信念都违背了 [P1]（参见 §1 中的 [I1]–[I4] 以及 §2.2 和 §2.3 中的例子）。我们许多特定的认识论信念、道德信念和模态信念在直觉上似乎并不比我们的经验信念更不合理。事实上，有些似乎更合理。由于所有这些命题都被认为是解释我们直觉发生的最佳方式所必需的，因此 [P1] 所要求的这种角色在这些案例中受到了削弱，这似乎是不合理的。
 
-即使对于[P1]有足够的直觉支持，通过这种方式来辩护这个论点将违反非自我削弱约束的两个方面（Pust 2001）。根据[P1]，S 对 p 的非内省信念只有在所信的命题在最佳解释 S 的心理状态中起作用时才能被证明合理。在刚才讨论的两种证明[P1]的方法中，并没有涉及到解释相关性的证明。相反，每种方法都会将原则仅仅是直觉的内容或者最佳解释一组特定直觉（即被直觉感知的事物）的内容作为合理信念的充分条件。这是将被直觉感知的事物作为支持一个只允许直觉计入证据的原则的证据。此外，由于[P1]陈述了一个关于信念何时合理的规范命题，很难看出它的真实性如何在解释我们的经验或直觉发生时发挥任何作用。然而，如果[P1]不满足[P1]，那么如果[P1]是真的，我们就不能合理地相信[P1]。
+即使对于 [P1] 有足够的直觉支持，通过这种方式来辩护这个论点将违反非自我削弱约束的两个方面（Pust 2001）。根据 [P1]，S 对 p 的非内省信念只有在所信的命题在最佳解释 S 的心理状态中起作用时才能被证明合理。在刚才讨论的两种证明 [P1] 的方法中，并没有涉及到解释相关性的证明。相反，每种方法都会将原则仅仅是直觉的内容或者最佳解释一组特定直觉（即被直觉感知的事物）的内容作为合理信念的充分条件。这是将被直觉感知的事物作为支持一个只允许直觉计入证据的原则的证据。此外，由于 [P1] 陈述了一个关于信念何时合理的规范命题，很难看出它的真实性如何在解释我们的经验或直觉发生时发挥任何作用。然而，如果 [P1] 不满足 [P1]，那么如果 [P1] 是真的，我们就不能合理地相信 [P1]。
 
 #### 3.4.2 可靠性无法解释的论证
 
@@ -340,17 +340,17 @@ On his account, the fundamental problem has to do with *the impossibility of exp
 
 > *可靠性无法解释的论证*
 >
-> * [P1]如果我们有充分的理由认为我们的直觉可靠的原因没有解释，那么我们不能基于直觉相信 p 而得到合理的理由。
-> * [P2]我们有充分的理由认为我们的直觉可靠的原因没有解释。
-> * [C]我们不能基于直觉相信 p 而得到合理的理由。
+> * [P1] 如果我们有充分的理由认为我们的直觉可靠的原因没有解释，那么我们不能基于直觉相信 p 而得到合理的理由。
+> * [P2] 我们有充分的理由认为我们的直觉可靠的原因没有解释。
+> * [C] 我们不能基于直觉相信 p 而得到合理的理由。
 
-非规范前提[P2]似乎适用于所有必然真理，如果[P1]中提到的可靠性解释需要任何形式的事实支持关系来维持相关命题的真实性和我们的心理状态之间的关系。这里的解释失败与反事实中包含必然命题的否定的直觉偏离密切相关。标准语义将它们视为统一而空洞的真理，因此对于我们认为（必然）真实的命题如果是假的，我们会相信（或直觉）与我们现在不同的事情，这个概念很难提供有信息量的意义。由于我们所有在非偶然事项上的信念都是无法证明的，如果[P1]被认为需要一种反事实支持的解释，这就与之相悖。
+非规范前提 [P2] 似乎适用于所有必然真理，如果 [P1] 中提到的可靠性解释需要任何形式的事实支持关系来维持相关命题的真实性和我们的心理状态之间的关系。这里的解释失败与反事实中包含必然命题的否定的直觉偏离密切相关。标准语义将它们视为统一而空洞的真理，因此对于我们认为（必然）真实的命题如果是假的，我们会相信（或直觉）与我们现在不同的事情，这个概念很难提供有信息量的意义。由于我们所有在非偶然事项上的信念都是无法证明的，如果 [P1] 被认为需要一种反事实支持的解释，这就与之相悖。
 
-另一方面，如果[P1]只要求我们有理由认为我们的可靠性并非完全神秘，那么虽然[P1]更有说服力，但[P2]的相关实例可能是错误的。有人提出，提供我们拥有直觉的解释，由于我们直觉所指的命题不可能具有不同的真值，足以解释它们的可靠性。没有特别的理由认为我们的直觉缺乏解释，而我们的其他心理状态却有解释。当这个解释与我们对直觉内容的初步证明相结合时（在这个论证的解释中，我们的初步证明并没有受到质疑），似乎足以解释我们的可靠性。换句话说，如果我们的可靠性是拥有特定内容的必要伴随物，那么我们没有理由认为我们的可靠性是无法解释的。在这个意义上，我们的可靠性的解释是我们直觉的必然真值和我们拥有这些特定直觉的心理解释的直接结果（Pust 2004; Grundmann 2007: 84; 但参见Schechter 2010）。
+另一方面，如果 [P1] 只要求我们有理由认为我们的可靠性并非完全神秘，那么虽然 [P1] 更有说服力，但 [P2] 的相关实例可能是错误的。有人提出，提供我们拥有直觉的解释，由于我们直觉所指的命题不可能具有不同的真值，足以解释它们的可靠性。没有特别的理由认为我们的直觉缺乏解释，而我们的其他心理状态却有解释。当这个解释与我们对直觉内容的初步证明相结合时（在这个论证的解释中，我们的初步证明并没有受到质疑），似乎足以解释我们的可靠性。换句话说，如果我们的可靠性是拥有特定内容的必要伴随物，那么我们没有理由认为我们的可靠性是无法解释的。在这个意义上，我们的可靠性的解释是我们直觉的必然真值和我们拥有这些特定直觉的心理解释的直接结果（Pust 2004; Grundmann 2007: 84; 但参见 Schechter 2010）。
 
 也可以争辩（Pust 2004）认为，正如 Field 的反对所假设的那样，一个生物的直觉可能与我们自己的直觉有显著的不同。鉴于上述更受限制的直觉解释，一个生物可能具有与我们自己的直觉内容普遍相矛盾的直觉并不清楚。这样一个生物在形而上学上是可能的，这本身是一个显然需要通过直觉来证明的模态主张，而这样的直觉似乎是缺乏的。对于解释主义者的这种回应可以在概念占有理论的背景下详细阐述，根据这一理论，对于一个给定概念（在哲学研究中最感兴趣的那种概念）的真正占有的必要条件是一个人对于假设情况的直觉的可靠性。这样的解释是通过直觉来证明的，因此不能独立地证明它们。然而，它仍然可以被认为是对它们（必要的）可靠性的一个解释（尽管不是一个因果性的解释）。
 
-最后，正如对于缺乏解释必要性的论证所说的那样，仍然存在这样的担忧，即任何试图证明相信[P1]和[P2]的尝试都将违反非自我削弱的约束，因为它依赖于关于证明和解释的直觉，以主张直觉不能证明信念。
+最后，正如对于缺乏解释必要性的论证所说的那样，仍然存在这样的担忧，即任何试图证明相信 [P1] 和 [P2] 的尝试都将违反非自我削弱的约束，因为它依赖于关于证明和解释的直觉，以主张直觉不能证明信念。
 
 ### 3.5 直觉的辩护：自我支持和认识循环
 
@@ -390,7 +390,7 @@ Examples of this approach include: Greene’s (Greene et al. 2001; Greene 2003: 
 
 ### 4.2 实验证据
 
-对于试图调查哲学兴趣直觉的来源、特征和分布的实验哲学家来说，主要方法是向受试者提出关于假设情景的问题，或者较少情况下，关于原则或概括的问题。证据是对这些调查问题的回答（无论是二元[是/否]回答还是分级[Likert 量表]回答）。追求来源项目和变异项目的人还旨在确定与答案共变的因素——文化或种族群体、社会经济地位、大脑区域或认知过程与回答问题有关、心理病理学、问题顺序、问题框架等。
+对于试图调查哲学兴趣直觉的来源、特征和分布的实验哲学家来说，主要方法是向受试者提出关于假设情景的问题，或者较少情况下，关于原则或概括的问题。证据是对这些调查问题的回答（无论是二元 [是/否] 回答还是分级 [Likert 量表] 回答）。追求来源项目和变异项目的人还旨在确定与答案共变的因素——文化或种族群体、社会经济地位、大脑区域或认知过程与回答问题有关、心理病理学、问题顺序、问题框架等。
 
 当然，传统的第一人称扶手椅方法试图确定在考虑情景的内容中哪些特征会随着一个人的直觉而变化。事实上，在哲学的许多领域中，这正是人们努力测试或更精确地阐述一些普遍命题的方式。然而，源项目和变异项目的支持者试图确定在考虑情景的人或在构建或提出同样问题时，哪些特征会随相关直觉而变化。
 
@@ -408,9 +408,9 @@ Examples of this approach include: Greene’s (Greene et al. 2001; Greene 2003: 
 
 ### 4.3 实验哲学与怀疑挑战
 
-如上所述，来源项目经常被提出作为证明对某类哲学直觉持怀疑态度的可能手段。Knobe和Nichols（2008）提出的一个类比是对宗教信仰的解构性解释。从事这类项目的理论家们认为，宗教信仰（或基于宗教信仰的宗教经验）是由一些可疑的过程产生的，比如心愿满足、对父亲形象的渴望、文化灌输等。然后，他们认为（或假设）这种信仰的来源事实（或其直接内在基础）削弱了这些信仰的认识论资格。
+如上所述，来源项目经常被提出作为证明对某类哲学直觉持怀疑态度的可能手段。Knobe 和 Nichols（2008）提出的一个类比是对宗教信仰的解构性解释。从事这类项目的理论家们认为，宗教信仰（或基于宗教信仰的宗教经验）是由一些可疑的过程产生的，比如心愿满足、对父亲形象的渴望、文化灌输等。然后，他们认为（或假设）这种信仰的来源事实（或其直接内在基础）削弱了这些信仰的认识论资格。
 
-这可能表明，一些对于来源项目持怀疑态度的支持者旨在激发一种来自不可靠性的论证实例（§3.3）。例如，考虑格林（Greene）基于fMRI的论证（Greene et al. 2001; Greene 2003, 2007）反对伦理学中某些“典型的义务论”直觉。他的论证所依据的主要实验数据是，当被试考虑引发典型的义务论直觉的情况时，与情绪反应有关的大脑部分更加活跃，而当他们考虑引发典型的后果论直觉的情况时，这些部分则不太活跃。然而，批评者将声称（§3.3），试图证明一个过程不可靠（与异议无关）需要对目标领域进行独立访问，而对于哲学研究的大多数目标领域来说，这种独立于直觉的访问似乎是缺乏的。在这方面，伯克（Berker）（2009）认为，格林的工作中最好的论证主要依赖于关于格林认为义务论直觉对假设情况中的因素的一般规范无关性的其他直觉。（参见Unger 1996，对于许多“典型的义务论”直觉因其对直觉上规范无关的因素的显然敏感性的完全先验批评。）
+这可能表明，一些对于来源项目持怀疑态度的支持者旨在激发一种来自不可靠性的论证实例（§3.3）。例如，考虑格林（Greene）基于 fMRI 的论证（Greene et al. 2001; Greene 2003, 2007）反对伦理学中某些“典型的义务论”直觉。他的论证所依据的主要实验数据是，当被试考虑引发典型的义务论直觉的情况时，与情绪反应有关的大脑部分更加活跃，而当他们考虑引发典型的后果论直觉的情况时，这些部分则不太活跃。然而，批评者将声称（§3.3），试图证明一个过程不可靠（与异议无关）需要对目标领域进行独立访问，而对于哲学研究的大多数目标领域来说，这种独立于直觉的访问似乎是缺乏的。在这方面，伯克（Berker）（2009）认为，格林的工作中最好的论证主要依赖于关于格林认为义务论直觉对假设情况中的因素的一般规范无关性的其他直觉。（参见 Unger 1996，对于许多“典型的义务论”直觉因其对直觉上规范无关的因素的显然敏感性的完全先验批评。）
 
 上述的类比可以用来驳斥对宗教信仰解释的观点，也可以被理解为对缺乏解释必要性的论证的一种暗示（§3.4.1）。根据这个论证，对于这些直觉（直觉）发生的解释，如果不依赖于它们内容（被直觉的对象）的真实性，就会削弱对它们内容的信仰。实验工作的作用可能被认为是支持这个论证的事实前提（参见格林 2003 年：849，对此提出了这样的建议）。正如我们所见（§3.4.2），批评者会声称这个论证依赖于一个有问题的规范前提，并违反了非自我削弱的约束。他们还可能提出，论证的非规范前提的合理性源于对直觉内容、它们的真理生成者和解释的性质的非常普遍的坐椅（甚至完全是先验的）反思。如果是这样，那么实验调查就是无用的。
 
@@ -432,120 +432,120 @@ Examples of this approach include: Greene’s (Greene et al. 2001; Greene 2003: 
 
 ## Bibliography
 
-* Adams, Fred and Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 74(2): 173–181. doi:10.1093/analys/64.2.173
-* Adleberg, Toni, Morgan Thompson, and Eddy Nahmias, 2014, “Do Men and Women Have Different Philosophical Intuitions? Further Data”, *Philosophical Psychology*, 28(5): 615–641. doi:10.1080/09515089.2013.878834
-* Alexander, Joshua, Ronald Mallon, and Jonathan M. Weinberg, 2010, “Accentuate the Negative”, *Review of Philosophy and Psychology*, 1(2): 297–314. doi:10.1007/s13164-009-0015-2
-* Alexander, Joshua and Jonathan M. Weinberg, 2007, “Analytic Epistemology and Experimental Philosophy”, *Philosophy Compass*, 2(1): 56–80. doi:10.1111/j.1747-9991.2006.00048.x
-* Allman, John and Jim Woodward, 2008, “What are Moral Intuitions and Why Should we Care About Them? A Neurobiological Perspective”, *Philosophical Issues*, 18(1): 164–185. doi:10.1111/j.1533-6077.2008.00143.x
-* Alston, William P., 1986, “Epistemic Circularity”, *Philosophy and Phenomenological Research*, 47(1): 1–30. doi:10.2307/2107722
+* Adams, Fred and Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 74(2): 173–181. doi: 10.1093/analys/64.2.173
+* Adleberg, Toni, Morgan Thompson, and Eddy Nahmias, 2014, “Do Men and Women Have Different Philosophical Intuitions? Further Data”, *Philosophical Psychology*, 28(5): 615–641. doi: 10.1080/09515089.2013.878834
+* Alexander, Joshua, Ronald Mallon, and Jonathan M. Weinberg, 2010, “Accentuate the Negative”, *Review of Philosophy and Psychology*, 1(2): 297–314. doi: 10.1007/s13164-009-0015-2
+* Alexander, Joshua and Jonathan M. Weinberg, 2007, “Analytic Epistemology and Experimental Philosophy”, *Philosophy Compass*, 2(1): 56–80. doi: 10.1111/j.1747-9991.2006.00048.x
+* Allman, John and Jim Woodward, 2008, “What are Moral Intuitions and Why Should we Care About Them? A Neurobiological Perspective”, *Philosophical Issues*, 18(1): 164–185. doi: 10.1111/j.1533-6077.2008.00143.x
+* Alston, William P., 1986, “Epistemic Circularity”, *Philosophy and Phenomenological Research*, 47(1): 1–30. doi: 10.2307/2107722
 * –––, 1993, *The Reliability of Sense Perception*, Ithaca, NY: Cornell University Press.
 * Appiah, Kwame Anthony, 2008, *Experiments in Ethics*, Cambridge, MA: Harvard University Press.
-* Arico, Adam, Brian Fiala, Robert F. Goldberg, and Shaun Nichols, 2011, “The Folk Psychology of Consciousness”, *Mind and Language* 26(3): 327–352. doi:10.1111/j.1468-0017.2011.01420.x
+* Arico, Adam, Brian Fiala, Robert F. Goldberg, and Shaun Nichols, 2011, “The Folk Psychology of Consciousness”, *Mind and Language* 26(3): 327–352. doi: 10.1111/j.1468-0017.2011.01420.x
 * Bach, Kent, 2002, “Seemingly Semantic Intuitions”, in *Meaning and Truth*, Joseph Klein Campbell, Michael O’Rourke and David Shier (eds.), New York: Seven Bridges Press, pages 21–33.
 * Bealer, George, 1998, “Intuition and the Autonomy of Philosophy”, in DePaul and Ramsey 1998: 201–240.
 * –––, 2002, “Modal Epistemology and the Rationalist Renaissance”, in *Conceivability and Possibility*, Tamar Szabo Gendler and John Hawthorne (eds.), New York: Oxford University Press.
-* –––, 1992, “The Incoherence of Empiricism”, *Proceedings of the Aristotelian Society* (Supplemental Volume), 66: 99–138. doi:10.1093/aristoteliansupp/66.1.99
-* Benacerraf, Paul, 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70(19): 661–679. doi:10.2307/2025075
-* Bengson, John, 2013, “Experimental Attacks on Intuitions and Answers”, *Philosophy and Phenomenological Research*, 86(3): 495–532. doi:10.1111/j.1933-1592.2012.00578.x
-* –––, 2014, “How Philosophers Use Intuition and ‘Intuition’”, *Philosophical Studies*, 171(3): 555–576. doi:10.1007/s11098-014-0287-y
-* –––, 2015, “The Intellectual Given”, *Mind*, 124(495): 707–760. doi:10.1093/mind/fzv029
-* Bergmann, Michael, 2006, *Justification Without Awareness: A Defense of Epistemic Externalism*, New York, NY: Oxford University Press. doi:10.1093/0199275742.001.0001
-* Berker, Selim, 2009, “The Normative Insignificance of Neuroscience”, *Philosophy and Public Affairs*, 37(4): 293–329. doi:10.1111/j.1088-4963.2009.01164.x
+* –––, 1992, “The Incoherence of Empiricism”, *Proceedings of the Aristotelian Society* (Supplemental Volume), 66: 99–138. doi: 10.1093/aristoteliansupp/66.1.99
+* Benacerraf, Paul, 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70(19): 661–679. doi: 10.2307/2025075
+* Bengson, John, 2013, “Experimental Attacks on Intuitions and Answers”, *Philosophy and Phenomenological Research*, 86(3): 495–532. doi: 10.1111/j.1933-1592.2012.00578.x
+* –––, 2014, “How Philosophers Use Intuition and ‘Intuition’”, *Philosophical Studies*, 171(3): 555–576. doi: 10.1007/s11098-014-0287-y
+* –––, 2015, “The Intellectual Given”, *Mind*, 124(495): 707–760. doi: 10.1093/mind/fzv029
+* Bergmann, Michael, 2006, *Justification Without Awareness: A Defense of Epistemic Externalism*, New York, NY: Oxford University Press. doi: 10.1093/0199275742.001.0001
+* Berker, Selim, 2009, “The Normative Insignificance of Neuroscience”, *Philosophy and Public Affairs*, 37(4): 293–329. doi: 10.1111/j.1088-4963.2009.01164.x
 * Block, Ned, 1978, “Troubles with Functionalism”, in C. W. Savage (ed.), *Minnesota Studies in the Philosophy of Science*, 9: 261–325.
 * BonJour, Laurence, 1998, *In Defense of Pure Reason*, Cambridge: Cambridge University Press.
 * Bromberger, Sylvain, 1966, “Why-Questions”, in *Mind and Cosmos: Essays in Contemporary Science and Philosophy*, Robert Garland Colodny (ed.), Pittsburgh: University of Pittsburgh Press, pages 86–121.
-* Buckwalter, Wesley and Stephen Stich, 2014, “Gender and Philosophical Intuition”, in Joshua Knobe and Shaun Nichols (eds.), *Experimental Philosophy* (Volume 2), Oxford: Oxford University Press. doi:10.1093/acprof:osobl/9780199927418.001.0001
-* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199644865.001.0001
-* Cath, Yuri, 2012, “Evidence and Intuition”, *Episteme*, 9(4): 311–328. doi:10.1017/epi.2012.21
+* Buckwalter, Wesley and Stephen Stich, 2014, “Gender and Philosophical Intuition”, in Joshua Knobe and Shaun Nichols (eds.), *Experimental Philosophy* (Volume 2), Oxford: Oxford University Press. doi: 10.1093/acprof: osobl/9780199927418.001.0001
+* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199644865.001.0001
+* Cath, Yuri, 2012, “Evidence and Intuition”, *Episteme*, 9(4): 311–328. doi: 10.1017/epi.2012.21
 * Christensen, David, 2007, “Epistemology of Disagreement: The Good News”, *Philosophical Review*, 116: 187–217.
-* –––, 2009, “Disagreement as Evidence: The Epistemology of Controversy”, *Philosophy Compass*, 4(5): 756–767. doi:10.1111/j.1747-9991.2009.00237.x
-* Chudnoff, Elijah, 2011a, “What Intuitions are Like”, *Philosophy and Phenomenological Research*, 82(3): 625–654. doi:10.1111/j.1933-1592.2010.00463.x
-* –––, 2011b, “The Nature of Intuitive Justification”, *Philosophical Studies*, 153(2): 313–333. doi:10.1007/s11098-010-9495-2
-* Clarke-Doane, J., 2015, “Justification and Explanation in Mathematics and Morality”, in *Oxford Studies in Metaethics* (Volume 10), Russ Shafer-Landau (ed.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780198738695.003.0004
-* Cohen. Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46(3): 279–295. doi:10.1007/BF00372907
-* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi:10.1111/j.1933-1592.2002.tb00204.x
-* Cullen, Simon, 2010, “Survey-Driven Romanticism”, *Review of Philosophy and Psychology*, 1(2): 275–296. doi:10.1007/s13164-009-0016-1
+* –––, 2009, “Disagreement as Evidence: The Epistemology of Controversy”, *Philosophy Compass*, 4(5): 756–767. doi: 10.1111/j.1747-9991.2009.00237.x
+* Chudnoff, Elijah, 2011a, “What Intuitions are Like”, *Philosophy and Phenomenological Research*, 82(3): 625–654. doi: 10.1111/j.1933-1592.2010.00463.x
+* –––, 2011b, “The Nature of Intuitive Justification”, *Philosophical Studies*, 153(2): 313–333. doi: 10.1007/s11098-010-9495-2
+* Clarke-Doane, J., 2015, “Justification and Explanation in Mathematics and Morality”, in *Oxford Studies in Metaethics* (Volume 10), Russ Shafer-Landau (ed.), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198738695.003.0004
+* Cohen. Stewart, 1984, “Justification and Truth”, *Philosophical Studies*, 46(3): 279–295. doi: 10.1007/BF00372907
+* –––, 2002, “Basic Knowledge and the Problem of Easy Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 309–329. doi: 10.1111/j.1933-1592.2002.tb00204.x
+* Cullen, Simon, 2010, “Survey-Driven Romanticism”, *Review of Philosophy and Psychology*, 1(2): 275–296. doi: 10.1007/s13164-009-0016-1
 * Cummins, Robert, 1998, “Reflections on Reflective Equilibrium”, in DePaul and Ramsey 1998: 113–128.
 * DePaul, Michael Raymond and William M. Ramsey (eds.), 1998, *Rethinking Intuition: The Psychology of Intuition and Its Role in Philosophical Inquiry*, Lanham, MD: Rowman and Littlefield.
-* Deutsch, Max, 2009, “Experimental Philosophy and the Theory of Reference”, *Mind and Language*, 24: 445–466. doi:10.1111/j.1468-0017.2009.01370.x
-* –––, 2010, “Intuitions, Counterexamples, and Experimental Philosophy”, *Review of Philosophy and Psychology*, 1(3): 447–460. doi:10.1007/s13164-010-0033-0
+* Deutsch, Max, 2009, “Experimental Philosophy and the Theory of Reference”, *Mind and Language*, 24: 445–466. doi: 10.1111/j.1468-0017.2009.01370.x
+* –––, 2010, “Intuitions, Counterexamples, and Experimental Philosophy”, *Review of Philosophy and Psychology*, 1(3): 447–460. doi: 10.1007/s13164-010-0033-0
 * –––, 2015, *The Myth of the Intuitive*, Cambridge, MA: MIT Press.
-* Devitt, Michael, 2006, “Intuitions in Linguistics”, *British Journal for the Philosophy of Science,* 57(3): 481–513. doi:10.1093/bjps/axl017
-* –––, 2011, “Experimental Semantics”, *Philosophy and Phenomenological Research*, 82(2): 418–435. doi:10.1111/j.1933-1592.2010.00413.x
-* –––, 2015, “Relying on Intuitions: Where Cappelen and Deutsch Go Wrong”, *Inquiry*, 58(7–8): 669–699. doi:10.1080/0020174X.2015.1084824
-* Earlenbaugh, Joshua and Bernard Molyneux, 2009, “Intuitions are Inclinations to Believe”, *Philosophical Studies*, 145(1): 89–109. doi:10.1007/s11098-009-9388-4
+* Devitt, Michael, 2006, “Intuitions in Linguistics”, *British Journal for the Philosophy of Science,* 57(3): 481–513. doi: 10.1093/bjps/axl017
+* –––, 2011, “Experimental Semantics”, *Philosophy and Phenomenological Research*, 82(2): 418–435. doi: 10.1111/j.1933-1592.2010.00413.x
+* –––, 2015, “Relying on Intuitions: Where Cappelen and Deutsch Go Wrong”, *Inquiry*, 58(7–8): 669–699. doi: 10.1080/0020174X.2015.1084824
+* Earlenbaugh, Joshua and Bernard Molyneux, 2009, “Intuitions are Inclinations to Believe”, *Philosophical Studies*, 145(1): 89–109. doi: 10.1007/s11098-009-9388-4
 * Feldman, Richard, 2007, “Reasonable Religious Disagreements”, in *Philosophers without Gods: Meditations on Atheism and the Secular Life*, Louise M. Antony (ed.), Oxford: Oxford University Press, chapter 16.
 * Field, Hartry, 1989, *Realism, Mathematics and Modality*, New York: Blackwell.
 * Geddes, A., forthcoming, “Judgments About Thought Experiments”, *Mind*.
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.1093/analys/23.6.121
-* Goldman, Alvin I., 1989, “Metaphysics, Mind and Mental Science”, *Philosophical Topics*, 17(1): 131–145. doi:10.5840/philtopics198917115
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi: 10.1093/analys/23.6.121
+* Goldman, Alvin I., 1989, “Metaphysics, Mind and Mental Science”, *Philosophical Topics*, 17(1): 131–145. doi: 10.5840/philtopics198917115
 * –––, 1992, “Cognition and Modal Metaphysics”, in Alvin I. Goldman, *Liaisons: Philosophy Meets the Cognitive and Social Sciences*, Cambridge, MA: MIT Press.
 * –––, 1999, “A Priori Warrant and Naturalistic Epistemology”, in James E. Tomberlin (ed.), *Philosophical Perspectives*, 13: 1–28.
 * –––, 2007, “Philosophical Intuitions: Their Target, Their Source, and Their Epistemic Status”, *Grazer Philosophische Studien*, 74, 1–26.
 * Gopnik, Alison and Eric Schwitzgebel., 1998, “Whose Concepts are they, Anyway?: The Role of Philosophical Intuition in Empirical Psychology”, in DePaul and Ramsey 1998: 75–92.
-* Greene, Joshua, 2003, “From Neural ‘Is’ to Moral ‘Ought’: What Are the Implications of Neuroscientific Moral Psychology?”, *Nature Reviews Neuroscience*, 4: 847–850. doi:10.1038/nrn1224
+* Greene, Joshua, 2003, “From Neural ‘Is’ to Moral ‘Ought’: What Are the Implications of Neuroscientific Moral Psychology?”, *Nature Reviews Neuroscience*, 4: 847–850. doi: 10.1038/nrn1224
 * –––, 2007, “The Secret Joke of Kant’s Soul”, in *Moral Psychology, Vol. 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, W. Sinnott-Armstrong (ed.), Cambridge, MA: MIT Press.
-* Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, and Jonathan D. Cohen, 2001, “An fMRI Investigation of Emotional Engagement in Moral Judgment”, *Science*, 293(5537): 2105–2108. doi:10.1126/science.1062872
+* Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, and Jonathan D. Cohen, 2001, “An fMRI Investigation of Emotional Engagement in Moral Judgment”, *Science*, 293(5537): 2105–2108. doi: 10.1126/science.1062872
 * Grundmann, Thomas, 2007, “The Nature of Rational Intuitions and a Fresh Look at the Explanationist Objection”, *Grazer Philosophische Studien*, 74: 69–87.
-* Grundmann, Thomas and Joachim Horvath, 2014a, “Thought Experiments and the Problem of Deviant Realizations”, *Philosophical Studies*, 170(3): 525–533. doi:10.1007/s11098-013-0226-3
-* –––, 2014b, “Erratum to: Thought Experiments and the Problem of Deviant Realizations”, *Philosophical Studies*, 170(3): 535–536. doi:10.1007/s11098-014-0294-z
+* Grundmann, Thomas and Joachim Horvath, 2014a, “Thought Experiments and the Problem of Deviant Realizations”, *Philosophical Studies*, 170(3): 525–533. doi: 10.1007/s11098-013-0226-3
+* –––, 2014b, “Erratum to: Thought Experiments and the Problem of Deviant Realizations”, *Philosophical Studies*, 170(3): 535–536. doi: 10.1007/s11098-014-0294-z
 * Harman, Gilbert, 1977, *The Nature of Morality: An Introduction to Ethics*, New York: Oxford University Press.
 * Horowitz, Tamara, 1998, “Philosophical Intuitions and Psychological Theory”, in DePaul and Ramsey 1998: 143–160.
 * Horowitz, Tamara and Gerald Massey (eds.), 1991, *Thought Experiments in Science and Philosophy*, Savage, MD: Rowman and Littlefield.
-* Horvath, Joachim, 2015, “Thought Experiments and Experimental Philosophy”, in *The Palgrave Handbook of Philosophical Methods*, C. Daly (ed.), London: Palgrave Macmillan, pages 386–418. doi:10.1057/9781137344557_16
+* Horvath, Joachim, 2015, “Thought Experiments and Experimental Philosophy”, in *The Palgrave Handbook of Philosophical Methods*, C. Daly (ed.), London: Palgrave Macmillan, pages 386–418. doi: 10.1057/9781137344557_16
 * Huemer, Michael, 2001, *Skepticism and the Veil of Perception*, Lanham, MD: Rowman and Littlefield.
 * –––, 2005, *Moral Intuitionism*, New York: Palgrave Macmillan.
-* –––, 2007, “Compassionate Phenomenal Conservatism”, *Philosophy and Phenomenological Research*, 74(1): 30–55. doi:10.1111/j.1933-1592.2007.00002.x
-* Ichikawa, Jonathan Jenkins and Benjamin W. Jarvis., 2009, “Thought Experiment Intuitions and Truth in Fiction”, *Philosophical Studies*, 142(2): 221–246. doi:10.1007/s11098-007-9184-y
-* –––, 2013, *The Rules of Thought*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199661800.001.0001
-* Kagan, Shelly, 1989, *The Limits of Morality*, New York: Oxford University Press. doi:10.1093/0198239165.001.0001
-* Kamm, F.M., 1998, “Moral Intuitions, Cognitive Psychology, and the Harming-Versus-Not-Aiding Distinction”, *Ethics*, 108(3): 463–488. doi:10.1086/233822
-* Kauppinen, Antti, 2007, “The Rise and Fall of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 95–118. doi:10.1080/13869790701305871
+* –––, 2007, “Compassionate Phenomenal Conservatism”, *Philosophy and Phenomenological Research*, 74(1): 30–55. doi: 10.1111/j.1933-1592.2007.00002.x
+* Ichikawa, Jonathan Jenkins and Benjamin W. Jarvis., 2009, “Thought Experiment Intuitions and Truth in Fiction”, *Philosophical Studies*, 142(2): 221–246. doi: 10.1007/s11098-007-9184-y
+* –––, 2013, *The Rules of Thought*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199661800.001.0001
+* Kagan, Shelly, 1989, *The Limits of Morality*, New York: Oxford University Press. doi: 10.1093/0198239165.001.0001
+* Kamm, F.M., 1998, “Moral Intuitions, Cognitive Psychology, and the Harming-Versus-Not-Aiding Distinction”, *Ethics*, 108(3): 463–488. doi: 10.1086/233822
+* Kauppinen, Antti, 2007, “The Rise and Fall of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 95–118. doi: 10.1080/13869790701305871
 * Klein, Gary A., 1998, *Sources of Power*, Cambridge, MA: MIT Press.
 * Knobe, Joshua and Shaun Nichols, 2008, “An Experimental Philosophy Manifesto”, in Joshua Knobe and Shaun Nichols (eds), *Experimental Philosophy*, New York: Oxford University Press, pages 3–14.
 * Koksvik, Ole, 2011, *Intuition*, Ph.D. Thesis, Australian National University [[Koksvik 2011 available from the author](http://www.koksvik.net/)].
 * Kornblith, Hilary, 1998, “The Role of Intuition in Philosophical Inquiry: An Account with No Unnatural Ingredients”, in DePaul and Ramsey 1998: 129–142.
 * Lewis, David, 1978, “Truth in Fiction”, *American Philosophical Quarterly*, 15(1): 37–46.
-* –––, 1983, *Philosophical Papers: Volume I*, New York: Oxford University Press. doi:10.1093/0195032047.001.0001
-* Ludwig, Kirk, 2007, “The Epistemology of Thought Experiments: First Person versus Third Person Approaches”, *Midwest Studies in Philosophy*, 31: 128–159. doi:10.1111/j.1475-4975.2007.00160.x
-* Machery, Edouard, Ron Mallon, Shaun Nichols, and Stephen P. Stich, 2004, “Semantic, Cross-Cultural Style”, *Cognition*, 92(3): 1–12. doi:10.1016/j.cognition.2003.10.003
-* Mallon, Ron, Edouard Machery, Shaun Nichols, and Stephen Stich, 2009, “Against Arguments from Reference”, *Philosophy and Phenomenological Research*, 79(2): 332–356. doi:10.1111/j.1933-1592.2009.00281.x
-* Malmgren, Anna-Sara, 2011, “Rationalism and the Content of Intuitive Judgments”, *Mind*, 120(478): 263–327. doi:10.1093/mind/fzr039
-* Nadelhoffer, Thomas and Eddy Nahmias, 2007, “The Past and Future of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 123–149. doi:10.1080/13869790701305921
-* Nado, Jennifer, 2014, “Why Intuition?”, *Philosophy and Phenomenological Research*, 89(1): 15–41. doi:10.1111/j.1933-1592.2012.00644.x
-* Nahmias, Eddy, D. Justin Coates, and Trevor Kvaran, 2007, “Free Will, Moral Responsibility and Mechanism: Experiments on Folk Intuitions”, *Midwest Studies in Philosophy*, 31: 214–232. doi:10.1111/j.1475-4975.2007.00158.x
-* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
-* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuition”, *Nôus*, 41(4): 663–685. doi:10.1111/j.1468-0068.2007.00666.x
-* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Nôus*, 34(4): 517–549. doi:10.1111/0029-4624.00277
+* –––, 1983, *Philosophical Papers: Volume I*, New York: Oxford University Press. doi: 10.1093/0195032047.001.0001
+* Ludwig, Kirk, 2007, “The Epistemology of Thought Experiments: First Person versus Third Person Approaches”, *Midwest Studies in Philosophy*, 31: 128–159. doi: 10.1111/j.1475-4975.2007.00160.x
+* Machery, Edouard, Ron Mallon, Shaun Nichols, and Stephen P. Stich, 2004, “Semantic, Cross-Cultural Style”, *Cognition*, 92(3): 1–12. doi: 10.1016/j.cognition.2003.10.003
+* Mallon, Ron, Edouard Machery, Shaun Nichols, and Stephen Stich, 2009, “Against Arguments from Reference”, *Philosophy and Phenomenological Research*, 79(2): 332–356. doi: 10.1111/j.1933-1592.2009.00281.x
+* Malmgren, Anna-Sara, 2011, “Rationalism and the Content of Intuitive Judgments”, *Mind*, 120(478): 263–327. doi: 10.1093/mind/fzr039
+* Nadelhoffer, Thomas and Eddy Nahmias, 2007, “The Past and Future of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 123–149. doi: 10.1080/13869790701305921
+* Nado, Jennifer, 2014, “Why Intuition?”, *Philosophy and Phenomenological Research*, 89(1): 15–41. doi: 10.1111/j.1933-1592.2012.00644.x
+* Nahmias, Eddy, D. Justin Coates, and Trevor Kvaran, 2007, “Free Will, Moral Responsibility and Mechanism: Experiments on Folk Intuitions”, *Midwest Studies in Philosophy*, 31: 214–232. doi: 10.1111/j.1475-4975.2007.00158.x
+* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi: 10.1111/j.1933-1592.2006.tb00603.x
+* Nichols, Shaun and Joshua Knobe, 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuition”, *Nôus*, 41(4): 663–685. doi: 10.1111/j.1468-0068.2007.00666.x
+* Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Nôus*, 34(4): 517–549. doi: 10.1111/0029-4624.00277
 * Pust, Joel, 2000, *Intuitions as Evidence*, New York: Garland/Routledge.
-* –––, 2001, “Against Explanationist Skepticism Regarding Philosophical Intuitions”, *Philosophical Studies*, 106(3): 227–258. doi:10.1023/A:1013356707899
-* –––, 2004, “On Explaining Knowledge of Necessity”, *Dialectica*, 58(1): 71–87. doi:10.1111/j.1746-8361.2004.tb00292.x
+* –––, 2001, “Against Explanationist Skepticism Regarding Philosophical Intuitions”, *Philosophical Studies*, 106(3): 227–258. doi: 10.1023/A: 1013356707899
+* –––, 2004, “On Explaining Knowledge of Necessity”, *Dialectica*, 58(1): 71–87. doi: 10.1111/j.1746-8361.2004.tb00292.x
 * Putnam, Hilary, 1967, “Psychological Predicates”, in *Art, Mind and Religion*, W.H. Capitan and D.D. Merrill (eds.), Pittsburgh: University of Pittsburgh Press, pages 37–48.
 * Russell, Bertrand, 1912, *The Problems of Philosophy*, Oxford: Oxford University Press. [[Russell 1912 available online](http://www.gutenberg.org/ebooks/5827)]
-* Schechter, Joshua, 2010, “The Reliability Challenge and the Epistemology of Logic”, *Philosophical Perspectives*, 24(1): 437–464. doi:10.1111/j.1520-8583.2010.00199.x
-* Scholl, Brian J., 2007, “Object Persistence in Philosophy and Psychology”, *Mind and Language*, 22(5): 563–591. doi:10.1111/j.1468-0017.2007.00321.x
-* Seyedsayamdost, Hamid, 2014, “On Gender and Philosophical Intuition: Failure of Replication and Other Negative Results”, *Philosophical Psychology*, 28(5): 642–673. doi:10.1080/09515089.2014.893288
-* –––, 2015, “On Normativity and Epistemic Intuitions: Failure of Replication”, *Episteme*, 12(1): 95–116. doi:10.1017/epi.2014.27
-* Siegel, Susanna, 2010, *The Contents of Visual Experience*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195305296.001.0001
-* Silva, Paul Jr., 2013, “Epistemically Self-Defeating Arguments and Skepticism about Intuition”, *Philosophical Studies*, 164(3): 579–589. doi:10.1007/s11098-012-9870-2
+* Schechter, Joshua, 2010, “The Reliability Challenge and the Epistemology of Logic”, *Philosophical Perspectives*, 24(1): 437–464. doi: 10.1111/j.1520-8583.2010.00199.x
+* Scholl, Brian J., 2007, “Object Persistence in Philosophy and Psychology”, *Mind and Language*, 22(5): 563–591. doi: 10.1111/j.1468-0017.2007.00321.x
+* Seyedsayamdost, Hamid, 2014, “On Gender and Philosophical Intuition: Failure of Replication and Other Negative Results”, *Philosophical Psychology*, 28(5): 642–673. doi: 10.1080/09515089.2014.893288
+* –––, 2015, “On Normativity and Epistemic Intuitions: Failure of Replication”, *Episteme*, 12(1): 95–116. doi: 10.1017/epi.2014.27
+* Siegel, Susanna, 2010, *The Contents of Visual Experience*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195305296.001.0001
+* Silva, Paul Jr., 2013, “Epistemically Self-Defeating Arguments and Skepticism about Intuition”, *Philosophical Studies*, 164(3): 579–589. doi: 10.1007/s11098-012-9870-2
 * Smart, J.J.C., 1965, “The Methods of Ethics and the Methods of Science”, *Journal of Philosophy*, 62(13): 344–349.
-* Sorensen, Roy A., 1992, *Thought Experiments*, New York: Oxford University Press. doi:10.1093/019512913X.001.0001
+* Sorensen, Roy A., 1992, *Thought Experiments*, New York: Oxford University Press. doi: 10.1093/019512913X.001.0001
 * Sosa, Ernest, 1998, “Minimal Intuition”, in DePaul and Ramsey 1998: 257–270.
-* –––, 2007, “Experimental Philosophy and Philosophical Intuition”, *Philosophical Studies*, 132: 99–107(1). doi:10.1007/s11098-006-9050-3
+* –––, 2007, “Experimental Philosophy and Philosophical Intuition”, *Philosophical Studies*, 132: 99–107(1). doi: 10.1007/s11098-006-9050-3
 * Stich, Stephen, 1988, “Reflective Equilibrium, Analytic Epistemology and the Problem of Cognitive Diversity”, *Synthese*, 74(3): 391–413.
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127(1): 109–166. doi:10.1007/s11098-005-1726-6
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127(1): 109–166. doi: 10.1007/s11098-005-1726-6
 * Sturgeon, Nicholas L., 1984, “Moral Explanations”, in *Morality, Reason and Truth: New Essays on the Foundations of Ethics*, David Copp and David Zimmerman (eds.), MD: Rowman and Littlefield.
-* Sunstein, Cass R., 2005, “Moral Heuristics”, *Behavioral and Brain Sciences*, 28(4): 531–542. doi:10.1017/S0140525X05000099
-* Swain, Stacey, Joshua Alexander, and Jonathan M. Weinberg, 2008, “The Instability of Philosophical Intuitions: Running Hot and Cold on Truetemp”, *Philosophy and Phenomenological Research*, 76(1): 138–155. doi:10.1111/j.1933-1592.2007.00118.x
-* Sytsma, Justin and Jonathan Livengood, 2011, “A New Perspective Concerning Experiments on Semantic Intuitions”, *Australasian Journal of Philosophy*, 89(2): 315–332. doi:10.1080/00048401003639832
-* Thomson, Judith Jarvis, 1976, “Killing, Letting Die, and the Trolley Problem”, *The Monist*, 59(2): 204–217. doi:10.5840/monist197659224
-* Unger, Peter, 1996, *Living High and Letting Die: Our Illusion of Innocence*, New York: Oxford University Press. doi:10.1093/0195108590.001.0001
+* Sunstein, Cass R., 2005, “Moral Heuristics”, *Behavioral and Brain Sciences*, 28(4): 531–542. doi: 10.1017/S0140525X05000099
+* Swain, Stacey, Joshua Alexander, and Jonathan M. Weinberg, 2008, “The Instability of Philosophical Intuitions: Running Hot and Cold on Truetemp”, *Philosophy and Phenomenological Research*, 76(1): 138–155. doi: 10.1111/j.1933-1592.2007.00118.x
+* Sytsma, Justin and Jonathan Livengood, 2011, “A New Perspective Concerning Experiments on Semantic Intuitions”, *Australasian Journal of Philosophy*, 89(2): 315–332. doi: 10.1080/00048401003639832
+* Thomson, Judith Jarvis, 1976, “Killing, Letting Die, and the Trolley Problem”, *The Monist*, 59(2): 204–217. doi: 10.5840/monist197659224
+* Unger, Peter, 1996, *Living High and Letting Die: Our Illusion of Innocence*, New York: Oxford University Press. doi: 10.1093/0195108590.001.0001
 * van Inwagen, Peter, 1997, “Materialism and the Psychological-Continuity Account of Personal Identity”, *Philosophical Perspectives*, 11: 305–319.
-* van Roojen, Mark, 1999, “Reflective Moral Equilibrium and Psychological Theory”, *Ethics*, 109(4): 846–857. doi:10.1086/233950
-* Vogel, Jonathan, 2008, “Epistemic Bootstrapping”, *Journal of Philosophy*, 105(9): 518–539. doi:10.5840/jphil2008105931
-* Weinberg, Jonathan M., Shaun Nichols and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1–2): 429–460. doi:10.5840/philtopics2001291/217
+* van Roojen, Mark, 1999, “Reflective Moral Equilibrium and Psychological Theory”, *Ethics*, 109(4): 846–857. doi: 10.1086/233950
+* Vogel, Jonathan, 2008, “Epistemic Bootstrapping”, *Journal of Philosophy*, 105(9): 518–539. doi: 10.5840/jphil2008105931
+* Weinberg, Jonathan M., Shaun Nichols and Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1–2): 429–460. doi: 10.5840/philtopics2001291/217
 * Williamson, Timothy, 2007, *The Philosophy of Philosophy*, New York: Routledge.
-* –––, 2009, “Replies to Ichikawa, Martin and Weinberg”, *Philosophical Studies*, 145(3): 465–476. doi:10.1007/s11098-009-9406-6
+* –––, 2009, “Replies to Ichikawa, Martin and Weinberg”, *Philosophical Studies*, 145(3): 465–476. doi: 10.1007/s11098-009-9406-6
 
 ## Academic Tools
 

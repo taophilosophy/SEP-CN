@@ -22,17 +22,17 @@
 
 This is a stronger claim than many would make (see Margolis 1960; Sibley 1965; Schellekens 2006; and Robson 2018) but theses in aesthetics do sometimes depend on claims, including scientifically tractable claims, about the nature of perception. A notable example is the debate about whether perception is cognitively penetrable; if it is, the way a picture looks or a piece of music sounds may depend on what the observer knows about contextual factors (for the rejection of cognitive penetrability see Danto 2001; for criticism see Rose & Nanay 2022).
 
-关于经验工作与审美学的相关性的哲学疑虑有各种不同的类型。一些作者仅仅是暗示哲学家往往会根据薄弱的实验证据作出草率的概括，对细节和限制给予不足的关注，并未承认存在着相互冲突的专家意见（Konečni 2013; Stock 2014）。哲学家，其中包括美学家，当然有时会高估自己的专业知识，而在涉及实证问题时可能更容易如此。这些都并不意味着他们对实证研究的热情在原则上存在问题。其他怀疑者强调他们所看到的更系统性的危险。罗杰·斯克鲁顿（Roger Scruton）（2014）认为，人们倾向于试图将审美现象纳入现有的科学框架中，结果发现这些框架并不适用；他引用了试图使用乔姆斯基语言学来建立音乐生成理论的尝试，他声称这种尝试既无法适应音乐的结构也无法适应音乐的目的。戈登·格雷厄姆（Gordon Graham）（2014）将休谟的审美理论与里德的审美理论进行对比，认为“审美科学”的项目必须忽视或否认理性和判断的作用。同样，一个人可以对这两种危险都有警觉，同时保持对实证工作的开放态度。特别是，格雷厄姆的挑战可以通过指出审美判断中实际起作用的理由的研究指向人们认为是他们的理由与决定他们偏好的因素之间有时存在明显的脱节（Lopes 2014 和 Irvin 2014；另见下文第 3 节）来回应；这对于研究审美判断的合理性显然是相关的。此外，美学家们认为是广义上的概念分析的工作往往假设了实际上是实证问题的答案。诺埃尔·卡罗尔（Noel Carroll）表示
+关于经验工作与审美学的相关性的哲学疑虑有各种不同的类型。一些作者仅仅是暗示哲学家往往会根据薄弱的实验证据作出草率的概括，对细节和限制给予不足的关注，并未承认存在着相互冲突的专家意见（Konečni 2013; Stock 2014）。哲学家，其中包括美学家，当然有时会高估自己的专业知识，而在涉及实证问题时可能更容易如此。这些都并不意味着他们对实证研究的热情在原则上存在问题。其他怀疑者强调他们所看到的更系统性的危险。罗杰 · 斯克鲁顿（Roger Scruton）（2014）认为，人们倾向于试图将审美现象纳入现有的科学框架中，结果发现这些框架并不适用；他引用了试图使用乔姆斯基语言学来建立音乐生成理论的尝试，他声称这种尝试既无法适应音乐的结构也无法适应音乐的目的。戈登 · 格雷厄姆（Gordon Graham）（2014）将休谟的审美理论与里德的审美理论进行对比，认为“审美科学”的项目必须忽视或否认理性和判断的作用。同样，一个人可以对这两种危险都有警觉，同时保持对实证工作的开放态度。特别是，格雷厄姆的挑战可以通过指出审美判断中实际起作用的理由的研究指向人们认为是他们的理由与决定他们偏好的因素之间有时存在明显的脱节（Lopes 2014 和 Irvin 2014；另见下文第 3 节）来回应；这对于研究审美判断的合理性显然是相关的。此外，美学家们认为是广义上的概念分析的工作往往假设了实际上是实证问题的答案。诺埃尔 · 卡罗尔（Noel Carroll）表示
 
 > 审美属性是客观的假设也更好地解释了我们如何谈论它们，而不是投射理论。...参与审美属性争议的人们...说得好像争议的一方是对的，另一方是错的。（卡罗尔 1999 年：117）
 
 在“实验哲学”这个新领域的研究（关于这个领域的一些概述，如应用于审美学的 Cova＆Réhault 2018 和 Torregrossa 2020），挑战了这种观点。一项研究（Cova，Olivola 等人 2019 年）在 19 个国家收集了两千多个关于审美兴趣对象是否美丽的想象争议的回答。发现在所有人群中，最不受欢迎的观点是“有人是对的，有人是错的”。这项研究本身受到了批评（Zangwill 2018），但无论其成功与否，它都突显了一个普遍观点，即我们不应该在没有证据的情况下假设哲学家对民间概念（或民间实践）的理解与民间自己的理解相匹配：这对于那些将美学家的工作主要涉及阐明民间概念的人，如迪基，应该是令人担忧的。
 
-上述讨论的问题以及卡罗尔和 Cova 团队成员给出的不同答案是一个高阶问题，涉及人们是否认为审美判断具有规范力。我们可以对较低级别的判断提出类似的问题。考虑到我们不应该根据证词形成审美判断的主张，这种主张被认为得到了我们所谓的不形成这种判断的实践的支持（康德 1790 年[2000：9]；阮 2020 年：1127）。与此相反，罗布森（2014 年）认为，关于我们判断形成实践的这种描述性主张是错误的-如果真是如此，这将削弱规范主张的一个重要动机。
+上述讨论的问题以及卡罗尔和 Cova 团队成员给出的不同答案是一个高阶问题，涉及人们是否认为审美判断具有规范力。我们可以对较低级别的判断提出类似的问题。考虑到我们不应该根据证词形成审美判断的主张，这种主张被认为得到了我们所谓的不形成这种判断的实践的支持（康德 1790 年 [2000：9]；阮 2020 年：1127）。与此相反，罗布森（2014 年）认为，关于我们判断形成实践的这种描述性主张是错误的-如果真是如此，这将削弱规范主张的一个重要动机。
 
 从完全不同的角度来看，有人认为哲学家在回答重要的审美问题上起到的作用非常有限，我们应该寻求用更科学的方法来取代传统的哲学方法，而不仅仅是补充。
 
-> 塞米尔·泽基（Semir Zeki）以此为例，他说，没有一种不基于大脑活动的美学理论可能是完整的，更不用说是深刻的，
+> 塞米尔 · 泽基（Semir Zeki）以此为例，他说，没有一种不基于大脑活动的美学理论可能是完整的，更不用说是深刻的，
 
 他还说绘画是对大脑规律的探究，我们所喜欢的就是我们的大脑所喜欢的（1999 年：1-2）。虽然这种态度可能并不构成对哲学美学的完全否定，但它们对其结果几乎没有意识，也不理解神经学研究的局限性。关于大脑过程的事实并不能告诉我们——至少没有一些实质性和有争议的桥接前提——什么是艺术作品，或者什么作品具有价值（参见海曼 2010 年对这种方法的广泛批评）。经验研究与规范美学之间的关系将在本条目中反复出现。
 
@@ -60,7 +60,7 @@ This is a stronger claim than many would make (see Margolis 1960; Sibley 1965; S
 
 通过借鉴镜像神经元和其他神经过程来阐明审美现象现在已经非常普遍，以至于我们有了大量的神经美学著作（有关该领域 30 年来的发展，请参见查特吉 2013 年）。然而，仍然有争议的是，这种对脑结构和过程的研究对审美学的意义（如果有的话）是什么。我们已经看到，尽管神经美学家有时会做出大胆的声明，但一些批评家倾向于将这种工作视为与审美学家关注的那种主张无关。加莱斯和弗里德伯格在回应批评时说：
 
-> 没有[...]模拟体验和共情参与的镜像机制，视觉观察之后就不可能进行审美判断。（2007 年：411）
+> 没有 [...] 模拟体验和共情参与的镜像机制，视觉观察之后就不可能进行审美判断。（2007 年：411）
 
 但是要理解关于这些机制的事实的审美意义，我们需要区分两个主张：
 
@@ -73,7 +73,7 @@ This is a stronger claim than many would make (see Margolis 1960; Sibley 1965; S
 
 ## 5. 真实性
 
-长期以来，受康德启发的观点认为审美不关注事物的本质，而是关注它们的表象（例如，Urmson 1957），这种观点有时被称为审美经验主义（Currie 1989）。从这个观点来看，审美不考虑真实性，真实性取决于历史而不是外观；一幅假的维米尔画作即使在视觉上与真品无法区分，也不会变得真实。一个物体的历史真的与审美无关吗？对艺术、工艺和物品设计感兴趣的人们通常非常关注物体的历史，并且有论据支持这样的观点：至少某些审美属性的应用取决于对历史的假设。考虑西布利（Sibley）（1959）广泛列举的两个这样的属性：精致和动态。当一条线被认为是手绘时，它可能被视为精致，但当它被揭示为机器制作时，它可能不再如此；沃尔顿（Walton）（1970）认为，两件在视觉上无法区分的作品中，一件可以被描述为动态的，而另一件则不是，这取决于它们所属类别的差异（有关视觉艺术的审美经验主义的辩护，请参见 Zanwill；有关音乐的，请参见 Dodd；有关真实性或真实性的审美相关性，请参见 Korsmeyer 2019）。至少第一个例子（精致）的建议是，一件事物的审美属性以及拥有这些属性所带来的审美价值，取决于作品制作所代表的成就类型。 对于一个人在某个时间所取得的成就，对于另一个人来说可能是更大、更小或至少是不同的成就，因为他们使用不同的材料或处于不同的艺术文化中（达顿 1979 年；柯里 1989 年；哈德尔斯顿 2012 年；莱文森 2016 年）；詹姆斯·格兰特（2020 年）建议我们更好地从作品展示创作者技能的角度来思考，而不是从作品构成创作者成就的角度来思考（参见柯里 2018 年）。
+长期以来，受康德启发的观点认为审美不关注事物的本质，而是关注它们的表象（例如，Urmson 1957），这种观点有时被称为审美经验主义（Currie 1989）。从这个观点来看，审美不考虑真实性，真实性取决于历史而不是外观；一幅假的维米尔画作即使在视觉上与真品无法区分，也不会变得真实。一个物体的历史真的与审美无关吗？对艺术、工艺和物品设计感兴趣的人们通常非常关注物体的历史，并且有论据支持这样的观点：至少某些审美属性的应用取决于对历史的假设。考虑西布利（Sibley）（1959）广泛列举的两个这样的属性：精致和动态。当一条线被认为是手绘时，它可能被视为精致，但当它被揭示为机器制作时，它可能不再如此；沃尔顿（Walton）（1970）认为，两件在视觉上无法区分的作品中，一件可以被描述为动态的，而另一件则不是，这取决于它们所属类别的差异（有关视觉艺术的审美经验主义的辩护，请参见 Zanwill；有关音乐的，请参见 Dodd；有关真实性或真实性的审美相关性，请参见 Korsmeyer 2019）。至少第一个例子（精致）的建议是，一件事物的审美属性以及拥有这些属性所带来的审美价值，取决于作品制作所代表的成就类型。 对于一个人在某个时间所取得的成就，对于另一个人来说可能是更大、更小或至少是不同的成就，因为他们使用不同的材料或处于不同的艺术文化中（达顿 1979 年；柯里 1989 年；哈德尔斯顿 2012 年；莱文森 2016 年）；詹姆斯 · 格兰特（2020 年）建议我们更好地从作品展示创作者技能的角度来思考，而不是从作品构成创作者成就的角度来思考（参见柯里 2018 年）。
 
 这两种表述都暗示了评价作品与评价创作者之间的密切联系，从而有助于解释为什么对作品的真实性感兴趣可以属于审美理由的范畴。它还暗示了我们希望保存和拥有其他平凡物品的愿望，因为它们与我们感兴趣的某个人或事件有关（肯尼迪的毛衣）。一些心理学家认为将艺术作品和其他有价值的物品归为“传染”的范畴，即通过身体接触，一个人的非物质品质或“本质”可以转移到物体上（纽曼、迪森德鲁克和布鲁姆 2011 年）。
 
@@ -97,7 +97,7 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 
 ## 7. 情感
 
-很多审美思考都在讨论其吸引情感的能力的限制。有两个问题特别值得注意，一个是描述性的，另一个在一定程度上是规范性的。首先，关于我们（显然）对虚构作品的情感反应的事实是什么？我们真的钦佩、鄙视或同情我们知道并不存在的人吗？这听起来像是一个经验性问题，也许可以通过对受虚构作品吸引的人的大脑进行研究来解决。但是这种方法的前景不佳，不仅因为数据收集方面的实际困难（参见 Cova＆Teroni 2016），还因为否认我们同情安娜·卡列尼娜的人并不否认读者可能表现出与该情感相伴的所有生理迹象。他们声称，真正的恐惧在这种情况下缺乏认知成分：对恐惧对象的信念。假设我们能够实证地证明托尔斯泰的读者在不相信安娜·卡列尼娜的存在的情况下确实经历了与同情相关的所有生理状态，而是具有“想象安娜存在”的认知状态。哲学问题仍然存在：具有这种心理特征的人是否真正处于同情的状态，还是他们的状态仅仅是沃尔顿（1978）所称的“准同情”，它涉及到同情的典型生理和心理反应，但由于不伴随对其对象的信念或典型的相应行动倾向而不完全是完全成熟的同情？此时，我们可能会想知道看似关于恐惧和同情的实质性问题是否只是关于标签的问题。然而，有一些间接涉及该问题的经验考虑。Gendler 和 Kovackovick 认为，关于情感的进化适当功能的合理假设反对了恐惧需要信念的观点。 很可能基于达尔文的观点，我们的情绪不仅仅是通过避免当前危险的能力来塑造的，还通过避免可能的危险来塑造的。想象在森林中潜伏着危险的生物可能足以让我选择更安全的路线，提高我生存和传递基因的机会。如果想象中的危险是恐惧被选择和保留的原因之一，为什么要坚持认为对虚构中的想象生物和事件的反应只是像沃尔顿（1978 年）所声称的准恐惧呢？有关美学和进化思维之间的其他联系，请参见下面的第 9 节。
+很多审美思考都在讨论其吸引情感的能力的限制。有两个问题特别值得注意，一个是描述性的，另一个在一定程度上是规范性的。首先，关于我们（显然）对虚构作品的情感反应的事实是什么？我们真的钦佩、鄙视或同情我们知道并不存在的人吗？这听起来像是一个经验性问题，也许可以通过对受虚构作品吸引的人的大脑进行研究来解决。但是这种方法的前景不佳，不仅因为数据收集方面的实际困难（参见 Cova＆Teroni 2016），还因为否认我们同情安娜 · 卡列尼娜的人并不否认读者可能表现出与该情感相伴的所有生理迹象。他们声称，真正的恐惧在这种情况下缺乏认知成分：对恐惧对象的信念。假设我们能够实证地证明托尔斯泰的读者在不相信安娜 · 卡列尼娜的存在的情况下确实经历了与同情相关的所有生理状态，而是具有“想象安娜存在”的认知状态。哲学问题仍然存在：具有这种心理特征的人是否真正处于同情的状态，还是他们的状态仅仅是沃尔顿（1978）所称的“准同情”，它涉及到同情的典型生理和心理反应，但由于不伴随对其对象的信念或典型的相应行动倾向而不完全是完全成熟的同情？此时，我们可能会想知道看似关于恐惧和同情的实质性问题是否只是关于标签的问题。然而，有一些间接涉及该问题的经验考虑。Gendler 和 Kovackovick 认为，关于情感的进化适当功能的合理假设反对了恐惧需要信念的观点。 很可能基于达尔文的观点，我们的情绪不仅仅是通过避免当前危险的能力来塑造的，还通过避免可能的危险来塑造的。想象在森林中潜伏着危险的生物可能足以让我选择更安全的路线，提高我生存和传递基因的机会。如果想象中的危险是恐惧被选择和保留的原因之一，为什么要坚持认为对虚构中的想象生物和事件的反应只是像沃尔顿（1978 年）所声称的准恐惧呢？有关美学和进化思维之间的其他联系，请参见下面的第 9 节。
 
 当我们考虑对音乐的反应时，会出现类似的问题。我们有时会说悲伤的音乐让我们感到悲伤，尽管音乐并没有给我们提供任何理由认为发生了什么悲伤的事情（悲伤的音乐有时会让我们想起一些悲伤的事件，但这并不是悲伤的音乐影响我们的一般特征）。在这里，对想象力的诉求似乎不太有帮助；与虚构叙述不同，情感影响的音乐通常不会为我们提供想象某种悲伤事件的材料。Kivy 认为，对悲伤音乐产生悲伤情绪的听众，这种情绪与音乐欣赏无关，并且在符合他所偏好的音乐听取模式的听音情节中不会发生（这种模式要求对音乐的结构、现象学和表现性质进行独占性关注）（1990 年：第 8 章）。然而，Kivy 并不否认音乐听取可以并且应该是一种深刻的情感体验；我们可能会被作品所代表的构成和表演特质所淹没。一些人试图通过提供音乐确实能够引发其所表达的情绪或心情的证据来对 Kivy 提出实证上的质疑（Sizer 2007）。但是，Kivy 仅否认了这种可能性适用于经典音乐听取的情况，并表示没有理由认为相关实验中的受试者是以经典方式进行听取的（2007 年）。当然，要控制实验条件以排除 Kivy 所说的非经典听取方式并不容易（另请参见 Kivy 2006 年；Carroll 2003 年；Carroll＆Moore 2007 年）。然而，如果实验测试始终提供与音乐所表达的情绪一致的情绪生成证据，仅仅说我们尚未测试到正确的听众是不够的。 Kivy 的朋友将不得不找到他认可的那种强大的听力实例，而不仅仅依赖于那些支持他理论的个人证词。毕竟，我们认为 Kivy 的理想听力方式被呈现为一个实际可实现的目标。Zangwill 2004 代表了一种不愿容纳情感的形式主义；对于形式主义立场的更有限的辩护，请参见 Cochrane 2021b。
 
@@ -111,15 +111,15 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 
 虽然补偿可能吸引一种熟悉的权衡方式，但它需要告诉我们从艺术引发的负面情绪中可以获得什么具体的补偿性好处。哲学家们长期以来一直提到认识论的好处：悲剧中令人痛苦的事件是道德和心理学习的源泉，有时是关于我们自己的（柯林伍德 1938 年；希尔 1983 年）。实证科学家们也增加了这个列表：痛苦的情绪产生强烈的亲社会情感，有助于我们与角色和作者建立联系（巴斯蒂安、佩和库彭斯 2017 年；埃格洛夫 2017 年）。
 
-虽然哲学家们长期以来一直提出理论来解决这个“悲剧悖论”，但只有一项实证研究声称自己是以实证研究为基础的。Menninghaus 和他的同事们提出了他们所称的“疏离-拥抱模型”（Menninghaus, Wagner, Hanich 等人，2017 年），根据这个模型，审美背景（比如观看戏剧或电影）使我们与所描绘的情境产生距离，从而使悲剧情绪的积极效果，尤其是它们集中注意力的能力得以维持。虽然有大量相关的实证研究支持这个观点，但其理论承诺并不清楚。在他们的一些表述中，疏离的功能似乎是减少负面情绪的不愉快程度，以至于它们“不一定与艺术特定的享乐奖励期望不相容”（2017 年：6）；这使他们容易受到对赔偿理论的指责，即作品能够产生负面情绪似乎是吸引人们去欣赏作品的主要因素，而不是我们可以被说服去接受的负面因素。在其他表述中，他们谈到了“使负面情绪变得愉悦的因素”（2017 年：3），这暗示了转化理论。然而，他们声称他们的理论既不是这两种方法的版本（2017 年：15；参见 S. Davies 1997）。（有关小说与情感之间关系的更多信息，请参阅 Liao＆Gendler 2018 [2020]的补充说明）。有关小说和情感的进一步评论，请参见下面的第 7 节。
+虽然哲学家们长期以来一直提出理论来解决这个“悲剧悖论”，但只有一项实证研究声称自己是以实证研究为基础的。Menninghaus 和他的同事们提出了他们所称的“疏离-拥抱模型”（Menninghaus, Wagner, Hanich 等人，2017 年），根据这个模型，审美背景（比如观看戏剧或电影）使我们与所描绘的情境产生距离，从而使悲剧情绪的积极效果，尤其是它们集中注意力的能力得以维持。虽然有大量相关的实证研究支持这个观点，但其理论承诺并不清楚。在他们的一些表述中，疏离的功能似乎是减少负面情绪的不愉快程度，以至于它们“不一定与艺术特定的享乐奖励期望不相容”（2017 年：6）；这使他们容易受到对赔偿理论的指责，即作品能够产生负面情绪似乎是吸引人们去欣赏作品的主要因素，而不是我们可以被说服去接受的负面因素。在其他表述中，他们谈到了“使负面情绪变得愉悦的因素”（2017 年：3），这暗示了转化理论。然而，他们声称他们的理论既不是这两种方法的版本（2017 年：15；参见 S. Davies 1997）。（有关小说与情感之间关系的更多信息，请参阅 Liao＆Gendler 2018 [2020] 的补充说明）。有关小说和情感的进一步评论，请参见下面的第 7 节。
 
-结束对小说的讨论时，我们注意到另一个直接对经验层面的工作的呼吁。德里克·马特拉弗斯（2014）认为，最近关于小说的理论化存在一个错误，即对想象力的诉求。马特拉弗斯声称，关于心理模型的研究很好地解释了我们对虚构和非虚构叙述的处理、理解和反应，而无需通过与想象力的联系来区分虚构案例。
+结束对小说的讨论时，我们注意到另一个直接对经验层面的工作的呼吁。德里克 · 马特拉弗斯（2014）认为，最近关于小说的理论化存在一个错误，即对想象力的诉求。马特拉弗斯声称，关于心理模型的研究很好地解释了我们对虚构和非虚构叙述的处理、理解和反应，而无需通过与想象力的联系来区分虚构案例。
 
 ## 8. 文学与文学语言的美学
 
-在二十世纪后半叶，文学的理论和解释研究对认知和审美的探究有些敌对，常被认为与严肃的解释性工作无关，是对偏爱的政治议程的一种干扰。文学的认知研究在过去二十年中有所发展，但仍然是少数派的事业（哈特纳 2017）。一个长期存在的问题是，心理学、文学研究和美学学者关注的一个问题是，我们是否从文学中了解到了超越文本的世界，这个想法在受到解构主义或后现代理论影响的人中受到了一些怀疑，他们认为这样的抱负依赖于未能意识到虚构人物不是真实人物，也不像真实人物（西苏斯 1974）。其他人认为，即使这样的认知益处存在，也与审美无关（拉马克和奥尔森 1994：第 17 章；有关批评请参见高特 2007：第 7 章；柯里 2020：§9.6）。然而，有一种强烈的倾向认为，例如莎士比亚戏剧的艺术价值在一定程度上取决于我们对其揭示人类状况深刻洞察力的感知。其他艺术也有类似的说法；在思考梵高的石版画《悲伤》时，肯德尔·沃尔顿指出以一种“获得我对特定悲伤感受的理解”的方式对这个女人产生了想象力的回应（2008：78）。
+在二十世纪后半叶，文学的理论和解释研究对认知和审美的探究有些敌对，常被认为与严肃的解释性工作无关，是对偏爱的政治议程的一种干扰。文学的认知研究在过去二十年中有所发展，但仍然是少数派的事业（哈特纳 2017）。一个长期存在的问题是，心理学、文学研究和美学学者关注的一个问题是，我们是否从文学中了解到了超越文本的世界，这个想法在受到解构主义或后现代理论影响的人中受到了一些怀疑，他们认为这样的抱负依赖于未能意识到虚构人物不是真实人物，也不像真实人物（西苏斯 1974）。其他人认为，即使这样的认知益处存在，也与审美无关（拉马克和奥尔森 1994：第 17 章；有关批评请参见高特 2007：第 7 章；柯里 2020：§9.6）。然而，有一种强烈的倾向认为，例如莎士比亚戏剧的艺术价值在一定程度上取决于我们对其揭示人类状况深刻洞察力的感知。其他艺术也有类似的说法；在思考梵高的石版画《悲伤》时，肯德尔 · 沃尔顿指出以一种“获得我对特定悲伤感受的理解”的方式对这个女人产生了想象力的回应（2008：78）。
 
-最近有人努力测试文学偶尔会提供认知益处的观点。有人声称接触小说——即使只是阅读一次——可以显著提高共情和心理理论能力（Kidd＆Castano 2013）；如果这些效果是真实的，似乎是微小的，并且很难复制这些声称的结果（Panero 等人 2016; Kidd＆Castano 2019）。这个不断发展的领域中的其他研究也没有指向一个单一的方向。一些研究表明，小说有能力改善社会认知的某些方面（Calarco 等人 2017; Mar 2018a，b），而其他研究则没有发现这种效果（例如，Wimmer 等人 2021a，b;参见 Currie 2020;第 9-11 章进行一般讨论）。声称小说具有教育效果的人文学者可能会回应说，这些效果是缓慢而累积的，并且在单次阅读的研究中不太可能看到；测试这些主张将是困难的。但是他们的主张仍然是经验性的。
+最近有人努力测试文学偶尔会提供认知益处的观点。有人声称接触小说——即使只是阅读一次——可以显著提高共情和心理理论能力（Kidd＆Castano 2013）；如果这些效果是真实的，似乎是微小的，并且很难复制这些声称的结果（Panero 等人 2016; Kidd＆Castano 2019）。这个不断发展的领域中的其他研究也没有指向一个单一的方向。一些研究表明，小说有能力改善社会认知的某些方面（Calarco 等人 2017; Mar 2018a，b），而其他研究则没有发现这种效果（例如，Wimmer 等人 2021a，b; 参见 Currie 2020; 第 9-11 章进行一般讨论）。声称小说具有教育效果的人文学者可能会回应说，这些效果是缓慢而累积的，并且在单次阅读的研究中不太可能看到；测试这些主张将是困难的。但是他们的主张仍然是经验性的。
 
 在文学的认知研究中，情感反应的调查是其中的一个例子。虽然审美学家倾向于关注我们对虚构作品的情感反应的表面上“矛盾”之处（例如为什么我们会对不存在的事物产生情感影响，见上面的第 7 节），但认知科学的研究人员已经开始更广泛地尝试理解各种情感在生成和维持叙事和诗歌中的兴趣中的作用（Menninghaus，Wagner，Wassiliwizky 等，2017）；Jenefer Robinson（2005）的工作是审美学领域中采取这一更广泛抱负的一个例子，同时受到实证工作的强烈影响。最近，Kukkonen（2020）尝试将读者对情节发展感到惊讶的期望与感知和认知的预测处理方法进行对齐（见上面的第 3 节）。目前尚不清楚预测处理解释是否对读者的体验提供了审美相关的启示，而不仅仅是提供了涉及机制的解释（见上面的第 4 节）。
 
@@ -158,262 +158,262 @@ Bloom 和同事提供了另一种解释我们对真品的兴趣的解释，这�
 
 许多对环境反应的经验研究的非规定性与哲学美学中的一种观点形成了对比，该观点认为正确审美地欣赏自然界需要相当严格的认知要求。这个问题与我们已经讨论过的艺术问题相似：除了物体的感官外观之外，还有哪些因素与欣赏、赏识和审美判断相关？在艺术领域，我们看到一个答案是考虑作品的类别——它所属的（艺术）种类（Walton 1970; 见上文第 5 节）。Allen Carlson (2000) 将这个想法扩展到自然美学，认为一个场景或物体必须被理解为属于一种自然种类，并具有该种类所特有的因果历史；这是正确感知它的方式，对它的审美判断只有当它们与该类别相关联时才是正确的。这意味着人类对自然的许多审美体验在很大程度上是错误的，因为它们没有考虑相关的科学事实，而且常常充斥着超自然创造的概念。有些人可能会认为这是可以接受的后果；我们习惯于认为许多长期存在的人类伦理判断是完全错误的，审美判断可能也会走上同样的道路。然而，其他人质疑是否对于欣赏一只飞翔的鸟所产生的审美愉悦，其可接受性是否依赖于对该生物的自然历史的理解（Budd 2001）。
 
-对环境审美中独特之处的辨识，可以采用一种不同且更具包容性的方法，将旧有思维方式与最近关于认知的研究相结合。18 世纪将注意力集中在崇高的概念上（尤其是伯克[1757]，但这一思路可以追溯到隆吉努斯），以及风景如画的概念（吉尔平 1782 年，源于旧有的“画意”概念）。这些概念，尤其是前者，引发了关于它们与美的关系的争议——它们是美的亚种还是与之不同的范畴？——以及关于它们的延伸——崇高只能与自然有关吗？问题也出现在“崇高”这样的术语是否指代了一类对象，对其存在着共同的审美反应。这听起来像是我们可以从认知科学中获得帮助的事情，Keltner 和 Haight（2003）的研究工作，借鉴了一系列经验和反思的来源，特别引起了注意。他们的研究是关于敬畏的概念而不是崇高，但他们指出了明显的联系，因为崇高涉及对物理或概念上广阔事物的反应。他们认为，敬畏涉及对所关注的对象或场景的显著广阔性的认知，以及主体无法将其纳入其现有的心理模式中。其他研究表明，这种情感的非语言表达具有强烈的跨文化成分（Keltner 等，2019 年），并且与自我感觉的减弱有关（Piff 等，2015 年；Tom Cochrane（2012 年）认为崇高的特点是一种自我否定的感觉）。因此，有人提出，崇高的体验是一种审美形式的敬畏，其中对象是为了它本身而被关注（Clewis，2019 年；Arcangeli 等。 2020 年），这是 Shapsay（2021 年）提出的一个概念，他认为崇高有时以认知上的复杂形式出现，涉及对场景或物体所带来的挑战对现有模式的反思。
+对环境审美中独特之处的辨识，可以采用一种不同且更具包容性的方法，将旧有思维方式与最近关于认知的研究相结合。18 世纪将注意力集中在崇高的概念上（尤其是伯克 [1757]，但这一思路可以追溯到隆吉努斯），以及风景如画的概念（吉尔平 1782 年，源于旧有的“画意”概念）。这些概念，尤其是前者，引发了关于它们与美的关系的争议——它们是美的亚种还是与之不同的范畴？——以及关于它们的延伸——崇高只能与自然有关吗？问题也出现在“崇高”这样的术语是否指代了一类对象，对其存在着共同的审美反应。这听起来像是我们可以从认知科学中获得帮助的事情，Keltner 和 Haight（2003）的研究工作，借鉴了一系列经验和反思的来源，特别引起了注意。他们的研究是关于敬畏的概念而不是崇高，但他们指出了明显的联系，因为崇高涉及对物理或概念上广阔事物的反应。他们认为，敬畏涉及对所关注的对象或场景的显著广阔性的认知，以及主体无法将其纳入其现有的心理模式中。其他研究表明，这种情感的非语言表达具有强烈的跨文化成分（Keltner 等，2019 年），并且与自我感觉的减弱有关（Piff 等，2015 年；Tom Cochrane（2012 年）认为崇高的特点是一种自我否定的感觉）。因此，有人提出，崇高的体验是一种审美形式的敬畏，其中对象是为了它本身而被关注（Clewis，2019 年；Arcangeli 等。 2020 年），这是 Shapsay（2021 年）提出的一个概念，他认为崇高有时以认知上的复杂形式出现，涉及对场景或物体所带来的挑战对现有模式的反思。
 
 ## Bibliography
 
-* Anderson, Judith L., Charles B. Crawford, Joanne Nadeau, and Tracy Lindberg, 1992, “Was the Duchess of Windsor Right? A Cross-Cultural Review of the Socioecology of Ideals of Female Body Shape”, *Ethology and Sociobiology*, 13(3): 197–227. doi:10.1016/0162-3095(92)90033-Z
+* Anderson, Judith L., Charles B. Crawford, Joanne Nadeau, and Tracy Lindberg, 1992, “Was the Duchess of Windsor Right? A Cross-Cultural Review of the Socioecology of Ideals of Female Body Shape”, *Ethology and Sociobiology*, 13(3): 197–227. doi: 10.1016/0162-3095(92)90033-Z
 * Andow, James, 2018, “Aesthetic Testimony and Experimental Philosophy”, in Cova and Réhault 2018: 35–58.
-* Arcangeli, Margherita, Marco Sperduti, Amélie Jacquot, Pascale Piolino, and Jérôme Dokic, 2020, “Awe and the Experience of the Sublime: A Complex Relationship”, *Frontiers in Psychology*, 11(June): 1340. doi:10.3389/fpsyg.2020.01340
-* Aubert, Maxime, Rustan Lebe, Adhi Agus Oktaviana, Muhammad Tang, Basran Burhan, Hamrullah, Andi Jusdi, Abdullah, Budianto Hakim, Jian-xin Zhao, I. Made Geria, Priyatno Hadi Sulistyarto, Ratno Sardi, and Adam Brumm, 2019, “Earliest Hunting Scene in Prehistoric Art”, *Nature*, 576(7787): 442–445. doi:10.1038/s41586-019-1806-y
-* Bartel, Christopher, 2018, “The Ontology of Musical Works and the Role of Intuitions: An Experimental Study: Ontology of Musical Works: An Experimental Study”, *European Journal of Philosophy*, 26(1): 348–367. doi:10.1111/ejop.12247
-* Bastian, Brock, Madeline Lee Pe, and Peter Kuppens, 2017, “Perceived Social Pressure Not to Experience Negative Emotion Is Linked to Selective Attention for Negative Information”, *Cognition and Emotion*, 31(2): 261–268. doi:10.1080/02699931.2015.1103702
+* Arcangeli, Margherita, Marco Sperduti, Amélie Jacquot, Pascale Piolino, and Jérôme Dokic, 2020, “Awe and the Experience of the Sublime: A Complex Relationship”, *Frontiers in Psychology*, 11(June): 1340. doi: 10.3389/fpsyg.2020.01340
+* Aubert, Maxime, Rustan Lebe, Adhi Agus Oktaviana, Muhammad Tang, Basran Burhan, Hamrullah, Andi Jusdi, Abdullah, Budianto Hakim, Jian-xin Zhao, I. Made Geria, Priyatno Hadi Sulistyarto, Ratno Sardi, and Adam Brumm, 2019, “Earliest Hunting Scene in Prehistoric Art”, *Nature*, 576(7787): 442–445. doi: 10.1038/s41586-019-1806-y
+* Bartel, Christopher, 2018, “The Ontology of Musical Works and the Role of Intuitions: An Experimental Study: Ontology of Musical Works: An Experimental Study”, *European Journal of Philosophy*, 26(1): 348–367. doi: 10.1111/ejop.12247
+* Bastian, Brock, Madeline Lee Pe, and Peter Kuppens, 2017, “Perceived Social Pressure Not to Experience Negative Emotion Is Linked to Selective Attention for Negative Information”, *Cognition and Emotion*, 31(2): 261–268. doi: 10.1080/02699931.2015.1103702
 * Baumgarten, Alexander Gottlieb, 1750–58, *Aesthetica/Ästhetik*, Dagmar Mirbach (ed.), 2 volumes, Hamburg: Felix Meiner Verlag, 2007; partial translation in Alexander Gottlieb Baumgarten and Hans Rudolf Schweizer, *Ästhetik als Philosophie der sinnlichen Erkenntnis: Eine Interpretation der “Aesthetica” A.G. Baumgartens mit teilweiser Wiedergabe der lateinischen Textes und deutscher Übersetzung*, Basel: Schwabe, 1973.
-* Begg, Ian Maynard, Ann Anas, and Suzanne Farinacci, 1992, “Dissociation of Processes in Belief: Source Recollection, Statement Familiarity, and the Illusion of Truth”, *Journal of Experimental Psychology: General*, 121(4): 446–458. doi:10.1037/0096-3445.121.4.446
+* Begg, Ian Maynard, Ann Anas, and Suzanne Farinacci, 1992, “Dissociation of Processes in Belief: Source Recollection, Statement Familiarity, and the Illusion of Truth”, *Journal of Experimental Psychology: General*, 121(4): 446–458. doi: 10.1037/0096-3445.121.4.446
 * Boden, Margaret, 2006, *Mind as Machine: A History of Cognitive Science*, 2 volumes, New York: Oxford University Press.
-* Brooks, R., 1986, “A Robust Layered Control System for a Mobile Robot”, *IEEE Journal on Robotics and Automation*, 2(1): 14–23. doi:10.1109/JRA.1986.1087032
-* Brumm, Adam, Adhi Agus Oktaviana, Basran Burhan, Budianto Hakim, Rustan Lebe, Jian-xin Zhao, Priyatno Hadi Sulistyarto, Marlon Ririmasse, Shinatria Adhityatama, Iwan Sumantri, and Maxime Aubert, 2021, “Oldest Cave Art Found in Sulawesi”, *Science Advances*, 7(3): eabd4648. doi:10.1126/sciadv.abd4648
-* Budd, Malcolm, 2001, “Review of *Aesthetics and the Environment*, by Allen Carlson”, *Mind*, 110(438): 448–452. doi:10.1093/mind/110.438.448
-* Bullot, Nicolas J. and Rolf Reber, 2013, “The Artful Mind Meets Art History: Toward a Psycho-Historical Framework for the Science of Art Appreciation”, *Behavioral and Brain Sciences*, 36(2): 123–137. doi:10.1017/S0140525X12000489
+* Brooks, R., 1986, “A Robust Layered Control System for a Mobile Robot”, *IEEE Journal on Robotics and Automation*, 2(1): 14–23. doi: 10.1109/JRA.1986.1087032
+* Brumm, Adam, Adhi Agus Oktaviana, Basran Burhan, Budianto Hakim, Rustan Lebe, Jian-xin Zhao, Priyatno Hadi Sulistyarto, Marlon Ririmasse, Shinatria Adhityatama, Iwan Sumantri, and Maxime Aubert, 2021, “Oldest Cave Art Found in Sulawesi”, *Science Advances*, 7(3): eabd4648. doi: 10.1126/sciadv.abd4648
+* Budd, Malcolm, 2001, “Review of *Aesthetics and the Environment*, by Allen Carlson”, *Mind*, 110(438): 448–452. doi: 10.1093/mind/110.438.448
+* Bullot, Nicolas J. and Rolf Reber, 2013, “The Artful Mind Meets Art History: Toward a Psycho-Historical Framework for the Science of Art Appreciation”, *Behavioral and Brain Sciences*, 36(2): 123–137. doi: 10.1017/S0140525X12000489
 * Burke, Edmund, 1757, *A Philosophical Inquiry into the Origin of our Idea of the Sublime and Beautiful*, London: R. and J. Dodsley.
-* Calarco, Navona, Katrina Fong, Marina Rain, and Raymond Mar, 2017, “Absorption in narrative fiction and its possible impact on social abilities”, in Frank Hakemulder, Moniek M. Kuijpers, Ed S. Tan, Katalin Bálint and Miruna M. Doicaru (eds.), *Narrative Absorption*, Amsterdam: John Benjamins. doi:10.1075/lal.27.15cal
+* Calarco, Navona, Katrina Fong, Marina Rain, and Raymond Mar, 2017, “Absorption in narrative fiction and its possible impact on social abilities”, in Frank Hakemulder, Moniek M. Kuijpers, Ed S. Tan, Katalin Bálint and Miruna M. Doicaru (eds.), *Narrative Absorption*, Amsterdam: John Benjamins. doi: 10.1075/lal.27.15cal
 * Carlson, Allen, 2000, *Aesthetics and the Environment: The Appreciation of Nature, Art and Architecture*, London: Routledge.
 * Carroll, Noël, 1990, *The Philosophy of Horror, or, Paradoxes of the Heart*, New York: Routledge.
-* –––, 1996, “Moderate Moralism”, *British Journal of Aesthetics*, 36(3): 223–238. doi:10.1093/bjaesthetics/36.3.223
+* –––, 1996, “Moderate Moralism”, *British Journal of Aesthetics*, 36(3): 223–238. doi: 10.1093/bjaesthetics/36.3.223
 * –––, 1999, *Philosophy of Art: A Contemporary Introduction*, London: Routledge
-* –––, 2003, “Art and Mood: Preliminary Notes and Conjectures”, *The Monist*, 86(4): 521–555. doi:10.5840/monist200386426
-* –––, 2014, “The Arts, Emotion, and Evolution”, in Currie, Kieran, Meskin, and Robson 2014: 159–180. doi:10.1093/acprof:oso/9780199669639.003.0009
-* Carroll, Noël and Margaret Moore, 2007, “Not Reconciled: Comments for Peter Kivy”, *The Journal of Aesthetics and Art Criticism*, 65(3): 318–322. doi:10.1111/j.1540-594X.2007.00263.x
-* Carroll, Noël, Margaret Moore, and William P. Seeley, 2012, “The Philosophy of Art and Aesthetics, Psychology, and Neuroscience: Studies in Literature, Music, and Visual Arts”, in Shimamura and Palmer 2012: 31–62. doi:10.1093/acprof:oso/9780199732142.003.0019
-* Carruthers, Peter, 1996, “Simulation and Self-Knowledge: A Defence of Theory-Theory”, in Carruthers and Smith 1996: 22–38. doi:10.1017/CBO9780511597985.004
-* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511597985
-* Casati, Roberto and Alessandro Pignocchi, 2007, “Mirror and Canonical Neurons Are Not Constitutive of Aesthetic Response”, *Trends in Cognitive Sciences*, 11(10): 410. doi:10.1016/j.tics.2007.07.007
-* Chahboun, Sobh, Andrea Flumini, Carmen Pérez González, I. Chris McManus, and Julio Santiago, 2017, “Reading and Writing Direction Effects on the Aesthetic Appreciation of Photographs”, *Laterality: Asymmetries of Body, Brain and Cognition*, 22(3): 313–339. doi:10.1080/1357650X.2016.1196214
-* Chatterjee, Anjan, 2013, “Neuroaesthetics: Range and Restrictions”, *Behavioral and Brain Sciences*, 36(2): 137–138. doi:10.1017/S0140525X12001586
-* –––, 2017, “Orange Is the New Aesthetic”, *Behavioral and Brain Sciences*, 40: e355. doi:10.1017/S0140525X17001637
-* Cixous, Hélène, 1974, “The Character of ‘Character’”, Keith Cohen (trans.), *New Literary History*, 5(2): 383–402. doi:10.2307/468401
+* –––, 2003, “Art and Mood: Preliminary Notes and Conjectures”, *The Monist*, 86(4): 521–555. doi: 10.5840/monist200386426
+* –––, 2014, “The Arts, Emotion, and Evolution”, in Currie, Kieran, Meskin, and Robson 2014: 159–180. doi: 10.1093/acprof: oso/9780199669639.003.0009
+* Carroll, Noël and Margaret Moore, 2007, “Not Reconciled: Comments for Peter Kivy”, *The Journal of Aesthetics and Art Criticism*, 65(3): 318–322. doi: 10.1111/j.1540-594X.2007.00263.x
+* Carroll, Noël, Margaret Moore, and William P. Seeley, 2012, “The Philosophy of Art and Aesthetics, Psychology, and Neuroscience: Studies in Literature, Music, and Visual Arts”, in Shimamura and Palmer 2012: 31–62. doi: 10.1093/acprof: oso/9780199732142.003.0019
+* Carruthers, Peter, 1996, “Simulation and Self-Knowledge: A Defence of Theory-Theory”, in Carruthers and Smith 1996: 22–38. doi: 10.1017/CBO9780511597985.004
+* Carruthers, Peter and Peter K. Smith (eds.), 1996, *Theories of Theories of Mind*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511597985
+* Casati, Roberto and Alessandro Pignocchi, 2007, “Mirror and Canonical Neurons Are Not Constitutive of Aesthetic Response”, *Trends in Cognitive Sciences*, 11(10): 410. doi: 10.1016/j.tics.2007.07.007
+* Chahboun, Sobh, Andrea Flumini, Carmen Pérez González, I. Chris McManus, and Julio Santiago, 2017, “Reading and Writing Direction Effects on the Aesthetic Appreciation of Photographs”, *Laterality: Asymmetries of Body, Brain and Cognition*, 22(3): 313–339. doi: 10.1080/1357650X.2016.1196214
+* Chatterjee, Anjan, 2013, “Neuroaesthetics: Range and Restrictions”, *Behavioral and Brain Sciences*, 36(2): 137–138. doi: 10.1017/S0140525X12001586
+* –––, 2017, “Orange Is the New Aesthetic”, *Behavioral and Brain Sciences*, 40: e355. doi: 10.1017/S0140525X17001637
+* Cixous, Hélène, 1974, “The Character of ‘Character’”, Keith Cohen (trans.), *New Literary History*, 5(2): 383–402. doi: 10.2307/468401
 * Clewis, Robert R., 2019, “Towards a Theory of the Sublime and Aesthetic Awe”, in *The Sublime Reader*, Robert R. Clewis (ed.), London: Bloomsbury, pp. 340–353.
-* Cochrane, Tom, 2012, “The emotional experience of the sublime”, *Canadian Journal of Philosophy*, 42(2): 125–148. doi:10.1353/cjp.2012.0003
+* Cochrane, Tom, 2012, “The emotional experience of the sublime”, *Canadian Journal of Philosophy*, 42(2): 125–148. doi: 10.1353/cjp.2012.0003
 * –––, 2021a, *The Aesthetic Value of the World*, Oxford: Oxford University Press.
-* –––, 2021b, “Moved by Music Alone”, *British Journal of Aesthetics*, 61(4): 455–470. doi:10.1093/aesthj/ayab007
+* –––, 2021b, “Moved by Music Alone”, *British Journal of Aesthetics*, 61(4): 455–470. doi: 10.1093/aesthj/ayab007
 * Collingwood, R. G., 1938, *The Principles of Art*, Oxford: Oxford University Press.
-* Cornélio, Alianda M., Ruben E. de Bittencourt-Navarrete, Ricardo de Bittencourt Brum, Claudio M. Queiroz, and Marcos R. Costa, 2016, “Human Brain Expansion during Evolution Is Independent of Fire Control and Cooking”, *Frontiers in Neuroscience*, 10(April): 167. doi:10.3389/fnins.2016.00167
-* Cova, Florian and Nicolas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, *The Monist*, 95(2): 241–263. doi:10.5840/monist201295214
+* Cornélio, Alianda M., Ruben E. de Bittencourt-Navarrete, Ricardo de Bittencourt Brum, Claudio M. Queiroz, and Marcos R. Costa, 2016, “Human Brain Expansion during Evolution Is Independent of Fire Control and Cooking”, *Frontiers in Neuroscience*, 10(April): 167. doi: 10.3389/fnins.2016.00167
+* Cova, Florian and Nicolas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, *The Monist*, 95(2): 241–263. doi: 10.5840/monist201295214
 * Cova, Florian and Sébastien Réhault (eds.), 2018, *Advances in Experimental Philosophy of Aesthetics*, London: Bloomsbury Academic.
-* Cova, Florian, Christopher Y. Olivola, Edouard Machery, Stephen Stich, David Rose, Mario Alai, Adriano Angelucci, Renatas Berniūnas, Emma E. Buchtel, Amita Chatterjee, et al., 2019, “*De Pulchritudine Non Est Disputandum*? A Cross‐cultural Investigation of the Alleged Intersubjective Validity of Aesthetic Judgment”, *Mind & Language*, 34(3): 317–338. doi:10.1111/mila.12210
-* Cova, Florian and Fabrice Teroni, 2016, “Is the Paradox of Fiction Soluble in Psychology?”, *Philosophical Psychology*, 29(6): 930–942. doi:10.1080/09515089.2016.1164306
+* Cova, Florian, Christopher Y. Olivola, Edouard Machery, Stephen Stich, David Rose, Mario Alai, Adriano Angelucci, Renatas Berniūnas, Emma E. Buchtel, Amita Chatterjee, et al., 2019, “*De Pulchritudine Non Est Disputandum*? A Cross‐cultural Investigation of the Alleged Intersubjective Validity of Aesthetic Judgment”, *Mind & Language*, 34(3): 317–338. doi: 10.1111/mila.12210
+* Cova, Florian and Fabrice Teroni, 2016, “Is the Paradox of Fiction Soluble in Psychology?”, *Philosophical Psychology*, 29(6): 930–942. doi: 10.1080/09515089.2016.1164306
 * Currie, Greg, 1989, *An Ontology of Art*, Basingstoke: Macmillan.
-* –––, 1996, “Simulation-Theory, Theory-Theory, and the Evidence from Autism”, in Carruthers and Smith 1996: 242–256. doi:10.1017/CBO9780511597985.016
+* –––, 1996, “Simulation-Theory, Theory-Theory, and the Evidence from Autism”, in Carruthers and Smith 1996: 242–256. doi: 10.1017/CBO9780511597985.016
 * –––, 2007, “Visual Conceptual Art”, in *Philosophy and Conceptual Art*, Peter Goldie and Elisabeth Schellekens (eds.), Oxford: Oxford University Press, 33–50.
 * –––, 2011, “Empathy for Objects”, in *Empathy: Philosophical and Psychological Perspectives*, Amy Coplan and Peter Goldie (eds.), Oxford: Oxford University Press, 82–95.
-* –––, 2012, “Art and the Anthropologists”, in Shimamura and Palmer 2012: 107–128. doi:10.1093/acprof:oso/9780199732142.003.0034
+* –––, 2012, “Art and the Anthropologists”, in Shimamura and Palmer 2012: 107–128. doi: 10.1093/acprof: oso/9780199732142.003.0034
 * ––– 2018, “Pictures and their surfaces”, in J. Pelletier & A. Voltolini (eds.), *The Pleasure of Pictures*, London: Routledge.
-* –––, 2020, *Imagining and Knowing: The Shape of Fiction*, New York: Oxford University Press. doi:10.1093/oso/9780199656615.001.0001
+* –––, 2020, *Imagining and Knowing: The Shape of Fiction*, New York: Oxford University Press. doi: 10.1093/oso/9780199656615.001.0001
 * Currie, Greg and Ian Ravenscroft, 2002, *Recreative Minds*. Oxford University Press.
-* Currie, Greg and Xuanqi Zhu, 2021, “Aesthetic Sense and Social Cognition: A Story from the Early Stone Age”, *Synthese*, 198(7): 6553–6572. doi:10.1007/s11229-019-02476-3
-* Currie, Greg, Matthew Kieran, Aaron Meskin, and Jon Robson (eds.), 2014, *Aesthetics and the Sciences of Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669639.001.0001
-* Cutting, James E., 2003, “Gustave Caillebotte, French Impressionism, and Mere Exposure”, *Psychonomic Bulletin & Review*, 10(2): 319–343. doi:10.3758/BF03196493
-* –––, 2017, “Mere Exposure and Aesthetic Realism: A Response to Bence Nanay”, *Leonardo*, 50(1): 64–66. doi:10.1162/LEON_a_01081
-* Danto, Arthur C., 2001, “The Pigeon within Us All: A Reply to Three Critics”, *The Journal of Aesthetics and Art Criticism*, 59(1): 39–44. doi:10.1111/0021-8529.00005
-* Davies, David, 2014, “‘This Is Your Brain on Art’: What Can Philosophy of Art Learn from Neuroscience?”, in Currie, Kieran, Meskin, and Robson 2014: 57–74. doi:10.1093/acprof:oso/9780199669639.003.0004
+* Currie, Greg and Xuanqi Zhu, 2021, “Aesthetic Sense and Social Cognition: A Story from the Early Stone Age”, *Synthese*, 198(7): 6553–6572. doi: 10.1007/s11229-019-02476-3
+* Currie, Greg, Matthew Kieran, Aaron Meskin, and Jon Robson (eds.), 2014, *Aesthetics and the Sciences of Mind*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199669639.001.0001
+* Cutting, James E., 2003, “Gustave Caillebotte, French Impressionism, and Mere Exposure”, *Psychonomic Bulletin & Review*, 10(2): 319–343. doi: 10.3758/BF03196493
+* –––, 2017, “Mere Exposure and Aesthetic Realism: A Response to Bence Nanay”, *Leonardo*, 50(1): 64–66. doi: 10.1162/LEON_a_01081
+* Danto, Arthur C., 2001, “The Pigeon within Us All: A Reply to Three Critics”, *The Journal of Aesthetics and Art Criticism*, 59(1): 39–44. doi: 10.1111/0021-8529.00005
+* Davies, David, 2014, “‘This Is Your Brain on Art’: What Can Philosophy of Art Learn from Neuroscience?”, in Currie, Kieran, Meskin, and Robson 2014: 57–74. doi: 10.1093/acprof: oso/9780199669639.003.0004
 * Davies, Stephen, 1997, “Why Listen to Sad Music if It Makes One Feel Sad?” in *Music and Meaning*, Jenefer Robinson (ed.), Ithaca, NY: Cornell University Press, 242–254.
-* –––, 2010, “Why Art Is Not a Spandrel”, *British Journal of Aesthetics*, 50(4): 333–341. doi:10.1093/aesthj/ayp071
-* –––, 2012, *The Artful Species: Aesthetics, Art, and Evolution*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658541.001.0001
-* –––, 2017, “Distancing, Not Embracing, the Distancing-Embracing Model of Art Reception”, *Behavioral and Brain Sciences*, 40: e357. doi:10.1017/S0140525X17001650
-* De Tiège, Alexis, Jan Verpooten, and Johan Braeckman, 2021, “From Animal Signals to Art: Manipulative Animal Signaling and the Evolutionary Foundations of Aesthetic Behavior and Art Production”, *The Quarterly Review of Biology*, 96(1): 1–27. doi:10.1086/713210
-* Delplanque, Sylvain, Géraldine Coppin, Laurène Bloesch, Isabelle Cayeux, and David Sander, 2015, “The Mere Exposure Effect Depends on an Odor’s Initial Pleasantness”, *Frontiers in Psychology*, 6(3 July): art. 920. doi:10.3389/fpsyg.2015.00920
-* Dickie, George, 1962, “Is Psychology Relevant to Aesthetics?”, *The Philosophical Review*, 71(3): 285–302. doi:10.2307/2183429
+* –––, 2010, “Why Art Is Not a Spandrel”, *British Journal of Aesthetics*, 50(4): 333–341. doi: 10.1093/aesthj/ayp071
+* –––, 2012, *The Artful Species: Aesthetics, Art, and Evolution*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199658541.001.0001
+* –––, 2017, “Distancing, Not Embracing, the Distancing-Embracing Model of Art Reception”, *Behavioral and Brain Sciences*, 40: e357. doi: 10.1017/S0140525X17001650
+* De Tiège, Alexis, Jan Verpooten, and Johan Braeckman, 2021, “From Animal Signals to Art: Manipulative Animal Signaling and the Evolutionary Foundations of Aesthetic Behavior and Art Production”, *The Quarterly Review of Biology*, 96(1): 1–27. doi: 10.1086/713210
+* Delplanque, Sylvain, Géraldine Coppin, Laurène Bloesch, Isabelle Cayeux, and David Sander, 2015, “The Mere Exposure Effect Depends on an Odor’s Initial Pleasantness”, *Frontiers in Psychology*, 6(3 July): art. 920. doi: 10.3389/fpsyg.2015.00920
+* Dickie, George, 1962, “Is Psychology Relevant to Aesthetics?”, *The Philosophical Review*, 71(3): 285–302. doi: 10.2307/2183429
 * Dissanayake, Ellen, 1992, *Homo Aestheticus: Where Art Comes from and Why*, New York: Free Press.
 * –––, 2000, *Art and Intimacy: How the Arts Began*, Seattle, WA: University of Washington Press.
 * –––, 2017, “Ethology, Interpersonal Neurobiology, and Play: Insights into the Evolutionary Origin of the Arts”, *American Journal of Play*, 9(2): 143–168.
 * Dorsch, Fabian, 2011, “The Aesthetic Relevance of Empirical Findings”, *Kongress-Akten der Deutschen Gesellschaft für Ästhetik*, 2: 1–21
-* Dutton, Denis, 1979, “Artistic crimes: The problem of forgery in the arts”, *British Journal of Aesthetics*, 19(4): 302–314. doi:10.1093/bjaesthetics/19.4.302
+* Dutton, Denis, 1979, “Artistic crimes: The problem of forgery in the arts”, *British Journal of Aesthetics*, 19(4): 302–314. doi: 10.1093/bjaesthetics/19.4.302
 * –––, 2003, “Aesthetics and Evolutionary Psychology”, in *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), New York: Oxford University Press, 693–705.
 * –––, 2009, *The Art Instinct: Beauty, Pleasure, and Human Evolution*, New York: Bloomsbury Press.
-* Egloff, Boris, 2017, “You Are Not Alone—Social Sharing as a Necessary Addition to the Embracing Factor”, *Behavioral and Brain Sciences*, 40: e358. doi:10.1017/S0140525X17001662
-* Falk, John H. and John D. Balling, 2010, “Evolutionary Influence on Human Landscape Preference”, *Environment and Behavior*, 42(4): 479–493. doi:10.1177/0013916509341244
+* Egloff, Boris, 2017, “You Are Not Alone—Social Sharing as a Necessary Addition to the Embracing Factor”, *Behavioral and Brain Sciences*, 40: e358. doi: 10.1017/S0140525X17001662
+* Falk, John H. and John D. Balling, 2010, “Evolutionary Influence on Human Landscape Preference”, *Environment and Behavior*, 42(4): 479–493. doi: 10.1177/0013916509341244
 * Feagin, Susan L., 1983, “The Pleasures of Tragedy”, *American Philosophical Quarterly*, 20(1): 95–104.
 * Fechner, Gustav Theodor, 1871, *Zur experimentalen Aesthetik*, Leipzig: Hirzel.
 * Fodor, J.A., 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
-* –––, 1992, “A Theory of the Child’s Theory of Mind”, *Cognition*, 44(3): 283–296. doi:10.1016/0010-0277(92)90004-2
-* Foo, Yong Zhi, Leigh W. Simmons, and Gillian Rhodes, 2017, “Predictors of Facial Attractiveness and Health in Humans”, *Scientific Reports*, 7(1): 39731. doi:10.1038/srep39731
+* –––, 1992, “A Theory of the Child’s Theory of Mind”, *Cognition*, 44(3): 283–296. doi: 10.1016/0010-0277(92)90004-2
+* Foo, Yong Zhi, Leigh W. Simmons, and Gillian Rhodes, 2017, “Predictors of Facial Attractiveness and Health in Humans”, *Scientific Reports*, 7(1): 39731. doi: 10.1038/srep39731
 * Frazer, James George, 1890 [1994], *The Golden Bough: A Study in Comparative Religion*, 2 volumes, London: Macmillan. An abridged version of the second and third editions as *The Golden Bough: A Study in Magic and Religion*, Robert Fraser (ed.), Oxford: Oxford University Press, 1994.
-* Freedberg, David and Vittorio Gallese, 2007, “Motion, Emotion and Empathy in Esthetic Experience”, *Trends in Cognitive Sciences*, 11(5): 197–203. doi:10.1016/j.tics.2007.02.003
-* Friston, Karl, 2010, “The Free-Energy Principle: A Unified Brain Theory?”, *Nature Reviews Neuroscience*, 11(2): 127–138. doi:10.1038/nrn2787
-* Fuentes, Agustín, 2020, “The Evolution of a Human Imagination”, in *The Cambridge Handbook of the Imagination*, Anna Abraham (ed.), Cambridge: Cambridge University Press, 13–29. doi:10.1017/9781108580298.002
+* Freedberg, David and Vittorio Gallese, 2007, “Motion, Emotion and Empathy in Esthetic Experience”, *Trends in Cognitive Sciences*, 11(5): 197–203. doi: 10.1016/j.tics.2007.02.003
+* Friston, Karl, 2010, “The Free-Energy Principle: A Unified Brain Theory?”, *Nature Reviews Neuroscience*, 11(2): 127–138. doi: 10.1038/nrn2787
+* Fuentes, Agustín, 2020, “The Evolution of a Human Imagination”, in *The Cambridge Handbook of the Imagination*, Anna Abraham (ed.), Cambridge: Cambridge University Press, 13–29. doi: 10.1017/9781108580298.002
 * Gallagher, Shaun and Daniel D. Hutto, 2008, “Understanding Others Through Primary Interaction and Narrative Practice”, in *The Shared Mind: Perspectives on Intersubjectivity*, Jordan Zlatev, Timothy P. Racine, Chris Sinha, and Esa Itkonen (eds) , London: John Benjamins, 17–38.
-* Gallese, Vittorio and David Freedberg, 2007, “Mirror and Canonical Neurons Are Crucial Elements in Esthetic Response”, *Trends in Cognitive Sciences*, 11(10): 411. doi:10.1016/j.tics.2007.07.006
-* Gaut, Berys, 1993, “The Paradox of Horror”, *British Journal of Aesthetics*, 33(4): 333–345. doi:10.1093/bjaesthetics/33.4.333
-* –––, 2007, *Art, Emotion and Ethics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263219.001.0001
+* Gallese, Vittorio and David Freedberg, 2007, “Mirror and Canonical Neurons Are Crucial Elements in Esthetic Response”, *Trends in Cognitive Sciences*, 11(10): 411. doi: 10.1016/j.tics.2007.07.006
+* Gaut, Berys, 1993, “The Paradox of Horror”, *British Journal of Aesthetics*, 33(4): 333–345. doi: 10.1093/bjaesthetics/33.4.333
+* –––, 2007, *Art, Emotion and Ethics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199263219.001.0001
 * Gell, Alfred, 1998, *Art and Agency*, Oxford: Oxford University Press.
 * Gilpin, William, 1782, *Observations on the River Wye, and Several Parts of South Wales, etc. Relative Chiefly to Picturesque Beauty; made in the Summer of the Year 1770*, London: R. Blamire. Reprinted Cambridge: Cambridge University Press, 2013.
 * Godfrey-Smith, Peter, 2013, “Review of *The Artful Species: Aesthetics, Art, and Evolution*, by Stephen Davies”, *Notre Dame Philosophical Reviews*, August. [[Godfrey-Smith 2013 available online](https://ndpr.nd.edu/reviews/the-artful-species-aesthetics-art-and-evolution/)]
-* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind & Language*, 4(3): 161–185. doi:10.1111/j.1468-0017.1989.tb00249.x
-* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, *Mind & Language*, 1(2): 158–171. doi:10.1111/j.1468-0017.1986.tb00324.x
-* Gowlett, John A. J., 2021, “Deep Structure in the Acheulean Adaptation: Technology, Sociality and Aesthetic Emergence”, *Adaptive Behavior*, 29(2): 197–216. doi:10.1177/1059712320965713
-* Graham, Gordon, 2014, “Aesthetics as a Normative Science”, *Royal Institute of Philosophy Supplement*, 75: 249–264. doi:10.1017/S1358246114000216
-* Grammer, Karl, Bernhard Fink, Anders P. Møller, and Randy Thornhill, 2003, “Darwinian Aesthetics: Sexual Selection and the Biology of Beauty”, *Biological Reviews*, 78(3): 385–407. doi:10.1017/S1464793102006085
-* Grant, James, 2020, “Art and Achievement”, *Philosophical Studies*, 177(9): 2517–2539. doi:10.1007/s11098-019-01324-x
+* Goldman, Alvin I., 1989, “Interpretation Psychologized”, *Mind & Language*, 4(3): 161–185. doi: 10.1111/j.1468-0017.1989.tb00249.x
+* Gordon, Robert M., 1986, “Folk Psychology as Simulation”, *Mind & Language*, 1(2): 158–171. doi: 10.1111/j.1468-0017.1986.tb00324.x
+* Gowlett, John A. J., 2021, “Deep Structure in the Acheulean Adaptation: Technology, Sociality and Aesthetic Emergence”, *Adaptive Behavior*, 29(2): 197–216. doi: 10.1177/1059712320965713
+* Graham, Gordon, 2014, “Aesthetics as a Normative Science”, *Royal Institute of Philosophy Supplement*, 75: 249–264. doi: 10.1017/S1358246114000216
+* Grammer, Karl, Bernhard Fink, Anders P. Møller, and Randy Thornhill, 2003, “Darwinian Aesthetics: Sexual Selection and the Biology of Beauty”, *Biological Reviews*, 78(3): 385–407. doi: 10.1017/S1464793102006085
+* Grant, James, 2020, “Art and Achievement”, *Philosophical Studies*, 177(9): 2517–2539. doi: 10.1007/s11098-019-01324-x
 * Greenberg, Clement, 1960, “Modernist Painting”, radio broadcast, *Forum Lectures*, Washington, DC: Voice of America. Revised printed version in 1965, *Art and Literature*, 4: 193–201.
-* Grice, H. P., 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–308. doi:10.2307/2182440
-* Guter, Eran, 2020, “The Philosophical Significance of Wittgenstein’s Experiments on Rhythm, Cambridge 1912-13”, *Estetika: The European Journal of Aesthetics*, 57(1): 28–43. doi:10.33134/eeja.27
-* Hansen, Jochim, Alice Dechêne, and Michaela Wänke, 2008, “Discrepant Fluency Increases Subjective Truth”, *Journal of Experimental Social Psychology*, 44(3): 687–691. doi:10.1016/j.jesp.2007.04.005
-* Happé, Francesca G.E., 1993, “Communicative Competence and Theory of Mind in Autism: A Test of Relevance Theory”, *Cognition*, 48(2): 101–119. doi:10.1016/0010-0277(93)90026-R
+* Grice, H. P., 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–308. doi: 10.2307/2182440
+* Guter, Eran, 2020, “The Philosophical Significance of Wittgenstein’s Experiments on Rhythm, Cambridge 1912-13”, *Estetika: The European Journal of Aesthetics*, 57(1): 28–43. doi: 10.33134/eeja.27
+* Hansen, Jochim, Alice Dechêne, and Michaela Wänke, 2008, “Discrepant Fluency Increases Subjective Truth”, *Journal of Experimental Social Psychology*, 44(3): 687–691. doi: 10.1016/j.jesp.2007.04.005
+* Happé, Francesca G.E., 1993, “Communicative Competence and Theory of Mind in Autism: A Test of Relevance Theory”, *Cognition*, 48(2): 101–119. doi: 10.1016/0010-0277(93)90026-R
 * Harris, Paul L., 2000, *The Work of the Imagination*, Oxford: Wiley-Blackwell.
-* Hartner, Marcus, 2017, “Scientific Concepts in Literary Studies”, in *Cognitive Literary Science: Dialogues between Literature and Cognition*, Michael Burke and Emily T. Troscianko (eds.), Oxford: Oxford University Press, 17–34. doi:10.1093/acprof:oso/9780190496869.003.0002
+* Hartner, Marcus, 2017, “Scientific Concepts in Literary Studies”, in *Cognitive Literary Science: Dialogues between Literature and Cognition*, Michael Burke and Emily T. Troscianko (eds.), Oxford: Oxford University Press, 17–34. doi: 10.1093/acprof: oso/9780190496869.003.0002
 * Heal, Jane, 1986, “Replication and Functionalism”, in *Language, Mind, and Logic*, Jeremy Butterfield (ed.), Cambridge: Cambridge University Press.
-* Heyes, Cecilia, 2021, “Is Morality a Gadget? Nature, Nurture and Culture in Moral Development”, *Synthese*, 198(5): 4391–4414. doi:10.1007/s11229-019-02348-w
-* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, *Science*, 344(6190): 1243091. doi:10.1126/science.1243091
-* Higuchi, Satomi, Thierry Chaminade, Hiroshi Imamizu, and Mitsuo Kawato, 2009, “Shared Neural Correlates for Language and Tool Use in Broca’s Area”, *NeuroReport*, 20(15): 1376–1381. doi:10.1097/WNR.0b013e3283315570
-* Hiscock, Peter, 2014, “Learning in Lithic Landscapes: A Reconsideration of the Hominid ‘Toolmaking’ Niche”, *Biological Theory*, 9(1): 27–41. doi:10.1007/s13752-013-0158-3
+* Heyes, Cecilia, 2021, “Is Morality a Gadget? Nature, Nurture and Culture in Moral Development”, *Synthese*, 198(5): 4391–4414. doi: 10.1007/s11229-019-02348-w
+* Heyes, Cecilia M. and Chris D. Frith, 2014, “The Cultural Evolution of Mind Reading”, *Science*, 344(6190): 1243091. doi: 10.1126/science.1243091
+* Higuchi, Satomi, Thierry Chaminade, Hiroshi Imamizu, and Mitsuo Kawato, 2009, “Shared Neural Correlates for Language and Tool Use in Broca’s Area”, *NeuroReport*, 20(15): 1376–1381. doi: 10.1097/WNR.0b013e3283315570
+* Hiscock, Peter, 2014, “Learning in Lithic Landscapes: A Reconsideration of the Hominid ‘Toolmaking’ Niche”, *Biological Theory*, 9(1): 27–41. doi: 10.1007/s13752-013-0158-3
 * Hohwy Jacob, 2020, “New directions in predictive processing”, *Mind &Language*, 35: 209–223. doi.org/10.1111/mila.12281HOHWY223
 * Hopkins, Robert, 1998, *Picture, Image and Experience: A Philosophical Inquiry*, Cambridge: Cambridge University Press.
-* Huddleston, Andrew, 2012, “In Defense of Artistic Value”, *The Philosophical Quarterly*, 62(249): 705–714. doi:10.1111/j.1467-9213.2012.00089.x
+* Huddleston, Andrew, 2012, “In Defense of Artistic Value”, *The Philosophical Quarterly*, 62(249): 705–714. doi: 10.1111/j.1467-9213.2012.00089.x
 * Hume, David, 1757 [1987], “Of Tragedy”, in his *Essays, Moral, Political, and Literary*, Part I, Essay 22. Reprinted, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Classics, 1987.
-* Hyman, John, 2010, “Art and Neuroscience”, in *Beyond Mimesis and Convention: Representation in Art and Science*, Roman Frigg and Matthew Hunter (eds.), (Boston Studies in The Philosophy of Science 262), Dordrecht: Springer Netherlands, 245–261. doi:10.1007/978-90-481-3851-7_11
-* Irvin, Sherri, 2014, “Is Aesthetic Experience Possible?”, in Currie, Kieran, Meskin, and Robson 2014: 37–56. doi:10.1093/acprof:oso/9780199669639.003.0003
-* –––, 2017, “Resisting Body Oppression: An Aesthetic Approach”, *Feminist Philosophy Quarterly*, 3(4): art. 3. doi:10.5206/fpq/2017.4.3
+* Hyman, John, 2010, “Art and Neuroscience”, in *Beyond Mimesis and Convention: Representation in Art and Science*, Roman Frigg and Matthew Hunter (eds.), (Boston Studies in The Philosophy of Science 262), Dordrecht: Springer Netherlands, 245–261. doi: 10.1007/978-90-481-3851-7_11
+* Irvin, Sherri, 2014, “Is Aesthetic Experience Possible?”, in Currie, Kieran, Meskin, and Robson 2014: 37–56. doi: 10.1093/acprof: oso/9780199669639.003.0003
+* –––, 2017, “Resisting Body Oppression: An Aesthetic Approach”, *Feminist Philosophy Quarterly*, 3(4): art. 3. doi: 10.5206/fpq/2017.4.3
 * Johnson, Galen A., 2009, *The Retrieval of the Beautiful: Thinking Through Merleau-Ponty’s Aesthetics*, Evanston, IL: Northwestern University Press.
 * Johnson-Laird, P. N., 1983, *Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness*, Cambridge, MA: Harvard University Press.
 * Joyce, Richard, 2007, *The Evolution of Morality*, Cambridge, MA: MIT Press.
-* –––, 2013, “Irrealism and the Genealogy of Morals”, *Ratio*, 26(4): 351–372. doi:10.1111/rati.12027
-* Kalick, S. Michael, Leslie A. Zebrowitz, Judith H. Langlois, and Robert M. Johnson, 1998, “Does Human Facial Attractiveness Honestly Advertise Health? Longitudinal Data on an Evolutionary Question”, *Psychological Science*, 9(1): 8–13. doi:10.1111/1467-9280.00002
-* Kamber, Richard, 2011, “Experimental Philosophy of Art”, *The Journal of Aesthetics and Art Criticism*, 69(2): 197–208. doi:10.1111/j.1540-6245.2011.01461.x
-* Kaplan, Rachel and Janet Frey Talbot, 1988, “Ethnicity and Preference for Natural Settings: A Review and Recent Findings”, *Landscape and Urban Planning*, 15(1–2): 107–117. doi:10.1016/0169-2046(88)90019-9
+* –––, 2013, “Irrealism and the Genealogy of Morals”, *Ratio*, 26(4): 351–372. doi: 10.1111/rati.12027
+* Kalick, S. Michael, Leslie A. Zebrowitz, Judith H. Langlois, and Robert M. Johnson, 1998, “Does Human Facial Attractiveness Honestly Advertise Health? Longitudinal Data on an Evolutionary Question”, *Psychological Science*, 9(1): 8–13. doi: 10.1111/1467-9280.00002
+* Kamber, Richard, 2011, “Experimental Philosophy of Art”, *The Journal of Aesthetics and Art Criticism*, 69(2): 197–208. doi: 10.1111/j.1540-6245.2011.01461.x
+* Kaplan, Rachel and Janet Frey Talbot, 1988, “Ethnicity and Preference for Natural Settings: A Review and Recent Findings”, *Landscape and Urban Planning*, 15(1–2): 107–117. doi: 10.1016/0169-2046(88)90019-9
 * Kant. Immanuel, 1790 [2000], *Kritik der Urteilskraft*, Berlin. Translated as *Critique of the Power of Judgment* (The Cambridge Edition of the Works of Immanuel Kant), Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans), Cambridge: Cambridge University Press.
-* Keltner, Dacher and Jonathan Haidt, 2003, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion”, *Cognition and Emotion*, 17(2): 297–314. doi:10.1080/02699930302297
-* Keltner, Dacher, Disa Sauter, Jessica Tracy, and Alan Cowen, 2019, “Emotional Expression: Advances in Basic Emotion Theory”, *Journal of Nonverbal Behavior*, 43(2): 133–160. doi:10.1007/s10919-019-00293-3
-* Kesner, Ladislav and Jiří Horáček, 2017, “Empathy-Related Responses to Depicted People in Art Works”, *Frontiers in Psychology*, 8(24 February): art. 228. doi:10.3389/fpsyg.2017.00228
-* Kidd, David Comer and Emanuele Castano, 2013, “Reading Literary Fiction Improves Theory of Mind”, *Science*, 342(6156): 377–380. doi:10.1126/science.1239918
-* –––, 2019, “Reading Literary Fiction and Theory of Mind: Three Preregistered Replications and Extensions of Kidd and Castano (2013)”, *Social Psychological and Personality Science*, 10(4): 522–531. doi:10.1177/1948550618775410
+* Keltner, Dacher and Jonathan Haidt, 2003, “Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion”, *Cognition and Emotion*, 17(2): 297–314. doi: 10.1080/02699930302297
+* Keltner, Dacher, Disa Sauter, Jessica Tracy, and Alan Cowen, 2019, “Emotional Expression: Advances in Basic Emotion Theory”, *Journal of Nonverbal Behavior*, 43(2): 133–160. doi: 10.1007/s10919-019-00293-3
+* Kesner, Ladislav and Jiří Horáček, 2017, “Empathy-Related Responses to Depicted People in Art Works”, *Frontiers in Psychology*, 8(24 February): art. 228. doi: 10.3389/fpsyg.2017.00228
+* Kidd, David Comer and Emanuele Castano, 2013, “Reading Literary Fiction Improves Theory of Mind”, *Science*, 342(6156): 377–380. doi: 10.1126/science.1239918
+* –––, 2019, “Reading Literary Fiction and Theory of Mind: Three Preregistered Replications and Extensions of Kidd and Castano (2013)”, *Social Psychological and Personality Science*, 10(4): 522–531. doi: 10.1177/1948550618775410
 * Kim, Hanna, Markus Kneer, and Michael T. Stuart, 2018, “The Context-Dependence of Imaginative Resistance”, Cova and Réhault 2018: 143–166.
 * Kivy, Peter, 1990, *Music Alone: Philosophical Reflections on the Purely Musical Experience*, Ithaca, NY: Cornell University Press.
-* –––, 2006, “Mood and Music: Some Reflections for Noël Carroll”, *The Journal of Aesthetics and Art Criticism*, 64(2): 271–281. doi:10.1111/j.0021-8529.2006.00248.x
-* –––, 2007, “Moodology: A Response to Laura Sizer”, *The Journal of Aesthetics and Art Criticism*, 65(3): 312–318. doi:10.1111/j.1540-594X.2007.00262.x
-* Kohn, Marek and Steven Mithen, 1999, “Handaxes: Products of Sexual Selection?”, *Antiquity*, 73(281): 518–526. doi:10.1017/S0003598X00065078
-* Konečni, Vladimir J., 2013, “Music, Affect, Method, Data: Reflections on the Carroll Versus Kivy Debate”, *The American Journal of Psychology*, 126(2): 179–195. doi:10.5406/amerjpsyc.126.2.0179
-* Korsgaard, Christine M., 1983, “Two Distinctions in Goodness”, *The Philosophical Review*, 92(2): 169–195. doi:10.2307/2184924
-* Korsmeyer, Carolyn, 2019, *Things: In Touch with the Past*, Oxford: Oxford University Press. doi:10.1093/oso/9780190904876.001.0001
-* Kruger, Justin, Derrick Wirtz, Leaf Van Boven, and T. William Altermatt, 2004, “The Effort Heuristic”, *Journal of Experimental Social Psychology*, 40(1): 91–98. doi:10.1016/S0022-1031(03)00065-9
+* –––, 2006, “Mood and Music: Some Reflections for Noël Carroll”, *The Journal of Aesthetics and Art Criticism*, 64(2): 271–281. doi: 10.1111/j.0021-8529.2006.00248.x
+* –––, 2007, “Moodology: A Response to Laura Sizer”, *The Journal of Aesthetics and Art Criticism*, 65(3): 312–318. doi: 10.1111/j.1540-594X.2007.00262.x
+* Kohn, Marek and Steven Mithen, 1999, “Handaxes: Products of Sexual Selection?”, *Antiquity*, 73(281): 518–526. doi: 10.1017/S0003598X00065078
+* Konečni, Vladimir J., 2013, “Music, Affect, Method, Data: Reflections on the Carroll Versus Kivy Debate”, *The American Journal of Psychology*, 126(2): 179–195. doi: 10.5406/amerjpsyc.126.2.0179
+* Korsgaard, Christine M., 1983, “Two Distinctions in Goodness”, *The Philosophical Review*, 92(2): 169–195. doi: 10.2307/2184924
+* Korsmeyer, Carolyn, 2019, *Things: In Touch with the Past*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190904876.001.0001
+* Kruger, Justin, Derrick Wirtz, Leaf Van Boven, and T. William Altermatt, 2004, “The Effort Heuristic”, *Journal of Experimental Social Psychology*, 40(1): 91–98. doi: 10.1016/S0022-1031(03)00065-9
 * Kukkonen, Karin, 2020, *Probability Designs: Literature and Predictive Processing*, Oxford: Oxford University Press.
-* Lamarque, Peter, 2007, “Aesthetics and Literature: A Problematic Relation?”, *Philosophical Studies*, 135(1): 27–40. doi:10.1007/s11098-007-9090-3
+* Lamarque, Peter, 2007, “Aesthetics and Literature: A Problematic Relation?”, *Philosophical Studies*, 135(1): 27–40. doi: 10.1007/s11098-007-9090-3
 * Lamarque, Peter and Stein Haugom Olsen, 1994, *Truth, Fiction and Literature: A Philosophical Perspective*, Oxford: Clarendon Press.
-* Leknes, Siri, Chantal Berna, Michael C. Lee, Gregory D. Snyder, Guido Biele, and Irene Tracey, 2013, “The Importance of Context: When Relative Relief Renders Pain Pleasant”, *Pain*, 154(3): 402–410. doi:10.1016/j.pain.2012.11.018
-* Levinson, Jerrold, 2006, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199206179.001.0001
-* –––, 2013, “Causal History, Actual and Apparent”, *Behavioral and Brain Sciences*, 36(2): 150–151. doi:10.1017/S0140525X12001707
+* Leknes, Siri, Chantal Berna, Michael C. Lee, Gregory D. Snyder, Guido Biele, and Irene Tracey, 2013, “The Importance of Context: When Relative Relief Renders Pain Pleasant”, *Pain*, 154(3): 402–410. doi: 10.1016/j.pain.2012.11.018
+* Levinson, Jerrold, 2006, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199206179.001.0001
+* –––, 2013, “Causal History, Actual and Apparent”, *Behavioral and Brain Sciences*, 36(2): 150–151. doi: 10.1017/S0140525X12001707
 * –––, 2016, “Artistic Achievement and Artistic Value”, in his *Aesthetic Pursuits: Essays in Philosophy of Art*, Oxford: Oxford University Press, 47–59.
 * Lewis, David K., 1978, “Truth in Fiction”, *American Philosophical Quarterly*, 15(1): 37–46.
 * Liao, Shen-yi and Tamar Gendler, 2018 [2020], “Imagination”, in *The Stanford Encyclopedia of Philosophy* (Summer 2020), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2020/entries/imagination/>
-* Linsen, Sarah, Mieke H. R. Leyssen, Jonathan Sammartino, and Stephen E. Palmer, 2011, “Aesthetic Preferences in the Size of Images of Real-World Objects”, *Perception*, 40(3): 291–298. doi:10.1068/p6835
+* Linsen, Sarah, Mieke H. R. Leyssen, Jonathan Sammartino, and Stephen E. Palmer, 2011, “Aesthetic Preferences in the Size of Images of Real-World Objects”, *Perception*, 40(3): 291–298. doi: 10.1068/p6835
 * Lipps, Theodor, 1903, *Ästhetik: Psychologie des Schönen und der Kunst: Grundlegung der Ästhetik, Erster Teil*, Hamburg, Germany, L Voss.
 * Livingstone, Margaret, 2002, *Vision and Art: The Biology of Seeing*, New York: Abrams
-* Locher, Paul J., 2014, “Contemporary Experimental Aesthetics: Procedures and Findings”, in *Handbook of the Economics of Art and Culture, Volume 2*, Victor A. Ginsburgh and David Throsby (eds.), Oxford: Elsevier, 49–80. doi:10.1016/B978-0-444-53776-8.00003-9
-* Lopes, Dominic McIver, 2014, “Feckless Reason”, in Currie, Kieran, Meskin, and Robson 2014: 21–36. doi:10.1093/acprof:oso/9780199669639.003.0002
-* Margolis, Joseph, 1960, “Aesthetic Perception”, *The Journal of Aesthetics and Art Criticism*, 19(2): 209–213. doi:10.2307/428287
+* Locher, Paul J., 2014, “Contemporary Experimental Aesthetics: Procedures and Findings”, in *Handbook of the Economics of Art and Culture, Volume 2*, Victor A. Ginsburgh and David Throsby (eds.), Oxford: Elsevier, 49–80. doi: 10.1016/B978-0-444-53776-8.00003-9
+* Lopes, Dominic McIver, 2014, “Feckless Reason”, in Currie, Kieran, Meskin, and Robson 2014: 21–36. doi: 10.1093/acprof: oso/9780199669639.003.0002
+* Margolis, Joseph, 1960, “Aesthetic Perception”, *The Journal of Aesthetics and Art Criticism*, 19(2): 209–213. doi: 10.2307/428287
 * Marr, David, 1982, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*, San Francisco, CA: W. H. Freeman and Company.
-* Mar, Raymond A., 2018a, “Stories and the Promotion of Social Cognition”, *Current Directions in Psychological Science*, 27(4). doi:10.1177/0963721417749654
-* –––, 2018b, “Evaluating whether stories can promote social cognition: Introducing the Social Processes and Content Entrained by Narrative (SPaCEN) framework”, *Discourse Processes*, 55(1): 1–26. doi:10.1080/0163853X.2018.1448209
-* Mar, Raymond A. and Keith Oatley, 2008, “The Function of Fiction Is the Abstraction and Simulation of Social Experience”, *Perspectives on Psychological Science*, 3(3): 173–192. doi:10.1111/j.1745-6924.2008.00073.x
-* Matravers, Derek, 2014, *Fiction and Narrative*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199647019.001.0001
-* McGlone, Matthew S. and Jessica Tofighbakhsh, 2000, “Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms”, *Psychological Science*, 11(5): 424–428. doi:10.1111/1467-9280.00282
-* McManus, I. C., 2011, “Beauty Is Instinctive Feeling: Experimenting on Aesthetics and Art”, in *The Aesthetic Mind: Philosophy and Psychology*, Elisabeth Schellekens and Peter Goldie (eds.), Oxford: Oxford University Press, 169–189. doi:10.1093/acprof:oso/9780199691517.003.0010
-* Menninghaus, Winfried, Valentin Wagner, Julian Hanich, Eugen Wassiliwizky, Thomas Jacobsen, and Stefan Koelsch, 2017, “The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception”, *Behavioral and Brain Sciences*, 40: e347. doi:10.1017/S0140525X17000309
-* Menninghaus, Winfried, Valentin Wagner, Eugen Wassiliwizky, Thomas Jacobsen, and Christine A. Knoop, 2017, “The Emotional and Aesthetic Powers of Parallelistic Diction”, *Poetics*, 63: 47–59. doi:10.1016/j.poetic.2016.12.001
+* Mar, Raymond A., 2018a, “Stories and the Promotion of Social Cognition”, *Current Directions in Psychological Science*, 27(4). doi: 10.1177/0963721417749654
+* –––, 2018b, “Evaluating whether stories can promote social cognition: Introducing the Social Processes and Content Entrained by Narrative (SPaCEN) framework”, *Discourse Processes*, 55(1): 1–26. doi: 10.1080/0163853X.2018.1448209
+* Mar, Raymond A. and Keith Oatley, 2008, “The Function of Fiction Is the Abstraction and Simulation of Social Experience”, *Perspectives on Psychological Science*, 3(3): 173–192. doi: 10.1111/j.1745-6924.2008.00073.x
+* Matravers, Derek, 2014, *Fiction and Narrative*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199647019.001.0001
+* McGlone, Matthew S. and Jessica Tofighbakhsh, 2000, “Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms”, *Psychological Science*, 11(5): 424–428. doi: 10.1111/1467-9280.00282
+* McManus, I. C., 2011, “Beauty Is Instinctive Feeling: Experimenting on Aesthetics and Art”, in *The Aesthetic Mind: Philosophy and Psychology*, Elisabeth Schellekens and Peter Goldie (eds.), Oxford: Oxford University Press, 169–189. doi: 10.1093/acprof: oso/9780199691517.003.0010
+* Menninghaus, Winfried, Valentin Wagner, Julian Hanich, Eugen Wassiliwizky, Thomas Jacobsen, and Stefan Koelsch, 2017, “The Distancing-Embracing Model of the Enjoyment of Negative Emotions in Art Reception”, *Behavioral and Brain Sciences*, 40: e347. doi: 10.1017/S0140525X17000309
+* Menninghaus, Winfried, Valentin Wagner, Eugen Wassiliwizky, Thomas Jacobsen, and Christine A. Knoop, 2017, “The Emotional and Aesthetic Powers of Parallelistic Diction”, *Poetics*, 63: 47–59. doi: 10.1016/j.poetic.2016.12.001
 * Mercier, Hugo and Dan Sperber, 2017, *The Enigma of Reason*, Cambridge, MA: Harvard University Press.
-* Meskin, Aaron, Mark Phelan, Margaret Moore, and Matthew Kieran, 2013, “Mere Exposure to Bad Art”, *British Journal of Aesthetics*, 53(2): 139–164. doi:10.1093/aesthj/ays060
-* Meskin, Aaron, Jon Robson, Anna Ichino, Kris Goffin, and Annelies Monseré, 2018, “Philosophical Aesthetics and Cognitive Science”, *WIREs Cognitive Science*, 9(1): e1445. doi:10.1002/wcs.1445
+* Meskin, Aaron, Mark Phelan, Margaret Moore, and Matthew Kieran, 2013, “Mere Exposure to Bad Art”, *British Journal of Aesthetics*, 53(2): 139–164. doi: 10.1093/aesthj/ays060
+* Meskin, Aaron, Jon Robson, Anna Ichino, Kris Goffin, and Annelies Monseré, 2018, “Philosophical Aesthetics and Cognitive Science”, *WIREs Cognitive Science*, 9(1): e1445. doi: 10.1002/wcs.1445
 * Miller Geoffrey F., 2000, *The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature*, New York: Doubleday.
 * Miyazono, Kengo and Shen-yi Liao, 2016, “The Cognitive Architecture of Imaginative Resistance”, in *The Routledge Handbook of Philosophy of Imagination*, Amy Kind (ed.), New York: Routledge, pp. 233–246.
-* Møller, A. P. and R. Thornhill, 1998, “Bilateral Symmetry and Sexual Selection: A Meta‐Analysis”, *The American Naturalist*, 151(2): 174–192. doi:10.1086/286110
+* Møller, A. P. and R. Thornhill, 1998, “Bilateral Symmetry and Sexual Selection: A Meta‐Analysis”, *The American Naturalist*, 151(2): 174–192. doi: 10.1086/286110
 * Monseré, Annelies, 2015, “Experimental Philosophy and Intuitions on What Is Art and What Is Not”, *Teorema: Revista Internacional de Filosofía*, 34(3): 159–176.
-* Nanay, Bence, 2011, “Perceiving Pictures”, *Phenomenology and the Cognitive Sciences*, 10(4): 461–480. doi:10.1007/s11097-011-9219-x
-* –––, 2014, “Philosophy of Perception as a Guide to Aesthetics”, in Currie, Kieran, Meskin, and Robson 2014: 101–120. doi:10.1093/acprof:oso/9780199669639.003.0006
-* Newman, George E., Gil Diesendruck, and Paul Bloom, 2011, “Celebrity Contagion and the Value of Objects”, *Journal of Consumer Research*, 38(2): 215–228. doi:10.1086/658999
-* Newman, George E. and Paul Bloom, 2012, “Art and Authenticity: The Importance of Originals in Judgments of Value.”, *Journal of Experimental Psychology: General*, 141(3): 558–569. doi:10.1037/a0026035
-* Nguyen, C Thi, 2020, “Autonomy and Aesthetic Engagement”, *Mind*, 129(516): 1127–1156. doi:10.1093/mind/fzz054
-* Noveck, Ira, & Andres Posada, 2003, “Characterizing the time course of an implicature: An evoked potentials study”, *Brain and Language*, 85(2): 203–210. doi:10.1016/S0093-934X(03)00053-1
+* Nanay, Bence, 2011, “Perceiving Pictures”, *Phenomenology and the Cognitive Sciences*, 10(4): 461–480. doi: 10.1007/s11097-011-9219-x
+* –––, 2014, “Philosophy of Perception as a Guide to Aesthetics”, in Currie, Kieran, Meskin, and Robson 2014: 101–120. doi: 10.1093/acprof: oso/9780199669639.003.0006
+* Newman, George E., Gil Diesendruck, and Paul Bloom, 2011, “Celebrity Contagion and the Value of Objects”, *Journal of Consumer Research*, 38(2): 215–228. doi: 10.1086/658999
+* Newman, George E. and Paul Bloom, 2012, “Art and Authenticity: The Importance of Originals in Judgments of Value.”, *Journal of Experimental Psychology: General*, 141(3): 558–569. doi: 10.1037/a0026035
+* Nguyen, C Thi, 2020, “Autonomy and Aesthetic Engagement”, *Mind*, 129(516): 1127–1156. doi: 10.1093/mind/fzz054
+* Noveck, Ira, & Andres Posada, 2003, “Characterizing the time course of an implicature: An evoked potentials study”, *Brain and Language*, 85(2): 203–210. doi: 10.1016/S0093-934X(03)00053-1
 * Nussbaum, Martha Craven, 1990, *Love’s Knowledge*, Oxford: Oxford University Press.
 * –––, 1995, *Poetic Justice: The Literary Imagination and Public Life*, Boston: Beacon Press.
 * Orians, Gordon H. and Judith H. Heerwagen, 1992, “Evolved Responses to Landscapes”, in *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, Jerome H. Barkow, Leda Cosmides, and John Tooby (eds.), New York: Oxford University Press, 555–580.
-* Paden, Roger, Laurlyn K. Harmon, and Charles R. Milling, 2012, “Ecology, Evolution, and Aesthetics: Towards an Evolutionary Aesthetics of Nature”, *British Journal of Aesthetics*, 52(2): 123–139. doi:10.1093/aesthj/ays001
-* Palmer, Stephen, Jonathan Gardner, and Thomas Wickens, 2008, “Aesthetic Issues in Spatial Composition: Effects of Position and Direction on Framing Single Objects”, *Spatial Vision*, 21(3–5): 421–449. doi:10.1163/156856808784532662
-* Palmer, Stephen E. and Karen B. Schloss, 2010, “An Ecological Valence Theory of Human Color Preference”, *Proceedings of the National Academy of Sciences*, 107(19): 8877–8882. doi:10.1073/pnas.0906172107
-* Panero, Maria Eugenia, Deena Skolnick Weisberg, Jessica Black, Thalia R. Goldstein, Jennifer L. Barnes, Hiram Brownell, and Ellen Winner, 2016, “Does Reading a Single Passage of Literary Fiction Really Improve Theory of Mind? An Attempt at Replication.”, *Journal of Personality and Social Psychology*, 111(5): e46–e54. doi:10.1037/pspa0000064
+* Paden, Roger, Laurlyn K. Harmon, and Charles R. Milling, 2012, “Ecology, Evolution, and Aesthetics: Towards an Evolutionary Aesthetics of Nature”, *British Journal of Aesthetics*, 52(2): 123–139. doi: 10.1093/aesthj/ays001
+* Palmer, Stephen, Jonathan Gardner, and Thomas Wickens, 2008, “Aesthetic Issues in Spatial Composition: Effects of Position and Direction on Framing Single Objects”, *Spatial Vision*, 21(3–5): 421–449. doi: 10.1163/156856808784532662
+* Palmer, Stephen E. and Karen B. Schloss, 2010, “An Ecological Valence Theory of Human Color Preference”, *Proceedings of the National Academy of Sciences*, 107(19): 8877–8882. doi: 10.1073/pnas.0906172107
+* Panero, Maria Eugenia, Deena Skolnick Weisberg, Jessica Black, Thalia R. Goldstein, Jennifer L. Barnes, Hiram Brownell, and Ellen Winner, 2016, “Does Reading a Single Passage of Literary Fiction Really Improve Theory of Mind? An Attempt at Replication.”, *Journal of Personality and Social Psychology*, 111(5): e46–e54. doi: 10.1037/pspa0000064
 * Papineau, David, 2005, “Social Learning and the Baldwin Effect”, in *Evolution, Rationality, and Cognition: A Cognitive Science for the Twenty-First Century*, António Zilhão (ed.), New York: Routledge, 40–60.
-* Peacocke, Christopher, 1987, “Depiction”, *The Philosophical Review*, 96(3): 383–410. doi:10.2307/2185226
-* Piff, Paul K., Pia Dietze, Matthew Feinberg, Daniel M. Stancato, and Dacher Keltner, 2015, “Awe, the Small Self, and Prosocial Behavior.”, *Journal of Personality and Social Psychology*, 108(6): 883–899. doi:10.1037/pspi0000018
+* Peacocke, Christopher, 1987, “Depiction”, *The Philosophical Review*, 96(3): 383–410. doi: 10.2307/2185226
+* Piff, Paul K., Pia Dietze, Matthew Feinberg, Daniel M. Stancato, and Dacher Keltner, 2015, “Awe, the Small Self, and Prosocial Behavior.”, *Journal of Personality and Social Psychology*, 108(6): 883–899. doi: 10.1037/pspi0000018
 * Pinker. Steven, 1997, *How the Mind Works*, New York: W. W. Norton.
-* Pound, Nicholas, David W. Lawson, Arshed M. Toma, Stephen Richmond, Alexei I. Zhurov, and Ian S. Penton-Voak, 2014, “Facial Fluctuating Asymmetry Is Not Associated with Childhood Ill-Health in a Large British Cohort Study”, *Proceedings of the Royal Society B: Biological Sciences*, 281(1792): 20141639. doi:10.1098/rspb.2014.1639
-* Prum, Richard O., 2013, “Coevolutionary Aesthetics in Human and Biotic Artworlds”, *Biology & Philosophy*, 28(5): 811–832. doi:10.1007/s10539-013-9389-8
-* Reber, Rolf, 2012, “Processing Fluency, Aesthetic Pleasure, and Culturally Shared Taste”, in Shimamura and Palmer 2012: 223–249. doi:10.1093/acprof:oso/9780199732142.003.0055
-* Reber, Rolf and Norbert Schwarz, 1999, “Effects of Perceptual Fluency on Judgments of Truth”, *Consciousness and Cognition*, 8(3): 338–342. doi:10.1006/ccog.1999.0386
-* Reber, Rolf, Norbert Schwarz, and Piotr Winkielman, 2004, “Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver’s Processing Experience?”, *Personality and Social Psychology Review*, 8(4): 364–382. doi:10.1207/s15327957pspr0804_3
-* Robinson, Jenefer, 2005, *Deeper than Reason: Emotion and Its Role in Literature, Music, and Art*, Oxford: Oxford University Press. doi:10.1093/0199263655.001.0001
-* Robson, Jon, 2014, “A Social Epistemology of Aesthetics: Belief Polarization, Echo Chambers and Aesthetic Judgement”, *Synthese*, 191(11): 2513–2528. doi:10.1007/s11229-014-0437-y
-* –––, 2018, “Is Perception the Canonical Route to Aesthetic Judgment?”, *Australasian Journal of Philosophy*, 96(4): 657–668. doi:10.1080/00048402.2017.1389964
+* Pound, Nicholas, David W. Lawson, Arshed M. Toma, Stephen Richmond, Alexei I. Zhurov, and Ian S. Penton-Voak, 2014, “Facial Fluctuating Asymmetry Is Not Associated with Childhood Ill-Health in a Large British Cohort Study”, *Proceedings of the Royal Society B: Biological Sciences*, 281(1792): 20141639. doi: 10.1098/rspb.2014.1639
+* Prum, Richard O., 2013, “Coevolutionary Aesthetics in Human and Biotic Artworlds”, *Biology & Philosophy*, 28(5): 811–832. doi: 10.1007/s10539-013-9389-8
+* Reber, Rolf, 2012, “Processing Fluency, Aesthetic Pleasure, and Culturally Shared Taste”, in Shimamura and Palmer 2012: 223–249. doi: 10.1093/acprof: oso/9780199732142.003.0055
+* Reber, Rolf and Norbert Schwarz, 1999, “Effects of Perceptual Fluency on Judgments of Truth”, *Consciousness and Cognition*, 8(3): 338–342. doi: 10.1006/ccog.1999.0386
+* Reber, Rolf, Norbert Schwarz, and Piotr Winkielman, 2004, “Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver’s Processing Experience?”, *Personality and Social Psychology Review*, 8(4): 364–382. doi: 10.1207/s15327957pspr0804_3
+* Robinson, Jenefer, 2005, *Deeper than Reason: Emotion and Its Role in Literature, Music, and Art*, Oxford: Oxford University Press. doi: 10.1093/0199263655.001.0001
+* Robson, Jon, 2014, “A Social Epistemology of Aesthetics: Belief Polarization, Echo Chambers and Aesthetic Judgement”, *Synthese*, 191(11): 2513–2528. doi: 10.1007/s11229-014-0437-y
+* –––, 2018, “Is Perception the Canonical Route to Aesthetic Judgment?”, *Australasian Journal of Philosophy*, 96(4): 657–668. doi: 10.1080/00048402.2017.1389964
 * Rose, Sam and Bence Nanay, 2022, “Perception”, in *Blackwell Companion to Arthur Danto*, Jonathan Gilmore and Lydia Goehr (eds.), Oxford: Blackwell.
-* Ross, Stephanie, 2013, “Context, Causality, and Appreciation”, *Behavioral and Brain Sciences*, 36(2): 155–156. doi:10.1017/S0140525X12001768
-* Schellenberg, Susanna, 2013, “Belief and Desire in Imagination and Immersion”, *Journal of Philosophy*, 110(9): 497–517. doi:10.5840/jphil2013110914
-* Schellekens, Elisabeth, 2006, “Towards a Reasonable Objectivism for Aesthetic Judgements”, *British Journal of Aesthetics*, 46(2): 163–177. doi:10.1093/aesthj/ayj020
+* Ross, Stephanie, 2013, “Context, Causality, and Appreciation”, *Behavioral and Brain Sciences*, 36(2): 155–156. doi: 10.1017/S0140525X12001768
+* Schellenberg, Susanna, 2013, “Belief and Desire in Imagination and Immersion”, *Journal of Philosophy*, 110(9): 497–517. doi: 10.5840/jphil2013110914
+* Schellekens, Elisabeth, 2006, “Towards a Reasonable Objectivism for Aesthetic Judgements”, *British Journal of Aesthetics*, 46(2): 163–177. doi: 10.1093/aesthj/ayj020
 * Schier, Flint, 1983, “Tragedy and the Community of Sentiment”, in *Philosophy and Fiction: Essays in Literary Aesthetics*, Peter Lamarque (ed.), Aberdeen: Aberdeen University Press, 73–92.
-* Schloss, Karen B., Rosa M. Poggesi, and Stephen E. Palmer, 2011, “Effects of University Affiliation and ‘School Spirit’ on Color Preferences: Berkeley versus Stanford”, *Psychonomic Bulletin & Review*, 18(3): 498–504. doi:10.3758/s13423-011-0073-1
-* Schmarsow, August, 1894, *Das Wesen der architektonischen Schöpfung: Antrittsvorlesung, gehalten in der Aula der K. Universität Leipzig am 8. November 1893*, Leipzig: Karl W. Hiersemann; translated as “The Essence of Architectural Creation”, in *Empathy, Form, and Space: Problems in German Aesthetics, 1873–1893*, Harry Francis Mallgrave, and Eleftherios Ikonomou (eds. and trans.), Santa Monica, CA: Getty Center for the History of Art and the Humanities, 1994, 281–297. doi:10.11588/DIGLIT.49891
-* Scruton, Roger, 2014, “Music and Cognitive Science”, *Royal Institute of Philosophy Supplement*, 75: 231–247. doi:10.1017/S1358246114000277
-* Shapsay, Sandra, 2021, “A Two-Tiered Theory of the Sublime”, *The British Journal of Aesthetics*, 61(2): 123–143. doi:10.1093/aesthj/ayaa047
+* Schloss, Karen B., Rosa M. Poggesi, and Stephen E. Palmer, 2011, “Effects of University Affiliation and ‘School Spirit’ on Color Preferences: Berkeley versus Stanford”, *Psychonomic Bulletin & Review*, 18(3): 498–504. doi: 10.3758/s13423-011-0073-1
+* Schmarsow, August, 1894, *Das Wesen der architektonischen Schöpfung: Antrittsvorlesung, gehalten in der Aula der K. Universität Leipzig am 8. November 1893*, Leipzig: Karl W. Hiersemann; translated as “The Essence of Architectural Creation”, in *Empathy, Form, and Space: Problems in German Aesthetics, 1873–1893*, Harry Francis Mallgrave, and Eleftherios Ikonomou (eds. and trans.), Santa Monica, CA: Getty Center for the History of Art and the Humanities, 1994, 281–297. doi: 10.11588/DIGLIT.49891
+* Scruton, Roger, 2014, “Music and Cognitive Science”, *Royal Institute of Philosophy Supplement*, 75: 231–247. doi: 10.1017/S1358246114000277
+* Shapsay, Sandra, 2021, “A Two-Tiered Theory of the Sublime”, *The British Journal of Aesthetics*, 61(2): 123–143. doi: 10.1093/aesthj/ayaa047
 * Shelley, James, 2006 [2020], “18th Century British Aesthetics”, in *The Stanford Encyclopedia of Philosophy* (Winter 2020), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2020/entries/aesthetics-18th-british/>
-* Shimamura, Arthur P. and Stephen E. Palmer, 2012, *Aesthetic Science: Connecting Minds, Brains, and Experience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199732142.001.0001
-* Sibley, Frank, 1959, “Aesthetic Concepts”, *The Philosophical Review*, 68(4): 421–450. doi:10.2307/2182490
-* –––, 1965, “Aesthetic and Nonaesthetic”, *The Philosophical Review*, 74(2): 135–159. doi:10.2307/2183262
-* Sizer, Laura, 2007, “Moods in the Music and the Man: A Response to Kivy and Carroll”, *The Journal of Aesthetics and Art Criticism*, 65(3): 307–312. doi:10.1111/j.1540-594X.2007.00261.x
-* Smith, Rosanna K., George E. Newman, and Ravi Dhar, 2016, “Closer to the Creator: Temporal Contagion Explains the Preference for Earlier Serial Numbers”, *Journal of Consumer Research*, 42(5): 653–668. doi:10.1093/jcr/ucv054
-* Smuts, Aaron, 2009, “Art and Negative Affect”, *Philosophy Compass*, 4(1): 39–55. doi:10.1111/j.1747-9991.2008.00199.x
-* Solli, Mattias and Thomas Netland, 2021, “Enacting a Jazz Beat: Temporality in Sonic Environment and Symbolic Communication”, *British Journal of Aesthetics*, 61(4):485–504. doi:10.1093/aesthj/ayab048
-* Song, Hyunjin and Norbert Schwarz, 2008, “Fluency and the Detection of Misleading Questions: Low Processing Fluency Attenuates the Moses Illusion”, *Social Cognition*, 26(6): 791–799. doi:10.1521/soco.2008.26.6.791
+* Shimamura, Arthur P. and Stephen E. Palmer, 2012, *Aesthetic Science: Connecting Minds, Brains, and Experience*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199732142.001.0001
+* Sibley, Frank, 1959, “Aesthetic Concepts”, *The Philosophical Review*, 68(4): 421–450. doi: 10.2307/2182490
+* –––, 1965, “Aesthetic and Nonaesthetic”, *The Philosophical Review*, 74(2): 135–159. doi: 10.2307/2183262
+* Sizer, Laura, 2007, “Moods in the Music and the Man: A Response to Kivy and Carroll”, *The Journal of Aesthetics and Art Criticism*, 65(3): 307–312. doi: 10.1111/j.1540-594X.2007.00261.x
+* Smith, Rosanna K., George E. Newman, and Ravi Dhar, 2016, “Closer to the Creator: Temporal Contagion Explains the Preference for Earlier Serial Numbers”, *Journal of Consumer Research*, 42(5): 653–668. doi: 10.1093/jcr/ucv054
+* Smuts, Aaron, 2009, “Art and Negative Affect”, *Philosophy Compass*, 4(1): 39–55. doi: 10.1111/j.1747-9991.2008.00199.x
+* Solli, Mattias and Thomas Netland, 2021, “Enacting a Jazz Beat: Temporality in Sonic Environment and Symbolic Communication”, *British Journal of Aesthetics*, 61(4): 485–504. doi: 10.1093/aesthj/ayab048
+* Song, Hyunjin and Norbert Schwarz, 2008, “Fluency and the Detection of Misleading Questions: Low Processing Fluency Attenuates the Moses Illusion”, *Social Cognition*, 26(6): 791–799. doi: 10.1521/soco.2008.26.6.791
 * Sperber, Dan and Deirdre Wilson, 1995, *Relevance: Communication and Cognition*, second edition, Oxford: Blackwell. First edition 1986.
-* –––, 2002, “Pragmatics, Modularity and Mind-reading”, *Mind & Language*, 17(1‐2): 3–23. doi:10.1111/1468-0017.00186
-* Spikins, Penny, 2012, “Goodwill Hunting? Debates over the ‘Meaning’ of Lower Palaeolithic Handaxe Form Revisited”, *World Archaeology*, 44(3): 378–392. doi:10.1080/00438243.2012.725889
+* –––, 2002, “Pragmatics, Modularity and Mind-reading”, *Mind & Language*, 17(1‐2): 3–23. doi: 10.1111/1468-0017.00186
+* Spikins, Penny, 2012, “Goodwill Hunting? Debates over the ‘Meaning’ of Lower Palaeolithic Handaxe Form Revisited”, *World Archaeology*, 44(3): 378–392. doi: 10.1080/00438243.2012.725889
 * Steinberg, Leo, 1965, “Other Criteria”, reprinted in his *Other Criteria: Confrontations with Twentieth-Century Art*, New York: Oxford University Press, 1972, 55–92.
-* Stock, Kathleen, 2014, “Physiological Evidence and the Paradox of Fiction”, in Currie, Kieran, Meskin, and Robson 2014: 205–226. doi:10.1093/acprof:oso/9780199669639.003.0011
+* Stock, Kathleen, 2014, “Physiological Evidence and the Paradox of Fiction”, in Currie, Kieran, Meskin, and Robson 2014: 205–226. doi: 10.1093/acprof: oso/9780199669639.003.0011
 * Stojanovic, Isidora, 2018, “An Empirical Approach to Aesthetic Adjectives”, in Cova and Réhault 2018: 221–240.
-* Stokes, Dustin, 2009, “Aesthetics and Cognitive Science”, *Philosophy Compass*, 4(5): 715–733. doi:10.1111/j.1747-9991.2009.00226.x
-* Torregrossa, Clotilde, 2020, “A Defence of Experimental Philosophy in Aesthetics”, *Inquiry*, 63(8): 885–907. doi:10.1080/0020174X.2017.1385527
-* Turnbull, Oliver H., Jon Driver, and Rosaleen A. McCarthy, 2004, “2D But Not 3D: Pictorial-Depth Deficits in a Case of Visual Agnosia”, *Cortex*, 40(4–5): 723–738. doi:10.1016/S0010-9452(08)70167-9
+* Stokes, Dustin, 2009, “Aesthetics and Cognitive Science”, *Philosophy Compass*, 4(5): 715–733. doi: 10.1111/j.1747-9991.2009.00226.x
+* Torregrossa, Clotilde, 2020, “A Defence of Experimental Philosophy in Aesthetics”, *Inquiry*, 63(8): 885–907. doi: 10.1080/0020174X.2017.1385527
+* Turnbull, Oliver H., Jon Driver, and Rosaleen A. McCarthy, 2004, “2D But Not 3D: Pictorial-Depth Deficits in a Case of Visual Agnosia”, *Cortex*, 40(4–5): 723–738. doi: 10.1016/S0010-9452(08)70167-9
 * Urmson, J. O., 1957, “What makes a situation aesthetic?” *Proceedings of the Aristotelian Society* (Supplementary Volume), 31: 75–92.
 * Van de Cruys, Sander and Johan Wagemans, 2011, “Gestalts as Predictions—Some Reflections and an Application to Art”, *Gestalt Theory*, 33(3–4): 325–344.
-* Van der Henst, Jean-Baptiste, Laure Carles, and Dan Sperber, 2002, “Truthfulness and Relevance in Telling The Time”, *Mind & Language*, 17(5): 457–466. doi:10.1111/1468-0017.00207
+* Van der Henst, Jean-Baptiste, Laure Carles, and Dan Sperber, 2002, “Truthfulness and Relevance in Telling The Time”, *Mind & Language*, 17(5): 457–466. doi: 10.1111/1468-0017.00207
 * Van der Henst, Jean-Baptiste and Dan Sperber, 2004, “Testing the Cognitive and Communicative Principles of Relevance”, in *Experimental Pragmatics*, Ira A. Noveck and Dan Sperber (eds), London: Palgrave Macmillan, pp. 147–171.
-* Vrahimis, Andreas, 2020, “Wittgenstein and Heidegger against a Science of Aesthetics”, *Estetika: The European Journal of Aesthetics*, 57(1): 64–85. doi:10.33134/eeja.29
+* Vrahimis, Andreas, 2020, “Wittgenstein and Heidegger against a Science of Aesthetics”, *Estetika: The European Journal of Aesthetics*, 57(1): 64–85. doi: 10.33134/eeja.29
 * Vischer Robert, 1873, *Über das optische Formgefühl: ein Beitrag zur Aesthetik*, Leipzig: Credner.
-* Walton, Kendall L., 1970, “Categories of Art”, *The Philosophical Review*, 79(3): 334–367. doi:10.2307/2183933
-* –––, 1973, “Pictures and Make-Believe”, *The Philosophical Review*, 82(3): 283–319. doi:10.2307/2183897
-* –––, 1978, “Fearing Fictions”, *Journal of Philosophy*, 75(1): 5–27. doi:10.2307/2025831
-* –––, 1983, “Fiction, Fiction-Making, and Styles of Fictionality”, *Philosophy and Literature*, 7(1): 78–88. doi:10.1353/phl.1983.0004
+* Walton, Kendall L., 1970, “Categories of Art”, *The Philosophical Review*, 79(3): 334–367. doi: 10.2307/2183933
+* –––, 1973, “Pictures and Make-Believe”, *The Philosophical Review*, 82(3): 283–319. doi: 10.2307/2183897
+* –––, 1978, “Fearing Fictions”, *Journal of Philosophy*, 75(1): 5–27. doi: 10.2307/2025831
+* –––, 1983, “Fiction, Fiction-Making, and Styles of Fictionality”, *Philosophy and Literature*, 7(1): 78–88. doi: 10.1353/phl.1983.0004
 * –––, 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, MA: Harvard University Press.
 * –––, 1992, “Seeing-In and Seeing Fictionally”, in *Psychoanalysis Mind and Art: Perspectives on Richard Wollheim* (Aristotelian Society Series 11), Jim Hopkins and Anthony Savile (eds.), Oxford: Blackwell, 281–290.
 * –––, 2008, *Marvelous Images: On Values and the Arts*, New York: Oxford University Press.
 * Weber, Bruce H. and David J. Depew (eds.), 2003, *Evolution and Learning: The Baldwin Effect Reconsidered* (Life and Mind), Cambridge, MA: MIT Press.
 * Weinberg, Jonathan M. and Aaron Meskin, 2006, “Puzzling Over the Imagination: Philosophical Problems, Architectural Solutions”, in S. Nichols (ed.), *The Architecture of the Imagination*, Oxford: oxford University Press, 175–202.
 * Wilkins, John S. and Paul E. Griffiths, 2012, “Evolutionary Debunking Arguments in Three Domains: Fact, Value, and Religion”, Gregory W. Dawes and James Maclaurin (eds.), in *A New Science of Religion*, New York: Routledge, 133–144.
-* Williamson, Timothy, 2011, “Philosophical Expertise and the Burden of Proof”, *Metaphilosophy*, 42(3): 215–229. doi:10.1111/j.1467-9973.2011.01685.x
-* Wilson, Catherine, 2016, “Another Darwinian Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 74(3): 237–252. doi:10.1111/jaac.12283
+* Williamson, Timothy, 2011, “Philosophical Expertise and the Burden of Proof”, *Metaphilosophy*, 42(3): 215–229. doi: 10.1111/j.1467-9973.2011.01685.x
+* Wilson, Catherine, 2016, “Another Darwinian Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 74(3): 237–252. doi: 10.1111/jaac.12283
 * Wilson, Deirdre, 2011, “Relevance and the Interpretation of Literary Works”, in *Observing Linguistic Phenomena: A Festschrift for Seiji Uchida*, A. Yoshimura (ed.), Tokyo: Eihohsha, 3–19.
 * –––, 2018, “Relevance theory and literary interpretation”, in Terence Cave & Deirdre Wilson (eds.), *Reading Beyond the Code: Literature and Relevance Theory*, Oxford: Oxford University Press, 185–204.
-* Wilson, Deirdre and Dan Sperber, 2012, *Meaning and Relevance*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139028370
+* Wilson, Deirdre and Dan Sperber, 2012, *Meaning and Relevance*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139028370
 * Wilson, Edward O., 1975, *Sociobiology. The New Synthesis*, Cambridge, MA: The Belnap Press.
-* Wimmer, Lena, Gregory Currie, Stacie Friend, and Heather Jane Ferguson, 2021a, “Testing Correlates of Lifetime Exposure to Print Fiction Following a Multi-Method Approach: Evidence From Young and Older Readers”, *Imagination, Cognition and Personality*, 41(1): 54–86. doi:10.1177/0276236621996244
-* Wimmer Lena, Stacie Friend, Gregory Currie, Heather J. Ferguson, 2019b, “Reading Fictional Narratives to Improve Social and Moral Cognition: The Influence of Narrative Perspective, Transportation, and Identification”, *Frontiers in Communication*, 5: 611935. doi:10.3389/fcomm.2020.611935
+* Wimmer, Lena, Gregory Currie, Stacie Friend, and Heather Jane Ferguson, 2021a, “Testing Correlates of Lifetime Exposure to Print Fiction Following a Multi-Method Approach: Evidence From Young and Older Readers”, *Imagination, Cognition and Personality*, 41(1): 54–86. doi: 10.1177/0276236621996244
+* Wimmer Lena, Stacie Friend, Gregory Currie, Heather J. Ferguson, 2019b, “Reading Fictional Narratives to Improve Social and Moral Cognition: The Influence of Narrative Perspective, Transportation, and Identification”, *Frontiers in Communication*, 5: 611935. doi: 10.3389/fcomm.2020.611935
 * Wittgenstein, Ludwig, 1967, *Lectures & Conversations on Aesthetics, Psychology and Religious Belief*, Cyril Barrett (ed.), Berkeley and Los Angeles: University of California Press.
 * Wittgenstein, Ludwig and B. Muscio, 1912, “Experiments on Rhythm (Demonstration)”, *British Journal of Psychology*, 5: 356.
 * Wölfflin, Heinrich, 1886, *Prolegomena zu einer Psychologie der Architektur*, Berlin: Mann Verlag.
 * –––, 1928, “Uber das Rechts und Linkl in Bild”, in his *Gedanken zur Kunstgeschichte*, Basel: Schwabe, pp. 82–90.
 * Wollheim, Richard, 1980, “Seeing-As, Seeing-In, and Pictorial Representation”, in his *Art and Its Objects*, Cambridge: Cambridge University Press, 205–226.
 * –––, 1993, *The Mind and its Depths*, Cambridge, MA: Harvard University Press.
-* –––, 1998, “On Pictorial Representation”, *The Journal of Aesthetics and Art Criticism*, 56(3): 217–226. doi:10.2307/432361
+* –––, 1998, “On Pictorial Representation”, *The Journal of Aesthetics and Art Criticism*, 56(3): 217–226. doi: 10.2307/432361
 * Wundt, Wilhelm, 1874, *Grundzuge der physiologischen psychologie*, Leipzig: W. Engelman.
 * Zangwill, Nick, 2004, “Against emotion: Hanslick was right about music”, *British Journal of Aesthetics*, 44(1): 29–43.
 * –––, 2018, “Beauty and the Agreeable: A Critique of Experimental Aesthetics”, in Cova and Réhault 2018: 289–308.
 * Zeki, Semir, 1999, “Art and the Brain”, *Journal of Consciousness Studies*, 6(6–7): 76–96.
-* Zeki, Semir, Yan Bao, and Ernst Pöppel, 2020, “Neuroaesthetics: The Art, Science, and Brain Triptych”, *PsyCh Journal*, 9(4): 427–428. doi:10.1002/pchj.383
+* Zeki, Semir, Yan Bao, and Ernst Pöppel, 2020, “Neuroaesthetics: The Art, Science, and Brain Triptych”, *PsyCh Journal*, 9(4): 427–428. doi: 10.1002/pchj.383
 
 ## Academic Tools
 

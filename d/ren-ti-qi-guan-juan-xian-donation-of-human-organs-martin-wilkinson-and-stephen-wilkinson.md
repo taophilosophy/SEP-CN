@@ -256,82 +256,82 @@
 ## Bibliography
 
 * Alexander, S., 1962, “They Decide Who Lives, Who Dies”, *Life*, 53: 102–25.
-* Axelrod, D.A., K.P. McCullough, E.D. Brewer, B.N. Becker, D.L.Segev, and P.S. Rao, 2010, “Kidney and Pancreas Transplantation in the United States, 1999–2008: The Changing Face of Living Donation”, *American Journal of Transplantation* 10 (Part 2) (4): 987–1002. doi:10.1111/j.1600-6143.2010.03022.x
-* Bailey, P., Wong, K., Robb, M., Burnapp, L., Rogers, A., Courtney, A., Wroe, C., 2020, “Has the UK living kidney donor population changed over time? A cross-sectional descriptive analysis of the UK living donor registry between 2006 and 2017”, *BMJ Open*, 10:e033906. doi:10.1136/bmjopen-2019-033906
-* Bayefsky, M., and B. Berkman, 2016, “The Ethics of Allocating Uterine Transplants”, *Bioethics*, 25(3): 350–365. doi:10.1017/S0963180115000687
-* Boddington, P., 1998, “Organ Donation After Death—Should I Decide, or Should My Family?”, *Journal of Applied Philosophy*, 15(1): 69–81. doi:10.1111/1468-5930.00074
-* Brazier, M., 2002, “Retained Organs: Ethics and humanity”, *Legal Studies*, 22(4): 550–69. doi:10.1111/j.1748-121X.2002.tb00668.x
-* Brown, R.C.H., 2013, “Moral responsibility for (un)healthy behaviour”, *Journal of Medical Ethics*, 39: 695–698. doi:10.1136/medethics-2012-100774
-* Brown, R. and J. Savulescu, 2019, “Responsibility in healthcare across time and agents”, *Journal of Medical Ethics*, 45: 636–644. doi:10.1136/medethics-2019-105382
+* Axelrod, D.A., K.P. McCullough, E.D. Brewer, B.N. Becker, D.L.Segev, and P.S. Rao, 2010, “Kidney and Pancreas Transplantation in the United States, 1999–2008: The Changing Face of Living Donation”, *American Journal of Transplantation* 10 (Part 2) (4): 987–1002. doi: 10.1111/j.1600-6143.2010.03022.x
+* Bailey, P., Wong, K., Robb, M., Burnapp, L., Rogers, A., Courtney, A., Wroe, C., 2020, “Has the UK living kidney donor population changed over time? A cross-sectional descriptive analysis of the UK living donor registry between 2006 and 2017”, *BMJ Open*, 10: e033906. doi: 10.1136/bmjopen-2019-033906
+* Bayefsky, M., and B. Berkman, 2016, “The Ethics of Allocating Uterine Transplants”, *Bioethics*, 25(3): 350–365. doi: 10.1017/S0963180115000687
+* Boddington, P., 1998, “Organ Donation After Death—Should I Decide, or Should My Family?”, *Journal of Applied Philosophy*, 15(1): 69–81. doi: 10.1111/1468-5930.00074
+* Brazier, M., 2002, “Retained Organs: Ethics and humanity”, *Legal Studies*, 22(4): 550–69. doi: 10.1111/j.1748-121X.2002.tb00668.x
+* Brown, R.C.H., 2013, “Moral responsibility for (un)healthy behaviour”, *Journal of Medical Ethics*, 39: 695–698. doi: 10.1136/medethics-2012-100774
+* Brown, R. and J. Savulescu, 2019, “Responsibility in healthcare across time and agents”, *Journal of Medical Ethics*, 45: 636–644. doi: 10.1136/medethics-2019-105382
 * Buchanan, A. and D. Brock, 1990, *Deciding for Others*, Cambridge: Cambridge University Press.
-* Buyx, A.M., 2008, “Personal Responsibility for Health as a Rationing Criterion: why we don’t like it and why maybe we should”, *Journal of Medical Ethics*, 34: 871–874. doi:10.1136/jme.2007.024059
+* Buyx, A.M., 2008, “Personal Responsibility for Health as a Rationing Criterion: why we don’t like it and why maybe we should”, *Journal of Medical Ethics*, 34: 871–874. doi: 10.1136/jme.2007.024059
 * Caplan, A.L., J.J. McCartney, and D.P. Reid, 2015, *Replacement Parts: The Ethics of Procuring and Replacing Organs in Humans*, Washington: Georgetown University Press.
 * Cohen, G.A., 1988, *History, Labour, and Freedom*, Oxford: Clarendon Press.
-* Cronin, A.J., 2014, “Points mean prizes: priority points, preferential status and directed organ donation in Israel”, *Israel Journal of Health Policy Research*, 3:8, first online 24 February 2014. doi:10.1186/2045-4015-3-8
+* Cronin, A.J., 2014, “Points mean prizes: priority points, preferential status and directed organ donation in Israel”, *Israel Journal of Health Policy Research*, 3: 8, first online 24 February 2014. doi: 10.1186/2045-4015-3-8
 * Elster, J., 1992, *Local Justice: How Institutions Allocate Scarce Goods and Necessary Burdens*, New York: Russell Sage Foundation.
 * Fabre, C., 2006, *Whose Body Is It Anyway: Justice and the integrity of the person?*, Oxford: Clarendon Press.
 * –––, 2008, “Posthumous Rights”, in C. Grant, B. Holburn, A. Hatzistavrou, and M. Kramer (eds.), *The Legacy of H.L.A. Hart: Legal, political, and moral philosophy*, Oxford: Oxford University Press, 225–38.
-* Fan, R., and M. Wang, 2019, “Family-based consent and motivation for cadaveric organ donation in China: an ethical exploration”, *Journal of Medicine and Philosophy*, 44: 534–553. doi:10.1093/jmp/jhz022.
+* Fan, R., and M. Wang, 2019, “Family-based consent and motivation for cadaveric organ donation in China: an ethical exploration”, *Journal of Medicine and Philosophy*, 44: 534–553. doi: 10.1093/jmp/jhz022.
 * Farrell, A.M. and D. Price, 2011, *Organ Shortage: Ethics, Law and Pragmatism*, Cambridge: Cambridge University Press.
 * Feinberg, J., 1984, *Harm to Others*, New York: Oxford University Press.
 * –––, 1986, *Harm to Self*, New York: Oxford University Press.
-* Fortin, M.C., 2013, “Is it ethical to invite compatible pairs to participate in exchange programmes?”, *Journal of Medical Ethics*, 39(12): 732–747. doi:10.1136/medethics-2012-101129
-* Freeman, M. and P.A. Jaoudé, 2007, “Justifying surgery’s last taboo: the ethics of face transplants”, *Journal of Medical Ethics*, 33: 76–81. doi:10.1136/jme.2006.016865
-* Gill, M. 2004, “Presumed Consent, Autonomy, and Organ Donation”, *Journal of Medicine and Philosophy*, 29(1): 37–59. doi:10.1076/jmep.29.1.37.30412
-* Grams, M.E. et al., 2016, “Kidney-Failure Risk Projection for the Living Donor Candidate”, *The New England Journal of Medicine*, 374(5): 411–421. doi:10.1056/NEJMoa1510491
+* Fortin, M.C., 2013, “Is it ethical to invite compatible pairs to participate in exchange programmes?”, *Journal of Medical Ethics*, 39(12): 732–747. doi: 10.1136/medethics-2012-101129
+* Freeman, M. and P.A. Jaoudé, 2007, “Justifying surgery’s last taboo: the ethics of face transplants”, *Journal of Medical Ethics*, 33: 76–81. doi: 10.1136/jme.2006.016865
+* Gill, M. 2004, “Presumed Consent, Autonomy, and Organ Donation”, *Journal of Medicine and Philosophy*, 29(1): 37–59. doi: 10.1076/jmep.29.1.37.30412
+* Grams, M.E. et al., 2016, “Kidney-Failure Risk Projection for the Living Donor Candidate”, *The New England Journal of Medicine*, 374(5): 411–421. doi: 10.1056/NEJMoa1510491
 * Harris, J., 1985, *The Value of Life*, London: Routledge.
-* –––, 2002, “Law and Regulation of Retained Organs: The ethical issues”, *Legal Studies*, 22(4): 527–49. doi:10.1111/j.1748-121X.2002.tb00667.x
-* –––, 2003, “Organ Procurement: Dead interests, living needs”, *Journal of Medical Ethics*, 29: 130–4. doi:10.1136/jme.29.3.130
+* –––, 2002, “Law and Regulation of Retained Organs: The ethical issues”, *Legal Studies*, 22(4): 527–49. doi: 10.1111/j.1748-121X.2002.tb00667.x
+* –––, 2003, “Organ Procurement: Dead interests, living needs”, *Journal of Medical Ethics*, 29: 130–4. doi: 10.1136/jme.29.3.130
 * den Hartogh, G., 2008a, *Farewell to Non-commitment: Decision systems for organ donation from an ethical viewpoint*, The Hague: Centre for Ethics and Health.
 * –––, 2008b, “When Are Living Donations Voluntary Enough?” in W. Weimar et al. (eds.) *Organ Transplantation: Ethical, legal and psychosocial aspects*, Lengerich: Pabst Science Publishers, 221–31.
-* –––, 2019, “Respect for Autonomy in Systems of Postmortem Organ Procurement”, *Bioethics*, 33: 550–56. doi:10.1111/bioe.12553
-* Ibrahim, H., R. Foley, L. Tan, T. Rogers, R. Bailey, H. Guo, C. Gross, and A. Matas, 2009, “Long-Term Consequences of Kidney Donation”, *The New England Journal of Medicine*, 360: 459–69. doi:10.1056/NEJMoa0804883
+* –––, 2019, “Respect for Autonomy in Systems of Postmortem Organ Procurement”, *Bioethics*, 33: 550–56. doi: 10.1111/bioe.12553
+* Ibrahim, H., R. Foley, L. Tan, T. Rogers, R. Bailey, H. Guo, C. Gross, and A. Matas, 2009, “Long-Term Consequences of Kidney Donation”, *The New England Journal of Medicine*, 360: 459–69. doi: 10.1056/NEJMoa0804883
 * Kamm, F.M., 1993, *Morality, Mortality*, vol. 1, New York: Oxford University Press.
-* Kluge, E-H.W., 2000, “Improving Organ Retrieval Rates: Various proposals and their ethical validity”, *Health Care Analysis*, 8(3): 279–95. doi:10.1023/A:1009496002775
+* Kluge, E-H.W., 2000, “Improving Organ Retrieval Rates: Various proposals and their ethical validity”, *Health Care Analysis*, 8(3): 279–95. doi: 10.1023/A: 1009496002775
 * Liberman, A., 2015, “A Promise Acceptance Model of Organ Donation”, *Social Theory and Practice*, 41: 131–48. doi: 10.5840/soctheorpract20154116
 * Lotz, M., 2018, “Uterus Transplantation as Radical Reproduction: taking the adoption alternative more seriously”, *Bioethics*, 32: 499–508. doi: 10.1111/bioe.12490
 * MacFarquhar, Larissa, 2009, “The Kindest Cut”, *The New Yorker*, July 27, 2009.
-* Machnicki G., L. Seriai, and M.A. Schnitzler, 2006, “Economics of transplantation: A review of the literature”, *Transplantation Reviews*, 20: 61–75. doi:10.1016/j.trre.2006.05.001
+* Machnicki G., L. Seriai, and M.A. Schnitzler, 2006, “Economics of transplantation: A review of the literature”, *Transplantation Reviews*, 20: 61–75. doi: 10.1016/j.trre.2006.05.001
 * Miller, D, 1999, *Principles of Social Justice*, Cambridge MA: Harvard University Press.
 * Miller, F.G. and R.D. Truog, 2012, *Death, Dying, and Organ Transplantation: Reconstructing Medical Ethics at the End of Life*, Oxford: Oxford University Press.
 * Moorlock, G., 2015, “Directed altruistic living donation: what is wrong with the beauty contest?”, *Journal of Medical Ethics*, 41: 875–79. doi: 10.1136/medethics-2014-102230
-* Moorlock, G., and H. Draper, 2018, “Empathy, Social Media, and Directed Altruistic Living Organ Donation”, *Bioethics*, 32: 289–97. doi:10.1111/bioe.12438
+* Moorlock, G., and H. Draper, 2018, “Empathy, Social Media, and Directed Altruistic Living Organ Donation”, *Bioethics*, 32: 289–97. doi: 10.1111/bioe.12438
 * Munson, R., 2002, *Raising the Dead*, New York: Oxford University Press.
 * Nozick, R., 1974, *Anarchy, State, and Utopia*, Oxford: Basil Blackwell.
-* O’Donovan, L., N.J. Williams, and S. Wilkinson, 2019, “Ethical and policy issues raised by uterus transplants”, *British Medical Bulletin*, 131: 19–28. doi:10.1093/bmb/ldz022
+* O’Donovan, L., N.J. Williams, and S. Wilkinson, 2019, “Ethical and policy issues raised by uterus transplants”, *British Medical Bulletin*, 131: 19–28. doi: 10.1093/bmb/ldz022
 * Price, D., 2000, *Legal and Ethical Aspects of Organ Transplantation*, Cambridge: Cambridge University Press.
 * –––, 2009, *Human Tissue in Transplantation and Research: A model legal and ethical donation framework*, Cambridge: Cambridge University Press.
-* Quigley, M., L. Wright, and V. Ravitsky, 2012, “Organ Donation and Priority Points in Israel: An Ethical Analysis”, *Transplantation*, 93(10): 970–973. doi:10.1097/TP.0b013e31824e3d95
-* Radcliffe Richards, J., 2006, “Consent with inducements: the case of body parts and services”, in F. Miller and A. Wertheimer (eds.) *The Ethics of Consent: Theory and Practice*, Oxford: Oxford University Press: 281–304. doi:10.1093/acprof:oso/9780195335149.003.0011
+* Quigley, M., L. Wright, and V. Ravitsky, 2012, “Organ Donation and Priority Points in Israel: An Ethical Analysis”, *Transplantation*, 93(10): 970–973. doi: 10.1097/TP.0b013e31824e3d95
+* Radcliffe Richards, J., 2006, “Consent with inducements: the case of body parts and services”, in F. Miller and A. Wertheimer (eds.) *The Ethics of Consent: Theory and Practice*, Oxford: Oxford University Press: 281–304. doi: 10.1093/acprof: oso/9780195335149.003.0011
 * –––, 2012, *The Ethics of Transplants: why careless thought costs lives*, Oxford: Oxford University Press.
 * Rakowski, E., 1991, *Equal Justice*, Oxford: Clarendon Press.
 * Raz, J., 1986, *The Morality of Freedom*, Oxford: Clarendon Press.
-* Robertson, J., 2016, “Other Women’s Wombs: uterus transplanation and gestational surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi:10.1093/jlb/lsw011
-* Sandman, L., 2018, “The Importance of Being Pregnant: on the healthcare need for uterus transplanation”, *Bioethics*, 32: 519–526. doi:10.1111/bioe.12525
-* Sharif, A. and G. Moorlock, 2018, “Influencing Relatives to Respect Donor Autonomy: should we nudge families to consent to organ donation?”, *Bioethics*, 32: 155–163. doi:10.1111/bioe.12420
-* Sharkey, K. and L. Gillam, 2010, “Should patients with self-inflicted illness receive lower priority in access to healthcare resources? Mapping out the debate”, *Journal of Medical Ethics*, 20: 661–665. doi:10.1136/jme.2009.032102
-* Smart, B., 1994, “Fault and the Allocation of Spare Organs”, *Journal of Medical Ethics*, 20: 26–30. doi:10.1136/jme.20.1.26
-* Spital, A., 2004, “Donor Benefit is Key to Justified Organ Donation”, *Cambridge Quarterly of Healthcare Ethics*, 13(1): 105–109. doi:10.1017/S0963180104131174
+* Robertson, J., 2016, “Other Women’s Wombs: uterus transplanation and gestational surrogacy”, *Journal of Law and the Biosciences*, 3: 68–86. doi: 10.1093/jlb/lsw011
+* Sandman, L., 2018, “The Importance of Being Pregnant: on the healthcare need for uterus transplanation”, *Bioethics*, 32: 519–526. doi: 10.1111/bioe.12525
+* Sharif, A. and G. Moorlock, 2018, “Influencing Relatives to Respect Donor Autonomy: should we nudge families to consent to organ donation?”, *Bioethics*, 32: 155–163. doi: 10.1111/bioe.12420
+* Sharkey, K. and L. Gillam, 2010, “Should patients with self-inflicted illness receive lower priority in access to healthcare resources? Mapping out the debate”, *Journal of Medical Ethics*, 20: 661–665. doi: 10.1136/jme.2009.032102
+* Smart, B., 1994, “Fault and the Allocation of Spare Organs”, *Journal of Medical Ethics*, 20: 26–30. doi: 10.1136/jme.20.1.26
+* Spital, A., 2004, “Donor Benefit is Key to Justified Organ Donation”, *Cambridge Quarterly of Healthcare Ethics*, 13(1): 105–109. doi: 10.1017/S0963180104131174
 * Steiner, H., 1994, *An Essay on Rights*, Oxford: Basil Blackwell.
 * Thaler, R. and C.R. Sunstein, 2008, *Nudge: Improving decisions about health, wealth, and happiness*, New Haven: Yale University Press.
 * Tilney, N., 2003, *Transplant: From myth to reality*, New Haven: Yale University Press.
-* Van Assche, K., Thys, K., Vansweevelt, T., Genicot, G., Borry, P., Sterckx, S., 2016, “Living tissue and organ donation by minors: Suggestions to improve the regulatory framework in Europe”, *Medical Law International*, 16(1–2): 58–93. doi:10.1177/0968533216660877
+* Van Assche, K., Thys, K., Vansweevelt, T., Genicot, G., Borry, P., Sterckx, S., 2016, “Living tissue and organ donation by minors: Suggestions to improve the regulatory framework in Europe”, *Medical Law International*, 16(1–2): 58–93. doi: 10.1177/0968533216660877
 * Steiner, H., 1994, *An Essay on Rights*, Oxford: Basil Blackwell.
 * Veatch, R. and L. Ross, 2015, *Transplantation Ethics* (2nd edition), Washington DC: Georgetown University Press.
-* Voo, T.C. and S. Holm, 2014, “Organs as inheritable property?”, *Journal of Medical Ethics*, 40:57–61. doi:10.1136/medethics-2013-101336
-* Walker, T., 2010, “Who do we treat first when resources are scarce?”, *Journal of Applied Philosophy*, 27: 200–211. doi:10.1111/j.1468-5930.2010.00486.x
+* Voo, T.C. and S. Holm, 2014, “Organs as inheritable property?”, *Journal of Medical Ethics*, 40: 57–61. doi: 10.1136/medethics-2013-101336
+* Walker, T., 2010, “Who do we treat first when resources are scarce?”, *Journal of Applied Philosophy*, 27: 200–211. doi: 10.1111/j.1468-5930.2010.00486.x
 * Wilkinson, S., 1999, “Smokers’ rights to health care: why the ‘restoration argument’ is a moralising wolf in a liberal sheep’s clothing”, *Journal of Applied Philosophy*, 16: 255–269.
 * –––, 2003, *Bodies for Sale: ethics and exploitation in the human body trade*, London: Routledge.
-* Wilkinson, S. and N.J. Williams, 2016, “Should uterus transplants be publicly funded?”, *Journal of Medical Ethics*, 42: 559–565. doi:10.1136/medethics-2015-102999
+* Wilkinson, S. and N.J. Williams, 2016, “Should uterus transplants be publicly funded?”, *Journal of Medical Ethics*, 42: 559–565. doi: 10.1136/medethics-2015-102999
 * Wilkinson, T.M., 2007a, “Individual and Family Decisions About Organ Donation”, *Journal of Applied Philosophy*, 24: 26–40.
-* –––, 2007b, “Racist organ donors and saving lives”, *Bioethics*, 21(2): 63–74. doi:10.1111/j.1467-8519.2007.00526.x
+* –––, 2007b, “Racist organ donors and saving lives”, *Bioethics*, 21(2): 63–74. doi: 10.1111/j.1467-8519.2007.00526.x
 * –––, 2011, *Ethics and the Acquisition of Organs*, Oxford: Clarendon Press.
-* Wilkinson, T.M. and I.D. Dittmer, 2016, “Should Children Be Given Priority in Kidney Allocation?” *Journal of Bioethical Inquiry*, 13: 535–545. doi:10.1007/s11673-016-9737-x
-* Wilkinson, T.M. and A. Moore, 1997, “Inducement in Research”, *Bioethics*, 11(5): 373–389. doi:10.1111/1467-8519.00078
+* Wilkinson, T.M. and I.D. Dittmer, 2016, “Should Children Be Given Priority in Kidney Allocation?” *Journal of Bioethical Inquiry*, 13: 535–545. doi: 10.1007/s11673-016-9737-x
+* Wilkinson, T.M. and A. Moore, 1997, “Inducement in Research”, *Bioethics*, 11(5): 373–389. doi: 10.1111/1467-8519.00078
 * Williams, N.J., 2016, “Should Deceased Donation be Morally Preferred in Uterine Transplantation Trials?”, *Bioethics*, 30: 415–424. doi: 10.1111/bioe.12247
 * –––, 2018, “On Harm Thresholds and Living Organ Donation: must the living donor benefit, on balance, from his donation”, *Medicine, Healthcare and Philosophy*, 21: 11–22. doi: 10.1007/s11019-017-9778-x
-* De Wispelaere, J. and L. Stirton, 2010, “Advance Commitment: An Alternative Approach to the Family Veto Problem in Organ Procurement”, *Journal of Medical Ethics*, 36: 180–3. doi:10.1136/jme.2009.032912
-* Zambrano, A., 2017, “Patient Autonomy and the Family Veto Problem in Organ Procurement”, *Social Theory and Practice*, 43: 180–200. doi:10.5840/soctheorpract20174318
+* De Wispelaere, J. and L. Stirton, 2010, “Advance Commitment: An Alternative Approach to the Family Veto Problem in Organ Procurement”, *Journal of Medical Ethics*, 36: 180–3. doi: 10.1136/jme.2009.032912
+* Zambrano, A., 2017, “Patient Autonomy and the Family Veto Problem in Organ Procurement”, *Social Theory and Practice*, 43: 180–200. doi: 10.5840/soctheorpract20174318
 
 ## Academic Tools
 

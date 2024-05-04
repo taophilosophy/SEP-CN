@@ -8,7 +8,7 @@
 
 ## 什么是生物多样性？
 
-奇怪的是，我们大致可以确定术语“生物多样性”是何时被创造的（Takacs 1996: 34–40）。这发生在 1986 年 9 月 21 日至 24 日由史密森尼学会和国家科学院赞助的全国生物多样性论坛期间。大约有 14,000 人参加了这场媒体盛宴，其中包括杰拉德·戴蒙德（Jared Diamond）、保罗·厄利希（Paul Ehrlich）、托马斯·艾斯纳（Thomas Eisner）、G·伊夫林·哈钦森（G. Evelyn Hutchinson）、恩斯特·迈尔（Ernst Mayr）、查尔斯·D·米彻纳（Charles D. Michener）、哈罗德·A·穆尼（Harold A. Mooney）、彼得·雷文（Peter Raven）和 E·O·威尔逊（E. O. Wilson）。这个术语的创造者被认为是沃尔特·G·罗森（Walter G. Rosen）。他说，Conservation Biology as 功利主义。
+奇怪的是，我们大致可以确定术语“生物多样性”是何时被创造的（Takacs 1996: 34–40）。这发生在 1986 年 9 月 21 日至 24 日由史密森尼学会和国家科学院赞助的全国生物多样性论坛期间。大约有 14,000 人参加了这场媒体盛宴，其中包括杰拉德 · 戴蒙德（Jared Diamond）、保罗 · 厄利希（Paul Ehrlich）、托马斯 · 艾斯纳（Thomas Eisner）、G· 伊夫林 · 哈钦森（G. Evelyn Hutchinson）、恩斯特 · 迈尔（Ernst Mayr）、查尔斯 ·D· 米彻纳（Charles D. Michener）、哈罗德 ·A· 穆尼（Harold A. Mooney）、彼得 · 雷文（Peter Raven）和 E·O· 威尔逊（E. O. Wilson）。这个术语的创造者被认为是沃尔特 ·G· 罗森（Walter G. Rosen）。他说，Conservation Biology as 功利主义。
 
 > 保护生物学作为功利主义。
 
@@ -38,15 +38,15 @@
 
 关于特定社区的物种丰富度，即在特定地点的一组相互作用物种的数量。我们还可以将物种均匀度添加到物种丰富度中（Magurran，1988，2004）。就特定社区而言，将会有一定数量的物种。然而，假设我们有两种物种，第一种有 300 个成员，而第二种有 700 个成员。再假设我们有两种物种，第一种有 500 个成员，第二种也有 500 个成员。第二种物种社区比第一种要“均匀”得多。均匀度的一个形式表示如下（Magurran，1988）。我们从 Shannon-Weiner 多样性指数开始。
 
-H′=−S∑i=1pilnpi
+H′= −S∑i = 1pilnpi
 
 保育生物学作为功利主义。
 
-H′max=−S∑i=11Sln1S=lnS
+H′max = −S∑i = 11Sln1S = lnS
 
 我们现在有了物种均匀度的度量
 
-J′=H′H′max
+J′= H′H′max
 
 J′的取值介于 0 和 1 之间，值越接近 1，物种个体数量之间的变化就越小。
 
@@ -82,10 +82,10 @@ Sahotra Sarkar 试图将生物多样性“隐含”定义，与 Maclaurin 和 St
 
 > 生物多样性应该被（暗含地）操作性地定义为通过优先考虑所有地点的生物多样性内容，利用真实替代物进行优先排序程序所优化的内容。 （Sarkar 2005: 182）
 
-为了理解这一描述，我们需要阐明什么是地点优先排序程序（Sarkar 等人，2002 年；Sarkar，2005 年：159-168）。在抽象层面上，地点优先排序始于一个地点（“单元”）列表和必须在保护区网络中的某个目标处代表的替代物列表。我们要么选择最小的单元集，以便每个替代物都达到其目标，要么选择那些受特定大小限制的单元，以最大化达到或超过相关目标的替代物数量。地点优先排序是系统性保护规划共识框架的一个组成部分，我们将在下文中讨论。然而，实际上，这是一种为了其“生物多样性内容”而优先考虑地点的程序，用于创建保护区网络，其中我们结合了有关区域设计的信息。这可能包括网络的形状、大小、分散度和连通性。这通常更正式地表述如下（Sarkar，2005 年：161）。首先，假设我们从一组地点或单元σj 开始；因此，Σ={σj∣σj∈Σ}，j=1,2,…,n。其次，我们有一组替代物λi；因此，Λ={λi∣λi∈Λ}，i=1,2,…,m。第三，我们有用于其预期覆盖率表示的目标τi，i=1,2,…,m。地点优先排序然后采取两个问题的形式：
+为了理解这一描述，我们需要阐明什么是地点优先排序程序（Sarkar 等人，2002 年；Sarkar，2005 年：159-168）。在抽象层面上，地点优先排序始于一个地点（“单元”）列表和必须在保护区网络中的某个目标处代表的替代物列表。我们要么选择最小的单元集，以便每个替代物都达到其目标，要么选择那些受特定大小限制的单元，以最大化达到或超过相关目标的替代物数量。地点优先排序是系统性保护规划共识框架的一个组成部分，我们将在下文中讨论。然而，实际上，这是一种为了其“生物多样性内容”而优先考虑地点的程序，用于创建保护区网络，其中我们结合了有关区域设计的信息。这可能包括网络的形状、大小、分散度和连通性。这通常更正式地表述如下（Sarkar，2005 年：161）。首先，假设我们从一组地点或单元 σj 开始；因此，Σ ={σj∣σj∈Σ}，j = 1,2,…, n。其次，我们有一组替代物 λi；因此，Λ ={λi∣λi∈Λ}，i = 1,2,…, m。第三，我们有用于其预期覆盖率表示的目标 τi，i = 1,2,…, m。地点优先排序然后采取两个问题的形式：
 
-* 最小面积：选择最小的细胞集合Γ，以便每个替代物都能达到其代表目标
-* 最大代表性：给定Γ的基数κ≤n，选择那些使得期望覆盖率超过代表性目标的替代物数量最大化的单元。
+* 最小面积：选择最小的细胞集合 Γ，以便每个替代物都能达到其代表目标
+* 最大代表性：给定 Γ 的基数 κ≤n，选择那些使得期望覆盖率超过代表性目标的替代物数量最大化的单元。
 
 前者存在经济约束，但对地点数量没有限制，而后者对总地点数量有限制。
 
@@ -99,7 +99,7 @@ Sahotra Sarkar 试图将生物多样性“隐含”定义，与 Maclaurin 和 St
 
 ### 1.3 消减生物多样性
 
-最近哲学家卡洛斯·桑塔纳（Santana，2014）主张我们应该从保护生物学中消除生物多样性的概念。
+最近哲学家卡洛斯 · 桑塔纳（Santana，2014）主张我们应该从保护生物学中消除生物多样性的概念。
 
 > 保护生物学作为功利主义。生物多样性通常被视为保护生物学的目标，但生物世界由许多不同类型的多样性组成，这些多样性之间只有松散的相关性，并且与生物价值也只有松散的相关性。由于生物多样性概念在保护科学中的功能是帮助我们保护或增加生物价值，因此我们应考虑将生物多样性从保护理论和实践中的特权地位中剔除出去。 (Santana 2014: 778)
 
@@ -128,9 +128,9 @@ Santana 的论点的第二部分是，只有当存在与其他替代品协变且
 
 在生物科学中，很少听到有关法律的讨论；相反，人们更多地讨论模型。我们可以从考虑保护生物学中使用的一个简单模型开始，即一个种群模型（Hanski & Gilpin 1997; Levins 1970）。种群模型是指一种由空间上细分但通过迁移有因果联系的种群。设 P 为种群占据的比例， c 为占据新区域的速率， e 为区域灭绝的速率。因此，占据区域比例的瞬时变化率是被占据区域的比例减去发生灭绝的区域。从数学上讲，我们有：
 
-dPdt=cP(1−P)−eP
+dPdt = cP(1−P)−eP
 
-当 dP/dt=0 时，非平凡平衡比例为 P∗=(c−e)/c=1−e/c。因此，如果平衡比例大于零，则殖民速率必须大于灭绝速率；换句话说，只有在 c>e 的情况下 P∗>0。鉴于这是一个模型，其中包括假设本地种群在殖民和灭绝的机会上是相同的，殖民和灭绝的速率是恒定的，以及各个区域之间的距离并不重要。模型可以通过三个特征来描述——它们的参数、变量和规律（Otto & Day 2007）。参数描述恒定数值的属性，变量描述变化的属性，规律简单描述参数和变量之间的关系。因此，P 是一个变量，c 和 e 是参数，方程式 dP/dt=cP(1−P)−eP 是规律。请注意，模型师使用的“规律”一词并不一定与自然规律相同。例如，即使这个微分方程对任何种群都不成立，模型师也可能称上述方程为规律。
+当 dP/dt = 0 时，非平凡平衡比例为 P∗ =(c−e)/c = 1−e/c。因此，如果平衡比例大于零，则殖民速率必须大于灭绝速率；换句话说，只有在 c > e 的情况下 P∗ > 0。鉴于这是一个模型，其中包括假设本地种群在殖民和灭绝的机会上是相同的，殖民和灭绝的速率是恒定的，以及各个区域之间的距离并不重要。模型可以通过三个特征来描述——它们的参数、变量和规律（Otto & Day 2007）。参数描述恒定数值的属性，变量描述变化的属性，规律简单描述参数和变量之间的关系。因此，P 是一个变量，c 和 e 是参数，方程式 dP/dt = cP(1−P)−eP 是规律。请注意，模型师使用的“规律”一词并不一定与自然规律相同。例如，即使这个微分方程对任何种群都不成立，模型师也可能称上述方程为规律。
 
 保护生物学家在他们的工作的几乎每个方面都经常使用模型。因此，我们现在考虑几个保护生物学的案例研究。
 
@@ -138,19 +138,19 @@ dPdt=cP(1−P)−eP
 
 Metapopulation 模型非常重要，并已在环境争议中的一个最困难的领域之一中使用，即围绕北美斑鸮（Strix occidentalis caurina）及其栖息地（Durbin 1996; Norse 1990; Yaffee 1994）。北美斑鸮是一种亚种，专门生活在加利福尼亚北部、华盛顿西部和俄勒冈州的老长叶针叶林中。北美斑鸮是一夫一妻制的，每对繁殖夫妇使用面积至少为两百五十年的森林，面积为一至三平方英里。农场、伐木和其他形式的开发减少了北美斑鸮的栖息地。因此，科学家和决策者开始思考，如果我们要防止它们灭绝，我们必须做些什么？回答这个问题的一种方法是使用 Metapopulation 模型。
 
-1985 年，环境律师安德鲁·斯塔尔向数学生物学家拉塞尔·兰德提出了这个问题（Yaffee，1994: 98）。他向兰德展示了美国森林局的“区域指南”，这是他们保护北美斑点猫头鹰的计划，并询问兰德是否足够。他利用各种数据设计了以下的种群模型，试图回答这个问题（Lande，1988a，但也参见 Lande，1988b）。让ϵ表示雌性幼鸟继承母亲领地的概率，m 表示幼鸟在死亡之前可以通过的领地数量，h 表示可居住领地的比例，p 表示占据的可居住地点的比例。因此，在 m 次尝试中，雌性幼鸟找不到可居住领地的概率是，
+1985 年，环境律师安德鲁 · 斯塔尔向数学生物学家拉塞尔 · 兰德提出了这个问题（Yaffee，1994: 98）。他向兰德展示了美国森林局的“区域指南”，这是他们保护北美斑点猫头鹰的计划，并询问兰德是否足够。他利用各种数据设计了以下的种群模型，试图回答这个问题（Lande，1988a，但也参见 Lande，1988b）。让 ϵ 表示雌性幼鸟继承母亲领地的概率，m 表示幼鸟在死亡之前可以通过的领地数量，h 表示可居住领地的比例，p 表示占据的可居住地点的比例。因此，在 m 次尝试中，雌性幼鸟找不到可居住领地的概率是，
 
  (IGNORE) (1−ϵ)(ph+1−h)m
 
-这只是在母亲领地未被继承且在死亡前未成功迁移到未被占领领地的概率。北方斑点猫头鹰雌性仅在三岁时繁殖，我们可以用λ=Nt+1/Nt 来表示它们的增长率。当λ=1 时，该物种处于人口平衡状态。假设它们处于这种平衡状态，那么，
+这只是在母亲领地未被继承且在死亡前未成功迁移到未被占领领地的概率。北方斑点猫头鹰雌性仅在三岁时繁殖，我们可以用 λ = Nt+1/Nt 来表示它们的增长率。当 λ = 1 时，该物种处于人口平衡状态。假设它们处于这种平衡状态，那么，
 
-[1−(1−ϵ)(ph+1−h)m]R′0=1
+[1−(1−ϵ)(ph+1−h)m] R′0 = 1
 
 保育生物学作为功利主义。
 
 保护生物学作为功利主义
 
-在上述模型中，k 是领地的平衡占用率。根据这个模型，只有当 h>1−k 时，北美斑点猫头鹰才能持续存在。Lande 在 1987 年确定，华盛顿州和俄勒冈州西部的森林中有 38% 的树木年龄超过两百年。因此，h=0.38。野外调查表明，44% 的地点被占据。因此，p=0.44。我们可以从这个方程确定 k，k=1−h(1−p)。因此，k=0.79。森林规划建议留下 7−16% 的两百年或更久的老林。但考虑到 1−k=0.21，Lande 认为 7−16% 是不足的，森林规划应该进行修订。Lande 和其他人的工作导致美国森林局撤回了俄勒冈州和华盛顿州的六个老林木材销售，并成为 1994 年西北森林计划的一部分，该计划保护了 800 万英亩的老林。与森林局最初的猫头鹰计划保护的 5% 相比，这增加了对猫头鹰剩余栖息地的保护率至 80%。
+在上述模型中，k 是领地的平衡占用率。根据这个模型，只有当 h > 1−k 时，北美斑点猫头鹰才能持续存在。Lande 在 1987 年确定，华盛顿州和俄勒冈州西部的森林中有 38% 的树木年龄超过两百年。因此，h = 0.38。野外调查表明，44% 的地点被占据。因此，p = 0.44。我们可以从这个方程确定 k，k = 1−h(1−p)。因此，k = 0.79。森林规划建议留下 7−16% 的两百年或更久的老林。但考虑到 1−k = 0.21，Lande 认为 7−16% 是不足的，森林规划应该进行修订。Lande 和其他人的工作导致美国森林局撤回了俄勒冈州和华盛顿州的六个老林木材销售，并成为 1994 年西北森林计划的一部分，该计划保护了 800 万英亩的老林。与森林局最初的猫头鹰计划保护的 5% 相比，这增加了对猫头鹰剩余栖息地的保护率至 80%。
 
 像兰德（Lande）的模型以及种群生存力分析（PVA）通常容易受到一些批评（详见 Beissinger 和 McCullough（2002）关于 PVA 的讨论，以及 Wimsatt（1981）关于模型的稳健性和脆弱性的讨论）。它们表现出参数和结构敏感性；如果我们改变参数值或者改变模型的假设，通常会得到非常不同的结果。例如，Patrick Foley 研究了黄石国家公园中北极棕熊（Ursus arctic）的一个模型，该模型结合了环境随机性以及内在生长率和承载能力（Foley 1994）。该模型对上述估计值预测灭绝的预期时间为 12,000 年。然而，他后来研究了一个模型，该模型包括人口统计和环境随机性，但将人口统计随机性设为零（Foley 1997）。预期的灭绝时间约为 50 年。因此，PVA 模型在参数值和功能形式方面可能非常脆弱。
 
@@ -158,29 +158,29 @@ Metapopulation 模型非常重要，并已在环境争议中的一个最困难�
 
 ### 2.2 岛屿生物地理学
 
-岛屿生物地理学涉及岛屿上物种的分布和丰度。生物学家试图解释的基本模式之一是物种面积效应。也就是说，为什么较大的岛屿支持的物种比较小的岛屿更多？似乎随着岛屿面积的增加，物种丰富度也会增加。物种面积效应是面积效应的产物，即在较大的岛屿上发现的物种比较小的岛屿上更多，以及距离效应，即靠近大陆的岛屿比远离大陆的岛屿有更多的物种。E. O. 威尔逊（Wilson）和罗伯特·H·麦克阿瑟（MacArthur）提出了物种面积效应的著名潜在解释之一。他们通过他们的岛屿生物地理平衡模型（MacArthur & Wilson 1963, 1967）这样做。他们从几个假设开始。首先，岛屿上的物种丰富度具有稳定的平衡。其次，稳定的平衡是由从大陆到岛屿的移民率和岛屿上的灭绝率决定的。第三，岛屿与大陆的距离本身决定了移民率。第四，灭绝率仅由岛屿的大小决定。第五，稳定的平衡是动态的。岛屿上的物种数量是恒定的，但岛屿上的物种组成会发生变化。这种变化速率是物种更替率。
+岛屿生物地理学涉及岛屿上物种的分布和丰度。生物学家试图解释的基本模式之一是物种面积效应。也就是说，为什么较大的岛屿支持的物种比较小的岛屿更多？似乎随着岛屿面积的增加，物种丰富度也会增加。物种面积效应是面积效应的产物，即在较大的岛屿上发现的物种比较小的岛屿上更多，以及距离效应，即靠近大陆的岛屿比远离大陆的岛屿有更多的物种。E. O. 威尔逊（Wilson）和罗伯特 ·H· 麦克阿瑟（MacArthur）提出了物种面积效应的著名潜在解释之一。他们通过他们的岛屿生物地理平衡模型（MacArthur & Wilson 1963, 1967）这样做。他们从几个假设开始。首先，岛屿上的物种丰富度具有稳定的平衡。其次，稳定的平衡是由从大陆到岛屿的移民率和岛屿上的灭绝率决定的。第三，岛屿与大陆的距离本身决定了移民率。第四，灭绝率仅由岛屿的大小决定。第五，稳定的平衡是动态的。岛屿上的物种数量是恒定的，但岛屿上的物种组成会发生变化。这种变化速率是物种更替率。
 
 MacArthur 和 Wilson 根据以下假设制定了一个数学模型（Wilson & Bossert 1971）。假设 P 是代表物种库存的参数。让总移民率 λS 表示每单位时间定居在岛上的新物种数量。让总灭绝率 μS 表示每单位时间在岛上灭绝的物种数量。因此，岛上物种数量的瞬时变化率是，
 
-dSdt=λS−μS
+dSdt = λS−μS
 
-如果λS=μS，则 dS/dt=0，我们有一个平衡 S∗。假设我们的岛上存在 S 种。我们将总移民率描述如下。让λA 成为每单位时间新物种殖民该岛的平均移民率，因此总移民率为λS=λA(P−S)。总灭绝率也可以被描述。让每种物种的平均灭绝率为μA。那么μS=μAS。因此，dS/dt=λA(P−S)−μA。最后，我们可以推导在平衡 S∗处评估的 dS/dt。
+如果 λS = μS，则 dS/dt = 0，我们有一个平衡 S∗。假设我们的岛上存在 S 种。我们将总移民率描述如下。让 λA 成为每单位时间新物种殖民该岛的平均移民率，因此总移民率为 λS = λA(P−S)。总灭绝率也可以被描述。让每种物种的平均灭绝率为 μA。那么 μS = μAS。因此，dS/dt = λA(P−S)−μA。最后，我们可以推导在平衡 S∗ 处评估的 dS/dt。
 
 保护生物学作为功利主义
 
 这相当于以下表达方式
 
-S∗=λAPλA+μA
+S∗ = λAPλA+μA
 
 通过积分方程，我们得到，
 
-S∗=λAPλA+μA(1−e−(λA+μA)t)
+S∗ = λAPλA+μA(1−e−(λA+μA)t)
 
 随着 t 的增加，e^(-λA-μA)t 逐渐接近零。
 
-我们还可以推导出物种更替率的表达式。正如我们所看到的，马卡锡和威尔逊认为，尽管岛上的物种数量是恒定的，但它们的身份会不断变化。假设我们对平衡物种数量 S∗的某个比例感兴趣，比如说 90%。然后，我们将上述两边乘以 0.9，得到 0.9S∗=λAP/(λA+μA)×0.9。由此可知，(1−e−(λA+μA)t)=0.9。通过一些代数运算并取自然对数，我们得到了物种更替率。
+我们还可以推导出物种更替率的表达式。正如我们所看到的，马卡锡和威尔逊认为，尽管岛上的物种数量是恒定的，但它们的身份会不断变化。假设我们对平衡物种数量 S∗ 的某个比例感兴趣，比如说 90%。然后，我们将上述两边乘以 0.9，得到 0.9S∗ = λAP/(λA+μA)×0.9。由此可知，(1−e−(λA+μA)t)= 0.9。通过一些代数运算并取自然对数，我们得到了物种更替率。
 
-t0.9=2.3λA+μA
+t0.9 = 2.3λA+μA
 
 最后，让我们假设每个物种 Si 的大小与岛屿的面积成比例，物种灭绝的概率随着岛屿变小而减小。
 
@@ -196,13 +196,13 @@ t0.9=2.3λA+μA
 
 当移民率 I 和灭绝率 E 相交时，物种平衡为 S∗（图 3B）。此外，移民率为 Inear，灭绝率为 Elarge 的岛屿具有最大的物种平衡。具有最小物种平衡的是移民率为 Ifar 和灭绝率为 Esmall 的岛屿（图 3A）。
 
-在构建他们的模型之后，E. O. 威尔逊和他的研究生丹尼尔·辛伯洛夫通过在佛罗里达群岛进行自然实验来测试模型（辛伯洛夫和威尔逊，1970）。他们让不同大小和距离大陆不同的岛屿失去动物。然后，他们可以评估模型的预测和假设。他们确定物种丰富度恢复到先前的平衡状态，岛屿上的物种丰富度似乎取决于岛屿的大小和距离大陆的距离。然而，辛伯洛夫能够表明平衡模型预测的物种周转率要高得多，超过了实际测量值（辛伯洛夫，1976）。在某种程度上，模型预测不准确并不令人意外，因为它是高度理想化的。麦克阿瑟和威尔逊假设距离单独决定移民率，大小单独决定灭绝率。麦克阿瑟和威尔逊写道，
+在构建他们的模型之后，E. O. 威尔逊和他的研究生丹尼尔 · 辛伯洛夫通过在佛罗里达群岛进行自然实验来测试模型（辛伯洛夫和威尔逊，1970）。他们让不同大小和距离大陆不同的岛屿失去动物。然后，他们可以评估模型的预测和假设。他们确定物种丰富度恢复到先前的平衡状态，岛屿上的物种丰富度似乎取决于岛屿的大小和距离大陆的距离。然而，辛伯洛夫能够表明平衡模型预测的物种周转率要高得多，超过了实际测量值（辛伯洛夫，1976）。在某种程度上，模型预测不准确并不令人意外，因为它是高度理想化的。麦克阿瑟和威尔逊假设距离单独决定移民率，大小单独决定灭绝率。麦克阿瑟和威尔逊写道，
 
 > 我们并不认为，接下来章节中提出的特定表述能够长期适应未来实证研究的严格结果。我们希望它们能够促进新形式的理论和实证研究，进而导致更强大的一般理论...（MacArthur & Wilson 1967）
 
 保护生物学家迅速接受了这一模型，并开始将其应用于新的主题，其中最重要的是保护区设计。
 
-几位保护生物学家，尤其是贾里德·戴蒙德（Jared Diamond），认为单一大型保护区比多个小型保护区更好（SLOSS）（Diamond 1975a，b；May 1975；Terborgh 1975；Wilson & Willis 1975）。
+几位保护生物学家，尤其是贾里德 · 戴蒙德（Jared Diamond），认为单一大型保护区比多个小型保护区更好（SLOSS）（Diamond 1975a，b；May 1975；Terborgh 1975；Wilson & Willis 1975）。
 
 ![6 rows, in the center of each row is a letter, A through F descending In the A row is a large circle on the left and a medium circles on the right The B row has a medium circle on the left and 4 small circles in a compact 2x2 array The C row has the compact 2x2 array of small circles on the left and a far less compact 2x2 array of small circles on the right The D row has 3 small circles in a compact triangular formation on the left and 3 small circles in a row on the right The E row has 3 small circles in a row connected by corridors on the left and 3 unconnected circles in a row on the right same as D's right The F row has a small circle on the left and a wide but vertically narrow blob on the right](https://plato.stanford.edu/entries/conservation-biology/Diamond.jpeg)
 
@@ -210,7 +210,7 @@ t0.9=2.3λA+μA
 
 辩论的原则包括：（A）较大的保护区比较小的更好，（B）一个大的保护区比同样总面积的几个小的更好，（C）彼此靠近的几个保护区比相距较远的几个更好，（D）当有几个保护区时，它们应该等距分组而不是线性分布，（E）通过走廊连接的保护区比未连接的更好，以及（F）紧凑的形状更有利于减少边界长度（1975b: 143–5）。
 
-通常，物种与面积之间的关系可以用以下方程表示，S=kAz，其中 S 是物种丰富度，A 是面积，k 和 z 是常数（z 通常在 0.2 和 0.35 之间）。显然，其他条件相同的情况下，随着 A 的增加，S 也应该增加。因此，人们认为，较大的保护区比较小的保护区更有利于保护物种。需要注意的是，如果保护区与其他保护区隔离，那么根据平衡模型，只有灭绝率才重要。1976 年，丹尼尔·辛伯洛夫（Daniel Simberloff）和劳伦斯·阿贝尔（Lawrence Abele）认为这种论点是错误的（Simberloff & Abele 1976）。假设我们有一个面积为 A1 的单一保护区，并将其与两个面积分别为 A2=A1/2 的保护区相对比，且 z=0.263（这个精确值对论点并不重要）。两个小保护区中的每一个都将有 S2=kAz2 个物种。如果池中的所有物种 P 都能够在避难所中传播并存活，那么两个避难所中预期的物种总数是 2S2−S22/P；即两个小保护区中的物种数减去两者共有的物种数。大保护区 A1 中会有多少物种 S1？辛伯洛夫和阿贝尔确定了 S1=kAz1=k(2A2)z=1.200×S2。他们指出，当 S1/P<0.96 时，这比两个较小保护区中的预期总物种数 2S2−S22/P 要少。在保护区设计中使用平衡模型的另一个重要批评是，保护区不像海洋中的岛屿（Margules, Higgs, & Rafe 1982）。具体来说，平衡模型假设在大陆和岛屿之间，池中的物种都无法存在；即，移民率为零。然而，当考虑到保护区之间的区域时，即使物种的丰度较低，物种也经常出现。因此，平衡模型不能在不违反其假设的情况下扩展到其他栖息地类型，如山顶（J.H. Brown 1971）。
+通常，物种与面积之间的关系可以用以下方程表示，S = kAz，其中 S 是物种丰富度，A 是面积，k 和 z 是常数（z 通常在 0.2 和 0.35 之间）。显然，其他条件相同的情况下，随着 A 的增加，S 也应该增加。因此，人们认为，较大的保护区比较小的保护区更有利于保护物种。需要注意的是，如果保护区与其他保护区隔离，那么根据平衡模型，只有灭绝率才重要。1976 年，丹尼尔 · 辛伯洛夫（Daniel Simberloff）和劳伦斯 · 阿贝尔（Lawrence Abele）认为这种论点是错误的（Simberloff & Abele 1976）。假设我们有一个面积为 A1 的单一保护区，并将其与两个面积分别为 A2 = A1/2 的保护区相对比，且 z = 0.263（这个精确值对论点并不重要）。两个小保护区中的每一个都将有 S2 = kAz2 个物种。如果池中的所有物种 P 都能够在避难所中传播并存活，那么两个避难所中预期的物种总数是 2S2−S22/P；即两个小保护区中的物种数减去两者共有的物种数。大保护区 A1 中会有多少物种 S1？辛伯洛夫和阿贝尔确定了 S1 = kAz1 = k(2A2)z = 1.200×S2。他们指出，当 S1/P < 0.96 时，这比两个较小保护区中的预期总物种数 2S2−S22/P 要少。在保护区设计中使用平衡模型的另一个重要批评是，保护区不像海洋中的岛屿（Margules, Higgs, & Rafe 1982）。具体来说，平衡模型假设在大陆和岛屿之间，池中的物种都无法存在；即，移民率为零。然而，当考虑到保护区之间的区域时，即使物种的丰度较低，物种也经常出现。因此，平衡模型不能在不违反其假设的情况下扩展到其他栖息地类型，如山顶（J.H. Brown 1971）。
 
 保护生物学作为功利主义。SLOSS 辩论激烈，争论持续了相当长一段时间。岛屿生物地理学平衡模型的重要性被广泛讨论并激烈争议（R.J. Whittaker & Fernández-Palacios 2007）。
 
@@ -240,11 +240,11 @@ t0.9=2.3λA+μA
 
 保护生物学作为功利主义的一种表现方式。
 
-∃p，kp∈K，使得 wpn<wpm∀q，kq∈K，wqn≤wqm
+∃p，kp∈K，使得 wpn < wpm∀q，kq∈K，wqn≤wqm
 
-这意味着在 kp∈K 中，αn 至少在一个标准上严格优于αm，并且在 K 中的任何标准 ki∈K 下都不比αm 差。另一个αi∈A 如果且仅如果它不被 A 中的任何其他元素所支配，则是非支配的。因此，利用多准则分析，我们试图从中找到一组非支配的备选方案，以设计保护区网络。我们简要考虑了 Sarkar（2012: 204–6）的一个例子。我们从对德克萨斯州每种脊椎动物物种的 10 个代表性六边形列表的 100 次尝试开始进行地点优先排序。有三十二个可行解决方案——满足保护目标的解决方案。然而，另外两个标准用于多准则分析，即经济成本和社会成本。第一个是通过每个六边形的保护计划成本来估算的，第二个是通过每个六边形包括的人口规模来估算的。从三十二个可行解决方案中，只有两个非支配解决方案被多准则分析选中。
+这意味着在 kp∈K 中，αn 至少在一个标准上严格优于 αm，并且在 K 中的任何标准 ki∈K 下都不比 αm 差。另一个 αi∈A 如果且仅如果它不被 A 中的任何其他元素所支配，则是非支配的。因此，利用多准则分析，我们试图从中找到一组非支配的备选方案，以设计保护区网络。我们简要考虑了 Sarkar（2012: 204–6）的一个例子。我们从对德克萨斯州每种脊椎动物物种的 10 个代表性六边形列表的 100 次尝试开始进行地点优先排序。有三十二个可行解决方案——满足保护目标的解决方案。然而，另外两个标准用于多准则分析，即经济成本和社会成本。第一个是通过每个六边形的保护计划成本来估算的，第二个是通过每个六边形包括的人口规模来估算的。从三十二个可行解决方案中，只有两个非支配解决方案被多准则分析选中。
 
-![A graph captioned with 'Feasible and NonDominated Solutions', the yaxis is labeled 'Social Cost' and marked from 000E00 to 800E06 and the xaxis is labeled 'Economic Cost' and marked from 145E08 to 180E08 The legend has solid squares labeled 'Feasible Solutions' and solid circles labeled 'NonDominated Solutions' The graph itself has the 28 or so squares scattered between 300E06 and 600E06 on the y and 150E08 and 165E08 on the x 2 squares are outliers, one at 700E06 and 163E08 y,x and the other at 600E06 and 175E08 The two circles are at 300E06 and 146E08 y,x and at 250E06 and 155E08](https://plato.stanford.edu/entries/conservation-biology/Sarkar.jpeg)
+![A graph captioned with 'Feasible and NonDominated Solutions', the yaxis is labeled 'Social Cost' and marked from 000E00 to 800E06 and the xaxis is labeled 'Economic Cost' and marked from 145E08 to 180E08 The legend has solid squares labeled 'Feasible Solutions' and solid circles labeled 'NonDominated Solutions' The graph itself has the 28 or so squares scattered between 300E06 and 600E06 on the y and 150E08 and 165E08 on the x 2 squares are outliers, one at 700E06 and 163E08 y, x and the other at 600E06 and 175E08 The two circles are at 300E06 and 146E08 y, x and at 250E06 and 155E08](https://plato.stanford.edu/entries/conservation-biology/Sarkar.jpeg)
 
 图 5：德克萨斯州的地点优先级和多标准分析（Sarkar 2012: 206）
 
@@ -275,7 +275,7 @@ t0.9=2.3λA+μA
 
 让我们考虑如何发展更加务实的科学哲学。一些哲学家区分认识论价值和非认识论价值（Kuhn 1977; McMullin 1982; Longino 1990, 1996; Lacey 1999; Laudan 2004; Douglas 2009, 2013; Steel 2010）。前者涉及真理和相关概念，如证明和解释，而后者涉及平等、利润、健康、安全等主题。清楚地区分这两种价值观可能非常困难，试图这样做很快就会引入伦理和元伦理问题。然而，在科学领域，我们有认识论问题，比如“模型的理论术语是否指涉现存实体？”，“这个模型是否近似真实或经验准确？”，“这个模型的预测有多准确？”同样，我们也有非认识论问题，比如“使用这个模型容易吗？”，“这个假设对我们当前的目的来说足够准确吗？”，“这个理论能够及时提供结果吗？”，“使用这个模型相对廉价吗？”（Elliott 和 McKaughan，2014，4–5）。因此，在科学中似乎既有认识论价值又有非认识论价值，即使两者之间的界线很难划定。此外，我们经常用非认识论考虑来评估我们的理论和模型。正如 Ronald Giere 所主张的，“科学家使用模型来代表世界的特定方面”（Giere 2004, 742）。这些科学表征被用于各种目的。这些目的不仅仅是认识论的；有些是非认识论的。此外，认识论价值和非认识论价值或目的之间存在权衡。例如，我们可以通过增加可调参数的数量来提高模型的预测准确性。然而，这也会增加测量这些参数所需的工作量，而且可能成本过高。因此，一些科学哲学家认为，非认识论价值在促进科学探究目标时可能比认识论价值更重要（Elliott McKaughan 2014; Hicks 2014; Intemann 2015）。
 
-有人可能会反对，认为科学的基本目标是认识论的，而不是非认识论的，或者认为认识论的价值应该限制非认识论的价值（Douglas 2009; Steel 2010, 2015; Steel and Whyte 2012）。仍然会有人提出异议。首先，很明显，实际目标至少有时会超过认识论目标。扭曲模型真实性的理想化可能会被实际考虑所证明，比如更高的计算效率或可处理性。其次，只要非认识论的价值超过认识论的价值，这可以在科学家对其理论和模型的态度中得到谨慎地反映。例如，他们可能不认为某个模型是真实的，而是接受它用于某个领域的预测或者用于非常具体情境下的政策制定。然而，正如丹尼尔·斯蒂尔所主张的，如果科学探究不优先考虑认识论的价值，那么它就会受到他所称的伊布森困境的影响（取自亨利克·伊布森的《人民的敌人》）。伊布森困境发生在以下情况下：（a）社区高度重视的目标与某种活动相关联，（b）这种活动会产生严重的有害影响，（c）如果这些影响被广泛认知并采取行动，社区将受到威胁（Steel 2017, 51）。
+有人可能会反对，认为科学的基本目标是认识论的，而不是非认识论的，或者认为认识论的价值应该限制非认识论的价值（Douglas 2009; Steel 2010, 2015; Steel and Whyte 2012）。仍然会有人提出异议。首先，很明显，实际目标至少有时会超过认识论目标。扭曲模型真实性的理想化可能会被实际考虑所证明，比如更高的计算效率或可处理性。其次，只要非认识论的价值超过认识论的价值，这可以在科学家对其理论和模型的态度中得到谨慎地反映。例如，他们可能不认为某个模型是真实的，而是接受它用于某个领域的预测或者用于非常具体情境下的政策制定。然而，正如丹尼尔 · 斯蒂尔所主张的，如果科学探究不优先考虑认识论的价值，那么它就会受到他所称的伊布森困境的影响（取自亨利克 · 伊布森的《人民的敌人》）。伊布森困境发生在以下情况下：（a）社区高度重视的目标与某种活动相关联，（b）这种活动会产生严重的有害影响，（c）如果这些影响被广泛认知并采取行动，社区将受到威胁（Steel 2017, 51）。
 
 保育生物学作为功利主义的例子。看起来科学中存在认识论价值和非认识论价值。后者是否应优先于前者是当前哲学讨论的主题。保育生物学很可能是这样一门科学，其中非认识论价值应优先于认识论价值。然而，我们还有几个问题。首先，我们如何区分科学中的认识论价值和非认识论价值？其次，如果我们能够区分它们，非认识论价值有时是否比认识论价值更重要？第三，如果非认识论价值有时比认识论价值更重要，这种情况是否发生在保育生物学中？这些非认识论价值是否包括道德和政治价值？现在我们转向涉及这些价值的问题。
 
@@ -285,7 +285,7 @@ t0.9=2.3λA+μA
 
 ### 3.1 归纳风险和价值负载
 
-科学决策涉及价值观。然而，一些人认为存在的价值观仅仅是认识论价值（Laudan，1986）。例如，托马斯·库恩（Kuhn，1977）认为，科学理论是根据准确性、一致性、范围、简单性和富有成果性来评估的。此外，他将这些视为价值观，因为它们过于模糊，需要解释，并且它们很多，因此需要权衡。如果它们仅仅是方法论规则，那么这些问题就不会存在。然而，它们似乎是认识论的。保护生物学作为一个有趣的案例，因为在其核心似乎存在道德和社会政治价值观（Longino，1990）。也就是说，它们不仅仅是认识论的。
+科学决策涉及价值观。然而，一些人认为存在的价值观仅仅是认识论价值（Laudan，1986）。例如，托马斯 · 库恩（Kuhn，1977）认为，科学理论是根据准确性、一致性、范围、简单性和富有成果性来评估的。此外，他将这些视为价值观，因为它们过于模糊，需要解释，并且它们很多，因此需要权衡。如果它们仅仅是方法论规则，那么这些问题就不会存在。然而，它们似乎是认识论的。保护生物学作为一个有趣的案例，因为在其核心似乎存在道德和社会政治价值观（Longino，1990）。也就是说，它们不仅仅是认识论的。
 
 让我们考虑归纳风险的论证（Douglas 2000; Hempel 1965; Rudner 1953，以及在保护生物学的背景下参见 Shrader-Frechette & McCoy 1993：第 6 章）。在标准的 Neyman-Pearson 假设检验中，我们制定一个零假设 H0 和一个备择假设 H1（Gotelli & Ellison 2013）。零假设陈述：“C 没有影响 E”。备择假设是否定的，陈述“C 有影响 E”。因此存在两种相关的错误概率。
 
@@ -298,14 +298,14 @@ t0.9=2.3λA+μA
 
 我们也可以将它们表示为，
 
-Pr(拒绝 H0∣H0 为真)=α Pr(接受 H0∣H0 为假)=β
+Pr(拒绝 H0∣H0 为真)= α Pr(接受 H0∣H0 为假)= β
 
 假设我们有以下的零假设和备择假设（Noon 和 McKelvey，1996 年，Noon 和 Blakesley，2006 年）。
 
 > H0：砍伐原始森林不会减少北美斑点猫头鹰种群
 > H1: 伐木老生态森林将会减少北美斑点猫头鹰种群
 
-因此，再次出现了两个错误。我们拒绝 H0，并且砍伐老龄林不会减少北美斑点猫头鹰的数量。我们接受 H0，并且砍伐老龄林将会减少北美斑点猫头鹰的数量。出于数学原因，我们无法同时将第一类和第二类错误最小化，因此我们必须将α或β最小化。按照惯例，科学家们试图将第一类错误最小化；也就是说，保守生物学作为功利主义。
+因此，再次出现了两个错误。我们拒绝 H0，并且砍伐老龄林不会减少北美斑点猫头鹰的数量。我们接受 H0，并且砍伐老龄林将会减少北美斑点猫头鹰的数量。出于数学原因，我们无法同时将第一类和第二类错误最小化，因此我们必须将 α 或 β 最小化。按照惯例，科学家们试图将第一类错误最小化；也就是说，保守生物学作为功利主义。
 
 > 只有当 Pr(拒绝 H0∣H0 为真) < 0.05 时，才拒绝 H0。
 
@@ -313,7 +313,7 @@ Pr(拒绝 H0∣H0 为真)=α Pr(接受 H0∣H0 为假)=β
 
 Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也被实践生物学家使用。然而，一些哲学家和统计学家拒绝它，转而选择贝叶斯主义（Howson & Urbach 2006）。根据贝叶斯主义，我们既不接受也不拒绝假设（尽管可以在框架中制定一种接受的概念（见 Levi 1974; Maher 1993））。相反，我们比较假设在某些证据下的概率，并确定它如何影响其概率（参见哲学统计学条目）。在贝叶斯推理框架中归纳风险问题是否消失是一个有趣的问题。就信念（即主观信念程度）受到风险态度影响而言，可以说问题以不同的形式出现。
 
-无论一个人是否认为归纳风险论的论点具有说服力，都清楚伦理和社会政治价值被各种科学家带入科学本身（参见科学客观性条目）。保护生物学家如保罗·埃利希（Paul Ehrlich）、E. O. 威尔逊（E. O. Wilson）、托马斯·洛夫乔伊（Thomas Lovejoy）等经常作为科学家倡导伦理价值，以提高人们对生态退化及其对物种（包括我们自己）的影响的认识（Takacs，1996）。假设在保护生物学中存在认识论和道德价值，那么具体存在哪些价值呢？对这些价值进行分类的一种方法是通过海伦·朗吉诺（Helen Longino）的工作（Longino，1990）（参见女性主义认识论和科学哲学条目）。她在科学中区分了构成性价值和情境性价值。构成性价值是科学探究所必不可少的价值。例如，如果库恩（Kuhn）正确地认为准确性、简洁性和广度是价值观，并且它们对科学方法论至关重要，那么这些将是构成性价值。没有这些价值，你根本无法从事科学研究。情境性价值是科学中偶然出现的价值；它们来自科学发生的个人、社会和文化背景。值得注意的是认识论/非认识论价值的区分与构成性/情境性价值的区分相关但又不同。例如，有人可能会认为诚实是科学探究的构成伦理价值（Pennock，2019）。同样，有人可能会认为某些科学家具有不同的情境性认识承诺（Segerstråle，2000）。
+无论一个人是否认为归纳风险论的论点具有说服力，都清楚伦理和社会政治价值被各种科学家带入科学本身（参见科学客观性条目）。保护生物学家如保罗 · 埃利希（Paul Ehrlich）、E. O. 威尔逊（E. O. Wilson）、托马斯 · 洛夫乔伊（Thomas Lovejoy）等经常作为科学家倡导伦理价值，以提高人们对生态退化及其对物种（包括我们自己）的影响的认识（Takacs，1996）。假设在保护生物学中存在认识论和道德价值，那么具体存在哪些价值呢？对这些价值进行分类的一种方法是通过海伦 · 朗吉诺（Helen Longino）的工作（Longino，1990）（参见女性主义认识论和科学哲学条目）。她在科学中区分了构成性价值和情境性价值。构成性价值是科学探究所必不可少的价值。例如，如果库恩（Kuhn）正确地认为准确性、简洁性和广度是价值观，并且它们对科学方法论至关重要，那么这些将是构成性价值。没有这些价值，你根本无法从事科学研究。情境性价值是科学中偶然出现的价值；它们来自科学发生的个人、社会和文化背景。值得注意的是认识论/非认识论价值的区分与构成性/情境性价值的区分相关但又不同。例如，有人可能会认为诚实是科学探究的构成伦理价值（Pennock，2019）。同样，有人可能会认为某些科学家具有不同的情境性认识承诺（Segerstråle，2000）。
 
 保护生物学作为功利主义。一些这些背景价值观是由个人因其自身承诺而产生的。例如，E. O. 威尔逊（Wilson 1992）写了大量文章，主张我们应该反对人为物种灭绝。群体背景价值观包括道德准则。例如，保护生物学学会有一份道德准则（请参阅其他互联网资源）。其中包括义务，如
 
@@ -326,7 +326,7 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 
 最近，许多人类生命因埃博拉病毒属中的扎伊尔埃博拉病毒而丧生。要消灭这种病毒或这个属可能被认为在道德上并不是错误的，而是在道德上是允许的，甚至是义务的。诺斯（Noss）认为这是道德上错误的，这一观点可能会引起许多人的争议。
 
-考虑生物多样性具有内在价值的说法（参见环境伦理学条目）。保护生物学家应该接受这一观点吗？迈克尔·索勒（Michael Soulé）曾声称，保护生物学包括各种“规范前提”，其中包括：生物多样性是好的，生态复杂性是好的，进化是好的，生物多样性具有内在价值（Soulé 1985: 730–1）。他写道，
+考虑生物多样性具有内在价值的说法（参见环境伦理学条目）。保护生物学家应该接受这一观点吗？迈克尔 · 索勒（Michael Soulé）曾声称，保护生物学包括各种“规范前提”，其中包括：生物多样性是好的，生态复杂性是好的，进化是好的，生物多样性具有内在价值（Soulé 1985: 730–1）。他写道，
 
 > 保育生物学作为功利主义。这一规范前提是最基本的。强调非人类生命的固有价值，它区分了二元的、剥削性的世界观与更统一的视角：物种本身具有价值。这种价值既不是赋予的，也不可撤销，而是源自物种悠久的进化遗产和潜力，甚至源自其存在的事实。（Soulé 1985: 731）
 
@@ -334,23 +334,23 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 
 第二，保护生物学家们本身对这个问题并不一致。以下是保护生物学家在这个问题上的代表性引用（引自 Takacs 1996 年：249-252）。
 
-> 大卫·埃伦菲尔德：对于生物多样性，价值即在于此。没有更多，也没有更少……嗯，我无法证明，我想我只是相信而已。
+> 大卫 · 埃伦菲尔德：对于生物多样性，价值即在于此。没有更多，也没有更少……嗯，我无法证明，我想我只是相信而已。
 >
-> 保罗·埃尔利希：「……我只是无法认同物种可能仅仅对我们有意义这种感觉。但你不可能在科学上为此辩护。」
+> 保罗 · 埃尔利希：「……我只是无法认同物种可能仅仅对我们有意义这种感觉。但你不可能在科学上为此辩护。」
 >
-> 杰瑞·富兰克林：「噢，我基本上是这么认为的，是的。但我还没有仔细考虑过这个问题。」
+> 杰瑞 · 富兰克林：「噢，我基本上是这么认为的，是的。但我还没有仔细考虑过这个问题。」
 >
-> 丹尼尔·扬岑（Daniel Janzen）：“价值这个词是以人类为中心的……这是个自相矛盾的说法”。
+> 丹尼尔 · 扬岑（Daniel Janzen）：“价值这个词是以人类为中心的……这是个自相矛盾的说法”。
 >
 > S. J. MacNaughton：「我不明白任何事物如何能够在人类赋予其价值之外拥有价值，因为价值实际上是一种独特的人类特质，不是吗？」
 >
-> David Pimmentel："[I]n trying to protect or conserve nature, to use the argument of intrinsic value gets you—well, I don’t think it sells very well". 大卫·皮门特尔：在试图保护或保护自然时，使用固有价值的论点会让你——嗯，我认为这卖相不太好。
+> David Pimmentel："[I] n trying to protect or conserve nature, to use the argument of intrinsic value gets you—well, I don’t think it sells very well". 大卫 · 皮门特尔：在试图保护或保护自然时，使用固有价值的论点会让你——嗯，我认为这卖相不太好。
 
 如果著名的保护生物学家在生物多样性是否具有内在价值以及宣称其含义方面存在分歧，人们可能会问它如何可能首先成为公理。
 
 ### 3.2 “新保育主义”
 
-最近，Soulé的愿景受到了“新保护主义者”的质疑。Peter Kareiva 和 Michelle Marvier 提出了对保护生物学或他们所称的“保护科学”提出了不同的基础（Kareiva & Marvier 2012）。他们认为，出于各种原因，这门科学需要一个新的规范方向。首先，保护生物学传统上侧重于保护自然系统的固有价值。然而，他们认为，只有通过接受这些系统为人类提供的工具价值，生态系统才能得到成功管理。他们声称，传统的保护生物学是以牺牲第三世界利益相关者的利益为代价，并违背了妇女的利益。其次，我们生活在一个深受人类影响的星球上；以至于许多人认为我们生活在一个新的地质时代，即人类世。人口约为 70 亿，我们的能源消耗随着时间的推移而不断增加。人类已经砍伐森林、城市化、污染、灭绝动植物并过度捕捞，以至于再也找不到“原始”自然了。“堡垒保护”是我们应该做和能做的过时模式。此外，随着时间的推移，人们对环境产品和服务的价值越来越低。因此，我们必须关注人们关心的事情，并通过这些评估来激励他们。第三，生态系统并非像传统生态学所暗示的那样脆弱。相反，它们具有非凡的弹性。海洋系统可以克服油污泄漏，毁林地区可以恢复，鸟类物种可能减少但很少被完全消灭，珊瑚礁甚至可以从氢弹中恢复过来。第四，我们可以避免“公地悲剧”，这一直是解释环境决策的主要理论结构。在 Elinor Ostrom 的研究之后，当地的参与可以消除导致这种零和行为的自私行为（Ostrom 1990）。为了向前迈进，他们建议我们认识到保护只能发生在受人类影响的景观中；我们应该与企业合作，而不仅仅是反对它们；我们应该避免威胁被剥夺权利的人的人权。
+最近，Soulé 的愿景受到了“新保护主义者”的质疑。Peter Kareiva 和 Michelle Marvier 提出了对保护生物学或他们所称的“保护科学”提出了不同的基础（Kareiva & Marvier 2012）。他们认为，出于各种原因，这门科学需要一个新的规范方向。首先，保护生物学传统上侧重于保护自然系统的固有价值。然而，他们认为，只有通过接受这些系统为人类提供的工具价值，生态系统才能得到成功管理。他们声称，传统的保护生物学是以牺牲第三世界利益相关者的利益为代价，并违背了妇女的利益。其次，我们生活在一个深受人类影响的星球上；以至于许多人认为我们生活在一个新的地质时代，即人类世。人口约为 70 亿，我们的能源消耗随着时间的推移而不断增加。人类已经砍伐森林、城市化、污染、灭绝动植物并过度捕捞，以至于再也找不到“原始”自然了。“堡垒保护”是我们应该做和能做的过时模式。此外，随着时间的推移，人们对环境产品和服务的价值越来越低。因此，我们必须关注人们关心的事情，并通过这些评估来激励他们。第三，生态系统并非像传统生态学所暗示的那样脆弱。相反，它们具有非凡的弹性。海洋系统可以克服油污泄漏，毁林地区可以恢复，鸟类物种可能减少但很少被完全消灭，珊瑚礁甚至可以从氢弹中恢复过来。第四，我们可以避免“公地悲剧”，这一直是解释环境决策的主要理论结构。在 Elinor Ostrom 的研究之后，当地的参与可以消除导致这种零和行为的自私行为（Ostrom 1990）。为了向前迈进，他们建议我们认识到保护只能发生在受人类影响的景观中；我们应该与企业合作，而不仅仅是反对它们；我们应该避免威胁被剥夺权利的人的人权。
 
 正如人们所预料的那样，新的保护主义者受到了强烈挑战。例如，David Doak、Victoria Bakker、Bruce Goldstein 和 Ben Hale 在各个方面对他们的主张提出了质疑（Doak 等人，2014 年）。首先，他们认为 Kareiva 和 Marvier 专注于以最狭隘的经济术语关注人类福祉。此外，保护从来不仅仅是为了“超越人类世界”，而是有着丰富的传统，也在管理人类利益方面有所作为。其次，存在许多相对未受干扰的生态系统，而其他一些生态系统已经遭受了人类的不可逆转的影响（例如，人为全球气候变化）。第三，他们认为，狭隘的人类中心主义保护方法在成功方面几乎没有证据支持。传统方法在很大程度上证明了它们的优势。此外，尽管一些保护项目已经使土著民族受到了排斥，但保护组织在过去几十年里一直在努力避免这些环境不公正。第四，他们质疑社会科学声称环境态度已经发生根本变化，并指出行动者很少是新保护主义者所暗示的那样自我激励和冷漠。最后，如果一个人只致力于人类福祉，而对生态系统的道德地位漠不关心，那么我们应该投资的不是自然保护协会，而是“拯救儿童”、“乐施会”和“为人民提供水源”。
 
@@ -377,8 +377,8 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 * Bolten, A.B. and B.E. Witherington, 2003, *Loggerhead Sea Turtles*, Washington, DC: Smithsonian Books.
 * Brown, J.H., 1971, “Mammals on mountaintops: Nonequilibrium insular biogeography”, *American Naturalist*, 105(945): 467–478.
 * Brown, M.J., 2013, “Values in science beyond underdetermination and inductive risk”, *Philosophy of Science*, 80(5): 829–839.
-* Brussard, P.F. and J.C. Tull, 2007, “Conservation biology and four types of advocacy”, *Conservation Biology*, 21(1): 21–24. doi:10.1111/j.1523-1739.2006.00640.x
-* Burke, I. and B. Lauenroth, 2009, “‘Environmentalist’ Label not in our best interests”, *Frontiers in Ecology and the Environment*, 7(5): 240–240. doi:10.1890/09.WB.016
+* Brussard, P.F. and J.C. Tull, 2007, “Conservation biology and four types of advocacy”, *Conservation Biology*, 21(1): 21–24. doi: 10.1111/j.1523-1739.2006.00640.x
+* Burke, I. and B. Lauenroth, 2009, “‘Environmentalist’ Label not in our best interests”, *Frontiers in Ecology and the Environment*, 7(5): 240–240. doi: 10.1890/09.WB.016
 * Carnap, R., 1950/1962, “Logical foundations of probability”, Chicago: University of Chicago Press.
 * Cafaro, P., Butler, T., Crist, E., Cryer, P., Dinerstein, E., Kopnina, H., Noss, R., Piccolo, J., Taylor, B., Vynne, C. and Washington, H., 2017, “If we want a whole Earth, Nature Needs Half: a response to Büscher et al.”, *Oryx*, 51(3): 400–400.
 * Cartwright, N., 1983, *How the Laws of Physics Lie*, Cambridge: Cambridge University Press.
@@ -406,7 +406,7 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 * –––, 1994, “Phylogenetic pattern and the quantification of organismal biodiversity”, *Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences*, 345(1311): 45–58.
 * –––, 2002, “Quantifying biodiversity: A phylogenetic perspective”, *Conservation Biology*, 16(1): 248–252.
 * Foley, P., 1994, “Predicting extinction times from environmental stochasticity and carrying capacity”, *Conservation Biology*, 8(1): 124–137.
-* –––, 1997, “Extinction models for local populations”, in Hanski & Gilpin 1997: 215–246. doi:10.1016/B978-012323445-2/50014-6
+* –––, 1997, “Extinction models for local populations”, in Hanski & Gilpin 1997: 215–246. doi: 10.1016/B978-012323445-2/50014-6
 * Fraassen, B.C. van, 1980, *The Scientific Image*, Oxford: Oxford University Press.
 * –––, 1989, *Laws and Symmetry*, Oxford: Clarendon.
 * Frank, D.M. and S. Sarkar, 2010, “Group decisions in biodiversity conservation: Implications from game theory”, *PloS One*, 5(5): e10688.
@@ -429,7 +429,7 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 * Hutchings, P.A., M.J. Kingsford, and O. Hoegh-Guldberg, 2008, *The Great Barrier Reef: Biology, Environment and Management*, Clayton, Australia: CSIRO Publishing.
 * Intemann, K., 2005, “Feminism, underdetermination, and values in science”, *Philosophy of Science*, 72(5): 1001–1012.
 * –––, 2015, “Distinguishing between legitimate and illegitimate values in climate modeling”, *European Journal for Philosophy of Science*, 5(2): 217–232.
-* Justus, J., 2008, “Complexity, diversity, and stability”, in S. Sarkar & A. Plutynski (eds.), *A Companion to the Philosophy of Biology*, Hoboken, NJ: Wiley, pp. 321–350. doi:10.1002/9780470696590.ch18
+* Justus, J., 2008, “Complexity, diversity, and stability”, in S. Sarkar & A. Plutynski (eds.), *A Companion to the Philosophy of Biology*, Hoboken, NJ: Wiley, pp. 321–350. doi: 10.1002/9780470696590.ch18
 * –––, 2010, “The diversities of biodiversity”, *Metascience*, 19(2): 247–250.
 * Kareiva, P.M. and M. Marvier, 2011, *Conservation Science: Balancing the Needs of People and Nature*, Greenwood Village, Colorado: Roberts & Company.
 * –––, 2012, “What is conservation science?” *BioScience*, 62(11): 962–969.
@@ -465,7 +465,7 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 * McMullin, E., 1982, “Values in Science”, in *PSA: Proceedings of the biennial meeting of the philosophy of science association* (Vol. 1982, No. 2, pp. 3–28), Philosophy of Science Association.
 * Mikkelson, G.M., Gonzalez, A. and Peterson, G.D., 2007, “Economic inequality predicts biodiversity loss”, *PloS one*, 2(5): e444.
 * Moffett, A. and S. Sarkar, 2006, “Incorporating multiple criteria into the design of conservation area networks: A minireview with recommendations”, *Diversity and Distributions*, 12(2): 125–137.
-* Mooers, A.Ø., 2007, “Conservation biology: The diversity of biodiversity”, *Nature*, 445(7129): 717–718. doi:10.1038/445717a
+* Mooers, A.Ø., 2007, “Conservation biology: The diversity of biodiversity”, *Nature*, 445(7129): 717–718. doi: 10.1038/445717a
 * Moore, G.E., 1903, *Principia Ethica*, Cambridge: Cambridge University Press.
 * Morgan, G.J., 2009, “The many dimensions of biodiversity”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(3): 235–238.
 * Morin, P.J., 2011, *Community Ecology*, 2nd edition, Hoboken, NJ: John Wiley & Sons.
@@ -507,27 +507,27 @@ Neyman-Pearson 统计假设检验是统计课程中非常常见的方法，也�
 * –––, 2015, *Philosophy and the Precautionary Principle: Science, Evidence, and Environmental Policy*, Cambridge: Cambridge University Press.
 * –––, 2017, “Qualified epistemic priority: Comparing two approaches to values in science”, in Elliott K. & D. Steel (eds.) *Current controversies in values and science*, New York: Routledge, pp. 49–63.
 * Steel, D. and Whyte, K. P., 2012, “Environmental Justice, Values, and Scientific Expertise”, *Kennedy Institute of Ethics Journal*, 22(2): 163–182.
-* Sterelny, K., 2006, “Local ecological communities*”, *Philosophy of Science*, 73(2): 215–231.
-* Strong, D.R., 2008, “Ecologists and environmentalism”, *Frontiers in Ecology and the Environment*, 6(7): 347–347.
-* Takacs, D., 1996, *The Idea of Biodiversity*, Baltimore: Johns Hopkins University Press.
-* Terborgh, J., 1975, “Faunal Equilibria and the Design of Wildlife Preserves”, in F.B. Golley & E. Medina, *Tropical Ecological Systems: Trends in Terrestrial and Aquatic Research*, New York: Springer-Verlag, pp. 369–380.
-* Tilman, D., D. Wedin, and J. Knops, 1996, “Productivity and sustainability influenced by biodiversity in grassland ecosystems”, *Nature*, 379(6567): 718–720. doi:10.1038/379718a0
-* Vucetich, J.A., J.T. Bruskotter, and M.P. Nelson, 2015, “Evaluating whether nature’s intrinsic value is an axiom of or anathema to conservation”, *Conservation Biology*, 29(2): 321–332.
-* Wagner, G.P., 2014, *Homology, Genes, and Evolutionary Innovation*, Princeton: Princeton University Press.
-* Wagner, P.J., 1995, “Diversity patterns among early gastropods: Contrasting taxonomic and phylogenetic descriptions”, *Paleobiology*, 21: 410–439.
-* Watson, J.E.M., H.S. Grantham, K.A. Wilson, and H.P. Possingham, 2011, “Systematic conservation planning: Past, present and future”, in R. Ladle & R.J. Whittaker, *Conservation Biogeography*, New York: John Wiley & Sons, Ltd., pp. 136–160.
-* Weisberg, M., 2012, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press.
-* Whittaker, R.H., 1967, “Gradient analysis of vegetation”, *Biological Reviews*, 42(2): 207–264.
-* Whittaker, R.J. and J.M. Fernández-Palacios, 2007, *Island Biogeography: Ecology, Evolution, and Conservation*, 2nd edition, Oxford: Oxford University Press.
-* Wiley, E.O., 1978, “The evolutionary species concept reconsidered”, *Systematic Biology*, 27(1): 17–26. doi:10.2307/2412809
-* Wilson, E.O., 1988, *Biodiversity*, Washington, DC: National Academy Press.
-* –––, 1992, *The Diversity of Life*, New York: W.W. Norton & Company.
-* –––, 2016, *Half-earth: our planet’s fight for life*, New York: W.W. Norton & Company.
-* Wilson, E.O. and W.H. Bossert, 1971, *A Primer of Population Biology*, Sunderland, MA: Sinauer Associates.
+* Sterelny, K., 2006, “Local ecological communities *”, * Philosophy of Science*, 73(2): 215–231.
+* Strong, D.R., 2008, “Ecologists and environmentalism”, * Frontiers in Ecology and the Environment*, 6(7): 347–347.
+* Takacs, D., 1996, * The Idea of Biodiversity*, Baltimore: Johns Hopkins University Press.
+* Terborgh, J., 1975, “Faunal Equilibria and the Design of Wildlife Preserves”, in F.B. Golley & E. Medina, * Tropical Ecological Systems: Trends in Terrestrial and Aquatic Research*, New York: Springer-Verlag, pp. 369–380.
+* Tilman, D., D. Wedin, and J. Knops, 1996, “Productivity and sustainability influenced by biodiversity in grassland ecosystems”, * Nature*, 379(6567): 718–720. doi: 10.1038/379718a0
+* Vucetich, J.A., J.T. Bruskotter, and M.P. Nelson, 2015, “Evaluating whether nature’s intrinsic value is an axiom of or anathema to conservation”, * Conservation Biology*, 29(2): 321–332.
+* Wagner, G.P., 2014, * Homology, Genes, and Evolutionary Innovation*, Princeton: Princeton University Press.
+* Wagner, P.J., 1995, “Diversity patterns among early gastropods: Contrasting taxonomic and phylogenetic descriptions”, * Paleobiology*, 21: 410–439.
+* Watson, J.E.M., H.S. Grantham, K.A. Wilson, and H.P. Possingham, 2011, “Systematic conservation planning: Past, present and future”, in R. Ladle & R.J. Whittaker, * Conservation Biogeography*, New York: John Wiley & Sons, Ltd., pp. 136–160.
+* Weisberg, M., 2012, * Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press.
+* Whittaker, R.H., 1967, “Gradient analysis of vegetation”, * Biological Reviews*, 42(2): 207–264.
+* Whittaker, R.J. and J.M. Fernández-Palacios, 2007, * Island Biogeography: Ecology, Evolution, and Conservation*, 2nd edition, Oxford: Oxford University Press.
+* Wiley, E.O., 1978, “The evolutionary species concept reconsidered”, * Systematic Biology*, 27(1): 17–26. doi: 10.2307/2412809
+* Wilson, E.O., 1988, * Biodiversity*, Washington, DC: National Academy Press.
+* –––, 1992, * The Diversity of Life*, New York: W.W. Norton & Company.
+* –––, 2016, * Half-earth: our planet’s fight for life*, New York: W.W. Norton & Company.
+* Wilson, E.O. and W.H. Bossert, 1971, * A Primer of Population Biology*, Sunderland, MA: Sinauer Associates.
 * Wilson, E.O. and E.O. Willis, 1975, “Applied biogeography”, in Cody & Diamond: 522–534.
-* Wimsatt, W.C., 1981, “Robustness, reliability, and overdetermination”, in M. Brewer & B. Collins (eds.), *Scientific Inquiry in the Social Sciences*, San Francisco: Jossey-Bass, pp. 123–162. Reprinted in L. Soler, E. Trizio, T. Nickles, & W. Wimsatt, 2012, *Characterizing the Robustness of Science*, Dordrecht: Springer Netherlands, pp. 61–87. doi:10.1007/978-94-007-2759-5_2
-* Wuerthner, G., Crist, E. and Butler, T. (eds.), 2015, *Protecting the wild: Parks and wilderness, the foundation for conservation*, Washington, DC: Island Press.
-* Yaffee, S.L., 1994, *The Wisdom of the Spotted Owl: Policy Lessons for a New Century*, Washington, DC: Island Press.
+* Wimsatt, W.C., 1981, “Robustness, reliability, and overdetermination”, in M. Brewer & B. Collins (eds.), * Scientific Inquiry in the Social Sciences *, San Francisco: Jossey-Bass, pp. 123–162. Reprinted in L. Soler, E. Trizio, T. Nickles, & W. Wimsatt, 2012, * Characterizing the Robustness of Science*, Dordrecht: Springer Netherlands, pp. 61–87. doi: 10.1007/978-94-007-2759-5_2
+* Wuerthner, G., Crist, E. and Butler, T. (eds.), 2015, * Protecting the wild: Parks and wilderness, the foundation for conservation*, Washington, DC: Island Press.
+* Yaffee, S.L., 1994, * The Wisdom of the Spotted Owl: Policy Lessons for a New Century*, Washington, DC: Island Press.
 
 ## Academic Tools
 

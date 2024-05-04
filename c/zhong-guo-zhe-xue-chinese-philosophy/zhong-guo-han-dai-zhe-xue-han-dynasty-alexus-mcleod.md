@@ -12,7 +12,7 @@
 
 在汉代，我们还发现了对哲学文本的注释传统的起源。到了汉代，关于被称为“五经”的历史和仪礼文本的注释传统已经建立起来。特别是在早期汉代，《春秋》这一古代历史文本的注释传统变得至关重要。然而，在汉代发展了一个新的注释传统，与《论语》、《道德经》、《庄子》等哲学文本相关。围绕这些文本的注释传统成为中国哲学史后续发展的主要来源（参见 Makeham 2003）。
 
-汉代哲学的另一个重要特征是我们可以称之为“自然主义转变”。汉代的科学发展，特别是在天文学和医学领域，将哲学关注点与当时新兴且更具经验性质的领域联系起来（参见有关[中国哲学和中医](https://plato.stanford.edu/entries/chinese-phil-medicine/)以及[科学和中国哲学](https://plato.stanford.edu/entries/chinese-phil-science/)的条目）。
+汉代哲学的另一个重要特征是我们可以称之为“自然主义转变”。汉代的科学发展，特别是在天文学和医学领域，将哲学关注点与当时新兴且更具经验性质的领域联系起来（参见有关 [中国哲学和中医](https://plato.stanford.edu/entries/chinese-phil-medicine/) 以及 [科学和中国哲学](https://plato.stanford.edu/entries/chinese-phil-science/) 的条目）。
 
 ## 2. 西汉（前 202 年–9 年）
 
@@ -60,7 +60,7 @@
 
 ### 2.3 知识与方法：《淮南子》的综合主义
 
-汉代的一个重要发展是通常被称为“汉代综合主义”的形成，有些人将其与“黄老”学派和《淮南子》等文本联系在一起。黄老学派的发展和性质仍然是学者们争论的话题（见格雷厄姆 1991 年；马杰 1993 年：10；陈＆宋 2015 年）。虽然综合或综合倾向，其兴起和巅峰是在汉代时期达到的，但这种思维实际上在中国历史上早在很久以前就有了起源。在《管子》和《吕氏春秋》等战国文本中，我们发现了综合主义的最初发展。正是在汉代，这种趋势真正起飞，《淮南子》代表了其高峰。
+汉代的一个重要发展是通常被称为“汉代综合主义”的形成，有些人将其与“黄老”学派和《淮南子》等文本联系在一起。黄老学派的发展和性质仍然是学者们争论的话题（见格雷厄姆 1991 年；马杰 1993 年：10；陈 ＆ 宋 2015 年）。虽然综合或综合倾向，其兴起和巅峰是在汉代时期达到的，但这种思维实际上在中国历史上早在很久以前就有了起源。在《管子》和《吕氏春秋》等战国文本中，我们发现了综合主义的最初发展。正是在汉代，这种趋势真正起飞，《淮南子》代表了其高峰。
 
 早期形式的综合主义涉及有意将不同学派和文本传统的方面结合在一起，如儒家、道家和法家。虽然我们在《春秋繁露》等文本中在某种程度上看到了这一点，但这些形式的综合主义通常并不明确。另一方面，《淮南子》则公开讨论了其从先前相互对立的学派和传统中汲取思想的综合。在《淮南子》中，我们发现了一个具体的方法论和合成的理由，主要使用了《庄子》和《道德经》的思想，但也涉及到儒家、法家，甚至墨家的思想。许多学者一直在辩论《淮南子》综合主义的最终目的（见戈尔丁 1999 年；范克贝尔亨 2001 年）。显然，整个项目存在政治目的。刘安（公元前 179-公元前 122 年），淮南领地的诸侯统治者，召集了起草这一文本的学者。刘安关注帝国的意识形态。他的主要目标是发展一个系统，将汉代帝国中众多和多样的民族、文化、体制、语言和生活方式综合在一起。刘认识到，过去的治理方式和社会意识形态可能在它们发展的小规模社会中是可以接受的。但这些社会已经通过语言、文化和社会规范实现了统一。在像汉代这样庞大而多样化的领土上，简单地将一个民族的规范和意识形态强加给其他民族是行不通的。需要的是一个政治、伦理和形而上学系统，将各种民族统一在一个社会项目中，同时允许他们的地方性方法的独立和个性。刘安宫廷的学者们对这一反思的结果几乎无缝地将当时已知的哲学、政治、科学和宗教体系融合成一个关于宇宙的全面而强大的解释。
 
@@ -130,9 +130,9 @@ _太玄经_的相关模型，总体上遵循了早期作品中发现的“五行
 
 > 当贤者和圣人撰写他们的著作时，他们用他们的思想对事物进行了详尽的调查。我们不能说即使那时他们完全掌握了真理。鉴于此，怎么可能他们的日常和闲言碎语完全属实呢？这些陈述不可能全部属实，但今天的人们不知道如何质疑它们。或者如果其中一些陈述是真实的，所传达的思想又不清晰且难以理解，今天的人们也不知道如何质疑它们。（论衡 28.1，作者译）
 
-根据王，这种无能部分可以解释为学者不愿创新和背离先贤。在《对作》（Replies on Creation）这一章中，王对孔子《论语》中表达的普遍观点进行了对抗，即最好传承古代先贤的教诲，而不是创造或创新。在汉代，"作"这个概念被贬义看待，尽管在这个时期有大量的创新。王旨在通过他提出的方法区分真实（"实"）陈述和虚假（"虚"）陈述。王理解虚假陈述是那些因各种原因而倾向于控制我们的陈述。王不关心我们不倾向相信的谬误，而是关心那些具有固有吸引力的谬误。他认为"花"言可以吸引我们，是因为它们的风格，而不是它们的真实性。一系列人类偏见导致某些类型的谬误对我们具有吸引力。除了偏爱花言之外，我们还倾向于那些能够展现我们优越感、虚荣心或促进个人利益的陈述和教诲。王将这类陈述归为"虚"的范畴，使用一个同时具有"空虚"含义的术语。"虚"陈述是吸引人但缺乏使陈述真实的重要特征的陈述。使陈述真实（"实"）的是它具有我们**通常**在评估陈述时寻求的特征，而不仅仅是在某些情况下对我们有吸引力的特定情况。这些特征将取决于我们正在评估的陈述类型。真实的道德陈述将具有不同的使其真实的特征，而不同于医学或地质陈述。
+根据王，这种无能部分可以解释为学者不愿创新和背离先贤。在《对作》（Replies on Creation）这一章中，王对孔子《论语》中表达的普遍观点进行了对抗，即最好传承古代先贤的教诲，而不是创造或创新。在汉代，"作" 这个概念被贬义看待，尽管在这个时期有大量的创新。王旨在通过他提出的方法区分真实（"实"）陈述和虚假（"虚"）陈述。王理解虚假陈述是那些因各种原因而倾向于控制我们的陈述。王不关心我们不倾向相信的谬误，而是关心那些具有固有吸引力的谬误。他认为 "花" 言可以吸引我们，是因为它们的风格，而不是它们的真实性。一系列人类偏见导致某些类型的谬误对我们具有吸引力。除了偏爱花言之外，我们还倾向于那些能够展现我们优越感、虚荣心或促进个人利益的陈述和教诲。王将这类陈述归为 "虚" 的范畴，使用一个同时具有 "空虚" 含义的术语。"虚" 陈述是吸引人但缺乏使陈述真实的重要特征的陈述。使陈述真实（"实"）的是它具有我们 **通常** 在评估陈述时寻求的特征，而不仅仅是在某些情况下对我们有吸引力的特定情况。这些特征将取决于我们正在评估的陈述类型。真实的道德陈述将具有不同的使其真实的特征，而不同于医学或地质陈述。
 
-王作品中涉及的另一个重要问题是人性或先天特征（"性"），这与一系列概念交织在一起，包括能动性和命运（"命"）。王对人类能动性进行了一个在当时非常创新的阐述，对能动性和"自然"或自我行动进行了对比。王关注的是在早期文本中讨论的道德修养如何影响人类行为以及由这些行为产生的结果。通过孔子等人所倡导的种种实践，我们能否纠正和改变自己的行为，从而产生与否则将产生的不同效果？接受人类活动可以在世界上产生这样的差异似乎与古代的另一个观念相冲突，即我们所有人都受到我们的命运（"命"）所约束，而这是由世界所统治的。王试图在《论衡》的许多章节中调和这两种相互冲突的观念。
+王作品中涉及的另一个重要问题是人性或先天特征（"性"），这与一系列概念交织在一起，包括能动性和命运（"命"）。王对人类能动性进行了一个在当时非常创新的阐述，对能动性和 "自然" 或自我行动进行了对比。王关注的是在早期文本中讨论的道德修养如何影响人类行为以及由这些行为产生的结果。通过孔子等人所倡导的种种实践，我们能否纠正和改变自己的行为，从而产生与否则将产生的不同效果？接受人类活动可以在世界上产生这样的差异似乎与古代的另一个观念相冲突，即我们所有人都受到我们的命运（"命"）所约束，而这是由世界所统治的。王试图在《论衡》的许多章节中调和这两种相互冲突的观念。
 
 根据王，人类的先天特征（*性*）是由自然赋予人类的命所决定的。这个过程是没有任何形式的代理的，并且是“自然”（*自然*）发生的。王使用自然界中的生殖形象来描述这种自发或非代理活动。例如，人类的繁殖行为既显示了代理特征，也显示了非代理特征。虽然个体决定参与繁殖行为，但胚胎生成成为孩子的过程是自发的（*自然*），没有努力和意图。然而，王似乎甚至走得更远，朝着决定论发展。他写道，甚至人类行为最终也是由世界的非代理特征决定的，甚至绕过了通常用来解释我们行为的先天特征，本身也是由世界的非代理特征决定的。王在《论衡》的《治气》（政治时期）章中写道：
 
@@ -162,7 +162,7 @@ _太玄经_的相关模型，总体上遵循了早期作品中发现的“五行
 
 根据班氏的观点，谦逊是女性应该努力培养的主要美德之一。这里的谦逊被理解为“先人后己”。这似乎是对《论语》（12.1）中所表达的观点的延伸，即“克己复礼”是培养美德的关键。尽管班氏在《女诫》中遵循传统规范，但在某些段落中，我们看到她批评了她所处社会的常见做法，包括忽视对女性和女孩的教育。她写道：
 
-…只教育男性而不教育女性——他们在对待两方面时难道不是有偏袒之嫌吗？根据《礼记》，儿童八岁开始应该开始接受经典的教导。十五岁时，他们应该接受成人教育。为什么女性的教育单独不遵循这一原则呢？（《女解》2，庞-怀特\[译]2018：48）
+…只教育男性而不教育女性——他们在对待两方面时难道不是有偏袒之嫌吗？根据《礼记》，儿童八岁开始应该开始接受经典的教导。十五岁时，他们应该接受成人教育。为什么女性的教育单独不遵循这一原则呢？（《女解》2，庞-怀特\[译] 2018：48）
 
 ### 3.4 隐逸的政治：王夫
 
@@ -186,7 +186,7 @@ _太玄经_的相关模型，总体上遵循了早期作品中发现的“五行
 
 > 名是用来给实体命名的东西。当一个实体被确立时，其名字随之而来；并非名字确立后实体才随之而来。因此，如果一个长形被确立，那么它将被命名为“长”，如果一个短形被确立，它将被命名为“短”。名字“长”和“短”并非先被确立，然后长形和短形才随之而来。孔子所重视的是那些真正命名实体的“名”。通过重视名字，他从而重视实体。名与实就像植物与季节相连。春天，植物开花；夏天，叶子繁茂；秋天，叶子凋零落地；冬天，结果累累。这并非为了特定目的而行动，但植物完成了自身。如果强迫植物，其自然倾向将受到伤害。名字也是如此。因此，伪名制造者都是那些会损害名字的人。人们只知道名字带来的好处，却不知道伪名制造者带来的坏处。(*中论* 11.5，Makeham \[翻译] 2002: 149–150)
 
-实际（*shi* 實）对于徐干而言，是独立于人类活动的，并且是由世界本身“确立”（*li* 立）的。约翰·麦克汉定义了徐干对实际的概念为
+实际（*shi* 實）对于徐干而言，是独立于人类活动的，并且是由世界本身“确立”（*li* 立）的。约翰 · 麦克汉定义了徐干对实际的概念为
 
 > 一种发展状态，因此实体或事态因其特质而成为其本身（Makeham 1994: 27）
 
@@ -198,7 +198,7 @@ _太玄经_的相关模型，总体上遵循了早期作品中发现的“五行
 
 与其通过欺诈性地运用名号来进一步树立声誉，从而削弱名号的效力和意义，一个人应该努力修养德，这是君子的实际体现。随着实际的提升，声誉和权威自然会增加（因为道德影响力随着名誉而得到提升）。
 
-与以往的儒家思想家一样，**汉代**的许慎承认，真正有德行的人并不总是成功的。事实上，他认为东汉时期的情况是，那些地位最高的人远非有德行。他用标准的儒家方式解释了这一点，即时势（*shi*）造成了差异，即使是最有德行的学者，如果遇到了时机不对，也不会得到好运。构成时势（*shi*）的是一种共同习俗、信仰、统治者的素质和自然状态。如果一个人出生在一个国家衰败、领导软弱无德、遭遇干旱等灾害以及社会冷漠的时代，那么即使具有最高的德行，也不太可能晋升到声誉很高的地位。这是儒家自古以来担心的情况，我们也看到在东汉提到的所有思想家中都有讨论。然而，与王符的观点相呼应，许干认为，如果时势不允许有德行的人在社会中茁壮成长，那么一个人应该放弃社会，专注于培养自己的品德（Makeham 1994: xii）。
+与以往的儒家思想家一样，**汉代** 的许慎承认，真正有德行的人并不总是成功的。事实上，他认为东汉时期的情况是，那些地位最高的人远非有德行。他用标准的儒家方式解释了这一点，即时势（*shi*）造成了差异，即使是最有德行的学者，如果遇到了时机不对，也不会得到好运。构成时势（*shi*）的是一种共同习俗、信仰、统治者的素质和自然状态。如果一个人出生在一个国家衰败、领导软弱无德、遭遇干旱等灾害以及社会冷漠的时代，那么即使具有最高的德行，也不太可能晋升到声誉很高的地位。这是儒家自古以来担心的情况，我们也看到在东汉提到的所有思想家中都有讨论。然而，与王符的观点相呼应，许干认为，如果时势不允许有德行的人在社会中茁壮成长，那么一个人应该放弃社会，专注于培养自己的品德（Makeham 1994: xii）。
 
 许干运用了早期汉代文献中如《淮南子》中发展的“本末”结构来解释德行（*de* 德）与人类艺术（*yi* 艺）之间的关系。他颠倒了贾谊思想中的观点，后者认为德行是治理的装饰和指南。许慎认为，艺术（包括仪式甚至可能包括治理）没有德行就无法完善。同时，他主张，德行也不能在没有艺术的情况下完成（*cheng* 成）。这两者相互依存（*Zhonglun* 7.1）。
 
@@ -263,52 +263,52 @@ All citations of Chinese texts follow the Chinese Text Project (CTP) ([https://c
 
 * Czikszentmihalyi, Mark (ed./trans.), 2006, *Readings in Han Chinese Thought*, Indianapolis, IN: Hackett.
 * Fung Yu-Lan \[Feng Youlan], 1931–1934 \[1983], 中國哲學史 *Zhongguo zhexue shi*, Shanghai: Commercial Press. Translated as *A History of Chinese Philosophy*, two volumes, Derk Bodde (trans.), Princeton, NJ: Princeton University Press, 1952–1953, paperback reprinting 1983.
-* Ing, Michael D. K., 2016, “Philosophy in Western Han Dynasty China (206 BCE–9 CE): Philosophy in Western Han Dynasty China”, *Philosophy Compass*, 11(6): 289–304. doi:10.1111/phc3.12326
-* McLeod, Alexus, 2015, “Philosophy in Eastern Han Dynasty China (25–220 CE): Eastern Han Philosophy”, *Philosophy Compass*, 10(6): 355–368. doi:10.1111/phc3.12209
+* Ing, Michael D. K., 2016, “Philosophy in Western Han Dynasty China (206 BCE–9 CE): Philosophy in Western Han Dynasty China”, *Philosophy Compass*, 11(6): 289–304. doi: 10.1111/phc3.12326
+* McLeod, Alexus, 2015, “Philosophy in Eastern Han Dynasty China (25–220 CE): Eastern Han Philosophy”, *Philosophy Compass*, 10(6): 355–368. doi: 10.1111/phc3.12209
 * Xu Fuguan, 1972–1978, 兩漢思想史 *Liang han sixiang shi* (History of the Philosophy of the Two Han Dynasties), 3 volumes, Taibei Shi: Taiwan xue sheng shu ju,
-* Zhou Guidian, 2006, 秦漢哲學· *Qin han zhexue* (Qin and Han Philosophy), Wuhan: Wuhan chubanshe.
+* Zhou Guidian, 2006, 秦漢哲學 · *Qin han zhexue* (Qin and Han Philosophy), Wuhan: Wuhan chubanshe.
 
 ### Works Cited
 
-* Berkowitz, Alan J., 1992, “The Moral Hero: A Pattern of Reclusion in Traditional China”, *Monumenta Serica*, 40: 1–32. doi:10.1080/02549948.1992.11731227
-* Chen, L. K. and Hiu Chuk Winnie Sung, 2015, “The Doctrines and Transformation of the Huang-Lao Tradition”, in Liu 2015: 241–264. doi:10.1007/978-90-481-2927-0\_10
-* Didier, John C., 2009, *In and Outside the Square: The Sky and the Power of Belief in Ancient China and the World, c. 4500 BC – AD 200*, 3 volumes, *Sino-Platonic Papers* 192. \[[Didier 2009 available online](http://www.sino-platonic.org/)]
-* Durrant, Stephen and Wai-yee Li (trans), 2017, *Zuo Tradition/ Zuozhuan: Commentary on the “Spring and Autumn Annals”*, Seattle, WA: University of Washington Press.
-* Forke, Alfred (trans.), 1907, *Lun Heng: Philosophical Essays of Wang Ch’ung*, Leipzig: Otto Harrassowitz.
-* Goldin, Paul Rakita, 1999, “Insidious Syncretism in the Political Philosophy of *Huai‐nan‐tzu*”, *Asian Philosophy*, 9(3): 165–191. doi:10.1080/09552369908575498
-* Goldin, Paul and Elisa Levi Sabattini (trans), 2020, *Lu Jia’s “New Discourses”: A Political Manifesto from the Early Han Dynasty*, Leiden: Brill. doi:10.1163/9789004419889
-* Graham, Angus, 1991, “Reflections and Replies”, in *Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham*, Henry Rosemont, Jr (ed.), La Salle, IL: Open Court, 267–322.
-* Holcombe, Charles, 1994, *In the Shadow of the Han: Literati Thought and Society at the Beginning of the Southern Dynasties*, Honolulu: University of Hawaii Press.
-* Hunter, Michael, 2018, “The *Lunyu* as a Western Han Text”, in *Confucius and the Analects Revisited*, Michael Hunter and Martin Kern (eds), Leiden: Brill, 67–91 (ch. 3).
-* Klein, Esther, 2010, “Were There ‘Inner Chapters’ in the Warring States?” *T’oung Pao*, 96(4): 299–369. doi:10.1163/156853210X546509
-* Klein, Esther Sunkyung and Colin Klein, 2016, “Wang Chong’s Epistemology of Testimony”, *Asia Major*, 29(2): 115–146.
-* Lewis, Mark Edward, 2010, *The Early Chinese Empires: Qin and Han*, Cambridge, MA: Harvard University Press.
-* Liu, Xiaogan (ed.), 2015, *Dao Companion to Daoist Philosophy*, (Dao Companions to Chinese Philosophy 6), Dordrecht: Springer Netherlands. doi:10.1007/978-90-481-2927-0
-* Loewe, Michael, 2011, *Dong Zhongshu, a ‘Confucian’ Heritage and the Chunqiu Fanlu*, Leiden: Brill.
-* Loewe, Michael and Denis Twitchett (eds), 1986, *The Cambridge History of China, Volume 1: The Ch’in and Han Empires*, Cambridge: Cambridge University Press. doi:10.1017/CHOL9780521243278
-* Major, John S., 1993, *Heaven and Earth in Early Han Thought: Chapters Three, Four, and Five of the Huainanzi*, Albany, NY: SUNY Press.
-* Major, John S., Sarah A. Queen, Andrew Seth Meyer, and Harold D. Roth (trans), 2010, *The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*, New York: Columbia University Press.
-* Makeham, John, 1994, *Name and Actuality in Early Chinese Thought*, Albany, NY: SUNY Press.
-* ––– (trans.), 2002, *Balanced Discourses: A Bilingual Edition*, by Xu Gan, New Haven, CT: Yale University Press.
-* –––, 2003, *Transmitters and Creators: Chinese Commentators and Commentaries on the Analects*, (Harvard East Asian monographs 228), Cambridge, MA: Harvard University Asia Center.
-* McLeod, Alexus, 2018, *The Philosophical Thought of Wang Chong*, London: Palgrave Macmillan. doi:10.1007/978-3-319-95291-8
-* –––, 2020, “Wang Chong’s View of Ziran and Its Influence on Wang Bi and Guo Xiang”, in *Dao Companion to Xuanxue 玄學 (Neo-Daoism)*, David Chai (ed.), (Dao Companions to Chinese Philosophy 14), New York: Springer International Publishing, 149–163. doi:10.1007/978-3-030-49228-1\_8
-* –––, 2021, *The Dao of Madness: Mental Illness and Self-Cultivation in Early Chinese Philosophy and Medicine*, New York: Oxford University Press.
-* Murray, Judson, 2004, “A Study of ‘Yao Lue’ 要略, ‘A Sumary of the Essentials’: The Huainanzi 淮南子 from the Point of View of the Postface”, *Early China*, 29: 45–109. doi:10.1017/S0362502800007094
-* Nylan, Michael, 2013, *Exemplary Figures/Fayan*, Seattle, WA: University of Washington Press.
-* –––, 2014, *Canon of Supreme Mystery: A Translation With Commentary of the T’ai Hsuan Ching*, Albany, NY: SUNY Press.
-* Pang-White, Ann A. (trans.), 2018, *The Confucian “Four Books for Women”: A New Translation of the Nü Sishu and the Commentary of Wang Xiang*, Oxford: Oxford University Press.
-* Pokora, Timoteus (trans.), 1975, *Hsin-lun (New Treatise), and Other Writings by Huan Tan (43 BC–28 AD)*, Ann Arbor, MI: Center for Chinese Studies, University of Michigan.
-* Queen, Sarah A. and John S. Major (trans), 2016, *Luxuriant Gems of the Spring and Autumn*, New York: Columbia University Press, 2016.
-* Roth, Harold D., 2015, “*Huainanzi*: The Pinnacle of Classical Daoist Syncretism”, in Liu 2015: 341–365. doi:10.1007/978-90-481-2927-0\_15
-* Sanft, Charles, 2005, *Rule: A Study of Jia Yi’s “Xin shu”*, PhD Dissertation, University of Münster.
-* –––, 2016, “Jia Yi on the Management of the Populace”, *Asia Major*, 29(2): 47–71.
-* Schneider, Laurence, 1980, *A Madman of Ch’u: The Chinese Myth of Loyalty and Dissent*, Berkeley, CA: University of California Press.
-* Slingerland, Edward, 2019, *Mind and Body in Early China: Beyond Orientalism and the Myth of Holism*, Oxford: Oxford University Press. doi:10.1093/oso/9780190842307.001.0001
-* Song, Yunwoo, 2020, “Wang Chong’s Fatalism”, *Early China*, 43: 285–310. doi:10.1017/eac.2020.7
-* Unschuld, Paul U. and Hermann Tessenow (trans), 2011, *Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions*, 2 volumes, Berkeley, CA: University of California Press.
-* Vankeerberghen, Griet, 2001, *The Huainanzi and Liu An’s Claim to Moral Authority*, Albany, NY: SUNY Press, 2001.
-* Zhao, Dingxin, 2015, *The Confucian-Legalist State: A New Theory of Chinese History*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199351732.001.0001
+* Berkowitz, Alan J., 1992, “The Moral Hero: A Pattern of Reclusion in Traditional China”, *Monumenta Serica*, 40: 1–32. doi: 10.1080/02549948.1992.11731227
+* Chen, L. K. and Hiu Chuk Winnie Sung, 2015, “The Doctrines and Transformation of the Huang-Lao Tradition”, in Liu 2015: 241–264. doi: 10.1007/978-90-481-2927-0\_10
+* Didier, John C., 2009, * In and Outside the Square: The Sky and the Power of Belief in Ancient China and the World, c. 4500 BC – AD 200 *, 3 volumes, * Sino-Platonic Papers* 192. \[[Didier 2009 available online](http://www.sino-platonic.org/)]
+* Durrant, Stephen and Wai-yee Li (trans), 2017, * Zuo Tradition/ Zuozhuan: Commentary on the “Spring and Autumn Annals”*, Seattle, WA: University of Washington Press.
+* Forke, Alfred (trans.), 1907, * Lun Heng: Philosophical Essays of Wang Ch’ung*, Leipzig: Otto Harrassowitz.
+* Goldin, Paul Rakita, 1999, “Insidious Syncretism in the Political Philosophy of * Huai‐nan‐tzu *”, * Asian Philosophy*, 9(3): 165–191. doi: 10.1080/09552369908575498
+* Goldin, Paul and Elisa Levi Sabattini (trans), 2020, * Lu Jia’s “New Discourses”: A Political Manifesto from the Early Han Dynasty*, Leiden: Brill. doi: 10.1163/9789004419889
+* Graham, Angus, 1991, “Reflections and Replies”, in * Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham*, Henry Rosemont, Jr (ed.), La Salle, IL: Open Court, 267–322.
+* Holcombe, Charles, 1994, * In the Shadow of the Han: Literati Thought and Society at the Beginning of the Southern Dynasties*, Honolulu: University of Hawaii Press.
+* Hunter, Michael, 2018, “The * Lunyu * as a Western Han Text”, in * Confucius and the Analects Revisited*, Michael Hunter and Martin Kern (eds), Leiden: Brill, 67–91 (ch. 3).
+* Klein, Esther, 2010, “Were There ‘Inner Chapters’ in the Warring States?” * T’oung Pao*, 96(4): 299–369. doi: 10.1163/156853210X546509
+* Klein, Esther Sunkyung and Colin Klein, 2016, “Wang Chong’s Epistemology of Testimony”, * Asia Major*, 29(2): 115–146.
+* Lewis, Mark Edward, 2010, * The Early Chinese Empires: Qin and Han*, Cambridge, MA: Harvard University Press.
+* Liu, Xiaogan (ed.), 2015, * Dao Companion to Daoist Philosophy*, (Dao Companions to Chinese Philosophy 6), Dordrecht: Springer Netherlands. doi: 10.1007/978-90-481-2927-0
+* Loewe, Michael, 2011, * Dong Zhongshu, a ‘Confucian’ Heritage and the Chunqiu Fanlu*, Leiden: Brill.
+* Loewe, Michael and Denis Twitchett (eds), 1986, * The Cambridge History of China, Volume 1: The Ch’in and Han Empires*, Cambridge: Cambridge University Press. doi: 10.1017/CHOL9780521243278
+* Major, John S., 1993, * Heaven and Earth in Early Han Thought: Chapters Three, Four, and Five of the Huainanzi*, Albany, NY: SUNY Press.
+* Major, John S., Sarah A. Queen, Andrew Seth Meyer, and Harold D. Roth (trans), 2010, * The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*, New York: Columbia University Press.
+* Makeham, John, 1994, * Name and Actuality in Early Chinese Thought*, Albany, NY: SUNY Press.
+* ––– (trans.), 2002, * Balanced Discourses: A Bilingual Edition*, by Xu Gan, New Haven, CT: Yale University Press.
+* –––, 2003, * Transmitters and Creators: Chinese Commentators and Commentaries on the Analects*, (Harvard East Asian monographs 228), Cambridge, MA: Harvard University Asia Center.
+* McLeod, Alexus, 2018, * The Philosophical Thought of Wang Chong*, London: Palgrave Macmillan. doi: 10.1007/978-3-319-95291-8
+* –––, 2020, “Wang Chong’s View of Ziran and Its Influence on Wang Bi and Guo Xiang”, in * Dao Companion to Xuanxue 玄學 (Neo-Daoism)*, David Chai (ed.), (Dao Companions to Chinese Philosophy 14), New York: Springer International Publishing, 149–163. doi: 10.1007/978-3-030-49228-1\_8
+* –––, 2021, * The Dao of Madness: Mental Illness and Self-Cultivation in Early Chinese Philosophy and Medicine*, New York: Oxford University Press.
+* Murray, Judson, 2004, “A Study of ‘Yao Lue’ 要略, ‘A Sumary of the Essentials’: The Huainanzi 淮南子 from the Point of View of the Postface”, * Early China*, 29: 45–109. doi: 10.1017/S0362502800007094
+* Nylan, Michael, 2013, * Exemplary Figures/Fayan*, Seattle, WA: University of Washington Press.
+* –––, 2014, * Canon of Supreme Mystery: A Translation With Commentary of the T’ai Hsuan Ching*, Albany, NY: SUNY Press.
+* Pang-White, Ann A. (trans.), 2018, * The Confucian “Four Books for Women”: A New Translation of the Nü Sishu and the Commentary of Wang Xiang*, Oxford: Oxford University Press.
+* Pokora, Timoteus (trans.), 1975, * Hsin-lun (New Treatise), and Other Writings by Huan Tan (43 BC–28 AD)*, Ann Arbor, MI: Center for Chinese Studies, University of Michigan.
+* Queen, Sarah A. and John S. Major (trans), 2016, * Luxuriant Gems of the Spring and Autumn*, New York: Columbia University Press, 2016.
+* Roth, Harold D., 2015, “* Huainanzi*: The Pinnacle of Classical Daoist Syncretism”, in Liu 2015: 341–365. doi: 10.1007/978-90-481-2927-0\_15
+* Sanft, Charles, 2005, * Rule: A Study of Jia Yi’s “Xin shu”*, PhD Dissertation, University of Münster.
+* –––, 2016, “Jia Yi on the Management of the Populace”, * Asia Major*, 29(2): 47–71.
+* Schneider, Laurence, 1980, * A Madman of Ch’u: The Chinese Myth of Loyalty and Dissent*, Berkeley, CA: University of California Press.
+* Slingerland, Edward, 2019, * Mind and Body in Early China: Beyond Orientalism and the Myth of Holism*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190842307.001.0001
+* Song, Yunwoo, 2020, “Wang Chong’s Fatalism”, * Early China*, 43: 285–310. doi: 10.1017/eac.2020.7
+* Unschuld, Paul U. and Hermann Tessenow (trans), 2011, * Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions*, 2 volumes, Berkeley, CA: University of California Press.
+* Vankeerberghen, Griet, 2001, * The Huainanzi and Liu An’s Claim to Moral Authority*, Albany, NY: SUNY Press, 2001.
+* Zhao, Dingxin, 2015, * The Confucian-Legalist State: A New Theory of Chinese History*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199351732.001.0001
 
 ## Academic Tools
 

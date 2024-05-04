@@ -12,7 +12,7 @@
 
 ## 生命
 
-爱德华兹（Edwards）于 1703 年出生在康涅狄格州东温莎一个著名的圣公会牧师家庭。1716 年，爱德华兹进入耶鲁大学，在那里阅读了牛顿和洛克，并开始撰写《心灵笔记》和《自然科学笔记》。洛克对他的认识论、语言哲学和哲学心理学产生了深远影响。然而，爱德华兹的形而上学似乎更受马勒布朗什和剑桥柏拉图学派的影响，与洛克的相似之处很少。在纽约和康涅狄格州的波尔顿短暂任职后，爱德华兹回到耶鲁大学，于 1724 年获得文学硕士学位，并成为高级导师。1725 年，北安普顿的教堂选择爱德华兹继承他的祖父所罗门·斯托达德——被称为“康涅狄格山谷的教皇”。他任职期间最显著的事件是 1734 年和 1740-1741 年的复兴，后者被称为大觉醒。爱德华兹对复兴的捍卫和对其过度行为的批评最终体现在他的第一部重要著作《宗教感情》（1746 年）中。与教众关系恶化导致了关于教会成员资格的争议。爱德华兹拒绝了他祖父较不严格的标准，坚持要求候选人基于宗教经历公开表明拯救信仰，这不仅是参加圣餐的资格，也是教会成员的资格。他在 1750 年以一票之差被解雇。拒绝了北美和苏格兰讲坛的邀请后，爱德华兹退隐到斯托克布里奇的印第安传教站，管理两个困难的教区，监督一个为印第安男孩开设的寄宿学校，并完成了他的最后几部重要作品——《意志的自由》（1754 年）、《原罪》（1758 年）、《创世之终》和《真善》（均于 1765 年死后出版）。爱德华兹于 1757 年接受了新泽西学院（现普林斯顿大学）校长的任命。1758 年 3 月 22 日，他因接种天花疫苗引起的并发症去世，距就职不到五周。爱德华兹的著作主要旨在捍卫清教徒版的加尔文主义正统，对圣公会和长老会神学产生了深远影响。然而，他广泛的笔记本显示出他对哲学问题本身的兴趣，而他在私人文件和出版作品中使用的哲学论证既复杂又经常独创。
+爱德华兹（Edwards）于 1703 年出生在康涅狄格州东温莎一个著名的圣公会牧师家庭。1716 年，爱德华兹进入耶鲁大学，在那里阅读了牛顿和洛克，并开始撰写《心灵笔记》和《自然科学笔记》。洛克对他的认识论、语言哲学和哲学心理学产生了深远影响。然而，爱德华兹的形而上学似乎更受马勒布朗什和剑桥柏拉图学派的影响，与洛克的相似之处很少。在纽约和康涅狄格州的波尔顿短暂任职后，爱德华兹回到耶鲁大学，于 1724 年获得文学硕士学位，并成为高级导师。1725 年，北安普顿的教堂选择爱德华兹继承他的祖父所罗门 · 斯托达德——被称为“康涅狄格山谷的教皇”。他任职期间最显著的事件是 1734 年和 1740-1741 年的复兴，后者被称为大觉醒。爱德华兹对复兴的捍卫和对其过度行为的批评最终体现在他的第一部重要著作《宗教感情》（1746 年）中。与教众关系恶化导致了关于教会成员资格的争议。爱德华兹拒绝了他祖父较不严格的标准，坚持要求候选人基于宗教经历公开表明拯救信仰，这不仅是参加圣餐的资格，也是教会成员的资格。他在 1750 年以一票之差被解雇。拒绝了北美和苏格兰讲坛的邀请后，爱德华兹退隐到斯托克布里奇的印第安传教站，管理两个困难的教区，监督一个为印第安男孩开设的寄宿学校，并完成了他的最后几部重要作品——《意志的自由》（1754 年）、《原罪》（1758 年）、《创世之终》和《真善》（均于 1765 年死后出版）。爱德华兹于 1757 年接受了新泽西学院（现普林斯顿大学）校长的任命。1758 年 3 月 22 日，他因接种天花疫苗引起的并发症去世，距就职不到五周。爱德华兹的著作主要旨在捍卫清教徒版的加尔文主义正统，对圣公会和长老会神学产生了深远影响。然而，他广泛的笔记本显示出他对哲学问题本身的兴趣，而他在私人文件和出版作品中使用的哲学论证既复杂又经常独创。
 
 ## 2. 形而上学
 
@@ -20,15 +20,15 @@
 
 爱德华兹认为，不确定性与我们对上帝的依赖以及他的主权是不相容的。如果我们对上帝的恩典的回应是反因果自由的，那么我们的救赎在一定程度上取决于我们自己，上帝的主权就不是“绝对和普遍”的。《意志的自由》辩护了神学的决定论。爱德华兹首先试图证明自由意志论是不连贯的。例如，他认为，通过“自我决定”，自由意志者必须意味着一个人的行为，包括一个人的意愿行为，是由一个自由意志的行为先行，或者一个人的意愿行为缺乏充分的原因。第一种情况导致无限回归，而第二种情况意味着意愿行为发生在意外情况下，因此不能使某人“变得更好或更糟，就像一棵树比其他树更好，因为它经常被天鹅或夜莺发现；或者一块岩石比其他岩石更邪恶，因为响尾蛇更经常爬过它”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，327 页）。根据第二种选择，选择行为（意志）既不是我们选择的，也不是由原因、我们的性格或灵魂的其他状态决定的。但如果不是这样，那么它们就不是真正属于我们，我们也不能对它们负责。爱德华兹还认为，自由意志论与普通道德概念不一致。例如，如果完全需要犯罪就完全免责，那么对犯罪的偏见应该部分免责。但事实并非如此；一个出于恶意习惯行事的人被认为“更值得被憎恶和谴责”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，360 页）。由于自由意志论意味着必然性是免责的，它与我们归因责任的方式是不一致的。
 
-爱德华兹认为，自由意志主义的貌似合理性根植于对“哲学”和“俗”（普通）用法的系统混淆。例如，在普通用法中，当我们无法控制时，某事物（例如，保持坐姿）被说成是“对我们是必要的…无论我们愿意与否”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，150 页）。因果必然性并不意味着“俗气必然性”。根深蒂固的习惯、深深的怨恨等可能会导致恶意行为。但这并不意味着如果代理人选择不恶意行事，她就不会克制自己不恶意行事。因此，她在因果上无法做出其他行为并不意味着她在“俗”或普通意义上无法这样做。因此，自由意志主义者错误地认为，因为俗气必然性是一种借口，所以因果必然性也是。再次，普通语言中的“自由”或“自由”仅指“一个人按照他的选择做事和行事的能力和机会”，并不涉及行为意志的“原因或起源”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，163–64 页）。因此，普通意义上的自由对道德代理是至关重要的，并不意味着反因果自由是必要的。还要注意，普通意义上的行动是“一些动作或力量的发挥，是自愿的，或是意志的结果…\[这个术语]最常用于表示外在行动”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，346 页）。错误地将“行动”一词扩展到意志的运动导致一些自由意志主义者得出结论，即由于外部行为必须先于意志行为而自愿进行，并且是道德评价的适当对象，所以意志行为也必须如此。一个结果是自由意志主义者误导性地谈论意志的自我决定。
+爱德华兹认为，自由意志主义的貌似合理性根植于对“哲学”和“俗”（普通）用法的系统混淆。例如，在普通用法中，当我们无法控制时，某事物（例如，保持坐姿）被说成是“对我们是必要的…无论我们愿意与否”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，150 页）。因果必然性并不意味着“俗气必然性”。根深蒂固的习惯、深深的怨恨等可能会导致恶意行为。但这并不意味着如果代理人选择不恶意行事，她就不会克制自己不恶意行事。因此，她在因果上无法做出其他行为并不意味着她在“俗”或普通意义上无法这样做。因此，自由意志主义者错误地认为，因为俗气必然性是一种借口，所以因果必然性也是。再次，普通语言中的“自由”或“自由”仅指“一个人按照他的选择做事和行事的能力和机会”，并不涉及行为意志的“原因或起源”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，163–64 页）。因此，普通意义上的自由对道德代理是至关重要的，并不意味着反因果自由是必要的。还要注意，普通意义上的行动是“一些动作或力量的发挥，是自愿的，或是意志的结果…\[这个术语] 最常用于表示外在行动”（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，346 页）。错误地将“行动”一词扩展到意志的运动导致一些自由意志主义者得出结论，即由于外部行为必须先于意志行为而自愿进行，并且是道德评价的适当对象，所以意志行为也必须如此。一个结果是自由意志主义者误导性地谈论意志的自我决定。
 
 爱德华兹的神学决定论的主要理由是上帝的主权、充分理由原则（要求一切开始存在的事物都有完整的原因）、动机的本质和上帝的预知。后两者被详细讨论。
 
 动机论的论证依赖于爱德华兹对意愿或选择与个人最强烈的倾向或偏好的认同。由于选择本身就是一种主导倾向，在没有主导动机的情况下选择在逻辑上是不可能的。然而，如果存在主导动机，那么意志必然受其决定，因为如果意志选择与主导动机相反，那么代理人将同时具有两种相反的主导倾向。因此，所有选择都是必然确定的。
 
-爱德华兹关于神圣预知的最引人注目的论点基于无法知晓未来的偶然事件以及过去的必然性。只有当人们有证据支持某一命题时，才能知道 p，“证据必须是……两种之一，即自明或证明。”然而，关于未来的偶然事件的命题不能是自明的，因为它们所代表的事态既不在当下的思维中，也不是必然的。但它们也不能被证明，因为如果命题所表达的事态确实是偶然的，“现在不存在任何与偶然事件的未来存在\[必然]相关的事物。”未来的偶然事件因此是不可知的（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，259 页）。由于上帝对未来的知识是全面的，因此可以得出结论，没有未来事件（因此也没有未来的人类行为）是真正偶然的。
+爱德华兹关于神圣预知的最引人注目的论点基于无法知晓未来的偶然事件以及过去的必然性。只有当人们有证据支持某一命题时，才能知道 p，“证据必须是……两种之一，即自明或证明。”然而，关于未来的偶然事件的命题不能是自明的，因为它们所代表的事态既不在当下的思维中，也不是必然的。但它们也不能被证明，因为如果命题所表达的事态确实是偶然的，“现在不存在任何与偶然事件的未来存在\[必然] 相关的事物。”未来的偶然事件因此是不可知的（《意志的自由》，1754 年；爱德华兹 1957 年–，第 1 卷，259 页）。由于上帝对未来的知识是全面的，因此可以得出结论，没有未来事件（因此也没有未来的人类行为）是真正偶然的。
 
-结论也是由过去的必然性所导致的。假设我在时间 t 做出决定 D。由于上帝是全知的，他一直相信 D 发生在 t 时刻。由于他不会犯错，上帝在某个较早时间 t\*\*n 相信 D 发生在 t 时刻意味着 D 发生在 t 时刻。但上帝的先知是相对于 t 时刻过去的，因此在某种意义上是“现在必然的”，在 t 时刻无法改变。然而，由必然事实所蕴含的也是必然的。因此，D 在 t 时刻不可能不发生。即使有人诉诸上帝的永恒性也无法逃避这个结论。因为即使上帝的“先知”是永恒的，因此不会在他们所涉及的事件之前发生，但神启示的预言并非如此。然而，神启示的预言也与它们预言的人类行为必然相关，并且在与它们相关的人类行为方面显然是过去的（因此是必然的）。
+结论也是由过去的必然性所导致的。假设我在时间 t 做出决定 D。由于上帝是全知的，他一直相信 D 发生在 t 时刻。由于他不会犯错，上帝在某个较早时间 t\*\* n 相信 D 发生在 t 时刻意味着 D 发生在 t 时刻。但上帝的先知是相对于 t 时刻过去的，因此在某种意义上是“现在必然的”，在 t 时刻无法改变。然而，由必然事实所蕴含的也是必然的。因此，D 在 t 时刻不可能不发生。即使有人诉诸上帝的永恒性也无法逃避这个结论。因为即使上帝的“先知”是永恒的，因此不会在他们所涉及的事件之前发生，但神启示的预言并非如此。然而，神启示的预言也与它们预言的人类行为必然相关，并且在与它们相关的人类行为方面显然是过去的（因此是必然的）。
 
 必要性与道德责任是一致的。当我们按照自己的选择行事时，我们被认为对自己的行为负责，而决定论并不否认我们的行为通常源于我们的选择。必然性也并不与赞美和责备不相容。即使上帝和基督必然为最好的行动，他们的行动也是值得称赞的。
 
@@ -42,15 +42,15 @@
 
 爱德华兹的偶然主义、唯心主义和心灵现象主义提供了对上帝绝对主权的哲学解释：上帝是唯一真正的原因和唯一真实的物质。
 
-爱德华兹隐含区分了真正的或真实的原因与普通或“俗”意义上的原因。后者是“在其存在之后或之上，或其存在以这种方式之后，另一件事的存在就会随之而来”（“心灵”，编号 26；爱德华兹 1957 年至今，第 6 卷，350 页）。俗气的原因并非真正的原因。首先，所谓的第二原因在空间或时间上与其效果有所不同，“没有\[真正的]原因可以在其本身不在的时间和地点产生效果”（原罪，1758 年；爱德华兹 1957 年至今，第 3 卷，400 页）。其次，真正的原因需要其效果，而第二原因则不需要。“例如，“因为上一刻有…颜色、阻力、…或思想，或任何其他依赖的事物，所以下一刻就会有类似的事物”这样的推理“根本不必然成立”（原罪，1758 年；爱德华兹 1957 年至今，第 3 卷，404 页）。最后，如果第二原因是真正的原因，它们将足以产生效果。然而，如果它们足够的话，那么上帝的活动就会是多余的，而事实并非如此。与第二原因不同，上帝的因果活动符合所有三个条件。由于上帝不在时间或空间中，他的活动与其效果之间没有时间或空间上的分离。由于上帝本质上是全能的，他的意志必然是有效的；他不可能愿意 s 而 s 不发生。第三个条件也得到满足。由于上帝是全能的，他不需要其他因果力量的合作来产生他的效果。由于主权属于他独自，他不与他人分享他的因果力量。因此，上帝的旨意完全足以产生效果。因此，只有上帝是唯一的真正原因。俗气的原因（例如，加热水）只是上帝产生效果的场合（例如，水的沸腾），“方法和法则”表达了他的惯常行事方式。
+爱德华兹隐含区分了真正的或真实的原因与普通或“俗”意义上的原因。后者是“在其存在之后或之上，或其存在以这种方式之后，另一件事的存在就会随之而来”（“心灵”，编号 26；爱德华兹 1957 年至今，第 6 卷，350 页）。俗气的原因并非真正的原因。首先，所谓的第二原因在空间或时间上与其效果有所不同，“没有\[真正的] 原因可以在其本身不在的时间和地点产生效果”（原罪，1758 年；爱德华兹 1957 年至今，第 3 卷，400 页）。其次，真正的原因需要其效果，而第二原因则不需要。“例如，“因为上一刻有…颜色、阻力、…或思想，或任何其他依赖的事物，所以下一刻就会有类似的事物”这样的推理“根本不必然成立”（原罪，1758 年；爱德华兹 1957 年至今，第 3 卷，404 页）。最后，如果第二原因是真正的原因，它们将足以产生效果。然而，如果它们足够的话，那么上帝的活动就会是多余的，而事实并非如此。与第二原因不同，上帝的因果活动符合所有三个条件。由于上帝不在时间或空间中，他的活动与其效果之间没有时间或空间上的分离。由于上帝本质上是全能的，他的意志必然是有效的；他不可能愿意 s 而 s 不发生。第三个条件也得到满足。由于上帝是全能的，他不需要其他因果力量的合作来产生他的效果。由于主权属于他独自，他不与他人分享他的因果力量。因此，上帝的旨意完全足以产生效果。因此，只有上帝是唯一的真正原因。俗气的原因（例如，加热水）只是上帝产生效果的场合（例如，水的沸腾），“方法和法则”表达了他的惯常行事方式。
 
-在一篇早期论文《关于原子》中，爱德华兹指出，物质实体的概念是指某种能够独立存在的东西的概念，它“位于下方”，并保持“固体性和所有其他\[物理]属性”（Edwards 1957–，第 6 卷，215 页）。然后，他认为只有上帝符合这些条件，并得出结论，如果物质实体的概念指的是任何东西，那就指的是上帝的因果活动。
+在一篇早期论文《关于原子》中，爱德华兹指出，物质实体的概念是指某种能够独立存在的东西的概念，它“位于下方”，并保持“固体性和所有其他\[物理] 属性”（Edwards 1957–，第 6 卷，215 页）。然后，他认为只有上帝符合这些条件，并得出结论，如果物质实体的概念指的是任何东西，那就指的是上帝的因果活动。
 
 爱德华兹也认为“除了在被创造或未被创造的意识中，任何东西都不存在。” 由此可见，“物质宇宙只存在于头脑之中；” “所有实体事物的存在仅仅是想法”（“存在论”，“心灵”，编号 51，和“杂记”，编号 179；爱德华兹 1957 年，第 6 卷，204 页，368 页，和第 13 卷，327 页）。
 
 爱德华兹对唯心主义的论证与伯克利的相似（但显然没有受到影响）。最好的例子之一出现在《心灵》，编号 27。爱德华兹首先论证说，身体的概念可以分解为颜色和阻力的观念。例如，图形是颜色或阻力的终结。固实是阻力，而运动是“这种阻力从空间传递到空间的交流”。 “每位知识分子”都同意颜色只存在于心灵中。‘阻力’既指一个物体抵抗另一个物体的情况，也指一种力量，即一个物体抵抗其他物体的倾向。前者是观念的一种方式或属性；正是观念“被抵抗…移动、停止和反弹”。例如，我们观察到一颗台球从垫子上弹开的情景可以被分解为对颜色和图形（台球）特定配置的印象，它靠近另一个物体（垫子），接触它，然后远离它。阻力的力量不过是一种神圣的“设立”，即“上帝力量的实际施加”的“恒定法则或方法”产生阻力的实例。因此，阻力的实例是观念的特质，而阻力的力量是一种稳定的神圣意图以某种方式行动。因此，阻力只存在于与心灵的关系中。由于身体的概念可以归纳为颜色和阻力的观念，而颜色和阻力只存在于心灵中，“世界是一个理想的世界”（爱德华兹 1957–，第 6 卷，350–51）。
 
-爱德华兹的心灵现象主义是他偶然论和对物质观点的自然延伸。如果上帝是时空现象的唯一真正原因，那么他就是“思想”或“感知”的唯一真正原因。如果物质是“自己存在”，“站在下面”，并“维持”一组属性，那么心灵物质只能是自己存在，站在下面，并维持心理属性。由此可见，心灵物质的概念要么什么也不表示，要么指的是上帝的因果活动。“我们所谓的精神”，“实际上只是一系列感知\[心理事件]的组合……由……法则连接”（《知识与存在笔记》；爱德华兹 1957–，第 6 卷，398 页）。
+爱德华兹的心灵现象主义是他偶然论和对物质观点的自然延伸。如果上帝是时空现象的唯一真正原因，那么他就是“思想”或“感知”的唯一真正原因。如果物质是“自己存在”，“站在下面”，并“维持”一组属性，那么心灵物质只能是自己存在，站在下面，并维持心理属性。由此可见，心灵物质的概念要么什么也不表示，要么指的是上帝的因果活动。“我们所谓的精神”，“实际上只是一系列感知\[心理事件] 的组合……由……法则连接”（《知识与存在笔记》；爱德华兹 1957–，第 6 卷，398 页）。
 
 心灵和物质实质因此与上帝对构成心灵的心理事件以及构成身体的可感知观念或“感觉”所进行的因果生产相同，根据他自由建立的“方法和规律”（“心灵”，编号 13；爱德华兹 1957 年–，第 6 卷，344 页）。因此，上帝是唯一真实的实质，也是唯一真正的原因。
 
@@ -60,11 +60,11 @@
 
 上帝是“一般存在”。他“是所有存在的总和，没有他的存在就没有存在；所有事物都在他里面，他也在一切事物中”（“Miscellanies,” no. 880; Edwards 1957–, vol. 20, 122）。爱德华兹似乎从马勒布朗奇那里借用了“一般存在”这个短语。他指的是什么？
 
-他并不是指上个世纪的评论家克莱德·霍尔布鲁克（Clyde Holbrook）和道格拉斯·埃尔伍德（Douglas Elwood）所暗示的上帝是存在的力量或存在本身。上帝既不是一种力量，也不是一种普遍性，而是一个具体的实体或物质——一个必然存在的“智慧的意志代理人，就像我们的灵魂一样，只是没有我们的缺陷，也不是一些难以想象的、无知的、必然存在的代理人”（《杂记》，编号 383；爱德华兹 1957–，第 13 卷，452 页）。
+他并不是指上个世纪的评论家克莱德 · 霍尔布鲁克（Clyde Holbrook）和道格拉斯 · 埃尔伍德（Douglas Elwood）所暗示的上帝是存在的力量或存在本身。上帝既不是一种力量，也不是一种普遍性，而是一个具体的实体或物质——一个必然存在的“智慧的意志代理人，就像我们的灵魂一样，只是没有我们的缺陷，也不是一些难以想象的、无知的、必然存在的代理人”（《杂记》，编号 383；爱德华兹 1957–，第 13 卷，452 页）。
 
 真正的美德将存在与能力或力量联系起来，并声称“存在的程度”是“更大的能力或力量”的函数，是“每个能力和每个积极品质在更高程度上具备。一个大天使必须被认为拥有更多的存在，并且在各方面都比一只蠕虫或跳蚤远离虚无”（True Virtue, 1765; 爱德华兹 1957–，第 8 卷，546 页）。Miscellany 94 确定了完美实体和完美活动：
 
-> 上帝是纯粹的行动...因为完美行动的那个是全部行动，只有行动。在接近完美行动的被造物中有这种形象。\[因此，]天堂的圣徒都变成了爱，融入了喜悦，成为活动本身，变成了纯粹的狂喜。 (Edwards 1957–, vol. 13, 260f.)
+> 上帝是纯粹的行动...因为完美行动的那个是全部行动，只有行动。在接近完美行动的被造物中有这种形象。\[因此，] 天堂的圣徒都变成了爱，融入了喜悦，成为活动本身，变成了纯粹的狂喜。 (Edwards 1957–, vol. 13, 260f.)
 
 “三位一体论”声称在神圣本质中没有物质和行为之间的区别，因为上帝的本质既是“完全的物质又是完全的行为”（爱德华兹 1957, vol. 21, 116）。而“心灵”第 45 号将存在与意识等同起来。“只有感知的存在才是真正的存在”（爱德华兹 1957–, vol. 6, 363）。尽管爱德华兹从未系统地发展或整合这些零散的观察，但它们的趋势是将存在与行动中的心灵等同起来，将存在的程度与心灵或意识的程度等同起来，并将其所从事的活动的比较完美度等同起来。上帝的意识和力量是无限的，他的活动是完美的。因此，他的存在是无限的。
 
@@ -92,7 +92,7 @@
 
 真正的美德旨在追求普遍存在的善，并因此也珍视促进其的性情。真正有美德的人因此热爱两样东西——存在和仁爱。他们不仅仅因为仁爱促进了普遍的善而重视仁爱；他们也因为仁爱本身而“享受”或者说喜爱它。因此，虽然美德“最本质上在于对存在的仁爱”（True Virtue, 1765; 爱德华兹 1957–, vol. 8, 540），在更广泛的意义上，它不仅包括仁爱，还包括对仁爱内在卓越或美丽的“喜悦”。
 
-上帝，“是无限最伟大的存在”，“无限最美丽和卓越”。因此，真正的美德主要在于“对上帝的至高爱，无论是善意还是欣赏之爱”（True Virtue, 1765; Edwards 1957–, vol. 8, 550–51）。由此可见，“一个决心与某个特定个人或私人系统\[无论是自己、家人、国家，甚至是整个人类]结合和善意，这只是存在的普遍系统的一小部分……不是真正美德的本质”，除非它依赖于或“服从于，对普遍存在的善意”（True Virtue, 1765; Edwards 1957–, vol. 8, 554）。
+上帝，“是无限最伟大的存在”，“无限最美丽和卓越”。因此，真正的美德主要在于“对上帝的至高爱，无论是善意还是欣赏之爱”（True Virtue, 1765; Edwards 1957–, vol. 8, 550–51）。由此可见，“一个决心与某个特定个人或私人系统\[无论是自己、家人、国家，甚至是整个人类] 结合和善意，这只是存在的普遍系统的一小部分……不是真正美德的本质”，除非它依赖于或“服从于，对普遍存在的善意”（True Virtue, 1765; Edwards 1957–, vol. 8, 554）。
 
 沙夫茨伯里（Shaftesbury）、哈奇森（Hutcheson）等人的主要关注之一是驳斥行动总是出于自爱的观点。爱德华兹（Edwards）对这些尝试的态度是矛盾的。一方面，他否认真正仁慈的人是出于自爱的动机。另一方面，爱德华兹认为（反对哈奇森等人）大多数有良心和关心他人的行为实际上是一种自爱，而且，无论如何，出于理性自爱、良心或天生的关心他人本能（如父母的爱或怜悯）的行为并非真正的美德。
 
@@ -122,11 +122,11 @@
 
 圣徒们独自处于认知位置，能够辨别依赖于“神圣事物的卓越性”宗教真理。例如，对基督作为调解者的信念取决于对他的美丽和卓越性的理解。或者，一个人必须看到圣洁的美丽才能欣赏“罪恶的可恶”，从而确信神的惩罚公正以及我们无法弥补的无能。这种新的感知也帮助我们领悟福音计划的真理。对其真理的信念是从对其描绘的美丽或光辉的感知中直接推断出来的，即“上帝和耶稣基督……救赎的工作，以及上帝的方式和作为”（《神圣与超自然的光》, 1734; 爱德华兹 1957–, 卷 17, 413)。
 
-爱德华兹对新灵性感知客观性的辩护有四个步骤。 (1) 仁爱与事物的本质相符。世界是一个相互关联的心灵和思想系统，其中唯一真实的物质和原因是无限和全能的爱。因此，人类的仁爱是对现实的适当或恰当回应。 (2) 仁爱对仁爱感到高兴；它喜欢它，或者为了它自身而高兴。由于仁爱是对现实的适当回应，仁爱对仁爱的喜悦也是如此。 (3) 但对仁爱的喜悦就是对其灵性美的感知。由此可见，(4) 被救赎者的灵性感知是真实的 — “代表”了“除了在\[他们]自己的头脑中”之外的某种东西 (True Virtue, 1765; Edwards 1957–, vol. 8, 622).
+爱德华兹对新灵性感知客观性的辩护有四个步骤。 (1) 仁爱与事物的本质相符。世界是一个相互关联的心灵和思想系统，其中唯一真实的物质和原因是无限和全能的爱。因此，人类的仁爱是对现实的适当或恰当回应。 (2) 仁爱对仁爱感到高兴；它喜欢它，或者为了它自身而高兴。由于仁爱是对现实的适当回应，仁爱对仁爱的喜悦也是如此。 (3) 但对仁爱的喜悦就是对其灵性美的感知。由此可见，(4) 被救赎者的灵性感知是真实的 — “代表”了“除了在\[他们] 自己的头脑中”之外的某种东西 (True Virtue, 1765; Edwards 1957–, vol. 8, 622).
 
 乔纳森‧爱德华兹在这里还隐含地为灵性感知的客观性进行了神学辩护。“真正的救赎恩典不过是上帝的爱；也就是说，三位一体中的上帝之一，将自己与受造物的灵魂结合为一个生命原则，住在那里，并通过人的灵魂的能力以自己的本性行动，犹如自然原则的方式。” 因此，圣徒们“不仅仅是分享某种意义上可称为神圣的本性，因为它符合上帝的本性；而且神明本身在某种意义上住在他们里面”（《恩典论》，爱德华兹 1957 年至今，第 21 卷，194 页）。 （这些主张有清教徒的先例。）
 
-爱德华兹提出了两个观点。首先，上帝赋予灵魂的新灵性倾向和品味是神圣的。上帝的爱和喜乐与他赐予圣徒的爱和喜乐之间的区别是程度上的差异，而非本质或种类上的差异。其次，上帝并非从外部作用于灵魂，而是在其中“作为\[新]本性的原则”，在灵魂的能力行使中生活、行动和施展自己。因此，支撑新灵性感知的“机制”最终实际上是上帝自己。因此，由于上帝在某种意义上即是现实或存在本身，因此灵性感知必然与现实保持一致。
+爱德华兹提出了两个观点。首先，上帝赋予灵魂的新灵性倾向和品味是神圣的。上帝的爱和喜乐与他赐予圣徒的爱和喜乐之间的区别是程度上的差异，而非本质或种类上的差异。其次，上帝并非从外部作用于灵魂，而是在其中“作为\[新] 本性的原则”，在灵魂的能力行使中生活、行动和施展自己。因此，支撑新灵性感知的“机制”最终实际上是上帝自己。因此，由于上帝在某种意义上即是现实或存在本身，因此灵性感知必然与现实保持一致。
 
 ### 4.2 神圣的理性
 
@@ -167,45 +167,45 @@
 * Delattre, Roland A., 1968, *Beauty and Sensibility in the Thought of Jonathan Edwards*, New Haven: Yale University Press.
 * Elwood, Douglas J., 1960, *The Philosophical Theology of Jonathan Edwards*, New York: Columbia University Press.
 * Farris, Joshua R., 2016, “Edwardsian idealism, _Imago De_i, and Contemporary Theology,” in Joshua R. Farris and S. Mark Hamilton (eds.), *Idealism and Christian Theology* (Volume 1), New York and London: Bloomsbury Academic, pp. 83–105.
-* Fiering, Norman, 1981, *Jonathan Edwards' Moral Thought and its British Context*, Chapel Hill: University of North Carolina Press.
-* Hamilton, S. Mark, 2017, *A Treatise on Jonathan Edwards: Continuous Creation and Christology* (A Series of Treatises on Jonathan Edwards: Volume 1), Ft. Worth: Jonathan Edwards Society Press.
-* Helm, Paul, 1969, “John Locke and Jonathan Edwards: A Reconsideration,” *Journal of the History of Philosophy*, 8: 51–61.
-* –––, 1979, “Jonathan Edwards and the Doctrine of Temporal Parts,” *Archiv für Geschichte der Philosophie*, 61: 37–51.
-* Holmes, Stephen R., 2003, “Does Jonathan Edwards Use a Dispositional Ontology? A Response to Sang Hyun Lee,” in Paul Helm and Oliver D. Crisp (eds.), *Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 99–114.
-* Holbrook, Clyde A., 1973, *The Ethics of Jonathan Edwards: Morality and Aesthetics*, Ann Arbor: University of Michigan Press.
-* Jenson, Robert W., 1988, *America's Theologian: A Recommendation of Jonathan Edwards*, New York: Oxford University Press.
-* Lane, Beldon C., 2004, “Jonathan Edwards on Beauty, Desire, and the Sensory World,” *Theological Studies*, 65: 46–72.
-* Lee, Sang Hyun, 1988, *The Philosophical Theology of Jonathan Edwards*, Princeton: Princeton University Press.
-* –––, 1999, “Edwards on God and Nature: Resources for Contemporary Theology,” in Sang Hyun Lee and Alan C. Guelzo (eds.), *Edwards in our Time: Jonathan Edwards and the Shaping of American Religion*, Grand Rapids: William B. Eerdmans.
-* Lesser, M. X., 2007, *Reading Jonathan Edwards: an annotated bibliography in three parts, 1729–2005*, Grand Rapids: W. B. Eerdmans.
-* Lewis, Paul, 1994, “‘The Springs of Motion’: Jonathan Edwards on Emotions,” *Journal of Religious Ethics*, 22: 275–97.
-* LoLordo, Antonia, 2014, “Jonathan Edwards's Argument Concerning Persistence,” *Philosophers' Imprint*, 14(24) \[[available online](http://hdl.handle.net/2027/spo.3521354.0014.024)].
-* Marsden, George M., 2003, *Jonathan Edwards: A Life*, New Haven: Yale University Press.
-* McClymond, Michael, J., 1998, *Encounters with God: An Approach to the Theology of Jonathan Edwards*, Oxford: Oxford University Press.
-* McDermott, Gerald R., 2000, *Jonathan Edwards Confronts the Gods: Christian Theology Theology, Enlightenment Religion, and Non-Christian Faiths*, Oxford: Oxford University Press
-* McClymond, Michael J. and Gerald R. McDermott, 2012, *The Theology of Jonathan Edwards*, New York: Oxford University Press.
-* Miller, Perry, 1949, *Jonathan Edwards*, New York: W. Sloane Associates.
-* Pauw, Amy Plantinga, 2002, *The Supreme Harmony of All: The Trinitarian Theology of Jonathan Edwards*, Grand Rapids: William B. Eerdmans.
-* –––, 2003, “‘One Alone Cannot be Excellent’; Edwards on Divine Simplicity,” in Paul Helm and Oliver D. Crisp (eds.), *Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 115–125.
-* Post, Stephen, 1986, “Disinterested Benevolence: An American Debate Over the Nature of Christian Love,” *Journal of Religious Ethics*, 14: 356–68.
-* Rehnman, Sebastian, 2010, “Is the Distinction Between Natural and Moral Attributes Good? Jonathan Edwards on Divine Attributes,” *The History of Philosophy Quarterly*, 27: 57–78.
-* Reid, Jasper, 2003, “Jonathan Edwards on Space and God,” *Journal of the History of Philosophy*, 41: 385–403.
-* Schmidt, Lawrence K., 1988, “Jonathan Edwards' Idealistic Argument from Resistance,” *Southwest Philosophy Review*, 4: 39–47.
-* Smith, John E., 1992, *Jonathan Edwards: Puritan, Preacher, Philosopher*, London: Geoffrey Chapman, and Notre Dame: University of Notre Dame Press.
-* Wainwright, William J., 1980, “Jonathan Edwards and the Language of God,” *The Journal of the American Academy of Religion*, 48: 520–30.
-* –––, 1982, “Jonathan Edwards, Atoms, and Immaterialism,” *Idealistic Studies*, 12(1): 79–89.
-* –––, 1988, “Original Sin,” in Thomas V. Morris (ed.), *Philosophy and the Christian Faith*, Notre Dame: University of Notre Dame Press, 31–60
-* –––, 1995, *Reason and the Heart*, Chapter 1, Ithaca: Cornell University Press.
-* –––, 1996, “Jonathan Edwards, William Rowe, and the Necessity of Creation,” in Jeff Jordan and Daniel Howard-Snyder (eds.), *Faith, Freedom, and Responsibility*, Lanham: Rowman and Littlefield, pp. 119–133, 262–69.
-* –––, 2001, “Jonathan Edwards and the Hiddenness of God,” in Paul Moser and Daniel Howard-Snyder (eds.), *New Essays on the Divine Hiddenness*, Cambridge: Cambridge University Press, pp. 98–119.
-* –––, 2001, “Theological Determinism and the Problem of Evil: Are Arminians Any Better Off?” *International Journal for Philosophy of Religion*, 50: 81–96.
-* –––, 2010, “Jonathan Edwards, God, and ‘Particular Minds’,” *International Journal for Philosophy of Religion* (Special Anniversary Volume), 68(1–3): 201–213
-* –––, 2012, “Jonathan Edwards and his Puritan Predecessors,” in Paul L. Gavrilyuk and Sarah Coakley (eds.), *The Spiritual Senses: Perceiving God in Western Christianity*, Cambridge: Cambridge University Press, pp. 224–240.
-* –––, 2016, “Berkeley, Edwards, Idealism, and the Knowledge of God,” in Joshua R. Farris and S. Mark Hamilton (eds.), *Idealism and Christian Theology*, New York and London: Bloomsbury Academic, pp. 35–53.
-* –––, 2017, ‘Jonathan Edwards: Basic Epistemic Modalities And Their Sanctification,’ in William J. Abraham & Frederick D. Aquino (eds.), *The Oxford Handbook of the Epistemology of Theology*, New York, Oxford: Oxford University Press, pp. 471–483.
-* –––, 2018, ‘Edwards on Evil,’ in Douglas Headley, Chad Meister, and Charles Taliaferro (eds.), *The History of Evil in the Eighteenth and Nineteenth Centuries*: 1700–1900 CE (The History of Evil: Volume IV), New York: Routledge, pp. 39–53.
-* Walton, Brad, 2003, *Jonathan Edwards, Religious Affections and the Puritan Analysis of True Piety, Spiritual Sensation, and Heart Religion*, Lewiston: Edwin Mellon Press.
-* Winslow, Ola Elizabeth, 1940, *Jonathan Edwards 1703–1758: A Biography*, New York: Macmillan.
+* Fiering, Norman, 1981, * Jonathan Edwards' Moral Thought and its British Context*, Chapel Hill: University of North Carolina Press.
+* Hamilton, S. Mark, 2017, * A Treatise on Jonathan Edwards: Continuous Creation and Christology* (A Series of Treatises on Jonathan Edwards: Volume 1), Ft. Worth: Jonathan Edwards Society Press.
+* Helm, Paul, 1969, “John Locke and Jonathan Edwards: A Reconsideration,” * Journal of the History of Philosophy*, 8: 51–61.
+* –––, 1979, “Jonathan Edwards and the Doctrine of Temporal Parts,” * Archiv für Geschichte der Philosophie*, 61: 37–51.
+* Holmes, Stephen R., 2003, “Does Jonathan Edwards Use a Dispositional Ontology? A Response to Sang Hyun Lee,” in Paul Helm and Oliver D. Crisp (eds.), * Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 99–114.
+* Holbrook, Clyde A., 1973, * The Ethics of Jonathan Edwards: Morality and Aesthetics*, Ann Arbor: University of Michigan Press.
+* Jenson, Robert W., 1988, * America's Theologian: A Recommendation of Jonathan Edwards*, New York: Oxford University Press.
+* Lane, Beldon C., 2004, “Jonathan Edwards on Beauty, Desire, and the Sensory World,” * Theological Studies*, 65: 46–72.
+* Lee, Sang Hyun, 1988, * The Philosophical Theology of Jonathan Edwards*, Princeton: Princeton University Press.
+* –––, 1999, “Edwards on God and Nature: Resources for Contemporary Theology,” in Sang Hyun Lee and Alan C. Guelzo (eds.), * Edwards in our Time: Jonathan Edwards and the Shaping of American Religion*, Grand Rapids: William B. Eerdmans.
+* Lesser, M. X., 2007, * Reading Jonathan Edwards: an annotated bibliography in three parts, 1729–2005*, Grand Rapids: W. B. Eerdmans.
+* Lewis, Paul, 1994, “‘The Springs of Motion’: Jonathan Edwards on Emotions,” * Journal of Religious Ethics*, 22: 275–97.
+* LoLordo, Antonia, 2014, “Jonathan Edwards's Argument Concerning Persistence,” * Philosophers' Imprint*, 14(24) \[[available online](http://hdl.handle.net/2027/spo.3521354.0014.024)].
+* Marsden, George M., 2003, * Jonathan Edwards: A Life*, New Haven: Yale University Press.
+* McClymond, Michael, J., 1998, * Encounters with God: An Approach to the Theology of Jonathan Edwards*, Oxford: Oxford University Press.
+* McDermott, Gerald R., 2000, * Jonathan Edwards Confronts the Gods: Christian Theology Theology, Enlightenment Religion, and Non-Christian Faiths*, Oxford: Oxford University Press
+* McClymond, Michael J. and Gerald R. McDermott, 2012, * The Theology of Jonathan Edwards*, New York: Oxford University Press.
+* Miller, Perry, 1949, * Jonathan Edwards*, New York: W. Sloane Associates.
+* Pauw, Amy Plantinga, 2002, * The Supreme Harmony of All: The Trinitarian Theology of Jonathan Edwards*, Grand Rapids: William B. Eerdmans.
+* –––, 2003, “‘One Alone Cannot be Excellent’; Edwards on Divine Simplicity,” in Paul Helm and Oliver D. Crisp (eds.), * Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 115–125.
+* Post, Stephen, 1986, “Disinterested Benevolence: An American Debate Over the Nature of Christian Love,” * Journal of Religious Ethics*, 14: 356–68.
+* Rehnman, Sebastian, 2010, “Is the Distinction Between Natural and Moral Attributes Good? Jonathan Edwards on Divine Attributes,” * The History of Philosophy Quarterly*, 27: 57–78.
+* Reid, Jasper, 2003, “Jonathan Edwards on Space and God,” * Journal of the History of Philosophy*, 41: 385–403.
+* Schmidt, Lawrence K., 1988, “Jonathan Edwards' Idealistic Argument from Resistance,” * Southwest Philosophy Review*, 4: 39–47.
+* Smith, John E., 1992, * Jonathan Edwards: Puritan, Preacher, Philosopher*, London: Geoffrey Chapman, and Notre Dame: University of Notre Dame Press.
+* Wainwright, William J., 1980, “Jonathan Edwards and the Language of God,” * The Journal of the American Academy of Religion*, 48: 520–30.
+* –––, 1982, “Jonathan Edwards, Atoms, and Immaterialism,” * Idealistic Studies*, 12(1): 79–89.
+* –––, 1988, “Original Sin,” in Thomas V. Morris (ed.), * Philosophy and the Christian Faith*, Notre Dame: University of Notre Dame Press, 31–60
+* –––, 1995, * Reason and the Heart*, Chapter 1, Ithaca: Cornell University Press.
+* –––, 1996, “Jonathan Edwards, William Rowe, and the Necessity of Creation,” in Jeff Jordan and Daniel Howard-Snyder (eds.), * Faith, Freedom, and Responsibility*, Lanham: Rowman and Littlefield, pp. 119–133, 262–69.
+* –––, 2001, “Jonathan Edwards and the Hiddenness of God,” in Paul Moser and Daniel Howard-Snyder (eds.), * New Essays on the Divine Hiddenness*, Cambridge: Cambridge University Press, pp. 98–119.
+* –––, 2001, “Theological Determinism and the Problem of Evil: Are Arminians Any Better Off?” * International Journal for Philosophy of Religion*, 50: 81–96.
+* –––, 2010, “Jonathan Edwards, God, and ‘Particular Minds’,” * International Journal for Philosophy of Religion* (Special Anniversary Volume), 68(1–3): 201–213
+* –––, 2012, “Jonathan Edwards and his Puritan Predecessors,” in Paul L. Gavrilyuk and Sarah Coakley (eds.), * The Spiritual Senses: Perceiving God in Western Christianity*, Cambridge: Cambridge University Press, pp. 224–240.
+* –––, 2016, “Berkeley, Edwards, Idealism, and the Knowledge of God,” in Joshua R. Farris and S. Mark Hamilton (eds.), * Idealism and Christian Theology*, New York and London: Bloomsbury Academic, pp. 35–53.
+* –––, 2017, ‘Jonathan Edwards: Basic Epistemic Modalities And Their Sanctification,’ in William J. Abraham & Frederick D. Aquino (eds.), * The Oxford Handbook of the Epistemology of Theology*, New York, Oxford: Oxford University Press, pp. 471–483.
+* –––, 2018, ‘Edwards on Evil,’ in Douglas Headley, Chad Meister, and Charles Taliaferro (eds.), * The History of Evil in the Eighteenth and Nineteenth Centuries*: 1700–1900 CE (The History of Evil: Volume IV), New York: Routledge, pp. 39–53.
+* Walton, Brad, 2003, * Jonathan Edwards, Religious Affections and the Puritan Analysis of True Piety, Spiritual Sensation, and Heart Religion*, Lewiston: Edwin Mellon Press.
+* Winslow, Ola Elizabeth, 1940, * Jonathan Edwards 1703–1758: A Biography*, New York: Macmillan.
 
 ## Academic Tools
 

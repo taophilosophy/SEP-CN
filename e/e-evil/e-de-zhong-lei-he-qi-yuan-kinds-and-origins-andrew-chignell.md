@@ -30,11 +30,11 @@
 
 这种对“恶”及其同源词在许多欧洲语言中的缓慢消失始于 17 世纪，这是由于对恶的概念的拒绝，尤其是由精英阶层。医生、道德哲学家、自然科学家，甚至神学家都回避恶，更倾向于像坏、伤害和不幸这样更易处理的概念，或者类似可量化的概念，如痛苦、苦难、创伤和无效用。传统观念中本体实质性和超自然恶的观点——能够占据一个身体或使灵魂受到恐吓的东西——被视为古雅、非科学、令人尴尬（Ruppel 2019）。
 
-宗教哲学家在规则上是一个半例外。他们过去和现在继续谈论恶，至少在讨论“问题”时是如此。 (参见有关恶之问题的条目。) 然而，如果被迫，他们通常会承认这是因为问题的伟大构建者——奥古斯丁、阿奎那、莱布尼茨、贝尔——使用了这个术语（用拉丁语或法语），然后继续以迈克尔·图利的话概括为“任何不良状态”（2002 [2019]）。在广义上大陆传统的宗教哲学家不太可能将恶同化为更一般或温和的概念，更有可能讨论恶的本质，而不是它对神论提出的“问题”（例如，基尔尼 2001 和马图斯蒂克 2008）。宗教哲学家是规则的半例外。他们过去和现在继续谈论恶，至少在讨论“问题”时是如此。 (参见有关恶之问题的条目。) 然而，如果被迫，他们通常会承认这是因为问题的伟大构建者——奥古斯丁、阿奎那、莱布尼茨、贝尔——使用了这个术语（用拉丁语或法语），然后继续以迈克尔·图利的话概括为“任何不良状态”（2002 [2019]）。在广义上大陆传统的宗教哲学家不太可能将恶同化为更一般或温和的概念，更有可能讨论恶的本质，而不是它对神论提出的“问题”（例如，基尔尼 2001 和马图斯蒂克 2008）。
+宗教哲学家在规则上是一个半例外。他们过去和现在继续谈论恶，至少在讨论“问题”时是如此。 (参见有关恶之问题的条目。) 然而，如果被迫，他们通常会承认这是因为问题的伟大构建者——奥古斯丁、阿奎那、莱布尼茨、贝尔——使用了这个术语（用拉丁语或法语），然后继续以迈克尔 · 图利的话概括为“任何不良状态”（2002 [2019]）。在广义上大陆传统的宗教哲学家不太可能将恶同化为更一般或温和的概念，更有可能讨论恶的本质，而不是它对神论提出的“问题”（例如，基尔尼 2001 和马图斯蒂克 2008）。宗教哲学家是规则的半例外。他们过去和现在继续谈论恶，至少在讨论“问题”时是如此。 (参见有关恶之问题的条目。) 然而，如果被迫，他们通常会承认这是因为问题的伟大构建者——奥古斯丁、阿奎那、莱布尼茨、贝尔——使用了这个术语（用拉丁语或法语），然后继续以迈克尔 · 图利的话概括为“任何不良状态”（2002 [2019]）。在广义上大陆传统的宗教哲学家不太可能将恶同化为更一般或温和的概念，更有可能讨论恶的本质，而不是它对神论提出的“问题”（例如，基尔尼 2001 和马图斯蒂克 2008）。
 
 尽管在科学文化和日常用语中对“邪恶”存在普遍的胆怯，但在某些时刻，古老词汇的吸引力是无法抗拒的——至少在表达上，无论是谴责还是悲叹的方式。预谋的大规模枪击事件不仅仅是糟糕或创伤性的；相反，它们是另一回事：在这里，人们仍然会提到“邪恶”甚至“根本邪恶”。父母长期囚禁和强奸儿童是一种产生负效用的不幸，但其中令人着迷的恐怖似乎只能通过“邪恶”的召唤来捕捉。大多数种族灭绝、性交易、酷刑杀戮、恐怖主义、连环杀人和奴役的情况也是如此：这些都是糟糕、有害和创伤性的活动，但它们也是另一回事——同时具有过度、迷人和令人厌恶的特质（见 Stone 2009，一位心理学家的描述）。面对这些行为，我们——连同我们的精神领袖、新闻播音员和政治家们——仍然愿意谈论、宣扬和发推文关于“纯邪恶”。
 
-因此，在 2017 年 2 月的一起校园枪击事件之后，唐纳德·特朗普（@realDonaldTrump）发推文称“我们必须将‘恶’挡在我们的国家之外”。（尽管有引号，很明显他指的是恶这个实体，而不是“恶”这个词。）在 2017 年 10 月的拉斯维加斯大规模枪击事件之后，特朗普和许多其他领导人将这一事件称为“一种纯粹的邪恶行为”（Matuson 2017）。更早些时候，乔治·W·布什在 2002 年 1 月 29 日的国情咨文中将伊朗、伊拉克和朝鲜称为“邪恶之轴”（见其他互联网资源），罗纳德·里根则多次将苏联描述为“邪恶帝国”，尤其是在 1983 年 3 月 8 日向全国福音派协会发表讲话时（见其他互联网资源）。
+因此，在 2017 年 2 月的一起校园枪击事件之后，唐纳德 · 特朗普（@realDonaldTrump）发推文称“我们必须将‘恶’挡在我们的国家之外”。（尽管有引号，很明显他指的是恶这个实体，而不是“恶”这个词。）在 2017 年 10 月的拉斯维加斯大规模枪击事件之后，特朗普和许多其他领导人将这一事件称为“一种纯粹的邪恶行为”（Matuson 2017）。更早些时候，乔治 ·W· 布什在 2002 年 1 月 29 日的国情咨文中将伊朗、伊拉克和朝鲜称为“邪恶之轴”（见其他互联网资源），罗纳德 · 里根则多次将苏联描述为“邪恶帝国”，尤其是在 1983 年 3 月 8 日向全国福音派协会发表讲话时（见其他互联网资源）。
 
 但是当我们这样做时——当我们谈论恶，das Böse, il male 现在——我们所指的是什么，它从哪里来？
 
@@ -48,11 +48,11 @@
 
 ## 恶的两个区别：种类和起源
 
-晚期古代（Plotinus, Proclus, Augustine, Boethius），中世纪（Anselm, Ibn Sina, Aquinas），和近代早期（Descartes, Leibniz, Bayle, Kant）包含了对恶的问题进行深入反思的复杂传统——关于其存在与否，其固有特征和自然表现，以及其起源于自然、意志或超自然的问题。在那个持续数个世纪的讨论过程中，出现了两个主要的区分。晚期古代（普罗提诺，普罗克鲁斯，奥古斯丁，博伊修斯），中世纪（安瑟尔姆，伊本·西那，阿奎那），和近代早期（笛卡尔，莱布尼茨，贝尔，康德）包含了对恶的问题进行深入反思的复杂传统——关于其存在与否，其固有特征和自然表现，以及其起源于自然、意志或超自然的问题。在那个持续数个世纪的讨论过程中，出现了两个主要的区分。
+晚期古代（Plotinus, Proclus, Augustine, Boethius），中世纪（Anselm, Ibn Sina, Aquinas），和近代早期（Descartes, Leibniz, Bayle, Kant）包含了对恶的问题进行深入反思的复杂传统——关于其存在与否，其固有特征和自然表现，以及其起源于自然、意志或超自然的问题。在那个持续数个世纪的讨论过程中，出现了两个主要的区分。晚期古代（普罗提诺，普罗克鲁斯，奥古斯丁，博伊修斯），中世纪（安瑟尔姆，伊本 · 西那，阿奎那），和近代早期（笛卡尔，莱布尼茨，贝尔，康德）包含了对恶的问题进行深入反思的复杂传统——关于其存在与否，其固有特征和自然表现，以及其起源于自然、意志或超自然的问题。在那个持续数个世纪的讨论过程中，出现了两个主要的区分。
 
 第一个主要区别与恶的性质或种类有关：恶究竟只是一个经验现象吗——在我们经验的因果现象世界中给出的东西？还是一些恶有更深层次的形而上学方面？请注意，这不是一个排他性的区别：支持形而上恶念头的人通常认为它也具有经验性的特征或表现。
 
-假设，例如，我们遇到了弗里德里希·尼采在都灵发疯的场景：一名车夫无情地鞭打他的马（Prideaux 2018）。然而，在这个案例的版本中，假设这名车夫的残忍是对他最近被诊断出患有晚期癌症的回应。因此，在这里肯定存在一些经验上的恶：身体的癌症破坏，这个人的残忍，马的痛苦。一些哲学家会说，还存在形而上的恶：这个人和马都不是形而上完美的，因此根据下文所考虑的“缺席理论”（第 3.1.1 节），在这方面两者都是邪恶的。我们也可以将这个人的身体和性格视为被腐化的，并得出结论他在“缺乏”方面也是形而上邪恶的（见第 3.1.3 节）。这些形而上的恶与癌症、残忍和马的痛苦等经验上的恶是不同的，尽管在许多观点上它们是后者的基础。
+假设，例如，我们遇到了弗里德里希 · 尼采在都灵发疯的场景：一名车夫无情地鞭打他的马（Prideaux 2018）。然而，在这个案例的版本中，假设这名车夫的残忍是对他最近被诊断出患有晚期癌症的回应。因此，在这里肯定存在一些经验上的恶：身体的癌症破坏，这个人的残忍，马的痛苦。一些哲学家会说，还存在形而上的恶：这个人和马都不是形而上完美的，因此根据下文所考虑的“缺席理论”（第 3.1.1 节），在这方面两者都是邪恶的。我们也可以将这个人的身体和性格视为被腐化的，并得出结论他在“缺乏”方面也是形而上邪恶的（见第 3.1.3 节）。这些形而上的恶与癌症、残忍和马的痛苦等经验上的恶是不同的，尽管在许多观点上它们是后者的基础。
 
 第二个主要区别与恶的起源有关，并追踪了上述三个阵营之间的差异。这里的第一个选择是说，特定的恶完全源自自然现象，没有人对此负责。在男人和他的马的情况下，人们普遍认为他们的形而上有限性和无能力，以及癌症肿瘤和犬痛，“自然”地这样：它们似乎基于有关本质、事件和涉及的因果定律的事实。第二个主要区别涉及到恶的起源，追踪了上述三个阵营之间的差异。这里的第一个选择是说，特定的恶完全源自自然现象，没有人对此负责。在男人和他的马的情况下，人们普遍认为他们的形而上有限性和无能力，以及癌症肿瘤和犬痛，“自然”地这样：它们似乎基于有关本质、事件和涉及的因果定律的事实。
 
@@ -102,7 +102,7 @@
 
 Plotinus 拒绝了缺席理论，原因是它迫使我们
 
-> 在高等世界也存在恶的说法；因为在那里，灵魂低于智慧，智慧又不及[一]。(Enneads I, 8, 13)
+> 在高等世界也存在恶的说法；因为在那里，灵魂低于智慧，智慧又不及 [一]。(Enneads I, 8, 13)
 
 对于普罗提诺（Plotinus）来说，使某物成为恶的不仅仅是低于最高的“一”；恶实际上在于与物质联系如此之低。不定或“未形成的物质”是从存在到非存在的宇宙链上的最终术语——它与智慧的距离尽可能远，因此与善的距离同样遥远。这就是恶的物质理论，对各种诺斯替主义、早期基督教异端和晚期古代柏拉图主义产生了影响（参见 O’Meara 2019）。
 
@@ -128,7 +128,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 上面用于表征形而上恶的模板也可以应用于经验恶。经验恶的缺席理论将其简单地解释为快乐、健康、稳定、正义甚至生命的物理心理状态的缺席。物质理论将痛苦、疾病、心理不适和社会弊病视为我们作为物质存在的影响，容易受到我们有机体中的“物质”分解或与其他物质创造部分发生冲突的影响。缺乏理论认为经验恶是某种应该存在的善的缺乏。因此，对于为什么应该存在这种善以及为什么它不存在会有不同的解释，其中一些将基于形而上恶的理论。
 
-相比之下，一个关于经验恶的实质论坚持认为痛苦和苦难是积极的现实，而不仅仅是缺席（因此与物质论相容，但与缺席或剥夺论不相容）。正如马勒布朗奇所指出的，在神学背景下，这是有问题的，因为上帝被认为是所有积极存在的基础（参见马勒布朗奇 1674-5 [1997: 348 和 392]）。在一封写给数学家阿诺德·埃克哈德的信中，G.W.莱布尼茨讨论了这个问题，并“带着一些顾虑”提出“痛苦也是一种完美”（1677 [1969: 177]）。这是一个相当不寻常的观点，尤其是因为莱布尼茨本人在生命的最后几年里遭受巨大的痛苦。他显然有一个习惯，就是在写字台附近的椅子上睡觉，然后相比之下，一个关于经验恶的实质论坚持认为痛苦和苦难是积极的现实，而不仅仅是缺席（因此与物质论相容，但与缺席或剥夺论不相容）。正如马勒布朗奇所指出的，在神学背景下，这是有问题的，因为上帝被认为是所有积极存在的基础（参见马勒布朗奇 1674-5 [1997: 348 和 392]）。在一封写给数学家阿诺德·埃克哈德的信中，G.W.莱布尼茨讨论了这个问题，并“带着一些顾虑”提出“痛苦也是一种完美”（1677 [1969: 177]）。这是一个相当不寻常的观点，尤其是因为莱布尼茨本人在生命的最后几年里遭受巨大的痛苦。他显然有一个习惯，就是在写字台附近的椅子上睡觉，然后
+相比之下，一个关于经验恶的实质论坚持认为痛苦和苦难是积极的现实，而不仅仅是缺席（因此与物质论相容，但与缺席或剥夺论不相容）。正如马勒布朗奇所指出的，在神学背景下，这是有问题的，因为上帝被认为是所有积极存在的基础（参见马勒布朗奇 1674-5 [1997: 348 和 392]）。在一封写给数学家阿诺德 · 埃克哈德的信中，G.W.莱布尼茨讨论了这个问题，并“带着一些顾虑”提出“痛苦也是一种完美”（1677 [1969: 177]）。这是一个相当不寻常的观点，尤其是因为莱布尼茨本人在生命的最后几年里遭受巨大的痛苦。他显然有一个习惯，就是在写字台附近的椅子上睡觉，然后相比之下，一个关于经验恶的实质论坚持认为痛苦和苦难是积极的现实，而不仅仅是缺席（因此与物质论相容，但与缺席或剥夺论不相容）。正如马勒布朗奇所指出的，在神学背景下，这是有问题的，因为上帝被认为是所有积极存在的基础（参见马勒布朗奇 1674-5 [1997: 348 和 392]）。在一封写给数学家阿诺德 · 埃克哈德的信中，G.W.莱布尼茨讨论了这个问题，并“带着一些顾虑”提出“痛苦也是一种完美”（1677 [1969: 177]）。这是一个相当不寻常的观点，尤其是因为莱布尼茨本人在生命的最后几年里遭受巨大的痛苦。他显然有一个习惯，就是在写字台附近的椅子上睡觉，然后
 
 > 导致他右腿上出现了一个开放性溃疡。这导致他行走困难；他试图解决这个问题，但只是把吸墨纸放在上面。后来，为了减轻疼痛并使神经麻木，他做了许多木夹板，并把它们螺丝固定在自己感到疼痛的地方。我怀疑通过这样做，他损伤了自己的神经，最终无法再使用双脚，只能躺在床上。(Guhrauer 1842 [1966: vol 2, p.336]; quoted in Mates 1989: 29)
 
@@ -152,7 +152,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 再次，四种传统的理论模板可以用来进一步描述构成邪恶“道德”的邪恶行为和意图。缺席理论认为，由于某物缺乏意志，或者因为其意志不善，邪恶就是一种缺席。剥夺理论认为，当一个意志不应该具有其所具有的善向缺席时，这个意志就是邪恶的。物质理论认为，我们的具身和其他与物质的互动解释了我们意志的错误定向。实财产理论坚持认为，一个以恶为取向的意志是一个真实的事物，它的恶向是其真实特征，而不仅仅是一种剥夺。
 
-道德恶根植于意志的说法并不能完全解释它。我们需要进一步说明恶选择是如何做出的——什么样的道德心理学可以解释它们。对于康德来说，解释在某一点停止；恶选择，归根结底，是不理性的——我们可以识别和归咎于它们，但永远无法完全解释。“因此，对于我们来说，道德恶最初是如何产生的，没有任何可以想象的根据”（康德 1793 年[Ak 6:43；1998:64]）。
+道德恶根植于意志的说法并不能完全解释它。我们需要进一步说明恶选择是如何做出的——什么样的道德心理学可以解释它们。对于康德来说，解释在某一点停止；恶选择，归根结底，是不理性的——我们可以识别和归咎于它们，但永远无法完全解释。“因此，对于我们来说，道德恶最初是如何产生的，没有任何可以想象的根据”（康德 1793 年 [Ak 6: 43；1998: 64]）。
 
 其他哲学家提供了部分解释。奥古斯丁说，虽然恶魔选择没有决定性原因，但可以在一定程度上“理性化”，即撒旦对自己的权力感到自恋的快乐（见 King 2019）。这是现在被称为“倾向性”恶行代理的早期版本（L. Russell 2014: ch.10; Kamtekar 2019）。相比之下，早期伊斯兰《古兰经》的解释者则以无知为解释：至高恶行代理（伊布利斯）有一些他没有意识到的东西，或者他未能做出的推断，这就解释了他对恶的取向（见 Germann 2019）。
 
@@ -168,7 +168,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 一种非常不同的回应涉及将至少一些自然恶归类为道德恶。例如，我们可以关注人类活动如何引发了导致“自然”灾难、流行病、饥荒和其他经验恶的环境、气候、微生物和生物圈变化。或者，在更宗教的背景下，我们可以通过罪恶、因果法则或神圣正义来解释“自然”造成的苦难和痛苦。
 
-在这种观点的某些版本中，道德上负责的行动者可以是受害者以外的某人：亚当犯罪，现在非人类的“创造物一直在生长”（罗马书 8:22，NRSV）—并使我们其他人也随之叹息。或者：我们排放温室气体，我们的后代三代后受苦。
+在这种观点的某些版本中，道德上负责的行动者可以是受害者以外的某人：亚当犯罪，现在非人类的“创造物一直在生长”（罗马书 8: 22，NRSV）—并使我们其他人也随之叹息。或者：我们排放温室气体，我们的后代三代后受苦。
 
 其他版本坚持认为，自然恶的受害者应该自己承担责任：提幔人以利法对约伯说
 
@@ -180,11 +180,11 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 > 他的愤怒一发作，他们就消失了。
 > 狮子的咆哮，凶猛狮子的声音
 > 年轻狮子的牙齿被打断。
-> 约伯记 4:7–10 (NRSV)
+> 约伯记 4: 7–10 (NRSV)
 
 以利法斯建议，如果约伯继续受苦，那么约伯自己过去行为中必定有某种解释来解释这些自然恶。这种教义的风险对于不那么古老的感性来说是显而易见的：暗示自然恶的受害者必须对此负有道德责任似乎就是在雪上加霜的定义。
 
-将自然恶描述为道德恶的另一种方式是通过诉诸既非神性也非人类的道德行为者的行动。这似乎是奥古斯丁在某些地方的立场；最近，阿尔文·普兰廷加曾将其作为至少在广义上逻辑上可能的情景，可用于对抗“恶的逻辑问题”的“辩护”（Tooley 2002 [2019]）。这一情景表明，将自然恶重新定义为道德恶的另一种方式是通过引用既非神性也非人类的道德行为者的行动。这似乎是奥古斯丁在某些地方的立场；最近，阿尔文·普兰廷加将其作为至少在广义上逻辑上可能的情景，可用于对抗“恶的逻辑问题”的“辩护”（Tooley 2002 [2019]）。这一情景表明，
+将自然恶描述为道德恶的另一种方式是通过诉诸既非神性也非人类的道德行为者的行动。这似乎是奥古斯丁在某些地方的立场；最近，阿尔文 · 普兰廷加曾将其作为至少在广义上逻辑上可能的情景，可用于对抗“恶的逻辑问题”的“辩护”（Tooley 2002 [2019]）。这一情景表明，将自然恶重新定义为道德恶的另一种方式是通过引用既非神性也非人类的道德行为者的行动。这似乎是奥古斯丁在某些地方的立场；最近，阿尔文 · 普兰廷加将其作为至少在广义上逻辑上可能的情景，可用于对抗“恶的逻辑问题”的“辩护”（Tooley 2002 [2019]）。这一情景表明，
 
 > 自然恶是由非人类个体的自由行为造成的；在这些非人类个体的行为方面，善恶之间存在平衡；上帝无法创造一个在这些非人类个体的行为方面包含更有利善恶平衡的世界。（Plantinga 1989: 58）
 
@@ -210,7 +210,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 系统性恶似乎更具有经验性而非形而上学性质，但其起源难以确定。它似乎并非仅仅是自然现象，或者是一种神秘的非主体性存在，然而其超越主体性的特征使其看起来也并非完全是道德的。
 
-汉娜·阿伦特（Hannah Arendt）关于极权主义的早期作品（1951 年）将系统性恶描述为一种经验性恶，对此，没有个人甚至一组个人是完全负责的。 机器中的齿轮，以及领导者或领导层，可能是涉及的一些伤害的起源，但整个结构的恶（根据阿伦特的观点）在某种程度上大于其部分产生的总和。
+汉娜 · 阿伦特（Hannah Arendt）关于极权主义的早期作品（1951 年）将系统性恶描述为一种经验性恶，对此，没有个人甚至一组个人是完全负责的。 机器中的齿轮，以及领导者或领导层，可能是涉及的一些伤害的起源，但整个结构的恶（根据阿伦特的观点）在某种程度上大于其部分产生的总和。
 
 种族主义是系统性恶的另一个突出例子。最近有关某些社会（例如美国）根深蒂固的种族主义结构的报道表明，这种恶不仅源于行动和意图，还源于遗漏和被动：那些没有明确支持系统性恶的人也可以被视为其代理人。如果这是正确的，那么对抗所涉及的恶的积极工作——例如“反种族主义”活动而不是“非种族主义”活动——就成为道德上的要求（Kendi 2019）。但即使是这种积极的反对努力可能也不足以避免参与系统性恶：一些理论家认为，即使是生活在种族主义社会中的反种族主义者也同样被其恶所“污染”（Rothstein 2017）。这导致了下一个问题案例。
 
@@ -228,7 +228,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 康德是“根本恶”的源头，但他使用这个术语的方式现在已经不受青睐。事实上，大多数讨论这个问题的人以一种与康德截然不同的方式使用这个术语，指的是某种异常严重的行为或事件，其恶劣程度比普通状态或活动的恶劣更深更神秘（Bernstein 2002）。
 
-在她著名的《耶路撒冷的艾希曼审判》中，阿伦特（1963）提出了即使是最坏的恶也可以是“平凡的”和官僚的想法。然而，十年前，她对“根本的邪恶”有着完全不同的看法。在 1951 年 3 月写给卡尔·贾斯珀斯的信中，她写道：
+在她著名的《耶路撒冷的艾希曼审判》中，阿伦特（1963）提出了即使是最坏的恶也可以是“平凡的”和官僚的想法。然而，十年前，她对“根本的邪恶”有着完全不同的看法。在 1951 年 3 月写给卡尔 · 贾斯珀斯的信中，她写道：
 
 > 我们知道，最大的邪恶或根本的邪恶与人类可以理解的罪恶动机无关。我不知道什么是根本的邪恶，但在我看来，它似乎与以下现象有关：使人类作为人类变得多余。(Arendt & Jaspers 1992: 166, emphasis added)
 
@@ -236,7 +236,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 贾斯珀斯对根本邪恶的看法与之相反，始终不带异国情调，符合康德主义：“有邪恶是因为有自由。只有意志本身才可能是邪恶的”（贾斯珀斯 1947 [1958: 532]，强调添加）。根据一位评论者的说法，将人类自由作为一切邪恶根源的关注是“重要且值得赞赏”的。
 
-> 康德[以及跟随他的贾斯珀斯]拒绝迎合我们对特别适用于最极端邪恶案例的特殊解释的淫秽渴望... 他担心用极端邪恶案例占据我们的想象力可能只是一种放纵我们一些更恶劣的人类特质的方式——通过为我们的怨恨和复仇心理提供一个似乎能够证明其正当性的对象来合理化它。(Wood 2010: 157)
+> 康德 [以及跟随他的贾斯珀斯] 拒绝迎合我们对特别适用于最极端邪恶案例的特殊解释的淫秽渴望... 他担心用极端邪恶案例占据我们的想象力可能只是一种放纵我们一些更恶劣的人类特质的方式——通过为我们的怨恨和复仇心理提供一个似乎能够证明其正当性的对象来合理化它。(Wood 2010: 157)
 
 这些段落中表达的关切在讨论恶的本质和起源时很常见。简称为贾斯珀斯关切。它们是关于我们应该如何构想和谈论恶的二阶关切，尤其是在称之为“根本”的时候。这些关切可分为两种广义：(1) 关于用“恶”和“根本”等过度措辞异化不端行为的关切；以及(2) 关于被这种恶所触及的人和事物的玷污，超越了对施行者的直接谴责（有关此类关切的更多信息，请参阅 Card 2002，Cole 2006 和 Calder 2013 [2018]）。
 
@@ -260,7 +260,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 奥古斯丁在他的《忏悔录》中报告说，在梨事件中，他感到快乐
 
-> 盗窃和罪恶本身。看哪，现在，让我心告诉你，我在那里寻找什么，我应该是无端放纵的，没有诱因去做恶，只是恶本身。那是肮脏的，我爱它……我爱我的错误——不是我犯错的原因，而是错误本身。（忏悔录第二卷，第四章，第 9 段[1876:30]）
+> 盗窃和罪恶本身。看哪，现在，让我心告诉你，我在那里寻找什么，我应该是无端放纵的，没有诱因去做恶，只是恶本身。那是肮脏的，我爱它……我爱我的错误——不是我犯错的原因，而是错误本身。（忏悔录第二卷，第四章，第 9 段 [1876: 30]）
 
 在“爱罪恶本身”中，很容易说奥古斯丁在某种意义上认为它是好的。但至少在这里，他暗示了对根本邪恶的第二种理解：有些行为可以在其自身可憎的变形和腐烂的方面下进行，即使对于行为者自身来说，最终也是不好的。
 
@@ -284,11 +284,11 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 
 相比之下，很难找到任何可信的理由来解释为什么会有做某事的理由，而这种行为本身就是否定了理性。这就是为什么在否定意义上的根本邪恶威胁着独特的难以理解和令人困扰。如果有人——不是野兽或机器，而是一个人类——以一种完全否认不仅是对道德权威的认识，而且是对道德理性基本规则的方式行事，他实际上将自己置于一个前堕落状态，没有了善恶知识的负担。他的行为宣称他已完全超越了道德领域——他所做的事情不可能是错的。
 
-人类真的能在这个意义上犯下极端邪恶吗？理查德·拉米雷斯（Richard Ramirez），上世纪 80 年代洛杉矶的“夜袭者”连环杀手，肯定认为自己在这样做。他反复潜入人们的住所强奸和杀害他们，有时还会切下身体部分带走。在他第十四起谋杀案之后，他被抓住，然后向抓捕他的人吹嘘：
+人类真的能在这个意义上犯下极端邪恶吗？理查德 · 拉米雷斯（Richard Ramirez），上世纪 80 年代洛杉矶的“夜袭者”连环杀手，肯定认为自己在这样做。他反复潜入人们的住所强奸和杀害他们，有时还会切下身体部分带走。在他第十四起谋杀案之后，他被抓住，然后向抓捕他的人吹嘘：
 
 > 你不理解我...你无法理解。我超越了善恶...我喜欢杀人。我喜欢看他们死去。我会朝他们的头部开枪，他们会扭动挣扎...我喜欢那一切血液。(quoted in Stone 2009: 208).
 
-这个想法——一个人可以做一些事情，使自己超越道德规范，使其他人变得多余，并确立自己的地位为“超越善恶”——这是卡尔·雅斯贝斯所关心的，也是他希望阿伦特能够抵制的。在与阿道夫·艾希曼日常、官僚恶的面对面对抗中，她似乎改变了主意（尽管请参阅塞萨拉尼 2007 年和马加利特 2019 年对艾希曼的肖像，这些肖像抵制了她著名的“平庸论”）。但即使阿伦特最终否认了对根本邪恶的否认性概念，其他人仍然对某种版本持有同情态度（例如，伯恩斯坦 2002 年和莫茨金 2019 年）。
+这个想法——一个人可以做一些事情，使自己超越道德规范，使其他人变得多余，并确立自己的地位为“超越善恶”——这是卡尔 · 雅斯贝斯所关心的，也是他希望阿伦特能够抵制的。在与阿道夫 · 艾希曼日常、官僚恶的面对面对抗中，她似乎改变了主意（尽管请参阅塞萨拉尼 2007 年和马加利特 2019 年对艾希曼的肖像，这些肖像抵制了她著名的“平庸论”）。但即使阿伦特最终否认了对根本邪恶的否认性概念，其他人仍然对某种版本持有同情态度（例如，伯恩斯坦 2002 年和莫茨金 2019 年）。
 
 ### 7.4. 恶的根本性恶：以另一种方式使人类变得多余
 
@@ -301,7 +301,7 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 ## Bibliography
 
 * Adams, Marilyn McCord, 1998, *Horrendous Evil and the Goodness of God*, Ithaca, NY: Cornell University Press.
-* Adams, Robert Merrihew, 1999, *Finite and Infinite Goods: A Framework for Ethics*, New York: Oxford University Press. doi:10.1093/0195153715.001.0001
+* Adams, Robert Merrihew, 1999, *Finite and Infinite Goods: A Framework for Ethics*, New York: Oxford University Press. doi: 10.1093/0195153715.001.0001
 * Appiah, Kwame Anthony, 1986, “Racism and Moral Pollution”, *Philosophical Forum*, 18(2): 185–202
 * Allyn, Bobby, 2021, “Ex-Google Workers Sue Company, Saying it Betrayed ‘Don’t be Evil’ Motto”, *National Public Radio*. [[Allyn 2021 available online](https://www.npr.org/2021/11/29/1059821677/google-dont-be-evil-lawsuit?t=1638894799839)]
 * Anderson-Gold, Sharon and Pablo Muchnik (eds), 2010, *Kant’s Anatomy of Evil*, New York: Cambridge University Press. DOI: 10.1017/CBO9780511691898
@@ -314,15 +314,15 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 * Bernstein, Richard J., 2002, *Radical Evil: A Philosophical Interrogation*, New York: Polity Press.
 * Bhattacharjee Yudhijit, 2018, “The Science of Good and Evil”, *National Geographic*, January edition, pp. 116–142.
 * Calder, Todd, 2013 [2018], “The Concept of Evil”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/fall2018/entries/concept-evil/.
-* Card, Claudia, 2002, *The Atrocity Paradigm: A Theory of Evil*, New York: Oxford University Press. doi:10.1093/0195145089.001.0001
-* –––, 2010, “Kant’s Moral Excluded Middle”, in Anderson-Gold and Muchnik 2010: 74–92. doi:10.1017/CBO9780511691898.005
+* Card, Claudia, 2002, *The Atrocity Paradigm: A Theory of Evil*, New York: Oxford University Press. doi: 10.1093/0195145089.001.0001
+* –––, 2010, “Kant’s Moral Excluded Middle”, in Anderson-Gold and Muchnik 2010: 74–92. doi: 10.1017/CBO9780511691898.005
 * Cesarani, David, 2007, *Becoming Eichmann: Rethinking the Life, Crimes, and Trial of a “Desk Murderer”*, London: De Capo Press.
 * Chang, Wesley, 2019. “On Google and Not Being Evil”, in Chignell 2019b: 450–455. doi: 10.1093/oso/9780199915453.003.0027
 * Chignell, Andrew P., 2016, “Can We Really Vote with our Forks? Opportunism and the Threshold Chicken”, in Chignell et al. (eds), *Philosophy Comes to Dinner*, New York: Routledge, pp. 182–202.
-* –––, 2019a, “Evil, Intelligibility, Radicality: Footnotes to a Correspondence between Hannah Arendt and Karl Jaspers”, in Chignell 2019b: 18–42. doi:10.1093/oso/9780199915453.003.0002
-* ––– (ed.), 2019b, *Evil: A History*, New York: Oxford University Press. doi:10.1093/oso/9780199915453.001.0001
+* –––, 2019a, “Evil, Intelligibility, Radicality: Footnotes to a Correspondence between Hannah Arendt and Karl Jaspers”, in Chignell 2019b: 18–42. doi: 10.1093/oso/9780199915453.003.0002
+* ––– (ed.), 2019b, *Evil: A History*, New York: Oxford University Press. doi: 10.1093/oso/9780199915453.001.0001
 * Cole, Phillip, 2006, *The Myth of Evil*, Edinburgh: University of Edinburgh Press.
-* Davies, Brian, 2019, “Evil and Late Medieval Thought”, in Chignell 2019b: 225–251. doi:10.1093/oso/9780199915453.003.0012
+* Davies, Brian, 2019, “Evil and Late Medieval Thought”, in Chignell 2019b: 225–251. doi: 10.1093/oso/9780199915453.003.0012
 * Eagleton, Terry, 2009, *On Evil*, New Haven, CT: Yale University Press.
 * Frankfurter, David, 2006, *Evil Incarnate*, Princeton, NJ: Princeton University Press.
 * Germann, Nadja, 2019, “… *but draw not nigh this tree*: Evil in Early Islamic Thought”, in Chignell 2019b: 198–224. doi: 10.1093/oso/9780199915453.003.0011
@@ -333,42 +333,42 @@ Plotinus 的观点实际上是 privation 理论和 matter 理论的混合体：�
 * Jaspers, Karl, 1947 [1958], *Von der Wahrheit: Philosophische Logik*, Erster Band, Munich: R. Piper & Co.. Second edition, 1958.
 * –––, 1962, *Der Philosophische Glaube angesichts der Offenbarung*, Munich: R. Piper.
 * Johnston, Mark, forthcoming, “How did Evil Come into the World?”, Gifford Lectures, Fall 2019.
-* Kamtekar, Rachana, 2019, “Explaining Evil in Plato, Euripedes, and Seneca”, in Chignell 2019b: 97–128. doi:10.1093/oso/9780199915453.003.0007
+* Kamtekar, Rachana, 2019, “Explaining Evil in Plato, Euripedes, and Seneca”, in Chignell 2019b: 97–128. doi: 10.1093/oso/9780199915453.003.0007
 * Kant, Immanuel, 1793, *Die Religion innerhalb der Grenzen der bloßen Vernunft*, Königsberg. Collected in AK 6: 1–202. Translated as *Religion within the Bounds of Mere Reason*, Allen Wood and George di Giovanni (trans), Cambridge: Cambridge University Press, 1998.
-* –––, [AK] 1902– . *Gesammelte Schriften*, Berlin: Königlich preussischen Akademie der Wissenschaften, now DeGruyter, quoted by volume:page.
+* –––, [AK] 1902– . *Gesammelte Schriften*, Berlin: Königlich preussischen Akademie der Wissenschaften, now DeGruyter, quoted by volume: page.
 * Kearney, Richard, 2001,“Evil, Monstrosity and The Sublime”, *Revista Portuguesa de Filosofia*, T. 57, Fasc. 3, Desafios do Mal: Do Mistério à Sabedoria, Jul-Sep edition, pp. 485–502.
 * Kendi, Ibram X., 2019. *How to be Anti-Racist*, New York: One World Books (Penguin).
-* King, Peter, 2019, “Augustine on Evil”, in Chignell 2019b: 155–193. doi:10.1093/oso/9780199915453.003.0009
+* King, Peter, 2019, “Augustine on Evil”, in Chignell 2019b: 155–193. doi: 10.1093/oso/9780199915453.003.0009
 * Leibniz, G.W., 1677 [1969], “Letter to Arnold Eckard”, written Summer 1677. Collected in *Die philosophischen Schriften von Gottfried Wilhelm Leibniz* [G], C.I. Gerhardt (trans. and ed.), Leipzig: Weidmann, 1875; translated in Leibniz 1969: 177–182.
 * –––, 1969, *Philosophical Papers and Letters*, second edition, Leroy Loemker (trans./ed.), Dordrecht: Reidel.
-* Louden, Robert, 2010, “Evil Everywhere: The Ordinariness of Kantian Radical Evil”, in Anderson-Gold and Muchnik 2010: 93–115. doi:10.1017/CBO9780511691898.006
+* Louden, Robert, 2010, “Evil Everywhere: The Ordinariness of Kantian Radical Evil”, in Anderson-Gold and Muchnik 2010: 93–115. doi: 10.1017/CBO9780511691898.006
 * Malebranche, Nicolas, 1674–5 [1997], *De la Recherche de la vérité*, 2 volumes, Paris: André Pralard. Translated as *Search after Truth*, Thomas M. Lennon and Paul J. Olscamp (trans. and eds.), New York: Cambridge University Press, 1997.
-* Margalit, Avishai, 2019, “Evil, Instigators, and Compliers”, in Chignell 2019b: 444–449. doi:10.1093/oso/9780199915453.003.0026
-* Martin, Eric and Eric Watkins, 2019, “Evil, Natural Science, and Animal Suffering”, in Chignell 2019b: 383–413. doi:10.1093/oso/9780199915453.003.0022
-* Mates, Benson, 1989, *The Philosophy of Leibniz: Metaphysics and Language*, New York: Oxford University Press. doi:10.1093/0195059468.001.0001
+* Margalit, Avishai, 2019, “Evil, Instigators, and Compliers”, in Chignell 2019b: 444–449. doi: 10.1093/oso/9780199915453.003.0026
+* Martin, Eric and Eric Watkins, 2019, “Evil, Natural Science, and Animal Suffering”, in Chignell 2019b: 383–413. doi: 10.1093/oso/9780199915453.003.0022
+* Mates, Benson, 1989, *The Philosophy of Leibniz: Metaphysics and Language*, New York: Oxford University Press. doi: 10.1093/0195059468.001.0001
 * Matuson, Dana. 2017. “President Trump Responds Differently to NY, LV Attacks: What They’re Saying”, [[Matuson 2017 available online](https://www.syracuse.com/opinion/2017/11/trump_responds_differently_to_new_york_las_vegas_attacks_what_theyre_saying.html)]
 * Matuštík, Martin J. 2008. *Radical Evil and the Scarcity of Hope*, Bloomington, IN: Indiana University Press.
-* Motzkin, Gabriel, 2019, “Evil after the Holocaust”, in Chignell 2019b: 429–443. doi:10.1093/oso/9780199915453.003.0025
+* Motzkin, Gabriel, 2019, “Evil after the Holocaust”, in Chignell 2019b: 429–443. doi: 10.1093/oso/9780199915453.003.0025
 * Murphy, Mark, 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*. New York: Oxford.
-* Murray, Michael, 2008, *Nature Red in Tooth and Claw: Theism and the Problem of Animal Suffering*, New York: Oxford. doi:10.1093/acprof:oso/9780199237272.001.0001
-* Newlands, Samuel, 2019, “Evil, Privations, and the Early Moderns”, in Chignell 2019b: 273–305. doi:10.1093/oso/9780199915453.003.0016
+* Murray, Michael, 2008, *Nature Red in Tooth and Claw: Theism and the Problem of Animal Suffering*, New York: Oxford. doi: 10.1093/acprof: oso/9780199237272.001.0001
+* Newlands, Samuel, 2019, “Evil, Privations, and the Early Moderns”, in Chignell 2019b: 273–305. doi: 10.1093/oso/9780199915453.003.0016
 * O’Connor, Timothy and Christopher Franklin, 2018 [2021] “Free Will”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/spr2021/entries/freewill/.
-* O’Meara, Dominic J., 2019, “Explaining Evil in Late Antiquity: Plotinus and his Critics”, in Chignell 2019b: 129–154. doi:10.1093/oso/9780199915453.003.0008
+* O’Meara, Dominic J., 2019, “Explaining Evil in Late Antiquity: Plotinus and his Critics”, in Chignell 2019b: 129–154. doi: 10.1093/oso/9780199915453.003.0008
 * Plantinga, Alvin, 1989, *God, Freedom, and Evil*, Grand Rapids, MI: Eerdmans.
 * Pauer-Studer, Herlinde and J. David Velleman, 2015, *Konrad Morgan: Conscience of a Nazi Judge*, New York: Palgrave MacMillan.
 * Plotinus, *Enneads*, collected c. 270 CE. Translated in *Plotinus: The Enneads*, Lloyd P. Gerson (trans and ed.), Cambridge: Cambridge University Press, 2017.
 * Prideaux, Sue, 2018, *I am Dynamite! A Life of Friedrich Nietzsche*, New York, NY: Penguin.
 * Rothstein, Richard, 2017, *The Color of Law: A Forgotten History of How our Government Segregated America*, New York, NY: Liveright Press (W.W. Norton).
-* Ruppel, Antonia, 2019, “Kakology: A Study of Some Evil Words”, in Chignell 2019b: 44–59. doi:10.1093/oso/9780199915453.001.0001
+* Ruppel, Antonia, 2019, “Kakology: A Study of Some Evil Words”, in Chignell 2019b: 44–59. doi: 10.1093/oso/9780199915453.001.0001
 * Russell, Jeffrey Burton, 1977, *The Devil*, Ithaca, NY: Cornell University Press.
 * –––, 1981, *Satan*, Ithaca, NY: Cornell University Press.
-* Russell, Luke, 2014, *Evil: A Philosophical Investigation*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198712480.001.0001
+* Russell, Luke, 2014, *Evil: A Philosophical Investigation*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198712480.001.0001
 * Schelling, F.W.J., 1809 [1936], *Philosophische Untersuchungen über das Wesen der menschlichen Freiheit und die damit zusammenhängenden Gegenstände*. Translated as *Of Human Freedom*, James Gutmann (ed. & trans.), Chicago: Open Court.
 * Sharpe, A., 1909, “Evil”, in *The Catholic Encyclopedia*, New York: Robert Appleton Company. [[Sharpe 1909 available online](http://www.newadvent.org/cathen/05649a.htm)]
 * Stone, Michael, 2009, *The Anatomy of Evil*, Amherst, NY: Prometheus Books.
 * Tooley, Michael, 2002 [2019], “The Problem of Evil”, *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2019/entries/evil/>
 * Wolterstorff, Nicholas, 1988, “Suffering Love”, in *Philosophy and the Christian Faith*, Thomas V. Morris (ed.), Notre Dame, IN: University of Notre Dame Press, 196–237.
-* Wood, Allen W., 2010, “Kant and the Intelligibility of Evil”, in Anderson-Gold and Muchnik 2010:, 144–172. doi:10.1017/CBO9780511691898.008
+* Wood, Allen W., 2010, “Kant and the Intelligibility of Evil”, in Anderson-Gold and Muchnik 2010:, 144–172. doi: 10.1017/CBO9780511691898.008
 
 ## Academic Tools
 

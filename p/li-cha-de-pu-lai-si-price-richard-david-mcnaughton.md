@@ -1,26 +1,26 @@
-# 理查德·普莱斯 Price, Richard (David McNaughton)
+# 理查德 · 普莱斯 Price, Richard (David McNaughton)
 
-*首次发表于2019年10月3日*
+*首次发表于 2019 年 10 月 3 日*
 
-理查德·普莱斯（1723-1791）是一位杰出的异议牧师，也是 18 世纪下半叶哲学和政治思想的重要人物。除了在伦理学、政治学、神学和概率论等广泛领域发表著作外，他还大大推进了精算表的研究，使保险公司能够更准确地预测不同环境下人们的预期寿命。他对自由事业的热情执着使他在各种运动中发挥了重要的公众角色，包括减免非国教徒的惩罚，以及支持美国和法国革命。他对法国革命的辩护引发了伯克的著名回应，同时也得到了他的朋友潘恩和沃尔斯通克拉夫特的辩护。
+理查德 · 普莱斯（1723-1791）是一位杰出的异议牧师，也是 18 世纪下半叶哲学和政治思想的重要人物。除了在伦理学、政治学、神学和概率论等广泛领域发表著作外，他还大大推进了精算表的研究，使保险公司能够更准确地预测不同环境下人们的预期寿命。他对自由事业的热情执着使他在各种运动中发挥了重要的公众角色，包括减免非国教徒的惩罚，以及支持美国和法国革命。他对法国革命的辩护引发了伯克的著名回应，同时也得到了他的朋友潘恩和沃尔斯通克拉夫特的辩护。
 
 ---
 
 ## 1. 生平、作品和总体概述
 
-普莱斯出生在威尔士的兰盖诺尔，是一位持异议的牧师的儿子。他最初接受私人教育，但在父母去世后，受到叔叔的鼓励，前往伦敦的异议学院学习。1744 年，普莱斯成为乔治·斯特里特菲尔德在斯托克纽因顿的家庭牧师。他的职责并不繁重，给了他充足的时间进行研究。就是在这里，他开始了他最重要的工作：《道德主要问题评论》（1758 年；第三版 1787 年）。在其主要教义中，普莱斯受到了拉尔夫·卡德沃思的强烈影响，卡德沃思的《论永恒和不变的道德》于 1731 年在他去世后出版。1757 年，斯特里特菲尔德去世，普莱斯的经济状况有所改善，他于同年 6 月与莎拉·布伦德尔结婚，并成为纽因顿格林的牧师，他在那里度过了大部分的生活。
+普莱斯出生在威尔士的兰盖诺尔，是一位持异议的牧师的儿子。他最初接受私人教育，但在父母去世后，受到叔叔的鼓励，前往伦敦的异议学院学习。1744 年，普莱斯成为乔治 · 斯特里特菲尔德在斯托克纽因顿的家庭牧师。他的职责并不繁重，给了他充足的时间进行研究。就是在这里，他开始了他最重要的工作：《道德主要问题评论》（1758 年；第三版 1787 年）。在其主要教义中，普莱斯受到了拉尔夫 · 卡德沃思的强烈影响，卡德沃思的《论永恒和不变的道德》于 1731 年在他去世后出版。1757 年，斯特里特菲尔德去世，普莱斯的经济状况有所改善，他于同年 6 月与莎拉 · 布伦德尔结婚，并成为纽因顿格林的牧师，他在那里度过了大部分的生活。
 
-普莱斯成为自由主义知识分子团体中的重要人物，尤其是“鲍伍德圈子”，该团体以其领导者谢尔本勋爵的住所命名，其中包括约瑟夫·普里斯特利和本杰明·沃恩。他还属于本杰明·富兰克林称之为“诚实派怀格斯俱乐部”的团体：这是一个以约翰·坎顿为中心的餐饮团体，其中包括鲍伍德圈子的其他成员。其他著名的访客或熟人包括杰出的政治家斯坦霍普勋爵、威廉·皮特老爵士和监狱改革家约翰·霍华德，以及大卫·休谟和亚当·斯密。
+普莱斯成为自由主义知识分子团体中的重要人物，尤其是“鲍伍德圈子”，该团体以其领导者谢尔本勋爵的住所命名，其中包括约瑟夫 · 普里斯特利和本杰明 · 沃恩。他还属于本杰明 · 富兰克林称之为“诚实派怀格斯俱乐部”的团体：这是一个以约翰 · 坎顿为中心的餐饮团体，其中包括鲍伍德圈子的其他成员。其他著名的访客或熟人包括杰出的政治家斯坦霍普勋爵、威廉 · 皮特老爵士和监狱改革家约翰 · 霍华德，以及大卫 · 休谟和亚当 · 斯密。
 
-普莱斯是美国和法国革命的热心支持者。1776 年初，他发表了《关于公民自由性质的观察》，随后在下一年发表了《附加观察》。1784 年，他又增加了《关于美国革命重要性的观察》。普莱斯对殖民地的支持使他赢得了许多叛乱领导人的友谊，包括富兰克林、杰斐逊、亚当斯和潘恩。他的支持使他受到大陆会议的邀请，协助美国各州的财政管理，并获得耶鲁大学的荣誉法学博士学位（1781 年，当年的另一位荣誉获得者是乔治·华盛顿），此外他还获得了阿伯丁和格拉斯哥大学的荣誉博士学位。1782 年，谢尔本勋爵成为首相后，他提议普莱斯担任他的私人秘书，但遭到了普莱斯的拒绝。
+普莱斯是美国和法国革命的热心支持者。1776 年初，他发表了《关于公民自由性质的观察》，随后在下一年发表了《附加观察》。1784 年，他又增加了《关于美国革命重要性的观察》。普莱斯对殖民地的支持使他赢得了许多叛乱领导人的友谊，包括富兰克林、杰斐逊、亚当斯和潘恩。他的支持使他受到大陆会议的邀请，协助美国各州的财政管理，并获得耶鲁大学的荣誉法学博士学位（1781 年，当年的另一位荣誉获得者是乔治 · 华盛顿），此外他还获得了阿伯丁和格拉斯哥大学的荣誉博士学位。1782 年，谢尔本勋爵成为首相后，他提议普莱斯担任他的私人秘书，但遭到了普莱斯的拒绝。
 
-他发表的布道词《论我们的国家之爱》（1789 年），为法国革命辩护，引发了一场小册子战争，包括伯克在《法国革命论》（1790 年）中的著名而愤怒的回应，以及他的朋友托马斯·潘恩在《人的权利》（1791 年）中的同样激情的辩护，以及玛丽·沃尔斯通克拉夫特在《男人权利的辩护》（1790 年）中的辩护。
+他发表的布道词《论我们的国家之爱》（1789 年），为法国革命辩护，引发了一场小册子战争，包括伯克在《法国革命论》（1790 年）中的著名而愤怒的回应，以及他的朋友托马斯 · 潘恩在《人的权利》（1791 年）中的同样激情的辩护，以及玛丽 · 沃尔斯通克拉夫特在《男人权利的辩护》（1790 年）中的辩护。
 
-理查德·普莱斯与英国国教教义的分歧的一个核心方面是他对三位一体论的否定。对于三位一体论者来说，上帝是三位一体的，基督既是上帝也是人。而对于索西尼派来说，耶稣只是一个人：一个至高的教师和生活的楷模，没有其他的意义。普莱斯在这两个极端之间采取了一个立场。基督是创造者和审判者，从天堂降临并成为人。他不是上帝，而是弥赛亚，绝对不能受到崇拜。当涉及到基督的救赎力量时，普莱斯再次在两种观点之间寻求了一个中间道路。索西尼派认为基督通过戒律和榜样来拯救人，所以他的死对救赎并不是必要的；而加尔文主义者则声称救赎完全是上帝的工作，他拯救谁就拯救谁，谁该受罚就受罚（见罗马书 9:18）。对于普莱斯来说，救赎需要双方的合作。罪人必须自愿悔改并努力追求正义，但上帝并不需要接受悔改的罪人，因为悔改不能抹去罪恶的后果。上帝将所有的罪恶都抹去，作为对基督完美顺服的奖赏。
+理查德 · 普莱斯与英国国教教义的分歧的一个核心方面是他对三位一体论的否定。对于三位一体论者来说，上帝是三位一体的，基督既是上帝也是人。而对于索西尼派来说，耶稣只是一个人：一个至高的教师和生活的楷模，没有其他的意义。普莱斯在这两个极端之间采取了一个立场。基督是创造者和审判者，从天堂降临并成为人。他不是上帝，而是弥赛亚，绝对不能受到崇拜。当涉及到基督的救赎力量时，普莱斯再次在两种观点之间寻求了一个中间道路。索西尼派认为基督通过戒律和榜样来拯救人，所以他的死对救赎并不是必要的；而加尔文主义者则声称救赎完全是上帝的工作，他拯救谁就拯救谁，谁该受罚就受罚（见罗马书 9: 18）。对于普莱斯来说，救赎需要双方的合作。罪人必须自愿悔改并努力追求正义，但上帝并不需要接受悔改的罪人，因为悔改不能抹去罪恶的后果。上帝将所有的罪恶都抹去，作为对基督完美顺服的奖赏。
 
 与卡德沃思、克拉克和许多其他人一样，普莱斯拒绝了神学意志论：即道德规范取决于上帝的意愿的观点。道德的基本原则是必然的，因此是永恒和不变的。对这一观点的标准反对是，它限制了上帝的主权，使他受到不依赖于他的道德要求的约束。普莱斯对这一困难的回应在于他声称，由于上帝是永恒的真理和理性，而理性必须承认道德义务，道德的约束是上帝本性的一部分，而不是与之不同的东西。没有任何外在于上帝的东西能够约束他。
 
-除了他在伦理学、神学和政治方面的著作外，普莱斯还与约瑟夫·普里斯特利就自由意志的话题进行了长时间的通信；他们的通信于 1778 年出版。他还是概率论的先驱，并编辑了托马斯·贝叶斯的重要著作《论几率学中的一个问题的解决方法》（1763 年）。由于他对贝叶斯论文的重要介绍，他于 1765 年当选为皇家学会会士。他的统计工作引起了他对人口统计学和精算计算的兴趣。他的基础著作《关于逆向支付的观察》（1771 年）在大约一个世纪内一直在使用，他的人寿表是根据他从对北安普敦的研究中获得的数据编制的。他的《英格兰人口论》（第二版，1780 年）影响了托马斯·马尔萨斯。他对连续政府未能解决不断增长的国债问题的担忧，导致他在同一年发表了《关于国债问题的公众呼吁》（1771 年），这可能影响了威廉·皮特年轻人重新建立用于偿还国债的沉没基金。
+除了他在伦理学、神学和政治方面的著作外，普莱斯还与约瑟夫 · 普里斯特利就自由意志的话题进行了长时间的通信；他们的通信于 1778 年出版。他还是概率论的先驱，并编辑了托马斯 · 贝叶斯的重要著作《论几率学中的一个问题的解决方法》（1763 年）。由于他对贝叶斯论文的重要介绍，他于 1765 年当选为皇家学会会士。他的统计工作引起了他对人口统计学和精算计算的兴趣。他的基础著作《关于逆向支付的观察》（1771 年）在大约一个世纪内一直在使用，他的人寿表是根据他从对北安普敦的研究中获得的数据编制的。他的《英格兰人口论》（第二版，1780 年）影响了托马斯 · 马尔萨斯。他对连续政府未能解决不断增长的国债问题的担忧，导致他在同一年发表了《关于国债问题的公众呼吁》（1771 年），这可能影响了威廉 · 皮特年轻人重新建立用于偿还国债的沉没基金。
 
 普莱斯在伦理学上的观点对当代哲学仍然最为相关，因此这将是本条目的中心焦点，同时也将涵盖他的政治理论、神学以及他对自由意志的立场。
 
@@ -46,13 +46,13 @@
 
 > 至于那些以自爱、积极法律和契约或神意为基础的道德体系，它们要么意味着道德善恶只是有利和不利、被允许和被禁止的另一种说法，要么涉及一个非常不同的问题；也就是说，不是关于什么是美德的本质和真正解释的问题，而是关于它的主题是什么的问题。
 >
-> 就我所提到的计划的意图而言，它们提供了很少的争议空间。对于上帝的意愿所命令或禁止的行为，或者对于产生好处或伤害的行为，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们���情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对
+> 就我所提到的计划的意图而言，它们提供了很少的争议空间。对于上帝的意愿所命令或禁止的行为，或者对于产生好处或伤害的行为，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们 ��� 情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对于对它们的情感以及我们随之而来的赞同或反对，对
 
 (As Raphael points out, it is clear from the rest of the book that by “sentiment”, Price here means opinion, not feeling.)
 
 If, however, the self-interest theorist, or the utilitarian, takes the second horn, and is propounding a substantial moral theory about what makes actions right or wrong, then she will have to show that her theory survives critical reflection. Is it really true that we have no reason to do anything unless it is in our self-interest, or unless it produces happiness? Price is confident that the answer to these questions is in the negative, but they can be answered only by careful thought about our actual moral judgments.
 
-理查德·普莱斯的论证是否成功取决于关于开放问题论证的合理性，对此人们仍然存在争议。然而，普莱斯在本书中针对的主要是感性主义，他还有其他反对感性主义的论证。争议涉及道德属性的形而上学地位：它们是行为和行为者的真正属性，还是最好理解为我们的感受或情绪投射到行为和行为者上的结果？
+理查德 · 普莱斯的论证是否成功取决于关于开放问题论证的合理性，对此人们仍然存在争议。然而，普莱斯在本书中针对的主要是感性主义，他还有其他反对感性主义的论证。争议涉及道德属性的形而上学地位：它们是行为和行为者的真正属性，还是最好理解为我们的感受或情绪投射到行为和行为者上的结果？
 
 #### 2.2.1 与感性主义的斗争
 
@@ -71,7 +71,7 @@ If, however, the self-interest theorist, or the utilitarian, takes the second ho
 3. 感觉和认知之间有什么联系？
 4. 理智如何促使我们行动？
 
-我在§2.1 中简要讨论了前两个问题。结果发现后两个问题是相互关联的。
+我在 §2.1 中简要讨论了前两个问题。结果发现后两个问题是相互关联的。
 
 感性主义者声称，我们采取道德立场是因为我们对对象、行为或实践有赞成或反对的感觉。普莱斯认为这是错误的：我们对行为或人有赞成的感觉，是因为我们理解这个行为是正确的，或者这个人在道德上值得称赞。
 
@@ -81,7 +81,7 @@ If, however, the self-interest theorist, or the utilitarian, takes the second ho
 
 此外，将一种行为认定为正确或错误，就是承认自己有义务去做或者不做这件事。
 
-> [V]irtue, *as such*, has a real obligatory power. (R 105)
+> [V] irtue, *as such*, has a real obligatory power. (R 105)
 >
 > 从对义务的解释中可以得出，正直不仅仅是对我们的一种规则，而且是一种法律；它不仅仅指导我们，而且约束我们，只要我们能够感知到它...理性是一个理性存在的指南，自然而又有权威的指南。 (R 108)
 >
@@ -135,7 +135,7 @@ Hutcheson 和随后的 Hume 认为，存在一种内在的道德感，其传达�
 
 > a *positive constitution* of our minds, or … an *implanted* and *arbitrary* principle by which a *relish* is given us for certain moral objects and forms and aversion to others. (R 14)
 
-这个反对意见对于解释/原理和主观解释/原理同样适用。对于像普莱斯这样的有神论者来说，令人担忧的是，根据感性主义观点，没有理由认为上帝与我们的道德情感相同。事实上，休谟在给哈奇森的一封信中已经得出了这个结论（休谟[L]，38-40 = 卷一，信 16，1740 年 3 月 16 日）。
+这个反对意见对于解释/原理和主观解释/原理同样适用。对于像普莱斯这样的有神论者来说，令人担忧的是，根据感性主义观点，没有理由认为上帝与我们的道德情感相同。事实上，休谟在给哈奇森的一封信中已经得出了这个结论（休谟 [L]，38-40 = 卷一，信 16，1740 年 3 月 16 日）。
 
 普莱斯甚至进一步声称，如果感性主义是真实的，上帝对发生的一切都会持有完全的道德冷漠态度。因为他知道所有的行为和状态本身既不对也不错，既不好也不坏；而且，由于缺乏我们的情感本质，他不可能根据感觉做出道德判断。
 
@@ -193,17 +193,17 @@ Hutcheson 和随后的 Hume 认为，存在一种内在的道德感，其传达�
 
 这些批评确实很重要，但对普莱斯来说可能有些不公正。虽然真实性当然是与真相有关的美德，但普莱斯对其所涉及的概念有更广泛的理解，不仅仅是避免撒谎。
 
-> 在这个方面，我将包括我们在追求真理时的公正和诚实，以及在我们所说的一切中对真理的神圣尊重；公平和坦率的处理；一种排除欺诈、搪塞和虚伪的开放和简单的性格；对我们的承诺的忠诚；在与自己和他人的交往中的真诚和正直；以及在审视我们自己的品格时，小心避免所有秘密企图欺骗自己，并回避或掩饰真相。（理查德·普莱斯 154-5）
+> 在这个方面，我将包括我们在追求真理时的公正和诚实，以及在我们所说的一切中对真理的神圣尊重；公平和坦率的处理；一种排除欺诈、搪塞和虚伪的开放和简单的性格；对我们的承诺的忠诚；在与自己和他人的交往中的真诚和正直；以及在审视我们自己的品格时，小心避免所有秘密企图欺骗自己，并回避或掩饰真相。（理查德 · 普莱斯 154-5）
 
 这是对诚实（或直率、可信赖）这一美德的良好描述。一个不守信用的人可以合理地被描述为不诚实。此外，欺诈和欺骗并不一定涉及说谎。当艾格为奥赛罗留下手帕供他发现时，他并没有撒谎。还有“经济地说真话”和各种伦理学。在这种理解下，普莱斯将这些可取之处归为一类并没有什么不妥之处。但是，“真实性”这个词，由于其狭义的含义只涉及说真话，并不能很好地涵盖这一广泛的特征范围，普莱斯经常忘记他的官方定义，并将诚实与真实性等同起来。
 
 普莱斯所做的一部分工作是解决休谟在《论人性》中提出的一个难题。
 
-> [S]ince the act of the mind, which enters into a promise, and produces its obligation, is neither the resolving, desiring, nor willing any particular performance, it must necessarily be the *willing* of that *obligation*, which arises from the promise. Nor is this only a conclusion of philosophy; but is entirely conformable to our common ways of thinking and of expressing ourselves, when we say that we are bound by our own consent, and that the obligation arises from our mere will and pleasure. The only question, then, is, whether there be not a manifest absurdity in supposing this act of the mind, and such an absurdity as no man cou'd fall into, whose ideas are not confounded with prejudice and the fallacious use of language. (1739–40: 516–7; III.ii.5)
+> [S] ince the act of the mind, which enters into a promise, and produces its obligation, is neither the resolving, desiring, nor willing any particular performance, it must necessarily be the *willing* of that *obligation*, which arises from the promise. Nor is this only a conclusion of philosophy; but is entirely conformable to our common ways of thinking and of expressing ourselves, when we say that we are bound by our own consent, and that the obligation arises from our mere will and pleasure. The only question, then, is, whether there be not a manifest absurdity in supposing this act of the mind, and such an absurdity as no man cou'd fall into, whose ideas are not confounded with prejudice and the fallacious use of language. (1739–40: 516–7; III.ii.5)
 
 Hume’s puzzle is: how can I, by a mere act of will, *create a new* obligation? In making a promise, I would thereby declare that I am creating an obligation to do something, that was previously morally indifferent. I would somehow make it the case that I am now under an obligation I was not under before. Yet nothing about the act I promise to do has changed. How can mere words transform the moral landscape?
 
-理查德·普莱斯同意休谟的观点，即义务不能仅通过意愿行为而产生，但否认这是对承诺的正确理解。他首先在捍卫他的反意愿主义义务观时解决了这个问题。根据他的观点，他从卡德沃思那里得出，每个行为都有一种本质，因此需要、禁止或者是无关紧要。
+理查德 · 普莱斯同意休谟的观点，即义务不能仅通过意愿行为而产生，但否认这是对承诺的正确理解。他首先在捍卫他的反意愿主义义务观时解决了这个问题。根据他的观点，他从卡德沃思那里得出，每个行为都有一种本质，因此需要、禁止或者是无关紧要。
 
 > 没有意愿...可以使任何事情变得善良和义务，这在先前和永恒中并非如此。(R 50)
 
@@ -211,7 +211,7 @@ Hume’s puzzle is: how can I, by a mere act of will, *create a new* obligation?
 
 > 的确，任何中立的行为之所以可能变得有义务，是因为来自一个对我们拥有合法权威的存在的命令：但是...在这种情况下，命令会改变行为者的情况，并且由此产生的义务与之前的中立行为不同。(R 51)
 
-正如普莱斯所说，“行动的事实”保持不变，但现在它属于一种之前没有的道德法则。由于环境的改变，以前无关紧要的事情可以变成感激之情的例子，或者服从合法命令的例子，或者确实是信守承诺的例子。在最后一种情况下，我们不应该认为我们自己的意愿或呼吸通过使无关紧要的事情变得重要而改变了事物的本质。... 承诺所做的一切就是... 使之成为正确行为的例子[在早期版本中，普莱斯写道“普遍和永恒的责任”]，而之前并非如此。（R 51）
+正如普莱斯所说，“行动的事实”保持不变，但现在它属于一种之前没有的道德法则。由于环境的改变，以前无关紧要的事情可以变成感激之情的例子，或者服从合法命令的例子，或者确实是信守承诺的例子。在最后一种情况下，我们不应该认为我们自己的意愿或呼吸通过使无关紧要的事情变得重要而改变了事物的本质。... 承诺所做的一切就是... 使之成为正确行为的例子 [在早期版本中，普莱斯写道“普遍和永恒的责任”]，而之前并非如此。（R 51）
 
 > 普莱斯对休谟的回答是，虽然我们不能仅凭意愿和喜好创造义务，但我们可以通过我们的行为或言辞将自己置于义务之下，包括当我们说的话表达了我们的意愿时。在这个核心观点上，普莱斯是正确的。正如我们所见，普莱斯认为我在承诺中置身的义务种类是真实性。也许诚实或可信度这种道德范畴更能捕捉到普莱斯想要表达的意思，但这相对次要。
 
@@ -219,11 +219,11 @@ Price’s answer to Hume is that, though we cannot *create* an obligation by our
 
 ## 3. 神学
 
-理查德·普莱斯在神学和宗教哲学方面的著作广泛而复杂。在简要讨论他对上帝本质和存在的论证的观点之后，本节将重点关注他观点中与道德有关的方面，以及他对奇迹的可信度的讨论。
+理查德 · 普莱斯在神学和宗教哲学方面的著作广泛而复杂。在简要讨论他对上帝本质和存在的论证的观点之后，本节将重点关注他观点中与道德有关的方面，以及他对奇迹的可信度的讨论。
 
 ### 3.1 先验论证上帝的存在
 
-普莱斯在《关于神的存在和属性的论文》中附上了他的价格，其中他在很大程度上遵循塞缪尔·克拉克的先验论证，以显示必须存在一个在各个方面都是完美的第一原因。他从一个众所周知的偶然性论证开始，从存在偶然性的事物推导出存在非偶然性的事物，即必然存在。普莱斯接受了这个论证，但他认为之前的作者没有正确解释上帝存在的必要性的本质。所讨论的必要性不是他所称的“相对”或“结果性”必要性，就像我们说每个效果都必须有一个原因一样。相反，
+普莱斯在《关于神的存在和属性的论文》中附上了他的价格，其中他在很大程度上遵循塞缪尔 · 克拉克的先验论证，以显示必须存在一个在各个方面都是完美的第一原因。他从一个众所周知的偶然性论证开始，从存在偶然性的事物推导出存在非偶然性的事物，即必然存在。普莱斯接受了这个论证，但他认为之前的作者没有正确解释上帝存在的必要性的本质。所讨论的必要性不是他所称的“相对”或“结果性”必要性，就像我们说每个效果都必须有一个原因一样。相反，
 
 > 上帝存在的必要性所暗示的不可能不存在是……一种立即显现并具有自身证据的不可能性；这是事物本身的不可能性。（R 287）
 
@@ -239,7 +239,7 @@ Price’s answer to Hume is that, though we cannot *create* an obligation by our
 
 > 可能有无数个强大、智慧和仁慈的存在，但只能有一个存在，其本质、力量、智慧和仁慈在必要的结合中形成一个概念，这些是其基本属性。（R 295）
 
-普莱斯在一段时间内没有发表这篇文章，并且一直担心“语言的特定缺陷”使他“无法以足够的正确性和清晰度陈述[他的观点]”（R 286）。这确实令人困惑。他的观点显然受到新柏拉图主义的影响，这可能是他从卡德沃思那里得到的。必然真理依赖于形式，依赖于它们的自我认同。形式构成了一个纯粹的可理解的领域，其他事物只有在参与形式时才能被理解。由于形式是纯粹可理解的存在，它们存在的方式，它们存在的方式是被思考。思考形式的那个，即上帝，就是它们所在的地方。它们不能独立存在，因为它们的存在就是成为他的本质的一部分。而且，他的本性统治着他的意愿。
+普莱斯在一段时间内没有发表这篇文章，并且一直担心“语言的特定缺陷”使他“无法以足够的正确性和清晰度陈述 [他的观点]”（R 286）。这确实令人困惑。他的观点显然受到新柏拉图主义的影响，这可能是他从卡德沃思那里得到的。必然真理依赖于形式，依赖于它们的自我认同。形式构成了一个纯粹的可理解的领域，其他事物只有在参与形式时才能被理解。由于形式是纯粹可理解的存在，它们存在的方式，它们存在的方式是被思考。思考形式的那个，即上帝，就是它们所在的地方。它们不能独立存在，因为它们的存在就是成为他的本质的一部分。而且，他的本性统治着他的意愿。
 
 无论如何，普莱斯对上帝的本质的解释使他能够应对那些拒绝神命令道德理论的人对其的标准反对意见。如果我们将道德看作是一组超出上帝控制范围的真理，那么我们是否不是贬低了上帝的主权，因为我们假设有一些既与他外在又与他同等永恒的东西？普莱斯的答案是，上帝的正直不在于服从他没有创造、不能改变和必须接受的某些原则，而在于遵循他自己的本性。
 
@@ -247,17 +247,17 @@ Price’s answer to Hume is that, though we cannot *create* an obligation by our
 
 像休谟《对话录》中的克林西斯一样，普莱斯认为对设计者的信仰是直接和不可抗拒的。“这个可见的宇宙……显然是一个强大而智慧的原因的力量和智慧的展示”（R 285）。但是他的道德品质如何呢？尽管在“论文”引言中，普莱斯声称后验论证也表明设计者是善良的，在《评论》的第十章中，普莱斯发出了谨慎的声音。在那个设计者的作品中，好的东西可能比坏的东西多得多，但我们可能会想知道这是否足够作为对设计者道德品质的结论依据。因为一个恶意的存在可以制造幸福，也许设计者现在只是为了与我们目前的状态形成对比而增加我们以后的痛苦。普莱斯本人认为，尽管存在这样的可能性，我们有理由从他的创造中推断出上帝的善良，但他承认这样的推断是可以质疑的。然而，作为一个道德现实主义者，普莱斯不需要依赖于世界上好事和坏事的分布的论证。因为如果仁慈本身优于恶意，公正优于不公正，等等，而且一个智慧的心灵必须同时认识到并受到这些思想的指导，那么我们可以先验地知道上帝是道德完美的。
 
-然而，一个引人注目的事实是，美德并不总是得到相应的回报，恶行也不总是受到惩罚。普莱斯在这一点上比巴特勒更加现实，巴特勒曾说过：“自爱，即使只限于对现世的利益，总体上与美德完全一致”（1729 年：第 3 篇讲道，第 8 段[2017 年：36 页]）。不仅善良的人经常受苦，恶人却繁荣昌盛，而且善良的人还会遭受特殊的心理痛苦，而恶人却对此一无所知。他们可能因为过于担心良心、内疚和对自己不值得的意识而受苦。
+然而，一个引人注目的事实是，美德并不总是得到相应的回报，恶行也不总是受到惩罚。普莱斯在这一点上比巴特勒更加现实，巴特勒曾说过：“自爱，即使只限于对现世的利益，总体上与美德完全一致”（1729 年：第 3 篇讲道，第 8 段 [2017 年：36 页]）。不仅善良的人经常受苦，恶人却繁荣昌盛，而且善良的人还会遭受特殊的心理痛苦，而恶人却对此一无所知。他们可能因为过于担心良心、内疚和对自己不值得的意识而受苦。
 
 > 对于邪恶来说，很难否认，对于一个人来说，（我指的是为了他自己的现在的舒适）完全邪恶往往比部分邪恶要好得多。（R 259）
 
 这种情况如此之多，以至于普莱斯主张
 
-> 这个世界似乎更适合成为一个培养美德的学校，而不是一个荣誉的场所。（理查德·普莱斯 257）
+> 这个世界似乎更适合成为一个培养美德的学校，而不是一个荣誉的场所。（理查德 · 普莱斯 257）
 
 从这些相当令人沮丧的事实中，我们可以得出什么结论关于未来的生活？如果我们是道德感情主义者，那么什么都得不到。但是如果我们接受道德现实主义，那么我们知道一个明智的设计者也将是一个道德善良的人。由此我们可以得出结论，存在着一些未来的生活场景，这些美德和奖励之间的不平衡将得到纠正。然而，我们不能推断出这个未来的生活将是无尽的，因为这个生活的不公正可以在有限的时间内得到纠正。
 
-> 我们将从死亡中解脱出来，进入一个永远不会结束的完全幸福的新生活，这远远超出了任何分配正义的论证所能教给我们的期望。（理查德·普莱斯 263）
+> 我们将从死亡中解脱出来，进入一个永远不会结束的完全幸福的新生活，这远远超出了任何分配正义的论证所能教给我们的期望。（理查德 · 普莱斯 263）
 
 只有启示才能使我们确信上帝在这方面是仁慈的。
 
@@ -277,14 +277,14 @@ Price’s answer to Hume is that, though we cannot *create* an obligation by our
 
 > 一个行动，或者与一个人的对话，可能使我们相信他的正直，并使我们相信他的证词，尽管我们从未在任何一个实例中经历过他的真实性。（D 399）
 
-2. “奇迹更恰当地说是与经验不同的事件，而不是与之相反”（D 402）。对于一个不寻常事件的证词，虽然它为该事件的发生提供了证据，但并不与我们之前发生的经验相矛盾，甚至与之冲突。我们仍然有理由相信这种事件以前没有发生，就像我们之前一样有理由相信。先前的统一观察并不是反对不寻常事件发生的经验证据。“[任何人的经验中都不可能有]自然法则将永远保持不变”（D 402）。如果不是这样，我们就永远没有理由相信我们之前认为是自然法则的东西实际上并不是。
+2. “奇迹更恰当地说是与经验不同的事件，而不是与之相反”（D 402）。对于一个不寻常事件的证词，虽然它为该事件的发生提供了证据，但并不与我们之前发生的经验相矛盾，甚至与之冲突。我们仍然有理由相信这种事件以前没有发生，就像我们之前一样有理由相信。先前的统一观察并不是反对不寻常事件发生的经验证据。“[任何人的经验中都不可能有] 自然法则将永远保持不变”（D 402）。如果不是这样，我们就永远没有理由相信我们之前认为是自然法则的东西实际上并不是。
 3. 普莱斯认为，“最微小的证词可以克服几乎无限的不可能性”（D 406）。许多常见事实的先验概率极低，然而证词的证据足以证实它们。以一个可以计算先验概率的例子来说：在桥牌游戏中，任何特定的牌面分布的可能性都是巨大的。然而，玩家关于每手牌中有什么的证词足以确立这一事实。而且，普莱斯认为，事件的先验不可能性的变化与证词的重要性无关。“证词中唯一的虚假原因是欺骗的意图和被欺骗的危险”（D 415）。但是先验不可能性的程度既不增加也不减少这两者。
 
 > 不太可能的事情……本身并不影响证词报告真相的能力。它们……不应被视为反证据，以其程度为比例，使其报告无效。—但尽管如此，这并不意味着它们在许多情况下不会影响证词的可信度，或者导致我们对其真实性产生质疑。（D 417）
 
 正如休谟指出的，人类喜欢奇迹，讲故事的人喜欢满足这种轻信。如果有人报告了一个真正令人惊讶的事件，尤其是如果这有助于讲述者的声誉，或者支持她热衷于推广的某种意识形态，那么这可能会导致我们“对报告的忠实性产生质疑，并给予怀疑其有意歪曲或夸大的正当理由”（D 420）。普莱斯指出，然而，这仅适用于报告者意识到他们故事的奇迹性质的情况。纯粹的巧合并不减少证词的证据重量。
 
-> [假设]一个人告诉我们……在抽奖时，他碰巧听到了他的年龄、日期和年份同时被抽中，我们几乎不会相信他，尽管我们知道他听到这些数字的机会并不比其他特定数字更小。但是，如果同一个人只告诉我们数字本身，而我们发现的巧合完全是我们自己的发现，我们有完全相同的理由相信他的陈述，就好像没有这样的巧合一样。（D 422-3）
+> [假设] 一个人告诉我们……在抽奖时，他碰巧听到了他的年龄、日期和年份同时被抽中，我们几乎不会相信他，尽管我们知道他听到这些数字的机会并不比其他特定数字更小。但是，如果同一个人只告诉我们数字本身，而我们发现的巧合完全是我们自己的发现，我们有完全相同的理由相信他的陈述，就好像没有这样的巧合一样。（D 422-3）
 
 结果是，在普莱斯的观点中，辩论既不应该集中在对奇迹证据的抽象可能性，也不应该集中在它们的先验不可能性上，而是应该集中在一个特定的问题上，即使使徒们是被欺骗了还是他们自己是骗子。普莱斯毫无疑问对这一立场胜券在握，尽管其他人可能持有异议。
 
@@ -313,7 +313,7 @@ Price’s answer to Hume is that, though we cannot *create* an obligation by our
 
 > 决定需要一个有效的原因。如果这个原因是人本身，我不再辩驳。如果不是，那么这不再是他的决定；也就是说，他不再是决定者，而是动机，或者任何其他人会说是决定的原因的东西。询问我们的决定受到什么影响，与被告知某人做了某事后问谁做了这个行动是完全相同的。（R 181–2）
 >
-> [很明显]动机对于影响[行动者的]决定没有任何关系...还有什么比说我们的倾向对我们产生影响或强迫我们更荒谬的呢；我们的欲望和恐惧使我们行动，或者产生我们的意志；也就是说，它们是行动者？（R 183n）
+> [很明显] 动机对于影响 [行动者的] 决定没有任何关系...还有什么比说我们的倾向对我们产生影响或强迫我们更荒谬的呢；我们的欲望和恐惧使我们行动，或者产生我们的意志；也就是说，它们是行动者？（R 183n）
 
 然而，D. O. Thomas（1977 年：160-2）指出，普莱斯的一些段落似乎支持心理决定论，其中这是最引人注目的之一。
 
@@ -339,7 +339,7 @@ Price 在宗教和公民自由方面的著作数量庞大。其中许多著作�
 
 #### 4.3.2 公民自由
 
-理查德·普莱斯的政治哲学，总体上说，与洛克的观点一致，但他得出了更激进的结论。政府的合法性（尽管其他等级区分的合法性不是如此）源于被统治者的同意。在洛克的观点中，只有在社会契约被违反时，人民才有权反抗，而对于普莱斯来说，他们保留了根据自己的意愿改变政府形式的权利。直接民主是最理想的政府形式，但在较大的国家中，民主必然是代表性的。然而，当选者更多是代表而不是代表者，受选民指示（P 25）。
+理查德 · 普莱斯的政治哲学，总体上说，与洛克的观点一致，但他得出了更激进的结论。政府的合法性（尽管其他等级区分的合法性不是如此）源于被统治者的同意。在洛克的观点中，只有在社会契约被违反时，人民才有权反抗，而对于普莱斯来说，他们保留了根据自己的意愿改变政府形式的权利。直接民主是最理想的政府形式，但在较大的国家中，民主必然是代表性的。然而，当选者更多是代表而不是代表者，受选民指示（P 25）。
 
 普莱斯认为选举权应该扩大到什么程度并不清楚。他的立场逻辑似乎暗示了普选权，但普莱斯并不真正支持普选权。他对未受教育和依赖他人的资格担忧与他人共同。普莱斯在 1832 年大选改革法案之前写道，不仅抱怨选民规模小，而且选民通常来自“最卑微的人”，“最底层的人民”。一个担忧是，只要他们依赖地主或雇主，他们的选票就不会真正独立。普莱斯似乎从未提议将选举权扩大到妇女，也许是因为他认为她们受教育程度太低，过于依赖丈夫或其他男性亲属。普莱斯与他的朋友沃尔斯通克拉夫特不同，从未对这一方面的现状提出质疑。
 
@@ -365,9 +365,9 @@ Price 在宗教和公民自由方面的著作数量庞大。其中许多著作�
 
 他对一神论运动的影响也逐渐消退。他的阿里乌斯主义版本中，基督被视为拥有三位一体的第二位的超自然属性，但并非真正的上帝，被索契尼主义观点所取代，这一观点由普莱斯特利提出，强调耶稣的纯粹人性。他在精算工作和人口统计方面的声誉受损，因为他错误地声称英国人口在下降。即使是他心爱的通过沉没基金来减少或消除国债的计划也不再受欢迎。
 
-他的主要遗产当然在于道德哲学，但即使在这方面，他的直接影响有多大还不清楚。《评论》中的一些主题，尤其是与道德动机和责任有关的问题，在康德那里找到了明显的回响，但这是出于观点上的共鸣，而不是影响。尽管黑斯廷斯·拉什代尔夸大地声称《评论》“包含了康德的学说要旨，却没有康德的混乱”（1907 年：81 脚注 1），但普莱斯的认识论和形而上学与康德完全不同。普莱斯的认识论的主要特点和他对道德原则的多元主义在 20 世纪上半叶再次出现在英国的直觉主义者中。虽然我们知道 C·D·布罗德和黑斯廷斯·拉什代尔都非常高度评价普莱斯，但没有直接证据表明普里查德，甚至是罗斯（他的观点最接近普莱斯）读过他的著作，尽管他们很可能读过。
+他的主要遗产当然在于道德哲学，但即使在这方面，他的直接影响有多大还不清楚。《评论》中的一些主题，尤其是与道德动机和责任有关的问题，在康德那里找到了明显的回响，但这是出于观点上的共鸣，而不是影响。尽管黑斯廷斯 · 拉什代尔夸大地声称《评论》“包含了康德的学说要旨，却没有康德的混乱”（1907 年：81 脚注 1），但普莱斯的认识论和形而上学与康德完全不同。普莱斯的认识论的主要特点和他对道德原则的多元主义在 20 世纪上半叶再次出现在英国的直觉主义者中。虽然我们知道 C·D· 布罗德和黑斯廷斯 · 拉什代尔都非常高度评价普莱斯，但没有直接证据表明普里查德，甚至是罗斯（他的观点最接近普莱斯）读过他的著作，尽管他们很可能读过。
 
-对普莱斯的兴趣在罗兰·托马斯（1924年）、卡尔·科恩（1952年）、莱纳特·奥奎斯特（1960年）、D·O·托马斯（1977年）和W·D·哈德森（1970年）的著作中得到了一定程度的复兴。此后，关于普莱斯工作各个方面的文章虽然有稳定的涓涓细流，但并没有真正的兴趣高涨，尽管直觉主义在二十世纪末再次兴盛起来。1977年，普莱斯-普里斯特利通讯刊物成立；后来演变为启蒙与异议，该刊物于2016年停刊。然而，D·O·托马斯的不懈努力大大增强了研究普莱斯的资源，他不仅编辑了普莱斯的政治著作，还与伯纳德·皮奇一起出版了普莱斯的通信全集。
+对普莱斯的兴趣在罗兰 · 托马斯（1924 年）、卡尔 · 科恩（1952 年）、莱纳特 · 奥奎斯特（1960 年）、D·O· 托马斯（1977 年）和 W·D· 哈德森（1970 年）的著作中得到了一定程度的复兴。此后，关于普莱斯工作各个方面的文章虽然有稳定的涓涓细流，但并没有真正的兴趣高涨，尽管直觉主义在二十世纪末再次兴盛起来。1977 年，普莱斯-普里斯特利通讯刊物成立；后来演变为启蒙与异议，该刊物于 2016 年停刊。然而，D·O· 托马斯的不懈努力大大增强了研究普莱斯的资源，他不仅编辑了普莱斯的政治著作，还与伯纳德 · 皮奇一起出版了普莱斯的通信全集。
 
 ## Bibliography
 
@@ -389,7 +389,7 @@ There is currently no up to date complete edition of Price’s works. The releva
 Modern Editions are:
 
 * [R] 1948, *A Review of the Principal Questions in Morals*, D. D. Raphael (ed.), Oxford: Oxford University Press.
-* [P] 1991, *Political Writings*, D. O. Thomas (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139170239
+* [P] 1991, *Political Writings*, D. O. Thomas (ed.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139170239
 * *The Correspondence of Richard Price*, D. O. Thomas and Bernard Peach (eds), Durham NC: Duke University Press / Cardiff: University of Wales Press.
   * 1983, *Vol. 1: July 1748 – March 1778*
   * 1991, *Vol. 2: March 1778 – February 1786*
@@ -415,7 +415,7 @@ Page numbers for quotations from Price are taken from three editions. Page refer
 * –––, 1785 [2002], *Essays on the Intellectual Powers of Man*, in *The Edinburgh Edition of Thomas Reid*, Derek Brookes and Knud Haakonssen (eds.), Edinburgh: Edinburgh University Press, 2002.
 * Shaftesbury, Lord, 1714 [1999], *Characteristics of Men, Manners, Opinions, Times* in *Shaftesbury: Characteristics of Men, Manners, Opinions, Times*, Lawrence E. Klein (ed.), Cambridge: Cambridge University Press, 1999.
 * Smith, Adam, 1759, *The Theory of Moral Sentiments* in *Adam Smith: The Theory of Moral Sentiments*, Amartya Sen (ed.), Harmondsworth: Penguin Classics, 2010.
-* Wollaston, William, 1724 [1978],*The Religion of Nature Delineated* (New York & London: Garland Publishing, 1978).
+* Wollaston, William, 1724 [1978], *The Religion of Nature Delineated* (New York & London: Garland Publishing, 1978).
 
 An extensive collection of extracts from the above authors can be found in:
 
@@ -423,52 +423,52 @@ An extensive collection of extracts from the above authors can be found in:
 
 ### Secondary Literature
 
-* Aiken, Henry David, 1954, “The Ultimacy of Rightness in Richard Price’s Ethics: A Reply to Mr. Peach”, *Philosophy and Phenomenological Research*, 14(3): 386–392. doi:10.2307/2104110
+* Aiken, Henry David, 1954, “The Ultimacy of Rightness in Richard Price’s Ethics: A Reply to Mr. Peach”, *Philosophy and Phenomenological Research*, 14(3): 386–392. doi: 10.2307/2104110
 * Åqvist, Lennart, 1960, *The Moral Philosophy of Richard Price*, Copenhagen: Gleerup, Lund, and Munksgaard.
-* Barnes, Winston H. F., 1942, “Richard Price: A Neglected Eighteenth Century Moralist”, *Philosophy*, 17(66): 159–173. doi:10.1017/S0031819100003326
-* Broad, C. D., 1945, Some Reflections on Moral-Sense Theories in Ethics”, *Proceedings of the Aristotelian Society*, 45(1): 131–166. Reprinted in *Broad’s Critical Essays in Moral Philosophy*, David Cheney (ed.), London: George Allen & Unwin, 1971, pp. 188–222. doi:10.1093/aristotelian/45.1.131
+* Barnes, Winston H. F., 1942, “Richard Price: A Neglected Eighteenth Century Moralist”, *Philosophy*, 17(66): 159–173. doi: 10.1017/S0031819100003326
+* Broad, C. D., 1945, Some Reflections on Moral-Sense Theories in Ethics”, *Proceedings of the Aristotelian Society*, 45(1): 131–166. Reprinted in *Broad’s Critical Essays in Moral Philosophy*, David Cheney (ed.), London: George Allen & Unwin, 1971, pp. 188–222. doi: 10.1093/aristotelian/45.1.131
 * Canovan, Margaret, 1978, “Two Concepts of Liberty: Eighteenth Century Style”, *The Price-Priestley Newsletter*, 2: 27–43. [[Canovan 1978 available online](https://www.qmul.ac.uk/sed/religionandliterature/enlightenment-dissent/price-priestley-archive/v02-1978/)]
 * Cone, Carl B., 1952, *Torchbearer of Freedom: The Influence of Richard Price on 18th Century Thought*, Lexington, KY: University Press of Kentucky.
 * Crisp, Roger, 2018, “Richard Price on Virtue”, in *Virtue, Happiness, Knowledge: Themes from the Work of Gail Fine and Terence Irwin*, David O. Brink, Susan Sauvé Meyer, and Christopher Shields (eds.), Oxford: Oxford University Press, 252–268.
 * Cua, A. S., 1966, *Reason and Virtue: A Study in the Ethics of Richard Price*, Athens, OH: Ohio University Press.
-* Darwall, Stephen, 1998, “Price, Richard (1723–91)”, in *Routledge Encyclopedia of Philosophy*, London: Routledge. doi:10.4324/9780415249126-DB057-1
+* Darwall, Stephen, 1998, “Price, Richard (1723–91)”, in *Routledge Encyclopedia of Philosophy*, London: Routledge. doi: 10.4324/9780415249126-DB057-1
 * Dickinson, H. T., 2005, “Richard Price on Reason and Revolution”, in *Religious Identities in Britain, 1660–1832*, William Gibson and Robert G. Ingram (eds.), London: Routledge, 231–254.
 * Duthille, Rémy, 2012, “Richard Price on Patriotism and Universal Benevolence”, *Enlightenment and Dissent*, 28: 24–41. [[Duthille 2012 available online](https://shs.hal.science/halshs-00943017/file/2012_Duthille_ED_Richard_Price_on_patriotism_and_universal_benevolence.pdf)]
-* Earman, John, 2000, *Hume’s Abject Failure: The Argument against Miracles*, Oxford: Oxford University Press. doi:10.1093/0195127382.001.0001
+* Earman, John, 2000, *Hume’s Abject Failure: The Argument against Miracles*, Oxford: Oxford University Press. doi: 10.1093/0195127382.001.0001
 * –––, 2002, “Bayes, Hume, Price and Miracles”, in *Bayes's Theorem*, Richard Swinburne (ed.), (Proceedings of the British Academy, 113), Oxford: Oxford University Press, 91–109.
 * Frame, Paul, 2015, *Liberty’s Apostle: Richard Price, His Life and Times*, Cardiff: University of Wales Press.
-* Holland, J. D., 1968, “An Eighteenth-Century Pioneer Richard Price, D.D., F. R. S. (1723–1791)”, *Notes and Records of the Royal Society of London*, 23(1): 43–64. doi:10.1098/rsnr.1968.0009
+* Holland, J. D., 1968, “An Eighteenth-Century Pioneer Richard Price, D.D., F. R. S. (1723–1791)”, *Notes and Records of the Royal Society of London*, 23(1): 43–64. doi: 10.1098/rsnr.1968.0009
 * Hudson, W.D., 1970, *Reason and Right: A Critical Examination of Richard Price’s Moral Philosophy*, London: Macmillan.
 * Hunt-Bull, Nicholas, 2004–7, “Richard Price and Francis Hutcheson—Does a Moral Sense Theory Make Ethics Arbitrary”, *Enlightenment and Dissent*, 23: 24–44. [[Hunt-Ball 2004 available online](https://web.archive.org/web/20160823212542/http://www.qmulreligionandliterature.co.uk/journal/issues/23(2004-07).pdf)]
 * Laboucheix, Henri, 1970 [1982], *Richard Price: théoricien de la révolution américaine, le philosophe et le sociologue, le pamphlétaire et l'orateur*, (Etudes anglaises 37), Paris: Didier. Translated as *Richard Price as moral philosopher and political theorist*, Sylvia and David Raphael (trans.), Oxford: Voltaire Foundation at the Taylor Institution, 1982.
 * Morgan, William, 1815, *Memoirs of the Life of the Rev. Richard Price*, London: R. Hunter. [[Morgan 1815 available online](http://archive.org/details/memoirsoflifeofr00morguoft)]
-* Olson, Jonas, 2014, “Rationalism vs. Sentimentalism: Reviewing Price’s *Review*”, *Philosophical Papers*, 43(3): 429–445. doi:10.1080/05568641.2014.976443
-* Owen, David, 1987, “Hume *Versus* Price on Miracles and Prior Probabilities: Testimony and the Bayesian Calculation”, *The Philosophical Quarterly*, 37(147): 187–202. doi:10.2307/2220337
+* Olson, Jonas, 2014, “Rationalism vs. Sentimentalism: Reviewing Price’s *Review*”, *Philosophical Papers*, 43(3): 429–445. doi: 10.1080/05568641.2014.976443
+* Owen, David, 1987, “Hume *Versus* Price on Miracles and Prior Probabilities: Testimony and the Bayesian Calculation”, *The Philosophical Quarterly*, 37(147): 187–202. doi: 10.2307/2220337
 * Passmore, J. A., 1951, *Ralph Cudworth: An Interpretation*, Cambridge: Cambridge University Press (Chapter 8: Cudworth and the British Moralists).
-* Peach, Bernard, 1954, “The Indefinability and Simplicity of Rightness in Richard Price’s Review of Morals”, *Philosophy and Phenomenological Research*, 14(3): 370–385. doi:10.2307/2104109
-* –––, 1955, “History of Philosophy as Justifiable Interpretation a Reply to Henry Aiken”, *Philosophy and Phenomenological Research*, 16(1): 113–120. doi:10.2307/2103453
+* Peach, Bernard, 1954, “The Indefinability and Simplicity of Rightness in Richard Price’s Review of Morals”, *Philosophy and Phenomenological Research*, 14(3): 370–385. doi: 10.2307/2104109
+* –––, 1955, “History of Philosophy as Justifiable Interpretation a Reply to Henry Aiken”, *Philosophy and Phenomenological Research*, 16(1): 113–120. doi: 10.2307/2103453
 * –––, 1978, “On What Point Did Richard Price Convince Hume of a Mistake? With a Note by Henri Laboucheix”, *The Price-Priestley Newsletter*, 2: 76–81. [[Peach 1978 available online](https://web.archive.org/web/20160824164503/http://www.qmulreligionandliterature.co.uk/journal/issues/P.P.N.2(1978).pdf)]
 * –––, (ed.), 1979, *Richard Price and the Ethical Foundations of the American Revolution*, Durham, NC: University of North Carolina.
-* –––, 1980, “Hume’s Mistake”, *Journal of the History of Ideas*, 41(2): 331–334. doi:10.2307/2709465
-* Peterson, Susan Rae, 1984, “The Compatibility of Richard Price’s Politics and Ethics”, *Journal of the History of Ideas*, 45(4): 537–547. doi:10.2307/2709372
-* Poitras, Geoffrey, 2013, “Richard Price, Miracles and the Origins of Bayesian Decision Theory”, *The European Journal of the History of Economic Thought*, 20(1): 29–57. doi:10.1080/09672567.2011.565356
+* –––, 1980, “Hume’s Mistake”, *Journal of the History of Ideas*, 41(2): 331–334. doi: 10.2307/2709465
+* Peterson, Susan Rae, 1984, “The Compatibility of Richard Price’s Politics and Ethics”, *Journal of the History of Ideas*, 45(4): 537–547. doi: 10.2307/2709372
+* Poitras, Geoffrey, 2013, “Richard Price, Miracles and the Origins of Bayesian Decision Theory”, *The European Journal of the History of Economic Thought*, 20(1): 29–57. doi: 10.1080/09672567.2011.565356
 * Price, H. S., 1986, “A Few Observations on David Hume and Richard Price on Miracles”, *Enlightenment and Dissent*, 5: 21–37. [[H.S. Price 1986 available online](https://web.archive.org/web/20200715212650/https://www.qmul.ac.uk/sed/religionandliterature/enlightenment-dissent/archive/v05-1986/)]
 * Prior Arthur N., 1949a, *Logic and the Basis of Ethics*, Oxford: Clarendon Press. [[Prior 1949a available online](http://archive.org/details/in.ernet.dli.2015.504084)]
 * –––, 1949b, “Propriety and Truth: (1) Preliminary History”, in Prior 1949a: ch. 6.
 * –––, 1949c, “The Naturalistic Fallacy: The History of Its Refutation”, in Prior 1949a: ch. 9.
 * Raphael, D. Daiches, 1947, *The Moral Sense* (Chapter 8: Richard Price), London: Oxford University Press.
 * Rashdall, Hastings, 1907, “Intuitionism”, in *Theory of Good and Evil: A Treatise on Moral Philosophy*, second edition, Oxford: Oxford University Press, vol. 1, ch. 4. [[Rashdall 1907 available online](https://archive.org/details/theoryofgoodevil01rash/page/81)]
-* Raynor, David, 1981, “Hume’s Mistake—Another Guess”, *Hume Studies*, 7(2): 164–166. doi:10.1353/hms.2011.0565
-* Schneewind, Jerome B., 1998, “Price's Intuitionism”, in *The Invention of Autonomy: A History of Modern Moral Philosophy* (Section ii of Ch. 18, “Against a Fatherless World”), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511818288
+* Raynor, David, 1981, “Hume’s Mistake—Another Guess”, *Hume Studies*, 7(2): 164–166. doi: 10.1353/hms.2011.0565
+* Schneewind, Jerome B., 1998, “Price's Intuitionism”, in *The Invention of Autonomy: A History of Modern Moral Philosophy* (Section ii of Ch. 18, “Against a Fatherless World”), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511818288
 * Sidgwick, Henry, 1902, “Modern, Chiefly English, Ethics: Later Intuitionism, Price”, in *Outlines of the History of Ethics for English Readers*, fifth edition, London: Macmillan, (ch. 4, sec. 11) pp. 224–6. [[Sidgwick 1902 available online](https://archive.org/details/outlinesofthehis00sidguoft/page/n7)]
 * Stephen, Leslie, 1876, “The Intellectual School”, “Price's Review”, “The Intellect and the Emotions”, “Result of his Teaching”, §§12–14 of Chapter 9 (“Moral Philosophy”), Section II “The Intellectual School” of *History of English Thought in the Eighteenth Century*, first edition, London: Smith, Elder, & Co., Vol. II, pp. 12–14. [[Stephen 1876 available online](https://archive.org/details/historyenglisht02stepgoog/page/n10)]
-* Stephens, John, 2000, “Conscience and the Epistemology of Morals: Richard Price’s Debt to Joseph Butler”, *Enlightenment and Dissent*, 19: 133–146. [[Stephens 2000 available online](http://www.qmulreligionandliterature.co.uk/journal/issues/19(2000).pdf#page=74)]
+* Stephens, John, 2000, “Conscience and the Epistemology of Morals: Richard Price’s Debt to Joseph Butler”, *Enlightenment and Dissent*, 19: 133–146. [[Stephens 2000 available online](http://www.qmulreligionandliterature.co.uk/journal/issues/19(2000).pdf#page = 74)]
 * Thomas, David Oswald, 1976, *Richard Price 1723–1791*, Cardiff: University of Wales Press.
 * Thomas, David Oswald, 1977, *The Honest Mind: The Thought and Work of Richard Price*, Oxford: Clarendon Press.
 * Thomas, David Oswald, John Stephens, and P. A. L. Jones, 1993, *A Bibliography of the Works of Richard Price*, Aldershot: Scolar Press.
-* Thomas, David Oswald, 2005, “Price, Richard (1723–1791)”, in *Oxford Dictionary of National Biography*, Oxford: Oxford University Press, version of 26 May 2005. doi:10.1093/ref:odnb/22761
+* Thomas, David Oswald, 2005, “Price, Richard (1723–1791)”, in *Oxford Dictionary of National Biography*, Oxford: Oxford University Press, version of 26 May 2005. doi: 10.1093/ref: odnb/22761
 * Thomas, Roland, 1924, *Richard Price, Philosopher and Apostle of Liberty*, Oxford: Oxford University Press.
-* Zebrowski, Martha K., 2000, “‘We may venture to say that the number of Platonic Readers is considerable’: Richard Price, Joseph Priestley, and the Platonic Strain in Eighteenth Century Thought”, *Enlightenment and Dissent*, 19: 193–213. [[Zebrowski 2000 available online](http://www.qmulreligionandliterature.co.uk/journal/issues/19(2000).pdf#page=104)]
+* Zebrowski, Martha K., 2000, “‘We may venture to say that the number of Platonic Readers is considerable’: Richard Price, Joseph Priestley, and the Platonic Strain in Eighteenth Century Thought”, *Enlightenment and Dissent*, 19: 193–213. [[Zebrowski 2000 available online](http://www.qmulreligionandliterature.co.uk/journal/issues/19(2000).pdf#page = 104)]
 
 #### Biographies
 

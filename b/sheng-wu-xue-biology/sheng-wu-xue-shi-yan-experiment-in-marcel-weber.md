@@ -12,13 +12,13 @@
 
 ### 1.1 实验生物学中的密尔方法
 
-因果推理方法试图重建并有时证明科学家从数据中推断因果关系的规则，包括实验数据。最早的尝试之一是由约翰·斯图尔特·密尔（1996 \[1843]）提出的，他提出了一个系统的因果推理方法，包括五种不同的所谓“方法”：协议方法、差异方法、协议和差异方法、残差方法和伴随变化方法。虽然其中一些“方法”更多地涉及观察，但差异方法被广泛认为是基于实验的科学推理的重要原则。密尔本人这样描述它：“如果在研究的现象发生的实例和不发生的实例中，除了一个只在前者中发生的情况外，其他所有情况都相同；两个实例唯一不同的情况，就是现象的效果、原因或不可或缺的原因部分”（密尔 1996 \[1843]，第 8 章，第 2 节）。因此，密尔的差异方法要求我们观察两种情况：一种是研究的现象发生的情况，另一种是它不发生的情况。如果可以确定一个因素是两种情况之间唯一的差异，那么这个因素必定与因果有关。
+因果推理方法试图重建并有时证明科学家从数据中推断因果关系的规则，包括实验数据。最早的尝试之一是由约翰 · 斯图尔特 · 密尔（1996 \[1843]）提出的，他提出了一个系统的因果推理方法，包括五种不同的所谓“方法”：协议方法、差异方法、协议和差异方法、残差方法和伴随变化方法。虽然其中一些“方法”更多地涉及观察，但差异方法被广泛认为是基于实验的科学推理的重要原则。密尔本人这样描述它：“如果在研究的现象发生的实例和不发生的实例中，除了一个只在前者中发生的情况外，其他所有情况都相同；两个实例唯一不同的情况，就是现象的效果、原因或不可或缺的原因部分”（密尔 1996 \[1843]，第 8 章，第 2 节）。因此，密尔的差异方法要求我们观察两种情况：一种是研究的现象发生的情况，另一种是它不发生的情况。如果可以确定一个因素是两种情况之间唯一的差异，那么这个因素必定与因果有关。
 
 正如密尔所指出的，差异方法特别适用于实验研究，因为这种方法所需的差异通常可以通过实验干预来产生。事实上，根据所谓的干预主义因果论，因果概念与实验干预之间存在着紧密的联系（伍德沃德 2003）。
 
-Mill 的差异法捕捉到了一种在生物实验中经常使用的重要推理方式。假设我们想要确定一种新发现的化合物是否是一种抗生素，即是否能抑制某些细菌的生长。我们首先将细菌细胞培养物分成几个等分（从均匀溶液中得到的相同大小的样本）。然后，我们向一个等分组中加入溶解在磷酸盐缓冲液中的疑似抗生素（"处理组"）。对于另一个等分组，我们只加入磷酸盐缓冲液（"对照组"）。然后，我们记录所有样本中的细菌生长情况（例如，通过测量培养基由于细菌而变浑浊时的光密度增加）。这个实验设置确保了处理组和对照组样本之间唯一的差异是抗生素的存在或缺失，从而排除了任何观察到的处理组和对照组等分之间生长差异不是由疑似抗生素引起的可能性，而是由缓冲液引起的。让我们将抗生素表示为"A"，生长抑制表示为"W"。生物学家因此会从这个实验中推断，如果在含有 A 的样本中观察到 W，而在不含 A 的样本中没有观察到 W，那么 A 就是一种抗生素。
+Mill 的差异法捕捉到了一种在生物实验中经常使用的重要推理方式。假设我们想要确定一种新发现的化合物是否是一种抗生素，即是否能抑制某些细菌的生长。我们首先将细菌细胞培养物分成几个等分（从均匀溶液中得到的相同大小的样本）。然后，我们向一个等分组中加入溶解在磷酸盐缓冲液中的疑似抗生素（"处理组"）。对于另一个等分组，我们只加入磷酸盐缓冲液（"对照组"）。然后，我们记录所有样本中的细菌生长情况（例如，通过测量培养基由于细菌而变浑浊时的光密度增加）。这个实验设置确保了处理组和对照组样本之间唯一的差异是抗生素的存在或缺失，从而排除了任何观察到的处理组和对照组等分之间生长差异不是由疑似抗生素引起的可能性，而是由缓冲液引起的。让我们将抗生素表示为 "A"，生长抑制表示为 "W"。生物学家因此会从这个实验中推断，如果在含有 A 的样本中观察到 W，而在不含 A 的样本中没有观察到 W，那么 A 就是一种抗生素。
 
-Mill 将这个"方法"解释为一种可以通过实用主义来证明的归纳推理原则。然而，有趣的是，这个原则也可以被看作是一种演绎推理的实例。
+Mill 将这个 "方法" 解释为一种可以通过实用主义来证明的归纳推理原则。然而，有趣的是，这个原则也可以被看作是一种演绎推理的实例。
 
 当然，为了达到这个目的，差异法必须与额外的前提条件相结合。以下是一种实现这一点的方法（改编自 Hofmann 和 Baumgartner 2011）：
 
@@ -37,7 +37,7 @@ Mill 将这个"方法"解释为一种可以通过实用主义来证明的归纳�
 
 尽管有这些控制措施，从米尔的差异测试中推导出因果因素需要假设非常强大。特别是，必须假设我们正在处理一个确定性的因果结构（3），并且没有任何事情是无因果发生的（4）。在我们的简单示例中，这意味着假设细菌不表现出任何形式的自发性，换句话说，它们的生长行为被假定由它们的遗传构成和环境所决定（尽管大多数生物学家相信他们的实验对象和自己一样有好天和坏天！）。
 
-如果我们将密尔的因果推理解释为演绎推理，那么所有的推理风险都会从归纳规则转移到诸如因果同质性、决定论和普遍因果原则等前提中。归纳推理的一个特征就是这总是可能的（Norton 2003）。当然，并不存在对这些前提的正当性的证明。它们可以被视为某种实验实践的一部分，这种实践通过其对研究的成果的有效性而得到整体上的证明（参见[第 5 节](https://plato.stanford.edu/entries/biology-experiment/#ExpRatSocEpi)）。
+如果我们将密尔的因果推理解释为演绎推理，那么所有的推理风险都会从归纳规则转移到诸如因果同质性、决定论和普遍因果原则等前提中。归纳推理的一个特征就是这总是可能的（Norton 2003）。当然，并不存在对这些前提的正当性的证明。它们可以被视为某种实验实践的一部分，这种实践通过其对研究的成果的有效性而得到整体上的证明（参见 [第 5 节](https://plato.stanford.edu/entries/biology-experiment/#ExpRatSocEpi)）。
 
 ### 1.2 密尔方法的概括
 
@@ -65,23 +65,23 @@ Mill 的方法及其广义版本甚至可以被视为提供某种发现逻辑（
 
 ### 2.1 杜安的困境和氧化磷酸化争议
 
-生物学教科书上充斥着一些著名实验，被认为为某些假设提供了关键的实验证据。仅举几个例子：奥斯瓦尔德·艾弗里（Oswald Avery）、科林·麦克劳德（Colin MacLeod）和麦克林·麦卡锡（Maclyn McCarthy）（1944 年）通过一系列巧妙的转化实验，使用一种引起肺部感染的细菌——肺炎双球菌（*Pneumococcus*），被认为已经确定了 DNA 作为遗传信息的载体。马修·梅塞尔森（Matthew Meselson）和弗兰克·斯塔尔（Frank Stahl）（1958 年）进行了一项实验，被广泛认为提供了证据，证明 DNA 复制是半保守的，而不是保守的或耗散的（意思是新形成的 DNA 双螺旋包含一个来自母分子的完整链和一个新合成的链）。以弗莱姆·拉克（Ephraim Racker）和沃尔特·斯托肯尼乌斯（Walter Stoeckenius）（1974 年）为代表的科学家们被认为提供了实验证据，解决了长期存在的争议（被称为“氧化磷酸化或氧磷酸争议”），即线粒体中的呼吸和能量丰富的化合物 ATP 的产生是通过化学中间体还是质子梯度耦合的。
+生物学教科书上充斥着一些著名实验，被认为为某些假设提供了关键的实验证据。仅举几个例子：奥斯瓦尔德 · 艾弗里（Oswald Avery）、科林 · 麦克劳德（Colin MacLeod）和麦克林 · 麦卡锡（Maclyn McCarthy）（1944 年）通过一系列巧妙的转化实验，使用一种引起肺部感染的细菌——肺炎双球菌（*Pneumococcus*），被认为已经确定了 DNA 作为遗传信息的载体。马修 · 梅塞尔森（Matthew Meselson）和弗兰克 · 斯塔尔（Frank Stahl）（1958 年）进行了一项实验，被广泛认为提供了证据，证明 DNA 复制是半保守的，而不是保守的或耗散的（意思是新形成的 DNA 双螺旋包含一个来自母分子的完整链和一个新合成的链）。以弗莱姆 · 拉克（Ephraim Racker）和沃尔特 · 斯托肯尼乌斯（Walter Stoeckenius）（1974 年）为代表的科学家们被认为提供了实验证据，解决了长期存在的争议（被称为“氧化磷酸化或氧磷酸争议”），即线粒体中的呼吸和能量丰富的化合物 ATP 的产生是通过化学中间体还是质子梯度耦合的。
 
-许多科学哲学家对于这种“关键实验”的可能性持怀疑态度。最著名的是皮埃尔·杜汶（1905）提出的论据，他声称（在物理学中）关键实验是不可能的，因为即使他们成功地排除了一个错误的假设，这并不能证明剩下的假设是真实的。科学家与数学家不同，他们从来没有一个完整的假设集，其中必定有一个是真实的。真实的假设可能尚未被构想出来，因此通过关键实验排除所有假设除一个之外，并不一定会导致真理。
+许多科学哲学家对于这种“关键实验”的可能性持怀疑态度。最著名的是皮埃尔 · 杜汶（1905）提出的论据，他声称（在物理学中）关键实验是不可能的，因为即使他们成功地排除了一个错误的假设，这并不能证明剩下的假设是真实的。科学家与数学家不同，他们从来没有一个完整的假设集，其中必定有一个是真实的。真实的假设可能尚未被构想出来，因此通过关键实验排除所有假设除一个之外，并不一定会导致真理。
 
 基于这样的考虑，可以认为生物学教科书中所谓的关键实验的功能更多是教育性的而非证据性的。为了评估这一观点，我将更详细地考虑两个例子，即氧化磷酸化争议和 Meselson-Stahl 案例。
 
 氧化磷酸化争议是关于呼吸作用（即能量丰富化合物的氧化）如何与 ADP（腺苷二磷酸）磷酸化为 ATP（腺苷三磷酸）相耦合的机制。反应的逆过程，ATP 水解为 ADP 和无机磷酸盐，被细胞用于驱动许多生化反应，如蛋白质合成以及小分子的合成，DNA 的复制，运动等等（肌肉收缩的能量也是由 ATP 水解提供的）。因此，ATP 就像是一种用于驱动各种细胞过程的通用生化电池。那么细胞如何利用食物中所含的化学能量来给这些电池充电呢？首个被描述的从 ADP 生成 ATP 的途径是糖酵解，即糖的降解。这条途径不需要氧气。它的工作原理是，细胞利用糖的分解产生一个活化的磷酸化合物 - 所谓的高能中间体，随后将其磷酸基转移给 ADP 以生成 ATP。
 
-在 1940 年代已经清楚，这不可能是唯一生成 ATP 的过程，因为它是厌氧的（不需要氧气）且效率不高。食物分子的完全分解需要氧气。汉斯·克雷布斯表明，这发生在一个循环反应途径中，今天被称为克雷布斯循环。克雷布斯循环产生一种叫做还原型 NADH（尼克酰胺腺嘌呤二核苷酸）的化合物。从 1940 年代开始，生物化学家们关注的一个重要问题是这种化合物是如何被氧化以及这种氧化是如何与 ADP 的磷酸化相结合的。自然地，生物化学家们寻找一个高能中间体，就像在糖酵解中使用的那样。然而，这个中间体被证明是非常难以捉摸的。
+在 1940 年代已经清楚，这不可能是唯一生成 ATP 的过程，因为它是厌氧的（不需要氧气）且效率不高。食物分子的完全分解需要氧气。汉斯 · 克雷布斯表明，这发生在一个循环反应途径中，今天被称为克雷布斯循环。克雷布斯循环产生一种叫做还原型 NADH（尼克酰胺腺嘌呤二核苷酸）的化合物。从 1940 年代开始，生物化学家们关注的一个重要问题是这种化合物是如何被氧化以及这种氧化是如何与 ADP 的磷酸化相结合的。自然地，生物化学家们寻找一个高能中间体，就像在糖酵解中使用的那样。然而，这个中间体被证明是非常难以捉摸的。
 
-1961 年，英国生物化学家彼得·米切尔（1961）提出了一种无需高能中间体的氧化磷酸化机制（后来被称为这个过程）。根据米切尔的方案，NADH 在线粒体内膜上逐步被氧化（线粒体是细胞内膜结构，被称为细胞的动力站）。这个过程在膜相对于膜的一侧是不对称的，导致质子在膜上的净运输（后来证明质子实际上是通过膜上的蛋白孔进行运输）。因此，质子梯度逐渐建立起来。由于质子带电，这个梯度也在膜上产生电压差。这种能量如何被利用？根据米切尔的理论，膜中含有另一种酶，它利用质子梯度的能量直接磷酸化 ADP。因此，是质子梯度将 NADH 的还原与 ADP 的磷酸化耦合在一起，而不是化学高能中间体。这个机制被称为“化学渗透机制”。
+1961 年，英国生物化学家彼得 · 米切尔（1961）提出了一种无需高能中间体的氧化磷酸化机制（后来被称为这个过程）。根据米切尔的方案，NADH 在线粒体内膜上逐步被氧化（线粒体是细胞内膜结构，被称为细胞的动力站）。这个过程在膜相对于膜的一侧是不对称的，导致质子在膜上的净运输（后来证明质子实际上是通过膜上的蛋白孔进行运输）。因此，质子梯度逐渐建立起来。由于质子带电，这个梯度也在膜上产生电压差。这种能量如何被利用？根据米切尔的理论，膜中含有另一种酶，它利用质子梯度的能量直接磷酸化 ADP。因此，是质子梯度将 NADH 的还原与 ADP 的磷酸化耦合在一起，而不是化学高能中间体。这个机制被称为“化学渗透机制”。
 
 尽管米切尔和一位同事很快就能够提供支持他假设的实验证据，但他的假设遭到了相当多的怀疑。具体来说，他能够证明孤立的呼吸线粒体确实排出质子（从而导致周围溶液的酸化，正如他的假设所预测的那样）。然而，当时的大多数生物化学家将这个证据视为不确定的。因为在那个时候很难排除呼吸线粒体通过排出质子而产生的副作用，而能量耦合仍然是通过化学中间体介导的。
 
 这是 20 世纪生物化学史上最史诗般的争议之一的开始。解决这个问题花费了大部分十年的时间，在此期间，有几个实验室声称成功找到了这个难以捉摸的化学中间体。但是这些发现都没有经受住严格的审查。另一方面，米切尔和他的几个支持者提出的所有证据都被认为不具有决定性，原因如上所述。韦伯（2002）指出，氧化磷酸化的两种竞争理论可以被视为不可比较的，而不是不可比较的（库恩经常被误读）。
 
-尽管如此，争议最终在 20 世纪 70 年代中期以米切尔的胜利而告终，他因此获得了 1978 年的诺贝尔化学奖。对于这个结论的原因存在不同的解释。大多数生物化学教科书以及韦伯（2002 年，2005 年）引用了埃弗拉姆·拉克和沃尔特·斯托肯尼乌斯（1974 年）的一项著名实验，认为这是确立米切尔机制的关键。这些生物化学家使用合成膜囊泡，其中插入了纯化的酶，其中之一是线粒体 ATP 酶（直接负责 ADP 磷酸化的酶）。另一个酶根本不是来自线粒体，而是来自光合细菌。已经证明这种酶可以作为光驱动的质子泵。当将这种酶与线粒体 ATP 酶一起插入人工膜囊泡时，膜囊泡在照明下对 ADP 进行了磷酸化。
+尽管如此，争议最终在 20 世纪 70 年代中期以米切尔的胜利而告终，他因此获得了 1978 年的诺贝尔化学奖。对于这个结论的原因存在不同的解释。大多数生物化学教科书以及韦伯（2002 年，2005 年）引用了埃弗拉姆 · 拉克和沃尔特 · 斯托肯尼乌斯（1974 年）的一项著名实验，认为这是确立米切尔机制的关键。这些生物化学家使用合成膜囊泡，其中插入了纯化的酶，其中之一是线粒体 ATP 酶（直接负责 ADP 磷酸化的酶）。另一个酶根本不是来自线粒体，而是来自光合细菌。已经证明这种酶可以作为光驱动的质子泵。当将这种酶与线粒体 ATP 酶一起插入人工膜囊泡时，膜囊泡在照明下对 ADP 进行了磷酸化。
 
 这个实验被视为化学渗透机制的关键证据，因为它是首次证明 ATP 酶仅靠化学渗透梯度就能提供能量的实验。化学中间体的参与可以排除，因为没有呼吸酶存在来将未知的中间体传递给 ATP 酶。
 
@@ -111,7 +111,7 @@ Racker-Stoeckenius 实验可能最好被视为一个直接的_排除归纳_的�
 
 纯粹的因果术语来看，所有这些模型都表明，新合成的 DNA 分子中的核苷酸序列取决于预先存在的分子的序列。但这些模型还包含_结构_信息，例如 DNA 双螺旋拓扑结构和复制 DNA 分子经历的运动（当时仍是假设）。根据左侧的模型，即所谓的“保守”模型，DNA 双螺旋的两条链在复制之前不会分离；它们粘在一起，子分子沿着完整的双螺旋生长，作为整体充当模板。根据中间的模型，称为“半保守”机制（今天被认为是正确的），两条链在过程中分离。新合成的链沿着分离的预先存在的链生长，每条链都充当模板。在右侧的模型中，即“分散”模型，两条链不仅在过程中分离，还被切成片段，然后重新连接。纯粹的因果图（即仅包含关于变量之间因果关系的信息的因果图）可以用来描述半保守和分散模型中分离和切割事件的原因，但为了提供规范上充分的机械解释，还需要对 DNA 分子的结构进行描述，包括复制过程中链的拓扑结构和相对运动的不同阶段。这是必须补充因果图中所包含的信息的真正机械信息。
 
-这样的机制如何进行测试？为了了解这一点，考虑到 1957 年被认为使得三种 DNA 复制机制之间能够选择的著名实验是很有启发性的。这个实验也被称为“生物学中最美丽的实验”（Holmes 2011），由 Matthew Meselson 和 Frank Stahl 使用分析超离心仪进行。 （另请参阅条目中对 Meselson-Stahl 实验的讨论[物理实验](https://plato.stanford.edu/entries/physics-experiment/index.html#MeseStahExpeMostBeauExpeBiol)）。
+这样的机制如何进行测试？为了了解这一点，考虑到 1957 年被认为使得三种 DNA 复制机制之间能够选择的著名实验是很有启发性的。这个实验也被称为“生物学中最美丽的实验”（Holmes 2011），由 Matthew Meselson 和 Frank Stahl 使用分析超离心仪进行。 （另请参阅条目中对 Meselson-Stahl 实验的讨论 [物理实验](https://plato.stanford.edu/entries/physics-experiment/index.html#MeseStahExpeMostBeauExpeBiol)）。
 
 Meselson 和 Stahl 在含有重氮同位素 15N 的生长培养基中培养细菌。然后将这些细菌转移到含有正常轻氮 14N 的培养基中。经过一代之后，收获细菌并提取其 DNA，然后将其加载到超离心仪室中的氯化铯溶液中（图 2）。铯原子非常重，当受到高离心力时，它们会形成浓度梯度。在这样的梯度中，DNA 会在梯度中的一个带状区域浮动，其中分子密度与氯化铯溶液的密度相对应。因此，分析离心仪是一种极其敏感的分子密度测量设备。事实上，它足够敏感，可以检测到含有重氮和含有轻氮的 DNA 之间的差异。它还可以将这两种 DNA 物种与含有重氮的链和含有轻氮的链组成的杂交体区分开来。确实，在一轮复制之后，Meselson 和 Stahl 实验中的细菌 DNA 的密度是中间的。经过另一轮复制后，DNA 的密度与其自然状态下的 DNA 相同。
 
@@ -135,7 +135,7 @@ IBE 的一个变体也被 Cresto（2008）用来重建 Avery 的实验，该实�
 
 ## 3. 实验系统和模型生物
 
-过去的两个部分主要将实验视为测试理论假设和因果主张的方式，这是传统科学哲学认为实验的主要作用所在。然而，在生物学的历史和哲学领域存在着大量的学术研究，表明这并不是实验在生物学中的全部作用。正如伊恩·哈金（Ian Hacking）所说，实验“有其自身的生命”（Hacking 1983）。生物实验室中的许多活动并不是为了测试一个预先设想的理论。例如，许多实验起到了_探索性_的作用，即帮助科学家发现他们可能尚无任何理论解释或甚至没有明确想法的新现象。探索性实验已经在物理学的历史和哲学（Steinle 1997）以及生物学（Burian 1997, 2007; O'Malley 2007; Waters 2007）中进行了研究。这些研究表明，实验生物学的发展不能仅通过关注理论和试图证实或否定这些理论来理解。实验实践根本不是围绕理论组织的，尤其在生物学中如此。如果是这样，我们必须问用什么其他术语来解释或重建这种实践。最近的学术研究特别关注了两种实体：*模型生物_和_实验系统*。
+过去的两个部分主要将实验视为测试理论假设和因果主张的方式，这是传统科学哲学认为实验的主要作用所在。然而，在生物学的历史和哲学领域存在着大量的学术研究，表明这并不是实验在生物学中的全部作用。正如伊恩 · 哈金（Ian Hacking）所说，实验“有其自身的生命”（Hacking 1983）。生物实验室中的许多活动并不是为了测试一个预先设想的理论。例如，许多实验起到了_探索性_的作用，即帮助科学家发现他们可能尚无任何理论解释或甚至没有明确想法的新现象。探索性实验已经在物理学的历史和哲学（Steinle 1997）以及生物学（Burian 1997, 2007; O'Malley 2007; Waters 2007）中进行了研究。这些研究表明，实验生物学的发展不能仅通过关注理论和试图证实或否定这些理论来理解。实验实践根本不是围绕理论组织的，尤其在生物学中如此。如果是这样，我们必须问用什么其他术语来解释或重建这种实践。最近的学术研究特别关注了两种实体：*模型生物_和_实验系统*。
 
 ### 3.1 模型生物
 
@@ -143,7 +143,7 @@ IBE 的一个变体也被 Cresto（2008）用来重建 Avery 的实验，该实�
 
 似乎有些自相矛盾的是，正是这些生物学的实验学科将其研究限制在生命多样性的最小部分，却渴望达到最大程度的普遍性。因为研究模式生物的目的往往是为了获得不仅对一种物种有效，而且对许多物种有效的知识，有时甚至包括人类。在讨论这个认识论问题之前，有必要回顾一些关于模式生物研究的历史和哲学分析的结果。
 
-一项重要的研究是罗伯特·科勒（Robert Kohler）的《果蝇之主》（Kohler 1994），这是一部关于源自哥伦比亚大学托马斯·亨特·摩根实验室的果蝇遗传学的历史。科勒将这种科学方法的成功归功于果蝇系统在新描述和定位突变方面的巨大产出。果蝇繁殖相对较快，容易在实验室中大量饲养，这增加了发现新突变的机会。科勒将果蝇称为“繁殖反应堆”，以捕捉这种多产性，因此，他的研究有点像实验室果蝇的生态学。摩根实验室发展的遗传图谱技术，将每个突变分配到果蝇的四条染色体上的一个物理位置，也可以看作是组织实验室工作和跟踪不断出现的大量突变体的一种方式。遗传图谱是突变体的系统目录，因此既是研究工具，也是果蝇遗传系统的理论模型（参见韦伯 1998 年）。因此，摩根实验室的大部分工作最好描述为繁殖、维持、表征和编目（通过遗传图谱）果蝇菌株。其中很少有与测试遗传理论有关的内容，尽管关于基因传递规律的理论知识（通常称为“孟德尔定律”）当然也在这个过程中得到了相当的改进（Darden 1991）。然而，经典遗传理论也是发现突变体和基因以供进一步研究的手段，而不是一个目标（Waters 2004）。这在果蝇如何适应分子生物学时代的方式中也是显而易见的（Weber 2005；Falk 2009）。
+一项重要的研究是罗伯特 · 科勒（Robert Kohler）的《果蝇之主》（Kohler 1994），这是一部关于源自哥伦比亚大学托马斯 · 亨特 · 摩根实验室的果蝇遗传学的历史。科勒将这种科学方法的成功归功于果蝇系统在新描述和定位突变方面的巨大产出。果蝇繁殖相对较快，容易在实验室中大量饲养，这增加了发现新突变的机会。科勒将果蝇称为“繁殖反应堆”，以捕捉这种多产性，因此，他的研究有点像实验室果蝇的生态学。摩根实验室发展的遗传图谱技术，将每个突变分配到果蝇的四条染色体上的一个物理位置，也可以看作是组织实验室工作和跟踪不断出现的大量突变体的一种方式。遗传图谱是突变体的系统目录，因此既是研究工具，也是果蝇遗传系统的理论模型（参见韦伯 1998 年）。因此，摩根实验室的大部分工作最好描述为繁殖、维持、表征和编目（通过遗传图谱）果蝇菌株。其中很少有与测试遗传理论有关的内容，尽管关于基因传递规律的理论知识（通常称为“孟德尔定律”）当然也在这个过程中得到了相当的改进（Darden 1991）。然而，经典遗传理论也是发现突变体和基因以供进一步研究的手段，而不是一个目标（Waters 2004）。这在果蝇如何适应分子生物学时代的方式中也是显而易见的（Weber 2005；Falk 2009）。
 
 模式生物通常是根据特定研究领域选择的，但结果证明它们在其他领域也非常宝贵。果蝇就是一个典型例子；当摩根选择果蝇作为模式系统时，他主要对胚胎学感兴趣。这种选择带来了巨大的回报，但果蝇对于遗传学本身以及进化遗传学（尤其是进化综合理论的“建筑师”之一 T.多布任斯基的工作，参见多布任斯基 1937 年）、行为遗传学（例如 S.本泽尔对昼夜节律机制的研究，参见维纳 1999 年）、生化遗传学以及神经科学同样重要。
 
@@ -153,9 +153,9 @@ IBE 的一个变体也被 Cresto（2008）用来重建 Avery 的实验，该实�
 
 让我们首先考虑一个特殊情况，即遗传密码的普遍性。在分子生物学中，与科普文章不同，“遗传密码”一词并不指代一个有机体的基因组 DNA 序列，而是指将氨基酸分配给信使 RNA 上的碱基三联体。有四种这样的碱基：A、U、G 和 C。三个碱基一起形成一个“密码子”，并指定一个氨基酸，例如，三联体 AUG 指定了氨基酸甲硫氨酸（它也是一个起始密码子，即它启动了一个用于制造蛋白质的开放阅读框架）。令人惊奇的是，发现几乎所有已经研究过的生物体中的遗传密码完全相同。只有少数几个例外是已知的，例如线粒体和叶绿体的遗传密码，或者 Trypanosomes（一种引起睡眠病的人类寄生虫）。因此，该密码被称为“普遍的”，因为例外很少。但是，生物学家如何知道该密码是普遍的，考虑到它只在少数几个物种中确定过？
 
-在这种情况下，可以使用一个简单的贝叶斯论证来证明对遗传密码普遍性的当前信念是合理的。要理解这一点，首先必须注意到该密码是任意的；在当前标准遗传密码中，氨基酸与密码子的具体映射没有必然性。第二个前提是存在大量不同的可能遗传密码。现在，我们可以问的是，确切相同的遗传密码在迄今为止已经研究过的如此多不同物种中独立进化的概率是多少。显然，这个概率是非常小的。在假设该密码在不同物种中并非独立出现的情况下，遗传密码的巧合概率要大得多。根据这个假设，该密码只出现了一次，巧合是由于共同祖先。然而，一旦特定的遗传密码形成，要改变它就非常困难，因为任何氨基酸-密码子分配的突变变化往往会影响更多不同的蛋白质，从而威胁到生物体的生存。正因为如此，雅克·莫诺德（1974）将该密码描述为“冻结的偶然事件”。它的突变率非常非常低。这些考虑共同支持遗传密码普遍性的假设。
+在这种情况下，可以使用一个简单的贝叶斯论证来证明对遗传密码普遍性的当前信念是合理的。要理解这一点，首先必须注意到该密码是任意的；在当前标准遗传密码中，氨基酸与密码子的具体映射没有必然性。第二个前提是存在大量不同的可能遗传密码。现在，我们可以问的是，确切相同的遗传密码在迄今为止已经研究过的如此多不同物种中独立进化的概率是多少。显然，这个概率是非常小的。在假设该密码在不同物种中并非独立出现的情况下，遗传密码的巧合概率要大得多。根据这个假设，该密码只出现了一次，巧合是由于共同祖先。然而，一旦特定的遗传密码形成，要改变它就非常困难，因为任何氨基酸-密码子分配的突变变化往往会影响更多不同的蛋白质，从而威胁到生物体的生存。正因为如此，雅克 · 莫诺德（1974）将该密码描述为“冻结的偶然事件”。它的突变率非常非常低。这些考虑共同支持遗传密码普遍性的假设。
 
-这样的论证并不总是可行的。事实上，在一般情况下，从模式生物中推断是固有的问题。主要问题是丹尼尔·斯蒂尔（2008）所称的“推断者的循环”。问题是这样的。我们想要推断某个系统 S 具有机制 M，因为已知另一个系统 T 具有 M。为了使这个推断成立，我们必须假设 S 和 T 在相关方面是相似的。我们无法知道这些系统是否相关相似，除非我们已经知道它们都具有 M。但如果我们已经知道这一点，就没有必要首先进行推断了。
+这样的论证并不总是可行的。事实上，在一般情况下，从模式生物中推断是固有的问题。主要问题是丹尼尔 · 斯蒂尔（2008）所称的“推断者的循环”。问题是这样的。我们想要推断某个系统 S 具有机制 M，因为已知另一个系统 T 具有 M。为了使这个推断成立，我们必须假设 S 和 T 在相关方面是相似的。我们无法知道这些系统是否相关相似，除非我们已经知道它们都具有 M。但如果我们已经知道这一点，就没有必要首先进行推断了。
 
 请注意，当我们推断遗传密码时，并不会出现这样的循环。在这种情况下，我们_确实_知道这些系统是相关相似的，因为所有生物都有共同的祖先，并且密码很难改变。如果没有这样的论证，我们该怎么办呢？
 
@@ -177,7 +177,7 @@ Levy 和 Currie（2015）对这个观点提出了批评。在他们看来，像 
 
 As we have seen, model organisms have greatly shaped the development of experimental biology, and continue to do so. Another important entity are so-called experimental systems. These are not to be confused with model organisms: The latter is a biological species that is being bred in the laboratory for experimental work. An experimental system may involve one or several model organisms, and most model organisms are used in several experimental system. An experimental system typically consists of certain research materials (which may be obtained from a model organism), preparatory procedures, measurement instruments, and data analysis procedures that are mutually adapted to each other.
 
-Experimental systems are the core of Hans-Jörg Rheinberger’s (1997) account of mid-20th Century research on protein synthesis. Rheinberger characterizes experimental systems as “systems of manipulation designed to give unknown answers to questions that the experimenters themselves are not yet clearly to ask” and also as “the smallest integral working units of research” (Rheinberger 1997, 28). He argues that research in experimental biology always “begins with the choice of a system rather than with the choice of a theoretical framework” (p. 25). He then follows a certain experimental system through time and shows how it exerted a strong effect on the development of biology. The system in question is a so-called in-vitro system for protein synthesis that was developed in the laboratory of Paul Zamecnik at Massachusetts General Hospital in the 1950s. “In vitro” means that the system doesn’t contain any living cells. It is rather based on a cell extract, originally from bacteria, later also from other organisms including rabbits and yeast. The cell extract is prepared in a way that preserves functionality of the protein synthesis machinery. Instead of the RNAs that naturally occur in the source organism, the in-vitro system may be “programmed” with exogenous or even artificial RNA. Furthermore, the experimental system contains measurement procedures (sometimes called “assays” in experimental biology) for protein synthesis activity. One such method is to measure incorporation of radioactivity introduced by amino acids containing a radioisotope such as sulfur-35, but there were other methods as well. Probably the most famous experiment done with such a system is the experiment by Marshall Nirenberg and Heinrich Matthaei (1961). These researchers added an artificial RNA, namely poly-U (U or uracil is one of the four bases of RNA) to the in-vitro system and showed that it produced a polypeptide (=protein) containing only the amino acid phenylalanine. Thus, they “cracked” the first “word” of the genetic code, namely UUU for phenylalanine.
+Experimental systems are the core of Hans-Jörg Rheinberger’s (1997) account of mid-20th Century research on protein synthesis. Rheinberger characterizes experimental systems as “systems of manipulation designed to give unknown answers to questions that the experimenters themselves are not yet clearly to ask” and also as “the smallest integral working units of research” (Rheinberger 1997, 28). He argues that research in experimental biology always “begins with the choice of a system rather than with the choice of a theoretical framework” (p. 25). He then follows a certain experimental system through time and shows how it exerted a strong effect on the development of biology. The system in question is a so-called in-vitro system for protein synthesis that was developed in the laboratory of Paul Zamecnik at Massachusetts General Hospital in the 1950s. “In vitro” means that the system doesn’t contain any living cells. It is rather based on a cell extract, originally from bacteria, later also from other organisms including rabbits and yeast. The cell extract is prepared in a way that preserves functionality of the protein synthesis machinery. Instead of the RNAs that naturally occur in the source organism, the in-vitro system may be “programmed” with exogenous or even artificial RNA. Furthermore, the experimental system contains measurement procedures (sometimes called “assays” in experimental biology) for protein synthesis activity. One such method is to measure incorporation of radioactivity introduced by amino acids containing a radioisotope such as sulfur-35, but there were other methods as well. Probably the most famous experiment done with such a system is the experiment by Marshall Nirenberg and Heinrich Matthaei (1961). These researchers added an artificial RNA, namely poly-U (U or uracil is one of the four bases of RNA) to the in-vitro system and showed that it produced a polypeptide (= protein) containing only the amino acid phenylalanine. Thus, they “cracked” the first “word” of the genetic code, namely UUU for phenylalanine.
 
 One of the central points of Rheinberger’s analysis is that the in-vitro system was never designed to do this task. Its original purpose was to study protein synthesis in cancer cells. In addition to unraveling the genetic code and the mechanisms of protein synthesis, it was later used for various other purposes in biochemistry and cell biology (for example, for studying the transport of proteins across endoplasmic reticulum and mitochondrial membranes). The system was thus not even confined to a single discipline, in fact, it to some extent lead to a re-organization of scientific disciplines. Furthermore, the system was also fused with other experimental system or it bifurcated into different systems. Experimental systems, like model organisms are at least as important as focal points that organize research as theories.
 
@@ -201,15 +201,15 @@ One of the central points of Rheinberger’s analysis is that the in-vitro syste
 
 对于实验生物学的科学变革，是否存在一种社会解释？当然，这种解释不应该回归到科学的理论优先观点，而是将理论视为嵌入某种实践之中。为了看清这一点，最好考虑一下经典遗传学的案例。
 
-据说经典遗传学源于孟德尔对豌豆植物的实验，然而，事情并不像这样简单。20 世纪初，遗传学在大西洋两岸都存在着几个学派。在英国，卡尔·皮尔逊和拉斐尔·韦尔登的生物计量学派正在发展一种以弗朗西斯·高尔顿的“祖先遗传法则”为出发点的定量方法。孟德尔主义者威廉·贝茨森则领导着一个竞争性的运动。在美国，托马斯·亨特·摩根及其合作者正在构建果蝇的第一个遗传图谱。一段时间里，威廉·卡斯尔特为遗传图谱的不同方法以及对基因的不同理论进行辩护。在欧洲大陆，也出现了各种不同的方法，例如在荷兰（雨果·德弗里斯）、德国（卡尔·科伦斯）或奥地利（埃里希·切尔马克）。托马斯·亨特·摩根的美国学派几乎占据了主导地位。他们对基因的图谱绘制方法以及（不断变化的）基因理论在 1930 年代得到了广泛接受，并在 1930 年代和 1940 年代的进化综合中正式纳入（迈尔 1982 年；普罗温 1971 年）。
+据说经典遗传学源于孟德尔对豌豆植物的实验，然而，事情并不像这样简单。20 世纪初，遗传学在大西洋两岸都存在着几个学派。在英国，卡尔 · 皮尔逊和拉斐尔 · 韦尔登的生物计量学派正在发展一种以弗朗西斯 · 高尔顿的“祖先遗传法则”为出发点的定量方法。孟德尔主义者威廉 · 贝茨森则领导着一个竞争性的运动。在美国，托马斯 · 亨特 · 摩根及其合作者正在构建果蝇的第一个遗传图谱。一段时间里，威廉 · 卡斯尔特为遗传图谱的不同方法以及对基因的不同理论进行辩护。在欧洲大陆，也出现了各种不同的方法，例如在荷兰（雨果 · 德弗里斯）、德国（卡尔 · 科伦斯）或奥地利（埃里希 · 切尔马克）。托马斯 · 亨特 · 摩根的美国学派几乎占据了主导地位。他们对基因的图谱绘制方法以及（不断变化的）基因理论在 1930 年代得到了广泛接受，并在 1930 年代和 1940 年代的进化综合中正式纳入（迈尔 1982 年；普罗温 1971 年）。
 
 一个传统的科学哲学家观察这个案例的方式是考虑到关键的_理论_，并问：是什么证据促使科学家采纳了摩根的理论？然而，这可能不是正确的问题。因为这个问题暗示了理论和实验证据在遗传学中可以被分开。但可以争论的是，这两者彼此之间的依赖性太强，不能被视为独立的实体。经典遗传学——以其各种形式——首先是一种用各种模型生物进行杂交实验的方法，并以某种方式整理这些实验的结果，例如线性遗传图谱。当然，关于基因性质的某些观念也存在，其中一些是高度推测性的，另一些则是通过实验得到了很好的证实（例如染色体上的线性排列，参见韦伯 1998b）。但有时所称的“遗传传递定律”或简称为“孟德尔定律”是遗传学的一种特定方式的组成部分。因此，理论与实验实践是不可分割的（沃特斯 2008 年）。当然，这两者都是相互影响的：遗传学中的实验数据与其他科学领域一样“理论负荷”，换句话说，对实验数据的分析和解释需要理论。
 
 对于我们当前的科学变革问题，这意味着理论和实验证据是一起选择的，而不是前者基于后者（如天真的经验主义观点所认为的）。
 
-这个选择是基于什么依据进行的？由谁做出的选择？一个简单但可能不完整的解释是，选择摩尔根遗传学方法是因为它是最有成果的。一个采用摩尔根方法的熟练遗传学家几乎可以保证能够得出可发表的结果，主要是遗传图谱的形式，也许还有一些有趣的观察结果，比如在遗传交叉中表现奇怪的突变。相比之下，早期 20 世纪仍然存在的其他方法并没有证明是那么有成果的。也就是说，它们没有产生与这些科学自身标准相符的可称为成功的结果。此外，其他遗传学方法也无法适应其他科学学科，如进化生物学。因此，古典遗传学凭借其巨大的生产力击败了其他方法，这体现在发表的研究论文、成功的资助申请、成功的学生等方面。因此，正是整个科学界选择了新的遗传学方法，因为它具有成果。在个体科学家的角度上，没有对所讨论的理论框架进行证据的权衡，或者至少这在其中没有起到作用（当然，在同一框架内对更具体的主张进行了证据的权衡）。实验生物学中的理论因此是作为实验实践的一部分（或实验系统，参见[§4.2](https://plato.stanford.edu/entries/biology-experiment/#ExpSys)）选择的，并且始终在社区层面上进行。这就是实验生物学中科学变革的社会认识论解释的样子（Weber 2011）。
+这个选择是基于什么依据进行的？由谁做出的选择？一个简单但可能不完整的解释是，选择摩尔根遗传学方法是因为它是最有成果的。一个采用摩尔根方法的熟练遗传学家几乎可以保证能够得出可发表的结果，主要是遗传图谱的形式，也许还有一些有趣的观察结果，比如在遗传交叉中表现奇怪的突变。相比之下，早期 20 世纪仍然存在的其他方法并没有证明是那么有成果的。也就是说，它们没有产生与这些科学自身标准相符的可称为成功的结果。此外，其他遗传学方法也无法适应其他科学学科，如进化生物学。因此，古典遗传学凭借其巨大的生产力击败了其他方法，这体现在发表的研究论文、成功的资助申请、成功的学生等方面。因此，正是整个科学界选择了新的遗传学方法，因为它具有成果。在个体科学家的角度上，没有对所讨论的理论框架进行证据的权衡，或者至少这在其中没有起到作用（当然，在同一框架内对更具体的主张进行了证据的权衡）。实验生物学中的理论因此是作为实验实践的一部分（或实验系统，参见 [§4.2](https://plato.stanford.edu/entries/biology-experiment/#ExpSys)）选择的，并且始终在社区层面上进行。这就是实验生物学中科学变革的社会认识论解释的样子（Weber 2011）。
 
-刚刚描绘的古典遗传学的崛起形象让人想起了托马斯·库恩的科学哲学（Kuhn 1970），或者大卫·赫尔对分类学崛起的描述（Hull 1988）。关于这样的形象是否与广义上理性的科学实践相容，这是一个有争议的问题。库恩认为，我们无法依靠外部的理性标准来回答这个问题，但他也认为科学是理性的典范（Kuhn 1971, 143f.）。根据库恩的观点，现代科学中存在一种新兴的社会理性，不能被解释为个体理性能力的行使。赫尔（Hull 1988）似乎持有类似的观点。
+刚刚描绘的古典遗传学的崛起形象让人想起了托马斯 · 库恩的科学哲学（Kuhn 1970），或者大卫 · 赫尔对分类学崛起的描述（Hull 1988）。关于这样的形象是否与广义上理性的科学实践相容，这是一个有争议的问题。库恩认为，我们无法依靠外部的理性标准来回答这个问题，但他也认为科学是理性的典范（Kuhn 1971, 143f.）。根据库恩的观点，现代科学中存在一种新兴的社会理性，不能被解释为个体理性能力的行使。赫尔（Hull 1988）似乎持有类似的观点。
 
 ## 5. 实验工件和数据可靠性
 
@@ -219,7 +219,7 @@ One of the central points of Rheinberger’s analysis is that the in-vitro syste
 
 在科学哲学中，一个更具影响力的观念是鲁棒性。最初，这个术语被引入来表示理论模型的某种属性，即对建模假设的不敏感性。在理论建模中，鲁棒的结果是指对建模假设的变化不变的结果（Levins 1966; Wimsatt 1981; Weisberg 2006）。在实验科学中，这个术语意味着另外一种情况，即结果对于使用不同实验方法是不变的。鲁棒的实验结果是指尽管它们是由独立方法产生的，但在某种程度上它们是一致的。方法的独立性可以有至少两种含义：首先，这些方法使用不同的物理过程。例如，光学显微镜和（透射）电子显微镜在这个意义上是独立的方法；前者使用可见光，后者使用电子束来获取有关生物结构的信息。第二种独立性涉及用于分析和解释数据的理论假设（大多数数据是理论依赖的）。如果这两种方法使用的假设不同，它们也被称为独立的，或者是独立的理论依赖的（Culp 1995）。这两种“独立”的意义通常是一致的，尽管可能有例外。
 
-物理科学中一个被广泛讨论的鲁棒实验结果的例子是物理学家让·佩兰（Jean Perrin）在 20 世纪初使用不少于 13 种独立方法得出的阿伏伽德罗常数（6.022 x 10^23）的数值（Nye 1972）。Salmon（1984）认为，这为通过共同原因论证相信原子的存在提供了强有力的理由。在 Salmon 的观点中，可以通过佩兰对阿伏伽德罗常数进行的 13 次不同测定来推断出原子的存在，因为这些测定有共同的原因。其他人则更多地将鲁棒性论证解释为普特南（Putnam）关于科学现实主义的“无奇迹”论证，即某些理论实体的存在假设是解释理论预测成功或者在鲁棒性情况下实验结果一致的最佳解释（Weber 2005, Ch. 8; Stegenga 2009）。
+物理科学中一个被广泛讨论的鲁棒实验结果的例子是物理学家让 · 佩兰（Jean Perrin）在 20 世纪初使用不少于 13 种独立方法得出的阿伏伽德罗常数（6.022 x 10^23）的数值（Nye 1972）。Salmon（1984）认为，这为通过共同原因论证相信原子的存在提供了强有力的理由。在 Salmon 的观点中，可以通过佩兰对阿伏伽德罗常数进行的 13 次不同测定来推断出原子的存在，因为这些测定有共同的原因。其他人则更多地将鲁棒性论证解释为普特南（Putnam）关于科学现实主义的“无奇迹”论证，即某些理论实体的存在假设是解释理论预测成功或者在鲁棒性情况下实验结果一致的最佳解释（Weber 2005, Ch. 8; Stegenga 2009）。
 
 各种作者试图表明，基于鲁棒性的推理在判断实验生物学数据可靠性方面起着重要作用。例如，Weber（1998b）认为，在 20 世纪 30 年代，不同的映射技术所产生的果蝇遗传图的一致性为这些图的可靠性提供了重要的论证。Culp（1995）认为，鲁棒性提供了一种摆脱所谓的“数据-技术循环”方法论困境的方法，这更适合作为柯林斯（Collins）所称的“实验者回归”的名称。根据柯林斯（1985）的观点，科学家必须相信数据是由可靠的仪器产生的，但他们只能根据仪器产生的正确类型的数据来判断仪器是否可靠。根据 Culp（1995）的观点，鲁棒性提供了一种摆脱这个循环的方法。如果由独立方法获得的数据一致，那么这既支持这些数据的可靠性，也支持产生这些数据的仪器的可靠性。她试图通过不同的 DNA 测序方法的例子来证明这一点。
 
@@ -233,7 +233,7 @@ Stegenga（2009）批评了鲁棒性的方法。在他看来，他所称之为�
 
 Hudson（1999）提出了中间体故事的另一种解释。Hudson 认为，在科学家们对中间体的真实性做出决定时，并没有考虑到鲁棒性。事实上，如果他们使用了这样的推理，他们将永远不会相信中间体的存在。相反，他们使用了一种 Hudson 称之为“可靠过程推理”的推理方式。他的意思是，科学家们相信实验数据的程度取决于他们有理由相信生成这些数据的过程提供了对现实的忠实表达。在中间体的情况下，来自电子显微镜的证据首先被认为是可靠的。但后来，通过实验证明中间体实际上是由制备过程产生的。简而言之，通过各种实验表明，化学固定剂直接损害生物膜。因此，通过经验方法，中间体被证明是人为产物。因此，鲁棒性的考虑在电子显微镜技术人员的数据可靠性判断中没有起到任何作用。
 
-与 Hudson 类似，Weber（2005 年，第 9 章）认为，证明中间体是实验人为产物只是一种普通的实验证明存在因果关系的方法，即中间体的出现与固定剂之间的关系。因此，在数据可靠性判断中，可能没有任何特殊的推理方式，除了普通的因果推理（参见[§2.1](https://plato.stanford.edu/entries/biology-experiment/#MilMetExpBio)）。
+与 Hudson 类似，Weber（2005 年，第 9 章）认为，证明中间体是实验人为产物只是一种普通的实验证明存在因果关系的方法，即中间体的出现与固定剂之间的关系。因此，在数据可靠性判断中，可能没有任何特殊的推理方式，除了普通的因果推理（参见 [§2.1](https://plato.stanford.edu/entries/biology-experiment/#MilMetExpBio)）。
 
 迄今为止，在这场辩论中，一个被大多数人忽视的方面是一种不同类型的稳健性，即_物理_稳健性。例如，如果我们将中间体与其他细胞内细胞器（例如真核细胞核或线粒体）进行比较，可以注意到，尽管从细胞提取物中通常可以通过离心法以相对完整的形式恢复后者的细胞器，但从未成功分离出中间体。尽管当然有可能这些恢复的结构是制备过程的人为产物，但可能还有其他证据证明它们的真实性。例如，可能存在可以测量与细胞器功能相对应的分离细胞器中的指示性酶活性。这种推理可能可以归入 Hacking（1983）的策略，即使用对理论实体进行干预的能力作为其真实存在的依据。
 
@@ -245,7 +245,7 @@ Hudson（1999）提出了中间体故事的另一种解释。Hudson 认为，在
 
 真因理想在遗传学史上的应用可以找到一个例子。在 19 世纪，关于遗传颗粒有很多猜测。例如，达尔文的“暂定的泛基因假说”假设了自由循环的颗粒或“基因”，它们代表了生物体的部分和器官，并将这些信息传递给后代。虽然达尔文本人是真因理想的拥护者，他严谨地将其应用于自然选择理论，但他对这个“暂定的假说”的要求较低（Stanford 2006）。然而，当然也有其他人批评了泛基因假说，因为它未能满足真因标准，只是根据能够解释某些遗传现象的推论而推断出基因颗粒的存在。
 
-正如 Novick 和 Scholl（即将发表的文章）所展示的，20 世纪，在重新发现孟德尔定律以及改进的显微镜和细胞学技术的推动下，符合真因标准的遗传学科学最终出现了。后者非常重要，因为它们允许对用来解释观察到的实验规律的结构进行独立检查。一个例子是托马斯·亨特·摩根及其同事对基因是染色体的一部分这一假设的“证明”（Bridges 2014）。
+正如 Novick 和 Scholl（即将发表的文章）所展示的，20 世纪，在重新发现孟德尔定律以及改进的显微镜和细胞学技术的推动下，符合真因标准的遗传学科学最终出现了。后者非常重要，因为它们允许对用来解释观察到的实验规律的结构进行独立检查。一个例子是托马斯 · 亨特 · 摩根及其同事对基因是染色体的一部分这一假设的“证明”（Bridges 2014）。
 
 Morgan 等人的论点利用了一种被称为染色体非分离的现象。这个术语指的是在减数分裂过程中姐妹染色体未能分离的失败。果蝇中这种失败的可能结果是一只除了雄性染色体外还有两个雌性性染色体的苍蝇（XXY）。遗传学家们注意到，这可以解释为什么一些苍蝇未能表现出由性连锁因子决定的特征通常表现出的遗传模式，即“交叉遗传”。在这种模式中，一个隐性特征，比如白色眼睛，从第一代雌性传递给第二代雄性，而雌性则恢复到原始状态的红色眼睛，因此有了“交叉”的表达。这种正常模式可以通过一个事实来解释，即隐性 X 连锁特征在雄性中总是表达，因为在雄性中只有一个相应基因的拷贝。相比之下，雌性后代从父亲那里获得了一个正常的基因拷贝，这就是为什么隐性特征会被隐藏起来。
 
@@ -267,7 +267,7 @@ Morgan 及其团队坚称，性连锁遗传现象以及非分离现象能够解�
 * Baetu, T., 2016, “The Big Picture: The Problem of Extrapolation in Basic Research”, *British Journal for Philosophy of Science*, 67: 941–964.
 * Baumgartner, M., 2009, “Uncovering Deterministic Causal Structures: A Boolean Approach”, *Synthese*, 170: 71–96.
 * ––– and L. Casini, 2017, “An Abductive Theory of Constitution”, *Philosophy of Science*, 84(2): 214–233.
-* ––– and A. Gebharter, 2016, “Constitutive Relevance, Mutual Manipulability, and Fat-Handedness”, *British Journal for the Philosophy of Science*, 67 (3):731–756.
+* ––– and A. Gebharter, 2016, “Constitutive Relevance, Mutual Manipulability, and Fat-Handedness”, *British Journal for the Philosophy of Science*, 67 (3): 731–756.
 * Bechtel, W., 2006, *Discovering Cell Mechanisms: The Creation of Modern Cell Biology*, Cambridge: Cambridge University Press.
 * ––– and R. C. Richardson, 1993, *Discovering Complexity: Decomposition and Localization as Strategies in Scientific Research*, Princeton, N.J.: Princeton University Press.
 * Beirlaen, M., B. Leuridan and F. Van De Putte, 2018, “A Logic for the Discovery of Deterministic Causal Regularities”, *Synthese*, 195(1): 367–399.
@@ -317,7 +317,7 @@ Morgan 及其团队坚称，性连锁遗传现象以及非分离现象能够解�
 * Leonelli, S. and R. A. Ankeny, 2012, “Re-thinking Organisms: The Impact of Databases on Model Organism Biology”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 43: 29–36.
 * Levins, R., 1966, “The Strategy of Model Building in Population Biology”, *American Scientist*, 54: 421–431.
 * Levy, A. and A. Currie, 2015, “Model Organisms Are Not Models”, *British Journal for the Philosophy of Science*, 66 (2): 327–348.
-* Leuridan, B., 2012, “Three Problems for the Mutual Manipulability Account of Constitutive Relevance in Mechanisms”, *British Journal for the Philosophy of Science*, 63 (2):399–427.
+* Leuridan, B., 2012, “Three Problems for the Mutual Manipulability Account of Constitutive Relevance in Mechanisms”, *British Journal for the Philosophy of Science*, 63 (2): 399–427.
 * Lipton, P., 2004, *Inference to the Best Explanation, 2nd Edition*, London: Routledge.
 * Longino, H. E., 2002, *The Fate of Knowledge*, Princeton: Princeton University Press.
 * Machamer, P., L. Darden and C. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67: 1–25.
@@ -329,7 +329,7 @@ Morgan 及其团队坚称，性连锁遗传现象以及非分离现象能够解�
 * Monod, J., 1974, *Chance and Necessity. An Essay on the Natural Philosophy of Modern Biology*, Glasgow: Collins Fontana.
 * Nickles, T., 1980, “Scientific Discovery and the Future of Philosophy of Science”, in T. Nickles (ed.), *Scientific Discovery, Logic and Rationality*, Dordrecht: Reidel, 1–60.
 * Norton, J. D., 2003, “A Material Theory of Induction”, *Philosophy of Science*, 70: 647–670.
-* Novick, A., forthcoming, “Metaphysics and the Vera Causa Ideal: The Nun’s Priest’s Tale”, *Erkenntnis*, first online 16 December 2016. doi:10.1007/s10670-016-9863-1
+* Novick, A., forthcoming, “Metaphysics and the Vera Causa Ideal: The Nun’s Priest’s Tale”, *Erkenntnis*, first online 16 December 2016. doi: 10.1007/s10670-016-9863-1
 * ––– and R. Scholl, forthcoming, “Presume It Not: True Causes in the Search for the Basis of Heredity”, *British Journal for the Philosophy of Science*.
 * Nye, M. J., 1972, *Molecular Reality. A Perspective on the Scientific Work of Jean Perrin*, London, New York: MacDonald, American Elsevier.
 * O’Malley, M., 2007, “Exploratory Experimentation and Scientific Practice: Metagenomics and the Proteorhodopsin Case”, *History and Philosophy of the Life Sciences*, 29: 335–358.

@@ -1,6 +1,6 @@
 # 不相容论的论证 arguments for (Kadri Vihvelin)
 
-*首次发表于2003年10月14日；实质性修订于2022年8月22日*
+*首次发表于 2003 年 10 月 14 日；实质性修订于 2022 年 8 月 22 日*
 
 我们相信我们拥有自由意志，并且这种信念在我们的日常生活中根深蒂固，以至于我们几乎无法认真思考它可能是错误的。例如，我们会深思熟虑并做出选择，在这样做的过程中，我们假设我们可以有多个选择，可以执行多个行动。当我们回顾并为愚蠢的选择感到后悔，或者责怪自己没有做某件应该做的事情时，我们假设我们本可以做出不同的选择和行动。当我们展望未来并为未来制定计划时，我们假设我们对自己的行动和生活的走向至少有一定的控制权；我们认为我们至少有时可以选择和努力去做一些事情。
 
@@ -28,7 +28,7 @@
 
 当然，可以同意存在关于我们所有未来行动的真理与自由意志相容，同时否认关于我们所有未来行动的法则决定真理与自由意志相容。但是需要一个论证来支持这个结论，这个论证不能依赖宿命论的推理或对宿命论直觉的诉诸。
 
-有关不相容论的论证和宿命论的论证的比较，请参见范·因瓦根（van Inwagen）1983 年、麦基（Mackie）2003 年、佩里（Perry）2004 年和维维林（Vihvelin）2008 年和 2013 年的著作。
+有关不相容论的论证和宿命论的论证的比较，请参见范 · 因瓦根（van Inwagen）1983 年、麦基（Mackie）2003 年、佩里（Perry）2004 年和维维林（Vihvelin）2008 年和 2013 年的著作。
 
 从第一近似来看，不相容论（以下简称“决定论”）是关于自然法则的一种有条件的和经验性的主张：它们是确定性的而不是概率性的，它们是全面的而不是有限的。从第二近似来看，如果法则包含无例外的规律（例如，所有的 F 都是 G，所有的 ABCD 都是 E），那么它们是确定性的；如果法则说 F 具有成为 G 的客观机会 N（小于 1），那么它们是概率性的（需要注意的是，所谓的“统计法则”不一定是概率性法则；参见 Armstrong 1983，Loewer 1996a）。如果自然法则是全面的，那么确定性或概率性法则适用于宇宙中的一切，没有任何例外。另一方面，如果一些个体或一些个体的部分（例如，人类的非物质思维）或一些个体的行为（例如，人类的自由行为）既不属于确定性法则也不属于概率性法则，那么这些法则就是有限的而不是全面的。
 
@@ -72,7 +72,7 @@
 
 “不可能论”这个术语是新创造的；然而，它所描述的立场在文献中以各种名称被认可： “无论如何都没有自由意志”观点，“非实在主义”，“幻觉主义”，“悲观主义”。为不可能论辩护的理论家包括 G.斯特劳森 1986 年和 1994 年，以及斯米兰斯基 2000 年。另一种不可能论者是宿命论者（泰勒 1962 年）。
 
-在早期的文献中，只有两种不相容论者——强决定论者和自由意志论者。强决定论者是一种认为决定论实际上是真实的（或者，也许，就我们所关心的自由意志的相关方面而言，它足够接近真实）的不相容论者，因此我们缺乏自由意志（霍尔巴赫1770年；韦格纳2003年）。自由意志论者是一种认为我们实际上拥有自由意志，并且这意味着决定论是错误的、以正确的方式（范因瓦根1983年）。传统上，自由意志论者认为“正确的方式”要求行动者具有一种特殊而神秘的因果力量，其他自然界中的事物所没有的：一种像神一样的力量，成为世界变化的无因果原因（奇索姆1964年）。持有这种观点的自由意志论者似乎致力于主张，自由意志只可能存在于至少部分无法预测的世界中，而我们的世界就是这样一个世界（但参见奥康纳2000年，克拉克2003年和斯图尔特2012年）。但是在当代文献中，有些不相容论者通过主张自由意志在一些我们的行动具有不确定性事件原因的世界中是可能的（凯恩1996年，1999年，2008年，2011a；埃克斯特罗姆2000年；巴拉格尔2010年；富兰克林2018年），或者主张自由意志在一些我们的行动是无因果的世界中是可能的（吉内特1990年），避免了这种冒险的形而上学主张。请注意，这三种不相容论者（行动因果论者、不确定性事件因果论者、非因果论者）中的任何一种都不一定是自由意志论者。他们可能对决定论的真实性或虚假性保持保留意见，因此对我们是否实际上拥有自由意志也保持保留意见。他们也可能是强决定论者，因为他们认为决定论实际上是真实的。 但是他们所相信的——使他们成为不相容论者的原因是，我们有可能拥有自由意志，并且我们拥有自由意志取决于统治宇宙的法则的一个偶然事实：它们以正确的方式是不确定的。（请参阅关于自由意志不相容论理论的条目）。
+在早期的文献中，只有两种不相容论者——强决定论者和自由意志论者。强决定论者是一种认为决定论实际上是真实的（或者，也许，就我们所关心的自由意志的相关方面而言，它足够接近真实）的不相容论者，因此我们缺乏自由意志（霍尔巴赫 1770 年；韦格纳 2003 年）。自由意志论者是一种认为我们实际上拥有自由意志，并且这意味着决定论是错误的、以正确的方式（范因瓦根 1983 年）。传统上，自由意志论者认为“正确的方式”要求行动者具有一种特殊而神秘的因果力量，其他自然界中的事物所没有的：一种像神一样的力量，成为世界变化的无因果原因（奇索姆 1964 年）。持有这种观点的自由意志论者似乎致力于主张，自由意志只可能存在于至少部分无法预测的世界中，而我们的世界就是这样一个世界（但参见奥康纳 2000 年，克拉克 2003 年和斯图尔特 2012 年）。但是在当代文献中，有些不相容论者通过主张自由意志在一些我们的行动具有不确定性事件原因的世界中是可能的（凯恩 1996 年，1999 年，2008 年，2011a；埃克斯特罗姆 2000 年；巴拉格尔 2010 年；富兰克林 2018 年），或者主张自由意志在一些我们的行动是无因果的世界中是可能的（吉内特 1990 年），避免了这种冒险的形而上学主张。请注意，这三种不相容论者（行动因果论者、不确定性事件因果论者、非因果论者）中的任何一种都不一定是自由意志论者。他们可能对决定论的真实性或虚假性保持保留意见，因此对我们是否实际上拥有自由意志也保持保留意见。他们也可能是强决定论者，因为他们认为决定论实际上是真实的。 但是他们所相信的——使他们成为不相容论者的原因是，我们有可能拥有自由意志，并且我们拥有自由意志取决于统治宇宙的法则的一个偶然事实：它们以正确的方式是不确定的。（请参阅关于自由意志不相容论理论的条目）。
 
 在明确了这些定义和区别之后，我们现在可以迈出第一步，澄清兼容论者和不相容论者之间的分歧。双方都同意，我们在概念上和形而上学上有可能拥有自由意志；他们的分歧在于我们拥有自由意志的可能世界是否是确定性世界。兼容论者说“是”；不相容论者说“否”。不相容论的论证必须是关于这样一种主张的论证：如果确定性是真实的，那么我们就会失去我们本来可能拥有的自由意志。
 
@@ -103,11 +103,11 @@ van Inwagen 正在提供他认为是无争议的具有自由意志的人的例�
 
 我们可能会质疑基于自决和基于选择的论证是否是独立的论证不相容论的方式，原因如下：只有当我的行动是我的自由意志的产物，并且只有当我有能力做（选择做、决定做、打算做、试图做）其他事情时，我才能以自决的方式引起和控制我的行动，这是道德责任所要求的（Kane 1996）。如果决定论导致我永远没有能力做其他事情，那么它也导致我永远不能以自决的方式引起我的行动，这是道德责任所要求的。
 
-在某个时候，道德责任、自我决定和能够做出不同选择之间的联系是相容论者和不相容论者之间的共同立场。也就是说，每个人都同意只有当一个人对自己的行为有一定的控制时，她才具备道德责任，而且每个人都假设只有当一个人能够做出（或至少决定、选择、意图或尝试）不同选择时，她才对某件事情具备一定的控制。基于这个假设，任何希望为道德责任与决定论相容的主张辩护的人都必须首先证明能够做出不同选择与决定论相容。在上个世纪中期的普通语言哲学鼎盛时期，还有一个进一步的假设：只有当像“S本可以做X”（其中X是S没有做的事情）这样的句子在意义上等同于“如果S选择（或尝试、希望、偏爱等）做X，S就会做X”这样的反事实条件句时，能够做出不同选择才与决定论相容。这场辩论受到了一个事实的限制，即它发生在反事实条件句仍然被理解不清的时期，即在刘易斯-斯坦纳克可能世界语义学出现之前（刘易斯，1973年）。对于所提出的分析，存在反例，并且越来越多的人一致认为“条件分析”的成功前景黯淡（奥斯汀，1956年；奇斯霍姆，1964年；勒赫尔，1968年和1976年）。（关于这种悲观主义过早的论证，参见维赫鲁因，2004年和2013年。关于相容论者不需要为条件分析辩护的论证，参见勒赫尔，1976年。）
+在某个时候，道德责任、自我决定和能够做出不同选择之间的联系是相容论者和不相容论者之间的共同立场。也就是说，每个人都同意只有当一个人对自己的行为有一定的控制时，她才具备道德责任，而且每个人都假设只有当一个人能够做出（或至少决定、选择、意图或尝试）不同选择时，她才对某件事情具备一定的控制。基于这个假设，任何希望为道德责任与决定论相容的主张辩护的人都必须首先证明能够做出不同选择与决定论相容。在上个世纪中期的普通语言哲学鼎盛时期，还有一个进一步的假设：只有当像“S 本可以做 X”（其中 X 是 S 没有做的事情）这样的句子在意义上等同于“如果 S 选择（或尝试、希望、偏爱等）做 X，S 就会做 X”这样的反事实条件句时，能够做出不同选择才与决定论相容。这场辩论受到了一个事实的限制，即它发生在反事实条件句仍然被理解不清的时期，即在刘易斯-斯坦纳克可能世界语义学出现之前（刘易斯，1973 年）。对于所提出的分析，存在反例，并且越来越多的人一致认为“条件分析”的成功前景黯淡（奥斯汀，1956 年；奇斯霍姆，1964 年；勒赫尔，1968 年和 1976 年）。（关于这种悲观主义过早的论证，参见维赫鲁因，2004 年和 2013 年。关于相容论者不需要为条件分析辩护的论证，参见勒赫尔，1976 年。）
 
-正是在这种背景下，哈里·弗兰克福特提出了他对“替代可能性原则”（一个人只有在他本可以做出不同选择的情况下才对他所做的事情负有道德责任）的著名反例。弗兰克福特希望捍卫这样一种观点：道德责任与决定论是相容的，而无需捍卫能够做出不同选择与决定论相容的观点。他的策略采用了一种巧妙的思想实验形式，旨在表明无论你如何理解能够做出不同选择——无论你是相容论者还是不相容论者——你都应该同意拥有这种能力并非道德责任的必要条件（弗兰克福特，1969年）。
+正是在这种背景下，哈里 · 弗兰克福特提出了他对“替代可能性原则”（一个人只有在他本可以做出不同选择的情况下才对他所做的事情负有道德责任）的著名反例。弗兰克福特希望捍卫这样一种观点：道德责任与决定论是相容的，而无需捍卫能够做出不同选择与决定论相容的观点。他的策略采用了一种巧妙的思想实验形式，旨在表明无论你如何理解能够做出不同选择——无论你是相容论者还是不相容论者——你都应该同意拥有这种能力并非道德责任的必要条件（弗兰克福特，1969 年）。
 
-这个思想实验有两个步骤。在第一步中，他邀请你想象一个人，琼斯，他拥有自由意志，自由行动，并满足你认为对道德责任必要和充分的所有条件。你可以想象琼斯处于范·因瓦根描述的其中一个情景中，面临说话或保持沉默的选择，试图救孩子或寻求帮助，辞去主席职务或撒谎，并想象琼斯经过深思熟虑并决定，出于自己的原因，支持他所考虑的替代方案之一，并成功地按照他的决定行动。在第二步中，你被邀请在故事中增加一个强大的存在，布莱克，他对琼斯的所作所为，包括他的思考和决策非常感兴趣。你可以随意填写细节，但你必须想象布莱克有能力干预琼斯，以确保琼斯完全按照布莱克的意愿行事。你还必须想象布莱克非常关注，并准备立即干预，如果有必要，阻止琼斯做布莱克不希望他做的事情。但事实证明，这是不必要的。由于幸运的巧合，琼斯完全按照布莱克的意愿行事。（他甚至在思考和决定方面与布莱克的意愿一致。）所以布莱克只是旁观者，只是观察。
+这个思想实验有两个步骤。在第一步中，他邀请你想象一个人，琼斯，他拥有自由意志，自由行动，并满足你认为对道德责任必要和充分的所有条件。你可以想象琼斯处于范 · 因瓦根描述的其中一个情景中，面临说话或保持沉默的选择，试图救孩子或寻求帮助，辞去主席职务或撒谎，并想象琼斯经过深思熟虑并决定，出于自己的原因，支持他所考虑的替代方案之一，并成功地按照他的决定行动。在第二步中，你被邀请在故事中增加一个强大的存在，布莱克，他对琼斯的所作所为，包括他的思考和决策非常感兴趣。你可以随意填写细节，但你必须想象布莱克有能力干预琼斯，以确保琼斯完全按照布莱克的意愿行事。你还必须想象布莱克非常关注，并准备立即干预，如果有必要，阻止琼斯做布莱克不希望他做的事情。但事实证明，这是不必要的。由于幸运的巧合，琼斯完全按照布莱克的意愿行事。（他甚至在思考和决定方面与布莱克的意愿一致。）所以布莱克只是旁观者，只是观察。
 
 因为布莱克从未碰过琼斯，也没有以任何方式干预，所以在故事的第二步中，琼斯的道德责任与第一步中一样。但同时也似乎存在强大的布莱克足以使琼斯无法做出其他选择（或者用弗兰克福特的话说，他缺乏“可替代的可能性”）。
 
@@ -115,19 +115,19 @@ van Inwagen 正在提供他认为是无争议的具有自由意志的人的例�
 
 但是稍加思考，我们会想知道关于“实际序列”的事实是否可以与弗兰克福所设想的关于自由意志的事实分离开来。黑人如何能够成功地限制琼斯的行动选择范围，并使琼斯没有其他选择？黑人如何能够坐在一旁剥夺琼斯思考、决策或尝试其他选择的能力？
 
-我们可以轻易承认，布莱克有能力直接操控琼斯的身体，使得琼斯除了按照布莱克的意愿行动外，失去了其他任何方式移动身体的能力。我们甚至可以承认，布莱克有能力直接操控琼斯的心智/大脑，使得琼斯除了按照布莱克的意愿行动外，失去了任何其他方式"移动"心智的能力。但是布莱克从未行使过他的权力。拥有权力和行使权力之间存在着区别。从"布莱克有能力使琼斯失去其他选择的能力"推导出"琼斯失去了其他选择的能力"是一种模态谬误。关于琼斯的真相并不是布莱克剥夺了他的其他选择能力，而是更为复杂的真相，即布莱克让他不断面临失去其他选择能力的风险。琼斯的自由意志和道德责任取决于他的思考和意图与布莱克的思考和意图巧合的运气（Vihvelin 2013；对于弗兰克福论证的其他批评，请参见Lamb 1993，Alvarez 2009和Steward 2009）。
+我们可以轻易承认，布莱克有能力直接操控琼斯的身体，使得琼斯除了按照布莱克的意愿行动外，失去了其他任何方式移动身体的能力。我们甚至可以承认，布莱克有能力直接操控琼斯的心智/大脑，使得琼斯除了按照布莱克的意愿行动外，失去了任何其他方式 "移动" 心智的能力。但是布莱克从未行使过他的权力。拥有权力和行使权力之间存在着区别。从 "布莱克有能力使琼斯失去其他选择的能力" 推导出 "琼斯失去了其他选择的能力" 是一种模态谬误。关于琼斯的真相并不是布莱克剥夺了他的其他选择能力，而是更为复杂的真相，即布莱克让他不断面临失去其他选择能力的风险。琼斯的自由意志和道德责任取决于他的思考和意图与布莱克的思考和意图巧合的运气（Vihvelin 2013；对于弗兰克福论证的其他批评，请参见 Lamb 1993，Alvarez 2009 和 Steward 2009）。
 
-弗兰克福的论证产生了巨大的影响，尽管可能不是他所期望的方式。他的思想实验是失败的；虽然大多数相容论者被说服了，但大多数不相容论者并没有被说服（包括Smith 1997、2004；Campbell 2005；Fara 2008；Vihvelin 2000和2013）。这些不相容论者坚持认为，尽管不是以上所述的原因，布莱克并没有成功剥夺琼斯的所有自由；琼斯还保留了某种自主权（Widerker 1995；Ginet 1996；Kane 1996）。这一回应被著名地称为“自由的闪烁”，但被弗兰克福论证的辩护者批评称琼斯保留的“替代可能性”不够“强大”（Fischer 1994、2003；Fischer & Ravizza 1998）。论证的批评者驳回了这一指责，认为琼斯保留了一种在道德上相关的能力，可以做出不同的选择，从而重新引发了弗兰克福希望削弱的辩论。弗兰克福论证的其他辩护者讲述了更复杂的故事，并认为，即使弗兰克福的故事不成功，这些新故事表明，一个人在没有其他选择的情况下，仍然可能对自己的行为负有道德责任（Mele & Robb 1998；Pereboom 2003）。在弗兰克福的文章发表五十多年后，这场辩论仍在继续。有关这一广泛文献的一些样本，请参阅Widerker & McKenna 2003。
+弗兰克福的论证产生了巨大的影响，尽管可能不是他所期望的方式。他的思想实验是失败的；虽然大多数相容论者被说服了，但大多数不相容论者并没有被说服（包括 Smith 1997、2004；Campbell 2005；Fara 2008；Vihvelin 2000 和 2013）。这些不相容论者坚持认为，尽管不是以上所述的原因，布莱克并没有成功剥夺琼斯的所有自由；琼斯还保留了某种自主权（Widerker 1995；Ginet 1996；Kane 1996）。这一回应被著名地称为“自由的闪烁”，但被弗兰克福论证的辩护者批评称琼斯保留的“替代可能性”不够“强大”（Fischer 1994、2003；Fischer & Ravizza 1998）。论证的批评者驳回了这一指责，认为琼斯保留了一种在道德上相关的能力，可以做出不同的选择，从而重新引发了弗兰克福希望削弱的辩论。弗兰克福论证的其他辩护者讲述了更复杂的故事，并认为，即使弗兰克福的故事不成功，这些新故事表明，一个人在没有其他选择的情况下，仍然可能对自己的行为负有道德责任（Mele & Robb 1998；Pereboom 2003）。在弗兰克福的文章发表五十多年后，这场辩论仍在继续。有关这一广泛文献的一些样本，请参阅 Widerker & McKenna 2003。
 
-弗兰克福的目标是使道德责任与决定论相容的主张更容易被辩护，而且有理由认为他取得了成功，或者至少对那些被他的论证所说服的“源头”不相容论者来说是成功的（费舍尔2003年，萨托里奥2016年）。但这是有代价的。我们对自由意志的兴趣不仅限于对道德责任的兴趣。历史上，相容主义被指责为“可悲的托辞”和“逃避的泥潭”。决定论似乎与真正的选择和能够做出其他选择的能力不相容，虽然在过去，哲学共识是不相容论者犯了一些简单的混淆或类似宿命论者的错误，但现在情况已经不同了，这要归功于后果论证（稍后将讨论）。弗兰克福的论证（以及他的其他论文，尤其是弗兰克福1971年的论文）的影响是如此之大，以至于大多数相容主义者已经将注意力从自由意志/决定论问题转向了仅关注道德责任问题（以及相关主题，如责备、应得和惩罚）。术语“相容主义”现在常常用来指代关于道德责任的论题，即道德责任所需的足够自由与决定论相容（佩尔博姆1995年），行为在道德责任所需的意义上的自由与决定论相容（马科西安1999年），人作为个体在道德责任所需的方式上行使控制的独特能力与决定论相容（麦肯纳2004b [2015]）。关于自由意志和决定论的传统问题的文献主要由不相容论者主导。越来越多的共识认为不相容论者是正确的：如果我们的宇宙是一个决定论的宇宙，我们永远没有能力选择和做出与我们实际所做不同的事情。
+弗兰克福的目标是使道德责任与决定论相容的主张更容易被辩护，而且有理由认为他取得了成功，或者至少对那些被他的论证所说服的“源头”不相容论者来说是成功的（费舍尔 2003 年，萨托里奥 2016 年）。但这是有代价的。我们对自由意志的兴趣不仅限于对道德责任的兴趣。历史上，相容主义被指责为“可悲的托辞”和“逃避的泥潭”。决定论似乎与真正的选择和能够做出其他选择的能力不相容，虽然在过去，哲学共识是不相容论者犯了一些简单的混淆或类似宿命论者的错误，但现在情况已经不同了，这要归功于后果论证（稍后将讨论）。弗兰克福的论证（以及他的其他论文，尤其是弗兰克福 1971 年的论文）的影响是如此之大，以至于大多数相容主义者已经将注意力从自由意志/决定论问题转向了仅关注道德责任问题（以及相关主题，如责备、应得和惩罚）。术语“相容主义”现在常常用来指代关于道德责任的论题，即道德责任所需的足够自由与决定论相容（佩尔博姆 1995 年），行为在道德责任所需的意义上的自由与决定论相容（马科西安 1999 年），人作为个体在道德责任所需的方式上行使控制的独特能力与决定论相容（麦肯纳 2004b [2015]）。关于自由意志和决定论的传统问题的文献主要由不相容论者主导。越来越多的共识认为不相容论者是正确的：如果我们的宇宙是一个决定论的宇宙，我们永远没有能力选择和做出与我们实际所做不同的事情。
 
 在我们询问自由意志与决定论的相容性的悲观主义是否合理之前，我们应该停下来问一下，相容主义者和不相容主义者之间是否真的存在实质性的分歧。当一个不相容主义者说决定论会剥夺我们认为自己拥有的自由意志，包括真正的选择和能够做出不同选择的能力时，而相容主义者否认这一点，他们是在断言和否认同一个命题吗？还是不相容主义者在断言一件事，而相容主义者在否认另一件事？
 
 文献中的一些观点表明，没有实质性的争论。例如，一些哲学家将“强不相容主义能力”与“弱相容主义能力”（或“自由意志”与“相容主义自由意志”）进行对比，并以一种方式写作，暗示他们认为关于自由意志的唯一实质性问题是它是否是或涉及“强”不相容主义能力（因为根据定义，“弱”相容主义能力与决定论相容）。而且，一个主要的语义提议似乎支持这样的说法，即根据 Lewis/Kratzer 提议，“can”（以及其他情态词，包括“能够”，“有能力”，“自由于”）意味着“与相关事实 F 相容”，相关事实由上下文和说话者的意图决定（D. Lewis 1976，Kratzer 1977）。关于一种不同类型的语境主义提议，请参见 Hawthorne 2001；关于批评，请参见 Feldman 2004。Whittle 2021 是一本关于自由和责任的语境主义解释的书籍。
 
-例如，根据某种情境，我可能会说芬兰语（我是以爱沙尼亚语为母语的人，所以学习芬兰语不会花太长时间），而在另一种情境下可能是错误的（不要把我带到芬兰当你的口译）。说我既会又不会说芬兰语并不矛盾，只要我们理解我们所说的是，我说芬兰语与一组事实（我轻松学习该语言的能力）是相容的，而与另一组更广泛的事实（我目前无法说该语言）是不相容的。在这种对“能力”的理解下，似乎在相容论者和不相容论者之间没有真正的分歧。当相容论者断言决定论者通常能够做出不同选择时，她心中有一种情境（日常生活中普通说话者的情境），在这种情境中，相关事实F仅限于与该行动者及其周围环境有关的一些相对局部的事实。当不相容论者否认任何决定论者能够做出不同选择时，她心中有一种情境（哲学家讨论自由意志/决定论问题的情境），在这种情境中，相关事实包括所有关于法律和过去的事实。因此，不相容论者否认的命题并非相容论者所断言的命题。
+例如，根据某种情境，我可能会说芬兰语（我是以爱沙尼亚语为母语的人，所以学习芬兰语不会花太长时间），而在另一种情境下可能是错误的（不要把我带到芬兰当你的口译）。说我既会又不会说芬兰语并不矛盾，只要我们理解我们所说的是，我说芬兰语与一组事实（我轻松学习该语言的能力）是相容的，而与另一组更广泛的事实（我目前无法说该语言）是不相容的。在这种对“能力”的理解下，似乎在相容论者和不相容论者之间没有真正的分歧。当相容论者断言决定论者通常能够做出不同选择时，她心中有一种情境（日常生活中普通说话者的情境），在这种情境中，相关事实 F 仅限于与该行动者及其周围环境有关的一些相对局部的事实。当不相容论者否认任何决定论者能够做出不同选择时，她心中有一种情境（哲学家讨论自由意志/决定论问题的情境），在这种情境中，相关事实包括所有关于法律和过去的事实。因此，不相容论者否认的命题并非相容论者所断言的命题。
 
-领先的当代不相容论者范·因瓦根（van Inwagen）拒绝任何暗示相容论者和不相容论者仅仅是在词义上的争论，要么是因为他们使用了不同的“能够”（“能力”，“权力”，“自由意志”等）的意义，要么是因为他们关注不同的话语背景。他说，争论的焦点在于确定论是否导致了这样的结果：根据普通说话者的意思，在他们使用这些词的上下文中，没有人能够做出不同的选择（等价地说，没有人有能力做出不同的选择）。他所指的上下文是我们在考虑自己的选择时，同时相信我们能够追求其中的每一个选择的思考和选择的上下文。当一个相容论者断言，而一个不相容论者否认，在一个确定论的世界中，一个人有时能够做出不同的选择，他们用“能够”这个词的意思完全相同；他们的意思是普通英语说话者在这些上下文中的意思。相容论者断言的命题是不相容论者否认的命题。范·因瓦根以大卫·刘易斯（David Lewis）作为他的一个相容论者对手的例子，他说他和刘易斯不能同时正确。他们中的一个是错误的，但都不是混乱或犯了一个简单的错误（范·因瓦根 2008）。
+领先的当代不相容论者范 · 因瓦根（van Inwagen）拒绝任何暗示相容论者和不相容论者仅仅是在词义上的争论，要么是因为他们使用了不同的“能够”（“能力”，“权力”，“自由意志”等）的意义，要么是因为他们关注不同的话语背景。他说，争论的焦点在于确定论是否导致了这样的结果：根据普通说话者的意思，在他们使用这些词的上下文中，没有人能够做出不同的选择（等价地说，没有人有能力做出不同的选择）。他所指的上下文是我们在考虑自己的选择时，同时相信我们能够追求其中的每一个选择的思考和选择的上下文。当一个相容论者断言，而一个不相容论者否认，在一个确定论的世界中，一个人有时能够做出不同的选择，他们用“能够”这个词的意思完全相同；他们的意思是普通英语说话者在这些上下文中的意思。相容论者断言的命题是不相容论者否认的命题。范 · 因瓦根以大卫 · 刘易斯（David Lewis）作为他的一个相容论者对手的例子，他说他和刘易斯不能同时正确。他们中的一个是错误的，但都不是混乱或犯了一个简单的错误（范 · 因瓦根 2008）。
 
 在接下来的内容中，我们将假设关于自由意志（包括但不限于真正的选择和能够做出不同选择的能力）和决定论的争论是一个实质性的争论，而不是一个可以通过词义或话语背景的不同来解决的争论。现在我们将转向论证。
 
@@ -233,7 +233,7 @@ Wolf 1990 认为，根据类似案例，支持我们自由和责任的能力是�
 
 如果我们追问我们的辩护律师（或者请一位哲学家来帮助他），我们可能会得到以下回答：在确定性世界中可能发生的普通自我塑造并不足以满足应得的责备和惩罚所需的道德责任。诚然，由于我们的选择（Nagel 1979），我们永远无法对我们所做的行为拥有完全的控制，这限制了我们对自我塑造的控制。但是，只有当我们对自我塑造至少有一些控制时，我们才对我们的行为负有道德责任，而我们只有在对导致我们塑造自我的行为的选择有控制时，才对自我塑造有控制。而我们只有在我们引起选择而没有任何人或任何事物引起我们做出选择时，才对这些选择有控制（Chisholm 1964）。
 
-辩护律师（或哲学家）通过辩论对前提（2）进行辩护，主张对前提（1）的某种解释——即我们对自己的行为负责要求我们在生活中经常成为选择的第一原因，从而导致行为，并最终（尽管我们通常无法预测或控制）改变我们自己。通过这种方式进行辩论，他将论证的焦点从明显不可能的要求——道德责任所需的自由要求完全自我创造的自我，转移到了直观上有吸引力且至少不明显不可能的要求，即道德责任所需的自由要求罗伯特·凯恩所称的“终极责任”（我们至少是我们某些选择的终极来源或第一原因——那些导致“自我形成行为”的选择）。 （参见凯恩 1996 年，1999 年，2008 年，2011a。另请参见奇索姆 1964 年；克拉克 1993 年，1996 年，2003 年；奥康纳 1995a，2000 年，2011 年；佩雷布姆 2001 年，2009b 年，2014 年；斯图尔特 2012 年）。
+辩护律师（或哲学家）通过辩论对前提（2）进行辩护，主张对前提（1）的某种解释——即我们对自己的行为负责要求我们在生活中经常成为选择的第一原因，从而导致行为，并最终（尽管我们通常无法预测或控制）改变我们自己。通过这种方式进行辩论，他将论证的焦点从明显不可能的要求——道德责任所需的自由要求完全自我创造的自我，转移到了直观上有吸引力且至少不明显不可能的要求，即道德责任所需的自由要求罗伯特 · 凯恩所称的“终极责任”（我们至少是我们某些选择的终极来源或第一原因——那些导致“自我形成行为”的选择）。 （参见凯恩 1996 年，1999 年，2008 年，2011a。另请参见奇索姆 1964 年；克拉克 1993 年，1996 年，2003 年；奥康纳 1995a，2000 年，2011 年；佩雷布姆 2001 年，2009b 年，2014 年；斯图尔特 2012 年）。
 
 这将引出哲学家对辩护律师论证的版本。（有关这种论证的变体，请参见凯恩 1996 年，1999 年，2008 年，2011a 年和佩雷布姆 2001 年，2005 年，2014 年。）
 
@@ -275,13 +275,13 @@ Wolf 1990 认为，根据类似案例，支持我们自由和责任的能力是�
 
 不相容论者认为这种对自由选择的“能够”的相容论解释，以及任何相容论的解释，是错误的，也必须是错误的。后果论（Ginet 1966, 1983, 1990; van Inwagen 1975, 1983, 2000; Wiggins 1973; Lamb 1977）被广泛认为是支持这个结论的最好的论证。在本节的其余部分，我们将更详细地研究 van Inwagen 对这个重要且有影响力的论证的版本。
 
-在《自由意志论文》（1983 年）中，范·因瓦根提出了三个正式的论证，他说这三个论证是同一个基本论证的三个版本，他如下所述：
+在《自由意志论文》（1983 年）中，范 · 因瓦根提出了三个正式的论证，他说这三个论证是同一个基本论证的三个版本，他如下所述：
 
 > 如果决定论是真实的，那么我们的行为是自然法则和远古事件的结果。但在我们出生之前发生的事情不由我们决定，自然法则也不由我们决定。因此，这些事情的后果（包括我们现在的行为）不由我们决定。（1983 年：56）
 
-我们将从第三个版本的论证（规则贝塔论证）开始。规则贝塔论证使用了一个模态命题运算符，范·因瓦根将其定义如下：“Np”缩写为“p 并且没有人有或曾经有关于是否 p 的选择”。范·因瓦根告诉我们，“N”的逻辑包括以下两个推理规则，其中“□p”断言“p 在逻辑上是必然的”：
+我们将从第三个版本的论证（规则贝塔论证）开始。规则贝塔论证使用了一个模态命题运算符，范 · 因瓦根将其定义如下：“Np”缩写为“p 并且没有人有或曾经有关于是否 p 的选择”。范 · 因瓦根告诉我们，“N”的逻辑包括以下两个推理规则，其中“□p”断言“p 在逻辑上是必然的”：
 
-Alpha: 从□p，我们可以推断 Np。
+Alpha: 从 □p，我们可以推断 Np。
 
 Beta: 从 Np 和 N(p⊃q)，我们可以推断 Nq。
 
@@ -300,7 +300,7 @@ Beta: 从 Np 和 N(p⊃q)，我们可以推断 Nq。
 
 前提(1)和(2)是由决定论得出的。(3)是由(2)推导出来的，通过应用 Alpha 规则。Alpha 规则似乎是没有争议的。(但参见 Spencer 2017 年的观点)。
 
-前提 4 和 6 看起来也是无争议的。N 的必要性不是逻辑上的或形而上的必要性。我们可以坚持认为法则和遥远的过去在广义逻辑意义上可以是不同的，因此□H 和□L 都不是真的。但是，我们无可否认地可以说，我们对法则和遥远的过去是否是它们现实所是的方式没有选择权；没有任何我们能够做的事情可以使法则或遥远的过去与它们实际上的方式不同。
+前提 4 和 6 看起来也是无争议的。N 的必要性不是逻辑上的或形而上的必要性。我们可以坚持认为法则和遥远的过去在广义逻辑意义上可以是不同的，因此 □H 和 □L 都不是真的。但是，我们无可否认地可以说，我们对法则和遥远的过去是否是它们现实所是的方式没有选择权；没有任何我们能够做的事情可以使法则或遥远的过去与它们实际上的方式不同。
 
 Beta 规则是这个论证的关键。这是使得这个版本的结果论证与一个被广泛认为是谬误的论证之间的区别所在。
 
@@ -326,7 +326,7 @@ H&L
 □(P⊃Q)
  因此，□Q
 
-“没有选择”运算符所表达的必然性并非逻辑或形而上学的必然性。但它可能足够类似，使得 Beta 成为一个有效的推理规则。范·因瓦根这样主张，并举了例子：
+“没有选择”运算符所表达的必然性并非逻辑或形而上学的必然性。但它可能足够类似，使得 Beta 成为一个有效的推理规则。范 · 因瓦根这样主张，并举了例子：
 
 N(太阳在 2000 年爆炸)
 N(太阳在 2000 年爆炸 ⊃ 地球上的所有生命在 2000 年终结)
@@ -338,7 +338,7 @@ N(太阳在 2000 年爆炸 ⊃ 地球上的所有生命在 2000 年终结)
 
 （有关简单条件分析的批评，请参见 Austin 1956; Chisholm 1964; Lehrer 1968, 1976; van Inwagen 1983。有关关于能够做其他事情的相容主义解释的辩护，请参见 Moore 1912; Hobart 1934; Kapitan 1991, 1996, 2011; Lehrer 1980, 2004; Bok 1998; Smith 1997, 2004; Campbell 2005; Perry 2004, 2008, 2010; Vihvelin 2004, 2013; Fara 2008; Schlosser 2017; Menzies 2017; List 2019。）
 
-最近，范·因瓦根承认 Beta 是无效的（van Inwagen 2000）。麦凯和约翰逊（1996）证明了 Beta 蕴含了聚合：
+最近，范 · 因瓦根承认 Beta 是无效的（van Inwagen 2000）。麦凯和约翰逊（1996）证明了 Beta 蕴含了聚合：
 
 Np
 Nq
@@ -352,7 +352,7 @@ Van Inwagen 提议通过用“N *”替换“N”来修复后果论证，其中�
 
 还有人提出（Finch＆Warfield 1998）可以通过保留“N”并用 Beta 2 替换 Beta 来修复后果论证：
 
-Beta 2：从 Np 和□（p⊃q）可以推断出 Nq
+Beta 2：从 Np 和 □（p⊃q）可以推断出 Nq
 
 这将产生以下的论证：
 
@@ -444,266 +444,266 @@ David Lewis 告诉我们将这个论证看作是一种还原论证（Lewis 1981�
 ## Bibliography
 
 * Albert, David Z., 1992, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Pres..
-* Alvarez, Maria, 2009, “Actions, Thought Experiments, and the ‘Principle of Alternate Possibilities’”, *Australasian Journal of Philosophy*, 85(1): 61–81. doi:10.1080/00048400802215505
+* Alvarez, Maria, 2009, “Actions, Thought Experiments, and the ‘Principle of Alternate Possibilities’”, *Australasian Journal of Philosophy*, 85(1): 61–81. doi: 10.1080/00048400802215505
 * Anscombe, G. Elizabeth M., 1981, “Causality and Determination”, in *Metaphysics and the Philosophy of Mind*, (Collected philosophical papers of G.E.M. Anscombe, v. 2), Minneapolis, MN: University of Minnesota Press: 133–147. Originally her inaugural lecture at Cambridge University, 1971.
 * Armstrong, David, 1983, *What is a Law of Nature?*, Cambridge: Cambridge University Press.
-* Austin, J.L., 1956, “Ifs and Cans”, Proceedings of the British Academy, vol. 42: 109–132. doi:10.1093/019283021X.003.0009
+* Austin, J.L., 1956, “Ifs and Cans”, Proceedings of the British Academy, vol. 42: 109–132. doi: 10.1093/019283021X.003.0009
 * Ayer, A.J., 2009, “Freedom and Necessity”, in Pereboom 2009a: ch. 12.
 * Balaguer, Mark, 2010, *Free Will as an Open Scientific Problem*, Cambridge, MA: MIT Press.
-* Beebee, Helen, 2000, “The Non-Governing Conception of Laws”, *Philosophy and Phenomenological Research*, 61(3): 571–594. doi:10.2307/2653613
-* –––, 2002, “Reply to Huemer on the Consequence Argument”, *The Philosophical Review*, 111(2): 235–241. doi:10.1215/00318108-111-2-235
-* –––, 2003, “Local Miracle Compatibilism”, *Noûs*, 37(2): 258–277. doi:10.1111/1468-0068.00438
+* Beebee, Helen, 2000, “The Non-Governing Conception of Laws”, *Philosophy and Phenomenological Research*, 61(3): 571–594. doi: 10.2307/2653613
+* –––, 2002, “Reply to Huemer on the Consequence Argument”, *The Philosophical Review*, 111(2): 235–241. doi: 10.1215/00318108-111-2-235
+* –––, 2003, “Local Miracle Compatibilism”, *Noûs*, 37(2): 258–277. doi: 10.1111/1468-0068.00438
 * –––, 2013, *Free Will: An Introduction*, New York: Palgrave Macmillan.
-* Beebee, Helen and Alfred Mele, 2002, “Humean Compatibilism”, *Mind*, 111(442): 201–23. doi:10.1093/mind/111.442.201
-* Bennett, Jonathan, 1984, “Counterfactuals and Temporal Direction”, *The Philosophical Review*, 93(1): 57–––91. doi:10.2307/2184413
-* –––, 2003, *A Philosophical Guide to Conditionals*, Oxford: Clarendon Press. doi:10.1093/0199258872.001.0001
+* Beebee, Helen and Alfred Mele, 2002, “Humean Compatibilism”, *Mind*, 111(442): 201–23. doi: 10.1093/mind/111.442.201
+* Bennett, Jonathan, 1984, “Counterfactuals and Temporal Direction”, *The Philosophical Review*, 93(1): 57–––91. doi: 10.2307/2184413
+* –––, 2003, *A Philosophical Guide to Conditionals*, Oxford: Clarendon Press. doi: 10.1093/0199258872.001.0001
 * Berofsky, Bernard, 2003, “Classical Compatibilism: Not Dead Yet”, in Widerker & McKenna 2003: 107–126.
 * –––, 2006a, “The Myth of Source”, *Acta Analytica*, 21(4): 3–18.
-* –––, 2006b, “Global Control and Freedom”, *Philosophical Studies*, 131(2): 419–445. doi:10.1007/s11098-004-7490-1
-* –––, 2012, *Nature’s Challenge to Free Will*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199640010.001.0001
+* –––, 2006b, “Global Control and Freedom”, *Philosophical Studies*, 131(2): 419–445. doi: 10.1007/s11098-004-7490-1
+* –––, 2012, *Nature’s Challenge to Free Will*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199640010.001.0001
 * Bok, Hilary, 1998, *Freedom and Responsibility*, Princeton, NJ: Princeton University Press.
 * Brand, Myles and Douglas Walton (eds.), 1976, *Action Theory: Proceedings of the Winnipeg Conference on Human Action, held at Winnipeg, Manitoba, Canada, 9–11 May 1975*, Dordrecht: Reidel.
-* Campbell, Joseph Keim, 2005, “Compatibilist Alternatives”, *Canadian Journal of Philosophy*, 35(3): 387–406. doi:10.1080/00455091.2005.10716595
-* –––, 2007, “Free Will and the Necessity of the Past”, *Analysis*, 67(2): 105–111. doi:10.1093/analys/67.2.105
-* Campbell, Joseph Keim, Michael O’Rourke, and David Shier (eds.), 2004,*Freedom and Determinism*, MIT Press: Bradford Books.
-* Campbell, Joseph Keim, Michael O’Rourke, and Matthew H. Slater (eds.), 2011, *Carving Nature at its Joints: Natural Kinds in Metaphysics and Science*, (Topics in Contemporary Philosophy, v. 8), Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262015936.001.0001
-* Capes, Justin A., 2012, “Action, Responsibility, and Ability to Do Otherwise”, *Philosophical Studies*, 158(1): 1–15. doi:10.1007/s11098-010-9662-5
-* –––, 2019, “What the Consequence Argument is an Argument For”, *Thought: A Journal of Philosophy*, 8(1): 50–56. doi:10.1002/tht3.404
-* Carlson, Erik, 2000, “Incompatibilism and the Transfer of Power Necessity”, *Noûs*, 34(2): 277–290. doi:10.1111/0029-4624.00211
+* Campbell, Joseph Keim, 2005, “Compatibilist Alternatives”, *Canadian Journal of Philosophy*, 35(3): 387–406. doi: 10.1080/00455091.2005.10716595
+* –––, 2007, “Free Will and the Necessity of the Past”, *Analysis*, 67(2): 105–111. doi: 10.1093/analys/67.2.105
+* Campbell, Joseph Keim, Michael O’Rourke, and David Shier (eds.), 2004, *Freedom and Determinism*, MIT Press: Bradford Books.
+* Campbell, Joseph Keim, Michael O’Rourke, and Matthew H. Slater (eds.), 2011, *Carving Nature at its Joints: Natural Kinds in Metaphysics and Science*, (Topics in Contemporary Philosophy, v. 8), Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262015936.001.0001
+* Capes, Justin A., 2012, “Action, Responsibility, and Ability to Do Otherwise”, *Philosophical Studies*, 158(1): 1–15. doi: 10.1007/s11098-010-9662-5
+* –––, 2019, “What the Consequence Argument is an Argument For”, *Thought: A Journal of Philosophy*, 8(1): 50–56. doi: 10.1002/tht3.404
+* Carlson, Erik, 2000, “Incompatibilism and the Transfer of Power Necessity”, *Noûs*, 34(2): 277–290. doi: 10.1111/0029-4624.00211
 * Carroll, John, 2008, “Nailed to Hume’s Cross?”, in Sider, Hawthorne, & Zimmerman 2008: 67–81.
 * Chisholm, Roderick M., 1964, “Human Freedom and the Self”, *The Lindley Lectures*, Department of Philosophy, University of Kansas. Reprinted in Watson 2003: ch. 1 and Pereboom 2009a: ch. 14.
-* Clarke, Randolph, 1993, “Towards a Credible Agent-Causal Account of Free Will”, *Noûs*, 27(2): 191–203. Reprinted in Watson 2003: ch. 14 and Russell & Deery 2013: ch. 11. doi:10.2307/2215755
-* –––, 2003, *Libertarian Accounts of Free Will*, New York: Oxford University Press. doi:10.1093/019515987X.001.0001
-* –––, 2005, “On an Argument for the Impossibility of Moral Responsibility”, *Midwest Studies in Philosophy*, 29: 13–24. doi:10.1111/j.1475-4975.2005.00103.x
+* Clarke, Randolph, 1993, “Towards a Credible Agent-Causal Account of Free Will”, *Noûs*, 27(2): 191–203. Reprinted in Watson 2003: ch. 14 and Russell & Deery 2013: ch. 11. doi: 10.2307/2215755
+* –––, 2003, *Libertarian Accounts of Free Will*, New York: Oxford University Press. doi: 10.1093/019515987X.001.0001
+* –––, 2005, “On an Argument for the Impossibility of Moral Responsibility”, *Midwest Studies in Philosophy*, 29: 13–24. doi: 10.1111/j.1475-4975.2005.00103.x
 * –––, 2015, “Abilities to Act”, *Philosophy Compass*, 10(12): 893–904. doi: 10.1111/phc3.12299
-* Cross, Charles, 1986, “‘Can’ and the Logic of Ability”, *Philosophical Studies*, 50(1): 53–64. doi:10.1007/BF00355160
+* Cross, Charles, 1986, “‘Can’ and the Logic of Ability”, *Philosophical Studies*, 50(1): 53–64. doi: 10.1007/BF00355160
 * Cutter, Brian, 2017, “What is the Consequence Argument an Argument For?”, *Analysis*, 77 (2): 278–287. doi: 10.1093/analys/anx052
 * Darrow, Clarence, 1924, *The Trial of Leopold and Loeb, Attorney for the Damned: Clarence Darrow in the Courtroom*, Arthur Weinberg (ed.), Chicago: The University of Chicago Press, 16–86.
-* Deery, Oisin, 2015, “The Fall from Eden: Why Libertarianism Isn’t Justified by Experience”, *Australasian Journal of Philosophy* , 93(2): 319–334. doi:10.1080/00048402.2014.968596
-* –––, 2015, “Why People Believe in Indeterminist Free Will”, *Philosophical Studies*, 172(8): 2033–2054. doi:10.1007/s11098-014-0396-7
-* Deery, Oisin, Matt Bedke, and Shaun Nichols, 2013, “Phenomenal Abilities: Incompatibilism and the Experience of Agency” in D. Shoemaker 2013: 126–150. doi:10.1093/acprof:oso/9780199694853.003.0006.
-* Deery, Oisin and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, *Philosophical Studies*, 174(5): 1255–1276. doi:10.1007/s11098-016-0754-8
+* Deery, Oisin, 2015, “The Fall from Eden: Why Libertarianism Isn’t Justified by Experience”, *Australasian Journal of Philosophy* , 93(2): 319–334. doi: 10.1080/00048402.2014.968596
+* –––, 2015, “Why People Believe in Indeterminist Free Will”, *Philosophical Studies*, 172(8): 2033–2054. doi: 10.1007/s11098-014-0396-7
+* Deery, Oisin, Matt Bedke, and Shaun Nichols, 2013, “Phenomenal Abilities: Incompatibilism and the Experience of Agency” in D. Shoemaker 2013: 126–150. doi: 10.1093/acprof: oso/9780199694853.003.0006.
+* Deery, Oisin and Eddy Nahmias, 2017, “Defeating Manipulation Arguments: Interventionist Causation and Compatibilist Sourcehood”, *Philosophical Studies*, 174(5): 1255–1276. doi: 10.1007/s11098-016-0754-8
 * Dennett, Daniel, 1984, *Elbow Room: The Varieties of Free Will Worth Wanting*, Cambridge, MA: MIT Press.
 * –––, 2003, Freedom Evolves, New York: Viking Penguin.
-* Dorr, Cian, 2016, “Against Counterfactual Miracles”, *The Philosophical Review*, 125(2): 241–286. doi:10.1215/00318108-3453187
-* Double, Richard, 1989, “Puppeteers, Hypnotists, and Neurosurgeons”, *Philosophical Studies*, 56(2): 163–173. Reprinted in Russell & Deery 2013: ch. 14. doi:10.1007/BF00355940
+* Dorr, Cian, 2016, “Against Counterfactual Miracles”, *The Philosophical Review*, 125(2): 241–286. doi: 10.1215/00318108-3453187
+* Double, Richard, 1989, “Puppeteers, Hypnotists, and Neurosurgeons”, *Philosophical Studies*, 56(2): 163–173. Reprinted in Russell & Deery 2013: ch. 14. doi: 10.1007/BF00355940
 * Earman, John, 1986, *A Primer on Determinism*, Dordrecht: D. Reidel Publishing Company.
 * –––, 2004, “Determinism: What We Have Learned and What We Still Don’t Know”, in Campbell, O’Rourke, & Shier 2004: 21–46.
 * Ekstrom, Laura, 2000, *Free Will: A Philosophical Study*, Boulder, CO: Westview Press.
 * Esfeld, Michael, 2021, “Super-Humeanism and Free Will”, *Synthese*, 198(7): 6245–6258. doi: 10.1007/s11229-019-02460-x
-* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, *Mind*, 117(468): 843–865. doi:10.1093/mind/fzn078
+* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, *Mind*, 117(468): 843–865. doi: 10.1093/mind/fzn078
 * Feldman, Richard, 2004, “Freedom and Contextualism”, in Campbell, O’Rourke, & Shier 2004: 255–276.
-* Finch, Alicia, 2013, “On Behalf of the Consequence Argument: Time, Modality, and the Nature of Free Action”, *Philosophical Studies*, 163(1): 151–170. doi:10.1007/s11098-011-9791-5
-* Finch, Alicia and Ted Warfield, 1998, “The *MIND* Argument and Libertarianism”, *Mind*, 107(427): 515–528. doi:10.1093/mind/107.427.515
-* Fischer, John Martin, 1983, “Incompatibilism”, *Philosophical Studies*, 43(1): 121–37. doi:10.1007/BF01112527
-* –––, 1986, “Power Necessity”, *Philosophical Topics*, 14(2): 77–91. doi:10.5840/philtopics19861424
-* –––, 1988, “Freedom and Miracles”, *Noûs*, 22(2): 235–252. doi:10.2307/2215861
+* Finch, Alicia, 2013, “On Behalf of the Consequence Argument: Time, Modality, and the Nature of Free Action”, *Philosophical Studies*, 163(1): 151–170. doi: 10.1007/s11098-011-9791-5
+* Finch, Alicia and Ted Warfield, 1998, “The *MIND* Argument and Libertarianism”, *Mind*, 107(427): 515–528. doi: 10.1093/mind/107.427.515
+* Fischer, John Martin, 1983, “Incompatibilism”, *Philosophical Studies*, 43(1): 121–37. doi: 10.1007/BF01112527
+* –––, 1986, “Power Necessity”, *Philosophical Topics*, 14(2): 77–91. doi: 10.5840/philtopics19861424
+* –––, 1988, “Freedom and Miracles”, *Noûs*, 22(2): 235–252. doi: 10.2307/2215861
 * –––, 1994, *The Metaphysics of Free Will: An Essay on Control*, Oxford: Blackwell.
 * –––, 2003, “Frankfurt-Style Compatibilism”, in Watson 2003: ch. 10.
-* –––, 2004, “Responsibility and Manipulation”, *The Journal of Ethics*, 8(2): 145–77. doi:10.1023/B:JOET.0000018773.97209.84
-* –––, 2009, “Ultimacy and Alternative Possibilities”, *Philosophical Studies*, 144(1): 15–20. doi:10.1007/s11098-009-9370-1
-* –––, 2011, “The Zygote Argument Re-mixed”, *Analysis*, 71(2): 267–272. doi:10.1093/analys/anr008
-* –––, 2021, “Initial Design, Manipulation, and Moral Responsibility”, *Criminal Law and Philosophy* 15: 255–270. doi:10.1007/s11572-021-09561-0
+* –––, 2004, “Responsibility and Manipulation”, *The Journal of Ethics*, 8(2): 145–77. doi: 10.1023/B: JOET.0000018773.97209.84
+* –––, 2009, “Ultimacy and Alternative Possibilities”, *Philosophical Studies*, 144(1): 15–20. doi: 10.1007/s11098-009-9370-1
+* –––, 2011, “The Zygote Argument Re-mixed”, *Analysis*, 71(2): 267–272. doi: 10.1093/analys/anr008
+* –––, 2021, “Initial Design, Manipulation, and Moral Responsibility”, *Criminal Law and Philosophy* 15: 255–270. doi: 10.1007/s11572-021-09561-0
 * Fischer, John Martin and Mark Ravizza, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
-* Fischer, John Martin and Patrick Todd, 2011, “The Truth about Freedom: A Reply to Merricks”, *The Philosophical Review*, 120(1): 97–115. doi:10.1215/00318108-2010-025
+* Fischer, John Martin and Patrick Todd, 2011, “The Truth about Freedom: A Reply to Merricks”, *The Philosophical Review*, 120(1): 97–115. doi: 10.1215/00318108-2010-025
 * ––– (eds.), 2015, *Freedom, Foreknowledge, and Fatalism*, New York: Oxford University Press.
-* Flint, Thomas P., 1987, “Compatibilism and the Argument from Unavoidability”, *Journal of Philosophy*, 74(8): 423–40. doi:10.2307/2027000
-* Foley, Richard, 1979, “Compatibilism and Control over the Past”, *Analysis*, 39(2): 70–74. doi:10.1093/analys/39.2.70
-* Frankfurt, Harry G., 1969, “Alternate Possibilities and Moral Responsibility”, *Journal of Philosophy*, 66(23): 820–39. Reprinted in Frankfurt 1988, Watson 2003: ch. 8, Pereboom 2009a: ch. 15, and Russell & Deery 2013: ch 7. doi:10.2307/2023833
-* –––, 1971, “Freedom of the Will and the Concept of a Person”, *Journal of Philosophy*, 68(1): 5–20. Reprinted in Frankfurt 1988, Watson 2003: ch. 16, Pereboom 2009a: ch. 16, and Russell & Deery 2013: ch. 13. doi:10.2307/2024717
+* Flint, Thomas P., 1987, “Compatibilism and the Argument from Unavoidability”, *Journal of Philosophy*, 74(8): 423–40. doi: 10.2307/2027000
+* Foley, Richard, 1979, “Compatibilism and Control over the Past”, *Analysis*, 39(2): 70–74. doi: 10.1093/analys/39.2.70
+* Frankfurt, Harry G., 1969, “Alternate Possibilities and Moral Responsibility”, *Journal of Philosophy*, 66(23): 820–39. Reprinted in Frankfurt 1988, Watson 2003: ch. 8, Pereboom 2009a: ch. 15, and Russell & Deery 2013: ch 7. doi: 10.2307/2023833
+* –––, 1971, “Freedom of the Will and the Concept of a Person”, *Journal of Philosophy*, 68(1): 5–20. Reprinted in Frankfurt 1988, Watson 2003: ch. 16, Pereboom 2009a: ch. 16, and Russell & Deery 2013: ch. 13. doi: 10.2307/2024717
 * –––, 1988, *The Importance of What we Care About*, Cambridge: Cambridge University Press.
 * –––, 2002, “Reply to John Martin Fischer”, in Sarah Buss and Lee Overton (eds.), *Contours of Agency: Essays on Themes from Harry Frankfurt*, Cambridge, MA: MIT Press.
-* Franklin, Christopher Evan, 2014, “Powers, Necessity, and Determinism”, *Thought*, 3(3): 225–229. doi:10.1002/tht3.139
-* –––, 2016, “If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist”, *Mind*, 125(500): 1101–1131. doi:10.1093/mind/fzv177
+* Franklin, Christopher Evan, 2014, “Powers, Necessity, and Determinism”, *Thought*, 3(3): 225–229. doi: 10.1002/tht3.139
+* –––, 2016, “If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist”, *Mind*, 125(500): 1101–1131. doi: 10.1093/mind/fzv177
 * –––, 2018, *A Minimal Libertarianism: Free Will and the Promise of Reduction*, New York: Oxford University Press.
-* Gallois, Andre, 1977, “Van Inwagen on Free Will and Determinism”, *Philosophical Studies*, 32(1): 99–105. doi:10.1007/BF00373718
+* Gallois, Andre, 1977, “Van Inwagen on Free Will and Determinism”, *Philosophical Studies*, 32(1): 99–105. doi: 10.1007/BF00373718
 * Ginet, Carl, 1966, “Might We Have No Choice?” in Lehrer 1966: 87–104.
 * –––, 1983, “In Defense of Incompatibilism”, *Philosophical Studies*, 44(3): 391–400.
 * –––, 1990, *On Action*, Cambridge: Cambridge University Press.
-* –––, 1996, “In Defense of the Principle of Alternative Possibilities: Why I Don’t Find Frankfurt’s Argument Convincing”, *Philosophical Perspectives*, 10: 403–417. Reprinted in Widerker & McKenna 2003: 75–90. doi:10.2307/2216254
-* Glick, David and Hannah Tierney, 2020, “Desperately Seeking Sourcehood”, *Philosophical Studies*, 177(4): 953–970. doi:10.1007/s11098-018-1215-3
-* Graham, Peter A, 2008, “A Defense of Local Miracle Compatibilism”, *Philosophical Studies*, 140(1): 65–82. doi:10.1007/s11098-008-9226-0
-* Hall, Ned, 2000, “Causation and the Price of Transitivity”, *Journal of Philosophy*, 97(4): 198–222. doi:10.2307/2678390
+* –––, 1996, “In Defense of the Principle of Alternative Possibilities: Why I Don’t Find Frankfurt’s Argument Convincing”, *Philosophical Perspectives*, 10: 403–417. Reprinted in Widerker & McKenna 2003: 75–90. doi: 10.2307/2216254
+* Glick, David and Hannah Tierney, 2020, “Desperately Seeking Sourcehood”, *Philosophical Studies*, 177(4): 953–970. doi: 10.1007/s11098-018-1215-3
+* Graham, Peter A, 2008, “A Defense of Local Miracle Compatibilism”, *Philosophical Studies*, 140(1): 65–82. doi: 10.1007/s11098-008-9226-0
+* Hall, Ned, 2000, “Causation and the Price of Transitivity”, *Journal of Philosophy*, 97(4): 198–222. doi: 10.2307/2678390
 * Hausmann, Marco, 2018, “The Consequence Argument Ungrounded”, *Synthese*, 195 (11): 4931–4950. doi: 10.1007/s11229-017-1436-6
-* Hawthorne, John, 2001, “Freedom in Context”, *Philosophical Studies*, 104(1): 63–79. doi:10.1023/A:1010398805497
-* Herdova, Marcela, 2021, “The Importance of Being Ernie”, *Thought: A Journal of Philosophy*, 10 (4): 257–263. doi:10.1002/tht3.503
+* Hawthorne, John, 2001, “Freedom in Context”, *Philosophical Studies*, 104(1): 63–79. doi: 10.1023/A: 1010398805497
+* Herdova, Marcela, 2021, “The Importance of Being Ernie”, *Thought: A Journal of Philosophy*, 10 (4): 257–263. doi: 10.1002/tht3.503
 * Hobart, R.E., 1934, “Free Will as Involving Determination and Inconceivable without It”, *Mind*, 63(169): 1–27. Reprinted in van Inwagen & Zimmerman 2008: 420–432.
 * Hoefer, Carl, 2002, “Freedom from the Inside Out”, in *Time, Reality, and Experience*, Craig Callender (ed.), Cambridge: Cambridge University Press.
 * –––, 2003 [2016], “Causal Determinism”, *Stanford Encyclopedia of Philosophy* (Spring 2016 edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2016/entries/determinism-causal/>
 * Holbach, Baron, 1770, “The Illusion of Free Will”, from *The System of Nature* (*Système de la nature*). Translated by H.D. Robinson. Reprinted in *The Experience of Philosophy*, Daniel Kolak and Raymond Martin (eds.), Oxford: Oxford University Press, 2002, 5th edition: 176–181.
-* Holliday, Wesley H., 2012, “Freedom and the Fixity of the Past”, *The Philosophical Review*, 121(2): 179–207. doi:10.1215/00318108-1539080
-* –––, 2017, “Freedom and Modality”, in Keller 2017: 149–156. doi:10.1093/acprof:oso/9780198715702.003.0009
-* Holton, Richard, 2009, *Willing, Wanting, Waiting*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199214570.001.0001
-* Horgan, Terence, 1985, “Compatibilism and the Consequence Argument”, *Philosophical Studies*, 47(3): 339–56. doi:10.1007/BF00355208
-* Horwich, Paul, 1987*, Asymmetries in Time*, Cambridge, MA: MIT Press.
-* Huemer, Michael, 2000, “Van Inwagen’s Consequence Argument”, *The Philosophical Review*, 109(4): 525–544. doi:10.1215/00318108-109-4-525
-* –––, 2004, “Elusive Freedom? A Reply to Helen Beebee”, *The Philosophical Review*, 113(3): 411–416. doi:10.1215/00318108-113-3-411
-* Huoranszki, Ferenc, 2021, “Physical Determinism, Zygote Manipulation and Responsible Agency”, *Philosophia*, 49 (4): 1525–1540. doi:10.1007/s11406-020-00307-1
+* Holliday, Wesley H., 2012, “Freedom and the Fixity of the Past”, *The Philosophical Review*, 121(2): 179–207. doi: 10.1215/00318108-1539080
+* –––, 2017, “Freedom and Modality”, in Keller 2017: 149–156. doi: 10.1093/acprof: oso/9780198715702.003.0009
+* Holton, Richard, 2009, *Willing, Wanting, Waiting*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199214570.001.0001
+* Horgan, Terence, 1985, “Compatibilism and the Consequence Argument”, *Philosophical Studies*, 47(3): 339–56. doi: 10.1007/BF00355208
+* Horwich, Paul, 1987 *, Asymmetries in Time*, Cambridge, MA: MIT Press.
+* Huemer, Michael, 2000, “Van Inwagen’s Consequence Argument”, *The Philosophical Review*, 109(4): 525–544. doi: 10.1215/00318108-109-4-525
+* –––, 2004, “Elusive Freedom? A Reply to Helen Beebee”, *The Philosophical Review*, 113(3): 411–416. doi: 10.1215/00318108-113-3-411
+* Huoranszki, Ferenc, 2021, “Physical Determinism, Zygote Manipulation and Responsible Agency”, *Philosophia*, 49 (4): 1525–1540. doi: 10.1007/s11406-020-00307-1
 * Ismael, Jenann, 2016, *How Physics Makes Us Free*, Oxford: Oxford University Press.
 * Jaster, Romy, 2020, *Agents’ Abilities*, Berlin: de Gruyter.
 * Jeppsson, Sofia, 2020, “The Agential Perspective: a Hard-Line Reply to the Four-Case Manipulation Argument”, *Philosophical Studies*, 177(7): 1935–1951. doi: 10.1007/s11098-019-01292-2
-* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi:10.1093/0195126564.001.0001
-* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, *Journal of Philosophy*, 96(5): 217–240. Reprinted in Watson 2003: ch. 15 and Russell & Deery 2013: ch. 10. doi:10.2307/2564666
+* Kane, Robert, 1996, *The Significance of Free Will*, Oxford: Oxford University Press. doi: 10.1093/0195126564.001.0001
+* –––, 1999, “Responsibility, Luck, and Chance: Reflections on Free Will and Indeterminism”, *Journal of Philosophy*, 96(5): 217–240. Reprinted in Watson 2003: ch. 15 and Russell & Deery 2013: ch. 10. doi: 10.2307/2564666
 * –––, 2011a, “Rethinking Free Will: New Perspectives on an Ancient Problem”, in Kane 2011b: 381–401.
-* ––– (ed.), 2011b,, *The Oxford Handbook of Free Will*, second edition, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195399691.001.0001
-* Kapitan, Tomis, 1991, “Ability and Cognition: a Defense of Compatibilism”, *Philosophical Studies*, 63(2): 231–43. doi:10.1007/BF00381690
+* ––– (ed.), 2011b,, *The Oxford Handbook of Free Will*, second edition, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780195399691.001.0001
+* Kapitan, Tomis, 1991, “Ability and Cognition: a Defense of Compatibilism”, *Philosophical Studies*, 63(2): 231–43. doi: 10.1007/BF00381690
 * –––, 2011, “A Compatibilist Reply to the Consequence Argument”, in Kane 2011b: 131–146.
-* Kearns, Stephen, 2012, “Aborting the Zygote Argument”, *Philosophical Studies*, 160(3): 379–389. doi:10.1007/s11098-011-9724-3
-* Keller, John A. (ed.), 2017, *Being, Freedom, and Method: Themes from the Philosophy of Peter van Inwagen*, New York: Oxford University Press. doi:0.1093/acprof:oso/9780198715702.001.0001
+* Kearns, Stephen, 2012, “Aborting the Zygote Argument”, *Philosophical Studies*, 160(3): 379–389. doi: 10.1007/s11098-011-9724-3
+* Keller, John A. (ed.), 2017, *Being, Freedom, and Method: Themes from the Philosophy of Peter van Inwagen*, New York: Oxford University Press. doi: 0.1093/acprof: oso/9780198715702.001.0001
 * Kenny, Anthony, 1975, *Will, Freedom, and Power*, Oxford: Blackwell.
 * Kim, Jaegwon, 1998, *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*, Cambridge, MA: Bradford Books, MIT Press.
-* Kratzer, Angelia, 1977, “What ‘must’ and ‘can’ must and can mean”, *Linguistics and Philosophy*, 1(3): 337–355. doi:10.1007/BF00353453
-* Lamb, James W., 1977, “On a Proof of Incompatibilism”, *The Philosophical Review*, 86(1): 20–35. doi:10.2307/2184160
-* –––, 1993, “Evaluative Compatibilism and the Principle of Alternative Possibilities”, *Journal of Philosophy*, 90(1): 497–516. doi:10.2307/2941025
-* Lampert, Fabio and Pedro Merlussi, 2021, “Counterfactuals, Counteractuals, and Free Choice”, *Philosophical Studies*, 178(2): 445–469. doi:10.1007/s11098-020-01440-z
-* Latham, Andrew J. and Hannah Tierney, 2022, “Defusing Existential and Universal Threats to Compatibilism: A Strawsonian Dilemma for Manipulation Arguments”, *Journal of Philosophy*, 119(3): 144–161. doi:10.5840/jphil202211939
-* Lehrer, Keith, 1968 “Cans Without Ifs”, *Analysis*, 29(1): 29–32. doi:10.1093/analys/29.1.29
+* Kratzer, Angelia, 1977, “What ‘must’ and ‘can’ must and can mean”, *Linguistics and Philosophy*, 1(3): 337–355. doi: 10.1007/BF00353453
+* Lamb, James W., 1977, “On a Proof of Incompatibilism”, *The Philosophical Review*, 86(1): 20–35. doi: 10.2307/2184160
+* –––, 1993, “Evaluative Compatibilism and the Principle of Alternative Possibilities”, *Journal of Philosophy*, 90(1): 497–516. doi: 10.2307/2941025
+* Lampert, Fabio and Pedro Merlussi, 2021, “Counterfactuals, Counteractuals, and Free Choice”, *Philosophical Studies*, 178(2): 445–469. doi: 10.1007/s11098-020-01440-z
+* Latham, Andrew J. and Hannah Tierney, 2022, “Defusing Existential and Universal Threats to Compatibilism: A Strawsonian Dilemma for Manipulation Arguments”, *Journal of Philosophy*, 119(3): 144–161. doi: 10.5840/jphil202211939
+* Lehrer, Keith, 1968 “Cans Without Ifs”, *Analysis*, 29(1): 29–32. doi: 10.1093/analys/29.1.29
 * –––, 1976, “’Can’ in Theory and Practice: A Possible Worlds Analysis”, in Brand & Walton 1976.
-* –––, 1980, “Preferences, Conditionals, and Freedom”, in van Inwagen 1980: 187–201. doi:10.1007/978-94-017-3528-5_11
+* –––, 1980, “Preferences, Conditionals, and Freedom”, in van Inwagen 1980: 187–201. doi: 10.1007/978-94-017-3528-5_11
 * –––, 2004, “Freedom and the Power of Preference”, in Campbell, O’Rourke, & Shier 2004: 47–69.
 * Lewis, David, 1973, *Counterfactuals*, Cambridge, MA: Harvard University Press.
 * –––, 1976, “The Paradoxes of Time Travel”, *American Philosophical Quarterly*, 13(2): 145–52
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13(4): 455–476. doi:10.2307/2215339
-* –––, 1981, “Are We Free to Break the Laws?”, *Theoria*, 47(3): 113–21. Reprinted in Watson 2003: ch. 6. doi:10.1111/j.1755-2567.1981.tb00473.x
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13(4): 455–476. doi: 10.2307/2215339
+* –––, 1981, “Are We Free to Break the Laws?”, *Theoria*, 47(3): 113–21. Reprinted in Watson 2003: ch. 6. doi: 10.1111/j.1755-2567.1981.tb00473.x
 * –––, 1986, “Against Overlap”, in his *On the Plurality of Worlds*, Oxford: Blackwell.
-* Lewis, Peter J., 2016, *Quantum Ontology: A Guide to the Metaphysics of Quantum Mechanics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190469825.001.0001
+* Lewis, Peter J., 2016, *Quantum Ontology: A Guide to the Metaphysics of Quantum Mechanics*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190469825.001.0001
 * Libet, Benjamin, 1999, “Do We Have Free Will?”, *Journal of Consciousness Studies*, 6(8–9): 47–57. Reprinted in Russell and Deery 2013, ch. 24 and Sinnott-Armstrong & Nadel 2011: 1–10.
 * List, Christian, 2019, *Why Free Will is Real*, Cambridge, MA: Harvard University Press.
 * Loew, Christian and Andreas Hüttemann, 2022, “Are We Free to Make the Laws?”, *Synthese*, 200 (1): 1–16. doi: 10.1007/s11229-022-03460-0
-* Loewer, Barry, 1996a, “Humean Supervenience”, *Philosophical Topics*, 24(1): 101–27. doi:10.5840/philtopics199624112
-* –––, 1996b, “Freedom from Physics: Quantum Mechanics and Free Will”, *Philosophical Topics*, 24(2): 91–112. doi:10.5840/philtopics19962428
+* Loewer, Barry, 1996a, “Humean Supervenience”, *Philosophical Topics*, 24(1): 101–27. doi: 10.5840/philtopics199624112
+* –––, 1996b, “Freedom from Physics: Quantum Mechanics and Free Will”, *Philosophical Topics*, 24(2): 91–112. doi: 10.5840/philtopics19962428
 * Looper, Brian, 2021, “What Freedom in a Deterministic World Must Be,” *Mind*, 130(519): 863–885. doi: 10.1093/mind/fzaa105
-* Lycan, William G., 2003, “Free Will and the Burden of Proof”, *Royal Institute of Philosophy Supplements*, 53: 107–122. doi:10.1017/S1358246100008298
-* Mackie, Penelope, 2003, “Fatalism, Incompatibilism, and the Power to Do Otherwise”, *Noûs*, 37(4): 672–689. doi:10.1046/j.1468-0068.2003.00455.x
-* –––, 2014a, “Mumford and Anjum on Incompatibilism, Powers, and Determinism”, *Analysis*, 74(4): 593–603. doi:10.1093/analys/anu088
-* –––, 2014b, “Counterfactuals and the Fixity of the Past”, *Philosophical Studies*, 168(2): 397–415. doi:10.1007/s11098-013-0135-5
-* Maier, John, 2013, “The Agentive Abilities”, *Philosophy and Phenomenological Research*, 90(1): 113–134. doi:10.1111/phpr.12038
-* –––, 2018, “Ability, Modality, and Genericity”, *Philosophical Studies*, 175 (2): 411–428. doi:10.1007/s11098-017-0874-9
-* Mandelkern, Matthew, Ginger Schultheis and David Boylan, 2017, “Agentive Modals”, *The Philosophical Review*, 126(3): 301–343. doi:10.1215/00318108-3878483
-* Markosian, Ned, 1999, “A Compatibilist Version of the Theory of Agent Causation”, *Pacific Philosophical Quarterly*, 80(3): 257–277. doi:10.1111/1468-0114.00083
-* McKay, Thomas J. and David Johnson, 1996, “A Reconsideration of an Argument against Compatibilism”, *Philosophical Topics*, 24(2): 113–122. doi:10.5840/philtopics199624219
-* McKenna, Michael, 2004a, “Responsibility and Globally Manipulated Agents”, *Philosophical Topics*, 32(1–2): 169–192, John Fischer (ed.). Reprinted in Russell & Deery 2013: ch. 18. doi:10.5840/philtopics2004321/222
+* Lycan, William G., 2003, “Free Will and the Burden of Proof”, *Royal Institute of Philosophy Supplements*, 53: 107–122. doi: 10.1017/S1358246100008298
+* Mackie, Penelope, 2003, “Fatalism, Incompatibilism, and the Power to Do Otherwise”, *Noûs*, 37(4): 672–689. doi: 10.1046/j.1468-0068.2003.00455.x
+* –––, 2014a, “Mumford and Anjum on Incompatibilism, Powers, and Determinism”, *Analysis*, 74(4): 593–603. doi: 10.1093/analys/anu088
+* –––, 2014b, “Counterfactuals and the Fixity of the Past”, *Philosophical Studies*, 168(2): 397–415. doi: 10.1007/s11098-013-0135-5
+* Maier, John, 2013, “The Agentive Abilities”, *Philosophy and Phenomenological Research*, 90(1): 113–134. doi: 10.1111/phpr.12038
+* –––, 2018, “Ability, Modality, and Genericity”, *Philosophical Studies*, 175 (2): 411–428. doi: 10.1007/s11098-017-0874-9
+* Mandelkern, Matthew, Ginger Schultheis and David Boylan, 2017, “Agentive Modals”, *The Philosophical Review*, 126(3): 301–343. doi: 10.1215/00318108-3878483
+* Markosian, Ned, 1999, “A Compatibilist Version of the Theory of Agent Causation”, *Pacific Philosophical Quarterly*, 80(3): 257–277. doi: 10.1111/1468-0114.00083
+* McKay, Thomas J. and David Johnson, 1996, “A Reconsideration of an Argument against Compatibilism”, *Philosophical Topics*, 24(2): 113–122. doi: 10.5840/philtopics199624219
+* McKenna, Michael, 2004a, “Responsibility and Globally Manipulated Agents”, *Philosophical Topics*, 32(1–2): 169–192, John Fischer (ed.). Reprinted in Russell & Deery 2013: ch. 18. doi: 10.5840/philtopics2004321/222
 * –––, 2004b [2015], “Compatibilism”, *Stanford Encyclopedia of Philosophy* (Winter 2015 edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/compatibilism/>
-* –––, 2008, “A Hard-line Reply to Pereboom’s Four-Case Manipulation Argument”, *Philosophy and Phenomenological Research*, 77(1): 142–159. doi:10.1111/j.1933-1592.2008.00179.x
-* –––, 2010, “Whose Argumentative Burden, which Incompatibilist Arguments?—Getting the Dialectic Right”, *Australasian Journal of Philosophy*, 88(3): 429–443. doi:10.1080/00048400903233811
+* –––, 2008, “A Hard-line Reply to Pereboom’s Four-Case Manipulation Argument”, *Philosophy and Phenomenological Research*, 77(1): 142–159. doi: 10.1111/j.1933-1592.2008.00179.x
+* –––, 2010, “Whose Argumentative Burden, which Incompatibilist Arguments?—Getting the Dialectic Right”, *Australasian Journal of Philosophy*, 88(3): 429–443. doi: 10.1080/00048400903233811
 * –––, 2014, “Revisiting the Manipulation Argument: A Hard-Liner Takes it on the Chin”, *Philosophy and Phenomenological Research*, 89 (2), 467–484. doi: 10.1111/phpr.12076
-* Mele, Alfred R., 1995, *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press. doi:10.1093/0195150430.001.0001
-* –––, 2006, *Free Will and Luck*, New York: Oxford University Press. doi:10.1093/0195305043.001.0001
-* –––, 2008, “Manipulation, Compatibilism, and Moral Responsibility”, *The Journal of Ethics*, 12(3–4): 263–286. doi:10.1007/s10892-008-9035-x
-* –––, 2009, *Effective Intentions: The Power of the Conscious Will*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195384260.001.0001
-* ––– (ed.), 2015, *Surrounding Free Will: Philosophy, Psychology, Neuroscience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199333950.001.0001
+* Mele, Alfred R., 1995, *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press. doi: 10.1093/0195150430.001.0001
+* –––, 2006, *Free Will and Luck*, New York: Oxford University Press. doi: 10.1093/0195305043.001.0001
+* –––, 2008, “Manipulation, Compatibilism, and Moral Responsibility”, *The Journal of Ethics*, 12(3–4): 263–286. doi: 10.1007/s10892-008-9035-x
+* –––, 2009, *Effective Intentions: The Power of the Conscious Will*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195384260.001.0001
+* ––– (ed.), 2015, *Surrounding Free Will: Philosophy, Psychology, Neuroscience*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199333950.001.0001
 * –––, 2019, *Manipulated Agents: A Window to Moral Responsibility*, New York: Oxford University Press.
-* Mele, Alfred R. and David Robb, 1998, “Rescuing Frankfurt-Style Cases”, *The Philosophical Review*, 107(1): 97–112. doi:10.2307/2998316
+* Mele, Alfred R. and David Robb, 1998, “Rescuing Frankfurt-Style Cases”, *The Philosophical Review*, 107(1): 97–112. doi: 10.2307/2998316
 * Menzies, Peter, 2017, “The Consequence Argument Disarmed: An Interventionist Perspective” in *Making a Difference: Essays on the Philosophy of Causation*, edited by Helen Beebee, Christopher Hitchcock, and Huw Price, 307–330. Oxford: Oxford University Press.
-* Merricks, Trenton, 2009, “Truth and Freedom”, *The Philosophical Review*, 118(1): 29–257. doi:10.1215/00318108-2008-028
-* Mickelson, Kristin [Demetriou, Kristin], 2010, “The Soft-Line Solution to Pereboom’s Four-Case Argument”, *Australasian Journal of Philosophy*, 88(4): 595–617. doi:10.1080/00048400903382691
-* –––, 2015a, “A Critique of Vihvelin’s Three-Fold Classification”, *Canadian Journal of Philosophy*, 45(1): 85–99. doi:10.1080/00455091.2015.1009321
-* –––, 2015b, “The Zygote Argument is Invalid: Now What?”, *Philosophical Studies*, 172(11): 2911–2929. doi:10.1007/s11098-015-0449-6
+* Merricks, Trenton, 2009, “Truth and Freedom”, *The Philosophical Review*, 118(1): 29–257. doi: 10.1215/00318108-2008-028
+* Mickelson, Kristin [Demetriou, Kristin], 2010, “The Soft-Line Solution to Pereboom’s Four-Case Argument”, *Australasian Journal of Philosophy*, 88(4): 595–617. doi: 10.1080/00048400903382691
+* –––, 2015a, “A Critique of Vihvelin’s Three-Fold Classification”, *Canadian Journal of Philosophy*, 45(1): 85–99. doi: 10.1080/00455091.2015.1009321
+* –––, 2015b, “The Zygote Argument is Invalid: Now What?”, *Philosophical Studies*, 172(11): 2911–2929. doi: 10.1007/s11098-015-0449-6
 * Moore, G.E., 1912, “Free Will” in his *Ethics*, Oxford: Oxford University Press, Chapter 6.
-* Mumford, Stephen and Rani Lill Anjum, 2014, “A New Argument Against Compatibilism”, *Analysis*, 74(1): 20–25. doi:10.1093/analys/ant095
-* Murray, Dylan and Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi:10.1111/j.1933-1592.2012.00609.x
+* Mumford, Stephen and Rani Lill Anjum, 2014, “A New Argument Against Compatibilism”, *Analysis*, 74(1): 20–25. doi: 10.1093/analys/ant095
+* Murray, Dylan and Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi: 10.1111/j.1933-1592.2012.00609.x
 * Nagel, Thomas, 1979, “Moral Luck”, in his *Mortal Questions* , New York: Cambridge University Press. Reprinted in Russell & Deery 2013: ch. 1.
 * Nahmias, Eddy, 2004, “The Phenomenology of Free Will”, *Journal of Consciousness Studies*, 11(7–8): 162–179. Reprinted in Russell & Deery 2013: ch. 25.
 * –––, 2011, “Intuitions about Free Will, Determinism, and Bypassing”, in Kane 2011b: 555–573.
-* Nahmias, Eddy, Stephen Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
-* Nelkin, Dana, 2001, “The Consequence Argument and the Mind Argument”, *Analysis*, 61(2): 107–115. Reprinted in Russell & Deery 2013: ch. 6. doi:10.1093/analys/61.2.107
-* Nelkin, Dana Kay, 2004, “Deliberative Alternatives”, *Philosophical Topics*, 32(1–2): 215–240. doi:10.5840/philtopics2004321/224
-* –––, 2011, *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608560.001.0001
-* Nelkin, Dana K. and Samuel Rickless, 2002, “Warfield’s New Argument for Incompatibilism”, *Analysis*, 62(2): 104–107. doi:10.1093/analys/62.2.104
-* Oakley, Shane, 2006, “Defending Lewis’s Local Miracle Compatibilism”, *Philosophical Studies*, 130(2): 337–349. doi:10.1007/s11098-004-4677-4
-* O’Connor, Timothy, 1993, “On the Transfer of Necessity”, *Noûs*, 27(2): 204–218. doi:10.2307/2215756
+* Nahmias, Eddy, Stephen Morris, Thomas Nadelhoffer, and Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi: 10.1111/j.1933-1592.2006.tb00603.x
+* Nelkin, Dana, 2001, “The Consequence Argument and the Mind Argument”, *Analysis*, 61(2): 107–115. Reprinted in Russell & Deery 2013: ch. 6. doi: 10.1093/analys/61.2.107
+* Nelkin, Dana Kay, 2004, “Deliberative Alternatives”, *Philosophical Topics*, 32(1–2): 215–240. doi: 10.5840/philtopics2004321/224
+* –––, 2011, *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199608560.001.0001
+* Nelkin, Dana K. and Samuel Rickless, 2002, “Warfield’s New Argument for Incompatibilism”, *Analysis*, 62(2): 104–107. doi: 10.1093/analys/62.2.104
+* Oakley, Shane, 2006, “Defending Lewis’s Local Miracle Compatibilism”, *Philosophical Studies*, 130(2): 337–349. doi: 10.1007/s11098-004-4677-4
+* O’Connor, Timothy, 1993, “On the Transfer of Necessity”, *Noûs*, 27(2): 204–218. doi: 10.2307/2215756
 * –––, 1995a, “Agent Causation”, in O’Connor 1995b: 173–200. Reprinted in Watson 2003: ch. 13.
-* –––, 2000, *Persons and Causes: the Metaphysics of Free Will*, New York: Oxford University Press. doi:10.1093/019515374X.001.0001
+* –––, 2000, *Persons and Causes: the Metaphysics of Free Will*, New York: Oxford University Press. doi: 10.1093/019515374X.001.0001
 * –––, 2011, “Agent-Causal Theories of Freedom”, in Kane 2011b: 309–327.
-* Pereboom, Derk, 1995, “Determinism al Dente”, *Noûs*, 29(1): 21–45. Reprinted in Pereboom 2009a: ch. 22. doi:10.2307/2215725
+* Pereboom, Derk, 1995, “Determinism al Dente”, *Noûs*, 29(1): 21–45. Reprinted in Pereboom 2009a: ch. 22. doi: 10.2307/2215725
 * –––, 2001, *Living Without Free Will*, Cambridge: Cambridge University Press.
 * –––, 2003, “Source Incompatibilism and Alternative Possibilities”, in Widerker & McKenna 2003: 185–200.
-* –––, 2005, “Defending Hard Incompatibilism”, *Midwest Studies in Philosophy*, 29: 228–247. doi:10.1111/j.1475-4975.2005.00114.x
+* –––, 2005, “Defending Hard Incompatibilism”, *Midwest Studies in Philosophy*, 29: 228–247. doi: 10.1111/j.1475-4975.2005.00114.x
 * –––, 2008, “A Hard-line Reply to the Multiple-Case Manipulation Argument”, *Philosophy and Phenomenological Research*, 77(1): 160–170. doi: 10.1111/j.1933-1592.2008.00192.x
 * ––– (ed.), 2009a, *Free Will*, second edition, (Hackett Readings in Philosophy), Indianapolis, IN: Hackett Publishing.
-* –––, 2009b, “Hard Incompatibilism and its Rivals”, *Philosophical Studies*, 144(1): 21–33. doi:10.1007/s11098-009-9371-0
-* –––, 2014, *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
-* Pendergraft, Garrett, 2011, “The Explanatory Power of Local Miracle Compatibilism”, *Philosophical Studies*, 156(2): 249–266. doi:10.1007/s11098-010-9594-0
+* –––, 2009b, “Hard Incompatibilism and its Rivals”, *Philosophical Studies*, 144(1): 21–33. doi: 10.1007/s11098-009-9371-0
+* –––, 2014, *Free Will, Agency, and Meaning in Life*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199685516.001.0001
+* Pendergraft, Garrett, 2011, “The Explanatory Power of Local Miracle Compatibilism”, *Philosophical Studies*, 156(2): 249–266. doi: 10.1007/s11098-010-9594-0
 * Perry, John, 2004, “Compatibilist Options”, in Campbell, O’Rourke, & Shier 2004: 231–254.
-* –––, 2008, “Can’t We All Just be Compatibilists?: A Critical Study of John Martin Fischer’s *My Way*”, *The Journal of Ethics*, 12(2): 157–166. doi:10.1007/s10892-008-9030-2
+* –––, 2008, “Can’t We All Just be Compatibilists?: A Critical Study of John Martin Fischer’s *My Way*”, *The Journal of Ethics*, 12(2): 157–166. doi: 10.1007/s10892-008-9030-2
 * –––, 2010, “Wretched Subterfuge: A Defense of the Compatibilism of Freedom and Natural Causation”, Dewey Lecture delivered before the 84th Annual Pacific Division meeting, *Proceedings and Addresses of the American Philosophical Association*, 84(2): 93–113.
-* Pettit Philip and Michael Smith, 1996, “Freedom in Belief and Desire”, *Journal of Philosophy*, 93(9): 429–449. doi:10.2307/2940892
-* Rosen, Gideon, 2002, “The Case for Incompatibilism”, *Philosophy and Phenomenological Research*, 64(3): 699–706. doi:10.1111/j.1933-1592.2002.tb00168.x
-* Roskies, Adina and Eddy Nahmias, 2016, “‘Local Determination’, even if we could find it, does not challenge free will: Commentary on Marcelo Fischborn”, *Philosophical Psychology*, 30(1–2): 185–197. doi:10.1080/09515089.2016.1248286
-* Rummens, Stefan, 2021, “The Counterfactual Structure of the Consequence Argument”, *Erkenntnis*, 86(3): 523–542. doi:10.1007/s10670-019-00117-2
+* Pettit Philip and Michael Smith, 1996, “Freedom in Belief and Desire”, *Journal of Philosophy*, 93(9): 429–449. doi: 10.2307/2940892
+* Rosen, Gideon, 2002, “The Case for Incompatibilism”, *Philosophy and Phenomenological Research*, 64(3): 699–706. doi: 10.1111/j.1933-1592.2002.tb00168.x
+* Roskies, Adina and Eddy Nahmias, 2016, “‘Local Determination’, even if we could find it, does not challenge free will: Commentary on Marcelo Fischborn”, *Philosophical Psychology*, 30(1–2): 185–197. doi: 10.1080/09515089.2016.1248286
+* Rummens, Stefan, 2021, “The Counterfactual Structure of the Consequence Argument”, *Erkenntnis*, 86(3): 523–542. doi: 10.1007/s10670-019-00117-2
 * Russell, Paul and Oisin Deery (eds.), 2013, *The Philosophy of Free Will, Essential Readings from the Contemporary Debates*, Oxford: Oxford University Press.
-* Sartorio, Carolina, 2005, “Causes as Difference-Makers”, *Philosophical Studies*, 123(1–2): 71–96. doi:10.1007/s11098-004-5217-y
-* –––, 2016, *Causation and Free Will*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198746799.001.0001
+* Sartorio, Carolina, 2005, “Causes as Difference-Makers”, *Philosophical Studies*, 123(1–2): 71–96. doi: 10.1007/s11098-004-5217-y
+* –––, 2016, *Causation and Free Will*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198746799.001.0001
 * Scanlon, T.M., 2008, *Moral Dimensions: Permissibility, Meaning, Blame*, Cambridge, MA: Belknap Press of Harvard University Press.
-* Schaffer, Jonathan, 2004, “Counterfactuals, Causal Independence, and Conceptual Circularity”, *Analysis*, 64 (4): 299–309. doi:10.1111/j.0003-2638.2004.00501.x
+* Schaffer, Jonathan, 2004, “Counterfactuals, Causal Independence, and Conceptual Circularity”, *Analysis*, 64 (4): 299–309. doi: 10.1111/j.0003-2638.2004.00501.x
 * –––, 2008, “Causation and Laws of Nature: Reductionism”, in Sider, Hawthorne, & Zimmerman 2008: 82–107.
-* Schlosser, Marcus, 2017, “Traditional Compatibilism Reformulated and Defended”, *Journal of Philosophical Research*, 42: 277–300. doi:10.5840/jpr2017629108
+* Schlosser, Marcus, 2017, “Traditional Compatibilism Reformulated and Defended”, *Journal of Philosophical Research*, 42: 277–300. doi: 10.5840/jpr2017629108
 * Schwarz, Wolfgang, 2020, “Ability and Possibility”, *Philosophers’ Imprint*, 20(6): 1–29.
-* Sehon, Scott, 2016, *Free Will and Action Explanation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198758495.001.0001
-* Shabo, Seth, 2010, “Uncompromising Source Incompatibilism”, *Philosophy and Phenomenological Research*, 80(2): 349–383. doi:10.1111/j.1933-1592.2010.00328.x
-* Shoemaker, David (ed.), 2013, *Oxford Studies in Agency and Responsibility*, vol.1, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199694853.001.0001
-* Sider, Theodore, 2001, *Four-Dimensionalism: An Ontology of Persistence and Time*, Oxford: Clarendon Press. doi:10.1093/019924443X.001.0001
+* Sehon, Scott, 2016, *Free Will and Action Explanation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198758495.001.0001
+* Shabo, Seth, 2010, “Uncompromising Source Incompatibilism”, *Philosophy and Phenomenological Research*, 80(2): 349–383. doi: 10.1111/j.1933-1592.2010.00328.x
+* Shoemaker, David (ed.), 2013, *Oxford Studies in Agency and Responsibility*, vol.1, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199694853.001.0001
+* Sider, Theodore, 2001, *Four-Dimensionalism: An Ontology of Persistence and Time*, Oxford: Clarendon Press. doi: 10.1093/019924443X.001.0001
 * Sider, Theodore, John Hawthorne, and Dean W. Zimmerman (eds.), 2008, *Contemporary Debates in Metaphysics*, Malden, MA: Blackwell Publishing.
-* Sinnott-Armstrong, Walter and Lynn Nadel, 2011, *Conscious Will and Responsibility: A Tribute to Benjamin Libet*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195381641.001.0001
-* Slote, Michael, 1982, “Selective Necessity and the Free Will Problem”, *Journal of Philosophy*, 79(1): 5–24. doi:10.2307/2026343
+* Sinnott-Armstrong, Walter and Lynn Nadel, 2011, *Conscious Will and Responsibility: A Tribute to Benjamin Libet*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195381641.001.0001
+* Slote, Michael, 1982, “Selective Necessity and the Free Will Problem”, *Journal of Philosophy*, 79(1): 5–24. doi: 10.2307/2026343
 * Smilansky, Saul, 2000, *Free Will and Illusion*, Oxford: Clarendon Press.
 * Smith, Michael, 1997, “A Theory of Freedom and Responsibility”, in *Ethics and Practical Reason*, Garrett Cullity & Berys Gaut (eds.), New York: Clarendon Press.
-* –––, 2004, “Rational Capacities”, in his *Ethics and the A Priori: Selected Essays on Moral Psychology and Meta-Ethics*, New York: Cambridge University Press. doi:10.1017/CBO9780511606977.008
+* –––, 2004, “Rational Capacities”, in his *Ethics and the A Priori: Selected Essays on Moral Psychology and Meta-Ethics*, New York: Cambridge University Press. doi: 10.1017/CBO9780511606977.008
 * Speak, Daniel, 2011, “The Consequence Argument Revisited”, in Kane 2011b: 115–128.
-* Spencer, Jack, 2017, “Able to Do the Impossible”, *Mind*, 126(502): 466–497. doi:10.1093/mind/fzv183
+* Spencer, Jack, 2017, “Able to Do the Impossible”, *Mind*, 126(502): 466–497. doi: 10.1093/mind/fzv183
 * Spitzley, Jay, 2015, “Why Pereboom’s Four-Case Manipulation Argument is Manipulative”, *Journal of Cognition and Neuroethics*, 3(1): 363–382. [[Spitzley 2015 available online](http://jcn.cognethic.org/jcnv3i1_Spitzley.pdf)]
-* Sripada, Chandra Sekhar, 2012, “What Makes a Manipulated Agent Unfree?”, *Philosophy and Phenomenological Research*, 85(3): 563–593. doi:10.1111/j.1933-1592.2011.00527.x
-* Steward, Helen, 2009, “Fairness, Agency, and the Flicker of Freedom”, *Noûs*, 43(1): 64–93. doi:10.1111/j.1468-0068.2008.01696.x
-* –––, 2012, *A Metaphysics for Freedom*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552054.001.0001
-* Strawson, Galen, 1986, *Freedom and Belief*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199247493.001.0001
-* –––, 1994, “The Impossibility of Ultimate Moral Responsibility”, *Philosophical Studies*, 75(1–2): 5–24. Reprinted in Pereboom 2009a: 21, and Russell & Deery 2013: ch. 19. doi:10.1007/BF00989879
+* Sripada, Chandra Sekhar, 2012, “What Makes a Manipulated Agent Unfree?”, *Philosophy and Phenomenological Research*, 85(3): 563–593. doi: 10.1111/j.1933-1592.2011.00527.x
+* Steward, Helen, 2009, “Fairness, Agency, and the Flicker of Freedom”, *Noûs*, 43(1): 64–93. doi: 10.1111/j.1468-0068.2008.01696.x
+* –––, 2012, *A Metaphysics for Freedom*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552054.001.0001
+* Strawson, Galen, 1986, *Freedom and Belief*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199247493.001.0001
+* –––, 1994, “The Impossibility of Ultimate Moral Responsibility”, *Philosophical Studies*, 75(1–2): 5–24. Reprinted in Pereboom 2009a: 21, and Russell & Deery 2013: ch. 19. doi: 10.1007/BF00989879
 * Strawson, Peter F., 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 187–211. Reprinted in Watson 2003: ch. 4 and Pereboom 2009a: ch. 13.
 * Swartz, Norman, 1986, *The Concept of Physical Law*, Cambridge: Cambridge University Press.
-* Taylor, Richard, 1962, “Fatalism”, *The Philosophical Review*, 71(1): 56–66. doi:10.2307/2183681
-* Todd, Patrick, 2013, “Defending a (modified version of) the Zygote Argument”, *Philosophical Studies*, 164(1): 189–203. doi:10.1007/s11098-011-9848-5
-* Todd, Patrick, 2017, “Manipulation Arguments and the Freedom to do Otherwise”, *Philosophy and Phenomenological Research*, 95(2): 395–407. doi:10.1111/phpr.12298
-* Tognazzini, Neal A., 2014, “The Structure of a Manipulation Argument”, *Ethics* , 124(2): 358–369. doi:10.1086/673434
-* Tognazzini, Neal A. and John Martin Fischer, 2017, “Incompatibilism and the Fixity of the Past”, in Keller 2017: 140–148. doi:10.1093/acprof:oso/9780198715702.003.0008
+* Taylor, Richard, 1962, “Fatalism”, *The Philosophical Review*, 71(1): 56–66. doi: 10.2307/2183681
+* Todd, Patrick, 2013, “Defending a (modified version of) the Zygote Argument”, *Philosophical Studies*, 164(1): 189–203. doi: 10.1007/s11098-011-9848-5
+* Todd, Patrick, 2017, “Manipulation Arguments and the Freedom to do Otherwise”, *Philosophy and Phenomenological Research*, 95(2): 395–407. doi: 10.1111/phpr.12298
+* Tognazzini, Neal A., 2014, “The Structure of a Manipulation Argument”, *Ethics* , 124(2): 358–369. doi: 10.1086/673434
+* Tognazzini, Neal A. and John Martin Fischer, 2017, “Incompatibilism and the Fixity of the Past”, in Keller 2017: 140–148. doi: 10.1093/acprof: oso/9780198715702.003.0008
 * Tomberlin, James (ed.), 2000, *Action and Freedom*, (*Philosophical Perspectives*, a supplement to *Noûs*, vol. 14), Malden, MA: Blackwell Publishing.
-* Van Cleve, James, 2019, “Lewis and Taylor as Partners in Sin”, *Acta Analytica*, 34(2):165–175. doi: 10.1007/s12136-018-0367-2
-* van Inwagen, Peter, 1975, “The Incompatibility of Free Will and Determinism”, *Philosophical Studies*, 27(3): 185–199. Reprinted in Pereboom 2009a: ch. 17. doi:10.1007/BF01624156
-* ––– (ed.), 1980, *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: Reidel. doi:10.1007/978-94-017-3528-5
+* Van Cleve, James, 2019, “Lewis and Taylor as Partners in Sin”, *Acta Analytica*, 34(2): 165–175. doi: 10.1007/s12136-018-0367-2
+* van Inwagen, Peter, 1975, “The Incompatibility of Free Will and Determinism”, *Philosophical Studies*, 27(3): 185–199. Reprinted in Pereboom 2009a: ch. 17. doi: 10.1007/BF01624156
+* ––– (ed.), 1980, *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: Reidel. doi: 10.1007/978-94-017-3528-5
 * –––, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
 * –––, 1998, “The Mystery of Metaphysical Freedom”, in van Inwagen & Zimmerman 1998: 365–373.
 * –––, 2000, “Free Will Remains a Mystery”, in Tomberlin 2000: 1–19. Reprinted in van Inwagen 2017.
-* –––, 2004a, “Freedom to Break the Laws”, *Midwest Studies in Philosophy*, 28: 334–350. doi:10.1111/j.1475-4975.2004.00099. Reprinted in van Inwagen 2017.
+* –––, 2004a, “Freedom to Break the Laws”, *Midwest Studies in Philosophy*, 28: 334–350. doi: 10.1111/j.1475-4975.2004.00099. Reprinted in van Inwagen 2017.
 * –––, 2004b, “Van Inwagen on Free Will ”, in Campbell, O’Rourke, & Shier 2004: 213–230. Reprinted in van Inwagen 2017.
-* –––, 2008, “How to Think about the Problem of Free Will”, *The Journal of Ethics*, 12(3–4): 327–341. doi:10.1007/s10892-008-9038-7. Reprinted in van Inwagen 2017.
+* –––, 2008, “How to Think about the Problem of Free Will”, *The Journal of Ethics*, 12(3–4): 327–341. doi: 10.1007/s10892-008-9038-7. Reprinted in van Inwagen 2017.
 * –––, 2011, “A Promising Argument”, in Kane 2011b: 475–481. Reprinted in van Inwagen 2017.
 * –––, 2017, *Thinking About Free Will* , Cambridge: Cambridge University Press.
 * van Inwagen, Peter and Dean W. Zimmerman (eds.), 2008, *Metaphysics: The Big Questions*, Oxford: Blackwell Publishing.
 * Vargas, Manuel, 2013, “How to Solve the Problem of Free Will”, in Russell & Deery 2013: ch. 21.
-* Vihvelin, Kadri, 1988, “The Modal Argument for Incompatibilism”, *Philosophical Studies*, 53(2): 227–244. doi:10.1007/BF00354642
+* Vihvelin, Kadri, 1988, “The Modal Argument for Incompatibilism”, *Philosophical Studies*, 53(2): 227–244. doi: 10.1007/BF00354642
 * –––, 1990, “Freedom, Necessity, and Laws of Nature as Relations between Universals”, *Australasian Journal of Philosophy*, 68(4): 371–381. doi: 10.1080/00048409012344381
-* –––, 2000, “Freedom, Foreknowledge, and the Principle of Alternate Possibilities”, *Canadian Journal of Philosophy* 30(1): 1–24. doi:10.1080/00455091.2000.10717523
-* –––, 2004, “Free Will Demystified: A Dispositional Account”, *Philosophical Topics*, 32(1–2): 427–450. Reprinted in Russell & Deery 2013: ch. 9. doi:10.5840/philtopics2004321/211
+* –––, 2000, “Freedom, Foreknowledge, and the Principle of Alternate Possibilities”, *Canadian Journal of Philosophy* 30(1): 1–24. doi: 10.1080/00455091.2000.10717523
+* –––, 2004, “Free Will Demystified: A Dispositional Account”, *Philosophical Topics*, 32(1–2): 427–450. Reprinted in Russell & Deery 2013: ch. 9. doi: 10.5840/philtopics2004321/211
 * –––, 2008, “Compatibilism, Incompatibilism, and Impossibilism”, in Sider, Hawthorne, Zimmerman 2008.
-* –––, 2011, “How to Think about the Free Will/Determinism Problem”, in Campbell, O’Rourke, & Slater 2011: 313–340. doi:10.7551/mitpress/9780262015936.003.0014
-* –––, 2013, *Causes, Laws, and Free Will: Why Determinism Doesn’t Matter*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199795185.001.0001
+* –––, 2011, “How to Think about the Free Will/Determinism Problem”, in Campbell, O’Rourke, & Slater 2011: 313–340. doi: 10.7551/mitpress/9780262015936.003.0014
+* –––, 2013, *Causes, Laws, and Free Will: Why Determinism Doesn’t Matter*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199795185.001.0001
 * –––, 2017, “How the Laws Constrain: Causation, Counterfactuals, and Free Will”, *Free Will and Causation, Philosophie de la Connaissance*, edited by Claudine Tiercelin, Paris: College de France Press.
-* –––, 2020, “Killing Time Again”, *The Monist* 103(3): 312–327. doi:10.1093/monist/onaa006
+* –––, 2020, “Killing Time Again”, *The Monist* 103(3): 312–327. doi: 10.1093/monist/onaa006
 * Warfield, Ted A., 2000, “Causal Determinism and Human Freedom are Incompatible: A New Argument for Incompatibilism”, in Tomberlin 2000: 167–180.
 * –––, 2003, “Compatibilism and Incompatibilism: Some Arguments”, in *The Oxford Handbook of Metaphysics*, Michael J. Loux and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 614–630.
-* Watson, Gary, 1975, “Free Agency”, *Journal of Philosophy*, 72(8): 205–220. Reprinted in Watson 2003: ch. 17 and Watson 2004: ch. 1. doi:10.2307/2024703
-* –––, 1987, “Free Action and Free Will”, *Mind*, 96(382): 145–72. Reprinted in Watson 2004: ch. 6. doi:10.1093/mind/XCVI.382.145
-* –––, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248. Reprinted in Watson 2004: ch. 9. doi:10.5840/philtopics199624222
+* Watson, Gary, 1975, “Free Agency”, *Journal of Philosophy*, 72(8): 205–220. Reprinted in Watson 2003: ch. 17 and Watson 2004: ch. 1. doi: 10.2307/2024703
+* –––, 1987, “Free Action and Free Will”, *Mind*, 96(382): 145–72. Reprinted in Watson 2004: ch. 6. doi: 10.1093/mind/XCVI.382.145
+* –––, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248. Reprinted in Watson 2004: ch. 9. doi: 10.5840/philtopics199624222
 * –––, (ed.), 2003, *Free Will*, second edition, Oxford: Oxford University Press.
-* –––, 2004, *Agency and Answerability: Selected Essays*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199272273.001.0001
+* –––, 2004, *Agency and Answerability: Selected Essays*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199272273.001.0001
 * Wegner, Daniel, 2003, *The Illusion of Conscious Will*, Cambridge, MA: Bradford Books, MIT Press.
-* Westphal, Jonathan, 2006, “The Future and the Truth-Value Links: A Common Sense View”, *Analysis*, 66: 1–9. doi:10.1093/analys/66.1.1
-* –––, 2012, “Is There a Modal Fallacy in van Inwagen’s ‘First Formal Argument’?”, *Analysis*, 72(1): 36–41. doi:10.1093/analys/anr138
-* Whittle, Ann, 2016, “Ceteris Paribus, I Could Have Done Otherwise”, *Philosophy and Phenomenological Research*, 92(1): 73–85. doi:10.1111/phpr.12111
+* Westphal, Jonathan, 2006, “The Future and the Truth-Value Links: A Common Sense View”, *Analysis*, 66: 1–9. doi: 10.1093/analys/66.1.1
+* –––, 2012, “Is There a Modal Fallacy in van Inwagen’s ‘First Formal Argument’?”, *Analysis*, 72(1): 36–41. doi: 10.1093/analys/anr138
+* Whittle, Ann, 2016, “Ceteris Paribus, I Could Have Done Otherwise”, *Philosophy and Phenomenological Research*, 92(1): 73–85. doi: 10.1111/phpr.12111
 * –––, 2021, *Freedom and Responsibility in Context*, Oxford: Oxford University Press.
 * Wilson, Jessica, 2014, “Hume’s Dictum and the Asymmetry of Counterfactual Dependence”, in *Chance and Temporal Asymmetry*, edited by Jessica M. Wilson, Oxford: Oxford University Press, 258–279.
 * Wolf, Susan, 1987, “Sanity and the Metaphysics of Responsibility”, in *Responsibility, Character, and Emotions*, Ferdinand David Schoeman (ed.), Cambridge: Cambridge University Press, 46–62. Reprinted in Russell & Deery 2013: ch. 15.
 * –––, 1990, *Freedom within Reason*, Oxford: Oxford University Press.
-* Widerker, David, 1987, “On an Argument for Incompatibilism”, *Analysis*, 47(1): 37–41. doi:10.1093/analys/47.1.37
-* –––, 1995, “Libertarianism and Frankfurt’s Attack on the Principle of Alternative Possibilities”, *The Philosophical Review*, 104(2): 247–261. Reprinted in Watson 2003: ch. 9. doi:10.2307/2185979
+* Widerker, David, 1987, “On an Argument for Incompatibilism”, *Analysis*, 47(1): 37–41. doi: 10.1093/analys/47.1.37
+* –––, 1995, “Libertarianism and Frankfurt’s Attack on the Principle of Alternative Possibilities”, *The Philosophical Review*, 104(2): 247–261. Reprinted in Watson 2003: ch. 9. doi: 10.2307/2185979
 * Widerker, David and Michael McKenna (eds.), 2003, *Moral Responsibility and Alternative Possibilities*, Burlington, VT: Ashgate Publishing Company.
 * Wiggins, David, 1973, “Towards a Reasonable Libertarianism”, in *Essays on Freedom of Action*, Ted Honderich (ed.), London: Routledge & Kegan Paul. Reprinted in Watson 2003: ch. 5.
 

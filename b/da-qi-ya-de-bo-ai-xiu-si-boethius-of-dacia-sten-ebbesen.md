@@ -10,13 +10,13 @@
 
 ### 1.1 生平
 
-达西亚的波爱修斯，拉丁文中的波爱修斯·德达西亚或波爱修斯·达库斯（“来自丹麦/丹麦人”）是 1270 年代初期巴黎大学的文学硕士，可能早在 1260 年代末期就已经在那里学习。除了他的国籍外，关于他的背景一无所知。他的拉丁化名很可能是对丹麦名字“Bo”的翻译。20 世纪的一些学者将他称为“瑞典的波爱修斯”，但这是对证据的误解，正如詹森（1963 年）所指出的。
+达西亚的波爱修斯，拉丁文中的波爱修斯 · 德达西亚或波爱修斯 · 达库斯（“来自丹麦/丹麦人”）是 1270 年代初期巴黎大学的文学硕士，可能早在 1260 年代末期就已经在那里学习。除了他的国籍外，关于他的背景一无所知。他的拉丁化名很可能是对丹麦名字“Bo”的翻译。20 世纪的一些学者将他称为“瑞典的波爱修斯”，但这是对证据的误解，正如詹森（1963 年）所指出的。
 
-根据近代证据，波爱修斯与布拉班特的西格尔一起，是 1277 年 3 月巴黎主教斯蒂芬·坦皮尔发布的一份禁止教授的 219 个论题清单的主要目标之一（Hisette 1977: 11f.）。现代研究确实证实，清单中的几个项目反映了波爱修斯的著作中的段落（Hisette 1977; Piché 1999）。不知道波爱修斯是否在 1277 年仍然活着；他可能在此之前去世或离开了法国，因为在 1276 年 11 月，作为谴责的前奏，法国宗教裁判官西蒙·杜瓦尔传唤了一些文学硕士，其中包括西格尔，但没有包括波爱修斯。一份 14 世纪的多明我会作家作品目录（“斯坦姆斯目录”）中包括了波爱修斯的作品，所以有可能在文学院的职业生涯之后，他成为了一名修士。
+根据近代证据，波爱修斯与布拉班特的西格尔一起，是 1277 年 3 月巴黎主教斯蒂芬 · 坦皮尔发布的一份禁止教授的 219 个论题清单的主要目标之一（Hisette 1977: 11f.）。现代研究确实证实，清单中的几个项目反映了波爱修斯的著作中的段落（Hisette 1977; Piché 1999）。不知道波爱修斯是否在 1277 年仍然活着；他可能在此之前去世或离开了法国，因为在 1276 年 11 月，作为谴责的前奏，法国宗教裁判官西蒙 · 杜瓦尔传唤了一些文学硕士，其中包括西格尔，但没有包括波爱修斯。一份 14 世纪的多明我会作家作品目录（“斯坦姆斯目录”）中包括了波爱修斯的作品，所以有可能在文学院的职业生涯之后，他成为了一名修士。
 
 ### 1.2 与前辈和同时代人的关系
 
-达西亚的波爱修斯是一个非常独立的思想家，并且自觉如此。除了对阿尔伯特大师的一个不清楚的提及外，波爱修斯从未提到过同时代人或近期前辈，迄今只有一个影响来源被确定为阿尔伯特大师。然而，阿尔伯特的影响只在《气象学》第四卷的问题中显而易见（参见 Fioravanti 1979），而且只涉及一些哲学上不太重要的问题。在其余的作品中，一些段落可能表明受到托马斯·阿奎那（《异教徒反驳》、《神学大全》）的影响，但学界对此问题尚无共识。
+达西亚的波爱修斯是一个非常独立的思想家，并且自觉如此。除了对阿尔伯特大师的一个不清楚的提及外，波爱修斯从未提到过同时代人或近期前辈，迄今只有一个影响来源被确定为阿尔伯特大师。然而，阿尔伯特的影响只在《气象学》第四卷的问题中显而易见（参见 Fioravanti 1979），而且只涉及一些哲学上不太重要的问题。在其余的作品中，一些段落可能表明受到托马斯 · 阿奎那（《异教徒反驳》、《神学大全》）的影响，但学界对此问题尚无共识。
 
 在现代历史学中，波爱修斯被贴上了“阿维罗主义者”、“激进派”或“异端亚里士多德主义者”的标签，并与布拉班特的西格尔共享这些标签。然而，“阿维罗主义者”这个标签几乎没有什么可推荐的。与他的同时代人一样，波爱修斯尊重并使用阿维罗斯，但他并没有将他视为权威作者中的特殊地位（参见 Bianchi 2017）。特别是，没有迹象表明他捍卫了被认为是阿维罗斯标志性理论的全人类物质智力的教义，在他关于梦的论文中，他与所有已知的近代人完全不同，完全忽视了阿维罗斯对梦的预测价值的乐观观点。形容词“异端”或“激进的亚里士多德主义者”隐含着“正统和温和如阿奎那”这一对立观点，因此只有从某种宗教观点来看才有意义。波爱修斯非常是一个亚里士多德主义者，但是，正如当时的常态一样，他的亚里士多德主义包含了源自阿维森纳和新柏拉图主义的元素。西格尔和波爱修斯是同时代人，教授同样的权威书籍，因此他们不可避免地分享了一些标准假设和讨论话题，但在哲学上他们并不特别亲近。
 
@@ -50,9 +50,9 @@
 
 ### 自然哲学
 
-13. *§ Quaestiones super libros Physicorum（“Quaest. Ph.”）。只有部分保存。Géza Sajó在 CPhD V.2, 1974 中进行了编辑。文本相当损坏，并且存在一些编辑错误。请参阅 CPhD IX 中的更正。
+13. *§ Quaestiones super libros Physicorum（“Quaest. Ph.”）。只有部分保存。Géza Sajó 在 CPhD V.2, 1974 中进行了编辑。文本相当损坏，并且存在一些编辑错误。请参阅 CPhD IX 中的更正。
 14. § 关于《天界与世界》的问题。
-15. *§ 关于《生成与毁灭》的问题。仅部分保存。由 Géza Sajó在 CPhD V.1, 1972 年出版。文本相当损坏，并且存在一些编辑错误。请参阅 CPhD IX 中的更正。
+15. *§ 关于《生成与毁灭》的问题。仅部分保存。由 Géza Sajó 在 CPhD V.1, 1972 年出版。文本相当损坏，并且存在一些编辑错误。请参阅 CPhD IX 中的更正。
 16.  
 
      * 关于《第四篇气象学》的问题。由 Gianfranco Fioravanti 在 CPhD VIII, 1979 年出版。
@@ -74,7 +74,7 @@
 
 ### 伦理学
 
-25. † Quaestiones morales. 关于或与Nicomachean Ethics相关的问题。
+25. † Quaestiones morales. 关于或与 Nicomachean Ethics 相关的问题。
 26.  
 
      * De summo bono (“关于至善”). Niels Jørgen Green-Pedersen 在 CPhD VI.2, 1976 中的版本。翻译成丹麦语（Green-Pedersen 2001），英语（Wippel 1987），德语（Wöhler 1990），法语（Imbach 1986; Imbach & Fouche 2006），意大利语（Fioravanti 1984, Bottin 1989）。
@@ -95,7 +95,7 @@
 
 波爱修斯在“事物”（res）上运作，抽象程度如此之高，以至于像阿维森纳的本质或共同的本质一样，它们在特殊性或普遍性方面是不确定的，但具有存在方式（modi essendi），要么是这样，要么是那样；因此，具体术语 album“（某物）白色”和抽象术语 albedo“白度”表示相同的意思，尽管以不同的方式，反映了该“事物”的两种不同的存在方式（Ebbesen 1988）。另一方面，他明确表示世界的基本构成是个别事物，并且虽然相信本质，但拒绝将其实体化：他拒绝了存在（esse）对本质的偶然性的概念，并且拒绝了一个未实例化的普遍性可以通过某种“本质存在”（esse essentiale）作为命题的验证者的观点，正如他的一些同时代人所声称的那样。
 
-普通事物，包括人类，是物质和形式的化合物。人类的形式，即灵魂，具有几个功能，但它不是由几个形式的化合物组成——一个像无机物一样的形式，一个像植物一样的形式，一个像非理性动物一样的形式，最后一个是智力：——它是一个相同的形式实体，负责处理波爱修斯的一些同时代人分配给整个灵魂的半独立部分的不同功能。在这一点上，他与托马斯·阿奎那一致。他还认为智力是一个永恒的实体，可以与身体分离，但是，他说，那时它就不再是一个形式和一个灵魂。因此，无论以哪种方式某人的智力在人死后继续存在作为一个实体，似乎它都不再是人类的。波爱修斯在他保存下来的著作中并没有详细阐述如何理解人类智力在死后的持续存在，但无论他对这个问题有何看法，他的理论几乎不可能为人类个体的身体复活留下空间，而在他自己的观点中，这是可以接受的（见§3.3.2，下文）。这必须留给信仰。（有关本段所讨论的问题，请参见特别是 Wielockx 2009: 50–55。人类形式的统一在 sophisma Omnis homo &c.中得到了坚决的捍卫）。
+普通事物，包括人类，是物质和形式的化合物。人类的形式，即灵魂，具有几个功能，但它不是由几个形式的化合物组成——一个像无机物一样的形式，一个像植物一样的形式，一个像非理性动物一样的形式，最后一个是智力：——它是一个相同的形式实体，负责处理波爱修斯的一些同时代人分配给整个灵魂的半独立部分的不同功能。在这一点上，他与托马斯 · 阿奎那一致。他还认为智力是一个永恒的实体，可以与身体分离，但是，他说，那时它就不再是一个形式和一个灵魂。因此，无论以哪种方式某人的智力在人死后继续存在作为一个实体，似乎它都不再是人类的。波爱修斯在他保存下来的著作中并没有详细阐述如何理解人类智力在死后的持续存在，但无论他对这个问题有何看法，他的理论几乎不可能为人类个体的身体复活留下空间，而在他自己的观点中，这是可以接受的（见 §3.3.2，下文）。这必须留给信仰。（有关本段所讨论的问题，请参见特别是 Wielockx 2009: 50–55。人类形式的统一在 sophisma Omnis homo &c.中得到了坚决的捍卫）。
 
 ### 3.2 语言
 
@@ -131,11 +131,11 @@
 
 在大学的辩论中，“真实”答案的判断取决于特定类型辩论的规则。在辩证法中，只有当命题是可能的时，被回答者才应该接受；在这种情况下，即使在现实中命题是正确的，接受一个不可能的命题也等同于说谎（mentiri）（Quaest. Top., 139）。在特定科学中的类似情况是接受与该科学原则相悖的命题。这是（亚里士多德的）物理学的一个基本原则，即每一次运动都需要先前的运动，因此声称曾经有过第一次运动在物理学中必须被视为错误的。
 
-这意味着即使基督教神学，或者正如波爱修斯通常所说的“信仰”，是一门科学，它的一些教义也不能被纳入任何自然科学中。世界的时间起源（创造）是不可能的，同样，第一个人类的存在不能没有被生成。科学也没有容纳肉体的复活，因为在科学语言中，这意味着一个个体可以“腐败”然后再以相同的方式回归，而这与亚里士多德的生成与腐败科学是不相容的（参见§3.4）。
+这意味着即使基督教神学，或者正如波爱修斯通常所说的“信仰”，是一门科学，它的一些教义也不能被纳入任何自然科学中。世界的时间起源（创造）是不可能的，同样，第一个人类的存在不能没有被生成。科学也没有容纳肉体的复活，因为在科学语言中，这意味着一个个体可以“腐败”然后再以相同的方式回归，而这与亚里士多德的生成与腐败科学是不相容的（参见 §3.4）。
 
 事实上，信仰并非科学（知识）——fides non est scientia（De aetern., 366）——并且不可能存在关于神的综合科学。形而上学可能是一个候选者，因为所有科学都服从于形而上学，作为形而上学家，哲学家将知道存在第一原因（与他的同时代人一样，波爱修斯认为因果链不能无限）。然而，知道存在第一原因并不意味着以一种程度来了解它，以至于可以将其捕捉在定义中，限定其可能的影响，并用作亚里士多德演绎的前提——这将要求它具有可以通过其来了解的原因。没有这样的知识是可能的，这将等同于了解神的意愿，而这是无法通过理性调查来获得的。因此，由于第一原因基本上是不可知的，不可能简单地将较低科学的公理推导为形而上学的定理。
 
-科学必须按照亚里士多德的方式建立，并且它们的定理必须被接受为真实。我们别无选择。但它们只有在它们的公理为真时才是真实的，这些公理可能是对现实的不完美近似，因为它们并非源自对第一原因的全面理解，并且内在地假设了它们所提到的事物在现实中存在（见下文§3.3.3）。
+科学必须按照亚里士多德的方式建立，并且它们的定理必须被接受为真实。我们别无选择。但它们只有在它们的公理为真时才是真实的，这些公理可能是对现实的不完美近似，因为它们并非源自对第一原因的全面理解，并且内在地假设了它们所提到的事物在现实中存在（见下文 §3.3.3）。
 
 然而，某些宗教信条在科学中没有位置，并不意味着科学家不能成为信徒。对因果系统的分析表明，第一原因可能具有无法解释的影响，人们可以相信信仰所声称的任何这种影响是真实的，尽管它们无法解释并与科学相冲突。启示所提供的关于它们的信息必须被接受为无条件的事实。对于信仰的科学家来说，信仰的真理是无条件的，科学的真理只有在有条件的情况下才是真实的。但我们仍然需要科学来理解我们的世界。
 
@@ -205,13 +205,13 @@
 
 ### 3.6 伦理学
 
-波爱修斯失传的《道德问题》可能是对亚里士多德的问题评论，其中他可能讨论了人类的自由意志，因为在其他地方他说这个主题属于伦理学。但特别是，他很可能集中讨论了至高善（=幸福）的本质，对此他（后来，可能）专门写了一篇小论文。
+波爱修斯失传的《道德问题》可能是对亚里士多德的问题评论，其中他可能讨论了人类的自由意志，因为在其他地方他说这个主题属于伦理学。但特别是，他很可能集中讨论了至高善（= 幸福）的本质，对此他（后来，可能）专门写了一篇小论文。
 
 《论至善》是对这样一个论点的激情辩护，即理想的生活是一个智者、哲学家的生活，他一生都在追求真理。这是一部修辞的杰作，包含了拉丁文文学中最长的句子之一，让读者悬念了大约两页。根据波爱修斯的说法，对人来说，最高的善就是“认识真理、行善，并对两者都感到愉悦”。通过专注于追求真理，哲学家以道德正确的方式行动(a)是因为他对基本和高尚的洞察力，(b)是因为他专注于理论工作并享受它，他不会被感官的欢愉所诱惑，(c)是因为与其他活动相反，理论化不能过度。因此，哲学家“生活得像人类生来就应该生活的那样”。
 
 特别关注哲学家对第一因素（即上帝）的知识追求，但波爱修斯声称我们所能知道的实际上只是它/他是所有存在物的“产生”之因，是它们在存在链中的相互顺序和它们的保持之因（参见 3.1 节）。
 
-波爱修斯的论证主要基于亚里士多德的功用论证：对于人类来说，最高的善就是充分发展人类特有的能力，即我们的理性或智力，其中有许多Nicomachean Ethics X 的回响，但他对哲学家为什么会行善的解释与亚里士多德坚持伦理学不是一门理论科学，习惯化对于使人们具有美德至关重要的观点不太相容。
+波爱修斯的论证主要基于亚里士多德的功用论证：对于人类来说，最高的善就是充分发展人类特有的能力，即我们的理性或智力，其中有许多 Nicomachean Ethics X 的回响，但他对哲学家为什么会行善的解释与亚里士多德坚持伦理学不是一门理论科学，习惯化对于使人们具有美德至关重要的观点不太相容。
 
 达西亚的波爱修斯所关注的幸福完全是世俗的。未来的生活只在一次提到，以一种模棱两可的话语表达，即越能在此生中获得理性告诉我们可能存在的幸福，就越接近信仰让我们期待的来世的幸福。这可能意味着善行能够提高人在末日的机会，但也可能只是意味着哲学家幸福的沉思生活是对神圣幸福愿景的最接近的近似。
 
@@ -225,13 +225,13 @@
 
 在 1290 年代，富有的学者 Fontaines 的杰弗里亲自写下了 Boethius' Modi Significandi 的摘要，关于 Topics 和 De anima I-II 的问题，以及 opuscula（请参阅版本的介绍）。
 
-达西亚的波爱修斯的意义修辞学在 13 世纪有六份现存副本，14 世纪有五份，15 世纪有两份，证明其影响广泛。波爱修斯的强烈影响在匿名的普里西安小注释《我们天生就有》中得到了证实，他被称为“一个著名的人”（Pinborg 1967: 93–4）。约翰·达西亚的《语法总论》（1280 年）虽然更多地依赖于马丁·达西亚的意义修辞学，但也对波爱修斯有很大的债务（Pinborg 1967: 87）。根据 Pinborg（1967: 91–2）的说法，波爱修斯还在迈克尔·马尔拜斯的《意义修辞总论》上留下了自己的痕迹，但这一点受到了质疑（Kelly 1995: XLV）。
+达西亚的波爱修斯的意义修辞学在 13 世纪有六份现存副本，14 世纪有五份，15 世纪有两份，证明其影响广泛。波爱修斯的强烈影响在匿名的普里西安小注释《我们天生就有》中得到了证实，他被称为“一个著名的人”（Pinborg 1967: 93–4）。约翰 · 达西亚的《语法总论》（1280 年）虽然更多地依赖于马丁 · 达西亚的意义修辞学，但也对波爱修斯有很大的债务（Pinborg 1967: 87）。根据 Pinborg（1967: 91–2）的说法，波爱修斯还在迈克尔 · 马尔拜斯的《意义修辞总论》上留下了自己的痕迹，但这一点受到了质疑（Kelly 1995: XLV）。
 
 对《论题问题》的研究长期以来一直有相当数量的读者，从 13 世纪到 15 世纪有 11 份手稿，此外还有杰弗里的摘要，并且在 15 世纪仍有引用（Green-Pedersen 1984: 388–9）。
 
 对《物理学》、《论成生与灭亡》（“GC”）、《天文学》和《灵魂论》的注释只有各自一份手稿保存下来，因此可能影响较小。《物理学》和《GC》的注释在同一份手稿中传递，反复讨论了诸如世界的永恒性之类的有争议的问题。《GC》的最后一个问题几乎完全被划掉，可能是所有者对 1277 年的谴责的反应，因为问题的标题是“第一次运动是否可以永恒”，从问题的剩余部分可以清楚地看出，波爱修斯认为，从科学的角度来看，世界不能是“新的”，尽管根据信仰是如此。这两部作品的其他副本可能存在，但对被教会当局指控的恐惧可能阻止了在谴责之后制作新的副本。
 
-达西亚的波爱修斯的失落问题在一套匿名的问题集中被发现，这可能是来自 1270 年代的（Fioravanti 2009）。只有少数几本手稿传递了《论世界的永恒性》和《论梦境》，而《论至善》则有二十多个文本见证，其成功得到了一个常见的错误归属于著名的六世纪罗马人马尼乌斯·波爱修斯，以及一些手稿归属于托马斯·阿奎那。最后，只有一本手稿携带了“推理”的谬误，而“每个人都是人…”在两本手稿中发现，但其中一本手稿的文本已经被稍后的学者修订和扩大。
+达西亚的波爱修斯的失落问题在一套匿名的问题集中被发现，这可能是来自 1270 年代的（Fioravanti 2009）。只有少数几本手稿传递了《论世界的永恒性》和《论梦境》，而《论至善》则有二十多个文本见证，其成功得到了一个常见的错误归属于著名的六世纪罗马人马尼乌斯 · 波爱修斯，以及一些手稿归属于托马斯 · 阿奎那。最后，只有一本手稿携带了“推理”的谬误，而“每个人都是人…”在两本手稿中发现，但其中一本手稿的文本已经被稍后的学者修订和扩大。
 
 1277 年的谴责并没有使艺术大师们停止在每个权威书籍的问题课程中以介绍性讲座赞扬这位哲学家的生活，实际上大多数人保持了波爱修斯在科学和信仰之间的区别，尽管没有他具有挑衅性的表述。
 
@@ -263,21 +263,21 @@ See [section 2](https://plato.stanford.edu/entries/boethius-dacia/#Work), above
 
 ### Secondary Literature
 
-* Beuerle, Angela, 2010, *Sprachdenken im Mittelalter* (Studia Linguistica Germanica, 99), Berlin/New York: De Gruyter. doi:10.1515/9783110215021
-* Bianchi, Luca, 2002, “Felicità terrena e beatitudine ultraterrena. Boezio di Dacia e l’articulo 157 censurato da Tempier”, in *Chemins de la pensée médiévale. Études offertes à Zénon Kaluza*, Paul J. J. M. Bakker, Emmanuel Faye, and Christophe Grellard (ed.), (Textes et Études du Moyen Age, 20), Turnhout: Brepols, pp. 193–214. doi:10.1484/M.TEMA-EB.3.2068
-* –––, 2011, “Figmentum. ‘Fictions de l’intellect’ et science ‘causée par les choses’ chez Boèce de Dacie”, in *Mots médiévaux offerts à Ruedi Imbach*, I. Atucha, D. Calma, C. König-Pralong, and I. Zavattero (eds.), (Textes et Études du Moyen Âge 57), Turnhout: Brepols Publishers, 319–329. doi:10.1484/M.TEMA-EB.4.00905
+* Beuerle, Angela, 2010, *Sprachdenken im Mittelalter* (Studia Linguistica Germanica, 99), Berlin/New York: De Gruyter. doi: 10.1515/9783110215021
+* Bianchi, Luca, 2002, “Felicità terrena e beatitudine ultraterrena. Boezio di Dacia e l’articulo 157 censurato da Tempier”, in *Chemins de la pensée médiévale. Études offertes à Zénon Kaluza*, Paul J. J. M. Bakker, Emmanuel Faye, and Christophe Grellard (ed.), (Textes et Études du Moyen Age, 20), Turnhout: Brepols, pp. 193–214. doi: 10.1484/M.TEMA-EB.3.2068
+* –––, 2011, “Figmentum. ‘Fictions de l’intellect’ et science ‘causée par les choses’ chez Boèce de Dacie”, in *Mots médiévaux offerts à Ruedi Imbach*, I. Atucha, D. Calma, C. König-Pralong, and I. Zavattero (eds.), (Textes et Études du Moyen Âge 57), Turnhout: Brepols Publishers, 319–329. doi: 10.1484/M.TEMA-EB.4.00905
 * –––, 2017, “Boèce de Dacie et Averroès. Essai d’un bilan”, in D. Calma, and Z. Kaluza (eds.), *Regards sur les traditions philosophiques (XIIe – XVIe siècles)*, Leuven: Leuven University Press, pp. 127–151.
 * Calma, Dragos, 2011, “Remarques sur Boethii Daci *Quaestiones super librum de anima I–II*”, in his *Études sur le premier siècle de l’ averroisme latin* (Studia Artistarum, 31), Brepols: Turnhout, pp. 60–76.
 * Darge, Rolf, 2004, “Wie kann die Philosophie uns glücklich machen? Boethius von Dacien und das antike Philosophieideal”, *Freiburger Zeitschrift für Philosophie und Theologie*, 51(1/3): 5–26.
 * Donati, Silvia, 2017, “Boethius von Dacien”, in A. Brungs, V. Mudroch, and P. Schulthess (eds.), *Die Philosophie des Mittelalters, 13. Jahrhundert* (Grundriss der Geschichte der Philosophie, begründet von Friedrich Ueberweg, 4.1), Basel: Schwabe, pp. 419–424.
-* Ebbesen, Sten, 1988, “Concrete Accidental Terms: Late Thirteenth-Century Debates about Problems Relating to Such Terms as “Album’”, in *Meaning and Inference in Medieval Philosophy: Studies in memory of Jan Pinborg*, Norman Kretzmann (ed.), (Synthese Historical Library 32), Dordrecht: Springer Netherlands, 107–174. reprinted in Ebbesen 2009: ch. 8. doi:10.1007/978-94-009-2843-5_5
+* Ebbesen, Sten, 1988, “Concrete Accidental Terms: Late Thirteenth-Century Debates about Problems Relating to Such Terms as “Album’”, in *Meaning and Inference in Medieval Philosophy: Studies in memory of Jan Pinborg*, Norman Kretzmann (ed.), (Synthese Historical Library 32), Dordrecht: Springer Netherlands, 107–174. reprinted in Ebbesen 2009: ch. 8. doi: 10.1007/978-94-009-2843-5_5
 * –––, 1993, “Boethius de Dacia et al. The sophismata in mss Bruges SB 509 and Florence Med.-Laur. S. Croce 12 sin., 3”, in S. Read (ed.), *Sophisms in Medieval Logic and Grammar. Acts of the 9th European Symposium for Medieval Logic and Semantics*, Dordrecht: Kluwer, pp. 45–63.
 * –––, 1998a, “Boethius of Dacia” in *Routledge Encyclopedia of Philosophy*: Vol. 1, London – New York: Routledge, pp. 812–816)
 * –––, 1998b, “The Paris Arts Faculty”, in J. Marenbon (ed.), *Medieval Philosophy* (Routledge History of Philosophy, 3), London–New York: Routledge, pp. 269–290.
-* –––, 2000, “Boethius of Dacia: Science Is a Serious Game”, *Theoria*, 66(2): 145–158. Reprinted in Ebbesen 2009: ch. 9. doi:10.1111/j.1755-2567.2000.tb01160.x
+* –––, 2000, “Boethius of Dacia: Science Is a Serious Game”, *Theoria*, 66(2): 145–158. Reprinted in Ebbesen 2009: ch. 9. doi: 10.1111/j.1755-2567.2000.tb01160.x
 * –––, 2002, *Dansk Middelalderfilosofi* (Den danske filosofis historie: Vol. 1), København: Gyldendal.
-* –––, 2005, “The Man Who Loved Every: Boethius of Dacia on the Logic and Metaphysics”:, *The Modern Schoolman*, 82(3): 235–250. Reprinted in Ebbesen 2009: ch. 10. doi:10.5840/schoolman200582323
-* –––, 2009, *Topics in Latin Philosophy from the 12th–14th centuries: Collected Essays of Sten Ebbesen, Volume 2*, Aldershot: Ashgate. doi:10.4324/9781315236018
+* –––, 2005, “The Man Who Loved Every: Boethius of Dacia on the Logic and Metaphysics”:, *The Modern Schoolman*, 82(3): 235–250. Reprinted in Ebbesen 2009: ch. 10. doi: 10.5840/schoolman200582323
+* –––, 2009, *Topics in Latin Philosophy from the 12th–14th centuries: Collected Essays of Sten Ebbesen, Volume 2*, Aldershot: Ashgate. doi: 10.4324/9781315236018
 * –––, 2012, “Boethius de Dacia”, in *Medieval Nordic Literature in Latin*, Stephan Borgehammar, Kartsten Friis-Jensen, Lars Boje Mortensen & Åslaug Ommundsen (eds.),. [[Ebbesen 2012 available online](https://wiki.app.uib.no/medieval/index.php?title=Boethius_de_Dacia)
 * –––, 2016, “Habitudines locales”, in L. Cesalli, F. Goubier, and A. de Libera (eds.), *Formal Approaches and Natural Language in Medieval logic, Proceedings of the XIXth European Symposium on Medieval Logic and Semantics* (Textes et Études du Moyen Âge: Vol. 82), Barcelona–Roma: Fédération des Instituts d’Études Médiévales, pp. 197–215.
 * –––, forthcoming, “What does a scholastic philosopher do when he disagrees with Aristotle? Commentaries on Aristotle’s Divination through dreams”, in C. Thomsen Thörnqvist, and J. Toivanen (eds.), *Forms of Representation in the Aristotelian Tradition: Vol. 2, Dreaming* (Philosophia Antiqua), Leiden: Brill.
@@ -293,17 +293,17 @@ See [section 2](https://plato.stanford.edu/entries/boethius-dacia/#Work), above
 * Hisette, Roland, 1977, *Enquête sur les 219 articles condamnés à Paris le 7 mars 1277* (Philosophes médiévaux 22), Louvain–Paris: Publications universitaires–Vander-Oyez.
 * Jensen, Søren Skovgaard, 1963, “On the National Origin of the Philosopher Boetius de Dacia”, *Classica et Mediaevalia*, 24: 232–241.
 * Kelly, Louis G., 1995, *Michaelis de Marbasio Summa de modis significandi* (Grammatica Speculativa 5), Stuttgart–Bad Cannstatt: Frommann–Holzboog.
-* Lanza, Lidia and Marco Toste, 2011, “Boethius of Dacia”, in H. Lagerlund (ed.), *Encyclopedia of Medieval Philosophy*, Dordrecht: Springer, pp. 178–182. doi:10.1007/978-1-4020-9729-4_90
+* Lanza, Lidia and Marco Toste, 2011, “Boethius of Dacia”, in H. Lagerlund (ed.), *Encyclopedia of Medieval Philosophy*, Dordrecht: Springer, pp. 178–182. doi: 10.1007/978-1-4020-9729-4_90
 * Libera, Alain de, 2002, “Omnis homo de necessitate est animal. Référence et modalité selon l’Anonymus Erfordensis Q 328 (pseudo-Robert Kilwardby)”, *Archives d’histoire doctrinale et littéraire*, 69: 201–237.
 * Libera, Alain de, and Leone Gazziero 2008, “Le sophisma ‘Omnis homo de necessitate est animal’ du Parisinus latinus 16135, f. 99rb–103vb”, *Archives d’histoire doctrinale et littéraire*, 75: 323–368.
 * Marmo, Costantino, 1994, *Semiotica e linguaggio nella scolastica: Parigi, Bologna, Erfurt 1270-1330*, Roma: Istituto Storico Italiano per il Medio Evo.
-* Mora-Márquez, Ana María, 2014, “Martinus Dacus and Boethius Dacus on the Signification of Terms and the Truth-value of Assertions”, *Vivarium*, 52(1–2): 23–48. doi:10.1163/15685349-12341268
+* Mora-Márquez, Ana María, 2014, “Martinus Dacus and Boethius Dacus on the Signification of Terms and the Truth-value of Assertions”, *Vivarium*, 52(1–2): 23–48. doi: 10.1163/15685349-12341268
 * –––, 2015, *The Thirteenth-Century Notion of Signification: The Discussions and their Origin and Development* (Investigating Medieval Philosophy, 10), Leiden–Boston: Brill.
 * Piché, David, 1999, *La condamnation parisienne de 1277*, Paris: Vrin.
 * Pinborg, Jan, 1967, *Die Entwicklung der Sprachtheorie im Mittelalter* (Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters 42.2), Münster i. W.: Aschendorff.
 * –––, 1974,“Zur Philosophie des Boethius de Dacia. Ein Überblick”, *Studia Mediewiztyczne*, 15: 165–185; reprinted in Jan Pinborg, *Medieval Semantics. Selected Studies on Medieval Logic and Grammar*, London: Variorum, 1984
 * Roos, Heinrich, 1962, “Das Sophisma des Boetius von Dacien ‘Omnis homo de necessitate est animal’ in doppelter Redaktion”, *Classica et Mediaevalia*, 23: 178–197.
-* –––, 1968, “Der Unterschied zwischen Metaphysik und Einzelwissenschaft nach Boethius von Dazien”, in Paul Wilpert (ed.), *Universalismus und Partikularismus im Mittelalter* (Miscellanea Mediaevalia, 5), Berlin: De Gruyter, 1968, pp. 105–120. doi:10.1515/9783110842173.105
+* –––, 1968, “Der Unterschied zwischen Metaphysik und Einzelwissenschaft nach Boethius von Dazien”, in Paul Wilpert (ed.), *Universalismus und Partikularismus im Mittelalter* (Miscellanea Mediaevalia, 5), Berlin: De Gruyter, 1968, pp. 105–120. doi: 10.1515/9783110842173.105
 * Rosier, Irène, 1983, *La grammaire spéculative des Modistes*, Lille: Presses Universitaires de Lille.
 * Rosier-Catach, Irène and Sten Ebbesen, 2004, “Petrus de Alvernia + Boethius de Dacia: Syllogizantem ponendum est terminos”, *Cahiers de l’Institut du Moyen-Âge Grec et Latin*, 75: 161–218.
 * Schick, Stephan, 2013, “Science is a Game that Theologians Can’t Play: Boethius of Dacia’s Semantic Solution to the Problem of Double Truth”, *Classica et Mediaevalia*, 64: 373–408.

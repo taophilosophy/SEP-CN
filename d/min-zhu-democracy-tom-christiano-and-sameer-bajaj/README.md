@@ -28,9 +28,9 @@
 
 ##### 2.1.1.1 相对良好的法律和政策的产生：响应性理论
 
-往往有人争论说，民主决策最能保护受试者的权利或利益，因为它比其他形式的政府更能响应他们的判断或偏好。例如，约翰·斯图尔特·密尔（John Stuart Mill）认为，由于民主赋予每个受试者一定的政治权力，民主迫使决策者考虑到的受试者的权利和利益比贵族制或君主制考虑到的范围更广（密尔，1861 年：第 3 章）。有一些证据表明，随着群体被纳入民主过程，他们的利益在政治体制下得到了更好的推进。例如，当非裔美国人在 1965 年恢复了在美国的选举权后，他们能够从国家获得比以前更多的福利（Wright，2013 年）。经济学家认为，民主促进经济增长（Acemoglu 等，2019 年）。几位当代作者通过指出良好运作的民主制度与核心自由权利（如公正审判权、身体完整权、结社自由权和言论自由权）的强有力保护之间的稳健经验相关性，来捍卫这种工具论的版本（Gaus，1996 年：第 13 章；Christiano，2011 年；Gaus，2011 年：第 22 章）。
+往往有人争论说，民主决策最能保护受试者的权利或利益，因为它比其他形式的政府更能响应他们的判断或偏好。例如，约翰 · 斯图尔特 · 密尔（John Stuart Mill）认为，由于民主赋予每个受试者一定的政治权力，民主迫使决策者考虑到的受试者的权利和利益比贵族制或君主制考虑到的范围更广（密尔，1861 年：第 3 章）。有一些证据表明，随着群体被纳入民主过程，他们的利益在政治体制下得到了更好的推进。例如，当非裔美国人在 1965 年恢复了在美国的选举权后，他们能够从国家获得比以前更多的福利（Wright，2013 年）。经济学家认为，民主促进经济增长（Acemoglu 等，2019 年）。几位当代作者通过指出良好运作的民主制度与核心自由权利（如公正审判权、身体完整权、结社自由权和言论自由权）的强有力保护之间的稳健经验相关性，来捍卫这种工具论的版本（Gaus，1996 年：第 13 章；Christiano，2011 年；Gaus，2011 年：第 22 章）。
 
-阿马蒂亚·森（Amartya Sen）提供了一个相关的民主工具论，他认为在任何拥有民主政府形式和相对自由的新闻媒体的独立国家中，从未发生过重大的饥荒（森，1999 年：152）。
+阿马蒂亚 · 森（Amartya Sen）提供了一个相关的民主工具论，他认为在任何拥有民主政府形式和相对自由的新闻媒体的独立国家中，从未发生过重大的饥荒（森，1999 年：152）。
 
 > no substantial famine has ever occurred in any independent country with a democratic form of government and a relatively free press. (Sen 1999: 152)
 
@@ -46,9 +46,9 @@
 2. 选民投票支持他们认为是正确的决策（真诚假设）；
 3. 投票在统计上是相互独立的（独立假设）。
 
-虽然康多塞的原始证明仅限于只有两个选择的决策，但最近的研究认为 CJT 可以扩展到有三个或更多选择的决策（List＆Goodin 2001）。使用 CJT 来解释民主的可靠性通常被认为源于让-雅克·卢梭的观点，即“如果一个足够了解的公众进行了深思熟虑，而公民之间没有任何交流，那么普遍意愿将始终源于许多小差异，并且讨论将始终是良好的。”（卢梭 1762 年：第三卷，第四章）
+虽然康多塞的原始证明仅限于只有两个选择的决策，但最近的研究认为 CJT 可以扩展到有三个或更多选择的决策（List＆Goodin 2001）。使用 CJT 来解释民主的可靠性通常被认为源于让-雅克 · 卢梭的观点，即“如果一个足够了解的公众进行了深思熟虑，而公民之间没有任何交流，那么普遍意愿将始终源于许多小差异，并且讨论将始终是良好的。”（卢梭 1762 年：第三卷，第四章）
 
-> [i]f, when a sufficiently informed populace deliberates, the citizens were to have no communication among themselves, the general will would always result from the large number of small differences, and the deliberation would always be good. (Rousseau 1762: Book III, ch. IV)
+> [i] f, when a sufficiently informed populace deliberates, the citizens were to have no communication among themselves, the general will would always result from the large number of small differences, and the deliberation would always be good. (Rousseau 1762: Book III, ch. IV)
 
 当代理论家继续依赖 CJT 或其变体来为民主提供正当性（Barry 1965; Cohen 1986; Grofman and Feld 1988; Goodin & Spiekermann 2019）。
 
@@ -56,9 +56,9 @@
 
 基于 CJT 的民主正当化的支持者通常通过尝试发展具有较弱假设的 CJT 变体来回应这些批评。这些假设在民主制度中更容易得到满足，因此修订后的定理可能表明即使是中等规模的选民团体也几乎肯定会产生正确的决策（Grofman & Feld 1988; Austen-Smith 1992; Austen-Smith & Banks 1996）。
 
-民主的第二个常见认知正当性是基于亚里士多德（政治学第二卷第 11 章；参见沃尔德龙 1995）的观点，认为民主程序最能够利用大量公民的认知多样性来解决集体问题。由于民主将许多人纳入决策过程中，它可以利用各种信息和观点来评估提议的法律和政策。最近，埃莱娜·兰德莫尔（2013）借鉴了斯科特·佩奇和卢洪（洪和佩奇 2004；佩奇 2007）的“多样性胜过能力”定理，该定理指出，从一组有限能力代理人的大集合中随机选择的代理人集合通常优于从同一集合中选择的最优代理人集合，从而认为民主可以预期产生比专家统治更好的决策。佩奇和洪的原始定理以及兰德莫尔用它来为民主辩护的观点都存在争议（参见奎尔克 2014；布伦南 2014；汤普森 2014；巴贾伊 2014）。
+民主的第二个常见认知正当性是基于亚里士多德（政治学第二卷第 11 章；参见沃尔德龙 1995）的观点，认为民主程序最能够利用大量公民的认知多样性来解决集体问题。由于民主将许多人纳入决策过程中，它可以利用各种信息和观点来评估提议的法律和政策。最近，埃莱娜 · 兰德莫尔（2013）借鉴了斯科特 · 佩奇和卢洪（洪和佩奇 2004；佩奇 2007）的“多样性胜过能力”定理，该定理指出，从一组有限能力代理人的大集合中随机选择的代理人集合通常优于从同一集合中选择的最优代理人集合，从而认为民主可以预期产生比专家统治更好的决策。佩奇和洪的原始定理以及兰德莫尔用它来为民主辩护的观点都存在争议（参见奎尔克 2014；布伦南 2014；汤普森 2014；巴贾伊 2014）。
 
-民主的第三个常见认知正当性依赖于这样一个观点，即民主决策往往比其他形式的决策更了解公民的利益和推动这些利益所必需的因果机制。约翰·杜威认为，民主涉及“揭示社会需求和问题的咨询和讨论”。即使专家知道如何最好地解决集体问题，他们也需要来自群众的意见来纠正他们的偏见，告诉他们问题出在哪里（杜威 1927 [2012: 154–155]；参见安德森 2006；奈特和约翰逊 2011）。
+民主的第三个常见认知正当性依赖于这样一个观点，即民主决策往往比其他形式的决策更了解公民的利益和推动这些利益所必需的因果机制。约翰 · 杜威认为，民主涉及“揭示社会需求和问题的咨询和讨论”。即使专家知道如何最好地解决集体问题，他们也需要来自群众的意见来纠正他们的偏见，告诉他们问题出在哪里（杜威 1927 [2012: 154–155]；参见安德森 2006；奈特和约翰逊 2011）。
 
 ##### 2.1.1.3 基于角色的论证
 
@@ -68,7 +68,7 @@
 
 #### 2.1.2 反对民主的工具论论证
 
-并非所有的工具论证都支持民主制度。柏拉图认为，民主制度相对于各种形式的君主制、贵族制甚至寡头制度来说是次等的，因为民主制度往往会削弱社会适当治理所需的专业知识（柏拉图 1974 年，第六卷）。大多数人没有那种使他们能够对政治涉及的复杂问题进行良好思考的智力才能。但是为了赢得选举或通过一项立法，政治家必须迎合这些人对什么是对或不对的观念。因此，国家将由那些擅长操纵和大众吸引力的专家们所提出的非常不成熟的观点来指导，以帮助他们赢得选举。柏拉图认为，国家应该由具有良好统治所需的智慧和道德品质的哲学君王来统治。因此，他辩护了大卫·埃斯特伦德所称的“认知统治”版本，这是一种涉及专家统治的寡头制度（埃斯特伦德 2003 年）。
+并非所有的工具论证都支持民主制度。柏拉图认为，民主制度相对于各种形式的君主制、贵族制甚至寡头制度来说是次等的，因为民主制度往往会削弱社会适当治理所需的专业知识（柏拉图 1974 年，第六卷）。大多数人没有那种使他们能够对政治涉及的复杂问题进行良好思考的智力才能。但是为了赢得选举或通过一项立法，政治家必须迎合这些人对什么是对或不对的观念。因此，国家将由那些擅长操纵和大众吸引力的专家们所提出的非常不成熟的观点来指导，以帮助他们赢得选举。柏拉图认为，国家应该由具有良好统治所需的智慧和道德品质的哲学君王来统治。因此，他辩护了大卫 · 埃斯特伦德所称的“认知统治”版本，这是一种涉及专家统治的寡头制度（埃斯特伦德 2003 年）。
 
 密尔提出了一种被称为“多元投票”方案的认知统治形式（1861 年：第 4 章）。在这个方案下，所有理性成年人至少有一票，但一些公民根据满足某种政治专业知识的衡量标准获得更多的选票。虽然密尔将相关的专业知识衡量标准定义为正式教育，但多元投票方案与其他衡量标准是一致的。这个方案可以被认为是将政治专业知识的工具价值与广泛包容的内在价值相结合。
 
@@ -84,7 +84,7 @@ Hobbes 认为，民主制度不如君主制度，因为民主制度会在臣民�
 
 但是，一个人不必是彻底的功利主义者才能为民主理论中的工具主义辩护。有一些论证支持将工具主义应用于民主和集体决策的问题。一种论证认为，政治权力涉及对他人的权力行使。并且它认为，对一个人对另一个人的权力行使只能通过参考对被行使权力的人的利益或权利的保护来予以正当化。因此，除非参考决策过程的结果质量，否则任何政治权力的分配都无法得到正当化（Arneson 1993 [2002: 96–97]; 2003; 2004; 2009）。另一种类型的工具主义论证是从否定的角度出发，试图表明在试图为民主辩护时最常用的非工具性价值实际上并不能为民主提供正当化，因此工具性正当化是唯一可用的正当化方式（Wall 2007）。
 
-其他论证质疑了内在公平的集体决策过程的一致性。例如，社会选择理论质疑了存在一个公平的决策函数，将一组个体偏好转化为合理的集体偏好的观念。核心反对意见是，无法设计出满足合理约束的一般规则，可以将任何一组个体偏好转化为合理的社会偏好。并且这被认为表明民主程序不能具有内在的公平性（Riker 1982: 116）。罗纳德·德沃金认为，平等的观念是社会正义的根源，但在政治权力在社会成员之间的分配方面，无法给出一个连贯且合理的解释。政治家与公民的关系必然导致不平等；民主讨论过程不可避免地使那些具有更强的论证能力和更大参与意愿的人比其他人拥有更多的影响力和权力，因此政治权力的平等不能是内在公平或正义的（Dworkin 2000）。在后来的工作中，德沃金从最初的彻底工具主义中退缩了（Dworkin 1996）。
+其他论证质疑了内在公平的集体决策过程的一致性。例如，社会选择理论质疑了存在一个公平的决策函数，将一组个体偏好转化为合理的集体偏好的观念。核心反对意见是，无法设计出满足合理约束的一般规则，可以将任何一组个体偏好转化为合理的社会偏好。并且这被认为表明民主程序不能具有内在的公平性（Riker 1982: 116）。罗纳德 · 德沃金认为，平等的观念是社会正义的根源，但在政治权力在社会成员之间的分配方面，无法给出一个连贯且合理的解释。政治家与公民的关系必然导致不平等；民主讨论过程不可避免地使那些具有更强的论证能力和更大参与意愿的人比其他人拥有更多的影响力和权力，因此政治权力的平等不能是内在公平或正义的（Dworkin 2000）。在后来的工作中，德沃金从最初的彻底工具主义中退缩了（Dworkin 1996）。
 
 ### 2.2 非工具主义
 
@@ -92,7 +92,7 @@ Hobbes 认为，民主制度不如君主制度，因为民主制度会在臣民�
 
 #### 2.2.1 自由
 
-一个突出的民主正当性理由是基于自由的价值观。根据这个观点的一个版本，民主建立在每个人应该成为自己生活的主人的理念上。每个人的生活深受他或她所处的更大社会、法律和文化环境的影响。只有当每个人在集体决策过程中拥有平等的发言权和投票权时，每个人才能对这个更大的环境拥有平等的控制权。卡罗尔·古尔德等思想家得出结论，只有在实施某种形式的民主时，个人才有机会进行自治（古尔德 1988 年：45-85）。由于个人有自治的权利，他们有权参与民主。这个观点是，自治权给予人们在一定限度内犯错的权利。正如个人有权为自己做出一些错误的决定一样，一群人有权为他们共同参与的活动做出错误或不公正的决定。
+一个突出的民主正当性理由是基于自由的价值观。根据这个观点的一个版本，民主建立在每个人应该成为自己生活的主人的理念上。每个人的生活深受他或她所处的更大社会、法律和文化环境的影响。只有当每个人在集体决策过程中拥有平等的发言权和投票权时，每个人才能对这个更大的环境拥有平等的控制权。卡罗尔 · 古尔德等思想家得出结论，只有在实施某种形式的民主时，个人才有机会进行自治（古尔德 1988 年：45-85）。由于个人有自治的权利，他们有权参与民主。这个观点是，自治权给予人们在一定限度内犯错的权利。正如个人有权为自己做出一些错误的决定一样，一群人有权为他们共同参与的活动做出错误或不公正的决定。
 
 这种论证的一个主要困难在于，它似乎要求决策的基本规则是共识或一致同意。如果每个人必须自由选择约束自己的结果，那么反对决策的人就不是自治的。他们生活在别人强加给他们的环境中。因此，只有当所有人都同意一个决策时，他们才是自由地接受这个决策（沃尔夫 1970 年：第 2 章）。问题在于，在政治上很少有关键问题上的一致意见。事实上，似乎有政治决策程序的主要原因之一是它们可以在意见不一致的情况下解决问题。
 
@@ -104,13 +104,13 @@ Hobbes 认为，民主制度不如君主制度，因为民主制度会在臣民�
 
 Jürgen Habermas 的辩论民主的话语理论在这种方法的发展中具有很高的影响力。Habermas 通过他的交往行动理论的视角分析现代法律制度的形式和功能。这种分析得出了民主原则：
 
-> [O]nly those statutes may claim legitimacy that can meet with the assent of all citizens in a discursive process of legislation that in turn has been legally constituted. (Habermas 1992 [1996: 110])
+> [O] nly those statutes may claim legitimacy that can meet with the assent of all citizens in a discursive process of legislation that in turn has been legally constituted. (Habermas 1992 [1996: 110])
 
 Habermas advances a conception of democratic legitimacy according to which law is legitimate only if it results from a free and inclusive democratic process of "opinion and will-formation". What might such a process look like in a complex and differentiated society? Habermas answers by advancing a "two-track" model that understands democratic legitimation in terms of the relationship between institutionalized deliberative bodies (e.g legislatures, agencies, courts) and informal communication in the public sphere, which is "wild", and not centrally coordinated.
 
 One possible objection to this view is that free and inclusive democratic procedures are insufficient to satisfy the demand for deliberative consensus embodied in the Democratic Principle. This demand is unlikely to be satisfied in diverse societies, since deep disagreements about which laws ought to be enacted is likely to remain after the relevant process of opinion and will-formation. The Democratic Principle might thus be thought to embody an overly idealistic conception of democratic legitimacy (Estlund 2008: ch.10). Another possible worry is that the Discourse Principle is not a genuine moral principle, but a principle that embodies the felicity conditions of practical discourse. As such, the Discourse Principle cannot ground a conception of democratic legitimacy that yields robust moral prescriptions (Forst 2016).
 
-在哈贝马斯和约翰·罗尔斯等人的基础上，约书亚·科恩（1996 [2003]）发展了一种民主的概念，其中公民以相互可接受的理由为基础来证明法律和政策的合理性。民主，正确认识，是个体在平等的基础上自由参与理性讨论和审议的背景下。自由和平等的思想为构建民主制度提供了指导方针。
+在哈贝马斯和约翰 · 罗尔斯等人的基础上，约书亚 · 科恩（1996 [2003]）发展了一种民主的概念，其中公民以相互可接受的理由为基础来证明法律和政策的合理性。民主，正确认识，是个体在平等的基础上自由参与理性讨论和审议的背景下。自由和平等的思想为构建民主制度提供了指导方针。
 
 科恩关于民主作为公共理据的概念的目标是公民之间的理性共识。但是当我们询问在意见分歧仍然存在时会发生什么时，会出现一个严重的问题。有两种可能的回答。有人主张，弱于完全共识的共识形式足以作为公共理据，并且这种较弱的共识在许多社会中是可以实现的。例如，可以就公众可接受的理由列表达成共识，但对不同理由的权重存在分歧。或者可以就抽象理解的一般理由达成一致，但对这些理由的具体解释存在分歧。这里需要证明的是，这种弱共识在许多社会中是可以实现的，并且剩下的分歧与公共理据的理想不相矛盾。
 
@@ -120,7 +120,7 @@ One possible objection to this view is that free and inclusive democratic proced
 
 #### 2.2.3 平等
 
-许多民主理论家认为，当有充分理由对他们共同生活进行某种组织时，民主是一种将人们视为平等的方式，但他们对如何最好地做到这一点存在分歧。彼得·辛格（Peter Singer）认为，当人们坚持以不同的方式妥善安排事务时，每个人在某种意义上都声称有权成为他们共同生活的独裁者（Singer 1973: 30–41）。但这些独裁权主张不可能全部成立。民主体现了这些相互冲突的统治权主张之间的一种和平公正的妥协。只要其他人也同样妥协于他所主张的事项上，每个人都在他所主张的事项上做出平等的妥协，从而使每个人在决策过程中拥有平等的发言权。实际上，民主决策通过给予每个人在共同关注的事项上发表意见的平等发言权，尊重了每个人在分歧情况下如何处理的观点（Singer 1973; Waldron 1999: chap. 5）。
+许多民主理论家认为，当有充分理由对他们共同生活进行某种组织时，民主是一种将人们视为平等的方式，但他们对如何最好地做到这一点存在分歧。彼得 · 辛格（Peter Singer）认为，当人们坚持以不同的方式妥善安排事务时，每个人在某种意义上都声称有权成为他们共同生活的独裁者（Singer 1973: 30–41）。但这些独裁权主张不可能全部成立。民主体现了这些相互冲突的统治权主张之间的一种和平公正的妥协。只要其他人也同样妥协于他所主张的事项上，每个人都在他所主张的事项上做出平等的妥协，从而使每个人在决策过程中拥有平等的发言权。实际上，民主决策通过给予每个人在共同关注的事项上发表意见的平等发言权，尊重了每个人在分歧情况下如何处理的观点（Singer 1973; Waldron 1999: chap. 5）。
 
 如果人们在民主方法或民主形式上存在分歧，我们应该如何决定这些后者问题？我们是否要通过更高级的程序来决定这些问题？如果在更高级的程序上存在分歧，我们是否也必须通过民主方式来决定这个问题？这种观点似乎导致了无限回归。
 
@@ -136,7 +136,7 @@ One possible objection to this view is that free and inclusive democratic proced
 
 > 在某些至关重要的方面，人际关系并不受等级、权力或地位的差异所限制。（Scheffler 2010: 225）
 
-Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny 2014a,b）。Kolodny 的一个论点是，政治决策涉及使用强制力。使用强制力的不平等至少在一定程度上削弱了平等的社会地位，因为使用强制力的权力“通常决定其他权力的分配”（Kolodny 2014b: 307）。那些拥有对他人使用强制力的更强大权力的个体拥有更高的社会地位。实现社会平等因此需要平等分配的政治权力。而只有民主制度提供了平等分配的政治权力。当我们在下面讨论民主的权威性时，我们将进一步讨论关系平等与民主之间的关系。
+Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny 2014a, b）。Kolodny 的一个论点是，政治决策涉及使用强制力。使用强制力的不平等至少在一定程度上削弱了平等的社会地位，因为使用强制力的权力“通常决定其他权力的分配”（Kolodny 2014b: 307）。那些拥有对他人使用强制力的更强大权力的个体拥有更高的社会地位。实现社会平等因此需要平等分配的政治权力。而只有民主制度提供了平等分配的政治权力。当我们在下面讨论民主的权威性时，我们将进一步讨论关系平等与民主之间的关系。
 
 ## 3. 民主的权威性
 
@@ -152,13 +152,13 @@ Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny
 
 关于公决定理论对权威的认识论概念，还有一个进一步的担忧，即它可能证明过于强大，因为它削弱了民主国家中忠诚反对派的常见做法。如果满足公决定理论的背景条件，大规模民主的多数派几乎可以确定地做出正确的决策。少数派公民有什么理由理性地坚持他们相互竞争的观点呢？少数派成员有充分的理由转向多数派立场，因为每个人都有很好的理由认为多数派是正确的。基于公决定理论的认识论权威概念因此威胁到了权威主义，因为它似乎要求不仅要服从行动，还要服从思想。即使在科学界，大多数科学家支持某种观点也不会使少数派科学家认为他们是错误的，尽管这可能会使他们停下来思考（Goodin 2003: ch. 7）。
 
-民主权威的一些理论将工具性和非工具性考虑因素结合在一起。大卫·埃斯特伦德（David Estlund）认为，民主程序具有合法权威，因为它们比随机程序更好，并且在所有合理公民可接受的政治体系中是认知上最好的（Estlund 2008）。它们必须比随机程序更好，否则，为什么我们不使用公平的随机程序，如抽签或抛硬币呢？民主权威必须具有认知要素。而民主程序的正当性必须得到所有合理公民的接受，以尊重他们的自由和平等。埃斯特伦德对民主权威的构想，他称之为“认知程序主义”，将公共正当化的理想与关注民主制度产生良好决策的倾向相结合。
+民主权威的一些理论将工具性和非工具性考虑因素结合在一起。大卫 · 埃斯特伦德（David Estlund）认为，民主程序具有合法权威，因为它们比随机程序更好，并且在所有合理公民可接受的政治体系中是认知上最好的（Estlund 2008）。它们必须比随机程序更好，否则，为什么我们不使用公平的随机程序，如抽签或抛硬币呢？民主权威必须具有认知要素。而民主程序的正当性必须得到所有合理公民的接受，以尊重他们的自由和平等。埃斯特伦德对民主权威的构想，他称之为“认知程序主义”，将公共正当化的理想与关注民主制度产生良好决策的倾向相结合。
 
 ### 3.2 民主权威的内在概念
 
 #### 3.2.1 民主作为集体自治
 
-一些理论家认为，民主与合法权威之间存在一种特殊关系，这种关系基于集体自治的价值。约翰·洛克（John Locke）认为，当一个人同意创建一个政治社会时，他们必然同意使用多数规则来决定政治社会的组织方式（洛克 1690 年：第 96 节）。洛克认为，当存在分歧时，多数规则是自然的决策规则。他认为，社会是一种集体身体，必须朝着更大的力量方向前进。理解这个论点的一种方式是：如果我们将社会的每个成员视为平等的，并且认为除了是否加入社会的问题外，可能还存在分歧，那么我们必须接受多数规则作为适当的决策规则。对于更大的力量论点的这种解释假设“更大的力量”一词是以每个人的利益和权利的平等价值来理解的，因此社会必须朝着大多数人希望的方向前进。
+一些理论家认为，民主与合法权威之间存在一种特殊关系，这种关系基于集体自治的价值。约翰 · 洛克（John Locke）认为，当一个人同意创建一个政治社会时，他们必然同意使用多数规则来决定政治社会的组织方式（洛克 1690 年：第 96 节）。洛克认为，当存在分歧时，多数规则是自然的决策规则。他认为，社会是一种集体身体，必须朝着更大的力量方向前进。理解这个论点的一种方式是：如果我们将社会的每个成员视为平等的，并且认为除了是否加入社会的问题外，可能还存在分歧，那么我们必须接受多数规则作为适当的决策规则。对于更大的力量论点的这种解释假设“更大的力量”一词是以每个人的利益和权利的平等价值来理解的，因此社会必须朝着大多数人希望的方向前进。
 
 洛克认为，一个由同意成为成员的个体组成的人民可以通过多数规则选择君主制，因此这个论点本身并不能为民主提供论据。但是洛克在为决定何时可以调整财产和征税的代表机构的要求辩护时，回顾了这个论点。他认为，一个人必须同意国家对其财产的调整或征税。但是他说，当大多数财产持有者的代表同意对财产进行调整和征税时，这个同意的要求就得到了满足（洛克，1690 年：第 140 节）。这似乎是朝着真正民主的合法权威观念发展的方向。
 
@@ -168,7 +168,7 @@ Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny
 
 #### 3.2.2 自由与民主权威
 
-安娜·斯蒂尔兹（Anna Stilz）提出了一种关于民主权威的解释，这种解释依靠“自由作为独立性”的价值（Stilz 2009）。自由作为独立性是不受他人意志支配的自由。为了不受他人意志支配，个人需要财产权和受保护的自主领域来追求自己的计划。斯蒂尔兹借鉴康德的观点，认为在自然状态下，个别个体试图定义和确保财产权和自主权的尝试将与自由作为独立性不一致。这种尝试通过私人意志的行为单方面对他人施加新的义务，面对竞争性主张。但是，即使自然状态下的个体同意解决彼此竞争性主张的问题，他们仍然依赖于他人的意志来遵守这个协议。因此，斯蒂尔兹认为，正义必须由一个有权威的法律体系来管理，这个体系可以强制地施加一套客观规则——即使我们意见不合，我们也必须尊重这些规则来裁决我们之间的冲突主张。但是，如果这样的体系要与主体的自由一致，它不能由统治者的私人意志强加。斯蒂尔兹认为，解决之道在于卢梭的普遍意愿的观念。当主体服从普遍意愿时，他们不是服从任何个人的私人意志；他们是服从一个来自所有人并适用于所有人的意志。
+安娜 · 斯蒂尔兹（Anna Stilz）提出了一种关于民主权威的解释，这种解释依靠“自由作为独立性”的价值（Stilz 2009）。自由作为独立性是不受他人意志支配的自由。为了不受他人意志支配，个人需要财产权和受保护的自主领域来追求自己的计划。斯蒂尔兹借鉴康德的观点，认为在自然状态下，个别个体试图定义和确保财产权和自主权的尝试将与自由作为独立性不一致。这种尝试通过私人意志的行为单方面对他人施加新的义务，面对竞争性主张。但是，即使自然状态下的个体同意解决彼此竞争性主张的问题，他们仍然依赖于他人的意志来遵守这个协议。因此，斯蒂尔兹认为，正义必须由一个有权威的法律体系来管理，这个体系可以强制地施加一套客观规则——即使我们意见不合，我们也必须尊重这些规则来裁决我们之间的冲突主张。但是，如果这样的体系要与主体的自由一致，它不能由统治者的私人意志强加。斯蒂尔兹认为，解决之道在于卢梭的普遍意愿的观念。当主体服从普遍意愿时，他们不是服从任何个人的私人意志；他们是服从一个来自所有人并适用于所有人的意志。
 
 这个解释的一个担忧是，那些反对民主通过的法律或政策的人可以抱怨这些法律或政策是违背他们意愿强加的。也许他们不受特定个人意愿的约束，但他们受到多数人意愿的约束。这可能被认为对个人的自由和独立构成了重大威胁。另一个担忧，斯蒂尔兹的观点可能继承自卢梭，即普遍意愿产生的条件是如此苛刻，以至于该观点暗示着不存在或曾经存在的任何国家都具有合法的政治权威。斯蒂尔兹的观点因此可能被认为包含了 A.J.西蒙斯所称的“事后无政府主义”（西蒙斯 2001 年）。
 
@@ -194,7 +194,7 @@ Fabienne Peter 基于公平考虑，发展了一个包含认识论考虑的民�
 
 洛克在他的理论中提到了民主的内部限制，即公民可能不同意的某些事情（Locke 1690: ch. XI）。她可能不同意专制统治或违反基本权利，包括民主和自由权利。由于同意是洛克民主权威的基础，这个理论解释了第一个内部限制背后的思想，即民主不能通过民主手段被暂停，但它超越了这个限制，暗示那些与行使选举权本质上无关的权利也不应被侵犯，因为人们不能同意侵犯这些权利。
 
-近年来，罗纳德·德沃金（Ronald Dworkin）为民主权力的限制辩护（Dworkin 1996）。他认为，民主是通过诉诸自我管理原则来证明其合理性的。他认为，除非所有公民都被视为政治社区的全体成员，否则无法实现自我管理，因为否则他们无法将自己视为社区的成员。他认为，作为全体成员的条件之一是平等对待的权利和尊重个人道德独立性的权利。这些原则支持非歧视和基本自由权利的强有力要求。
+近年来，罗纳德 · 德沃金（Ronald Dworkin）为民主权力的限制辩护（Dworkin 1996）。他认为，民主是通过诉诸自我管理原则来证明其合理性的。他认为，除非所有公民都被视为政治社区的全体成员，否则无法实现自我管理，因为否则他们无法将自己视为社区的成员。他认为，作为全体成员的条件之一是平等对待的权利和尊重个人道德独立性的权利。这些原则支持非歧视和基本自由权利的强有力要求。
 
 将民主权力基于公共平等的概念也提供了对该权力的限制的解释（Christiano 2008: ch. 6）。由于民主是建立在公共平等之上的，它不能在任何决策中违反公共平等。基本思想是，民主议会对公共平等的公然违反会削弱民主议会体现公共平等的主张。民主体现公共平等的条件是保护公共平等。在自由权利以及经济最低限度的提供也以公共平等为基础的情况下，这表明民主权力受到了限制。这一解释还为第一个内部限制所辩护的民主权力的限制提供了深层次的基础，并且在保护与选举行使无关的权利方面超越了这些限制，这对于公共平等也是必要的。
 
@@ -220,7 +220,7 @@ Fabienne Peter 基于公平考虑，发展了一个包含认识论考虑的民�
 
 1. 柏拉图认为，有些人在政治事务上比其他人更聪明、更了解，并且具有更高尚的道德品质，这些人应该统治（《理想国》第六卷）
 2. 其他人认为，一个社会必须有分工。如果每个人都从事复杂而艰巨的政治任务，那么剩下的时间和精力就不足以从事社会的其他重要任务。相反，如果我们希望大多数人从事其他艰难而复杂的任务，又怎么能指望他们有足够的时间和资源来理智地从事政治呢？
-3. 由于个人在大型社会的政治决策结果上影响甚微，他们对结果几乎没有责任感。有人认为，投票是不理性的，因为个人的选票决定选举结果（即决定候选人是否当选）的机会几乎可以忽略不计。例如，一个广泛接受的估计将一个个人投下决定性选票的几率在美国总统选举中为 1 亿分之一。许多估计将几率降得更低。更糟糕的是，安东尼·唐斯认为，几乎所有投票的人都没有理由去了解如何最好地投票（唐斯 1957 年：第 13 章）。根据公民推理和行为大致符合唐斯模型的假设，要么社会实际上必须由一小群人以最少的其他人参与来管理，要么社会将运行得非常糟糕。正如我们所看到的，这些批评是柏拉图和霍布斯所提出的批评的回响。
+3. 由于个人在大型社会的政治决策结果上影响甚微，他们对结果几乎没有责任感。有人认为，投票是不理性的，因为个人的选票决定选举结果（即决定候选人是否当选）的机会几乎可以忽略不计。例如，一个广泛接受的估计将一个个人投下决定性选票的几率在美国总统选举中为 1 亿分之一。许多估计将几率降得更低。更糟糕的是，安东尼 · 唐斯认为，几乎所有投票的人都没有理由去了解如何最好地投票（唐斯 1957 年：第 13 章）。根据公民推理和行为大致符合唐斯模型的假设，要么社会实际上必须由一小群人以最少的其他人参与来管理，要么社会将运行得非常糟糕。正如我们所看到的，这些批评是柏拉图和霍布斯所提出的批评的回响。
 
 这些观察结果对于任何坚定的平等主义或审议式民主概念都带来了挑战。如果不能智能参与政治，就无法利用自己的选票推动自己的目标，也不能说参与了一个理性审议的过程。因此，政治权力的平等要么意味着公民在政治中具有一种自我打败的平等参与，要么合理的分工似乎会破坏权力的平等。而公民在公共审议中的实质性参与要么意味着相对忽视其他任务，要么社会的其他部门的正常运行要求大多数人不在公共审议中进行智能参与。
 
@@ -240,7 +240,7 @@ Fabienne Peter 基于公平考虑，发展了一个包含认识论考虑的民�
 
 #### 4.2.2 利益集团多元主义
 
-一种在一定程度上受到民主公民身份问题的驱动，但试图保留一些平等元素以对抗精英批评的方法是利益集团多元主义政治观。罗伯特·达尔（Robert Dahl）对这一观点的早期陈述非常有力。
+一种在一定程度上受到民主公民身份问题的驱动，但试图保留一些平等元素以对抗精英批评的方法是利益集团多元主义政治观。罗伯特 · 达尔（Robert Dahl）对这一观点的早期陈述非常有力。
 
 > 从某种意义上说，所有竞争性政治的本质都是政治家向选民行贿...农民...支持一个致力于高价格支持的候选人，商人...支持一个主张降低公司税的倡导者...消费者...投票支持反对销售税的候选人。（达尔 1959 年：69）
 
@@ -250,7 +250,7 @@ Fabienne Peter 基于公平考虑，发展了一个包含认识论考虑的民�
 
 #### 4.2.3 新自由主义
 
-第三种受参与问题启发的方法可以称为新自由主义政治方法，这是公共选择理论家如詹姆斯·布坎南和戈登·塔洛克（1962）所青睐的方法。他们反对精英理论，认为精英及其盟友倾向于为自身利益扩大政府和官僚机构的权力，并且这种扩张将以一个大部分不关注政治的公众为代价。因此，他们主张对精英的权力进行严格限制。他们反对利益集团多元主义理论家的观点，认为参与问题在利益集团内部与在整个公民群体中几乎同样存在。只有强大的经济利益才有可能成功组织起来影响政府，并且他们这样做主要是为了自身利益。由于经济精英在政治中推动自身利益的同时将成本转嫁给他人，政策往往会比受益更昂贵（因为施加在整个社会上），而受益的只有利益集团中的精英。
+第三种受参与问题启发的方法可以称为新自由主义政治方法，这是公共选择理论家如詹姆斯 · 布坎南和戈登 · 塔洛克（1962）所青睐的方法。他们反对精英理论，认为精英及其盟友倾向于为自身利益扩大政府和官僚机构的权力，并且这种扩张将以一个大部分不关注政治的公众为代价。因此，他们主张对精英的权力进行严格限制。他们反对利益集团多元主义理论家的观点，认为参与问题在利益集团内部与在整个公民群体中几乎同样存在。只有强大的经济利益才有可能成功组织起来影响政府，并且他们这样做主要是为了自身利益。由于经济精英在政治中推动自身利益的同时将成本转嫁给他人，政策往往会比受益更昂贵（因为施加在整个社会上），而受益的只有利益集团中的精英。
 
 新自由主义者推断，人们应该将国家的许多现有职能转移到市场上，并将国家限制在基本财产权和自由的执行上。这些可以更容易地被普通公民理解和控制。
 
@@ -314,7 +314,7 @@ Alex Guerrero 认为，公民有道德理由投票，因为以更大比例获胜
 
 妥协可以理解为各方之间达成的一项协议，旨在推进各方都认为不够理想的法律或政策，因为他们对于哪些法律或政策最理想存在分歧（May 2005）。虽然广泛认可有时存在强有力的工具性理由来进行妥协，但是否存在固有的道德理由来进行妥协则更具争议。一些人基于包容、相互尊重和互惠等民主价值观来捍卫进行妥协的固有理由（Gutmann 和 Thompson 2014；Wendt 2016；Weinstock 2013）。然而，Simon May 认为这样的论点是错误的，所有进行妥协的理由都是务实的（May 2005）。
 
-拥护公正辩护方法论的人（见第 2.2.2 节）经常主张民主公民和官员有公正辩护的个人道德义务。约翰·罗尔斯主张“文明的义务”，要求公民和官员在投票和从事公共倡导时准备好为重要法律提供相互可接受的理由。鉴于在自由民主国家中关于全面道德和哲学真理的分歧是不可避免的，文明的义务要求公民诉诸一个合理的“政治”正义概念，该概念可以成为不同全面教义之间的“重叠共识”的对象。虽然不同的理论家以不同的方式激发公正辩护的义务，但许多人都强调行使强制性政治权力需要尊重公民的自由和平等。
+拥护公正辩护方法论的人（见第 2.2.2 节）经常主张民主公民和官员有公正辩护的个人道德义务。约翰 · 罗尔斯主张“文明的义务”，要求公民和官员在投票和从事公共倡导时准备好为重要法律提供相互可接受的理由。鉴于在自由民主国家中关于全面道德和哲学真理的分歧是不可避免的，文明的义务要求公民诉诸一个合理的“政治”正义概念，该概念可以成为不同全面教义之间的“重叠共识”的对象。虽然不同的理论家以不同的方式激发公正辩护的义务，但许多人都强调行使强制性政治权力需要尊重公民的自由和平等。
 
 ## 5. 民主代表
 
@@ -328,27 +328,27 @@ Alex Guerrero 认为，公民有道德理由投票，因为以更大比例获胜
 
 许多人主张单一成员选区立法，理由是他们认为它似乎比其他形式的代表制导致更稳定的政府。这种观点认为，比例代表制倾向于将公民分裂为相互对立的同质阵营，他们坚决坚持自己的党派立场，并不断争夺对政府的控制权。由于存在许多政党，它们不愿意相互妥协，由政党联盟组成的政府往往很快瓦解。意大利战后政府的经验似乎证实了这一假设。相比之下，单一成员选区代表制被认为有利于增强政府的稳定性，因为它倾向于支持两党制政府。每个选举周期都决定了哪个党派将在一段时间内掌权。
 
-查尔斯·贝茨（Charles Beitz）认为，单一成员选区代表制鼓励政党为公民提供考虑的温和党派纲领（Beitz 1989: ch. 7）。这是由于这种代表制向两党制倾斜的趋势所导致的。在两党制中，以多数规则为基础，据说每个党派都必须吸引政治光谱中的中间选民。因此，他们必须调和他们的纲领以吸引中间选民。此外，他们鼓励各个群体之间的妥协，因为他们必须试图吸引许多其他群体，以成为两个主要政党的一部分。这些趋势鼓励公民的温和和妥协，前提是政党和利益集团将这些品质视为在民主制度中良好运作所必需的。
+查尔斯 · 贝茨（Charles Beitz）认为，单一成员选区代表制鼓励政党为公民提供考虑的温和党派纲领（Beitz 1989: ch. 7）。这是由于这种代表制向两党制倾斜的趋势所导致的。在两党制中，以多数规则为基础，据说每个党派都必须吸引政治光谱中的中间选民。因此，他们必须调和他们的纲领以吸引中间选民。此外，他们鼓励各个群体之间的妥协，因为他们必须试图吸引许多其他群体，以成为两个主要政党的一部分。这些趋势鼓励公民的温和和妥协，前提是政党和利益集团将这些品质视为在民主制度中良好运作所必需的。
 
 在批评中，比例和群体代表制的支持者认为，单一成员选区代表制往往会压制少数群体的声音，忽视他们在社会中的利益（米尔，1861 年；克里斯蒂亚诺，1996 年）。少数群体的利益和观点往往在背景谈判中表达，并以一种抑制其独特性的方式。此外，代表少数群体利益和观点的人往往很难在单一成员选区制度中当选，因此有人指责少数观点和利益经常被系统性地低估。有时，这些问题通过重新划定选区边界的方式来解决，以确保更多的少数群体代表。这些努力往往引起很大争议，因为对分配标准存在相当大的分歧。
 
 相比之下，在比例代表制中，不同群体的代表按照公民的选择比例入选立法机构。少数群体不需要使他们的要求符合单一成员选区制度所特有的观点和利益的二分法，因此他们的观点更加明确和独特，也更好地得到了代表。
 
-像艾丽斯·玛丽昂·杨（Iris Marion Young）这样的群体代表制支持者认为，一些历史上被剥夺选举权的群体在比例代表制下可能仍然表现不佳（杨，1990 年：第 6 章）。他们可能无法像其他群体那样轻松组织和表达他们的观点。此外，少数群体仍然可能在立法机构中被系统性地击败，即使他们有一些代表，他们的利益也可能持续受挫。对于这些群体，一些人认为保护他们利益的唯一途径是通过法律确保他们有足够甚至是不成比例的代表。
+像艾丽斯 · 玛丽昂 · 杨（Iris Marion Young）这样的群体代表制支持者认为，一些历史上被剥夺选举权的群体在比例代表制下可能仍然表现不佳（杨，1990 年：第 6 章）。他们可能无法像其他群体那样轻松组织和表达他们的观点。此外，少数群体仍然可能在立法机构中被系统性地击败，即使他们有一些代表，他们的利益也可能持续受挫。对于这些群体，一些人认为保护他们利益的唯一途径是通过法律确保他们有足够甚至是不成比例的代表。
 
 有关群体代表的一个担忧是，它倾向于冻结一些议程的方面，而这些方面可能更好地留给公民的选择。例如，考虑一个长期以来被划分为语言群体的人口。假设只有一些公民继续认为语言冲突很重要。在这种情况下，群体代表方案可能会倾向于以一种偏袒那些认为语言冲突很重要的人的观点或利益的任意方式进行偏见。
 
 ### 5.2 代表的伦理学
 
-代表在履行他们的官方职责时适用哪些道德规范？通过引入汉娜·皮特金（Hannah Pitkin）著名的受托人和代表之间的区别（Pitkin 1967），我们可以更好地了解可能的答案。行事如受托人的代表依靠自己独立的判断来履行职责。受托人的规范得到支持，因为在民主劳动的自然分工下，官员比普通公民更有能力做出经过深思熟虑和充分了解的政治决策。
+代表在履行他们的官方职责时适用哪些道德规范？通过引入汉娜 · 皮特金（Hannah Pitkin）著名的受托人和代表之间的区别（Pitkin 1967），我们可以更好地了解可能的答案。行事如受托人的代表依靠自己独立的判断来履行职责。受托人的规范得到支持，因为在民主劳动的自然分工下，官员比普通公民更有能力做出经过深思熟虑和充分了解的政治决策。
 
 作为代表行事的代表性人物会遵循其公民的判断。这些规范可能被认为反映了民主问责的价值。因为人民授权代表来进行治理，所以自然而然地认为代表应对人民负责，执行他们的判断。如果代表不以这种方式负责，公民就会失去对代表行动的民主控制。
 
-当这些规范发生冲突时，哪些规范应该占上风？皮特金认为答案因情境而异。这似乎是合理的。例如，如果我们认为公民主要扮演确定社会目标的角色，我们可能认为代表在目标方面应该是代表性人物，但在实现目标的方式方面应该是受托人（克里斯蒂亚诺，1996 年）。请参阅苏珊娜·多维对代表性的讨论，以深入而更细致地讨论这些问题。
+当这些规范发生冲突时，哪些规范应该占上风？皮特金认为答案因情境而异。这似乎是合理的。例如，如果我们认为公民主要扮演确定社会目标的角色，我们可能认为代表在目标方面应该是代表性人物，但在实现目标的方式方面应该是受托人（克里斯蒂亚诺，1996 年）。请参阅苏珊娜 · 多维对代表性的讨论，以深入而更细致地讨论这些问题。
 
 ## 6. 社会选择与民主
 
-有人认为肯尼斯·阿罗的不可能定理为民主理论提供了一系列重大困难（阿罗，1951 年）。威廉·莱克，拉塞尔·哈丁等人认为不可能定理表明民主理想存在深层次问题（莱克，1982 年；哈丁，1999 年）。这些思想家都不反对民主本身，他们都认为有充分的理由支持民主。
+有人认为肯尼斯 · 阿罗的不可能定理为民主理论提供了一系列重大困难（阿罗，1951 年）。威廉 · 莱克，拉塞尔 · 哈丁等人认为不可能定理表明民主理想存在深层次问题（莱克，1982 年；哈丁，1999 年）。这些思想家都不反对民主本身，他们都认为有充分的理由支持民主。
 
 社会选择理论的基本结果在百科全书的其他地方详细阐述（利斯特，2013 年）。在这里，我们只是简单地阐述基本结果和一个例子。阿罗社会选择理论的问题是：如何根据成员的个体偏好集合来确定整个社会的社会偏好？阿罗证明了当群体需要选择三个或更多个备选方案时，无法定义满足一些合理约束的社会选择函数。他列出了对社会选择函数施加的一些条件。无限域：社会选择函数必须能够给出社会偏好，无论个体对备选方案的偏好如何。非独裁：社会选择函数不能仅仅选择一个特定成员的偏好，而不考虑其他人的偏好。传递性和完备性：个体偏好排序必须是传递性和完备性排序，从中得出的社会偏好也必须是传递性和完备性的。无关备选方案的独立性：两个备选方案之间的社会偏好必须仅仅是个体排序之间的结果。帕累托条件：如果所有成员都更喜欢备选方案 x 而不是 y，则在社会偏好中 x 必须排在 y 之上。该定理表明，超过两个备选方案的社会选择函数无法满足所有这些条件。
 
@@ -386,155 +386,155 @@ Riker 认为，该定理表明，在一个社会中，普遍意愿可以成为�
 
 ## Bibliography
 
-* Abizadeh, Arash, 2008, “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders”, *Political Theory*, 36(1): 37–65. doi:10.1177/0090591707310090
-* Acemoglu, Daron, Suresh Naidu, Pascual Restrepo, and James A. Robinson, 2019, “Democracy Does Cause Growth”, *Journal of Political Economy*, 127(1): 47–100. doi:10.1086/700936
+* Abizadeh, Arash, 2008, “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders”, *Political Theory*, 36(1): 37–65. doi: 10.1177/0090591707310090
+* Acemoglu, Daron, Suresh Naidu, Pascual Restrepo, and James A. Robinson, 2019, “Democracy Does Cause Growth”, *Journal of Political Economy*, 127(1): 47–100. doi: 10.1086/700936
 * Achen, Christopher H. and Larry M. Bartels, 2016, *Democracy for Realists: Why Elections Do Not Produce Responsive Government* (Princeton Studies in Political Behavior), Princeton: Princeton University Press.
-* Altman, Andrew and Christopher Heath Wellman, 2009, *A Liberal Theory of International Justice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199564415.001.0001
-* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi:10.3366/epi.2006.3.1-2.8
+* Altman, Andrew and Christopher Heath Wellman, 2009, *A Liberal Theory of International Justice*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199564415.001.0001
+* Anderson, Elizabeth, 2006, “The Epistemology of Democracy”, *Episteme*, 3(1–2): 8–22. doi: 10.3366/epi.2006.3.1-2.8
 * Aristotle, *Politics: Writings from the Complete Works*, Jonathan Barnes (ed.), Princeton: Princeton University Press, 2016.
 * Arneson, Richard J., 1993 [2003], “Democratic Rights at National and Workplace Levels”, in *The Idea of Democracy*, David Copp, Jean Hampton, and John Roember, 118–138, 143–147; reprinted as “Democracy at the National Level” in Christiano 2003: 95–115.
-* –––, 2003, “Defending the Purely Instrumental Account of Democratic Legitimacy”, *Journal of Political Philosophy*, 11(1): 122–132. doi:10.1111/1467-9760.00170
-* –––, 2004, “Democracy Is Not Intrinsically Just”, in *Justice and Democracy*, Keith Dowding, Robert E. Goodin, and Carole Pateman (eds.), Cambridge: Cambridge University Press, 40–58. doi:10.1017/CBO9780511490217.003
-* –––, 2009, “The Supposed Right to a Democratic Say”, in *Contemporary Debates in Political Philosophy*, Thomas Christiano and John Christman (eds.), Oxford, UK: Wiley-Blackwell, 195–212. doi:10.1002/9781444310399.ch11
+* –––, 2003, “Defending the Purely Instrumental Account of Democratic Legitimacy”, *Journal of Political Philosophy*, 11(1): 122–132. doi: 10.1111/1467-9760.00170
+* –––, 2004, “Democracy Is Not Intrinsically Just”, in *Justice and Democracy*, Keith Dowding, Robert E. Goodin, and Carole Pateman (eds.), Cambridge: Cambridge University Press, 40–58. doi: 10.1017/CBO9780511490217.003
+* –––, 2009, “The Supposed Right to a Democratic Say”, in *Contemporary Debates in Political Philosophy*, Thomas Christiano and John Christman (eds.), Oxford, UK: Wiley-Blackwell, 195–212. doi: 10.1002/9781444310399.ch11
 * Arrow, Kenneth J., 1951, *Social Choice and Individual Values*, New Haven, CT: Yale University Press.
-* Austen-Smith, David, 1992, “Strategic Models of Talk in Political Decision Making”, *International Political Science Review*, 13(1): 45–58. doi:10.1177/019251219201300104
-* Austen-Smith, David and Jeffrey S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem”, *American Political Science Review*, 90(1): 34–45. doi:10.2307/2082796
-* Bajaj, Sameer, 2014, “Review of *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, by Hélène Landemore”, *Ethics*, 124(2): 426–431. doi:10.1086/673507
+* Austen-Smith, David, 1992, “Strategic Models of Talk in Political Decision Making”, *International Political Science Review*, 13(1): 45–58. doi: 10.1177/019251219201300104
+* Austen-Smith, David and Jeffrey S. Banks, 1996, “Information Aggregation, Rationality, and the Condorcet Jury Theorem”, *American Political Science Review*, 90(1): 34–45. doi: 10.2307/2082796
+* Bajaj, Sameer, 2014, “Review of *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, by Hélène Landemore”, *Ethics*, 124(2): 426–431. doi: 10.1086/673507
 * Barry, Brian, 1965, *Political Argument*, London: Routledge & Kegan Paul.
-* Bartels, Larry M., 2002, “Beyond the Running Tally: Partisan Bias in Political Perceptions”, *Political Behavior*, 24(2): 117–150. doi:10.1023/A:1021226224601
-* Bedau, Hugo A., 1961, “On Civil Disobedience”, *Journal of Philosophy*, 58(21): 653–665. doi:10.2307/2023542
+* Bartels, Larry M., 2002, “Beyond the Running Tally: Partisan Bias in Political Perceptions”, *Political Behavior*, 24(2): 117–150. doi: 10.1023/A: 1021226224601
+* Bedau, Hugo A., 1961, “On Civil Disobedience”, *Journal of Philosophy*, 58(21): 653–665. doi: 10.2307/2023542
 * Beerbohm, Eric Anthony, 2012, *In Our Name: The Ethics of Democracy*, Princeton: Princeton University Press.
 * Beitz, Charles R., 1989, *Political Equality: An Essay on Democratic Theory*, Princeton: Princeton University Press.
 * Black, Duncan, 1963, *The Theory of Committees and Elections*, second edition, Cambridge: Cambridge University Press.
 * Brennan, Jason, 2011, *The Ethics of Voting*, Princeton: Princeton University Press.
-* –––, 2014, “How Smart Is Democracy? You Can’t Answer That Question a Priori”, *Critical Review*, 26(1–2): 33–58. doi:10.1080/08913811.2014.907040
+* –––, 2014, “How Smart Is Democracy? You Can’t Answer That Question a Priori”, *Critical Review*, 26(1–2): 33–58. doi: 10.1080/08913811.2014.907040
 * –––, 2016, *Against Democracy*, Princeton: Princeton University Press.
-* Brownlee, Kimberley, 2004, “Features of a Paradigm Case of Civil Disobedience”, *Res Publica*, 10(4): 337–351. doi:10.1007/s11158-004-2326-6
-* –––, 2007, “The Communicative Aspects of Civil Disobedience and Lawful Punishment”, *Criminal Law and Philosophy*, 1(2): 179–192. doi:10.1007/s11572-006-9015-9
-* –––, 2012, *Conscience and Conviction: The Case for Civil Disobedience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199592944.001.0001
+* Brownlee, Kimberley, 2004, “Features of a Paradigm Case of Civil Disobedience”, *Res Publica*, 10(4): 337–351. doi: 10.1007/s11158-004-2326-6
+* –––, 2007, “The Communicative Aspects of Civil Disobedience and Lawful Punishment”, *Criminal Law and Philosophy*, 1(2): 179–192. doi: 10.1007/s11572-006-9015-9
+* –––, 2012, *Conscience and Conviction: The Case for Civil Disobedience*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199592944.001.0001
 * Buchanan, Allen, 1991, *Secession: The Morality of Political Divorce from Fort Sumter to Lithuania to Quebec*, Boulder, CO: Westview Press.
 * Buchanan, James and Gordon Tullock, 1962, *The Calculus of Consent: Logical Foundations of Constitutional Democracy*, Ann Arbor, MI: University of Michigan Press.
 * Caplan, Bryan, 2007, *The Myth of the Rational Voter: Why Democracies Choose Bad Policies*, Princeton: Princeton University Press.
 * Cassese, Antonio, 1995, *Self-Determination of Peoples: A Legal Reappraisal*, Cambridge: Cambridge University Press.
 * Christiano, Thomas, 1996, *The Rule of the Many: Fundamental Issues in Democratic Theory*, Boulder, CO: Westview Press.
 * ––– (ed.), 2003, *Philosophy and Democracy: An Anthology*, Oxford: Oxford University Press.
-* –––, 2004, “The Authority of Democracy”, *Journal of Political Philosophy*, 12(3): 266–290. doi:10.1111/j.1467-9760.2004.00200.x
-* –––, 2006, “A Democratic Theory of Territory and Some Puzzles about Global Democracy”, *Journal of Social Philosophy*, 37(1): 81–107. doi:10.1111/j.1467-9833.2006.00304.x
-* –––, 2008, *The Constitution of Equality: Democratic Authority and Its Limits*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198297475.001.0001
-* –––, 2009, “Must Democracy Be Reasonable?”, *Canadian Journal of Philosophy*, 39(1): 1–34. doi:10.1353/cjp.0.0037
-* –––, 2011, “An Instrumental Argument for a Human Right to Democracy: An Instrumental Argument for a Human Right to Democracy”, *Philosophy & Public Affairs*, 39(2): 142–176. doi:10.1111/j.1088-4963.2011.01204.x
-* –––, 2012, “Rational Deliberation among Experts and Citizens”, in Parkinson and Mansbridge 2012: 27–51. doi:10.1017/CBO9781139178914.003
-* –––, 2015, “Self-Determination and the Human Right to Democracy”, in *Philosophical Foundations of Human Rights*, Rowan Cruft, S. Matthew Liao, and Massimo Renzo (eds.), Oxford: Oxford University Press, 459–480. doi:10.1093/acprof:oso/9780199688623.003.0026
-* Cohen, Joshua, 1986, “An Epistemic Conception of Democracy”, *Ethics*, 97(1): 26–38. doi:10.1086/292815
+* –––, 2004, “The Authority of Democracy”, *Journal of Political Philosophy*, 12(3): 266–290. doi: 10.1111/j.1467-9760.2004.00200.x
+* –––, 2006, “A Democratic Theory of Territory and Some Puzzles about Global Democracy”, *Journal of Social Philosophy*, 37(1): 81–107. doi: 10.1111/j.1467-9833.2006.00304.x
+* –––, 2008, *The Constitution of Equality: Democratic Authority and Its Limits*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198297475.001.0001
+* –––, 2009, “Must Democracy Be Reasonable?”, *Canadian Journal of Philosophy*, 39(1): 1–34. doi: 10.1353/cjp.0.0037
+* –––, 2011, “An Instrumental Argument for a Human Right to Democracy: An Instrumental Argument for a Human Right to Democracy”, *Philosophy & Public Affairs*, 39(2): 142–176. doi: 10.1111/j.1088-4963.2011.01204.x
+* –––, 2012, “Rational Deliberation among Experts and Citizens”, in Parkinson and Mansbridge 2012: 27–51. doi: 10.1017/CBO9781139178914.003
+* –––, 2015, “Self-Determination and the Human Right to Democracy”, in *Philosophical Foundations of Human Rights*, Rowan Cruft, S. Matthew Liao, and Massimo Renzo (eds.), Oxford: Oxford University Press, 459–480. doi: 10.1093/acprof: oso/9780199688623.003.0026
+* Cohen, Joshua, 1986, “An Epistemic Conception of Democracy”, *Ethics*, 97(1): 26–38. doi: 10.1086/292815
 * –––, 1989 [2009], “Deliberation and Democratic Legitimacy”, in *The Good Polity: Normative Analysis of the State*, Alan Hamlin and Philip Pettit (eds.), Oxford: Basil Blackwell, 17–34; reprinted in *Philosophy, Politics, Democracy: Selected Essays*, Cambridge, MA: Harvard University Press, 16–37.
 * –––, 1996 [2003], “Procedure and Substance in Deliberative Democracy”, in *Democracy and Difference: Contesting the Boundaries of the Political*, Seyla Benhabib (ed.), Princeton: Princeton University Press, 95–119; reprinted in Christiano 2003: 17–38.
 * Condorcet, Marquis de, 1785, *Essai sur l’application de l’analyse à la probabilité des décisions rendues àla pluralité des voix*, Paris; reprinted Cambridge: Cambridge University Press, 2014. DOI: 10.1017/CBO9781139923972
 * Dahl, Robert A., 1959, *A Preface to Democratic Theory*, Chicago: University of Chicago Press.
-* Delmas, Candice, 2018, *A Duty to Resist: When Disobedience Should Be Uncivil*, Oxford: Oxford University Press. doi:10.1093/oso/9780190872199.001.0001
+* Delmas, Candice, 2018, *A Duty to Resist: When Disobedience Should Be Uncivil*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190872199.001.0001
 * Dewey, John, 1927 [2012], *The Public and Its Problems: An Essay in Political Inquiry*, New York: Henry Holt; reprinted, Melvin L. Rogers (ed.), University Park, PA: Pennsylvania State University, 2012.
 * Downs, Anthony, 1957, *An Economic Theory of Democracy*, New York: Harper and Row.
-* Doyle, Michael W., 2011, *Liberal Peace: Selected Essays*, New York: Routledge. doi:10.4324/9780203804933
+* Doyle, Michael W., 2011, *Liberal Peace: Selected Essays*, New York: Routledge. doi: 10.4324/9780203804933
 * Dworkin, Ronald, 1996, *Freedom’s Law: The Moral Reading of the American Constitution*, Cambridge, MA: Harvard University Press.
 * –––, 2000, *Sovereign Virtue: The Theory and Practice of Equality*, Cambridge, MA: Harvard University Press.
 * Elster, Jon, 1986 [2003], “The Market and the Forum: Three Varieties of Political Theory”, in *Foundations of Scoial Choice Theory*, Jon Elster and Aanund Hyllund (eds.), Cambridge: Cambridge University Press, 103–132; reprinted in Christiano 2003: 138–158.
 * Ely, John Hart, 1980, *Democracy and Distrust: A Theory of Judicial Review*, Cambridge, MA: Harvard University Press.
-* Erikson, Robert S., 2015, “Income Inequality and Policy Responsiveness “, *Annual Review of Political Science*, 18: 11–29. doi:10.1146/annurev-polisci-020614-094706
+* Erikson, Robert S., 2015, “Income Inequality and Policy Responsiveness “, *Annual Review of Political Science*, 18: 11–29. doi: 10.1146/annurev-polisci-020614-094706
 * Estlund, David, 1997a [2003], “Beyond Fairness and Deliberation: The Epistemic Dimension of Democratic Authority”, in *Deliberative Democracy: Essays on Reason and Politics*, James Bohman and William Rehg (eds.), Cambridge, MA: MIT Press, 173–204; reprinted in Christiano 2003: 69–91.
-* –––, 1997b, “The Epistemic Dimension of Democratic Authority”:, *The Modern Schoolman*, 74(4): 259–276. doi:10.5840/schoolman199774424
+* –––, 1997b, “The Epistemic Dimension of Democratic Authority”:, *The Modern Schoolman*, 74(4): 259–276. doi: 10.5840/schoolman199774424
 * –––, 2003, “Why Not Epistocracy”, in *Desire, Identity, and Existence: Essays in Honor of T.M. Penner*, Naomi Reshotko (ed.), Kelowna, BC: Academic Printing and Publishing, 53–69.
 * –––, 2006, “Democracy and the Real Speech Situation”, in *Deliberative Democracy and Its Discontents*, Samantha Besson and José Luis Martí (eds.), London: Routledge, 75–92.
 * –––, 2008, *Democratic Authority: A Philosophical Framework*, Princeton: Princeton University Press.
-* Estlund, David M., Jeremy Waldron, Bernard Grofman, and Scott L. Feld, 1989, “Democratic Theory and the Public Interest: Condorcet and Rousseau Revisited”, *American Political Science Review*, 83(4): 1317–1340. doi:10.2307/1961672
-* Farber, Henry S. and Joanne Gowa, 1995, “Polities and Peace”, *International Security*, 20(2): 123–146. doi:10.2307/2539231
-* Forst, Rainer, 2016, “The Justification of Basic Rights: A Discourse-Theoretical Approach”, *Netherlands Journal of Legal Philosophy*, 45(3): 7–28. doi:10.5553/NJLP/221307132016045003002
+* Estlund, David M., Jeremy Waldron, Bernard Grofman, and Scott L. Feld, 1989, “Democratic Theory and the Public Interest: Condorcet and Rousseau Revisited”, *American Political Science Review*, 83(4): 1317–1340. doi: 10.2307/1961672
+* Farber, Henry S. and Joanne Gowa, 1995, “Polities and Peace”, *International Security*, 20(2): 123–146. doi: 10.2307/2539231
+* Forst, Rainer, 2016, “The Justification of Basic Rights: A Discourse-Theoretical Approach”, *Netherlands Journal of Legal Philosophy*, 45(3): 7–28. doi: 10.5553/NJLP/221307132016045003002
 * Gartzke, Erik, 2007, “The Capitalist Peace”, *American Journal of Political Science*, 51(1): 166–91.
 * Gaus, Gerald F., 1996, *Justificatory Liberalism: An Essay on Epistemology and Political Theory*, New York: Oxford University Press.
-* –––, 2011, *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780844
-* Goodin, Robert E., 2003, *Reflective Democracy*, Oxford: Oxford University Press. doi:10.1093/0199256179.001.0001
-* –––, 2007, “Enfranchising All Affected Interests, and Its Alternatives”, *Philosophy & Public Affairs*, 35(1): 40–68. doi:10.1111/j.1088-4963.2007.00098.x
-* Goodin, Robert E. and Kai Spiekermann, 2019, *An Epistemic Theory of Democracy*, Oxford: Oxford University Press. doi:10.1093/oso/9780198823452.001.0001
+* –––, 2011, *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511780844
+* Goodin, Robert E., 2003, *Reflective Democracy*, Oxford: Oxford University Press. doi: 10.1093/0199256179.001.0001
+* –––, 2007, “Enfranchising All Affected Interests, and Its Alternatives”, *Philosophy & Public Affairs*, 35(1): 40–68. doi: 10.1111/j.1088-4963.2007.00098.x
+* Goodin, Robert E. and Kai Spiekermann, 2019, *An Epistemic Theory of Democracy*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198823452.001.0001
 * Gould, Carol C., 1988, *Rethinking Democracy: Freedom and Social Cooperation in Politics, Economics and Society*, New York: Cambridge University Press.
-* Grofman, Bernard and Scott L. Feld, 1988, “Rousseau’s General Will: A Condorcetian Perspective”, *American Political Science Review*, 82(2): 567–576. doi:10.2307/1957401
-* Guerrero, Alexander A., 2010, “The Paradox of Voting and the Ethics of Political Representation”, *Philosophy & Public Affairs*, 38(3): 272–306. doi:10.1111/j.1088-4963.2010.01188.x
+* Grofman, Bernard and Scott L. Feld, 1988, “Rousseau’s General Will: A Condorcetian Perspective”, *American Political Science Review*, 82(2): 567–576. doi: 10.2307/1957401
+* Guerrero, Alexander A., 2010, “The Paradox of Voting and the Ethics of Political Representation”, *Philosophy & Public Affairs*, 38(3): 272–306. doi: 10.1111/j.1088-4963.2010.01188.x
 * Gutmann, Amy and Dennis Thompson, 2004, *Why Deliberative Democracy?*, Princeton: Princeton University Press.
 * –––, 2014, *The Spirit of Compromise: Why Governing Demands It and Campaigning Undermines It: Why Governing Demands It and Campaigning Undermines It*, Princeton: Princeton University Press.
 * Habermas, Jürgen, 1992 [1996], *Faktizität und Geltung. Beiträge zur Diksurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt am Main: Suhrkamp Verlag. Translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), Cambridge, MA: MIT Press, 1996.
-* Hannon, Michael, 2020, “Empathetic Understanding and Deliberative Democracy”, *Philosophy and Phenomenological Research*, 101(3): 591–611. doi:10.1111/phpr.12624
-* Hardin, Russell, 1999, *Liberalism, Constitutionalism, and Democracy*, Oxford: Oxford University Press. doi:10.1093/0198290845.001.0001
+* Hannon, Michael, 2020, “Empathetic Understanding and Deliberative Democracy”, *Philosophy and Phenomenological Research*, 101(3): 591–611. doi: 10.1111/phpr.12624
+* Hardin, Russell, 1999, *Liberalism, Constitutionalism, and Democracy*, Oxford: Oxford University Press. doi: 10.1093/0198290845.001.0001
 * Hayek, Friedrich A., 1960, *The Constitution of Liberty*, Chicago, IL: University of Chicago Press.
 * Hobbes, Thomas, 1651, *Leviathan*, London; reprinted, C.B. MacPherson (ed.), Harmondsworth: Penguin Books, 1968.
-* Hong, Lu and Scott E. Page, 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers”, *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi:10.1073/pnas.0403723101
+* Hong, Lu and Scott E. Page, 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers”, *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi: 10.1073/pnas.0403723101
 * Hume, David, 1748, “Of the Original Contract”; reprinted in *Hume’s Ethical Writings: Selections from David Hume*, Alasdair MacIntyre (ed.), Notre Dame: University of Notre Dame Press, 1965.
-* Ingham, Sean, 2019, *Rule by Multiple Majorities: A New Theory of Popular Control*, Cambridge: Cambridge University Press. doi:10.1017/9781108683821
+* Ingham, Sean, 2019, *Rule by Multiple Majorities: A New Theory of Popular Control*, Cambridge: Cambridge University Press. doi: 10.1017/9781108683821
 * Kahan, Dan M., 2013, “Ideology, Motivated Reasoning, and Cognitive Reflection”, *Judgment and Decision Making*, 8(4): 407–424
 * Kant, Immanuel, 1795, *Zum ewigen Frieden: Ein philosophischer Entwurf*, Königsberg: Friedrich Nicolovius. Translated as “Toward Perpetual Peace” in *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (trans./ed.), Cambridge: Cambridge University Press, 1996, pp. 311–352.
 * Knight, Jack and James Johnson, 2011, *The Priority of Democracy: Political Consequences of Pragmatism*, Princeton: Princeton University Press.
-* Kolodny, Niko, 2014a, “Rule Over None I: What Justifies Democracy?”, *Philosophy & Public Affairs*, 42(3): 195–229. doi:10.1111/papa.12035
-* –––, 2014b, “Rule Over None II: Social Equality and the Justification of Democracy”, *Philosophy & Public Affairs*, 42(4): 287–336. doi:10.1111/papa.12037
-* Ladha, Krishna K., 1992, “The Condorcet Jury Theorem, Free Speech, and Correlated Votes”, *American Journal of Political Science*, 36(3): 617–634. doi:10.2307/2111584
-* Lai, Ten-Herng., 2019, “Justifying Uncivil Disobedience”, in *Oxford Studies in Political Philosophy, Volume 5*, David Sobel, Peter Vallentyne, and Steven Wall (eds.), Oxford: Oxford University Press, 90–114. doi:10.1093/oso/9780198841425.003.0004
-* Landa, Dimitri and Ryan Pevnick, 2020, “Representative Democracy as Defensible Epistocracy”, *American Political Science Review*, 114(1): 1–13. doi:10.1017/S0003055419000509
+* Kolodny, Niko, 2014a, “Rule Over None I: What Justifies Democracy?”, *Philosophy & Public Affairs*, 42(3): 195–229. doi: 10.1111/papa.12035
+* –––, 2014b, “Rule Over None II: Social Equality and the Justification of Democracy”, *Philosophy & Public Affairs*, 42(4): 287–336. doi: 10.1111/papa.12037
+* Ladha, Krishna K., 1992, “The Condorcet Jury Theorem, Free Speech, and Correlated Votes”, *American Journal of Political Science*, 36(3): 617–634. doi: 10.2307/2111584
+* Lai, Ten-Herng., 2019, “Justifying Uncivil Disobedience”, in *Oxford Studies in Political Philosophy, Volume 5*, David Sobel, Peter Vallentyne, and Steven Wall (eds.), Oxford: Oxford University Press, 90–114. doi: 10.1093/oso/9780198841425.003.0004
+* Landa, Dimitri and Ryan Pevnick, 2020, “Representative Democracy as Defensible Epistocracy”, *American Political Science Review*, 114(1): 1–13. doi: 10.1017/S0003055419000509
 * Landemore, Hélène, 2013, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton: Princeton University Press.
-* Layne, Christopher, 1994, “Kant or Cant: The Myth of the Democratic Peace”, *International Security*, 19(2): 5–49. doi:10.2307/2539195
+* Layne, Christopher, 1994, “Kant or Cant: The Myth of the Democratic Peace”, *International Security*, 19(2): 5–49. doi: 10.2307/2539195
 * Levy, Jack S. and William R. Thompson, 2010, *Causes of War*, Malden, MA: Wiley- Blackwell.
 * List, Christian, 2013, “Social Choice Theory”, in *Stanford Encyclopedia of Philosophy*, (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Social Choice Theory (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/social-choice/)>
-* List, Christian and Robert E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem”, *Journal of Political Philosophy*, 9(3): 277–306. doi:10.1111/1467-9760.00128
+* List, Christian and Robert E. Goodin, 2001, “Epistemic Democracy: Generalizing the Condorcet Jury Theorem”, *Journal of Political Philosophy*, 9(3): 277–306. doi: 10.1111/1467-9760.00128
 * Locke, John, 1690, *Second Treatise on Civil Government*, London; reprinted C.B. MacPherson (ed.), Indianapolis, IN: Hackett, 1980.
-* Lord, Charles G., Lee Ross, and Mark R. Lepper, 1979, “Biased Assimilation and Attitude Polarization: The Effects of Prior Theories on Subsequently Considered Evidence.”, *Journal of Personality and Social Psychology*, 37(11): 2098–2109. doi:10.1037/0022-3514.37.11.2098
+* Lord, Charles G., Lee Ross, and Mark R. Lepper, 1979, “Biased Assimilation and Attitude Polarization: The Effects of Prior Theories on Subsequently Considered Evidence.”, *Journal of Personality and Social Psychology*, 37(11): 2098–2109. doi: 10.1037/0022-3514.37.11.2098
 * Lupia Arthur and Matthew D. McCubbins, 1998, *The Democratic Dilemma: Can Citizens Learn What They Need To Know?*, Cambridge: Cambridge University Press.
-* Mackie, Gerry, 2003, *Democracy Defended*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511490293
+* Mackie, Gerry, 2003, *Democracy Defended*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511490293
 * Madison, James, Alexander Hamilton, and John Jay, 1787–1788, *The Federalist Papers*, New York; reprinted Isaac Kramnick (ed.), Harmondsworth, UK: Penguin Books, 1987. [[*Federalist Papers* available online](https://guides.loc.gov/federalist-papers/full-text)]
 * Mansbridge, Jane J. (ed.), 1990, *Beyond Self-Interest*, Chicago: University of Chicago Press.
-* Mansbridge, Jane, James Bohman, Simone Chambers, Thomas Christiano, Archon Fung, John Parkinson, Dennis F. Thompson, and Mark E. Warren, 2012, “A Systemic Approach to Deliberative Democracy”, in Parkinson and Mansbridge2003: 1–26. doi:10.1017/CBO9781139178914.002
+* Mansbridge, Jane, James Bohman, Simone Chambers, Thomas Christiano, Archon Fung, John Parkinson, Dennis F. Thompson, and Mark E. Warren, 2012, “A Systemic Approach to Deliberative Democracy”, in Parkinson and Mansbridge2003: 1–26. doi: 10.1017/CBO9781139178914.002
 * Markovits, Daniel, 2005, “Democratic Disobedience”, *Yale Law Journal*, 114(8): 1897–1952.
-* Maskivker, Julia, 2019, *The Duty to Vote*, Oxford: Oxford University Press. doi:10.1093/oso/9780190066062.001.0001
-* May, Simon Cabulea, 2005, “Principled Compromise and the Abortion Controversy”, *Philosophy & Public Affairs*, 33(4): 317–348. doi:10.1111/j.1088-4963.2005.00035.x
+* Maskivker, Julia, 2019, *The Duty to Vote*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190066062.001.0001
+* May, Simon Cabulea, 2005, “Principled Compromise and the Abortion Controversy”, *Philosophy & Public Affairs*, 33(4): 317–348. doi: 10.1111/j.1088-4963.2005.00035.x
 * Mill, John Stuart, 1861 [1991], *Considerations on Representative Government*, London: Parker, Son, and Bourn; reprinted Buffalo, NY: Prometheus Books, 1991.
 * Miller, David, 1995, *On Nationality*, Oxford: Clarendon Press.
 * Nozick, Robert, 1974, *Anarchy, State and Utopia*, New York: Basic Books.
 * Page, Scott E., 2007, *The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies*, Princeton: Princeton University Press.
-* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi:10.1093/019824908X.001.0001
-* Parkinson, John and Jane Mansbridge (eds.), 2012, *Deliberative Systems: Deliberative Democracy at the Large Scale*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139178914
-* Pasternak, Avia, 2018, “Political Rioting: A Moral Assessment”, *Philosophy & Public Affairs*, 46(4): 384–418. doi:10.1111/papa.12132
-* Peter, Fabienne, 2008, “Pure Epistemic Proceduralism”, *Episteme*, 5(1): 33–55. doi:10.3366/E1742360008000221
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi: 10.1093/019824908X.001.0001
+* Parkinson, John and Jane Mansbridge (eds.), 2012, *Deliberative Systems: Deliberative Democracy at the Large Scale*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139178914
+* Pasternak, Avia, 2018, “Political Rioting: A Moral Assessment”, *Philosophy & Public Affairs*, 46(4): 384–418. doi: 10.1111/papa.12132
+* Peter, Fabienne, 2008, “Pure Epistemic Proceduralism”, *Episteme*, 5(1): 33–55. doi: 10.3366/E1742360008000221
 * –––, 2009, *Democratic Legitimacy*, New York: Routledge.
-* Pevnick, Ryan, 2020, “The Failure of Instrumental Arguments for a Human Right to Democracy”, *Journal of Political Philosophy*, 28(1): 27–50. doi:10.1111/jopp.12197
+* Pevnick, Ryan, 2020, “The Failure of Instrumental Arguments for a Human Right to Democracy”, *Journal of Political Philosophy*, 28(1): 27–50. doi: 10.1111/jopp.12197
 * Pitkin, Hanna Fenichel, 1967, *The Concept of Representation*, Berkeley, CA: University of California.
 * Plato, *The Republic*, revised/trans. by Lee, D., Harmondsworth: Penguin Books, 1974, 2nd edition.
-* Quirk, Paul J., 2014, “Making It up on Volume: Are Larger Groups Really Smarter?”, *Critical Review*, 26(1–2): 129–150. doi:10.1080/08913811.2014.907046
+* Quirk, Paul J., 2014, “Making It up on Volume: Are Larger Groups Really Smarter?”, *Critical Review*, 26(1–2): 129–150. doi: 10.1080/08913811.2014.907046
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
 * –––, 2005, *Political Liberalism*, New York: Columbia University Press, expanded edition.
 * Ray, James Lee, 1995, *Democracy and International Conflict: An Evaluation of the Democratic Peace Proposition*, Columbia, SC: University of South Carolina Press.
 * Raz, Joseph, 1979, *The Authority of Law: Essays on Law and Morality*, Oxford: Clarendon Press.
 * Riker, William H., 1982, *Liberalism Against Populism: A Confrontation Between the Theory of Democracy and the Theory of Social Choice*, San Francisco, CA: W. H. Freeman.
 * Rosenblum, Nancy L., 2008, *On the Side of the Angels: An Appreciation of Parties and Partisanship*, Princeton: Princeton University Press.
-* Rousseau, David L., Christopher Gelpi, Dan Reiter, and Paul K. Huth, 1996, “Assessing the Dyadic Nature of the Democratic Peace, 1918–88”, *American Political Science Review*, 90(3): 512–533. doi:10.2307/2082606
+* Rousseau, David L., Christopher Gelpi, Dan Reiter, and Paul K. Huth, 1996, “Assessing the Dyadic Nature of the Democratic Peace, 1918–88”, *American Political Science Review*, 90(3): 512–533. doi: 10.2307/2082606
 * Rousseau, Jean-Jacques, 1762, *Du contrat social; ou Principes du droit politique*, Amsterdam. Translated as *The Social Contract*, Charles Frankel (trans.), New York: Hafner Publishing Co., 1947.
 * Russett, Bruce M., 1993, *Grasping the Democratic Peace: Principles for a Post–Cold War World*, Princeton: Princeton University Press.
 * Russett, Bruce M. and Harvey Starr, 2003, “From Democratic Peace to Kantian Peace: Democracy and Conflict in the International System”, in *Handbook of War Studies II*, Manus I. Midlarsky (ed.), Ann Arbor, MI: University of Michigan Press, 93–128.
-* Sabl, Andrew, 2001, “Looking Forward to Justice: Rawlsian Civil Disobedience and Its Non-Rawlsian Lessons”, *Journal of Political Philosophy*, 9(3): 307–330. doi:10.1111/1467-9760.00129
+* Sabl, Andrew, 2001, “Looking Forward to Justice: Rawlsian Civil Disobedience and Its Non-Rawlsian Lessons”, *Journal of Political Philosophy*, 9(3): 307–330. doi: 10.1111/1467-9760.00129
 * Scheffler, Samuel, 2010, *Equality and Tradition: Questions of Value in Moral and Political Theory*, New York: Oxford University Press.
 * Schumpeter, Joseph A., 1942 [1950], *Capitalism, Socialism and Democracy*, New York: Harper and Row; second edition 1947; third edition 1950.
 * Sen, Amartya, 1999, *Development as Freedom*, New York: Knopf.
-* Simmons, A. John, 2001, *Justification and Legitimacy: Essays on Rights and Obligations*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625152
+* Simmons, A. John, 2001, *Justification and Legitimacy: Essays on Rights and Obligations*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625152
 * –––, 2007, *Political Philosophy*, Oxford: Oxford University Press.
 * Singer, Peter, 1973, *Democracy and Disobedience*, Oxford: Clarendon Press.
-* Smith, William, 2011, “Civil Disobedience and the Public Sphere”, *Journal of Political Philosophy*, 19(2): 145–166. doi:10.1111/j.1467-9760.2010.00365.x
+* Smith, William, 2011, “Civil Disobedience and the Public Sphere”, *Journal of Political Philosophy*, 19(2): 145–166. doi: 10.1111/j.1467-9760.2010.00365.x
 * Somin, Ilya, 2013, *Democracy and Political Ignorance: Why Smaller Government is Smarter*, Stanford, CA: Stanford University Press.
-* Song, Sarah, 2012, “The Boundary Problem in Democratic Theory: Why the Demos Should Be Bounded by the State”, *International Theory*, 4(1): 39–68. doi:10.1017/S1752971911000248
+* Song, Sarah, 2012, “The Boundary Problem in Democratic Theory: Why the Demos Should Be Bounded by the State”, *International Theory*, 4(1): 39–68. doi: 10.1017/S1752971911000248
 * Stilz, Anna, 2009, *Liberal Loyalty: Freedom, Obligation, and the State*, Princeton: Princeton University Press.
-* –––, 2016, “The Value of Self-Determination”, in *Oxford Studies in Political Philosophy, Volume 2*, David Sobel, Peter Vallentyne, and Steven Wall (eds.), Oxford: Oxford University Press, ch. 8. doi:10.1093/acprof:oso/9780198759621.003.0005
+* –––, 2016, “The Value of Self-Determination”, in *Oxford Studies in Political Philosophy, Volume 2*, David Sobel, Peter Vallentyne, and Steven Wall (eds.), Oxford: Oxford University Press, ch. 8. doi: 10.1093/acprof: oso/9780198759621.003.0005
 * Thompson, Abigail, 2014, “Does Diversity Trump Ability?” *Notices of the AMS*, 61(9): 1024–1030. [[Thompson 2014 available online](https://www-ams-org.stanford.idm.oclc.org/notices/201409/rnoti-p1024.pdf)]
-* Valentini, Laura, 2013, “Justice, Disagreement and Democracy”, *British Journal of Political Science*, 43(1): 177–199. doi:10.1017/S0007123412000294
-* Viehoff, Daniel, 2014, “Democratic Equality and Political Authority”, *Philosophy & Public Affairs*, 42(4): 337–375. doi:10.1111/papa.12036
-* Waldron, Jeremy, 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s *Politics*”, *Political Theory*, 23(4): 563–584. doi:10.1177/0090591795023004001
+* Valentini, Laura, 2013, “Justice, Disagreement and Democracy”, *British Journal of Political Science*, 43(1): 177–199. doi: 10.1017/S0007123412000294
+* Viehoff, Daniel, 2014, “Democratic Equality and Political Authority”, *Philosophy & Public Affairs*, 42(4): 337–375. doi: 10.1111/papa.12036
+* Waldron, Jeremy, 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s *Politics*”, *Political Theory*, 23(4): 563–584. doi: 10.1177/0090591795023004001
 * –––, 1999, *Law and Disagreement*, Oxford: Clarendon Press.
-* Wall, Steven, 2007, “Democracy and Equality”, *The Philosophical Quarterly*, 57(228): 416–438. doi:10.1111/j.1467-9213.2007.495.x
+* Wall, Steven, 2007, “Democracy and Equality”, *The Philosophical Quarterly*, 57(228): 416–438. doi: 10.1111/j.1467-9213.2007.495.x
 * Weart, Spencer R., 1998, *Never at War: Why Democracies Will Never Fight One Another*, New Haven, CT: Yale University Press.
-* Wendt, Fabian, 2016, *Compromise, Peace and Public Justification: Political Morality Beyond Justice*, London: Palgrave Macmillon. doi:10.1007/978-3-319-28877-2
-* Weinstock, Daniel, 2013, “On the Possibility of Principled Moral Compromise”, *Critical Review of International Social and Political Philosophy*, 16(4): 537–556. doi:10.1080/13698230.2013.810392
+* Wendt, Fabian, 2016, *Compromise, Peace and Public Justification: Political Morality Beyond Justice*, London: Palgrave Macmillon. doi: 10.1007/978-3-319-28877-2
+* Weinstock, Daniel, 2013, “On the Possibility of Principled Moral Compromise”, *Critical Review of International Social and Political Philosophy*, 16(4): 537–556. doi: 10.1080/13698230.2013.810392
 * Whelan, Frederick G., 1983, “Prologue: Democratic Theory and the Boundary Problem”, *Nomos 25: Liberal Democracy*, J. Roland Pennock and John W. Chapman (eds.), American Society for Political and Legal Philosophy, 13–47.
-* White, Jonathan and Lea Ypi, 2016, *The Meaning of Partisanship*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199684175.001.0001
+* White, Jonathan and Lea Ypi, 2016, *The Meaning of Partisanship*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199684175.001.0001
 * Williams, B., 1973, “A Critique of Utilitarianism”, in *Utilitarianism: For and Against*, with J.J.C. Smart, Cambridge: Cambridge University Press.
 * Wolff, Robert Paul, 1970, *In Defense of Anarchism*, New York, NY: Harper and Row.
 * Wright, Gavin, 2013, *Sharing the Prize: The Economics of the Civil Rights Revolution in the American South*, Cambridge, MA: Harvard University Press.

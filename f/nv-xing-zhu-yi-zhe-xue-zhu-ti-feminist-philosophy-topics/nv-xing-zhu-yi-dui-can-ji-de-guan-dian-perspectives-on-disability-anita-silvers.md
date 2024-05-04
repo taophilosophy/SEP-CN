@@ -26,7 +26,7 @@
 
 一些人认为，例如，传统上哲学理论所追求的普遍性不能包容女性而将其抹去。一些人质疑这样的标准是否能辨识，或者反而忽视了女性生活中重要的维度和纹理。一些人还肯定了不同类型女性之间的差异，他们认为这些差异，即使不是本质的，至少在哲学上与男女之间的差异一样重要。（例如，Spelman 1988 年，Fuss 1989 年和 Crenshaw 1991 年，以及其他许多人，讨论了这些问题。）
 
-这种与标准哲学观点的背道而驰，引发了对各种主题的哲学理论化的探讨，包括认识方式、存在形式（尤其是身体化的本体论含义和身心关系）、行为原则、内在有价值的人类特性和生活方式、个人和社会身份的概念化，以及其他传统哲学主题，通过关注残疾引发或相关的差异。此外，一些女性主义哲学家追溯到对女性的偏见性前提和其他不公正对待，认为这是因为她们被视为有缺陷，从而遭受通常社会实践中贬低残疾和残疾人的待遇。一些最初具有哲学影响力的残疾讨论涉及到女性的身体现实被认为是次等的，因为它们不符合健康男性的典型表现。一个例子是艾丽丝·玛丽恩·杨（Iris Marion Young）1980 年的论文《像女孩一样扔球》，探讨了男性化呈现女性身体的主流化，将女性的身体特征视为脆弱和累赘，错误地将女性身体理解为脆弱和累赘。结果，女性被阻碍于自信地接受自己的空间定位经验，而被诱导低估自己的身体能力，并通过变形的手势和在空间中的动作。另一个例子是苏珊·温德尔（Susan Wendell）1989 年发表在《希帕提娅》杂志上的文章《走向女性主义残疾理论》，批评了女性主义哲学对健康与幸福、生产力的不加批判、不加反思的混淆。
+这种与标准哲学观点的背道而驰，引发了对各种主题的哲学理论化的探讨，包括认识方式、存在形式（尤其是身体化的本体论含义和身心关系）、行为原则、内在有价值的人类特性和生活方式、个人和社会身份的概念化，以及其他传统哲学主题，通过关注残疾引发或相关的差异。此外，一些女性主义哲学家追溯到对女性的偏见性前提和其他不公正对待，认为这是因为她们被视为有缺陷，从而遭受通常社会实践中贬低残疾和残疾人的待遇。一些最初具有哲学影响力的残疾讨论涉及到女性的身体现实被认为是次等的，因为它们不符合健康男性的典型表现。一个例子是艾丽丝 · 玛丽恩 · 杨（Iris Marion Young）1980 年的论文《像女孩一样扔球》，探讨了男性化呈现女性身体的主流化，将女性的身体特征视为脆弱和累赘，错误地将女性身体理解为脆弱和累赘。结果，女性被阻碍于自信地接受自己的空间定位经验，而被诱导低估自己的身体能力，并通过变形的手势和在空间中的动作。另一个例子是苏珊 · 温德尔（Susan Wendell）1989 年发表在《希帕提娅》杂志上的文章《走向女性主义残疾理论》，批评了女性主义哲学对健康与幸福、生产力的不加批判、不加反思的混淆。
 
 在一个概念氛围中，男性身体表现方式占主导地位，女性因被认为在身体或精神力量或健康方面存在不足而面临被隔离和不尊重的风险增加。女性被频繁指派（而非男性）照顾残疾人士，这种社会安排通常给那些必须承担这一角色的人带来负担，但往往未能认可或实质性地奖励他们，因此这种安排不公平地对待了女性，这也对女性的解放主义女性主义哲学工作与深刻的残疾哲学的发展产生了重要影响。
 
@@ -40,9 +40,9 @@
 
 女性主义认识论是一个在哲学上具有创新性的改革运动，可以作为对残疾进行哲学探讨的指南，尽管在撰写本文时，残疾对于充分认识论的重要性在残疾学术研究中尚未得到充分探讨，无论是在哲学研究中还是在残疾研究中。一些女性主义哲学家（以及一些女性主义心理学家）认为，女性具有不同于男性的认知方式。 （对于心理学家，请参阅 Belenky 等人 1986 年和 Tannen 1990 年；对于哲学家，请参阅 Code 1991 年和 Ruddick 1989 年）例如，Tannen 引用社会语言学研究的证据，认为有利于女性学习的环境与适合男性的环境不同。更普遍地说，受到这些观点影响的一些理论家将女性描述为被疏远、不满和不信服，当她们被视为孤立认知者的传统认识论范式时，这种范式具有超然、普遍化和控制性的知识方法。对这种观点的不满促使了女性主义认识论对于实现客观性的可能性的洞见，而不坚持认知对每个人的工作方式相同，以及关于定位、情境化和细化真理的重要性，以及关于通过合作实践获得知识的好处。 （有关参考资料，请参阅 SEP 条目中关于女性主义社会认识论的第 2 节“认知者的社会模型”）
 
-女性主义认识论者在发展他们的见解时，已经探讨了认识者的社会情境对知识的影响。然而，定位性不能仅仅是认识者的社会定位，或者他们的历史或文化的问题。我们所知道的受到我们获取知识要素的方式的调节，而这些过程不仅受到身体状况的影响，也受到社会条件的塑造。认知技能是大脑各个领域发展的表达，而大脑又响应于身体的其他部分。因此，我们可能期望残疾人，他们的身体与种典型的身体有所不同，有时也会发展出与大多数其他人不同的认知方法和能力。顺便提一下，在哲学家将损伤视为不足之外的极为罕见的例子中，18 世纪实验哲学家丹尼斯·狄德罗调查了盲人的认知方式。狄德罗在他的《给那些看得见的人的盲人书信》中描述了盲人如何了解世界，以展示笛卡尔过度依赖将理性与光或视觉联系起来的隐喻以及笛卡尔依赖视觉而不是触觉的认知方式的缺陷，这种立场与近期女性主义对笛卡尔的批评相似，如果不是预示着。
+女性主义认识论者在发展他们的见解时，已经探讨了认识者的社会情境对知识的影响。然而，定位性不能仅仅是认识者的社会定位，或者他们的历史或文化的问题。我们所知道的受到我们获取知识要素的方式的调节，而这些过程不仅受到身体状况的影响，也受到社会条件的塑造。认知技能是大脑各个领域发展的表达，而大脑又响应于身体的其他部分。因此，我们可能期望残疾人，他们的身体与种典型的身体有所不同，有时也会发展出与大多数其他人不同的认知方法和能力。顺便提一下，在哲学家将损伤视为不足之外的极为罕见的例子中，18 世纪实验哲学家丹尼斯 · 狄德罗调查了盲人的认知方式。狄德罗在他的《给那些看得见的人的盲人书信》中描述了盲人如何了解世界，以展示笛卡尔过度依赖将理性与光或视觉联系起来的隐喻以及笛卡尔依赖视觉而不是触觉的认知方式的缺陷，这种立场与近期女性主义对笛卡尔的批评相似，如果不是预示着。
 
-传统上，哲学家们当然会对残疾人关于受其特定缺陷限制的主题的知识要求不予理会。在哲学家布莱恩·梅基和马丁·米利根之间的通信中给出了一个说明性例证，梅基仅仅因为米利根是盲人，从出生就几乎没有视觉记忆，但却完全理解“红色”的含义，就毫无争议地否定了米利根的报告和论点（梅基和米利根 1996）。在这里，梅基将米利根描绘为一个有缺陷的认知者，因为他是盲人，梅基通过断言米利根与红色的经历并不完全像梅基自己的经历来得出这个结论。然而，指出从出生就是盲人的个体并没有发展视觉处理技能，然后暗示他们在认知上一定不如有视力的人，或者说他们的认知方式无法达到有视力的人的认知重要性，这是有倾向性的。相反，在一些天生盲人中，例如，在大多数其他人中与视觉处理相关的大脑区域似乎代之以听觉处理的场所，这意味着大脑的更大部分可用于处理通过听觉获得的信息，而不像对于有视力的人那样。这种生物学差异被认为解释了为什么在许多文化中，盲人被认为具有传统技能，能够准确记忆和传递口头文字，并对口头传达的文本有更深刻的理解。因此，保存和表演来自权威立场的长篇福音或叙述的盲人吟游诗人是许多文化历史中熟悉的人物（奥尼尔 2003）。
+传统上，哲学家们当然会对残疾人关于受其特定缺陷限制的主题的知识要求不予理会。在哲学家布莱恩 · 梅基和马丁 · 米利根之间的通信中给出了一个说明性例证，梅基仅仅因为米利根是盲人，从出生就几乎没有视觉记忆，但却完全理解“红色”的含义，就毫无争议地否定了米利根的报告和论点（梅基和米利根 1996）。在这里，梅基将米利根描绘为一个有缺陷的认知者，因为他是盲人，梅基通过断言米利根与红色的经历并不完全像梅基自己的经历来得出这个结论。然而，指出从出生就是盲人的个体并没有发展视觉处理技能，然后暗示他们在认知上一定不如有视力的人，或者说他们的认知方式无法达到有视力的人的认知重要性，这是有倾向性的。相反，在一些天生盲人中，例如，在大多数其他人中与视觉处理相关的大脑区域似乎代之以听觉处理的场所，这意味着大脑的更大部分可用于处理通过听觉获得的信息，而不像对于有视力的人那样。这种生物学差异被认为解释了为什么在许多文化中，盲人被认为具有传统技能，能够准确记忆和传递口头文字，并对口头传达的文本有更深刻的理解。因此，保存和表演来自权威立场的长篇福音或叙述的盲人吟游诗人是许多文化历史中熟悉的人物（奥尼尔 2003）。
 
 有其他盲人通过回声定位来认识他们的物理环境，培养了用舌头发出点击声并识别回弹声音的不同特质的技能（Tresniowski and Arias 2006 [in Other Internet Resources]; 另见“Shattering Barriers”在 World Access for the Blind 网站上，其他互联网资源）。比利时的警察部队包括可以听取罪犯录音对话并通过声音的回响辨别他们所在的房间类型，是否使用座机或手机，甚至他们所乘坐的汽车类型，或者嫌疑人的佛兰芒语带有阿尔巴尼亚口音而不是摩洛哥口音（Soares 2007）。视力正常的人通常缺乏通过回声声音导航的功能能力，因此对周围物体的吸收/反射特性的了解方式较差，以及对口语细微差别的聋感，这当然应该被认为是一个劣势。然而，即使视力正常的人必须在黑暗中找路或在视线之外区分对话者时，几乎从未被这样看待。
 
@@ -50,7 +50,7 @@
 
 这样的个体通常被豁免于哲学的范围之外，例如，当认识论理论将盲人的判断视为与经验知识的哲学描述无关或不重要时，像哲学家麦基那样否定了哲学家米利根。而那些缺乏抽象思维能力的人，因此偏离了哲学家们自己擅长并极其喜爱的人类能力类型，通常被视为不重要，也就是说，不值得哲学上的考虑。那些认知异常妨碍他们达到并表达复杂和理性化自身利益描述的人往往没有被给予完全的地位，有时甚至被道德和政治理论拒绝考虑，包括致力于尊重公民多元价值观的多元自由主义理论。 （见 McMahan 2005 和 Kittay 2005）然而，正如弗朗西斯和西尔弗斯（弗朗西斯和西尔弗斯 2007 年，西尔弗斯和弗朗西斯 2009 年）所指出的，通常自主的个体并不是孤立地达到，也不是独立于与他人的互动之外表达对自身利益的概念。通过他们与他人之间结构相似的协作互动发展出的认知受损人群的利益概念，在道德和政治哲学中应得到同等的考虑。
 
-为了解释哲学范式与现实之间的不匹配，通常不允许以盲人、唐氏综合症或威廉氏综合症等离群者的证词或例子，理由是这些证词或例子在挑战或偏离哲学理论时必然存在缺陷。然而，忽视这些非凡人士的立场、表现和经验世界的报道，会通过降低哲学叙述的认识论充分性而使哲学贫乏。此外，正如米兰达·弗里克对认识论不公正的分析所示，系统性地贬低残疾人士提出的信念主张应被谴责为证言不义：当个体渴望担任知识者角色时，他们基于残疾身份而受到伤害（参见弗里克 2009 年）。此外，根据女性主义科学哲学的一项教训，除非残疾人士，包括认知残疾人士，成为探究者社群的完全受尊重成员，否则无法产生关于残疾的客观知识（参见朗吉诺 2001 年）。弗朗西斯和席尔弗斯提出了一种构建善的理念的方法，充分尊重和包容严重残疾人士观点（弗朗西斯和席尔弗斯 2006 年，席尔弗斯和弗朗西斯 2009 年）。
+为了解释哲学范式与现实之间的不匹配，通常不允许以盲人、唐氏综合症或威廉氏综合症等离群者的证词或例子，理由是这些证词或例子在挑战或偏离哲学理论时必然存在缺陷。然而，忽视这些非凡人士的立场、表现和经验世界的报道，会通过降低哲学叙述的认识论充分性而使哲学贫乏。此外，正如米兰达 · 弗里克对认识论不公正的分析所示，系统性地贬低残疾人士提出的信念主张应被谴责为证言不义：当个体渴望担任知识者角色时，他们基于残疾身份而受到伤害（参见弗里克 2009 年）。此外，根据女性主义科学哲学的一项教训，除非残疾人士，包括认知残疾人士，成为探究者社群的完全受尊重成员，否则无法产生关于残疾的客观知识（参见朗吉诺 2001 年）。弗朗西斯和席尔弗斯提出了一种构建善的理念的方法，充分尊重和包容严重残疾人士观点（弗朗西斯和席尔弗斯 2006 年，席尔弗斯和弗朗西斯 2009 年）。
 
 像残疾人群体一样，女性群体也被排斥和边缘化，因为她们未能遵守生物或社会范式，因此被否定了获得知识的授权方式。她们相信自己所知道的常常被拒绝，仅被视为认识上的异常。压迫性政策传统上被辩护为“自然”使女性在身体、智力和情感上脆弱（Miles 1988）。作为回应，女性主义认识论欢迎承认社会位置在知识主张的形成中的合法影响，以及合作实践在追求知识过程中的核心地位。
 
@@ -70,13 +70,13 @@
 
 残疾身份可能因各种截然不同的原因而被认领。有时，目的是为了获得承担“病人”角色的资格，从而免除各种与生产力相关的期望和责任。有时，被认定为残疾者可以获得各种政府福利。有时，被理解为残疾会触发对非典型功能方式的接受或适应。有时，残疾身份被视为政治过程中的一种赋权元素，旨在巩固一个足够庞大和有活力的群体，以挑战基于残疾的污名化、剥削和排斥。随着认定为残疾者的不同目的的原因的分歧，判断个体是否残疾的标准或条件也会有所不同，以及促使个体主要以与残疾相关的术语来理解自己的诱因也会有所不同。
 
-女性主义哲学中提倡的各种身份理论的包容性是残疾女性关注的首要和持久问题。讨论残疾女性是否能够舒适地成为女性主义者时，安妮塔·席尔弗斯提出了一个问题，即女性主义是否偏爱“正常”女性的功能能力和社会角色。她发现一些女性主义理论有“夸大这些（典型女性的功能能力）直至它们成为女性标准，残疾女性在这些标准下变得无形”（1998a）。
+女性主义哲学中提倡的各种身份理论的包容性是残疾女性关注的首要和持久问题。讨论残疾女性是否能够舒适地成为女性主义者时，安妮塔 · 席尔弗斯提出了一个问题，即女性主义是否偏爱“正常”女性的功能能力和社会角色。她发现一些女性主义理论有“夸大这些（典型女性的功能能力）直至它们成为女性标准，残疾女性在这些标准下变得无形”（1998a）。
 
-女性主义哲学验证和赞美女性通常执行并在其中表现出色的活动，比如以母性伦理理论为中心，将母性视为卓越的道德行为。但并非所有女性都被允许承担女性角色。即使在最进步的当代社会中，残疾女性也会遭遇阻力，阻碍她们保持生育能力，或者获取生殖医疗技术以实现生育，甚至保留她们所生育的孩子的监护权。卡琳·巴伦（Karin Barron）对残疾年轻女性生活进行了广泛研究，她观察到我们非常重视女性照顾他人的技艺，但残疾年轻女性传统上的被照顾者身份阻止了她们承担这一角色，因此也无法展示任何适应这一角色的能力（1997）。我们应该清楚地认识到，阻止巴伦研究的年轻女性成为家庭主妇和母亲的不是她们缺乏在这些角色中服务的潜力，而是她们被分配到一种替代社会地位，这种地位定义了她们的依赖程度，以至于她们养育他人的能力几乎无法想象。
+女性主义哲学验证和赞美女性通常执行并在其中表现出色的活动，比如以母性伦理理论为中心，将母性视为卓越的道德行为。但并非所有女性都被允许承担女性角色。即使在最进步的当代社会中，残疾女性也会遭遇阻力，阻碍她们保持生育能力，或者获取生殖医疗技术以实现生育，甚至保留她们所生育的孩子的监护权。卡琳 · 巴伦（Karin Barron）对残疾年轻女性生活进行了广泛研究，她观察到我们非常重视女性照顾他人的技艺，但残疾年轻女性传统上的被照顾者身份阻止了她们承担这一角色，因此也无法展示任何适应这一角色的能力（1997）。我们应该清楚地认识到，阻止巴伦研究的年轻女性成为家庭主妇和母亲的不是她们缺乏在这些角色中服务的潜力，而是她们被分配到一种替代社会地位，这种地位定义了她们的依赖程度，以至于她们养育他人的能力几乎无法想象。
 
-卢西亚·卡尔森（Licia Carlson）已经表明，一种性别化的社会角色概念化过程甚至影响了智力低下的诊断分类。她探讨了表征认知残疾和性别压迫相互关联的复杂互动。卡尔森指出，虽然负责收容智力残疾人的机构主任大多是男性，但雇佣女性外出识别低能症病例的理论是，女性天生更具直觉，因此更适合这项工作。这是一个时代，普通女性被认为在捍卫社会免受低能症者所担心的道德弱点侵害方面起着主导作用，这是基于一种关于女性致力于维护社区美德以保护年轻人的观念。卡尔森观察到，尽管承认人类的脆弱和依赖性具有价值，但女性主义者应该关注将智力残疾者置于这种镜像角色中，就像关注将第三世界女性主义作为西方女性主义的镜像一样（Carlson 2009; 另见 Narayan 1997）。
+卢西亚 · 卡尔森（Licia Carlson）已经表明，一种性别化的社会角色概念化过程甚至影响了智力低下的诊断分类。她探讨了表征认知残疾和性别压迫相互关联的复杂互动。卡尔森指出，虽然负责收容智力残疾人的机构主任大多是男性，但雇佣女性外出识别低能症病例的理论是，女性天生更具直觉，因此更适合这项工作。这是一个时代，普通女性被认为在捍卫社会免受低能症者所担心的道德弱点侵害方面起着主导作用，这是基于一种关于女性致力于维护社区美德以保护年轻人的观念。卡尔森观察到，尽管承认人类的脆弱和依赖性具有价值，但女性主义者应该关注将智力残疾者置于这种镜像角色中，就像关注将第三世界女性主义作为西方女性主义的镜像一样（Carlson 2009; 另见 Narayan 1997）。
 
-卡尔森的分析应促使女性主义哲学家重新考虑他们对认知残疾的理解。女性主义哲学家并不因其哲学信仰而免疫于诸如对智力残疾者生活现实的无知、智力残疾的本质以及这一类别的历史基础等限制（Carlson 2009,2010）。正如女性主义者质疑男性思维方式的特权地位一样，卡尔森质疑一些女性主义者是否偏爱自己的认知方式和水平（Carlson 2001）。他们应进一步询问，是否他们已经构建了女性主义哲学思辨的术语，使得智力努力成为过于核心的事业。当被告知她的孩子患有先天智力障碍时，伊娃·基泰（Eva Kittay）深刻、深情和个人地指出了这一点，描述了由此带来的转变性洞察：
+卡尔森的分析应促使女性主义哲学家重新考虑他们对认知残疾的理解。女性主义哲学家并不因其哲学信仰而免疫于诸如对智力残疾者生活现实的无知、智力残疾的本质以及这一类别的历史基础等限制（Carlson 2009,2010）。正如女性主义者质疑男性思维方式的特权地位一样，卡尔森质疑一些女性主义者是否偏爱自己的认知方式和水平（Carlson 2001）。他们应进一步询问，是否他们已经构建了女性主义哲学思辨的术语，使得智力努力成为过于核心的事业。当被告知她的孩子患有先天智力障碍时，伊娃 · 基泰（Eva Kittay）深刻、深情和个人地指出了这一点，描述了由此带来的转变性洞察：
 
 > 最糟糕的预期是她的残疾涉及她的智力。…我致力于思想的生活。…我如何抚养一个不会参与其中的女儿？如果我的生命从思想中获得意义，那么她的生命将有什么样的意义？…我们已经知道我们学到了一些东西。我们认为我们珍视的东西，我们——我——认为是人类核心的东西——思考的能力，理性，并不是那样，根本不是那样。 (Kittay 1998, 150)
 
@@ -88,13 +88,13 @@
 
 ## 具身化
 
-女性主义学者探讨了肉体或生物学上的独特性如何调解日常活动，以便自我认同和社会经验相互作用，并相互协调。女性主义研究，如苏珊·舍尔温（1992）的研究表明，医学将女性视为残疾人，干预其身体以消除或规范（使用福柯的术语）那些标志着她们与所谓劣等群体认同的部分。医学特别轻视女性的情感生活。医学如何对待残疾人的历史类似。这是一个镇压和拒绝与健康年轻男性所提供的假定范式或规范不同的身体和思维的历史。
+女性主义学者探讨了肉体或生物学上的独特性如何调解日常活动，以便自我认同和社会经验相互作用，并相互协调。女性主义研究，如苏珊 · 舍尔温（1992）的研究表明，医学将女性视为残疾人，干预其身体以消除或规范（使用福柯的术语）那些标志着她们与所谓劣等群体认同的部分。医学特别轻视女性的情感生活。医学如何对待残疾人的历史类似。这是一个镇压和拒绝与健康年轻男性所提供的假定范式或规范不同的身体和思维的历史。
 
 受到这些与他们自己历史的相似之处的启发，一些早期的残疾研究学者拒绝了旨在改变他们自己的医疗实践。他们将残疾的医学模式描述为将残疾视为需要医学而非社会干预的问题，并认为修复残疾既是医疗专业人员的特权也是责任，是一种压迫。他们认为医学本身是一种强制性工具，使残疾人处于次要地位，至少通过诱发他们的自卑和自我厌恶感。（见 UPIAS 1978; Finkelstein 1980; Oliver 1983.)
 
 就像生物性别和将人类分为两性在女性主义理论中最初被视为既定事实一样，早期残疾研究学者提出将诸如听觉、视觉、行走、言语或执行认知活动等缺陷视为生物性的既定事实，将残疾视为对缺陷的社会解释。根据这些观点，身体（包括大脑）的属性被认为是在社会之前存在的。根据这些观点，对中性肉体属性的社会建构的解释和评价将人们归入具有各种身体的人在社会角色上处于有利或不利的地位。
 
-珍妮·莫里斯（Jenny Morris），残疾女性运动的领袖，提出社会模式残疾理论使残疾人能够根据个人经验和自我授权来定义自己的身体和差异，摆脱医学权威强加的脱离诊断。社会模式将残疾人的局限性解释为根植于对残疾人的偏见的社会问题。一旦被理解为偏见而非生物学产物，残疾人的劣势可以通过追求正义来改革压迫他们的做法。根据莫里斯的观点，采用社会模式残疾理论使得可以讨论如何解决残疾人功能的局限性，而不是谴责或要求改善他们的身体状况（或者说，他们的思想）（Morris 2001）。
+珍妮 · 莫里斯（Jenny Morris），残疾女性运动的领袖，提出社会模式残疾理论使残疾人能够根据个人经验和自我授权来定义自己的身体和差异，摆脱医学权威强加的脱离诊断。社会模式将残疾人的局限性解释为根植于对残疾人的偏见的社会问题。一旦被理解为偏见而非生物学产物，残疾人的劣势可以通过追求正义来改革压迫他们的做法。根据莫里斯的观点，采用社会模式残疾理论使得可以讨论如何解决残疾人功能的局限性，而不是谴责或要求改善他们的身体状况（或者说，他们的思想）（Morris 2001）。
 
 对性别和性别事实的更全面、更复杂的认知和反思使女性主义和残疾学术变得更加复杂。例如，存在着两性特征的人，他们出生时具有女性和男性的生物标志。社会强加的性二元主义要求他们接受医疗干预，通过截肢等方式将他们的身体塑造成其中一种性别模式。然而，拥有女性身体并不一定适合扮演女性角色，而拥有男性身体的人也不一定适应男性角色。性特征的物质性并不使它们成为不可逾越的常数。有些人能够轻松适应与其特定身体构造不传统的性别角色。
 
@@ -102,13 +102,13 @@
 
 这些考虑不仅显示了认为身体的自然和社会维度可以被清晰二分的错误，还表明了我们总是应该接受身体现状的肤浅思维。将这一洞察力推广到残疾问题上，有助于我们看到谴责医学对身体的改造为自我厌恶表达的过度简化。没有现象学的防火墙将我们对生物属性的意识与社会经验分隔开来。我们对自己的身体感觉如何，是由社会话语塑造的。
 
-在一部记录片中，女性主义理论家朱迪斯·巴特勒（Judith Butler）从艺术家兼残疾活动家 Sunaura Taylor（Taylor，2009）那里了解到社会残疾模式。社会模式与巴特勒自己的体现理论相容。巴特勒观察到，每个人，无论是否残疾，都需要来自身体之外的各种事物的支持来进行身体活动。每个身体在被他人侵犯的意义上都是可渗透的。暴力针对和虐待残疾人的人通过虐待那些看起来比大多数人更依赖他人、因此更脆弱的个体来管理自己的可渗透性。针对残疾人的暴力行为突显了他们的可渗透性，从而使施暴者产生了他们自己免受渗透的幻觉，据巴特勒称。
+在一部记录片中，女性主义理论家朱迪斯 · 巴特勒（Judith Butler）从艺术家兼残疾活动家 Sunaura Taylor（Taylor，2009）那里了解到社会残疾模式。社会模式与巴特勒自己的体现理论相容。巴特勒观察到，每个人，无论是否残疾，都需要来自身体之外的各种事物的支持来进行身体活动。每个身体在被他人侵犯的意义上都是可渗透的。暴力针对和虐待残疾人的人通过虐待那些看起来比大多数人更依赖他人、因此更脆弱的个体来管理自己的可渗透性。针对残疾人的暴力行为突显了他们的可渗透性，从而使施暴者产生了他们自己免受渗透的幻觉，据巴特勒称。
 
-根据巴特勒关于具身性的观念，强调身体种类概念的不稳定性，女性主义法学者凯瑟琳·艾布拉姆斯(Kathryn Abrams)认为，美国残疾人法案(ADA)在法庭上遇到困难的一个原因是，大多数原告输掉了他们的案件(至少在《标题 I - 就业》下)，因为社会模式破坏了主流法学的前提。法律规范假定人体是固定种类的生物对象，而根据巴特勒的理论，人体是由瞬息社会互动而有条件地构成的(Abrams 2011:76)。然而，并非所有的司法思维都是如此狭隘。例如，2006 年，一名术前跨性别个体的拒绝就业诉讼被允许继续进行，尽管被告声称《第七条》不适用，因为原告不是女性；法院在支持原告时援引了潜在的复杂事实，说明人类性别认同的复杂性是由生物性别与社会、生理和法律性别概念的互动引起的(见 Schroer v. Billington 2006, 2009)。
+根据巴特勒关于具身性的观念，强调身体种类概念的不稳定性，女性主义法学者凯瑟琳 · 艾布拉姆斯(Kathryn Abrams)认为，美国残疾人法案(ADA)在法庭上遇到困难的一个原因是，大多数原告输掉了他们的案件(至少在《标题 I - 就业》下)，因为社会模式破坏了主流法学的前提。法律规范假定人体是固定种类的生物对象，而根据巴特勒的理论，人体是由瞬息社会互动而有条件地构成的(Abrams 2011: 76)。然而，并非所有的司法思维都是如此狭隘。例如，2006 年，一名术前跨性别个体的拒绝就业诉讼被允许继续进行，尽管被告声称《第七条》不适用，因为原告不是女性；法院在支持原告时援引了潜在的复杂事实，说明人类性别认同的复杂性是由生物性别与社会、生理和法律性别概念的互动引起的(见 Schroer v. Billington 2006, 2009)。
 
 我们身体的反应和反应性反过来影响我们经历的社会和孤独方面。社会实践既不是孤立的，也不是先于物质性的。个体的缺陷与她的性特征一样中立，因为它们在很大程度上调解了她与之互动的世界的意识内容。执行重要的生活功能，如行动、听觉、视觉、交流和理解，是我们经历的结构的如此亲密的元素，以至于我们认为在我们周围的世界中可以触及的东西，以及我们将其视为雄心的对象，都源自我们生物功能的范围和便利性。
 
-考虑到女性的经验在残疾研究中是否得到充分认可，苏珊·温德尔指出了男性主义对该领域标准残疾模式的影响（1996）。温德尔对促进健康残疾形象的残疾政治提出了一种耐人寻味的看法，这与女性主义政治排斥残疾女性的做法类似，旨在推动更具吸引力和权力的偶像。她认为，直到最近一直是残疾研究的主要理论启示的社会模式残疾倾向于掩盖残疾与疾病联系频繁的事实（温德尔 2001）。
+考虑到女性的经验在残疾研究中是否得到充分认可，苏珊 · 温德尔指出了男性主义对该领域标准残疾模式的影响（1996）。温德尔对促进健康残疾形象的残疾政治提出了一种耐人寻味的看法，这与女性主义政治排斥残疾女性的做法类似，旨在推动更具吸引力和权力的偶像。她认为，直到最近一直是残疾研究的主要理论启示的社会模式残疾倾向于掩盖残疾与疾病联系频繁的事实（温德尔 2001）。
 
 残疾模型的反对者敦促将残疾与疾病分开，指出许多残疾人士和无残疾的人一样强壮且有生产力，因此不应被限制在“病人”角色中（Amundson 1992）。这一策略还提倡自力更生而非依赖，并用让残疾人掌控自己生活的策略取代对医疗和社会服务专业人员的信任。温德尔承认，这种强调对残疾人士的有用之处在于，通过正确表达他们关于服从医疗化的政治立场，他们肯定而非贬低自己的身体。
 
@@ -124,17 +124,17 @@
 
 残疾的人们经常会用手指交谈或阅读，用手臂和手走路，坚决地回避他人的触碰，或者整天依赖镇痛药来抑制疼痛，他们往往会发展出对肉体功能具有韧性和创新性的方法。此外，残疾人往往是第一个将适应性技术融入生活的人。从编写文字的机器（打字机是为了让盲人写字而发明的）到说话的机器（计算机语音输出是为了让盲人阅读而发明的），残疾人一直在引领使用现在对许多人生活至关重要的机械设备。适应性技术与肉体努力结合，确保了他们的基本能力：他们用扩音器听力，用呼吸机呼吸，用轮椅行动，他们对这些轮椅的关注甚至超过了他们对自己身体的关照。
 
-机器与肉体的支持性亲密关系因此是许多残疾人生活的特征，但这种关系可能会使他们与非残疾人产生距离。艾莉森·凯弗批评生态女性主义，认为只有通过纯粹的自然沉浸体验才能实现与自然的真正互动，而这种体验中禁止使用包括辅助和假肢设备在内的制造产品。凯弗认为，生态女性主义仍然受困于人类人为与自然之间的传统二元对立，部分原因在于错误地将种典型身体等同于自然。她说，种典型性仍然是女性主义的一种假设。这种标准忽视或贬低了那些将他们的肉体部分与机械组件或其他技术整合在一起的残疾人。 （参见凯弗 2013 年的更一般理论，该理论涉及到女性主义、残疾和酷儿理论对实体的探讨。）
+机器与肉体的支持性亲密关系因此是许多残疾人生活的特征，但这种关系可能会使他们与非残疾人产生距离。艾莉森 · 凯弗批评生态女性主义，认为只有通过纯粹的自然沉浸体验才能实现与自然的真正互动，而这种体验中禁止使用包括辅助和假肢设备在内的制造产品。凯弗认为，生态女性主义仍然受困于人类人为与自然之间的传统二元对立，部分原因在于错误地将种典型身体等同于自然。她说，种典型性仍然是女性主义的一种假设。这种标准忽视或贬低了那些将他们的肉体部分与机械组件或其他技术整合在一起的残疾人。 （参见凯弗 2013 年的更一般理论，该理论涉及到女性主义、残疾和酷儿理论对实体的探讨。）
 
 尽管通常被认为不适合参与竞争性计划，但当残疾人使用假肢功能良好时，他们被认为具有赛博格优势，这成为他们被排斥的另一个原因。在一起诉诸美国最高法院的案件中，职业高尔夫协会未能成功禁止一名否则合格的个人，因为一种身体异常导致他无法走完整整 18 洞。PGA 援引了一个类似弗兰肯斯坦的滑坡的幽灵：如果一个异常的高尔夫球手可以乘坐高尔夫球车移动，而正常的高尔夫球手在走路，那么将来的一名竞争者，一个上肢截肢者，会阻止他戴上一个可以将高尔夫球击出两英里以上的仿生手臂吗（PGA Tour, Inc. v. Martin (00-24) 532 U.S. 661 (2001) 204 F. 3d 994）？
 
-下肢截肢者过去被排除在竞技跑步之外，因为他们的假肢使他们跑得太慢。现在，新材料和设计创造了特别有弹性的运动脚，使得他们的佩戴者，当非常熟练和有天赋时，可以像有真实脚一样快速奔跑。一名被肇事逃逸司机撞伤的受害者，多丽·塞林格现在骑自行车，用一个带鞋钉的木桩替代截肢的脚。由于木桩不会弯曲，它在踩踏时比真实脚更有效率。塞林格的最佳成绩仅比“正常”赛跑者的长期世界纪录慢四秒（Squatrighlia 2001）。
+下肢截肢者过去被排除在竞技跑步之外，因为他们的假肢使他们跑得太慢。现在，新材料和设计创造了特别有弹性的运动脚，使得他们的佩戴者，当非常熟练和有天赋时，可以像有真实脚一样快速奔跑。一名被肇事逃逸司机撞伤的受害者，多丽 · 塞林格现在骑自行车，用一个带鞋钉的木桩替代截肢的脚。由于木桩不会弯曲，它在踩踏时比真实脚更有效率。塞林格的最佳成绩仅比“正常”赛跑者的长期世界纪录慢四秒（Squatrighlia 2001）。
 
-南非田径明星奥斯卡·皮斯托里乌斯（Oscar Pistorius），他天生异常的双脚在童年时期被截肢，使用现代合金人工脚，几乎能够回馈与跑步者体重相当的能量。赛事官员反对皮斯托里乌斯与非残疾运动员竞争，提出的异议从担心他会摔倒在其他运动员身上，到他违反规则因为没有肉体脚触碰起跑块，再到他的存在会腐蚀体育纯洁性，以及极端的预测，即健全运动员会截肢他们自己的肉体脚以获取假肢带来的优势。皮斯托里乌斯似乎在与有肉体脚的跑步者比赛时，使用的下肢能量要少约四分之一，因为他的假体脚比肉体脚更高效，最初他因为声称（后来被国际体育仲裁法庭推翻）他的人工脚给予他不公平优势而被禁止参加奥运会。（有关在竞技体育中如何照顾残疾人的公平性的一般讨论，请参见 Silvers 和 Wasserman 2000 年，有关增强体验的一般讨论，请参见 Silvers 2008 年。）
+南非田径明星奥斯卡 · 皮斯托里乌斯（Oscar Pistorius），他天生异常的双脚在童年时期被截肢，使用现代合金人工脚，几乎能够回馈与跑步者体重相当的能量。赛事官员反对皮斯托里乌斯与非残疾运动员竞争，提出的异议从担心他会摔倒在其他运动员身上，到他违反规则因为没有肉体脚触碰起跑块，再到他的存在会腐蚀体育纯洁性，以及极端的预测，即健全运动员会截肢他们自己的肉体脚以获取假肢带来的优势。皮斯托里乌斯似乎在与有肉体脚的跑步者比赛时，使用的下肢能量要少约四分之一，因为他的假体脚比肉体脚更高效，最初他因为声称（后来被国际体育仲裁法庭推翻）他的人工脚给予他不公平优势而被禁止参加奥运会。（有关在竞技体育中如何照顾残疾人的公平性的一般讨论，请参见 Silvers 和 Wasserman 2000 年，有关增强体验的一般讨论，请参见 Silvers 2008 年。）
 
 可以说，基于粗糙的假肢使残疾赛跑者无法竞争，然后在更好的假肢使他们具有高竞争力的情况下排除他们，这是不公平的。将资格限制在通常具有典型体态的竞争者之内的做法，对于那些不符合传统体态规则的人来说，会缩小社会机会。正是因为这些竞争规则很容易被操纵，以偏袒某些所谓正常功能模式而不是其他看似异常的功能模式，女性主义者才正确地对从竞争再现模型中衍生的规则被用来涉及和规范社会正义持怀疑态度。
 
-传统的正义方法通常认为资源或地位的竞争对社会和政治关系至关重要，因此强调公平管理社会赋予或人为获得的优势，有点类似于游戏规则控制内部信息、设备、药物等性能增强剂的使用。另一方面，女性主义正义理论通过包容性实现，例如艾丽斯·杨（1990）和玛莎·努斯鲍姆（2006）的理论，将相互依存而不是竞争视为正义应更关注的社会和政治关系。与传统正义理论对身体表现对实践、政策和原则的影响的担忧相反（例如，参见罗尔斯基于此排除残疾人的著名论点，1985 年第 234 页），这些女性主义理论谴责并试图克服对具有异常身体或思维的人在实践、政策和正义原则中的遗漏或禁止。传统的正义方法通常认为资源或地位的竞争对社会和政治关系至关重要，因此强调公平管理社会赋予或人为获得的优势，有点类似于游戏规则控制内部信息、设备、药物等性能增强剂的使用。另一方面，女性主义正义理论通过包容性实现，例如艾丽斯·杨（1990）和玛莎·努斯鲍姆（2006）的理论，将相互依存而不是竞争视为正义应更关注的社会和政治关系。与传统正义理论对身体表现对实践、政策和原则的影响的担忧相反（例如，参见罗尔斯基于此排除残疾人的著名论点，1985 年第 234 页），这些女性主义理论谴责并试图克服对具有异常身体或思维的人在实践、政策和正义原则中的遗漏或禁止。
+传统的正义方法通常认为资源或地位的竞争对社会和政治关系至关重要，因此强调公平管理社会赋予或人为获得的优势，有点类似于游戏规则控制内部信息、设备、药物等性能增强剂的使用。另一方面，女性主义正义理论通过包容性实现，例如艾丽斯 · 杨（1990）和玛莎 · 努斯鲍姆（2006）的理论，将相互依存而不是竞争视为正义应更关注的社会和政治关系。与传统正义理论对身体表现对实践、政策和原则的影响的担忧相反（例如，参见罗尔斯基于此排除残疾人的著名论点，1985 年第 234 页），这些女性主义理论谴责并试图克服对具有异常身体或思维的人在实践、政策和正义原则中的遗漏或禁止。传统的正义方法通常认为资源或地位的竞争对社会和政治关系至关重要，因此强调公平管理社会赋予或人为获得的优势，有点类似于游戏规则控制内部信息、设备、药物等性能增强剂的使用。另一方面，女性主义正义理论通过包容性实现，例如艾丽斯 · 杨（1990）和玛莎 · 努斯鲍姆（2006）的理论，将相互依存而不是竞争视为正义应更关注的社会和政治关系。与传统正义理论对身体表现对实践、政策和原则的影响的担忧相反（例如，参见罗尔斯基于此排除残疾人的著名论点，1985 年第 234 页），这些女性主义理论谴责并试图克服对具有异常身体或思维的人在实践、政策和正义原则中的遗漏或禁止。
 
 ## 伦理学与包容
 
@@ -144,7 +144,7 @@
 
 残疾人士同样被描述为在生物上不适合执行公民的责任，因此无法享受公民的特权，与非残疾人一起工作和玩耍，并获准生育自由。例如，智力障碍、脑瘫、失明和聋哑等残疾人士都遭受国家的绝育、将他们的子女从他们的监护下带走，仅仅基于他们的残疾，拒绝他们接受公共教育，理由是他们的存在会伤害其他儿童，并将他们收容在机构中，以保护那些以物种典型方式运作的公民免受与他们接触的困扰（Lombardo, 2008）。类似的法律认可的伤害在女性、种族少数群体、土著人民以及同性恋者的历史中是一个熟悉的主题。
 
-寻找道德基础来谴责妇女所遭受的排斥，女性主义思想家对传统的元伦理学、道德和政治分析感到失望。女性主义者发现传统的道德哲学因将典型男性行为夸大为范例性的道德行为而令人怀疑，传统政治哲学同样令人怀疑，因为它缺乏对这种有偏见和虚假性排斥所带来的道德和政治挑战的解决方案。尽管标准的伦理和政治理论声称原则上要包容所有人，女性主义批评表明，它们的假设往往排除了被贬低的人群在重要的道德、政治和社会角色中（例如，Putnam 1993 指出了 Rawls 将严重残疾人排除在正义原则基本制定层面之外的情况）。因此，安妮特·贝尔（1986 年，1987 年）、伊娃·基泰（1998 年）、玛莎·努斯鲍姆（2001 年，2006 年）和艾丽丝·玛丽昂·杨（1990a；1990b）等女性主义哲学家开创了探索更具包容性的替代理论（仅举几位主要女性主义者的例子，她们的理论受到了充分关注残疾现象的影响）。她们将道德和政治哲学的适当中心的探索重新定位到，例如，信任和关怀的伦理和政治、依赖的美德、维护对人类生活至关重要的能力以及在生活中占据不同位置的人之间建立道德化的相互联系。尽管在女性主义伦理和政治理论的方法上有所不同，但所有人都关注实现充分哲学处理以解决残疾人与非残疾人之间的问题互动，或者阐明制定分配政策的方式，使得非残疾人和残疾人的情况都得到平等对待。（对于另一个明确的女性主义例子，请参见 Silvers、Wasserman 和 Mahowald 1998 中的 Mahowald，对于后者的一个与女性主义相容的例子，请参见 Becker 2012。）
+寻找道德基础来谴责妇女所遭受的排斥，女性主义思想家对传统的元伦理学、道德和政治分析感到失望。女性主义者发现传统的道德哲学因将典型男性行为夸大为范例性的道德行为而令人怀疑，传统政治哲学同样令人怀疑，因为它缺乏对这种有偏见和虚假性排斥所带来的道德和政治挑战的解决方案。尽管标准的伦理和政治理论声称原则上要包容所有人，女性主义批评表明，它们的假设往往排除了被贬低的人群在重要的道德、政治和社会角色中（例如，Putnam 1993 指出了 Rawls 将严重残疾人排除在正义原则基本制定层面之外的情况）。因此，安妮特 · 贝尔（1986 年，1987 年）、伊娃 · 基泰（1998 年）、玛莎 · 努斯鲍姆（2001 年，2006 年）和艾丽丝 · 玛丽昂 · 杨（1990a；1990b）等女性主义哲学家开创了探索更具包容性的替代理论（仅举几位主要女性主义者的例子，她们的理论受到了充分关注残疾现象的影响）。她们将道德和政治哲学的适当中心的探索重新定位到，例如，信任和关怀的伦理和政治、依赖的美德、维护对人类生活至关重要的能力以及在生活中占据不同位置的人之间建立道德化的相互联系。尽管在女性主义伦理和政治理论的方法上有所不同，但所有人都关注实现充分哲学处理以解决残疾人与非残疾人之间的问题互动，或者阐明制定分配政策的方式，使得非残疾人和残疾人的情况都得到平等对待。（对于另一个明确的女性主义例子，请参见 Silvers、Wasserman 和 Mahowald 1998 中的 Mahowald，对于后者的一个与女性主义相容的例子，请参见 Becker 2012。）
 
 残疾人社会排斥问题的哲学文献中出现了两种主要方法。一些作家主要关注程序正义，以扩大残疾人参与社会的机会（Young 1992; Silvers 1998b; Anderson 1999; Silvers and Francis 2005）。Anderson 主张每个人都应该得到有效地进入社会自由条件的保障，而不是因为他们的劣势。她举例说明，聋人反对的不是他们听力的缺失，而是“其他人以一种让他们无法参与对话的方式操纵了交流的手段。人们可以发现这种不公正，而无需调查任何人的偏好或主观状态”（Anderson 1999, 334）。Silvers 提出了一种称为历史反事实化的程序，以识别迎合非残疾多数人的做法，不公正地排除了残疾人（Silvers 1998b; Hoffman 2003）。
 
@@ -166,7 +166,7 @@
 
 女性更有可能与生病或残疾的依赖者——伴侣、子女或长者——保持关系，而不像男性那样（Cohen 1996）。也许，较少的男性认为照料他人是一种自我肯定的角色。因此，女性在社会照料工作中贡献了很大一部分，但除非作为照料者的贡献得到充分承认、赞赏和补偿，否则她们可能会受到有害的限制和不利影响。这个问题在女性主义文献和女权运动中得到强调，对许多女性主义哲学家来说，这是评判道德和政治理论的充分性的试金石。
 
-护理者与依赖残疾个体以及不需要特别护理的残疾人之间的道德维度的分析和评估，将受益于女性主义和残疾学者的细致合作关注。即使在帮助关系是自愿的情况下，它们也可能是不对称的，依赖者可能感到被迫接受协助，而不是以自己偏好的方式，或者依赖工作者可能感到被关系所困。帮助者选择如何帮助，但接受帮助者无法选择如何被帮助，因为如果一个人与他人的联系是作为帮助的接受者，拒绝他人提供的帮助选择会让一个人孤立（Silvers 1995）。琼·特朗托（Joan Tronto）发现，护理者和护理接受者之间的权力失衡潜在地带来压迫的可能性（Tronto 1987; Tronto 1993）。
+护理者与依赖残疾个体以及不需要特别护理的残疾人之间的道德维度的分析和评估，将受益于女性主义和残疾学者的细致合作关注。即使在帮助关系是自愿的情况下，它们也可能是不对称的，依赖者可能感到被迫接受协助，而不是以自己偏好的方式，或者依赖工作者可能感到被关系所困。帮助者选择如何帮助，但接受帮助者无法选择如何被帮助，因为如果一个人与他人的联系是作为帮助的接受者，拒绝他人提供的帮助选择会让一个人孤立（Silvers 1995）。琼 · 特朗托（Joan Tronto）发现，护理者和护理接受者之间的权力失衡潜在地带来压迫的可能性（Tronto 1987; Tronto 1993）。
 
 努斯鲍姆（Nussbaum）正确地指出，我们必须保护受抚养者的自尊，而不是剥削照顾者。莫里斯（Morris）认为，解决之道在于消除现在普遍存在的照顾伦理学所构想的关于规范化身体和正常功能的假设。关心伦理学的支持者可以从认识到许多残疾人，无论男性还是女性，都是自己的照顾者，并且因此在理解如何给予照顾与接受照顾之间的最佳联系方面处于至关重要的位置中获益（Morris 2001）。更好地理解照顾关系的道德、政治和社会维度对于残疾人本身以及对于家庭同样至关重要，因为家庭在为他们的受抚养成员获得照顾方面与他们的受抚养者依赖于他们一样。
 
@@ -196,7 +196,7 @@
 * Asch, A., Gostin, L. O., & Johnson, D. M., 2003. “Respecting persons with disabilities and preventing disability: Is there a conflict?”, in S. Herr, L. O. Gostin, and H. H. Koh (ed.), *Different But Equal: The Rights of People with Intellectual Disabilities*, New York: Oxford University Press, 319–346.
 * Baier, A., 1986. “Trust and Antitrust”, *Ethics*, 96(2): 231–260.
 * –––, 1987. “The Need for More Than Justice,” in M. Hanen, and K. Neilson (eds.), *Science, Morality, and Feminist Theory*, *Canadian Journal of Philosophy*, supp. vol. 13: 41–56.
-* Barron,K, 1997. “The Bumpy Road To Womanhood”, *Disability & Society*, 12(2): 223–239.
+* Barron, K, 1997. “The Bumpy Road To Womanhood”, *Disability & Society*, 12(2): 223–239.
 * Barton, L., 1989. *Disability and Dependence*, Lewes: Faimer Press.
 * Becker, L., 1996 “Trust As Noncognitive Security About Motives,” *Ethics*, 107(1): 43–61.
 * –––, 2005. “Reciprocity, Justice, and Disability,” *Ethics*, 116(1): 9–39.
@@ -233,7 +233,7 @@
 * Herr, S., L. Gostin, and H.H. Koh., 2003. *The Human Rights of Persons with Intellectual Disabilities*, Oxford: Oxford University Press.
 * Hoffman, S., 2003. “Corrective Justice and Title I of the ADA,” *American University Law Review*, 52: 1213–1289.
 * Hume, D., 1757. “Of the Standard of Taste.” *English Essays: Sidney to Macaulay*, Vol. XXVII. The Harvard Classics. New York: P.F. Collier & Son, 1909–14. [[Available online](http://www.bartleby.com/27/)]
-* Kafer, A., 2005. “Hiking Boots and Wheelchairs: Ecofeminism, the Body, and Physical Disability” in B. Andrew, J. Keller and L. Schwartzman (eds.), *Feminist Interventions in Ethics and Politics*, 131–150, Lanham, MD:Rowman and Littlefield.
+* Kafer, A., 2005. “Hiking Boots and Wheelchairs: Ecofeminism, the Body, and Physical Disability” in B. Andrew, J. Keller and L. Schwartzman (eds.), *Feminist Interventions in Ethics and Politics*, 131–150, Lanham, MD: Rowman and Littlefield.
 * –––, 2013. *Feminist, Queer, Crip*, Bloomington: Indiana University Press.
 * Kallianes, V. & Rubenfeld, P., 1997. “Disabled Women and Reproductive Rights,” *Disability & Society*, 12(2): 203–221.
 * Kittay, E., 1998. *Love's Labor: Essays on Women, Equality, and Dependency*, New York: Routledge.
@@ -280,37 +280,37 @@
 * Ruddick, S., 1989. *Maternal Thinking: Toward a Politics of Peace*, Boston: Beacon Press.
 * *Schroer v. Billington*, 2006. 424 F. Supp. 2d 203 212 (D.D.C.)
 * *Schroer v. Billington*, 2009. No. CIV.A. 05-1090,2009 WL 1543686, at *5(D.D.C. Apr 28, 2009)
-* Scully, J. L., 2008. *Disability Bioethics: Moral Bodies, Moral Difference*, Lanham, Maryland: Rowman and Littlefield.
-* Sherwin, S., 1992. *No Longer Patient: Feminist Ethics and Health Care*, Philadelphia, PA: Temple University Press,.
-* Shildrick, M. and J. Price, 1998. eds. *Vital Signs:Feminist Reconfigurations of the Bio/logical Body*, Edinburgh: Edinburgh University Press.
-* Silvers, A., 1995. “Reconciling Equality To Difference: Caring (F)or Justice For People With Disabilities”, *Hypatia*, 10(1): 30–55.
-* –––, 1998a. “Women and Disability”, in Jaggar, A. & Young, I.M. (eds.), *Blackwell's Companion to Feminist Philosophy*, 330–340, Oxford: Basil Blackwell Ltd.
-* –––, 1998b. “Formal Justice”, in A. Silversm D. Wasserman and M. Mahowald (eds.), *Disability, Difference, Discrimination*, Lanham, MD: Rowman and Littlefield, 13–145.
-* –––, 2000. “From The Crooked Timber of Humanity, Beautiful Things Can Be Made”, in P. Brand (ed.), *Beauty Matters: New Theories of Beauty*, 197–223, Bloomington: Indiana University Press.
-* –––, 2003. “On the possibility and desirability of constructing a neutral conception of disability”, *Theoretical Medicine and Bioethics*, 25(6): 471–487.
-* –––, 2008. “The right not to be normal as the essence of freedom,” *Journal of Evolution and Technology*, 17(2): 78–84.
-* –––, 2009. “An Essay on Modeling: The Social Model of Disability,” forthcoming in *Disability* in the Philosophy and Medicine Series, C. Ralston and J. Ho (eds.), New York: Springer.
-* Silvers, A. and Francis, L.P., 2005. “Justice Through Trust: Disability and the ‘Outlier Problem’ in Social Contract Theory,” *Ethics*, 116(1): 40–76.
-* –––, 2008. “Thinking About the Good: Reconfiguring Liberal Metaphysics (or Not) for People With Cognitive Disabilities,” *Metaphilosophy*, 40(34): 475–498.
-* Silvers, A. and Stein, M.A., 2002. “Disability, Equal Protection, and the Supreme Court: Standing at the Crossroads of Progressive and Retrogressive Logic in Constitutional Classification”, *The Michigan Journal of Law Reform*, 35(1&2): 81.
-* –––, 2003. “Human rights and genetic discrimination: protecting genomics' promise for public health,” *Journal of Medicine, Law and Ethics*, 31(3): 377–89.
-* Silvers, A. and Wasserman, D., 2000. “Convention and competence: Disability Rights in Sports and Education,” *Society*, 37(1): 63–67.
-* Silvers, A., Wasserman, D., and Mahowald, M., 1998. *Disability, Difference, Discrimination: Perspectives on Justice in Bioethics and Public Policy*, Lanham, Maryland: Rowman and Littlefield.
-* Soares, C., 2007. “Move over Poirot: Belgium recruits blind detectives to help fight crime,” *The Independent*, Nov 23. [[Available online](http://www.independent.co.uk/news/world/europe/move-over-poirot-belgium-recruits-blind-detectives-to-help-fight-crime-5337339.html)]
-* Spelman, Elizabeth, 1988. *The Inessential Woman*, Boston: Beacon Press.
-* Squatrighlia, D., 2001. “Triumph Out of Tragedy” *San Francisco Chronicle*, July 1, A 19, A 22.
-* Tannen, D., 1990. *You Just Don't Understand: Women and Men in Conversation*, New York: William Morrow.
-* Tronto, J., 1987. “Beyond Gender Difference To A Theory of Care”. *Signs*, 12(4): 644–61.
-* –––, 1993. *Moral Boundaries: A Political Argument for an Ethic of Care*, London: Routledge.
-* Union of the Physically Impaired Against Segregation (UPIAS) and the Disability Alliance, 1976. *Fundamental Principles of Disability*, London: Union of the Physically Impaired Against Segregation. [1978 version] [available online](http://www.leeds.ac.uk/disability-studies/archiveuk/UPIAS/fundamental%20principles.pdf)]
-* Wendell, S, 1989. “Toward A Feminist Theory of Disability”, *Hypatia*, 4(2): 104–124.
-* –––, 1996. *The Rejected Body: Feminist Philosophical Reflections on Disability*, London: Routledge.
-* –––, 2001. “Unhealthy Disabled: Treating Chronic Illnesses as Disabilities”, *Hypatia*, 16(4): 17–33.
-* Whitney, S.Y., 2011. “Dependency Relations: Corporeal Vulnerability and Norms of Personhood in Hobbes and Kittay”. *Hypatia*, 26(3): 554–574.
-* Young, I. M., 1980. “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility and Spatiality,” *Human Studies*, 3(1): 137–56.
-* –––, 1990a. *Justice and the Politics of Difference*, Princeton, NJ: Princeton University Press.
-* –––, 1990b. *Throwing Like a Girl and Other Essays in Feminist Philosophy and Social Theory*, Bloomington: Indiana University Press.
-* –––, 1997. “Asymmetrical Reciprocity: On Moral Respect, Wonder, and Enlarged Thought” *Constellations*, 3(3): 340–363.
+* Scully, J. L., 2008. * Disability Bioethics: Moral Bodies, Moral Difference*, Lanham, Maryland: Rowman and Littlefield.
+* Sherwin, S., 1992. * No Longer Patient: Feminist Ethics and Health Care*, Philadelphia, PA: Temple University Press,.
+* Shildrick, M. and J. Price, 1998. eds. * Vital Signs: Feminist Reconfigurations of the Bio/logical Body*, Edinburgh: Edinburgh University Press.
+* Silvers, A., 1995. “Reconciling Equality To Difference: Caring (F)or Justice For People With Disabilities”, * Hypatia*, 10(1): 30–55.
+* –––, 1998a. “Women and Disability”, in Jaggar, A. & Young, I.M. (eds.), * Blackwell's Companion to Feminist Philosophy*, 330–340, Oxford: Basil Blackwell Ltd.
+* –––, 1998b. “Formal Justice”, in A. Silversm D. Wasserman and M. Mahowald (eds.), * Disability, Difference, Discrimination*, Lanham, MD: Rowman and Littlefield, 13–145.
+* –––, 2000. “From The Crooked Timber of Humanity, Beautiful Things Can Be Made”, in P. Brand (ed.), * Beauty Matters: New Theories of Beauty*, 197–223, Bloomington: Indiana University Press.
+* –––, 2003. “On the possibility and desirability of constructing a neutral conception of disability”, * Theoretical Medicine and Bioethics*, 25(6): 471–487.
+* –––, 2008. “The right not to be normal as the essence of freedom,” * Journal of Evolution and Technology*, 17(2): 78–84.
+* –––, 2009. “An Essay on Modeling: The Social Model of Disability,” forthcoming in * Disability* in the Philosophy and Medicine Series, C. Ralston and J. Ho (eds.), New York: Springer.
+* Silvers, A. and Francis, L.P., 2005. “Justice Through Trust: Disability and the ‘Outlier Problem’ in Social Contract Theory,” * Ethics*, 116(1): 40–76.
+* –––, 2008. “Thinking About the Good: Reconfiguring Liberal Metaphysics (or Not) for People With Cognitive Disabilities,” * Metaphilosophy*, 40(34): 475–498.
+* Silvers, A. and Stein, M.A., 2002. “Disability, Equal Protection, and the Supreme Court: Standing at the Crossroads of Progressive and Retrogressive Logic in Constitutional Classification”, * The Michigan Journal of Law Reform*, 35(1&2): 81.
+* –––, 2003. “Human rights and genetic discrimination: protecting genomics' promise for public health,” * Journal of Medicine, Law and Ethics*, 31(3): 377–89.
+* Silvers, A. and Wasserman, D., 2000. “Convention and competence: Disability Rights in Sports and Education,” * Society*, 37(1): 63–67.
+* Silvers, A., Wasserman, D., and Mahowald, M., 1998. * Disability, Difference, Discrimination: Perspectives on Justice in Bioethics and Public Policy*, Lanham, Maryland: Rowman and Littlefield.
+* Soares, C., 2007. “Move over Poirot: Belgium recruits blind detectives to help fight crime,” * The Independent*, Nov 23. [[Available online](http://www.independent.co.uk/news/world/europe/move-over-poirot-belgium-recruits-blind-detectives-to-help-fight-crime-5337339.html)]
+* Spelman, Elizabeth, 1988. * The Inessential Woman*, Boston: Beacon Press.
+* Squatrighlia, D., 2001. “Triumph Out of Tragedy” * San Francisco Chronicle*, July 1, A 19, A 22.
+* Tannen, D., 1990. * You Just Don't Understand: Women and Men in Conversation*, New York: William Morrow.
+* Tronto, J., 1987. “Beyond Gender Difference To A Theory of Care”. * Signs*, 12(4): 644–61.
+* –––, 1993. * Moral Boundaries: A Political Argument for an Ethic of Care*, London: Routledge.
+* Union of the Physically Impaired Against Segregation (UPIAS) and the Disability Alliance, 1976. * Fundamental Principles of Disability*, London: Union of the Physically Impaired Against Segregation. [1978 version] [available online](http://www.leeds.ac.uk/disability-studies/archiveuk/UPIAS/fundamental%20principles.pdf)]
+* Wendell, S, 1989. “Toward A Feminist Theory of Disability”, * Hypatia*, 4(2): 104–124.
+* –––, 1996. * The Rejected Body: Feminist Philosophical Reflections on Disability*, London: Routledge.
+* –––, 2001. “Unhealthy Disabled: Treating Chronic Illnesses as Disabilities”, * Hypatia*, 16(4): 17–33.
+* Whitney, S.Y., 2011. “Dependency Relations: Corporeal Vulnerability and Norms of Personhood in Hobbes and Kittay”. * Hypatia*, 26(3): 554–574.
+* Young, I. M., 1980. “Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility and Spatiality,” * Human Studies*, 3(1): 137–56.
+* –––, 1990a. * Justice and the Politics of Difference*, Princeton, NJ: Princeton University Press.
+* –––, 1990b. * Throwing Like a Girl and Other Essays in Feminist Philosophy and Social Theory*, Bloomington: Indiana University Press.
+* –––, 1997. “Asymmetrical Reciprocity: On Moral Respect, Wonder, and Enlarged Thought” * Constellations*, 3(3): 340–363.
 
 ## Academic Tools
 

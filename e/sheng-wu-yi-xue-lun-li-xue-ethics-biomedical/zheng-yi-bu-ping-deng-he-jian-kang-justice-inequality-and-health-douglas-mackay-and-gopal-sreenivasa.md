@@ -28,7 +28,7 @@
 
 ## 健康中的社会梯度
 
-最显著和最有力的经验文献报告发现实际上可以通过多个列出的候选社会健康决定因素来复制，包括收入、教育、职业级别和社会阶层。这是在特定社会中存在的健康社会梯度。关于社会可控因素与健康之间关系的最重要证据来自英国迈克尔·马莫特（Michael Marmot）及其同事（1978）进行的白厅研究。在这些研究中，健康的候选社会决定因素是职业级别。
+最显著和最有力的经验文献报告发现实际上可以通过多个列出的候选社会健康决定因素来复制，包括收入、教育、职业级别和社会阶层。这是在特定社会中存在的健康社会梯度。关于社会可控因素与健康之间关系的最重要证据来自英国迈克尔 · 马莫特（Michael Marmot）及其同事（1978）进行的白厅研究。在这些研究中，健康的候选社会决定因素是职业级别。
 
 在 1967 年至 1969 年期间，马莫特研究了约 18,000 名年龄在 40 至 69 岁之间的男性公务员。通过在国家卫生服务（NHS）中央登记处的记录上标记旗帜，马莫特能够追踪每位后来去世的受试者的死亡原因和日期。他的数据是异常优质的数据。首先，它们是从特定个体的数据点生成的。每个数据报告了特定个人的职业级别与该人的寿命（和死亡原因）之间的关系。相比之下，几乎每项其他研究都是从聚合数据开始的。此外，对于这个研究人群，有许多重要的背景因素被保持恒定。值得注意的是，这项研究中的所有受试者都是稳定就业的，他们居住在同一地区（大伦敦），并且都可以免费获得 NHS 提供的医疗保健。
 
@@ -62,7 +62,7 @@
 
 受到他们的文章以及对其的反应的极大刺激，另一场生动的辩论考虑了如何定义健康不平等的基本概念这一基本概念问题（有关概述，请参见 Asada 2013）。它们应该跨社会群体定义吗？还是应该跨个人定义？考虑这个问题有助于在两个不同层面上进行。让我们称第一个层面为“基本道德层面”，并假设在这个层面上，个体是关注的基本单位。在这个第一个层面上的问题是，从正义的角度来看，重要的是个体之间的健康不平等还是群体之间的健康不平等。
 
-现在看起来，假设个体是道德关注的基本单位迫使我们在个体之间定义“健康不平等”，即在基本道德层面上拒绝传统定义，但这是一个错误。丹尼尔·豪斯曼（2007 年，2013 年）在辩论中的立场很好地阐明了这一点。尽管肯定个体是道德关注的基本单位，并以此为出发点，认为像他这样的平等主义者最关心的是个体之间的福利或地位不平等，但他仍然反对跨个体定义健康不平等。豪斯曼（2013: 95）的核心观点是“[个体]健康不平等本身并非因此不公正”。
+现在看起来，假设个体是道德关注的基本单位迫使我们在个体之间定义“健康不平等”，即在基本道德层面上拒绝传统定义，但这是一个错误。丹尼尔 · 豪斯曼（2007 年，2013 年）在辩论中的立场很好地阐明了这一点。尽管肯定个体是道德关注的基本单位，并以此为出发点，认为像他这样的平等主义者最关心的是个体之间的福利或地位不平等，但他仍然反对跨个体定义健康不平等。豪斯曼（2013: 95）的核心观点是“[个体] 健康不平等本身并非因此不公正”。
 
 对于便于阐述，让我们遵循豪斯曼的假设，更具体地说，正义的基本关注点是个体的幸福。豪斯曼的主要观点可以表述如下：即使健康既是幸福的重要组成部分又是原因，如果两个个体在健康上不平等，并不意味着他们在幸福上不平等。显然，同样的两个个体在幸福的其他组成部分上也可能不平等，而不那么健康的个体可能在整体幸福上并不比健康的个体更少。例如，A 可能比 B 更健康，但 B 可能拥有更多的朋友或比 A 更有成就（或两者兼有），而后者的不平等可能比前者更大（或对幸福更重要），因此，不那么健康的 B 在整体上可能仍然比 A 更好（参见豪斯曼 2007 年：52）。因此，A 和 B 之间的健康不平等完全符合对他们比较情况的正义基本抱怨不存在（至少不是代表不那么健康的 B）。因此，如果“不平等”分类中内置了推断不公正存在的许可，正如豪斯曼至少隐含地假设的那样，我们不应将 A 和 B 之间的任何健康差异（或更一般地说，个体之间的差异）分类为不平等。此外，虽然豪斯曼侧重于幸福，但这一点也适用于许多非福利主义平等主义正义观，例如，一种将健康视为众多资源之一的资源主义观。
 
@@ -94,9 +94,9 @@ Iris Marion Young (2001)提供了一个更直接的理由，即在基本道德�
 
 在杨氏的术语中，健康差距是结构性健康不平等：由社会制度和政策造成的健康差异（见 Goldberg 2012; Powers & Faden 2006, 61）。
 
-卡斯帕·利珀特-拉斯穆森（2013）在辩论的另一方面认为，我们应该在基本道德层面上跨越个体之间定义“健康不平等”。他首先提出了两个相关的对社会群体定义的异议，这两个异议共同推进了这样一个观点，即任何群体定义都将固有地是任意的。利珀特-拉斯穆森的第一个异议是“群体内不平等”挑战，根据这一挑战，没有理由将群体之间的健康不平等视为比群体内的健康不平等更不公正。
+卡斯帕 · 利珀特-拉斯穆森（2013）在辩论的另一方面认为，我们应该在基本道德层面上跨越个体之间定义“健康不平等”。他首先提出了两个相关的对社会群体定义的异议，这两个异议共同推进了这样一个观点，即任何群体定义都将固有地是任意的。利珀特-拉斯穆森的第一个异议是“群体内不平等”挑战，根据这一挑战，没有理由将群体之间的健康不平等视为比群体内的健康不平等更不公正。
 
-> 对于任何选择的群体，使得两个群体之间的[健康]不平等很重要，群内[健康]不平等可能存在。(2013: 57)
+> 对于任何选择的群体，使得两个群体之间的 [健康] 不平等很重要，群内 [健康] 不平等可能存在。(2013: 57)
 
 Lippert-Rasmussen 的第二个反对意见是“群体识别”挑战。有许多种方式可以将给定人口细分为群体。在保持基本健康事实不变的情况下，不同的群体定义选择将对同一人口中存在的健康不平等（不同幅度）对应不同的不平等。因此，需要解释一个人偏爱的群体定义的特定特征在正义中的重要性。例如，一个人偏爱的群体定义的特定特征在正义中的相关性是什么，例如，在美国收入分配中将顶部 1%与底部 1%之间的明显人为界限（我们开篇对健康不平等的描绘）的意义是什么？
 
@@ -108,7 +108,7 @@ Lippert-Rasmussen (2013: 58) 还批评了他认为支撑群体健康不平等论
 
 Lippert-Rasmussen 认为存在自然不公正，例如，由于生物过程导致的健康不平等，对此没有人负责，必须采取个体措施来捕捉这些不平等。我们将在下文中更详细地讨论这一观点。
 
-尼尔·艾尔（2018）拒绝了许多支持关注群体健康不平等的论点。然而，他提出了一些道德理由来确定和解决“地位群体不平等”，即“在社会优势和劣势界定的群体之间存在的健康不平等”（艾尔 2018：150）。他认为这些理由与利珀特-拉斯穆森的个体间平等主义是相容的，如果不是得到支持的。我们在这里讨论两个。首先，尽管地位群体不平等本质上并不公平，但它们通常是潜在道德问题的“粗略指标”，包括不公正，如种族歧视或社会团结的失败（艾尔 2018：159）。艾尔认为，第二，地位群体不平等有时可能作为幸运平等主义不公正的代理。例如，低收入群体和高收入群体之间的预期寿命不平等存在时，很可能是劣势群体的成员受到减少其对相关结果负责的环境的影响（艾尔 2018：161-162）。由于幸运平等主义者认为由于不可选择的情况而导致的不平等是不公正的，地位群体不平等往往可能作为幸运平等主义不公正的代理。
+尼尔 · 艾尔（2018）拒绝了许多支持关注群体健康不平等的论点。然而，他提出了一些道德理由来确定和解决“地位群体不平等”，即“在社会优势和劣势界定的群体之间存在的健康不平等”（艾尔 2018：150）。他认为这些理由与利珀特-拉斯穆森的个体间平等主义是相容的，如果不是得到支持的。我们在这里讨论两个。首先，尽管地位群体不平等本质上并不公平，但它们通常是潜在道德问题的“粗略指标”，包括不公正，如种族歧视或社会团结的失败（艾尔 2018：159）。艾尔认为，第二，地位群体不平等有时可能作为幸运平等主义不公正的代理。例如，低收入群体和高收入群体之间的预期寿命不平等存在时，很可能是劣势群体的成员受到减少其对相关结果负责的环境的影响（艾尔 2018：161-162）。由于幸运平等主义者认为由于不可选择的情况而导致的不平等是不公正的，地位群体不平等往往可能作为幸运平等主义不公正的代理。
 
 早些时候我们说过，考虑在两个层面上定义健康不平等的问题是有帮助的，第一个层面是基本道德层面。在这里区分层次的主要观点只是为了澄清基本道德层面与其他可以考虑该问题的层面是分开的，而且比它们更基本。因此，首先，确切描述第二层面并不那么重要。我们只需要将其描述为“不是基本道德层面”。如何更具体地描述其他层面将取决于一个人的目的。例如，Yukiko Asada（2013）描述了一个“政策”层面，而 Lippert-Rasmussen（2013）描述了一个“监管原则”层面。
 
@@ -118,21 +118,21 @@ Lippert-Rasmussen 认为存在自然不公正，例如，由于生物过程导�
 
 将用于定义健康不平等的社会群体对齐策略与健康主要社会原因相结合的策略显然预设了人们知道这些原因是什么。要确定先前讨论的个体预期寿命与社会变量之间的任何相关性是否具有因果关系，需要对候选社会决定因素与特定死亡风险因素之间的因果路径有一定了解。不幸的是，这些路径并不为人所熟知（Mackenbach 2019: 49–55; Adler & Newman 2002; Adler & Ostrove 1999; R. Evans, Hodge, & Pless 1994）。尽管这一领域的研究仍处于初步阶段，但描述一些可能性可能是有用的。
 
-约翰·麦肯巴赫（2019: 62–73）有助于确定社会决定因素与健康结果之间的三类因果路径。第一类是儿童环境。在经济上处于劣势的母亲更有可能健康受损，承受更大的心理社会压力，并在怀孕期间从事不健康的行为（Mackenbach 2019: 66）。因此，他们的孩子更有可能经历胎儿生长受损、低出生体重和早产。父母处于劣势地位的孩子在出生后也更有可能暴露于不利条件，包括营养不足和有害空气污染水平，这可能解释了为什么他们的健康结果比高收入家庭的孩子更差（Currie 2009; Case, Lubotsky, & Paxson 2002）。
+约翰 · 麦肯巴赫（2019: 62–73）有助于确定社会决定因素与健康结果之间的三类因果路径。第一类是儿童环境。在经济上处于劣势的母亲更有可能健康受损，承受更大的心理社会压力，并在怀孕期间从事不健康的行为（Mackenbach 2019: 66）。因此，他们的孩子更有可能经历胎儿生长受损、低出生体重和早产。父母处于劣势地位的孩子在出生后也更有可能暴露于不利条件，包括营养不足和有害空气污染水平，这可能解释了为什么他们的健康结果比高收入家庭的孩子更差（Currie 2009; Case, Lubotsky, & Paxson 2002）。
 
 第二组因果路径是终身物质生活条件（Mackenbach 2019: 68）。绝对物质匮乏的某些条件被公认为对健康和死亡构成风险，包括营养不足、缺乏清洁水和卫生设施以及糟糕的住房。一个非常合理的因果路径是从非比较个人收入水平较低通过这些物质风险因素导致不良健康结果（Aldabe 等人 2011 年）。低收入人群也更有可能从事需要体力的工作，使他们暴露于危险化学品（Clougherty, Souza, & Cullen 2010）并居住在设施不足、暴露于环境风险如空气污染和有毒废物场所增加的社区（Brulle & Pellow 2006; Pickett & Pearl 2001）。
 
 社会决定因素与健康结果之间的第三组因果路径是社会和心理因素（Mackenbach 2019: 72; Marmot 2004）。这一组对于解释上述引用的寿命社会梯度至关重要，这些梯度主要观察到在高度发达的社会中，绝对物质匮乏的普遍性相当低。特别是，在白厅研究中观察到了显著的社会梯度，即使是最低职业级别的占有者也都是稳定就业的公务员，可以自由获得医疗保健。
 
-正义、不平等和健康中最突出的特定风险因素之一被设想为心理社会途径的终点，即（压力的）影响。正如埃里克·布鲁纳（Eric Brunner）和迈克尔·马莫特（Michael Marmot）（2006）所解释的那样，压力的长期影响与其短期影响有着重要的不同。短期内，个体对外部压力因素的战斗或逃跑反应在于使他们能够应对威胁和挑战，因此是有益的。在其他方面，这种急性压力反应涉及神经内分泌途径的激活，其中肾上腺素和皮质醇（例如）释放到血液中。这些激素刺激心理激活（例如，警觉）并动员能量，同时抑制与即时生存无关的功能（例如，消化、生长和修复）。最佳的反应模式特点是循环肾上腺素水平急剧增加（随后是皮质醇），一旦挑战过去，迅速恢复到基线水平。次优模式的特点是基线水平升高且恢复到基线水平较慢。
+正义、不平等和健康中最突出的特定风险因素之一被设想为心理社会途径的终点，即（压力的）影响。正如埃里克 · 布鲁纳（Eric Brunner）和迈克尔 · 马莫特（Michael Marmot）（2006）所解释的那样，压力的长期影响与其短期影响有着重要的不同。短期内，个体对外部压力因素的战斗或逃跑反应在于使他们能够应对威胁和挑战，因此是有益的。在其他方面，这种急性压力反应涉及神经内分泌途径的激活，其中肾上腺素和皮质醇（例如）释放到血液中。这些激素刺激心理激活（例如，警觉）并动员能量，同时抑制与即时生存无关的功能（例如，消化、生长和修复）。最佳的反应模式特点是循环肾上腺素水平急剧增加（随后是皮质醇），一旦挑战过去，迅速恢复到基线水平。次优模式的特点是基线水平升高且恢复到基线水平较慢。
 
 相比之下，长期应激的影响——无论是由于频繁受到急性应激的刺激还是由于慢性应激——在生理上可能是有害的（Brunner & Marmot 2006）。应激引起的损害在其他因素的调节下，主要是通过血液中肾上腺素和皮质醇水平的持续升高。皮质醇水平升高可能导致胆固醇的积累（例如，通过在不活动期间提高葡萄糖水平）；而肾上腺素水平升高会增加血液凝结的倾向，这可能导致动脉斑块的形成，从而增加心脏病和中风的风险。应激引起的损害可能增加的其他风险包括癌症、糖尿病、感染和认知衰退的风险。
 
 一条从压力诱发的损害或“交感适应负荷”（B. McEwen 1998）的心理社会路径接下来必须追溯到某种社会因素，最好是一种可供政策操纵的因素。吸引了相当多关注的四个因素是“社会地位”、“工作控制”、“种族歧视”和“贫困”。
 
-社会地位在产生压力性损害方面的最具体证据来自对非人类灵长类动物的研究（Brunner & Marmot 2006; R. Evans, Hodge, & Pless 1994）。在各种灵长类物种中，社会生活以明确和稳定的支配等级制度组织。Robert Sapolsky 和 Glen Mott（1987）发现，自由活动的雄性狒狒的等级制度在皮质醇升高和不利胆固醇比率方面呈现出逆向社会梯度。卡罗尔·希夫利和托马斯·克拉克森（1994）在操纵圈养雌性猕猴的支配等级时发现，成为从属的支配猴的冠状动脉斑块超过了保持支配地位的猴子五倍。 （这种过度的部分原因是由于与社会地位变化相关的压力，而不是降级，因为成为支配的从属猴也比保持从属地位的猴子患动脉粥样硬化更多[尽管只是两倍]）。
+社会地位在产生压力性损害方面的最具体证据来自对非人类灵长类动物的研究（Brunner & Marmot 2006; R. Evans, Hodge, & Pless 1994）。在各种灵长类物种中，社会生活以明确和稳定的支配等级制度组织。Robert Sapolsky 和 Glen Mott（1987）发现，自由活动的雄性狒狒的等级制度在皮质醇升高和不利胆固醇比率方面呈现出逆向社会梯度。卡罗尔 · 希夫利和托马斯 · 克拉克森（1994）在操纵圈养雌性猕猴的支配等级时发现，成为从属的支配猴的冠状动脉斑块超过了保持支配地位的猴子五倍。 （这种过度的部分原因是由于与社会地位变化相关的压力，而不是降级，因为成为支配的从属猴也比保持从属地位的猴子患动脉粥样硬化更多 [尽管只是两倍]）。
 
-低工作控制在产生压力诱发损害方面的证据来自白厅二期研究（Marmot, Bosma 等，1997 年）。 “工作控制”指的是个人在工作场所的任务控制水平，在这里是通过有关决策权限和技能自主性的问卷来操作化。压力诱发损害增加风险的主要疾病之一是冠心病（CHD）。在白厅二期中，年龄调整后的冠心病发病率存在逆社会梯度：与高级别同事相比，中级别男性公务员在五年间发展新冠心病病例的可能性增加了 1.25 倍，而低级别男性增加了 1.5 倍。对于女性，几率比分别为 1.12 和 1.47。马莫特及其同事还发现了低工作控制的逆社会梯度。在男性中，高级别、中级别和低级别公务员中分别有 8.7％、26.6％和 77.8％报告低工作控制；对于女性，这些百分比分别为 10.1、34.8 和 75.3。但他们的关键发现是冠心病发病率梯度的相当一部分可以归因于工作控制的差异。控制低工作控制后，低级别（例如）男性发生新冠心病的几率比从 1.5 降至 1.18，女性从 1.47 降至 1.23。相比之下，已知的冠心病风险因素仅将相同比率从 1.5 降至 1.3，女性从 1.47 降至 1.35。
+低工作控制在产生压力诱发损害方面的证据来自白厅二期研究（Marmot, Bosma 等，1997 年）。 “工作控制”指的是个人在工作场所的任务控制水平，在这里是通过有关决策权限和技能自主性的问卷来操作化。压力诱发损害增加风险的主要疾病之一是冠心病（CHD）。在白厅二期中，年龄调整后的冠心病发病率存在逆社会梯度：与高级别同事相比，中级别男性公务员在五年间发展新冠心病病例的可能性增加了 1.25 倍，而低级别男性增加了 1.5 倍。对于女性，几率比分别为 1.12 和 1.47。马莫特及其同事还发现了低工作控制的逆社会梯度。在男性中，高级别、中级别和低级别公务员中分别有 8.7％、26.6％ 和 77.8％ 报告低工作控制；对于女性，这些百分比分别为 10.1、34.8 和 75.3。但他们的关键发现是冠心病发病率梯度的相当一部分可以归因于工作控制的差异。控制低工作控制后，低级别（例如）男性发生新冠心病的几率比从 1.5 降至 1.18，女性从 1.47 降至 1.23。相比之下，已知的冠心病风险因素仅将相同比率从 1.5 降至 1.3，女性从 1.47 降至 1.35。
 
 有证据表明，种族歧视的经历可能导致健康上的种族差异。虽然一些种族健康差距可以通过对种族少数群体较低的平均社会经济地位的解释来解释，但是种族健康差距在每个社会经济地位水平上仍然存在（Braveman, Cubbin 等人，2010 年）。越来越多的证据表明，这种残余差距可能部分是个体层面种族歧视经历的结果，这些经历会产生压力诱发的损害（Williams 等人，2019 年；Colen 等人，2018 年）。事实上，最近的一项研究表明这些因素之间存在因果路径，发现歧视暴露与更高水平的自发杏仁核活动和连接之间存在独立关联——这些过程与更高水平的压力、生理激活、警觉和负面健康结果相关（Clark, Miller 和 Hegde，2018 年）。
 
@@ -140,7 +140,7 @@ Lippert-Rasmussen 认为存在自然不公正，例如，由于生物过程导�
 
 总的来说，有理由认为许多健康不平等是由传统医疗系统之外的许多社会可控因素引起的。这些健康的社会决定因素可能包括收入、职业地位、教育、社会地位和种族歧视。然而，我们要警告的是，需要更多证据来建立所提出的因果路径，并且我们讨论的一些证据是有争议的。例如，Anne Case 和 Christina Paxson（2011：F185）认为，Marmot、Bosma 等人（1997）归因于白厅 II 的工作控制的梯度中的大部分可以通过参与者早年健康状况和社会经济地位来解释，这表明“职业等级可能更多地是较差健康的标志，而不是较差健康的原因”。
 
-此外，尽管关于因果路径的上述证据在规范理论方面可能是足够的，但在设计政策疗法的目的上可能会有所不同。正如安格斯·迪顿（2002: 15）所说，“没有对机制的理解，政策就无法明智地进行；相关性是不够的”。目前我们对社会可控因素与特定死亡率和发病率风险之间因果路径的理解是否足够完善，以支持具体的政策建议尚不清楚。此外，即使是这样，要实施某项提案仍需要进一步的步骤。在其他方面，这种许可需要对提议改革的比较有效性提供说明，以及与相关替代方案的关系。
+此外，尽管关于因果路径的上述证据在规范理论方面可能是足够的，但在设计政策疗法的目的上可能会有所不同。正如安格斯 · 迪顿（2002: 15）所说，“没有对机制的理解，政策就无法明智地进行；相关性是不够的”。目前我们对社会可控因素与特定死亡率和发病率风险之间因果路径的理解是否足够完善，以支持具体的政策建议尚不清楚。此外，即使是这样，要实施某项提案仍需要进一步的步骤。在其他方面，这种许可需要对提议改革的比较有效性提供说明，以及与相关替代方案的关系。
 
 ## 正义、不平等和国内健康差距
 
@@ -154,7 +154,7 @@ Lippert-Rasmussen 认为存在自然不公正，例如，由于生物过程导�
 
 对于是否可避免是不公正健康不平等的一个独特且必要的条件，也存在争议。Sudhir Anand 和 Fabienne Peter（2000）认为，不公平意味着可避免性，因此实际上并不与之分离。但可避免性与不公平是可以清晰分开的（在另一个方向上），这可能是一个分析上的优势。例如，它允许决定健康中不可避免的不平等的正义，而无需完全涉及公平问题。其他人质疑健康差异是否必须是可避免的，才能被视为不公正（Lippert-Rasmussen 2013: 59–60; Wilson 2011: 216）。对于幸运平等主义者来说，由自然过程导致的健康差异可能是不公正的，无论它们是否可以预防或治疗。即使个体 A 由于一种既不可预防也不可治疗的遗传状况而比个体 B 具有较低的机动性，A 和 B 之间的差异是不公正的，A 有权要求社会予以纠正，例如通过提供机动辅助设备或重构社会环境。这些不平等是自然不公正的例子—由自然过程引起的不公正—而不是社会不公正—由社会过程引起的不公正（Lippert-Rasmussen 2013: 59–60）。 （有相反观点，请参见 Wester 2018）。
 
-正义、不平等和健康一种保存可避免性条件的方法——理解为可干预性——是规定健康公平概念仅关注社会不公正（Sreenivasan 2015: 54）。但是，虽然幸运平等主义备受争议，詹姆斯·威尔逊（2011: 216）警告说，将健康公平概念定义为预设其虚假性是错误的。威尔逊（2011: 217）因此得出结论，健康不平等仅仅是那些不公正的健康差异（有关健康公平概念及其他辩论的优秀概述，请参阅 M.史密斯 2015）。
+正义、不平等和健康一种保存可避免性条件的方法——理解为可干预性——是规定健康公平概念仅关注社会不公正（Sreenivasan 2015: 54）。但是，虽然幸运平等主义备受争议，詹姆斯 · 威尔逊（2011: 216）警告说，将健康公平概念定义为预设其虚假性是错误的。威尔逊（2011: 217）因此得出结论，健康不平等仅仅是那些不公正的健康差异（有关健康公平概念及其他辩论的优秀概述，请参阅 M.史密斯 2015）。
 
 这些关于可避免性条件的辩论在暗示着正义问题，而公平条件则明确提出了这一点。如果健康公平的概念要作为一个可辩护的规范标准发挥作用，我们需要一个关于健康分配中的正义的解释。
 
@@ -162,7 +162,7 @@ Lippert-Rasmussen 认为存在自然不公正，例如，由于生物过程导�
 
 我们可以区分两种根本不同的方法来将公平或正义的裁决应用于给定的健康不平等。在独立立场方法中，不公正的健康不平等是主要的不公正，尽管不公正的裁决也可以从这种主要不公正向其原因传播。相比之下，在派生方法中，不公正的健康不平等并不是主要的不公正。相反，主要的不公正是某种导致健康不平等的不公正原因，尽管不公正的裁决也可以从这种主要不公正向健康不平等本身传播。这样，不公正的健康不平等源自其原因的主要不公正。（这种独立立场和派生方法之间的区别与彼得（2004: 94–95）对直接和间接方法的区分密切相关）。例如，假设美国白人和黑人男性之间寿命差异的一部分是由种族歧视引起的。在派生方法中，健康不平等中的这部分是不公正的，因为其原因是不公正的，即使健康不平等在其他方面并不不公正（例如，即使没有适用于健康的有效平等原则）。相比之下，在独立立场方法中，寿命差异本身可能是不公正的，无论其原因如何。我们依次讨论每种方法。
 
-自由立场方法的最简单例子是将平等的一般原则直接应用于健康案例。（有关平等主义基础的一般讨论，以及不同版本的特点，请参阅平等主义词条。）在一些限制条件下，“健康平等”的结果要求被确认，例如，由安东尼·卡利尔（Anthony Culyer）和亚当·沃格斯塔夫（Adam Wagstaff）（1993）所证实。这意味着健康中任何可避免的不平等都是不公平或不正义的。
+自由立场方法的最简单例子是将平等的一般原则直接应用于健康案例。（有关平等主义基础的一般讨论，以及不同版本的特点，请参阅平等主义词条。）在一些限制条件下，“健康平等”的结果要求被确认，例如，由安东尼 · 卡利尔（Anthony Culyer）和亚当 · 沃格斯塔夫（Adam Wagstaff）（1993）所证实。这意味着健康中任何可避免的不平等都是不公平或不正义的。
 
 幸运平等主义者反对严格的平等观点，理由是如果不平等是自愿和知情选择的结果，则不是不公正（Segall 2010; Le Grand 1987）。虽然一个人因为偶然的运气而比另一个人更糟糕是不公正的——即，超出个人控制范围的因素，如他们的自然或社会环境——但由于选择运气而产生的不平等是公正的。因此，对于幸运平等主义者来说，并非所有的健康不平等都是不公正的，只有那些由于非选择的情况而产生的不平等是不公正的（Voorhoeve 2019; Albertsen & Knight 2015; Temkin 2013; Segall 2010: 99）。
 
@@ -180,7 +180,7 @@ Segall (2010) 选择了一种优先考虑运气的优先权解释，优先考虑
 
 与那些将幸运平等主义和关系主义视为相互竞争观点的人不同，Voorhoeve（2019）认为每种观点都有其引人注目的基础，并可以以互补的方式结合在一起。社会或关系平等主义认识到存在“理由反感基于选择的不平等，威胁到人们作为平等公民的地位”，而幸运平等主义方法提供了对平等考虑原则模糊关系要求的合理解释（Voorhoeve 2019: 154–155）。与那些将幸运平等主义和关系主义视为相互竞争观点的人不同，Voorhoeve（2019）认为每种观点都有其引人注目的基础，并可以以互补的方式结合在一起。社会或关系平等主义认识到存在“理由反感基于选择的不平等，威胁到人们作为平等公民的地位”，而幸运平等主义方法提供了对平等考虑原则模糊关系要求的合理解释（Voorhoeve 2019: 154–155）。
 
-其他人通过捍卫健康正义的足够主义方法来避免水平抗议（有关足够主义方法的全面讨论，请参见 Fourie 2016; Rid 2016）。麦迪逊·鲍尔斯和露丝·费登（2006: 15–29）认为，社会正义要求人们获得足够的福祉水平，其中福祉被理解为具有六个基本维度：健康、个人安全、推理、尊重、依恋和自决。因此，正义并不要求健康结果的平等，而是要求人们有“足够的健康，可以过上体面的生活”（Powers & Faden 2006: 95）。詹妮弗·普拉·鲁格（2010）同样发展了一种能力方法来看待健康正义，根据这种方法，人们有权利获得某些核心健康能力的阈值水平，即保持健康的能力。普拉·鲁格（2010: 88–90）认为，公共政策的重点应该是减少“不足”不平等，即使人们尽可能接近必要的阈值。
+其他人通过捍卫健康正义的足够主义方法来避免水平抗议（有关足够主义方法的全面讨论，请参见 Fourie 2016; Rid 2016）。麦迪逊 · 鲍尔斯和露丝 · 费登（2006: 15–29）认为，社会正义要求人们获得足够的福祉水平，其中福祉被理解为具有六个基本维度：健康、个人安全、推理、尊重、依恋和自决。因此，正义并不要求健康结果的平等，而是要求人们有“足够的健康，可以过上体面的生活”（Powers & Faden 2006: 95）。詹妮弗 · 普拉 · 鲁格（2010）同样发展了一种能力方法来看待健康正义，根据这种方法，人们有权利获得某些核心健康能力的阈值水平，即保持健康的能力。普拉 · 鲁格（2010: 88–90）认为，公共政策的重点应该是减少“不足”不平等，即使人们尽可能接近必要的阈值。
 
 这些足够主义方法虽然避免了水平化反对，但仍面临两个重大挑战。首先，政府是否应对足够主义观点所确定的阈值以上的健康差距保持冷漠（Arneson 2002）？如果阈值设定过低，这种观点可能认为发病率和死亡率的显著差异并不不公正。其次，在那些低于阈值的人中，谁应该被优先考虑（Fourie 2016）？政策制定者应该专注于最大化达到阈值的人数，即使这意味着帮助那些处境较好的人吗？还是应该优先考虑处境较差的人，即使这意味着要耗费大量资源只是略微改善他们的健康？（有关这些问题可能解决方案的讨论，请参见 Shields 2016）。
 
@@ -188,7 +188,7 @@ Segall (2010) 选择了一种优先考虑运气的优先权解释，优先考虑
 
 ### 6.3 衍生方法
 
-与关于健康不平等正义的独立方法相反，派生方法将不公正的健康不平等的不公正归因于其不公正的原因。诺曼·丹尼尔斯（2008）提供了这种方法的最突出示例（另见丹尼尔斯、肯尼迪和川内 2000；以及彼得 2004）。他的核心主张是，幸运的是，约翰·罗尔斯的正义原则调节了所有主要的社会健康决定因素（丹尼尔斯 2008：82 和 97）。丹尼尔斯（2008：82）声称，遵守这些原则，“因此将尽可能要求地降低健康的社会经济梯度”，结果是“一般社会正义有益于人口健康及其公平分配”。
+与关于健康不平等正义的独立方法相反，派生方法将不公正的健康不平等的不公正归因于其不公正的原因。诺曼 · 丹尼尔斯（2008）提供了这种方法的最突出示例（另见丹尼尔斯、肯尼迪和川内 2000；以及彼得 2004）。他的核心主张是，幸运的是，约翰 · 罗尔斯的正义原则调节了所有主要的社会健康决定因素（丹尼尔斯 2008：82 和 97）。丹尼尔斯（2008：82）声称，遵守这些原则，“因此将尽可能要求地降低健康的社会经济梯度”，结果是“一般社会正义有益于人口健康及其公平分配”。
 
 收入和工作场所组织受到差异原则的规范：只有在对最不利者最大利益的情况下，收入不平等和工作场所的等级制度才被允许。教育受到公平机会原则的规范，该原则要求“公平的公共教育”以及“发展适宜的日托和幼儿早期干预”（Daniels 2008: 96）。政治参与，Daniels（2008: 95-6）将其视为健康的社会决定因素，受到平等基本自由原则的规范：除其他事项外，该原则保障了政治参与权的公平价值。最后，重新确认他早期的工作（1985 年），Daniels 认为公平机会原则还要求普遍获得全面的医疗保健（广义上包括公共卫生）。
 
@@ -196,7 +196,7 @@ Segall (2010) 选择了一种优先考虑运气的优先权解释，优先考虑
 
 正如丹尼尔斯所指出的，遵循罗尔斯的正义可能会减少社会中的健康梯度，但并非完全消除。例如，差异原则可能允许某些收入不平等，但这些不平等是可以消除的。如果收入是健康的因果决定因素，那么如果保留这些可容忍的收入不平等，它们将继续产生健康不平等。(只有在相对收入假设是正确的因果机制解释时，这种情况才是连贯的。有关解释，请参见 Sreenivasan 2009b)。丹尼尔斯认为，可避免的健康不平等的持续并不会让我们有理由在正义上消除其潜在原因，与差异原则无关。在他看来，正义允许在健康方面存在一些可避免的不平等：
 
-> 遵循[罗尔斯（Rawls）]原则而产生的残余不平等并非是对正义理想要求的妥协；它们被视为公正可接受。（2008: 99）
+> 遵循 [罗尔斯（Rawls）] 原则而产生的残余不平等并非是对正义理想要求的妥协；它们被视为公正可接受。（2008: 99）
 
 安纳德和彼得（2000）批评丹尼尔斯的观点，认为丹尼尔斯对罗尔斯的第二正义原则的两种不同运用存在紧张关系。一方面，他们认为，丹尼尔斯将其两个部分简单地视为调节健康特定社会决定因素的原则——公平机会原则调节教育（例如），而差异原则调节收入。另一方面，他对医疗保健的描述将公平机会原则视为直接调节健康本身。但公平机会原则的后一种运用，安纳德和彼得实际上更喜欢（2000: 52），可能会与丹尼尔斯对残余健康不平等的处理相矛盾。如果公平机会原则要求（某种形式的）关于健康的平等主义，那么在差异原则完全实施后仍然存在的残余健康不平等可能仍然属于其范围。在这种情况下，罗尔斯式正义很可能要求减少这些不平等。
 
@@ -210,7 +210,7 @@ Fishman 和 MacKay（2019）和 Kniess（2019）对 Daniels（2008）方法的�
 
 ## 个人责任与健康行为
 
-在第 5 节中，我们确定了社会决定因素与健康结果之间的三组可能因果路径：童年环境、物质生活条件以及社会和心理因素。然而，对于导致不良健康结果的一个中心因素与社会决定因素之间存在模糊的关系。有强有力的证据表明，包括吸烟、过度饮酒、营养不良和缺乏体育锻炼在内的健康行为是导致发病率和死亡率的关键因素（Petrovic 等人，2018 年）。此外，一些人发现，健康行为在很大程度上解释了高收入国家社会健康梯度的大部分，因为有害的健康行为在低社会经济地位群体中更为普遍（Petrovic 等人，2018 年）。例如，Silvia Stringhini、Sabia 等人（2010 年）认为，当采用更优越的健康行为测量时，可以解释白厅 II 研究中确定的健康梯度的大部分，这是由有害的健康行为的社会梯度所解释的（尽管 Stringhini、Dugravot 等人[2011 年]在法国国家燃气和电力公司员工的研究中未能复制这一发现，这表明健康行为是否对社会梯度产生影响可能取决于社会背景）。
+在第 5 节中，我们确定了社会决定因素与健康结果之间的三组可能因果路径：童年环境、物质生活条件以及社会和心理因素。然而，对于导致不良健康结果的一个中心因素与社会决定因素之间存在模糊的关系。有强有力的证据表明，包括吸烟、过度饮酒、营养不良和缺乏体育锻炼在内的健康行为是导致发病率和死亡率的关键因素（Petrovic 等人，2018 年）。此外，一些人发现，健康行为在很大程度上解释了高收入国家社会健康梯度的大部分，因为有害的健康行为在低社会经济地位群体中更为普遍（Petrovic 等人，2018 年）。例如，Silvia Stringhini、Sabia 等人（2010 年）认为，当采用更优越的健康行为测量时，可以解释白厅 II 研究中确定的健康梯度的大部分，这是由有害的健康行为的社会梯度所解释的（尽管 Stringhini、Dugravot 等人 [2011 年] 在法国国家燃气和电力公司员工的研究中未能复制这一发现，这表明健康行为是否对社会梯度产生影响可能取决于社会背景）。
 
 当有害的健康行为在低社会经济地位人群中更为普遍时，有人可能会认为由此产生的健康不平等仅仅是社会因素的结果，而这些因素是个人无法控制的，即类似于一个人的童年环境。然而，这种看法过于仓促，因为人们至少在某种程度上会决定是否吸烟、过量饮酒或饮食不健康，而这样的决定并不总是由社会因素决定，例如，对健康食品的获取存在物质限制。这对于正义的评估很重要，因为正如我们上面所看到的，有人认为如果健康不平等是由自愿选择造成的，那么它们就不是不公正的。因此，如果参与有害健康行为的决定达到了适当的自愿门槛，那么可以合理地认为由此产生的健康社会梯度中的那部分并不是不公正的。
 
@@ -220,7 +220,7 @@ Fishman 和 MacKay（2019）和 Kniess（2019）对 Daniels（2008）方法的�
 
 如果某人患有可治疗的肺癌，我们通常会合理地假设拒绝为他提供医疗护理是不公正的。然而，如果他的癌症是由于长期沉重的吸烟习惯引起的，那么问题就出现了，普通的假设是否被打败或减弱了。例如，如果需要做出选择（比如，因为资源短缺）是治疗他还是治疗另一位对自己的肺癌没有任何责任的患者，正义是否要求更倾向于第二位患者？简单应用运气平等主义将认为，只要他的“吸烟决定”符合某些合适标准的“自愿选择”，就可以公正地拒绝为吸烟者提供治疗。
 
-许多人认为平等运气主义的这一含义是令人反感的，伊丽莎白·安德森（1999: 296）称其为“疏忽受害者被遗弃的问题”。一些平等运气主义者回应说，他们的观点在适当理解下并不致力于这一含义。例如，亚历山大·卡佩伦和奥莱·诺海姆（2005）以及朱利安·勒格兰德（2013）建议，选择运气的差异——即，人们自愿选择的结果如何发挥出来的差异本身是不公正的，因此应该实施政策确保幸运者帮助不幸者，例如对香烟征税，用收入为患肺癌的吸烟者提供护理。埃里克·卡瓦列罗（2011: 393–396）持更强硬立场，认为平等运气主义不支持让个人对健康行为的结果负责。卡瓦列罗（2011: 393）区分社会可检测和社会不可检测的风险行为，吸烟是前者的例子，压力管理不善是后者的例子。他认为，按照平等运气主义的观点，仅对前者行为负责并不一定更公平，而是简单地不对人们的选择负责（卡瓦列罗 2011: 395）。
+许多人认为平等运气主义的这一含义是令人反感的，伊丽莎白 · 安德森（1999: 296）称其为“疏忽受害者被遗弃的问题”。一些平等运气主义者回应说，他们的观点在适当理解下并不致力于这一含义。例如，亚历山大 · 卡佩伦和奥莱 · 诺海姆（2005）以及朱利安 · 勒格兰德（2013）建议，选择运气的差异——即，人们自愿选择的结果如何发挥出来的差异本身是不公正的，因此应该实施政策确保幸运者帮助不幸者，例如对香烟征税，用收入为患肺癌的吸烟者提供护理。埃里克 · 卡瓦列罗（2011: 393–396）持更强硬立场，认为平等运气主义不支持让个人对健康行为的结果负责。卡瓦列罗（2011: 393）区分社会可检测和社会不可检测的风险行为，吸烟是前者的例子，压力管理不善是后者的例子。他认为，按照平等运气主义的观点，仅对前者行为负责并不一定更公平，而是简单地不对人们的选择负责（卡瓦列罗 2011: 395）。
 
 Segall (2010)相反，认为幸运平等主义者无法通过诉诸平等考虑来避免放弃反对意见，但如果他们诉诸与分配正义无关的道德考虑，例如满足人们的基本需求，那么可以这样做。 Voorhoeve (2019: 155)同样采取了一种多元主义观点，认为幸运平等主义方法应与社会平等主义方法相结合，因而后者。
 
@@ -238,7 +238,7 @@ Segall (2010)相反，认为幸运平等主义者无法通过诉诸平等考虑�
 
 拒绝了人们对由有害健康行为导致的健康结果负责的观念。Daniel Wikler（2004）对未经修改的幸运平等主义观点提出了持续的批评，提出了放弃反对意见，但也提出了关于该观点应用的一些实际问题，包括难以确定自愿行为以及发现对某些选择指责而对其他选择不指责的任意性（另请参见 Fleck 2012）。他得出结论，个人责任在健康政策中应仅被用作健康促进活动中的理想，以激励和鼓励人们积极参与健康生活。
 
-尼尔·莱维（2019）同样拒绝了个人对健康负责的观念，他着重关注低社会经济地位人群中有害健康行为的更普遍存在。莱维（2019: 106–107）认为，造成这种差异的解释在于这些人由于其处境，其主体能力降低，教育水平较低，并在贫困的压力条件下做出选择。对许多人来说，这些挑战足以使他们对导致不良健康的行为不负责任。由于大多数对其不良健康负有因果责任的人在道德上也是不负责任的，莱维（2019: 109）认为，健康政策不应该基于人们对其不良健康负责的前提而制定。相反，由于主体能力的分配和选择的环境是公共政策和大公司行为的结果，因此应该由后者对所讨论的健康结果负责（莱维 2019: 110）。
+尼尔 · 莱维（2019）同样拒绝了个人对健康负责的观念，他着重关注低社会经济地位人群中有害健康行为的更普遍存在。莱维（2019: 106–107）认为，造成这种差异的解释在于这些人由于其处境，其主体能力降低，教育水平较低，并在贫困的压力条件下做出选择。对许多人来说，这些挑战足以使他们对导致不良健康的行为不负责任。由于大多数对其不良健康负有因果责任的人在道德上也是不负责任的，莱维（2019: 109）认为，健康政策不应该基于人们对其不良健康负责的前提而制定。相反，由于主体能力的分配和选择的环境是公共政策和大公司行为的结果，因此应该由后者对所讨论的健康结果负责（莱维 2019: 110）。
 
 其他人对这一论点持怀疑态度。Ben Schwan（2021）警告说，人们的选择受到健康社会决定因素的影响并不意味着他们不对这些选择负责——一些健康社会决定因素是“保持责任”的。Cavallero（2019）同样认为，低社会经济地位人群的健康相关选择符合被广泛接受的负责任选择标准，即，它们是在合理选择的背景下做出的，并不是被强迫的。他进一步指出，质疑低社会经济地位人群的自主性和责任性与自由主义理念相矛盾，即所有胜任的成年人都应受到平等尊重，并为对人们的自由进行专断限制打开了大门（Cavallero 2019）。然而，这并不意味着社会不对低社会经济地位个体的不平等健康结果负责。Cavallero（2019: 378）同意 Levy（2019）所指出的模式在道德上令人不安，并主张政府有责任确保人们可以。
 
@@ -252,7 +252,7 @@ Segall (2010)相反，认为幸运平等主义者无法通过诉诸平等考虑�
 
 鉴于全球卫生正义与全球分配正义之间的紧密联系，对前者的方法往往依赖于对后者的方法并行。简言之，世界主义者从所有人都是道德平等的前提出发，基于此主张，高收入国家对人们有着强有力的分配义务，而不论其国籍或与他们的关系如何。一些世界主义者支持足够主义立场（Brock 2009），而另一些人则认为，全球正义要求平等，因为国家成员资格是一个在道德上是任意的因素，人们不应该因此而受到不利待遇（Caney 2005）。制度主义者并不否认所有人都是道德平等的说法，但他们认为，强有力的分配义务——而不是援助义务——取决于某些类型的制度的存在，无论是强制性的法律体系（Nagel 2005；Blake 2001）还是建立实质性经济相互依赖的制度（Sangiovanni 2007；J. Cohen & Sabel 2006）。
 
-转向全球卫生正义理论，许多学者支持足够主义解释，根据这些解释，所有人都有权利获得一定最低水平的健康或健康机会。Sridhar Venkatapuram（2011: 224）支持全球卫生正义的世界主义解释，根据这一解释，所有人都有权利获得健康的能力，确保其在足以保障其平等人类尊严的门槛上。Jennifer Prah Ruger（2018: 82）支持一种制度主义足够主义方法，“省际全球主义”，根据这种方法，各国家和更广泛的全球社区有责任确保所有人享有中心卫生能力的门槛水平。其他人捍卫健康人权，理解为对“健康的‘标准威胁’的保护”（Wolff 2012: 27）的权利，或者理解为对健康的基本最低要求和因此对最低限度良好生活的权利（Hassoun 2020;另见 Powers＆Faden 2006: 85）。
+转向全球卫生正义理论，许多学者支持足够主义解释，根据这些解释，所有人都有权利获得一定最低水平的健康或健康机会。Sridhar Venkatapuram（2011: 224）支持全球卫生正义的世界主义解释，根据这一解释，所有人都有权利获得健康的能力，确保其在足以保障其平等人类尊严的门槛上。Jennifer Prah Ruger（2018: 82）支持一种制度主义足够主义方法，“省际全球主义”，根据这种方法，各国家和更广泛的全球社区有责任确保所有人享有中心卫生能力的门槛水平。其他人捍卫健康人权，理解为对“健康的‘标准威胁’的保护”（Wolff 2012: 27）的权利，或者理解为对健康的基本最低要求和因此对最低限度良好生活的权利（Hassoun 2020; 另见 Powers＆Faden 2006: 85）。
 
 塞加尔（2010）捍卫了一种宇宙主义幸运优先权全球健康正义观。塞加尔认为，国家成员资格是一个道德上任意的身份特征，因此，由于国家成员资格而导致人们健康机会的不利情况应该得到解决，优先考虑那些处境更糟糕的人。尽管幸运平等主义或优先权立场通常允许由于国内环境中的自愿选择而导致健康赤字，但塞加尔（2010）拒绝诉诸国家责任来证明全球健康差距的正当性，理由是一个政体的所有居民并不能为国家政策负责。即使在一个民主国家在一个公正的全球经济秩序的背景下运作的理想世界中，政策决策也将代表儿童而违背持不同意见者的意愿。
 
@@ -264,163 +264,163 @@ Segall (2010)相反，认为幸运平等主义者无法通过诉诸平等考虑�
 
 Daniels (2008)发展了一种全球健康正义的制度主义方法。他拒绝了世界主义的观念，即国家成员资格在道德上是任意的，理由是同胞之间存在一组道德相关的制度调解关系，这些关系建立了平等正义的可持续主张。同胞们受到同样的强制执行的社会合作规则的约束，这些规则是他们被认为是共同作者的（见 Nagel 2005）。虽然 Daniels (2008)拒绝了 Segall 关于由于国家成员资格而导致的全球不平等是不公正的主张，但他遵循 Joshua Cohen 和 Charles Sabel (2006)的观点，认为国际组织和协议建立了道德相关的关系，因此必须根据正义原则来设计。因此，Daniels (2008)认为，世界卫生组织在分配公共卫生专业知识和技术时必须对所有人表现出同等关注，国际知识产权制度必须被设计得更好地应对全球疾病负担。
 
-戈帕尔·斯里尼瓦桑（2007b: 221）在全球分配正义的上述辩论中绕过，而是提出了全球健康正义的非理想解释，这一解释预期“任何合理和完整的正义理论将包括的最低要求”。他认为，最富裕的国家有义务将国民生产总值的 1%转移给最贫困的国家，优先用于支出健康的决定因素，包括医疗保健和公共卫生、收入和营养支持以及教育。这种转移既不过分苛刻，也不过于微不足道，因为如果用于健康的决定因素，它承诺将大幅提高世界上最贫困人口的预期寿命（斯里尼瓦桑 2007b）。
+戈帕尔 · 斯里尼瓦桑（2007b: 221）在全球分配正义的上述辩论中绕过，而是提出了全球健康正义的非理想解释，这一解释预期“任何合理和完整的正义理论将包括的最低要求”。他认为，最富裕的国家有义务将国民生产总值的 1%转移给最贫困的国家，优先用于支出健康的决定因素，包括医疗保健和公共卫生、收入和营养支持以及教育。这种转移既不过分苛刻，也不过于微不足道，因为如果用于健康的决定因素，它承诺将大幅提高世界上最贫困人口的预期寿命（斯里尼瓦桑 2007b）。
 
 ## Bibliography
 
-* Adler, Nancy E. and Katherine Newman, 2002, “Socioeconomic Disparities In Health: Pathways And Policies”, *Health Affairs*, 21(2): 60–76. doi:10.1377/hlthaff.21.2.60
-* Adler, Nancy E. and Joan M. Ostrove, 1999, “Socioeconomic Status and Health: What We Know and What We Don’t”, *Socioeconomic Status and Health in Industrial Nations: Social, Psychological, and Biological Pathways*, volume title of *Annals of the New York Academy of Sciences*, 896: 3–15. doi:10.1111/j.1749-6632.1999.tb08101.x
-* Albertsen, Andreas and Carl Knight, 2015, “A Framework for Luck Egalitarianism in Health and Healthcare”, *Journal of Medical Ethics*, 41(2): 165–169. doi:10.1136/medethics-2013-101666
-* Aldabe, B., R. Anderson, M. Lyly-Yrjanainen, A. Parent-Thirion, G. Vermeylen, C. C. Kelleher, and I. Niedhammer, 2011, “Contribution of Material, Occupational, and Psychosocial Factors in the Explanation of Social Inequalities in Health in 28 Countries in Europe”, *Journal of Epidemiology & Community Health*, 65(12): 1123–1131. doi:10.1136/jech.2009.102517
+* Adler, Nancy E. and Katherine Newman, 2002, “Socioeconomic Disparities In Health: Pathways And Policies”, *Health Affairs*, 21(2): 60–76. doi: 10.1377/hlthaff.21.2.60
+* Adler, Nancy E. and Joan M. Ostrove, 1999, “Socioeconomic Status and Health: What We Know and What We Don’t”, *Socioeconomic Status and Health in Industrial Nations: Social, Psychological, and Biological Pathways*, volume title of *Annals of the New York Academy of Sciences*, 896: 3–15. doi: 10.1111/j.1749-6632.1999.tb08101.x
+* Albertsen, Andreas and Carl Knight, 2015, “A Framework for Luck Egalitarianism in Health and Healthcare”, *Journal of Medical Ethics*, 41(2): 165–169. doi: 10.1136/medethics-2013-101666
+* Aldabe, B., R. Anderson, M. Lyly-Yrjanainen, A. Parent-Thirion, G. Vermeylen, C. C. Kelleher, and I. Niedhammer, 2011, “Contribution of Material, Occupational, and Psychosocial Factors in the Explanation of Social Inequalities in Health in 28 Countries in Europe”, *Journal of Epidemiology & Community Health*, 65(12): 1123–1131. doi: 10.1136/jech.2009.102517
 * Anand, Sudhir, 2004, “The Concern for Equity in Health”, in Anand, Peter, and Sen 2004: 15–20.
 * Anand, Sudhir and Fabienne Peter, 2000, “Equal Opportunity”, in J. Cohen and Rogers 2000: 48–52.
 * Anand, Sudhir, Fabienne Peter, and Amartya Sen (eds.), 2004, *Public Health, Ethics, and Equity*, New York: Oxford University Press.
 * Anand, Sudhir, Finn Diderichsen, Timothy Evans, Vladimir M. Shkolnikov, and Meg Wirth, 2001, “Measuring Disparities in Health: Methods and Indicators”, in T. Evans et al. 2001: 49–67.
-* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
+* Anderson, Elizabeth S., 1999, “What Is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
 * Arias, Elizabeth, 2016, “Changes in Life Expectancy by Race and Hispanic Origin in the United States, 2013–2014”, NCHS Data Brief 244, Hyattsville, MD: National Center for Health Statistics. [[Arias 2016 available online](https://www.cdc.gov/nchs/products/databriefs/db244.htm)]
 * Arias, Elizabeth, Betzaida Tejada-Vera, and Farida Ahmad, 2021, “Provisional Life Expectancy Estimates for January through June, 2020”, *Vital Statistics Rapid Release* 10, Hyattsville, MD: National Center for Health Statistics. [[Arias et al. 2021 available online](https://depts.washington.edu/pandemicalliance/2021/02/19/provisional-life-expectancy-estimates-for-january-through-june-2020/)]
-* Arneson, Richard J., 2002, “Why Justice Requires Transfers to Offset Income and Wealth Inequalities”, *Social Philosophy and Policy*, 19(1): 172–200. doi:10.1017/S0265052502191084
-* Asada, Yukiko, 2013, “A Summary Measure of Health Inequalities”, in Eyal et al. 2013: 37–51. doi:10.1093/acprof:oso/9780199931392.003.0004
-* –––, 2019, “Measuring Health Inequity: A Public Health Ethics Inquiry”, in Mastroianni et al. 2019: 301–311. doi:10.1093/oxfordhb/9780190245191.013.23
-* Backlund, Eric, Paul D. Sorlie, and Norman J. Johnson, 1999, “A Comparison of the Relationships of Education and Income with Mortality: The National Longitudinal Mortality Study”, *Social Science & Medicine*, 49(10): 1373–1384. doi:10.1016/S0277-9536(99)00209-9
-* Blacksher, Erika, 2018, “Shrinking Poor White Life Spans: Class, Race, and Health Justice”, *The American Journal of Bioethics*, 18(10): 3–14. doi:10.1080/15265161.2018.1513585
-* Blake, Michael, 2001, “Distributive Justice, State Coercion, and Autonomy”, *Philosophy & Public Affairs*, 30(3): 257–296. doi:10.1111/j.1088-4963.2001.00257.x
-* Bleakley, Hoyt, 2010, “Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure”, *American Economic Journal: Applied Economics*, 2(2): 1–45. doi:10.1257/app.2.2.1
-* Boyce, W. Thomas, Marla B. Sokolowski, and Gene E. Robinson, 2012, “Toward a New Biology of Social Adversity”, *Proceedings of the National Academy of Sciences*, 109(Supplement 2): 17143–17148. doi:10.1073/pnas.1121264109
-* Braveman, Paula A., Catherine Cubbin, Susan Egerter, David R. Williams, and Elsie Pamuk, 2010, “Socioeconomic Disparities in Health in the United States: What the Patterns Tell Us”, *American Journal of Public Health*, 100(S1): S186–S196. doi:10.2105/AJPH.2009.166082
-* Braveman, Paula A., Shiriki Kumanyika, Jonathan Fielding, Thomas LaVeist, Luisa N. Borrell, Ron Manderscheid, and Adewale Troutman, 2011, “Health Disparities and Health Equity: The Issue Is Justice”, *American Journal of Public Health*, 101(S1): S149–S155. doi:10.2105/AJPH.2010.300062
-* Brock, Gillian, 2009, *Global Justice: A Cosmopolitan Account*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199230938.001.0001
-* Brulle, Robert J. and David N. Pellow, 2006, “Environmental Justice: Human Health and Environmental Inequalities”, *Annual Review of Public Health*, 27: 103–124. doi:10.1146/annurev.publhealth.27.021405.102124
-* Brunner, Eric and Marmot, Michael, 2005, “Social Organization, Stress, and Health”, in Marmot and Wilkinson 2005: 6–28. doi:10.1093/acprof:oso/9780198565895.001.0001
+* Arneson, Richard J., 2002, “Why Justice Requires Transfers to Offset Income and Wealth Inequalities”, *Social Philosophy and Policy*, 19(1): 172–200. doi: 10.1017/S0265052502191084
+* Asada, Yukiko, 2013, “A Summary Measure of Health Inequalities”, in Eyal et al. 2013: 37–51. doi: 10.1093/acprof: oso/9780199931392.003.0004
+* –––, 2019, “Measuring Health Inequity: A Public Health Ethics Inquiry”, in Mastroianni et al. 2019: 301–311. doi: 10.1093/oxfordhb/9780190245191.013.23
+* Backlund, Eric, Paul D. Sorlie, and Norman J. Johnson, 1999, “A Comparison of the Relationships of Education and Income with Mortality: The National Longitudinal Mortality Study”, *Social Science & Medicine*, 49(10): 1373–1384. doi: 10.1016/S0277-9536(99)00209-9
+* Blacksher, Erika, 2018, “Shrinking Poor White Life Spans: Class, Race, and Health Justice”, *The American Journal of Bioethics*, 18(10): 3–14. doi: 10.1080/15265161.2018.1513585
+* Blake, Michael, 2001, “Distributive Justice, State Coercion, and Autonomy”, *Philosophy & Public Affairs*, 30(3): 257–296. doi: 10.1111/j.1088-4963.2001.00257.x
+* Bleakley, Hoyt, 2010, “Malaria Eradication in the Americas: A Retrospective Analysis of Childhood Exposure”, *American Economic Journal: Applied Economics*, 2(2): 1–45. doi: 10.1257/app.2.2.1
+* Boyce, W. Thomas, Marla B. Sokolowski, and Gene E. Robinson, 2012, “Toward a New Biology of Social Adversity”, *Proceedings of the National Academy of Sciences*, 109(Supplement 2): 17143–17148. doi: 10.1073/pnas.1121264109
+* Braveman, Paula A., Catherine Cubbin, Susan Egerter, David R. Williams, and Elsie Pamuk, 2010, “Socioeconomic Disparities in Health in the United States: What the Patterns Tell Us”, *American Journal of Public Health*, 100(S1): S186–S196. doi: 10.2105/AJPH.2009.166082
+* Braveman, Paula A., Shiriki Kumanyika, Jonathan Fielding, Thomas LaVeist, Luisa N. Borrell, Ron Manderscheid, and Adewale Troutman, 2011, “Health Disparities and Health Equity: The Issue Is Justice”, *American Journal of Public Health*, 101(S1): S149–S155. doi: 10.2105/AJPH.2010.300062
+* Brock, Gillian, 2009, *Global Justice: A Cosmopolitan Account*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199230938.001.0001
+* Brulle, Robert J. and David N. Pellow, 2006, “Environmental Justice: Human Health and Environmental Inequalities”, *Annual Review of Public Health*, 27: 103–124. doi: 10.1146/annurev.publhealth.27.021405.102124
+* Brunner, Eric and Marmot, Michael, 2005, “Social Organization, Stress, and Health”, in Marmot and Wilkinson 2005: 6–28. doi: 10.1093/acprof: oso/9780198565895.001.0001
 * Buchbinder, Mara, Michele R. Rivkin-Fish, and Rebecca L. Walker (eds.), 2016, *Understanding Health Inequalities and Justice: New Conversations across the Disciplines*, (Studies in Social Medicine), Chapel Hill, NC: The University of North Carolina Press.
-* Caney, Simon, 2005, *Justice Beyond Borders: A Global Political Theory*, Oxford: Oxford University Press. doi:10.1093/019829350X.001.0001
-* Cappelen, A. W. and O. F. Norheim, 2005, “Responsibility in Health Care: A Liberal Egalitarian Approach”, *Journal of Medical Ethics*, 31(8): 476–480. doi:10.1136/jme.2004.010421
-* Case, Anne and Angus Deaton, 2015, “Rising Morbidity and Mortality in Midlife among White Non-Hispanic Americans in the 21st Century”, *Proceedings of the National Academy of Sciences*, 112(49): 15078–15083. doi:10.1073/pnas.1518393112
+* Caney, Simon, 2005, *Justice Beyond Borders: A Global Political Theory*, Oxford: Oxford University Press. doi: 10.1093/019829350X.001.0001
+* Cappelen, A. W. and O. F. Norheim, 2005, “Responsibility in Health Care: A Liberal Egalitarian Approach”, *Journal of Medical Ethics*, 31(8): 476–480. doi: 10.1136/jme.2004.010421
+* Case, Anne and Angus Deaton, 2015, “Rising Morbidity and Mortality in Midlife among White Non-Hispanic Americans in the 21st Century”, *Proceedings of the National Academy of Sciences*, 112(49): 15078–15083. doi: 10.1073/pnas.1518393112
 * –––, 2020, *Deaths of Despair and the Future of Capitalism*, Princeton, NJ: Princeton University Press.
-* Case, Anne, Angela Fertig, and Christina Paxson, 2005, “The Lasting Impact of Childhood Health and Circumstance”, *Journal of Health Economics*, 24(2): 365–389. doi:10.1016/j.jhealeco.2004.09.008
-* Case, Anne, Darren Lubotsky, and Christina Paxson, 2002, “Economic Status and Health in Childhood: The Origins of the Gradient”, *American Economic Review*, 92(5): 1308–1334. doi:10.1257/000282802762024520
-* Case, Anne and Christina Paxson, 2011, “The Long Reach of Childhood Health and Circumstance: Evidence from the Whitehall II Study”, *The Economic Journal*, 121(554): F183–F204. doi:10.1111/j.1468-0297.2011.02447.x
-* Cavallero, Eric, 2011, “Health, Luck and Moral Fallacies of the Second Best”, *The Journal of Ethics*, 15(4): 387–403. doi:10.1007/s10892-011-9109-z
-* –––, 2019, “Opportunity and Responsibility for Health”, *The Journal of Ethics*, 23(4): 369–386. doi:10.1007/s10892-019-09300-7
-* Chang, W, 2002, “The Meaning and Goals of Equity in Health”, *Journal of Epidemiology & Community Health*, 56(7): 488–491. doi:10.1136/jech.56.7.488
-* Chetty, Raj, Michael Stepner, Sarah Abraham, Shelby Lin, Benjamin Scuderi, Nicholas Turner, Augustin Bergeron, and David Cutler, 2016, “The Association Between Income and Life Expectancy in the United States, 2001-2014”, *Journal of the American Medical Association*, 315(16): 1750–1766. doi:10.1001/jama.2016.4226
-* Clark, Uraina S., Evan R. Miller, and Rachal R. Hegde, 2018, “Experiences of Discrimination Are Associated With Greater Resting Amygdala Activity and Functional Connectivity”, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 3(4): 367–378. doi:10.1016/j.bpsc.2017.11.011
-* Clougherty, Jane E., Kerry Souza, and Mark R. Cullen, 2010, “Work and Its Role in Shaping the Social Gradient in Health”, *The Biology of Disadvantage: Socioeconomic Status and Health*, volume title of *Annals of the New York Academy of Sciences*, 1186: 102–124. doi:10.1111/j.1749-6632.2009.05338.x
+* Case, Anne, Angela Fertig, and Christina Paxson, 2005, “The Lasting Impact of Childhood Health and Circumstance”, *Journal of Health Economics*, 24(2): 365–389. doi: 10.1016/j.jhealeco.2004.09.008
+* Case, Anne, Darren Lubotsky, and Christina Paxson, 2002, “Economic Status and Health in Childhood: The Origins of the Gradient”, *American Economic Review*, 92(5): 1308–1334. doi: 10.1257/000282802762024520
+* Case, Anne and Christina Paxson, 2011, “The Long Reach of Childhood Health and Circumstance: Evidence from the Whitehall II Study”, *The Economic Journal*, 121(554): F183–F204. doi: 10.1111/j.1468-0297.2011.02447.x
+* Cavallero, Eric, 2011, “Health, Luck and Moral Fallacies of the Second Best”, *The Journal of Ethics*, 15(4): 387–403. doi: 10.1007/s10892-011-9109-z
+* –––, 2019, “Opportunity and Responsibility for Health”, *The Journal of Ethics*, 23(4): 369–386. doi: 10.1007/s10892-019-09300-7
+* Chang, W, 2002, “The Meaning and Goals of Equity in Health”, *Journal of Epidemiology & Community Health*, 56(7): 488–491. doi: 10.1136/jech.56.7.488
+* Chetty, Raj, Michael Stepner, Sarah Abraham, Shelby Lin, Benjamin Scuderi, Nicholas Turner, Augustin Bergeron, and David Cutler, 2016, “The Association Between Income and Life Expectancy in the United States, 2001-2014”, *Journal of the American Medical Association*, 315(16): 1750–1766. doi: 10.1001/jama.2016.4226
+* Clark, Uraina S., Evan R. Miller, and Rachal R. Hegde, 2018, “Experiences of Discrimination Are Associated With Greater Resting Amygdala Activity and Functional Connectivity”, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 3(4): 367–378. doi: 10.1016/j.bpsc.2017.11.011
+* Clougherty, Jane E., Kerry Souza, and Mark R. Cullen, 2010, “Work and Its Role in Shaping the Social Gradient in Health”, *The Biology of Disadvantage: Socioeconomic Status and Health*, volume title of *Annals of the New York Academy of Sciences*, 1186: 102–124. doi: 10.1111/j.1749-6632.2009.05338.x
 * Cohen, Joshua and Joel Rogers (eds.), 2000, *Is Inequality Bad for Our Health?*, (New Democratic Forum Series), Boston, MA: Beacon Press.
-* Cohen, Joshua and Charles Sabel, 2006, “Extra Rempublicam Nulla Justitia?”, *Philosophy & Public Affairs*, 34(2): 147–175. doi:10.1111/j.1088-4963.2006.00060.x
-* Cohen, Sheldon, Scott Line, Stephen B. Manuck, Bruce S. Rabin, Eugene R. Heise, and Jay R. Kaplan, 1997, “Chronic Social Stress, Social Status, and Susceptibility to Upper Respiratory Infections in Nonhuman Primates”, *Psychosomatic Medicine*, 59(3): 213–221. doi:10.1097/00006842-199705000-00001
-* Colen, Cynthia G., David M. Ramey, Elizabeth C. Cooksey, and David R. Williams, 2018, “Racial Disparities in Health among Nonpoor African Americans and Hispanics: The Role of Acute and Chronic Discrimination”, *Social Science & Medicine*, 199: 167–180. doi:10.1016/j.socscimed.2017.04.051
-* Crimmins, Eileen M. and Yasuhiko Saito, 2001, “Trends in Healthy Life Expectancy in the United States, 1970–1990: Gender, Racial, and Educational Differences”, *Social Science & Medicine*, 52(11): 1629–1641. doi:10.1016/S0277-9536(00)00273-2
-* Culyer, A. J. and Adam Wagstaff, 1993, “Equity and Equality in Health and Health Care”, *Journal of Health Economics*, 12(4): 431–457. doi:10.1016/0167-6296(93)90004-X
-* Currie, Janet, 2009, “Healthy, Wealthy, and Wise: Socioeconomic Status, Poor Health in Childhood, and Human Capital Development”, *Journal of Economic Literature*, 47(1): 87–122. doi:10.1257/jel.47.1.87
-* Cutler, David M., Adriana Lleras-Muney, and Tom Vogl, 2011, “Socioeconomic Status and Health: Dimensions and Mechanisms”, in *The Oxford Handbook of Health Economics*, Sherry Glied and Peter C. Smith (eds.), Oxford: Oxford University Press, 123–163. doi:10.1093/oxfordhb/9780199238828.013.0007
-* Daniels, Norman, 1985, *Just Health Care*, New York: Cambridge University Press. doi:10.1017/CBO9780511624971
-* –––, 2008, *Just Health: Meeting Health Needs Fairly*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511809514
-* –––, 2011, “Individual and Social Responsibility for Health”, in Knight and Stemplowska 2011: 266–286. doi:10.1093/acprof:oso/9780199565801.003.0014
+* Cohen, Joshua and Charles Sabel, 2006, “Extra Rempublicam Nulla Justitia?”, *Philosophy & Public Affairs*, 34(2): 147–175. doi: 10.1111/j.1088-4963.2006.00060.x
+* Cohen, Sheldon, Scott Line, Stephen B. Manuck, Bruce S. Rabin, Eugene R. Heise, and Jay R. Kaplan, 1997, “Chronic Social Stress, Social Status, and Susceptibility to Upper Respiratory Infections in Nonhuman Primates”, *Psychosomatic Medicine*, 59(3): 213–221. doi: 10.1097/00006842-199705000-00001
+* Colen, Cynthia G., David M. Ramey, Elizabeth C. Cooksey, and David R. Williams, 2018, “Racial Disparities in Health among Nonpoor African Americans and Hispanics: The Role of Acute and Chronic Discrimination”, *Social Science & Medicine*, 199: 167–180. doi: 10.1016/j.socscimed.2017.04.051
+* Crimmins, Eileen M. and Yasuhiko Saito, 2001, “Trends in Healthy Life Expectancy in the United States, 1970–1990: Gender, Racial, and Educational Differences”, *Social Science & Medicine*, 52(11): 1629–1641. doi: 10.1016/S0277-9536(00)00273-2
+* Culyer, A. J. and Adam Wagstaff, 1993, “Equity and Equality in Health and Health Care”, *Journal of Health Economics*, 12(4): 431–457. doi: 10.1016/0167-6296(93)90004-X
+* Currie, Janet, 2009, “Healthy, Wealthy, and Wise: Socioeconomic Status, Poor Health in Childhood, and Human Capital Development”, *Journal of Economic Literature*, 47(1): 87–122. doi: 10.1257/jel.47.1.87
+* Cutler, David M., Adriana Lleras-Muney, and Tom Vogl, 2011, “Socioeconomic Status and Health: Dimensions and Mechanisms”, in *The Oxford Handbook of Health Economics*, Sherry Glied and Peter C. Smith (eds.), Oxford: Oxford University Press, 123–163. doi: 10.1093/oxfordhb/9780199238828.013.0007
+* Daniels, Norman, 1985, *Just Health Care*, New York: Cambridge University Press. doi: 10.1017/CBO9780511624971
+* –––, 2008, *Just Health: Meeting Health Needs Fairly*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511809514
+* –––, 2011, “Individual and Social Responsibility for Health”, in Knight and Stemplowska 2011: 266–286. doi: 10.1093/acprof: oso/9780199565801.003.0014
 * Daniels, Norman, Bruce Kennedy, and Ichiro Kawachi, 2000, “Why Justice is Good for our Health”, in J. Cohen and Rogers 2000: 3–33.
-* Davies, Ben and Julian Savulescu, 2019, “Solidarity and Responsibility in Health Care”, *Public Health Ethics*, 12(2): 133–144. doi:10.1093/phe/phz008
-* Dawson, Angus (ed.), 2011, *Public Health Ethics: Key Concepts and Issues in Policy and Practice*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511862670
-* Deaton, Angus, 2002, “Policy Implications Of The Gradient Of Health And Wealth”, *Health Affairs*, 21(2): 13–30. doi:10.1377/hlthaff.21.2.13
-* –––, 2003, “Health, Inequality, and Economic Development”, *Journal of Economic Literature*, 41(1): 113–158. doi:10.1257/jel.41.1.113
-* –––, 2013, “What Does the Empirical Evidence Tell Us About the Injustice of Health Inequalities?”, in Eyal et al. 2013: 263–281. doi:10.1093/acprof:oso/9780199931392.003.0018
-* Elo, Irma T. and Samuel H. Preston, 1996, “Educational Differentials in Mortality: United States, 1979–1985”, *Social Science & Medicine*, 42(1): 47–57. doi:10.1016/0277-9536(95)00062-3
-* Evans, Robert G., M. Hodge, and I. B. Pless, 1994, “If Not Genetics, Then What? Biological Pathways and Population Health”, in *Why Are Some People Healthy and Others Not? The Determinants of Health Populations*, Robert G. Evans, Morris L. Barer, and Theodore R. Marmor (eds.), New York: De Gruyter, 161–188. doi:10.1515/9783112421628-008
-* Evans, Timothy, Margaret Whitehead, Finn Diderichsen, Abbas Bhuiya, and Meg Wirth, 2001, *Challenging Inequities in Health: From Ethics to Action*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195137408.001.0001
-* Eyal, Nir, 2013, “Leveling Down Health”, in Eyal et al. 2013: 197–213. doi:10.1093/acprof:oso/9780199931392.003.0014
-* –––, 2018, “Inequality in Political Philosophy and in Epidemiology: A Remarriage: Inequality in Political Philosophy and in Epidemiology”, *Journal of Applied Philosophy*, 35(1): 149–167. doi:10.1111/japp.12150
-* Eyal, Nir, Samia A. Hurst, Ole F. Norheim, and Dan Wikler (eds.), 2013, *Inequalities in Health: Concepts, Measures, and Ethics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199931392.001.0001
-* Fishman, Jayna and Douglas MacKay, 2019, “Rawlsian Justice and the Social Determinants of Health”, *Journal of Applied Philosophy*, 36(4): 608–625. doi:10.1111/japp.12339
-* Fleck, Leonard M., 2012, “Whoopie Pies, Supersized Fries: ‘Just’ Snacking? ‘Just’ Des(s)Erts?”, *Cambridge Quarterly of Healthcare Ethics*, 21(1): 5–19. doi:10.1017/S0963180111000454
-* Fourie, Carina, 2016, “The Sufficiency View: A Primer”, in Fourie and Rid 2016: 11–29. doi:10.1093/acprof:oso/9780199385263.003.0002
-* Fourie, Carina and Annette Rid (eds.), 2016, *What Is Enough? Sufficiency, Justice, and Health*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199385263.001.0001
-* Friesen, Phoebe, 2018, “Personal Responsibility within Health Policy: Unethical and Ineffective”, *Journal of Medical Ethics*, 44(1): 53–58. doi:10.1136/medethics-2016-103478
-* Goldberg, D. S., 2012, “Social Justice, Health Inequalities and Methodological Individualism in US Health Promotion”, *Public Health Ethics*, 5(2): 104–115. doi:10.1093/phe/phs013
-* Hassoun, Nicole, 2020, *Global Health Impact: Extending Access to Essential Medicines*, New York: Oxford University Press. doi:10.1093/oso/9780197514993.001.0001
-* Hausman, Daniel M., 2007, “What’s Wrong with Health Inequalities?”, *Journal of Political Philosophy*, 15(1): 46–66. doi:10.1111/j.1467-9760.2007.00270.x
+* Davies, Ben and Julian Savulescu, 2019, “Solidarity and Responsibility in Health Care”, *Public Health Ethics*, 12(2): 133–144. doi: 10.1093/phe/phz008
+* Dawson, Angus (ed.), 2011, *Public Health Ethics: Key Concepts and Issues in Policy and Practice*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511862670
+* Deaton, Angus, 2002, “Policy Implications Of The Gradient Of Health And Wealth”, *Health Affairs*, 21(2): 13–30. doi: 10.1377/hlthaff.21.2.13
+* –––, 2003, “Health, Inequality, and Economic Development”, *Journal of Economic Literature*, 41(1): 113–158. doi: 10.1257/jel.41.1.113
+* –––, 2013, “What Does the Empirical Evidence Tell Us About the Injustice of Health Inequalities?”, in Eyal et al. 2013: 263–281. doi: 10.1093/acprof: oso/9780199931392.003.0018
+* Elo, Irma T. and Samuel H. Preston, 1996, “Educational Differentials in Mortality: United States, 1979–1985”, *Social Science & Medicine*, 42(1): 47–57. doi: 10.1016/0277-9536(95)00062-3
+* Evans, Robert G., M. Hodge, and I. B. Pless, 1994, “If Not Genetics, Then What? Biological Pathways and Population Health”, in *Why Are Some People Healthy and Others Not? The Determinants of Health Populations*, Robert G. Evans, Morris L. Barer, and Theodore R. Marmor (eds.), New York: De Gruyter, 161–188. doi: 10.1515/9783112421628-008
+* Evans, Timothy, Margaret Whitehead, Finn Diderichsen, Abbas Bhuiya, and Meg Wirth, 2001, *Challenging Inequities in Health: From Ethics to Action*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195137408.001.0001
+* Eyal, Nir, 2013, “Leveling Down Health”, in Eyal et al. 2013: 197–213. doi: 10.1093/acprof: oso/9780199931392.003.0014
+* –––, 2018, “Inequality in Political Philosophy and in Epidemiology: A Remarriage: Inequality in Political Philosophy and in Epidemiology”, *Journal of Applied Philosophy*, 35(1): 149–167. doi: 10.1111/japp.12150
+* Eyal, Nir, Samia A. Hurst, Ole F. Norheim, and Dan Wikler (eds.), 2013, *Inequalities in Health: Concepts, Measures, and Ethics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199931392.001.0001
+* Fishman, Jayna and Douglas MacKay, 2019, “Rawlsian Justice and the Social Determinants of Health”, *Journal of Applied Philosophy*, 36(4): 608–625. doi: 10.1111/japp.12339
+* Fleck, Leonard M., 2012, “Whoopie Pies, Supersized Fries: ‘Just’ Snacking? ‘Just’ Des(s)Erts?”, *Cambridge Quarterly of Healthcare Ethics*, 21(1): 5–19. doi: 10.1017/S0963180111000454
+* Fourie, Carina, 2016, “The Sufficiency View: A Primer”, in Fourie and Rid 2016: 11–29. doi: 10.1093/acprof: oso/9780199385263.003.0002
+* Fourie, Carina and Annette Rid (eds.), 2016, *What Is Enough? Sufficiency, Justice, and Health*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199385263.001.0001
+* Friesen, Phoebe, 2018, “Personal Responsibility within Health Policy: Unethical and Ineffective”, *Journal of Medical Ethics*, 44(1): 53–58. doi: 10.1136/medethics-2016-103478
+* Goldberg, D. S., 2012, “Social Justice, Health Inequalities and Methodological Individualism in US Health Promotion”, *Public Health Ethics*, 5(2): 104–115. doi: 10.1093/phe/phs013
+* Hassoun, Nicole, 2020, *Global Health Impact: Extending Access to Essential Medicines*, New York: Oxford University Press. doi: 10.1093/oso/9780197514993.001.0001
+* Hausman, Daniel M., 2007, “What’s Wrong with Health Inequalities?”, *Journal of Political Philosophy*, 15(1): 46–66. doi: 10.1111/j.1467-9760.2007.00270.x
 * –––, 2012, “What’s Wrong with Global Health Inequalities?” in Lenard and Straehle 2012: 34–51.
-* –––, 2013, “Egalitarian Critiques of Health Inequalities”, in Eyal et al. 2013: 95–112. doi:10.1093/acprof:oso/9780199931392.003.0008
-* –––, 2019, “Some Remarks on Equality in Health and Health Care”, *Social Justice Research*, 32(2): 137–154. doi:10.1007/s11211-018-0320-y
-* Hero, Joachim O., Alan M. Zaslavsky, and Robert J. Blendon, 2017, “The United States Leads Other Nations In Differences By Income In Perceptions Of Health And Health Care”, *Health Affairs*, 36(6): 1032–1040. doi:10.1377/hlthaff.2017.0006
-* Huisman, Martijn, Anton E. Kunst, Matthias Bopp, Jens-Kristian Borgan, Carme Borrell, Giuseppe Costa, Patrick Deboosere, Sylvie Gadeyne, Myer Glickman, Chiara Marinacci, Christoph Minder, Enrique Regidor, Tapani Valkonen, and Johan P. Mackenbach, 2005, “Educational Inequalities in Cause-Specific Mortality in Middle-Aged and Older Men and Women in Eight Western European Populations”, *The Lancet*, 365(9458): 493–500. doi:10.1016/S0140-6736(05)17867-2
+* –––, 2013, “Egalitarian Critiques of Health Inequalities”, in Eyal et al. 2013: 95–112. doi: 10.1093/acprof: oso/9780199931392.003.0008
+* –––, 2019, “Some Remarks on Equality in Health and Health Care”, *Social Justice Research*, 32(2): 137–154. doi: 10.1007/s11211-018-0320-y
+* Hero, Joachim O., Alan M. Zaslavsky, and Robert J. Blendon, 2017, “The United States Leads Other Nations In Differences By Income In Perceptions Of Health And Health Care”, *Health Affairs*, 36(6): 1032–1040. doi: 10.1377/hlthaff.2017.0006
+* Huisman, Martijn, Anton E. Kunst, Matthias Bopp, Jens-Kristian Borgan, Carme Borrell, Giuseppe Costa, Patrick Deboosere, Sylvie Gadeyne, Myer Glickman, Chiara Marinacci, Christoph Minder, Enrique Regidor, Tapani Valkonen, and Johan P. Mackenbach, 2005, “Educational Inequalities in Cause-Specific Mortality in Middle-Aged and Older Men and Women in Eight Western European Populations”, *The Lancet*, 365(9458): 493–500. doi: 10.1016/S0140-6736(05)17867-2
 * Kawachi, Ichiro, Bruce P. Kennedy, and Richard G. Wilkinson (eds.), 1999, *Income Inequality and Health: A Reader*, New York: New Press.
 * Kelleher, J. Paul, 2016, “Health Inequalities and Relational Egalitarianism”, in Buchbinder et al. 2016: 88–111.
 * King, Nicholas B., 2016, “Justice, Evidence, and Interdisciplinary Health Inequalities Research”, in Buchbinder et al. 2016: 213–234.
-* Kniess, Johannes, 2018, “A Social Division of Responsibility for Health”, *Les ateliers de l’éthique* (*The Ethics Forum*), 13(3): 105–122. doi:10.7202/1061221ar
-* –––, 2019, “Justice in the Social Distribution of Health”, *Social Theory and Practice*, 45(3): 397–425. doi:10.5840/soctheorpract201992665
-* Knight, Carl and Zofia Stemplowska (eds.), 2011, *Responsibility and Distributive Justice*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199565801.001.0001
-* Kunst, A. E. and J. P. Mackenbach, 1994, “The Size of Mortality Differences Associated with Educational Level in Nine Industrialized Countries”, *American Journal of Public Health*, 84(6): 932–937. doi:10.2105/AJPH.84.6.932
-* Le Grand, Julian, 1987, “Equity, Health, and Health Care”, *Social Justice Research*, 1(3): 257–274. doi:10.1007/BF01047663
-* –––, 2013, “Individual Responsibility, Health, and Health Care”, in Eyal et al. 2013: 299–306. doi:10.1093/acprof:oso/9780199931392.003.0020
+* Kniess, Johannes, 2018, “A Social Division of Responsibility for Health”, *Les ateliers de l’éthique* (*The Ethics Forum*), 13(3): 105–122. doi: 10.7202/1061221ar
+* –––, 2019, “Justice in the Social Distribution of Health”, *Social Theory and Practice*, 45(3): 397–425. doi: 10.5840/soctheorpract201992665
+* Knight, Carl and Zofia Stemplowska (eds.), 2011, *Responsibility and Distributive Justice*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199565801.001.0001
+* Kunst, A. E. and J. P. Mackenbach, 1994, “The Size of Mortality Differences Associated with Educational Level in Nine Industrialized Countries”, *American Journal of Public Health*, 84(6): 932–937. doi: 10.2105/AJPH.84.6.932
+* Le Grand, Julian, 1987, “Equity, Health, and Health Care”, *Social Justice Research*, 1(3): 257–274. doi: 10.1007/BF01047663
+* –––, 2013, “Individual Responsibility, Health, and Health Care”, in Eyal et al. 2013: 299–306. doi: 10.1093/acprof: oso/9780199931392.003.0020
 * Lenard, Patti Tamara and Christine Straehle (eds.), 2012, *Health Inequalities and Global Justice*, Edinburgh: Edinburgh University Press.
-* Leon, David and Gill Walt, 2001, *Poverty, Inequality, and Health: An International Perspective*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780192631961.001.0001
-* Levy, Neil, 2019, “Taking Responsibility for Responsibility”, *Public Health Ethics*, 12(2): 103–113. doi:10.1093/phe/phz001
-* Lippert-Rasmussen, Kasper, 2013, “When Group Measures of Health Should Matter”, in Eyal et al. 2013: 52–65. doi:10.1093/acprof:oso/9780199931392.003.0005
-* Mackenbach, Johan P., 2019, *Health Inequalities: Persistence and Change in Modern Welfare States*, New York: Oxford University Press. doi:10.1093/oso/9780198831419.001.0001
-* Mackenbach, Johan P., Irina Stirbu, Albert-Jan R. Roskam, Maartje M. Schaap, Gwenn Menvielle, Mall Leinsalu, and Anton E. Kunst, 2008, “Socioeconomic Inequalities in Health in 22 European Countries”, *New England Journal of Medicine*, 358(23): 2468–2481. doi:10.1056/NEJMsa0707519
+* Leon, David and Gill Walt, 2001, *Poverty, Inequality, and Health: An International Perspective*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780192631961.001.0001
+* Levy, Neil, 2019, “Taking Responsibility for Responsibility”, *Public Health Ethics*, 12(2): 103–113. doi: 10.1093/phe/phz001
+* Lippert-Rasmussen, Kasper, 2013, “When Group Measures of Health Should Matter”, in Eyal et al. 2013: 52–65. doi: 10.1093/acprof: oso/9780199931392.003.0005
+* Mackenbach, Johan P., 2019, *Health Inequalities: Persistence and Change in Modern Welfare States*, New York: Oxford University Press. doi: 10.1093/oso/9780198831419.001.0001
+* Mackenbach, Johan P., Irina Stirbu, Albert-Jan R. Roskam, Maartje M. Schaap, Gwenn Menvielle, Mall Leinsalu, and Anton E. Kunst, 2008, “Socioeconomic Inequalities in Health in 22 European Countries”, *New England Journal of Medicine*, 358(23): 2468–2481. doi: 10.1056/NEJMsa0707519
 * Marmot, Michael, 2000, “Multilevel Approaches to Understanding Social Determinants”, in *Social Epidemiology*, Lisa F. Berkman and Ichiro Kawachi (eds.), Oxford: Oxford University Press, 349–367.
-* –––, 2001, “Inequalities in Health”, *New England Journal of Medicine*, 345(2): 134–136. doi:10.1056/NEJM200107123450210
+* –––, 2001, “Inequalities in Health”, *New England Journal of Medicine*, 345(2): 134–136. doi: 10.1056/NEJM200107123450210
 * –––, 2004, *The Status Syndrome: How Social Standing Affects Our Health and Longevity*, New York: Times Books/Henry Holt.
 * –––, 2005, “Introduction”, in Marmot and Wilkinson (eds) 2005: 1–5.
-* Marmot, M. G., H. Bosma, H. Hemingway, E. Brunner, and S. Stansfeld, 1997, “Contribution of Job Control and Other Risk Factors to Social Variations in Coronary Heart Disease Incidence”, *The Lancet*, 350(9073): 235–239. doi:10.1016/S0140-6736(97)04244-X
-* Marmot, M. G., G. Rose, M. Shipley, and P. J. Hamilton, 1978, “Employment Grade and Coronary Heart Disease in British Civil Servants”, *Journal of Epidemiology & Community Health*, 32(4): 244–249. doi:10.1136/jech.32.4.244
-* Marmot, M. G., M. J. Shipley, and Geoffrey Rose, 1984, “Inequalities in Death—Specific Explanations of a General Pattern?”, *The Lancet*, 323(8384): 1003–1006. doi:10.1016/S0140-6736(84)92337-7
-* Marmot, Michael and Richard G. Wilkinson (eds.), 2005, *Social Determinants of Health*, second edition, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198565895.001.0001
-* Mastroianni, Anna C., Jeffrey P. Kahn, and Nancy E. Kass (eds.), 2019, *The Oxford Handbook of Public Health Ethics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780190245191.001.0001
-* McDonough, P., G. J. Duncan, D. Williams, and J. House, 1997, “Income Dynamics and Adult Mortality in the United States, 1972 through 1989”, *American Journal of Public Health*, 87(9): 1476–1483. doi:10.2105/AJPH.87.9.1476
-* McEwen, Bruce S., 1998, “Protective and Damaging Effects of Stress Mediators”, *New England Journal of Medicine*, 338(3): 171–179. doi:10.1056/NEJM199801153380307
-* McEwen, Craig A. and Bruce S. McEwen, 2017, “Social Structure, Adversity, Toxic Stress, and Intergenerational Poverty: An Early Childhood Model”, *Annual Review of Sociology*, 43: 445–472. doi:10.1146/annurev-soc-060116-053252
+* Marmot, M. G., H. Bosma, H. Hemingway, E. Brunner, and S. Stansfeld, 1997, “Contribution of Job Control and Other Risk Factors to Social Variations in Coronary Heart Disease Incidence”, *The Lancet*, 350(9073): 235–239. doi: 10.1016/S0140-6736(97)04244-X
+* Marmot, M. G., G. Rose, M. Shipley, and P. J. Hamilton, 1978, “Employment Grade and Coronary Heart Disease in British Civil Servants”, *Journal of Epidemiology & Community Health*, 32(4): 244–249. doi: 10.1136/jech.32.4.244
+* Marmot, M. G., M. J. Shipley, and Geoffrey Rose, 1984, “Inequalities in Death—Specific Explanations of a General Pattern?”, *The Lancet*, 323(8384): 1003–1006. doi: 10.1016/S0140-6736(84)92337-7
+* Marmot, Michael and Richard G. Wilkinson (eds.), 2005, *Social Determinants of Health*, second edition, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198565895.001.0001
+* Mastroianni, Anna C., Jeffrey P. Kahn, and Nancy E. Kass (eds.), 2019, *The Oxford Handbook of Public Health Ethics*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780190245191.001.0001
+* McDonough, P., G. J. Duncan, D. Williams, and J. House, 1997, “Income Dynamics and Adult Mortality in the United States, 1972 through 1989”, *American Journal of Public Health*, 87(9): 1476–1483. doi: 10.2105/AJPH.87.9.1476
+* McEwen, Bruce S., 1998, “Protective and Damaging Effects of Stress Mediators”, *New England Journal of Medicine*, 338(3): 171–179. doi: 10.1056/NEJM199801153380307
+* McEwen, Craig A. and Bruce S. McEwen, 2017, “Social Structure, Adversity, Toxic Stress, and Intergenerational Poverty: An Early Childhood Model”, *Annual Review of Sociology*, 43: 445–472. doi: 10.1146/annurev-soc-060116-053252
 * Murray, C. J., E. E. Gakidou, and J. Frenk, 1999, “Health Inequalities and Social Group Differences: What Should We Measure?”, *Bulletin of the World Health Organization*, 77(7): 537–543.
-* Nagel, Thomas, 2005, “The Problem of Global Justice”, *Philosophy & Public Affairs*, 33(2): 113–147. doi:10.1111/j.1088-4963.2005.00027.x
-* Norheim, Ole F., Ezekiel J. Emanuel, and Joseph Millum (eds.), 2019, *Global Health Priority-Setting: Beyond Cost-Effectiveness*, New York: Oxford University Press. doi:10.1093/oso/9780190912765.001.0001
+* Nagel, Thomas, 2005, “The Problem of Global Justice”, *Philosophy & Public Affairs*, 33(2): 113–147. doi: 10.1111/j.1088-4963.2005.00027.x
+* Norheim, Ole F., Ezekiel J. Emanuel, and Joseph Millum (eds.), 2019, *Global Health Priority-Setting: Beyond Cost-Effectiveness*, New York: Oxford University Press. doi: 10.1093/oso/9780190912765.001.0001
 * Peter, Fabienne, 2004, “Health Equity and Social Justice”, in Anand, Peter, and Sen 2004: 93–105.
-* Petrovic, Dusan, Carlos de Mestral, Murielle Bochud, Mel Bartley, Mika Kivimäki, Paolo Vineis, Johan Mackenbach, and Silvia Stringhini, 2018, “The Contribution of Health Behaviors to Socioeconomic Inequalities in Health: A Systematic Review”, *Preventive Medicine*, 113: 15–31. doi:10.1016/j.ypmed.2018.05.003
-* Pickett, Kate E. and M. Pearl, 2001, “Multilevel Analyses of Neighbourhood Socioeconomic Context and Health Outcomes: A Critical Review”, *Journal of Epidemiology & Community Health*, 55(2): 111–122. doi:10.1136/jech.55.2.111
-* Pickett, Kate E. and Richard G. Wilkinson, 2015, “Income Inequality and Health: A Causal Review”, *Social Science & Medicine*, 128: 316–326. doi:10.1016/j.socscimed.2014.12.031
+* Petrovic, Dusan, Carlos de Mestral, Murielle Bochud, Mel Bartley, Mika Kivimäki, Paolo Vineis, Johan Mackenbach, and Silvia Stringhini, 2018, “The Contribution of Health Behaviors to Socioeconomic Inequalities in Health: A Systematic Review”, *Preventive Medicine*, 113: 15–31. doi: 10.1016/j.ypmed.2018.05.003
+* Pickett, Kate E. and M. Pearl, 2001, “Multilevel Analyses of Neighbourhood Socioeconomic Context and Health Outcomes: A Critical Review”, *Journal of Epidemiology & Community Health*, 55(2): 111–122. doi: 10.1136/jech.55.2.111
+* Pickett, Kate E. and Richard G. Wilkinson, 2015, “Income Inequality and Health: A Causal Review”, *Social Science & Medicine*, 128: 316–326. doi: 10.1016/j.socscimed.2014.12.031
 * Pogge, Thomas W., 2004, “Relational Conceptions of Justice: Responsibilities for Health Outcomes”, in Anand, Peter, and Sen 2004: 135–161.
 * Powers, Madison and Ruth R. Faden, 2006, *Social Justice: The Moral Foundations of Public Health and Health Policy*, (Issues in Biomedical Ethics), New York: Oxford University Press.
-* Prah Ruger, Jennifer, 2010, *Health and Social Justice*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199559978.001.0001
-* –––, 2018, *Global Health Justice and Governance*, New York: Oxford University Press. doi:10.1093/oso/9780199694631.001.0001
-* Preda, Adina and Kristin Voigt, 2015, “The Social Determinants of Health: Why Should We Care?”, *The American Journal of Bioethics*, 15(3): 25–36. doi:10.1080/15265161.2014.998374
+* Prah Ruger, Jennifer, 2010, *Health and Social Justice*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199559978.001.0001
+* –––, 2018, *Global Health Justice and Governance*, New York: Oxford University Press. doi: 10.1093/oso/9780199694631.001.0001
+* Preda, Adina and Kristin Voigt, 2015, “The Social Determinants of Health: Why Should We Care?”, *The American Journal of Bioethics*, 15(3): 25–36. doi: 10.1080/15265161.2014.998374
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* –––, 1982 [1999], “Social Unity and Primary Goods”, in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 159–186. Reprinted in Rawls 1999: 359–387. doi:10.1017/CBO9780511611964.010
+* –––, 1982 [1999], “Social Unity and Primary Goods”, in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 159–186. Reprinted in Rawls 1999: 359–387. doi: 10.1017/CBO9780511611964.010
 * –––, 1999, *John Rawls: Collected Papers*, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
-* Rid, Annette, 2016, “Sufficiency, Health, and Health Care Justice: The State of the Debate”, in Fourie and Rid 2016: 30–48. doi:10.1093/acprof:oso/9780199385263.003.0003
-* Ridley, Matthew, Gautam Rao, Frank Schilbach, and Vikram Patel, 2020, “Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms”, *Science*, 370(6522): eaay0214. doi:10.1126/science.aay0214
-* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State”, *Philosophy & Public Affairs*, 35(1): 3–39. doi:10.1111/j.1088-4963.2007.00097.x
-* Sapolsky, Robert M. and Glen E. Mott, 1987, “Social Subordinance in Wild Baboons Is Associated with Suppressed High Density Lipoprotein-Cholesterol Concentrations: The Possible Role of Chronic Social Stress*”, *Endocrinology*, 121(5): 1605–1610. doi:10.1210/endo-121-5-1605
-* Schwan, Ben, 2021, “Responsibility amid the Social Determinants of Health”, *Bioethics*, 35(1): 6–14. doi:10.1111/bioe.12782
-* Segall, Shlomi, 2010, *Health, Luck, and Justice*, Princeton, NJ: Princeton University Press.
-* Shields, Liam, 2016, “Some Questions (and Answers) for Sufficientarians”, in Fourie and Rid 2016: 85–100. doi:10.1093/acprof:oso/9780199385263.003.0006
-* Shively, C. A. and T. B. Clarkson, 1994, “Social Status and Coronary Artery Atherosclerosis in Female Monkeys”, *Arteriosclerosis and Thrombosis: A Journal of Vascular Biology*, 14(5): 721–726. doi:10.1161/01.ATV.14.5.721
-* Smith, James P., 2009, “The Impact of Childhood Health on Adult Labor Market Outcomes”, *Review of Economics and Statistics*, 91(3): 478–489. doi:10.1162/rest.91.3.478
-* Smith, Maxwell J., 2015, “Health Equity in Public Health: Clarifying Our Commitment”, *Public Health Ethics*, 8(2): 173–184. doi:10.1093/phe/phu042
-* Sreenivasan, Gopal, 2001, “Opportunity Is Not the Key”, *American Journal of Bioethics*, 1(2): 1b–2b. doi:10.1162/152651601300168997
-* –––, 2007a, “Health Care and Equality of Opportunity”, *The Hastings Center Report*, 37(2): 21–31.
-* –––, 2007b, “Health and Justice in Our Non-Ideal World”, *Politics, Philosophy & Economics*, 6(2): 218–236. doi:10.1177/1470594X07077273
-* –––, 2009a, “Ethics and Epidemiology: The Income Debate”, *Public Health Ethics*, 2(1): 45–52. doi:10.1093/phe/php004
-* –––, 2009b, “Ethics and Epidemiology: Residual Health Inequalities”, *Public Health Ethics*, 2(3): 244–249. doi:10.1093/phe/php030
-* –––, 2015, “HESC and Equitable Residues”, *The American Journal of Bioethics*, 15(3): 54–55. doi:10.1080/15265161.2014.998388
-* Stringhini, Silvia, Aline Dugravot, Martin Shipley, Marcel Goldberg, Marie Zins, Mika Kivimäki, Michael Marmot, Séverine Sabia, and Archana Singh-Manoux, 2011, “Health Behaviours, Socioeconomic Status, and Mortality: Further Analyses of the British Whitehall II and the French GAZEL Prospective Cohorts”, *PLoS Medicine*, 8(2): e1000419. doi:10.1371/journal.pmed.1000419
-* Stringhini, Silvia, Séverine Sabia, Martin Shipley, Eric Brunner, Hermann Nabi, Mika Kivimäki, and Archana Singh-Manoux, 2010, “Association of Socioeconomic Position With Health Behaviors and Mortality”, *JAMA*, 303(12): 1159–1166. doi:10.1001/jama.2010.297
-* Temkin, Larry S., 2013, “Inequality and Health”, in Eyal et al. 2013: 13–26. doi:10.1093/acprof:oso/9780199931392.003.0002
-* van Rossum, Caroline T. M., Martin J. Shipley, Hendrike van de Mheen, Diederick E. Grobbee, and Michael G. Marmot, 2000, “Employment Grade Differences in Cause Specific Mortality. A 25 Year Follow up of Civil Servants from the First Whitehall Study”, *Journal of Epidemiology & Community Health*, 54(3): 178–184. doi:10.1136/jech.54.3.178
-* Venkatapuram, Sridhar, 2011, *Health Justice: An Argument from the Capabilities Approach*, Cambridge: Polity Press.
-* Voigt, Kristin, 2013, “Appeals to Individual Responsibility for Health: Reconsidering the Luck Egalitarian Perspective”, *Cambridge Quarterly of Healthcare Ethics*, 22(2): 146–158. doi:10.1017/S0963180112000527
-* Voigt, Kristin and Gry Wester, 2015, “Relational Equality and Health”, *Social Philosophy and Policy*, 31(2): 204–229. doi:10.1017/S0265052514000326
-* Voorhoeve, Alex, 2020, “Why Health-Related Inequalities Matter and Which Ones Do”, in Norheim et al. 2019: 145–162. doi:10.1093/oso/9780190912765.003.0009
-* Weinstock, Daniel M., 2015, “Health Justice after the Social Determinants of Health Revolution”, *Social Theory & Health*, 13(3–4): 437–453. doi:10.1057/sth.2015.11
-* Wester, Gry, 2018, “When Are Health Inequalities Unfair?”, *Public Health Ethics*, 11(3): 346–355. doi:10.1093/phe/phy004
-* Whitehead, Margaret, 1992, “The Concepts and Principles of Equity and Health”, *International Journal of Health Services*, 22(3): 429–445. doi:10.2190/986L-LHQ6-2VTE-YRRN
+* Rid, Annette, 2016, “Sufficiency, Health, and Health Care Justice: The State of the Debate”, in Fourie and Rid 2016: 30–48. doi: 10.1093/acprof: oso/9780199385263.003.0003
+* Ridley, Matthew, Gautam Rao, Frank Schilbach, and Vikram Patel, 2020, “Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms”, *Science*, 370(6522): eaay0214. doi: 10.1126/science.aay0214
+* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State”, *Philosophy & Public Affairs*, 35(1): 3–39. doi: 10.1111/j.1088-4963.2007.00097.x
+* Sapolsky, Robert M. and Glen E. Mott, 1987, “Social Subordinance in Wild Baboons Is Associated with Suppressed High Density Lipoprotein-Cholesterol Concentrations: The Possible Role of Chronic Social Stress *”, * Endocrinology*, 121(5): 1605–1610. doi: 10.1210/endo-121-5-1605
+* Schwan, Ben, 2021, “Responsibility amid the Social Determinants of Health”, * Bioethics*, 35(1): 6–14. doi: 10.1111/bioe.12782
+* Segall, Shlomi, 2010, * Health, Luck, and Justice*, Princeton, NJ: Princeton University Press.
+* Shields, Liam, 2016, “Some Questions (and Answers) for Sufficientarians”, in Fourie and Rid 2016: 85–100. doi: 10.1093/acprof: oso/9780199385263.003.0006
+* Shively, C. A. and T. B. Clarkson, 1994, “Social Status and Coronary Artery Atherosclerosis in Female Monkeys”, * Arteriosclerosis and Thrombosis: A Journal of Vascular Biology*, 14(5): 721–726. doi: 10.1161/01.ATV.14.5.721
+* Smith, James P., 2009, “The Impact of Childhood Health on Adult Labor Market Outcomes”, * Review of Economics and Statistics*, 91(3): 478–489. doi: 10.1162/rest.91.3.478
+* Smith, Maxwell J., 2015, “Health Equity in Public Health: Clarifying Our Commitment”, * Public Health Ethics*, 8(2): 173–184. doi: 10.1093/phe/phu042
+* Sreenivasan, Gopal, 2001, “Opportunity Is Not the Key”, * American Journal of Bioethics*, 1(2): 1b–2b. doi: 10.1162/152651601300168997
+* –––, 2007a, “Health Care and Equality of Opportunity”, * The Hastings Center Report*, 37(2): 21–31.
+* –––, 2007b, “Health and Justice in Our Non-Ideal World”, * Politics, Philosophy & Economics*, 6(2): 218–236. doi: 10.1177/1470594X07077273
+* –––, 2009a, “Ethics and Epidemiology: The Income Debate”, * Public Health Ethics*, 2(1): 45–52. doi: 10.1093/phe/php004
+* –––, 2009b, “Ethics and Epidemiology: Residual Health Inequalities”, * Public Health Ethics*, 2(3): 244–249. doi: 10.1093/phe/php030
+* –––, 2015, “HESC and Equitable Residues”, * The American Journal of Bioethics*, 15(3): 54–55. doi: 10.1080/15265161.2014.998388
+* Stringhini, Silvia, Aline Dugravot, Martin Shipley, Marcel Goldberg, Marie Zins, Mika Kivimäki, Michael Marmot, Séverine Sabia, and Archana Singh-Manoux, 2011, “Health Behaviours, Socioeconomic Status, and Mortality: Further Analyses of the British Whitehall II and the French GAZEL Prospective Cohorts”, * PLoS Medicine*, 8(2): e1000419. doi: 10.1371/journal.pmed.1000419
+* Stringhini, Silvia, Séverine Sabia, Martin Shipley, Eric Brunner, Hermann Nabi, Mika Kivimäki, and Archana Singh-Manoux, 2010, “Association of Socioeconomic Position With Health Behaviors and Mortality”, * JAMA*, 303(12): 1159–1166. doi: 10.1001/jama.2010.297
+* Temkin, Larry S., 2013, “Inequality and Health”, in Eyal et al. 2013: 13–26. doi: 10.1093/acprof: oso/9780199931392.003.0002
+* van Rossum, Caroline T. M., Martin J. Shipley, Hendrike van de Mheen, Diederick E. Grobbee, and Michael G. Marmot, 2000, “Employment Grade Differences in Cause Specific Mortality. A 25 Year Follow up of Civil Servants from the First Whitehall Study”, * Journal of Epidemiology & Community Health*, 54(3): 178–184. doi: 10.1136/jech.54.3.178
+* Venkatapuram, Sridhar, 2011, * Health Justice: An Argument from the Capabilities Approach*, Cambridge: Polity Press.
+* Voigt, Kristin, 2013, “Appeals to Individual Responsibility for Health: Reconsidering the Luck Egalitarian Perspective”, * Cambridge Quarterly of Healthcare Ethics*, 22(2): 146–158. doi: 10.1017/S0963180112000527
+* Voigt, Kristin and Gry Wester, 2015, “Relational Equality and Health”, * Social Philosophy and Policy*, 31(2): 204–229. doi: 10.1017/S0265052514000326
+* Voorhoeve, Alex, 2020, “Why Health-Related Inequalities Matter and Which Ones Do”, in Norheim et al. 2019: 145–162. doi: 10.1093/oso/9780190912765.003.0009
+* Weinstock, Daniel M., 2015, “Health Justice after the Social Determinants of Health Revolution”, * Social Theory & Health*, 13(3–4): 437–453. doi: 10.1057/sth.2015.11
+* Wester, Gry, 2018, “When Are Health Inequalities Unfair?”, * Public Health Ethics*, 11(3): 346–355. doi: 10.1093/phe/phy004
+* Whitehead, Margaret, 1992, “The Concepts and Principles of Equity and Health”, * International Journal of Health Services*, 22(3): 429–445. doi: 10.2190/986L-LHQ6-2VTE-YRRN
 * Wikler, Daniel, 2004, “Personal and Social Responsibility for Health”, in Anand, Peter, and Sen 2004: 109–134.
-* Wilkinson, Richard G., 1996, *Unhealthy Societies: The Afflictions of Inequality*, London: Routledge. doi:10.4324/9780203421680
-* Wilkinson, Richard G. and Michael Marmot (eds.), 2003, *Social Determinants of Health: The Solid Facts*, second edition, Copenhagen: World Health Organization. [[Wilkinson and Marmot 2003 available online](https://apps.who.int/iris/handle/10665/326568)]
-* Williams, David R., Jourdyn A. Lawrence, and Brigette A. Davis, 2019, “Racism and Health: Evidence and Needed Research”, *Annual Review of Public Health*, 40: 105–125. doi:10.1146/annurev-publhealth-040218-043750
-* Wilson, James, 2011, “Health Inequities”, in Dawson 2011: 211–230. doi:10.1017/CBO9780511862670.013
-* WHO (World Health Organization), 2020, *World Health Statistics 2020: Monitoring Health for the SDGs, Sustainable Development Goals*, Geneva: World Health Organization. [[WHO 2020 available online](https://apps.who.int/iris/handle/10665/332070)]
-* Wolff, Jonathan, 2012, *The Human Right to Health*, New York: W.W. Norton & Company.
-* Woolf, Steven H., Ryan K. Masters, and Laudan Y. Aron, 2021, “Effect of the Covid-19 Pandemic in 2020 on Life Expectancy Across Populations in the USA and Other High Income Countries: Simulations of Provisional Mortality Data”, *BMJ,* 373: n1343. doi:10.1136/bmj.n1343
-* Xu, Jiaquan, Sherry L. Murphy, Kenneth D. Kochanek, and Elizabeth Arias, 2020, “Mortality in the United States, 2018”, *NCHS Data Brief* 355, Hyattsville, MD: National Center for Health Statistics. [[Xu et al. 2020 available online](https://www.cdc.gov/nchs/products/databriefs/db355.htm)]
-* Young, Iris Marion, 2001, “Equality of Whom? Social Groups and Judgments of Injustice”, *Journal of Political Philosophy*, 9(1): 1–18. doi:10.1111/1467-9760.00115
+* Wilkinson, Richard G., 1996, * Unhealthy Societies: The Afflictions of Inequality*, London: Routledge. doi: 10.4324/9780203421680
+* Wilkinson, Richard G. and Michael Marmot (eds.), 2003, * Social Determinants of Health: The Solid Facts*, second edition, Copenhagen: World Health Organization. [[Wilkinson and Marmot 2003 available online](https://apps.who.int/iris/handle/10665/326568)]
+* Williams, David R., Jourdyn A. Lawrence, and Brigette A. Davis, 2019, “Racism and Health: Evidence and Needed Research”, * Annual Review of Public Health*, 40: 105–125. doi: 10.1146/annurev-publhealth-040218-043750
+* Wilson, James, 2011, “Health Inequities”, in Dawson 2011: 211–230. doi: 10.1017/CBO9780511862670.013
+* WHO (World Health Organization), 2020, * World Health Statistics 2020: Monitoring Health for the SDGs, Sustainable Development Goals*, Geneva: World Health Organization. [[WHO 2020 available online](https://apps.who.int/iris/handle/10665/332070)]
+* Wolff, Jonathan, 2012, * The Human Right to Health*, New York: W.W. Norton & Company.
+* Woolf, Steven H., Ryan K. Masters, and Laudan Y. Aron, 2021, “Effect of the Covid-19 Pandemic in 2020 on Life Expectancy Across Populations in the USA and Other High Income Countries: Simulations of Provisional Mortality Data”, * BMJ,* 373: n1343. doi: 10.1136/bmj.n1343
+* Xu, Jiaquan, Sherry L. Murphy, Kenneth D. Kochanek, and Elizabeth Arias, 2020, “Mortality in the United States, 2018”, * NCHS Data Brief* 355, Hyattsville, MD: National Center for Health Statistics. [[Xu et al. 2020 available online](https://www.cdc.gov/nchs/products/databriefs/db355.htm)]
+* Young, Iris Marion, 2001, “Equality of Whom? Social Groups and Judgments of Injustice”, * Journal of Political Philosophy*, 9(1): 1–18. doi: 10.1111/1467-9760.00115
 
 ## Academic Tools
 

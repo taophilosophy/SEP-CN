@@ -2,7 +2,7 @@
 
 *首次发表于 2000 年 11 月 22 日星期三；实质性修订于 2022 年 12 月 13 日星期二*
 
-弗朗茨·布伦塔诺（1838-1917）以他在《实证心理学》（1874）中的论证而闻名，认为关于某事物的指向性是心理活动的标志。布伦塔诺不仅用这一概念来区分心理现象和物理现象，还用它来发展心理现象的分类。如果指向性是任何心理活动的基本特征，布伦塔诺认为，心理现象指向某事物的方式的不同构成了心理活动种类之间的差异。判断是布伦塔诺在《心理学》中长篇论述的三种基本意向现象之一。然而，并不是说布伦塔诺的判断理论只涉及心理问题。布伦塔诺还旨在展示，对判断的体验，特别是正确判断的体验，如何为我们提供把握存在、真理和逻辑推理等概念的基础。因此，布伦塔诺对判断这一心理活动的研究有望推动逻辑学、认识论，最终是形而上学的发展。
+弗朗茨 · 布伦塔诺（1838-1917）以他在《实证心理学》（1874）中的论证而闻名，认为关于某事物的指向性是心理活动的标志。布伦塔诺不仅用这一概念来区分心理现象和物理现象，还用它来发展心理现象的分类。如果指向性是任何心理活动的基本特征，布伦塔诺认为，心理现象指向某事物的方式的不同构成了心理活动种类之间的差异。判断是布伦塔诺在《心理学》中长篇论述的三种基本意向现象之一。然而，并不是说布伦塔诺的判断理论只涉及心理问题。布伦塔诺还旨在展示，对判断的体验，特别是正确判断的体验，如何为我们提供把握存在、真理和逻辑推理等概念的基础。因此，布伦塔诺对判断这一心理活动的研究有望推动逻辑学、认识论，最终是形而上学的发展。
 
 布伦塔诺在《心理学》中开始的许多工作仍然未完成。他的学生们通过借鉴讲座笔记、信件和布伦塔诺的未发表材料来进一步阐述他的观点。关于这些文献中归因给布伦塔诺的所有主张是否实际上属于他的理论，仍然是文献中的一个争论问题。从当代的角度来看，一个有趣的问题是以下两种主张中哪一种在布伦塔诺的理论中得到支持：
 
@@ -20,7 +20,7 @@ Oskar judges that 5 is prime number. (B) 对许多当代读者来说听起来会
 
 一个有影响力的分析认为，这个句子将奥斯卡与一个由“5 是一个质数”指定的对象，即一个可以是真也可以是假的命题，联系起来。这表明判断是对命题的一种态度；它是一种命题态度。
 
-布伦塔诺的学生卡尔·斯图姆夫预料到了接受上述分析的读者在阅读（B）时会感到的惊讶：
+布伦塔诺的学生卡尔 · 斯图姆夫预料到了接受上述分析的读者在阅读（B）时会感到的惊讶：
 
 > 一定要记住，他（布伦塔诺）使用“判断”一词的范围比大多数人在日常用法中要广泛得多。必须记住，对他来说，每一种感知，无论是内在的还是外在的，都是一个判断，他在其中已经找到了一种基本的同意，一种设定，并且对他来说，任何心智行为似乎从一开始就与明显的自我肯定相联系，因此在这个最广泛意义上是一个判断。当然，这与只知道以主语和谓语构成的书面判断（陈述）的观点完全不同。（斯通普 1919 年，133 页；作者翻译）
 
@@ -56,11 +56,11 @@ Oskar judges that 5 is prime number. (B) 对许多当代读者来说听起来会
 
 布伦塔诺考虑了三种可能的方式来理解表象与判断之间的区别。它们可能存在 (i) 内在的区别，(ii) 它们的内容可能不同 (Inhalte)，或者 (iii) 在思考这些对象时的完美性 \[*Vollkommenheit*] 中存在差异 (PES 204, \[II 42f.; SVS 1, 226])。
 
-让我们从 (i) 开始。如果判断和表象之间的区别是_非_内在的，即外在的，那意味着什么？这意味着判断和表象之间的区别在于其中一个心理现象具有的关系属性，而另一个缺乏这种属性。在这个意义上，单身汉和丈夫之间的区别是外在的：单身汉缺乏与某人结婚的关系属性；而丈夫具有这种属性。除此之外，单身汉和丈夫之间没有其他区别：没有丈夫或单身汉的内在属性来支撑这种关系上的差异。判断和表象之间的区别是否像丈夫和单身汉之间的区别？根据亚历山大·贝恩（Alexander Bain）的观点，是的。对于贝恩来说，有两种类型的想法（表象）：一种会促使人采取行动——这是外在或关系属性——另一种则不会。前者是判断和信念，后者只是表象（参见贝恩 1872: 372f）。密尔（Mill）（1878: 403–4）批评了贝恩的提议是不完整的。一般来说，像促使人对对象采取行动这样的倾向性属性是基于其范畴属性的。因此，构成信念的促使行动的倾向必须基于想法的范畴属性，而这些属性似乎是内在的。关系上的差异不像丈夫/单身汉的情况那样是蛮力的。
+让我们从 (i) 开始。如果判断和表象之间的区别是_非_内在的，即外在的，那意味着什么？这意味着判断和表象之间的区别在于其中一个心理现象具有的关系属性，而另一个缺乏这种属性。在这个意义上，单身汉和丈夫之间的区别是外在的：单身汉缺乏与某人结婚的关系属性；而丈夫具有这种属性。除此之外，单身汉和丈夫之间没有其他区别：没有丈夫或单身汉的内在属性来支撑这种关系上的差异。判断和表象之间的区别是否像丈夫和单身汉之间的区别？根据亚历山大 · 贝恩（Alexander Bain）的观点，是的。对于贝恩来说，有两种类型的想法（表象）：一种会促使人采取行动——这是外在或关系属性——另一种则不会。前者是判断和信念，后者只是表象（参见贝恩 1872: 372f）。密尔（Mill）（1878: 403–4）批评了贝恩的提议是不完整的。一般来说，像促使人对对象采取行动这样的倾向性属性是基于其范畴属性的。因此，构成信念的促使行动的倾向必须基于想法的范畴属性，而这些属性似乎是内在的。关系上的差异不像丈夫/单身汉的情况那样是蛮力的。
 
-Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224]）。根据Brentano的观点，任何关于判断与呈现之间区别的解释，以“对心理状态或行为的影响”为依据都是不令人满意的。与Mill一样，他选择了上述三个选项中的第一个：呈现和判断之间的区别是一种内在的区别。
+Brentano 认为 Mill 的思路是有说服力的（见 PES 202f. \[II 40; SVS 1, 224]）。根据 Brentano 的观点，任何关于判断与呈现之间区别的解释，以“对心理状态或行为的影响”为依据都是不令人满意的。与 Mill 一样，他选择了上述三个选项中的第一个：呈现和判断之间的区别是一种内在的区别。
 
-接下来谈(ii)。判断和呈现之间的内在区别是否涉及所考虑的心理现象的内容？根据Brentano所反对的观点，每个判断都是标志的组合或分离。判断的内容是至少两个标志的组合，这些标志在其中要么被划分，要么被组合起来。拥有内容是判断的内在属性：每个判断都必须有一个内容，并且内容在某种程度上将判断与其他心理现象区分开来。判断和呈现在内容上是否有所不同？再次，Brentano的答案是否定的。如果我想知道是否有红树，我的呈现的内容是红色和树（的特性）的组合。我判断有红树的内容与仅仅呈现红树的内容相同。
+接下来谈(ii)。判断和呈现之间的内在区别是否涉及所考虑的心理现象的内容？根据 Brentano 所反对的观点，每个判断都是标志的组合或分离。判断的内容是至少两个标志的组合，这些标志在其中要么被划分，要么被组合起来。拥有内容是判断的内在属性：每个判断都必须有一个内容，并且内容在某种程度上将判断与其他心理现象区分开来。判断和呈现在内容上是否有所不同？再次，Brentano 的答案是否定的。如果我想知道是否有红树，我的呈现的内容是红色和树（的特性）的组合。我判断有红树的内容与仅仅呈现红树的内容相同。
 
 这将我们带到(iii)。判断和表象之间的内在差异是否涉及一种完美，其中具有相同对象的心理现象有所不同？布伦塔诺将这种完美确定为_力量_、*强度_或_生动性*。正如布伦塔诺所说，“一个判断是一个更强的表象，一个表象是一个更弱的判断”吗？（PES 204 \[II 44; SVS 1, 226]; 作者翻译）布伦塔诺说不。一个强烈的表象不是一个判断。这个论点虽然具有启发性，但并不具有说服力，因为力量、生动性或强度的概念似乎不清晰。然而，在第二版中，布伦塔诺增加了一个重要的考虑因素，从而改进了这个论点。如果表象和判断在强度上有所区别，那么两者都需要在一个强度尺度上有位置。然而，布伦塔诺现在怀疑是否存在一个强度或力量的尺度，表象和判断都位于其中。判断行为可能伴随的不同确信程度不应与对象在感觉中呈现给心灵的强度混淆（PES 286f. \[II 151ff.; SVS 1, 401)。如果没有一个维度的强度，使得判断和表象可以有所不同，那么强度就不能区分它们。
 
@@ -116,9 +116,9 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 > 相同的对象出现在意识中，无论一个人肯定它、否定它，还是对它持怀疑态度；在最后一种情况下，它仅仅被呈现，而在前两种情况下，它同时被呈现并被承认或否定。每一个作为呈现内容的对象也可能成为判断的内容。（PES 221 \[II 63; SVS 1, 241]; 部分作者翻译）
 
-内在经验被认为向我们展示，当我们拒绝、承认或对一个对象持开放态度时，我们在意识中有“相同的对象”。布伦塔诺随后从“相同的对象”转向结论，即否定或肯定的判断和呈现可以具有完全相同的内容，因此判断和内容之间的区别并不在于内容的不同。正如前面所述，布伦塔诺有时会谈论对象就像是内容一样。如果我们慈悲地阅读布伦塔诺的话语，他是在借助内省知识，即呈现可以声称以标记的方式指向一个对象。基于这种呈现的判断拒绝了呈现声称指向的对象，以及承认它的判断，共享呈现的内容（呈现以某种标记方式指向某物）。因此，否定和肯定的判断可以具有相同的内容。这使布伦塔诺有理由支持[主张（5）](https://plato.stanford.edu/entries/brentano-judgement/#claim5)。他的论证再次排除了对这些判断的命题分析，因此可能支持他支持[主张（4）](https://plato.stanford.edu/entries/brentano-judgement/#claim4)的论点。我们将在稍后（在[第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）遇到更多理由，支持接受（5），在那里我们将讨论布伦塔诺拒绝否定属性的理由。
+内在经验被认为向我们展示，当我们拒绝、承认或对一个对象持开放态度时，我们在意识中有“相同的对象”。布伦塔诺随后从“相同的对象”转向结论，即否定或肯定的判断和呈现可以具有完全相同的内容，因此判断和内容之间的区别并不在于内容的不同。正如前面所述，布伦塔诺有时会谈论对象就像是内容一样。如果我们慈悲地阅读布伦塔诺的话语，他是在借助内省知识，即呈现可以声称以标记的方式指向一个对象。基于这种呈现的判断拒绝了呈现声称指向的对象，以及承认它的判断，共享呈现的内容（呈现以某种标记方式指向某物）。因此，否定和肯定的判断可以具有相同的内容。这使布伦塔诺有理由支持 [主张（5）](https://plato.stanford.edu/entries/brentano-judgement/#claim5)。他的论证再次排除了对这些判断的命题分析，因此可能支持他支持 [主张（4）](https://plato.stanford.edu/entries/brentano-judgement/#claim4) 的论点。我们将在稍后（在 [第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）遇到更多理由，支持接受（5），在那里我们将讨论布伦塔诺拒绝否定属性的理由。
 
-在这个阶段，布伦塔诺的判断理论的结构已经留下了几种可能的解释。布伦塔诺的理论中，[(4)](https://plato.stanford.edu/entries/brentano-judgement/#claim4)和[(5)](https://plato.stanford.edu/entries/brentano-judgement/#claim5)的意义都不是完全清楚。也就是说：布伦塔诺是否真的需要这两个主张来支持他的理论，特别是支持他的观点，即在思想中结合两个观念并不是做出判断的必要条件(= [claim 2](https://plato.stanford.edu/entries/brentano-judgement/#claim2))，这一点并不完全清楚。虽然布伦塔诺将他的理论呈现为一个整体，其中主张(2)、(4)和(5)构成一个紧密的组合。但人们可以解开这个组合，并仅基于(4)接受(2)，或者完全独立于(4)和(5)而接受(2)。
+在这个阶段，布伦塔诺的判断理论的结构已经留下了几种可能的解释。布伦塔诺的理论中，[(4)](https://plato.stanford.edu/entries/brentano-judgement/#claim4) 和 [(5)](https://plato.stanford.edu/entries/brentano-judgement/#claim5) 的意义都不是完全清楚。也就是说：布伦塔诺是否真的需要这两个主张来支持他的理论，特别是支持他的观点，即在思想中结合两个观念并不是做出判断的必要条件(= [claim 2](https://plato.stanford.edu/entries/brentano-judgement/#claim2))，这一点并不完全清楚。虽然布伦塔诺将他的理论呈现为一个整体，其中主张(2)、(4)和(5)构成一个紧密的组合。但人们可以解开这个组合，并仅基于(4)接受(2)，或者完全独立于(4)和(5)而接受(2)。
 
 ### 1.4 第四部分：还原主义主张
 
@@ -146,7 +146,7 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 请注意，以上的翻译方案是对称的，而还原论涉及一种不对称的主张。它并_不_说存在命题表达了范畴判断，相反地，范畴命题表达了存在判断。布伦塔诺并没有为这种翻译方案的解释提供明确的论证。相反，布伦塔诺提出还原论的背景必须为其提供理由。
 
-这可能是如何运作的呢？嗯，考虑一下布伦塔诺借助[主张（6）](https://plato.stanford.edu/entries/brentano-judgement/#claim6)构建的以下论证。
+这可能是如何运作的呢？嗯，考虑一下布伦塔诺借助 [主张（6）](https://plato.stanford.edu/entries/brentano-judgement/#claim6) 构建的以下论证。
 
 (7)
 
@@ -166,7 +166,7 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 > 连词对术语_S_和_P_的含义没有增加任何内容，因此对表达的判断主题没有增加任何内容_如果这些概念固定了主题内容_。因此，根据（6），术语“存在”对存在性判断的主题内容没有增加任何内容_如果主题内容与构成还原基础的范畴命题的主题内容相同_。
 
-*斜体部分* 是布伦塔诺在这一论证中假定的默示假设。任何认为判断的主题是命题的人都会否定这些假设，从而质疑这一论证的正确性。这并不会立即证明这种还原【主张（6）】(https://plato.stanford.edu/entries/brentano-judgement/#claim6) 的错误，但会剥夺布伦塔诺引入翻译方案不对称性的一个很好理由。由于这个问题，布伦塔诺在他理论的第三部分中的还原项目是否成功似乎值得怀疑。显然，布伦塔诺自己在后来发展他的双重判断理论时改变了对他论证有效性的看法（见下文的[第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）。这意味着他不能再利用他最初的论证来表明“存在”本身没有意义。
+*斜体部分* 是布伦塔诺在这一论证中假定的默示假设。任何认为判断的主题是命题的人都会否定这些假设，从而质疑这一论证的正确性。这并不会立即证明这种还原【主张（6）】(https://plato.stanford.edu/entries/brentano-judgement/#claim6) 的错误，但会剥夺布伦塔诺引入翻译方案不对称性的一个很好理由。由于这个问题，布伦塔诺在他理论的第三部分中的还原项目是否成功似乎值得怀疑。显然，布伦塔诺自己在后来发展他的双重判断理论时改变了对他论证有效性的看法（见下文的 [第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）。这意味着他不能再利用他最初的论证来表明“存在”本身没有意义。
 
 ## 2. 布伦塔诺及其前辈对存在性判断
 
@@ -178,7 +178,7 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 > 实际上，由于在这些情况下真理并不相同，因此存在也不相同；但真假如下——接触和断言是真理（断言不是肯定），无知是非接触。(*形而上学*, 1051b21–25) \[[11](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-11)]
 
-在布伦塔诺的眼中，亚里士多德对判断和真理的“重新定义”具有很强的启示意义。这表明，试图用组合和分离来解释判断和真理的策略遇到了问题。亚里士多德对接触对象的概念的倡导暗示了一种非命题形式的判断——从布伦塔诺的角度来看是好的——而对判断的两种不同类型的假设，即命题性和非命题性，导致了对判断的不一致性解释——从布伦塔诺的角度来看是不好的。我们希望有一个一致的判断解释。但正如布伦塔诺后来所看到的那样，这样的解释可能并不可得。在他的双重判断理论中，他接受了像亚里士多德一样的非谓词性判断的认知模式，同时假设了其他类型的判断（见[第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）。
+在布伦塔诺的眼中，亚里士多德对判断和真理的“重新定义”具有很强的启示意义。这表明，试图用组合和分离来解释判断和真理的策略遇到了问题。亚里士多德对接触对象的概念的倡导暗示了一种非命题形式的判断——从布伦塔诺的角度来看是好的——而对判断的两种不同类型的假设，即命题性和非命题性，导致了对判断的不一致性解释——从布伦塔诺的角度来看是不好的。我们希望有一个一致的判断解释。但正如布伦塔诺后来所看到的那样，这样的解释可能并不可得。在他的双重判断理论中，他接受了像亚里士多德一样的非谓词性判断的认知模式，同时假设了其他类型的判断（见 [第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)）。
 
 布伦塔诺还赞同亚里士多德《论释义》的第三章。亚里士多德在那里谈到连词“是”或“非”时说，“它本身并没有什么，但它另外表示一些组合，这些组合不能没有组成部分而被思考。” 布伦塔诺将这解释为
 
@@ -212,7 +212,7 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 那是布伦塔诺从圣托马斯那里得到的启示。但是，圣托马斯的某些观点却让布伦塔诺感到不满。正如布伦塔诺所指出的，阿奎那希望维护亚里士多德的真理理论，这需要每个判断都是表象与对象之间的比较。他不承认存在性判断简单地不符合这一描述。
 
-重要的是要注意，“+”是一种肯定的符号，而不是一个谓语。例如，Sundholm（2009: 274）认为，布伦塔诺只是“重新发现”了波尔查诺的一个观念。根据 Sundholm 的说法，波尔查诺认为“A 存在”表达了这样的命题：观念\[A]有一个对象；“A 不存在”则表达了这一属性的否定。当我们注意到“+”并不表达一个表象，而只是确定一个内容应该以何种方式被思考时，就会消除布伦塔诺重新利用这一观点的疑虑。
+重要的是要注意，“+”是一种肯定的符号，而不是一个谓语。例如，Sundholm（2009: 274）认为，布伦塔诺只是“重新发现”了波尔查诺的一个观念。根据 Sundholm 的说法，波尔查诺认为“A 存在”表达了这样的命题：观念\[A] 有一个对象；“A 不存在”则表达了这一属性的否定。当我们注意到“+”并不表达一个表象，而只是确定一个内容应该以何种方式被思考时，就会消除布伦塔诺重新利用这一观点的疑虑。
 
 让我们现在转向康德。 布伦塔诺在几乎每一个方面都不同意康德的认识论。 关于判断的本质，布伦塔诺指出，康德忽视了它们的基本特征，将它们与表象放在一起，归为一类：思维的行为。 他还批评康德坚持错误观点，即判断总是统一了几个表象（《纯粹理性批判》，A 68–9/B93–4）。 因此，也许令人惊讶的是，他们的观点之间也存在强烈的一致。 康德预见了布伦塔诺的主张，即“一个表象的对象也可以被承认或否认”（PES 208 \[II 49; SVS 1, 230]; 翻译已更改）。 这一观点可以在康德对存在的重要讨论中找到：
 
@@ -222,7 +222,7 @@ Brentano认为Mill的思路是有说服力的（见PES 202f. \[II 40; SVS 1, 224
 
 从布伦塔诺的观点来看，康德犯了与圣托马斯相同的错误。他也试图使存在性判断与每个判断都是表象组合的传统观点相一致。为了符合康德的综合判断范畴，上帝存在的存在性判断必须向上帝的概念中添加一些内容。布伦塔诺评论说：“这是一个不清晰且矛盾的半真实”（PES 211 \[II 54; SVS 1, 234]; 译文改进）。
 
-Kant 可以原谅他的疏忽，如果一个人意识到有多少逻辑学家走过他的道路，并发现达到布伦塔诺所主张的立场同样难以理解。约翰·斯图尔特·密尔在写给布伦塔诺的信中提供了一个明显的不理解的例子：
+Kant 可以原谅他的疏忽，如果一个人意识到有多少逻辑学家走过他的道路，并发现达到布伦塔诺所主张的立场同样难以理解。约翰 · 斯图尔特 · 密尔在写给布伦塔诺的信中提供了一个明显的不理解的例子：
 
 > 1. 我同意你的观点，即信念是判断的差异的基本组成部分，而将两个观念放在一起仅仅是一个先决条件或前提条件。
 
@@ -230,7 +230,7 @@ Kant 可以原谅他的疏忽，如果一个人意识到有多少逻辑学家走
 
 %%
 
-对于布伦塔诺的判断理论，最接近的哲学家是约翰·弗里德里希·赫尔巴特。赫尔巴特并不试图将存在性和所谓的“无主体”陈述（“下雨了”） assimilate 到形式为“*S* 是 *P*” 的范畴陈述中。他认为“上帝是” 中的“是” 是“绝对断言”（Herbart 1813: 49）的标志。虽然布伦塔诺赞扬赫尔巴特持有这种观点，但他并没有采用赫尔巴特的术语，认为这些术语鼓励的联想并不能带来太多洞见。
+对于布伦塔诺的判断理论，最接近的哲学家是约翰 · 弗里德里希 · 赫尔巴特。赫尔巴特并不试图将存在性和所谓的“无主体”陈述（“下雨了”） assimilate 到形式为“*S* 是 *P*” 的范畴陈述中。他认为“上帝是” 中的“是” 是“绝对断言”（Herbart 1813: 49）的标志。虽然布伦塔诺赞扬赫尔巴特持有这种观点，但他并没有采用赫尔巴特的术语，认为这些术语鼓励的联想并不能带来太多洞见。
 
 这些比较不仅在历史上具有启发性。它们让我们更好地理解布伦塔诺的立场是多么激进。它激进之处在于要求判断理论必须包容而不是解释掉存在性判断。更为激进的是，它拒绝使存在性判断满足任何一种判断为组合或综合行为的观点，这与真理对应理论完美契合。在拒绝迈出这一步，而这一步被大多数哲学家认为是不可避免的时，布伦塔诺给试图统一解释存在性和无主体判断以及范畴判断的判断理论提出了沉重的负担。布伦塔诺认为他可以通过将传统方法颠倒过来来完成这一壮举：他试图展示的不是事实上所有的判断都是范畴判断，而是所有的判断都是存在性判断。如果所有的判断都可以归结为存在性判断，那么没有一个判断将属性或概念应用于对象。这听起来可能荒谬，但这是唯一剩下的选择，除非愿意牺牲将判断作为一个独特心理范畴统一解释的目标。
 
@@ -240,13 +240,13 @@ Kant 可以原谅他的疏忽，如果一个人意识到有多少逻辑学家走
 
 有时候，布伦塔诺只是相信读者会同意他，如果他们足够注意自己的判断并将其与例如表象进行比较。例如，考虑一下布伦塔诺在《PES》中关于判断的讨论开篇部分的以下段落。
 
-> 它是\[…]真实的，没有任何不是陈述对象的东西是判断对象，我们坚持认为，当陈述对象成为肯定或否定判断的对象时，我们的意识与对象进入一种全新的关系。\[…] *我们坚持认为，通过内在感知和对记忆中判断现象的仔细观察，这一点对我们清晰可见*。 (PES 201 \[II 38–9; SVS 1, 223, emphasis added)
+> 它是\[…] 真实的，没有任何不是陈述对象的东西是判断对象，我们坚持认为，当陈述对象成为肯定或否定判断的对象时，我们的意识与对象进入一种全新的关系。\[…] *我们坚持认为，通过内在感知和对记忆中判断现象的仔细观察，这一点对我们清晰可见*。 (PES 201 \[II 38–9; SVS 1, 223, emphasis added)
 
 因此，如果我们能够偶尔记得判断某事，我们就能知道在陈述中给出的同一对象可以在判断中被承认或拒绝，并且承认和拒绝在本质上与陈述不同。
 
 但仅仅鼓励一个深陷于判断是预言观念中的哲学家，在回忆他的判断时多加注意，并不会产生预期的结果。是否有一个论点可以建立在不引起争议的前提基础上，以证实布伦塔诺的观点？布伦塔诺认为有一个论点是基于他的对手们认为有说服力的前提：\[[18](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-18)]
 
-> 从所有感知都是判断这一事实中，可以很清楚地看出，预言并非每个判断的本质。因为它\[感知]要么是知识\[*Erkenntnis*]，要么至少是一个错误的认为是真实的\[*Fürwahrnehmen*]。这并不被那些认为每个判断都包含主语和谓语的思想家所否认。\[...] 很难想象有什么比感知不是主语概念和谓语概念的连接，也不涉及这种连接更明显和更不会出错的事实。相反，_内部_感知的对象仅仅是一种心理现象，_外部_感知的对象仅仅是一种物理现象，声音、气味或类似的东西。因此，我们在这里有一个非常明显的理由来证实我们的说法的真实性。(PES 209 \[II 50–51; SVS 1, 232]，翻译已更改。)
+> 从所有感知都是判断这一事实中，可以很清楚地看出，预言并非每个判断的本质。因为它\[感知] 要么是知识\[*Erkenntnis*]，要么至少是一个错误的认为是真实的\[*Fürwahrnehmen*]。这并不被那些认为每个判断都包含主语和谓语的思想家所否认。\[...] 很难想象有什么比感知不是主语概念和谓语概念的连接，也不涉及这种连接更明显和更不会出错的事实。相反，_内部_感知的对象仅仅是一种心理现象，_外部_感知的对象仅仅是一种物理现象，声音、气味或类似的东西。因此，我们在这里有一个非常明显的理由来证实我们的说法的真实性。(PES 209 \[II 50–51; SVS 1, 232]，翻译已更改。)
 
 *每个人* — 即使是判断论者 — 都相信在感知中我们不会将主语的概念与谓语的概念联系起来。*没有人* — 即使是判断论者 — 否认每个感知都是一个判断。因此，每个人都接受有一些判断不会断言某物的属性（将主语的概念与谓语的概念联系起来）。*更何况* 判断论者理性上被迫接受存在非断言性的判断。如果他不这样做，他对判断的看法就与正确的感知观不协调。因此，将判断视为断言必须进行修订。
 
@@ -254,7 +254,7 @@ Kant 可以原谅他的疏忽，如果一个人意识到有多少逻辑学家走
 
 非认识论的看见是一种断言形式吗？*乍看之下*，并非如此。当我看见那只黄色的金丝雀时，我被引向一个对象，它看起来与周围环境有所不同。金丝雀以一种让我能够在感知中关注它的方式呈现给我，但我可能暂时不做任何关于它的断言性判断。
 
-布伦塔诺认为这种感知毫无疑问是一种判断，只是不是一种断言性的判断。这是有争议的。例如，布伦塔诺的_假言三段论_是莫里茨·施利克（1925 年，80/1974 年，87）的_否定三段论_：感知不是判断，因此，感知不能成为知识。那么，为什么要认为看见一只黄色的金丝雀或听到声音首先是一种判断呢？再次考虑你对黄色金丝雀的感知。金丝雀在你看来与周围环境不同，并且你可以集中注意力在它身上。在这种情况下，你将会用一个不承诺的短语，“认为金丝雀是真实的”。看见金丝雀是一种特定类型的“认为金丝雀是”，即将其视为真实的东西；在布伦塔诺的术语中，这是“对金丝雀的承认”。如果这是正确的，那么有些判断并不断言对象的任何属性，而只是承认它。
+布伦塔诺认为这种感知毫无疑问是一种判断，只是不是一种断言性的判断。这是有争议的。例如，布伦塔诺的_假言三段论_是莫里茨 · 施利克（1925 年，80/1974 年，87）的_否定三段论_：感知不是判断，因此，感知不能成为知识。那么，为什么要认为看见一只黄色的金丝雀或听到声音首先是一种判断呢？再次考虑你对黄色金丝雀的感知。金丝雀在你看来与周围环境不同，并且你可以集中注意力在它身上。在这种情况下，你将会用一个不承诺的短语，“认为金丝雀是真实的”。看见金丝雀是一种特定类型的“认为金丝雀是”，即将其视为真实的东西；在布伦塔诺的术语中，这是“对金丝雀的承认”。如果这是正确的，那么有些判断并不断言对象的任何属性，而只是承认它。
 
 让我们考虑三个异议来加强我们对布伦塔诺的思路的理解。
 
@@ -268,7 +268,7 @@ Brentano 还提供了一个更理论的理由来反驳这种观点，即（非�
 
 反过来，如果承认一个对象并不预设对存在概念的掌握，我们对承认的内省知识可以用来引入存在的概念。布伦塔诺遵循亚里士多德，追求这种策略：
 
-亚里士多德已经意识到，\[存在的概念]是通过对承认判断的反思获得的。 (TE 27 \[45], translation improved)\[[20](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-20)]
+亚里士多德已经意识到，\[存在的概念] 是通过对承认判断的反思获得的。 (TE 27 \[45], translation improved)\[[20](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-20)]
 
 异议 2：看到黄色金丝雀并不等同于承认它。例如，一个人可以看到一个物体而不承认它，“如果一个人不相信自己的眼睛的话”。我看到眼前的金丝雀，但由于你给了我误导性的证据表明我现在在幻觉，我不相信我的感官，也不认为金丝雀是真实的。因此，看和判断是相关的——也许（有意识地）看到某物会促使人做出判断，但这些心理行为是不同的。
 
@@ -280,7 +280,7 @@ Brentano 还提供了一个更理论的理由来反驳这种观点，即（非�
 
 考虑到这一点，布伦塔诺可以说，当我们不信任我们的感官时，我们承认了一个对象，但这种判断与我们在这个问题上持有的其他判断或信念相冲突。
 
-Objection 3: 我们已经看到，布伦塔诺订阅了一个极性命题：承认一个对象 *x* 有一个相反的对象：拒绝 *x* (见 [第 1 节，主张 5](https://plato.stanford.edu/entries/brentano-judgement/#claim5))。这些态度是针对同一对象的，但即使它们可能共存，其中只有一个是正确的，正如布伦塔诺所允许的。承认 *x* 的正确性与拒绝它的正确性是不相容的。因此，如果非认识论感知是一种承认，它必须有一个相反面。但是看的相反面可能是什么呢？\[21] 根据彼得·吉奇（Peter Geach）的观点，在这里除了我们看到的（属性的实例之间的）排除关系之外，找不到其他东西：
+Objection 3: 我们已经看到，布伦塔诺订阅了一个极性命题：承认一个对象 *x* 有一个相反的对象：拒绝 *x* (见 [第 1 节，主张 5](https://plato.stanford.edu/entries/brentano-judgement/#claim5))。这些态度是针对同一对象的，但即使它们可能共存，其中只有一个是正确的，正如布伦塔诺所允许的。承认 *x* 的正确性与拒绝它的正确性是不相容的。因此，如果非认识论感知是一种承认，它必须有一个相反面。但是看的相反面可能是什么呢？\[21] 根据彼得 · 吉奇（Peter Geach）的观点，在这里除了我们看到的（属性的实例之间的）排除关系之外，找不到其他东西：
 
 > 相信，就像看，没有极性相反，尽管可能会相信相反的教条，就像可能会看到相反的颜色一样。 (Geach 1965: 455)
 
@@ -290,11 +290,11 @@ Objection 3: 我们已经看到，布伦塔诺订阅了一个极性命题：承�
 
 这一举措的后果确实影响深远。即使我们对一个对象施加一个属性，布伦塔诺可以说，这种陈述并不一定会改变我们所做的_判断_的性质。我们可以将陈述理解为一个两步过程：首先将属性_P_与主体_S_连接起来，从而形成一个_S_-是-_P_的复杂表征；然后才承认这个复杂内容，从而形成一个判断。内容是复杂的，但判断本身是同样简单的承认行为。
 
-如果判断是对内容的承认或拒绝，那么承认/拒绝的概念在心灵哲学中是基础性的。作为对布伦塔诺的回应，19 世纪末和 20 世纪初的哲学家们探讨了他对承认的观点。威廉姆·耶路撒冷（1895，67–72）讨论了布伦塔诺和马蒂对判断的观点，并主张将判断视为一种复杂活动。阿道夫·赖纳赫（1911，第 I 节）区分了‘承认’的不同相关概念，并批评布伦塔诺将它们混为一谈。卡雷利茨基（1914）是一部致力于找到一个合理的承认概念的（简短）专著，并以布伦塔诺的观点为起点。维也纳学派的核心人物莫里茨·施利克（1925，50/1974，43）认为布伦塔诺在判断的心理本质方面是正确的，但在逻辑角色方面不正确。因此，他反对我们将在下文中讨论的还原论命题。
+如果判断是对内容的承认或拒绝，那么承认/拒绝的概念在心灵哲学中是基础性的。作为对布伦塔诺的回应，19 世纪末和 20 世纪初的哲学家们探讨了他对承认的观点。威廉姆 · 耶路撒冷（1895，67–72）讨论了布伦塔诺和马蒂对判断的观点，并主张将判断视为一种复杂活动。阿道夫 · 赖纳赫（1911，第 I 节）区分了‘承认’的不同相关概念，并批评布伦塔诺将它们混为一谈。卡雷利茨基（1914）是一部致力于找到一个合理的承认概念的（简短）专著，并以布伦塔诺的观点为起点。维也纳学派的核心人物莫里茨 · 施利克（1925，50/1974，43）认为布伦塔诺在判断的心理本质方面是正确的，但在逻辑角色方面不正确。因此，他反对我们将在下文中讨论的还原论命题。
 
 ## 4. 减少论题和布伦塔诺的逻辑改革
 
-到目前为止，布伦塔诺的理论似乎有坚实的基础。现在，当我们考虑布伦塔诺最激进的论点时，我们需要迈出一大步：即我们所称的他的减少论题（见[第 1 节，主张 6](https://plato.stanford.edu/entries/brentano-judgement/#claim6)）：“分类命题的可减少性，事实上表达判断的所有命题的可减少性，因此是不容置疑的”（PES 218 \[II 60; SVS 1, 239)。在我们能够询问布伦塔诺基于什么来提出这一主张之前，我们需要搞清楚它的意义。
+到目前为止，布伦塔诺的理论似乎有坚实的基础。现在，当我们考虑布伦塔诺最激进的论点时，我们需要迈出一大步：即我们所称的他的减少论题（见 [第 1 节，主张 6](https://plato.stanford.edu/entries/brentano-judgement/#claim6)）：“分类命题的可减少性，事实上表达判断的所有命题的可减少性，因此是不容置疑的”（PES 218 \[II 60; SVS 1, 239)。在我们能够询问布伦塔诺基于什么来提出这一主张之前，我们需要搞清楚它的意义。
 
 布伦塔诺在语言层面引入了“还原”概念，将其应用于句子（或“命题”），但他的目标是在心理现象层面进行还原。在语言层面上，主张是任何范畴命题都可以在不改变意义的情况下转化为存在命题。在判断层面上，主张是所有判断实际上都具有存在性特征（因此非命题性）。这对布伦塔诺来说表明了语言如何掩盖了我们判断的真实本质。例如，当有人断言所有_S_都是_P_时，他_似乎_对所有_S_做出了积极的判断。然而，事实上，他的判断是消极的，形式为“不存在任何不是_P_的_S_”。还原论的要点是消除语言的伪装，揭示我们判断的真实形式。它还确保了范畴和存在命题所表达的判断是同一种类。虽然这种统一也可以通过说存在命题表达范畴判断来实现，但布伦塔诺的论点通过宣称范畴命题表达存在性判断来颠倒了这一主张。
 
@@ -304,7 +304,7 @@ The judgement expressed in the sentence “The rose is a flower” is composed o
 
 It turns out that I make two judgements in one—a “double judgement”—when I seem to make only one: the judgement that the rose is a flower. Furthermore, higher-order judgements about the correctness and incorrectness of judgements exhibit the same complexity and come to play a prominent role in Brentano’s theory. 布伦塔诺的判断理论表达在句子“玫瑰是一朵花”中，由两个判断组成，其中一个是对主体的承认\[...]（OKRW 注 22 \[SVS 3, 67f.]）
 
-这些新观念使布伦塔诺的判断理论变得复杂，并迫使人们重新思考将范畴命题简化为存在命题的整个项目。我们将分两步进行。在这一部分，我们将更仔细地审视简化命题在最初出现的背景下的论点。在[第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)中，我们解释了为什么布伦塔诺放弃了这个项目。
+这些新观念使布伦塔诺的判断理论变得复杂，并迫使人们重新思考将范畴命题简化为存在命题的整个项目。我们将分两步进行。在这一部分，我们将更仔细地审视简化命题在最初出现的背景下的论点。在 [第 5 节](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg) 中，我们解释了为什么布伦塔诺放弃了这个项目。
 
 我们已经注意到，布伦塔诺的《心理学》不仅仅是一本关于心理现象的书。它还包括与逻辑和认识论有关的基本考虑。从这个意义上说，布伦塔诺无疑是一位“心理学家”。他认为判断是真理的主要承担者，他将逻辑推理定义为判断之间的关系，并认为有效性是从我们对这些关系的判断的证据中产生的。通过采取这种方法，布伦塔诺使自己脱颖而出，与不断崛起的“数理逻辑”（见 PES 附录 x）形成对比。布伦塔诺认为，逻辑不应该应用数学工具，而是应该通过应用描述性心理学的工具来更好地发展。为了证明他的观点，布伦塔诺勾勒了基于他的简化命题的传统逻辑改革。
 
@@ -319,8 +319,8 @@ It turns out that I make two judgements in one—a “double judgement”—when
 
 1. A contradicts O, and vice versa.
 2. E contradicts I, and vice versa. 布伦塔诺的判断理论
-3. A 和 E 可以同时为假但不能同时为真（=对立律）
-4. I 和 O 可以同时为真但不能同时为假（=子对立律）
+3. A 和 E 可以同时为假但不能同时为真（= 对立律）
+4. I 和 O 可以同时为真但不能同时为假（= 子对立律）
 5. A implies I (= subalternation)
 6. E implies O (= subalternation)
 7. I 转换为“一些 *P* 是 *S*”（简单转换）
@@ -354,13 +354,13 @@ It turns out that I make two judgements in one—a “double judgement”—when
 
 这里的新颖观念是，当判断是通过_三_个步骤构建时，判断变得更加复杂：首先，一个呈现一个对象_S_并承认其存在。然后，一个呈现一个属性_P_并在已承认的对象_S_中将_P_与之联系起来，最后通过\[*mit der Zugabe*] *P_来承认_S*。（见 PES 295 \[II 164; SVS 1, 413]
 
-在思想中将_P_与_S_识别为什么？ 布伦塔诺告诉我们，识别不是一种判断，识别的结果是一种呈现（PES 317，\[II 206]）。\[26] 了解布伦塔诺的一个自然方式是将识别视为形成复杂呈现的一种方式。 布伦塔诺似乎主要考虑的是连接。 我们可以将\[温暖]和\[圆形]的呈现与\[某物温暖且圆形]的呈现连接起来。 连接在这里是对呈现的原始操作，独立于判断。\[27]
+在思想中将_P_与_S_识别为什么？ 布伦塔诺告诉我们，识别不是一种判断，识别的结果是一种呈现（PES 317，\[II 206]）。\[26] 了解布伦塔诺的一个自然方式是将识别视为形成复杂呈现的一种方式。 布伦塔诺似乎主要考虑的是连接。 我们可以将\[温暖] 和\[圆形] 的呈现与\[某物温暖且圆形] 的呈现连接起来。 连接在这里是对呈现的原始操作，独立于判断。\[27]
 
-但这种复杂性的意义何在呢？为什么布伦塔诺不坚持我们已经熟悉的更简单的两步程序：首先，在做出任何判断之前，将_S_和_P_结合在一个表现行为中，然后承认“*S\-that-is-*P*”作为一个复杂对象？是否有一种特殊的方式来识别_S_和_P*，这种方式预设了在做出这种识别之前必须承认对象_S_？\[[28](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-28)]
+但这种复杂性的意义何在呢？为什么布伦塔诺不坚持我们已经熟悉的更简单的两步程序：首先，在做出任何判断之前，将_S_和_P_结合在一个表现行为中，然后承认“*S\-that-is-* P *”作为一个复杂对象？是否有一种特殊的方式来识别_S_和_P*，这种方式预设了在做出这种识别之前必须承认对象_S_？\[[28](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-28)]
 
 指示性判断是支持布伦塔诺新观念的一个很好的案例：
 
-一个形式为“那个东西是_P_”的句子表达了一个双重判断，包括（i）承认被指示代词“那个东西”所指出的对象，（ii）连接\[那个]和\[*P*]的观念（读作“那个是那个而且是_P_的东西”）和（iii）承认那个是那个而且是_P_的东西。
+一个形式为“那个东西是_P_”的句子表达了一个双重判断，包括（i）承认被指示代词“那个东西”所指出的对象，（ii）连接\[那个] 和\[*P*] 的观念（读作“那个是那个而且是_P_的东西”）和（iii）承认那个是那个而且是_P_的东西。
 
 第二个判断的表述必须谨慎选择。如果将第二个判断的内容理解为“刚才承认的那个东西是_P_”，那就会误解布伦塔诺的观点。承认一个对象和判断自己承认了它并不是一回事。因此，人们可以在没有实际做出第一个肯定的情况下做出后一个判断。如果将第二个判断描述为肯定已经被承认的那个东西是_P_，那么这种可能性就被排除了。只有这样才能把握布伦塔诺的观念，即在双重判断中，第二个判断与第一个判断是不可分割的：只有在实际确认了对象的存在之后，才能对一个对象肯定某事（见 PES 296 \[II 165; SVS 1, 414]）。\[[29](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-29)]
 
@@ -372,7 +372,7 @@ It turns out that I make two judgements in one—a “double judgement”—when
 
 同样，O 形式“某些_S_不是_P_”：
 
-> 由承认_S_组成，这是双重判断的基本组成部分。第二部分与之相关，并假定与之不可分割。这第二部分是负面的：它不\[...]将属性归因于_S_，\[...]而是否定其中的一个。(同上。)
+> 由承认_S_组成，这是双重判断的基本组成部分。第二部分与之相关，并假定与之不可分割。这第二部分是负面的：它不\[...] 将属性归因于_S_，\[...] 而是否定其中的一个。(同上。)
 
 这些主张背后的原理是什么？布伦塔诺在讨论真实对象和虚构对象之间的区别时提出这些主张显然并非巧合。这种区别对他来说变得重要，因为判断是有意向性的心智行为，因此它们既可以是关于真实事物，也可以是关于我们头脑中的发明。这些被发明的或“虚构的”对象可以是各种各样的。我们可能在幻觉中发明某物，或者在梦中想象出来，比如一个神奇的岛屿，或者我们可能读到一个故事中描述的神话人物，比如飞马，或者我们可能通过言语方式或作为形而上学理论的一部分发明不存在的对象。
 
@@ -425,10 +425,10 @@ It turns out that I make two judgements in one—a “double judgement”—when
 * Jerusalem, Wilhelm, 1895, *Die Urteilsfunktion. Eine Pyschologische und Erkenntniskritische Untersuchung*, Wien: Braunmüller.
 * Herbart, Johann Friedrich, 1813, *Lehrbuch zur Einleitung in die Philosophie*, Königsberg: Unzer.
 * Hillebrand, Franz, 1891, *Die neuen Theorien der kategorischen Schlüsse*, Wien: Hölder. Reprinted by VDM Verlag Dr. Müller, Saarbrücken 2007.
-* Husserl, Edmund, 1896 \[2001], *Logik Vorlesung 1896*, Elisabeth Schuhmann (ed.), Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0779-5
+* Husserl, Edmund, 1896 \[2001], *Logik Vorlesung 1896*, Elisabeth Schuhmann (ed.), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-010-0779-5
 * –––, 1900–1901, *Logische Untersuchungen*, Niemeyer: Halle a. d. Saale; second edition, 1913–1922. English translation of the second edition, *Logical Investigations*, J.N. Findlay (trans.), London: Routledge and Kegan Paul, 1970.
 * Karelitzki, Arnold, 1914, *Urteil und Anerkennung*, Parchim: Hermann Freise.
-* Land, J. P. N., 1876, “Brentano’s Logical Innovations”, *Mind*, old series, 1(2): 289–292. doi:10.1093/mind/os-1.2.289
+* Land, J. P. N., 1876, “Brentano’s Logical Innovations”, *Mind*, old series, 1(2): 289–292. doi: 10.1093/mind/os-1.2.289
 * Marty, Anton \[d. 1914], 2011, *Deskriptive Psychologie*, Mauro Antonelli and Johann Marek, Würzburg: Königshausen and Neumann.
 * Meinong, Alexius, 1892, “Rezension von: Franz Hillebrand, Die neuen Theorien der kategorischen Schlüsse”, in his *Gesamtausgabe*, Bd 7, Graz: Akademische Druck- und Verlagsanstalt, pp. 197–222.
 * Mill, John Stuart, 1872 \[1972], Letter to Brentano (18.12.1872), in *The Collected Works of John Stuart Mill, Volume XVII—The Later Letters of John Stuart Mill 1849–1873, Part IV*, Francis E. Mineka and Dwight N. Lindley (eds). University of Toronto Press/Routledge & Kegan Paul, 1972.
@@ -439,44 +439,44 @@ It turns out that I make two judgements in one—a “double judgement”—when
 
 ### Secondary Literature
 
-* Bacigalupo, Giuliano, 2018, “Towards a New Brentanian Theory of Judgment”, *Grazer Philosophische Studien*, 95(2): 245–264. doi:10.1163/18756735-000039
-* Betti, Arianna, 2013, “We Owe It To Sigwart! A New Look at the Content/Object Distinction in Early Phenomenological Theories of Judgment from Brentano to Twardowski”, in Textor 2013b: 74–96. doi:10.1057/9781137286338\*5
-* Betti, Arianna and Maria van der Schaar, 2004, “The Road from Vienna to Lvov Twardowski’s Theory of Judgement between 1894 and 1897”, *Grazer Philosophische Studien*, 67(1): 1–20. doi:10.1163/18756735-90000821
-* Brandl, Johannes L., 2017, “Was Brentano an Early Deflationist About Truth?”, *The Monist*, 100(1): 1–14.
-* Brandl, Johannes L., and Mark Textor, 2021, “‘Disentangling Judgement from its Linguistic Clothing’: Brentano’s View of Judgement and its Linguistic Guises”, in M. Antonelli & T. Binder (eds.), *The Philosophy of Brentano*, Leiden/Boston: Brill/Rodopi, 156–79.
-* Chisholm, Roderick M., 1982, “Brentano’s Theory of Judgement” in *Brentano and Meinong Studies*, Roderick M. Chisholm (ed.), Amsterdam: Rodopi: 17–36.
-* Cobb-Stevens, Richard, 1998, “Two Stages in Husserl’s Critique of Brentano’s Theory of Judgment:”, *Études Phénoménologiques*, 14(27): 193–212. doi:10.5840/etudphen19981427/287
-* Church, Alonzo, 1947, “Review of *Psychologie Du Point de Vue Empirique*, by Franz Brentano”, *The Journal of Symbolic Logic*, 12(2): 56–57.
-* Crivelli, Paolo, 2004, *Aristotle on Truth*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511482496
-* Fréchette, Guillaume, 2014, “Austrian Logical Realism? Brentano on States of Affairs”, in *Defending Realism: Ontological and Epistemological Investigations*, Guido Bonino, Greg Jesson, and Javier Cumpa (eds.), Berlin, München, Boston: De Gruyter. doi:10.1515/9781614516651.379
-* Geach, P. T., 1965, “Assertion”, *The Philosophical Review*, 74(4): 449–465. Reprinted in his *Logic Matters*, Basil Blackwell, Oxford, 1972: 254–269. doi:10.2307/2183123
-* Ierna, Carlo, 2008, “Husserl’s Critique of Double Judgments”, in *Meaning and Language: Phenomenological Perspectives*, Filip Mattens (ed.), (Phaenomenologica 187), Dordrecht: Springer Netherlands, 49–73. doi:10.1007/978-1-4020-8331-0\*3
-* Janoušek, Hynek, 2015, “Judgmental Force and Assertion in Brentano and Early Husserl”:, *Studia Phaenomenologica*, 15: 105–128. doi:10.5840/studphaen2015157
-* –––, 2017, “Consciousness of Judging: Katkov’s Critique of Marty’s State of Affairs and Brentano’s Description of Judgement”, in *Mind and Language—On the Philosophy of Anton Marty*, Guillaume Fréchette and Hamid Taieb (eds.), Berlin, Boston: De Gruyter, 241–260. doi:10.1515/9783110531480-011
-* Kriegel, Uriah, 2015, “How to Speak of Existence: A Brentanian Approach to (Linguistic and Mental) Ontological Commitment”, in *Themes from Ontology, Mind, and Logic: Essays in Honor of Peter Simons*, Sandra Lapointe (ed.) (*Grazer Philosophische Studien*, 91), Brill, 81–106. doi:10.1163/9789004302273\*005
-* –––, 2017, “Brentano’s Classification of Mental Phenomena”, in *Routledge Handbook of Franz Brentano and the Brentano School*, Uriah Kriegel (ed.), London: Routledge, 97–102.
-* –––, 2018, “Belief-That and Belief-In: Which Reductive Analysis?”, in *Non-Propositional Intentionality*, Alex Grzankowski and Michelle Montague (eds.), Oxford: Oxford University Press, 192–214.
-* Łukasiewicz, Dariusz, 2007, “Brentano’s Theory of Judgment and the Lvov-Warsaw School”, *Ruch Filozoficzny* 64(1), 33–47.
-* Martin, Wayne M., 2010, “Fichte’s Logical Legacy: Thetic Judgment from the *Wissenschaftslehre* to Brentano”, in *Fichte and the Phenomenological Tradition*, Violetta L. Waibel, Daniel Breazeale, and Tom Rockmore (eds.), Berlin, New York: De Gruyter, 379–407. doi:10.1515/9783110245288.4.379
-* Mulligan Kevin, 2013, “Acceptance, Acknowledgment, Affirmation, Agreement, Assertion, Belief, Certainty, Conviction, Denial, Judgment, Refusal & Rejection”, in Textor 2013b: 97–137. doi:10.1057/9781137286338\*6
-* Parsons, Charles, 2004, “Brentano on Judgment and Truth”, in *The Cambridge Companion to Brentano*, Dale Jacquette (ed.), Cambridge: Cambridge University Press, 168–196. doi:10.1017/CCOL0521809800.008
+* Bacigalupo, Giuliano, 2018, “Towards a New Brentanian Theory of Judgment”, *Grazer Philosophische Studien*, 95(2): 245–264. doi: 10.1163/18756735-000039
+* Betti, Arianna, 2013, “We Owe It To Sigwart! A New Look at the Content/Object Distinction in Early Phenomenological Theories of Judgment from Brentano to Twardowski”, in Textor 2013b: 74–96. doi: 10.1057/9781137286338\*5
+* Betti, Arianna and Maria van der Schaar, 2004, “The Road from Vienna to Lvov Twardowski’s Theory of Judgement between 1894 and 1897”, * Grazer Philosophische Studien*, 67(1): 1–20. doi: 10.1163/18756735-90000821
+* Brandl, Johannes L., 2017, “Was Brentano an Early Deflationist About Truth?”, * The Monist*, 100(1): 1–14.
+* Brandl, Johannes L., and Mark Textor, 2021, “‘Disentangling Judgement from its Linguistic Clothing’: Brentano’s View of Judgement and its Linguistic Guises”, in M. Antonelli & T. Binder (eds.), * The Philosophy of Brentano*, Leiden/Boston: Brill/Rodopi, 156–79.
+* Chisholm, Roderick M., 1982, “Brentano’s Theory of Judgement” in * Brentano and Meinong Studies*, Roderick M. Chisholm (ed.), Amsterdam: Rodopi: 17–36.
+* Cobb-Stevens, Richard, 1998, “Two Stages in Husserl’s Critique of Brentano’s Theory of Judgment:”, * Études Phénoménologiques*, 14(27): 193–212. doi: 10.5840/etudphen19981427/287
+* Church, Alonzo, 1947, “Review of * Psychologie Du Point de Vue Empirique *, by Franz Brentano”, * The Journal of Symbolic Logic*, 12(2): 56–57.
+* Crivelli, Paolo, 2004, * Aristotle on Truth*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511482496
+* Fréchette, Guillaume, 2014, “Austrian Logical Realism? Brentano on States of Affairs”, in * Defending Realism: Ontological and Epistemological Investigations*, Guido Bonino, Greg Jesson, and Javier Cumpa (eds.), Berlin, München, Boston: De Gruyter. doi: 10.1515/9781614516651.379
+* Geach, P. T., 1965, “Assertion”, * The Philosophical Review *, 74(4): 449–465. Reprinted in his * Logic Matters*, Basil Blackwell, Oxford, 1972: 254–269. doi: 10.2307/2183123
+* Ierna, Carlo, 2008, “Husserl’s Critique of Double Judgments”, in * Meaning and Language: Phenomenological Perspectives *, Filip Mattens (ed.), (Phaenomenologica 187), Dordrecht: Springer Netherlands, 49–73. doi: 10.1007/978-1-4020-8331-0\* 3
+* Janoušek, Hynek, 2015, “Judgmental Force and Assertion in Brentano and Early Husserl”:, *Studia Phaenomenologica*, 15: 105–128. doi: 10.5840/studphaen2015157
+* –––, 2017, “Consciousness of Judging: Katkov’s Critique of Marty’s State of Affairs and Brentano’s Description of Judgement”, in *Mind and Language—On the Philosophy of Anton Marty*, Guillaume Fréchette and Hamid Taieb (eds.), Berlin, Boston: De Gruyter, 241–260. doi: 10.1515/9783110531480-011
+* Kriegel, Uriah, 2015, “How to Speak of Existence: A Brentanian Approach to (Linguistic and Mental) Ontological Commitment”, in *Themes from Ontology, Mind, and Logic: Essays in Honor of Peter Simons*, Sandra Lapointe (ed.) (*Grazer Philosophische Studien*, 91), Brill, 81–106. doi: 10.1163/9789004302273\*005
+* –––, 2017, “Brentano’s Classification of Mental Phenomena”, in * Routledge Handbook of Franz Brentano and the Brentano School*, Uriah Kriegel (ed.), London: Routledge, 97–102.
+* –––, 2018, “Belief-That and Belief-In: Which Reductive Analysis?”, in * Non-Propositional Intentionality*, Alex Grzankowski and Michelle Montague (eds.), Oxford: Oxford University Press, 192–214.
+* Łukasiewicz, Dariusz, 2007, “Brentano’s Theory of Judgment and the Lvov-Warsaw School”, * Ruch Filozoficzny* 64(1), 33–47.
+* Martin, Wayne M., 2010, “Fichte’s Logical Legacy: Thetic Judgment from the * Wissenschaftslehre * to Brentano”, in * Fichte and the Phenomenological Tradition*, Violetta L. Waibel, Daniel Breazeale, and Tom Rockmore (eds.), Berlin, New York: De Gruyter, 379–407. doi: 10.1515/9783110245288.4.379
+* Mulligan Kevin, 2013, “Acceptance, Acknowledgment, Affirmation, Agreement, Assertion, Belief, Certainty, Conviction, Denial, Judgment, Refusal & Rejection”, in Textor 2013b: 97–137. doi: 10.1057/9781137286338\* 6
+* Parsons, Charles, 2004, “Brentano on Judgment and Truth”, in *The Cambridge Companion to Brentano*, Dale Jacquette (ed.), Cambridge: Cambridge University Press, 168–196. doi: 10.1017/CCOL0521809800.008
 * Parsons, Terence, 2017, “The Traditional Square of Opposition”, *The Stanford Encyclopedia of Philosophy* (Summer 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2017/entries/square/](https://plato.stanford.edu/archives/sum2017/entries/square/).
-* Pietroski, Paul M., 2005, *Events and Semantic Architecture*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199244300.001.0001
+* Pietroski, Paul M., 2005, *Events and Semantic Architecture*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199244300.001.0001
 * Prior, Arthur N., 1962, *Formal Logic*, Oxford: The Clarendon Press.
 * –––, 1976, *The Doctrine of Propositions and Terms*, Duckworth, London.
-* Rojszczak, Artur and Barry Smith, 2003, “Theories of Judgement”, in *The Cambridge History of Philosophy 1870–1945*, Thomas Baldwin (ed.), Cambridge: Cambridge University Press, 157–173. doi:10.1017/CHOL9780521591041.013
+* Rojszczak, Artur and Barry Smith, 2003, “Theories of Judgement”, in *The Cambridge History of Philosophy 1870–1945*, Thomas Baldwin (ed.), Cambridge: Cambridge University Press, 157–173. doi: 10.1017/CHOL9780521591041.013
 * Rollinger, Robin, 2020, *Concept and Judgement in Brentano’s Logic Lectures*, Leiden/Boston: Brill/Rodopi.
-* Rosenkoetter, Timothy, 2010, “Absolute Positing, the Frege Anticipation Thesis, and Kant’s Definitions of Judgment”, *European Journal of Philosophy*, 18(4): 539–566. doi:10.1111/j.1468-0378.2009.00362.x
-* Simons, Peter M., 1987, “Brentano’s Reform of Logic”, *Topoi*, 6(1): 25–38. doi:10.1007/BF00141816
-* Staiti, Andrea, 2015, “Husserl and Rickert on the Nature of Judgment”, *Philosophy Compass*, 10(12): 815–827. doi:10.1111/phc3.12270
-* Sundholm, Göran, 2009, “A Century of Judgment and Inference, 1837–1936: Some Strands in the Development of Logic”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), New York: Oxford University Press, 263–317. doi:10.1093/acprof:oso/9780195137316.003.0028
+* Rosenkoetter, Timothy, 2010, “Absolute Positing, the Frege Anticipation Thesis, and Kant’s Definitions of Judgment”, *European Journal of Philosophy*, 18(4): 539–566. doi: 10.1111/j.1468-0378.2009.00362.x
+* Simons, Peter M., 1987, “Brentano’s Reform of Logic”, *Topoi*, 6(1): 25–38. doi: 10.1007/BF00141816
+* Staiti, Andrea, 2015, “Husserl and Rickert on the Nature of Judgment”, *Philosophy Compass*, 10(12): 815–827. doi: 10.1111/phc3.12270
+* Sundholm, Göran, 2009, “A Century of Judgment and Inference, 1837–1936: Some Strands in the Development of Logic”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), New York: Oxford University Press, 263–317. doi: 10.1093/acprof: oso/9780195137316.003.0028
 * Stumpf, Carl, 1919, “Erinnerungen an Franz Brentano”, in Oskar Kraus, 1919, *Franz Brentano*, München: Beck, 87–147.
-* Terrell, Burnham, 1976, “Franz Brentano’s Logical Innovations”, *Midwest Studies in Philosophy*, 1: 81–90. doi:10.1111/j.1475-4975.1976.tb00015.x
-* –––, 1978, “Quantification and Brentano’s Logic:”, *Grazer Philosophische Studien*, 5: 45–65. doi:10.5840/gps1978520
-* Tassone, Biagio G., 2011, “Franz Brentano’s Phenomenological Transformation of Aristotle’s Theory of Judgment”, *Journal of the British Society for Phenomenology*, 42(3): 305–328. doi:10.1080/00071773.2011.11006749
-* Textor, Mark, 2007, “Seeing Something and Believing IN It”, in *Perspectives on Perception*, Mary Margaret McCabe and Mark Textor (eds.), Berlin, Boston: Ontos, 65–87. doi:10.1515/9783110327557.65
+* Terrell, Burnham, 1976, “Franz Brentano’s Logical Innovations”, *Midwest Studies in Philosophy*, 1: 81–90. doi: 10.1111/j.1475-4975.1976.tb00015.x
+* –––, 1978, “Quantification and Brentano’s Logic:”, *Grazer Philosophische Studien*, 5: 45–65. doi: 10.5840/gps1978520
+* Tassone, Biagio G., 2011, “Franz Brentano’s Phenomenological Transformation of Aristotle’s Theory of Judgment”, *Journal of the British Society for Phenomenology*, 42(3): 305–328. doi: 10.1080/00071773.2011.11006749
+* Textor, Mark, 2007, “Seeing Something and Believing IN It”, in *Perspectives on Perception*, Mary Margaret McCabe and Mark Textor (eds.), Berlin, Boston: Ontos, 65–87. doi: 10.1515/9783110327557.65
 * –––, 2013a, “‘Thereby we have broken with the old logical dualism’—Reinach on negative judgement and negation”, *British Journal for the History of Philosophy*, 21 (3): 570–590.
-* ––– (ed.), 2013b, *Judgement and Truth in Early Analytic Philosophy and Phenomenology*, London: Palgrave Macmillan UK. doi:10.1057/9781137286338
+* ––– (ed.), 2013b, *Judgement and Truth in Early Analytic Philosophy and Phenomenology*, London: Palgrave Macmillan UK. doi: 10.1057/9781137286338
 * –––, 2017, “Towards a Neo-Brentanian Theory of Existence”, *Philosopher’s Imprint*, 17(6): 20 pages. \[[Textor 2017 available online](http://hdl.handle.net/2027/spo.3521354.0017.006)]
 * –––, 2020, “How many terms does a judgement have? Jerusalem versus Brentano”, in *Franz Brentano and Austrian Philosophy*, Denis Fisette and Guillaume Fréchette (eds.), Cham: Springer, 235–51.
 * Vallicella, William F., 2001, “Brentano on Existence”, *History of Philosophy Quarterly*, 18(3): 311–327.

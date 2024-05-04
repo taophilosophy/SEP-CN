@@ -16,13 +16,13 @@
 
 思想并不是唯一的思考方式。怀疑和判断，例如，也是思考的方式。在第三冥想的早期，笛卡尔对各种思考方式进行了基本的划分。他将它们分为两种：简单和复杂。思想被包括在简单模式的类别中。怀疑、判断等被包括在复杂模式的类别中。即使如此，所有复杂模式都包括思想作为组成部分。思考的复杂模式至少包括两个基本的心理组成部分：一个思想和一些“额外”的心理特征。他写道：
 
-> …[C]onsiderations of order appear to dictate that I now classify my thoughts into definite kinds, and ask which of them can properly be said to be the bearers of truth and falsity. Some of my thoughts are as it were the images of things, and it is only in these cases that the term "idea" is strictly appropriate — for example, when I think of a man, or a chimera, or the sky, or an angel, or God. Other thoughts have various additional forms: thus when I will, or am afraid, or affirm, or deny, there is always a particular thing which I take as the object of my thought, but my thought includes something more than the likeness of that thing. Some thoughts in this category are called volitions or emotions, while others are called judgements. (AT VII 36–7; CSM II 25–6)
+> …[C] onsiderations of order appear to dictate that I now classify my thoughts into definite kinds, and ask which of them can properly be said to be the bearers of truth and falsity. Some of my thoughts are as it were the images of things, and it is only in these cases that the term "idea" is strictly appropriate — for example, when I think of a man, or a chimera, or the sky, or an angel, or God. Other thoughts have various additional forms: thus when I will, or am afraid, or affirm, or deny, there is always a particular thing which I take as the object of my thought, but my thought includes something more than the likeness of that thing. Some thoughts in this category are called volitions or emotions, while others are called judgements. (AT VII 36–7; CSM II 25–6)
 
 在这段文字中，思想被归类为不同的种类，并询问哪些思想可以被称为真实和虚假的承载者。我的一些思想可以说是事物的影像，只有在这些情况下，“观念”一词才是严格适用的，例如，当我思考一个人、一个奇美拉、天空、天使或上帝时。其他思想有各种附加形式：当我意愿、害怕、肯定或否定时，总会有一个特定的事物成为我的思考对象，但我的思想包含的不仅仅是那个事物的相似之处。这一类思想有时被称为意愿或情感，而另一些被称为判断。（AT VII 36–7; CSM II 25–6）
 
 笛卡尔小心地不将观念视为图片或视觉形象，而是说它们是某种程度上的事物影像。这是一个长期存在的主题，我们可以在《世界》（AT XI 3–6; CSM I 81–2）和《光学》（AT VI 112–13; CSM I 165）中找到它的表达，也可以在《原理》（AT VIIIA 32–3; CSM I 216–17）和《人体描述》（AT XI 255–257; CSM I 322–23）中找到它的表达，在这些背景下，观念被描绘为代表它们的对象，而不一定与它们相似。这对于理论来说很重要，因为例如冷的观念或甜的观念，就其为观念而言，它们向思想表示某种东西，但它们不是视觉形象。这一点也适用于其他观念，比如上帝的观念，在上述段落中，笛卡尔明确列举了上帝的观念。上帝的观念向思想表示某种东西（它代表无限的实体），并且根据传统神学教义，假设上帝是非空间和非时间的，那么这个观念不能被理解为是上帝的视觉形象。
 
-与他在上述第三冥想段落中所说的一致，笛卡尔在其他地方也说过，思想是“任何给定思想的形式，对其进行直接感知使我意识到这个思想”（AT VII 160; CSM II 113）。在回复托马斯·霍布斯（1588-1679）的信中，他说思想是“心灵直接感知到的任何东西”（AT VII 181; CSM II 127）。在回复皮埃尔·加桑迪（1592-1655）的信中，他说“思想”这个术语被扩展为“涵盖任何思想对象”（AT VII 366; CSM II 253）。在给马林·梅尔森（1588-1648）的一封信中，日期为 1641 年 7 月，他说“思想”泛指“我们在构思某事时心中所存在的一切，无论我们如何构思”（AT III 393; CSMK III 185）。长期以来的解释认为，这些段落告诉我们思想具有特殊的指向性特征，它们指向各自的对象。正是通过这种指向性，心灵才能意识到一个对象。
+与他在上述第三冥想段落中所说的一致，笛卡尔在其他地方也说过，思想是“任何给定思想的形式，对其进行直接感知使我意识到这个思想”（AT VII 160; CSM II 113）。在回复托马斯 · 霍布斯（1588-1679）的信中，他说思想是“心灵直接感知到的任何东西”（AT VII 181; CSM II 127）。在回复皮埃尔 · 加桑迪（1592-1655）的信中，他说“思想”这个术语被扩展为“涵盖任何思想对象”（AT VII 366; CSM II 253）。在给马林 · 梅尔森（1588-1648）的一封信中，日期为 1641 年 7 月，他说“思想”泛指“我们在构思某事时心中所存在的一切，无论我们如何构思”（AT III 393; CSMK III 185）。长期以来的解释认为，这些段落告诉我们思想具有特殊的指向性特征，它们指向各自的对象。正是通过这种指向性，心灵才能意识到一个对象。
 
 一种长期存在的解释，即再现主义解释，认为对于笛卡尔来说，直接呈现给心灵的对象（通过思想）是纯粹的心理对象。这种解释强调笛卡尔说这些对象仅仅存在于智力中，就像他对卡特鲁斯说的那样，当心灵拥有太阳的思想时，“……它不是一个实际的实体，也就是说，它不是一个位于智力之外的存在……”（AT VII 103; CSM II 75）。心灵所指向的对象，即意识的直接对象，并不是太阳本身，而是一个纯粹的心理对象，它在天空中代表（或代表）太阳。这个纯粹的心理对象被认为构成了思想的内容。根据这种观点，思想有时被称为 tertium quid，即第三个事物，它“位于”心灵的眼睛和思想所代表的对象之间。
 
@@ -48,7 +48,7 @@
 
 对上帝的概念的考察几乎直接跟随在对他的一些思想的客观现实与超思想或超心理对象的形式现实之间可能的联系的引入之后。笛卡尔对上帝的概念的分析暗示了一种表示原则，这在本条目的第 4 节中讨论。
 
-笛卡尔引入了一个值得注意的第二个区别，即物质-客观区别。一些学者认为，这只是表达形式-客观现实区别的另一种方式。物质-客观区别在《冥想》的正文中从未明确阐述，尽管笛卡尔在回应安托万·阿尔诺（1612-1694）的第四组回应中使用了它。
+笛卡尔引入了一个值得注意的第二个区别，即物质-客观区别。一些学者认为，这只是表达形式-客观现实区别的另一种方式。物质-客观区别在《冥想》的正文中从未明确阐述，尽管笛卡尔在回应安托万 · 阿尔诺（1612-1694）的第四组回应中使用了它。
 
 笛卡尔在《冥想》的《致读者的前言》中引入了物质-客观区别（很可能是在《冥想》和《异议与回应》之后写的）。他说，“思想”这个词在哲学上是模糊的：
 
@@ -82,7 +82,7 @@
 
 笛卡尔的分析表明，他的一些先天观念和所有的偶然观念的内容都源于独立于他的思想存在的事物。这些观念属于原始观念的范畴。上帝的先天观念是一个原始观念，因为它所具有的客观实在性源于上帝的形式实在性。同样，身体的先天观念也是一个原始观念，因为它所具有的客观实在性源于身体的形式实在性。正如刚才提到的，太阳的偶然观念也是一个原始观念，因为它所具有的客观实在性源于太阳的形式实在性。事实上，那些内容源于其他观念的内容的人造观念无疑属于非原始观念的范畴。非原始观念是指其客观实在性源于其他观念的客观实在性的观念。飞马的人造观念就是非原始观念的一个例子。
 
-这种备选方案（原始观念和非原始观念）虽然与最初的方案（先天观念、偶然观念和人造观念）将观念划分得不同，但似乎对笛卡尔的观点没有哲学上的伤害。即便如此，有趣的是笛卡尔的原始观念范畴在约翰·洛克和大卫·休谟的观点中得到了类似的呼应，他们的理论都需要一个类似的范畴，他们称之为简单观念。
+这种备选方案（原始观念和非原始观念）虽然与最初的方案（先天观念、偶然观念和人造观念）将观念划分得不同，但似乎对笛卡尔的观点没有哲学上的伤害。即便如此，有趣的是笛卡尔的原始观念范畴在约翰 · 洛克和大卫 · 休谟的观点中得到了类似的呼应，他们的理论都需要一个类似的范畴，他们称之为简单观念。
 
 ## 4. 原始观念和表象原则
 

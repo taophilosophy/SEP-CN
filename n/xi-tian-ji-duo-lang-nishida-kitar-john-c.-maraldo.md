@@ -1,20 +1,20 @@
 # 西田几多郎 Nishida Kitarō (John C. Maraldo)
 
-*首次发表于2005年2月25日星期五；实质性修订于2024年2月21日星期三。*
+*首次发表于 2005 年 2 月 25 日星期五；实质性修订于 2024 年 2 月 21 日星期三。*
 
-西田几多郎是二十世纪最重要和有影响力的日本哲学家。他的工作在几个方面具有开创性：它在日本建立了欧美哲学的创造性学科；它通过融入亚洲思想源泉，丰富了这一学科；它为东亚佛教思想的哲学处理提供了新的基础；它产生了关于自我和世界的新理论，对当代哲学和生态学以及物理学的哲学和历史具有重要意义。西田的工作也令人沮丧，因为他的风格常常重复和晦涩，表达过于抽象，调查详细但偶尔陷入死胡同。西田曾经说过他的工作：“我一直是一名矿工，但从未设法提炼出来”（西田1958年：前言）。因此，对他的成就的简明介绍将需要广泛的选择、解释和澄清。
+西田几多郎是二十世纪最重要和有影响力的日本哲学家。他的工作在几个方面具有开创性：它在日本建立了欧美哲学的创造性学科；它通过融入亚洲思想源泉，丰富了这一学科；它为东亚佛教思想的哲学处理提供了新的基础；它产生了关于自我和世界的新理论，对当代哲学和生态学以及物理学的哲学和历史具有重要意义。西田的工作也令人沮丧，因为他的风格常常重复和晦涩，表达过于抽象，调查详细但偶尔陷入死胡同。西田曾经说过他的工作：“我一直是一名矿工，但从未设法提炼出来”（西田 1958 年：前言）。因此，对他的成就的简明介绍将需要广泛的选择、解释和澄清。
 
-本文以大致按时间顺序介绍西田的工作。我们可以将他的哲学项目整体理解为试图恢复逻辑所赋予经验和意识的严密性、必然性和普遍性。这个项目的发展方向与心理主义截然相反，后者将逻辑归结为个体心智或大脑的偶然性。它也不同于将纯粹逻辑建立为自解释领域的努力，因为西田坚持以经验为起点，这一优先性与胡塞尔的现象学和威廉·詹姆斯的激进经验主义相同。我们可以将他的哲学总体上描述为一种现象学形而上学，因为它将第一人称经验普遍化。它也可以被视为一种逻辑形式的本体论，因为它调查了它们的经验基础，但有一个限定条件：尽管西田提出了这些形式的统一来源，但这个来源既不是排他的也不是积极的；换句话说，这个来源本身不能被单一地描述为一个更基本的形式或物体。西田最终将这个来源称为“无”（虚无），这个概念在亚洲传统中特别突出。他的标志性的“地点逻辑”将绝对虚无表达为一种将世界及其中的一切以及我们概念化它的术语或逻辑形式置于背景中的方式。他的兴趣使他发展出一种文化哲学，而他作为日本首席哲学家的地位使政府官员在 20 世纪 30 年代末和 40 年代初寻求他对日本扩张主义的正当性的证明。他最后的论文重新解释了自我意识的意义，并重述了他关于世界和自我相互反映和创造的非二元论观点。
+本文以大致按时间顺序介绍西田的工作。我们可以将他的哲学项目整体理解为试图恢复逻辑所赋予经验和意识的严密性、必然性和普遍性。这个项目的发展方向与心理主义截然相反，后者将逻辑归结为个体心智或大脑的偶然性。它也不同于将纯粹逻辑建立为自解释领域的努力，因为西田坚持以经验为起点，这一优先性与胡塞尔的现象学和威廉 · 詹姆斯的激进经验主义相同。我们可以将他的哲学总体上描述为一种现象学形而上学，因为它将第一人称经验普遍化。它也可以被视为一种逻辑形式的本体论，因为它调查了它们的经验基础，但有一个限定条件：尽管西田提出了这些形式的统一来源，但这个来源既不是排他的也不是积极的；换句话说，这个来源本身不能被单一地描述为一个更基本的形式或物体。西田最终将这个来源称为“无”（虚无），这个概念在亚洲传统中特别突出。他的标志性的“地点逻辑”将绝对虚无表达为一种将世界及其中的一切以及我们概念化它的术语或逻辑形式置于背景中的方式。他的兴趣使他发展出一种文化哲学，而他作为日本首席哲学家的地位使政府官员在 20 世纪 30 年代末和 40 年代初寻求他对日本扩张主义的正当性的证明。他最后的论文重新解释了自我意识的意义，并重述了他关于世界和自我相互反映和创造的非二元论观点。
 
 ---
 
 ## 1. 传记
 
-西田于1870年5月19日出生在日本海北部的宇野毛村，后来该地并入了河北镇，如今是一个档案馆和纪念馆的所在地，可能是世界上最大的为一位哲学家而建的建筑结构。西田在明治时期的早年成长，当时日本在两个半世纪的相对孤立后重新对外开放，正在进行政治、教育和文化机构的革命性西化。对于西田的早年来说，这种“现代化”既表现为一种严格而常常压抑的学校氛围，要求对皇帝表示敬意，又表现为对日本“启蒙”运动的进步思想的解放性接触，该运动将西方哲学引入日本。在金泽的高中，他学习了中国儒家、新儒家和道家经典，学会了阅读英语和德语，擅长数学，并试图短暂地研究黑格尔和康德的著作。他与同学铃木大拙结下了终生的友谊，并于1890年与他一起辍学。次年，他以“有限地位”学生的身份被录取进入东京帝国大学，师从日本第一批哲学教授学习康德、黑格尔和叔本华。1894年毕业时，他以休谟的因果理论为论文题目，结婚后在几所省级高中和大学担任教职。在接下来的十年里，尽管家庭生活和教授德语等其他科目的要求很高，他发表了一些哲学论文，但更注重于在京都的禅师指导下进行正式的冥想实践。他开始创作后来出版的《探究善》一书，并凭借该作品于1910年获得了京都帝国大学的职位，于1914年成为该校的哲学教授。
+西田于 1870 年 5 月 19 日出生在日本海北部的宇野毛村，后来该地并入了河北镇，如今是一个档案馆和纪念馆的所在地，可能是世界上最大的为一位哲学家而建的建筑结构。西田在明治时期的早年成长，当时日本在两个半世纪的相对孤立后重新对外开放，正在进行政治、教育和文化机构的革命性西化。对于西田的早年来说，这种“现代化”既表现为一种严格而常常压抑的学校氛围，要求对皇帝表示敬意，又表现为对日本“启蒙”运动的进步思想的解放性接触，该运动将西方哲学引入日本。在金泽的高中，他学习了中国儒家、新儒家和道家经典，学会了阅读英语和德语，擅长数学，并试图短暂地研究黑格尔和康德的著作。他与同学铃木大拙结下了终生的友谊，并于 1890 年与他一起辍学。次年，他以“有限地位”学生的身份被录取进入东京帝国大学，师从日本第一批哲学教授学习康德、黑格尔和叔本华。1894 年毕业时，他以休谟的因果理论为论文题目，结婚后在几所省级高中和大学担任教职。在接下来的十年里，尽管家庭生活和教授德语等其他科目的要求很高，他发表了一些哲学论文，但更注重于在京都的禅师指导下进行正式的冥想实践。他开始创作后来出版的《探究善》一书，并凭借该作品于 1910 年获得了京都帝国大学的职位，于 1914 年成为该校的哲学教授。
 
-西田集中研究进入日本的哲学书籍，并在接下来的十年里撰写了许多文章，重新构思了新康德主义、罗伊斯、贝尔松、赫尔曼·洛策等人的思想，以及相对较少的胡塞尔。这些文章被汇集成书，从意识和意志的理论角度探讨了包括艺术和道德在内的各种主题。西田的名声在20世纪20年代开始传播。他在确保田边肇、和辻哲郎等人在京都大学获得职位方面发挥了重要作用，并吸引了西谷啓治、三木清和土坂俊等学生，他们都成为了日本重要的哲学家。他在20世纪20年代中期发展了他的标志性地方理论（场所），并在1929年成为名誉教授并搬到镰仓后继续完善。在20世纪30年代初，他的兴趣转向了历史和社会世界中人类行为和互动的本质，最终转向了文化和民族的意义。
+西田集中研究进入日本的哲学书籍，并在接下来的十年里撰写了许多文章，重新构思了新康德主义、罗伊斯、贝尔松、赫尔曼 · 洛策等人的思想，以及相对较少的胡塞尔。这些文章被汇集成书，从意识和意志的理论角度探讨了包括艺术和道德在内的各种主题。西田的名声在 20 世纪 20 年代开始传播。他在确保田边肇、和辻哲郎等人在京都大学获得职位方面发挥了重要作用，并吸引了西谷啓治、三木清和土坂俊等学生，他们都成为了日本重要的哲学家。他在 20 世纪 20 年代中期发展了他的标志性地方理论（场所），并在 1929 年成为名誉教授并搬到镰仓后继续完善。在 20 世纪 30 年代初，他的兴趣转向了历史和社会世界中人类行为和互动的本质，最终转向了文化和民族的意义。
 
-因为他作为日本最重要的哲学家而享有声望，政府官员——其中包括他的前学生、当时的首相近衛文麿——向他求助，以证明日本民族主义的正当性。西田答应了这个请求，虽然没有为日本的扩张主义和帝国主义提供正当性，但他认为这些工作大部分都是分散注意力的。他在1938年讲授了《日本文化问题》；两年后出版的这本书迅速销售了大约6万册。他在1941年向天皇发表了一篇受邀演讲，主张学术自由和每个国家在全球世界中都有自己的地位，每个国家都应该发展自己的全球视角。之后，他又发表了关于“新世界秩序原则”和“国家的本质”（国体）的演讲。在这段时间里，右翼的西田批评者认为他的政治著作要么太过抽象，要么对政府的支持不够；他的左翼批评者，特别是在第二次世界大战之后，认为他的著作过于民族主义。尽管健康状况不佳，周围的城市遭受轰炸，西田仍然坚持进行哲学研究，例如以笛卡尔的“我思故我在”和莱布尼茨的“先天和谐”为出发点。他在1945年6月7日去世前仅仅两个月完成了具有开创性的论文《地方的逻辑与宗教世界观》。他的19卷集成作品于两年后开始出版。一张现存的照片显示，数十人整夜守候，等待1947年7月20日第一卷的发行。
+因为他作为日本最重要的哲学家而享有声望，政府官员——其中包括他的前学生、当时的首相近衛文麿——向他求助，以证明日本民族主义的正当性。西田答应了这个请求，虽然没有为日本的扩张主义和帝国主义提供正当性，但他认为这些工作大部分都是分散注意力的。他在 1938 年讲授了《日本文化问题》；两年后出版的这本书迅速销售了大约 6 万册。他在 1941 年向天皇发表了一篇受邀演讲，主张学术自由和每个国家在全球世界中都有自己的地位，每个国家都应该发展自己的全球视角。之后，他又发表了关于“新世界秩序原则”和“国家的本质”（国体）的演讲。在这段时间里，右翼的西田批评者认为他的政治著作要么太过抽象，要么对政府的支持不够；他的左翼批评者，特别是在第二次世界大战之后，认为他的著作过于民族主义。尽管健康状况不佳，周围的城市遭受轰炸，西田仍然坚持进行哲学研究，例如以笛卡尔的“我思故我在”和莱布尼茨的“先天和谐”为出发点。他在 1945 年 6 月 7 日去世前仅仅两个月完成了具有开创性的论文《地方的逻辑与宗教世界观》。他的 19 卷集成作品于两年后开始出版。一张现存的照片显示，数十人整夜守候，等待 1947 年 7 月 20 日第一卷的发行。
 
 西田的私人生活只在他的哲学著作中略有反映，但仍然在其基调上留下了痕迹。他在动荡中的坚持或许解释了他写作的一些强烈性。对他来说，理解现实既是情感上的成就，也是智力上的成就；他的书法和诗歌本身就很有名，表现出对无常和超越的敏锐意识。西田经历了他的第一任妻子和八个孩子中的四个的死亡。在他的第一个儿子去世后，他写了这首和歌诗：
 
@@ -37,7 +37,7 @@
 
 从对善的探究开始，西田的早期作品质疑了大多数现代认识论的两个基本前提：经验是个体和主观的，只有通过与思维或其他个体的输入进行纠正过程才能获得知识。对于西田来说，原始形式的经验不是个体配备感官和心智能力与外部世界接触的行为；相反，它先于主体体验和客体被体验的区分，并由此形成个体。“看到颜色或听到声音的瞬间”不仅先于认为颜色或声音是外部对象的活动或者自己正在感知它的思想，而且先于对颜色或声音可能是什么的判断（西田 1911c: 3）。“纯粹经验”不仅指每一种感性和智性经验的基本形式，而且指现实的基本形式，实际上是“唯一的现实”，从中可以理解所有不同的现象。诸如思考或判断、意愿和智性直觉等认知活动都是纯粹经验的派生形式，但在行动中仍然展现出它——当思考、意愿等进行时。例如，对于一匹奔跑的马的经验是判断马在奔跑的基础，而判断的活动是纯粹经验在随后的判断“我现在正在判断”之前的一种实践。客观现象同样源自纯粹经验；当它们统一时被称为“自然”，而“精神”则指统一的活动。纯粹经验启动了现实的动态过程，将主观和客观现象区分开来，朝着更高的统一发展，而我们重新捕捉到我们的统一基础正是西田所说的善。
 
-西田会否认他的立场是一种唯心主义，无论是主观的还是超验的，因为没有主观的心灵，无论是人类的还是神圣的，是现实的起源，也没有拟人化或自我意识的精神是其起点或终点。他对纯粹经验的概念明显受到了威廉·詹姆斯、恩斯特·马赫和其他人的影响，但与他们的概念以及二十世纪对先反思经验的阐述不同之处在于，他强调这种经验的非个体化特征和无缝发展。它是系统性和全面性过程的先个体基础。如果我们将他的观点称为经验的“理论”，我们应该意识到从他的观点来看，这个理论是统一经验的自然产物，而不是对其的反思，认为它来自不同的源头。纯粹经验如何为反思性知识提供基础的问题将在《探究善的本质》之后的作品中成为西田关注的焦点。
+西田会否认他的立场是一种唯心主义，无论是主观的还是超验的，因为没有主观的心灵，无论是人类的还是神圣的，是现实的起源，也没有拟人化或自我意识的精神是其起点或终点。他对纯粹经验的概念明显受到了威廉 · 詹姆斯、恩斯特 · 马赫和其他人的影响，但与他们的概念以及二十世纪对先反思经验的阐述不同之处在于，他强调这种经验的非个体化特征和无缝发展。它是系统性和全面性过程的先个体基础。如果我们将他的观点称为经验的“理论”，我们应该意识到从他的观点来看，这个理论是统一经验的自然产物，而不是对其的反思，认为它来自不同的源头。纯粹经验如何为反思性知识提供基础的问题将在《探究善的本质》之后的作品中成为西田关注的焦点。
 
 这本书的直接性、相对简单性和系统性的方法使它成为他作品中最易理解和最受欢迎的一部；尽管西田本人对其潜在的心理主义持有疑虑，但许多评论家倾向于强调它，而不是后来的著作。事实上，西田早期的立场预示了他后来思想的几个发展。例如，早期关于主体经验之前的经验陈述在 1920 年代后期被重新表述为“无观者的视觉，无听者的听觉”。纯粹经验中自我的否定后来被表达为从世界的视角看待自我，其中世界在现象学中被理解为经验的决定性视野。个体被普遍性所决定的概念隐藏在内部（西田 1911c: 18）预示了西田后来对黑格尔具体普遍性的适应；后来的作品将个体称为普遍性的自我决定。最后，纯粹经验如何被说成是最具体的，如何包含所有现实并指示其未分化的基础，反映了西田哲学的整体方法。
 
@@ -49,7 +49,7 @@
 
 西田的认识论动机逐渐转向对西方哲学传统中潜在的本体论假设的审查。然而，西田并不满足于仅仅揭示这些假设，他还构建了一种新颖的经验和自我意识的本体论，使它们具有逻辑的必然性。
 
-考虑到被视为普通意识的对象，西田的分析质疑了意识和对象的概念。我们可以这样解释西田的第一个关注点，即意识的本体论：如果意识的基本形式没有自我意识的反身性，那么对象的“意识”将是盲目的，就像对刺激的机械或神经反应一样，没有任何意识，也无法解释意识。这个问题出现在试图以非循环的方式定义意识时。例如，将意识定义为一种意识或感知的状态，或者一种在该状态中有某种感觉或看似处于该状态的状态，只是用其同义词替换了意识。在某种意义上，意识是不可约的，但它具有解释其与对象世界的联系的逻辑结构。在结构上，意识在自身中反映自身，类似于无限集合在其等价子集中反映自身的方式，或者理想地图在所有准确的表示中反映自身的方式。[2]（请注意，英文中的awareness可以不带self一词，但翻译为自我意识的日语词是一个不可分割的复合词，即ji-kaku）。如果这种自我意识具有逻辑上的必然性，它不能被解释为特定心灵或意识的偶然属性，有时反思自身，即意识某事物的二阶意识。
+考虑到被视为普通意识的对象，西田的分析质疑了意识和对象的概念。我们可以这样解释西田的第一个关注点，即意识的本体论：如果意识的基本形式没有自我意识的反身性，那么对象的“意识”将是盲目的，就像对刺激的机械或神经反应一样，没有任何意识，也无法解释意识。这个问题出现在试图以非循环的方式定义意识时。例如，将意识定义为一种意识或感知的状态，或者一种在该状态中有某种感觉或看似处于该状态的状态，只是用其同义词替换了意识。在某种意义上，意识是不可约的，但它具有解释其与对象世界的联系的逻辑结构。在结构上，意识在自身中反映自身，类似于无限集合在其等价子集中反映自身的方式，或者理想地图在所有准确的表示中反映自身的方式。[2]（请注意，英文中的 awareness 可以不带 self 一词，但翻译为自我意识的日语词是一个不可分割的复合词，即 ji-kaku）。如果这种自我意识具有逻辑上的必然性，它不能被解释为特定心灵或意识的偶然属性，有时反思自身，即意识某事物的二阶意识。
 
 同样，如果自我意识要超越仅仅意识到自己，它就不能仅仅存在于自我内部。现代认识论的解决方案是将世界（所有存在的总体）分为两个部分，即心灵和自然，然后将心灵视为自然的镜像，将思想视为真实对象的表象。西田的解决方案是将世界视为在“世界”中的所有事物中自我映照。无论是“世界”中的任何事物都是世界的映照。从这个意义上说，世界是“自我意识”或自我反思的；它没有外部。个体的“自我意识”是世界的部分映照；西田后来将个体自我描述为世界的“焦点”。然而，在他仍然以意识为中心的思考中，西田避免了准确定位意识，并将世界描述为意识的领域，以表示该术语超越个体自我的范围。这个领域类似于康德的“Bewußtsein überhaupt”，因为它作为特定意识行为可能性的条件，但与康德将一切都转化为意识对象的观念不同，它的自反结构使其能够考虑自身而不将其变成另一个对象。
 
@@ -67,7 +67,7 @@
 
 ### 3.2 对于地点逻辑的类比
 
-西田打算通过他的地方或拓扑理论为他之前的经验和自我意识哲学提供一个逻辑基础。几个重叠的模型有助于理解这个逻辑。西田明确地借鉴了一些模型，例如，柏拉图在《时间论》中的观念“思想的容器”（chora）和亚里士多德在《论灵魂》中对此观念的改编。西田早期使用的另一个模型是现代物理学和相对论中的场的概念，其中时空是与其中的物体不可分割的一个场。类似地，对于西田来说，所有感知和概念化的对象都“在”“意识的领域”中。西田最初从威廉·詹姆斯那里借用了这个术语，但他将其发展为一种积极和创造性的放置（basho），这影响了量子物理学中的理论（见下文）。另一个早期的模型是作为谓词的普遍性逻辑。个别事物或个体被放置在普遍性中以指定它们与其他个别事物或个体的差异，而较不广泛的普遍性则被放置在更广泛的普遍性中，直到达到无限的、无边界的普遍性，即虚无。这个“超验的谓词”不能成为任何描述或命题的主题，但它最终被每个规范所蕴含。
+西田打算通过他的地方或拓扑理论为他之前的经验和自我意识哲学提供一个逻辑基础。几个重叠的模型有助于理解这个逻辑。西田明确地借鉴了一些模型，例如，柏拉图在《时间论》中的观念“思想的容器”（chora）和亚里士多德在《论灵魂》中对此观念的改编。西田早期使用的另一个模型是现代物理学和相对论中的场的概念，其中时空是与其中的物体不可分割的一个场。类似地，对于西田来说，所有感知和概念化的对象都“在”“意识的领域”中。西田最初从威廉 · 詹姆斯那里借用了这个术语，但他将其发展为一种积极和创造性的放置（basho），这影响了量子物理学中的理论（见下文）。另一个早期的模型是作为谓词的普遍性逻辑。个别事物或个体被放置在普遍性中以指定它们与其他个别事物或个体的差异，而较不广泛的普遍性则被放置在更广泛的普遍性中，直到达到无限的、无边界的普遍性，即虚无。这个“超验的谓词”不能成为任何描述或命题的主题，但它最终被每个规范所蕴含。
 
 尽管西田没有明确提到其他类比，但它们仍然在一定程度上有助于澄清他的逻辑。解释模型是相关的：每个文本都有其上下文，而这个上下文又可以通过引用进一步的上下文来成为一个文本或主题化。没有最终的上下文可以在不参考另一个上下文的情况下进行具体说明。对于西田来说，这种关系不是通过引用无限回归的概念来解决的；相反，它表明了不同层次的终极上下文的必要性，这种上下文允许区分特定文本和其上下文之间的差异。在西田的术语中，这个无法具体说明的上下文被称为绝对无。成功的物理理论分析提供了另一个模型。西田的每个连续的主题都作为一个分析层次，解决了较低层次上的矛盾，就像爱因斯坦的相对论理论包含了牛顿理论并解决了其中的矛盾一样。但对于西田来说，将差异或矛盾统一起来的最终层次是无法分析的绝对无。尽管西田相对无知于现代逻辑，并将谓词与普遍性等同起来，我们也可以在数理逻辑中找到他的地点逻辑的类比：公理系统是一个地点，根据哥德尔的定理，它不是自解释或自生成的，因为它包含了不可判定的命题，并且没有具有自解释基础的最终系统。西田的绝对无是超越言说决定的地方。言语分析也提供了类似的类比：它分析了言语如何被框定或指向具有特定利益的受众，但分析本身也有其自己的框架，不会以任何明确或最终的框架结束。 知识和现实的基础主义理论似乎提供了西田几多郎的地点逻辑的模型，但在西田那里，基础的隐喻被放置、定位或包容的隐喻所取代，而且无论如何，最终的地点更像是一个无底深渊或虚无而不是一个积极的基础。
 
@@ -97,9 +97,9 @@
 
 #### 4.2.1 自我与他者
 
-我们可以将焦点从个体历史身体的行动转移到不同个体之间的互动上，以世界作为相互形成的中介空间。事实上，西田认为，个体正是因为独特而涉及一系列相互关联的个体。"我与你"之间的关系是西田首先考虑的部分，尽管他继续将这种关系与自我意识中的内在关系交织在一起。在他之前对个体自我意识的分析中，他将其描述为对自我意识的普遍性的自我反思，而现在他的描述中融入了认同的维度。我将你认定为不是我，这使我成为我自己，你将我认定为不是你，这使你成为你自己。每个人都是自我的相对他者。
+我们可以将焦点从个体历史身体的行动转移到不同个体之间的互动上，以世界作为相互形成的中介空间。事实上，西田认为，个体正是因为独特而涉及一系列相互关联的个体。"我与你" 之间的关系是西田首先考虑的部分，尽管他继续将这种关系与自我意识中的内在关系交织在一起。在他之前对个体自我意识的分析中，他将其描述为对自我意识的普遍性的自我反思，而现在他的描述中融入了认同的维度。我将你认定为不是我，这使我成为我自己，你将我认定为不是你，这使你成为你自己。每个人都是自我的相对他者。
 
-然而，这种黑格尔式的分析在自我内部没有认识到绝对他者是不完整的。这个他者，回忆起西田对绝对的概念，不排除自我；相反，它构成了自我认同，不断否定自己曾经的样貌。我的个人自我意识并非在我通过记忆认识到我的身份时产生，例如，也不仅仅是当我遇到另一个我时产生；而是在经历自己存在的无根据性中产生，在认识到与实质性的自我完全不同的绝对他者时产生。在内部认识到绝对他者不仅仅构成了一种自我反思的自我意识，而且是一种自我觉醒，一种实现"真实自我"的意识。
+然而，这种黑格尔式的分析在自我内部没有认识到绝对他者是不完整的。这个他者，回忆起西田对绝对的概念，不排除自我；相反，它构成了自我认同，不断否定自己曾经的样貌。我的个人自我意识并非在我通过记忆认识到我的身份时产生，例如，也不仅仅是当我遇到另一个我时产生；而是在经历自己存在的无根据性中产生，在认识到与实质性的自我完全不同的绝对他者时产生。在内部认识到绝对他者不仅仅构成了一种自我反思的自我意识，而且是一种自我觉醒，一种实现 "真实自我" 的意识。
 
 西田对自我意识的术语是自覺（jikaku），也可以翻译为自觉觉醒，这无疑是他有意采用的佛教解读。西田允许佛教观点，即实际上没有需要觉醒的自我，通过引用绝对无的自觉来解释；它的觉醒是“真实自我”的觉醒。绝对无的行动，可以说，包含了否定（实质性、同一的自我）和肯定（真实自我）的元素。在自我否定的方式中，我与你合而为一，同时又与你不同。不仅在我们之间存在着“绝对不连续的连续性”，而且在我们每个人内部也是如此，因为我们的身份不断形成。最后，西田否定了自我的实质性，并重新构想了他人的根本他性以及绝对他者的超越，例如上帝的形象，我们将在后文中看到。
 
@@ -137,11 +137,11 @@
 
 首先是西田将更包容的事物视为更具体，将更受限制的事物视为更抽象的方式。这在某种程度上是有道理的，因为抽象涉及部分的去除，但西田还使用这种方法来颠倒通常的解释模式或层次结构的顺序。如前所述，人类所生活的历史世界比物理学研究的物质世界更具体，因为历史的人类世界包含（在词义上的两个意思）了仅仅物理的世界，并且永远不能被简化为物理世界。在这两个世界之间是生物界，比人类世界更具体，但比物质世界更具体。
 
-第二点是西田对整体在其部分中反映自身的解释模式的借用。在这里，西田借鉴了乔西亚·罗伊斯和理查德·戴德金德关于无限系统在其部分中反映的自我代表性系统的思想。对于西田来说，如果一个整体没有部分在外面，那么它明显的差异化必须得到解释。在他的第一本重要著作《探究善》之后，西田开始将这种差异化的发展解释为一个整体的自我反思或自我映射结构，而不是一个时间过程。例如，知识不是两个不同的现实，一个知觉的心灵和一个被知觉的对象，相互符合，而是一个单一的具体现实，在不同的层次上“在自身中反映自身”，从而产生了更抽象的知觉主体和被知觉对象的概念。在西田将自我意识（自覚）描述为自我在自身内部反映的活动之后，他开始将其他结构整体，甚至是世界本身，称为“自我意识的”（自覚的）因为它们在自身内部反映自身。
+第二点是西田对整体在其部分中反映自身的解释模式的借用。在这里，西田借鉴了乔西亚 · 罗伊斯和理查德 · 戴德金德关于无限系统在其部分中反映的自我代表性系统的思想。对于西田来说，如果一个整体没有部分在外面，那么它明显的差异化必须得到解释。在他的第一本重要著作《探究善》之后，西田开始将这种差异化的发展解释为一个整体的自我反思或自我映射结构，而不是一个时间过程。例如，知识不是两个不同的现实，一个知觉的心灵和一个被知觉的对象，相互符合，而是一个单一的具体现实，在不同的层次上“在自身中反映自身”，从而产生了更抽象的知觉主体和被知觉对象的概念。在西田将自我意识（自覚）描述为自我在自身内部反映的活动之后，他开始将其他结构整体，甚至是世界本身，称为“自我意识的”（自覚的）因为它们在自身内部反映自身。
 
 第三点是西田通过包含或包裹的方式来详细阐述这个“内部”，就像一个整体包裹或包含部分部分地反映它一样，或者像颜色的普遍性包含红色的普遍性一样。西田还将更有限的领域称为更包容领域的特殊化或“自我决定”，但他经常使用包裹的隐喻来描述决定的方式。最终的普遍性或包裹整体没有确定的特征；它是“无”。
 
-第四种方法是西田的处理对立和区别的方式，强调它们的不可区分的基础或它们的不可简化的关系。他经常试图将对立和区别归还（而不是简化）到潜在它们的非区分状态，最终归于产生（或决定自身为）各种区别的虚无。尽管他的作品中到处都有译为“基础”或“根源”的术语，但这种强调削弱了对一个完全超越世界或现实的创始原则或实体的依赖。"绝对虚无"可以理解为没有任何明确定义的超越性基础。例如，当西田写道"绝对虚无超越一切存在，但同时一切存在都是通过它产生的"（NKZ IX, 6）时，我们可以理解他指向一个超越它所产生的区别的不可区分的源头，这个源头必然由它们被聚集在一起而作为彼此不同的区别所随附。
+第四种方法是西田的处理对立和区别的方式，强调它们的不可区分的基础或它们的不可简化的关系。他经常试图将对立和区别归还（而不是简化）到潜在它们的非区分状态，最终归于产生（或决定自身为）各种区别的虚无。尽管他的作品中到处都有译为“基础”或“根源”的术语，但这种强调削弱了对一个完全超越世界或现实的创始原则或实体的依赖。"绝对虚无" 可以理解为没有任何明确定义的超越性基础。例如，当西田写道 "绝对虚无超越一切存在，但同时一切存在都是通过它产生的"（NKZ IX, 6）时，我们可以理解他指向一个超越它所产生的区别的不可区分的源头，这个源头必然由它们被聚集在一起而作为彼此不同的区别所随附。
 
 强调关系同样削弱了将对立或区分的术语归结为两者共同要素的任何尝试。在西田的中期职业生涯中，他使用辩证法的语言来描述关系，同时坚持认为对立的术语并没有被上升到更高的统一性中。后来，他使用诸如“绝对矛盾的自我同一性”之类的表达来描述对立的术语是如何被保持在一起的，例如多和一。他对“逆相关”的概念也反映了这种方法。西田对关系的强调修改了他对自反结构的概念，使其清楚地表明它们在整体中保持差异，而不仅仅是自我复制或递归。例如，在他的最后一篇论文中，当他描述个体自我作为世界在自身中反映的焦点时，这一点是显而易见的（NKZ XI，378）。他对积极基础或基质的拒绝，以及他对关系中不可简化但不可分割的术语的坚持，解释了为什么在他的方法论中明显存在的整体主义倾向不会演变成简单的唯一论，以及为什么许多评论家将他的哲学称为非二元论。
 
@@ -153,7 +153,7 @@
 
 由于西田用一种仅有半个多世纪才将哲学视为一个独立学科的语言和文化来撰写他的文章，因此他对这门学科的看法对于理解他思想的统一和进展同样至关重要。尽管他的观点在他一生中也发生了变化，但它揭示了一个持久的特征：哲学不仅应该是经验、知识、行动以及最终自我和世界最基本统一的表达，还应该是对这些统一的意识。
 
-在他职业生涯的早期，当他仍然受到费希特、新康德主义者和伯格森的影响时，他将哲学定义为科学[gakumon]，即统一的概念知识，更具体地说是第一和普遍的科学，它“反思一般的特定科学的基本概念，并构建它们的一个知识体系。”然而，“它的研究对象不仅仅是现实的基本概念。当然，基本的规范概念，如真理、善良和美，必须进入哲学研究。哲学不仅澄清现实的基本概念，还必须阐明人类生活的理想，即‘应该’本身。哲学不仅仅是一种世界观；它是对人类生活的看法。”在他的广义定义中，西田评论伯格森，澄清了直觉在他自己思想中至关重要的角色：“‘直觉’本身不能被称为哲学。即使它的内容可以源自直觉，哲学的存在理由在于直觉以概念知识的形式出现。”（NKZ 13, 254）。
+在他职业生涯的早期，当他仍然受到费希特、新康德主义者和伯格森的影响时，他将哲学定义为科学 [gakumon]，即统一的概念知识，更具体地说是第一和普遍的科学，它“反思一般的特定科学的基本概念，并构建它们的一个知识体系。”然而，“它的研究对象不仅仅是现实的基本概念。当然，基本的规范概念，如真理、善良和美，必须进入哲学研究。哲学不仅澄清现实的基本概念，还必须阐明人类生活的理想，即‘应该’本身。哲学不仅仅是一种世界观；它是对人类生活的看法。”在他的广义定义中，西田评论伯格森，澄清了直觉在他自己思想中至关重要的角色：“‘直觉’本身不能被称为哲学。即使它的内容可以源自直觉，哲学的存在理由在于直觉以概念知识的形式出现。”（NKZ 13, 254）。
 
 然后，在他职业生涯的后期，西田矛盾地形成了对这种知识的限制的概念，并制定了他的绝对无的哲学，最终在自我意识中“确定”或映射出来。这种意识成为哲学的任务，更具体地说，成为哲学家的任务。在他的一生中，西田对哲学的实践试图实现在上述引文中他所表达的持久洞察力。从这个意义上说，他的思想是系统的，但并不形成一个封闭的体系。这是一种一致的尝试，重新构想哲学，重新构建许多哲学家思考自我和世界的术语。这在一定程度上意味着，西田希望我们从世界的角度而不是“我”的角度来思考。
 
@@ -163,19 +163,19 @@
 
 广义上说，第二阶段以地点或场所（basho）的立场为定义。这涉及到试图表达不同层次并将它们放置在越来越包容的圆圈中（使用西田的一个隐喻），直到达到最具体和最全面的圆圈，一个没有周长的圆圈，其中心无处不在。西田将每个这样的圆圈称为一个地点或场所，每个地点或场所都允许事物存在并被视为它们本来的样子。最终的场所将自我意识置于行动和表达的世界中，这个世界将其置于背景之中，并最终置于绝对无物之中。西田将终极的场所称为“无形的形式”，明显取代了早期试图以积极和主观的术语（如纯粹经验和绝对自由意志）描述具体现实基本形式的努力。这个阶段在《从行动到观照》（1927）和《自我意识：普遍性的系统》（1930）的论文中显而易见，并延伸到《自我意识：无物的决定》（1932）的大部分内容。随着他将注意力转向在世界中相互作用的个体的位置，黑格尔式的辩证法语言逐渐变得越来越突出。他将个体写作是自我意识的“自我决定”，将绝对无物写作是辩证的普遍性。
 
-第三阶段将焦点放在辩证世界上，作为相互作用的个体之间的调解之地，这些个体是历史上具体存在的自我。西田现在将世界概念化为绝对虚无的历史表现。这个阶段代表了西田认为最全面和具体的立场，即历史世界的立场。世界展开“从被创造到创造”，不是直线的线性进展，而是从“绝对现在”中展开，每一刻都将过去的决定和未来的决策紧密地联系在一起。历史世界本身是“矛盾的自我认同”。自我实现并不是通过认识自己与其他自我或事物的区别，而是通过自我否定的形式。一种形式要求自我在自身核心中认识到绝对他者，以真正与“你”或其他相关的自我建立联系。另一种形式要求自我将自己交给事物或“与之合为一体”，通过“行动直觉”与之互动并通过互动来改变自己。在这个阶段，关系变得突出：我与你之间的关系，一与多之间的关系，表达自我的关系及其表达方式，日本国与其他国家之间的关系。这些关系中的每一个都构成了矛盾的自我认同，并抵制了一元论的解释。从《自觉：虚无的决定》的最后一篇论文开始，通过《行动的世界》和《辩证的世界》（收录在《哲学的基本问题》中，1934年），七卷哲学论文（1935-1945年）和几篇政治著作，一直到西田的最后一篇论文《地点逻辑与宗教世界观》（1945年），这个阶段在启发性上被理解。 最后一篇论文回到了宗教意识的主题，并更明确地表达了藏在西田哲学中的佛教参考和基督教影响。对于死亡和有限性的关注，虽然与自我否定的观念一致，但暗示了一种立场的转变，但西田的最后反思过于简短，不能称之为他哲学的一个新阶段。
+第三阶段将焦点放在辩证世界上，作为相互作用的个体之间的调解之地，这些个体是历史上具体存在的自我。西田现在将世界概念化为绝对虚无的历史表现。这个阶段代表了西田认为最全面和具体的立场，即历史世界的立场。世界展开“从被创造到创造”，不是直线的线性进展，而是从“绝对现在”中展开，每一刻都将过去的决定和未来的决策紧密地联系在一起。历史世界本身是“矛盾的自我认同”。自我实现并不是通过认识自己与其他自我或事物的区别，而是通过自我否定的形式。一种形式要求自我在自身核心中认识到绝对他者，以真正与“你”或其他相关的自我建立联系。另一种形式要求自我将自己交给事物或“与之合为一体”，通过“行动直觉”与之互动并通过互动来改变自己。在这个阶段，关系变得突出：我与你之间的关系，一与多之间的关系，表达自我的关系及其表达方式，日本国与其他国家之间的关系。这些关系中的每一个都构成了矛盾的自我认同，并抵制了一元论的解释。从《自觉：虚无的决定》的最后一篇论文开始，通过《行动的世界》和《辩证的世界》（收录在《哲学的基本问题》中，1934 年），七卷哲学论文（1935-1945 年）和几篇政治著作，一直到西田的最后一篇论文《地点逻辑与宗教世界观》（1945 年），这个阶段在启发性上被理解。 最后一篇论文回到了宗教意识的主题，并更明确地表达了藏在西田哲学中的佛教参考和基督教影响。对于死亡和有限性的关注，虽然与自我否定的观念一致，但暗示了一种立场的转变，但西田的最后反思过于简短，不能称之为他哲学的一个新阶段。
 
 ## 9. 西田哲学中亚洲哲学的地位
 
 由于西田在整个职业生涯中引用西方哲学家的次数远远超过亚洲来源，因此很容易将他的思想解读为与起源于西方传统的问题的持续参与。在解决西方思想家的关切时，他沿着自 1880 年代学术学科成立以来几乎所有日本哲学教授所走的道路。然而，对于敏锐的读者来说，他对亚洲哲学思想的借鉴也是显而易见的，尽管这种借鉴更多地是通过暗示和亲和力而不是直接引用。对于他不必明确指出亚洲来源，因为他可以依靠日本读者的一般教育，他们熟悉东亚经典和不直接引用思想的惯例。虽然评论家们长期以来一直指出西田对禅宗修行和思想的债务，但他们最近才开始通过研究他在亚洲语言中的庞大图书馆来确定他哲学的其他亚洲来源（Dalissier 2009b）。回顾起来，很明显，西田一直在将西方哲学与亚洲思想深入融合，远比上面对佛教的少数引用所示更为普遍。
 
-一般来说，我们可以分辨出西田几多郎利用亚洲来源的两种方式：零星地和系统地。西田的著作中散布着未经承认的古代中国文献的引用或改写的诗句，以及可能或可能不在印度、中国或日本文学中找到其来源的典故。这种典故是零星的。这些典故不显眼地置于对特定问题的讨论中，用来阐明一个观点，提供一个具体的例子，或者在原本沉闷的散文中插入一个俏皮的转折。一个例子是在早期著作《自我意识中的直觉与反思》中，西田论证个体的意志在没有反思或客体化的情况下可以自由地表达绝对意志，作为宇宙的创造性活动。西田在一句话中间插入了禅宗《临济录》的一句话来表达这种不可分割的自发性：“想到有限背后的无限，或者实在背后的本体，就是进入了客体化知识的领域。然而，在即时的、生活体验的意愿中，有限立即是无限，实在立即是本体，需要行走时行走，需要坐下时坐下，没有概念分析的间隔”（NKZ II，299；参见西田1917年：147）。西田还经常引用儒家的词语，但通常不会明确指出。例如，在他的第一本书《探究善》中，他认为逻辑上的理由通常不足以激励良好的行为，他提到了孔子的一句格言：“不要对别人做你不希望别人对你做的事，如果没有同情心的动机，这句话几乎没有意义”（西田1911c：113；NKZ I，132）。
+一般来说，我们可以分辨出西田几多郎利用亚洲来源的两种方式：零星地和系统地。西田的著作中散布着未经承认的古代中国文献的引用或改写的诗句，以及可能或可能不在印度、中国或日本文学中找到其来源的典故。这种典故是零星的。这些典故不显眼地置于对特定问题的讨论中，用来阐明一个观点，提供一个具体的例子，或者在原本沉闷的散文中插入一个俏皮的转折。一个例子是在早期著作《自我意识中的直觉与反思》中，西田论证个体的意志在没有反思或客体化的情况下可以自由地表达绝对意志，作为宇宙的创造性活动。西田在一句话中间插入了禅宗《临济录》的一句话来表达这种不可分割的自发性：“想到有限背后的无限，或者实在背后的本体，就是进入了客体化知识的领域。然而，在即时的、生活体验的意愿中，有限立即是无限，实在立即是本体，需要行走时行走，需要坐下时坐下，没有概念分析的间隔”（NKZ II，299；参见西田 1917 年：147）。西田还经常引用儒家的词语，但通常不会明确指出。例如，在他的第一本书《探究善》中，他认为逻辑上的理由通常不足以激励良好的行为，他提到了孔子的一句格言：“不要对别人做你不希望别人对你做的事，如果没有同情心的动机，这句话几乎没有意义”（西田 1911c：113；NKZ I，132）。
 
-西田在他的思想中系统地运用了亚洲哲学，无论是在诸如“无”之类的关键概念上，还是在表征他思想的方法上。绝对无的概念既回应了印度的思想，也回应了中国道家和佛教的表达。事实上，西田曾经提出，我们可以通过东方哲学对无的优先和西方哲学对存在的依赖来区分传统的东方和西方哲学（NKZ VII，429-30；Nishida 1970b：237）。他明确提到了印度宗教中发展起来的无的深刻思想（Nishida 1933-34：239），我们可以在《吠陀经》第十卷的创世颂中找到他关于绝对无超越存在和非存在的概念的先例：“无存在，亦无非存在”（Radhakrishnan 1957，23）。西田还考虑到了道家经典《老子》和《庄子》，其中明确提到“道被明说为‘无’”（Nishida 1944：242）。西田使用的日语术语是“无”（在中文中是“无”），在中国文学中通常只是作为否定存在或拥有的词，从这个意义上说，它无法传达西田对无的完整理解，即无并不等同于缺乏存在。然而，哲学道家文献提供了西田可以借鉴的先例。在《道德经》第40章中，我们可以找到这样的陈述：“万物生于有，有生于无。”与西田的绝对无作为创造源泉的概念相呼应，道德经提到了无的生成力量，以及产生万物的无名之道。《庄子》是一本以传说中作者名字命名的文本，它暗示了西田对绝对无作为最包容和未分化之地的感知。它提到了一个从未有过界限但保留了区分可能性的道。 被中国佛教所采纳，无不仅指不存在，还作为大乘佛教空性观念的一种变体，否定个体存在自给自足的同时，肯定它们的相互依存。西田在制定他对实体主义形而上学的批判和他对绝对虚无的概念的依据时，借鉴了佛教和道家的先例，将绝对虚无视为一种包罗万象的终极参照系，既具有创造性又不超越世界。
+西田在他的思想中系统地运用了亚洲哲学，无论是在诸如“无”之类的关键概念上，还是在表征他思想的方法上。绝对无的概念既回应了印度的思想，也回应了中国道家和佛教的表达。事实上，西田曾经提出，我们可以通过东方哲学对无的优先和西方哲学对存在的依赖来区分传统的东方和西方哲学（NKZ VII，429-30；Nishida 1970b：237）。他明确提到了印度宗教中发展起来的无的深刻思想（Nishida 1933-34：239），我们可以在《吠陀经》第十卷的创世颂中找到他关于绝对无超越存在和非存在的概念的先例：“无存在，亦无非存在”（Radhakrishnan 1957，23）。西田还考虑到了道家经典《老子》和《庄子》，其中明确提到“道被明说为‘无’”（Nishida 1944：242）。西田使用的日语术语是“无”（在中文中是“无”），在中国文学中通常只是作为否定存在或拥有的词，从这个意义上说，它无法传达西田对无的完整理解，即无并不等同于缺乏存在。然而，哲学道家文献提供了西田可以借鉴的先例。在《道德经》第 40 章中，我们可以找到这样的陈述：“万物生于有，有生于无。”与西田的绝对无作为创造源泉的概念相呼应，道德经提到了无的生成力量，以及产生万物的无名之道。《庄子》是一本以传说中作者名字命名的文本，它暗示了西田对绝对无作为最包容和未分化之地的感知。它提到了一个从未有过界限但保留了区分可能性的道。 被中国佛教所采纳，无不仅指不存在，还作为大乘佛教空性观念的一种变体，否定个体存在自给自足的同时，肯定它们的相互依存。西田在制定他对实体主义形而上学的批判和他对绝对虚无的概念的依据时，借鉴了佛教和道家的先例，将绝对虚无视为一种包罗万象的终极参照系，既具有创造性又不超越世界。
 
 西田的方法中也明显体现了对亚洲哲学的系统运用。他的论证寻求更高层次的包容，而不是排斥对立观点，这使他回归到中国佛教的解释方案，吸收和情境化对立的教义，而不是排斥它们。西田在他的地方论中的情境化方式，借鉴了中国宇宙观的方法，其中“解释和推理就是将其定位于模式之内”（格雷厄姆 1989 年：320；引自达利西埃 2009b：226）。瑜伽行派佛教关于意识作为主要现实和解释原则的理论很可能影响了西田在早期作品中将所有现实解释为意识的倾向。后来，他统一对立面和以自我否定来定义事物的方式，采用了佛教般若波罗蜜多逻辑的否定，其中个体化的术语蕴含其否定，并被理解为相互关联而非排他性的。
 
-但是西田的读者可以发现与某些亚洲哲学思想的共鸣，即使西田没有利用它们。即使没有直接影响的证据，一些关键概念和论证与古典印度佛教思想的亲和性令人震撼。例如，可以将西田对三个场所——存在、相对无物和绝对无物——的发展解读为一种类似于许多佛教方案中所描述的意识的加深，其中一个人首先看透了欲望的领域，然后看透了形式的领域，最后觉醒于超越区分的无形领域（Stevens 2009: 71）。西田哲学背后的信念也暗示了龙树中觉识论的论证，主张所有存在者的关联性，并在《维摩诘经》中敦促人们欣赏事物的“无根性”（Priest 2009: 472）。我们还可以认识到西田对现实（世界）本身变得自我意识以及前佛教印度吠陀学派或其后来的发展——非二元Advaita吠陀学派——的概念之间的遥远亲缘关系和相关重要差异。一些吠陀文本将现实与梵天等同，并断言“意识即梵天”（prajñānaṁbrahma，艾塔雷亚·乌梅尼什德3.3），“我即梵天”（ahaṁbrahmāsmi，布里哈达拉尼亚卡·乌梅尼什德1.4.10），或“你即是那个”（tat tvam asi，钦多伽乌梅尼什德6.8.7），意味着你的真实自我与终极现实相同，而西田在相对人类自我和绝对之间的等式中放置了一个停顿——他的“逆相关性”。然而，当西田敦促我们“从世界的立场看待自我”时，他暗示了一种对“我”的现象学括号或epoché，与这些吠陀表达的意图产生共鸣。 那种暗示和对吠陀思想和胡塞尔现象学的挑战，仍然需要在关于西田哲学的日益增长的文献中进行仔细研究。
+但是西田的读者可以发现与某些亚洲哲学思想的共鸣，即使西田没有利用它们。即使没有直接影响的证据，一些关键概念和论证与古典印度佛教思想的亲和性令人震撼。例如，可以将西田对三个场所——存在、相对无物和绝对无物——的发展解读为一种类似于许多佛教方案中所描述的意识的加深，其中一个人首先看透了欲望的领域，然后看透了形式的领域，最后觉醒于超越区分的无形领域（Stevens 2009: 71）。西田哲学背后的信念也暗示了龙树中觉识论的论证，主张所有存在者的关联性，并在《维摩诘经》中敦促人们欣赏事物的“无根性”（Priest 2009: 472）。我们还可以认识到西田对现实（世界）本身变得自我意识以及前佛教印度吠陀学派或其后来的发展——非二元 Advaita 吠陀学派——的概念之间的遥远亲缘关系和相关重要差异。一些吠陀文本将现实与梵天等同，并断言“意识即梵天”（prajñānaṁbrahma，艾塔雷亚 · 乌梅尼什德 3.3），“我即梵天”（ahaṁbrahmāsmi，布里哈达拉尼亚卡 · 乌梅尼什德 1.4.10），或“你即是那个”（tat tvam asi，钦多伽乌梅尼什德 6.8.7），意味着你的真实自我与终极现实相同，而西田在相对人类自我和绝对之间的等式中放置了一个停顿——他的“逆相关性”。然而，当西田敦促我们“从世界的立场看待自我”时，他暗示了一种对“我”的现象学括号或 epoché，与这些吠陀表达的意图产生共鸣。 那种暗示和对吠陀思想和胡塞尔现象学的挑战，仍然需要在关于西田哲学的日益增长的文献中进行仔细研究。
 
 ## 10. 对西田哲学的批评
 
@@ -187,9 +187,9 @@
 
 西田的研究启发了对大乘佛教的现代解释，正如他的思想受到佛教思想的影响一样。他将自我与世界交织在一起，发展了佛教的因缘起教义；他的无为哲学阐述了空性的概念和无（无为）的体验。他的哲学也给他的佛教和基督教读者带来了严峻的挑战，例如对上帝和人类之间非二元关系的概念，以及对历史世界中具有身体的自我的强调，这在佛教中是不寻常的。西田通常被称为佛教启发的京都学派哲学之父，因为他对一群学生或年轻同事的影响。在日本以外，他最著名的同事和批评家是田边元，他经常被认为是该学派的共同创始人，以及他的学生西谷啓治。作为一个“学派”，这个群体包括一些模糊的成员，其中包括马克思主义倾向的前学生，如三木清和戸坂潤，更具民族主义色彩的学生如小山巌和高坂正明，以及鲜为人知但与西田关系密切的弟子如牟田理作和下村虎太郎。学派之外的其他同事、学生和朋友仍然显示出西田思想的影响：禅宗佛教学者铃木大拙和久松真一，伦理和文化理论家和辩证法哲学家吴宝治，以及偶然性哲学家和日本美学解释者九鬼周造。学派的第三代包括田边的学生竹内好德、西谷的学生上田静泉和久松的学生阿部正雄，他们在欧洲和北美地区特别擅长介绍西田的哲学，并将西田的思想应用于跨宗教的佛教-基督教对话中。
 
-综合考虑，西田本人可能最好被视为一位独立思想家，正如亚洲和西方语言中不断增长的文献所证明的那样。许多最近的研究关注交流和批评，例如西田与中国儒家哲学家的关系（Walsh 2011；Rhydwen 2018；Rošker 2019；Lam 2023）；西田对卡尔·马克思的批判以及新的马克思主义对西田的批评（Haver 2017；Lange 2017；Uhl 2017；Heleno 2018；Kaye 2022）；以及西田哲学与恩斯特·卡西勒的哲学之间相互启发的关系（Müller 2018；Lofts 2021a和2021b；Endres等，2023）。西田的思想一直是几个领域艺术家和科学家的持续资源。他关于虚无的概念启发了建筑师安藤忠雄（Baek 2008和2009），他关于相互自我-世界形成的概念启发了前卫书法家森田子龙的美学。他关于地方的概念影响了复杂性理论和信息科学中的清水浩和管理理论中的野中郁次郎。正在进行的研究，大部分是未发表的论文，并受到新翻译的鼓励，探讨了西田对各种理论和实践科学的相关性。对临床心理学、精神病理学和神经科学的暗示建立在木村敏的贡献基础上，他从西田（和和辻哲郎）的关系自我概念中发展出一种互为主体和共情的精神病学方法（Fukao 2023；Stevens 2023：133-140）。对环境问题的新研究扩展了生态学家今西金次的工作，他受到西田的《探究善》的影响，将主观性和相互依存引入了进化理论（Asquith 2002：xxxiv-xxxvii；Izor 2020：37-39）。
+综合考虑，西田本人可能最好被视为一位独立思想家，正如亚洲和西方语言中不断增长的文献所证明的那样。许多最近的研究关注交流和批评，例如西田与中国儒家哲学家的关系（Walsh 2011；Rhydwen 2018；Rošker 2019；Lam 2023）；西田对卡尔 · 马克思的批判以及新的马克思主义对西田的批评（Haver 2017；Lange 2017；Uhl 2017；Heleno 2018；Kaye 2022）；以及西田哲学与恩斯特 · 卡西勒的哲学之间相互启发的关系（Müller 2018；Lofts 2021a 和 2021b；Endres 等，2023）。西田的思想一直是几个领域艺术家和科学家的持续资源。他关于虚无的概念启发了建筑师安藤忠雄（Baek 2008 和 2009），他关于相互自我-世界形成的概念启发了前卫书法家森田子龙的美学。他关于地方的概念影响了复杂性理论和信息科学中的清水浩和管理理论中的野中郁次郎。正在进行的研究，大部分是未发表的论文，并受到新翻译的鼓励，探讨了西田对各种理论和实践科学的相关性。对临床心理学、精神病理学和神经科学的暗示建立在木村敏的贡献基础上，他从西田（和和辻哲郎）的关系自我概念中发展出一种互为主体和共情的精神病学方法（Fukao 2023；Stevens 2023：133-140）。对环境问题的新研究扩展了生态学家今西金次的工作，他受到西田的《探究善》的影响，将主观性和相互依存引入了进化理论（Asquith 2002：xxxiv-xxxvii；Izor 2020：37-39）。
 
-也许对于西田研究、科学哲学和科学史而言，最有前景的是对西田与相对论和量子物理学之间交叉的持续调查（Hashi 2007; Noe 2017; Kozyra 2018; Brink 2021; Gaudenzi 2022; Ito 2022; Lupacchini 2021 & 2023）。爱因斯坦在1922年访问日本，部分是由于西田的努力，这成为日本场论发展的催化剂，其中包括了今西的理论。在20世纪20年代中期，西田关于“场所”（basho）的新兴理论将所有现存事物置于一个包容的拓扑中，显然借鉴了相对论中的引力场概念，该概念将物质置于其质量所变形的时空中，并假设时空和物质（或能量）不可分割。反过来，西田的“场所”概念直接启发了诺贝尔奖得主湯川秀樹提出的理论，该理论解释了基本粒子不是局部点粒子，而是在“基本域”中在空间上延伸的最小量子。不连续的量子现象与时空连续之间的关系既说明了又被西田的“不连续的连续性”概念所阐明。他看似矛盾的“矛盾的自我认同”表达了并以湯川的基本域的存在与不存在的同时性为例，以及尼尔斯·玻尔的互补性原则，即量子现象的互斥表象，粒子和波。西田继续以与经验科学学科和哲学相关的方式表达主体和客体之间的互补关系（Tremblay 2018 & forthcoming）。
+也许对于西田研究、科学哲学和科学史而言，最有前景的是对西田与相对论和量子物理学之间交叉的持续调查（Hashi 2007; Noe 2017; Kozyra 2018; Brink 2021; Gaudenzi 2022; Ito 2022; Lupacchini 2021 & 2023）。爱因斯坦在 1922 年访问日本，部分是由于西田的努力，这成为日本场论发展的催化剂，其中包括了今西的理论。在 20 世纪 20 年代中期，西田关于“场所”（basho）的新兴理论将所有现存事物置于一个包容的拓扑中，显然借鉴了相对论中的引力场概念，该概念将物质置于其质量所变形的时空中，并假设时空和物质（或能量）不可分割。反过来，西田的“场所”概念直接启发了诺贝尔奖得主湯川秀樹提出的理论，该理论解释了基本粒子不是局部点粒子，而是在“基本域”中在空间上延伸的最小量子。不连续的量子现象与时空连续之间的关系既说明了又被西田的“不连续的连续性”概念所阐明。他看似矛盾的“矛盾的自我认同”表达了并以湯川的基本域的存在与不存在的同时性为例，以及尼尔斯 · 玻尔的互补性原则，即量子现象的互斥表象，粒子和波。西田继续以与经验科学学科和哲学相关的方式表达主体和客体之间的互补关系（Tremblay 2018 & forthcoming）。
 
 ## Bibliography
 
@@ -218,9 +218,9 @@
 * 1920 [1979]. “Affective Feeling”, David Dilworth and Valdo Viglielmo (trans.), in *Japanese Phenomenology* (Analecta Husserliana VIII), Y. Nitta and H. Tatematsu (eds), Dordrecht, Boston & London: D. Reidel Publishing Company, 223–247. Excerpts from *The Problem of Consciousness.*
 * 1921–23a [1973]. *Art and Morality*, David Dilworth and Valdo Viglielmo (trans.), Honolulu: University of Hawai‘i Press.
 * 1921–23b [2022]. *Art et morale*, Britta Boutry-Stadelmann (trans.), Nagoya: Chisokudō Publications.
-* 1925–1938 [2012] . *Ontology of Production: 3 Essays*, William Haver (trans.), (Asia-Pacific), Durham, NC: Duke University Press; includes “Expressive Activity” (1925), “The Standpoint of Active Intuition” (1935) and “Human Being” (1938). doi:10.1215/9780822394983.
+* 1925–1938 [2012] . *Ontology of Production: 3 Essays*, William Haver (trans.), (Asia-Pacific), Durham, NC: Duke University Press; includes “Expressive Activity” (1925), “The Standpoint of Active Intuition” (1935) and “Human Being” (1938). doi: 10.1215/9780822394983.
 * 1926 [2012]. “The Unsolved Issue of Consciousness”, J.W.M. Krummel (trans.), *Philosophy East and West*, 62(1): 44–59.
-* 1926 & 1936 [2012]. *Place & Dialectic: Two Essays by Nishida Kitarō*, John W. Krummel and Shigenori Nagatomo (trans), Oxford: Oxford University Press; includes “Basho” and “Logic and Life”. doi:10.1093/acprof:oso/9780199841172.001.0001
+* 1926 & 1936 [2012]. *Place & Dialectic: Two Essays by Nishida Kitarō*, John W. Krummel and Shigenori Nagatomo (trans), Oxford: Oxford University Press; includes “Basho” and “Logic and Life”. doi: 10.1093/acprof: oso/9780199841172.001.0001
 * 1926–1945 [1999]. *Logik des Ortes: Der Anfang der modernen Philosophie in Japan*, Rolf Elberfeld (trans.), Darmstadt: Wissenschaftliche Buchgesellschaft; includes “Ort” (1926), “Ich und Du” (1932), “Ortlogik und religiöse Weltanschauung” (1945).
 * 1927–38 [1958]. *Intelligibility and the Philosophy of Nothingness: Three Philosophical Essays* [IPN], Robert Shinzinger (trans.), Honolulu: East-West Center Press. Translations of “The Intelligible World” (1927), “Goethe’s Metaphysical Background” (1932), and “The Unity of Opposites” (1938).
 * 1928–29 [2017]. *Autoéveil: Le système des universels*, Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
@@ -241,23 +241,23 @@
 * 1937b [2016]. “Der geschichtliche Leib”, Leon Krings (trans.), *European Journal of Japanese Philosophy*, 1: 217–246.
 * 1938 [1991]. *La Culture Japonaise en Question*, Pierre Lavelle (trans.), Paris: Publications Orientalistes de France.
 * 1938–44 [1985]. *Estado y Filosofía*, Agustín Jacinto Zavala (trans.), Michoacan, Mexico: El Colegio de Michoacan; includes “La crisis de la cultura japonesa” (1938), “El problema de la rasón de estado” (1941), and “Teoría dek *kokutai*” (1944).
-* 1944 [1970]. “Religious Consciousness and the Logic of the *Prajñāpāramitā Sūtra*”, David A. Dilworth (trans.), *Monumenta Nipponica*, 25(1/2): 203–216. doi:10.2307/2383746
+* 1944 [1970]. “Religious Consciousness and the Logic of the *Prajñāpāramitā Sūtra*”, David A. Dilworth (trans.), *Monumenta Nipponica*, 25(1/2): 203–216. doi: 10.2307/2383746
 * 1945a [1986]. “The Logic of *Topos* and the Religious Worldview”, Michiko Yusa (trans.), *The Eastern Buddhist* 19(2): 1–29 & 20(1): 81–119.
 * 1945b [1987]. *Last Writings: Nothingness and the Religious Worldview*, David Dilworth (trans.), Honolulu: University of Hawai‘i Press.
 
 ### Secondary Literature, A Selection in Western Languages
 
-* Abe, Masao, 1988, “Nishida’s Philosophy of ‘Place’”, *International Philosophical Quarterly*, 28(4): 355–371. doi:10.5840/ipq198828437
+* Abe, Masao, 1988, “Nishida’s Philosophy of ‘Place’”, *International Philosophical Quarterly*, 28(4): 355–371. doi: 10.5840/ipq198828437
   
-* –––, 1992, “‘Inverse Correspondence’ in the Philosophy of Nishida: The Emergence of the Notion”, *International Philosophical Quarterly*, 32(3): 325–344. doi:10.5840/ipq199232319
+* –––, 1992, “‘Inverse Correspondence’ in the Philosophy of Nishida: The Emergence of the Notion”, *International Philosophical Quarterly*, 32(3): 325–344. doi: 10.5840/ipq199232319
   
-* –––, 1995, “The Problem of ‘Inverse Correspondence’ in the Philosophy of Nishida: Toward a Critical Understanding”, *International Philosophical Quarterly*, 35(4): 419–436. doi:10.5840/ipq199535443
+* –––, 1995, “The Problem of ‘Inverse Correspondence’ in the Philosophy of Nishida: Toward a Critical Understanding”, *International Philosophical Quarterly*, 35(4): 419–436. doi: 10.5840/ipq199535443
   
-* Altman, Matthew C., 2020, “Nishida Among the Idealists”, *Philosophy East and West*, 70(4): 860–880. doi:10.1353/pew.2020.0061
+* Altman, Matthew C., 2020, “Nishida Among the Idealists”, *Philosophy East and West*, 70(4): 860–880. doi: 10.1353/pew.2020.0061
   
-* Arisaka, Yoko, 1996, “The Nishida Enigma: ‘The Principle of the New World Order’”, *Monumenta Nipponica*, 51(1): 81–106. doi:10.2307/2385317
+* Arisaka, Yoko, 1996, “The Nishida Enigma: ‘The Principle of the New World Order’”, *Monumenta Nipponica*, 51(1): 81–106. doi: 10.2307/2385317
   
-* –––, 1997, “Beyond ‘East and West’ Nishida’s Universalism and Postcolonial Critique”, *The Review of Politics*, 59(3): 541–560. doi:10.1017/S0034670500027716
+* –––, 1997, “Beyond ‘East and West’ Nishida’s Universalism and Postcolonial Critique”, *The Review of Politics*, 59(3): 541–560. doi: 10.1017/S0034670500027716
   
 * –––, 2001, “The Ontological Co-Emergence of ‘Self and Other’ in Japanese Philosophy”, *Journal of Consciousness Studies*, 8(5–7): 197–208.
   
@@ -265,17 +265,17 @@
   
 * Asquith, Pamela J., 2002, “Introduction”, to the English translation of *A Japanese View of Nature: The World of Living Things*, by Kinji Imanishi, London/New York: RoutledgeCurzon, xix–xliii.
   
-* Axtell, G. S., 1991, “Comparative Dialectics: Nishida Kitarō’s Logic of Place and Western Dialectical Thought”, *Philosophy East and West*, 41(2): 163–184. doi:10.2307/1399768
+* Axtell, G. S., 1991, “Comparative Dialectics: Nishida Kitarō’s Logic of Place and Western Dialectical Thought”, *Philosophy East and West*, 41(2): 163–184. doi: 10.2307/1399768
   
-* Baek, Jin, 2008, “From the ‘Topos of Nothingness’ to the ‘Space of Transparency’: Kitarō Nishida’s Notion of Shintai and Its Influence on Art and Architecture (Part 1)”, *Philosophy East and West*, 58(1): 83–107. doi:10.1353/pew.2008.0005
+* Baek, Jin, 2008, “From the ‘Topos of Nothingness’ to the ‘Space of Transparency’: Kitarō Nishida’s Notion of Shintai and Its Influence on Art and Architecture (Part 1)”, *Philosophy East and West*, 58(1): 83–107. doi: 10.1353/pew.2008.0005
   
-* –––, 2009, *Nothingness: Tadao Ando’s Christian Sacred Space*, Abingdon/New York: Routledge. doi:10.4324/9780203642818
+* –––, 2009, *Nothingness: Tadao Ando’s Christian Sacred Space*, Abingdon/New York: Routledge. doi: 10.4324/9780203642818
   
-* Botz-Bornstein, Thorsten, 2003, “Nishida and Wittgenstein: From ‘Pure Experience’ to *Lebensform* or New Perspectives for a Philosophy of Intercultural Communication”, *Asian Philosophy*, 13(1): 53–70. doi:10.1080/09552360301662
+* Botz-Bornstein, Thorsten, 2003, “Nishida and Wittgenstein: From ‘Pure Experience’ to *Lebensform* or New Perspectives for a Philosophy of Intercultural Communication”, *Asian Philosophy*, 13(1): 53–70. doi: 10.1080/09552360301662
   
 * –––, 2004, “The ‘I’ and the ‘Thou’: A Dialogue between Nishida Kitarō and Mikhail Bakhtin”, *Japan Review*, 16: 259–284.
   
-* –––, 2022, “Nishida Kitarō and Muhammad ‘Abduh on God and Reason: Towards a Theology of Place”, *Asian Philosophy*, 32(2): 105–125. doi:10.1080/09552367.2022.2044453
+* –––, 2022, “Nishida Kitarō and Muhammad ‘Abduh on God and Reason: Towards a Theology of Place”, *Asian Philosophy*, 32(2): 105–125. doi: 10.1080/09552367.2022.2044453
   
 * Bouso García, Raquel and James W. Heisig (eds), 2009, *Confluences and Cross-Currents* (Frontiers of Japanese Philosophy 6), Nagoya: Nanzan Institute for Religion and Culture.
   
@@ -283,7 +283,7 @@
   
 * Carter, Robert Edgar, 1989 [1998], *The Nothingness beyond God: An Introduction to the Philosophy of Nishida Kitarō*, New York, NY: Paragon House. Second edition, St. Paul, MN: Paragon House, 1998.
   
-* Campo, Alessandra, 2023, “Henri Bergson’s Complete Mysticism and Kitaro Nishida’s Energetism: A Case of Common Intuition”, *Bergsoniana*, 3. doi:10.4000/bergsoniana.1316
+* Campo, Alessandra, 2023, “Henri Bergson’s Complete Mysticism and Kitaro Nishida’s Energetism: A Case of Common Intuition”, *Bergsoniana*, 3. doi: 10.4000/bergsoniana.1316
   
 * Cestari, Matteo, 1998, “The Knowing Body: Nishida’s Philosophy of Active Intuition (*Kōiteki chokkan*)”, *The Eastern Buddhist*, 31(2): 179–208.
   
@@ -305,39 +305,39 @@
   
 * –––, 2006, “Toward a World of Worlds: Nishida, the Kyoto School, and the Place of Cross-Cultural Dialogue”, in [Heisig 2006](https://plato.stanford.edu/entries/nishida-kitaro/#FJP1): 205–245. [[Davis 2006 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP1-Davis.pdf)]
   
-* Davis, Bret, 2013, “Nishida’s Multicultural Worldview: Contemporary Significance and Immanent Critique”, *Nishida Tetsugakukai Nenpō/Journal of Nishida Philosophy Association*, 10: 203–183. doi:10.32133/jnpa.10.0_203
+* Davis, Bret, 2013, “Nishida’s Multicultural Worldview: Contemporary Significance and Immanent Critique”, *Nishida Tetsugakukai Nenpō/Journal of Nishida Philosophy Association*, 10: 203–183. doi: 10.32133/jnpa.10.0_203
   
 * –––, 2014, “Ethical and Religious Alterity: Nishida after Levinas”, in *Kitarō Nishida in der Philosophie des 20. Jahrhunderts*, Rolf Elberfeld and Yōko Arisaka (eds), Freiburg: Verlag Karl Alber.
   
-* ––– (ed.), 2020, *The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press. doi:10.1093/oxfordhb/9780199945726.001.0001
+* ––– (ed.), 2020, *The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press. doi: 10.1093/oxfordhb/9780199945726.001.0001
   
-* Dilworth, David, 1969, “The Initial Formations of ‘Pure Experience’ in Nishida Kitarō and William James”, *Monumenta Nipponica*, 24(1/2): 93–111. doi:10.2307/2383764
+* Dilworth, David, 1969, “The Initial Formations of ‘Pure Experience’ in Nishida Kitarō and William James”, *Monumenta Nipponica*, 24(1/2): 93–111. doi: 10.2307/2383764
   
-* –––, 1970, “Nishida’s Early Pantheistic Voluntarism”, *Philosophy East and West*, 20(1): 35–49. doi:10.2307/1397658
+* –––, 1970, “Nishida’s Early Pantheistic Voluntarism”, *Philosophy East and West*, 20(1): 35–49. doi: 10.2307/1397658
   
-* –––, 1973, “Nishida Kitaro: Nothingness as the Negative Space of Experiential Immediacy”, *International Philosophical Quarterly*, 13(4): 463–483. doi:10.5840/ipq197313468
+* –––, 1973, “Nishida Kitaro: Nothingness as the Negative Space of Experiential Immediacy”, *International Philosophical Quarterly*, 13(4): 463–483. doi: 10.5840/ipq197313468
   
-* Duvernoy, Russell J., 2022, “The ‘Beautiful Soul’ and ‘Religious Consciousness’: Deleuze and Nishida”, *Comparative and Continental Philosophy*, 14(1): 30–43. doi:10.1080/17570638.2022.2098560
+* Duvernoy, Russell J., 2022, “The ‘Beautiful Soul’ and ‘Religious Consciousness’: Deleuze and Nishida”, *Comparative and Continental Philosophy*, 14(1): 30–43. doi: 10.1080/17570638.2022.2098560
   
 * Elberfeld, Rolf, 1999, *Kitarō Nishida (1870–1945): Das Verstehen der Kulturen: Moderne japanische Philosophie und die Frage nach der Interkulturalität*, Amsterdam & Atlanta: Rodopi.
   
 * Elberfeld, Rolf and Yōko Arisaka (eds), 2014, *Kitarō Nishida in der Philosophie des 20. Jahrhunderts, Mit Texten Nishidas in deutscher Übersetzung*, Freiburg: Verlag Karl Alber.
   
-* Elwood, Brian D., 1994, “The Problem of the Self in the Later Nishida and in Sartre”, *Philosophy East and West*, 44(2): 303–316. doi:10.2307/1399596
+* Elwood, Brian D., 1994, “The Problem of the Self in the Later Nishida and in Sartre”, *Philosophy East and West*, 44(2): 303–316. doi: 10.2307/1399596
   
 * Endres, Tobias, Ralf Müller, and Dominico Schneider (eds), 2023, *Kyoto in Davos. Intercultural Readings of the Cassirer-Heidegger Debate*. Leiden/Boston: Brill.
   
-* Feenberg, Andrew, 1999, “Experience and Culture: Nishida’s Path ‘To the Things Themselves’”, *Philosophy East and West*, 49(1): 28–44. doi:10.2307/1400115
+* Feenberg, Andrew, 1999, “Experience and Culture: Nishida’s Path ‘To the Things Themselves’”, *Philosophy East and West*, 49(1): 28–44. doi: 10.2307/1400115
   
 * –––, 2019, *Nishida, Kawabata, and the Japanese Response to Modernity*, Nagoya: Chisokudō Publications.
   
-* Feenberg, Andrew and Yoko Arisaka, 1990, “Experiential Ontology: The Origins of the Nishida Philosophy in the Doctrine of Pure Experience”, *International Philosophical Quarterly*, 30(2): 173–205. doi:10.5840/ipq19903023
+* Feenberg, Andrew and Yoko Arisaka, 1990, “Experiential Ontology: The Origins of the Nishida Philosophy in the Doctrine of Pure Experience”, *International Philosophical Quarterly*, 30(2): 173–205. doi: 10.5840/ipq19903023
   
 * Fongaro, Enrico, 2017, “Bodily Present Activity in History: An Artistic Streak in Nishida Kitarōs’s Thought”, in [Yusa 2017](https://plato.stanford.edu/entries/nishida-kitaro/#yusa2017): 167–186 (ch. 7).
   
-* Fukao Kenjiro, 2023, “Life Philosophy of Bin Kimura”, *Psychiatry and Clinical Neurosciences*, 24, first online 24 September 2023. doi:10.1002/pcn5.145
+* Fukao Kenjiro, 2023, “Life Philosophy of Bin Kimura”, *Psychiatry and Clinical Neurosciences*, 24, first online 24 September 2023. doi: 10.1002/pcn5.145
   
-* Gaudenzi, Rocco, 2022, “Yoichiro Nambu and the Collective Description of Many-Particle Systems”, in his *Historical Roots of Spontaneous Symmetry Breaking: Steps towards an Analogy* (SpringerBriefs in History of Science and Technology), Cham: Springer, 47–67. doi:10.1007/978-3-030-99895-0_3
+* Gaudenzi, Rocco, 2022, “Yoichiro Nambu and the Collective Description of Many-Particle Systems”, in his *Historical Roots of Spontaneous Symmetry Breaking: Steps towards an Analogy* (SpringerBriefs in History of Science and Technology), Cham: Springer, 47–67. doi: 10.1007/978-3-030-99895-0_3
   
 * Ghilardi, Marcello, 2008, “Between Aesthetics and Ethics: The Experience of Seeing in Nicholas Cusanus and Nishida Kitarō”, in [Heisig and Uehara 2008](https://plato.stanford.edu/entries/nishida-kitaro/#FJP3): 140–154. [[Ghilardi 2008 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP3-Ghilardi.pdf)]
   
@@ -357,15 +357,15 @@
   
 * –––, 1989, *Disputers of the Tao: Philosophical Argumentation in Ancient China*, LaSalle, IL: Open Court.
   
-* Grosz, Elizabeth McManaman, 2014, “Nishida and the Historical World: An Examination of Active Intuition, the Body, and Time”, *Comparative and Continental Philosophy*, 6(2): 143–157. doi:10.1179/1757063814Z.00000000038
+* Grosz, Elizabeth McManaman, 2014, “Nishida and the Historical World: An Examination of Active Intuition, the Body, and Time”, *Comparative and Continental Philosophy*, 6(2): 143–157. doi: 10.1179/1757063814Z.00000000038
   
-* –––, 2016, “Reading Nishida through Shinran: Absolute Nothingness, Other Power, and Religious Consciousness”, *Journal of Buddhist Philosophy*, 2: 172–186. doi:10.1353/jbp.2016.0008
+* –––, 2016, “Reading Nishida through Shinran: Absolute Nothingness, Other Power, and Religious Consciousness”, *Journal of Buddhist Philosophy*, 2: 172–186. doi: 10.1353/jbp.2016.0008
   
-* Hashi, Hisaki, 2007, “The Significance of Einstein’s Theory of Relativity in Nishida’s ‘Logic of Field’”, *Philosophy East and West*, 57(4): 457–481. doi:10.1353/pew.2007.0048
+* Hashi, Hisaki, 2007, “The Significance of Einstein’s Theory of Relativity in Nishida’s ‘Logic of Field’”, *Philosophy East and West*, 57(4): 457–481. doi: 10.1353/pew.2007.0048
   
-* Haver, William, 2012, “Introduction”, to Nishida 2012c: 1–33. doi:10.1215/9780822394983-001
+* Haver, William, 2012, “Introduction”, to Nishida 2012c: 1–33. doi: 10.1215/9780822394983-001
   
-* –––, 2017, “The Labor Process and the Genesis of Historical Time: With Marx, With Nishida”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 59–78 (ch. 2). doi:10.1163/9789004343900_004
+* –––, 2017, “The Labor Process and the Genesis of Historical Time: With Marx, With Nishida”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 59–78 (ch. 2). doi: 10.1163/9789004343900_004
   
 * Heisig, James W., 2001, *Philosophers of Nothingness: An Essay on the Kyoto School* (Nanzan Library of Asian Religion and Culture), Honolulu: University of Hawai’i Press.
   
@@ -381,21 +381,21 @@
   
 * Heisig, James W. and Uehara Mayuko (eds), 2008, *Origins and Possibilities*, (Frontiers of Japanese Philosophy 3), Nagoya: Nanzan Institute for Religion and Culture.
   
-* Heleno, José Manuel, 2018, “The Ontology of Production: Karl Marx and Nishida Kitaró”, *International Journal of Philosophy and Social Values*, 1(2): 51–64. doi:10.34632/PHILOSOPHYANDSOCIALVALUES.2018.2709
+* Heleno, José Manuel, 2018, “The Ontology of Production: Karl Marx and Nishida Kitaró”, *International Journal of Philosophy and Social Values*, 1(2): 51–64. doi: 10.34632/PHILOSOPHYANDSOCIALVALUES.2018.2709
   
 * Higaki Tatsuya, 2020, *Nishida Kitarō’s Philosophy of Life*, Milan: Mimesis International.
   
 * Huang Wen-hong, 2009, “The Shift in Nishida’s Logic of Place”, in [Lam and Cheung 2009](https://plato.stanford.edu/entries/nishida-kitaro/#FJP4): 135–151. [[Huang 2009 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP4-Huang.pdf)]
   
-* Huh, Woo-Sung, 1990, “The Philosophy of History in the ‘Later’ Nishida: A Philosophic Turn”, *Philosophy East and West*, 40(3): 343–374. doi:10.2307/1399428
+* Huh, Woo-Sung, 1990, “The Philosophy of History in the ‘Later’ Nishida: A Philosophic Turn”, *Philosophy East and West*, 40(3): 343–374. doi: 10.2307/1399428
   
 * –––, 2009, “Thinking and Perceiving: Nishida and Park as Embodied Subjects?”, in [Lam and Cheung 2009](https://plato.stanford.edu/entries/nishida-kitaro/#FJP4): 264–292. [[Huh 2009 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP4-Huh.pdf)]
   
-* Ishihara, Yuko, 2011, “Later Nishida on Self-Awareness: *Have I Lost Myself Yet?*”, *Asian Philosophy*, 21(2): 193–211. doi:10.1080/09552367.2011.563995
+* Ishihara, Yuko, 2011, “Later Nishida on Self-Awareness: *Have I Lost Myself Yet?*”, *Asian Philosophy*, 21(2): 193–211. doi: 10.1080/09552367.2011.563995
   
 * Itabashi Yūjin, 2016, “Die individuelle Selbsterschaffung der geschichtlichen Welt und der Staat ‘Staat’ und ‘Volk’ in der Philosophie Nishida Kitarōs”, *European Journal of Japanese Philosophy*, 1: 75–106. [[Itabashi 2016 available online](https://ejjpenojp.files.wordpress.com/2021/05/ejjp-1-4-itabashi.pdf)]
   
-* –––, 2018, “Grounded on Nothing: The Spirit of Radical Criticism in Nishida’s Philosophy”, *Philosophy East and West*, 68(1): 97–111. doi:10.1353/pew.2018.0005
+* –––, 2018, “Grounded on Nothing: The Spirit of Radical Criticism in Nishida’s Philosophy”, *Philosophy East and West*, 68(1): 97–111. doi: 10.1353/pew.2018.0005
   
 * Ito, Kenji, 2022, “Early Japanese Reactions to the Interpretation of Quantum Mechanics, 1927–1943”, in *The Oxford Handbook of the History of Quantum Interpretations*, Olival Freire (ed.), Oxford/New York: Oxford University Press, 687–708 (ch. 27).
   
@@ -409,29 +409,29 @@
   
 * ––– (ed.), 2012, *Alternatives Filosóicas: Investigaciones recientes sobre Nishida Kitarō*, Michoacan, Mexico: El Colegio de Michoacan.
   
-* Jiang, Tao, 2005, “The Problematic of Continuity: Nishida Kitarō and Aristotle”, *Philosophy East and West*, 55(3): 447–460. doi:10.1353/pew.2005.0025
+* Jiang, Tao, 2005, “The Problematic of Continuity: Nishida Kitarō and Aristotle”, *Philosophy East and West*, 55(3): 447–460. doi: 10.1353/pew.2005.0025
   
-* Johnson, David W., 2014, “Perception, Expression, and the Continuity of Being: Some Intersections between Nishida and Gadamer”, *Asian Philosophy*, 24(1): 48–66. doi:10.1080/09552367.2014.871104
+* Johnson, David W., 2014, “Perception, Expression, and the Continuity of Being: Some Intersections between Nishida and Gadamer”, *Asian Philosophy*, 24(1): 48–66. doi: 10.1080/09552367.2014.871104
   
-* –––, 2017, “Acting-Intuition and the Achievement of Perception: Merleau-Ponty with Nishida”, *Philosophy East and West*, 67(3): 693–709. doi:10.1353/pew.2017.0059
+* –––, 2017, “Acting-Intuition and the Achievement of Perception: Merleau-Ponty with Nishida”, *Philosophy East and West*, 67(3): 693–709. doi: 10.1353/pew.2017.0059
   
 * Kaye, Bradley, 2022, *Marx after the Kyoto School: Utopia and the Pure Land*, Lanham, MD: Rowman & Littlefield.
   
-* Kobayashi,Toshiaki, 2002, *Denken des Fremden: Am Beispiel von Kitarō Nishida*, Frankfurt am Mein: Stroemfeld Verlag.
+* Kobayashi, Toshiaki, 2002, *Denken des Fremden: Am Beispiel von Kitarō Nishida*, Frankfurt am Mein: Stroemfeld Verlag.
   
 * Kasulis, Thomas P., 2018, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i Press.
   
-* Kazashi, Nobuo, 2012, “Metamorphoses of ‘Pure Experience’: Buddhist, Enactive and Historical Turns in Nishida”, in *Education and the Kyoto School of Philosophy: Pedagogy for Human Transformation*, Paul Standish and Naoko Saito (eds), Dordrecht: Springer Netherlands, 77–90 (ch. 7). doi:10.1007/978-94-007-4047-1_7
+* Kazashi, Nobuo, 2012, “Metamorphoses of ‘Pure Experience’: Buddhist, Enactive and Historical Turns in Nishida”, in *Education and the Kyoto School of Philosophy: Pedagogy for Human Transformation*, Paul Standish and Naoko Saito (eds), Dordrecht: Springer Netherlands, 77–90 (ch. 7). doi: 10.1007/978-94-007-4047-1_7
   
 * Kopf, Gereon, 2001, *Beyond Personal Identity: Dōgen, Nishida, and a Phenomenology of No-Self*, Richmond, Surrey: Curzon Press.
   
-* –––, 2002, “Temporality and Personal Identity in the Thought of Nishida Kitarō”, *Philosophy East and West*, 52(2): 224–245. doi:10.1353/pew.2002.0028
+* –––, 2002, “Temporality and Personal Identity in the Thought of Nishida Kitarō”, *Philosophy East and West*, 52(2): 224–245. doi: 10.1353/pew.2002.0028
   
-* –––, 2003, “On the Brink of Postmodernity: Recent Japanese Language Publications on the Philosophy of Nishida Kitarō”, *Japanese Journal of Religious Studies*, 30(1/2): 133–156. doi:10.18874/jjrs.30.1-2.2003.133-156
+* –––, 2003, “On the Brink of Postmodernity: Recent Japanese Language Publications on the Philosophy of Nishida Kitarō”, *Japanese Journal of Religious Studies*, 30(1/2): 133–156. doi: 10.18874/jjrs.30.1-2.2003.133-156
   
-* –––, 2004, “Between Identity and Difference: Three Ways of Reading Nishida’s Non-Dualism.”, *Japanese Journal of Religious Studies*, 31(1): 73–103. doi:10.18874/jjrs.31.1.2004.73–103
+* –––, 2004, “Between Identity and Difference: Three Ways of Reading Nishida’s Non-Dualism.”, *Japanese Journal of Religious Studies*, 31(1): 73–103. doi: 10.18874/jjrs.31.1.2004.73–103
   
-* Kozyra, Agnieszka, 2018, “Nishida Kitarōs Philosophy of Absolute Nothingness (*Zettaimu no Tetsugaku*) and Modern Theoretical Physics”, *Philosophy East and West*, 68(2): 423–446. doi:10.1353/pew.2018.0039
+* Kozyra, Agnieszka, 2018, “Nishida Kitarōs Philosophy of Absolute Nothingness (*Zettaimu no Tetsugaku*) and Modern Theoretical Physics”, *Philosophy East and West*, 68(2): 423–446. doi: 10.1353/pew.2018.0039
   
 * Kracht, Klaus, 1984, “Nishida Kitarō (1870–1945) as a Philosopher of the State”, in *Europe Interprets Japan*, Gordon Daniels (ed.), Tenterden, Kent: Paul Norbury Publications, ch. 25.
   
@@ -441,7 +441,7 @@
   
 * Krings, Leon, Francesco Greco, and Yukiko Kuwayama (eds), 2021, *Transitions: Crossing Boundaries in Japanese Philosophy* (Frontiers of Japanese Philosophy 10), Nagoya: Chisoludō Publications.
   
-* Krueger, Joel W., 2008, “Nishida, Agency, and the ‘Self-Contradictory’ Body”, *Asian Philosophy*, 18(3): 213–229. doi:10.1080/09552360802439993
+* Krueger, Joel W., 2008, “Nishida, Agency, and the ‘Self-Contradictory’ Body”, *Asian Philosophy*, 18(3): 213–229. doi: 10.1080/09552360802439993
   
 * Kruger, Matthew C., 2019, *The Gospel and Nothingness*, Nagoya: Chisokudō Publications.
   
@@ -451,45 +451,45 @@
   
 * –––, 2015a, *Nishida Kitarō’s Chiasmatic Chorology: Place of Dialectic, Dialectic of Place*, Bloomington, IN: Indiana University Press.
   
-* –––, 2015b, “Embodied Implacement in Kūkai and Nishida”, *Philosophy East and West*, 65(3): 786–808. doi:10.1353/pew.2015.0076
+* –––, 2015b, “Embodied Implacement in Kūkai and Nishida”, *Philosophy East and West*, 65(3): 786–808. doi: 10.1353/pew.2015.0076
   
-* –––, 2019, “Lask, Heidegger, and Nishida: From Meaning as Object to Horizon and Place”, *Heidegger Circle Proceedings*, 53: 131–144. doi:10.5840/heideggercircle20195311
+* –––, 2019, “Lask, Heidegger, and Nishida: From Meaning as Object to Horizon and Place”, *Heidegger Circle Proceedings*, 53: 131–144. doi: 10.5840/heideggercircle20195311
   
 * Lam Win-keung, 2006, “Redefining Philosophy Through Assimilation: Nishida Kitarō and Mou Zong-San”, in [Heisig 2006](https://plato.stanford.edu/entries/nishida-kitaro/#FJP1): 22–38. [[Lam 2006 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP1-Lam.pdf)]
   
-* –––, 2023, “Reading Nishida Kitarō as a New Confucian: With a Focus on His Early Moral Philosophy”, *Asian Philosophy*, 33(1): 15–28. doi:10.1080/09552367.2022.2151088
+* –––, 2023, “Reading Nishida Kitarō as a New Confucian: With a Focus on His Early Moral Philosophy”, *Asian Philosophy*, 33(1): 15–28. doi: 10.1080/09552367.2022.2151088
   
 * Lam Wing-keung and Cheung Ching-yuen (eds), 2009, *Facing the Twenty-First Century*, (Frontiers of Japanese Philosophy 4), Nagoya: Nanzan Institute for Religion and Culture.
   
 * Lange, Elena Louisa, 2014, “Waren-und Substanzfetisch—Zum Verhältnis von Intention und Explikation in Nishida Kitarōs ‘Ort’”, in *Begriff und Bild der modernen japanischen Philosophie*, Raji C. Steineck, Elena Louisa Lange, and Paulus Kaufmann (eds), Stuttgart–Bad Cannstatt: Frommann–Holzboog, 107–122.
   
-* –––, 2017, “Commodity Fetishism and the Fetishism of Nothingness: On the Problem of Inversion in Marx and Nishida”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 79–104 (ch. 3). doi:10.1163/9789004343900_005
+* –––, 2017, “Commodity Fetishism and the Fetishism of Nothingness: On the Problem of Inversion in Marx and Nishida”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 79–104 (ch. 3). doi: 10.1163/9789004343900_005
   
 * Laozi, *Daodejing*, Roger Ames and David Hall (trans.), *Dao De Jing: A Philosophical Translation*, New York: Ballantine Books, 2003.
   
-* Lavelle, Pierre, 1994, “The Political Thought of Nishida Kitarō”, *Monumenta Nipponica*, 49(2): 139–165. doi:10.2307/2385167
+* Lavelle, Pierre, 1994, “The Political Thought of Nishida Kitarō”, *Monumenta Nipponica*, 49(2): 139–165. doi: 10.2307/2385167
   
-* Leonardi, Andrea, 2014, “Mysticism and The Notion of God in Nishida’s Philosophy of Religion”, *Philosophy East and West*, 64(2): 449–472. doi:10.1353/pew.2014.0034
+* Leonardi, Andrea, 2014, “Mysticism and The Notion of God in Nishida’s Philosophy of Religion”, *Philosophy East and West*, 64(2): 449–472. doi: 10.1353/pew.2014.0034
   
-* Lofts, Steve G., 2020, “Toward A Dialogue Between Ernst Cassirer (1874–1945) and Nishida Kitarō (1870–1945)”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 16: 124–198. doi:10.32133/jnpa.16.0_98
+* Lofts, Steve G., 2020, “Toward A Dialogue Between Ernst Cassirer (1874–1945) and Nishida Kitarō (1870–1945)”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 16: 124–198. doi: 10.32133/jnpa.16.0_98
   
-* –––, 2021a, “Jacques Derrida, Dōgen Kigen, Nishida Kitarō: The Aporetic Logic of the Singular Event of Thinking-Language-Being-Time”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 18: 94–69. doi:10.32133/jnpa.18.0_69
+* –––, 2021a, “Jacques Derrida, Dōgen Kigen, Nishida Kitarō: The Aporetic Logic of the Singular Event of Thinking-Language-Being-Time”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 18: 94–69. doi: 10.32133/jnpa.18.0_69
   
-* –––, 2021b, “Ernst Cassirer in Japanese Philosophy”, *Journal of Transcendental Philosophy*, 2(1): 143–165. doi:10.1515/jtph-2021-0007
+* –––, 2021b, “Ernst Cassirer in Japanese Philosophy”, *Journal of Transcendental Philosophy*, 2(1): 143–165. doi: 10.1515/jtph-2021-0007
   
-* López Sáenz, Maria Carmen, 2018, “An Approach to Comparative Phenomenology: Nishida’s Place of Nothingness and Merleau-Ponty’s Negativity”, *Philosophy East and West*, 68(2): 497–515. doi:10.1353/pew.2018.0043
+* López Sáenz, Maria Carmen, 2018, “An Approach to Comparative Phenomenology: Nishida’s Place of Nothingness and Merleau-Ponty’s Negativity”, *Philosophy East and West*, 68(2): 497–515. doi: 10.1353/pew.2018.0043
   
 * Loughnane, Adam, 2019, *Merleau-Ponty and Nishida: Artistic Expression as Motor-Perceptual Faith*, Albany, NY: State University of New York Press.
   
-* Lupacchini, Rossella, 2021, “A Philosophical Path from Königsberg to Kyoto: The Science of the Infinite and the Philosophy of Nothingness”, *Sophia*, 60(4): 851–868. doi:10.1007/s11841-020-00776-7
+* Lupacchini, Rossella, 2021, “A Philosophical Path from Königsberg to Kyoto: The Science of the Infinite and the Philosophy of Nothingness”, *Sophia*, 60(4): 851–868. doi: 10.1007/s11841-020-00776-7
   
 * –––, 2023, “Cassirer and Nishida: Mathematical Crosscurrents in Their Philosophical Paths”, in [Endres, Müller, and Schneider 2023](https://plato.stanford.edu/entries/nishida-kitaro/#EMS): 214–241 (ch. 7).
   
 * Mafli, Paul, 1996, *Nishida Kitarōs Denkweg*, München: Iudicium Verlag.
   
-* Maraldo, John C., 1989, “Translating Nishida”, *Philosophy East and West*, 39(4): 465–496. doi:10.2307/1399322
+* Maraldo, John C., 1989, “Translating Nishida”, *Philosophy East and West*, 39(4): 465–496. doi: 10.2307/1399322
   
-* –––, 2006, “The War Over the Kyoto School”, *Monumenta Nipponica*, 61(3): 375–406. doi:10.1353/mni.2006.0032
+* –––, 2006, “The War Over the Kyoto School”, *Monumenta Nipponica*, 61(3): 375–406. doi: 10.1353/mni.2006.0032
   
 * –––, 2017–2023, *Japanese Philosophy in the Making*, Nagoya: Chisokudō Publications, 3 volumes.
   
@@ -499,7 +499,7 @@
   
   Critical reviews of the first two volumes with a response, in *European Journal of Japanese Philosophy*, 7(2022): 7–169. [[Maraldo reviews 2022 available online (pdf)](https://ejjpenojp.files.wordpress.com/2022/10/ejjp-7-maraldo-symposium-1.pdf)]
   
-* Matsumaru Hisao, Arisaka Yoko, and Lucy Christine Schultz (eds), 2022, *Tetsugaku Companion to Nishida Kitarō*, (Tetsugaku Companions to Japanese Philosophy 4), Cham: Springer. doi:10.1007/978-3-319-41784-4
+* Matsumaru Hisao, Arisaka Yoko, and Lucy Christine Schultz (eds), 2022, *Tetsugaku Companion to Nishida Kitarō*, (Tetsugaku Companions to Japanese Philosophy 4), Cham: Springer. doi: 10.1007/978-3-319-41784-4
   
 * Mayeda, Graham, 2020, *Japanese Philosophers on Society and Culture: Nishida Kitarō, Watsuji Tetsurō, and Kuki Shūzo*, Lanham, MD: Lexington Books.
   
@@ -507,9 +507,9 @@
   
 * –––, 2021, “Nishida’s *An Inquiry into the Good* and Japanese and German Thought in the Late Nineteenth Century”, *European Journal of Japanese Philosophy*, 6: 7–33. [[Mitsuhara 2021 available online](https://ejjpenojp.files.wordpress.com/2021/12/ejjp-6-1-mitsuhara.pdf)]
   
-* Müller, Ralf, 2018, “Formwerdung und Formlosigkeit der Form: Die Beiträge von Ernst Cassirer und Nishida Kitarō zur Lebensphilosophie”, in *Ernst Cassirer in systematischen Beziehungen: Zur kritisch-kommunikativen Bedeutung seiner Kulturphilosophie*, Thiemo Breyer and Stefan Niklas (eds), Berlin: De Gruyter, 195–216. doi:10.1515/9783110549478-011
+* Müller, Ralf, 2018, “Formwerdung und Formlosigkeit der Form: Die Beiträge von Ernst Cassirer und Nishida Kitarō zur Lebensphilosophie”, in *Ernst Cassirer in systematischen Beziehungen: Zur kritisch-kommunikativen Bedeutung seiner Kulturphilosophie*, Thiemo Breyer and Stefan Niklas (eds), Berlin: De Gruyter, 195–216. doi: 10.1515/9783110549478-011
   
-* Murthy, Viren, Fabian Schäfer, and Max Ward (eds), 2017, *Confronting Capital and Empire: Rethinking Kyoto School Philosophy* (Brill’s Series on Modern East Asia in a Global Historical Perspective 6), Leiden/Boston: Brill. doi:10.1163/9789004343900
+* Murthy, Viren, Fabian Schäfer, and Max Ward (eds), 2017, *Confronting Capital and Empire: Rethinking Kyoto School Philosophy* (Brill’s Series on Modern East Asia in a Global Historical Perspective 6), Leiden/Boston: Brill. doi: 10.1163/9789004343900
   
 * Nishitani, Keiji, 1991/2016, *Nishida Kitarō*, Yamamoto Seisaku and James W. Heisig (trans), Nagoya: Chisokudō Publications.
   
@@ -517,41 +517,41 @@
   
 * Odagiri Takushi, 2008, “From Self-Reflexivity to Contingency: Nishida Kitarō on Self-Knowledge”, in [Heisig and Uehara 2008](https://plato.stanford.edu/entries/nishida-kitaro/#FJP3): 73–92. [[Odagiri 2008 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP3-Odagiri.pdf)]
   
-* –––, 2012, “On Nishida’s Rationality Thesis”, *Philosophy East and West*, 62(2): 197–222. doi:10.1353/pew.2012.0022
+* –––, 2012, “On Nishida’s Rationality Thesis”, *Philosophy East and West*, 62(2): 197–222. doi: 10.1353/pew.2012.0022
   
 * Odin, Steve, 2018, “Beauty as Ecstasy in the Aesthetics of Nishida and Schopenhauer”, in *New Essays in Japanese Aesthetics*, A. Minh Nguyen (ed.), Lanham, MD: Lexington Books, 45–60 (ch. 4).
   
-* Osaki, Harumi, 2015, “Pure Experience In Question: William James in the Philosophies of Nishida Kitarō and Alfred North Whitehead”, *Philosophy East and West*, 65(4): 1234–1252. doi:10.1353/pew.2015.0086
+* Osaki, Harumi, 2015, “Pure Experience In Question: William James in the Philosophies of Nishida Kitarō and Alfred North Whitehead”, *Philosophy East and West*, 65(4): 1234–1252. doi: 10.1353/pew.2015.0086
   
 * –––, 2019, *Nothingness in the Heart of Empire: The Moral and Political Philosophy of the Kyoto School in Imperial Japan*, Albany, NY: State University of New York.
   
-* Parkes, Graham, 1997, “The Putative Fascism of the Kyoto School and the Political Correctness of the Modern Academy”, *Philosophy East and West*, 47(3): 305–336. doi:10.2307/1399908
+* Parkes, Graham, 1997, “The Putative Fascism of the Kyoto School and the Political Correctness of the Modern Academy”, *Philosophy East and West*, 47(3): 305–336. doi: 10.2307/1399908
   
-* Peerenboom, R. P., 1991, “The Religious Foundations of Nishida’s Philosophy”, *Asian Philosophy*, 1(2): 161–173. doi:10.1080/09552369108575345
+* Peerenboom, R. P., 1991, “The Religious Foundations of Nishida’s Philosophy”, *Asian Philosophy*, 1(2): 161–173. doi: 10.1080/09552369108575345
   
-* Peters, Kyle, 2018, “Artistic Production and the Making of the Artist: Applying Nishida Kitarō to Discussions of Authorship”, *Philosophy East and West*, 68(2): 477–496. doi:10.1353/pew.2018.0042
+* Peters, Kyle, 2018, “Artistic Production and the Making of the Artist: Applying Nishida Kitarō to Discussions of Authorship”, *Philosophy East and West*, 68(2): 477–496. doi: 10.1353/pew.2018.0042
   
-* Priest, Graham, 2009, “The Structure of Emptiness”, *Philosophy East and West*, 59(4): 467–480. doi:10.1353/pew.0.0069
+* Priest, Graham, 2009, “The Structure of Emptiness”, *Philosophy East and West*, 59(4): 467–480. doi: 10.1353/pew.0.0069
   
-* Putney, David, 1991, “Identity and the Unity of Experience: A Critique of Nishida’s Theory of Self”, *Asian Philosophy*, 1(2): 141–160. doi:10.1080/09552369108575344
+* Putney, David, 1991, “Identity and the Unity of Experience: A Critique of Nishida’s Theory of Self”, *Asian Philosophy*, 1(2): 141–160. doi: 10.1080/09552369108575344
   
 * Radhakrishnan, Sarvepalli and Charles A. Moore (eds), 1957, *A Sourcebook in Indian Philosophy*, Princeton, NJ: Princeton University Press.
   
-* Raud, Rein, 2004, “‘Place’ and ‘Being-Time’: Spatiotemporal Concepts in the Thought of Nishida Kitarō and Dōgen Kigen”, *Philosophy East and West*, 54(1): 29–51. doi:10.1353/pew.2003.0057
+* Raud, Rein, 2004, “‘Place’ and ‘Being-Time’: Spatiotemporal Concepts in the Thought of Nishida Kitarō and Dōgen Kigen”, *Philosophy East and West*, 54(1): 29–51. doi: 10.1353/pew.2003.0057
   
-* Rigsby, Curtis A., 2009, “Nishida on God, Barth and Christianity1”, *Asian Philosophy*, 19(2): 119–157. doi:10.1080/09552360902943761
+* Rigsby, Curtis A., 2009, “Nishida on God, Barth and Christianity1”, *Asian Philosophy*, 19(2): 119–157. doi: 10.1080/09552360902943761
   
-* Rhydwen, Thomas Parry, 2018, “A Confucian in Buddhist Clothing? – Interpreting Nishida’s Conception of the Good as a Realisation of the Mandate of Heaven”, *Asian Philosophy*, 28(4): 368–392. doi:10.1080/09552367.2018.1550862
+* Rhydwen, Thomas Parry, 2018, “A Confucian in Buddhist Clothing? – Interpreting Nishida’s Conception of the Good as a Realisation of the Mandate of Heaven”, *Asian Philosophy*, 28(4): 368–392. doi: 10.1080/09552367.2018.1550862
   
-* Rošker, Jana S., 2019, “A Philosophical Relation between Taiwan and Japan: Models of Dialectical Thought in Mou Zongsan’s and Nishida Kitaro’s Theories”, *Asian Philosophy*, 29(4): 333–350. doi:10.1080/09552367.2019.1699260
+* Rošker, Jana S., 2019, “A Philosophical Relation between Taiwan and Japan: Models of Dialectical Thought in Mou Zongsan’s and Nishida Kitaro’s Theories”, *Asian Philosophy*, 29(4): 333–350. doi: 10.1080/09552367.2019.1699260
   
 * Sakabe, Megumi, 2010, “Subject of the Absence and Absence of the Critique”, in *Asian Aesthetics*, Ken’ichi Sasaki (ed.), Kyoto: Kyoto University Press, ch. 2.
   
-* Sakakibara Tetsuya, 2010, “Phenomenology in a Different Voice: Husserl and Nishida in the 1930s”, in *Philosophy, Phenomenology, Sciences: Essays in Commemoration of Edmund Husserl*, Filip Mattens, Hanne Jacobs, and Carlo Ierna (eds), (Phaenomenologica 200), Dordrecht: Springer Netherlands, 679–694. doi:10.1007/978-94-007-0071-0_25
+* Sakakibara Tetsuya, 2010, “Phenomenology in a Different Voice: Husserl and Nishida in the 1930s”, in *Philosophy, Phenomenology, Sciences: Essays in Commemoration of Edmund Husserl*, Filip Mattens, Hanne Jacobs, and Carlo Ierna (eds), (Phaenomenologica 200), Dordrecht: Springer Netherlands, 679–694. doi: 10.1007/978-94-007-0071-0_25
   
 * Sanada Wataru, 2022, “Dialectical Monadology and Innumerable Species: The Concept of Species in Nishida Kitarōs Later Philosophy”, *European Journal of Japanese Philosophy*, 7: 191–217. [[Sanada 2022 available online](https://ejjpenojp.files.wordpress.com/2022/10/ejjp-7-sanada-1.pdf)]
   
-* Schultz, Lucy, 2012, “Nishida Kitarō, G.W.F. Hegel, and the Pursuit of the Concrete: A Dialectic of Dialectics”, *Philosophy East and West*, 62(3): 319–338. doi:10.1353/pew.2012.0051
+* Schultz, Lucy, 2012, “Nishida Kitarō, G.W.F. Hegel, and the Pursuit of the Concrete: A Dialectic of Dialectics”, *Philosophy East and West*, 62(3): 319–338. doi: 10.1353/pew.2012.0051
   
 * Shimizu, Takashi, 2008, “Quasi-Predicate Theory: A New Interpretation of Nishida”, in [Heisig and Uehara 2008](https://plato.stanford.edu/entries/nishida-kitaro/#FJP3): 194–208.
   
@@ -559,7 +559,7 @@
   
 * Steineck, Christian, 1998, “Wirklichkeit und Interkulturalität bei Nishida Kitarō: Eine Kritik”, in *Interkulturelle Philosophie und Phänomenologie in Japan. Beiträge zum Gespräch über Grenzen hinweg*, Tadashi Ogawa, Michael Lazarin, and Guido Rappe (eds), Munich: Iudicium Verlag: 265–288.
   
-* Stevens, Bernard, 1999, “La première esquisse du système nishidien”, *Revue Philosophique de Louvain*, 97(1): 9–18. doi:10.2143/RPL.97.1.541936
+* Stevens, Bernard, 1999, “La première esquisse du système nishidien”, *Revue Philosophique de Louvain*, 97(1): 9–18. doi: 10.2143/RPL.97.1.541936
   
 * –––, 2000, *Topologie du néant: Une approche de l’école de Kyōto*, Louvain-Paris: Éditions Peeters.
   
@@ -581,13 +581,13 @@
   
 * Stromback, Dennis, 2020a, “Nishida’s Resistance to Western Constructions of Religion”, *Journal of Japanese Philosophy*, 6: 63–94.
   
-* –––, 2020b, “Transcritique versus *basho*: Framing the Debate between Nishida Kitarō’s and Kōjin Karatani’s Standpoint of the ‘Third’”, *Asian Philosophy*, 30(1): 1–16. doi:10.1080/09552367.2020.1724249
+* –––, 2020b, “Transcritique versus *basho*: Framing the Debate between Nishida Kitarō’s and Kōjin Karatani’s Standpoint of the ‘Third’”, *Asian Philosophy*, 30(1): 1–16. doi: 10.1080/09552367.2020.1724249
   
-* –––, 2022, “The Political Dangers of Nishida’s View of Embodiment”, *Philosophy East and West*, 72(2): 432–452. doi:10.1353/pew.2022.0049
+* –––, 2022, “The Political Dangers of Nishida’s View of Embodiment”, *Philosophy East and West*, 72(2): 432–452. doi: 10.1353/pew.2022.0049
   
 * Sullivan, Laura Specker, “The Self-Contradictory Identity of the Personal Self: Nishida’s Argument agains Kantian Pure Theorectical Reason”, *Journal of Japanese Philosophy*, 2: 33–56.
   
-* Taguchi Shigeru and Andrea Altobrando (eds), 2019, *Tetsugaku Companion to Phenomenology and Japanese Philosophy*, Berlin: Springer. doi:10.1007/978-3-030-21942-0
+* Taguchi Shigeru and Andrea Altobrando (eds), 2019, *Tetsugaku Companion to Phenomenology and Japanese Philosophy*, Berlin: Springer. doi: 10.1007/978-3-030-21942-0
   
 * Tremblay, Jacynthe, 1999, “Universel et individual dans la logique du basho de Nishida”, *Revue Philosophique de Louvain*, 97: 30–56.
   
@@ -603,7 +603,7 @@
   
 * –––, 2009b, “Nishida Kitarō’s Language and Structure of Thought in the ‘Logic of Basho’”, in [Bouso García and Heisig 2009](https://plato.stanford.edu/entries/nishida-kitaro/#FJP6): 254–272. [Tremblay 2009 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP6Tremblay.pdf)
   
-* –––, 2017, “Translating ‘Self-Awareness: The System of Universals’: The linguistic resources of Nishida’s Philosophy”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 14: 171–145. doi:10.32133/jnpa.14.0_171
+* –––, 2017, “Translating ‘Self-Awareness: The System of Universals’: The linguistic resources of Nishida’s Philosophy”, *Nishida tetsugakukai nenpō/Journal of Nishida Philosophy Association*, 14: 171–145. doi: 10.32133/jnpa.14.0_171
   
 * –––, 2018, “Nishida et Bohr: L’influence de concept de complémentarité dan las philosophie du dernier Nishida”, *European Journal of Japanese Philosophy*, 3: 57–77. [[Tremblay 2018 available online](https://ejjpenojp.files.wordpress.com/2021/05/ejjp-3-3-tremblay.pdf)]
   
@@ -611,9 +611,9 @@
   
 * –––, forthcoming, *Concomitances et complémentarités. Entretiens avec Nishida Kitarō. Deuxième série*, Montreal: Presses de l’Université de Montréal.
   
-* Tyler, Elizabeth McManaman, 2019, “Nishida’s Bow: Evaluating Nishida’s Wartime Actions”, *Comparative and Continental Philosophy*, 11(1): 19–33. doi:10.1080/17570638.2019.1587566
+* Tyler, Elizabeth McManaman, 2019, “Nishida’s Bow: Evaluating Nishida’s Wartime Actions”, *Comparative and Continental Philosophy*, 11(1): 19–33. doi: 10.1080/17570638.2019.1587566
   
-* Ueda, Shizuteru, 1993, “Pure Experience, Self-Awareness, ‘Basho’”, *Études Phénoménologiques*, 9(18): 63–86. doi:10.5840/etudphen19939183
+* Ueda, Shizuteru, 1993, “Pure Experience, Self-Awareness, ‘Basho’”, *Études Phénoménologiques*, 9(18): 63–86. doi: 10.5840/etudphen19939183
   
 * –––, 1995a, “Nishida’s Thought”, *The Eastern Buddhist*, 28(1): 29–47.
   
@@ -623,15 +623,15 @@
   
 * –––, 2009, “Japanese Aspects of Nishida’s *Basho*: Seeing the ‘Form without Form’”, in [Lam and Cheung 2009](https://plato.stanford.edu/entries/nishida-kitaro/#FJP4): 152–164. [[Uehara 2009 available online (pdf)](https://www.chisokudo.org/wp-content/uploads/FJP4-Uehara.pdf)]
   
-* Uhl, Christian, 2009, “Displacing Japan: Takeuchi Yoshimi’s Lu Xun in Light of Nishida’s Philosophy, and Vice Versa”, *Positions: East Asia Cultures Critique*, 17(1): 207–237. doi:10.1215/10679847-2008-030
+* Uhl, Christian, 2009, “Displacing Japan: Takeuchi Yoshimi’s Lu Xun in Light of Nishida’s Philosophy, and Vice Versa”, *Positions: East Asia Cultures Critique*, 17(1): 207–237. doi: 10.1215/10679847-2008-030
   
-* –––, 2017, “Nishida Kitarō and the Antinomies of Bourgeois Philosophy”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 105–140 (ch. 4). doi:10.1163/9789004343900_006
+* –––, 2017, “Nishida Kitarō and the Antinomies of Bourgeois Philosophy”, in [Murthy, Schäfer, and Ward 2017](https://plato.stanford.edu/entries/nishida-kitaro/#refMSW2017): 105–140 (ch. 4). doi: 10.1163/9789004343900_006
   
-* Walsh, Dermott J., 2011, “The Confucian Roots of *zen no kenkyū*: Nishida’s Debt to Wang Yang-Ming in the Search for a Philosophy of Praxis”, *Asian Philosophy*, 21(4): 361–372. doi:10.1080/09552367.2011.635888
+* Walsh, Dermott J., 2011, “The Confucian Roots of *zen no kenkyū*: Nishida’s Debt to Wang Yang-Ming in the Search for a Philosophy of Praxis”, *Asian Philosophy*, 21(4): 361–372. doi: 10.1080/09552367.2011.635888
   
 * Wargo, Robert J., 2005, *The Logic of Nothingness: An Essay on Nishida Kitarō*, Honolulu, University of Hawai‘i Press.
   
-* Weinmayr, Elmar, 2005, “Thinking in Transition: Nishida Kitarō and Martin Heidegger”, John W. M Krummel and Douglas L. Berger (trans.), *Philosophy East and West*, 55(2): 232–256. doi:10.1353/pew.2005.0014
+* Weinmayr, Elmar, 2005, “Thinking in Transition: Nishida Kitarō and Martin Heidegger”, John W. M Krummel and Douglas L. Berger (trans.), *Philosophy East and West*, 55(2): 232–256. doi: 10.1353/pew.2005.0014
   
 * Wilkinson, Robert, 2009, *Nishida and Western Philosophy*, Surry, England and Burlington VT: Ashgate.
   

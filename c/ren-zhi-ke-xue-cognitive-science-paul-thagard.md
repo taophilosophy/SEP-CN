@@ -8,9 +8,9 @@
 
 ## 1. 历史
 
-试图理解心灵及其运作的努力至少可以追溯到古希腊时期，当时像柏拉图和亚里士多德这样的哲学家试图解释人类知识的本质。心灵的研究一直是哲学的领域，直到 19 世纪实验心理学发展起来。威廉·旺德特及其学生们开创了用于系统研究心理运作的实验室方法。然而，在几十年内，实验心理学却被行为主义所主导，这种观点几乎否认了心灵的存在。根据行为主义者如 J.B.沃森的观点，心理学应该限制自己于研究可观察刺激和可观察行为反应之间的关系。意识和心理表征的讨论被从体面的科学讨论中驱逐出去。特别是在北美，行为主义主导了心理学领域直到 20 世纪 50 年代。
+试图理解心灵及其运作的努力至少可以追溯到古希腊时期，当时像柏拉图和亚里士多德这样的哲学家试图解释人类知识的本质。心灵的研究一直是哲学的领域，直到 19 世纪实验心理学发展起来。威廉 · 旺德特及其学生们开创了用于系统研究心理运作的实验室方法。然而，在几十年内，实验心理学却被行为主义所主导，这种观点几乎否认了心灵的存在。根据行为主义者如 J.B.沃森的观点，心理学应该限制自己于研究可观察刺激和可观察行为反应之间的关系。意识和心理表征的讨论被从体面的科学讨论中驱逐出去。特别是在北美，行为主义主导了心理学领域直到 20 世纪 50 年代。
 
-大约在 1956 年，智力领域的格局开始发生巨大变化。乔治·米勒总结了许多研究，显示人类思维能力是有限的，例如，短期记忆的容量限制在大约七个项目左右。他提出，记忆限制可以通过将信息重新编码为块来克服，这些心理表征需要心理程序来进行信息的编码和解码。当时，原始计算机只出现了几年，但先驱们如约翰·麦卡锡、马文·明斯基、艾伦·纽厄尔和赫伯特·西蒙正在创建人工智能领域。此外，诺姆·乔姆斯基拒绝了关于语言作为一种学习习惯的行为主义假设，而是提出用心理语法规则来解释语言理解。本段提到的六位思想家可以被视为认知科学的奠基人。
+大约在 1956 年，智力领域的格局开始发生巨大变化。乔治 · 米勒总结了许多研究，显示人类思维能力是有限的，例如，短期记忆的容量限制在大约七个项目左右。他提出，记忆限制可以通过将信息重新编码为块来克服，这些心理表征需要心理程序来进行信息的编码和解码。当时，原始计算机只出现了几年，但先驱们如约翰 · 麦卡锡、马文 · 明斯基、艾伦 · 纽厄尔和赫伯特 · 西蒙正在创建人工智能领域。此外，诺姆 · 乔姆斯基拒绝了关于语言作为一种学习习惯的行为主义假设，而是提出用心理语法规则来解释语言理解。本段提到的六位思想家可以被视为认知科学的奠基人。
 
 ## 2. 方法
 
@@ -296,7 +296,7 @@
 * McCauley, R. N., 2007. “Reduction: Models of Cross-scientific Relations and their Implications for the Psychology-neuroscience Interface,” in P. Thagard (ed.), *Philosophy of Psychology and Cognitive Science*, Amsterdam: Elsevier, pp. 105–158.
 * Milkowski, M., 2013. *Explaining the Computational Mind*, Cambridge, MA: MIT Press.
 * Murphy, D., 2006. *Psychiatry in the Scientific Image*, Cambridge, MA: MIT Press.
-* Nadel, L. (ed.), 2003. *Encyclopedia of Cognitive Science*, London:Nature Publishing Group.
+* Nadel, L. (ed.), 2003. *Encyclopedia of Cognitive Science*, London: Nature Publishing Group.
 * Nisbett, R., 2003. *The Geography of Thought: How Asians and Westerners Think Differently … and Why*, New York: Free Press.
 * Núñez, R., Allen, M., Gao, R., Miller Rigoli, C., Relaford-Doyle, J., & Semenuks, A., 2019. “What Happened to Cognitive Science?” *Nature Human Behavior*, 3(8): 782–791.
 * O’Callaghan, C. *A Multisensory Philosophy of Perception*. Oxford: Oxford University of Press.

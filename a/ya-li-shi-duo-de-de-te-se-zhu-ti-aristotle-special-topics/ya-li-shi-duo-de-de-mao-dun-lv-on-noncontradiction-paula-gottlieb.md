@@ -30,7 +30,7 @@
 
 ## 2. 非矛盾原理的特殊地位
 
-亚里士多德说非矛盾原理是一种普遍公理，是所有特殊科学共同的公理。它没有特定的主题，但适用于一切存在的事物。它是第一原理，也是最坚定的原理。正如刘易斯·卡罗尔令人难忘地展示的那样，非矛盾原理不作为任何论证的前提。与莫德斯·波嫩斯不同，非矛盾原理不是一条推理规则。亚里士多德说它是一种“对于任何了解存在事物的人来说都是必需的”原理（《形而上学》第四卷第三章 1005b15）。它不仅仅是一个假设。
+亚里士多德说非矛盾原理是一种普遍公理，是所有特殊科学共同的公理。它没有特定的主题，但适用于一切存在的事物。它是第一原理，也是最坚定的原理。正如刘易斯 · 卡罗尔令人难忘地展示的那样，非矛盾原理不作为任何论证的前提。与莫德斯 · 波嫩斯不同，非矛盾原理不是一条推理规则。亚里士多德说它是一种“对于任何了解存在事物的人来说都是必需的”原理（《形而上学》第四卷第三章 1005b15）。它不仅仅是一个假设。
 
 亚里士多德解释说，由于非矛盾原理作为最坚定的第一原理具有特殊地位，它不容易被证明。证明是一种演绎论证，其结论是从更坚定、更早的前提中推导出来的。由此可见，如果非矛盾原理可以从另一个前提中推导出来，那么该前提必须是更坚定、更早的原理，结果非矛盾原理就不能成为最坚定的第一原理。亚里士多德还说，如果非矛盾原理可以被证明，那么一切都将受到证明的约束，这将导致无限回归。因此，排除了证明，重要的是要警惕用普通演绎论证的方式重建亚里士多德的讨论。正如亚里士多德指出的，任何要求对非矛盾原理进行演绎论证的人都没有抓住重点，或者说是在要求一种不使用非矛盾原理就不可能实现的东西。除非依赖非矛盾原理，否则无法进行论证。任何声称“为了论证而拒绝非矛盾原理”的人同样是误导的。
 
@@ -38,13 +38,13 @@
 
 ## 3. 推证方法和超越论证
 
-尽管 PNC 不受证明的约束，但根据亚里士多德的说法，它受到“elenctic refutation”的约束。 "elenchus"指的是苏格拉底的辩证法。当苏格拉底使用 elenchus 时，他让对手自己的嘴巴否定自己。对手提出一个命题，被证明与他同意的其他主张相冲突。为了保持一致，对手必须放弃其中一个主张，通常是原始命题。这是古希腊几何学家和现代形式逻辑学家和数学家熟悉的归谬法方法。
+尽管 PNC 不受证明的约束，但根据亚里士多德的说法，它受到“elenctic refutation”的约束。 "elenchus" 指的是苏格拉底的辩证法。当苏格拉底使用 elenchus 时，他让对手自己的嘴巴否定自己。对手提出一个命题，被证明与他同意的其他主张相冲突。为了保持一致，对手必须放弃其中一个主张，通常是原始命题。这是古希腊几何学家和现代形式逻辑学家和数学家熟悉的归谬法方法。
 
 使用 elenchus 的想法乍一看非常令人困惑。声称拒绝 PNC 的人并不一致，显然也不想一致。亚里士多德并不试图在形式上抓住对手的矛盾。对手据称并不在意这一点，这将是在回避问题。相反，亚里士多德的诡计是引导对手说出一些东西，而不是做出完整的陈述，这些东西表明他确实接受 x 是 F，并且与此同时不是非 F，尽管他之前说过的话。换句话说，亚里士多德需要展示他的对手至少承认了一个不矛盾的事物。苏格拉底的方法被颠倒了过来。
 
 长期以来，人们一直注意到亚里士多德在这里假设他的对手持有非常强硬的立场，即对于任何 x 和任何 F，F 可以同时属于 x 和不属于 x，具有相同的程度等等。后来他说，他很高兴扼杀了这种观点，即我们的思维中没有任何确定的东西（Metaph IV 4 1009a3–5）。
 
-亚里士多德的"elenctic refutation"被有益地比作康德式的超验论证。超验论证通常如下进行：如果经验或思考的某些方面是可能的，那么世界必须是某种方式。由于这些经验或思考的方面确实存在，所以世界是某种方式。我们的经验或思考的这些方面预设了世界是某种方式。世界是某种方式解释了我们的经验或思考的这些方面，而不是相反。根据这种解释，亚里士多德将会争辩说，世界符合 PNC，或者说 PNC 是真实的，因为它是对手能够说出重要内容的前提和解释。
+亚里士多德的 "elenctic refutation" 被有益地比作康德式的超验论证。超验论证通常如下进行：如果经验或思考的某些方面是可能的，那么世界必须是某种方式。由于这些经验或思考的方面确实存在，所以世界是某种方式。我们的经验或思考的这些方面预设了世界是某种方式。世界是某种方式解释了我们的经验或思考的这些方面，而不是相反。根据这种解释，亚里士多德将会争辩说，世界符合 PNC，或者说 PNC 是真实的，因为它是对手能够说出重要内容的前提和解释。
 
 超验论证是有争议的。一个争议围绕着它们的结论的确切内容以及究竟预设了什么。我们应该得出结论，世界必须是某种方式，还是仅仅认为我们必须认为它是某种方式，为了能够有相关的经验和思考？现代的辩论在学者之间的辩论中找到了对应之处，关于亚里士多德在他的辩证讨论中的目标是什么。有两个主要的可能性。亚里士多德可能旨在证明非矛盾原理的本体论版本是真实的，或者他可能仅仅旨在证明它不能被怀疑。
 
@@ -66,7 +66,7 @@
 
 亚里士多德说那些拒绝接受表示一件事情的挑战的人“消除了实体和本质。因为他们必须说所有属性都是偶然的，并且‘本质上是人类’或‘动物’这样的东西根本不存在”（《形而上学》第四篇第 4 节 1007a20-23）。根据亚里士多德的说法，那些声称拒绝矛盾律的人实际上是在拒绝亚里士多德的本质论。亚里士多德将“仅仅表示关于”与表示一个偶然事件联系在一起，“表示”则表示一个承载者，而这个承载者就是实体。如果对手拒绝“表示”，她就只剩下偶然事件了。
 
-接下来，亚里士多德试图重新组合“汉普蒂·韦尔士人”：偶然事件不能被预言为其他偶然事件，但它们必须被预言为某个东西。例如，如果存在诸如音乐或苍白之类的偶然事件，它们不能相互预言，因此它们需要一个具有本质属性的主体来进行预言，例如苏格拉底，一个人类。虽然苏格拉底苍白而且会音乐，但苍白不会音乐，音乐也不会苍白，除非这一切只是意味着苏格拉底苍白而且会音乐。一系列偶然事件（苍白、音乐等等）也不能组成一个像苏格拉底这样的主体。它也不能告诉我们苏格拉底是什么，即一个人类。偶然事件需要有本质属性的主体，而且如果是这样的话，本质论就被恢复了，矛盾律也适用。
+接下来，亚里士多德试图重新组合“汉普蒂 · 韦尔士人”：偶然事件不能被预言为其他偶然事件，但它们必须被预言为某个东西。例如，如果存在诸如音乐或苍白之类的偶然事件，它们不能相互预言，因此它们需要一个具有本质属性的主体来进行预言，例如苏格拉底，一个人类。虽然苏格拉底苍白而且会音乐，但苍白不会音乐，音乐也不会苍白，除非这一切只是意味着苏格拉底苍白而且会音乐。一系列偶然事件（苍白、音乐等等）也不能组成一个像苏格拉底这样的主体。它也不能告诉我们苏格拉底是什么，即一个人类。偶然事件需要有本质属性的主体，而且如果是这样的话，本质论就被恢复了，矛盾律也适用。
 
 根据亚里士多德的观点，如果对手拒绝发言，他就不比一棵蔬菜好。虽然这似乎只是一种脾气暴躁的辱骂，但它也有严肃的一面。如果对手拒绝了非矛盾律和本质主义，那么他就无法解释为什么他不是一棵蔬菜。亚里士多德的本质主义，如果正确的话，适用于自己以及世界上的其他事物。乍一看，不清楚为什么非矛盾律的反对者会留下任何事物的形象。但也许这就是亚里士多德的观点。亚里士多德给予了非矛盾律的反对者一个世界，在这个世界中，意外事件可以以任何他喜欢的方式相互关联。在这样的世界中，一切都可以，或者一切都不可以，这取决于他的口味。或者，正如亚里士多德所说，“一切事物都将成为一体”（《形而上学》第四篇第 4 节 1007a19）。
 
@@ -164,7 +164,7 @@
 * –––, 1994. Translation with notes. *Aristotle’s Posterior Analytics*. 2nd edition. Oxford: Clarendon Press.
 * Irwin, T. H. and Fine, G., 1995. Translation with introduction, notes and glossary. *Aristotle: Selections*. Indianapolis: Hackett.
 * Jaeger, W., 1951. *Aristotelis Metaphysica*. Oxford Classical Text. Oxford: Clarendon Press.
-* Kirwan, Christopher, 1993. Translation with notes. *Aristotle’s Metaphysics Books Gamma, Delta and Epsilon*. 2nd edition. Oxford:Clarendon Press.
+* Kirwan, Christopher, 1993. Translation with notes. *Aristotle’s Metaphysics Books Gamma, Delta and Epsilon*. 2nd edition. Oxford: Clarendon Press.
 * Madigan, Arthur S. J., 1993. Translation. *Alexander of Aphrodisias: On Aristotle’s Metaphysics 4*, with appendix by Richard Sorabji. Ithaca: Cornell University Press.
 * Minio–Paluello, L. (ed.), 1949. *Aristotelis Categoriae et Liber De Interpretatione*. Oxford Classical Text. Oxford: Clarendon Press.
 * Ross, W. D., 1923. Greek text and commentary on *Aristotle’s Metaphysics*, vols 1 and 2. Oxford: Clarendon Press.
@@ -233,7 +233,7 @@
 * Husik, I., 1906. “Aristotle on the Law of Contradiction and the Basis of the Syllogism,” *Mind*, 15: 215–22.
 * Irwin, T. H., 1977. “Aristotle’s Discovery of Metaphysics,” *Review of Metaphysics*, 31: 210–29.
 * –––, 1988. *Aristotle’s First Principles.* Oxford: Oxford University Press, especially ch. 9, sections 98–106.
-* Izgin, Christopher, 2020. “Internal Negation and the Principles of Non-Contradiction and Excluded Middle in Aristotle,” *History and Philosophy of Logic*, 41(1): 1–15. doi:10.1080/01445340.2019.1683793
+* Izgin, Christopher, 2020. “Internal Negation and the Principles of Non-Contradiction and Excluded Middle in Aristotle,” *History and Philosophy of Logic*, 41(1): 1–15. doi: 10.1080/01445340.2019.1683793
 * Keeling, Evan, 2013. “Aristotle, Protagoras, and Contradiction: *Metaphysics* IV 4–6,” *Journal of Ancient Philosophy*, 7(2): 75–99.
 * Kenny, A J. P., 1967. “The Argument from Illusion in Aristotle’s *Metaphysics*,” *Mind*, 76: 184–97.
 * Kerferd, G. B., 1949. “Plato’s account of the relativism of Protagoras,” *University of Durham Journal* (New Series), 11(1): 20–26.

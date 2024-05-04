@@ -10,7 +10,7 @@
 
 ### 1.1 西方哲学和心理学中的情感
 
-在西方哲学和心理学中，情被定义为具有主观感受的内在心理状态，与心智的认知状态和过程形成对比。如果一个人相信‘1+1=2’，这种认知状态本身并不伴随特定的感受，也不会激发特定的行为，或促进可观察的具体表达。它也不会产生任何评价性判断。无论一个人的感受或动机如何，他们可以简单地相信‘1+1=2’是真实的。此外，情经常与强烈的欲望或激情相关联，这可能与理性推理和反思性思维发生冲突。在他的《理想国》（第四卷）中，柏拉图认为灵魂（*psyche*）由三个独特的组成部分构成，理性（*logistikon*）、精神（*thumoeides*）和欲望（*epithumetikon*）。他将理性置于心智的情感成分之上。斯多亚哲学家将情描述为莫名的激情、无法控制的冲动或非理性的恐惧。根据早期罗马帝国的斯多亚哲学家阿里乌斯·迪迪莫斯（Arius Didymus）的观点，情感状态是“违背理性的过度冲动”（Pomeroy 1999: 65A 中译）。笛卡尔（1649 \[1989: 385]）认为，激情是被外部事件驱使的内在倾向和倾向，可能违背对世界的理性理解。尽管最近的出版物显示出西方哲学和心理学对情的浓厚学术兴趣（Damasio 1994；De Sousa 1987；Gibbard 1990；Haidt 2001；Lutz 1988；Nichols 2004；Nussbaum 2001；Prinz 2004；Solomon 1984），情仍然从主观性、现象性、动机、激情和欲望的角度来理解。
+在西方哲学和心理学中，情被定义为具有主观感受的内在心理状态，与心智的认知状态和过程形成对比。如果一个人相信‘1+1 = 2’，这种认知状态本身并不伴随特定的感受，也不会激发特定的行为，或促进可观察的具体表达。它也不会产生任何评价性判断。无论一个人的感受或动机如何，他们可以简单地相信‘1+1 = 2’是真实的。此外，情经常与强烈的欲望或激情相关联，这可能与理性推理和反思性思维发生冲突。在他的《理想国》（第四卷）中，柏拉图认为灵魂（*psyche*）由三个独特的组成部分构成，理性（*logistikon*）、精神（*thumoeides*）和欲望（*epithumetikon*）。他将理性置于心智的情感成分之上。斯多亚哲学家将情描述为莫名的激情、无法控制的冲动或非理性的恐惧。根据早期罗马帝国的斯多亚哲学家阿里乌斯 · 迪迪莫斯（Arius Didymus）的观点，情感状态是“违背理性的过度冲动”（Pomeroy 1999: 65A 中译）。笛卡尔（1649 \[1989: 385]）认为，激情是被外部事件驱使的内在倾向和倾向，可能违背对世界的理性理解。尽管最近的出版物显示出西方哲学和心理学对情的浓厚学术兴趣（Damasio 1994；De Sousa 1987；Gibbard 1990；Haidt 2001；Lutz 1988；Nichols 2004；Nussbaum 2001；Prinz 2004；Solomon 1984），情仍然从主观性、现象性、动机、激情和欲望的角度来理解。
 
 ### 1.2 中国哲学中的情
 
@@ -48,7 +48,7 @@
 
 > _qing_几乎根本不用于‘情感’的意义…这个术语本身有许多不同的含义，其中大多数显然相关，当‘情感’的含义逐渐出现时，其中一些含义仍然继续共鸣，表明情感是真实的，它们属于人类的本性。
 
-遵循相同的解释线索，伊凡霍和范·诺登（2001: 391）将_qing_定义为“‘真实’、‘本质’或‘气质’”。他们指出
+遵循相同的解释线索，伊凡霍和范 · 诺登（2001: 391）将_qing_定义为“‘真实’、‘本质’或‘气质’”。他们指出
 
 > 某物的_qing_是其真实的本质，而不是它可能表现出来的样子。这通常被理解为如果给予适当的环境和支持，它会如何自发地行为和发展。更具体地，一些解释者认为一物的_qing_可以是该物的基本特征。战国末期，_qing_开始指代人类的情感或气质（也许是因为一些思想家认为这些对人类至关重要）。
 
@@ -85,7 +85,7 @@ Harbsmeier（2004 年：71 页）提供了可能是最全面的_qing_含义列�
 
 格雷厄姆（1990 年：59）认为，在中国早期哲学中，_情_永远不应被解释为感情或激情（即，内心主观状态）。据他说，*情_的内化或心理意义在宋代后期（960 年及以后）与新儒家形而上学中的_性*（客观本性或本质）完全明确地结合在一起。他指出，在汉前文献的语境中，_情_作为名词意味着“‘事实’……作为形容词‘真实’”。然而，他解释了在《荀子》和《礼记》的语境中，_情_如何与情感联系在一起，作为对人性真实表达的情感。他（1990 年：64）指出
 
-> 在这些文本中\[《荀子》和《礼记》]，但在汉前文献中没有其他地方，这个词\[*情*]仅指代人中的真实之处，这是礼貌所掩饰的，因此指代他的感情。
+> 在这些文本中\[《荀子》和《礼记》]，但在汉前文献中没有其他地方，这个词\[*情*] 仅指代人中的真实之处，这是礼貌所掩饰的，因此指代他的感情。
 
 根据他的说法，荀子使用“情”一词表示真实或本质，并从人类本性可以在内在情感状态中找到的观点解释了其情感表达。因此，格雷厄姆捍卫了他对“情”在一些早期中国文本中作为本质或真实性的解释。
 
@@ -155,7 +155,7 @@ Bruya (2003) 报告说，在许多先秦文本中，*情* 指的是心灵的情�
 
 喜悦，愤怒，悲伤，快乐，忧虑，后悔，反复无常，执拗不化，谦虚，任性，坦率，放肆
 
-* *性自命出* \[人]性来自\[天]命（1.1）（公元前四世纪）
+* *性自命出* \[人] 性来自\[天] 命（1.1）（公元前四世纪）
 
 喜怒哀悲
 
@@ -254,7 +254,7 @@ Bruya (2003) 报告说，在许多先秦文本中，*情* 指的是心灵的情�
 
 在《论语》中，这些情感和感受都没有明确与_情_联系起来。_情_在《论语》中出现了两次，它的含义是真诚、诚实、情况或环境。例如，在《论语》的以下段落中，_情_与情感之间没有直接联系。
 
-> 如果他\[君子]爱诚信，人民就不敢不真诚\[*情*，诚实]。(《论语》，13.4; Legge 1960a: 265)
+> 如果他\[君子] 爱诚信，人民就不敢不真诚\[*情*，诚实]。(《论语》，13.4; Legge 1960a: 265)
 
 统治者们在履行职责上失败了，因此人民长期以来一直处于混乱状态。当你发现了任何指控的真相【情，情况】时，为他们感到悲伤和怜悯，不要因为自己的能力而感到快乐。（《论语》，19.19；Legge 1960a: 345）
 
@@ -274,13 +274,13 @@ Bruya (2003) 报告说，在许多先秦文本中，*情* 指的是心灵的情�
 
 墨子在以下段落中提出了他著名的无私之爱的论证。
 
-如果人们将他人的状态看待如同看待自己的状态，那么谁还会动员自己的国家去攻击他人的国家呢？他们会将他人的\[国家]看待如同看待自己的国家。如果人们将他人的都城看待如同看待自己的都城，那么谁还会举起自己的都城去打击他人的都城呢？他们会将他人的\[都城]看待如同看待自己的都城。如果人们将他人的房屋看待如同看待自己的房屋，谁还会搅动自己的房屋来扰乱他人的房屋呢？他们会将他人的\[房屋]看待如同看待自己的房屋。现在如果国家和都城不相互攻击，人们的房屋也不相互扰乱和损害，这对世界有害吗？还是对世界有益？这必定对世界有益。暂且让我们思考这许多益处的根源，它们是从何而来的……我们必须说，是因为爱人和利益人才会产生这些益处。而且，如果我们要区分和命名那些爱人和利益人的人，是作为“歧视”还是“普遍”呢？我们必须说是作为“普遍”。在这种情况下，正是“互惠普遍”造就了世界的巨大益处。(*墨子*, 16.2; Johnston 2010: 147–149)
+如果人们将他人的状态看待如同看待自己的状态，那么谁还会动员自己的国家去攻击他人的国家呢？他们会将他人的\[国家] 看待如同看待自己的国家。如果人们将他人的都城看待如同看待自己的都城，那么谁还会举起自己的都城去打击他人的都城呢？他们会将他人的\[都城] 看待如同看待自己的都城。如果人们将他人的房屋看待如同看待自己的房屋，谁还会搅动自己的房屋来扰乱他人的房屋呢？他们会将他人的\[房屋] 看待如同看待自己的房屋。现在如果国家和都城不相互攻击，人们的房屋也不相互扰乱和损害，这对世界有害吗？还是对世界有益？这必定对世界有益。暂且让我们思考这许多益处的根源，它们是从何而来的……我们必须说，是因为爱人和利益人才会产生这些益处。而且，如果我们要区分和命名那些爱人和利益人的人，是作为“歧视”还是“普遍”呢？我们必须说是作为“普遍”。在这种情况下，正是“互惠普遍”造就了世界的巨大益处。(*墨子*, 16.2; Johnston 2010: 147–149)
 
 墨子在这段文字中的论点似乎并没有证明普遍爱和互相关怀的情感的存在。相反，这个论点试图证明公正的重要性以及普世爱的情感奉献的必要性。这是一个理性的辩护，呼吁一种相互和普遍的观点，人们应该同样关心自己和他人。在这种背景下，人们可以怀疑墨子的普世爱的心理现实和实际有效性。主要的理论挑战在于解释基于一种理由的公正关怀的动机，即公正关怀在道德上是合理的，是正确的事情（格雷厄姆 1989 年：31-32；尼维森 1996 年：84；维拉格 2017 年：61-62）。_剑爱_的情感动机能否源自理性论证或信念道德的正当化？尽管人们无需区分_剑爱_的理性和情感，可以接受多种形式的道德动机（弗雷泽 2011 年；罗宾斯 2012 年），但墨子对情感的处理显然与儒家有所不同，比如孔子和孟子。儒家认为自然或真实的情感状态可以通过自我修养、学习或其他心理实践的过程与道德意志和理想美德相一致。墨子似乎主要关注于_剑爱_的理性推理和正当化，尽管他并没有完全否定或贬低_剑爱_的情感元素及其培养的各种手段。据他所说，_剑爱_使统治者仁慈，大臣忠诚，父亲慈爱，君子仔细研究它并勤奋实践它（《墨子》，16.2；约翰斯顿 2010 年：165）。
 
 *情* 在《墨子》中出现了 26 次，但它并不指涉内心情感状态。相反，它至少以三种不同的方式使用。墨子指出
 
-每一个生活在天地之间、四海之内的生物都参与了天地之情和阴阳和谐的本质。即使是最伟大的圣人也无法改变这一点。我们如何知道呢？当他们谈论天地时，他们谈论了上下九州、四季、阴阳之理、人性、男女、鸟兽、性别的现象。即使是早期的君王也无法摆脱自然的基本原则。 (墨子，6.8; 梅 1929:26)。
+每一个生活在天地之间、四海之内的生物都参与了天地之情和阴阳和谐的本质。即使是最伟大的圣人也无法改变这一点。我们如何知道呢？当他们谈论天地时，他们谈论了上下九州、四季、阴阳之理、人性、男女、鸟兽、性别的现象。即使是早期的君王也无法摆脱自然的基本原则。 (墨子，6.8; 梅 1929: 26)。
 
 在这段文字中，墨子将情描述为世界的坚定客观本质，包括人性，这是圣王也无法改变的。整段文字解释了宇宙的自然秩序（时间、空间、生物和非生物）以及人类和动物的本性。在这里，情与情感或感情无关。
 
@@ -330,7 +330,7 @@ _qing_在《墨子》（36.1）中也表示真理或真实。当墨子解释（�
 
 人们的天性是想要肉食，想要华服，想要车马，还想要富贵和财富的积累。即使得到了这些东西，直到他们的晚年也不会满足；这也是人们的天性。在这段文字中，Hutton 将_qing_翻译为“天性”。重要的是要注意，*qing_作为天性的意义并不一定意味着规范性或目的论意义上的自然（即，自然作为人类生活的理想标准或最终目标），而是指荀子哲学中人类行为的自发、无规范和未经培养的倾向，因为人的_qing*（人之情）可能是破坏性和无序的（《荀子》，23）。
 
-从这种自然主义的观点来看，荀子积极地将_qing_与心理状态和性情联系起来。例如，在早期的中国文本中，如《墨子》中，*ren qing_并不指内在心理或情感状态。然而，在《荀子》中，*ren zhi qing* (人之情，*qing* of human beings)或_ren qing* (人情，human *qing*) 指的是心理倾向或情感状态。蔡（2020: 407）报告称，_qing_在《荀子》中出现了 119 次。
+从这种自然主义的观点来看，荀子积极地将_qing_与心理状态和性情联系起来。例如，在早期的中国文本中，如《墨子》中，*ren qing_并不指内在心理或情感状态。然而，在《荀子》中，* ren zhi qing * (人之情，* qing * of human beings)或_ren qing* (人情，human *qing*) 指的是心理倾向或情感状态。蔡（2020: 407）报告称，_qing_在《荀子》中出现了 119 次。
 
 > 在这 119 次_qing_的出现中，少于 20 次具有“事物的本性”的中性或积极含义。
 
@@ -352,7 +352,7 @@ _qing_在《墨子》（36.1）中也表示真理或真实。当墨子解释（�
 
 _欲_通常被理解为一种愿望或追求的状态 (*荀子*, 4.11, 23.1)。然而，荀子解释了它在感知状态的背景下，比如看、听、尝，即我们的感官器官如何寻找它们的对象。
 
-> 至于人们的天性倾向\[*情* 情]，他们的眼睛渴望\[*欲* 欲]看到最美的景色，他们的耳朵渴望听到最美的声音，他们的嘴巴渴望尝到最美的味道，他们的鼻子渴望闻到最美的气味，他们的身体渴望得到最大的舒适。这些“五个至美”是人们的天性倾向\[*情* 情]无法避免渴望的东西。(*荀子*, 11.10; Hutton 2014: 104)
+> 至于人们的天性倾向\[*情* 情]，他们的眼睛渴望\[*欲* 欲] 看到最美的景色，他们的耳朵渴望听到最美的声音，他们的嘴巴渴望尝到最美的味道，他们的鼻子渴望闻到最美的气味，他们的身体渴望得到最大的舒适。这些“五个至美”是人们的天性倾向\[*情* 情] 无法避免渴望的东西。(*荀子*, 11.10; Hutton 2014: 104)
 
 在这段文字中，荀子描述了我们的感官器官与它们的对象之间的关系。感知状态有它们的对象，即它们看到、听到和闻到的东西。_欲_描述了心智的这种关系属性（即关于性），除了它最初的渴望“五最”对象的功能。也就是说，_欲_不仅仅是满足欲望的自然倾向，还是存在于人类心智的基础（感知）层面的感知关联性。如果如布伦塔诺（1874 年）所解释的，关于性是心智的一个独特且本质的特征，那么荀子的_欲_和_情_从情感观点包含了心智的这个基础方面（心智的关联性或关于性）。
 
@@ -364,7 +364,7 @@ _欲_通常被理解为一种愿望或追求的状态 (*荀子*, 4.11, 23.1)。�
 
 *天* → *性* → *情* → (_情_对外部刺激的反应) → *欲*
 
-这种宇宙过程可以帮助我们理解_情_如何包含了一种新的语义维度，即，从其原始含义的性质或本质发展出欲望或情感的心理倾向。根据荀子，*情_不仅与事物的客观和本质性质(*性*)有关，还与人类的心理倾向(*欲*)有关，因为_情_源自_性*（本性），并产生_欲_（欲望）。在_情_产生和投射的过程中，人们可以理解_情_不仅仅指事物的客观、静态和永恒本质，还指人类的互动和反应性倾向。在《性自命出》（一部出土的儒家文献，写于公元前四世纪中叶至前三世纪初）中也可以找到类似的对_情_的看法。根据《性自命出》，当_性_（人性）受到外部物体的刺激时，_情_就会被激发。
+这种宇宙过程可以帮助我们理解_情_如何包含了一种新的语义维度，即，从其原始含义的性质或本质发展出欲望或情感的心理倾向。根据荀子，*情_不仅与事物的客观和本质性质(* 性 *)有关，还与人类的心理倾向(* 欲 *)有关，因为_情_源自_性*（本性），并产生_欲_（欲望）。在_情_产生和投射的过程中，人们可以理解_情_不仅仅指事物的客观、静态和永恒本质，还指人类的互动和反应性倾向。在《性自命出》（一部出土的儒家文献，写于公元前四世纪中叶至前三世纪初）中也可以找到类似的对_情_的看法。根据《性自命出》，当_性_（人性）受到外部物体的刺激时，_情_就会被激发。
 
 情感（喜、怒、哀、悲）的气是由性。当它在外部显现时，是由于与事物的感官接触（物取之）。 （性自明初，1.1；唐，布鲁亚和温 2003 年：275；米登多夫 2008 年：152）
 
@@ -424,9 +424,9 @@ _欲_通常被理解为一种愿望或追求的状态 (*荀子*, 4.11, 23.1)。�
 
 因此，
 
-永远消除欲望以观察其\[道]的奥秘；
+永远消除欲望以观察其\[道] 的奥秘；
 
-始终保持欲望，以观察其\[道]的表现。
+始终保持欲望，以观察其\[道] 的表现。
 
 （老子，1；Ivanhoe 2002: 1）。
 
@@ -462,7 +462,7 @@ Huizi: “但是一个没有情感的人 — 你怎么能称他为人呢？”
 
 在这段文字中，庄子区分了两种不同形式的情。当他说“一个人没有情感”时，他指的是喜好和厌恶的感情。这种感情会影响我们，并激励我们接受和遵循某些观点、规则或规范。然而，自然的情感会自然而然地出现在一个人的脑海中，而不带入任何假设或接受和拒绝的判断。在他们对这段文字的分析中，马和范布拉克尔（2021: 137）引用格雷厄姆（1981 \[2001: 82]）的话来表述。
 
-> 庄子自己明确表示,惠子和他对情的理解不同:“你误解了我对情的理解”(Legge 1891: 235);“是非”\[评价性判断，如喜好和厌恶]就是我所说的“情”。
+> 庄子自己明确表示, 惠子和他对情的理解不同:“你误解了我对情的理解”(Legge 1891: 235);“是非”\[评价性判断，如喜好和厌恶] 就是我所说的“情”。
 
 在这里，人们可以看到庄子对情感的自然主义或现象学方法。根据他的观点，没有感觉并不意味着一个人不应该有情感。相反，他建议人们应该简单地将情感视为自发和自然产生的感受，这样悲伤和快乐就无法进入并伤害一个人的心灵。因此，他说“如果你满足于现状并愿意顺其自然，那么悲伤和快乐就无法进入” (《庄子》3.5; Watson 2013: 21)。因此，庄子并不提倡禁欲主义、宿命论或冷漠。相反，他强调对自然给予的情感的完全接受 (*性命之情* 性命之情 naturally given affective disposition)。情绪如同白天和黑夜般来去，我们应该像它们出现并带给我们某种情绪和感受时那样快乐或悲伤。
 
@@ -526,55 +526,55 @@ The chapter and section numbers of the primary sources of early Chinese texts us
 * Brentano, Franz, 1874 \[1995], *Psychologie vom empirischen Standpunkte*, Leipzig: Duncker & Humblot. Translated as *Psychology from an Empirical Standpoint*, Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister (trans.), London: Routledge and K. Paul 1973; reprinted with an introduction by P. Simons, London: Routledge 1995.
 * Bockover, Mary I., 1995, “The Concept of Emotion Revisited: A Critical Synthesis of Western and Confucian Thought”, in Joel and Ames 1995: 161–180.
 * Bruya, Brian, 2003, “*Qing* 情 and Emotion in Early Chinese Thought”, in Fang Keli (ed.), *Chinese Philosophy and the Trends of 21st Century Civilization*, Beijing: The Commercial Press.
-* Cai, Zong-qi, 2020, “A Study of Early Chinese Concepts of *Qing* 情 and a Dialogue with Western Emotion Studies”, *Prism*, 17(2): 399–429. doi:10.1215/25783491-8690428
-* Charland, Louis C., 2002, “The Natural Kind Status of Emotion”, *British Journal for the Philosophy of Science*, 53(4): 511–537. doi:10.1093/bjps/53.4.511
+* Cai, Zong-qi, 2020, “A Study of Early Chinese Concepts of *Qing* 情 and a Dialogue with Western Emotion Studies”, *Prism*, 17(2): 399–429. doi: 10.1215/25783491-8690428
+* Charland, Louis C., 2002, “The Natural Kind Status of Emotion”, *British Journal for the Philosophy of Science*, 53(4): 511–537. doi: 10.1093/bjps/53.4.511
 * Cheng, Chung-ying, 2001, “Morality of *Daode* and Overcoming of Melancholy in Classical Chinese Philosophy”, in Wolfgang Kubin (ed.), *Symbols of Anguish: In Search of Melancholy in China, Helmut Martin (1940–1999) in Memoriam*, Schweizer Asiatische Studien, Bern: Peter Lang.
 * Damasio, Antonio R., 1994, *Descartes’ Error: Emotion, Reason, and the Human Brain*, New York: G.P. Putnam’s Sons.
 * Descartes, René, 1649 \[1989], *Les Passions de l’âme*, Translated as *The Passions of the Soul*, Stephen H. Voss (trans.), Indianapolis, IN: Hackett.
 * De Sousa, Ronald, 1987, *The Rationality of Emotion*, Cambridge, MA: MIT Press.
 * Ekman, Paul, 1999, “Basic Emotions”, in Tim Dalgleish and Mick J. Power (eds.), *Handbook of Cognition and Emotion*, Chichester: Wiley and Sons, 45–60.
-* Eifring, Halvor, (ed.), 2004a, *Love and Emotions in Traditional Chinese Literature*, Boston: Brill. doi:10.1163/9789047412311
-* –––, 2004b, “Introduction: Emotions and the Conceptual History of *Qíng* 情”, in Eifring 2004a: 1–36. doi:10.1163/9789047412311\_003
-* –––, 2019, “Spontaneous Thought and Early Chinese Ideas of ‘Non-Action’ and ‘Emotion’”, *Asian Philosophy*, 29(3): 177–200. doi:10.1080/09552367.2019.1653528
-* Fehr, Beverley and James A. Russell, 1984, “Concept of Emotion Viewed from a Prototype Perspective”, *Journal of Experimental Psychology: General*, 113(3): 464–486. doi:10.1037/0096-3445.113.3.464
-* Flanagan, Owen, 2014, *Moral Sprouts and Natural Teleologies, 21st Century Moral Psychologists Meets Classical Chinese Philosophy*, Milwaukee, WI: Marquette University Press.
-* Fraser, Chris, 2011, “Mohism and Motivation”, in Chris Fraser, Dan Robins, and Timothy O’Leary (eds.), *Ethics in Early China. An Anthology*, Hong Kong: Hong Kong University Press, 83–103.
-* Gibbard, Alan, 1990, *Wise Choices, Apt Feelings*, Cambridge, MA: Harvard University Press.
-* Goldie, Peter, 2002, “Emotions, Feelings and Intentionality”, *Phenomenology and the Cognitive Sciences*, 1(3): 235–254. doi:10.1023/A:1021306500055
-* Graham, Angus C. (trans.), 1981 \[2001], *Chuang-Tzŭ: The Inner Chapters*, London/Boston: Allen & Unwin. Reprinted Indianapolis, IN: Hackett, 2001.
-* –––, 1989, *Disputers of the Tao: Philosophical Argument in Ancient China*, La Salle, IL: Open Court.
-* –––, 1990, “The Background of the Mencian Theory of Human Nature”, in Angus C. Graham (ed.), *Studies in Chinese Philosophy and Philosophical Literature*, Albany, NY: State University of New York Press, 7–66.
-* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment”, *Psychological Review*, 108(4): 814–834. doi:10.1037/0033-295X.108.4.814
-* Hansen, Chad, 1995, “*Qing* (Emotions) in Pre-Buddhist Chinese Thought”, in Joel and Ames 1995: 181–211.
-* Harbsmeier, Christoph, 2004, “The Semantics of *Qíng* 情 in Pre-Buddhist Chinese”, in Eifring 2004a: 69–148. doi:10.1163/9789047412311\_005
-* Li, Zehou, 1998, *Shiji xinmeng* 世紀新夢 (New Dream of the Century), Hefei: Anhui wenyi chubanshe.
-* Lu, Yinghua, 2019, “Wang Yangming’s Theory of the Unity of Knowledge and Action Revisited: An Investigation from the Perspective of Moral Emotion”, *Philosophy East and West*, 69(1): 197–214. doi:10.1353/pew.2019.0006
-* Lutz, Catherine, 1988, *Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory*, Chicago: University of Chicago Press.
-* Ma, Lin and Jaap van Brakel, 2021, “Revisiting the Exchange between Zhuangzi and Huizi on *Qing*”, *Dao: A Journal of Comparative Philosophy*, 20: 133–148. doi:10.1007/s11712-020-09765-6
-* Marchal, Kai, 2013, “Moral Emotions, Awareness, and Spiritual Freedom in the Thought of Zhu Xi (1130–1200)”, *Asian Philosophy*, 23(3): 199–220. doi:10.1080/09552367.2013.806369
-* Mark, Joel and Roger Ames (eds.), 1995, *Emotions in Asian Thought*, Albany, NY: State University of New York Press.
-* Nichols, Shaun, 2004, *Sentimental Rules: On the Natural Foundations of Moral Judgment*, New York: Oxford University Press. doi:10.1093/0195169344.001.0001
-* Nivison, David S., 1996, *The Ways of Confucianism*, Bryan Van Norden (ed.), La Salle, IL: Open Court.
-* Nussbaum, Martha C., 2001, *Upheavals of Thought: The Intelligence of Emotions*, New York: Cambridge University Press. doi:10.1017/CBO9780511840715
-* Perkins, Franklin, 2002, “Mencius, Emotion, And Autonomy”, *Journal of Chinese Philosophy*, 29(2): 207–226. doi:10.1111/1540-6253.00078
-* Plato, 1992, *Republic*, G. M. A. Grube and C. D. C. Reeve (trans/eds.), Indianapolis, IN: Hackett.
-* Pomeroy, Arthur J., 1999, *Arius Didymus: Epitome of Stoic Ethics*, Atlanta, GA: Society of Biblical Literature.
-* Prinz, Jesse J., 2004, *Gut Reactions: a Perceptual Theory of Emotion*, New York: Oxford University Press.
-* Puett, Michael, 2004, “The Ethics of Responding Properly: The Notion of *Qíng* 情 in Early Chinese Thought”, in Eifring 2004a: 37–68. doi:10.1163/9789047412311\_004
-* Robins, Dan, 2012, “Mohist Care”, *Philosophy East and West*, 62(1): 60–91. doi:10.1353/pew.2012.0005
-* Russell, James A., 1980, “A Circumplex Model of Affect”, *Journal of Personality and Social Psychology*, 39(6): 1161–1178. doi:10.1037/h0077714
-* Santangelo, Paolo, 2007, “Emotions and Perception of Inner Reality: Chinese and European”, *Journal of Chinese Philosophy*, 34(2): 289–308. doi:10.1111/j.1540-6253.2007.00414.x
-* Seok, Bongrae, 2008, “Mencius’s Vertical Faculties and Moral Nativism”, *Asian Philosophy*, 18(1): 51–68. doi:10.1080/09552360701880560
-* –––, 2013, “*Qing*, the Embodied Emotion”, in Bongrae Seok, *Embodied Moral Psychology and Confucian Philosophy*, Lanham, MD: Lexington, 123–142.
-* Shun, Kwong-loi, 1997, *Mencius and Early Chinese Thought*, Stanford, CA: Stanford University Press.
-* Solomon, Robert C., 1984, *The Passions: The Myth and Nature of Human Emotions*, Garden City, NY: Doubleday Anchor.
-* Sung, Winnie, 2012, “Ritual in the *Xunzi*: A Change of the Heart/Mind”, *Sophia: International Journal for Philosophy of Religion, Metaphysical Theology and Ethics*, 51(2): 211–226. doi:10.1007/s11841-012-0313-5
-* Tang, Yijie, Brian Bruya, and Hai-ming Wen, 2003, “Emotion in Pre-Qin Ruist Moral Theory: An Explanation of ‘*Dao* Begins in *Qing*’ ”, *Philosophy East and West*, 53(2): 271–281. doi:10.1353/pew.2003.0018
-* Virág, Curie, 2017, *The Emotions in Early Chinese Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190498818.001.0001
-* Wang, Kai, 2015, “On the Dimension of Self-cultivation of *Li* in Xuncian Philosophy ”, *KronosScope*, 15(1): 93–117. doi:10.1163/15685241-12341324
-* Wang, Yangming, 1954, *Wang Yangming Chuanxilu* (Wang Yangming’s Instruction for Practical Living), Taibei, Taiwan: Zhengzhong Shuju.
-* Wong, David B., 1991, “Is There a Distinction between Reason and Emotion in Mencius?”, *Philosophy East and West*, 41(1): 31. doi:10.2307/1399716
-* Zhu, Xi, 2011, *Si shu zhangju jizhu* 四書章句集註, Beijing: Zhonghua shuju.
+* Eifring, Halvor, (ed.), 2004a, *Love and Emotions in Traditional Chinese Literature*, Boston: Brill. doi: 10.1163/9789047412311
+* –––, 2004b, “Introduction: Emotions and the Conceptual History of *Qíng* 情”, in Eifring 2004a: 1–36. doi: 10.1163/9789047412311\_003
+* –––, 2019, “Spontaneous Thought and Early Chinese Ideas of ‘Non-Action’ and ‘Emotion’”, * Asian Philosophy*, 29(3): 177–200. doi: 10.1080/09552367.2019.1653528
+* Fehr, Beverley and James A. Russell, 1984, “Concept of Emotion Viewed from a Prototype Perspective”, * Journal of Experimental Psychology: General*, 113(3): 464–486. doi: 10.1037/0096-3445.113.3.464
+* Flanagan, Owen, 2014, * Moral Sprouts and Natural Teleologies, 21st Century Moral Psychologists Meets Classical Chinese Philosophy*, Milwaukee, WI: Marquette University Press.
+* Fraser, Chris, 2011, “Mohism and Motivation”, in Chris Fraser, Dan Robins, and Timothy O’Leary (eds.), * Ethics in Early China. An Anthology*, Hong Kong: Hong Kong University Press, 83–103.
+* Gibbard, Alan, 1990, * Wise Choices, Apt Feelings*, Cambridge, MA: Harvard University Press.
+* Goldie, Peter, 2002, “Emotions, Feelings and Intentionality”, * Phenomenology and the Cognitive Sciences*, 1(3): 235–254. doi: 10.1023/A: 1021306500055
+* Graham, Angus C. (trans.), 1981 \[2001], * Chuang-Tzŭ: The Inner Chapters*, London/Boston: Allen & Unwin. Reprinted Indianapolis, IN: Hackett, 2001.
+* –––, 1989, * Disputers of the Tao: Philosophical Argument in Ancient China*, La Salle, IL: Open Court.
+* –––, 1990, “The Background of the Mencian Theory of Human Nature”, in Angus C. Graham (ed.), * Studies in Chinese Philosophy and Philosophical Literature*, Albany, NY: State University of New York Press, 7–66.
+* Haidt, Jonathan, 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment”, * Psychological Review*, 108(4): 814–834. doi: 10.1037/0033-295X.108.4.814
+* Hansen, Chad, 1995, “* Qing* (Emotions) in Pre-Buddhist Chinese Thought”, in Joel and Ames 1995: 181–211.
+* Harbsmeier, Christoph, 2004, “The Semantics of * Qíng* 情 in Pre-Buddhist Chinese”, in Eifring 2004a: 69–148. doi: 10.1163/9789047412311\_005
+* Li, Zehou, 1998, * Shiji xinmeng* 世紀新夢 (New Dream of the Century), Hefei: Anhui wenyi chubanshe.
+* Lu, Yinghua, 2019, “Wang Yangming’s Theory of the Unity of Knowledge and Action Revisited: An Investigation from the Perspective of Moral Emotion”, * Philosophy East and West*, 69(1): 197–214. doi: 10.1353/pew.2019.0006
+* Lutz, Catherine, 1988, * Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory*, Chicago: University of Chicago Press.
+* Ma, Lin and Jaap van Brakel, 2021, “Revisiting the Exchange between Zhuangzi and Huizi on * Qing *”, * Dao: A Journal of Comparative Philosophy*, 20: 133–148. doi: 10.1007/s11712-020-09765-6
+* Marchal, Kai, 2013, “Moral Emotions, Awareness, and Spiritual Freedom in the Thought of Zhu Xi (1130–1200)”, * Asian Philosophy*, 23(3): 199–220. doi: 10.1080/09552367.2013.806369
+* Mark, Joel and Roger Ames (eds.), 1995, * Emotions in Asian Thought*, Albany, NY: State University of New York Press.
+* Nichols, Shaun, 2004, * Sentimental Rules: On the Natural Foundations of Moral Judgment*, New York: Oxford University Press. doi: 10.1093/0195169344.001.0001
+* Nivison, David S., 1996, * The Ways of Confucianism*, Bryan Van Norden (ed.), La Salle, IL: Open Court.
+* Nussbaum, Martha C., 2001, * Upheavals of Thought: The Intelligence of Emotions*, New York: Cambridge University Press. doi: 10.1017/CBO9780511840715
+* Perkins, Franklin, 2002, “Mencius, Emotion, And Autonomy”, * Journal of Chinese Philosophy*, 29(2): 207–226. doi: 10.1111/1540-6253.00078
+* Plato, 1992, * Republic*, G. M. A. Grube and C. D. C. Reeve (trans/eds.), Indianapolis, IN: Hackett.
+* Pomeroy, Arthur J., 1999, * Arius Didymus: Epitome of Stoic Ethics*, Atlanta, GA: Society of Biblical Literature.
+* Prinz, Jesse J., 2004, * Gut Reactions: a Perceptual Theory of Emotion*, New York: Oxford University Press.
+* Puett, Michael, 2004, “The Ethics of Responding Properly: The Notion of * Qíng* 情 in Early Chinese Thought”, in Eifring 2004a: 37–68. doi: 10.1163/9789047412311\_004
+* Robins, Dan, 2012, “Mohist Care”, * Philosophy East and West*, 62(1): 60–91. doi: 10.1353/pew.2012.0005
+* Russell, James A., 1980, “A Circumplex Model of Affect”, * Journal of Personality and Social Psychology*, 39(6): 1161–1178. doi: 10.1037/h0077714
+* Santangelo, Paolo, 2007, “Emotions and Perception of Inner Reality: Chinese and European”, * Journal of Chinese Philosophy*, 34(2): 289–308. doi: 10.1111/j.1540-6253.2007.00414.x
+* Seok, Bongrae, 2008, “Mencius’s Vertical Faculties and Moral Nativism”, * Asian Philosophy*, 18(1): 51–68. doi: 10.1080/09552360701880560
+* –––, 2013, “* Qing *, the Embodied Emotion”, in Bongrae Seok, * Embodied Moral Psychology and Confucian Philosophy*, Lanham, MD: Lexington, 123–142.
+* Shun, Kwong-loi, 1997, * Mencius and Early Chinese Thought*, Stanford, CA: Stanford University Press.
+* Solomon, Robert C., 1984, * The Passions: The Myth and Nature of Human Emotions*, Garden City, NY: Doubleday Anchor.
+* Sung, Winnie, 2012, “Ritual in the * Xunzi *: A Change of the Heart/Mind”, * Sophia: International Journal for Philosophy of Religion, Metaphysical Theology and Ethics*, 51(2): 211–226. doi: 10.1007/s11841-012-0313-5
+* Tang, Yijie, Brian Bruya, and Hai-ming Wen, 2003, “Emotion in Pre-Qin Ruist Moral Theory: An Explanation of ‘* Dao * Begins in * Qing *’ ”, * Philosophy East and West*, 53(2): 271–281. doi: 10.1353/pew.2003.0018
+* Virág, Curie, 2017, * The Emotions in Early Chinese Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190498818.001.0001
+* Wang, Kai, 2015, “On the Dimension of Self-cultivation of * Li * in Xuncian Philosophy ”, * KronosScope*, 15(1): 93–117. doi: 10.1163/15685241-12341324
+* Wang, Yangming, 1954, * Wang Yangming Chuanxilu* (Wang Yangming’s Instruction for Practical Living), Taibei, Taiwan: Zhengzhong Shuju.
+* Wong, David B., 1991, “Is There a Distinction between Reason and Emotion in Mencius?”, * Philosophy East and West*, 41(1): 31. doi: 10.2307/1399716
+* Zhu, Xi, 2011, * Si shu zhangju jizhu* 四書章句集註, Beijing: Zhonghua shuju.
 
 ## Academic Tools
 

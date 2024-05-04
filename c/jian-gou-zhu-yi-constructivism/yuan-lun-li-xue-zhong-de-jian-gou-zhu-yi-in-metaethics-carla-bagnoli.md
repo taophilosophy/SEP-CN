@@ -12,7 +12,7 @@
 
 ## 什么是建构主义？
 
-元伦理学中的建构主义一词在道德理论的讨论中首次出现是在约翰·罗尔斯（Rawls）1980 年的重要德威讲座《道德理论中的康德建构主义》（Kantian Constructivism in Moral Theory）中，罗尔斯在这里重新解释了哲学家伊曼纽尔·康德（Immanuel Kant）的伦理学及其对政治辩论的相关性。
+元伦理学中的建构主义一词在道德理论的讨论中首次出现是在约翰 · 罗尔斯（Rawls）1980 年的重要德威讲座《道德理论中的康德建构主义》（Kantian Constructivism in Moral Theory）中，罗尔斯在这里重新解释了哲学家伊曼纽尔 · 康德（Immanuel Kant）的伦理学及其对政治辩论的相关性。
 
 根据 Rawls 的观点，这些辩论未能有效地解决伦理分歧的政治问题，因为它们采用了形而上学的客观标准，这些标准依赖于价值观的独立现实和真理。在他看来，这样的标准不足以解决政治辩论中的分歧，因为争论各方都声称自己在捍卫唯一真实观点，这导致讨论陷入僵局，每一方都指责对手对道德真理“视而不见”。
 
@@ -26,9 +26,9 @@ Rawls’ account of Kantian constructivism in moral theory (1980) generated a la
 
 ### 康德的建构主义
 
-约翰·罗尔斯（Rawls）首次提出了康德（Kant）关于道德义务和实践理由的建构主义解释（Rawls 1980, 2000）。根据罗尔斯的阐释，康德对义务的分析使他致力于一种建构主义，最好通过与道德义务的竞争观点相对比来理解（Rawls 1980, 1989, 2000）。康德认为，所有先前的伦理理论都未能解释道德义务，因为它们作为实践理由的理论而失败了（Kant G 4: 441–444; C2 5: 35–41, 153, 157）。它们未能解释理性在我们生活中的作用，因为它们误解了其实践功能并错误地描述了其与选择目的的关系。康德的指责针对所有先前的道德学说，但他的论证特别针对感性主义和“教条理性主义”。由弗朗西斯·哈奇森（Francis Hutcheson）、大卫·休谟（David Hume）和亚当·斯密斯（Adam Smith）提倡的感性主义认为，伦理判断源于情感，并认为理性无法单独推动我们行动。根据感性主义者，理性的作用仅仅是工具性的。也就是说，理性仅仅是找到满足行动者目的的手段，而不能指示哪些目的值得追求。这一说法揭示了感性主义是一种“异类”的学说，未能建立道德义务的客观性。这是因为感性主义将道德义务视为取决于我们的利益，因此具有有限的权威。
+约翰 · 罗尔斯（Rawls）首次提出了康德（Kant）关于道德义务和实践理由的建构主义解释（Rawls 1980, 2000）。根据罗尔斯的阐释，康德对义务的分析使他致力于一种建构主义，最好通过与道德义务的竞争观点相对比来理解（Rawls 1980, 1989, 2000）。康德认为，所有先前的伦理理论都未能解释道德义务，因为它们作为实践理由的理论而失败了（Kant G 4: 441–444; C2 5: 35–41, 153, 157）。它们未能解释理性在我们生活中的作用，因为它们误解了其实践功能并错误地描述了其与选择目的的关系。康德的指责针对所有先前的道德学说，但他的论证特别针对感性主义和“教条理性主义”。由弗朗西斯 · 哈奇森（Francis Hutcheson）、大卫 · 休谟（David Hume）和亚当 · 斯密斯（Adam Smith）提倡的感性主义认为，伦理判断源于情感，并认为理性无法单独推动我们行动。根据感性主义者，理性的作用仅仅是工具性的。也就是说，理性仅仅是找到满足行动者目的的手段，而不能指示哪些目的值得追求。这一说法揭示了感性主义是一种“异类”的学说，未能建立道德义务的客观性。这是因为感性主义将道德义务视为取决于我们的利益，因此具有有限的权威。
 
-康德对于被克里斯蒂安·沃尔夫和戈特弗里德·威廉·莱布尼茨所支持的教条理性主义提出了相同的反对意见，后者认为我们通过理性洞察力理解到了真实的道德真理（康德 G 4: 443；罗尔斯 2000: 50, 228）。这种观点似乎是道德现实主义的直觉主义形式，根据这种观点，理性认识到了存在于我们推理之前和独立于我们的推理以及我们所属的种类的客观价值或道德目标。在发现这样的目标时，道德行为者并不积极地运用推理；他们像在感觉知觉中一样被动。对于康德来说，教条理性主义未能确保道德义务对我们具有无条件的权威（康德 G, 4: 441）。这是因为，在教条理性主义看来，道德真理只在我们有相应的愿望被理性引导的情况下才引导我们（罗尔斯 1980: 343–46；罗尔斯 1989: 510–13）。
+康德对于被克里斯蒂安 · 沃尔夫和戈特弗里德 · 威廉 · 莱布尼茨所支持的教条理性主义提出了相同的反对意见，后者认为我们通过理性洞察力理解到了真实的道德真理（康德 G 4: 443；罗尔斯 2000: 50, 228）。这种观点似乎是道德现实主义的直觉主义形式，根据这种观点，理性认识到了存在于我们推理之前和独立于我们的推理以及我们所属的种类的客观价值或道德目标。在发现这样的目标时，道德行为者并不积极地运用推理；他们像在感觉知觉中一样被动。对于康德来说，教条理性主义未能确保道德义务对我们具有无条件的权威（康德 G, 4: 441）。这是因为，在教条理性主义看来，道德真理只在我们有相应的愿望被理性引导的情况下才引导我们（罗尔斯 1980: 343–46；罗尔斯 1989: 510–13）。
 
 康德的诊断是，所有这些学说都未能捕捉到理性的实践功能，因为它们是异类的。它们否定了理性的权威和效力，要么认为理性只能认识独立于其运作之外存在的客观目标，要么声称理性只能在倾向或兴趣的帮助下约束行动者。对于康德来说，异类性是一种道德怀疑，被理解为对理性建立道德真理及其权威的能力的怀疑。在这种解读下，建构主义是康德将伦理学基础放在理性之上的整体论证的一部分，反对怀疑论观点认为没有规范性真理（Korsgaard 1996a；Stern 2013；Wallace 2012）。只有当理性被视为自治时，才能避免怀疑论，其权威不是来自于外部的任何事物。如果理性的权威建立在其适当的活动上，而不是来自于理性之外的世界的元素，那么理性就是自治的。因此，规范理性活动的准则必须内在于理性，而不是依赖于任何特定的价值观、兴趣或欲望。也就是说，理性是一种“自我立法的活动”（康德 G 4：§2），其立法活动受到一种准则的约束，康德称之为“范畴命题”。范畴命题表达了理性的自治性，是其统治原则。它不仅仅是确定该做什么的决策程序，而是理性的“构成准则”，即思考和行动中的基本合理标准（Rawls 1989：498–506；Rawls 2000：166，240–244；Korsgaard 1996a：36–37；O’Neill 1989b：18–19，59n，128，180；Bagnoli 2013b；Reath 2006：221–222；Reath & Timmermann 2010；Engstrom 2009：第 5 章）。
 
@@ -36,7 +36,7 @@ Rawls’ account of Kantian constructivism in moral theory (1980) generated a la
 
 学者们对康德实践理性理论的建构主义解释的论据的重要性存在分歧，尽管没有人否认对于康德来说，心灵的法则是理性的法则（参见 Guyer 2013 和 Engstrom 2013；Bagnoli 2013b）。对于建构主义解释的最普遍保留源于建构主义建立在对现实主义的批判之上，但康德关于客观道德知识的主张似乎最能由道德现实主义所证实。在这场争论中，建构主义通常被视为一种反现实主义形式（Ameriks 2003: 268, 274；Wood 2008: 108, 337, 374–375）。然而，值得注意的是，罗尔斯将康德的建构主义引入作为对现实主义和反现实主义的一种新颖替代，后者包括主观主义和相对主义（Rawls 1980；O’Neill 1989a: 1；Engstrom 2013: 138ff）。
 
-根据一些解释者的观点，康德对理性自主性的辩护发生在确定道德基础的项目中，这一项目在精神上是现实主义的，因为它呼应了人类的绝对价值（Wood 1999: 157, 114; Rauscher 2002; Langton 2007; Johnson 2007; Hills 2008; Krasnoff 1999; Kain 2006a,b; Irwin 2009; Galvin 2011）。有不同的方式来论证这一点。首先，批评者指出康德的辩护提供了一种超验论证，即强调某事情可能发生的条件。人类的价值是一切评价可能性的条件。对于这样的批评者来说，对人类价值提出超验论证已经被视为一种明显的现实主义举措（Larmore 2008: 121; Watkins & Fitzpatrick 2002; Fitzpatrick 2005; Tiffany 2006）。问题围绕着超验论证的性质，以及它们是否使我们承认道德现实主义，这是建构主义者否认的。
+根据一些解释者的观点，康德对理性自主性的辩护发生在确定道德基础的项目中，这一项目在精神上是现实主义的，因为它呼应了人类的绝对价值（Wood 1999: 157, 114; Rauscher 2002; Langton 2007; Johnson 2007; Hills 2008; Krasnoff 1999; Kain 2006a, b; Irwin 2009; Galvin 2011）。有不同的方式来论证这一点。首先，批评者指出康德的辩护提供了一种超验论证，即强调某事情可能发生的条件。人类的价值是一切评价可能性的条件。对于这样的批评者来说，对人类价值提出超验论证已经被视为一种明显的现实主义举措（Larmore 2008: 121; Watkins & Fitzpatrick 2002; Fitzpatrick 2005; Tiffany 2006）。问题围绕着超验论证的性质，以及它们是否使我们承认道德现实主义，这是建构主义者否认的。
 
 批评者认为康德的建构主义解释在很大程度上依赖于一个包含看似现实主义论点的文本。在《实践理性批判》中，康德将我们对道德法则的意识称为“理性的事实”（康德 C2 5: 46–48）。我们将道德法则视为“事实”，并且我们以对法则的敬畏之姿感受到它的吸引力。对道德法则的这种直接意识也表明我们对道德有兴趣，这种兴趣独立于自私动机而产生（康德 C2 5: 42–43）。现实主义解释者认为，从理性的事实出发的论证显示康德关于道德义务客观性的主张最终依赖于对某些道德事实（理性的事实）的感知，因此依赖于现实主义基础（Ameriks 2003: 263–282; Kleingeld 2010: 55–72）。相比之下，建构主义解释者倾向于淡化康德在道德义务客观性的一般论证中理性的事实的作用（O’Neill 2002: 81–97; Łuków 1993: 204–221）。罗尔斯认为理性的事实表明康德发展了“不仅是实践理性的建构主义概念，而且是其认证的一种一贯主义解释”（罗尔斯 1999: 524; 罗尔斯 2000: 268–273）。在他看来，理性的事实表明实践理性的结果与我们的道德经验相一致。这种一致性是康德对伦理客观性的辩护的一个组成部分，但并不意味着现实主义。相反，它只是确认实践理性的要求（由范畴命题表达）与我们对道德的日常经验之间没有差异（罗尔斯 1980: 340; 罗尔斯 1989: 523–524; 罗尔斯 2000: 253–272, 268, 273; 康德 C2, 5: 15）。罗尔斯认为，现实主义对客观性的概念是“不必要的”（1980: 570）。但罗尔斯支持实践理性一贯主义概念的论证可能显得过于薄弱，无法捕捉康德将道德义务视为客观理性要求的观点（Larmore 2008: 83–84; Stern 2012a: 7–40）。因此，一些解释者认为康德在有限主体的道德义务和实践法则的权威方面是建构主义者，但在这些法则的内容方面并非如此，这些法则适用于所有理性主体（Engstrom 2009, 2013; Bagnoli 2009; Sensen 2013）。
 
@@ -100,11 +100,11 @@ O’Neill 对建构主义的德性循环性的辩护，找到了一种解决方�
 
 ## 亚里士多德建构主义
 
-亚里士多德建构主义是关于规范真理性质的元伦理观点，根据这一观点，我们真实的规范判断代表了一个规范现实，但这种现实并不独立于道德和实践判断的行使（LeBar 2008: 182; 2013a,b）。与康德式建构主义类似，亚里士多德建构主义借助实践理性的构成特征：
+亚里士多德建构主义是关于规范真理性质的元伦理观点，根据这一观点，我们真实的规范判断代表了一个规范现实，但这种现实并不独立于道德和实践判断的行使（LeBar 2008: 182; 2013a, b）。与康德式建构主义类似，亚里士多德建构主义借助实践理性的构成特征：
 
 > 实践真理是建构的，而非发现的，因为它是符合实践理性规范的活动，而这些规范本身构成了主体性。 (LeBar 2008: 191)
 
-在这种程度上，这种元伦理观与康德式建构主义分享了将规范真理基础于理性代理特征的雄心。然而，与康德式模型相比，亚里士多德主义者认为良好实践理性的原则既不是形式的也不是程序化的。相反，它们根植于对美好生活的实质性阐述，这受到古代幸福主义的启发。智者和有德行的代理通过运用他们的智力和品格美德形成实践理性的标准（亚里士多德Nicomachean Ethics，II.6.
+在这种程度上，这种元伦理观与康德式建构主义分享了将规范真理基础于理性代理特征的雄心。然而，与康德式模型相比，亚里士多德主义者认为良好实践理性的原则既不是形式的也不是程序化的。相反，它们根植于对美好生活的实质性阐述，这受到古代幸福主义的启发。智者和有德行的代理通过运用他们的智力和品格美德形成实践理性的标准（亚里士多德 Nicomachean Ethics，II.6.
 
 对于亚里士多德建构主义的负面案例在于批评康德实践推理的描述，其形式、范围和能力。受到质疑的是实践推理是类似法律的，即受普遍性要求的支配。一些批评者认为，康德主义者很难解释如何将普遍的理性原则应用于具体案例（Höffe 1993; LeBar 2013b; Millgram 2005: 第 6 章）。在这方面，亚里士多德主义者声称具有重要优势，因为亚里士多德建构主义允许实践推理适应特定案例。亚里士多德建构主义制定了关于判断成功的规范的故事，这被认为是对康德的问题，也是当代康德伦理学中未被认识到的空白（Millgram 2005: 第 6 章）。由于其对道德法则的吸引力，康德伦理学经常被批评要么导致严格主义，要么导致空洞的形式主义。在任何一种情况下，康德伦理学似乎无法解释情境对伦理判断的相关性。这是康德建构主义者要解决的问题（O’Neill 1975; Herman 1993），但根据亚里士多德主义者的看法，解决得不够充分（LeBar 2013b）。
 
@@ -116,7 +116,7 @@ O’Neill 对建构主义的德性循环性的辩护，找到了一种解决方�
 
 ### 5.1 元伦理学中的建构主义
 
-Thomas Scanlon 为特定类别的道德判断辩护了一种受限制的建构主义的理由解释（Scanlon 1998: 11–12, chapter 4, §7.2; 2008, 2014>: 94–98）。与 Korsgaard 和 O’Neill 相反，Scanlon 拒绝将康德式建构主义视为关于所有规范真理的广泛元伦理观。他的论点之一是道德问题不能仅通过诉诸于理性的基本结构（实践理性的构成规范）来解决，而是需要通过进行实质性的论证来解决（Scanlon 2003b: 14–15, Scanlon 2014: 90–104），尽管这是许多康德主义者愿意让步的。他的目的是阐明关于对错的主张的真理，从某种契约情境的观点来看，这些主张是由此得出的。
+Thomas Scanlon 为特定类别的道德判断辩护了一种受限制的建构主义的理由解释（Scanlon 1998: 11–12, chapter 4, §7.2; 2008, 2014 >: 94–98）。与 Korsgaard 和 O’Neill 相反，Scanlon 拒绝将康德式建构主义视为关于所有规范真理的广泛元伦理观。他的论点之一是道德问题不能仅通过诉诸于理性的基本结构（实践理性的构成规范）来解决，而是需要通过进行实质性的论证来解决（Scanlon 2003b: 14–15, Scanlon 2014: 90–104），尽管这是许多康德主义者愿意让步的。他的目的是阐明关于对错的主张的真理，从某种契约情境的观点来看，这些主张是由此得出的。
 
 Scanlon 的建构方法是契约主义公式，根据这一公式，在任何情况下，如果某种行为会被任何一组原则所禁止，而这些原则没有人可以合理地拒绝作为知情、非强迫、普遍一致的基础，那么这种行为就是错误的。这种可拒绝性测试规定了道德原则的内容，并告诉我们为什么我们采纳这些原则是理性的。道德原则的正确性是通过假设一组相关个体之间的协议来解释的，这些个体的动机和他们采用的推理过程是明确规定的。独立于可拒绝性标准规定的理性协议之外，没有正确的道德原则。正确性的属性是由一组理性代理人在特定条件下发现不可拒绝的内容构成的（Scanlon 1998: 380 n 48）。
 
@@ -124,11 +124,11 @@ Scanlon 的建构方法是契约主义公式，根据这一公式，在任何情
 
 Scanlon 认为，元伦理学对于一般规范性的建构主义解释面临着自我拉靴的反驳，因为它试图通过一种已经假定了理由规范性的方法来证明理由的规范性（Scanlon 2014: 96–104）。因此，与 Korsgaard 和 Street 不同，Scanlon 认为关于行动理由的真理并非因为通过某种“建构”程序而得出而成立。我们可以通过进行规范推理（例如采用反思均衡的方法）得出关于理由的结论。但这种推理过程中的步骤涉及对我们拥有何种理由进行实质性判断。因为它需要这样的判断作为输入，这种推理并非是一个构建所有关于理由事实的过程（Scanlon 2014: 102–103）。
 
-根据斯坎隆（Scanlon）的观点，要想存在关于理由的真理，并不需要这些规范事实具有一种形而上的现实，好的规范推理可能无法保证这一点。关于这些事实是否真实存在，与普通的一阶规范思考并无“外部”问题，就像数学事实也没有这样的“外部”问题（Scanlon 2014: 16–26）。在这方面，斯坎隆的观点与鲁道夫·卡尔纳普（Rudolph Carnap）的理论有一些深刻的相似之处（Carnap 1956）。因此，斯坎隆的规范现实主义比一些其他现实主义者（如大卫·伊诺克（David Enoch）认为所需的）要“脆弱”一些（Scanlon 2014: 14，可参考 Enoch 2011a: 112–113）。
+根据斯坎隆（Scanlon）的观点，要想存在关于理由的真理，并不需要这些规范事实具有一种形而上的现实，好的规范推理可能无法保证这一点。关于这些事实是否真实存在，与普通的一阶规范思考并无“外部”问题，就像数学事实也没有这样的“外部”问题（Scanlon 2014: 16–26）。在这方面，斯坎隆的观点与鲁道夫 · 卡尔纳普（Rudolph Carnap）的理论有一些深刻的相似之处（Carnap 1956）。因此，斯坎隆的规范现实主义比一些其他现实主义者（如大卫 · 伊诺克（David Enoch）认为所需的）要“脆弱”一些（Scanlon 2014: 14，可参考 Enoch 2011a: 112–113）。
 
 ### 5.2 基于社会的建构主义
 
-元伦理学中的建构主义 - 由大卫·科普(David Copp)详细阐述，认为存在真正的道德标准，这些标准是一个决策程序的产物，该程序考虑了社会的需求和价值观以及社会情况的事实（科普，1995 年，2007 年）。因此，该理论认为道德真理取决于社会选择什么是理性的。科普的观点与康德式建构主义有一些重要特征相似。首先，基于社会的建构主义认为社会需要其成员认可某种适当的道德准则以促进合作。因此，它将道德视为一项合作企业，并暗示客观道德标准的需求是实际的。其次，这一观点用程序性术语解释了道德真理的本质，因此暗示了在程序之外没有道德事实（罗尔斯，1980 年：307）。第三，它还声称，为了足够，任何元伦理学都应该理解道德主张的规范性及其实际相关性（科普，2007 年：4-7，2013 年）。与康德式建构主义类似，它认为我们受道德义务的约束，而不受我们实际动机状态的影响。最后，基于社会的建构主义还声称，任何合理的元伦理学至少应与自然主义相容。
+元伦理学中的建构主义 - 由大卫 · 科普(David Copp)详细阐述，认为存在真正的道德标准，这些标准是一个决策程序的产物，该程序考虑了社会的需求和价值观以及社会情况的事实（科普，1995 年，2007 年）。因此，该理论认为道德真理取决于社会选择什么是理性的。科普的观点与康德式建构主义有一些重要特征相似。首先，基于社会的建构主义认为社会需要其成员认可某种适当的道德准则以促进合作。因此，它将道德视为一项合作企业，并暗示客观道德标准的需求是实际的。其次，这一观点用程序性术语解释了道德真理的本质，因此暗示了在程序之外没有道德事实（罗尔斯，1980 年：307）。第三，它还声称，为了足够，任何元伦理学都应该理解道德主张的规范性及其实际相关性（科普，2007 年：4-7，2013 年）。与康德式建构主义类似，它认为我们受道德义务的约束，而不受我们实际动机状态的影响。最后，基于社会的建构主义还声称，任何合理的元伦理学至少应与自然主义相容。
 
 然而，基于社会的建构主义与各种康德式建构主义不同，因为它对道德标准产生的决策程序的解释，以及对规范性的不同解释。虽然该程序规定了实践理性的功能，但并不承诺任何关于自主性的具体观点。
 
@@ -240,270 +240,270 @@ Korsgaard 指出了一个她认为现实主义者和反现实主义者共享的�
 
 ## Bibliography
 
-* Ameriks, Karl, 2003, “On Two Non-Realist Interpretations of Kant’s Ethics”, in *Interpreting Kant’s Critiques*, Oxford: Oxford University Press, 263–282. doi:10.1093/0199247315.003.0012
+* Ameriks, Karl, 2003, “On Two Non-Realist Interpretations of Kant’s Ethics”, in *Interpreting Kant’s Critiques*, Oxford: Oxford University Press, 263–282. doi: 10.1093/0199247315.003.0012
 * Archard, David, Monique Deveaux, Neil Manson, & Daniel Weinstock (eds.), 2013, *Reading Onora O’Neill*, London: Routledge.
 * Aristotle, [NE] 2000, *Nicomachean Ethics*, Oxford: Oxford University Press, 2000. [NE]
-* Arruda, Caroline T., 2016, “Constitutivism and the Self-Reflection Requirement”, *Philosophia*, 44(4): 1165–1183. doi:10.1007/s11406-016-9744-5
-* –––, 2017, “The Varieties of Moral Improvement, or Why Metaethical Constructivism Must Explain Moral Progress”, *Ethical Theory and Moral Practice*, 20(1): 17–38. doi:10.1007/s10677-016-9738-1
-* Bagnoli, Carla, 2002, “Moral Constructivism: A Phenomenological Argument”, *Topoi*, 21(1): 125–138. doi:10.1023/A:1014805104487
-* –––, 2009, “The Mafioso Case: Autonomy and Self-Respect”, *Ethical Theory and Moral Practice*, 12(5): 477– 493. doi:10.1007/s10677-009-9154-x
-* –––, 2012, “Morality as Practical Knowledge”, *Analytic Philosophy*, 53(1): 60–69. doi:10.1111/j.2153-960X.2012.00549.x
-* ––– (ed.), 2013a, *Constructivism in Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139094221
-* –––, 2013b, “Constructivism about Practical Knowledge”, in Bagnoli 2013a: 153–182. doi:10.1017/CBO9781139094221.009
-* –––, 2014, “Starting Points: Kantian Constructivism Reassessed”, *Ratio Juris*, 27(3): 311–329. doi:10.1111/raju.12047
-* –––, 2015, “Moral Objectivity: a Kantian Illusion?” *The Journal of Value Inquiry*, 49(1–2): 31–45. doi:10.1007/s10790-014-9448-7
-* –––, 2016, “Constructivism and the Moral Problem”, *Philosophia*, 44(4): 1229–1246. doi:10.1007/s11406-016-9745-4
+* Arruda, Caroline T., 2016, “Constitutivism and the Self-Reflection Requirement”, *Philosophia*, 44(4): 1165–1183. doi: 10.1007/s11406-016-9744-5
+* –––, 2017, “The Varieties of Moral Improvement, or Why Metaethical Constructivism Must Explain Moral Progress”, *Ethical Theory and Moral Practice*, 20(1): 17–38. doi: 10.1007/s10677-016-9738-1
+* Bagnoli, Carla, 2002, “Moral Constructivism: A Phenomenological Argument”, *Topoi*, 21(1): 125–138. doi: 10.1023/A: 1014805104487
+* –––, 2009, “The Mafioso Case: Autonomy and Self-Respect”, *Ethical Theory and Moral Practice*, 12(5): 477– 493. doi: 10.1007/s10677-009-9154-x
+* –––, 2012, “Morality as Practical Knowledge”, *Analytic Philosophy*, 53(1): 60–69. doi: 10.1111/j.2153-960X.2012.00549.x
+* ––– (ed.), 2013a, *Constructivism in Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139094221
+* –––, 2013b, “Constructivism about Practical Knowledge”, in Bagnoli 2013a: 153–182. doi: 10.1017/CBO9781139094221.009
+* –––, 2014, “Starting Points: Kantian Constructivism Reassessed”, *Ratio Juris*, 27(3): 311–329. doi: 10.1111/raju.12047
+* –––, 2015, “Moral Objectivity: a Kantian Illusion?” *The Journal of Value Inquiry*, 49(1–2): 31–45. doi: 10.1007/s10790-014-9448-7
+* –––, 2016, “Constructivism and the Moral Problem”, *Philosophia*, 44(4): 1229–1246. doi: 10.1007/s11406-016-9745-4
 * –––, 2019, “Authority as a Contingency Plan”, *Philosophical Explorations*, 22(2): 130–145.
 * –––, forthcoming, “Kant in Metaethics: The Paradox of Moral Autonomy, Solved by Publicity”, in *Kant Handbook*, Matthew C. Altman (ed.), London: Palgrave, chapter 14.
-* Baiasu, Sorin, 2016, “Constitutivism and Transcendental Practical Philosophy: How to Pull the Rabbit Out of the Hat”, *Philosophia*, 44(4): 1185–1208. doi:10.1007/s11406-016-9746-3
-* Baldwin, Thomas, 2013, “Constructive Complaints”, in Bagnoli 2013a: 201–220. doi:10.1017/CBO9781139094221.011
-* Barandalla, Ana & Michael Ridge, 2011, “Function and Self-Constitution: How to make something of yourself without being all that you can be. A commentary on Christine Korsgaard’s *The Constitution of Agency and Self-Constitution*”, *Analysis*, 71(2): 364–380. doi:10.1093/analys/anq061
+* Baiasu, Sorin, 2016, “Constitutivism and Transcendental Practical Philosophy: How to Pull the Rabbit Out of the Hat”, *Philosophia*, 44(4): 1185–1208. doi: 10.1007/s11406-016-9746-3
+* Baldwin, Thomas, 2013, “Constructive Complaints”, in Bagnoli 2013a: 201–220. doi: 10.1017/CBO9781139094221.011
+* Barandalla, Ana & Michael Ridge, 2011, “Function and Self-Constitution: How to make something of yourself without being all that you can be. A commentary on Christine Korsgaard’s *The Constitution of Agency and Self-Constitution*”, *Analysis*, 71(2): 364–380. doi: 10.1093/analys/anq061
 * Barry, Melissa, 2013, “Constructivist Practical Reasoning and Objectivity”, in Archard et al. 2013: 17–36.
-* Baynes, Kenneth, 1992, “Constructivism and Practical Reason in Rawls”, *Analyse & Kritik*, 14(1): 18–32. doi:10.1515/auk-1992-0102
-* Besch, Thomas M., 2008, “Constructing Practical Reason: O’Neill on the Grounds of Kantian Constructivism”, *Journal of Value Inquiry*, 42(1): 55–76. doi:10.1007/s10790-008-9097-9
-* –––, 2011, “Kantian Constructivism, the Issue of Scope, and Perfectionism: O’Neill on Ethical Standing”, *European Journal of Philosophy*, 19(1): 1–20. doi:10.1111/j.1468-0378.2009.00376.x
+* Baynes, Kenneth, 1992, “Constructivism and Practical Reason in Rawls”, *Analyse & Kritik*, 14(1): 18–32. doi: 10.1515/auk-1992-0102
+* Besch, Thomas M., 2008, “Constructing Practical Reason: O’Neill on the Grounds of Kantian Constructivism”, *Journal of Value Inquiry*, 42(1): 55–76. doi: 10.1007/s10790-008-9097-9
+* –––, 2011, “Kantian Constructivism, the Issue of Scope, and Perfectionism: O’Neill on Ethical Standing”, *European Journal of Philosophy*, 19(1): 1–20. doi: 10.1111/j.1468-0378.2009.00376.x
 * Blackburn, Simon, 1993, *Essays in Quasi-Realism*, Oxford: Oxford University Press.
-* Bojanovski, Jochen, 2016, “Kant’s Solution to the Euthyphro Question”, *Philosophia*, 44(4): 1209–1228. doi:10.1007/s11406-016-9747-2
-* Brady, Michael S., 2002, “Skepticism, Normativity, and Practical Identity”, *Journal of Value Inquiry*, 36(4): 403–12. doi:10.1023/A:1021998028195
-* Bratman, Michael E., 1998, “The Sources of Normativity”, *Philosophy and Phenomenological Research*, 58(3): 699–709. doi:10.2307/2653770
-* –––, 2012, “Constructivism, Agency, and the Problem of Alignment, in Constructivism in Practical Philosophy”, Lenman & Shemmer 2012a: 81–98. doi:10.1093/acprof:oso/9780199609833.003.0005
-* Bratu, Christine & Moritz Dittmeyer, 2016, “Constitutivism About Practical Principles: Its Claims, Goals, Task and Failure”, *Philosophia*, 44(4): 1129–1143. doi:10.1007/s11406-016-9748-1
-* Brink, David O., 1987, “Rawlsian Constructivism in Moral Theory”, *Canadian Journal of Philosophy*, 17(1): 71–90. doi:10.1080/00455091.1987.10715901
-* –––, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624612
+* Bojanovski, Jochen, 2016, “Kant’s Solution to the Euthyphro Question”, *Philosophia*, 44(4): 1209–1228. doi: 10.1007/s11406-016-9747-2
+* Brady, Michael S., 2002, “Skepticism, Normativity, and Practical Identity”, *Journal of Value Inquiry*, 36(4): 403–12. doi: 10.1023/A: 1021998028195
+* Bratman, Michael E., 1998, “The Sources of Normativity”, *Philosophy and Phenomenological Research*, 58(3): 699–709. doi: 10.2307/2653770
+* –––, 2012, “Constructivism, Agency, and the Problem of Alignment, in Constructivism in Practical Philosophy”, Lenman & Shemmer 2012a: 81–98. doi: 10.1093/acprof: oso/9780199609833.003.0005
+* Bratu, Christine & Moritz Dittmeyer, 2016, “Constitutivism About Practical Principles: Its Claims, Goals, Task and Failure”, *Philosophia*, 44(4): 1129–1143. doi: 10.1007/s11406-016-9748-1
+* Brink, David O., 1987, “Rawlsian Constructivism in Moral Theory”, *Canadian Journal of Philosophy*, 17(1): 71–90. doi: 10.1080/00455091.1987.10715901
+* –––, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511624612
 * Bukoski, Michael, 2016, “A Critique of Smith’s Constitutivism”, *Ethics*, 127(1): 116–146.
 * –––, 2017, “Self-validation and internalism in Velleman’s constitutivism”, *Philosophical Studies*, 174(11): 2667–2686.
 * –––, 2018, “Korsgaard’s Arguments for the Value of Humanity”, *Philosophical Review*, 127(2): 197–224
 * Carnap, Rudolf, 1956, “The Methodological Character of Theoretical Concepts”, in *Minnesota Studies in the Philosophy of Science*, by Herbert Feigl and Michael Scriven (eds), Minneapolis, MN: University of Minnesota Press, 1: 38–76. [[Carnap 1956 available online](http://mcps.umn.edu/philosophy/completeVol1.html)]
-* Chrisman, Matthew, 2010, “Constructivism, Expressivism and Ethical Knowledge”, *International Journal of Philosophical Studies*, 18(3): 331–53. doi:10.1080/09672559.2010.492119
-* Cohen, G.A., 1996, “Reason, Humanity, and the Moral Law”, in Korsgaard 1996a: 167–188. doi:10.1017/CBO9780511554476.007
-* –––, 2003, “Facts and Principles”, *Philosophy and Public Affairs*, 31(3): 211–45. doi:10.1111/j.1088-4963.2003.00211.x
-* Coleman, Mary Clayton, 2006, “Korsgaard on Kant on the Value of Humanity”, *Journal of Value Inquiry*, 40(4): 475–478. doi:10.1007/s10790-006-9006-z
+* Chrisman, Matthew, 2010, “Constructivism, Expressivism and Ethical Knowledge”, *International Journal of Philosophical Studies*, 18(3): 331–53. doi: 10.1080/09672559.2010.492119
+* Cohen, G.A., 1996, “Reason, Humanity, and the Moral Law”, in Korsgaard 1996a: 167–188. doi: 10.1017/CBO9780511554476.007
+* –––, 2003, “Facts and Principles”, *Philosophy and Public Affairs*, 31(3): 211–45. doi: 10.1111/j.1088-4963.2003.00211.x
+* Coleman, Mary Clayton, 2006, “Korsgaard on Kant on the Value of Humanity”, *Journal of Value Inquiry*, 40(4): 475–478. doi: 10.1007/s10790-006-9006-z
 * Copp, David, 1995, *Morality, Normativity, and Society*, New York: Oxford University Press.
-* –––, 2005, “A Skeptical Challenge to Moral Non-Naturalism and a Defense of Constructivist Naturalism”, *Philosophical Studies*, 126(2): 269–283. doi:10.1007/s11098-005-2161-4
-* –––, 2006, “Introduction: Metaethics and Normative Ethics”, *Handbook of Ethical Theory*, New York: Oxford University Press, pp. 3–35. doi:10.1093/0195147790.003.0001
-* –––, 2007. *Morality in a Natural World*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511497940
-* –––, 2008, “Darwinian Skepticism about Moral Realism”, *Philosophical Issues*, 18(1):186–206. doi:10.1111/j.1533-6077.2008.00144.x
-* –––, 2013, “Is Constructivism an Alternative to Moral Realism?”,In Bagnoli 2013a: 108–132. doi:10.1017/CBO9781139094221.007
+* –––, 2005, “A Skeptical Challenge to Moral Non-Naturalism and a Defense of Constructivist Naturalism”, *Philosophical Studies*, 126(2): 269–283. doi: 10.1007/s11098-005-2161-4
+* –––, 2006, “Introduction: Metaethics and Normative Ethics”, *Handbook of Ethical Theory*, New York: Oxford University Press, pp. 3–35. doi: 10.1093/0195147790.003.0001
+* –––, 2007. *Morality in a Natural World*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511497940
+* –––, 2008, “Darwinian Skepticism about Moral Realism”, *Philosophical Issues*, 18(1): 186–206. doi: 10.1111/j.1533-6077.2008.00144.x
+* –––, 2013, “Is Constructivism an Alternative to Moral Realism?”, In Bagnoli 2013a: 108–132. doi: 10.1017/CBO9781139094221.007
 * Cullity, Garrett and Berys Gaut (eds), 1997, *Ethics and Practical Reason*, Oxford: Clarendon Press.
-* Cureton, Adam, 2016, “Unity of Reasons”, *Ethical Theory and Moral Practice*, 19(4): 877–895. doi:10.1007/s10677-016-9704-y
-* Darwall, Stephen, Alan Gibbard, & Peter Railton, 1992, “Toward *Fin de Siecle* Ethics: Some Trends”, *The Philosophical Review*, 101: 115–189. Reprinted in *Moral Discourse and Practice*, Stephen Darwall, Alan Gibbard and Peter Railton (eds.), 1997, New York: Oxford University Press, 3–47. doi:10.2307/2185045
-* Dorsey, Dale, 2012, “A Puzzle for Constructivism and How to Solve It, in Constructivism in Practical Philosophy”, in Lenman & Shemmer 2012a: 99–118. doi:10.1093/acprof:oso/9780199609833.003.0006
-* Driver, Julia, 2012, “Constructivism and Feminism”, in *Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, Sharon L. Crasnow and Anita M. Superson (eds.), New York: Oxford University Press, chapter 7, doi:10.1093/acprof:oso/9780199855469.003.0008
+* Cureton, Adam, 2016, “Unity of Reasons”, *Ethical Theory and Moral Practice*, 19(4): 877–895. doi: 10.1007/s10677-016-9704-y
+* Darwall, Stephen, Alan Gibbard, & Peter Railton, 1992, “Toward *Fin de Siecle* Ethics: Some Trends”, *The Philosophical Review*, 101: 115–189. Reprinted in *Moral Discourse and Practice*, Stephen Darwall, Alan Gibbard and Peter Railton (eds.), 1997, New York: Oxford University Press, 3–47. doi: 10.2307/2185045
+* Dorsey, Dale, 2012, “A Puzzle for Constructivism and How to Solve It, in Constructivism in Practical Philosophy”, in Lenman & Shemmer 2012a: 99–118. doi: 10.1093/acprof: oso/9780199609833.003.0006
+* Driver, Julia, 2012, “Constructivism and Feminism”, in *Out from the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, Sharon L. Crasnow and Anita M. Superson (eds.), New York: Oxford University Press, chapter 7, doi: 10.1093/acprof: oso/9780199855469.003.0008
 * –––, 2017, “Contingency and Constructivism”, in Simon Kirchin (ed.), *Reading Parfit: On What Matters*, London: Routledge. pp. 172–188.
 * Dworkin, Ronald, 1975, “The Original Position”, in Norman Daniels (ed.), *Reading Rawls: Critical Studies on Rawls’ a Theory of Justice*, New York: Basic Books. Reprinted in 1989, Stanford, CA: Stanford University Press, pp. 16–52.
 * Elgin, Catherine Z., 1997, *Between the Absolute and the Arbitrary*, Ithaca, NY: Cornell University Press.
 * Elizondo, E. Sonny, 2013, “Reason in its Practical Application”, *Philosophers’ Imprint*, 13(21): 1–17. [[Elizondo 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.021)]
 * Engstrom, Stephen, 2009, *The Form of Practical Knowledge*, Cambridge, MA: Harvard University Press.
-* –––, 2012, “Bringing Practical Knowledge into View: Response to Bagnoli, Hill, and Reath”, *Analytic Philosophy*, 53(1): 89–97. doi:10.1111/j.2153-960X.2012.00552.x
-* –––, 2013, “Constructivism and Practical Knowledge”, in Bagnoli 2013a: 133–152. doi:10.1017/CBO9781139094221.008
-* Enoch, David, 2006, “Agency, Shmagency: Why Normativity Won’t Come from What is Constitutive of Agency”, *Philosophical Review*, 115(2): 169–198. doi:10.1215/00318108-2005-014
-* –––, 2009, “Can There Be a Global, Interesting, Coherent Constructivism about Practical Reason?”,*Philosophical Explorations*, 12(3): 319–339. doi:10.1080/13869790903067683
-* –––, 2011a, *Taking Morality Seriously: A Defense of Robust Realism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
+* –––, 2012, “Bringing Practical Knowledge into View: Response to Bagnoli, Hill, and Reath”, *Analytic Philosophy*, 53(1): 89–97. doi: 10.1111/j.2153-960X.2012.00552.x
+* –––, 2013, “Constructivism and Practical Knowledge”, in Bagnoli 2013a: 133–152. doi: 10.1017/CBO9781139094221.008
+* Enoch, David, 2006, “Agency, Shmagency: Why Normativity Won’t Come from What is Constitutive of Agency”, *Philosophical Review*, 115(2): 169–198. doi: 10.1215/00318108-2005-014
+* –––, 2009, “Can There Be a Global, Interesting, Coherent Constructivism about Practical Reason?”, *Philosophical Explorations*, 12(3): 319–339. doi: 10.1080/13869790903067683
+* –––, 2011a, *Taking Morality Seriously: A Defense of Robust Realism*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199579969.001.0001
 * –––, 2011b, “Shmagency Revisited”, in Michael S. Brady (ed.), *New Waves in Metaethics*, Basingstoke: Palgrave Macmillan UK, pp. 208–233.
-* Ferrero, Luca, 2009, “What Good Is a Diachronic Will?”,*Philosophical Studies*, 144(3):403–430. doi:10.1007/s11098-008-9217-1
+* Ferrero, Luca, 2009, “What Good Is a Diachronic Will?”, *Philosophical Studies*, 144(3): 403–430. doi: 10.1007/s11098-008-9217-1
 * –––, 2010a, “Constitutivism and the Inescapability of Agency”, *Oxford Studies in Metaethics*, 4: 303–333.
 * –––, 2010b, “Decisions, Diachronic Autonomy, and the Division of Deliberative Labor”, *Philosophers’ Imprint*, 10(2): 1–23. [[Ferrero 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.002)]
-* –––, 2019, “The Simple Constitutivist Move”, *Philosophical Explorations*, 22(2): 146–162. doi:10.1080/13869795.2019.1599048
-* Fitzpatrick, William J., 2005, “The Practical Turn in Ethical Theory: Korsgaard’s Constructivism, Realism and the Nature of Normativity”, *Ethics*, 115(4): 651–691. doi:10.1086/430750
-* –––, 2013, “How Not to be An Ethical Constructivist: A Critique of Korsgaard’s Neo-Kantian Constitutivism”, in Bagnoli 2013a: 41–62. doi:10.1017/CBO9781139094221.004
-* Formosa, Paul, 2013, “Is Kant a Moral Constructivist or a Moral Realist?”, *European Journal of Philosophy*, 21(2): 170–96. doi:10.1111/j.1468-0378.2010.00438.x
+* –––, 2019, “The Simple Constitutivist Move”, *Philosophical Explorations*, 22(2): 146–162. doi: 10.1080/13869795.2019.1599048
+* Fitzpatrick, William J., 2005, “The Practical Turn in Ethical Theory: Korsgaard’s Constructivism, Realism and the Nature of Normativity”, *Ethics*, 115(4): 651–691. doi: 10.1086/430750
+* –––, 2013, “How Not to be An Ethical Constructivist: A Critique of Korsgaard’s Neo-Kantian Constitutivism”, in Bagnoli 2013a: 41–62. doi: 10.1017/CBO9781139094221.004
+* Formosa, Paul, 2013, “Is Kant a Moral Constructivist or a Moral Realist?”, *European Journal of Philosophy*, 21(2): 170–96. doi: 10.1111/j.1468-0378.2010.00438.x
 * Förster, Eckart (ed.), 1989, *Kant’s Transcendental Deductions*, Stanford, CA: Stanford University Press.
-* Galvin, Richard, 2011, “Rounding Up the Usual Suspects: Varieties of Kantian Constructivism in Ethics”, *Philosophical Quarterly*, 61(242): 16–36. doi:10.1111/j.1467-9213.2010.657.x
+* Galvin, Richard, 2011, “Rounding Up the Usual Suspects: Varieties of Kantian Constructivism in Ethics”, *Philosophical Quarterly*, 61(242): 16–36. doi: 10.1111/j.1467-9213.2010.657.x
 * Gaut, Berys, 1997, “The Structure of Practical Reason”, in Cullity & Gaut 1997: 161–88.
-* Gauthier, David, 1974a, “The Impossibility of Rational Egoism”, *Journal of Philosophy*, 71(14): 439–456. doi:10.2307/2024822
-* –––, 1974b, “Rational Cooperation”, *Noûs*, 8(1): 53–65. doi:10.2307/2214645
-* –––, 1986, *Morals By Agreement*, Oxford: Oxford University Press. doi:10.1093/0198249926.001.0001
-* Gert, Joshua, 2002, “Korsgaard’s Private Reasons Argument”, *Philosophy and Phenomenological Research*, 64(2): 64–84. doi:10.1111/j.1933-1592.2002.tb00003.x
+* Gauthier, David, 1974a, “The Impossibility of Rational Egoism”, *Journal of Philosophy*, 71(14): 439–456. doi: 10.2307/2024822
+* –––, 1974b, “Rational Cooperation”, *Noûs*, 8(1): 53–65. doi: 10.2307/2214645
+* –––, 1986, *Morals By Agreement*, Oxford: Oxford University Press. doi: 10.1093/0198249926.001.0001
+* Gert, Joshua, 2002, “Korsgaard’s Private Reasons Argument”, *Philosophy and Phenomenological Research*, 64(2): 64–84. doi: 10.1111/j.1933-1592.2002.tb00003.x
 * Gibbard, Alan, 1990, *Wise Choices, Apt Feelings*, Cambridge, MA: Harvard University Press.
-* –––, 1999, “Morality as Consistency in Living: Korsgaard’s Kantian Lectures”, *Ethics*, 110(1): 140–164. doi:10.1086/233207
+* –––, 1999, “Morality as Consistency in Living: Korsgaard’s Kantian Lectures”, *Ethics*, 110(1): 140–164. doi: 10.1086/233207
 * Gledhill, James and Sebastian Stein (eds.), 2020, *Hegel and Contemporary Practical Philosophy. Beyond Kantian Constructivism*, London: Routledge.
-* Gobsch, Wolfram, 2019, “Autonomy and Radical Evil: a Kantian Challenge to Constitutivism”, *Philosophical Explorations*, 22(2): 194–207. doi:10.1080/13869795.2019.1599054
-* Guyer, Paul, 2013, “Constructivism and Self-constitution”, in Timmons & Baiasu 2013: 176–200. doi:10.1093/acprof:oso/9780195395686.003.0009
-* Hare, R.M., 1952, *The Language of Morals*, Oxford: Clarendon Press. doi:10.1093/0198810776.001.0001
-* –––, 1983, “Rawls’ Theory of Justice”, *Philosophical Quarterly*, 23(91): 144–155. Reprinted in *Essays in Ethical Theory*, Oxford: Clarendon Press, 1989, 145–174. doi:10.2307/2217486
+* Gobsch, Wolfram, 2019, “Autonomy and Radical Evil: a Kantian Challenge to Constitutivism”, *Philosophical Explorations*, 22(2): 194–207. doi: 10.1080/13869795.2019.1599054
+* Guyer, Paul, 2013, “Constructivism and Self-constitution”, in Timmons & Baiasu 2013: 176–200. doi: 10.1093/acprof: oso/9780195395686.003.0009
+* Hare, R.M., 1952, *The Language of Morals*, Oxford: Clarendon Press. doi: 10.1093/0198810776.001.0001
+* –––, 1983, “Rawls’ Theory of Justice”, *Philosophical Quarterly*, 23(91): 144–155. Reprinted in *Essays in Ethical Theory*, Oxford: Clarendon Press, 1989, 145–174. doi: 10.2307/2217486
 * Herman, Barbara, 1989, “Justification and Objectivity: Comments on Rawls and Allison”, in Förster 1989: 131–141.
 * –––, 1993, *The Practice of Moral Judgment*, Cambridge, MA: Harvard University Press.
 * –––, 2007, *Moral Literacy*, Cambridge, MA: Harvard University Press.
-* Hill, Thomas E. Jr., 1989, “Kantian Constructivism in Ethics”, *Ethics*, 99(4): 752–770. doi:10.1086/293120
-* –––, 2001, “Hypothetical Consent in Kantian Constructivism”, *Social Philosophy and Policy*, 18(2): 300–29. Reprinted in *Human Welfare and Moral Worth: Kantian Perspectives*, Oxford: Oxford University Press, 2002, 61–95. doi:10.1017/S0265052500002995 doi:10.1093/0199252637.003.0004
-* –––, 2008, “Moral Construction as a Task: Sources and Limits”, *Social Philosophy and Policy*, 25(1): 214–236. doi:10.1017/S0265052508080084
-* –––, 2011, “Kantian Constructivism as Normative Ethics”, in *Oxford Studies in Normative Ethics* (volume 1), Mark Timmons (ed.), Oxford: Oxford University Press, pp. 26–50. doi:10.1093/acprof:oso/9780199693269.001.0001
+* Hill, Thomas E. Jr., 1989, “Kantian Constructivism in Ethics”, *Ethics*, 99(4): 752–770. doi: 10.1086/293120
+* –––, 2001, “Hypothetical Consent in Kantian Constructivism”, *Social Philosophy and Policy*, 18(2): 300–29. Reprinted in *Human Welfare and Moral Worth: Kantian Perspectives*, Oxford: Oxford University Press, 2002, 61–95. doi: 10.1017/S0265052500002995 doi: 10.1093/0199252637.003.0004
+* –––, 2008, “Moral Construction as a Task: Sources and Limits”, *Social Philosophy and Policy*, 25(1): 214–236. doi: 10.1017/S0265052508080084
+* –––, 2011, “Kantian Constructivism as Normative Ethics”, in *Oxford Studies in Normative Ethics* (volume 1), Mark Timmons (ed.), Oxford: Oxford University Press, pp. 26–50. doi: 10.1093/acprof: oso/9780199693269.001.0001
 * –––, 2013, “Varieties of Constructivism”, in Archard et al. 2013: 37–54.
-* Hills, Alison, 2008, “Kantian Value Realism”, *Ratio*, 21(2): 182–200. doi:10.1111/j.1467-9329.2008.00394.x
+* Hills, Alison, 2008, “Kantian Value Realism”, *Ratio*, 21(2): 182–200. doi: 10.1111/j.1467-9329.2008.00394.x
 * Höffe, Otfried, 1993, “Review of *Constructions of Reason* by Onora O’Neill [O‘Neill 1989b]” *Philosophische Rundschau*, 40(1–2): 83–86.
-* Hussain, Nadeem J.Z., 2012, “A Problem for Ambitious Metanormative Constructivism”, in Lenman & Shemmer 2012a: 180–94. doi:10.1093/acprof:oso/9780199609833.003.0010
+* Hussain, Nadeem J.Z., 2012, “A Problem for Ambitious Metanormative Constructivism”, in Lenman & Shemmer 2012a: 180–94. doi: 10.1093/acprof: oso/9780199609833.003.0010
 * Hussain, Nadeem J.Z. & Nishi Shah, 2006, “Misunderstanding Metaethics: Korsgaard’s Rejection of Realism”, *Oxford Studies in Metaethics*, 1: 265–294.
-* –––, 2013, “Meta-ethics and its Discontents: A Case Study of Korsgaard”, in Bagnoli 2013a: 82–107. doi:10.1017/CBO9781139094221.006
+* –––, 2013, “Meta-ethics and its Discontents: A Case Study of Korsgaard”, in Bagnoli 2013a: 82–107. doi: 10.1017/CBO9781139094221.006
 * Irwin Terence, 2004, “Kantian Autonomy”, in *Agency and Action*, John Hyman & Helen Steward (eds.), New York: Cambridge University Press.
 * –––, 2009, “Kant: Metaethical Questions”, in his *The Development of Ethics: Volume III: From Kant to Rawls*, Oxford: Oxford: University Press, pp. 147–173.
-* James, Aaron, 2007, “Constructivism about Practical Reasons”, *Philosophy and Phenomenological Research*, 74(2): 302–25. doi:10.1111/j.1933-1592.2007.00019.x
-* –––, 2012, “Constructing Protagoreon Objectivity”, Lenman & Shemmer 2012a: 60–80. doi:10.1093/acprof:oso/9780199609833.003.0004
+* James, Aaron, 2007, “Constructivism about Practical Reasons”, *Philosophy and Phenomenological Research*, 74(2): 302–25. doi: 10.1111/j.1933-1592.2007.00019.x
+* –––, 2012, “Constructing Protagoreon Objectivity”, Lenman & Shemmer 2012a: 60–80. doi: 10.1093/acprof: oso/9780199609833.003.0004
 * Jezzi, Nathaniel, 2016, “Constructivism in Metaethics”, *The Internet Encyclopedia of Philosophy*, [available online](http://www.iep.utm.edu/con-ethi/), accessed on 30 May 2017.
 * Johnson, Robert N., 2007, “Value and Autonomy in Kant’s Ethics”, *Oxford Studies in Metaethics*, 2: 133–48.
 * Joyce, Richard, 2015, “Moral Anti-Realism”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/moral-anti-realism/>.
 * Kain, Patrick, 2006a, “Constructivism, Intrinsic Normativity, and the Motivational Analysis Argument”, *Moralische Motivation. Kant und die Alternativen* (Kant-Forschungen, 16), Heiner Klemme, Manfred Kuehn, and Dieter Schönecker (eds), Hamburg: Meiner Verlag, pp. 59–78.
-* –––, 2006b, “Realism and Anti-Realism in Kant’s Second *Critique*”, *Philosophy Compass*, 1(5): 449–465. doi:10.1111/j.1747-9991.2006.00031.x
+* –––, 2006b, “Realism and Anti-Realism in Kant’s Second *Critique*”, *Philosophy Compass*, 1(5): 449–465. doi: 10.1111/j.1747-9991.2006.00031.x
 * Kant, Immanuel, [*KrV*] 1781, *Critique of Pure Reason*, A 1781 B 1787, trans. Paul Guyer and Allen Wood, Cambridge: Cambridge University Press, 1999.
 * –––, [*G*] 1785, *Grundlegung zur Metaphysik der Sitten*, in *Kants gesammelte Schriften*, *Preussische Akademie der Wissenschaften*, Berlin, vol. IV. *Groundwork of the Metaphysic of Morals*, in *Practical Philosophy*, A. Wood (ed.), Cambridge University Press, 1996.
 * –––, [*WOT*] 1786, *What Does it Mean to Orient Oneself in Thinking?*, in *Religion and Rational Theology*, trans. A. W. Wood and G. di Giovanni, Cambridge: Cambridge University Press, 1996, 8: 133–46.
 * –––, [*C2*] 1788, *Critique of Practical Reason, Kants gesammelte Schriften*, Preussische Akademie der Wissenschaften, Berlin, 1907, vol. V; in *Practical Philosophy*, A. Wood (ed.), Cambridge University Press, 1983.
-* Katsafanas, Paul, 2013, *Agency and the Foundations of Ethics: Nietzschean Constitutivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199645077.001.0001
+* Katsafanas, Paul, 2013, *Agency and the Foundations of Ethics: Nietzschean Constitutivism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199645077.001.0001
 * –––, 2018, “Constitutivism about Practical Reasons”, in Daniel Star (ed.), *The Oxford Handbook of Reasons and Normativity*, Oxford: Oxford University Press, pp. 367–394.
-* Kaufman, Alexander, 2012, “Rawls and Kantian Constructivism”, *Kantian Review*, 17(2): 227–56. doi:10.1017/S1369415412000040
-* Kerstein, Samuel J., 2001, “Korsgaard’s Kantian Arguments for the Value of Humanity”, *Canadian Journal of Philosophy*, 31(1): 23–52. doi:10.1080/00455091.2001.10717559
-* Kleingeld, Pauline, 2010, “Moral Consciousness and the ‘Fact of Reason’”, in Reath & Timmermann 2010: 55–72. doi:10.1017/CBO9780511770869.005
-* Kolodny, Niko, 2005, “Why Be Rational?”,*Mind*, 114(455): 509–563. doi:10.1093/mind/fzi509
-* Korsgaard, Christine M., 1983, “Two Distinctions in Goodness”, *Philosophical Review*, 92(2): 169–195. doi:10.2307/2184924 [[Korsgaard 1983 available online](http://www.people.fas.harvard.edu/~korsgaar/CMK.Two.Distinctions.pdf)]
-* –––, 1996a, *The Sources of Normativity*, Onora O’Neill (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476
-* –––, 1996b, *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174503
-* –––, 1997, “The Normativity of Instrumental Reason”, in Cullity & Gaut 1997: 215–254. Reprinted in Korsgaard 2008: 27–68. doi:10.1093/acprof:oso/9780199552733.003.0002
-* –––, 1998, “Motivation, Metaphysics, and the Value of the Self: A Reply to Ginsborg, Guyer, and Schneewind”, *Ethics*, 109(1): 49–66. doi:10.1086/233873
-* –––, 2003, “Realism and Constructivism in Twentieth-Century Moral Philosophy”, *The Journal of Philosophical Research*, (APA Centennial Supplement, Philosophy in America at the End of the Century), 28(supplement): 99–122. Reprinted in Korsgaard 2008: 302–326. doi:10.5840/jpr_2003_8 doi:10.1093/acprof:oso/9780199552733.003.0011
+* Kaufman, Alexander, 2012, “Rawls and Kantian Constructivism”, *Kantian Review*, 17(2): 227–56. doi: 10.1017/S1369415412000040
+* Kerstein, Samuel J., 2001, “Korsgaard’s Kantian Arguments for the Value of Humanity”, *Canadian Journal of Philosophy*, 31(1): 23–52. doi: 10.1080/00455091.2001.10717559
+* Kleingeld, Pauline, 2010, “Moral Consciousness and the ‘Fact of Reason’”, in Reath & Timmermann 2010: 55–72. doi: 10.1017/CBO9780511770869.005
+* Kolodny, Niko, 2005, “Why Be Rational?”, *Mind*, 114(455): 509–563. doi: 10.1093/mind/fzi509
+* Korsgaard, Christine M., 1983, “Two Distinctions in Goodness”, *Philosophical Review*, 92(2): 169–195. doi: 10.2307/2184924 [[Korsgaard 1983 available online](http://www.people.fas.harvard.edu/~korsgaar/CMK.Two.Distinctions.pdf)]
+* –––, 1996a, *The Sources of Normativity*, Onora O’Neill (ed.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511554476
+* –––, 1996b, *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139174503
+* –––, 1997, “The Normativity of Instrumental Reason”, in Cullity & Gaut 1997: 215–254. Reprinted in Korsgaard 2008: 27–68. doi: 10.1093/acprof: oso/9780199552733.003.0002
+* –––, 1998, “Motivation, Metaphysics, and the Value of the Self: A Reply to Ginsborg, Guyer, and Schneewind”, *Ethics*, 109(1): 49–66. doi: 10.1086/233873
+* –––, 2003, “Realism and Constructivism in Twentieth-Century Moral Philosophy”, *The Journal of Philosophical Research*, (APA Centennial Supplement, Philosophy in America at the End of the Century), 28(supplement): 99–122. Reprinted in Korsgaard 2008: 302–326. doi: 10.5840/jpr_2003_8 doi: 10.1093/acprof: oso/9780199552733.003.0011
 * –––, 2006, “Morality and the Logic of Caring”, in *Taking Ourselves Seriously and Getting it Right*, Harry G. Frankfurt (ed.), Stanford, CA: Stanford University Press, pp. 55–76.
-* –––, 2008, *The Constitution of Agency: Essays on Practical Reason and Moral Psychology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552733.001.0001
-* –––, 2009, *Self-Constitution: Action, Identity, and Integrity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
-* –––, 2014, “The Normative Conception of Agency”, in *Rational and Social Agency: The Philosophy of Michael Bratman*, Manuel Vargas and Gideon Yaffe (eds), New York: Oxford University Press, chapter 9. doi:10.1093/acprof:oso/9780199794515.003.0009
-* –––, 2019, “Constitutivism and the Virtues”, *Philosophical Explorations*, 22(2): 98–116. doi:10.1080/13869795.2019.1599050
-* Krasnoff, Larry, 1999, “How Kantian is Constructivism”, *Kant Studien*, 90(4): 385–409. doi:10.1515/kant.1999.90.4.385
-* –––, 2013, “Constructing Practical Justification: How Can the Categorical Imperative Justify Desire-based Actions?”, in Timmons & Baiasu 2013: chapter 4. doi:10.1093/acprof:oso/9780195395686.003.0005
+* –––, 2008, *The Constitution of Agency: Essays on Practical Reason and Moral Psychology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552733.001.0001
+* –––, 2009, *Self-Constitution: Action, Identity, and Integrity*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552795.001.0001
+* –––, 2014, “The Normative Conception of Agency”, in *Rational and Social Agency: The Philosophy of Michael Bratman*, Manuel Vargas and Gideon Yaffe (eds), New York: Oxford University Press, chapter 9. doi: 10.1093/acprof: oso/9780199794515.003.0009
+* –––, 2019, “Constitutivism and the Virtues”, *Philosophical Explorations*, 22(2): 98–116. doi: 10.1080/13869795.2019.1599050
+* Krasnoff, Larry, 1999, “How Kantian is Constructivism”, *Kant Studien*, 90(4): 385–409. doi: 10.1515/kant.1999.90.4.385
+* –––, 2013, “Constructing Practical Justification: How Can the Categorical Imperative Justify Desire-based Actions?”, in Timmons & Baiasu 2013: chapter 4. doi: 10.1093/acprof: oso/9780195395686.003.0005
 * Lafont, Christina, 2002, “Realismus und Konstruktivismus in der Kantischen Moralphilosophie—das Beispiel der Diskursethik”, *Deutsche Zeitschrift für Philosophie*, 50(1): 39–52.
-* –––, 2004, “Moral Objectivity and Reasonable Agreement: Can Realism Be Reconciled with Kantian Constructivism?”, *Ratio Juris*, 17(1): 27–51. doi:10.1111/j.0952-1917.2004.00253.x
-* Langton, Rae, 2007, “Objective and Unconditioned Value”, *Philosophical Review*, 116(2): 157–185. doi:10.1215/00318108-2006-034
+* –––, 2004, “Moral Objectivity and Reasonable Agreement: Can Realism Be Reconciled with Kantian Constructivism?”, *Ratio Juris*, 17(1): 27–51. doi: 10.1111/j.0952-1917.2004.00253.x
+* Langton, Rae, 2007, “Objective and Unconditioned Value”, *Philosophical Review*, 116(2): 157–185. doi: 10.1215/00318108-2006-034
 * Larmore, Charles, 2008, *The Autonomy of Morality*, Cambridge: Cambridge University Press.
 * Laitinen, Arto, 2016, “Hegelian Constructivism in Ethical Theory?”, in *“I that is We and We that is I”. Perspectives on Contemporary Hegel: Social Ontology, Recognition, Naturalism, and the Critique of Kantian Constructivism*, Italo Testa & Luigi Ruggiu (eds.), Leiden: Brill, pp. 127–146.
-* Lavin, Douglas, 2004, “Practical Reason and the Possibility of Error”, *Ethics*, 114(3): 424–457. doi:10.1086/381695
-* LeBar, Mark, 2008, “Aristotelian Constructivism”, *Social Philosophy and Policy*, 25(1): 182–213. doi:10.1017/S0265052508080072
-* –––, 2013a, *The Value of Living Well*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199931118.001.0001
-* –––, 2013b, “Constructivism and Particularism”, in Bagnoli 2013a: 183–200. doi:10.1017/CBO9781139094221.010
+* Lavin, Douglas, 2004, “Practical Reason and the Possibility of Error”, *Ethics*, 114(3): 424–457. doi: 10.1086/381695
+* LeBar, Mark, 2008, “Aristotelian Constructivism”, *Social Philosophy and Policy*, 25(1): 182–213. doi: 10.1017/S0265052508080072
+* –––, 2013a, *The Value of Living Well*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199931118.001.0001
+* –––, 2013b, “Constructivism and Particularism”, in Bagnoli 2013a: 183–200. doi: 10.1017/CBO9781139094221.010
 * Leffler, Olof, 2019, “New Shmagency Worries”, *Journal of Ethics and Social Philosophy*, 15(2): 121–145.
 * Lenman, James, 2010, “Humean Constructivism in Moral Theory”, *Oxford Studies in Metaethics*, 5: 175–193.
-* –––, 2012, “Expressivism and Constructivism”, in *Constructivism in Practical Philosophy*, Lenman & Shemmer 2012a: 213–25. doi:10.1093/acprof:oso/9780199609833.003.0012
-* Lenman, James & Yonatan Shemmer (eds.), 2012a, *Constructivism in Practical Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199609833.001.0001
-* –––, 2012b, “Introduction”, in Lenman & Shemmer 2012a: 1–17. DOI:10.1093/acprof:oso/9780199609833.003.0001
+* –––, 2012, “Expressivism and Constructivism”, in *Constructivism in Practical Philosophy*, Lenman & Shemmer 2012a: 213–25. doi: 10.1093/acprof: oso/9780199609833.003.0012
+* Lenman, James & Yonatan Shemmer (eds.), 2012a, *Constructivism in Practical Philosophy*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199609833.001.0001
+* –––, 2012b, “Introduction”, in Lenman & Shemmer 2012a: 1–17. DOI: 10.1093/acprof: oso/9780199609833.003.0001
 * Lillehammer, Hallvard, 2011, “Constructivism and the Error Theory”, in Christian Miller (ed.), *The Continuum Companion To Ethics*, London: Continuum.
 * Lindeman, Kathryn, 2017, “Constitutivism without Normative Thresholds”, *Journal of Ethics and Social Philosophy*, 3(12): 231–258.
 * –––, 2019a, “Functional Constitutivism’s Misunderstood Resources: A Limited Defense of Smith’s Constitutivism”, *Ethics*, 130(1): 79–91.
-* Łuków, Paweł, 1993, “The Fact of Reason: Kant’s Passage to Ordinary Moral Knowledge”, *Kant Studien*, 84(2): 204–21. doi:10.1515/kant.1993.84.2.204
+* Łuków, Paweł, 1993, “The Fact of Reason: Kant’s Passage to Ordinary Moral Knowledge”, *Kant Studien*, 84(2): 204–21. doi: 10.1515/kant.1993.84.2.204
 * Mackie, J.L., 1977, *Ethics: Inventing Right and Wrong*, New York: Penguin Books.
-* Magri, Tito, 2002, “*Frères Ennemis*. The Common Root of Expressivism and Constructivism”, *Topoi*, 21(1): 153–164. doi:10.1023/A:1014813322234
+* Magri, Tito, 2002, “*Frères Ennemis*. The Common Root of Expressivism and Constructivism”, *Topoi*, 21(1): 153–164. doi: 10.1023/A: 1014813322234
 * McDowell, John, 1985, “Values and Secondary Qualities”, in Ted Honderich (ed.), *Morality and Objectivity: A Tribute to J. L. Mackie*, London: Routledge, 110–129.
-* Meyers, Chris, 2012, “Expressivism, Constructivism, and the Supervenience of Moral Properties”, *Philosophical Explorations*, 15(1): 17–31. doi:10.1080/13869795.2012.647358
+* Meyers, Chris, 2012, “Expressivism, Constructivism, and the Supervenience of Moral Properties”, *Philosophical Explorations*, 15(1): 17–31. doi: 10.1080/13869795.2012.647358
 * Miller, Alexander, 2014, “Realism”, *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2014/entries/realism/>.
 * Millgram, Elijah, 2005, *Ethics Done Right: Practical Reasoning as a Foundation for Moral Theory*, Cambridge: Cambridge University Press, esp. chapters 4 and 6.
 * –––, 2015, *The Great Endarkenment: Philosophy for an Age of Hyperspecialization*, Oxford: Oxford University Press.
-* Milo, Ronald, 1995, “Contractarian Constructivism”, *Journal of Philosophy*, 92(4): 181–204. doi:10.2307/2940922
+* Milo, Ronald, 1995, “Contractarian Constructivism”, *Journal of Philosophy*, 92(4): 181–204. doi: 10.2307/2940922
 * Misak, Cheryl J., 2000, *Truth, Politics, Morality: Pragmatism and Deliberation*, London: Routledge.
-* O’Hagan, Emer, 2014, “Shmagents, Realism and Constitutivism About Rational Norms”,*Journal of Value Inquiry*, 48(1): 17–31. doi:10.1007/s10790-013-9400-2
+* O’Hagan, Emer, 2014, “Shmagents, Realism and Constitutivism About Rational Norms”, *Journal of Value Inquiry*, 48(1): 17–31. doi: 10.1007/s10790-013-9400-2
 * O’Neill, Onora, 1975, *Acting on Principle*, New York: Columbia University Press.
-* –––, 1989a, “Constructivisms in Ethics”, Presidential Address, *Proceedings of the Aristotelian Society*, 89(1): 1–17. doi:10.1093/aristotelian/89.1.1
+* –––, 1989a, “Constructivisms in Ethics”, Presidential Address, *Proceedings of the Aristotelian Society*, 89(1): 1–17. doi: 10.1093/aristotelian/89.1.1
 * –––, 1989b, *Constructions of Reason*, Cambridge: Cambridge University Press.
-* –––, 1992, “Vindicating Reason”, *The Cambridge Companion to Kant*, Paul Guyer (ed.), Cambridge: Cambridge University Press, 289–308. Reprinted in O’Neill 2015: 13–38. doi:10.1017/CCOL0521365872.010 doi:10.1017/CBO9781316337141.003
+* –––, 1992, “Vindicating Reason”, *The Cambridge Companion to Kant*, Paul Guyer (ed.), Cambridge: Cambridge University Press, 289–308. Reprinted in O’Neill 2015: 13–38. doi: 10.1017/CCOL0521365872.010 doi: 10.1017/CBO9781316337141.003
 * –––, 1996, *Towards Justice and Virtue: A Constructivist Account of Practical Reasoning*, Cambridge: Cambridge University Press.
 * –––, 1998, “Constructivism in Ethics”, in *Routledge Encyclopedia of Philosophy*, E. Craig (ed.), Vol. 2, London: Routledge, 630–632.
-* –––, 1999, “Kantian Constructivisms”, in *Rationalität, Realismus, Revision. Vorträge des 3. internationalen Kongresses der Gesellschaft für Analytische Philosophie vom 15. bis zum 18. September 1997 in München*, Julian Nida-Rümelin (ed.), Berlin, New York: De Gruyter, 3–16. doi:10.1515/9783110805703.3
+* –––, 1999, “Kantian Constructivisms”, in *Rationalität, Realismus, Revision. Vorträge des 3. internationalen Kongresses der Gesellschaft für Analytische Philosophie vom 15. bis zum 18. September 1997 in München*, Julian Nida-Rümelin (ed.), Berlin, New York: De Gruyter, 3–16. doi: 10.1515/9783110805703.3
 * –––, 2002, “Autonomy and the Fact of Reason in the Kritik der praktische Vernunft (7–8, 30–41)”, Otfried Höffe (ed.), Berlin: Akademie Verlag, pp. 81–97.
-* –––, 2003a, “Constructivism vs. Contractualism”, *Ratio*, 16(4): 319–331. doi:10.1046/j.1467-9329.2003.00226.x
-* –––, 2003b, “Constructivism in Rawls and Kant”, in *The Cambridge Companion to Rawls*, Samuel Freeman (ed.), Cambridge: Cambridge University Press, 347–67. Reprinted in O’Neill 2015: 69–85. doi:10.1017/CCOL0521651670.010 doi:10.1017/CBO9781316337141.006
-* –––, 2003c, “Autonomy: The Emperor’s New Cloths”, *Proceedings of the Aristotelian Society*, Supplementary volumes, 77: 1–21. Reprinted in O’Neill 2015: 103–121. doi:10.1111/1467-8349.00100 doi:10.1017/CBO9781316337141.008
-* –––, 2004, “Self-Legislation, Autonomy, and the Form of Law”, in *Recht, Geschichte, Religion: die Bedeutung Kants fur die Gegenwart*, H. Nagl-Docekal und R. Langthaler (eds), Sonderband der Deutschen Zeitschrift fur Philosophie, Berlin: Akademie Verlag, 13–26. Reprinted in O’Neill 2015: 121–136. doi:10.1017/CBO9781316337141.009
-* –––, 2015, *Constructing Authorities: Reason, Politics and Interpretation in Kant’s Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316337141
-* O’Shea, Tom, 2015, “A Law of One’s Own: Self-Legislation and Radical Kantian Constructivism”, *European Journal Of Philosophy*, 23(4): 1153–1173. doi:10.1111/ejop.12044
-* Papish, Laura, 2011, “The Changing Shape of Korsgaard’s Understanding of Constructivism”, *Journal of Value Inquiry*, 45(4): 451–63. doi:10.1007/s10790-011-9295-8
+* –––, 2003a, “Constructivism vs. Contractualism”, *Ratio*, 16(4): 319–331. doi: 10.1046/j.1467-9329.2003.00226.x
+* –––, 2003b, “Constructivism in Rawls and Kant”, in *The Cambridge Companion to Rawls*, Samuel Freeman (ed.), Cambridge: Cambridge University Press, 347–67. Reprinted in O’Neill 2015: 69–85. doi: 10.1017/CCOL0521651670.010 doi: 10.1017/CBO9781316337141.006
+* –––, 2003c, “Autonomy: The Emperor’s New Cloths”, *Proceedings of the Aristotelian Society*, Supplementary volumes, 77: 1–21. Reprinted in O’Neill 2015: 103–121. doi: 10.1111/1467-8349.00100 doi: 10.1017/CBO9781316337141.008
+* –––, 2004, “Self-Legislation, Autonomy, and the Form of Law”, in *Recht, Geschichte, Religion: die Bedeutung Kants fur die Gegenwart*, H. Nagl-Docekal und R. Langthaler (eds), Sonderband der Deutschen Zeitschrift fur Philosophie, Berlin: Akademie Verlag, 13–26. Reprinted in O’Neill 2015: 121–136. doi: 10.1017/CBO9781316337141.009
+* –––, 2015, *Constructing Authorities: Reason, Politics and Interpretation in Kant’s Philosophy*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316337141
+* O’Shea, Tom, 2015, “A Law of One’s Own: Self-Legislation and Radical Kantian Constructivism”, *European Journal Of Philosophy*, 23(4): 1153–1173. doi: 10.1111/ejop.12044
+* Papish, Laura, 2011, “The Changing Shape of Korsgaard’s Understanding of Constructivism”, *Journal of Value Inquiry*, 45(4): 451–63. doi: 10.1007/s10790-011-9295-8
 * Plato, [c. 400 BCE] 1997, “Euthyrphro” and “Republic” translated in *Plato: Complete Works*, John M. Cooper (ed.), Indianapolis, IN: Hackett.
-* Proulx, Pierre-Luc Dostie, 2016, “Early Forms of Metaethical Constructivism in John Dewey’s Pragmatism”, *Journal for the History of Analytical Philosophy*, 4(9). doi:10.15173/jhap.v4i9.2868
-* Rabinowicz, Wlodek & Tori Rønnow-Rasmussen, 2000, “A Distinction in Value: Intrinsic and For Its Own Sake”, *Proceedings of the Aristotelian Society*, 100(1): 33–51. doi:10.1111/j.0066-7372.2003.00002.x
-* Rauscher, Frederick, 2002, “Kant’s Moral Anti-Realism”, *Journal of the History of Philosophy*, 40(4): 477–99. doi:10.1353/hph.2002.0082
-* Rawls, John, 1951, “Outline of a Decision Procedure for Ethics”, *Philosophical Review*, 60(2): 177–97. Reprinted in Rawls 1999: 1–19. doi:10.2307/2181696
+* Proulx, Pierre-Luc Dostie, 2016, “Early Forms of Metaethical Constructivism in John Dewey’s Pragmatism”, *Journal for the History of Analytical Philosophy*, 4(9). doi: 10.15173/jhap.v4i9.2868
+* Rabinowicz, Wlodek & Tori Rønnow-Rasmussen, 2000, “A Distinction in Value: Intrinsic and For Its Own Sake”, *Proceedings of the Aristotelian Society*, 100(1): 33–51. doi: 10.1111/j.0066-7372.2003.00002.x
+* Rauscher, Frederick, 2002, “Kant’s Moral Anti-Realism”, *Journal of the History of Philosophy*, 40(4): 477–99. doi: 10.1353/hph.2002.0082
+* Rawls, John, 1951, “Outline of a Decision Procedure for Ethics”, *Philosophical Review*, 60(2): 177–97. Reprinted in Rawls 1999: 1–19. doi: 10.2307/2181696
 * –––, 1971, *A Theory of Justice*, 2nd edition 1999, Cambridge, MA: Harvard University Press.
-* –––, 1974, “The Independence of Moral Theory”, *Proceedings and Addresses of the American Philosophical Association*, 48: 5–22. Reprinted in Rawls 1999: 286–302. doi:10.2307/3129858
-* –––, 1980, “Kantian Constructivism in Moral Theory: The Dewey Lectures 1980”, *Journal of Philosophy*, 77(9): 515–572. Reprinted in Rawls 1999: 303–358. doi:10.5840/jphil198077936 doi:10.5840/jphil198077937 doi:10.5840/jphil198077938 doi:10.5840/jphil198077939
+* –––, 1974, “The Independence of Moral Theory”, *Proceedings and Addresses of the American Philosophical Association*, 48: 5–22. Reprinted in Rawls 1999: 286–302. doi: 10.2307/3129858
+* –––, 1980, “Kantian Constructivism in Moral Theory: The Dewey Lectures 1980”, *Journal of Philosophy*, 77(9): 515–572. Reprinted in Rawls 1999: 303–358. doi: 10.5840/jphil198077936 doi: 10.5840/jphil198077937 doi: 10.5840/jphil198077938 doi: 10.5840/jphil198077939
 * –––, 1985, “Justice as Fairness: Political not Metaphysical”, *Philosophy & Public Affairs*, 14(3): 223–251. Reprinted in Rawls 1999: 388–414.
-* –––, 1987, “The Idea of an Overlapping Consensus”, *Oxford Journal of Legal Studies*, 7(1): 1–25. Reprinted in Rawls 1999: 421–448. doi:10.1093/ojls/7.1.1
+* –––, 1987, “The Idea of an Overlapping Consensus”, *Oxford Journal of Legal Studies*, 7(1): 1–25. Reprinted in Rawls 1999: 421–448. doi: 10.1093/ojls/7.1.1
 * –––, 1989, “Themes in Kant’s Moral Philosophy”, in Förster 1989: 81–113. Reprinted in Rawls 1999: 497–528.
 * –––, 1993, *Political Liberalism*, New York: Columbia University Press.
 * –––, 1999, *Collected Papers*, Samuel Freeman (ed.), Cambridge, MA: Harvard University Press.
 * –––, 2000, *Lectures on the History of Moral Philosophy*, Barbara Herman and Christine M. Korsgaard (eds.), Cambridge, MA: Harvard University Press.
-* Raz, Joseph, 2003, “Numbers, With and Without Contractualism”, *Ratio*, 16(4): 346–367. doi:10.1046/j.1467-9329.2003.00228.x
-* Reath, Andrews, 2006, *Agency and Autonomy in Kant’s Moral Theory*, Oxford: Clarendon Press. doi:10.1093/0199288836.001.0001
-* Reath, Andrews & Jens Timmermann, 2010, *Kant’s Critique of Practical Reason, A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511770869
+* Raz, Joseph, 2003, “Numbers, With and Without Contractualism”, *Ratio*, 16(4): 346–367. doi: 10.1046/j.1467-9329.2003.00228.x
+* Reath, Andrews, 2006, *Agency and Autonomy in Kant’s Moral Theory*, Oxford: Clarendon Press. doi: 10.1093/0199288836.001.0001
+* Reath, Andrews & Jens Timmermann, 2010, *Kant’s Critique of Practical Reason, A Critical Guide*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511770869
 * Richards, David A.J., 1988, “Prescriptivism, Constructivism, and Rights”, in *Hare and Critics: Essays on Moral Thinking*, Douglas Seanor and Nicholas Fotion (eds.), Oxford: Oxford University Press, 135–152.
-* Richardson, Henry S., 1994, *Practical Reasoning about Final Ends*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174275
-* –––, 1995, “Beyond Good and Right: toward a Constructive Ethical Pragmatism”, *Philosophy and Public Affairs*, 24(2): 108–141. doi:10.1111/j.1088-4963.1995.tb00025.x
-* –––, 1998, “Truth and Ends in Dewey’s Pragmatism”, *Canadian Journal of Philosophy*, 28(supp. 1): 109–147. doi:10.1080/00455091.1998.10717497
-* –––, 2008, “Our Call: The Constitutive Importance of the People’s Judgment”, *Journal of Moral Philosophy*, 5(1): 3–29. doi:10.1163/174552408X306708
-* –––, 2013, “Revising Moral Norms: Pragmatism and the Problem of Perspicuous Description”, in Bagnoli 2013a: 221–242. doi:10.1017/CBO9781139094221.012
+* Richardson, Henry S., 1994, *Practical Reasoning about Final Ends*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139174275
+* –––, 1995, “Beyond Good and Right: toward a Constructive Ethical Pragmatism”, *Philosophy and Public Affairs*, 24(2): 108–141. doi: 10.1111/j.1088-4963.1995.tb00025.x
+* –––, 1998, “Truth and Ends in Dewey’s Pragmatism”, *Canadian Journal of Philosophy*, 28(supp. 1): 109–147. doi: 10.1080/00455091.1998.10717497
+* –––, 2008, “Our Call: The Constitutive Importance of the People’s Judgment”, *Journal of Moral Philosophy*, 5(1): 3–29. doi: 10.1163/174552408X306708
+* –––, 2013, “Revising Moral Norms: Pragmatism and the Problem of Perspicuous Description”, in Bagnoli 2013a: 221–242. doi: 10.1017/CBO9781139094221.012
 * –––, 2018, *Articulating the Moral Community*, Oxford: Oxford University Press.
 * Ridge, Michael, 2005, “Why Must We Treat Humanity With Respect? Evaluating the Regress Argument”, *European Journal of Analytic Philosophy*, 1(1): 57–74.
-* –––, 2012, “Kantian Constructivism: Something Old, Something New”, in Lenman & Shemmer 2012a: 138–58. doi:10.1093/acprof:oso/9780199609833.003.0008
+* –––, 2012, “Kantian Constructivism: Something Old, Something New”, in Lenman & Shemmer 2012a: 138–58. doi: 10.1093/acprof: oso/9780199609833.003.0008
 * Ripstein, Arthur, 1987, “Foundationalism in Political Theory”, *Philosophy & Public Affairs*, 16(2): 115–137.
 * Rockmore Tom, 2016, *German Idealism as Constructivism*, Chicago: University of Chicago Press.
-* Ronzoni, Miriam, 2010, “Constructivism and Practical Reason: on Intersubjectivity, Abstraction, and Judgment”, *The Journal of Moral Philosophy*, 7(1): 74–104. doi:10.1163/174046809X12544019606102
-* Ronzoni, Miriam & Laura Valentini, 2008, “On the Metaethical Status of Constructivism: Reflections on G.A. Cohen’s ‘Facts and Principles’”, *Politics, Philosophy & Economics*, 7(4): 403–422. doi:10.1177/1470594X08095751
-* Rosati, Connie S., 2016, “Agents and ‘Shmagents’: An Essay on Agency and Normativity”, *Oxford Studies in Metaethics*, 11: 184–213. doi:10.1093/acprof:oso/9780198784647.003.0008
-* Russell, Bertrand, 1907, “On the Nature of Truth”, *Proceedings of the Aristotelian Society*, 7(1): 28–49. doi:10.1093/aristotelian/7.1.28
+* Ronzoni, Miriam, 2010, “Constructivism and Practical Reason: on Intersubjectivity, Abstraction, and Judgment”, *The Journal of Moral Philosophy*, 7(1): 74–104. doi: 10.1163/174046809X12544019606102
+* Ronzoni, Miriam & Laura Valentini, 2008, “On the Metaethical Status of Constructivism: Reflections on G.A. Cohen’s ‘Facts and Principles’”, *Politics, Philosophy & Economics*, 7(4): 403–422. doi: 10.1177/1470594X08095751
+* Rosati, Connie S., 2016, “Agents and ‘Shmagents’: An Essay on Agency and Normativity”, *Oxford Studies in Metaethics*, 11: 184–213. doi: 10.1093/acprof: oso/9780198784647.003.0008
+* Russell, Bertrand, 1907, “On the Nature of Truth”, *Proceedings of the Aristotelian Society*, 7(1): 28–49. doi: 10.1093/aristotelian/7.1.28
 * Saemi, Amir, 2016, “The Form of Practical Knowledge and Implicit Cognition: A Critique of Kantian Constitutivism”, *Social Theory and Practice*, 42(4): 733–747.
 * Sayre-McCord, Geoffrey, 1988, *Essays on Moral Realism*, Ithaca, NY: Cornell University Press.
 * –––, 2015, “Moral Realism”, *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2015/entries/moral-realism/>.
 * Scanlon, T.M., 1995, “Fear of Relativism”, in Rosalind Hursthouse, Gavin Lawrence, & Warren Quinn (eds.), *Virtues and Reasons: Philippa Foot and Moral Theory*, Oxford: Clarendon Press, 219–246.
 * –––, 1998, *What We Owe to Each Other*, Cambridge: Harvard University Press.
-* –––, 2003a, “Replies”, *Ratio*, 16(4): 391–423. doi:10.1046/j.1467-9329.2003.00231.x
-* –––, 2003b, “Metaphysics and Morals”, *Proceedings and Addresses of the American Philosophical Association*, 77(2): 7–22. doi:10.2307/3219738
+* –––, 2003a, “Replies”, *Ratio*, 16(4): 391–423. doi: 10.1046/j.1467-9329.2003.00231.x
+* –––, 2003b, “Metaphysics and Morals”, *Proceedings and Addresses of the American Philosophical Association*, 77(2): 7–22. doi: 10.2307/3219738
 * –––, 2007, “Structural Irrationality”, in Geoffrey Brennan, Robert Goodin, Frank Jackson & Michael Smith (eds.), *Common Minds: Themes From the Philosophy of Philip Pettit*, Oxford: Clarendon Press.
-* –––, 2012, “The Appeal and Limits of Constructivism”, in Lenman & Shemmer 2012a: 226–42. doi:10.1093/acprof:oso/9780199609833.003.0013
-* –––, 2014, *Being Realistic About Reasons*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199678488.001.0001
-* Schafer, Karl, 2014, “Constructivism and Three Forms of Perspective-Dependence in Metaethics”, *Philosophy and Phenomenological Research*, 89(1): 68–101. doi:10.1111/j.1933-1592.2012.00633.x
-* –––, 2015a, “Realism and Constructivism in Kantian Metaethics 1: Realism and Constructivism in a Kantian Context”, *Philosophy Compass*, 10(10): 690–701. doi:10.1111/phc3.12253
-* –––, 2015b, “Realism and Constructivism in Kantian Metaethics 2: The Kantian Conception of Rationality and Rationalist Constructivism”, *Philosophy Compass*, 10(10): 702–713. doi:10.1111/phc3.12252
-* –––, 2019, “Kant: Constitutivism as Capacities-First Philosophy”, *Philosophical Explorations*, 22(2): 177–193. doi:10.1080/13869795.2019.1599049
-* Schneewind. J.B., 1991, “Natural Law, Skepticism, and Methods of Ethics”, *Journal of the History of Ideas*, 52(2): 289–308. doi:10.2307/2709529
+* –––, 2012, “The Appeal and Limits of Constructivism”, in Lenman & Shemmer 2012a: 226–42. doi: 10.1093/acprof: oso/9780199609833.003.0013
+* –––, 2014, *Being Realistic About Reasons*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199678488.001.0001
+* Schafer, Karl, 2014, “Constructivism and Three Forms of Perspective-Dependence in Metaethics”, *Philosophy and Phenomenological Research*, 89(1): 68–101. doi: 10.1111/j.1933-1592.2012.00633.x
+* –––, 2015a, “Realism and Constructivism in Kantian Metaethics 1: Realism and Constructivism in a Kantian Context”, *Philosophy Compass*, 10(10): 690–701. doi: 10.1111/phc3.12253
+* –––, 2015b, “Realism and Constructivism in Kantian Metaethics 2: The Kantian Conception of Rationality and Rationalist Constructivism”, *Philosophy Compass*, 10(10): 702–713. doi: 10.1111/phc3.12252
+* –––, 2019, “Kant: Constitutivism as Capacities-First Philosophy”, *Philosophical Explorations*, 22(2): 177–193. doi: 10.1080/13869795.2019.1599049
+* Schneewind. J.B., 1991, “Natural Law, Skepticism, and Methods of Ethics”, *Journal of the History of Ideas*, 52(2): 289–308. doi: 10.2307/2709529
 * Schwartz, Robert, 2017, “Pragmatic Constructivism: Values, Norms and Obligations”, in *Facts and Values: The Ethics and Metaphysics of Normativity*, London: Routledge.
-* Sensen, Oliver, 2013, “Kant’s Constructivism”, in Bagnoli 2013a: 63–81. doi:10.1017/CBO9781139094221.005
-* Shafer-Landau, Russ, 2003, *Moral Realism: A Defense*, Oxford: Oxford University Press. doi:10.1093/0199259755.001.0001
-* Shemmer, Yonatan, 2012, “Constructing Coherence, in Constructivism in Practical Philosophy”, Lenman & Shemmer 2012a: 159–79. doi:10.1093/acprof:oso/9780199609833.003.0009
-* Silk, Alex, 2015, “Nietzschean Constructivism: Ethics and Metaethics for All and None”, *Inquiry*, 58(3): 244–280. doi:10.1080/0020174X.2013.878666
-* Silverstein, Matthew, 2012, “Inescapability and Normativity”, *Journal of Ethics & Social Philosophy*, 6(3): 1–27. doi:10.26556/jesp.v6i3.67
-* –––, 2015, “The Shmagency Question”, *Philosophical Studies*, 172(5): 1127–1142. doi:10.1007/s11098-014-0340-x
+* Sensen, Oliver, 2013, “Kant’s Constructivism”, in Bagnoli 2013a: 63–81. doi: 10.1017/CBO9781139094221.005
+* Shafer-Landau, Russ, 2003, *Moral Realism: A Defense*, Oxford: Oxford University Press. doi: 10.1093/0199259755.001.0001
+* Shemmer, Yonatan, 2012, “Constructing Coherence, in Constructivism in Practical Philosophy”, Lenman & Shemmer 2012a: 159–79. doi: 10.1093/acprof: oso/9780199609833.003.0009
+* Silk, Alex, 2015, “Nietzschean Constructivism: Ethics and Metaethics for All and None”, *Inquiry*, 58(3): 244–280. doi: 10.1080/0020174X.2013.878666
+* Silverstein, Matthew, 2012, “Inescapability and Normativity”, *Journal of Ethics & Social Philosophy*, 6(3): 1–27. doi: 10.26556/jesp.v6i3.67
+* –––, 2015, “The Shmagency Question”, *Philosophical Studies*, 172(5): 1127–1142. doi: 10.1007/s11098-014-0340-x
 * –––, 2016, “Teleology and Normativity”, *Oxford Studies in Metaethics*, 11: 214–240.
-* Smit, Houston, 2003, “Internalism and the Origins of Rational Motivation”, *Journal of Ethics*, 7(2): 183–231. doi:10.1023/A:1022950720463
+* Smit, Houston, 2003, “Internalism and the Origins of Rational Motivation”, *Journal of Ethics*, 7(2): 183–231. doi: 10.1023/A: 1022950720463
 * Smith, Michael, 1994, *The Moral Problem*, Oxford: Blackwell.
-* –––, 1999, “The Search for the Source”, *The Philosophical Quarterly*, 49(196): 384–394. doi:10.1111/1467-9213.00150
-* –––, 2012, “Agents and Patients, or: What We Learn About Reasons for Action by Reflecting on Our Choices in Process-of-Thought Cases”, *Proceedings of the Aristotelian Society*, 112(3): 309–331. doi:10.1111/j.1467-9264.2012.00337.x
+* –––, 1999, “The Search for the Source”, *The Philosophical Quarterly*, 49(196): 384–394. doi: 10.1111/1467-9213.00150
+* –––, 2012, “Agents and Patients, or: What We Learn About Reasons for Action by Reflecting on Our Choices in Process-of-Thought Cases”, *Proceedings of the Aristotelian Society*, 112(3): 309–331. doi: 10.1111/j.1467-9264.2012.00337.x
 * –––, 2013, “A Constitutivist Theory of Reasons: Its Promise and Parts”, *Law, Ethics, and Philosophy*, 1: 9–30.
 * Stern, Robert, 2007, “Freedom, Self-Legislation and Morality in Kant and Hegel: Constructivist vs. Realist Accounts”, in *German Idealism: Contemporary Perspectives*, Espen Hammer (ed.), Abingdon: Routledge, pp. 245–66.
-* –––, 2012a, *Understanding Moral Obligation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511997747
-* –––, 2012b, “Constructivism and the Argument from Autonomy”, in Lenman & Shemmer 2012a: 119–137. doi:10.1093/acprof:oso/9780199609833.003.0007
-* –––, 2013, “Moral Scepticism, Constructivism and the Value of Humanity”, in Bagnoli 2013a: 22–40. doi:10.1017/CBO9781139094221.003
-* Stieb, James A., 2006, “Moral Realism and Kantian Constructivism”, *Ratio Juris*, 19(4): 402–20. doi:10.1111/j.1467-9337.2006.00335.x
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127(1): 109–166. doi:10.1007/s11098-005-1726-6
+* –––, 2012a, *Understanding Moral Obligation*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511997747
+* –––, 2012b, “Constructivism and the Argument from Autonomy”, in Lenman & Shemmer 2012a: 119–137. doi: 10.1093/acprof: oso/9780199609833.003.0007
+* –––, 2013, “Moral Scepticism, Constructivism and the Value of Humanity”, in Bagnoli 2013a: 22–40. doi: 10.1017/CBO9781139094221.003
+* Stieb, James A., 2006, “Moral Realism and Kantian Constructivism”, *Ratio Juris*, 19(4): 402–20. doi: 10.1111/j.1467-9337.2006.00335.x
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127(1): 109–166. doi: 10.1007/s11098-005-1726-6
 * –––, 2008a, “Constructivism about Reasons”, *Oxford Studies in Metaethics*, 3: 208–245.
-* –––, 2008b, “Reply to Copp: Naturalism, Normativity, and the Varieties of Realism worth Worrying About”, *Philosophical Issues*, 18(1): 207–228. doi:10.1111/j.1533-6077.2008.00145.x
-* –––, 2009, “In Defense of Future Tuesday Indifference: Ideally Coherent Eccentrics and the Contingency of What Matters”, *Philosophical Issues*, 19(1): 273–298. doi:10.1111/j.1533-6077.2009.00170.x
-* –––, 2010, “What is Constructivism in Ethics and Metaethics?”, *Philosophy Compass*, 5(5): 363–384. doi:10.1111/j.1747-9991.2009.00280.x
-* –––, 2011, “Mind-Independence Without the Mystery: Why Quasi-Realists Can’t Have it Both Ways”, *Oxford Studies in Metaethics*, 6: 1–32. doi:10.1093/acprof:oso/9780199606375.003.0001
-* –––, 2012, “Coming to Terms with Contingency: Humean Constructivism about Practical Reason”, Lenman & Shemmer 2012a: 40–59. doi:10.1093/acprof:oso/9780199609833.003.0003
+* –––, 2008b, “Reply to Copp: Naturalism, Normativity, and the Varieties of Realism worth Worrying About”, *Philosophical Issues*, 18(1): 207–228. doi: 10.1111/j.1533-6077.2008.00145.x
+* –––, 2009, “In Defense of Future Tuesday Indifference: Ideally Coherent Eccentrics and the Contingency of What Matters”, *Philosophical Issues*, 19(1): 273–298. doi: 10.1111/j.1533-6077.2009.00170.x
+* –––, 2010, “What is Constructivism in Ethics and Metaethics?”, *Philosophy Compass*, 5(5): 363–384. doi: 10.1111/j.1747-9991.2009.00280.x
+* –––, 2011, “Mind-Independence Without the Mystery: Why Quasi-Realists Can’t Have it Both Ways”, *Oxford Studies in Metaethics*, 6: 1–32. doi: 10.1093/acprof: oso/9780199606375.003.0001
+* –––, 2012, “Coming to Terms with Contingency: Humean Constructivism about Practical Reason”, Lenman & Shemmer 2012a: 40–59. doi: 10.1093/acprof: oso/9780199609833.003.0003
 * Stueber, Karsten R, forthcoming, “Smithian Constructivism: Elucidating the Reality of the Normative Domain”, in Karsten R. Stueber & Remy Debes (eds.), *Ethical Sentimentalism: New Perspectives*, Cambridge University Press, 261–84.
-* Tenenbaum, Sergio, 2019, “Formalism and Constitutivism in Kantian Practical Philosophy”, *Philosophical Explorations*, 22(2): 163–176. doi:10.1080/13869795.2019.1599053
-* Tiberius, Valerie, 2012, “Constructivism and Wise Judgment”, in Lenman & Shemmer 2012a: 195–212. doi:10.1093/acprof:oso/9780199609833.003.0011
-* Tiffany, Evan, 2006, “How Kantian Must Kantian Constructivists Be?”, *Inquiry*, 49(6): 524–46. doi:10.1080/00201740601016205
-* –––, 2012, “Why Be an Agent?”,*Australasia Journal of Philosophy*, 90(2): 223–233. doi:10.1080/00048402.2011.605792
-* Timmons, Mark, 2003, “The Limits of Moral Constructivism”, *Ratio*, 16(4): 391–423. doi:10.1046/j.1467-9329.2003.00230.x
-* Timmons, Mark & Sorin Baiasu (eds.), 2013, *Kant on Practical Justification: Interpretive Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195395686.001.0001
-* Velleman, J. David, 2009, *How We Get Along*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808296
-* Wallace, R. Jay, 2012, “Constructivism about Normativity: Some Pitfalls”, in Lenman & Shemmer 2012a: 18–39. doi:10.1093/acprof:oso/9780199609833.003.0002
-* Watkins, Eric & William Fitzpatrick, 2002, “O’Neill and Korsgaard on the Construction of Normativity”, *Journal of Value Inquiry*, 36(2): 349–67. doi:10.1023/A:1016164822219
-* Wedgwood, Ralph, 2002, “Practical Reasoning as Figuring out What is Best: Against Constructivism”, *Topoi*, 21(1): 139–52. doi:10.1023/A:1014809205396
+* Tenenbaum, Sergio, 2019, “Formalism and Constitutivism in Kantian Practical Philosophy”, *Philosophical Explorations*, 22(2): 163–176. doi: 10.1080/13869795.2019.1599053
+* Tiberius, Valerie, 2012, “Constructivism and Wise Judgment”, in Lenman & Shemmer 2012a: 195–212. doi: 10.1093/acprof: oso/9780199609833.003.0011
+* Tiffany, Evan, 2006, “How Kantian Must Kantian Constructivists Be?”, *Inquiry*, 49(6): 524–46. doi: 10.1080/00201740601016205
+* –––, 2012, “Why Be an Agent?”, *Australasia Journal of Philosophy*, 90(2): 223–233. doi: 10.1080/00048402.2011.605792
+* Timmons, Mark, 2003, “The Limits of Moral Constructivism”, *Ratio*, 16(4): 391–423. doi: 10.1046/j.1467-9329.2003.00230.x
+* Timmons, Mark & Sorin Baiasu (eds.), 2013, *Kant on Practical Justification: Interpretive Essays*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195395686.001.0001
+* Velleman, J. David, 2009, *How We Get Along*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511808296
+* Wallace, R. Jay, 2012, “Constructivism about Normativity: Some Pitfalls”, in Lenman & Shemmer 2012a: 18–39. doi: 10.1093/acprof: oso/9780199609833.003.0002
+* Watkins, Eric & William Fitzpatrick, 2002, “O’Neill and Korsgaard on the Construction of Normativity”, *Journal of Value Inquiry*, 36(2): 349–67. doi: 10.1023/A: 1016164822219
+* Wedgwood, Ralph, 2002, “Practical Reasoning as Figuring out What is Best: Against Constructivism”, *Topoi*, 21(1): 139–52. doi: 10.1023/A: 1014809205396
 * Westphal, Kenneth R., 2003, “Objektive Gültigkeit zwischen Gegebenem und Gemachtem—Hegels kantischer Konstruktivismus in der praktischen Philosophie”, *Jahrbuch für Recht und Ethik*, B.S. Byrd, J. Hruschka, and J.C. Joerden (eds.), 11: 177–198.
-* –––, 2016, *How Hume and Kant Reconstruct Natural Law: Justifying Strict Objectivity Without Debating Moral Realism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198747055.001.0001
+* –––, 2016, *How Hume and Kant Reconstruct Natural Law: Justifying Strict Objectivity Without Debating Moral Realism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198747055.001.0001
 * Wiggins, David, 1993, “A Neglected Position?”, in *Reality, Representation, and Projection*, John Haldane & Crispin Wright (eds.), Oxford: Oxford University Press, 329–336.
 * –––, 1998, *Needs, Values, Truth: Essays in the Philosophy of Value*, (third edition), Oxford: Clarendon Press.
-* Williams, Bernard, 1981, *Moral Luck*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165860
+* Williams, Bernard, 1981, *Moral Luck*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139165860
 * –––, 1985, *Ethics and the Limits of Philosophy*, Cambridge, MA: Harvard University Press.
-* –––, 1995, “What Does Intuitionism Imply?”,in *Making Sense of Humanity*, Cambridge: Cambridge University Press, 153–171. doi:10.1017/CBO9780511621246.016
-* Wong, David B., 2008, “Constructing Normative Objectivity in Ethics”, *Social Philosophy and Policy*, 25(1): 237–266. doi:10.1017/S0265052508080096
-* Wood, Allen W., 1999, *Kant’s Ethical Thought*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173254
+* –––, 1995, “What Does Intuitionism Imply?”, in *Making Sense of Humanity*, Cambridge: Cambridge University Press, 153–171. doi: 10.1017/CBO9780511621246.016
+* Wong, David B., 2008, “Constructing Normative Objectivity in Ethics”, *Social Philosophy and Policy*, 25(1): 237–266. doi: 10.1017/S0265052508080096
+* Wood, Allen W., 1999, *Kant’s Ethical Thought*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139173254
 * –––, 2008, *Kantian Ethics*, Cambridge: Cambridge University Press.
 * Wright, Crispin, 1992, *Truth and Objectivity*, Cambridge MA: Harvard University Press.
-* Zuk, Peter D. 2015, “A Third Version of Constructivism: Rethinking Spinoza’s Metaethics”,*Philosophical Studies*, 172(10): 2565–2574. doi:10.1007/s11098-014-0428-3
+* Zuk, Peter D. 2015, “A Third Version of Constructivism: Rethinking Spinoza’s Metaethics”, *Philosophical Studies*, 172(10): 2565–2574. doi: 10.1007/s11098-014-0428-3
 
 ## Academic Tools
 

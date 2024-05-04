@@ -1,6 +1,6 @@
 # 上帝和其他必然存在 and other necessary beings (Matthew Davidson)
 
-*首次发布于2005年4月29日星期五；实质性修订于2019年8月6日星期二。*
+*首次发布于 2005 年 4 月 29 日星期五；实质性修订于 2019 年 8 月 6 日星期二。*
 
 普遍认为存在两种存在实体：那些存在但本可以不存，以及那些不可能不存的实体。第一种实体是偶然存在的；第二种实体是必然存在的。我们将在本文中关注后一种实体。
 
@@ -22,27 +22,27 @@
 
 ## 2. 为什么有人会相信上帝是必然存在的抽象对象的基础？
 
-至少有两种理由可以解释为什么有人倾向于认为上帝是必然存在的抽象对象的基础。第一种理由涉及一神论信仰中的中心宗教文本，如犹太教、基督教和伊斯兰教。大致而言，这种理由在于这些文本声称或暗示上帝创造了一切。如果上帝创造了一切，那么上帝必然也创造了必然存在的抽象对象。因此，上帝是这些抽象对象存在的基础。例如，希伯来圣经中有诸如诗篇 89:11 的陈述：“天是你的，地也是你的；世界和其中所有的，你都创造了”。希伯来圣经中还有尼希米记 9:6：
+至少有两种理由可以解释为什么有人倾向于认为上帝是必然存在的抽象对象的基础。第一种理由涉及一神论信仰中的中心宗教文本，如犹太教、基督教和伊斯兰教。大致而言，这种理由在于这些文本声称或暗示上帝创造了一切。如果上帝创造了一切，那么上帝必然也创造了必然存在的抽象对象。因此，上帝是这些抽象对象存在的基础。例如，希伯来圣经中有诸如诗篇 89: 11 的陈述：“天是你的，地也是你的；世界和其中所有的，你都创造了”。希伯来圣经中还有尼希米记 9: 6：
 
 > 以斯拉说：“耶和华啊，惟独你是神，你造了天、天上的天和天上的万象、地和地上的万物、海和海中所有的；这一切都是你赐给其中的生命，天上的众万象也都敬拜你”。
 
-在新约中，有像约翰福音 1:1–1:4 这样的经文：
+在新约中，有像约翰福音 1: 1–1: 4 这样的经文：
 
-> 起初有道，道与上帝同在，道就是上帝。这道起初与上帝同在。万物是借着他造的；凡被造的，没有一样不是借着他造的。（约翰所指的“道”\[希腊文中的 logos]是拿撒勒的耶稣）
+> 起初有道，道与上帝同在，道就是上帝。这道起初与上帝同在。万物是借着他造的；凡被造的，没有一样不是借着他造的。（约翰所指的“道”\[希腊文中的 logos] 是拿撒勒的耶稣）
 
-保罗在歌罗西书 1:15–16 中说到，
+保罗在歌罗西书 1: 15–16 中说到，
 
-> 他\[耶稣]是那不能看见之神的形像，是一切被造之物的头生者；因为万有都是在他里面被造的，无论是天上的，地上的，能看见的，不能看见的，或是有位的，主权的，掌权的，有能的，一概都是藉着他并为他造的。
+> 他\[耶稣] 是那不能看见之神的形像，是一切被造之物的头生者；因为万有都是在他里面被造的，无论是天上的，地上的，能看见的，不能看见的，或是有位的，主权的，掌权的，有能的，一概都是藉着他并为他造的。
 
 《尼西亚信经》是基督教信仰中除了希伯来圣经和新约圣经之外最重要的文件之一，其中写道：“我们信唯一的上帝，全能的父，造了天地万物，看得见的和看不见的。” 381 年的《尼西亚-君士坦丁堡信经》是对 325 年旧版尼西亚信经的修改，被西方教会采用，开头也是类似的：“我们信唯一的上帝，全能的父，造了天地万物，看得见的和看不见的。”
 
-根据《古兰经》，“真主是万物的创造者；他管理一切；天地的钥匙在他手中”（39:62-63）。《古兰经》还说：“这是真主，你们的主，除他之外，绝无真主，他是万物的创造者，所以你们当崇拜他；他管理一切”（6:102）。
+根据《古兰经》，“真主是万物的创造者；他管理一切；天地的钥匙在他手中”（39: 62-63）。《古兰经》还说：“这是真主，你们的主，除他之外，绝无真主，他是万物的创造者，所以你们当崇拜他；他管理一切”（6: 102）。
 
-这些来自权威宗教文本的理由可能不足以作为定论。然而，一个人可以认真对待这些类型的文本，作为信仰的信徒，仍然认为上帝并没有对必然存在的抽象对象具有创造控制权。例如，彼得·范·因瓦根（2009 年）认为，尼西亚信经中“创造了一切有形无形之物”的说法中的普遍量词隐含地限制为仅包括那些能够被创造的事物。必然存在的抽象对象不能参与因果关系，因此不能被创造。但值得注意的是，那些认为如果存在必然存在的抽象对象，上帝必须对它们有某种控制权的哲学家（例如克雷格 2016 年）指出像上面引用的文本来为这种观点提供理由。
+这些来自权威宗教文本的理由可能不足以作为定论。然而，一个人可以认真对待这些类型的文本，作为信仰的信徒，仍然认为上帝并没有对必然存在的抽象对象具有创造控制权。例如，彼得 · 范 · 因瓦根（2009 年）认为，尼西亚信经中“创造了一切有形无形之物”的说法中的普遍量词隐含地限制为仅包括那些能够被创造的事物。必然存在的抽象对象不能参与因果关系，因此不能被创造。但值得注意的是，那些认为如果存在必然存在的抽象对象，上帝必须对它们有某种控制权的哲学家（例如克雷格 2016 年）指出像上面引用的文本来为这种观点提供理由。
 
 还有第二种推理方式可能会使某人认为上帝是必然存在的抽象对象存在的基础。这是通过完美存在神学（见莫里斯 1987a、1987b 和长泽 2017 年的讨论）。完美存在神学是一种关于上帝的先验理论，至少可以追溯到坎特伯雷的安瑟尔姆。人们从这样的主张开始，即上帝是可能的最伟大存在，然后可以推导出上帝必须具有的属性。这种方法是得出上帝是全能、全知和完美善良的一种方式。安瑟尔姆本人曾著名地认为，通过完美存在神学，他可以得出上帝的存在。在这里，我们要想象两个概念上可能的存在：一个存在的基础或解释了必然存在的抽象对象的存在，另一个则没有。我们要看到那个作为抽象对象基础的存在者比那个不是的更伟大，因此我们得出结论，上帝（可能的最伟大存在）对必然存在的抽象对象具有控制权。有时，认为前者比后者更伟大的直觉是以上帝的自存性或与所有其他实体的独立性来表达的。具有最大自存性的存在者比没有的更伟大（其他条件相等）；如果必然存在的抽象对象不依赖于上帝，那么上帝就缺乏最大自存性。
 
-有人可能会对以上述方式推理必然存在的抽象物的神圣基础提出很少的异议，如果认为上帝可以控制这些抽象物的话。然而，有人可能会赞同范·因瓦根的观点，即抽象物不能参与因果关系，并且认为抽象物可能以因果关系的方式根植于上帝。或者有人可能认为，一个必然存在的对象依赖于任何事物的想法是不连贯的。如果一个人持有这两种立场中的任何一种，他将否认那个根植于必然存在的抽象物的存在者比那个不是的存在者更伟大。（正如她会否认一个能够制造正方形圆圈的存在者比一个不能的存在者更伟大——不能有一个能够制造正方形圆圈的存在者。）
+有人可能会对以上述方式推理必然存在的抽象物的神圣基础提出很少的异议，如果认为上帝可以控制这些抽象物的话。然而，有人可能会赞同范 · 因瓦根的观点，即抽象物不能参与因果关系，并且认为抽象物可能以因果关系的方式根植于上帝。或者有人可能认为，一个必然存在的对象依赖于任何事物的想法是不连贯的。如果一个人持有这两种立场中的任何一种，他将否认那个根植于必然存在的抽象物的存在者比那个不是的存在者更伟大。（正如她会否认一个能够制造正方形圆圈的存在者比一个不能的存在者更伟大——不能有一个能够制造正方形圆圈的存在者。）
 
 我们已经注意到有两种理由，一个有神论者可能认为上帝是必然存在的抽象物的存在的基础。我们转向讨论一些不同的答案来回答我们的中心问题：上帝是否是必然存在的抽象物的存在的基础？接下来的两节将以观点列表开始，然后分别列出支持和反对的考虑。
 
@@ -85,7 +85,7 @@
 
 在这里，莱布尼茨似乎暗示必然存在的抽象实体是基于神的认知活动的。关于认知活动与抽象对象存在之间的关系如何描述并不清楚，但考虑到他的措辞，说前者导致后者存在似乎是合适的。
 
-托马斯·莫里斯和克里斯托弗·门泽尔（1986 年）也是有神灵发论者。他们在阐述自己的观点时明确地使用因果语言，称之为“有神活动主义”。
+托马斯 · 莫里斯和克里斯托弗 · 门泽尔（1986 年）也是有神灵发论者。他们在阐述自己的观点时明确地使用因果语言，称之为“有神活动主义”。
 
 > 因此，我们的建议是，现实的柏拉图主义框架源于上帝的创造性智力活动。从这个意义上说，上帝是框架的创造者。这取决于他。（1986: 356）
 
@@ -103,7 +103,7 @@
 
 反对有神论发散主义的人可能会做出以下反驳。当然，上述回应是正确的，即如果存在循环性问题，那就是因果循环性问题。早些时候，我们看到对于有神论发散主义者来说，上帝的认知活动与抽象存在之间存在着单向的因果关系，比如数字二的存在。我们可以说数字二（或任何抽象对象）的必然存在在因果上依赖于上帝具有他所具有的认知活动。或者，也许我们可以说数字二的必然存在在因果上依赖于上帝是全知的、全能的和必然存在的。然而，数字二的存在在因果上依赖的实体本身就是属性。它们在什么上因果依赖？在发散主义者的观点中，它们最终似乎会因果依赖于它们自己。但这是不连贯的，有人可能指责说。
 
-即使流出论者成功地回答了这个观点的第一个问题，仍然存在第二个，也许更严重的反对意见。我们将这个反对意见称为“自助反对”（参见Leftow 1990年，Davidson 1999年，Bergmann和Brower 2006年以及Gould 2014b年对这种反对意见的讨论）。我们可以这样表达这个担忧（参照Davidson 1999年）。使某物存在就是使其本质（或者，用Plantinga 1980年的术语来说，使其_性质_）得以体现。假设上帝创造了一张桌子，其本质的一部分是_红色_。然后上帝在创造时使属性_红色_被这张桌子体现。再考虑属性_全能_。属性_被上帝体现_包含在其本质中。因此，上帝在使_全能_存在时，也使属性_被上帝体现_被_全能_所体现。类似于上帝使_红色_被这张桌子体现的方式，上帝使_全能_被自己体现。但是，显然上帝不能使属性_全能_被自己体现：上帝如何使自己成为全能？此外，人们可能认为上帝的全能应该在他使属性存在之前就有了因果关系。然而，在这种情况下并非如此。那么，如果有人认为上帝的全能应该在他使属性存在之前就有因果关系，这将是因果循环的一个实例。这种论证方法也适用于其他属性，如_全知_或_拥有神圣认知活动_（尽管与前者相比，因果循环可能更难建立，而自我体现的不合理性可能更难以建立）。
+即使流出论者成功地回答了这个观点的第一个问题，仍然存在第二个，也许更严重的反对意见。我们将这个反对意见称为“自助反对”（参见 Leftow 1990 年，Davidson 1999 年，Bergmann 和 Brower 2006 年以及 Gould 2014b 年对这种反对意见的讨论）。我们可以这样表达这个担忧（参照 Davidson 1999 年）。使某物存在就是使其本质（或者，用 Plantinga 1980 年的术语来说，使其_性质_）得以体现。假设上帝创造了一张桌子，其本质的一部分是_红色_。然后上帝在创造时使属性_红色_被这张桌子体现。再考虑属性_全能_。属性_被上帝体现_包含在其本质中。因此，上帝在使_全能_存在时，也使属性_被上帝体现_被_全能_所体现。类似于上帝使_红色_被这张桌子体现的方式，上帝使_全能_被自己体现。但是，显然上帝不能使属性_全能_被自己体现：上帝如何使自己成为全能？此外，人们可能认为上帝的全能应该在他使属性存在之前就有了因果关系。然而，在这种情况下并非如此。那么，如果有人认为上帝的全能应该在他使属性存在之前就有因果关系，这将是因果循环的一个实例。这种论证方法也适用于其他属性，如_全知_或_拥有神圣认知活动_（尽管与前者相比，因果循环可能更难建立，而自我体现的不合理性可能更难以建立）。
 
 此外，考虑上帝的个体性，即属性_上帝_。属性_被必然体现_包含在这个属性的本质中。因此，当上帝使他的个体性存在时，他使属性_被必然体现_被他的个体性所体现。正如上帝在使它存在时使_红色_被这张桌子体现一样，上帝使_上帝_必然被体现。然而，人们可能认为这是不连贯的。事实上，这似乎是神造成了自己的存在：上帝用自己的靴带拉起了自己。
 
@@ -113,7 +113,7 @@
 
 一种神论心灵主义的观点是，必然存在的抽象对象是神圣的心灵状态，上帝并不简单。在这种观点中，上帝与他的心灵状态是不同的，抽象对象与这些心灵状态是相同的。这种观点的支持者之一是韦尔蒂（2014 年）。他说
 
-> 我坚持认为\[抽象对象]在构成上依赖于上帝，因为它们由存在于神圣心灵中并在其之外没有存在的神圣思想构成... \[抽象对象]是必然存在的、未创造的与上帝不同且依赖于上帝的神圣思想。（2014: 81）
+> 我坚持认为\[抽象对象] 在构成上依赖于上帝，因为它们由存在于神圣心灵中并在其之外没有存在的神圣思想构成... \[抽象对象] 是必然存在的、未创造的与上帝不同且依赖于上帝的神圣思想。（2014: 81）
 
 为什么有人会采纳有神论心灵主义？可以提出以下这种情况。思想（例如，思维语言中的句子）能够代表世界是某种特定方式。命题能够代表世界是某种特定方式。为什么我们需要这两种有意图的实体？我们可以简单地将命题和思想识别出来，从而得到一个更简单的本体论。
 
@@ -140,21 +140,21 @@
 
 ### 4.1 上帝论的柏拉图主义
 
-根据上帝论的柏拉图主义者，至少存在一些必然存在的抽象对象（例如命题、属性、关系、数字和事实状态），所有必然存在的抽象体的存在并非基于上帝。彼得·范·因瓦根（2009 年）是上帝论的柏拉图主义的典范案例。正如我们之前所看到的，因瓦根认为，如果必然存在的抽象对象是基于上帝的，那么它们将被上帝引起存在。但是必然存在的抽象体无法进入因果关系。因此它们并非基于上帝。他说：
+根据上帝论的柏拉图主义者，至少存在一些必然存在的抽象对象（例如命题、属性、关系、数字和事实状态），所有必然存在的抽象体的存在并非基于上帝。彼得 · 范 · 因瓦根（2009 年）是上帝论的柏拉图主义的典范案例。正如我们之前所看到的，因瓦根认为，如果必然存在的抽象对象是基于上帝的，那么它们将被上帝引起存在。但是必然存在的抽象体无法进入因果关系。因此它们并非基于上帝。他说：
 
 > 最后，我发现上帝创造自由抽象对象的想法毫无意义\[例如命题、关系、数字、属性等等]，也发现自由抽象对象的存在与上帝的活动有关的想法毫无意义。（请记住，尽管我相信所有抽象对象都是自由的，但这并不是我在本章中要捍卫的立场。）这是因为自由抽象对象的存在与任何事物无关。它们的存在与因果关系无关... 因果关系对抽象对象的存在（和内在属性）根本无关（2009: 18）。
 
-范·因瓦根认为，他最严肃的挑战来自他认为具有权威性的宗教文本。他特别提到尼西亚-君士坦丁堡信经的开头部分，其中写道：“我信奉一位上帝，全能的父，创造了天地，所有看得见和看不见的事物。”他认为这里的“所有看得见和看不见的事物”中的量词是限定于能够进入因果关系并因此能够被创造的事物。正如范·因瓦根所指出的，还有其他具有权威性的基督教文本，其中普遍量词被以一种受限的方式解读（例如马太福音 19:26“在上帝凡事都能”；另见路加福音 1:37，马可福音 10:27）。不应将这样的段落视为支持全能观的证据。相反，量词应以一种受限的方式解读。同样，尼西亚-君士坦丁堡信经的开头部分中的量词也是受限的。
+范 · 因瓦根认为，他最严肃的挑战来自他认为具有权威性的宗教文本。他特别提到尼西亚-君士坦丁堡信经的开头部分，其中写道：“我信奉一位上帝，全能的父，创造了天地，所有看得见和看不见的事物。”他认为这里的“所有看得见和看不见的事物”中的量词是限定于能够进入因果关系并因此能够被创造的事物。正如范 · 因瓦根所指出的，还有其他具有权威性的基督教文本，其中普遍量词被以一种受限的方式解读（例如马太福音 19: 26“在上帝凡事都能”；另见路加福音 1: 37，马可福音 10: 27）。不应将这样的段落视为支持全能观的证据。相反，量词应以一种受限的方式解读。同样，尼西亚-君士坦丁堡信经的开头部分中的量词也是受限的。
 
-值得注意的是，范·因瓦根在这里的论点与围绕这类文本经常出现的论点略有不同。通常，人们讨论的是权威文本的作者是否考虑到像必然存在的抽象体（例如沃尔特斯托夫 1970: 293；莫里斯和门泽尔 1986: 354）这样的事物。对于那些说这些文本的作者在声称上帝创造了一切时并没有考虑到，比如结构化命题，他们指出，他们也没有考虑到（明显创造的）夸克和玻色子之类的事物（例如戴维森 1999: 278-279）。相反，范·因瓦根认为，尼西亚-君士坦丁堡信经的开头部分这样的文本必须以一种受限的方式解读，以避免断言不可能的命题。对于有神论者来说，这似乎是正确的方式。在近 2000 年前的作家的用法中，很难辨别普遍量词的范围。（这与意图和语义内容之间的联系问题无关。）
+值得注意的是，范 · 因瓦根在这里的论点与围绕这类文本经常出现的论点略有不同。通常，人们讨论的是权威文本的作者是否考虑到像必然存在的抽象体（例如沃尔特斯托夫 1970: 293；莫里斯和门泽尔 1986: 354）这样的事物。对于那些说这些文本的作者在声称上帝创造了一切时并没有考虑到，比如结构化命题，他们指出，他们也没有考虑到（明显创造的）夸克和玻色子之类的事物（例如戴维森 1999: 278-279）。相反，范 · 因瓦根认为，尼西亚-君士坦丁堡信经的开头部分这样的文本必须以一种受限的方式解读，以避免断言不可能的命题。对于有神论者来说，这似乎是正确的方式。在近 2000 年前的作家的用法中，很难辨别普遍量词的范围。（这与意图和语义内容之间的联系问题无关。）
 
-范·因瓦根的主要关注点是像尼西亚-君士坦丁堡信经这样的权威文本。但我们之前注意到了第二种采纳任何必然存在的抽象对象依赖于上帝观点的理由。这第二种理由是完美存在论。再次，推理的线索是，一个存在着这样的存在着必然存在的抽象对象依赖于它的存在者比那些不依赖于它的存在者更伟大。而上帝是可能的最伟大存在者。范·因瓦根在这一点上会说什么是很清楚的：必然存在的抽象对象不可能依赖于任何事物。因此，存在着这样的 x，使得必然存在的抽象对象依赖于 x 并不是一个增益性质。这不是一个增益性质是神论者需要对必然存在的抽象对象的完美存在辩护者说的话。这些事物不能依赖于上帝或其他任何人。 （一个人可以或不可以采纳因瓦根的特定论证，即它们不能依赖于任何人。）
+范 · 因瓦根的主要关注点是像尼西亚-君士坦丁堡信经这样的权威文本。但我们之前注意到了第二种采纳任何必然存在的抽象对象依赖于上帝观点的理由。这第二种理由是完美存在论。再次，推理的线索是，一个存在着这样的存在着必然存在的抽象对象依赖于它的存在者比那些不依赖于它的存在者更伟大。而上帝是可能的最伟大存在者。范 · 因瓦根在这一点上会说什么是很清楚的：必然存在的抽象对象不可能依赖于任何事物。因此，存在着这样的 x，使得必然存在的抽象对象依赖于 x 并不是一个增益性质。这不是一个增益性质是神论者需要对必然存在的抽象对象的完美存在辩护者说的话。这些事物不能依赖于上帝或其他任何人。 （一个人可以或不可以采纳因瓦根的特定论证，即它们不能依赖于任何人。）
 
 因此，如果神论者认为有充分理由表明必然存在的抽象对象不能以上帝为基础，她将有理由做两件事。首先，她将有理由将权威文本中的相关普遍量化解释为受限制的。其次，如果她接受完美存在论中的推理方式；她将有理由坚持存在着这样的 x，使得必然存在的抽象对象依赖于 x 并不是一个增益性质（就像能够创造一个正方形圆圈一样）。
 
 ### 4.2 神论名义主义
 
-神论名义主义者认为并不存在必然存在的抽象对象。她可能认为，如果确实存在必然存在的抽象对象，它们将是基于上帝的。例如，威廉·莱恩·克雷格（2016 年）是一位神论名义主义者，他认为如果确实存在必然存在的抽象物，它们必须是基于上帝的。（我们可能应该将克雷格视为认为存在真反事实的人之一。）但可以想象有人认为，如果数字和属性之类的事物确实存在，神论柏拉图主义将是一个可采纳的观点。值得注意的是，几乎没有—如果有的话—关于必然存在的抽象物的现实主义者是因为他们是神论者而是现实主义者。相反，他们之所以是关于必然存在的抽象物的现实主义者是出于其他种类的原因（例如，不可或缺性论证，我们用真句子对它们进行量化的论证，或者真句子（例如，2+3=5）需要它们作为真理生成者的论证（参见 Rodriguez-Pereyra（2005）对真理生成者的辩护）。范·因瓦根本人相信存在必然存在的抽象对象，因为他认为我们对它们进行真实存在量化（例如，范·因瓦根 2014 年：第 8 章）。神论名义主义者无需作为神论者就必须说关于必然存在的抽象物的存在的任何其他名义主义者不需要说的话。神论名义主义的一个优势是，它使人能够避免那些认为上帝是必然存在的抽象对象存在的人所进行的某些困难操作。神论名义主义的另一个优势是，如果她愿意，它使人能够避免关于古代宗教文本中普遍量词语义的争论。当然，神论名义主义只适用于那些认为对于必然存在的抽象物的现实主义的标准论证有合理名义主义回应的人。克雷格本人认为他可以对这些现实主义的标准论证进行回应（2016 年：第 3、6、7 章）。
+神论名义主义者认为并不存在必然存在的抽象对象。她可能认为，如果确实存在必然存在的抽象对象，它们将是基于上帝的。例如，威廉 · 莱恩 · 克雷格（2016 年）是一位神论名义主义者，他认为如果确实存在必然存在的抽象物，它们必须是基于上帝的。（我们可能应该将克雷格视为认为存在真反事实的人之一。）但可以想象有人认为，如果数字和属性之类的事物确实存在，神论柏拉图主义将是一个可采纳的观点。值得注意的是，几乎没有—如果有的话—关于必然存在的抽象物的现实主义者是因为他们是神论者而是现实主义者。相反，他们之所以是关于必然存在的抽象物的现实主义者是出于其他种类的原因（例如，不可或缺性论证，我们用真句子对它们进行量化的论证，或者真句子（例如，2+3 = 5）需要它们作为真理生成者的论证（参见 Rodriguez-Pereyra（2005）对真理生成者的辩护）。范 · 因瓦根本人相信存在必然存在的抽象对象，因为他认为我们对它们进行真实存在量化（例如，范 · 因瓦根 2014 年：第 8 章）。神论名义主义者无需作为神论者就必须说关于必然存在的抽象物的存在的任何其他名义主义者不需要说的话。神论名义主义的一个优势是，它使人能够避免那些认为上帝是必然存在的抽象对象存在的人所进行的某些困难操作。神论名义主义的另一个优势是，如果她愿意，它使人能够避免关于古代宗教文本中普遍量词语义的争论。当然，神论名义主义只适用于那些认为对于必然存在的抽象物的现实主义的标准论证有合理名义主义回应的人。克雷格本人认为他可以对这些现实主义的标准论证进行回应（2016 年：第 3、6、7 章）。
 
 现在我们转向两种“混合观点”，即不同类型的抽象物与上帝之间存在不同的基础关系的观点。它们都试图将与上帝有关的抽象物（例如，上帝自己的属性）放在一边，并说上帝并不是它们的基础。但上帝是所有其他必然存在的抽象物的基础。
 
@@ -176,75 +176,75 @@
 
 ## Bibliography
 
-* Adams, Robert Merrihew, 1983, “Divine Necessity”, *The Journal of Philosophy*, 80(11): 741–752. doi:10.2307/2026018
-* Audi, Paul, 2012, “A Clarification and Defense of the Notion of Grounding”, in Correia and Schnieder 2012: 101–121. doi:10.1017/CBO9781139149136.004
+* Adams, Robert Merrihew, 1983, “Divine Necessity”, *The Journal of Philosophy*, 80(11): 741–752. doi: 10.2307/2026018
+* Audi, Paul, 2012, “A Clarification and Defense of the Notion of Grounding”, in Correia and Schnieder 2012: 101–121. doi: 10.1017/CBO9781139149136.004
 * Augustine, “On Ideas”, from *Eighty-Three Different Questions*, David L. Mosher (trans.), Washington, DC: Catholic University of America Press, 1982.
 * –––, *City of God*, Marcus Dods (trans.), Modern Library, 1993.
 * Aquinas, Thomas, \[ST], *Summa Theologica*, Fathers of English Dominican Province (trans.), Encyclopedia Britannica (Great Books of the Western World), 1922 \[2013].
 * –––, *Disputed Questions on Truth*, Robert J. Mulligan (trans.), Chicago: H. Regnery, 1954.
 * Beaty, Michael (ed.), 1990, *Christian Theism and the Problems of Philosophy*, Notre Dame, IN: Notre Dame Press.
-* Beebee, Helen and Julian Dodd (eds.), 2005, *Truthmakers: The Contemporary Debate*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199283569.001.0001
+* Beebee, Helen and Julian Dodd (eds.), 2005, *Truthmakers: The Contemporary Debate*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199283569.001.0001
 * Bergmann, Michael and Jeffrey E. Brower, 2006, “A Theistic Argument Against Platonism (and in Support of Truthmakers and Divine Simplicity)”, *Oxford Studies in Metaphysics*, 2: 357–386.
-* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36(2): 106–109. doi:10.1093/analys/36.2.106
+* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36(2): 106–109. doi: 10.1093/analys/36.2.106
 * Chalmers, David John, David Manley, and Ryan Wasserman (eds.), 2009, *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Clarendon Press.
-* Conee, Earl, 1991, “The Possibility of Power Beyond Possibility”, *Philosophical Perspectives*, 5: 447–473. doi:10.2307/2214105
-* Correia, Fabrice and Benjamin Schnieder (eds.), 2012, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139149136
-* Craig, William Lane, 2016, *God Over All: Divine Aseity and the Challenge of Platonism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198786887.001.0001
-* Daly, Chris, 2012, “Scepticism about Grounding”, in Correia and Schnieder 2012: 81–100. doi:10.1017/CBO9781139149136.003
-* Davidson, Matthew, 1999, “A Demonstration against Theistic Activism”, *Religious Studies*, 35(3): 277–290. doi:10.1017/S0034412599004886
+* Conee, Earl, 1991, “The Possibility of Power Beyond Possibility”, *Philosophical Perspectives*, 5: 447–473. doi: 10.2307/2214105
+* Correia, Fabrice and Benjamin Schnieder (eds.), 2012, *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139149136
+* Craig, William Lane, 2016, *God Over All: Divine Aseity and the Challenge of Platonism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198786887.001.0001
+* Daly, Chris, 2012, “Scepticism about Grounding”, in Correia and Schnieder 2012: 81–100. doi: 10.1017/CBO9781139149136.003
+* Davidson, Matthew, 1999, “A Demonstration against Theistic Activism”, *Religious Studies*, 35(3): 277–290. doi: 10.1017/S0034412599004886
 * –––, 2013, “Presentism and Grounding Past Truths”, in *New Papers on the Present: Focus on Presentism*, Roberto Ciuni, Kristie Miller, and Giuliano Torrengo (eds.), (Basic Philosophical Concepts), München: Philosophia Verlag, 153–172.
-* Davis, Richard Brian, 2006, “God and Counterpossibles”, *Religious Studies*, 42(4): 371–391. doi:10.1017/S0034412506008559
-* Davison, Scott A., 1991, “Could Abstract Objects Depend Upon God?”, *Religious Studies*, 27(4): 485–497. doi:10.1017/S003441250002120X
+* Davis, Richard Brian, 2006, “God and Counterpossibles”, *Religious Studies*, 42(4): 371–391. doi: 10.1017/S0034412506008559
+* Davison, Scott A., 1991, “Could Abstract Objects Depend Upon God?”, *Religious Studies*, 27(4): 485–497. doi: 10.1017/S003441250002120X
 * Descartes, René, 1991, *The Philosophical Writings of Descartes: Volume III The Correspondence*, John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny (trans.), Cambridge: Cambridge University Press.
 * Fine, Kit, 2001, “The Question of Realism”, *Philosopher’s Imprint*, 1(2). \[[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
 * Gould, Paul M. (ed.), 2014a, *Beyond the Control of God? Six Views on the Problem of God and Abstract Objects*, (Bloomsbury Studies in Philosophy of Religion), New York: Bloomsbury Publishing.
 * –––, 2014b, “Introduction to the Problem of God and Abstract Objects”in Gould 2014a, pp. 1–20.
 * Gould, Paul M. and Richard Brian Davis, 2014, “Modified Theistic Activism”, in Gould 2014a, pp. 51–80.
-* Hale, Bob and Aviv Hoffmann (eds.), 2010, *Modality: Metaphysics, Logic, and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199565818.001.0001
+* Hale, Bob and Aviv Hoffmann (eds.), 2010, *Modality: Metaphysics, Logic, and Epistemology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199565818.001.0001
 * Hofweber, Thomas, 2009, “Ambitious, Yet Modest, Metaphysics”, in Chalmers, Manley, and Wasserman 2009, pp. 260–290: .
-* Koslicki, Kathrin, 2012, “Varieties of Ontological Dependence”, in Correia and Schnieder 2012: 186–213. doi:10.1017/CBO9781139149136.008
+* Koslicki, Kathrin, 2012, “Varieties of Ontological Dependence”, in Correia and Schnieder 2012: 186–213. doi: 10.1017/CBO9781139149136.008
 * Leibniz, Gottfried, 1714 \[1989], *The Principles of Philosophy, or, the Monadology*, translated in *Leibniz: Philosophical Essays*, Roger Ariew and Daniel Garber (eds/trans), Indianapolis, IN: Hackett, 213–224.
-* Leftow, Brian, 1989, “A Leibnizian Cosmological Argument”, *Philosophical Studies*, 57(2): 135–155. doi:10.1007/BF00354595
-* –––, 1990, “God and Abstract Entities”, *Faith and Philosophy*, 7(2): 193–217. doi:10.5840/faithphil19907210
+* Leftow, Brian, 1989, “A Leibnizian Cosmological Argument”, *Philosophical Studies*, 57(2): 135–155. doi: 10.1007/BF00354595
+* –––, 1990, “God and Abstract Entities”, *Faith and Philosophy*, 7(2): 193–217. doi: 10.5840/faithphil19907210
 * –––, 2006a, “God and the Problem of Universals”, *Oxford Studies in Metaphysics*, vol. 2, pp. 325–357 Dean Zimmerman (ed.).
-* –––, 2006b, “Impossible Worlds”, *Religious Studies*, 42(4): 393–402. doi:10.1017/S0034412506008560
-* –––, 2012, *God and Necessity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263356.001.0001
+* –––, 2006b, “Impossible Worlds”, *Religious Studies*, 42(4): 393–402. doi: 10.1017/S0034412506008560
+* –––, 2012, *God and Necessity*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199263356.001.0001
 * Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
 * –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
 * MacDonald, Scott Charles (ed.), 1991, *Being and Goodness: The Concept of the Good in Metaphysics and Philosophical Theology*, Ithaca, NY: Cornell University Press.
-* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, *Notre Dame Journal of Formal Logic*, 38(4): 516–526. doi:10.1305/ndjfl/1039540767
-* Mann, William E., 1982, “Divine Simplicity”, *Religious Studies*, 18(4): 451–471. doi:10.1017/S0034412500014360
-* Menzel, Christopher, 1987, “Theism, Platonism, and the Metaphysics of Mathematics”, *Faith and Philosophy*, 4(4): 365–382. doi:10.5840/faithphil19874441
-* Merricks, Trenton, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
+* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, *Notre Dame Journal of Formal Logic*, 38(4): 516–526. doi: 10.1305/ndjfl/1039540767
+* Mann, William E., 1982, “Divine Simplicity”, *Religious Studies*, 18(4): 451–471. doi: 10.1017/S0034412500014360
+* Menzel, Christopher, 1987, “Theism, Platonism, and the Metaphysics of Mathematics”, *Faith and Philosophy*, 4(4): 365–382. doi: 10.5840/faithphil19874441
+* Merricks, Trenton, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199205233.001.0001
 * Morris, Thomas V., 1987a, *Anselmian Explorations: Essays in Philosophical Theology*, Notre Dame, IN: University of Notre Dame Press.
 * –––, 1987b, “Perfect Being Theology”, *Noûs*, 21(1): 19–30.
 * Morris, Thomas V. and Christopher Menzel, 1986, “Absolute Creation”, *American Philosophical Quarterly*, 23(4): 353–362.
-* Nagasawa, Yujin, 2017, *Maximal God: A New Defence of Perfect Being Theology*, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
-* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38(4): 535–572. doi:10.1305/ndjfl/1039540769
+* Nagasawa, Yujin, 2017, *Maximal God: A New Defence of Perfect Being Theology*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198758686.001.0001
+* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38(4): 535–572. doi: 10.1305/ndjfl/1039540769
 * Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* –––, 1978, *The Nature of Necessity*, Oxford: Oxford University Press. doi:10.1093/0198244142.001.0001
+* –––, 1978, *The Nature of Necessity*, Oxford: Oxford University Press. doi: 10.1093/0198244142.001.0001
 * –––, 1980, *Does God Have a Nature?*, Milwaukee: Marquette University Press.
-* –––, 1982, “How to Be an Anti-Realist”, *Proceedings and Addresses of the American Philosophical Association*, 56(1): 47–70. doi:10.2307/3131293
-* –––, 2003, *Essays in the Metaphysics of Modality*, Matthew Davidson (ed.), Oxford University Press. doi:10.1093/0195103769.001.0001
+* –––, 1982, “How to Be an Anti-Realist”, *Proceedings and Addresses of the American Philosophical Association*, 56(1): 47–70. doi: 10.2307/3131293
+* –––, 2003, *Essays in the Metaphysics of Modality*, Matthew Davidson (ed.), Oxford University Press. doi: 10.1093/0195103769.001.0001
 * Rodriguez-Pereyra, Gonzalo, 2005, “Why Truthmakers”, in Beebee and Dowd 2005, pp. 17–31.
 * Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in Hale and Hoffman 2010, pp. 109–136.
 * Salmon, Nathan U., 1981, *Reference and Essence*, Princeton, NJ: Princeton University Press.
 * Schaffer, Jonathan, 2009, “On What Grounds What”, in Chalmers, Manley, and Wasserman 2009, pp. 347–383.
-* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
-* Stump, Eleonore, 1997 \[2010], “Simplicity”, in *A Companion to Philosophy of Religion*, Charles Taliaferro, Paul Draper, and Philip L. Quinn (eds.), Oxford: Wiley-Blackwell; second edition 2010: 270–277. doi:10.1002/9781444320152.ch31
-* Stump, Eleonore and Norman Kretzmann, 1985, “Absolute Simplicity”, *Faith and Philosophy*, 2(4): 353–382. doi:10.5840/faithphil19852449
-* Timpe, Kevin (ed.), 2009, *Metaphysics and God: Essays in Honor of Eleonore Stump*, (Routledge Studies in the Philosophy of Religion 7), London/New York: Routledge. doi:10.4324/9780203875216
+* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199697908.001.0001
+* Stump, Eleonore, 1997 \[2010], “Simplicity”, in *A Companion to Philosophy of Religion*, Charles Taliaferro, Paul Draper, and Philip L. Quinn (eds.), Oxford: Wiley-Blackwell; second edition 2010: 270–277. doi: 10.1002/9781444320152.ch31
+* Stump, Eleonore and Norman Kretzmann, 1985, “Absolute Simplicity”, *Faith and Philosophy*, 2(4): 353–382. doi: 10.5840/faithphil19852449
+* Timpe, Kevin (ed.), 2009, *Metaphysics and God: Essays in Honor of Eleonore Stump*, (Routledge Studies in the Philosophy of Religion 7), London/New York: Routledge. doi: 10.4324/9780203875216
 * Vander Laan, David, 2004, “Counterpossibles and Similarity”, in *Lewisian Themes: The Philosophy of David K. Lewis*, Frank Jackson and Graham Priest (eds.), Oxford: Oxford University Press, pp. 258–275
-* van Inwagen, Peter, 1977, “Ontological Arguments”, *Noûs*, 11(4): 375–395. doi:10.2307/2214562
+* van Inwagen, Peter, 1977, “Ontological Arguments”, *Noûs*, 11(4): 375–395. doi: 10.2307/2214562
 * –––, 2009, “God and Other Uncreated Things”, in Timpe 2009: chapter 1, pp. 3–21.
-* –––, 2014, *Existence: Essays in Ontology*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107111004
+* –––, 2014, *Existence: Essays in Ontology*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781107111004
 * Welty, Greg, 2014, “Theistic Conceptual Realism”, in Gould 2014a, pp. 81–113.
 * Wierenga, Edward R., 1989, *The Nature of God: An Inquiry into Divine Attributes*, (Cornell Studies in the Philosophy of Religion), Ithaca, NY: Cornell University Press.
-* –––, 1998, “Theism and Counterpossibles”, *Philosophical Studies*, 89(1): 87–103. doi:10.1023/A:1004239104009
+* –––, 1998, “Theism and Counterpossibles”, *Philosophical Studies*, 89(1): 87–103. doi: 10.1023/A: 1004239104009
 * Wolterstorff, Nicholas, 1970, *On Universals: An Essay in Ontology*, Chicago, IL: University of Chicago Press.
-* –––, 1991, “Divine Simplicity”, *Philosophical Perspectives*, 5: 531–552. doi:10.2307/2214108
-* Yandell, Keith E., 1994, “The Most Brutal and Inexcusable Error in Counting?: Trinity and Consistency”, *Religious Studies*, 30(2): 201–217. doi:10.1017/S0034412500001499
-* Yagisawa, Takashi, 1988, “Beyond Possible Worlds”, *Philosophical Studies*, 53(2): 175–204. doi:10.1007/BF00354640
+* –––, 1991, “Divine Simplicity”, *Philosophical Perspectives*, 5: 531–552. doi: 10.2307/2214108
+* Yandell, Keith E., 1994, “The Most Brutal and Inexcusable Error in Counting?: Trinity and Consistency”, *Religious Studies*, 30(2): 201–217. doi: 10.1017/S0034412500001499
+* Yagisawa, Takashi, 1988, “Beyond Possible Worlds”, *Philosophical Studies*, 53(2): 175–204. doi: 10.1007/BF00354640
 * Zagzebski, Linda, 1990, “What if the Impossible Had Been Actual?”, in Beaty 1990: 165–183.
 
 ## Academic Tools

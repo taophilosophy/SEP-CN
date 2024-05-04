@@ -1,6 +1,6 @@
 # 知识的分析 analysis of (Jonathan Jenkins Ichikawa and Matthias Steup)
 
-*首次发表于2001年2月6日；实质性修订于2017年3月7日*
+*首次发表于 2001 年 2 月 6 日；实质性修订于 2017 年 3 月 7 日*
 
 对于任何人来说，他们知道一些事情，也有一些事情他们不知道。到底有什么区别？知道一件事情需要什么条件？仅仅相信是不够的——我们不知道我们错误的事情。知识似乎更像是一种获取真理的方式。对知识的分析涉及到试图明确这种“获取真理”的方式是什么。
 
@@ -8,9 +8,9 @@
 
 知识分析文献中的被分析的命题知识在英语中典型地由“S 知道 p”这种形式的句子来表达，其中“S”指的是知识主体，“p”指的是被知道的命题。一个提出的分析包括以下形式的陈述：如果且仅如果 ，其中表示被分析的部分：典型地，是一系列个别必要条件和共同充分条件，以使 S 拥有对 p 的知识。
 
-仅仅挑选出知识的实际范围是不够的。即使实际上，所有的S知道p的情况都是的情况，而后者的情况都是前者的情况，也可能无法作为对知识的分析。例如，可能存在没有的知识情况，或者反过来。对知识的适当分析至少应该是一个必然真理。因此，假设性思想实验为各种分析提供了适当的测试案例，如下所示。
+仅仅挑选出知识的实际范围是不够的。即使实际上，所有的 S 知道 p 的情况都是的情况，而后者的情况都是前者的情况，也可能无法作为对知识的分析。例如，可能存在没有的知识情况，或者反过来。对知识的适当分析至少应该是一个必然真理。因此，假设性思想实验为各种分析提供了适当的测试案例，如下所示。
 
-即使将知识与某种状态进行必要的双向条件连接，也可能不足以进行知识的分析，尽管还有一些争议。根据一些理论家的观点，分析知识实际上是要识别构成知识的组成部分，就像化学家分析样本以了解其化学成分一样。根据对分析知识项目的这种解释，成功分析知识的辩护者将致力于类似于形而上学主张的观点，即S知道p的含义是某些涉及S和p的条件列表成立。其他理论家将知识的分析视为独特的概念性分析，即分析知识是为了描绘知识概念的结构。在这种方法的一个版本中，知识概念实际上由更基本的概念组成，通过类似于布尔运算符的方式连接在一起。因此，分析不仅受到外延准确性的限制，还受到关于知识的认知表示和其他认识论概念的事实的限制。在实践中，许多从事分析知识项目的认识论学家未解决这些形而上学解释性问题；尝试的分析和反例通常被提出，而不明确说明这些主张是作为形而上学还是概念性主张。在许多情况下，这种缺乏具体性可能是合理的，因为各方往往都同意，知识的分析至少应在所有形而上学可能的世界中具有外延正确性。正如我们将看到的，许多理论在这些条件下得到了辩护，尤其是被驳斥。
+即使将知识与某种状态进行必要的双向条件连接，也可能不足以进行知识的分析，尽管还有一些争议。根据一些理论家的观点，分析知识实际上是要识别构成知识的组成部分，就像化学家分析样本以了解其化学成分一样。根据对分析知识项目的这种解释，成功分析知识的辩护者将致力于类似于形而上学主张的观点，即 S 知道 p 的含义是某些涉及 S 和 p 的条件列表成立。其他理论家将知识的分析视为独特的概念性分析，即分析知识是为了描绘知识概念的结构。在这种方法的一个版本中，知识概念实际上由更基本的概念组成，通过类似于布尔运算符的方式连接在一起。因此，分析不仅受到外延准确性的限制，还受到关于知识的认知表示和其他认识论概念的事实的限制。在实践中，许多从事分析知识项目的认识论学家未解决这些形而上学解释性问题；尝试的分析和反例通常被提出，而不明确说明这些主张是作为形而上学还是概念性主张。在许多情况下，这种缺乏具体性可能是合理的，因为各方往往都同意，知识的分析至少应在所有形而上学可能的世界中具有外延正确性。正如我们将看到的，许多理论在这些条件下得到了辩护，尤其是被驳斥。
 
 研究知识的尝试引起了认识论学者的广泛关注，尤其是在 20 世纪后期，但是没有一种分析被广泛接受。一些当代认识论学者拒绝了知识可被分析的假设。
 
@@ -29,11 +29,11 @@ S 知道 p 当且仅当
 
 知识的三分析常被简称为“JTB”分析，即“有理由真实信念”。
 
-在 20 世纪的大部分知识分析文献中，JTB 分析被视为起点。人们普遍认为这种分析在哲学历史的大部分时间里被广泛接受，实际上，JTB 分析是在 20 世纪首次被其批评者提出的。[1]在转向 20 世纪有影响力的反对 JTB 理论的论证之前，让我们简要地考虑一下知识的三个传统组成部分。
+在 20 世纪的大部分知识分析文献中，JTB 分析被视为起点。人们普遍认为这种分析在哲学历史的大部分时间里被广泛接受，实际上，JTB 分析是在 20 世纪首次被其批评者提出的。[1] 在转向 20 世纪有影响力的反对 JTB 理论的论证之前，让我们简要地考虑一下知识的三个传统组成部分。
 
 ### 1.1 真实条件
 
-大多数认识论者普遍认为，虚假的事物是无法被知道的。例如，希拉里·克林顿没有赢得 2016 年美国总统选举。因此，没有人知道希拉里·克林顿赢得了选举。人们只能知道真实的事物。
+大多数认识论者普遍认为，虚假的事物是无法被知道的。例如，希拉里 · 克林顿没有赢得 2016 年美国总统选举。因此，没有人知道希拉里 · 克林顿赢得了选举。人们只能知道真实的事物。
 
 有时候，当人们对某件事情非常有信心，结果却是错误的时候，我们用“知道”这个词来描述他们的情况。很多人预计克林顿会赢得选举。放松地说，我们甚至可以说很多人“知道”克林顿会赢得选举，直到她输了。哈兹莱特（2010）根据这样的数据认为，“知道”不是一个事实性动词。哈兹莱特的诊断在学界引起了激烈的争议；大多数认识论者会将像“我知道克林顿会赢”这样的句子视为一种夸张，即并非字面上的真实。
 
@@ -41,22 +41,22 @@ S 知道 p 当且仅当
 
 ### 1.2 信念条件
 
-信念条件比真实条件稍微有争议。信念条件背后的基本思想是，你只能知道你所相信的东西。不相信某事会排除了对它的了解。在 JTB 理论的背景下，“信念”意味着完全相信或坚定相信。在弱意义上，某人可能因为相当有信心它可能是真的而“相信”某事——以这种弱意义来说，即使承认她可能会输掉选举，但仍然认为克林顿是最有可能赢得选举的人，可以说她“相信”克林顿会赢。坚定的信念更强烈（参见，例如，Fantl＆McGrath 2009：141; Nagel 2010：413-4; Williamson 2005：108;或 Gibbons 2013：201）。要坚定地相信 p，仅仅对 p 有相当高的信心是不够的；它更接近于一种承诺或确信。[4]
+信念条件比真实条件稍微有争议。信念条件背后的基本思想是，你只能知道你所相信的东西。不相信某事会排除了对它的了解。在 JTB 理论的背景下，“信念”意味着完全相信或坚定相信。在弱意义上，某人可能因为相当有信心它可能是真的而“相信”某事——以这种弱意义来说，即使承认她可能会输掉选举，但仍然认为克林顿是最有可能赢得选举的人，可以说她“相信”克林顿会赢。坚定的信念更强烈（参见，例如，Fantl＆McGrath 2009：141; Nagel 2010：413-4; Williamson 2005：108; 或 Gibbons 2013：201）。要坚定地相信 p，仅仅对 p 有相当高的信心是不够的；它更接近于一种承诺或确信。[4]
 
 虽然最初似乎很明显，知道 p 需要相信 p，但一些哲学家认为，确实存在不需要相信的知识。假设沃尔特下班后回家发现他的房子被烧毁了。他说：“我不相信”。对于信念条件的批评者可能会认为沃尔特知道他的房子被烧毁了（他看到了），但正如他的话所表明的，他并不相信。标准的回应是，沃尔特对不相信的表态并不是字面上的真实；沃尔特说“我不相信”时想要传达的不是他真的不相信他的房子被烧毁了，而是他很难接受他所看到的事实。如果他真的不相信，他随后的一些行动，比如给保险公司打电话，将会变得相当神秘。
 
-罗伯特·基尔沃比（Robert Kilwardby）提出了一个更严重的反例。假设阿尔伯特（Albert）被问及英国历史。其中一个问题是：“伊丽莎白女王什么时候去世？”阿尔伯特认为自己不知道，但却正确回答了这个问题。此外，他对许多其他他认为自己不知道答案的问题也给出了正确答案。让我们关注一下阿尔伯特对伊丽莎白的回答：
+罗伯特 · 基尔沃比（Robert Kilwardby）提出了一个更严重的反例。假设阿尔伯特（Albert）被问及英国历史。其中一个问题是：“伊丽莎白女王什么时候去世？”阿尔伯特认为自己不知道，但却正确回答了这个问题。此外，他对许多其他他认为自己不知道答案的问题也给出了正确答案。让我们关注一下阿尔伯特对伊丽莎白的回答：
 
 * （E）伊丽莎白于 1603 年去世。
 
 关于这个例子，拉德福德（Colin Radford）提出了以下两个观点：
 
-1. 罗伯特·基尔沃比不相信（E）。
-2. 罗伯特·基尔沃比知道（E）。
+1. 罗伯特 · 基尔沃比不相信（E）。
+2. 罗伯特 · 基尔沃比知道（E）。
 
-拉德福德关于这类情况的直觉似乎并不是特殊的；迈尔斯-舒茨和施维茨盖贝尔（2013）的研究发现，许多普通人倾向于以拉德福德所建议的方式做出反应。支持（a）的是，拉德福德强调，罗伯特·基尔沃比认为自己不知道问题的答案。他不相信自己的答案，因为他认为那只是一个猜测。支持（b）的是，拉德福德认为，罗伯特·基尔沃比的答案绝不仅仅是幸运的猜测。他大部分问题都回答正确表明他实际上已经学到了这些历史事实，并且从未忘记。
+拉德福德关于这类情况的直觉似乎并不是特殊的；迈尔斯-舒茨和施维茨盖贝尔（2013）的研究发现，许多普通人倾向于以拉德福德所建议的方式做出反应。支持（a）的是，拉德福德强调，罗伯特 · 基尔沃比认为自己不知道问题的答案。他不相信自己的答案，因为他认为那只是一个猜测。支持（b）的是，拉德福德认为，罗伯特 · 基尔沃比的答案绝不仅仅是幸运的猜测。他大部分问题都回答正确表明他实际上已经学到了这些历史事实，并且从未忘记。
 
-由于他认为(a)和(b)是真实的，Radford 认为信念对于知识并非必要。但(a)和(b)中的任何一个都可能遭到反对。有人可能否认(a)，认为阿尔伯特确实有一种隐含的信念(E)，尽管他并不认为这种信念等同于知识。大卫·罗斯和乔纳森·沙弗(2013)采取了这种观点。或者，有人可能否认(b)，认为阿尔伯特的正确答案并不是知识的表达，也许是因为从他的主观立场来看，他没有相信(E)的理由。理由条件是下一节的主题。
+由于他认为(a)和(b)是真实的，Radford 认为信念对于知识并非必要。但(a)和(b)中的任何一个都可能遭到反对。有人可能否认(a)，认为阿尔伯特确实有一种隐含的信念(E)，尽管他并不认为这种信念等同于知识。大卫 · 罗斯和乔纳森 · 沙弗(2013)采取了这种观点。或者，有人可能否认(b)，认为阿尔伯特的正确答案并不是知识的表达，也许是因为从他的主观立场来看，他没有相信(E)的理由。理由条件是下一节的主题。
 
 ### 1.3 理由条件
 
@@ -68,11 +68,11 @@ S 知道 p 当且仅当
 
 对于这里所涉及的合理化方式，认识论者之间存在着相当大的分歧。关于合理化，内在主义者认为一个信念是否合理化完全取决于某种程度上内在于主体的状态。根据一种常见的“内在”的理解，只有主体经验中直接或内省可得的特征才被视为“内在”——称之为“获取内在主义”。根据另一种理解，只有主体的内在状态才是“内在”的——称之为“状态内在主义”。有关区别，请参见费尔德曼和科尼（Feldman & Conee）2001 年的论述。
 
-Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，如果 S 相信 p 是有正当理由的，那么只有当相信 p 是最符合 S 证据的态度时，才能认为是有正当理由的，而后者只取决于 S 的内部心理状态。Conee 和 Feldman 将他们的观点称为“证据主义”，并将其描述为正当理由完全是主体证据的问题。鉴于他们（不无重要的）假设主体拥有的证据是内部事务，证据主义意味着内在主义。[6]对于正当理由的外在主义者认为，主体外部的因素可能与正当理由有关；例如，过程可靠主义者认为，正当的信念是那些由倾向于产生高比例真实信念相对于假信念的认知过程形成的信念。[7]我们将在第 6.1 节回到可靠主义方法对知识分析的问题上。
+Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，如果 S 相信 p 是有正当理由的，那么只有当相信 p 是最符合 S 证据的态度时，才能认为是有正当理由的，而后者只取决于 S 的内部心理状态。Conee 和 Feldman 将他们的观点称为“证据主义”，并将其描述为正当理由完全是主体证据的问题。鉴于他们（不无重要的）假设主体拥有的证据是内部事务，证据主义意味着内在主义。[6] 对于正当理由的外在主义者认为，主体外部的因素可能与正当理由有关；例如，过程可靠主义者认为，正当的信念是那些由倾向于产生高比例真实信念相对于假信念的认知过程形成的信念。[7] 我们将在第 6.1 节回到可靠主义方法对知识分析的问题上。
 
 #### 1.3.2 正当理由的种类
 
-值得注意的是，人们可以区分两个重要的不同的正当性概念，通常被称为“命题正当性”和“信念正当性”。（有时分别称为“事前”正当性和“事后”正当性。）[8]与正当性的内在主义和外在主义方法之间的区别不同，命题正当性和信念正当性之间的区别并不代表需要解决的冲突；它是两个被称为“正当性”的不同属性之间的区别。命题正当性涉及一个主体是否有足够的理由相信一个给定的命题；信念正当性涉及一个给定信念是否适当地持有。将这两者联系起来的一种常见方式是建议命题正当性更为基本，而信念正当性是一个主体对其命题正当性做出适当反应或基于其命题正当性的信念的问题。
+值得注意的是，人们可以区分两个重要的不同的正当性概念，通常被称为“命题正当性”和“信念正当性”。（有时分别称为“事前”正当性和“事后”正当性。）[8] 与正当性的内在主义和外在主义方法之间的区别不同，命题正当性和信念正当性之间的区别并不代表需要解决的冲突；它是两个被称为“正当性”的不同属性之间的区别。命题正当性涉及一个主体是否有足够的理由相信一个给定的命题；信念正当性涉及一个给定信念是否适当地持有。将这两者联系起来的一种常见方式是建议命题正当性更为基本，而信念正当性是一个主体对其命题正当性做出适当反应或基于其命题正当性的信念的问题。
 
 命题正当性和信念正当性之间的确切关系存在争议，但无争议的是这两个概念可以分离。假设英格丽忽视了大量表明某个社区危险的优秀证据，但是当她看到一只黑猫穿过街道时，出于迷信而相信该社区是危险的。由于基于迷信形成信念不是一种认识上适当的形成信念的方式，英格丽的信念并没有信念正当性；然而，她确实有充分的理由相信她所相信的，因此她对该社区危险的命题具有命题正当性。
 
@@ -96,13 +96,13 @@ Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，�
 
 > 假设柏拉图就在你旁边，你知道他在跑步，但你错误地认为他是苏格拉底，所以你坚信苏格拉底在跑步。然而，假设苏格拉底实际上是在罗马跑步，而你并不知道这一点。（摘自 Peter of Mantua 的 De scire et dubitare，引自 Boh 1985: 95）
 
-在这些情况下，似乎合理的真实信念在某种重要意义上与事实脱节，这些情况在埃德蒙·盖蒂尔于 1963 年发表的论文《合理的真实信念是否为知识？》中变得著名。盖蒂尔提出了两种情况，其中一个真实的信念是从一个合理的错误信念推断出来的。他观察到，直觉上，这样的信念不能被视为知识；它们只是碰巧是真实的。
+在这些情况下，似乎合理的真实信念在某种重要意义上与事实脱节，这些情况在埃德蒙 · 盖蒂尔于 1963 年发表的论文《合理的真实信念是否为知识？》中变得著名。盖蒂尔提出了两种情况，其中一个真实的信念是从一个合理的错误信念推断出来的。他观察到，直觉上，这样的信念不能被视为知识；它们只是碰巧是真实的。
 
 为了纪念他对文献的贡献，这些情况被称为“盖蒂尔案例”。由于它们似乎反驳了 JTB 分析，许多认识论学家已经着手修复它：知识的分析必须如何修改以适应盖蒂尔案例？这通常被称为“盖蒂尔问题”。
 
 如上所述，我们注意到合理性的一个作用是排除幸运猜测作为知识的情况。盖蒂尔问题的一个教训是，似乎即使是合理的真实信念也可能在与知识不一致的方式上具有认识论上的幸运成分。
 
-认识论者认为 JTB 方法基本上是正确的，他们必须在解决盖蒂尔问题时选择两种不同的策略。第一种策略是加强证明条件，以排除盖蒂尔案例作为合理信念的案例。罗德里克·奇斯姆曾尝试过这种方法;[11]我们将在下面的第 7 节再次提到这种策略。另一种策略是用适当的第四个条件修正 JTB 分析，这个条件成功地防止了合理真实信念被“盖蒂尔化”。修正后，JTB 分析成为知识的 JTB+X 解释，其中“X”代表所需的第四个条件。
+认识论者认为 JTB 方法基本上是正确的，他们必须在解决盖蒂尔问题时选择两种不同的策略。第一种策略是加强证明条件，以排除盖蒂尔案例作为合理信念的案例。罗德里克 · 奇斯姆曾尝试过这种方法; [11] 我们将在下面的第 7 节再次提到这种策略。另一种策略是用适当的第四个条件修正 JTB 分析，这个条件成功地防止了合理真实信念被“盖蒂尔化”。修正后，JTB 分析成为知识的 JTB+X 解释，其中“X”代表所需的第四个条件。
 
 让我们考虑一个表达“去盖蒂尔化”条件的实例。
 
@@ -116,7 +116,7 @@ Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，�
 
 4. 在田野里有一只狗。
 
-进一步假设所谓的狗实际上是一只完美无缺的机器狗，仅凭视觉无法将其与真正的狗区分开来。詹姆斯不知道这样的机器狗存在；一个日本玩具制造商最近才开发出这种机器狗，并且詹姆斯所看到的是用于测试公众反应的原型。在这些假设下，（d）显然是错误的。但进一步假设，在离机器狗只有几英尺远的地方，有一只真正的狗，被詹姆斯的视线所遮挡。在这一进一步假设下，詹姆斯对（d）的信念是真实的。并且由于这种信念是基于普通的感知过程，大多数认识论者将同意它是合理的。但就像在盖蒂尔的案例中一样，詹姆斯的信念似乎只是侥幸地成为真实，这与知识的方式不一致。因此，我们面前再次出现了一个合理的真实信念，但它并不是知识。[13]可以说，这种信念是直接由视觉经验所证明的；它并不是从任何错误的推论中得出的。如果是这样的话，那么即使加上（iv），JTB 理论也会给出错误的结果，即詹姆斯知道（d）。
+进一步假设所谓的狗实际上是一只完美无缺的机器狗，仅凭视觉无法将其与真正的狗区分开来。詹姆斯不知道这样的机器狗存在；一个日本玩具制造商最近才开发出这种机器狗，并且詹姆斯所看到的是用于测试公众反应的原型。在这些假设下，（d）显然是错误的。但进一步假设，在离机器狗只有几英尺远的地方，有一只真正的狗，被詹姆斯的视线所遮挡。在这一进一步假设下，詹姆斯对（d）的信念是真实的。并且由于这种信念是基于普通的感知过程，大多数认识论者将同意它是合理的。但就像在盖蒂尔的案例中一样，詹姆斯的信念似乎只是侥幸地成为真实，这与知识的方式不一致。因此，我们面前再次出现了一个合理的真实信念，但它并不是知识。[13] 可以说，这种信念是直接由视觉经验所证明的；它并不是从任何错误的推论中得出的。如果是这样的话，那么即使加上（iv），JTB 理论也会给出错误的结果，即詹姆斯知道（d）。
 
 另一个例子说明条款（iv）无法胜任的是著名的巴恩县案例（Goldman 1976）。假设在中西部有一个县，具有以下奇特特征。通过该县的道路旁边的景观布满了谷仓外观：从道路上看，这些结构看起来就像谷仓一样。从任何其他视角观察，立即就会发现这些结构是伪造的：为了欺骗毫无戒心的驾车者相信存在谷仓而建造的设施。假设亨利正沿着穿过巴恩县的道路驾车。自然地，他会在许多场合下形成关于谷仓存在的错误信念。由于亨利没有理由怀疑自己是有组织的欺骗的受害者，这些信念是合理的。现在进一步假设，在他相信那边有一个谷仓的那些场合之一，他碰巧正在看县里唯一的真正的谷仓。这次，他的信念是合理且正确的。但由于它的真实性是运气的结果，可以非常合理地判断亨利的信念不是知识的一个例子。然而，在这种情况下满足了条件（iv）。他的信念不是从错误的推理中得出的。再次，我们看到（iv）不能作为解决盖蒂尔问题的一般解决方案。
 
@@ -128,11 +128,11 @@ Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，�
 
 > 如果 p 是假的，S 不会相信 p，那么 S 对 p 的信念是敏感的。[14]
 
-罗伯特·诺齐克（1981）曾为知识提出了敏感性条件。根据刘易斯（Lewis 1973）对反事实条件句的语义学解释，敏感性条件等同于在最近的可能世界中，当不是 p 时，主体不相信 p 的要求。
+罗伯特 · 诺齐克（1981）曾为知识提出了敏感性条件。根据刘易斯（Lewis 1973）对反事实条件句的语义学解释，敏感性条件等同于在最近的可能世界中，当不是 p 时，主体不相信 p 的要求。
 
 将敏感条件纳入对知识的分析中的一个动机是，似乎有一种直观的感觉，即知识不仅需要正确，还需要在其他可能的情况下追踪真相。这种方法似乎是对至少一些盖蒂尔案例中出现问题的合理诊断。例如，在达摩塔拉的沙漠水案例中，你对某个位置有水的信念似乎对水的事实不敏感。因为如果那里没有水，你仍然会基于同样的理由——即幻觉——持有相同的信念。
 
-然而，怀疑敏感条件能够解释盖蒂尔案例现象。它只在某些情况下能够解释，即如果所讨论的命题是假的，人们仍然会相信它。但正如索尔·克里普克（2011: 167-68）指出的那样，并非所有的盖蒂尔案例都是如此。例如，考虑上面提到的 Barn County 案例。亨利看着一个特定的位置，那里碰巧有一个谷仓，并相信那里有一个谷仓。敏感条件只有在如果那里没有谷仓，亨利仍然会相信那里有谷仓的情况下，才会将这种信念排除在知识之外。但这个反事实可能是错误的，这取决于 Barn County 案例的设置方式。例如，如果亨利正在检查的特定位置不适合建造谷仓的外观，那么这个反事实就是错误的。相关地，正如克里普克也指出的那样（2011: 186），如果我们假设谷仓的外观总是绿色的，而真正的谷仓总是红色的，那么亨利认为他看到的是红色谷仓的信念是敏感的，尽管他认为他看到的是谷仓的信念不是敏感的。（我们假设亨利不知道颜色有任何相关意义。）由于直观上，前者的信念看起来与后者一样不足以构成知识，敏感条件只能解决一些源自盖蒂尔案例的直观问题。
+然而，怀疑敏感条件能够解释盖蒂尔案例现象。它只在某些情况下能够解释，即如果所讨论的命题是假的，人们仍然会相信它。但正如索尔 · 克里普克（2011: 167-68）指出的那样，并非所有的盖蒂尔案例都是如此。例如，考虑上面提到的 Barn County 案例。亨利看着一个特定的位置，那里碰巧有一个谷仓，并相信那里有一个谷仓。敏感条件只有在如果那里没有谷仓，亨利仍然会相信那里有谷仓的情况下，才会将这种信念排除在知识之外。但这个反事实可能是错误的，这取决于 Barn County 案例的设置方式。例如，如果亨利正在检查的特定位置不适合建造谷仓的外观，那么这个反事实就是错误的。相关地，正如克里普克也指出的那样（2011: 186），如果我们假设谷仓的外观总是绿色的，而真正的谷仓总是红色的，那么亨利认为他看到的是红色谷仓的信念是敏感的，尽管他认为他看到的是谷仓的信念不是敏感的。（我们假设亨利不知道颜色有任何相关意义。）由于直观上，前者的信念看起来与后者一样不足以构成知识，敏感条件只能解决一些源自盖蒂尔案例的直观问题。
 
 大多数认识论者今天都否定对知识的敏感性要求。反对敏感性条件的主要动机是，根据合理的假设，它会导致不可接受的“可恶的连词”[15]。为了看清楚这一点，首先假设对于普通知识的怀疑是错误的 - 普通主体至少知道我们通常认为他们知道的许多事情。例如，乔治可以完全正常地看到和使用他的双手，他知道他有双手。当然，这与对知识的敏感性条件完全一致，因为如果乔治没有双手 - 例如，他们最近被砍掉了 - 他就不会相信他有双手。
 
@@ -140,11 +140,11 @@ Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，�
 
 尽管这两个关于普通知识的知识归因和关于怀疑情景的否定知识的判断各自都是直观的，但将它们放在一起是直观上有问题的。它们的连词在德罗斯的术语中是可恶的：“乔治知道他有双手，但他不知道他不是笛卡尔恶魔的无手受害者”。对知识的敏感性条件与存在普通知识的非怀疑主张相结合，似乎暗示了这样的可恶的连词。[16]
 
-大多数当代认识论者认为这些考虑足以拒绝敏感条件[17]。然而，参见罗伯特·基尔沃比（2011a）对敏感条件的解释和认可，根据这一解释，它可能避免了对可憎连词的承诺。
+大多数当代认识论者认为这些考虑足以拒绝敏感条件 [17]。然而，参见罗伯特 · 基尔沃比（2011a）对敏感条件的解释和认可，根据这一解释，它可能避免了对可憎连词的承诺。
 
 ### 5.2 安全性
 
-尽管今天很少有认识论者支持对知识的敏感条件，但知识要求主体与所知命题之间保持特定的模态关系的观念仍然很受欢迎。在他 1999 年的论文《如何击败对摩尔的反对》中，厄内斯特·索萨提出安全条件应该扮演敏感性的角色。索萨将安全性描述为敏感性的逆条件。
+尽管今天很少有认识论者支持对知识的敏感条件，但知识要求主体与所知命题之间保持特定的模态关系的观念仍然很受欢迎。在他 1999 年的论文《如何击败对摩尔的反对》中，厄内斯特 · 索萨提出安全条件应该扮演敏感性的角色。索萨将安全性描述为敏感性的逆条件。
 
 **敏感性：**
 如果 p 是假的，S 将不会相信 p。
@@ -152,19 +152,19 @@ Conee 和 Feldman 提出了内在主义观点的一个例子。他们认为，�
 **安全性：**
 如果 S 相信 p，那么 p 不会是假的。[18]
 
-尽管对于物质条件（A⊃B 当且仅当∼B⊃∼A），对偶是有效的，但 Sosa 认为对于反事实条件句来说是无效的，这就是为什么敏感性和安全性不等价的原因。根据 Sosa 的说法，一个安全的信念，但不敏感的例子是，相信一个遥远的怀疑场景并不存在。如果我们假设上面讨论的 George 从未面临过成为笛卡尔恶魔受害者的风险——因为，比如说，在 George 的世界中不存在笛卡尔恶魔——那么 George 相信他不是这样的受害者是一个安全的信念，尽管我们在前一节中看到它不可能是敏感的。请注意，尽管我们假设 George 不会受到笛卡尔恶魔的欺骗风险，但我们并没有假设 George 本身对这个事实有任何特殊的了解。除非他有，否则安全性，就像敏感性一样，将成为对“获取”意义上的知识的外在条件。它在“状态”意义上也是外在的，因为相关反事实条件句的真实性将取决于主体外部的特征。
+尽管对于物质条件（A⊃B 当且仅当 ∼B⊃∼A），对偶是有效的，但 Sosa 认为对于反事实条件句来说是无效的，这就是为什么敏感性和安全性不等价的原因。根据 Sosa 的说法，一个安全的信念，但不敏感的例子是，相信一个遥远的怀疑场景并不存在。如果我们假设上面讨论的 George 从未面临过成为笛卡尔恶魔受害者的风险——因为，比如说，在 George 的世界中不存在笛卡尔恶魔——那么 George 相信他不是这样的受害者是一个安全的信念，尽管我们在前一节中看到它不可能是敏感的。请注意，尽管我们假设 George 不会受到笛卡尔恶魔的欺骗风险，但我们并没有假设 George 本身对这个事实有任何特殊的了解。除非他有，否则安全性，就像敏感性一样，将成为对“获取”意义上的知识的外在条件。它在“状态”意义上也是外在的，因为相关反事实条件句的真实性将取决于主体外部的特征。
 
 用这些反事实条件句来描述安全性取决于关于反事实条件句语义的实质性假设。例如，如果我们接受 David Lewis 或 Robert Stalnaker 对反事实条件句的处理，包括一个强的中心化条件，即实际世界始终是唯一最接近的，那么所有真实的信念都将根据安全性的反事实分析被视为安全的。Sosa 打算让相关的反事实条件句提出一个更强的要求，大致要求在 S 相信 p 的所有附近世界中，p 都不是假的。
 
-不是基于对反事实的争议性处理，而是更直接地以这些模态术语来理解安全条件可能更为明确，正如罗伯特·基尔沃比本人经常所做的那样：
+不是基于对反事实的争议性处理，而是更直接地以这些模态术语来理解安全条件可能更为明确，正如罗伯特 · 基尔沃比本人经常所做的那样：
 
  安全性：
 
 在所有附近的世界中，当 S 相信 p 时，p 不是假的。
 
-无法确定 JTB+安全性分析知识是否成功，因为所述的“附近”条件的模糊性。潜在反例的状态并不总是容易应用。例如，胡安·科梅萨纳（2005）提出了一个他认为可以反驳知识必须安全的要求的案例。在科梅萨纳的例子中，万圣节派对的主人请朱迪指引客人去派对。朱迪的指示是给每个人相同的方向，这些方向实际上是准确的，但如果她看到迈克尔，派对将会移到另一个地点。（主人不希望迈克尔找到派对。）假设迈克尔从未出现过。如果一个特定的客人没有，但几乎决定穿一个非常逼真的迈克尔服装去派对，那么他基于朱迪的证词对派对位置的信念将是真实的，但科梅萨纳说，这个信念很容易是错误的。（如果他只是稍微改变了他的服装选择，他就会被欺骗。）科梅萨纳将这个案例描述为对知识安全性条件的反例。然而，一个安全性理论家可以主张，尽管相关的怀疑场景是可能的，并且在某种意义上是附近的，但在相关方面并不足以证明安全性条件的错误。如果这样的理论家希望安全性条件能够给出明确的判断，她将面临阐明相关相似性概念的任务（另见博加德斯 2014 年）。
+无法确定 JTB+安全性分析知识是否成功，因为所述的“附近”条件的模糊性。潜在反例的状态并不总是容易应用。例如，胡安 · 科梅萨纳（2005）提出了一个他认为可以反驳知识必须安全的要求的案例。在科梅萨纳的例子中，万圣节派对的主人请朱迪指引客人去派对。朱迪的指示是给每个人相同的方向，这些方向实际上是准确的，但如果她看到迈克尔，派对将会移到另一个地点。（主人不希望迈克尔找到派对。）假设迈克尔从未出现过。如果一个特定的客人没有，但几乎决定穿一个非常逼真的迈克尔服装去派对，那么他基于朱迪的证词对派对位置的信念将是真实的，但科梅萨纳说，这个信念很容易是错误的。（如果他只是稍微改变了他的服装选择，他就会被欺骗。）科梅萨纳将这个案例描述为对知识安全性条件的反例。然而，一个安全性理论家可以主张，尽管相关的怀疑场景是可能的，并且在某种意义上是附近的，但在相关方面并不足以证明安全性条件的错误。如果这样的理论家希望安全性条件能够给出明确的判断，她将面临阐明相关相似性概念的任务（另见博加德斯 2014 年）。
 
-并非所有对安全性条件的进一步澄清都适用于将后者用于知识分析。特别是，如果与安全性相关的相似性是以知识的术语来解释的，那么引用安全性的知识分析在这方面将是循环的。例如，这就是蒂莫西·威廉姆森对阿尔文·戈德曼的挑战的回应。
+并非所有对安全性条件的进一步澄清都适用于将后者用于知识分析。特别是，如果与安全性相关的相似性是以知识的术语来解释的，那么引用安全性的知识分析在这方面将是循环的。例如，这就是蒂莫西 · 威廉姆森对阿尔文 · 戈德曼的挑战的回应。
 
 > 在许多情况下，一个对知识一无所知的人将无法确定是否获得了安全性。尽管他们可以使用安全性包含真理的原则来排除一些情况，但那些并不是有趣的情况。因此，当戈德曼询问安全性理论对于各种存在相互冲突考虑的例子的预测时，他将感到失望。我们可能需要首先决定知识是否存在，而不是相反地决定安全性是否存在。（威廉姆森 2009: 305）
 
@@ -192,7 +192,7 @@ S 知道 p 当且仅当
 
 简单的 K-可靠主义用可靠性条款取代了传统三分论中的证明条款。正如我们所见，对于证明的可靠主义者认为，对于一个信念的证明在于它是由一个可靠的认知过程产生的。基于这个观点，简单的 K-可靠主义和 JTB 理论是等价的。然而，目前的提议对于证明是沉默的。Goldman 1979 年是对于证明的可靠主义的开创性辩护；可靠主义在 Goldman 1986 年被扩展到知识领域。请参阅 Goldman 2011 年的一份关于可靠主义的综述。
 
-在以下的段落中，弗雷德·德雷茨基阐述了像 K-可靠主义这样的方法可能如何被激发：
+在以下的段落中，弗雷德 · 德雷茨基阐述了像 K-可靠主义这样的方法可能如何被激发：
 
 > 那些认为知识需要除了或至少更多于可靠产生的真实信念之外的东西，通常是对于相信自己可靠产生的信念正在可靠产生的理由的要求，似乎有责任说出这种理由所带来的好处...谁需要它，为什么？如果动物继承了一个完全可靠的信念生成机制，并且它还继承了一个倾向，一切都相等，根据所生成的信念行动，那么这种信念以某种可靠的方式产生的理由会带来什么额外的好处？如果没有额外的好处，这种理由有什么用？为什么我们要坚持认为没有这个理由就没有知识？（德雷茨基 1989 年：95）
 
@@ -204,7 +204,7 @@ S 知道 p 当且仅当
 
 ### 6.2 知识的因果理论
 
-另一种类似于 K-可靠主义的动态是用要求信念与所信的事实之间存在因果关系的条件取代了 JTB 理论中的证明条款；[24]这是戈德曼（1967 年，1976 年）的方法。[25]戈德曼自己的因果理论是一种复杂的理论；我们不会在这里涉及其细节。请参阅戈德曼的论文。相反，考虑一种简化的知识因果理论，它说明了因果理论背后的主要动机。
+另一种类似于 K-可靠主义的动态是用要求信念与所信的事实之间存在因果关系的条件取代了 JTB 理论中的证明条款；[24] 这是戈德曼（1967 年，1976 年）的方法。[25] 戈德曼自己的因果理论是一种复杂的理论；我们不会在这里涉及其细节。请参阅戈德曼的论文。相反，考虑一种简化的知识因果理论，它说明了因果理论背后的主要动机。
 
 简单的知识因果理论：
 
@@ -220,12 +220,12 @@ S 知道 p 当且仅当
 
 Gettier 的论文引发了认识论学家们试图修订 JTB 理论的哲学活动的热潮，通常是通过添加一个或多个条件来弥合知识和合理真信念之间的差距。我们已经看到了其中几种尝试的失败。当对每个理论提出直观的反例时，认识论学家们经常通过修改他们的理论来回应，复杂化现有的条件或添加新的条件。Shope 1983 对这种辩证法进行了详细的记录，建议感兴趣的读者参考该书。
 
-在经历了几十年的这种循环之后，一些认识论学家开始怀疑是否取得了进展。在她 1994 年的论文《盖蒂尔问题的无法逃避性》中，琳达·扎格泽布斯基（Linda Zagzebski）提出，没有任何与 JTB 分析足够相似的分析能够避免盖蒂尔案例所突出的问题。更确切地说，扎格泽布斯基认为，任何形式为 JTB+X 的分析，其中 X 是与合理性、真实性和信念逻辑独立的条件或条件列表，都会容易受到盖蒂尔式反例的影响。她提供了一种构建盖蒂尔案例的实际方法：
+在经历了几十年的这种循环之后，一些认识论学家开始怀疑是否取得了进展。在她 1994 年的论文《盖蒂尔问题的无法逃避性》中，琳达 · 扎格泽布斯基（Linda Zagzebski）提出，没有任何与 JTB 分析足够相似的分析能够避免盖蒂尔案例所突出的问题。更确切地说，扎格泽布斯基认为，任何形式为 JTB+X 的分析，其中 X 是与合理性、真实性和信念逻辑独立的条件或条件列表，都会容易受到盖蒂尔式反例的影响。她提供了一种构建盖蒂尔案例的实际方法：
 
 * （1）从一个主体具有合理的错误信念且满足条件 X 的案例开始。
 * （2）修改案例，使得信念仅仅是幸运而真实。
 
-罗伯特·基尔沃比指出，结果案例总是代表着直觉上的缺乏知识。因此，对 JTB 理论的任何非冗余的补充都无法解决盖蒂尔问题。[28]我们可以使用基尔沃比自己的一个例子来说明这个方法的应用，即反驳阿尔文·普兰廷加（1996 年）试图通过在 JTB 分析中追加一个要求主体的能力在适当的环境中正常工作的条件来解决盖蒂尔问题的尝试。
+罗伯特 · 基尔沃比指出，结果案例总是代表着直觉上的缺乏知识。因此，对 JTB 理论的任何非冗余的补充都无法解决盖蒂尔问题。[28] 我们可以使用基尔沃比自己的一个例子来说明这个方法的应用，即反驳阿尔文 · 普兰廷加（1996 年）试图通过在 JTB 分析中追加一个要求主体的能力在适当的环境中正常工作的条件来解决盖蒂尔问题的尝试。
 
 在基尔沃比的程序的第一步中，我们想象一个情况，其中主体的能力在适当的环境中正常工作，但随后的信念，尽管是合理的，却是错误的。基尔沃比邀请我们想象玛丽有很好的视力，足以使她的认知能力通常能够得出她丈夫在客厅里的事实。然而，即使在适当的环境中正常工作，这样的能力也不是绝对可靠的——如果是的话，这个条件就不会与真理无关——因此我们可以想象一种情况，其中它们出错了。也许这是一个不寻常的情况，玛丽丈夫的兄弟，他长得很像丈夫，正在客厅里，玛丽根据她的视觉能力的正常功能得出结论，认为她丈夫在客厅里。由于这个信念是错误的，显然不是知识。
 
@@ -247,12 +247,12 @@ S 知道 p 当且仅当
 
 1. p 是真的;
 2. S 相信 p;
-3. 罗伯特·基尔沃比认为 S 在相信 p 方面是合理的。
+3. 罗伯特 · 基尔沃比认为 S 在相信 p 方面是合理的。
 4. S 的信念不仅仅是侥幸的不真实。
 
-关于这个分析的第一点需要注意的是，它在前一节中所描述的意义上是“冗余”的；第四个条件蕴含了前两个条件。[29]因此，尽管它的表面形式如此，但实际上它代表了与 JTB+分析的显著偏离。这个分析不是从各种独立的组成部分组合知识，而是要求认识状态在实质性方面彼此相关。
+关于这个分析的第一点需要注意的是，它在前一节中所描述的意义上是“冗余”的；第四个条件蕴含了前两个条件。[29] 因此，尽管它的表面形式如此，但实际上它代表了与 JTB+分析的显著偏离。这个分析不是从各种独立的组成部分组合知识，而是要求认识状态在实质性方面彼此相关。
 
-反运气条件，就像前一节的安全条件一样，陈述得很模糊。首先，一个信念是否仅仅因为运气而成为真实是有程度的，需要多少运气才能与知识相矛盾？此外，似乎我们必须在不同种类的运气之间进行区分，独立于运气程度的问题。并非所有认识运气都与拥有知识不相容。假设有人参加抽奖并赢得一本百科全书，然后阅读其中的各个条目，纠正了他们以前的误解。从某种意义上说，由于我们的主体非常幸运能够赢得那次抽奖，所以由此产生的信念仅仅是侥幸的，但直观上来说，这并不是干扰拥有知识的那种运气[30]。此外，从某种意义上说，我们的普通感知信念也是侥幸的，因为我们有可能成为笛卡尔的恶魔的受害者，所以在某种意义上，我们是幸运的。但是，除非我们屈服于激进怀疑主义，否则似乎这种运气也应该被认为与知识相容[31]。
+反运气条件，就像前一节的安全条件一样，陈述得很模糊。首先，一个信念是否仅仅因为运气而成为真实是有程度的，需要多少运气才能与知识相矛盾？此外，似乎我们必须在不同种类的运气之间进行区分，独立于运气程度的问题。并非所有认识运气都与拥有知识不相容。假设有人参加抽奖并赢得一本百科全书，然后阅读其中的各个条目，纠正了他们以前的误解。从某种意义上说，由于我们的主体非常幸运能够赢得那次抽奖，所以由此产生的信念仅仅是侥幸的，但直观上来说，这并不是干扰拥有知识的那种运气 [30]。此外，从某种意义上说，我们的普通感知信念也是侥幸的，因为我们有可能成为笛卡尔的恶魔的受害者，所以在某种意义上，我们是幸运的。但是，除非我们屈服于激进怀疑主义，否则似乎这种运气也应该被认为与知识相容 [31]。
 
 就像安全条件一样，运气条件在某些情况下很难应用。我们可以尝试将运气条件澄清为涉及特殊的认识运气概念，但是，除非我们能够解释清楚这个概念——实际上，区分上述两种运气的方法——而不依赖于知识，否则不清楚对知识的后续分析既能提供信息又不是循环论证的。
 
@@ -260,9 +260,9 @@ S 知道 p 当且仅当
 
 正如我们迄今为止的讨论所清楚表明的那样，评估对知识的尝试性分析的一种标准方法是将其与直觉反对案例进行测试。在二十世纪末，对可接受分析缺乏进展的感知（包括在上文第 7 节中归因于扎格泽布斯基的考虑）导致一些认识论者采取了其他方法论策略。（毫无疑问，更广泛地远离“概念分析”的哲学趋势也对这种变化起到了一定的促进作用。）最近一些对知识进行分析的尝试在一定程度上受到了关于知识的作用或关于知识的话语的更广泛考虑的推动。
 
-这种类型的一个重要观点是爱德华·克雷格（1990）所捍卫的观点。克雷格对知识分析的入口不是关于案例的直觉，而是关注知识概念在人类中所起的作用。特别是，克雷格认为使用知识范畴的目的是为了帮助人们识别可靠的信息提供者，以帮助人们在认识论问题上知道该信任谁。克雷格捍卫了一种旨在满足这一目标的知识解释，尽管它容易受到直觉反例的影响。这种解释的合理性，尽管其范围不太直观，但具有不同类型的理论证明，这是一个有争议的问题。
+这种类型的一个重要观点是爱德华 · 克雷格（1990）所捍卫的观点。克雷格对知识分析的入口不是关于案例的直觉，而是关注知识概念在人类中所起的作用。特别是，克雷格认为使用知识范畴的目的是为了帮助人们识别可靠的信息提供者，以帮助人们在认识论问题上知道该信任谁。克雷格捍卫了一种旨在满足这一目标的知识解释，尽管它容易受到直觉反例的影响。这种解释的合理性，尽管其范围不太直观，但具有不同类型的理论证明，这是一个有争议的问题。
 
-在这种背景下值得一提的另一个观点是希拉里·科恩布利斯（2002）的观点，即知识是一种自然种类，应该像其他科学种类一样进行分析。直觉在识别典范方面发挥着作用，但从那里进行概括是一种经验的、科学的问题，直觉反例是可以预料的。
+在这种背景下值得一提的另一个观点是希拉里 · 科恩布利斯（2002）的观点，即知识是一种自然种类，应该像其他科学种类一样进行分析。直觉在识别典范方面发挥着作用，但从那里进行概括是一种经验的、科学的问题，直觉反例是可以预料的。
 
 “知识优先”立场也与这些方法论问题有关。见下文第 11 节。
 
@@ -291,7 +291,7 @@ Sosa 认为这种“AAA”评估模型适用于对任何具有特定目标的行
 2. 一个信念只有在它被熟练地产生出来时才是灵巧的。[ 32]
 3. 一个信念只有在以一种显现或可归因于信仰者技能的方式真实时才是恰当的。
 
-Sosa 将知识与恰当的信念等同起来，因此可以理解为[33]。在这种观点下，知识既包含真实性（准确性）又包含合理性（熟练性），但它们并不仅仅是知识通过真值功能组合而成的独立组成部分。它要求技能解释成功。从某种意义上说，这与我们上面讨论过的反运气条件有些相似，因为它规定了合理性和真实性之间的关系不能仅仅是巧合。然而，就 Sosa 的“AAA”模型在超越认识论的方式上普遍适用而言，也许有更好的前景来理解与认识本身无关的合适性相关概念，而不是我们为认识运气概念找到的前景。
+Sosa 将知识与恰当的信念等同起来，因此可以理解为 [33]。在这种观点下，知识既包含真实性（准确性）又包含合理性（熟练性），但它们并不仅仅是知识通过真值功能组合而成的独立组成部分。它要求技能解释成功。从某种意义上说，这与我们上面讨论过的反运气条件有些相似，因为它规定了合理性和真实性之间的关系不能仅仅是巧合。然而，就 Sosa 的“AAA”模型在超越认识论的方式上普遍适用而言，也许有更好的前景来理解与认识本身无关的合适性相关概念，而不是我们为认识运气概念找到的前景。
 
 ### 10.2 假冒谷仓案例
 
@@ -303,7 +303,7 @@ Sosa 将知识与恰当的信念等同起来，因此可以理解为[33]。在�
 
 ## 11. 知识优先
 
-并非每个概念都可以分析为更基本的术语。这一点从反思例子上是清楚的——对于氢、动物或约翰·F·肯尼迪，我们能提供什么分析呢？——并且基于无限回归的理由也是如此。我们为什么要认为知识需要进行分析呢？在最近的研究中，特别是他 2000 年的著作《知识及其限度》中，蒂莫西·威廉姆森认为分析知识的项目是一个错误。他的理由不是他认为知识是一个无趣的状态，或者知识的概念在本质上是混乱的。相反，威廉姆森认为知识是最基本的心理和认识论状态之一。因此，用其他更基本的认识论概念来分析知识是一个错误，因为至少在许多情况下，知识本身更为基本。正如威廉姆森所说，我们应该把“知识放在第一位”。知识可能会在某些分析中起到作用，但它将在被分析的对象中发挥作用，而不是在被分析的结果中。[35]
+并非每个概念都可以分析为更基本的术语。这一点从反思例子上是清楚的——对于氢、动物或约翰 ·F· 肯尼迪，我们能提供什么分析呢？——并且基于无限回归的理由也是如此。我们为什么要认为知识需要进行分析呢？在最近的研究中，特别是他 2000 年的著作《知识及其限度》中，蒂莫西 · 威廉姆森认为分析知识的项目是一个错误。他的理由不是他认为知识是一个无趣的状态，或者知识的概念在本质上是混乱的。相反，威廉姆森认为知识是最基本的心理和认识论状态之一。因此，用其他更基本的认识论概念来分析知识是一个错误，因为至少在许多情况下，知识本身更为基本。正如威廉姆森所说，我们应该把“知识放在第一位”。知识可能会在某些分析中起到作用，但它将在被分析的对象中发挥作用，而不是在被分析的结果中。[35]
 
 对于这个结论，并没有非常直接的论证；它的案例主要在于试图证明知识优先立场的理论成功。权衡这些好处与传统知识方法的好处超出了本文的范围。[36]
 
@@ -328,7 +328,7 @@ Sosa 将知识与恰当的信念等同起来，因此可以理解为[33]。在�
 
 这里的宪法主张很重要；显而易见，实际情况的差异可能导致知识上的差异。例如，如果对于桑德拉来说，康涅狄格州是否合法使用大麻比对于丹尼尔来说更重要，那么桑德拉更有可能寻找证据并获得知识，而丹尼尔则不太可能。这个无聊的主张并不是问题所在。实用主义侵蚀理论认为，实际重要性本身可以导致知识的改变，而不依赖于诸如证据收集活动的下游效应。从某种意义上说，桑德拉和丹尼尔可能处于相同的认识位置，唯一的区别是对桑德拉来说这个问题更重要。根据实用主义侵蚀理论，这种差异可能导致丹尼尔知道，但桑德拉不知道。[38]
 
-实用主义侵蚀可以通过对案例的直觉进行解释。杰森·斯坦利（Jason Stanley）在他 2005 年的著作《知识与实际利益》中认为，这是对以下一对案例的最佳解释，其中对比的案例在证据上是相同的，但在实际上有所不同：
+实用主义侵蚀可以通过对案例的直觉进行解释。杰森 · 斯坦利（Jason Stanley）在他 2005 年的著作《知识与实际利益》中认为，这是对以下一对案例的最佳解释，其中对比的案例在证据上是相同的，但在实际上有所不同：
 
 低风险。汉娜和她的妻子莎拉星期五下午开车回家。他们计划在回家的路上停在银行存入工资支票。这并不重要，因为他们没有即将到期的账单。但当他们经过银行时，他们注意到里面的队伍很长，星期五下午通常都是这样。意识到立即存入工资支票并不是很重要，汉娜说：“我知道银行明天会开门，因为我两周前星期六早上去过那里。所以我们可以明天早上存入工资支票”。
 
@@ -363,104 +363,104 @@ Sosa 将知识与恰当的信念等同起来，因此可以理解为[33]。在�
 * Almeder, Robert, 1999, *Harmless Naturalism. The Limits of Science and the Nature of Philosophy*, Chicago and La Salle: Open Court.
 * Alston, William P., 1991, *Perceiving God. The Epistemology of Religious Experience*, Ithaca: Cornell University Press.
 * Armstrong, D.M., 1973, *Belief, Truth, and Knowledge*, Cambridge: Cambridge University Press.
-* Bird, Alexander, 2007, “Justified Judging”, *Philosophy and Phenomenological Research*, 74(1): 81–110. doi:10.1111/j.1933-1592.2007.00004.x
-* Blome-Tillmann, Michael, 2009a, “Contextualism, Subject-Sensitive Invariantism, and the Interaction of ‘Knowledge’-Ascriptions with Modal and Temporal Operators”, *Philosophy and Phenomenological Research*, 79(2): 315–331. doi:10.1111/j.1933-1592.2009.00280.x
-* –––, 2009b, “Knowledge and Presuppositions”, *Mind*, 118(470): 241–294. doi:10.1093/mind/fzp032
+* Bird, Alexander, 2007, “Justified Judging”, *Philosophy and Phenomenological Research*, 74(1): 81–110. doi: 10.1111/j.1933-1592.2007.00004.x
+* Blome-Tillmann, Michael, 2009a, “Contextualism, Subject-Sensitive Invariantism, and the Interaction of ‘Knowledge’-Ascriptions with Modal and Temporal Operators”, *Philosophy and Phenomenological Research*, 79(2): 315–331. doi: 10.1111/j.1933-1592.2009.00280.x
+* –––, 2009b, “Knowledge and Presuppositions”, *Mind*, 118(470): 241–294. doi: 10.1093/mind/fzp032
 * Boh, Ivan, 1985, “Belief, Justification and Knowledge: Some Late Medieval Epistemic Concerns”, *Journal of the Rocky Mountain Medieval and Renaissance Association*, 6: 87–103.
-* Bogardus, Tomas, 2014, “Knowledge Under Threat”, *Philosophy and Phenomenological Research*, 88(2): 289–313. doi:10.1111/j.1933-1592.2011.00564.x
-* Brown, J., 2006, “Contextualism and Warranted Assertability Manoeuvres”, *Philosophical Studies*, 130(3): 407–435. doi:10.1007/s11098-004-5747-3
+* Bogardus, Tomas, 2014, “Knowledge Under Threat”, *Philosophy and Phenomenological Research*, 88(2): 289–313. doi: 10.1111/j.1933-1592.2011.00564.x
+* Brown, J., 2006, “Contextualism and Warranted Assertability Manoeuvres”, *Philosophical Studies*, 130(3): 407–435. doi: 10.1007/s11098-004-5747-3
 * Chisholm, Roderick, 1977, *Theory of Knowledge*, 2nd edition, Englewood Cliffs: Prentice Hall.
 * –––, 1989, *Theory of Knowledge*, 3rd edition, Englewood Cliffs: Prentice Hall.
-* Clark, Michael, 1963, “Knowledge and Grounds. A Comment on Mr. Gettier’s Paper”, *Analysis*, 24(2): 46–48. doi:10.2307/3327068
-* Cohen, Stewart, 1988 “How to be a Fallibilist”, *Philosophical Perspectives*, Epistemology, 2: 91–123. doi:10.2307/2214070
-* Comesaña, Juan, 2005, “Unsafe Knowledge”, *Synthese*, 146(3): 395–404. doi:10.1007/s11229-004-6213-7
-* Conee, Earl and Richard Feldman, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
-* Craig, Edward, 1990, *Knowledge and the State of Nature: An Essay in Conceptual Synthesis*, Oxford: Oxford University Press. doi:10.1093/0198238797.001.0001
-* DeRose, Keith, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52. doi:10.2307/2186011
-* –––, 2000, “Ought We to Follow Our Evidence?” *Philosophy and Phenomenological Research*, 60(3): 697–706. doi:10.2307/2653824
-* –––, 2009, *The Case for Contextualism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199564460.001.0001
-* Dougherty, Trent, 2011, *Evidentialism and its Discontents*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199563500.001.0001
+* Clark, Michael, 1963, “Knowledge and Grounds. A Comment on Mr. Gettier’s Paper”, *Analysis*, 24(2): 46–48. doi: 10.2307/3327068
+* Cohen, Stewart, 1988 “How to be a Fallibilist”, *Philosophical Perspectives*, Epistemology, 2: 91–123. doi: 10.2307/2214070
+* Comesaña, Juan, 2005, “Unsafe Knowledge”, *Synthese*, 146(3): 395–404. doi: 10.1007/s11229-004-6213-7
+* Conee, Earl and Richard Feldman, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi: 10.1093/0199253722.001.0001
+* Craig, Edward, 1990, *Knowledge and the State of Nature: An Essay in Conceptual Synthesis*, Oxford: Oxford University Press. doi: 10.1093/0198238797.001.0001
+* DeRose, Keith, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52. doi: 10.2307/2186011
+* –––, 2000, “Ought We to Follow Our Evidence?” *Philosophy and Phenomenological Research*, 60(3): 697–706. doi: 10.2307/2653824
+* –––, 2009, *The Case for Contextualism*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199564460.001.0001
+* Dougherty, Trent, 2011, *Evidentialism and its Discontents*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199563500.001.0001
 * Dretske, Fred, 1981, *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
 * –––, 1985, “Precis of Knowledge and the Flow of Information”, in Hilary Kornblith (ed.), *Naturalizing Epistemology*, Cambridge, MA: MIT Press: 169–187.
 * –––, 1989, “The Need to Know”, in Marjorie Clay and Keith Lehrer (eds.), *Knowledge and Skepticism*, Boulder: Westview Press: 89–100.
 * –––, 2005, “The Case Against Closure”, in Matthias Steup and Ernest Sosa (eds), *Contemporary Debates in Epistemology*, Malden, MA: Blackwell: 13–25.
 * Dreyfus, George B.J., 1997, *Recognizing Reality: Dharmakirti’s Philosophy and its Tibetan Interpretations*, Albany, NY: SUNY Press.
-* Dutant, Julien, 2015, “The Legend of the Justified True Belief Analysis”, *Philosophical Perspectives*, 29(1): 95–145. doi:10.1111/phpe.12061
-* Fantl, Jeremy & Matthew McGrath, 2009, *Knowledge in an Uncertain World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199550623.001.0001
-* Feldman, Richard and Earl Conee, 1985, “Evidentialism”, *Philosophical Studies*, 48(1): 15–34. doi:10.1007/BF00372404
-* –––, 2001, “Internalism Defended”, *American Philosophical Quarterly*, 38(1): 1–18. Reprinted in Conee and Feldman 2004: 53–82. doi:10.1093/0199253722.003.0004
-* Fodor, Jerry, 1998, *Concepts: Where Cognitive Science Went Wrong*, New York: Oxford University Press. doi:10.1093/0198236360.001.0001
+* Dutant, Julien, 2015, “The Legend of the Justified True Belief Analysis”, *Philosophical Perspectives*, 29(1): 95–145. doi: 10.1111/phpe.12061
+* Fantl, Jeremy & Matthew McGrath, 2009, *Knowledge in an Uncertain World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199550623.001.0001
+* Feldman, Richard and Earl Conee, 1985, “Evidentialism”, *Philosophical Studies*, 48(1): 15–34. doi: 10.1007/BF00372404
+* –––, 2001, “Internalism Defended”, *American Philosophical Quarterly*, 38(1): 1–18. Reprinted in Conee and Feldman 2004: 53–82. doi: 10.1093/0199253722.003.0004
+* Fodor, Jerry, 1998, *Concepts: Where Cognitive Science Went Wrong*, New York: Oxford University Press. doi: 10.1093/0198236360.001.0001
 * Gerken, Mikkel, forthcoming, *On Folk Epistemology*, Oxford: Oxford University Press.
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi:10.2307/3326922
-* Gibbons, John, 2013, *The Norm of Belief*, Oxford University Press. doi:10.1093/acprof:oso/9780199673391.001.0001
-* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *The Journal of Philosophy*, 64(12): 357–372. doi:10.2307/2024268
-* –––, 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi:10.2307/2025679
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123. doi: 10.2307/3326922
+* Gibbons, John, 2013, *The Norm of Belief*, Oxford University Press. doi: 10.1093/acprof: oso/9780199673391.001.0001
+* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *The Journal of Philosophy*, 64(12): 357–372. doi: 10.2307/2024268
+* –––, 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791. doi: 10.2307/2025679
 * –––, 1979, “What is Justified Belief?” in *Justification and Knowledge*, George S. Pappas (ed.), Dordrecht: D. Reidel: 1–25.
 * –––, 1986, *Epistemology and Cognition*, Cambridge: Harvard University Press.
-* –––, 1999, “Internalism Exposed”, *The Journal of Philosophy*, 96(6): 271–93. doi:10.2307/2564679
+* –––, 1999, “Internalism Exposed”, *The Journal of Philosophy*, 96(6): 271–93. doi: 10.2307/2564679
 * –––, 2009a, “Replies to Discussants”, in G. Schurz & M. Werning (eds.), *Reliable Knowledge and Social Epistemology: Essays on the Philosophy of Alvin Goldman and Replies by Goldman*, Amsterdam: Rodopi: 245–288.
-* –––, 2009b, “Internalism, Externalism, and the Architecture of Justification”, *The Journal of Philosophy*, 106(6): 309–338. doi:10.5840/jphil2009106611
-* –––, 2011, “Reliabilism”,*The Stanford Encyclopedia of Philosophy* (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <[Reliabilism (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/reliabilism/)>.
-* Goldman, Alvin I. and Erik J. Olsson, 2009, “Reliabilism and the Value of Knowledge”, in Adrian Haddock, Alan Millar, and Duncan Pritchard (eds.), *Epistemic Value*, New York: Oxford University Press, pp. 19–41. doi:10.1093/acprof:oso/9780199231188.001.0001
-* Greco, John, 2009, “Knowledge and Success from Ability”, *Philosophical Studies*, 142(1): 17–26. doi:10.1007/s11098-008-9307-0
+* –––, 2009b, “Internalism, Externalism, and the Architecture of Justification”, *The Journal of Philosophy*, 106(6): 309–338. doi: 10.5840/jphil2009106611
+* –––, 2011, “Reliabilism”, *The Stanford Encyclopedia of Philosophy* (Spring 2011 Edition), Edward N. Zalta (ed.), URL = <[Reliabilism (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/reliabilism/)>.
+* Goldman, Alvin I. and Erik J. Olsson, 2009, “Reliabilism and the Value of Knowledge”, in Adrian Haddock, Alan Millar, and Duncan Pritchard (eds.), *Epistemic Value*, New York: Oxford University Press, pp. 19–41. doi: 10.1093/acprof: oso/9780199231188.001.0001
+* Greco, John, 2009, “Knowledge and Success from Ability”, *Philosophical Studies*, 142(1): 17–26. doi: 10.1007/s11098-008-9307-0
 * Greenough, Patrick & Dirk Kindermann forthcoming, “The Semantic Error Problem for Epistemic Contextualism”, in Ichikawa forthcoming-b: 305–320.
-* Greenough, Patrick & Duncan Pritchard, 2009, *Williamson on Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199287512.001.0001
-* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, *Philosophy and Phenomenological Research*, 80(3): 497–522. doi:10.1111/j.1933-1592.2010.00338.x
-* Hawthorne, John, 2002, “Deeply Contingent A Priori Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 247–69. doi:10.1111/j.1933-1592.2002.tb00201.x
-* –––, 2003, *Knowledge and Lotteries*, New York: Oxford University Press. doi:10.1093/0199269556.001.0001
-* Ichikawa, Jonathan J., 2011, “Quantifiers, Knowledge, and Counterfactuals”, *Philosophy and Phenomenological Research*, 82(2): 287–313. doi:10.1111/j.1933-1592.2010.00427.x
+* Greenough, Patrick & Duncan Pritchard, 2009, *Williamson on Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199287512.001.0001
+* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, *Philosophy and Phenomenological Research*, 80(3): 497–522. doi: 10.1111/j.1933-1592.2010.00338.x
+* Hawthorne, John, 2002, “Deeply Contingent A Priori Knowledge”, *Philosophy and Phenomenological Research*, 65(2): 247–69. doi: 10.1111/j.1933-1592.2002.tb00201.x
+* –––, 2003, *Knowledge and Lotteries*, New York: Oxford University Press. doi: 10.1093/0199269556.001.0001
+* Ichikawa, Jonathan J., 2011, “Quantifiers, Knowledge, and Counterfactuals”, *Philosophy and Phenomenological Research*, 82(2): 287–313. doi: 10.1111/j.1933-1592.2010.00427.x
 * –––, forthcoming-a, *Contextualising Knowledge: Epistemology and Semantics*, Oxford: Oxford University Press.
 * ––– (ed.), forthcoming-b, *Routledge Handbook of Epistemic Contextualism*, New York: Taylor & Francis.
-* Ichikawa, Jonathan J., Benjamin Jarvis, & Katherine Rubin, 2012, “Pragmatic Encroachment and Belief-Desire Psychology”, *Analytic Philosophy*, 53(4): 327–42. doi:10.1111/j.2153-960X.2012.00564.x
+* Ichikawa, Jonathan J., Benjamin Jarvis, & Katherine Rubin, 2012, “Pragmatic Encroachment and Belief-Desire Psychology”, *Analytic Philosophy*, 53(4): 327–42. doi: 10.1111/j.2153-960X.2012.00564.x
 * Kaplan, David, 1977, “Demonstratives”, paper presented at a symposium on Demonstratives at the March 1977 meetings of the Pacific Division of the American Philosophical Association. Printed in Joseph Almog, John Perry & Howard Wettstein (eds.), 1989, *Themes From Kaplan*, Oxford: Oxford University Press.
-* Kaplan, Mark, 1985, “It’s Not What You Know that Counts”, *The Journal of Philosophy*, 82(7): 350–63. doi:10.2307/2026524
-* Kornblith, Hilary, 2002, *Knowledge and its Place in Nature*, Oxford: Oxford University Press. doi:10.1093/0199246319.001.0001
-* –––, 2008, “Knowledge Needs No Justification”, in Quentin Smith (ed.), *Epistemology: New Essays*, Oxford: Oxford University Press: 5–23. doi:10.1093/acprof:oso/9780199264933.003.0002
-* Kripke, Saul A., 2011, “Nozick on Knowledge”, in *Philosophical Troubles: Collected Papers, Volume 1*, Oxford: Oxford University Press, pp. 162–224. doi:10.1093/acprof:oso/9780199730155.003.0007
+* Kaplan, Mark, 1985, “It’s Not What You Know that Counts”, *The Journal of Philosophy*, 82(7): 350–63. doi: 10.2307/2026524
+* Kornblith, Hilary, 2002, *Knowledge and its Place in Nature*, Oxford: Oxford University Press. doi: 10.1093/0199246319.001.0001
+* –––, 2008, “Knowledge Needs No Justification”, in Quentin Smith (ed.), *Epistemology: New Essays*, Oxford: Oxford University Press: 5–23. doi: 10.1093/acprof: oso/9780199264933.003.0002
+* Kripke, Saul A., 2011, “Nozick on Knowledge”, in *Philosophical Troubles: Collected Papers, Volume 1*, Oxford: Oxford University Press, pp. 162–224. doi: 10.1093/acprof: oso/9780199730155.003.0007
 * Lewis, David K., 1973, *Counterfactuals*, Cambridge, MA: Harvard University Press.
-* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567. doi:10.1080/00048409612347521
+* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567. doi: 10.1080/00048409612347521
 * Littlejohn, Clayton, 2012, *Justification and the Truth-Connection*, Cambridge: Cambridge University Press.
-* Lowy, Catherine, 1978, “Gettier’s Notion of Justification”, *Mind*, 87(345): 105–108. doi:10.1093/mind/LXXXVII.1.105
-* Lyons, Jack C., 2009, *Perception and Basic Beliefs: Zombies, Modules and the Problem of the External World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195373578.001.0001
-* McGlynn, Aidan, 2014, *Knowledge First?*, Basingstoke: Palgrave. doi:10.1057/9781137026460
-* McKinnon, Rachel, 2013, “Getting Luck Properly Under Control”, *Metaphilosophy*, 44(4):496–511. doi:10.1111/meta.12044
-* Merricks, Trenton, 1995, “Warrant Entails Truth”, *Philosophy and Phenomenological Research*, 55(4): 841–855. doi:10.2307/2108335
-* Miracchi, Lisa, 2015, “Competence to Know”, *Philosophical Studies*, 172(1): 29–56. doi:10.1007/s11098-014-0325-9
-* Myers-Schulz, Blake & Eric Schwitzgebel, 2013, “Knowing that *P* without Believing that *P*”, *Noûs*, 47(2): 371–384. doi:10.1111/nous.12022
-* Nagel, Jennifer, 2010, “Epistemic Anxiety and Adaptive Invariantism”, *Philosophical Perspectives*, 24(1): 407–35. doi:10.1111/j.1520-8583.2010.00198.x
-* –––, 2013, “Knowledge as a Mental State”, *Oxford Studies in Epistemology*, 4: 275–310. doi:10.1093/acprof:oso/9780199672707.003.0010
+* Lowy, Catherine, 1978, “Gettier’s Notion of Justification”, *Mind*, 87(345): 105–108. doi: 10.1093/mind/LXXXVII.1.105
+* Lyons, Jack C., 2009, *Perception and Basic Beliefs: Zombies, Modules and the Problem of the External World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195373578.001.0001
+* McGlynn, Aidan, 2014, *Knowledge First?*, Basingstoke: Palgrave. doi: 10.1057/9781137026460
+* McKinnon, Rachel, 2013, “Getting Luck Properly Under Control”, *Metaphilosophy*, 44(4): 496–511. doi: 10.1111/meta.12044
+* Merricks, Trenton, 1995, “Warrant Entails Truth”, *Philosophy and Phenomenological Research*, 55(4): 841–855. doi: 10.2307/2108335
+* Miracchi, Lisa, 2015, “Competence to Know”, *Philosophical Studies*, 172(1): 29–56. doi: 10.1007/s11098-014-0325-9
+* Myers-Schulz, Blake & Eric Schwitzgebel, 2013, “Knowing that *P* without Believing that *P*”, *Noûs*, 47(2): 371–384. doi: 10.1111/nous.12022
+* Nagel, Jennifer, 2010, “Epistemic Anxiety and Adaptive Invariantism”, *Philosophical Perspectives*, 24(1): 407–35. doi: 10.1111/j.1520-8583.2010.00198.x
+* –––, 2013, “Knowledge as a Mental State”, *Oxford Studies in Epistemology*, 4: 275–310. doi: 10.1093/acprof: oso/9780199672707.003.0010
 * –––, 2014, *Knowledge: A Very Short Introduction*, Oxford: Oxford University Press.
 * Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
 * Owens, David, 2000, *Reason Without Freedom: Problem of Epistemic Normativity*, London: Routledge.
 * Phillips, Stephen H. and N.S. Ramanuja Tatacharya (trans.), 2004, *Epistemology of Perception: Gaṅgeśa’s “Tattvacintāmaṇi”*, New York: American Institute of Buddhist Studies.
-* Plantinga, Alvin, 1993, *Warrant and Proper Function*, Oxford: Oxford University Press. doi:10.1093/0195078640.001.0001
+* Plantinga, Alvin, 1993, *Warrant and Proper Function*, Oxford: Oxford University Press. doi: 10.1093/0195078640.001.0001
 * –––, 1996, “Respondeo”, in Jonathan L. Kvanvig. *Warrant in Contemporary Epistemology. Essays in Honor of Plantinga’s Theory of Knowledge*, Lanham, MD: Rowman and Littlefield.
 * Pollock, John J., 1986, *Contemporary Theories of Knowledge*, Totowa, NJ: Rowman and Littlefield.
-* Pritchard, Duncan, 2005, *Epistemic Luck*, New York: Oxford University Press. doi:10.1093/019928038X.001.0001
-* Pritchard, Duncan, Alan Millar, & Adrian Haddock, 2010, *The Nature and Value of Knowledge: Three Investigations*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199586264.001.0001
-* Radford, Colin, 1966, “Knowledge—By Examples”, *Analysis*, 27(1): 1–11. doi:10.2307/3326979
-* Rose, David & Jonathan Schaffer, 2013, “Knowledge Entails Dispositional Belief”, *Philosophical Studies*, 166(supplement 1): 19–50. doi:10.1007/s11098-012-0052-z
-* Rysiew, Patrick, 2001, “The Context-Sensitivity of Knowledge Attributions”, *Noûs*, 35(4): 477–514. doi:10.1111/0029-4624.00349
+* Pritchard, Duncan, 2005, *Epistemic Luck*, New York: Oxford University Press. doi: 10.1093/019928038X.001.0001
+* Pritchard, Duncan, Alan Millar, & Adrian Haddock, 2010, *The Nature and Value of Knowledge: Three Investigations*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199586264.001.0001
+* Radford, Colin, 1966, “Knowledge—By Examples”, *Analysis*, 27(1): 1–11. doi: 10.2307/3326979
+* Rose, David & Jonathan Schaffer, 2013, “Knowledge Entails Dispositional Belief”, *Philosophical Studies*, 166(supplement 1): 19–50. doi: 10.1007/s11098-012-0052-z
+* Rysiew, Patrick, 2001, “The Context-Sensitivity of Knowledge Attributions”, *Noûs*, 35(4): 477–514. doi: 10.1111/0029-4624.00349
 * –––, 2011, “Epistemic Contextualism”, *The Stanford Encyclopedia of Philosophy* (Winter 2011 Edition), Edward N. Zalta (ed.), URL = <[Epistemic Contextualism (Stanford Encyclopedia of Philosophy/Winter 2011 Edition)](https://plato.stanford.edu/archives/win2011/entries/contextualism-epistemology/)>
-* Schaffer, Jonathan, 2004, “From Contextualism to Contrastivism”, *Philosophical Studies*, 119(1–2): 73–104. doi:10.1023/B:PHIL.0000029351.56460.8c
-* Schiffer, Stephen, 1996, “Contextualist Solutions to Scepticism”, *Proceedings of the Aristotelian Society*, 96(1): 317–333. doi:10.1093/aristotelian/96.1.317
+* Schaffer, Jonathan, 2004, “From Contextualism to Contrastivism”, *Philosophical Studies*, 119(1–2): 73–104. doi: 10.1023/B: PHIL.0000029351.56460.8c
+* Schiffer, Stephen, 1996, “Contextualist Solutions to Scepticism”, *Proceedings of the Aristotelian Society*, 96(1): 317–333. doi: 10.1093/aristotelian/96.1.317
 * Shope, Robert K., 1983, *The Analysis of Knowing. A Decade of Research*, Princeton: Princeton University Press.
-* Sosa, Ernest, 1999, “How to Defeat Opposition to Moore”, *Noûs*, (Supplement: Philosophical Perspectives, Epistemology), 33(s13): 141–153. doi:10.1111/0029-4624.33.s13.7
-* –––, 2007, *A Virtue Epistemology: Apt Belief and Reflective Knowledge* (Volume I), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199297023.001.0001
-* Stanley, Jason, 2005, *Knowledge and Practical Interests*, New York: Oxford University Press. doi:10.1093/0199288038.001.0001
-* –––, 2011, *Know How*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199695362.001.0001
-* Steglich-Petersen, Asbjørn, 2010, “Luck as an Epistemic Notion”, *Synthese*, 176 (3): 361–377. doi:10.1007/s11229-009-9569-x
-* Stine, G.C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi:10.1007/BF00411885
-* Sturgeon, Scott, 1993, “The Gettier Problem”, *Analysis*, 53(3): 156–164. doi:10.2307/3328464
+* Sosa, Ernest, 1999, “How to Defeat Opposition to Moore”, *Noûs*, (Supplement: Philosophical Perspectives, Epistemology), 33(s13): 141–153. doi: 10.1111/0029-4624.33.s13.7
+* –––, 2007, *A Virtue Epistemology: Apt Belief and Reflective Knowledge* (Volume I), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199297023.001.0001
+* Stanley, Jason, 2005, *Knowledge and Practical Interests*, New York: Oxford University Press. doi: 10.1093/0199288038.001.0001
+* –––, 2011, *Know How*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199695362.001.0001
+* Steglich-Petersen, Asbjørn, 2010, “Luck as an Epistemic Notion”, *Synthese*, 176 (3): 361–377. doi: 10.1007/s11229-009-9569-x
+* Stine, G.C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29(4): 249–261. doi: 10.1007/BF00411885
+* Sturgeon, Scott, 1993, “The Gettier Problem”, *Analysis*, 53(3): 156–164. doi: 10.2307/3328464
 * Sutton, Jonathan, 2007, *Without Justification*, Cambridge, MA: The MIT Press.
-* Unger, Peter, 1968, “An Analysis of Factual Knowledge”, *The Journal of Philosophy*, 65(6): 157–70. doi:10.2307/2024203
-* Weatherson, Brian, 2012, “Knowledge, Bets, and Interests”, in *Knowledge Ascriptions*, Jessica Brown & Mikkel Gerken (eds), New York: Oxford University Press, pp. 75–103. doi:10.1093/acprof:oso/9780199693702.003.0004
-* Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Unger, Peter, 1968, “An Analysis of Factual Knowledge”, *The Journal of Philosophy*, 65(6): 157–70. doi: 10.2307/2024203
+* Weatherson, Brian, 2012, “Knowledge, Bets, and Interests”, in *Knowledge Ascriptions*, Jessica Brown & Mikkel Gerken (eds), New York: Oxford University Press, pp. 75–103. doi: 10.1093/acprof: oso/9780199693702.003.0004
+* Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press. doi: 10.1093/019925656X.001.0001
 * –––, 2005, “Knowledge, Context, and the Agent’s Point of View”, in Gerhard Preyer & Georg Peter (eds.), *Contextualism in Philosophy: Knowledge, Meaning, and Truth*, Oxford: Oxford University Press: 91–114.
-* –––, 2009, “Reply to Alvin Goldman”, in *Williamson on Knowledge*, Greenough & Pritchard 2009: 305–312. doi:10.1093/acprof:oso/9780199287512.003.0017
+* –––, 2009, “Reply to Alvin Goldman”, in *Williamson on Knowledge*, Greenough & Pritchard 2009: 305–312. doi: 10.1093/acprof: oso/9780199287512.003.0017
 * Worsnip, Alex, forthcoming, “Contextualism and Knowledge Norms”, in Ichikawa forthcoming-b: chapter 14.
-* Wright, Crispin, 2004, “Warrant for Nothing (And Foundations for Free)?” *Aristotelian Society Supplementary Volume*, 78(1): 167–212. doi:10.1111/j.0309-7013.2004.00121.x
-* Zagzebski, Linda, 1994, “The Inescapability of Gettier Problems”, *The Philosophical Quarterly*, 44(174): 65–73. doi:10.2307/2220147
+* Wright, Crispin, 2004, “Warrant for Nothing (And Foundations for Free)?” *Aristotelian Society Supplementary Volume*, 78(1): 167–212. doi: 10.1111/j.0309-7013.2004.00121.x
+* Zagzebski, Linda, 1994, “The Inescapability of Gettier Problems”, *The Philosophical Quarterly*, 44(174): 65–73. doi: 10.2307/2220147
 
 ## Academic Tools
 

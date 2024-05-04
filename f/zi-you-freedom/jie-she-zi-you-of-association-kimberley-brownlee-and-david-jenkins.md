@@ -60,20 +60,20 @@
 
 ## 自由的种类
 
-第 1 部分着重探讨了不同类型的关联的本质和价值，包括在家庭中、工作中、市场中、宗教场所中以及酒吧或俱乐部中的关联。它并未区分关联与结社自由和脱离自由。在这里，§2 探讨了我们的结社自由的本质，而§3、§4 和§5 则探讨了这些结社自由的形式、力量和价值，以及它们的各种限制。
+第 1 部分着重探讨了不同类型的关联的本质和价值，包括在家庭中、工作中、市场中、宗教场所中以及酒吧或俱乐部中的关联。它并未区分关联与结社自由和脱离自由。在这里，§2 探讨了我们的结社自由的本质，而 §3、§4 和 §5 则探讨了这些结社自由的形式、力量和价值，以及它们的各种限制。
 
-著名的自由主义哲学家如约翰·斯图尔特·穆勒（John Stuart Mill）支持广义的结社自由观念。对穆勒来说，结社自由是个人自由的核心领域之一。穆勒说，我们有自由与其他人联合“为任何不涉及对他人造成伤害的目的进行结社：假设结社的人已经成年，并且没有被迫或被欺骗”。他还说，“我们有权选择对我们来说最可接受的社会”，而不受政府干预（Mill 1859: ch. IV）。他认为，他所确定的其他核心自由包括：（1）思想、良心、意见和感受的自由，即完全掌控我们内心意识领域；（2）言论和写作自由；（3）按照我们的品味和追求自由地塑造我们自己的生活，与我们的性格和倾向一致；他拥抱着我们参与不同的“生活实验”的理念。与思想和意见的自由不同，它们在很大程度上不受到穆勒所谓的“非常简单的原则”即伤害原则的影响，结社自由受到伤害原则的约束，我们只有在防止对他人造成伤害的情况下才可以干预某人的行为。
+著名的自由主义哲学家如约翰 · 斯图尔特 · 穆勒（John Stuart Mill）支持广义的结社自由观念。对穆勒来说，结社自由是个人自由的核心领域之一。穆勒说，我们有自由与其他人联合“为任何不涉及对他人造成伤害的目的进行结社：假设结社的人已经成年，并且没有被迫或被欺骗”。他还说，“我们有权选择对我们来说最可接受的社会”，而不受政府干预（Mill 1859: ch. IV）。他认为，他所确定的其他核心自由包括：（1）思想、良心、意见和感受的自由，即完全掌控我们内心意识领域；（2）言论和写作自由；（3）按照我们的品味和追求自由地塑造我们自己的生活，与我们的性格和倾向一致；他拥抱着我们参与不同的“生活实验”的理念。与思想和意见的自由不同，它们在很大程度上不受到穆勒所谓的“非常简单的原则”即伤害原则的影响，结社自由受到伤害原则的约束，我们只有在防止对他人造成伤害的情况下才可以干预某人的行为。
 
-因为密尔(Mill)对结社自由的大力支持未能解答许多问题，因为他只涉及在完全了解情况下的成年人。正如§1 所清楚表明的那样，我们许多核心群体的结构不同，因为我们无法对其达成一致意见。尤其在幼年时期，我们并没有选择，尽管我们经常会接受我们的家庭安排。此外，许多我们最亲密的家庭结社却可能给其他人带来一些意外的伤害，因为这些关系是必然排他性的，从而忽视了非成员的结社需求。此外，密尔对成年人之间自由结社的支持可能过于强硬。并非所有互相同意的结社都能受到结社自由的保护。有些同意的结社，比如暴力虐待的婚姻，双方都不希望离开，这些并不会自动纳入密尔的伤害原则监管范围，因为他的原则为那些通过自由、自愿和未被欺骗的同意和参与来影响其他人的行为留出空间 (Mill 1859: ch. I)。然而，这种联系太过道德上令人厌恶，不值得得到第三方干涉的保护。
+因为密尔(Mill)对结社自由的大力支持未能解答许多问题，因为他只涉及在完全了解情况下的成年人。正如 §1 所清楚表明的那样，我们许多核心群体的结构不同，因为我们无法对其达成一致意见。尤其在幼年时期，我们并没有选择，尽管我们经常会接受我们的家庭安排。此外，许多我们最亲密的家庭结社却可能给其他人带来一些意外的伤害，因为这些关系是必然排他性的，从而忽视了非成员的结社需求。此外，密尔对成年人之间自由结社的支持可能过于强硬。并非所有互相同意的结社都能受到结社自由的保护。有些同意的结社，比如暴力虐待的婚姻，双方都不希望离开，这些并不会自动纳入密尔的伤害原则监管范围，因为他的原则为那些通过自由、自愿和未被欺骗的同意和参与来影响其他人的行为留出空间 (Mill 1859: ch. I)。然而，这种联系太过道德上令人厌恶，不值得得到第三方干涉的保护。
 
-许多当代道德和政治哲学家使用韦斯利·霍菲尔德（1919）提出的概念装置来分析我们的个人权利和自由，他确定了八个规范位置，共同构成四对相关和四对对立。主张与义务相关。自由（或许可），作为义务的对立，与无主张相关。权力与责任相关。而无能力，作为权力的对立，与豁免相关，后者是责任的对立。使用这种霍菲尔德术语，结社自由可以指任何以下位置及其相关之一：
+许多当代道德和政治哲学家使用韦斯利 · 霍菲尔德（1919）提出的概念装置来分析我们的个人权利和自由，他确定了八个规范位置，共同构成四对相关和四对对立。主张与义务相关。自由（或许可），作为义务的对立，与无主张相关。权力与责任相关。而无能力，作为权力的对立，与豁免相关，后者是责任的对立。使用这种霍菲尔德术语，结社自由可以指任何以下位置及其相关之一：
 
 1. 我们可能有自由，即道德或法律上的许可，与他人结交或解交。当我们有与某人结交或解交的许可时，我们没有不去行动的责任，因此，相关地，其他人对我们采取其他行动也没有要求。道德和法律上的许可并不总是一致的。一个成年人可能有法律上的许可和一个孩子结婚，但他道德上没有这样做的许可。
 2. 权利主张：我们可能对干涉我们行为的他人拥有道德或法律上的权利主张，这导致了一个受保护的行动领域，可以以某种方式与人结社或脱离结社，即使我们这样做会犯道德错误。当我们拥有这样的主张时，他人有责任不干涉，并可能有责任积极保护我们的行动领域。
 3. 权力：我们可能有道德或法律上的能力去改变我们与他人的联结地位。加入某个组织的权力可以产生新的权利和义务，或者撤销先前有效的权利和义务。当我们与某人结婚时，我们行使了改变他们的规范地位以及我们自己的权利、义务和权力的能力。作为父母，我们有权决定我们的孩子是否和其他孩子交朋友。如果我们离婚，我们就行使了改变孩子们在与我们以及可能彼此关系上的联结地位的权力。当我们拥有这样的权力来影响他人的规范联结地位时，他们有责任受到我们如何运用我们的权力的影响。
 4. 免疫力：我们可能对他人行使结社或脱离结社的权利具有道德或法律免疫力，以至于改变我们的社交地位。当我们具有免疫力时，其他人无法对我们行使权力（Brownlee 2015: 271; 2016a: 362）。例如，一旦我们成熟，我们的父母不再有决定我们是否与某些人交往的权力。
 
-这种 Hohfeldian 器械可以用来评估构成我们结社自由的具体权利。 这些具体权利可以被分解为退出权、排斥权和组织自治权。由于我们的许可、主张权、权力和免除权取决于讨论中的结社类型，这些权利将在与§1 中概述的不同结社类型相关的情况下加以讨论。
+这种 Hohfeldian 器械可以用来评估构成我们结社自由的具体权利。 这些具体权利可以被分解为退出权、排斥权和组织自治权。由于我们的许可、主张权、权力和免除权取决于讨论中的结社类型，这些权利将在与 §1 中概述的不同结社类型相关的情况下加以讨论。
 
 这三项权利——排他权、退出权和行使组织自主权——并不包括结社的积极权利。但是，这三项权利都预设着我们已经属于至少一个社团，因为这些权利只能在社团内部行使。如果某人被排除在所有社团之外，那么上述框架很少能保证她享有结社生活中的任何好处。结社的权利之所以重要，是因为它们使我们能够在一定程度上控制我们的生活走向。然而，正因为这些权利的焦点在于我们的人际关系，它们可能导致全面排除某些人。因此，结社自由与其他可能的结社好处之间存在着重要的张力。要理解这种张力，有必要评估运用排他、退出和行使组织自主权对上述不同的社团形式产生的影响。
 
@@ -107,7 +107,7 @@
 
 表现型协会“通过培养公民意识并促进公共协商和自治的开放论坛来提高民主质量”，通过“众多非国家社会团体的多样性”开辟了一个“平行的政治共同体”，从中国家可以被制衡并其权力受到限制（Craiutu 2008：263–4；Levy 2014：27）。换句话说，许多表现型协会或“中介”协会的一个核心功能是限制国家的权力。中介团体为人们提供了一个不通过国家进行行动的选择。他们使人们能够共同行动，从而更容易抵抗政府可能构成的对个人自由的错误威胁（Levy 2014：1）。保持这种协会功能的一项重要任务是让公民习惯于联合起来，与志同道合的人一同追求他们认为与他人竞争中的共同利益。只有在允许团体排斥那些对“共同利益”有不同理解的人时，这才能发生。换句话说，要创造真正的民主异议空间，团体必须允许基于表现歧视原则排斥人们：这种“表现性排斥”处于言论、联合和民主的交集处（Bedi 2010）。
 
-第三，表达协会在增进人们所能接触的各种“生活实验”方面也发挥着作用。 不同的观点、信仰和意识形态的多样性增加了人们找到适合他们的生活方式的可能性 (Mill 1859: ch. III) 。 通过允许团体拒绝不符合其生活方式的人，所酝酿的生活方式多样性也具有集体价值(Galston 1995: 523)。然而，西安娜·席夫林提出了一种替代的思路。 在回应戴尔诉美国童子军案, 童子军因其同性恋而排斥詹姆斯·戴尔的权利受到支持。她建议我们在对待这种联合时，不要主要关注它们向他人表达的信息，即童子军作为一个机构不支持同性恋，而更要关注协会提供的空间。具体而言，协会为个人提供了一个空间。
+第三，表达协会在增进人们所能接触的各种“生活实验”方面也发挥着作用。 不同的观点、信仰和意识形态的多样性增加了人们找到适合他们的生活方式的可能性 (Mill 1859: ch. III) 。 通过允许团体拒绝不符合其生活方式的人，所酝酿的生活方式多样性也具有集体价值(Galston 1995: 523)。然而，西安娜 · 席夫林提出了一种替代的思路。 在回应戴尔诉美国童子军案, 童子军因其同性恋而排斥詹姆斯 · 戴尔的权利受到支持。她建议我们在对待这种联合时，不要主要关注它们向他人表达的信息，即童子军作为一个机构不支持同性恋，而更要关注协会提供的空间。具体而言，协会为个人提供了一个空间。
 
 > 控制她所受影响，她将注意力集中在哪些主题上，以及她是否始终将注意力集中在任何事物上，或者反而“走神”，让思绪放松漫游。（Shiffrin 2005: 841; cf. Farber 2001）
 
@@ -131,7 +131,7 @@
 
 然而，在某些情境下，我们拒绝结社的权利在道德上是非常复杂的，比如，当被排斥的人在我们通过排斥她而剥夺她的一组非结社商品中有正当利益时。以教育权为例。OP: 但在某些情况下，我们拒绝联合的权利在道德上是非常复杂的，比如，例如，被排斥的人对我们否定的一系列非关联商品有合法的兴趣。例如，被国民警卫队拒之门外的小石城九人团主要追求一组价值与联合没有关（Baldwin 1958）。对学生和家长来说，关联方面的重要性不大。他们的受教育权和其机会与试图剥夺他们对这些商品获得的人的所谓的非关联和表达权发生冲突。在这里，结社的自由并不是真正需要考虑的问题。相反，结社是主张另一种权利的手段（更准确地说，或许是成本）。同样的原则也可以应用于有人寻求与自己本来选择不交往的人之间的就业的情况（cf. Lomasky 2008: 193ff）。
 
-在看休闲俱乐部所满足的目的这一方面的例子。比如说，应该允许国际象棋俱乐部以性别为基础进行歧视吗？例如，在一个男孩俱乐部，允许感兴趣的女孩学习，而不会有其他国际象棋俱乐部供女孩加入的情况下？有人会建议，感兴趣的女孩总是可以自己建立国际象棋俱乐部，而不用受过专业指导的辅导员，但这忽略了一个重点，就是我们最好是跟已经受过专业训练的人和传统中曾受过教育的其他人一起学习国际象棋，而这往往需要资源,对于她这一人来说，她根本就无法接触到这些资源(MacIntyre 1981 [1985: 194]) 。考虑到关于女孩是否能下国际象棋的固有偏见，单纯招收女生的俱乐部，有着女性辅导员和同儿童为工作人员，会比只招收男生的俱乐部问题较小。尽管在某些对社区来说，要鼓励、建立和维护这些俱乐部，还存在实际问题。然而，假如社会上的认知改变，开始怀疑男生是否能下国际象棋的高水平，那么只招收女生的俱乐部会比只招收男生的俱乐部更有问题。尽管如此，一说到新成立的社群，有时确会是因为对现有群体的偏见而产生。在 Dale v The Boy Scouts of America 事件发生之后，一些新的童子军团体出现，拥有更多包容的入会政策和更自由的领导人观念。虽然这些团体可能缺少美国童子军的历史声望，但它们至少解决了稀缺性的问题。
+在看休闲俱乐部所满足的目的这一方面的例子。比如说，应该允许国际象棋俱乐部以性别为基础进行歧视吗？例如，在一个男孩俱乐部，允许感兴趣的女孩学习，而不会有其他国际象棋俱乐部供女孩加入的情况下？有人会建议，感兴趣的女孩总是可以自己建立国际象棋俱乐部，而不用受过专业指导的辅导员，但这忽略了一个重点，就是我们最好是跟已经受过专业训练的人和传统中曾受过教育的其他人一起学习国际象棋，而这往往需要资源, 对于她这一人来说，她根本就无法接触到这些资源(MacIntyre 1981 [1985: 194]) 。考虑到关于女孩是否能下国际象棋的固有偏见，单纯招收女生的俱乐部，有着女性辅导员和同儿童为工作人员，会比只招收男生的俱乐部问题较小。尽管在某些对社区来说，要鼓励、建立和维护这些俱乐部，还存在实际问题。然而，假如社会上的认知改变，开始怀疑男生是否能下国际象棋的高水平，那么只招收女生的俱乐部会比只招收男生的俱乐部更有问题。尽管如此，一说到新成立的社群，有时确会是因为对现有群体的偏见而产生。在 Dale v The Boy Scouts of America 事件发生之后，一些新的童子军团体出现，拥有更多包容的入会政策和更自由的领导人观念。虽然这些团体可能缺少美国童子军的历史声望，但它们至少解决了稀缺性的问题。
 
 对于寻求庇护者对援助的根本重要需求的最终案例是：一个国家的自我治理利益是否应该优先于这些寻求者的基本需求？鉴于他们的需求所具有的强度和严重性，可以说，庇护者的权利优先于限制人们的自由移动和结社权利的国家利益（Miller 2007；cf. Wellman 2008: 109）。这意味着，在实践中，国家必须处理那些已经到达其司法管辖区的庇护者的申请。但是，他们不必向世界上任何一个寻求庇护的人敞开大门。此外，他们可以在不允许这些人进入本国领土的情况下履行对这些人的义务。
 
@@ -141,13 +141,13 @@
 
 国家的强制利益 I（平等）：国家有责任确保其公民能够获得那些使他们能够充分参与社区生活的商品。因此，国家拥有其自身的要求权和权力，这些权力根植于这些利益之中。妇女获得进入商业机构成员所享有的特权和优势的权利，少数民族获得居住在安全社区的权利，无论当地社区协会可能担心什么（安德森，2010 年），儿童获得出席设备齐全的学校的权利，尽管其他学生或他们的父母存在种族偏见，以及传统上被排斥群体获得就业机会的权利，所有这些都被视为足以限制我们排他性权利的国家利益。
 
-我们可能拥有的另一个引人注目的利益是受到保护，以免受我们自己团体成员身份所带来的后果。例如，社区对其公民的要求与家长权威对孩子学习这些要求的影响存在张力。 杰拉尔德·加尔斯顿 的白话文翻译 1995 年的书中国是生活书对这嗜血种族上升 ；将孩子们从学校带走可能会干扰他们学习成为更广泛政治社区有效成员所必需的公民责任。在这样的情况下，阿米什儿童的关联权利和伴随的作为美国公民的义务会受到其父母希望维持他们自己的交往偏好的干扰 [ Arneson & Shapiro, 1996; cf. Galston, 1995: 518–520 ]。更广义上说，我们可以说儿童有权拥有“开放的未来”，其中包括 结社自由 的权利。正如乔尔·费因伯格所说，一个合适的教育会“为孩子提供知识和技能，帮助他选择适合他天生倾向和成熟倾向的任何生活方式”[Feinberg，1980 年[1992 年] ch 84 式 。当孩子从足够先进的正规教育中被剥夺时，这种开放未来及其各种 结社机会 将会被有效地关闭。
+我们可能拥有的另一个引人注目的利益是受到保护，以免受我们自己团体成员身份所带来的后果。例如，社区对其公民的要求与家长权威对孩子学习这些要求的影响存在张力。 杰拉尔德 · 加尔斯顿 的白话文翻译 1995 年的书中国是生活书对这嗜血种族上升 ；将孩子们从学校带走可能会干扰他们学习成为更广泛政治社区有效成员所必需的公民责任。在这样的情况下，阿米什儿童的关联权利和伴随的作为美国公民的义务会受到其父母希望维持他们自己的交往偏好的干扰 [ Arneson & Shapiro, 1996; cf. Galston, 1995: 518–520 ]。更广义上说，我们可以说儿童有权拥有“开放的未来”，其中包括 结社自由 的权利。正如乔尔 · 费因伯格所说，一个合适的教育会“为孩子提供知识和技能，帮助他选择适合他天生倾向和成熟倾向的任何生活方式”[Feinberg，1980 年[1992 年] ch 84 式 。当孩子从足够先进的正规教育中被剥夺时，这种开放未来及其各种 结社机会 将会被有效地关闭。
 
 如果不适当权衡保持儿童未来开放的必要性与父母影响其子女发展的权利之间的关系，可能会导致压迫性后果。在中国西北部的新疆省，国家采取积极措施阻止维吾尔族多数群体的年轻人参与伊斯兰实践，禁止 18 岁以下的人进入清真寺，并阻止他们在课堂上使用本族语言。中国国家为捍卫这些政策辩护时，辩称他们这样做既是为了防止他们认为的恐怖主义活动的威胁（见下文 d） ，也是为了让孩子们有更开放的未来可能性，而不是被灌输传统的伊斯兰实践。我们可以通过审视被剥夺参与这些宗教实践的人群的社区历史、态度和一般行为，来测试这些辩护的可信度，特别是与恐怖主义威胁相关的部分。
 
 强制国家利益 II (维护和平): 排斥有助于发展那些以摧毁国家和社会和平为目标的组织。例如，恐怖分子组织将排斥那些不赞同他们所倡导的暴力手段的人，即使他们在教义或信条上可能存在相似之处。因此，这种排斥使得特定的信念和意图得以无人质疑地蓬勃发展。这种排斥同时也与其他人普遍结社的权利以及社会和平所可能产生的其他善相冲突。因此，“强制国家利益”能够阻止某些组织的形成或维持团结。在某些情况下，国家有强制利益去强制一些组织的成立，例如通过种族融合而实现的那些组织，即使这样的融合可以（并在历史上确实）引发暴力反应。在其他情况下，国家可能声称自己有强制利益去防止自由结社，例如，各色共产主义者或无政府主义者的结社（Hook 1953; Whittington 2008)。
 
-然而，与这种“维持和平”的利益相关联，当我们试图证明国家采取行动打击特定组织时，一系列其他利益可能会得到服务或受到阻碍。例如，国家和权力施加者有时会对聚集争取选举权的工人提出“道德混乱”和“暴乱威胁”的指控。例如，马修·阿诺德对 1866 年海德公园示威活动的反应描述了这些要求“倾向于暴乱”，并称应该对这种集会进行秩序管理，以维护文明（Mitchell 2003: 13–14）。感知是“维持和平”的重要组成部分。当一群人将另一群人视为威胁时，维持和平可能涉及在他们对现实的错误看法中安抚他们。另一方面，其他人可能认为看似扰乱秩序的组织正在为更公正的政治解决方案而努力。这表明一个组织的意图总是伴随着一定程度的不透明性，这使得裁决合法和非法结社权利的任务变得复杂。这也使得划定这些权利的界限变得复杂：当某些团体与国家之间发生冲突时，国家经常使用侵入性策略来使这些团体的目标透明化，例如警察渗透、监视、抹黑和破坏，以管理、破坏或摧毁这些组织。我们如何评判这些国家措施最终将取决于这些团体所构成的威胁的严重程度。
+然而，与这种“维持和平”的利益相关联，当我们试图证明国家采取行动打击特定组织时，一系列其他利益可能会得到服务或受到阻碍。例如，国家和权力施加者有时会对聚集争取选举权的工人提出“道德混乱”和“暴乱威胁”的指控。例如，马修 · 阿诺德对 1866 年海德公园示威活动的反应描述了这些要求“倾向于暴乱”，并称应该对这种集会进行秩序管理，以维护文明（Mitchell 2003: 13–14）。感知是“维持和平”的重要组成部分。当一群人将另一群人视为威胁时，维持和平可能涉及在他们对现实的错误看法中安抚他们。另一方面，其他人可能认为看似扰乱秩序的组织正在为更公正的政治解决方案而努力。这表明一个组织的意图总是伴随着一定程度的不透明性，这使得裁决合法和非法结社权利的任务变得复杂。这也使得划定这些权利的界限变得复杂：当某些团体与国家之间发生冲突时，国家经常使用侵入性策略来使这些团体的目标透明化，例如警察渗透、监视、抹黑和破坏，以管理、破坏或摧毁这些组织。我们如何评判这些国家措施最终将取决于这些团体所构成的威胁的严重程度。
 
 ## 退出权
 
@@ -163,7 +163,7 @@
 
 上述要点指出了我们退出权利的一些物理和心理限制。这些权利也受到规范限制。
 
-支持异议：保持权利：除了何时真正可以退出的问题之外，我们可以问为什么排斥者和通过对他们施加巨大成本以排斥“退出者”的人应该在文化和团体组织上发表如此响亮的意见。例如，我们可以关注的是为什么虔诚的天主教妇女被拒绝在该团体的教会事务中担任重要角色，而原因仅仅是她们的性别。另一个例子，我们可以问为什么对同性恋者领导能力的怀疑性主张应该阻止像詹姆斯·戴尔（James Dale）这样的人成为童子军领袖。通过将关注点放在退出权利作为协会成员自由的充分措施上，我们忽略了通过加强人们在协会内部的权利而捕捉到的利益和实现的正义，这可能迫使内部发生变革。毫无疑问，支持人们留下的论点必须加以限制，因为这会邀请国家来规定协会的成员资格和内部规则（下文将探讨此问题）。
+支持异议：保持权利：除了何时真正可以退出的问题之外，我们可以问为什么排斥者和通过对他们施加巨大成本以排斥“退出者”的人应该在文化和团体组织上发表如此响亮的意见。例如，我们可以关注的是为什么虔诚的天主教妇女被拒绝在该团体的教会事务中担任重要角色，而原因仅仅是她们的性别。另一个例子，我们可以问为什么对同性恋者领导能力的怀疑性主张应该阻止像詹姆斯 · 戴尔（James Dale）这样的人成为童子军领袖。通过将关注点放在退出权利作为协会成员自由的充分措施上，我们忽略了通过加强人们在协会内部的权利而捕捉到的利益和实现的正义，这可能迫使内部发生变革。毫无疑问，支持人们留下的论点必须加以限制，因为这会邀请国家来规定协会的成员资格和内部规则（下文将探讨此问题）。
 
 家庭生活中，照料者对受抚养者（包括年幼和年长者）有责任，这些责任会限制他们退出这些家庭关系的权利。即使照料者能够成功地将照料责任转移给他人，比如通过外包或正式地转移照料职责，他们通常也不能摆脱所有的联想责任，而必须为他们的（以前的）关联者的护理支付经济费用。此外，如果我们认同誓约和承诺的约束力，则照料者缺乏非照料者所拥有的退出权利，至少当照料者主张他们的退出权利时，他们在道德上犯下了严重错误。
 
@@ -191,7 +191,7 @@
 
 作为已经注意到的与排除权利相关的问题，国家的迫切利益可以有正当理由限制协会对组织自治的权利 (Johnson 2001)。在某些方面，国家干涉组织自治的行为不可避免地比国家干涉协会排斥人员的努力更为复杂：这里，国家不仅仅是拒绝，比如，给予学校拒绝深色肤色学生的许可。相反，国家正在设定组织如何决定自己组织的极限。当国家给一个组织一个规定该组织必须包括多少女性或来自不同族裔的人的配额时，国家接着坚持特定的包容模式。因此，配额也许可以被看作是国家试图实现更加实质形式的融合的一个例子。例如，坚持要求政党和代表机构包括足够数量的女性可以旨在改善整体制度结构的民主资质（Phillips 1998; Mansbridge 1999)。同样地，设定必须要有 40%女性董事的公司董事会成员配额，就像挪威的这种情况，也可以旨在实现更大的融合以及提高所有女性的工作条件。在另一个例子中，美国政府致力于创造更少隔离的学校，通过类似 Moving to Opportunity (MTO)的项目，以及更多整合的社区，如芝加哥的 Gautreaux 计划。这些行动可以被描述为试图在尤其具有形成性的协会内部带来特定的包容和连接模式，即使它们有时违背了一些参与者的意愿（Anderson 2010: 119–120)。
 
-汤米·谢尔比（Tommie Shelby）提出了这个命令的潜在限制，明确回应伊丽莎白·安德森（Elizabeth Anderson）提出的整合论证。谢尔比认为，在极不公正的社会中，贫民区对其居民具有重要的生存功能。这些地方是人们可以培养社区感和在自己熟悉的空间中感受来自外部世界的安全感的空间，因为外部世界看起来是敌对的。像安德森所预期的那样，期望这些居民融入白人社区意味着可能在更广泛的不公正之名中牺牲这些好处，而这些人并不负责这些不公正。即使通过整合可能（尽管在经验上可能是虚假的）可以获得更广泛的社会资本，最受不公正之虐的人不应该为了纠正那些结构性失败而做出额外的牺牲（Shelby 2016: 49–79）。在这里，结社自由以及已经存在的组织所具有的功能被赋予了比已有组织被削弱后可能产生的联想关系更高的优先权。除了反对国家干预的结社自由之外，谢尔比还描述了生活在并归属于贫民区社区中的联想责任和团结（2016: 61）。
+汤米 · 谢尔比（Tommie Shelby）提出了这个命令的潜在限制，明确回应伊丽莎白 · 安德森（Elizabeth Anderson）提出的整合论证。谢尔比认为，在极不公正的社会中，贫民区对其居民具有重要的生存功能。这些地方是人们可以培养社区感和在自己熟悉的空间中感受来自外部世界的安全感的空间，因为外部世界看起来是敌对的。像安德森所预期的那样，期望这些居民融入白人社区意味着可能在更广泛的不公正之名中牺牲这些好处，而这些人并不负责这些不公正。即使通过整合可能（尽管在经验上可能是虚假的）可以获得更广泛的社会资本，最受不公正之虐的人不应该为了纠正那些结构性失败而做出额外的牺牲（Shelby 2016: 49–79）。在这里，结社自由以及已经存在的组织所具有的功能被赋予了比已有组织被削弱后可能产生的联想关系更高的优先权。除了反对国家干预的结社自由之外，谢尔比还描述了生活在并归属于贫民区社区中的联想责任和团结（2016: 61）。
 
 ## 结论
 
@@ -201,34 +201,34 @@
 
 ## Bibliography
 
-* Alexander, Larry, 2008, “What Is Freedom of Association, and What Is Its Denial?”, *Social Philosophy and Policy*, 25(2): 1–21. doi:10.1017/S0265052508080163
+* Alexander, Larry, 2008, “What Is Freedom of Association, and What Is Its Denial?”, *Social Philosophy and Policy*, 25(2): 1–21. doi: 10.1017/S0265052508080163
 * Allen, Danielle S., 2004, *Talking to Strangers: Anxieties of Citizenship since Brown v. Board of Education*, Chicago: The University of Chicago Press.
 * Anderson, Elizabeth, 2010, *The Imperative of Integration*, Princeton, NJ: Princeton University Press.
 * Aristotle, *Nicomachean Ethics* (various editions).
 * Arneson, Richard and Ian Shapiro, 1996, “Democratic Autonomy and Religious Freedom: A Critique of Wisconsin v. Yoder”, in *Political Order*, Ian Shapiro and Russell Hardin (eds.) (Nomos 38), New York: New York University Press, 365–411.
 * Baldwin, James, 1958, “The Hard Kind of Courage”, *Harper’s Magazine*, October: 61–65; reprinted as “A Fly in Buttermilk” in his 1961 collection of essays, *Nobody Knows My Name*, New York: Dial Press; reprined in turn in his 1998 *Collected Essays*, Toni Morrison (ed.) (The Library of America 98), New York: Library of America, 187–196.
-* Baylis, Françoise and Carolyn McLeod (eds.), 2014, *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199656066.001.0001
-* Bedi, Sonu, 2010, “Expressive Exclusion: A Defense”, *Journal of Moral Philosophy*, 7(4): 427–440. doi:10.1163/174552410X535062
+* Baylis, Françoise and Carolyn McLeod (eds.), 2014, *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199656066.001.0001
+* Bedi, Sonu, 2010, “Expressive Exclusion: A Defense”, *Journal of Moral Philosophy*, 7(4): 427–440. doi: 10.1163/174552410X535062
 * Brody, David, 1992 [1994], “The Breakdown of Labour’s Social Contract”, *Dissent*. Collected in Nicolaus Mills (ed.), *Legacy of Dissent: 40 years of writing from Dissent magazine*, New York: Touchstone Books, 371.
-* Brownlee, Kimberley, 2015, “Freedom of Association: It’s Not What You Think”, *Oxford Journal of Legal Studies*, 35(2): 267–282. doi:10.1093/ojls/gqu018
-* –––, 2016a, “Freedom of Association”, in Kasper Lippert-Rasmussen, Kimberley Brownlee, and David Coady, (eds), *A Companion to Applied Philosophy*, (Blackwell Companions to Philosophy), Chichester, UK: Wiley, 356–369. doi:10.1002/9781118869109.ch25
-* –––, 2016b, “Ethical Dilemmas of Sociability”, *Utilitas*, 28(1): 54–72. doi:10.1017/S0953820815000175
+* Brownlee, Kimberley, 2015, “Freedom of Association: It’s Not What You Think”, *Oxford Journal of Legal Studies*, 35(2): 267–282. doi: 10.1093/ojls/gqu018
+* –––, 2016a, “Freedom of Association”, in Kasper Lippert-Rasmussen, Kimberley Brownlee, and David Coady, (eds), *A Companion to Applied Philosophy*, (Blackwell Companions to Philosophy), Chichester, UK: Wiley, 356–369. doi: 10.1002/9781118869109.ch25
+* –––, 2016b, “Ethical Dilemmas of Sociability”, *Utilitas*, 28(1): 54–72. doi: 10.1017/S0953820815000175
 * Cacioppo, John T. and William Patrick, 2008, *Loneliness: Human Nature and the Need for Social Connection*, New York: W.W. Norton.
-* Carens, Joseph H., 1987, “Aliens and Citizens: The Case for Open Borders”, *The Review of Politics*, 49(2): 251–273. doi:10.1017/S0034670500033817
-* Craiutu, Aurelian, 2008, “From the Social Contract to the Art of Association: A Tocquevillian Perspective”, *Social Philosophy and Policy*, 25(2): 263–287. doi:10.1017/S0265052508080266
-* Dagger, Richard, 1985, “Rights, Boundaries, and the Bonds of Community: A Qualified Defense of Moral Parochialism”, *American Political Science Review*, 79(2): 436–447. doi:10.2307/1956658
+* Carens, Joseph H., 1987, “Aliens and Citizens: The Case for Open Borders”, *The Review of Politics*, 49(2): 251–273. doi: 10.1017/S0034670500033817
+* Craiutu, Aurelian, 2008, “From the Social Contract to the Art of Association: A Tocquevillian Perspective”, *Social Philosophy and Policy*, 25(2): 263–287. doi: 10.1017/S0265052508080266
+* Dagger, Richard, 1985, “Rights, Boundaries, and the Bonds of Community: A Qualified Defense of Moral Parochialism”, *American Political Science Review*, 79(2): 436–447. doi: 10.2307/1956658
 * Dworkin, Ronald, 1986, *Law’s Empire*, Cambridge, MA: Harvard University Press.
-* Epstein, Richard A., 2008, “Should Antidiscrimination Laws Limit Freedom of Association? The Dangerous Allure of Human Rights Legislation”, *Social Philosophy and Policy*, 25(2): 123–156. doi:10.1017/S0265052508080217
+* Epstein, Richard A., 2008, “Should Antidiscrimination Laws Limit Freedom of Association? The Dangerous Allure of Human Rights Legislation”, *Social Philosophy and Policy*, 25(2): 123–156. doi: 10.1017/S0265052508080217
 * Farber, Daniel A., 2001, “Foreword—Speaking in the First Person Plural: Expressive Associations and the First Amendment”,, *Minnesota Law Review*, 85(6): 1483–1514. [[Farber 2000 available online](https://lawcat.berkeley.edu/record/1117327)]
 * Feinberg, Joel, 1980 [1992], “The Child’s Right to an Open Future”, *Whose Child? Children’s Rights, Parental Authority, and State Power*, William Aiken and Hugh LaFollette (eds), Totowa, NJ: Rowman & LIttlefield, 124–153; reprinted in his *Freedom and Fulfillment: Philosophical Essays*, Princeton: Princeton University Press, 76–97.
-* Fine, Sarah, 2010, “Freedom of Association Is Not the Answer”, *Ethics*, 120(2): 338–356. doi:10.1086/649626
+* Fine, Sarah, 2010, “Freedom of Association Is Not the Answer”, *Ethics*, 120(2): 338–356. doi: 10.1086/649626
 * Fleischacker, Sam, 1998, “Insignificant Communities”, in Gutmann 1998b: 273–313.
 * Fredrickson, Barbara L., 2013, *Love 2.0: How Our Supreme Emotion Affects Everything We Feel, Think, Do, and Become*, New York: Hudson Street Press.
 * Frick, Johann, forthcoming, “National Partiality, Immigration, and the Problem of Double-Jeopardy”, presented at the 6th Annual Oxford Studies Workshop for Oxford Studies in Political Philosophy, June 2018. To appear in *Oxford Studies in Political Philosophy, Volume 6*, Oxford: Oxford University Press.
-* Galeotti, Anna Elisabetta, 2002, *Toleration as Recognition*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487392
-* Galston, William A., 1995, “Two Concepts of Liberalism”, *Ethics*, 105(3): 516–534. doi:10.1086/293725
-* Gheaus, Anca, 2018, “Children’s Vulnerability and Legitimate Authority Over Children”, *Journal of Applied Philosophy*, 35(February): 60–75. doi:10.1111/japp.12262
-* Goodin, Robert E., 1988, “What Is So Special about Our Fellow Countrymen?”, *Ethics*, 98(4): 663–686. doi:10.1086/292998
+* Galeotti, Anna Elisabetta, 2002, *Toleration as Recognition*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511487392
+* Galston, William A., 1995, “Two Concepts of Liberalism”, *Ethics*, 105(3): 516–534. doi: 10.1086/293725
+* Gheaus, Anca, 2018, “Children’s Vulnerability and Legitimate Authority Over Children”, *Journal of Applied Philosophy*, 35(February): 60–75. doi: 10.1111/japp.12262
+* Goodin, Robert E., 1988, “What Is So Special about Our Fellow Countrymen?”, *Ethics*, 98(4): 663–686. doi: 10.1086/292998
 * Gorz, André, 1997 [1999], *Misères du Présent, Richesses du Possible*, Paris: Galilée. Translated as *Reclaiming Work: Beyond the Wage-Based Society*, Chris Turner (trans.), Cambridge, UK: Polity Press, 1999.
 * Graeber, David, 2013, *The Democracy Project: A History, a Crisis, a Movement*, New York: Spiegel & Grau.
 * Greenawalt, Kent, 1998, “Freedom of Association and Religious Association”, in Gutmann 1998b: 109–144.
@@ -236,35 +236,35 @@
 * ––– (ed.), 1998b, *Freedom of Association*, (The University Center for Human Values Series), Princeton, NJ: Princeton University Press.
 * Hohfeld, Wesley Newcomb [d. 1918], 1919, *Fundamental Legal Conceptions as Applied in Judicial Reasoning and Other Legal Essays*, Walter Wheeler Cook (ed.), New Haven, CT: Yale University Press.
 * Hook, Sidney, 1953, *Heresy, Yes—Conspiracy, No!*, New York: American Committee for Cultural Freedom.
-* James, David, 2017, “The Compatibility of Freedom and Necessity in Marx’s Idea of Communist Society: The Compatibility of Freedom and Necessity in Marx’s Idea of Communist Society”, *European Journal of Philosophy*, 25(2): 270–293. doi:10.1111/ejop.12209
+* James, David, 2017, “The Compatibility of Freedom and Necessity in Marx’s Idea of Communist Society: The Compatibility of Freedom and Necessity in Marx’s Idea of Communist Society”, *European Journal of Philosophy*, 25(2): 270–293. doi: 10.1111/ejop.12209
 * Johnson, Steffen N., 2001, “Expressive Association and Organizational Autonomy”, *Minnesota Law Review*, 85(6): 1639–1668.
 * Karst, Kenneth L., 1980, “The Freedom of Intimate Association”, *Yale Law Journal*, 89(4): 624–692. [[Karst 1980 available online](https://digitalcommons.law.yale.edu/ylj/vol89/iss4/3)]
 * Kateb, George, 1998, “The Value of Association” in Gutmann 1998b: 35–63.
-* Kukathas, Chandran, 2003, *The Liberal Archipelago: A Theory of Diversity and Freedom*, Oxford: Oxford University Press. doi:10.1093/019925754X.001.0001
+* Kukathas, Chandran, 2003, *The Liberal Archipelago: A Theory of Diversity and Freedom*, Oxford: Oxford University Press. doi: 10.1093/019925754X.001.0001
 * –––, 2005, “The Case for Open Immigration”, in Andrew I. Cohen and Christopher Heath Wellman (eds.), *Contemporary Debates in Applied Ethics*, London: Blackwell, 207–220
-* Kymlicka, Will, 1995, *Multicultural Citizenship: A Liberal Theory of Minority Rights*, Oxford: Oxford University Press. doi:10.1093/0198290918.001.0001
-* Laborde, Cécile, 2006, “Female Autonomy, Education and the Hijab”, *Critical Review of International Social and Political Philosophy*, 9(3): 351–377. doi:10.1080/13698230600900909
-* Levy, Jacob T., 2014, *Rationalism, Pluralism, and Freedom*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198717140.001.0001
-* Linder, Douglas O., 1984, “Freedom of Association after *Roberts v. United States Jaycees*”, *Michigan Law Review*, 82(8): 1878–1903. doi:10.2307/1288622
-* Liao, S. Matthew, 2006, “The Right of Children to Be Loved”, *Journal of Political Philosophy*, 14(4): 420–440. doi:10.1111/j.1467-9760.2006.00262.x
-* –––, 2015, *The Right to Be Loved*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190234836.001.0001
-* Lomasky, Loren E., 2008, “The Paradox of Association”, *Social Philosophy and Policy*, 25(2): 182–200. doi:10.1017/S0265052508080230
+* Kymlicka, Will, 1995, *Multicultural Citizenship: A Liberal Theory of Minority Rights*, Oxford: Oxford University Press. doi: 10.1093/0198290918.001.0001
+* Laborde, Cécile, 2006, “Female Autonomy, Education and the Hijab”, *Critical Review of International Social and Political Philosophy*, 9(3): 351–377. doi: 10.1080/13698230600900909
+* Levy, Jacob T., 2014, *Rationalism, Pluralism, and Freedom*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198717140.001.0001
+* Linder, Douglas O., 1984, “Freedom of Association after *Roberts v. United States Jaycees*”, *Michigan Law Review*, 82(8): 1878–1903. doi: 10.2307/1288622
+* Liao, S. Matthew, 2006, “The Right of Children to Be Loved”, *Journal of Political Philosophy*, 14(4): 420–440. doi: 10.1111/j.1467-9760.2006.00262.x
+* –––, 2015, *The Right to Be Loved*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190234836.001.0001
+* Lomasky, Loren E., 2008, “The Paradox of Association”, *Social Philosophy and Policy*, 25(2): 182–200. doi: 10.1017/S0265052508080230
 * Low, Setha, 2003, *Behind the Gates: Life, Security and the Pursuit of Happiness in Fortress America*, New York: Routledge.
 * MacIntyre, Alasdair, 1981 [1985], *After Virtue: A Study in Moral Theory*, London: Duckworth Press, 2nd edition.
-* Mansbridge, Jane, 1999, “Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes’”, *The Journal of Politics*, 61(3): 628–657. doi:10.2307/2647821
-* Mason, Andrew, 1997, “Special Obligations to Compatriots”, *Ethics*, 107(3): 427–447. doi:10.1086/233743
-* McKinnon, Catriona, 2000, “Exclusion Rules and Self-Respect”, *The Journal of Value Inquiry*, 34(4): 491–505. doi:10.1023/A:1004737330659
+* Mansbridge, Jane, 1999, “Should Blacks Represent Blacks and Women Represent Women? A Contingent ‘Yes’”, *The Journal of Politics*, 61(3): 628–657. doi: 10.2307/2647821
+* Mason, Andrew, 1997, “Special Obligations to Compatriots”, *Ethics*, 107(3): 427–447. doi: 10.1086/233743
+* McKinnon, Catriona, 2000, “Exclusion Rules and Self-Respect”, *The Journal of Value Inquiry*, 34(4): 491–505. doi: 10.1023/A: 1004737330659
 * Mill, John Stuart, 1859, *On Liberty* (various editions).
-* Miller, David, 2007, *National Responsibility and Global Justice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199235056.001.0001
+* Miller, David, 2007, *National Responsibility and Global Justice*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199235056.001.0001
 * –––, 2016, *Strangers in Our Midst: The Political Philosophy of Immigration*, Cambridge, MA: Harvard University Press.
 * Mitchell, Don, 2003, *The Right to the City: Social Justice and the Fight for Public Space*, New York: Guildford Press.
-* Moles, Andres, 2014, “The Public Ecology of Freedom of Association”, *Res Publica*, 20(1): 85–103. doi:10.1007/s11158-013-9222-x
-* Moreno, Paul, 2008, “Organized Labor and American Law: From Freedom of Association to Compulsory Unionism”, *Social Philosophy and Policy*, 25(2): 22–52. doi:10.1017/S0265052508080175
+* Moles, Andres, 2014, “The Public Ecology of Freedom of Association”, *Res Publica*, 20(1): 85–103. doi: 10.1007/s11158-013-9222-x
+* Moreno, Paul, 2008, “Organized Labor and American Law: From Freedom of Association to Compulsory Unionism”, *Social Philosophy and Policy*, 25(2): 22–52. doi: 10.1017/S0265052508080175
 * Nichols, Theo and Peter Armstrong, 1976, *Workers Divided: A Study in Shopfloor Politics*, Glasgow: Fontana.
-* Okin, by Susan Moller, 2002, “‘Mistresses of Their Own Destiny’: Group Rights, Gender, and Realistic Rights of Exit”, *Ethics*, 112(2): 205–230. doi:10.1086/324645
-* Pateman, Carole, 2007, “Why Republicanism?”, *Basic Income Studies*, 2(2): article 12. doi:10.2202/1932-0183.1087
-* Phillips, Anne, 1998, *The Politics of Presence*, (Oxford Political Theory), Oxford: Oxford University Press. doi:10.1093/0198294158.001.0001
-* Quong, Jonathan, 2011, *Liberalism without Perfection*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199594870.001.0001
+* Okin, by Susan Moller, 2002, “‘Mistresses of Their Own Destiny’: Group Rights, Gender, and Realistic Rights of Exit”, *Ethics*, 112(2): 205–230. doi: 10.1086/324645
+* Pateman, Carole, 2007, “Why Republicanism?”, *Basic Income Studies*, 2(2): article 12. doi: 10.2202/1932-0183.1087
+* Phillips, Anne, 1998, *The Politics of Presence*, (Oxford Political Theory), Oxford: Oxford University Press. doi: 10.1093/0198294158.001.0001
+* Quong, Jonathan, 2011, *Liberalism without Perfection*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199594870.001.0001
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge MA: Harvard University Press.
 * –––, 1993, *Political Liberalism*, New York: Columbia University Press.
 * Rosenblum, Nancy, 1998, “Compelled Association: Public Standing, Self-Respect, and the Dynamic of Exclusion” in Gutmann 1998b: 75–108.
@@ -277,11 +277,11 @@
 * Taylor, Charles, 1995, “The Politics of Recognition”, in his *Philosophical Arguments*, Cambridge, MA: Harvard University Press, 225–256.
 * Turkle, Sherry, 2011, *Alone Together: Why We Expect More from Technology and Less from Each Other*, New York: Basic Books.
 * Walzer, Michael, 2004, “Involuntary Association”, in his *Politics and Passion: Toward a More Egalitarian Liberalism*, London: Yale University Press, chapter 1.
-* Wellman, Christopher Heath, 2008, “Immigration and Freedom of Association”, *Ethics*, 119(1): 109–141. doi:10.1086/592311
-* White, Stuart, 1997, “Freedom of Association and the Right to Exclude”, *Journal of Political Philosophy*, 5(4): 373–391. doi:10.1111/1467-9760.00039
+* Wellman, Christopher Heath, 2008, “Immigration and Freedom of Association”, *Ethics*, 119(1): 109–141. doi: 10.1086/592311
+* White, Stuart, 1997, “Freedom of Association and the Right to Exclude”, *Journal of Political Philosophy*, 5(4): 373–391. doi: 10.1111/1467-9760.00039
 * –––, 1998, “Trade Unionism in a Liberal State” in Gutmann 1998b: 330–356.
-* –––, 2013, “Association, Freedom of”, in Hugh LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Wiley Press. doi:10.1002/9781444367072.wbiee701
-* Whittington, Keith E., 2008, “Industrial Saboteurs, Reputed Thieves, Communists, and the Freedom of Association”, *Social Philosophy and Policy*, 25(2): 76–91. doi:10.1017/S0265052508080199
+* –––, 2013, “Association, Freedom of”, in Hugh LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Wiley Press. doi: 10.1002/9781444367072.wbiee701
+* Whittington, Keith E., 2008, “Industrial Saboteurs, Reputed Thieves, Communists, and the Freedom of Association”, *Social Philosophy and Policy*, 25(2): 76–91. doi: 10.1017/S0265052508080199
 * Widerquist, Karl, 2013, *Independence, Propertylessness, and Basic Income: A Theory of Freedom as the Power to Say No*, New York: Palgrave MacMillan.
 
 ## Academic Tools

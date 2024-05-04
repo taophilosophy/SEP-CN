@@ -8,7 +8,7 @@
 
 女性主义者大多呼吁认可科学研究发生和科学知识接受的社会背景。因此，女性主义对科学的方法是处于二十世纪下半叶出现的科学哲学和科学研究领域的更广泛运动中。这些方法承认并探索科学知识的社会性质（例如：Kuhn 1962 [1970]; Longino 1990, 2002; Kitcher 1993, 2001; Solomon 2001）。此外，它们处于 20 世纪 60 年代和 70 年代的解放运动中。随着 20 世纪下半叶女性在科学领域的参与增加，女性作为研究者的缺席和女性生活作为知识主体的影响变得更加明显。在同一时期的女性主义运动提供了理论框架，通过这些框架可以理论化这些空白并将其理解为压迫的方面。
 
-在迄今为止的讨论中，可能会暗示女性主义者是一个团结一致的群体，他们的观点仅在于它们的焦点上有所不同，但事实并非如此。女性主义者在其政治目标以及认识论和本体论承诧方面存在差异（见《女性主义哲学》）。并非所有的女性主义是相同的，因此这是一个额外的维度，影响着对科学观点的差异。现在，女性主义科学哲学和科学研究已经成熟，细微的内部辩论反映了这一点。即便如此，仍然可以确定一些一般性的共识。至少，女性主义对科学的观点始于这样一个前提，即性别是否对科学知识的产生具有重要意义应被视为一个开放性问题。不能假定它是无关紧要的，就像过去经常那样。性别何时、何地、为何以及何种情况下具有相关性，这是各种女性主义观点存在差异的地方。此外，科学本身也存在差异，因此它们被视为何种程度与女性主义相关，以及受性别影响的方式也不太可能是一致的。因此，本文试图从女性主义者观察科学的不同政治、认识和社会位置以及女性主义者在考虑科学知识产生时的关注焦点的差异中捕捉女性主义观点。尽管如此，应当指出，本文在讨论主题时优先考虑社会和生命科学（尽管在讨论女性参与科学职业时并非如此）。这是因为女性主义者在调查社会和生命科学中性别假设运作方面最为活跃。还应当指出，本文的哲学视角主要是英美式的，因此不包括对大陆哲学传统中的女性主义方法的分析，或对影响全球南方的问题进行仔细考虑。在其他文化、社会和历史背景中，女性主义者如何处理科学可能会有其他值得学习的经验教训。桑德拉·哈丁（Sandra Harding）在拉丁美洲科学研究方面的一些最新工作提供了这种背景差异的重要性的一个例子（哈丁，2017 年，2019 年）。
+在迄今为止的讨论中，可能会暗示女性主义者是一个团结一致的群体，他们的观点仅在于它们的焦点上有所不同，但事实并非如此。女性主义者在其政治目标以及认识论和本体论承诧方面存在差异（见《女性主义哲学》）。并非所有的女性主义是相同的，因此这是一个额外的维度，影响着对科学观点的差异。现在，女性主义科学哲学和科学研究已经成熟，细微的内部辩论反映了这一点。即便如此，仍然可以确定一些一般性的共识。至少，女性主义对科学的观点始于这样一个前提，即性别是否对科学知识的产生具有重要意义应被视为一个开放性问题。不能假定它是无关紧要的，就像过去经常那样。性别何时、何地、为何以及何种情况下具有相关性，这是各种女性主义观点存在差异的地方。此外，科学本身也存在差异，因此它们被视为何种程度与女性主义相关，以及受性别影响的方式也不太可能是一致的。因此，本文试图从女性主义者观察科学的不同政治、认识和社会位置以及女性主义者在考虑科学知识产生时的关注焦点的差异中捕捉女性主义观点。尽管如此，应当指出，本文在讨论主题时优先考虑社会和生命科学（尽管在讨论女性参与科学职业时并非如此）。这是因为女性主义者在调查社会和生命科学中性别假设运作方面最为活跃。还应当指出，本文的哲学视角主要是英美式的，因此不包括对大陆哲学传统中的女性主义方法的分析，或对影响全球南方的问题进行仔细考虑。在其他文化、社会和历史背景中，女性主义者如何处理科学可能会有其他值得学习的经验教训。桑德拉 · 哈丁（Sandra Harding）在拉丁美洲科学研究方面的一些最新工作提供了这种背景差异的重要性的一个例子（哈丁，2017 年，2019 年）。
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 1.1 Women in the Sciences1.1 科学中的女性
 
-尽管一直有女性对世界感兴趣，以一种后来被认定为科学的方式，但她们的参与既没有得到一致鼓励，也没有得到持续的认可。女性在科学史上的相对缺席，20 世纪之前正式参与科学的女性数量较少，以及即使在她们大量进入领域之后，许多女性仍然面临的困难——较低的晋升率、较低的工资和比男性在该领域担任的职位低的情况，是女性主义关注的焦点之一。女性主义方法包括努力宣传过去女性的角色（例如，帕德博恩大学的《哲学与科学中的女性史》），通过教育增加女性和女孩在科学中的参与（例如，ADVANCE 计划，详细讨论见 Crasnow 等人 2015 年[2018 年]），以及确定导致女性在科学领域持续或晋升遇到障碍的因素。
+尽管一直有女性对世界感兴趣，以一种后来被认定为科学的方式，但她们的参与既没有得到一致鼓励，也没有得到持续的认可。女性在科学史上的相对缺席，20 世纪之前正式参与科学的女性数量较少，以及即使在她们大量进入领域之后，许多女性仍然面临的困难——较低的晋升率、较低的工资和比男性在该领域担任的职位低的情况，是女性主义关注的焦点之一。女性主义方法包括努力宣传过去女性的角色（例如，帕德博恩大学的《哲学与科学中的女性史》），通过教育增加女性和女孩在科学中的参与（例如，ADVANCE 计划，详细讨论见 Crasnow 等人 2015 年 [2018 年]），以及确定导致女性在科学领域持续或晋升遇到障碍的因素。
 
 Sandra Harding 描述了一些项目，揭示了女性参与科学被忽视或被遗忘的各种方式，称之为“女性值得尊敬的”项目（Harding 1986）。这些项目涉及发现和表彰在科学史上被忽视或被遗忘的女性。这类项目有多种动机。其中一个动机就是简单地希望纠正历史记录，给予女性贡献者应有的认可。另一个目的是鼓励未来女孩和女性的参与。如果女性在科学领域的历史上参与较少的原因之一是女性的刻板印象与她们想象自己成为科学家的能力相冲突，那么打破这种刻板印象就是改变这种情况的一种方式。
 
@@ -42,7 +42,7 @@ Sandra Harding 描述了一些项目，揭示了女性参与科学被忽视或�
 
 第三个主题最近受到了更多关注，部分原因是它在一定程度上解释了为什么接受科学教育的女性数量的增加并没有得到她们在劳动力市场参与方面相应增加的解释。尽管参与度因学科而异——大多数社会科学（除了经济学和政治学）中女性占多数，生命科学接近性别平等——但总体上仍然相对较低（正如之前提到的 28%；国家科学委员会 2018 年：第 3 章，3-106），特别是在考虑更多领导或声望角色时。人们越来越意识到“微不公平”——随时间累积起来具有泄气效果的小小冷落和不公正——可能在这种低参与率中发挥作用。
 
-艾莉森·怀利（Alison Wylie）提供了对这些微妙形式的歧视的描述，这在 1999 年麻省理工学院报告《关于科学学院女性教职员工状况的研究》（MIT 1999）中首次得到充分承认。
+艾莉森 · 怀利（Alison Wylie）提供了对这些微妙形式的歧视的描述，这在 1999 年麻省理工学院报告《关于科学学院女性教职员工状况的研究》（MIT 1999）中首次得到充分承认。
 
 > 在 1990 年代的歧视，...，采取了无数小差异的形式，涉及接受和回应...(Wylie 2011: 157)
 
@@ -54,7 +54,7 @@ Sandra Harding 描述了一些项目，揭示了女性参与科学被忽视或�
 
 ### 1.2 研究女性的科学
 
-在二十世纪，随着更多女性进入科学领域，她们开始关注一系列此前被忽视的现象——这些现象存在于女性的生活、领域和经验中。克劳德·莱维-斯特劳斯在一篇描述自己 1936 年田野调查的文章中提到了这一观点。
+在二十世纪，随着更多女性进入科学领域，她们开始关注一系列此前被忽视的现象——这些现象存在于女性的生活、领域和经验中。克劳德 · 莱维-斯特劳斯在一篇描述自己 1936 年田野调查的文章中提到了这一观点。
 
 > 第二天，整个村庄乘着大约三十只独木舟离开了，只留下我们与妇女和孩子们独自一人在被遗弃的房屋中。（1936: 283, 翻译见 Eichler & Lapointe 1985: 11）
 
@@ -78,7 +78,7 @@ Paxton 对政治科学研究中常用的民主指数进行了批评。Paxton 认
 
 > 它还包括对背景假设的不加思考的同意，例如，关于因果关系或自然或社会现象如何分类的假设。 (Brister 2018: 214–215)
 
-第二，最好的科学是消除偏见的科学的观念唤起了科学作为无价值的理想——即，不受道德、文化或政治价值观的影响。虽然这种对科学的理解在二十世纪上半叶主导了科学哲学，但自那时以来受到了挑战。在过去几十年中，价值观可能在科学的哪些方面扮演合法角色，何时以及在哪些方面进行了广泛探讨（参见女性主义认识论和科学哲学—第 7 节，还有 Lacey 1999；Kincaid，Dupré和 Wylie 2007；Elliott 2017）。科学哲学家一直是这场讨论的积极参与者。
+第二，最好的科学是消除偏见的科学的观念唤起了科学作为无价值的理想——即，不受道德、文化或政治价值观的影响。虽然这种对科学的理解在二十世纪上半叶主导了科学哲学，但自那时以来受到了挑战。在过去几十年中，价值观可能在科学的哪些方面扮演合法角色，何时以及在哪些方面进行了广泛探讨（参见女性主义认识论和科学哲学—第 7 节，还有 Lacey 1999；Kincaid，Dupré 和 Wylie 2007；Elliott 2017）。科学哲学家一直是这场讨论的积极参与者。
 
 最后，偏见有时被理解为个别科学家的特殊和无关紧要的信念或态度问题。这种对偏见的理解掩盖了科学的社会性质。科学家通常是团队合作，而不是孤立工作，他们工作的框架具有自己的社会历史。研究人员受其他科学家的训练，以采纳他们所从事学科的实践。此外，对他们研究的评估是在这种社会背景下进行的。科学的这些社会方面提供了一个塑造和限制研究的知识架构。
 
@@ -94,7 +94,7 @@ Paxton 对政治科学研究中常用的民主指数进行了批评。Paxton 认
 
 对于“重新思考科学的基本概念和理论框架”意味着什么的担忧，是女性主义对科学的批判成为 1990 年代“科学战争”的目标之一的原因。作为哲学家、历史学家和其他社会科学家认识到科学研究受社会影响以及科学社区是社会实体的事实，他们的描述威胁到了道德、政治、文化或社会价值不应在证据评估、方法选择或最终理论接受中发挥作用的观念——无价值理想。尽管那些拥护这一理想的人一直认识到一些价值——包括认真追求真理、理论的经验充分性、全面证据的考虑等认知或认知价值——在科学中确实应该发挥作用，但他们拒绝社会、政治或道德价值应该发挥作用。从无价值理想的角度来看，女性主义价值恰恰是应该被排除的价值。
 
-因此，我们看到在 1990 年代的女性主义认识论和科学哲学的哲学讨论中引发了无价值理想。例如，苏珊·哈克（Haack 1993: 32）将女性主义认识论描述为“在其本质上不协调”（Haack 1993: 32; 类似观点见 Pinnick 1994）。作为回应，1990 年代的女性主义科学哲学被制定为对抗这一指控的辩护，即放弃无价值理想将会破坏科学的客观性并导致有害的相对主义。
+因此，我们看到在 1990 年代的女性主义认识论和科学哲学的哲学讨论中引发了无价值理想。例如，苏珊 · 哈克（Haack 1993: 32）将女性主义认识论描述为“在其本质上不协调”（Haack 1993: 32; 类似观点见 Pinnick 1994）。作为回应，1990 年代的女性主义科学哲学被制定为对抗这一指控的辩护，即放弃无价值理想将会破坏科学的客观性并导致有害的相对主义。
 
 Critiques like Haack’s and Pinnick’s mischaracterized at least some feminist philosophy of science and science studies from this period. Not all feminists were arguing for a radical rethinking of science and most were committed to maintaining some notion of objectivity and resisting relativism. Harding described those who believed that science was fundamentally sound and feminist goals could be achieved through eliminating bias “feminist empiricists” (Harding 1986). The view is not, prima facie, implausible. Consider the cases discussed in [section 1.2](https://plato.stanford.edu/entries/feminist-science/#ScieStudWome) from economics, medicine, and political science. The idea that unpaid domestic work should figure in economic analysis could be described as contributing to a more empirically adequate economics. However, such an analysis fails to account for the lack of uptake of feminist critique in the broader discipline.
 
@@ -120,7 +120,7 @@ Evelyn Fox Keller 提供了以下例子。对卵子/精子繁殖的理解被(错
 
 作为这种投射效应的一个例子，她讨论了失败的超男性假说——即 XYY 男性由于拥有两个 Y 染色体而具有更多的“男性特质”。超男性被假设为，在其他方面，更具攻击性。他们在精神病和矫正机构中的人数更多似乎支持了这一点。将 Y 染色体的性别化——将其视为具有男性刻板印象的特征——支持了一个有缺陷的传递推理：Y 染色体区分了男性，双 Y 染色体的男性应该具有更多（双重？）男性特质（例如，攻击性）。结果不仅是一个错误的结论，而且是未能检查不支持假设的证据。例如，机构人口中也包含了不成比例的 XXY 男性。使用相同的性别刻板印象推理，这一证据将与超男性假说不一致。最终，由于各种原因，这一假设被证明是错误的，但这种在染色体性别鉴定研究中的“尴尬”只是关于性别假设如何塑造研究对象理解的一个例子。理查森认为，这些研究领域带有“性别倾向”—对主题进行更微妙的投射性别化，比通常所说的“性别偏见”更加微妙。
 
-隐喻并非唯一的投射途径。假定男性和女性的经验相似，并进一步假定男性的经验是标准的，是另一种途径。伊丽莎白·劳埃德（Lloyd 2005）对女性性高潮的解释案例进行了深入研究，说明这种假设可能阻止了相关证据的考虑。她检查了 21 个提出进化解释女性性高潮的假设，这似乎是一个反常现象，因为它似乎对繁殖并非必要。其中，只有一个（唐纳德·赛蒙斯于 1979 年提出的副产品解释）包含了一个关键证据，即许多女性在性交中不会经历高潮，而许多女性在没有性交的情况下会经历高潮。
+隐喻并非唯一的投射途径。假定男性和女性的经验相似，并进一步假定男性的经验是标准的，是另一种途径。伊丽莎白 · 劳埃德（Lloyd 2005）对女性性高潮的解释案例进行了深入研究，说明这种假设可能阻止了相关证据的考虑。她检查了 21 个提出进化解释女性性高潮的假设，这似乎是一个反常现象，因为它似乎对繁殖并非必要。其中，只有一个（唐纳德 · 赛蒙斯于 1979 年提出的副产品解释）包含了一个关键证据，即许多女性在性交中不会经历高潮，而许多女性在没有性交的情况下会经历高潮。
 
 她审查了这些记载，并确定了两个背景假设，这些假设贯穿了除了 Symons 之外的所有记载。它们是：适应主义假设，即（适应主义假设）。
 
@@ -146,7 +146,7 @@ and
 
 一些女性主义者对传统研究方法是否能够解决女性主义兴趣和目标持怀疑态度。但其他人选择使用传统方法来支持这些目标。因此，对女性主义社会科学的审查并没有理由认为有任何特定的方法是独特的女性主义。事实上，女性主义研究通常使用多种方法或“混合方法”——通常是在单个研究项目中同时使用定性和定量方法。尽管如此，有一些方法论要素似乎确实是独特的女性主义。其中最显著的是核心承诺“从女性的生活出发”——她们的生活经验。
 
-研究应该从被研究者的生活经验出发的观念暗示了一种人种学方法，也许正因为这个原因，女性主义者被认为更倾向于使用定性方法。但频繁使用支持女性主义目标的统计（定量）方法与这一观念相矛盾。朗达·席宾格（Schiebinger）提供了一则关于灵长类动物学的例子。上世纪 70 年代，琼·奥尔特曼（Altmann，1974）采用了代表性抽样技术，有效改变了研究方法。这种方法所取代的机会性抽样未能记录灵长类动物行为的频率和持续时间，因此给出了一个扭曲的灵长类动物生活画面，强调了围绕繁殖和雄性冲突的高潮事件，而忽视了群体和家庭生活中雌性的作用（Schiebinger，1999：7）。
+研究应该从被研究者的生活经验出发的观念暗示了一种人种学方法，也许正因为这个原因，女性主义者被认为更倾向于使用定性方法。但频繁使用支持女性主义目标的统计（定量）方法与这一观念相矛盾。朗达 · 席宾格（Schiebinger）提供了一则关于灵长类动物学的例子。上世纪 70 年代，琼 · 奥尔特曼（Altmann，1974）采用了代表性抽样技术，有效改变了研究方法。这种方法所取代的机会性抽样未能记录灵长类动物行为的频率和持续时间，因此给出了一个扭曲的灵长类动物生活画面，强调了围绕繁殖和雄性冲突的高潮事件，而忽视了群体和家庭生活中雌性的作用（Schiebinger，1999：7）。
 
 社会科学中数量方法的兴起与通过数字表示可以实现更大客观性的观念相关联（参见 Porter 1995 年对这一观点的历史描述）。数量方法更为客观的概念再次紧密联系于将科学视为无价值观和希望使社会科学更“科学”的理解。相比之下，像民族志研究中涉及的定性方法——访谈、参与观察等——似乎更容易受主观性影响。对女性主义方法论是什么，它与方法选择的关系以及这与认识论承诺有何关联的更准确理解，需要比方法中的数量/定性分歧所能提供的更细致的描述。
 
@@ -158,9 +158,9 @@ and
 
 斯普雷格（Sprague）指出，定性方法通常被认为更适合挑战那些明显体现在“社会等级制度的负面”中的不平等现象，即那些研究对象的生活（Sprague 2016: 140）。作为女性主义者进行科学研究意味着关注性别如何构建社会中权力分配的差异，从而影响到知识生产手段的获取。我们可以在那些被边缘化的人的隐形化、他们声音被压制以及未能承认他们为可信的认识主体等方面看到这一点，这些都是认识不义的各种形式（参见女性主义社会认识论，还有弗里克尔（Fricker）2007；多特森（Dotson）2011；梅迪纳（Medina）2013）。虽然斯普雷格详细介绍的女性主义承诺与女性主义研究人员不受限于任何特定方法的想法是一致的，但从女性的生活出发，当这些生活不是在那些正在产生知识或在知识的产生中被倾听的人群中时，研究人员应该考虑他们的方法是否能够使生活经验被认可为证据。因此，女性主义方法论要求有意识地选择方法，即要意识到这些方法在与被研究者的生活以及研究者的女性主义承诺和目标相关的优势和劣势。女性主义方法论因此在某种程度上是自我反思的，方法的适用性应始终被考虑。
 
-这并不令人惊讶的是，方法论的辩论与更多女性进入社会科学领域同时发生，她们发现她们接受过的工具并不总是足够。在社会学中，我们看到了几个例子。女性主义社会学家玛格丽特·德瓦尔特改变了她的采访转录实践，拒绝了她曾经被教导的传统实践，当她开始相信那些她采访对象回答时的犹豫、"嗯"和"你知道的"是相关证据时。传统上，这些内容在转录中会被消除或平滑处理，但德瓦尔特发现它们经常标志着需要回头再谈的话题，并反映了与她正在调查的研究问题相关的情感因素（DeVault 1999: 78）。德瓦尔特从她研究的女性生活出发，正如立场方法论所倡导的那样，她关注她们生活中的情感价值（参见第 4.3 节关于立场理论）。她根据这一指导方法选择并调整她的方法。
+这并不令人惊讶的是，方法论的辩论与更多女性进入社会科学领域同时发生，她们发现她们接受过的工具并不总是足够。在社会学中，我们看到了几个例子。女性主义社会学家玛格丽特 · 德瓦尔特改变了她的采访转录实践，拒绝了她曾经被教导的传统实践，当她开始相信那些她采访对象回答时的犹豫、"嗯" 和 "你知道的" 是相关证据时。传统上，这些内容在转录中会被消除或平滑处理，但德瓦尔特发现它们经常标志着需要回头再谈的话题，并反映了与她正在调查的研究问题相关的情感因素（DeVault 1999: 78）。德瓦尔特从她研究的女性生活出发，正如立场方法论所倡导的那样，她关注她们生活中的情感价值（参见第 4.3 节关于立场理论）。她根据这一指导方法选择并调整她的方法。
 
-社会学家多萝西·史密斯（Dorothy Smith）和帕特里夏·希尔·柯林斯（Patricia Hill Collins）也主张立场方法论。史密斯指出，被研究对象的生活经验与社会学规定的概念和方法之间存在不匹配。她将这种紧张称为产生“断裂线”，并敦促批判性女性主义社会学家重新思考实践，以更好地捕捉经验。史密斯将这描述为对日常生活进行问题化，结果是被视为“自然”的事物被重新评估和重新解释（Smith 1987）。柯林斯采用类似的方法——从她研究的非裔美国社区妇女的生活出发——发现既非主流社会学解释，也非标准（白人）女性主义方法符合她研究对象的经验，也不应该认为她们都有相同的经验（Collins 1990 [2000/2009]）。因此，女性主义方法论的自我反思性引导研究者质疑工具（方法）、支持知识的假设（认识论）以及关于研究对象性质的标准假设（本体论）。
+社会学家多萝西 · 史密斯（Dorothy Smith）和帕特里夏 · 希尔 · 柯林斯（Patricia Hill Collins）也主张立场方法论。史密斯指出，被研究对象的生活经验与社会学规定的概念和方法之间存在不匹配。她将这种紧张称为产生“断裂线”，并敦促批判性女性主义社会学家重新思考实践，以更好地捕捉经验。史密斯将这描述为对日常生活进行问题化，结果是被视为“自然”的事物被重新评估和重新解释（Smith 1987）。柯林斯采用类似的方法——从她研究的非裔美国社区妇女的生活出发——发现既非主流社会学解释，也非标准（白人）女性主义方法符合她研究对象的经验，也不应该认为她们都有相同的经验（Collins 1990 [2000/2009]）。因此，女性主义方法论的自我反思性引导研究者质疑工具（方法）、支持知识的假设（认识论）以及关于研究对象性质的标准假设（本体论）。
 
 方法并非中立。它们携带着关于如何产生知识（认识论）以及它们被用来探索的世界（本体论）的假设。如果这些假设存在缺陷或不足以支持研究目标，那么可能导致未能考虑适当的证据，从而扭曲研究结果和解释。当研究人员利用多种方法时，他们更有可能深思各种技术的利弊，并反思自己的假设。
 
@@ -182,15 +182,15 @@ Sandra Harding (1986)将女性主义科学哲学划分为三种方法：女性�
 
 女性主义科学哲学家解释科学中价值观作用的一种方式是通过经验主义整体论。正如 Miriam Solomon 所指出的，许多女性主义经验主义者受到二十世纪下半叶的美国实用主义者的影响，特别是 Wilfred Sellars，Willard van Orman Quine 和 Donald Davidson。由此影响产生的相似之处包括他们对科学哲学的自然化方法，即他们基于他们关注的科学的知识实践来阐述。他们是经验主义者，将经验视为我们信念的最终仲裁者；他们是整体主义者，认为信念应当整体回应经验——用 Quine 的话说，作为一个“信念网络”，而不是逐个。
 
-林·汉金森·纳尔逊（1990）在承认她对奎因的债务时非常明确，而其他人则没有那么明显。Longino 的语境经验主义在其他地方有详细讨论（请参见女性主义认识论和科学哲学、女性主义社会认识论、科学知识的社会维度的条目，以及在本条目的第 4.2 节中简要讨论），是这些方法中最有影响力的之一，与其他经验主义方法有明显不同，尤其是在她赋予价值观的角色以及她认为应该如何裁决价值观差异方面（Longino 1990，2002）。其他版本的整体主义出现在林·汉金森·纳尔逊（1990）、伊丽莎白·安德森（1995a，2004）和莎琳·克劳（2003a，2003b，2012）的作品中，他们都认为价值观应该回应经验证据，与 Longino 不同。所罗门将后一种方法称为“女性主义激进经验主义”（Solomon 2012：435）。
+林 · 汉金森 · 纳尔逊（1990）在承认她对奎因的债务时非常明确，而其他人则没有那么明显。Longino 的语境经验主义在其他地方有详细讨论（请参见女性主义认识论和科学哲学、女性主义社会认识论、科学知识的社会维度的条目，以及在本条目的第 4.2 节中简要讨论），是这些方法中最有影响力的之一，与其他经验主义方法有明显不同，尤其是在她赋予价值观的角色以及她认为应该如何裁决价值观差异方面（Longino 1990，2002）。其他版本的整体主义出现在林 · 汉金森 · 纳尔逊（1990）、伊丽莎白 · 安德森（1995a，2004）和莎琳 · 克劳（2003a，2003b，2012）的作品中，他们都认为价值观应该回应经验证据，与 Longino 不同。所罗门将后一种方法称为“女性主义激进经验主义”（Solomon 2012：435）。
 
 由于清楚地表明有问题的性别歧视价值观可能扭曲科学（请参见第 2 节中先前讨论的示例），女性主义者探讨价值观在科学中的作用的许多工作更多地集中在合法和非法使用价值观之间的区别，以及价值观本身的合法性。
 
-安德森认为，价值观在非教条地使用时是合法的。她举例说明了对阿比盖尔·斯图尔特等人（1997 年）关于离婚的研究（安德森 2004 年）进行分析，这项研究明确受到女性主义价值观的指导。根据安德森的观点，斯图尔特及其研究团队带入调查的价值观是那种可以回答经验证据的价值观——即情感状态的证据。
+安德森认为，价值观在非教条地使用时是合法的。她举例说明了对阿比盖尔 · 斯图尔特等人（1997 年）关于离婚的研究（安德森 2004 年）进行分析，这项研究明确受到女性主义价值观的指导。根据安德森的观点，斯图尔特及其研究团队带入调查的价值观是那种可以回答经验证据的价值观——即情感状态的证据。
 
 安德森研究了背景价值观在斯图尔特等人研究的各个阶段起到作用：研究问题的构建、对研究对象的理解、决定收集哪些数据、数据的生成和抽样、数据分析，包括分析技术的选择，何时结束数据分析以及得出什么结论。为了说明，只考虑这些阶段中的一个——价值观如何影响对研究对象的理解。
 
-在研究离婚的情况下，有许多需要考虑的对象，但其中突出的是“离婚”和“家庭”。斯图尔特的研究团队将这些研究对象确定为“厚厚地”描述——意味着价值观被纳入到描述中。安德森指出，例如，斯图尔特的团队对离婚的理解融入了与朱迪丝·沃勒斯坦和琼·凯利的研究（沃勒斯坦和凯利，1980 年）中使用的不同价值观。对于沃勒斯坦和凯利来说，失去和创伤是离婚的基本方面。相比之下，斯图尔特的团队认为离婚是适应新状态的过程。在这种替代理解中，离婚不是被视为一次性事件，而是作为一个持续的生活调整。这种框架也将调整过程视为开放式的，允许积极和消极的影响。沃勒斯坦和凯利将离婚框定为创伤或损失，要求研究人员专注于负面影响，从而塑造了数据收集。两项研究都融入了价值观，然而只有斯图尔特等人的价值观被明确承认并自觉存在，因此可以接受经验检验。
+在研究离婚的情况下，有许多需要考虑的对象，但其中突出的是“离婚”和“家庭”。斯图尔特的研究团队将这些研究对象确定为“厚厚地”描述——意味着价值观被纳入到描述中。安德森指出，例如，斯图尔特的团队对离婚的理解融入了与朱迪丝 · 沃勒斯坦和琼 · 凯利的研究（沃勒斯坦和凯利，1980 年）中使用的不同价值观。对于沃勒斯坦和凯利来说，失去和创伤是离婚的基本方面。相比之下，斯图尔特的团队认为离婚是适应新状态的过程。在这种替代理解中，离婚不是被视为一次性事件，而是作为一个持续的生活调整。这种框架也将调整过程视为开放式的，允许积极和消极的影响。沃勒斯坦和凯利将离婚框定为创伤或损失，要求研究人员专注于负面影响，从而塑造了数据收集。两项研究都融入了价值观，然而只有斯图尔特等人的价值观被明确承认并自觉存在，因此可以接受经验检验。
 
 安德森评价斯图尔特等人的工作更好，因为它在经验上更充分。
 
@@ -202,11 +202,11 @@ Sharyn Clough 也主张价值在科学中有合法的作用，认为它们受到
 
 对于安德森（Anderson）和克劳夫（Clough）来说，以这种方式纳入科学的价值观是整个理论的一部分，可以作为经验测试的对象。由于研究依赖于这些价值观，当证据支持该描述为更优越时，也证实了该描述所包含的价值观。科学的客观性并未因价值观的纳入而受到威胁，因为整体描述仍然受到经验证据的约束。
 
-女性主义激进经验主义整体论述，如安德森（Anderson）和克劳（Clough）的观点提出了挑战。所罗门（Solomon）质疑是否任何单一的价值观方法能够提供对价值观在科学中适当发挥作用的多种方式的解释。她认为价值观并非一种类型，因此，当相关时（她指出它们可能并不总是相关），它们可能以不同方式相关，在知识生产中发挥不同的作用（Solomon 2012: 446）。奥德丽·雅普（Audrey Yap）担心一些价值观可能不会像安德森和克劳的观点似乎要求的那样对证据敏感（Yap 2016）。其他女性主义经验主义方法，如海伦·朗吉诺（Helen Longino）在下一节简要讨论的情境经验主义，可能避免了这些担忧。
+女性主义激进经验主义整体论述，如安德森（Anderson）和克劳（Clough）的观点提出了挑战。所罗门（Solomon）质疑是否任何单一的价值观方法能够提供对价值观在科学中适当发挥作用的多种方式的解释。她认为价值观并非一种类型，因此，当相关时（她指出它们可能并不总是相关），它们可能以不同方式相关，在知识生产中发挥不同的作用（Solomon 2012: 446）。奥德丽 · 雅普（Audrey Yap）担心一些价值观可能不会像安德森和克劳的观点似乎要求的那样对证据敏感（Yap 2016）。其他女性主义经验主义方法，如海伦 · 朗吉诺（Helen Longino）在下一节简要讨论的情境经验主义，可能避免了这些担忧。
 
 ### 客观性
 
-对科学客观性的承诺以及将客观性与无价值理想联系在一起的做法是许多科学哲学家难以接受女性主义价值观可能对科学做出建设性贡献的原因之一。但正如劳埃德（1995）所指出的，"客观性"的含义是复杂的、不稳定的，因此远非清晰明了。在一个哲学图景中，“客观性”表征了认识者与独立存在的现实之间的关系；在方法上，认识者必须保持客观，因为对特定信念的投入或对某种观点的依恋（“偏见”）“可能会妨碍知识的自由获取和对（独立）现实的正确表达...”。根据劳埃德的分析，问题在于声称这种“客观”现实——她所称的“真实真实”——是通过客观方法的应用而“收敛”的。真实真实是可以被认识的，因为使用这些客观方法并且适当保持客观或不感兴趣的人可以公开访问它。正如劳埃德指出的那样，这种观点假定（a）真实真实完全独立于我们；因此，（b）对这种现实的客观知识需要一种被客观方法所表征的“客观方法”，因为（c）依恋或观点可能会干扰我们与希望了解的现实的独立性，而（d）这种现实是公开可访问的，如果它确实是可访问的话（劳埃德 1995：354-356）。这些假设各自存在问题，本节和第 4.3 节将对其进行讨论。
+对科学客观性的承诺以及将客观性与无价值理想联系在一起的做法是许多科学哲学家难以接受女性主义价值观可能对科学做出建设性贡献的原因之一。但正如劳埃德（1995）所指出的，"客观性" 的含义是复杂的、不稳定的，因此远非清晰明了。在一个哲学图景中，“客观性”表征了认识者与独立存在的现实之间的关系；在方法上，认识者必须保持客观，因为对特定信念的投入或对某种观点的依恋（“偏见”）“可能会妨碍知识的自由获取和对（独立）现实的正确表达...”。根据劳埃德的分析，问题在于声称这种“客观”现实——她所称的“真实真实”——是通过客观方法的应用而“收敛”的。真实真实是可以被认识的，因为使用这些客观方法并且适当保持客观或不感兴趣的人可以公开访问它。正如劳埃德指出的那样，这种观点假定（a）真实真实完全独立于我们；因此，（b）对这种现实的客观知识需要一种被客观方法所表征的“客观方法”，因为（c）依恋或观点可能会干扰我们与希望了解的现实的独立性，而（d）这种现实是公开可访问的，如果它确实是可访问的话（劳埃德 1995：354-356）。这些假设各自存在问题，本节和第 4.3 节将对其进行讨论。
 
 第一个假设是，真正的真实完全独立于我们，未能承认除了“现实的阻力”之外，社会文化因素“在知识和概念形成的发展中必然参与其中”。人类学家几乎一致认为，“性别和性别角色奠定了每个人类社会其他社会实践的基础”，因此，任何将社会利益和价值作为知识获取的一部分的认识论或科学哲学都应包括与性别和性别相关的价值和利益（Lloyd 1995: 373 和 367-368）。
 
@@ -218,7 +218,7 @@ Sharyn Clough 也主张价值在科学中有合法的作用，认为它们受到
 
 因此，劳埃德和安德森认为公正是客观性的关键特征，正如莱西（Lacey 1999: 78）所认为的那样。然而，正如第 4.1 节所指出的，安德森认为至少一些价值判断要回应经验证据，因此它们可能合理地作为评估考虑中的假设证据的背景理论的一部分。这一认识迫使我们重新评估公正的理想——背景理论可能影响我们对证据的评估，因此我们必须准备确定这种影响何时是有害的，何时是有益的。正如我们所看到的，安德森通过检查价值对证据的响应程度来区分这一点，也就是说，它们被持有的非教条性程度。为了达到研究人员公正的理想，必须考虑所有证据。由于一些证据要么具有价值取向，要么支持指导研究问题的价值观，因此公正的科学不必是中立的。
 
-女性主义价值观的许多工作受到海伦·朗吉诺（Helen Longino）的情境经验主义的影响（参见女性主义认识论和科学哲学、女性主义社会认识论以及科学知识的社会维度的条目）。朗吉诺运用库恩的理论来论证理论受证据不确定性的影响，她认为，由于经验证据永远无法完全确定我们应该接受任何特定理论，情境价值观（社会、道德、政治和文化）可能通过“填补这一空白”在该决定中发挥作用，因此所罗门将这一版本的女性主义经验主义称为“空白女性主义经验主义”（Solomon 2012: 436）。因此，朗吉诺强调证据是相对于评估理论的情境价值观而言的。因此，科学理论在莱西（Lacey）的意义上并不是中立的；它预设了某些社会和政治价值观，这些价值观是评估理论的背景假设之一——即其情境。因此，科学理论在传统意义上并不是客观的，因为它需要中立性。对于朗吉诺来说，它也不是公正的，因为社会和政治价值观可以在理论接受中发挥作用，而且通常确实会发挥作用。
+女性主义价值观的许多工作受到海伦 · 朗吉诺（Helen Longino）的情境经验主义的影响（参见女性主义认识论和科学哲学、女性主义社会认识论以及科学知识的社会维度的条目）。朗吉诺运用库恩的理论来论证理论受证据不确定性的影响，她认为，由于经验证据永远无法完全确定我们应该接受任何特定理论，情境价值观（社会、道德、政治和文化）可能通过“填补这一空白”在该决定中发挥作用，因此所罗门将这一版本的女性主义经验主义称为“空白女性主义经验主义”（Solomon 2012: 436）。因此，朗吉诺强调证据是相对于评估理论的情境价值观而言的。因此，科学理论在莱西（Lacey）的意义上并不是中立的；它预设了某些社会和政治价值观，这些价值观是评估理论的背景假设之一——即其情境。因此，科学理论在传统意义上并不是客观的，因为它需要中立性。对于朗吉诺来说，它也不是公正的，因为社会和政治价值观可以在理论接受中发挥作用，而且通常确实会发挥作用。
 
 Longino 提出了对客观性的另一种理解。科学的社会性为“变革性批评”提供了机会。这种批评要求遵守社会规范：公认的用于批评证据、方法和假设以及推理的论坛；接受批评，这要求社区不仅仅容忍异议，而且随着批评性对话的发展随时间改变其信念和理论；公认的标准，通过这些标准评估理论、假设和观察实践，并通过对批评的诉诸使其与探究社区的目标相关；最后，社区必须以智力权威的温和平等为特征（Longino 1993, 2002）。Longino 认为，当科学按照这些规范进行时，它平衡了偏见，因此在实现这些规范的程度上是客观的。但它既不中立也不公正，因为科学理论受到塑造确定证据相关性背景的价值观的影响。
 
@@ -226,7 +226,7 @@ Longino 提出了对客观性的另一种理解。科学的社会性为“变革
 
 尽管存在各种立场理论，但它们的共同点包括对以下三个命题的认可：处境知识命题、认识特权命题和成就命题（Wylie 2003; Rolin 2009; Intemann 2010; Crasnow 2013, 2014）。处境知识命题基于这样的理解：知识是由一组特定社会处境的认知者所拥有和创造的，因此总是局部的——一个由这些设置中固有的权力关系所特征化的文化/社会/政治“位置”。权力的差异分布和利益的差异密切相关，因此提出的问题以及回答这些问题所需的世界特征会根据位置的不同而变化。最显著的差异之一是与主导群体的利益相冲突的差异。因此，处境知识和社会位置的隐喻引发了女性主义立场理论的一个关键观念——研究者作为内部/外部人的“双重视角”观念。她可以接触到被研究对象的生活经验以及正在进行研究的主导文化（学者们）。正是这种双重视角有助于认识到主导框架的局限性。
 
-帕特里夏·希尔·柯林斯（1986 年）例如，主张使用立场来分析种族和阶级。她认为，被边缘化的研究者可能会意识到许多学科采用的概念和程序存在问题，而她的同事却没有意识到，正是因为她通过自己的学科研究传统和自身边缘社会地位的经验理解研究对象。正是这种双重视角使得社会科学家对导致第 2 节和第 3 节讨论中概念和方法转变的故障线变得敏感。
+帕特里夏 · 希尔 · 柯林斯（1986 年）例如，主张使用立场来分析种族和阶级。她认为，被边缘化的研究者可能会意识到许多学科采用的概念和程序存在问题，而她的同事却没有意识到，正是因为她通过自己的学科研究传统和自身边缘社会地位的经验理解研究对象。正是这种双重视角使得社会科学家对导致第 2 节和第 3 节讨论中概念和方法转变的故障线变得敏感。
 
 女性主义立场理论的认知特权论题是其中一个更具争议的组成部分。许多对这一观点的批评源于对认知特权的错误理解，将其视为自动的。正如因特曼所指出的那样，如果这是女性主义立场理论的主张，那么这一观点要么是平凡的，要么是错误的（因特曼，2010）。但女性主义立场理论并不致力于仅仅声称只有那些经历过特定经历的人才知道那种经历是什么样的。它也不会明显错误地声称任何女性都可以自动了解所有其他女性的经历。这样的主张将依赖于对女性经历的某种相同性的预设——这种预设不仅是错误的，而且在问题上是有问题的，因为它抹去了种族、阶级、残疾、性取向和性别认同在女性经历中造成的差异。
 
@@ -242,7 +242,7 @@ Harding 已经多次讨论了客观性的问题，最近在 Harding 2015 中，�
 
 > …[A] 从那些生活被这些社区边缘化的人的视角来看，对科学家及其社区进行最大程度的批判性研究才能实现。因此，强大客观性要求科学家及其社区出于科学和认识论原因以及道德和政治原因融入推动民主的项目中。（Harding 2004a: 136）
 
-艾莉森·怀利（2003）提出了一个关于如何理解女性主义立场能够产生客观性的替代性观点。她的方法也代表了女性主义认识论领域的转变，模糊了女性主义经验主义和女性主义立场理论之间的界限（Intemann 2010）。怀利指出，“客观性”经常被用来表示理论与世界之间的关系，因此被确定为知识主张的属性。她提出，我们应该将客观性看作这些主张符合某一套认识美德标准的程度。她提出了经验充分性、解释力、内在连贯性、与其他已建立的知识体系一致性，尽管她指出，可能还有其他一些列表同样适用。这些理论美德很少会被任何一个理论最大化。因此，研究人员必须就在任何特定知识项目的任何特定时间内哪些美德最重要做出判断。这些判断取决于研究人员和研究社区的兴趣、目的、意图和目标，这可以被视为一种立场。因此，女性主义立场可以通过确定对于特定知识项目而言何种经验充分性、解释力或其他美德是相关的，以及每种美德的相关程度，来提高客观性。
+艾莉森 · 怀利（2003）提出了一个关于如何理解女性主义立场能够产生客观性的替代性观点。她的方法也代表了女性主义认识论领域的转变，模糊了女性主义经验主义和女性主义立场理论之间的界限（Intemann 2010）。怀利指出，“客观性”经常被用来表示理论与世界之间的关系，因此被确定为知识主张的属性。她提出，我们应该将客观性看作这些主张符合某一套认识美德标准的程度。她提出了经验充分性、解释力、内在连贯性、与其他已建立的知识体系一致性，尽管她指出，可能还有其他一些列表同样适用。这些理论美德很少会被任何一个理论最大化。因此，研究人员必须就在任何特定知识项目的任何特定时间内哪些美德最重要做出判断。这些判断取决于研究人员和研究社区的兴趣、目的、意图和目标，这可以被视为一种立场。因此，女性主义立场可以通过确定对于特定知识项目而言何种经验充分性、解释力或其他美德是相关的，以及每种美德的相关程度，来提高客观性。
 
 根据怀尔的观点，科学并非中立（价值观影响假设并被其暗示），也并非公正，因为价值观决定了决定客观性的特征中哪些对于任何特定的知识项目来说是最相关的。但公正性并未完全消失，因为所谓的经验并非由价值决定，尽管其相关性是由价值决定的。处于被支配地位的人在某些证据种类及其相关性、特殊的推理启发法以及解释性或说明性假设方面具有认识特权。
 
@@ -266,7 +266,7 @@ Sharon Crasnow (2013, 2014) 提出，尽管异质群体“女性”的利益经�
 
 > 我们认为，酷儿理论通过将批判性关注转向中心和边缘、内部和外部、自然和人工、规范性和偏离的相互依存，从而加深了女性主义对科学的参与。这些术语并非相对立，而是通过特定历史产生的共同纠缠的划分。因此，现在有大量的酷儿作品质疑了正常和异常性别的范畴自然化以及关于性解剖、性别认同、性欲和性别认同的二元概念。（Cipolla, et al. 2017: 12）
 
-安妮·福斯托-斯特林（Anne Fausto-Sterling）对认为存在两性的观念的历史出现进行的研究，展示了启发女性主义科学研究的批判性。她追溯了这种特定的二元性到科学在 19 世纪开始决定两性人的命运的日益参与。这一发展在一定程度上是性学作为科学研究的一个适当主题的出现的结果，再加上一种信念，即科学描述自然的真实状态，因此在我们对自然感到不确定时应该求助于科学。福斯托-斯特林指出了这项研究背后的几个值得质疑的假设。第一，科学确实能够就性别认同和性取向问题提供客观性。第二，将人类分类为两性是自然的。她确定的最后一个假设是，科学将通过确定每种两性的定义性或本质特征来在自然中找到这种分类。
+安妮 · 福斯托-斯特林（Anne Fausto-Sterling）对认为存在两性的观念的历史出现进行的研究，展示了启发女性主义科学研究的批判性。她追溯了这种特定的二元性到科学在 19 世纪开始决定两性人的命运的日益参与。这一发展在一定程度上是性学作为科学研究的一个适当主题的出现的结果，再加上一种信念，即科学描述自然的真实状态，因此在我们对自然感到不确定时应该求助于科学。福斯托-斯特林指出了这项研究背后的几个值得质疑的假设。第一，科学确实能够就性别认同和性取向问题提供客观性。第二，将人类分类为两性是自然的。她确定的最后一个假设是，科学将通过确定每种两性的定义性或本质特征来在自然中找到这种分类。
 
 Fausto-Sterling 依次讨论了这些假设。她认为，科学并没有提供关于生物性别的客观描述，因为科学是一种社会和历史的人类活动，许多关于性和性别认同的思考方式都受到了对性别的先行概念的指导（另请参见第 4.2 节中关于客观性的讨论）。作为例证，她考察了女性性别的性别化理解是被动的，以及这种理解如何影响了旨在测试性激素对大鼠性行为影响的实验设计（Fausto-Sterling 2000: 195–232）。这些激素本身被分类为雄性和雌性，尽管它们除了与生殖有关的功能之外还有其他功能，并且尽管它们存在于被识别为雄性和被识别为雌性的个体中。这些实验的结果又被用来对人类的行为和性别提出主张。这种做法存在问题，而且还依赖于从大鼠的行为推理出人类性行为的类比推理。
 
@@ -288,7 +288,7 @@ Karen Barad 的工作旨在纠正这一点，发展了她所称之为“行动�
 
 这样的模式可能涉及或不涉及人类，然而这些实践构成了“人类与非人类、文化与自然、科学与社会之间的边界” (Barad 2007: 140)。
 
-巴拉德对“衍射图案”的隐喻源自唐娜·哈拉维（特别是参见哈拉维 1992 年），她提出衍射作为对反射隐喻的替代。虽然两者都是光学隐喻，但巴拉德指出，反射强调相同之处，因此唤起本质主义——发现调查对象中相同之处。衍射关注差异，并将研究者引向追踪这些差异的历史，而不是将其塞入预设的二元对立中（巴拉德 2007 年：29-30）。巴拉德将了解物质世界的这一过程描述为“内部作用”，而不是互动。这样做，她强调，代理权不是一种属性——某人所拥有的东西——而是参与构成物质性的迭代实践（巴拉德 2007 年：178）。对于巴拉德来说，这种内部作用意味着科学、本体论、认识论和伦理学的不可分割性，因此贯穿新唯物主义的“物质”双关语。我们的实践在于产生影响，并参与塑造和重塑物质世界。
+巴拉德对“衍射图案”的隐喻源自唐娜 · 哈拉维（特别是参见哈拉维 1992 年），她提出衍射作为对反射隐喻的替代。虽然两者都是光学隐喻，但巴拉德指出，反射强调相同之处，因此唤起本质主义——发现调查对象中相同之处。衍射关注差异，并将研究者引向追踪这些差异的历史，而不是将其塞入预设的二元对立中（巴拉德 2007 年：29-30）。巴拉德将了解物质世界的这一过程描述为“内部作用”，而不是互动。这样做，她强调，代理权不是一种属性——某人所拥有的东西——而是参与构成物质性的迭代实践（巴拉德 2007 年：178）。对于巴拉德来说，这种内部作用意味着科学、本体论、认识论和伦理学的不可分割性，因此贯穿新唯物主义的“物质”双关语。我们的实践在于产生影响，并参与塑造和重塑物质世界。
 
 ## 最近的研究领域：大脑与人类行为
 
@@ -338,130 +338,130 @@ Jordan-Young 使用了类似于前几节中描述的女性主义批判模式。�
 
 ### Sources Cited
 
-* Alcoff, Linda and Elizabeth Potter (eds.), 1993, *Feminist Epistemologies*, New York: Routledge. doi:10.4324/9780203760093
-* Altmann, Jeanne, 1974, “Observational Study of Behavior: Sampling Methods”, *Behaviour*, 49(3–4): 227–266. doi:10.1163/156853974X00534
+* Alcoff, Linda and Elizabeth Potter (eds.), 1993, *Feminist Epistemologies*, New York: Routledge. doi: 10.4324/9780203760093
+* Altmann, Jeanne, 1974, “Observational Study of Behavior: Sampling Methods”, *Behaviour*, 49(3–4): 227–266. doi: 10.1163/156853974X00534
 * American Association of University Women (AAUW), 2010, *Why So Few? Women in Science, Technology, Engineering, and Mathematics*, Washington, DC: American Association of University Women.
-* Anderson, Elizabeth, 1995a, “Feminist Epistemology: An Interpretation and a Defense”, *Hypatia*, 10(3): 50–84. doi:10.1111/j.1527-2001.1995.tb00737.x
-* –––, 1995b, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”:, *Philosophical Topics*, 23(2): 27–58. doi:10.5840/philtopics199523213
-* –––, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi:10.1111/j.1527-2001.2004.tb01266.x
-* Bairey Merz, C. Noel, Holly Andersen, Emily Sprague, Adam Burns, Mark Keida, Mary Norine Walsh, Phyllis Greenberger, Susan Campbell, Irene Pollin, Cassandra McCullough, et al., 2017, “Knowledge, Attitudes, and Beliefs Regarding Cardiovascular Disease in Women”, *Journal of the American College of Cardiology*, 70(2): 123–132. doi:10.1016/j.jacc.2017.05.024
+* Anderson, Elizabeth, 1995a, “Feminist Epistemology: An Interpretation and a Defense”, *Hypatia*, 10(3): 50–84. doi: 10.1111/j.1527-2001.1995.tb00737.x
+* –––, 1995b, “Knowledge, Human Interests, and Objectivity in Feminist Epistemology”:, *Philosophical Topics*, 23(2): 27–58. doi: 10.5840/philtopics199523213
+* –––, 2004, “Uses of Value Judgments in Science: A General Argument, with Lessons from a Case Study of Feminist Research on Divorce”, *Hypatia*, 19(1): 1–24. doi: 10.1111/j.1527-2001.2004.tb01266.x
+* Bairey Merz, C. Noel, Holly Andersen, Emily Sprague, Adam Burns, Mark Keida, Mary Norine Walsh, Phyllis Greenberger, Susan Campbell, Irene Pollin, Cassandra McCullough, et al., 2017, “Knowledge, Attitudes, and Beliefs Regarding Cardiovascular Disease in Women”, *Journal of the American College of Cardiology*, 70(2): 123–132. doi: 10.1016/j.jacc.2017.05.024
 * Barad, Karen, 2007, *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*, Durham, NC: Duke University Press.
-* Barker, Drucilla K., 1995, “Economists, Social Reformers, and Prophets: A Feminist Critique of Economic Efficiency”, *Feminist Economics*, 1(3): 26–39. doi:10.1080/714042247
+* Barker, Drucilla K., 1995, “Economists, Social Reformers, and Prophets: A Feminist Critique of Economic Efficiency”, *Feminist Economics*, 1(3): 26–39. doi: 10.1080/714042247
 * Barker, Drucilla K. and Edith Kuiper, 2003, *Towards a Feminist Philosophy of Economics*, London/New York: Routledge.
 * Baron-Cohen, Simon, 2003, *The Essential Difference: Men, Women and the Extreme Male Brain*, London: Allen Lane.
-* Bluhm, Robyn, Anne Jaap Jacobson, and Heidi Lene Maibom (eds), 2012, *Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science*, London: Palgrave Macmillan UK. doi:10.1057/9780230368385
-* Bright, Liam Kofi, Daniel Malinsky, and Morgan Thompson, 2016, “Causally Interpreting Intersectionality Theory”, *Philosophy of Science*, 83(1): 60–81. doi:10.1086/684173
+* Bluhm, Robyn, Anne Jaap Jacobson, and Heidi Lene Maibom (eds), 2012, *Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science*, London: Palgrave Macmillan UK. doi: 10.1057/9780230368385
+* Bright, Liam Kofi, Daniel Malinsky, and Morgan Thompson, 2016, “Causally Interpreting Intersectionality Theory”, *Philosophy of Science*, 83(1): 60–81. doi: 10.1086/684173
 * Brister, Evelyn, 2018, “Objectivity in Science”, in Garavaso 2018: 212–235.
 * Cipolla, Cyd, Kristina Gupta, David A. Rubin, and Angela Willey (eds), 2017, *Queer Feminist Science Studies: A Reader*, Seattle, WA: University of Washington Press.
 * Clough, Sharyn, 2003a, *Beyond Epistemology: A Pragmatist Approach to Feminist Science Studies*, Lanham, MD: Rowman and Littlefield.
 * –––, 2003b, “Introduction”, in *Siblings Under the Skin: Feminism, Social Justice and Analytic Philosophy*, Sharyn Clough (ed.), Aurora, CO: Davies Group Publishers.
-* –––, 2011, “Gender and the Hygiene Hypothesis”, *Social Science & Medicine*, 72(4): 486–493. doi:10.1016/j.socscimed.2010.11.021
+* –––, 2011, “Gender and the Hygiene Hypothesis”, *Social Science & Medicine*, 72(4): 486–493. doi: 10.1016/j.socscimed.2010.11.021
 * –––, 2012, “The Analytic Tradition, Radical (Feminist) Interpretation, and the Hygiene Hypothesis”, in Crasnow and Superson 2012: 405–434.
-* Clough, Sharyn and William E. Loges, 2008, “Racist Value Judgments as Objectively False Beliefs: A Philosophical and Social-Psychological Analysis”, *Journal of Social Philosophy*, 39(1): 77–95. doi:10.1111/j.1467-9833.2007.00412.x
-* Collins, Patricia Hill, 1986, “Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought”, *Social Problems*, 33(6): S14–S32. doi:10.2307/800672
+* Clough, Sharyn and William E. Loges, 2008, “Racist Value Judgments as Objectively False Beliefs: A Philosophical and Social-Psychological Analysis”, *Journal of Social Philosophy*, 39(1): 77–95. doi: 10.1111/j.1467-9833.2007.00412.x
+* Collins, Patricia Hill, 1986, “Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought”, *Social Problems*, 33(6): S14–S32. doi: 10.2307/800672
 * –––, 1990 [2000/2009], *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, Boston: Unwin Hyman. Second revised edition, New York: Routledge, 2000/Routledge Classics, 2009.
-* Crasnow, Sharon, 2013, “Feminist Philosophy of Science: Values and Objectivity”, *Philosophy Compass*, 8(4): 413–423. doi:10.1111/phc3.12023
+* Crasnow, Sharon, 2013, “Feminist Philosophy of Science: Values and Objectivity”, *Philosophy Compass*, 8(4): 413–423. doi: 10.1111/phc3.12023
 * –––, 2014, “Feminist Standpoint Theory”, in *Philosophy of Social Science: A New Introduction*, Nancy Cartwright and Eleonora Montuschi (eds), Oxford: Oxford University Press, pp. 145–161.
-* Crasnow, Sharon L. and Anita M. Superson (eds), 2012, *Out from the Shadows: Analytical Contributions to Traditional Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199855469.001.0001
+* Crasnow, Sharon L. and Anita M. Superson (eds), 2012, *Out from the Shadows: Analytical Contributions to Traditional Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199855469.001.0001
 * Crasnow, Sharon, Alison Wylie, Wenda K. Bauchspies, and Elizabeth Potter, 2015 [2018], “Feminist Perspectives on Science”, *The Stanford Encyclopedia of Philosophy* (Spring 2018 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/spr2018/entries/feminist-science/.
 * Dalla Costa, Mariarosa and Selma James, 1972, *The Power of Women and the Subversion of Community*, Bristol, UK: Falling Wall Press.
-* de Melo-Martín, Inmaculada, 2017, *Rethinking Reprogenetics: Enhancing Ethical Analyses of Reprogenetic Technologies*, Oxford: Oxford University Press. doi:10.1093/med/9780190460204.001.0001
+* de Melo-Martín, Inmaculada, 2017, *Rethinking Reprogenetics: Enhancing Ethical Analyses of Reprogenetic Technologies*, Oxford: Oxford University Press. doi: 10.1093/med/9780190460204.001.0001
 * DeVault, Marjorie, 1999, *Liberating Method: Feminism and Social Research*, Philadephia, PA: Temple University Press.
 * D’Ignazio, Catherine and Lauren F. Klein, 2020, *Data Feminism*, Cambridge, MA: Massachusetts Institute of Technology Press.
-* Doell, Ruth G. and Helen E. Longino, 1988, “Sex Hormones and Human Behavior:: A Critique of the Linear Model”, *Journal of Homosexuality*, 15(3–4): 55–78. doi:10.1300/J082v15n03_03
-* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi:10.1111/j.1527-2001.2011.01177.x
+* Doell, Ruth G. and Helen E. Longino, 1988, “Sex Hormones and Human Behavior:: A Critique of the Linear Model”, *Journal of Homosexuality*, 15(3–4): 55–78. doi: 10.1300/J082v15n03_03
+* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi: 10.1111/j.1527-2001.2011.01177.x
 * Dussauge, Isabelle and Anelis Kaiser, 2012, “Re-Queering the Brain”, in Bluhm, Jacobson, and Maibom 2012: 121–144.
 * Eichler, Margrit and Jeanne Lapointe, 1985, *On the Treatment of the Sexes in Research*, Ottawa, ON: Social Sciences and Humanities Research Council of Canada.
-* Elliott, Kevin C., 2017, *A Tapestry of Values: An Introduction to Values in Science*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190260804.001.0001
+* Elliott, Kevin C., 2017, *A Tapestry of Values: An Introduction to Values in Science*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190260804.001.0001
 * Fausto-Sterling, Anne, 2000, *Sexing the Body: Gender Politics and the Construction of Sexuality*, New York: Basic Books.
 * Federici, Silvia, 1975 [2020], “Wages Against Housework”, Bristol, UK: Power of Women Collective and the Falling Wall Press. Reprinted in *Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle*, Oakland, CA: PM Press, pp. 1–18.
-* Fehr, Carla, 2011, “What Is in It for Me? The Benefits of Diversity in Scientific Communities”, in Grasswick 2011: 133–155. doi:10.1007/978-1-4020-6835-5_7
+* Fehr, Carla, 2011, “What Is in It for Me? The Benefits of Diversity in Scientific Communities”, in Grasswick 2011: 133–155. doi: 10.1007/978-1-4020-6835-5_7
 * Feng, Jing, Ian Spence, and Jay Pratt, 2007, “Playing an Action Video Game Reduces Gender Difference in Spatial Cognition”, *Psychological Science*, 10: 850–855. doi: 10.1111/j.1467-9280.2007.01990.x
 * Fine, Cordelia, 2010, *Delusions of Gender: How our Minds, Society, and Neurosexism Create Difference*, New York: Norton.
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
 * Garavaso, Pieranna (ed.), 2018, *The Bloomsbury Companion to Analytic Feminism*, London: Bloomsbury Academic.
-* Grasswick, Heidi E. (ed.), 2011, *Feminist Epistemology and Philosophy of Science: Power in Knowledge*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-6835-5
+* Grasswick, Heidi E. (ed.), 2011, *Feminist Epistemology and Philosophy of Science: Power in Knowledge*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-6835-5
 * Grossi, Giordana and Cordelia Fine, 2012, “The Role of Fetal Testosterone in the Development of the ‘Essential Differences’ Between the Sexes: Some Essential Issues”, in Bluhm, Jacobson, and Maibom 2012: 73–104.
 * Haack, Susan, 1993, “Epistemological Reflections of an Old Feminist”, *Reason Papers*, 18: 31–43. [[Haack 1993 available online](https://reasonpapers.com/pdf/18/rp_18_3.pdf)]
 * Haraway, Donna, 1992, “The Promises of Monsters: A Regenerative Politics for Inappropriate/d Others”, in *Cultural Studies*, Lawrence Grossberg, Cary Nelson, and Paula Treichler (eds), New York: Routledge, pp. 295–337.
 * Harding, Sandra, 1986, *The Science Question in Feminism*, Ithaca NY: Cornell University Press.
 * –––, 1987, “Is There a Feminist Method?” in *Feminism and Methodology: Social Science Issues*, Sandra Harding (ed.), Bloomington, IN: Indiana University Press, pp. 1–14.
 * –––, 2004a, “Rethinking Standpoint Epistemology: What is ‘Strong Objectivity?’”, in Harding (ed.) 2004c: 127–140.
-* –––, 2004b, “A Socially Relevant Philosophy of Science? Resources from Standpoint Theory’s Controversiality”, *Hypatia*, 19(1): 25–47. doi:10.1111/j.1527-2001.2004.tb01267.x
+* –––, 2004b, “A Socially Relevant Philosophy of Science? Resources from Standpoint Theory’s Controversiality”, *Hypatia*, 19(1): 25–47. doi: 10.1111/j.1527-2001.2004.tb01267.x
 * ––– (ed.), 2004c, *The Feminist Standpoint Theory Reader*, New York: Routledge.
 * –––, 2015, *Objectivity and Diversity: Another Logic of Scientific Research*, Chicago, IL: University of Chicago Press.
-* –––, 2017, “Latin American Decolonial Studies: Feminist Issues”, *Feminist Studies*, 43(3): 624–636. doi:10.15767/feministstudies.43.3.0624
-* –––, 2019, “State of the Field: Latin American Decolonial Philosophies of Science”, *Studies in History and Philosophy of Science Part A*, 78: 48–63. doi:10.1016/j.shpsa.2018.10.001
-* Himmelweit, Susan and Simon Mohun, 1977, “Domestic Labour and Capital”, *Cambridge Journal of Economics*, 1(1): 15–31. doi:10.1093/oxfordjournals.cje.a035348
+* –––, 2017, “Latin American Decolonial Studies: Feminist Issues”, *Feminist Studies*, 43(3): 624–636. doi: 10.15767/feministstudies.43.3.0624
+* –––, 2019, “State of the Field: Latin American Decolonial Philosophies of Science”, *Studies in History and Philosophy of Science Part A*, 78: 48–63. doi: 10.1016/j.shpsa.2018.10.001
+* Himmelweit, Susan and Simon Mohun, 1977, “Domestic Labour and Capital”, *Cambridge Journal of Economics*, 1(1): 15–31. doi: 10.1093/oxfordjournals.cje.a035348
 * Hoffman, Ginger, 2012, “What, If Anything, Can Neuroscience Tell Us About Gender Differences?” in Bluhm, Jacobson, and Maibom 2012: 30–55.
-* Intemann, Kristen, 2009, “Why Diversity Matters: Understanding and Applying the Diversity Component of the National Science Foundation’s Broader Impacts Criterion”, *Social Epistemology*, 23(3–4): 249–266. doi:10.1080/02691720903364134
-* –––, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, *Hypatia*, 25(4): 778–796. doi:10.1111/j.1527-2001.2010.01138.x
-* –––, 2011, “Diversity and Dissent in Science: Does Democracy Always Serve Feminist Aims?”, in Grasswick 2011: 111–132. doi:10.1007/978-1-4020-6835-5_6
-* Johnson, Paula A., Sheila E. Widnall, and Frazier F. Benya, (eds), 2018,*Sexual Harassment of Women Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine (2018)*, Washington, DC: The National Academies Press.
+* Intemann, Kristen, 2009, “Why Diversity Matters: Understanding and Applying the Diversity Component of the National Science Foundation’s Broader Impacts Criterion”, *Social Epistemology*, 23(3–4): 249–266. doi: 10.1080/02691720903364134
+* –––, 2010, “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?”, *Hypatia*, 25(4): 778–796. doi: 10.1111/j.1527-2001.2010.01138.x
+* –––, 2011, “Diversity and Dissent in Science: Does Democracy Always Serve Feminist Aims?”, in Grasswick 2011: 111–132. doi: 10.1007/978-1-4020-6835-5_6
+* Johnson, Paula A., Sheila E. Widnall, and Frazier F. Benya, (eds), 2018, *Sexual Harassment of Women Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine (2018)*, Washington, DC: The National Academies Press.
 * Jordan-Young, Rebecca, 2010, *Brain Storm: The Flaws in the Science of Sex Differences,* Cambridge, MA: Harvard University Press.
 * Keller, Evelyn Fox, 1985, *Reflections on Gender and Science*, New Haven: Yale University Press.
 * –––, 2001, “Making a Difference: Feminist Movement and Feminist Critique of Science”, in *Feminism in Twentieth-Century Science, Technology, and Medicine*, Angela N.H. Creager, Elizabeth Lunbeck, and Londa Schiebinger (eds), Chicago: University of Chicago Press, pp. 98–109.
-* Kincaid, Harold, John Dupré, and Alison Wylie (eds), 2007, *Value-Free Science? Ideals and Illusions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195308969.001.0001
-* Kitcher, Philip, 1993, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi:10.1093/0195096533.001.0001
-* –––, 2001, *Science, Truth, and Democracy*, Oxford: Oxford University Press. doi:10.1093/0195145836.001.0001
-* Kourany, Janet A., 2010, *Philosophy of Science after Feminism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199732623.001.0001
+* Kincaid, Harold, John Dupré, and Alison Wylie (eds), 2007, *Value-Free Science? Ideals and Illusions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195308969.001.0001
+* Kitcher, Philip, 1993, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi: 10.1093/0195096533.001.0001
+* –––, 2001, *Science, Truth, and Democracy*, Oxford: Oxford University Press. doi: 10.1093/0195145836.001.0001
+* Kourany, Janet A., 2010, *Philosophy of Science after Feminism*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199732623.001.0001
 * Kuhn, Thomas S., 1962 [1970], *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
 * –––, 1977, *The Essential Tension: Selected Studies in Scientific Tradition and Change*, Chicago: University of Chicago Press.
-* Lacey, Hugh, 1999, *Is Science Value Free? Values and Scientific Understanding*, New York: Routledge. doi:10.4324/9780203983195
+* Lacey, Hugh, 1999, *Is Science Value Free? Values and Scientific Understanding*, New York: Routledge. doi: 10.4324/9780203983195
 * Lévi-Strauss, Claude, 1936, “Contribution a l’étude de l’organisation Sociale des Indiens Bororo”, *Journal de La Société Des Américanistes*, 28(2): 269–304.
-* Lloyd, Elisabeth A., 1995, “Objectivity and the Double Standard for Feminist Epistemologies”, *Synthese*, 104(3): 351–381. doi:10.1007/BF01064505
+* Lloyd, Elisabeth A., 1995, “Objectivity and the Double Standard for Feminist Epistemologies”, *Synthese*, 104(3): 351–381. doi: 10.1007/BF01064505
 * –––, 2005, *The Case of the Female Orgasm: Bias in the Science of Evolution*, Cambridge, MA: Harvard University Press.
 * Longino, Helen E., 1990, *Science as Social Knowledge*, Princeton, NJ: Princeton University Press.
 * –––, 1993, “Subjects, Power, and Knowledge: Description and Prescription in Feminist Philosophies of Science”, in Alcoff and Potter 1993: 101–120.
 * –––, 2002, *The Fate of Knowledge*, Princeton NJ: Princeton University Press.
 * –––, 2013, *Studying Human Behavior: How Scientists Investigate Aggression and Sexuality*, Chicago, IL: Chicago University Press.
-* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199929023.001.0001
+* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199929023.001.0001
 * Merchant, Carolyn, 1980/90, *The Death of Nature: Women, Ecology, and the Scientific Revolution*, New York: Harper and Row.
 * Meynell, Letitia, 2012, “The Politics of Pictured Reality: Locating the Object from Nowhere in fMRI”, in Bluhm, Jacobson, and Maibom 2012: 11–29.
 * MIT, Committee on Women Faculty in the School of Science, 1999, “A Study on the Status of Women Faculty in Science at MIT”, *The MIT Faculty Newsletter*, 11(4). [[MIT 1999 available online](https://web.mit.edu/fnl/women/women.html)]
 * Narayan, Uma, 2004, “The Project of Feminist Epistemology: Perspectives from a Nonwestern Feminist”, in Harding (ed.) 2004c: 213–224.
 * National Science Board, 2018, *Science & Engineering Indicators*, NSB-2018-1. Alexandria, VA: National Science Foundation. [[National Science Board 2018 available online](https://www.nsf.gov/statistics/2018/nsb20181/report)]
 * Nelson, Lynn Hankinson, 1990, *Who Knows: From Quine to a Feminist Empiricism*, Philadelphia: Temple University Press.
-* Oudshoorn, Nelly, 1994, *Beyond the Natural Body: An Archaeology of Sex Hormones*, London: Routledge. doi:10.4324/9780203421529
-* Paxton, Pamela, 2000, “Women’s Suffrage in the Measurement of Democracy: Problems of Operationalization”, *Studies in Comparative International Development*, 35(3): 92–111. doi:10.1007/BF02699767
-* Pinnick, Cassandra L., 1994, “Feminist Epistemology: Implications for Philosophy of Science”, *Philosophy of Science*, 61(4): 646–657. doi:10.1086/289827
-* –––, 2005, “The Failed Feminist Challenge to ‘Fundamental Epistemology’”, *Science & Education*, 14(2): 103–116. doi:10.1007/s11191-004-9515-8
+* Oudshoorn, Nelly, 1994, *Beyond the Natural Body: An Archaeology of Sex Hormones*, London: Routledge. doi: 10.4324/9780203421529
+* Paxton, Pamela, 2000, “Women’s Suffrage in the Measurement of Democracy: Problems of Operationalization”, *Studies in Comparative International Development*, 35(3): 92–111. doi: 10.1007/BF02699767
+* Pinnick, Cassandra L., 1994, “Feminist Epistemology: Implications for Philosophy of Science”, *Philosophy of Science*, 61(4): 646–657. doi: 10.1086/289827
+* –––, 2005, “The Failed Feminist Challenge to ‘Fundamental Epistemology’”, *Science & Education*, 14(2): 103–116. doi: 10.1007/s11191-004-9515-8
 * Pitts-Taylor, Victoria, 2016a, *The Brain’s Body: Neuroscience and Corporeal Politics*, Durham, NC: Duke University Press.
 * –––, 2016b, “Mattering: Feminism, Science, and Corporeal Politics”, in Pitts-Taylor 2016c: 1–20.
 * ––– (ed.), 2016c, *Mattering: Feminism, Science, and Materialism*, New York: New York University Press.
 * Porter, Theodore M., 1995, *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life*, Princeton, NJ: Princeton University Press.
-* Richardson, Sarah S., 2012, “Sexing the X: How the X Became the ‘Female Chromosome’”, *Signs: Journal of Women in Culture and Society*, 37(4): 909–933. doi:10.1086/664477
+* Richardson, Sarah S., 2012, “Sexing the X: How the X Became the ‘Female Chromosome’”, *Signs: Journal of Women in Culture and Society*, 37(4): 909–933. doi: 10.1086/664477
 * –––, 2013, *Sex Itself: The Search for Male and Female in the Human Genome*, Chicago, IL: University of Chicago Press.
-* Rolin, Kristina, 2006, “The Bias Paradox in Feminist Standpoint Epistemology”, *Episteme*, 3(1–2): 125–136. doi:10.3366/epi.2006.3.1-2.125
-* –––, 2009, “Standpoint Theory as a Methodology for the Study of Power Relations”, *Hypatia*, 24(4): 218–226. doi:10.1111/j.1527-2001.2009.01070.x
+* Rolin, Kristina, 2006, “The Bias Paradox in Feminist Standpoint Epistemology”, *Episteme*, 3(1–2): 125–136. doi: 10.3366/epi.2006.3.1-2.125
+* –––, 2009, “Standpoint Theory as a Methodology for the Study of Power Relations”, *Hypatia*, 24(4): 218–226. doi: 10.1111/j.1527-2001.2009.01070.x
 * Roy, Deboleena and Banu Subramaniam, 2016, “Matter in the Shadows: Feminist New Materialism and the Practices of Colonialism”, in Pitts-Taylor 2016c: 23–42.
 * Schiebinger, Londa, 1999, *Has Feminism Changed Science?* Cambridge, MA: Harvard University Press.
-* Sent, Esther-Mirjam and Irene van Staveren, 2019, “A Feminist Review of Behavioral Economic Research on Gender Differences”, *Feminist Economics*, 25(2): 1–35. doi:10.1080/13545701.2018.1532595
+* Sent, Esther-Mirjam and Irene van Staveren, 2019, “A Feminist Review of Behavioral Economic Research on Gender Differences”, *Feminist Economics*, 25(2): 1–35. doi: 10.1080/13545701.2018.1532595
 * Smith, Dorothy E., 1987, *The Everyday World as Problematic*, Boston, MA: Northeastern University Press.
 * Solomon, Miriam, 2001, *Social Empiricism*, Cambridge, MA: MIT Press.
 * –––, 2012, “The Web of Valief: An Assessment of Feminist Radical Empiricism”, in Crasnow and Superson 2012: 435–450.
 * Spanier, Bonnie B., 1995, *Im/Partial Science: Gender Ideology in Molecular Biology*, Bloomington, IN: Indiana University Press.
 * Sprague, Joey, 2016, *Feminist Methodologies for Critical Researchers: Bridging Differences*, Lanham, MD: Rowman & Littlefield Publishers.
-* Stacey, Judith and Barrie Thorne, 1985, “The Missing Feminist Revolution in Sociology”, *Social Problems*, 32(4): 301–316. doi:10.2307/800754
-* Steele, Claude M., 1997, “A Threat in the Air: How Stereotypes Shape Intellectual Identity and Performance.”, *American Psychologist*, 52(6): 613–629. doi:10.1037/0003-066X.52.6.613
+* Stacey, Judith and Barrie Thorne, 1985, “The Missing Feminist Revolution in Sociology”, *Social Problems*, 32(4): 301–316. doi: 10.2307/800754
+* Steele, Claude M., 1997, “A Threat in the Air: How Stereotypes Shape Intellectual Identity and Performance.”, *American Psychologist*, 52(6): 613–629. doi: 10.1037/0003-066X.52.6.613
 * Stewart, Abigail J., Anne P. Copeland, Nia Lane Chester, Janet E. Malley, and Nicole B. Barenbaum, 1997, *Separating Together: How Divorce Transforms Families*, New York: Guilford Press.
 * Valian, Vivian, 1999, *Why So Slow? The Advancement of Women*, Cambridge MA: MIT Press.
-* van Anders, Sari M., Jeffrey Steiger, and Katherine L. Goldey, 2015, “Effects of Gendered Behavior on Testosterone in Women and Men”, *Proceedings of the National Academy of Sciences*, 112(45): 13805–13810. doi:10.1073/pnas.1509591112
+* van Anders, Sari M., Jeffrey Steiger, and Katherine L. Goldey, 2015, “Effects of Gendered Behavior on Testosterone in Women and Men”, *Proceedings of the National Academy of Sciences*, 112(45): 13805–13810. doi: 10.1073/pnas.1509591112
 * Wallerstein, Judith and Joan Kelly, 1980, *Surviving the Breakup*, New York: Basic Books.
 * Wylie, Alison, 2003, “Why Standpoint Matters”, in *Science and Other Cultures: Issues in Philosophies of Science and Technology*, Robert Figueroa and Sandra Harding (eds), New York: Routledge, pp. 26–48.
-* –––, 2011, “What Knowers Know Well: Women, Work and the Academy”, in Grasswick 2011: 157–179. doi:10.1007/978-1-4020-6835-5_8
+* –––, 2011, “What Knowers Know Well: Women, Work and the Academy”, in Grasswick 2011: 157–179. doi: 10.1007/978-1-4020-6835-5_8
 * Wylie, Alison, Elizabeth Potter, and Wenda K. Bauchspies, 2010, “Feminist Perspectives on Science”, *The Stanford Encyclopedia of Philosophy* (Spring 2010 Edition), Edward N. Zalta (ed.), URL = [Feminist Perspectives on Science (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/feminist-science/).
-* Yap, Audrey, 2016, “Feminist Radical Empiricism, Values, and Evidence”, *Hypatia*, 31(1): 58–73. doi:10.1111/hypa.12221
+* Yap, Audrey, 2016, “Feminist Radical Empiricism, Values, and Evidence”, *Hypatia*, 31(1): 58–73. doi: 10.1111/hypa.12221
 
 ### Additional Readings
 
-* Almassi, Ben, 2019, “Beyond Science Wars Redux: Feminist Philosophy of Science as Trustworthy Science Criticism”, *Hypatia*, 34(4): 858–868. doi:10.1111/hypa.12500
-* Amoretti, Maria Cristina and Nicla Vassallo (eds), 2016, *Meta-Philosophical Reflection on Feminist Philosophies of Science*, (Boston Studies in the Philosophy and History of Science 317), Cham: Springer International Publishing. doi:10.1007/978-3-319-26348-9
-* Barad, Karen, 2003, “Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter”, *Signs: Journal of Women in Culture and Society*, 28(3): 801–831. doi:10.1086/345321
+* Almassi, Ben, 2019, “Beyond Science Wars Redux: Feminist Philosophy of Science as Trustworthy Science Criticism”, *Hypatia*, 34(4): 858–868. doi: 10.1111/hypa.12500
+* Amoretti, Maria Cristina and Nicla Vassallo (eds), 2016, *Meta-Philosophical Reflection on Feminist Philosophies of Science*, (Boston Studies in the Philosophy and History of Science 317), Cham: Springer International Publishing. doi: 10.1007/978-3-319-26348-9
+* Barad, Karen, 2003, “Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter”, *Signs: Journal of Women in Culture and Society*, 28(3): 801–831. doi: 10.1086/345321
 * Bleier, Ruth (ed.), 1986, *Feminist Approaches to Science*, New York: Routledge
 * Blizzard, Deborah, 2007, *Looking Within: A Socio-cultural Examination of Fetoscopy*, Cambridge, MA: MIT Press.
-* Bug, Amy, 2003, “Has Feminism Changed Physics?”, *Signs: Journal of Women in Culture and Society*, 28(3): 881–899. doi:10.1086/345323
-* Campion, Patricia and Wesley Shrum, 2004, “Gender and Science in Development: Women Scientists in Ghana, Kenya, and India”, *Science, Technology, & Human Values*, 29(4): 459–485. doi:10.1177/0162243904265895
+* Bug, Amy, 2003, “Has Feminism Changed Physics?”, *Signs: Journal of Women in Culture and Society*, 28(3): 881–899. doi: 10.1086/345323
+* Campion, Patricia and Wesley Shrum, 2004, “Gender and Science in Development: Women Scientists in Ghana, Kenya, and India”, *Science, Technology, & Human Values*, 29(4): 459–485. doi: 10.1177/0162243904265895
 * Chilly Collective, 1995, *Breaking Anonymity: The Chilly Climate for Women Faculty*, Waterloo ON: Wilfrid Laurier University Press.
 * Code, Lorraine, 1993, “Taking Subjectivity into Account”, in Alcoff and Potter 1993: 15–48.
 * –––, 1991, *What Can She Know?* Ithaca, NY: Cornell University Press.
@@ -470,33 +470,33 @@ Jordan-Young 使用了类似于前几节中描述的女性主义批判模式。�
 * Crasnow, Sharon and Kristen Intemann (eds), forthcoming, *The Routledge Handbook of the Philosophy of Science*, New York: Routledge.
 * Dahlberg, Frances (ed.), 1981, *Woman the Gatherer*, New Haven, CT: Yale University Press.
 * Douglas, Heather, 2009, *Science, Policy, and the Value Free Ideal*, Pittsburgh, PA: Pittsburgh University Press.
-* Ebbersmeyer, Sabrina and Gianni Paganini (eds.), 2020, *Women, Philosophy and Science: Italy and Early Modern Europe*, (Women in the History of Philosophy and Sciences 4), Cham: Springer International Publishing. doi:10.1007/978-3-030-44548-5
-* Elliott, Kevin C. and Daniel Steel (eds.), 2017, *Current Controversies in Values and Science*, New York: Routledge. doi:10.4324/9781315639420
+* Ebbersmeyer, Sabrina and Gianni Paganini (eds.), 2020, *Women, Philosophy and Science: Italy and Early Modern Europe*, (Women in the History of Philosophy and Sciences 4), Cham: Springer International Publishing. doi: 10.1007/978-3-030-44548-5
+* Elliott, Kevin C. and Daniel Steel (eds.), 2017, *Current Controversies in Values and Science*, New York: Routledge. doi: 10.4324/9781315639420
 * Fausto-Sterling, Anne, 1985, *Myths of Gender: Biological Theories About Women and Men*, New York: Basic Books.
-* Fedigan, Linda Marie, 1986, “The Changing Role of Women in Models of Human Evolution”, *Annual Review of Anthropology*, 15(1): 25–66. doi:10.1146/annurev.an.15.100186.000325
+* Fedigan, Linda Marie, 1986, “The Changing Role of Women in Models of Human Evolution”, *Annual Review of Anthropology*, 15(1): 25–66. doi: 10.1146/annurev.an.15.100186.000325
 * Fedigan, Linda Marie and Laurence Fedigan, 1989, “Gender and the Study of Primates”, in *Gender and Anthropology: Critical Reviews for Research and Teaching*, Sandra Morgen (ed.), Washington, DC: American Anthropological Association, pp. 41–64.
-* Fonow, Mary Margaret and Judith A. Cook, 2005, “Feminist Methodology: New Applications in the Academy and Public Policy”, *Signs: Journal of Women in Culture and Society*, 30(4): 2211–2236. doi:10.1086/428417
+* Fonow, Mary Margaret and Judith A. Cook, 2005, “Feminist Methodology: New Applications in the Academy and Public Policy”, *Signs: Journal of Women in Culture and Society*, 30(4): 2211–2236. doi: 10.1086/428417
 * Fonow, Mary Margaret and Judith A. Cook (eds), 1991, *Beyond Methodology: Feminist Scholarship as Lived Research*, Bloomington, IN: Indiana University Press.
 * Fortmann, Louise (ed.), 2008, *Participatory Research in Conservation and Rural Livelihoods: Doing Science Together*, London: Wiley-Blackwell.
-* Fujimura, Joan H., 2006, “Sex Genes: A Critical Sociomaterial Approach to the Politics and Molecular Genetics of Sex Determination”, *Signs: Journal of Women in Culture and Society*, 32(1): 49–82. doi:10.1086/505612
-* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, *The Routledge Companion to Feminist Philosophy*, New York: Routledge. doi:10.4324/9781315758152
+* Fujimura, Joan H., 2006, “Sex Genes: A Critical Sociomaterial Approach to the Politics and Molecular Genetics of Sex Determination”, *Signs: Journal of Women in Culture and Society*, 32(1): 49–82. doi: 10.1086/505612
+* Garry, Ann, Serene J. Khader, and Alison Stone (eds.), 2017, *The Routledge Companion to Feminist Philosophy*, New York: Routledge. doi: 10.4324/9781315758152
 * Ginther, Donna K., 2004, “Why Women Earn Less: Economic Explanations for the Gender Salary Gap in Science”, *AWIS Magazine*, 33: 6–10.
 * Goodman, Alan H., Deborah Heath, and M. Susan Lindee (eds.), 2003, *Genetic Nature/Culture: Anthropology and Science beyond the Two-Culture Divide*, Berkeley, CA: University of California Press.
 * Greaves, Lorraine, Alison Wylie, Cheryl Champagne, Louise Karch, Ruth Lapp, Julie Lee and Bina Osthoff, 1995, “Women and Violence: Feminist Practice and Quantitative Method”, in *Changing Methods: Feminist Transforming Practice*, Sandra Burt and Lorraine Code (eds.), Peterborough ON: Broadview Press, pp. 301–326.
 * Greenwood, Mary Rita Cooke, 2000, “Plenary IV: Advancing Women into Science Leadership”, *Who Will Do the Science of the Future? A Symposium on Careers of Women in Science* Washington DC: National Academy Press, pp. 57–74.
 * Hall, Kim Q., 2017, “Feminist and Queer Intersections with Disability Studies”, in Garry, Khader, and Stone 2017: 405–418.
-* –––, 2002, “Feminism, Disability, and Embodiment”, *NWSA Journal*, Special Issue: Feminist Disability Studies, 14(3): vii–xii. doi:10.1353/nwsa.2003.0006
-* Hammonds, Evelynn and Banu Subramaniam, 2003, “A Conversation on Feminist Science Studies”, *Signs: Journal of Women in Culture and Society*, 28(3): 923–944. doi:10.1086/345455
+* –––, 2002, “Feminism, Disability, and Embodiment”, *NWSA Journal*, Special Issue: Feminist Disability Studies, 14(3): vii–xii. doi: 10.1353/nwsa.2003.0006
+* Hammonds, Evelynn and Banu Subramaniam, 2003, “A Conversation on Feminist Science Studies”, *Signs: Journal of Women in Culture and Society*, 28(3): 923–944. doi: 10.1086/345455
 * Haraway, Donna, 1989, *Primate Visions: Gender, Race, and Nature in the World of Modern Science*, New York: Routledge.
 * –––, 1991, *Simians, Cyborgs, and Women: The Reinvention of Nature*, New York, Routledge.
 * Harding, Sandra, 1991, *Whose Science? Whose Knowledge? Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
 * –––, 1993, *The “Racial” Economy of Science: Toward a Democratic Future*, Bloomington, IN: Indiana University Press.
 * ––– (ed.), 2006, *Science and Social Inequality: Feminist and Postcolonial Issues*, Urbana and Chicago: University of Illinois Press.
-* Harding, Sandra and Kathryn Norberg, 2005, “New Feminist Approaches to Social Science Methodologies: An Introduction”, *Signs: Journal of Women in Culture and Society*, 30(4): 2009–2015. doi:10.1086/428420
+* Harding, Sandra and Kathryn Norberg, 2005, “New Feminist Approaches to Social Science Methodologies: An Introduction”, *Signs: Journal of Women in Culture and Society*, 30(4): 2009–2015. doi: 10.1086/428420
 * Hastorf, Christine A., 1991, “Gender, Space, and Food in Prehistory”, in *Engendering Archaeology: Women and Prehistory*, Joan M. Gero and Margaret W. Conkey (eds.), Oxford: Blackwell, 132–159.
 * Hesse-Biber, Sharlene (ed.), 2011, *Handbook of Feminist Research*, second edition, New York: Sage.
 * Hesse-Biber, Sharlene and Michelle L. Yaiser, 2004, *Feminist Perspectives on Social Research*, New York: Oxford University Press.
-* Hubbard, Ruth, 2003, “Science, Power, Gender: How DNA Became the Book of Life”, *Signs: Journal of Women in Culture and Society*, 28(3): 791–799. doi:10.1086/345334
+* Hubbard, Ruth, 2003, “Science, Power, Gender: How DNA Became the Book of Life”, *Signs: Journal of Women in Culture and Society*, 28(3): 791–799. doi: 10.1086/345334
 * –––, 1990, *The Politics of Women’s Biology*, New Brunswick, NJ: Rutgers University Press.
 * Kafer, Alison, 2003, “Compulsory Bodies: Reflections on Heterosexuality and Able- bodiedness”, *Journal of Women’s History*, 15(3): 77–89
 * Keller, Evelyn Fox, 1983, *A Feeling for the Organism: The Life and Work of Barbara McClintock*, New York: W. H. Freeman and Company.
@@ -506,49 +506,49 @@ Jordan-Young 使用了类似于前几节中描述的女性主义批判模式。�
 * Kitcher, Philip, 2011, *Science in a Democratic Society*, Amherst, NY: Prometheus Books.
 * Kittay, Eva, Anita Silvers, and Susan Wendell (eds.), 2001, *Feminism and Disability*, Special Issue of *Hypatia*, 16(4).
 * Kourany, Janet, 2017, “Philosophy of Science and the Feminist Legacy”, in Garry, Khader, and Stone 2017: 303–313.
-* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, *Philosophical Studies*, 69(2–3): 139–153. doi:10.1007/BF00990080
-* Longino, Helen E., 1995, “Gender, Politics, and the Theoretical Virtues”, *Synthese*, 104(3): 383–397. doi:10.1007/BF01064506
-* Longino, Helen and Ruth Doell, 1983, “Body, Bias, and Behavior: A Comparative Analysis of Reasoning in Two Areas of Biological Science”, *Signs: Journal of Women in Culture and Society*, 9(2): 206–227. doi:10.1086/494044
+* Lloyd, Elisabeth A., 1993, “Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality”, *Philosophical Studies*, 69(2–3): 139–153. doi: 10.1007/BF00990080
+* Longino, Helen E., 1995, “Gender, Politics, and the Theoretical Virtues”, *Synthese*, 104(3): 383–397. doi: 10.1007/BF01064506
+* Longino, Helen and Ruth Doell, 1983, “Body, Bias, and Behavior: A Comparative Analysis of Reasoning in Two Areas of Biological Science”, *Signs: Journal of Women in Culture and Society*, 9(2): 206–227. doi: 10.1086/494044
 * Nelson, Lynn Hankinson, 1993, “Epistemological Communities”, in Alcoff and Potter 1993: 121–159.
-* –––, 1995, “A Feminist Naturalized Philosophy of Science”, *Synthese*, 104(3): 399–421. doi:10.1007/BF01064507
+* –––, 1995, “A Feminist Naturalized Philosophy of Science”, *Synthese*, 104(3): 399–421. doi: 10.1007/BF01064507
 * –––, 1996, “Empiricism Without Dogmas”, in *Feminism, Science, and the Philosophy of Science*, Lynn H. Nelson and Jack Nelson (eds.), Dordrecht, Boston and London: Kluwer Academic Publishers, pp. 95–119.
 * –––, 2018, “Feminist Philosophies of Science: The Social and Contextual Nature of Science”, in Garavaso 2018: 236–259.
-* Newcombe, Nora S., 2010, “On Tending to Our Scientific Knitting: Thinking About Gender in the Context of Evolution”, in *Handbook of Gender Research in Psychology, Volume 1: Gender Research in General and Experimental Psychology*, Joan C. Chrisler and Donald R. McCreary (eds.), New York, NY: Springer New York, 259–274. doi:10.1007/978-1-4419-1465-1_13
-* Meynell, Letitia, 2012, “Evolutionary Psychology, Ethology, and Essentialism (Because What They Don’t Know Can Hurt Us)”, *Hypatia*, 27(1): 3–27. doi:10.1111/j.1527-2001.2011.01240.x
-* Pohlhaus, Gaile, 2002, “Knowing Communities: An Investigation of Harding’s Standpoint Epistemology”, *Social Epistemology*, 16(3): 283–293. doi:10.1080/0269172022000025633
+* Newcombe, Nora S., 2010, “On Tending to Our Scientific Knitting: Thinking About Gender in the Context of Evolution”, in *Handbook of Gender Research in Psychology, Volume 1: Gender Research in General and Experimental Psychology*, Joan C. Chrisler and Donald R. McCreary (eds.), New York, NY: Springer New York, 259–274. doi: 10.1007/978-1-4419-1465-1_13
+* Meynell, Letitia, 2012, “Evolutionary Psychology, Ethology, and Essentialism (Because What They Don’t Know Can Hurt Us)”, *Hypatia*, 27(1): 3–27. doi: 10.1111/j.1527-2001.2011.01240.x
+* Pohlhaus, Gaile, 2002, “Knowing Communities: An Investigation of Harding’s Standpoint Epistemology”, *Social Epistemology*, 16(3): 283–293. doi: 10.1080/0269172022000025633
 * Pérez Sedeño, E., 2001, “Gender: The Missing Factor in STS”, in *Visions of STS: Counterpoints in Science, Technology and Society Studies*, Stephen H. Cutcliffe and Carl Mitcham (eds.), Albany, NY: SUNY Press, pp. 123–138.
-* Potter, Elizabeth, 1995, “Good Science and Good Philosophy of Science”, *Synthese*, 104(3): 423–439. doi:10.1007/BF01064508
+* Potter, Elizabeth, 1995, “Good Science and Good Philosophy of Science”, *Synthese*, 104(3): 423–439. doi: 10.1007/BF01064508
 * –––, 2001, *Gender and Boyle’s Law of Gases*, Bloomington, IN: Indiana University Press.
 * Ramazanoglu, Caroline with Janet Holland, 2002, *Feminist Methodology: Challenges and Choices*, Thousand Oaks, CA: Sage Publications.
 * Reardon, Jenny, 2005, *Race to the Finish: Identity and Governance in an Age of Genomics*, Princeton, NJ: Princeton University Press.
 * Reinharz, Shulamit, 1992, *Feminist Methods in Social Research*, New York: Oxford University Press.
-* Richardson, Sarah S., 2010, “Feminist Philosophy of Science: History, Contributions, and Challenges”, *Synthese*, 177(3): 337–362. doi:10.1007/s11229-010-9791-6
-* Rose, Hilary, 1983, “Hand, Brain, and Heart: A Feminist Epistemology for the Natural Sciences”, *Signs: Journal of Women in Culture and Society*, 9(1): 73–90. doi:10.1086/494025
+* Richardson, Sarah S., 2010, “Feminist Philosophy of Science: History, Contributions, and Challenges”, *Synthese*, 177(3): 337–362. doi: 10.1007/s11229-010-9791-6
+* Rose, Hilary, 1983, “Hand, Brain, and Heart: A Feminist Epistemology for the Natural Sciences”, *Signs: Journal of Women in Culture and Society*, 9(1): 73–90. doi: 10.1086/494025
 * –––, 1994, *Love, Power and Knowledge: Towards a Feminist Transformation of the Sciences*, Cambridge, MA: Polity Press.
 * Rosser, Sue V., 2002, “Twenty-five Years of NWSA: Have We Built the Two-Way Streets Between Women’s Studies and Women in Science and Technology?” *NWSA Journal*, 14(1): 103–128. doi: 10.1353/nwsa.2002.0017
 * Rossiter, Margaret, 1982, *Women Scientists in America: Struggles and Strategies to 1940*, Baltimore, MD: Johns Hopkins.
 * –––1995, *Women Scientists in America: Before Affirmative Action, 1940–1972*, Baltimore, MD: Johns Hopkins University Press.
 * Roughgarden, Joan, 2013, *Evolution’s Rainbow: Diversity, Gender, and Sexuality in Nature and People*, Berkeley, CA: University of California Press.
 * Schiebinger, Londa 1989, *The Mind Has No Sex? Women in the Origins of Modern Science*, Cambridge: Cambridge University Press.
-* –––, 1999, “How Women Contribute”, *Science*, 285(5429): 835b–8835. doi:10.1126/science.285.5429.835b
+* –––, 1999, “How Women Contribute”, *Science*, 285(5429): 835b–8835. doi: 10.1126/science.285.5429.835b
 * ––– (ed.), 2003, *Gender and Science: New Issues*, special issue of *Signs: Journal of Women in Culture and Society*, 28(3).
-* Smith, Dorothy E., 1974, “Women’s Perspective as a Radical Critique of Sociology”, *Sociological Inquiry*, 44(1): 7–13. doi:10.1111/j.1475-682X.1974.tb00718.x
-* Smith, Dorothy E., 1978, “A Peculiar Eclipsing: Women’s Exclusion from Man’s Culture”, *Women’s Studies International Quarterly*, 1(4): 281–295. doi:10.1016/S0148-0685(78)91175-2
+* Smith, Dorothy E., 1974, “Women’s Perspective as a Radical Critique of Sociology”, *Sociological Inquiry*, 44(1): 7–13. doi: 10.1111/j.1475-682X.1974.tb00718.x
+* Smith, Dorothy E., 1978, “A Peculiar Eclipsing: Women’s Exclusion from Man’s Culture”, *Women’s Studies International Quarterly*, 1(4): 281–295. doi: 10.1016/S0148-0685(78)91175-2
 * Sonnert, Gerhard and Gerald Holton, 1995, *Who Succeeds in Science? The Gender Dimension*, New Brunswick, NJ: Rutgers University Press.
-* Sperling, Susan, 1991, “Baboons with Briefcases: Feminism, Functionalism, and Sociobiology in the Evolution of Primate Gender”, *Signs: Journal of Women in Culture and Society*, 17(1): 1–27. doi:10.1086/494711
-* Squier, Susan and Melissa M. Littlefield, 2004, “Feminist Theory and/of Science: Feminist Theory Special Issue”, *Feminist Theory*, 5(2): 123–126. doi:10.1177/1464700104045403
+* Sperling, Susan, 1991, “Baboons with Briefcases: Feminism, Functionalism, and Sociobiology in the Evolution of Primate Gender”, *Signs: Journal of Women in Culture and Society*, 17(1): 1–27. doi: 10.1086/494711
+* Squier, Susan and Melissa M. Littlefield, 2004, “Feminist Theory and/of Science: Feminist Theory Special Issue”, *Feminist Theory*, 5(2): 123–126. doi: 10.1177/1464700104045403
 * Star, Susan Leigh (ed.), 1995, *Ecologies of Knowledge: Work and Politics in Science and Technology*, Albany, NY: SUNY Press.
 * Strum, Shirley C. and Linda Marie Fedigan (eds.), 2000, *Primate Encounters: Models of Science, Gender, and Society*, Chicago: University of Chicago Press.
 * Suchman, Lucy, 2008, “Feminist STS and the Sciences of the Artificial”, in *The Handbook of Science and Technology Studies*, third edition, Edward J. Hackett, Olga Amsterdamska, Michael E. Lynch, and Judy Wajcman (eds.), Cambridge, Massachusetts and London: The MIT Press, pp. 139–164.
 * Symons, Donald, 1979, *The Evolution of Human Sexuality* New York: Oxford University Press.
-* Tejani, Sheba, 2019, “What’s Feminist about Feminist Economics?”, *Journal of Economic Methodology*, 26(2): 99–117. doi:10.1080/1350178X.2018.1556799
+* Tejani, Sheba, 2019, “What’s Feminist about Feminist Economics?”, *Journal of Economic Methodology*, 26(2): 99–117. doi: 10.1080/1350178X.2018.1556799
 * Watson, Patty Jo and Mary C. Kennedy, 1991, “The Development of Horticulture in the Eastern Woodlands of North America: Women’s Role”, in *Engendering Archaeology: Women and Prehistory*, Joan M. Gero and Margaret W. Conkey (eds.), Oxford: Blackwell, 276–300.
 * Wertheim, Margaret, 1995, *Pythagoras’ Trousers: God, Physics and the Gender Wars*, New York: Random House.
-* Whelan, Emma, 2001, “Politics by Other Means: Feminism and Mainstream Science Studies”, *Canadian Journal of Sociology / Cahiers Canadiens de Sociologie*, 26(4): 535–581. doi:10.2307/3341492
-* Wyer, Mary, Mary Barbercheck, Donna Cookmeyer, Hatice Öztürk, and Marta Wayne (eds), 2014, *Women, Science and Technology: A Reader in Feminist Science Studies*, third edition, New York: Routledge. doi:10.4324/9780203427415
+* Whelan, Emma, 2001, “Politics by Other Means: Feminism and Mainstream Science Studies”, *Canadian Journal of Sociology / Cahiers Canadiens de Sociologie*, 26(4): 535–581. doi: 10.2307/3341492
+* Wyer, Mary, Mary Barbercheck, Donna Cookmeyer, Hatice Öztürk, and Marta Wayne (eds), 2014, *Women, Science and Technology: A Reader in Feminist Science Studies*, third edition, New York: Routledge. doi: 10.4324/9780203427415
 * Wylie, Alison, 1992, “Reasoning About Ourselves: Feminist Methodology in the Social Sciences”, in *Women and Reason*, Elizabeth Harvey and Kathleen Okruhlik (eds.), Ann Arbor, MI: University of Michigan Press, pp. 611–624.
 * –––, 1995, “The Contexts of Activism on ‘Climate’ Issues”, in *Breaking Anonymity: The Chilly Climate for Women Faculty*, The Chilly Collective (eds.), Waterloo, Ontario: Wilfrid Laurier University Press, pp. 26–60.
-* –––, 2007, “The Feminism Question in Science: What Does It Mean to ‘Do Social Science as a Feminist’?”, in *Handbook of Feminist Research: Theory and Praxis*, Sharlene Hesse-Biber (ed.), New York: Sage, pp. 567–577. doi:10.4135/9781483384740.n26
+* –––, 2007, “The Feminism Question in Science: What Does It Mean to ‘Do Social Science as a Feminist’?”, in *Handbook of Feminist Research: Theory and Praxis*, Sharlene Hesse-Biber (ed.), New York: Sage, pp. 567–577. doi: 10.4135/9781483384740.n26
 * –––, 2017, “What Knowers Know Well: Standpoint Theory and the Formation of Gender Archaeology”, *Scientiae Studia* 15(1): 13–38.
 * Wylie, Alison, Janet R. Jakobsen, and Gisela Fosado, 2008, *Women, Work, and the Academy: Strategies for Responding to ‘Post-civil Rights Era’ Gender Discrimination*, (New Feminist Solutions, 2), New York: Barnard Center for Research on Women [[Wylie, Jakobsen, and Fosado 2008 available online](https://bcrw.barnard.edu/publications/women-work-academy/)].
 * Xie, Yu and Kimberlee A. Shauman, 2003, *Women in Science: Career Processes and Outcomes*, Cambridge MA: Harvard University Press.

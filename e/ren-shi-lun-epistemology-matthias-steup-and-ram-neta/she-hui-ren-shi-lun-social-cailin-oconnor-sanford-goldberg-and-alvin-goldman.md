@@ -10,7 +10,7 @@
 
 认识论关注人们应该如何确定真理。社会认识论关注人们如何在他人或相关社会实践和制度的帮助下，或有时是在他人的阻碍下，最好地追求真理。它还关注群体或集体主体通过什么方式追求真理。
 
-(西方) 认识论 中最有影响力的传统，最好的例证是 René Descartes（1637），几乎完全集中在个体认识论者如何使用自己的认知能力来正确追求真理。笛卡尔认为，这样做最有前途的方式是通过运用自己的推理能力，应用于自己的“清晰而明确”的观念。这种方法的核心挑战在于展示如何仅凭这种有限的基础辨别真理。即使像约翰·洛克（1690）这样的早期经验主义者也坚持认为知识应通过知识自信获得。正如洛克所说，“他人的观点在脑海中飘荡”并不构成真正的知识。(西方) 认识论 中最有影响力的传统，最好的例证是 René Descartes（1637），几乎完全集中在个体认识论者如何使用自己的认知能力来正确追求真理。笛卡尔认为，这样做最有前途的方式是通过运用自己的推理能力，应用于自己的“清晰而明确”的观念。这种方法的核心挑战在于展示如何仅凭这种有限的基础辨别真理。即使像约翰·洛克（1690）这样的早期经验主义者也坚持认为知识应通过知识自信获得。正如洛克所说，“他人的观点在脑海中飘荡”并不构成真正的知识。
+(西方) 认识论 中最有影响力的传统，最好的例证是 René Descartes（1637），几乎完全集中在个体认识论者如何使用自己的认知能力来正确追求真理。笛卡尔认为，这样做最有前途的方式是通过运用自己的推理能力，应用于自己的“清晰而明确”的观念。这种方法的核心挑战在于展示如何仅凭这种有限的基础辨别真理。即使像约翰 · 洛克（1690）这样的早期经验主义者也坚持认为知识应通过知识自信获得。正如洛克所说，“他人的观点在脑海中飘荡”并不构成真正的知识。(西方) 认识论 中最有影响力的传统，最好的例证是 René Descartes（1637），几乎完全集中在个体认识论者如何使用自己的认知能力来正确追求真理。笛卡尔认为，这样做最有前途的方式是通过运用自己的推理能力，应用于自己的“清晰而明确”的观念。这种方法的核心挑战在于展示如何仅凭这种有限的基础辨别真理。即使像约翰 · 洛克（1690）这样的早期经验主义者也坚持认为知识应通过知识自信获得。正如洛克所说，“他人的观点在脑海中飘荡”并不构成真正的知识。
 
 与笛卡尔和洛克的个人主义取向相比，社会认识论的发展建立在我们经常依赖他人寻求真理的观念之上。因此，社会认识论的核心问题围绕着这种依赖的性质、范围和认识论意义展开：在寻求信息时我们如何依赖他人，以及我们以这些方式依赖他人如何影响我们最终信念的认识论优越性？（参见 Greco（2021）对这两个问题的信息性讨论。）
 
@@ -18,19 +18,19 @@
 
 ## 赋予社会认识论领域形态
 
-在这些方面，类似于社会认识论的方法在 20 世纪中叶得到了发展。这种主要是社会学性质的运动关注科学是如何实践的，通常旨在揭穿理论家们所看到的正统认识论和 20 世纪中叶科学哲学中所理想化的科学描述。被称为“强势计划”的知识社会学成员，如哈里·柯林斯和大卫·布卢尔，为挑战客观真理观提供了哲学上的理由，认为所谓的“事实”并非由科学发现，而是“构建”，“构成”或“制造”出来的。布卢尔则主张“对称性论”，即科学家的信念应该由社会因素来解释，无论这些信念是真实还是虚假，理性还是非理性（Bloor 1991: 7）。这种观点否认了事实和证据等因素的解释相关性。
+在这些方面，类似于社会认识论的方法在 20 世纪中叶得到了发展。这种主要是社会学性质的运动关注科学是如何实践的，通常旨在揭穿理论家们所看到的正统认识论和 20 世纪中叶科学哲学中所理想化的科学描述。被称为“强势计划”的知识社会学成员，如哈里 · 柯林斯和大卫 · 布卢尔，为挑战客观真理观提供了哲学上的理由，认为所谓的“事实”并非由科学发现，而是“构建”，“构成”或“制造”出来的。布卢尔则主张“对称性论”，即科学家的信念应该由社会因素来解释，无论这些信念是真实还是虚假，理性还是非理性（Bloor 1991: 7）。这种观点否认了事实和证据等因素的解释相关性。
 
 第二个影响社会认识论发展的知识传统是科学技术研究（STS）这一跨学科领域，该领域始于 1960 年代和 70 年代。借鉴了社会学、政策研究、科学史和哲学，以及历史、政治科学和人类学的部分内容，该领域的理论家们敦促我们将科学和技术本身视为深深嵌入社会实践之中。STS 领域的研究涉及诸如科学在公共政策中的作用、科学对象的“社会建构”以及技术的本质等多样主题。有影响力的作品包括拉图尔和沃尔加（1986）、拜克尔、休斯和平奇（1987）、富勒（1988）和贾萨诺夫（1998）。
 
-认识论中强调社会知识维度重要性的观点也在哲学的某些领域出现。例如，米歇尔·福柯（Michel Foucault）对知识和科学持有一种激进的政治观点，认为所谓的寻求知识的实践是由对权力和社会统治的追求驱动的（1969 [1972]，1975 [1977]）。理查德·罗蒂（Richard Rorty）（1979）拒绝了传统的将知识视为“表征准确性”的概念，并试图用“信念的社会证明”来取而代之——尽管值得注意的是，他在 STS 传统理论家中并不特别具有权威性。其他哲学家将社会因素赋予了中心的解释作用，但在对科学客观性的批判上没有那么极端。其中最重要的是托马斯·库恩（Thomas Kuhn），他接受物理学训练，但在博士后转向了历史和科学哲学。库恩认为，纯客观考虑永远无法解决竞争理论之间的争议，强调影响科学理论发展的社会因素（Kuhn 1962/1970）。关于这些话题的辩论在“科学战争”下持续进行。
+认识论中强调社会知识维度重要性的观点也在哲学的某些领域出现。例如，米歇尔 · 福柯（Michel Foucault）对知识和科学持有一种激进的政治观点，认为所谓的寻求知识的实践是由对权力和社会统治的追求驱动的（1969 [1972]，1975 [1977]）。理查德 · 罗蒂（Richard Rorty）（1979）拒绝了传统的将知识视为“表征准确性”的概念，并试图用“信念的社会证明”来取而代之——尽管值得注意的是，他在 STS 传统理论家中并不特别具有权威性。其他哲学家将社会因素赋予了中心的解释作用，但在对科学客观性的批判上没有那么极端。其中最重要的是托马斯 · 库恩（Thomas Kuhn），他接受物理学训练，但在博士后转向了历史和科学哲学。库恩认为，纯客观考虑永远无法解决竞争理论之间的争议，强调影响科学理论发展的社会因素（Kuhn 1962/1970）。关于这些话题的辩论在“科学战争”下持续进行。
 
 即使是那些否定怀疑和揭穿立场的哲学家，也可以从这些立场激发的辩论中获得重要的教训。最重要的是，关键教训涉及认知中社会因素的重要性，包括文化信念的作用以及在追求知识过程中起作用的偏见。正是在这种背景下，我们可以称之为社会认识论的主导思潮出现了。
 
 将自己视为与上述揭示的揭穿主题截然不同，当代社会认识论旨在承认并解释在追求真理过程中起着核心作用的各种社会因素。这一传统中的理论家经常捍卫与传统认识论连续的提议。虽然他们继续承认存在可识别的情况，即社会因素或社会互动对获取真理构成威胁（见下文），但他们也主张正确类型的社会组织和社会规范增强了获取真理的前景。
 
-这种社会认识论方法的开创性辩护是由阿尔文·戈德曼（Alvin Goldman）（1999）提出的。这本书对当代社会认识论的影响难以估量，发展了戈德曼的“真理主义”方法，重点关注各种社会实践产生真实信念的可靠性（Goldman 1999: 5）。虽然戈德曼（1999）提出了社会认识论研究的框架，但与此相关主题的研究工作已经开始蓬勃发展。由于伊丽莎白·弗里克（Elizabeth Fricker）（1987）、爱德华·克雷格（Edward Craig）（1990）和 C.A.J.科迪（C.A.J. Coady）（1992）等作品的出现，见证成为社会认识论的一个中心主题。哲学科学也最终成为当代社会认识论的一个重要领域；开创性工作包括菲利普·基彻尔（Philip Kitcher）（1990，1993）、海伦·朗吉诺（Helen Longino）（1990，2002）和米里亚姆·所罗门（Miriam Solomon）（2007）。玛格丽特·吉尔伯特（Margaret Gilbert）（1989）坚定地证明了“复数主体”的存在，从而为集体社会认识论的形而上学基础提供了支持。在克里斯蒂娜·比基耶里（Cristina Bicchieri）（2005）的影响下，社会认识论学者开始审视社会规范在社会认识论分析中的重要性（参见例如亨德森和格雷厄姆（Henderson and Graham）（2019）和桑福德·戈德伯格（Sanford Goldberg）（2018，2021）。
+这种社会认识论方法的开创性辩护是由阿尔文 · 戈德曼（Alvin Goldman）（1999）提出的。这本书对当代社会认识论的影响难以估量，发展了戈德曼的“真理主义”方法，重点关注各种社会实践产生真实信念的可靠性（Goldman 1999: 5）。虽然戈德曼（1999）提出了社会认识论研究的框架，但与此相关主题的研究工作已经开始蓬勃发展。由于伊丽莎白 · 弗里克（Elizabeth Fricker）（1987）、爱德华 · 克雷格（Edward Craig）（1990）和 C.A.J.科迪（C.A.J. Coady）（1992）等作品的出现，见证成为社会认识论的一个中心主题。哲学科学也最终成为当代社会认识论的一个重要领域；开创性工作包括菲利普 · 基彻尔（Philip Kitcher）（1990，1993）、海伦 · 朗吉诺（Helen Longino）（1990，2002）和米里亚姆 · 所罗门（Miriam Solomon）（2007）。玛格丽特 · 吉尔伯特（Margaret Gilbert）（1989）坚定地证明了“复数主体”的存在，从而为集体社会认识论的形而上学基础提供了支持。在克里斯蒂娜 · 比基耶里（Cristina Bicchieri）（2005）的影响下，社会认识论学者开始审视社会规范在社会认识论分析中的重要性（参见例如亨德森和格雷厄姆（Henderson and Graham）（2019）和桑福德 · 戈德伯格（Sanford Goldberg）（2018，2021）。
 
-社会认识论的显著性也得到了一些专门或部分致力于这一主题的期刊的增强。1987 年，史蒂夫·富勒创办了《社会认识论：知识、文化和政策杂志》，其最初的重点是跨学科研究知识在实证和规范背景下的生产。同样在 1987 年，弗雷德·施密特编辑了一期《综合》杂志，专门讨论社会认识论的方法。这一期包括了富勒和戈德曼的贡献，两位都充分意识到他们各自研究计划的不同目标、方法和关注点。几年后，受到对一个更多地与“主流”认识论接触的社会认识论杂志的渴望的启发，戈德曼于 2004 年创办了《认识论：个体和社会认识论杂志》。 （虽然最初专注于社会认识论，但后来扩大了范围以包括个体认识论。）芬·科林（2013）试图表征富勒和戈德曼对社会认识论的方法之间的差异。
+社会认识论的显著性也得到了一些专门或部分致力于这一主题的期刊的增强。1987 年，史蒂夫 · 富勒创办了《社会认识论：知识、文化和政策杂志》，其最初的重点是跨学科研究知识在实证和规范背景下的生产。同样在 1987 年，弗雷德 · 施密特编辑了一期《综合》杂志，专门讨论社会认识论的方法。这一期包括了富勒和戈德曼的贡献，两位都充分意识到他们各自研究计划的不同目标、方法和关注点。几年后，受到对一个更多地与“主流”认识论接触的社会认识论杂志的渴望的启发，戈德曼于 2004 年创办了《认识论：个体和社会认识论杂志》。 （虽然最初专注于社会认识论，但后来扩大了范围以包括个体认识论。）芬 · 科林（2013）试图表征富勒和戈德曼对社会认识论的方法之间的差异。
 
 ## 社会认识论的中心议题
 
@@ -42,7 +42,7 @@
 
 “见证认识论”中的核心议题涉及如何评估基于见证的信念。这里的核心问题是，见证是否应被视为基本的理据来源。我们可以将基本的理据来源视为一种可被视为理所当然并可依赖的来源，除非在某些情况下有理由怀疑。举例来说，考虑感知。你的一个感知信念即使在没有理由认为感知是可靠的情况下也可以被证明是正当的。（只要你在手头的情况下没有怀疑的理由即可）。问题是见证是否可以被类似对待。
 
-否认证词是基本的理由来源的人认为，基于证词的信念只有在听众有足够独立的理由来认为说话者的证词是可信的情况下才是合理的。这种观点被称为“还原主义”，因为它提出这些信念的合理性可以“还原为”其他来源（感知、记忆、归纳）提供的理由，这一观点是由大卫·休谟辩护的。当代的辩护者认为，否定还原主义是一种“轻信的配方”（Fricker 1994），或者是在为不负责任行为开脱（Faulkner 2000；另见 Malmgren 2006 和 Kenyon 2013）。相比之下，认为证词是基本的理由来源的人认为，只要听众没有怀疑的理由，基于证词的信念就是合理的。这种观点被称为“反还原主义”，由托马斯·里德（1764/1983）辩护，他认为诚实（说话者）和轻信（听众）与我们的自然心理天赋一样重要，因此在信念形成中同样值得依赖，就像感知能力一样。当代理论家提出了反还原主义的额外论据。Coady（1990）认为，听众通常缺乏证实他们遇到的说话者可靠性所需的证据，因此否定反还原主义是怀疑主义的配方；Burge（1993）认为，可理解的言论本身就是由一个追求真理的理性来源产生的迹象，因此值得相信；还有其他一些人提出了对里德自己论点的变体。
+否认证词是基本的理由来源的人认为，基于证词的信念只有在听众有足够独立的理由来认为说话者的证词是可信的情况下才是合理的。这种观点被称为“还原主义”，因为它提出这些信念的合理性可以“还原为”其他来源（感知、记忆、归纳）提供的理由，这一观点是由大卫 · 休谟辩护的。当代的辩护者认为，否定还原主义是一种“轻信的配方”（Fricker 1994），或者是在为不负责任行为开脱（Faulkner 2000；另见 Malmgren 2006 和 Kenyon 2013）。相比之下，认为证词是基本的理由来源的人认为，只要听众没有怀疑的理由，基于证词的信念就是合理的。这种观点被称为“反还原主义”，由托马斯 · 里德（1764/1983）辩护，他认为诚实（说话者）和轻信（听众）与我们的自然心理天赋一样重要，因此在信念形成中同样值得依赖，就像感知能力一样。当代理论家提出了反还原主义的额外论据。Coady（1990）认为，听众通常缺乏证实他们遇到的说话者可靠性所需的证据，因此否定反还原主义是怀疑主义的配方；Burge（1993）认为，可理解的言论本身就是由一个追求真理的理性来源产生的迹象，因此值得相信；还有其他一些人提出了对里德自己论点的变体。
 
 除了关于证词是否是正当化的基本来源的问题之外，第二个问题涉及我们是否可以用个体主义术语来明确指定关于基于证词的信念的正当化条件，即仅限于观众自身的材料（她所拥有的证据，她的能力可靠性等）。尽管个体主义在这方面仍然是主流观点，但一些社会认识论者已经拒绝了这一观点，转而支持反个体主义关于证词正当化的某种版本。根据这些观点，观众基于证词的信念的正当化可以受到多种因素的影响，包括说话者的认识论条件（Welbourne 1981，Hardwig 1991，Schmitt 2006，Lackey 2008，Goldberg 2010）或观众所在地环境中证词的一般可靠性（Kallestrup 和 Pritchard 2012，Gerken 2013，2022）。然而，反个体主义观点仍然备受争议（参见 Gerken 2012，Leonard 2016，2018）。
 
@@ -74,7 +74,7 @@ Lackey (2010) 对同行分歧提出了类似的“辩护主义”立场。根据
 
 让我们从关于群体信念的问题开始。主要有两种观点主导了讨论：Summativism 和 Non-Summativism（或 Collectivism）。根据 Summativism 关于群体信念的观点，群体信念是其成员的信念的函数。在一个简单的版本中，一个群体相信某事物只有在所有或几乎所有成员持有这种信念的情况下（Quinton 1976: 17）。由于 Summativism 将声称群体信念的主张解释为仅仅总结构成该群体的个体的信念，这种观点在那些担心群体代理的“形而上学”的人中很受欢迎。
 
-非总和主义者或“集体主义者”对于群体信念的解释是受到对总和主义的反对所激发的。玛格丽特·吉尔伯特认为，在日常语言中，常常会将某种信念归因于一个群体，而不必假设大多数或所有成员都持有该信念。基于这一观点，她提出了一个基于共同承诺概念的非总和主义者对群体信念的解释，根据这一解释：
+非总和主义者或“集体主义者”对于群体信念的解释是受到对总和主义的反对所激发的。玛格丽特 · 吉尔伯特认为，在日常语言中，常常会将某种信念归因于一个群体，而不必假设大多数或所有成员都持有该信念。基于这一观点，她提出了一个基于共同承诺概念的非总和主义者对群体信念的解释，根据这一解释：
 
 > 一组 G 认为 p 当且仅当 G 的成员作为一个整体共同承诺相信 p。
 
@@ -82,7 +82,7 @@ Lackey (2010) 对同行分歧提出了类似的“辩护主义”立场。根据
 
 尽管群体信念的共同承诺解释很受欢迎，但它们并非毫无批评。一个担忧是它们侧重于对同行的责任，而不是群体成员的信念状态。基于此，Wray（2001）建议应将其视为群体接受的解释。另一个担忧是，共同承诺解释未能意识到可以有各种各样的共同承诺原因，并非所有原因都反映了群体信念（Lackey 2021）。
 
-亚历山大·伯德（2014，2022）采取了一种不同的集体主义方法，他认为群体信念的联合接受模型只是许多不同（但合法）模型之一。例如，他引入了“分布模型”来处理具有信息密集型任务的系统，这些任务无法由单个个体处理。几个个体必须收集不同的信息片段，而其他人协调这些信息并将其用于完成任务。（另见 Hutchins 1995。）伯德认为这是科学中常见的一种群体模型。（另见 Brown 2023，这一立场的变体，受命题态度功能主义的启发。）
+亚历山大 · 伯德（2014，2022）采取了一种不同的集体主义方法，他认为群体信念的联合接受模型只是许多不同（但合法）模型之一。例如，他引入了“分布模型”来处理具有信息密集型任务的系统，这些任务无法由单个个体处理。几个个体必须收集不同的信息片段，而其他人协调这些信息并将其用于完成任务。（另见 Hutchins 1995。）伯德认为这是科学中常见的一种群体模型。（另见 Brown 2023，这一立场的变体，受命题态度功能主义的启发。）
 
 一个有趣的“混合”群体信念解释是 Lackey (2021)的，她采用了她所称的“群体代理人”解释。根据它，
 
@@ -163,9 +163,9 @@ Lackey (2021)对 Goldman (2014)提出了各种批评，并基于此为团体认�
 
 让我们现在转向形式社会认识论中的三种范式：信用经济、网络模型和认识多样性模型。
 
-一项关键的认识，最初归功于科学社会学家罗伯特·默顿，即科学家经常寻求信誉——这是对科学工作认可和赞许的代理，以及所有相关利益（默顿，1973 年）。信誉经济模型借鉴博弈论和决策理论，将科学家建模为理性的信誉追求者，然后评估科学家面临的信誉激励的认识影响。在许多这类研究的核心是一场争论，可以追溯到杜·博伊斯（1898 年），即问：对于认识社区来说，最佳动机是什么？是追求信誉还是“纯粹”的追求真理？还是两者的结合？
+一项关键的认识，最初归功于科学社会学家罗伯特 · 默顿，即科学家经常寻求信誉——这是对科学工作认可和赞许的代理，以及所有相关利益（默顿，1973 年）。信誉经济模型借鉴博弈论和决策理论，将科学家建模为理性的信誉追求者，然后评估科学家面临的信誉激励的认识影响。在许多这类研究的核心是一场争论，可以追溯到杜 · 博伊斯（1898 年），即问：对于认识社区来说，最佳动机是什么？是追求信誉还是“纯粹”的追求真理？还是两者的结合？
 
-菲利普·基彻（Philip Kitcher）1990 年的论文《认知劳动的分工》认为，科学家在受到功劳激励时更有效地分工。寻求真理的人可能会涌入科学中最有前途的问题，而追求功劳的人会选择不太受欢迎的主题，这样他们更有可能成为发现者。Strevens（2003）通过主张功劳激励的一个现有特征，即优先规则，可以导致更好的分工。这个规则规定功劳只分配给首次发现的科学家。然而，Zollman（2018）批评了这两种模型，指出纯粹的真理追求者应该会高兴如果有人做出新的发现（而基彻和 Strevens 假设“真理追求者”只是被激励去寻找真理）。如果科学家不在乎谁做出发现，那么就不需要功劳来激励分工。
+菲利普 · 基彻（Philip Kitcher）1990 年的论文《认知劳动的分工》认为，科学家在受到功劳激励时更有效地分工。寻求真理的人可能会涌入科学中最有前途的问题，而追求功劳的人会选择不太受欢迎的主题，这样他们更有可能成为发现者。Strevens（2003）通过主张功劳激励的一个现有特征，即优先规则，可以导致更好的分工。这个规则规定功劳只分配给首次发现的科学家。然而，Zollman（2018）批评了这两种模型，指出纯粹的真理追求者应该会高兴如果有人做出新的发现（而基彻和 Strevens 假设“真理追求者”只是被激励去寻找真理）。如果科学家不在乎谁做出发现，那么就不需要功劳来激励分工。
 
 其他人指出，优先规则也有其缺点。Higginson 和 Munafo（2016）以及 Romero（2017）认为，优先规则会强烈地使科学家们不愿进行复制实验，因为学术声誉与新的积极发现紧密相关。复制实验通常对确定新结果的准确性至关重要。另一个担忧是，优先规则会激励那些想要迅速获得学术认可的人从事欺诈和/或草率的工作（Merton 1973，Casadevall 和 Fang 2012）。Zollman（2022—见其他互联网资源）和 Heesen（2021）展示了欺诈如何在优先规则的背景下对科学家的学术声誉产生积极影响。而 Higginson 和 Munafo（2016）以及 Heesen（2018）表明，在一个现实假设下，即生产速度与质量之间存在权衡时，优先规则会激励快速、低质、草率的科学研究。然而，Bright（2017a）使用一个模型指出，害怕报复的追求学术认可者可能比坚信某个事实的追求真相者更可能发表更准确的结果，尽管他们的实验结果恰恰相反。换句话说，一个真正的信徒可能会像一个简单地寻求社区认可的人一样被激励去欺诈。
 
@@ -215,7 +215,7 @@ Weisberg and Muldoon (2009) 提出了一个模型，其中的行动者调查一�
 
 Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类似的问题）和“特立独行者”（更喜欢探索新领域）的结合比单独任何一组都要好；即，认知多样性是有益的。他们的建模选择和主要结果已经被 Alexander 等人（2015 年）、Thoma（2015 年）、Poyhönen（2017 年）、Fernández Pinto 和 Fernández Pinto（2018 年）有力批评，但这一框架已被其他哲学家用于有益的目的。例如，Thoma（2015 年）和 Poyhönen（2017 年）表明，在模型的修改版本中，认知多样性确实提供了 Weisberg 和 Muldoon 假设的那种好处。Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类似的问题）和“特立独行者”（更喜欢探索新领域）的结合比单独任何一组都要好；即，认知多样性是有益的。他们的建模选择和主要结果已经被 Alexander 等人（2015 年）、Thoma（2015 年）、Poyhönen（2017 年）、Fernández Pinto 和 Fernández Pinto（2018 年）有力批评，但这一框架已被其他哲学家用于有益的目的。例如，Thoma（2015 年）和 Poyhönen（2017 年）表明，在模型的修改版本中，认知多样性确实提供了 Weisberg 和 Muldoon 假设的那种好处。
 
-洪和佩奇（2004）（以及后续的工作）使用一个简单的模型来推导他们著名的“多样性胜过能力”结果。代理人面对一个简单的认识景观——一个环，上面有一些位置，每个位置都与一个代表其作为解决方案的好处的数字相关联。代理人被表示为一组有限的整数，例如⟨3, 7, 10⟩。这样的代理人被放置在环上，并且可以移动到比他们当前位置前进 3、7 和 10 个位置的位置，假设这会改善他们的位置。中心结果是，随机选择的一起解决任务的代理人组往往会胜过由顶尖表现者组成的组。这是因为顶尖表现者具有相似的整数，因此从团体成员身上获益相对较少，而随机代理人具有更多种类的整数。尽管这一结果被广泛引用，但对该模型的批评也很多，要么认为它不足以展示如此复杂的事物，要么认为它缺乏关键的表征特征，要么认为它未能展示其所声称的内容（汤普森 2014；辛格 2019）。
+洪和佩奇（2004）（以及后续的工作）使用一个简单的模型来推导他们著名的“多样性胜过能力”结果。代理人面对一个简单的认识景观——一个环，上面有一些位置，每个位置都与一个代表其作为解决方案的好处的数字相关联。代理人被表示为一组有限的整数，例如 ⟨3, 7, 10⟩。这样的代理人被放置在环上，并且可以移动到比他们当前位置前进 3、7 和 10 个位置的位置，假设这会改善他们的位置。中心结果是，随机选择的一起解决任务的代理人组往往会胜过由顶尖表现者组成的组。这是因为顶尖表现者具有相似的整数，因此从团体成员身上获益相对较少，而随机代理人具有更多种类的整数。尽管这一结果被广泛引用，但对该模型的批评也很多，要么认为它不足以展示如此复杂的事物，要么认为它缺乏关键的表征特征，要么认为它未能展示其所声称的内容（汤普森 2014；辛格 2019）。
 
 到目前为止，我们已经讨论了认知多样性。但我们可能也对认识社区中的社会身份多样性感兴趣。社会多样性是认知多样性的重要来源，因此可以有助于认识群体的运作。例如，不同的生活经历和经验可能导致个体持有不同的假设并从事不同的研究项目（Haraway 1989; Longino 1990; Harding 1991; Hong and Page 2004）。如果是这样，那么我们可能想知道：为什么一些人群经常被排除在学术界等认识社区之外？我们可以采取什么措施来解决这个问题呢？
 
@@ -231,11 +231,11 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 
 很多社会认识论关注政治认识论主题。
 
-这项工作的大部分内容致力于评估民主制度和实践的认识论属性，属于阿尔文·戈德曼（2010）所称的“面向系统”的社会认识论。他所说的“系统”是指具有各种工作组成部分和多重目标的实体。面向系统的社会认识论探讨如何最佳设计其目标包括认识论商品，如知识或真实信念的生产或分配的系统。许多理论家已经开展了这一研究计划，审视民主政治系统中的各种机构（例如参见 Zollman（2015），Fallis 和 Matheson（2019），O’Connor 和 Weatherall（2019），Miller（2020）和 Frost-Arnold（2021）。）
+这项工作的大部分内容致力于评估民主制度和实践的认识论属性，属于阿尔文 · 戈德曼（2010）所称的“面向系统”的社会认识论。他所说的“系统”是指具有各种工作组成部分和多重目标的实体。面向系统的社会认识论探讨如何最佳设计其目标包括认识论商品，如知识或真实信念的生产或分配的系统。许多理论家已经开展了这一研究计划，审视民主政治系统中的各种机构（例如参见 Zollman（2015），Fallis 和 Matheson（2019），O’Connor 和 Weatherall（2019），Miller（2020）和 Frost-Arnold（2021）。）
 
-社会认识论中的系统导向研究项目也被用于更一般的关于民主政治的问题。例如，Elizabeth Anderson（2006）探讨了民主系统的认识属性如何设计以实现最佳民主形式。她提供了三种民主认识模型：Condorcet 陪审团定理、多样性胜过能力结果和约翰·杜威的实验主义。Anderson 本人支持杜威的实验主义方法，而其他一些人则主张投票汇总和 Condorcet 陪审团定理（List 和 Goodin 2001；Landemore 2011），Singer（2019）则捍卫多样性胜过能力的版本（尽管与科学团队有关）。相比之下，Claudio Lopez-Guerra（2010）、Hélène Landemore（2013）和 Alex Guerrero（2014）支持通过抽签系统选举政治代表，认为由此产生的政策将比通过投票达成的政策更好。（Estlund 2008 反对社会认识论的核心观念——民主政治的认识优良应该在于其结果的质量——而主张应该在于其程序的合法性。）
+社会认识论中的系统导向研究项目也被用于更一般的关于民主政治的问题。例如，Elizabeth Anderson（2006）探讨了民主系统的认识属性如何设计以实现最佳民主形式。她提供了三种民主认识模型：Condorcet 陪审团定理、多样性胜过能力结果和约翰 · 杜威的实验主义。Anderson 本人支持杜威的实验主义方法，而其他一些人则主张投票汇总和 Condorcet 陪审团定理（List 和 Goodin 2001；Landemore 2011），Singer（2019）则捍卫多样性胜过能力的版本（尽管与科学团队有关）。相比之下，Claudio Lopez-Guerra（2010）、Hélène Landemore（2013）和 Alex Guerrero（2014）支持通过抽签系统选举政治代表，认为由此产生的政策将比通过投票达成的政策更好。（Estlund 2008 反对社会认识论的核心观念——民主政治的认识优良应该在于其结果的质量——而主张应该在于其程序的合法性。）
 
-政治取向的社会认识论者也广泛探讨了公共磋商的认识属性。自约翰·斯图尔特·密尔的《论自由》以来，人们一直试图从认识论的角度为言论自由权利辩护。尽管有许多最近的作者持怀疑态度，但这一讨论仍在继续。一些人认识到在压迫条件下进行磋商的陷阱，仍然捍卫磋商的认识潜力来阐明社会问题（Young 2000; Anderson 2010）。
+政治取向的社会认识论者也广泛探讨了公共磋商的认识属性。自约翰 · 斯图尔特 · 密尔的《论自由》以来，人们一直试图从认识论的角度为言论自由权利辩护。尽管有许多最近的作者持怀疑态度，但这一讨论仍在继续。一些人认识到在压迫条件下进行磋商的陷阱，仍然捍卫磋商的认识潜力来阐明社会问题（Young 2000; Anderson 2010）。
 
 此外，关于专家在民主政治中的角色，存在着一场热烈的讨论。一个问题涉及非专家如何识别专家（Goldman 2001 是经典的论点）。另一个问题涉及如何平衡对专家的依赖与民主对审议和平等的承诺（例如参见 Kitcher 2011）。还有一个问题是如何将公开审议中平等参与者所赋予的民主合法性与专家的独特认知权威相协调（例如参见 Christiano 2012）。
 
@@ -266,47 +266,47 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 ## Bibliography
 
 * Abramson, Kate, 2014, “Turning up the Lights on Gaslighting,” *Philosophical Perspectives*, 28(1): 1–30.
-* Alexander, Jason McKenzie, Johannes Himmelreich, and Christopher Thompson, 2015, “Epistemic Landscapes, Optimal Search, and the Division of Cognitive Labor,” *Philosophy of Science*, 82(3): 424–453. doi:10.1086/681766
-* Anderson, Elizabeth, 2006, “The Epistemology of Democracy,” *Episteme: A Journal of Social Epistemology*, 3(1): 8–22. doi:10.1353/epi.0.0000
+* Alexander, Jason McKenzie, Johannes Himmelreich, and Christopher Thompson, 2015, “Epistemic Landscapes, Optimal Search, and the Division of Cognitive Labor,” *Philosophy of Science*, 82(3): 424–453. doi: 10.1086/681766
+* Anderson, Elizabeth, 2006, “The Epistemology of Democracy,” *Episteme: A Journal of Social Epistemology*, 3(1): 8–22. doi: 10.1353/epi.0.0000
 * –––, 2010, *The Imperative of Integration*. Princeton, NJ: Princeton University Press.
 * –––, 2012, “Epistemic justice as a virtue of social institutions,” *Social epistemology* 26(2): 163–173.
 * Arrow, Kenneth, 1951/1963, *Social Choice and Individual Values*. New York: Wiley.
 * Baccelli, Jean, & Stewart, Rush T., 2023, “Support for geometric pooling,” *Review of Symbolic Logic*, 16(1): 298–337.
-* Bala, Venkatesh and Sanjeev Goyal, 1998, “Learning from Neighbours,” *Review of Economic Studies*, 65(3): 595–621. doi:10.1111/1467-937X.00059
+* Bala, Venkatesh and Sanjeev Goyal, 1998, “Learning from Neighbours,” *Review of Economic Studies*, 65(3): 595–621. doi: 10.1111/1467-937X.00059
 * Ballantyne, Nathan, 2015, “The significance of unpossessed evidence,” *The Philosophical Quarterly*, 65(260): 315–335.
 * –––, 2019, “Epistemic Trespassing,” *Mind*, 128(510): 367–395.
 * Banerjee, Siddhartha, Ashish Goel, and Anilesh Kollagunta Krishnaswamy, 2014, “Reincentivizing discovery: mechanisms for partial-progress sharing in research,” *Proceedings of the Fifteenth ACM Conference on Economics and Computation*, 149–166.
 * Berelson, Bernard, Paul F. Lazarsfeld, and William N. McPhee, 1954, *Voting; a Study of Opinion Formation in a Presidential Campaign*, Chicago, IL: University of Chicago Press.
 * Berenstain, Nora, 2016, “Epistemic Exploitation,” *Ergo: An Open Access Journal of Philosophy*, 3: 569–590.
 * Bicchieri, Cristina, 2005, *The grammar of society: The nature and dynamics of social norms*, Cambridge: Cambridge University Press.
-* Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch, 1992, “A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades,” *Journal of Political Economy*, 100(5): 992–1026. doi:10.1086/261849
-* Bird, Alexander, 2014, “When Is There a Group That Knows?,” in Lackey 2014: 42–63. doi:10.1093/acprof:oso/9780199665792.003.0003
+* Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch, 1992, “A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades,” *Journal of Political Economy*, 100(5): 992–1026. doi: 10.1086/261849
+* Bird, Alexander, 2014, “When Is There a Group That Knows?,” in Lackey 2014: 42–63. doi: 10.1093/acprof: oso/9780199665792.003.0003
 * –––, 2022, *Knowing Science*. Oxford: Oxford University Press.
 * Bloor, David, 1991, *Knowledge and Social Imagery*, 2nd ed. Chicago, IL: University of Chicago Press.
-* Bradley, Richard, 2007, “Reaching a Consensus,” *Social Choice and Welfare*, 29(4): 609–632. doi:10.1007/s00355-007-0247-y
-* Briggs, Rachael, Fabrizio Cariani, Kenny Easwaran, and Branden Fitelson, 2014, “Individual Coherence and Group Coherence,” in Lackey 2014: 215–239. doi:10.1093/acprof:oso/9780199665792.003.0010
-* Bright, Liam Kofi, 2017a, “On Fraud,” *Philosophical Studies*, 174(2): 291–310. doi:10.1007/s11098-016-0682-7
-* –––, 2017b, “Decision Theoretic Model of the Productivity Gap,” *Erkenntnis*, 82(2): 421–442. doi:10.1007/s10670-016-9826-6
-* Bright, Liam Kofi, Haixin Dang, and Remco Heesen, 2018, “A Role for Judgment Aggregation in Coauthoring Scientific Papers,” *Erkenntnis*, 83(2): 231–252. doi:10.1007/s10670-017-9887-1
+* Bradley, Richard, 2007, “Reaching a Consensus,” *Social Choice and Welfare*, 29(4): 609–632. doi: 10.1007/s00355-007-0247-y
+* Briggs, Rachael, Fabrizio Cariani, Kenny Easwaran, and Branden Fitelson, 2014, “Individual Coherence and Group Coherence,” in Lackey 2014: 215–239. doi: 10.1093/acprof: oso/9780199665792.003.0010
+* Bright, Liam Kofi, 2017a, “On Fraud,” *Philosophical Studies*, 174(2): 291–310. doi: 10.1007/s11098-016-0682-7
+* –––, 2017b, “Decision Theoretic Model of the Productivity Gap,” *Erkenntnis*, 82(2): 421–442. doi: 10.1007/s10670-016-9826-6
+* Bright, Liam Kofi, Haixin Dang, and Remco Heesen, 2018, “A Role for Judgment Aggregation in Coauthoring Scientific Papers,” *Erkenntnis*, 83(2): 231–252. doi: 10.1007/s10670-017-9887-1
 * Brown, Jessica, 2024, *Groups as Epistemic and Moral Agents*, Oxford: Oxford University Press.
-* Bruner, Justin and Cailin O’Connor, 2017, “Power, Bargaining, and Collaboration,” in *Scientific Collaboration and Collective Knowledge*, Thomas Boyer-Kassem, Conor Mayo-Wilson, and Michael Weisberg, eds., Oxford: Oxford University Press. doi:10.1093/oso/9780190680534.003.0007
-* Burge, Tyler, 1993, “Content Preservation,” *Philosophical Review*, 102(4): 457–488. doi:10.2307/2185680
+* Bruner, Justin and Cailin O’Connor, 2017, “Power, Bargaining, and Collaboration,” in *Scientific Collaboration and Collective Knowledge*, Thomas Boyer-Kassem, Conor Mayo-Wilson, and Michael Weisberg, eds., Oxford: Oxford University Press. doi: 10.1093/oso/9780190680534.003.0007
+* Burge, Tyler, 1993, “Content Preservation,” *Philosophical Review*, 102(4): 457–488. doi: 10.2307/2185680
 * Carel, H., & Kidd, I. J., 2014, “Epistemic injustice in healthcare: a philosophical analysis,” *Medicine, Health Care and Philosophy*, 17: 529–540.
 * Casadevall, Arturo and Ferric C Fang, 2012, “Reforming science: methodological and cultural reforms,” *Infection and immunity*, 80: 891–896.
 * Cassam, Quasim, 2018, “Epistemic insouciance,” *Journal of Philosophical Research*, 43: 1–20.
-* Christensen, David, 2007, “Epistemology of Disagreement: The Good News,” *Philosophical Review*, 116(2): 187–217. doi:10.1215/00318108-2006-035
-* –––, 2009, “Disagreement as Evidence: The Epistemology of Controversy,” *Philosophy Compass*, 4(5): 756–767. doi:10.1111/j.1747-9991.2009.00237.x
-* –––, 2013, “Epistemic Modesty Defended,” in *The Epistemology of Disagreement*, David Christensen and Jennifer Lackey, eds., Oxford: Oxford University Press, 76–97. doi:10.1093/acprof:oso/9780199698370.003.0005
+* Christensen, David, 2007, “Epistemology of Disagreement: The Good News,” *Philosophical Review*, 116(2): 187–217. doi: 10.1215/00318108-2006-035
+* –––, 2009, “Disagreement as Evidence: The Epistemology of Controversy,” *Philosophy Compass*, 4(5): 756–767. doi: 10.1111/j.1747-9991.2009.00237.x
+* –––, 2013, “Epistemic Modesty Defended,” in *The Epistemology of Disagreement*, David Christensen and Jennifer Lackey, eds., Oxford: Oxford University Press, 76–97. doi: 10.1093/acprof: oso/9780199698370.003.0005
 * Christiano, Thomas, 2012, “Rational deliberation among experts and citizens,” in Parkinson, John and Mansbridge, Jane, eds., *Deliberative Systems*. Cambridge: Cambridge University Press, 27–51.
 * Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W., & Starnini, M., 2021, “The echo chamber effect on social media,” *Proceedings of the National Academy of Sciences*, 118(9): e2023301118.
 * Coady, C. A. J., 1992, *Testimony: A Philosophical Study*, Oxford: Clarendon Press.
 * Collin, Finn, 2013, “Two Kinds of Social Epistemology,” *Social Epistemology Review and Reply Collective*, 2(8): 79–104.
 * Collins, Patricia Hill, 2000, *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment* New York: Routledge
 * Condorcet, Marquis de, 1785, *Essai sur l’application de l’analyse à la probabilité des décisions rendues à la pluralité des voix*, Paris. [[Condorcet 1785 available online](https://gallica.bnf.fr/ark:/12148/bpt6k417181.image)]
-* Craig, Edward, 1990, *Knowledge and the State of Nature: An Essay in Conceptual Synthesis*, Oxford: Clarendon Press. doi:10.1093/0198238797.001.0001
+* Craig, Edward, 1990, *Knowledge and the State of Nature: An Essay in Conceptual Synthesis*, Oxford: Clarendon Press. doi: 10.1093/0198238797.001.0001
 * Davis, Emmalon, 2016, “Typecasts, tokens, and spokespersons: A case for credibility excess as testimonial injustice,” *Hypatia*, 31(3): 485–501.
 * –––, 2018, “On epistemic appropriation,” *Ethics*, 128(4): 702–727.
-* DeGroot, Morris H., 1974, “Reaching a Consensus,” *Journal of the American Statistical Association*, 69(345): 118–121. doi:10.1080/01621459.1974.10480137
+* DeGroot, Morris H., 1974, “Reaching a Consensus,” *Journal of the American Statistical Association*, 69(345): 118–121. doi: 10.1080/01621459.1974.10480137
 * Descartes, René, 1637, *Discours de la Méthode Pour bien conduire sa raison, et chercher la vérité dans les sciences*, (Discourse on the Method of Rightly Conducting the Reason and Seeking for Truth in the Sciences), Leiden: Jan Maire. [[Descartes 1667 available online](https://gallica.bnf.fr/ark:/12148/btv1b86069594/f5.image)]
 * Diaz Ruiz, C. and Nilsson, T, 2023, “Disinformation and echo chambers: how disinformation circulates on social media through identity-driven controversies,” *Journal of Public Policy & Marketing*, 42(1): 18–35.
 * Dietrich, F., 2006, “Judgment Aggregation: (Im)Possibility Theorems,” *Journal of Economic Theory*, 126: 286–298.
@@ -314,11 +314,11 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * Dorst, K., 2022, “Rational polarization,” *The Philosophical Review*, Available at SSRN 3918498
 * Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing,” *Hypatia*, 26(2): 236–57.
 * –––, 2014, “Conceptualizing epistemic oppression,” *Social Epistemology*, 28(2): 115–138.
-* Dular, Nicole, 2021, “Mansplaining as Epistemic Injustice,” *Feminist Philosophy Quarterly*, 7(1): Article 1. doi:10.5206/fpq/2021.1.8482
+* Dular, Nicole, 2021, “Mansplaining as Epistemic Injustice,” *Feminist Philosophy Quarterly*, 7(1): Article 1. doi: 10.5206/fpq/2021.1.8482
 * Du Bois, W. E. Burghardt, 1898, “The Study of the Negro Problems,” *The Annals of the American Academy of Political and Social Science*, 11: 1–23.
 * Easwaran, Kenny, Luke Fenton-Glynn, Christopher Hitchcock, and Joel D. Velasco, 2016, “Updating on the Credences of Others: Disagreement, Agreement, and Synergy”, *Philosopher’s Imprint*, 16(11): 1–39. [[Easwaran et al. 2016 available online](http://hdl.handle.net/2027/spo.3521354.0016.011)]
 * Edenberg, Elizabeth, and Hannon, Michael, eds. 2021, *Political Epistemology*. Oxford: Oxford University Pres.
-* Elga, Adam, 2007, “Reflection and Disagreement,” *Noûs*, 41(3): 478–502. Reprinted in Goldman & Whitcomb, eds., 2011, 158–182. doi:10.1111/j.1468-0068.2007.00656.x
+* Elga, Adam, 2007, “Reflection and Disagreement,” *Noûs*, 41(3): 478–502. Reprinted in Goldman & Whitcomb, eds., 2011, 158–182. doi: 10.1111/j.1468-0068.2007.00656.x
 * Estlund, David, 2008, *Democratic Authority: A Philosophical Framework.* Princeton: Princeton University Press.
 * Fallis, D. 2011, “Wikipistemology,” in A. Goldman and D. Whitcombe, eds., *Social epistemology: Essential readings*, Oxford: Oxford University Press, 297–313.
 * –––, 2015, “What is disinformation?” *Library trends*, 63(3): 401–426.
@@ -328,7 +328,7 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * –––, 2011, *Knowledge on trust*. Oxford: Oxford University Press.
 * Feldman, Richard, 2006, “Epistemological puzzles about disagreement,” in Stephen Hetherington, ed., *Epistemology Futures*. Oxford: Oxford University Press, 216–236.
 * –––, 2007, “Reasonable Religious Disagreement,” in *Philosophers without Gods: Meditations on Atheism and the Secular Life*, Louise Antony, ed., Oxford: Oxford University Press, 194–214. Reprinted in Goldman & Whitcomb, eds., 2011, 137–157.
-* Fernández Pinto, Manuela and Daniel Fernández Pinto, 2018, “Epistemische Landschaften Reloaded. Eine Analyse Agentenbasierter Modelle in Der Sozialen ErkenntnistheorieEpistemic Landscapes Reloaded: An Examination of Agent-Based Models in Social Epistemology,” *Historical Social Research / Historische Sozialforschung*, 43(163): 48–71. doi:10.12759/hsr.43.2018.1.48-71
+* Fernández Pinto, Manuela and Daniel Fernández Pinto, 2018, “Epistemische Landschaften Reloaded. Eine Analyse Agentenbasierter Modelle in Der Sozialen ErkenntnistheorieEpistemic Landscapes Reloaded: An Examination of Agent-Based Models in Social Epistemology,” *Historical Social Research / Historische Sozialforschung*, 43(163): 48–71. doi: 10.12759/hsr.43.2018.1.48-71
 * Floridi, Luciano, 2016, *The philosophy of information*, Oxford: Oxford University Press.
 * Foucault, Michel, 1969 [1972], *L’archéologie du savoir*, Paris: Gallimard. Translated as *The Archaeology of Knowledge*, Allan Sheridan (trans.), New York: Harper and Row, 1972.
 * –––, 1975 [1977], *Surveiller et punir : Naissance de la prison*, Paris: Gallimard. Translated as *Discipline and Punish: The Birth of the Prison*, Allan Sheridan (trans.), New York: Pantheon, 1977.
@@ -337,20 +337,20 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * Freiman, Ori, 2023, “Analysis of Beliefs Acquired from a Conversational AI: Instruments-based Beliefs, Testimony-based Beliefs, and Technology-based Beliefs,” *Episteme*, 1–17.
 * Freiman, Ori, and Miller, Boaz, 2020, “Can artificial entities assert?” in S. Goldberg, ed., *The Oxford handbook of assertion*, Oxford: Oxford University Press, 415–436.
 * Fricker, Elizabeth, 1987, “The epistemology of testimony,” *Proceedings of the Aristotelian Society*, Supplementary volume, 61: 57–83.
-* –––, 1994, “Against Gullibility,” in *Knowing from Words*, Bimal Krishna Matilal and Arindam Chakrabarti, eds., Dordrecht: Springer, 125–161. doi:10.1007/978-94-017-2018-2_8
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
+* –––, 1994, “Against Gullibility,” in *Knowing from Words*, Bimal Krishna Matilal and Arindam Chakrabarti, eds., Dordrecht: Springer, 125–161. doi: 10.1007/978-94-017-2018-2_8
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
 * –––, 2012, “Group testimony? The making of a collective good informant,” *Philosophy and Phenomenological Research*, 84(2): 249–276.
 * Frost-Arnold, Karen, 2016, “Social media, trust, and the epistemology of prejudice,” *Social Epistemology*, 30(5–6): 513–531.
 * –––, 2021, “The Epistemic Dangers of Context Collapse Online,” in Jennifer Lackey, ed., *Applied Epistemology*, New York: Oxford University Press, 437–56.
 * Fuller, Steve, 1988, *Social Epistemology*, Bloomington: Indiana University Press.
-* Genest, Christian, 1984, “A Characterization Theorem for Externally Bayesian Groups,” *The Annals of Statistics*, 12(3): 1100–1105. doi:10.1214/aos/1176346726
-* Genest, Christian and James V. Zidek, 1986, “Combining Probability Distributions: A Critique and an Annotated Bibliography,” *Statistical Science*, 1(1): 114–135. doi:10.1214/ss/1177013825
+* Genest, Christian, 1984, “A Characterization Theorem for Externally Bayesian Groups,” *The Annals of Statistics*, 12(3): 1100–1105. doi: 10.1214/aos/1176346726
+* Genest, Christian and James V. Zidek, 1986, “Combining Probability Distributions: A Critique and an Annotated Bibliography,” *Statistical Science*, 1(1): 114–135. doi: 10.1214/ss/1177013825
 * Gerken, Mikkel, 2012, “Critical study of Goldberg’s Relying on others,” *Episteme*, 9(1): 81–88.
 * –––, 2013, “Internalism and Externalism in the Epistemology of Testimony,” *Philosophy and Phenomenological Research*, 87(3): 532–57.
 * –––, 2022, *Scientific Testimony: Its roles in science and society*, Oxford: Oxford University Press.
-* Gilbert, Margaret, 1987, “Modelling Collective Belief,” *Synthese*, 73(1): 185–204. doi:10.1007/BF00485446
+* Gilbert, Margaret, 1987, “Modelling Collective Belief,” *Synthese*, 73(1): 185–204. doi: 10.1007/BF00485446
 * –––, 1989, *On Social Facts*, New York: Routledge.
-* –––, 2004, “Collective Epistemology,” *Episteme*, 1(2): 95–107. doi:10.3366/epi.2004.1.2.95
+* –––, 2004, “Collective Epistemology,” *Episteme*, 1(2): 95–107. doi: 10.3366/epi.2004.1.2.95
 * Gilson, Erinn, 2011, “Vulnerability, ignorance, and oppression,” *Hypatia* 26(2): 308–332.
 * Goldberg, Sanford, 2010, *Relying on Others: An Essay in Epistemology*, Oxford: Oxford University Press.
 * –––, 2013, “Disagreement, Defeaters, and Assertion,” in D. Christensen and J. Lackey, eds., *Disagreement*, Oxford: Oxford University Press, 167–89
@@ -359,11 +359,11 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * –––, 2018, *To the Best of Our Knowledge: Social Expectations and Epistemic Normativity*, Oxford: Oxford University Press.
 * –––, 2020, “Epistemically Engineered Environments,” *Synthese* 197: 2783–2802
 * –––, 2021, *Foundations and Applications of Social Epistemology: Collected Essays*. Oxford: Oxford University Press.
-* Goldman, Alvin I., 1979, “What Is Justified Belief?,” in *Justification and Knowledge*, George S. Pappas, ed., Dordrecht: Springer, 1–23. doi:10.1007/978-94-009-9493-5_1
-* –––, 1987, “Foundations of Social Epistemics,” *Synthese*, 73(1): 109–144. doi:10.1007/BF00485444
-* –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
-* –––, 2001, “Experts: Which Ones Should You Trust?,” *Philosophy and Phenomenological Research*, 63(1): 85–110. Reprinted in Goldman & Whitcomb. eds., 2011, 109–133. doi:10.1111/j.1933-1592.2001.tb00093.x
-* –––, 2014, “Social Process Reliabilism: Solving Justification Problems in Collective Epistemology,” in *Essays in Collective Epistemology*, Jennifer Lackey, ed.: 11–41. doi:10.1093/acprof:oso/9780199665792.003.0002
+* Goldman, Alvin I., 1979, “What Is Justified Belief?,” in *Justification and Knowledge*, George S. Pappas, ed., Dordrecht: Springer, 1–23. doi: 10.1007/978-94-009-9493-5_1
+* –––, 1987, “Foundations of Social Epistemics,” *Synthese*, 73(1): 109–144. doi: 10.1007/BF00485444
+* –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi: 10.1093/0198238207.001.0001
+* –––, 2001, “Experts: Which Ones Should You Trust?,” *Philosophy and Phenomenological Research*, 63(1): 85–110. Reprinted in Goldman & Whitcomb. eds., 2011, 109–133. doi: 10.1111/j.1933-1592.2001.tb00093.x
+* –––, 2014, “Social Process Reliabilism: Solving Justification Problems in Collective Epistemology,” in *Essays in Collective Epistemology*, Jennifer Lackey, ed.: 11–41. doi: 10.1093/acprof: oso/9780199665792.003.0002
 * Golub, Benjamin and Matthew O Jackson, 2010, “Naive learning in social networks and the wisdom of crowds,” *American Economic Journal: Microeconomics*, 2(1): 112–49.
 * –––, 2012, “How homophily affects the speed of learning and best-response dynamics,” *The Quarterly Journal of Economics* 127(3): 1287–1338.
 * Graham, Peter, 2006, “Testimonial justification: inferential or non-inferential?,” *The Philosophical Quarterly*, 56(222): 84–95.
@@ -376,52 +376,52 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * Haraway, Donna J., 1989, *Primate Visions: Gender, Race, and Nature in the World of Modern Science*, New York: Routledge.
 * Harding, Sandra, 1991, *Whose Science? Whose Knowledge? Thinking from Women’s Lives*, Ithaca, NY: Cornell University Press.
 * Harris, K. R., 2023, “Beyond belief: On disinformation and manipulation,” *Erkenntnis*: 1–21.
-* Heesen, Remco, 2017, “Academic Superstars: Competent or Lucky?,” *Synthese*, 194(11): 4499–4518. doi:10.1007/s11229-016-1146-5
+* Heesen, Remco, 2017, “Academic Superstars: Competent or Lucky?,” *Synthese*, 194(11): 4499–4518. doi: 10.1007/s11229-016-1146-5
 * –––, 2017b,“Communism and the Incentive to Share in Science,” *Philosophy of Science* 84(4): 698–716.
 * –––, 2018, “Why the reward structure of science makes reproducibility problems inevitable,” *The journal of Philosophy*, 115(12): 661–674.
-* –––, 2021, “Cumulative Advantage and the Incentive to Commit Fraud in Science,” *British Journal for the Philosophy of Science*, doi:10.1086/716235.
+* –––, 2021, “Cumulative Advantage and the Incentive to Commit Fraud in Science,” *British Journal for the Philosophy of Science*, doi: 10.1086/716235.
 * Henderson, David, & Graham, Peter, 2019, “Epistemic norms as social norms,” in Fricker, M., Graham, P, Henderson, D., and Pedersen, N., eds., *The Routledge Handbook of Social Epistemology* New York: Routledge, 425–436.
 * Hengel, Erin, 2022, “Publishing while female: Are women held to higher standards? Evidence from peer review,” *The Economic Journal*, 132(648): 2951–2991.
 * Higginson, Andrew D. & Munafo, Marcus R., 2016,“Current incentives for scientists lead to underpowered studies with erroneous conclusions,” *PLoS Biology*, 14(11): e2000995.
-* Holman, Bennett & Bruner, Justin P., 2015, “The Problem of Intransigently Biased Agents,” *Philosophy of Science*, 82(5): 956–968. doi:10.1086/683344
-* –––, 2017, “Experimentation by Industrial Selection,” *Philosophy of Science*, 84(5): 1008–1019. doi:10.1086/694037
-* Hong, Lu & Page, Scott E., 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers,” *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi:10.1073/pnas.0403723101
+* Holman, Bennett & Bruner, Justin P., 2015, “The Problem of Intransigently Biased Agents,” *Philosophy of Science*, 82(5): 956–968. doi: 10.1086/683344
+* –––, 2017, “Experimentation by Industrial Selection,” *Philosophy of Science*, 84(5): 1008–1019. doi: 10.1086/694037
+* Hong, Lu & Page, Scott E., 2004, “Groups of Diverse Problem Solvers Can Outperform Groups of High-Ability Problem Solvers,” *Proceedings of the National Academy of Sciences*, 101(46): 16385–16389. doi: 10.1073/pnas.0403723101
 * Hume, D., 1777, *Enquiries Concerning Human Understanding and Concerning the Principles of Morals*, ed., L. A. Selby-Bigge, Oxford: Clarendon Press.
 * Hutchins, Edwin, 1995, *Cognition in the Wild*, Cambridge, MA: MIT Press.
 * Jasanoff, Sheila, 1998, *The Fifth Branch: Science Advisers as Policymakers*, Cambridge, MA: Harvard University Press.
 * Jern, A., Chang, K. M. K., & Kemp, C., 2014, “Belief polarization is not always irrational,” *Psychological review*, 121(2): 206.
-* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism,” *Philosophy of Science*, 65(4): 575–603. doi:10.1086/392661
+* Joyce, James M., 1998, “A Nonpragmatic Vindication of Probabilism,” *Philosophy of Science*, 65(4): 575–603. doi: 10.1086/392661
 * Kallestrup, Jesper, & Pritchard, Duncan, 2012, “Robust virtue epistemology and epistemic anti-individualism,” *Pacific Philosophical Quarterly*, 93(1): 84–103.
-* Keeney, Ralph L. & Howard Raiffa, 1993, *Decisions with Multiple Objectives: Preferences and Value Trade-Offs*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139174084
+* Keeney, Ralph L. & Howard Raiffa, 1993, *Decisions with Multiple Objectives: Preferences and Value Trade-Offs*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139174084
 * Kelly, Tom, 2005, “The Epistemic Significance of Disagreement,” in Tamar Szabo Gendler & John Hawthorne, eds., *Oxford Studies in Epistemology*, Volume 1. Oxford: Oxford University Press.
-* –––, 2010, “Peer Disagreement and Higher-Order Evidence,” in *Disagreement*, Richard Feldman & Ted A. Warfield, eds., Oxford: Oxford University Press, 111–174. Reprinted in Goldman & Whitcomb, eds., 2011, 183–217. doi:10.1093/acprof:oso/9780199226078.003.0007
+* –––, 2010, “Peer Disagreement and Higher-Order Evidence,” in *Disagreement*, Richard Feldman & Ted A. Warfield, eds., Oxford: Oxford University Press, 111–174. Reprinted in Goldman & Whitcomb, eds., 2011, 183–217. doi: 10.1093/acprof: oso/9780199226078.003.0007
 * Kenyon, Tim, 2013, “The Informational Richness of Testimonial Contexts,” *The Philosophical Quarterly*, 63(250): 58–80.
 * Keren, Arnon, 2014, “Trust and Belief: A Preemptive Reasons Account,” *Synthese*, 191(12): 2593–2615.
-* Kitcher, Philip, 1990, “The Division of Cognitive Labor,” *Journal of Philosophy*, 87(1): 5. doi:10.2307/2026796
-* –––, 1995, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi:10.1093/0195096533.001.0001
+* Kitcher, Philip, 1990, “The Division of Cognitive Labor,” *Journal of Philosophy*, 87(1): 5. doi: 10.2307/2026796
+* –––, 1995, *The Advancement of Science: Science Without Legend, Objectivity Without Illusions*, Oxford: Oxford University Press. doi: 10.1093/0195096533.001.0001
 * –––, 2011, *Science in a Democratic Society*, New York: Prometheus Books.
 * Kinney, David, 2022, “Why Average When You Can Stack? Better Methods for Generating Accurate Group Credences,” *Philosophy of Science*, 89(4): 845–863.
 * Kornblith, Hilary, 2013, “Is philosophical knowledge possible?,” in D. Machuca, ed., *Disagreement and skepticism*, New York: Routledge, 260–276.
-* Kornhauser, Lewis A. & Lawrence G. Sager, 1986, “Unpacking the Court,” *The Yale Law Journal*, 96(1): 82–117. doi:10.2307/796436
+* Kornhauser, Lewis A. & Lawrence G. Sager, 1986, “Unpacking the Court,” *The Yale Law Journal*, 96(1): 82–117. doi: 10.2307/796436
 * Kotzee, Ben, 2017, “Education and epistemic injustice,” in *The Routledge Handbook of Epistemic Injustice*, New York: Routledge, 325–335.
 * Kuhn, Thomas, 1962 [1970], *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press. Second edition 1970.
-* Lackey, Jennifer, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219162.001.0001
-* ––– ed., 2014, *Essays in Collective Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199665792.001.0001
-* –––, 2016, “What Is Justified Group Belief?,”: *Philosophical Review*, 125(3): 341–396. doi:10.1215/00318108-3516946
+* Lackey, Jennifer, 2008, *Learning from Words: Testimony as a Source of Knowledge*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199219162.001.0001
+* ––– ed., 2014, *Essays in Collective Epistemology*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199665792.001.0001
+* –––, 2016, “What Is Justified Group Belief?,”: *Philosophical Review*, 125(3): 341–396. doi: 10.1215/00318108-3516946
 * –––, 2018, “Credibility and the distribution of epistemic goods,” in K. McCain, ed., *Believing in Accordance with the Evidence: New essays on evidentialism* Dordrecht: Springer, 145–168.
 * –––, 2020, “Epistemic duties regarding others,” in K. McCain and S. Stapleford, eds., *Epistemic Duties*, New York: Routledge, 281–295
 * –––, 2021, *The Epistemology of Groups*, Oxford: Oxford University Press.
 * –––, 2023, *Criminal Testimonial Injustice*, Oxford: Oxford University Press.
-* Landemore, Hélène, 2011, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton, NJ: Princeton University Press. doi:10.23943/princeton/9780691155654.001.0001
+* Landemore, Hélène, 2011, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton, NJ: Princeton University Press. doi: 10.23943/princeton/9780691155654.001.0001
 * –––, 2013, “Deliberation, cognitive diversity, and democratic inclusiveness: an epistemic argument for the random selection of representatives,” *Synthese*, 190: 1209–1231.
 * Latour, Bruno and Steve Woolgar, 1986, *Laboratory Life: The Construction of Scientific Facts*, 2nd edition, Princeton, NJ: Princeton University Press.
 * Lawlor, Krista, 2013, *Assurance: An Austinian view of knowledge and knowledge claims*, Oxford: Oxford University Press.
 * Le, T. & Clarke, B., 2017, “A Bayes interpretation of stacking for M-complete and M-open settings,” *Bayesian Analysis*, 12(3): 807–829.
-* Lehrer, Keith & Carl Wagner, 1981, *Rational Consensus in Science and Society: A Philosophical and Mathematical Study*, Dordrecht: Springer. doi:10.1007/978-94-009-8520-9
+* Lehrer, Keith & Carl Wagner, 1981, *Rational Consensus in Science and Society: A Philosophical and Mathematical Study*, Dordrecht: Springer. doi: 10.1007/978-94-009-8520-9
 * Leonard, Nick, 2016, “Testimony, evidence and interpersonal reasons,” *Philosophical Studies*, 173: 2333–2352.
 * Leydon-Hardy, Lauren, 2021, “Predatory grooming and epistemic infringement,” in J. Lackey, ed., *Applied Epistemology* Oxford: Oxford University Press, 119–147.
 * List, Christian & Pettit, Philip, 2002, “Aggregating sets of judgments: an impossibility result,” *Economics and Philosophy*, 18: 89–110.
-* –––, 2011, *Group Agency: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199591565.001.0001
+* –––, 2011, *Group Agency: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199591565.001.0001
 * Locke, John, 1690, *An Essay Concerning Human Understanding*, London.
 * Longino, Helen E., 1990, *Science as Social Knowledge: Values and Objectivity in Scientific Inquiry*, Princeton, NJ: Princeton University Press.
 * –––, 2002. *The Fate of Knowledge*, Princeton, NJ: Princeton University Press.
@@ -430,13 +430,13 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * Maitra, Ishani, 2018, “New words for old wrongs,” *Episteme*, 15(3): 345–362.
 * Malmgren, Anna-Sara, 2006, “Is There A Priori Knowledge by Testimony?,” *The Philosophical Review*, 115(2): 199–241.
 * Mason, Rebecca, 2011, “Two Kinds of Unknowing,” *Hypatia*, 26(2): 294–307.
-* Mayo-Wilson, Conor, Zollman, Kevin J. S., & David Danks, 2011, “The Independence Thesis: When Individual and Social Epistemology Diverge,” *Philosophy of Science*, 78(4): 653–677. doi:10.1086/661777
-* –––, 2013, “Wisdom of Crowds versus Groupthink: Learning in Groups and in Isolation,” *International Journal of Game Theory*, 42(3): 695–723. doi:10.1007/s00182-012-0329-7
+* Mayo-Wilson, Conor, Zollman, Kevin J. S., & David Danks, 2011, “The Independence Thesis: When Individual and Social Epistemology Diverge,” *Philosophy of Science*, 78(4): 653–677. doi: 10.1086/661777
+* –––, 2013, “Wisdom of Crowds versus Groupthink: Learning in Groups and in Isolation,” *International Journal of Game Theory*, 42(3): 695–723. doi: 10.1007/s00182-012-0329-7
 * McKinnon, Rachel, 2017, “Gaslighting as epistemic injustice,” in Kidd, I., Medina, J., and Pohlhaus, G., eds., *The Routledge Handbook of Epistemic Injustice*, New York: Routledge, 167–174.
 * McMyler, Benjamin, 2011, *Testimony, trust, and authority*, Oxford: Oxford University Press.
 * Medina, José, 2011, “The relevance of credibility excess in a proportional view of epistemic injustice: Differential epistemic authority and the social imaginary,” *Social Epistemology*, 25(1): 15–35.
 * –––, 2012, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and the Social Imagination*, Oxford: Oxford University Press.
-* Merton, Robert K., 1968, “The Matthew Effect in Science: The Reward and Communication Systems of Science Are Considered,” *Science*, 159(3810): 56–63. doi:10.1126/science.159.3810.56
+* Merton, Robert K., 1968, “The Matthew Effect in Science: The Reward and Communication Systems of Science Are Considered,” *Science*, 159(3810): 56–63. doi: 10.1126/science.159.3810.56
 * –––, 1973, *The Sociology of Science: Theoretical and Empirical Investigations*, Chicago: University of Chicago Press.
 * Meyer, M., Alfano, M., and De Bruin, B., 2021, “Epistemic vice predicts acceptance of Covid-19 misinformation,” *Episteme*: 1–22.
 * Mill, John Stuart, 1859 [1966], *On Liberty*, London. Reprinted in his *A Selection of His Works*, John M. Robson ed., London: Palgrave, 1966, 1–147.
@@ -445,48 +445,48 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * –––, 2007, “White Ignorance,” in Shannon Sullivan & Nancy Tuana, eds., *Race and Epistemologies of Ignorance*, Albany: State Univ of New York Press, 11–38.
 * Mongin, P., 2008, “Factoring Out the Impossibility of Logical Aggregation,”*Journal of Economic Theory*, 141: 100–113.
 * Moody-Adams, Michelle, 1994, “Culture, Responsibility, and Affected Ignorance,” *Ethics*, 104(2): 291–309.
-* Moss, Sarah, 2011, “Scoring Rules and Epistemic Compromise,” *Mind*, 120(480): 1053–1069. doi:10.1093/mind/fzs007
+* Moss, Sarah, 2011, “Scoring Rules and Epistemic Compromise,” *Mind*, 120(480): 1053–1069. doi: 10.1093/mind/fzs007
 * Nguyen, C. T., 2020, “Echo chambers and epistemic bubbles,” *Episteme*, 17(2): 141–161.
 * O’Connor, Cailin, 2019, “The natural selection of conservative science,” *Studies in History and Philosophy of Science*, Part A (76): 24–29.
-* O’Connor, Cailin & Bruner, Justin, 2019, “Dynamics and Diversity in Epistemic Communities,” *Erkenntnis*, 84(1): 101–119. doi:10.1007/s10670-017-9950-y
-* O’Connor, Cailin & Weatherall, James Owen, 2018, “Scientific Polarization”, *European Journal for Philosophy of Science*, 8(3): 855–875. doi:10.1007/s13194-018-0213-9
+* O’Connor, Cailin & Bruner, Justin, 2019, “Dynamics and Diversity in Epistemic Communities,” *Erkenntnis*, 84(1): 101–119. doi: 10.1007/s10670-017-9950-y
+* O’Connor, Cailin & Weatherall, James Owen, 2018, “Scientific Polarization”, *European Journal for Philosophy of Science*, 8(3): 855–875. doi: 10.1007/s13194-018-0213-9
 * –––, 2019, *The Misinformation Age: How False Beliefs Spread*, New Haven: Yale University Press.
-* Olsson, Erik J., 2013, “A Bayesian Simulation Model of Group Deliberation and Polarization,” in *Bayesian Argumentation*, Frank Zenker, ed., Dordrecht: Springer Netherlands, 113–133. doi:10.1007/978-94-007-5357-0_6
+* Olsson, Erik J., 2013, “A Bayesian Simulation Model of Group Deliberation and Polarization,” in *Bayesian Argumentation*, Frank Zenker, ed., Dordrecht: Springer Netherlands, 113–133. doi: 10.1007/978-94-007-5357-0_6
 * Pariser, Eli, 2011, *The filter bubble: How the new personalized web is changing what we read and how we think* New York: Penguin.
 * Pauly, Marc & van Hees, Martin, 2006, “Logical Constraints on Judgment Aggregation,” *Journal of Philosophical Logic*, 35: 569–585.
-* Pettigrew, Richard, 2019, “On the Accuracy of Group Credences,” in *Oxford Studies in Epistemology Volume 6*, Tamar Szabó Gendler and John Hawthorne eds., Oxford: Oxford University Press, 137–160. doi:10.1093/oso/9780198833314.003.0006
-* Pöyhönen, Samuli, 2017, “Value of Cognitive Diversity in Science,” *Synthese*, 194(11): 4519–4540. doi:10.1007/s11229-016-1147-4
+* Pettigrew, Richard, 2019, “On the Accuracy of Group Credences,” in *Oxford Studies in Epistemology Volume 6*, Tamar Szabó Gendler and John Hawthorne eds., Oxford: Oxford University Press, 137–160. doi: 10.1093/oso/9780198833314.003.0006
+* Pöyhönen, Samuli, 2017, “Value of Cognitive Diversity in Science,” *Synthese*, 194(11): 4519–4540. doi: 10.1007/s11229-016-1147-4
 * Pohlhaus, Gaile, 2012, “Relational knowing and epistemic injustice: Toward a theory of willful hermeneutical ignorance,” *Hypatia*, 27(4): 715–735.
 * Priest, Maura, 2021, “How vice can motivate distrust in elites and trust in fake news,” in *The Epistemology of Fake News*, Sven Bernecker, Amy K. Floweree & Thomas Grundmann, eds., 180–205.
-* Quinton, Anthony, 1976, “Social Objects,” *Proceedings of the Aristotelian Society*, 76: 1–28. doi:10.1093/aristotelian/76.1.1
+* Quinton, Anthony, 1976, “Social Objects,” *Proceedings of the Aristotelian Society*, 76: 1–28. doi: 10.1093/aristotelian/76.1.1
 * Reid, Thomas, 1764/1983, *Inquiry and Essays*, Ronald E. Beanblossom and Keith Lehrer, eds., Indianapolis: Hackett.
 * Rogers, Everett M., 1962, *Diffusion of Innovations*, New York: Free Press. Fifth edition, New York: Simmon and Schuster, 2003.
-* Romero, Felipe, 2017, “Novelty versus Replicability: Virtues and Vices in the Reward System of Science,” *Philosophy of Science*, 84(5): 1031–1043. doi:10.1086/694005
+* Romero, Felipe, 2017, “Novelty versus Replicability: Virtues and Vices in the Reward System of Science,” *Philosophy of Science*, 84(5): 1031–1043. doi: 10.1086/694005
 * Rorty, Richard, 1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
-* Rosenstock, Sarita, Justin Bruner, and Cailin O’Connor, 2017, “In Epistemic Networks, Is Less Really More?,” *Philosophy of Science*, 84(2): 234–252. doi:10.1086/690717
-* Rubin, Hannah and Cailin O’Connor, 2018, “Discrimination and Collaboration in Science,” *Philosophy of Science*, 85(3): 380–402. doi:10.1086/697744
+* Rosenstock, Sarita, Justin Bruner, and Cailin O’Connor, 2017, “In Epistemic Networks, Is Less Really More?,” *Philosophy of Science*, 84(2): 234–252. doi: 10.1086/690717
+* Rubin, Hannah and Cailin O’Connor, 2018, “Discrimination and Collaboration in Science,” *Philosophy of Science*, 85(3): 380–402. doi: 10.1086/697744
 * Ruíz, Elena, 2020, “Cultural gaslighting,” *Hypatia*, 35(4): 687–713.
-* Russell, Jeffrey Sanford, John Hawthorne, and Lara Buchak, 2015, “Groupthink,” *Philosophical Studies*, 172(5): 1287–1309. doi:10.1007/s11098-014-0350-8
+* Russell, Jeffrey Sanford, John Hawthorne, and Lara Buchak, 2015, “Groupthink,” *Philosophical Studies*, 172(5): 1287–1309. doi: 10.1007/s11098-014-0350-8
 * Schmitt, Frederick F., 1994a, “The Justification of Group Beliefs,” in Schmitt 1994b: 257–288.
 * –––, ed., 1994b, *Socializing Epistemology: The Social Dimensions of Knowledge*, Lanham: Rowman & Littlefield.
 * –––, 2006, “Testimonial Justification and Transindividual Reasons” in Jennifer Lackey & Ernest Sosa eds., *The Epistemology of Testimony*, Oxford: Oxford University Press, 193–224.
-* Simion, Mona, 2023, “Resistance to Evidence and the Duty to Believe,” *Philosophy and Phenomenological Research*, doi:10.1111/phpr.12964.
+* Simion, Mona, 2023, “Resistance to Evidence and the Duty to Believe,” *Philosophy and Phenomenological Research*, doi: 10.1111/phpr.12964.
 * –––, 2023, “Knowledge and disinformation,” *Episteme*, 1–12.
-* Singer, Daniel J., 2019a, “Diversity, Not Randomness, Trumps Ability”, *Philosophy of Science*, 86(1): 178–191. doi:10.1086/701074
+* Singer, Daniel J., 2019a, “Diversity, Not Randomness, Trumps Ability”, *Philosophy of Science*, 86(1): 178–191. doi: 10.1086/701074
 * Singer, D. J., Bramson, A., Grim, P., Holman, B., Jung, J., Kovaka, K., Ranginani, A. and Berger, W. J., 2019, “Rational social and political polarization,” *Philosophical Studies*, 176: 2243–2267
-* Smaldino, Paul E. and Richard McElreath, 2016, “The Natural Selection of Bad Science”, *Royal Society Open Science*, 3(9): 160384. doi:10.1098/rsos.160384
+* Smaldino, Paul E. and Richard McElreath, 2016, “The Natural Selection of Bad Science”, *Royal Society Open Science*, 3(9): 160384. doi: 10.1098/rsos.160384
 * Smaldino, Paul E, Matthew A Turner, and Pablo A Contreras Kallens, 2019,“Open science and modified funding lotteries can impede the natural selection of bad science, ” *Royal Society Open Science*, 6(7): 190194.
 * Smart, P. R., 2018, “Mandevillian intelligence,” *Synthese*, 195: 4169–4200.
-* Solomon, Miriam, 2006, “*Groupthink* versus *The Wisdom of Crowds*: The Social Epistemology of Deliberation and Dissent”, *The Southern Journal of Philosophy*, 44(S1): 28–42. doi:10.1111/j.2041-6962.2006.tb00028.x
+* Solomon, Miriam, 2006, “*Groupthink* versus *The Wisdom of Crowds*: The Social Epistemology of Deliberation and Dissent”, *The Southern Journal of Philosophy*, 44(S1): 28–42. doi: 10.1111/j.2041-6962.2006.tb00028.x
 * –––, 2007, *Social empiricism*, Cambridge: MIT press.
 * Stanley, Jason, 2015, *How propaganda works*, Princeton: Princeton University Press.
-* Steele, Katie, 2012, “Testimony as Evidence: More Problems for Linear Pooling”, *Journal of Philosophical Logic*, 41(6): 983–999. doi:10.1007/s10992-012-9227-5
+* Steele, Katie, 2012, “Testimony as Evidence: More Problems for Linear Pooling”, *Journal of Philosophical Logic*, 41(6): 983–999. doi: 10.1007/s10992-012-9227-5
 * Stewart, Alexander J and Joshua B Plotkin, 2021, “The natural selection of good science” *Nature Human Behaviour*, 5(11): 1510–1518.
-* Strevens, Michael, 2003, “The Role of the Priority Rule in Science,” *Journal of Philosophy*, 100(2): 55–79. doi:10.5840/jphil2003100224
-* –––, 2006, “The Role of the Matthew Effect in Science”, *Studies in History and Philosophy of Science Part A*, 37(2): 159–170. doi:10.1016/j.shpsa.2005.07.009
+* Strevens, Michael, 2003, “The Role of the Priority Rule in Science,” *Journal of Philosophy*, 100(2): 55–79. doi: 10.5840/jphil2003100224
+* –––, 2006, “The Role of the Matthew Effect in Science”, *Studies in History and Philosophy of Science Part A*, 37(2): 159–170. doi: 10.1016/j.shpsa.2005.07.009
 * Sullivan, Shannon, and Tuana, Nancy, eds., 2007. *Race and epistemologies of ignorance*, Albany, NY: SUNY Press.
-* Thoma, Johanna, 2015, “The Epistemic Division of Labor Revisited,” *Philosophy of Science*, 82(3): 454–472. doi:10.1086/681768
-* Thompson, Abigail, 2014, “Does Diversity Trump Ability?,” *Notices of the American Mathematical Society*, 61(9): 1024. doi:10.1090/noti1163
+* Thoma, Johanna, 2015, “The Epistemic Division of Labor Revisited,” *Philosophy of Science*, 82(3): 454–472. doi: 10.1086/681768
+* Thompson, Abigail, 2014, “Does Diversity Trump Ability?,” *Notices of the American Mathematical Society*, 61(9): 1024. doi: 10.1090/noti1163
 * Tollefsen, Deborah, 2009, “Wikipedia and the Epistemology of Testimony,” *Episteme*, 6(1): 8–24.
 * –––, 2015, *Groups as Agents*, Cambridge: Polity Press.
 * Tuana, Nancy, 2004, “Coming to understand: Orgasm and the epistemology of ignorance,” *Hypatia* 19(1): 194–232.
@@ -494,15 +494,15 @@ Weisberg 和 Muldoon 认为，“跟随者”（致力于解决与其他人类�
 * Tuomela, Raimo, 1992, “Group Beliefs,” *Synthese*, 91(3): 285–318.
 * Wardle, Claire, & Derakhshan, Hossein, 2017, “Information disorder: Toward an interdisciplinary framework for research and policymaking,” 27: 1–107. Strasbourg: Council of Europe.
 * Weatherall, James Owen, Cailin O’Connor, and Justin P. Bruner, 2020, “How to Beat Science and Influence People: Policymakers and Propaganda in Epistemic Networks,” *The British Journal for the Philosophy of Science*, 71(4): 1157–1186.
-* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor,” *Philosophy of Science*, 76(2): 225–252. doi:10.1086/644786
-* Wray, K. Brad, 2001, “Collective Belief and Acceptance,” *Synthese*, 129(3): 319–333. doi:10.1023/A:1013148515033
-* –––, 2014, “Collaborative Research, Deliberation, and Innovation,” *Episteme*, 11(3): 291–303. doi:10.1017/epi.2014.9
+* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor,” *Philosophy of Science*, 76(2): 225–252. doi: 10.1086/644786
+* Wray, K. Brad, 2001, “Collective Belief and Acceptance,” *Synthese*, 129(3): 319–333. doi: 10.1023/A: 1013148515033
+* –––, 2014, “Collaborative Research, Deliberation, and Innovation,” *Episteme*, 11(3): 291–303. doi: 10.1017/epi.2014.9
 * Young, Iris Marion, 2000, *Inclusion and Democracy*, Oxford: Oxford University Press.
-* Zollman, Kevin J. S., 2007, “The Communication Structure of Epistemic Communities,” *Philosophy of Science*, 74(5): 574–587. Reprinted in Goldman & Whitcomb, eds., 2011, 338–350. doi:10.1086/525605
-* –––, 2010, “The Epistemic Benefit of Transient Diversity,” *Erkenntnis*, 72(1): 17–35. doi:10.1007/s10670-009-9194-6
-* –––, 2013, “Network Epistemology: Communication in Epistemic Communities”, *Philosophy Compass*, 8(1): 15–27. doi:10.1111/j.1747-9991.2012.00534.x
+* Zollman, Kevin J. S., 2007, “The Communication Structure of Epistemic Communities,” *Philosophy of Science*, 74(5): 574–587. Reprinted in Goldman & Whitcomb, eds., 2011, 338–350. doi: 10.1086/525605
+* –––, 2010, “The Epistemic Benefit of Transient Diversity,” *Erkenntnis*, 72(1): 17–35. doi: 10.1007/s10670-009-9194-6
+* –––, 2013, “Network Epistemology: Communication in Epistemic Communities”, *Philosophy Compass*, 8(1): 15–27. doi: 10.1111/j.1747-9991.2012.00534.x
 * –––, 2015, “Modeling the social consequences of testimonial norms,” *Philosophical Studies*, 172: 2371–2383.
-* –––, 2018, “The Credit Economy and the Economic Rationality of Science,” *Journal of Philosophy*, 115(1): 5–33. doi:10.5840/jphil201811511
+* –––, 2018, “The Credit Economy and the Economic Rationality of Science,” *Journal of Philosophy*, 115(1): 5–33. doi: 10.5840/jphil201811511
 
 ## Academic Tools
 

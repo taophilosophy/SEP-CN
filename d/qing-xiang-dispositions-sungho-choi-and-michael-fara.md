@@ -96,7 +96,7 @@ RCA. 当 C 时，对象 x 倾向于 M，当且仅当 x 具有一种内在属性 
 
 这种消歧义在我们表达“多轨”倾向的概念时非常重要。似乎普遍认为，有所谓的“多轨”传统倾向，对应于不止一对刺激条件和表现（Ryle 1949, pp. 43–45; Bird 2005a, p. 367; Bird 2007a, pp. 21–24; Ellis & Lierse 1994, p. 29; Williams 2011, pp. 85–7; Vetter 2013）。思想是，完全相同的传统倾向可能会被多种刺激条件和表现的表述所指出。然而，当我们决定某一特定倾向是否是多轨时，需要谨慎。首先，必须使用单一的刺激条件概念：从毒性的属性的刺激条件可能是被摄入、被人类摄入、被摄入而没有假装者、掩饰者等事实推断出毒性是多轨倾向是错误的。此外，我们必须保持话语语境不变：从毒性的属性的刺激条件可能是被人类摄入、被狗摄入、被鸟摄入等事实推断出毒性是多轨的也是错误的。表达“有毒”是与 x 对谁有毒有关的，相对于话语不同的语境，指的是不同的倾向。因此，像 x 被人类摄入、x 被狗摄入等刺激条件并不是同一倾向的刺激条件。因此，它们与某一特定倾向是否是多轨无关。
 
-不是普遍认为倾向通常是多轨的。Lowe (2010, pp. 10–11) 坚持认为倾向不能是多轨的。然而，大多数形而上学家倾向于认为倾向具有多轨特性。作为带电粒子，电子倾向于在距离电荷 q 一定距离 d 处时对静电力 F 做出反应，但它也倾向于在距离电荷 q∗一定距离 d∗处时对静电力 F∗做出反应。同样，可以合理地声称易碎性是一种多轨倾向，具有许多不同的刺激条件：x 被打击，x 被压力，x 被扭曲，x 被摇晃等。事实上，虽然 Cartwright (1999, pp. 59, 64) 对能力的概念类似于多轨倾向的概念（参见 Teller 2002, pp. 717–718），在 Cartwright 看来，电荷作为能力的典范例子，她坚持认为能力是真实属性，并且在科学运作中引用能力是必不可少的：科学定律只不过是表达了存在哪些能力以及它们如何共同发挥作用。因此，在 Cartwright 看来，不仅存在多轨倾向，而且科学的目的是揭示它们的本质。
+不是普遍认为倾向通常是多轨的。Lowe (2010, pp. 10–11) 坚持认为倾向不能是多轨的。然而，大多数形而上学家倾向于认为倾向具有多轨特性。作为带电粒子，电子倾向于在距离电荷 q 一定距离 d 处时对静电力 F 做出反应，但它也倾向于在距离电荷 q∗ 一定距离 d∗ 处时对静电力 F∗ 做出反应。同样，可以合理地声称易碎性是一种多轨倾向，具有许多不同的刺激条件：x 被打击，x 被压力，x 被扭曲，x 被摇晃等。事实上，虽然 Cartwright (1999, pp. 59, 64) 对能力的概念类似于多轨倾向的概念（参见 Teller 2002, pp. 717–718），在 Cartwright 看来，电荷作为能力的典范例子，她坚持认为能力是真实属性，并且在科学运作中引用能力是必不可少的：科学定律只不过是表达了存在哪些能力以及它们如何共同发挥作用。因此，在 Cartwright 看来，不仅存在多轨倾向，而且科学的目的是揭示它们的本质。
 
 维特尔（2013）进一步提出，倾向的多轨特性程度被严重低估，利用她所称的定性多样性和定量多样性问题。值得注意的是，这一考虑被用作她对倾向性可能性构想的一个跳板。思想是，鉴于存在极端多样的 D 刺激条件，并且没有任何特权子集关于 x 是否实例化 D 的问题，我们最好接受没有刺激条件的倾向（维特尔 2014，第 132 页）。
 
@@ -182,7 +182,7 @@ PPJ 不是表征因果基础概念的唯一方式。例如，Lewis（1997）从 
 
 Prior 等人为论点提供了一个重要的论据，即每个倾向必然具有一个因果基础——他们称之为“因果论”。将概率倾向的情况搁置一边，他们考虑了一个在确定性世界中受到敲击的物体 A。他们认为（第 251-252 页）：
 
-> [I]t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis. [I]t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis.
+> [I] t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis. [I] t will be either determined that A breaks, or that A does not break. In the latter case clearly A is not fragile. In the former there will be a causally sufficient antecedent condition operative in producing the breaking—that follows from Determinism. Hence if A is fragile and Determinism is true, there must be a causal basis.
 
 这个论证本身，如果成功的话，并没有显示出倾向必须具有不同的因果基础。这与倾向的因果基础与倾向本身相同是一致的。然而，正如我们将在第 4.2 节中看到的，普赛尔等人手头确实有关于倾向与它们的因果基础是不同的这一命题的单独论证。综合起来，这些论证将显示出裸倾向的不可能性。 (See Hauska 2008a and Nolan 2015 for a criticism of Prior et al.’s argument.)
 
@@ -202,7 +202,7 @@ Prior 等人为论点提供了一个重要的论据，即每个倾向必然具�
 
 关于倾向与其因果基础之间关系的观点反映了关于心理和物理属性之间关系的观点。Armstrong, Martin & Place (1996) 和 Mackie (1973, 1977) 辩护一种“类型同一性理论”，根据该理论，任何倾向与其因果基础相同。Mumford (1998) 辩护一种“标记同一性理论”，根据该理论，任何倾向的实例与其因果基础的实例相同。Prior（与 Pargetter 和 Jackson 一起）辩护一种“功能主义理论”，根据该理论，倾向是具有某种因果基础的二阶属性。还有其他观点，但我们将在此仅限于讨论上述三种观点。
 
-阿姆斯特朗（Armstrong, Martin & Place 1996, 第 3 章）提出了一种关于倾向与其因果基础相同的论证，基本观点如下：由于倾向在定义上是扮演特定因果角色的属性，而实际上它们的因果基础才是扮演这些角色的因素，因此可以得出结论，倾向实际上与其因果基础是相同的。阿姆斯特朗声称他将倾向与其因果基础等同起来是一种“偶然的等同”（Armstrong 等人，1996 年，第 39 页）：事实上，扮演脆性角色的属性是某某，但也可能是另一种属性扮演了这个角色；如果是这样，脆性将与那种不同的属性相同。阿姆斯特朗观点的这一特征使其受到普赛尔等人（1982 年）关于刚性指称的论证的影响。继克里普克之后，普赛尔等人认为属性名称是“刚性指称者”，在每一个可能的世界（该属性存在的世界）中指称相同的属性。正如克里普克（1972 年）所证明的，如果 a 和 b 是刚性指称者，那么如果 a=b 为真，则等同陈述 a=b 在任何情况下都是真的。因此，在假设例如“脆性”和“某某微观结构属性”是刚性指称者的情况下，脆性的因果基础可能是某种不同于某某微观结构属性的东西，这表明脆性与某某微观结构属性并不相同。（有关对这一论点的回应，请参见 McKitrick 2003b。有关反对阿姆斯特朗观点的其他论点，请参见 Prior 等人 1982 年和 Prior 1985；有关这些论点的讨论，请参见 Mumford 1998 年第 5 章和 McKitrick 2003b。）
+阿姆斯特朗（Armstrong, Martin & Place 1996, 第 3 章）提出了一种关于倾向与其因果基础相同的论证，基本观点如下：由于倾向在定义上是扮演特定因果角色的属性，而实际上它们的因果基础才是扮演这些角色的因素，因此可以得出结论，倾向实际上与其因果基础是相同的。阿姆斯特朗声称他将倾向与其因果基础等同起来是一种“偶然的等同”（Armstrong 等人，1996 年，第 39 页）：事实上，扮演脆性角色的属性是某某，但也可能是另一种属性扮演了这个角色；如果是这样，脆性将与那种不同的属性相同。阿姆斯特朗观点的这一特征使其受到普赛尔等人（1982 年）关于刚性指称的论证的影响。继克里普克之后，普赛尔等人认为属性名称是“刚性指称者”，在每一个可能的世界（该属性存在的世界）中指称相同的属性。正如克里普克（1972 年）所证明的，如果 a 和 b 是刚性指称者，那么如果 a = b 为真，则等同陈述 a = b 在任何情况下都是真的。因此，在假设例如“脆性”和“某某微观结构属性”是刚性指称者的情况下，脆性的因果基础可能是某种不同于某某微观结构属性的东西，这表明脆性与某某微观结构属性并不相同。（有关对这一论点的回应，请参见 McKitrick 2003b。有关反对阿姆斯特朗观点的其他论点，请参见 Prior 等人 1982 年和 Prior 1985；有关这些论点的讨论，请参见 Mumford 1998 年第 5 章和 McKitrick 2003b。）
 
 反对倾向与它们的因果基础的身份相同，Prior 等人提出了他们所称的“独特性命题”的论点。其中之一是刚性指定的论点，我们刚刚讨论过。另一个源自倾向的多重实现的可能性。例如，不同的脆弱对象具有不同的因果基础——有些因其不规则的原子结构而脆弱，有些因其弱的分子间结合而脆弱。这似乎为独特性命题提供了证据。为什么？如果倾向被确定为它们的因果基础，我们最终将不得不说脆弱的多样化因果基础彼此相同。但根据假设，它们彼此不同。因此，Prior 等人认为，倾向的多重实现为独特性命题提供了还原基础。
 

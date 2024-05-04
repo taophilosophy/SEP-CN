@@ -10,33 +10,33 @@
 
 因此，将生活美学视为美学话语的新前沿需要将其置于二十世纪末的英美美学背景下。也就是说，它作为对美学范围过度限制的反应而确立。它旨在充分考虑人们多方面的审美生活，包括日常生活的各种元素：日常使用的物品，家务活，与他人的互动，以及吃饭、走路、洗澡等日常活动。生活美学还试图将审美探究从现代西方美学中几乎专注于美丽（在某种程度上还有崇高）的状况中解放出来。它包括了那些贯穿日常经验的品质，比如漂亮、可爱、凌乱、俗气、有品味、肮脏、活泼、单调等等。这些物品和品质以其在人们日常生活中的无处不在而特点，无论其身份、职业、生活方式、经济状况、社会阶层、文化背景以及对艺术的熟悉程度如何。
 
-除了关注更多项目和特质进行研究外，生活美学还提出了一些理论问题，这些问题在主流西方美学中没有得到足够的关注。其中包括：由于缺乏一个机构上达成一致的框架，审美经验对象的不确定身份；日常物品经历的变化和修改；设计师和创作者的普遍匿名性，以及日常物品背后缺乏明确的作者；与物品和活动的身体接触及其实用结果；感知缺乏审美判断的标准。通过提出这些问题，生活美学挑战了支撑以艺术为中心的美学话语的长期假设。然而，生活美学的倡导者提出这些挑战并不是为了否定已经确立的美学话语。相反，它们旨在为主流话语带来新的启示。正如阿瑟·丹托所提出的，就像新形式的艺术经常引入以前未被考虑的特质和价值，并丰富艺术界一样，生活美学提议通过添加新的研究途径来帮助发展整体美学话语。因此，接下来的生活美学解释将重点关注这些问题，以阐明和挑战当代西方哲学中主流美学话语。
+除了关注更多项目和特质进行研究外，生活美学还提出了一些理论问题，这些问题在主流西方美学中没有得到足够的关注。其中包括：由于缺乏一个机构上达成一致的框架，审美经验对象的不确定身份；日常物品经历的变化和修改；设计师和创作者的普遍匿名性，以及日常物品背后缺乏明确的作者；与物品和活动的身体接触及其实用结果；感知缺乏审美判断的标准。通过提出这些问题，生活美学挑战了支撑以艺术为中心的美学话语的长期假设。然而，生活美学的倡导者提出这些挑战并不是为了否定已经确立的美学话语。相反，它们旨在为主流话语带来新的启示。正如阿瑟 · 丹托所提出的，就像新形式的艺术经常引入以前未被考虑的特质和价值，并丰富艺术界一样，生活美学提议通过添加新的研究途径来帮助发展整体美学话语。因此，接下来的生活美学解释将重点关注这些问题，以阐明和挑战当代西方哲学中主流美学话语。
 
 ---
 
 ## 1. 近期历史
 
-随着环境美学的建立，二十世纪后半叶开始努力将美学领域拓展到细致艺术之外。几乎所有关于日常美学的作家都从约翰·杜威（John Dewey）于 1934 年首次出版的《艺术作为经验》中获得灵感。特别是他对“经历一种体验”的讨论表明，美学体验在人们日常生活的各个方面都是可能的，从进餐或解决数学问题到参加工作面试。通过将“美学”定位于体验的性质而不是特定的对象或情境，杜威为日常美学倡导者探索人们美学生活的多个方面铺平了道路，而不受预先设定的边界的限制。
+随着环境美学的建立，二十世纪后半叶开始努力将美学领域拓展到细致艺术之外。几乎所有关于日常美学的作家都从约翰 · 杜威（John Dewey）于 1934 年首次出版的《艺术作为经验》中获得灵感。特别是他对“经历一种体验”的讨论表明，美学体验在人们日常生活的各个方面都是可能的，从进餐或解决数学问题到参加工作面试。通过将“美学”定位于体验的性质而不是特定的对象或情境，杜威为日常美学倡导者探索人们美学生活的多个方面铺平了道路，而不受预先设定的边界的限制。
 
-如果杜威的美学可以被视为日常美学论述的经典之作，那么阿诺德·伯利恩特（Arnold Berleant）早期关于美学领域和参与的作品则延续了这一轨迹。尽管专注于艺术的体验，并没有明确提到“日常美学”这个术语，但伯利恩特的早期作品通过强调体验主体与体验对象之间的互动过程，提供了美学体验的现象学解释。这种“参与”作为美学的模型适用于艺术之外的体验。事实上，他关于环境美学（自然和建筑）以及最近关于社会美学和负面美学的后续作品，一直在不断扩大美学研究的范围。
+如果杜威的美学可以被视为日常美学论述的经典之作，那么阿诺德 · 伯利恩特（Arnold Berleant）早期关于美学领域和参与的作品则延续了这一轨迹。尽管专注于艺术的体验，并没有明确提到“日常美学”这个术语，但伯利恩特的早期作品通过强调体验主体与体验对象之间的互动过程，提供了美学体验的现象学解释。这种“参与”作为美学的模型适用于艺术之外的体验。事实上，他关于环境美学（自然和建筑）以及最近关于社会美学和负面美学的后续作品，一直在不断扩大美学研究的范围。
 
-除了关注建筑环境的环境美学作品（请参阅环境美学条目）之外，其他一些重要的早期作品专门涉及日常美学问题，包括梅尔文·雷德尔（Melvin Rader）和伯特拉姆·杰萨普（Bertram Jessup）的《艺术与人类价值观》（1976 年），约瑟夫·库普弗（Joseph Kupfer）的《体验作为艺术：日常生活中的美学》（1983 年），大卫·诺维茨（David Novitz）的《艺术边界：对艺术在日常生活中的地位的哲学探究》（1992 年），托马斯·莱迪（Thomas Leddy）的《日常表面美学特质：“整洁”，“凌乱”，“干净”，“脏”》（1995 年）和《闪耀与光辉》（1997 年），沃尔夫冈·韦尔施（Wolfgang Welsch）的《美学的撤销》（1997 年），奥西·诺卡里宁（Ossi Naukkarinen）的《无法避免的美学：人类外貌的美学变化》（1999 年），马西娅·伊顿（Marcia Eaton）的《美学与美好生活》（1989 年）和《美德，美学和伦理》（2001 年）。
+除了关注建筑环境的环境美学作品（请参阅环境美学条目）之外，其他一些重要的早期作品专门涉及日常美学问题，包括梅尔文 · 雷德尔（Melvin Rader）和伯特拉姆 · 杰萨普（Bertram Jessup）的《艺术与人类价值观》（1976 年），约瑟夫 · 库普弗（Joseph Kupfer）的《体验作为艺术：日常生活中的美学》（1983 年），大卫 · 诺维茨（David Novitz）的《艺术边界：对艺术在日常生活中的地位的哲学探究》（1992 年），托马斯 · 莱迪（Thomas Leddy）的《日常表面美学特质：“整洁”，“凌乱”，“干净”，“脏”》（1995 年）和《闪耀与光辉》（1997 年），沃尔夫冈 · 韦尔施（Wolfgang Welsch）的《美学的撤销》（1997 年），奥西 · 诺卡里宁（Ossi Naukkarinen）的《无法避免的美学：人类外貌的美学变化》（1999 年），马西娅 · 伊顿（Marcia Eaton）的《美学与美好生活》（1989 年）和《美德，美学和伦理》（2001 年）。
 
-这个主题的第一本选集《日常生活的美学》，由安德鲁·莱特（Andrew Light）和乔纳森·M·史密斯（Jonathan M. Smith）编辑，于 2005 年出版，包括许多文章，共同为最近关于日常美学的文献奠定了基础。其中经常被引用的有阿尔托·哈帕拉（Arto Haapala）的《关于日常生活的美学：熟悉，陌生和地方的意义》和汤姆·莱迪（Tom Leddy）的《日常美学的本质》。
+这个主题的第一本选集《日常生活的美学》，由安德鲁 · 莱特（Andrew Light）和乔纳森 ·M· 史密斯（Jonathan M. Smith）编辑，于 2005 年出版，包括许多文章，共同为最近关于日常美学的文献奠定了基础。其中经常被引用的有阿尔托 · 哈帕拉（Arto Haapala）的《关于日常生活的美学：熟悉，陌生和地方的意义》和汤姆 · 莱迪（Tom Leddy）的《日常美学的本质》。
 
-具体标题为《生活美学》的第一本专著，附带副标题《散文，文化和社会身份的游戏》，由卡蒂娅·曼多基（Katya Mandoki）于 2007 年撰写并出版。她对西方主流美学话语进行了广泛的批判，认为其负担了她所称之为“对艺术和美的迷恋”的“物神”，并对从宗教和教育到家庭和医学等领域涉及的美学进行了详细的符号学分析。曼多基的书出版后不久，Yuriko Saito 的《生活美学》也出版了。这些作品之后是 Thomas Leddy 的《日常生活中的非凡之处：生活美学》（2012）。它们共同为日后的生活美学发展奠定了初步基础。
+具体标题为《生活美学》的第一本专著，附带副标题《散文，文化和社会身份的游戏》，由卡蒂娅 · 曼多基（Katya Mandoki）于 2007 年撰写并出版。她对西方主流美学话语进行了广泛的批判，认为其负担了她所称之为“对艺术和美的迷恋”的“物神”，并对从宗教和教育到家庭和医学等领域涉及的美学进行了详细的符号学分析。曼多基的书出版后不久，Yuriko Saito 的《生活美学》也出版了。这些作品之后是 Thomas Leddy 的《日常生活中的非凡之处：生活美学》（2012）。它们共同为日后的生活美学发展奠定了初步基础。
 
 与这些早期作品相呼应的是专门致力于日常生活特定方面的专著和选集，如味觉美学（Korsmeyer 1999, 2005; Perullo 2016; van der Meulen and Wiese 2017），家居美学（McCracken 2001），身体美学（Shusterman 1999, 2013; Bhatt 2013; Irvin 2016），功能美（Parsons and Carlson 2008），设计美学（Forsey 2013）和嗅觉美学（Drobnick 2005; Shiner forthcoming），以及一本涉及从商业和教育到科学和体育等实践中的“艺术化”概念的论文集（Naukkarinen and Saito, 2012）。
 
 所有这些作品共同引发了关于这个主题的越来越活跃的辩论，这些期刊包括 Aisthesis、The British Journal of Aesthetics、Contemporary Aesthetics、Espes、The Journal of Aesthetics and Art Criticism、The Nordic Journal of Aesthetics、Proceedings of the European Society for Aesthetics 和 Studi di Estetica（意大利美学杂志），仅举几例，这些期刊都有英文文章的特色或包含英文文章。此外，最近还出版了更多关于日常美学的选集，包括专门讨论日常物品的 Aisthesis 专辑（2014 年）、体验日常（Friberg 和 Vasquez 2017 年）以及从艺术哲学到日常美学的路径（Kuisma 等人 2019 年）。这些选集和期刊对于那些不懂欧洲美学家作品的英语读者来说尤为有帮助，其中一些专著是用他们自己的语言写的。其中包括 Gioia Iannilli、Giovanni Matteucci、Dan Eugen Ratiu 和 Elisabetta di Stefano。他们在这些选集和期刊中的英文文章对于让英语读者了解他们的重要作品非常有价值。
 
-正如她的《日常美学》一样，斋藤最近的专著《熟悉的美学：日常生活与世界创造》（2017a）广泛讨论了日本美学。然而，第一本明确而具体的多元文化探索日常美学的著作是一本选集，《日常生活美学：东西方》（2014），由刘月娣和柯蒂斯·卡特编辑，其中包括了一些关于中国美学的文章。与欧洲语言的情况类似，大多数以英语为母语的读者缺乏阅读中文写作的中国美学作品的语言能力。这本选集中的英文论文以及其他学者的期刊文章为读者提供了一个进入中国传统中丰富的生活美学遗产的良好入口，这一遗产如今正受到重新关注。最后，虽然没有专门致力于日常美学，但《当代美学》的特刊 3（2011）关于东南亚美学和艺术的美学以及同一期刊的特刊 6（2018）关于东亚美学意识和《艺术愿景与美的承诺：跨文化视角》（希金斯等，2017）提供了非西方美学的宝贵资源。
+正如她的《日常美学》一样，斋藤最近的专著《熟悉的美学：日常生活与世界创造》（2017a）广泛讨论了日本美学。然而，第一本明确而具体的多元文化探索日常美学的著作是一本选集，《日常生活美学：东西方》（2014），由刘月娣和柯蒂斯 · 卡特编辑，其中包括了一些关于中国美学的文章。与欧洲语言的情况类似，大多数以英语为母语的读者缺乏阅读中文写作的中国美学作品的语言能力。这本选集中的英文论文以及其他学者的期刊文章为读者提供了一个进入中国传统中丰富的生活美学遗产的良好入口，这一遗产如今正受到重新关注。最后，虽然没有专门致力于日常美学，但《当代美学》的特刊 3（2011）关于东南亚美学和艺术的美学以及同一期刊的特刊 6（2018）关于东亚美学意识和《艺术愿景与美的承诺：跨文化视角》（希金斯等，2017）提供了非西方美学的宝贵资源。
 
 ## 2. 在《日常美学》中的“日常”和“美学”
 
 因为生活美学最初被提出作为克服现代西方美学对构成人们审美生活的限制的一种方式，所以除了包括艺术为中心的美学未涵盖的内容之外，其范围尚未明确定义。然而，随着这一话语的发展，关于在生活美学中构成“日常”和“美学”的问题开始出现。不仅包括日常活动如进食、梳洗、穿着和清洁，还包括偶尔甚至罕见的事件，如聚会、体育赛事、假日、婚礼和旅行，这引发了对“日常”是否应该字面理解的质疑。
 
-此外，对于一个人来说可能算作日常活动的事情对其他人来说可能是特殊场合。在农场工作是农民的日常生活，而对于参与包含工作体验的旅行（例如在葡萄园工作一天）的城市居民来说，这是一种罕见的体验。除了人们的职业和生活方式，多样化的生活环境决定了他们日常生活中包含的内容。对于那些居住在人口密集的城市地区并拥有发达的公共交通网络的居民以及居住在世界不同地区的人们来说，乘车可能是一种罕见的场合，而对于许多居住在典型美国郊区的人来说，这是日常例行事务。最后，对于一些人来说，每天的生活都是不断旅行，就像著名指挥家瓦列里·格尔基耶夫（Puolakka 2019）的情况一样。
+此外，对于一个人来说可能算作日常活动的事情对其他人来说可能是特殊场合。在农场工作是农民的日常生活，而对于参与包含工作体验的旅行（例如在葡萄园工作一天）的城市居民来说，这是一种罕见的体验。除了人们的职业和生活方式，多样化的生活环境决定了他们日常生活中包含的内容。对于那些居住在人口密集的城市地区并拥有发达的公共交通网络的居民以及居住在世界不同地区的人们来说，乘车可能是一种罕见的场合，而对于许多居住在典型美国郊区的人来说，这是日常例行事务。最后，对于一些人来说，每天的生活都是不断旅行，就像著名指挥家瓦列里 · 格尔基耶夫（Puolakka 2019）的情况一样。
 
 “日常”这个概念因此变得难以掌握，并且不可能列出属于它的物体和活动的清单。然而，我们可以指出一些超越个体和文化差异的核心活动和物体，例如进食、穿着、修饰、住所以及基本的实用物品，如衣物、家具和餐具（Melchionne 2013）。然而，对于日常美学而言，最重要的因素并不是物体和活动的清单，而是我们对它们采取的典型态度。我们往往主要从实用的角度来体验这些物体和活动，忽视了它们的审美潜力（Bullough 1912–13；Stolnitz 1969；Ziff 1997）。这些经验通常被认为是普通、平凡和例行公事。这样的描述可能是捕捉“日常”的最佳方式，允许多样化的职业、生活方式和生活环境产生不同的日常生活元素。
 
@@ -44,7 +44,7 @@
 
 因此，对于日常概念的最近讨论强调了关系性和可变性，这是一个临时的框架，对特定的时间和地点做出回应，无论是涉及个人生活的过程（比如一幅画在购买并挂在客厅墙上后成为日常生活的一部分），还是一种普遍的社会变化，比如当今数字世界的日益存在。因此，日常讨论中普遍/非普遍、熟悉/陌生以及事件式/例行式的区别不应被理解为静止、静态和固定的东西（Haapala 2017; Potgieter 2017）。
 
-关于“生活美学”中何为“美学”的争论并非此讨论独有。美学的本质一直是美学领域的一个长期争议点，无论是关于美术、自然、流行文化还是日常物品和活动（详见有关“美学概念”和杜威美学的条目）。然而，在“生活美学”中，“美学”这个概念至少有两个特别有趣和重要的点。首先是身体感觉的地位。当我们接受感官刺激时，如烘焙食品的香气、丝绸触摸皮肤的感觉、寿司的味道或按摩的感觉，我们可以感受到身体感觉。它们也可以来自身体活动，如跑步、切菜、使用工具或修剪草坪。关于这些身体感觉是否属于美学范畴的争论并不新鲜。这个问题最著名的经典处理是伊曼纽尔·康德对美和宜人或愉快之间的区分。许多当代艺术项目也通过创作嗅觉艺术、包括烹饪和进食的艺术事件以及需要观众身体参与的参与性艺术引发了这一讨论。然而，随着日常生活经验被感官体验和身体活动所渗透，这个问题在生活美学中变得更加严峻（详见第 7 和第 8 节进行进一步讨论）。
+关于“生活美学”中何为“美学”的争论并非此讨论独有。美学的本质一直是美学领域的一个长期争议点，无论是关于美术、自然、流行文化还是日常物品和活动（详见有关“美学概念”和杜威美学的条目）。然而，在“生活美学”中，“美学”这个概念至少有两个特别有趣和重要的点。首先是身体感觉的地位。当我们接受感官刺激时，如烘焙食品的香气、丝绸触摸皮肤的感觉、寿司的味道或按摩的感觉，我们可以感受到身体感觉。它们也可以来自身体活动，如跑步、切菜、使用工具或修剪草坪。关于这些身体感觉是否属于美学范畴的争论并不新鲜。这个问题最著名的经典处理是伊曼纽尔 · 康德对美和宜人或愉快之间的区分。许多当代艺术项目也通过创作嗅觉艺术、包括烹饪和进食的艺术事件以及需要观众身体参与的参与性艺术引发了这一讨论。然而，随着日常生活经验被感官体验和身体活动所渗透，这个问题在生活美学中变得更加严峻（详见第 7 和第 8 节进行进一步讨论）。
 
 关于“美学”一词在日常美学中的使用，另一个重要问题是其尊贵和分类使用之间的区别。在美学讨论和普通口语中，一般以尊贵的意义使用“美学”一词。因此，具有美学属性的事物通常被认为是积极的，并且获得美学体验被理解为意义深远且令人满意的体验。然而，越来越多的日常美学家回归到“美学”的根本意义，即通过感知和想象力获得的感官知觉，无论其评价价值如何。有些事物以强烈的积极美学价值打动我们，例如伟大的艺术作品或壮观的风景，而其他事物则不会对我们产生太大影响，因为它们无聊、平凡或普通。然后还有那些因为它们的感官外观丑陋、怪异或令人震惊而深深冒犯或困扰我们的物体和现象，没有任何整体上的救赎价值，如艺术信息。日常美学广泛涵盖了我们审美生活的各个方面。值得注意的是，在哲学美学以外的学术讨论中，“美学”通常被视为分类的意义，例如礼仪美学，包括礼貌和粗鲁的行为，以及政治美学，其中包括社会和政治对什么被视为明智的构建（Mandoki 2007; Rancière 2009; Vihalem 2018）。
 
@@ -80,11 +80,11 @@
 
 相比之下，对所讨论的日常美学品质的察觉，如凌乱、破旧、可爱和漂亮，似乎是一种几乎下意识的反应，没有任何背景知识、美学造诣或反思过程，因此不是美学的一个值得研究的主题。
 
-对这一挑战已经给出了两种回应。首先，即使某些品质可以在没有艺术欣赏所需的同样类型和程度的审美敏感或精致度的情况下被体验到，这本身并不意味着它们不属于美学范畴。即使对于品质的看似不加思考的反应，比如肮脏、凌乱和杂乱无章，也不是没有文化和背景框架的（道格拉斯 2002 年；斋藤 2007 年）。其次，可以提供一种滑动比例尺，一端需要最高的敏感度，通常需要经过广泛的教育和实践，比如欣赏十二音音乐、乔伊斯的小说、日本能剧和沼泽地，而另一端则需要很少的教育和实践，比如诺曼·洛克威尔的画作、军事行进曲、闪闪发光的珠宝和五彩斑斓的花园。一些审美品质可以被认为是“大联盟”或重量级，而其他审美品质则是“小联盟”或轻量级，但这并不完全排除了后者在美学范畴中的地位。毕竟，它们指的是我们对物体和现象的感官体验的定性反应，而有些体验比其他体验更强烈和深刻，但这并不否认更简单和容易的体验的美学维度（莱迪 1995 年，1997 年，2012a 年，2012b 年；哈里斯 2000 年；艾艾 2012 年；波斯特雷尔 2013 年；莫拉尔 2014 年）。
+对这一挑战已经给出了两种回应。首先，即使某些品质可以在没有艺术欣赏所需的同样类型和程度的审美敏感或精致度的情况下被体验到，这本身并不意味着它们不属于美学范畴。即使对于品质的看似不加思考的反应，比如肮脏、凌乱和杂乱无章，也不是没有文化和背景框架的（道格拉斯 2002 年；斋藤 2007 年）。其次，可以提供一种滑动比例尺，一端需要最高的敏感度，通常需要经过广泛的教育和实践，比如欣赏十二音音乐、乔伊斯的小说、日本能剧和沼泽地，而另一端则需要很少的教育和实践，比如诺曼 · 洛克威尔的画作、军事行进曲、闪闪发光的珠宝和五彩斑斓的花园。一些审美品质可以被认为是“大联盟”或重量级，而其他审美品质则是“小联盟”或轻量级，但这并不完全排除了后者在美学范畴中的地位。毕竟，它们指的是我们对物体和现象的感官体验的定性反应，而有些体验比其他体验更强烈和深刻，但这并不否认更简单和容易的体验的美学维度（莱迪 1995 年，1997 年，2012a 年，2012b 年；哈里斯 2000 年；艾艾 2012 年；波斯特雷尔 2013 年；莫拉尔 2014 年）。
 
 如果与大联盟的审美品质相比，小联盟的审美品质缺乏复杂性和深度，可以说，它们通过在日常生活中的普遍存在以及对日常生活产生的严重后果来弥补这种缺乏。虽然我们在日常生活中确实会体验到美和崇高，但这样的场合相对较少。在我们的日常生活中，我们更多地是以漂亮、好看、有趣、可爱、甜美、迷人、无聊、平淡、单调、邋遢、破旧、俗气等来评判事物。特别重要的是要关注这些品质，因为由于它们的普遍性和相对容易的识别，它们对我们在日常琐事上的决策和行动产生了强大的影响。事实上，广告、政治竞选和宣传中的策略经常利用这些品质来引导人们的行为（Postrel 2003；Mandoki 2007；Saito 2007, 2017a, 2018b；Sartwell 2010）。那些关注生活审美化的普遍性和盲目接受的人主张采取更积极、参与、反思的感知方式，而不是 passively experiencing and being affected by aestheticization ploys，从而培养审美素养和警惕性（Vihalem 2016；Matteucci 2017；Potgieter 2017）。
 
-关于某些经验的审美价值或“审美资格”引起了另一个担忧（Dowling 2010）。这涉及纯粹以身体为导向的反应，如抓痒、接受按摩、喝茶或闻到鱼腥味（Irvin 2008a,b）。有人担心它们过于私人和主观，无法进行任何主客观讨论和批判性论述，导致主观相对主义并损害共识的可能性。康德对美和仅仅令人愉快之间的区别经常被引用来支持这一批评（Parsons and Carlson 2008；Soucek 2009；Dowling 2010）。
+关于某些经验的审美价值或“审美资格”引起了另一个担忧（Dowling 2010）。这涉及纯粹以身体为导向的反应，如抓痒、接受按摩、喝茶或闻到鱼腥味（Irvin 2008a, b）。有人担心它们过于私人和主观，无法进行任何主客观讨论和批判性论述，导致主观相对主义并损害共识的可能性。康德对美和仅仅令人愉快之间的区别经常被引用来支持这一批评（Parsons and Carlson 2008；Soucek 2009；Dowling 2010）。
 
 作为回应，一些思想家指出，将这些身体感觉视为孤立的、独特的感官体验是错误的。根据他们的观点，在日常生活中，我们几乎从来没有单独体验嗅觉、味觉或触觉。相反，我们的体验通常是多感官的或共感觉的，并且发生在特定的背景下（Howes 2005; Howes and Classen 2014）。挠痒痒可能是体验到蚊子滋扰的沼泽地的一部分，或者是由新衬衫领口内缝制的硬质标签引起的烦恼。茶的味道无法与其香气、视觉外观以及握住杯子、将嘴唇贴在杯沿上时的触觉感受分离。所有这些感官体验都发生在特定的环境和情境中，具有自己的氛围，并且在个人日常生活的特定流程中。一个人可能在匆忙中拿起一杯茶，一口气喝下去以获取咖啡因的刺激，或者在壁炉前放松时细细品味每一口，或者参与日本茶道。即使茶本身保持不变，围绕其摄入的体验也会发生变化，有时甚至会影响我们对茶味本身的体验（Irvin 2009a; Melchionne 2011, 2014; Perullo 2016; Saito 2017a）。因此，纯粹的身体感觉可以融入由许多因素构成的氛围中。我们欣赏的不仅仅是孤立的身体感觉，如触觉或嗅觉，而是由构成氛围的因素之间的关系所创造的适应性或者甚至可以说是康德式的“目的性”或其缺乏。
 
@@ -92,7 +92,7 @@
 
 ## 6. 环境美学和社会美学
 
-对由各种成分构成的某种情境的氛围或环境的关注在日本美学中有着悠久的传统（Saito 2005）。这也是阿奇博尔德·艾利森（1757-1839）提倡的联想美学的主要观点。如今，环境美学因格诺特·伯梅的作品而再次引起关注，他认为氛围应该成为新美学的核心焦点。在我们的日常生活中，我们经常体验到情境的氛围特征：紧张或放松、快乐或忧郁、热烈或低调、吸引人或疏远、令人兴奋或乏味。有时，一个情境的特殊性是有意识地策划的，通常是在特殊场合，如婚礼或葬礼上，通过特别选择的音乐、装饰、服饰和编排的动作等来实现。其他时候，当构成物理环境以及其中的人类互动和运动的各种元素恰好凝聚在一起时，一个统一的氛围会自发产生（Böhme 1993, 1998; Miyahara 2014; di Stefano 2017）。
+对由各种成分构成的某种情境的氛围或环境的关注在日本美学中有着悠久的传统（Saito 2005）。这也是阿奇博尔德 · 艾利森（1757-1839）提倡的联想美学的主要观点。如今，环境美学因格诺特 · 伯梅的作品而再次引起关注，他认为氛围应该成为新美学的核心焦点。在我们的日常生活中，我们经常体验到情境的氛围特征：紧张或放松、快乐或忧郁、热烈或低调、吸引人或疏远、令人兴奋或乏味。有时，一个情境的特殊性是有意识地策划的，通常是在特殊场合，如婚礼或葬礼上，通过特别选择的音乐、装饰、服饰和编排的动作等来实现。其他时候，当构成物理环境以及其中的人类互动和运动的各种元素恰好凝聚在一起时，一个统一的氛围会自发产生（Böhme 1993, 1998; Miyahara 2014; di Stefano 2017）。
 
 尽管在我们的日常生活中，我们经常会体验和欣赏（或贬低）某种氛围或气氛，但由于缺乏明确定义和界定的体验“对象”，它在美学讨论中并未得到足够的关注。批评者认为，如果没有明确的体验“对象”周围的“框架”，就无法进行客观主观的美学讨论。也没有明确的标准，如艺术历史传统，有助于确定什么是美学体验的一部分，什么不是（Parsons 和 Carlson 2008）。氛围、空气或气氛确实是主观导向的，因为一个人的体验会相应地受到影响。然而，值得注意的是，它并不纯粹是主观或私人的，正如批评者所声称的那样，因为它涉及环境和情境的客观可辨认的特征。此外，一些当代艺术作品特别致力于营造一种包围观众的特定氛围（Z. Wang 2018）。
 
@@ -100,7 +100,7 @@
 
 确定氛围或气氛的一部分是人际互动。这种互动的特点由参与者的个性和与他人的关系构成，这些关系受到审美考虑的影响。除了一个人的言行之外，一个人可以被认为是热情的、冷漠的、正式的、冷淡的、友好的、威胁的、温和的等等，这在很大程度上是由于审美因素，如语调、说话方式、面部表情、身体姿势和姿态，以及外在表现，如服装、发型、装饰等等。有时候，一个人的行为的道德品质是通过审美维度来评估的，超越了行为所取得的成就。例如，一个人可能粗心大意地吃掉一个精心准备和精心安排的餐点，或者一个人可能花时间细细品味每一口，以示对厨师的赞赏。一个人可以粗暴地关上门，发出巨大的噪音，吓到别人，或者一个人可以轻轻地小心地关上门，以免打扰别人。最后，一个人可以勉强和恶意地帮助一个需要帮助的人，或者可以细心和愉快地帮助他人（Buss 1999；Sherman 2005；Naukkarinen 2014；Shusterman 2016；Saito 2016, 2017a）。
 
-在这些例子中，审美体验中的重要愿望也可以被视为人际关系中的可取之处：接受和欣赏多样性的开放心态、尊重和互惠、全面和真诚的参与等等。社会审美作为日常审美的一个子类，由阿诺德·伯利安特提出，它提醒人们审美在决定行为、个人和人际互动的道德品质中扮演着一个令人惊讶且常常被忽视的角色（Berleant 2005b, 2010, 2012, 2017）。
+在这些例子中，审美体验中的重要愿望也可以被视为人际关系中的可取之处：接受和欣赏多样性的开放心态、尊重和互惠、全面和真诚的参与等等。社会审美作为日常审美的一个子类，由阿诺德 · 伯利安特提出，它提醒人们审美在决定行为、个人和人际互动的道德品质中扮演着一个令人惊讶且常常被忽视的角色（Berleant 2005b, 2010, 2012, 2017）。
 
 此外，社会美学通过日常实践促进培养美德。一个人的善良、同情心、体贴和尊重需要在审美感知和技巧的指导下表达得当，除了完成某种行为之外。与他人的和谐合作互动也需要不仅适当的文化知识，还需要审美感知来解读群体动态，并确定如何最好地帮助创造一定的氛围（Naukkarinen 2014）。仅仅概念上理解这些互动中审美的重要性是不够的。需要实践来促进审美思维的社会互动。
 
@@ -112,7 +112,7 @@
 
 从参与者的角度来解释这些活动中涉及的美学问题的困难与环境美学面临的困难相同：缺乏对美学体验的客体性的明确界定。在观众的角度欣赏绘画或花园时，美学对象的组成部分或多或少是清晰的。此外，有一个可以指向以实现主体间性的对象。然而，当涉及到一个人从事的活动时，不存在与美学体验相当的“对象”。根据一些思想家的观点，这种缺乏意味着任何合理讨论的终结，因为主题变得无望地私人化，几乎没有可能进行主体间的对话。虽然我们可以通过给出理由来辩论绘画或花园的美学价值，但很难想象对我在执行毛笔水墨画或挖掘土地并为花园种植花卉时的身体参与经验进行等价讨论。
 
-如果一个人接受约翰·杜威的“体验”概念，即无论一个人正在经历什么样的体验，都会赋予其审美特性，那么就会面临一个挑战，即如何促进批判性的对话，以确定一个人是否真正地有“体验”。种植花卉涉及多感官体验和身体参与，以及设计花园的布局。这些要素可能以统一的方式结合在一起，使园丁在春天到来和花朵盛开的期待中感到愉悦。很难想象这位园丁的体验如何能够像审美上评价花坛的设计一样接受批判性的对话。我们能否就园丁的体验是否真正具有审美特性，或者是否提供了丰富或仅仅是平庸的审美体验展开辩论？如果不能，那么我们的生活中的这个方面是否永远对任何审美探究方式关闭了呢？
+如果一个人接受约翰 · 杜威的“体验”概念，即无论一个人正在经历什么样的体验，都会赋予其审美特性，那么就会面临一个挑战，即如何促进批判性的对话，以确定一个人是否真正地有“体验”。种植花卉涉及多感官体验和身体参与，以及设计花园的布局。这些要素可能以统一的方式结合在一起，使园丁在春天到来和花朵盛开的期待中感到愉悦。很难想象这位园丁的体验如何能够像审美上评价花坛的设计一样接受批判性的对话。我们能否就园丁的体验是否真正具有审美特性，或者是否提供了丰富或仅仅是平庸的审美体验展开辩论？如果不能，那么我们的生活中的这个方面是否永远对任何审美探究方式关闭了呢？
 
 这里对氛围和行为的审美感受的困难可以归因于当代西方审美探究方式的主要以判断为导向（Böhme 1993）。大部分主流审美辩论围绕着审美判断的客观性和合理性展开。判断前提是对象的可确定性及其可以在主观间共享的体验。任何超出这一范围的东西都被认为是无望主观和相对主义的。然而，关于烹饪、运动和其他日常活动中身体参与的现象学描述不仅在一些美学家的著作中丰富，而且在从业者和文学作家的著作中也很常见（Curtin and Heldke 1992; Giard 1998; Rautio 2009; Tainio 2015）。身体美学也在近期的哲学中引起了更多关注，其中很大一部分关注点是审美体验中的身体参与（Bhatt 2013; Irvin 2016）。
 
@@ -152,7 +152,7 @@
 
 其次，正如在第 2 节中讨论的那样，什么被视为日常生活是一个复杂的问题，其中一个复杂之处在于我们的生活世界由于技术和气候变化而迅速变化。我们无法想象我们今天的日常生活没有互联网、社交媒体、谷歌搜索、大数据、虚拟现实等的使用。自动驾驶车辆、可穿戴技术和人工智能的未来已经来临。虽然可以安全地假设在可预见的未来，我们人类仍然会以我们熟悉的方式与各种物体一起生活并相互作用，但我们的日常生活将越来越多地包含并受到技术进步的影响。此外，许多人的自然环境和建筑结构将不可避免地受到气候变化的影响，从而极大地改变他们的日常事务和文化实践（Nomikos 2018）。
 
-如果生活美学一直关注被描述为相对稳定的环境，包括熟悉的周围环境和物质对象，那么挑战就在于探索熟悉的日常生活的快速变化是否以及如何影响生活美学作为一种话语的本质。一些研究已经开始，如关于自动驾驶车辆的影响的研究（Mladenović等，2019 年），地图工具的研究（Iannilli，2014 年；Lehtinen，2019 年）以及各种机器的普及（Naukkarinen，2019 年）。这些研究探讨了这些机器是否以及如何促进用户的参与体验，它们如何将美学话语从强调沉思体验转变为由对象的功能引导的即时、身体参与的体验，并且它们如何影响隐私以及美学作为一门学科的本质。也许我们日常世界的新常态将成为快速而持续的变化，而不是迄今被认为是日常生活的稳定和熟悉的特征。这种未来的预测可能需要日常美学家重新审视支持他们讨论的一些假设。
+如果生活美学一直关注被描述为相对稳定的环境，包括熟悉的周围环境和物质对象，那么挑战就在于探索熟悉的日常生活的快速变化是否以及如何影响生活美学作为一种话语的本质。一些研究已经开始，如关于自动驾驶车辆的影响的研究（Mladenović 等，2019 年），地图工具的研究（Iannilli，2014 年；Lehtinen，2019 年）以及各种机器的普及（Naukkarinen，2019 年）。这些研究探讨了这些机器是否以及如何促进用户的参与体验，它们如何将美学话语从强调沉思体验转变为由对象的功能引导的即时、身体参与的体验，并且它们如何影响隐私以及美学作为一门学科的本质。也许我们日常世界的新常态将成为快速而持续的变化，而不是迄今被认为是日常生活的稳定和熟悉的特征。这种未来的预测可能需要日常美学家重新审视支持他们讨论的一些假设。
 
 第三，生活美学已经在哲学讨论之外的各个学科和实践中产生了影响力。正如参考文献中包含的许多作品所示，生活美学已被广泛接受，并被商业、消费主义、医疗保健、体育、法律、科学、教育、城市研究、可持续发展、时尚和设计等领域视为提供原则和策略的重要内容。生活美学的广泛接受和应用是因为它揭示了美学在每个人的生活世界中的普遍存在，并希望培养审美素养和敏感性将有助于改善个人的福祉、社会互动以及社会和世界的状况。然而，这些异质的学科特定实践所带来的挑战和机遇是要探究是否存在一个统一的审美体验和审美实践的概念。即使存在一个统一的概念，进一步的问题是我们是否应该通过这些不同学科的案例研究来建立这样的概念（Vihalem 2016）。
 
@@ -185,7 +185,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * –––, 2012, *Aesthetics Beyond the Arts: New and Recent Essays*, Aldershot: Ashgate.
 * –––, 2013, “What Is Aesthetic Engagement?”, *Contemporary Aesthetics*, 11. [[Berleant 2013 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol11/iss1/5/)]
 * –––, 2014, “Transformations in Art and Aesthetics”, in *Aesthetics of Everyday Life: East and West*, Liu Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 2–13.
-* –––, 2015a, “Aesthetic Sensibility”, *Ambiances*, March 30. doi:10.4000/ambiances.526 [[Berleant 2015a available online](https://journals.openedition.org/ambiances/526#text)]
+* –––, 2015a, “Aesthetic Sensibility”, *Ambiances*, March 30. doi: 10.4000/ambiances.526 [[Berleant 2015a available online](https://journals.openedition.org/ambiances/526#text)]
 * –––, 2015b, “Co-Optation of Sensibility and the Subversion of Beauty”, *Pragmatism Today*, 6(2): 38–47. [[Berleant 2015b available online](http://www.pragmatismtoday.eu/winter2015/Pragmatism_Today_Volume5_Issue2_Winter2015.pdf)]
 * –––, 2017, “Objects into Persons: The Way to Social Aesthetics”, *Espes*, 6(2): 9–18. [[Berleant 2017 available online](https://espes.ff.unipo.sk/index.php/ESPES/article/view/91/99)]
 * Berleant, Arnold and Allen Carlson (eds.), 2007, *The Aesthetics of Human Environments*, Peterborough: Broadview Press.
@@ -255,7 +255,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * Haapala, Arto, 2005, “On the Aesthetics of the Everyday: Familiarity, Strangeness, and the Meaning of Place”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 39–55.
 * –––, 2017, “The Everyday, Building, and Architecture: Reflections on the Ethos and Beauty of our Built Surroundings”, *Cloud-Cuckoo-Land: International Journal of Architectural Theory*, 22(36): 171–182.
 * Haapala, Arto and Christopher Stevens (eds.), 2011, *Aesthetic Pathways*, 1(2).
-* Hainic, Cristian, 2016, “Early Theoretical Models for the Aesthetic Analysis of Non-Art Objects”, *Rivista di Estetica*, 63: 188–202. doi:10.4000/estetica.1334 [[Hainic 2016 available online](http://journals.openedition.org/estetica/1334)]
+* Hainic, Cristian, 2016, “Early Theoretical Models for the Aesthetic Analysis of Non-Art Objects”, *Rivista di Estetica*, 63: 188–202. doi: 10.4000/estetica.1334 [[Hainic 2016 available online](http://journals.openedition.org/estetica/1334)]
 * Harris, Daniel, 2000, *Cute, Quaint, Hungry and Romantic: The Aesthetics of Consumerism*, Cambridge: Da Capo Press.
 * Higgins, Kathleen M. (ed.), 1996, *Aesthetics in Perspective*, Fort Worth: Harcourt Brace & Company.
 * –––, 2005, “Comparative Aesthetics”, *The Oxford Handbook of Aesthetics*, Jerrold Levinson (ed.), Oxford: Oxford University Press, pp. 679–692.
@@ -289,7 +289,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * –––, 2005, *The Taste Culture Reader: Experiencing Food and Drink*, Oxford: Berg.
 * –––, 2011, *Savoring Disgust: The Foul & the Fair in Aesthetics*, Oxford: Oxford University Press.
 * –––, 2017, “Taste and Other Senses: Reconsidering the Foundations of Aesthetics”, *The Nordic Journal of Aesthetics*, 26(54): 20–34. [[Korsmeyer 2017 available online](https://tidsskrift.dk/nja)]
-* Krawczyk, Marcin M., forthcoming“The Aesthetics and Financial Market: Beyond Mere Representing and Supporting”,*Contemporary Aesthetics*
+* Krawczyk, Marcin M., forthcoming“The Aesthetics and Financial Market: Beyond Mere Representing and Supporting”, *Contemporary Aesthetics*
 * Kuisma, Oiva, Sanna Lehtinen and Harri Mäcklin (eds.), 2019, *Paths from the Philosophy of Art to Everyday Aesthetics*, Helsinki: The Finnish Society for Aesthetics. [[Kuisma et al. 2019 available online](https://helda.helsinki.fi/handle/10138/302115)]
 * Kupfer, Joseph, 1983, *Experience as Art: Aesthetics in Everyday Life*, Albany: SUNY Press, 1983.
 * Lafebvre, Henri, 1991, *Critique of Everyday Life*, John Moore (tr.), London: Verso.
@@ -337,8 +337,8 @@ This bibliography includes only contemporary works in English. For classical phi
 * Miyahara, Kojiro, 2014, “Exploring Social Aesthetics: Aesthetic Appreciation as a Method for Qualitative Sociology and Social Research”, *International Journal of Japanese Sociology*, 23(1): 63–79.
 * Mladenović, Miloš N., Lehtinen, Sanna, Emily Sof, and Karel Martens, 2019, “Emerging Urban Mobility Technologies through the Lens of Everyday Urban Aesthetics: Case of Self-Driving Vehicle”, *Essays in Philosophy*, 20(2): Article 3, 1–25. [[Mladenović et al. 2019 available online](https://commons.pacificu.edu/eip/vol20/iss2/3/)]
 * Mollar, Dan, 2014, “The Boring”, *The Journal of Aesthetics and Art Criticism*, 72(2): 181–191.
-* Moss, Hilary and Desmond O’Neill, 2013, “The Aesthetic and Cultural Interests of Patients Attending an Acute Hospital: A Phenomenological Study”, *Journal of Advanced Nursing*, 70(1): 121–9. doi:10.1111/jan.12175
-* –––, 2014, “Aesthetic Deprivation in Clinical Settings”, *The Lancet*, 383(9922): 1032–1033. doi:10.1016/S0140-6736(14)60507-9
+* Moss, Hilary and Desmond O’Neill, 2013, “The Aesthetic and Cultural Interests of Patients Attending an Acute Hospital: A Phenomenological Study”, *Journal of Advanced Nursing*, 70(1): 121–9. doi: 10.1111/jan.12175
+* –––, 2014, “Aesthetic Deprivation in Clinical Settings”, *The Lancet*, 383(9922): 1032–1033. doi: 10.1016/S0140-6736(14)60507-9
 * Mullis, Eric, 2007, “The Ethics of Confucian Artistry”, *The Journal of Aesthetics and Art Criticism*, 65(1): 99–107.
 * Nanay, Bence, 2016, *Aesthetics as Philosophy of Perception*, Oxford: Oxford University Press.
 * –––, 2018, “The Aesthetic Experience of Artworks and Everyday Scenes”, *The Monist*, 101: 71–82.
@@ -353,7 +353,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * Naukkarinen, Ossi and Yuriko Saito (eds.), 2012, *Artification*, Special Volume 4 of *Contemporary Aesthetics*. [[Naukkarinen and Saito 2012 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss4/)]
 * Ngai, Sianne, 2012, *Our Aesthetic Categories: Zany, Cute, Interesting*, Cambridge: Harvard University Press.
 * Nielsen, Henrik Kaare, 2005, “Totalizing Aesthetics? Aesthetic Theory and Aestheticization of Everyday Life”, *The Nordic Journal of Aesthetics*, 17(32): 60–75. [[Nielsen 2005 available online](http://tidsskrift.dk/nja)]
-* Nomikos, Ariane, 2018, “Place *Matters*”,*The Journal of Aesthetics and Art Criticism*, 76(4): 453–462.
+* Nomikos, Ariane, 2018, “Place *Matters*”, *The Journal of Aesthetics and Art Criticism*, 76(4): 453–462.
 * Norman, Donald A., 1990, *The Design of Everyday Things*, New York: Doubleday.
 * –––, 2004, *Emotional Design: Why We Love (or Hate) Everyday Things*, New York: Basic Books.
 * Norton, Brian Michael, 2015a, “*The Spectator* and Everyday Aesthetics”, *Lumen: Selected Proceedings from the Canadian Society for Eighteenth-Century Studies*, 34: 123–136. [[Norton 2015a available online](https://www.erudit.org/en/journals/lumen/2015-v34-lumen01693/)]
@@ -411,7 +411,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * –––, 2012, “Everyday Aesthetics and World-Making”, *Contrastes: Revista Internacional de Filosofia*, (Supplement) 17: 255–274.
 * –––, 2014a, “Everyday Aesthetics”, in *Encyclopedia of Aesthetics*, 2 volumes, Michael Kelly (ed.), second edition, Oxford: Oxford University Press, Volume 2, pp. 525–529.
 * –––, 2014b, “Everyday Aesthetics in the Japanese Tradition”, in *Aesthetics of Everyday Life: East and West*, Liy Yuedi and Curtis L. Carter (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, pp. 145–164.
-* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues”, in *Body Aesthetics*, Sherri Irvin (ed.), Oxford: Oxford University Press, pp. 225–242. doi:10.1093/acprof:oso/9780198716778.003.0013
+* –––, 2016, “Body Aesthetics and the Cultivation of Moral Virtues”, in *Body Aesthetics*, Sherri Irvin (ed.), Oxford: Oxford University Press, pp. 225–242. doi: 10.1093/acprof: oso/9780198716778.003.0013
 * –––, 2017a, *Aesthetics of the Familiar: Everyday Life and World-Making*, Oxford: Oxford University Press.
 * –––, 2017b, “The Role of Imperfection in Everyday Aesthetics”, *Contemporary Aesthetics*, 15: article 15. [[Saito 2017b available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol15/iss1/15/)]
 * –––, 2018a, “Everyday Aesthetics”, in *Aesthetics: A Reader in Philosophy of the Arts*, 4th edition, David Goldblatt, Lee B. Brown, and Stephanie Patridge (eds.), New York: Routledge, pp. 434–437.
@@ -472,7 +472,7 @@ This bibliography includes only contemporary works in English. For classical phi
 * Wang, Zhoufei, 2018, “Atmospheric Design and Experience with an Exemplary Study of Olafur Eliasson’s ‘The Weather Project’”, in *Contemporary Aesthetics*, 16: article 15. [[Z. Wang 2018 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol16/iss1/15/)].
 * Welsch, Wolfgang, 1997, *Undoing Aesthetics*, Andrew Inkpin (tr.), London: SAGE Publications.
 * –––, 2005, “Sport Viewed Aesthetically, and Even as Art?”, in Andrew Light and Jonathan M. Smith (eds.), *The Aesthetics of Everyday Life*, New York: Columbia University Press, pp. 135–155.
-* –––, 2014, “Schiller Revisited: ‘Beauty is Freedom in Appearance’: Aesthetics as a Challenge to the Modern Way of Thinking”,*Contemporary Aesthetics*, 12: article 16. [[Welsch 2014 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol12/iss1/16/)]
+* –––, 2014, “Schiller Revisited: ‘Beauty is Freedom in Appearance’: Aesthetics as a Challenge to the Modern Way of Thinking”, *Contemporary Aesthetics*, 12: article 16. [[Welsch 2014 available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol12/iss1/16/)]
 * Whiteley, Nigel, 1993, *Design for Society*, London: Reaktion Books.
 * –––, 1999, “Utility, Design Principles and the Ethical Tradition”, in *Utility Reassessed: The Role of Ethics in the Practice of Design*, Judy Attfield, (ed.), Manchester: Manchester University Press, pp. 190–202.
 * Widdows, Heather, 2018, *Perfect Me: Beauty as an Ethical Ideal*, Princeton: Princeton University Press.

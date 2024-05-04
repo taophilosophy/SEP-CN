@@ -1,6 +1,6 @@
 # 名词 names (Sam Cumming)
 
-*首次发表于2008年9月17日星期三；实质性修订于2023年10月16日星期一。*
+*首次发表于 2008 年 9 月 17 日星期三；实质性修订于 2023 年 10 月 16 日星期一。*
 
 适当的名词是自然语言中熟悉的表达方式，其语义仍然是一个有争议的主题。名字有意义吗，还是它们只是简单地指称特定的事物，而这种指称并不通过意义来介导？
 
@@ -8,13 +8,13 @@
 
 ## 1. 语法
 
-《剑桥英语语法》将专有名词的句法类别与专有名词区分开来（Payne＆Huddleston 2002: 516）。专有名词是名词类别的词级单位，而专有名词是一种名词短语。因此，例如，专有名词“爱丽丝·沃克”由两个专有名词组成：“爱丽丝”和“沃克”。专有名词（名词短语）也可以 - 并且通常是 - 由一个单独的专有名词组成，就像动词短语可以由一个单独的动词组成一样。因此，句子“爱丽丝睡觉”由一个名词短语/专有名词和一个动词短语组成；名词短语包含一个单独的专有名词，动词短语由一个单独的动词组成。其句法成分的分析如下所示：
+《剑桥英语语法》将专有名词的句法类别与专有名词区分开来（Payne＆Huddleston 2002: 516）。专有名词是名词类别的词级单位，而专有名词是一种名词短语。因此，例如，专有名词“爱丽丝 · 沃克”由两个专有名词组成：“爱丽丝”和“沃克”。专有名词（名词短语）也可以 - 并且通常是 - 由一个单独的专有名词组成，就像动词短语可以由一个单独的动词组成一样。因此，句子“爱丽丝睡觉”由一个名词短语/专有名词和一个动词短语组成；名词短语包含一个单独的专有名词，动词短语由一个单独的动词组成。其句法成分的分析如下所示：
 
 [S[PName[PNounAlice]][VP[Vsleeps]]]
 
 专有名词也可以包含其他词类：例如，“布鲁克林大桥”将普通名词“桥”与专有名词“布鲁克林”并列。“拉里坦河”包括限定词“the”。 “布朗克斯”结合了限定词和专有名词。最后，“金门大桥”是一个专有名词，其中没有专有名词。
 
-根据所命名的事物的类型，适当名称以不同的格式出现（Carroll 1985）。例如，许多文化中的人的官方名称由（至少）名和姓组成，它们本身是专有名词。桥梁的名称可以有一个可选的定冠词，并且通常包括普通名词“桥”。我们有嵌入其他专有名称的桥梁名称，例如“乔治·华盛顿大桥”。我们甚至可以想象结构上有歧义的名称，例如“纽约新公共图书馆”。
+根据所命名的事物的类型，适当名称以不同的格式出现（Carroll 1985）。例如，许多文化中的人的官方名称由（至少）名和姓组成，它们本身是专有名词。桥梁的名称可以有一个可选的定冠词，并且通常包括普通名词“桥”。我们有嵌入其他专有名称的桥梁名称，例如“乔治 · 华盛顿大桥”。我们甚至可以想象结构上有歧义的名称，例如“纽约新公共图书馆”。
 
 为了适应各种适当名称，我们需要另一种句法范畴。为了方便起见，再次遵循剑桥英语语法，名词短语由可选的限定词后跟一个名词短语组成。因此，在名词短语“那个星期四的男人”中，名词短语成分是“那个星期四的男人”。如果我们假设适当名称也采用类似的结构，那么“Raritan River”有一个成分“Raritan River”（由专有名词“Raritan”和普通名词“River”组成）。我们将称作是适当名称中（可选的）限定词的补语的成分为适当名词。因此，适当名称“Alice”的完整分析如下所示：
 
@@ -44,7 +44,7 @@
 
 在这篇关于语义学的长文中，我们将限制自己只讨论名字是否像“单身汉”那样有意义。它们是否有一个决定或限制它们的范围（即适用范围或指称）的意义？正如我们将看到的，即使追求这个较小的目标，哲学家们也不得不考虑一系列关于语言和意义的基础性问题。询问名字的不同问题或以其他方式思考它们的意义并不是禁区，但这个问题将为名字的语义学和语言哲学中的重要主题打开一条道路。
 
-让我们从通用名称“爱丽丝”开始。考虑它适用的个体范围。与“单身汉”的范围不同，这个集合并不是在一个简短的定义下统一的，而是由所有不同的人（包括爱丽丝·库珀）以及可能的事物组成，这些人（或事物）被称为“爱丽丝”。因此，一个自然的观点是，个体的指称关系是基本的，关于通用名称适用范围的任何概括都是基于它们而不是相反。根据这种观点，没有一个通用名称的普遍含义，负责决定它正确适用于谁或什么。虽然有可能表达一个（复杂的）条件，以某种与那些指称关系不同的基础正确地将爱丽丝与非爱丽丝区分开来（例如，由每个爱丽丝独特的出生时间和地点组成的析取），但很明显，任何这样的条件都是基于那些已经存在的关系，而不是以任何合理性作为它们的起源来源。
+让我们从通用名称“爱丽丝”开始。考虑它适用的个体范围。与“单身汉”的范围不同，这个集合并不是在一个简短的定义下统一的，而是由所有不同的人（包括爱丽丝 · 库珀）以及可能的事物组成，这些人（或事物）被称为“爱丽丝”。因此，一个自然的观点是，个体的指称关系是基本的，关于通用名称适用范围的任何概括都是基于它们而不是相反。根据这种观点，没有一个通用名称的普遍含义，负责决定它正确适用于谁或什么。虽然有可能表达一个（复杂的）条件，以某种与那些指称关系不同的基础正确地将爱丽丝与非爱丽丝区分开来（例如，由每个爱丽丝独特的出生时间和地点组成的析取），但很明显，任何这样的条件都是基于那些已经存在的关系，而不是以任何合理性作为它们的起源来源。
 
 确定通用名称“爱丽丝”的范围的唯一简洁方法是使用元语言特征，比如被命名为“爱丽丝”。事实上，一些人为通用名称的含义辩护时采用了元语言的解释（见下文第 2.10 节）。对于这种解释来说，挑战在于区分与“爱丽丝”的外延相同的特征，显然这不能决定一个含义所要求的强大意义上的外延（Kripke 1980: 68; Geurts 1997: 326ff; Bach 2002: 83; Gray 2014）。
 
@@ -90,9 +90,9 @@
 
 如果每个具体的名字都附加了一些识别信息——足以至少在代理人的心中单独确定其承载者——那么这可以解释同指名字的不同认知意义。但是，这个识别绰号是否也代表了名字的意义呢？有几个理由可以怀疑它是否如此。首先，不同的代理人可能会将不同的识别信息与同一个指名使用的名字相关联（Frege 1892），这似乎与一个名字如“苏格拉底”在整个社区中具有单一意义的自然假设相冲突。这里有几种不同的回应。我们可以说，一个名字的意义是相对于个体的个人语言，而不是群体的方言。另一个选择是声称公共语言中一个名字的意义以某种方式从与之相关的每个公众成员关联的识别信息中聚合而成（Strawson 1959: 191–192）。请注意，在后一种解释/理论中，一个用户（甚至每个用户）只能对其（聚合）意义有部分掌握是可能的（见第 2.3 节）。
 
-其次，足以用于识别目的（在内部区分一个名字的承载者与另一个名字的承载者）的信息可能仍然不足以确定一个名字的范围（Strawson 1959: 20–21）。例如，“罗马作家”足以将马库斯·图利乌斯·西塞罗与伊利诺伊州的西塞罗区分开来；但它不足以在世界上选择一个唯一的西塞罗（Kripke 1980: 81; Donnellan 1970: 343）。例如，西塞罗的弟弟昆图斯·图利乌斯·西塞罗也是几部作品的作者。
+其次，足以用于识别目的（在内部区分一个名字的承载者与另一个名字的承载者）的信息可能仍然不足以确定一个名字的范围（Strawson 1959: 20–21）。例如，“罗马作家”足以将马库斯 · 图利乌斯 · 西塞罗与伊利诺伊州的西塞罗区分开来；但它不足以在世界上选择一个唯一的西塞罗（Kripke 1980: 81; Donnellan 1970: 343）。例如，西塞罗的弟弟昆图斯 · 图利乌斯 · 西塞罗也是几部作品的作者。
 
-描述也可以具有识别功能，尽管它对特定名称的适当指称是错误的。例如，许多人错误地将克里斯托弗·哥伦布认定为第一个到访美洲的欧洲人（Searle 1958: 168; Strawson 1964: 102; Donnellan 1970: 341; Kripke 1980: 83–84）。
+描述也可以具有识别功能，尽管它对特定名称的适当指称是错误的。例如，许多人错误地将克里斯托弗 · 哥伦布认定为第一个到访美洲的欧洲人（Searle 1958: 168; Strawson 1964: 102; Donnellan 1970: 341; Kripke 1980: 83–84）。
 
 如果用于识别目的的特征与名称的指称对象不符，则根据我们之前的标准，它不能作为名称的含义。如果它是真实的，但不足以区分指称对象，则情况就不同了。可以声称识别特征是名称的含义，同时承认名词的含义仅仅限制了名词的指称，而没有完全确定。那么，名称就类似于某些代词（可以说，“她”的含义仅在某些方面限制了其可能的指称）。
 
@@ -183,7 +183,7 @@
 
 如果可以证明对于任何有限的相关类别列表（并且对于完全了解名称意义的人——见第 2.3 节），可以想象真实的指称对象不满足列表上的任何条件，则西尔的逃避路线将被堵住。如果群集是条件的有限列表，那么理论预测存在某个这样的列表，对于该列表，先验地知道指称对象满足其条件之一。
 
-有一种辩论的方式是培养这样的直觉，即任何有限的列表都必然是不完整的。对于任何一个列表，都存在一种可以想象的情景，在这种情景中，一些被遗漏在列表之外的属性被证明对于确定名词的指称至关重要。弗里德里希·韦斯曼（1945 年）曾使用这种论证方式来证明经验谓词（如“金子”和“猫”）的“开放纹理”。但是，似乎可以无限延伸的是那些可能与确定“苏格拉底”指称相关的因素的列表。如果这种直觉是正确的，那么我们从有限聚类理论中所能期望的最好结果就是一种“其他条件不变”的确定方式：
+有一种辩论的方式是培养这样的直觉，即任何有限的列表都必然是不完整的。对于任何一个列表，都存在一种可以想象的情景，在这种情景中，一些被遗漏在列表之外的属性被证明对于确定名词的指称至关重要。弗里德里希 · 韦斯曼（1945 年）曾使用这种论证方式来证明经验谓词（如“金子”和“猫”）的“开放纹理”。但是，似乎可以无限延伸的是那些可能与确定“苏格拉底”指称相关的因素的列表。如果这种直觉是正确的，那么我们从有限聚类理论中所能期望的最好结果就是一种“其他条件不变”的确定方式：
 
 > 如果某些事实成立，并且没有其他与确定“苏格拉底”指称相关的事实，那么“苏格拉底”指称某某人。
 
@@ -255,13 +255,13 @@
 
 让 C（“苏格拉底”）代表确定“苏格拉底”指代的（假定的）群集条件。我们能够陈述（6）为真的条件如下：
 
-* （7）∃x.C（‘苏格拉底’）（x）∧喝了毒鸩（x）
+* （7）∃x.C（‘苏格拉底’）（x）∧ 喝了毒鸩（x）
 
 虽然（7）是（6）的真实条件的准确陈述，但当我们将部分的语义贡献组合在一起时，可能得不到这样的真实条件。（再次，遵循克里普克、伯吉和其他人的观点，我们必须保持一个表达式的语义贡献或语义值与该表达式的语言意义之间的区别。）特别是，如果我们认为“苏格拉底”仅对句子的组合真实条件贡献其指代（仅仅是其指代），那么我们将更喜欢以下陈述（其中 s 是一个表示苏格拉底的个体常量）：
 
 * (8)喝了毒酒(s)
 
-如果一个名字不指称（以乌尔班·勒维里埃的“火神”或奥尔格农的“邦伯里”为例——来自王尔德的戏剧《真诚的重要性》），那么我们显然没有表达引用对象的真值条件的选择。如果涉及空名字的主张有真值条件，那么它必须是一个包含确定引用的条件（如（7））的条件，而不是一个包含引用对象本身的条件（如（8））。
+如果一个名字不指称（以乌尔班 · 勒维里埃的“火神”或奥尔格农的“邦伯里”为例——来自王尔德的戏剧《真诚的重要性》），那么我们显然没有表达引用对象的真值条件的选择。如果涉及空名字的主张有真值条件，那么它必须是一个包含确定引用的条件（如（7））的条件，而不是一个包含引用对象本身的条件（如（8））。
 
 对于像“邦伯里喝了毒酒”或“这是一个漂亮的红色的”这样没有展示任何东西的陈述，我们可能不需要真值条件（参见斯特劳森 1950 年：333）。这些句子不是真的，也许根本不提出可真值评估的主张。但维特根斯坦已经引起了我们对负存在的注意，并且我们对它们可能成为真的情况有所了解。如果 C（“摩西”）代表了在我们会说他确实存在的所有情况下将摩西单独挑出来的群集条件，那么（9a）的真值条件可以表示为（9b），而不是（9c）。
 
@@ -273,11 +273,11 @@ a.
 
 b.
 
-¬∃x.C(“摩西”)(x)∧过去(活着(x))
+¬∃x.C(“摩西”)(x)∧ 过去(活着(x))
 
 c.
 
- ¬过去(活着(m))
+ ¬ 过去(活着(m))
 
 现在假设我们暂时同意戴维森（1967）的观点，即（i）当我们以正确的方式陈述一个句子的真值条件时，我们就给出了它的语义值。如果（9a）的真值条件不能陈述为（9c），那么（9b）就是该句子的语义值的剩余候选项。而且（ii）如果一个句子的语义值由其部分的语义值决定，那么 C（“摩西”）必须是“摩西”的贡献（或者可能是包括“摩西”的更大成分）。由于我们区分意义和语义值，C（“摩西”）并不直接是“摩西”的意义。然而，根据这个论证，我们不能把 C（“摩西”）看作是一个纯粹的元语义条件（可能是从使用中派生出来的），因为元语义条件决定表达式的语义值，而不是相反。
 
@@ -287,11 +287,11 @@ c.
 
 * （10）¬∃x.refers（“摩西”）（x）∧past（alive（x））
 
-非存在陈述的元语言分析面临某些反对意见。其中之一是“摩西不存在”及其翻译成法语具有不同的语义值，因为它们说的是不同的词不指代曾经存在的某人。如果有一个与英语说话者发出“摩西”和法语说话者发出其翻译“摩西”的共同感觉（至多与一个指代相关联），则可以解决这个特定问题（有关提案，请参见 Cumming 2013）。然后，真实条件可以用对感觉的引用来取代对语言的地方性引用。如果我们用δ表示由“摩西”表达的感觉，则真实条件将是：
+非存在陈述的元语言分析面临某些反对意见。其中之一是“摩西不存在”及其翻译成法语具有不同的语义值，因为它们说的是不同的词不指代曾经存在的某人。如果有一个与英语说话者发出“摩西”和法语说话者发出其翻译“摩西”的共同感觉（至多与一个指代相关联），则可以解决这个特定问题（有关提案，请参见 Cumming 2013）。然后，真实条件可以用对感觉的引用来取代对语言的地方性引用。如果我们用 δ 表示由“摩西”表达的感觉，则真实条件将是：
 
-* (11)¬∃x.指(δ)(x)∧过去(活着的(x))
+* (11)¬∃x.指(δ)(x)∧ 过去(活着的(x))
 
-(11)的另一个优点是，我们可以给出一个组合语义，其中“摩西”贡献了它的意义δ，而谓词也贡献了对变量 x 的存在量化以及将表达式的意义与其指称物连接起来的关系（在（11）中简称为指）。Musan（1997）和其他人提出了一些经验论证，证明了一大类谓词（在她的术语中不是“存在独立的”）具有这样的存在成分。将“存在”放在它们的公司中是非常合理的。
+(11)的另一个优点是，我们可以给出一个组合语义，其中“摩西”贡献了它的意义 δ，而谓词也贡献了对变量 x 的存在量化以及将表达式的意义与其指称物连接起来的关系（在（11）中简称为指）。Musan（1997）和其他人提出了一些经验论证，证明了一大类谓词（在她的术语中不是“存在独立的”）具有这样的存在成分。将“存在”放在它们的公司中是非常合理的。
 
 对（10）的类似组合处理将使“摩西”贡献它自己（就像它出现在引语中一样）。如果我们选择（10），似乎更合理的是以不同的方式划分真值条件，使我们将“摩西”赋予元语言的意义，即由“摩西”所指的个体。现在我们将转向对名词意义的这种元语言解释的考虑。
 
@@ -327,9 +327,9 @@ c.
 
 从辩证的角度来看，关键问题似乎是名词意义的构成派生。我将简要介绍迄今为止在辩论中出现的一些语言数据。在没有上下文的情况下，这些数据中的大部分似乎都是微不足道的细枝末节。但是，最近被认为是给专有名词赋予意义的最佳前景的命运取决于对这些细节的解释。
 
-首先，当名字包含一个明显的限定词时（Cumming 2007: 22），元语言解释面临一个问题。"布朗克斯"由限定词"the"和专有名词"Bronx"组成。根据其意义的构成解释，它应该指的是最显著的名为"Bronx"的实体。然而，纽约市最北部的行政区并不叫"Bronx"，而是叫"the Bronx"。此外，尽管这个行政区被称为"the Bronx"，但我们并不使用一个结合了表达这种元语言属性的短语和一个明确的限定词的表达方式，正如构成理论所预测的那样。我们不使用"the the Bronx"，这可能被视为这样的组合（其中"the Bronx"表达了被称为"the Bronx"的属性）。也不可能"the Bronx"带有一个隐含的明确限定词，因为明显的"the"并没有与"Bronx"融合成一个专有名词短语，而是在"布朗克斯居民"等表达中被省略了。
+首先，当名字包含一个明显的限定词时（Cumming 2007: 22），元语言解释面临一个问题。"布朗克斯" 由限定词 "the" 和专有名词 "Bronx" 组成。根据其意义的构成解释，它应该指的是最显著的名为 "Bronx" 的实体。然而，纽约市最北部的行政区并不叫 "Bronx"，而是叫 "the Bronx"。此外，尽管这个行政区被称为 "the Bronx"，但我们并不使用一个结合了表达这种元语言属性的短语和一个明确的限定词的表达方式，正如构成理论所预测的那样。我们不使用 "the the Bronx"，这可能被视为这样的组合（其中 "the Bronx" 表达了被称为 "the Bronx" 的属性）。也不可能 "the Bronx" 带有一个隐含的明确限定词，因为明显的 "the" 并没有与 "Bronx" 融合成一个专有名词短语，而是在 "布朗克斯居民" 等表达中被省略了。
 
-这种元语言理论的缺点在于，当我们将注意力限制在可以有或没有冠词出现的专有名词上时，这一缺点就被隐藏起来了，比如“爱丽丝”或者“(the)乔治·华盛顿大桥”。乔治·华盛顿大桥也被称为乔治·华盛顿大桥——这是因为人们也用这种方式来提及它（并将没有冠词的名字归属于它）。但这似乎是一种命名的偶然性，而不是组合观点的证明。还有很多名字符合“布朗克斯”这种模式。世界杯并不是准确地称为（只是）世界杯；埃菲尔铁塔并不被称为埃菲尔铁塔（就像西尔斯塔楼那样）；蒙娜丽莎并不被称为蒙娜丽莎（尽管它的主题丽莎·德尔·焦康多是这样的；有趣的是，我们会说这幅画的标题是蒙娜丽莎）。
+这种元语言理论的缺点在于，当我们将注意力限制在可以有或没有冠词出现的专有名词上时，这一缺点就被隐藏起来了，比如“爱丽丝”或者“(the)乔治 · 华盛顿大桥”。乔治 · 华盛顿大桥也被称为乔治 · 华盛顿大桥——这是因为人们也用这种方式来提及它（并将没有冠词的名字归属于它）。但这似乎是一种命名的偶然性，而不是组合观点的证明。还有很多名字符合“布朗克斯”这种模式。世界杯并不是准确地称为（只是）世界杯；埃菲尔铁塔并不被称为埃菲尔铁塔（就像西尔斯塔楼那样）；蒙娜丽莎并不被称为蒙娜丽莎（尽管它的主题丽莎 · 德尔 · 焦康多是这样的；有趣的是，我们会说这幅画的标题是蒙娜丽莎）。
 
 如果我们将注意力限制在个人名字上，情况就会有所不同。正如前面提到的，在英语以外的许多语言中，个人名字都带有一个（明确的）限定词。Matushansky（2008: 580–581）提供了证据，证明在像“被称为”这样的命名环境中，个人名字上的限定词可以省略，正如组合观点所预测的那样。
 
@@ -373,123 +373,123 @@ b.
 
 ## Bibliography
 
-* Abbott, Barbara, 2002, “Definiteness and Proper Names: Some Bad News for the Description Theory”, *Journal of Semantics*, 19(2): 191–201. doi:10.1093/jos/19.2.191
+* Abbott, Barbara, 2002, “Definiteness and Proper Names: Some Bad News for the Description Theory”, *Journal of Semantics*, 19(2): 191–201. doi: 10.1093/jos/19.2.191
 * Almog, Joseph, John Perry, and Howard Wettstein (eds.), 1989, *Themes from Kaplan*, New York: Oxford University Press.
-* Anderson, John M., 2007, *The Grammar of Names*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297412.001.0001
-* Bach, Kent, 1981, “What’s in a Name”, *Australasian Journal of Philosophy*, 59(4): 371–386. doi:10.1080/00048408112340341
-* –––, 2002, “Giorgione Was So-Called Because of His Name”, *Philosophical Perspectives*, 16: 73–103. doi:10.1111/1468-0068.36.s16.4
-* Barcan, Ruth C., 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. See also Ruth Barcan Marcus. doi:10.2307/2267171
-* Boër, Steven E., “Proper Names as Predicates”, *Philosophical Studies*, 27(6): 389–400. doi:10.1007/BF01236458
-* Braun, David, 1993, “Empty Names”, *Noûs*, 27(4): 449–469. doi:10.2307/2215787
-* Burge, Tyler, 1973, “Reference and Proper Names”, *The Journal of Philosophy*, 70(14): 425–439. doi:10.2307/2025107
-* –––, 1977, “Belief *De Re*”, *The Journal of Philosophy*, 74(6): 338–362. doi:10.2307/2025871
-* –––, 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121. doi:10.1111/j.1475-4975.1979.tb00374.x
-* Burks, Arthur W., 1951, “A Theory of Proper Names”, *Philosophical Studies*, 2(3): 36–45. doi:10.1007/BF02198143
-* Caplan, Ben, 2007, “Millian Descriptivism”, *Philosophical Studies*, 133(2): 181–198. doi:10.1007/s11098-005-4544-y
+* Anderson, John M., 2007, *The Grammar of Names*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199297412.001.0001
+* Bach, Kent, 1981, “What’s in a Name”, *Australasian Journal of Philosophy*, 59(4): 371–386. doi: 10.1080/00048408112340341
+* –––, 2002, “Giorgione Was So-Called Because of His Name”, *Philosophical Perspectives*, 16: 73–103. doi: 10.1111/1468-0068.36.s16.4
+* Barcan, Ruth C., 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. See also Ruth Barcan Marcus. doi: 10.2307/2267171
+* Boër, Steven E., “Proper Names as Predicates”, *Philosophical Studies*, 27(6): 389–400. doi: 10.1007/BF01236458
+* Braun, David, 1993, “Empty Names”, *Noûs*, 27(4): 449–469. doi: 10.2307/2215787
+* Burge, Tyler, 1973, “Reference and Proper Names”, *The Journal of Philosophy*, 70(14): 425–439. doi: 10.2307/2025107
+* –––, 1977, “Belief *De Re*”, *The Journal of Philosophy*, 74(6): 338–362. doi: 10.2307/2025871
+* –––, 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121. doi: 10.1111/j.1475-4975.1979.tb00374.x
+* Burks, Arthur W., 1951, “A Theory of Proper Names”, *Philosophical Studies*, 2(3): 36–45. doi: 10.1007/BF02198143
+* Caplan, Ben, 2007, “Millian Descriptivism”, *Philosophical Studies*, 133(2): 181–198. doi: 10.1007/s11098-005-4544-y
 * Carnap, Rudolph, 1947, *Meaning and Necessity*, Chicago: Chicago University Press.
 * Carroll, John M., 1985, *What’s in a Name? An Essay in the Psychology of Reference*, New York, NY: W H Freeman.
 * Chalmers, David J., 2006, “The Foundations of Two-Dimensional Semantics”, in *Two-Dimensional Semantics*, Manuel García-Carpintero and Josep Macià (eds.), Oxford: Clarendon Press, 55–140.
-* Chalmers, David J. and Frank Jackson, 2001, “Conceptual Analysis and Reductive Explanation”, *Philosophical Review*, 110(3): 315–360. doi:10.1215/00318108-110-3-315
+* Chalmers, David J. and Frank Jackson, 2001, “Conceptual Analysis and Reductive Explanation”, *Philosophical Review*, 110(3): 315–360. doi: 10.1215/00318108-110-3-315
 * Church, Alonzo, 1951, “A Formulation of the Logic of Sense and Denotation”, in *Structure, Method, and Meaning: Essays in Honor of Henry M. Sheffer*, Paul Henle, Horace M. Kallen, and Susanne K. Langer (eds), New York: Liberal Arts Press, 3–24.
-* Crimmins, Mark and John Perry, 1989, “The Prince and the Phone Booth: Reporting Puzzling Beliefs”, *The Journal of Philosophy*, 86(12): 685–711. doi:10.2307/2027014
-* Cumming, Samuel [Sam], 2007, “Proper Nouns”, PhD thesis , Rutgers University. doi:10.7282/t3d50nf7
-* –––, 2008, “Variabilism”, *Philosophical Review*, 117(4): 525–554. doi:10.1215/00318108-2008-015
-* –––, 2013, “Creatures of Darkness”, *Analytic Philosophy*, 54(4): 379–400. doi:10.1111/phib.12028
-* –––, 2014, “Discourse Content”, in *Metasemantics: New Essays on the Foundations of Meaning*, Alexis Burgess and Brett Sherman (eds.), Oxford: Oxford University Press, 214–230. doi:10.1093/acprof:oso/9780199669592.003.0009
-* Davidson, Donald, 1967, “Truth and Meaning”, *Synthese*, 17(1): 304–323. doi:10.1007/BF00485035
+* Crimmins, Mark and John Perry, 1989, “The Prince and the Phone Booth: Reporting Puzzling Beliefs”, *The Journal of Philosophy*, 86(12): 685–711. doi: 10.2307/2027014
+* Cumming, Samuel [Sam], 2007, “Proper Nouns”, PhD thesis , Rutgers University. doi: 10.7282/t3d50nf7
+* –––, 2008, “Variabilism”, *Philosophical Review*, 117(4): 525–554. doi: 10.1215/00318108-2008-015
+* –––, 2013, “Creatures of Darkness”, *Analytic Philosophy*, 54(4): 379–400. doi: 10.1111/phib.12028
+* –––, 2014, “Discourse Content”, in *Metasemantics: New Essays on the Foundations of Meaning*, Alexis Burgess and Brett Sherman (eds.), Oxford: Oxford University Press, 214–230. doi: 10.1093/acprof: oso/9780199669592.003.0009
+* Davidson, Donald, 1967, “Truth and Meaning”, *Synthese*, 17(1): 304–323. doi: 10.1007/BF00485035
 * Dever, Joshua Bruce, 1998, “Variables”, PhD Thesis, University of California, Berkeley.
 * Devitt, Michael, 1981, *Designation*, New York: Columbia University Press.
-* Dickie, Imogen, 2011, “How Proper Names Refer”, *Proceedings of the Aristotelian Society*, 111(1): 43–78. doi:10.1111/j.1467-9264.2011.00298.x
-* Donnellan, Keith S., 1970, “Proper Names and Identifying Descriptions”, *Synthese*, 21(3–4): 335–358. doi:10.1007/BF00484804
-* –––, 1974, “Speaking of Nothing”, *The Philosophical Review*, 83(1): 3–31. doi:10.2307/2183871
+* Dickie, Imogen, 2011, “How Proper Names Refer”, *Proceedings of the Aristotelian Society*, 111(1): 43–78. doi: 10.1111/j.1467-9264.2011.00298.x
+* Donnellan, Keith S., 1970, “Proper Names and Identifying Descriptions”, *Synthese*, 21(3–4): 335–358. doi: 10.1007/BF00484804
+* –––, 1974, “Speaking of Nothing”, *The Philosophical Review*, 83(1): 3–31. doi: 10.2307/2183871
 * Dummett, Michael, 1973, *Frege: Philosophy of Language*, Cambridge, MA: Harvard University Press.
 * –––, 1981, *The Interpretation of Frege’s philosophy*, London: Duckworth.
 * Elbourne, Paul D., 2005, *Situations and Individuals*, (Current Studies in Linguistics 41), Cambridge, MA: MIT Press.
-* Evans, Gareth, 1973, “The Causal Theory of Names”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 47: 187–208. doi:10.1093/aristoteliansupp/47.1.187
+* Evans, Gareth, 1973, “The Causal Theory of Names”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 47: 187–208. doi: 10.1093/aristoteliansupp/47.1.187
 * –––, 1982, *The Varieties of Reference*, John Henry McDowell (ed.), Oxford: Clarendon Press.
 * Everett, Anthony J. and Thomas Hofweber (eds.), 2000, *Empty Names, Fiction, and the Puzzles of Non-Existence*, Stanford, CA: CSLI Publications.
-* Fara, Delia Graff, 2011, “You Can Call Me ‘Stupid’, … Just Don’t Call Me Stupid”, *Analysis*, 71(3): 492–501. doi:10.1093/analys/anr045
-* –––, 2015a, “‘Literal’ Uses of Proper Names”, in *On Reference*, Andrea Bianchi (ed.), Oxford: Oxford University Press, 251–279. doi:10.1093/acprof:oso/9780198714088.003.0013
-* –––, 2015b, “Names Are Predicates”, *Philosophical Review*, 124(1): 59–117. doi:10.1215/00318108-2812660
-* –––, 2015c, “A Problem for Predicativism Solved by Predicativism”, *Analysis*, 75(3): 362–371. doi:10.1093/analys/anv042
-* Frege, Gottlob, 1892 [1952], “Über Sinn Und Bedeutung”, *Zeitschrift Für Philosophie Und Philosophische Kritik*, 100: 25–50. Translated as “Sense and Reference”, Max Black (trans.), 1948, *The Philosophical Review*, 57(3): 209–230. Translation reprinted as “On Sense and Reference”, in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds.), Oxford: Blackwell, 1952, 56–79. doi:10.2307/2181485
-* –––, 1918–1919 [1956], “Der Gedanke. Eine Logische Untersuchung”, *Beiträge Zur Philosophie Des Deutschen Idealismus*, 1: 58–77. Translated, 1956, as “The Thought: A Logical Inquiry”, A.M. Quinton and Marcella Quinton (trans.), *Mind*, 65(259): 289–311. doi:10.1093/mind/65.1.289
-* García-Carpintero, Manuel, 2017, “The Mill-Frege Theory of Proper Names”, *Mind*, 127(508): 1107–1168. doi:10.1093/mind/fzx010
+* Fara, Delia Graff, 2011, “You Can Call Me ‘Stupid’, … Just Don’t Call Me Stupid”, *Analysis*, 71(3): 492–501. doi: 10.1093/analys/anr045
+* –––, 2015a, “‘Literal’ Uses of Proper Names”, in *On Reference*, Andrea Bianchi (ed.), Oxford: Oxford University Press, 251–279. doi: 10.1093/acprof: oso/9780198714088.003.0013
+* –––, 2015b, “Names Are Predicates”, *Philosophical Review*, 124(1): 59–117. doi: 10.1215/00318108-2812660
+* –––, 2015c, “A Problem for Predicativism Solved by Predicativism”, *Analysis*, 75(3): 362–371. doi: 10.1093/analys/anv042
+* Frege, Gottlob, 1892 [1952], “Über Sinn Und Bedeutung”, *Zeitschrift Für Philosophie Und Philosophische Kritik*, 100: 25–50. Translated as “Sense and Reference”, Max Black (trans.), 1948, *The Philosophical Review*, 57(3): 209–230. Translation reprinted as “On Sense and Reference”, in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds.), Oxford: Blackwell, 1952, 56–79. doi: 10.2307/2181485
+* –––, 1918–1919 [1956], “Der Gedanke. Eine Logische Untersuchung”, *Beiträge Zur Philosophie Des Deutschen Idealismus*, 1: 58–77. Translated, 1956, as “The Thought: A Logical Inquiry”, A.M. Quinton and Marcella Quinton (trans.), *Mind*, 65(259): 289–311. doi: 10.1093/mind/65.1.289
+* García-Carpintero, Manuel, 2017, “The Mill-Frege Theory of Proper Names”, *Mind*, 127(508): 1107–1168. doi: 10.1093/mind/fzx010
 * Geach, P. T., 1969, “The Perils of Pauline”, *The Review of Metaphysics*, 23(2): 287–300.
-* Geurts, Bart, 1997, “Good News about the Description Theory of Names”, *Journal of Semantics*, 14(4): 319–348. doi:10.1093/jos/14.4.319
+* Geurts, Bart, 1997, “Good News about the Description Theory of Names”, *Journal of Semantics*, 14(4): 319–348. doi: 10.1093/jos/14.4.319
 * –––, 1999, *Presuppositions and Pronouns*, Amsterdam: Elsevier.
-* Gray, Aidan, 2014, “Name-Bearing, Reference, and Circularity”, *Philosophical Studies*, 171(2): 207–231. doi:10.1007/s11098-013-0262-z
-* –––, 2015, “Lexical Individuation and Predicativism about Names”, *Thought: A Journal of Philosophy*, 4(2): 113–123. doi:10.1002/tht3.164
-* –––, 2017, “Names in Strange Places”, *Linguistics and Philosophy*, 40(5): 429–472. doi:10.1007/s10988-017-9205-z
+* Gray, Aidan, 2014, “Name-Bearing, Reference, and Circularity”, *Philosophical Studies*, 171(2): 207–231. doi: 10.1007/s11098-013-0262-z
+* –––, 2015, “Lexical Individuation and Predicativism about Names”, *Thought: A Journal of Philosophy*, 4(2): 113–123. doi: 10.1002/tht3.164
+* –––, 2017, “Names in Strange Places”, *Linguistics and Philosophy*, 40(5): 429–472. doi: 10.1007/s10988-017-9205-z
 * Grice, H. Paul, 1975, “Logic and Conversation”, in *Syntax and Semantics, Volume 3: Speech Acts*, Peter Cole and Jerry L. Morgan (eds), New York: Academic Press, 41–58.
-* Haas-Spohn, Ulrike, 1995, *Versteckte Indexikalität und subjektive Bedeutung*, Berlin: Akademie Verlag. doi:10.1515/9783050071695
-* Hawthorne, John and David Manley, 2012, *The Reference Book*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693672.001.0001
-* Hornsby, Jennifer, 1976, “Proper Names: A Defence of Burge”, *Philosophical Studies*, 30(4): 227–234. doi:10.1007/BF00372494
-* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press. doi:10.1093/0198250614.001.0001
-* Jeshion, Robin, 2015, “Referentialism and Predicativism About Proper Names”, *Erkenntnis*, 80(S2): 363–404. doi:10.1007/s10670-014-9700-3
-* –––, 2017, “‘The’ Problem for the-Predicativism”, *Philosophical Review*, 126(2): 219–240. doi:10.1215/00318108-3772008
-* Johnson, Michael, 2018, “Pure Quotation and Natural Naming”, *The Journal of Philosophy*, 115(10): 550–566. doi:10.5840/jphil20181151031
+* Haas-Spohn, Ulrike, 1995, *Versteckte Indexikalität und subjektive Bedeutung*, Berlin: Akademie Verlag. doi: 10.1515/9783050071695
+* Hawthorne, John and David Manley, 2012, *The Reference Book*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199693672.001.0001
+* Hornsby, Jennifer, 1976, “Proper Names: A Defence of Burge”, *Philosophical Studies*, 30(4): 227–234. doi: 10.1007/BF00372494
+* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press. doi: 10.1093/0198250614.001.0001
+* Jeshion, Robin, 2015, “Referentialism and Predicativism About Proper Names”, *Erkenntnis*, 80(S2): 363–404. doi: 10.1007/s10670-014-9700-3
+* –––, 2017, “‘The’ Problem for the-Predicativism”, *Philosophical Review*, 126(2): 219–240. doi: 10.1215/00318108-3772008
+* Johnson, Michael, 2018, “Pure Quotation and Natural Naming”, *The Journal of Philosophy*, 115(10): 550–566. doi: 10.5840/jphil20181151031
 * Kaplan, David, 1978, “Dthat”, in *Syntax and Semantics, Volume 9: Pragmatics*, Peter Cole (ed.), New York: Academic Press, 221–243.
 * –––, 1989a, “Demonstratives”, in Almog, Perry, and Wettstein 1989: 481–563.
 * –––, 1989b, “Afterthoughts”, in Almog, Perry, and Wettstein 1989: 565–614.
-* –––, 1990, “Words”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 64: 93–120. doi:10.1093/aristoteliansupp/64.1.93
-* –––, 2012, “An Idea of Donnellan”, in *Having in Mind: The Philosophy of Keith Donnellan*, Joseph Almog and Paolo Leonardi (eds.), Oxford: Oxford University Press, 122–175. doi:10.1093/acprof:oso/9780199844845.001.0001
-* King, Jeffrey C., 2006, “Singular Terms, Reference and Methodology in Semantics”, *Philosophical Issues*, 16: 141–161. doi:10.1111/j.1533-6077.2006.00107.x
-* Kneale, W., 1966, “Modality De Dicto and De Re”, in *Studies in Logic and the Foundations of Mathematics: Proceeding of the 1960 International Congress*, Ernest Nagel, Peter Suppes, and Alfred Tarski (eds.), Stanford, CA: Stanford University Press, 622–633. doi:10.1016/S0049-237X(09)70626-3
+* –––, 1990, “Words”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 64: 93–120. doi: 10.1093/aristoteliansupp/64.1.93
+* –––, 2012, “An Idea of Donnellan”, in *Having in Mind: The Philosophy of Keith Donnellan*, Joseph Almog and Paolo Leonardi (eds.), Oxford: Oxford University Press, 122–175. doi: 10.1093/acprof: oso/9780199844845.001.0001
+* King, Jeffrey C., 2006, “Singular Terms, Reference and Methodology in Semantics”, *Philosophical Issues*, 16: 141–161. doi: 10.1111/j.1533-6077.2006.00107.x
+* Kneale, W., 1966, “Modality De Dicto and De Re”, in *Studies in Logic and the Foundations of Mathematics: Proceeding of the 1960 International Congress*, Ernest Nagel, Peter Suppes, and Alfred Tarski (eds.), Stanford, CA: Stanford University Press, 622–633. doi: 10.1016/S0049-237X(09)70626-3
 * Kripke, Saul, 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
 * –––, 2013, *Reference and Existence: The John Locke Lectures*, Oxford: Oxford University Press.
-* Kroon, Frederick W., 1987, “Causal Descriptivism”, *Australasian Journal of Philosophy*, 65(1): 1–17. doi:10.1080/00048408712342731
+* Kroon, Frederick W., 1987, “Causal Descriptivism”, *Australasian Journal of Philosophy*, 65(1): 1–17. doi: 10.1080/00048408712342731
 * Larson, Richard K. and Gabriel Segal, 1995, *Knowledge of Meaning: An Introduction to Semantic Theory*, Cambridge, MA: MIT Press.
-* Leckie, Gail, 2013, “The Double Life of Names”, *Philosophical Studies*, 165(3): 1139–1160. doi:10.1007/s11098-012-0008-3
+* Leckie, Gail, 2013, “The Double Life of Names”, *Philosophical Studies*, 165(3): 1139–1160. doi: 10.1007/s11098-012-0008-3
 * Lerner, Jean-Yves, and Thomas Ede Zimmermann, 1984, *Bedeutung und Inhalt von Eigennamen*, Papier Nr. 94 des Sonderforschungsbereich (SFB) 99, Konstanz University.
 * –––, 1991, “Eigennamen” (Proper Nouns), in *Semantik: ein internationales Handbuch der zeitgenössischen Forschung* (Semantics: an international handbook of contemporary research), Anton von Stechow and Dieter Wunderlich (eds), (Handbücher zur Sprachund Kommunikationswissenschaft [HSK] 6), Berlin/New York: Walter de Gruyter, 349–370.
-* Lewis, David, 1984, “Putnam’s Paradox”, *Australasian Journal of Philosophy*, 62(3): 221–236. doi:10.1080/00048408412340013
-* Loar, Brian, 1976, “The Semantics of Singular Terms”, *Philosophical Studies*, 30(6): 353–377. doi:10.1007/BF00372537
-* McDowell, John, 1977, “On the Sense and Reference of a Proper Name”, *Mind*, 86(342): 159–185. doi:10.1093/mind/LXXXVI.342.159
-* Marcus, Ruth Barcan, 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. See also Ruth C. Barcan. doi:10.1007/BF00486629
-* Matushansky, Ora, 2008, “On the Linguistic Complexity of Proper Names”, *Linguistics and Philosophy*, 31(5): 573–627. doi:10.1007/s10988-008-9050-1
+* Lewis, David, 1984, “Putnam’s Paradox”, *Australasian Journal of Philosophy*, 62(3): 221–236. doi: 10.1080/00048408412340013
+* Loar, Brian, 1976, “The Semantics of Singular Terms”, *Philosophical Studies*, 30(6): 353–377. doi: 10.1007/BF00372537
+* McDowell, John, 1977, “On the Sense and Reference of a Proper Name”, *Mind*, 86(342): 159–185. doi: 10.1093/mind/LXXXVI.342.159
+* Marcus, Ruth Barcan, 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. See also Ruth C. Barcan. doi: 10.1007/BF00486629
+* Matushansky, Ora, 2008, “On the Linguistic Complexity of Proper Names”, *Linguistics and Philosophy*, 31(5): 573–627. doi: 10.1007/s10988-008-9050-1
 * Mill, John Stuart, 1843, *A System of Logic*, London: Parker.
-* Montague, Richard, 1973, “The Proper Treatment of Quantification in Ordinary English”, in *Approaches to Natural Language*, K. Jaakko J. Hintikka, Julius M. E. Moravcsik, and Patrick Suppes (eds.), Dordrecht: Springer Netherlands, 221–242. doi:10.1007/978-94-010-2506-5_10
-* Mulkern, Ann E., 1996, “The Game of the Name”, in *Reference and Referent Accessibility*, Thorstein Fretheim and Jeanette K. Gundel (eds.), (Pragmatics & Beyond New Series 38), Amsterdam: John Benjamins Publishing Company, 235–250. doi:10.1075/pbns.38.14mul
-* Muñoz, Patrick, 2019, “The Proprial Article and the Semantics of Names”, *Semantics and Pragmatics*, 12(6): 1–36. doi:10.3765/sp.12.6
-* Musan, Renate, 1997, “Tense, Predicates and Lifetime Effects”, *Natural Language Semantics*, 5(3): 271–301. doi:10.1023/A:1008281017969
+* Montague, Richard, 1973, “The Proper Treatment of Quantification in Ordinary English”, in *Approaches to Natural Language*, K. Jaakko J. Hintikka, Julius M. E. Moravcsik, and Patrick Suppes (eds.), Dordrecht: Springer Netherlands, 221–242. doi: 10.1007/978-94-010-2506-5_10
+* Mulkern, Ann E., 1996, “The Game of the Name”, in *Reference and Referent Accessibility*, Thorstein Fretheim and Jeanette K. Gundel (eds.), (Pragmatics & Beyond New Series 38), Amsterdam: John Benjamins Publishing Company, 235–250. doi: 10.1075/pbns.38.14mul
+* Muñoz, Patrick, 2019, “The Proprial Article and the Semantics of Names”, *Semantics and Pragmatics*, 12(6): 1–36. doi: 10.3765/sp.12.6
+* Musan, Renate, 1997, “Tense, Predicates and Lifetime Effects”, *Natural Language Semantics*, 5(3): 271–301. doi: 10.1023/A: 1008281017969
 * Neale, Stephen, 1990, *Descriptions*, Cambridge, MA: MIT Press.
 * Payne, John and Rodney Huddleston, 2002, “Nouns and Noun Phrases”, in *The Cambridge Grammar of the English Language*, Geoffrey Pullum and Rodney Huddleston (eds), Cambridge: Cambridge University Press.
-* Pelczar, M. and J. Rainsbury, 1998, “The Indexical Character of Names”, *Synthese*, 114(2): 293–317. doi:10.1023/A:1004992629004
-* Putnam, Hilary, 1962, “It Ain’t Necessarily So”, *The Journal of Philosophy*, 59(22): 658–671. doi:10.2307/2023596
+* Pelczar, M. and J. Rainsbury, 1998, “The Indexical Character of Names”, *Synthese*, 114(2): 293–317. doi: 10.1023/A: 1004992629004
+* Putnam, Hilary, 1962, “It Ain’t Necessarily So”, *The Journal of Philosophy*, 59(22): 658–671. doi: 10.2307/2023596
 * –––, 1975, “The Meaning of ‘Meaning’”, in *Language, Mind, and Knowledge*, Keith Gunderson (ed.), (Minnesota Studies in the Philosophy of Science 7), Minneapolis, Minnesota: University of Minnesota Press, 131–193.
-* Rami, Dolf, 2014, “On the Unification Argument for the Predicate View on Proper Names”, *Synthese*, 191(5): 841–862. doi:10.1007/s11229-013-0296-y
+* Rami, Dolf, 2014, “On the Unification Argument for the Predicate View on Proper Names”, *Synthese*, 191(5): 841–862. doi: 10.1007/s11229-013-0296-y
 * Recanati, Francois, 1997, *Direct Reference: From Language to Thought*, Oxford: Blackwell.
 * Reichenbach, Hans, 1947, *Elements of Symbolic Logic*, New York: Macmillan.
-* Richard, Mark, 1983, “Direct Reference and Ascriptions of Belief”, *Journal of Philosophical Logic*, 12(4): 425–452. doi:10.1007/BF00249259
-* Rothschild, Daniel, 2007, “Presuppositions and Scope”, *Journal of Philosophy*, 104(2): 71–106. doi:10.5840/jphil2007104233
-* Russell, Bertrand, 1905, “On Denoting”, *Mind*, 14(4): 479–493. doi:10.1093/mind/XIV.4.479
-* –––, 1911, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–128. doi:10.1093/aristotelian/11.1.108
-* –––, 1918–1919 [1956], “The Philosophy of Logical Atomism”, *Monist* 28(4): 495–527, 29(1): 32–63, 29(2): 190–222, 29(3): 345–380. Reprinted in *Logic and Knowledge: Essays 1901–1950*, Robert Charles Marsh (ed.), New York: Capricorn, 177–281. doi:10.5840/monist19182843
+* Richard, Mark, 1983, “Direct Reference and Ascriptions of Belief”, *Journal of Philosophical Logic*, 12(4): 425–452. doi: 10.1007/BF00249259
+* Rothschild, Daniel, 2007, “Presuppositions and Scope”, *Journal of Philosophy*, 104(2): 71–106. doi: 10.5840/jphil2007104233
+* Russell, Bertrand, 1905, “On Denoting”, *Mind*, 14(4): 479–493. doi: 10.1093/mind/XIV.4.479
+* –––, 1911, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–128. doi: 10.1093/aristotelian/11.1.108
+* –––, 1918–1919 [1956], “The Philosophy of Logical Atomism”, *Monist* 28(4): 495–527, 29(1): 32–63, 29(2): 190–222, 29(3): 345–380. Reprinted in *Logic and Knowledge: Essays 1901–1950*, Robert Charles Marsh (ed.), New York: Capricorn, 177–281. doi: 10.5840/monist19182843
 * Sainsbury, R. Mark, 1993, “Russell on Names and Communication”, in *Russell and Analytic Philosophy*, Andrew David Irvine and Gary A. Wedeking, (eds), (Toronto Studies in Philosophy), Toronto, Canada: University of Toronto Press, 3–21.
-* –––, 2005, *Reference without Referents*, Oxford: Oxford University Press. doi:10.1093/0199241805.001.0001
-* –––, 2015, “The Same Name”, *Erkenntnis*, 80(S2): 195–214. doi:10.1007/s10670-014-9705-y
+* –––, 2005, *Reference without Referents*, Oxford: Oxford University Press. doi: 10.1093/0199241805.001.0001
+* –––, 2015, “The Same Name”, *Erkenntnis*, 80(S2): 195–214. doi: 10.1007/s10670-014-9705-y
 * Salmon, Nathan, 1986, *Frege’s Puzzle*, Cambridge, MA: MIT Press.
-* Saul, Jennifer M., 2007, *Simple Sentences, Substitution, and Intuitions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219155.001.0001
-* Schlenker, Philippe, 2003, “A Plea for Monsters”, *Linguistics and Philosophy*, 26(1): 29–120. doi:10.1023/A:1022225203544
-* Schoubye, Anders J., 2016, “A Problem for Predicativism Not Solved by Predicativism”, *Semantics and Pragmatics*, 9: Article 18. doi:10.3765/sp.9.18
-* –––, 2017, “Type-Ambiguous Names”, *Mind*, 126(503): 715–767. doi:10.1093/mind/fzv188
-* Searle, John R., 1958, “Proper Names”, *Mind*, 67(266): 166–173. doi:10.1093/mind/LXVII.266.166
-* Sloat, Clarence, 1969, “Proper Nouns in English”, *Language*, 45(1): 26–30. doi:10.2307/411749
+* Saul, Jennifer M., 2007, *Simple Sentences, Substitution, and Intuitions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199219155.001.0001
+* Schlenker, Philippe, 2003, “A Plea for Monsters”, *Linguistics and Philosophy*, 26(1): 29–120. doi: 10.1023/A: 1022225203544
+* Schoubye, Anders J., 2016, “A Problem for Predicativism Not Solved by Predicativism”, *Semantics and Pragmatics*, 9: Article 18. doi: 10.3765/sp.9.18
+* –––, 2017, “Type-Ambiguous Names”, *Mind*, 126(503): 715–767. doi: 10.1093/mind/fzv188
+* Searle, John R., 1958, “Proper Names”, *Mind*, 67(266): 166–173. doi: 10.1093/mind/LXVII.266.166
+* Sloat, Clarence, 1969, “Proper Nouns in English”, *Language*, 45(1): 26–30. doi: 10.2307/411749
 * Soames, Scott, 1987, “Substitutivity”, in *On Being and Saying: Essays for Richard Cartwright*, Judith Jarvis Thomson (ed.), Cambridge, MA: MIT Press, 99–132.
 * –––, 1989, “Direct Reference and Propositional Attitudes”, in Almog, Perry, and Wettstein 1989: 393–420.
-* –––, 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions”, *Noûs*, 32(1): 1–22. doi:10.1111/0029-4624.00084
-* –––, 2002, *Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity*, Oxford: Oxford University Press. doi:10.1093/0195145283.001.0001
+* –––, 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions”, *Noûs*, 32(1): 1–22. doi: 10.1111/0029-4624.00084
+* –––, 2002, *Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity*, Oxford: Oxford University Press. doi: 10.1093/0195145283.001.0001
 * Sommers, Frederic Tamler, 1982, *The Logic of Natural Language*, (Clarendon Library of Logic and Philosophy), Oxford: Clarendon Press.
-* Sosa, David, 2001, “Rigidity in the Scope of Russell’s Theory”, *Noûs*, 35(1): 1–38. doi:10.1111/0029-4624.00286
+* Sosa, David, 2001, “Rigidity in the Scope of Russell’s Theory”, *Noûs*, 35(1): 1–38. doi: 10.1111/0029-4624.00286
 * Stalnaker, Richard, 1978, “Assertion”, in *Syntax and Semantics, Volume 9: Pragmatics*, Peter Cole (ed.), New York: Academic Press, 315–332.
-* Strawson, P. F., 1950, “On Referring”, *Mind*, 59(235): 320–344. doi:10.1093/mind/LIX.235.320
+* Strawson, P. F., 1950, “On Referring”, *Mind*, 59(235): 320–344. doi: 10.1093/mind/LIX.235.320
 * –––, 1959, *Individuals: an Essay on Descriptive Metaphysics*, London: Methuen.
-* –––, 1964, “Identifying Reference and Truth-Values”, *Theoria*, 30(2): 96–118. doi:10.1111/j.1755-2567.1964.tb00404.x
+* –––, 1964, “Identifying Reference and Truth-Values”, *Theoria*, 30(2): 96–118. doi: 10.1111/j.1755-2567.1964.tb00404.x
 * –––, 1974, *Subject and Predicate in Logic and Grammar*, London: Methuen.
 * Thau, Michael, 2002, *Consciousness and Cognition*, Oxford: Oxford University Press.
-* Unger, Peter, 1983, “The Causal Theory of Reference”, *Philosophical Studies*, 43(1): 1–45. doi:10.1007/BF01112520
-* Waismann, F., 1945, part II of “Symposium: Verifiability”, D.M. MacKinnon, F. Waismann, and W.C. Kneale, *Proceedings of the Aristotelian Society* (Supplementary Volume), 19: 101–164. doi:10.1093/aristoteliansupp/19.1.101
+* Unger, Peter, 1983, “The Causal Theory of Reference”, *Philosophical Studies*, 43(1): 1–45. doi: 10.1007/BF01112520
+* Waismann, F., 1945, part II of “Symposium: Verifiability”, D.M. MacKinnon, F. Waismann, and W.C. Kneale, *Proceedings of the Aristotelian Society* (Supplementary Volume), 19: 101–164. doi: 10.1093/aristoteliansupp/19.1.101
 * Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, G.E.M. Anscombe (trans.), Oxford: Basil Blackwell.
 * Ziff, Paul, 1960, *Semantic Analysis*, Ithaca, NY: Cornell University Press.
 

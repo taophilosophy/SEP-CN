@@ -88,7 +88,7 @@
 
 例如，考虑一个被指称为自主权失败的代理人的典型案例：一个人尽管宁愿抵抗上瘾的驱动力，却仍然吸毒。人们普遍认为，即使符合这种描述的许多人只是意志薄弱，并非所有人都是如此：一些不情愿的上瘾者在最低限度上也不具备自主权。根据一致主义和对理性反应的解释，这是因为这些上瘾者实际上是对自己动机的“被动旁观者”。但即使我们能找到一个令人满意的相关被动性解释，这种诊断也是有问题的。因为它将上瘾者与那些行为甚至不能被视为行动的人（例如，患有抽动症的人，他们的口头爆发和身体动作甚至不是自愿的）等同起来。因此，它未能阐明在某人行动时（即使是有意识地、甚至是故意地行动）而不对自己的行为负责的条件。（对于自主代理人与其他代理人之间的区别在于他们特殊的理解自己行动方式的提议，也存在同样的问题。无论某人是否掌控她的有意行动，她都知道自己在做什么，而无需观察自己的行为。如果某人必须观察自己的行为才能发现自己在做什么，那么这种行为就不能被视为她的行动。）
 
-如果某人的动机直接违抗她对自己行动的权威行使的尝试，那么这些动机的力量不仅独立于她的权威，而且完全绕过了她的行为体。即使在这些条件下，一个人可以承认按照她的方式行事是有道理的，但她对自己动机的力量与她对产生反射动作的生理状态的力量一样疏离。她不是一个自主代理人，因为她根本不是一个代理人[18]。
+如果某人的动机直接违抗她对自己行动的权威行使的尝试，那么这些动机的力量不仅独立于她的权威，而且完全绕过了她的行为体。即使在这些条件下，一个人可以承认按照她的方式行事是有道理的，但她对自己动机的力量与她对产生反射动作的生理状态的力量一样疏离。她不是一个自主代理人，因为她根本不是一个代理人 [18]。
 
 当然，有一种意义上，成瘾者而不是 Tourette 综合症的受害者对理由是有反应的。但是，即使我们能够以令人满意的方式解释这种区别，我们仍然面临一个问题，即解释为什么一个行为体对外部现实的反应能力与她自我管理的能力相关。还有其他问题。例如，如果非行动与行动之间的区别在于对理由的无反应性，那么非理性动物从来没有真正行动，或者说凭本能行动就是凭理由行动。目前尚不清楚有什么考虑可以克服这些推论的不合理性。
 
@@ -100,9 +100,9 @@
 
 这种关于自主权行为的解释认真对待了区分行为体的力量和推动和拉扯行为体的心理力量的需要。然而，这种解释所引发的特殊因果关系的模糊性足以阻止大多数哲学家接受这种自主权行为的概念。仅举几个常见的挑战：如果行为体引起一个事件不涉及采取措施使事件发生，那么行为体如何施加其因果力量？为什么这种力量在某个时间产生其效果而不是其他时间？另一方面，如果一个行为体必须采取某些行动才能引起行为，那么这不是要求她经历某种变化吗？而这种状态的变化本身不是一个事件吗？
 
-基于这些和其他困难，许多人得出结论，对于自主权的呼吁并没有比简单地断言我们有时可以控制自己动机的因果效力提供更多的洞察力。与此抱怨有共鸣的不相容主义者坚持认为，即使一个行为体的因果力必须以事件之间的因果关系来理解，只有在立即引起行为体意图的条件不足以产生它的情况下，自主行为才是可能的。他们争辩说，如果一个行为体在没有被超出其控制的力量决定的情况下不能授权给定的行动，那么自主行为就是一种幻觉。如果我们的每一个行动都是一个确定性因果链中的事件，那么我们只是在授权我们的行动，就像一个傀儡授权她被迫签署的决定一样。事实上，与政治傀儡不同，我们甚至没有违抗的选择[20]。
+基于这些和其他困难，许多人得出结论，对于自主权的呼吁并没有比简单地断言我们有时可以控制自己动机的因果效力提供更多的洞察力。与此抱怨有共鸣的不相容主义者坚持认为，即使一个行为体的因果力必须以事件之间的因果关系来理解，只有在立即引起行为体意图的条件不足以产生它的情况下，自主行为才是可能的。他们争辩说，如果一个行为体在没有被超出其控制的力量决定的情况下不能授权给定的行动，那么自主行为就是一种幻觉。如果我们的每一个行动都是一个确定性因果链中的事件，那么我们只是在授权我们的行动，就像一个傀儡授权她被迫签署的决定一样。事实上，与政治傀儡不同，我们甚至没有违抗的选择 [20]。
 
-然而，其他人对此持不同看法。他们认为不相容主义者的结论反映了对理性行为的本质的误解。在提出他们的观点时，他们以一个哲学家为榜样，这个哲学家对我们对自主权的理解做出了最大的贡献。康德指出，我们可以从两个观点思考自己和我们的世界，这两个观点之间存在深刻的差异[21]。我们采取理论观点是为了了解现实的本质，并在此基础上预测哪些效果将从哪些原因产生。然而，当我们想要做出决策时，我们采取实践观点。从这个观点出发，我们也会审视与我们决策相关的事实。但由于这些事实，无论是单独还是综合起来，都不是本质上指导行动的，它们不能使我们摆脱自己得出关于我们有理由做什么的结论的任务。（科斯加德，博克）
+然而，其他人对此持不同看法。他们认为不相容主义者的结论反映了对理性行为的本质的误解。在提出他们的观点时，他们以一个哲学家为榜样，这个哲学家对我们对自主权的理解做出了最大的贡献。康德指出，我们可以从两个观点思考自己和我们的世界，这两个观点之间存在深刻的差异 [21]。我们采取理论观点是为了了解现实的本质，并在此基础上预测哪些效果将从哪些原因产生。然而，当我们想要做出决策时，我们采取实践观点。从这个观点出发，我们也会审视与我们决策相关的事实。但由于这些事实，无论是单独还是综合起来，都不是本质上指导行动的，它们不能使我们摆脱自己得出关于我们有理由做什么的结论的任务。（科斯加德，博克）
 
 这是真实的，新康德主义者指出，即使我们的决定是我们无法控制的因果力量的结果。由于没有任何我们可能意识到的事实能够迫使我们赋予它们任何特定的意义，而且由于为了决定做什么，我们必须赋予我们意识到的事实一些意义（即使这意味着将它们视为毫无意义），我们的决定是“由我们决定的”。根据那些坚持这一论点的人，即使我们对自己行为的掌控方式是由我们无法控制的事件或状态决定的，我们对自己行为的掌控权也不会是虚幻的。即使在这些情况下，没有任何事件或状态能够决定我们有理由做什么。因此，即使在这些情况下，我们也必须就这一点得出自己的结论并相应地行动。（请注意，由于这个论证依赖于确定我们有理由做什么和确定我们将做什么之间的联系，因此也可以得到那些认为出于理由行动涉及对理论理由做出回应的人的认可。实际上，从某种宽松的意义上说，只要她的预测的真实性取决于她的预测，一个行为体的观点就是“实践的”。）
 
@@ -212,7 +212,7 @@
 * –––, 2012, “Responsibility and Autonomy: The Problem of Mission Creep,” *Philosophical Issues*, 22(1): 165–84.
 * –––, 2015, “Responsibility and the Actual Sequence,” *Oxford Studies in Agency and Moral Responsibility*, 3(1): 120–135.
 * –––, 2017, “Responsibility, Autonomy, and the Zygote Argument,” *Journal of Ethics*, 21: 223–237.
-* Fischer, J. and Ravizza,M., 1993, *Perspectives on Moral Responsibility*, Ithaca: Cornell University Press.
+* Fischer, J. and Ravizza, M., 1993, *Perspectives on Moral Responsibility*, Ithaca: Cornell University Press.
 * –––, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
 * Fischer, J., Kane, R., Pereboom, D., and Vargas, M., 2007, *Four Views on Free Will*, Malden, MA: Blackwell Publishers.
 * Foot, Philippa, 1957, “Free Will as Involving Determinism,” *The Philosophical Review*, 66: 439–50, reprinted in Berofsky 1966, 95–108.
@@ -238,7 +238,7 @@
 * Friedman, M., 1986, “Autonomy and the Split-Level Self,” *Southern Journal of Philosophy*, 24: 19–35.
 * –––, 1989, “Autonomy in Social Context,” in C. Peden and J. Sterva (eds.), *Freedom, Equality, and Social Change*, Lewiston, NY: Edwin Mellen, 158–69.
 * –––, 2003, *Autonomy, Gender, and Politics*, New York: Oxford University Press.
-* Gert, B. and Duggan,T., 1979, “Free Will as the Ability to Will,” *Noûs*, 13: 197–217, reprinted in Fischer 1986, 205–24.
+* Gert, B. and Duggan, T., 1979, “Free Will as the Ability to Will,” *Noûs*, 13: 197–217, reprinted in Fischer 1986, 205–24.
 * Ginet, C., 1996, “Might We Have No Choice?” in Lehrer 1966, 87–104.
 * –––, 1962, “Can the Will be Caused?,” *The Philosophical Review*, 71: 49–55.
 * –––, 1990, *On Action*, Cambridge: Cambridge University Press.
@@ -291,7 +291,7 @@
 * –––, 1973, “Causation,” *Journal of Philosophy*, 70: 556–67.
 * –––, 1979, “Counterfactual Dependence and Time’s Arrow,” *Noûs*, 13: 455–76.
 * Libet, B., Gleason, C. A., Wright, E. W., and Pearl, D. K., 1983, “Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential): The unconscious initiation of a freely voluntary act,” *Brain*, 106: 623–642.
-* Libet, B.,Wright, E., Gleason, C., 1983, “Readiness potentials preceding unrestricted spontaneous pre-planned voluntary acts,” *Electroencephalographic and Clinical Neurophysiology*, 54: 322–325.
+* Libet, B., Wright, E., Gleason, C., 1983, “Readiness potentials preceding unrestricted spontaneous pre-planned voluntary acts,” *Electroencephalographic and Clinical Neurophysiology*, 54: 322–325.
 * Libet, B., 1985, “Unconscious cerebral initiative and the role of conscious will in voluntary action,” *Behavioral and Brain Sciences*, 8: 529–566.
 * Lippert-Rasmussen, K , 2003, “Identification and Responsibility,” *Ethical Theory and Moral Practice* 6(4): 349–76.
 * Locke, D., 1975, “Three Concepts of Free Action: I,” *Proceedings of the Aristotelian Society*, suppl. vol. 49: 95–112.
@@ -341,7 +341,7 @@
 * –––, 2014, *Free Will, Agency, and Meaning in Life*, New York: Oxford University Press.
 * –––, 2015, “The Phenomenology of Agency and Deterministic Agent Causation,” in *Horizons of Authenticity in Phenomenology, Existentialism, and Moral Psychology: Essays in Honor of Charles Guignon*, Megan Altman and Hans Gruenig (eds.), New York: Springer, 2015, 277–94.
 * Pink, T., 2016, *Self–determination*, Oxford: Oxford University Press.
-* Plato, 1997, *Protagoras*, Lombardo,S. and Bell, K. (trans.), in *Plato: Completed Works*, J. Cooper (ed.) and D. Hutchinson (asst. ed.), Indianapolis: Hacket Publishing Company, 746–790.
+* Plato, 1997, *Protagoras*, Lombardo, S. and Bell, K. (trans.), in *Plato: Completed Works*, J. Cooper (ed.) and D. Hutchinson (asst. ed.), Indianapolis: Hacket Publishing Company, 746–790.
 * Radoilska, L. (ed.), 2012, *Autonomy and Mental Disorder*, Oxford: Oxford University Press.
 * Reath, A., 2006, *Agency and Autonomy in Kant’s Moral Theory: Selected Essays*, Oxford and New York: Oxford University Press.
 * Reid, T., 1788/1969, *Essays on the Active Powers of Man*, Cambridge, Mass.: MIT Press.

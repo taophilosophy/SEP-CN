@@ -1,10 +1,10 @@
 # 国际法哲学 international law, philosophy of (John Tasioulas and Guglielmo Verdirame)
 
-*首次发表于2022年5月12日星期四*
+*首次发表于 2022 年 5 月 12 日星期四*
 
-英文短语“international law”最早由功利主义哲学家杰里米·边沁（Janis 1984）创造。但对国际法主题的哲学探讨可以追溯到古希腊和罗马关于自然法的著作。这一传统中的哲学家，如柏拉图、亚里士多德、西塞罗和斯多葛派，提出了一种超越特定社会法律和习俗的普遍规范秩序的观念，这种秩序可以通过普通人类或“自然”的理性来发现（Nussbaum 2019: 18–96）。在中世纪，基督教信仰构建了规范普遍主义的观念，有时被用来为基督教统治者的错误行为辩护，但在最好的情况下，它为对他们的行为进行道德谴责提供了基础，正如一些西班牙学者对征服者的批评所说明的那样（Pagden 2003; Pagden & Lawrence 1991）。
+英文短语“international law”最早由功利主义哲学家杰里米 · 边沁（Janis 1984）创造。但对国际法主题的哲学探讨可以追溯到古希腊和罗马关于自然法的著作。这一传统中的哲学家，如柏拉图、亚里士多德、西塞罗和斯多葛派，提出了一种超越特定社会法律和习俗的普遍规范秩序的观念，这种秩序可以通过普通人类或“自然”的理性来发现（Nussbaum 2019: 18–96）。在中世纪，基督教信仰构建了规范普遍主义的观念，有时被用来为基督教统治者的错误行为辩护，但在最好的情况下，它为对他们的行为进行道德谴责提供了基础，正如一些西班牙学者对征服者的批评所说明的那样（Pagden 2003; Pagden & Lawrence 1991）。
 
-在现代，荷兰自然法学家雨果·格罗蒂乌斯被认为奠定了国际法作为真正的正式法律体系的基础，而不仅仅是普遍道德或“自然法”原则的来源。通过坚持他的法律体系即使假设上帝不存在也是可证明的，即在他的《战争与和平法》（1625年：第11段）的前言中的“etiamsi daremus”论证，格罗蒂乌斯为更真正的普世国际法概念铺平了道路，独立于基督教信仰，因此更具意识形态包容性（纽斯鲍姆2019年：97-140）。随后，其他重要哲学家也做出了重要贡献，包括普芬多夫、康德、黑格尔、本丹。尽管20世纪的两位主要法律哲学家——汉斯·凯尔森和H.L.A.哈特——都关注国际法，前者在这方面的关注尤为广泛（伯恩斯托夫2010年），但随后的英语国家的法律和政治哲学家们忽视了国际法，国际法学者的重要作品在哲学辩论中具有潜在意义，例如布赖利（1928年）或劳特帕赫特（1933年），很少在国际法领域之外引起共鸣。然而，到上个世纪末，哲学界对国际法的关注出现了激增。这一变化体现在约翰·罗尔斯（1999年）的最后一本著作《人民法》的出版，以及著名国际律师如托马斯·弗兰克（1995年）更具哲学倾向的作品中。
+在现代，荷兰自然法学家雨果 · 格罗蒂乌斯被认为奠定了国际法作为真正的正式法律体系的基础，而不仅仅是普遍道德或“自然法”原则的来源。通过坚持他的法律体系即使假设上帝不存在也是可证明的，即在他的《战争与和平法》（1625 年：第 11 段）的前言中的“etiamsi daremus”论证，格罗蒂乌斯为更真正的普世国际法概念铺平了道路，独立于基督教信仰，因此更具意识形态包容性（纽斯鲍姆 2019 年：97-140）。随后，其他重要哲学家也做出了重要贡献，包括普芬多夫、康德、黑格尔、本丹。尽管 20 世纪的两位主要法律哲学家——汉斯 · 凯尔森和 H.L.A.哈特——都关注国际法，前者在这方面的关注尤为广泛（伯恩斯托夫 2010 年），但随后的英语国家的法律和政治哲学家们忽视了国际法，国际法学者的重要作品在哲学辩论中具有潜在意义，例如布赖利（1928 年）或劳特帕赫特（1933 年），很少在国际法领域之外引起共鸣。然而，到上个世纪末，哲学界对国际法的关注出现了激增。这一变化体现在约翰 · 罗尔斯（1999 年）的最后一本著作《人民法》的出版，以及著名国际律师如托马斯 · 弗兰克（1995 年）更具哲学倾向的作品中。
 
 本条目的重点是自第二次世界大战以来发生的发展。在第二次世界大战结束后，与联合国体系密切相关的前所未有的复杂国际法律规范和机构体系得以建立。随着冷战的结束和全球化的传播，这一体系的雄心壮志达到了新的高度，声称对以前被视为国家专属权力范围的各种政府事务拥有权威。国际法的范围扩大，涵盖了新的主题，如个人与国家的关系、移民或环境。许多人现在认为，“基于国际规则的秩序”受到威权主义大国的崛起和西方世界民粹主义力量的威胁；据说这两者都对国际法持敌对态度，尤其是对人权等某些方面（Alston 2017；Ginsburg 2020；Neuman 2020；Wuerth 2017）。对于其他人来说，国际法的扩张对国内主权的自由基础构成了挑战。本条目不可避免地是有选择性的，重点关注一些一般的概念和规范问题，但国际法的具体领域的讨论可以在斯坦福百科全书的其他地方找到（例如，有关人权的条目）。
 
@@ -22,19 +22,19 @@
 
 ### 2.1 缺乏集中的执法机制
 
-在国内层面上，法律通过行政权力（警察、税务机关、监管机构等）和司法权力来执行。国际法并没有像发达的国内法律体系那样拥有全面的行政和司法执行机制。作为主要国际组织，联合国在集体和平与安全领域发挥着独特的作用；而其最强大的机构——安全理事会，有权根据《联合国宪章》第七章采取对联合国所有会员国具有约束力的决议，并可涉及使用军事力量。安全理事会自冷战结束以来一直在行使其执行权力，尤其是在1990年至1991年的第一次海湾战争中，它授权其成员国使用武力解放科威特，以应对伊拉克的侵略和入侵。但是，安全理事会并未对许多严重违反国际法的行为采取任何执行行动。至于司法执行方面，国际法缺乏一个独立于国家同意的集中化争端解决机制。然而，国际法院的作用以及其他国际法院和仲裁机构的增多——这些机构在人权、贸易、投资、国际犯罪等领域具有管辖权——意味着实际上，国际法在今天比过去任何时候都更多地通过法院和仲裁机构得到执行。
+在国内层面上，法律通过行政权力（警察、税务机关、监管机构等）和司法权力来执行。国际法并没有像发达的国内法律体系那样拥有全面的行政和司法执行机制。作为主要国际组织，联合国在集体和平与安全领域发挥着独特的作用；而其最强大的机构——安全理事会，有权根据《联合国宪章》第七章采取对联合国所有会员国具有约束力的决议，并可涉及使用军事力量。安全理事会自冷战结束以来一直在行使其执行权力，尤其是在 1990 年至 1991 年的第一次海湾战争中，它授权其成员国使用武力解放科威特，以应对伊拉克的侵略和入侵。但是，安全理事会并未对许多严重违反国际法的行为采取任何执行行动。至于司法执行方面，国际法缺乏一个独立于国家同意的集中化争端解决机制。然而，国际法院的作用以及其他国际法院和仲裁机构的增多——这些机构在人权、贸易、投资、国际犯罪等领域具有管辖权——意味着实际上，国际法在今天比过去任何时候都更多地通过法院和仲裁机构得到执行。
 
-一些法律哲学家对有限执行问题做出了回应，他们构建了一种国际法理论，基于一个被承认为“幻想”的假设，即存在一个具有强制管辖权的国际法院，并且存在可靠的国际机构机制来实施其决定（Dworkin 2013；下文 4.4 节）。有些人还对法律与可执行性之间的关系给出了规范性解释，使得原则上而非实际上的可执行性成为合法性的试金石。因此，根据利亚姆·墨菲（Liam Murphy）的观点，当涉及到法律时，我们会认为在规范秩序本身内部提供有效执行是显然合适的。适当规范的第三方执行在原则上总是合适的。（墨菲 2017：221）。
+一些法律哲学家对有限执行问题做出了回应，他们构建了一种国际法理论，基于一个被承认为“幻想”的假设，即存在一个具有强制管辖权的国际法院，并且存在可靠的国际机构机制来实施其决定（Dworkin 2013；下文 4.4 节）。有些人还对法律与可执行性之间的关系给出了规范性解释，使得原则上而非实际上的可执行性成为合法性的试金石。因此，根据利亚姆 · 墨菲（Liam Murphy）的观点，当涉及到法律时，我们会认为在规范秩序本身内部提供有效执行是显然合适的。适当规范的第三方执行在原则上总是合适的。（墨菲 2017：221）。
 
-> 另一种解决方案关注分散的执行方式的存在，例如“排斥”，它不通过集中的机构运作，而是通过剥夺违法者成员资格和合作的好处来实施（Hathaway＆Shapiro 2011；Kelsen 1952 [2012：20-25]；Goodman＆Jinks，2013）。最后，更激进地，一些人否定了执行机制，无论是集中的还是非集中的，对于完全合法地位是必要的。这是当代法律哲学的主流观点，被 H.L.A.哈特（H.L.A. Hart）、约翰·芬尼斯（John Finnis）和约瑟夫·拉兹（Joseph Raz）等各种哲学家所共享，即法律的概念不涉及强制作为必要要素的观念（哈特 1961 [2012：199-200]；芬尼斯 2011；拉兹 1999：159；关于国际法，参见奥康奈尔 2008：62-8。关于不同观点，参见肖尔 2015）。
+> 另一种解决方案关注分散的执行方式的存在，例如“排斥”，它不通过集中的机构运作，而是通过剥夺违法者成员资格和合作的好处来实施（Hathaway＆Shapiro 2011；Kelsen 1952 [2012：20-25]；Goodman＆Jinks，2013）。最后，更激进地，一些人否定了执行机制，无论是集中的还是非集中的，对于完全合法地位是必要的。这是当代法律哲学的主流观点，被 H.L.A.哈特（H.L.A. Hart）、约翰 · 芬尼斯（John Finnis）和约瑟夫 · 拉兹（Joseph Raz）等各种哲学家所共享，即法律的概念不涉及强制作为必要要素的观念（哈特 1961 [2012：199-200]；芬尼斯 2011；拉兹 1999：159；关于国际法，参见奥康奈尔 2008：62-8。关于不同观点，参见肖尔 2015）。
 
 Another solution draws attention to the existence of decentralized modes of enforcement, e.g., “outcasting”, which operate not through centralized institutions, but by denying law-breakers the benefits of membership and cooperation (Hathaway & Shapiro 2011; Kelsen 1952 [2012: 20–25]; Goodman & Jinks, 2013). Finally, and more radically, some reject the thesis that enforcement mechanisms, centralized or not, are necessary for full-fledged legal status. It is a mainstream view in contemporary legal philosophy, shared by philosophers as diverse as H.L.A. Hart, John Finnis, and Joseph Raz, that the concept of law does not involve the idea of coercion as a necessary element (Hart 1961 [2012: 199–200]; Finnis 2011; Raz 1999: 159; and in relation to international law, O’Connell 2008: 62–8. For a different view, see Schauer 2015).
 
-这种主流观点否定了法律命令理论（例如，约翰·奥斯汀），该理论将法律解释为主权支持的命令，并威胁使用制裁；否定了将法律功能视为确定违法行为（被定义为非法的行为）并作为制裁（对违法者采取的强制行为）的条件的观点（例如，凯尔森）；否定了将法律简化为关于制裁应用的预测的法律理论（例如，奥利弗·温德尔·霍姆斯）（哈特 1961 年[2012 年]）。相反，法律的主要功能是提供一个生成规范以指导人类行为的结构，无论是否存在有效的制裁，就像约瑟夫·拉兹的假设性“天使社会”一样（拉兹 1999 年：159）。在这种观点下，执法机制仅作为一种在法律未能履行其主要功能的情况下的备用计划而运作。
+这种主流观点否定了法律命令理论（例如，约翰 · 奥斯汀），该理论将法律解释为主权支持的命令，并威胁使用制裁；否定了将法律功能视为确定违法行为（被定义为非法的行为）并作为制裁（对违法者采取的强制行为）的条件的观点（例如，凯尔森）；否定了将法律简化为关于制裁应用的预测的法律理论（例如，奥利弗 · 温德尔 · 霍姆斯）（哈特 1961 年 [2012 年]）。相反，法律的主要功能是提供一个生成规范以指导人类行为的结构，无论是否存在有效的制裁，就像约瑟夫 · 拉兹的假设性“天使社会”一样（拉兹 1999 年：159）。在这种观点下，执法机制仅作为一种在法律未能履行其主要功能的情况下的备用计划而运作。
 
-事实上，地方法律体系广泛依赖集中执法机制来促进遵守，但这并不构成法律存在的概念限制。值得注意的是哈特观察到，在国际领域，暴力和错误很难被公众发现，因此可能没有太大的实际需要使用制裁来确保遵守（哈特 1961 年[2012 年：218]）。
+事实上，地方法律体系广泛依赖集中执法机制来促进遵守，但这并不构成法律存在的概念限制。值得注意的是哈特观察到，在国际领域，暴力和错误很难被公众发现，因此可能没有太大的实际需要使用制裁来确保遵守（哈特 1961 年 [2012 年：218]）。
 
-在这种观点下，国际法存在的关键是足够的遵守水平，以支持其作为一个实际有效的规范秩序系统的运作。尽管一些人质疑国际法规范是否真正具有自身的遵守力量，而不是基于独立的（例如，自利）原因，支持采用法律规定的行为模式（戈德史密斯和波斯纳 2005 年），但用路易斯·亨金的著名话来说，可以说仍然是这样的情况。
+在这种观点下，国际法存在的关键是足够的遵守水平，以支持其作为一个实际有效的规范秩序系统的运作。尽管一些人质疑国际法规范是否真正具有自身的遵守力量，而不是基于独立的（例如，自利）原因，支持采用法律规定的行为模式（戈德史密斯和波斯纳 2005 年），但用路易斯 · 亨金的著名话来说，可以说仍然是这样的情况。
 
 > 几乎所有国家几乎始终遵守国际法的几乎所有原则和义务。（Henkin 1979: 47）
 
@@ -42,29 +42,29 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 国际法的来源最权威的陈述可以在国际法院法规的第 38 条中找到（ICJ 1945）。在那里确定的国际法的两个主要来源——习惯国际法和条约——在国内法中没有明显的对应物。关于国际法的法律性质的争论在很大程度上取决于我们如何理解这两种法律创造方法的功能。
 
-国际法哲学家们在写作国际法方面经常基于一个前提，即条约和习惯法最终都依赖于国家的同意。例如，罗纳德·德沃金（Ronald Dworkin）认为，一个国家只有在同意受其约束的情况下才受国际法约束，这一观点反映了“国际法从业者和学者普遍接受的观点”（德沃金 2013 年：5）。基于同意的国际法观点在国际律师中也得到了广泛支持。在 1996 年的一个案例中，国际法院将同意与主权并列，称其为“国际法的基础”（ICJ 1996 年：第 21 段）。
+国际法哲学家们在写作国际法方面经常基于一个前提，即条约和习惯法最终都依赖于国家的同意。例如，罗纳德 · 德沃金（Ronald Dworkin）认为，一个国家只有在同意受其约束的情况下才受国际法约束，这一观点反映了“国际法从业者和学者普遍接受的观点”（德沃金 2013 年：5）。基于同意的国际法观点在国际律师中也得到了广泛支持。在 1996 年的一个案例中，国际法院将同意与主权并列，称其为“国际法的基础”（ICJ 1996 年：第 21 段）。
 
-但是，从描述性角度来看，基于同意的观点是否正确？换句话说，它是否准确反映了国际法规则生成的方式？当人们考虑国际法在理论和实践中的“运作”方式时，这种观点开始变得不可靠。这一点在 1961 年 H.L.A.哈特（H.L.A. Hart）的著作中就有所提及，他写道：“所有国际义务都是自我强加的这一普遍理论受到了过多的抽象教条的启发，对事实的尊重却太少。”（哈特 1961 年[2012 年：226]）
+但是，从描述性角度来看，基于同意的观点是否正确？换句话说，它是否准确反映了国际法规则生成的方式？当人们考虑国际法在理论和实践中的“运作”方式时，这种观点开始变得不可靠。这一点在 1961 年 H.L.A.哈特（H.L.A. Hart）的著作中就有所提及，他写道：“所有国际义务都是自我强加的这一普遍理论受到了过多的抽象教条的启发，对事实的尊重却太少。”（哈特 1961 年 [2012 年：226]）
 
 > the suspicion that the general theory that all international obligation is self-imposed has been inspired by too much abstract dogma and too little respect for the facts. (Hart 1961 [2012: 226])
 
-国家同意在条约的形成中显然起着重要作用。未参与条约并未同意受其约束的国家不受条约约束（《维也纳条约法公约》第 34 条[VCLT 1969]）。但在条约中也有重要的例外。例如，单方面退出条约的权利并不适用于所有条约，这将赋予国家完全的同意力量。普遍认为《联合国宪章》不可单方面退出：联合国会员国可以被开除出组织，但他们不能自愿离开。因此，对它的同意是不可撤销的。当国家首次加入联合国时，可以说他们同意了从联合国成员国派生出的所有规则，但《联合国宪章》不是一个静态的法律义务体系；它还管理着国际法规则形成、解释和发展的过程，这些过程将在国家最初同意受宪章约束后继续进行。
+国家同意在条约的形成中显然起着重要作用。未参与条约并未同意受其约束的国家不受条约约束（《维也纳条约法公约》第 34 条 [VCLT 1969]）。但在条约中也有重要的例外。例如，单方面退出条约的权利并不适用于所有条约，这将赋予国家完全的同意力量。普遍认为《联合国宪章》不可单方面退出：联合国会员国可以被开除出组织，但他们不能自愿离开。因此，对它的同意是不可撤销的。当国家首次加入联合国时，可以说他们同意了从联合国成员国派生出的所有规则，但《联合国宪章》不是一个静态的法律义务体系；它还管理着国际法规则形成、解释和发展的过程，这些过程将在国家最初同意受宪章约束后继续进行。
 
 当涉及习惯法时，基于同意的观点面临更大的困难。首先，有习惯国际法的概念，即习惯国际法规则（如禁止酷刑、种族灭绝和种族隔离）已获得绝对地位，任何国家都不得违反。德沃金认为，习惯国际法也在当代国际法学说中“受到同意的保护”（德沃金 2013 年：6），但《维也纳公约》中关于习惯国际法的定义中没有任何暗示。[1]
 
-国际法哲学并不像许多观点所说的那样，是基于同意的习惯国际法或习惯法。习惯法在国际法院章程中被定义为“被接受为法律的普遍实践”（国际法院章程，第38(1)条）。这个定义通常被理解为包括两个要素：客观要素，即国家的实践；和主观要素，即法律意识，对规则的接受。许多关于习惯法的概念错误，对国际法的理论论证产生了不可避免的影响，涉及到其主观维度。有两个常见错误。第一个错误是认为法律意识需要国家对习惯国际法规则的同意。然而，接受和同意是不同的概念。国际法院经常在没有涉及国家同意的具体证据的情况下确认习惯国际法规则的存在（Talmon 2015）。第二个错误是将主观要素描述为必然涉及对特定实践已经是法律的信念。
+国际法哲学并不像许多观点所说的那样，是基于同意的习惯国际法或习惯法。习惯法在国际法院章程中被定义为“被接受为法律的普遍实践”（国际法院章程，第 38(1)条）。这个定义通常被理解为包括两个要素：客观要素，即国家的实践；和主观要素，即法律意识，对规则的接受。许多关于习惯法的概念错误，对国际法的理论论证产生了不可避免的影响，涉及到其主观维度。有两个常见错误。第一个错误是认为法律意识需要国家对习惯国际法规则的同意。然而，接受和同意是不同的概念。国际法院经常在没有涉及国家同意的具体证据的情况下确认习惯国际法规则的存在（Talmon 2015）。第二个错误是将主观要素描述为必然涉及对特定实践已经是法律的信念。
 
 至少有两个好的描述性理由对习惯国际法的信仰和同意理论持怀疑态度。首先，它们无法解释为什么新独立的国家在没有机会同意或形成信念的情况下，仍然受习惯规则的约束（哈特 1961 [2012: 226]）。其次，无论是基于同意还是基于信念的习惯国际法解释都无法充分解释习惯规则的变化。根据基于同意的理论，用相反的规则取代习惯规则可以解释为国家撤回同意并违反先前规则的结果。根据基于信念的方法，习惯的变化可以解释为国家在错误的信念下行动，即错误地认为某个特定规则是习惯国际法的一部分，或者在他们的信念上撒谎。
 
 这些描述性问题对于关于国际法的法律性质的概念性论证具有重要影响。如果规则制定的主要动力仅基于同意，或者依赖于那些规则旨在约束的人的信念和主观心态，国际法的法律性质将会严重减弱，或者最坏的情况下，完全丧失，因为国际法将失去作为法律的合法权威主张，即其规范之所以具有约束力，仅仅是因为其法律性质，而不是自愿或其他主观假设。
 
-这些问题还对国际法的合法性论证产生影响，如约翰·塔西乌拉斯所观察到的那样，这些观点“玷污了习惯国际法的合法性”（塔西乌拉斯 2014: 331；塔西乌拉斯 2016），并削弱了国际法的道德和制度信誉。
+这些问题还对国际法的合法性论证产生影响，如约翰 · 塔西乌拉斯所观察到的那样，这些观点“玷污了习惯国际法的合法性”（塔西乌拉斯 2014: 331；塔西乌拉斯 2016），并削弱了国际法的道德和制度信誉。
 
 ### 2.4 国际法哲学中的“原始法”：H.L.A.哈特的批评
 
-对国际法的法律性质最著名的战后批评是 H.L.A.哈特的《法律概念》第十章。哈特并不是对国际法的法律性质持彻底怀疑态度，他说我们既不应该“对我们可能感到的怀疑置之不理...也不应简单地确认它们”（哈特 1961 年[2012 年：214 页]）。然而，他认为国际法在其类似法律的性质上受到了损害，因为
+对国际法的法律性质最著名的战后批评是 H.L.A.哈特的《法律概念》第十章。哈特并不是对国际法的法律性质持彻底怀疑态度，他说我们既不应该“对我们可能感到的怀疑置之不理...也不应简单地确认它们”（哈特 1961 年 [2012 年：214 页]）。然而，他认为国际法在其类似法律的性质上受到了损害，因为
 
-> 对于国家而言，其规则类似于那种简单的社会结构，仅由原始的义务规则组成，当我们在个体社会中发现这种结构时，我们习惯将其与发达的法律体系进行对比。（哈特 1961 年[2012 年：214 页]）
+> 对于国家而言，其规则类似于那种简单的社会结构，仅由原始的义务规则组成，当我们在个体社会中发现这种结构时，我们习惯将其与发达的法律体系进行对比。（哈特 1961 年 [2012 年：214 页]）
 
 相似之处在于“形式上，但内容完全不同”（哈特 1961 [2012: 232]），这是因为国内法律体系通常强加的义务内容与国际法所强加的义务内容之间存在差异。
 
@@ -76,11 +76,11 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 国际法运作的背景与此完全不同：少于 200 个国家的总数可以符合小社区的概念，但是国家的小社区没有原始法所特有的社会联系。
 
-哈特对国际法的批评，国际法学家们通常的反驳是这只是定义问题。但是这个回答忽略了术语和概念上的分歧。哈特对国际法的概念批评提出了关键问题，涉及到其法律性质。正如哈特自己所理解的那样，如果我们不能对通常所描述的国际法这一社会现象进行概念化，那么这确实会影响到“理论探讨...[和]道德思考”（哈特 1961 [2012: 214]）。如果我们想要在国际法上推进道德和政治论证，我们需要理解我们所讨论的是什么。
+哈特对国际法的批评，国际法学家们通常的反驳是这只是定义问题。但是这个回答忽略了术语和概念上的分歧。哈特对国际法的概念批评提出了关键问题，涉及到其法律性质。正如哈特自己所理解的那样，如果我们不能对通常所描述的国际法这一社会现象进行概念化，那么这确实会影响到“理论探讨...[和] 道德思考”（哈特 1961 [2012: 214]）。如果我们想要在国际法上推进道德和政治论证，我们需要理解我们所讨论的是什么。
 
 更根本地说，哈特得出的国际法缺乏承认规则的结论需要根据自 1961 年《法律概念》首次出版以来的不断变化的现实进行测试。哈特对承认规则的形式并没有特别具体的规定：
 
-> [i]t may, as in the early law of many societies, be no more than that an authoritative list or text of the rules is to be found in a written document or carved on some public monument. (Hart 1961 [2012: 94])
+> [i] t may, as in the early law of many societies, be no more than that an authoritative list or text of the rules is to be found in a written document or carved on some public monument. (Hart 1961 [2012: 94])
 
 但哈特对同意或契约须遵守能够发挥这样的功能持否定态度：说“国际法是国家所同意的”或“国际法义务必须履行”不能构成承认规则。
 
@@ -90,11 +90,11 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 最后，在寻找承认规则的过程中，一些人指出，例如，国家无法自由退出联合国等特征赋予了国际法宪法性质。这不仅是夸大，而且是对国际法的扭曲，是对国际法不当对待的概念上的过度修正。然而，联合国宪章不可撤销等特征确实告诉我们一些关于国际法性质的重要信息：它们可能表明国际法具有独特的构成力量，从而使国际法获得完全的法律性质。
 
-对于哈特对国际法法律地位的矛盾态度的上述回应，已经承认了他的前提，即一个完整的法律体系需要一个承认规则。即使基于这一点，像杰里米·沃尔德伦（Jeremy Waldron）这样的批评家也否定了他对国际法法律性质的有条件怀疑的“非常糟糕”的论证（沃尔德伦 2014：213）。然而，哈特的主要批评者罗纳德·德沃金（Ronald Dworkin）对这个前提本身提出了质疑。根据德沃金的观点，法律的确定不是最终基于一项社会规则——即被官员和其他人广泛接受为确定法律的正确标准的承认规则。相反，法律要求通过一种“建设性解释”的过程来产生，这要求解释者辨别出最适合和证明相关法律材料的基本道德政治原则集合，例如，在国际法的情况下，条约、国家实践、意见习惯、国际宣言等的原始数据（德沃金 1986）。与哈特不同，德沃金对国际法的看法是他建立真正的法律对其主体具有道德约束力的理论抱负的一部分（请参见第 4 节关于合法性）。
+对于哈特对国际法法律地位的矛盾态度的上述回应，已经承认了他的前提，即一个完整的法律体系需要一个承认规则。即使基于这一点，像杰里米 · 沃尔德伦（Jeremy Waldron）这样的批评家也否定了他对国际法法律性质的有条件怀疑的“非常糟糕”的论证（沃尔德伦 2014：213）。然而，哈特的主要批评者罗纳德 · 德沃金（Ronald Dworkin）对这个前提本身提出了质疑。根据德沃金的观点，法律的确定不是最终基于一项社会规则——即被官员和其他人广泛接受为确定法律的正确标准的承认规则。相反，法律要求通过一种“建设性解释”的过程来产生，这要求解释者辨别出最适合和证明相关法律材料的基本道德政治原则集合，例如，在国际法的情况下，条约、国家实践、意见习惯、国际宣言等的原始数据（德沃金 1986）。与哈特不同，德沃金对国际法的看法是他建立真正的法律对其主体具有道德约束力的理论抱负的一部分（请参见第 4 节关于合法性）。
 
 ## 3. 国家和主权
 
-确定国家存在的标准在习惯国际法中已经确立（Crawford 1979 [2006: 38]）。它们包括：明确的领土、永久人口、有效政府、与其他国家建立关系的能力和独立性。这些标准与国际法和国家间关系的同样基本方面——主权有关。主权与国家存在之间的关系在法律哲学和国际法实践中至关重要。尽管有人认为主权与独立是一致的，詹姆斯·克劳福德关于国家存在的开创性工作认为，独立是国家存在的先决条件，而主权“在国家存在的意义上有另一个更令人满意的含义，作为国家存在的一个附带或结果”（Crawford 1979 [2006: 89]）。本节将探讨这个“更令人满意的含义”的各个方面。
+确定国家存在的标准在习惯国际法中已经确立（Crawford 1979 [2006: 38]）。它们包括：明确的领土、永久人口、有效政府、与其他国家建立关系的能力和独立性。这些标准与国际法和国家间关系的同样基本方面——主权有关。主权与国家存在之间的关系在法律哲学和国际法实践中至关重要。尽管有人认为主权与独立是一致的，詹姆斯 · 克劳福德关于国家存在的开创性工作认为，独立是国家存在的先决条件，而主权“在国家存在的意义上有另一个更令人满意的含义，作为国家存在的一个附带或结果”（Crawford 1979 [2006: 89]）。本节将探讨这个“更令人满意的含义”的各个方面。
 
 主权可以被视为源自国家存在并与之相关联的最高权威。在国际层面上，虽然国际组织行使一些通常与国家相关的职能，但传统上只有国家被描述为主权。尽管如此，一些人认为，例如欧洲联盟具有一种主权，其成员国现在以一种不同的、“后期”或超国家的意义上成为主权国家（MacCormick 1993 [2006: 4, 16]；Walker 2003, 9）。在国内层面上，情况更加复杂，因为更多的主体——从君主到议会，从个人到民族——在不同的时刻和不同的方式上被认为是主权者（Verdirame 2016）。
 
@@ -102,7 +102,7 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 确定主权国家具有或应具有终极权威的事项，无论是在解释上还是在规范上，都是一项困难的任务。一个持久的观点是，国家的主权是绝对的；主权国家是所有国内事务的最终仲裁者，只有在国家同意的情况下，才允许对绝对主权的限制。根据这种观点，国家主权的主题涵盖了与国家领土和人民相关的所有法律和政治事务。霍布斯是最常与这种全面概念的主权相关联的现代早期思想家。一些学者对利维坦中关于国际关系的几个简短段落的解释提出了质疑（马尔科姆 2002），但它仍然是国际政治思想中绝对主权理论的基础。
 
-关于绝对主权的理论问题在于，它们只能最多支持一种狭义的基于同意的国际法观念，正如前一节对国际法来源的讨论所显示的那样，这并不反映国际法规则是如何产生、解释和应用的现实情况。一些古典国际法思想家在自然法传统中写作，如阿尔贝里科·真蒂利（瓦格纳 2017），认为可以通过假设只有国际法对国家强加的自愿（即积极）规则，而不是非自愿（即自然法）规则，侵犯了绝对主权的概念，从而将绝对主权与更完整的国际法观念调和起来。换句话说，一个国家可以绝对主权，同时受制于自然法。
+关于绝对主权的理论问题在于，它们只能最多支持一种狭义的基于同意的国际法观念，正如前一节对国际法来源的讨论所显示的那样，这并不反映国际法规则是如何产生、解释和应用的现实情况。一些古典国际法思想家在自然法传统中写作，如阿尔贝里科 · 真蒂利（瓦格纳 2017），认为可以通过假设只有国际法对国家强加的自愿（即积极）规则，而不是非自愿（即自然法）规则，侵犯了绝对主权的概念，从而将绝对主权与更完整的国际法观念调和起来。换句话说，一个国家可以绝对主权，同时受制于自然法。
 
 除了这个特定的自然法传统之外，绝对主权观的支持者通常被视为“国际法否认者”（Hinsley 1986: 184）。批评意见是，除非承认在某些问题上，国家必须无可撤销地受制于自身之外的权威，否则就不可能有国际法；受制于外部权威的可能性必须被视为最基本的国际法要求。
 
@@ -122,7 +122,7 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 自决还为国际法中关于主权的争论增加了一个新的维度，因为不再只有国家提出对最终权威的要求，人民在某种程度上也可以提出这样的要求。这意味着国际法不再免于国家和人民之间的紧张关系，这在许多政治斗争中占据了重要地位。特别是在分离案件中（Crawford 1979; Buchanan 2008），现存国家对最终权威的要求可能会受到人民的挑战，后者现在有能力以国际公认的法律原则为旗帜提出竞争性主张（当然，这些竞争性主张的法律优劣会有所不同）。
 
-如果主权被视为国家和人民都拥有的一种品质，蒂莫西·恩迪科特提出的主权与人类自主权之间的类比更有意义。此外，如果将主权理解为在政治社区内拥有完全权力和为一个良好国家的目的而需要的完全独立，那么主权与国际法的合法权威是相容的，并且减轻了对滥用的担忧（恩迪科特 2010 年）。这种权力和自由必须受到法律的约束，但正如个体自主权一样，错误的是认为这些品质必须作为这种约束的代价而放弃。
+如果主权被视为国家和人民都拥有的一种品质，蒂莫西 · 恩迪科特提出的主权与人类自主权之间的类比更有意义。此外，如果将主权理解为在政治社区内拥有完全权力和为一个良好国家的目的而需要的完全独立，那么主权与国际法的合法权威是相容的，并且减轻了对滥用的担忧（恩迪科特 2010 年）。这种权力和自由必须受到法律的约束，但正如个体自主权一样，错误的是认为这些品质必须作为这种约束的代价而放弃。
 
 ### 3.4 国际组织与主权
 
@@ -132,7 +132,7 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 从单一的卢梭设想的国际联邦到如今通过众多的全球和区域国际组织发展起来的国际法，背景有所不同。
 
-但是，关于国内法和国际法领域之间的界限以及它们各自的机构的问题，如今更加重要，因为国际组织行使的职能曾经是国家的专属领域。这些问题是关于国际法、民粹主义（穆勒 2016；奥尔斯顿 2017）和威权主义国际法崛起的最新辩论的核心。一些人对这些论点所基于的二元论或多元论提出质疑，并倾向于将国内法和国际法视为同一法律秩序的一部分。凯尔森是这些“一元论”观念最著名的支持者（伯恩斯托夫 2010；关于通过不同主权制度和宪法多元主义概念来展示国家主权与国际法权威的兼容性的另一种尝试，请参见让·科恩 2010）。
+但是，关于国内法和国际法领域之间的界限以及它们各自的机构的问题，如今更加重要，因为国际组织行使的职能曾经是国家的专属领域。这些问题是关于国际法、民粹主义（穆勒 2016；奥尔斯顿 2017）和威权主义国际法崛起的最新辩论的核心。一些人对这些论点所基于的二元论或多元论提出质疑，并倾向于将国内法和国际法视为同一法律秩序的一部分。凯尔森是这些“一元论”观念最著名的支持者（伯恩斯托夫 2010；关于通过不同主权制度和宪法多元主义概念来展示国家主权与国际法权威的兼容性的另一种尝试，请参见让 · 科恩 2010）。
 
 一组重要的规范性问题涉及国际组织与政治和个人自由之间的关系。有人认为，虽然将主权职能转移到国际组织可以出于一些道德和政治原因得到合理解释，但不能扩展到危及人权或削弱自治的程度——这些限制是为了保护国际秩序的自由特性（Verdirame 2013）。
 
@@ -142,9 +142,9 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 > 国际法哲学的理念预设了许多彼此独立的邻国的分离；虽然这种状态本身就是战争的状态（除非它们之间的联邦联盟阻止了敌对行动的爆发），但从理性的观点来看，这仍然比一个超越其他国家并进入普遍君主制的强大力量将它们融合在一起更好，因为随着政府的范围扩大，法律逐渐失去了活力，一个无灵魂的专制政权在摧毁了善的种子之后最终恶化为无政府状态。（康德 1795 [1996: 336]）
 
-约瑟夫·拉兹是当代领先的政治和法律哲学家之一，他与康德一样对世界政府持怀疑态度，但他认为世界政府可能有比主权国家世界更好的替代方案。这种替代方案是相对主权国家，然而它们受到国际组织颁布的约束性规定的约束（拉兹 2019）。
+约瑟夫 · 拉兹是当代领先的政治和法律哲学家之一，他与康德一样对世界政府持怀疑态度，但他认为世界政府可能有比主权国家世界更好的替代方案。这种替代方案是相对主权国家，然而它们受到国际组织颁布的约束性规定的约束（拉兹 2019）。
 
-在约翰·罗尔斯的《人民法》中，宇宙主义国际法（即约束所有国家的法律）与国内主权之间的平衡被广为探讨（罗尔斯 1999；参见温纳尔 2008 [2021]）。罗尔斯本人在与他的“人民社会”成员社会相关的情况下并不使用“主权”或“国家”这个概念，但这是因为他将“主权”与绝对主义观念联系在一起，并认为“国家”声称拥有这种主权。相反，他的理论为“良序人民”维护了一个更为有限的主权概念。这些人民在自己的公民中享有合法性，并在人民社会中享有完全的国际地位，其中包括免受干涉。
+在约翰 · 罗尔斯的《人民法》中，宇宙主义国际法（即约束所有国家的法律）与国内主权之间的平衡被广为探讨（罗尔斯 1999；参见温纳尔 2008 [2021]）。罗尔斯本人在与他的“人民社会”成员社会相关的情况下并不使用“主权”或“国家”这个概念，但这是因为他将“主权”与绝对主义观念联系在一起，并认为“国家”声称拥有这种主权。相反，他的理论为“良序人民”维护了一个更为有限的主权概念。这些人民在自己的公民中享有合法性，并在人民社会中享有完全的国际地位，其中包括免受干涉。
 
 ## 4. 合法性
 
@@ -174,17 +174,17 @@ Another solution draws attention to the existence of decentralized modes of enfo
 
 > 如果 B 遵循 A 的指令比不遵循 A 的指令更符合适用于他的理由，那么 A 对 B 具有合法权威。（Raz 2006: 1014; Tasioulas 2010, 2013）
 
-NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点是，它并不以全有或全无的方式呈现国际法的合法性，这体现在两个方面（Tasioulas 2010）。首先，可能有些国际法领域（例如武力使用法）享有合法性，而其他领域（例如国际贸易法）则没有。其次，可能有些国家受制于某一国际法领域，比如人权法，而其他国家则没有。这是因为前者而不是后者更能通过受制于该国际法体系来遵守适用于它们的理由，而其他国家则不然。这第二种可能性使得Razian理论能够适应国际法合法权威的合理例外性的可能性。这是为了捍卫熟悉的主张而提供的一个潜在模板，例如，美国不受约束于关于武力使用的规范，而这些规范适用于其他国家，因为美国应该有权利利用其巨大的能力在全球范围内推动正义事业，而其他国家则不能。但是，在弱小或贫穷国家的情况下，也可以提出类似的例外主义论证，例如，对于对它们来说过于沉重的自由贸易或环境保护的国际义务。
+NJC 旨在规定合法权威的普遍适用充分条件。其一个重要特点是，它并不以全有或全无的方式呈现国际法的合法性，这体现在两个方面（Tasioulas 2010）。首先，可能有些国际法领域（例如武力使用法）享有合法性，而其他领域（例如国际贸易法）则没有。其次，可能有些国家受制于某一国际法领域，比如人权法，而其他国家则没有。这是因为前者而不是后者更能通过受制于该国际法体系来遵守适用于它们的理由，而其他国家则不然。这第二种可能性使得 Razian 理论能够适应国际法合法权威的合理例外性的可能性。这是为了捍卫熟悉的主张而提供的一个潜在模板，例如，美国不受约束于关于武力使用的规范，而这些规范适用于其他国家，因为美国应该有权利利用其巨大的能力在全球范围内推动正义事业，而其他国家则不能。但是，在弱小或贫穷国家的情况下，也可以提出类似的例外主义论证，例如，对于对它们来说过于沉重的自由贸易或环境保护的国际义务。
 
-撇开例外主义的可能性不谈，Raz理论面临如何整合对国家主权的适当尊重的挑战。例如，对主权的适当尊重在多大程度上意味着有些事项属于国家的管辖范围，国际法不能使其决策无效或覆盖？这个问题在本国背景下有类似之处：国家的权威在多大程度上受到对公民自治的适当尊重的限制，以至于国家不应该试图对某些事项（例如职业选择或配偶选择）强加义务，即使其指令会导致公民更加遵守适用于他们的理由？当然，国家是一个机构，缺乏个体人类的基本道德地位，但这个问题的出现是因为主权所保护的集体身份和自决的价值。在这方面，Raz有争议地提出了国家主权与健全的国际人权法之间的互斥关系（Raz 2010）。除了国家主权作为国际法合法性的限制之外，还有一个更普遍的问题，即这种权威如何受到适当的次级原则的限制，该原则倾向于在可能的最低层次解决政治问题（Føllesdal 1998；Finnis 2016）。最后，关于国际法在没有通过民主手段创立的情况下对合法权威的主张，特别是与自身为民主国家的国家有关的问题，存在着特殊的挑战（见第4.5节）。
+撇开例外主义的可能性不谈，Raz 理论面临如何整合对国家主权的适当尊重的挑战。例如，对主权的适当尊重在多大程度上意味着有些事项属于国家的管辖范围，国际法不能使其决策无效或覆盖？这个问题在本国背景下有类似之处：国家的权威在多大程度上受到对公民自治的适当尊重的限制，以至于国家不应该试图对某些事项（例如职业选择或配偶选择）强加义务，即使其指令会导致公民更加遵守适用于他们的理由？当然，国家是一个机构，缺乏个体人类的基本道德地位，但这个问题的出现是因为主权所保护的集体身份和自决的价值。在这方面，Raz 有争议地提出了国家主权与健全的国际人权法之间的互斥关系（Raz 2010）。除了国家主权作为国际法合法性的限制之外，还有一个更普遍的问题，即这种权威如何受到适当的次级原则的限制，该原则倾向于在可能的最低层次解决政治问题（Føllesdal 1998；Finnis 2016）。最后，关于国际法在没有通过民主手段创立的情况下对合法权威的主张，特别是与自身为民主国家的国家有关的问题，存在着特殊的挑战（见第 4.5 节）。
 
-然而，问题在于国际法的任何领域在这些条件下能够达到多大程度的合法性，尤其是考虑到全球层面缺乏可靠的执行机制。这是因为，在国际法上，合法性可以通过法律机构有效地解决各种社会问题（如环境保护方面的协调问题）并强制执行其所制定的标准的能力来获得。这揭示了法律的实际合法性对法律的法定合法性的熟悉依赖性：法律的主体有可能遵守它，这增强了它的合法性。一些人质疑国际法是否能够在缺乏可靠的执行机制的情况下声称任何合法性（Posner 2009）。这在国际人权法领域尤为严重，因为对另一个国家违反法律的报复似乎在这里不合适。如果Y国威胁不遵守国际人权法，那么对X国来说，这几乎不会成为遵守国际人权法的动力。
+然而，问题在于国际法的任何领域在这些条件下能够达到多大程度的合法性，尤其是考虑到全球层面缺乏可靠的执行机制。这是因为，在国际法上，合法性可以通过法律机构有效地解决各种社会问题（如环境保护方面的协调问题）并强制执行其所制定的标准的能力来获得。这揭示了法律的实际合法性对法律的法定合法性的熟悉依赖性：法律的主体有可能遵守它，这增强了它的合法性。一些人质疑国际法是否能够在缺乏可靠的执行机制的情况下声称任何合法性（Posner 2009）。这在国际人权法领域尤为严重，因为对另一个国家违反法律的报复似乎在这里不合适。如果 Y 国威胁不遵守国际人权法，那么对 X 国来说，这几乎不会成为遵守国际人权法的动力。
 
-但即使在国际人权法的情况下，也提出了各种不同的回应。一种回应方式质疑了国际法“执行”需要具有全球性的特征的必要性。贝丝·西蒙斯（Beth Simmons）关于人权条约有效性的开创性研究表明，就人权合规性的提升而言，实现这一目标的机制主要是国内政治机制，而不是“白衣骑士”外国或国际机构（西蒙斯，2009 年）。更一般地说，正如我们在上面看到的（§2.1），一般情况下，国家倾向于遵守其国际法义务（Henkin，1979 年：47）。另一种回应方式并不依赖于国际法的有效性，而是依赖于其所谓的认识优势，即通过汇集跨文化知识来解决共同问题，例如人权的内容（Buchanan，2008 年）。然而，仅凭对认识优势的裸称并不能证明对实际权威的主张，即对我们有理由做什么的主张，而不是我们有理由相信什么的主张（Tasioulas，2013 年）。
+但即使在国际人权法的情况下，也提出了各种不同的回应。一种回应方式质疑了国际法“执行”需要具有全球性的特征的必要性。贝丝 · 西蒙斯（Beth Simmons）关于人权条约有效性的开创性研究表明，就人权合规性的提升而言，实现这一目标的机制主要是国内政治机制，而不是“白衣骑士”外国或国际机构（西蒙斯，2009 年）。更一般地说，正如我们在上面看到的（§2.1），一般情况下，国家倾向于遵守其国际法义务（Henkin，1979 年：47）。另一种回应方式并不依赖于国际法的有效性，而是依赖于其所谓的认识优势，即通过汇集跨文化知识来解决共同问题，例如人权的内容（Buchanan，2008 年）。然而，仅凭对认识优势的裸称并不能证明对实际权威的主张，即对我们有理由做什么的主张，而不是我们有理由相信什么的主张（Tasioulas，2013 年）。
 
 ### 4.4 显著性原则
 
-鉴于可靠的执行机制的缺失，罗纳德·德沃金（2013 年）提出了一种处理国际法合法性的替代方式。对于德沃金来说，合法性不仅涉及道义上的服从义务，而且是可以通过法院可靠地执行的义务。鉴于没有任何具有强制管辖权和可靠执行机制的国际法院，可以认为在这种对合法性的解释下，国际法的合法性问题根本不存在。正如我们之前提到的（2.1 节），德沃金通过“幻想”这样一个法院存在，案件可以轻松提交给它，并且有有效的制裁来执行其裁决，从而避免了这种怀疑的结论。德沃金声称，我们可以通过以下问题来确定国际法的约束要求：
+鉴于可靠的执行机制的缺失，罗纳德 · 德沃金（2013 年）提出了一种处理国际法合法性的替代方式。对于德沃金来说，合法性不仅涉及道义上的服从义务，而且是可以通过法院可靠地执行的义务。鉴于没有任何具有强制管辖权和可靠执行机制的国际法院，可以认为在这种对合法性的解释下，国际法的合法性问题根本不存在。正如我们之前提到的（2.1 节），德沃金通过“幻想”这样一个法院存在，案件可以轻松提交给它，并且有有效的制裁来执行其裁决，从而避免了这种怀疑的结论。德沃金声称，我们可以通过以下问题来确定国际法的约束要求：
 
 > 如果有一个假设的法院，它应该采用什么测试或论证来确定对于它来说，强制执行国家（以及其他国际行为者和组织）的权利和义务是合适的？（德沃金 2013 年：14）
 
@@ -211,15 +211,15 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 
 关于国际法与民主之间的关系，涉及到一些困难的问题，比如非民主国家是否应该拥有完全主权地位，或者国际法是否应该鼓励民主在全球范围内的传播，也许通过承认和维护民主的人权（Franck 1992 和 1995：第 4 章；Dworkin 2013）。然而，在合法性的范畴下，还有两个特别重要的问题：（1）国际立法过程是否应该是民主的？（2）在民主国家中，没有同意受其约束的情况下，国际法规范是否享有合法性？
 
-关于第一个问题，很明显现有的国际法生成体系（例如习惯法和条约）并不具有实质上的“民主性”。国际法是由各个国家创造的，其中许多国家本身并不民主，而且它们创造法律的过程本身也不能被描述为民主。然而，许多作者主张在国际法制定中引入民主特征。一个例子是罗纳德·德沃金（Ronald Dworkin），他提出通过全球立法大会建立一个世界立法机构的想法。该机构将通过四个多数制度运作。提议的法律需要获得联合国大会成员总人口的多数派投票、大会的多数派投票、安全理事会的多数派投票以及理事会的常任成员的多数派投票（Dworkin 2013: 28）。对于这个提议的一个潜在担忧是，它是通过国家之间的多数派（在一定程度上根据其人口权重）来运作，而不是全球所有个人之间的多数派。如果我们假设参与这个过程的国家必须代表其人口，这种担忧可能会得到一定程度的缓解。
+关于第一个问题，很明显现有的国际法生成体系（例如习惯法和条约）并不具有实质上的“民主性”。国际法是由各个国家创造的，其中许多国家本身并不民主，而且它们创造法律的过程本身也不能被描述为民主。然而，许多作者主张在国际法制定中引入民主特征。一个例子是罗纳德 · 德沃金（Ronald Dworkin），他提出通过全球立法大会建立一个世界立法机构的想法。该机构将通过四个多数制度运作。提议的法律需要获得联合国大会成员总人口的多数派投票、大会的多数派投票、安全理事会的多数派投票以及理事会的常任成员的多数派投票（Dworkin 2013: 28）。对于这个提议的一个潜在担忧是，它是通过国家之间的多数派（在一定程度上根据其人口权重）来运作，而不是全球所有个人之间的多数派。如果我们假设参与这个过程的国家必须代表其人口，这种担忧可能会得到一定程度的缓解。
 
-然而，其他人则辩护更雄心勃勃的计划，涉及对全球人口的直接代表。例如，托马斯·弗兰克提议将联合国大会转变为一个两院制的论坛，其中一院代表各国，另一院则直接选举产生（弗兰克 1995 年：第五部分；关于其他类似的全球民主机构提案，包括全球直接的“虚拟”民主大会，请参见赫尔德 1995 年；福克和斯特劳斯 2000 年）。这种类型的民主改革不仅因为各国不太可能将权力割让给全球民主人民而受到怀疑，而且因为真正的民主需要形式上的权利、讨论和团结（例如，平等的参与权利、强大的公民社会（例如，大众政党在个人和官员之间进行调解、关注共同利益等）在全球层面上无法实现）。在这种怀疑的观点中，托马斯·克里斯蒂亚诺写道，全球民主
+然而，其他人则辩护更雄心勃勃的计划，涉及对全球人口的直接代表。例如，托马斯 · 弗兰克提议将联合国大会转变为一个两院制的论坛，其中一院代表各国，另一院则直接选举产生（弗兰克 1995 年：第五部分；关于其他类似的全球民主机构提案，包括全球直接的“虚拟”民主大会，请参见赫尔德 1995 年；福克和斯特劳斯 2000 年）。这种类型的民主改革不仅因为各国不太可能将权力割让给全球民主人民而受到怀疑，而且因为真正的民主需要形式上的权利、讨论和团结（例如，平等的参与权利、强大的公民社会（例如，大众政党在个人和官员之间进行调解、关注共同利益等）在全球层面上无法实现）。在这种怀疑的观点中，托马斯 · 克里斯蒂亚诺写道，全球民主
 
 > 非常不可能成功，因为全球公民社会的薄弱以及存在永久少数派的高风险（克里斯蒂亚诺 2010 年：137）
 
 相反，他更倾向于一个基于有限同意原则运作的民主国家公平联盟的想法（关于从新共和主义角度讨论国际合法性并融入民主元素，请参见佩蒂特 2010 年）。
 
-上述所述的第二个问题是，特别是民主国家是否有义务遵守他们未经同意或通过民主程序纳入其国内法的国际法规范。最近的国际法，特别是通过广泛的习惯国际法和必须法的概念，已经显著增加了约束国家的规范数量，即使在没有他们的同意的情况下也是如此。这引起了一种反弹，特别是在“新保守主义”评论家中，他们否认任何此类法律可以约束宪政民主国家，至少在没有通过内部民主程序表达同意的情况下（Rabkin 2005; Kyl, Feith, & Fonte 2013）。但这种关注不仅限于新保守主义者对美国例外主义的辩护者；例如，领先的自由主义政治哲学家玛莎·纳斯鲍姆（Martha Nussbaum）认为，国内民主认可是国际法合法性的条件（Nussbaum 2018 [其他互联网资源]）。
+上述所述的第二个问题是，特别是民主国家是否有义务遵守他们未经同意或通过民主程序纳入其国内法的国际法规范。最近的国际法，特别是通过广泛的习惯国际法和必须法的概念，已经显著增加了约束国家的规范数量，即使在没有他们的同意的情况下也是如此。这引起了一种反弹，特别是在“新保守主义”评论家中，他们否认任何此类法律可以约束宪政民主国家，至少在没有通过内部民主程序表达同意的情况下（Rabkin 2005; Kyl, Feith, & Fonte 2013）。但这种关注不仅限于新保守主义者对美国例外主义的辩护者；例如，领先的自由主义政治哲学家玛莎 · 纳斯鲍姆（Martha Nussbaum）认为，国内民主认可是国际法合法性的条件（Nussbaum 2018 [其他互联网资源]）。
 
 鉴于现有的国际立法过程甚至没有弱化的民主性，而且在可预见的未来也没有实现这一点的现实前景，为什么它们应该被视为对民主国家具有约束力，而不需要他们的同意或民主纳入其自己的法律体系？整合国际和民主治理的问题是我们今天面临的最严重的挑战之一，这个问题也在面临类似挑战的地区政府集团中回响，比如欧盟，它们对其成员民主国家主张权威。
 
@@ -237,7 +237,7 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 
 法律哲学家对法治的适当描述存在分歧，他们的观点从“薄”的形式程序到越来越“厚”的实质性观点占据了不同的位置（Waldron 2016；Tasioulas 2020a）。对于法治的“厚”观点将其视为接近所有要求的东西，既包括形式程序要求，也包括实质性要求，好的法律应该满足这些要求；或者满足合法法律的所有要求（Beyleveld＆Brownsword 2007）；或者满足与法律相关的政治正义（权利）的所有要求（Dworkin 2011）；或者满足某种受欢迎的法律相关愿望目录，例如遵守民主和人权（Bingham 2010；Annan 2004）。一个人对法治的观点越厚，对国际法律秩序的标准就越苛刻。这导致一些厚观点的支持者得出结论，法治不适用于国际法，因为它提出了对国际法而非国内法难以实现的要求。
 
-一个支持厚观点的人是詹姆斯·克劳福德（James Crawford），他曾是国际法院的法官。克劳福德确定了法治所要求的五个要素：
+一个支持厚观点的人是詹姆斯 · 克劳福德（James Crawford），他曾是国际法院的法官。克劳福德确定了法治所要求的五个要素：
 
 > 第一，没有人可以置身于法律之外，更不用说凌驾于法律之上；第二，它在某种程度上是民主的，至少在对他人负责的意义上是民主的；第三，其设立的权威机构，尤其是安全理事会，原则上受制于法律约束；第四，存在类似国际社会宪法的东西；第五，社会并非无可救药的不公正。（Crawford 2014: 343）
 
@@ -253,7 +253,7 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 
 尽管薄理论的支持者承认，按照这种理解的法治的遵守与极端不公正是兼容的，但它仍然具有内在价值，是尊重那些受法律约束的人作为理性行为者的重要方式，他们有机会在做出决策之前在实际思考中考虑法律规范（Fuller 1964: 162; Raz 1979: 221; Finnis 2011: 273）。通过这种方式，它作为对某些形式的任意官方权力的重要但不全面的限制。此外，法治的一些要求，如禁止追溯惩罚，似乎捕捉到了基本的正义要求。最后，法治具有各种工具性价值，例如有助于实现社会利益，包括经济效率（通过为经济决策提供可预测的环境）和民主治理（例如，确保民主通过的法律得到有效执行）。
 
-但即使对法治的解释很薄弱，国际法的适用性也存在问题。杰里米·沃尔德龙（Jeremy Waldron）指出了国内法和国际法之间存在的两个重大不相似之处，这些不相似之处涉及到后者的法治理想的适用性（沃尔德龙，2011年）。第一个不相似之处是，与国内法律制度中与官员相对立的普通公民不同，国际法秩序中的国家既是国际法的主体，也是其官员（其创造者，例如通过缔约和习惯国际法的过程，以及其执行者，例如通过对策）。第二个不相似之处是，与个体人类不同，国家没有固有的道德价值；特别是，它们的自由似乎只有在为个体人类的利益服务时才有价值。这两个不相似之处的一个实际结果是，我们不能轻易地假设，就像在国内个人行为的情况下一样，国家行为应该在没有明确限制的情况下免受官方干预。对沃尔德龙第一个不相似之处的一个回应是说这是一个程度问题；即使在国内法律秩序中，遵守法治也取决于普通公民在维护尊重法治的文化方面的态度和习惯。与此同时，对第二个不相似之处的一个回应是认为，尽管国家自治权本身并没有固有的价值，但它作为保护国家内个体和群体自治的手段而获得了派生的价值（Pavel，2021年：346）。
+但即使对法治的解释很薄弱，国际法的适用性也存在问题。杰里米 · 沃尔德龙（Jeremy Waldron）指出了国内法和国际法之间存在的两个重大不相似之处，这些不相似之处涉及到后者的法治理想的适用性（沃尔德龙，2011 年）。第一个不相似之处是，与国内法律制度中与官员相对立的普通公民不同，国际法秩序中的国家既是国际法的主体，也是其官员（其创造者，例如通过缔约和习惯国际法的过程，以及其执行者，例如通过对策）。第二个不相似之处是，与个体人类不同，国家没有固有的道德价值；特别是，它们的自由似乎只有在为个体人类的利益服务时才有价值。这两个不相似之处的一个实际结果是，我们不能轻易地假设，就像在国内个人行为的情况下一样，国家行为应该在没有明确限制的情况下免受官方干预。对沃尔德龙第一个不相似之处的一个回应是说这是一个程度问题；即使在国内法律秩序中，遵守法治也取决于普通公民在维护尊重法治的文化方面的态度和习惯。与此同时，对第二个不相似之处的一个回应是认为，尽管国家自治权本身并没有固有的价值，但它作为保护国家内个体和群体自治的手段而获得了派生的价值（Pavel，2021 年：346）。
 
 最后，有人认为，国家之间的巨大权力差距，加上缺乏集中和有效的执行机制，对法治的实现构成了系统性障碍（Posner 2009）。关于离散的国际法律体系的扩散程度，例如与贸易、人权相关的国际法律体系，以及与之相关的裁决机制，例如世界贸易组织、地区人权法院，如欧洲人权法院或美洲人权法院，开始解决这个问题，这是一个悬而未决的问题。
 
@@ -279,44 +279,44 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 
 ## Bibliography
 
-* Alston, Philip, 2017, “The Populist Challenge to Human Rights”, *Journal of Human Rights Practice*, 9(1): 1–15. doi:10.1093/jhuman/hux007
+* Alston, Philip, 2017, “The Populist Challenge to Human Rights”, *Journal of Human Rights Practice*, 9(1): 1–15. doi: 10.1093/jhuman/hux007
 * Annan, Kofi, 2004, *The Rule of Law and Transitional Justice in Conflict and Post-Conflict Societies: Report of the Secretary-General*, New York: United Nations, UN doc. S/2004/616, 23 August 2004. [[Annan 2004 available online](https://digitallibrary.un.org/record/527647?ln=en)]
-* Arajärvi, Noora, 2021, “The Core Requirements of the International Rule of Law in the Practice of States”, *Hague Journal on the Rule of Law*, 13(1): 173–193. doi:10.1007/s40803-021-00152-8
-* Austin, John, 1832, *The Province of Jurisprudence Determined*, London: John Murray. Reprinted as *Austin: The Province of Jurisprudence Determined*, Wilfrid E. Rumble (ed.), Cambridge: Cambridge University Press, 1995. doi:10.1017/CBO9780511521546
-* Beaulac, Stéphane, 2000, “The Westphalian Legal Orthodoxy—Myth or Reality?”, *Journal of the History of International Law / Revue d’histoire Du Droit International*, 2(2): 148–177. doi:10.1163/15718050020956812
-* Bernstorff, Jochen von, 2010, *The Public International Law Theory of Hans Kelsen: Believing in Universal Law*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511776953
+* Arajärvi, Noora, 2021, “The Core Requirements of the International Rule of Law in the Practice of States”, *Hague Journal on the Rule of Law*, 13(1): 173–193. doi: 10.1007/s40803-021-00152-8
+* Austin, John, 1832, *The Province of Jurisprudence Determined*, London: John Murray. Reprinted as *Austin: The Province of Jurisprudence Determined*, Wilfrid E. Rumble (ed.), Cambridge: Cambridge University Press, 1995. doi: 10.1017/CBO9780511521546
+* Beaulac, Stéphane, 2000, “The Westphalian Legal Orthodoxy—Myth or Reality?”, *Journal of the History of International Law / Revue d’histoire Du Droit International*, 2(2): 148–177. doi: 10.1163/15718050020956812
+* Bernstorff, Jochen von, 2010, *The Public International Law Theory of Hans Kelsen: Believing in Universal Law*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511776953
 * Besson, Samantha and John Tasioulas (eds.), 2010, *The Philosophy of International Law*, Oxford/New York: Oxford University Press.
 * Beyleveld, Deryck and Roger Brownsword, 2007, *Consent in the Law*, Oxford: Hart Publishing.
 * Bingham, Thomas Henry, 2010, *The Rule of Law*, London: Allen Lane.
 * Böckenförde, Ernst-Wolfgang, 1997, *Welchen Weg geht Europa?* München: Carl-Friedrich-von-Siemens-Stiftung. Translated as “Which Path is Europe Taking?” in his *Constitutional and Political Theory*, Mirjam Künkler and Tina Stein (eds), Oxford: Oxford University Press, 2017, 343–366.
-* Bradley, Curtis A. (ed.), 2016, *Custom’s Future: International Law in a Changing World*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316014264
+* Bradley, Curtis A. (ed.), 2016, *Custom’s Future: International Law in a Changing World*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316014264
 * Brierly, James, 1928, “Le fondement du caractère obligatoire du droit international”, Collected Courses of the Hague Academy of International Law, Volume 23. Reprinted in English as *The Basis of Obligation in International Law and Other Papers*, Oxford: Clarendon Press, 1958.
-* Buchanan, Allen, 2008, “Human Rights and the Legitimacy of the International Order”, *Legal Theory*, 14(1): 39–70. doi:10.1017/S1352325208080038
-* –––, 2010, “The Egalitarianism of Human Rights”, *Ethics,* 120(4): 679–710. doi:10.1086/653433
-* –––, 2013, *The Heart of Human Rights*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199325382.001.0001
-* Buchanan, Allen and Russell Powell, 2008, “Survey Article: Constitutional Democracy and the Rule of International Law: Are They Compatible?”, *Journal of Political Philosophy*, 16(3): 326–349. doi:10.1111/j.1467-9760.2008.00322.x
-* Chesterman, Simon, 2008, “An International Rule of Law?”, *American Journal of Comparative Law*, 56(2): 331–362. doi:10.5131/ajcl.2007.0009
+* Buchanan, Allen, 2008, “Human Rights and the Legitimacy of the International Order”, *Legal Theory*, 14(1): 39–70. doi: 10.1017/S1352325208080038
+* –––, 2010, “The Egalitarianism of Human Rights”, *Ethics,* 120(4): 679–710. doi: 10.1086/653433
+* –––, 2013, *The Heart of Human Rights*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199325382.001.0001
+* Buchanan, Allen and Russell Powell, 2008, “Survey Article: Constitutional Democracy and the Rule of International Law: Are They Compatible?”, *Journal of Political Philosophy*, 16(3): 326–349. doi: 10.1111/j.1467-9760.2008.00322.x
+* Chesterman, Simon, 2008, “An International Rule of Law?”, *American Journal of Comparative Law*, 56(2): 331–362. doi: 10.5131/ajcl.2007.0009
 * Christiano, Thomas, 2010, “Democratic Legitimacy and International Institutions”, in Besson and Tasioulas 2010: ch. 5.
 * Cohen, Jean, 2010, “Sovereignty in the Context of Globalization: A Constitutional Pluralist Perspective”, in *The Philosophy of International Law,* Samantha Besson & John Tasioulas (eds.), Oxford: Oxford University Press, ch. 12.
 * Crawford, James, 1979 [2006], *The Creation of States in International Law*, Oxford: Clarendon Press. Second edition, 2006.
 * –––, 2014, *Chance, Order, Change: The Course of International Law, General Course on Public International Law*, Boston: Martinus Nijhoff.
 * Crawford, James and Susan Marks, 1998, “The Global Democracy Deficit: An Essay in International Law and its Limits”, in *Re-Imagining Political Community*, Daniele Archibugi, David Held, and Martin Köhler (eds.), Cambridge, UK: Polity Press, ch. 4.
-* Doyle, Michael W., 2011, “International Ethics and the Responsibility to Protect”, *International Studies Review*, 13(1): 72–84. doi:10.1111/j.1468-2486.2010.00999.x
+* Doyle, Michael W., 2011, “International Ethics and the Responsibility to Protect”, *International Studies Review*, 13(1): 72–84. doi: 10.1111/j.1468-2486.2010.00999.x
 * Dworkin, Ronald, 1986, *Law’s Empire*, Cambridge MA: Harvard University Press.
 * –––, 2011, *Justice for Hedgehogs*, Cambridge, MA: Harvard University Press.
-* –––, 2013, “A New Philosophy for International Law”, *Philosophy & Public Affairs*, 41(1): 2–30. doi:10.1111/papa.12008
+* –––, 2013, “A New Philosophy for International Law”, *Philosophy & Public Affairs*, 41(1): 2–30. doi: 10.1111/papa.12008
 * Endicott, Timothy A., 2010, “The Logic of Freedom and Power”, in Besson and Tasioulas 2010: 245–259 (ch. 11).
 * Eriksen, Erik O., 2011, “A State-Less Vanguard for a Rightful World Order”, in Neyer and Wiener 2011b: 69–88.
 * Falk, Richard and Andrew Strauss, 2000, “On the Creation of a Global Peoples Assembly: Legitimacy and the Power of Popular Sovereignty”, *Stanford Journal of International Law*, 36(2): 191–220.
 * Finnis, John, 2011, *Natural Law and Natural Rights*, second edition, Oxford: Clarendon Press. First edition 1980.
-* –––, 2016, “Subsidiarity’s Roots and History: Some Observations”, *The American Journal of Jurisprudence*, 61(1): 133–141. doi:10.1093/ajj/auw006
-* Føllesdal, Andreas, 1998, “Survey Article: Subsidiarity”, *Journal of Political Philosophy*, 6(2): 190–218. doi:10.1111/1467-9760.00052
-* Franck, Thomas M., 1992, “The Emerging Right to Democratic Governance”, *American Journal of International Law*, 86(1): 46–91. doi:10.2307/2203138
+* –––, 2016, “Subsidiarity’s Roots and History: Some Observations”, *The American Journal of Jurisprudence*, 61(1): 133–141. doi: 10.1093/ajj/auw006
+* Føllesdal, Andreas, 1998, “Survey Article: Subsidiarity”, *Journal of Political Philosophy*, 6(2): 190–218. doi: 10.1111/1467-9760.00052
+* Franck, Thomas M., 1992, “The Emerging Right to Democratic Governance”, *American Journal of International Law*, 86(1): 46–91. doi: 10.2307/2203138
 * –––, 1995, *Fairness in International Law and Institutions*, Oxford: Clarendon Press.
-* Freeman, Samuel, 2007, *Rawls*, Abingdon: Routledge. doi:10.4324/9780203086605
+* Freeman, Samuel, 2007, *Rawls*, Abingdon: Routledge. doi: 10.4324/9780203086605
 * –––, 2009, *Justice and the Social Contract: Essays on Rawlsian Political Philosophy*, New York: Oxford University Press.
 * Fuller, Lon, 1964, *The Morality of Law*, New Haven, CT: Yale University Press.
-* Ginsburg, Tom, 2020, “Authoritarian International Law?”, *American Journal of International Law*, 114(2): 221–260. doi:10.1017/ajil.2020.3
+* Ginsburg, Tom, 2020, “Authoritarian International Law?”, *American Journal of International Law*, 114(2): 221–260. doi: 10.1017/ajil.2020.3
 * Goldsmith, Jack L. and Eric A. Posner, 2005, *The Limits of International Law*, Oxford: Oxford University Press.
 * Goodman, Ryan and Derek Jinks, 2013, *Socializing States: Promoting Human Rights through International Law*, Oxford: Oxford University Press.
 * Green, Leslie, 2004 [2012], “Legal Obligation and Authority”, *The Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), first version 2004, URL = <[Legal Obligation and Authority (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/legal-obligation/)>.
@@ -330,29 +330,29 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 * ICJ [International Court of Justice], 1945, *Statute of the International Court of Justice*, effective 24 October 1945. [[ICJ 1945 available online](https://www.icj-cij.org/en/statute)]
 * –––, 1971, *Legal Consequences for States of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970): Advisory Opinion of 21 June 1971*, 16–66. [[ICJ 1971 available online](https://www.icj-cij.org/en/case/53)]
 * –––, 1996, *Legality of the Threat or Use of Nuclear Weapons: Advisory Opinion of 8 July 1996*, I.C.J. Reports 226–267. [[ICJ 1996 available online (pdf)](https://www.refworld.org/cases,ICJ,4b2913d62.html)]
-* Janis, Mark W., 1984, “Jeremy Bentham and the Fashioning of ‘International Law’”, *American Journal of International Law*, 78(2): 405–418. doi:10.1017/S0002930000208713
+* Janis, Mark W., 1984, “Jeremy Bentham and the Fashioning of ‘International Law’”, *American Journal of International Law*, 78(2): 405–418. doi: 10.1017/S0002930000208713
 * Kant, Immanuel, 1795 [1996] *Zum ewigen Frieden. Ein philosophischer Entwurf*, Konigsberg. Translated as “Toward Perpetual Peace”, in *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (ed./trans.), Cambridge: Cambridge University Press, 1996, 311–352.
 * Kelsen, Hans, 1947, “Will the Judgment in the Nuremberg Trial Constitute a Precedent in International Law?”, *The International Law Quarterly*, 1(2): 153–171.
 * –––, 1952 [2012], *Principles of International Law*, New York: Rinehart. New edition, Clark, NJ: Lawbook Exchange, 2012.
 * Kyl, Jon, Douglas Feith, and John Fonte, 2013, “The War of Law: How New International Law Undermines Democratic Sovereignty”, *Foreign Affairs*, 92(4 [July/August]): 115–125.
 * Lauterpacht, Hersch, 1933, *The Function of Law in the International Community*, Oxford: Oxford University Press.
 * Lazar, Seth, 2016 [2020], “War”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), first version 2016. URL = <https://plato.stanford.edu/archives/spr2020/entries/war/>.
-* Lefkowitz, David, 2020, *Philosophy and International Law: A Critical Introduction*, Cambridge: Cambridge University Press. doi:10.1017/9781316481653
+* Lefkowitz, David, 2020, *Philosophy and International Law: A Critical Introduction*, Cambridge: Cambridge University Press. doi: 10.1017/9781316481653
 * Luban, David, 2010, “Fairness to Rightness: Jurisdiction, Legality, and the Legitimacy of International Criminal Law”, in Besson and Tasioulas 2010: ch. 28.
-* MacCormick, Neil, 1993 [2006], “Beyond the Sovereign State”, *Modern Law Review*, 56(1): 1–18. Reprinted in Walker 2006: 473–490 (ch. 18). doi:10.1111/j.1468-2230.1993.tb02851.x
+* MacCormick, Neil, 1993 [2006], “Beyond the Sovereign State”, *Modern Law Review*, 56(1): 1–18. Reprinted in Walker 2006: 473–490 (ch. 18). doi: 10.1111/j.1468-2230.1993.tb02851.x
 * Malcolm, Noel, 2002, *Aspects of Hobbes*, Oxford: Oxford University Press.
-* McCorquodale, Robert, 2016, “Defining the International Rule of Law: Defying Gravity?”, *International and Comparative Law Quarterly*, 65(2): 277–304. doi:10.1017/S0020589316000026
+* McCorquodale, Robert, 2016, “Defining the International Rule of Law: Defying Gravity?”, *International and Comparative Law Quarterly*, 65(2): 277–304. doi: 10.1017/S0020589316000026
 * Müller, Jan-Werner, 2016, *What Is Populism?*, Philadelphia, PA: University of Pennsylvania Press.
-* Murphy, Liam, 2017, “Law Beyond the State: Some Philosophical Questions”, *European Journal of International Law*, 28(1): 203–232. doi:10.1093/ejil/chx004
-* Neuman, Gerald L. (ed.), 2020, *Human Rights in a Time of Populism: Challenges and Responses*, Cambridge: Cambridge University Press. doi:10.1017/9781108751551
+* Murphy, Liam, 2017, “Law Beyond the State: Some Philosophical Questions”, *European Journal of International Law*, 28(1): 203–232. doi: 10.1093/ejil/chx004
+* Neuman, Gerald L. (ed.), 2020, *Human Rights in a Time of Populism: Challenges and Responses*, Cambridge: Cambridge University Press. doi: 10.1017/9781108751551
 * Neyer, Jügen and Antje Wiener, 2011a, “Introduction: The State of the Art of a Non-State-Oriented Political Theory”, in Neyer and Wiener 2011b: 1–18.
 * ––– (eds.), 2011b, *Political Theory of the European Union*, Oxford/New York, NY: Oxford University Press.
 * Nickel, James, 2003 [2019], “Human Rights”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N Zalta (ed.), first version 2003, URL = <https://plato.stanford.edu/archives/sum2019/entries/rights-human/>.
 * Nussbaum, Martha, 2019, *The Cosmopolitan Tradition: A Noble But Flawed Ideal*, Cambridge, MA: Harvard University Press.
 * O’Connell, Mary E., 2008, *The Power and Purpose of International Law*, Oxford: Oxford University Press.
 * Pagden, Anthony, 2003, *Peoples and Empires: A Short History of European Migration, Exploration, and Conquest, from Greece to the Present*, New York, NY: The Modern Library.
-* Pagden, Anthony and Jeremy Lawrence, 1991, “Introduction”, in *Vitoria: Political Writings*, by Francisco de Vitoria, Anthony Pagden and Jeremy Lawrance (eds.), Cambridge: Cambridge University Press, xiii–xxviii. doi:10.1017/CBO9780511840944.003
-* Pavel, Carmen E., 2021, *Law Beyond the State: Dynamic Coordination, State Consent, and Binding International Law*, Oxford: Oxford University Press. doi:10.1093/oso/9780197543894.001.0001
+* Pagden, Anthony and Jeremy Lawrence, 1991, “Introduction”, in *Vitoria: Political Writings*, by Francisco de Vitoria, Anthony Pagden and Jeremy Lawrance (eds.), Cambridge: Cambridge University Press, xiii–xxviii. doi: 10.1017/CBO9780511840944.003
+* Pavel, Carmen E., 2021, *Law Beyond the State: Dynamic Coordination, State Consent, and Binding International Law*, Oxford: Oxford University Press. doi: 10.1093/oso/9780197543894.001.0001
 * Pettit, Philip, 2010, “Legitimate International Institutions: A Neo-Republican Perspective”, in Besson and Tasioulas 2010: ch. 6.
 * Posner, Eric A., 2009, *The Perils of Global Legalism*, Chicago: University of Chicago Press.
 * Rabkin, Jeremy, 2005, *Law Without Nations? Why Constitutional Government Requires Sovereign States*, Princeton, NJ: Princeton University Press.
@@ -361,21 +361,21 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 * –––, 1999, *Practical Reason and Norms*, Oxford: Oxford University Press.
 * –––, 2006, “The Problem of Authority: Revisiting the Service Conception”, *Minnesota Law Review*, 90: 1003–1044.
 * –––, 2010, “Human Rights Without Foundations”, in Besson and Tasioulas 2010: ch. 15.
-* –––, 2019, “The Future of State Sovereignty”, in *Legitimacy: The State and Beyond*, Wojciech Sadurski, Michael Sevel, and Kevin Walton (eds.), Oxford: Oxford University Press, 69–81. doi:10.1093/oso/9780198825265.003.0005
-* Roth, Brad R., 2011, *Sovereign Equality and Moral Disagreement: Premises of a Pluralist International Legal Order*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195342666.001.0001
+* –––, 2019, “The Future of State Sovereignty”, in *Legitimacy: The State and Beyond*, Wojciech Sadurski, Michael Sevel, and Kevin Walton (eds.), Oxford: Oxford University Press, 69–81. doi: 10.1093/oso/9780198825265.003.0005
+* Roth, Brad R., 2011, *Sovereign Equality and Moral Disagreement: Premises of a Pluralist International Legal Order*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195342666.001.0001
 * Rousseau, Jean-Jacques, 1762 [1979], *Émile, ou de l’Éducation*, Geneva. Translated as *Emile: Or On Education*, Alan Bloom (trans.), New York: Basic Books.
 * Schauer, Frederick, 2015, *The Force of Law,* Cambridge MA: Harvard University Press.
-* Simmons, Beth A., 2009, *Mobilizing for Human Rights: International Law in Domestic Politics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811340
+* Simmons, Beth A., 2009, *Mobilizing for Human Rights: International Law in Domestic Politics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511811340
 * Simms, Brendan, 2013, *Europe: The Struggle for Supremacy, 1453 to the Present*, New York, NY: Basic Books.
-* Stahn, Carsten, 2007, “Responsibility to Protect: Political Rhetoric or Emerging Legal Norm?”, *American Journal of International Law*, 101(1): 99–120. doi:10.1017/S0002930000029559
-* Talmon, Stefan, 2015, “Determining Customary International Law: The ICJ’s Methodology between Induction, Deduction and Assertion”, *European Journal of International Law*, 26(2): 417–443. doi:10.1093/ejil/chv020
+* Stahn, Carsten, 2007, “Responsibility to Protect: Political Rhetoric or Emerging Legal Norm?”, *American Journal of International Law*, 101(1): 99–120. doi: 10.1017/S0002930000029559
+* Talmon, Stefan, 2015, “Determining Customary International Law: The ICJ’s Methodology between Induction, Deduction and Assertion”, *European Journal of International Law*, 26(2): 417–443. doi: 10.1093/ejil/chv020
 * Tasioulas, John, 2010, “The Legitimacy of International Law”, in *The Philosophy of International Law*, Samantha Besson and John Tasioulas (eds.), Oxford: Oxford University Press, pp.97–116.
-* –––, 2013, “Human Rights, Legitimacy, and International Law”, *The American Journal of Jurisprudence*, 58(1): 1–25. doi:10.1093/ajj/aut001
-* –––, 2014, “Customary International Law: A Moral Judgment-Based Account”, *American Journal of International Law Unbound*, 108: 328–333. doi:10.1017/S2398772300009491
-* –––, 2016, “Custom, Jus Cogens, and Human Rights”, in Bradley 2016: 95–116. doi:10.1017/CBO9781316014264.005
-* –––, 2020a, “Rule of Law” in Tasioulas 2020b: 117–134. doi:10.1017/9781316104439.007
-* ––– (ed.), 2020b, *The Cambridge Companion to the Philosophy of Law*, Cambridge: Cambridge University Press. doi:10.1017/9781316104439
-* –––, 2021, “‘Fantasy Upon Fantasy’: Some Reflections on Dworkin’s Philosophy of International Law”, *Jus Cogens*, 3(1): 33–50. doi:10.1007/s42439-021-00036-3
+* –––, 2013, “Human Rights, Legitimacy, and International Law”, *The American Journal of Jurisprudence*, 58(1): 1–25. doi: 10.1093/ajj/aut001
+* –––, 2014, “Customary International Law: A Moral Judgment-Based Account”, *American Journal of International Law Unbound*, 108: 328–333. doi: 10.1017/S2398772300009491
+* –––, 2016, “Custom, Jus Cogens, and Human Rights”, in Bradley 2016: 95–116. doi: 10.1017/CBO9781316014264.005
+* –––, 2020a, “Rule of Law” in Tasioulas 2020b: 117–134. doi: 10.1017/9781316104439.007
+* ––– (ed.), 2020b, *The Cambridge Companion to the Philosophy of Law*, Cambridge: Cambridge University Press. doi: 10.1017/9781316104439
+* –––, 2021, “‘Fantasy Upon Fantasy’: Some Reflections on Dworkin’s Philosophy of International Law”, *Jus Cogens*, 3(1): 33–50. doi: 10.1007/s42439-021-00036-3
 * UN [United Nations], *Charter of the United Nations*, 1945, 1 UNC XXXIX. [[UN Charter available online](https://www.un.org/en/about-us/un-charter)]
 * –––, [GA], *Resolution adopted by the General Assembly, Declaration of the High-level Meeting of the General Assembly on the Rule of Law at the National and International Levels*, 30 November 2012, A/RES/67/1, available at: [UN Resolution available online](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N12/478/66/PDF/N1247866.pdf)
 * –––, *International Covenant on Civil and Political Rights*, 1966. [[IC on Civil and Political Rights available online](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)]
@@ -383,15 +383,15 @@ NJC旨在规定合法权威的普遍适用充分条件。其一个重要特点�
 * van Middelaar, Luuk, 2013, *The Passage to Europe: How a Continent Became a Union*, New Haven, CT: Yale University Press.
 * Verdirame, Guglielmo, 2013, “A Normative Theory of Sovereignty Transfers”, *Stanford Journal of International Law*, 49(2): 371–424.
 * –––, 2016, “Sovereignty”, in *Concepts for International Law: Contributions to Disciplinary Thought*, Jean D’Aspremont and Sahib Singh (eds), Cheltenham, UK: Edward Elgar Publishing, pp. 827–837.
-* –––, 2020, “International Law”, in Tasioulas 2020b: 389–408. doi:10.1017/9781316104439.021
-* –––, 2021, “Are Liberal Internationalists Still Liberal?”, in *Whither the West? International Law in Europe and the United States*, Chiara Giorgetti and Guglielmo Verdirame (eds.), Cambridge: Cambridge University Press, 53–72. doi:10.1017/9781316996836.004
+* –––, 2020, “International Law”, in Tasioulas 2020b: 389–408. doi: 10.1017/9781316104439.021
+* –––, 2021, “Are Liberal Internationalists Still Liberal?”, in *Whither the West? International Law in Europe and the United States*, Chiara Giorgetti and Guglielmo Verdirame (eds.), Cambridge: Cambridge University Press, 53–72. doi: 10.1017/9781316996836.004
 * VCLT, 1969, *Vienna Convention on the Law of Treaties (VCLT)*, Vienna, 23 May 1969, in force 27 January 1980, 1155 UNTS 331; (1969) 8 ILM 679; UKTS (1980) 58. [[Vienna 1969 available online](https://treaties.un.org/doc/Publication/UNTS/Volume%201155/volume-1155-I-18232-English.pdf)]
-* Waldron, Jeremy, 2011, “Are Sovereigns Entitled to the Benefit of the International Rule of Law?”, *European Journal of International Law*, 22(2): 315–343. doi:10.1093/ejil/chr031
+* Waldron, Jeremy, 2011, “Are Sovereigns Entitled to the Benefit of the International Rule of Law?”, *European Journal of International Law*, 22(2): 315–343. doi: 10.1093/ejil/chr031
 * –––, 2014, “International Law: ‘A Relatively Small and Unimportant’ Part of Jurisprudence”, in *Reading HLA Hart’s The Concept of Law*, Luis Duarte D’Almeida, James Edwards, and Andrea Dolcetti (eds.), London: Hart Publishing, 209–226.
 * –––, 2016, “Rule of Law”, *The Stanford Encyclopedia of Philosophy* (June 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2016/entries/rule-of-law/>.
 * Walker, Neil, 2003 [2006], “Late Sovereignty in the European Union”, in *Sovereignty in Transition*, Neil Walker (ed.), Oxford: Hart, 3–32. Reprinted in Walker 2006: 521–550 (ch. 20).
-* ––– (ed.), 2006, *Relocating Sovereignty*, London: Routledge. doi:10.4324/9781351150361
-* Wagner, Andreas, 2017, “Alberico Gentili”, in *System, Order, and International Law: The Early History of International Legal Thought from Machiavelli to Hegel*, Stefan Kadelbach, Thomas Kleinlein, and David Roth-Isigkeit (eds.), Oxford: Oxford University Press, ch. 5. doi:10.1093/acprof:oso/9780198768586.001.0001
+* ––– (ed.), 2006, *Relocating Sovereignty*, London: Routledge. doi: 10.4324/9781351150361
+* Wagner, Andreas, 2017, “Alberico Gentili”, in *System, Order, and International Law: The Early History of International Legal Thought from Machiavelli to Hegel*, Stefan Kadelbach, Thomas Kleinlein, and David Roth-Isigkeit (eds.), Oxford: Oxford University Press, ch. 5. doi: 10.1093/acprof: oso/9780198768586.001.0001
 * Wenar, Leif, 2008 [2021], “John Rawls”, *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), first version 2008, URL = <https://plato.stanford.edu/archives/sum2021/entries/rawls/>.
 * Wuerth, Ingrid, 2017, “International Law in the Post-Human Rights Era”, *Texas Law Review*, 96(2): 279–349.
 

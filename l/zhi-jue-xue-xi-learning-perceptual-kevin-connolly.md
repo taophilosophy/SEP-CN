@@ -1,8 +1,8 @@
 # 知觉学习 learning, perceptual (Kevin Connolly)
 
-*首次发表于2017年4月5日星期三*
+*首次发表于 2017 年 4 月 5 日星期三*
 
-“知觉学习”大致上指的是由于实践或经验而导致的感知中持久的变化（参见 E.J. Gibson 1963）。例如，威廉·詹姆斯写道，一个人可以通过品尝来区分一种特定葡萄酒瓶的上半部分和下半部分（1890: 509）。假设这种人的感知变化持久存在，是真正的感知变化（而不是学习推断），并且基于先前的经验，詹姆斯的案例就是一种知觉学习的案例。
+“知觉学习”大致上指的是由于实践或经验而导致的感知中持久的变化（参见 E.J. Gibson 1963）。例如，威廉 · 詹姆斯写道，一个人可以通过品尝来区分一种特定葡萄酒瓶的上半部分和下半部分（1890: 509）。假设这种人的感知变化持久存在，是真正的感知变化（而不是学习推断），并且基于先前的经验，詹姆斯的案例就是一种知觉学习的案例。
 
 这篇文章分为三个部分。第一部分阐述了知觉学习的定义，即由实践或经验导致的感知中的长期变化，并将知觉学习与几个对比类别进行了区分。第二部分详细说明了不同类型的知觉学习。第三部分详细介绍了哲学文献中的知觉学习案例，并解释了它们在哲学上的重要性。
 
@@ -10,7 +10,7 @@
 
 ## 1. 定义知觉学习
 
-1963 年，心理学家埃莉诺·吉布森（Eleanor Gibson）撰写了一篇关于知觉学习的里程碑调查文章，在其中她试图定义这个术语。根据吉布森的说法，知觉学习是“[对刺激阵列的知觉产生]任何相对持久和一致的变化，这种变化是在与该阵列的实践或经验之后发生的…”（1963 年：29）[1]。吉布森的定义有三个基本部分。首先，知觉学习是持久的。其次，它是知觉的。第三，它是实践或经验的结果。本条目对定义的每个特征进行了扩展。
+1963 年，心理学家埃莉诺 · 吉布森（Eleanor Gibson）撰写了一篇关于知觉学习的里程碑调查文章，在其中她试图定义这个术语。根据吉布森的说法，知觉学习是“[对刺激阵列的知觉产生] 任何相对持久和一致的变化，这种变化是在与该阵列的实践或经验之后发生的…”（1963 年：29）[1]。吉布森的定义有三个基本部分。首先，知觉学习是持久的。其次，它是知觉的。第三，它是实践或经验的结果。本条目对定义的每个特征进行了扩展。
 
 ### 1.1 知觉学习作为长期知觉变化
 
@@ -34,7 +34,7 @@
 
 ### 1.4 定义知觉学习的潜在进一步标准
 
-上述对话大致遵循了埃莉诺·吉布森（Eleanor Gibson）对知觉学习的定义。然而，在心理学文献中还有其他的随附性解释。例如，罗伯特·戈德斯通（Robert Goldstone）对知觉学习的解释在许多方面与吉布森的解释相符，但它还提供了一个关于为什么会发生知觉变化的故事。根据他的解释，
+上述对话大致遵循了埃莉诺 · 吉布森（Eleanor Gibson）对知觉学习的定义。然而，在心理学文献中还有其他的随附性解释。例如，罗伯特 · 戈德斯通（Robert Goldstone）对知觉学习的解释在许多方面与吉布森的解释相符，但它还提供了一个关于为什么会发生知觉变化的故事。根据他的解释，
 
 > 知觉学习涉及到一个有机体知觉系统的相对持久的变化，这些变化改善了它对环境的反应能力，并且是由环境引起的。（1998 年：587，斜体为强调添加）
 
@@ -56,11 +56,11 @@ Goldstone 的解释允许两种不同的解释。在一种解释中，该解释�
 
 有许多方法可以尝试更进一步地区分知觉成熟和知觉学习。其中一些方法可以在先天论和经验论之间的辩论中找到（参见 Samet 2008 和 Markie 2015），具体体现在先天和后天特征之间的差异上（参见 Griffiths 2009 和 Cowie 2016）。这里的一个潜在标准是，知觉成熟的情况涉及到典型于物种的知觉能力，而知觉学习的情况涉及到非典型于物种的知觉能力。这个标准似乎对于一些知觉学习的实例是正确的，比如对于鸟类观察。毕竟，鸟类观察中获得的知觉能力是鸟类观察者独有的，不是整个人类物种的典型能力。然而，这个标准似乎对于其他更普遍的知觉学习实例是错误的。例如，由于人脸在人类中无处不在且非常重要，面孔知觉中涉及的知觉学习实际上是物种的典型能力。
 
-在知觉学习的文献中，相比之下，知觉学习和知觉成熟之间的区别通常是以环境的作用为基础进行划分的。根据戈德斯通对知觉学习的解释，要被视为知觉学习，知觉的变化必须是由环境引起的。了解戈德斯通为什么认为由环境引起是定义的一个关键特征是很重要的。他认为这一标准至关重要，因为它区分了仅仅是成熟结果和学习结果的知觉变化。正如戈德斯通所说：“如果这些变化不是由环境输入引起的，那么涉及的是成熟而不是学习”（1998 年：586）。曼弗雷德·法勒也以类似的方式表达，他说成熟这个术语“将行为变化的主要推动归因于遗传而不是环境”（2002 年：xi）。对于法勒来说，这就是它与知觉学习的区别所在。
+在知觉学习的文献中，相比之下，知觉学习和知觉成熟之间的区别通常是以环境的作用为基础进行划分的。根据戈德斯通对知觉学习的解释，要被视为知觉学习，知觉的变化必须是由环境引起的。了解戈德斯通为什么认为由环境引起是定义的一个关键特征是很重要的。他认为这一标准至关重要，因为它区分了仅仅是成熟结果和学习结果的知觉变化。正如戈德斯通所说：“如果这些变化不是由环境输入引起的，那么涉及的是成熟而不是学习”（1998 年：586）。曼弗雷德 · 法勒也以类似的方式表达，他说成熟这个术语“将行为变化的主要推动归因于遗传而不是环境”（2002 年：xi）。对于法勒来说，这就是它与知觉学习的区别所在。
 
 #### 1.5.2 基于知觉的技能
 
-与知觉学习相对的另一个方面是基于知觉的技能，比如投掷飞镖或赛车驾驶。为了理解知觉学习与基于知觉的技能之间的关系，首先考虑以下案例。Williams和Davids（1998）报告说，当专业足球运动员防守对手时，他们对对手的臀部关注时间更长，而非专业人士则不然。这种调整的注意力是由于实践或经验而导致的感知的长期变化。也就是说，这是知觉学习的一个实例（见下面的第2.3节）。这种变化确实有助于实现基于知觉的技能。例如，关注臀部是足球运动员良好防守的一部分。由于臀部提供了进攻球员下一步动作的线索，当防守者关注到这里时，它有助于他们做各种事情：防止进攻球员从他们身边运球过去；防止进攻球员完成传球；防止他们射门得分。如果没有注意力的调整，专业足球运动员就无法像他们现在这样高于基准水平表现。
+与知觉学习相对的另一个方面是基于知觉的技能，比如投掷飞镖或赛车驾驶。为了理解知觉学习与基于知觉的技能之间的关系，首先考虑以下案例。Williams 和 Davids（1998）报告说，当专业足球运动员防守对手时，他们对对手的臀部关注时间更长，而非专业人士则不然。这种调整的注意力是由于实践或经验而导致的感知的长期变化。也就是说，这是知觉学习的一个实例（见下面的第 2.3 节）。这种变化确实有助于实现基于知觉的技能。例如，关注臀部是足球运动员良好防守的一部分。由于臀部提供了进攻球员下一步动作的线索，当防守者关注到这里时，它有助于他们做各种事情：防止进攻球员从他们身边运球过去；防止进攻球员完成传球；防止他们射门得分。如果没有注意力的调整，专业足球运动员就无法像他们现在这样高于基准水平表现。
 
 知觉学习可以使基于知觉的技能得以发展，然而重要的是要将这些技能与知觉学习区分开来。事实上，可以说，正如 Stanley 和 Krakauer（2013）所主张的，知觉学习本身并不能真正给你一种技能。根据 Stanley 和 Krakauer 的观点，其中一个原因是技能很可能需要指导（至少最初）或者观察他人（2013: 3）。相比之下，知觉学习有时可以是无监督学习（参见 Goldstone 2003: 241 和 Goldstone＆Byrge 2015: 第 3 节）。长期以来，通过对刺激的纯粹暴露，学习引起的知觉变化有时会发生，而无需任何指导。此外，可以说，正如 Stanley 和 Krakauer 所说，“我们的熟练行动始终在我们的理性控制之下…”（2013: 3; 参见 Stanley＆Williamson 即将出版: 6）。然而，有一种重要意义上的情况是，像上面提到的专业足球运动员那样，人们无法控制调整后的注意模式。例如，Goldstone 引用了 Shiffrin 和 Schneider（1977）关于注意调整的研究。在该研究中，字母首先被用作实验中的目标，但后来字母被用作要忽略的干扰物（Goldstone 1998: 589）。由于他们之前对字母的训练，被试者的注意力在场景中的字母上变得自动化，尽管他们试图有意忽略它们。更一般地说，在训练之后，很难对调整后的注意模式进行理性控制，因为注意力对特定属性是自动的。
 
@@ -84,7 +84,7 @@ Goldstone 的解释允许两种不同的解释。在一种解释中，该解释�
 
 ### 2.1 知觉学习的差异化
 
-当大多数人反思知觉学习时，往往会想到差异化的案例。在差异化中，一个人开始感知两个属性之间的差异，而在此之前他们无法感知这种差异。可以参考威廉·詹姆斯（William James）关于一个人学会区分一种特定葡萄酒的上半部分和下半部分的案例。在学习之前，一个人无法感知上半部分和下半部分之间的差异。然而，通过实践，一个人变得能够区分上半部分和下半部分。这是差异化的典型案例。
+当大多数人反思知觉学习时，往往会想到差异化的案例。在差异化中，一个人开始感知两个属性之间的差异，而在此之前他们无法感知这种差异。可以参考威廉 · 詹姆斯（William James）关于一个人学会区分一种特定葡萄酒的上半部分和下半部分的案例。在学习之前，一个人无法感知上半部分和下半部分之间的差异。然而，通过实践，一个人变得能够区分上半部分和下半部分。这是差异化的典型案例。
 
 心理学家在实验室环境中研究了差异化。在一项研究中，实验者选取了六名在美国居住了六个月至三年的日本本土人（Logan, Lively, & Pisoni 1991）。这些被试不是英语母语者。实验者发现他们能够训练这些被试更好地区分音素/r/和/l/。这是一种差异化的改进案例，被试在感知两个属性之间的差异方面变得更加熟练，而在此之前他们更难区分这两个属性。
 
@@ -106,7 +106,7 @@ Goldstone 的解释允许两种不同的解释。在一种解释中，该解释�
 
 ### 2.4 刺激印记
 
-回想一下，在单元化中，之前看起来像两个或更多的对象、属性或事件，后来看起来像一个单一的对象、属性或事件。"刺激印记"的情况就像最终状态的单元化情况一样（你检测到一个整体模式），但是没有必要有先前的状态——没有必要让那个模式之前看起来像两个或更多的对象、属性或事件。这是因为在刺激印记中，知觉系统会为主体反复接触过的整个刺激或刺激的部分建立专门的探测器（Goldstone 1998: 591）。例如，颞叶皮层的细胞可以对特定的熟悉面孔有更强烈的反应（Perrett 等人，1984，引用自 Goldstone 1998: 594）。这些专门的探测器在处理不清楚或快速呈现的刺激时非常有帮助（Goldstone 1998: 592）。刺激印记完全不需要指导或监督（Goldstone 2003: 241）。
+回想一下，在单元化中，之前看起来像两个或更多的对象、属性或事件，后来看起来像一个单一的对象、属性或事件。"刺激印记" 的情况就像最终状态的单元化情况一样（你检测到一个整体模式），但是没有必要有先前的状态——没有必要让那个模式之前看起来像两个或更多的对象、属性或事件。这是因为在刺激印记中，知觉系统会为主体反复接触过的整个刺激或刺激的部分建立专门的探测器（Goldstone 1998: 591）。例如，颞叶皮层的细胞可以对特定的熟悉面孔有更强烈的反应（Perrett 等人，1984，引用自 Goldstone 1998: 594）。这些专门的探测器在处理不清楚或快速呈现的刺激时非常有帮助（Goldstone 1998: 592）。刺激印记完全不需要指导或监督（Goldstone 2003: 241）。
 
 ## 3. 知觉学习的哲学意义
 
@@ -122,11 +122,11 @@ Goldstone 的解释允许两种不同的解释。在一种解释中，该解释�
 
 在哲学文献中，知觉学习的案例经常被用来表明通过学习，我们在知觉中代表了我们在学习之前没有代表的新属性。例如，Siegel（2006 年，2010 年）要求我们假设我们被委托砍伐特定树林中的所有松树。几个月过去后，她说，松树对我们来说可能开始看起来不同。这是一种知觉学习的情况，即在与松树的实践或经验后，我们的知觉发生了长期变化。Siegel 使用这个案例来论证知觉代表了种类属性，比如成为一棵松树的属性。这个想法是解释知觉变化的最佳方式是，在学习发生之后，知觉代表了成为一棵松树的属性，而在学习之前不是如此。这个属性成为知觉内容的一部分：它在知觉经验中被呈现出来（有关知觉内容的更多背景，请参见 Siegel 2016）。
 
-托马斯·里德（Thomas Reid）关于获得性知觉的概念最近被解释为与 Siegel 的松树案例类似的方式。根据里德的说法，我们的一些知觉，即获得性知觉，是先前经验的结果。例如，里德写道，通过经验，我们可能会“感知到这是苹果酒的味道”，或者“这是苹果的气味”，或者“这是马车经过的声音”（[1764] 1997: 171）。Rebecca Copenhaver（2010 年，2016 年）解释说，里德声称通过经验，像成为苹果酒、成为苹果和成为马车这样的属性可以成为我们知觉内容的一部分。
+托马斯 · 里德（Thomas Reid）关于获得性知觉的概念最近被解释为与 Siegel 的松树案例类似的方式。根据里德的说法，我们的一些知觉，即获得性知觉，是先前经验的结果。例如，里德写道，通过经验，我们可能会“感知到这是苹果酒的味道”，或者“这是苹果的气味”，或者“这是马车经过的声音”（[1764] 1997: 171）。Rebecca Copenhaver（2010 年，2016 年）解释说，里德声称通过经验，像成为苹果酒、成为苹果和成为马车这样的属性可以成为我们知觉内容的一部分。
 
-知觉学习的案例也可以用来表明，通过学习，我们在知觉中代表了新的属性，即使这些属性只是像颜色、形状、纹理和纯粹的声音这样的低级属性，而不是像松树或苹果酒这样的高级种类属性。例如，在讨论珠宝商的知觉专业知识时，14 世纪印度哲学家维达恩塔·德希卡写道，
+知觉学习的案例也可以用来表明，通过学习，我们在知觉中代表了新的属性，即使这些属性只是像颜色、形状、纹理和纯粹的声音这样的低级属性，而不是像松树或苹果酒这样的高级种类属性。例如，在讨论珠宝商的知觉专业知识时，14 世纪印度哲学家维达恩塔 · 德希卡写道，
 
-> [T]首先被它们的相似性隐藏的宝石颜色之间的差异，最终被揭示为某种感性的东西……（Freschi [trans.]手稿，其他互联网资源，第 12-13 页）
+> [T] 首先被它们的相似性隐藏的宝石颜色之间的差异，最终被揭示为某种感性的东西……（Freschi [trans.] 手稿，其他互联网资源，第 12-13 页）
 
 在这种情况下，珠宝商开始感知宝石中的新颜色，而其他人无法感知。这是一个通过学习使某人感知新的低级属性的案例。
 
@@ -134,9 +134,9 @@ Goldstone 的解释允许两种不同的解释。在一种解释中，该解释�
 
 关于知觉学习案例的最详细的当代讨论之一可以在 Siewert（1998：第 7.9 节）中找到。Siewert 详细讨论了学习在改变知觉现象学中的作用，尽管他没有说这会影响知觉的高层内容。例如，他写道，仅仅看到“某种形状、位置和颜色的东西”与将其认定为向日葵（或其他类型）之间在知觉现象学上存在差异（1998：255）。Siewert 还写道，一个人在你认识他们很长时间后可能会对你产生不同的印象，而在你第一次见到他们时不同，你居住的社区在你住了很长时间后可能会对你产生不同的印象，而在你第一次搬进去时不同（第 256、258 页）。此外，他还写到，对于一个国际象棋选手来说，中盘的棋盘可能与一个新手看起来不同，对于一个机械师来说，汽车发动机可能与对汽车不熟悉的人看起来不同（1998：258）。这些都是学习如何影响一个人的感官现象学的例子。
 
-在哲学文献中，知觉学习的几个案例涉及语言学习，包括书面语言和口语。以前者为例，克里斯托弗·皮科克写道，对于完全不熟悉西里尔字母的感知者来说，看到用该字母写成的句子与理解该字母书写的语言的感受是不同的。（1992 年：89）
+在哲学文献中，知觉学习的几个案例涉及语言学习，包括书面语言和口语。以前者为例，克里斯托弗 · 皮科克写道，对于完全不熟悉西里尔字母的感知者来说，看到用该字母写成的句子与理解该字母书写的语言的感受是不同的。（1992 年：89）
 
-> 关于口语，正如凯西·奥卡拉汉（2011 年）指出的那样，几位哲学家声称，在一个人学会一门口语后，该语言中的声音对他们来说会听起来不同（奥卡拉汉引用了 Block 1995 年：234；Strawson 2010 年：5-6；Tye 2000 年：61；Siegel 2006 年：490；Prinz 2006 年：452；和 Bayne 2009 年：390）。例如，尼德·布洛克写道：“在学会这门语言之前和之后，听法语的声音是有所不同的”（1995 年：234）。人们很容易认为，这种差异可以用这样一个事实来解释，即在学会一门语言之后，一个人听到了单词的意义，而在学习这门语言之前则没有。根据这种观点，意义将成为听觉知觉的内容的一部分。然而，奥卡拉汉（2011 年）否认了这一观点（另请参阅奥卡拉汉 2015 年和 Reiland 2015 年）。他认为，实际上这种差异是由一种特定的知觉学习引起的。具体而言，通过学习，我们开始听到新语言特定的音韵特征。正如奥卡拉汉所认为的，这些音韵特征而不是意义解释了听新语言的感受。
+> 关于口语，正如凯西 · 奥卡拉汉（2011 年）指出的那样，几位哲学家声称，在一个人学会一门口语后，该语言中的声音对他们来说会听起来不同（奥卡拉汉引用了 Block 1995 年：234；Strawson 2010 年：5-6；Tye 2000 年：61；Siegel 2006 年：490；Prinz 2006 年：452；和 Bayne 2009 年：390）。例如，尼德 · 布洛克写道：“在学会这门语言之前和之后，听法语的声音是有所不同的”（1995 年：234）。人们很容易认为，这种差异可以用这样一个事实来解释，即在学会一门语言之后，一个人听到了单词的意义，而在学习这门语言之前则没有。根据这种观点，意义将成为听觉知觉的内容的一部分。然而，奥卡拉汉（2011 年）否认了这一观点（另请参阅奥卡拉汉 2015 年和 Reiland 2015 年）。他认为，实际上这种差异是由一种特定的知觉学习引起的。具体而言，通过学习，我们开始听到新语言特定的音韵特征。正如奥卡拉汉所认为的，这些音韵特征而不是意义解释了听新语言的感受。
 
 相比之下，Brogaard（即将出版）认为，意义实际上是知觉内容的一部分（参见 Pettit 2010）。在提出反对观点的论证之后，她依靠关于知觉学习的证据来支持她的观点。特别是，她利用关于知觉学习的证据来反驳我们使用背景信息和所听到的内容相结合以获取意义的观点。相反，她认为，语言学习是感知性的。她指出，由于学习的结果，我们在感知话语时更多地以块状而不是以部分形式进行变化。她认为，背景信息直接影响我们所听到的内容，改变了语言在我们听起来的声音。
 
@@ -172,108 +172,108 @@ Siegel 的松树案例和听到一种新语言的案例都基本涉及到感知�
 
 ## Bibliography
 
-* Ahissar, Merav & Shaul Hochstein, 2004, “The Reverse Hierarchy Theory of Visual Perceptual Learning”, *Trends in cognitive sciences*, 8(10): 457–464. doi:10.1016/j.tics.2004.08.011
-* Arstila, Valtteri, 2016, “Perceptual Learning Explains Two Candidates for Cognitive Penetration”, *Erkenntnis*, 81(6): 1151–1172. doi:10.1007/s10670-015-9785-3
-* Bao, Min, Lin Yang, Cristina Rios, Bin He, & Stephen A. Engel, 2010, “Perceptual Learning Increases the Strength of the Earliest Signals in Visual Cortex”, *The Journal of Neuroscience*, 30(45): 15080–15084. doi:10.1523/JNEUROSCI.5703-09.2010
-* Bayne, Tim, 2009, “Perception and the Reach of Phenomenal Content”, *The Philosophical Quarterly*, 59(236): 385–404. doi:10.1111/j.1467-9213.2009.631.x
-* Biederman, Irving & Margaret M. Shiffrar, 1987, “Sexing Day-Old Chicks: a Case Study and Expert Systems Analysis of a Difficult Perceptual-Learning Task”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 13(4): 640–645. doi:10.1037/0278-7393.13.4.640
-* Block, Ned, 1995, “On a Confusion About a Function of Consciousness”, *Behavioral and Brain Sciences*, 18(2): 227–247. doi:10.1017/S0140525X00038188
+* Ahissar, Merav & Shaul Hochstein, 2004, “The Reverse Hierarchy Theory of Visual Perceptual Learning”, *Trends in cognitive sciences*, 8(10): 457–464. doi: 10.1016/j.tics.2004.08.011
+* Arstila, Valtteri, 2016, “Perceptual Learning Explains Two Candidates for Cognitive Penetration”, *Erkenntnis*, 81(6): 1151–1172. doi: 10.1007/s10670-015-9785-3
+* Bao, Min, Lin Yang, Cristina Rios, Bin He, & Stephen A. Engel, 2010, “Perceptual Learning Increases the Strength of the Earliest Signals in Visual Cortex”, *The Journal of Neuroscience*, 30(45): 15080–15084. doi: 10.1523/JNEUROSCI.5703-09.2010
+* Bayne, Tim, 2009, “Perception and the Reach of Phenomenal Content”, *The Philosophical Quarterly*, 59(236): 385–404. doi: 10.1111/j.1467-9213.2009.631.x
+* Biederman, Irving & Margaret M. Shiffrar, 1987, “Sexing Day-Old Chicks: a Case Study and Expert Systems Analysis of a Difficult Perceptual-Learning Task”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 13(4): 640–645. doi: 10.1037/0278-7393.13.4.640
+* Block, Ned, 1995, “On a Confusion About a Function of Consciousness”, *Behavioral and Brain Sciences*, 18(2): 227–247. doi: 10.1017/S0140525X00038188
 * Brogaard, Berit, forthcoming, “In Defense of Hearing Meanings”, *Synthese*.
-* Brogaard, Berit & Dimitria Electra Gatzia, 2015, “Is the Auditory System Cognitively Penetrable?” *Frontiers in Psychology*, 6: 1166. doi:10.3389/fpsyg.2015.01166
-* Bryan, William Lowe & Noble Harter, 1897, “Studies in the Physiology and Psychology of the Telegraphic Language”, *Psychological Review*, 4(1): 27–53. doi:10.1037/h0073806
-* –––, 1899, “Studies on the Telegraphic Language. The Acquisition of a Hierarchy of Habits”, *Psychological Review*, 6(4): 345–375. doi:10.1037/h0073117
-* Bushnell, I.W.R., F. Sai, & J.T. Mullin, 1989, “Neonatal Recognition of the Mother’s Face”, *British Journal of Developmental Psychology*, 7(1): 3–15. doi:10.1111/j.2044-835X.1989.tb00784.x
+* Brogaard, Berit & Dimitria Electra Gatzia, 2015, “Is the Auditory System Cognitively Penetrable?” *Frontiers in Psychology*, 6: 1166. doi: 10.3389/fpsyg.2015.01166
+* Bryan, William Lowe & Noble Harter, 1897, “Studies in the Physiology and Psychology of the Telegraphic Language”, *Psychological Review*, 4(1): 27–53. doi: 10.1037/h0073806
+* –––, 1899, “Studies on the Telegraphic Language. The Acquisition of a Hierarchy of Habits”, *Psychological Review*, 6(4): 345–375. doi: 10.1037/h0073117
+* Bushnell, I.W.R., F. Sai, & J.T. Mullin, 1989, “Neonatal Recognition of the Mother’s Face”, *British Journal of Developmental Psychology*, 7(1): 3–15. doi: 10.1111/j.2044-835X.1989.tb00784.x
 * Carey, Susan, 2009, *The Origin of Concepts*, New York: Oxford University Press.
-* Cecchi, Ariel S., 2014, “Cognitive Penetration, Perceptual Learning and Neural Plasticity”, *dialectica*, 68(1): 63–95. doi:10.1111/1746-8361.12051
+* Cecchi, Ariel S., 2014, “Cognitive Penetration, Perceptual Learning and Neural Plasticity”, *dialectica*, 68(1): 63–95. doi: 10.1111/1746-8361.12051
 * Chudnoff, Elijah, forthcoming, “The Epistemic Significance of Perceptual Learning”, *Inquiry*.
-* Churchland, Paul M., 1988, “Perceptual Plasticity and Theoretical Neutrality: A Reply to Jerry Fodor”, *Philosophy of Science*, 55(2): 167–187. doi:10.1086/289425
-* Connolly, Kevin, 2014a, “Multisensory Perception as an Associative Learning Process”, *Frontiers in Psychology*, 5: 1095, 1095. doi:10.3389/fpsyg.2014.01095
-* –––, 2014b, “Perceptual Learning and the Contents of Perception”, *Erkenntnis*, 79(6): 1407–1418. doi:10.1007/s10670-014-9608-y
+* Churchland, Paul M., 1988, “Perceptual Plasticity and Theoretical Neutrality: A Reply to Jerry Fodor”, *Philosophy of Science*, 55(2): 167–187. doi: 10.1086/289425
+* Connolly, Kevin, 2014a, “Multisensory Perception as an Associative Learning Process”, *Frontiers in Psychology*, 5: 1095, 1095. doi: 10.3389/fpsyg.2014.01095
+* –––, 2014b, “Perceptual Learning and the Contents of Perception”, *Erkenntnis*, 79(6): 1407–1418. doi: 10.1007/s10670-014-9608-y
 * –––, forthcoming, “Sensory Substitution and Perceptual Learning”, in *Sensory Substitution and Augmentation*, Fiona Macpherson (ed.), Oxford: Oxford University Press.
-* Copenhaver, Rebecca, 2010, “Thomas Reid on Acquired Perception”, *Pacific Philosophical Quarterly*, 91(3): 285–312. doi:10.1111/j.1468-0114.2010.01368.x
-* –––, 2016, “Additional Perceptive Powers: Comments on Van Cleve's Problems from Reid”, *Philosophy and Phenomenological Research*, 93(1): 218–224. doi:10.1111/phpr.12317
+* Copenhaver, Rebecca, 2010, “Thomas Reid on Acquired Perception”, *Pacific Philosophical Quarterly*, 91(3): 285–312. doi: 10.1111/j.1468-0114.2010.01368.x
+* –––, 2016, “Additional Perceptive Powers: Comments on Van Cleve's Problems from Reid”, *Philosophy and Phenomenological Research*, 93(1): 218–224. doi: 10.1111/phpr.12317
 * Cowie, Fiona, 2016, “Innateness and Language”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/innateness-language/>.
 * Crawford, Kate, 2016, “Artificial Intelligence’s White Guy Problem”, *The New York Times*, June 25, 2016, p. SR11.
-* Deroy, Ophelia, 2013, “Object-Sensitivity Versus Cognitive Penetrability of Perception”, *Philosophical Studies*, 162(1): 87–107. doi:10.1007/s11098-012-9989-1
-* Dretske, Fred, 2015, “Perception versus Conception: The Goldilocks Test”, in Zeimbekis & Raftopoulos 2015: pp. 163-173. doi:10.1093/acprof:oso/9780198738916.003.0007
+* Deroy, Ophelia, 2013, “Object-Sensitivity Versus Cognitive Penetrability of Perception”, *Philosophical Studies*, 162(1): 87–107. doi: 10.1007/s11098-012-9989-1
+* Dretske, Fred, 2015, “Perception versus Conception: The Goldilocks Test”, in Zeimbekis & Raftopoulos 2015: pp. 163-173. doi: 10.1093/acprof: oso/9780198738916.003.0007
 * Dy, Jennifer G. & Carla E. Brodley, 2004, “Feature Selection for Unsupervised Learning”, *Journal of Machine Learning Research*, 5(Aug): 845–889. [[Dy & Brodley 2004 available online](http://www.jmlr.org/papers/v5/dy04a.html)]
 * Fahle, Manfred, 2002, “Introduction”, in Manfred Fahle & Tomaso A. Poggio (eds.) *Perceptual Learning*, Cambridge, MA: MIT Press, pp. ix–xx.
 * Fodor, Jerry, 1983, *The Modularity of Mind*, Cambridge, MA: MIT Press.
-* Fodor, Jerry, 1984, “Observation Reconsidered”, *Philosophy of Science*, 51(1): 23–43. doi:10.1086/289162
-* Fodor, Jerry, 1988, “A Reply to Churchland's ‘Perceptual Plasticity and Theoretical Neutrality’”, *Philosophy of Science*, 55(2): 188-198. doi:10.1086/289426
-* Garraghty, Preston E. & Jon H. Kaas, 1992, “Dynamic Features of Sensory and Motor Maps”, *Current Opinion in Neurobiology*, 2(4): 522–527. doi:10.1016/0960-9822(92)90655-T
-* Gauthier, Isabel & Michael J. Tarr, 1997, “Becoming a ‘Greeble’ Expert: Exploring Mechanisms for Face Recognition”, *Vision Research*, 37(12): 1673–1682. doi:10.1016/S0042-6989(96)00286-6
-* Gendler, Tamar Szabo & John Hawthorne (eds), 2006, *Perceptual Experience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199289769.001.0001
-* Gibson, Eleanor J., 1963, “Perceptual Learning”, *Annual Review of Psychology*, 14: 29–56. doi:10.1146/annurev.ps.14.020163.000333
+* Fodor, Jerry, 1984, “Observation Reconsidered”, *Philosophy of Science*, 51(1): 23–43. doi: 10.1086/289162
+* Fodor, Jerry, 1988, “A Reply to Churchland's ‘Perceptual Plasticity and Theoretical Neutrality’”, *Philosophy of Science*, 55(2): 188-198. doi: 10.1086/289426
+* Garraghty, Preston E. & Jon H. Kaas, 1992, “Dynamic Features of Sensory and Motor Maps”, *Current Opinion in Neurobiology*, 2(4): 522–527. doi: 10.1016/0960-9822(92)90655-T
+* Gauthier, Isabel & Michael J. Tarr, 1997, “Becoming a ‘Greeble’ Expert: Exploring Mechanisms for Face Recognition”, *Vision Research*, 37(12): 1673–1682. doi: 10.1016/S0042-6989(96)00286-6
+* Gendler, Tamar Szabo & John Hawthorne (eds), 2006, *Perceptual Experience*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199289769.001.0001
+* Gibson, Eleanor J., 1963, “Perceptual Learning”, *Annual Review of Psychology*, 14: 29–56. doi: 10.1146/annurev.ps.14.020163.000333
 * –––, 1969, *Principles of Perceptual Learning and Development*, New York: Appleton-Century-Crofts.
-* Gibson, Eleanor J. & Richard D. Walk, 1956, “The Effect of Prolonged Exposure to Visually Presented Patterns on Learning to Discriminate Them”, *Journal of Comparative and Physiological Psychology*, 49(3): 239–242. doi:10.1037/h0048274
-* Gibson, Eleanor J., Cynthia J. Owsley, Arlene Walker, & Jane Megaw-Nyce, 1979, “Development of the Perception of Invariants: Substance and Shape”, *Perception*, 8(6): 609–19. doi:10.1068/p080609
-* Gibson, James J. & Eleanor J. Gibson, 1955, “Perceptual Learning: Differentiation or Enrichment?” *Psychological Review*, 62: 32–41. doi:10.1037/h0048826
+* Gibson, Eleanor J. & Richard D. Walk, 1956, “The Effect of Prolonged Exposure to Visually Presented Patterns on Learning to Discriminate Them”, *Journal of Comparative and Physiological Psychology*, 49(3): 239–242. doi: 10.1037/h0048274
+* Gibson, Eleanor J., Cynthia J. Owsley, Arlene Walker, & Jane Megaw-Nyce, 1979, “Development of the Perception of Invariants: Substance and Shape”, *Perception*, 8(6): 609–19. doi: 10.1068/p080609
+* Gibson, James J. & Eleanor J. Gibson, 1955, “Perceptual Learning: Differentiation or Enrichment?” *Psychological Review*, 62: 32–41. doi: 10.1037/h0048826
 * Gilbert, Charles D., 1996, “Plasticity in Visual Perception and Physiology”, *Current Opinion in Neurobiology*, 6(2): 269–274.
-* Gilbert, Charles D. & Wu Li, 2012, “Adult Visual Cortical Plasticity”, *Neuron*, 75(2): 250–264. doi:10.1016/j.neuron.2012.06.030
-* Goldstone, Robert L., 1998, “Perceptual Learning”, *Annual Review of Psychology*, 49: 585–612. doi:10.1146/annurev.psych.49.1.585
+* Gilbert, Charles D. & Wu Li, 2012, “Adult Visual Cortical Plasticity”, *Neuron*, 75(2): 250–264. doi: 10.1016/j.neuron.2012.06.030
+* Goldstone, Robert L., 1998, “Perceptual Learning”, *Annual Review of Psychology*, 49: 585–612. doi: 10.1146/annurev.psych.49.1.585
 * –––, 2003, “Learning to Perceive While Perceiving to Learn”, in *Perceptual Organization in Vision: Behavioral and Neural Perspectives*, Ruth Kimchi, Marlene Behrmann, & Carl R. Olson (eds), Mahwah, NJ: Lawrence Erlbaum Associates, pp. 233–278.
-* –––, 2010, “Foreword” to Isabel Gauthier, Michael Tarr, & Daniel Bub, *Perceptual Expertise: Bridging Brain and Behavior*, Oxford/New York: Oxford University Press, p. v–ix. doi:10.1093/acprof:oso/9780195309607.001.0001
-* Goldstone, Robert L., David W. Braithwaite, & Lisa A. Byrge, 2012, “Perceptual Learning”, in Norbert M. Seel (ed.), *Encyclopedia of the Sciences of Learning*, Heidelberg, Germany: Springer Verlag GmbH, pp. 2580–2583. doi:10.1007/978-1-4419-1428-6_147
-* Goldstone, Robert L. & Lisa A. Byrge, 2015, “Perceptual Learning”, in *The Oxford Handbook of the Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press, pp. 812–832. doi:10.1093/oxfordhb/9780199600472.013.029
+* –––, 2010, “Foreword” to Isabel Gauthier, Michael Tarr, & Daniel Bub, *Perceptual Expertise: Bridging Brain and Behavior*, Oxford/New York: Oxford University Press, p. v–ix. doi: 10.1093/acprof: oso/9780195309607.001.0001
+* Goldstone, Robert L., David W. Braithwaite, & Lisa A. Byrge, 2012, “Perceptual Learning”, in Norbert M. Seel (ed.), *Encyclopedia of the Sciences of Learning*, Heidelberg, Germany: Springer Verlag GmbH, pp. 2580–2583. doi: 10.1007/978-1-4419-1428-6_147
+* Goldstone, Robert L. & Lisa A. Byrge, 2015, “Perceptual Learning”, in *The Oxford Handbook of the Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press, pp. 812–832. doi: 10.1093/oxfordhb/9780199600472.013.029
 * Griffiths, Paul, 2009, “The Distinction Between Innate and Acquired Characteristics”, *The Stanford Encyclopedia of Philosophy* (Fall 2009 Edition), Edward N. Zalta (ed.), URL = <[The Distinction Between Innate and Acquired Characteristics (Stanford Encyclopedia of Philosophy/Fall 2009 Edition)](http://plato.stanford.edu/archives/fall2009/entries/innate-acquired/)>.
-* Hagemann, Norbert, Jörg Schorer, Rouwen Cañal-Bruland, Simone Lotz, & Bernd Strauss, 2010, “Visual Perception in Fencing: Do the Eye Movements of Fencers Represent Their Information Pickup?” *Attention, Perception, & Psychophysics*, 72(8): 2204–2214. doi:10.3758/BF03196695
-* Hall, Geoffrey, 1991, *Perceptual and Associative Learning*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198521822.001.0001
+* Hagemann, Norbert, Jörg Schorer, Rouwen Cañal-Bruland, Simone Lotz, & Bernd Strauss, 2010, “Visual Perception in Fencing: Do the Eye Movements of Fencers Represent Their Information Pickup?” *Attention, Perception, & Psychophysics*, 72(8): 2204–2214. doi: 10.3758/BF03196695
+* Hall, Geoffrey, 1991, *Perceptual and Associative Learning*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198521822.001.0001
 * Hatfield, Gary, 2009, “Perception as Unconscious Inference”, in Gary Hatfield, *Perception and Cognition: Essays in the Philosophy of Psychology*, Oxford: Oxford University Press, pp. 124–152.
 * Held, R., 1985, “Binocular Vision: Behavioral and Neuronal Development”, in Jacques A. Mehler, & Robin Fox (eds.), *Neonate Cognition: Beyond the Blooming Buzzing Confusion*, Hillsdale, NJ: Erlbaum, pp. 37–44.
 * James, William, 1890, *The Principles of Psychology*, New York: Henry Holt and Company.
 * Kellman, Philip J., 2002, “Perceptual Learning”, in Hal Pashler & Randy Gallistel (eds.), *Stevens’ Handbook of Experimental Psychology: Learning, Motivation, and Emotion* (Vol. 3, 3rd edition), New York, NY: John Wiley & Sons, pp. 259–299.
-* Kellman, Philip J. & Patrick Garrigan, 2009, “Perceptual Learning and Human Expertise”, *Physics of Life Reviews*, 6(2): 53–84. doi:10.1016/j.plrev.2008.12.001
-* Kellman, Philip J. & Christine M. Massey, 2013, “Perceptual Learning, Cognition, and Expertise”, in B.H. Ross (ed.), *The Psychology of Learning and Motivation*, Vol. 58, Academic Press, Elsevier Inc., pp. 117–165. doi:10.1016/B978-0-12-407237-4.00004-9
-* Kellman, Philip J. & Elizabeth S. Spelke, 1983, “Perception of Partly Occluded Objects in Infancy”, *Cognitive Psychology*, 15(4): 483–524. doi:10.1016/0010-0285(83)90017-8
-* LeCun, Yann, Yoshua Bengio, & Geoffrey Hinton, 2015, “Deep Learning”, *Nature*, 521(7553): 436–444. doi:10.1038/nature14539
+* Kellman, Philip J. & Patrick Garrigan, 2009, “Perceptual Learning and Human Expertise”, *Physics of Life Reviews*, 6(2): 53–84. doi: 10.1016/j.plrev.2008.12.001
+* Kellman, Philip J. & Christine M. Massey, 2013, “Perceptual Learning, Cognition, and Expertise”, in B.H. Ross (ed.), *The Psychology of Learning and Motivation*, Vol. 58, Academic Press, Elsevier Inc., pp. 117–165. doi: 10.1016/B978-0-12-407237-4.00004-9
+* Kellman, Philip J. & Elizabeth S. Spelke, 1983, “Perception of Partly Occluded Objects in Infancy”, *Cognitive Psychology*, 15(4): 483–524. doi: 10.1016/0010-0285(83)90017-8
+* LeCun, Yann, Yoshua Bengio, & Geoffrey Hinton, 2015, “Deep Learning”, *Nature*, 521(7553): 436–444. doi: 10.1038/nature14539
 * Logan, John S., Scott E. Lively, & David B. Pisoni, 1991, “Training Japanese Listeners to Identify English /r/ and /l/: A First Report”, *The Journal of the Acoustical Society of America*, 89(2): 874–886.
 * Lyons, Jack C., 2005, “Perceptual Belief and Nonexperiential Looks”, *Philosophical Perspectives*, 19(1): 237–256.
-* –––, 2009, *Perception and Basic Beliefs: Zombies, Modules, and the Problem of the External World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195373578.001.0001
-* Macpherson, Fiona, 2012, “Cognitive Penetration of Colour Experience: Rethinking the Issue in Light of An Indirect Mechanism”, *Philosophy and Phenomenological Research*, 84(1): 24–62. doi:10.1111/j.1933-1592.2010.00481.x
+* –––, 2009, *Perception and Basic Beliefs: Zombies, Modules, and the Problem of the External World*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195373578.001.0001
+* Macpherson, Fiona, 2012, “Cognitive Penetration of Colour Experience: Rethinking the Issue in Light of An Indirect Mechanism”, *Philosophy and Phenomenological Research*, 84(1): 24–62. doi: 10.1111/j.1933-1592.2010.00481.x
 * Markie, Peter, 2015, “Rationalism vs. Empiricism”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2015/entries/rationalism-empiricism/>.
-* Matthen, Mohan, 2014, “How to Be Sure: Sensory Exploration and Empirical Certainty”, *Philosophy and Phenomenological Research*, 88(1): 38–69. doi:10.1111/j.1933-1592.2011.00548.x
+* Matthen, Mohan, 2014, “How to Be Sure: Sensory Exploration and Empirical Certainty”, *Philosophy and Phenomenological Research*, 88(1): 38–69. doi: 10.1111/j.1933-1592.2011.00548.x
 * –––, forthcoming, “Play, Skill, and the Origins of Perceptual Art”, *British Journal of Aesthetics*.
-* Meltzoff, Andrew N. & M. Keith Moore, 1977, “Imitation of Facial and Manual Gestures by Human Neonates”, *Science*, 198(4312): 75–78. doi:10.1126/science.198.4312.75
-* Nanay, Bence, 2017, “Perceptual Learning, the Mere Exposure Effect and Aesthetic Antirealism”, *Leonardo*, 50(1): 58–63. doi:10.1162/LEON_a_01082
+* Meltzoff, Andrew N. & M. Keith Moore, 1977, “Imitation of Facial and Manual Gestures by Human Neonates”, *Science*, 198(4312): 75–78. doi: 10.1126/science.198.4312.75
+* Nanay, Bence, 2017, “Perceptual Learning, the Mere Exposure Effect and Aesthetic Antirealism”, *Leonardo*, 50(1): 58–63. doi: 10.1162/LEON_a_01082
 * Nevatia, Ramakant, 1982, *Machine Perception*, Englewood Cliffs, NJ: Prentice-Hall.
-* O’Callaghan, Casey, 2011, “Against Hearing Meanings”, *Philosophical Quarterly*, 61(245): 783–807. doi:10.1111/j.1467-9213.2011.704.x
-* –––, 2015, “Speech Perception”, in *The Oxford Handbook of the Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press, pp. 475–494. doi:10.1093/oxfordhb/9780199600472.013.032
-* Orlandi, Nico, 2014, *The Innocent Eye: Why Vision is Not a Cognitive Process*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199375035.001.0001
+* O’Callaghan, Casey, 2011, “Against Hearing Meanings”, *Philosophical Quarterly*, 61(245): 783–807. doi: 10.1111/j.1467-9213.2011.704.x
+* –––, 2015, “Speech Perception”, in *The Oxford Handbook of the Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press, pp. 475–494. doi: 10.1093/oxfordhb/9780199600472.013.032
+* Orlandi, Nico, 2014, *The Innocent Eye: Why Vision is Not a Cognitive Process*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199375035.001.0001
 * Peacocke, Christopher, 1992, *A Study of Concepts*, Cambridge, MA: MIT Press.
 * Perrett, David I., P.A.J. Smith, Douglas David Potter, A.J. Mistlin, A.D. Head, & M.A. Jeeves, 1984, “Neurones Responsive to Faces in the Temporal Cortex: Studies of Functional Organization, Sensitivity to Identity and Relation to Perception”, *Human Neurobiology*, 3(4): 197–208.
-* Pettit, Dean, 2010, “On the Epistemology and Psychology of Speech Comprehension”, *The Baltic International Yearbook of Cognition, Logic and Communication*, 5(Meaning, Understanding and Knowledge): 1–43. doi:10.4148/biyclc.v5i0.286
-* Pourtois, Gilles, Karsten S. Rauss, Patrik Vuilleumier, & Sophie Schwartz, 2008, “Effects of Perceptual Learning on Primary Visual Cortex Activity in Humans”, *Vision Research*, 48(1): 55–62. doi:10.1016/j.visres.2007.10.027
-* Prinz, Jesse, 2006, “Beyond Appearances: the Content of Sensation and Perception”, in Gendler & Hawthorne 2006: 434–459. doi:10.1093/acprof:oso/9780199289769.003.0013
+* Pettit, Dean, 2010, “On the Epistemology and Psychology of Speech Comprehension”, *The Baltic International Yearbook of Cognition, Logic and Communication*, 5(Meaning, Understanding and Knowledge): 1–43. doi: 10.4148/biyclc.v5i0.286
+* Pourtois, Gilles, Karsten S. Rauss, Patrik Vuilleumier, & Sophie Schwartz, 2008, “Effects of Perceptual Learning on Primary Visual Cortex Activity in Humans”, *Vision Research*, 48(1): 55–62. doi: 10.1016/j.visres.2007.10.027
+* Prinz, Jesse, 2006, “Beyond Appearances: the Content of Sensation and Perception”, in Gendler & Hawthorne 2006: 434–459. doi: 10.1093/acprof: oso/9780199289769.003.0013
 * Pylyshyn, Zenon, 1999, “Is Vision Continuous with Cognition? The Case for Cognitive Impenetrability of Visual Perception”, *Behavioral and Brain Sciences*, 22(3): 341–365.
-* Raftopoulos, Athanassios, 2001, “Is Perception Informationally Encapsulated? The Issue of the Theory-Ladenness of Perception”, *Cognitive Science*, 25(3): 423–451. doi:10.1207/s15516709cog2503_4
-* Raftopoulos, Athanassios & John Zeimbekis, 2015, “The Cognitive Penetrability of Perception: An Overview”, in Zeimbekis & Raftopoulos 2015: pp. 1-56. doi:10.1093/acprof:oso/9780198738916.003.0001
-* Reiland, Indrek, 2015, “On Experiencing Meanings”, *The Southern Journal of Philosophy*, 53(4): 481–492. doi:10.1111/sjp.12150
+* Raftopoulos, Athanassios, 2001, “Is Perception Informationally Encapsulated? The Issue of the Theory-Ladenness of Perception”, *Cognitive Science*, 25(3): 423–451. doi: 10.1207/s15516709cog2503_4
+* Raftopoulos, Athanassios & John Zeimbekis, 2015, “The Cognitive Penetrability of Perception: An Overview”, in Zeimbekis & Raftopoulos 2015: pp. 1-56. doi: 10.1093/acprof: oso/9780198738916.003.0001
+* Reiland, Indrek, 2015, “On Experiencing Meanings”, *The Southern Journal of Philosophy*, 53(4): 481–492. doi: 10.1111/sjp.12150
 * Reid, Thomas, [1764] 1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, D.R. Brookes (ed.), Edinburgh: Edinburgh University Press.
 * –––, [1785] 2002, *Essays on the Intellectual Powers of Man*, D.R. Brookes (ed.), Edinburgh: Edinburgh University Press.
 * Robbins, Philip, 2015, “Modularity of Mind”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2015/entries/modularity-mind/>.
-* Sagi, Dov, 2011, “Perceptual Learning in Vision Research”, *Vision Research*, 51(13): 1552–1566. doi:10.1016/j.visres.2010.10.019
+* Sagi, Dov, 2011, “Perceptual Learning in Vision Research”, *Vision Research*, 51(13): 1552–1566. doi: 10.1016/j.visres.2010.10.019
 * Samet, Jerry, 2008, “The Historical Controversies Surrounding Innateness”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[The Historical Controversies Surrounding Innateness (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/innateness-history/)>.
-* Schwartz, Sophie, Pierre Maquet, & Chris Frith, 2002, “Neural Correlates of Perceptual Learning: A Functional MRI Study of Visual Texture Discrimination”, *Proceedings of the National Academy of Sciences*, 99(26): 17137–17142. doi:10.1073/pnas.242414599
-* Siegel, Susanna, 2006, “Which Properties Are Represented in Perception?” in Gendler & Hawthorne 2006: 481–503. doi:10.1093/acprof:oso/9780199289769.003.0015
+* Schwartz, Sophie, Pierre Maquet, & Chris Frith, 2002, “Neural Correlates of Perceptual Learning: A Functional MRI Study of Visual Texture Discrimination”, *Proceedings of the National Academy of Sciences*, 99(26): 17137–17142. doi: 10.1073/pnas.242414599
+* Siegel, Susanna, 2006, “Which Properties Are Represented in Perception?” in Gendler & Hawthorne 2006: 481–503. doi: 10.1093/acprof: oso/9780199289769.003.0015
 * –––, 2010, *The Contents of Visual Experience*, Oxford: Oxford University Press.
-* –––, 2012, “Cognitive Penetrability and Perceptual Justification”, *Noûs*, 46(2): 201–222. doi:10.1111/j.1468-0068.2010.00786.x
+* –––, 2012, “Cognitive Penetrability and Perceptual Justification”, *Noûs*, 46(2): 201–222. doi: 10.1111/j.1468-0068.2010.00786.x
 * –––, 2016, “The Contents of Perception”, *The Stanford Encyclopedia of Philosophy* (Spring 2016 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/spr2016/entries/perception-contents/>.
 * –––, 2017, *The Rationality of Perception*, New York: Oxford University Press.
 * Siewert, Charles P., 1998, *The Significance of Consciousness*, Princeton, NJ: Princeton University Press.
-* Shiffrin, Richard M. & Walter Schneider, 1977, “Controlled and Automatic Human Information Processing: II. Perceptual Learning, Automatic Attending and a General Theory”, *Psychological Review*, 84(2): 127–190. doi:10.1037/0033-295X.84.2.127
+* Shiffrin, Richard M. & Walter Schneider, 1977, “Controlled and Automatic Human Information Processing: II. Perceptual Learning, Automatic Attending and a General Theory”, *Psychological Review*, 84(2): 127–190. doi: 10.1037/0033-295X.84.2.127
 * Slater, Alan, Anne Mattock, & Elizabeth Brown, 1990, “Size Constancy at Birth: Newborn Infants’ Responses to Retinal and Real Size”, *Journal of Experimental Child Psychology*, 49(2): 314–322.
 * Smith Edward E. & Susan E. Haviland, 1972, “Why Words Are Perceived More Accurately Than Nonwords: Inference Versus Unitization”, *Journal of Experimental Psychology*, 92(1): 59–64
-* Stanley, Jason & John W. Krakauer, 2013, “Motor Skill Depends on Knowledge of Facts”, *Frontiers in Human Neuroscience*, 7: 503 doi:10.3389/fnhum.2013.00503
-* Stanley, Jason & Timothy Williamson, forthcoming, “Skill”, *Noûs*, early online 21 May 2016, doi:10.1111/nous.12144
-* Stokes, Dustin, 2015, “Towards a Consequentialist Understanding of Cognitive Penetration”, in Zeimbekis & Raftopoulos 2015: pp. 75-100. doi:10.1093/acprof:oso/9780198738916.003.0003
+* Stanley, Jason & John W. Krakauer, 2013, “Motor Skill Depends on Knowledge of Facts”, *Frontiers in Human Neuroscience*, 7: 503 doi: 10.3389/fnhum.2013.00503
+* Stanley, Jason & Timothy Williamson, forthcoming, “Skill”, *Noûs*, early online 21 May 2016, doi: 10.1111/nous.12144
+* Stokes, Dustin, 2015, “Towards a Consequentialist Understanding of Cognitive Penetration”, in Zeimbekis & Raftopoulos 2015: pp. 75-100. doi: 10.1093/acprof: oso/9780198738916.003.0003
 * Strawson, Galen, [1994] 2010, *Mental Reality*, 2nd edition, Cambridge, MA: MIT Press.
 * Tye, Michael, 2000, *Consciousness, Color, and Content*, Cambridge, MA: MIT Press.
-* Vaassen, Bram M.K., 2016, “Basic Beliefs and the Perceptual Learning Problem: A Substantial Challenge for Moderate Foundationalism”, *Episteme*, 13(1): 133–149. doi:10.1017/epi.2015.58
-* Webster, Michael A., 2012, “Evolving Concepts of Sensory Adaptation”, *F1000 Biology Reports*, 4: 21. doi:10.3410/B4-21 [[Webster 2012 available online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501690/)]
-* Williams, A.M. & K. Davids, 1998, “Visual Search Strategy, Selective Attention, and Expertise in Soccer”, *Research Quarterly for Exercise and Sport*, 69(2): 111–128. doi:10.1080/02701367.1998.10607677
+* Vaassen, Bram M.K., 2016, “Basic Beliefs and the Perceptual Learning Problem: A Substantial Challenge for Moderate Foundationalism”, *Episteme*, 13(1): 133–149. doi: 10.1017/epi.2015.58
+* Webster, Michael A., 2012, “Evolving Concepts of Sensory Adaptation”, *F1000 Biology Reports*, 4: 21. doi: 10.3410/B4-21 [[Webster 2012 available online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3501690/)]
+* Williams, A.M. & K. Davids, 1998, “Visual Search Strategy, Selective Attention, and Expertise in Soccer”, *Research Quarterly for Exercise and Sport*, 69(2): 111–128. doi: 10.1080/02701367.1998.10607677
 * Wu, Wayne, 2014, *Attention*, New York: Routledge.
-* Zeimbekis, John & Athanassios Raftopoulos (eds.), 2015, *The Cognitive Penetrability of Perception New Philosophical Perspectives*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738916.001.0001
+* Zeimbekis, John & Athanassios Raftopoulos (eds.), 2015, *The Cognitive Penetrability of Perception New Philosophical Perspectives*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198738916.001.0001
 
 ## Academic Tools
 

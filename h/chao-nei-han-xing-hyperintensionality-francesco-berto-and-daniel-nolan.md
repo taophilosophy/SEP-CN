@@ -1,8 +1,8 @@
 # 超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan)
 
-*首次发布于2021年4月20日星期二*
+*首次发布于 2021 年 4 月 20 日星期二*
 
-弗朗西斯·哈奇森（1694-1746）是一位有影响力的英国道德家，道德感情主义的倡导者，也是苏格兰启蒙运动的重要人物。虽然哈奇森在格拉斯哥大学接受教育并完成了他的职业生涯，但他出生在爱尔兰，只有在他的重要著作（包括《关于我们对美和美德的原始观念的探究》、《论激情的本质和行为》以及《道德感觉的说明》）出版并在某些情况下进行了广泛修订后，才返回苏格兰。然而，他对苏格兰的知识界产生了巨大的影响，部分原因是他与当时重要的苏格兰人物亚当·斯密、托马斯·里德和大卫·休谟的互动。
+弗朗西斯 · 哈奇森（1694-1746）是一位有影响力的英国道德家，道德感情主义的倡导者，也是苏格兰启蒙运动的重要人物。虽然哈奇森在格拉斯哥大学接受教育并完成了他的职业生涯，但他出生在爱尔兰，只有在他的重要著作（包括《关于我们对美和美德的原始观念的探究》、《论激情的本质和行为》以及《道德感觉的说明》）出版并在某些情况下进行了广泛修订后，才返回苏格兰。然而，他对苏格兰的知识界产生了巨大的影响，部分原因是他与当时重要的苏格兰人物亚当 · 斯密、托马斯 · 里德和大卫 · 休谟的互动。
 
 撇开他对苏格兰启蒙运动的影响不谈，哈奇森对现代英国道德主义的广泛发展做出了不可低估的贡献。他的主要哲学贡献，本文将集中讨论，包括他前面提到的感情主义、复杂的道德心理学、原始功利主义、对自利主义理论家（如霍布斯和曼德维尔）的批评、对理性主义者（如克拉克和沃拉斯顿）的批评，以及他试图调和美德和自利的努力。
 
@@ -18,7 +18,7 @@
 
 > 在其中，对于已故的肖夫斯伯里伯爵的原则进行了解释和辩护，反对《蜜蜂寓言》的作者；并根据古代道德学家的观点，确立了道德善恶的概念。并尝试在道德主题中引入数学计算。（探究）
 
-在这里，对曼德维尔的引用是重要的。在探究中，哈奇森认为他的任务是捍卫肖夫斯伯里的一般感性主义，而不是确切细节，反对曼德维尔和托马斯·霍布斯的“自利”理论。但暂时搁置他对自利理论的拒绝（见§2.1），哈奇森的整体元伦理是什么性质？
+在这里，对曼德维尔的引用是重要的。在探究中，哈奇森认为他的任务是捍卫肖夫斯伯里的一般感性主义，而不是确切细节，反对曼德维尔和托马斯 · 霍布斯的“自利”理论。但暂时搁置他对自利理论的拒绝（见 §2.1），哈奇森的整体元伦理是什么性质？
 
 ### 1.1 感官
 
@@ -62,7 +62,7 @@
 
 然而，道德感具有其他内部感官和评价模式所没有的进一步特征。Hutcheson 对道德感的最早提及如下：
 
-> [S]ome Actions have to Men an immediate Goodness; …by a superior Sense, which I call a Moral one, we perceive pleasure in the Contemplation of such Actions in others, and are determin’d to love the Agent, (and much more do we perceive Pleasure in being conscious of having done such Actions our selves) without any View of further natural Advantage from them. (*Inquiry*, 88)
+> [S] ome Actions have to Men an immediate Goodness; …by a superior Sense, which I call a Moral one, we perceive pleasure in the Contemplation of such Actions in others, and are determin’d to love the Agent, (and much more do we perceive Pleasure in being conscious of having done such Actions our selves) without any View of further natural Advantage from them. (*Inquiry*, 88)
 
 在这里，Hutcheson 认为道德感是对行为感到愉悦的感觉。但是，道德感除了具有独特的输入之外，还保持着独特的输出：对行为者的爱。《探究》的后期版本还将这种输出标识为“赞许和谴责的简单观念”（Inquiry, 217n45）（参见 Darwall 1995: 210）。
 
@@ -98,7 +98,7 @@
 
 因此，似乎我们不应该接受 Hutcheson 在 Frankena 所指的意义上是非认知主义者。对于 Hutcheson 来说，道德善良（以及可能还有其他评价模式）指的是特定的属性。然而，在这一点上，我们可能希望转向这些属性的性质。道德善恶是什么样的属性？关键问题是道德感“确定”道德区别的方式（Radcliffe 1986）。虽然这是一个有些粗糙的划分，但我们可以区分我们所说的“构成性感性主义”，根据这种观点，“好”的属性就是在观察者中引起相关情感的属性。与之相对的是“认识性感性主义”，根据这种观点，“好”的属性与道德感是独立的，但正是道德感的作用使我们能够确定或认识这些属性（Raphael 1947）。
 
-的确，从《探究》中我们不太清楚如何理解 Hutcheson 在这个问题上的观点。正如前面引用的，他认为道德感是道德善恶观念的源头（《探究》86 页）。但这似乎对于 Hutcheson 是构成性感性主义者还是认识性感性主义者并不明确。然而，《论文》中的这段话就不那么模棱两可了。正如前面提到的，他认为物体、行为等等“因为它们是引起相关感知的原因而被称为好”（《论文》，15 页）。因此，这似乎是一种构成性感性主义：道德属性就是那些引起特定情感反应的属性。根据这种解读（或者看起来是这样），如果我们的心理学不同，那么“获得赞同”的事物可能与现在的事物有很大不同。这个结论是 Hutcheson 当代的一个重要批评。例如，约翰·巴尔吉写道
+的确，从《探究》中我们不太清楚如何理解 Hutcheson 在这个问题上的观点。正如前面引用的，他认为道德感是道德善恶观念的源头（《探究》86 页）。但这似乎对于 Hutcheson 是构成性感性主义者还是认识性感性主义者并不明确。然而，《论文》中的这段话就不那么模棱两可了。正如前面提到的，他认为物体、行为等等“因为它们是引起相关感知的原因而被称为好”（《论文》，15 页）。因此，这似乎是一种构成性感性主义：道德属性就是那些引起特定情感反应的属性。根据这种解读（或者看起来是这样），如果我们的心理学不同，那么“获得赞同”的事物可能与现在的事物有很大不同。这个结论是 Hutcheson 当代的一个重要批评。例如，约翰 · 巴尔吉写道
 
 > 首先，在我们作者的方案中，似乎有一个无法克服的困难，那就是美德在其中似乎是一种任意和积极的性质，完全取决于本能，这些本能最初可能是不同的，甚至与现在相反，并且可以随时改变或颠倒，如果造物主愿意的话。（Balguy 1728 [BM: 390]）
 
@@ -126,17 +126,17 @@
 
 现在，这似乎是对他在《论人类道德心理学》中的观点的直接否定，即善只是“令人愉悦的感知”的原因或场合。相反，或者在这里看起来是这样，哈奇森似乎认为善是对象的真实属性，我们在思考时感到愉悦，就像美是特定对象的真实属性，我们在看到或欣赏时感到愉悦一样。这明显有利于认识论而不是构成性的感性主义。
 
-有人可能认为，哈奇森在写《体系》时已经改变了他的观点。事实上，这篇论文的第一版于1728年出版，而《体系》是一本晚期的著作，在他去世时尚未出版。一个常见的观点是，哈奇森的思想在《体系》中发生了重大变化（Carey 2005: v–vi; Scott 1900: 214）。然而，这种解释在某种程度上令人不满意，至少有一个原因。哈奇森是一个经常改动的人。在哈奇森的一生中，《论文》至少经历了三个独立的修订版。《论文》的最终第三版于1742年完成并出版。但是，《体系》虽然直到哈奇森于1755年去世后才出版，但在1737年之前，也就是《论文》的最终修订版之前，它已经基本完成。因此，如果哈奇森改变了他对善属性的性质的看法，我们肯定会在1742年修订的《论文》的文本中看到这种变化。但事实并非如此。（这一点尤其引人注目，因为哈奇森在后期版本的作品中并不害羞地进行非常实质性的改动；这在《探究》的四个版本中尤为明显。）
+有人可能认为，哈奇森在写《体系》时已经改变了他的观点。事实上，这篇论文的第一版于 1728 年出版，而《体系》是一本晚期的著作，在他去世时尚未出版。一个常见的观点是，哈奇森的思想在《体系》中发生了重大变化（Carey 2005: v–vi; Scott 1900: 214）。然而，这种解释在某种程度上令人不满意，至少有一个原因。哈奇森是一个经常改动的人。在哈奇森的一生中，《论文》至少经历了三个独立的修订版。《论文》的最终第三版于 1742 年完成并出版。但是，《体系》虽然直到哈奇森于 1755 年去世后才出版，但在 1737 年之前，也就是《论文》的最终修订版之前，它已经基本完成。因此，如果哈奇森改变了他对善属性的性质的看法，我们肯定会在 1742 年修订的《论文》的文本中看到这种变化。但事实并非如此。（这一点尤其引人注目，因为哈奇森在后期版本的作品中并不害羞地进行非常实质性的改动；这在《探究》的四个版本中尤为明显。）
 
-因此，这是一个解释性的难题。然而，通过重新考虑哈奇森在《论文》中的段落，可以取得进展。他写道，物体等“获得了好的名字”，是因为它们有能力引起愉悦的感觉。注意到“获得”这个词。我们可以理解哈奇森的意思并不是说善的属性是倾向于引起赞许或愉悦感的倾向，而是善的属性是我们通过愉悦感获得的属性，就像美是我们通过对美丽物体的愉悦感获得的属性一样。以这种方式，我们的愉悦感有助于确定“善”的指称，但并不构成该术语的指称对象。换句话说，道德善只是 XYZ 的属性，但我们通过我们的情感反应和道德感的运作来“理解”这个属性。对于哈奇森来说，道德感产生的愉悦以类似于描述一个物体在引用的因果理论中的方式运作。“《闪灵》的作者”确定了“斯蒂芬·金”的指称，但是成为斯蒂芬·金的属性并不等同于成为《闪灵》的作者的属性。同样，具有引起赞许倾向的事物确定了道德善的指称，但是成为道德善的属性并不等同于成为引起赞许的倾向。对于哈奇森来说，这个属性是独立的。
+因此，这是一个解释性的难题。然而，通过重新考虑哈奇森在《论文》中的段落，可以取得进展。他写道，物体等“获得了好的名字”，是因为它们有能力引起愉悦的感觉。注意到“获得”这个词。我们可以理解哈奇森的意思并不是说善的属性是倾向于引起赞许或愉悦感的倾向，而是善的属性是我们通过愉悦感获得的属性，就像美是我们通过对美丽物体的愉悦感获得的属性一样。以这种方式，我们的愉悦感有助于确定“善”的指称，但并不构成该术语的指称对象。换句话说，道德善只是 XYZ 的属性，但我们通过我们的情感反应和道德感的运作来“理解”这个属性。对于哈奇森来说，道德感产生的愉悦以类似于描述一个物体在引用的因果理论中的方式运作。“《闪灵》的作者”确定了“斯蒂芬 · 金”的指称，但是成为斯蒂芬 · 金的属性并不等同于成为《闪灵》的作者的属性。同样，具有引起赞许倾向的事物确定了道德善的指称，但是成为道德善的属性并不等同于成为引起赞许的倾向。对于哈奇森来说，这个属性是独立的。
 
 ### 1.4 对理性主义的攻击
 
-然而，无论我们如何理解 Hutcheson 的感性主义中道德属性的本体论地位，很明显 Hutcheson 坚持道德的基础不在于我们的理性能力或真理和理性的决定能力（参见 Gill 2006：第 12 章）。这使 Hutcheson 与他的理性主义同时代人，尤其是约翰·巴尔吉、塞缪尔·克拉克和威廉·沃拉斯顿产生了分歧。在《道德感觉的说明》（与论文一起出版）中，Hutcheson 对这些作者和其他形式的理性主义进行了持续的批评（参见论文，137-155 页）。
+然而，无论我们如何理解 Hutcheson 的感性主义中道德属性的本体论地位，很明显 Hutcheson 坚持道德的基础不在于我们的理性能力或真理和理性的决定能力（参见 Gill 2006：第 12 章）。这使 Hutcheson 与他的理性主义同时代人，尤其是约翰 · 巴尔吉、塞缪尔 · 克拉克和威廉 · 沃拉斯顿产生了分歧。在《道德感觉的说明》（与论文一起出版）中，Hutcheson 对这些作者和其他形式的理性主义进行了持续的批评（参见论文，137-155 页）。
 
 然而，在这一点上，我们需要稍微谈谈 Hutcheson 的对话者如何理解理性主义。根据克拉克的观点，特定行为的美德和/或恶习是由“适合和不适合”的“永恒关系”决定的。更具体地说，克拉克写道：
 
-> 某些情况适合某些人，而对其他人不适合；这是基于事物的本质和人的资格，在任何正面约定之前；此外，由于不同人之间的不同关系，必然会产生某些人对其他人的某些行为方式的适合性或不适合性：这一点显而易见，就像不同数学图形的本质所产生的属性之间具有不同的一致性或不一致性一样；或者在力学中，某些重量或力量具有非常不同的力量....（克拉克 1706 年[BM：192-3]）
+> 某些情况适合某些人，而对其他人不适合；这是基于事物的本质和人的资格，在任何正面约定之前；此外，由于不同人之间的不同关系，必然会产生某些人对其他人的某些行为方式的适合性或不适合性：这一点显而易见，就像不同数学图形的本质所产生的属性之间具有不同的一致性或不一致性一样；或者在力学中，某些重量或力量具有非常不同的力量....（克拉克 1706 年 [BM：192-3]）
 
 克拉克认为，这种“适应性”在人们崇拜上帝时起作用；在对他人行善时也有“适应性”，等等。但这些“适应性”不是通过道德感知来了解的，也不是道德感知的产物，它们是“永恒和不可改变的”，可以通过理性探究来发现。
 
@@ -146,7 +146,7 @@
 
 最后，沃拉斯顿提出了一种不同的理性主义，根据这种理性主义，行为的正确与错误取决于它们是否干涉或与“真理”相悖。沃拉斯顿写道：
 
-> 我将这一点作为基本原则，即无论谁的行为是否如此或不是如此，他的行为都宣告了它们是如此或不是如此；就像他可以通过言辞明确地表达一样，而且更加真实...任何一个道德善恶可归责的存在（无论是言辞还是行为），只要干涉任何真命题，或否认任何事情是它所是的，就是错误的...因此，这样一个存在的每一个行为，以及所有干涉真理的遗漏（即否认任何命题是真实的，而它确实是真实的；或者在任何方面假设任何事情不是它所是的）在某种程度上都是道德上的恶：忍受这样的行为，以及与这样的遗漏相对立的行为是道德上的善：当任何事情可以或不可以被做，而不违反真实时，那件事是无关紧要的。（沃拉斯顿 1724 年[BM：243，250]）
+> 我将这一点作为基本原则，即无论谁的行为是否如此或不是如此，他的行为都宣告了它们是如此或不是如此；就像他可以通过言辞明确地表达一样，而且更加真实...任何一个道德善恶可归责的存在（无论是言辞还是行为），只要干涉任何真命题，或否认任何事情是它所是的，就是错误的...因此，这样一个存在的每一个行为，以及所有干涉真理的遗漏（即否认任何命题是真实的，而它确实是真实的；或者在任何方面假设任何事情不是它所是的）在某种程度上都是道德上的恶：忍受这样的行为，以及与这样的遗漏相对立的行为是道德上的善：当任何事情可以或不可以被做，而不违反真实时，那件事是无关紧要的。（沃拉斯顿 1724 年 [BM：243，250]）
 
 在每种情况下，理性主义者似乎暗示存在某些行为，在我们对它们的赞同或情感之前，具有某些特质，即它们是合理的、适当的、真实的等等。然而，哈奇森认为所有这些立场都是根本混乱的。他对理性主义的一般攻击线路是澄清理性主义的许多潜在解读，显示每个解读要么在表面上荒谬，要么偷偷地依赖于道德感或情感的存在。“但是”，哈奇森问道，“行为与理性的一致性是什么？”（在这里，他显然指的是巴尔盖所提倡的观点。）在这里，他提供了两个可能的答案。
 
@@ -164,9 +164,9 @@
 
 > 我们有一些奇怪的短语，“某些事物在本质上是先验合理的”，有些人坚持这一点：“否则，他们说，如果在人类被创造之前，存在着没有道德意识的本质，这种本质在神明构成我们的感知时就不会被视为道德上的善”。非常正确；接下来呢？如果那种本质中没有道德意识，就不会有道德的感知。但是“这些本质难道不能在一种构成中看到比另一种构成更合理的东西吗？”……他们会对两者进行推理，并找出真理：对这些观察者来说，两种构成都是合理的吗？不，他们说，“仁慈的构成是合理的，恶意的构成是不合理的”：然而，这些观察者对两者进行了推理并发现了真理：所以，当一个行动是仁慈的时候，我们称之为合理，当它是恶意的时候，我们称之为不合理。这明显是使“合理”一词表示任何被我们的道德感知所认可的东西，而与真命题无关。（论文，153-4）
 
-Hutcheson还花了相当多的时间详细研究了Clarke和Wollaston的立场。对于Clarke来说，道德区别源于适合和不适合的关系，这些关系本身是永恒的。对于Hutcheson来说，任何将这种关系解释为道德上重要的都必须假设存在道德感知。正如Hutcheson所指出的，我们并不道德上赞扬例如数学中的自然数之间的关系，或者某些化学组合的适合性。一把剑对结束某人的生命来说是适合的，本身在道德上是中立的。而一种行为对其目标的适合性也是道德上中立的——有些行为对人类的痛苦和其他行为对人类的幸福同样适合。当然，有人可能认为适合关系只是（在道德上有趣的意义上）适用于行动的最终目标。换句话说，幸福是“适合”的，痛苦是“不适合”的。但是，根据Hutcheson的观点，这是什么意思呢？它不能是“适合”于产生其他事物——这就是使其成为最终目标的原因。但是，任何将某个特定目标解释为“适合”的阐释似乎都预设了超越其“适合性”的独立评估。（尽管有一种对Hutcheson的阅读表明Hutcheson和Clarke之间存在重要的连续性，请参见Sheridan 2007年的文章。）
+Hutcheson 还花了相当多的时间详细研究了 Clarke 和 Wollaston 的立场。对于 Clarke 来说，道德区别源于适合和不适合的关系，这些关系本身是永恒的。对于 Hutcheson 来说，任何将这种关系解释为道德上重要的都必须假设存在道德感知。正如 Hutcheson 所指出的，我们并不道德上赞扬例如数学中的自然数之间的关系，或者某些化学组合的适合性。一把剑对结束某人的生命来说是适合的，本身在道德上是中立的。而一种行为对其目标的适合性也是道德上中立的——有些行为对人类的痛苦和其他行为对人类的幸福同样适合。当然，有人可能认为适合关系只是（在道德上有趣的意义上）适用于行动的最终目标。换句话说，幸福是“适合”的，痛苦是“不适合”的。但是，根据 Hutcheson 的观点，这是什么意思呢？它不能是“适合”于产生其他事物——这就是使其成为最终目标的原因。但是，任何将某个特定目标解释为“适合”的阐释似乎都预设了超越其“适合性”的独立评估。（尽管有一种对 Hutcheson 的阅读表明 Hutcheson 和 Clarke 之间存在重要的连续性，请参见 Sheridan 2007 年的文章。）
 
-Hutcheson 对 Wollaston 的观点给予了最尖锐的批评。根据 Hutcheson 的观点，我们无法认为道德区别可以通过我们行为的倾向来表示真实或虚假。根据一个人对“意义”的理解，或者对 Wollaston 的“[假装]事情是这样的，或者不是这样的”方式的理解，我们会认为一些善意的行为是不道德的，比如晚上开灯、作为贵族“没有冠冕”旅行、穿着便服而不是神职人员、写剧本或“史诗”(Essay, 164–66)。此外，根据 Hutcheson 的观点，Wollaston 的体系无法区分善恶的程度。假设特定的行为表示真实或虚假是有一定道理的，这似乎是一个二元属性——要么是，要么不是。但是美德是可度量的：有些行为非常邪恶，有些行为是英勇的，有些行为在道德上相对无关紧要(Essay, 170; 另见§2.2)。因此，Hutcheson 最终得出结论，Wollaston（以及他考虑过的其他理性主义者）实际上是在偷偷引入某种伪装的道德感，无论是通过参考特定行为的“合理性”，参考它们的“适应性”，还是参考它们的“真实或虚假的意义”。
+Hutcheson 对 Wollaston 的观点给予了最尖锐的批评。根据 Hutcheson 的观点，我们无法认为道德区别可以通过我们行为的倾向来表示真实或虚假。根据一个人对“意义”的理解，或者对 Wollaston 的“[假装] 事情是这样的，或者不是这样的”方式的理解，我们会认为一些善意的行为是不道德的，比如晚上开灯、作为贵族“没有冠冕”旅行、穿着便服而不是神职人员、写剧本或“史诗”(Essay, 164–66)。此外，根据 Hutcheson 的观点，Wollaston 的体系无法区分善恶的程度。假设特定的行为表示真实或虚假是有一定道理的，这似乎是一个二元属性——要么是，要么不是。但是美德是可度量的：有些行为非常邪恶，有些行为是英勇的，有些行为在道德上相对无关紧要(Essay, 170; 另见 §2.2)。因此，Hutcheson 最终得出结论，Wollaston（以及他考虑过的其他理性主义者）实际上是在偷偷引入某种伪装的道德感，无论是通过参考特定行为的“合理性”，参考它们的“适应性”，还是参考它们的“真实或虚假的意义”。
 
 ## 2. Hutcheson 的规范伦理学
 
@@ -250,7 +250,7 @@ Hutcheson 经常被认为是当代功利主义发展的早期人物。事实上�
 
 这里有两件值得注意的事情。首先，不那么有趣的是，“好的数量和享受者的数量的复合比率”这个短语表明哈奇森倾向于一种平均功利主义，而不是总体功利主义（参见 Smart＆Williams 1974：27-28; Parfit 1984：420-421）。此外，与这种平均功利主义相一致，哈奇森认为，小的好处分散在许多人身上不需要弥补少数人所遭受的巨大灾难，而小的恶行分散在许多人身上可能是为了少数人的巨大好处而值得付出的代价。所有这些都与标准形式的功利主义聚合相一致。
 
-但更有趣的是，哈奇森认为“人的尊严或道德重要性可以弥补数量”。如何理解这段话？人们可以将其解释为一种观点的原型版本，即个体的道德美德本质上具有重要意义，两个人的幸福，其中一个是有德行的，另一个是邪恶的，其价值并不相等。（可以将其与理查德·阿内森[2004]提倡的“幸运主义”形式进行比较。）但哈奇森在前一段明确否认了这种解读。他写道：
+但更有趣的是，哈奇森认为“人的尊严或道德重要性可以弥补数量”。如何理解这段话？人们可以将其解释为一种观点的原型版本，即个体的道德美德本质上具有重要意义，两个人的幸福，其中一个是有德行的，另一个是邪恶的，其价值并不相等。（可以将其与理查德 · 阿内森 [2004] 提倡的“幸运主义”形式进行比较。）但哈奇森在前一段明确否认了这种解读。他写道：
 
 > 行为的道德美或丑并不因对象的道德品质而改变，除非对象的品质增加或减少了行为的仁慈或意图的公共利益。因此，对最糟糕的人物的仁慈或对其利益的研究可能与任何其他仁慈一样可爱；甚至往往比对好人的仁慈更可爱，因为它表明了一种能够克服最大障碍的仁慈程度，即对象中的道德恶行。（调查，124）
 
@@ -318,166 +318,166 @@ Hutcheson 提出了一些论证，一般上是通过我们对幸福本质的直�
 
 ## Bibliography
 
-* Anderson, Alan Ross, 1967, “Some Nasty Problems in the Formal Logic of Ethics”, *Noûs*, 1(4): 345–360. doi:10.2307/2214623
+* Anderson, Alan Ross, 1967, “Some Nasty Problems in the Formal Logic of Ethics”, *Noûs*, 1(4): 345–360. doi: 10.2307/2214623
 * Anderson, Alan Ross and Nuel D. Belnap, Jr., 1975, *Entailment: The Logic of Relevance and Necessity*, Volume I, Princeton, NJ: Princeton University Press.
 * Anderson, Alan Ross, Nuel D. Belnap, and J. Michael Dunn, 1992, *Entailment: The Logic of Relevance and Necessity*, Volume II, Princeton, NJ: Princeton University Press.
-* Bader, Ralf M., 2013, “Towards a Hyperintensional Theory of Intrinsicality”, *Journal of Philosophy*, 110(10): 525–563. doi:10.5840/jphil2013110109
-* Badura, Christopher and Francesco Berto, 2019, “Truth in Fiction, Impossible Worlds, and Belief Revision”, *Australasian Journal of Philosophy*, 97(1): 178–193. doi:10.1080/00048402.2018.1435698
-* Bacon, Andrew, 2018, “The Broadest Necessity”, *Journal of Philosophical Logic*, 47(5): 733–783. doi:10.1007/s10992-017-9447-9
-* Barcan [Marcus], Ruth C., 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. doi:10.2307/2267171
+* Bader, Ralf M., 2013, “Towards a Hyperintensional Theory of Intrinsicality”, *Journal of Philosophy*, 110(10): 525–563. doi: 10.5840/jphil2013110109
+* Badura, Christopher and Francesco Berto, 2019, “Truth in Fiction, Impossible Worlds, and Belief Revision”, *Australasian Journal of Philosophy*, 97(1): 178–193. doi: 10.1080/00048402.2018.1435698
+* Bacon, Andrew, 2018, “The Broadest Necessity”, *Journal of Philosophical Logic*, 47(5): 733–783. doi: 10.1007/s10992-017-9447-9
+* Barcan [Marcus], Ruth C., 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. doi: 10.2307/2267171
 * Bar-Hillel, Yehoshua and Rudolf Carnap, 1952 [1964], “An Outline of a Theory of Semantic Information”, Technical Report 247, The Research Laboratory of Electronics, Massachusetts Institute of Technology. Reprinted in Yehoshua Bar-Hillel’s *Language and Information: Selected Essays on Their Theory and Application*, Reading, MA: Addison-Wesley, 1964, pp. 221–274.
-* Baron, Sam, Mark Colyvan, and David Ripley, 2020, “A Counterfactual Approach to Explanation in Mathematics”, *Philosophia Mathematica*, 28(1): 1–34. doi:10.1093/philmat/nkz023
-* Barwise, Jon, 1997, “Information and Impossibilities”, *Notre Dame Journal of Formal Logic*, 38(4): 488–515. doi:10.1305/ndjfl/1039540766
+* Baron, Sam, Mark Colyvan, and David Ripley, 2020, “A Counterfactual Approach to Explanation in Mathematics”, *Philosophia Mathematica*, 28(1): 1–34. doi: 10.1093/philmat/nkz023
+* Barwise, Jon, 1997, “Information and Impossibilities”, *Notre Dame Journal of Formal Logic*, 38(4): 488–515. doi: 10.1305/ndjfl/1039540766
 * Barwise, Jon and John Perry, 1983, *Situations and Attitudes*, Cambridge, MA: The MIT Press.
-* Barwise, Jon and Jerry Seligman, 1997, *Information Flow: The Logic of Distributed Systems*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511895968
-* Bealer, George, 1979, “Theories of Properties, Relations, and Propositions”, *The Journal of Philosophy*, 76(11): 634–648. doi:10.2307/2025697
-* Bernstein, Sara, 2016, “Omission Impossible”, *Philosophical Studies*, 173(10): 2575–2589. doi:10.1007/s11098-016-0672-9
-* Berto, Francesco, 2019, “Simple Hyperintensional Belief Revision”, *Erkenntnis*, 84(3): 559–575. doi:10.1007/s10670-018-9971-1
-* Berto, Francesco, Rohan French, Graham Priest, and David Ripley, 2018, “Williamson on Counterpossibles”, *Journal of Philosophical Logic*, 47(4): 693–713. doi:10.1007/s10992-017-9446-x
-* Berto, Francesco and Mark Jago, 2019, *Impossible Worlds*, Oxford: Oxford University Press. doi:10.1093/oso/9780198812791.001.0001
-* Branquinho, Joāo, 1990, “Are Salmon’s ‘guises’ Disguised Fregean Senses?”, *Analysis*, 50(1): 19–24. doi:10.1093/analys/50.1.19
-* Bjerring, Jens Christian, 2014, “On Counterpossibles”, *Philosophical Studies*, 168(2): 327–353. doi:10.1007/s11098-013-0133-7
-* Bjerring, Jens Christian and Wolfgang Schwarz, 2017, “Granularity Problems”, *The Philosophical Quarterly*, 67(266): 22–37. doi:10.1093/pq/pqw028
-* Bjerring, Jens Christian and Mattias Skipper, 2019, “A Dynamic Solution to the Problem of Logical Omniscience”, *Journal of Philosophical Logic*, 48(3): 501–521. doi:10.1007/s10992-018-9473-2
-* Brogaard, Berit and Joe Salerno, 2013, “Remarks on Counterpossibles”, *Synthese*, 190(4): 639–660. doi:10.1007/s11229-012-0196-6
+* Barwise, Jon and Jerry Seligman, 1997, *Information Flow: The Logic of Distributed Systems*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511895968
+* Bealer, George, 1979, “Theories of Properties, Relations, and Propositions”, *The Journal of Philosophy*, 76(11): 634–648. doi: 10.2307/2025697
+* Bernstein, Sara, 2016, “Omission Impossible”, *Philosophical Studies*, 173(10): 2575–2589. doi: 10.1007/s11098-016-0672-9
+* Berto, Francesco, 2019, “Simple Hyperintensional Belief Revision”, *Erkenntnis*, 84(3): 559–575. doi: 10.1007/s10670-018-9971-1
+* Berto, Francesco, Rohan French, Graham Priest, and David Ripley, 2018, “Williamson on Counterpossibles”, *Journal of Philosophical Logic*, 47(4): 693–713. doi: 10.1007/s10992-017-9446-x
+* Berto, Francesco and Mark Jago, 2019, *Impossible Worlds*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198812791.001.0001
+* Branquinho, Joāo, 1990, “Are Salmon’s ‘guises’ Disguised Fregean Senses?”, *Analysis*, 50(1): 19–24. doi: 10.1093/analys/50.1.19
+* Bjerring, Jens Christian, 2014, “On Counterpossibles”, *Philosophical Studies*, 168(2): 327–353. doi: 10.1007/s11098-013-0133-7
+* Bjerring, Jens Christian and Wolfgang Schwarz, 2017, “Granularity Problems”, *The Philosophical Quarterly*, 67(266): 22–37. doi: 10.1093/pq/pqw028
+* Bjerring, Jens Christian and Mattias Skipper, 2019, “A Dynamic Solution to the Problem of Logical Omniscience”, *Journal of Philosophical Logic*, 48(3): 501–521. doi: 10.1007/s10992-018-9473-2
+* Brogaard, Berit and Joe Salerno, 2013, “Remarks on Counterpossibles”, *Synthese*, 190(4): 639–660. doi: 10.1007/s11229-012-0196-6
 * Chalmers, David, 1996, *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-* Ciardelli, Ivano, Jeroen Groenendijk, and Floris Roelofsen, 2013, “Inquisitive Semantics: A New Notion of Meaning: Inquisitive Semantics”, *Language and Linguistics Compass*, 7(9): 459–476. doi:10.1111/lnc3.12037
-* Copeland, B. J., 1980, “The Trouble Anderson and Belnap Have with Relevance”, *Philosophical Studies*, 37(4): 325–334. doi:10.1007/BF00354901
-* Cresswell, M. J., 1970, “Classical Intensional Logics”, *Theoria*, 36(3): 347–372. doi:10.1111/j.1755-2567.1970.tb00433.x
-* –––, 1975, “Hyperintensional Logic”, *Studia Logica*, 34(1): 25–38. doi:10.1007/BF02314421
-* –––, 2002, “Why Propositions Have No Structure”, *Noûs*, 36(4): 643–662. doi:10.1111/1468-0068.00405
-* Davidson, Donald, 1968, “On Saying That”, *Synthese*, 19(1–2): 130–146. doi:10.1007/BF00568054
-* Davies, Martin and Lloyd Humberstone, 1980, “Two Notions of Necessity”, *Philosophical Studies*, 38(1): 1–30. doi:10.1007/BF00354523
-* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, *Philosophical Studies*, 40(3): 363–378. doi:10.1007/BF00646423
-* Duncan, Michael, Kristie Miller, and James Norton, 2017, “Is Grounding a Hyperintensional Phenomenon?”, *Analytic Philosophy*, 58(4): 297–329. doi:10.1111/phib.12105
-* Dunn, J. Michael, 1987, “Relevant Predication 1: The Formal Theory”, *Journal of Philosophical Logic*, 16(4): 347–381. doi:10.1007/BF00431183
-* –––, 1990a, “Relevant Predication 2: Intrinsic Properties and Internal Relations”, *Philosophical Studies*, 60(3): 177–206. doi:10.1007/BF00367469
-* –––, 1990b, “Relevant Predication 3: Essential Properties”, in *Truth or Consequences: Essays in Honor of Nuel Belnap*, J. Michael Dunn and Anil Gupta (eds.), Dordrecht: Kluwer, pp. 77–95. doi:10.1007/978-94-009-0681-5_6
-* –––, 2015, “The Relevance of Relevance to Relevance Logic”, in *Logic and Its Applications*, Mohua Banerjee and Shankara Narayanan Krishna (eds.), (Lecture Notes in Computer Science, 8923), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 11–29. doi:10.1007/978-3-662-45824-2_2
-* Dunn, J. Michael and Greg Restall, 2002, “Relevance Logic”, in *Handbook of Philosophical Logic*, Dov M. Gabbay and F. Guenthner (eds.), second edition, Dordrecht: Springer Netherlands, Volume 6, pp. 1–128. doi:10.1007/978-94-017-0460-1_1
-* Duží, Marie, Bjørn Jespersen, and Pavel Materna, 2010, *Procedural Semantics for Hyperintensional Logic: Foundations and Applications of Transparent Intensional Logic*, (Logic, Epistemology, and the Unity of Science 17), Dordrecht: Springer Netherlands. doi:10.1007/978-90-481-8812-3
-* Duží, Marie and Bjørn Jespersen, 2015, “Transparent Quantification into Hyperintensional Objectual Attitudes”, *Synthese*, 192(3): 635–677. doi:10.1007/s11229-014-0578-z
-* Eddon, Maya, 2011, “Intrinsicality and Hyperintensionality”, *Philosophy and Phenomenological Research*, 82(2): 314–336. doi:10.1111/j.1933-1592.2010.00414.x
+* Ciardelli, Ivano, Jeroen Groenendijk, and Floris Roelofsen, 2013, “Inquisitive Semantics: A New Notion of Meaning: Inquisitive Semantics”, *Language and Linguistics Compass*, 7(9): 459–476. doi: 10.1111/lnc3.12037
+* Copeland, B. J., 1980, “The Trouble Anderson and Belnap Have with Relevance”, *Philosophical Studies*, 37(4): 325–334. doi: 10.1007/BF00354901
+* Cresswell, M. J., 1970, “Classical Intensional Logics”, *Theoria*, 36(3): 347–372. doi: 10.1111/j.1755-2567.1970.tb00433.x
+* –––, 1975, “Hyperintensional Logic”, *Studia Logica*, 34(1): 25–38. doi: 10.1007/BF02314421
+* –––, 2002, “Why Propositions Have No Structure”, *Noûs*, 36(4): 643–662. doi: 10.1111/1468-0068.00405
+* Davidson, Donald, 1968, “On Saying That”, *Synthese*, 19(1–2): 130–146. doi: 10.1007/BF00568054
+* Davies, Martin and Lloyd Humberstone, 1980, “Two Notions of Necessity”, *Philosophical Studies*, 38(1): 1–30. doi: 10.1007/BF00354523
+* Dretske, Fred, 1981, “The Pragmatic Dimension of Knowledge”, *Philosophical Studies*, 40(3): 363–378. doi: 10.1007/BF00646423
+* Duncan, Michael, Kristie Miller, and James Norton, 2017, “Is Grounding a Hyperintensional Phenomenon?”, *Analytic Philosophy*, 58(4): 297–329. doi: 10.1111/phib.12105
+* Dunn, J. Michael, 1987, “Relevant Predication 1: The Formal Theory”, *Journal of Philosophical Logic*, 16(4): 347–381. doi: 10.1007/BF00431183
+* –––, 1990a, “Relevant Predication 2: Intrinsic Properties and Internal Relations”, *Philosophical Studies*, 60(3): 177–206. doi: 10.1007/BF00367469
+* –––, 1990b, “Relevant Predication 3: Essential Properties”, in *Truth or Consequences: Essays in Honor of Nuel Belnap*, J. Michael Dunn and Anil Gupta (eds.), Dordrecht: Kluwer, pp. 77–95. doi: 10.1007/978-94-009-0681-5_6
+* –––, 2015, “The Relevance of Relevance to Relevance Logic”, in *Logic and Its Applications*, Mohua Banerjee and Shankara Narayanan Krishna (eds.), (Lecture Notes in Computer Science, 8923), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 11–29. doi: 10.1007/978-3-662-45824-2_2
+* Dunn, J. Michael and Greg Restall, 2002, “Relevance Logic”, in *Handbook of Philosophical Logic*, Dov M. Gabbay and F. Guenthner (eds.), second edition, Dordrecht: Springer Netherlands, Volume 6, pp. 1–128. doi: 10.1007/978-94-017-0460-1_1
+* Duží, Marie, Bjørn Jespersen, and Pavel Materna, 2010, *Procedural Semantics for Hyperintensional Logic: Foundations and Applications of Transparent Intensional Logic*, (Logic, Epistemology, and the Unity of Science 17), Dordrecht: Springer Netherlands. doi: 10.1007/978-90-481-8812-3
+* Duží, Marie and Bjørn Jespersen, 2015, “Transparent Quantification into Hyperintensional Objectual Attitudes”, *Synthese*, 192(3): 635–677. doi: 10.1007/s11229-014-0578-z
+* Eddon, Maya, 2011, “Intrinsicality and Hyperintensionality”, *Philosophy and Phenomenological Research*, 82(2): 314–336. doi: 10.1111/j.1933-1592.2010.00414.x
 * Fagin, Ronald, Joseph Y. Halpern, Yoram Moses and Moshe Vardi, 1995, *Reasoning About Knowledge*, Cambridge, MA: MIT Press.
-* Faroldi, Federico L. G., 2019, *Hyperintensionality and Normativity*, Cham: Springer International Publishing. doi:10.1007/978-3-030-03487-0
-* Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
+* Faroldi, Federico L. G., 2019, *Hyperintensionality and Normativity*, Cham: Springer International Publishing. doi: 10.1007/978-3-030-03487-0
+* Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi: 10.2307/2214160
 * –––, 2001, “The Question of Realism”, *Philosopher’s Imprint*, 1(June): art. 2. [[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
-* –––, 2012, “Counterfactuals Without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi:10.5840/jphil201210938
-* –––, 2016, “Angellic Content”, *Journal of Philosophical Logic*, 45(2): 199–226. doi:10.1007/s10992-015-9371-9
-* –––, 2017, “Truthmaker Semantics”, in *A Companion to the Philosophy of Language* (Vol. 2), Bob Hale, Crispin Wright, and Alexander Miller (eds.), 2nd ed., Chichester, UK: Wiley Blackwell, pp. 556–577. doi:10.1002/9781118972090.ch22
-* –––, 2020, “Yablo on Subject-Matter”, *Philosophical Studies*, 177(1): 129–171. doi:10.1007/s11098-018-1183-7
-* Forbes, Graeme, 1987, “Review of *Frege’s Puzzle*, by Nathan Salmon”, *The Philosophical Review*, 96(3): 455–458. doi:10.2307/2185233
+* –––, 2012, “Counterfactuals Without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi: 10.5840/jphil201210938
+* –––, 2016, “Angellic Content”, *Journal of Philosophical Logic*, 45(2): 199–226. doi: 10.1007/s10992-015-9371-9
+* –––, 2017, “Truthmaker Semantics”, in *A Companion to the Philosophy of Language* (Vol. 2), Bob Hale, Crispin Wright, and Alexander Miller (eds.), 2nd ed., Chichester, UK: Wiley Blackwell, pp. 556–577. doi: 10.1002/9781118972090.ch22
+* –––, 2020, “Yablo on Subject-Matter”, *Philosophical Studies*, 177(1): 129–171. doi: 10.1007/s11098-018-1183-7
+* Forbes, Graeme, 1987, “Review of *Frege’s Puzzle*, by Nathan Salmon”, *The Philosophical Review*, 96(3): 455–458. doi: 10.2307/2185233
 * García-Carpintero, Manuel and Josep Maciá (eds), 2006, *Two-Dimensional Semantics*. Oxford: Oxford University Press.
-* Gaskin, Richard, 2008, *The Unity of the Proposition*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199239450.001.0001
+* Gaskin, Richard, 2008, *The Unity of the Proposition*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199239450.001.0001
 * Gioulatou, Iliana, 2016, *Hyperintensionality*, Master of Science in Logic thesis, Institute for Logic, Language and Computation (ILLC), Universiteit van Amsterdam. [[Gioulatou 2016 available online](https://eprints.illc.uva.nl/1523/)]
 * Goble, Lou, 1999, “Deontic Logic with Relevance”, in P. McNamara and H. Prakken (eds.), *Norms, Logics and Information Systems: New Studies on Deontic Logic and Computer Science*, Amsterdam: IOS Press, pp. 331–345.
-* Goddard, L., 1977, “The Paradoxes of Confirmation and the Nature of Natural Laws”, *The Philosophical Quarterly*, 27(107): 97–113. doi:10.2307/2219421
-* Hawke, Peter, 2018, “Theories of Aboutness”, *Australasian Journal of Philosophy*, 96(4): 697–723. doi:10.1080/00048402.2017.1388826
+* Goddard, L., 1977, “The Paradoxes of Confirmation and the Nature of Natural Laws”, *The Philosophical Quarterly*, 27(107): 97–113. doi: 10.2307/2219421
+* Hawke, Peter, 2018, “Theories of Aboutness”, *Australasian Journal of Philosophy*, 96(4): 697–723. doi: 10.1080/00048402.2017.1388826
 * Hintikka, Jaakko, 1962, *Knowledge and Belief*, Ithaca, NY: Cornell University Press.
-* –––, 1975, “Impossible Possible Worlds Vindicated”, *Journal of Philosophical Logic*, 4(4): 475–484. doi:10.1007/BF00558761
-* Hoffmann-Kolss, Vera, 2015, “On a Sufficient Condition for Hyperintensionality”, *The Philosophical Quarterly*, 65(260): 336–354. doi:10.1093/pq/pqv021
-* –––, 2019, “Defining Qualitative Properties”, *Erkenntnis*, 84(5): 995–1010. doi:10.1007/s10670-018-9991-x
+* –––, 1975, “Impossible Possible Worlds Vindicated”, *Journal of Philosophical Logic*, 4(4): 475–484. doi: 10.1007/BF00558761
+* Hoffmann-Kolss, Vera, 2015, “On a Sufficient Condition for Hyperintensionality”, *The Philosophical Quarterly*, 65(260): 336–354. doi: 10.1093/pq/pqv021
+* –––, 2019, “Defining Qualitative Properties”, *Erkenntnis*, 84(5): 995–1010. doi: 10.1007/s10670-018-9991-x
 * Hornischer, Levin, 2017, *Hyperintensionality and Synonymy*, M.S. in Logic Thesis, Institute for Logic, Language and Computation (ILLC), Universiteit van Amsterdam. [[Hornischer 2017 available online](https://eprints.illc.uva.nl/1543/)]
-* –––, 2020, “Logics of Synonymy”, *Journal of Philosophical Logic*, 49: 767–805. doi:10.1007/s10992-019-09537-5
-* Jackson, Frank, 1994, “Armchair Metaphysics”, in *Philosophy in Mind: The Place of Philosophy in the Study of Mind*, Michaelis Michael and John O’Leary-Hawthorne (eds.), (Philosophical Studies Series 60), Dordrecht: Kluwer, pp. 23–42. doi:10.1007/978-94-011-1008-2_3
-* Jago, Mark, 2009, “Logical Information and Epistemic Space”, *Synthese*, 167(2): 327–341. doi:10.1007/s11229-008-9411-x
-* –––, 2014, *The Impossible: An Essay on Hyperintensionality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198709008.001.0001
-* –––, 2015, “Impossible Worlds”, *Noûs*, 49(4): 713–728. doi:10.1111/nous.12051
-* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?”, *Monist*, 94(2): 267–276. doi:10.5840/monist201194213
-* Jenkins, C.S. and Daniel Nolan, 2012, “Disposition Impossible”, *Noûs*, 46(4): 732–753. doi:10.1111/j.1468-0068.2011.00831.x
-* Jespersen, Bjørn, 2010, “How Hyper Are Hyperpropositions?”, *Language and Linguistics Compass*, 4(2): 96–106. doi:10.1111/j.1749-818X.2009.00181.x
-* Jespersen, Bjørn and Marie Duží, 2015, “Introduction”, Special issue on hyperintensionality, *Synthese*, 192(3): 525–534. doi:10.1007/s11229-015-0665-9
+* –––, 2020, “Logics of Synonymy”, *Journal of Philosophical Logic*, 49: 767–805. doi: 10.1007/s10992-019-09537-5
+* Jackson, Frank, 1994, “Armchair Metaphysics”, in *Philosophy in Mind: The Place of Philosophy in the Study of Mind*, Michaelis Michael and John O’Leary-Hawthorne (eds.), (Philosophical Studies Series 60), Dordrecht: Kluwer, pp. 23–42. doi: 10.1007/978-94-011-1008-2_3
+* Jago, Mark, 2009, “Logical Information and Epistemic Space”, *Synthese*, 167(2): 327–341. doi: 10.1007/s11229-008-9411-x
+* –––, 2014, *The Impossible: An Essay on Hyperintensionality*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198709008.001.0001
+* –––, 2015, “Impossible Worlds”, *Noûs*, 49(4): 713–728. doi: 10.1111/nous.12051
+* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?”, *Monist*, 94(2): 267–276. doi: 10.5840/monist201194213
+* Jenkins, C.S. and Daniel Nolan, 2012, “Disposition Impossible”, *Noûs*, 46(4): 732–753. doi: 10.1111/j.1468-0068.2011.00831.x
+* Jespersen, Bjørn, 2010, “How Hyper Are Hyperpropositions?”, *Language and Linguistics Compass*, 4(2): 96–106. doi: 10.1111/j.1749-818X.2009.00181.x
+* Jespersen, Bjørn and Marie Duží, 2015, “Introduction”, Special issue on hyperintensionality, *Synthese*, 192(3): 525–534. doi: 10.1007/s11229-015-0665-9
 * Kahneman, Daniel, 2011, *Thinking, Fast and Slow*, New York: Farrar, Straus and Giroux.
 * Kaplan, David, 1989, “Demonstratives”, in *Themes from Kaplan.*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, pp. 481–563.
-* Keenan, Edward L. and Leonard M. Faltz, 1984, *Boolean Semantics for Natural Language*, (Synthese Language Library 23), Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-6404-4
-* King, Jeffrey C., 1995, “Structured Propositions and Complex Predicates”, *Noûs*, 29(4): 516–535. doi:10.2307/2216285
+* Keenan, Edward L. and Leonard M. Faltz, 1984, *Boolean Semantics for Natural Language*, (Synthese Language Library 23), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-009-6404-4
+* King, Jeffrey C., 1995, “Structured Propositions and Complex Predicates”, *Noûs*, 29(4): 516–535. doi: 10.2307/2216285
 * Kiourti, Ira George, 2010, *Real Impossible Worlds: The Bounds of Possibility*, Ph.D. Dissertation, University of St Andrews. [[Kiourti 2010 available online](http://hdl.handle.net/10023/924)]
-* Kment, Boris, 2014, *Modality and Explanatory Reasoning*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199604685.001.0001
+* Kment, Boris, 2014, *Modality and Explanatory Reasoning*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199604685.001.0001
 * Kocurek, Alexander W., Ethan Jerzak, and Rachel Etta Rudolph, 2020, “Against Conventional Wisdom”, *Philosopher’s Imprint*, 20: art. 22. [[Kocurek et al. 2020 available online](http://hdl.handle.net/2027/spo.3521354.0020.022)]
 * Kratzer, Angelika, 1986, “Conditionals”, in *Papers from the Parasessions on Pragmatics and Grammatical Theory*, Anne M. Farley, Peter Farley and Karl-Erik McCollough (eds.), Chicago: Chicago Linguistics Society, pp. 115–135.
 * Kripke, Saul A., 1965, “Semantical Analysis of Modal Logic II: Non-normal Modal Propositional Calculi”, in J. W. Addison, Leon Henkin, and Alfred Tarski (eds.), 1965, *The Theory of Models*, Amsterdam: North-Holland, pp. 206–20.
 * –––, 1980, *Naming and Necessity*, Oxford: Blackwell.
-* Leitgeb, Hannes, 2019, “HYPE: A System of Hyperintensional Logic (with an Application to Semantic Paradoxes)”, *Journal of Philosophical Logic*, 48(2): 305–405. doi:10.1007/s10992-018-9467-0
+* Leitgeb, Hannes, 2019, “HYPE: A System of Hyperintensional Logic (with an Application to Semantic Paradoxes)”, *Journal of Philosophical Logic*, 48(2): 305–405. doi: 10.1007/s10992-018-9467-0
 * Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
-* –––, 1982, “Logic for Equivocators”, *Noûs*, 16(3): 431–441. doi:10.2307/2216219
+* –––, 1982, “Logic for Equivocators”, *Noûs*, 16(3): 431–441. doi: 10.2307/2216219
 * –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
-* –––, 1988, “Statements Partly about Observation”, *Philosophical Papers*, 17(1): 1–31. doi:10.1080/05568648809506282
-* –––, 2004, “Letters to Beall and Priest”, in *The Law of Non-Contradiction: New Philosophical Essays*, Graham Priest, J.C. Beall, and Bradley Armour-Garb (eds.), Oxford: Oxford University Press, pp. 176–177. doi:10.1093/acprof:oso/9780199265176.003.0011
-* Locke, Theodore D., forthcoming, “Counterpossibles for Modal Normativists”, *Synthese*, first online: 28 January 2019. doi:10.1007/s11229-019-02103-1
+* –––, 1988, “Statements Partly about Observation”, *Philosophical Papers*, 17(1): 1–31. doi: 10.1080/05568648809506282
+* –––, 2004, “Letters to Beall and Priest”, in *The Law of Non-Contradiction: New Philosophical Essays*, Graham Priest, J.C. Beall, and Bradley Armour-Garb (eds.), Oxford: Oxford University Press, pp. 176–177. doi: 10.1093/acprof: oso/9780199265176.003.0011
+* Locke, Theodore D., forthcoming, “Counterpossibles for Modal Normativists”, *Synthese*, first online: 28 January 2019. doi: 10.1007/s11229-019-02103-1
 * Lycan, William G., 2001, *Real Conditionals*, Oxford: Oxford University Press.
 * MacBride, Fraser, 2012 [2020], “Truthmakers”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2020/entries/truthmakers/>.
-* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, *Notre Dame Journal of Formal Logic*, 38(4): 516–526. doi:10.1305/ndjfl/1039540767
-* –––, 2004, *Relevant Logic: A Philosophical Interpretation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511520006
-* Mares, Edwin D. and André Fuhrmann, 1995, “A Relevant Theory of Conditionals”, *Journal of Philosophical Logic*, 24(6): 645–665. doi:10.1007/BF01306969
-* Marshall, Dan, 2015, “Intrinsicality and Grounding”, *Philosophy and Phenomenological Research*, 90(1): 1–19. doi:10.1111/phpr.12053
-* Melchior, Guido, forthcoming, “Sensitivity, Safety, and Impossible Worlds”, *Philosophical Studies*, first online: 21 April 2020. doi:10.1007/s11098-020-01453-8
-* Menzel, Christopher, 1993, “The Proper Treatment of Predication in Fine-Grained Intensional Logic”, *Philosophical Perspectives*, 7: 61–87. doi:10.2307/2214116
+* Mares, Edwin D., 1997, “Who’s Afraid of Impossible Worlds?”, *Notre Dame Journal of Formal Logic*, 38(4): 516–526. doi: 10.1305/ndjfl/1039540767
+* –––, 2004, *Relevant Logic: A Philosophical Interpretation*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511520006
+* Mares, Edwin D. and André Fuhrmann, 1995, “A Relevant Theory of Conditionals”, *Journal of Philosophical Logic*, 24(6): 645–665. doi: 10.1007/BF01306969
+* Marshall, Dan, 2015, “Intrinsicality and Grounding”, *Philosophy and Phenomenological Research*, 90(1): 1–19. doi: 10.1111/phpr.12053
+* Melchior, Guido, forthcoming, “Sensitivity, Safety, and Impossible Worlds”, *Philosophical Studies*, first online: 21 April 2020. doi: 10.1007/s11098-020-01453-8
+* Menzel, Christopher, 1993, “The Proper Treatment of Predication in Fine-Grained Intensional Logic”, *Philosophical Perspectives*, 7: 61–87. doi: 10.2307/2214116
 * Moltmann, Friederike, 2020, “Truthmaker Semantics for Natural Language: Attitude Verbs, Modals, and Intensional Transitive Verbs”, *Theoretical Linguistics*, 46(3–4): 159–200.
-* –––, forthcoming, “Situations, Alternatives, and the Semantics of ‘Cases’”, *Linguistics and Philosophy*, first online: 12 December 2019. doi:10.1007/s10988-019-09282-7
-* Montague, Richard, 1970, “Universal Grammar”, *Theoria*, 36(3): 373–398. doi:10.1111/j.1755-2567.1970.tb00434.x
-* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38(4): 535–572. doi:10.1305/ndjfl/1039540769
-* –––, 2003, “Defending a Possible-Worlds Account of Indicative Conditionals”, *Philosophical Studies*, 116(3): 215–269. doi:10.1023/B:PHIL.0000007243.60727.d4
-* –––, 2013, “Impossible Worlds”, *Philosophy Compass*, 8(4): 360–372. doi:10.1111/phc3.12027
-* –––, 2014, “Hyperintensional Metaphysics”, *Philosophical Studies*, 171(1): 149–160. doi:10.1007/s11098-013-0251-2
-* –––, 2016a, “Chance and Necessity”, *Philosophical Perspectives*, 30(1): 294–308. doi:10.1111/phpe.12076
-* –––, 2016b, “Conditionals and Curry”, *Philosophical Studies*, 173(10): 2629–2647. doi:10.1007/s11098-016-0666-7
-* –––, 2018, “Reflections on Routley’s Ultralogic Program”, *The Australasian Journal of Logic*, 15(2): 407–430. doi:10.26686/ajl.v15i2.4866
-* Osorio-Kupferblum, Naomi, 2016, “Aboutness”, *Analysis*, 76(4): 528–546. doi:10.1093/analys/anw027
-* Plebani, Matteo and Giuseppe Spolaore, forthcoming, “Subject Matter: A Modest Proposal”, *The Philosophical Quarterly*, first online: 7 August 2020. doi:110.1093/pq/pqaa05
-* Poggiolesi, Francesca, 2018, “On Constructing a Logic for the Notion of Complete and Immediate Formal Grounding”, *Synthese*, 195(3): 1231–1254. doi:10.1007/s11229-016-1265-z
-* –––, 2020, “Grounding Rules and (Hyper-)Isomorphic Formulas”, *The Australasian Journal of Logic*, 17(1): 70–80. doi:10.26686/ajl.v17i1.5694
+* –––, forthcoming, “Situations, Alternatives, and the Semantics of ‘Cases’”, *Linguistics and Philosophy*, first online: 12 December 2019. doi: 10.1007/s10988-019-09282-7
+* Montague, Richard, 1970, “Universal Grammar”, *Theoria*, 36(3): 373–398. doi: 10.1111/j.1755-2567.1970.tb00434.x
+* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38(4): 535–572. doi: 10.1305/ndjfl/1039540769
+* –––, 2003, “Defending a Possible-Worlds Account of Indicative Conditionals”, *Philosophical Studies*, 116(3): 215–269. doi: 10.1023/B: PHIL.0000007243.60727.d4
+* –––, 2013, “Impossible Worlds”, *Philosophy Compass*, 8(4): 360–372. doi: 10.1111/phc3.12027
+* –––, 2014, “Hyperintensional Metaphysics”, *Philosophical Studies*, 171(1): 149–160. doi: 10.1007/s11098-013-0251-2
+* –––, 2016a, “Chance and Necessity”, *Philosophical Perspectives*, 30(1): 294–308. doi: 10.1111/phpe.12076
+* –––, 2016b, “Conditionals and Curry”, *Philosophical Studies*, 173(10): 2629–2647. doi: 10.1007/s11098-016-0666-7
+* –––, 2018, “Reflections on Routley’s Ultralogic Program”, *The Australasian Journal of Logic*, 15(2): 407–430. doi: 10.26686/ajl.v15i2.4866
+* Osorio-Kupferblum, Naomi, 2016, “Aboutness”, *Analysis*, 76(4): 528–546. doi: 10.1093/analys/anw027
+* Plebani, Matteo and Giuseppe Spolaore, forthcoming, “Subject Matter: A Modest Proposal”, *The Philosophical Quarterly*, first online: 7 August 2020. doi: 110.1093/pq/pqaa05
+* Poggiolesi, Francesca, 2018, “On Constructing a Logic for the Notion of Complete and Immediate Formal Grounding”, *Synthese*, 195(3): 1231–1254. doi: 10.1007/s11229-016-1265-z
+* –––, 2020, “Grounding Rules and (Hyper-)Isomorphic Formulas”, *The Australasian Journal of Logic*, 17(1): 70–80. doi: 10.26686/ajl.v17i1.5694
 * Priest, Graham, 1992, “What is a Non-Normal World?”, *Logique et Analyse*, 35: 291–302.
-* –––, 1997, “Sylvan’s Box: A Short Story and Ten Morals”, *Notre Dame Journal of Formal Logic*, 38(4): 573–582. doi:10.1305/ndjfl/1039540770
-* –––, 2008, *An Introduction to Non-Classical Logic: From If to Is*, second edition, Cambridge: Cambridge University Press. First edition 2001. doi:10.1017/CBO9780511801174
-* Quine, W. V. O., 1953, “Three Grades of Modal Involvement”, in *Proceedings of the XIth International Congress of Philosophy*, Amsterdam: North-Holland, 14:65–81. Reprinted in Quine 1966: 156–174. doi:10.5840/wcp11195314450
-* –––, 1956, “Quantifiers and Propositional Attitudes”, *The Journal of Philosophy*, 53(5): 177–187. Reprinted in Quine 1966: 183–194. doi:10.2307/2022451
+* –––, 1997, “Sylvan’s Box: A Short Story and Ten Morals”, *Notre Dame Journal of Formal Logic*, 38(4): 573–582. doi: 10.1305/ndjfl/1039540770
+* –––, 2008, *An Introduction to Non-Classical Logic: From If to Is*, second edition, Cambridge: Cambridge University Press. First edition 2001. doi: 10.1017/CBO9780511801174
+* Quine, W. V. O., 1953, “Three Grades of Modal Involvement”, in *Proceedings of the XIth International Congress of Philosophy*, Amsterdam: North-Holland, 14: 65–81. Reprinted in Quine 1966: 156–174. doi: 10.5840/wcp11195314450
+* –––, 1956, “Quantifiers and Propositional Attitudes”, *The Journal of Philosophy*, 53(5): 177–187. Reprinted in Quine 1966: 183–194. doi: 10.2307/2022451
 * –––, 1966, *The Ways of Paradox*, New York: Random House.
 * Rantala, Veikko., 1982, “Impossible Worlds Semantics and Logical Omniscience”, in *Intensional Logic: Theory and Application* (*Acta Philosophica Fennica*, 35), Ilkka Niiniluoto and Esa Saarinen (eds), Helsinki: Societas Philosophica Fennica, pp. 106–115.
 * Read, Stephen, 1988, *Relevant Logic: A Philosophical Examination of Inference*, Oxford: Blackwell.
-* Restall, Greg, 1996a, “Truthmakers, Entailment and Necessity”, *Australasian Journal of Philosophy*, 74(2): 331–340. doi:10.1080/00048409612347331
+* Restall, Greg, 1996a, “Truthmakers, Entailment and Necessity”, *Australasian Journal of Philosophy*, 74(2): 331–340. doi: 10.1080/00048409612347331
 * –––, 1996b, “Information Flow and Relevant Logics”, in Jerry Seligman and Dag Westerståhl (eds.), *Logic, Language and Computation* (Volume 1), Stanford, CA: CSLI Publications, pp. 463–78.
-* Ripley, David, 2012, “Structures and Circumstances: Two Ways to Fine-Grain Propositions”, *Synthese*, 189(1): 97–118. doi:10.1007/s11229-012-0100-4
-* Routley, Richard, 1977, “Ultralogic as Universal?” *The Relevance Logic Newsletter*, 2(1): 50–90 and 2(2): 138–175. Reprinted in Routley 2019: 1–121. doi:10.1007/978-3-319-91974-4_1
-* –––, 1979, “The Semantical Structure of Fictional Discourse”, *Poetics*, 8(1–2): 3–30. doi:10.1016/0304-422X(79)90013-5
-* –––, 1989, “Philosophical and Linguistic Inroads: Multiply Intensional Relevant Logics”, in *Directions in Relevant Logic*, Jean Norman and Richard Sylvan (eds.), Dordrecht: Kluwer, pp. 269–304. doi:10.1007/978-94-009-1005-8_19
-* –––, 2019, *Ultralogic as Universal? The Sylvan Jungle—Volume 4*, Zach Weber (ed.), (Synthese Library 396), Cham: Springer International Publishing. doi:10.1007/978-3-319-91974-4
+* Ripley, David, 2012, “Structures and Circumstances: Two Ways to Fine-Grain Propositions”, *Synthese*, 189(1): 97–118. doi: 10.1007/s11229-012-0100-4
+* Routley, Richard, 1977, “Ultralogic as Universal?” *The Relevance Logic Newsletter*, 2(1): 50–90 and 2(2): 138–175. Reprinted in Routley 2019: 1–121. doi: 10.1007/978-3-319-91974-4_1
+* –––, 1979, “The Semantical Structure of Fictional Discourse”, *Poetics*, 8(1–2): 3–30. doi: 10.1016/0304-422X(79)90013-5
+* –––, 1989, “Philosophical and Linguistic Inroads: Multiply Intensional Relevant Logics”, in *Directions in Relevant Logic*, Jean Norman and Richard Sylvan (eds.), Dordrecht: Kluwer, pp. 269–304. doi: 10.1007/978-94-009-1005-8_19
+* –––, 2019, *Ultralogic as Universal? The Sylvan Jungle—Volume 4*, Zach Weber (ed.), (Synthese Library 396), Cham: Springer International Publishing. doi: 10.1007/978-3-319-91974-4
 * Routley, Richard and Robert K. Meyer, 1973, “The Semantics of Entailment I”, in Hugues Leblanc (ed.), *Truth, Syntax and Semantics*, Amsterdam: North-Holland, pp. 194–243.
-* Salmon [Salmón], Nathan, 1984, “Impossible Worlds”, *Analysis*, 44(3): 114–117. doi:10.1093/analys/44.3.114
+* Salmon [Salmón], Nathan, 1984, “Impossible Worlds”, *Analysis*, 44(3): 114–117. doi: 10.1093/analys/44.3.114
 * –––, 1986, *Frege’s Puzzle*, Cambridge, MA: MIT Press.
-* –––, 2019, “Impossible Odds”, *Philosophy and Phenomenological Research*, 99(3): 644–662. doi:10.1111/phpr.12517
+* –––, 2019, “Impossible Odds”, *Philosophy and Phenomenological Research*, 99(3): 644–662. doi: 10.1111/phpr.12517
 * Schaffer, Jonathan, 2009, “On What Grounds What”, in David Manley, David J. Chalmers and Ryan Wasserman (eds.), *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press, pp. 347–383.
-* Schellenberg, Susanna, 2012, “Sameness of Fregean Sense”, *Synthese*, 189(1): 163–175. doi:10.1007/s11229-012-0098-7
-* Schnieder, Benjamin, 2011, “A Logic for ‘Because’”, *The Review of Symbolic Logic*, 4(3): 445–465. doi:10.1017/S1755020311000104
-* Segerberg, Krister, 1973, “Two-Dimensional Modal Logic”, *Journal of Philosophical Logic*, 2(1): 77–96. doi:10.1007/BF02115610
-* Skipper, Mattias and Jens Christian Bjerring, 2020, “Hyperintensional Semantics: A Fregean Approach”, *Synthese*, 197(8): 3535–3558. doi:10.1007/s11229-018-01900-4
+* Schellenberg, Susanna, 2012, “Sameness of Fregean Sense”, *Synthese*, 189(1): 163–175. doi: 10.1007/s11229-012-0098-7
+* Schnieder, Benjamin, 2011, “A Logic for ‘Because’”, *The Review of Symbolic Logic*, 4(3): 445–465. doi: 10.1017/S1755020311000104
+* Segerberg, Krister, 1973, “Two-Dimensional Modal Logic”, *Journal of Philosophical Logic*, 2(1): 77–96. doi: 10.1007/BF02115610
+* Skipper, Mattias and Jens Christian Bjerring, 2020, “Hyperintensional Semantics: A Fregean Approach”, *Synthese*, 197(8): 3535–3558. doi: 10.1007/s11229-018-01900-4
 * Soames, Scott, 1987, “Direct Reference, Propositional Attitudes, and Semantic Content”, *Philosophical Topics*, 15(1): 47–87.
-* –––, 2008, “Why Propositions Cannot Be Sets of Truth-Supporting Circumstances”, *Journal of Philosophical Logic*, 37(3): 267–276. doi:10.1007/s10992-007-9069-8
-* Solaki, Anthia, Francesco Berto, and Sonja Smets, forthcoming, “The Logic of Fast and Slow Thinking”, *Erkenntnis*, first online: 1 June 2019. doi:10.1007/s10670-019-00128-z
+* –––, 2008, “Why Propositions Cannot Be Sets of Truth-Supporting Circumstances”, *Journal of Philosophical Logic*, 37(3): 267–276. doi: 10.1007/s10992-007-9069-8
+* Solaki, Anthia, Francesco Berto, and Sonja Smets, forthcoming, “The Logic of Fast and Slow Thinking”, *Erkenntnis*, first online: 1 June 2019. doi: 10.1007/s10670-019-00128-z
 * Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in Nicholas Rescher (ed.), *Studies in Logical Theory*, Oxford: Blackwell, pp. 98–112.
 * –––, 1976, “Propositions”, in Alfred M. MacKay and Daniel D. Merrill (eds), *Issues in the Philosophy of Language*, New Haven, CT: Yale University Press, pp. 79–91.
 * –––, 1978, “Assertion”, in *Pragmatics* (*Syntax and Semantics* 9), Peter Cole (ed.), New York: Academic Press, pp. 315–332.
 * –––, 1984, *Inquiry*, Cambridge, MA: MIT Press.
-* –––, 1996, “Impossibilities”, *Philosophical Topics*, 24(1): 193–204. Reprinted with additional material in his, 2003, *Ways a World Might Be: Metaphysical and Anti-Metaphysical Essays*, Oxford: Oxford University Press, pp. 55–68. doi:10.5840/philtopics199624115
-* –––, 2004, “Assertion Revisited: On the Interpretation of Two-Dimensional Modal Semantics”, *Philosophical Studies*, 118(1/2): 299–322. doi:10.1023/B:PHIL.0000019550.81145.34
+* –––, 1996, “Impossibilities”, *Philosophical Topics*, 24(1): 193–204. Reprinted with additional material in his, 2003, *Ways a World Might Be: Metaphysical and Anti-Metaphysical Essays*, Oxford: Oxford University Press, pp. 55–68. doi: 10.5840/philtopics199624115
+* –––, 2004, “Assertion Revisited: On the Interpretation of Two-Dimensional Modal Semantics”, *Philosophical Studies*, 118(1/2): 299–322. doi: 10.1023/B: PHIL.0000019550.81145.34
 * Stanojevic, Maja, 2009, “Cognitive Synonymy: A General Overview”, *Facta Universitatis—Linguistics and Literature*, 7: 193–200.
 * Sylvan, Richard and R. Nola, 1991, “Confirmation Without Paradoxes” in Gerhard Schurz and Georg J. W. Dorn (eds.), *Advances in Scientific Philosophy*, Leiden: Brill, pp. 5–44.
-* Tagawa, Takahiro and Jingde Cheng, 2002, “Deontic Relevant Logic: A Strong Relevant Logic Approach to Removing Paradoxes from Deontic Logic”, in *PRICAI 2002: Trends in Artificial Intelligence*, Mitsuru Ishizuka and Abdul Sattar (eds.), (Lecture Notes in Computer Science 2417), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 39–48. doi:10.1007/3-540-45683-X_7
+* Tagawa, Takahiro and Jingde Cheng, 2002, “Deontic Relevant Logic: A Strong Relevant Logic Approach to Removing Paradoxes from Deontic Logic”, in *PRICAI 2002: Trends in Artificial Intelligence*, Mitsuru Ishizuka and Abdul Sattar (eds.), (Lecture Notes in Computer Science 2417), Berlin, Heidelberg: Springer Berlin Heidelberg, pp. 39–48. doi: 10.1007/3-540-45683-X_7
 * Tichý, Pavel, 1968, “Smysl a procedura”, *Filosofický Casopis*, 16: 222–232, translated as “Sense and procedure” in Vladimír Svoboda, Bjørn Jespersen, and Colin Cheyne (eds.), 2004, *Pavel Tichý’s Collected Papers in Logic and Philosophy*, Dunedin, New Zealand: University of Otago Press, pp. 77–92.
-* –––, 1971, “An Approach to Intensional Analysis”, *Noûs*, 5(3): 273–297. doi:10.2307/2214668
-* –––, 1988, *The Foundations of Frege’s Logic*, Berlin, Boston: De Gruyter. doi:10.1515/9783110849264
+* –––, 1971, “An Approach to Intensional Analysis”, *Noûs*, 5(3): 273–297. doi: 10.2307/2214668
+* –––, 1988, *The Foundations of Frege’s Logic*, Berlin, Boston: De Gruyter. doi: 10.1515/9783110849264
 * Thaler, Richard H. and Cass R. Sunstein, 2008, *Nudge: Improving Decisions about Health, Wealth, and Happiness*, New Haven, CT: Yale University Press.
-* Thompson, Naomi, 2016, “Grounding and Metaphysical Explanation”, *Proceedings of the Aristotelian Society*, 116(3): 395–402. doi:10.1093/arisoc/aow012
+* Thompson, Naomi, 2016, “Grounding and Metaphysical Explanation”, *Proceedings of the Aristotelian Society*, 116(3): 395–402. doi: 10.1093/arisoc/aow012
 * Thompson, Naomi and Darragh Byrne, 2019, “On Hyperintensional Metaphysics”, in Tobias Hansson Wahlberg and Robin Stenwall (eds.) *Maurinian Truths: Essays in Honour of Anna-Sofia Maurin on her 50th Birthday*, Lund: Lund University, pp. 151–158.
-* Tversky, Amos and Daniel Kahneman, 1981, “The Framing of Decisions and the Psychology of Choice”, *Science*, 211(4481): 453–458. doi:10.1126/science.7455683
-* Van Fraassen, Bas C., 1969, “Facts and Tautological Entailments”, *Journal of Philosophy*, 66(15): 477–487. doi:10.2307/2024563
-* –––, 1977, “The Only Necessity Is Verbal Necessity”, *The Journal of Philosophy*, 74(2): 71–85. doi:10.2307/2025572
-* Wansing, Heinrich, 2017, “Remarks on the Logic of Imagination. A Step towards Understanding Doxastic Control through Imagination”, *Synthese*, 194(8): 2843–2861. doi:10.1007/s11229-015-0945-4
-* Weatherson, Brian, 2001, “Indicative and Subjunctive Conditionals”, *The Philosophical Quarterly*, 51(203): 200–216. doi:10.1111/j.0031-8094.2001.00224.x
-* Williamson, Timothy, 2007, *The Philosophy of Philosophy*, Oxford: Blackwell. doi:10.1002/9780470696675
+* Tversky, Amos and Daniel Kahneman, 1981, “The Framing of Decisions and the Psychology of Choice”, *Science*, 211(4481): 453–458. doi: 10.1126/science.7455683
+* Van Fraassen, Bas C., 1969, “Facts and Tautological Entailments”, *Journal of Philosophy*, 66(15): 477–487. doi: 10.2307/2024563
+* –––, 1977, “The Only Necessity Is Verbal Necessity”, *The Journal of Philosophy*, 74(2): 71–85. doi: 10.2307/2025572
+* Wansing, Heinrich, 2017, “Remarks on the Logic of Imagination. A Step towards Understanding Doxastic Control through Imagination”, *Synthese*, 194(8): 2843–2861. doi: 10.1007/s11229-015-0945-4
+* Weatherson, Brian, 2001, “Indicative and Subjunctive Conditionals”, *The Philosophical Quarterly*, 51(203): 200–216. doi: 10.1111/j.0031-8094.2001.00224.x
+* Williamson, Timothy, 2007, *The Philosophy of Philosophy*, Oxford: Blackwell. doi: 10.1002/9780470696675
 * Wittgenstein, Ludwig, 1921, *Tractatus Logico-Philosophicus*, London: Routledge & Kegan Paul.
 * Yablo, Stephen, 2014, *Aboutness*, Princeton, NJ: Princeton University Press.
 * Zalta, Edward N., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: MIT Press.
-* –––, 1997, “A Classically-Based Theory of Impossible Worlds”, *Notre Dame Journal of Formal Logic*, 38(4): 640–660. doi:10.1305/ndjfl/1039540774
+* –––, 1997, “A Classically-Based Theory of Impossible Worlds”, *Notre Dame Journal of Formal Logic*, 38(4): 640–660. doi: 10.1305/ndjfl/1039540774
 
 ## Academic Tools
 

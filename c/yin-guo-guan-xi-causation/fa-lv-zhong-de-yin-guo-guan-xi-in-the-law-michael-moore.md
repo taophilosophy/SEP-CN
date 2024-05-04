@@ -18,7 +18,7 @@
 
 第三，我们需要区分包含因果概念的法律命题和关于因果法律的命题。我们关注的是前一种命题；后一种命题是理论家（如本文作者）关于义务法律专业人员在其法律专业人员角色中应遵守的命题的假设，即法律。但法律本身是提取法律概念（如法律中的因果关系）的数据来源。
 
-第四，从法律等一系列言论中剖析因果这样一个概念的轮廓并不仅仅是引述或解释该概念的明确法律定义，无论这些定义声称自己有多么权威。法律对因果的定义只是分析“因果”在法律中意味着什么的开始。还需要另外两个项目。一个是从法律命题中使用该概念的用法中挖掘出来的_隐含_因果概念。在已决案例中使用的复杂法律概念很少会完全与官方法律定义完全一致（罗斯科·庞德\[1910]分别称之为“实践中的法律”和“书本中的法律”），即使这些定义明确支持某个特定概念时也是如此。
+第四，从法律等一系列言论中剖析因果这样一个概念的轮廓并不仅仅是引述或解释该概念的明确法律定义，无论这些定义声称自己有多么权威。法律对因果的定义只是分析“因果”在法律中意味着什么的开始。还需要另外两个项目。一个是从法律命题中使用该概念的用法中挖掘出来的_隐含_因果概念。在已决案例中使用的复杂法律概念很少会完全与官方法律定义完全一致（罗斯科 · 庞德\[1910] 分别称之为“实践中的法律”和“书本中的法律”），即使这些定义明确支持某个特定概念时也是如此。
 
 另一个需要的额外项目是法律条文运用因果概念所服务的目的或价值。法律概念是功能性（有时被称为“解释性”）概念，因为它们的含义是由它们在出现的条文中所服务的价值所塑造的，与上述语言（定义和用法）事实同样重要（富勒 1958）。
 
@@ -78,11 +78,11 @@
 
 ## 4. 因果法则在侵权法和刑法中的价值
 
-关于法律在侵权法和刑法的责任条款中使用因果关系的基本原理，有两个理由值得关注。这里不太相关的一个是法律改革者的动机，即评估因果关系的最佳测试是什么，并建议这样的测试_应该_被立法用于未来的法律使用。第二个，也是这里更相关的动机，是律师的动机，即了解现行法律下因果关系的要求是什么。正如在[第 1 节](https://plato.stanford.edu/entries/causation-law/#Intr)中预览的那样，法律在像因果这样的特定主题上提供的内容在一定程度上由这种要求在法律体系中所起的作用构成，因此这种功能构成了我们在重建法律对因果关系概念时需要咨询的第三个要素。
+关于法律在侵权法和刑法的责任条款中使用因果关系的基本原理，有两个理由值得关注。这里不太相关的一个是法律改革者的动机，即评估因果关系的最佳测试是什么，并建议这样的测试_应该_被立法用于未来的法律使用。第二个，也是这里更相关的动机，是律师的动机，即了解现行法律下因果关系的要求是什么。正如在 [第 1 节](https://plato.stanford.edu/entries/causation-law/#Intr) 中预览的那样，法律在像因果这样的特定主题上提供的内容在一定程度上由这种要求在法律体系中所起的作用构成，因此这种功能构成了我们在重建法律对因果关系概念时需要咨询的第三个要素。
 
-律师和法律理论家都有一个不幸的倾向，即宣称法律在使用因果等概念时应该是，并且必须是_自治_于其他学科（如哲学）（Stapleton 2008; 2015）。正如弗雷德里克·波拉克爵士一个多世纪前所说，“律师不能在逻辑和形而上学争议中冒险，这些争议围绕着因果的概念”（1901: 36）。然而，这种概念上的自治是否值得、必要，甚至可能，都预设了法律对其因果要求具有目的，这些目的与哲学所研究的因果形而上学不相吻合。
+律师和法律理论家都有一个不幸的倾向，即宣称法律在使用因果等概念时应该是，并且必须是_自治_于其他学科（如哲学）（Stapleton 2008; 2015）。正如弗雷德里克 · 波拉克爵士一个多世纪前所说，“律师不能在逻辑和形而上学争议中冒险，这些争议围绕着因果的概念”（1901: 36）。然而，这种概念上的自治是否值得、必要，甚至可能，都预设了法律对其因果要求具有目的，这些目的与哲学所研究的因果形而上学不相吻合。
 
-正如我们将在下文中看到的那样，在[section 5.2](https://plato.stanford.edu/entries/causation-law/#SkepApprCausFactRequ)，法律经济学家和其他功利主义者认为，将法律规则与造成伤害的人联系起来的责任，其基本原理是防止这些伤害达到次优水平；他们通过对过去行为施加责任（或奖励）来激励未来行为。根据这种观点，在法律中，因果关系可能意味着与在日常或科学话语中使用时的含义不同——因为为了从基于因果关系的责任规则中获得激励效果，人们可能会将“因果”与条件概率的提高等同起来，正如法律经济学家确实经常主张的那样。
+正如我们将在下文中看到的那样，在 [section 5.2](https://plato.stanford.edu/entries/causation-law/#SkepApprCausFactRequ)，法律经济学家和其他功利主义者认为，将法律规则与造成伤害的人联系起来的责任，其基本原理是防止这些伤害达到次优水平；他们通过对过去行为施加责任（或奖励）来激励未来行为。根据这种观点，在法律中，因果关系可能意味着与在日常或科学话语中使用时的含义不同——因为为了从基于因果关系的责任规则中获得激励效果，人们可能会将“因果”与条件概率的提高等同起来，正如法律经济学家确实经常主张的那样。
 
 一种对法律目的的替代观点将法律重新归于因果的形而上学。该观点认为，刑法服务于报复正义的价值，就像侵权法服务于纠正正义的价值一样。报复正义要求那些故意造成伤害的人遭受构成惩罚的指责和剥夺；纠正正义要求那些故意对他人造成伤害的人通过赔偿来纠正这种不公正。在这两种情况下，为这种正义服务要求人们_不_将法律责任规则中使用的“因果”等同于在这些正义理论中所确定的内容之外的任何东西。因为这些正义的道德理论要求真正的因果形而上学决定了何时某人_造成_了对他人的伤害或其他危害，因此侵权法和刑法也必须如此。根据这种对侵权法和刑法中因果要求的理由的替代观点，律师因此_必须_与形而上学家一起“冒险”。那些这样冒险的人不会同等看待法律对因果概念的所有候选者。
 
@@ -102,13 +102,13 @@
 
 非常普遍地，法律文献中提出了对事实因果关系的反事实测试存在四种问题。这些问题中的第一个与证据和证据有关。作为初步案件的一个要素，事实上的因果关系必须由承担举证责任的一方证明。在刑事案件中，即检方必须证明，除了被告的行为外，如果没有被告的行为，会发生什么是毋庸置疑的。由于反事实本质上难以确定，因此很难以任何确定程度来证明，因为这需要事实查明人去推测，如果被告实际上没有做过的事情会发生什么。假设被告故意破坏了海上拖船上的救生圈。当一名船员落水溺亡时，他的死亡是否是被告破坏救生圈的行为的必要条件？（*纽约中央铁路公司诉格里姆斯塔德*）。如果救生圈在那里，有人会想到使用它吗？及时扔出去吗？扔得够远吗？将它靠近受害者以至于他能够够得到吗？我们经常缺乏可以验证被告的过失行为是否在这种方式上产生任何影响的精确信息。
 
-第二组问题源于测试中的意义不确定性，而不是事实验证的困难。反事实判断存在很大的模糊性。这种模糊性在于指定我们要测试反事实的可能世界（Cole 1964a,b; Lewis 1973b）。假设被告疏忽地破坏了一个救生圈，一名水手因缺乏救生圈而溺亡。当我们说“如果没有被告破坏救生圈的行为”，我们想象的是哪个世界？我们知道我们要排除被告的行为，但我们要用什么来替代它？一个救生圈，或者说被大海摧毁了？一个被告没有破坏救生圈的世界，因为当没有其他人在场时，她已经把受害者推下水了，没有人可以将救生圈扔给受害者？等等等等。为了使反事实测试足够明确，以产生一个答案而不是另一个答案，我们必须假设那些应用这一测试的人具有指定某个明确可能世界的能力，这个可能世界与我们的实际世界相似，只是在那个世界中，被告没有做她在实际世界中所做的事情。
+第二组问题源于测试中的意义不确定性，而不是事实验证的困难。反事实判断存在很大的模糊性。这种模糊性在于指定我们要测试反事实的可能世界（Cole 1964a, b; Lewis 1973b）。假设被告疏忽地破坏了一个救生圈，一名水手因缺乏救生圈而溺亡。当我们说“如果没有被告破坏救生圈的行为”，我们想象的是哪个世界？我们知道我们要排除被告的行为，但我们要用什么来替代它？一个救生圈，或者说被大海摧毁了？一个被告没有破坏救生圈的世界，因为当没有其他人在场时，她已经把受害者推下水了，没有人可以将救生圈扔给受害者？等等等等。为了使反事实测试足够明确，以产生一个答案而不是另一个答案，我们必须假设那些应用这一测试的人具有指定某个明确可能世界的能力，这个可能世界与我们的实际世界相似，只是在那个世界中，被告没有做她在实际世界中所做的事情。
 
 第三和第四组问题源于反事实测试无法与我们大多数人（包括法官）的坚定因果直觉相匹配。第三组问题是因为反事实测试似乎对于什么算作原因过于宽容。批评是这个测试因此过于包容。第四组问题是因为反事实测试似乎对于什么算作原因过于严格。这里的批评是这个测试因此过于不包容。
 
-测试的过度包容性主要是在巧合的情况下提出的。假设被告在_t_1 故意延误了他的火车；在_t_2，火车在轨道上更远的地方被洪水冲击（*Denny v. New York Central RR*）。如果在_t_1 没有延误，那么在_t_2 就不会有损害或生命丧失。在这种情况下，反事实测试得出了令人不快的结果，即被告的延误导致了伤害。这种明显巧合的情况很少见，但它们只是冰山一角，因为无数遥远的条件对于任何事件的发生都是必要的。英格兰空气中的氧气，苏格兰的木材，亨利八世的肥胖，以及弗朗西斯·德雷克的洞察力，这些都可能是英格兰击败西班牙无敌舰队所必需的；但我们应该不愿意说每一个都是那场失败的原因。问题在于纳入不作为作为原因：西班牙无敌舰队也因为火星飞船没有出现而失败。（Walen 2022）
+测试的过度包容性主要是在巧合的情况下提出的。假设被告在_t_1 故意延误了他的火车；在_t_2，火车在轨道上更远的地方被洪水冲击（*Denny v. New York Central RR*）。如果在_t_1 没有延误，那么在_t_2 就不会有损害或生命丧失。在这种情况下，反事实测试得出了令人不快的结果，即被告的延误导致了伤害。这种明显巧合的情况很少见，但它们只是冰山一角，因为无数遥远的条件对于任何事件的发生都是必要的。英格兰空气中的氧气，苏格兰的木材，亨利八世的肥胖，以及弗朗西斯 · 德雷克的洞察力，这些都可能是英格兰击败西班牙无敌舰队所必需的；但我们应该不愿意说每一个都是那场失败的原因。问题在于纳入不作为作为原因：西班牙无敌舰队也因为火星飞船没有出现而失败。（Walen 2022）
 
-对于反事实测试的第四组问题涉及测试的不充分性，主要体现在法律理论中的众所周知的过度决定案例中。这些案例是指每对两个事件_c_1 和_c_2 中的每一个都独立地足以导致第三个事件_e_。从逻辑上讲，_c_1 和_c_2 的足够性意味着_c_1 和_c_2 都不是_e_的必要条件，因此，在因果关系的反事实分析中，它们都不能成为_e_的原因。法律一致地拒绝了这一结论（尽管一些哲学家如大卫·刘易斯对于在这类案例中存在因果关系的直觉感到不确定），因此这些案例对法律中的因果关系的反事实分析构成了真正的问题。
+对于反事实测试的第四组问题涉及测试的不充分性，主要体现在法律理论中的众所周知的过度决定案例中。这些案例是指每对两个事件_c_1 和_c_2 中的每一个都独立地足以导致第三个事件_e_。从逻辑上讲，_c_1 和_c_2 的足够性意味着_c_1 和_c_2 都不是_e_的必要条件，因此，在因果关系的反事实分析中，它们都不能成为_e_的原因。法律一致地拒绝了这一结论（尽管一些哲学家如大卫 · 刘易斯对于在这类案例中存在因果关系的直觉感到不确定），因此这些案例对法律中的因果关系的反事实分析构成了真正的问题。
 
 法律理论家长期以来区分了两种不同类型的过度决定案例。第一种是同时原因案例：两场火灾、两次霰弹枪射击、两辆嘈杂的摩托车都足以烧毁、杀死或吓唬某个受害者。被告只对其中一场火灾、一次射击或一辆摩托车负责。然而，他的火灾、射击或噪音与另一场火灾、射击或摩托车同时发生，共同导致各种伤害。根据反事实分析，被告的火灾、射击或噪音并非任何伤害的原因，因为它对伤害的产生并非必要条件——毕竟，另一场火灾、射击或噪音本身就足够了。然而，第二场火灾、射击或噪音也可以这样说。因此，在但要测试中，两者都不是原因！这一结论对法律决策者来说似乎是荒谬的。
 
@@ -118,7 +118,7 @@
 
 #### 5.1.2 修改/放弃反事实检验
 
-捍卫“因果实证”分析的人并非对这四个异议无法回应（例如，在超定问题上，安德烈亚斯，阿姆加特和冈瑟 2023 年），但我们不打算进一步探讨这一点，而是将继续讨论已被用来替代反事实检验的其他测试，以避免这四个问题。关于超定案例提出的问题，最著名的替代方案是提出一个“INUS”（一个不充分但必要的元素，构成一个不必要但充分集合）测试（麦基 1980 年）或一个“NESS”（充分集合的必要元素）测试（赖特 1985b;2013 年）：事件_c_导致事件_e_当且仅当_c_是一组对_e_充分的条件中的一个必要元素，而该组本身对_e_并非必要。这些测试强调的是其中的“充分性”，据称可以回避超定问题。在并发原因案例中——两场充分的火灾联合烧毁受害者的房屋——每场火灾被认为是其自身充分集合的一个必要元素，因此每场火灾都是一个原因。在先发制人的情况下——火灾不会联合，第一场火灾在第二场火灾到达之前就已经到达——第一场火灾是一个充分集合的必要元素，因此是原因；第二场火灾不是，因为它被认为不是充分集合的一部分，即在破坏时并非充分（其集合中缺少要烧毁的房屋的存在）。
+捍卫“因果实证”分析的人并非对这四个异议无法回应（例如，在超定问题上，安德烈亚斯，阿姆加特和冈瑟 2023 年），但我们不打算进一步探讨这一点，而是将继续讨论已被用来替代反事实检验的其他测试，以避免这四个问题。关于超定案例提出的问题，最著名的替代方案是提出一个“INUS”（一个不充分但必要的元素，构成一个不必要但充分集合）测试（麦基 1980 年）或一个“NESS”（充分集合的必要元素）测试（赖特 1985b; 2013 年）：事件_c_导致事件_e_当且仅当_c_是一组对_e_充分的条件中的一个必要元素，而该组本身对_e_并非必要。这些测试强调的是其中的“充分性”，据称可以回避超定问题。在并发原因案例中——两场充分的火灾联合烧毁受害者的房屋——每场火灾被认为是其自身充分集合的一个必要元素，因此每场火灾都是一个原因。在先发制人的情况下——火灾不会联合，第一场火灾在第二场火灾到达之前就已经到达——第一场火灾是一个充分集合的必要元素，因此是原因；第二场火灾不是，因为它被认为不是充分集合的一部分，即在破坏时并非充分（其集合中缺少要烧毁的房屋的存在）。
 
 其他对反事实检验的修改也被采纳，以避免由于过度决定案例而存在测试问题。其中之一是《模范刑法评论》的“细粒度效应”方法。根据这一测试，人们不会问是否_某种类型的伤害_会发生，如果没有被告的行为；相反，人们会问，_实际发生的特定伤害_是否会以与被告的行为无关的确切方式发生。因此，在两场独立足够的火灾同时发生并导致烧毁受害者房屋的并发原因案例中，我们不会问，
 
@@ -146,25 +146,25 @@
 
 法律理论，像哲学一样，对因果关系持怀疑态度。大部分这种法律上的怀疑主要集中在法律中因果关系的传统两部分定义中的近因一半。正如我们很快将看到的那样，这种怀疑认为“近因”是一个误称，并以非因果、政策术语重新解释了近因要求。更激进的怀疑是在这里被考虑的。一些法律理论家对世界上被称为“因果关系”的自然关系持怀疑态度。这种怀疑包括法律所称的“实际原因”以及“近因”。
 
-在我们描述法律理论中的这种怀疑之前，我们最好确保我们对因果关系的怀疑有牢固的把握。以大卫·休谟为例，他经常被列为对因果关系持怀疑态度的人。休谟著名地将单一因果关系确定为时空位置的因果定律实例，并将因果定律确定为不过是事件类型之间序列的一致性。因此，休谟在因果关系上是一个双重的简化论者，最终将其归纳为规律性的同时发生。因此，他通常被称为怀疑论者。
+在我们描述法律理论中的这种怀疑之前，我们最好确保我们对因果关系的怀疑有牢固的把握。以大卫 · 休谟为例，他经常被列为对因果关系持怀疑态度的人。休谟著名地将单一因果关系确定为时空位置的因果定律实例，并将因果定律确定为不过是事件类型之间序列的一致性。因此，休谟在因果关系上是一个双重的简化论者，最终将其归纳为规律性的同时发生。因此，他通常被称为怀疑论者。
 
-因为休谟的分析剥离了因果关系中的“胶水”——一个原因并不会_导致_其效果发生，它只是其效果的常规跟随者——因此通常被归类为怀疑论者。在某种意义上，如果将导致事情发生的“胶水”视为任何被适当称为“因果”的关系所必不可少，那么它确实是怀疑的。但休谟的观点并不够激进，无法被视为法律理论家所指的怀疑论。因为休谟提出了所罗尔·克里普克称之为“怀疑解决方案”的因果问题（1982: 66–68）：休谟并不否认因果关系的存在，但他将其简化为比“胶水”本体论上更不奇怪的东西。
+因为休谟的分析剥离了因果关系中的“胶水”——一个原因并不会_导致_其效果发生，它只是其效果的常规跟随者——因此通常被归类为怀疑论者。在某种意义上，如果将导致事情发生的“胶水”视为任何被适当称为“因果”的关系所必不可少，那么它确实是怀疑的。但休谟的观点并不够激进，无法被视为法律理论家所指的怀疑论。因为休谟提出了所罗尔 · 克里普克称之为“怀疑解决方案”的因果问题（1982: 66–68）：休谟并不否认因果关系的存在，但他将其简化为比“胶水”本体论上更不奇怪的东西。
 
-在此处考虑的激进怀疑的更好模型是赫伯特·哈特曾经持有的“归因主义”观点（但后来否认了）。在对我们使用诸如“*A_打了_B*”之类的动作使役动词的分析中，哈特强调我们_描述_没有自然关系（比如_A_导致_B_身体接触），而是我们_归因_责任给_A_造成_B_身体接触。如果奥斯汀之前的言语行为分析是正确的，那么使役动词（类似地，更明确的因果词）只会是用来表达关于责任的结论的标签。这些词并不命名真实关系，这些关系可以成为归因责任给某人的理由。
+在此处考虑的激进怀疑的更好模型是赫伯特 · 哈特曾经持有的“归因主义”观点（但后来否认了）。在对我们使用诸如“*A_打了_B*”之类的动作使役动词的分析中，哈特强调我们_描述_没有自然关系（比如_A_导致_B_身体接触），而是我们_归因_责任给_A_造成_B_身体接触。如果奥斯汀之前的言语行为分析是正确的，那么使役动词（类似地，更明确的因果词）只会是用来表达关于责任的结论的标签。这些词并不命名真实关系，这些关系可以成为归因责任给某人的理由。
 
 这就是这里考虑的法律怀疑论者的结论。这些怀疑论者似乎否认因果关系存在为任何一种自然关系，无论是“胶水般”的自然关系，自然界中的常规相互关系，还是其他什么。因为从历史角度来看，最容易接近这种怀疑论，我将从名不副实的美国法律现实主义者开始（名不副实，因为在哲学意义上他们根本不是现实主义者），几乎所有关于直接因果关系的怀疑也源自他们。
 
 #### 5.2.1 美国法律现实主义者对因果关系的怀疑
 
-大部分亨利·埃奇顿（Henry Edgerton）备受引用的作品详细阐述了他对近因果的怀疑。然而，其中一些揭示了他对实际原因要求也持怀疑态度。例如，他指出，对称同时超定案例根据当时的实际原因信条被分为两派：如果有两个_有过失的行为者_纵火（火相遇形成更大的火灾烧毁原告的房屋），则每个行为者都是破坏的原因；但当只有一个火灾是有过失起源的，另一个是自然的或_无辜_的人为起源时，有过失的行为者就不是破坏的原因。根据这些例子，埃奇顿暗示实际原因要求（就像近因果要求一样）完全是一种政策问题，取决于“我们对正义的自由和独立感以及——也许——社会利益”。
+大部分亨利 · 埃奇顿（Henry Edgerton）备受引用的作品详细阐述了他对近因果的怀疑。然而，其中一些揭示了他对实际原因要求也持怀疑态度。例如，他指出，对称同时超定案例根据当时的实际原因信条被分为两派：如果有两个_有过失的行为者_纵火（火相遇形成更大的火灾烧毁原告的房屋），则每个行为者都是破坏的原因；但当只有一个火灾是有过失起源的，另一个是自然的或_无辜_的人为起源时，有过失的行为者就不是破坏的原因。根据这些例子，埃奇顿暗示实际原因要求（就像近因果要求一样）完全是一种政策问题，取决于“我们对正义的自由和独立感以及——也许——社会利益”。
 
-这种法律现实主义结论的相对较晚出现是韦克斯·马龙（Wex Malone）的著名作品（1956 年）。马龙主要关注了 20 世纪 50 年代困扰因果哲学家的一个问题：我们如何确定某个事件的“*原因”* 的实用特征（Feinberg 1970: 143–147）。马龙发现，毫不奇怪，只有特定背景下的实际利益指导着这种强调因果关系的说法，并怀疑地得出结论，这就是因果关系本身的全部内容。被说成是某种伤害的“原因”只是另一种方式表明某人对这种伤害负有责任。马龙对因果选择的关注最近又被重新提起（Knobe and Shapiro 2021），尽管对道德在因果推理中的作用得出的结论比马龙和其他法律现实主义者更为谨慎。
+这种法律现实主义结论的相对较晚出现是韦克斯 · 马龙（Wex Malone）的著名作品（1956 年）。马龙主要关注了 20 世纪 50 年代困扰因果哲学家的一个问题：我们如何确定某个事件的“*原因”* 的实用特征（Feinberg 1970: 143–147）。马龙发现，毫不奇怪，只有特定背景下的实际利益指导着这种强调因果关系的说法，并怀疑地得出结论，这就是因果关系本身的全部内容。被说成是某种伤害的“原因”只是另一种方式表明某人对这种伤害负有责任。马龙对因果选择的关注最近又被重新提起（Knobe and Shapiro 2021），尽管对道德在因果推理中的作用得出的结论比马龙和其他法律现实主义者更为谨慎。
 
 #### 5.2.2 批判法律理论家对因果关系的怀疑
 
 美国法律现实主义的怀疑在法律理论中有两个智力传人。其中之一是自称为“批判”理论家的批判法律研究运动（或“Crits”），其鼎盛时期是在 20 世纪 70 年代和 80 年代的美国。这一运动的许多怀疑仅仅是翻炒后现代主义，后者本身在法律以外的许多学科中只是一时的时尚（Moore 1989）。更有趣的智力批评不是基于后现代主义的陈词滥调，而是针对因果关系的特定批评。
 
-马克·凯尔曼（Mark Kelman）的怀疑是属于后一种类型。凯尔曼主张，法律中的所有因果要求都是“自由主义神话”的一部分，即客观责任标准，但凯尔曼并没有再次重复历史定位的认识者的陈词滥调，而是实际上针对法律的实际原因测试提出了一些论据，否认这些测试反映了自然事实中的任何东西。凯尔曼准确地认识到反事实理论的 NESS 变体是其无效版本，并提出了一些对该变体的批评，其他非因果怀疑者也一直在追求。从对反事实因果理论的这一变体的认为失败，凯尔曼得出结论，实际上因果本身不能成为事实问题（凯尔曼 1987）。
+马克 · 凯尔曼（Mark Kelman）的怀疑是属于后一种类型。凯尔曼主张，法律中的所有因果要求都是“自由主义神话”的一部分，即客观责任标准，但凯尔曼并没有再次重复历史定位的认识者的陈词滥调，而是实际上针对法律的实际原因测试提出了一些论据，否认这些测试反映了自然事实中的任何东西。凯尔曼准确地认识到反事实理论的 NESS 变体是其无效版本，并提出了一些对该变体的批评，其他非因果怀疑者也一直在追求。从对反事实因果理论的这一变体的认为失败，凯尔曼得出结论，实际上因果本身不能成为事实问题（凯尔曼 1987）。
 
 从法律现实主义者和批判者的怀疑中所应产生的一般积极规定并不那么清晰。人们认为，一旦怀疑（关于因果关系是否是客观事实问题）消除了局限，我们就能看到只有利益和政策才能让我们得出关于道德责任和法律责任的结论。因此，可以推断，积极的规定是让我们公开地这样做，平衡决定谁应该承担责任的所有相关政策考虑因素，然后将这些责任结论表述为什么导致了什么。
 
@@ -224,17 +224,17 @@ _Ad hoc_和基于规则的政策测试的主要问题并不在于它们的“功
 
 第二种情况涉及通常被称为“介入”或“超越”的原因。假设被告将爆炸物放在监狱墙旁，打算炸毁墙壁并让某些囚犯逃走。他几乎可以肯定地预见到爆炸会杀死墙壁另一侧的警卫。他点燃了炸弹的引线然后离开。事实上，引线熄灭了。然而，一个陌生人经过墙边，看到了炸弹，重新点燃了引线以获得看到爆炸的乐趣；或者，闪电击中了引线，重新点燃了引线并引爆了炸弹。当墙壁另一侧的警卫被爆炸杀死时，介入原因的标准原则认为被告并没有在法律上造成警卫的死亡。然而，这与似乎应该根据风险内的伤害测试得出的结果难以调和。毕竟，被告难道没有预见到发生的这种伤害的类型吗？因为风险内的伤害问题是一个简单的类型到标记的问题——发生的特定伤害是否是被告的预见使他有罪的那种伤害的一个实例——这个测试对因果路径的古怪性是盲目的。
 
-美国法律学会的《模范刑法典》通过在第 2.03 节中修改了对危险内伤害测试的采纳，否认了对于危险内伤害过于遥远或偶然发生而无法对行为人的责任或其罪行的严重性产生\[公正]影响的责任（美国法律学会 1962 年）。这种措辞并非旨在作为一般独立的近因因果测试，有时被解释为如此（Dan-Cohen 1983）。相反，这种措辞对《模范刑法典》中更一般的危险内伤害测试提出了一个限定性的警告。这样的警告明确承认了危险内伤害测试无法解决通常作为干扰原因问题而被裁决的问题。
+美国法律学会的《模范刑法典》通过在第 2.03 节中修改了对危险内伤害测试的采纳，否认了对于危险内伤害过于遥远或偶然发生而无法对行为人的责任或其罪行的严重性产生\[公正] 影响的责任（美国法律学会 1962 年）。这种措辞并非旨在作为一般独立的近因因果测试，有时被解释为如此（Dan-Cohen 1983）。相反，这种措辞对《模范刑法典》中更一般的危险内伤害测试提出了一个限定性的警告。这样的警告明确承认了危险内伤害测试无法解决通常作为干扰原因问题而被裁决的问题。
 
-这种认识远远不足以涵盖危险内伤害方法的不足。这一测试的基本问题在于它忽视了传统上在法律原因概念下裁决的_所有_问题。这一测试不仅对干扰原因情况中因果路径的离奇性视而不见，不仅对前因与后发异常之间的区别视而不见，这对解决薄头骨人类问题至关重要，而且这一测试还忽视了所有那些远因问题，这些问题试图被弗朗西斯·培根爵士创造的“近因因果”所捕捉。即使在没有像干扰原因案例中那样因果链上的突然“中断”时，人们仍然强烈感觉到因果关系在空间和时间上逐渐消失。凯撒过卢比孔可能是您阅读本文的必要条件，但是还有许多其他事件也做出了贡献，以至于凯撒的因果责任早已消失。危险内伤害测试核心的逻辑关系——“发生的特定伤害是否是那种风险、预见或意图使被告有罪的伤害的一种实例？”——无法捕捉到这种对远因的敏感性。因此，危险内伤害测试对在“法律原因”下裁决的基本问题视而不见。危险内伤害测试提出了一个问题，这个问题很好地服务于基于正义的侵权行为和刑法理论，但它提出了错误的问题，并代替了其他需要回答的问题，以便评估应得的报酬。
+这种认识远远不足以涵盖危险内伤害方法的不足。这一测试的基本问题在于它忽视了传统上在法律原因概念下裁决的_所有_问题。这一测试不仅对干扰原因情况中因果路径的离奇性视而不见，不仅对前因与后发异常之间的区别视而不见，这对解决薄头骨人类问题至关重要，而且这一测试还忽视了所有那些远因问题，这些问题试图被弗朗西斯 · 培根爵士创造的“近因因果”所捕捉。即使在没有像干扰原因案例中那样因果链上的突然“中断”时，人们仍然强烈感觉到因果关系在空间和时间上逐渐消失。凯撒过卢比孔可能是您阅读本文的必要条件，但是还有许多其他事件也做出了贡献，以至于凯撒的因果责任早已消失。危险内伤害测试核心的逻辑关系——“发生的特定伤害是否是那种风险、预见或意图使被告有罪的伤害的一种实例？”——无法捕捉到这种对远因的敏感性。因此，危险内伤害测试对在“法律原因”下裁决的基本问题视而不见。危险内伤害测试提出了一个问题，这个问题很好地服务于基于正义的侵权行为和刑法理论，但它提出了错误的问题，并代替了其他需要回答的问题，以便评估应得的报酬。
 
-我们现在从基于政策的近因因果测试转向基于这样一种观点的测试，即近因因果，就像实际原因一样，与世界上真实的因果关系有关。这些测试中最古老的是由弗朗西斯·培根爵士创造的“*causa proxima*”（1630 年：第一格言）所建议的测试。这种遥远性测试背后的简单想法是，因果关系是一种标量关系——一种或多或少的事物，而不是一种全有或全无的事物，并且随着时间的推移逐渐减弱。
+我们现在从基于政策的近因因果测试转向基于这样一种观点的测试，即近因因果，就像实际原因一样，与世界上真实的因果关系有关。这些测试中最古老的是由弗朗西斯 · 培根爵士创造的“*causa proxima*”（1630 年：第一格言）所建议的测试。这种遥远性测试背后的简单想法是，因果关系是一种标量关系——一种或多或少的事物，而不是一种全有或全无的事物，并且随着时间的推移逐渐减弱。
 
 对遥远性测试的批评在法律文献中经常提出，即空间距离和时间上的遥远与因果贡献的程度无关。像_People v. Botkin_这样的例子，其中毒糖果经过很长距离（从加利福尼亚到新泽西的受害者），或者一个未爆炸的炸弹被埋藏多年后爆炸并伤害受害者，都被用来支持这一批评。卡多佐大法官反驳说，这种批评显然违背了社区强烈的情感，即时空距离确实对因果贡献的程度有影响（*Bird v. St. Paul F. and Minneapolis Ins. Co*），但人们希望能做得更好。时空距离也许是因果关系通过其对效果产生影响的事件或状态的数量的一个可用代理，而事件的数量可能与因果贡献的程度有关。这是因果关系“疲劳”通过其链接的形而上观点，从而关系并非完全是一个传递性的关系。
 
 一种基于因果的近因测试的第二种完全不同的类型是“直接原因”测试。尽管名字如此，这个测试并不要求在原因和其效果之间完全没有任何事件或状态干涉，才能被视为“直接”。即使在侵权行为中的侵权和侵权案例之间的古老的直接/间接区分也没有这么严格地要求直接性（对于侵权；*Scott v. Shepard*）。相反，即使是相当长的链条延伸到相当长的空间和时间，这些链条也可以足够“直接”以通过直接原因测试。只有当一种特殊类型的事件——“干预”（又称“替代”，“外部”）原因——干涉时，链条才不够直接。因此，直接原因测试的核心思想是存在这些打破链条的干预原因。
 
-从 1950 年代的一系列文章开始，直到他们于 1959 年出版的大部头著作《法律中的因果关系》，第二版于 1985 年出版，赫伯特·哈特和托尼·奥诺雷试图描述他们认为法律从日常因果关系成语中采纳的干预因果关系的概念。我们可以最容易地从三个步骤中看出他们的概念。首先，假设某种反事实分析版本：原因至少是其效果的必要条件，或许是一个 NESS 条件（奥诺雷 1997）。其次，原因不仅仅是_任何_必要条件；相反，在发生任何事件所需的众多条件中，只有两种条件有资格成为原因，而不仅仅是“背景条件”：自由、知情、自愿的人类行为，以及我们口头上称之为“巧合”的自然事件的异常结合。第三，只有在第一个此类事件和其假定效果之间没有其他自愿人类行为或异常自然事件干预时，这种自愿人类行为和异常自然事件才会导致给定的效果。换句话说，这些显著事件既是因果链的断裂者（“干预原因”），也是因果链的发起者，因此如果它们干预，它们会将所有较早的此类事件降级为纯粹的背景条件。
+从 1950 年代的一系列文章开始，直到他们于 1959 年出版的大部头著作《法律中的因果关系》，第二版于 1985 年出版，赫伯特 · 哈特和托尼 · 奥诺雷试图描述他们认为法律从日常因果关系成语中采纳的干预因果关系的概念。我们可以最容易地从三个步骤中看出他们的概念。首先，假设某种反事实分析版本：原因至少是其效果的必要条件，或许是一个 NESS 条件（奥诺雷 1997）。其次，原因不仅仅是_任何_必要条件；相反，在发生任何事件所需的众多条件中，只有两种条件有资格成为原因，而不仅仅是“背景条件”：自由、知情、自愿的人类行为，以及我们口头上称之为“巧合”的自然事件的异常结合。第三，只有在第一个此类事件和其假定效果之间没有其他自愿人类行为或异常自然事件干预时，这种自愿人类行为和异常自然事件才会导致给定的效果。换句话说，这些显著事件既是因果链的断裂者（“干预原因”），也是因果链的发起者，因此如果它们干预，它们会将所有较早的此类事件降级为纯粹的背景条件。
 
 哈特和霍诺雷基于大量案例法支持，为他们对介入原因的两个候选人建立了基础（卡彭特 1932 年，1940-43 年；埃尔德里奇 1937 年）。事实上，可以说刑法中主体责任和从犯责任之间的基本区别在很大程度上取决于对因果关系的这种概念化（卡迪什 1985 年），侵权法中“共同行动”和“同时犯罪者”这两种共同侵权人的区别也是如此。然而，对于这种因果关系的观点，一个担忧是它在通常在法律下以“法律原因”为名处理的遥远范围问题上是不完整的。在法律中，因果关系在很大程度上是逐渐消失的，正如它突然中断一样，而直接原因分析忽略了这一点。
 
@@ -244,7 +244,7 @@ _Ad hoc_和基于规则的政策测试的主要问题并不在于它们的“功
 
 我们已经在事实原因的反事实测试的第四种变体中看到了其中一种。如果不问被告的_行为_是否对伤害的发生是必要的——如果相反更具区分性地问是否她的行为中使她疏忽或以其他方式有过失的_方面_导致了伤害——那么一个几乎与简单的反事实测试相当具有区分性的因果测试就产生了，再加上直接因果关系测试中的风险范围内伤害版本（Keeton 1963; Wright 1985b）。这并不奇怪，因为这两种测试都排除了被告行为中不使其有过失的任何方面。对于方面-因果观来说，被告行为中与过失无关的方面并非（相关的）伤害原因；对于风险范围内伤害测试来说，被告行为中与过失无关的方面不符合被告的有过失的心态。无论是将其称为因果关系（方面-原因观），还是称为过失（风险范围内伤害观），其区分能力大致相同。
 
-第二个统一的因果法律观是这些提议中最古老的。它将因果看作是一个形而上学的原始概念。因果关系不能归纳为任何其他类型的事物，因此关于它我们可以说的很少，陪审团也应该被告知的很少（Smith 1911）。我们唯一可以说的是，因果关系是一个标量关系，也就是说，是一个程度问题。某事物可以是某事件的原因比另一事物更多。鉴于因果关系的标量性，法律所需做的就是在标记因果贡献程度的标度上划定责任的界线。在涉及平滑连续体的问题上，选择一个精确的分界点是极具武断性的；中年和老年之间的界线在哪里，红色和粉色之间的界线在哪里，秃头和非秃头之间的界线在哪里，或者造成和未造成之间的界线在哪里？因此，这种方法选择了一个适当模糊的界线，低于这个界线，某人对特定伤害的因果贡献将被忽略以评估责任。只有当被告对某一伤害的因果贡献程度达到某种非最低或“实质性”程度时，才让其对某些伤害负责和承担责任。这就是 1911 年由杰里米亚·史密斯提出的最初的“实质因素”测试。对于常见的反对意见，即该测试告诉我们很少，其辩护者回应说这是一种优点，而不是一种缺点，因为关于因果关系很少有什么可以说的。就像硬核色情片一样，因果关系是我们“看到就知道”的东西（波特·斯图尔特在雅各贝利斯诉俄亥俄州案中关于色情片的表述），无需一般性定义和测试（Borgo 1979）。
+第二个统一的因果法律观是这些提议中最古老的。它将因果看作是一个形而上学的原始概念。因果关系不能归纳为任何其他类型的事物，因此关于它我们可以说的很少，陪审团也应该被告知的很少（Smith 1911）。我们唯一可以说的是，因果关系是一个标量关系，也就是说，是一个程度问题。某事物可以是某事件的原因比另一事物更多。鉴于因果关系的标量性，法律所需做的就是在标记因果贡献程度的标度上划定责任的界线。在涉及平滑连续体的问题上，选择一个精确的分界点是极具武断性的；中年和老年之间的界线在哪里，红色和粉色之间的界线在哪里，秃头和非秃头之间的界线在哪里，或者造成和未造成之间的界线在哪里？因此，这种方法选择了一个适当模糊的界线，低于这个界线，某人对特定伤害的因果贡献将被忽略以评估责任。只有当被告对某一伤害的因果贡献程度达到某种非最低或“实质性”程度时，才让其对某些伤害负责和承担责任。这就是 1911 年由杰里米亚 · 史密斯提出的最初的“实质因素”测试。对于常见的反对意见，即该测试告诉我们很少，其辩护者回应说这是一种优点，而不是一种缺点，因为关于因果关系很少有什么可以说的。就像硬核色情片一样，因果关系是我们“看到就知道”的东西（波特 · 斯图尔特在雅各贝利斯诉俄亥俄州案中关于色情片的表述），无需一般性定义和测试（Borgo 1979）。
 
 这些统一的因果观念中的第三个也是最后一个，其野心是唯物主义的。一些理论家认为，我们可以对因果关系的本质说得更多，不仅仅是它是标量的，还需要有相当数量的因果关系才能承担责任。在这第三种观点中，因果关系的本质可以在物理学的机械概念中找到：物质运动、能量、力量（Beale 1895, 1920; Epstein 1973）。这个测试与实质因素观类似，因为它认为因果关系是标量的，但在其还原主义野心上有所不同：因果关系不是一个原始概念，而是可以归纳为某种物理过程。
 
@@ -306,90 +306,90 @@ _Ad hoc_和基于规则的政策测试的主要问题并不在于它们的“功
 * –––, 1985, *Commentaries on the Model Penal Code*, § 2.03(1).
 * –––, 2010, *Restatement (Third) of Torts: Liability for Physical and Emotional Harm*, secs. 26–36.
 * Andreas, Holger, Matthias Armgardt, and Mario Guenther, 2023, “Counterfactuals for Causal Responsibility in Legal Contexts”, *Artificial Intelligence and Law*, 31: 115–132.
-* Austin, J. L., 1957, “A Plea for Excuses”, *Proceedings of the Aristotelian Society*, 57(1): 1–30. doi:10.1093/aristotelian/57.1.1
+* Austin, J. L., 1957, “A Plea for Excuses”, *Proceedings of the Aristotelian Society*, 57(1): 1–30. doi: 10.1093/aristotelian/57.1.1
 * Bacon, Sir Francis, 1630, “Maxims of the Law”, in his *The Elements of the Common Law of England*, London: Assigns of I. Moore.
-* Beale, Joseph H., 1895, “Recovery for Consequences of an Act”, *Harvard Law Review*, 9(1): 80–89. doi:10.2307/1322317
-* –––, 1920, “The Proximate Consequences of an Act”, *Harvard Law Review*, 33(5): 633–658. doi:10.2307/1327211
+* Beale, Joseph H., 1895, “Recovery for Consequences of an Act”, *Harvard Law Review*, 9(1): 80–89. doi: 10.2307/1322317
+* –––, 1920, “The Proximate Consequences of an Act”, *Harvard Law Review*, 33(5): 633–658. doi: 10.2307/1327211
 * *Berry v. Borough of Sugar Notch*, 43 A. 240 (Pa. 1899).
 * *Bird v. St. Paul F. and Minneapolis Ins. Co.*, 224 N. Y. 47, 120 N.E. 86 (1918).
-* Borgo, John, 1979, “Causal Paradigms in Tort Law”, *The Journal of Legal Studies*, 8(3): 419–455. doi:10.1086/467616
+* Borgo, John, 1979, “Causal Paradigms in Tort Law”, *The Journal of Legal Studies*, 8(3): 419–455. doi: 10.1086/467616
 * Byrne, Thomas, 2021, “MAKING Metaphysics”, *Philosopher’s Imprint*, 21(20): 1–18.
 * –––, 2023, “Legal Causation”, *Jurisprudence*, 14(1): 55–75.
-* Calabresi, Guido, 1961, “Some Thoughts on Risk Distribution and the Law of Torts”, *Yale Law Journal*, 70(4): 499–553. doi:10.1086/467495
+* Calabresi, Guido, 1961, “Some Thoughts on Risk Distribution and the Law of Torts”, *Yale Law Journal*, 70(4): 499–553. doi: 10.1086/467495
 * –––, 1975, “Concerning Cause and the Law of Torts: An Essay for Harry Kalven, Jr”., *University of Chicago Law Review*, 43(1): 69–108.
-* Carpenter, Charles E., 1932, “Workable Rules for Determining Proximate Cause”, *California Law Review*, 20(3): 229–259; 20(4): 396–419; 20(5): 471–539. doi:10.2307/3475308 doi:10.2307/3475371 doi:10.2307/3475743
+* Carpenter, Charles E., 1932, “Workable Rules for Determining Proximate Cause”, *California Law Review*, 20(3): 229–259; 20(4): 396–419; 20(5): 471–539. doi: 10.2307/3475308 doi: 10.2307/3475371 doi: 10.2307/3475743
 * –––, 1940–1943, “Proximate Cause”, *Southern California Law Review*, 14: 1–34, 115–153, 416–451; 15: 187–213, 304–321, 427–468; 16: 1–23, 61–92, 275–313.
-* Coase, Ronald H., 1960, “The Problem of Social Cost”, *The Journal of Law and Economics*, 3: 1–44. doi:10.1086/466560
-* Cohen, Felix S., 1935, “Transcendental Nonsense and the Functional Approach”, *Columbia Law Review*, 35(6): 809–849. doi:10.2307/1116300
-* –––, 1937, “The Problems of a Functional Jurisprudence”, *The Modern Law Review*, 1(1): 5–26. doi:10.1111/j.1468-2230.1937.tb00004.x
-* Cole, Robert H., 1964a, “Windfall and Probability: A Study of ‘Cause’ in Negligence Law: Part I. Uses of Causal Language”, *California Law Review*, 52(3): 459–512. doi:10.2307/3479196
-* –––, 1964b, “Windfall and Probability: A Study of ‘Cause’ in Negligence Law: Part II. Factual Uncertainty and Competitive Fairness”, *California Law Review*, 52(4): 764–821. doi:10.2307/3479050
+* Coase, Ronald H., 1960, “The Problem of Social Cost”, *The Journal of Law and Economics*, 3: 1–44. doi: 10.1086/466560
+* Cohen, Felix S., 1935, “Transcendental Nonsense and the Functional Approach”, *Columbia Law Review*, 35(6): 809–849. doi: 10.2307/1116300
+* –––, 1937, “The Problems of a Functional Jurisprudence”, *The Modern Law Review*, 1(1): 5–26. doi: 10.1111/j.1468-2230.1937.tb00004.x
+* Cole, Robert H., 1964a, “Windfall and Probability: A Study of ‘Cause’ in Negligence Law: Part I. Uses of Causal Language”, *California Law Review*, 52(3): 459–512. doi: 10.2307/3479196
+* –––, 1964b, “Windfall and Probability: A Study of ‘Cause’ in Negligence Law: Part II. Factual Uncertainty and Competitive Fairness”, *California Law Review*, 52(4): 764–821. doi: 10.2307/3479050
 * Dan-Cohen, Meir, 1983, “Causation”, in *Encyclopedia of Crime and Justice*, Sanford H. Kadish (ed.), New York: Free Press, I: 165–166.
 * *Denny v. N.Y. Central R.R.*, 13 Gray (Mass.) 481 (1859).
 * Dressler, Joshua, 1995, *Understanding Criminal Law*, second edition, New York: Matthew-Bender.
-* Edgerton, Henry W., 1924, “Legal Cause”, *University of Pennsylvania Law Review and American Law Register*, 72(3): 211–244, 72(4): 343–375. doi:10.2307/3314478 doi:10.2307/3314220
-* Eldredge, Laurence H., 1937, “Culpable Intervention as Superseding Cause”, *University of Pennsylvania Law Review and American Law Register*, 86(2): 135. doi:10.2307/3308858
-* Epstein, Richard A., 1973, “A Theory of Strict Liability”, *The Journal of Legal Studies*, 2(1): 151–204. doi:10.1086/467495
+* Edgerton, Henry W., 1924, “Legal Cause”, *University of Pennsylvania Law Review and American Law Register*, 72(3): 211–244, 72(4): 343–375. doi: 10.2307/3314478 doi: 10.2307/3314220
+* Eldredge, Laurence H., 1937, “Culpable Intervention as Superseding Cause”, *University of Pennsylvania Law Review and American Law Register*, 86(2): 135. doi: 10.2307/3308858
+* Epstein, Richard A., 1973, “A Theory of Strict Liability”, *The Journal of Legal Studies*, 2(1): 151–204. doi: 10.1086/467495
 * Feinberg, Joel, 1970, “Action and Responsibility”, in *Doing and Deserving: Essays in the Theory of Responsibility*, Princeton, NJ: Princeton University Press, 119–151.
 * Fisher, David A., 1992, “Causation in Fact in Omission Cases”, *Utah Law Review*, \[1992]: 1335–1384.
-* Fuller, Lon, 1958, “Positivism and Fidelity to Law – A Reply to Professor Hart”, *Harvard Law Review*, 71(4): 630–672.
-* Green, Leon, 1929, “Are There Dependable Rules of Causation?”, *University of Pennsylvania Law Review and American Law Register*, 77(5): 601–628. doi:10.2307/3307290
-* –––, 1967, “The Wagon Mound No. 2: Foreseeability Revised”, *Utah Law Review*, \[1967]: 197–206.
+* Fuller, Lon, 1958, “Positivism and Fidelity to Law – A Reply to Professor Hart”, * Harvard Law Review*, 71(4): 630–672.
+* Green, Leon, 1929, “Are There Dependable Rules of Causation?”, * University of Pennsylvania Law Review and American Law Register*, 77(5): 601–628. doi: 10.2307/3307290
+* –––, 1967, “The Wagon Mound No. 2: Foreseeability Revised”, * Utah Law Review *, \[1967]: 197–206.
 * Halpern, Joseph, 2019, *Actual Causation*, Cambridge, MA: Harvard University Press.
-* Hart, H. L. A., 1949, “The Ascription of Responsibility and Rights”, *Proceedings of the Aristotelian Society*, 49(1): 171–194. doi:10.1093/aristotelian/49.1.171
+* Hart, H. L. A., 1949, “The Ascription of Responsibility and Rights”, *Proceedings of the Aristotelian Society*, 49(1): 171–194. doi: 10.1093/aristotelian/49.1.171
 * –––, 1968, *Punishment and Responsibility*, Oxford: Oxford University Press.
 * Hart, H.L.A., and Honoré, A.M., 1956, “Causation in the Law”, *Law Quarterly Review*, 72(1): 58–90, 72(2): 260–281, 72(3): 398–417.
 * –––, 1959, *Causation in the Law*, Oxford: Oxford University Press.
-* –––, 1985, *Causation in the Law*, second edition, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198254744.001.0001
-* Honoré, Tony, 1997, “Necessary and Sufficient Conditions in Tort Law”, in *The Philosophical Foundations of Tort Law*, David G. Owen (ed.), Oxford: Oxford University Press, 363–386. doi:10.1093/acprof:oso/9780198265795.003.0017
+* –––, 1985, *Causation in the Law*, second edition, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198254744.001.0001
+* Honoré, Tony, 1997, “Necessary and Sufficient Conditions in Tort Law”, in *The Philosophical Foundations of Tort Law*, David G. Owen (ed.), Oxford: Oxford University Press, 363–386. doi: 10.1093/acprof: oso/9780198265795.003.0017
 * *Jacobellis v. Ohio*, 378 U.S. 184, 197 (1961) (Stewart, J., concurring).
 * Johnson, Eric A., 2005, “Lost Chance in Criminal Cases”, *Iowa Law Review*, 91: 66–71.
 * –––, 2016, “Cause-in-Fact *After Burrage v. United States*”, *Florida Law Review*, 68(6): 1727–1771. \[[Johnson 2016 available online](https://scholarship.law.ufl.edu/flr/vol68/iss6/15)]
 * –––, 2021, “Dividing Risks: Towards a Determinate Test of Proximate Causation”, *Illinois Law Review*, \[2021]: 925–982.
-* Kadish, Sanford H., 1985, “Complicity, Cause and Blame: A Study in the Interpretation of Doctrine”, *California Law Review*, 73(2): 323–410. doi:10.2307/3480313
-* Kahmen, Benedikt and Markus S. Stepanians, (eds.), 2013, *Critical Essays on “Causation and Responsibility”*, Berlin: De Gruyter.
-* Keeton, Robert, 1963, *Legal Cause in the Law of Torts*, Columbus, OH: Ohio State University Press.
-* Kelman, Mark, 1987, “The Necessary Myth of Objective Causation Judgments in Liberal Political Theory”, *Chicago-Kent Law Review*, 63(3): 579–637. \[[Kelman 1987 available online](https://scholarship.kentlaw.iit.edu/cklawreview/vol63/iss3/9)]
-* Knobe, Joshua and Scott J. Shapiro, 2021, “Proximate Cause Explained: An Essay in Experimental Jurisprudence,” *University of Chicago Law Review*, 88(1): 165–236.
-* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language*, Cambridge, MA: Harvard University Press.
-* Lagnado, David A., and Tobias Gerstenberg, 2017, “Causation in Legal and Moral Reasoning”, in Waldmann (ed.) 2017, *The Oxford Handbook of Causal Reasoning*, Oxford: Oxford University Press, 565–601.
-* Landes, William M. and Richard A. Posner, 1983, “Causation in Tort Law: An Economic Approach”, *The Journal of Legal Studies*, 12(1): 109–134. doi:10.1086/467716
-* Larremore, Wilbur, 1909, “Negligence and the Act of God”, *Yale Law Journal*, 18(5): 338–342. doi:10.2307/785759
-* Lewis, David, 1973a, “Causation”, *The Journal of Philosophy*, 70(17): 556–567. doi:10.2307/2025310
-* Lewis, David, 1973b, *Counterfactuals*, Oxford: Blackwell.
-* –––, 1986, “Postscripts to ‘Causation’”, *Philosophical Papers*, II, Oxford: Oxford University Press, pp. 172–213.
-* Mackie, J. L., 1980, *The Cement of the Universe: A Study of Causation*, Oxford: Oxford University Press. doi:10.1093/0198246420.001.0001
-* Malone, Wex S., 1956, “Ruminations on Cause-in-Fact”, *Stanford Law Review*, 9(1): 60–99. doi:10.2307/1226919
-* Moore, Michael S., 1989, “The Interpretive Turn in Modern Theory: A Turn for the Worse?”, *Stanford Law Review*, 41(4): 871–957; reprinted as chapter 10 of Moore, *Educating Oneself in Public: Critical Essays in Jurisprudence*, Oxford: Oxford University Press, 2000. doi:10.2307/1228741
-* –––, 2009a, *Causation and Responsibility: An Essay in Law, Morals, and Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199256860.001.0001
-* –––, 2009b, “Introduction: The Nature of Singularist Theories of Causation”, *Monist*, 92(1): 3–22. Reprinted in Moore 2009a: chapter 20. doi:10.5840/monist20099211
-* –––, 2011a, “Intention as a Marker of Moral Culpability and Legal Punishability”, in *Philosophical Foundations of Criminal Law*, R.A. Duff and Stuart Green (eds.), Oxford: Oxford University Press, 179–205. Revised and reprinted as chapter 4 of Moore, *Mechanical Choices: The Responsibility of the Human Machine*, Oxford: Oxford University Press, forthcoming. doi:10.1093/acprof:oso/9780199559152.003.0009
-* –––, 2011b, “Causation Revisited”, *Rutgers Law Journal*, 42: 451–509.
+* Kadish, Sanford H., 1985, “Complicity, Cause and Blame: A Study in the Interpretation of Doctrine”, * California Law Review*, 73(2): 323–410. doi: 10.2307/3480313
+* Kahmen, Benedikt and Markus S. Stepanians, (eds.), 2013, * Critical Essays on “Causation and Responsibility”*, Berlin: De Gruyter.
+* Keeton, Robert, 1963, * Legal Cause in the Law of Torts*, Columbus, OH: Ohio State University Press.
+* Kelman, Mark, 1987, “The Necessary Myth of Objective Causation Judgments in Liberal Political Theory”, * Chicago-Kent Law Review*, 63(3): 579–637. \[[Kelman 1987 available online](https://scholarship.kentlaw.iit.edu/cklawreview/vol63/iss3/9)]
+* Knobe, Joshua and Scott J. Shapiro, 2021, “Proximate Cause Explained: An Essay in Experimental Jurisprudence,” * University of Chicago Law Review*, 88(1): 165–236.
+* Kripke, Saul, 1982, * Wittgenstein on Rules and Private Language*, Cambridge, MA: Harvard University Press.
+* Lagnado, David A., and Tobias Gerstenberg, 2017, “Causation in Legal and Moral Reasoning”, in Waldmann (ed.) 2017, * The Oxford Handbook of Causal Reasoning*, Oxford: Oxford University Press, 565–601.
+* Landes, William M. and Richard A. Posner, 1983, “Causation in Tort Law: An Economic Approach”, * The Journal of Legal Studies*, 12(1): 109–134. doi: 10.1086/467716
+* Larremore, Wilbur, 1909, “Negligence and the Act of God”, * Yale Law Journal*, 18(5): 338–342. doi: 10.2307/785759
+* Lewis, David, 1973a, “Causation”, * The Journal of Philosophy*, 70(17): 556–567. doi: 10.2307/2025310
+* Lewis, David, 1973b, * Counterfactuals*, Oxford: Blackwell.
+* –––, 1986, “Postscripts to ‘Causation’”, * Philosophical Papers*, II, Oxford: Oxford University Press, pp. 172–213.
+* Mackie, J. L., 1980, * The Cement of the Universe: A Study of Causation*, Oxford: Oxford University Press. doi: 10.1093/0198246420.001.0001
+* Malone, Wex S., 1956, “Ruminations on Cause-in-Fact”, * Stanford Law Review*, 9(1): 60–99. doi: 10.2307/1226919
+* Moore, Michael S., 1989, “The Interpretive Turn in Modern Theory: A Turn for the Worse?”, * Stanford Law Review *, 41(4): 871–957; reprinted as chapter 10 of Moore, * Educating Oneself in Public: Critical Essays in Jurisprudence*, Oxford: Oxford University Press, 2000. doi: 10.2307/1228741
+* –––, 2009a, * Causation and Responsibility: An Essay in Law, Morals, and Metaphysics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199256860.001.0001
+* –––, 2009b, “Introduction: The Nature of Singularist Theories of Causation”, * Monist*, 92(1): 3–22. Reprinted in Moore 2009a: chapter 20. doi: 10.5840/monist20099211
+* –––, 2011a, “Intention as a Marker of Moral Culpability and Legal Punishability”, in * Philosophical Foundations of Criminal Law *, R.A. Duff and Stuart Green (eds.), Oxford: Oxford University Press, 179–205. Revised and reprinted as chapter 4 of Moore, * Mechanical Choices: The Responsibility of the Human Machine*, Oxford: Oxford University Press, forthcoming. doi: 10.1093/acprof: oso/9780199559152.003.0009
+* –––, 2011b, “Causation Revisited”, * Rutgers Law Journal*, 42: 451–509.
 * –––, 2013, “Further Thoughts on Causation (and Related Topics) Prompted by Fifteen Critics”, in Kahmen and Stepanians 2013: 333–416.
-* *New York Central R. R. v. Grimstad*, 264 F. 2d 334 (2d Cir. 1920).
-* *Oxendine v. State*, 528 A. 2d 870, 872–873 (Del. 1987).
-* Pearl, Judea, 2000 \[2009], *Causality: Models, Reasoning, and Inference*, Cambridge: Cambridge University Press, 2000; second edition, 2009.
-* *People v. Botkin*, 132 Cal. 231, 64 P. 286 (1901).
-* *People v. Lewis*, 124 Cal. 551, 57 P. 470 (1899).
-* Pigou, Arthur Cecil, 1920, *The Economics of Welfare*, London: Palgrave Macmillan.
-* Pollack, Frederick, 1901, *The Law of Torts*, sixth edition, London: Stevens and Sons. \[[Pollack 1901 available online](https://archive.org/details/lawtortsatreati03pollgoog/page/n4)]
-* Pound, Roscoe, 1910, “Law in Books and Law in Action”, *American Law Review*, 44(1): 12–36.
-* Raz, Joseph, 2012, “The Inner Logic of the Law”, in J. Raz, *Ethics in the Public Domain*, Oxford: Oxford University Press.
-* *Regina v. Blaue*, \[1975–3] All Eng. Rep. 446 (Ct. App.).
-* *Ryan v. New York Center R.R.*, 35 N.Y. 210, 91 Am. Dec. 49 (1866).
-* *Scott v. Shepard*, 96 Eng. Rep. 525 (K.B. 1773).
-* Shavell, Steven, 1980, “An Analysis of Causation and the Scope of Liability in the Law of Torts”, *The Journal of Legal Studies*, 9(3): 463–516. doi:10.1086/467650
-* Skow, Bradford, 2022, “Two Concepts of Double Prevention”, *Ergo: An Open Access Journal of Philosophy*, 9: 805–820.
-* Smith, Jeremiah, 1911, “Legal Cause in Actions of Tort”, *Harvard Law Review*, 25(2): 103–128. doi:10.2307/1324390
-* Stapleton, Jane, 2008, “Choosing What We Mean by Causation in the Law”, *Missouri Law Review*, 73(2): 433–480. \[[Stapleton 2008 available online](https://scholarship.law.missouri.edu/mlr/vol73/iss2/6)]
-* –––, 2015, “An ‘Extended But-For’ Test for the Causal Relation in the Law of Obligations”, *Oxford Journal of Legal Studies*, 35(4): 697–726. doi:10.1093/ojls/gqv005
-* Terry, Charles, 1914, “Proximate Causation in the Law of Torts”, *Harvard Law Review*, 28(1): 10–33.
-* Walen, Alec, 2022, “More Contra Moore on Omissions as Causes”, *Criminal Law Bulletin*, 58: 375–385.
-* Wright, Richard W., 1985a, “Actual Causation vs. Probabilistic Linkage: The Bane of Economic Analysis”, *The Journal of Legal Studies*, 14(2): 435–456. doi:10.1086/467780
-* –––, 1985b, “Causation in Tort Law”, *California Law Review*, 73(6): 1735–1828. doi:10.2307/3480373
-* –––, 1988, “Causation, Responsibility, Risk, Probability, Naked Statistics, and Proof: Pruning the Bramble Bush by Clarifying the Concepts,” *Iowa Law Review*, 73: 1001–1077.
+* * New York Central R. R. v. Grimstad*, 264 F. 2d 334 (2d Cir. 1920).
+* * Oxendine v. State*, 528 A. 2d 870, 872–873 (Del. 1987).
+* Pearl, Judea, 2000 \[2009], * Causality: Models, Reasoning, and Inference*, Cambridge: Cambridge University Press, 2000; second edition, 2009.
+* * People v. Botkin*, 132 Cal. 231, 64 P. 286 (1901).
+* * People v. Lewis*, 124 Cal. 551, 57 P. 470 (1899).
+* Pigou, Arthur Cecil, 1920, * The Economics of Welfare*, London: Palgrave Macmillan.
+* Pollack, Frederick, 1901, * The Law of Torts*, sixth edition, London: Stevens and Sons. \[[Pollack 1901 available online](https://archive.org/details/lawtortsatreati03pollgoog/page/n4)]
+* Pound, Roscoe, 1910, “Law in Books and Law in Action”, * American Law Review*, 44(1): 12–36.
+* Raz, Joseph, 2012, “The Inner Logic of the Law”, in J. Raz, * Ethics in the Public Domain*, Oxford: Oxford University Press.
+* * Regina v. Blaue*, \[1975–3] All Eng. Rep. 446 (Ct. App.).
+* * Ryan v. New York Center R.R.*, 35 N.Y. 210, 91 Am. Dec. 49 (1866).
+* * Scott v. Shepard*, 96 Eng. Rep. 525 (K.B. 1773).
+* Shavell, Steven, 1980, “An Analysis of Causation and the Scope of Liability in the Law of Torts”, * The Journal of Legal Studies*, 9(3): 463–516. doi: 10.1086/467650
+* Skow, Bradford, 2022, “Two Concepts of Double Prevention”, * Ergo: An Open Access Journal of Philosophy*, 9: 805–820.
+* Smith, Jeremiah, 1911, “Legal Cause in Actions of Tort”, * Harvard Law Review*, 25(2): 103–128. doi: 10.2307/1324390
+* Stapleton, Jane, 2008, “Choosing What We Mean by Causation in the Law”, * Missouri Law Review*, 73(2): 433–480. \[[Stapleton 2008 available online](https://scholarship.law.missouri.edu/mlr/vol73/iss2/6)]
+* –––, 2015, “An ‘Extended But-For’ Test for the Causal Relation in the Law of Obligations”, * Oxford Journal of Legal Studies*, 35(4): 697–726. doi: 10.1093/ojls/gqv005
+* Terry, Charles, 1914, “Proximate Causation in the Law of Torts”, * Harvard Law Review*, 28(1): 10–33.
+* Walen, Alec, 2022, “More Contra Moore on Omissions as Causes”, * Criminal Law Bulletin*, 58: 375–385.
+* Wright, Richard W., 1985a, “Actual Causation vs. Probabilistic Linkage: The Bane of Economic Analysis”, * The Journal of Legal Studies*, 14(2): 435–456. doi: 10.1086/467780
+* –––, 1985b, “Causation in Tort Law”, * California Law Review*, 73(6): 1735–1828. doi: 10.2307/3480373
+* –––, 1988, “Causation, Responsibility, Risk, Probability, Naked Statistics, and Proof: Pruning the Bramble Bush by Clarifying the Concepts,” * Iowa Law Review*, 73: 1001–1077.
 * –––, 2013, “The NESS Account of Natural Causation: A Response to Criticisms”, in Kahmen and Stepanians 2013: 13–66.
-* –––, 2016, “The New Old Efficiency Theories of Causation and Liability”, *Journal of Tort Law*, 7: 65–95.
+* –––, 2016, “The New Old Efficiency Theories of Causation and Liability”, * Journal of Tort Law*, 7: 65–95.
 
 ## Academic Tools
 

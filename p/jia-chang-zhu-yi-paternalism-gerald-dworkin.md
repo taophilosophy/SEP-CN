@@ -1,6 +1,6 @@
 # 家长主义 paternalism (Gerald Dworkin)
 
-*首次发表于2002年11月6日；实质性修订于2020年9月9日。*
+*首次发表于 2002 年 11 月 6 日；实质性修订于 2020 年 9 月 9 日。*
 
 家长主义是国家或个人对他人的干涉，违背其意愿，并以干涉的人将会过得更好或免受伤害的主张为辩护或动机。家长主义的问题涉及法律限制，如反毒法规、强制佩戴安全带，以及医疗背景下医生对患者病情相关信息的隐瞒。在理论层面上，它引发了人们在处理不完全理性的人时应该如何对待的问题。
 
@@ -44,9 +44,9 @@
 
 第二个条件被认为与违背代理人同意的行为有所不同。代理人既不同意也不不同意。例如，他可能对自己所受到的行为毫不知情。还有一个不同的问题，即是否在不知道被询问人同意的情况下采取行动。也许被询问人实际上同意，但这并不为家长主义者所知。
 
-第三个条件也可能很复杂。干涉 Y 可能有多个原因。除了关心 Y 的福祉外，还可能关心 Y 的行为对第三方的影响。"仅仅为了"的条件是否太强了？或者，如果立法机构出于家长主义的原因通过了一项法律规定，但有足够的非家长主义原因来证明通过该规定是合理的呢？
+第三个条件也可能很复杂。干涉 Y 可能有多个原因。除了关心 Y 的福祉外，还可能关心 Y 的行为对第三方的影响。"仅仅为了" 的条件是否太强了？或者，如果立法机构出于家长主义的原因通过了一项法律规定，但有足够的非家长主义原因来证明通过该规定是合理的呢？
 
-如果为了决定上述任何问题，必须决定一个规范性问题，例如，某人是否有权获得某些信息，那么这个概念就不纯粹是描述性的。最终如何完善条件，以及使用哪些条件，是一个哲学判断的问题。在普通情境中使用的"家长主义"一词可能对思考特定规范问题来说过于模糊。应该根据对思考特定问题范围最有用的假设来进行分析。在医生和患者的背景下可能采用一种分析，而在国家是否应该禁止不健康食品的背景下可能采用另一种分析。
+如果为了决定上述任何问题，必须决定一个规范性问题，例如，某人是否有权获得某些信息，那么这个概念就不纯粹是描述性的。最终如何完善条件，以及使用哪些条件，是一个哲学判断的问题。在普通情境中使用的 "家长主义" 一词可能对思考特定规范问题来说过于模糊。应该根据对思考特定问题范围最有用的假设来进行分析。在医生和患者的背景下可能采用一种分析，而在国家是否应该禁止不健康食品的背景下可能采用另一种分析。
 
 鉴于对家长主义的特定分析，关于何时家长主义是合理的，会有各种规范观点。以下术语是有用的。
 
@@ -102,7 +102,7 @@
 
 近年来，关于家长主义干预的思想出现了一种新的有影响力的思潮。它被称为新家长主义或自由主义家长主义。它受到行为科学在我们的认知和情感能力存在缺陷和限制的许多方面的研究的影响。
 
-强调这些发现对制定社会政策的第一批理论家是“推动者”——卡斯·桑斯坦和理查德·塞勒斯坦（2003 年）。他们认为，由于人们是如此糟糕的决策者，我们应该通过安排他们的选择，使他们更有可能做出符合自己期望目标的选择。
+强调这些发现对制定社会政策的第一批理论家是“推动者”——卡斯 · 桑斯坦和理查德 · 塞勒斯坦（2003 年）。他们认为，由于人们是如此糟糕的决策者，我们应该通过安排他们的选择，使他们更有可能做出符合自己期望目标的选择。
 
 他们声称，与传统的家长主义不同，后者通过强制排除选择或通过胁迫增加选择的成本，推动仅仅是改变选择的呈现方式，以使人们更有可能选择对他们最有利的选项。此外，他们认为，任何选择的安排都会使某些选择更有可能或不太可能，因此对选择架构的某些决策是不可避免的。
 
@@ -176,7 +176,7 @@ Sunstein 提出了他所称的透明条件：
 
 > 选择架构应该是透明的，并且应该受到公众的监督，尤其是如果公务员对此负责。至少，这个命题意味着当这些官员实施某种改革时，他们不应该对公众隐瞒...如果官员改变默认规则以促进清洁能源或节约能源，他们应该公开他们正在做什么。（2015 年：19）
 
-这个表述留下了一些问题。 "透明"和"受公众监督"是不同的条件吗？ "最低"解释只是关于官员正在做什么的公开条件。政府可以事先宣布他们将在电视节目中使用潜意识信息来促进健康。桑斯坦认为，这将满足他的透明条件，但可能会因为操纵的理由而引起反对。
+这个表述留下了一些问题。 "透明" 和 "受公众监督" 是不同的条件吗？ "最低" 解释只是关于官员正在做什么的公开条件。政府可以事先宣布他们将在电视节目中使用潜意识信息来促进健康。桑斯坦认为，这将满足他的透明条件，但可能会因为操纵的理由而引起反对。
 
 如何制定一个更接近直观透明概念的规范，以区分透明的各种意义——如狭义和广义，并讨论这种透明是否是合法推动的必要组成部分，这仍然是一个开放的讨论。例如，希望鼓励节约能源的公共事业公司是否必须在关于邻居平均消费的信息传达之前，说明他们发送这些信息是因为他们认为这将鼓励节约？他们是否必须披露他们相信这样做是因为人们有遵循邻居行为的倾向？
 
@@ -267,7 +267,7 @@ Sunstein 提出了他所称的透明条件：
 
 * Alexander, Larry, 2010, “Voluntary Enslavement”, *San Diego Legal Studies Paper No. 10–042*, October 19, 2010. [[Alexander 2010 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1694662)]
 * Arneson, Richard J., 1989, “Paternalism, Utility, and Fairness”, *Revue Internationale de Philosophie*, 43(170(3)): 409–23.
-* –––, 2005, “Joel Feinberg and the Justification of Hard Paternalism”, *Legal Theory*, 11(3): 259–284. doi:10.1017/S1352325205050147
+* –––, 2005, “Joel Feinberg and the Justification of Hard Paternalism”, *Legal Theory*, 11(3): 259–284. doi: 10.1017/S1352325205050147
 * Bergelson, Vera, 2007, “The Right to Be Hurt: Testing the Boundaries of Consent”, *The George Washington Law Review*, 75: 165–255.
 * Boven, Luc, 2008, “The Ethics of Nudge”, in Grune-Yanoff and S.O. Hansson, *Preference Change: Approaches from Philosophy, Economics and Psychology*, Chapter 10, Berlin and New York: Springer.
 * Brink, David O., 2013, *Mill’s Progressive Principles*, Oxford: Oxford University Press.
@@ -276,20 +276,20 @@ Sunstein 提出了他所称的透明条件：
 * Conly, Sarah, 2012, *Against Autonomy: Justifying Coercive Paternalism*, Cambridge: Cambridge University Press.
 * Coons, Christian and Michael Weber (eds), 2013 *Paternalism: Theory and Practice*, Cambridge: Cambridge University Press.
 * Dixon, Nicholas, 2001, “Boxing, Paternalism, and Legal Moralism”, *Social Theory and Practice*, 27(2): 323–344.
-* de Marneffe, Peter, 2006, “Avoiding Paternalism”, *Philosophy and Public Affairs*, 34: 68–94. doi:10.1111/j.1088-4963.2006.00053.x
+* de Marneffe, Peter, 2006, “Avoiding Paternalism”, *Philosophy and Public Affairs*, 34: 68–94. doi: 10.1111/j.1088-4963.2006.00053.x
 * Dworkin, Gerald, 1972, “Paternalism”, *The Monist*, 56: 64–84.
 * –––, 2005, “Moral Paternalism”, *Law and Philosophy*, 24(3): 305–319.
 * –––, 2013, “Defining Paternalism”, in Coons and Weber 2013: 25–39.
-* –––, 2012, “Harm and the Volenti Principle”, *Social Philosophy and Policy*, 29: 309–321. doi:10.1017/S0265052511000057
+* –––, 2012, “Harm and the Volenti Principle”, *Social Philosophy and Policy*, 29: 309–321. doi: 10.1017/S0265052511000057
 * Enoch, David, 2016, What’s Wrong with Paternalism: Autonomy, Belief, and Action *Proceedings of the Aristotelian Society*, April 2016
 * Feinberg, Joel, 1986, *Harm to Self*, Oxford: Oxford University Press.
 * Fox, Craig R. and David Tannenbaum, 2015 “The Curious Politics of the ‘Nudge’”, *New York Times*, September 26, 2015, p. SR9.
 * Goldman, Alan H., 1980, “The Refutation of Medical Paternalism”, in his *The Moral Foundations of Professional Ethics*, Towata: Rowman and Littlefield.
 * Goodin, Robert E., 1991, “Permissible Paternalism: Saving Smokers from Themselves”, *The Responsive Community* 1: 42–51. [Republished in LaFollette, Hugh (ed.), 2014, *Ethics in Practice: An Anthology*, Hoboken: Wiley-Blackwell.]
 * Gorin, Moti, 2014, “Do Manipulators always threaten Rationality?” *American Philosophical Quarterly*, 51(1): 51–61.
-* Gostin, Lawrence O. and Kieran G. Gostin, 2009, “A broader liberty: J. S. Mill, Paternalism and the Public’s Health”, *Public Health*, 123: 214–22. doi:10.1016/j.puhe.2008.12.024
+* Gostin, Lawrence O. and Kieran G. Gostin, 2009, “A broader liberty: J. S. Mill, Paternalism and the Public’s Health”, *Public Health*, 123: 214–22. doi: 10.1016/j.puhe.2008.12.024
 * Grill, Kalle and Hanna Jason, 2018, *The Routledge Handbook of the Philosophy of Paternalism*, Routledge.
-* Groll, Daniel, 2012 “Paternalism, Respect and the Will”, *Ethics*, 122(4): 692–714. doi:10.1086/666500
+* Groll, Daniel, 2012 “Paternalism, Respect and the Will”, *Ethics*, 122(4): 692–714. doi: 10.1086/666500
 * Hanna, Jason, 2018, *In Our Best Interest* Oxford University Press.
 * Hector, Colin, 2012, “Nudging towards Nutrition: Soft Paternalism and Obesity-Related Reform”, *Food & Drug Law Journal*, 67(1): 103–122.
 * Husak, Douglas, 2003, “Legal Paternalism”, in Hugh LaFollette (ed.), *The Oxford Handbook of Practical Ethics*, New York: Oxford University Press.
@@ -300,21 +300,21 @@ Sunstein 提出了他所称的透明条件：
 * Nys, Thomas, Yvonne Denier, and Toon Vandevelde (eds), 2007, *Autonomy and Paternalism: Reflections on the Theory and Practice of Health Care*, Leuven: Peeters.
 * Pope, Thaddeus Mason, 2000, “Balancing Public Health against Individual Liberty: The Ethics of Smoking Regulations”, *University of Pittsburgh Law Review*, 61(2): 419–498.
 * Pugh, Jonathan, 2015, “Ravines and Sugar Pills: Defending Deceptive Placebo Use”, *Journal of Medicine and Philosophy*, 40(1): 83–101.
-* Rebanato, Riccardo, 2012, *Taking Liberties: A Critical Examination of Libertarian Paternalism*, London: Palgrave Macmillan. doi:10.1057/9780230391567
-* Saghai, Yashar, 2013, “Salvaging the Concept of Nudge”, *Journal of Medical Ethics*, 39(8): 487–493. doi:10.1136/medethics-2012-100727
-* Salazar V., Alberto R., 2012, “Libertarian Paternalism and the Danger of Nudging Consumers”, *King’s Law Journal*, 23(1): 51–67. doi:10.5235/096157612800081222
+* Rebanato, Riccardo, 2012, *Taking Liberties: A Critical Examination of Libertarian Paternalism*, London: Palgrave Macmillan. doi: 10.1057/9780230391567
+* Saghai, Yashar, 2013, “Salvaging the Concept of Nudge”, *Journal of Medical Ethics*, 39(8): 487–493. doi: 10.1136/medethics-2012-100727
+* Salazar V., Alberto R., 2012, “Libertarian Paternalism and the Danger of Nudging Consumers”, *King’s Law Journal*, 23(1): 51–67. doi: 10.5235/096157612800081222
 * Sartorius, Rolf, 1983, *Paternalism*, Minneapolis, MN: University of Minnesota Press.
 * Savelscu, Julian, 1995, “Rational non interventional paternalism: why doctors ought to make judgments of what is best for their patients”, *Journal of Medical Ethics*, 21: 327–331.
 * Shiffrin, Seanna, 2000, “Paternalism, Unconscionability Doctrine, and Accommodation”, *Philosophy & Public Affairs*, 29: 205–250.
-* Skipper, Robert A., 2012, “Obesity: Towards a System of Libertarian Paternalistic Public Health Interventions”, *Public Health Ethics*, 5: 181–191. doi:10.1093/phe/phs020
+* Skipper, Robert A., 2012, “Obesity: Towards a System of Libertarian Paternalistic Public Health Interventions”, *Public Health Ethics*, 5: 181–191. doi: 10.1093/phe/phs020
 * Sunstein, Cass R., 2013, “The Storrs Lectures: Behavioral Economics and Paternalism”, *Yale Law Journal*, 122(7): 1826–1900. [[Sunstein 2013 available online](http://www.yalelawjournal.org/feature/the-storrs-lectures-behavioral-economics-and-paternalism)]
 * –––, 2015, “The Ethics of Nudging”, *Yale Journal on Regulation*, Vol. 32: 413–450. [[Sunstein 2015 available online](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1415&context=yjreg)]
 * Sunstein, Cass R., and Richard H. Thaler, 2003, “Libertarian Paternalism Is Not an Oxymoron”, *University of Chicago Law Review*, 70(4): 1159–1202.
 * Thaler, Richard H. and Cass R. Sunstein, 2008, *Nudge: Improving Decisions about Health, Wealth and Happiness*, New Haven, CT: Yale University Press.
-* Turner, Piers Norris, 2013, “The absolutism Problem in *On Liberty*”, *Canadian Journal of Philosophy*, 43(3): 322–340. doi:10.1080/00455091.2013.847346
+* Turner, Piers Norris, 2013, “The absolutism Problem in *On Liberty*”, *Canadian Journal of Philosophy*, 43(3): 322–340. doi: 10.1080/00455091.2013.847346
 * VanDeVeer, Donald, 1986, *Paternalistic Intervention: The Moral Bounds on Benevolence*, Princeton, NJ: Princeton University Press.
 * Weber, Michael, and Christian Coons, 2014, *Manipulation: Theory and Practice*, Oxford: Oxford University Press.
-* Wilkinson, T.M., 2013, “Nudging and Manipulation”, *Political Studies*, 61(2): 341–355. doi:10.1111/j.1467-9248.2012.00974.x
+* Wilkinson, T.M., 2013, “Nudging and Manipulation”, *Political Studies*, 61(2): 341–355. doi: 10.1111/j.1467-9248.2012.00974.x
 
 ## Academic Tools
 

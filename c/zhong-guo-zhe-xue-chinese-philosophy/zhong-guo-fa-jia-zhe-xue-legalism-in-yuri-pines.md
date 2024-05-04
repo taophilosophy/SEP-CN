@@ -14,11 +14,11 @@ _法_传统在欧洲语言中最为人所知的是“法家”或“法家学派
 
 “法家”（或“法学派”；在中文中为“法家”）的第二个问题是术语“学派”或“学术传承”（家）。这个术语是具有误导性的，因为它暗示了一个自我意识和有组织的法学信徒智力潮流，与孔子（551–479 年前）或墨子（约公元前 460–390 年）的追随者相当。然而，与他们的情况相反，“法家”标签主要被指定为一个书目类别，用于在帝国图书馆中编目相关的文本。作为这样一个指定，在启发上是有用的，但一旦被用作主要的分析工具，其实用性就会逐渐消失。关于某位思想家是否属于“法家”的激烈争论，正如 1970 年代在中国（陈创 2019 年）及其以外（克里尔 1974 年：137–162）发生的那样，从学术价值上来看并不重要，因为早期的思想家根本没有自认为是“法家”的成员。
 
-“法家”或“法学派”标签的弱点是西方学者们所熟知的，他们试图为“法家”找到更好的翻译，例如“现实主义者”（韦礼 1939 年）。最近，这个指定被凯·福格尔桑（2016 年）所捍卫和阐释，他指出汉斯·莫根索的政治现实主义定义对“法家”是恰当的，即一种将政治作为行动和理解的自主领域，与其他领域（如经济学、伦理学、美学或宗教）相分离的方法（莫根索 1978 年：5）。这个指定有其优点，但可能存在问题，因为尽管莫根索和福格尔桑的初衷，它可能会无意中给人一种印象，即“法家”的对手只是理想主义者，而事实并非如此。在 Pines（即将出版 A）中采用的更为中立的指定是法传统，在本文中除了特别提到“法家”的情况外将使用这一术语。
+“法家”或“法学派”标签的弱点是西方学者们所熟知的，他们试图为“法家”找到更好的翻译，例如“现实主义者”（韦礼 1939 年）。最近，这个指定被凯 · 福格尔桑（2016 年）所捍卫和阐释，他指出汉斯 · 莫根索的政治现实主义定义对“法家”是恰当的，即一种将政治作为行动和理解的自主领域，与其他领域（如经济学、伦理学、美学或宗教）相分离的方法（莫根索 1978 年：5）。这个指定有其优点，但可能存在问题，因为尽管莫根索和福格尔桑的初衷，它可能会无意中给人一种印象，即“法家”的对手只是理想主义者，而事实并非如此。在 Pines（即将出版 A）中采用的更为中立的指定是法传统，在本文中除了特别提到“法家”的情况外将使用这一术语。
 
-将几位思想家归为共同的知识传统（即所谓的_法家_）可以追溯到韩非（公元前 233 年去世），他通常被认为是这一思想潮流中最重要的代表人物。在《韩非子》的第 43 章“明法”中，这位思想家将自己表现为他两位前辈思想家商鞅（公元前 338 年去世）和申不害（公元前 337 年去世）思想的综合者和改进者。将申不害和商鞅配对，并将韩非自己加入其中，这种做法从早期汉代开始变得普遍（见《淮南子》6:230; 11:423; 20:833）。史学家司马迁（约公元前 145-90 年）将这三位思想家确定为“刑名”教义的信徒（见《史记》62:2146; 68:2227），这一术语此后一直是法家传统的次要称谓（Creel 1974:140；另见 4.2 节）。通常与法家联系在一起的第四位思想家——慎到（公元前四世纪）——也在《韩非子》中占据重要地位，其中整整一章（第 40 章“论势”）致力于捍卫和改进慎到的思想（Pines 2020a）。这四位思想家（或者更准确地说，与他们相关的文本）构成了法家传统的核心。
+将几位思想家归为共同的知识传统（即所谓的_法家_）可以追溯到韩非（公元前 233 年去世），他通常被认为是这一思想潮流中最重要的代表人物。在《韩非子》的第 43 章“明法”中，这位思想家将自己表现为他两位前辈思想家商鞅（公元前 338 年去世）和申不害（公元前 337 年去世）思想的综合者和改进者。将申不害和商鞅配对，并将韩非自己加入其中，这种做法从早期汉代开始变得普遍（见《淮南子》6: 230; 11: 423; 20: 833）。史学家司马迁（约公元前 145-90 年）将这三位思想家确定为“刑名”教义的信徒（见《史记》62: 2146; 68: 2227），这一术语此后一直是法家传统的次要称谓（Creel 1974: 140；另见 4.2 节）。通常与法家联系在一起的第四位思想家——慎到（公元前四世纪）——也在《韩非子》中占据重要地位，其中整整一章（第 40 章“论势”）致力于捍卫和改进慎到的思想（Pines 2020a）。这四位思想家（或者更准确地说，与他们相关的文本）构成了法家传统的核心。
 
-术语_法家_是由司马迁的父亲司马谈（公元前 110 年去世）在他的文章《六家要略》中创造的。司马谈指出_法家_“刚而少恩”，他们“不分亲疏，不辨贵贱，皆以法为定”。司马谈批评_法家_的方法是“一时之政，不可以常行”，但也赞扬这些思想家“尊王贬臣，明职分，使人无得而越”。一个世纪后，_法家_的文献类别被创立。汉代图书馆员刘向（公元前 79-8 年）将这一称谓应用于汉代皇家图书馆中的十部文献（《汉书》30:1735）。从那时起，这个术语一直是中国帝制时代末期书目中的一个重要类别。
+术语_法家_是由司马迁的父亲司马谈（公元前 110 年去世）在他的文章《六家要略》中创造的。司马谈指出_法家_“刚而少恩”，他们“不分亲疏，不辨贵贱，皆以法为定”。司马谈批评_法家_的方法是“一时之政，不可以常行”，但也赞扬这些思想家“尊王贬臣，明职分，使人无得而越”。一个世纪后，_法家_的文献类别被创立。汉代图书馆员刘向（公元前 79-8 年）将这一称谓应用于汉代皇家图书馆中的十部文献（《汉书》30: 1735）。从那时起，这个术语一直是中国帝制时代末期书目中的一个重要类别。
 
 ### 1.1 主要的法家文献
 
@@ -42,7 +42,7 @@ _法_传统在欧洲语言中最为人所知的是“法家”或“法家学派
 
 ## 2. 哲学基础
 
-_法_传统有时与现代社会科学（Schwartz 1985）相比，这种比较很好地把握了它的一些特征。安格斯·C·格雷厄姆（1989: 269）指出，“法家”是中国第一批政治哲学家，“不是从社会应该如何，而是从社会现状出发。”的确，这是所有先秦思想潮流中最注重实用性的。其宣称的目标是实现“富国强兵”（*fu guo qiang bing* 富国强兵)，\[[1](https://plato.stanford.edu/entries/chinese-legalism/notes.html#note-1)]，这将是未来统一天下的先决条件。思想家们关注如何实现这一目标，而不太关注哲学上的推测。*法_文本既不将政治行为从属于道德说教，也不声称顺应神意——这些主题在孔子和墨子的追随者的著作中反复出现。政治秩序的宇宙论规定，在\*[老子](https://plato.stanford.edu/entries/laozi/)*（公元前四世纪）之后变得极为流行，对_法_思想家来说略微重要：它们在沈卜海和申子的一些片段中被提及，更值得注意的是，在_韩非子_的几章中也有提及。然而，这些推测对这些思想家的论点并非必不可少：因此，尽管有人试图将《韩非子》中的宇宙论篇章视为其政治哲学的基础（王和张，1986 年），但更准确的看法是将它们视为“未完全吸收”到韩非思想中的论证手段（格雷厄姆，1991 年: 285; 参见 Goldin 2020: 223–26）。一般来说，法文本只有在必须证明与其他思想潮流的传统方法有所偏离时，才显示出相当的哲学复杂性。在这方面，他们对历史演变和人性的看法非常引人入胜。这些是_法\*思想的总体原则的基础：坚持按公正标准统治，优于依赖政治中的人为因素。
+_法_传统有时与现代社会科学（Schwartz 1985）相比，这种比较很好地把握了它的一些特征。安格斯 ·C· 格雷厄姆（1989: 269）指出，“法家”是中国第一批政治哲学家，“不是从社会应该如何，而是从社会现状出发。”的确，这是所有先秦思想潮流中最注重实用性的。其宣称的目标是实现“富国强兵”（*fu guo qiang bing* 富国强兵)，\[[1](https://plato.stanford.edu/entries/chinese-legalism/notes.html#note-1)]，这将是未来统一天下的先决条件。思想家们关注如何实现这一目标，而不太关注哲学上的推测。*法_文本既不将政治行为从属于道德说教，也不声称顺应神意——这些主题在孔子和墨子的追随者的著作中反复出现。政治秩序的宇宙论规定，在\*[老子](https://plato.stanford.edu/entries/laozi/)*（公元前四世纪）之后变得极为流行，对_法_思想家来说略微重要：它们在沈卜海和申子的一些片段中被提及，更值得注意的是，在_韩非子_的几章中也有提及。然而，这些推测对这些思想家的论点并非必不可少：因此，尽管有人试图将《韩非子》中的宇宙论篇章视为其政治哲学的基础（王和张，1986 年），但更准确的看法是将它们视为“未完全吸收”到韩非思想中的论证手段（格雷厄姆，1991 年: 285; 参见 Goldin 2020: 223–26）。一般来说，法文本只有在必须证明与其他思想潮流的传统方法有所偏离时，才显示出相当的哲学复杂性。在这方面，他们对历史演变和人性的看法非常引人入胜。这些是_法\*思想的总体原则的基础：坚持按公正标准统治，优于依赖政治中的人为因素。
 
 ### 2.1 历史的演变观
 
@@ -72,7 +72,7 @@ _法_传统有时与现代社会科学（Schwartz 1985）相比，这种比较�
 
 人们贪图财富是竞争思想家文本中的常见事物；但《商君书》增加了第二个普遍的推动力量——对“名誉”（*ming* 名）的追求，这个术语既指声誉和名望，也指提升社会地位（Pines 2020b；参见 Lewis 2021）。应正确理解和操纵这种追求，以引导人们从事国家认为必要的追求，即农业和战争（见下文第 3 节）。
 
-法家思想家对人民的贪婪和自私的看法并不是这一思想潮流中的特例：它是与其他人共享的，包括主要的儒家思想家[Xunzi](https://plato.stanford.edu/entries/xunzi/#HumaNatuXing)荀子（公元前 238 年后）。然而，与荀子和其他儒家思想家不同，法家文献否定了精英成员——那些受过教育的“君子”——能够克服他们的自私自利的可能性。因此，法家思想家认为，用道德高尚的“君子”来组建政府的普遍建议是幼稚的，甚至是明显的操纵。申子解释道：
+法家思想家对人民的贪婪和自私的看法并不是这一思想潮流中的特例：它是与其他人共享的，包括主要的儒家思想家 [Xunzi](https://plato.stanford.edu/entries/xunzi/#HumaNatuXing) 荀子（公元前 238 年后）。然而，与荀子和其他儒家思想家不同，法家文献否定了精英成员——那些受过教育的“君子”——能够克服他们的自私自利的可能性。因此，法家思想家认为，用道德高尚的“君子”来组建政府的普遍建议是幼稚的，甚至是明显的操纵。申子解释道：
 
 > 在人民中，每个人都是为自己行事。如果你试图改变他们，让他们为你行事，那么你将找不到一个可以得到并雇用的人。……在人们无法为自己的利益行事的情况下，那些高层将不会雇用他们。雇用人民是为了他们自己的利益，不是为了你的利益：那么就不会有任何人是你不能利用的。（Harris 2016: 112）
 
@@ -108,11 +108,11 @@ Graziani (forthcoming)指出，概念_法_最初与精密工具相关联——�
 
 ### 3.1 惩罚
 
-Shang Yang 以人民抨击者而声名狼藉。归因于他的文本确实令读者震惊，其中包括“民弱则国强，故有道之国弱民” ( *《商君书》* 20.1，“弱民”)等挑衅性言论。在其他地方，作者坚持认为，为了成功完成他的事业，统治者应该“如同工匠控制金属和陶工控制黏土一样控制人民...擅长于有序统治的人用法律约束人民；然后才能获得\[好的]名声和土地。” ( *《商君书》* 18.2，“制定政策”)。类似的言论贯穿整个文本。
+Shang Yang 以人民抨击者而声名狼藉。归因于他的文本确实令读者震惊，其中包括“民弱则国强，故有道之国弱民” ( *《商君书》* 20.1，“弱民”)等挑衅性言论。在其他地方，作者坚持认为，为了成功完成他的事业，统治者应该“如同工匠控制金属和陶工控制黏土一样控制人民...擅长于有序统治的人用法律约束人民；然后才能获得\[好的] 名声和土地。” ( *《商君书》* 18.2，“制定政策”)。类似的言论贯穿整个文本。
 
 在揭示社会（“人民”）与国家之间永恒矛盾的问题上，没有其他思想家能与商鞅的直率相比。在人民“博学而诡诈”的时代，强制是约束他们的唯一手段。这解释了惩罚制度在商鞅模式中的关键作用。应该对轻微甚至“即将发生”的违法行为实施严厉惩罚。邻里和亲属之间的相互责任制度、严格的居住控制以及对犯罪的强制举报将确保每个罪犯都被捕获。然而一旦民众被吓倒，惩罚就变得多余：
 
-为了防止不端行为和制止违法行为，没有什么比加重惩罚更好的了。当惩罚加重且\[罪犯]必然会被捕获时，人们就不敢试图\[违法]。因此，国家中就没有受罚的人。当国家中没有受罚的人时，就会说：“明刑不发。”（《商君书》17.3，“赏罚”）
+为了防止不端行为和制止违法行为，没有什么比加重惩罚更好的了。当惩罚加重且\[罪犯] 必然会被捕获时，人们就不敢试图\[违法]。因此，国家中就没有受罚的人。当国家中没有受罚的人时，就会说：“明刑不发。”（《商君书》17.3，“赏罚”）
 
 ##
 
@@ -150,7 +150,7 @@ Shang Yang 引入的 20 个（最初更少）等级制度是人类历史上最�
 
 为了避免错误，筛选掉虚伪之人，并避免怨恨，统治者不应依赖自己的判断。相反，晋升和降职应仅基于客观标准。韩非解释道：
 
-> 因此，对于开明统治者的官员：首辅和丞相必须从地方官员中产生；勇猛的将军必须从军中产生。有功绩的人应该受到奖励：然后官阶和俸禄丰厚，鼓舞人心。一个人得到提拔并升至更高职位，他的官职责任增加，他的任务执行得更加有序。当官阶和俸禄丰厚，而官职责任井然有序时——这就是\[真正]君主的道路。 (《韩非子》50.5，“显明说”)
+> 因此，对于开明统治者的官员：首辅和丞相必须从地方官员中产生；勇猛的将军必须从军中产生。有功绩的人应该受到奖励：然后官阶和俸禄丰厚，鼓舞人心。一个人得到提拔并升至更高职位，他的官职责任增加，他的任务执行得更加有序。当官阶和俸禄丰厚，而官职责任井然有序时——这就是\[真正] 君主的道路。 (《韩非子》50.5，“显明说”)
 
 韩非提出了一个不依赖于“值得性”模糊概念，而是根据客观的功绩标准运作的选拔制度。行政和军事官员将从官僚机构和军队的下层晋升；他们将根据表现进行评判，如果成功，将被提拔到更重要的职位。虽然这个制度远非完美（它没有解释人们如何首先加入行政机构），但比战国时期其他文本中提出的任何制度都要复杂得多。它与现代选拔制度（如军队或学术界）中的晋升规则有明显相似之处。这个制度最容易与中国人民共和国当前的事务状态联系起来。
 
@@ -160,7 +160,7 @@ Shang Yang 引入的 20 个（最初更少）等级制度是人类历史上最�
 
 术（*shu*）有两个方面。首先，它指的是各种旨在监督官员表现的官僚机制。例如，“技术即以责授官，以名责功，以生死制，以能相致”（《韩非子》43.1.2，“明法”）。这些是可以在现代管理中充分利用的合理机制。对于文本坚持统治者保留对奖惩的绝对控制也是如此。然而，术的第二个更为棘手的方面是：它指的是各种旨在保护统治者权力免受心怀叵测的属下侵害的手段。这种基本关切在韩非对“形名”原则的讨论中非常明显——这是他行政思想中的一个关键要素（关于“形名”一词，参见 Makeham 1990-91；Indracollo 即将发表）。《韩非子》解释道：
 
-> 一个君主若想镇压奸诈，必须审察功与名相应。功与名指的是议论与事务之间的差异。大臣提出议论；君主根据议论分派任务，并仅根据任务来确定\[大臣的]功绩。当功绩与任务相符，任务与议论相应时，\[大臣]受到奖赏；当功绩与任务不符，任务与议论不相应时，受到惩罚。……因此，明察的君主养护其大臣时，大臣不应越位索取功劳，也不应提出与\[其任务]不相符的议论。越位者死；议论不当者受罚；于是大臣们无法结党营私（《韩非子》7.2，“二柄”）。
+> 一个君主若想镇压奸诈，必须审察功与名相应。功与名指的是议论与事务之间的差异。大臣提出议论；君主根据议论分派任务，并仅根据任务来确定\[大臣的] 功绩。当功绩与任务相符，任务与议论相应时，\[大臣] 受到奖赏；当功绩与任务不符，任务与议论不相应时，受到惩罚。……因此，明察的君主养护其大臣时，大臣不应越位索取功劳，也不应提出与\[其任务] 不相符的议论。越位者死；议论不当者受罚；于是大臣们无法结党营私（《韩非子》7.2，“二柄”）。
 
 Goldin (2020: 214) 将“表演和头衔”的概念与现代招标要求进行了比较。一位大臣根据他的官方职责提出提案；然后将他的实际表现与提案进行匹配，结果（奖励或惩罚）相应确定。无论一个人是否接受这种管理风格的逻辑，可以肯定的是，原则上这并不具有争议性。然而，以上所述是在统治者与大臣的背叛、集团和派系斗争的背景下加以阐释的。这将我们带到韩非“技术”更为棘手的方面：它们的秘密和狡猾的本质。韩非解释道：
 
@@ -172,13 +172,13 @@ Goldin (2020: 214) 将“表演和头衔”的概念与现代招标要求进行�
 
 令人惊讶的是，韩非——一个有抱负的大臣——得出结论称，大臣们从定义上来说是统治者的死敌。如果他们没有实施暗杀，那只是因为他们准备不足，或者如文中其他地方所解释的那样，因为统治者足够谨慎，通过正确运用统治技术来智胜他们。韩非的观点呼应了申不害的评估，即统治者真正的敌人不是外部人，“入侵者和强盗”，而是内部人：一位大臣，通过“限制统治者所见和限制统治者所听，夺取他的政权并垄断他的命令，控制他的人民并夺取他的国家”（Creel 1974: 344，翻译经过修改）。
 
-这种明显的反大臣思维是法家思想家韩非提出对统治者一些最值得质疑的建议的背景，比如“发布混淆的法令”或者“说出与你本意相反的话”（《韩非子》30.0.0，“内篇·说林第一: 七略”）。法的公平和透明度与术的诡计和秘密之间的摩擦在这里最为明显。宋鸿兵（即将出版的 A）认为，这反映了韩非意识到政治斗争的肮脏本质，其中法的公平和透明度规范并不适用。的确，如果我们接受韩非对几乎每个政治行为者都纯粹出于私利的悲观预期，那么政治就变成了一场永恒的生存之战。话虽如此，有时这位思想家会减轻自己的愤世嫉俗，并指出通过适当利用手中的手段，统治者可以在不走极端的情况下维持统治。因此，将大臣比作吞食统治者的老虎后，韩非解释道：“当法令和刑罚的执行是可靠的时候，老虎将变成人类，回归其真实状态”（《韩非子》8.7; “尚权”）。
+这种明显的反大臣思维是法家思想家韩非提出对统治者一些最值得质疑的建议的背景，比如“发布混淆的法令”或者“说出与你本意相反的话”（《韩非子》30.0.0，“内篇 · 说林第一: 七略”）。法的公平和透明度与术的诡计和秘密之间的摩擦在这里最为明显。宋鸿兵（即将出版的 A）认为，这反映了韩非意识到政治斗争的肮脏本质，其中法的公平和透明度规范并不适用。的确，如果我们接受韩非对几乎每个政治行为者都纯粹出于私利的悲观预期，那么政治就变成了一场永恒的生存之战。话虽如此，有时这位思想家会减轻自己的愤世嫉俗，并指出通过适当利用手中的手段，统治者可以在不走极端的情况下维持统治。因此，将大臣比作吞食统治者的老虎后，韩非解释道：“当法令和刑罚的执行是可靠的时候，老虎将变成人类，回归其真实状态”（《韩非子》8.7; “尚权”）。
 
 在最终的分析中，部长们是人类，他们可以为统治者服务得很好。所需的一切就是记住，统治者与部长之间的关系建立在利益的纯粹计算上，而不是奉献和忠诚。只要统治者依赖统治技巧并利用其地位权力的优势（下文 5.1 节），特别是他对奖惩的控制，部长们就会忠心地为他服务。他们这样做并不是因为他们对君主或政体有道德承诺，而是出于对个人利益的简单计算。这是另一种以公正标准统治的优势的体现。
 
 ## 5. 统治者
 
-法家思想家一般而言，尤其是韩非，经常被谴责为“君主专制”和“绝对专制主义”的捍卫者（Hsiao 1979: 386, 417）。虽然这一裁决并非一致——例如，安格斯·C·格雷厄姆认为，只有“从官僚而非最高领导人的角度来看，韩非的体系才说得通”（Graham 1989: 290–292）——但却相当普遍。鉴于法家思想家对反部长立场的深刻执着，很容易得出结论，他们完全致力于君主。然而，他们对君主的支持并非没有深层次的紧张关系。法家思想家致力于君主作为社会和政治秩序的唯一保证者，但不一定忠于个别君主，他们深知君主的弱点。特别是在《韩非子》中，这种抽象君主与具体君主之间的紧张关系达到了真正悲剧性的程度。
+法家思想家一般而言，尤其是韩非，经常被谴责为“君主专制”和“绝对专制主义”的捍卫者（Hsiao 1979: 386, 417）。虽然这一裁决并非一致——例如，安格斯 ·C· 格雷厄姆认为，只有“从官僚而非最高领导人的角度来看，韩非的体系才说得通”（Graham 1989: 290–292）——但却相当普遍。鉴于法家思想家对反部长立场的深刻执着，很容易得出结论，他们完全致力于君主。然而，他们对君主的支持并非没有深层次的紧张关系。法家思想家致力于君主作为社会和政治秩序的唯一保证者，但不一定忠于个别君主，他们深知君主的弱点。特别是在《韩非子》中，这种抽象君主与具体君主之间的紧张关系达到了真正悲剧性的程度。
 
 ### 5.1 君主的优越性
 
@@ -194,9 +194,9 @@ Goldin (2020: 214) 将“表演和头衔”的概念与现代招标要求进行�
 
 这一背景解释了法家思想家对维护统治者权威的坚定承诺。他们在这方面最重要的理论创新是地位权力的概念，这经常与申子相关，但在《韩非子》中得到发展成熟。统治者的权威并非源自他的个人品质。重要的是他的地位权力，这使他能够命令他的臣民服从。因此，统治者坚定地保留最终决策权，并永远不将其委托给下属是至关重要的。申不害解释道：“一个人独自做决策的人可以成为天下的君主”。韩非多次警告称，将统治的两个主要杠杆之一——奖励和惩罚——委托给大臣将为大臣篡权打开大门。《管子》的“依法”一章进一步阐述：
 
-因此，明智的君主要维持六件事情：赐生，杀戮，富裕，贫困，尊贵，贬损。这些是统治者维持的六个杠杆。《管子》45；参见瑞克特 1998 年:148。
+因此，明智的君主要维持六件事情：赐生，杀戮，富裕，贫困，尊贵，贬损。这些是统治者维持的六个杠杆。《管子》45；参见瑞克特 1998 年: 148。
 
-对君主权力的忠诚，加上强烈的反大臣立场，将法家思想家与他们的竞争对手区分开来。有时，这种忠诚看起来确实极端，就像《管子》上述章节中敦促君主处死任何未经授权的大臣行动，即使其结果是成功的，而在大臣严格遵守君主命令的情况下赦免失败（《管子》45；瑞克特 1998 年:150）。这些建议给人一种法家传统支持威权甚至专制统治的印象。但人们应理解其中的逻辑。想象一支军队，在那里，保持指挥链条和每个指挥官对其部队的独立权威远比确保顶层有最优秀的指挥官更为重要。一个下级军官很可能在智力上超越他的指挥官，但为了军纪，这对于保持军队的整体性至关重要，重要的是他服从命令。在战国时期，文武不分的情况下，统一决策的需求是被一致接受的（将军事类比应用于政治领域，参见《吕氏春秋》17.8 \[“執一”]）。法家思想家在这方面并不是例外，而只是更直接地主张君主权力的绝对性。
+对君主权力的忠诚，加上强烈的反大臣立场，将法家思想家与他们的竞争对手区分开来。有时，这种忠诚看起来确实极端，就像《管子》上述章节中敦促君主处死任何未经授权的大臣行动，即使其结果是成功的，而在大臣严格遵守君主命令的情况下赦免失败（《管子》45；瑞克特 1998 年: 150）。这些建议给人一种法家传统支持威权甚至专制统治的印象。但人们应理解其中的逻辑。想象一支军队，在那里，保持指挥链条和每个指挥官对其部队的独立权威远比确保顶层有最优秀的指挥官更为重要。一个下级军官很可能在智力上超越他的指挥官，但为了军纪，这对于保持军队的整体性至关重要，重要的是他服从命令。在战国时期，文武不分的情况下，统一决策的需求是被一致接受的（将军事类比应用于政治领域，参见《吕氏春秋》17.8 \[“執一”]）。法家思想家在这方面并不是例外，而只是更直接地主张君主权力的绝对性。
 
 ### 5.2 被困的君主？
 
@@ -210,7 +210,7 @@ Goldin (2020: 214) 将“表演和头衔”的概念与现代招标要求进行�
 
 后一点阐明了统治观念中一个重要但较少被注意到的方面。坚持统治者应坚决保留发出最终决定的权利、监督官员表现、奖惩的同样文本同样坚决主张，他绝不能干预日常政治事务。这种君主的非人格化在《韩非子》中达到顶峰。文本一再强调，统治者应摒弃任何个人情感的表达，抛弃个人欲望，避免偏爱的表现，不信任个人的能力。思想家总结道：
 
-> 一个明智统治者的方式：让智者完全消耗他们的思考，并依靠他们来决定事务—那么统治者就不会耗尽智慧。让有才能的人利用他们的才能，并依靠他们并相应地分配任务—那么统治者就不会耗尽能力。当成功时，统治者拥有一个值得尊敬的\[名声]；当失败时，大臣承担责任。因此，统治者不会失去\[好]名声。因此，不值得的人是值得之主；不明智的人是智者的矫正者。大臣工作，而统治者拥有成就：这被称为有德君主的基础。 (《韩非子》5.1，“君道”)
+> 一个明智统治者的方式：让智者完全消耗他们的思考，并依靠他们来决定事务—那么统治者就不会耗尽智慧。让有才能的人利用他们的才能，并依靠他们并相应地分配任务—那么统治者就不会耗尽能力。当成功时，统治者拥有一个值得尊敬的\[名声]；当失败时，大臣承担责任。因此，统治者不会失去\[好] 名声。因此，不值得的人是值得之主；不明智的人是智者的矫正者。大臣工作，而统治者拥有成就：这被称为有德君主的基础。 (《韩非子》5.1，“君道”)
 
 这段文字有些讽刺意味。虽然统治者被称为“明智”，但也被假定可能是不值得和愚蠢的。通过摒弃任何个人倾向和能力的表现，统治者受益两次。首先（如前面引用段落中所讨论的），他避免了奸诈大臣的陷阱；其次，他能够操纵他们并获得不应得的荣耀和名声。后者的承诺—一个毫不掩饰地针对统治者自私自利的呼吁—应该吸引他采纳韩非的建议。 暗示着君主，尽管不值得和愚蠢，将成为他值得尊敬的臣民的教师和矫正者的可能性，韩非再次透露了他对君主道德和智慧的最终低期望。这使得文本对“明智君主”的不断引用具有限制性。
 
@@ -252,7 +252,7 @@ Goldin (2020: 214) 将“表演和头衔”的概念与现代招标要求进行�
 
 _法_传统在帝制中国经历了奇特的命运。一方面，许多其原则——例如，在评估官员表现时使用客观和可量化的标准——被帝国领导人充分利用（参见 Korolkov 即将出版和 Creel 1974: 233–293）。另一方面，一些_法_思想家的基本建议被证明对统一帝国是站不住脚的。例如，汉代停止普遍征兵（Lewis 2000）导致商鞅所倡导的功绩等级制度逐渐萎缩，使他的社会工程计划的关键变得对帝国时代的政治家无关紧要（Pines 2016b: 29–31）。更为重要的是，汉代早期强大的地方精英阶层的出现侵蚀了_法_思想的另一个支柱，即坚持国家作为物质和社会福利的唯一提供者。随着这些精英阶层的政治和智力实力增强，越来越多_法_思想家的观念被边缘化。_法_思想的显著原则，如历史的进化观、对自我修养的轻蔑态度、对道德说教的嘲讽、对独立知识分子的贬低等，在帝国时代的政治文本中基本消失了。
 
-当丞相桑弘羊（152–80 年前）在前 81 年的盐铁论辩中为商鞅、申不害和韩非辩护时，这是帝制中国历史上最后一个主要场合，一个领先的政治家公开认同这些思想家，并自豪地将自己定位为他们的继承人（《盐铁论》第 7 章和第 56 章；另见 Polnarov 2018）。从那时起，“富国强兵”政策的众多支持者通常会远离商鞅或韩非，即使他们钦佩他们的行为。_法_思想家的形象已经太受损，不值得公开认同。这些思想家，根据司马谈的说法，被视为“严厉而缺乏仁慈”（《史记》130: 3289），是残酷法律和无情惩罚的倡导者，是坚决反对珍视的“教化”政策的支持者。中国帝制时代最杰出的知识分子之一，苏轼（字东坡，1036–1101）讥讽地说：“自汉以来，学者们一直对谈论商鞅和桑弘羊感到羞耻”（《东坡全集》105:14）。这一评价很好地把握了帝制中国对_法_传统的主流态度。直到清朝崩溃和帝制秩序本身崩溃的前夕，随着对过去的大规模重新评估，学者们开始关注这个长期被忽视的传统（Song，即将出版 B）。
+当丞相桑弘羊（152–80 年前）在前 81 年的盐铁论辩中为商鞅、申不害和韩非辩护时，这是帝制中国历史上最后一个主要场合，一个领先的政治家公开认同这些思想家，并自豪地将自己定位为他们的继承人（《盐铁论》第 7 章和第 56 章；另见 Polnarov 2018）。从那时起，“富国强兵”政策的众多支持者通常会远离商鞅或韩非，即使他们钦佩他们的行为。_法_思想家的形象已经太受损，不值得公开认同。这些思想家，根据司马谈的说法，被视为“严厉而缺乏仁慈”（《史记》130: 3289），是残酷法律和无情惩罚的倡导者，是坚决反对珍视的“教化”政策的支持者。中国帝制时代最杰出的知识分子之一，苏轼（字东坡，1036–1101）讥讽地说：“自汉以来，学者们一直对谈论商鞅和桑弘羊感到羞耻”（《东坡全集》105: 14）。这一评价很好地把握了帝制中国对_法_传统的主流态度。直到清朝崩溃和帝制秩序本身崩溃的前夕，随着对过去的大规模重新评估，学者们开始关注这个长期被忽视的传统（Song，即将出版 B）。
 
 自 20 世纪初以来，我们见证了对《法》文本的浓厚兴趣，吸引了学者们，因为它们的思想 resonated with 现代西方思想的某些方面，无论是历史的进化观还是被许多人视为与西方“法治”相容的法治观念。然而，20 世纪的重新发现由于对_法_传统中威权主义方面的持续政治厌恶以及纯粹的学术惰性而略显失败。即使在毛泽东时期的“评法批儒”运动（1973-1975 年）期间，对_法_意识形态的偶发崇拜也没有取得重大突破（李毓宁 1977; 陈 2019）。一旦运动结束，对于中国大陆的_法_传统的兴趣再次减退，而在其他地方，毛派激进分子对_法_思想家的奇特认可实际上阻碍了人们深入研究他们的文本（Pines，即将出版 C）。
 
@@ -293,70 +293,70 @@ _法_传统在帝制中国经历了奇特的命运。一方面，许多其原则
 * Bell, Daniel, 2015, *The China Model: Political Meritocracy and the Limits of Democracy*. Princeton: Princeton University Press.
 * Bodde, Derk, 1938, *China’s First Unifier: A Study of the Ch’in Dynasty as Seen in the Life of Li Ssu* 李斯_280–208 B.C._, Leiden: Brill.
 * Chen Chuang 陳闖, 2019, “‘Ping fa pi Ru’ yundong shiqi de gudian xueshu yanjiu” “評法批儒”運動時期的古典學術研究. PhD. Dissertation, Shandong University.
-* Creel, Herrlee G., 1953, *Chinese Thought from Confucius to Mao Tse-tung*, Chicago: University of Chicago Press.
-* –––, 1974, *Shen Pu-hai: A Chinese Political Philosopher of the Fourth Century B.C.*, Chicago and London: University of Chicago Press.
-* Csikszentmihalyi Mark and Nylan, Michael, 2003, “Constructing Lineages and Inventing Traditions through Exemplary Figures in Early China.” *T’oung Pao*, 89.1–3: 59–99.
-* Fu Zhengyuan, 1996, *China’s Legalists: The Earliest Totalitarians and their Art of Ruling*, Armonk and London: M.E. Sharpe.
-* Goldin, Paul R., 2005, “Persistent Misconceptions about Chinese ‘Legalism,’” *Journal of Chinese Philosophy* 38 (1): 64–80.
-* –––, ed., 2013: *Dao Companion to the Philosophy of Han Fei*. Dordrecht: Springer.
-* –––, 2020, *The Art of Chinese Philosophy: Eight Classical Texts and How to Read Them*. Princeton NJ: Princeton University Press.
-* Graham, A. C., 1989. *Disputers of the Tao: Philosophical Argument in Ancient China*. La Salle, IL: Open Court.
-* Graziani, Romain, 2015, “Monarch and Minister: Reflections on an impossible partnership in the building of absolute monarchy in the Han Feizi 韩非子,” in *Ideology of Power and Power of Ideology in Early China*, Y. Pines, P. R. Goldin and M. Kern (eds.). Leiden: Brill.
-* –––, forthcoming. “The Ruler’s New Tools: *Fa* 法 and the Political Paradigm of Measure in Early China,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Harris, Eirik L., forthcoming, “Human Motivation in the *fa* Tradition: Visions from the *Shenzi* Fragments, *Shangjunshu*, and *Han Feizi*,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Hsiao, Kung-chuan, 1979, *A History of Chinese Political Thought*. Vol. I: *From the Beginnings to the Sixth Century A.D.* F.W. Mote (trans.). Princeton Library of Asian Translations. Princeton: Princeton University Press.
-* Indraccolo, Lisa, forthcoming. “Philosophy of language in the *fa* tradition,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Jiang, Tao, 2021, *Origins of Moral-Political Philosophy in Early China: Contestation of Humanness, Justice, and Personal Freedom*. Oxford: Oxford University Press.
-* Kern, Martin, 2000, *The Stele Inscriptions of Ch’in Shih-huang: Text and Ritual in Early Chinese Imperial Representation*. New Haven: American Oriental Society.
-* Korolkov, Maxim, “Rule by impersonal standards in the early empire: ideas and realities,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Lau, Ulrich and Michael Lüdke, forthcoming, “*Fa* and the early legal system,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Lewis, Mark E., 1999, “Warring States: Political History,” in *The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.*, Michael Loewe and Edward L. Shaughnessy (eds.), Cambridge: Cambridge University Press, 587–650.
-* –––, 2000, “The Han Abolition of Universal Military Service,” in *Warfare in Chinese History*, H. Van de Ven (ed.), Leiden: Brill, 33–76.
-* –––, 2021, *Honor and Shame in Early China*. Cambridge: Cambridge University Press.
-* –––, forthcoming. “The ruler in \*fa-\*based government,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Li Yu-ning, (ed.), 1977, *Shang Yang’s Reforms and State Control in China*. White Plains, NY: Sharpe.
-* Liang Qichao 梁啟超. 1906 \[2003]. “Zhongguo falixue fada shi lun” 中國法理學發達史論. Rpt. in Liang Qichao, *Yinbingshi wenji dianjiao* 飲冰室文集點校, Wu Song 吳松, Lu Yunkun 盧雲崐, Wang Wenguang 王文光, and Duan Bingchang 段炳昌 (eds.), Kunming: Yunnan jiaoyu chubanshe, Vol. 1, 340–375.
-* Liu Zehua 劉澤華, 2003, *Xi er zhai wengao* 洗耳齋文稿, Beijing: Zhonghua shuju.
-* –––, 2013–14, “Monarchism: The Historical Orientation of China’s Intellectual Culture,” Y. Pines (trans.), *Contemporary Chinese Thought* 45.2–3 (2013–2014): 21–31.
-* McLeod, Alexus, forthcoming, “The *fa* Tradition and Morality,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Morgenthau, Hans Joachim, 1978, *Politics among Nations: The Struggle for Power and Peace*, New York: Knopf.
-* Petersen, Jens Østergård, 1995, “Which Books Did the First Emperor of Ch’in Burn? On the Meaning of *Pai Chia* in Early Chinese Sources,” *Monumenta Serica* 43: 1–52.
-* Pines, Yuri, 2000, “‘The One That Pervades the All’ in Ancient Chinese Political thought: The Origins of ‘The Great Unity’ Paradigm,” *T’oung Pao* 86 (4–5): 280–324.
-* –––, 2009, *Envisioning Eternal Empire: Chinese Political Thought of the Warring States Era.* Honolulu: University of Hawai‘i Press.
-* –––, 2012, “Alienating rhetoric in the *Book of Lord Shang* and its moderation,” *Extrême-Occident*, 34: 79–110.
-* –––, 2013a, “From Historical Evolution to the End of History: Past, Present and Future from Shang Yang to the First Emperor,” in *Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 25–46.
-* –––, 2013b, “Submerged by Absolute Power: The Ruler’s Predicament in the *Han Feizi*,” in *Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 67–86.
-* –––, 2013c, “Between Merit and Pedigree: Evolution of the Concept of ‘Elevating the Worthy’ in pre-imperial China,” in: *The Idea of Political Meritocracy: Confucian Politics in Contemporary Context*, Daniel Bell and Li Chenyang (eds.), Cambridge: Cambridge University Press, 161–202.
-* –––, 2016a, “Dating a Pre-imperial Text: The Case Study of the *Book of Lord Shang*.” *Early China* 39:145–184.
-* –––, 2016b, “Social Engineering in Early China: The Ideology of the *Shangjunshu* (Book of Lord Shang) Revisited.” *Oriens Extremus* 55: 1–37.
-* –––, 2016c, “A ‘Total War’? Rethinking Military Ideology in the *Book of Lord Shang*,” *Journal of Chinese Military History* 5.2: 97–134.
-* –––, 2020a, “Worth vs. Power: Han Fei’s ‘Objection to Positional Power’ Revisited.” *Asiatische Studien/Études Asiatiques* 74.3: 687–710.
-* –––, 2020b, “‘To die for the Sanctity of the Name’: Name (*ming* 名) as prime-mover of political action in early China.” In: *Keywords in Chinese Culture*, W-y. Li and Y. Pines (eds.), Hong Kong: The Chinese University Press, 169–218.
-* –––, 2021, “Agriculturalism and Beyond: Economic Thought of the *Book of Lord Shang*,” in *Between Command and Market: Economic Thought and Practice in Early China*, Elisa Sabattini and Christian Schwermann (eds.), Leiden: Brill, 76–111.
-* –––, ed., forthcoming A, *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Dordrecht: Springer.
-* –––, forthcoming B, “*Han Feizi*: The World Driven by Self-Interest,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* –––, forthcoming C, “The *fa* Tradition and Its Modern Fate: The Case of the *Book of Lord Shang*,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Polnarov, Anatoly, 2018, “Looking Beyond Dichotomies: Hidden Diversity of Voices in the *Yantielun* 鹽鐵論.” *T’oung Pao* 104: 465–495.
-* Queen, Sarah. 2013. “*Han Feizi* and the Old Master: A Comparative Analysis and Translation of *Han Feizi* Chapter 20, ‘Jie Lao’ and Chapter 21, ‘Yu Lao,’” in *Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 197–256.
-* Rubin, Vitaly, 1976, *Individual and State in Ancient China*, New York : Columbia University Press.
-* Sato, Masayuki, 2013a, “Did Xunzi’s Theory of Human Nature Provide the Foundation for the Political Thought of Han Fei?” in *Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 147–165.
-* –––, 2013b, “Studies of *Han Feizi* in China, Taiwan, and Japan” in *Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 257–281.
-* –––, forthcoming, “The Concept of *fa* in *Guanzi* and its Evolution,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Schiele, Alexandre, forthcoming, “The *Book of Lord Shang* and Totalitarianism’s Intellectual Precursors Compared,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Schwartz, Benjamin I., 1985, *The World of Thought in Ancient China*, Cambridge, MA : Harvard University Press.
-* Schwermann, Christian, forthcoming. “The Ideology of Chao Cuo,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Smith, Kidder, 2003, “Sima Tan and the Invention of Daoism, ‘Legalism,’ et cetera.” *Journal of Asian Studies* 62 (1): 129–156.
-* Song Hongbing, forthcoming A, “Two Perspectives on the *Fa* Tradition: Politics versus the Rule of Impartial Standards,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Song Hongbing, forthcoming B, “The Historical Reputation of the *fa* Tradition in Imperial China,”in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Thompson, P. M., 1979, *The Shen-tzu Fragments*, Oxford: Oxford University Press.
-* Van Norden, Bryan W. 2011. *Introduction to Classical Chinese Philosophy* (Indianapolis and Cambridge: Hackett.
-* Vogelsang, Kai. 2016. “Getting the Terms Right: Political Realism, Politics, and the State in Ancient China.” *Oriens Extremus* 55: 39–72.
-* –––, forthcoming, “The Historiography of Political Realism,” in *Dao Companion to China’s* fa *Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
-* Waley, Arthur, 1939, *Three Ways of Thought in Ancient China*. London: George Allen & Unwin.
-* Wagner, Donald B., 1993, *Iron and Steel in Ancient China*. Leiden: Brill.
-* Wang, Hsiao-po and Leo S. Chang, 1986, *The Philosophical Foundations of Han Fei’s Political Theory*, Honolulu: University of Hawai’i Press, 1986.
-* Xi Jinping. 2018. *The Governance of China*. Volume 1. Beijing: Foreign Languages Press, 2nd ed.
-* Zheng Liangshu 鄭良樹, 1989, *Shang Yang ji qi xuepai* 商鞅及其學派, Shanghai: Guji chubanshe.
+* Creel, Herrlee G., 1953, * Chinese Thought from Confucius to Mao Tse-tung*, Chicago: University of Chicago Press.
+* –––, 1974, * Shen Pu-hai: A Chinese Political Philosopher of the Fourth Century B.C.*, Chicago and London: University of Chicago Press.
+* Csikszentmihalyi Mark and Nylan, Michael, 2003, “Constructing Lineages and Inventing Traditions through Exemplary Figures in Early China.” * T’oung Pao*, 89.1–3: 59–99.
+* Fu Zhengyuan, 1996, * China’s Legalists: The Earliest Totalitarians and their Art of Ruling*, Armonk and London: M.E. Sharpe.
+* Goldin, Paul R., 2005, “Persistent Misconceptions about Chinese ‘Legalism,’” * Journal of Chinese Philosophy* 38 (1): 64–80.
+* –––, ed., 2013: * Dao Companion to the Philosophy of Han Fei*. Dordrecht: Springer.
+* –––, 2020, * The Art of Chinese Philosophy: Eight Classical Texts and How to Read Them*. Princeton NJ: Princeton University Press.
+* Graham, A. C., 1989. * Disputers of the Tao: Philosophical Argument in Ancient China*. La Salle, IL: Open Court.
+* Graziani, Romain, 2015, “Monarch and Minister: Reflections on an impossible partnership in the building of absolute monarchy in the Han Feizi 韩非子,” in * Ideology of Power and Power of Ideology in Early China*, Y. Pines, P. R. Goldin and M. Kern (eds.). Leiden: Brill.
+* –––, forthcoming. “The Ruler’s New Tools: * Fa * 法 and the Political Paradigm of Measure in Early China,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Harris, Eirik L., forthcoming, “Human Motivation in the * fa * Tradition: Visions from the * Shenzi * Fragments, * Shangjunshu *, and * Han Feizi *,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Hsiao, Kung-chuan, 1979, * A History of Chinese Political Thought *. Vol. I: * From the Beginnings to the Sixth Century A.D.* F.W. Mote (trans.). Princeton Library of Asian Translations. Princeton: Princeton University Press.
+* Indraccolo, Lisa, forthcoming. “Philosophy of language in the * fa * tradition,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Jiang, Tao, 2021, * Origins of Moral-Political Philosophy in Early China: Contestation of Humanness, Justice, and Personal Freedom*. Oxford: Oxford University Press.
+* Kern, Martin, 2000, * The Stele Inscriptions of Ch’in Shih-huang: Text and Ritual in Early Chinese Imperial Representation*. New Haven: American Oriental Society.
+* Korolkov, Maxim, “Rule by impersonal standards in the early empire: ideas and realities,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Lau, Ulrich and Michael Lüdke, forthcoming, “* Fa * and the early legal system,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Lewis, Mark E., 1999, “Warring States: Political History,” in * The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.*, Michael Loewe and Edward L. Shaughnessy (eds.), Cambridge: Cambridge University Press, 587–650.
+* –––, 2000, “The Han Abolition of Universal Military Service,” in * Warfare in Chinese History*, H. Van de Ven (ed.), Leiden: Brill, 33–76.
+* –––, 2021, * Honor and Shame in Early China*. Cambridge: Cambridge University Press.
+* –––, forthcoming. “The ruler in \* fa-\*based government,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Li Yu-ning, (ed.), 1977, * Shang Yang’s Reforms and State Control in China*. White Plains, NY: Sharpe.
+* Liang Qichao 梁啟超. 1906 \[2003]. “Zhongguo falixue fada shi lun” 中國法理學發達史論. Rpt. in Liang Qichao, * Yinbingshi wenji dianjiao* 飲冰室文集點校, Wu Song 吳松, Lu Yunkun 盧雲崐, Wang Wenguang 王文光, and Duan Bingchang 段炳昌 (eds.), Kunming: Yunnan jiaoyu chubanshe, Vol. 1, 340–375.
+* Liu Zehua 劉澤華, 2003, * Xi er zhai wengao* 洗耳齋文稿, Beijing: Zhonghua shuju.
+* –––, 2013–14, “Monarchism: The Historical Orientation of China’s Intellectual Culture,” Y. Pines (trans.), * Contemporary Chinese Thought* 45.2–3 (2013–2014): 21–31.
+* McLeod, Alexus, forthcoming, “The * fa * Tradition and Morality,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Morgenthau, Hans Joachim, 1978, * Politics among Nations: The Struggle for Power and Peace*, New York: Knopf.
+* Petersen, Jens Østergård, 1995, “Which Books Did the First Emperor of Ch’in Burn? On the Meaning of * Pai Chia * in Early Chinese Sources,” * Monumenta Serica* 43: 1–52.
+* Pines, Yuri, 2000, “‘The One That Pervades the All’ in Ancient Chinese Political thought: The Origins of ‘The Great Unity’ Paradigm,” * T’oung Pao* 86 (4–5): 280–324.
+* –––, 2009, * Envisioning Eternal Empire: Chinese Political Thought of the Warring States Era.* Honolulu: University of Hawai‘i Press.
+* –––, 2012, “Alienating rhetoric in the * Book of Lord Shang * and its moderation,” * Extrême-Occident*, 34: 79–110.
+* –––, 2013a, “From Historical Evolution to the End of History: Past, Present and Future from Shang Yang to the First Emperor,” in * Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 25–46.
+* –––, 2013b, “Submerged by Absolute Power: The Ruler’s Predicament in the * Han Feizi *,” in * Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 67–86.
+* –––, 2013c, “Between Merit and Pedigree: Evolution of the Concept of ‘Elevating the Worthy’ in pre-imperial China,” in: * The Idea of Political Meritocracy: Confucian Politics in Contemporary Context*, Daniel Bell and Li Chenyang (eds.), Cambridge: Cambridge University Press, 161–202.
+* –––, 2016a, “Dating a Pre-imperial Text: The Case Study of the * Book of Lord Shang *.” * Early China* 39: 145–184.
+* –––, 2016b, “Social Engineering in Early China: The Ideology of the * Shangjunshu * (Book of Lord Shang) Revisited.” * Oriens Extremus* 55: 1–37.
+* –––, 2016c, “A ‘Total War’? Rethinking Military Ideology in the * Book of Lord Shang *,” * Journal of Chinese Military History* 5.2: 97–134.
+* –––, 2020a, “Worth vs. Power: Han Fei’s ‘Objection to Positional Power’ Revisited.” * Asiatische Studien/Études Asiatiques* 74.3: 687–710.
+* –––, 2020b, “‘To die for the Sanctity of the Name’: Name (* ming * 名) as prime-mover of political action in early China.” In: * Keywords in Chinese Culture*, W-y. Li and Y. Pines (eds.), Hong Kong: The Chinese University Press, 169–218.
+* –––, 2021, “Agriculturalism and Beyond: Economic Thought of the * Book of Lord Shang *,” in * Between Command and Market: Economic Thought and Practice in Early China*, Elisa Sabattini and Christian Schwermann (eds.), Leiden: Brill, 76–111.
+* –––, ed., forthcoming A, * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Dordrecht: Springer.
+* –––, forthcoming B, “* Han Feizi *: The World Driven by Self-Interest,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* –––, forthcoming C, “The * fa * Tradition and Its Modern Fate: The Case of the * Book of Lord Shang *,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Polnarov, Anatoly, 2018, “Looking Beyond Dichotomies: Hidden Diversity of Voices in the * Yantielun * 鹽鐵論.” * T’oung Pao* 104: 465–495.
+* Queen, Sarah. 2013. “* Han Feizi * and the Old Master: A Comparative Analysis and Translation of * Han Feizi * Chapter 20, ‘Jie Lao’ and Chapter 21, ‘Yu Lao,’” in * Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 197–256.
+* Rubin, Vitaly, 1976, * Individual and State in Ancient China*, New York : Columbia University Press.
+* Sato, Masayuki, 2013a, “Did Xunzi’s Theory of Human Nature Provide the Foundation for the Political Thought of Han Fei?” in * Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 147–165.
+* –––, 2013b, “Studies of * Han Feizi * in China, Taiwan, and Japan” in * Dao Companion to the Philosophy of Han Fei*, Paul R. Goldin (ed.), Dordrecht: Springer, 257–281.
+* –––, forthcoming, “The Concept of * fa * in * Guanzi * and its Evolution,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Schiele, Alexandre, forthcoming, “The * Book of Lord Shang * and Totalitarianism’s Intellectual Precursors Compared,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Schwartz, Benjamin I., 1985, * The World of Thought in Ancient China*, Cambridge, MA : Harvard University Press.
+* Schwermann, Christian, forthcoming. “The Ideology of Chao Cuo,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Smith, Kidder, 2003, “Sima Tan and the Invention of Daoism, ‘Legalism,’ et cetera.” * Journal of Asian Studies* 62 (1): 129–156.
+* Song Hongbing, forthcoming A, “Two Perspectives on the * Fa * Tradition: Politics versus the Rule of Impartial Standards,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Song Hongbing, forthcoming B, “The Historical Reputation of the * fa * Tradition in Imperial China,”in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Thompson, P. M., 1979, * The Shen-tzu Fragments*, Oxford: Oxford University Press.
+* Van Norden, Bryan W. 2011. * Introduction to Classical Chinese Philosophy* (Indianapolis and Cambridge: Hackett.
+* Vogelsang, Kai. 2016. “Getting the Terms Right: Political Realism, Politics, and the State in Ancient China.” * Oriens Extremus* 55: 39–72.
+* –––, forthcoming, “The Historiography of Political Realism,” in * Dao Companion to China’s * fa * Tradition: The Philosophy of Governance by Impartial Standards*, Y. Pines (ed.), Dordrecht: Springer.
+* Waley, Arthur, 1939, * Three Ways of Thought in Ancient China*. London: George Allen & Unwin.
+* Wagner, Donald B., 1993, * Iron and Steel in Ancient China*. Leiden: Brill.
+* Wang, Hsiao-po and Leo S. Chang, 1986, * The Philosophical Foundations of Han Fei’s Political Theory*, Honolulu: University of Hawai’i Press, 1986.
+* Xi Jinping. 2018. * The Governance of China*. Volume 1. Beijing: Foreign Languages Press, 2nd ed.
+* Zheng Liangshu 鄭良樹, 1989, * Shang Yang ji qi xuepai* 商鞅及其學派, Shanghai: Guji chubanshe.
 
 ## Academic Tools
 

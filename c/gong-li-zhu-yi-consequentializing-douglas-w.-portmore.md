@@ -2,7 +2,7 @@
 
 *首次发表于 2022 年 8 月 22 日星期一*
 
-行为功利主义是当今领先的道德理论之一。广义上讲，它认为一项行为的最终使其成为正确的特征是其结果在评价上不被任何可用的替代方案所超越。对一组结果进行评价排名（以下简称“排名”）是沿着某种评价维度对它们进行排名，比如它们的整体优良程度，对行为者的好处，对行为者之外的其他人的好处，或者这些事物的某种组合。当我们将行为功利主义与不同的结果排名方式结合起来时，就会得到不同版本的行为功利主义。例如，边沁的功利主义（边沁，1789 年）将行为功利主义与结果按其整体优良程度排名的观点相结合，认为结果的整体优良程度仅仅取决于其中包含的快乐和痛苦的强度和持续时间。根据这一理论，行为者必须始终最大化享乐效用——对所有相关人士的快乐超过痛苦的净平衡。相比之下，伦理利己主义（沙弗，2002 年[2021 年]）是一种将结果按照对行为者有多好来排名的行为功利主义理论。它认为一个结果优于另一个结果，当且仅当它对行为者更有利。因此，伦理利己主义暗示着一个行为者应该产生对自己最有利的结果，即使这会导致整体更糟。与这两种理论相比，自我/他人功利主义（赛德，1993 年：128 页）认为一个结果优于另一个结果，当且仅当它在好处程度和对行为者之外的其他人的好处程度方面都优于另一个结果。根据这一观点，一个行为者可以执行一个结果比某些可用替代方案的结果更糟糕的行为，只要该结果仅对自己更糟糕。这三种只是可能性之一。
+行为功利主义是当今领先的道德理论之一。广义上讲，它认为一项行为的最终使其成为正确的特征是其结果在评价上不被任何可用的替代方案所超越。对一组结果进行评价排名（以下简称“排名”）是沿着某种评价维度对它们进行排名，比如它们的整体优良程度，对行为者的好处，对行为者之外的其他人的好处，或者这些事物的某种组合。当我们将行为功利主义与不同的结果排名方式结合起来时，就会得到不同版本的行为功利主义。例如，边沁的功利主义（边沁，1789 年）将行为功利主义与结果按其整体优良程度排名的观点相结合，认为结果的整体优良程度仅仅取决于其中包含的快乐和痛苦的强度和持续时间。根据这一理论，行为者必须始终最大化享乐效用——对所有相关人士的快乐超过痛苦的净平衡。相比之下，伦理利己主义（沙弗，2002 年 [2021 年]）是一种将结果按照对行为者有多好来排名的行为功利主义理论。它认为一个结果优于另一个结果，当且仅当它对行为者更有利。因此，伦理利己主义暗示着一个行为者应该产生对自己最有利的结果，即使这会导致整体更糟。与这两种理论相比，自我/他人功利主义（赛德，1993 年：128 页）认为一个结果优于另一个结果，当且仅当它在好处程度和对行为者之外的其他人的好处程度方面都优于另一个结果。根据这一观点，一个行为者可以执行一个结果比某些可用替代方案的结果更糟糕的行为，只要该结果仅对自己更糟糕。这三种只是可能性之一。
 
 尽管有许多方法可以对结果进行排名，因此也有许多行为功利主义的版本，但边沁功利主义（以下简称“功利主义”）是其典型和原型形式。问题在于，由于其反直觉的含义，很少有人愿意接受它，包括以下内容：
 
@@ -26,7 +26,7 @@
 
 当然，试图将功利主义的某些部分与普遍道德观调和的这些不同方式并不是互相排斥的。Brad Hooker（2000）的规则功利主义不仅将功利主义的行为后果主义换成了规则后果主义，而且还将其对结果的简单排名换成了一个承认除快乐和痛苦之外的其他事物在结果排名中也很重要的排名。其结果是一个在其义务裁决中非常接近常识道德的道德理论。
 
-但尽管可能有多种方法来调和功利主义的某些部分与普遍道德观念，功利主义的功利主义化涉及通过修订其排列结果的方法来实现这一点，同时保持其行为功利主义的完整性。这是因为许多人（包括非功利主义者）认为，当我们远离功利主义的行为功利主义时，我们放弃了最初发现它最具说服力的东西。正如菲利帕·富特所主张的那样，功利主义的
+但尽管可能有多种方法来调和功利主义的某些部分与普遍道德观念，功利主义的功利主义化涉及通过修订其排列结果的方法来实现这一点，同时保持其行为功利主义的完整性。这是因为许多人（包括非功利主义者）认为，当我们远离功利主义的行为功利主义时，我们放弃了最初发现它最具说服力的东西。正如菲利帕 · 富特所主张的那样，功利主义的
 
 > 功利主义看起来如此令人信服的一个主要原因是其功利主义元素
 
@@ -38,7 +38,7 @@
 
 正如我们所看到的，将某些常识义务判断结果转化为功利主义的主要动机之一是为了调和功利主义所谓引人注目的行为后果主义与普遍道德观念。本节考虑了功利主义者试图适应的各种义务判断结果类型以及他们历史上为此所做的各种举措。
 
-有趣的是，功利主义似乎可以追溯到行为功利主义本身（参见 Hurley 2020: 27）。实际上，它至少可以追溯到约翰·斯图尔特·密尔（John Stuart Mill）发展定性快乐主义以回应（边沁的）功利主义只值得猪群信奉的反对意见。密尔认为，有某些种类的快乐（例如智慧快乐）是人类能够体验到的，而猪则不能，这些“更高级”的快乐在质上与“更低级”的身体快乐有所不同，猪和人类都能体验到后者，以至于任何数量的这些更低级的快乐都无法与足够数量的更高级快乐相提并论（1861 [1991: 14–17]）。
+有趣的是，功利主义似乎可以追溯到行为功利主义本身（参见 Hurley 2020: 27）。实际上，它至少可以追溯到约翰 · 斯图尔特 · 密尔（John Stuart Mill）发展定性快乐主义以回应（边沁的）功利主义只值得猪群信奉的反对意见。密尔认为，有某些种类的快乐（例如智慧快乐）是人类能够体验到的，而猪则不能，这些“更高级”的快乐在质上与“更低级”的身体快乐有所不同，猪和人类都能体验到后者，以至于任何数量的这些更低级的快乐都无法与足够数量的更高级快乐相提并论（1861 [1991: 14–17]）。
 
 G. E. Moore（1903）甚至走得更远，主张
 
@@ -157,17 +157,17 @@ G. E. Moore（1903）甚至走得更远，主张
 
 对于这两种理论，它们都致力于最大理由至欲望，因为它们都是广义上的行为功利主义理论。也就是说，它们都认为一个行动是否应该被代理人执行，仅取决于代理人是否应该更倾向于其结果而不是其他可选方案的结果。只是，伦理利己主义者认为代理人总是应该更倾向于自己拥有更多享乐效用，而功利主义者认为代理人总是应该更倾向于整体享乐效用更多。
 
-最理性的欲望似乎也是菲利帕·富特（1985）所考虑的。富特说，
+最理性的欲望似乎也是菲利帕 · 富特（1985）所考虑的。富特说，
 
 > 关于功利主义，有什么是如此引人注目的呢？我认为，这是一个相当简单的想法，即永远不应该将一个更糟糕的状态优先于一个更好的状态。正是这个想法困扰着我们。 (1985: 198)
 
-然而，行为功利主义当然不是关于什么是正确的偏好的理论，而是关于什么是正确的行为的理论。尽管如此，我们可以慷慨地解释弗特（Foot）认为，令人信服的观念是最理性的欲望。这一观念与她声称的永远不应该偏好较差的情况而不是更好的情况的主张结合在一起，暗示着认为总是道德上允许实现最佳结果，这正是她试图通过论证来驳斥的观点，即我们对最佳结果的概念除了作为正义允许的那些行动中受到仁慈最青睐的结果之外，我们无法掌握。然而，问题在于，弗特错误地认为永远不应该偏好较差的情况而不是更好的情况。正如詹米·德雷尔（Jamie Dreier）所指出的那样，
+然而，行为功利主义当然不是关于什么是正确的偏好的理论，而是关于什么是正确的行为的理论。尽管如此，我们可以慷慨地解释弗特（Foot）认为，令人信服的观念是最理性的欲望。这一观念与她声称的永远不应该偏好较差的情况而不是更好的情况的主张结合在一起，暗示着认为总是道德上允许实现最佳结果，这正是她试图通过论证来驳斥的观点，即我们对最佳结果的概念除了作为正义允许的那些行动中受到仁慈最青睐的结果之外，我们无法掌握。然而，问题在于，弗特错误地认为永远不应该偏好较差的情况而不是更好的情况。正如詹米 · 德雷尔（Jamie Dreier）所指出的那样，
 
 > 这是完全可以理解的，也相当合理，我更倾向于将我的孩子的安全置于你的孩子的安全之上，而你则相反地更倾向于将你的孩子的安全置于我的孩子的安全之上。 (2011: 101)
 
 因此, 即使我们应该接受弗特（Foot）的假设，即最有理由欲望是强制性的观念，我们应该拒绝她的假设，即更喜欢较差的结果而不是更好的结果永远不对。毕竟，救了我那个天赋较差的孩子的结果，在其他条件相等的情况下，比救了你那个天赋更好的孩子的结果更糟（也就是说，从普遍的角度来看，它应该在其他条件相等的情况下被不喜欢），但我仍然应该从我的角度偏好它。
 
-虽然“最有理由欲望”的理由相当有说服力，但这并不是行为功利主义的独有特征。因为功利主义的实施是一把双刃剑，它既可以被用来使非功利主义与“最有理由欲望”相容，也可以被用来使行为功利主义与常识义务判断相容（Sachs，2010）。通过展示存在一种结果排序，使得行为功利主义与某些非功利主义理论的义务判断相容，功利主义者也同时表明了存在一种结果排序（正是同一种），使得这一非功利主义理论与“最有理由欲望”相容。正如本杰明·萨克斯指出的那样，
+虽然“最有理由欲望”的理由相当有说服力，但这并不是行为功利主义的独有特征。因为功利主义的实施是一把双刃剑，它既可以被用来使非功利主义与“最有理由欲望”相容，也可以被用来使行为功利主义与常识义务判断相容（Sachs，2010）。通过展示存在一种结果排序，使得行为功利主义与某些非功利主义理论的义务判断相容，功利主义者也同时表明了存在一种结果排序（正是同一种），使得这一非功利主义理论与“最有理由欲望”相容。正如本杰明 · 萨克斯指出的那样，
 
 > 所有非功利主义者为了使自己的理论与这一引人注目的观念相容，只需接受功利主义者的劳动成果。 (2010: 261)
 
@@ -177,7 +177,7 @@ G. E. Moore（1903）甚至走得更远，主张
 
 像大多数理由欲望一样，这个提议的优势在于解释这一令人信服的观念是功利主义和伦理利己主义共同拥有的东西。此外，对许多人来说，或者至少对那些接受目的论行动观念的人来说，这个提议似乎非常有吸引力。根据这种观念，行动是试图影响世界走向的尝试。因此，每当一个人有意识地行动时，他都是带着让世界朝着某种方向发展的目的行动。这个目的不一定与行动的因果后果有关。这个目的可能仅仅是为了执行相关的行动。例如，一个人可能仅仅是为了跑步而跑步。但事实仍然是，对于每一个有意识的行动，都有一些代理人的目标。因此，自然而然地可以假设，执行某种行动的理由源于渴望实现它所能达到的目标的理由。因此，一个人最有理由以任何能使世界朝着自己应该偏好的方向发展的方式行动（见密尔 1861 [1991]：第 1 章；波特莫尔 2019：262-3；汤姆森 2003：8；伍德 2017：266）。毕竟，认为一个人不被允许做最能实现他应该想要实现的目标的事情，这不是很奇怪吗？无论如何，鉴于“大多数理由欲望”包含了这样一种说法，即一个行动的义务地位是基于代理人偏好其结果而不是可用替代方案的理由（认真的功利主义者认为这是行为功利主义的决定性特征），它至少是行为功利主义的独特之处。
 
-因此，如果偏爱地面义务地位的理由确实令人信服，那么功利主义的行为确实具有独特的吸引力。在这种情况下，认真的功利主义者就会开始行动。但是，一些人，比如保罗·赫利（2018 年），否认这种吸引力。但即使他是正确的，这对于符号功利主义者或实用功利主义者都不构成问题，因为两者都不坚持行为功利主义具有独特的吸引力。因此，这只会让认真的功利主义者感到担忧。
+因此，如果偏爱地面义务地位的理由确实令人信服，那么功利主义的行为确实具有独特的吸引力。在这种情况下，认真的功利主义者就会开始行动。但是，一些人，比如保罗 · 赫利（2018 年），否认这种吸引力。但即使他是正确的，这对于符号功利主义者或实用功利主义者都不构成问题，因为两者都不坚持行为功利主义具有独特的吸引力。因此，这只会让认真的功利主义者感到担忧。
 
 ### 4.2 某些常识道德的关键特征无法被功利主义化
 
@@ -201,7 +201,7 @@ G. E. Moore（1903）甚至走得更远，主张
 
 但是，导致的行为后果主义对应理论是花哨的（因此是临时的），这一事实既不是对符号化后果主义的反对，也不是对实用后果主义的反对。这些后果主义者会很容易地承认这些导致的理论是花哨的。符号化后果主义者会主张，所有在外延上等价的理论都是彼此的花哨表现，因为它们只是同一道德观的任意不同符号变体。因此，导致的行为后果主义对应理论是花哨的这一事实，既不是对符号化后果主义的反对，也不是对实用后果主义的反对。实用后果主义者乐意承认，导致的行为后果主义对应理论不仅是花哨的，而且因此是不合理的。因为实用后果主义者拒绝他们仅仅为了某些实用目的而构建的导致的行为后果主义对应理论。
 
-当然，对于认真的功利主义者来说情况就不同了。如果他们提出了一个花哨的行为功利主义对应理论，那将是一个问题。但可以说，认真进行功利主义的结果并不花哨，因为它采用了一致主义程序而不是弗蒂主义程序。当认真的功利主义者容纳我们认为阿贝违背诺言为了阻止伯特和卡尔违背诺言是错误的直觉时，他们坚持认为阿贝应该更倾向于保持自己的诺言，而让伯特和卡尔违背诺言，而不是让自己违背诺言而让伯特和卡尔保持诺言。但这一举措的动机并不是为了迎合这种直觉而是独立的：代理人对自己的行为承担特殊责任，因此也对自己的诺言负有责任。因此，其他条件相等的情况下，代理人应该更严厉地责备自己违背自己的诺言，而不是让其他两个人各自违背他们的诺言。这种动机甚至应该吸引非功利主义者。例如，伯纳德·威廉姆斯等非功利主义者已经有力地论证了代理人对自己的行为承担特殊责任，而对于他们允许他人做的事情，他们并不承担责任。无论如何，这种认为代理人对自己的行为承担特殊责任的想法可以激励认真的功利主义者主张，其他条件相等的情况下，代理人应该更倾向于让其他两个人违反以代理人为中心的限制，而不是让他们自己违反该限制的结果。因此，认真的功利主义者激励这些种类的举措以容纳我们的常识道德直觉的方式并不花哨。
+当然，对于认真的功利主义者来说情况就不同了。如果他们提出了一个花哨的行为功利主义对应理论，那将是一个问题。但可以说，认真进行功利主义的结果并不花哨，因为它采用了一致主义程序而不是弗蒂主义程序。当认真的功利主义者容纳我们认为阿贝违背诺言为了阻止伯特和卡尔违背诺言是错误的直觉时，他们坚持认为阿贝应该更倾向于保持自己的诺言，而让伯特和卡尔违背诺言，而不是让自己违背诺言而让伯特和卡尔保持诺言。但这一举措的动机并不是为了迎合这种直觉而是独立的：代理人对自己的行为承担特殊责任，因此也对自己的诺言负有责任。因此，其他条件相等的情况下，代理人应该更严厉地责备自己违背自己的诺言，而不是让其他两个人各自违背他们的诺言。这种动机甚至应该吸引非功利主义者。例如，伯纳德 · 威廉姆斯等非功利主义者已经有力地论证了代理人对自己的行为承担特殊责任，而对于他们允许他人做的事情，他们并不承担责任。无论如何，这种认为代理人对自己的行为承担特殊责任的想法可以激励认真的功利主义者主张，其他条件相等的情况下，代理人应该更倾向于让其他两个人违反以代理人为中心的限制，而不是让他们自己违反该限制的结果。因此，认真的功利主义者激励这些种类的举措以容纳我们的常识道德直觉的方式并不花哨。
 
 因此，一方面，显而易见的是，无论是符号功利主义还是实用功利主义都通过采用富蒂安程序产生了花哨的行为后果主义对应理论，但不清楚为什么这会受到反对。另一方面，很明显，对于认真的功利主义者来说，产生花哨的行为后果主义对应理论是令人反感的，但不清楚为什么我们应该认为他们会这样做，因为他们采用了一致主义程序而不是富蒂安程序。
 
@@ -213,7 +213,7 @@ G. E. Moore（1903）甚至走得更远，主张
 
 然而，最近，Stephen Emet（2010）和 Christopher Howard（2021）提出，行为功利主义对应的理论在解释上存在不足之处。他们认为，在将“引人注目的观念”视为诸如偏好地位的理由时，认真的功利主义者被迫放弃对某些义务裁决的合理理由。例如，即使在黑手党已经可信地威胁要杀死五名无辜的陌生人，除非你杀死第六个人，否则你杀人是错误的（C. Howard 2021: 728）。Howard 声称，在为这一裁决提供理由时，认真的功利主义者必须摒弃一个合理的观点，即你的潜在受害者具有需要你不将其视为单纯手段的价值，而必须接受一个不合理的观点，即你，作为行动者，应该有一个以自我为中心、自我放纵的偏好，以保持自己的手干净。他认为，由于你有理由不将潜在受害者视为单纯手段，你必须放弃这种观点。
 
-> 这些动机源自于[你潜在的受害者]的价值观，它们是理由，不是源自于你对某些结果优于其他结果的偏好的理由。(2021: 749)
+> 这些动机源自于 [你潜在的受害者] 的价值观，它们是理由，不是源自于你对某些结果优于其他结果的偏好的理由。(2021: 749)
 
 但这种推理是谬误的。从 A 最终源自 C（因此，其根源在于 C）这一事实，并不意味着 A 不是源自 B。因为可能是 A 源自 B，而 B 又源自 C。
 
@@ -255,7 +255,7 @@ Dreier 反应较慢。他仅声称，只要我们对良好结果有一些非理�
 
 ## 5. 结论
 
-正如坎贝尔·布朗（2011）所指出的那样，与功利主义者辩论可能会令人沮丧。你描述了某个行为——比如说，你杀死一个无辜的人以阻止黑手党杀死另外五个无辜的人。然后你声称，尽管你这样做显然是错误的，但在你这样做的结果中，你应该更喜欢的（因此，优先级更高的）结果是你这样做，而不是不这样做。因此，你得出结论，行为功利主义是错误的：一个行为可能是错误的，尽管其结果并不被任何可用的替代方案所超越。但功利主义者反驳说，为了得出这个结论，你不得不预设一个关于结果排名的特定观点，而这个观点并非功利主义者必须接受的。因此，你得出结论说功利主义是错误的是错误的。你所展示的只是某种版本的功利主义是错误的。但我们早就知道，当与关于结果排名的某些假设相结合时，功利主义会产生违反直觉的义务性判决。我们通过研究功利主义的含义很久以前就已经了解到这一点。
+正如坎贝尔 · 布朗（2011）所指出的那样，与功利主义者辩论可能会令人沮丧。你描述了某个行为——比如说，你杀死一个无辜的人以阻止黑手党杀死另外五个无辜的人。然后你声称，尽管你这样做显然是错误的，但在你这样做的结果中，你应该更喜欢的（因此，优先级更高的）结果是你这样做，而不是不这样做。因此，你得出结论，行为功利主义是错误的：一个行为可能是错误的，尽管其结果并不被任何可用的替代方案所超越。但功利主义者反驳说，为了得出这个结论，你不得不预设一个关于结果排名的特定观点，而这个观点并非功利主义者必须接受的。因此，你得出结论说功利主义是错误的是错误的。你所展示的只是某种版本的功利主义是错误的。但我们早就知道，当与关于结果排名的某些假设相结合时，功利主义会产生违反直觉的义务性判决。我们通过研究功利主义的含义很久以前就已经了解到这一点。
 
 请注意，反对行为功利主义是一项复杂的任务。您不能将其与各种背景假设隔离开来进行测试。相反，您必须评估它以及各种背景假设，包括不仅关于如何对结果进行排名的假设，还包括关于行动的性质以及执行它们的原因的假设。
 
@@ -263,70 +263,70 @@ Dreier 反应较慢。他仅声称，只要我们对良好结果有一些非理�
 
 ## Bibliography
 
-* Baumann, Marius, 2019, “Consequentializing and Underdetermination”, *Australasian Journal of Philosophy*, 97(3): 511–527. doi:10.1080/00048402.2018.1501078
+* Baumann, Marius, 2019, “Consequentializing and Underdetermination”, *Australasian Journal of Philosophy*, 97(3): 511–527. doi: 10.1080/00048402.2018.1501078
 * Benthem, Jeremy, 1789 [1961], *An Introduction to the Principles of Morals and Legislation*, London: T. Payne. Reprinted Garden City, NY: Doubleday, 1961.
-* Berker, Selim, 2013, “The Rejection of Epistemic Consequentialism”, *Philosophical Issues*, 23: 363–387. doi:10.1111/phis.12019
-* Brook, Richard, 1991, “Agency and Morality”, *The Journal of Philosophy*, 88(4): 190–212. doi:10.2307/2026947
-* Brown, Campbell, 2011, “Consequentialize This”, *Ethics*, 121(4): 749–771. doi:10.1086/660696
+* Berker, Selim, 2013, “The Rejection of Epistemic Consequentialism”, *Philosophical Issues*, 23: 363–387. doi: 10.1111/phis.12019
+* Brook, Richard, 1991, “Agency and Morality”, *The Journal of Philosophy*, 88(4): 190–212. doi: 10.2307/2026947
+* Brown, Campbell, 2011, “Consequentialize This”, *Ethics*, 121(4): 749–771. doi: 10.1086/660696
 * Carritt, E. F., 1928, *The Theory of Morals: An Introduction to Ethical Philosophy*, London: Clarendon Press.
-* Colyvan, Mark, Damian Cox, and Katie Steele, 2010, “Modelling the Moral Dimension of Decisions”, *Noûs*, 44(3): 503–529. doi:10.1111/j.1468-0068.2010.00754.x
+* Colyvan, Mark, Damian Cox, and Katie Steele, 2010, “Modelling the Moral Dimension of Decisions”, *Noûs*, 44(3): 503–529. doi: 10.1111/j.1468-0068.2010.00754.x
 * Daniels, Norman, 2003 [2020], “Reflective Equilibrium”, *The Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2020/entries/reflective-equilibrium/>.
-* Dougherty, Tom, 2013, “Agent-Neutral Deontology”, *Philosophical Studies*, 163(2): 527–537. doi:10.1007/s11098-011-9829-8
-* Dreier, Jamie, 2011, “In Defense of Consequentializing”, in *Oxford Studies in Normative Ethics, Volume 1*, Mark Timmons (ed.), Oxford: Oxford University Press, 97–119. doi:10.1093/acprof:oso/9780199693269.003.0005
+* Dougherty, Tom, 2013, “Agent-Neutral Deontology”, *Philosophical Studies*, 163(2): 527–537. doi: 10.1007/s11098-011-9829-8
+* Dreier, Jamie, 2011, “In Defense of Consequentializing”, in *Oxford Studies in Normative Ethics, Volume 1*, Mark Timmons (ed.), Oxford: Oxford University Press, 97–119. doi: 10.1093/acprof: oso/9780199693269.003.0005
 * –––, 2019, “World-Centered Value”, in *Consequentialism: New Directions, New Problems*, Christian Seidel (ed.), New York: Oxford University Press, pp. 31–50.
 * Duhem, Pierre, 1914 [1954], *La théorie physique: son objet, sa structure*, second edition, Paris: Marcel Rivière. Translated as *The Aim and Structure of Physical Theory*, Philip P. Wiener (trans.), Princeton, NJ: Princeton University Press, 1954.
-* Emet, Stephen, 2010, “Agent-Relative Restrictions and Agent-Relative Value”, *Journal of Ethics and Social Philosophy*, 4(3): article 2 (14 pages). doi:10.26556/jesp.v4i3.46
-* Ewing, A. C., 1939, “A Suggested Non-Naturalistic Analysis of Good”, *Mind*, 48(189): 1–22. doi:10.1093/mind/XLVIII.189.1
+* Emet, Stephen, 2010, “Agent-Relative Restrictions and Agent-Relative Value”, *Journal of Ethics and Social Philosophy*, 4(3): article 2 (14 pages). doi: 10.26556/jesp.v4i3.46
+* Ewing, A. C., 1939, “A Suggested Non-Naturalistic Analysis of Good”, *Mind*, 48(189): 1–22. doi: 10.1093/mind/XLVIII.189.1
 * –––, 1948, *The Definition of Good*, New York: Macmillan and London: Routledge and Kegan Paul.
-* Foot, Philippa, 1985, “Utilitarianism and the Virtues”, *Mind*, 94(374): 196–209. doi:10.1093/mind/XCIV.374.196
+* Foot, Philippa, 1985, “Utilitarianism and the Virtues”, *Mind*, 94(374): 196–209. doi: 10.1093/mind/XCIV.374.196
 * Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-Consequentialist Theory of Morality*, Oxford: Clarendon Press.
-* Howard, Christopher, 2021, “Consequentialists Must Kill”, *Ethics*, 131(4): 727–753. doi:10.1086/713952
-* Howard, Nathan Robert, 2022, “Consequentialism and the Agent’s Point of View”, *Ethics*, 132(4): 787–816. doi:10.1086/719517
-* Hurley, Paul, 2013, “Consequentializing and Deontologizing: Clogging the Consequentialist Vacuum”, in *Oxford Studies in Normative Ethics, Volume 3*, Mark Timmons (ed.), Oxford: Oxford University Press, 123–153. doi:10.1093/acprof:oso/9780199685905.003.0007
-* –––, 2017, “Why Consequentialism’s ‘Compelling Idea’ Is Not:”, *Social Theory and Practice*, 43(1): 29–54. doi:10.5840/soctheorpract20174312
-* –––, 2018, “Consequentialism and the Standard Story of Action”, *The Journal of Ethics*, 22(1): 25–44. doi:10.1007/s10892-017-9261-1
-* –––, 2019, “Exiting The Consequentialist Circle: Two Senses of Bringing It About”, *Analytic Philosophy*, 60(2): 130–163. doi:10.1111/phib.12145
-* –––, 2020, “Consequentializing”, in Portmore 2020: 24–45. doi:10.1093/oxfordhb/9780190905323.013.23
-* Jackson, Frank, 2014, “Procrastinate Revisited”, *Pacific Philosophical Quarterly*, 95(4): 634–647. doi:10.1111/papq.12051
+* Howard, Christopher, 2021, “Consequentialists Must Kill”, *Ethics*, 131(4): 727–753. doi: 10.1086/713952
+* Howard, Nathan Robert, 2022, “Consequentialism and the Agent’s Point of View”, *Ethics*, 132(4): 787–816. doi: 10.1086/719517
+* Hurley, Paul, 2013, “Consequentializing and Deontologizing: Clogging the Consequentialist Vacuum”, in *Oxford Studies in Normative Ethics, Volume 3*, Mark Timmons (ed.), Oxford: Oxford University Press, 123–153. doi: 10.1093/acprof: oso/9780199685905.003.0007
+* –––, 2017, “Why Consequentialism’s ‘Compelling Idea’ Is Not:”, *Social Theory and Practice*, 43(1): 29–54. doi: 10.5840/soctheorpract20174312
+* –––, 2018, “Consequentialism and the Standard Story of Action”, *The Journal of Ethics*, 22(1): 25–44. doi: 10.1007/s10892-017-9261-1
+* –––, 2019, “Exiting The Consequentialist Circle: Two Senses of Bringing It About”, *Analytic Philosophy*, 60(2): 130–163. doi: 10.1111/phib.12145
+* –––, 2020, “Consequentializing”, in Portmore 2020: 24–45. doi: 10.1093/oxfordhb/9780190905323.013.23
+* Jackson, Frank, 2014, “Procrastinate Revisited”, *Pacific Philosophical Quarterly*, 95(4): 634–647. doi: 10.1111/papq.12051
 * Kamm, Frances M., 1996, *Morality, Mortality. Vol. 2, Rights, Duties, and Status*, New York: Oxford University Press.
-* Korsgaard, Christine M., 1993 [1996], “The Reasons We Can Share: An Attack on the Distinction between Agent-Relative and Agent-Neutral Values”, *Social Philosophy and Policy*, 10(1): 24–51. Reprinted in her *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press, 1996, 275–310. doi:10.1017/S0265052500004003
-* Lazar, Seth, 2017, “Deontological Decision Theory and Agent-Centered Options”, *Ethics*, 127(3): 579–609. doi:10.1086/690069
-* Lousie, Jennie, 2004, “Relativity of Value and the Consequentialist Umbrella”, *The Philosophical Quarterly*, 54(217): 518–536. doi:10.1111/j.0031-8094.2004.00370.x
-* Lopez, Theresa, Jennifer Zamzow, Michael Gill, and Shaun Nichols, 2009, “Side Constraints and the Structure of Commonsense Ethics”, *Philosophical Perspectives*, 23(1): 305–319. doi:10.1111/j.1520-8583.2009.00173.x
+* Korsgaard, Christine M., 1993 [1996], “The Reasons We Can Share: An Attack on the Distinction between Agent-Relative and Agent-Neutral Values”, *Social Philosophy and Policy*, 10(1): 24–51. Reprinted in her *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press, 1996, 275–310. doi: 10.1017/S0265052500004003
+* Lazar, Seth, 2017, “Deontological Decision Theory and Agent-Centered Options”, *Ethics*, 127(3): 579–609. doi: 10.1086/690069
+* Lousie, Jennie, 2004, “Relativity of Value and the Consequentialist Umbrella”, *The Philosophical Quarterly*, 54(217): 518–536. doi: 10.1111/j.0031-8094.2004.00370.x
+* Lopez, Theresa, Jennifer Zamzow, Michael Gill, and Shaun Nichols, 2009, “Side Constraints and the Structure of Commonsense Ethics”, *Philosophical Perspectives*, 23(1): 305–319. doi: 10.1111/j.1520-8583.2009.00173.x
 * Mill, John Stuart, 1861 [1991], *Utilitarianism*, London: Fraser. Collected in in *Collected Works of John Stuart Mill*, Vol. 10, J. M. Robson (ed.), London: Routledge, 1991, 203–259.
 * Moore, G. E., 1903, *Principia Ethica*, Cambridge: Cambridge University Press.
-* Nair, Shyam, 2020, “Fault Lines in Ethical Theory”, in Portmore 2020: 67–92. doi:10.1093/oxfordhb/9780190905323.013.24
+* Nair, Shyam, 2020, “Fault Lines in Ethical Theory”, in Portmore 2020: 67–92. doi: 10.1093/oxfordhb/9780190905323.013.24
 * Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
-* Otsuka, Michael, 2011, “Are Deontological Constraints Irrational?”, in *The Cambridge Companion to Nozick’s “Anarchy, State, and Utopia”*, Ralf M. Bader and John Meadowcroft (eds.), Cambridge: Cambridge University Press, 38–58. doi:10.1017/CCOL9780521197762.004
+* Otsuka, Michael, 2011, “Are Deontological Constraints Irrational?”, in *The Cambridge Companion to Nozick’s “Anarchy, State, and Utopia”*, Ralf M. Bader and John Meadowcroft (eds.), Cambridge: Cambridge University Press, 38–58. doi: 10.1017/CCOL9780521197762.004
 * Paley, William, 1802, *Natural Theology; Or, Evidence of the Existence and Attributes of the Deity*, London: Wilks and Taylor.
-* Peterson, Martin, 2010, “A Royal Road to Consequentialism?”, *Ethical Theory and Moral Practice*, 13(2): 153–169. doi:10.1007/s10677-009-9198-y
-* Portmore, Douglas W., 2007, “Consequentializing Moral Theories”, *Pacific Philosophical Quarterly*, 88(1): 39–73. doi:10.1111/j.1468-0114.2007.00280.x
-* –––, 2011, *Commonsense Consequentialism: Wherein Morality Meets Rationality*, (Oxford Moral Theory), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199794539.001.0001
-* –––, 2019, *Opting for the Best: Oughts and Options*, (Oxford Moral Theory), New York, NY: Oxford University Press. doi:10.1093/oso/9780190945350.001.0001
-* ––– (ed.), 2020, *The Oxford Handbook of Consequentialism*, New York: Oxford University Press. doi:10.1093/oxfordhb/9780190905323.001.0001
-* –––, forthcoming, “Consequentializing Agent‐centered Restrictions: A Kantsequentialist Approach”, *Analytic Philosophy*, early online: 12 April 2022. doi:10.1111/phib.12270
-* Quine, W. V. O., 1951 [1953], “Two Dogmas of Empiricism”, *The Philosophical Review*, 60(1): 20–43. Reprinted in his *From a Logical Point of View*, second edition, Cambridge, MA: Harvard University Press, 1953, 20–46. doi:10.2307/2181906
-* Ross, W. David, 1930 [2002], *The Right and the Good*, Oxford: The Clarendon Press. Reprinted Philip Stratton-Lake (ed.), Oxford: Clarendon Press, 2002. doi:10.1093/0199252653.001.0001
+* Peterson, Martin, 2010, “A Royal Road to Consequentialism?”, *Ethical Theory and Moral Practice*, 13(2): 153–169. doi: 10.1007/s10677-009-9198-y
+* Portmore, Douglas W., 2007, “Consequentializing Moral Theories”, *Pacific Philosophical Quarterly*, 88(1): 39–73. doi: 10.1111/j.1468-0114.2007.00280.x
+* –––, 2011, *Commonsense Consequentialism: Wherein Morality Meets Rationality*, (Oxford Moral Theory), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199794539.001.0001
+* –––, 2019, *Opting for the Best: Oughts and Options*, (Oxford Moral Theory), New York, NY: Oxford University Press. doi: 10.1093/oso/9780190945350.001.0001
+* ––– (ed.), 2020, *The Oxford Handbook of Consequentialism*, New York: Oxford University Press. doi: 10.1093/oxfordhb/9780190905323.001.0001
+* –––, forthcoming, “Consequentializing Agent‐centered Restrictions: A Kantsequentialist Approach”, *Analytic Philosophy*, early online: 12 April 2022. doi: 10.1111/phib.12270
+* Quine, W. V. O., 1951 [1953], “Two Dogmas of Empiricism”, *The Philosophical Review*, 60(1): 20–43. Reprinted in his *From a Logical Point of View*, second edition, Cambridge, MA: Harvard University Press, 1953, 20–46. doi: 10.2307/2181906
+* Ross, W. David, 1930 [2002], *The Right and the Good*, Oxford: The Clarendon Press. Reprinted Philip Stratton-Lake (ed.), Oxford: Clarendon Press, 2002. doi: 10.1093/0199252653.001.0001
 * –––, 1939, *Foundations of Ethics: The Gifford Lectures Delivered in the University of Aberdeen, 1935-*, Oxford: The Clarendon Press.
-* Sachs, Benjamin, 2010, “Consequentialism’s Double-Edged Sword”, *Utilitas*, 22(3): 258–271. doi:10.1017/S095382081000018X
+* Sachs, Benjamin, 2010, “Consequentialism’s Double-Edged Sword”, *Utilitas*, 22(3): 258–271. doi: 10.1017/S095382081000018X
 * Scheffler, Samuel, 1982 [1994], *The Rejection of Consequentialism: A Philosophical Investigation of the Considerations Underlying Rival Moral Conceptions*, Oxford: Clarendon Press. Revised edition, 1994.
-* –––, 1985, “Agent-Centred Restrictions, Rationality, and the Virtues”, *Mind*, 94(375): 409–419. doi:10.1093/mind/XCIV.375.409
-* Schroeder, Mark, 2007, “Teleology, Agent‐Relative Value, and ‘Good’”, *Ethics*, 117(2): 265–000. doi:10.1086/511662
-* Schroeder, S. Andrew, 2017, “Consequentializing and Its Consequences”, *Philosophical Studies*, 174(6): 1475–1497. doi:10.1007/s11098-016-0768-2
+* –––, 1985, “Agent-Centred Restrictions, Rationality, and the Virtues”, *Mind*, 94(375): 409–419. doi: 10.1093/mind/XCIV.375.409
+* Schroeder, Mark, 2007, “Teleology, Agent‐Relative Value, and ‘Good’”, *Ethics*, 117(2): 265–000. doi: 10.1086/511662
+* Schroeder, S. Andrew, 2017, “Consequentializing and Its Consequences”, *Philosophical Studies*, 174(6): 1475–1497. doi: 10.1007/s11098-016-0768-2
 * Sen, Amartya, 1982, “Rights and Agency”, *Philosophy & Public Affairs*, 11(1): 3–39.
 * –––, 1983, “Evaluator Relativity and Consequential Evaluation”, *Philosophy & Public Affairs*, 12(2): 113–132.
-* Setiya, Kieran, 2018, “Must Consequentialists Kill?”:, *The Journal of Philosophy*, 115(2): 92–105. doi:10.5840/jphil201811525
+* Setiya, Kieran, 2018, “Must Consequentialists Kill?”:, *The Journal of Philosophy*, 115(2): 92–105. doi: 10.5840/jphil201811525
 * Shaver, Robert, 2002 [2021], “Egoism”, *The Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2021/entries/egoism/>.
-* Sider, Theodore, 1993, “Asymmetry and Self-Sacrifice”, *Philosophical Studies*, 70(2): 117–132. doi:10.1007/BF00989586
-* Sidgwick, Henry, 1877, “Mr.Barratt on ‘The Suppression of Egoism’”, *Mind*, original series, 2(7): 411–412. doi:10.1093/mind/os-2.7.411
+* Sider, Theodore, 1993, “Asymmetry and Self-Sacrifice”, *Philosophical Studies*, 70(2): 117–132. doi: 10.1007/BF00989586
+* Sidgwick, Henry, 1877, “Mr.Barratt on ‘The Suppression of Egoism’”, *Mind*, original series, 2(7): 411–412. doi: 10.1093/mind/os-2.7.411
 * –––, 1907, *The Methods of Ethics*, seventh edition, London: Macmillan. The first edition was published in 1874.
-* Smith, Michael, 2003, “Neutral and Relative Value after Moore”, *Ethics*, 113(3): 576–598. doi:10.1086/345626
-* Suikkanen, Jussi, 2020, “Consequentializing Moral Dilemmas”, *Journal of Moral Philosophy*, 17(3): 261–289. doi:10.1163/17455243-01703001
-* Tenenbaum, Sergio, 2014, “The Perils of Earnest Consequentializing”, *Philosophy and Phenomenological Research*, 88(1): 233–240. doi:10.1111/phpr.12080
+* Smith, Michael, 2003, “Neutral and Relative Value after Moore”, *Ethics*, 113(3): 576–598. doi: 10.1086/345626
+* Suikkanen, Jussi, 2020, “Consequentializing Moral Dilemmas”, *Journal of Moral Philosophy*, 17(3): 261–289. doi: 10.1163/17455243-01703001
+* Tenenbaum, Sergio, 2014, “The Perils of Earnest Consequentializing”, *Philosophy and Phenomenological Research*, 88(1): 233–240. doi: 10.1111/phpr.12080
 * Timmerman, Travis and Yishai Cohen, 2019 [2020], “Actualism and Possibilism in Ethics”, in *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2020/entries/actualism-possibilism-ethics/>.
 * Thomson, Judith J., 2003, *Goodness and Advice*, Princeton, NJ: Princeton University Press.
 * Williams, Bernard, 1973, “A Critique of Utilitarianism”, in *Utilitarianism: For and Against*, J. J. C. Smart and B. Williams (eds), Cambridge: Cambridge University Press, pp. 75–150.
-* Wood, Allen W., 2017, “How a Kantian Decides What to Do”, in *The Palgrave Kant Handbook*, Matthew C. Altman (ed.), London: Palgrave Macmillan UK, 263–284. doi:10.1057/978-1-137-54656-2_12
+* Wood, Allen W., 2017, “How a Kantian Decides What to Do”, in *The Palgrave Kant Handbook*, Matthew C. Altman (ed.), London: Palgrave Macmillan UK, 263–284. doi: 10.1057/978-1-137-54656-2_12
 
 ## Academic Tools
 

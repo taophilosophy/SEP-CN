@@ -1,18 +1,18 @@
 # 本体论证明 ontological arguments (Graham Oppy)
 
-*首次发表于1996年2月8日，实质性修订于2019年2月6日。*
+*首次发表于 1996 年 2 月 8 日，实质性修订于 2019 年 2 月 6 日。*
 
 本体论证明是关于上帝存在的论证，其前提被认为源自于观察世界以外的某种来源，例如仅仅基于理性。换句话说，本体论证明是从通常被认为是分析的、先验的和必然的前提推导出上帝存在的结论的论证。
 
 第一个也是最著名的本体论证明由 11 世纪的坎特伯雷的圣安瑟姆提出。在他的《祈祷篇》中，圣安瑟姆声称从一个无法想象有更伟大的存在的概念中推导出上帝的存在。圣安瑟姆推理道，如果这样一个存在不存在，那么一个更伟大的存在——即一个无法想象有更伟大的存在且存在的存在——可以被想象出来。但这是荒谬的：没有什么能比一个无法想象有更伟大的存在更伟大。因此，一个无法想象有更伟大的存在——即上帝——存在。
 
-在 17 世纪，勒内·笛卡尔提出了一系列类似的论证。例如，在《第五冥想》中，笛卡尔声称从一个至高无上完美存在的概念中提供了证明上帝存在的证明。笛卡尔认为，在构思一个至高无上完美存在与构思一个内角和不等于 180 度的三角形一样，都没有更少的矛盾。因此，他假设，既然我们构思了一个至高无上完美存在——我们确实有一个至高无上完美存在的概念——我们必须得出结论，至高无上完美存在是存在的。
+在 17 世纪，勒内 · 笛卡尔提出了一系列类似的论证。例如，在《第五冥想》中，笛卡尔声称从一个至高无上完美存在的概念中提供了证明上帝存在的证明。笛卡尔认为，在构思一个至高无上完美存在与构思一个内角和不等于 180 度的三角形一样，都没有更少的矛盾。因此，他假设，既然我们构思了一个至高无上完美存在——我们确实有一个至高无上完美存在的概念——我们必须得出结论，至高无上完美存在是存在的。
 
-在 18 世纪初，戈特弗里德·莱布尼茨试图填补笛卡尔观点中的一个缺点。根据莱布尼茨的观点，除非首先证明至高无上的存在是连贯的，或者至高无上的存在是可能的，否则笛卡尔的论证是失败的。莱布尼茨认为，由于完美是无法分析的，因此不可能证明完美是不相容的，因此他得出结论，所有的完美可以在一个实体中共存。
+在 18 世纪初，戈特弗里德 · 莱布尼茨试图填补笛卡尔观点中的一个缺点。根据莱布尼茨的观点，除非首先证明至高无上的存在是连贯的，或者至高无上的存在是可能的，否则笛卡尔的论证是失败的。莱布尼茨认为，由于完美是无法分析的，因此不可能证明完美是不相容的，因此他得出结论，所有的完美可以在一个实体中共存。
 
-在近代，库尔特·哥德尔、查尔斯·哈特肖恩、诺曼·马尔科姆和阿尔文·普兰廷加都提出了备受争议的本体论证，与圣安瑟姆、笛卡尔和莱布尼茨的早期论证有着有趣的联系。其中最有趣的是哥德尔和普兰廷加的论证；然而，在这些情况下，我们是否真的应该说这些作者声称这些论证是证明上帝存在的证据还不清楚。
+在近代，库尔特 · 哥德尔、查尔斯 · 哈特肖恩、诺曼 · 马尔科姆和阿尔文 · 普兰廷加都提出了备受争议的本体论证，与圣安瑟姆、笛卡尔和莱布尼茨的早期论证有着有趣的联系。其中最有趣的是哥德尔和普兰廷加的论证；然而，在这些情况下，我们是否真的应该说这些作者声称这些论证是证明上帝存在的证据还不清楚。
 
-对本体论证的批评始于圣安瑟姆的同时代人高尼洛。对本体论证最著名的批评可能要归功于伊曼努尔·康德在他的《纯粹理性批判》中提出的观点。最著名的是，康德认为本体论证是因为依赖于“存在”是一个真实的谓词的隐含假设而无效。然而，正如伯特兰·罗素所观察到的，相比于确切指出本体论证的问题在哪里，更容易被说服本体论证是无效的。这有助于解释为什么本体论证在近千年来一直吸引着哲学家们的兴趣。
+对本体论证的批评始于圣安瑟姆的同时代人高尼洛。对本体论证最著名的批评可能要归功于伊曼努尔 · 康德在他的《纯粹理性批判》中提出的观点。最著名的是，康德认为本体论证是因为依赖于“存在”是一个真实的谓词的隐含假设而无效。然而，正如伯特兰 · 罗素所观察到的，相比于确切指出本体论证的问题在哪里，更容易被说服本体论证是无效的。这有助于解释为什么本体论证在近千年来一直吸引着哲学家们的兴趣。
 
 在各种方式中，到目前为止提供的解释是粗略的，有待改进。接下来的第 1-6 节提供了一些必要的修饰，尽管如哲学中通常的情况一样，这里涉及到的许多问题可以更详细地探讨。第 7-9 节以稍微复杂一些的讨论水平探讨了一些核心问题。第 10 节是对本体论证最近研究的快速概述：
 
@@ -22,7 +22,7 @@
 
 | 1078:  | 圣安瑟姆，《本体论证明》。紧随其后是高尼洛的《为愚人辩护》批判。                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------- |
-| 1264:  | 圣托马斯·阿奎那，《总论》。批评了一种某种程度上源自圣安瑟姆的论证。                                                                             |
+| 1264:  | 圣托马斯 · 阿奎那，《总论》。批评了一种某种程度上源自圣安瑟姆的论证。                                                                             |
 | 1637:  | 笛卡尔，《方法论述》。第四篇的论证在《冥想》中进一步阐述。异议——尤其是卡特鲁斯和加桑迪的异议——以及回应中包含了对笛卡尔论证的有价值的讨论。                                        |
 | c1680: | 斯宾诺莎，《伦理学》。本体论证明的可辩护的部分，尽管其结论（显然）没有宗教意义。                                                                       |
 | 1709:  | 莱布尼兹，《论人类理解的新论》。包含莱布尼兹试图通过展示笛卡尔对上帝的概念并不矛盾来完成笛卡尔论证的尝试。                                                          |
@@ -49,11 +49,11 @@
 5. 经验性本体论证明;
 6. 部分整体本体论证明;
 7. 高阶本体论证明; and
-8. "黑格尔式"本体论证明；
+8. "黑格尔式" 本体论证明；
 
 除最后一个之外的所有示例都如下所示。这些大多是玩具示例。但它们用于突出更复杂示例所共有的不足之处。
 
-注意：没有提供"黑格尔式"本体论证的示例。目前没有明确陈述"黑格尔式"本体论证的全部前提的讨论。（有关此观点的最新讨论，请参阅雷丁和布比奥 2014 年的论文。）
+注意：没有提供 "黑格尔式" 本体论证的示例。目前没有明确陈述 "黑格尔式" 本体论证的全部前提的讨论。（有关此观点的最新讨论，请参阅雷丁和布比奥 2014 年的论文。）
 
 1. 上帝是一个具有每一种完美的存在。（这是根据定义而言的真理。）存在是一种完美。因此上帝存在。
 2. 我构想了一个没有比它更伟大的存在。如果一个没有比它更伟大的存在不存在，那么我可以构想出一个比一个没有比它更伟大的存在更伟大的存在——即一个存在的没有比它更伟大的存在。我无法构想出一个比一个没有比它更伟大的存在更伟大的存在。因此，一个没有比它更伟大的存在存在。
@@ -119,7 +119,7 @@
 
 这些前提意味着上帝在任何可能的世界中都不存在，因此上帝在实际世界中也不存在。综合考虑，刚才提到的论证和反论证明显地没有给任何人一个理由去偏好有神论而不是非神论，也没有给任何人一个理由去偏好非神论而不是有神论。因此，这个样例论证是不成功的：它没有提供一个全面考虑的理由去偏好有神论而不是非神论（就像反论证没有提供一个全面考虑的理由去偏好非神论而不是有神论）。
 
-(4) 麦农派论证：这些论证在某种程度上依赖于麦农的对象理论。考虑模式“F G 是 F”。天真的麦农派会认为，如果F被任何属性实例化，那么结果就是真的（而且很可能是必然的、分析的和先验的）。因此，例如，圆形的正方形是圆的；法国现任国王是秃头的；等等。然而，更复杂的麦农派会坚持认为，对于F的替代实例必须有一定的限制，以便能够在以下两组之间进行明显且重要的本体论区分：{比尔·克林顿、太阳、埃菲尔铁塔}和{圣诞老人、米老鼠、圆形的正方形}。这里的词汇选择是有争议的：让我们假设（举例而言）正确的说法是前者存在，后者不存在。在这种假设下，“存在的”将不是F的合适替代实例——显然，因为我们都同意不存在存在的圆形正方形。当然，选择“存在的”作为关键词汇并不重要。关键是非神论者不准备将上帝包括在前一组对象中，因此他们不会被试图使用用于区分这两类的任何词汇作为将上帝归属于前一组的论证的基础的任何论证所说服。（内行人会认识到关键点在于麦农的本体论证未能尊重核心（可假设的、表征性）属性和非核心（不可假设的、非表征性）属性之间的区别。当然，应该注意的是，无论是麦农还是他的任何著名现代支持者——例如 Terence Parsons, Richard Sylvan - 从来没有支持过一个 Meinongian 本体论证; 还应该注意到，大多数人之所以区分核心和非核心属性，部分原因是为了避免 Meinongian 本体论证。之所以称这些论证为“Meinongian”，是因为它们依赖于对不存在的对象的量化或引用; 在使用这个标签时没有贬义的意图。)
+(4) 麦农派论证：这些论证在某种程度上依赖于麦农的对象理论。考虑模式“F G 是 F”。天真的麦农派会认为，如果 F 被任何属性实例化，那么结果就是真的（而且很可能是必然的、分析的和先验的）。因此，例如，圆形的正方形是圆的；法国现任国王是秃头的；等等。然而，更复杂的麦农派会坚持认为，对于 F 的替代实例必须有一定的限制，以便能够在以下两组之间进行明显且重要的本体论区分：{比尔 · 克林顿、太阳、埃菲尔铁塔}和{圣诞老人、米老鼠、圆形的正方形}。这里的词汇选择是有争议的：让我们假设（举例而言）正确的说法是前者存在，后者不存在。在这种假设下，“存在的”将不是 F 的合适替代实例——显然，因为我们都同意不存在存在的圆形正方形。当然，选择“存在的”作为关键词汇并不重要。关键是非神论者不准备将上帝包括在前一组对象中，因此他们不会被试图使用用于区分这两类的任何词汇作为将上帝归属于前一组的论证的基础的任何论证所说服。（内行人会认识到关键点在于麦农的本体论证未能尊重核心（可假设的、表征性）属性和非核心（不可假设的、非表征性）属性之间的区别。当然，应该注意的是，无论是麦农还是他的任何著名现代支持者——例如 Terence Parsons, Richard Sylvan - 从来没有支持过一个 Meinongian 本体论证; 还应该注意到，大多数人之所以区分核心和非核心属性，部分原因是为了避免 Meinongian 本体论证。之所以称这些论证为“Meinongian”，是因为它们依赖于对不存在的对象的量化或引用; 在使用这个标签时没有贬义的意图。)
 
 (5) 经验论证：这些论证试图利用“外在主义”或“涉及对象”的内容解释。它们失败并不令人意外。毕竟，这些内容解释需要对无法引用的表达式（如“圣诞老人”，“燃素”等）有所说明。但是，无神论者将坚持认为声称指称上帝的表达式应该得到完全相同的对待。
 
@@ -129,7 +129,7 @@
 
 即使前面的分析是正确的，重要的是要注意，没有提出任何论证来证明没有本体论证可以成功的结论。即使迄今为止提出的各种论证都明显不成功，即不应该给非神论者理由接受上帝存在的结论，是否存在其他一种迄今未被发现的本体论证，它能够成功，这仍然是一个悬而未决的问题。（或许值得在这里补充一下，即使在神论者中间，也有相当广泛的共识，即没有已知的本体论证能够令人信服地证明上帝的存在。大多数本体论证的类别都有一些实际的支持者，但没有一种有大量的追随者。）
 
-已经提出了许多对（某些）本体论证的其他反对意见。以下所有的反对意见都被认为是解释（至少某些）本体论证失败的关键：（1）存在不是一个谓词（参见康德，斯马特1955年，奥尔斯顿1960年）；（2）上帝的概念是无意义/不连贯/不一致的（参见芬德莱1949年）；（3）本体论证被“缺失解释论证”排除（参见约翰斯顿1992年）；（4）本体论证都是基于对特指术语错误使用的交易（参见巴恩斯1972年）；（5）存在不是完美的（参见几乎任何一本宗教哲学教科书）；（6）本体论证假设了迈农派对本体论的方法（参见达梅特1993年）；以及（7）本体论证是自圆其说的，即预设了它们试图证明的东西（参见罗1989年）。关于这些反对意见有很多话要说：最重要的一点是，几乎所有这些意见都需要比非神论者更有争议的假设，才能够以良心的方式拒绝本体论证。试图支持大多数这些主张，仅仅是为了打击本体论证，就像用蒸汽压路机去砸坚果一样（在不确定能否使蒸汽压路机移动的情况下）。
+已经提出了许多对（某些）本体论证的其他反对意见。以下所有的反对意见都被认为是解释（至少某些）本体论证失败的关键：（1）存在不是一个谓词（参见康德，斯马特 1955 年，奥尔斯顿 1960 年）；（2）上帝的概念是无意义/不连贯/不一致的（参见芬德莱 1949 年）；（3）本体论证被“缺失解释论证”排除（参见约翰斯顿 1992 年）；（4）本体论证都是基于对特指术语错误使用的交易（参见巴恩斯 1972 年）；（5）存在不是完美的（参见几乎任何一本宗教哲学教科书）；（6）本体论证假设了迈农派对本体论的方法（参见达梅特 1993 年）；以及（7）本体论证是自圆其说的，即预设了它们试图证明的东西（参见罗 1989 年）。关于这些反对意见有很多话要说：最重要的一点是，几乎所有这些意见都需要比非神论者更有争议的假设，才能够以良心的方式拒绝本体论证。试图支持大多数这些主张，仅仅是为了打击本体论证，就像用蒸汽压路机去砸坚果一样（在不确定能否使蒸汽压路机移动的情况下）。
 
 当然，上述讨论仅针对本体论证明不具有辩证效力的主张，即它们没有给合理的非神论者改变观点的理由。也许有人会想，本体论证还有其他用途，例如像普兰廷加所声称的那样，用来证明神论的合理性。这似乎不太可能。毕竟，这些论证充其量只能表明某些句子集合（信仰等）是不一致的，即在接受这些论证的前提的同时无法拒绝它们的结论。但是这些论证本身并没有关于接受前提的合理性的说法。因此，这些论证本身并没有关于接受这些论证的结论的（无条件的）合理性的说法。那些倾向于认为神论是非理性的人在本体论证中找不到任何理由改变他们的观点（而那些倾向于认为神论是真实的人也不应该从中得到任何安慰）。
 
@@ -145,9 +145,9 @@
 
 (4) 分析性、必然性和先验性都表明，F G 是 F。因此，创造恰好 n 个宇宙的存在完美的存在者是存在的。因此，创造恰好 n 个宇宙的完美存在者存在。
 
-有许多对本体论证明的恶搞版本。其目的是构建那些非神论者可以合理地声称没有比原始本体论证明更有理由接受的论证。当然，有神论者可能认为原始论证是正确的，而恶搞版本则不是，但这是一个完全无关的问题。（所有有神论者——没有非神论者——都应该承认以下论证是正确的，前提是将连接词经典地解释为：“要么 2+2=5，要么上帝存在。不是 2+2=5。因此上帝存在。”这个论证对任何有关神论的案例都没有积极的贡献，就像论证“要么 2+2=5，要么上帝不存在。不是 2+2=5。因此上帝不存在。”对非神论的案例没有积极的贡献一样。）
+有许多对本体论证明的恶搞版本。其目的是构建那些非神论者可以合理地声称没有比原始本体论证明更有理由接受的论证。当然，有神论者可能认为原始论证是正确的，而恶搞版本则不是，但这是一个完全无关的问题。（所有有神论者——没有非神论者——都应该承认以下论证是正确的，前提是将连接词经典地解释为：“要么 2+2 = 5，要么上帝存在。不是 2+2 = 5。因此上帝存在。”这个论证对任何有关神论的案例都没有积极的贡献，就像论证“要么 2+2 = 5，要么上帝不存在。不是 2+2 = 5。因此上帝不存在。”对非神论的案例没有积极的贡献一样。）
 
-文献中有许多对本体论证明的恶搞讨论。例如，雷蒙德·斯穆利安（1984）提供的恶搞版本将这个论证归功于“未知的荷兰神学家范·多拉德”。最近的一个恶搞版本是格雷（2000）描述的，尽管其构建的日期不确定。这是墨尔本大学哲学教授道格拉斯·加斯金的作品（由威廉·格雷和丹尼斯·罗宾逊修订）。
+文献中有许多对本体论证明的恶搞讨论。例如，雷蒙德 · 斯穆利安（1984）提供的恶搞版本将这个论证归功于“未知的荷兰神学家范 · 多拉德”。最近的一个恶搞版本是格雷（2000）描述的，尽管其构建的日期不确定。这是墨尔本大学哲学教授道格拉斯 · 加斯金的作品（由威廉 · 格雷和丹尼斯 · 罗宾逊修订）。
 
 1. 创造世界是最令人惊叹的成就。
 2. 一个成就的价值是其内在品质和创造者的能力的产物。
@@ -206,7 +206,7 @@ Chambers 2000 和 Siegwart 2014 提供了关于高尼洛对 Proslogion II 论证
 
 根据哥德尔的理论假设，我们可以证明符合（1）-（6）的任何集合都具有仅包含该集合中的属性作为本质属性的特性。哥德尔希望我们得出结论，存在一个直观且具有神学意义的属性集，该集合具有仅包含该集合中的属性作为本质属性的特性。但是，一方面，我们有什么理由认为存在符合哥德尔规范的任何具有神学意义的属性集？另一方面，我们有什么理由否认，如果存在一个符合哥德尔规范的具有神学意义的属性集，那么也存在许多符合该规范的具有神学威胁的属性集？
 
-特别是，有一些理由认为，哥德尔的本体论证明在其他一些属性集合上同样有效（或同样无效），而且以一种对原始论证有害的方式进行。假设存在一些独立属性集合{I, G1, G2, …}，可以通过蕴涵和“必然性”来生成正面属性集合。（“独立性”意味着：集合中的属性没有一个是由其他所有属性蕴涵的。“必然性”意味着：如果P在集合中，则必然具有P。I是具有作为基本属性的那些属性的属性，这些属性在集合中。G1，G2，…是进一步的属性，我们要求至少有两个。）考虑集合{G1，G2，…}的任何真子集——{H1，H2，…}，并定义一个新的生成集合{I _，H1，H2，…}，其中I_是具有作为基本属性的那些属性的属性，这些属性在新生成的集合中。哥德尔提供的“证明”“证明”存在一个具有作为基本属性的那些属性的存在。如果原始生成集合中有至少7个独立属性，那么我们将能够通过哥德尔提供的论证方式证明存在720个不同的“类似上帝”的生物。（这些生物是不同的，因为每个生物具有不同的基本属性集合。）
+特别是，有一些理由认为，哥德尔的本体论证明在其他一些属性集合上同样有效（或同样无效），而且以一种对原始论证有害的方式进行。假设存在一些独立属性集合{I, G1, G2, …}，可以通过蕴涵和“必然性”来生成正面属性集合。（“独立性”意味着：集合中的属性没有一个是由其他所有属性蕴涵的。“必然性”意味着：如果 P 在集合中，则必然具有 P。I 是具有作为基本属性的那些属性的属性，这些属性在集合中。G1，G2，…是进一步的属性，我们要求至少有两个。）考虑集合{G1，G2，…}的任何真子集——{H1，H2，…}，并定义一个新的生成集合{I _，H1，H2，…}，其中 I_是具有作为基本属性的那些属性的属性，这些属性在新生成的集合中。哥德尔提供的“证明”“证明”存在一个具有作为基本属性的那些属性的存在。如果原始生成集合中有至少 7 个独立属性，那么我们将能够通过哥德尔提供的论证方式证明存在 720 个不同的“类似上帝”的生物。（这些生物是不同的，因为每个生物具有不同的基本属性集合。）
 
 即使上述考虑足以对哥德尔的“证明”的资格产生怀疑，它们并没有指出“证明”出了什么问题。如果我们接受公理 1、2、4 和 6 的作用实际上只是以正确的方式限制“积极属性”的概念，或者换句话说，如果我们假设公理 1、2、4 和 6 是关于“积极属性”的“分析真理”，那么“证明”的反对者有充分的理由对公理 3 和 5 持怀疑态度。康德对公理 5 不会满意；至少有一些理由认为，是否将类似上帝的属性视为“积极”的应该取决于是否存在类似上帝的存在。
 
@@ -230,7 +230,7 @@ Plantinga 1974 年的“胜利的”模态本体论证明大致如下：假设�
 
 或许有些令人惊讶的是，普兰廷加本人也同意：这个“胜利的”本体论证并不是一个证明存在一个具有最大伟大性的存在的证明。但是，那么它是如何“胜利”的呢？普兰廷加写道：“我们对这些重述的圣安瑟姆论证的评判必须如下。它们或许不能被说成证明或建立它们的结论。但是，由于接受它们的中心前提是合理的，它们确实表明接受那个结论是合理的”（普兰廷加 1974 年，221 页）。
 
-很明显，普兰廷加的论证并没有展示他所声称的内容。再次考虑这个论证：“要么上帝存在，要么2+2=5。2+2不等于5。所以上帝存在。”一个有神论者说“由于前提是真实的（且论证有效），这个论证表明了论证的结论是真实的”是错误的，就像一个非有神论者说“由于前提是真实的（且论证有效），这个论证表明了上帝不存在”一样是错误的。同样，一个有神论者说“由于接受前提是合理的（且论证有效），这个论证表明了接受上帝存在的主张是合理的”是错误的，就像一个非有神论者说“由于接受非有神论论证的前提是合理的（且论证有效），这个非有神论论证表明了接受上帝不存在的主张是合理的”一样是错误的。虽然对于为什么会这样存在争议，有不同的解释和理论，但可以合理地说，在每种情况下，任何一个对论证的结论的声称状态存在疑虑的最基本合理人都会对论证的前提的声称状态存在同样的疑虑。例如，如果我怀疑接受上帝存在的主张是合理的，那么你可以确信我会怀疑接受2+2=5或上帝存在的主张是合理的。但同样的观点也适用于普兰廷加的论证：任何一个具有最基本合理性、理解论证的前提和结论，并对认为相对于拥有最大伟大性的实体来说，相信这是合理的主张存在疑虑的人，对认为相对于在一个可能的世界中存在一个拥有最大伟大性的实体来说，相信这是合理的主张也会存在同样的疑虑。
+很明显，普兰廷加的论证并没有展示他所声称的内容。再次考虑这个论证：“要么上帝存在，要么 2+2 = 5。2+2 不等于 5。所以上帝存在。”一个有神论者说“由于前提是真实的（且论证有效），这个论证表明了论证的结论是真实的”是错误的，就像一个非有神论者说“由于前提是真实的（且论证有效），这个论证表明了上帝不存在”一样是错误的。同样，一个有神论者说“由于接受前提是合理的（且论证有效），这个论证表明了接受上帝存在的主张是合理的”是错误的，就像一个非有神论者说“由于接受非有神论论证的前提是合理的（且论证有效），这个非有神论论证表明了接受上帝不存在的主张是合理的”一样是错误的。虽然对于为什么会这样存在争议，有不同的解释和理论，但可以合理地说，在每种情况下，任何一个对论证的结论的声称状态存在疑虑的最基本合理人都会对论证的前提的声称状态存在同样的疑虑。例如，如果我怀疑接受上帝存在的主张是合理的，那么你可以确信我会怀疑接受 2+2 = 5 或上帝存在的主张是合理的。但同样的观点也适用于普兰廷加的论证：任何一个具有最基本合理性、理解论证的前提和结论，并对认为相对于拥有最大伟大性的实体来说，相信这是合理的主张存在疑虑的人，对认为相对于在一个可能的世界中存在一个拥有最大伟大性的实体来说，相信这是合理的主张也会存在同样的疑虑。
 
 有关普兰廷加的论证的进一步讨论，请参见例如 Adams 1988，Chandler 1993，Oppy 1995（70-78，248-259），Rasmussen（2018），Tooley 1981 和 van Inwagen 1977）。
 
@@ -272,10 +272,10 @@ Plantinga 1974 年的“胜利的”模态本体论证明大致如下：假设�
 
 ### 9.3 第三个表述
 
-1. 存在一个事物 x 和一个量度 m，使得 x 存在于理解中，m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n>m。（前提）
-2. 对于任何事物 x 和量度 m，如果 x 存在于理解中，m 是 x 的量度，并且不可能存在一个事物 y 和量度 n，使得 n 是 y 的量度且 n>m，那么 x 存在于现实中是可能的。（前提）
-3. 对于任何事物 x 和量度 m，如果 m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n>m，并且 x 在现实中不存在，那么如果 x 存在于现实中，则不可能存在一个量度 n，使得 n 大于 m 且 n 是 x 的量度。（前提）
-4. (因此)存在一个事物 x 和一个量度 m，使得 x 存在于理解中，x 存在于现实中，m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n>m。(来自 1, 2, 3)
+1. 存在一个事物 x 和一个量度 m，使得 x 存在于理解中，m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n > m。（前提）
+2. 对于任何事物 x 和量度 m，如果 x 存在于理解中，m 是 x 的量度，并且不可能存在一个事物 y 和量度 n，使得 n 是 y 的量度且 n > m，那么 x 存在于现实中是可能的。（前提）
+3. 对于任何事物 x 和量度 m，如果 m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n > m，并且 x 在现实中不存在，那么如果 x 存在于现实中，则不可能存在一个量度 n，使得 n 大于 m 且 n 是 x 的量度。（前提）
+4. (因此)存在一个事物 x 和一个量度 m，使得 x 存在于理解中，x 存在于现实中，m 是 x 的量度，并且不可能存在一个事物 y 和一个量度 n，使得 n 是 y 的量度且 n > m。(来自 1, 2, 3)
 
 参见亚当斯 1971 年。
 
@@ -391,75 +391,75 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 * Adams, R., 1971, “The Logical Structure of Anselm’s Argument”, *Philosophical Review*, 80: 28–54.
 * –––, 1988, “Presumption and the Necessary Existence of God”, *Noûs*, 22: 19–34.
 * –––, 1995a, *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
-* –––, 1995b, “Introductory Note to \*1970” in K. Gödel *Collected Works Volume III: Unpublished essays and lectures*, S. Feferman, *et al*. (eds.), New York: Oxford University Press, pp. 388–402.
-* Alston, W., 1960, “The Ontological Argument Revisited” *Philosophical Review*, 69: 452–74.
-* Anderson, C., 1990, “Some Emendations on Gödel’s Ontological Proof”, *Faith and Philosophy*, 7: 291–303.
-* Anscombe, E., 1993, “Russelm or Anselm”, *Philosophical Quarterly*, 43: 500–4.
-* Antognazza, M., 2018, “Leibniz”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 75–98.
-* Barnes, J., 1972, *The Ontological Argument*, London: Macmillan.
-* Campbell, R., 1976, *From Belief to Understanding*, Canberra: ANU Press.
-* Chambers, T., 2000, “On Behalf of the Devil: A Parody of St. Anselm Revisited”, *Proceedings of the Aristotelian Society* (New Series), 100: 93–113.
-* Chandler, H., 1993, “Some Ontological Arguments”, *Faith and Philosophy*, 10: 18–32.
-* Charlesworth, M., 1965, *Anselm’s Proslogion*, Oxford: Oxford University Press.
-* Crocker, S., 1972, “The Ontological Significance of Anselm’s *Proslogion*”, *Modern Schoolman*, 50: 33–56.
-* Diamond, C., 1977, “Riddles and Anselm’s Riddle”, *Proceedings of the Aristotelian Society* (supplementary volume), 51: 143–68.
-* Dombrowski, D., 2006, *Rethinking the Ontological Argument: A Neoclassical Theistic Response*, Cambridge: Cambridge University Press.
-* Dummett, M., 1993, “Existence”, in *The Seas of Language*, Oxford: Oxford University Press.
-* Everitt, N., 2004, *The Non-Existence of God*, London: Blackwell
-* Ferreira, J., 1983, “Kant’s Postulate: The Possibility *or* the Existence of God”, *Kant Studien*, 74: 75–80.
-* Findlay, J., 1949, “Can God’s Existence Be Disproved?”, *Mind*, 57: 176–83.
-* Garcia, L., 2008, “Ontological Arguments for God’s Existence”, in K. Clark (ed.), *Readings in the Philosophy of Religion*, Peterborough: Broadview, pp. 16–28.
-* Gorbacz, P., 2012, “PROVER9’s Simplification Explained Away”, *Australasian Journal of Philosophy*, 90: 585–96.
-* Grey, W., 2000, “Gasking’s Proof”, *Analysis*, 60: 368–370.
-* Haight, D. and Haight, M., 1974, “An Ontological Argument for the Devil”, *Monist*, 54: 218–20.
-* Harrelson, K., 2009, *The Ontological Argument from Descartes to Hegel*, New York: Humanity Books.
-* Hartshorne, C., 1965, *Anselm’s Discovery: A Re-Examination of the Ontological Proof for God’s Existence*, La Salle, IL: Open Court.
-* Hazen, A., 1999, “On Gödel’s Ontological Proof”, *Australasian Journal of Philosophy*, 76: 361–377.
-* Henle, P., 1961, “Uses of the Ontological Argument”, *Philosophical Review*, 70: 102–9.
-* Hinst, P., 2014, “A Logical Analysis of the Main Argument in Chapter 2 of the *Proslogion* by Anselm of Canterbury”, *Philosophiegeschichte Und Logische Analyse*, 17: 22–44.
-* Johnston, M., 1992, “Explanation, Response-Dependence, and Judgement-Dependence”, in P. Menzies (ed.), *Response-Dependent Concepts*, Canberra: ANU/RSSS Working Papers in Philosophy, 123–83.
-* Kovacs, S., 2003, “Some Weakened Gödelian Ontological Systems”, *Journal of Philosophical Logic*, 32: 565–88.
-* La Croix, R., 1972, *Proslogion II and III: A Third Interpretation of Anselm’s Argument*, Leiden: Brill.
-* Leftow, B., 2005, “The Ontological Argument”, in *The Oxford Handbook of Philosophy of Religion*, W. Wainwright (ed.), Oxford: Oxford University Press, pp. 80–115.
-* Lewis, D., 1970, “Anselm and Actuality”, *Noûs*, 4: 175–88.
-* Lowe, E., 2007, “The Ontological Argument”, in *The Routledge Companion to Philosophy of Religion*, P. Copan and C. Meister (eds.), London: Routledge.
-* Malcolm, N., 1960, “Anselm’s Ontological Arguments”, *Philosophical Review*, 69: 41–62.
-* Mann, W., 1972, “The Ontological Presuppositions of the Ontological Argument”, *Review of Metaphysics*, 26: 260–77.
-* Matthews, G., 2005, “The Ontological Argument”, in *The Blackwell Guide to the Philosophy of Religion*, W. Mann (ed.), Oxford: Blackwell, pp. 81–102.
-* Matthews, G., and Baker, L., 2010 “The Ontological Argument Simplified”, *Analysis*, 70: 210–212.
-* Maydole, R., 2009, “The Ontological Argument”, in *The Blackwell Companion to Natural Theology*, W. Craig and J. Moreland (ed.), Oxford: Blackwell, pp. 553–592.
-* Millican, P., 2004, “The One Fatal Flaw in Anselm’s Argument”, *Mind*, 113: 437–76.
-* Oppenheimer, P., and Zalta, E., 1991, “On the Logic of the Ontological Argument”, in J. Tomberlin (ed.) *Philosophical Perspectives 5: The Philosophy of Religion*, Atascadero: Ridgeview, pp. 509–29 \[[Preprint available online](http://mally.stanford.edu/ontological.pdf)].
-* –––, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, *Australasian Journal of Philosophy*, 89: 333–349.
-* Oppy, G., 1995, *Ontological Arguments and Belief in God*, New York: Cambridge University Press.
-* –––, 1996, “Gödelian Ontological Arguments”, *Analysis*, 56: 226–230.
-* –––, 2000, “Response to Gettings”, *Analysis*, 60: 363–367.
-* –––, 2006, *Arguing about Gods*, Cambridge: Cambridge University Press.
-* –––, 2007, “The Ontological Argument” in P. Copan and C. Meister (eds.), *Philosophy of Religion: Classic and Contemporary Issues*, Oxford: Blackwell.
-* ––– (ed.), 2018, *Ontological Arguments*, Cambridge: Cambridge University Press.
-* Plantinga, A., 1967, *God and Other Minds*, Ithaca: Cornell University Press.
-* –––, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
-* Priest, G., 2018, “Existence and Necessity”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 250–69.
-* Pruss, A., 2009, “A Gödelian Ontological Argument Improved”, *Religious Studies*, 45: 347–353.
-* –––, 2010,“The Ontological Argument and the Motivational Centres of Lives”, *Religious Studies*, 46: 233–249.
-* –––, 2018, “Gödel”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 139–54.
-* Rasmussen, J., 2018, “Plantinga”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 276–94.
-* Redding, P. and Bubbio, P., 2014 “Hegel and the Ontological Argument for the Existence of God”, *Religious Studies*, 50: 465–86.
-* Rescher, N., 1959, “The Ontological Proof Revisited”, *Australasian Journal of Philosophy*, 37: 138–48.
-* Ross, J., 1969, *Philosophical Theology*, New York: Bobbs-Merrill.
-* Rowe, W., 1989, “The Ontological Argument”, in J. Feinberg (ed.), *Reason and Responsibility*, seventh edition, Belmont, CA: Wadsworth, pp. 8–17.
-* Salmon, N., 1987, “Existence”, in J. Tomberlin (ed.), *Philosophical Perspectives 1: Metaphysics*, Atascadero, CA: Ridgeview: 49–108.
-* Siegwart, G., 2014, “Gaunilo Parodies Anselm: An Extraordinary Job for the Interpreter”, *Philosophiegeschichte Und Logische Analyse*, 17: 45–71.
-* Smart, J., 1955, “The Existence of God”, in A. Flew and A. MacIntyre (eds.), *New Essays in Philosophical Theology*, London: SCM Press: 500–509.
-* Sobel, J., 1987, “Gödel’s Ontological Proof”, in *On Being and Saying: Essays for Richard Cartwright*, J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 241–61.
-* Sobel, J., 2004, *Logic and Theism*, New York: Cambridge University Press.
-* Smullyan, R., 1984, *5000 BC and Other Philosophical Fantasies*, New York: St. Martins Press.
-* Swietorzecka, K. (ed.), 2012, *Gödel’s Ontological Argument: History, Modifications, and Controversies*, Portland: Semper.
-* Szatkowski, M. (ed.), 2012, *Ontological Proofs Today*, Frankfurt: Ontos Verlag.
-* Tooley, M., 1981, “Plantinga’s Defence of the Ontological Argument”, *Mind*, 90: 422–7.
-* van Inwagen, P., 1977, “Ontological Arguments”, *Noûs*, 11: 375–395.
-* Wilson, M., 1978, “Immutable Natures and the Ontological Argument”, in *Descartes* London: Routledge, 172–6.
-* Zagzebski, L., 1984, “Oakes’s New Modal Argument for the Existence of God”, *International Journal for Philosophy of Religion*, 20: 159–64.
+* –––, 1995b, “Introductory Note to \*1970” in K. Gödel * Collected Works Volume III: Unpublished essays and lectures *, S. Feferman, * et al*. (eds.), New York: Oxford University Press, pp. 388–402.
+* Alston, W., 1960, “The Ontological Argument Revisited” * Philosophical Review*, 69: 452–74.
+* Anderson, C., 1990, “Some Emendations on Gödel’s Ontological Proof”, * Faith and Philosophy*, 7: 291–303.
+* Anscombe, E., 1993, “Russelm or Anselm”, * Philosophical Quarterly*, 43: 500–4.
+* Antognazza, M., 2018, “Leibniz”, in G. Oppy (ed.), * Ontological Arguments*, Cambridge: Cambridge University Press, pp. 75–98.
+* Barnes, J., 1972, * The Ontological Argument*, London: Macmillan.
+* Campbell, R., 1976, * From Belief to Understanding*, Canberra: ANU Press.
+* Chambers, T., 2000, “On Behalf of the Devil: A Parody of St. Anselm Revisited”, * Proceedings of the Aristotelian Society* (New Series), 100: 93–113.
+* Chandler, H., 1993, “Some Ontological Arguments”, * Faith and Philosophy*, 10: 18–32.
+* Charlesworth, M., 1965, * Anselm’s Proslogion*, Oxford: Oxford University Press.
+* Crocker, S., 1972, “The Ontological Significance of Anselm’s * Proslogion *”, * Modern Schoolman*, 50: 33–56.
+* Diamond, C., 1977, “Riddles and Anselm’s Riddle”, * Proceedings of the Aristotelian Society* (supplementary volume), 51: 143–68.
+* Dombrowski, D., 2006, * Rethinking the Ontological Argument: A Neoclassical Theistic Response*, Cambridge: Cambridge University Press.
+* Dummett, M., 1993, “Existence”, in * The Seas of Language*, Oxford: Oxford University Press.
+* Everitt, N., 2004, * The Non-Existence of God*, London: Blackwell
+* Ferreira, J., 1983, “Kant’s Postulate: The Possibility * or * the Existence of God”, * Kant Studien*, 74: 75–80.
+* Findlay, J., 1949, “Can God’s Existence Be Disproved?”, * Mind*, 57: 176–83.
+* Garcia, L., 2008, “Ontological Arguments for God’s Existence”, in K. Clark (ed.), * Readings in the Philosophy of Religion*, Peterborough: Broadview, pp. 16–28.
+* Gorbacz, P., 2012, “PROVER9’s Simplification Explained Away”, * Australasian Journal of Philosophy*, 90: 585–96.
+* Grey, W., 2000, “Gasking’s Proof”, * Analysis*, 60: 368–370.
+* Haight, D. and Haight, M., 1974, “An Ontological Argument for the Devil”, * Monist*, 54: 218–20.
+* Harrelson, K., 2009, * The Ontological Argument from Descartes to Hegel*, New York: Humanity Books.
+* Hartshorne, C., 1965, * Anselm’s Discovery: A Re-Examination of the Ontological Proof for God’s Existence*, La Salle, IL: Open Court.
+* Hazen, A., 1999, “On Gödel’s Ontological Proof”, * Australasian Journal of Philosophy*, 76: 361–377.
+* Henle, P., 1961, “Uses of the Ontological Argument”, * Philosophical Review*, 70: 102–9.
+* Hinst, P., 2014, “A Logical Analysis of the Main Argument in Chapter 2 of the * Proslogion * by Anselm of Canterbury”, * Philosophiegeschichte Und Logische Analyse*, 17: 22–44.
+* Johnston, M., 1992, “Explanation, Response-Dependence, and Judgement-Dependence”, in P. Menzies (ed.), * Response-Dependent Concepts*, Canberra: ANU/RSSS Working Papers in Philosophy, 123–83.
+* Kovacs, S., 2003, “Some Weakened Gödelian Ontological Systems”, * Journal of Philosophical Logic*, 32: 565–88.
+* La Croix, R., 1972, * Proslogion II and III: A Third Interpretation of Anselm’s Argument*, Leiden: Brill.
+* Leftow, B., 2005, “The Ontological Argument”, in * The Oxford Handbook of Philosophy of Religion*, W. Wainwright (ed.), Oxford: Oxford University Press, pp. 80–115.
+* Lewis, D., 1970, “Anselm and Actuality”, * Noûs*, 4: 175–88.
+* Lowe, E., 2007, “The Ontological Argument”, in * The Routledge Companion to Philosophy of Religion*, P. Copan and C. Meister (eds.), London: Routledge.
+* Malcolm, N., 1960, “Anselm’s Ontological Arguments”, * Philosophical Review*, 69: 41–62.
+* Mann, W., 1972, “The Ontological Presuppositions of the Ontological Argument”, * Review of Metaphysics*, 26: 260–77.
+* Matthews, G., 2005, “The Ontological Argument”, in * The Blackwell Guide to the Philosophy of Religion*, W. Mann (ed.), Oxford: Blackwell, pp. 81–102.
+* Matthews, G., and Baker, L., 2010 “The Ontological Argument Simplified”, * Analysis*, 70: 210–212.
+* Maydole, R., 2009, “The Ontological Argument”, in * The Blackwell Companion to Natural Theology*, W. Craig and J. Moreland (ed.), Oxford: Blackwell, pp. 553–592.
+* Millican, P., 2004, “The One Fatal Flaw in Anselm’s Argument”, * Mind*, 113: 437–76.
+* Oppenheimer, P., and Zalta, E., 1991, “On the Logic of the Ontological Argument”, in J. Tomberlin (ed.) * Philosophical Perspectives 5: The Philosophy of Religion*, Atascadero: Ridgeview, pp. 509–29 \[[Preprint available online](http://mally.stanford.edu/ontological.pdf)].
+* –––, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, * Australasian Journal of Philosophy*, 89: 333–349.
+* Oppy, G., 1995, * Ontological Arguments and Belief in God*, New York: Cambridge University Press.
+* –––, 1996, “Gödelian Ontological Arguments”, * Analysis*, 56: 226–230.
+* –––, 2000, “Response to Gettings”, * Analysis*, 60: 363–367.
+* –––, 2006, * Arguing about Gods*, Cambridge: Cambridge University Press.
+* –––, 2007, “The Ontological Argument” in P. Copan and C. Meister (eds.), * Philosophy of Religion: Classic and Contemporary Issues*, Oxford: Blackwell.
+* ––– (ed.), 2018, * Ontological Arguments*, Cambridge: Cambridge University Press.
+* Plantinga, A., 1967, * God and Other Minds*, Ithaca: Cornell University Press.
+* –––, 1974, * The Nature of Necessity*, Oxford: Oxford University Press.
+* Priest, G., 2018, “Existence and Necessity”, in G. Oppy (ed.), * Ontological Arguments*, Cambridge: Cambridge University Press, pp. 250–69.
+* Pruss, A., 2009, “A Gödelian Ontological Argument Improved”, * Religious Studies*, 45: 347–353.
+* –––, 2010,“The Ontological Argument and the Motivational Centres of Lives”, * Religious Studies*, 46: 233–249.
+* –––, 2018, “Gödel”, in G. Oppy (ed.), * Ontological Arguments*, Cambridge: Cambridge University Press, pp. 139–54.
+* Rasmussen, J., 2018, “Plantinga”, in G. Oppy (ed.), * Ontological Arguments*, Cambridge: Cambridge University Press, pp. 276–94.
+* Redding, P. and Bubbio, P., 2014 “Hegel and the Ontological Argument for the Existence of God”, * Religious Studies*, 50: 465–86.
+* Rescher, N., 1959, “The Ontological Proof Revisited”, * Australasian Journal of Philosophy*, 37: 138–48.
+* Ross, J., 1969, * Philosophical Theology*, New York: Bobbs-Merrill.
+* Rowe, W., 1989, “The Ontological Argument”, in J. Feinberg (ed.), * Reason and Responsibility*, seventh edition, Belmont, CA: Wadsworth, pp. 8–17.
+* Salmon, N., 1987, “Existence”, in J. Tomberlin (ed.), * Philosophical Perspectives 1: Metaphysics*, Atascadero, CA: Ridgeview: 49–108.
+* Siegwart, G., 2014, “Gaunilo Parodies Anselm: An Extraordinary Job for the Interpreter”, * Philosophiegeschichte Und Logische Analyse*, 17: 45–71.
+* Smart, J., 1955, “The Existence of God”, in A. Flew and A. MacIntyre (eds.), * New Essays in Philosophical Theology*, London: SCM Press: 500–509.
+* Sobel, J., 1987, “Gödel’s Ontological Proof”, in * On Being and Saying: Essays for Richard Cartwright*, J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 241–61.
+* Sobel, J., 2004, * Logic and Theism*, New York: Cambridge University Press.
+* Smullyan, R., 1984, * 5000 BC and Other Philosophical Fantasies*, New York: St. Martins Press.
+* Swietorzecka, K. (ed.), 2012, * Gödel’s Ontological Argument: History, Modifications, and Controversies*, Portland: Semper.
+* Szatkowski, M. (ed.), 2012, * Ontological Proofs Today*, Frankfurt: Ontos Verlag.
+* Tooley, M., 1981, “Plantinga’s Defence of the Ontological Argument”, * Mind*, 90: 422–7.
+* van Inwagen, P., 1977, “Ontological Arguments”, * Noûs*, 11: 375–395.
+* Wilson, M., 1978, “Immutable Natures and the Ontological Argument”, in * Descartes* London: Routledge, 172–6.
+* Zagzebski, L., 1984, “Oakes’s New Modal Argument for the Existence of God”, * International Journal for Philosophy of Religion*, 20: 159–64.
 
 ## Academic Tools
 

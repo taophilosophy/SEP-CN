@@ -2,7 +2,7 @@
 
 *首次发表于 2020 年 11 月 25 日星期三*
 
-生物伦理学与道德理论之间的关系是复杂的。首先，我们有哲学家作为生物伦理学领域的主要贡献者，对许多哲学家来说，他们的学科几乎可以被定义为理论性的。因此，当被要求考虑道德理论在生物伦理学中的作用时，这些哲学家的自然立场是道德理论起着至关重要，甚至是不可或缺的作用。同时，也有人质疑“应用伦理学”模式在生物伦理学中的适用性。大致上，根据这个模式，某种道德理论（例如，功利主义、康德的义务论、德性理论）被强加于手头的应用伦理问题上，希望能够产生解决方案。根据其批评者的说法，这种模式过分强调了理论与应用之间的分离。更进一步，还有像威尔·金利卡（1993 [1996]）这样的人认为，道德理论不应该在制定生物伦理问题的公共政策中发挥作用。[1]
+生物伦理学与道德理论之间的关系是复杂的。首先，我们有哲学家作为生物伦理学领域的主要贡献者，对许多哲学家来说，他们的学科几乎可以被定义为理论性的。因此，当被要求考虑道德理论在生物伦理学中的作用时，这些哲学家的自然立场是道德理论起着至关重要，甚至是不可或缺的作用。同时，也有人质疑“应用伦理学”模式在生物伦理学中的适用性。大致上，根据这个模式，某种道德理论（例如，功利主义、康德的义务论、德性理论）被强加于手头的应用伦理问题上，希望能够产生解决方案。根据其批评者的说法，这种模式过分强调了理论与应用之间的分离。更进一步，还有像威尔 · 金利卡（1993 [1996]）这样的人认为，道德理论不应该在制定生物伦理问题的公共政策中发挥作用。[1]
 
 这篇文章从探讨生物伦理学和道德理论的复杂性开始。接着，我们探讨了应用伦理学的实质是什么。随后，讨论集中在生物伦理学相对短暂历史中的主要方法论运动：其对高级道德理论的吸引力，中级生物伦理学方法的出现，以及将理论工具的作用减少甚至完全不考虑的生物伦理学方法。接下来是女性主义对生物伦理学的方法，然后是对道德理论对临床生物伦理学的重要性的探讨。
 
@@ -14,7 +14,7 @@
 
 ### 1.1 道德理论的不同观点
 
-根据某些观点，对哲学问题或问题的理论方法由于对一些概括、普遍性、系统化、抽象性、明确性和产生建议的能力的智力倾向而被定义。例如，玛莎·纽斯鲍姆认为伦理理论有某些必要和充分的标准（Nussbaum 2000: 234–236）。在她看来，伦理理论：
+根据某些观点，对哲学问题或问题的理论方法由于对一些概括、普遍性、系统化、抽象性、明确性和产生建议的能力的智力倾向而被定义。例如，玛莎 · 纽斯鲍姆认为伦理理论有某些必要和充分的标准（Nussbaum 2000: 234–236）。在她看来，伦理理论：
 
 * 提出关于实际问题的建议
 * 展示了如何测试信念、规则和原则的正确性
@@ -37,7 +37,7 @@
 
 ## 应用伦理学的本质是什么？
 
-我们已经简要回顾了生物伦理学所涉及的各种任务和问题。但我们也应该简要审视生物伦理学及其更广泛的应用伦理学这一概念的方式。在这篇文章的背景下，这样的审视是重要的，因为关于应用伦理学性质的问题往往是关于理论与应用之间的关系，或者是关于“理论”和“实践”之间的关系。应用伦理学这个术语本身就暗示着这门学科涉及将某种道德理论应用于手头的实际问题或疑问。阿瑟·卡普兰写道，许多生物伦理学领域的贡献者认为应用伦理学涉及将现有的理论和原则应用于医学中的道德问题（Caplan 1980: 25–26）。但将现有理论应用于实际问题意味着什么？应用伦理学和伦理理论之间的区别能够如何维持？事实证明，许多人认为应用伦理学领域并非如其名称所暗示的那样。
+我们已经简要回顾了生物伦理学所涉及的各种任务和问题。但我们也应该简要审视生物伦理学及其更广泛的应用伦理学这一概念的方式。在这篇文章的背景下，这样的审视是重要的，因为关于应用伦理学性质的问题往往是关于理论与应用之间的关系，或者是关于“理论”和“实践”之间的关系。应用伦理学这个术语本身就暗示着这门学科涉及将某种道德理论应用于手头的实际问题或疑问。阿瑟 · 卡普兰写道，许多生物伦理学领域的贡献者认为应用伦理学涉及将现有的理论和原则应用于医学中的道德问题（Caplan 1980: 25–26）。但将现有理论应用于实际问题意味着什么？应用伦理学和伦理理论之间的区别能够如何维持？事实证明，许多人认为应用伦理学领域并非如其名称所暗示的那样。
 
 ### 生物伦理理论中的“应用模型”存在的问题
 
@@ -45,7 +45,7 @@ Caplan 认为，这种应用伦理学模型存在问题（许多人称之为“�
 
 ### 2.2 应用伦理学与理论分歧
 
-进一步破坏应用模型的挑战很快来自汤姆·博查普和阿拉斯代尔·麦金泰尔。博查普挑战应用伦理学的应用模型，主要定义如上：伦理理论发展一般和基本原则、美德、规则等，应用伦理学通过不太一般的、派生的原则、美德等来处理特定背景。在 1984 年《单一论者》专门致力于“伦理学与现代世界”的一期中，博查普和麦金泰尔各自探讨了道德理论与应用伦理之间的关系。博查普主张消除两者之间的区别，指出在哲学活动或方法方面它们之间没有显著差异。博查普说，从事应用伦理学的哲学家做的是哲学家一直在做的事情——他们分析概念，例如，并接受对用于证明信仰、政策和行动的各种策略进行批判性审查。应用模型还问题地假定了伦理知识的流动是单向的，从道德理论到实际案例和问题。但实际上，博查普说，道德理论有很多东西可以从实际背景中学到（Beauchamp 1984）。
+进一步破坏应用模型的挑战很快来自汤姆 · 博查普和阿拉斯代尔 · 麦金泰尔。博查普挑战应用伦理学的应用模型，主要定义如上：伦理理论发展一般和基本原则、美德、规则等，应用伦理学通过不太一般的、派生的原则、美德等来处理特定背景。在 1984 年《单一论者》专门致力于“伦理学与现代世界”的一期中，博查普和麦金泰尔各自探讨了道德理论与应用伦理之间的关系。博查普主张消除两者之间的区别，指出在哲学活动或方法方面它们之间没有显著差异。博查普说，从事应用伦理学的哲学家做的是哲学家一直在做的事情——他们分析概念，例如，并接受对用于证明信仰、政策和行动的各种策略进行批判性审查。应用模型还问题地假定了伦理知识的流动是单向的，从道德理论到实际案例和问题。但实际上，博查普说，道德理论有很多东西可以从实际背景中学到（Beauchamp 1984）。
 
 ### 2.3 应用伦理学和规则应用
 
@@ -55,7 +55,7 @@ MacIntyre 告诉我们，应用伦理学不能是通常被认为的那种活动�
 
 ### 2.4 Toulmin on the Tyranny of Principles2.4 图尔敏对原则的暴政
 
-斯蒂芬·图尔敏（Toulmin 1981）在他著名的论文《原则的暴政》中，回顾了他在生物医学和行为研究人类受试者保护国家委员会的经历。即使在成员之间存在彻底的道德理论分歧的情况下，委员会成员之间达成一致意见相对容易，即使在困难案例上也是如此。他在论文中的主要观点并非直接涉及应用伦理学的本质，而是主张重新获得他所称的“慎重伦理”，质疑道德原则的作用。然而，在这个过程中，通过讨论在实践问题上不同派别的理论家之间可以达成多少一致，他削弱了应用伦理学的应用模型。根据图尔敏的观点，这向我们表明，应用伦理学并不是将一个理论应用于问题的问题，因为在如何解决实际问题上可以达成一致意见，即使在强烈分歧于哪种道德理论应该占主导地位的人之间也是如此。再次强调在处理实践伦理问题时理论分歧的缺乏再现。人们可能会质疑在特定案例上达成一致意见与理论分歧是否表明应该放弃应用模型。然而，图尔敏的经历促使他怀疑最终对原则的呼吁真正实现了什么。
+斯蒂芬 · 图尔敏（Toulmin 1981）在他著名的论文《原则的暴政》中，回顾了他在生物医学和行为研究人类受试者保护国家委员会的经历。即使在成员之间存在彻底的道德理论分歧的情况下，委员会成员之间达成一致意见相对容易，即使在困难案例上也是如此。他在论文中的主要观点并非直接涉及应用伦理学的本质，而是主张重新获得他所称的“慎重伦理”，质疑道德原则的作用。然而，在这个过程中，通过讨论在实践问题上不同派别的理论家之间可以达成多少一致，他削弱了应用伦理学的应用模型。根据图尔敏的观点，这向我们表明，应用伦理学并不是将一个理论应用于问题的问题，因为在如何解决实际问题上可以达成一致意见，即使在强烈分歧于哪种道德理论应该占主导地位的人之间也是如此。再次强调在处理实践伦理问题时理论分歧的缺乏再现。人们可能会质疑在特定案例上达成一致意见与理论分歧是否表明应该放弃应用模型。然而，图尔敏的经历促使他怀疑最终对原则的呼吁真正实现了什么。
 
 在伦理理论和应用伦理之间的区分被打破的最后一点：正如将在第 4 节中更详细讨论的那样，许多人会说最近在生物伦理学中广泛采用了反思均衡作为理论证明的方法（Arras 2007）。这种采用的一个重要含义是模糊了道德理论和应用伦理之间的区别，因为在反思均衡中，我们对真实案例的反应与我们的理论化一样多地影响我们处理案例的方式。
 
@@ -67,9 +67,9 @@ MacIntyre 告诉我们，应用伦理学不能是通常被认为的那种活动�
 
 ### 高理论的吸引力
 
-高理论的吸引力是显著的，事实上，这些道德理论为许多生物伦理问题的处理提供了基础。例如，艾伦·多纳根（Donagan 1977）在知情同意方面受康德启发的工作，特里斯特拉姆·恩格尔哈特（Engelhardt 1986 [1996]）对医疗保健再分配的自由主义批评，以及约瑟夫·弗莱彻（Fletcher 1974）对生物伦理各种问题的功利主义方法。
+高理论的吸引力是显著的，事实上，这些道德理论为许多生物伦理问题的处理提供了基础。例如，艾伦 · 多纳根（Donagan 1977）在知情同意方面受康德启发的工作，特里斯特拉姆 · 恩格尔哈特（Engelhardt 1986 [1996]）对医疗保健再分配的自由主义批评，以及约瑟夫 · 弗莱彻（Fletcher 1974）对生物伦理各种问题的功利主义方法。
 
-什么可能解释这种对高道德理论的求助？对生物伦理学家而言，高道德理论的吸引力是什么？让我们考虑三种重要的可能性。首先，在生物伦理学和日常生活中，我们的常规道德应对技能通常足够有效。然而，当它们无法解决问题时，我们需要求助于更为结构化和系统化的道德指导。在这些场合，高道德理论，如后果论和义务论，看起来是有帮助且具有吸引力的。除了提供指导外，这种理论还为道德辩护提供了资源，尤其是在我们被迫解释我们的生物伦理学或日常道德决策时尤为有用。其次，当我们诉诸于中层原则（如正义原则或善行原则）时，有时我们需要帮助来权衡、平衡和裁决这些原则之间的关系。高道德理论可能会提供这种帮助，通过提供一种道德标准。回想一下西奇威克（Sidgwick）在支持功利主义的论证中提到，它可以在解决日常（非理论性）道德思考本身无法解决的普通职责冲突时提供指导（Sidgwick 1874）。在类似的论调中，玛莎·努斯鲍姆（Martha Nussbaum）通过强调道德理论在帮助我们在不同情况下权衡各种规则时所具有的力量来辩护道德理论的必要性（Nussbaum 2000）。第三，高道德理论可以帮助我们在道德生活中实现一致性，以及系统性的视角。这种思想认为，将道德理论应用于我们日常生活和生物伦理生活的各个方面是有益的，因为它可以提供系统性和连贯性。伯纳德·格特（Bernard Gert）是一个认为这种系统化至少在生物伦理学中具有优先权的人（Gert, Culver, & Clauser 2006）。
+什么可能解释这种对高道德理论的求助？对生物伦理学家而言，高道德理论的吸引力是什么？让我们考虑三种重要的可能性。首先，在生物伦理学和日常生活中，我们的常规道德应对技能通常足够有效。然而，当它们无法解决问题时，我们需要求助于更为结构化和系统化的道德指导。在这些场合，高道德理论，如后果论和义务论，看起来是有帮助且具有吸引力的。除了提供指导外，这种理论还为道德辩护提供了资源，尤其是在我们被迫解释我们的生物伦理学或日常道德决策时尤为有用。其次，当我们诉诸于中层原则（如正义原则或善行原则）时，有时我们需要帮助来权衡、平衡和裁决这些原则之间的关系。高道德理论可能会提供这种帮助，通过提供一种道德标准。回想一下西奇威克（Sidgwick）在支持功利主义的论证中提到，它可以在解决日常（非理论性）道德思考本身无法解决的普通职责冲突时提供指导（Sidgwick 1874）。在类似的论调中，玛莎 · 努斯鲍姆（Martha Nussbaum）通过强调道德理论在帮助我们在不同情况下权衡各种规则时所具有的力量来辩护道德理论的必要性（Nussbaum 2000）。第三，高道德理论可以帮助我们在道德生活中实现一致性，以及系统性的视角。这种思想认为，将道德理论应用于我们日常生活和生物伦理生活的各个方面是有益的，因为它可以提供系统性和连贯性。伯纳德 · 格特（Bernard Gert）是一个认为这种系统化至少在生物伦理学中具有优先权的人（Gert, Culver, & Clauser 2006）。
 
 ### 生物伦理理论作为对高尚道德理论的呼吁存在问题
 
@@ -77,20 +77,20 @@ MacIntyre 告诉我们，应用伦理学不能是通常被认为的那种活动�
 
 其次，抛开这一挑战不谈，任何一种理论内部都存在分歧。例如，考虑规则与行为功利主义之间的分歧，或者 Rawls 学派内部的分歧。第三，一些人指出高级理论的某些版本与民主之间存在紧张关系。许多人认为，在民主社会中，公开性应该是管理政策制定的基本规范（Rawls，1971）。要求这种公开性将排除那些只有精英哲学家阶层之外的人无法理解的理由。因此，一个人无需成为理论怀疑论者，就可以降低高级理论在生物伦理学中的地位；一个人只需认识到在民主社会中进行生物伦理学与高深的道德理论之间的紧张关系（Bertram，1997；London，2001）。
 
-第四，这集中在临床伦理背景下高道德理论的实用性或缺乏实用性，按照规定方式使用理论对于没有高水平哲学训练的临床伦理学家可能是非常苛刻的。此外，高道德理论所承诺的理由的全面性在该背景下可能是不必要的（Magelssen, Pedersen, & Førde 2016: 27）。第五，回顾卡普兰对应用伦理学模型的问题，有人怀疑任何高水平的哲学理论能够为复杂的应用问题提供直接答案。诺曼·丹尼尔斯（Norman Daniels）的研究关于正义和获得医疗保健的工作受到罗尔斯正义理论的启发，他承认哲学理论对于实际政策制定来说不够细致，并且需要通过公正结构化的政治商讨来补充（Daniels 1996: 144–175; 2007: ch. 4）。总的想法是高哲学理论不适合处理具体层面的实际决策（Gutmann & Thompson 1998）。毕竟，一个人偏爱的道德理论可能会支持几种可能的政策选择，使决策者需要进一步的指导。
+第四，这集中在临床伦理背景下高道德理论的实用性或缺乏实用性，按照规定方式使用理论对于没有高水平哲学训练的临床伦理学家可能是非常苛刻的。此外，高道德理论所承诺的理由的全面性在该背景下可能是不必要的（Magelssen, Pedersen, & Førde 2016: 27）。第五，回顾卡普兰对应用伦理学模型的问题，有人怀疑任何高水平的哲学理论能够为复杂的应用问题提供直接答案。诺曼 · 丹尼尔斯（Norman Daniels）的研究关于正义和获得医疗保健的工作受到罗尔斯正义理论的启发，他承认哲学理论对于实际政策制定来说不够细致，并且需要通过公正结构化的政治商讨来补充（Daniels 1996: 144–175; 2007: ch. 4）。总的想法是高哲学理论不适合处理具体层面的实际决策（Gutmann & Thompson 1998）。毕竟，一个人偏爱的道德理论可能会支持几种可能的政策选择，使决策者需要进一步的指导。
 
 生物伦理学被构想为对高尚道德理论的呼吁，尽管最初有所承诺，但已被发现存在显著局限性。我们现在转向似乎更有前途的方法。
 
-## 4. The Move to Mid-Level Theorizing: a Principles-Centered Approach中层理论化的转变：以原则为中心的方法
+## 4. The Move to Mid-Level Theorizing: a Principles-Centered Approach 中层理论化的转变：以原则为中心的方法
 
-中层理论化的转变（部分地）是对刚才讨论的高级理论所面临挑战的结果，最明显地体现在 1979 年出版的汤姆·博尚和詹姆斯·奇尔德雷斯的具有影响力的《生物医学伦理学原则》（PBE）一书中。该书中提出的方法以及随后版本中出现的修订版本，包括中层道德规范，采取了四项道德原则的形式。博尚和奇尔德雷斯的四项原则是：
+中层理论化的转变（部分地）是对刚才讨论的高级理论所面临挑战的结果，最明显地体现在 1979 年出版的汤姆 · 博尚和詹姆斯 · 奇尔德雷斯的具有影响力的《生物医学伦理学原则》（PBE）一书中。该书中提出的方法以及随后版本中出现的修订版本，包括中层道德规范，采取了四项道德原则的形式。博尚和奇尔德雷斯的四项原则是：
 
 1. 自主原则（关于生活和选择的自我指导价值）
 2. 受益原则（增进他人福祉的价值）
 3. 非伤害原则（避免对他人施加伤害的价值）
 4. 正义原则（根据每个人应得的价值）（Beauchamp & Childress 2019a; Arras 2017: 5）。
 
-作为约瑟夫·弗莱彻（Joseph Fletcher）和保罗·拉姆齐（Paul Ramsey）在我们现在称之为生物伦理学的早期工作之后，贝肖普（Beauchamp）和奇尔德雷斯（Childress）提供了一个道德框架的承诺，可以吸引多元主义和世俗社会（Beauchamp & Childress 1979: 40; 2019b: 9）。贝肖普和奇尔德雷斯有不同的理论出发点，贝肖普自称为规则功利主义者，而奇尔德雷斯是基督教义务论者（Arras 2017: 3）。这强调了这种方法不会提倡一种理论胜过其他所有理论，并且不需要任何基础理论或形而上学承诺来接受它。
+作为约瑟夫 · 弗莱彻（Joseph Fletcher）和保罗 · 拉姆齐（Paul Ramsey）在我们现在称之为生物伦理学的早期工作之后，贝肖普（Beauchamp）和奇尔德雷斯（Childress）提供了一个道德框架的承诺，可以吸引多元主义和世俗社会（Beauchamp & Childress 1979: 40; 2019b: 9）。贝肖普和奇尔德雷斯有不同的理论出发点，贝肖普自称为规则功利主义者，而奇尔德雷斯是基督教义务论者（Arras 2017: 3）。这强调了这种方法不会提倡一种理论胜过其他所有理论，并且不需要任何基础理论或形而上学承诺来接受它。
 
 ### 4.1 远离演绎，以及反思均衡
 
@@ -112,9 +112,9 @@ Beauchamp 和 Childress 认为广泛反思均衡是他们方法的一个重要�
 
 Beauchamp 和 Childress 的方法中存在一种多元化元素，部分体现在该方法避免了单一的支配性原则，而是采用了四项道德原则的简短清单。这导致一些人批评 Beauchamp 和 Childress 的方法存在所谓的缺乏系统性——一些人认为这是任何哲学理论的致命缺陷（Gert, Culver, & Clauser 2006）。这些批评者声称，如果没有明确的原则优先排序，Beauchamp 和 Childress 的原则中心方法就缺乏严谨性，并在原则冲突的情况下为直觉判断留下了太多空间。Beauchamp 和 Childress 首先通过拒绝他们正在提供一个哲学理论的想法来回应这些批评，而不是一个框架或实践指南。但也许更重要的是，他们怀疑他们的原则的任何优先排序是否经得起时间的考验（Arras 2017: 6–9）。
 
-约翰·麦克米伦（John McMillan）提出了一个相当新的批评，他认为博尚和奇尔德雷斯的方法抑制了对真实问题的深思熟虑。麦克米伦声称，以原则为中心的方法无法导致他所称之为“对道德问题的理性信念”的制定，并写道，这种四原则方法阻碍了将道德理由应用于实际问题。这是因为，正如麦克米伦所说，生物伦理学的新手将把正在考虑的任何问题归入四个原则之一，然后裁定自主原则应该凌驾于其他三个原则之上。麦克米伦承认，博尚和奇尔德雷斯并不打算采用这种方法，但他写道，事实上，四原则方法通常是这样使用的（麦克米伦 2018: 51-53）。
+约翰 · 麦克米伦（John McMillan）提出了一个相当新的批评，他认为博尚和奇尔德雷斯的方法抑制了对真实问题的深思熟虑。麦克米伦声称，以原则为中心的方法无法导致他所称之为“对道德问题的理性信念”的制定，并写道，这种四原则方法阻碍了将道德理由应用于实际问题。这是因为，正如麦克米伦所说，生物伦理学的新手将把正在考虑的任何问题归入四个原则之一，然后裁定自主原则应该凌驾于其他三个原则之上。麦克米伦承认，博尚和奇尔德雷斯并不打算采用这种方法，但他写道，事实上，四原则方法通常是这样使用的（麦克米伦 2018: 51-53）。
 
-最近，对于 Beauchamp 和 Childress 的最新举措，有两个有趣的批评来自已故的 John Arras。Arras 质疑 Beauchamp 和 Childress 的混合解释的可信度，特别是解释对于普通道德作为基础的依赖。Arras 问为什么 Beauchamp 和 Childress 要区分普通道德的规范与（约翰·罗尔斯所说的）我们认真考虑的道德判断，这些判断本身是可修订的。Arras 认识到 Beauchamp 和 Childress 可能会激励他们对基础的呼吁，因为仅仅一致性无法确保道德真理。在这种情况下，Arras 想知道通过诉诸基础性普通道德到底能够获得多少额外的证明优势，因为反思均衡本身最大程度地包含了道德画面的所有部分（包括，大概，普通道德的规范）。问题在于，正如 Arras 所说，普通道德被看作是在其自己的道德领域中，远离反思均衡的辩证法。Arras 怀疑普通道德实际上是否不受时间变迁和反思均衡辩证法的影响（Arras 2017: 24–26）。
+最近，对于 Beauchamp 和 Childress 的最新举措，有两个有趣的批评来自已故的 John Arras。Arras 质疑 Beauchamp 和 Childress 的混合解释的可信度，特别是解释对于普通道德作为基础的依赖。Arras 问为什么 Beauchamp 和 Childress 要区分普通道德的规范与（约翰 · 罗尔斯所说的）我们认真考虑的道德判断，这些判断本身是可修订的。Arras 认识到 Beauchamp 和 Childress 可能会激励他们对基础的呼吁，因为仅仅一致性无法确保道德真理。在这种情况下，Arras 想知道通过诉诸基础性普通道德到底能够获得多少额外的证明优势，因为反思均衡本身最大程度地包含了道德画面的所有部分（包括，大概，普通道德的规范）。问题在于，正如 Arras 所说，普通道德被看作是在其自己的道德领域中，远离反思均衡的辩证法。Arras 怀疑普通道德实际上是否不受时间变迁和反思均衡辩证法的影响（Arras 2017: 24–26）。
 
 Arras 提出的第二个批评涉及 Beauchamp 和 Childress 对广泛反思均衡的拥护。根据 Arras 的观点，很难理解在广泛反思均衡的支持下，道德原则如何在概念分析中保持其优先性（Arras 2017: 182–3）。Arras 要求我们记住，在广泛反思均衡中，没有任何单一的道德考虑群体（例如，考虑的案例判断、背景理论、道德原则）是特权的。事实上，在反思均衡的修订过程中，重要的是我们对这些考虑的承诺程度，而不是承诺本身的形式（Scanlon 1992; DePaul 1993: 57）。因此，我们对原则的信念，就像我们对背景理论和考虑的案例判断的信念一样，总是可以进行修订。根据 Arras 的批评，基于原则的方法似乎已经牺牲了其方法论的独特性，因为原则似乎已经失去了其概念优先性。
 
@@ -166,13 +166,13 @@ Arras 提出的第二个批评涉及 Beauchamp 和 Childress 对广泛反思均�
 
 一个女性主义的方法可以特别关注女性的经验。此外，它可以对普遍道德概念的运用进行批判性审查，这一概念据称将生物伦理学定位为专家之间的对话。作为这样一种对话，生物伦理学排除了替代观点，包括普通民众和边缘人群的观点。女性主义方法可能会引用立场理论，这将借鉴社会中处境最为不利者的见解。最后，女性主义的理论方法可能要求关注生活经验，将注意力从非女性主义道德哲学和生物伦理学的抽象理论化转向实际经验（Wolf 1996a）。
 
-生物伦理学的女性主义方法除了直接纠正男性主义道德哲学和生物伦理学的影响之外，还提出了另外两个好处。首先，女性主义方法使我们更加关注生物伦理问题分析中雄性中心主义推理的影响，并减轻这些影响。其次，它引起我们对许多对生物伦理分析至关重要的概念的性别化本质的关注。例如，在审视理性和情感的概念时，女性主义方法帮助我们看到这些概念本身似乎在某种程度上是性别化的概念。理性，或至少传统上一直与男性相关联，而情感则与女性相关。同样适用于公共和私人领域之间的区别，公共领域属于男性，私人领域属于女性。但更重要的是，我们看到与女性相关联的东西（例如情感）往往被低估。正如玛格丽特·利特尔所指出的，传统的道德认识论认为理性而不是情感对于道德理解至关重要。还要注意上述呈现的二元性质。正如男性和女性传统上占据不同领域一样，性别化概念也在分界线的两侧占据固定位置。例如，家庭领域被认为对经济或政治关系，或生物伦理学没有什么有益的教导（利特尔，1996）。
+生物伦理学的女性主义方法除了直接纠正男性主义道德哲学和生物伦理学的影响之外，还提出了另外两个好处。首先，女性主义方法使我们更加关注生物伦理问题分析中雄性中心主义推理的影响，并减轻这些影响。其次，它引起我们对许多对生物伦理分析至关重要的概念的性别化本质的关注。例如，在审视理性和情感的概念时，女性主义方法帮助我们看到这些概念本身似乎在某种程度上是性别化的概念。理性，或至少传统上一直与男性相关联，而情感则与女性相关。同样适用于公共和私人领域之间的区别，公共领域属于男性，私人领域属于女性。但更重要的是，我们看到与女性相关联的东西（例如情感）往往被低估。正如玛格丽特 · 利特尔所指出的，传统的道德认识论认为理性而不是情感对于道德理解至关重要。还要注意上述呈现的二元性质。正如男性和女性传统上占据不同领域一样，性别化概念也在分界线的两侧占据固定位置。例如，家庭领域被认为对经济或政治关系，或生物伦理学没有什么有益的教导（利特尔，1996）。
 
-我们可以看到苏珊·舍尔温（Susan Sherwin）在处理堕胎问题时所承诺的这些方面。根据她的观点，对性别和性政治的认识，以及对妇女的普遍脆弱性和特别是对性侵犯的认识，是她认为女性主义方法的关键方面。此外，女性主义方法将关注的焦点放在了关注相关妇女的道德权利上，而不是专注于胎儿的道德地位等问题，或者专注于制定一套普遍规则，规定何时堕胎在道德上是或不是正当的。根据这一观点，女性主义方法否认了怀孕或堕胎决定的性别中立解释的可能性。从女性主义的角度来看，怀孕最具道德意义的特征是
+我们可以看到苏珊 · 舍尔温（Susan Sherwin）在处理堕胎问题时所承诺的这些方面。根据她的观点，对性别和性政治的认识，以及对妇女的普遍脆弱性和特别是对性侵犯的认识，是她认为女性主义方法的关键方面。此外，女性主义方法将关注的焦点放在了关注相关妇女的道德权利上，而不是专注于胎儿的道德地位等问题，或者专注于制定一套普遍规则，规定何时堕胎在道德上是或不是正当的。根据这一观点，女性主义方法否认了怀孕或堕胎决定的性别中立解释的可能性。从女性主义的角度来看，怀孕最具道德意义的特征是
 
 > 这是发生在女性身体中并对女性生活产生深远影响的现象（Sherwin 1992: 363）。
 
-当我们审视女性主义对医师协助自杀（PAS）的处理时，我们再次看到某些类型的理论承诺凸显出来。例如，对女性主义关怀视角的坚持导致莱斯利·本德（Bender 1992）支持 PAS。相比之下，苏珊·M·沃尔夫（Wolf 1996b: 293）应用女性主义方法，强调性别的重要性，导致她得出结论认为不应合法化 PAS。指出某些熟悉形象的阴险性——例如女性自我牺牲的形象，以及早期显著的医师协助自杀和安乐死案例中医师为男性，患者为女性，沃尔夫警告我们要警惕“权威专家医师与女性顺从他照料的动态”之间的危险。
+当我们审视女性主义对医师协助自杀（PAS）的处理时，我们再次看到某些类型的理论承诺凸显出来。例如，对女性主义关怀视角的坚持导致莱斯利 · 本德（Bender 1992）支持 PAS。相比之下，苏珊 ·M· 沃尔夫（Wolf 1996b: 293）应用女性主义方法，强调性别的重要性，导致她得出结论认为不应合法化 PAS。指出某些熟悉形象的阴险性——例如女性自我牺牲的形象，以及早期显著的医师协助自杀和安乐死案例中医师为男性，患者为女性，沃尔夫警告我们要警惕“权威专家医师与女性顺从他照料的动态”之间的危险。
 
 关于女性主义对生物伦理学的探讨与理论与生物伦理之间的关系，这并不是一种统一的方法，因为其支持者并不总是遵循相同的承诺集合。（例如，在上述引用的作品中，本德尔坚持关怀导向思维，而其他女性主义生物伦理学家则更具代表性的是自由女性主义。）女性主义方法至少在理论上遵循某些（女性主义知识分子）承诺，即使在如何应该遵循这些承诺方面并无全面一致。总的来说，女性主义对生物伦理学的方法产生了重大影响，并改变了生物伦理学讨论的方向，即使这些方法有些各异，代表了一种对生物伦理学的理论方法，其定义方式不如其他方法严格。前述讨论侧重于学术贡献；女性主义学者也涉及临床伦理学（Sherwin & Baylis 2003）。我们现在转向临床领域，以及道德理论在那里的作用。
 
@@ -207,57 +207,57 @@ Arras 提出的第二个批评涉及 Beauchamp 和 Childress 对广泛反思均�
 
 ## Bibliography
 
-* Agich, George J., 2001, “The Question of Method in Ethics Consultation”, *American Journal of Bioethics*, 1(4): 31–41. doi:10.1162/152651601317139360
+* Agich, George J., 2001, “The Question of Method in Ethics Consultation”, *American Journal of Bioethics*, 1(4): 31–41. doi: 10.1162/152651601317139360
 * American Society for Bioethics and Humanities’ Core Competencies Update Task Force [ASBH], 2011, *Core Competencies for Healthcare Ethics Consultation*, 2nd edition, Chicago, IL: American Society for Bioethics and Humanities.
-* Archard, David and Kasper Lippert-Rasmussen, 2013, “Applied Ethics”, in *The International Encyclopedia of Ethics*, Hugh LaFollette (ed.), Oxford: Blackwell. doi:10.1002/9781444367072.wbiee693
+* Archard, David and Kasper Lippert-Rasmussen, 2013, “Applied Ethics”, in *The International Encyclopedia of Ethics*, Hugh LaFollette (ed.), Oxford: Blackwell. doi: 10.1002/9781444367072.wbiee693
 * Arras, John D., 1997, “Nice Story, But So What? Narrative and Justification in Ethics”, in Lindemann Nelson 1997b: 65–88.
-* –––, 2003, “The Owl and the Caduceus: Does Bioethics Need Philosophy?”, in *The Nature and Prospects of Bioethics: Interdisciplinary Perspectives*, Franklin G. Miller, John C. Fletcher, and James M. Humber (eds.), Totowa, NJ: Humana Press, 1–42. doi:10.1007/978-1-59259-370-5_1
+* –––, 2003, “The Owl and the Caduceus: Does Bioethics Need Philosophy?”, in *The Nature and Prospects of Bioethics: Interdisciplinary Perspectives*, Franklin G. Miller, John C. Fletcher, and James M. Humber (eds.), Totowa, NJ: Humana Press, 1–42. doi: 10.1007/978-1-59259-370-5_1
 * –––, 2007, “The Way We Reason Now: Reflective Equilibrium in Bioethics”, in *Oxford Handbook of Bioethics*, Bonnie Steinbock (ed.), New York: Oxford University Press, 46–71.
-* –––, 2017, *Methods in Bioethics: The Way We Reason Now*, James Childress and Matthew Adams (eds.), New York: Oxford University Press. doi:10.1093/acprof:oso/9780190665982.001.0001
-* Battin, Margaret Pabst, 2013, “Bioethics”, in *The International Encyclopedia of Ethics*, ugh LaFollette (ed.), Oxford: Blackwell. doi:10.1002/9781444367072.wbiee782
-* Beauchamp, Tom L., 1984, “On Eliminating the Distinction Between Applied Ethics and Ethical Theory”:, *Monist*, 67(4): 514–531. doi:10.5840/monist198467430
+* –––, 2017, *Methods in Bioethics: The Way We Reason Now*, James Childress and Matthew Adams (eds.), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780190665982.001.0001
+* Battin, Margaret Pabst, 2013, “Bioethics”, in *The International Encyclopedia of Ethics*, ugh LaFollette (ed.), Oxford: Blackwell. doi: 10.1002/9781444367072.wbiee782
+* Beauchamp, Tom L., 1984, “On Eliminating the Distinction Between Applied Ethics and Ethical Theory”:, *Monist*, 67(4): 514–531. doi: 10.5840/monist198467430
 * Beauchamp, Tom L. and James F. Childress, 1979, *Principles of Biomedical Ethics*, New York: Oxford University Press.
 * –––, 2019a, *Principles of Biomedical Ethics*, eighth edition, New York: Oxford University Press.
-* –––, 2019b, “*Principles of Biomedical Ethics*: Marking Its Fortieth Anniversary”, *The American Journal of Bioethics*, 19(11): 9–12. doi:10.1080/15265161.2019.1665402
+* –––, 2019b, “*Principles of Biomedical Ethics*: Marking Its Fortieth Anniversary”, *The American Journal of Bioethics*, 19(11): 9–12. doi: 10.1080/15265161.2019.1665402
 * Bender, Leslie, 1992, “A Feminist Analysis of Physician-Assisted Dying and Voluntary Active Euthanasia”, *Tennessee Law Review*, 59(3): 519–546.
-* Bertram, Christopher, 1997, “Political Justification, Theoretical Complexity, and Democratic Community”, *Ethics*, 107(4): 563–583. doi:10.1086/233760
+* Bertram, Christopher, 1997, “Political Justification, Theoretical Complexity, and Democratic Community”, *Ethics*, 107(4): 563–583. doi: 10.1086/233760
 * Brown, Andrew, 2003, “The Practical Philosopher”, *The Guardian*, 19 July 2003. [[Brown 2003 available online](https://www.theguardian.com/books/2003/jul/19/society1)]
 * Burrell, David and Stanley Hauerwas, 1977, “From System to Story: An Alternative Pattern for Rationality in Ethics”, in *Knowledge, Value, and Belief*, H. Tristram Engelhardt Jr. and Daniel Callahan (eds.), Hastings-on-Hudson, NY: Hastings Center, 111–152.
-* Caplan, Arthur L., 1980, “Ethical Engineers Need Not Apply: The State of Applied Ethics Today”, *Science, Technology, & Human Values*, 5(4): 24–32. doi:10.1177/016224398000500403
-* –––, 1989, “Moral Experts and Moral Expertise: Do Either Exist?”, in *Clinical Ethics: Theory and Practice*, Barry Hoffmaster, Benjamin Freedman, and Gwen Fraser (eds.), Clifton, NJ: Humana Press: 59–87. doi:10.1007/978-1-4612-3708-2_4
+* Caplan, Arthur L., 1980, “Ethical Engineers Need Not Apply: The State of Applied Ethics Today”, *Science, Technology, & Human Values*, 5(4): 24–32. doi: 10.1177/016224398000500403
+* –––, 1989, “Moral Experts and Moral Expertise: Do Either Exist?”, in *Clinical Ethics: Theory and Practice*, Barry Hoffmaster, Benjamin Freedman, and Gwen Fraser (eds.), Clifton, NJ: Humana Press: 59–87. doi: 10.1007/978-1-4612-3708-2_4
 * Carse, A.L., 1991, “The ‘Voice of Care’: Implications for Bioethics Education”, *Journal of Philosophy and Medicine*, 16(1): 5–28. doi: 10.1093/jmp/16.1.5
 * Charon, Rita, 1994, “Narrative Contributions to Medical Ethics: Recognition, Formulation, Interpretation, and Validation in the Practice of the Ethicist”, in *A Matter of Principles? Ferment in U.S. Bioethics*, Edwin R. DuBose, Ron Hamel, and Lauren O’Connell (eds.), Valley Forge, PA: Trinity Press International: 260–283.
 * Clarke, Stanley G., 1987, “Anti-Theory in Ethics”, *American Philosophical Quarterly*, 24(3): 237–244.
 * Clarke, Stanley G. and Evan Simpson (eds), 1989, *Anti-Theory in Ethics and Moral Conservatism*, Albany, NY: State University of New York Press.
 * Dancy, Jonathan, 1993, *Moral Reasons*, Oxford: Blackwell Publishers.
-* –––, 2004, *Ethics Without Principles*, Oxford: Clarendon Press. doi:10.1093/0199270023.001.0001
-* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, *The Journal of Philosophy*, 76(5): 256–282. doi:10.2307/2025881
-* –––, 1996, *Justice and Justification: Reflective Equilibrium in Theory and Practice*, New York: Cambridge University Press. doi:10.1017/CBO9780511624988
-* –––, 2007, *Just Health: Meeting Health Needs Fairly*, New York: Cambridge University Press. doi:10.1017/CBO9780511809514
+* –––, 2004, *Ethics Without Principles*, Oxford: Clarendon Press. doi: 10.1093/0199270023.001.0001
+* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, *The Journal of Philosophy*, 76(5): 256–282. doi: 10.2307/2025881
+* –––, 1996, *Justice and Justification: Reflective Equilibrium in Theory and Practice*, New York: Cambridge University Press. doi: 10.1017/CBO9780511624988
+* –––, 2007, *Just Health: Meeting Health Needs Fairly*, New York: Cambridge University Press. doi: 10.1017/CBO9780511809514
 * DePaul, Michael R., 1993, *Balance and Refinement: Beyond Coherence Methods of Moral Inquiry*, London: Routledge.
-* De Zulueta, Paquita C., 2015, “Suffering, Compassion and ‘Doing Good Medical Ethics’”, *Journal of Medical Ethics*, 41(1): 87–90. doi:10.1136/medethics-2014-102355
+* De Zulueta, Paquita C., 2015, “Suffering, Compassion and ‘Doing Good Medical Ethics’”, *Journal of Medical Ethics*, 41(1): 87–90. doi: 10.1136/medethics-2014-102355
 * Donagan, Alan, 1977, “Informed Consent in Therapy and Experimentation”, *Journal of Medicine and Philosophy*, 2(4): 307–329.
 * Engelhardt, H. Tristram, 1986 [1996], *The Foundations of Bioethics*, New York: Oxford University Press. Second edition, 1996.
 * Fletcher, Joseph F., 1974, *The Ethics of Genetic Control: Ending Reproductive Roulette*, New York: Prometheus.
-* Fotion, Nick, 2014, *Theory vs. Anti-Theory in Ethics: A Misconceived Conflict*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199373529.001.0001
+* Fotion, Nick, 2014, *Theory vs. Anti-Theory in Ethics: A Misconceived Conflict*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199373529.001.0001
 * Frank, Arthur W., 1995, *The Wounded Storyteller: Body, Illness, and Ethics*, Chicago: University of Chicago Press.
-* Fullinwider, Robert K., 1989, “Against Theory, or: Applied Philosophy—A Cautionary Tale”, *Metaphilosophy*, 20 (3–4): 222–234. doi:10.1111/j.1467-9973.1989.tb00424.x
-* Gert, Bernard, Charles M. Culver, and K. Danner Clouser, 2006, *Bioethics: A Systematic Approach*, second edition, New York: Oxford University Press. doi:10.1093/0195159063.001.0001
+* Fullinwider, Robert K., 1989, “Against Theory, or: Applied Philosophy—A Cautionary Tale”, *Metaphilosophy*, 20 (3–4): 222–234. doi: 10.1111/j.1467-9973.1989.tb00424.x
+* Gert, Bernard, Charles M. Culver, and K. Danner Clouser, 2006, *Bioethics: A Systematic Approach*, second edition, New York: Oxford University Press. doi: 10.1093/0195159063.001.0001
 * Gutmann, Amy and Dennis Thompson, 1998, *Democracy and Disagreement*, Cambridge, MA: Harvard University Press.
 * Hooker, Brad and Margaret Olivia Little (eds), 2000, *Moral Particularism*, Oxford: Clarendon Press.
-* Jonsen, Albert R., 1995, “Casuistry: An Alternative or Complement to Principles?”, *Kennedy Institute of Ethics Journal*, 5(3): 237–251. doi:10.1353/ken.0.0016
-* Kymlicka, Will, 1993 [1996] , “Moral Philosophy and Public Policy: The Case of NRTs”, *Bioethics*, 7(1): 1–26. Slightly revised in *Philosophical Perspectives on Bioethics*, L.W. Sumner and Joseph Boyle (eds.), Toronto: University of Toronto Press, 1996, 244–270. doi:10.1111/j.1467-8519.1993.tb00268.x
+* Jonsen, Albert R., 1995, “Casuistry: An Alternative or Complement to Principles?”, *Kennedy Institute of Ethics Journal*, 5(3): 237–251. doi: 10.1353/ken.0.0016
+* Kymlicka, Will, 1993 [1996] , “Moral Philosophy and Public Policy: The Case of NRTs”, *Bioethics*, 7(1): 1–26. Slightly revised in *Philosophical Perspectives on Bioethics*, L.W. Sumner and Joseph Boyle (eds.), Toronto: University of Toronto Press, 1996, 244–270. doi: 10.1111/j.1467-8519.1993.tb00268.x
 * Lindemann Nelson, Hilde, 1997a, “Introduction: How to Do Things with Stories”, in Lindemann Nelson 1997b: vii–xx.
 * ––– (ed.), 1997b, *Stories and Their Limits: Narrative Approaches to Bioethics*, New York: Routledge.
-* Little, Margaret Olivia, 1996, “Why a Feminist Approach to Bioethics?”, *Kennedy Institute of Ethics Journal*, 6(1): 1–18. doi:10.1353/ken.1996.0005
-* –––, 2001, “On Knowing the ‘Why’: Particularism and Moral Theory”, *The Hastings Center Report*, 31(4): 32–40. doi:10.2307/3527954
-* London, Alex John, 2001, “The Independence of Practical Ethics”, *Theoretical Medicine and Bioethics*, 22(2): 87–105. doi:10.1023/A:1011403909450
-* Louden, Robert B., 1990, “Virtue Ethics and Anti-Theory”, *Philosophia*, 20(1–2): 93–114. doi:10.1007/BF02382586
-* –––, 1992, *Morality and Moral Theory: A Reappraisal and Reaffirmation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195072921.001.0001
+* Little, Margaret Olivia, 1996, “Why a Feminist Approach to Bioethics?”, *Kennedy Institute of Ethics Journal*, 6(1): 1–18. doi: 10.1353/ken.1996.0005
+* –––, 2001, “On Knowing the ‘Why’: Particularism and Moral Theory”, *The Hastings Center Report*, 31(4): 32–40. doi: 10.2307/3527954
+* London, Alex John, 2001, “The Independence of Practical Ethics”, *Theoretical Medicine and Bioethics*, 22(2): 87–105. doi: 10.1023/A: 1011403909450
+* Louden, Robert B., 1990, “Virtue Ethics and Anti-Theory”, *Philosophia*, 20(1–2): 93–114. doi: 10.1007/BF02382586
+* –––, 1992, *Morality and Moral Theory: A Reappraisal and Reaffirmation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195072921.001.0001
 * MacIntyre, Alasdair, 1981, *After Virtue: a Study in Moral Theory*, Notre Dame, IN: Notre Dame University Press.
-* –––, 1984, “Does Applied Ethics Rest on a Mistake?”:, *Monist*, 67(4): 498–513. doi:10.5840/monist198467438
-* Magelssen, Morten, Reidar Pedersen, and Reidun Førde, 2016, “Four Roles of Ethical Theory in Clinical Ethics Consultation”, *The American Journal of Bioethics*, 16(9): 26–33. doi:10.1080/15265161.2016.1196254
-* McMillan, John, 2018, *The Methods of Bioethics: An Essay in Meta-Bioethics*, New York: Oxford University Press. doi:10.1093/oso/9780199603756.001.0001
+* –––, 1984, “Does Applied Ethics Rest on a Mistake?”:, *Monist*, 67(4): 498–513. doi: 10.5840/monist198467438
+* Magelssen, Morten, Reidar Pedersen, and Reidun Førde, 2016, “Four Roles of Ethical Theory in Clinical Ethics Consultation”, *The American Journal of Bioethics*, 16(9): 26–33. doi: 10.1080/15265161.2016.1196254
+* McMillan, John, 2018, *The Methods of Bioethics: An Essay in Meta-Bioethics*, New York: Oxford University Press. doi: 10.1093/oso/9780199603756.001.0001
 * McNaughton, David, 1998, *Moral Vision: An Introduction to Ethics*, Oxford: Blackwell.
 * Nussbaum, Martha C., 1992, *Love’s Knowledge: Essays on Philosophy and Literature*, New York: Oxford University Press.
 * –––, 1995, *Poetic Justice: The Literary Imagination and Public Life*, Boston: Beacon Press.
@@ -265,15 +265,15 @@ Arras 提出的第二个批评涉及 Beauchamp 和 Childress 对广泛反思均�
 * O’Neill, Onora, 1988, “How Can We Individuate Moral Problems?”, in *Applied Ethics and Ethical Theory*, David M. Rosenthal and Fadlou Shehadi (eds), Salt Lake City, UT: University of Utah Press, 84–99.
 * Ramsey, Paul, 1970, *Fabricated Man: The Ethics of Genetic Control*, New Haven, CT: Yale University Press.
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
-* Rorty, Richard, 1989, *Contingency, Irony, and Solidarity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511804397
+* Rorty, Richard, 1989, *Contingency, Irony, and Solidarity*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511804397
 * Sandomir, Richard, 2019, “Mary Warnock, Who Offered Guidance on Embryo Use, Dies at 94”, *New York Times*, 29 March 2019.
-* Scanlon, T. M., 1992, “The Aims and Authority of Moral Theory”, *Oxford Journal of Legal Studies*, 12(1): 1–23. doi:10.1093/ojls/12.1.1
+* Scanlon, T. M., 1992, “The Aims and Authority of Moral Theory”, *Oxford Journal of Legal Studies*, 12(1): 1–23. doi: 10.1093/ojls/12.1.1
 * Sherwin, Susan, 1992, *No Longer Patient: Feminist Ethics and Health Care*, Philadelphia, PA: Temple University Press.
 * Sherwin, Susan and Françoise Baylis, 2003, “The Feminist Health Care Ethics Consultant as Architect and Advocate”, *Public Affairs Quarterly*, 17(2): 141–158.
 * Sidgwick, Henry, 1874 [1981], *Methods of Ethics*, London: Macmillan. Reprint of the seventh edition, Indianapolis, IN: Hackett, 1981.
 * Sunstein, Cass R., 1996, *Legal Reasoning and Political Conflict*, New York: Oxford University Press.
-* Toulmin, Stephen, 1981, “The Tyranny of Principles”, *The Hastings Center Report*, 11(6): 31–39. doi:10.2307/3560542
-* Veatch, Robert M., 1995, “Resolving Conflicts Among Principles: Ranking, Balancing, and Specifying”, *Kennedy Institute of Ethics Journal*, 5(3): 199–218. doi:10.1353/ken.0.0138
+* Toulmin, Stephen, 1981, “The Tyranny of Principles”, *The Hastings Center Report*, 11(6): 31–39. doi: 10.2307/3560542
+* Veatch, Robert M., 1995, “Resolving Conflicts Among Principles: Ranking, Balancing, and Specifying”, *Kennedy Institute of Ethics Journal*, 5(3): 199–218. doi: 10.1353/ken.0.0138
 * Wolf, Susan M., 1996a, “Introduction: Gender and Feminism in Bioethics”, in Wolf (ed.) 1996c: 3–43.
 * –––, 1996b, “Gender, Feminism, and Death: Physician-Assisted Suicide and Euthanasia”, in Wolf (ed.) 1996c: 282–317 (ch. 10).
 * ––– (ed.), 1996c, *Feminism and Bioethics: Beyond Reproduction*, New York: Oxford University Press.

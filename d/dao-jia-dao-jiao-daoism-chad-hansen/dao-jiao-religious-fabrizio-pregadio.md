@@ -2,11 +2,11 @@
 
 *首次发表于 2016 年 8 月 19 日星期五；实质修订于 2020 年 8 月 31 日星期一*
 
-> 将所谓的道家学派（Daojia）与所谓的道教宗教（Daojiao）区分开来，已经成为了中国学的教条。前者据说创作了经典的神秘文本...，而后者则常被认为起源于后汉时期（即公元 1-2 世纪）。历代道藏（Daoist Canons）从未做出这种区分。当我们看到明代道藏（于 1445 年出版）中保留的文本中出现的 Daojia 和 Daojiao 这两个术语时，我们可以看到它们几乎是同义词且可以互换使用。- 克里斯托弗·施普尔（Schipper and Verellen 2004: 6）
+> 将所谓的道家学派（Daojia）与所谓的道教宗教（Daojiao）区分开来，已经成为了中国学的教条。前者据说创作了经典的神秘文本...，而后者则常被认为起源于后汉时期（即公元 1-2 世纪）。历代道藏（Daoist Canons）从未做出这种区分。当我们看到明代道藏（于 1445 年出版）中保留的文本中出现的 Daojia 和 Daojiao 这两个术语时，我们可以看到它们几乎是同义词且可以互换使用。- 克里斯托弗 · 施普尔（Schipper and Verellen 2004: 6）
 
 对于本文来说，引用上述一段来自一本主要的西方学术著作关于道教的内容是再合适不过了，尽管这段引文不仅质疑了本文的相关性，还质疑了其主题的实际存在。道教文本并不谈论“哲学”或“宗教”，这两个词在古代汉语中甚至不存在。相反，它们谈论的是他们所称之为“道之家”、“道之家族”或“道之宗派”（daojia；也可用复数形式翻译），以及他们所称之为“道之教义”或“关于道的教义”（daojiao）。显然理解这些术语的道教徒将它们视为定义相同的实体：没有“教义”就没有“宗派”，反之亦然。
 
-即使接受“宗教道教”这个术语，也不清楚它应该定义哪个实体，不同的学者可能会以不同的方式解释其含义。“宗教”是否应该包括除了“哲学”以外的所有道教内容？这可能会排除道教徒认为是他们传统的一个组成部分，实际上是源头的《道德经》（下文§1.1）的观点。忽略这些观点就像是写一篇有意忽略考虑神学家的思想和作品的基督教概述一样。是否“宗教”只包括与相关的众神一起进行的公共仪式，一方面，以及神职和修道机构，另一方面？如果是这样，那么关于“宗教道教”的文章将排除冥想、炼丹和其他个人实践，而道教徒（包括那些不从事这些实践的人）认为这些是他们传统的重要组成部分。
+即使接受“宗教道教”这个术语，也不清楚它应该定义哪个实体，不同的学者可能会以不同的方式解释其含义。“宗教”是否应该包括除了“哲学”以外的所有道教内容？这可能会排除道教徒认为是他们传统的一个组成部分，实际上是源头的《道德经》（下文 §1.1）的观点。忽略这些观点就像是写一篇有意忽略考虑神学家的思想和作品的基督教概述一样。是否“宗教”只包括与相关的众神一起进行的公共仪式，一方面，以及神职和修道机构，另一方面？如果是这样，那么关于“宗教道教”的文章将排除冥想、炼丹和其他个人实践，而道教徒（包括那些不从事这些实践的人）认为这些是他们传统的重要组成部分。
 
 道教是一个像佛教、伊斯兰教、犹太教或基督教一样复杂和多样化的传统。现代的哲学和宗教范畴可以帮助理解其“异质性”（Seidel 1997: 39），通过根据一个被认为是熟悉的框架来解释其不同的表现形式。然而，使用这些范畴也可能导致观察者只关注符合所选择框架的传统方面，并且只在该框架的条件下进行观察。这可能导致在传统本身中不存在的区别和界限。更糟糕的是，整个问题可能只是将一个文化模式强加于另一个文化模式之上。
 
@@ -28,7 +28,7 @@
 
 虽然作者及其作品传统上被认为是公元前 6 世纪的产物，但马王堆和郭店文献（分别于 1972 年和 1993 年发现；Henricks 1989 和 2000）已经帮助确定《道德经》的早期范本——比现在的版本更短，彼此之间也不同——在公元前 4 世纪下半叶开始流传。然而，通常也承认该文本融合了早期的口头传统。虽然这使得确定日期几乎不可能解决，但也表明一开始并没有“原始”和“完整”的文本范本，它可能以不同内容和长度的几个版本存在，直到大约在公元前 3 世纪晚期，它才以接近我们今天所知的形式编纂出来。（关于《道德经》及其注释传统的概述，请参见 Chan 2000 和 Robinet 1999。）
 
-《道德经》讨论了三个主要主题：道、圣人（或实现者）以及统治者和他的政府。几个早期的中国传统谈到了道，但《道德经》是最早使用这个词来指代存在的起源和源头的来源。作为绝对原则，道无法被描述或定义。它甚至没有一个名字：只是因为“被迫”要提到它才使用了“道”这个词（第 25 节）。\[以下引用均参考 81 节版本的章节编号，这也是大多数西方语言翻译所采用的细分方式。]作为无形的，道是“恒常的”（常，1），不经历变化（41），并且是“无形的”、“无声的”和“无法感知的”（14）。然而，道包含了一个“本质”（经），这是其自我显现的种子（21），它是无意识的，并通过“无为”（无为；37）来发生。道显现自己、生成和滋养所有个体实体的能力是其德或“美德、力量”，这是《道德经》标题中的第二个术语。在这个方面，道被称为世界的“起源”和“母亲”（1）。道的两个方面——绝对和作为相对的显现——“一起出现”，它们的共存是“神秘，然后再次神秘”（1）。
+《道德经》讨论了三个主要主题：道、圣人（或实现者）以及统治者和他的政府。几个早期的中国传统谈到了道，但《道德经》是最早使用这个词来指代存在的起源和源头的来源。作为绝对原则，道无法被描述或定义。它甚至没有一个名字：只是因为“被迫”要提到它才使用了“道”这个词（第 25 节）。\[以下引用均参考 81 节版本的章节编号，这也是大多数西方语言翻译所采用的细分方式。] 作为无形的，道是“恒常的”（常，1），不经历变化（41），并且是“无形的”、“无声的”和“无法感知的”（14）。然而，道包含了一个“本质”（经），这是其自我显现的种子（21），它是无意识的，并通过“无为”（无为；37）来发生。道显现自己、生成和滋养所有个体实体的能力是其德或“美德、力量”，这是《道德经》标题中的第二个术语。在这个方面，道被称为世界的“起源”和“母亲”（1）。道的两个方面——绝对和作为相对的显现——“一起出现”，它们的共存是“神秘，然后再次神秘”（1）。
 
 道德经中最高实现的人是圣人，这个术语在道家的语境中有时被翻译为“圣人”，以区别于儒家的“圣人”。虽然儒家的圣人体现了仁和义的最高道德标准，但道家的圣人通过以道的运行为模式来在世界中行动：根据道德经的说法，仁、义和儒家圣人的其他品质只有在“放弃道”时才会出现。道家的圣人不以个人利益、优势或欲望为基础行动；他不主动行动；他不打算引导他人。相反，他通过将自己置于“后方”来处于前方，并且只根据外部环境的要求做出反应。这就是他的“无为”，即“无为而无不为”的完美行动（同样也适用于道的运行）。
 
@@ -46,7 +46,7 @@
 
 庄子的人类理想反映了这种观点：
 
-> 古代的真人（或实现者，真人）不反抗贫困，不因富裕而骄傲，也不计划自己的事务...\[他]能够一直攀登到道的顶峰...\[他]对热爱生命一无所知，对厌恶死亡一无所知（第 6 章；Watson，77-78）。
+> 古代的真人（或实现者，真人）不反抗贫困，不因富裕而骄傲，也不计划自己的事务...\[他] 能够一直攀登到道的顶峰...\[他] 对热爱生命一无所知，对厌恶死亡一无所知（第 6 章；Watson，77-78）。
 
 在《庄子》中，“内在自由”的主题相对于《道德经》更加强调：自由于社会规则，自由于根深蒂固的思维模式，自由于“本质主义”（即相信事物具有使它们成为它们的永久特征），自由于传统的“自我认同”。
 
@@ -58,9 +58,9 @@
 
 > 试图像这样治理世界就像试图在海洋上行走，钻过一条河流，或让一只蚊子扛起一座山！（第 7 章；沃森，93；另见 66-67）
 
-对于庄子来说，开明的统治者是那些成就“似乎不是他自己的功劳”的人。因此，“人民不依赖他……\[他]让一切都找到自己的享受”（第 7 章；沃森，94）。这段话的发言者是老子本人，庄子接受了他在政府中的“无为”观点。
+对于庄子来说，开明的统治者是那些成就“似乎不是他自己的功劳”的人。因此，“人民不依赖他……\[他] 让一切都找到自己的享受”（第 7 章；沃森，94）。这段话的发言者是老子本人，庄子接受了他在政府中的“无为”观点。
 
-《庄子》从公元 4 世纪开始对后来的道教传统产生了明显的影响，成为了上清道教的灵感来源之一（见§3.3）。从那时起，这部作品为后来的道教著作贡献了大量的思想、概念和术语（Robinet 1983）。其中包括“心斋”（ch. 4; Watson, 54–58）和“坐忘”（ch. 6; Watson, 90–91）这两个表达，在后来的道教中指的是修炼的方法，但在《庄子》中描述的是实现者的内在状态。（关于它们在《庄子》中也指实际修行的观点，请参见 Roth 1997。）
+《庄子》从公元 4 世纪开始对后来的道教传统产生了明显的影响，成为了上清道教的灵感来源之一（见 §3.3）。从那时起，这部作品为后来的道教著作贡献了大量的思想、概念和术语（Robinet 1983）。其中包括“心斋”（ch. 4; Watson, 54–58）和“坐忘”（ch. 6; Watson, 90–91）这两个表达，在后来的道教中指的是修炼的方法，但在《庄子》中描述的是实现者的内在状态。（关于它们在《庄子》中也指实际修行的观点，请参见 Roth 1997。）
 
 ## 2. 道教宗教的起源
 
@@ -72,13 +72,13 @@
 
 ### 2.2 “远游”
 
-一些学者认为，“萨满教”与后来道教传统发展的另一个主题有关：即“远游”（yuanyou），或者是对世界边缘或宇宙最远地区的想象之旅（Kohn 1992: 96–104）。其中最著名的是“远游”诗，可追溯到公元前 2 世纪（Kroll 1996）。在这里，作者描述了一次“狂喜之旅”，他在旅途中访问了地球最偏远的地区，遇到了实现的存在，升入了天宫，最后进入了“太初”的领域。后来的道教传统在不同的背景下使用了“远游”意象：吸收宇宙边界处的纯净能量（气）的呼吸技术，涉及在天上行走星座的冥想实践，以及圣人和仙人进行的朝四方的启蒙之旅，他们从神灵那里找到了经文并接受了教诲（见§9.3）。
+一些学者认为，“萨满教”与后来道教传统发展的另一个主题有关：即“远游”（yuanyou），或者是对世界边缘或宇宙最远地区的想象之旅（Kohn 1992: 96–104）。其中最著名的是“远游”诗，可追溯到公元前 2 世纪（Kroll 1996）。在这里，作者描述了一次“狂喜之旅”，他在旅途中访问了地球最偏远的地区，遇到了实现的存在，升入了天宫，最后进入了“太初”的领域。后来的道教传统在不同的背景下使用了“远游”意象：吸收宇宙边界处的纯净能量（气）的呼吸技术，涉及在天上行走星座的冥想实践，以及圣人和仙人进行的朝四方的启蒙之旅，他们从神灵那里找到了经文并接受了教诲（见 §9.3）。
 
 ### 2.3 方士，或者方法的大师
 
-除了巫之外，还有一类完全不同的从业者被统称为方士（“方法的大师”或“配方的大师”）。虽然他们也在整个社会中活动，但从公元前 4 世纪开始，许多方士被统治者雇佣。他们的专业领域包括不同的宇宙学和秘传艺术：天文学和占星术；卜筮和历法学；医学和疗愈；炼丹术；以及性、呼吸和其他长寿实践。如安娜·赛德尔（1983a: 294）的精确定义所述，方士是那些具有“专业技能”的人。从更广泛的角度来看，值得注意的是，几种最初与方士相关的方法后来被纳入到道教实践中。对于这类从业者来说，我们实际上更接近于道教在后来的时期所变成的样子：正如约翰·拉格韦（1986: 282–83）所指出的，不是“萨满”（以其狂喜和恍惚）而是“卜卦者”（依靠具有明确含义和功能的形象和象征物构建“理性”世界）是道教大师和道教神职人员的前身。
+除了巫之外，还有一类完全不同的从业者被统称为方士（“方法的大师”或“配方的大师”）。虽然他们也在整个社会中活动，但从公元前 4 世纪开始，许多方士被统治者雇佣。他们的专业领域包括不同的宇宙学和秘传艺术：天文学和占星术；卜筮和历法学；医学和疗愈；炼丹术；以及性、呼吸和其他长寿实践。如安娜 · 赛德尔（1983a: 294）的精确定义所述，方士是那些具有“专业技能”的人。从更广泛的角度来看，值得注意的是，几种最初与方士相关的方法后来被纳入到道教实践中。对于这类从业者来说，我们实际上更接近于道教在后来的时期所变成的样子：正如约翰 · 拉格韦（1986: 282–83）所指出的，不是“萨满”（以其狂喜和恍惚）而是“卜卦者”（依靠具有明确含义和功能的形象和象征物构建“理性”世界）是道教大师和道教神职人员的前身。
 
-与巫术不同，方士的一些实践，特别是他们的卜筮术，是基于中国宇宙观系统的，该系统形成于公元前 3 世纪和 2 世纪（Harper 1999; Csikszentmihalyi 2000; Kalinowski 2004）。关于该系统的主要特点及其在道教中的应用的注释将在下面找到（§4.3）。在这里，我们应该简要指出两点。首先，中国宇宙观不与任何特定的知识或技术遗产相联系。它的创造可以看作是一种努力，旨在创建一个全面的系统，适用于各种领域，各种传统科学的专家（尤其是卜卦师、天文学家和医生）以及不同思潮的思想家的贡献。其次，正如伊莎贝尔·罗宾内（1997b: 260）所指出的，“与其他宗教不同，我们必须在道教的宇宙论述中寻找其基本结构、统一性和连续性，而不是在其神祇中”。虽然道教在不同的时代和地方有不同的神祇（见§5.2），但它对道与宇宙之间的关系的看法在其历史上基本上保持不变，并且这些观点通常是基于标准的中国宇宙观系统来制定的。
+与巫术不同，方士的一些实践，特别是他们的卜筮术，是基于中国宇宙观系统的，该系统形成于公元前 3 世纪和 2 世纪（Harper 1999; Csikszentmihalyi 2000; Kalinowski 2004）。关于该系统的主要特点及其在道教中的应用的注释将在下面找到（§4.3）。在这里，我们应该简要指出两点。首先，中国宇宙观不与任何特定的知识或技术遗产相联系。它的创造可以看作是一种努力，旨在创建一个全面的系统，适用于各种领域，各种传统科学的专家（尤其是卜卦师、天文学家和医生）以及不同思潮的思想家的贡献。其次，正如伊莎贝尔 · 罗宾内（1997b: 260）所指出的，“与其他宗教不同，我们必须在道教的宇宙论述中寻找其基本结构、统一性和连续性，而不是在其神祇中”。虽然道教在不同的时代和地方有不同的神祇（见 §5.2），但它对道与宇宙之间的关系的看法在其历史上基本上保持不变，并且这些观点通常是基于标准的中国宇宙观系统来制定的。
 
 ### 2.4 黄老道教
 
@@ -90,7 +90,7 @@
 
 ### 2.5 老子的神化
 
-除了上述概述的组成部分之外，第二世纪后半叶形成了第一个重要的道教宗教运动（见§3.1），这个过程不能不注意古代中国的政治意识形态。这些意识形态在“太平”（taiping）的概念中得到综合，这个概念被包括儒家学说在内的不同传统所共享（Seidel 1983b；Espesset 2009）。关于道教，记录这些观点的主要来源是《太平经》（Book of the Great Peace），最初可追溯到公元 1 世纪或 2 世纪（Hendrischke 2006）。《太平经》中的核心思想是“和平”（ping，也意味着“公平”）时代的来临，这个时代将由一位完美的统治者建立一个完美的社会。这个时代将在消除腐败者的灾难之后到来，但只有统治者按照“回归道”的原则来治理才能实现。
+除了上述概述的组成部分之外，第二世纪后半叶形成了第一个重要的道教宗教运动（见 §3.1），这个过程不能不注意古代中国的政治意识形态。这些意识形态在“太平”（taiping）的概念中得到综合，这个概念被包括儒家学说在内的不同传统所共享（Seidel 1983b；Espesset 2009）。关于道教，记录这些观点的主要来源是《太平经》（Book of the Great Peace），最初可追溯到公元 1 世纪或 2 世纪（Hendrischke 2006）。《太平经》中的核心思想是“和平”（ping，也意味着“公平”）时代的来临，这个时代将由一位完美的统治者建立一个完美的社会。这个时代将在消除腐败者的灾难之后到来，但只有统治者按照“回归道”的原则来治理才能实现。
 
 《太平经》的观点是中国千禧主义的第一个重要例子，从公元 2 世纪至至少 7 世纪，这将成为道教传统中的另一个重要主题（Mollier 2008b）。在汉朝统治的最后阶段，社会动荡和自然灾害中，对即将到来的弥赛亚的期望和预言——通常被预测姓李——在我们时代的 2 世纪不断增长（Seidel 1969–70 和 1983b）。
 
@@ -122,7 +122,7 @@
 
 在这种背景下，江南宗教遗产的代表们通过重新制定和重新编码自己传统的某些方面，以接纳新宗教的元素，对天师道的新引进的教派和仪式做出了回应。这导致了两个重要的新“派别”的产生，实际上包括两个文本语料库和相关的实践。第一个是上清派，基于从 364 年到 370 年在今天的南京附近发生的启示（Strickmann 1977; Robinet 2000）。它的主要经典是《大洞真经》，描述了内在神灵的视觉化方法，包括插图、咒语和符咒。这本书和其他作品清楚地表明，上清派融合了早期的传统，但以不同的方式重新组织和排序它们：冥想现在是主要的实践，甚至炼丹术也被修改，包括一些只能在修行者自身内部进行的过程。
 
-虽然上清派大师的主要功能是传授经文和口头指导，但祭司是第二个文本语料库的核心。灵宝派的启示发生在 397 年至 402 年间，当时葛超夫（葛洪的曾侄子）接收到另一套经文（Bokenkamp 1983; Yamada 2000）。与上清派相比，灵宝派对不同传统的综合更加明显：它融合了天师道的仪式和神祗，以及上清派本身的某些方面（包括可视化，例如祭司将自己的内在神灵派遣给最高天神提交请愿）。此外，灵宝派显示出将佛教元素整合到道教中的最初迹象：特别是它的“普度众生”观念（包括“菩萨戒”版本）以及它的宇宙观，在排列的“天”系统中得到体现（见§5.1）。灵宝派的核心是共同的仪式。陆修静（406-77）的新编码在几十年后遵循了最初的启示，成为后来几个版本的蓝图，并且在现今道教仪式中仍然明显可见。
+虽然上清派大师的主要功能是传授经文和口头指导，但祭司是第二个文本语料库的核心。灵宝派的启示发生在 397 年至 402 年间，当时葛超夫（葛洪的曾侄子）接收到另一套经文（Bokenkamp 1983; Yamada 2000）。与上清派相比，灵宝派对不同传统的综合更加明显：它融合了天师道的仪式和神祗，以及上清派本身的某些方面（包括可视化，例如祭司将自己的内在神灵派遣给最高天神提交请愿）。此外，灵宝派显示出将佛教元素整合到道教中的最初迹象：特别是它的“普度众生”观念（包括“菩萨戒”版本）以及它的宇宙观，在排列的“天”系统中得到体现（见 §5.1）。灵宝派的核心是共同的仪式。陆修静（406-77）的新编码在几十年后遵循了最初的启示，成为后来几个版本的蓝图，并且在现今道教仪式中仍然明显可见。
 
 ### 3.4 “三洞”
 
@@ -132,13 +132,13 @@
 
 唐朝（618-907）的建立伴随着关于姓李的圣帝的千年预言（Bokenkamp 1994）。正如我们之前所见（§2.5），这也是汉朝弥赛亚的姓氏；四个世纪后，强大的李氏家族声称属于老子的血统，并得到了上清一脉的代表的支持，他们的崛起得到了上清祖师王元之（528-635）的预言，预言唐朝的崛起，告知李渊他将成为下一任皇帝，并秘密传授给他“天命”的“册子”。李渊-未来的高祖-最终建立了唐朝。这些事件标志着上清开始上升到类似于“国教”的地位，这种地位在该朝的上半期一直保持着（Barrett 1996；Kohn and Kirkland 2000）。朝廷的支持在公元 740 年左右达到顶峰，当时编纂了《开元道藏》（开元时期的道教经典），这是一系列由皇帝赞助的道教文献集的第一部。
 
-尽管 755-63 年的灾难性安史之乱结束了唐朝的辉煌，但对于整个道教来说，唐代是一个巩固的时代，也是一个发生重大变化和创新的时代。在仪式方面，唐代和五代后几十年的时期，分别由张万福（公元 710-13 年）和杜光庭（850-933 年）两位最重要的“宫廷道士”创制了两个重要的新编码（Verellen 1989）。在 1 世纪引入并在六朝时期发展起来后，唐代佛教在新兴宗派的崛起中得到了“中国化”，其中最重要的是天台宗和禅宗（日本禅宗），以及“通俗”密宗实践的传播（关于道教和佛教，请参见 Zürcher 1980 和 Mollier 2008a；有关主要观点的概述，请参见 Bokenkamp 2004）。这导致了第二个千年的两个现象：一方面是对国家赞助的竞争，另一方面是反复试图综合“三教”（儒教、道教和佛教）。道教和佛教思想和宗教的交叉在教义（Robinet 2004）、祭祀（包括几个共享的神明，例如观音；Mollier 2008a，174-208）和冥想实践中可见（见§9.4）。
+尽管 755-63 年的灾难性安史之乱结束了唐朝的辉煌，但对于整个道教来说，唐代是一个巩固的时代，也是一个发生重大变化和创新的时代。在仪式方面，唐代和五代后几十年的时期，分别由张万福（公元 710-13 年）和杜光庭（850-933 年）两位最重要的“宫廷道士”创制了两个重要的新编码（Verellen 1989）。在 1 世纪引入并在六朝时期发展起来后，唐代佛教在新兴宗派的崛起中得到了“中国化”，其中最重要的是天台宗和禅宗（日本禅宗），以及“通俗”密宗实践的传播（关于道教和佛教，请参见 Zürcher 1980 和 Mollier 2008a；有关主要观点的概述，请参见 Bokenkamp 2004）。这导致了第二个千年的两个现象：一方面是对国家赞助的竞争，另一方面是反复试图综合“三教”（儒教、道教和佛教）。道教和佛教思想和宗教的交叉在教义（Robinet 2004）、祭祀（包括几个共享的神明，例如观音；Mollier 2008a，174-208）和冥想实践中可见（见 §9.4）。
 
-最后，这个时期不仅标志着外丹（外部炼丹术）发展的最高阶段，也标志着内丹（内部炼丹术）的起步（见§10）。第一个明确可辨认的内丹传承是中吕派（以两位仙人钟离权和吕洞宾命名），似乎是从唐代下半叶开始发展起来的。
+最后，这个时期不仅标志着外丹（外部炼丹术）发展的最高阶段，也标志着内丹（内部炼丹术）的起步（见 §10）。第一个明确可辨认的内丹传承是中吕派（以两位仙人钟离权和吕洞宾命名），似乎是从唐代下半叶开始发展起来的。
 
 ### 3.6 宋代的新传承
 
-在中国被宋朝（960-1279）重新统一之后，社会发生了重大变化，尤其是城市化、市场经济的形成以及新阶层的崛起，特别是在东南地区，这些变化导致了宗教的重大转变。"居士会"这一机构的主要功能是（除了执行各种功德行为之外）支持当地寺庙，对道教的发展尤为重要，同时也促进了地方神灵和圣人崇拜融入道教的神灵体系和礼仪中。
+在中国被宋朝（960-1279）重新统一之后，社会发生了重大变化，尤其是城市化、市场经济的形成以及新阶层的崛起，特别是在东南地区，这些变化导致了宗教的重大转变。"居士会" 这一机构的主要功能是（除了执行各种功德行为之外）支持当地寺庙，对道教的发展尤为重要，同时也促进了地方神灵和圣人崇拜融入道教的神灵体系和礼仪中。
 
 "天师道"（当时位于江西现今的龙虎山）被正式指派负责祭司的任命，但一系列的启示导致了一些宗派的产生，其中几个宗派声称自己的起源可以追溯到张道陵本人。从 10 世纪中叶到 13 世纪中叶，建立了五个主要的宗派：天心派、神霄派、玉堂大法、灵宝大法和清微派。它们都基于不同的仪式编码，包括驱魔仪式，但基本实践几乎没有变化。此外，当地社区还有自己的仪式专家，被称为法师，这个术语至今仍指代专门从事驱魔实践的在俗祭司。
 
@@ -166,7 +166,7 @@
 
 ### 4.2 本质、气息、精神
 
-道自我显现，产生了宇宙的三个主要组成部分。这些组成部分被统称为“三宝”（三宝），它们分别是精（本质）、气（气息）和神（精神）。\[1]每个组成部分都有两个方面，与它们未显现或“先天”的本质相关，以及与它们在显现世界中的“后天”形式相关。这三个组成部分也被视为人类的主要组成部分。
+道自我显现，产生了宇宙的三个主要组成部分。这些组成部分被统称为“三宝”（三宝），它们分别是精（本质）、气（气息）和神（精神）。\[1] 每个组成部分都有两个方面，与它们未显现或“先天”的本质相关，以及与它们在显现世界中的“后天”形式相关。这三个组成部分也被视为人类的主要组成部分。
 
 在它们的前宇宙方面，神、气和精（按照这个顺序）代表了宇宙生成过程中的三个连续阶段，从非存在和空虚的初始状态（无、虚）到最终生成“万物”的本质凝聚。神是主宰非物质实体的原则（包括被称为神的天神，也称为“灵”或“神”）；精是主宰物质实体的原则；气是维持整个宇宙在其整个范围和持续时间以及其不断变化的原则。在这些方面，精、气和神通常前缀为“原”字（原精、原气、原神）。在某些情况下，原气也被视为在本质、气息和精神出现之前的原则；当它以这个意义使用时，它也被称为祖气，并等同于道本身。
 
@@ -176,7 +176,7 @@
 
 为了解释道与宇宙之间的关系，《道德经》描述了道所经历的一系列状态，包括道本身、统一、二元性（阴阳）以及最后的多样性：“道生一，一生二，二生三，三生万物”（第 42 节）。即使其他文本或作者可能提到其他中间阶段或排除它们（如庄子：“万物出于无有”；第 23 章；Watson 1968: 257），这个基本的顺序始终受到尊重。阶段的垂直排列说明了从道到宇宙的下降过程，但也暗示并经常明确概述了从宇宙到道的相应的逐渐上升过程，需要逐渐进行并得到适当实践的支持。
 
-当这种层次排列被表示为一系列隐喻的时间阶段时，话语从本体论转向宇宙论。除了上述提到的之外，道教在其历史上还阐述了几种宇宙论的观点（Robinet 1997a）。其中许多关注混沌（通常译为“混沌”或“未成形”），意味着某种刚刚开始存在但尚未完全形成或发展的东西，但最终宇宙从中产生（参见《道德经》25：“有物混成，先天地生”）。在《庄子》的一段著名的描写中，这种状态被一个名为混沌的皇帝所代表，他统治着“中央”。由于他的身体没有开口，北方和南方的皇帝决定让他看起来像一个人类，给他眼睛、耳朵、鼻孔和嘴巴。“每天他们钻一个洞，第七天混沌死了”（第 7 章；Watson 1968: 97）。正如诺曼·吉拉多（1983: 113–33）所指出的，这个故事将混沌到宇宙的转变和混沌的死亡原因归因于二元性的出现——北方和南方的皇帝——以及社会制度的创造。结束“混沌秩序”的和谐的原因是“社会秩序”的出现。
+当这种层次排列被表示为一系列隐喻的时间阶段时，话语从本体论转向宇宙论。除了上述提到的之外，道教在其历史上还阐述了几种宇宙论的观点（Robinet 1997a）。其中许多关注混沌（通常译为“混沌”或“未成形”），意味着某种刚刚开始存在但尚未完全形成或发展的东西，但最终宇宙从中产生（参见《道德经》25：“有物混成，先天地生”）。在《庄子》的一段著名的描写中，这种状态被一个名为混沌的皇帝所代表，他统治着“中央”。由于他的身体没有开口，北方和南方的皇帝决定让他看起来像一个人类，给他眼睛、耳朵、鼻孔和嘴巴。“每天他们钻一个洞，第七天混沌死了”（第 7 章；Watson 1968: 97）。正如诺曼 · 吉拉多（1983: 113–33）所指出的，这个故事将混沌到宇宙的转变和混沌的死亡原因归因于二元性的出现——北方和南方的皇帝——以及社会制度的创造。结束“混沌秩序”的和谐的原因是“社会秩序”的出现。
 
 在后来的观点中（Kohn 1998: 179–97；Robinet 2002），老君（道教的主神）开始被视为道的“本体”，从而产生了宇宙（Seidel 1969: 84–91）。天师道（Bokenkamp 1997: 188–92；Seidel 1969: 79–84）和灵宝道教（Lagerwey 1981: 104；Bokenkamp 1997: 380–81；Robinet 2002: 148–55）也创造了自己的宇宙论。
 
@@ -195,7 +195,7 @@
 
 在中国，道教、佛教和民间信仰之间的界限与一神教宗教相比要模糊得多。根据个人需求和情况，俗人可以向道教、佛教或民间神灵进行崇拜，并向他们祈祷和祈愿。
 
-这使得道教与普通宗教密切联系在一起，但也成为一个有争议的关系的原因。道教试图承担双重任务 - 并不总是成功 - 将人们拉近代表道的神灵，同时满足他们的即时宗教需求。因此，用彼得·尼克森（2008 年：148）的话来说，
+这使得道教与普通宗教密切联系在一起，但也成为一个有争议的关系的原因。道教试图承担双重任务 - 并不总是成功 - 将人们拉近代表道的神灵，同时满足他们的即时宗教需求。因此，用彼得 · 尼克森（2008 年：148）的话来说，
 
 > 道教徒正是因为依赖于他们声称已经超越的实践传统，被迫试图与他们的普通前辈和竞争对手区分开来。
 
@@ -215,7 +215,7 @@
 
 ### 5.2 泛神殿
 
-最高的道教神明是三清，每个神明统治着一个天界（详见§3.4 中的名称）。它们与不同的宇宙前时代相关，并被认为是与三洞有关的文本体系的起源。在道教的历史中，三清被其他神明补充，但从未被取代，这些神明实际上可能与它们共享“最高道教神明”的称号。其中最重要的是太乙，或称为大一，代表了宇宙的基本统一形式；以及玉皇，或称为玉皇上帝，宋代之前流行宗教中的最高神明，在宋代被纳入道教神殿。
+最高的道教神明是三清，每个神明统治着一个天界（详见 §3.4 中的名称）。它们与不同的宇宙前时代相关，并被认为是与三洞有关的文本体系的起源。在道教的历史中，三清被其他神明补充，但从未被取代，这些神明实际上可能与它们共享“最高道教神明”的称号。其中最重要的是太乙，或称为大一，代表了宇宙的基本统一形式；以及玉皇，或称为玉皇上帝，宋代之前流行宗教中的最高神明，在宋代被纳入道教神殿。
 
 其他一些神明，如五方“帝”（或“天帝”，帝），代表宇宙学原理。此外，大量的神明，其中大部分源自地方信仰，并与普通宗教共享，共同形成了一个无法完全描述的神殿，因为它在不同的地方和时代采取不同的形式（Lagerwey 2010: 19–55；图像学在 Little 2000、Delacour et al. 2010、Huang 2012 和 Fava 2013 中）。举几个例子，这些神明包括西王母（西王母，古代仙女的女神）；北斗母（一位源自印度的女神，特别与儿童和分娩有关）；妈祖（一位生活在 10 世纪末的女性，被尊为航海者和渔民的保护神，也是寻求子女的妇女的保护神）；真武（明朝的保护神，与北斗有关，并具有驱邪和治疗的能力）；文帝（文元帅，为了防止“瘟疫之神”污染当地井水而牺牲自己的生命）；以及“瘟疫之神”本身，在道教仪式中称为瘟疫祭祀（wenjiao）中被安抚。
 
@@ -223,7 +223,7 @@
 
 最高的神明直接或通过他们的代表揭示文本、教义和方法。例如，商庆和灵宝经被认为是在宇宙形成的早期阶段，从自发生成的原始气息凝结而成的图形（Robinet 1993: 21–24），或者从其振动产生的声音（Bokenkamp 1997: 386–87）中形成。它们在天界传承，直到一个“神灵”或一个“仙人”将它们抄录成人类可以理解的字符。
 
-就像神明通常以经文的形式赐予启示一样，与神明交流的典型道教方式是通过写作：正如安娜·赛德尔所指出的，中国的神明“既不说话也不倾听，而是写作和阅读”（1997: 43）。在道教仪式中，道士向神明呈递一份“祭文”（或“声明”，书），以宣布为了神明而举行的仪式，宣布其目的，详细说明其程序，并列出赞助人的姓名（Schipper 1974）。所谓的符咒（符，几乎与希腊符号的原始含义完全相对应的词）是在纸上或其他支持物上以几乎难以理解的图形追踪而成，但对神明来说是可理解的（Despeux 2000; Mollier 2003）。就像揭示的经文一样，一些符咒实际上被认为是从它们演变而来的，它们在天界也有对应物，因此用于识别和验证其持有者在神明面前的身份。它们赋予召唤某些神明和控制恶魔的力量，但也保护空间和治愈疾病；它们被佩戴在身上，固定在四个方向，沿着通往住所的路径放置，或者被制成灰烬并与水一起饮用。
+就像神明通常以经文的形式赐予启示一样，与神明交流的典型道教方式是通过写作：正如安娜 · 赛德尔所指出的，中国的神明“既不说话也不倾听，而是写作和阅读”（1997: 43）。在道教仪式中，道士向神明呈递一份“祭文”（或“声明”，书），以宣布为了神明而举行的仪式，宣布其目的，详细说明其程序，并列出赞助人的姓名（Schipper 1974）。所谓的符咒（符，几乎与希腊符号的原始含义完全相对应的词）是在纸上或其他支持物上以几乎难以理解的图形追踪而成，但对神明来说是可理解的（Despeux 2000; Mollier 2003）。就像揭示的经文一样，一些符咒实际上被认为是从它们演变而来的，它们在天界也有对应物，因此用于识别和验证其持有者在神明面前的身份。它们赋予召唤某些神明和控制恶魔的力量，但也保护空间和治愈疾病；它们被佩戴在身上，固定在四个方向，沿着通往住所的路径放置，或者被制成灰烬并与水一起饮用。
 
 ### 5.4 仪式
 
@@ -237,7 +237,7 @@
 
 ### 6.1 仙人
 
-根据传记作品，道教仙人是历史上、半历史上或完全传说中超越普通人类存在限制的人物，有时是通过出生，但通常是通过他们的修行手段。正如本杰明·彭尼（2000 年：125-26）所描述的，他们的能力包括能够将自己变成不同的生物或物体；拥有非凡的身体，没有衰老的迹象，并能够完成惊人的壮举；通过掌握气（生命力的“呼吸”）来控制人、动物和物体的技巧；拥有治愈的能力；以及预测未来的能力。然而，仙人所拥有的主要力量无疑是能够达到无限长寿的能力。尤其是在传记作品中，人类“完美性”的概念被理解为同时最基本和最理想的意义上：不仅是异常的长寿，还有肉体的不朽。
+根据传记作品，道教仙人是历史上、半历史上或完全传说中超越普通人类存在限制的人物，有时是通过出生，但通常是通过他们的修行手段。正如本杰明 · 彭尼（2000 年：125-26）所描述的，他们的能力包括能够将自己变成不同的生物或物体；拥有非凡的身体，没有衰老的迹象，并能够完成惊人的壮举；通过掌握气（生命力的“呼吸”）来控制人、动物和物体的技巧；拥有治愈的能力；以及预测未来的能力。然而，仙人所拥有的主要力量无疑是能够达到无限长寿的能力。尤其是在传记作品中，人类“完美性”的概念被理解为同时最基本和最理想的意义上：不仅是异常的长寿，还有肉体的不朽。
 
 最早的传记集是《列仙传》（Kaltenmark 1953），可能可以追溯到公元前 1 世纪，以及《神仙传》（Campany 2002），传统上被认为是葛洪所著，尽管没有确凿的证据证明他的作者身份（彭尼 1996）。除了专门致力于单一神祇（特别是老子的神圣面貌；康恩 1998：7-36）的作品外，传记中包含了关于达到圣洁状态的男性和女性的典范故事（但不是“神一般”的状态：仙人不是神）。这些故事通常与地方崇拜有关，反映了口头传统，但通常是由文人撰写的，其中一些与道教关系不大，但对“非凡”和不寻常之事感兴趣，或者对当地传统的保护感兴趣。更重要的是，传记作品旨在公开传播，不是传授给已启蒙或被任命的道士的对象。人们可以将它们视为面向大众的“道教入门指南”，他们对所涉及的主题的了解通常不会超出他们在那里阅读的内容。
 
@@ -255,13 +255,13 @@
 
 上清经典是第一个描述通过生成新的内胚胎来创造不朽之体或不朽之我的冥想方法的经典。在一份上清文献中发现的“在大黑暗中炼化肉身”的记载中，补充了我们上面所见的一个重要细节，称熟练者通过再次经历胚胎发育来获得第二次出生（Robinet 1979: 63–66; Strickmann 1979: 182–83; Pregadio 2004: 124–25）。另一个例子是“解结”（jiejie）的修行。在上清观点中，人类的孕育过程会产生支撑五脏的“结”和“结节”，但最终导致人的死亡。为了解开这些结，熟练者被指导通过复杂的冥想修行来创造一个新的胚胎（Robinet 1993: 139–43; 关于这种修行中涉及的“命运改变”，请参见 Bokenkamp 2005b, 160–62）。
 
-上清文本还描述了为了拯救被困在地府中的祖先而进行的冥想修行，他们通过首先回到胚胎状态而成为仙人（Lagerwey 1981: 206–8; Robinet 1984: 1:170–73）。灵宝文献描述了为了同样目的而进行的仪式修行（Bokenkamp 1989: 7–14）。几个世纪后，这些修行方法发展出两种主要方式。第一种是通过炼度（liandu）实现救度的方法，其中一位道士下降到地狱释放亡者的灵魂，并引领他们进入玉清境界。整个修行过程在祭司的身体内进行：天界和地狱对应于他自己身体内的位置，修行中涉及的神明通过他的身体来完成救度的工作（Lagerwey 1987: 232–35; Boltz 1983）。第二种发展是内丹术，其修行常被描述为一个不朽胚胎的构想、孕育和诞生（见§10.3）。
+上清文本还描述了为了拯救被困在地府中的祖先而进行的冥想修行，他们通过首先回到胚胎状态而成为仙人（Lagerwey 1981: 206–8; Robinet 1984: 1: 170–73）。灵宝文献描述了为了同样目的而进行的仪式修行（Bokenkamp 1989: 7–14）。几个世纪后，这些修行方法发展出两种主要方式。第一种是通过炼度（liandu）实现救度的方法，其中一位道士下降到地狱释放亡者的灵魂，并引领他们进入玉清境界。整个修行过程在祭司的身体内进行：天界和地狱对应于他自己身体内的位置，修行中涉及的神明通过他的身体来完成救度的工作（Lagerwey 1987: 232–35; Boltz 1983）。第二种发展是内丹术，其修行常被描述为一个不朽胚胎的构想、孕育和诞生（见 §10.3）。
 
 ## 7. 人体观点
 
 道家对人体的理解与对整个人的理解几乎无法区分开来，这一点本身构成了道家观点的核心。道家对解剖学或生理学不感兴趣。身体的物质形态具有不同的功能：它支撑着各种隐喻，表达了整个人与终极原则道的关系。
 
-赋予身体象征性方面的重要性也是道教与中国传统医学不同的主要方面：道教将身体视为“回归道”的工具。凯瑟琳·德斯普尔指出，道教徒将身体视为实际目标，发展各种身体技术，旨在解放个体免于身体的限制，并因此赋予象征性身体重要角色。（翻译自德斯普尔 1996 年：87-88）
+赋予身体象征性方面的重要性也是道教与中国传统医学不同的主要方面：道教将身体视为“回归道”的工具。凯瑟琳 · 德斯普尔指出，道教徒将身体视为实际目标，发展各种身体技术，旨在解放个体免于身体的限制，并因此赋予象征性身体重要角色。（翻译自德斯普尔 1996 年：87-88）
 
 > 7.1 术语
 
@@ -275,7 +275,7 @@
 
 因此，在道教中，对身体的仅仅解剖学观点是最不重要的。道教的话语和实践关注的是形（“形态”）和神（整个人）。保持身体健康并不是一个目的，而是确保身体及其部分和器官能够履行其象征功能。
 
-这些象征功能涉及到克里斯托弗·施皮珀（Kristofer Schipper）所称的身体的“象征视野”（1993: 104 ff）和凯瑟琳·德斯普（Catherine Despeux）所称的“象征身体”（1996: 98）。这种观点以几个关键概念和表象为中心，根据个体情况的不同，这些概念和表象会受到更多或更少的强调。在整个道教中可以区分出五种不同的身体模型：
+这些象征功能涉及到克里斯托弗 · 施皮珀（Kristofer Schipper）所称的身体的“象征视野”（1993: 104 ff）和凯瑟琳 · 德斯普（Catherine Despeux）所称的“象征身体”（1996: 98）。这种观点以几个关键概念和表象为中心，根据个体情况的不同，这些概念和表象会受到更多或更少的强调。在整个道教中可以区分出五种不同的身体模型：
 
 1. 宇宙模型，人被视为一个包含并复制宏观世界所有主要特征的微观世界。
 2. 政治模型，将人类比作行政系统，进而与国家和天堂的官僚体系相对应。
@@ -291,7 +291,7 @@
 
 人的中心以不同的方式被表示；由于不是物质的，它可能有不同的象征性位置和名称。其中最重要的是心（心，也是“中心”的意思）。相关的形象和术语包括黄庭和玄牝。黄庭（黄庭，其中“黄”是中央代理土的颜色，“庭”是传统中国房屋中的中央庭院）有不同的定义。当参照框架是三丹田时，它可以表示其中任何一个，尤其是对应于心脏的中央一个；当参照的是五行时，它表示脾脏，脾脏位于五脏的中央，对应于土。玄牝（玄牝，这个术语源自《道德经》，通常翻译为“玄牝”）是阴（“女性”）和阳（“玄奥”）的结合的非物质位置。
 
-三丹田（丹田）是下丹田（真正的丹田），位于腹部区域，是精的所在地；中丹田，位于心脏区域，是气的所在地；上丹田，位于脑部区域，是神的所在地。在冥想实践中，三田田是三位一体（三一）的居所，代表了一和其分割为二。在内丹术（内丹术，参见§10.3）中，它们是炼丹胚胎的构思、滋养和交付的位置。
+三丹田（丹田）是下丹田（真正的丹田），位于腹部区域，是精的所在地；中丹田，位于心脏区域，是气的所在地；上丹田，位于脑部区域，是神的所在地。在冥想实践中，三田田是三位一体（三一）的居所，代表了一和其分割为二。在内丹术（内丹术，参见 §10.3）中，它们是炼丹胚胎的构思、滋养和交付的位置。
 
 五脏（肝脏、心脏、脾脏、肺脏和肾脏）承担着重要的象征功能。它们依次与木、火、土、金和水五行相对应。这使得脏腑成为道教宏观-微观学说的主要支持。三丹田和五脏分别在人体内再现了宇宙的垂直和水平维度。
 
@@ -317,7 +317,7 @@
 
 导引（直译为“引导和拉拽”；Despeux 1989；Kohn 2008）可以用西方的术语来定义，它是一种类似体操的运动，可以提高身体的灵活性和协调性。从不同的参考框架来看，它的形式特点和在道教中的地位与印度教中的哈达瑜伽类似。导引姿势和动作的目的是让气在身体内畅通无阻。据已知，这种练习至少可以追溯到公元前 3 世纪或 2 世纪（马王堆文献的翻译，Harper 1998: 310–27）。道教典籍中只有一篇关于导引的文本（Kohn 2012 的翻译，章节奇怪地被称为“内丹术”）。
 
-呼吸练习有许多不同的形式。最常见的一般术语是行气（“循环呼吸”）和吐纳（“呼出\[旧气]和吸入\[新气]”）。特定的练习包括闭气（“保持呼吸”）、扩散气（“散布呼吸”）、炼气（“精炼呼吸”）和调气（“调和呼吸”）。另一个著名的术语是中息（“通过脚跟呼吸”），在《庄子》中用来指代实现者的自然呼吸，它不仅限于肺部，而是在整个身体中循环（第 6 章；Watson 1968: 78）。两个特别重要的练习是吸入四方“气”的摄取（Raz 2013），以及所谓的“胎息”（胎息），它声称能够复制胎儿在子宫中的呼吸（Maspero 1981: 459–505）。
+呼吸练习有许多不同的形式。最常见的一般术语是行气（“循环呼吸”）和吐纳（“呼出\[旧气] 和吸入\[新气]”）。特定的练习包括闭气（“保持呼吸”）、扩散气（“散布呼吸”）、炼气（“精炼呼吸”）和调气（“调和呼吸”）。另一个著名的术语是中息（“通过脚跟呼吸”），在《庄子》中用来指代实现者的自然呼吸，它不仅限于肺部，而是在整个身体中循环（第 6 章；Watson 1968: 78）。两个特别重要的练习是吸入四方“气”的摄取（Raz 2013），以及所谓的“胎息”（胎息），它声称能够复制胎儿在子宫中的呼吸（Maspero 1981: 459–505）。
 
 性行为常被定义为房中术或“卧室艺术”（Maspero 1981: 517–41）。大量关于这个主题的文献表明，这些艺术，除了少数例外，主要是针对男性的（另一个常用的定义它们的术语是玉女，“骑女人”）。它们的主要目的是避免射精：精液应该被阻止排出，而应该“返回大脑”（被认为是髓液的起源，进而是精液的来源）。这种方法被称为还精补脑，即“将精气还归于脑中”。
 
@@ -337,7 +337,7 @@
 
 有几本文献描述了内在神祇的特征。其中一本主要的来源是《黄庭经》（约公元 200 年；罗宾内特 1993 年：55-96；德普 2012 年：128-49），例如提到了一系列主要居住在五脏之内的神祇。值得注意的是，每个器官都被称为“部”（bu），这个术语也表示政府的“部”（ministry），而每个神祇据说居住在一个“宫殿”中。这些和其他细节，如神祇的名称、外貌、尺寸和服饰，都被提及为冥想实践的支持。与古代中国关于精神（shen）与身体的命运分离的观点一致，几部作品警告说，如果内在神祇（也称为 shen）离开它们的住所，人就会死亡。将自己的思绪集中在它们上面（cun）可以使它们保持在它们的肉体住所中。
 
-这些神祇并不被认为在普通意义上具有物质存在。相反，它们属于一种介于无形和有形之间的领域；正如伊莎贝尔·罗宾内特所指出的，它们是“形象”（xiang），在“感官现实世界和无法知晓的世界之间发挥中介作用”（1993 年：50）。神祇寄宿的人并不被它们所占据，也不是因为它们的存在而“神化”（对于不同的观点，请参见普埃特 2002 年：226-27）。相反，修行者成为神圣表象的焦点，他是唯一的创造者和唯一的观察者。神祇寄居的器官和场所不再仅仅是“身体部位”，而成为使这种表象成为可能的支撑。
+这些神祇并不被认为在普通意义上具有物质存在。相反，它们属于一种介于无形和有形之间的领域；正如伊莎贝尔 · 罗宾内特所指出的，它们是“形象”（xiang），在“感官现实世界和无法知晓的世界之间发挥中介作用”（1993 年：50）。神祇寄宿的人并不被它们所占据，也不是因为它们的存在而“神化”（对于不同的观点，请参见普埃特 2002 年：226-27）。相反，修行者成为神圣表象的焦点，他是唯一的创造者和唯一的观察者。神祇寄居的器官和场所不再仅仅是“身体部位”，而成为使这种表象成为可能的支撑。
 
 内在的神灵实际上是无数的，不同的文本描述了不同的神祇（Pregadio 2005: 131–41），但这里只能提到最重要的一个。他被称为红孩子（Chizi），出现在《老子中经》（大约公元 200 年左右；Schipper 1993: 100–12；Schipper 1995；Lagerwey 2004a）中。这个文本的发言者是老子；事实上，红孩子就是老子自己，现在扮演着每个人的“真我”（真吾）的角色。他将自己定义为“道之子”，并补充说他寄居在胃中（人的另一个象征性中心），在那里他受到母亲的滋养和父亲的保护。然而，像其他内在的神灵一样，这个孩子也应该由他所寄居的人滋养：特别是，通过冥想修行的修行者应该向他提供“黄精”（黄精）和“红气”（赤气），分别与月亮（阴）和太阳（阳）相关联。
 
@@ -371,7 +371,7 @@
 
 在发展自公元 3 世纪的太清外丹传统中，炼丹实践被构建为一个复杂的仪式序列（Pregadio 2006）。最初的阶段是传承仪式，随后是退隐和净化的时期。然后，通过符咒（符）保护仪式空间后，炼丹师建造实验室，或称为“丹室”。根据传统的黄历，炼丹师在适当的时间进行点火仪式，其中包括向老君（道教神灵）和其他神灵寻求帮助，并且只有在这之后才投入到混合过程中。整个过程以祝圣和服用丹药结束。正是这整个序列，而不仅仅是在炉中的工作，构成了炼丹实践。
 
-从仪式和技术的角度来看，主要工具是坩埚。为了再现宇宙在其起源时的状态（混沌；参见§4.3），容器应该密封，以便生命的“气息”（气）不被散失。在这些条件下，丹药成分会“还原”（还）到它们的原始状态。这种精制物质被等同于隐藏在道中并孕育世界的精华（精）（“模糊而不明！其中有一物。昏暗而不清！其中有一精”；《道德经》，第 21 节）。因此，丹药是生成宇宙的种子的有形标志。
+从仪式和技术的角度来看，主要工具是坩埚。为了再现宇宙在其起源时的状态（混沌；参见 §4.3），容器应该密封，以便生命的“气息”（气）不被散失。在这些条件下，丹药成分会“还原”（还）到它们的原始状态。这种精制物质被等同于隐藏在道中并孕育世界的精华（精）（“模糊而不明！其中有一物。昏暗而不清！其中有一精”；《道德经》，第 21 节）。因此，丹药是生成宇宙的种子的有形标志。
 
 据说服用丹药首先能够赋予超脱、长生和进入天官的资格。人们还能够召唤仁慈的神灵，并获得来自恶魔、灵魂和其他干扰的保护，包括武器、野生动物，甚至是盗贼。值得注意的是，为了提供这些好处，丹药并不需要被服用：它可以简单地被握在手中或佩戴在腰带上，作为一种强大的辟邪符咒。
 
@@ -387,7 +387,7 @@
 
 虽然《参同契》永远改变了道教炼丹的历史，但并不是所有唐代（7-9 世纪）的外丹著作都受其教义的启发（Sivin 1968; Needham 1976: 132–74）。然而，在这一时期，外丹方法越来越倾向于反映宇宙系统的特征（Sivin 1976 和 1980）。
 
-从仪式到宇宙观的转变也为内丹的发展铺平了道路。然而，内丹的根源是多样的，将其视为对外丹的“内在”转换是简化的：内丹的起源更多地归功于对内在神祇的冥想方法，而不是对外丹（Pregadio 2005）。总结一个复杂的现象，外丹的术语和意象与从《参同契》的宇宙系统中提取的概念和象征相结合，并与早期冥想实践中继承的元素相结合。这必然导致了内在神祇本身的消失：将它们纳入内丹将需要将内在神祇重新映射到不同的宇宙模型，这是不可能的。唯一但重要的例外是红孩儿，早期道教冥想的最内层神祇（见§9.1）。然而，当红孩儿在内丹中重新出现时，他不再是所有人都拥有的神祇：他现在是通过炼丹实践生成的“胎儿”的形象。
+从仪式到宇宙观的转变也为内丹的发展铺平了道路。然而，内丹的根源是多样的，将其视为对外丹的“内在”转换是简化的：内丹的起源更多地归功于对内在神祇的冥想方法，而不是对外丹（Pregadio 2005）。总结一个复杂的现象，外丹的术语和意象与从《参同契》的宇宙系统中提取的概念和象征相结合，并与早期冥想实践中继承的元素相结合。这必然导致了内在神祇本身的消失：将它们纳入内丹将需要将内在神祇重新映射到不同的宇宙模型，这是不可能的。唯一但重要的例外是红孩儿，早期道教冥想的最内层神祇（见 §9.1）。然而，当红孩儿在内丹中重新出现时，他不再是所有人都拥有的神祇：他现在是通过炼丹实践生成的“胎儿”的形象。
 
 尤其是在将佛教和新儒家定义（或重新定义）的元素整合到内丹中的形式中，内丹将其言论和实践集中在性和命两个对于其对人类的观点至关重要的概念上（Robinet 1995: 165–95; Pregadio 2014）。性指的是“内在本性”，与神（神）有关，属于一个人的“心”或“思想”（心）。内丹文本经常使用佛教术语和表达方式来论述性，例如“观察本性”（见性），甚至使用“佛性”一词（佛性）。命是一个更复杂的术语，与气息（气）有关，属于“身体”（神）。该术语首先意味着天赋的“命令”或“命令”，但其意义还包括“生命”，“存在”，“寿命”以及“命运”。虽然一个人的性是未生的，因此不受死亡的影响，但在命的领域中的一切都有一个开始和一个结束。
 
@@ -395,12 +395,12 @@
 
 在其最广泛的编码中，起源于南方世系的内丹修炼包括三个主要阶段（Despeux 1979: 55–82; Robinet 1995: 147–64; Wang Mu 2011）。其目的是通过逐渐将人体的三个主要组成部分——精、气和神——重新融合到前天界中，将修炼者从后天界引导到前天界，最终回归到无有之境（wu）或空无之境（xu, kong）。虽然这是炼丹术本身的功能，但某些作者指出，升入前天界的过程应该后续跟随一个新的下降或返回后天界的过程，以将它们彼此融合。
 
-上述修炼常被描述为“人之外有人”（或“自己之外有自己”，shen zhi wai shen），被定义为“真人”（zhenshen；参见§6.3）。在这种情况下，修炼的主要阶段被描绘为胎儿的受孕、孕育和出生，这个胎儿体现了修炼者的实现状态（Despeux 2016）。在另一种观点中，内丹被视为每个人都已经拥有并且与自己的内在实现状态相同。刘一明（1734–1821）通过说：“所有人都在自己身上拥有这个完整的金丹：它在每个人身上都完全实现。”内丹文献的其他作者在他们的作品中也陈述道：“金丹就在你眼前”。
+上述修炼常被描述为“人之外有人”（或“自己之外有自己”，shen zhi wai shen），被定义为“真人”（zhenshen；参见 §6.3）。在这种情况下，修炼的主要阶段被描绘为胎儿的受孕、孕育和出生，这个胎儿体现了修炼者的实现状态（Despeux 2016）。在另一种观点中，内丹被视为每个人都已经拥有并且与自己的内在实现状态相同。刘一明（1734–1821）通过说：“所有人都在自己身上拥有这个完整的金丹：它在每个人身上都完全实现。”内丹文献的其他作者在他们的作品中也陈述道：“金丹就在你眼前”。
 
 ## Bibliography
 
 * Andersen, Poul, 1979, *The Method of Holding the Three Ones: A Taoist Manual of Meditation of the Fourth Century A.D.*, London and Malmö: Curzon Press.
-* –––, 1989–90, “The Practice of *Bugang*”, *Cahiers d’Extrême-Asie*, 5: 15–53. doi:10.3406/asie.1989.942
+* –––, 1989–90, “The Practice of *Bugang*”, *Cahiers d’Extrême-Asie*, 5: 15–53. doi: 10.3406/asie.1989.942
 * –––, 1994, “Talking to the Gods: Visionary Divination in Early Taoism (The Sanhuang Tradition)”, *Taoist Resources*, 5(1): 1–24.
 * –––, 2008, “*Jiao* \[Offering]”, in Pregadio 2008: vol. 1, 539–44.
 * Andreeva, Anna and Dominic Steavu (eds), 2016, *Transforming the Void: Embryological Discourse and Reproductive Imagery in East Asian Religions*, Leiden and Boston: E.J. Brill.
@@ -420,7 +420,7 @@
 * –––, 1987, *A Survey of Taoist Literature: Tenth to Seventeenth Centuries*, Berkeley: Institute of East Asian Studies, University of California. Repr. 1995, with corrigenda.
 * Campany, Robert F., 2002, *To Live as Long as Heaven and Earth: A Translation and Study of Ge Hong’s, “Traditions of Divine Transcendents”*, Berkeley: University of California Press.
 * Cedzich, Ursula-Angelika, 2001, “Corpse Deliverance, Substitute Bodies, Name Change, and Feigned Death: Aspects of Metamorphosis and Immortality in Early Medieval China”, *Journal of Chinese Religions*, 29: 1–68.
-* Chan, Alan K.L., 2000, “The *Daode jing* and Its Tradition”, in Kohn 2000: 1–29; revised and updated version in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), URL= [https://plato.stanford.edu/archives/spr2014/entries/laozi/](https://plato.stanford.edu/archives/spr2014/entries/laozi/).
+* Chan, Alan K.L., 2000, “The *Daode jing* and Its Tradition”, in Kohn 2000: 1–29; revised and updated version in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), URL = [https://plato.stanford.edu/archives/spr2014/entries/laozi/](https://plato.stanford.edu/archives/spr2014/entries/laozi/).
 * Che, Philippe, 1999, *La Voie des Divins Immortels: Les chapitres discursifs du Baopu zi neipian*, Paris: Gallimard.
 * Csikszentmihalyi, Mark, 2000, “Han Cosmology and Mantic Practices”, in Kohn 2000: 53–73.
 * ––– (ed.), 2006, *Readings in Han Chinese Thought*, Indianapolis, IN, and Cambridge, MA: Hackett, 105–112.
@@ -451,108 +451,108 @@
 * Henricks, Robert G., 1989, *Lao-Tzu: Te-Tao Ching. A New Translation Based on the Recently Discovered Ma-wang-tui Texts*, New York: Ballantine Books.
 * –––, 2000, *Lao Tzu’s Tao Te ching: A Translation of the Startling New Documents Found at Guodian*, New York: Columbia University Press.
 * Huang, Shih-shan Susan, 2012, _Picturing the True Form: Daoist Visual Culture in Traditional Chin_a. Cambridge, MA: Harvard University Press.
-* Kalinowski, Marc, 1991, *Cosmologie et divination dans la Chine ancienne: Le Compendium des Cinq Agents (Wuxing dayi, VIe siècle)*, Paris: École Française d’Extrême-Orient.
-* –––, 2004, “Technical Traditions in Ancient China and *Shushu* Culture in Chinese Religion”, in Lagerway 2004b: vol. 1, 223–48.
-* Kaltenmark, Max, 1953, *Le* Lie-sien tchouan *(Biographies légendaires des Immortels taoïstes de l’antiquité)*, Pékin: Université de Paris, Publications du Centre d’Études Sinologiques de Pékin.
-* Kirkland, Russell, 2004, *Taoism: The Enduring Tradition*, New York and London: Routledge.
-* Kleeman, Terry, 1994, “Licentious Cults and Bloody Victuals: Sacrifice, Reciprocity and Violence in Traditional China”, *Asia Major*, third series, 7: 185–211.
-* –––, 2010, “Community and Daily Life in the Early Daoist Church”, in John Lagerwey and Lü Pengzhi (eds), *Early Chinese Religion*, part 2: *The Period of Division (220–589 AD)*, Leiden and Boston: E.J. Brill, 1: 395–436.
-* –––, 2014, “The Performance and Significance of the Merging the Pneumas (*Heqi*) Rite in Early Daoism”, *Daoism: Religion, History and Society*, 6: 85–112.
-* –––, 2016, *Celestial Masters: History and Ritual in Early Daoist Communities*, Cambridge, MA: Harvard University Asia Center.
-* Knoblock, John, and Jeffrey Riegel, 2001, *The Annals of Lü Buwei*, Stanford, CA: Stanford University Press.
-* Kohn, Livia, 1991, “Taoist Visions of the Body”, *Journal of Chinese Philosophy*, 18: 227–52.
-* –––, 1992, *Early Chinese Mysticism: Philosophy and Soteriology in the Taoist Tradition*, Princeton: Princeton University Press.
-* –––, 1993, *The Taoist Experience: An Anthology*, Albany: State University of New York Press.
-* –––, 1998, *God of the Dao: Lord Lao in History and Myth*, Ann Arbor: Center for Chinese Studies, University of Michigan.
-* ––– (ed.), 2000, *Daoism Handbook*, Leiden: E.J. Brill.
-* –––, 2008, *Chinese Healing Exercises: The Tradition of Daoyin*, Honolulu: University of Hawai’i Press.
-* –––, 2010, *Sitting in Oblivion: The Heart of Daoist Meditation*, Dunedin, FL: Three Pines Press.
-* –––, 2012, *A Sourcebook in Chinese Longevity*, St. Petersburg, FL: Three Pines Press.
+* Kalinowski, Marc, 1991, * Cosmologie et divination dans la Chine ancienne: Le Compendium des Cinq Agents (Wuxing dayi, VIe siècle)*, Paris: École Française d’Extrême-Orient.
+* –––, 2004, “Technical Traditions in Ancient China and * Shushu* Culture in Chinese Religion”, in Lagerway 2004b: vol. 1, 223–48.
+* Kaltenmark, Max, 1953, * Le * Lie-sien tchouan *(Biographies légendaires des Immortels taoïstes de l’antiquité)*, Pékin: Université de Paris, Publications du Centre d’Études Sinologiques de Pékin.
+* Kirkland, Russell, 2004, * Taoism: The Enduring Tradition*, New York and London: Routledge.
+* Kleeman, Terry, 1994, “Licentious Cults and Bloody Victuals: Sacrifice, Reciprocity and Violence in Traditional China”, * Asia Major*, third series, 7: 185–211.
+* –––, 2010, “Community and Daily Life in the Early Daoist Church”, in John Lagerwey and Lü Pengzhi (eds), * Early Chinese Religion *, part 2: * The Period of Division (220–589 AD)*, Leiden and Boston: E.J. Brill, 1: 395–436.
+* –––, 2014, “The Performance and Significance of the Merging the Pneumas (* Heqi *) Rite in Early Daoism”, * Daoism: Religion, History and Society*, 6: 85–112.
+* –––, 2016, * Celestial Masters: History and Ritual in Early Daoist Communities*, Cambridge, MA: Harvard University Asia Center.
+* Knoblock, John, and Jeffrey Riegel, 2001, * The Annals of Lü Buwei*, Stanford, CA: Stanford University Press.
+* Kohn, Livia, 1991, “Taoist Visions of the Body”, * Journal of Chinese Philosophy*, 18: 227–52.
+* –––, 1992, * Early Chinese Mysticism: Philosophy and Soteriology in the Taoist Tradition*, Princeton: Princeton University Press.
+* –––, 1993, * The Taoist Experience: An Anthology*, Albany: State University of New York Press.
+* –––, 1998, * God of the Dao: Lord Lao in History and Myth*, Ann Arbor: Center for Chinese Studies, University of Michigan.
+* ––– (ed.), 2000, * Daoism Handbook*, Leiden: E.J. Brill.
+* –––, 2008, * Chinese Healing Exercises: The Tradition of Daoyin*, Honolulu: University of Hawai’i Press.
+* –––, 2010, * Sitting in Oblivion: The Heart of Daoist Meditation*, Dunedin, FL: Three Pines Press.
+* –––, 2012, * A Sourcebook in Chinese Longevity*, St. Petersburg, FL: Three Pines Press.
 * Kohn, Livia and Russell Kirkland, 2000, “Daoism in the Tang (618–907)”, in Kohn 2000: 339–83.
-* Kroll, Paul, 1996, “On ‘Far Roaming’”, *Journal of the American Oriental Society*, 116: 653–69.
-* Lagerwey, John, 1981, *Wu-shang pi-yao: Somme taoïste du VIe siècle*, Paris: École Française d’Extrême-Orient.
-* –––, 1986, “Écriture et corps divin”, in Charles Malamoud and Jean-Pierre Vernant (eds), *Corps des dieux*, Paris: Gallimard, (Le temps de la réflexion, 7), 275–86.
-* –––, 1987, *Taoist Ritual in Chinese Society and History*, New York and London: Macmillan.
-* –––, 2004a, “Deux écrits taoïstes anciens”, *Cahiers d’Extrême-Asie*, 14: 139–171.
-* ––– (ed.), 2004b, *Religion and Chinese Society*, 2 volumes, Hong Kong: Chinese University Press and Paris: École Française d’Extrême-Orient.
-* –––, 2010, *China: A Religious State*, Hong Kong: Kong Kong University Press.
-* Le Blanc, Charles and Rémi Mathieu (eds), 2003, *Philosophes taoïstes*: II, *Huainan zi*, Paris: Gallimard.
-* Little, Stephen, 2000, *Taoism and the Arts of China*, Chicago: The Art Institute of Chicago.
-* Mair, Victor H., 2000, “The *Zhuangzi* and Its Impact”, in Kohn 2000: 30–52.
-* Major, John S., Sarah A. Queen, Andrew Seth Meyers, and Harold D. Roth (trans. and eds), 2010, *The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*, New York: Columbia University Press.
-* Marsone, Pierre, 2010, *Wang Chongyang (1113–1170) et la foundation du Quanzhen: Ascètes taoïstes et alchimie intérieure*, Paris: Collège de France, Institut des Hautes Études Chinoises.
-* Maspero, Henri, 1981, *Taoism and Chinese Religion*, Amherst: The University of Massachusetts Press. Originally published as *Le Taoïsme et les religions chinoises*, Paris: Gallimard, 1971.
-* Mollier, Christine, 2003, “Talismans”, in Marc Kalinowski (ed.), *Divination et société dans la Chine médiévale: Étude des manuscrits de Dunhuang de la Bibliothèque nationale de France et de la British Library*, Paris: Bibliothèque nationale de France, 405–29.
+* Kroll, Paul, 1996, “On ‘Far Roaming’”, * Journal of the American Oriental Society*, 116: 653–69.
+* Lagerwey, John, 1981, * Wu-shang pi-yao: Somme taoïste du VIe siècle*, Paris: École Française d’Extrême-Orient.
+* –––, 1986, “Écriture et corps divin”, in Charles Malamoud and Jean-Pierre Vernant (eds), * Corps des dieux*, Paris: Gallimard, (Le temps de la réflexion, 7), 275–86.
+* –––, 1987, * Taoist Ritual in Chinese Society and History*, New York and London: Macmillan.
+* –––, 2004a, “Deux écrits taoïstes anciens”, * Cahiers d’Extrême-Asie*, 14: 139–171.
+* ––– (ed.), 2004b, * Religion and Chinese Society*, 2 volumes, Hong Kong: Chinese University Press and Paris: École Française d’Extrême-Orient.
+* –––, 2010, * China: A Religious State*, Hong Kong: Kong Kong University Press.
+* Le Blanc, Charles and Rémi Mathieu (eds), 2003, * Philosophes taoïstes *: II, * Huainan zi*, Paris: Gallimard.
+* Little, Stephen, 2000, * Taoism and the Arts of China*, Chicago: The Art Institute of Chicago.
+* Mair, Victor H., 2000, “The * Zhuangzi* and Its Impact”, in Kohn 2000: 30–52.
+* Major, John S., Sarah A. Queen, Andrew Seth Meyers, and Harold D. Roth (trans. and eds), 2010, * The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*, New York: Columbia University Press.
+* Marsone, Pierre, 2010, * Wang Chongyang (1113–1170) et la foundation du Quanzhen: Ascètes taoïstes et alchimie intérieure*, Paris: Collège de France, Institut des Hautes Études Chinoises.
+* Maspero, Henri, 1981, * Taoism and Chinese Religion *, Amherst: The University of Massachusetts Press. Originally published as * Le Taoïsme et les religions chinoises*, Paris: Gallimard, 1971.
+* Mollier, Christine, 2003, “Talismans”, in Marc Kalinowski (ed.), * Divination et société dans la Chine médiévale: Étude des manuscrits de Dunhuang de la Bibliothèque nationale de France et de la British Library*, Paris: Bibliothèque nationale de France, 405–29.
 * –––, 2005, “Visions of Evil: Demonology and Orthodoxy in Early Daoism”, in Penny 2005: 74–100.
-* –––, 2008a, *Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China*, Honolulu: University of Hawai’i Press.
+* –––, 2008a, * Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China*, Honolulu: University of Hawai’i Press.
 * –––, 2008b, “Messianism and Millenarianism”, in Pregadio 2008: vol. 1, 94–96.
 * –––, 2016, “Conceiving the Embryo of Immortality: ‘Seed-People’ and Sexual Rites in Early Taoism”, in Andreeva and Steavu 2016: 87–110.
-* Needham, Joseph, 1976, *Science and Civilisation in China*, Vol. V: *Chemistry and Chemical Technology*, part 3: *Spagyrical Discovery and Invention: Historical Survey, from Cinnabar Elixirs to Synthetic Insulin*, With the collaboration of Ho Ping-Yü and Lu Gwei-Djen. Cambridge: Cambridge University Press.
+* Needham, Joseph, 1976, * Science and Civilisation in China *, Vol. V: * Chemistry and Chemical Technology *, part 3: * Spagyrical Discovery and Invention: Historical Survey, from Cinnabar Elixirs to Synthetic Insulin*, With the collaboration of Ho Ping-Yü and Lu Gwei-Djen. Cambridge: Cambridge University Press.
 * Nickerson, Peter, 2008, “Taoism and Popular Religion”, in Pregadio 2008: vol. 1, 145–50.
-* Penny, Benjamin, 1996, “The Text and Authorship of *Shenxian zhuan*”, *Journal of Oriental Studies*, 34: 165–209.
+* Penny, Benjamin, 1996, “The Text and Authorship of * Shenxian zhuan *”, * Journal of Oriental Studies*, 34: 165–209.
 * –––, 2000, “Immortality and Transcendence”, in Kohn 2000: 109–33.
-* ––– (ed.), 2005, *Daoism in History: Essays in Honour of Liu Ts’un-yan*, London: Routledge.
-* Pregadio, Fabrizio, 2004, “The Notion of ‘Form’ and the Ways of Liberation in Daoism”, *Cahiers d’Extrême-Asie*, 14: 95–130.
+* ––– (ed.), 2005, * Daoism in History: Essays in Honour of Liu Ts’un-yan*, London: Routledge.
+* Pregadio, Fabrizio, 2004, “The Notion of ‘Form’ and the Ways of Liberation in Daoism”, * Cahiers d’Extrême-Asie*, 14: 95–130.
 * –––, 2005, “Early Daoist Meditation and the Origins of Inner Alchemy”, in Penny 2005: 121–58.
-* –––, 2006, *Great Clarity: Daoism and Alchemy in Early Medieval China*, Stanford, CA: Stanford University Press.
-* ––– (ed.), 2008, *The Routledge Encyclopedia of Taoism*, 2 volumes, London: Routledge.
-* –––, 2011, *The Seal of the Unity of the Three: A Study and Translation of the* Cantong qi\*, the Source of the Taoist Way of the Golden Elixir\*, Mountain View: Golden Elixir Press.
-* –––, 2014, “Destiny, Vital Force, or Existence? On the Meanings of *Ming* in Daoist Internal Alchemy and Its Relation to *Xing* or Human Nature”, *Daoism: Religion, History and Society*, 6: 157–218.
-* Puett, Michael, 2002, *To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China*, Cambridge, MA: Harvard-Yenching Institute.
-* Queen, Sarah A., 1996, *From Chronicle to Canon: The Hermeneutics of the Spring and Autumn Annals according to Tung Chung-shu*, Cambridge: Cambridge University Press.
-* Raz, Gil, 2012, *The Emergence of Daoism: Creation of Tradition*, London: Routledge.
-* –––, 2013, “Imbibing the Universe: Methods of Ingesting the Five Sprouts”, *Asian Medicine: Tradition and Modernity*, 7: 65–100.
-* Robinet, Isabelle, 1979, “Metamorphosis and Deliverance from the Corpse in Taoism”, *History of Religions*, 19: 37–70.
-* –––, 1983, “Chuang Tzu et le taoïsme ‘religieux’”, *Journal of Chinese Religions*, 11: 59–105.
-* –––, 1984, *La révélation du Shangqing dans l’histoire du taoïsme*, 2 vols. Paris: École Française d’Extrême-Orient.
-* –––, 1993, *Taoist Meditation: The Mao-shan Tradition of Great Purity*, Albany: State University of New York Press. Originally published as *Méditation taoïste*, Paris: Dervy Livres, 1979.
-* –––, 1995, *Introduction à l’alchimie intérieure taoïste: De l’unité et de la multiplicité. Avec une traduction commentée des Versets de l’éveil à la Vérité*, Paris: Les Éditions du Cerf.
-* –––, 1997a, “Genèses: Au début, il n’y a pas d’avant”, in Jacques Gernet and Marc Kalinowski (eds), *En suivant la Voie Royale: Mélanges en hommage à Léon Vandermeersch*, Paris: École Française d’Extrême-Orient, 121–40.
-* –––, 1997b, *Taoism: Growth of a Religion*, Stanford: Stanford University Press. Originally published as *Histoire du Taoïsme des origines au XIVe siècle*, Paris: Les Éditions du Cerf, 1991.
-* –––, 1999, “The Diverse Interpretations of the *Laozi*”, in Mark Csikszentmihalyi and Philip J. Ivanhoe (eds), *Religious and Philosophical Aspects of the Laozi*, Albany: State University of New York Press, 127–59.
+* –––, 2006, * Great Clarity: Daoism and Alchemy in Early Medieval China*, Stanford, CA: Stanford University Press.
+* ––– (ed.), 2008, * The Routledge Encyclopedia of Taoism*, 2 volumes, London: Routledge.
+* –––, 2011, * The Seal of the Unity of the Three: A Study and Translation of the * Cantong qi\*, the Source of the Taoist Way of the Golden Elixir\*, Mountain View: Golden Elixir Press.
+* –––, 2014, “Destiny, Vital Force, or Existence? On the Meanings of * Ming * in Daoist Internal Alchemy and Its Relation to * Xing * or Human Nature”, * Daoism: Religion, History and Society*, 6: 157–218.
+* Puett, Michael, 2002, * To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China*, Cambridge, MA: Harvard-Yenching Institute.
+* Queen, Sarah A., 1996, * From Chronicle to Canon: The Hermeneutics of the Spring and Autumn Annals according to Tung Chung-shu*, Cambridge: Cambridge University Press.
+* Raz, Gil, 2012, * The Emergence of Daoism: Creation of Tradition*, London: Routledge.
+* –––, 2013, “Imbibing the Universe: Methods of Ingesting the Five Sprouts”, * Asian Medicine: Tradition and Modernity*, 7: 65–100.
+* Robinet, Isabelle, 1979, “Metamorphosis and Deliverance from the Corpse in Taoism”, * History of Religions*, 19: 37–70.
+* –––, 1983, “Chuang Tzu et le taoïsme ‘religieux’”, * Journal of Chinese Religions*, 11: 59–105.
+* –––, 1984, * La révélation du Shangqing dans l’histoire du taoïsme*, 2 vols. Paris: École Française d’Extrême-Orient.
+* –––, 1993, * Taoist Meditation: The Mao-shan Tradition of Great Purity *, Albany: State University of New York Press. Originally published as * Méditation taoïste*, Paris: Dervy Livres, 1979.
+* –––, 1995, * Introduction à l’alchimie intérieure taoïste: De l’unité et de la multiplicité. Avec une traduction commentée des Versets de l’éveil à la Vérité*, Paris: Les Éditions du Cerf.
+* –––, 1997a, “Genèses: Au début, il n’y a pas d’avant”, in Jacques Gernet and Marc Kalinowski (eds), * En suivant la Voie Royale: Mélanges en hommage à Léon Vandermeersch*, Paris: École Française d’Extrême-Orient, 121–40.
+* –––, 1997b, * Taoism: Growth of a Religion *, Stanford: Stanford University Press. Originally published as * Histoire du Taoïsme des origines au XIVe siècle*, Paris: Les Éditions du Cerf, 1991.
+* –––, 1999, “The Diverse Interpretations of the * Laozi *”, in Mark Csikszentmihalyi and Philip J. Ivanhoe (eds), * Religious and Philosophical Aspects of the Laozi*, Albany: State University of New York Press, 127–59.
 * –––, 2000, “Shangqing: Highest Clarity”, in Kohn 2000: 196–224.
-* –––, 2002, “Genesis and Pre-Cosmic Eras in Daoism”, in Lee Cheuk Yin and Chan Man Sing (eds), *Daoyuan binfen lu*—*A Daoist Florilegium: A Festschrift Dedicated to Professor Liu Ts’un-yan on His Eighty-Fifth Birthday*, Hong Kong: Shangwu yinshuguan, 144–84.
+* –––, 2002, “Genesis and Pre-Cosmic Eras in Daoism”, in Lee Cheuk Yin and Chan Man Sing (eds), * Daoyuan binfen lu *—* A Daoist Florilegium: A Festschrift Dedicated to Professor Liu Ts’un-yan on His Eighty-Fifth Birthday*, Hong Kong: Shangwu yinshuguan, 144–84.
 * –––, 2004, “De quelques effects du bouddhisme sur la problématique taoïste: Aspects de la confrontation du taoïsme au bouddhisme”, in Lagerwey 2004: vol. 1, 411–516.
-* Roth, Harold D, 1997, “Evidence for Stages of Meditation in Early Taoism”, *Bulletin of the School of Oriental and African Studies*, 60: 295–314.
-* –––, 1999, *Original Tao: Inward Training (Nei-Yeh) and the Foundations of Taoist Mysticism*, Columbia University Press.
-* –––, 2014, “Zhuangzi”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), URL = [https://plato.stanford.edu/archives/win2014/entries/zhuangzi/](https://plato.stanford.edu/archives/win2014/entries/zhuangzi/).
-* Roth, Harold and Sarah Queen, 2000, “A Syncretist Perspective on the Six Schools”, in William T. DeBary (ed.), *Sources of Chinese Tradition*, second edition, New York: Columbia University Press, 1: 278–82.
-* Schipper, Kristofer, 1974, “The Written Memorial in Taoist Ceremonies”, in Arthur P. Wolf (ed.), *Religion and Ritual in Chinese Society*, Stanford, CA: Stanford University Press, 309–24.
-* –––, 1993, *The Taoist Body*, Berkeley: University of California Press. Originally published as *Le corps taoïste: Corps physique, corps social*, Paris: Librairie Arthème Fayard, 1979.
-* –––, 1995, “The Inner World of the *Laozi zhongjing*”, in Huang Chun-chieh and Erik Zürcher (eds), *Time and Space in Chinese Culture*, 114–31.
+* Roth, Harold D, 1997, “Evidence for Stages of Meditation in Early Taoism”, * Bulletin of the School of Oriental and African Studies*, 60: 295–314.
+* –––, 1999, * Original Tao: Inward Training (Nei-Yeh) and the Foundations of Taoist Mysticism*, Columbia University Press.
+* –––, 2014, “Zhuangzi”, in Edward N. Zalta (ed.), * The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), URL = [https://plato.stanford.edu/archives/win2014/entries/zhuangzi/](https://plato.stanford.edu/archives/win2014/entries/zhuangzi/).
+* Roth, Harold and Sarah Queen, 2000, “A Syncretist Perspective on the Six Schools”, in William T. DeBary (ed.), * Sources of Chinese Tradition*, second edition, New York: Columbia University Press, 1: 278–82.
+* Schipper, Kristofer, 1974, “The Written Memorial in Taoist Ceremonies”, in Arthur P. Wolf (ed.), * Religion and Ritual in Chinese Society*, Stanford, CA: Stanford University Press, 309–24.
+* –––, 1993, * The Taoist Body *, Berkeley: University of California Press. Originally published as * Le corps taoïste: Corps physique, corps social*, Paris: Librairie Arthème Fayard, 1979.
+* –––, 1995, “The Inner World of the * Laozi zhongjing *”, in Huang Chun-chieh and Erik Zürcher (eds), * Time and Space in Chinese Culture*, 114–31.
 * –––, 2000, “The Story of the Way”, in Little 2000: 33–55.
-* –––, 2001, “Daoist Ecology: The Inner Transformation. A Study of the Precepts of the Early Daoist Ecclesia”, in Norman Girardot, James Miller, and Xiaogan Liu (eds), *Daoism and Ecology: Ways within a Cosmic Landscape*, Cambridge, MA: Harvard University Press, 79–93.
-* –––, 2008, “Le pact de pureté du taoïsme”, in *La religion de la Chine: La tradition vivante*, 127–60. Paris: Librairie Anthème Fayard.
-* Schipper, Kristofer and Franciscus Verellen (eds), 2004, *The Taoist Canon: A Historical Companion to the Daozang*, Chicago: Chicago University Press.
-* Schwartz, Benjamin, 1985, *The World of Thought in Ancient China*, Cambridge, MA: Harvard University Press.
-* Seidel, Anna. 1969–70. “The Image of the Perfect Ruler in Early Taoist Messianism: Lao-tzu and Li Hung”, *History of Religions*, 9: 216–47.
-* –––, 1969, *La divinisation de Lao tseu dans le Taoïsme des Han*, Paris: École Française d’Extrême-Orient.
+* –––, 2001, “Daoist Ecology: The Inner Transformation. A Study of the Precepts of the Early Daoist Ecclesia”, in Norman Girardot, James Miller, and Xiaogan Liu (eds), * Daoism and Ecology: Ways within a Cosmic Landscape*, Cambridge, MA: Harvard University Press, 79–93.
+* –––, 2008, “Le pact de pureté du taoïsme”, in * La religion de la Chine: La tradition vivante*, 127–60. Paris: Librairie Anthème Fayard.
+* Schipper, Kristofer and Franciscus Verellen (eds), 2004, * The Taoist Canon: A Historical Companion to the Daozang*, Chicago: Chicago University Press.
+* Schwartz, Benjamin, 1985, * The World of Thought in Ancient China*, Cambridge, MA: Harvard University Press.
+* Seidel, Anna. 1969–70. “The Image of the Perfect Ruler in Early Taoist Messianism: Lao-tzu and Li Hung”, * History of Religions*, 9: 216–47.
+* –––, 1969, * La divinisation de Lao tseu dans le Taoïsme des Han*, Paris: École Française d’Extrême-Orient.
 * –––, 1983a, “Imperial Treasures and Taoist Sacraments: Taoist Roots in the Apocrypha”, in Strickmann 1983: 2: 291–371.
-* –––, 1983b, “Taoist Messianism”, *Numen*, 31: 161–74.
-* –––, 1987, “Post-mortem Immortality, or: The Taoist Resurrection of the Body”, in S. Shaked, D. Shulman, and G. G. Stroumsa (eds), *Gilgul: Essays on Transformation, Revolution and Permanence in the History of Religions*, 223–37.
-* –––, 1997, “Taoism: The Unofficial High Religion of China”, *Taoist Resources*, 7(2): 39–72.
-* Sivin, Nathan, 1968, *Chinese Alchemy: Preliminary Studies*, Cambridge, MA: Harvard University Press.
-* –––, 1976, “Chinese Alchemy and the Manipulation of Time”, *Isis*, 67: 513–27.
-* –––, 1980, “The Theoretical Background of Elixir Alchemy”, in Joseph Needham, *Science and Civilisation in China*, vol. V: *Chemistry and Chemical Technology*, part 4: *Spagyrical Discovery and Invention: Apparatus, Theories and Gifts*, Cambridge: Cambridge University Press, 210–305.
-* –––, 1995, “State, Cosmos, and Body in the Last Three Centuries B.C”, *Harvard Journal of Asiatic Studies*, 55: 5–37.
+* –––, 1983b, “Taoist Messianism”, * Numen*, 31: 161–74.
+* –––, 1987, “Post-mortem Immortality, or: The Taoist Resurrection of the Body”, in S. Shaked, D. Shulman, and G. G. Stroumsa (eds), * Gilgul: Essays on Transformation, Revolution and Permanence in the History of Religions*, 223–37.
+* –––, 1997, “Taoism: The Unofficial High Religion of China”, * Taoist Resources*, 7(2): 39–72.
+* Sivin, Nathan, 1968, * Chinese Alchemy: Preliminary Studies*, Cambridge, MA: Harvard University Press.
+* –––, 1976, “Chinese Alchemy and the Manipulation of Time”, * Isis*, 67: 513–27.
+* –––, 1980, “The Theoretical Background of Elixir Alchemy”, in Joseph Needham, * Science and Civilisation in China *, vol. V: * Chemistry and Chemical Technology *, part 4: * Spagyrical Discovery and Invention: Apparatus, Theories and Gifts*, Cambridge: Cambridge University Press, 210–305.
+* –––, 1995, “State, Cosmos, and Body in the Last Three Centuries B.C”, * Harvard Journal of Asiatic Studies*, 55: 5–37.
 * Skar, Lowell, 2000, “Ritual Movements, Deity Cults, and the Transformation of Daoism in Song and Yuan Times”, in Kohn 2000: 413–63.
 * Steavu, Dominic, 2015, “Cosmos, Body, and Meditation in Early Medieval Taoism”, in Andreeva and Steavu 2016: 111–46.
-* –––, 2019, *The Writ of the Three Sovereigns: From Local Lore to Institutional Daoism*, Hong Kong: The Chinese University Press, and Honolulu: University of Hawai’i Press.
+* –––, 2019, * The Writ of the Three Sovereigns: From Local Lore to Institutional Daoism*, Hong Kong: The Chinese University Press, and Honolulu: University of Hawai’i Press.
 * Stein, Rolf A., 1979, “Religious Taoism and Popular Religion from the Second to Seventh Centuries”, in Welch and Seidel 1979: 53–81.
-* Strickmann, Michel, 1977, “The Mao shan Revelations: Taoism and the Aristocracy”, *T’oung Pao*, 63: 1–64.
+* Strickmann, Michel, 1977, “The Mao shan Revelations: Taoism and the Aristocracy”, * T’oung Pao*, 63: 1–64.
 * –––, 1979, “On the Alchemy of T’ao Hung-ching”, in Welch and Seidel 1979: 123–92.
-* Strickmann, Michel (ed.), 1983, *Tantric and Taoist Studies in Honour of Rolf A. Stein*, Bruxelles: Institut Belge des Hautes Études Chinoises.
-* Unschuld, Paul U. and Hermann Tessenow, 2011, *Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions*, Berkeley and Los Angeles: University of California Press.
-* Verellen, Franciscus, 1989, *Du Guangting (850–933): Taoïste de cour à la fin de la Chine médiévale*, Paris: Collège de France, Institut des Hautes Études Chinoises.
-* Wang Mu, 2011, *Foundations of Internal Alchemy: The Taoist Practice of Neidan*, Translated by Fabrizio Pregadio, Mountain View, CA: Golden Elixir Press.
-* Ware, James, 1966, *Alchemy, Medicine and Religion in the China of A.D. 320: The Nei P’ien of Ko Hung (Pao-p’u tzu)*, Cambridge, MA: MIT Press.
-* Watson, Burton, 1968, *The Complete Works of Chuang-tzu*, New York: Columbia University Press.
-* Welch, Holmes and Anna Seidel (eds), 1979, *Facets of Taoism: Essays in Chinese Religion*, New Haven and London: Yale University Press.
+* Strickmann, Michel (ed.), 1983, * Tantric and Taoist Studies in Honour of Rolf A. Stein*, Bruxelles: Institut Belge des Hautes Études Chinoises.
+* Unschuld, Paul U. and Hermann Tessenow, 2011, * Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions*, Berkeley and Los Angeles: University of California Press.
+* Verellen, Franciscus, 1989, * Du Guangting (850–933): Taoïste de cour à la fin de la Chine médiévale*, Paris: Collège de France, Institut des Hautes Études Chinoises.
+* Wang Mu, 2011, * Foundations of Internal Alchemy: The Taoist Practice of Neidan*, Translated by Fabrizio Pregadio, Mountain View, CA: Golden Elixir Press.
+* Ware, James, 1966, * Alchemy, Medicine and Religion in the China of A.D. 320: The Nei P’ien of Ko Hung (Pao-p’u tzu)*, Cambridge, MA: MIT Press.
+* Watson, Burton, 1968, * The Complete Works of Chuang-tzu*, New York: Columbia University Press.
+* Welch, Holmes and Anna Seidel (eds), 1979, * Facets of Taoism: Essays in Chinese Religion*, New Haven and London: Yale University Press.
 * Yamada Toshiaki, 2000, “The Lingbao School”, in Kohn 2000: 225–55.
 * Yao, Tad \[Yao Tao-chung], 2000, “Quanzhen: Complete Perfection”, in Kohn 2000: 265–93.
-* Yates, Robin D.S., 1997, *Five Lost Classics: Tao, Huanglao, and Yin-Yang in Han China*, New York: Ballantine Books.
-* Yokote Yutaka, 2015, “Daoist Internal Alchemy in the Song and Yuan Periods”, in John Lagerwey and Pierre Marsone (eds.), *Modern Chinese Religion*, part 1: *Song-Liao-Jin-Yuan*, Leiden: E.J. Brill, 2: 1055–1110.
-* Zürcher, Erik, 1980, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence”, *T’oung Pao*, 66: 84–147.
+* Yates, Robin D.S., 1997, * Five Lost Classics: Tao, Huanglao, and Yin-Yang in Han China*, New York: Ballantine Books.
+* Yokote Yutaka, 2015, “Daoist Internal Alchemy in the Song and Yuan Periods”, in John Lagerwey and Pierre Marsone (eds.), * Modern Chinese Religion *, part 1: * Song-Liao-Jin-Yuan*, Leiden: E.J. Brill, 2: 1055–1110.
+* Zürcher, Erik, 1980, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence”, * T’oung Pao*, 66: 84–147.
 
 ## Academic Tools
 

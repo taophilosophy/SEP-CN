@@ -20,7 +20,7 @@
 
 ## 信念分歧与行动分歧
 
-假设 Jop 和 Dop 是约会的大学生。 他们在两个问题上存在分歧：在经济课程或哲学课程中获得优秀成绩是否更困难，以及他们是否应该在今年夏天搬到一起。第一个分歧是关于一个主张的真实性：主张（或信念）“在经济课程中获得优秀成绩比在哲学课程中更困难”是否属实？第二个分歧是关于一项行动：我们是否应该搬到一起（行动=搬到一起）？将第一种分歧称为信念分歧；将第二种称为行动分歧。
+假设 Jop 和 Dop 是约会的大学生。 他们在两个问题上存在分歧：在经济课程或哲学课程中获得优秀成绩是否更困难，以及他们是否应该在今年夏天搬到一起。第一个分歧是关于一个主张的真实性：主张（或信念）“在经济课程中获得优秀成绩比在哲学课程中更困难”是否属实？第二个分歧是关于一项行动：我们是否应该搬到一起（行动 = 搬到一起）？将第一种分歧称为信念分歧；将第二种称为行动分歧。
 
 后者与前者大不相同。Laksha 是一位面临艰难决定的医生，她需要弄清楚，从综合考虑来看，是继续使用她一直开的药物还是停止药物并选择手术更好。她与一些同事密切商议。其中一些人认为手术是正确的选择，另一些人认为她应该继续用药物并观察情况，但没有人有坚定的意见：所有医生都认为这是一个很难决定的问题，从综合考虑来看。Laksha 意识到，就目前情况而言，这确实是一个胶着局面。
 
@@ -75,7 +75,7 @@
 
 ## 4. 与上级、下级、同行和陌生人的分歧
 
-一个孩子相信地狱是地球中心的一个真实地方。你不同意。这是一个你认为在问题 B 是否真实上，你与一个你认为在认知上不如你的人不同意的情况。你相信贝贝·鲁斯是有史以来最伟大的棒球运动员。然后你发现一位写过几本关于棒球历史的体育记者不同意，说某某是有史以来最伟大的。在这种情况下，你意识到你在这个问题上与一个认知上的上级不同意，因为你知道在棒球方面你只是一个业余爱好者。在第三种情况下，你与你的姐妹就你们小时候家人去度假时参观的城镇的名字不同意。你从长期经验中知道，在这类事情上你的记忆和她的一样可靠；这是与一个被认可的认知同行的分歧。
+一个孩子相信地狱是地球中心的一个真实地方。你不同意。这是一个你认为在问题 B 是否真实上，你与一个你认为在认知上不如你的人不同意的情况。你相信贝贝 · 鲁斯是有史以来最伟大的棒球运动员。然后你发现一位写过几本关于棒球历史的体育记者不同意，说某某是有史以来最伟大的。在这种情况下，你意识到你在这个问题上与一个认知上的上级不同意，因为你知道在棒球方面你只是一个业余爱好者。在第三种情况下，你与你的姐妹就你们小时候家人去度假时参观的城镇的名字不同意。你从长期经验中知道，在这类事情上你的记忆和她的一样可靠；这是与一个被认可的认知同行的分歧。
 
 有几种定义“优越”、“劣等”和“同等”的方式（Elga, 2007; 见下文第 5 节）。
 
@@ -170,7 +170,7 @@
 
 #### 否认失败
 
-击败已被坚定观点的捍卫者以多种方式拒绝。首先，通过诉诸私人证据来否认击败。彼得·范·因瓦根（Peter van Inwagen）在 1996 年通过坚持在同行分歧的情况下可以诉诸拥有无法沟通的洞察力或特殊证据来捍卫坚定观点。基本思想是，如果我可以接触到同行无法接触到的特殊证据，那么意识到同行与我意见不一致不一定会让我认为我犯了任何错误。毕竟，我的同行并没有我拥有的关于评估 P 的所有内容，因此认为如果同行意识到我所知道的一切，她也会在这个问题上与我意见一致是合理的。此外，一些证据无疑是私人的。虽然我可以告诉我的同行我的直觉或经历，但我无法把我的直觉或经历给他。鉴于我们的局限性，同行永远无法完全分享他们的证据。然而，如果证据没有完全共享，那么我的同行以某种方式评估他的证据并不一定表明我已经错误评估了我的证据。我们的证据是有重要区别的。尽管范因瓦根的主张可能意味着两个意见不一致的当事人实际上并不是同行，由于他们的证据差异，但这些考虑可以用来抵制至少在不要求证据平等的更宽松的同行概念上抵制击败。
+击败已被坚定观点的捍卫者以多种方式拒绝。首先，通过诉诸私人证据来否认击败。彼得 · 范 · 因瓦根（Peter van Inwagen）在 1996 年通过坚持在同行分歧的情况下可以诉诸拥有无法沟通的洞察力或特殊证据来捍卫坚定观点。基本思想是，如果我可以接触到同行无法接触到的特殊证据，那么意识到同行与我意见不一致不一定会让我认为我犯了任何错误。毕竟，我的同行并没有我拥有的关于评估 P 的所有内容，因此认为如果同行意识到我所知道的一切，她也会在这个问题上与我意见一致是合理的。此外，一些证据无疑是私人的。虽然我可以告诉我的同行我的直觉或经历，但我无法把我的直觉或经历给他。鉴于我们的局限性，同行永远无法完全分享他们的证据。然而，如果证据没有完全共享，那么我的同行以某种方式评估他的证据并不一定表明我已经错误评估了我的证据。我们的证据是有重要区别的。尽管范因瓦根的主张可能意味着两个意见不一致的当事人实际上并不是同行，由于他们的证据差异，但这些考虑可以用来抵制至少在不要求证据平等的更宽松的同行概念上抵制击败。
 
 胡默（Huemer）在 2011 年提出了一个相关的论点，他主张证据应以代理为中心。根据这一观点，一个经验若是你自己的，从证据上来看比别人的经验更重要。因此，在手头有这种证据概念的情况下，即使在双方分享所有证据的情况下，仍会存在重要的证据不对称性。
 
@@ -248,11 +248,11 @@ Right Reasons 观点仍然存在一个问题，即在同行分歧的典型案例
 
 ### 5.3 正当主义观点
 
-在对认识论分歧意义观点的光谱上，辩护主义观点位于等权观点和坚定观点之间的某处。在捍卫辩护主义观点时，詹妮弗·拉基（Jennifer Lackey）同意等权观点在餐厅账单案等案例中的裁决，但认为并非所有案例都应该以这种方式处理。沿着这些思路，她提出以下观点：
+在对认识论分歧意义观点的光谱上，辩护主义观点位于等权观点和坚定观点之间的某处。在捍卫辩护主义观点时，詹妮弗 · 拉基（Jennifer Lackey）同意等权观点在餐厅账单案等案例中的裁决，但认为并非所有案例都应该以这种方式处理。沿着这些思路，她提出以下观点：
 
-> 初等数学。哈里和我，过去六年来一直是同事，在星巴克喝咖啡，试图确定我们部门有多少人将参加即将到来的 APA。我边思考边说，“嗯，马克和玛丽周三去，山姆和斯泰西周四去，既然 2+2=4，那么我们部门会有另外四名成员参加那次会议。” 哈里回应道，“但 2+2 并不等于 4。”（Lackey 2010a, 283.） 初等数学。哈里和我，过去六年来一直是同事，在星巴克喝咖啡，试图确定我们部门有多少人将参加即将到来的 APA。我边思考边说，“嗯，马克和玛丽周三去，山姆和斯泰西周四去，既然 2+2=4，那么我们部门会有另外四名成员参加那次会议。” 哈里回应道，“但 2+2 并不等于 4。”（Lackey 2010a, 283.）
+> 初等数学。哈里和我，过去六年来一直是同事，在星巴克喝咖啡，试图确定我们部门有多少人将参加即将到来的 APA。我边思考边说，“嗯，马克和玛丽周三去，山姆和斯泰西周四去，既然 2+2 = 4，那么我们部门会有另外四名成员参加那次会议。” 哈里回应道，“但 2+2 并不等于 4。”（Lackey 2010a, 283.） 初等数学。哈里和我，过去六年来一直是同事，在星巴克喝咖啡，试图确定我们部门有多少人将参加即将到来的 APA。我边思考边说，“嗯，马克和玛丽周三去，山姆和斯泰西周四去，既然 2+2 = 4，那么我们部门会有另外四名成员参加那次会议。” 哈里回应道，“但 2+2 并不等于 4。”（Lackey 2010a, 283.）
 
-在《初等数学》中，Lackey 发现她认为 2+2=4 的信心减弱是不可信的，更不用说与她的对话者达成妥协并暂停对这个问题的判断了。换句话说，主张是“平等权重观”在我们可能称之为“极端分歧案例”的情况下做出了错误的裁决。是什么让我们有理由将《初等数学》与《餐厅账单案例》区别对待呢？根据 Lackey 的观点，如果在发现同行分歧之前，你对即将被争议的命题有高度的理由支持，那么在发现同行分歧后，几乎不需要进行调和。因此，由于 Lackey 在与同事交谈之前对 2+2=4 有高度的理由支持，因此不需要调和，但由于 Christensen 在发现分歧之前对股票价格为 43 美元没有高度的理由支持，因此需要进行大量的调和。根据“正当主义观”，一个人先前的正当程度决定了对同行分歧的理性回应。对于相信目标命题的强烈先前正当化很重要，因为当发现分歧时，你现在有理由相信你的对话者毕竟并不是你的同行。在《初等数学》中，Lackey 应该显著修正她对同事关于初等数学的认知立场的看法。相比之下，《餐厅账单案例》则不需要类似的降级。这种差异可以通过不同程度的先前正当化来解释。
+在《初等数学》中，Lackey 发现她认为 2+2 = 4 的信心减弱是不可信的，更不用说与她的对话者达成妥协并暂停对这个问题的判断了。换句话说，主张是“平等权重观”在我们可能称之为“极端分歧案例”的情况下做出了错误的裁决。是什么让我们有理由将《初等数学》与《餐厅账单案例》区别对待呢？根据 Lackey 的观点，如果在发现同行分歧之前，你对即将被争议的命题有高度的理由支持，那么在发现同行分歧后，几乎不需要进行调和。因此，由于 Lackey 在与同事交谈之前对 2+2 = 4 有高度的理由支持，因此不需要调和，但由于 Christensen 在发现分歧之前对股票价格为 43 美元没有高度的理由支持，因此需要进行大量的调和。根据“正当主义观”，一个人先前的正当程度决定了对同行分歧的理性回应。对于相信目标命题的强烈先前正当化很重要，因为当发现分歧时，你现在有理由相信你的对话者毕竟并不是你的同行。在《初等数学》中，Lackey 应该显著修正她对同事关于初等数学的认知立场的看法。相比之下，《餐厅账单案例》则不需要类似的降级。这种差异可以通过不同程度的先前正当化来解释。
 
 应用于我们的框架，辩护主义观点否认独立性。在第一阶证据强烈支持相信 p 的情况下，这个事实可以用来重新评估您对话者的认识凭证。独立性仅允许来自“外部”分歧的信息影响对同行凭证的评估，但在这里，您的对话者与您高度认可的某事存在分歧给您一个理由来质疑他对此事的看法。
 
@@ -432,11 +432,11 @@ The Justificationist View has been criticized in several ways. Some object that 
 * Cruz, H. D. and Smedt, J. D., 2013, “The value of epistemic disagreement in scientific practice. The case of Homo Floresiensis,” *Studies in History and Philosophy of Science* Part A 44 (2): 169–177.
 * Dang, Haixin and Bright, Liam Kofi, 2021, “Scientific Conclusions need not be Accurate, Justified, or Believed by their Authors,” *Synthese* 199: 8187–8203.
 * de Ridder, Jeroen, 2021, “Deep Disagreement and Belief Polarization,” in E. Edenberg and M. Hannon (eds.), *Political Epistemology*. New York: Oxford University Press, 225–243.
-* De Cruz, Helen, 2017, “Religious Disagreement: An Empirical Study Among Academic Philosophers,” *Episteme* 14: 71–87. doi:10.1017/epi.2015.50
+* De Cruz, Helen, 2017, “Religious Disagreement: An Empirical Study Among Academic Philosophers,” *Episteme* 14: 71–87. doi: 10.1017/epi.2015.50
 * De Cruz, Helen and Johan De Smedt, 2013, “The Value of Epistemic Disagreement in Scientific Practice. The Case of Homo Floresiensis,” *Studies in History and Philosophy of Science Part A*, 44 (2): 169–177.
 * DePaul, Michael, 2013, “Agent Centeredness, Agent Neutrality, Disagreement, and Truth Conduciveness,” in Chris Tucker (ed.), *Seemings and Justification*, New York: Oxford University Press.
 * Decker, Jason, 2012, “Disagreement, Evidence, and Agnosticism,” *Synthese* 187 (2): 753–783.
-* Dellsén, Finnur, 2018, “When Expert Disagreement Supports the Consensus,” *Australasian Journal of Philosophy* 96 (1): 142–156. doi:10.1080/00048402.2017.1298636
+* Dellsén, Finnur, 2018, “When Expert Disagreement Supports the Consensus,” *Australasian Journal of Philosophy* 96 (1): 142–156. doi: 10.1080/00048402.2017.1298636
 * Dellsén, Finnur, Lawler, Insa, and Norton, James, 2023, “Would Disagreement Undermine Progress?” *Journal of Philosophy* 120 (3): 139–172.
 * Dogramaci, Sinan and Sophie Horowitz, 2016, “An Argument for Uniqueness About Evidential Support,” *Philosophical Issues* 26 (1): 130–147.
 * Dougherty, Trent, 2013, “Dealing with Disagreement from the First-Person Perspective: A Probabilistic Proposal,” in D. Machuca (ed.), *Disagreement and Skepticism*, New York: Routledge, pp. 218–238.
@@ -543,94 +543,94 @@ The Justificationist View has been criticized in several ways. Some object that 
 * –––, 2020b, “The Epistemic Benefits of Worldview Disagreement,”*Social Epistemology* 35 (1), 85–98.
 * Lynch, Michael, 2016, “After the Spade Turns: Disagreement, First Principles and Epistemic Contractarianism,” *International Journal for the Study of Skepticism* 6 (2–3): 248–259.
 * MacFarlane, John, 2007, “Relativism and Disagreement,” _Philosophical Studies_132: 17–31.
-* Machuca, Diego, 2015, “Agrippan Pyrrhonism and the Challenge of Disagreement,” *Journal of Philosophical Research* 40: 23–39.
-* –––, 2017, “A Neo-Pyrrhonian Response to the Disagreeing about Disagreement Argument,” *Synthese* 194 (5): 1663–1680.
-* Machuca, Diego (ed.), 2013, *Disagreement and Skepticism*, New York: Routledge.
-* Machuca, Diego, 2017, “A Neo-Pyrrhonian Response to the Disagreeing about Disagreement Argument,” *Synthese* 194 (5): 1663–1680.
-* Martini, Carlo, 2013, “A Puzzle About Belief Updating,” *Synthese* 190 (15): 3149–3160.
-* Matheson, Jonathan, 2009, “Conciliatory Views of Disagreement and Higher-Order Evidence,” *Episteme: A Journal of Social Philosophy* 6 (3): 269–279.
-* –––, 2011, “The Case for Rational Uniqueness,” *Logos & Episteme* 2 (3): 359–73.
-* –––, 2014, “Disagreement: Idealized and Everyday,” in Jonathan Matheson and Rico Vitz (eds.), *The Ethics of Belief: Individual and Social*, New York: Oxford University Press, pp. 315–330.
-* –––, 2015a, “Disagreement and the Ethics of Belief,” in James Collier (ed.), *The Future of Social Epistemology: A Collective Vision*, Lanham, Maryland: Rowman and Littlefield, pp. 139–148.
-* –––, 2015b, “Are Conciliatory Views of Disagreement Self-Defeating?” *Social Epistemology* 29 (2): 145–159.
-* –––, 2015c, *The Epistemic Significance of Disagreement*, London: Palgrave Macmillan.
-* –––, 2016, “Moral Caution and the Epistemology of Disagreement,” *Journal of Social Philosophy* 47 (2): 120–141.
-* –––, 2021, “Deep Disagreement and Rational Resolution,” *Topoi* 40: 1025–1037.
-* Miller, Boaz, 2021, “When Is Scientific Dissent Epistemically Inappropriate?”*Philosophy of Science* 88 (5): 918–928.
-* Moffett, Mark, 2007, “Reasonable Disagreement and Rational Group Inquiry,” *Episteme: A Journal of Social Epistemology* 4 (3): 352–367.
-* Mogensen, A. L., 2016, “Contingency Anxiety and the Epistemology of Disagreement,” *Pacific Philosophical Quarterly* 97 (4): 590–611.
-* Moon, Andrew, 2018, “Independence and New Ways to Remain Steadfast in the Face of Disagreement,” *Episteme* 15 (1): 65–79.
-* –––, 2021, “Circular and Question-Begging Responses to Religious Disagreement and Debunking Arguments,” *Philosophical Studies* 178 (3): 785–809.
-* Mulligan, Thomas, 2015, “Disagreement, Peerhood, and Three Paradoxes of Conciliationism,” *Synthese* 192 (1): 67–78.
-* –––, 2022, “The Epistemology of Disagreement: Why not Bayesianism?” *Episteme* 18 (4): 587–602.
-* Oppy, Graham, 2010, “Disagreement,” *International Journal for Philosophy of Religion* 68 (1): 183–199.
-* Palmira, Michele, 2013, “A Puzzle About the Agnostic Response to Peer Disagreement,” *Philosophia* 41 (4): 1253–1261.
-* –––, 2018, “Disagreement, Credences, and Outright Belief,” *Ratio* 31 (2): 179–196.
-* –––, 2020, “Inquiry and Doxastic Attitudes,” *Synthese* 197 (11): 4947–4973.
-* Pasnau, Robert, 2015, “Disagreement and the Value of Self-Trust,” *Philosophical Studies* 172 (9): 2315–2339.
-* Peels, Rik and Anthony Booth, 2014, “Why Responsible Belief Is Permissible Belief,” *Analytic Philosophy* 55: 75–88.
-* Pettit, Phillip, 2006, “When to Defer to the Majority – and When Not,” *Analysis* 66: 179–187.
-* Pittard, John, 2014, “Conciliationism and Religious Disagreement,” in Michael Bergmann and Patrick Kain (eds.), *Challenges to Moral and Religious Belief: Disagreement and* *Evolution*, Oxford University Press, pp. 80–97.
-* –––, 2015, “Resolute Conciliationism,” *Philosophical Quarterly* 65 (260): 442–463.
-* –––, 2017, “Disagreement, Reliability, and Resilience,” *Synthese* 194 (11): 4389–4409.
-* –––, 2019a, *Disagreement, Deference, and Religious Commitment*. New York: Oxford University Press.
-* –––, 2019b, “Fundamental Disagreements and the Limits of Instrumentalism,” *Synthese* 196 (12): 5009–5038.
-* Plakias, Alexandra, 2019, “Publishing without Belief,” *Analysis* 79 (4): 638–646.
-* Plantinga, Alvin, 2000a, *Warranted Christian Belief*, Oxford: Oxford University Press.
-* –––, 2000b, “Pluralism: A Defense of Religious Exclusivism,” in Philip L. Quinn and Kevin Meeker (eds.), *The Philosophical Challenge of Religious Diversity*, New York: Oxford University Press, pp. 172–192.
-* Priest, Maura, 2016, “Inferior Disagreement,” *Acta Analytica* 31 (3): 263–283.
-* Pritchard, Duncan, 2013, “Disagreement, Skepticism, and Track-Record Arguments,” in *Disagreement and Skepticism*, Diego Machuca (ed.), New York: Routledge, pp. 150–168.
-* –––, 2018, “Wittgensteinian Hinge Epistemology and Deep Disagreement,”*Topoi* 40 (5): 1117–1125.
-* Raleigh, Thomas, 2017, “Another Argument Against Uniqueness,” *Philosophical Quarterly* 67 (267): 327–346.
-* Ranalli, Chris, 2020, “Deep Disagreement and Hinge Epistemology,” *Synthese* 197: 4975–45007.
-* Ranalli, Chris and Lagewaard, Thirza, 2022a, “Deep Disagreement (part 1): Theories of Deep Disagreement,” *Philosophy Compass* 17 (12): e12886.
-* –––, 2022b, “Deep Disagreement (part 2): Epistemology of Deep Disagreement,” *Philosophy Compass* 17 (12): e12887.
-* Rasmussen, Mattias Skipper, Asbjørn Steglich-Petersen, and Jens Christian Bjerring, 2018, “A Higher-Order Approach to Disagreement,” *Episteme* 15 (1): 80–100.
-* Rattan, Gurpreet, 2014, “Disagreement and the First‐Person Perspective,” *Analytic Philosophy* 55 (1): 31–53.
-* Raz, Joseph, 1998, “Disagreement in Politics,” *American Journal of Jurisprudence* 43: 25–52.
-* Reisner, Andrew, 2016, “Peer Disagreement, Rational Requirements, and Evidence of Evidence as Evidence Against,” in Pedro Schmechtig and Martin Grajner (eds.), *Epistemic Reasons, Norms and Goals*, De Gruyter, pp. 95–114.
-* Roche, William, 2014, “Evidence of Evidence is Evidence Under Screening-Off,” *Episteme* 11 (1): 119–124.
-* Rosa, Luis, 2012, “Justification and the Uniqueness Thesis,” *Logos and Episteme* 4: 571–577.
-* Rosen, Gideon, 2007, “The Case Against Epistemic Relativism: Reflections on Chapter 6 of *Fear of Knowledge*,” *Episteme* 4 (1): 11–29.
-* –––, 2001, “Nominalism, Naturalism, and Epistemic Relativism,” *Philosophical Perspectives* 15: 69–91.
-* Rotondo, Andrew, 2013, “Undermining, Circularity, and Disagreement,” *Synthese* 190 (3): 563–584.
-* Rowbottom, D. P., 2018, “What is (dis)agreement?” *Philosophy and Phenomenological Research* 97 (1):223–236.
-* Sampson, Eric, 2019, “The Self-Undermining Arguments from Disagreement,” *Oxford Studies in Metaethics* 14: 23–46.
-* Scanlon, Thomas, 2014, *Being Realistic About Reasons*, New York: Oxford University Press.
-* Schafer, Karl, 2015, “How Common is Peer Disagreement? On Self‐Trust and Rational Symmetry,” *Philosophy and Phenomenological Research* 91 (1): 25–46.
-* Schoenfield, Miriam, 2015, “A Dilemma for Calibrationism,” *Philosophy and Phenomenological Research* 91: 425–455.
-* –––, 2014, “Permission to Believe,” *Noûs* 48 (2): 193–218.
-* Setiya, Kieran, 2012, *Knowing Right from Wrong*. New York: Oxford University Press.
-* Simpson, Robert Mark, 2013, “Epistemic Peerhood and the Epistemology of Disagreement,” *Philosophical Studies* 164 (2): 561–577.
-* Skipper, Mattias and Steglich-Petersen, Asbjørn (eds.), 2019, *Higher-Order Evidence: New Essays*. New York: Oxford University Press.
-* Sosa, Ernest, 2010, “The Epistemology of Disagreement,” in *Disagreement*, Richard Feldman and Ted Warfield (eds.), New York: Oxford University Press, pp. 274–293.
-* Staffel, Julia, 2021, “Transitional Attitudes and the Unmooring View of Higher-Order Evidence,” *Noûs* 57 (1): 238–260.
-* Tersman, Folke, 2013, “Moral Disagreement: Actual vs. Possible,” in Diego Machuca (ed.), *Skepticism and Disagreement*, New York: Routledge, pp. 90–108.
-* Thune, Michael, 2010a, “Religious Belief and the Epistemology of Disagreement,” *Philosophy Compass* 5 (8): 712–724.
-* –––, 2010b, “‘Partial Defeaters’ and the Epistemology of Disagreement,” *Philosophical Quarterly* 60 (239): 355–372.
-* Thurow, Joshua, 2012, “Does Religious Disagreement Actually Aid the Case for Theism?” in Jake Chandler and Victoria Harrison (eds.), *Probability in the Philosophy of Religion*, Oxford: Oxford University Press.
-* Titlebaum, Michael, 2015, “Rationality’s Fixed Point (Or: In Defense of Right Reason),” *Oxford Studies in Epistemology* vol. 5, Oxford: Oxford University press, pp. 253–294.
-* –––, forthcoming, “Disagreement and Permissivism,” in M. Baghramian, J.A. Carter, and R. Rowland (eds.), *Routledge Handbook of Disagreement*, New York: Routledge.
-* Titlebaum, Michael and Kopec, Matthew, 2019, “When Rational Reasoners Reason Differently,” in M. Balcerak Jackson and B Balcerak Jackson (eds.), *Reasoning: New Essays on Theoretical and Practical Thinking*, Oxford: Oxford Academic, pp. 205–231.
-* Turnbull, Margaret Greta and Sampson, Eric, 2020, “How Rational Level-Splitting Beliefs Can Help You Respond to Moral Disagreement,” in M. Klenk (ed.), *Higher Order Evidence and Moral Epistemology*, New York: Routledge, pp. 239–255.
-* van Inwagen, Peter, 1996, “It is Wrong, Always, Everywhere, and for Anyone, to Believe Anything, Upon Insufficient Evidence,” in J. Jordan and D. Howard-Snyder (eds.), *Faith, Freedom, and Rationality*, Hanham, MD: Rowman and Littlefield, pp. 137–154.
-* Vavova, Katia, 2014a, “Moral Disagreement and Moral Skepticism,” *Philosophical Perspectives* 28 (1): 302–333.
-* –––, 2014b, “Confidence, Evidence, and Disagreement,” *Erkenntnis* 79 (1): 173–183.
-* Wagner, Carl G., 2011, “Peer Disagreement and Independence Preservation,” *Erkenntnis* 74(2): 277–288.
-* Walker, Mark, 2022a, “A Paradox about our Epistemic Self-Conception: Are you an Uber Epistemic Superior?” *The International Journal for the Study of Skepticism* 12(4): 285–316.
-* –––, 2022b, “Epistemic Permissiveness and the Problems of Philosophical Disagreement,” *Dialogue* 61 (2): 285–309.
-* –––, 2023, *Outlines of Skeptical-Dogmatism: On Disbelieving our Philosophical Views*, Lexington: Lexington Books.
-* Weatherson, Brian, 2013, “Disagreements, Philosophical and Otherwise,” in Jennifer Lackey and David Christensen (eds.), *The Epistemology of Disagreement: New Essays*, Oxford University Press.
-* Wedgwood, Ralph, 2010, “The Moral Evil Demons,” in R. Feldman and T. Warfield (eds.), *Disagreement*, Oxford: Oxford University Press, pp. 216–246.
-* Weber, Marc Andree, 2017, “Armchair Disagreement,” *Metaphilosophy* 48 (4): 527–549.
-* White, Roger, 2005, “Epistemic Permissiveness,” in J. Hawthorne (ed.), *Philosophical* *Perspectives: Epistemology*, vol. 19, Malden, MA: Blackwell Publishing, pp. 445–459.
-* –––, 2007, “Epistemic Subjectivism,” *Episteme: A Journal of Social Epistemology* 4 (1): 115–129.
-* –––, 2009, “On Treating Oneself and Others as Thermometers,” *Episteme* 6 (3): 233–250.
-* –––, 2013, “Evidence Cannot be Permissive,” in M. Steup, J. Turri, and E. Sosa (eds.), *Contemporary Debates in Epistemology*, New York: Blackwell, pp. 312–323.
-* Wietmarschen, Han van, 2013, “Peer Disagreement, Evidence, and Well-Groundedness,” *Philosophical Review* 122 (3): 395–425.
-* Wilson, Alastair, 2010, “Disagreement, Equal Weight and Commutativity,” *Philosophical Studies* 149 (3): 321–326.
-* Worsnip, Alex, 2014, “Disagreement About Disagreement? What Disagreement About Disagreement?” *Philosophers Imprint* 14 (18): 1–20.
-* Zagzebski, Linda, 2012, *Epistemic Authority: A Theory of Trust, Authority, and Autonomy in Belief*, New York: Oxford University Press.
+* Machuca, Diego, 2015, “Agrippan Pyrrhonism and the Challenge of Disagreement,” * Journal of Philosophical Research* 40: 23–39.
+* –––, 2017, “A Neo-Pyrrhonian Response to the Disagreeing about Disagreement Argument,” * Synthese* 194 (5): 1663–1680.
+* Machuca, Diego (ed.), 2013, * Disagreement and Skepticism*, New York: Routledge.
+* Machuca, Diego, 2017, “A Neo-Pyrrhonian Response to the Disagreeing about Disagreement Argument,” * Synthese* 194 (5): 1663–1680.
+* Martini, Carlo, 2013, “A Puzzle About Belief Updating,” * Synthese* 190 (15): 3149–3160.
+* Matheson, Jonathan, 2009, “Conciliatory Views of Disagreement and Higher-Order Evidence,” * Episteme: A Journal of Social Philosophy* 6 (3): 269–279.
+* –––, 2011, “The Case for Rational Uniqueness,” * Logos & Episteme* 2 (3): 359–73.
+* –––, 2014, “Disagreement: Idealized and Everyday,” in Jonathan Matheson and Rico Vitz (eds.), * The Ethics of Belief: Individual and Social*, New York: Oxford University Press, pp. 315–330.
+* –––, 2015a, “Disagreement and the Ethics of Belief,” in James Collier (ed.), * The Future of Social Epistemology: A Collective Vision*, Lanham, Maryland: Rowman and Littlefield, pp. 139–148.
+* –––, 2015b, “Are Conciliatory Views of Disagreement Self-Defeating?” * Social Epistemology* 29 (2): 145–159.
+* –––, 2015c, * The Epistemic Significance of Disagreement*, London: Palgrave Macmillan.
+* –––, 2016, “Moral Caution and the Epistemology of Disagreement,” * Journal of Social Philosophy* 47 (2): 120–141.
+* –––, 2021, “Deep Disagreement and Rational Resolution,” * Topoi* 40: 1025–1037.
+* Miller, Boaz, 2021, “When Is Scientific Dissent Epistemically Inappropriate?”* Philosophy of Science* 88 (5): 918–928.
+* Moffett, Mark, 2007, “Reasonable Disagreement and Rational Group Inquiry,” * Episteme: A Journal of Social Epistemology* 4 (3): 352–367.
+* Mogensen, A. L., 2016, “Contingency Anxiety and the Epistemology of Disagreement,” * Pacific Philosophical Quarterly* 97 (4): 590–611.
+* Moon, Andrew, 2018, “Independence and New Ways to Remain Steadfast in the Face of Disagreement,” * Episteme* 15 (1): 65–79.
+* –––, 2021, “Circular and Question-Begging Responses to Religious Disagreement and Debunking Arguments,” * Philosophical Studies* 178 (3): 785–809.
+* Mulligan, Thomas, 2015, “Disagreement, Peerhood, and Three Paradoxes of Conciliationism,” * Synthese* 192 (1): 67–78.
+* –––, 2022, “The Epistemology of Disagreement: Why not Bayesianism?” * Episteme* 18 (4): 587–602.
+* Oppy, Graham, 2010, “Disagreement,” * International Journal for Philosophy of Religion* 68 (1): 183–199.
+* Palmira, Michele, 2013, “A Puzzle About the Agnostic Response to Peer Disagreement,” * Philosophia* 41 (4): 1253–1261.
+* –––, 2018, “Disagreement, Credences, and Outright Belief,” * Ratio* 31 (2): 179–196.
+* –––, 2020, “Inquiry and Doxastic Attitudes,” * Synthese* 197 (11): 4947–4973.
+* Pasnau, Robert, 2015, “Disagreement and the Value of Self-Trust,” * Philosophical Studies* 172 (9): 2315–2339.
+* Peels, Rik and Anthony Booth, 2014, “Why Responsible Belief Is Permissible Belief,” * Analytic Philosophy* 55: 75–88.
+* Pettit, Phillip, 2006, “When to Defer to the Majority – and When Not,” * Analysis* 66: 179–187.
+* Pittard, John, 2014, “Conciliationism and Religious Disagreement,” in Michael Bergmann and Patrick Kain (eds.), * Challenges to Moral and Religious Belief: Disagreement and * * Evolution*, Oxford University Press, pp. 80–97.
+* –––, 2015, “Resolute Conciliationism,” * Philosophical Quarterly* 65 (260): 442–463.
+* –––, 2017, “Disagreement, Reliability, and Resilience,” * Synthese* 194 (11): 4389–4409.
+* –––, 2019a, * Disagreement, Deference, and Religious Commitment*. New York: Oxford University Press.
+* –––, 2019b, “Fundamental Disagreements and the Limits of Instrumentalism,” * Synthese* 196 (12): 5009–5038.
+* Plakias, Alexandra, 2019, “Publishing without Belief,” * Analysis* 79 (4): 638–646.
+* Plantinga, Alvin, 2000a, * Warranted Christian Belief*, Oxford: Oxford University Press.
+* –––, 2000b, “Pluralism: A Defense of Religious Exclusivism,” in Philip L. Quinn and Kevin Meeker (eds.), * The Philosophical Challenge of Religious Diversity*, New York: Oxford University Press, pp. 172–192.
+* Priest, Maura, 2016, “Inferior Disagreement,” * Acta Analytica* 31 (3): 263–283.
+* Pritchard, Duncan, 2013, “Disagreement, Skepticism, and Track-Record Arguments,” in * Disagreement and Skepticism*, Diego Machuca (ed.), New York: Routledge, pp. 150–168.
+* –––, 2018, “Wittgensteinian Hinge Epistemology and Deep Disagreement,”* Topoi* 40 (5): 1117–1125.
+* Raleigh, Thomas, 2017, “Another Argument Against Uniqueness,” * Philosophical Quarterly* 67 (267): 327–346.
+* Ranalli, Chris, 2020, “Deep Disagreement and Hinge Epistemology,” * Synthese* 197: 4975–45007.
+* Ranalli, Chris and Lagewaard, Thirza, 2022a, “Deep Disagreement (part 1): Theories of Deep Disagreement,” * Philosophy Compass* 17 (12): e12886.
+* –––, 2022b, “Deep Disagreement (part 2): Epistemology of Deep Disagreement,” * Philosophy Compass* 17 (12): e12887.
+* Rasmussen, Mattias Skipper, Asbjørn Steglich-Petersen, and Jens Christian Bjerring, 2018, “A Higher-Order Approach to Disagreement,” * Episteme* 15 (1): 80–100.
+* Rattan, Gurpreet, 2014, “Disagreement and the First‐Person Perspective,” * Analytic Philosophy* 55 (1): 31–53.
+* Raz, Joseph, 1998, “Disagreement in Politics,” * American Journal of Jurisprudence* 43: 25–52.
+* Reisner, Andrew, 2016, “Peer Disagreement, Rational Requirements, and Evidence of Evidence as Evidence Against,” in Pedro Schmechtig and Martin Grajner (eds.), * Epistemic Reasons, Norms and Goals*, De Gruyter, pp. 95–114.
+* Roche, William, 2014, “Evidence of Evidence is Evidence Under Screening-Off,” * Episteme* 11 (1): 119–124.
+* Rosa, Luis, 2012, “Justification and the Uniqueness Thesis,” * Logos and Episteme* 4: 571–577.
+* Rosen, Gideon, 2007, “The Case Against Epistemic Relativism: Reflections on Chapter 6 of * Fear of Knowledge *,” * Episteme* 4 (1): 11–29.
+* –––, 2001, “Nominalism, Naturalism, and Epistemic Relativism,” * Philosophical Perspectives* 15: 69–91.
+* Rotondo, Andrew, 2013, “Undermining, Circularity, and Disagreement,” * Synthese* 190 (3): 563–584.
+* Rowbottom, D. P., 2018, “What is (dis)agreement?” * Philosophy and Phenomenological Research* 97 (1): 223–236.
+* Sampson, Eric, 2019, “The Self-Undermining Arguments from Disagreement,” * Oxford Studies in Metaethics* 14: 23–46.
+* Scanlon, Thomas, 2014, * Being Realistic About Reasons*, New York: Oxford University Press.
+* Schafer, Karl, 2015, “How Common is Peer Disagreement? On Self‐Trust and Rational Symmetry,” * Philosophy and Phenomenological Research* 91 (1): 25–46.
+* Schoenfield, Miriam, 2015, “A Dilemma for Calibrationism,” * Philosophy and Phenomenological Research* 91: 425–455.
+* –––, 2014, “Permission to Believe,” * Noûs* 48 (2): 193–218.
+* Setiya, Kieran, 2012, * Knowing Right from Wrong*. New York: Oxford University Press.
+* Simpson, Robert Mark, 2013, “Epistemic Peerhood and the Epistemology of Disagreement,” * Philosophical Studies* 164 (2): 561–577.
+* Skipper, Mattias and Steglich-Petersen, Asbjørn (eds.), 2019, * Higher-Order Evidence: New Essays*. New York: Oxford University Press.
+* Sosa, Ernest, 2010, “The Epistemology of Disagreement,” in * Disagreement*, Richard Feldman and Ted Warfield (eds.), New York: Oxford University Press, pp. 274–293.
+* Staffel, Julia, 2021, “Transitional Attitudes and the Unmooring View of Higher-Order Evidence,” * Noûs* 57 (1): 238–260.
+* Tersman, Folke, 2013, “Moral Disagreement: Actual vs. Possible,” in Diego Machuca (ed.), * Skepticism and Disagreement*, New York: Routledge, pp. 90–108.
+* Thune, Michael, 2010a, “Religious Belief and the Epistemology of Disagreement,” * Philosophy Compass* 5 (8): 712–724.
+* –––, 2010b, “‘Partial Defeaters’ and the Epistemology of Disagreement,” * Philosophical Quarterly* 60 (239): 355–372.
+* Thurow, Joshua, 2012, “Does Religious Disagreement Actually Aid the Case for Theism?” in Jake Chandler and Victoria Harrison (eds.), * Probability in the Philosophy of Religion*, Oxford: Oxford University Press.
+* Titlebaum, Michael, 2015, “Rationality’s Fixed Point (Or: In Defense of Right Reason),” * Oxford Studies in Epistemology* vol. 5, Oxford: Oxford University press, pp. 253–294.
+* –––, forthcoming, “Disagreement and Permissivism,” in M. Baghramian, J.A. Carter, and R. Rowland (eds.), * Routledge Handbook of Disagreement*, New York: Routledge.
+* Titlebaum, Michael and Kopec, Matthew, 2019, “When Rational Reasoners Reason Differently,” in M. Balcerak Jackson and B Balcerak Jackson (eds.), * Reasoning: New Essays on Theoretical and Practical Thinking*, Oxford: Oxford Academic, pp. 205–231.
+* Turnbull, Margaret Greta and Sampson, Eric, 2020, “How Rational Level-Splitting Beliefs Can Help You Respond to Moral Disagreement,” in M. Klenk (ed.), * Higher Order Evidence and Moral Epistemology*, New York: Routledge, pp. 239–255.
+* van Inwagen, Peter, 1996, “It is Wrong, Always, Everywhere, and for Anyone, to Believe Anything, Upon Insufficient Evidence,” in J. Jordan and D. Howard-Snyder (eds.), * Faith, Freedom, and Rationality*, Hanham, MD: Rowman and Littlefield, pp. 137–154.
+* Vavova, Katia, 2014a, “Moral Disagreement and Moral Skepticism,” * Philosophical Perspectives* 28 (1): 302–333.
+* –––, 2014b, “Confidence, Evidence, and Disagreement,” * Erkenntnis* 79 (1): 173–183.
+* Wagner, Carl G., 2011, “Peer Disagreement and Independence Preservation,” * Erkenntnis* 74(2): 277–288.
+* Walker, Mark, 2022a, “A Paradox about our Epistemic Self-Conception: Are you an Uber Epistemic Superior?” * The International Journal for the Study of Skepticism* 12(4): 285–316.
+* –––, 2022b, “Epistemic Permissiveness and the Problems of Philosophical Disagreement,” * Dialogue* 61 (2): 285–309.
+* –––, 2023, * Outlines of Skeptical-Dogmatism: On Disbelieving our Philosophical Views*, Lexington: Lexington Books.
+* Weatherson, Brian, 2013, “Disagreements, Philosophical and Otherwise,” in Jennifer Lackey and David Christensen (eds.), * The Epistemology of Disagreement: New Essays*, Oxford University Press.
+* Wedgwood, Ralph, 2010, “The Moral Evil Demons,” in R. Feldman and T. Warfield (eds.), * Disagreement*, Oxford: Oxford University Press, pp. 216–246.
+* Weber, Marc Andree, 2017, “Armchair Disagreement,” * Metaphilosophy* 48 (4): 527–549.
+* White, Roger, 2005, “Epistemic Permissiveness,” in J. Hawthorne (ed.), * Philosophical * * Perspectives: Epistemology*, vol. 19, Malden, MA: Blackwell Publishing, pp. 445–459.
+* –––, 2007, “Epistemic Subjectivism,” * Episteme: A Journal of Social Epistemology* 4 (1): 115–129.
+* –––, 2009, “On Treating Oneself and Others as Thermometers,” * Episteme* 6 (3): 233–250.
+* –––, 2013, “Evidence Cannot be Permissive,” in M. Steup, J. Turri, and E. Sosa (eds.), * Contemporary Debates in Epistemology*, New York: Blackwell, pp. 312–323.
+* Wietmarschen, Han van, 2013, “Peer Disagreement, Evidence, and Well-Groundedness,” * Philosophical Review* 122 (3): 395–425.
+* Wilson, Alastair, 2010, “Disagreement, Equal Weight and Commutativity,” * Philosophical Studies* 149 (3): 321–326.
+* Worsnip, Alex, 2014, “Disagreement About Disagreement? What Disagreement About Disagreement?” * Philosophers Imprint* 14 (18): 1–20.
+* Zagzebski, Linda, 2012, * Epistemic Authority: A Theory of Trust, Authority, and Autonomy in Belief*, New York: Oxford University Press.
 
 ## Academic Tools
 
@@ -656,4 +656,4 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Bryan Frances](http://bryanfrances.weebly.com/) <[*bryan.frances@yahoo.com*](mailto:bryan%2efrances%40yahoo%2ecom)>\
-[Jonathan Matheson](https://jonathandmatheson.wordpress.com/) <[*jonathan.matheson@gmail.com*](mailto:jonathan%2ematheson%40gmail%2ecom)
+[Jonathan Matheson](https://jonathandmatheson.wordpress.com/) <[*jonathan.matheson@gmail.com*](mailto: jonathan%2ematheson%40gmail%2ecom)

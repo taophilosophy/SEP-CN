@@ -46,7 +46,7 @@
 
 ### 男性世界观的编码
 
-一些术语编码男性世界观的想法最初是令人困惑的。其中之一的含义大致是，某些术语的意义似乎更适合男性而不是女性来划分世界。这方面的很好例子来自于“前戏”和“性”这两个术语。一般认为，“性”通常指的是以男性高潮为定义的行为，而许多女性在性活动中达到高潮的过程则被归为次要，用“前戏”之类的术语来描述。因此，这些术语可以被视为基于男性对性的观点。（值得注意的是，“男性观点”这一说法不必建立在（不可信的）所有男性都持有这一观点的想法上。相反，它可以建立在关于男性典型特征的主张上，或者建立在某些理解只有从男性角度才有意义的主张上。）因此，这些术语可能会阻碍对女性性经验的准确沟通甚至思考（Cameron 1985; Moulton 1981b; Spender 1980 [1985]）。凯瑟琳·麦金农（Catharine MacKinnon）和莎莉·哈斯兰格（Sally Haslanger）也讨论了“强奸”的法律定义（除其他事项外）涉及“超出正常程度的力量”，这一理解似乎认同在性关系中某种程度的力量是可以接受的（Haslanger 1995: 109; MacKinnon 1989: 173）。
+一些术语编码男性世界观的想法最初是令人困惑的。其中之一的含义大致是，某些术语的意义似乎更适合男性而不是女性来划分世界。这方面的很好例子来自于“前戏”和“性”这两个术语。一般认为，“性”通常指的是以男性高潮为定义的行为，而许多女性在性活动中达到高潮的过程则被归为次要，用“前戏”之类的术语来描述。因此，这些术语可以被视为基于男性对性的观点。（值得注意的是，“男性观点”这一说法不必建立在（不可信的）所有男性都持有这一观点的想法上。相反，它可以建立在关于男性典型特征的主张上，或者建立在某些理解只有从男性角度才有意义的主张上。）因此，这些术语可能会阻碍对女性性经验的准确沟通甚至思考（Cameron 1985; Moulton 1981b; Spender 1980 [1985]）。凯瑟琳 · 麦金农（Catharine MacKinnon）和莎莉 · 哈斯兰格（Sally Haslanger）也讨论了“强奸”的法律定义（除其他事项外）涉及“超出正常程度的力量”，这一理解似乎认同在性关系中某种程度的力量是可以接受的（Haslanger 1995: 109; MacKinnon 1989: 173）。
 
 语言也可能缺乏对女性非常重要的事物的词汇。这种差距是语言被视为编码男性世界观的另一种方式。例如，“性骚扰”这个术语是女性主义的一项最新创新。女性讨论她们的经历使她们看到许多问题有一个共同的元素，因此她们创造了“性骚扰”这个术语。一旦问题被命名，就更容易打击性骚扰，无论是在法律上还是通过教育人们了解它（Farley 1978; Spender 1985）。
 
@@ -60,11 +60,11 @@
 
 把毛衣遗忘在了那里。
 
-这次改革成功的一个关键原因或许是单数形式的“they”的历史。正如安·博丁（1975 [1998]）所指出的，单数形式的“they”有着悠久的历史。直到 19 世纪才开始受到批评，尽管所有规范语法学家的努力，它在口语中仍然非常流行。由于女性主义者对“性别中立”使用“he”的影响，即使是规范语法学家现在也越来越接受“they”。在最近几年，越来越普遍地使用“they”作为自己选择的人称代词，或者更少地使用其他性别中立选项，如“ze”（Bennett 2016; Dembroff and Wodak 2017）。
+这次改革成功的一个关键原因或许是单数形式的“they”的历史。正如安 · 博丁（1975 [1998]）所指出的，单数形式的“they”有着悠久的历史。直到 19 世纪才开始受到批评，尽管所有规范语法学家的努力，它在口语中仍然非常流行。由于女性主义者对“性别中立”使用“he”的影响，即使是规范语法学家现在也越来越接受“they”。在最近几年，越来越普遍地使用“they”作为自己选择的人称代词，或者更少地使用其他性别中立选项，如“ze”（Bennett 2016; Dembroff and Wodak 2017）。
 
-其他改革努力遇到了更大的困难。甚至一些已经开始流行的改革似乎产生了反效果。例如，苏珊·厄里奇（Susan Erlich）和鲁思·金（Ruth King）（1992 [1998]）讨论了“主席”一词的情况，旨在作为“主席”这一性别中立的替代词。然而，在许多地方，它经常被用来指代担任主席职位的女性，而男性则被称为“主席”。他们认为这表明，除非态度也发生改变，否则改革是无法成功的。
+其他改革努力遇到了更大的困难。甚至一些已经开始流行的改革似乎产生了反效果。例如，苏珊 · 厄里奇（Susan Erlich）和鲁思 · 金（Ruth King）（1992 [1998]）讨论了“主席”一词的情况，旨在作为“主席”这一性别中立的替代词。然而，在许多地方，它经常被用来指代担任主席职位的女性，而男性则被称为“主席”。他们认为这表明，除非态度也发生改变，否则改革是无法成功的。
 
-此外，女性主义对语言的研究还表明，可能存在一些问题，这些问题并不适合通过零碎的语言改革来解决。一些提出的困难远远超出了一些有问题的术语或空白。黛博拉·卡梅伦提供了一些引人注目的例子，这些写作将男性视为规范，而没有使用任何特定的术语，人们可能会对此提出异议，例如以下来自《星期日泰晤士报》的内容。
+此外，女性主义对语言的研究还表明，可能存在一些问题，这些问题并不适合通过零碎的语言改革来解决。一些提出的困难远远超出了一些有问题的术语或空白。黛博拉 · 卡梅伦提供了一些引人注目的例子，这些写作将男性视为规范，而没有使用任何特定的术语，人们可能会对此提出异议，例如以下来自《星期日泰晤士报》的内容。
 
 > 缺乏活力的问题加剧了这样一个事实，即能干的年轻成年人非常少。他们都去工作或找工作了，把老年人、残疾人、妇女和儿童留在了身后。 (Cameron 1985: 85)
 
@@ -72,7 +72,7 @@
 
 ### 1.7 语言的男性化
 
-一些女性主义者（例如，Penelope 1990; Spender 1985）认为英语在某种普遍意义上是男性的。（关于其他语言也提出了相应的论点。）其中一种意思是，英语可以被说成是男性的，类似于特定术语可以被说成是男性的方式——通过编码男性世界观，帮助压制女性或使她们变得不可见，或者以男性为标准。这种论点的一种类型从对大量具体术语的检查开始，识别出男性偏见的模式，并由此得出结论，即英语的男性偏见是如此普遍，以至于错误地将问题定位在一组词语中，而不是整个语言中。这种论点的第一阶段显然是一个漫长而复杂的过程。除了我们已经看到的那些主张之外，引用的主张包括（a）英语中男性词汇比女性词汇更多，而且其中更多是积极的（Spender 1985: 15，引用 Julia Stanley 1977）；（b）女性词汇“假定负面内涵，即使它们指代与男性相同的状态或条件”（Spender 1985: 17），如“老处女”和“单身汉”；（c）女性词汇比男性词汇更频繁地被性化，即使是中性词汇，当应用于女性时也是如此。戴尔·斯彭德（Dale Spender）引用 Lakoff（1975）讨论了“专业人士”这个词的例子，比较了“他是专业人士”和“她是专业人士”，指出后者更有可能被理解为指涉该人是妓女。许多女性主义者认为女性词汇的性化尤为重要，因为他们认为性物化是导致女性和男性之间不平等的关键因素，甚至是根源。（有关更多这类例子，请参见 Baker 1992。）
+一些女性主义者（例如，Penelope 1990; Spender 1985）认为英语在某种普遍意义上是男性的。（关于其他语言也提出了相应的论点。）其中一种意思是，英语可以被说成是男性的，类似于特定术语可以被说成是男性的方式——通过编码男性世界观，帮助压制女性或使她们变得不可见，或者以男性为标准。这种论点的一种类型从对大量具体术语的检查开始，识别出男性偏见的模式，并由此得出结论，即英语的男性偏见是如此普遍，以至于错误地将问题定位在一组词语中，而不是整个语言中。这种论点的第一阶段显然是一个漫长而复杂的过程。除了我们已经看到的那些主张之外，引用的主张包括（a）英语中男性词汇比女性词汇更多，而且其中更多是积极的（Spender 1985: 15，引用 Julia Stanley 1977）；（b）女性词汇“假定负面内涵，即使它们指代与男性相同的状态或条件”（Spender 1985: 17），如“老处女”和“单身汉”；（c）女性词汇比男性词汇更频繁地被性化，即使是中性词汇，当应用于女性时也是如此。戴尔 · 斯彭德（Dale Spender）引用 Lakoff（1975）讨论了“专业人士”这个词的例子，比较了“他是专业人士”和“她是专业人士”，指出后者更有可能被理解为指涉该人是妓女。许多女性主义者认为女性词汇的性化尤为重要，因为他们认为性物化是导致女性和男性之间不平等的关键因素，甚至是根源。（有关更多这类例子，请参见 Baker 1992。）
 
 这种在语言中广泛存在的男性偏见编码，正如 Spender 等理论家所言，正是我们所应该预料到的。男性（尽管并非所有男性，正如她所指出的）在社会中拥有更多的权力，她声称这包括了通过语言来强制执行他们对世界的看法的权力。此外，她认为，这已经有助于增强他们的权力。
 
@@ -104,7 +104,7 @@
 
 女性主义者还关注了语言的另一个方面——隐喻的使用（见女性主义认识论和科学哲学条目中关于客观性的女性主义批评和概念，以及女性主义方法与实用主义和大陆哲学交叉的条目）。特别是，女性主义者讨论了哲学和科学中性别隐喻的使用。Emily Martin（1991 [1996]）在她对人类生殖讨论中提供了特别生动的例子，说明了性别隐喻的使用。
 
-> 在其极端，卵子和精子之间的古老关系呈现出一种皇家或宗教的光环。卵子的外层，其保护屏障，有时被称为其“礼服”，这个术语通常用于神圣的、宗教的服饰。据说卵子有一个“光环”，一顶王冠，并伴随着“随从细胞”。它是神圣的，被置于高于一切之上，是精子之王的女王。卵子也是被动的，这意味着它必须依赖精子来获救。杰拉尔德·沙滕（Gerald Schatten）和海伦·沙滕（Helen Schatten）将卵子的角色比作《睡美人》：‘一位沉睡的新娘等待着她伴侣的魔法之吻，这个吻注入了带来她生命的精神’。相比之下，精子有一个‘使命’，那就是‘穿过女性生殖道寻找卵子’。一个流行的说法是，精子进行了一次‘危险的旅程’进入‘温暖的黑暗’，有些精子‘精疲力竭’地掉落。‘幸存者’‘攻击’卵子，成功的候选者‘包围着奖品’...（Martin 1996: 106）
+> 在其极端，卵子和精子之间的古老关系呈现出一种皇家或宗教的光环。卵子的外层，其保护屏障，有时被称为其“礼服”，这个术语通常用于神圣的、宗教的服饰。据说卵子有一个“光环”，一顶王冠，并伴随着“随从细胞”。它是神圣的，被置于高于一切之上，是精子之王的女王。卵子也是被动的，这意味着它必须依赖精子来获救。杰拉尔德 · 沙滕（Gerald Schatten）和海伦 · 沙滕（Helen Schatten）将卵子的角色比作《睡美人》：‘一位沉睡的新娘等待着她伴侣的魔法之吻，这个吻注入了带来她生命的精神’。相比之下，精子有一个‘使命’，那就是‘穿过女性生殖道寻找卵子’。一个流行的说法是，精子进行了一次‘危险的旅程’进入‘温暖的黑暗’，有些精子‘精疲力竭’地掉落。‘幸存者’‘攻击’卵子，成功的候选者‘包围着奖品’...（Martin 1996: 106）
 
 以上提出的繁殖观是不准确的。精子并未像所暗示的那样一心一意地行动。相反，精子
 
@@ -112,7 +112,7 @@
 
 蛋也不是被动的：其表面的粘附分子在克服精子自行脱离的倾向中发挥着至关重要的作用（Martin 1996: 108）。Martin 认为，科学家们在发现这些事实方面进展缓慢，部分原因是由于他们采用的隐喻；即使在他们了解这些事实之后，他们也很慢才更新他们的隐喻。Martin 暗示，性别刻板印象可能会损害我们对生殖的理解——因为导致科学家采用掩盖真相的误导性隐喻。科学图像中使用性别刻板印象也可能有助于持续强化有害的刻板印象，例如通过加强将女性视为被动的倾向。然而，Paul Gross（1998）对 Martin 的观点提出了质疑，他认为科学家对这些发现并不像 Martin 所声称的那样缓慢。如果 Gross 是正确的，那么问题隐喻并没有像 Martin 所暗示的那样影响科学家的工作（尽管它们似乎影响了该主题的通俗写作）。
 
-性别隐喻已被用于许多讨论层面，包括最一般的层面。女性主义关注的一个重要话题是历史上倾向以性别化方式构想科学努力。一个特别明确的例子来自弗朗西斯·培根，被伊夫林·福克斯·凯勒和吉纳维芙·劳埃德讨论过。
+性别隐喻已被用于许多讨论层面，包括最一般的层面。女性主义关注的一个重要话题是历史上倾向以性别化方式构想科学努力。一个特别明确的例子来自弗朗西斯 · 培根，被伊夫林 · 福克斯 · 凯勒和吉纳维芙 · 劳埃德讨论过。
 
 > 对于培根（Bacon），科学的承诺被表达为“引领你与自然及其所有子孙相结合，将她绑定为你的仆人并使她成为你的奴隶”。（Keller 1996: 36.）
 
@@ -128,7 +128,7 @@
 
 对个人主义的其他反对意见并不依赖于关于女性和男性之间差异的有争议的心理学观点。相反，他们认为，个人主义的真正问题在于它未能意识到社会的重要性。在讨论政治和权力关系时，社会世界自然是一个重要的关注领域。了解人们如何相互支配，以及这种支配的确切方式，对于女性主义者来说是重要的项目。语言是社会世界的重要组成部分，了解语言在传播、操纵和控制中扮演的角色（仅举几例）对于理解权力运作显然至关重要（例如，参见 MacKinnon 在 1993 年 MacKinnon 对言论的看法）。因此，许多女性主义者认为，一个适合于理解社会世界中交流互动的语言哲学可能是女性主义者的有价值工具。然而，他们坚持认为，目前的语言哲学的个人主义阻碍了它发挥这一功能（Hornsby，2000）。
 
-女性主义普遍指责语言哲学对社会世界关注不足的说法，并非所有女性主义者都会同意。事实上，在批评中提到的这一点很难维持，鉴于索尔·克里普克（1972）的指称因果理论、希拉里·普特南（1975）关于种类术语工作中社会因素（语言劳动分工）的论点、H.P.格莱斯（1975 [1989]）的对话理论、大卫·刘易斯（1969）关于约定的研究，以及 J.L.奥斯汀（1962 [1975]）的言语行为理论等方面的重要性。然而，可以合理地认为，语言哲学家通常只关注女性主义者不太感兴趣的社会世界方面。尽管指称因果理论无疑涉及社会因素，但这些社会因素似乎不是女性主义者关心的类型；尽管普特南的语言劳动分工可能涉及一些权力关系（专家拥有一种非专家所缺乏的特殊语言权力），但这些权力关系的政治方面（如果有的话）已被忽视。安德烈娅·奈（Andrea Nye）基本上以这些理由批评主流语言哲学，认为对激进翻译的研究对政治关切不够敏感（有关激进翻译的概念，请参阅唐纳德·戴维森条目中关于意义和真理的部分）。
+女性主义普遍指责语言哲学对社会世界关注不足的说法，并非所有女性主义者都会同意。事实上，在批评中提到的这一点很难维持，鉴于索尔 · 克里普克（1972）的指称因果理论、希拉里 · 普特南（1975）关于种类术语工作中社会因素（语言劳动分工）的论点、H.P.格莱斯（1975 [1989]）的对话理论、大卫 · 刘易斯（1969）关于约定的研究，以及 J.L.奥斯汀（1962 [1975]）的言语行为理论等方面的重要性。然而，可以合理地认为，语言哲学家通常只关注女性主义者不太感兴趣的社会世界方面。尽管指称因果理论无疑涉及社会因素，但这些社会因素似乎不是女性主义者关心的类型；尽管普特南的语言劳动分工可能涉及一些权力关系（专家拥有一种非专家所缺乏的特殊语言权力），但这些权力关系的政治方面（如果有的话）已被忽视。安德烈娅 · 奈（Andrea Nye）基本上以这些理由批评主流语言哲学，认为对激进翻译的研究对政治关切不够敏感（有关激进翻译的概念，请参阅唐纳德 · 戴维森条目中关于意义和真理的部分）。
 
 > …一种高度技术化和专业化的以英语为主的语言哲学正在探讨从一个语言社区到另一个语言社区进行“激进”翻译的可能性问题，不同和不可比较的概念体系，跨越“不同世界”建立单一参照的困难，但几乎没有提到实际的沟通失败或性别问题。（Nye 1998: 266）
 
@@ -152,13 +152,13 @@ Langton 提出，有形式的沉默对应于这些言语行为的每一种。如
 
 1. 一些评论家（例如，Dworkin 1991, 1993; Jacobson 1995）认为，色情可能导致的任何沉默并非言论自由法应该试图保护的那种类型。（对这些批评的回应可以在 Hornsby 和 Langton 1998; Langton 2009a; 和 West 2003 中找到。）
 2. 其他人，如 Leslie Green (1998)，认为色情并没有进行压制和沉默行为所需的权威。Langton (2009b)对这一批评做出了回应；Mary Kate McGowan (2003)则认为，这些行为所需的权威实际上是一种相当谦逊和普通的对话权威。Nellie Wieland (2007)，与 McGowan 一样，认为没有必要担心 Green 所担心的那种权威。然而，她认为 Langton 的说法存在让强奸犯免责的风险。 (Jacobson 1995 也提出了这种免责的担忧。) McGowan 和 Maitra (2010)对此做出了回应，McGowan，Adelman，Helmers 和 Stolzenberg (2010)也做出了回应。
-3. 詹妮弗·索尔（2006a）对兰顿声称色情作品本身是一种言语行为表示担忧，认为只有在特定语境中的话语才能被视为言语行为。此外，她认为，如果兰顿的说法修改为关于观看或展示色情作品的行为，那么它就失去了其合理性。克劳迪娅·比安基（2008）对此提出批评，玛丽·米科拉（2008）做出了回应。
+3. 詹妮弗 · 索尔（2006a）对兰顿声称色情作品本身是一种言语行为表示担忧，认为只有在特定语境中的话语才能被视为言语行为。此外，她认为，如果兰顿的说法修改为关于观看或展示色情作品的行为，那么它就失去了其合理性。克劳迪娅 · 比安基（2008）对此提出批评，玛丽 · 米科拉（2008）做出了回应。
 4. Tirrell (1999)提出了关于背景的进一步关注。Tirrell 认为，MacKinnon 赋予色情作品如此强大的权威，以至于女性无法成功表达自己的经历。她建议修改 MacKinnon 的观点，以便为女性主义者之间成功的沟通留出空间。
-5. 亚历山大·伯德（2002 年），丹尼尔·雅各布森（1995 年）和伊尚妮·迈特拉（2009 年）都对奥斯汀的言行和言外之间的区别以及其在沉默论证中的作用提出了担忧（特别是对言行必须被理解为成功的要求）。对于伯德和雅各布森来说，这导致他们拒绝了沉默论证，但迈特拉却用格赖斯的术语重新构建了它。安吉拉·格伦伯格（2014 年）认为，沉默论证应重新构想，不应集中在言行上的沉默，而应集中在言辞或修辞上的沉默。她认为，这样可以对伯德和雅各布森等人的批评提供令人满意的回应。米科拉（2011a）还捍卫朗顿-霍恩斯比，反对伯德和雅各森。
+5. 亚历山大 · 伯德（2002 年），丹尼尔 · 雅各布森（1995 年）和伊尚妮 · 迈特拉（2009 年）都对奥斯汀的言行和言外之间的区别以及其在沉默论证中的作用提出了担忧（特别是对言行必须被理解为成功的要求）。对于伯德和雅各布森来说，这导致他们拒绝了沉默论证，但迈特拉却用格赖斯的术语重新构建了它。安吉拉 · 格伦伯格（2014 年）认为，沉默论证应重新构想，不应集中在言行上的沉默，而应集中在言辞或修辞上的沉默。她认为，这样可以对伯德和雅各布森等人的批评提供令人满意的回应。米科拉（2011a）还捍卫朗顿-霍恩斯比，反对伯德和雅各森。
 6. Judith Butler (1997) 对沉默论点提出了几点异议，其中最重要的是(a) 它假设了一种不切实际的语言使用图景；以及(b) 沉默并不像 Langton 和 Hornsby 认为的那样重要。Langton (2009c) 已对这一担忧做出了回应。
-7. 亚历克斯·戴维斯（2016）认为，色情作品可能不仅改变女性言论的言外力，还可能阻止她发表自己期望的内容。戴维斯的核心例子是强奸神话的传播，可能导致在法庭交叉审讯中，女性无法表达她们的经历真相。亚历克斯·戴维斯（2016）认为，色情作品可能不仅改变女性言论的言外力，还可能阻止她发表自己期望的内容。戴维斯的核心例子是强奸神话的传播，可能导致在法庭交叉审讯中，女性无法表达她们的经历真相。
+7. 亚历克斯 · 戴维斯（2016）认为，色情作品可能不仅改变女性言论的言外力，还可能阻止她发表自己期望的内容。戴维斯的核心例子是强奸神话的传播，可能导致在法庭交叉审讯中，女性无法表达她们的经历真相。亚历克斯 · 戴维斯（2016）认为，色情作品可能不仅改变女性言论的言外力，还可能阻止她发表自己期望的内容。戴维斯的核心例子是强奸神话的传播，可能导致在法庭交叉审讯中，女性无法表达她们的经历真相。
 
-这种言语行为理论的运用是女性主义语言哲学的首批发展之一，已经被广泛传授和研究。然而，最近，一些批判性强烈的女性主义声音开始出现。分别出现的，出于不同原因，南希·鲍尔（2015）和洛娜·芬利森（2014）都认为女性主义关于言语行为和色情的文献是非常误导的。鲍尔在几个方面提出了异议。她认为将色情视为言语是错误的，她（像上面提到的其他批评者一样）认为色情不应被视为权威。然而，她更根本的批评是，这些文献未能认真对待色情和女性受压迫的现实——未能充分涉及色情使用的现象学；未能关注更广泛文化参与压迫女性的各种方式；并且仅关注女性的言语拒绝行为，从而未能意识到性侵犯中更全面的非人性化。对于鲍尔来说，这是对分析哲学总体以及对奥斯汀广泛理解的更广泛批评的一部分。芬利森更进一步，认为并不是女性主义者误用了奥斯汀的作品，而是根本不应该使用。她认为女性主义者对言语行为理论的涉足完全是不必要的，同时也认为对色情的关注是错误的。
+这种言语行为理论的运用是女性主义语言哲学的首批发展之一，已经被广泛传授和研究。然而，最近，一些批判性强烈的女性主义声音开始出现。分别出现的，出于不同原因，南希 · 鲍尔（2015）和洛娜 · 芬利森（2014）都认为女性主义关于言语行为和色情的文献是非常误导的。鲍尔在几个方面提出了异议。她认为将色情视为言语是错误的，她（像上面提到的其他批评者一样）认为色情不应被视为权威。然而，她更根本的批评是，这些文献未能认真对待色情和女性受压迫的现实——未能充分涉及色情使用的现象学；未能关注更广泛文化参与压迫女性的各种方式；并且仅关注女性的言语拒绝行为，从而未能意识到性侵犯中更全面的非人性化。对于鲍尔来说，这是对分析哲学总体以及对奥斯汀广泛理解的更广泛批评的一部分。芬利森更进一步，认为并不是女性主义者误用了奥斯汀的作品，而是根本不应该使用。她认为女性主义者对言语行为理论的涉足完全是不必要的，同时也认为对色情的关注是错误的。
 
 但女性主义对言论理论的广泛运用也有很大的发展，并在此基础上进行了拓展和建设，将其扩展到种族主义言论等问题，以及更普遍的仇恨言论。McGowan (2009a) 论证了由色情片导致的一种不同形式的沉默存在；在她的 2009b 中，她认为言论不仅可以被视为沉默或屈从，还可以被视为压迫。此外，她认为压迫性言论很可能是一种非常普遍的现象。这些想法在 McGowan (2012)中得到进一步发展，该书以种族主义言论为重点，并在 Simpson (2013)中有所体现。Maitra (2012) 也将女性主义关于屈从性言论的观念应用于种族主义言论。Langton 还将注意力转向更广泛的仇恨言论，包括在她的 2012 年的著作中。这篇论文还因其关注语用学在塑造信念以外的态度方面的作用而引人注目。Rachel McKinney (2016) 的“被提取的言论”通过探讨言论可能被不公正地提取而不是被沉默（例如，中央公园五人案的虚假自白的典型案例）来借鉴这一文献。Rebecca Kukla 提出了“话语不公正”的概念，以讨论“处于劣势群体的成员面临的一种系统性无法产生特定类型言语行为的能力，而他们有权执行该行为”（2014: 440），这通常表现为执行与其本意不同的言语行为。尽管她借鉴了 Langton 和 Hornsby 的观点，但她放弃了他们对言语行为和言语效果的关注，而是简单地专注于执行力。Marina Sbisà (1999) 也考虑了语用学在政治中的作用（尽管与 Langton 和 Hornsby 独立发展），探讨了在政治说服中前提假设的作用。最后，Jason Stanley (2015) 在发展他对宣传的解释时，大量借鉴了 Langton 和 Hornsby 的工作（主要集中在种族主义宣传上，但不仅限于此）。
 
@@ -178,7 +178,7 @@ Haslanger 的提议引发了关于改善性方法的优点以及这一特定观�
 
 根据这一说法，在某种情境下，当个体与生物性别为女性的人足够相似时，她将被归类为“女性”的范畴，考虑到在该情境中相关的相似标准，这些标准可以因情境而异。索尔（Saul）认为，乍一看，这一观点似乎给出了正确的结果，因为在大多数情境中，它会将跨性别女性归类为女性，例如，在那些认为自我认同为女性是相关的大多数情境中，但在进一步思考后，她认为，这一观点可能会产生不良结果。例如，在一个保守社区中，大多数发言者认为跨性别女性不应被允许使用女性厕所，他们对“女性”的使用将导致跨性别女性不被归入该术语，因为在那个情境中那些保守发言者所考虑的相关相似标准似乎是拥有某些染色体或某些解剖特征，而一些跨性别女性缺乏这些特征。作为对这一担忧的回应，E. Diaz-Leon（2016）提出，我们可以以一种避免这一反对意见的方式理解情境主义观点。特别是，她认为，我们可以理解每个情境中起作用的相关相似标准为那些在该情境中最具政治用途的标准，考虑到在该情境中具有道德重要性的目标和目的。例如，在一个不允许跨性别女性使用女性厕所的保守社区中，有道德理由关注诸如自我认同为女性之类的标准，而不是拥有某些生物特征，这就是使得这一标准在该情境中相关的原因，因此也是在该情境中确定“女性”范畴的范围所必需的。
 
-贾莉亚·贝彻（2013）还提出，对“女性”一词含义的改善性解释应考虑到跨性别女性的目标。她认为，“单一含义”观点无法充分体现这些目标，这种观点认为“女性”具有一种独特含义，所有说话者都共享。相反，她提出了一个“多重含义”解释，根据这个解释，在我们的社会中，“女性”一词有几种共存的含义，但其中一些含义嵌入了不仅在道德和政治上有问题，而且在事实上是错误的世界观，比如以排斥跨性别者的方式使用“女性”。因此，我们有充分理由在言论中使用“女性”这个术语，其跨性别友好社区已经与之相关联的包容性含义。她还认为，虽然依赖直觉在方法上是有用的，“但不应该忽视跨性别亚文化中实际使用这些术语的替代方式；这种用法需要作为分析的一部分加以考虑”（2013：235）。
+贾莉亚 · 贝彻（2013）还提出，对“女性”一词含义的改善性解释应考虑到跨性别女性的目标。她认为，“单一含义”观点无法充分体现这些目标，这种观点认为“女性”具有一种独特含义，所有说话者都共享。相反，她提出了一个“多重含义”解释，根据这个解释，在我们的社会中，“女性”一词有几种共存的含义，但其中一些含义嵌入了不仅在道德和政治上有问题，而且在事实上是错误的世界观，比如以排斥跨性别者的方式使用“女性”。因此，我们有充分理由在言论中使用“女性”这个术语，其跨性别友好社区已经与之相关联的包容性含义。她还认为，虽然依赖直觉在方法上是有用的，“但不应该忽视跨性别亚文化中实际使用这些术语的替代方式；这种用法需要作为分析的一部分加以考虑”（2013：235）。
 
 最近，Katharine Jenkins（2016）提出，Haslanger 的原始提议排除了跨性别女性，这在道德和政治上是有问题的。正如 Jenkins 所主张的，那些不能被视为顺性别女性的跨性别女性（即那些出生时被指定为女性的女性）并没有因为他们被认为或想象的身体特征被假定为证明生殖中扮演女性生物角色而处于从属地位，因为他们并没有被假定为扮演女性生物角色（因为他们不能被视为顺性别女性）。因此，Haslanger 的观点无法捕捉那些跨性别女性作为女性的自我认同，以及她们因性别认同而被压迫的方式。为了解决这个问题，Jenkins 提出了一个关于性别的巧妙观点，即性别作为社会阶级和性别作为社会身份两个要素，前者类似于 Haslanger 关于性别作为社会结构的概念，后者涉及我们对自己在这些社会结构中定位的感知。在 Haslanger（2005）关于种族认同的描述之后，Jenkins 提出了一个关于性别认同的观点，即通过心智地图来引导我们在生活的社会角落中的行为、规范和期望。（有关 Jenkins 的观点不足以包容跨性别女性的批评，请参见 Andler 2017。）
 
@@ -208,48 +208,48 @@ Haslanger 的提议引发了关于改善性方法的优点以及这一特定观�
 
 ### 2.5 通用性
 
-一般性陈述是诸如“猫是毛茸茸的”或“猫有毛皮”之类的陈述，既不是普遍概括（存在无毛的猫），也不是存在性概括（所作声明明显更强）。这些陈述引发了许多难题，长期以来引起了语言学家和哲学家的兴趣。有关一般性陈述的更详细讨论，请参阅一般性条目。我们在这里关注的是最近有人提出的关于社会群体的一般性陈述的社会和政治意义，这方面已经有了大量文献。这些文献以莎拉-简·莱斯利（Leslie 2015；Wodak、Leslie 和 Rhodes 2015）的工作为出发点。这里的关键兴趣点是诸如“男孩不哭”或“女性把家庭放在事业之前”之类的例子。这些句子可以用来表达纯粹的描述性主张——例如，描述哭泣并非许多男孩所做的事情。但它们也可以用来提出关于男孩或女性应该做什么的规范性主张。Wodak、Leslie 和 Rhodes（2015）认为，“我们可以理解规范性和描述性一般性之间的差异，从一般性本身名词短语所指代的不同概念入手”（Wodak 等人 2015：629）。‘女性’可能指代一个规范性概念——一个理想，其中可能包括将家庭置于事业之上等内容；或者，它也可能指代一个描述性概念，并指代无论是否将家庭置于事业之上的女性。莱斯利将此作为解释诸如“希拉里·克林顿是奥巴马白宫唯一的男人”之类话语的基础，暗示这里的‘男人’指的是男子气概的理想。这也是一个更一般的项目的一部分，该项目旨在论证一般性话语对社会认知产生有害影响。莱斯利（即将出版）还讨论了她所称的“引人注目的属性一般性”，即将危险属性归因于泛指的群体的陈述，如“黑人是危险的”或“穆斯林是恐怖分子”。她认为，引人注目的属性一般性主张可能不需要许多实例就能被接受为真（假设还满足其他一些条件），从而使它们成为在持续和加剧偏见中起关键作用的机制。 （有关莱斯利在引人注目的属性一般性方面的一些批评，请参见即将出版的索尔和 Sterken 2015a，b。）
+一般性陈述是诸如“猫是毛茸茸的”或“猫有毛皮”之类的陈述，既不是普遍概括（存在无毛的猫），也不是存在性概括（所作声明明显更强）。这些陈述引发了许多难题，长期以来引起了语言学家和哲学家的兴趣。有关一般性陈述的更详细讨论，请参阅一般性条目。我们在这里关注的是最近有人提出的关于社会群体的一般性陈述的社会和政治意义，这方面已经有了大量文献。这些文献以莎拉-简 · 莱斯利（Leslie 2015；Wodak、Leslie 和 Rhodes 2015）的工作为出发点。这里的关键兴趣点是诸如“男孩不哭”或“女性把家庭放在事业之前”之类的例子。这些句子可以用来表达纯粹的描述性主张——例如，描述哭泣并非许多男孩所做的事情。但它们也可以用来提出关于男孩或女性应该做什么的规范性主张。Wodak、Leslie 和 Rhodes（2015）认为，“我们可以理解规范性和描述性一般性之间的差异，从一般性本身名词短语所指代的不同概念入手”（Wodak 等人 2015：629）。‘女性’可能指代一个规范性概念——一个理想，其中可能包括将家庭置于事业之上等内容；或者，它也可能指代一个描述性概念，并指代无论是否将家庭置于事业之上的女性。莱斯利将此作为解释诸如“希拉里 · 克林顿是奥巴马白宫唯一的男人”之类话语的基础，暗示这里的‘男人’指的是男子气概的理想。这也是一个更一般的项目的一部分，该项目旨在论证一般性话语对社会认知产生有害影响。莱斯利（即将出版）还讨论了她所称的“引人注目的属性一般性”，即将危险属性归因于泛指的群体的陈述，如“黑人是危险的”或“穆斯林是恐怖分子”。她认为，引人注目的属性一般性主张可能不需要许多实例就能被接受为真（假设还满足其他一些条件），从而使它们成为在持续和加剧偏见中起关键作用的机制。 （有关莱斯利在引人注目的属性一般性方面的一些批评，请参见即将出版的索尔和 Sterken 2015a，b。）
 
 Haslanger (2011)在 Leslie 的工作基础上进行了建构，认为一般性断言通常携带关于本质的会话含义，并且这些含义有助于它们作为维持不公正社会结构的意识形态的关键机制。她建议，无论它们的真值条件如何（对 Leslie 观点的一种理解会使得显著属性的一般性断言非常容易成立），我们应该通过元语言否定的机制（Horn 1985）来否定它们，这允许否定一个断言，因为它携带了一个错误的含义。通过这种方法，我们可以开始打破那些让我们受制于其控制的意识形态。（对此的批评，请参见 Saul forthcoming）。
 
 ## Bibliography
 
-* Anderson, Derek E., 2017, “Conceptual Competence Injustice”, *Social Epistemology*, 31(2): 210–223. doi:10.1080/02691728.2016.1241320
+* Anderson, Derek E., 2017, “Conceptual Competence Injustice”, *Social Epistemology*, 31(2): 210–223. doi: 10.1080/02691728.2016.1241320
 * Andler, Matthew, 2017, “Gender Identity and Exclusion: A Reply to Jenkins”, *Ethics*, 127(4): 883–895.
 * Ang, Ien, 1995, “I’m a Feminist but … ‘Other’ Women and Postnational Feminism”, in B. Caine and R. Pringle (eds.), *Transitions: New Australian Feminisms*, Sydney: Allen and Unwin, pp. 57–73.
-* Antony, Louise, 1995, “Sisters, Please, I’d Rather Do It Myself: A Defense of Individualism in Feminist Epistemology”, *Philosophical Topics*, 23(2): 59–94. doi:10.5840/philtopics19952322
-* –––, 2012, “Is There a ‘Feminist’ Philosophy of Language?” in Crasnow and Superson 2012: 245–285. doi:10.1093/acprof:oso/9780199855469.003.0011
-* Austin, J L., 1962 [1975], *How To Do Things With Words: he William James Lectures delivered at Harvard University in 1955*, second edition, J.O. Urmson and Marina Sbisà (eds), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198245537.001.0001
-* Ayala, Saray and Nadya Vasilyeva, 2015, “Extended Sex: An Account of Sex for a More Just Society”, *Hypatia*, 30(4): 725–742. doi:10.1111/hypa.12180
+* Antony, Louise, 1995, “Sisters, Please, I’d Rather Do It Myself: A Defense of Individualism in Feminist Epistemology”, *Philosophical Topics*, 23(2): 59–94. doi: 10.5840/philtopics19952322
+* –––, 2012, “Is There a ‘Feminist’ Philosophy of Language?” in Crasnow and Superson 2012: 245–285. doi: 10.1093/acprof: oso/9780199855469.003.0011
+* Austin, J L., 1962 [1975], *How To Do Things With Words: he William James Lectures delivered at Harvard University in 1955*, second edition, J.O. Urmson and Marina Sbisà (eds), Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198245537.001.0001
+* Ayala, Saray and Nadya Vasilyeva, 2015, “Extended Sex: An Account of Sex for a More Just Society”, *Hypatia*, 30(4): 725–742. doi: 10.1111/hypa.12180
 * Baker, Robert, 1992, “‘Pricks’ and ‘Chicks’: A Plea for ‘Persons’”, in Janet A. Kourany, James P. Sterba, and Rosemarie Tong (eds.), *Feminist Philosophies*, Englewood Cliffs, NJ; London: Prentice Hall, pp. 49–59.
-* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732587.001.0001
+* Barnes, Elizabeth, 2016, *The Minority Body: A Theory of Disability*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198732587.001.0001
 * Baron, Dennis E., 1986, *Grammar and Gender*, New Haven and London: Yale University Press.
 * Bauer, Nancy, 2015, *How to Do Things With Pornography*, Cambridge: Harvard University Press.
-* Beeby, Laura, 2011, “A Critique of Hermeneutical Injustice”, *Proceedings of the Aristotelian Society*, 111(3): 479–486. doi:10.1111/j.1467-9264.2011.00319.x
+* Beeby, Laura, 2011, “A Critique of Hermeneutical Injustice”, *Proceedings of the Aristotelian Society*, 111(3): 479–486. doi: 10.1111/j.1467-9264.2011.00319.x
 * Bennett, Jessica, 2016, “She? Ze? They? What’s in a Gender Pronoun”, *New York Times*, 31 January 2016, page ST2, [available online](http://www.nytimes.com/2016/01/31/fashion/pronoun-confusion-sexual-fluidity.html?_r=0)).
 * Bettcher, Talia Mae, 2013, “Trans Women and the Meaning of ‘Woman’”, in Nicholas Power, Raja Halwani, and Alan Soble (eds.), *The Philosophy of Sex*, sixth edition, Lanham, MD: Rowman & Littlefield, pp. 233–249.
-* Bianchi, Claudia, 2008, “Indexicals, Speech Acts and Pornography”, *Analysis*, 68(4): 310–316. doi:10.1093/analys/68.4.310
-* Bird, Alexander, 2002, “Illocutionary Silencing”, *Pacific Philosophical Quarterly*, 83(1): 1–15. doi:10.1111/1468-0114.00137 [[Bird 2002 preprint available online](http://eis.bris.ac.uk/~plajb/research/papers/Illocutionary_Silencing.pdf)]
+* Bianchi, Claudia, 2008, “Indexicals, Speech Acts and Pornography”, *Analysis*, 68(4): 310–316. doi: 10.1093/analys/68.4.310
+* Bird, Alexander, 2002, “Illocutionary Silencing”, *Pacific Philosophical Quarterly*, 83(1): 1–15. doi: 10.1111/1468-0114.00137 [[Bird 2002 preprint available online](http://eis.bris.ac.uk/~plajb/research/papers/Illocutionary_Silencing.pdf)]
 * Bodine, Ann, 1975 [1998], “Androcentrism in Prescriptive Grammar”, in Cameron 1998: 124–138.
-* Burgess, Alexis and David Plunkett, 2013a, “Conceptual Ethics I”, *Philosophy Compass*, 8(12): 1091–1101. doi:10.1111/phc3.12086
-* –––, 2013b, “Conceptual Ethics II”, *Philosophy Compass*, 8(12): 1102–10. doi:10.1111/phc3.12085
+* Burgess, Alexis and David Plunkett, 2013a, “Conceptual Ethics I”, *Philosophy Compass*, 8(12): 1091–1101. doi: 10.1111/phc3.12086
+* –––, 2013b, “Conceptual Ethics II”, *Philosophy Compass*, 8(12): 1102–10. doi: 10.1111/phc3.12085
 * Butler, Judith, 1997, *Excitable Speech*, NY and London: Routledge.
 * Cameron, Deborah, 1985, *Feminism and Linguistic Theory*, Basingstoke and London: MacMillan.
 * –––, 1995, *Verbal Hygiene*, London: Routledge.
 * –––, 1998a, *The Feminist Critique of Language*, second edition, London and New York: Routledge.
 * –––, 1998b, “Feminist Linguistic Theories”, in Stevi Jackson and Jackie Jones (eds.), *Contemporary Feminist Theories*, Edinburgh: Edinburgh University Press, pp. 147–161.
-* Cole, C. Maureen, Frances A. Hill, and Leland J. Dayley, 1983, “Do Masculine Pronouns Used Generically Lead to Thoughts of Men?” *Sex Roles*, 9: 737–749. doi:10.1007/BF00289802
-* Crasnow, Sharon L. and Anita M. Superson (eds.), 2012, *Out From the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199855469.001.0001
+* Cole, C. Maureen, Frances A. Hill, and Leland J. Dayley, 1983, “Do Masculine Pronouns Used Generically Lead to Thoughts of Men?” *Sex Roles*, 9: 737–749. doi: 10.1007/BF00289802
+* Crasnow, Sharon L. and Anita M. Superson (eds.), 2012, *Out From the Shadows: Analytical Feminist Contributions to Traditional Philosophy*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199855469.001.0001
 * Crenshaw, Kimberlé, 1991, “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color”, *Stanford Law Review*, 43(6): 1241–1299.
 * Crerar, Charlie, 2016, “Taboo, Hermeneutical Injustice, and Expressively Free Environments”, *Episteme*, 13(2): 195–207.
-* Daly, Helen L., 2015, “Sex, Vagueness, and the Olympics”, *Hypatia*, 30(4): 708–724. doi:10.1111/hypa.12184
+* Daly, Helen L., 2015, “Sex, Vagueness, and the Olympics”, *Hypatia*, 30(4): 708–724. doi: 10.1111/hypa.12184
 * Daly, Mary and Jane Caputi, 1987, *Websters’ First New Intergalactic Wickedary of the English Language*, Boston: Beacon Press.
 * Davies, Alex, 2016, “How to Silence Content with Porn, Context, and Loaded Questions”, *European Journal of Philosophy*, 24(2): 498–522.
-* De Gaynesford, Maximilian, 2009, “Illocutionary Acts, Subordination and Silencing”, *Analysis*, 69(3): 488–490. doi:10.1093/analys/anp068
+* De Gaynesford, Maximilian, 2009, “Illocutionary Acts, Subordination and Silencing”, *Analysis*, 69(3): 488–490. doi: 10.1093/analys/anp068
 * Dembroff, Robin A., 2016, “What is Sexual Orientation?” *Philosophers’ Imprint*, 16(3): 1–27. [[Dembroff 2016 available online](http://hdl.handle.net/2027/spo.3521354.0016.003)]
 * Dembroff, Robin, and Daniel Wodak, 2017, “The Problem with Pronouns”, [available online](https://politicalphilosopher.net/2017/06/23/featured-philosophers-robin-dembroff-daniel-wodak/).
-* Diaz-Leon, E., 2016, “*Woman* as a Politically Significant Term: A Solution to the Puzzle”, *Hypatia*, 31(2): 245–258. doi:10.1111/hypa.12234
-* Dotson, Kristie, 2012, “A Cautionary Tale: On Limiting Epistemic Oppression”, *Frontiers*, 33(1): 24–47. doi:10.5250/fronjwomestud.33.1.0024
+* Diaz-Leon, E., 2016, “*Woman* as a Politically Significant Term: A Solution to the Puzzle”, *Hypatia*, 31(2): 245–258. doi: 10.1111/hypa.12234
+* Dotson, Kristie, 2012, “A Cautionary Tale: On Limiting Epistemic Oppression”, *Frontiers*, 33(1): 24–47. doi: 10.5250/fronjwomestud.33.1.0024
 * Dworkin, Ronald, 1991, “Liberty and Pornography”, *The New York Review of Books*, August 15, 1991, 12–15.
 * –––, 1993, “Women and Pornography”, *The New York Review of Books*, October 21, 1993.
 * Ehrenreich, Barbara, 1992, “The Challenge for the Left”, in *Debating PC: The Controversy Over Political Correctness on College Campuses*, Paul Berman (ed.), NY: Laurel, pages 333–. Cited in Cameron 1995.
@@ -257,129 +257,129 @@ Haslanger (2011)在 Leslie 的工作基础上进行了建构，认为一般性�
 * Erlich, Susan and Ruth King, 1992 [1998], “Gender-Based Language Reform and the Social Construction of Meaning”, in Cameron 1998: 164–179.
 * Farley, Lin, 1978, *The Sexual Shakedown: the Sexual Harassment of Women on the Job*, New York: McGraw-Hill.
 * Fausto-Sterling, Anne, 1992, *Myths of Gender*, New York: Basic Books.
-* Finlayson, Lorna, 2014, “How to Screw Things with Words”, *Hypatia*, 29(4): 774–789. doi:10.1111/hypa.12109
-* Floridi, Luciano, 2011, “A Defence of Constructionism: Philosophy as Conceptual Engineering”, *Metaphilosophy*, 42(3): 282–304. doi:10.1111/j.1467-9973.2011.01693.x
-* French, Christopher F., 2015, “Rudolf Carnap: Philosophy of Science as Engineering Explications”, in Uskali Mäki, Ionnis Votsis, Stéphanie Ruphy, and Gerhard Schurz (eds.), *Recent Developments in Philosophy of Science: EPSA13 Helsinki*, Springer, pp. 293–303. doi:10.1007/978-3-319-23015-3_22
-* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198237907.001.0001
-* Fricker, Miranda and Jennifer Hornsby (eds.), 2000, *The Cambridge Companion to Feminism in Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521624517
+* Finlayson, Lorna, 2014, “How to Screw Things with Words”, *Hypatia*, 29(4): 774–789. doi: 10.1111/hypa.12109
+* Floridi, Luciano, 2011, “A Defence of Constructionism: Philosophy as Conceptual Engineering”, *Metaphilosophy*, 42(3): 282–304. doi: 10.1111/j.1467-9973.2011.01693.x
+* French, Christopher F., 2015, “Rudolf Carnap: Philosophy of Science as Engineering Explications”, in Uskali Mäki, Ionnis Votsis, Stéphanie Ruphy, and Gerhard Schurz (eds.), *Recent Developments in Philosophy of Science: EPSA13 Helsinki*, Springer, pp. 293–303. doi: 10.1007/978-3-319-23015-3_22
+* Fricker, Miranda, 2007, *Epistemic Injustice: Power and the Ethics of Knowing*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198237907.001.0001
+* Fricker, Miranda and Jennifer Hornsby (eds.), 2000, *The Cambridge Companion to Feminism in Philosophy*, Cambridge: Cambridge University Press. doi: 10.1017/CCOL0521624517
 * Frye, Marilyn, 1983, *The Politics of Reality: Essays in Feminist Theory, Freedom*, Trumansburg, NY: The Crossing Press.
 * Garry, Ann, and Marilyn Pearsall (eds.), 1996, *Women, Knowledge and Reality: Explorations in Feminist Philosophy*, NY and London: Routledge.
-* Gastil, John, 1990, “Generic Pronouns and Sexist Language: The Oxymoronic Character of Masculine Generics”, *Sex Roles*, 23(11): 629–643. doi:10.1007/BF00289252
-* Glasgow, Joshua, 2006, “A Third Way in the Race Debate”, *Journal of Political Philosophy*, 14(2): 163–185. doi:10.1111/j.1467-9760.2006.00238.x
+* Gastil, John, 1990, “Generic Pronouns and Sexist Language: The Oxymoronic Character of Masculine Generics”, *Sex Roles*, 23(11): 629–643. doi: 10.1007/BF00289252
+* Glasgow, Joshua, 2006, “A Third Way in the Race Debate”, *Journal of Political Philosophy*, 14(2): 163–185. doi: 10.1111/j.1467-9760.2006.00238.x
 * –––, 2009, *A Theory of Race*, London: Routledge.
 * Green, Leslie, 1998, “Pornographizing, Subordinating, Silencing”, in Robert Post (ed.), *Silencing: Practices of Cultural Regulation*, Getty Research Institute, pp. 285–311.
 * Grice, Paul, 1975 [1989], “Logic and Conversation”, in *Studies in the Way of Words*, Cambridge, MA: Harvard University Press, pp. 22–40.
-* Gross, Paul A., 1998, “Bashful Eggs, Macho Sperm, and Tonypandy”, in Noretta Koertge (ed.), *A House Built on Sand: Exposing Postmodernist Myths About Science*, New York: Oxford University Press, pp. 59–70. doi:10.1093/0195117255.003.0005
-* Grünberg, Angela, 2014, “Saying and Doing: Speech Actions, Speech Acts and Related Events”, *European Journal of Philosophy*, 22(2): 173–199. doi:10.1111/j.1468-0378.2011.00481.x
-* Haslanger, Sally, 1995, “Ontology and Social Construction”, *Philosophical Topics*, 23(2): 95–125. doi:10.5840/philtopics19952324
-* –––, 2000a, “Feminism in Metaphysics: Negotiating the Natural”, in Fricker and Hornsby 2000: 107–126. doi:10.1017/CCOL0521624517.007 [[Haslanger 1995 available from the author (PDF)](http://www.mit.edu/~shaslang/papers/HaslangerFMNN.pdf)]
-* –––, 2000b, “Gender and Race: (What) Are They? (What) Do We Want Them to Be?” *Noûs*, 34(1): 31–55. doi:10.1111/0029-4624.00201
+* Gross, Paul A., 1998, “Bashful Eggs, Macho Sperm, and Tonypandy”, in Noretta Koertge (ed.), *A House Built on Sand: Exposing Postmodernist Myths About Science*, New York: Oxford University Press, pp. 59–70. doi: 10.1093/0195117255.003.0005
+* Grünberg, Angela, 2014, “Saying and Doing: Speech Actions, Speech Acts and Related Events”, *European Journal of Philosophy*, 22(2): 173–199. doi: 10.1111/j.1468-0378.2011.00481.x
+* Haslanger, Sally, 1995, “Ontology and Social Construction”, *Philosophical Topics*, 23(2): 95–125. doi: 10.5840/philtopics19952324
+* –––, 2000a, “Feminism in Metaphysics: Negotiating the Natural”, in Fricker and Hornsby 2000: 107–126. doi: 10.1017/CCOL0521624517.007 [[Haslanger 1995 available from the author (PDF)](http://www.mit.edu/~shaslang/papers/HaslangerFMNN.pdf)]
+* –––, 2000b, “Gender and Race: (What) Are They? (What) Do We Want Them to Be?” *Noûs*, 34(1): 31–55. doi: 10.1111/0029-4624.00201
 * –––, 2005, “You Mixed? Racial Identity without Racial Biology”, in Sally Haslanger and Charlotte Witt (eds.), *Adoption Matters: Philosophical and Feminist Essays*, Ithaca, NY: Cornell University Press.
-* –––, 2006, “What Good Are Our Intuitions? Philosophical Analysis and Social Kinds”, *Proceedings of the Aristotelian Society* (Sup. Vol), 80(1): 89–118. doi:10.1111/j.1467-8349.2006.00139.x
-* –––, 2011, “Ideology, Generics, and Common Ground”, in Witt 2011: 179–207. doi:10.1007/978-90-481-3783-1_11
+* –––, 2006, “What Good Are Our Intuitions? Philosophical Analysis and Social Kinds”, *Proceedings of the Aristotelian Society* (Sup. Vol), 80(1): 89–118. doi: 10.1111/j.1467-8349.2006.00139.x
+* –––, 2011, “Ideology, Generics, and Common Ground”, in Witt 2011: 179–207. doi: 10.1007/978-90-481-3783-1_11
 * –––, 2016, “Theorizing with a Purpose: The Many Kinds of Sex”, in Catherine Kendig (ed.), *Natural Kinds and Classification in Scientific Practice*, New York: Routledge.
 * Hintikka, Merrill B., and Jaakko Hintikka, 1983, “How Can Language Be Sexist?” in *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy Science*, Sandra Harding, and Merrill B. Hintikka (eds.), Dordrecht: D. Reidel, pp. 139–148.
 * Hofstadter, Douglas, 1985 [1998], “A Person Paper on Purity in Language”, in Cameron 1998: 141–148.
-* Horn, Laurence R., 1985, “Metalinguistic Negation and Pragmatic Ambiguity”, *Language*, 61(1): 121–174. doi:10.2307/413423
+* Horn, Laurence R., 1985, “Metalinguistic Negation and Pragmatic Ambiguity”, *Language*, 61(1): 121–174. doi: 10.2307/413423
 * Horn, Laurence R. and Steven R. Kleinedler, 2000, “Parasitic Reference vs. R-Based Narrowing: Lexical Pragmatics Meets He-Man”, paper presented to the Linguistic Society of America, Chicago, 6 January, [available online](http://ling.yale.edu/sites/default/files/files/horn/HornKleinedler2000_he-man.pdf).
-* Hornsby, Jennifer, 1995, “Disempowered Speech”, *Philosophical Topics*, 23(2): 127–147. doi:10.5840/philtopics199523211
-* –––, 2000, “Feminism in Philosophy of Language: Communicative Speech Acts”, in Fricker and Hornsby 2000: 87–106. doi:10.1017/CCOL0521624517.006
-* Hornsby, Jennifer and Langton, Rae, 1998, “Free Speech and Illocution”, *Legal Theory*, 4(1): 21–37. doi:10.1017/S1352325200000902
-* Hull, George, forthcoming, “Black Consciousness as Overcoming Hermeneutical Injustice”, *Journal of Applied Philosophy*, first online 22 February 2016, doi:10.1111/japp.12201
+* Hornsby, Jennifer, 1995, “Disempowered Speech”, *Philosophical Topics*, 23(2): 127–147. doi: 10.5840/philtopics199523211
+* –––, 2000, “Feminism in Philosophy of Language: Communicative Speech Acts”, in Fricker and Hornsby 2000: 87–106. doi: 10.1017/CCOL0521624517.006
+* Hornsby, Jennifer and Langton, Rae, 1998, “Free Speech and Illocution”, *Legal Theory*, 4(1): 21–37. doi: 10.1017/S1352325200000902
+* Hull, George, forthcoming, “Black Consciousness as Overcoming Hermeneutical Injustice”, *Journal of Applied Philosophy*, first online 22 February 2016, doi: 10.1111/japp.12201
 * Irigaray, Luce, 1974 [1985a], *Speculum of the Other Woman* [*Speculum de l’autre femme*], Gillian C. Gill (transl.), Ithaca, NY: Cornell University Press.
 * –––, 1977 [1985b], *This Sex Which is Not One* [*Ce sexe qui n’en est pas un*], Catherine Porter, and Carolyn Burke (transl.), Ithaca, NY: Cornell University Press
-* Jacobson, Daniel, 1995, “Freedom of Speech Acts? A Response to Langton”, *Philosophy and Public Affairs*, 24(1): 64–79. doi:10.1111/j.1088-4963.1995.tb00022.x
-* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of *Woman*”, *Ethics*, 126(2): 394–421. doi:10.1086/683535
+* Jacobson, Daniel, 1995, “Freedom of Speech Acts? A Response to Langton”, *Philosophy and Public Affairs*, 24(1): 64–79. doi: 10.1111/j.1088-4963.1995.tb00022.x
+* Jenkins, Katharine, 2016, “Amelioration and Inclusion: Gender Identity and the Concept of *Woman*”, *Ethics*, 126(2): 394–421. doi: 10.1086/683535
 * Keller, Evelyn Fox, 1985, *Reflections on Gender and Science*, New Haven: Yale University Press.
 * –––, 1996, “Feminism and Science”, in Keller and Longino 1996: 28–40.
 * Keller, Evelyn Fox and Helen Longino (eds.), 1996, *Feminism and Science*, Oxford: Oxford University Press.
 * Kripke, Saul, 1972, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
-* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi:10.1111/j.1527-2001.2012.01316.x
+* Kukla, Rebecca, 2014, “Performative Force, Convention, and Discursive Injustice”, *Hypatia*, 29(2): 440–457. doi: 10.1111/j.1527-2001.2012.01316.x
 * Lakoff, Robin, 1975, *Language and Women’s Place*, New York: Harper & Row.
-* Langton, Rae, 1993, “Speech Acts and Unspeakable Acts”, *Philosophy and Public Affairs*, 22(4): 293–330. Reprinted with minor changes in Langton 2009d: 25–64. doi:10.1093/acprof:oso/9780199247066.003.0002
-* –––, 2009a, “Dangerous Confusion? Response to Ronald Dworkin”, in Langton 2009d: 65–74. doi:10.1093/acprof:oso/9780199247066.003.0003
-* –––, 2009b, “Pornography’s Authority? Response to Leslie Green”, in Langton 2009d: 89–99. doi:10.1093/acprof:oso/9780199247066.003.0005
-* –––, 2009c, “Pornography’s Divine Command? Response to Judith Butler”, in Langton 2009d: 103–110. doi:10.1093/acprof:oso/9780199247066.003.0006
-* –––, 2009d, *Sexual Solipsism: Philosophical Essays on Pornography and Objectification*, Oxford University Press. doi:10.1093/acprof:oso/9780199247066.001.0001
-* –––, 2012, “Beyond Belief: Pragmatics in Hate Speech and Pornography”, in Maitra and McGowan 2012: 72–93. doi:10.1093/acprof:oso/9780199236282.003.0004
-* Langton, Rae, and Caroline West, 1999, “Scorekeeping in a Pornographic Language Game”, *Australasian Journal of Philosophy*, 77(3): 303–319. doi:10.1080/00048409912349061
+* Langton, Rae, 1993, “Speech Acts and Unspeakable Acts”, *Philosophy and Public Affairs*, 22(4): 293–330. Reprinted with minor changes in Langton 2009d: 25–64. doi: 10.1093/acprof: oso/9780199247066.003.0002
+* –––, 2009a, “Dangerous Confusion? Response to Ronald Dworkin”, in Langton 2009d: 65–74. doi: 10.1093/acprof: oso/9780199247066.003.0003
+* –––, 2009b, “Pornography’s Authority? Response to Leslie Green”, in Langton 2009d: 89–99. doi: 10.1093/acprof: oso/9780199247066.003.0005
+* –––, 2009c, “Pornography’s Divine Command? Response to Judith Butler”, in Langton 2009d: 103–110. doi: 10.1093/acprof: oso/9780199247066.003.0006
+* –––, 2009d, *Sexual Solipsism: Philosophical Essays on Pornography and Objectification*, Oxford University Press. doi: 10.1093/acprof: oso/9780199247066.001.0001
+* –––, 2012, “Beyond Belief: Pragmatics in Hate Speech and Pornography”, in Maitra and McGowan 2012: 72–93. doi: 10.1093/acprof: oso/9780199236282.003.0004
+* Langton, Rae, and Caroline West, 1999, “Scorekeeping in a Pornographic Language Game”, *Australasian Journal of Philosophy*, 77(3): 303–319. doi: 10.1080/00048409912349061
 * Le Dœuff, Michèle, 1980 [1990], *The Philosophical Imaginary* (*Recherches sur l’imaginaire philosophique*), Colin Gordon (transl.), Stanford: Stanford University Press.
-* Leslie, Sarah-Jane, 2015, “‘Hillary Clinton is the Only Man in the Obama Administration’: Dual Character Concepts, Generics, and Gender”, *Analytic Philosophy*, 56: 111–141. doi:10.1111/phib.12063
+* Leslie, Sarah-Jane, 2015, “‘Hillary Clinton is the Only Man in the Obama Administration’: Dual Character Concepts, Generics, and Gender”, *Analytic Philosophy*, 56: 111–141. doi: 10.1111/phib.12063
 * –––, forthcoming, “The Original Sin of Cognition: Fear, Prejudice, and Generalization”, *Journal of Philosophy*.
 * Levin, Michael, 1977 [1981], “Vs Ms.”, in Vetterling-Braggin 1981: 217–222.
 * Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
 * Lloyd, Genevieve, 1984, *The Man of Reason: ‘Male’ and ‘Female’ in Western Philosophy*, Minneapolis: University of Minnesota Press.
 * Lorde, Audre, 1983, “The Master’s Tools Will Never Dismantle the Master’s House”, in C. Moraga and F. Anzaldúa (eds.), *This Bridge Called My Back: Writings by Radical Women of Colour*, New York: Kitchen Table Press, pp. 94–101.
-* Lugones, María and Elizabeth Spelman, 1983, “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism, and the Demand for ‘The Woman’s Voice’”, *Women’s Studies International Forum*, 6(6): 573–581. doi:10.1016/0277-5395(83)90019-5
+* Lugones, María and Elizabeth Spelman, 1983, “Have We Got a Theory for You! Feminist Theory, Cultural Imperialism, and the Demand for ‘The Woman’s Voice’”, *Women’s Studies International Forum*, 6(6): 573–581. doi: 10.1016/0277-5395(83)90019-5
 * MacKinnon, Catharine A., 1989, *Toward a Feminist Theory of the State*, Cambridge, MA: Harvard University Press.
 * –––, 1993, *Only Words*, Cambridge, MA: Harvard University Press.
-* Maitra, Ishani, 2009, “Silencing Speech”, *Canadian Journal of Philosophy*, 39(2): 309–338. doi:10.1353/cjp.0.0050
-* –––, 2012, “Subordinating Speech”, in Maitra and McGowan 2012: 94–120. doi:10.1093/acprof:oso/9780199236282.003.0005
-* Maitra, Ishani and Mary Kate McGowan, 2010, “On Silencing, Rape, and Responsibility”, *Australasian Journal of Philosophy*, 88(1): 167–172. doi:10.1080/00048400902941331
-* ––– (eds.), 2012, *Speech and Harm: Controversies Over Free Speech*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199236282.001.0001
-* Mallon, Ron, 2006, “‘Race’: Normative, Not Metaphysical or Semantic”, *Ethics*, 116(3): 525–51. doi:10.1086/500495
+* Maitra, Ishani, 2009, “Silencing Speech”, *Canadian Journal of Philosophy*, 39(2): 309–338. doi: 10.1353/cjp.0.0050
+* –––, 2012, “Subordinating Speech”, in Maitra and McGowan 2012: 94–120. doi: 10.1093/acprof: oso/9780199236282.003.0005
+* Maitra, Ishani and Mary Kate McGowan, 2010, “On Silencing, Rape, and Responsibility”, *Australasian Journal of Philosophy*, 88(1): 167–172. doi: 10.1080/00048400902941331
+* ––– (eds.), 2012, *Speech and Harm: Controversies Over Free Speech*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199236282.001.0001
+* Mallon, Ron, 2006, “‘Race’: Normative, Not Metaphysical or Semantic”, *Ethics*, 116(3): 525–51. doi: 10.1086/500495
 * Martin, Emily, 1991 [1996], “The Egg and the Sperm: How Science has Constructed a Romance Based on Stereotypical Male-Female Roles”, in Keller and Longino 1996: 103–117.
-* Martyna, Wendy, 1978, “What Does ‘He’ Mean? Use of the Generic Masculine” *Journal of Communication*, 28(1): 131–138. doi:10.1111/j.1460-2466.1978.tb01576.x
-* Mason, Rebecca, 2011, “Two Kinds of Unknowing”, *Hypatia*, 26(2): 294–307. doi:10.1111/j.1527-2001.2011.01175.x
-* McGowan, Mary Kate, 2003, “Conversational Exercitives and the Force of Pornography”, *Philosophy and Public Affairs*, 31(2): 155–189. doi:10.1111/j.1088-4963.2003.00155.x
-* –––, 2009a, “On Silencing and Sexual Refusal”, *Journal of Political Philosophy*, 17(4): 487–494. doi:10.1111/j.1467-9760.2009.00346.x
-* –––, 2009b, “Oppressive Speech”, *Australasian Journal of Philosophy*, 87(3): 389–407. doi:10.1080/00048400802370334
-* –––, 2012, “On ‘Whites Only’ Signs and Racist Hate Speech: Verbal Acts of Racial Discrimination”, in Maitra and McGowan 2012: 121–147. doi:10.1093/acprof:oso/9780199236282.003.0006
-* McGowan, Mary Kate, Alexandra Adelman, Sara Helmers, and Jacqueline Stolzenberg, 2010, “A Partial Defense of Illocutionary Silencing”, *Hypatia*, 26(1): 132–149. doi:10.1111/j.1527-2001.2010.01122.x
-* McKinney, Rachel Ann, 2016. “Extracted Speech”, *Social Theory and Practice*, 42(2): 258–284. doi:10.5840/soctheorpract201642215
-* McKitrick, Jennifer, 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172(10): 2575–2589. doi:10.1007/s11098-014-0425-6
-* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppressions, Epistemic Injustice, and Social Imaginations*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199929023.001.0001
-* Mercier, Adèle, 1995, “A Perverse Case of the Contingent A Priori: On the Logic of Emasculating Language (A Reply to Dawkins and Dummett)”, *Philosophical Topics*, 23(2): 221–259. doi:10.5840/philtopics199523212
-* Mikkola, Mari, 2008, “Contexts and Pornography”, *Analysis*, 68(4): 316–320. doi:10.1093/analys/68.4.316
-* –––, 2011a, “Illocution, Silencing and the Act of Refusal”, *Pacific Philosophical Quarterly*, 92(3): 415–437. doi:10.1111/j.1468-0114.2011.01404.x
-* –––, 2011b, “Ontological Commitments, Sex and Gender”, in Witt 2011: 67–83. doi:10.1007/978-90-481-3783-1_5
+* Martyna, Wendy, 1978, “What Does ‘He’ Mean? Use of the Generic Masculine” *Journal of Communication*, 28(1): 131–138. doi: 10.1111/j.1460-2466.1978.tb01576.x
+* Mason, Rebecca, 2011, “Two Kinds of Unknowing”, *Hypatia*, 26(2): 294–307. doi: 10.1111/j.1527-2001.2011.01175.x
+* McGowan, Mary Kate, 2003, “Conversational Exercitives and the Force of Pornography”, *Philosophy and Public Affairs*, 31(2): 155–189. doi: 10.1111/j.1088-4963.2003.00155.x
+* –––, 2009a, “On Silencing and Sexual Refusal”, *Journal of Political Philosophy*, 17(4): 487–494. doi: 10.1111/j.1467-9760.2009.00346.x
+* –––, 2009b, “Oppressive Speech”, *Australasian Journal of Philosophy*, 87(3): 389–407. doi: 10.1080/00048400802370334
+* –––, 2012, “On ‘Whites Only’ Signs and Racist Hate Speech: Verbal Acts of Racial Discrimination”, in Maitra and McGowan 2012: 121–147. doi: 10.1093/acprof: oso/9780199236282.003.0006
+* McGowan, Mary Kate, Alexandra Adelman, Sara Helmers, and Jacqueline Stolzenberg, 2010, “A Partial Defense of Illocutionary Silencing”, *Hypatia*, 26(1): 132–149. doi: 10.1111/j.1527-2001.2010.01122.x
+* McKinney, Rachel Ann, 2016. “Extracted Speech”, *Social Theory and Practice*, 42(2): 258–284. doi: 10.5840/soctheorpract201642215
+* McKitrick, Jennifer, 2015, “A Dispositional Account of Gender”, *Philosophical Studies*, 172(10): 2575–2589. doi: 10.1007/s11098-014-0425-6
+* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppressions, Epistemic Injustice, and Social Imaginations*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199929023.001.0001
+* Mercier, Adèle, 1995, “A Perverse Case of the Contingent A Priori: On the Logic of Emasculating Language (A Reply to Dawkins and Dummett)”, *Philosophical Topics*, 23(2): 221–259. doi: 10.5840/philtopics199523212
+* Mikkola, Mari, 2008, “Contexts and Pornography”, *Analysis*, 68(4): 316–320. doi: 10.1093/analys/68.4.316
+* –––, 2011a, “Illocution, Silencing and the Act of Refusal”, *Pacific Philosophical Quarterly*, 92(3): 415–437. doi: 10.1111/j.1468-0114.2011.01404.x
+* –––, 2011b, “Ontological Commitments, Sex and Gender”, in Witt 2011: 67–83. doi: 10.1007/978-90-481-3783-1_5
 * Miller, Casey and Kate Swift, 1976, *Words and Women: New Language in New Times*, Garden City, NY: Anchor Presss/Doubleday.
 * –––, 1980, *The Handbook of Nonsexist Writing*, London: Women’s Press.
 * Moody-Adams, Michele, 1991, “Gender and the Complexity of Moral Voices”, in Claudia Card (ed.), *Feminist Ethics*, Lawrence: University of Kansas Press, pp. 195–212.
 * Moulton, Janice, 1981a, “The Myth of the Neutral ‘Man’”, in Vetterling-Braggin 1981: 100–115.
 * –––, 1981b, “Sex and Reference”, in Vetterling-Braggin 1981: 183–193.
-* Moulton, Janice, George M. Robinson, and Cherin Elias, 1978, “Sex Bias in Language Use: ‘Neutral’ Pronouns That Aren’t”, *American Psychologist*, 33(11): 1032–1036. doi:10.1037/0003-066X.33.11.1032
+* Moulton, Janice, George M. Robinson, and Cherin Elias, 1978, “Sex Bias in Language Use: ‘Neutral’ Pronouns That Aren’t”, *American Psychologist*, 33(11): 1032–1036. doi: 10.1037/0003-066X.33.11.1032
 * Nye, Andrea, 1990, *Words of Power: A Feminist Reading of the History of Logic*, New York, NY: Routledge.
-* –––, 1992, “Frege’s Metaphors”, *Hypatia*, 7(2): 18–39. doi:10.1111/j.1527-2001.1992.tb00883.x
+* –––, 1992, “Frege’s Metaphors”, *Hypatia*, 7(2): 18–39. doi: 10.1111/j.1527-2001.1992.tb00883.x
 * –––, 1996, “The Voice of the Serpent: French Feminism and Philosophy of Language”, in Garry, and Pearsall 1996: 323–338.
 * –––, 1998, “Semantics in a New Key”, in Janet A. Kourany (ed.), *Philosophy in a Feminist Voice*, Princeton, NJ: Princeton University Press.
 * Penelope, Julia, 1990, *Speaking Freely: Unlearning the Lies of the Fathers’ Tongues*, New York, NY: Pergamon.
-* Plunkett, David, 2015, “Which Concepts Should We Use?: Metalinguistic Negotiations and the Methodology of Philosophy”, *Inquiry*, 58(7–8): 828–874. doi:10.1080/0020174X.2015.1080184
-* Pohlhaus, Gaile Jr., 2012, “Relational Knowing and Epistemic Injustice: Toward a Theory of *Willful Hermeneutical Ignorance*”, *Hypatia*, 27(4): 715–35. doi:10.1111/j.1527-2001.2011.01222.x
+* Plunkett, David, 2015, “Which Concepts Should We Use?: Metalinguistic Negotiations and the Methodology of Philosophy”, *Inquiry*, 58(7–8): 828–874. doi: 10.1080/0020174X.2015.1080184
+* Pohlhaus, Gaile Jr., 2012, “Relational Knowing and Epistemic Injustice: Toward a Theory of *Willful Hermeneutical Ignorance*”, *Hypatia*, 27(4): 715–35. doi: 10.1111/j.1527-2001.2011.01222.x
 * Purdy, Laura, 1981, “Against ‘Vs. Ms.’”, in Vetterling-Braggin 1981: 223–228.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, in his *Mind, Language, and Reality*, Cambridge: Cambridge University Press, pp. 215–271. doi:10.1017/CBO9780511625251.014
-* Romdenh-Romluc, Komarine, 2016, “Hermeneutical Injustice: Blood-Sports and the English Defence League”, *Social Epistemology*, 30(5–6): 592–610. doi:10.1080/02691728.2016.1172363
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, in his *Mind, Language, and Reality*, Cambridge: Cambridge University Press, pp. 215–271. doi: 10.1017/CBO9780511625251.014
+* Romdenh-Romluc, Komarine, 2016, “Hermeneutical Injustice: Blood-Sports and the English Defence League”, *Social Epistemology*, 30(5–6): 592–610. doi: 10.1080/02691728.2016.1172363
 * Sapir, Edward, 1929, “The Status of Linguistics as a Science”, *Language*, 5: 207–214.
-* Saul, Jennifer Mather, 2002, “Speaker Meaning, What is Said, and What is Implicated”, *Noûs*, 36(2): 228–248. doi:10.1111/1468-0068.00369
+* Saul, Jennifer Mather, 2002, “Speaker Meaning, What is Said, and What is Implicated”, *Noûs*, 36(2): 228–248. doi: 10.1111/1468-0068.00369
 * –––, 2003, “Feminism and Language Change”, in *Feminism: Issues & Arguments*, Oxford: Oxford University Press, pp. 170–198.
-* –––, 2006a, “Pornography, Speech Acts and Context”, *Proceedings of the Aristotelian Society*, 106(2): 61–80. doi:10.1111/j.1467-9264.2006.00146.x
-* –––, 2006b, “Philosophical Analysis and Social Kinds: Gender and Race”, *Proceedings of the Aristotelian Society* (Sup. Vol.), 80(1): 119–143. doi:10.1111/j.1467-8349.2006.00140.x
-* –––, 2012, “Politically Significant Terms and Philosophy of Language: Methodological Issues”, in Crasnow and Superson 2012: 195–216. doi:10.1093/acprof:oso/9780199855469.003.0009
-* –––, forthcoming, “Are Generics Especially Pernicious?”, *Inquiry*, first online 13 February 2017. doi:10.1080/0020174X.2017.1285995.
+* –––, 2006a, “Pornography, Speech Acts and Context”, *Proceedings of the Aristotelian Society*, 106(2): 61–80. doi: 10.1111/j.1467-9264.2006.00146.x
+* –––, 2006b, “Philosophical Analysis and Social Kinds: Gender and Race”, *Proceedings of the Aristotelian Society* (Sup. Vol.), 80(1): 119–143. doi: 10.1111/j.1467-8349.2006.00140.x
+* –––, 2012, “Politically Significant Terms and Philosophy of Language: Methodological Issues”, in Crasnow and Superson 2012: 195–216. doi: 10.1093/acprof: oso/9780199855469.003.0009
+* –––, forthcoming, “Are Generics Especially Pernicious?”, *Inquiry*, first online 13 February 2017. doi: 10.1080/0020174X.2017.1285995.
 * Sbisà, Marina, 1999, “Ideology and the Persuasive Use of Presupposition”, in J. Verschueren (ed.), *Language and Ideology. Selected Papers from the 6th International Pragmatics Conference, Vol. 1*. Antwerp: International Pragmatics Association, pp. 492–509.
-* Simpson, Robert Mark, 2013, “Un-ringing the Bell: McGowan on Oppressive Speech and the Asymmetric Pliability of Conversations”, *Australasian Journal of Philosophy*, 91(3): 555–575. doi:10.1080/00048402.2012.704053
+* Simpson, Robert Mark, 2013, “Un-ringing the Bell: McGowan on Oppressive Speech and the Asymmetric Pliability of Conversations”, *Australasian Journal of Philosophy*, 91(3): 555–575. doi: 10.1080/00048402.2012.704053
 * Soble, Alan, 1981, “Beyond the Miserable Vision of ‘Vs. Ms.’”, in Vetterling-Braggin 1981: 229–48.
 * Spelman, Elizabeth V., 1988, *Inessential Woman*, Boston: Beacon Press.
 * Spender, Dale, 1980 [1985], *Man Made Language*, second edition, New York: Routledge.
 * Stanley, Julia P., 1977, “Gender-Marking in American English”, in Alleen Pace Nilsen, Haig Bosmajian, H. Lee Gershuny, and Julia P. Stanley (eds.), *Sexism and Language*, Urbana, IL: NCTE, pp. 44–76.
 * Stanley, Jason, 2016, *How Propaganda Works*, Princeton: Princeton University Press.
-* Stericker, Anne, 1981, “Does This ‘He’ or ‘She’ Business Really Make a Difference? The Effects of Masculine Pronouns as Generics on Job Attitudes”, *Sex Roles*, 7(6): 637–641. doi:10.1007/BF00291751
-* Sterken, Rachel Katharine, 2015a, “Leslie on Generics”, *Philosophical Studies*, 172(9): 2493–2512. doi:10.1007/s11098-014-0429-2
-* –––, 2015b, “Generics, Content and Cognitive Bias”, *Analytic Philosophy*, 56(1): 75–93. doi:10.1111/phib.12056
+* Stericker, Anne, 1981, “Does This ‘He’ or ‘She’ Business Really Make a Difference? The Effects of Masculine Pronouns as Generics on Job Attitudes”, *Sex Roles*, 7(6): 637–641. doi: 10.1007/BF00291751
+* Sterken, Rachel Katharine, 2015a, “Leslie on Generics”, *Philosophical Studies*, 172(9): 2493–2512. doi: 10.1007/s11098-014-0429-2
+* –––, 2015b, “Generics, Content and Cognitive Bias”, *Analytic Philosophy*, 56(1): 75–93. doi: 10.1111/phib.12056
 * Strunk, William and E.B. White, 1979, *The Elements of Style*, third edition, New York: MacMillan.
 * Tanesini, Alessandra, 1996, “Whose Language?” in Garry and Pearsall 1996: 353–366.
 * Tarski, Alfred, 1956, “The Concept of Truth in Formalized Languages”, in his *Logic, Semantics, Metamathematics*, Oxford: Clarendon Press, pp. 152–278.
 * Thomason, Richmond H., (ed.), 1974, *Formal Philosophy: Selected Papers of Richard Montague*, New Haven, CT: Yale University Press.
-* Tirrell, Lynne, 1993, “Definition and Power: Toward Authority without Privilege”, *Hypatia*, 8(4): 1–34. doi:10.1111/j.1527-2001.1993.tb00273.x
+* Tirrell, Lynne, 1993, “Definition and Power: Toward Authority without Privilege”, *Hypatia*, 8(4): 1–34. doi: 10.1111/j.1527-2001.1993.tb00273.x
 * –––, 1999, “Pornographic Subordination: How Pornography Silences Women”, in Claudia Card, (ed.) *On Feminist Ethics and Politics*, Lawrence: University of Kansas Press.
 * Vetterling-Braggin, Mary (ed.), 1981, *Sexist Language: A Modern Philosophical Analysis*, Totowa, NJ: Littlefield and Adams.
-* West, Caroline, 2003, “The Free Speech Argument Against Pornography”, *Canadian Journal of Philosophy*, 33(3): 391–422. doi:10.1080/00455091.2003.10716549
-* Wieland, Nellie, 2007, “Linguistic Authority and Convention in a Speech Act Analysis of Pornography”, *Australsian Journal of Philosophy*, 85(3): 435–456. doi:10.1080/00048400701572196
-* Witt, Charlotte (ed.), 2011, *Feminist Metaphysics*, Dordrecht: Springer Verlag. doi:10.1007/978-90-481-3783-1
+* West, Caroline, 2003, “The Free Speech Argument Against Pornography”, *Canadian Journal of Philosophy*, 33(3): 391–422. doi: 10.1080/00455091.2003.10716549
+* Wieland, Nellie, 2007, “Linguistic Authority and Convention in a Speech Act Analysis of Pornography”, *Australsian Journal of Philosophy*, 85(3): 435–456. doi: 10.1080/00048400701572196
+* Witt, Charlotte (ed.), 2011, *Feminist Metaphysics*, Dordrecht: Springer Verlag. doi: 10.1007/978-90-481-3783-1
 * Whorf, Benjamin Lee, 1956, *Language, Thought and Reality*, J. Carroll (ed.), Cambridge, MA: MIT Press.
-* Wilson, Elizabeth, and Sik Hung Ng, 1988, “Sex Bias in Visual Images Evoked by Generics: A New Zealand Study”, *Sex Roles*, 18(3/4): 159–168. doi:10.1007/BF00287786
-* Wodak, Daniel, Sarah-Jane Leslie, and Marjorie Rhodes, 2015, “What a Loaded Generalization: Generics and Social Cognition”, *Philosophy Compass*, 10(9): 625–635. doi:10.1111/phc3.12250
-* Wyatt, Nicole, 2009, “Failing to do Things with Words”, *Southwest Philosophy Review*, 25(1): 135–142. doi:10.5840/swphilreview200925114
+* Wilson, Elizabeth, and Sik Hung Ng, 1988, “Sex Bias in Visual Images Evoked by Generics: A New Zealand Study”, *Sex Roles*, 18(3/4): 159–168. doi: 10.1007/BF00287786
+* Wodak, Daniel, Sarah-Jane Leslie, and Marjorie Rhodes, 2015, “What a Loaded Generalization: Generics and Social Cognition”, *Philosophy Compass*, 10(9): 625–635. doi: 10.1111/phc3.12250
+* Wyatt, Nicole, 2009, “Failing to do Things with Words”, *Southwest Philosophy Review*, 25(1): 135–142. doi: 10.5840/swphilreview200925114
 
 ## Academic Tools
 

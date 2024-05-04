@@ -1,8 +1,8 @@
-# 托马斯·阿奎那 Aquinas, Thomas (Robert Pasnau)
+# 托马斯 · 阿奎那 Aquinas, Thomas (Robert Pasnau)
 
 *首次发表于 2022 年 12 月 7 日*
 
-在古代和现代之间，托马斯·阿奎那（约 1225-1274 年）矗立着。作为 13 世纪欧洲两个最重要的科学领域哲学和神学的最伟大的人物，他是新成立的大学的学院派方法的典范。像但丁或米开朗基罗一样，阿奎那从古代，尤其是亚里士多德那里汲取灵感，并创造了全新的东西。从神学的角度来看，阿奎那经常被视为基督教传统的顶峰，这一传统可以追溯到奥古斯丁和早期教会。从哲学家的角度来看，他是现代思想的基石人物。他对亚里士多德主义的系统重塑改变了西方哲学，并在后来的中世纪和现代哲学家之间引发了无数的阐述和争论。
+在古代和现代之间，托马斯 · 阿奎那（约 1225-1274 年）矗立着。作为 13 世纪欧洲两个最重要的科学领域哲学和神学的最伟大的人物，他是新成立的大学的学院派方法的典范。像但丁或米开朗基罗一样，阿奎那从古代，尤其是亚里士多德那里汲取灵感，并创造了全新的东西。从神学的角度来看，阿奎那经常被视为基督教传统的顶峰，这一传统可以追溯到奥古斯丁和早期教会。从哲学家的角度来看，他是现代思想的基石人物。他对亚里士多德主义的系统重塑改变了西方哲学，并在后来的中世纪和现代哲学家之间引发了无数的阐述和争论。
 
 ---
 
@@ -10,11 +10,11 @@
 
 ### 1.1 生平
 
-托马斯·阿奎那出生在罗马和那不勒斯之间的阿奎诺附近，大约在 1225 年左右。他是至少九个孩子中最小的一个，出生在一个富裕的家庭中，该家族在罗卡塞卡拥有一座著名的城堡。作为那不勒斯的一名十几岁的学生，他受到了多明我会的影响，这是一个新成立的致力于传教和学习的神职人员团体。他在 19 岁时加入了该团体，并被派往巴黎继续学习，但他的计划被他的父母的顽固态度所延误，他们希望他能在蒙特卡西诺修道院发挥重要作用，这是他小时候学习过的地方。在被限制在罗卡塞卡一年后，他的父母屈服了，托马斯作为多明我会修士前往巴黎。
+托马斯 · 阿奎那出生在罗马和那不勒斯之间的阿奎诺附近，大约在 1225 年左右。他是至少九个孩子中最小的一个，出生在一个富裕的家庭中，该家族在罗卡塞卡拥有一座著名的城堡。作为那不勒斯的一名十几岁的学生，他受到了多明我会的影响，这是一个新成立的致力于传教和学习的神职人员团体。他在 19 岁时加入了该团体，并被派往巴黎继续学习，但他的计划被他的父母的顽固态度所延误，他们希望他能在蒙特卡西诺修道院发挥重要作用，这是他小时候学习过的地方。在被限制在罗卡塞卡一年后，他的父母屈服了，托马斯作为多明我会修士前往巴黎。
 
 托马斯在巴黎度过了三年的时间，学习哲学，然后在 1248 年被派往科隆，由大阿尔伯特监督。这位年长的多明我会修士被证明是理想的导师。阿尔伯特当时是新兴的将基督教神学与希腊和阿拉伯哲学融合的主要人物。他对当时的科学有着全面的了解，这得益于亚里士多德著作在拉丁语翻译中的新可获得性。阿尔伯特坚信，这也成为了阿奎那自己的信念，基督教信仰只有通过与哲学和科学的深入接触才能受益。
 
-托马斯显然在阿尔伯特的影响下蓬勃发展，因为在 1252 年，当阿尔伯特被要求提名一名学生在巴黎大学攻读高级神学学位时，他选择了托马斯，尽管他比最低年龄要求还小两岁。在担任神学学士四年后，讲授圣经和彼得·伦巴德的《句子》课程后，阿奎那获得了博士学位，并立即被任命为神学硕士，再次比法规规定的年龄要早。从 1256 年到 1259 年，他在巴黎担任多明我会神学讲座，讲道，讲授圣经，并主持各种哲学和神学争论。
+托马斯显然在阿尔伯特的影响下蓬勃发展，因为在 1252 年，当阿尔伯特被要求提名一名学生在巴黎大学攻读高级神学学位时，他选择了托马斯，尽管他比最低年龄要求还小两岁。在担任神学学士四年后，讲授圣经和彼得 · 伦巴德的《句子》课程后，阿奎那获得了博士学位，并立即被任命为神学硕士，再次比法规规定的年龄要早。从 1256 年到 1259 年，他在巴黎担任多明我会神学讲座，讲道，讲授圣经，并主持各种哲学和神学争论。
 
 尽管巴黎大学的一些教授在那里教书数十年，但多明我会（以及方济各会）的惯例是通过这些职位轮换学者。因此，1259 年，阿奎那被送回意大利，在接下来的十年中在几个多明我会学院度过，首先在奥尔维耶托（在翁布里亚）然后在罗马。在这些年里，他继续讲道，讲授圣经，并进行学术争论，他还找到时间发展他最重要的两部作品，《反异教论》和《神学大全》。
 
@@ -79,7 +79,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 在这个物质领域中，所有变化的基础都是物质基质，而真正的变化通常涉及到形式的增加或减少。当例子选择得当时，这看起来很简单。如果一棵树的树枝在初秋的暴风雪下弯曲，那么树就会发生改变（偶然变化），因为它采取了新的形状（新的偶然形式），而物质实体（树本身）仍然存在。如果暴风雪实际上杀死了树，那么物质就会腐败（实质性变化），因为它失去了实质形式，即赋予物质其本质的内在原则。在这种情况下，当物质被摧毁时，阿奎那提出了一个非常令人惊讶的形而上学观点：在变化中持续存在的只有最基本的物质基质，即没有任何形式的原质。（阿奎那早期的《自然原理》总结了基本故事。有关阿奎那关于物质身体形而上学的一般讨论，请参见 Wippel 2000 年第 7-9 章，Brower 2014 年。有关在生物层面上的因果关系，请参见 Frost 2022 年。）
 
-由此产生的图像似乎假设物质的组成部分有三种基本实体：原始物质、实质形式和偶然形式。如何准确理解每个实体已经成为几个世纪以来讨论的重要议题。关于偶然形式，一个主要的难题是定义那些真正发生形式变化的情况。阿奎那显然认为，颜色和其他适当的感知对象是偶然形式。但是，他是否认为，如上述树的例子所暗示的那样，形状也是偶然形式呢？这并不完全清楚，这取决于他如何理解亚里士多德关于范畴的理论的困难问题（Wippel 2000 年第 7 章；Pasnau 2011 年第 12 章）。关于实质形式，由于对物质的确切定义不清楚，存在类似的问题（Pasnau 2002 年第 3 章；Rota 2004 年；Marmodoro 和 Page 2016 年）。他显然认为所有的生物都是物质，尽管在这里有关于如何定义生命的起点和终点的难题（Van Dyke 2012 年；Amerini 2009 年[2013]）。当涉及到非生物的事物时，情况就更不清楚了。他显然认为像房子这样的人造物不是物质。水是一种物质，但不清楚一滩水是一个单一的物质还是一组物质。阿奎那没有详细讨论这些问题，因此学术界对他的观点没有达成共识。但是，对于他对物质的思考的一个重要指导是，它们在非常强烈的意义上具有统一性：“无论在实质上是一体的，都是绝对的一体（simpliciter）”（ST 1a2ae 17.4c）。当然，没有任何受造物具有上帝那样的统一性；上帝的完美简单性甚至排除了本质和存在的组合，而这种组合在所有受造物中都存在，甚至在非物质的天使中也存在（Wippel 2000 年第 5 章）。 物质物质是形式和物质的复合体，比天使的统一性要低。即便如此，阿奎那认为可以存在由其实质形式统一的复杂物质物质。实质形式如何实现统一？他的答案的一个重要部分是，实质形式不仅实现整个物质，而且实现每个部分：“一个不给予身体各个部分存在的整体形式，比如房屋的形式，是一种偶然形式”（ST 1a 76.8c）。
+由此产生的图像似乎假设物质的组成部分有三种基本实体：原始物质、实质形式和偶然形式。如何准确理解每个实体已经成为几个世纪以来讨论的重要议题。关于偶然形式，一个主要的难题是定义那些真正发生形式变化的情况。阿奎那显然认为，颜色和其他适当的感知对象是偶然形式。但是，他是否认为，如上述树的例子所暗示的那样，形状也是偶然形式呢？这并不完全清楚，这取决于他如何理解亚里士多德关于范畴的理论的困难问题（Wippel 2000 年第 7 章；Pasnau 2011 年第 12 章）。关于实质形式，由于对物质的确切定义不清楚，存在类似的问题（Pasnau 2002 年第 3 章；Rota 2004 年；Marmodoro 和 Page 2016 年）。他显然认为所有的生物都是物质，尽管在这里有关于如何定义生命的起点和终点的难题（Van Dyke 2012 年；Amerini 2009 年 [2013]）。当涉及到非生物的事物时，情况就更不清楚了。他显然认为像房子这样的人造物不是物质。水是一种物质，但不清楚一滩水是一个单一的物质还是一组物质。阿奎那没有详细讨论这些问题，因此学术界对他的观点没有达成共识。但是，对于他对物质的思考的一个重要指导是，它们在非常强烈的意义上具有统一性：“无论在实质上是一体的，都是绝对的一体（simpliciter）”（ST 1a2ae 17.4c）。当然，没有任何受造物具有上帝那样的统一性；上帝的完美简单性甚至排除了本质和存在的组合，而这种组合在所有受造物中都存在，甚至在非物质的天使中也存在（Wippel 2000 年第 5 章）。 物质物质是形式和物质的复合体，比天使的统一性要低。即便如此，阿奎那认为可以存在由其实质形式统一的复杂物质物质。实质形式如何实现统一？他的答案的一个重要部分是，实质形式不仅实现整个物质，而且实现每个部分：“一个不给予身体各个部分存在的整体形式，比如房屋的形式，是一种偶然形式”（ST 1a 76.8c）。
 
 实质形式既在给定时间内统一物质，又在时间上个体化物质。为了发挥这个作用，它们必须是个别的而不是普遍的。总的来说，阿奎那认为除了我们从个别事物中抽象出来的概念之外，没有形式是普遍的。在外部现实（在 re 中），“苏格拉底中没有共同之处；相反，他身上的一切都已经个体化了”（《存在与本质》3.80-2；Leftow 2003；Brower 2016）。对于形式来说，个体化的原则是物质（King 2000；Klima 2000）。然后，个体化的解释分为两个阶段：物质在开始时个体化形式，当形式首次存在于该物质中时，从那时起，形式就具有了自己的固定身份。如果它是一个实质形式，那么它随后将整个物质个体化。
 
@@ -87,7 +87,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 > 人们应该知道，有些事物可以存在，尽管它们实际上并不存在，而有些事物是真实存在的。可以存在的事物被称为潜在性，而现在存在的事物被称为实在性。
 
-他进一步将潜在性与物质联系起来，将实在性与形式联系起来，并对各种物质和形式进行了我们所期望的区分。他在这一点上还指出，存在有两种形式，而物质的存在与偶然存在是“不同的”。这表明了他对亚里士多德关于存在的多义性（或同名性）的信奉。对于物质的存在意味着与物质及其属性的偶然聚集（比如一个苍白的人）的存在是不同的。总的来说，适当存在的是物质，而“形式、属性和其他类似的东西之所以被称为存在，并不是因为它们本身存在，而是因为它们使某些东西存在”（ST 1a 45.4c）。此外，即使在物质中，上帝的存在方式也不同于创造物的存在方式，而只是类似的方式（§2）。这种否定存在的单义性在后来的中世纪作者中引起了争议（尤其是约翰·邓斯·斯科特），对其正确解释至今仍存在争议（Brower 2014；Pasnau 2018）。更为棘手的是阿奎那对原始物质的概念，他将其描述为纯粹的潜在性：“实际上的存在与物质的本质是不相容的，因为物质本质上是一个潜在的存在者”（Quodlibet III.1.1）。尽管后来的中世纪亚里士多德主义者接受了实质性变化需要有一个物质基质的观点，但几乎没有人赞同阿奎那的观点，即纯粹的潜在性，因为他们相信缺乏实在性的东西是不存在的。阅读阿奎那的人对于他自己如何能够避免这种结果存在争议（Brower 2014 ch. 5），或者也许这是他有意的结果（Pasnau 2002 ch. 1）。
+他进一步将潜在性与物质联系起来，将实在性与形式联系起来，并对各种物质和形式进行了我们所期望的区分。他在这一点上还指出，存在有两种形式，而物质的存在与偶然存在是“不同的”。这表明了他对亚里士多德关于存在的多义性（或同名性）的信奉。对于物质的存在意味着与物质及其属性的偶然聚集（比如一个苍白的人）的存在是不同的。总的来说，适当存在的是物质，而“形式、属性和其他类似的东西之所以被称为存在，并不是因为它们本身存在，而是因为它们使某些东西存在”（ST 1a 45.4c）。此外，即使在物质中，上帝的存在方式也不同于创造物的存在方式，而只是类似的方式（§2）。这种否定存在的单义性在后来的中世纪作者中引起了争议（尤其是约翰 · 邓斯 · 斯科特），对其正确解释至今仍存在争议（Brower 2014；Pasnau 2018）。更为棘手的是阿奎那对原始物质的概念，他将其描述为纯粹的潜在性：“实际上的存在与物质的本质是不相容的，因为物质本质上是一个潜在的存在者”（Quodlibet III.1.1）。尽管后来的中世纪亚里士多德主义者接受了实质性变化需要有一个物质基质的观点，但几乎没有人赞同阿奎那的观点，即纯粹的潜在性，因为他们相信缺乏实在性的东西是不存在的。阅读阿奎那的人对于他自己如何能够避免这种结果存在争议（Brower 2014 ch. 5），或者也许这是他有意的结果（Pasnau 2002 ch. 1）。
 
 ## 5. 灵魂和身体
 
@@ -113,7 +113,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 根据定义，我们所称之为动物的生物是具有感知能力的生物。阿奎那接受了传统的五种感官的列表——视觉、听觉、嗅觉、味觉、触觉，并认为我们之所以得出这个五种列表，是因为有五种离散的品质对我们的身体产生了印象。这些对象是适当的感官对象——颜色、声音、气味、味道、热冷——因为它们“主要和本质上对感官产生印象”（ST 1a 78.3 ad 2）。与此相对的是共同的感官对象——大小、形状、数量、运动、静止——它们“不是主要地和本质上移动感官，而是因为感官品质，就像表面因为它的颜色而移动”（同上）。而每个适当的感官对象只能被相应的感官感知，共同的感官对象之所以被称为共同的，是因为它们可以被多个感官抓住，就像我们既看到又听到一件事物移动一样。阿奎那在这两类感官对象之外还添加了第三类感官对象，即偶然的感官对象，比如当我看到有人活着时（Comm. de anima II.13.184–90）。然而，这不是纯粹的感官操作，而是与一个概念判断同时发生的视觉行为，即观察到的运动是生命的迹象。（有关感知过程的讨论，请参见 Pasnau 2002 年第 6 章、第 9 章；Lisska 2016 年；De Haan 2019 年；Cory 2022 年。）
 
-除了这五种外部感官之外，还有四种以大脑为器官的内部感官。在伊本·西那（Avicenna）的引领下，阿奎那非常重视这些感官力量，以解释动物的复杂行为。与外部感官数量的共识相比，关于内部感官的数量一直存在着很大的历史分歧。阿奎那确定了以下四种内部感官的列表：
+除了这五种外部感官之外，还有四种以大脑为器官的内部感官。在伊本 · 西那（Avicenna）的引领下，阿奎那非常重视这些感官力量，以解释动物的复杂行为。与外部感官数量的共识相比，关于内部感官的数量一直存在着很大的历史分歧。阿奎那确定了以下四种内部感官的列表：
 
 * 共同感官；
 * 想象力（或幻象）；
@@ -138,7 +138,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 感官，无论是外在的还是内在的，只能代表这只或那只特定的猫。需要智力才能形成抽象的猫的概念。相反，阿奎那认为人类的智力无法把握具体的事物（ST 1a 86.1）。这意味着当我们从事像理解一件事是一只猫这样的日常任务时，我们同时使用智力和感官，用感官来理解具体的事物，用智力来概念化它是什么。在我们更理论性的思考中，我们依靠内在感官来构建图像，以帮助我们进行抽象推理的过程。
 
-在《灵魂论》第三篇第五章中，阿奎那继承亚里士多德的观点，区分了两种不同的智力能力，即可能智力和行动智力。第一种智力从潜在状态开始，对所有可理解的事物都是一块“空白的板子”，“就像一块上面没有写过东西的板子”（ST 1a 79.2c），逐渐实现，吸收普遍概念，并将其作为倾向性存储在那里。但是，由于这些概念不能通过感官经验立即获得——仅仅通过观察一只猫无法理解什么是猫——还必须有一种主动的智力能力，“一种在智力方面实现可理解事物的能力，通过从物质条件中抽象出物种”（ST 1a 79.3c）。到了阿奎那的时代，几代亚里士多德学派已经就这两种能力的正确理解进行了争论，有些人将行动智力视为单一的更高心灵，与人类分离，甚至可能与上帝等同。阿奎那之前半个世纪活跃的西班牙哲学家伊本·鲁什德（阿维罗伊斯）甚至提出将可能智力视为一种单一的更高能力，每个人都可以共享。相比之下，阿奎那认为每个人都有自己的智力，行动和可能。他认为我们都共享一个行动智力是错误的，但并非不可信——这与受人尊敬的奥古斯丁主义的神圣启示教义有相似之处——但阿奎那认为阿维罗伊斯主义关于独立的可能智力的教义不仅违背信仰，而且完全荒谬，因为这将无法解释我们每个人如何能够进行个体思考的行为。正如他在《论智力的统一》一书中描述的荒谬推论：“如果我思考石头，你也这样做，那么你和我必然具有相同的智力运作”（4.101–3；参见 Ogden 2022）。
+在《灵魂论》第三篇第五章中，阿奎那继承亚里士多德的观点，区分了两种不同的智力能力，即可能智力和行动智力。第一种智力从潜在状态开始，对所有可理解的事物都是一块“空白的板子”，“就像一块上面没有写过东西的板子”（ST 1a 79.2c），逐渐实现，吸收普遍概念，并将其作为倾向性存储在那里。但是，由于这些概念不能通过感官经验立即获得——仅仅通过观察一只猫无法理解什么是猫——还必须有一种主动的智力能力，“一种在智力方面实现可理解事物的能力，通过从物质条件中抽象出物种”（ST 1a 79.3c）。到了阿奎那的时代，几代亚里士多德学派已经就这两种能力的正确理解进行了争论，有些人将行动智力视为单一的更高心灵，与人类分离，甚至可能与上帝等同。阿奎那之前半个世纪活跃的西班牙哲学家伊本 · 鲁什德（阿维罗伊斯）甚至提出将可能智力视为一种单一的更高能力，每个人都可以共享。相比之下，阿奎那认为每个人都有自己的智力，行动和可能。他认为我们都共享一个行动智力是错误的，但并非不可信——这与受人尊敬的奥古斯丁主义的神圣启示教义有相似之处——但阿奎那认为阿维罗伊斯主义关于独立的可能智力的教义不仅违背信仰，而且完全荒谬，因为这将无法解释我们每个人如何能够进行个体思考的行为。正如他在《论智力的统一》一书中描述的荒谬推论：“如果我思考石头，你也这样做，那么你和我必然具有相同的智力运作”（4.101–3；参见 Ogden 2022）。
 
 阿奎那将智力运作分为三个主要阶段：首先是概念的形成；其次是由概念构建的判断（命题）的组合；第三是从一个判断到另一个判断的推理推理。这后两个阶段是中世纪逻辑学中的研究重点，但阿奎那对逻辑学的讨论相对较少，他对概念形成的初始阶段最感兴趣。在这里，可能的智力被动地接收到代理智力从感官印象（幻象）中抽象出来的概念。可能的智力起初是一张空白的纸，也就是说，阿奎那至少在可能的智力方面否定了先天观念的理论。此外，他非常清楚地指出，我们所有的概念都来自感官经验：“我们认识的源头来自于感官”（ST 1a 84.6sc）。从这个角度来看，他更像是经验主义者而不是理性主义者。然而，代理智力的作用使情况变得复杂。虽然可能的智力起初是未形成的潜力，但代理智力具有从感官经验中抽象出普遍概念的实际性。很难说抽象是如何发生的；事实上，在整个亚里士多德传统中，代理智力一直是一个黑匣子，其运作被视为一种无法分析的事实。有时阿奎那暗示，将特定内容转化为普遍内容是通过将物质幻象转化为非物质可理解的形式进行的，但非物质性和普遍性之间的联系并不完全清楚。（关于抽象，请参见 King 1994，Cory 2015）。
 
@@ -168,9 +168,9 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 阿奎那理解的非物质人类心灵不仅仅是智力。心灵是三种离散力量的集合，即行为体和可能的智力与意愿相结合。意愿作为灵魂的一种能力的崛起是中世纪独特的观念，但在奥古斯丁和他之前的晚期斯多葛主义中有着深厚的根源。这些晚期古代的来源将欲望（appetitus）或意志（voluntas）赋予了人类行为中的重要角色，特别是那些我们认同为自己的欲望，从而引发自愿行动。在这些早期的作者中，我们的意愿被构想为我们需要控制的东西，如果我们要过上应有的生活。然而，到了阿奎那的时代，意愿（voluntas）不仅被认为是灵魂的一种力量，而且是主要控制人类行为的力量，指导我们的思想和行动。因此，虽然奥古斯丁和博伊修斯曾经思考过我们如何对意愿拥有自由选择（liberum arbitrium），但阿奎那将两者视为一体，得出结论：“意愿和自由选择不是两种力量，而是一种力量”（ST 1a 83.4c）。他并不是第一个以这种方式构想意愿的人，但他的论述的合理性和影响力确保了这一框架在后来的讨论中占主导地位。
 
-意志是我们内在的三种欲望力量之一，与易怒力量和欲望力量相区别，它不是感性欲望，也不是情感的源泉（King 1998; Miner 2009），而是理性欲望，是自愿行为的源泉。它的理性在于它与智力协调，将智力的实践判断作为其输入。由于意志的功能严格是欲望性的，它不能做出自己的实践判断，因此只能基于智力行动：“我们内在的每个选择和实际意愿都是由一个可理解的理解引起的”（SCG III.85.3）。但这绝不意味着意志受智力判断的决定，因为最终我们的意志有能力控制我们的思考内容：“意志驱动自己和所有其他能力。因为当我想要时，我就会思考，同样，我使用所有其他能力和倾向，因为我想要”（Quest. on Evil 6c）。确实，根据其本质，意志只能欲望被呈现为善的事物（ST 1a2ae 8.1）。因此，由于我们的终极幸福（beatitudo）在各个方面都是好的，“人类对幸福有一种必然的欲望”（ST 1a2ae 10.2c；见§8.1）。但是，对于任何具体的行动方案，总是可以从多个角度来判断情况，意志可以控制我们对事物的思考方式，例如我们决定关注某件事情的奖励程度还是疲劳程度。此外，即使在我们的终极幸福的情况下，意志也可以选择不去思考它，因此即使在极端情况下，意志的选择也不是必然的。基于这一点，阿奎那坚决坚持人类的选择自由，并将意志被迫的说法视为“违背信仰并颠覆所有道德哲学原则”（Quest. on Evil 6c）。
+意志是我们内在的三种欲望力量之一，与易怒力量和欲望力量相区别，它不是感性欲望，也不是情感的源泉（King 1998; Miner 2009），而是理性欲望，是自愿行为的源泉。它的理性在于它与智力协调，将智力的实践判断作为其输入。由于意志的功能严格是欲望性的，它不能做出自己的实践判断，因此只能基于智力行动：“我们内在的每个选择和实际意愿都是由一个可理解的理解引起的”（SCG III.85.3）。但这绝不意味着意志受智力判断的决定，因为最终我们的意志有能力控制我们的思考内容：“意志驱动自己和所有其他能力。因为当我想要时，我就会思考，同样，我使用所有其他能力和倾向，因为我想要”（Quest. on Evil 6c）。确实，根据其本质，意志只能欲望被呈现为善的事物（ST 1a2ae 8.1）。因此，由于我们的终极幸福（beatitudo）在各个方面都是好的，“人类对幸福有一种必然的欲望”（ST 1a2ae 10.2c；见 §8.1）。但是，对于任何具体的行动方案，总是可以从多个角度来判断情况，意志可以控制我们对事物的思考方式，例如我们决定关注某件事情的奖励程度还是疲劳程度。此外，即使在我们的终极幸福的情况下，意志也可以选择不去思考它，因此即使在极端情况下，意志的选择也不是必然的。基于这一点，阿奎那坚决坚持人类的选择自由，并将意志被迫的说法视为“违背信仰并颠覆所有道德哲学原则”（Quest. on Evil 6c）。
 
-到目前为止，阿奎那的立场相当明确。然而，几个世纪以来，关于阿奎那是否希望进一步将意愿的行为特征化为非决定性的问题一直存在争议，换句话说，即它作为自由行动的第一和未确定的原因。然而，在他去世后的几年内，即 1277 年的谴责之后，这种观点开始主导学院哲学，形成了一个广泛的共识，一直持续到 17 世纪反学院派主义的兴起。然而，阅读阿奎那的人对他在这段历史中的定位存在严重分歧。乍一看，阿奎那似乎显然是决定论的反对者，因为他坚决反对将意愿的必然性。然而，阿奎那在一个明确是决定论的统治形式下写作，这种形式源自伊本·西那和伊本·鲁什德的阿拉伯传统。总的来说，阿奎那在尽可能地将信仰与哲学主流观点协调一致，特别是在这里，他显示出支持将因果决定论应用于创造世界的迹象。因此，他将伊本·鲁什德（“评注者”）的教义归于自由选择的行动不会从“两者都开放的事物”中产生，除非它被其他事物倾向于某一方面（ST 1a 19.3 obj. 5）。当应用于上帝时，他迅速拒绝了这个原则，因为上帝能够自由地决定自己的选择。但在上帝之外的情况下，他接受了这个原则：“一个本身是偶然的原因必须被外部因素决定其效果”（同上，ad 5）。因此，他明确表示，意愿的自由并不要求它成为自己的第一原因。相反，他将意愿的运作描述为与智力的运作相互交织，通过一个行为体的历史向后运行，一个原因在另一个原因之前，一直追溯到上帝最初创造人类灵魂的时刻（关于邪恶的问题 6，ST 1a 83）。1 年后的 3 年，ST 1a2ae 9.4c)。这种对确定原因的坚持似乎与他对神圣预知的严格概念相吻合：
+到目前为止，阿奎那的立场相当明确。然而，几个世纪以来，关于阿奎那是否希望进一步将意愿的行为特征化为非决定性的问题一直存在争议，换句话说，即它作为自由行动的第一和未确定的原因。然而，在他去世后的几年内，即 1277 年的谴责之后，这种观点开始主导学院哲学，形成了一个广泛的共识，一直持续到 17 世纪反学院派主义的兴起。然而，阅读阿奎那的人对他在这段历史中的定位存在严重分歧。乍一看，阿奎那似乎显然是决定论的反对者，因为他坚决反对将意愿的必然性。然而，阿奎那在一个明确是决定论的统治形式下写作，这种形式源自伊本 · 西那和伊本 · 鲁什德的阿拉伯传统。总的来说，阿奎那在尽可能地将信仰与哲学主流观点协调一致，特别是在这里，他显示出支持将因果决定论应用于创造世界的迹象。因此，他将伊本 · 鲁什德（“评注者”）的教义归于自由选择的行动不会从“两者都开放的事物”中产生，除非它被其他事物倾向于某一方面（ST 1a 19.3 obj. 5）。当应用于上帝时，他迅速拒绝了这个原则，因为上帝能够自由地决定自己的选择。但在上帝之外的情况下，他接受了这个原则：“一个本身是偶然的原因必须被外部因素决定其效果”（同上，ad 5）。因此，他明确表示，意愿的自由并不要求它成为自己的第一原因。相反，他将意愿的运作描述为与智力的运作相互交织，通过一个行为体的历史向后运行，一个原因在另一个原因之前，一直追溯到上帝最初创造人类灵魂的时刻（关于邪恶的问题 6，ST 1a 83）。1 年后的 3 年，ST 1a2ae 9.4c)。这种对确定原因的坚持似乎与他对神圣预知的严格概念相吻合：
 
 > 凡在这里发生的事情，只要它被归结为第一个神圣原因，就会发现它是有序的，而不是偶然存在的，即使与其他原因相比，它被发现是偶然存在的。这就是为什么天主教信仰说世界上没有什么事情是无目的或偶然发生的，一切事物都受到神圣预知的支配。（Comm. Metaphys. VI.3.26；参见 Goris 1997）
 
@@ -182,7 +182,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 虽然这段话开始时似乎友好地支持因果决定论，但接下来的内容表明情况更加复杂。因为虽然上帝是我们自愿行为的第一原因，但上帝的效力与自然原因不同：上帝以某种方式对意愿产生作用，但并不剥夺其自愿性。阿奎那在解释神圣的普遍性与人类自由如何相容时也持有同样的观点。
 
-在那些认为阿奎那的上帝给人类留下了不确定性行为的空间的人中，仍然存在着根本的意见分歧。有些人（例如，斯坦普 2003 年第 9 章）认为，对于阿奎那来说，这种自由只需要意志成为一个终极来源，一个第一位有造物主的原因。其他人认为，除此之外，阿奎那还需要选择在不同可能性之间的余地（例如，霍夫曼和米雄 2017 年）。无论哪种方式，对阿奎那的自由意志解读很可能强调他的主张，即意志是自我运动者：“正如意志驱动其他能力一样，它也驱动自己”（《论邪恶问题》6c；加拉格尔 1994 年）。此外，这是一个阿奎那从他对自由选择的第一次讨论开始就一直强调的观点，在他的《句子注释》中，他认为只有那些“自己确定自己的目标和朝着那个目标行动”的存在才拥有自由选择（《句子注释》II.25.1c）。从某种意义上说，意志是自由的，因为它是自我决定的。这使它与自然的、非自愿的行为体有所区别，后者的决定来自外部。阿奎那对意志在这种自我决定中的作用的关注——这种倾向在他的后期作品中变得更加突出——使得将他纳入 13 世纪远离古代知识主义、朝向意志主义人性观念的运动是合理的。在强调意志的全面控制时，阿奎那可以借助意志的各种运作和倾向的重要性。爱的行为是任何基督教伦理学的基础。公正和慈善的倾向——哲学和神学的核心美德——都是意志的美德。但是，阿奎那是否像彼得·约翰·奥利维、亨利·根特和斯科特斯等人很快会做的那样，将意志从被认为是自然界其余部分的决定论中豁免出来，目前还不清楚。 学者们对这个问题仍存在着激烈的辩论。
+在那些认为阿奎那的上帝给人类留下了不确定性行为的空间的人中，仍然存在着根本的意见分歧。有些人（例如，斯坦普 2003 年第 9 章）认为，对于阿奎那来说，这种自由只需要意志成为一个终极来源，一个第一位有造物主的原因。其他人认为，除此之外，阿奎那还需要选择在不同可能性之间的余地（例如，霍夫曼和米雄 2017 年）。无论哪种方式，对阿奎那的自由意志解读很可能强调他的主张，即意志是自我运动者：“正如意志驱动其他能力一样，它也驱动自己”（《论邪恶问题》6c；加拉格尔 1994 年）。此外，这是一个阿奎那从他对自由选择的第一次讨论开始就一直强调的观点，在他的《句子注释》中，他认为只有那些“自己确定自己的目标和朝着那个目标行动”的存在才拥有自由选择（《句子注释》II.25.1c）。从某种意义上说，意志是自由的，因为它是自我决定的。这使它与自然的、非自愿的行为体有所区别，后者的决定来自外部。阿奎那对意志在这种自我决定中的作用的关注——这种倾向在他的后期作品中变得更加突出——使得将他纳入 13 世纪远离古代知识主义、朝向意志主义人性观念的运动是合理的。在强调意志的全面控制时，阿奎那可以借助意志的各种运作和倾向的重要性。爱的行为是任何基督教伦理学的基础。公正和慈善的倾向——哲学和神学的核心美德——都是意志的美德。但是，阿奎那是否像彼得 · 约翰 · 奥利维、亨利 · 根特和斯科特斯等人很快会做的那样，将意志从被认为是自然界其余部分的决定论中豁免出来，目前还不清楚。 学者们对这个问题仍存在着激烈的辩论。
 
 ## 8. 伦理学
 
@@ -200,7 +200,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 这个幸福主义框架——用希腊术语来描述以追求幸福为目标的伦理学理论——构成了阿奎那伦理思想的基础。这或许是他对亚里士多德主义的自信最显著的例证，将其视为基督教世界观的适当哲学基础。可预见的是，这种自信面临着各种挑战。其中之一是他坚持我们的终极目标是智性而非意志性的。对于许多后来的理论家，无论是基督教的还是世俗的，人类生活的终极目标不应该是智性思考，而应该是爱。阿奎那同意——事实上，他强调——爱是幸福的必要补充，它将我们拉向我们的目标，并在其掌握中欢欣。然而，生活的目标适当地说是理解上帝和上帝的创造（ST 1a2ae 3.4）。 （有关细致讨论，请参见 Stenberg 2016a 和 Stump 2022。）
 
-第二个问题是困扰幸福主义的一个问题，即阿奎那将伦理学的基础建立在对自己幸福的自我关注上。这似乎对于任何伦理学理论来说都是一个值得怀疑的策略，尤其是对于犹太-基督教伦理学来说，因为它具有根本上利他主义的取向，正如在“你要全心、全魂、全意爱主你的神”和“要爱人如己”（马太福音 22:37-39，引用申命记 6:5 和利未记 19:18）中所体现的。从表面上看，幸福主义的方法似乎直接与这些规定相冲突，因为它将所有人类行为的基础都归结为我们对幸福的终极追求：
+第二个问题是困扰幸福主义的一个问题，即阿奎那将伦理学的基础建立在对自己幸福的自我关注上。这似乎对于任何伦理学理论来说都是一个值得怀疑的策略，尤其是对于犹太-基督教伦理学来说，因为它具有根本上利他主义的取向，正如在“你要全心、全魂、全意爱主你的神”和“要爱人如己”（马太福音 22: 37-39，引用申命记 6: 5 和利未记 19: 18）中所体现的。从表面上看，幸福主义的方法似乎直接与这些规定相冲突，因为它将所有人类行为的基础都归结为我们对幸福的终极追求：
 
 > 意志自然倾向于其终极目标：因为每个人都自然而然地追求幸福。而这种自然的追求是所有其他追求的原因，因为人类追求的任何事物，都是为了达到一个目标。（ST 1a 60.2c）
 
@@ -233,7 +233,7 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 美德是一种特定类型的心理倾向（习性）：它们是我们自愿控制的灵魂力量的完善。阿奎那在《神学大全》的大约四分之一的篇幅中，主要是 2a2ae，致力于他的美德理论，并专门为这个主题撰写了一系列有争议的问题。他从亚里士多德那里借鉴了一个熟悉的观点，即通过重复某些类型的行为，我们获得美德（当然也包括恶习）：通过诚实行事，我们随着时间的推移获得了诚实的美德。不太熟悉的是，他对什么算作美德设立了非常高的标准：它必须不能导致不道德的行为。
 
-> 一个行为的完善需要两个条件：首先，行为必须是正确的；其次，[潜在的]倾向不能成为相反行为的源头。因为善恶行为的源头本身不能成为善行的完美源头。（《关于美德的问题》2c）
+> 一个行为的完善需要两个条件：首先，行为必须是正确的；其次，[潜在的] 倾向不能成为相反行为的源头。因为善恶行为的源头本身不能成为善行的完美源头。（《关于美德的问题》2c）
 
 这并不意味着一个具有诚实美德的人不能不诚实。正如美德可以通过实践获得，它们也可以通过错误的实践而丧失，而这种丧失必须从某个地方开始。然而，在这种情况下，不诚实不会通过美德产生。任何将拥有美德视为一种两面性的描述都未能界定真正的美德。
 
@@ -266,13 +266,13 @@ ST 中的论述故意简洁。阿奎那在前言中写道：“我们在这部�
 
 在他的一生中，阿奎那被认为是一个既在智力成就上又在个人圣洁上都非凡的人物。存世的手稿数量庞大，他的影响范围广泛，这一点可以证明第一点。至于第二点，他在福萨诺瓦纳去世后立即引起了对圣人的崇敬：立即出现了奇迹的声称，并开始了关于他的圣体遗物将被保存在何处的长期争议。这个过程在 1323 年 7 月 18 日他被封圣时达到了顶点。
 
-尽管如此，阿奎那的许多具体观点，特别是在哲学方面，都非常有争议。在 1277 年巴黎被谴责的 219 篇文章中，有相当多的文章似乎涉及到了阿奎那的教义（Hissette 1977; Wippel 1995b）。当时无人不知，这些文章是在他去世三年后的当天颁布的。巴黎当局似乎计划明确谴责阿奎那的某些核心论题，尤其是他的单一实体形式理论（§5）和他对原始物质纯粹潜能的概念（§4），直到更高层的当局中止了这个过程（Torrell 1993 [2022] ch. 16）。1277 年 3 月稍后，在牛津，大主教罗伯特·基尔沃比谴责了一系列明确包括这两个独特的阿奎那教义的论题。也在这个时候，方济各会的威廉·德·拉·马尔出版了一部长篇著作《修正者弟兄托马斯》，其中引用了阿奎那的文集，并配以所谓的“修正”。不久之后，阿奎那的各个门徒纷纷为他辩护，发表了一系列名为《修正者托马斯的修正》的著作（Glorieux 1927; Jordan 1982）。在阿奎那去世后的四分之一个世纪里，经院哲学围绕着他的多明我会支持者和他的方济各会批评者形成了。
+尽管如此，阿奎那的许多具体观点，特别是在哲学方面，都非常有争议。在 1277 年巴黎被谴责的 219 篇文章中，有相当多的文章似乎涉及到了阿奎那的教义（Hissette 1977; Wippel 1995b）。当时无人不知，这些文章是在他去世三年后的当天颁布的。巴黎当局似乎计划明确谴责阿奎那的某些核心论题，尤其是他的单一实体形式理论（§5）和他对原始物质纯粹潜能的概念（§4），直到更高层的当局中止了这个过程（Torrell 1993 [2022] ch. 16）。1277 年 3 月稍后，在牛津，大主教罗伯特 · 基尔沃比谴责了一系列明确包括这两个独特的阿奎那教义的论题。也在这个时候，方济各会的威廉 · 德 · 拉 · 马尔出版了一部长篇著作《修正者弟兄托马斯》，其中引用了阿奎那的文集，并配以所谓的“修正”。不久之后，阿奎那的各个门徒纷纷为他辩护，发表了一系列名为《修正者托马斯的修正》的著作（Glorieux 1927; Jordan 1982）。在阿奎那去世后的四分之一个世纪里，经院哲学围绕着他的多明我会支持者和他的方济各会批评者形成了。
 
-在 14 世纪初，阿奎那的影响力不得不与两位才华横溢的方济各会士竞争：首先是斯科韦和他的广泛实在论，然后是威廉·奥卡姆和他的简约名义主义。面对这些以及其他复杂的潮流，阿奎那的观点似乎变得不那么紧迫和危险。在他被封圣两年后，巴黎主教澄清说，1277 年的谴责不适用于阿奎那的教义，尽管主教明确表示这不应被视为认可。在众多新兴的对立观点中，阿奎那继续拥有他的激烈支持者，特别是在多明我会中，他们被法定要求推广他的教义。在 15 世纪初，约翰·卡普雷奥卢斯成为托马斯主义作为一种系统哲学的捍卫者，一个世纪后，卡耶坦（托马斯·德·维奥）进行了进一步的系统发展。1567 年，教皇庇护五世将阿奎那列为教会的教师之一，这个称号以前是保留给古代教父的。当耶稣会崛起时，大约在同一时间，它的成员，包括弗朗西斯科·苏亚雷斯，被命令坚持那些最安全和最可靠的观点，特别是阿奎那的观点，“因为他的权威和他更加稳固和经过认可的教义”（Pasnau 2011, 436）。
+在 14 世纪初，阿奎那的影响力不得不与两位才华横溢的方济各会士竞争：首先是斯科韦和他的广泛实在论，然后是威廉 · 奥卡姆和他的简约名义主义。面对这些以及其他复杂的潮流，阿奎那的观点似乎变得不那么紧迫和危险。在他被封圣两年后，巴黎主教澄清说，1277 年的谴责不适用于阿奎那的教义，尽管主教明确表示这不应被视为认可。在众多新兴的对立观点中，阿奎那继续拥有他的激烈支持者，特别是在多明我会中，他们被法定要求推广他的教义。在 15 世纪初，约翰 · 卡普雷奥卢斯成为托马斯主义作为一种系统哲学的捍卫者，一个世纪后，卡耶坦（托马斯 · 德 · 维奥）进行了进一步的系统发展。1567 年，教皇庇护五世将阿奎那列为教会的教师之一，这个称号以前是保留给古代教父的。当耶稣会崛起时，大约在同一时间，它的成员，包括弗朗西斯科 · 苏亚雷斯，被命令坚持那些最安全和最可靠的观点，特别是阿奎那的观点，“因为他的权威和他更加稳固和经过认可的教义”（Pasnau 2011, 436）。
 
-尽管托马斯主义逐渐在斯科拉哲学的亚里士多德主义中占据主导地位，但整个传统在进入越来越独特和巴洛克的阶段时开始显得越来越僵化。马丁·路德对罗马天主教会的敌意反映了他对斯科拉哲学和神学的敌意：“不久将没有托马斯主义者、阿尔伯特主义者、斯科特主义者或奥卡姆主义者存在于世上，而所有人都将成为上帝的简单子民和真正的基督徒”（Oberman 1966, 18–19）。意大利人文主义者从不同的角度进行了攻击，他们更看重历史学问而非复杂的形而上学。到了 17 世纪，托马斯·霍布斯和他的同时代人公开嘲笑斯科拉哲学家，称他们“在谈论无法理解的问题”（《利维坦》第八章第 27 节）。然而，直到 18 世纪，这些“现代人”才开始将托马斯主义者和其他斯科拉哲学家赶出大学。（关于阿奎那在几个世纪中的接受情况，请参见 Levering 和 Plested 2021 年的著作。）
+尽管托马斯主义逐渐在斯科拉哲学的亚里士多德主义中占据主导地位，但整个传统在进入越来越独特和巴洛克的阶段时开始显得越来越僵化。马丁 · 路德对罗马天主教会的敌意反映了他对斯科拉哲学和神学的敌意：“不久将没有托马斯主义者、阿尔伯特主义者、斯科特主义者或奥卡姆主义者存在于世上，而所有人都将成为上帝的简单子民和真正的基督徒”（Oberman 1966, 18–19）。意大利人文主义者从不同的角度进行了攻击，他们更看重历史学问而非复杂的形而上学。到了 17 世纪，托马斯 · 霍布斯和他的同时代人公开嘲笑斯科拉哲学家，称他们“在谈论无法理解的问题”（《利维坦》第八章第 27 节）。然而，直到 18 世纪，这些“现代人”才开始将托马斯主义者和其他斯科拉哲学家赶出大学。（关于阿奎那在几个世纪中的接受情况，请参见 Levering 和 Plested 2021 年的著作。）
 
-1879 年，教皇利奥十三世呼吁复兴阿奎那的研究和教学。这一教皇通谕的成果之一是建立了阿奎那作品的权威莱昂尼版。另一个成果是对阿奎那的旧有托马斯主义形象的复兴，将随后的发展（从斯科韦斯到笛卡尔、康德等）视为衰落和衰败。然而，这种热情很难持久，20 世纪见证了各种形式的托马斯主义的繁荣，如雅克·马里坦、埃蒂安·吉尔森、伊丽莎白·安斯科姆和阿拉斯代尔·麦金泰尔等学者。随着最近的学术研究加深了我们对阿奎那及其继承者的理解，我们现在对后期中世纪哲学的丰富性有了更全面的认识。作为一位哲学家，如今的阿奎那看起来更像是欧洲哲学复兴的辉煌开端，而不仅仅是一个时代的顶峰。
+1879 年，教皇利奥十三世呼吁复兴阿奎那的研究和教学。这一教皇通谕的成果之一是建立了阿奎那作品的权威莱昂尼版。另一个成果是对阿奎那的旧有托马斯主义形象的复兴，将随后的发展（从斯科韦斯到笛卡尔、康德等）视为衰落和衰败。然而，这种热情很难持久，20 世纪见证了各种形式的托马斯主义的繁荣，如雅克 · 马里坦、埃蒂安 · 吉尔森、伊丽莎白 · 安斯科姆和阿拉斯代尔 · 麦金泰尔等学者。随着最近的学术研究加深了我们对阿奎那及其继承者的理解，我们现在对后期中世纪哲学的丰富性有了更全面的认识。作为一位哲学家，如今的阿奎那看起来更像是欧洲哲学复兴的辉煌开端，而不仅仅是一个时代的顶峰。
 
 ## Bibliography
 
@@ -324,7 +324,7 @@ What follows lists the principal works and those minor works that have special p
   
 * *On Evil (De malo)* (1270–71)
   
-* *On the Virtues (*1271–72)
+* *On the Virtues (* 1271–72)
   
 * *On the Union of the Incarnate Word* (1272)
   
@@ -397,96 +397,96 @@ Aquinas left many of his commentaries unfinished. Published versions sometimes i
 
 * Adams, Marilyn McCord, 1987, *William Ockham*, 2 volumes, Notre Dame: University of Notre Dame Press.
 * Amerini, Fabrizio, 2009 [2013], *Tommaso d’Aquino: Origine e fine della vita umana*, Pisa: Edizioni ETS. Translated as *Aquinas on the Beginning and End of Human Life*, Mark Henninger (trans.), Cambridge, MA: Harvard University Press.
-* Angier, Tom, 2021, *Natural Law Theory*, Cambridge: Cambridge University Press. doi:10.1017/9781108580793
+* Angier, Tom, 2021, *Natural Law Theory*, Cambridge: Cambridge University Press. doi: 10.1017/9781108580793
 * Ashworth, E. Jennifer, 2014, “Aquinas on Analogy”, in Jeffrey Hause (ed.), *Debates in Medieval Philosophy*, New York: Routledge, 232–42.
-* Băltuță [Baltuta], Elena, 2013, “Aquinas on Intellectual Cognition: The Case of Intelligible Species”, *Philosophia*, 41(3): 589–602. doi:10.1007/s11406-013-9481-y
+* Băltuță [Baltuta], Elena, 2013, “Aquinas on Intellectual Cognition: The Case of Intelligible Species”, *Philosophia*, 41(3): 589–602. doi: 10.1007/s11406-013-9481-y
 * Bazán, Bernardo C., 1997, “The Human Soul: Form *and* Substance? Thomas Aquinas’s Critique of Eclectic Aristotelianism”, *Archives d’histoire doctrinale et littéraire du moyen âge*, 64: 95–126.
 * Bradley, Denis J. M., 1997, *Aquinas on the Twofold Human Good: Reason and Human Happiness in Aquinas’s Moral Science*, Washington, DC: Catholic University of America Press.
-* Brower, Jeffrey E., 2014, *Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects*, New York/Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714293.001.0001
-* –––, 2016, “Aquinas on the Problem of Universals”, *Philosophy and Phenomenological Research*, 92(3): 715–35. doi:10.1111/phpr.12176
-* Brower, Jeffrey E., and Susan Brower-Toland, 2008, “Aquinas on Mental Representation: Concepts and Intentionality”, *Philosophical Review*, 117(2): 193–243. doi:10.1215/00318108-2007-036
-* Brown, Christopher M., 2007, “Souls, Ships, and Substances”, *American Catholic Philosophical Quarterly*, 81(4): 655–68. doi:10.5840/acpq20078147
+* Brower, Jeffrey E., 2014, *Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects*, New York/Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198714293.001.0001
+* –––, 2016, “Aquinas on the Problem of Universals”, *Philosophy and Phenomenological Research*, 92(3): 715–35. doi: 10.1111/phpr.12176
+* Brower, Jeffrey E., and Susan Brower-Toland, 2008, “Aquinas on Mental Representation: Concepts and Intentionality”, *Philosophical Review*, 117(2): 193–243. doi: 10.1215/00318108-2007-036
+* Brown, Christopher M., 2007, “Souls, Ships, and Substances”, *American Catholic Philosophical Quarterly*, 81(4): 655–68. doi: 10.5840/acpq20078147
 * –––, 2021, *Eternal Life and Human Happiness: Philosophical Problems, Thomistic Solutions*, Washington, DC: Catholic University of America Press.
-* Cohoe, Caleb, 2013, “There Must Be a First: Why Thomas Aquinas Rejects Infinite, Essentially Ordered, Causal Series”, *British Journal for the History of Philosophy*, 21(5): 838–56. doi:10.1080/09608788.2013.816934
-* Cory, Therese Scarpelli, 2015, “Rethinking Abstractionism: Aquinas’s Intellectual Light and Some Arabic Sources”, *Journal of the History of Philosophy*, 53(4): 607–46. doi:10.1353/hph.2015.0074
-* –––, 2022, “The Nature of Cognition and Knowledge”, in Stump and White (eds) 2022: 153–83 (ch. 7). doi:10.1017/9781009043595.011
-* Cross, Richard, 1998, *The Physics of Duns Scotus: The Scientific Context of a Theological Vision*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198269748.001.0001
-* Dales, Richard C., 1990, *Medieval Discussions of the Eternity of the World*, Leiden: Brill. doi:10.1163/9789004246676
+* Cohoe, Caleb, 2013, “There Must Be a First: Why Thomas Aquinas Rejects Infinite, Essentially Ordered, Causal Series”, *British Journal for the History of Philosophy*, 21(5): 838–56. doi: 10.1080/09608788.2013.816934
+* Cory, Therese Scarpelli, 2015, “Rethinking Abstractionism: Aquinas’s Intellectual Light and Some Arabic Sources”, *Journal of the History of Philosophy*, 53(4): 607–46. doi: 10.1353/hph.2015.0074
+* –––, 2022, “The Nature of Cognition and Knowledge”, in Stump and White (eds) 2022: 153–83 (ch. 7). doi: 10.1017/9781009043595.011
+* Cross, Richard, 1998, *The Physics of Duns Scotus: The Scientific Context of a Theological Vision*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198269748.001.0001
+* Dales, Richard C., 1990, *Medieval Discussions of the Eternity of the World*, Leiden: Brill. doi: 10.1163/9789004246676
 * Davies, Brian, 2018, “The *Summa Theologiae* on What God Is Not”, in Hause (ed.) 2018: 47–67.
-* Davies, Brian and Eleonore Stump (eds.), 2012, *The Oxford Handbook of Aquinas*, Oxford/New York: Oxford University Press. doi:10.1093/oxfordhb/9780195326093.001.0001
+* Davies, Brian and Eleonore Stump (eds.), 2012, *The Oxford Handbook of Aquinas*, Oxford/New York: Oxford University Press. doi: 10.1093/oxfordhb/9780195326093.001.0001
 * De Haan, Daniel, 2019, “Aquinas on Sensing, Perceiving, Thinking, Understanding, and Cognizing Individuals”, in E. Băltuță (ed.), *Medieval Perceptual Puzzles: Theories of Sense Perception in the 13th and 14th Centuries*, Leiden: Brill, 238–68.
 * Dewan, Lawrence, 2007, “St. Thomas and Analogy: The Logician and the Metaphysician”, in R. E. Houser (ed.), *Laudemus viros gloriosos: Essays in Honor of Armand Maurer*, Notre Dame, IN: University of Notre Dame Press, 132–45.
 * DeYoung, Rebecca Konyndyk, Colleen McCluskey, and Christina Van Dyke, 2009, *Aquinas’s Ethics: Metaphysical Foundations, Moral Theory, and Theological Context*, Notre Dame, IN: University of Notre Dame Press.
-* Dougherty, Michael V., 2004, “On the Alleged Subalternate Character of *Sacra Doctrina* in Aquinas”, *Proceedings of the American Catholic Philosophical Association*, 77: 101–10. doi:10.5840/acpaproc20037716
+* Dougherty, Michael V., 2004, “On the Alleged Subalternate Character of *Sacra Doctrina* in Aquinas”, *Proceedings of the American Catholic Philosophical Association*, 77: 101–10. doi: 10.5840/acpaproc20037716
 * Elders, Leo, 2009, “The Aristotelian Commentaries of St. Thomas Aquinas”, *Review of Metaphysics*, 63(1): 29–53.
 * Finnis, John, 1998, *Aquinas: Moral, Political, and Legal Theory*, Oxford/New York: Oxford University Press.
-* Frost, Gloria, 2022, *Aquinas on Efficient Causation and Causal Powers*, Cambridge: Cambridge University Press. doi:10.1017/9781009225403
-* Gallagher, David M., 1994, “Free Choice and Free Judgment in Thomas Aquinas”, *Archiv für Geschichte der Philosophie*, 76(3): 247–77. doi:10.1515/agph.1994.76.3.247
+* Frost, Gloria, 2022, *Aquinas on Efficient Causation and Causal Powers*, Cambridge: Cambridge University Press. doi: 10.1017/9781009225403
+* Gallagher, David M., 1994, “Free Choice and Free Judgment in Thomas Aquinas”, *Archiv für Geschichte der Philosophie*, 76(3): 247–77. doi: 10.1515/agph.1994.76.3.247
 * Glorieux, Palémon, 1927, *Les premières polémiques Thomistes: le Correctorium Corruptorii “Quare”*, Kain: Le Saulchoir.
 * Goris, Harm J. M. J., 1997, *Free Creatures of an Eternal God: Thomas Aquinas on God’s Infallible Foreknowledge and Irresistible Will*, Leuven: Peeters.
 * Goris, Harm J. M. J and Henk J. M. Schoot, 2017, *The Virtuous Life: Thomas Aquinas on the Theological Nature of Moral Virtues*, Leuven: Peeters.
 * Grisez, Germain, 1965, “The First Principle of Practical Reason: A Commentary on the *Summa Theologiae*, 1–2, Question 94, Article 2”, *Natural Law Forum*, 10: 168–201.
-* Hause, Jeffrey, 1997, “Thomas Aquinas and the Voluntarists”, *Medieval Philosophy and Theology*, 6(2): 167–82. doi:10.5840/medievalpt1997628
-* –––, 2007, “Aquinas on the Function of Moral Virtue”, *American Catholic Philosophical Quarterly*, 81(1): 1–20. doi:10.5840/acpq200781145
-* ––– (ed.), 2018, *Aquinas’s Summa Theologiae: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/9781316271490
+* Hause, Jeffrey, 1997, “Thomas Aquinas and the Voluntarists”, *Medieval Philosophy and Theology*, 6(2): 167–82. doi: 10.5840/medievalpt1997628
+* –––, 2007, “Aquinas on the Function of Moral Virtue”, *American Catholic Philosophical Quarterly*, 81(1): 1–20. doi: 10.5840/acpq200781145
+* ––– (ed.), 2018, *Aquinas’s Summa Theologiae: A Critical Guide*, Cambridge: Cambridge University Press. doi: 10.1017/9781316271490
 * Hissette, Roland, 1977, *Enquête sur les 219 articles condamnés à Paris le 7 mars 1277*, Louvain: Publications universitaires.
 * Hobbes, Thomas, 1651 [1994], *Leviathan*, E. Curley (ed.), Indianapolis: Hackett.
-* Hochschild, Joshua P., 2019, “Aquinas’s Two Concepts of Analogy and a Complex Semantics for Naming the Simple God”, *Thomist*, 83(2): 155–84. doi:10.1353/tho.2019.0013
-* Hoffman, Paul, 2014, “Aquinas on Spiritual Change”, in Robert Pasnau (ed.), *Oxford Studies in Medieval Philosophy, volume 2*, Oxford: Oxford University Press, 98–103. doi:10.1093/acprof:oso/9780198718468.003.0005
-* Hoffmann, Tobias, 2022, “Grace and Free Will”, in Stump and White (eds.) 2022: 233–56 (ch. 10). doi:10.1017/9781009043595.015
+* Hochschild, Joshua P., 2019, “Aquinas’s Two Concepts of Analogy and a Complex Semantics for Naming the Simple God”, *Thomist*, 83(2): 155–84. doi: 10.1353/tho.2019.0013
+* Hoffman, Paul, 2014, “Aquinas on Spiritual Change”, in Robert Pasnau (ed.), *Oxford Studies in Medieval Philosophy, volume 2*, Oxford: Oxford University Press, 98–103. doi: 10.1093/acprof: oso/9780198718468.003.0005
+* Hoffmann, Tobias, 2022, “Grace and Free Will”, in Stump and White (eds.) 2022: 233–56 (ch. 10). doi: 10.1017/9781009043595.015
 * Hoffmann, Tobias and Cyrille Michon, 2017, “Aquinas on Free Will and Intellectual Determinism”, *Philosophers’ Imprint*, 17(10): 1–36. [[Hoffmann and Michon 2017 available online](http://hdl.handle.net/2027/spo.3521354.0017.010)]
-* Irwin, Terence, 2007, *The Development of Ethics: A Historical and Critical Study* (Volume 1: *From Socrates to the Reformation*), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198242673.001.0001
+* Irwin, Terence, 2007, *The Development of Ethics: A Historical and Critical Study* (Volume 1: *From Socrates to the Reformation*), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198242673.001.0001
 * Jenkins, John I., 1996, “Expositions of the Text: Aquinas’s Aristotelian Commentaries”, *Medieval Philosophy and Theology*, 5(1): 39–62. [[Jenkins 1996 available online](https://hdl.handle.net/1813/56622)]
 * Jensen, Steven J., 2015, *Knowing the Natural Law: From Precepts and Inclinations to Deriving Oughts*, Washington, DC: Catholic University of America Press.
-* Jordan, Mark D., 1982, “The Controversy of the *Correctoria* and the Limits of Metaphysics”, *Speculum*, 57(2): 292–314. doi:10.2307/2847458
+* Jordan, Mark D., 1982, “The Controversy of the *Correctoria* and the Limits of Metaphysics”, *Speculum*, 57(2): 292–314. doi: 10.2307/2847458
 * Kenny, Anthony, 1969, *The Five Ways: St. Thomas Aquinas’s Proofs of God’s Existence*, London: Routledge.
-* –––, 1993, *Aquinas on Mind*, London/New York: Routledge. doi:10.4324/9780203004944
+* –––, 1993, *Aquinas on Mind*, London/New York: Routledge. doi: 10.4324/9780203004944
 * –––, 1998, “Aquinas on Aristotelian Happiness”, in MacDonald and Stump (eds) 1998: 15–27.
 * Kent, Bonnie, 1995, *Virtues of the Will: The Transformation of Ethics in the Late Thirteenth Century*, Washington, DC: Catholic University of America Press.
 * King, Peter, 1994, “Scholasticism and the Philosophy of Mind: The Failure of Aristotelian Psychology”, in Tamara Horowitz and Allen I. Janis (eds.), *Scientific Failure*, Lanham, MD: Rowman & Littlefield, 109–38.
 * –––, 1998, “Aquinas on the Passions”, in MacDonald and Stump (eds) 1998: 101–32.
-* –––, 2000, “The Problem of Individuation in the Middle Ages”, *Theoria*, 66: 159–84. doi:10.1111/j.1755-2567.2000.tb01161.x
+* –––, 2000, “The Problem of Individuation in the Middle Ages”, *Theoria*, 66: 159–84. doi: 10.1111/j.1755-2567.2000.tb01161.x
 * Klima, Gyula, 1997 [2002], “Man = Body + Soul: Aquinas’s Arithmetic of Human Nature”, in Timo Koistinen and Tommi Lehtonen (eds.), *Philosophical Studies in Religion, Metaphysics, and Ethics: Essays in Honour of Heikki Kirjavainen*, Helsinki: Luther Agricola Society. Reprinted in Brian Davies (ed.), *Thomas Aquinas: Contemporary Philosophical Perspectives*, Oxford: Oxford University Press, 2002, 257–73 (ch. 10).
 * –––, 2000, “Aquinas on One and Many”, *Documenti e studi sulla tradizione filosofica medievale*, 11: 195–215.
 * –––, 2001, “Aquinas’ Proofs of the Immateriality of the Intellect from the Universality of Thought”, *Proceedings of the Society for Medieval Logic and Metaphysics*, 1: 19–28.
 * Knobel, Angela, 2021, *Aquinas and the Infused Moral Virtues*, Notre Dame, IN: University of Notre Dame Press.
-* Kretzmann, Norman, 1997, *The Metaphysics of Theism: Aquinas’s Natural Theology in Summa Contra Gentiles I*, Oxford: Clarendon Press. doi:10.1093/019924653X.001.0001
-* –––, 1999, *The Metaphysics of Creation: Aquinas’s Natural Theology in Summa Contra Gentiles II*, Oxford: Clarendon Press. doi:10.1093/0199246548.001.0001
-* Leftow, Brian, 1990, “Aquinas on Time and Eternity”, *American Catholic Philosophical Quarterly*, 64(3): 387–99. doi:10.5840/acpq199064315
-* –––, 2003, “Aquinas on Attributes”, *Medieval Philosophy and Theology*, 11(1): 1–41. doi:10.1017/S105706080300001X
-* Legge, Dominic, 2022, “Thomas Aquinas: A Life Pursuing Wisdom”, in Stump and White (eds) 2022: 7–28 (ch. 1). doi:10.1017/9781009043595.003
-* Levering, Matthew and Marcus Plested (eds), 2021, *The Oxford Handbook of the Reception of Aquinas*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780198798026.001.0001
-* Lisska, Anthony J., 1996, *Aquinas’s Theory of Natural Law: An Analytic Reconstruction*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198269670.001.0001
-* –––, 2016, *Aquinas’s Theory of Perception: An Analytic Reconstruction*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198777908.001.0001
+* Kretzmann, Norman, 1997, *The Metaphysics of Theism: Aquinas’s Natural Theology in Summa Contra Gentiles I*, Oxford: Clarendon Press. doi: 10.1093/019924653X.001.0001
+* –––, 1999, *The Metaphysics of Creation: Aquinas’s Natural Theology in Summa Contra Gentiles II*, Oxford: Clarendon Press. doi: 10.1093/0199246548.001.0001
+* Leftow, Brian, 1990, “Aquinas on Time and Eternity”, *American Catholic Philosophical Quarterly*, 64(3): 387–99. doi: 10.5840/acpq199064315
+* –––, 2003, “Aquinas on Attributes”, *Medieval Philosophy and Theology*, 11(1): 1–41. doi: 10.1017/S105706080300001X
+* Legge, Dominic, 2022, “Thomas Aquinas: A Life Pursuing Wisdom”, in Stump and White (eds) 2022: 7–28 (ch. 1). doi: 10.1017/9781009043595.003
+* Levering, Matthew and Marcus Plested (eds), 2021, *The Oxford Handbook of the Reception of Aquinas*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780198798026.001.0001
+* Lisska, Anthony J., 1996, *Aquinas’s Theory of Natural Law: An Analytic Reconstruction*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198269670.001.0001
+* –––, 2016, *Aquinas’s Theory of Perception: An Analytic Reconstruction*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198777908.001.0001
 * Loughran, Thomas J., 1999, “Aquinas, Compatibilist”, in F. Michael McLain and W. Mark Richardson (eds), *Human and Divine Agency: Anglican, Catholic, and Lutheran Perspectives*, New York: University Press of America, 1–39.
 * MacDonald, Scott, 1991a, “Aquinas’s Parasitic Cosmological Argument”, *Medieval Philosophy and Theology*, 1: 119–55. [[MacDonald 1991a available online](https://hdl.handle.net/1813/56592)]
-* –––, 1991b, “Ultimate Ends in Practical Reasoning”, *Philosophical Review*, 100(1): 31–66. doi:10.2307/2185514
-* –––, 1993, “Theory of Knowledge”, in Norman Kretzmann and Eleonore Stump (eds.), *Cambridge Companion to Aquinas*, Cambridge: Cambridge University Press, 160–95. doi:10.1017/CCOL0521431956.007
+* –––, 1991b, “Ultimate Ends in Practical Reasoning”, *Philosophical Review*, 100(1): 31–66. doi: 10.2307/2185514
+* –––, 1993, “Theory of Knowledge”, in Norman Kretzmann and Eleonore Stump (eds.), *Cambridge Companion to Aquinas*, Cambridge: Cambridge University Press, 160–95. doi: 10.1017/CCOL0521431956.007
 * MacDonald, Scott and Eleonore Stump (eds), 1998, *Aquinas’s Moral Theory: Essays in Honor of Norman Kretzmann*, Ithaca, NY: Cornell University Press.
-* Marmodoro, Anna and Ben Page, 2016, “Aquinas on Forms, Substances and Artifacts”, *Vivarium*, 54(1): 1–21. doi:10.1163/15685349-12341310
+* Marmodoro, Anna and Ben Page, 2016, “Aquinas on Forms, Substances and Artifacts”, *Vivarium*, 54(1): 1–21. doi: 10.1163/15685349-12341310
 * Martin, C. F. J., 1997, *Thomas Aquinas: God and Explanations*, Edinburgh: Edinburgh University Press.
-* Massey, Gerald J., 1999, “Medieval Sociobiology: Thomas Aquinas’s Theory of Sexual Morality”, *Philosophical Topics*, 27(1): 69–86. doi:10.5840/philtopics199927117
-* Mattison, William C., 2011, “Can Christians Possess the Acquired Cardinal Virtues?” *Theological Studies*, 72(3): 558–85. doi:10.1177/004056391107200304
+* Massey, Gerald J., 1999, “Medieval Sociobiology: Thomas Aquinas’s Theory of Sexual Morality”, *Philosophical Topics*, 27(1): 69–86. doi: 10.5840/philtopics199927117
+* Mattison, William C., 2011, “Can Christians Possess the Acquired Cardinal Virtues?” *Theological Studies*, 72(3): 558–85. doi: 10.1177/004056391107200304
 * Maurer, Armand, 1986, “Introduction”, in Thomas Aquinas, *The Division and Methods of the Sciences: Questions V and VI of his Commentary on the De Trinitate of Boethius*, 4th revised edition, Toronto: Pontifical Institute of Mediaeval Studies, VII–XLI.
-* McCluskey, Colleen, 2017, *Thomas Aquinas on Moral Wrongdoing*, Cambridge: Cambridge University Press. doi:10.1017/9781316796917
+* McCluskey, Colleen, 2017, *Thomas Aquinas on Moral Wrongdoing*, Cambridge: Cambridge University Press. doi: 10.1017/9781316796917
 * McInerny, Ralph, 1996, *Aquinas and Analogy*, Washington, DC: Catholic University of America Press.
 * –––, 1997, *Ethica Thomistica: The Moral Philosophy of Thomas Aquinas*, revised edition, Washington, DC: Catholic University of America Press.
-* Miner, Robert C., 2009, *Thomas Aquinas on the Passions: A Study of Summa theologiae 1a2ae 22–48*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576560
+* Miner, Robert C., 2009, *Thomas Aquinas on the Passions: A Study of Summa theologiae 1a2ae 22–48*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511576560
 * Montagnes, Bernard, 1963 [2004], *La Doctrine de l’analogie de l’être d’après Saint Thomas D’Aquin*, Louvain: Publications universitaires. Translated as *The Doctrine of the Analogy of Being according to Thomas Aquinas*, E. M. Macierowski and Pol Vandevelde (trans), Andrew Tallon (ed.), Milwaukee: Marquette University Press, 2004.
 * Murphy, Mark C., 2001, *Natural Law and Practical Rationality*, Cambridge/New York: Cambridge University Press.
 * Nevitt, Turner C., 2014, “Survivalism, Corruptionism, and Intermittent Existence in Aquinas”, *History of Philosophy Quarterly*, 31(1): 1–19.
 * Oberman, Heiko A. (ed.), 1966, *Forerunners of the Reformation: The Shape of Late Medieval Thought*, New York: Holt, Rinehart and Winston.
-* Ogden, Stephen R., 2022, *Averroes on Intellect: From Aristotelian Origins to Aquinas’ Critique*, Oxford: Oxford University Press. doi:10.1093/oso/9780192896117.001.0001
+* Ogden, Stephen R., 2022, *Averroes on Intellect: From Aristotelian Origins to Aquinas’ Critique*, Oxford: Oxford University Press. doi: 10.1093/oso/9780192896117.001.0001
 * Oliva, Adriano, 2015, *Amours: L’église, les divorcés remariés, les couples homosexuels*, Paris: Cerf.
 * Osborne, Thomas M., Jr., 2005, *Love of Self and Love of God in Thirteenth-Century Ethics*, Notre Dame, IN: University of Notre Dame Press.
-* Panaccio, Claude, 2001, “Aquinas on Intellectual Representation”, in Dominik Perler (ed.) *Ancient and Medieval Theories of Intentionality*, Leiden: Brill, 185–202. doi:10.1163/9789004453296_012
+* Panaccio, Claude, 2001, “Aquinas on Intellectual Representation”, in Dominik Perler (ed.) *Ancient and Medieval Theories of Intentionality*, Leiden: Brill, 185–202. doi: 10.1163/9789004453296_012
 * Pasnau, Robert, 1997, *Theories of Cognition in the Later Middle Ages*, Cambridge/New York: Cambridge University Press.
-* –––, 2002, *Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89*, New York: Cambridge University Press. doi:10.1017/CBO9780511613180
-* –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199567911.001.0001
+* –––, 2002, *Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89*, New York: Cambridge University Press. doi: 10.1017/CBO9780511613180
+* –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199567911.001.0001
 * –––, 2018, “On What There Is in Aquinas”, in Hause (ed.) 2018: 10–28.
-* Pawl, Timothy, 2012, “The Five Ways”, in Davies and Stump (eds.) 2012: 115–31 (ch. 9). doi:10.1093/oxfordhb/9780195326093.013.0010
-* Perler, Dominik, 2000, “Essentialism and Direct Realism. Some Late Medieval Perspectives”, *Topoi*, 19(2): 111–22. doi:10.1023/A:1006425008627
-* Pini, Giorgio, 2012, “The Development of Aquinas’s Thought”, in Davies and Stump (eds) 2012: 491–510 (ch. 37). doi:10.1093/oxfordhb/9780195326093.013.0038
+* Pawl, Timothy, 2012, “The Five Ways”, in Davies and Stump (eds.) 2012: 115–31 (ch. 9). doi: 10.1093/oxfordhb/9780195326093.013.0010
+* Perler, Dominik, 2000, “Essentialism and Direct Realism. Some Late Medieval Perspectives”, *Topoi*, 19(2): 111–22. doi: 10.1023/A: 1006425008627
+* Pini, Giorgio, 2012, “The Development of Aquinas’s Thought”, in Davies and Stump (eds) 2012: 491–510 (ch. 37). doi: 10.1093/oxfordhb/9780195326093.013.0038
 * Pope, Stephen J. (ed.), 2002, *The Ethics of Aquinas*, Washington, DC: Georgetown University Press.
 * Porro, Pasquale, 2012 [2016], *Tommaso d’Aquino: Un Profile storic-filosofico*, Roma: Carocci editore. translated as *Thomas Aquinas: A Historical and Philosophical Profile*, Joseph G. Trabbic and Roger W. Nutt (trans.), Washington, DC: Catholic University of America Press, 2016.
 * Porter, Jean, 2018, “The Natural Law”, in Hause (ed.) 2018: 170–87.
@@ -494,23 +494,23 @@ Aquinas left many of his commentaries unfinished. Published versions sometimes i
 * Rhonheimer, Martin, 1987 [2000], *Natur als Grundlage der Moral: die personale Struktur des Naturgesetzes bei Thomas von Aquin: eine Auseinandersetzung mit autonomer und teleologischer Ethik*, Innsbruck: Tyrolia-Verlag. Translated as *Natural Law and Practical Reason: A Thomist View of Moral Autonomy*, Gerald Malsbary (trans.), (Moral Philosophy and Moral Theology 1), New York: Fordham University Press, 2000.
 * Rota, Michael W., 2004, “Substance and Artifact in Thomas Aquinas”, *History of Philosophy Quarterly*, 21(3): 241–59.
 * Shanley, Brian J., 2007, “Beyond Libertarianism and Compatibilism: Thomas Aquinas on Created Freedom”, in Richard Velkley (ed.), *Freedom and the Human Person*, Washington, DC: Catholic University of America Press, 70–89.
-* Shields, Christopher and Robert Pasnau, 2016, *The Philosophy of Aquinas*, 2nd edition, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199301232.001.0001
-* Stenberg, Joseph, 2016a, “Aquinas on the Relationship Between the Vision and Delight in Perfect Happiness”, *American Catholic Philosophical Quarterly*, 90(4): 665–80. doi:10.5840/acpq201691499
-* –––, 2016b, “*Considerandum est quid sit beatitudo*: Aquinas on What Happiness Really Is”, *Res Philosophica*, 93(1): 161–84. doi:10.11612/resphil.2016.93.1.11
-* Stump, Eleonore, 2003, *Aquinas*, London: Routledge. doi:10.4324/9780203928356
-* –––, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199277421.001.0001
-* –––, 2011, “The Non-Aristotelian Character of Aquinas’s Ethics: Aquinas on the Passions”, *Faith and Philosophy*, 28(1): 29–43. doi:10.5840/faithphil201128114
-* –––, 2018, *Atonement*, Oxford: Oxford University Press. doi:10.1093/oso/9780198813866.001.0001
-* –––, 2022, “The Nature of Human Beings”, in Stump and White (eds) 2022: 126–50 (ch. 6). doi:10.1017/9781009043595.009
-* Stump, Eleonore and Thomas Joseph White (eds.), 2022, *The New Cambridge Companion to Aquinas*, Cambridge: Cambridge University Press. doi:10.1017/9781009043595
+* Shields, Christopher and Robert Pasnau, 2016, *The Philosophy of Aquinas*, 2nd edition, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199301232.001.0001
+* Stenberg, Joseph, 2016a, “Aquinas on the Relationship Between the Vision and Delight in Perfect Happiness”, *American Catholic Philosophical Quarterly*, 90(4): 665–80. doi: 10.5840/acpq201691499
+* –––, 2016b, “*Considerandum est quid sit beatitudo*: Aquinas on What Happiness Really Is”, *Res Philosophica*, 93(1): 161–84. doi: 10.11612/resphil.2016.93.1.11
+* Stump, Eleonore, 2003, *Aquinas*, London: Routledge. doi: 10.4324/9780203928356
+* –––, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199277421.001.0001
+* –––, 2011, “The Non-Aristotelian Character of Aquinas’s Ethics: Aquinas on the Passions”, *Faith and Philosophy*, 28(1): 29–43. doi: 10.5840/faithphil201128114
+* –––, 2018, *Atonement*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198813866.001.0001
+* –––, 2022, “The Nature of Human Beings”, in Stump and White (eds) 2022: 126–50 (ch. 6). doi: 10.1017/9781009043595.009
+* Stump, Eleonore and Thomas Joseph White (eds.), 2022, *The New Cambridge Companion to Aquinas*, Cambridge: Cambridge University Press. doi: 10.1017/9781009043595
 * Toner, Patrick, 2009, “Personhood and Death in St. Thomas Aquinas”, *History of Philosophy Quarterly*, 26(2): 121–38.
 * Torrell, Jean-Pierre, 1993 [2022], *L’Initiation à Saint Thomas d'Aquin: Sa personne et son oeuvre*, Paris: Cerf. Translated as *Saint Thomas Aquinas* (Volume 1: *The Person and His Work*), Matthew K. Minerd and Robert Royal (trans), 3rd edition, Washington, DC: Catholic University of America Press, 2022.
 * –––, 1996 [2003], *Saint Thomas d’Aquin, Maître Spirituel*, Paris: Cerf; translated as *Saint Thomas Aquinas* (Volume 2: *Spiritual Master*), Robert Royal (trans.), Washington, DC: Catholic University of America Press, 2003.
-* Van Dyke, Christina, 2012, “The End of (Human) Life as We Know It: Thomas Aquinas on Persons, Bodies, and Death”, *Modern Schoolman*, 89(3): 243–57. doi:10.5840/schoolman2012893/416
-* Wawrykow, Joseph P., 2012, “The Theological Virtues”, in Davies and Stump (eds.) 2012: 287–307 (ch. 22). doi:10.1093/oxfordhb/9780195326093.013.0023
+* Van Dyke, Christina, 2012, “The End of (Human) Life as We Know It: Thomas Aquinas on Persons, Bodies, and Death”, *Modern Schoolman*, 89(3): 243–57. doi: 10.5840/schoolman2012893/416
+* Wawrykow, Joseph P., 2012, “The Theological Virtues”, in Davies and Stump (eds.) 2012: 287–307 (ch. 22). doi: 10.1093/oxfordhb/9780195326093.013.0023
 * Westberg, Daniel, 1994, *Right Practical Reason: Aristotle, Action, and Prudence in Aquinas*, Oxford: Clarendon Press.
 * Wippel, John F., 1995a, “‘First Philosophy’ according to Thomas Aquinas”, in his *Metaphysical Themes in Thomas Aquinas*, Washington, DC: Catholic University of America Press, 55–67.
-* –––, 1995b, “Thomas Aquinas and the Condemnations of 1277”, *Modern Schoolman*, 72(2): 232–72. doi:10.5840/schoolman1995722/317
+* –––, 1995b, “Thomas Aquinas and the Condemnations of 1277”, *Modern Schoolman*, 72(2): 232–72. doi: 10.5840/schoolman1995722/317
 * –––, 1995c, “Thomas Aquinas on the Possibility of Eternal Creation”, in his *Metaphysical Themes in Thomas Aquinas*, Washington, DC: Catholic University of America Press, 191–214.
 * –––, 2000, *The Metaphysical Thought of Thomas Aquinas: From Finite Being to Uncreated Being*, Washington, DC: Catholic University of America Press.
 * Wood, Adam, 2020, *Thomas Aquinas on the Immateriality of the Human Intellect*, Washington, DC: Catholic University of America Press.

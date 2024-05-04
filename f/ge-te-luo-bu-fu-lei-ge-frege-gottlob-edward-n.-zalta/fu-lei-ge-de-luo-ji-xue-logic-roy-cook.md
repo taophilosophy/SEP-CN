@@ -2,7 +2,7 @@
 
 *首次发表于 2023 年 2 月 7 日*
 
-弗里德里希·路德维希·戈特洛布·弗雷格（出生于 1848 年，逝世于 1925 年）常被认为是在他的《概念符号》中发明了现代量化逻辑。虽然关于弗雷格的创新之处以及他的作品与同时代人如乔治·布尔、奥古斯都·德摩根、恩斯特·施罗德、查尔斯·桑德斯·皮尔斯和约翰·文恩的作品中存在哪些相似之处存在一些争议（参见普特南 1982 年或布洛斯 1994 年的论述，以抵制将现代逻辑归功于弗雷格的倾向，还有关于逻辑代数传统的条目），但毫无疑问，弗雷格的工作，尤其是在伯特兰·罗素和路德维希·维特根斯坦的推崇下，对哲学和数学逻辑的发展产生了巨大影响。
+弗里德里希 · 路德维希 · 戈特洛布 · 弗雷格（出生于 1848 年，逝世于 1925 年）常被认为是在他的《概念符号》中发明了现代量化逻辑。虽然关于弗雷格的创新之处以及他的作品与同时代人如乔治 · 布尔、奥古斯都 · 德摩根、恩斯特 · 施罗德、查尔斯 · 桑德斯 · 皮尔斯和约翰 · 文恩的作品中存在哪些相似之处存在一些争议（参见普特南 1982 年或布洛斯 1994 年的论述，以抵制将现代逻辑归功于弗雷格的倾向，还有关于逻辑代数传统的条目），但毫无疑问，弗雷格的工作，尤其是在伯特兰 · 罗素和路德维希 · 维特根斯坦的推崇下，对哲学和数学逻辑的发展产生了巨大影响。
 
 虽然本条目旨在向读者概述弗雷格在《概念符号》和《基本法则》中提出的逻辑系统，但并不意味着它是将弗雷格的逻辑系统翻译成现代符号的指南，因此以下内容中几乎没有现代符号。尽管“研究”弗雷格逻辑和他的逻辑主义计划的常见方法是通过将他的公理和定理翻译成现代符号，但这种方法往往会导致对弗雷格实际观点的误解，因为他自己的符号（在两个逻辑系统中）与现代的一阶和高阶量化逻辑在很多方面存在显著差异。因此，任何有兴趣以自己的方式理解弗雷格的逻辑和哲学观点的人都需要在《概念符号》和《基本法则》的逻辑和形式语言中研究这些观点，并且需要直接熟练地使用弗雷格的符号、演绎系统等。本条目旨在作为开始这一旅程的手段，除其他目的外。
 
@@ -20,13 +20,13 @@
 
 其次，一些翻译者将弗雷格的“deutscher Buchstabe”翻译为“哥特字母”，另一些翻译为“德语字母”，而将“lateinischer Buchstabe”翻译为“拉丁字母”的也有，另一些则翻译为“罗马字母”。这并没有哲学上的意义，仅仅是一种文体上的差异，因此在翻译中我保留了原样，但在讨论中将使用后一种术语。
 
-第三，我们应该强调，在这两部作品中，弗雷格所使用的逻辑方法和目标的概念与现代对该主题的研究中通常使用的概念有很大不同。沃伦·戈德法布描述了逻辑的现代概念，他称之为图式概念，并认为我们从（其他人中）塔斯基和奎因那里继承了这一概念，主要关注于在这种或那种形式语言中发现逻辑图式之间的性质和关系，其次是确定自然语言的句子是否可以被翻译为具有这种或那种特征的图式的实例。然而，在《概念符号》和《基本法则》中所运用的逻辑概念，即戈德法布所称的普遍主义概念，却是完全不同的。在普遍主义概念中，逻辑致力于陈述和证明适用于任何主题的一般普遍有效的逻辑法则。简而言之，在现代的图式概念中，逻辑的主题是句子（或图式、命题或其他类型的语言实体），目标是发现统治句子（或图式、命题等）的性质和关系的法则。然而，在弗雷格的普遍主义概念中，目标不是发现关于语言的普遍真理，而是发现关于世界的普遍真理（戈德法布 2010）。
+第三，我们应该强调，在这两部作品中，弗雷格所使用的逻辑方法和目标的概念与现代对该主题的研究中通常使用的概念有很大不同。沃伦 · 戈德法布描述了逻辑的现代概念，他称之为图式概念，并认为我们从（其他人中）塔斯基和奎因那里继承了这一概念，主要关注于在这种或那种形式语言中发现逻辑图式之间的性质和关系，其次是确定自然语言的句子是否可以被翻译为具有这种或那种特征的图式的实例。然而，在《概念符号》和《基本法则》中所运用的逻辑概念，即戈德法布所称的普遍主义概念，却是完全不同的。在普遍主义概念中，逻辑致力于陈述和证明适用于任何主题的一般普遍有效的逻辑法则。简而言之，在现代的图式概念中，逻辑的主题是句子（或图式、命题或其他类型的语言实体），目标是发现统治句子（或图式、命题等）的性质和关系的法则。然而，在弗雷格的普遍主义概念中，目标不是发现关于语言的普遍真理，而是发现关于世界的普遍真理（戈德法布 2010）。
 
 最后，尽管弗雷格只在《概念符号》和《基本法则》的早期部分两次全面介绍了他的逻辑，但他在许多其他作品中讨论了他的逻辑的各个方面，包括《函数与概念》、《意义和指称》和《概念与对象》（下文将更多介绍），以及一些不太知名的论文，在这些论文中他明确讨论了他自己的系统与同时代人的工作之间的差异。这些论文包括（但不一定局限于）《布尔的逻辑演算与概念符号》（1880/81）、《布尔的逻辑公式语言和我的概念符号》（1881）、《关于概念符号的科学证明》（1882a）、《关于“概念符号”的目的》（1882b）和《关于皮亚诺先生的概念符号和我的》（1897）。这些论文不仅提供了对弗雷格逻辑及其逻辑哲学发展的额外见解，而且包含了对弗雷格备受诟病的符号体系优越性的有力（并令人信服的）辩护（这些论据在很大程度上同样适用于比较弗雷格的符号与我们现代的反向“E”（∃）和倒置的“A”（∀）符号！）。那些希望在本文所包含的材料之外继续研究弗雷格逻辑的人，应该不仅参考《概念符号》和《基本法则》，还应该参考这些作品。
 
 ## 2. 《概念符号》的逻辑
 
-《概念符号学》的逻辑在弗雷格写作《函数与概念》（1891）、《意义与指称》（1892a）和《概念与对象》（1892b）之前就已经形成。这些论文中的每一篇都旨在解决弗雷格在《概念符号学》中提出的原始逻辑中的特定问题：“函数与概念”阐明了概念和关系作为数学函数的地位（并包含了逻辑的许多其他变化的首次出现，包括弗雷格的意义/指称区分的首次发表提及），《意义与指称》为弗雷格提供了处理恰当的同一性问题的工具，而《概念与对象》则解决了弗雷格在“函数与概念”中首次明确引入的高阶逻辑中涉及的类型区分所引发的难题（尽管在《基础》\[1884]中也隐含地假定了严格的概念/对象区分，并起到了很大的作用）。这些作品中的每一篇都导致了从《概念符号学》到《基本法则》之间弗雷格的逻辑在形式细节和哲学解释方面的重大变化，我们将在下面讨论其中的一些差异。然而，就理解《概念符号学》逻辑的基本机制而言，这三篇论文中最关键的是《意义与指称》。
+《概念符号学》的逻辑在弗雷格写作《函数与概念》（1891）、《意义与指称》（1892a）和《概念与对象》（1892b）之前就已经形成。这些论文中的每一篇都旨在解决弗雷格在《概念符号学》中提出的原始逻辑中的特定问题：“函数与概念”阐明了概念和关系作为数学函数的地位（并包含了逻辑的许多其他变化的首次出现，包括弗雷格的意义/指称区分的首次发表提及），《意义与指称》为弗雷格提供了处理恰当的同一性问题的工具，而《概念与对象》则解决了弗雷格在“函数与概念”中首次明确引入的高阶逻辑中涉及的类型区分所引发的难题（尽管在《基础》\[1884] 中也隐含地假定了严格的概念/对象区分，并起到了很大的作用）。这些作品中的每一篇都导致了从《概念符号学》到《基本法则》之间弗雷格的逻辑在形式细节和哲学解释方面的重大变化，我们将在下面讨论其中的一些差异。然而，就理解《概念符号学》逻辑的基本机制而言，这三篇论文中最关键的是《意义与指称》。
 
 在写作《概念符号学》时，弗雷格并没有明确区分意义和指称。因此，他使用了概念内容的概念，这在某种意义上承担了后来他在《意义与指称》之后的著作中分配给意义和指称的工作。
 
@@ -60,7 +60,7 @@
 
 虽然正确，但即使如此，这也有些误导，因为任何可以被视为判断的参数也可以被视为该判断的函数，反之亦然。在引入概念符号逻辑的凹凸泛化装置时（稍后将详细介绍），弗雷格写道：
 
-> 由于符号Φ出现在表达式Φ(A)中，并且可以被认为是由其他符号Ψ、X 替换，通过这些符号可以表达参数 A 的其他函数，因此Φ(A)可以被视为参数Φ的函数。（弗雷格 1879a: §10）
+> 由于符号 Φ 出现在表达式 Φ(A)中，并且可以被认为是由其他符号 Ψ、X 替换，通过这些符号可以表达参数 A 的其他函数，因此 Φ(A)可以被视为参数 Φ 的函数。（弗雷格 1879a: §10）
 
 换句话说，我们可以解析句子“氢比二氧化碳轻”为“氢”是参数，“比二氧化碳轻”是函数，但我们也可以解析同一句子，使得“比二氧化碳轻”成为参数，“氢”（并且不像在《Grundgesetze》中那样，我们可能会解释为“被氢满足”的第二级概念）成为函数—更多讨论请参见 Heck 和 May（2013）。此外，弗雷格指出，函数/参数的区别并不反映关于现实结构的任何客观事实（不像《Grundgesetze》中找到的后来的对象/函数层次结构），而仅仅反映了选择以一种方式而不是另一种方式分析陈述的选择：
 
@@ -161,7 +161,7 @@
 
 #### 2.1.4 身份运算符
 
-弗雷格接下来介绍了成为概念书逻辑中可能最臭名昭著的部分，即他的身份运算符。弗雷格显然在努力解决他最终将通过“意义和指称”中的标题区分解决的难题，但这个概念尚不可用，因此他面临以下难题：给定两个名称“a”和“b”，如果“a=b”为真，并且如果名称的概念内容是它们的指称，那么“a=a”和“a=b”具有相同的概念内容。但这不可能是真的：“a=a”和“a=b”显然不具有相同的概念内容，因为它们暗示着不同的事物。
+弗雷格接下来介绍了成为概念书逻辑中可能最臭名昭著的部分，即他的身份运算符。弗雷格显然在努力解决他最终将通过“意义和指称”中的标题区分解决的难题，但这个概念尚不可用，因此他面临以下难题：给定两个名称“a”和“b”，如果“a = b”为真，并且如果名称的概念内容是它们的指称，那么“a = a”和“a = b”具有相同的概念内容。但这不可能是真的：“a = a”和“a = b”显然不具有相同的概念内容，因为它们暗示着不同的事物。
 
 因此，弗雷格被迫否认“a”和“b”在身份声明的上下文中具有相同的概念内容。因此，它们的概念内容不能是它们的指称。弗雷格得出结论，身份陈述中名称的概念内容就是名称本身，定义如下（值得注意的是，他在这里使用“≡”，但在解决这些问题后，他转而使用了更为标准的符号“=”在《Grundgesetze》中）：
 
@@ -169,7 +169,7 @@
 >
 > 因此，它的意思是：符号 A 和符号 B 具有相同的概念内容，因此 A 可以始终被 B 替代，反之亦然。（1879a：§7）
 
-这解决了问题，因为在真实等同性主张的背景下，像“a=b”这样的语境中，“a”和“b”并不指代同一事物。相反，“a”自我指涉地指代符号“a”（对于“b”也是如此），因此等同性主张“a=b”并不表达（粗略地说）：
+这解决了问题，因为在真实等同性主张的背景下，像“a = b”这样的语境中，“a”和“b”并不指代同一事物。相反，“a”自我指涉地指代符号“a”（对于“b”也是如此），因此等同性主张“a = b”并不表达（粗略地说）：
 
 > a 与 b 相同。
 
@@ -203,13 +203,13 @@
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec2-1-H.svg" alt="judgement all gothic a term higothic a" data-size="original">
 >
-> 那么这表示函数是一个事实，无论其参数取何值。由于用作函数符号的字母，如Φ在Φ(A)中，可以视为函数的参数，因此可以用哥特字母以刚才指定的方式替换它。哥特字母的含义仅受明显限制，即在内容笔画后面的符号复合仍然必须是可判断的（§2），并且如果哥特字母作为函数符号出现，必须考虑这一情况。替换哥特字母可能的所有其他条件都应包括在判断中。（1879a: §11）
+> 那么这表示函数是一个事实，无论其参数取何值。由于用作函数符号的字母，如 Φ 在 Φ(A)中，可以视为函数的参数，因此可以用哥特字母以刚才指定的方式替换它。哥特字母的含义仅受明显限制，即在内容笔画后面的符号复合仍然必须是可判断的（§2），并且如果哥特字母作为函数符号出现，必须考虑这一情况。替换哥特字母可能的所有其他条件都应包括在判断中。（1879a: §11）
 
 因此，这个凹陷是 Begriffsschrift 版本的（类似于）全称量词，以及形式为的公式：
 
 ![all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-I.svg)
 
-如果且仅如果，对于任意的参数，将由Φ(ξ)表示的函数应用于该参数是真的（或者又是一个事实），那么"是真的"（或者又是一个事实）。请注意，Frege 明确限制了 Begriffsschrift 逻辑中公式的形成，以便凹度只能绑定一个函数，当填入适当的参数时，该函数输出一个可判断的内容。因此，在 Begriffsschrift 逻辑中，“ a+1”是不良形式的。
+如果且仅如果，对于任意的参数，将由 Φ(ξ)表示的函数应用于该参数是真的（或者又是一个事实），那么 "是真的"（或者又是一个事实）。请注意，Frege 明确限制了 Begriffsschrift 逻辑中公式的形成，以便凹度只能绑定一个函数，当填入适当的参数时，该函数输出一个可判断的内容。因此，在 Begriffsschrift 逻辑中，“ a+1”是不良形式的。
 
 现在我们可以对 Frege 的 Begriffsschrift 中函数和参数之间的区别的解释增加一些细节，以及在 Grundgesetze 逻辑中将出现的更现代化的对象层次结构，一级函数、二级函数和三级函数。正确理解：
 
@@ -221,9 +221,9 @@
 
 但是它更像是在说；
 
-> 对于任何实体（无论“类型”或“种类”如何）a，使得Φ(ξ) 与 a 的组合产生可判断内容，Φ(a) 都是一个事实。
+> 对于任何实体（无论“类型”或“种类”如何）a，使得 Φ(ξ) 与 a 的组合产生可判断内容，Φ(a) 都是一个事实。
 
-以这种方式理解量化陈述，我们可以自由地将 a 理解为参数，Φ(ξ)理解为函数，或者将Φ(ξ)理解为参数，a 理解为函数，只需满足 a 和Φ(ξ)的组合产生可判断的内容的要求。当然，如果Φ(ξ)是一个仅将对象映射到可判断内容的函数，那么其结果与标准的一阶量化相同。但是弗雷格再次强调这一点，他尚未引入允许他识别这种函数的概念机制，也从未声称特定函数必须只接受一种类型的实体（即只接受对象，或只接受函数等）作为参数。
+以这种方式理解量化陈述，我们可以自由地将 a 理解为参数，Φ(ξ)理解为函数，或者将 Φ(ξ)理解为参数，a 理解为函数，只需满足 a 和 Φ(ξ)的组合产生可判断的内容的要求。当然，如果 Φ(ξ)是一个仅将对象映射到可判断内容的函数，那么其结果与标准的一阶量化相同。但是弗雷格再次强调这一点，他尚未引入允许他识别这种函数的概念机制，也从未声称特定函数必须只接受一种类型的实体（即只接受对象，或只接受函数等）作为参数。
 
 在格伦特格策的逻辑中用于整理所有这些内容的层次结构的一种明显指示是不存在的，甚至在背景中也没有隐含地存在于概念书写的逻辑中，这表现在弗雷格没有为不同类型的实体引入不同的量词（甚至不是为函数和参数引入）。尽管弗雷格使用不同风格的变量来暗示某些量化范围涵盖参数，而其他量化范围涵盖函数，但这仅仅是一种启发式的方法，必须如此，因为正如我们已经看到的那样，在概念书写的逻辑中，函数/参数的区别并不是在世界中找到的形而上学区别，而只是反映了解释同一陈述的不同方式。因此，概念书写的逻辑中的（单一的普遍）量词涵盖对象和函数（虽然以一种相当复杂的方式），而现代的一阶和高阶量词实际上并没有明确出现在概念书写中，就像它们在格伦特格策的逻辑中清楚地出现的那样。相反，概念书写的逻辑中有一个量词，它涵盖对象和函数（以及概念、关系等），并且对哪些构造是合法的有非正式的限制（即，将函数应用于参数的结果必须产生可判断的内容），这些限制约束了该量词的每个实例的潜在范围。因此，概念书写的逻辑中的量词与现代量词有相当有限的相似之处（参见 Kemp 1995 和 Heck＆May 2013，以了解概念书写中的这种构造甚至不算是一个真正的量词的论点）。
 
@@ -313,7 +313,7 @@ A→(B→A)
 >
 > 这样可以进行更多的简化。（1879a：前言）
 
-这个原则与公理 7 和弗雷格的摩德斯·波嫩斯版本结合起来，确实蕴含了公理 5 和 6。此外，有充分理由认为这个原则在弗雷格在《概念书》中提出的非正式语义上是有效的，因为（在《概念书》中）变量被限制为可判断的内容，似乎没有理由怀疑由 a 表示的可判断内容与由 a 表示的可判断内容是相同的。
+这个原则与公理 7 和弗雷格的摩德斯 · 波嫩斯版本结合起来，确实蕴含了公理 5 和 6。此外，有充分理由认为这个原则在弗雷格在《概念书》中提出的非正式语义上是有效的，因为（在《概念书》中）变量被限制为可判断的内容，似乎没有理由怀疑由 a 表示的可判断内容与由 a 表示的可判断内容是相同的。
 
 然而，所有这些都受到一个重要的限制：《概念书》逻辑中的量词受到了限制，而《格伦德格塞茨》中的量词没有受到这种限制。在《概念书》的逻辑中，弗雷格要求量词受到限制，以便将逻辑运算符应用于相关量词范围内的实体的结果得到可判断的内容。因此，在《概念书》对逻辑的理解上有效的公式在《格伦德格塞茨》的理解上不再有效。特别是，正如我们将看到的：
 
@@ -387,9 +387,9 @@ A→(B→A)
 
 ![judgement all gothic e term gothic e](https://plato.stanford.edu/entries/frege-logic/sec-2-2F.svg)
 
-量词范围涵盖可判断内容的地方。因此，正如他在整个《概念书》中所应用的那样，这条规则根本不是命题规则摩德斯·波能斯。相反，它类似于以下内容（用现代符号表示）：
+量词范围涵盖可判断内容的地方。因此，正如他在整个《概念书》中所应用的那样，这条规则根本不是命题规则摩德斯 · 波能斯。相反，它类似于以下内容（用现代符号表示）：
 
-∀a1∀a2…∀an∀b1∀b2…∀bm∀c1∀c2…∀ck(Φ1(a1,a2,…an,b1,b2,…bm)→Φ2(a1,a2,…an,c1,c2,…ck))\[P2] ∀a1∀a2…∀an∀b1∀b2…∀bm(Φ1(a1,a2,…an,b1,b2,…bm))\[C] ∀a1∀a2…∀an∀c1∀c2…∀ck(Φ2(a1,a2,…an,c1,c2,…ck))
+∀a1∀a2…∀an∀b1∀b2…∀bm∀c1∀c2…∀ck(Φ1(a1, a2,…an, b1, b2,…bm)→Φ2(a1, a2,…an, c1, c2,…ck))\[P2] ∀a1∀a2…∀an∀b1∀b2…∀bm(Φ1(a1, a2,…an, b1, b2,…bm))\[C] ∀a1∀a2…∀an∀c1∀c2…∀ck(Φ2(a1, a2,…an, c1, c2,…ck))
 
 以这种方式理解这条规则，有两件事情值得注意。
 
@@ -421,7 +421,7 @@ A→(B→A)
 
 ![judgement conditional term A all gothic a term higothic a](https://plato.stanford.edu/entries/frege-logic/sec-2-2Gd.svg)
 
-如果 A 是一个表达式，其中 a 不出现，并且 a 仅出现在Φ(a)的参数位置。（1879a: §11）
+如果 A 是一个表达式，其中 a 不出现，并且 a 仅出现在 Φ(a)的参数位置。（1879a: §11）
 
 弗雷格随后给出了第二个例子，利用了条件符号结构可以以不止一种方式被解析为前提和结论的事实。
 
@@ -487,7 +487,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 与《概念书》中的情况一样，《格言法则》的判断符号将表达式转化为判断。然而，与早期系统不同，在《格言法则》的逻辑中，判断符号并不附加于命名事实或情况的表达式，而是附加于命名对象（即专有名词）的表达式：
 
-> 上文已经说明，在单纯的等式中并没有包含任何断言；对于“2+3=5”，只是指定了一个真值，而没有说明是其中的哪一个。此外，如果我写下“(2+3=5)=(2=2)”并假设人们知道 2=2 是真的，即使这样，我也并没有断言 2 和 3 的和是 5；相反，我只是指定了这样一个真值：即“2+3=5”指的是与“2=2”相同的东西。因此，我们需要另一个特殊符号来断言某事为真。为此，我让符号 在真值的名称之前，例如在以下情况下：
+> 上文已经说明，在单纯的等式中并没有包含任何断言；对于“2+3 = 5”，只是指定了一个真值，而没有说明是其中的哪一个。此外，如果我写下“(2+3 = 5)=(2 = 2)”并假设人们知道 2 = 2 是真的，即使这样，我也并没有断言 2 和 3 的和是 5；相反，我只是指定了这样一个真值：即“2+3 = 5”指的是与“2 = 2”相同的东西。因此，我们需要另一个特殊符号来断言某事为真。为此，我让符号 在真值的名称之前，例如在以下情况下：
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-A.svg" alt="judgement 2^2 = 4" data-size="original">
 >
@@ -497,7 +497,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 ![judgement hi](https://plato.stanford.edu/entries/frege-logic/sec-3-1-B.svg)
 
-现在不再表示“Φ是一个事实”，而是表示类似于“Φ是（即等同于）True”。值得注意的是，在我们讨论弗雷格新 Grundgesetze 对罗马字母的理解时，对判断符号的这种简单解释将会在一定程度上变得复杂。
+现在不再表示“Φ 是一个事实”，而是表示类似于“Φ 是（即等同于）True”。值得注意的是，在我们讨论弗雷格新 Grundgesetze 对罗马字母的理解时，对判断符号的这种简单解释将会在一定程度上变得复杂。
 
 在《格伦德格塞特》中，弗雷格再次提出，判断符号（1893/1903: §5），否定符号（1893/1903: §6），条件符号（1893/1903: §12）和凹陷（1893/1903: §8）都可以理解为仅由实际的垂直“划线”或线条（或带有变量的曲线，对于凹陷的情况）组成，附加的水平部分的符号被理解为水平的独立发生。在《格伦德格塞特》中的实际应用中，判断符号从不单独出现，总是带有附加的水平部分。然而，与《概念符号》不同的是，水平符号经常单独出现，作为与判断符号、条件符号和否定符号不同的运算符。
 
@@ -507,7 +507,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ca.svg" alt="circumstance elta" data-size="original">
 >
-> 当Δ为真时，为真，当Δ不为真时，为假。因此，
+> 当 Δ 为真时，为真，当 Δ 不为真时，为假。因此，
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Cb.svg" alt="circumstance i" data-size="original">
 >
@@ -521,7 +521,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 这里特别重要的是，在 Grundgesetze 的逻辑中，横线并不仅限于可判断的内容：横线可以有意义地应用于任何名称。由于 Frege 坚持要求所有函数在适当类型的所有参数上都有定义，因此横线表示的函数必须对所有对象都有定义。因此，当应用于不是真值的对象时，它输出 False。
 
-因此，尽管 Frege 要求在引用上述判断线的解释时，判断线必须附加到一个真值名称上，但在 Grundgesetze 的逻辑中，我们可以通过将判断线附加到“ Δ”来实现将判断线附加到任何名称Δ的效果，得到：
+因此，尽管 Frege 要求在引用上述判断线的解释时，判断线必须附加到一个真值名称上，但在 Grundgesetze 的逻辑中，我们可以通过将判断线附加到“ Δ”来实现将判断线附加到任何名称 Δ 的效果，得到：
 
 ![judgement circumstance elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Da.svg)
 
@@ -563,7 +563,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Fa.svg" alt="conditional term eta term i" data-size="original">
 >
-> 通过规定，如果将 True 作为ζ参数，那么其值应为 False，而如果将不是 True 的任何对象作为ξ参数，则在所有其他情况下，函数的值应为 True。（1893/1903: §12）
+> 通过规定，如果将 True 作为 ζ 参数，那么其值应为 False，而如果将不是 True 的任何对象作为 ξ 参数，则在所有其他情况下，函数的值应为 True。（1893/1903: §12）
 
 有条件的推断是一个总函数：对于任意两个适当的名称“Δ”和“Γ”：
 
@@ -597,7 +597,7 @@ Begriffsschrift 的第三部分介绍了所谓的关系的弱祖先和强祖先�
 
 ![conditional term elta term conditional term ambda term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ha.svg)
 
-其中Δ和Λ是两个子组件，每个子组件的作用完全相同——子组件的“排序”并不重要（1893/1903: §12）。因此，这个表达式命名了与以下相同的真值：
+其中 Δ 和 Λ 是两个子组件，每个子组件的作用完全相同——子组件的“排序”并不重要（1893/1903: §12）。因此，这个表达式命名了与以下相同的真值：
 
 ![conditional term ambda term conditional term elta term heta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Hb.svg)
 
@@ -615,7 +615,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 #### 3.1.4 判断划线的等价性
 
-现在我们已经考虑了我们可能自然地（尽管正如我们已经注意到的那样，有些过时）认为是 Grundgesetze 逻辑的命题片段，我们需要回到水平划线。 弗雷格建议，否定划线、条件划线和判断划线可以被理解为仅由其形式化中涉及的实际垂直“划线”或线条组成，其符号的附加水平部分被理解为水平的单独发生（参见（1893/1903: §5, §6 和§12)）。 因此，对于任何名称“Δ”，所有的：
+现在我们已经考虑了我们可能自然地（尽管正如我们已经注意到的那样，有些过时）认为是 Grundgesetze 逻辑的命题片段，我们需要回到水平划线。 弗雷格建议，否定划线、条件划线和判断划线可以被理解为仅由其形式化中涉及的实际垂直“划线”或线条组成，其符号的附加水平部分被理解为水平的单独发生（参见（1893/1903: §5, §6 和 §12)）。 因此，对于任何名称“Δ”，所有的：
 
 1. ![not](https://plato.stanford.edu/entries/frege-logic/inline-not.svg) Δ,
 2. ![not](https://plato.stanford.edu/entries/frege-logic/inline-not.svg) ( ![circumstance](https://plato.stanford.edu/entries/frege-logic/inline-circumstance.svg) Δ),
@@ -662,17 +662,17 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 #### 3.1.5 等号
 
-现在我们来到了 Begriffsschrift 的逻辑和 Grundgesetze 的逻辑之间的另一个重大区别。现在他已经引入了意义/指称的区别，弗雷格可以解释“a=a”和“a=b”（两者都为真）之间内容上的差异，这是基于意义上的差异。因此，在 Grundgesetze 的逻辑中，弗雷格的等号被定义为人们所期望的那样：
+现在我们来到了 Begriffsschrift 的逻辑和 Grundgesetze 的逻辑之间的另一个重大区别。现在他已经引入了意义/指称的区别，弗雷格可以解释“a = a”和“a = b”（两者都为真）之间内容上的差异，这是基于意义上的差异。因此，在 Grundgesetze 的逻辑中，弗雷格的等号被定义为人们所期望的那样：
 
 > 我们已经比较随意地使用了等号来形成例子，但有必要对它做出更精确的规定。
 >
-> 'Γ=Δ'
+> 'Γ = Δ'
 >
-> 如果Γ与Δ相同，则指的是真；在其他所有情况下，指的是假。（1893/1903: §7）
+> 如果 Γ 与 Δ 相同，则指的是真；在其他所有情况下，指的是假。（1893/1903: §7）
 
 请注意，他已经转而使用传统的等号符号“=”，而不是他在《概念符号》中引入的特殊符号“≡”，用于表示概念内容的相同性。关于弗雷格的意义/指称区分发展的良好概述，特别关注该区分在《基本法则》后期逻辑中所起的作用，可参考克雷默（2010）的研究。
 
-虽然等号的定义现在变得很直接，但弗雷格对它的使用与现代谓词逻辑中等号符号的使用有些不同。弗雷格在提出日常等式如“2+2=4”时使用等号，但他也使用同样的符号夹在真值名称之间，以表达真值名称是同一真值的名称的主张，也就是说，所讨论的表达式是等价的。这解释了弗雷格在讨论定义的命题运算符时的一个明显疏忽。弗雷格在《Grundgesetze》中并没有明确给出材料双条件的定义，尽管他本可以很容易地按照标准方式定义材料双条件为两个条件句的合取：
+虽然等号的定义现在变得很直接，但弗雷格对它的使用与现代谓词逻辑中等号符号的使用有些不同。弗雷格在提出日常等式如“2+2 = 4”时使用等号，但他也使用同样的符号夹在真值名称之间，以表达真值名称是同一真值的名称的主张，也就是说，所讨论的表达式是等价的。这解释了弗雷格在讨论定义的命题运算符时的一个明显疏忽。弗雷格在《Grundgesetze》中并没有明确给出材料双条件的定义，尽管他本可以很容易地按照标准方式定义材料双条件为两个条件句的合取：
 
 ![not conditional term conditional term elta term amma not term conditional term amma term elta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ma.svg)
 
@@ -692,7 +692,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 
 ![judgement not not a equiv a](https://plato.stanford.edu/entries/frege-logic/sec-3-1-Na.svg)
 
-对于逻辑来说，这个原则将简化表达，因为它暗示了公理 5 和公理 6。我们还注意到，对于 Begriffsschrift 的逻辑来说，这个论断是正确的，因为所讨论的量词仅限于可判断的内容。然而，在 Grundgesetze 的逻辑中情况就不同了，因为在 Grundgesetze 的解释中，这个相同的公式（在纯语法意义上理解“sameness”，取决于将“≡”替换为“=”）是错误的。假设“Δ”是任何不是真值的对象的名称。那么“ Δ”是 True 的名称，因此“ Δ”是 False 的名称，“Δ”和“ Δ”不是同一个对象的名称。因此，“ Δ=Δ”是 False 的名称。
+对于逻辑来说，这个原则将简化表达，因为它暗示了公理 5 和公理 6。我们还注意到，对于 Begriffsschrift 的逻辑来说，这个论断是正确的，因为所讨论的量词仅限于可判断的内容。然而，在 Grundgesetze 的逻辑中情况就不同了，因为在 Grundgesetze 的解释中，这个相同的公式（在纯语法意义上理解“sameness”，取决于将“≡”替换为“=”）是错误的。假设“Δ”是任何不是真值的对象的名称。那么“ Δ”是 True 的名称，因此“ Δ”是 False 的名称，“Δ”和“ Δ”不是同一个对象的名称。因此，“ Δ = Δ”是 False 的名称。
 
 我们可以利用刚刚讨论的真值概念，在 Grundgesetze 的逻辑中构建一个正确的判断，捕捉到 Frege 考虑添加到 Begriffsschrift 中的直观含义：
 
@@ -708,7 +708,7 @@ Frege 引入了一条推理规则（可以在推导中无需注释地应用）�
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-1-Ob.svg" alt="all gothic a term higothic a" data-size="original">
 >
-> 如果函数Φ(ξ)的值对于每个参数都为真，则为真，否则为假。（弗雷格 1893/1903：§8）
+> 如果函数 Φ(ξ)的值对于每个参数都为真，则为真，否则为假。（弗雷格 1893/1903：§8）
 
 弗雷格没有限制“Φ(ξ)”必须是一个概念的名称，因此“ a+1”是格兰德格塞茨逻辑中的一个良好形成的判断，尽管是错误的。实际上，他无法一致地施加任何这样的限制，因为二级函数必须以与一级函数完全相同的方式为所有一级函数定义，就像一级函数必须为所有对象定义一样。
 
@@ -725,7 +725,7 @@ Frege 通过凹度明确引入了通过凹度进行二阶量化的符号表示�
 
 ![all gothic f term athcalFetagothic f eta](https://plato.stanford.edu/entries/frege-logic/sec-3-1-P.svg)
 
-给出了一个命题的真值，即对于每个一级函数Φ(ξ)，应用名为“Fβ”的函数到Φ(ξ)的结果是 True（1893/1903: §24）。因此，与 Begriffsschrift 的逻辑不同，Grundgesetze 的逻辑涉及一级和二级量化的不同量词，而不仅仅是引入一个量词，有时范围是函数，有时范围是这些函数的参数，具体取决于上下文。
+给出了一个命题的真值，即对于每个一级函数 Φ(ξ)，应用名为“Fβ”的函数到 Φ(ξ)的结果是 True（1893/1903: §24）。因此，与 Begriffsschrift 的逻辑不同，Grundgesetze 的逻辑涉及一级和二级量化的不同量词，而不仅仅是引入一个量词，有时范围是函数，有时范围是这些函数的参数，具体取决于上下文。
 
 Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度来看，他从来不需要它：相反，他使用值域运算符来“降低”Grundgesetze 中的各种结构（如下所述），使它们处于他的一级和二级凹量化的范围内。
 
@@ -795,7 +795,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 >
 > 我们暂时扩展“x”的范围，以包括前提和结论，尽管每个命题即使没有这种扩展也成立。（1893/1903: §17）
 
-关于这段文字有几点重要的事情需要注意。首先，与 Begriffsschrift 的逻辑相比，对罗马字母的一般性设备的这种新颖处理正是由我们在本文前面提出的关于假言三段论的谜题所激发的。在这里，所讨论的推理是假设三段论的一个版本（在 Grundgesetze 的§15 中有详细说明，稍后会有更多介绍），但问题是一样的。所讨论的规则允许我们对于任何表达式Δ、Γ和Θ，从以下推导：
+关于这段文字有几点重要的事情需要注意。首先，与 Begriffsschrift 的逻辑相比，对罗马字母的一般性设备的这种新颖处理正是由我们在本文前面提出的关于假言三段论的谜题所激发的。在这里，所讨论的推理是假设三段论的一个版本（在 Grundgesetze 的 §15 中有详细说明，稍后会有更多介绍），但问题是一样的。所讨论的规则允许我们对于任何表达式 Δ、Γ 和 Θ，从以下推导：
 
 ![judgement conditional term elta term amma](https://plato.stanford.edu/entries/frege-logic/sec-3-2-D1.svg)
 
@@ -861,9 +861,9 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 值域运算符最重要的应用之一是其对一级概念的应用，由此产生的对象，弗雷格称之为外延，可以从现代的角度来看，粗略地说，类似于这些概念的特征函数的图。外延在逻辑上表现得非常类似于（天真的）集合，但是敏感的（或者仅仅是明智的）读者应该谨慎地将我们对于格伦特格策外延的现代观点过分归因于集合。关于弗雷格关于外延性质的思想发展的深入研究，请参阅伯奇（1984）。
 
-菲格尔确定了另一类可以使用值域运算符构造的对象子类，这些对象并不对应于现代数学中广泛使用的任何内容：双值域。对于任意二元一级函数名“Φ(ξ,ζ)”，我们通过将值域运算符应用于“Φ(ξ,ζ)”（将由“ξ”标记的参数位置绑定），得到一元一级函数名“ἐ(Φ(ε,ζ))”，从而形成了（由函数命名的）“Φ(ξ,ζ)”的双值域（1893/1903: §36）。
+菲格尔确定了另一类可以使用值域运算符构造的对象子类，这些对象并不对应于现代数学中广泛使用的任何内容：双值域。对于任意二元一级函数名“Φ(ξ, ζ)”，我们通过将值域运算符应用于“Φ(ξ, ζ)”（将由“ξ”标记的参数位置绑定），得到一元一级函数名“ἐ(Φ(ε, ζ))”，从而形成了（由函数命名的）“Φ(ξ, ζ)”的双值域（1893/1903: §36）。
 
-对于双值域的需求为 Grundgesetze 中的高阶量词通常而非仅仅概念和关系提供了一个非常实际的解释。给定一个二元关系符号“Φ(ζ,ξ)”，第一步的结果——即“ἐ(Φ(ε,ξ))”的指称——不是一个概念，而是一个将对象映射到值域的函数。因此，值域的引入要求菲格尔不仅接受概念和关系，而且更普遍地接受函数进入他的高阶本体论——有关进一步讨论，请参见 Landini (2012: ch. 4)。
+对于双值域的需求为 Grundgesetze 中的高阶量词通常而非仅仅概念和关系提供了一个非常实际的解释。给定一个二元关系符号“Φ(ζ, ξ)”，第一步的结果——即“ἐ(Φ(ε, ξ))”的指称——不是一个概念，而是一个将对象映射到值域的函数。因此，值域的引入要求菲格尔不仅接受概念和关系，而且更普遍地接受函数进入他的高阶本体论——有关进一步讨论，请参见 Landini (2012: ch. 4)。
 
 菲格尔仅为一级函数定义了值域。当然，他本可以扩展这个概念，以直接获得二级和三级函数的对象级类比。但这是没有必要的，因为我们可以通过重复应用值域运算符于一级函数，将二级和更高级函数“归约”为一级函数。例如，给定一个将一级函数映射到真值的二级概念名“Fβ”，我们可以通过首先构造该概念的名称来构造一个对象级类比，该概念对一个对象成立当且仅当该对象是由概念“Fβ”命名的第一级函数的值域映射到 True：
 
@@ -871,7 +871,7 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 “Fβ”所指称的第二层概念的对象层对应物，便是这一第一层概念的值域：
 
-![ἀ not all gothic f conditional term lpha= ἐfarepsilon not term athcalFetafeta](https://plato.stanford.edu/entries/frege-logic/sec-3-2-H.svg)
+![ἀ not all gothic f conditional term lpha = ἐfarepsilon not term athcalFetafeta](https://plato.stanford.edu/entries/frege-logic/sec-3-2-H.svg)
 
 这种操作是相当通用的。每当在 Grundgesetze 中需要第二或第三层函数的对象层对应物时，都可以使用这个技巧来构造这样的对象。
 
@@ -885,19 +885,19 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 >
 > 有规范以区分两种情况：
 >
-> 1. 如果对于参数存在一个对象 Δ，使得 ἐ(Δ=ε) 是该参数，那么函数 ∖ξ 的值将是 Δ 本身。
-> 2. 如果对于参数不存在对象 Δ，使得 ἐ(Δ=ε) 是该参数，那么参数本身将是函数 ∖ξ 的值。
+> 1. 如果对于参数存在一个对象 Δ，使得 ἐ(Δ = ε) 是该参数，那么函数 ∖ξ 的值将是 Δ 本身。
+> 2. 如果对于参数不存在对象 Δ，使得 ἐ(Δ = ε) 是该参数，那么参数本身将是函数 ∖ξ 的值。
 >
 > (1893/1903: §11)
 
-术语方面需要一点帮助：对于任何专有名词“Δ”，让我们称呼由“ἐ(Δ=ε)”命名的对象为“Δ”的单例扩展。然后：
+术语方面需要一点帮助：对于任何专有名词“Δ”，让我们称呼由“ἐ(Δ = ε)”命名的对象为“Δ”的单例扩展。然后：
 
 1. 如果“∖Γ”与“Δ”是共指的，那么如果“Γ”命名了由“Δ”命名的对象的单例扩展
-2. "∖Γ"与"Γ"是互指的。
+2. "∖Γ" 与 "Γ" 是互指的。
 
-更简单地说，反斜杠是一个"单例剥离"的工具。
+更简单地说，反斜杠是一个 "单例剥离" 的工具。
 
-弗雷格将反斜杠用作一种确定描述运算符。在现代处理中，确定描述运算符"ι"附加到谓词上，对于一个谓词"Φ(x)"，"ιx(Φ(x))"表示满足谓词"Φ(ξ)"的唯一对象（如果存在）。然而，弗雷格根据通过连续应用值域运算符来降低层级的策略，将他的确定描述运算符定义为应用于概念的值域，而不是概念本身。因此，对于一个概念名称"Φ(ξ)"，"∖Γ"表示被该概念命名的对象，该对象通过概念"Φ(ξ)"映射为 True（如果存在），否则表示由"ἐ(Φ(ε))"命名的对象。
+弗雷格将反斜杠用作一种确定描述运算符。在现代处理中，确定描述运算符 "ι" 附加到谓词上，对于一个谓词 "Φ(x)"，"ιx(Φ(x))" 表示满足谓词 "Φ(ξ)" 的唯一对象（如果存在）。然而，弗雷格根据通过连续应用值域运算符来降低层级的策略，将他的确定描述运算符定义为应用于概念的值域，而不是概念本身。因此，对于一个概念名称 "Φ(ξ)"，"∖Γ" 表示被该概念命名的对象，该对象通过概念 "Φ(ξ)" 映射为 True（如果存在），否则表示由 "ἐ(Φ(ε))" 命名的对象。
 
 ### 3.3《Grundgesetze》的公理
 
@@ -917,13 +917,13 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-3-A1.svg" alt="judgement conditional term amma term conditional term elta term amma" data-size="original">
 >
-> 只有在Γ和Δ为真而Γ不为真时，才会出现假。这是不可能的；因此：
+> 只有在 Γ 和 Δ 为真而 Γ 不为真时，才会出现假。这是不可能的；因此：
 >
 > <img src="https://plato.stanford.edu/entries/frege-logic/axiom1.svg" alt="judgement conditional term a term conditional term b term a" data-size="original">
 >
 > （1893/1903：第 18 条）
 
-鉴于上述讨论（以及弗雷格在基本定律的证明中谨慎使用“Γ不是真”而不是“Γ是假”），当由“Γ”和“Δ”命名的对象不是真值时，这个表达式作为真的名称并不令人意外。鼓励读者验证以下例子：
+鉴于上述讨论（以及弗雷格在基本定律的证明中谨慎使用“Γ 不是真”而不是“Γ 是假”），当由“Γ”和“Δ”命名的对象不是真值时，这个表达式作为真的名称并不令人意外。鼓励读者验证以下例子：
 
 ![conditional term 2 term conditional term 3 term 2](https://plato.stanford.edu/entries/frege-logic/sec-3-3-A2.svg)
 
@@ -959,29 +959,29 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 
 基本法 III，即掌握平等符号的 Grundgesetze 原则，乍一看似乎是相同物的不可辨识性的轻微变体：
 
-![judgement conditional term ga=b term gall gothic f term conditional gothic fb term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D1.svg)
+![judgement conditional term ga = b term gall gothic f term conditional gothic fb term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D1.svg)
 
 基本法 III（1893/1903 年：§20）
 
 如果我们用横线替换罗马字母“g”，并应用横线的融合，我们确实会得到 Grundgesetze 版本的相同物的不可辨识性：
 
-![judgement conditional term a=b all gothic f term conditional term gothic f b term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D2.svg)
+![judgement conditional term a = b all gothic f term conditional term gothic f b term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D2.svg)
 
 基本法 III 比这个要强大得多。
 
-但是，基本法 III 规定，对于任何一元一级函数名称“Φ(ξ)”和任何适当的名称“Δ”和“Γ”，命题“Φ(ξ)”命名的函数应用到“Δ=Γ”命名的真值时不成立，而将函数命名为“Φ(ξ)”的应用到真值命名为：
+但是，基本法 III 规定，对于任何一元一级函数名称“Φ(ξ)”和任何适当的名称“Δ”和“Γ”，命题“Φ(ξ)”命名的函数应用到“Δ = Γ”命名的真值时不成立，而将函数命名为“Φ(ξ)”的应用到真值命名为：
 
 ![all gothic f conditional term gothic famma term gothic felta](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D3.svg)
 
-不是真的。因此，这个公理相当于声称一个人总是可以在命题的任何地方（即作为任何函数Φ(ξ)的参数）用相应的全称量化表达式替换相等关系。
+不是真的。因此，这个公理相当于声称一个人总是可以在命题的任何地方（即作为任何函数 Φ(ξ)的参数）用相应的全称量化表达式替换相等关系。
 
 否定符号当然是可以替换“g”的功能之一。因此，以下是基本法则 III 的替代实例：
 
-![judgement conditional not term a=b not term all gothic f conditional term gothic fb term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D4.svg)
+![judgement conditional not term a = b not term all gothic f conditional term gothic fb term gothic fa](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D4.svg)
 
 虽然我们尚未讨论所需的广义对置规则，但这等同于：
 
-![judgement conditional all gothic f term conditional term gothic fb term gothic fa term a=b](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D5.svg)
+![judgement conditional all gothic f term conditional term gothic fb term gothic fa term a = b](https://plato.stanford.edu/entries/frege-logic/sec-3-3-D5.svg)
 
 因此，基本法则 III 暗示了不可辨识者的恒等性的 Grundgesetze 类比。因此，弗雷格在 Grundgesetze 的逻辑中不需要 Begriffsschrift 的公理 8 的类比，因为他证明：
 
@@ -1039,11 +1039,11 @@ IVd
 
 《基本法第五条》的 Grundgesetze 表述比现代高阶逻辑中的众所周知的“翻译”要更加普遍，例如：
 
-∀X∀Y（§（X）=§（Y）↔∀z（X（z）↔Y（z）））
+∀X∀Y（§（X）= §（Y）↔∀z（X（z）↔Y（z）））
 
 其中量词范围涵盖概念或属性。《基本法则 V》的 Grundgesetze 表述不仅意味着每个概念都有对应的外延，而且还意味着任何函数（无论是概念还是其他）都有一个值域。因此，《基本法则 V》的 Grundgesetze 表述也捕捉到了类似于：
 
-∀f∀g(§(f)=§(g)↔∀z(f(z)=g(z)))
+∀f∀g(§(f)= §(g)↔∀z(f(z)= g(z)))
 
 由于在现代对高阶逻辑的处理中，概念与函数是不同的类型，而不是像 Grundgesetze 中那样是函数类的子类，所以弗雷格的《基本法则 V》严格来说与现代这些表述都不等价。
 
@@ -1051,7 +1051,7 @@ IVd
 
 《格伦德格塞》的最终公理，基本法六，规定了反斜杠的行为：
 
-![judgement a =backslash ἐa = arepsilon](https://plato.stanford.edu/entries/frege-logic/sec-3-3-H1.svg)
+![judgement a = backslash ἐa = arepsilon](https://plato.stanford.edu/entries/frege-logic/sec-3-3-H1.svg)
 
 基本法六（1893/1903 年：第 18 条）
 
@@ -1059,13 +1059,13 @@ IVd
 
 ![judgement conditional all gothic a not term b = ἐgothic a = arepsilon term backslash b = b](https://plato.stanford.edu/entries/frege-logic/sec-3-3-H2.svg)
 
-从《Grundgesetze》的演绎系统中缺乏这个原则，可以深入了解弗雷格的方法论。争议的问题是，弗雷格是否认为他的逻辑是完备的，即他是否认为它能够证明《Grundgesetze》语言中可表达的每个逻辑真理。迈克尔·达梅特提出：
+从《Grundgesetze》的演绎系统中缺乏这个原则，可以深入了解弗雷格的方法论。争议的问题是，弗雷格是否认为他的逻辑是完备的，即他是否认为它能够证明《Grundgesetze》语言中可表达的每个逻辑真理。迈克尔 · 达梅特提出：
 
 > 毫无疑问，弗雷格会声称他的公理连同其中未体现的附加非正式规定，构成了一个完备的理论：将他归因于对高阶理论不完备的认识是一种时代错误。（1981 年：423）
 
 Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”结束时，将真值与其单元素扩展进行等同。然而，基本法则 VI 缺乏第二个实例揭示了一点，那就是弗雷格对 Grundgesetze 逻辑的不完备性（如果它不是不一致的）是非常清楚的，因为他未包含一个在预期解释下显然为真的原则。将他归因于对他的逻辑中实际包含的逻辑原则的明显缺陷的认识（考虑到他提供的关于他逻辑预期解释的非正式语义阐释）与声称他意识到二阶逻辑在原则上的不完备性是完全不同的，当然。
 
-有趣的是，Heck 指出（2012 年：第 2 章），弗雷格后来在 Grundgesetze 中声称一个命题“似乎是不可证明的”（Frege 1893/1903：§114）。弗雷格小心地声称只有这个原则是不可证明的，因此他不会声称它是真的（即，他不会将其写为带有“ ”的判断），但他也不声称它是假的。Heck 认为，弗雷格在这一点上意识到了他的系统（或者至少是与§114 相关的推导的一致子系统）的潜在不完备性。阻止弗雷格证明所讨论的命题的原因，以及允许戴德金德在他自己的算术处理中证明类似原则的原因（Dedekind 1888），是后者在推导中使用了选择公理的非正式版本，而弗雷格在 Grundgesetze 的逻辑中没有包含任何形式的选择公理（Heck 2012 年：第 2 章）。这是一个重要的观察，但为了得出结论，我们并不需要如此复杂的东西，即弗雷格很可能认为他的系统是不完备的。
+有趣的是，Heck 指出（2012 年：第 2 章），弗雷格后来在 Grundgesetze 中声称一个命题“似乎是不可证明的”（Frege 1893/1903：§114）。弗雷格小心地声称只有这个原则是不可证明的，因此他不会声称它是真的（即，他不会将其写为带有“ ”的判断），但他也不声称它是假的。Heck 认为，弗雷格在这一点上意识到了他的系统（或者至少是与 §114 相关的推导的一致子系统）的潜在不完备性。阻止弗雷格证明所讨论的命题的原因，以及允许戴德金德在他自己的算术处理中证明类似原则的原因（Dedekind 1888），是后者在推导中使用了选择公理的非正式版本，而弗雷格在 Grundgesetze 的逻辑中没有包含任何形式的选择公理（Heck 2012 年：第 2 章）。这是一个重要的观察，但为了得出结论，我们并不需要如此复杂的东西，即弗雷格很可能认为他的系统是不完备的。
 
 弗雷格在 Grundgesetze 的形式系统中推导算术时，并不需要涵盖反斜杠应用于非单元素扩展的公理（我们可以假设他在推导实数和复数分析时也不需要它）。因此，他不需要将其添加到他的基本法则库存中。弗雷格的形式系统只需要包括那些对他的算术和分析重建所需的逻辑原则-他的项目并不需要在现代意义上具有证明论上的完备性，因此我们不应该对他所制定的逻辑显然是不完备的（如果基本法则 V 没有使其不一致，从而变得平凡完备）感到惊讶。
 
@@ -1075,9 +1075,9 @@ Dummett 心中所指的规定是在 Grundgesetze 第 10 节的“排列论证”
 
 首先，我们提醒读者已经讨论过的三条推理规则，这些规则可以在《格物法则》的逻辑推导中无需任何评论或标签地应用。这些规则包括子组件的排列、相同子组件的融合以及水平融合。除了这些规则，弗雷格还引入了六条推理规则。
 
-#### 3.4.1 广义摩德斯·波奈斯
+#### 3.4.1 广义摩德斯 · 波奈斯
 
-第一个是广义摩德斯·波奈斯（“广义摩德斯·波奈斯”这个术语不是弗雷格提出的，他称这种推理为“推断(a)”），弗雷格如此描述：
+第一个是广义摩德斯 · 波奈斯（“广义摩德斯 · 波奈斯”这个术语不是弗雷格提出的，他称这种推理为“推断(a)”），弗雷格如此描述：
 
 > 如果一个命题的一个子组成部分与第二个命题仅在于缺少判断符号上有所不同，那么可以推断出一个命题，该命题通过抑制该子组成部分从第一个命题得出。（1893/1903: §14）
 
@@ -1251,33 +1251,33 @@ we can infer: (我们可以推断：)
 ### Secondary Literature
 
 * Beaney, Michael, 1997, “Introduction”, in Be97, 1–46.
-* ––– (ed.), 2013, *The Oxford Handbook of the History of Analytic Philosophy*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.001.0001
-* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s *Grundgesetze*: Semantics and Expressiveness”, *Journal for the History of Analytical Philosophy*, 5: article 6. doi:10.15173/jhap.v5i6.2920
+* ––– (ed.), 2013, *The Oxford Handbook of the History of Analytic Philosophy*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199238842.001.0001
+* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s *Grundgesetze*: Semantics and Expressiveness”, *Journal for the History of Analytical Philosophy*, 5: article 6. doi: 10.15173/jhap.v5i6.2920
 * Boolos, George, 1994, “1879?”, in Clark and Hale (eds) 1994: 31–48 (ch. 2).
-* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, *The Philosophical Review*, 93(1): 3–34. doi:10.2307/2184411
+* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, *The Philosophical Review*, 93(1): 3–34. doi: 10.2307/2184411
 * Clark, Peter and Bob Hale (eds.), 1994, *Reading Putnam*, Cambridge, MA: Blackwell Publishers.
 * Cook, Roy T., 2013, “How to Read *Grundgesetze*”, appendix to ER13: A1–A42.
-* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, *The Philosophical Quarterly*, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi:10.2307/2218764
+* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, *The Philosophical Quarterly*, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi: 10.2307/2218764
 * Dedekind, Richard, 1888, *Was sind und was sollen die Zahlen?*, Braunschweig: Friedrich Vieweg.
 * Dummett, Michael A. E., 1981, *The Interpretation of Frege’s Philosophy*, London: Duckworth.
 * Ebert, Philip A. and Marcus Rossberg (eds.), 2019, *Essays on Frege’s: “Basic Laws of Arithmetic”*, Oxford: Oxford University Press.
 * Gabbay, Dov M. and John Woods (eds.), 2004, *Handbook of the History of Logic, Volume 3, the Rise of Modern Logic: From Leibniz to Frege*, Amsterdam/Boston: Elsevier.
-* Goldfarb, Warren, 2010, “Frege’s Conception of Logic”, in Potter and Ricketts 2010: 63–85. doi:10.1017/CCOL9780521624282.003
+* Goldfarb, Warren, 2010, “Frege’s Conception of Logic”, in Potter and Ricketts 2010: 63–85. doi: 10.1017/CCOL9780521624282.003
 * Heck, Richard Kimberly, 2012, *Reading Frege’s “Grundgesetze”*, Oxford: Clarendon Press. (originally published under Richard G. Heck)
 * –––, 2019, “Formal Arithmetic Before *Grundgesetze*”, in Ebert and Rossberg 2019: 497–537 (ch. 18).
-* Heck, Richard Kimberly and Robert May, 2013, “The Function Is Unsaturated”, in Beaney 2013: 825–850. (originally published under Richard Kimberley Heck and Robert May) doi:10.1093/oxfordhb/9780199238842.013.0028
-* –––, 2020, “The Birth of Semantics”, *Journal for the History of Analytical Philosophy*, 8: article 6. doi:10.15173/jhap.v8i6.3970
+* Heck, Richard Kimberly and Robert May, 2013, “The Function Is Unsaturated”, in Beaney 2013: 825–850. (originally published under Richard Kimberley Heck and Robert May) doi: 10.1093/oxfordhb/9780199238842.013.0028
+* –––, 2020, “The Birth of Semantics”, *Journal for the History of Analytical Philosophy*, 8: article 6. doi: 10.15173/jhap.v8i6.3970
 * Jones, Emily Elizabeth Constance, 1890, *Elements of Logic as a Science of Propositions*, Edinburgh: T. & T. Clark.
 * Jourdain, Philip, 1912, “The Development of Theories of Mathematic Logic and the Principles of Mathematics”, *The Quarterly Journal of Pure and Applied Mathematics*, 43: 219–314.
-* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, *Synthese*, 105(1): 31–51. doi:10.1007/BF01064102
-* Kremer, Michael, 2010, “Sense and Reference: The Origins and Development of the Distinction”, in Potter and Ricketts 2010: 220–292. doi:10.1017/CCOL9780521624282.007
+* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, *Synthese*, 105(1): 31–51. doi: 10.1007/BF01064102
+* Kremer, Michael, 2010, “Sense and Reference: The Origins and Development of the Distinction”, in Potter and Ricketts 2010: 220–292. doi: 10.1017/CCOL9780521624282.007
 * Landini, Gregory, 2012, *Frege’s Notations: What They Are and How They Mean*, (History of Analytic Philosophy), Houndmills, UK/New York: Palgrave Macmillan.
 * Łukasiewicz, Jan, 1934, “Z Historii Logiki Zdãn”, *Przeglad Filozoficzny*, 37: 369–377.
 * Mates, Benson, 1972, *Elementary Logic*, second edition, New York: Oxford University Press.
 * Mostowski, Andrzej, 1957, “On a Generalization of Quantifiers”, *Fundamenta Mathematics*, 44(1): 12–36.
 * Pedriali, Walter B., 2019, “When Logic Gives Out: Frege on Basic Logical Laws”, in Ebert and Rossberg 2019: 57–89 (ch. 3).
-* Potter, Michael D. and Tom Ricketts (eds.), 2010, *The Cambridge Companion to Frege*, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL9780521624282
-* Putnam, Hilary, 1982, “Peirce the Logician”, *Historia Mathematica*, 9(3): 290–301. doi:10.1016/0315-0860(82)90123-9
+* Potter, Michael D. and Tom Ricketts (eds.), 2010, *The Cambridge Companion to Frege*, Cambridge, UK/New York: Cambridge University Press. doi: 10.1017/CCOL9780521624282
+* Putnam, Hilary, 1982, “Peirce the Logician”, *Historia Mathematica*, 9(3): 290–301. doi: 10.1016/0315-0860(82)90123-9
 * Russell, Bertrand, 1902, “Letter to Frege”, printed in van Heijenoort (ed.) 1967a: 124–125.
 * Tarski, Alfred, 1933, “The Concept of Truth in the Languages of the Deductive Sciences” (Polish), *Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych* 34, Warsaw. Reprinted in Zygmunt (ed.), 1995, *Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda*, Warsaw: Wydawnictwo Naukowe PWN, 13–172. English translation in Tarski’s *Logic, Semantics, Metamathematics: Papers from 1923 to 1938*, 2nd edition, John Corcoran (ed.), Indianapolis: Hackett Publishing Company, 1983, 152–278.
 * van Heijenoort, Jean, 1967b, “Introduction to *Begriffsschrift*”, in van Heijenoort (ed.) 1967: 1–5.

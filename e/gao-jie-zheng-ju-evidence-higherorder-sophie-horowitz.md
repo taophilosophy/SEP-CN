@@ -2,7 +2,7 @@
 
 *首次发表于 2022 年 9 月 6 日星期二*
 
-高阶证据是指涉及信徒的理性能力、认识表现或证据情况的证据。许多认识论者认为这种证据可以理性地影响我们的“一阶”信念：也就是我们利用相关的理性能力或在相关的证据情况下形成的关于世界的信念。通过例子来理解这种现象是最容易的。这里有一个典型案例（摘自 Schoenfield 2018: 690，基于 Adam Elga [2013 和 2008 提出的类似案例，参见其他互联网资源]，Lasonen-Aarnio [2014]，Christensen [2010a]等人提出的类似案例）：
+高阶证据是指涉及信徒的理性能力、认识表现或证据情况的证据。许多认识论者认为这种证据可以理性地影响我们的“一阶”信念：也就是我们利用相关的理性能力或在相关的证据情况下形成的关于世界的信念。通过例子来理解这种现象是最容易的。这里有一个典型案例（摘自 Schoenfield 2018: 690，基于 Adam Elga [2013 和 2008 提出的类似案例，参见其他互联网资源]，Lasonen-Aarnio [2014]，Christensen [2010a] 等人提出的类似案例）：
 
 缺氧：艾莎正在驾驶她的小型非加压飞机飞行，想知道她是否有足够的燃料飞往夏威夷。她查看仪表、刻度盘和地图，获得了一些证据 E，她知道这些证据强烈支持（比如说到程度.99）她有足够的燃料（G）或者没有（~G）的命题。经过思考和进行必要的计算，艾莎得出结论 G；事实上，这就是 E 支持的。但随后她检查了海拔高度，注意到她处于严重缺氧的风险之中，这种情况会损害一个人的推理能力，同时让推理者感觉非常清晰和头脑清醒。艾莎知道在这个海拔高度，执行她刚刚进行的那种计算的飞行员只有 50%的时间能够得出正确的结论。缺氧：艾莎正在驾驶她的小型非加压飞机飞行，想知道她是否有足够的燃料飞往夏威夷。她查看仪表、刻度盘和地图，获得了一些证据 E，她知道这些证据强烈支持（比如说到程度.99）她有足够的燃料（G）或者没有（~G）的命题。经过思考和进行必要的计算，艾莎得出结论 G；事实上，这就是 E 支持的。但随后她检查了海拔高度，注意到她处于严重缺氧的风险之中，这种情况会损害一个人的推理能力，同时让推理者感觉非常清晰和头脑清醒。艾莎知道在这个海拔高度，执行她刚刚进行的那种计算的飞行员只有 50%的时间能够得出正确的结论。
 
@@ -47,7 +47,7 @@ Christensen (2010a)认为，高阶证据之所以独特，是因为其意义是�
 
 高阶证据引发了特殊问题。一个非常普遍的问题是，很难看出我们如何能够在一个一致、完整的理性图景中理解高阶证据。Maria Lasonen-Aarnio (2014) 特别有力和全面地阐明了这一点，因此下一节将在很大程度上遵循她的阐述。(另见 Schechter 2013，讨论许多类似关切。) 然后我们将看一下对适应高阶证据的理论的一个稍微不同的反对意见：指责它们是自相矛盾的。本节将以一些关于高阶证据不会在理性上影响一阶信念的理论的选择结束。
 
-### 2.1 Structural problems for higher-order evidence高阶证据的结构问题
+### 2.1 Structural problems for higher-order evidence 高阶证据的结构问题
 
 Lasonen-Aarnio 从尊重高阶证据的观察开始，这可能迫使一个理性的代理违反真正的认识规则。 （这与引言中提出的想法非常相似：即在 Aisha 接收到她的高阶证据后，她的全部证据仍然支持 G。）由于这种想法在很多高阶证据文献中很常见，值得详细阐述其背后的推理。使这种想法合理的一个简单方法是专注于一个蕴涵的案例——因此，让我们假设 Aisha 的一阶证据蕴涵 G。然后我们可以这样论证：
 
@@ -99,11 +99,11 @@ Aisha 收到高阶证据后，理性上需要违反一个理性要求。
 
 但是承认在这种情况下存在理性认识无力行为会产生很大的直觉成本。正如 Horowitz（2014）所指出的，如果像 Aisha 这样的情况下理性认识无力是合理的，那么 bootstraping 也是如此：如果 Aisha 发现自己连续多次处于这种情况，或者关于许多不同的信念，她可以利用她的一阶信念来建立一个出色的成功记录，最终排除她曾经理性受损的可能性。这种推理看起来荒谬——因为，大概，坚定地持有一个信念，同时又相信自己的证据并不支持它之间存在紧张。那么为什么要允许这种紧张甚至在一个案例中呢？Horowitz 还举例说明了其他一些看似合理的不合理推理和行为，这些推理和行为似乎是由理性认识无力所授权的；另请参见 Brown 2018，Littlejohn 2018 和 Silva 2018，进一步讨论在这些情况下由理性认识无力授权的直觉上不合理的推理和行为，以及 Feldman 2005，对类似情况下理性认识无力的早期拒绝。
 
-第二种可能性是说，高阶证据对一阶或高阶信念根本没有影响。（遵循同行分歧文献，我们可以称之为“坚定”观点；Smithies [2019]称之为“向上推动”）。Kelly (2005)似乎在同行分歧的背景下暂时支持这一观点（尽管他后来的作品支持了一个更温和的“总体证据”观点；例如，参见 Kelly 2010）。Titelbaum (2015)辩称，一个理性的代理人永远不会在适用于她情境的理性要求上犯错（尽管她可能对自己处于哪种情境感到理性上的不确定）；他写道“关于理性的错误是理性的错误”。Titelbaum 对此的论证基于认知无力是不理性的这一假设。（另见 Titelbaum 2019。参见 C. Field 2019 对这一立场的批评。）Tal (2021)也为坚定观点辩护，部分地诉诸于认知无力的不理性。
+第二种可能性是说，高阶证据对一阶或高阶信念根本没有影响。（遵循同行分歧文献，我们可以称之为“坚定”观点；Smithies [2019] 称之为“向上推动”）。Kelly (2005)似乎在同行分歧的背景下暂时支持这一观点（尽管他后来的作品支持了一个更温和的“总体证据”观点；例如，参见 Kelly 2010）。Titelbaum (2015)辩称，一个理性的代理人永远不会在适用于她情境的理性要求上犯错（尽管她可能对自己处于哪种情境感到理性上的不确定）；他写道“关于理性的错误是理性的错误”。Titelbaum 对此的论证基于认知无力是不理性的这一假设。（另见 Titelbaum 2019。参见 C. Field 2019 对这一立场的批评。）Tal (2021)也为坚定观点辩护，部分地诉诸于认知无力的不理性。
 
 史密斯（2019 年；尤其见第 10 章）对坚定观点进行了广泛的辩护。他认为，理想的理性要求理性的全知——即对理性要求以及何时适用于自己的要求都要全知。这意味着，误导性的高阶证据在重要意义上是不可能存在的。虽然像艾莎这样的非理想代理人可能会误解他们拥有的证据或支持的内容，但这些错误本身就是违背理想理性的。 （史密斯还补充了关于非理想理性的观点，下文将讨论。）
 
-对坚定观点的主要反对意见之一是，忽视高阶证据似乎是明显的教条主义：很难看出 Aisha 在听说她的高度使她面临缺氧风险后，继续相信 G 而没有降低信心是如何合理的。（尽管汤姆·凯利已经提出过 [见凯利 2013 年，例如] ，在这种情况下的教条主义并非必然是不理性的。）此外，根据她相信的 G 而行动——比如，带着一机满载乘客前往夏威夷——将是极其不负责任的，这表明相信 G 存在问题。（例如，参见克里斯滕森 2010a。）
+对坚定观点的主要反对意见之一是，忽视高阶证据似乎是明显的教条主义：很难看出 Aisha 在听说她的高度使她面临缺氧风险后，继续相信 G 而没有降低信心是如何合理的。（尽管汤姆 · 凯利已经提出过 [见凯利 2013 年，例如] ，在这种情况下的教条主义并非必然是不理性的。）此外，根据她相信的 G 而行动——比如，带着一机满载乘客前往夏威夷——将是极其不负责任的，这表明相信 G 存在问题。（例如，参见克里斯滕森 2010a。）
 
 因此，像缺氧这样的情况给我们留下了三种选择。如果我们说 Aisha 应该对 G 保持信心，但降低她相信 G 是理性的信心，我们必须解释为什么认识论的无节制可以是理性的。如果我们说她应该对 G 保持信心并排除缺氧的可能性，我们必须解释为什么教条主义可以是理性的。如果我们说她应该降低对 G 的信心，我们必须解释这种类型的失败是如何发生的，以及它如何符合我们更广泛的理性理论。现在让我们回到最后一个问题。
 
@@ -147,9 +147,9 @@ Aisha 收到高阶证据后，理性上需要违反一个理性要求。
 
 如果你对什么是理性感到不确定呢？可以说，这是艾莎的情况：她不确定她的证据是否理性支持 G，正如她最初认为的那样，或者缺氧是否让她困惑，她的证据并不支持 G。对这种情况最初的合理回应是说，当我们不确定时，我们的信念应该反映出我们认为可能是理性的回应的一种加权平均。这导致的结果是，如果我们对应该相信 P 和应该相信~P 的可能性几乎一样自信，那么应该做的是暂时保持中立。
 
-根据理性反思原则，这种思想在程度信念或“信心”设置中更加精确。（Christensen [2010b]详细介绍和讨论了这一原则。Salow [2018]和 Skipper [2021]是这一原则的支持者。Elga [2013]和 Dorst [2020]对其进行了修正，我们稍后会看到。）粗略地说，根据理性反思，一个人的信心（以下公式中的“Cr”）应该与其认为理性的信心（“Pr”）保持一致。
+根据理性反思原则，这种思想在程度信念或“信心”设置中更加精确。（Christensen [2010b] 详细介绍和讨论了这一原则。Salow [2018] 和 Skipper [2021] 是这一原则的支持者。Elga [2013] 和 Dorst [2020] 对其进行了修正，我们稍后会看到。）粗略地说，根据理性反思，一个人的信心（以下公式中的“Cr”）应该与其认为理性的信心（“Pr”）保持一致。
 
-理性反思：Cr(A∣Pr(A)=n)=n
+理性反思：Cr(A∣Pr(A)= n)= n
 
 如果这个原则是一个真正的理性要求，那么像艾莎这样的理性代理在这种情况下最终会在他们的一阶信念和他们对什么是理性的信念之间形成强烈的一致性。理性反思说，例如，艾莎不能理性地确定认为在 G 上有 0.9 的信心是理性的，而不同时在 G 上也有 0.9 的信心。艾莎不能不确定，而不同时采用她认为可能是理性的信念的加权平均值（由她的信念在每个信念中是理性的程度加权）。在介绍中讨论的案例版本中，人们可能会解释艾莎的高阶证据表明，鉴于她的一阶证据，她对 G 的高信心只有 50%的可能是理性的。如果高信心是理性的可能性为 50%，低信心是理性的可能性也为 50%，艾莎应该合理地采纳这些可能性的加权平均值，并得出一个中等水平的信念。理性反思支持这个故事的解释。
 
@@ -177,9 +177,9 @@ Chloe 可以通过思考案例的设置，就像我们刚刚所做的那样，�
 
 这是为什么：假设现在是整点后 20 分钟，而克洛伊的信念实际上是按照应有的方式分布的，P20 获得了最高值。由于克洛伊是理性的，根据上述（2），她也应该给予 P19 和 P21 相当大的信念。现在考虑克洛伊认为她的信念应该是什么的影响。在 P20 中，克洛伊当前的信念是理性的。但在 P19 和 P21 中（我们刚刚说她给予相当大的信念），她对 P20 的当前信念太高了。因此，她有理由得出关于她对 P20 的信念的以下结论：它绝对不会太低，但很可能太高。这种不平衡状态违反了理性反思，并且看起来像是认识上的无力。
 
-亚当·埃尔加（2013）认为，这种情况激发了一种不同的原则，他称之为“新理性反思”（遵循 Ned Hall 的“新主要原则”，以及支持它的论点；请参见 Hall 1994）。埃尔加认为，正如我们通常不应在我们知道比他们更多的情况下直接听从专家的意见一样，在我们有理由怀疑自己的理性时，我们通常也不应该听从理性。如果我们用“Cr”表示代理人的信任度，用“Pr”表示候选人理想理性的信任度，我们可以将埃尔加的原则表达如下：高阶证据到底是什么。
+亚当 · 埃尔加（2013）认为，这种情况激发了一种不同的原则，他称之为“新理性反思”（遵循 Ned Hall 的“新主要原则”，以及支持它的论点；请参见 Hall 1994）。埃尔加认为，正如我们通常不应在我们知道比他们更多的情况下直接听从专家的意见一样，在我们有理由怀疑自己的理性时，我们通常也不应该听从理性。如果我们用“Cr”表示代理人的信任度，用“Pr”表示候选人理想理性的信任度，我们可以将埃尔加的原则表达如下：高阶证据到底是什么。
 
-新的理性反思：Cr(A∣Pr is ideal)=Pr(A∣Pr is ideal)
+新的理性反思：Cr(A∣Pr is ideal)= Pr(A∣Pr is ideal)
 
 高阶证据和新高阶证据都要求我们像尊重专家一样尊重理性。但是，高阶证据要求我们将理性视为具有我们确切证据的专家，而新高阶证据要求我们将理性视为具有我们的证据并确信自己是专家的专家。埃尔加认为，这是更普遍地尊重专家的正确方式，使得新高阶证据（在他看来）只是一个更加谨慎制定的专家尊重原则。（参见 Pettigrew＆Titelbaum 2014 的同时观点。）
 
@@ -213,11 +213,11 @@ Chloe 可以通过思考案例的设置，就像我们刚刚所做的那样，�
 
 我们开始讨论由高阶证据提出的难题：在类似缺氧的情况下，看起来代理应该降低信心，但如果他们这样做，他们将以一种有问题的方式忽视证据。我们已经看到一些反对降低信心的论点，以及一些关于艾莎应该如何降低信心的建议。但一些认识论学家认为，这两种可能性都没有给我们完整的故事。也许级别桥接原则是真正的理性要求，但如果艾莎降低信心仍然存在问题。或者也许它们不是真正的理性要求，但如果艾莎不降低信心，仍然存在其他问题。也许它们都是理性要求，而艾莎面临认识困境。（另一种表述这个难题的方式是关注认识无节制：也许艾莎在她的情况下被理性要求在认识上无节制，但如果她在认识上无节制，她还有其他问题，依此类推。）
 
-这一部分讨论了两种承认剩余谜团并试图解决它的策略。其中一种，由大卫·克里斯滕森最为突出地捍卫，认为高阶证据导致认知困境，即没有完全理性的可用回应（尽管可能存在一个理性上最佳的回应）。因此，艾莎既被要求相信 G 又被要求怀疑 G，而她遗憾地无法同时做到这两点。另一类回应，这里称为“双规范观点”，旨在区分不同的认知评估模式，并认为艾莎的矛盾要求在某种程度上源自不同的规范领域。所有这些策略的共同目标是解释类似缺氧症的情况中规范冲突的表面现象，而不否认任何这些冲突规范的合法性。
+这一部分讨论了两种承认剩余谜团并试图解决它的策略。其中一种，由大卫 · 克里斯滕森最为突出地捍卫，认为高阶证据导致认知困境，即没有完全理性的可用回应（尽管可能存在一个理性上最佳的回应）。因此，艾莎既被要求相信 G 又被要求怀疑 G，而她遗憾地无法同时做到这两点。另一类回应，这里称为“双规范观点”，旨在区分不同的认知评估模式，并认为艾莎的矛盾要求在某种程度上源自不同的规范领域。所有这些策略的共同目标是解释类似缺氧症的情况中规范冲突的表面现象，而不否认任何这些冲突规范的合法性。
 
 ### 4.1 困境
 
-Christensen 认为围绕高阶证据的谜团表明，理性的要求有时会相互冲突，使得像 Aisha 这样的代理人陷入认识困境。这一提议与下文讨论的双规范观点不同，因为这里只有一个关于认识理性的概念在起作用。根据困境观点，在某些情况下，不可能同时满足所有的理性要求。(见 Christensen 2007a, 2010a, 2013, 2016b 和 2021c)。在他最近的作品中(见 Christensen 2021c)，Christensen 认为规范存在冲突，在 Aisha 的情况下，一个要求我们相信我们的证据所暗示的内容，另一个要求我们根据高阶证据进行修订。(Christensen 在早期作品中提出的另一种可能性[见他的 2013 年作品]是，第二个规范明确是一种反对不自律的规范。)
+Christensen 认为围绕高阶证据的谜团表明，理性的要求有时会相互冲突，使得像 Aisha 这样的代理人陷入认识困境。这一提议与下文讨论的双规范观点不同，因为这里只有一个关于认识理性的概念在起作用。根据困境观点，在某些情况下，不可能同时满足所有的理性要求。(见 Christensen 2007a, 2010a, 2013, 2016b 和 2021c)。在他最近的作品中(见 Christensen 2021c)，Christensen 认为规范存在冲突，在 Aisha 的情况下，一个要求我们相信我们的证据所暗示的内容，另一个要求我们根据高阶证据进行修订。(Christensen 在早期作品中提出的另一种可能性 [见他的 2013 年作品] 是，第二个规范明确是一种反对不自律的规范。)
 
 克里斯滕森观点的一个重要特征是，尽管艾莎受到相互冲突的要求，但在她的情况下仍然存在最佳的认识反应。（克里斯滕森认为最佳反应是降低信心。）这引发了一个问题：是什么决定了哪种反应是最佳的？参见 Leonard 2020 年的反对困境观点的论据；Leonard 支持一个附近的观点，即存在相互冲突的规范，但对于艾莎应该相信什么是不确定的（在一组受限制的可能性中）。Knoks（2021）沿着类似的思路支持一种观点，认为艾莎的情况是宽容的（同样在一组受限制的可能性中）。认识论中困境的可能性引发了几个问题：认识要求如何与认识责备的概念相关（或不相关），它们如何指导我们的信念？参见 Hughes 2019 年和 2021 年，例如，进一步讨论这些问题（尽管主要集中在不同的潜在相互冲突要求来源上）；Hughes 支持我们应该接受认识困境的立场。
 
@@ -233,13 +233,13 @@ Declan Smithies (2019) 也捍卫了一种观点，即理想/非理想区分发�
 
 ### 4.3 Best plans to follow vs. best plans to make4.3 最佳跟随计划与最佳制定计划
 
-另一种双规范观来自 Miriam Schoenfield（见她的 2015b 和 2018 年）。 Schoenfield 解释了在像 Aisha 这样的情况下对理性的判断，作为计划。她指出我们可以通过（至少）两种不同的方式来评估计划：一是看如果完美执行它们会发生什么，二是看如果制定它们会发生什么。如果你需要在 10:30 离开家，但习惯性地总是迟到，“10 点离开家”可能是最好的制定计划，即使“10:30 离开家”是最好的执行计划。这与 DiPaolo 的建议类似，即最佳制定计划与最佳执行计划之间的差异取决于一个人的（预测的）理性缺陷：最佳制定计划是以特定方式考虑这些缺陷的计划。然而，Schoenfield 的观点并不是高阶证据仅对非理想代理人具有理性重要性；相反，它对任何理性地相信自己是非理想的人具有重要性。
+另一种双规范观来自 Miriam Schoenfield（见她的 2015b 和 2018 年）。 Schoenfield 解释了在像 Aisha 这样的情况下对理性的判断，作为计划。她指出我们可以通过（至少）两种不同的方式来评估计划：一是看如果完美执行它们会发生什么，二是看如果制定它们会发生什么。如果你需要在 10: 30 离开家，但习惯性地总是迟到，“10 点离开家”可能是最好的制定计划，即使“10: 30 离开家”是最好的执行计划。这与 DiPaolo 的建议类似，即最佳制定计划与最佳执行计划之间的差异取决于一个人的（预测的）理性缺陷：最佳制定计划是以特定方式考虑这些缺陷的计划。然而，Schoenfield 的观点并不是高阶证据仅对非理想代理人具有理性重要性；相反，它对任何理性地相信自己是非理想的人具有重要性。
 
 这种方法的一个优势在于它使我们能够将准确性作为认识合理性的主要目标。 Schoenfield 用准确性来框定评估的两种模式：具体来说，计划的与准确性相关的后果。因此，如果她认为最佳制定计划/最佳遵循计划的区别可以解释高阶证据，我们最终会得到一个相对统一的双规范观。参见 Horowitz 2019 年的两个异议：首先，专注于后果似乎打开了非认识计划的大门，比如“在推理之前吃个三明治”；其次，最佳制定计划可能会因不同信徒而异，如果是这种情况，那么这种策略就不会产生类似于对高阶证据做出反应的普遍辩护。这第二个担忧也引发了对 DiPaolo 提议的问题，以及我们可以期待非理想合理性有多普遍的疑问。
 
 ### 4.4 理由 vs. 合理性
 
-亚历克斯·沃斯尼普（2018）认为，我们可以通过区分两种认识要求来解释高阶证据的奇怪之处：证据响应性和一致性。如果艾莎坚持她对 G 的信念，并相信她的证据很可能不支持这种信念，她将相信她的证据支持的一切。如果她修正了她有足够燃料的信念（使其与她对证据支持的估计一致），她将是一致的。这种观点明确地诉诸于认识无节制，因为沃斯尼普的一致性规范实际上是反对无节制的规范。亚历克斯·沃斯尼普（2018）认为，我们可以通过区分两种认识要求来解释高阶证据的奇怪之处：证据响应性和一致性。如果艾莎坚持她对 G 的信念，并相信她的证据很可能不支持这种信念，她将相信她的证据支持的一切。如果她修正了她有足够燃料的信念（使其与她对证据支持的估计一致），她将是一致的。这种观点明确地诉诸于认识无节制，因为沃斯尼普的一致性规范实际上是反对无节制的规范。
+亚历克斯 · 沃斯尼普（2018）认为，我们可以通过区分两种认识要求来解释高阶证据的奇怪之处：证据响应性和一致性。如果艾莎坚持她对 G 的信念，并相信她的证据很可能不支持这种信念，她将相信她的证据支持的一切。如果她修正了她有足够燃料的信念（使其与她对证据支持的估计一致），她将是一致的。这种观点明确地诉诸于认识无节制，因为沃斯尼普的一致性规范实际上是反对无节制的规范。亚历克斯 · 沃斯尼普（2018）认为，我们可以通过区分两种认识要求来解释高阶证据的奇怪之处：证据响应性和一致性。如果艾莎坚持她对 G 的信念，并相信她的证据很可能不支持这种信念，她将相信她的证据支持的一切。如果她修正了她有足够燃料的信念（使其与她对证据支持的估计一致），她将是一致的。这种观点明确地诉诸于认识无节制，因为沃斯尼普的一致性规范实际上是反对无节制的规范。
 
 ### 证据与倾向性
 
@@ -262,94 +262,94 @@ Smithies (2019) defends a similar view, discussed in more detail in the next sub
 ## Bibliography
 
 * Alexander, David, 2013, “The Problem of Respecting Higher-Order Doubt”, *Philosopher’s Imprint*, 13(September): article 18 (12 pages). [[Alexander 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.018)]
-* Arsenault, Michael and Zachary C. Irving, 2012, “Aha! Trick Questions, Independence, and the Epistemology of Disagreement: Trick Questions, Independence, and the Epistemology”, *Thought: A Journal of Philosophy*, 1(3): 185–194. doi:10.1002/tht3.27
-* Barnett, Zach, 2019, “Philosophy Without Belief”, *Mind*, 128(509): 109–138. doi:10.1093/mind/fzw076
+* Arsenault, Michael and Zachary C. Irving, 2012, “Aha! Trick Questions, Independence, and the Epistemology of Disagreement: Trick Questions, Independence, and the Epistemology”, *Thought: A Journal of Philosophy*, 1(3): 185–194. doi: 10.1002/tht3.27
+* Barnett, Zach, 2019, “Philosophy Without Belief”, *Mind*, 128(509): 109–138. doi: 10.1093/mind/fzw076
 * Bradley, Darren, 2019, “Are There Indefeasible Epistemic Rules?”, *Philosopher’s Imprint*, 19: article 3 (19 pages). [[Bradley 2019 available online](http://hdl.handle.net/2027/spo.3521354.0019.003)]
-* Brown, Jessica, 2018, *Fallibilism: Evidence and Knowledge*, Oxford: Oxford University Press. doi:10.1093/oso/9780198801771.001.0001
+* Brown, Jessica, 2018, *Fallibilism: Evidence and Knowledge*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198801771.001.0001
 * Christensen, David, 2007a, “Does Murphy’s Law Apply in Epistemology?”, in *Oxford Studies in Epistemology, Volume 2*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 3–31.
-* –––, 2007b, “Epistemology of Disagreement: The Good News”, *The Philosophical Review*, 116(2): 187–217. doi:10.1215/00318108-2006-035
-* –––, 2010a, “Higher-Order Evidence”, *Philosophy and Phenomenological Research*, 81(1): 185–215. doi:10.1111/j.1933-1592.2010.00366.x
-* –––, 2010b, “Rational Reflection”, *Philosophical Perspectives*, 24(1): 121–140. doi:10.1111/j.1520-8583.2010.00187.x
+* –––, 2007b, “Epistemology of Disagreement: The Good News”, *The Philosophical Review*, 116(2): 187–217. doi: 10.1215/00318108-2006-035
+* –––, 2010a, “Higher-Order Evidence”, *Philosophy and Phenomenological Research*, 81(1): 185–215. doi: 10.1111/j.1933-1592.2010.00366.x
+* –––, 2010b, “Rational Reflection”, *Philosophical Perspectives*, 24(1): 121–140. doi: 10.1111/j.1520-8583.2010.00187.x
 * –––, 2011, “Disagreement, Question-Begging, and Epistemic Self-Criticism”, *Philosopher’s Imprint*, 11(March): article 6 (22 pages). [[Christensen 2011 available online](http://hdl.handle.net/2027/spo.3521354.0011.006)]
-* –––, 2013, “Epistemic Modesty Defended”, in Christensen and Lackey 2013: 77–97. doi:10.1093/acprof:oso/9780199698370.003.0005
-* –––, 2016a, “Disagreement, Drugs, Etc.: From Accuracy to Akrasia”, *Episteme*, 13(4): 397–422. doi:10.1017/epi.2016.20
-* –––, 2016b, “Conciliation, Uniqueness and Rational Toxicity”, *Noûs*, 50(3): 584–603. doi:10.1111/nous.12077
+* –––, 2013, “Epistemic Modesty Defended”, in Christensen and Lackey 2013: 77–97. doi: 10.1093/acprof: oso/9780199698370.003.0005
+* –––, 2016a, “Disagreement, Drugs, Etc.: From Accuracy to Akrasia”, *Episteme*, 13(4): 397–422. doi: 10.1017/epi.2016.20
+* –––, 2016b, “Conciliation, Uniqueness and Rational Toxicity”, *Noûs*, 50(3): 584–603. doi: 10.1111/nous.12077
 * –––, 2018, “On Acting as Judge in One’s Own (Epistemic) Case”, *Proceedings and Addresses of the American Philosophical Association*, 93(1): 207–235.
-* –––, 2019, “Formulating Independence”, in Skipper and Steglich-Petersen 2019: 13–34. doi:10.1093/oso/9780198829775.003.0001
-* –––, 2021a, “Akratic (Epistemic) Modesty”, *Philosophical Studies*, 178(7): 2191–2214. doi:10.1007/s11098-020-01536-6
+* –––, 2019, “Formulating Independence”, in Skipper and Steglich-Petersen 2019: 13–34. doi: 10.1093/oso/9780198829775.003.0001
+* –––, 2021a, “Akratic (Epistemic) Modesty”, *Philosophical Studies*, 178(7): 2191–2214. doi: 10.1007/s11098-020-01536-6
 * –––, 2021b, “Rationality for the Self-Aware”, *Proceedings and Addresses of the American Philosophical Association*, 95(1): 213–236.
 * –––, 2021c, “Embracing Epistemic Dilemmas”, in McCain, Stapleford, and Steup 2021: chap. 10.
 * Christensen, David and Jennifer Lackey (eds.), 2013, *The Epistemology of Disagreement: New Essays*, Oxford: Oxford University Press.
 * Coates, Allen, 2012, “Rational Epistemic Akrasia”, *American Philosophical Quarterly*, 49(2): 113–124.
-* DiPaolo, Joshua, 2018, “Higher-Order Defeat Is Object-Independent”, *Pacific Philosophical Quarterly*, 99(2): 248–269. doi:10.1111/papq.12155
-* –––, 2019, “Second Best Epistemology: Fallibility and Normativity”, *Philosophical Studies*, 176(8): 2043–2066. doi:10.1007/s11098-018-1110-y
-* Dorst, Kevin, 2019, “Higher-Order Uncertainty”, in Skipper and Steglich-Petersen 2019: 35–61. doi:10.1093/oso/9780198829775.003.0002
-* –––, 2020, “Evidence: A Guide for the Uncertain”, *Philosophy and Phenomenological Research*, 100(3): 586–632. doi:10.1111/phpr.12561
+* DiPaolo, Joshua, 2018, “Higher-Order Defeat Is Object-Independent”, *Pacific Philosophical Quarterly*, 99(2): 248–269. doi: 10.1111/papq.12155
+* –––, 2019, “Second Best Epistemology: Fallibility and Normativity”, *Philosophical Studies*, 176(8): 2043–2066. doi: 10.1007/s11098-018-1110-y
+* Dorst, Kevin, 2019, “Higher-Order Uncertainty”, in Skipper and Steglich-Petersen 2019: 35–61. doi: 10.1093/oso/9780198829775.003.0002
+* –––, 2020, “Evidence: A Guide for the Uncertain”, *Philosophy and Phenomenological Research*, 100(3): 586–632. doi: 10.1111/phpr.12561
 * –––, forthcoming, “Higher-Order Evidence”, in *The Routledge Handbook for the Philosophy of Evidence*, Maria Lasonen-Aarnio and Clayton Littlejohn (eds), Routledge.
-* Egan, Andy and Adam Elga, 2005, “I Can’t Believe I’m Stupid”, *Philosophical Perspectives*, 19(1): 77–93. doi:10.1111/j.1520-8583.2005.00054.x
-* Elga, Adam, 2007, “Reflection and Disagreement”, *Noûs*, 41(3): 478–502. doi:10.1111/j.1468-0068.2007.00656.x
-* –––, 2010, “How to Disagree about How to Disagree”, in Feldman and Warfield 2010: 175–186. doi:10.1093/acprof:oso/9780199226078.003.0008
-* –––, 2013, “The Puzzle of the Unmarked Clock and the New Rational Reflection Principle”, *Philosophical Studies*, 164(1): 127–139. doi:10.1007/s11098-013-0091-0
-* Enoch, David, 2010, “Not Just a Truthometer: Taking Oneself Seriously (but Not Too Seriously) in Cases of Peer Disagreement”, *Mind*, 119(476): 953–997. doi:10.1093/mind/fzq070
-* Feldman, Richard, 2005, “Respecting the Evidence”, *Philosophical Perspectives*, 19(1): 95–119. doi:10.1111/j.1520-8583.2005.00055.x
+* Egan, Andy and Adam Elga, 2005, “I Can’t Believe I’m Stupid”, *Philosophical Perspectives*, 19(1): 77–93. doi: 10.1111/j.1520-8583.2005.00054.x
+* Elga, Adam, 2007, “Reflection and Disagreement”, *Noûs*, 41(3): 478–502. doi: 10.1111/j.1468-0068.2007.00656.x
+* –––, 2010, “How to Disagree about How to Disagree”, in Feldman and Warfield 2010: 175–186. doi: 10.1093/acprof: oso/9780199226078.003.0008
+* –––, 2013, “The Puzzle of the Unmarked Clock and the New Rational Reflection Principle”, *Philosophical Studies*, 164(1): 127–139. doi: 10.1007/s11098-013-0091-0
+* Enoch, David, 2010, “Not Just a Truthometer: Taking Oneself Seriously (but Not Too Seriously) in Cases of Peer Disagreement”, *Mind*, 119(476): 953–997. doi: 10.1093/mind/fzq070
+* Feldman, Richard, 2005, “Respecting the Evidence”, *Philosophical Perspectives*, 19(1): 95–119. doi: 10.1111/j.1520-8583.2005.00055.x
 * –––, 2006, “Reasonable Religious Disagreements”, in *Philosophers Without Gods: Meditations on Atheism and the Secular Life*, Louise Antony (ed.), Oxford/New York: Oxford University Press, 194–214.
-* Feldman, Richard and Ted A. Warfield (eds.), 2010, *Disagreement*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199226078.001.0001
-* Field, Claire, 2019, “It’s Ok to Make Mistakes: Against the Fixed Point Thesis”, *Episteme*, 16(2): 175–185. doi:10.1017/epi.2017.33
-* Field, Hartry, 2000, “Apriority as an Evaluative Notion”, in *New Essays on the A Priori*, Paul Boghossian and Christopher Peacocke (eds.), Oxford/New York: Oxford University Press, 117–149. doi:10.1093/0199241279.003.0006
-* Fleisher, Will, 2021, “How to Endorse Conciliationism”, *Synthese*, 198(10): 9913–9939. doi:10.1007/s11229-020-02695-z
+* Feldman, Richard and Ted A. Warfield (eds.), 2010, *Disagreement*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199226078.001.0001
+* Field, Claire, 2019, “It’s Ok to Make Mistakes: Against the Fixed Point Thesis”, *Episteme*, 16(2): 175–185. doi: 10.1017/epi.2017.33
+* Field, Hartry, 2000, “Apriority as an Evaluative Notion”, in *New Essays on the A Priori*, Paul Boghossian and Christopher Peacocke (eds.), Oxford/New York: Oxford University Press, 117–149. doi: 10.1093/0199241279.003.0006
+* Fleisher, Will, 2021, “How to Endorse Conciliationism”, *Synthese*, 198(10): 9913–9939. doi: 10.1007/s11229-020-02695-z
 * Goldberg, Sanford, 2013, “Defending Philosophy in the Face of Systematic Disagreement”, in *Disagreement and Skepticism*, Diego E. Machuca (ed.), New York: Routledge, 277–294.
-* Hall, Ned, 1994, “Correcting The Guide to Objective Chance”, *Mind*, 103(412): 505–518. doi:10.1093/mind/103.412.505
-* Hawthorne, John, Yoaav Isaacs, and Maria Lasonen‐Aarnio, 2021, “The Rationality of Epistemic Akrasia”, *Philosophical Perspectives*, 35(1): 206–228. doi:10.1111/phpe.12144
-* Hedden, Brian and Kevin Dorst, forthcoming, “(Almost) All Evidence is Higher-Order Evidence”, *Analysis*, early online: 8 May 2022. doi:10.1093/analys/anab081
-* Henderson, Leah, forthcoming, “Higher‐order Evidence and Losing One’s Conviction”, *Noûs*, early online: 3 May 2021. doi:10.1111/nous.12367
-* Horowitz, Sophie, 2014, “Epistemic Akrasia”, *Noûs*, 48(4): 718–744. doi:10.1111/nous.12026
-* –––, 2019, “Predictably Misleading Evidence”, in Skipper and Steglich-Petersen 2019: 105–123. doi:10.1093/oso/9780198829775.003.0005
-* Hughes, Nick, 2019, “Dilemmic Epistemology”, *Synthese*, 196(10): 4059–4090. doi:10.1007/s11229-017-1639-x
+* Hall, Ned, 1994, “Correcting The Guide to Objective Chance”, *Mind*, 103(412): 505–518. doi: 10.1093/mind/103.412.505
+* Hawthorne, John, Yoaav Isaacs, and Maria Lasonen‐Aarnio, 2021, “The Rationality of Epistemic Akrasia”, *Philosophical Perspectives*, 35(1): 206–228. doi: 10.1111/phpe.12144
+* Hedden, Brian and Kevin Dorst, forthcoming, “(Almost) All Evidence is Higher-Order Evidence”, *Analysis*, early online: 8 May 2022. doi: 10.1093/analys/anab081
+* Henderson, Leah, forthcoming, “Higher‐order Evidence and Losing One’s Conviction”, *Noûs*, early online: 3 May 2021. doi: 10.1111/nous.12367
+* Horowitz, Sophie, 2014, “Epistemic Akrasia”, *Noûs*, 48(4): 718–744. doi: 10.1111/nous.12026
+* –––, 2019, “Predictably Misleading Evidence”, in Skipper and Steglich-Petersen 2019: 105–123. doi: 10.1093/oso/9780198829775.003.0005
+* Hughes, Nick, 2019, “Dilemmic Epistemology”, *Synthese*, 196(10): 4059–4090. doi: 10.1007/s11229-017-1639-x
 * –––, 2021, “Who’s Afraid of Epistemic Dilemmas?”, in McCain, Stapleford, and Steup 2021: chap. 15.
-* Isaacs, Yoaav, 2021, “The Fallacy of Calibrationism”, *Philosophy and Phenomenological Research*, 102(2): 247–260. doi:10.1111/phpr.12640
+* Isaacs, Yoaav, 2021, “The Fallacy of Calibrationism”, *Philosophy and Phenomenological Research*, 102(2): 247–260. doi: 10.1111/phpr.12640
 * Kelly, Thomas, 2005, “The Epistemic Significance of Disagreement”, in *Oxford Studies in Epistemology, Volume 1*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 167–196.
-* –––, 2010, “Peer Disagreement and Higher‐Order Evidence”, in Feldman and Warfield 2010: 111–174. doi:10.1093/acprof:oso/9780199226078.003.0007
-* –––, 2013, “Disagreement and the Burdens of Judgment”, in Christensen and Lackey 2013: 31–53. doi:10.1093/acprof:oso/9780199698370.003.0003
-* Knoks, Aleks, 2021, “Misleading Higher-Order Evidence, Conflicting Ideals, and Defeasible Logic”, *Ergo an Open Access Journal of Philosophy*, 8(6): 141–174. doi:10.3998/ergo.1143
-* Lasonen-Aarnio, Maria, 2014, “Higher-Order Evidence and the Limits of Defeat”, *Philosophy and Phenomenological Research*, 88(2): 314–345. doi:10.1111/phpr.12090
-* –––, 2015, “New Rational Reflection and Internalism about Rationality”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 145–171. doi:10.1093/acprof:oso/9780198722762.003.0005
-* –––, 2020, “Enkrasia or Evidentialism? Learning to Love Mismatch”, *Philosophical Studies*, 177(3): 597–632. doi:10.1007/s11098-018-1196-2
-* Leonard, Nick, 2020, “Epistemic Dilemmas and Rational Indeterminacy”, *Philosophical Studies*, 177(3): 573–596. doi:10.1007/s11098-018-1195-3
-* Lewis, David, 1971, “Immodest Inductive Methods”, *Philosophy of Science*, 38(1): 54–63. doi:10.1086/288339
-* Littlejohn, Clayton, 2018, “Stop Making Sense? On a Puzzle about Rationality”, *Philosophy and Phenomenological Research*, 96(2): 257–272. doi:10.1111/phpr.12271
-* Lord, Errol, 2014, “From Independence to Conciliationism: An Obituary”, *Australasian Journal of Philosophy*, 92(2): 365–377. doi:10.1080/00048402.2013.829506
-* McCain, Kevin, Scott Stapleford, and Matthias Steup (eds), 2021, *Epistemic Dilemmas: New Arguments, New Angles*, New York: Routledge. doi:10.4324/9781003134565
-* Neta, Ram, 2019, “The Puzzles of Easy Knowledge and of Higher-Order Evidence: A Unified Solution”, in Skipper and Steglich-Petersen 2019: 173–188. doi:10.1093/oso/9780198829775.003.0008
+* –––, 2010, “Peer Disagreement and Higher‐Order Evidence”, in Feldman and Warfield 2010: 111–174. doi: 10.1093/acprof: oso/9780199226078.003.0007
+* –––, 2013, “Disagreement and the Burdens of Judgment”, in Christensen and Lackey 2013: 31–53. doi: 10.1093/acprof: oso/9780199698370.003.0003
+* Knoks, Aleks, 2021, “Misleading Higher-Order Evidence, Conflicting Ideals, and Defeasible Logic”, *Ergo an Open Access Journal of Philosophy*, 8(6): 141–174. doi: 10.3998/ergo.1143
+* Lasonen-Aarnio, Maria, 2014, “Higher-Order Evidence and the Limits of Defeat”, *Philosophy and Phenomenological Research*, 88(2): 314–345. doi: 10.1111/phpr.12090
+* –––, 2015, “New Rational Reflection and Internalism about Rationality”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 145–171. doi: 10.1093/acprof: oso/9780198722762.003.0005
+* –––, 2020, “Enkrasia or Evidentialism? Learning to Love Mismatch”, *Philosophical Studies*, 177(3): 597–632. doi: 10.1007/s11098-018-1196-2
+* Leonard, Nick, 2020, “Epistemic Dilemmas and Rational Indeterminacy”, *Philosophical Studies*, 177(3): 573–596. doi: 10.1007/s11098-018-1195-3
+* Lewis, David, 1971, “Immodest Inductive Methods”, *Philosophy of Science*, 38(1): 54–63. doi: 10.1086/288339
+* Littlejohn, Clayton, 2018, “Stop Making Sense? On a Puzzle about Rationality”, *Philosophy and Phenomenological Research*, 96(2): 257–272. doi: 10.1111/phpr.12271
+* Lord, Errol, 2014, “From Independence to Conciliationism: An Obituary”, *Australasian Journal of Philosophy*, 92(2): 365–377. doi: 10.1080/00048402.2013.829506
+* McCain, Kevin, Scott Stapleford, and Matthias Steup (eds), 2021, *Epistemic Dilemmas: New Arguments, New Angles*, New York: Routledge. doi: 10.4324/9781003134565
+* Neta, Ram, 2019, “The Puzzles of Easy Knowledge and of Higher-Order Evidence: A Unified Solution”, in Skipper and Steglich-Petersen 2019: 173–188. doi: 10.1093/oso/9780198829775.003.0008
 * Pettigrew, Richard and Michael G. Titelbaum, 2014, “Deference Done Right”, *Philosopher’s Imprint*, 14(December): article 35 (19 pages). [[Pettigrew and Titelbaum 2014 available online](http://hdl.handle.net/2027/spo.3521354.0014.035)]
-* Roush, Sherrilyn, 2009, “Second Guessing: A Self-Help Manual”, *Episteme*, 6(3): 251–268. doi:10.3366/E1742360009000690
+* Roush, Sherrilyn, 2009, “Second Guessing: A Self-Help Manual”, *Episteme*, 6(3): 251–268. doi: 10.3366/E1742360009000690
 * –––, 2017, “Epistemic Self-Doubt”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/epistemic-self-doubt/>.
-* Salow, Bernhard, 2018, “The Externalist’s Guide to Fishing for Compliments”, *Mind*, 127(507): 691–728. doi:10.1093/mind/fzw029
-* Schoenfield, Miriam, 2015a, “A Dilemma for Calibrationism”, *Philosophy and Phenomenological Research*, 91(2): 425–455. doi:10.1111/phpr.12125
-* –––, 2015b, “Bridging Rationality and Accuracy”:, *The Journal of Philosophy*, 112(12): 633–657. doi:10.5840/jphil20151121242
-* –––, 2018, “An Accuracy Based Approach to Higher Order Evidence”, *Philosophy and Phenomenological Research*, 96(3): 690–715. doi:10.1111/phpr.12329
-* Schechter, Joshua, 2013, “Rational Self-Doubt and the Failure of Closure”, *Philosophical Studies*, 163(2): 429–452. doi:10.1007/s11098-011-9823-1
-* Silva, Paul, 2017, “How Doxastic Justification Helps Us Solve the Puzzle of Misleading Higher-Order Evidence”, *Pacific Philosophical Quarterly*, 98(S1): 308–328. doi:10.1111/papq.12173
-* –––, 2018, “Explaining Enkratic Asymmetries: Knowledge-First Style”, *Philosophical Studies*, 175(11): 2907–2930. doi:10.1007/s11098-017-0987-1
-* Skipper, Mattias, 2021, “Does Rationality Demand Higher-Order Certainty?”, *Synthese*, 198(12): 11561–11585. doi:10.1007/s11229-020-02814-w
-* Skipper, Mattias and Asbjørn Steglich-Petersen (eds.), 2019, *Higher-Order Evidence: New Essays*, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780198829775.001.0001
-* Sliwa, Paulina and Sophie Horowitz, 2015, “Respecting All the Evidence”, *Philosophical Studies*, 172(11): 2835–2858. doi:10.1007/s11098-015-0446-9
-* Smithies, Declan, 2019, *The Epistemic Role of Consciousness*, (Philosophy of Mind Series), New York, NY: Oxford University Press. doi:10.1093/oso/9780199917662.001.0001
-* Staffel, Julia, forthcoming, “Transitional Attitudes and the Unmooring View of Higher‐order Evidence”, *Noûs*, early online: 6 October 2021. doi:10.1111/nous.12400
-* Stalnaker, Robert C., 2009, “On Hawthorne and Magidor on Assertion, Context, and Epistemic Accessibility”, *Mind*, 118(470): 399–409. doi:10.1093/mind/fzp061
-* Steglich-Petersen, Asbjørn, 2019, “Higher-Order Defeat and Doxastic Resilience”, in Skipper and Steglich-Petersen 2019: 209–225. doi:10.1093/oso/9780198829775.003.0010
-* Tal, Eyal, 2021, “Is Higher-Order Evidence Evidence?”, *Philosophical Studies*, 178(10): 3157–3175. doi:10.1007/s11098-020-01574-0
-* Titelbaum, Michael G., 2015, “Rationality’s Fixed Point (or: In Defense of Right Reason)”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 253–294. doi:10.1093/acprof:oso/9780198722762.003.0009
-* –––, 2019, “Return to Reason”, in Skipper and Steglich-Petersen 2019: 226–245. doi:10.1093/oso/9780198829775.003.0011
-* Vavova, Katia, 2018, “Irrelevant Influences”, *Philosophy and Phenomenological Research*, 96(1): 134–152. doi:10.1111/phpr.12297
-* Weatherson, Brian, 2013, “Disagreements, Philosophical, and Otherwise”, in Christensen and Lackey 2013: 54–73. doi:10.1093/acprof:oso/9780199698370.003.0004
-* –––, 2019, *Normative Externalism*, Oxford: Oxford University Press. doi:10.1093/oso/9780199696536.001.0001
-* Wedgwood, Ralph, 2012, “Justified Inference”, *Synthese*, 189(2): 273–295. doi:10.1007/s11229-011-0012-8
-* White, Roger, 2010, “You Just Believe That Because…”, *Philosophical Perspectives*, 24(1): 573–615. doi:10.1111/j.1520-8583.2010.00204.x
-* –––, 2009, “On Treating Oneself and Others as Thermometers”, *Episteme*, 6(3): 233–250. doi:10.3366/e1742360009000689
-* van Wietmarschen, Han, 2013, “Peer Disagreement, Evidence, and Well-Groundedness”, *The Philosophical Review*, 122(3): 395–425. doi:10.1215/00318108-2087654
-* Williamson, Timothy, 2014, “Very Improbable Knowing”, *Erkenntnis*, 79(5): 971–999. doi:10.1007/s10670-013-9590-9
-* Worsnip, Alex, 2018, “The Conflict of Evidence and Coherence”, *Philosophy and Phenomenological Research*, 96(1): 3–44. doi:10.1111/phpr.12246
-* Ye, Ru, 2020, “Higher-Order Defeat and Intellectual Responsibility”, *Synthese*, 197(12): 5435–5455. doi:10.1007/s11229-018-01972-2
+* Salow, Bernhard, 2018, “The Externalist’s Guide to Fishing for Compliments”, *Mind*, 127(507): 691–728. doi: 10.1093/mind/fzw029
+* Schoenfield, Miriam, 2015a, “A Dilemma for Calibrationism”, *Philosophy and Phenomenological Research*, 91(2): 425–455. doi: 10.1111/phpr.12125
+* –––, 2015b, “Bridging Rationality and Accuracy”:, *The Journal of Philosophy*, 112(12): 633–657. doi: 10.5840/jphil20151121242
+* –––, 2018, “An Accuracy Based Approach to Higher Order Evidence”, *Philosophy and Phenomenological Research*, 96(3): 690–715. doi: 10.1111/phpr.12329
+* Schechter, Joshua, 2013, “Rational Self-Doubt and the Failure of Closure”, *Philosophical Studies*, 163(2): 429–452. doi: 10.1007/s11098-011-9823-1
+* Silva, Paul, 2017, “How Doxastic Justification Helps Us Solve the Puzzle of Misleading Higher-Order Evidence”, *Pacific Philosophical Quarterly*, 98(S1): 308–328. doi: 10.1111/papq.12173
+* –––, 2018, “Explaining Enkratic Asymmetries: Knowledge-First Style”, *Philosophical Studies*, 175(11): 2907–2930. doi: 10.1007/s11098-017-0987-1
+* Skipper, Mattias, 2021, “Does Rationality Demand Higher-Order Certainty?”, *Synthese*, 198(12): 11561–11585. doi: 10.1007/s11229-020-02814-w
+* Skipper, Mattias and Asbjørn Steglich-Petersen (eds.), 2019, *Higher-Order Evidence: New Essays*, Oxford/New York: Oxford University Press. doi: 10.1093/oso/9780198829775.001.0001
+* Sliwa, Paulina and Sophie Horowitz, 2015, “Respecting All the Evidence”, *Philosophical Studies*, 172(11): 2835–2858. doi: 10.1007/s11098-015-0446-9
+* Smithies, Declan, 2019, *The Epistemic Role of Consciousness*, (Philosophy of Mind Series), New York, NY: Oxford University Press. doi: 10.1093/oso/9780199917662.001.0001
+* Staffel, Julia, forthcoming, “Transitional Attitudes and the Unmooring View of Higher‐order Evidence”, *Noûs*, early online: 6 October 2021. doi: 10.1111/nous.12400
+* Stalnaker, Robert C., 2009, “On Hawthorne and Magidor on Assertion, Context, and Epistemic Accessibility”, *Mind*, 118(470): 399–409. doi: 10.1093/mind/fzp061
+* Steglich-Petersen, Asbjørn, 2019, “Higher-Order Defeat and Doxastic Resilience”, in Skipper and Steglich-Petersen 2019: 209–225. doi: 10.1093/oso/9780198829775.003.0010
+* Tal, Eyal, 2021, “Is Higher-Order Evidence Evidence?”, *Philosophical Studies*, 178(10): 3157–3175. doi: 10.1007/s11098-020-01574-0
+* Titelbaum, Michael G., 2015, “Rationality’s Fixed Point (or: In Defense of Right Reason)”, in *Oxford Studies in Epistemology, Volume 5*, Tamar Szabó Gendler and John Hawthorne (eds.), Oxford/New York: Oxford University Press, 253–294. doi: 10.1093/acprof: oso/9780198722762.003.0009
+* –––, 2019, “Return to Reason”, in Skipper and Steglich-Petersen 2019: 226–245. doi: 10.1093/oso/9780198829775.003.0011
+* Vavova, Katia, 2018, “Irrelevant Influences”, *Philosophy and Phenomenological Research*, 96(1): 134–152. doi: 10.1111/phpr.12297
+* Weatherson, Brian, 2013, “Disagreements, Philosophical, and Otherwise”, in Christensen and Lackey 2013: 54–73. doi: 10.1093/acprof: oso/9780199698370.003.0004
+* –––, 2019, *Normative Externalism*, Oxford: Oxford University Press. doi: 10.1093/oso/9780199696536.001.0001
+* Wedgwood, Ralph, 2012, “Justified Inference”, *Synthese*, 189(2): 273–295. doi: 10.1007/s11229-011-0012-8
+* White, Roger, 2010, “You Just Believe That Because…”, *Philosophical Perspectives*, 24(1): 573–615. doi: 10.1111/j.1520-8583.2010.00204.x
+* –––, 2009, “On Treating Oneself and Others as Thermometers”, *Episteme*, 6(3): 233–250. doi: 10.3366/e1742360009000689
+* van Wietmarschen, Han, 2013, “Peer Disagreement, Evidence, and Well-Groundedness”, *The Philosophical Review*, 122(3): 395–425. doi: 10.1215/00318108-2087654
+* Williamson, Timothy, 2014, “Very Improbable Knowing”, *Erkenntnis*, 79(5): 971–999. doi: 10.1007/s10670-013-9590-9
+* Worsnip, Alex, 2018, “The Conflict of Evidence and Coherence”, *Philosophy and Phenomenological Research*, 96(1): 3–44. doi: 10.1111/phpr.12246
+* Ye, Ru, 2020, “Higher-Order Defeat and Intellectual Responsibility”, *Synthese*, 197(12): 5435–5455. doi: 10.1007/s11229-018-01972-2
 
 ## Academic Tools
 

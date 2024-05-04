@@ -50,7 +50,7 @@ and
 
 ### 1.2 残疾和客观名单
 
-Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些根据一组对人们来说客观上有益的物品和活动来评估幸福的理论（Parfit 1984: 493ff）。关于残疾与个体幸福之间关系的一些更有争议的问题涉及哪些客观好处对于美好生活是不可或缺的，以及它们应该以何种一般性水平来描述。尽管“客观清单理论”可能暗示了一个简单的清单，但更好地看待它们是承认（i）生活中的物品存在不可简化的多样性，以及（ii）它们对幸福的贡献不能用像效用这样的共同度量来表达。（i）和（ii）都将客观清单理论区分为幸福的客观或实质性好处理论的一个特例。马莎·努斯鲍姆，一位有影响力的客观清单理论家，将以下内容列为她宝贵的能力和功能：健康、营养、住所、性、移动能力；使用感官和想象、思考和推理的能力；家庭和其他关系、依恋和爱；过着一个自己考虑过并在某种程度上选择的生活；笑声、游戏和与自然界接触生活（Nussbaum 1998: 135–156）。很难看出是什么统一了所有这些不同的类别，但逐项来看，它们的价值和对个体幸福的重要性可能会得到广泛认同。
+Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些根据一组对人们来说客观上有益的物品和活动来评估幸福的理论（Parfit 1984: 493ff）。关于残疾与个体幸福之间关系的一些更有争议的问题涉及哪些客观好处对于美好生活是不可或缺的，以及它们应该以何种一般性水平来描述。尽管“客观清单理论”可能暗示了一个简单的清单，但更好地看待它们是承认（i）生活中的物品存在不可简化的多样性，以及（ii）它们对幸福的贡献不能用像效用这样的共同度量来表达。（i）和（ii）都将客观清单理论区分为幸福的客观或实质性好处理论的一个特例。马莎 · 努斯鲍姆，一位有影响力的客观清单理论家，将以下内容列为她宝贵的能力和功能：健康、营养、住所、性、移动能力；使用感官和想象、思考和推理的能力；家庭和其他关系、依恋和爱；过着一个自己考虑过并在某种程度上选择的生活；笑声、游戏和与自然界接触生活（Nussbaum 1998: 135–156）。很难看出是什么统一了所有这些不同的类别，但逐项来看，它们的价值和对个体幸福的重要性可能会得到广泛认同。
 
 鉴于 Nussbaum 的 ’98 列表中的几项内容无法被许多残疾人享受，因此，如果无法享受列表中所有项目的人无法获得高水平的幸福感，那么许多残疾人也无法获得高水平的幸福感。如果这个推论是错误的，那么这个列表必须被修改。例如，即使在个人幸福的描述中必须包括实质性的商品或规范理想，但并不清楚 Nussbaum 列表中的所有类别是否都是获得高水平幸福感所必需的。正如 Jerome Segal（1998）所指出的，我们大多数人会同意，一个生活即使缺少 Nussbaum 视为必要的某种能力，也可以过得很好。事实上，缺少单一能力的人的生活可能与具有标准感官和运动功能的人的最成功的生活一样顺利。尽管一个生活几乎不可能没有这些能力中的至少一些，但我们没有明确的依据来确定一个最低的能力集。
 
@@ -66,7 +66,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 可能有人认为，一个不能看或听的人缺乏那些对于能看或听的人来说具有重要内在价值的经历。然而，残疾学者所偏爱的广泛描述似乎更适合评估内在价值在我们生活进展中的作用。例如，标准感官功能和活动的一个明显内在价值来源是美学——它们所赋予的经历的美丽、丰富和复杂性。但我们并不认为色盲、音盲、或嗅觉或味觉的障碍有损于幸福，尽管它们排除了丰富的美学经历的广泛范围。没有理由怀疑，一个从未拥有过，或者长期失去了这些感官功能的人（与依赖这些功能从事职业的视觉艺术家或美食评论家相反）可以在美学上过着与那些拥有这些功能的人一样丰富和有益的生活，尽管缺乏确实有价值的经历。这表明我们不能从一个功能中存在巨大价值这一事实推断出那些缺乏它的人的生活显著不如意。只有当这些经历和活动被非常广泛地描述时，才有可能声称一个美好的生活需要包含某些种类的有价值的经历和活动。我们将在下文中进一步讨论这一点，回顾关于残疾是否可以被视为“中性”特征的争论。
 
-最后，即使承认客观商品对幸福的重要性，使生活过得好不仅仅取决于拥有这些商品。同样重要的是一个人生活看起来如何，这重新引入了主观因素。常识支持这样的观点，即个体幸福必须具有主观和客观两个方面；正如乔纳森·格洛弗所说的“两股力量”（格洛弗 2006：第 3 章）。粗略地说，幸福在于部分拥有某些实质商品，部分在于对自己的生活感到快乐（或满足，或享受，或快乐）。但这些力量可能并不容易分开：对客观商品的积极评价可能对这些商品的拥有对幸福有所帮助，或者对它们的缺失对幸福有所损害。此外，任何合理的客观清单都必须包括享受或快乐，无论是作为独立的好处还是作为受重视的状态、活动或关系的一个方面。
+最后，即使承认客观商品对幸福的重要性，使生活过得好不仅仅取决于拥有这些商品。同样重要的是一个人生活看起来如何，这重新引入了主观因素。常识支持这样的观点，即个体幸福必须具有主观和客观两个方面；正如乔纳森 · 格洛弗所说的“两股力量”（格洛弗 2006：第 3 章）。粗略地说，幸福在于部分拥有某些实质商品，部分在于对自己的生活感到快乐（或满足，或享受，或快乐）。但这些力量可能并不容易分开：对客观商品的积极评价可能对这些商品的拥有对幸福有所帮助，或者对它们的缺失对幸福有所损害。此外，任何合理的客观清单都必须包括享受或快乐，无论是作为独立的好处还是作为受重视的状态、活动或关系的一个方面。
 
 ### 认知残疾与幸福
 
@@ -74,9 +74,9 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 认知障碍的人似乎更容易应用主观幸福、享乐和简单欲望的描述，有两个原因。首先，快乐、痛苦、满足和挫折比知情欲望和客观清单理论所考虑的更复杂的心理状态更容易传达和评估。其次，认知障碍的人似乎较难享受或获得标准客观清单上的某些项目：不仅仅是各种形式的成就，还包括各种社会关系和审美体验。更广泛地说，认知障碍者可能无法形成和追求美好生活的概念。因此，坚信严重认知障碍者可以并经常享受相对较高水平幸福感的观点似乎更有利于对幸福的主观描述，而不是适用于其他人的描述。
 
-甚至马莎·纽斯鲍姆（2006 年），一个坚定支持客观幸福解释和残疾人能力的人，担心她的能力解释对选择的重视可能过多，以至于评估那些严重认知残疾的人的幸福时，这些人在某些或许多领域缺乏做出有意义选择的能力。她更倾向于对认知残疾者的功能性进行更多强调：更关注他们实际做了什么或经历了什么，而不是关注他们在经历、活动和人生计划之间做出选择的能力。这提出了一种修改她观点的方式，以便更多这类残疾人达到幸福的门槛。但这为严重认知残疾者采用了不同的标准，与其他人相比，引发了一个问题，即在哪里以及如何划定适用于每个标准的人员范围。
+甚至马莎 · 纽斯鲍姆（2006 年），一个坚定支持客观幸福解释和残疾人能力的人，担心她的能力解释对选择的重视可能过多，以至于评估那些严重认知残疾的人的幸福时，这些人在某些或许多领域缺乏做出有意义选择的能力。她更倾向于对认知残疾者的功能性进行更多强调：更关注他们实际做了什么或经历了什么，而不是关注他们在经历、活动和人生计划之间做出选择的能力。这提出了一种修改她观点的方式，以便更多这类残疾人达到幸福的门槛。但这为严重认知残疾者采用了不同的标准，与其他人相比，引发了一个问题，即在哪里以及如何划定适用于每个标准的人员范围。
 
-一些残疾学者可能担心使用双重标准充满精英主义和居高临下的态度。但它具有顽固的吸引力，因为客观的描述似乎对认知残疾者要求过高。杰夫·麦克马汉（Jeff McMahan）承认，将患有严重先天性认知障碍的人与认知正常的人放在不同的比较类别中，以评估他们的幸福感，似乎“深深地且有害地不平等”（2001: 160）。但他认为，将这些个体视为遭受严重不幸甚至更不可信且不具吸引力，无论他们如何充分利用有限的潜力。
+一些残疾学者可能担心使用双重标准充满精英主义和居高临下的态度。但它具有顽固的吸引力，因为客观的描述似乎对认知残疾者要求过高。杰夫 · 麦克马汉（Jeff McMahan）承认，将患有严重先天性认知障碍的人与认知正常的人放在不同的比较类别中，以评估他们的幸福感，似乎“深深地且有害地不平等”（2001: 160）。但他认为，将这些个体视为遭受严重不幸甚至更不可信且不具吸引力，无论他们如何充分利用有限的潜力。
 
 当然，情况可能很简单，即一切相等的情况下，患有严重认知障碍的人确实比没有这些障碍的人拥有更低的幸福感。但一切并非必须相等：许多患有认知障碍的人可能会在接受某些形式的支持后达到与其他人一样高的幸福感水平。例如，识别到认知障碍者可能需要帮助才能发展和实现美好生活构想，Nussbaum（2006，2009）和 Francis（2009）提出了结构化的支持方式。Nussbaum 建议，即使患有严重认知障碍的人也可以有代表或代理人，使他们能够至少在大多数社会和政治活动中以替代方式参与（2009 年；但请参见 Wasserman 和 McMahan 2012 年对有意义代理人的限制）；Francis 讨论了有助于构建个人美好构想的“心理义肢”。她举例说明了一种心理义肢，即一种实际设备，允许患有阿尔茨海默病的人通过触摸计算机屏幕上的图标来定位他们房子中的物品。使用该设备不会否认用户在定位设备时的代理能力，就像义肢脚不会否认其携带者在奔跑时的代理能力一样（Francis 2009：203-204）。这种设备还可以让认知障碍者表达他们的偏好，但它如何使他们形成美好构想尚不清楚。
 
@@ -92,7 +92,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 残疾的区分有多种方式，一方面，与种族和性别等中性特征相区别。在最大化幸福观的视角下，可以很容易地进行区分，这种观点认为，生活在拥有更有价值的能力时通常更好。与种族和性别相比，残疾在定义上涉及更少的有价值能力，因此它们通常会使生活变得更糟。拥有更多感官、更高智力和更广运动范围总是更好的，即使它们并不能让人更快乐，具有有限的实际价值，并且不能推动一个人的具体项目。这种观点认为，标准的残疾是人类所面临的最突出的限制之一。总是较少总是更糟，尽管有多糟将取决于偶然情况。但许多哲学家拒绝最大主义，部分原因是他们对应该努力获取，并生育拥有最多可能能力数量和范围的孩子的暗示感到犹豫。
 
-杰夫·麦克马汉提出了一种非极端主义论点，反对残疾的中立性，这是基于对单一缺陷如何使人们茁壮成长的看法：
+杰夫 · 麦克马汉提出了一种非极端主义论点，反对残疾的中立性，这是基于对单一缺陷如何使人们茁壮成长的看法：
 
 > 一个残疾可能看起来是中性的，因为它可以通过其他发展来满足其功能的能力来补偿。例如，失明可能会通过其他感官，尤其是听觉的增强来进行补偿。但是，如果残疾在个体上完全是中性的，它们在组合中也应该是中性的；但事实并非如此（2005: 96）。
 
@@ -112,7 +112,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 在性别和种族与残疾之间的对比中，前者中，改变被污名化的社会身份的措施通常被认为比改变未被污名化的主导社会身份的措施更令人反感。而对于残疾来说，情况恰恰相反。给聋哑儿童植入人工耳蜗在某种程度上是有争议的；而让听力正常的儿童失聪则会被视为犯罪虐待。即使这些儿童还太小而无法有听觉的自我意识体验，失聪对他们没有其他影响，并且也没有因失聪而受到歧视。这些对比引发了一个问题，即关于残疾预防方面的不对称是否与残疾是中性特征的观点相容——即残疾并不会使生活整体变得更糟。
 
-最近，伊丽莎白·巴恩斯试图挑战预防或纠正残疾与其他重要特征之间的这种被认为是不对称的观点。她将改变性别或性别归因于道德考虑，这些道德考虑同样适用于“纠正”残疾：1）除非经过同意，否则会侵犯个人控制自己身体的权利；如果经过同意，它们将是可以接受的选择性程序（正如巴恩斯所主张的，用于制造残疾的程序也是如此）；以及 2）这些程序通常涉及相当大的损失和过渡成本——但纠正残疾的程序也是如此，正如许多“治愈”叙事所证明的那样。对于不涉及身体修改、损失或过渡成本的预防措施，巴恩斯认为，预防残疾与预防不受欢迎的种族或性取向之间所声称的差异仅仅是在诘问——没有充分的理由来接受前者并拒绝后者，仅仅是直觉所支持的“负差异”观点。
+最近，伊丽莎白 · 巴恩斯试图挑战预防或纠正残疾与其他重要特征之间的这种被认为是不对称的观点。她将改变性别或性别归因于道德考虑，这些道德考虑同样适用于“纠正”残疾：1）除非经过同意，否则会侵犯个人控制自己身体的权利；如果经过同意，它们将是可以接受的选择性程序（正如巴恩斯所主张的，用于制造残疾的程序也是如此）；以及 2）这些程序通常涉及相当大的损失和过渡成本——但纠正残疾的程序也是如此，正如许多“治愈”叙事所证明的那样。对于不涉及身体修改、损失或过渡成本的预防措施，巴恩斯认为，预防残疾与预防不受欢迎的种族或性取向之间所声称的差异仅仅是在诘问——没有充分的理由来接受前者并拒绝后者，仅仅是直觉所支持的“负差异”观点。
 
 巴恩斯的论点，毫不奇怪地，已经证明是有争议的。一些对某些残疾持有仅有差异主张的评论者质疑巴恩斯对所有残疾的绝对主张；另一些人质疑她是否对那些声称在预防措施的情况下存在不对称性的人过于急于指责乞求问题（见 Dougherty 2014）。
 
@@ -126,7 +126,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 他们与伤害有关，应在某些情况下予以预防。然而，它们不应被视为“负面的差异制造者”——这些条件并不一定会使整体生活变得更糟。
 
-在阻止残疾被视为一种伤害而转变为残疾作为一种负面差异制造者的推论中，巴恩斯举出了残疾对特定个体产生积极后果的实例，尽管有时是因为“局部”困难而产生。然而，也许并不需要积极后果来“中和”与残疾相关的困难。这些困难可能只是被吸收在使生活变得更好或更糟的巨大复杂因素中。只有在将部分与整体的关系简单地视为加法关系时，局部伤害才会必然使生活变得更糟，除非得到补偿。然而，很难更精确地描述残疾对整个生活的影响，因为不清楚生活的部分的好坏如何对整体的好坏做出贡献，无论是客观还是主观的幸福观（Feldman 2008）。大卫·维尔曼认为，无论一个人对个体幸福的特定理论是什么，生活的部分并不是以加法方式对生活的好坏做出贡献。换句话说，整个生活的好坏并不是其部分的好坏之和。相反，整个生活的好坏应该从其各个部分之间的叙事关系来理解。从这个角度来看，一个人生活中某个特定时期的成功或失败可以回顾性地改变先前时期的意义或重要性（Velleman 1991）。
+在阻止残疾被视为一种伤害而转变为残疾作为一种负面差异制造者的推论中，巴恩斯举出了残疾对特定个体产生积极后果的实例，尽管有时是因为“局部”困难而产生。然而，也许并不需要积极后果来“中和”与残疾相关的困难。这些困难可能只是被吸收在使生活变得更好或更糟的巨大复杂因素中。只有在将部分与整体的关系简单地视为加法关系时，局部伤害才会必然使生活变得更糟，除非得到补偿。然而，很难更精确地描述残疾对整个生活的影响，因为不清楚生活的部分的好坏如何对整体的好坏做出贡献，无论是客观还是主观的幸福观（Feldman 2008）。大卫 · 维尔曼认为，无论一个人对个体幸福的特定理论是什么，生活的部分并不是以加法方式对生活的好坏做出贡献。换句话说，整个生活的好坏并不是其部分的好坏之和。相反，整个生活的好坏应该从其各个部分之间的叙事关系来理解。从这个角度来看，一个人生活中某个特定时期的成功或失败可以回顾性地改变先前时期的意义或重要性（Velleman 1991）。
 
 最近的非比较伤害描述（Harman 2009; Shiffrin 2012, 1999）提供了额外的理由来挑战将残疾视为伤害而非消极差异制造者的推论。这些描述拒绝了流行的、以反事实为基础的伤害分析，即将伤害视为对个体利益的挫折，参照某种基线——她的过去、她的期望，或者她所在群体或社会的平均水平。相反，它们将伤害理解为基本上不好的状态或事件，比如疼痛、残疾和死亡；这些描述的支持者声称，这些状态或事件可以被视为不好，而无需参照任何基线。根据这些观点，个体仅仅因为遭受疼痛或受伤就受到伤害，而不管这种疼痛或受伤是否使她整体变得更糟。她会因为痛苦的救命手术而受到伤害，尽管这避免了更大的伤害，或者因为改变生活的残疾而受到伤害，尽管她的生活可能因此变得更好。
 
@@ -142,7 +142,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 #### 1.5.1 生殖测试
 
-一些准父母认为带有一些残疾的生活比根本没有生命更糟糕。这种说法通常与 Tay-Sachs、Lesch-Nyan 以及三体 13 和 18 等疾病有关。然而，即使对于这些疾病，这种观点也并非普遍存在（Wilkinson 2011）。在 20 世纪 80 年代，一个人的生活如此糟糕以至于对其构成伤害的概念引起了广泛的哲学关注，当时美国发生了许多诉讼，声称医生或父母未能在子宫内诊断其状况和/或阻止其出生是对孩子的伤害。这些诉讼似乎需要对存在和不存在进行比较，大多数法院和一些哲学家拒绝了这种比较。然而，大多数哲学家，从乔尔·费恩伯格（1986）开始，得出结论认为，这种概念在理论上是有用的，尽管在实践中不一定如此。
+一些准父母认为带有一些残疾的生活比根本没有生命更糟糕。这种说法通常与 Tay-Sachs、Lesch-Nyan 以及三体 13 和 18 等疾病有关。然而，即使对于这些疾病，这种观点也并非普遍存在（Wilkinson 2011）。在 20 世纪 80 年代，一个人的生活如此糟糕以至于对其构成伤害的概念引起了广泛的哲学关注，当时美国发生了许多诉讼，声称医生或父母未能在子宫内诊断其状况和/或阻止其出生是对孩子的伤害。这些诉讼似乎需要对存在和不存在进行比较，大多数法院和一些哲学家拒绝了这种比较。然而，大多数哲学家，从乔尔 · 费恩伯格（1986）开始，得出结论认为，这种概念在理论上是有用的，尽管在实践中不一定如此。
 
 在涉及较轻度残疾的情况下，一些准父母认为他们通过防止残疾儿童的存在来保护“他们的孩子”的福祉。这种态度涉及将未来的孩子视为一个特定的个体，只有在有残疾的情况下才能存在，而不是准父母不希望用残疾儿童填补的角色。哲学家们一直在辩论以这种方式看待未来子女的适当性（Malek 2008; Hare 2007; Velleman 2008; Wasserman 2008; Heyd 2009）。即使这种观点是合适的，其道德力量也取决于被诊断状况合理地预计会降低孩子的福祉的程度，以及存在和强度的道德理由，不要使具有这种福祉缺陷的人出生。
 
@@ -156,7 +156,7 @@ Derek Parfit 创造了“客观清单理论”这个术语，用来指代那些�
 
 残疾和幸福的假设在这一背景下扮演着重要但不太显著的角色。当个体不再能够自行决定是否接受、继续或拒绝维持生命的治疗时，这些假设最为突出。对于曾经有能力做出这些决定的成年人，有两种标准适用于代理决策：替代判断和最佳利益。第一种涉及判断个体如果能够为当前情况做出选择或决定，她会想要或选择什么；第二种涉及通过非个体自身的标准来判断个人的利益。在成年人从未具有决策能力且没有依据可以判断患者会做出什么选择的情况下，最佳利益标准适用。但是，评判这样一个成年人的最佳利益的人很容易犯与非残疾人评判残疾人幸福的错误相同的投射错误。一个非残疾的代理人可能会因失去认知障碍个体从未拥有的能力而感到沮丧，或者认为无法理解身体疼痛的来源或原因对于该个体来说可能比对代理人来说更具创伤性。这些判断并不明显错误，而是推测性的；主要错误在于过于自信。
 
-残疾和幸福的假设在评判有能力的成年人要求终止或不接受维持生命的治疗的合理性方面也起着重要作用。许多司法管辖区承认这些个体有权为自己做出这一决定，但残疾倡导者仍然担心，如果这些决定是对严重、永久残疾的回应，那么它们更有可能被认为是合理的，并受到尊重。因此，在具有影响力的伊丽莎白·布维亚案例中，法院允许一个完全有能力的、严重残疾的女性拒绝可能无限延长她生命的医疗支持。对这一决定的批评者认为，布维亚和法院都过分受到她身体依赖的被认为是有失尊严的影响，以及他们难以看到严重残疾如何能够过得很好（Asch 2005; Gill 1992; Longmore 1987）。
+残疾和幸福的假设在评判有能力的成年人要求终止或不接受维持生命的治疗的合理性方面也起着重要作用。许多司法管辖区承认这些个体有权为自己做出这一决定，但残疾倡导者仍然担心，如果这些决定是对严重、永久残疾的回应，那么它们更有可能被认为是合理的，并受到尊重。因此，在具有影响力的伊丽莎白 · 布维亚案例中，法院允许一个完全有能力的、严重残疾的女性拒绝可能无限延长她生命的医疗支持。对这一决定的批评者认为，布维亚和法院都过分受到她身体依赖的被认为是有失尊严的影响，以及他们难以看到严重残疾如何能够过得很好（Asch 2005; Gill 1992; Longmore 1987）。
 
 #### 1.5.4 健康相关生活质量测量
 
@@ -222,7 +222,7 @@ Sridhar Venkatapuram 对 Nordenfeldt 的变体显示了一种工具性方法的�
 
 同时，他承认对健康的更狭窄概念，将其视为更广义健康概念中包含的更具体的能力之一。在这种狭义健康概念中，健康仅仅是避免疾病和损伤的能力。但不清楚为什么即使在这种狭义健康概念中，健康也应该是幸福的一个组成部分，考虑到人类的死亡和脆弱这一事实。
 
-劳伦斯·贝克尔（Becker 2005）提出了一种广泛但不那么工具化的健康概念，他审视了其他学科中对健康的积极概念，特别是心理学中积极心理健康模型，其中包括韧性、健壮性、发展成熟度、品格力量和主观幸福感。这些概念在两个方面超越了疾病的缺席：它们是积极的，需要心理生理活力——健壮、活力和韧性——而且它们是广泛的，不仅关注生物医学功能，还关注更全面的幸福感。
+劳伦斯 · 贝克尔（Becker 2005）提出了一种广泛但不那么工具化的健康概念，他审视了其他学科中对健康的积极概念，特别是心理学中积极心理健康模型，其中包括韧性、健壮性、发展成熟度、品格力量和主观幸福感。这些概念在两个方面超越了疾病的缺席：它们是积极的，需要心理生理活力——健壮、活力和韧性——而且它们是广泛的，不仅关注生物医学功能，还关注更全面的幸福感。
 
 最近，Becker (2012)主张将“基本良好健康”作为“基本正义”的度量标准。对于 Becker 来说，基本良好健康在交互性方面被定义为“在特定环境中具有可靠的身体和心理功能” (2012: 45)。正如 David Crocker (2013)所观察到的那样，这种概念
 
@@ -325,7 +325,7 @@ Entry 在单独讨论幸福、健康和人际关系之后，最终考虑了这�
 * –––, 2010, “Making Embryos Healthy or Making Healthy Embryos: How much of a Difference between Prenatal Treatment and Selection?” in *The “Health” Embryo: Social, Biomedical, Legal and Philosophical Perspectives*, J. Nisker, F. Baylis, I. Karpin, C. McLeod, and R. Mykitiuk (eds), New York: NY: Cambridge University Press, 201–219.
 * Aschbrenner, K.A., J.S. Greenberg, S.M. Allen, M.M. Seltzer, 2010, “Subjective burden and personal gains among older parents of adults with serious mental illness”, *Psychiatric Services*, 61(6): 605–611.
 * Barnes, E., 2009a, “Disability, Minority, and Difference”, *Journal of Applied Philosophy*, 26(4): 337–355.
-* –––, 2009b, “Disability and adaptive preference”, *Philosophical Perspectives*, 23:1, pp 1–22.
+* –––, 2009b, “Disability and adaptive preference”, *Philosophical Perspectives*, 23: 1, pp 1–22.
 * –––, 2014, “Valuing Disability, Causing Disability”, *Ethics*, 125(1): 88–113.
 * Becker, L.C., 1998, “Afterword: Disability, Strategic Action, and Reciprocity”, in Silvers, Wasserman, and Mahowald 1998: 293–303.
 * Becker, L., 2000, “The Good of Agency”, in *Americans with Disabilities: Implications of the Law for Individuals and Institutions*, L. Frances and A. Silvers (eds.), New York: Routledge: 54–63.
@@ -381,7 +381,7 @@ Entry 在单独讨论幸福、健康和人际关系之后，最终考虑了这�
 * Hardwig, J., 2000, *Is There A Duty to Die?*, New York: Routledge.
 * Hare, C., 2007, “Voices from Another World: Must We Respect the Interests of People Who Do Not, and Will Never, Exist?” *Ethics*, 117(3): 498–523.
 * Harman, E., 2009, “Harming as Causing Harm”, in Roberts and Wasserman 2009: 137–154.
-* Harris, John, 1987, “QALYfying the Value of Life”, *Journal of Medical Ethics*, 23:227–23.
+* Harris, John, 1987, “QALYfying the Value of Life”, *Journal of Medical Ethics*, 23: 227–23.
 * Hausman, D., 2001, “Valuing Health”, *Philosophy and Public Affairs*, 34(3) 246–79
 * Heyd, D., 2009, “The Intractability of the Nonidentity Problem”, in Roberts and Wasserman 2009: 3–25.
 * Hofman, B., 2005, “Simplified Models of the Relationship between Health and Disease”, *Theoretical Medicine and Biology*, 26: 355–377.
@@ -419,11 +419,11 @@ Entry 在单独讨论幸福、健康和人际关系之后，最终考虑了这�
 * Robertson, J.A., 2004, “Procreative Liberty and Harm to Offspring in Assisted Reproduction”, *American Journal of Law & Medicine*, 30(1): 7–40.
 * Ruddick, W., 1998, “Parenthood: Three Concepts and a Principle”, in *Morals, Marriage, and Parenthood: An Introduction to Family Vales*, L.D. Houlgate (ed.), Belmont, CA: Wadsworth.
 * –––, 2000, “Ways to Limit Prenatal Testing”, in *Prenatal Testing and Disability Rights*, E. Parens and A. Asch (eds.), Washington, D.C.: Georgetown University Press: 95–107.
-* Saigal, Saroj and P. Rosenbaum, 1996, “Health Related Quality of Life Considerations in the Outcome of High-Risk Babies”, *Seminars in Fetal and Neonatol Medicine*, 1(4): 305–312. doi:10.1016/S1084-2756(96)80050-9
+* Saigal, Saroj and P. Rosenbaum, 1996, “Health Related Quality of Life Considerations in the Outcome of High-Risk Babies”, *Seminars in Fetal and Neonatol Medicine*, 1(4): 305–312. doi: 10.1016/S1084-2756(96)80050-9
 * Salomon, J.A. and C. Murray, 2002 “Estimating Health State Valuations Using a Multiple-Method Protocol”, *Summary Measures of Population Health: Concepts, Ethics, Measurement and Applications*, Geneva: World Health Organization.
 * Scanlon, T.M., 1998, *What We Owe to Each Other*, Cambridge, MA.: Harvard University Press, 109ff.
 * Scheffler, Samuel, 2014, “The Practice of Equality”, *Social Equality: Essays on What it Means to be Equals*, Carina Fourie, Fabian Schuppert, and Ivo Wallimann-Helmer (eds.), Oxford: Oxford University Press.
-* Scotch, R.K. and K. Schriner, 1997, “Disability as Human Variation: Implications for Policy”,*The Annals of the American Academy of Political and Social Science*, 549(1): 148–159.
+* Scotch, R.K. and K. Schriner, 1997, “Disability as Human Variation: Implications for Policy”, *The Annals of the American Academy of Political and Social Science*, 549(1): 148–159.
 * Segal, J.M., 1998, “Living at a High Economics Standard: A Functionings Analysis”, in *Ethics of Consumption: The Good Life Justice, and Global Stewardship*, David Crocker and Toby Linden (eds), Lanham, MD: Rowman & Littlefield, 342–365.
 * Sen, A., 1980, “Equality of What?” in S. MacMurrin (ed.) *Tanner Lectures on Human Values*, Cambridge: Cambridge University Press.
 * Shakespeare, T., 1996, *The Sexual Politics of Disability*, London, UK: Cassell.
@@ -441,17 +441,17 @@ Entry 在单独讨论幸福、健康和人际关系之后，最终考虑了这�
 * Venkatapuram, S., 1998, *Health Justice: An argument from the capabilities approach*, Cambridge: Polity Press.
 * Wachbroit, R., 1998, “Health and Disease, Concepts of”, *Encyclopedia of Applied Ethics vol. 2*, Ruth Chadwick, Daniel Callahan, and Peter Singer (eds), Waltham, MA: Academic Press, pp. 533–538.
 * Wasserman, D., 1998, “Distributive Justice”, in Silvers, Wasserman, and Mahowald 1998: 147-207.
-* –––, 2008, “Hare on De Dicto Betterness and Prospective Parents*”, *Ethics*, 118(3): 529–535.
+* –––, 2008, “Hare on De Dicto Betterness and Prospective Parents *”, * Ethics*, 118(3): 529–535.
 * Wasserman, D., R. Wachbroit, and J. Bickenbach, 2005a, “Introduction”, in Wasserman, Wachbroit, and Bickenbach 2005b: 1–26.
-* ––– (eds), 2005b, *Quality of Life and Human Difference: Genetic Testing, Health Care, and Disability*, New York: Cambridge University Press,
-* Wasserman, David and Jeff McMahan, 2012, “Cognitive Surrogacy, Assisted Participation, and Moral Status”, *Medicine and Social Justice: Essays on the Distribution of Health Care*, New York: Oxford University Press, 325–333.
-* Wendell, S., 1989, “Toward A Feminist Theory of Disability”, *Hypatia*, 4(2): 63–81.
-* –––, 1996, *The Rejected Body: Feminist Philosophical Reflections on Disability*, Hove, East Sussex, UK: Psychology Press.
-* –––, 2001, “Unhealthy disabled: Treating chronic illnesses as disabilities”, *Hypatia*, 16(4): 17–33.
-* Wertz, D., 1998, “What’s Missing from Genetic Counseling: A Survey of 476 Counseling Sessions”, abstract, *Journal of Genetic Counseling*, 7(6): 499–500.
-* Wertz, D.C. and J.C. Fletcher, 1993, “A Critique of Some Feminist Challenges to Prenatal Diagnosis”, *Journal of Women’s Health*, 2(2): 173–188
-* Wilkinson, D., 2011, “A Life Worth Giving? The Threshold for Permissible Withdrawal of Life Support from Disabled Newborn Infants”, *The American Journal of Bioethics*, 11(2): 20–32.
-* Williams, B., 1973, “The Makropulos Case: Reflections on the Tedium of Immortality”, *Problems of the Self*, Cambridge University Press: 82–100.
+* ––– (eds), 2005b, * Quality of Life and Human Difference: Genetic Testing, Health Care, and Disability*, New York: Cambridge University Press,
+* Wasserman, David and Jeff McMahan, 2012, “Cognitive Surrogacy, Assisted Participation, and Moral Status”, * Medicine and Social Justice: Essays on the Distribution of Health Care*, New York: Oxford University Press, 325–333.
+* Wendell, S., 1989, “Toward A Feminist Theory of Disability”, * Hypatia*, 4(2): 63–81.
+* –––, 1996, * The Rejected Body: Feminist Philosophical Reflections on Disability*, Hove, East Sussex, UK: Psychology Press.
+* –––, 2001, “Unhealthy disabled: Treating chronic illnesses as disabilities”, * Hypatia*, 16(4): 17–33.
+* Wertz, D., 1998, “What’s Missing from Genetic Counseling: A Survey of 476 Counseling Sessions”, abstract, * Journal of Genetic Counseling*, 7(6): 499–500.
+* Wertz, D.C. and J.C. Fletcher, 1993, “A Critique of Some Feminist Challenges to Prenatal Diagnosis”, * Journal of Women’s Health*, 2(2): 173–188
+* Wilkinson, D., 2011, “A Life Worth Giving? The Threshold for Permissible Withdrawal of Life Support from Disabled Newborn Infants”, * The American Journal of Bioethics*, 11(2): 20–32.
+* Williams, B., 1973, “The Makropulos Case: Reflections on the Tedium of Immortality”, * Problems of the Self*, Cambridge University Press: 82–100.
 * World Health Organization [WHO], 1948, “WHO Definition of Health”, in Preamble to the Constitution of the World Health Organization, as adopted by the International Health Conference, New York, 19–22 June, 1946; signed on 22 July 1946 by the representatives of 61 states (Official Records of the World Health Organization, no. 2, p. 100), and entered into force on 7 April 1948. [[WHO 1948 available online](http://www.who.int/about/mission/en/)]
 
 ## Academic Tools

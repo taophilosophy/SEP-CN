@@ -1,10 +1,10 @@
 # 逻辑多元主义 logical pluralism (Gillian Russell and Christopher Blake-Turner)
 
-*首次发表于2013年4月17日，实质修订于2023年9月14日。*
+*首次发表于 2013 年 4 月 17 日，实质修订于 2023 年 9 月 14 日。*
 
-逻辑多元主义是一种观点，认为存在不止一种正确的逻辑。逻辑是有效性的理论：它们告诉我们哪些论证形式是有效的。不同的逻辑在哪些形式是有效的问题上存在分歧[1]。例如，考虑排中律（EFQ）：
+逻辑多元主义是一种观点，认为存在不止一种正确的逻辑。逻辑是有效性的理论：它们告诉我们哪些论证形式是有效的。不同的逻辑在哪些形式是有效的问题上存在分歧 [1]。例如，考虑排中律（EFQ）：
 
-A,¬A⊨B
+A, ¬A⊨B
 
 经典逻辑和强克里尼逻辑将 EFQ 归类为有效的，但相关逻辑和抗矛盾逻辑则认为它是无效的。很容易想到，它们不可能都是正确的。如果 EFQ 是有效的，那么相关逻辑和抗矛盾逻辑就不是正确的有效性理论，或者可以说：它们不是正确的逻辑。而如果 EFQ 是无效的，那么经典逻辑和强克里尼逻辑就不是正确的逻辑。逻辑多元主义有多种形式，但最具哲学意义和争议的版本认为不止一种逻辑可以是正确的，也就是说：逻辑 L1 和 L2 可以在哪些论证是有效的问题上存在分歧，而且两者都可以做对。关于逻辑多元主义版本何时具有哲学意义的问题在下文中将更详细地讨论，特别是在第 6 节中。
 
@@ -63,13 +63,13 @@ A,¬A⊨B
 
 通过案例反对逻辑多元主义的一种方式是同意“案例”是不明确的，并且可以有不同的解释，同时拒绝进一步认为这些解释对应于不同的逻辑推论关系。一种方法是坚持在 GTT 中量词“every”的最大领域。逻辑学中有一种传统观点认为，为了一个论证在逻辑上成立，结论必须在所有情况下都为真，只要前提为真，无论在任何地方、任何情况下，只要存在任何情况使得前提为真而结论为假，那么这个论证就是无效的。因此，唯一真正的逻辑是描述在所有情况下的真值保持关系的逻辑，其中“所有”被广泛地理解（Beall＆Restall 2006：92；Priest 2006：202）。[2] 一个唯一主义者也可以这样说：多元主义者的真正逻辑可以通过取每个“逻辑”接受的有效形式集合（如 EFQ）的交集来恢复（唯一主义者在这里使用引号，当然多元主义者不会）。对于唯一主义者来说，一个论证形式只有在所有多元主义者接受的“逻辑”中都被认为是有效的（如“逻辑上有效”应该被理解）时，它才真正在逻辑上有效。
 
-假设我们追求这种广义策略。一个问题是，我们是否会剩下任何有用的逻辑蕴涵关系。通过量化额外情况得出的逻辑往往较弱-将较少的论证归类为有效-因为我们包括的情况越多，就越有可能包括一个情况，其中特定论证的前提为真，而结论为假。二值逻辑主义者会包括一些既有一个句子又有其否定为真的情况，这意味着我们可以有 P 和¬P 都为真，但 Q 为假的情况，使得 P∨Q 和¬P 都为真，尽管 Q 不是真的，从而为析取三段论提供了一个反例。如果这是可以接受的，为什么不允许 P∧Q 为真，但 P 不为真呢？或者更糟糕。也许，如果我们将“每种情况”解释得足够广泛，我们会发现没有剩下任何有效的论证，因此结果将不是逻辑唯一主义，而是一种逻辑虚无主义，或者接近逻辑虚无主义。几位多元主义者已经使用这种论证线路作为对必须在绝对每种情况下定义蕴涵的想法的还原论：
+假设我们追求这种广义策略。一个问题是，我们是否会剩下任何有用的逻辑蕴涵关系。通过量化额外情况得出的逻辑往往较弱-将较少的论证归类为有效-因为我们包括的情况越多，就越有可能包括一个情况，其中特定论证的前提为真，而结论为假。二值逻辑主义者会包括一些既有一个句子又有其否定为真的情况，这意味着我们可以有 P 和 ¬P 都为真，但 Q 为假的情况，使得 P∨Q 和 ¬P 都为真，尽管 Q 不是真的，从而为析取三段论提供了一个反例。如果这是可以接受的，为什么不允许 P∧Q 为真，但 P 不为真呢？或者更糟糕。也许，如果我们将“每种情况”解释得足够广泛，我们会发现没有剩下任何有效的论证，因此结果将不是逻辑唯一主义，而是一种逻辑虚无主义，或者接近逻辑虚无主义。几位多元主义者已经使用这种论证线路作为对必须在绝对每种情况下定义蕴涵的想法的还原论：
 
 > …我们看不到停止概括和扩大情况解释过程的地方。据我们所知，（无限制的）所有逻辑的交集中可能剩下的唯一推理是恒等推理：从 A 推导出 A。认为恒等推理是唯一真正有效的论证是不合理的，我们认为这是一个没有动机的结论。（Beall & Restall 2006: 92，原文强调）[3]
 
 普里斯特持不同意见，并建议停止沿着这个滑坡滑下去的是某些关键蕴涵关系是由联结词的意义决定的事实：
 
-> 我认为在某些情况下，所有推理原则都失败只是虚假的。例如，任何一个连词成立的情况下，由于∧的含义，连词成立。（Priest 2006: 202–203）
+> 我认为在某些情况下，所有推理原则都失败只是虚假的。例如，任何一个连词成立的情况下，由于 ∧ 的含义，连词成立。（Priest 2006: 202–203）
 
 但是，逻辑学家通常声称他们自己的逻辑原则是由逻辑常量的含义所验证的，而那些否定这些原则的人则对此提出异议。在没有更实质性的连词含义理论的独立裁决下，很难裁决这类争议。这又是一个争论逻辑多元主义的领域与逻辑哲学中一个旧的争议相遇的地方，而这个争议表面上是关于含义的问题。对于这个一元论反对的成功，仍然存在两个关键问题：（一）在任何情况下，哪些论证形式可以保证保持真实（也许是由于含义），（二）如果有这样的论证形式，是否有足够多的论证形式构成一个非平凡的逻辑？最近的一个观点，逻辑虚无主义，接受了唯一真正的逻辑可能是空逻辑的观点。我们在第 3 节中单独讨论这个观点。
 
@@ -133,7 +133,7 @@ RaCa
 
 许多批评家强调了逻辑的所谓规范性与逻辑多元主义的论题之间的明显紧张关系。例如，假设一个论证形式是有效的，那么关于我们应该相信什么的一些规范性结论就会随之而来。(也许是我们应该相信论证形式的结论，如果我们相信前提，尽管关于逻辑的规范性的大部分工作表明它需要是更加复杂的东西。) 现在假设逻辑多元主义是正确的。特别是逻辑 1 说析取三段论是有效的，逻辑 2 说析取三段论是无效的，这两个逻辑都是正确的。我们应该相信逻辑 1 告诉我们应该相信什么吗？很难看出我们如何能够逃脱这个义务，因为逻辑 1 告诉我们前提蕴含结论，而逻辑 1 是正确的。然而，如果信念的规范性结果确实成立，那么也许逻辑 2 在某种程度上是不完善的——它未能捕捉到从我们的逻辑中产生的所有义务。正如 Read 所说：
 
-> [假设]确实存在两个同样好的关于演绎有效性的解释/理论，K1 和 K2，根据 K1，β是从α中推出的，但根据 K2 不是，而我们知道α是真的...根据 K1 的推论，β是真的，但根据 K2 不是。我们应该还是不应该得出结论β是真的？答案似乎很明确：K1 胜过 K2[因为]...K1 回答了一个关键问题，而 K2 没有...[这个]问题是逻辑的核心问题。(Read 2006: 194–195)
+> [假设] 确实存在两个同样好的关于演绎有效性的解释/理论，K1 和 K2，根据 K1，β 是从 α 中推出的，但根据 K2 不是，而我们知道 α 是真的...根据 K1 的推论，β 是真的，但根据 K2 不是。我们应该还是不应该得出结论 β 是真的？答案似乎很明确：K1 胜过 K2 [因为]...K1 回答了一个关键问题，而 K2 没有...[这个] 问题是逻辑的核心问题。(Read 2006: 194–195)
 
 多元主义的反驳版本也可以在普里斯特（2006 年）、基夫（2014 年：1385）、斯坦伯格（2019 年）中找到。关于多元主义的回应，请参见卡雷特（2017 年）、拉塞尔（2017 年）、布雷克-特纳和拉塞尔（2021 年）以及布雷克-特纳（2021 年）。斯坦伯格（2020b）认为，通过拒绝逻辑的规范性来解决这个问题是不可行的。
 
@@ -177,20 +177,20 @@ Griffiths 和 Paseau 的论证是通过案例进行的。他们调查了多元�
 
 一个人可以选择成为所谓的适度多元主义者，并接受 Beall 和 Restall 对什么可以算作逻辑的限制：必要性、形式性和规范性。这样，适度多元主义者可能会得到一组更受限制的逻辑，从而获得更大的共享原则集合，在这种方法中，他们将拥有更强大的元逻辑。但 Griffiths 和 Paseau 认为，这种总体立场缺乏充分的动机：
 
-> [Beall 和 Restall]对于一个特征是否应被视为确定的测试是历史性的...如果我们回顾关于推论的传统，我们似乎发现一些特征——必然性、形式性和规范性——是确定的，而其他特征——可公理化性、先验可知性——是不确定的。然而，当我们考虑这个传统时，并没有出现这样的画面。相反，我们发现一个完全不确定的画面，这个画面不可能激发出一种适度多元主义的动力。毫无疑问，很难争辩说某个特征比单一论思想本身更加是传统的一部分：所以如果有什么是确定的特征，那就是存在一个正确的逻辑的思想。(2022: 51)
+> [Beall 和 Restall] 对于一个特征是否应被视为确定的测试是历史性的...如果我们回顾关于推论的传统，我们似乎发现一些特征——必然性、形式性和规范性——是确定的，而其他特征——可公理化性、先验可知性——是不确定的。然而，当我们考虑这个传统时，并没有出现这样的画面。相反，我们发现一个完全不确定的画面，这个画面不可能激发出一种适度多元主义的动力。毫无疑问，很难争辩说某个特征比单一论思想本身更加是传统的一部分：所以如果有什么是确定的特征，那就是存在一个正确的逻辑的思想。(2022: 51)
 
 多元主义者的另一个选择是在元逻辑上成为单一论者，尽管在非元逻辑时允许使用其他逻辑。Griffiths 和 Paseau 认为这个立场是不稳定的。假设多元主义者接受两种逻辑，比如 LP 和 K3，作为正确的逻辑，但对于元逻辑，他们只接受经典逻辑。现在我们面临一个使用假言三段论的论证（在客体语言中）：
 
-P,P→Q⊨Q.
+P, P→Q⊨Q.
 
 这在 K3 中是有效的，但在 LP 中不是。那么现在对于这个论证怎么办呢：
 
 | “P” is true. |
 | ---------------- |
-| "P→Q"是真的。 |
+| "P→Q" 是真的。 |
 | “Q” is true. |
 
-每个前提陈述都说明了原始的假言推理实例的前提之一是真的，而结论则说明了假言推理实例的结论是真的。然而，与原始论证不同，这个论证只使用了元语言句子，我们可能期望它是一个使用经典逻辑（即元语言的逻辑）的地方，因此当前的多元主义流派会推断出结论"Q"是真的。但如果是这样，为什么不直接去引述并得到 Q 呢？元逻辑单一论者似乎能够通过升级到元层，在那里进行论证步骤，然后引述回到对象语言中来规避他们的弱逻辑。
+每个前提陈述都说明了原始的假言推理实例的前提之一是真的，而结论则说明了假言推理实例的结论是真的。然而，与原始论证不同，这个论证只使用了元语言句子，我们可能期望它是一个使用经典逻辑（即元语言的逻辑）的地方，因此当前的多元主义流派会推断出结论 "Q" 是真的。但如果是这样，为什么不直接去引述并得到 Q 呢？元逻辑单一论者似乎能够通过升级到元层，在那里进行论证步骤，然后引述回到对象语言中来规避他们的弱逻辑。
 
 潜在问题在于客体语言和元语言中的句子真值并不独立。它们之间最简单的关系可能是一个无限制的双条件解引用原则：
 
@@ -204,7 +204,7 @@ P,P→Q⊨Q.
 
 让我们考虑一下逻辑多元主义者对于元逻辑问题的回应。格里菲斯和帕索倾向于写作，好像只有两种多元主义者：(a)混合主义者，他们接受大量非标准逻辑，可能是出于慷慨包容的精神；(b)适度主义者，他们发现对逻辑历史的忠诚限制了他们对包容性的渴望，逻辑历史坚持逻辑必要性、形式性和规范性。但是，还有一种不同但相当现实的多元主义者，他们受到不同唯一主义者的论证的激励，同时又不希望被束缚于过于薄弱的逻辑。
 
-假设——为了举一个具体的例子——离经叛道的一元论者A认为空名使得一个句子既不真也不假，并且我们应该出于这个原因接受唯一的逻辑K3。相比之下，离经叛道的一元论者B从语义悖论出发，认为一个句子既可以是真的也可以是假的，并且我们应该出于这个理由接受唯一的逻辑LP。现在考虑一个研究A和B两位离经叛道的一元论者观点的人，他同意空名和语义悖论分别导致了既不真也不假的句子。这个人既不能成为K3一元论者（因为语义悖论），也不能成为LP一元论者（因为空名）。相反，他有两个选择：只接受两种逻辑共享的蕴涵——也许接受非常弱的一阶蕴涵逻辑（FDE）或类似的逻辑作为唯一的逻辑——或者将有效性相对化到我们所涉及的现象上。如果你的语言中没有空名：使用LP。如果没有语义悖论：使用K3。如果两者都存在，你只能使用FDE。但是，在使用既没有空名也没有资源来表达语义悖论的语言时，可以放心地使用古典逻辑的全部资源。
+假设——为了举一个具体的例子——离经叛道的一元论者 A 认为空名使得一个句子既不真也不假，并且我们应该出于这个原因接受唯一的逻辑 K3。相比之下，离经叛道的一元论者 B 从语义悖论出发，认为一个句子既可以是真的也可以是假的，并且我们应该出于这个理由接受唯一的逻辑 LP。现在考虑一个研究 A 和 B 两位离经叛道的一元论者观点的人，他同意空名和语义悖论分别导致了既不真也不假的句子。这个人既不能成为 K3 一元论者（因为语义悖论），也不能成为 LP 一元论者（因为空名）。相反，他有两个选择：只接受两种逻辑共享的蕴涵——也许接受非常弱的一阶蕴涵逻辑（FDE）或类似的逻辑作为唯一的逻辑——或者将有效性相对化到我们所涉及的现象上。如果你的语言中没有空名：使用 LP。如果没有语义悖论：使用 K3。如果两者都存在，你只能使用 FDE。但是，在使用既没有空名也没有资源来表达语义悖论的语言时，可以放心地使用古典逻辑的全部资源。
 
 这最后一步类似于有时被称为“经典重获”的移动，这在亚经典一元论者中很常见（参见，例如，普里斯特 2006 年：198 和罗森布拉特 2022 年）。例如，一个受建构主义数学启发的一元直觉主义者可能认为，在讨论无限心智建构之外的主题时使用经典排中律的实例是可以接受的。而一个既非矛盾逻辑学家可能认为，在一个不能充分表达悖论的语言中使用经典的 EFQ 原则的实例是可以接受的。他们都不接受这些原则在逻辑上是有效的——因为它们在数学或在推理悖论时不可靠。但这并不意味着你永远不能使用它们更安全的实例。事实上，它们失败的情况可能相当奇特，并且在日常生活中很少遇到。
 
@@ -224,9 +224,9 @@ P,P→Q⊨Q.
 
 ## 3. 逻辑虚无主义
 
-对于普遍性反对的多元主义者的回应引起了人们对相关观点的兴趣：逻辑虚无主义——即认为没有正确的逻辑（Russell 2017, 2018a,b; Cotnoir 2018; 另见 Estrada-Gonzáles 2012 和 Mortensen 1989 的前辈）。虚无主义自然地融入了包括唯一正确逻辑（一种正确逻辑）和多元主义（多于一种正确逻辑）在内的谱系。与唯一正确逻辑和多元主义一样，虚无主义的含义将取决于什么被视为逻辑，以及什么是正确的逻辑。
+对于普遍性反对的多元主义者的回应引起了人们对相关观点的兴趣：逻辑虚无主义——即认为没有正确的逻辑（Russell 2017, 2018a, b; Cotnoir 2018; 另见 Estrada-Gonzáles 2012 和 Mortensen 1989 的前辈）。虚无主义自然地融入了包括唯一正确逻辑（一种正确逻辑）和多元主义（多于一种正确逻辑）在内的谱系。与唯一正确逻辑和多元主义一样，虚无主义的含义将取决于什么被视为逻辑，以及什么是正确的逻辑。
 
-在这里最相关的版本上，虚无主义者认为形式为Γ⊨A 的正确逻辑原则集为空，因此没有逻辑法则（参见 Russell [2018a: 309–11]，对逻辑法则形式的虚无主义讨论）。
+在这里最相关的版本上，虚无主义者认为形式为 Γ⊨A 的正确逻辑原则集为空，因此没有逻辑法则（参见 Russell [2018a: 309–11]，对逻辑法则形式的虚无主义讨论）。
 
 在下一小节中，我们将探讨一种逻辑虚无主义的论证，但在此之前，我们应该解释一下许多人对虚无主义的最初反应是认为没有必要考虑支持它的论证，因为这个观点显然荒谬，或者因为它在某种程度上是自我矛盾的。
 
@@ -247,21 +247,21 @@ P,P→Q⊨Q.
 
 ### 3.1 通过普遍性反对来实现逻辑虚无主义
 
-如我们在§2.1.1 中解释的那样，多元主义者可以使用还原论来回应普遍性反对：如果我们坚持（与唯一主义者一样）完全普遍性是逻辑定律的约束条件，那么结果将是没有逻辑定律存在，而这个论证认为是荒谬的。因此，我们应该拒绝完全普遍性。但虚无主义者认为这样做太快了。为什么虚无主义不能是真的呢？然后多元主义者的还原论可以被重新用作支持这个观点的积极论证：
+如我们在 §2.1.1 中解释的那样，多元主义者可以使用还原论来回应普遍性反对：如果我们坚持（与唯一主义者一样）完全普遍性是逻辑定律的约束条件，那么结果将是没有逻辑定律存在，而这个论证认为是荒谬的。因此，我们应该拒绝完全普遍性。但虚无主义者认为这样做太快了。为什么虚无主义不能是真的呢？然后多元主义者的还原论可以被重新用作支持这个观点的积极论证：
 
 (P1)
 
-形式为Γ⊨A 的原则当且仅当在每个γ∈Γ为真的情况下 A 在所有情况下都为真，它是逻辑有效的。
+形式为 Γ⊨A 的原则当且仅当在每个 γ∈Γ 为真的情况下 A 在所有情况下都为真，它是逻辑有效的。
 
 (P2)
 
-形式Γ⊨A 的每个原则都存在一些情况，其中 A 不为真，但每个γ∈Γ都为真。
+形式 Γ⊨A 的每个原则都存在一些情况，其中 A 不为真，但每个 γ∈Γ 都为真。
 
 (C)
 
-没有形式Γ⊨A 的原则在逻辑上是有效的。
+没有形式 Γ⊨A 的原则在逻辑上是有效的。
 
-这自然引起了对 P2 的关注。为什么要认为所有的假定逻辑定律在某些情况下都失败了呢？多元主义者不需要过多担心 P2。正如我们在第§2.1.1 节中所看到的，他们对多个竞争逻辑的接受往往导致一种观点，即逻辑原则的反例相对较常见，因此对 P1 的坚持很快就会导致逻辑虚无主义，或者至少是一种过于弱小而不能成为唯一真正逻辑的逻辑（我们可以称之为逻辑极简主义）。事实上，多元主义者在重述这个论证时通常会首先暗示它导致虚无主义，作为一种修辞上的夸张，然后退而采取一种令人不悦的弱逻辑：也许唯一的定律就是恒等律，
+这自然引起了对 P2 的关注。为什么要认为所有的假定逻辑定律在某些情况下都失败了呢？多元主义者不需要过多担心 P2。正如我们在第 §2.1.1 节中所看到的，他们对多个竞争逻辑的接受往往导致一种观点，即逻辑原则的反例相对较常见，因此对 P1 的坚持很快就会导致逻辑虚无主义，或者至少是一种过于弱小而不能成为唯一真正逻辑的逻辑（我们可以称之为逻辑极简主义）。事实上，多元主义者在重述这个论证时通常会首先暗示它导致虚无主义，作为一种修辞上的夸张，然后退而采取一种令人不悦的弱逻辑：也许唯一的定律就是恒等律，
 
 (ID)
 
@@ -269,15 +269,15 @@ A⊨A
 
 对于一个多元主义者来说，将这个论证作为还原论证使用时，P2 是真实的或者几乎是真实的并不重要；无论哪种情况都足够荒谬或者不吸引人（在他们的观点中）以使还原论证发挥作用。
 
-但是，如果我们想要主张虚无主义是真实的，我们需要为 P2 的真实性进行论证。那么为什么要认为对于任何一组前提Γ和结论 A，总会存在一种情况，其中前提为真但结论不为真呢？
+但是，如果我们想要主张虚无主义是真实的，我们需要为 P2 的真实性进行论证。那么为什么要认为对于任何一组前提 Γ 和结论 A，总会存在一种情况，其中前提为真但结论不为真呢？
 
 一个论点指出，我们可以将案例视为语言的非逻辑表达的解释，而受经典逻辑允许的解释相当受限且理想化：没有空名称、不确定或过度确定的谓词、具有多个或没有真值的句子，或者对上下文敏感表达的建模方式。自然语言可能包含具有所有这些不同类型解释的表达式，因此一些在自然语言中可表达的论证无法很好地由经典逻辑建模。一旦我们开始丰富逻辑语言以包括这些“非理想”类型的表达，逻辑就会有一种趋向于削弱的倾向（尽管具体细节取决于个人的哲学观点）。
 
-举几个例子，有些人认为自然语言中包含空名，带有空名的句子既不真也不假，包含既不真也不假的子句的复合句的真值根据强克里尼表确定，因此没有形式在每个解释上都是真的：原子句，如 Fa 在将术语解释为空时总是既不真也不假，从这样一个原子句构造的任何复合句（包括 Fa∨¬Fa）也是如此。因此，存在解释使得排中律（LEM：A∨¬A）不为真（因为它既不真也不假），因此 LEM 在逻辑上无效。在某些观点中，模糊性和未来的必然性也可以导致没有经典真值之一的句子。有人认为自然语言的普遍性允许表达既真又假的句子（如谎言者），从而可以实现 LP 的真值表（将真和两者都作为指定值），从而得到一个逻辑，其中 EFQ、演绎法和析取三段论都失败。然而，仅凭这些熟悉的理由，有时很难看出一些最安全的逻辑定律，例如∧-引入或 ID，是如何失败的：
+举几个例子，有些人认为自然语言中包含空名，带有空名的句子既不真也不假，包含既不真也不假的子句的复合句的真值根据强克里尼表确定，因此没有形式在每个解释上都是真的：原子句，如 Fa 在将术语解释为空时总是既不真也不假，从这样一个原子句构造的任何复合句（包括 Fa∨¬Fa）也是如此。因此，存在解释使得排中律（LEM：A∨¬A）不为真（因为它既不真也不假），因此 LEM 在逻辑上无效。在某些观点中，模糊性和未来的必然性也可以导致没有经典真值之一的句子。有人认为自然语言的普遍性允许表达既真又假的句子（如谎言者），从而可以实现 LP 的真值表（将真和两者都作为指定值），从而得到一个逻辑，其中 EFQ、演绎法和析取三段论都失败。然而，仅凭这些熟悉的理由，有时很难看出一些最安全的逻辑定律，例如 ∧-引入或 ID，是如何失败的：
 
 ABA∧BAA
 
-在这里，虚无主义者可以利用上下文敏感的表达式，其扩展随句法上下文而变化（有关更正式的介绍，请参见 Russell（2017；2018a））。如果我们有一个句子 SOLO，它在作为原子句时是真的，但在嵌入更复杂的结构中时是假的，那么以下∧-引入的实例将使我们从真前提得出一个假结论：
+在这里，虚无主义者可以利用上下文敏感的表达式，其扩展随句法上下文而变化（有关更正式的介绍，请参见 Russell（2017；2018a））。如果我们有一个句子 SOLO，它在作为原子句时是真的，但在嵌入更复杂的结构中时是假的，那么以下 ∧-引入的实例将使我们从真前提得出一个假结论：
 
 SOLOBSOLO∧B
 
@@ -285,7 +285,7 @@ SOLOBSOLO∧B
 
 PREMPREM
 
-虚无主义者认为，一旦我们看到∧-引入和 ID 屈服于这些非标准解释，那么很可能没有任何蕴涵关系会普遍成立。
+虚无主义者认为，一旦我们看到 ∧-引入和 ID 屈服于这些非标准解释，那么很可能没有任何蕴涵关系会普遍成立。
 
 ### 3.2 对逻辑虚无主义的回应
 
@@ -297,7 +297,7 @@ A¬PREM
 
 SOLO¬SOLO
 
-（有关⊤，⊥和逻辑极简主义的相关讨论，请参见 Russell（2018a：注 15）。）Fjellstad（2021）认为 PREM 可以在非虚无主义逻辑中占据一席之地。Haze（2022）认为使用 PREM 和 SOLO 的反例都犯了一种称为“意义模糊”的谬误，因此实际上并不是 ID 和∧-introduction 的实例。N. Wyatt 和 Payette（2021）拒绝了从普遍性的论证中得出的 P1，以支持他们所称的逻辑特殊主义的观点（请参见 Payette 和 Wyatt（2018）以及 Russell（2018a）的最后一节，该节提出了基于 Lakatos 的引理融入思想的逻辑普遍性约束）。
+（有关 ⊤，⊥ 和逻辑极简主义的相关讨论，请参见 Russell（2018a：注 15）。）Fjellstad（2021）认为 PREM 可以在非虚无主义逻辑中占据一席之地。Haze（2022）认为使用 PREM 和 SOLO 的反例都犯了一种称为“意义模糊”的谬误，因此实际上并不是 ID 和 ∧-introduction 的实例。N. Wyatt 和 Payette（2021）拒绝了从普遍性的论证中得出的 P1，以支持他们所称的逻辑特殊主义的观点（请参见 Payette 和 Wyatt（2018）以及 Russell（2018a）的最后一节，该节提出了基于 Lakatos 的引理融入思想的逻辑普遍性约束）。
 
 ## 4. 通过语言多元主义实现逻辑多元主义
 
@@ -315,7 +315,7 @@ SOLO¬SOLO
 
 第二种宽容是对不同逻辑的宽容，这自然被解释为一种逻辑多元主义。短语“每个人都有权构建自己的逻辑”表明这样做不会犯错误。而从紧随其后的短语“即，他自己的语言”可以清楚地看出，卡尔纳普认为这两种宽容非常接近，甚至可能认为语言宽容和逻辑宽容是同一回事。
 
-对于现代读者来说，这个问题可能并不明显。为什么我们不能容忍不同的语言，这似乎是合理的，而不必承诺容忍不同的逻辑呢？此外，对于哪种命题逻辑是正确的（例如，经典逻辑还是直觉主义逻辑），有不同意见的逻辑学家似乎能够使用相同的语言（包含∧、→、¬等符号），即使他们认为某种逻辑对于该语言是正确的，而另一种逻辑是错误的。如果这个立场是一致的，那么一方必定犯了一个错误，这意味着他们实际上并没有“自由地构建自己的逻辑”。
+对于现代读者来说，这个问题可能并不明显。为什么我们不能容忍不同的语言，这似乎是合理的，而不必承诺容忍不同的逻辑呢？此外，对于哪种命题逻辑是正确的（例如，经典逻辑还是直觉主义逻辑），有不同意见的逻辑学家似乎能够使用相同的语言（包含 ∧、→、¬ 等符号），即使他们认为某种逻辑对于该语言是正确的，而另一种逻辑是错误的。如果这个立场是一致的，那么一方必定犯了一个错误，这意味着他们实际上并没有“自由地构建自己的逻辑”。
 
 这个观点至少是一个开放的可能性，尽管确定两个竞争的逻辑学家是否真的在为同一种语言提倡不同的逻辑可能是困难的。他们使用相同的符号并不足够，因为他们可能每个人都使用具有不同含义的符号，这样他们就使用了不同的语言。但是，除了使用相同的表达式之外，还需要什么？
 
@@ -337,7 +337,7 @@ SOLO¬SOLO
 
 ### 4.2 卡纳普的多元主义的问题
 
-当代许多作家乐于支持卡尔纳普对多元主义的方法（例如，Varzi 2002: 199），Restall 认为这种方法比他和 JC Beall 的基于案例的版本更为温和（Restall 2002）。然而，如果有人想要今天捍卫卡尔纳普的立场，就需要解决几个问题。对这种观点的第一个关切是，虽然我们在创造的各种语言中工作，但我们可能会错过“正确”的规则——那些在我们创造任何东西之前实际上就存在的规则。用保罗·博格西安的话来说，
+当代许多作家乐于支持卡尔纳普对多元主义的方法（例如，Varzi 2002: 199），Restall 认为这种方法比他和 JC Beall 的基于案例的版本更为温和（Restall 2002）。然而，如果有人想要今天捍卫卡尔纳普的立场，就需要解决几个问题。对这种观点的第一个关切是，虽然我们在创造的各种语言中工作，但我们可能会错过“正确”的规则——那些在我们创造任何东西之前实际上就存在的规则。用保罗 · 博格西安的话来说，
 
 > 我们真的要假设，在我们为句子“雪要么是白色的，要么不是”规定意义之前，雪是白色的或不是白色的这个事实并不存在吗？这个主张在进行意义行为之前就是真实的，而且即使没有人思考过它，或者选择用我们的句子来表达它，它也将是真实的，这难道不是极其明显的吗？（Boghossian 1996: 365，原文强调）
 
@@ -367,7 +367,7 @@ Field 得出结论称“在这种情况下，意义差异的概念是无益的�
 
 Achille Varzi（2002）指出，产生竞争的逻辑结果关系的一种方法是改变我们将其视为逻辑常量的表达式集合。如果我们将“=”视为逻辑常量，则以下论证将是有效的：
 
-Faa=bFb
+Faa = bFb
 
 但是，如果逻辑常量集不包括“=”，那么它将无效，因为我们的模型现在将包括那些将非自反关系分配给“=”的模型，而这些模型可以生成反例。
 
@@ -385,7 +385,7 @@ Tarksi/Varzi 观点是有争议的。Varzi 在他 2002 年的论文中为此进�
 
 ### 5.2 关于逻辑推论对象的多元主义
 
-如果我们考虑到不同类型的真理承担者可能存在不同的正确逻辑，那么逻辑多元主义的另一种形式就会产生，正如罗素（2008）所论述的那样。假设逻辑推论确实是在案例中保持真理的问题。那么我们可以一致地谈论关于（一组）句子、（一组）命题或（一组）字符（如 Kaplan 1989 中所述），以及最终关于任何真理承担者的真理保持关系。如果这些逻辑都最终决定了一个单一的“并行”推论关系，那么这将不会很令人兴奋，例如，如果一个句子 S1 的逻辑推论是另一个句子 S2，当且仅当句子 S1 所表达的命题（即 P1）的逻辑推论是另一个句子 S2 所表达的命题（即 P2）。罗素使用了涉及名称、刚性、直接指称和指示词的各种例子来证明这并不总是成立。仅以一个例子，假设句子 a=b 包含两个不同的直接指称名称，那么 a=b 和 a=a 表达了相同的命题。在最小的假设下，逻辑推论关系是自反的，这意味着由 a=b 所表达的命题是由 a=a 所表达的命题的逻辑推论，即使句子 a=b 不是句子 a=a 的逻辑推论。因此，句子的逻辑推论关系与命题的逻辑推论关系有趣地不同，至少存在两种不同的正确的逻辑推论关系。
+如果我们考虑到不同类型的真理承担者可能存在不同的正确逻辑，那么逻辑多元主义的另一种形式就会产生，正如罗素（2008）所论述的那样。假设逻辑推论确实是在案例中保持真理的问题。那么我们可以一致地谈论关于（一组）句子、（一组）命题或（一组）字符（如 Kaplan 1989 中所述），以及最终关于任何真理承担者的真理保持关系。如果这些逻辑都最终决定了一个单一的“并行”推论关系，那么这将不会很令人兴奋，例如，如果一个句子 S1 的逻辑推论是另一个句子 S2，当且仅当句子 S1 所表达的命题（即 P1）的逻辑推论是另一个句子 S2 所表达的命题（即 P2）。罗素使用了涉及名称、刚性、直接指称和指示词的各种例子来证明这并不总是成立。仅以一个例子，假设句子 a = b 包含两个不同的直接指称名称，那么 a = b 和 a = a 表达了相同的命题。在最小的假设下，逻辑推论关系是自反的，这意味着由 a = b 所表达的命题是由 a = a 所表达的命题的逻辑推论，即使句子 a = b 不是句子 a = a 的逻辑推论。因此，句子的逻辑推论关系与命题的逻辑推论关系有趣地不同，至少存在两种不同的正确的逻辑推论关系。
 
 ### 5.3 关于建模的多元主义
 
@@ -393,13 +393,13 @@ Shapiro 和 Cook 提出，形式逻辑的任务是对自然语言进行建模（
 
 > …通常情况下，使用数学模型时往往没有“完全正确”的问题。对于特定目的而言，可能存在错误的模型——明显不正确的模型，也可能存在好的模型，但很少能说只有一个正确的模型。（S. Shapiro 2006: 49–50，原文强调）
 
-这听起来可能支持一种逻辑虚无主义的观点——即不存在正确的逻辑（见§3），但库克更倾向于将其视为提供了两种不同的多元主义。第一种，较少争议的多元主义认为，哪种逻辑是正确的取决于目标。如果想研究模糊性，可能需要一种允许中间真值的逻辑，而如果想研究身份，可能更倾向于使用一阶经典逻辑与身份。由于正确的模型是目标相关的，因此正确的逻辑也是如此。
+这听起来可能支持一种逻辑虚无主义的观点——即不存在正确的逻辑（见 §3），但库克更倾向于将其视为提供了两种不同的多元主义。第一种，较少争议的多元主义认为，哪种逻辑是正确的取决于目标。如果想研究模糊性，可能需要一种允许中间真值的逻辑，而如果想研究身份，可能更倾向于使用一阶经典逻辑与身份。由于正确的模型是目标相关的，因此正确的逻辑也是如此。
 
 但库克想知道他和夏皮罗的逻辑建模观点是否也支持更激进的多元主义，因为似乎有可能即使相对于特定目的，可能存在两种竞争的逻辑，每种逻辑相对于该目的都明显优于其他所有逻辑，但两者都不比另一种更好。在这种情况下，库克认为我们可能希望说两者都是正确的，因此存在不止一种正确的逻辑。然而，也可以认为在这种情况下，存在两种同样好的逻辑，都不被视为正确。
 
 ### 5.4 关于认识规范的多元主义
 
-Hartry Field 提出了另一种逻辑多元主义（Field 2009）。这种观点基于逻辑是规范性的论点（见§2.2），以及对认识规范性的多元主义。Field 认为存在许多可能的认识规范，我们可以将代理人视为在不同时间认可一个或多个规范，并对不同可能的认识规范的好坏有不同看法。我们使用这些认识规范来评估它们自身和其他规范（想象使用数值归纳来评估归纳和反归纳）。有些规范按照自身的标准表现良好，这种情况下我们不感到紧张。有些规范甚至按照自身的标准表现糟糕，这种情况下我们感到有压力要改变它们。在 Field 的观点中，将这些规范视为正确或错误是没有意义的，但他认为将它们称为更好或更差是有意义的，只要我们认识到这些评估是相对于我们的认识目标的。然而，尽管这使得规范具有批评性和可评估性，但并不意味着会有一个唯一最佳的规范。
+Hartry Field 提出了另一种逻辑多元主义（Field 2009）。这种观点基于逻辑是规范性的论点（见 §2.2），以及对认识规范性的多元主义。Field 认为存在许多可能的认识规范，我们可以将代理人视为在不同时间认可一个或多个规范，并对不同可能的认识规范的好坏有不同看法。我们使用这些认识规范来评估它们自身和其他规范（想象使用数值归纳来评估归纳和反归纳）。有些规范按照自身的标准表现良好，这种情况下我们不感到紧张。有些规范甚至按照自身的标准表现糟糕，这种情况下我们感到有压力要改变它们。在 Field 的观点中，将这些规范视为正确或错误是没有意义的，但他认为将它们称为更好或更差是有意义的，只要我们认识到这些评估是相对于我们的认识目标的。然而，尽管这使得规范具有批评性和可评估性，但并不意味着会有一个唯一最佳的规范。
 
 > 例如，可能存在一系列越来越好的实现目标的规范；此外，可能存在“任意远的”并列或无法比较的情况。（Field 2009: 355）
 
@@ -425,13 +425,13 @@ Hartry Field 提出了另一种逻辑多元主义（Field 2009）。这种观点
 
 我们已经看到关于逻辑多元主义存在着激烈的辩论。但同时也存在着对这场辩论是否值得进行的怀疑。长期以来，单一主义者一直利用这种怀疑来批评各种类型的多元主义：如果多元主义就是这样，那么它是真实的，但无趣的（Goddu 2002: 222–6; Priest 2006: ch. 12; 另见 Stei 2020a）。但最近有人指出，回答关于有多少种正确逻辑的辩论中有什么问题，这对于单一主义者和多元主义者同样重要（Eklund 2020; Clarke-Doane manuscript [其他互联网资源]）。在本节的最后部分，我们将探讨一些这些问题，这些问题在前面的讨论中已经隐含其中。
 
-任何将逻辑相对化为不同领域（§5.3）或以其他方式将多元主义限制在不同话语领域（§5.5）的多元主义都需要解释其与唯一主义的冲突之处。唯一主义者可以同意，在对领域的背景假设给出的情况下，使用与其所支持的逻辑不同的逻辑可能是合适的。正如我们所见（§2.4.1），次经典唯一主义者允许在正确的领域中重新捕捉强度。例如，LP的支持者可以允许，在推理一致的领域时，使用经典逻辑而不是可矛盾逻辑。那么，领域相对多元主义与唯一主义有何不同之处呢？一种策略是诉诸于在相关领域工作的人们的实践。例如，斯图尔特·夏皮罗（2014年：第3章）从部署非经典逻辑的领域中的数学家的实践中得出了一种多元主义，例如平滑无穷小分析。夏皮罗的论证依赖于数学哲学中有争议的假设，但也许可以在不承担这些承诺的情况下进行（Caret 2021）。即便如此，仍然面临着捍卫多元主义者对数据的解释优于唯一主义者的挑战。为什么要认为确实存在两种不同的正确逻辑，而不是为了进行平滑无穷小分析等目的，根据直觉逻辑而不是经典逻辑进行推理是有用的呢？
+任何将逻辑相对化为不同领域（§5.3）或以其他方式将多元主义限制在不同话语领域（§5.5）的多元主义都需要解释其与唯一主义的冲突之处。唯一主义者可以同意，在对领域的背景假设给出的情况下，使用与其所支持的逻辑不同的逻辑可能是合适的。正如我们所见（§2.4.1），次经典唯一主义者允许在正确的领域中重新捕捉强度。例如，LP 的支持者可以允许，在推理一致的领域时，使用经典逻辑而不是可矛盾逻辑。那么，领域相对多元主义与唯一主义有何不同之处呢？一种策略是诉诸于在相关领域工作的人们的实践。例如，斯图尔特 · 夏皮罗（2014 年：第 3 章）从部署非经典逻辑的领域中的数学家的实践中得出了一种多元主义，例如平滑无穷小分析。夏皮罗的论证依赖于数学哲学中有争议的假设，但也许可以在不承担这些承诺的情况下进行（Caret 2021）。即便如此，仍然面临着捍卫多元主义者对数据的解释优于唯一主义者的挑战。为什么要认为确实存在两种不同的正确逻辑，而不是为了进行平滑无穷小分析等目的，根据直觉逻辑而不是经典逻辑进行推理是有用的呢？
 
-也许一个与领域无关的多元主义，比如Beall和Restall的基于案例的逻辑多元主义（§1），它认为不同的逻辑在同一个领域中都是正确的，这可能是一个更有前途的候选理论。这样的多元主义至少有两个版本：语义版本和目的版本[8]。语义版本认为某些逻辑术语或概念是不确定的、模糊的或含糊的。为了具体起见，我们可以将其视为术语“有效”。那么，与领域无关的多元主义的语义版本认为，即使保持领域不变，“有效”具有不同的指涉对象，或者可以有不同的明确化方式，所有这些都是正确的。即使暂时不考虑在§1.1中讨论的语言哲学中的背景承诺的问题，多元主义者的责任是解释为什么语义不确定性的主张是一个哲学上的实质性论点，而不仅仅是一个语言上的论点。担心的是，单一主义-多元主义的辩论是关于有多少（以及哪些）逻辑是正确的，而不是关于我们的术语指涉了多少个逻辑。因此，即使“有效”确实可以有不同的明确化方式，正如Beall和Restall所建议的那样，多元主义者需要进一步的论证来得出“有效”的不同指涉对象是正确的逻辑的结论。否则，单一主义者可以反驳说，如果英语中的“有效”是不确定的或含糊的，那么英语就更糟了。即使英语的使用者并不总是能够准确选择出正确的逻辑，但只有一个正确的逻辑存在。为了应对这个反驳，与领域无关的多元主义者通常更好地被理解为提供了一个目的版本的多元主义（参见Eklund 2020: 440-443进行讨论）。
+也许一个与领域无关的多元主义，比如 Beall 和 Restall 的基于案例的逻辑多元主义（§1），它认为不同的逻辑在同一个领域中都是正确的，这可能是一个更有前途的候选理论。这样的多元主义至少有两个版本：语义版本和目的版本 [8]。语义版本认为某些逻辑术语或概念是不确定的、模糊的或含糊的。为了具体起见，我们可以将其视为术语“有效”。那么，与领域无关的多元主义的语义版本认为，即使保持领域不变，“有效”具有不同的指涉对象，或者可以有不同的明确化方式，所有这些都是正确的。即使暂时不考虑在 §1.1 中讨论的语言哲学中的背景承诺的问题，多元主义者的责任是解释为什么语义不确定性的主张是一个哲学上的实质性论点，而不仅仅是一个语言上的论点。担心的是，单一主义-多元主义的辩论是关于有多少（以及哪些）逻辑是正确的，而不是关于我们的术语指涉了多少个逻辑。因此，即使“有效”确实可以有不同的明确化方式，正如 Beall 和 Restall 所建议的那样，多元主义者需要进一步的论证来得出“有效”的不同指涉对象是正确的逻辑的结论。否则，单一主义者可以反驳说，如果英语中的“有效”是不确定的或含糊的，那么英语就更糟了。即使英语的使用者并不总是能够准确选择出正确的逻辑，但只有一个正确的逻辑存在。为了应对这个反驳，与领域无关的多元主义者通常更好地被理解为提供了一个目的版本的多元主义（参见 Eklund 2020: 440-443 进行讨论）。
 
-领域中性多元主义的目的论版本包含两个主张。首先，逻辑必须满足至少一个目的或目标才能正确。其次，有多个逻辑满足该目的或目标。第二个主张可能是因为存在一个单一的目的，而有多个逻辑满足它，或者是因为有多个目标，多个逻辑满足它们。Field（2009年）关于认识规范性的多元主义（§5.4）是目的论多元主义的明确版本。但即使是关于各种术语的不确定性的基于案例的逻辑多元主义，也可以更好地解释为目的论多元主义。这部分是因为前一段的担忧，即赋予语义多元主义以实质性内容。但基于案例的多元主义者有时会写得好像他们更感兴趣的是一个目的论项目。例如，在回应规范性反对意见的一个版本（§2.2）时，Beall和Restall（2006年：94-97）建议正确逻辑的目标是保持认识权或保证。
+领域中性多元主义的目的论版本包含两个主张。首先，逻辑必须满足至少一个目的或目标才能正确。其次，有多个逻辑满足该目的或目标。第二个主张可能是因为存在一个单一的目的，而有多个逻辑满足它，或者是因为有多个目标，多个逻辑满足它们。Field（2009 年）关于认识规范性的多元主义（§5.4）是目的论多元主义的明确版本。但即使是关于各种术语的不确定性的基于案例的逻辑多元主义，也可以更好地解释为目的论多元主义。这部分是因为前一段的担忧，即赋予语义多元主义以实质性内容。但基于案例的多元主义者有时会写得好像他们更感兴趣的是一个目的论项目。例如，在回应规范性反对意见的一个版本（§2.2）时，Beall 和 Restall（2006 年：94-97）建议正确逻辑的目标是保持认识权或保证。
 
-无论特定的作者如何理解他们对多元主义的解释，逻辑多元主义的目的性解释似乎提供了哲学上实质性和有趣的论题，尤其是因为许多唯一主义者都同意逻辑必须达到一个目标才能正确。 （假设只有一个这样的目标，即使事情变得复杂。）例如，普里斯特（2006年：196）认为逻辑的目标是提供推理的分析，并且认为只有一个既非矛盾的逻辑才能最好地达到这个目标。因此，看起来我们有实质性的分歧空间：逻辑必须达到某个目标才能正确；多元主义者声称有多个逻辑同样能够达到这个目标，而唯一主义者则认为只有一个逻辑最好地达到这个目标。然而，如果我们对逻辑达到目标的定义存在多元主义（参见克拉克-多恩手稿：17-19 [其他互联网资源]，在稍微不同的背景下进行了类似的论证），就会出现问题。一个只支持经典逻辑的唯一主义者可能会同意直觉主义逻辑最好地达到逻辑的目标，其中达到逻辑目标考虑到了激发真值间隙的因素。但是，经典唯一主义者可能仍然坚持正确的逻辑必须以其他方式达到逻辑的目标。
+无论特定的作者如何理解他们对多元主义的解释，逻辑多元主义的目的性解释似乎提供了哲学上实质性和有趣的论题，尤其是因为许多唯一主义者都同意逻辑必须达到一个目标才能正确。 （假设只有一个这样的目标，即使事情变得复杂。）例如，普里斯特（2006 年：196）认为逻辑的目标是提供推理的分析，并且认为只有一个既非矛盾的逻辑才能最好地达到这个目标。因此，看起来我们有实质性的分歧空间：逻辑必须达到某个目标才能正确；多元主义者声称有多个逻辑同样能够达到这个目标，而唯一主义者则认为只有一个逻辑最好地达到这个目标。然而，如果我们对逻辑达到目标的定义存在多元主义（参见克拉克-多恩手稿：17-19 [其他互联网资源]，在稍微不同的背景下进行了类似的论证），就会出现问题。一个只支持经典逻辑的唯一主义者可能会同意直觉主义逻辑最好地达到逻辑的目标，其中达到逻辑目标考虑到了激发真值间隙的因素。但是，经典唯一主义者可能仍然坚持正确的逻辑必须以其他方式达到逻辑的目标。
 
 因此，挑战在于以实质性的方式阐述一元论-多元主义辩论。有几种可能的方式可以做到这一点。也许，在更清楚地了解满足逻辑目标所需的条件之后，目的论的多元主义者和一元论者将找到一些共同点，从而展开辩论。或者，我们可以将多元主义者和一元论者之间的分歧解释为元语言的协商。粗略地说，如果一个分歧是在一阶层次上进行的，但最好是以元语言的方式解释（Plunkett＆Sundell 2013），那么这个分歧就涉及到元语言的协商。例如，关于是否存在多个正确的逻辑的分歧可能最好解释为关于我们应该如何使用分歧中的一些术语（例如“有效”）的问题。Kouri Kissel（2021）采用这种策略来论证相对于领域的多元主义可以允许在不同领域之间进行实质性的分歧。也许关于逻辑多元主义的更广泛辩论也可以以这种方式理解。
 
@@ -439,103 +439,103 @@ Hartry Field 提出了另一种逻辑多元主义（Field 2009）。这种观点
 
 但这是行不通的，原因有两个。首先，一元论者需要说出哪种逻辑是正确的。这将涉及到与上述问题类似的问题。如果对某种逻辑的正确性主张进行语义解释，那么这将需要进一步阐明其哲学含义。如果一元论者的主张被赋予目的论解释，那么就需要仔细阐明逻辑的目标是什么，以及什么样的逻辑最能满足这一目标，同时还需要达成一致。
 
-其次，否认存在多于一种正确逻辑与逻辑唯一主义（存在一种且仅存在一种正确逻辑）和逻辑虚无主义（不存在正确逻辑）是相容的[9]。为了与虚无主义区分开来，唯一主义需要以哲学实质的方式进行解释。这将要求唯一主义者说明逻辑正确的标准，而虚无主义者将不同意这种解释。例如，虚无主义者可能会承认某种逻辑最适合某种特定目的，比如分析某种特定类型的电路，但否认这就足以使该逻辑正确。或者虚无主义者可能允许在某些条件下进行强度恢复（§2.4.1）。唯一主义者可选择的一种方法是将存在一种且仅存在一种正确逻辑的主张非认知化解释。克拉克-多恩（手稿[其他互联网资源]）在未找到令人满意的唯一主义实证主义解释后，将该主张解释为一种态度。也许这种策略可以更广泛地应用于唯一主义者和多元主义者之间的辩论。
+其次，否认存在多于一种正确逻辑与逻辑唯一主义（存在一种且仅存在一种正确逻辑）和逻辑虚无主义（不存在正确逻辑）是相容的 [9]。为了与虚无主义区分开来，唯一主义需要以哲学实质的方式进行解释。这将要求唯一主义者说明逻辑正确的标准，而虚无主义者将不同意这种解释。例如，虚无主义者可能会承认某种逻辑最适合某种特定目的，比如分析某种特定类型的电路，但否认这就足以使该逻辑正确。或者虚无主义者可能允许在某些条件下进行强度恢复（§2.4.1）。唯一主义者可选择的一种方法是将存在一种且仅存在一种正确逻辑的主张非认知化解释。克拉克-多恩（手稿 [其他互联网资源]）在未找到令人满意的唯一主义实证主义解释后，将该主张解释为一种态度。也许这种策略可以更广泛地应用于唯一主义者和多元主义者之间的辩论。
 
 总结本节，以一种明确哲学实质的方式解释逻辑多元主义是令人惊讶地困难。这并不意味着关于逻辑多元主义的辩论是无益的，尤其是因为以哲学实质的方式解释唯一主义同样困难。因此，唯一主义者和多元主义者都应该更清楚地阐明他们的观点以及这些观点的哲学意义。但关于逻辑多元主义的辩论也是值得的，因为它凸显了逻辑哲学中的其他问题。正如我们所见，这些问题包括与意义、规范性和元逻辑有关的问题。此外，通过询问是否存在多于一种正确逻辑，逻辑多元主义促使我们更加关注逻辑正确的标准，并考虑非经典逻辑是否能够达到这一标准。
 
 ## Bibliography
 
-* Allo, Patrick, 2007, “Logical Pluralism and Semantic Information”, *Journal of Philosophical Logic*, 36(6): 659–694. doi:10.1007/s10992-007-9054-2
-* Beall, JC and Greg Restall, 2000, “Logical Pluralism”, *Australasian Journal of Philosophy*, 78(4): 475–493. doi:10.1080/00048400012349751
+* Allo, Patrick, 2007, “Logical Pluralism and Semantic Information”, *Journal of Philosophical Logic*, 36(6): 659–694. doi: 10.1007/s10992-007-9054-2
+* Beall, JC and Greg Restall, 2000, “Logical Pluralism”, *Australasian Journal of Philosophy*, 78(4): 475–493. doi: 10.1080/00048400012349751
 * –––, 2001, “Defending logical pluralism”, in *Logical Consequence: Rival Approaches Proceedings of the 1999 Conference of the Society of Exact Philosophy*, John Woods and Bryson Brown (eds), Stanmore: Hermes, pp. 1–22.
-* –––, 2006, *Logical Pluralism*, Oxford: Clarendon. doi:10.1093/acprof:oso/9780199288403.001.0001
-* Blake-Turner, Christopher, 2020, “Deflationism About Logic”, *Journal of Philosophical Logic*, 49(3): 551–571. doi:10.1007/s10992-019-09529-5
-* –––, 2021, “Reasons, Basing, and the Normative Collapse of Logical Pluralism”, *Philosophical Studies*, 178(12): 4099–4118. doi:10.1007/s11098-021-01638-9
-* Blake-Turner, Christopher and Gillian Russell, 2021, “Logical Pluralism without the Normativity”, *Synthese*, 198(S20): 4859–4877. doi:10.1007/s11229-018-01939-3
-* Boghossian, Paul Artin, 1996, “Analyticity Reconsidered”, *Noûs*, 30(3): 360–391. doi:10.2307/2216275
-* Burgess, John P., 1997, “Quinus Ab Omni Nævo Vindicatus”, *Canadian Journal of Philosophy Supplementary Volume*, 23: 25–65. doi:10.1080/00455091.1997.10715961
+* –––, 2006, *Logical Pluralism*, Oxford: Clarendon. doi: 10.1093/acprof: oso/9780199288403.001.0001
+* Blake-Turner, Christopher, 2020, “Deflationism About Logic”, *Journal of Philosophical Logic*, 49(3): 551–571. doi: 10.1007/s10992-019-09529-5
+* –––, 2021, “Reasons, Basing, and the Normative Collapse of Logical Pluralism”, *Philosophical Studies*, 178(12): 4099–4118. doi: 10.1007/s11098-021-01638-9
+* Blake-Turner, Christopher and Gillian Russell, 2021, “Logical Pluralism without the Normativity”, *Synthese*, 198(S20): 4859–4877. doi: 10.1007/s11229-018-01939-3
+* Boghossian, Paul Artin, 1996, “Analyticity Reconsidered”, *Noûs*, 30(3): 360–391. doi: 10.2307/2216275
+* Burgess, John P., 1997, “Quinus Ab Omni Nævo Vindicatus”, *Canadian Journal of Philosophy Supplementary Volume*, 23: 25–65. doi: 10.1080/00455091.1997.10715961
 * –––, 2009, *Philosophical Logic* (Princeton Foundations of Contemporary Philosophy), Princeton, NJ: Princeton University Press.
-* Caret, Colin R., 2017, “The Collapse of Logical Pluralism Has Been Greatly Exaggerated”, *Erkenntnis*, 82(4): 739–760. doi:10.1007/s10670-016-9841-7
-* –––, 2021, “Why Logical Pluralism?”, *Synthese*, 198(S20): 4947–4968. doi:10.1007/s11229-019-02132-w
+* Caret, Colin R., 2017, “The Collapse of Logical Pluralism Has Been Greatly Exaggerated”, *Erkenntnis*, 82(4): 739–760. doi: 10.1007/s10670-016-9841-7
+* –––, 2021, “Why Logical Pluralism?”, *Synthese*, 198(S20): 4947–4968. doi: 10.1007/s11229-019-02132-w
 * Carnap, Rudolf, 1934, *Logische Syntax der Sprache*, (Schriften zur wissenschaftlichen Weltauffassung), Wien: J. Springer.
 * –––, 1937, *The Logical Syntax of Language*, Amethe Smeaton (trans.), (International Library of Psychology, Philosophy and Scientific Method), London: Kegan Paul. Translation of Carnap 1934.
 * –––, 1950 [1958], “Empiricism, Semantics, and Ontology”, *Revue Internationale de Philosophie*, 4(11): 20–40. Reprinted in his *Meaning and Necessity; A Study in Semantics and Modal Logic*, second edition, Chicago: University of Chicago Press, 1958, 205–221.
-* Cook, Roy T., 2010, “Let a Thousand Flowers Bloom: A Tour of Logical Pluralism”, *Philosophy Compass*, 5(6): 492–504. doi:10.1111/j.1747-9991.2010.00286.x
-* Cosmides, Leda, 1989, “The Logic of Social Exchange: Has Natural Selection Shaped How Humans Reason? Studies with the Wason Selection Task”, *Cognition*, 31(3): 187–276. doi:10.1016/0010-0277(89)90023-1
-* Cotnoir, Aaron J., 2018, “Logical Nihilism” in J. Wyatt, Pederson, and Kellen 2018: 301–329. doi:10.1007/978-3-319-98346-2_13
-* Davidson, Donald, 1973 [1984], “Radical Interpretation”, *Dialectica*, 27(3–4): 313–328. Reprinted in his *Inquiries into Truth and Interpretation*, Oxford: Clarendon, 1984, 125–140. doi:10.1111/j.1746-8361.1973.tb00623.x doi:10.1093/0199246297.003.0009.
-* Dicher, Bogdan, 2021, “Requiem for Logical Nihilism, or: Logical Nihilism Annihilated”, *Synthese*, 198(8): 7073–7096. doi:10.1007/s11229-019-02510-4
-* Eklund, Matti, 2012, “The Multitude View on Logic”, in *New Waves in Philosophical Logic*, Greg Restall and Gillian Russell (eds.), London: Palgrave Macmillan UK, 217–240. doi:10.1057/9781137003720_12
-* –––, 2020, “Making Sense of Logical Pluralism”, *Inquiry*, 63(3–4): 433–454. doi:10.1080/0020174X.2017.1321499
-* Estrada-González, Luis, 2012, “Models of Possibilism and Trivialism”, *Logic and Logical Philosophy*, 21(2): 175–205. doi:10.12775/LLP.2012.010
+* Cook, Roy T., 2010, “Let a Thousand Flowers Bloom: A Tour of Logical Pluralism”, *Philosophy Compass*, 5(6): 492–504. doi: 10.1111/j.1747-9991.2010.00286.x
+* Cosmides, Leda, 1989, “The Logic of Social Exchange: Has Natural Selection Shaped How Humans Reason? Studies with the Wason Selection Task”, *Cognition*, 31(3): 187–276. doi: 10.1016/0010-0277(89)90023-1
+* Cotnoir, Aaron J., 2018, “Logical Nihilism” in J. Wyatt, Pederson, and Kellen 2018: 301–329. doi: 10.1007/978-3-319-98346-2_13
+* Davidson, Donald, 1973 [1984], “Radical Interpretation”, *Dialectica*, 27(3–4): 313–328. Reprinted in his *Inquiries into Truth and Interpretation*, Oxford: Clarendon, 1984, 125–140. doi: 10.1111/j.1746-8361.1973.tb00623.x doi: 10.1093/0199246297.003.0009.
+* Dicher, Bogdan, 2021, “Requiem for Logical Nihilism, or: Logical Nihilism Annihilated”, *Synthese*, 198(8): 7073–7096. doi: 10.1007/s11229-019-02510-4
+* Eklund, Matti, 2012, “The Multitude View on Logic”, in *New Waves in Philosophical Logic*, Greg Restall and Gillian Russell (eds.), London: Palgrave Macmillan UK, 217–240. doi: 10.1057/9781137003720_12
+* –––, 2020, “Making Sense of Logical Pluralism”, *Inquiry*, 63(3–4): 433–454. doi: 10.1080/0020174X.2017.1321499
+* Estrada-González, Luis, 2012, “Models of Possibilism and Trivialism”, *Logic and Logical Philosophy*, 21(2): 175–205. doi: 10.12775/LLP.2012.010
 * Etchemendy, John, 1999, *On the Concept of Logical Consequence*, Stanford, CA: CSLI Publications.
-* Field, Hartry, 2009, “Pluralism in Logic”, *The Review of Symbolic Logic*, 2(2): 342–359. doi:10.1017/S1755020309090182
-* Figg, Travis, 2022, “The Death of Logic?”, *Thought: A Journal of Philosophy*, 11(2): 72–77. doi:10.5840/tht20232289
-* Finn, Suki, 2021, “Limiting Logical Pluralism”, *Synthese*, 198(S20): 4905–4923. doi:10.1007/s11229-019-02134-8
-* Fjellstad, Andreas, 2021, “Logical Nihilism and the Logic of ‘Prem’”, *Logic and Logical Philosophy*, 30(2): 311–325. doi:10.12775/LLP.2020.023
-* Franks, Curtis, 2015, “Logical Nihilism”, in *Logic Without Borders: Essays on Set Theory, Model Theory, Philosophical Logic and Philosophy of Mathematics*, Åsa Hirvonen, Juha Kontinen, Roman Kossak, and Andrés Villaveces (eds.), Berlin/Boston: De Gruyter, 147–166. doi:10.1515/9781614516873.147
-* Frege, Gottlob, 1918 [1956], “Der Gedanke. Eine logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, 1: 58–77. Translated, 1956, as “The Thought: A Logical Inquiry”, A.M. Quinton and Marcella Quinton (trans.), *Mind*, 65(259): 289–311. doi:10.1093/mind/65.1.289
-* French, Rohan, 2021, “A Dialogical Route to Logical Pluralism”, *Synthese*, 198(S20): 4969–4989. doi:10.1007/s11229-019-02404-5
-* Griffiths, Owen and A. C. Paseau, 2022, *One True Logic: A Monist Manifesto*, Oxford: Oxford University Press. doi:10.1093/oso/9780198829713.001.0001
+* Field, Hartry, 2009, “Pluralism in Logic”, *The Review of Symbolic Logic*, 2(2): 342–359. doi: 10.1017/S1755020309090182
+* Figg, Travis, 2022, “The Death of Logic?”, *Thought: A Journal of Philosophy*, 11(2): 72–77. doi: 10.5840/tht20232289
+* Finn, Suki, 2021, “Limiting Logical Pluralism”, *Synthese*, 198(S20): 4905–4923. doi: 10.1007/s11229-019-02134-8
+* Fjellstad, Andreas, 2021, “Logical Nihilism and the Logic of ‘Prem’”, *Logic and Logical Philosophy*, 30(2): 311–325. doi: 10.12775/LLP.2020.023
+* Franks, Curtis, 2015, “Logical Nihilism”, in *Logic Without Borders: Essays on Set Theory, Model Theory, Philosophical Logic and Philosophy of Mathematics*, Åsa Hirvonen, Juha Kontinen, Roman Kossak, and Andrés Villaveces (eds.), Berlin/Boston: De Gruyter, 147–166. doi: 10.1515/9781614516873.147
+* Frege, Gottlob, 1918 [1956], “Der Gedanke. Eine logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, 1: 58–77. Translated, 1956, as “The Thought: A Logical Inquiry”, A.M. Quinton and Marcella Quinton (trans.), *Mind*, 65(259): 289–311. doi: 10.1093/mind/65.1.289
+* French, Rohan, 2021, “A Dialogical Route to Logical Pluralism”, *Synthese*, 198(S20): 4969–4989. doi: 10.1007/s11229-019-02404-5
+* Griffiths, Owen and A. C. Paseau, 2022, *One True Logic: A Monist Manifesto*, Oxford: Oxford University Press. doi: 10.1093/oso/9780198829713.001.0001
 * Goddu, G. C., 2002, “What Exactly Is Logical Pluralism?”, *Australasian Journal of Philosophy*, 80(2): 218–230.
 * Haack, Susan, 1974, *Deviant Logic: Some Philosophical Issues*, London/New York: Cambridge University Press.
 * –––, 1996, *Deviant Logic, Fuzzy Logic: Beyond the Formalism*, Chicago: University of Chicago Press.
-* Haze, Tristan Grøtvedt, 2022, “Reversing Logical Nihilism”, *Synthese*, 200(3): article 215. doi:10.1007/s11229-022-03471-x
-* Hjortland, Ole Thomassen, 2013, “Logical Pluralism, Meaning-Variance, and Verbal Disputes”, *Australasian Journal of Philosophy*, 91(2): 355–373. doi:10.1080/00048402.2011.648945
-* –––, 2017, “Anti-Exceptionalism about Logic”, *Philosophical Studies*, 174(3): 631–658. doi:10.1007/s11098-016-0701-8
+* Haze, Tristan Grøtvedt, 2022, “Reversing Logical Nihilism”, *Synthese*, 200(3): article 215. doi: 10.1007/s11229-022-03471-x
+* Hjortland, Ole Thomassen, 2013, “Logical Pluralism, Meaning-Variance, and Verbal Disputes”, *Australasian Journal of Philosophy*, 91(2): 355–373. doi: 10.1080/00048402.2011.648945
+* –––, 2017, “Anti-Exceptionalism about Logic”, *Philosophical Studies*, 174(3): 631–658. doi: 10.1007/s11098-016-0701-8
 * Kant, Immanuel, 1800 [1885], *Jäsche Logic*, Gottlob Benjamin Jäsche (ed.). The introduction translated in *Kant’s Introduction to his Logic and his Essay on the Mistaken Subtlety of the Four Figures*, Thomas Kingsmill Abbott (trans.), London: Longmans, Green, and Co, 1885.
 * Kaplan, David, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
-* Keefe, Rosanna, 2014, “What Logical Pluralism Cannot Be”, *Synthese*, 191(7): 1375–1390. doi:10.1007/s11229-013-0333-x
-* Kouri [Kouri Kissel], Teresa, 2019, “A New Interpretation of Carnap’s Logical Pluralism”, *Topoi*, 38(2): 305–314. doi:10.1007/s11245-016-9423-y
-* –––, 2021, “Metalinguistic Negotiation and Logical Pluralism”, *Synthese*, 198(S20): 4801–4812. doi:10.1007/s11229-019-02264-z
-* Lynch, Michael P., 2008, “Alethic Pluralism, Logical Consequence and the Universality of Reason”, in *Midwest Studies in Philosophy, Volume 32*, Peter A. French and Howard K. Wettstein (eds.), Oxford, UK: Blackwell, 122–140. doi:10.1002/9781444307276.ch8
+* Keefe, Rosanna, 2014, “What Logical Pluralism Cannot Be”, *Synthese*, 191(7): 1375–1390. doi: 10.1007/s11229-013-0333-x
+* Kouri [Kouri Kissel], Teresa, 2019, “A New Interpretation of Carnap’s Logical Pluralism”, *Topoi*, 38(2): 305–314. doi: 10.1007/s11245-016-9423-y
+* –––, 2021, “Metalinguistic Negotiation and Logical Pluralism”, *Synthese*, 198(S20): 4801–4812. doi: 10.1007/s11229-019-02264-z
+* Lynch, Michael P., 2008, “Alethic Pluralism, Logical Consequence and the Universality of Reason”, in *Midwest Studies in Philosophy, Volume 32*, Peter A. French and Howard K. Wettstein (eds.), Oxford, UK: Blackwell, 122–140. doi: 10.1002/9781444307276.ch8
 * MacFarlane, John, 2005 [2017], “Logical Constants”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2017/entries/logical-constants/>.
-* Mortensen, Chris, 1989, “Anything Is Possible”, *Erkenntnis*, 30(3): 319–337. doi:10.1007/BF00168284
-* Paoli, Francesco, 2003, “Quine and Slater on Paraconsistency and Deviance”, *Journal of Philosophical Logic*, 32(5): 531–548. doi:10.1023/A:1025648722188
-* Payette, Gillman and Nicole Wyatt, 2018, “Logical Particularism” in J. Wyatt, Pederson, and Kellen 2018: 277–299. doi:10.1007/978-3-319-98346-2_12
+* Mortensen, Chris, 1989, “Anything Is Possible”, *Erkenntnis*, 30(3): 319–337. doi: 10.1007/BF00168284
+* Paoli, Francesco, 2003, “Quine and Slater on Paraconsistency and Deviance”, *Journal of Philosophical Logic*, 32(5): 531–548. doi: 10.1023/A: 1025648722188
+* Payette, Gillman and Nicole Wyatt, 2018, “Logical Particularism” in J. Wyatt, Pederson, and Kellen 2018: 277–299. doi: 10.1007/978-3-319-98346-2_12
 * Plunkett, David and Tim Sundell, 2013, “Disagreement and the Semantics of Normative and Evaluative Terms”, *Philosopher’s Imprint*, 13: article 23. [[Plunkett and Sundell 2013 available online](http://hdl.handle.net/2027/spo.3521354.0013.023)]
-* Priest, Graham, 1979, “Two Dogmas of Quineanism”, *Philosophical Quarterly*, 29(117): 289– 301. doi:10.2307/2219445
-* –––, 2006, *Doubt Truth to Be a Liar*, Oxford/New York: Clarendon Press. doi:10.1093/0199263280.001.0001
-* –––, 2008a, *An Introduction to Non-Classical Logic: From If to Is*, second edition, (Cambridge Introductions to Philosophy), Cambridge/New York: Cambridge University Press. First edition 2001. doi:10.1017/CBO9780511801174
-* –––, 2008b, “Logical Pluralism Hollandaise”, *The Australasian Journal of Logic*, 6: 210–214. doi:10.26686/ajl.v6i0.1802
-* Prior, A. N., 1960, “The Runabout Inference-Ticket”, *Analysis*, 21(2): 38–39. doi:10.1093/analys/21.2.38
+* Priest, Graham, 1979, “Two Dogmas of Quineanism”, *Philosophical Quarterly*, 29(117): 289– 301. doi: 10.2307/2219445
+* –––, 2006, *Doubt Truth to Be a Liar*, Oxford/New York: Clarendon Press. doi: 10.1093/0199263280.001.0001
+* –––, 2008a, *An Introduction to Non-Classical Logic: From If to Is*, second edition, (Cambridge Introductions to Philosophy), Cambridge/New York: Cambridge University Press. First edition 2001. doi: 10.1017/CBO9780511801174
+* –––, 2008b, “Logical Pluralism Hollandaise”, *The Australasian Journal of Logic*, 6: 210–214. doi: 10.26686/ajl.v6i0.1802
+* Prior, A. N., 1960, “The Runabout Inference-Ticket”, *Analysis*, 21(2): 38–39. doi: 10.1093/analys/21.2.38
 * Quine, W. V. O., 1936 [1966], “Truth by Convention”, in *Philosophical Essays for Alfred North Whitehead*, London: Longmans, Green & Co., 90–124. Reprinted in his Quine 1966: 70–99 (chapter 9).
 * –––, 1953a, “Reference and Modality”, in his *From a Logical Point of View: 9 Logico-Philosophical Essays*, Cambridge, MA: Harvard University Press, 139–159 (chapter 8).
-* –––, 1953b [1966], “Three Grades of Modal Involvment”:, in *Proceedings of the XIth International Congress of Philosophy 14*, North-Holland Publishing Company, 65–81. Reprinted in Quine 1966: chapter 15. doi:10.5840/wcp11195314450
+* –––, 1953b [1966], “Three Grades of Modal Involvment”:, in *Proceedings of the XIth International Congress of Philosophy 14*, North-Holland Publishing Company, 65–81. Reprinted in Quine 1966: chapter 15. doi: 10.5840/wcp11195314450
 * –––, 1966, *The Ways of Paradox, and Other Essays*, New York: Random House.
 * –––, 1986, *Philosophy of Logic*, second edition, Cambridge, MA: Harvard University Press.
-* Rahman, Shahid and Juan Redmond, 2008, “Hugh Maccoll and the Birth of Logical Pluralism”, in *Handbook of the History of Logic, 4: British Logic in the Nineteenth Century*, Dov M. Gabbay and John Woods (eds.), Amsterdam: Elsevier, 533–604. doi:10.1016/S1874-5857(08)80016-7
-* Read, Stephen, 2006, “Monism: The One True Logic”, in *A Logical Approach to Philosophy: Essays in Honour of Graham Solomon*, David Devidi and Tim Kenyon (eds.), (The Western Ontario Series in Philosophy of Science 69), Berlin/Heidelberg: Springer-Verlag, 193–209. doi:10.1007/1-4020-4054-7_10
-* Restall, Greg, 2000, *An Introduction to Substructural Logics*, London/New York: Routlege. doi:10.4324/9780203016244
-* –––, 2002, “Carnap’s Tolerance, Meaning, and Logical Pluralism”, *The Journal of Philosophy*, 99(8): 426–443. doi:10.2307/3655622
-* Rosenblatt, Lucas, 2022, “Should the Non-Classical Logician Be Embarrassed?*”, *Philosophy and Phenomenological Research*, 104(2): 388–407. doi:10.1111/phpr.12770
-* Russell, Gillian, 2008, “One True Logic?”, *Journal of Philosophical Logic*, 37(6): 593–611. doi:10.1007/s10992-008-9082-6
-* –––, 2017, “An Introduction to Logical Nihilism” in *Logic, Methodology and Philosophy of Science: Proceedings of the 15th International Congress*, Hannes Leitgeb, Ilkka Niiniluoto, Päivi Seppälä and Elliot Sober (eds), Rickmansworth: College Publications, pp. 125–135. 308–324.
-* –––, 2018a, “Logical Nihilism: Could There Be No Logic?”, *Philosophical Issues*, 28(1): 308–324. doi:10.1111/phis.12127
-* –––, 2018b, “Varieties of Logical Consequence by Their Resistance to Logical Nihilism” in J. Wyatt, Pederson, and Kellen 2018: 331–361. doi:10.1007/978-3-319-98346-2_14
-* –––, 2020, “Logic Isn’t Normative”, *Inquiry*, 63(3–4): 371–388. doi:10.1080/0020174X.2017.1372305
-* Schurz, Gerhard, 1999, “Tarski and Carnap on Logical Truth—or: What Is Genuine Logic?”, in *Alfred Tarski and the Vienna Circle: Austro-Polish Connections in Logical Empiricism*, Jan Woleński and Eckehart Köhler (eds.), Dordrecht: Kluwer, 77–94. doi:10.1007/978-94-017-0689-6_7
-* Shapiro, Lionel, 2022, “What Is Logical Deflationism? Two Non-Metalinguistic Conceptions of Logic”, *Synthese*, 200(1): article 31. doi:10.1007/s11229-022-03547-8
-* Shapiro, Stewart, 2006, *Vagueness in Context*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199280391.001.0001
-* –––, 2014, *Varieties of Logic*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199696529.001.0001
-* Sher, G. Y., 1996, “Did Tarski Commit ‘Tarski’s Fallacy’?”, *Journal of Symbolic Logic*, 61(2): 653–686. doi:10.2307/2275681
-* Sober, Elliott, 2000, “Quine, Part I”, *Aristotelian Society Supplementary Volume*, 74: 237–280. doi:10.1111/1467-8349.00071
-* Stei, Erik, 2020a, “Disagreement about Logic from a Pluralist Perspective”, *Philosophical Studies*, 177(11): 3329–3350. doi:10.1007/s11098-019-01372-3
-* –––, 2020b, “Non-Normative Logical Pluralism and the Revenge of the Normativity Objection”, *The Philosophical Quarterly*, 70(278): 162–177. doi:10.1093/pq/pqz040
-* –––, 2020c, “Rivalry, Normativity, and the Collapse of Logical Pluralism”, *Inquiry*, 63(3–4): 411–432. doi:10.1080/0020174X.2017.1327370
-* Steinberger, Florian, 2019, “Logical Pluralism and Logical Normativity”, *Philosopher’s Imprint*, 19: article 12. [[Steinberger available online](http://hdl.handle.net/2027/spo.3521354.0019.012)]
-* Tarski, Alfred, 1936 [1956], “O pojęciu wynikania logicznego”, *Przegląd Filozoficzny*, 39: 58–68. Published in German also in 1936 as “Über den Begriff der logischen Folgerung”, in *Actes Du Congrès International de Philosophie Scientifique*, (Actualités Scientifiques et Industrielles 394), Paris: Hermann et Cie, 7: 1–11. Translated to English as “On the Concept of Logical Consequence”, in his *Logic, Semantics and Metamathematics: Papers from 1923 to 1938*, J. H. Woodger (trans.), Oxford: Clarendon Press, 1956, 409–420.
-* –––, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, *Philosophy and Phenomenological Research*, 4(3): 341–376. doi:10.2307/2102968
-* van Benthem, Johan, 2008, “Logical Dynamics Meets Logical Pluralism?”, *The Australasian Journal of Logic*, 6: 182–209. doi:10.26686/ajl.v6i0.1801
-* Varzi, Achille C., 2002, “On Logical Relativity”, *Philosophical Issues*, 12(1): 197–219. doi:10.1111/j.1758-2237.2002.tb00067.x
-* Wason, P. C., 1966, “Reasoning”, in *New Horizons in Psychology*, Brian M. Foss (ed.), Harmondsworth: Penguin, 135–151.
-* –––, 1968, “Reasoning about a Rule”, *Quarterly Journal of Experimental Psychology*, 20(3): 273–281. doi:10.1080/14640746808400161
-* Weber, Zach, 2017, “A Guide to Logical Pluralism for Non-Logicians”, *Think*, 16(47): 93–114. doi:10.1017/S1477175617000239
-* Williamson Timothy, 2017, “Semantic Paradoxes and Abductive Methodology” in *Reflections on the Liar*, Bradley D. Amour-Garb (ed.), Oxford: Oxford University Press, 325–346 (chapter 13).
-* Wyatt, Jeremy, Nikolaj J. L. L. Pedersen, and Nathan Kellen (eds), 2018, *Pluralisms in Truth and Logic*, Cham: Palgrave Macmillan. doi:10.1007/978-3-319-98346-2
-* Wyatt, Nicole, 2004, “What Are Beall and Restall Pluralists About?”, *Australasian Journal of Philosophy*, 82(3): 409–420. doi:10.1080/713659876
-* Wyatt, Nicole and Gillman Payette, 2021, “Against Logical Generalism”, *Synthese*, 198(S20): 4813–4830. doi:10.1007/s11229-018-02073-w
-* Yablo, Stephen, 1992, “Review of *Necessity, Essence, and Individuation: A Defense of Conventionalism*, by Alan Sidelle”, *The Philosophical Review*, 101(4): 878–881. doi:10.2307/2185945
+* Rahman, Shahid and Juan Redmond, 2008, “Hugh Maccoll and the Birth of Logical Pluralism”, in *Handbook of the History of Logic, 4: British Logic in the Nineteenth Century*, Dov M. Gabbay and John Woods (eds.), Amsterdam: Elsevier, 533–604. doi: 10.1016/S1874-5857(08)80016-7
+* Read, Stephen, 2006, “Monism: The One True Logic”, in *A Logical Approach to Philosophy: Essays in Honour of Graham Solomon*, David Devidi and Tim Kenyon (eds.), (The Western Ontario Series in Philosophy of Science 69), Berlin/Heidelberg: Springer-Verlag, 193–209. doi: 10.1007/1-4020-4054-7_10
+* Restall, Greg, 2000, *An Introduction to Substructural Logics*, London/New York: Routlege. doi: 10.4324/9780203016244
+* –––, 2002, “Carnap’s Tolerance, Meaning, and Logical Pluralism”, *The Journal of Philosophy*, 99(8): 426–443. doi: 10.2307/3655622
+* Rosenblatt, Lucas, 2022, “Should the Non-Classical Logician Be Embarrassed?*”, * Philosophy and Phenomenological Research*, 104(2): 388–407. doi: 10.1111/phpr.12770
+* Russell, Gillian, 2008, “One True Logic?”, * Journal of Philosophical Logic*, 37(6): 593–611. doi: 10.1007/s10992-008-9082-6
+* –––, 2017, “An Introduction to Logical Nihilism” in * Logic, Methodology and Philosophy of Science: Proceedings of the 15th International Congress*, Hannes Leitgeb, Ilkka Niiniluoto, Päivi Seppälä and Elliot Sober (eds), Rickmansworth: College Publications, pp. 125–135. 308–324.
+* –––, 2018a, “Logical Nihilism: Could There Be No Logic?”, * Philosophical Issues*, 28(1): 308–324. doi: 10.1111/phis.12127
+* –––, 2018b, “Varieties of Logical Consequence by Their Resistance to Logical Nihilism” in J. Wyatt, Pederson, and Kellen 2018: 331–361. doi: 10.1007/978-3-319-98346-2_14
+* –––, 2020, “Logic Isn’t Normative”, * Inquiry*, 63(3–4): 371–388. doi: 10.1080/0020174X.2017.1372305
+* Schurz, Gerhard, 1999, “Tarski and Carnap on Logical Truth—or: What Is Genuine Logic?”, in * Alfred Tarski and the Vienna Circle: Austro-Polish Connections in Logical Empiricism*, Jan Woleński and Eckehart Köhler (eds.), Dordrecht: Kluwer, 77–94. doi: 10.1007/978-94-017-0689-6_7
+* Shapiro, Lionel, 2022, “What Is Logical Deflationism? Two Non-Metalinguistic Conceptions of Logic”, * Synthese*, 200(1): article 31. doi: 10.1007/s11229-022-03547-8
+* Shapiro, Stewart, 2006, * Vagueness in Context*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199280391.001.0001
+* –––, 2014, * Varieties of Logic*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199696529.001.0001
+* Sher, G. Y., 1996, “Did Tarski Commit ‘Tarski’s Fallacy’?”, * Journal of Symbolic Logic*, 61(2): 653–686. doi: 10.2307/2275681
+* Sober, Elliott, 2000, “Quine, Part I”, * Aristotelian Society Supplementary Volume*, 74: 237–280. doi: 10.1111/1467-8349.00071
+* Stei, Erik, 2020a, “Disagreement about Logic from a Pluralist Perspective”, * Philosophical Studies*, 177(11): 3329–3350. doi: 10.1007/s11098-019-01372-3
+* –––, 2020b, “Non-Normative Logical Pluralism and the Revenge of the Normativity Objection”, * The Philosophical Quarterly*, 70(278): 162–177. doi: 10.1093/pq/pqz040
+* –––, 2020c, “Rivalry, Normativity, and the Collapse of Logical Pluralism”, * Inquiry*, 63(3–4): 411–432. doi: 10.1080/0020174X.2017.1327370
+* Steinberger, Florian, 2019, “Logical Pluralism and Logical Normativity”, * Philosopher’s Imprint*, 19: article 12. [[Steinberger available online](http://hdl.handle.net/2027/spo.3521354.0019.012)]
+* Tarski, Alfred, 1936 [1956], “O pojęciu wynikania logicznego”, * Przegląd Filozoficzny *, 39: 58–68. Published in German also in 1936 as “Über den Begriff der logischen Folgerung”, in * Actes Du Congrès International de Philosophie Scientifique *, (Actualités Scientifiques et Industrielles 394), Paris: Hermann et Cie, 7: 1–11. Translated to English as “On the Concept of Logical Consequence”, in his * Logic, Semantics and Metamathematics: Papers from 1923 to 1938*, J. H. Woodger (trans.), Oxford: Clarendon Press, 1956, 409–420.
+* –––, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, * Philosophy and Phenomenological Research*, 4(3): 341–376. doi: 10.2307/2102968
+* van Benthem, Johan, 2008, “Logical Dynamics Meets Logical Pluralism?”, * The Australasian Journal of Logic*, 6: 182–209. doi: 10.26686/ajl.v6i0.1801
+* Varzi, Achille C., 2002, “On Logical Relativity”, * Philosophical Issues*, 12(1): 197–219. doi: 10.1111/j.1758-2237.2002.tb00067.x
+* Wason, P. C., 1966, “Reasoning”, in * New Horizons in Psychology*, Brian M. Foss (ed.), Harmondsworth: Penguin, 135–151.
+* –––, 1968, “Reasoning about a Rule”, * Quarterly Journal of Experimental Psychology*, 20(3): 273–281. doi: 10.1080/14640746808400161
+* Weber, Zach, 2017, “A Guide to Logical Pluralism for Non-Logicians”, * Think*, 16(47): 93–114. doi: 10.1017/S1477175617000239
+* Williamson Timothy, 2017, “Semantic Paradoxes and Abductive Methodology” in * Reflections on the Liar*, Bradley D. Amour-Garb (ed.), Oxford: Oxford University Press, 325–346 (chapter 13).
+* Wyatt, Jeremy, Nikolaj J. L. L. Pedersen, and Nathan Kellen (eds), 2018, * Pluralisms in Truth and Logic*, Cham: Palgrave Macmillan. doi: 10.1007/978-3-319-98346-2
+* Wyatt, Nicole, 2004, “What Are Beall and Restall Pluralists About?”, * Australasian Journal of Philosophy*, 82(3): 409–420. doi: 10.1080/713659876
+* Wyatt, Nicole and Gillman Payette, 2021, “Against Logical Generalism”, * Synthese*, 198(S20): 4813–4830. doi: 10.1007/s11229-018-02073-w
+* Yablo, Stephen, 1992, “Review of * Necessity, Essence, and Individuation: A Defense of Conventionalism *, by Alan Sidelle”, * The Philosophical Review*, 101(4): 878–881. doi: 10.2307/2185945
 
 ## Academic Tools
 

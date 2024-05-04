@@ -2,15 +2,15 @@
 
 *首次发表于 2009 年 7 月 10 日星期五；实质性修订于 2021 年 11 月 9 日星期二*
 
-可以说，15 世纪最重要的德国思想家尼古拉斯·库萨（1401-1464）也是一位教会改革者、管理者和枢机主教。他毕生致力于改革和统一普世和罗马教会，无论是作为巴塞尔大公会的教会法专家，之后作为君士坦丁堡和后来德国教区和宗教机构的教廷使节，还是作为自己的比克森教区的主教，以及作为教宗宫廷的顾问。他作为一名教会管理者和主教的积极生活在数百篇拉丁语布道文中得到了体现，更多的理论背景则体现在他关于教会学、普世主义、数学、哲学和神学的著作中。库萨努斯拥有一颗开放和好奇的心。他博学且深谙新柏拉图主义传统，既熟悉人文主义又熟悉学院派学习，但在哲学和神学方面大多是自学成才。尼古拉斯在数学、宇宙学、天文学和实验科学方面预见了许多后来的思想，同时构建了自己独特的系统性新柏拉图主义版本。早期中世纪作家，如夏特尔的蒂埃里、拉蒙·卢尔和阿尔伯特大师，都对尼古拉斯产生了影响，但他重要的知识渊源在于普罗克洛和亚略巴吉德尼西乌斯。尽管他具有重要意义，但除了乔尔达诺·布鲁诺之外，几乎没有后来的思想家理解或受到他的影响，直到 19 世纪末。
+可以说，15 世纪最重要的德国思想家尼古拉斯 · 库萨（1401-1464）也是一位教会改革者、管理者和枢机主教。他毕生致力于改革和统一普世和罗马教会，无论是作为巴塞尔大公会的教会法专家，之后作为君士坦丁堡和后来德国教区和宗教机构的教廷使节，还是作为自己的比克森教区的主教，以及作为教宗宫廷的顾问。他作为一名教会管理者和主教的积极生活在数百篇拉丁语布道文中得到了体现，更多的理论背景则体现在他关于教会学、普世主义、数学、哲学和神学的著作中。库萨努斯拥有一颗开放和好奇的心。他博学且深谙新柏拉图主义传统，既熟悉人文主义又熟悉学院派学习，但在哲学和神学方面大多是自学成才。尼古拉斯在数学、宇宙学、天文学和实验科学方面预见了许多后来的思想，同时构建了自己独特的系统性新柏拉图主义版本。早期中世纪作家，如夏特尔的蒂埃里、拉蒙 · 卢尔和阿尔伯特大师，都对尼古拉斯产生了影响，但他重要的知识渊源在于普罗克洛和亚略巴吉德尼西乌斯。尽管他具有重要意义，但除了乔尔达诺 · 布鲁诺之外，几乎没有后来的思想家理解或受到他的影响，直到 19 世纪末。
 
 ---
 
 ## 1. 传记
 
-尼古拉斯·库萨（德语中的尼古拉斯·克里夫茨或克雷布斯，拉丁语中的尼古拉斯·库萨努斯）于 1401 年出生在莱茵河莫泽尔河畔的库斯（现在是伯卡斯特尔-库斯），位于科布伦茨和特里尔之间。他是一个资产阶级家庭中的四个孩子之一。他的父亲约翰·克里夫茨是一位富有的商人，后来成为特里尔的地主之一。我们对尼古拉斯早期教育的第一份记录来自他在 1416-17 年在海德堡大学攻读文科。然后他转到帕多瓦大学，在那里攻读教会法，于 1423 年获得教会法博士学位。在帕多瓦，他遇到了医生和数学家保罗·托斯卡内利，教会法学家朱利亚诺·恺撒里尼，以及人文主义者瓜里诺·达维罗纳和维托里诺·达费尔特雷。
+尼古拉斯 · 库萨（德语中的尼古拉斯 · 克里夫茨或克雷布斯，拉丁语中的尼古拉斯 · 库萨努斯）于 1401 年出生在莱茵河莫泽尔河畔的库斯（现在是伯卡斯特尔-库斯），位于科布伦茨和特里尔之间。他是一个资产阶级家庭中的四个孩子之一。他的父亲约翰 · 克里夫茨是一位富有的商人，后来成为特里尔的地主之一。我们对尼古拉斯早期教育的第一份记录来自他在 1416-17 年在海德堡大学攻读文科。然后他转到帕多瓦大学，在那里攻读教会法，于 1423 年获得教会法博士学位。在帕多瓦，他遇到了医生和数学家保罗 · 托斯卡内利，教会法学家朱利亚诺 · 恺撒里尼，以及人文主义者瓜里诺 · 达维罗纳和维托里诺 · 达费尔特雷。
 
-1425 年，他进入特里尔大主教的服务，并作为他的秘书，从几个教区收入。到 1426 年，他在科隆，可能在那里讲授教会法，学习哲学和神学，并开始研究原始资料和德国法典。在那里，他能够证明君士坦丁捐赠是八世纪的伪造，并找到了普林尼的《博物志》和普劳图斯的喜剧手稿。在科隆，他遇到了亨里希·冯·坎波，后者向他介绍了拉蒙·卢尔、阿尔伯特大师及其对狄奥尼修斯的评论，以及普罗克洛斯对柏拉图《巴门尼德》的评论。在 1428 年和 1435 年，尼古拉斯被提供在鲁汶大学教授教会法的职位，但他拒绝了，选择留在教会管理工作中。
+1425 年，他进入特里尔大主教的服务，并作为他的秘书，从几个教区收入。到 1426 年，他在科隆，可能在那里讲授教会法，学习哲学和神学，并开始研究原始资料和德国法典。在那里，他能够证明君士坦丁捐赠是八世纪的伪造，并找到了普林尼的《博物志》和普劳图斯的喜剧手稿。在科隆，他遇到了亨里希 · 冯 · 坎波，后者向他介绍了拉蒙 · 卢尔、阿尔伯特大师及其对狄奥尼修斯的评论，以及普罗克洛斯对柏拉图《巴门尼德》的评论。在 1428 年和 1435 年，尼古拉斯被提供在鲁汶大学教授教会法的职位，但他拒绝了，选择留在教会管理工作中。
 
 在 15 世纪 30 年代任神父，尼古拉斯首次因在巴塞尔公会议上作为一名公会派成员而引起更广泛的关注。在那里，他写了《天主教和谐》（1433 年），主张公会议的权威高于教皇，并强调同意和代表的概念。在巴塞尔的动荡导致公会议分裂后，尼古拉斯最终站在教宗派一边，离开了公会派。1437 年，他参加了一支派往君士坦丁堡的使团，寻求希腊教会与罗马的和解。他报告说，在回程航行中，《学者的无知》（1440 年）的见解如同一种神圣启示降临在他身上。他继续担任教廷驻德国的使节，时间为 1438 年至 1448 年。1446 年由尤金四世任命为枢机主教，尼古拉斯五世于 1448 年提升他到这个职位，并于 1451 年被派往德国担任教廷使节以改革教会。
 
@@ -20,11 +20,11 @@
 
 ## 尼古拉思想
 
-尼古拉·库萨可能可以被认为是最好理解为利用基督教新柏拉图主义框架来构建他自己继承思想的综合体。他的思想见证了他对各种前辈的阅读，同时避开了中世纪学院派总汇及其典型的争议和论点的方法。作为一名教会法律师，尼古拉在神学和哲学方面大多是自学成才的；他的思想和语言可能会给当代读者带来一些困难。他的思想必须作为一个整体来看待，因为它更多地通过他感兴趣的领域之间的对应和类比来运作，而不是以线性方式或直接论证。值得注意的是，他在跨越我们今天所称的本体论、心灵哲学和认识论以及哲学神学时所使用的灵活隐喻。他的隐喻为理解尼古拉如何建议我们应该共同思考上帝和造物提供了一些方法论线索。问题不仅在于上帝超出了我们的概念范围和理解能力，也超出了我们的文字语言。上帝与造物之间的不对称性还为探索或试图解释它们的关系的任何隐喻的适当性提供了一种度量或规范。
+尼古拉 · 库萨可能可以被认为是最好理解为利用基督教新柏拉图主义框架来构建他自己继承思想的综合体。他的思想见证了他对各种前辈的阅读，同时避开了中世纪学院派总汇及其典型的争议和论点的方法。作为一名教会法律师，尼古拉在神学和哲学方面大多是自学成才的；他的思想和语言可能会给当代读者带来一些困难。他的思想必须作为一个整体来看待，因为它更多地通过他感兴趣的领域之间的对应和类比来运作，而不是以线性方式或直接论证。值得注意的是，他在跨越我们今天所称的本体论、心灵哲学和认识论以及哲学神学时所使用的灵活隐喻。他的隐喻为理解尼古拉如何建议我们应该共同思考上帝和造物提供了一些方法论线索。问题不仅在于上帝超出了我们的概念范围和理解能力，也超出了我们的文字语言。上帝与造物之间的不对称性还为探索或试图解释它们的关系的任何隐喻的适当性提供了一种度量或规范。
 
 ### 2.1 形而上学和本体论
 
-尼古拉斯·库萨的关于现实是什么的最完整的提议出现在他最著名的作品《1440 年的博学无知：关于博学的无知》中。在这里，库萨努斯讨论了基督教思想中传统上发现的四种范畴现实：上帝、自然宇宙、基督和人类。《博学无知》将第一卷献给上帝，第二卷献给宇宙，第三卷献给上帝之子，耶稣基督。虽然它的顺序反映了从上帝流出并返回他的过程，但这本书并没有像当代思想家那样区分哲学和神学，而是将它们统一在新柏拉图式基督教现实的单一概述中。
+尼古拉斯 · 库萨的关于现实是什么的最完整的提议出现在他最著名的作品《1440 年的博学无知：关于博学的无知》中。在这里，库萨努斯讨论了基督教思想中传统上发现的四种范畴现实：上帝、自然宇宙、基督和人类。《博学无知》将第一卷献给上帝，第二卷献给宇宙，第三卷献给上帝之子，耶稣基督。虽然它的顺序反映了从上帝流出并返回他的过程，但这本书并没有像当代思想家那样区分哲学和神学，而是将它们统一在新柏拉图式基督教现实的单一概述中。
 
 尼古拉斯从一个单一的修辞或象征开始，以阐明他在三卷书中的教义之间的相似之处，即“极限”。上帝是绝对的极限；宇宙是上帝的创造形象，是“收缩”或受限制的极限。基督将前两者统一为同时绝对和受限的极限。 “收缩”是有限生物状态的隐喻，所有这些生物都是上帝的有限形象。 “绝对”在其词源意义上“无约束”（ab-solutus）用来描述上帝的无限性。作为绝对极限，上帝既无限又超越，无法被人类概念所触及，这些概念衡量有限或收缩的更多或更少的领域。一旦库萨努斯将人类认识概念化为衡量，他提出我们的知识也无法准确衡量任何有限事物的本质。更不用说，当涉及无限上帝时，尼古拉斯断言“有限与无限之间没有比例”。无限上帝仍然超出我们的理解范围。人类努力理解这一断言的深度和含义，将使我们的无知变得“博学”。
 
@@ -34,7 +34,7 @@
 
 尼古拉斯随后提出了一些几何“练习”，为他的读者提供了一些目的明确的示范，旨在教导我们如何在意识到我们无法理解无限上帝可能是什么的同时，如何追求无限。例如，我们可以想象一个圆和一个与圆相交的直线或切线。从某种角度来看，随着圆的直径或周长增加，其周长接近直线，看起来越来越不弯曲。如果我们将周长想象并推断到无限，我们几乎可以“看到”直线切线和曲线周长应该重合——这是一种“对立的巧合”，这是一种我们可以超越有限事物朝向超越的一的方式的象征。当然，这在数学上是不可能的，但它展示了一些从几何图形转移到创造物和他们的创造者身上的隐喻步骤。
 
-在《论学习的无知》第二卷中，库萨诺斯处理了创造的宇宙。自然宇宙被视为有限或收缩的极限，是绝对极限的影像。尼古拉斯在这里引入了另一个捕捉上帝与生物之间关系的中心隐喻，即包裹和展开（complicatio/explicatio）。他扩展了他从十二世纪的沙特尔学派继承的“折叠”隐喻。尽管所有存在物都“包裹”在他们神圣源头的不可区分的一体性中，但它们同时也是上帝在时间和空间中的“展开”。尼古拉斯写道：“在他是展开的那一部分，他就是所有事物所是的，就像在图像中，现实本身[veritas]就在那里”（II.3，霍普金斯译）。用新柏拉图主义的术语来说，人们必须将我们经历的展开的宇宙和其中所有真实的东西，同时看作是包裹在创造者中的，而这些真实的东西依赖于创造者。上帝包含了每一件被创造的东西，以一种辩证的流出和回归到上帝的方式，而没有任何生物被认同为他们依赖的上帝，那位既存在于他们之中又永远不在场和超越的上帝。展开/包裹这一对所捕捉到的是神圣原初与创造形象之间的动态关系。
+在《论学习的无知》第二卷中，库萨诺斯处理了创造的宇宙。自然宇宙被视为有限或收缩的极限，是绝对极限的影像。尼古拉斯在这里引入了另一个捕捉上帝与生物之间关系的中心隐喻，即包裹和展开（complicatio/explicatio）。他扩展了他从十二世纪的沙特尔学派继承的“折叠”隐喻。尽管所有存在物都“包裹”在他们神圣源头的不可区分的一体性中，但它们同时也是上帝在时间和空间中的“展开”。尼古拉斯写道：“在他是展开的那一部分，他就是所有事物所是的，就像在图像中，现实本身 [veritas] 就在那里”（II.3，霍普金斯译）。用新柏拉图主义的术语来说，人们必须将我们经历的展开的宇宙和其中所有真实的东西，同时看作是包裹在创造者中的，而这些真实的东西依赖于创造者。上帝包含了每一件被创造的东西，以一种辩证的流出和回归到上帝的方式，而没有任何生物被认同为他们依赖的上帝，那位既存在于他们之中又永远不在场和超越的上帝。展开/包裹这一对所捕捉到的是神圣原初与创造形象之间的动态关系。
 
 自然宇宙是由空间和时间中的许多存在共同构成的整体或收缩的最大。尼古拉斯提出准阿那克萨戈拉口号“每一件事物都在每一件事物中：quodlibet 在 quolibet”来强调个体存在或部分同样是整个创造宇宙的“收缩”形象。正如上帝对每一个作为神圣收缩形象的生物都是存在的，宇宙作为宏观宇宙对每一个生物或构成部分作为微观宇宙都是存在的。这样，每一个自然事物都是整体的形象。但由于这种集体是由相互关联的部分组成的，每一件事物也是与其他一切事物的联系的总和。“每一件事物都在每一件事物中”，因为每一个都是反映整体统一性的形象，因此也是整体的所有其他个体的相互关联部分。
 
@@ -58,7 +58,7 @@
 
 ### 2.2 心灵与人类认知
 
-尼古拉斯·库萨并没有像将本体论与认识论分开一样，也没有将信仰与理性分开，因此，他对人类认知的观念强调了心灵作为尺度（mens/mensura）的隐喻，这一点在《论学习无知》中已经提到。这成为人类心灵是神圣心灵形象的重要方式。在他 1450 年的对话《愚人论心灵：关于心灵》中，首次提出的“定义”可能更适合神圣心灵而不是人类心灵：“心灵是一切事物的界限和尺度”（第 1 章）。库萨努斯继续使用《论学习无知》中的准技术隐喻“包容/展开—复杂化/解释”来阐明我们的心灵如何是上帝心灵的形象。这些举措已经将他关于人类认知的观念与他的学术前辈以及后文艺复兴时期的继承者区分开来。他写道：
+尼古拉斯 · 库萨并没有像将本体论与认识论分开一样，也没有将信仰与理性分开，因此，他对人类认知的观念强调了心灵作为尺度（mens/mensura）的隐喻，这一点在《论学习无知》中已经提到。这成为人类心灵是神圣心灵形象的重要方式。在他 1450 年的对话《愚人论心灵：关于心灵》中，首次提出的“定义”可能更适合神圣心灵而不是人类心灵：“心灵是一切事物的界限和尺度”（第 1 章）。库萨努斯继续使用《论学习无知》中的准技术隐喻“包容/展开—复杂化/解释”来阐明我们的心灵如何是上帝心灵的形象。这些举措已经将他关于人类认知的观念与他的学术前辈以及后文艺复兴时期的继承者区分开来。他写道：
 
 > 你知道神圣的简单性是如何包容万物的。心灵是这种包容简单性的影像。因此，如果你称这种神圣的简单性为无限的心灵，它将成为我们心灵的典范。如果你称神圣的心灵为事物真理的总体，你将称我们的心灵为事物同化的总体，以便它成为一个思想的总体。在神圣的心灵中，构思是事物的产生；在我们的心灵中，构思是事物的认知。如果神圣的心灵是绝对存在，那么它的构思就是生物的创造；而在人类心灵中，构思就是生物的同化。 (c.3)
 
@@ -96,11 +96,11 @@
 
 这两种观点都可以在《俗人论》第 7 章中看到。在那里，库桑纳斯对他如何看待心智的认知功能在感觉、想象、推理和智力视觉或直觉层面上的运作给出了更为详细的说明。在这里，正如在他后来的作品《概要》中一样，我们发现尼古拉斯继承了一个技术词汇和概念框架，用于体现中世纪亚里士多德观点，即自然事物是感知和概念人类知识的原因和尺度。在这种观点下，我们理解的内容应当对应于事物的可理解方面，这些方面是独立于心灵的，因此心灵与事物之间的可理解性一致性产生——心灵受事物衡量。尽管尼古拉斯坚持活跃的、自我运动的心灵指导和整合我们认知能力的共同运作，但他也同意心灵没有先天观念，心智生活必须通过与可感知世界的直接接触来唤醒或激发。他从不质疑可感知世界（“事物的多样性”）的存在，并且独立于我们的心灵和知识。
 
-辨别和理解我们所感知、想象或记忆的能力是库萨努斯强调的。他写道，谈到想象力时，“当感知的事物不在场时，它[想象力]以混乱的方式并且不加区分地符合事物，但[当]与思维一起运作时，想象力会在区分一个条件和另一个条件的同时符合事物。”（《心灵白痴论》，第 7 章）
+辨别和理解我们所感知、想象或记忆的能力是库萨努斯强调的。他写道，谈到想象力时，“当感知的事物不在场时，它 [想象力] 以混乱的方式并且不加区分地符合事物，但 [当] 与思维一起运作时，想象力会在区分一个条件和另一个条件的同时符合事物。”（《心灵白痴论》，第 7 章）
 
 为了帮助我们理解心灵在感知“同化”中的参与，尼古拉斯转向雕塑家和工匠的作品，他们使用蜡或黏土制作某种形状的印记，以便从那个相似物开始工作。当涉及计划要做或制作某事时，我们很容易看到我们的思维是活跃的。那么在我们遇到的感知经验中，我们所遇到的并不取决于我们？尼古拉斯回到蜡上，要求我们想象蜡被心灵所启发的方式，就像心灵启发我们对感知的能力一样，并提出这样想象的心灵可以“将蜡形成为呈现给它的每种形状。”（第 7 章）尼古拉斯实际上是在说，感知中的“同化”确实是理性积极选择和管理感官和想象的结果，这些结果来自我们与可感知事物相遇。我们不仅仅是颜色、声音、质地等的被动接收者，而是我们的思维区分和连接感知和形象，以便基于理性的区分形成概念。
 
-尼古拉斯断言，我们对自然和文化世界的知识体现在技术、机械和自由艺术中，并在其中系统化，将保持“推测性”。原因是我们不是在处理真实独立于心灵的事物，其真实形式与上帝合一。我们只遇到那些物理位置的临时现实，它们是真实的影像。正如他所说，“通过理性的同化获得的概念是不确定的，因为它们与形式的影像而不是真实[形式]一致。”（同上，第 7 章）只有数学的概念不是推测性的，因为我们自己构建或创造这些想法。因此，我们对它们的概念可以是精确和确定的，因为作为概念实体，它们逃脱了物理世界的变化和身体限制的特征。
+尼古拉斯断言，我们对自然和文化世界的知识体现在技术、机械和自由艺术中，并在其中系统化，将保持“推测性”。原因是我们不是在处理真实独立于心灵的事物，其真实形式与上帝合一。我们只遇到那些物理位置的临时现实，它们是真实的影像。正如他所说，“通过理性的同化获得的概念是不确定的，因为它们与形式的影像而不是真实 [形式] 一致。”（同上，第 7 章）只有数学的概念不是推测性的，因为我们自己构建或创造这些想法。因此，我们对它们的概念可以是精确和确定的，因为作为概念实体，它们逃脱了物理世界的变化和身体限制的特征。
 
 #### 2.2.3 知识的度量
 
@@ -122,7 +122,7 @@
 
 除了为我们所知提供这种理想的限制之外，心灵之外的事物也作为参照物，它们本身衡量着我们的认知吸收。认识到它们的存在，我们也承认它们是我们知识的对象。我们不断回到我们试图理解的事物，以评估我们观念的适当性，并纠正我们解释中的任何错误或误解。如果没有这些独立的衡量标准，我们的知识就没有心灵之外的参照物，也没有修订或改进我们的概念衡量标准的标准，使其更或少地适应我们试图理解的事物。
 
-因此，尼古拉斯·库萨的答案，关于心灵还是独立于心灵的现实是我们所知的“衡量标准”，可以看作是试图两全其美。我们既受到我们所知事物的衡量，又构建概念和概念框架，通过它们衡量这些事物，无论是“推测性的”。有一些我们想要理解的情况和现实挑战我们去调整我们所感知、审视和经历的事物。同样，也有一些情况和现实要求我们修改我们的想法、概念和符号，使它们与彼此一致，并与我们其他信念一致。
+因此，尼古拉斯 · 库萨的答案，关于心灵还是独立于心灵的现实是我们所知的“衡量标准”，可以看作是试图两全其美。我们既受到我们所知事物的衡量，又构建概念和概念框架，通过它们衡量这些事物，无论是“推测性的”。有一些我们想要理解的情况和现实挑战我们去调整我们所感知、审视和经历的事物。同样，也有一些情况和现实要求我们修改我们的想法、概念和符号，使它们与彼此一致，并与我们其他信念一致。
 
 因此，库萨将同化和测量的隐喻结合起来，阐述了什么为人类认知提供了规范或标准。我们无法解决他所说的两者之间的紧张关系，但必须坚持下去。原因在于，作为上帝的形象，我们不创造，而必须承认上帝创造的事物是独立于人类知识的。我们可以塑造解释性的衡量标准，通过它们认识被创造的事物，但我们这样做时要承认，每个确定的现实的完全可理解性最终与上帝的不可知的统一是相同的。我们可能渴望完全可理解性，但只能在数学中达到。这就是为什么我们最好的知识，甚至是关于心灵本身的知识，仍然是推测性的，分享上帝的真理，但限于人类认知方式。
 
@@ -156,7 +156,7 @@
 
 #### 2.3.2 上帝是非他者
 
-在《关于非他》（1462 年）中，尼古拉斯回归到古代柏拉图的“一”和“他者”范畴，以新颖的语言重新阐释基督徒对于受造物依赖造物主的信仰。库萨诺斯的一些后期作品使用了他独创的词汇或拉丁语新词作为上帝的“名称”或特征，尽管这些词汇在基督教新柏拉图主义中早有先例。在这段对话中，他将“非他者”表达为上帝的实体，即神圣的非他者，尽管我们更熟悉这个短语作为比较表达中否定性陈述自我身份的方式。例如，“树不是别的（=与树相同，与树相同）。”
+在《关于非他》（1462 年）中，尼古拉斯回归到古代柏拉图的“一”和“他者”范畴，以新颖的语言重新阐释基督徒对于受造物依赖造物主的信仰。库萨诺斯的一些后期作品使用了他独创的词汇或拉丁语新词作为上帝的“名称”或特征，尽管这些词汇在基督教新柏拉图主义中早有先例。在这段对话中，他将“非他者”表达为上帝的实体，即神圣的非他者，尽管我们更熟悉这个短语作为比较表达中否定性陈述自我身份的方式。例如，“树不是别的（= 与树相同，与树相同）。”
 
 当我们使用理性来识别差异并进行区分时，我们试图公正对待我们最熟悉的自然和文化领域的多样性和变化。即使是同类事物在数量上也是不同的，清晰地表达和思考事物及其特征需要我们区分它们的确定性。我们期望它们保持原样并与其他事物保持不同，并且当我们描述和定义我们所感知和理解的事物时，在同一性和差异的语言中反映这一点。
 
@@ -202,7 +202,7 @@
 
 这意味着上帝的存在和上帝与事物的同一性不应被视为一种互惠的关系，比如，两个被创造的物理事物相互存在，更不用说相似或相同了。基督教新柏拉图主义的独特之处在于它能够辩证地思考这种不对称、非互惠的上帝与造物之间的本体论联系所提供的洞见。上帝渗透并超越或超越上帝创造和包容的每一件事物。因此，造物本身是真实的，具有它们展现出的有限独立性，然而它们同时存在于上帝之中，实际上与上帝合而为一，而并非是神圣的。
 
-但尼古拉斯·库萨拥有自己的新柏拉图主义与这一切有何关系？我想要提出的是，他的思想的特点在于，在主要作品的关键段落中，他提出了这种相同类型的辩证思维，以使我们能够理解上帝与造物之间的一般关系。但这种思维应该反映出一种本体论辩证法，也就是说，这种关系是真实的，无论我们是否承认它。上帝与造物之间的辩证关系是我们在努力在思想和言语中恰如其分地表达时大多数时候所指向的东西。但这难道不仅仅是十五世纪重新审视的普罗克洛斯、狄奥尼修斯、埃里格纳或埃克哈特吗？答案既是肯定的，也是否定的。
+但尼古拉斯 · 库萨拥有自己的新柏拉图主义与这一切有何关系？我想要提出的是，他的思想的特点在于，在主要作品的关键段落中，他提出了这种相同类型的辩证思维，以使我们能够理解上帝与造物之间的一般关系。但这种思维应该反映出一种本体论辩证法，也就是说，这种关系是真实的，无论我们是否承认它。上帝与造物之间的辩证关系是我们在努力在思想和言语中恰如其分地表达时大多数时候所指向的东西。但这难道不仅仅是十五世纪重新审视的普罗克洛斯、狄奥尼修斯、埃里格纳或埃克哈特吗？答案既是肯定的，也是否定的。
 
 是的，尼古拉斯所设想的辩证现实与早期基督教新柏拉图主义者所指出的几乎没有什么不同。无论是柏拉图的形式还是基督教上帝在几个世纪内都没有发生变化，也不可能发生变化，个体和生物对于它们的可理解和神圣原型的需求也没有发生变化。但同时也不是这样，因为库萨诺斯用一系列新颖的隐喻来表达他自己对上帝和生物之间关系的看法。他的一些原创隐喻，比如对立的巧合，包容/展开，上帝作为非他者，以及对立之间的对立，都受到并见证了同样不对称关系，但引导我们的思辨想象朝着一些新的方向发展，否则这些方向将保持未被探索状态。
 
@@ -210,11 +210,11 @@
 
 ## 4. 对政治思想的贡献
 
-尼古拉斯·库萨在政治思想史上引起了频繁的关注，因为他早期的作品《天主教和谐/天主教和谐》（1433-34 年）。这部长篇作品分为三卷，首先针对的是巴塞尔大公会的教会观众，仅在第三卷中次要地针对神圣罗马帝国及其皇帝的选举人。尼古拉斯的观念完全符合大公会主义传统，遵循自康斯坦茨公会（1414-18 年）的提议，因此将公会的权威置于教皇之上。在第一卷中，他阐述了一个关于创世和教会的等级观，遵循了亚略巴古的狄奥尼修斯。然后，他利用教会法和关于早期教会公会的历史文件来支持他对公会和教宗的看法。然而，他从未否认教皇和皇帝的重要性。尼古拉斯一直致力于协调（=和谐）教会法和政治理论中的许多不同观点。
+尼古拉斯 · 库萨在政治思想史上引起了频繁的关注，因为他早期的作品《天主教和谐/天主教和谐》（1433-34 年）。这部长篇作品分为三卷，首先针对的是巴塞尔大公会的教会观众，仅在第三卷中次要地针对神圣罗马帝国及其皇帝的选举人。尼古拉斯的观念完全符合大公会主义传统，遵循自康斯坦茨公会（1414-18 年）的提议，因此将公会的权威置于教皇之上。在第一卷中，他阐述了一个关于创世和教会的等级观，遵循了亚略巴古的狄奥尼修斯。然后，他利用教会法和关于早期教会公会的历史文件来支持他对公会和教宗的看法。然而，他从未否认教皇和皇帝的重要性。尼古拉斯一直致力于协调（= 和谐）教会法和政治理论中的许多不同观点。
 
 在过去一个世纪里，政治史学者们特别关注了尼古拉斯在第二卷中讨论同意作为合法法律和政府的先决条件的章节。他超越传统和教会法，基于人们的自然自由（“人们在力量上是平等的，同样自由”）主张所有治理都来自于被治理者的同意。这种明确将同意制度化的论点是尼古拉斯的原创贡献。他随后提出了关于代表的建议，从代表作为虚拟拟人到代表作为基于被代表者选择其代表的委托。这是西方对于应该对统治者施加的制度限制以及人民必须同意其代表制度的想法的最早明确表述之一。
 
-即使在他改变立场支持教皇至上之后，尼古拉斯仍然利用他的观念在后来的简短著作中辩称，巴塞尔并不真正代表人民，同意体现在枢机主教团中。在接下来的几个世纪里，世俗议会回归到同意和代表的观念（尽管并非直接参考尼古拉斯的著作），试图限制君主的权力。在教会内部，传统继续超过创新，公会优越于教皇的观念似乎已经死亡了几个世纪。罗马天主教会的一些二十世纪思想重新回到并活跃了尼古拉斯·库萨提出的关于公会和教宗的观念。
+即使在他改变立场支持教皇至上之后，尼古拉斯仍然利用他的观念在后来的简短著作中辩称，巴塞尔并不真正代表人民，同意体现在枢机主教团中。在接下来的几个世纪里，世俗议会回归到同意和代表的观念（尽管并非直接参考尼古拉斯的著作），试图限制君主的权力。在教会内部，传统继续超过创新，公会优越于教皇的观念似乎已经死亡了几个世纪。罗马天主教会的一些二十世纪思想重新回到并活跃了尼古拉斯 · 库萨提出的关于公会和教宗的观念。
 
 ## Bibliography
 
@@ -244,7 +244,7 @@
 * –––, 2014. *Mathematical Theologies: Nicholas of Cusa and the Legacy of Thierry of Chartres*, New York: Oxford.
 * –––, 2016. “Boethius Noster: Thierry of Chartres’s *Arithmetica* Commentary as a Missing Source of Nicholas of Cusa’s *De docta ignorantia*,” *Recherches de Théologie et Philosophie médiévales*, 83: 143–199.
 * –––, 2018. “Before the Icon: The Figural Matrix of *De visione Dei*,” in *Nicholas of Cusa and Times of Transition: Essays in Honor of Gerald Christianson*, eds. Thomas M. Izbicki, Jason Aleksander, and Donald Duclow, Leiden: Brill, pp. 262–285.
-* André, J.M., et al. (eds.), 2006. *Intellectus und Imaginatio. Aspekte geistiger und sinnlicher Erkenntnis bei Nicolaus Cusanus*, Amsterdam: Gr&uum;ner.
+* André, J.M., et al. (eds.), 2006. *Intellectus und Imaginatio. Aspekte geistiger und sinnlicher Erkenntnis bei Nicolaus Cusanus*, Amsterdam: Gr&uum; ner.
 * Beierwaltes, W., 1964. “Deus Oppositio Oppositorum (Nicolaus Cusanus *De visione Dei* XIII),” *Salzburger Jahrbuch für Philosophie*, 8: 175–85.
 * –––, 1977. “Identität und Differenz: Zum Prinzip cusanischen Denkens”, *Rheinisch-Westfälische Akademie der Wissenschaften*, Opladen: Westdeutscher.
 * –––, 1978. “Visio Absoluta: Reflexion als Grundzug des göttlichen Prinzips bei Nicolaus Cusanus,” *Sitzungsberichte der Heidelberger Akademie der Wissenschaften*, 5–33.
@@ -252,7 +252,7 @@
 * –––, 1988. *Visio Facialis—Sehen ins Angesicht*, Munich: Bayerische Akademie der Wissenschaften.
 * –––, 1997. “Der verborgene Gott: Cusanus und Dionysius” (Trierer Cusanus Lecture 4), Trier: Paulinus.
 * –––, 1998. *Platonismus im Christentum*, Frankfurt am Main: Klostermann.
-* –––, 2000. “Mystische Elemente im Denken des Cusanus,” in *Deutsche Mystik im abendländischen Zusammenhang. Neu erschlossene Texte, neue methodische Ansätze,neue theoretische Konzepte*, W. Haug and W. Schneider-Lastin (eds.), Tübingen: Niemeyer, pp. 425–448.
+* –––, 2000. “Mystische Elemente im Denken des Cusanus,” in *Deutsche Mystik im abendländischen Zusammenhang. Neu erschlossene Texte, neue methodische Ansätze, neue theoretische Konzepte*, W. Haug and W. Schneider-Lastin (eds.), Tübingen: Niemeyer, pp. 425–448.
 * –––, 2003. “Das Verhältnis von Philosophie und Theologie bei Nicolaus Cusanus,” *Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft*, 28: 65–102.
 * –––, 2018. *CATENA AUREA*, *Plotin Augustinus Eriugena Thomas Cusanus*, Frankfurt am Main: Vittorio Klostermann.
 * –––, and H.G. Senger (eds.), 2006. *Nicolai de Cusa Opera Omnia. Symposium zum Abschluß der Heidelberger Akademie-Ausgabe*, Heidelberg: Universitätsverlag Winter.
@@ -264,9 +264,9 @@
 * ––– and H. Schwaetzer (eds.), 2005. *Spiegel und Porträt. Zur Bedeutung zweier zentraler Bilder im Denken Nicolaus Cusanus*, Maastricht: Uitgeverij Shaker.
 * –––, 2013. *Die Kunst des Sammelns*, München: Aschendorff.
 * Böhlandt.M., 2002. *Wege ins Undendliche, Die Quadratur des Kreises bei Nikolaus von Kues*, Munich: Institut für Geschichte der Naturwissenschaften.
-* Bond,H.L. and Christianson, G., 2011. *Reform, Representation and Theology in Nicholas of Cusa and His Age*, Burlington, Vermont: Ashgate.
+* Bond, H.L. and Christianson, G., 2011. *Reform, Representation and Theology in Nicholas of Cusa and His Age*, Burlington, Vermont: Ashgate.
 * Brient, E., 2002. *The Immanence of the Infinite: Hans Blumenberg and the Threshold to Modernity*, Washington, D.C.: Catholic University Press.
-* –––, 2006. “How Can the Infinite be the Measure of the Finite? Three Mathematical Metaphors from *De docta ignorantia*,” in *Cusanus:The Legacy of Learned Ignorance*, P.J. Casarella (ed.), Washington, D.C.:Catholic University of America Press, pp. 210–225.
+* –––, 2006. “How Can the Infinite be the Measure of the Finite? Three Mathematical Metaphors from *De docta ignorantia*,” in *Cusanus: The Legacy of Learned Ignorance*, P.J. Casarella (ed.), Washington, D.C.: Catholic University of America Press, pp. 210–225.
 * –––, 2018. “Between Time and Eternity: Neoplatonic Precursors to Cusanus’ Conception of ‘Non-Temporal Time’ in *De aequalitate*,” in *Nicholas of Cusa and Times of Transition. Essays in Honor of Gerald Christianson*, edited by Donald Duclow, Thomas Izbicki, and Jason Aleksander, Leiden/ Boston: E.J. Brill, pp. 242–261.
 * S.J.G. Burton, J. Hollmann and E.M. Parker (eds.), 2019. *Nicholas of Cusa and the Making of the Early Modern World*, Leiden: Brill.
 * Casarella, P.J. (ed.), 2006. *Cusanus: The Legacy of Learned Ignorance*, Washington, D.C.: Catholic University of America Press.
@@ -278,7 +278,7 @@
 * ––– . (ed.), 1996. *Nicholas of Cusa on Christ and the Church*, Leiden: Brill.
 * Counet, J.-M., 2000. *Mathématiques et dialectique chez Nicolas de Cues*, Paris: J.Vrin.
 * ––– (ed.), 2021. *Mathématiques et métaphysique dans la pensée de Nicolas de Cues: Actes du Colloque de Nice (sept. 2017) de la Société française Cusanus*, *Philosophes médiévaux*, Tome LXIX; Louvain-la-neuve, Peeters.
-* –––, (ed.), 2021. *Esse est movere**:* *Regards croisés sur l’ontologie dynamique de Nicolas de Cues* (Philosophes médiévaux 71), Louvain-la-neuve: Peeters.
+* –––, (ed.), 2021. *Esse est movere* *:* *Regards croisés sur l’ontologie dynamique de Nicolas de Cues* (Philosophes médiévaux 71), Louvain-la-neuve: Peeters.
 * Cranz, F. E., 2000. *Nicholas of Cusa and the Renaissance*, T. Izbicki and G. Christianson (eds.), Aldershot: Ashgate.
 * Crowner, D., and G. Christianson (trans.), 2010. *Nicholas of Cusa: A Sketch for a Biography*, by E. Meuthen, Washington, D.C.: Catholic University of America Press.
 * de Certeau, M., 1987. “The Gaze—Nicholas of Cusa,” *Diacritics*, 17: 2–38.
@@ -301,7 +301,7 @@
 * –––, 1998. *Nikolaus von Kues. Geschichte einer Entwicklung*, Frankfurt am Main: Klostermann.
 * –––, 2001, *Nicolaus Cusanus*, Munich: Beck.
 * –––, 2004. *Nikolaus von Kues in seiner Zeit. Ein Essay*, Stuttgart: Reclam.
-* Floss,P., 2020. *The Philosophy of Nicholas of Cusa:* *An Introduction into His Thinking*, Basel: Schwabe.
+* Floss, P., 2020. *The Philosophy of Nicholas of Cusa:* *An Introduction into His Thinking*, Basel: Schwabe.
 * Gerlier, V., 2018. “Incomprehensible Praise: Wonder, Adoration and the Ground of Language in Nicholas of Cusa,” *Medieval Mystical Theology*, 27: 89–102.
 * Grondkowska, B., 2017. “Quid est rex sine gloria? Cusanus’ Concept of Glory and Praise,” Viator 48: 259–278.
 * L. Hagemann and R. Glei (eds.), 1993. *HEN KAI PLETHOS*. *Einheit und Vielheit*, Würzburg: Echter.
@@ -311,8 +311,8 @@
 * –––, 2001. *Infinity and Perspective*, Cambridge, Mass.: MIT Press.
 * Haubst, R., 1991. *Streifzüge in die cusanische Theologie*, Münster: Aschendorff.
 * Heller, A., 2012. “The Metaphor of the Throw in Nicholas of Cusa’s *Game of Spheres*”, *Graduate Faculty Philosophy Journal*, 33: 473–490
-* Hoff, J., 2007. *Kontingenz, Berührung*,*Überschreitung: Zur philosophischen Propädeutik christlicher Mystik nach Nicholas von Kues*, Munich: Karl Alber.
-* –––, 2013. *The Analogical Turn: Rethinking Modernity with Nicholas of Cusa, Grand Rapids, Mich.:* Eerdmans*.*
+* Hoff, J., 2007. *Kontingenz, Berührung*, *Überschreitung: Zur philosophischen Propädeutik christlicher Mystik nach Nicholas von Kues*, Munich: Karl Alber.
+* –––, 2013. *The Analogical Turn: Rethinking Modernity with Nicholas of Cusa, Grand Rapids, Mich.:* Eerdmans *.*
 * –––, 2013.“Mystagogy Beyond Onto-theology: Looking Back to Post-modernity with Nicholas of Cusa,” in *A Companion to Nicholas of Cusa*, ed. Arne Moritz, Leiden: Brill.
 * Hoenen, J.F.M., 1995.“ *Ista prius inaudita*: Eine neuentdeckte Vorlage der *De docta ignorantia* und ihre Bedeutung für die frühe Philosophie des Nikolaus von Kues”*, Medioevo. Revista di Storia della filosofia medievale*, 21: 375–476.
 * Hofmann, J.E., 1964. “Nikolaus von Kues und die Mathematik,” *Schweizer Rundschau*, 63: 398–403.
@@ -320,17 +320,17 @@
 * Hopkins, J., 1978. *A Concise Introduction to the Philosophy of Nicholas of Cusa*, Minneapolis: University of Minnesota Press; 2nd edition, 1980; 3rd edition, Banning, 1986.
 * –––, 1981. *Nicholas of Cusa on Learned Ignorance: A Translation and an Appraisal of De Docta Ignorantia*, Minneapolis: Banning; 2nd edition, 1985.
 * –––, 1983. *Nicholas of Cusa’s Metaphysic of Contraction*, Minneapolis: Banning.
-* –––, 1985. *Nicholas of Cusa’s Dialectical Mysticism:Text, Translation, and Interpretive Study of De Visione Dei*, Minneapolis: Banning; 2nd edition, 1988.
+* –––, 1985. *Nicholas of Cusa’s Dialectical Mysticism: Text, Translation, and Interpretive Study of De Visione Dei*, Minneapolis: Banning; 2nd edition, 1988.
 * –––, 1990. *Nicholas of Cusa’s De Pace Fidei and Cribratio Alkorani: Translation and Analysis*, Minneapolis: Banning; 2nd edition, 1994.
 * –––, 1996. *Nicholas of Cusa on Wisdom and Knowledge*, Minneapolis: Banning.
 * –––, 1998a. “Nicholas of Cusa (1401–64),” *Routledge Encyclopedia of Philosophy* (Volume VI), London: Routledge, pp. 832–838.
 * –––, 1998b. *Nicholas of Cusa: Metaphysical Speculations* (Volume 1), Minneapolis: Banning.
 * –––, 1999, *Nicholas of Cusa on God as Not-Other*, 3rd edition, Minneapolis: Banning.
 * –––, 2000. *Nicholas of Cusa: Metaphysical Speculations* (Volume 2), Minneapolis: Banning.
-* –––, 2002. “Nicholas of Cusa (1401–1464): First Modern Philosopher?” in *Renaissance and Early Modern Philosophy* (Midwest Studies in Philosophy, Volume 26), P.A. French and H.K. Wettstein (eds.), Boston: Blackwell,pp. 13–29.
+* –––, 2002. “Nicholas of Cusa (1401–1464): First Modern Philosopher?” in *Renaissance and Early Modern Philosophy* (Midwest Studies in Philosophy, Volume 26), P.A. French and H.K. Wettstein (eds.), Boston: Blackwell, pp. 13–29.
 * ––– (trans.), 2003. *Nicholas of Cusa’s Early Sermons: 1430–1441*, Loveland, Colorado: Banning.
 * ––– (trans.), 2008. *Nicholas of Cusa’s Didactic Sermons: A Selection*, Loveland, Colorado: Banning.
-* –––. 2010. “Marta y María como símbolos de la unidad und alteridad: commentarios sobre el Sermón LXXI de Nicolás de Cusa”, pp.137–149 in J.M Machetta and Claudia D’Amico (eds.), *Nicolás de Cusa:identidad y alteridad. Pensamiento y diá logo*, Buenos Aires: Editorial Biblos.
+* –––. 2010. “Marta y María como símbolos de la unidad und alteridad: commentarios sobre el Sermón LXXI de Nicolás de Cusa”, pp.137–149 in J.M Machetta and Claudia D’Amico (eds.), *Nicolás de Cusa: identidad y alteridad. Pensamiento y diá logo*, Buenos Aires: Editorial Biblos.
 * Izbicki, T., 1993. “The Church in the Light of Learned Ignorance,” *Medieval Philosophy and Theology*, 3: 186–214.
 * ––– and C. M. Bellitto (eds.), 2002. *Nicholas of Cusa and His Age: Intellect and Spirituality*, Boston: Brill.
 * –––, 2011. “*Christiformitas* in Nicholas of Cusa’s Roman Sermons (1459),” *Asian Perspectives in the Arts and Humanities*, I: 1–16.
@@ -351,21 +351,21 @@
 * McTighe, T.P., 1958. “The Meaning of the Couple ‘Complicatio-Explicatio’ in the Philosophy of Nicholas of Cusa,” *Proceedings of the American Catholic Philosophical Association*, 32: 206–14.
 * –––, 1964. “Nicholas of Cusa as a Forerunner of Modern Science,” in *Actes du dixième congrès international d’histoire des sciences*, Vol. 1, Paris: Hermann, pp. 619–622.
 * –––, 1990. “*Contingentia* and *Alteritas* in Cusa’s Metaphysics,” *American Catholic Philosophical Quarterly*, 64: 55–71.
-* Meier-Oeser, Stephan, 1989. *Die Präsenz des Vergessenen:zur Rezeption der Philosophie des Nicholaus Cusanus vom 15. bis zum 18. Jahrhundert*, Münster: Aschendorf.
+* Meier-Oeser, Stephan, 1989. *Die Präsenz des Vergessenen: zur Rezeption der Philosophie des Nicholaus Cusanus vom 15. bis zum 18. Jahrhundert*, Münster: Aschendorf.
 * Meuthen, E., 1992. *Nikolaus von Kues (1401–1464). Skizze einer Biographie*, 7th edition, Münster: Aschendorff.
 * ––– (ed.), 1976–2000, *Acta Cusana. Quellen zur Lebensgeschichte des Nikolaus von Kues*, Vol. 1, Hamburg: Meiner.
-* Miller, C. L. (trans.), 1979, *Nicholas de Cusa, Idiota de mente:The Layman: About Mind*, New York: Abaris Books.
+* Miller, C. L. (trans.), 1979, *Nicholas de Cusa, Idiota de mente: The Layman: About Mind*, New York: Abaris Books.
 * –––, 1983. “A Road Not Taken: Nicholas of Cusa and Today’s Intellectual World,” *Proceedings of the American Catholic Philosophical Association*, 57: 68–77.
 * –––, 1984. “Nicholas of Cusa’s *The Vision of God*,” in *An Introduction to the Medieval Mystics of Europe*, P. Szarmach, (ed.), Albany: State University of New York Press, pp. 293–312.
 * –––, 1990. “Perception, Conjecture and Dialectic,”*American Catholic Philosophical Quarterly*, 64: 35–54.
 * –––, 2003. *Reading Cusanus: Metaphor and Dialectic in a Conjectural Universe*, Washington, D.C.: The Catholic University of America Press.
 * –––, 2015. “God as *Li Non-Aliud*: Nicholas of Cusa’a Unique Designation for God,” *Journal of Medieval Religious Cultures*, 41: 24–40.
-* –––, 2019. “The Metaphor of Light and the Light of Metaphor in Nicholas of Cusa,” in *Nicholas of Cusa and Times of Transition:Essays in Honor of Gerald Christianson*, eds., T. Izbicki, J.Alexander, and D. Duclow, pp. 286–300, Leiden: Brill.
+* –––, 2019. “The Metaphor of Light and the Light of Metaphor in Nicholas of Cusa,” in *Nicholas of Cusa and Times of Transition: Essays in Honor of Gerald Christianson*, eds., T. Izbicki, J.Alexander, and D. Duclow, pp. 286–300, Leiden: Brill.
 * –––, 2021. *The Art of Conjecture: Nicholas of Cusa on Knowledge*, Washington, D.C.: The Catholic University of America Press.
 * Miroy, J.de G., 2009. *Tracing Nicholas of Cusa’s Early Development: The Relationship between De concordantia catholica and De docta ignorantia*, Leuven: Peeters.
 * Moran, D., 2007. “Nicholas of Cusa and Modern Philosophy,” in *The Cambridge Companion to Renaissance Philosophy*, James Hankins, (ed.), Cambridge: Cambridge University Press, pp. 173–192.
 * –––, 2008. “Nicholas of Cusa (1401–1464): Platonism at the Dawn of Modernity,” in *Platonism at the Origins of Modernity: Studies on Platonism and Early Modern Philosophy*, D. Hedley and S. Hutton, (eds.), Dordrecht: Springer, pp. 9–29.
-* Müller,T. 2013. *Der junge Cusanus. Aufbruch in das 15. Jahrhundert* , Münster: Aschendorff.
+* Müller, T. 2013. *Der junge Cusanus. Aufbruch in das 15. Jahrhundert* , Münster: Aschendorff.
 * Nicolle, J.-M., 2001. *Mathématique et Métaphysique dans l’oeuvre de Nicolas de Cues*, Villeneuve d’Ascq: Presses Universitaires du Septentrion.
 * –––, 2005. “How to Look at Cusanus’ Geometrical Figures”, *Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft*, 29: 279–293.
 * ––– (trans.), 2007. *Nicolas de Cues: Les Écrits mathématiques*, Paris: Honoré Champion.
@@ -373,7 +373,7 @@
 * Piaia, G., (ed.), 1993. *Concordia discors. Studisu Niccolòe l’umanesimo europeo offerti a Giovanni Santinello*, (Medioevo e umanesimo, 84), Padua: Editrice Antenore.
 * Powrie, S., 2013. “The importance of Fourteenth-century Natural Philosophy for Nicholas of Cusa’s Infinite Universe,” *American Catholic Philosophical Quarterly*, 87: 33–53.
 * –––, 2015. “Nicholas of Cusa’s Dialogue with Augustine: The Measure of the Soul’s Greatness in De ludo globi,” *Renaissance and Reformation*, 38: 5–25.
-* Pukelsheim, F. and H. Schwaetzer (eds.), 2005. *Das Mathematikverständnis des Nikolaus von Kues, Mathematische,Naturwissenschaftliche und Philosophisch-theologische Dimensionen* (*Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft*, Volume 29), Trier: Paulinus.
+* Pukelsheim, F. and H. Schwaetzer (eds.), 2005. *Das Mathematikverständnis des Nikolaus von Kues, Mathematische, Naturwissenschaftliche und Philosophisch-theologische Dimensionen* (*Mitteilungen und Forschungsbeiträge der Cusanus-Gesellschaft*, Volume 29), Trier: Paulinus.
 * Reinhardt, K. and H. Schwaetzer (eds.), 2003. *Nikolaus von Kues — Vordenker moderner Naturwissenschaft*? Regensburg: Roderer-Verlag.
 * ––– (eds.), 2005. *Cusanus-Rezeption in der Philosophie des 20. Jahrhunderts*, Regensburg: Roderer-Verlag.
 * Rubenstein, M-J, (2015). “End without End: Cosmology and Infinity in Nicholas of Cusa,” in *Desire, Faith, and the Darkness of God: Essays in Honor of Denys Turner*, ed. E.Bugyis and D.Newheiser. Notre Dame, IN: University of Notre Dame Press, pp. 13–36.

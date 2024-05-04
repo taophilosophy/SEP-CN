@@ -1,6 +1,6 @@
 # 个人方言 idiolects (Alex Barber and Eduardo Garcia Ramirez)
 
-*首次发表于2004年11月15日星期一；实质性修订于2021年3月27日星期六。*
+*首次发表于 2004 年 11 月 15 日星期一；实质性修订于 2021 年 3 月 27 日星期六。*
 
 就本条目而言，个人方言是指语言（即句法、音韵、指称等）的特性可以通过某个单个个体的内在特性来详尽说明的语言。 "内在" 的含义是排除对个人更广泛环境特征的基本参考，尤其是对其语言社群的参考。
 
@@ -16,11 +16,11 @@
 
 ### 1.1 个人方言与社会语言
 
-区分个人方言和社会语言的关键在于同一自然语言 L 可以通过两种方式来确定：L 作为具有特定语言（语义、句法、音韵等）属性的语言，或者 L 作为特定个体或人群所拥有（口语等）的语言。例如，法语是包含形容词 rouge（红色）的语言，其口语形式以浊音的软腭擦音开始等。但法语也是法国大多数居民的第一语言，科特迪瓦的通用语言，西蒙·德·波伏娃写作、演讲和思考的媒介等。
+区分个人方言和社会语言的关键在于同一自然语言 L 可以通过两种方式来确定：L 作为具有特定语言（语义、句法、音韵等）属性的语言，或者 L 作为特定个体或人群所拥有（口语等）的语言。例如，法语是包含形容词 rouge（红色）的语言，其口语形式以浊音的软腭擦音开始等。但法语也是法国大多数居民的第一语言，科特迪瓦的通用语言，西蒙 · 德 · 波伏娃写作、演讲和思考的媒介等。
 
 我们可以在抽象中使用第一种个体化模式创造出无数种语言，没有限制。但只有少数这些抽象对象会在第二种模式中实现，即以某种方式被某个个体或人群所拥有、了解、使用或在其他方面使用。如果我们选择一种语言作为某个个体的语言，并相信我们可以通过参考该个体的内在属性来指定其属性，那么我们正在选择一个个人方言。相反地，如果我们通过参考一个社群来指定它，或者通过参考一个个体但只能通过观察他们更广泛的社会环境来确定其属性（例如，识别显著的语言权威），那么我们正在选择一种社会语言。
 
-语言理论家对于语言实现的概念各不相同。对于大卫·刘易斯来说，抽象的语言（对他来说，这相当于句子和意义的配对）在一个人群中得以实现，当它描述了一种规范来管理他们的行为，具体意义上在第 2 节中总结。刘易斯从非个人方言的角度来看待这个问题。相反，对于诺姆·乔姆斯基来说，如果一种语言在个体中“被代表”，那么它就在个体的“语言能力”中得以实现，这是他们大脑的一个组成部分。在乔姆斯基传统中工作的语言学家的目标是将所代表的内容以理论的形式，即个体的语法，明确表达出来。因此，这是一个个人方言的观点。然而，有一个转折。乔姆斯基最感兴趣的大脑属性是种群范围的，而不是任何个体独有的，所以“个体”本质上是一种理想化的产物，有助于我们理解语言能力，这是人类的一种生物特征。尽管如此，我们仍然可以坚持将其称为个人方言的观点，因为它摒弃了离散语言社群的任何基本作用。
+语言理论家对于语言实现的概念各不相同。对于大卫 · 刘易斯来说，抽象的语言（对他来说，这相当于句子和意义的配对）在一个人群中得以实现，当它描述了一种规范来管理他们的行为，具体意义上在第 2 节中总结。刘易斯从非个人方言的角度来看待这个问题。相反，对于诺姆 · 乔姆斯基来说，如果一种语言在个体中“被代表”，那么它就在个体的“语言能力”中得以实现，这是他们大脑的一个组成部分。在乔姆斯基传统中工作的语言学家的目标是将所代表的内容以理论的形式，即个体的语法，明确表达出来。因此，这是一个个人方言的观点。然而，有一个转折。乔姆斯基最感兴趣的大脑属性是种群范围的，而不是任何个体独有的，所以“个体”本质上是一种理想化的产物，有助于我们理解语言能力，这是人类的一种生物特征。尽管如此，我们仍然可以坚持将其称为个人方言的观点，因为它摒弃了离散语言社群的任何基本作用。
 
 ### 1.2 反对英语和其他民间语言的案例
 
@@ -36,7 +36,7 @@
 
 乘客们满怀希望地望着直升机。
 
-这些类似的判断存在问题（Crystal 2007在英语案例中回顾了它们的历史），并不是因为它们过于保守，成为社会排斥的工具。通常它们并不起到这样的作用。例如，一些词典现在将“红色”作为“愤怒”的可能含义之一，但这也是一种规范立场，而不仅仅是保守主义，与科学立场不相容的是规范性。即使是对语言可接受性的自由观点（例如，句子末尾可以使用介词）也是规定。在确定英语和其他语言的属性时，规范性在民间本体论中是不可避免的，这些语言在科学中没有位置（除非作为社会学调查的虚构对象——因为对这种虚构的信仰会产生社会影响——或作为一个有用的简写）。
+这些类似的判断存在问题（Crystal 2007 在英语案例中回顾了它们的历史），并不是因为它们过于保守，成为社会排斥的工具。通常它们并不起到这样的作用。例如，一些词典现在将“红色”作为“愤怒”的可能含义之一，但这也是一种规范立场，而不仅仅是保守主义，与科学立场不相容的是规范性。即使是对语言可接受性的自由观点（例如，句子末尾可以使用介词）也是规定。在确定英语和其他语言的属性时，规范性在民间本体论中是不可避免的，这些语言在科学中没有位置（除非作为社会学调查的虚构对象——因为对这种虚构的信仰会产生社会影响——或作为一个有用的简写）。
 
 个人方言中对民间本体论语言的反对之一是，将一个人群划分为单一语言的说话者，往往是由地缘政治考虑驱动的。塞尔维亚-克罗地亚语和捷克斯洛伐克语只在民族主义政治需要的时候存在，并且几乎在一夜之间消失，而人们的说话方式几乎没有发生任何重大变化。荷兰的一些方言在特征上更接近于邻近德国的方言，而不是荷兰沿海地区的方言，尽管它们被归类为同一语言荷兰语的变体，但不是前者。这里的问题并不是很好地体现在民间语言模糊的观察中。特殊科学充斥着模糊性。相反，从语言学的角度来看，个体化条件似乎是任意的。反对民间语言的相同论点也适用于民间方言的层面。伦敦东部鲍尔教堂钟声的听觉范围内出生的伦敦方言（Cockney）说话者，传统上被要求在那里出生，但噪音污染和人口变化使得这个定义变得荒谬。无论一个人对民间本体论的版本有多么细致，类似的问题都会再次出现。
 
@@ -80,9 +80,9 @@
 
 第 2.1 节介绍了自然语言作为人群中以抽象意义上的语言定义的一种体现的基本观点。路易斯观点的另外三个特点值得强调：他解释了为什么自然语言必须是组合性的，他否认他的观点只是一种理想化，以及他的理论是关于表达意义而不是说话者意义的。
 
-为了通过使用L来解决P内的协调问题，P的所有成员必须能够确定L的所有句子的意义。换句话说，P的成员必须有一种方法来识别对应意义的函数，对于任何给定的句子，该函数将提供相应的意义。鉴于说话者的限制，无论是身体上的还是认知上的，必须有一种有限且简单的方法来做到这一点。L的组合性可以帮助解释这是如何可能的（参见组合性条目）。粗略地说，对于L的组合性来说，L的所有复杂表达式e1...en的意义完全由它们的部分的意义和它们的组合方式决定。因此，将句子映射到它们的意义的函数将考虑到它们的部分的意义和它们的组合方式。
+为了通过使用 L 来解决 P 内的协调问题，P 的所有成员必须能够确定 L 的所有句子的意义。换句话说，P 的成员必须有一种方法来识别对应意义的函数，对于任何给定的句子，该函数将提供相应的意义。鉴于说话者的限制，无论是身体上的还是认知上的，必须有一种有限且简单的方法来做到这一点。L 的组合性可以帮助解释这是如何可能的（参见组合性条目）。粗略地说，对于 L 的组合性来说，L 的所有复杂表达式 e1...en 的意义完全由它们的部分的意义和它们的组合方式决定。因此，将句子映射到它们的意义的函数将考虑到它们的部分的意义和它们的组合方式。
 
-但是语言使用展示了几个问题特征，必须加以适应：指示性、上下文敏感性、歧义等等。为了正确解释这些特征，相关的意义函数必须将多个变量作为参数。这不会是一个简单的从句子到意义的一对一映射，而是一个更复杂的映射，将一个句子、一个说话者、一个时间、一个世界等等映射到相应的意义上。刘易斯意识到了这一点，并将其作为L如果要被P使用的一部分。只要P的成员知道这一点，并在遵守真实和信任的约定的同时使用它，就不应该有严重的问题。（说说话者知道这一点并不是说他们可以在请求时明确描述L是如何工作的，而是说他们对L有隐含的知识，以便他们能够成功地使用L与P的其他成员进行交流和理解。）刘易斯将语言以这种方式实现的情况称为“正常语言使用的完美案例”。也就是说，这最多是一个需要完善的理想化。乔姆斯基和戴维森（下文）可以被认为是以不同的方式暗示了这里提供的语言和其实现的概念是基本错误的，而不仅仅是一个草稿。
+但是语言使用展示了几个问题特征，必须加以适应：指示性、上下文敏感性、歧义等等。为了正确解释这些特征，相关的意义函数必须将多个变量作为参数。这不会是一个简单的从句子到意义的一对一映射，而是一个更复杂的映射，将一个句子、一个说话者、一个时间、一个世界等等映射到相应的意义上。刘易斯意识到了这一点，并将其作为 L 如果要被 P 使用的一部分。只要 P 的成员知道这一点，并在遵守真实和信任的约定的同时使用它，就不应该有严重的问题。（说说话者知道这一点并不是说他们可以在请求时明确描述 L 是如何工作的，而是说他们对 L 有隐含的知识，以便他们能够成功地使用 L 与 P 的其他成员进行交流和理解。）刘易斯将语言以这种方式实现的情况称为“正常语言使用的完美案例”。也就是说，这最多是一个需要完善的理想化。乔姆斯基和戴维森（下文）可以被认为是以不同的方式暗示了这里提供的语言和其实现的概念是基本错误的，而不仅仅是一个草稿。
 
 个人方言中，Lewis 的是一个关于表达意义的描述，因此有时被视为对基于意图的说话者意义描述（例如 Paul Grice 的描述）的有用补充。在 Grice 传统中，说话者的意义与通过听众对此意图的认知而产生的效果等同。赋予意义的意图的确切形式是一个有争议的问题，对此并不特别相关（请参见 Paul Grice 的条目）。但是，对个人说话者意义的理论除了准确陈述赋予意义的意图之外，还需要一个补充的表达意义理论。只有有了后者，我们才能首先解释说话者对自己会被解释为预期的意图（而某种程度的成功预期是任何意图形成的先决条件）；其次，解释听众接受的成功率。Grice 最初通过建议以下方式将表达意义与说话者意义相关联：
 
@@ -92,19 +92,19 @@
 
 ### 2.3 反对将语言视为约定
 
-在《墓志铭的美妙错位》一文中，唐纳德·戴维森（Donald Davidson）认为，如果语言“与许多哲学家和语言学家所认为的一样”，那么它们并不存在（1986 年：446）。他没有列出他所指的哲学家和语言学家，但在他批评的立场云团的中心附近，刘易斯的约定论理论是其中之一。[1] 更广泛地说，他反对表达和意义之间的社会建立的联系的概念，这种联系的共享参与使社区能够进行交流。戴维森的文章充斥着术语，因此他的论点很难理解。在这个陈述中，我们首先解释他所反对的观点的表述，然后概述他反对所制定观点的论据。[2]
+在《墓志铭的美妙错位》一文中，唐纳德 · 戴维森（Donald Davidson）认为，如果语言“与许多哲学家和语言学家所认为的一样”，那么它们并不存在（1986 年：446）。他没有列出他所指的哲学家和语言学家，但在他批评的立场云团的中心附近，刘易斯的约定论理论是其中之一。[1] 更广泛地说，他反对表达和意义之间的社会建立的联系的概念，这种联系的共享参与使社区能够进行交流。戴维森的文章充斥着术语，因此他的论点很难理解。在这个陈述中，我们首先解释他所反对的观点的表述，然后概述他反对所制定观点的论据。[2]
 
 这种观点被表达为第一意义是共享的、系统的和准备好的主张。为了理解他所说的“第一意义”，可以考虑格赖斯（Grice）关于一个学术工作候选人的推荐信的著名例子：
 
 > 尊敬的先生，X 先生的英语能力非常出色，他经常参加辅导课。谢谢。 （Grice 1975: 33）
 
-作者的暗示——X 先生是一个弱势候选人——只能通过对表达式在话语中的使用进行先前解释来得出。这种先前解释是第一个意义。"第一个"中隐含的对比是指随后读入话语中的暗示或含义。戴维森使用"第一个"的意思是为了避免使用"字面"或"常规"的意思，因为他计划质疑的正是这样一种意思的层次，即某种程度上独立于交际行为、由语言约定确定的意思。"第一个意思"应该被理解为在特定话语背景下，话语者希望你归因于话语表达中的最初意义。
+作者的暗示——X 先生是一个弱势候选人——只能通过对表达式在话语中的使用进行先前解释来得出。这种先前解释是第一个意义。"第一个" 中隐含的对比是指随后读入话语中的暗示或含义。戴维森使用 "第一个" 的意思是为了避免使用 "字面" 或 "常规" 的意思，因为他计划质疑的正是这样一种意思的层次，即某种程度上独立于交际行为、由语言约定确定的意思。"第一个意思" 应该被理解为在特定话语背景下，话语者希望你归因于话语表达中的最初意义。
 
 在戴维森所否定的观点中，成功的交流是因为这个第一个意义是共享的（即话语者和听众都赋予相同的第一个意义）、准备好的（即在话语之前对话语者和听众都可用）和系统的（即可在组合理论中捕捉）。这三个特性都隐含在传统主义者的假设中，即表达式的意义是在社会语言中指定的。我们可以将这种社会语言概念化为英语，或者作为刘易斯技术意义上的约定。如果是后者，戴维森瞄准的主张是，在给定的语言社群内的交流是通过某种（共享的、准备好的、系统的）约定来实现真实和信任的。戴维森否认存在这样的约定。
 
 他反对第一个意义是系统化、共享和准备好的论点是从对各种语言现象的反思中产生的，所有这些语言现象都有一个共同点，即“说话者期望被解释为说话者的意图，尽管解释者事先没有正确的理论”（1986 年：440）。Grice 的例子不符合这个描述。因此，它并没有威胁到第一个意义（关于定期出席）是先前共享的组合理论的简单产物的思想。另一方面，滑稽之处确实符合这个描述。以下是原始的 Mrs Malaprop 在与 Captain Absolute 的交流中发表讲话，这也是 Davidson 的论文标题：
 
-> [我]如果我在这个世界上责备任何事情，那就是对我的神谕舌头的使用和对墓志铭的美妙扰乱！（理查德·谢里登，《情敌》，第三幕，第三场）
+> [我] 如果我在这个世界上责备任何事情，那就是对我的神谕舌头的使用和对墓志铭的美妙扰乱！（理查德 · 谢里登，《情敌》，第三幕，第三场）
 
 Captain Absolute 设法弄清楚了 Mrs Malaprop 讲话的第一个意义，即如果她理解（理解）任何事情，那就是她自己方言的使用和美妙的词语安排。Davidson 对这种情况下正在发生的事情提供了直观的描述，这个描述同样适用于常规的交流。然后，他认为这种交流描述与第一个意义是系统化、共享和准备好的——因此是传统的——的主张不相容。
 
@@ -153,7 +153,7 @@ H 的传递理论：H 实际上如何解释 S 话语中的表达式
 
 第二种策略是修改理论，以将一般智能作为一个核心要素纳入其中。这应该不会成为问题，因为刘易斯的理论是作为一种理想化而提出的。正如刘易斯所指出的，一般智能已经需要用来处理模糊性、指示性等现象。刘易斯并不是唯一声称如此的人。有人声称“言说的实用决定因素”在每一个话语中都起作用。（有关同一主题的更多信息，请参见语用学、语义学和语用学中的默认词条。）
 
-这个第二个策略本身可以以两种不同的方式发展，以显示它与Lewis的理论的广泛范围的兼容性。首先，可以承认不存在先前的L，关于这个L，真实和信任的约定都成立。然而，这些约定与他们的过渡理论相关。参与者从他们（潜在分歧的）先前理论加上一些普遍的智力得出这些过渡理论。此外，组合性在从先前理论中提取过渡理论中也起着重要作用，真实和信任的约定在结果中的过渡L中得到遵守。然而，组合性原则必须被削弱，以便不将其描述的严格语言过程视为完全决定意义，从而为额外的元素留出参与的空间。或者，如果拒绝了Lewis对语言的细粒度个体化，那么先前的L中可能存在真实和信任。根据这个理论的第二个版本，同一个L有时可能具有不同的句子-意义映射；或者，可以声称这些约定与不同的共同L或一组足够相似的语言相关。
+这个第二个策略本身可以以两种不同的方式发展，以显示它与 Lewis 的理论的广泛范围的兼容性。首先，可以承认不存在先前的 L，关于这个 L，真实和信任的约定都成立。然而，这些约定与他们的过渡理论相关。参与者从他们（潜在分歧的）先前理论加上一些普遍的智力得出这些过渡理论。此外，组合性在从先前理论中提取过渡理论中也起着重要作用，真实和信任的约定在结果中的过渡 L 中得到遵守。然而，组合性原则必须被削弱，以便不将其描述的严格语言过程视为完全决定意义，从而为额外的元素留出参与的空间。或者，如果拒绝了 Lewis 对语言的细粒度个体化，那么先前的 L 中可能存在真实和信任。根据这个理论的第二个版本，同一个 L 有时可能具有不同的句子-意义映射；或者，可以声称这些约定与不同的共同 L 或一组足够相似的语言相关。
 
 通过适当的推论，Lewis 的主要原则可能与 Davidson 对这些被认为是棘手的案例的描述完全兼容。即使在词语误用的情况下，说话者和听话者也试图通过使用共同的语言 L（即，共同的传递 L，共同的开放或动态 L，或共同的足够相似的 L 集合）来解决协调问题，并遵守真实性和信任的约定。当然，Lewis 必须包括某种形式的一般性解释推理，从而与他明显的假设相矛盾，即 L 的成功使用是完全系统化的（或组合的）。然而，值得考虑的是，这对 Lewis 的论述会造成多大的损害。似乎很明显，类似于 Lewis 的理论（包括他的组合性假设的适当弱化版本，例如 García-Ramírez 2019 中开发的版本）是必需的。
 
@@ -167,13 +167,13 @@ H 的传递理论：H 实际上如何解释 S 话语中的表达式
 
 一旦我们超越技术性，刘易斯对自然语言的概念接近于我们在语言社区中与他人交流所使用的普通概念。从这个角度来看，Chomsky 将语言视为人类思维或大脑内部的对象可能看起来很奇怪。我们可以通过欣赏这个“语言”的使用所产生的科学项目来消除这种奇怪感。如果一个使用与普通思维不符，但所属的项目是一个好项目，那么这种使用的反对并不能构成反对。普通思维可能难以接受质量作为能量的一种可能形式，但这并不会使物理学家停下来。
 
-乔姆斯基的项目是为了对一个自然对象——人脑——进行科学可信的理解。更具可行性的是，他的雄心是在理解与我们作为语言存在的核心相关的大脑方面取得进展。对于这样的调查，一个合理的起始假设是，大脑的一个功能离散部分——"语言能力"——负责我们使用语言的核心要素。如果这个假设是正确的，大脑的其他部分以及我们外部的社会和物理环境中的许多因素可能会与这个语言能力结合起来产生语言行为；但是调查本身仅限于理解语言能力本身。这种自愿限制是有理由的。我们的明显行为非常复杂，是一种棘手的相互作用效应，因此我们在解释上的雄心应该适度。对语言能力内部运作的科学理解本身就是一个巨大的成就。语言行为——语言使用者产生的声音，他们将某些结构描述为不符合语法等——可以为我们对语言能力本身提出的假设提供可废除的证据，但我们不应将对明显行为的描述视为研究的目标。（在早期的一个版本中，乔姆斯基区分了核心能力和在明显表现中体现出来的那种能力的使用，认为核心能力比后者更有前景成为语言研究的对象。但由于引起了持续的误解，他放弃了这种术语。例如，能力意外地具有规范性的内涵——我们说某人的"西班牙语能力差"。）
+乔姆斯基的项目是为了对一个自然对象——人脑——进行科学可信的理解。更具可行性的是，他的雄心是在理解与我们作为语言存在的核心相关的大脑方面取得进展。对于这样的调查，一个合理的起始假设是，大脑的一个功能离散部分——"语言能力"——负责我们使用语言的核心要素。如果这个假设是正确的，大脑的其他部分以及我们外部的社会和物理环境中的许多因素可能会与这个语言能力结合起来产生语言行为；但是调查本身仅限于理解语言能力本身。这种自愿限制是有理由的。我们的明显行为非常复杂，是一种棘手的相互作用效应，因此我们在解释上的雄心应该适度。对语言能力内部运作的科学理解本身就是一个巨大的成就。语言行为——语言使用者产生的声音，他们将某些结构描述为不符合语法等——可以为我们对语言能力本身提出的假设提供可废除的证据，但我们不应将对明显行为的描述视为研究的目标。（在早期的一个版本中，乔姆斯基区分了核心能力和在明显表现中体现出来的那种能力的使用，认为核心能力比后者更有前景成为语言研究的对象。但由于引起了持续的误解，他放弃了这种术语。例如，能力意外地具有规范性的内涵——我们说某人的 "西班牙语能力差"。）
 
 虽然这捕捉到了乔姆斯基以内在主义（和个人主义）的方式来研究语言的意义，但它还没有揭示语言的概念（无论是内在化还是其他方式）在这种方式中的位置，或者为什么需要对语言（将“语言”用作可数名词而不是不可数名词）进行任何引用。乔姆斯基对语言习得的讨论可以为我们提供一个很好的例证。它还将与刘易斯的方式形成鲜明对比（见 2.1）。
 
 正如我们所见，刘易斯认为语言是句子和意义的任意配对。这种任意性通过在传统实践中体现的协调来克服，这在乔姆斯基的术语中被称为 E-语言。乔姆斯基并不否认某种语言的任意性的存在，这种任意性在语言多样性中得到体现，但他认为这种多样性受到人类心理学的限制（1995a: 15f）。根据乔姆斯基拒绝的“学习”语言发展模型，婴儿是小科学家，观察和推断成年人使用的语言约定（例如，在某种 L 中保持真实和信任）。但是，这些学习者不可能将与数据逻辑兼容的语言缩小到只剩下一种。即使孩子非常聪明，典型的语言环境中可用的证据也不足够丰富-存在“刺激的贫乏”。如果孩子环境中的信息太少以解释她的能力发展，那么先前的知识必须为她提供心理支撑（参见劳伦斯和马戈利斯 2001 年的文章以及与先天性和语言相关的条目）。
 
-这是根据乔姆斯基（1986: 22–3; 2000: 4–5）的观点，介绍个人方言的背景。语言习得可以被看作是大脑从S0状态通过中间状态发展到相对稳定的成熟状态SM的过程。S0是所有人类共有的初始状态，理想化地排除个体语言障碍等因素。随后的状态是通过接触特定的语言环境而产生的。到目前为止，所说的并不要求将这些状态看作是我们可以称之为“掌握一门语言”的表征状态。但是，如果我们将处于SL状态描述为掌握一门语言L，这种语言知识可以在L的理论中由语言学家明确表达，那么语言习得可以被描述为儿童在获得成人能力之前通过各种知识阶段的演化过程。这种描述是有用的，因为经验主义者/先天主义者的争论现在可以被看作是关于在S0状态下必须已经知道哪些语言信息，以使语言环境提供的信息最终能够导致对成熟语言M的知识的争论。经验主义者声称不需要太多的信息，S0是一个“空白板”，可以使用环境数据填充。先天主义者声称必须已经提供了大量的信息，以内在地掌握一种被乔姆斯基称为“通用语法（UG）”的语言的知识形式。我们每个人都有倾向于习得只有某些语言的先天条件，这些语言是可以从UG中发展出来的人类可能的语言。
+这是根据乔姆斯基（1986: 22–3; 2000: 4–5）的观点，介绍个人方言的背景。语言习得可以被看作是大脑从 S0 状态通过中间状态发展到相对稳定的成熟状态 SM 的过程。S0 是所有人类共有的初始状态，理想化地排除个体语言障碍等因素。随后的状态是通过接触特定的语言环境而产生的。到目前为止，所说的并不要求将这些状态看作是我们可以称之为“掌握一门语言”的表征状态。但是，如果我们将处于 SL 状态描述为掌握一门语言 L，这种语言知识可以在 L 的理论中由语言学家明确表达，那么语言习得可以被描述为儿童在获得成人能力之前通过各种知识阶段的演化过程。这种描述是有用的，因为经验主义者/先天主义者的争论现在可以被看作是关于在 S0 状态下必须已经知道哪些语言信息，以使语言环境提供的信息最终能够导致对成熟语言 M 的知识的争论。经验主义者声称不需要太多的信息，S0 是一个“空白板”，可以使用环境数据填充。先天主义者声称必须已经提供了大量的信息，以内在地掌握一种被乔姆斯基称为“通用语法（UG）”的语言的知识形式。我们每个人都有倾向于习得只有某些语言的先天条件，这些语言是可以从 UG 中发展出来的人类可能的语言。
 
 一个个人方言，是指在一个（理想化的）个体的语言能力中以特定发展阶段表示的东西。但它并不超出语言能力的范畴。关于个人方言在大脑中的表示的陈述是“关于从某种程度上对机制进行抽象的大脑结构的陈述”（1986: 33）。换句话说，将语言能力描述为表示某些信息只是在其他方式之一中对语言能力进行抽象描述的一种方式，它是人类的“器官”（Chomsky 1975: 10; Anderson & Lightfoot 2000）。另一种方式可能是用化学术语来描述，但在解释语言习得的背景下，表示主义的描述比化学描述更有帮助，原因就是刚才概述的。一个个人的语法，换句话说，是对这个个人方言的抽象陈述，但它所声称描述的是他们的语言能力，而不是外部的东西。
 
@@ -181,9 +181,9 @@ H 的传递理论：H 实际上如何解释 S 话语中的表达式
 
 #### 3.1.2 反对个人方言的案例
 
-乔姆斯基并不否认语言（以质量名词的意义）至少在某种程度上是“社会产品”（1986年：18）。例如，他引用了普特南的著名“语言劳动分工”假设（普特南1975年），并认为，适当描述的话，语义顺从现象与他的内化观点是相容的。他提供了一些例子（1986年：19）：布卢姆菲尔德认为语言是一个可以在言语社区中进行的话语的总体；索绪尔的语言观念（将声音与概念的任意关联）；以及刘易斯将句子和意义配对的观点，当前述的规律成立时，它是人口的实际语言。乔姆斯基还包括任何行为或行为系统，其中这个系统是个人主义的，但是是由与语言能力和彼此交互的众多表现系统产生的。在E-语言方法中，语法旨在描述这些与心智外部（或至少与语言能力外部）相关的实体。
+乔姆斯基并不否认语言（以质量名词的意义）至少在某种程度上是“社会产品”（1986 年：18）。例如，他引用了普特南的著名“语言劳动分工”假设（普特南 1975 年），并认为，适当描述的话，语义顺从现象与他的内化观点是相容的。他提供了一些例子（1986 年：19）：布卢姆菲尔德认为语言是一个可以在言语社区中进行的话语的总体；索绪尔的语言观念（将声音与概念的任意关联）；以及刘易斯将句子和意义配对的观点，当前述的规律成立时，它是人口的实际语言。乔姆斯基还包括任何行为或行为系统，其中这个系统是个人主义的，但是是由与语言能力和彼此交互的众多表现系统产生的。在 E-语言方法中，语法旨在描述这些与心智外部（或至少与语言能力外部）相关的实体。
 
-因为在语言的基本概念上存在相当大的差异，乔姆斯基的批评似乎是笼统的，但其基本思想是，由于外部语言（E-languages）比内部语言（I-languages）更不“真实”，“[外部语言的]概念在语言理论中似乎没有起到任何作用”（1986: 26）。对于这个否定性结论的论证与3.1.1中概述的内部语言观点的肯定性论证并没有太大的不同。语言行为既是语言能力的产物，也受到个体心智/大脑中的表现系统和社会因素的影响。问题不在于是否可以有关于这些“下游”效应的有用言论，而在于外部语言的概念是否在其中起到了关键的解释作用（除了作为一个有用的简写）。例如，在3.1.1中对语言学习的描述中，并没有太多关于将其描述为朝着学习外部指定的社会语言的发展，而不是个体的某种特定成熟状态SM的添加。
+因为在语言的基本概念上存在相当大的差异，乔姆斯基的批评似乎是笼统的，但其基本思想是，由于外部语言（E-languages）比内部语言（I-languages）更不“真实”，“[外部语言的] 概念在语言理论中似乎没有起到任何作用”（1986: 26）。对于这个否定性结论的论证与 3.1.1 中概述的内部语言观点的肯定性论证并没有太大的不同。语言行为既是语言能力的产物，也受到个体心智/大脑中的表现系统和社会因素的影响。问题不在于是否可以有关于这些“下游”效应的有用言论，而在于外部语言的概念是否在其中起到了关键的解释作用（除了作为一个有用的简写）。例如，在 3.1.1 中对语言学习的描述中，并没有太多关于将其描述为朝着学习外部指定的社会语言的发展，而不是个体的某种特定成熟状态 SM 的添加。
 
 这其中一个明显的推论对于那些为英语构建意义理论而苦苦思索的众多语言哲学家来说具有重要意义。一个普遍的观点是，这样的理论应该采取英语表达式的指称特性的形式——即词语与世界中的对象之间的联系——从中可以推导出所有英语句子的真值条件（例如，戴维森 1970 年，蒙塔古 1970 年；请参阅有关意义和指称理论的条目）。乔姆斯基（Chomsky）在回应 P.F.斯特劳森（Strawson）（1950 年）的观点时指出，指称是人们所做的事情。诚然，他们在使用词语时是在指称，但指称并不是词语通过某种奇幻的媒介自行完成的事情（乔姆斯基 2000 年：40-1）。如果表达式的指称特性确实有意义，而不仅仅是表达式与外部对象之间的关系特性（或“词-世界”关系），那么它们应该被视为对个体概念系统的指令的体现，这是语言能力与之接口的性能系统之一（这个想法在杰肯多夫 2002 年得到了探讨）。如果乔姆斯基是正确的，那么语言哲学的很大一部分要么完全偏离了轨道，要么需要进行相当大的重新解释（请参阅霍恩斯坦 1989 年，拉德洛 2003 年，皮特罗斯基 2003 年，斯坦顿 2006 年）。
 
@@ -191,17 +191,17 @@ H 的传递理论：H 实际上如何解释 S 话语中的表达式
 
 对乔姆斯基的内在主义以及由此暗示的 I-语言概念的批评可以追溯到半个多世纪以前，他对此做出了回应。乔治（George）1989 年、麦吉尔弗雷（McGilvray）1999 年和安东尼和霍恩斯坦（Antony and Hornstein）2003 年的三个文集中包含了一整套哲学评论。在本节和下一节中，我们将重点关注一些特别重要的问题。
 
-许多评论家都关注到在乔姆斯基的术语中隐含的外在主义承诺，而这一点他们认为是未被承认的。这个指责可以使用他用来表达他的内在主义的不同措辞之一来提出，包括能力、知识和表征。对于第一个：能力意味着在某个方面的能力。如果这个能力是以语言能力本身来定义的，那么就不会有无能的情况，这样对能力的讨论就变得毫无意义。错误将是不可能的（参见巴伯2001年）。对于第二个：知识意味着某种已知的东西-一个外部语言或其属性的某个子集。乔姆斯基将这些批评描述为对他观点的误解，并表示他在技术上使用能力和知识这些术语，而不是完全按照普通用法。他偶尔提出“认知”作为一个替代术语，以防止混淆，其中认知一种I-语言就是它在个人的语言能力中被表征（5）。最近对这一批评的迭代因此更加关注表征。似乎没有什么可以被表征的东西，而不是被表征的东西-某种外部于进行表征的事物，因此外部于语言能力甚至个人。乔姆斯基的回应是说，他并不是在使用表征的关系意义上，而是在（1995a: 53和Antony和Hornstein 2003: 276-7）中的表征。
+许多评论家都关注到在乔姆斯基的术语中隐含的外在主义承诺，而这一点他们认为是未被承认的。这个指责可以使用他用来表达他的内在主义的不同措辞之一来提出，包括能力、知识和表征。对于第一个：能力意味着在某个方面的能力。如果这个能力是以语言能力本身来定义的，那么就不会有无能的情况，这样对能力的讨论就变得毫无意义。错误将是不可能的（参见巴伯 2001 年）。对于第二个：知识意味着某种已知的东西-一个外部语言或其属性的某个子集。乔姆斯基将这些批评描述为对他观点的误解，并表示他在技术上使用能力和知识这些术语，而不是完全按照普通用法。他偶尔提出“认知”作为一个替代术语，以防止混淆，其中认知一种 I-语言就是它在个人的语言能力中被表征（5）。最近对这一批评的迭代因此更加关注表征。似乎没有什么可以被表征的东西，而不是被表征的东西-某种外部于进行表征的事物，因此外部于语言能力甚至个人。乔姆斯基的回应是说，他并不是在使用表征的关系意义上，而是在（1995a: 53 和 Antony 和 Hornstein 2003: 276-7）中的表征。
 
-表征的概念对于认知科学非常重要，这是一个许多心灵和语言哲学家共同关注的话题，他们与乔姆斯基的自然主义倾向相一致。后者中的许多人对他拒绝关系表征的概念（其中关系是在心灵/大脑中的表征工具与它们所代表的事物之间的关系）以及试图用自然主义语言来定义这种关系（参见心智内容、意向性和心理表征的因果理论）感到惊讶和困惑。例如，乔治·雷（Georges Rey）认为，表征的内涵性和“关于性”对于计算-表征心理理论至关重要，而正是这一理论他和其他人认为乔姆斯基的工作已经帮助激发和塑造（雷 2003a、b 和 2005）。雷得出结论，乔姆斯基对自己理论的地位是错误的，并提供了他认为更加宽容的解释：表征是关于某事物的，但通常是不准确的，且无害的。
+表征的概念对于认知科学非常重要，这是一个许多心灵和语言哲学家共同关注的话题，他们与乔姆斯基的自然主义倾向相一致。后者中的许多人对他拒绝关系表征的概念（其中关系是在心灵/大脑中的表征工具与它们所代表的事物之间的关系）以及试图用自然主义语言来定义这种关系（参见心智内容、意向性和心理表征的因果理论）感到惊讶和困惑。例如，乔治 · 雷（Georges Rey）认为，表征的内涵性和“关于性”对于计算-表征心理理论至关重要，而正是这一理论他和其他人认为乔姆斯基的工作已经帮助激发和塑造（雷 2003a、b 和 2005）。雷得出结论，乔姆斯基对自己理论的地位是错误的，并提供了他认为更加宽容的解释：表征是关于某事物的，但通常是不准确的，且无害的。
 
-在之前的介绍中（3.1.1），我们试图捕捉乔姆斯基的非关系表征概念，将某物描述为代表 I-语言只是一种抽象描述的方式。约翰·科林斯（John Collins）更进一步，以证明可能存在没有代表物的表征（2014）。他说，采用“二元表征性谈话”有助于我们“构建关于一元表征状态的概括”，代表物只不过是语法学家试图对心灵/大脑可能处于或经历的非关系状态进行分类的副产品。调用它们并不会对描述的心灵/大脑外部语言产生任何本体论承诺。
+在之前的介绍中（3.1.1），我们试图捕捉乔姆斯基的非关系表征概念，将某物描述为代表 I-语言只是一种抽象描述的方式。约翰 · 科林斯（John Collins）更进一步，以证明可能存在没有代表物的表征（2014）。他说，采用“二元表征性谈话”有助于我们“构建关于一元表征状态的概括”，代表物只不过是语法学家试图对心灵/大脑可能处于或经历的非关系状态进行分类的副产品。调用它们并不会对描述的心灵/大脑外部语言产生任何本体论承诺。
 
-弗朗西斯·伊根（Frances Egan）持有一种观点，似乎捕捉到了乔姆斯基对表示的态度，并在认知解释中（一般情况下以及语言学中）为关系性的表示内容留出了空间（并看到了需要）。根据伊根（2003 年，2014 年）的说法，表示内容——即二元的概念，在认知解释中起着作用，但不是按照正统观点的方式。仅仅是内部的计算机制本身，未经解释，就能进行解释。这个机制具有的表示内容仅仅在解释中才起作用。它被用来指定解释的对象。这个解释的对象，以及对它的内容的任何分配，通常会被相当模糊地描述，甚至可能无法对应到任何真实的东西。
+弗朗西斯 · 伊根（Frances Egan）持有一种观点，似乎捕捉到了乔姆斯基对表示的态度，并在认知解释中（一般情况下以及语言学中）为关系性的表示内容留出了空间（并看到了需要）。根据伊根（2003 年，2014 年）的说法，表示内容——即二元的概念，在认知解释中起着作用，但不是按照正统观点的方式。仅仅是内部的计算机制本身，未经解释，就能进行解释。这个机制具有的表示内容仅仅在解释中才起作用。它被用来指定解释的对象。这个解释的对象，以及对它的内容的任何分配，通常会被相当模糊地描述，甚至可能无法对应到任何真实的东西。
 
-> 因为计算机制在每个环境中都不会追踪这些[外部]属性，所以设备的语义解释不是一个必要的特征描述，并且不能用来个体化它。然而，语义解释使我们能够指定机制的认知功能，例如计算[视觉]深度差异，或者计算句子的句法结构。（伊根 2014 年：98）
+> 因为计算机制在每个环境中都不会追踪这些 [外部] 属性，所以设备的语义解释不是一个必要的特征描述，并且不能用来个体化它。然而，语义解释使我们能够指定机制的认知功能，例如计算 [视觉] 深度差异，或者计算句子的句法结构。（伊根 2014 年：98）
 
-这可以说是与乔姆斯基对语言能力的描述“提供指令”给性能系统（1995b：15）的精神相同。例如，语言能力中对应于语法元素[voiced coronal sibilant]的表示并不代表口腔的运动（例如英语单词 zebra 的开头发出的声音），但它们可能仍然是解释为什么人在特定情况下以特定方式运动口腔的因果故事的一部分。
+这可以说是与乔姆斯基对语言能力的描述“提供指令”给性能系统（1995b：15）的精神相同。例如，语言能力中对应于语法元素 [voiced coronal sibilant] 的表示并不代表口腔的运动（例如英语单词 zebra 的开头发出的声音），但它们可能仍然是解释为什么人在特定情况下以特定方式运动口腔的因果故事的一部分。
 
 许多参与这场辩论的人关注的是像 Kaniza 的三角幻觉中的边缘（图 1）或 PRO（在声音流中没有对应物的句法成分）等案例。问题的核心似乎是如何看待这样一个事实：在我们的心智中没有边缘或句法成分之外的边缘或句法成分。甚至对于共同语言的概念也可能如此。我们对于认知解释的本质以及其中通常涉及的表征概念的理解尚未确定，这关系到认知科学哲学的核心。
 
@@ -215,7 +215,7 @@ H 的传递理论：H 实际上如何解释 S 话语中的表达式
 
 心理语言学对明显的语言行为的研究使得几个不同的调查受益。这些调查包括关于语言知识不同领域的相对自主性的问题，例如：句法、语义和语用是否彼此独立，还是相互支持？（参见 Gleitman，Cassidy 等人 2005；Gleitman 1990；Naigles 和 Swensen 2007；以及 Diesendruck 2007）；以及关于儿童在语言习得过程中的角色的问题：儿童是被动的主体，还是她所在语言社区中的积极参与者（参见 Shatz 1987、1994；Shafer 和 Garrido-Nag 2007；以及 Poulin-Dubois 和 Graham 2007）？
 
-我们在3.1.1和3.1.2节中看到，乔姆斯基对I语言的支持和对E语言的反对与刺激贫乏假设紧密相连。这被用来辩护人类语言仅仅是UG修改的主张，并且语言习得和发展的过程就是这种修改的过程。但研究表明，儿童可能从社会输入中获取并依赖于丰富的内容和结构（参见鲍德温和迈耶2007年）。在面向儿童的语言中，成年人使用词汇的方式使儿童更容易识别相关信息（参见布伦特和西斯金德2001年；阿赫塔尔、邓纳姆和邓纳姆1991年），这表明社会输入对语义知识的发展非常重要。即使我们将UG假设限制为关于句法的主张，也存在经验上的挑战。根据这种更有限的解读，句法过程的习得“主要依赖于内在结构原则的运作”（鲍德温和迈耶2007年：95）。在这种观点下，社会输入只起到触发作用。进一步的研究表明，这一假设具有争议。替代的社会语用学解释表明，儿童可以从成年人的语言使用中学习句法（参见托马塞洛2003年，2004年）。儿童的统计分析、模式和意图识别的领域通用能力被认为有助于儿童从他们接收到的社会语言输入中识别和习得句法结构（参见萨弗兰、阿斯林和纽波特1996年；根特纳、霍利奥克和科基诺夫2001年）。总的来说，心理语言学研究获得的经验证据强烈表明，语言习得和发展远不止是UG通过心智/大脑成熟的方式进行修改的过程。
+我们在 3.1.1 和 3.1.2 节中看到，乔姆斯基对 I 语言的支持和对 E 语言的反对与刺激贫乏假设紧密相连。这被用来辩护人类语言仅仅是 UG 修改的主张，并且语言习得和发展的过程就是这种修改的过程。但研究表明，儿童可能从社会输入中获取并依赖于丰富的内容和结构（参见鲍德温和迈耶 2007 年）。在面向儿童的语言中，成年人使用词汇的方式使儿童更容易识别相关信息（参见布伦特和西斯金德 2001 年；阿赫塔尔、邓纳姆和邓纳姆 1991 年），这表明社会输入对语义知识的发展非常重要。即使我们将 UG 假设限制为关于句法的主张，也存在经验上的挑战。根据这种更有限的解读，句法过程的习得“主要依赖于内在结构原则的运作”（鲍德温和迈耶 2007 年：95）。在这种观点下，社会输入只起到触发作用。进一步的研究表明，这一假设具有争议。替代的社会语用学解释表明，儿童可以从成年人的语言使用中学习句法（参见托马塞洛 2003 年，2004 年）。儿童的统计分析、模式和意图识别的领域通用能力被认为有助于儿童从他们接收到的社会语言输入中识别和习得句法结构（参见萨弗兰、阿斯林和纽波特 1996 年；根特纳、霍利奥克和科基诺夫 2001 年）。总的来说，心理语言学研究获得的经验证据强烈表明，语言习得和发展远不止是 UG 通过心智/大脑成熟的方式进行修改的过程。
 
 然而，这些辩论的发展，有两点似乎是清楚的。首先，语言的外部、反个人主义、与心智无关的属性，包括明显的语言行为，适合进行适当的科学研究。这对于乔姆斯基观点的威胁有多大，是一个值得辩论的问题，因为正如我们在 3.1.2 节中看到的，他坚称自己并没有否认语言至少在某种程度上是社会产品；但是，基于这些结果所做的主张似乎与他的内在主义的主旨相悖。其次，与乔姆斯基的怀疑不同，有充分的理由开展这种对外部影响的研究，因为它可能对于正确理解人类语言及其习得的语义，甚至语法和句法都至关重要。
 
@@ -229,95 +229,95 @@ Lewis 1975 中使用的约定理论在他早期的著作（1969）中得到了�
 
 McGilvray 1999 和 Smith 和 Allott 2016 都提供了对 Chomsky 的语言哲学和语言学的清晰介绍，包括他的 E-/I-语言区分。关于这个特定主题的简短介绍可以在 Bezuidenhout 2006 中找到。批判性讨论可以在五个文集中找到：George 1989，Otero 1994（第二卷），Antony 和 Hornstein 2003，Barber 2003 和 McGilvray 2005。Chomsky 自己的非技术性写作通常很容易理解。好的起点可以是 Chomsky 1986 的第二章，Chomsky 2000 中的文章（其中一些也出现在他的 1995a 中），或者他的 1995b 的第 1 章的早期部分（与 Howard Lasnik 合著）。
 
-Hoff和Shatz在2007年提供了对语言发展领域的优秀概述，包括基础问题以及婴幼儿期、幼儿期和非典型发展中的句法、语义和语用主题。
+Hoff 和 Shatz 在 2007 年提供了对语言发展领域的优秀概述，包括基础问题以及婴幼儿期、幼儿期和非典型发展中的句法、语义和语用主题。
 
 ## Bibliography
 
-* Akhtar, Nameera, Frances Dunham, and Philip J. Dunham, 1991, “Directive Interactions and Early Vocabulary Development: The Role of Joint Attentional Focus”, *Journal of Child Language*, 18(1): 41–49. doi:10.1017/S0305000900013283
-* Anderson, Stephen R. & David W. Lightfoot, 2000, “The Human Language Faculty as an Organ”, *Annual Review of Physiology*, 62: 697–722. doi:10.1146/annurev.physiol.62.1.697
-* Antony, Louise M. and Norbert Hornstein (eds), 2003, *Chomsky and His Critics*, New York: Blackwell. doi:10.1002/9780470690024
-* Baldwin, Dare and Meredith Meyer, 2007, “How Inherently Social is Language?”, in Hoff and Shatz 2007: chapter 5. doi:10.1002/9780470757833.ch5
-* Barber, Alex, 2001, “Idiolectal Error”, *Mind and Language*, 16(3): 263–83. doi:10.1111/1468-0017.00169
+* Akhtar, Nameera, Frances Dunham, and Philip J. Dunham, 1991, “Directive Interactions and Early Vocabulary Development: The Role of Joint Attentional Focus”, *Journal of Child Language*, 18(1): 41–49. doi: 10.1017/S0305000900013283
+* Anderson, Stephen R. & David W. Lightfoot, 2000, “The Human Language Faculty as an Organ”, *Annual Review of Physiology*, 62: 697–722. doi: 10.1146/annurev.physiol.62.1.697
+* Antony, Louise M. and Norbert Hornstein (eds), 2003, *Chomsky and His Critics*, New York: Blackwell. doi: 10.1002/9780470690024
+* Baldwin, Dare and Meredith Meyer, 2007, “How Inherently Social is Language?”, in Hoff and Shatz 2007: chapter 5. doi: 10.1002/9780470757833.ch5
+* Barber, Alex, 2001, “Idiolectal Error”, *Mind and Language*, 16(3): 263–83. doi: 10.1111/1468-0017.00169
 * –––, (ed.), 2003, *Epistemology of Language*, Oxford: Oxford University Press.
-* Begby, Endre and Bjørn Torgrim Ramberg, 2016, “Davidson’s Derangement Revisited: Guest Editors’ Introduction”, *Inquiry*, 59(1): 1–5. doi:10.1080/0020174X.2015.1122314
+* Begby, Endre and Bjørn Torgrim Ramberg, 2016, “Davidson’s Derangement Revisited: Guest Editors’ Introduction”, *Inquiry*, 59(1): 1–5. doi: 10.1080/0020174X.2015.1122314
 * Bennett, Jonathan, 1976, *Linguistic Behaviour*, Cambridge: Cambridge University Press.
-* Bezuidenhout, Anne L., 2006, “Language as Internal”, in Lepore and Smith 2006: 127–39. doi:10.1093/oxfordhb/9780199552238.003.0005
-* Borg, Emma, 2004, *Minimal Semantics*, Oxford: Oxford University Press. doi:10.1093/0199270252.001.0001
-* Brent, Michael R. and Jeffrey Mark Siskind, 2001, “The Role of Exposure to Isolated Words in Early Vocabulary Development”, *Cognition*, 81(2): B33–B44. doi:10.1016/S0010-0277(01)00122-6
-* Burge, Tyler, 1975, “On Knowledge and Convention”, *Philosophical Review*, 84(2): 249–55. doi:10.2307/2183970
-* Cappelen, Herman and Erenest Lepore, 2005, *Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism*, New York: Wiley-Blackwell. doi:10.1002/9780470755792
-* Carston, Robyn, 2002, *Thoughts and Utterances: The Pragmatics of Explicity Communication*, Oxford: Blackwell. doi:10.1002/9780470754603
-* Chomsky, Noam, 1959, “A Review of B. F. Skinner’s ‘Verbal Behavior’”, *Language*, 35(1): 26–58. doi:10.2307/411334
+* Bezuidenhout, Anne L., 2006, “Language as Internal”, in Lepore and Smith 2006: 127–39. doi: 10.1093/oxfordhb/9780199552238.003.0005
+* Borg, Emma, 2004, *Minimal Semantics*, Oxford: Oxford University Press. doi: 10.1093/0199270252.001.0001
+* Brent, Michael R. and Jeffrey Mark Siskind, 2001, “The Role of Exposure to Isolated Words in Early Vocabulary Development”, *Cognition*, 81(2): B33–B44. doi: 10.1016/S0010-0277(01)00122-6
+* Burge, Tyler, 1975, “On Knowledge and Convention”, *Philosophical Review*, 84(2): 249–55. doi: 10.2307/2183970
+* Cappelen, Herman and Erenest Lepore, 2005, *Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism*, New York: Wiley-Blackwell. doi: 10.1002/9780470755792
+* Carston, Robyn, 2002, *Thoughts and Utterances: The Pragmatics of Explicity Communication*, Oxford: Blackwell. doi: 10.1002/9780470754603
+* Chomsky, Noam, 1959, “A Review of B. F. Skinner’s ‘Verbal Behavior’”, *Language*, 35(1): 26–58. doi: 10.2307/411334
 * –––, 1975, *Reflections on Language*, New York: Pantheon.
 * –––, 1986, *Knowledge of Language: Its Nature, Origin, and Use*, New York: Praeger.
-* –––, 1995a, “Language and Nature”, *Mind*, 104(413): 1–61. doi:10.1093/mind/104.413.1
+* –––, 1995a, “Language and Nature”, *Mind*, 104(413): 1–61. doi: 10.1093/mind/104.413.1
 * –––, 1995b, *The Minimalist Program*, Cambridge, MA: MIT Press. Chapter 1, pp. 13–127, co-authored with Howard Lasnik.
 * –––, 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
-* Collins, John, 2014, “Representations Without Representata: Content and Illusion in Linguistic Theory”, in Piotr Stalmaszczyk (ed.), *Semantics and Beyond: Philosophical and Linguistic Inquiries*, Boston: Walter de Gruyter, pp. 27–64. doi:10.1515/9783110362480.27
+* Collins, John, 2014, “Representations Without Representata: Content and Illusion in Linguistic Theory”, in Piotr Stalmaszczyk (ed.), *Semantics and Beyond: Philosophical and Linguistic Inquiries*, Boston: Walter de Gruyter, pp. 27–64. doi: 10.1515/9783110362480.27
 * Crystal, David, 2007, *The Fight for English: How Language Pundits Ate, Shot, and Left*, Oxford: Oxford University Press.
-* Davidson, Donald, 1970, “Semantics for Natural Languages”, in Visentini et al. 1970: 177–88; reprinted in Davidson 1984: 55–64. doi:10.1093/0199246297.003.0004
+* Davidson, Donald, 1970, “Semantics for Natural Languages”, in Visentini et al. 1970: 177–88; reprinted in Davidson 1984: 55–64. doi: 10.1093/0199246297.003.0004
 * –––, 1984, *Inquiries into Truth and Interpretation*, New York: Oxford University Press.
 * –––, 1986, “A Nice Derangement of Epitaphs”, in Lepore 1986: 433–446.
-* Diesendruck, Gil, 2007, “Mechanisms of Word Learning”, in Hoff and Shatz 2007: chapter 13. doi:10.1002/9780470757833.ch13
+* Diesendruck, Gil, 2007, “Mechanisms of Word Learning”, in Hoff and Shatz 2007: chapter 13. doi: 10.1002/9780470757833.ch13
 * Dummett, Michael, 1986, “A Nice Derangement of Epitaphs: Some Comments on Davidson and Hacking”, in Lepore 1986: 459–76.
-* Egan, Frances, 2003, “Naturalistic Inquiry: Where does Mental Representation Fit in?” in Antony and Hornstein 2003: 88–104. doi:10.1002/9780470690024.ch4
-* –––, 2014, “How to Think About Mental Content”, *Philosophical Studies*, 170(1): 115–35. doi:10.1007/s11098-013-0172-0
+* Egan, Frances, 2003, “Naturalistic Inquiry: Where does Mental Representation Fit in?” in Antony and Hornstein 2003: 88–104. doi: 10.1002/9780470690024.ch4
+* –––, 2014, “How to Think About Mental Content”, *Philosophical Studies*, 170(1): 115–35. doi: 10.1007/s11098-013-0172-0
 * Fodor, Jerry A., 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
 * García-Ramírez, E., 2019, *Open Compositionality: Toward a New Methodology of Language*, Maryland: Lexington Books.
 * Gentner, Dedre, Keith J. Holyoak, and Boicho N. Kokinov (eds.) 2001. *The Analogical Mind*, Cambridge, MA: MIT Press.
 * George, Alexander L. (ed.), 1989, *Reflections on Chomsky*, Oxford: Blackwell.
-* –––, 1990, “Whose Language Is It Anyway? Some Notes on Idiolects”, *Philosophical Quarterly*, 40(160): 275–98. doi:10.2307/2219723
+* –––, 1990, “Whose Language Is It Anyway? Some Notes on Idiolects”, *Philosophical Quarterly*, 40(160): 275–98. doi: 10.2307/2219723
 * Glass, Arnold Lewis, Keith James Holyoak, and John Lester Santa, 1979, *Cognition*, Reading, MA: Addison-Wesley.
-* Gleitman, Lila, 1990, “The Structural Sources of Verb Meanings”, *Language Acquisition*, 1(1): 3–55. doi:10.1207/s15327817la0101_2
-* Gleitman, Lila R., Kimberly Cassidy, Rebecca Nappa, Anna Papafragou, and John C. Trueswell, 2005, “Hard Words”, *Language Learning and Development*, 1(1): 23–64. doi:10.1207/s15473341lld0101_4
-* Grice, H.P., 1957, “Meaning”, *Philosophical Review*, 66(3): 377–88. doi:10.2307/2182440
+* Gleitman, Lila, 1990, “The Structural Sources of Verb Meanings”, *Language Acquisition*, 1(1): 3–55. doi: 10.1207/s15327817la0101_2
+* Gleitman, Lila R., Kimberly Cassidy, Rebecca Nappa, Anna Papafragou, and John C. Trueswell, 2005, “Hard Words”, *Language Learning and Development*, 1(1): 23–64. doi: 10.1207/s15473341lld0101_4
+* Grice, H.P., 1957, “Meaning”, *Philosophical Review*, 66(3): 377–88. doi: 10.2307/2182440
 * –––, 1975, “Logic and Conversation”, in P. Cole and J. Morgan (eds.), *Syntax and Semantics*, Volume 3. London: Academic Press. Reprinted in H. P. Grice, *Studies in the Way of Words*, Cambridge, Mass.: Harvard University Press, 1989.
 * Gunderson, Keith (ed.), 1975, *Language, Mind, and Knowledge* (Minnesota Studies in the Philosophy of Science, Volume 7), Minneapolis: University of Minnesota Press. [[Gunderson 1975 papers are available online](http://mcps.umn.edu/philosophy/completeVol7.html)]
 * Hacking, Ian, 1986, “The Parody of Conversation”, in Lepore 1986: 447–58.
-* Higginbotham, James, 2006, “Languages and Idiolects: Their Language and Ours”, in Lepore and Smith 2006: 140–50. doi:10.1093/oxfordhb/9780199552238.003.0006
-* Hoff, Erika and Marilyn Shatz (eds), 2007, *Blackwell Handbook of Language Development*, Blackwell Publishing. doi:10.1002/9780470757833
+* Higginbotham, James, 2006, “Languages and Idiolects: Their Language and Ours”, in Lepore and Smith 2006: 140–50. doi: 10.1093/oxfordhb/9780199552238.003.0006
+* Hoff, Erika and Marilyn Shatz (eds), 2007, *Blackwell Handbook of Language Development*, Blackwell Publishing. doi: 10.1002/9780470757833
 * Hornstein, Norbert, 1989, “Meaning and the Mental: The Problem of Semantics After Chomsky”, in George 1989: 23–40.
-* Jackendoff, Ray, 2002, *Foundations of Language: Brain, Meaning, Grammar, Evolution*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198270126.001.0001
-* Laurence, Stephen, 1996, “A Chomskian Alternative to Convention-Based Semantics”, *Mind*, 105(418): 269–301. doi:10.1093/mind/105.418.269
-* Laurence, Stephen and Eric Margolis, 2001, “The Poverty of the Stimulus Argument”, *British Journal for the Philosophy of Science*, 52(2): 217–76. doi:10.1093/bjps/52.2.217
+* Jackendoff, Ray, 2002, *Foundations of Language: Brain, Meaning, Grammar, Evolution*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198270126.001.0001
+* Laurence, Stephen, 1996, “A Chomskian Alternative to Convention-Based Semantics”, *Mind*, 105(418): 269–301. doi: 10.1093/mind/105.418.269
+* Laurence, Stephen and Eric Margolis, 2001, “The Poverty of the Stimulus Argument”, *British Journal for the Philosophy of Science*, 52(2): 217–76. doi: 10.1093/bjps/52.2.217
 * Lepore, Ernest (ed.), 1986, *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson*, Cambridge: Blackwell.
-* Lepore, Ernest and Barry C. Smith (eds.), 2006, *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199552238.001.0001
+* Lepore, Ernest and Barry C. Smith (eds.), 2006, *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press. doi: 10.1093/oxfordhb/9780199552238.001.0001
 * Lewis, David K., 1969, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
-* –––, [1975] 1983, “Languages and Language”, in Gunderson 1975: 3–35. Page references are to the reprint in D. Lewis, *Philosophical Papers* (Volume 1), New York: Oxford University Press, 1983, pp. 163–188. doi:10.1093/0195032047.003.0011
-* Ludlow, Peter, 2003, “Referential Semantics for I-languages?” in Antony and Hornstein 2003: 140–61. doi:10.1002/9780470690024.ch6
+* –––, [1975] 1983, “Languages and Language”, in Gunderson 1975: 3–35. Page references are to the reprint in D. Lewis, *Philosophical Papers* (Volume 1), New York: Oxford University Press, 1983, pp. 163–188. doi: 10.1093/0195032047.003.0011
+* Ludlow, Peter, 2003, “Referential Semantics for I-languages?” in Antony and Hornstein 2003: 140–61. doi: 10.1002/9780470690024.ch6
 * Marr, David, 1982, *Vision. A Computational Investigation into the Human Representation and Processing of Visual Information*, San Francisco, CA: W.H. Freeman.
 * McGilvray, James, 1999, *Chomsky: Language, Mind, and Politics*, Cambridge: Polity Press.
 * –––, (ed.), 2005, *A Companion to Chomsky*, Cambridge: Cambridge University Press.
-* Millikan, Ruth Garrett, 2005, “In Defense of Public Language”, Chapter 2 of her *Language: A Biological Model*, Oxford: Oxford University Press. doi:10.1093/0199284768.001.0001
+* Millikan, Ruth Garrett, 2005, “In Defense of Public Language”, Chapter 2 of her *Language: A Biological Model*, Oxford: Oxford University Press. doi: 10.1093/0199284768.001.0001
 * Montague, Richard, 1970, “English as a Formal Language”, in Visentini et al. 1970: 189–224; reprinted in Richmond H. Thomason (ed.), *Formal Philosophy. Selected Papers of Richard Montague*, New Haven: Yale University Press, 1974, pp. 188–221.
-* Naigles, Letitia R. and Lauren D. Swensen, 2007, “Syntactic Supports for Word Learning”, in Hoff and Shatz 2007: chapter 11. doi:10.1002/9780470757833.ch11
+* Naigles, Letitia R. and Lauren D. Swensen, 2007, “Syntactic Supports for Word Learning”, in Hoff and Shatz 2007: chapter 11. doi: 10.1002/9780470757833.ch11
 * Otero, Carlos P. (ed.), 1994, *Noam Chomsky: Critical Assessments*, New York: Routledge.
-* Pietroski, Paul M., 1994, “A Defense of Derangement”, *Canadian Journal of Philosophy*, 24(1): 95–117. doi:10.1080/00455091.1994.10717361
+* Pietroski, Paul M., 1994, “A Defense of Derangement”, *Canadian Journal of Philosophy*, 24(1): 95–117. doi: 10.1080/00455091.1994.10717361
 * –––, 2003, “The Character of Natural Language Semantics”, in Barber 2003: chapter 7.
-* Poulin-Dubois, Diane and Susan A. Graham, 2007, “Cognitive Processes in Early Word Learning”, in Hoff and Shatz 2007: chapter 10. doi:10.1002/9780470757833.ch10
+* Poulin-Dubois, Diane and Susan A. Graham, 2007, “Cognitive Processes in Early Word Learning”, in Hoff and Shatz 2007: chapter 10. doi: 10.1002/9780470757833.ch10
 * Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, in Gunderson 1975: 131–193.
 * Pylyshyn, Zenon W., 1984, *Computation and Cognition: Toward a Foundation for Cognitive Science*, Cambridge, MA: MIT Press.
-* Quine, W.V., 1970, “Methodological Reflections on Current Linguistic Theory”, *Synthese*, 21(3/4): 386–98. doi:10.1007/BF00484806
+* Quine, W.V., 1970, “Methodological Reflections on Current Linguistic Theory”, *Synthese*, 21(3/4): 386–98. doi: 10.1007/BF00484806
 * Recanati, François, 2004, *Literal Meaning*, Cambridge: Cambridge University Press.
-* Reimer, Marga, 2004, “What Malapropisms Mean: A Reply to Davidson”, *Erkenntnis*, 60(3): 317–334. doi:10.1023/B:ERKE.0000023383.38025.cd
-* Rey, Georges, 2003a, “Chomsky, Intentionality and a CRTT”, in Antony and Hornstein 2003: 105–139. doi:10.1002/9780470690024.ch5
+* Reimer, Marga, 2004, “What Malapropisms Mean: A Reply to Davidson”, *Erkenntnis*, 60(3): 317–334. doi: 10.1023/B: ERKE.0000023383.38025.cd
+* Rey, Georges, 2003a, “Chomsky, Intentionality and a CRTT”, in Antony and Hornstein 2003: 105–139. doi: 10.1002/9780470690024.ch5
 * –––, 2003b, “Intentional Content and a Chomskian Linguistics”, in Barber 2003: 140–186.
 * –––, 2005, “Mind, Intentionality and Inexistence: An Overview of My Work”, *Croatian Journal of Philosophy*, 5(3): 389–415.
-* Saffran, Jenny R., Richard N. Aslin, and Elissa L. Newport, 1996, “Statistical Learning by 8-Month-Old Infants”, *Science*, 274(5294): 1926–1928. doi:10.1126/science.274.5294.1926
-* Shafer, Valerie L. and Karen Garrido-Nag, 2007, “The Neurodevelopmental Bases of Language”, in Hoff and Shatz 2007: chapter 2. doi:10.1002/9780470757833.ch2
+* Saffran, Jenny R., Richard N. Aslin, and Elissa L. Newport, 1996, “Statistical Learning by 8-Month-Old Infants”, *Science*, 274(5294): 1926–1928. doi: 10.1126/science.274.5294.1926
+* Shafer, Valerie L. and Karen Garrido-Nag, 2007, “The Neurodevelopmental Bases of Language”, in Hoff and Shatz 2007: chapter 2. doi: 10.1002/9780470757833.ch2
 * Shatz, Marilyn, 1987, “Bootstrapping Operations in Child Language”, in Keith E., Nelson and Anne van Kleeck (eds), *Children’s Language* (Volume 6), Hillsdale, NJ: Erlbaum, pp. 1–22.
-* –––, 1994, *A Toddler’s Life: Becoming a Person*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195099232.001.0001
-* Smith, Neil, and Nicholas Allott, 2016, *Chomsky: Ideas and Ideals*, third edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139979634
-* Stainton, Robert J., 2006, “Meaning and Reference—Some Chomskian Themes”, in Lepore and Smith 2006: 913–40. doi:10.1093/oxfordhb/9780199552238.003.0036
-* –––, 2011, “In Defense of Public Languages”, *Linguistics and Philosophy*, 34: 479–488. doi:10.1007/s10988-011-9104-7
-* –––, 2016, “A Deranged Argument Against Public Languages”, *Inquiry*, 59(1): 6–32. doi:10.1080/0020174X.2015.1115279
-* Stanley, Jason, 2000, “Context and Logical Form”, *Linguistics and Philosophy*, 23(4): 391–434. doi:10.1023/A:1005599312747
-* Strawson, P.F., 1950, “On Referring”, *Mind*, 59(235): 320–44. doi:10.1093/mind/LIX.235.320
-* Szabó, Zoltán Gendler (ed.), 2005, *Semantics versus Pragmatics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199251520.001.0001
+* –––, 1994, *A Toddler’s Life: Becoming a Person*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195099232.001.0001
+* Smith, Neil, and Nicholas Allott, 2016, *Chomsky: Ideas and Ideals*, third edition, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139979634
+* Stainton, Robert J., 2006, “Meaning and Reference—Some Chomskian Themes”, in Lepore and Smith 2006: 913–40. doi: 10.1093/oxfordhb/9780199552238.003.0036
+* –––, 2011, “In Defense of Public Languages”, *Linguistics and Philosophy*, 34: 479–488. doi: 10.1007/s10988-011-9104-7
+* –––, 2016, “A Deranged Argument Against Public Languages”, *Inquiry*, 59(1): 6–32. doi: 10.1080/0020174X.2015.1115279
+* Stanley, Jason, 2000, “Context and Logical Form”, *Linguistics and Philosophy*, 23(4): 391–434. doi: 10.1023/A: 1005599312747
+* Strawson, P.F., 1950, “On Referring”, *Mind*, 59(235): 320–44. doi: 10.1093/mind/LIX.235.320
+* Szabó, Zoltán Gendler (ed.), 2005, *Semantics versus Pragmatics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199251520.001.0001
 * Tomasello, Michael, 2003, *Constructing a Language: A Usage-Based Theory of Language Acquisition*, Cambridge, MA: Harvard University Press.
-* –––, 2004, “Syntax or Semantics? Response to Lidz et.al.” *Cognition*, 93(2): 139–140. doi:10.1016/j.cognition.2003.09.015
+* –––, 2004, “Syntax or Semantics? Response to Lidz et.al.” *Cognition*, 93(2): 139–140. doi: 10.1016/j.cognition.2003.09.015
 * Visentini, Bruno et al. (eds.), 1970, *Linguaggi nella Società e nella Tecnica: convegno promosso dalla C. Olivetti, per il centenario della nascita di Camillo Olivetti, Museo Nazionale della Scienza e della Tecnica Milano, 14–17 ottobre 1968* (Volume 87 of Saggi di cultura contemporanea), Milan: Edizioni di Communita.
-* Wiggins, David, 1997, “Languages as Social Objects”, *Philosophy*, 72(282): 499–524. doi:10.1017/S0031819100062380
+* Wiggins, David, 1997, “Languages as Social Objects”, *Philosophy*, 72(282): 499–524. doi: 10.1017/S0031819100062380
 
 ## Academic Tools
 

@@ -10,7 +10,7 @@
 
 直接涉及人类状况的这三个方面，易经旨在减轻我们自我造成的焦虑和痛苦。它提醒我们认识周围环境的能力有限。它为我们提供了一套符号系统来航行复杂的世界。它为我们提供了一套占卜仪式来平静我们的心灵。通过这三种措施，易经帮助我们培养对自己的欣赏 —— 不仅了解我们是谁，还找出我们能做什么和不能做什么。简言之，易经帮助我们培养自信，以便我们能够尊严、谦卑和果断地面对变化。
 
-作为一部文本，易经在两个方面独具特色。首先，它是多层次的。传统记载称核心文本的第一层是图形符号 —— 八卦和六十四卦（参见[附录 1 和 2](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe1EighTrig)中的八卦和六十四卦的图像）。这些符号由传说人物伏羲创造，模仿宇宙的持续展开，并表示人类存在的流动性和复杂性。核心文本的第二层包括卦辞和爻辞（参见[附录 3](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe3Name64Hexa)中的六十四卦的名称）。据称由文王和周公于公元前 11 世纪创作，这些文字陈述援引具体历史事件 —— 如商朝的覆灭和周朝的兴起 —— 以阐明人类社会变化的恒常性。第三层是公元前 5 世纪至公元前 2 世纪的七篇著作。这些著作被分为十篇（因此称为“十翼” *shiyi*），从图形符号、卦辞和爻辞中推导出哲学见解（参见[附录 4](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe4TenWing)中的十翼列表）。到公元前 135 年，核心文本和十翼合并形成了我们现在所称的易经 —— 一个由符号、占卜报告、历史记录、民间传说和哲学论著组成的综合文本（Nylan 2001: 202–52; Redmond & Hon 2014: 1–157; R. Smith 2012: 1–47; Shaughnessy 2022: 5–64）。
+作为一部文本，易经在两个方面独具特色。首先，它是多层次的。传统记载称核心文本的第一层是图形符号 —— 八卦和六十四卦（参见 [附录 1 和 2](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe1EighTrig) 中的八卦和六十四卦的图像）。这些符号由传说人物伏羲创造，模仿宇宙的持续展开，并表示人类存在的流动性和复杂性。核心文本的第二层包括卦辞和爻辞（参见 [附录 3](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe3Name64Hexa) 中的六十四卦的名称）。据称由文王和周公于公元前 11 世纪创作，这些文字陈述援引具体历史事件 —— 如商朝的覆灭和周朝的兴起 —— 以阐明人类社会变化的恒常性。第三层是公元前 5 世纪至公元前 2 世纪的七篇著作。这些著作被分为十篇（因此称为“十翼” *shiyi*），从图形符号、卦辞和爻辞中推导出哲学见解（参见 [附录 4](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe4TenWing) 中的十翼列表）。到公元前 135 年，核心文本和十翼合并形成了我们现在所称的易经 —— 一个由符号、占卜报告、历史记录、民间传说和哲学论著组成的综合文本（Nylan 2001: 202–52; Redmond & Hon 2014: 1–157; R. Smith 2012: 1–47; Shaughnessy 2022: 5–64）。
 
 其次，由于其多层次性质，易经的本质难以捉摸。如果将焦点放在六十四卦上，易经类似于一本占卜手册。每个卦是一次占卜的记录，包括描述特定情境的卦名（例如婚姻、调动军队或清理井）和详细描述给定情境中备选行动的六爻。但如果将注意力集中在十翼上，就会发现对过程宇宙学、象征形式哲学和道德形而上学的长篇讨论。自公元前 135 年被正典化以来，易经经常被中国受教育的精英阶层视为一部哲学文本。正是这种哲学阅读使易经成为整个帝国中国中不断向读者和评论者提出关键问题的活文本（R. Smith 2008: 57–194; Redmond & Hon 2014: 158–180）。
 
@@ -30,7 +30,7 @@
 
 更重要的是，在占卜实践的基础上存在这样一种观念，即人类必须接受自己的局限性。首先，人类无法完全理解宇宙，因为它是一个有机的过程。作为伟大流动的一部分，人类受特定的时间和空间所约束。就像海洋中的一滴水，我们受到整个海洋及其动态的制约。我们行动、反应、推动和拉扯，但我们永远无法了解海洋的广阔和深度。
 
-矛盾的是，承认我们的有限性赋予我们勇气和灵活性，积极参与到我们的生活中。作为海洋中的一滴水，我们可以在每一刻重新塑造自己。我们的行动——无论是有意还是无意的——都会改变世界；通过蝴蝶效应，我们的行动随后将影响我们的生活。因此，我们采取的每一个行动既是先前情况的结果，也是随后情况的原因。受限而又自由，我们是创造性创造过程的一部分，正如阿尔弗雷德·诺斯·怀特黑德所说，“众多变为一，并因一而增加”（Whitehead 1929 \[1978]: 342–351）。
+矛盾的是，承认我们的有限性赋予我们勇气和灵活性，积极参与到我们的生活中。作为海洋中的一滴水，我们可以在每一刻重新塑造自己。我们的行动——无论是有意还是无意的——都会改变世界；通过蝴蝶效应，我们的行动随后将影响我们的生活。因此，我们采取的每一个行动既是先前情况的结果，也是随后情况的原因。受限而又自由，我们是创造性创造过程的一部分，正如阿尔弗雷德 · 诺斯 · 怀特黑德所说，“众多变为一，并因一而增加”（Whitehead 1929 \[1978]: 342–351）。
 
 在_易经_中，主客、内外、因果的相互依存以阴（the passive force）陰（阴性力量，一条断线（‒ ‒））和阳（the active force）阳（阳性力量，一条直线（―））的符号形式生动地展现出来。通过将直线和断线相互组合，形成了卦（三线格）和卦象（六线格）。据说是伏羲创制的这些卦和卦象可以被视为超自然力量传达的编码信息。但这些卦和卦象也可以被理解为一种符号系统，帮助我们理解宇宙流动的变化和复杂性。在_系辞_（The Attached Statements，十翼之一）中，我们找到了伏羲如何发展八卦来代表世界的描述：
 
@@ -58,7 +58,7 @@
 
 在易经的卦辞和爻辞中，决策的重要性被清晰地阐明。例如，在占卜中——占卜者对所接收到的信息的解释中，我们既找到积极的言辞，如“吉”和“无咎”，也有严厉的警告，如“凶”、“咎”、“悔”和“吝”。这些对立的占卜突出了人类存在的现实，即当幸运之风顺着我们时，我们会做得很好，但当我们运气不佳时，我们注定会失败。
 
-以乾 (䷀ 初九) 为例。爻辞描绘了六个阳爻如龙在不同的位置（有关乾的翻译，请参见 WB67: 3–10）。从下到上阅读，乾的初九是“潜龙”，二九是“现龙”，三九是“君子终日乾乾”，四九是“涣如，震来，公用翕”，五九是“飞龙”，而上九是“亢龙”（参见[附录 5](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe5QianHexa1)）。此外，乾的每一爻辞都暗示了龙的位置应采取的适当行动。因此，“潜龙”应避免采取激进行动，“现龙”和“飞龙”应寻求“大人”的帮助，“涣如”应飞越深渊，尽管存在危险和明显的风险，“亢龙”会后悔固执和过度自信。
+以乾 (䷀ 初九) 为例。爻辞描绘了六个阳爻如龙在不同的位置（有关乾的翻译，请参见 WB67: 3–10）。从下到上阅读，乾的初九是“潜龙”，二九是“现龙”，三九是“君子终日乾乾”，四九是“涣如，震来，公用翕”，五九是“飞龙”，而上九是“亢龙”（参见 [附录 5](https://plato.stanford.edu/entries/chinese-change/appendix.html#Appe5QianHexa1)）。此外，乾的每一爻辞都暗示了龙的位置应采取的适当行动。因此，“潜龙”应避免采取激进行动，“现龙”和“飞龙”应寻求“大人”的帮助，“涣如”应飞越深渊，尽管存在危险和明显的风险，“亢龙”会后悔固执和过度自信。
 
 但是，作为一个卦，乾是模棱两可的。一方面，在其六爻中的五爻中，语气似乎乐观，展示了从潜龙到现龙、涣如，最终到飞龙的不断进步的印象。另一方面，这种进展被亢龙的迅速垮台所打断。就像希腊悲剧一样，亢龙的迅速倒下暗示了傲慢，突出了人类过度自负在努力拉自己一把时的危险。
 
@@ -78,9 +78,9 @@
 
 然而，虽然《易经》的学者们普遍认为卦象和六十四卦是宇宙群舞的象征，但他们对于如何理解象征和言语表达并没有共识。他们是将视觉和言语符号视为对宇宙动态展开的现实表达吗？还是将视觉和言语符号视为对外部世界的选择性描绘？
 
-前者是“模仿论表征理论”的一种版本，其中符号是工具，准确而真实地复制外部世界供我们审视。它假定外部世界确实存在，并且我们开发工具来复制它。工具的有效性取决于它们在捕捉客观现实方面的真实性。后者则带有欧内斯特·卡西拉的象征形式哲学的味道，其中符号是模式，概念上和同源地对外部世界进行分类以支持我们对世界的形象。它假定宇宙比人类所能理解的要复杂得多，因此，人类能做的最好的事情就是开发工具让他们对宇宙有所感知。因此，所创造的工具在某种程度上是主观的，同时也是客观的。它们是主观的，因为它们是人造的，受人类认知和情感能力的限制。它们是客观的，因为它们提供了世界的形象，让人类能够在日常生活中运作。
+前者是“模仿论表征理论”的一种版本，其中符号是工具，准确而真实地复制外部世界供我们审视。它假定外部世界确实存在，并且我们开发工具来复制它。工具的有效性取决于它们在捕捉客观现实方面的真实性。后者则带有欧内斯特 · 卡西拉的象征形式哲学的味道，其中符号是模式，概念上和同源地对外部世界进行分类以支持我们对世界的形象。它假定宇宙比人类所能理解的要复杂得多，因此，人类能做的最好的事情就是开发工具让他们对宇宙有所感知。因此，所创造的工具在某种程度上是主观的，同时也是客观的。它们是主观的，因为它们是人造的，受人类认知和情感能力的限制。它们是客观的，因为它们提供了世界的形象，让人类能够在日常生活中运作。
 
-在 *《系辞》* 中，我们找到支持表征复制理论的段落。最清晰的例子是第 2 部分 2:1 中包犧（又名伏羲）的故事。在那段文字中，据说包犧在观察天空的气象模式和地面的地理模式后创造了一套符号系统。这个故事是这样的：
+在 *《系辞》* 中，我们找到支持表征复制理论的段落。最清晰的例子是第 2 部分 2: 1 中包犧（又名伏羲）的故事。在那段文字中，据说包犧在观察天空的气象模式和地面的地理模式后创造了一套符号系统。这个故事是这样的：
 
 > 在上古时期，包犧统治世界时，他仰望天空，凝视天上的景象；他俯视大地，观察地上的图案。他观察鸟兽的印记和它们对不同地区的适应。他直接从自身出发，间接从客体出发。因此，他发明了八卦，以便与诸神之光的美德相联系，并调节万物的状况。他编织绳索，用于狩猎和捕鱼的网和筐。他可能从卦象《离》中借鉴了这一点。( *《系辞》* II: 2; WB67: 328–329 经过修改)
 
@@ -88,37 +88,37 @@
 
 此外，包羲的故事在他去世后继续。据说另一位神话人物神农从易经益（第 42 卦）中汲取灵感，运用自己的知识教导人们农耕。他还从易经噬嗑（第 21 卦）中汲取教训，教导人们如何交换商品以改善生活。在神农之后，黄帝、尧和舜继续从一长串卦象中汲取灵感。他们运用自己的知识教导人们改善生活条件，包括农耕、治理和住房。所有这些神话人物的经历表明卦象是对经验世界的现实表征。就像我们这个时代的谷歌地图或卫星图像一样，卦象帮助神话人物在复杂的现实中导航，实现他们在日常生活中想要的目标。
 
-然而，“表征的复制理论”只出现在《系辞》的少数段落中。大多数其他段落提醒我们欧内斯特·卡西拉的主观符号使用。例如，《系辞》I:2 中，我们找到了有关符号创造的不同视角。
+然而，“表征的复制理论”只出现在《系辞》的少数段落中。大多数其他段落提醒我们欧内斯特 · 卡西拉的主观符号使用。例如，《系辞》I: 2 中，我们找到了有关符号创造的不同视角。
 
 > 圣人创立了卦，以便在其中感知现象。他们附加了判断，以示吉凶。由于刚爻和柔爻相互变换，变化和转化随之产生。因此，吉凶是得失的表象；懊悔和羞耻是悲伤和先见之明的表象。（《系辞》第一部分：2；WB67：287-288）
 
 在这里，卦和卦象的创造被描述为代表世界的刻意行为。我们被告知圣人“设”卦象，并“繋”《*系辞*》。在这两种情况下，知识的创造被理解为一种有意识的行为，旨在传达对经验世界的特定看法。更重要的是，在引用段落的最后一行中，《*系辞*》的作者们明确解释了这种知识生产的目标。他们将这套符号系统视为一种工具，帮助读者最大化财富，最小化厄运，减轻悔恨，避免羞辱。换句话说，这套符号系统旨在帮助读者做出改善生活的决策，而不是模仿现实世界。
 
-在另一段中，这种刻意的代表行为更加明确。在《*系辞*》I:12 中，我们发现了一位大师（可能是孔子）的独白，他质疑文字和形象在传达现实中的有效性：
+在另一段中，这种刻意的代表行为更加明确。在《*系辞*》I: 12 中，我们发现了一位大师（可能是孔子）的独白，他质疑文字和形象在传达现实中的有效性：
 
 > 大师说：文字无法完全表达言辞。言辞无法完全表达思想。那么我们是否无法看到圣人的思想？
 
-%% >大师说：圣人们设立卦象是为了完全表达他们的思想；他们设计八卦是为了完全表达真假。然后，他们附加了判断，从而能够完全表达他们的话语。（《系辞》I:12; WB67: 322）
+%% > 大师说：圣人们设立卦象是为了完全表达他们的思想；他们设计八卦是为了完全表达真假。然后，他们附加了判断，从而能够完全表达他们的话语。（《系辞》I: 12; WB67: 322）
 
 透过大师，《系辞》的作者们断言卦象和八卦表达了创作者的思想，而不是反映外部世界的现实。同样，八卦陈述（或判断）并非经验事实的总结，而是建议采取适当行动来解决生活中的紧迫问题。
 
-对于卡西勒象征形式哲学的追随者，_易经_中的论点如音乐般悦耳动听。在他具有影响力的文章《灵魂与生命》中，卡西勒将人类存在描述为生活波折（生命）与用来理解周围环境的符号（形式）之间不断斗争。前者是“客观的”，涉及实证数据和有形世界中的具体事实，而后者是“主观的”，基于呈现外部现实图景给感知者的人工模式。对于卡西勒来说，正是外部与内部、事实与表象、客观与主观、现实与理想之间的张力，塑造了人类存在中的创造力。在生命与形式、必然与自由之间的连续中，卡西勒敦促我们培养自己的“形成意志”，使我们对世界的理解与我们的符号系统相一致（欧内斯特·卡西勒 1930 \[1996:15–18]）。对他而言，发展“形成意志”比尼采所建议的发展“权力意志”更为重要，因为它帮助我们接受生活中的多样性、模糊性和冲突（卡西勒 1930 \[1996: 29–33]）。
+对于卡西勒象征形式哲学的追随者，_易经_中的论点如音乐般悦耳动听。在他具有影响力的文章《灵魂与生命》中，卡西勒将人类存在描述为生活波折（生命）与用来理解周围环境的符号（形式）之间不断斗争。前者是“客观的”，涉及实证数据和有形世界中的具体事实，而后者是“主观的”，基于呈现外部现实图景给感知者的人工模式。对于卡西勒来说，正是外部与内部、事实与表象、客观与主观、现实与理想之间的张力，塑造了人类存在中的创造力。在生命与形式、必然与自由之间的连续中，卡西勒敦促我们培养自己的“形成意志”，使我们对世界的理解与我们的符号系统相一致（欧内斯特 · 卡西勒 1930 \[1996: 15–18]）。对他而言，发展“形成意志”比尼采所建议的发展“权力意志”更为重要，因为它帮助我们接受生活中的多样性、模糊性和冲突（卡西勒 1930 \[1996: 29–33]）。
 
-虽然《*易经*》的作者们原则上可能接受卡西勒关于代表性的积极理论，但他们完全致力于卦象和六十四卦作为他们首选的符号系统。由于将卦象和六十四卦与宇宙大舞相配合投入了如此之多，这些作者并不打算像卡西勒建议的那样包括其他符号系统来描绘宇宙，比如视觉艺术、文学或诗歌（卡西勒 1930 \[1996: 34–111]）。也许，正是在这里，他们存在盲点。他们对卦象和六十四卦的坚定执着使他们陷入了一个死胡同，他们无法看到其他符号系统的价值（比如出现在《*易经*》I:8 中的数字系统）。
+虽然《*易经*》的作者们原则上可能接受卡西勒关于代表性的积极理论，但他们完全致力于卦象和六十四卦作为他们首选的符号系统。由于将卦象和六十四卦与宇宙大舞相配合投入了如此之多，这些作者并不打算像卡西勒建议的那样包括其他符号系统来描绘宇宙，比如视觉艺术、文学或诗歌（卡西勒 1930 \[1996: 34–111]）。也许，正是在这里，他们存在盲点。他们对卦象和六十四卦的坚定执着使他们陷入了一个死胡同，他们无法看到其他符号系统的价值（比如出现在《*易经*》I: 8 中的数字系统）。
 
 ### 1.4 仪式
 
-如果仅仅阅读《说卦》和《序卦》，占卜似乎在决策中并没有起到作用。然而，在《系辞》中，占卜在帮助询问者做出关键决定方面扮演着重要角色。事实上，有一大段内容专门讨论如何用 50 根蓍草进行占卜（《系辞》I:8，更多内容稍后详述）。此外，《系辞》的作者们确定占卜是使用卦象的四种方式之一：（1）利用卦辞和爻辞作为对危险和衰败的警示；（2）利用卦象和爻辞中的变动来理解自然界和人类界无尽的变化；（3）利用卦象形象增强统治者的权威；（4）利用占卜促使询问者更深入地思考自己的选择（《系辞》I:9；WB67:314）。基于这四种卦象的用途，《系辞》的作者们强调了《易经》的广泛吸引力。对于那些对思考变化的原因和模式感兴趣的人来说，它可以是一本“智”的书；对于那些对改善政治秩序感兴趣的人来说，它可以是一本“仁”的书；对于那些只想生活、克服障碍、减少错误的人来说，它可以是一本“日用”的书（《系辞》I:4；WB67:298）。
+如果仅仅阅读《说卦》和《序卦》，占卜似乎在决策中并没有起到作用。然而，在《系辞》中，占卜在帮助询问者做出关键决定方面扮演着重要角色。事实上，有一大段内容专门讨论如何用 50 根蓍草进行占卜（《系辞》I: 8，更多内容稍后详述）。此外，《系辞》的作者们确定占卜是使用卦象的四种方式之一：（1）利用卦辞和爻辞作为对危险和衰败的警示；（2）利用卦象和爻辞中的变动来理解自然界和人类界无尽的变化；（3）利用卦象形象增强统治者的权威；（4）利用占卜促使询问者更深入地思考自己的选择（《系辞》I: 9；WB67: 314）。基于这四种卦象的用途，《系辞》的作者们强调了《易经》的广泛吸引力。对于那些对思考变化的原因和模式感兴趣的人来说，它可以是一本“智”的书；对于那些对改善政治秩序感兴趣的人来说，它可以是一本“仁”的书；对于那些只想生活、克服障碍、减少错误的人来说，它可以是一本“日用”的书（《系辞》I: 4；WB67: 298）。
 
 最近，郑重英提出，我们在解释《系辞》时必须停止解释“源头、形成和基础哲学体系”。相反，我们应将其哲学视为关于时间、地点和判断的持续讨论，这些讨论源自占卜实践（Cheng 2020: xi–xvi）。换句话说，我们不应将占卜和哲学看作是彼此互斥的，而是将它们视为一个连续体。正是通过占卜，我们对决定我们判断的时间和空间因素的综合影响产生了敏锐的感知。正是这种对时间和空间的敏锐感知赋予我们心智资源，以制定解决问题的策略，勇敢面对挑战，并决心在危机中克服恐惧。
 
-从这个角度来看，《系辞》I:8 中关于占卜的讨论是启示性的。该段内容如下：
+从这个角度来看，《系辞》I: 8 中关于占卜的讨论是启示性的。该段内容如下：
 
 总数为五十。其中四十九个是使用。它们被分成两部分，代表两种原始力量。于是其中一个被分开，代表三种力量。它们被四个一组地计算，代表四季。剩下的被搁置，代表闰月。五年有两个闰月，因此搁置是重复的，这样就得到了全部。（易经 67: 310–311）
 
 ##
 
-用简练的语言表达，仪式包括几个步骤，正如理查德·威廉姆总结的那样。
+用简练的语言表达，仪式包括几个步骤，正如理查德 · 威廉姆总结的那样。
 
 这些复杂而反复的仪式的目标是通过数策找到卦。在整个过程的每一步中，询问者都会被提醒，他或她的行动是宇宙持续展开的一部分。最终，询问者会找到一个卦，从中汲取教训。因此，整个过程的目的是使心灵平静，使人更加反思，并为做出关键决定做好准备。
 
@@ -138,17 +138,17 @@
 
 这四个方面的《易经》文本——人类有限性、决策、符号和仪式——是中国帝国时期《易经》评论家们对变化进行哲学思考的基础。在公元前 135 年《易经》成为经典之后的两千年里，评论家们形成了三种不同的变化方法论——宇宙论方法、理性人文主义方法和占卜方法。现在，让我们首先转向变化的宇宙论。
 
-公元前 125 年《易经》成为经典后，文本被封存，但其含义在接下来的两千年里不断增长和扩展，读者们反复解释这部经典以回应他们所面临的挑战。通过撰写评论来阐明《易经》的微妙含义，读者们发展出汉斯-格奥尔格·伽达默所说的“视野的融合”（伽达默 1989 年：3–91；特雷西 1987 年：1–27），他们在《易经》的“关注呼唤”中寻找答案，以回应困扰他们的问题。从公元前 2 世纪到公元 1911 年的中国帝国时期，每当社会政治秩序发生重大变化时，《易经》都吸引了极大关注，作为一部活的文本，为那些被压制、受压迫或感到沮丧的人提供了洞察和启示。
+公元前 125 年《易经》成为经典后，文本被封存，但其含义在接下来的两千年里不断增长和扩展，读者们反复解释这部经典以回应他们所面临的挑战。通过撰写评论来阐明《易经》的微妙含义，读者们发展出汉斯-格奥尔格 · 伽达默所说的“视野的融合”（伽达默 1989 年：3–91；特雷西 1987 年：1–27），他们在《易经》的“关注呼唤”中寻找答案，以回应困扰他们的问题。从公元前 2 世纪到公元 1911 年的中国帝国时期，每当社会政治秩序发生重大变化时，《易经》都吸引了极大关注，作为一部活的文本，为那些被压制、受压迫或感到沮丧的人提供了洞察和启示。
 
 在汉朝（公元前 202 年至公元 220 年）统一中国长时间后，解读《易经》的主导趋势是象数学派。象数学派专注于卦象和卦序列，吸引了专注于建立永恒帝国的统治精英的注意。对于统治精英来说，他们觉得自己有责任建立一个不仅模仿宇宙的重复模式，而且积极应对宇宙力量的涨落的社会政治体系（Pines 2009, 2012；Loewe 1994, 2005；Wang 2000）。
 
-支撑《易经》学派的是一种相关的宇宙观。通过将卦象排列来描述宇宙力量的盈衰，数字与象学派展示了所谓的“天人感应”的概念，即由莎拉·昆恩（Queen 1996: 1–53）所称的相互响应。这种相互响应基于两个假设。首先，宇宙是有序且稳定的。它的有序性和稳定性体现在时间的规律性继承中，如四季、十二个月、365 天。其次，自然界的有序性也存在于人类领域中，体现为生命周期、工作和休息的节奏，以及家族兴衰。尽管表面上有变迁，自然界和人类世界是平衡、系统化且可预测的。它们彼此是完美的镜像，以至于一动，另一方就会作出响应。
+支撑《易经》学派的是一种相关的宇宙观。通过将卦象排列来描述宇宙力量的盈衰，数字与象学派展示了所谓的“天人感应”的概念，即由莎拉 · 昆恩（Queen 1996: 1–53）所称的相互响应。这种相互响应基于两个假设。首先，宇宙是有序且稳定的。它的有序性和稳定性体现在时间的规律性继承中，如四季、十二个月、365 天。其次，自然界的有序性也存在于人类领域中，体现为生命周期、工作和休息的节奏，以及家族兴衰。尽管表面上有变迁，自然界和人类世界是平衡、系统化且可预测的。它们彼此是完美的镜像，以至于一动，另一方就会作出响应。
 
-相关宇宙观的目标并不是为了对宇宙有全面的理解，而是为了使“基于权力的帝国主权概念向需要用知识制约统治权利的主张转变”合法化（Loewe 1994: 121–41）。因此，皇帝被认为是自然界和人类领域之间至关重要的纽带。事实上，根据汉代学者董仲舒（约公元前 195–105 年）的说法，王字（王）反映了皇帝（由中间的竖线象征）连接三才☰：天（*tian*）、地（*di*）和人类（*ren*）的庄严责任（Redmond & Hon 2014: 159–61）。因此，皇帝确实是天子（*tianzi*），具备全能、全能和全知的特质（Loewe 2011; Queen 1996）。
+相关宇宙观的目标并不是为了对宇宙有全面的理解，而是为了使“基于权力的帝国主权概念向需要用知识制约统治权利的主张转变”合法化（Loewe 1994: 121–41）。因此，皇帝被认为是自然界和人类领域之间至关重要的纽带。事实上，根据汉代学者董仲舒（约公元前 195–105 年）的说法，王字（王）反映了皇帝（由中间的竖线象征）连接三才 ☰：天（*tian*）、地（*di*）和人类（*ren*）的庄严责任（Redmond & Hon 2014: 159–61）。因此，皇帝确实是天子（*tianzi*），具备全能、全能和全知的特质（Loewe 2011; Queen 1996）。
 
 为了支持专制主义，汉代评论家将《易经》转化为反映宇宙力量盈衰的宇宙手册。他们认真重新组织卦序以匹配宇宙节奏，展示自然界和人类世界是一体的。尽管大多数汉代评论家的著作已经失传，在一部 8-9 世纪的文献《周易集解》（A Collection of Explanations on the *Changes of Zhou Dynasty*）由李鼎祚编辑，我们可以窥见那些将一生奉献于探索宇宙和秩序世界的汉代评论家的抱负（R. Smith 2008: 57–88）。
 
-例如，荆璜（前 77-前 37 年）创作了八宫卦：*乾*䷀，*坤*䷁，*震*䷲，*巽*䷸，*坎*䷜，*离*䷝，*艮*䷳，*兑*䷹。这八宫卦是八卦的对应。对于荆璜来说，这些宫卦中的每一个领导着七个卦。例如，*乾*䷀领导着䷫，䷠，䷋，䷓，䷖，䷢，䷍。在这种新的卦序中，阴阳宇宙力量的增减是稳定的，即使它们处于休眠状态，这两种力量的潜在力量也是如此（有关基于八宫的 64 卦新序列，请参见 Nielson 2003 年：3）。
+例如，荆璜（前 77-前 37 年）创作了八宫卦：*乾* ䷀，*坤* ䷁，*震* ䷲，*巽* ䷸，*坎* ䷜，*离* ䷝，*艮* ䷳，*兑* ䷹。这八宫卦是八卦的对应。对于荆璜来说，这些宫卦中的每一个领导着七个卦。例如，*乾* ䷀ 领导着 ䷫，䷠，䷋，䷓，䷖，䷢，䷍。在这种新的卦序中，阴阳宇宙力量的增减是稳定的，即使它们处于休眠状态，这两种力量的潜在力量也是如此（有关基于八宫的 64 卦新序列，请参见 Nielson 2003 年：3）。
 
 另一个新的卦序是由庾翻（164-233 年）完善的“消息卦”。代表着阴阳宇宙力量的盈衰，“消息卦”如下：
 
@@ -262,7 +262,7 @@
 
 扩展解释范围的另一个策略是通过调换一些爻线将一个卦变成另一个卦。这被称为“移位卦爻”（*yiwei*），这一策略使汉代学者在解释卦时遇到问题时能引入其他卦。例如，*泰* ䷊（泰和，第十一卦）可以通过调换它的第二爻（一个阳爻）和第五爻（一个阴爻）变成 *既济* ䷾（既济，第六十三卦）。同样，*大壮* ䷡（大壮，第三十四卦）可以通过交换它的第四爻（一个阳爻）和第五爻（一个阴爻）变成 *需* ䷄（需，第五卦）。与其他方法相比，移位卦爻的灵活性使汉代注释者在解释卦时有更多选择的自由。
 
-因此，通过在解释卦辞方面给予自己灵活性，汉代注释者重申了宇宙和人类领域的有序性、稳定性和可预测性。他们将_易经_转化为一本宇宙手册，以配合宇宙力量的节奏。在这样做的过程中，汉代注释者压制并外化了人类对不确定性的恐惧。他们通过将注意力集中在宇宙的重复节奏上来压制恐惧，正如季节变化和时间的推移所证明的那样。他们通过专注于宇宙更新的宏伟计划来外化恐惧，这似乎不留下不确定性或中断的空间。更重要的是，通过将宇宙领域与人类节奏相匹配，他们创造了一个幻觉，即_易经_是统治者理解宇宙、整顿世界的手册（陈寅恪 1986 年：798-801；R·史密斯 2008 年：62-88）。
+因此，通过在解释卦辞方面给予自己灵活性，汉代注释者重申了宇宙和人类领域的有序性、稳定性和可预测性。他们将_易经_转化为一本宇宙手册，以配合宇宙力量的节奏。在这样做的过程中，汉代注释者压制并外化了人类对不确定性的恐惧。他们通过将注意力集中在宇宙的重复节奏上来压制恐惧，正如季节变化和时间的推移所证明的那样。他们通过专注于宇宙更新的宏伟计划来外化恐惧，这似乎不留下不确定性或中断的空间。更重要的是，通过将宇宙领域与人类节奏相匹配，他们创造了一个幻觉，即_易经_是统治者理解宇宙、整顿世界的手册（陈寅恪 1986 年：798-801；R· 史密斯 2008 年：62-88）。
 
 ### 2.2 理性人文主义方法
 
@@ -308,7 +308,7 @@
 
 回归_易经_作为象征的根源，王弼引导读者关注卦辞的隐喻意义。作为指引，卦辞帮助读者形成对周围环境的心理图景，使他们能够梳理出每种特定情况中的机遇和限制。卦辞还通过将读者的注意力从近及远、从显而易见到隐蔽的方向引向，拓展了读者的视野。最重要的是，它们通过展示如果我们仔细留意周围环境，就能改变生活的无限可能性，给予读者希望。
 
-在这一点上，王弼是正确的，_易经_简单而深刻。它的象征看似简单，但它们传达的信息却是深刻的。_易经_的深奥之处在于这本书不仅在面对生活挑战时提供希望和鼓励，而且强调人类的主动性和积极性，以应对偶然性和不确定性。通过阅读卦辞对我们周围环境进行批判性评估，我们有能力将看似失败的事物转变为幸事，或将僵局视为性格的考验。我们活着是因为我们愿意掌控自己的生活。我们活着是因为我们有（用保罗·蒂利希的话来说）作为整体和自我的“勇气”（蒂利希 1952 年：86-147）。
+在这一点上，王弼是正确的，_易经_简单而深刻。它的象征看似简单，但它们传达的信息却是深刻的。_易经_的深奥之处在于这本书不仅在面对生活挑战时提供希望和鼓励，而且强调人类的主动性和积极性，以应对偶然性和不确定性。通过阅读卦辞对我们周围环境进行批判性评估，我们有能力将看似失败的事物转变为幸事，或将僵局视为性格的考验。我们活着是因为我们愿意掌控自己的生活。我们活着是因为我们有（用保罗 · 蒂利希的话来说）作为整体和自我的“勇气”（蒂利希 1952 年：86-147）。
 
 ### 2.3 占卜方法
 
@@ -320,11 +320,11 @@
 
 支撑他观点的是对《易经》形成的不同理解。与其他《易经》评论者不同，朱熹并未将这部经典视为从占卜到哲学的演变。对他而言，六十四卦是《易经》的基础，因为它们是自然界和人类世界中不断变化的象征。这种关于变化的图像描绘——由伏羲开始，由文王和周公完成——后来被儒家学者转变为关于宇宙观和道德的讨论。因此，《易经》不再是对宇宙中令人敬畏和敬畏的变化的图像描述；它仅仅成为另一本教导君王、贵族和政府官员道德的文本（如儒家经典中的《诗经》和《尚书》）（Hon 2008）。
 
-通过将伏羲的卦象置于孔子的十翼之上，朱熹希望实现两个目标。首先，他强调占卜作为修养方法的重要性。对他而言，占卜不是一种迷信的寻求超自然力量指引的行为。相反，它是一种丰富的经历，是与未知和深不可测相遇的体验。在占卜的过程中，人面对塑造人生的多种力量，从而意识到改善自身处境的机会和资源。正如约瑟夫·阿德勒所指出的，对朱熹来说，占卜是一种“学习的方式”，因为它帮助学习者在外部事件和内心中“‘应’”对“初现”的变化（阿德勒 1990：190）。其次，通过专注于卦象的视觉意象，朱熹认为《易经》与其他儒家经典有着显著的不同。《易经》不仅局限于君王、贵族和政府官员，它吸引了广泛的受众，无论识字与否，都关心生活中的不确定性（Hon 2011）。
+通过将伏羲的卦象置于孔子的十翼之上，朱熹希望实现两个目标。首先，他强调占卜作为修养方法的重要性。对他而言，占卜不是一种迷信的寻求超自然力量指引的行为。相反，它是一种丰富的经历，是与未知和深不可测相遇的体验。在占卜的过程中，人面对塑造人生的多种力量，从而意识到改善自身处境的机会和资源。正如约瑟夫 · 阿德勒所指出的，对朱熹来说，占卜是一种“学习的方式”，因为它帮助学习者在外部事件和内心中“‘应’”对“初现”的变化（阿德勒 1990：190）。其次，通过专注于卦象的视觉意象，朱熹认为《易经》与其他儒家经典有着显著的不同。《易经》不仅局限于君王、贵族和政府官员，它吸引了广泛的受众，无论识字与否，都关心生活中的不确定性（Hon 2011）。
 
 因此，朱熹强调了爻辞的模糊性。为了突出它们的模糊性，他将爻辞分为两个独立的话语：六十四卦爻辞形象的总结，以及基于对六十四卦爻辞形象的慎重考虑而作出的预测。通过将爻辞分为两部分，朱熹将爻辞转化为神谕呼唤和读者回应之间的对话。在这种解释循环中，没有什么是确定的或是注定的。对话可以引向许多方向，有时可预测，有时不可预测。
 
-表面上看，与王弼一样，朱熹似乎利用《易经》来促使读者反思周围环境。然而，有一个根本性的区别。对于朱熹来说，阅读《易经》并不一定能回答所有问题或解决所有问题。相反，它提高了读者对人类存在的不确定性和偶然性的敏感度。例如，《革》䷰（Radical Change，第 49 卦）和《鼎》䷱（The Cauldron，第 50 卦）以突出政治剧变中的焦虑和恐惧而闻名。在《革》中，鼓励读者领导一场反抗对公众造成伤害的暴君的起义。为了强调解决政治危机的紧迫性，这场起义被比作季节更替中生命的更新；它与商朝被周朝取代的重大事件相提并论。最重要的是，它被描述为对人类事务的及时干预，以恢复秩序造福于民众（有关《革》的翻译，请参见 WB67：189–192）。虽然《革》主张政权更迭，《鼎》则要求在起义之后立即恢复政治秩序。从图像上看，《鼎》䷱的六爻形似一个鼎——底线代表鼎的腿；第二至第四行象征鼎的腹部；第五行表示鼎的耳朵，顶行暗示横贯鼎的扁杆。因此，鼓励读者清洁鼎以烹饪食物，或者在政权更迭后立即重建政治秩序（有关《鼎》的翻译，请参见 WB67：195–97）。
+表面上看，与王弼一样，朱熹似乎利用《易经》来促使读者反思周围环境。然而，有一个根本性的区别。对于朱熹来说，阅读《易经》并不一定能回答所有问题或解决所有问题。相反，它提高了读者对人类存在的不确定性和偶然性的敏感度。例如，《革》䷰（Radical Change，第 49 卦）和《鼎》䷱（The Cauldron，第 50 卦）以突出政治剧变中的焦虑和恐惧而闻名。在《革》中，鼓励读者领导一场反抗对公众造成伤害的暴君的起义。为了强调解决政治危机的紧迫性，这场起义被比作季节更替中生命的更新；它与商朝被周朝取代的重大事件相提并论。最重要的是，它被描述为对人类事务的及时干预，以恢复秩序造福于民众（有关《革》的翻译，请参见 WB67：189–192）。虽然《革》主张政权更迭，《鼎》则要求在起义之后立即恢复政治秩序。从图像上看，《鼎》䷱ 的六爻形似一个鼎——底线代表鼎的腿；第二至第四行象征鼎的腹部；第五行表示鼎的耳朵，顶行暗示横贯鼎的扁杆。因此，鼓励读者清洁鼎以烹饪食物，或者在政权更迭后立即重建政治秩序（有关《鼎》的翻译，请参见 WB67：195–97）。
 
 几个世纪以来，《易经》的评论家们遵循《序卦》作者的建议，将《革》和《鼎》视为政权更迭的两个阶段一起阅读（参见 WB67：635，641）。《革》讨论推翻旧政权的破坏阶段，《鼎》则指的是重建政治秩序的建设阶段。这两个卦共同提醒人们注意政治腐败的危险、暴君的恐惧以及在政治动荡中失去控制的焦虑。更重要的是，这两个卦突出了在权力斗争中做出正确决定的重要性。因此，几个世纪以来，对于对政治哲学感兴趣的评论家们来说，《革》和《鼎》受到特别关注（例如，王弼在 Lynn 1994: 444–59 中的评论）。
 
@@ -359,7 +359,7 @@
 * Rutt, Richard (trans.), 1996, *Zhouyi: The Book of Changes: A Bronze Age Document Translated with Introduction and Notes by Richard Rutt*, (Durham East-Asia Series, 1), Richmond, Surrey: Curzon.
 * Redmond, Geoffrey (trans.), 2017, *The I Ching (Book of Changes): A Critical Translation of the Ancient Text*, London: Bloomsbury.
 * Wang Bi 王弼 \[226–249], 1980, *Wang Bi ji jiaoshi* 王弼集校釋 (A Collection of Writings by Wang Bi, Annotated and Explicated), Lou Yulie 樓宇烈 (ed.), Beijing: Zhonghua shuju.
-* WB67, 1967,*The I Ching or Book of Changes: The Richard Wilhelm translation rendered into English by Cary F. Baynes*, third edition, Princeton, NJ: Princeton University Press.
+* WB67, 1967, *The I Ching or Book of Changes: The Richard Wilhelm translation rendered into English by Cary F. Baynes*, third edition, Princeton, NJ: Princeton University Press.
 * Zhu Xi 朱熹 \[1130–1200], 2009, *Zhouyi benyi* 周易本義 (The Original Meanings of the *Zhou Changes*), punctuated and annotated by Liao Mingchun, Beijing: Zhonghua shuju.
 
 ### Secondary Sources
@@ -367,22 +367,22 @@
 * Adler, Joseph A., 1990, “Chu Hsi and Divination”, in K. Smith et al. 1990: 169–205. \[[Adler 1990 available online](https://www2.kenyon.edu/Depts/Religion/Fac/Adler/Writings/Divination.htm)]
 * –––, 2014, *Reconstructing the Confucian Dao: Zhu Xi’s Appropriation of Zhou Dunyi*, (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press.
 * Allan, Sarah, 1991, *The Shape of the Turtle: Myth, Art, and Cosmos in Early China*, (SUNY Series in Chinese Philosophy and Culture), Albany, NY: State University of New York Press.
-* Ames, Roger T., 2015, “The *Great Commentary* (*Dazhuan* 大傳) and Chinese Natural Cosmology”, *International Communication of Chinese Culture*, 2(1): 1–18. doi:10.1007/s40636-015-0013-2
+* Ames, Roger T., 2015, “The *Great Commentary* (*Dazhuan* 大傳) and Chinese Natural Cosmology”, *International Communication of Chinese Culture*, 2(1): 1–18. doi: 10.1007/s40636-015-0013-2
 * Cassirer, Ernst, 1930 \[1996], “‘Geist’ und ‘Leben’ in der Philosophie der Gegenwart”, *Die neue Rundschau*, 41(1): 244–64. Translated “Geist and Life”, in his *The Philosophy of Symbolic Forms, Volume 4: The Metaphysics of Symbolic Forms*, John Michael Krois and Donald Phillip Verene (eds.), John Michael Krois (trans.), New Haven, CT: Yale University Press, 1996, 1–33.
 * Chan, Wing-tsit (trans.), 1963 \[1969], *Source Book in Chinese Philosophy*, Princeton, NJ: Princeton University Press.
 * Cheng, Chung-ying, 2003, “Philosophy of Change”, in *Encyclopedia of Chinese Philosophy*, Antonio S. Cua (ed.), New York: Routledge, 517–523.
 * –––, 2020, *The Primary Way: Philosophy of Yijing*, Albany, NY: State University of New York Press.
 * Cheng, Chung-ying and On-cho Ng (eds), 2009, *Philosophy of Yi 易: Unity and Dialectics*, (Book Supplement Series to the *Journal of Chinese Philosophy*), Chichester, UK: Blackwell Publishing.
-* Ch’en, Ch’i-yün, 1986, “Confucian, Legalist, and Taoist Thought in Later Han”, in *The Cambridge History of China*, volume 1, Cambridge: Cambridge University Press, 766–807. doi:10.1017/CHOL9780521243278.017.
-* Donkers, Harry, 2020, “The Yi-Jing Cosmic Model: With an Application of an Alternative to Neoliberalism”, *Comparative Philosophy*, 11(2). doi:10.31979/2151-6014(2020).110204 \[ [Donkers 2020 available online](https://scholarworks.sjsu.edu/comparativephilosophy/vol11/iss2/4/)]
+* Ch’en, Ch’i-yün, 1986, “Confucian, Legalist, and Taoist Thought in Later Han”, in *The Cambridge History of China*, volume 1, Cambridge: Cambridge University Press, 766–807. doi: 10.1017/CHOL9780521243278.017.
+* Donkers, Harry, 2020, “The Yi-Jing Cosmic Model: With an Application of an Alternative to Neoliberalism”, *Comparative Philosophy*, 11(2). doi: 10.31979/2151-6014(2020).110204 \[ [Donkers 2020 available online](https://scholarworks.sjsu.edu/comparativephilosophy/vol11/iss2/4/)]
 * Field, Stephen Lee, 2008, *Ancient Chinese Divination*, (Dimensions of Asian Spirituality), Honolulu: University of Hawai’i Press.
 * Gadamer, Han-Georg, 1989, *Truth and Methodi,* second revised edition, translated by Joel Weinsheimer and Donald G. Marshall, New York: Continnum International Publishing Group.
 * Graham, A. C., 1959, “‘Being’ in Western Philosophy Compared with *Shih/Fei* and *You/Wu* in Chinese Philosophy”, *Asia Major*, new series 7: 79–112.
 * Gotshalk, Richard, 1999, *Divination, Order, and the Zhouyi*, Lanham, MD: University Press of America.
-* Hon, Tze-ki, 2003, “Human Agency and Change: A Reading of Wang Bi’s *Changes* Commentary”, *Journal of Chinese Philosophy*, 30(2): 223–242. doi:10.1111/1540-6253.00116
-* –––, 2004, “Redefining the Civil Governance: The *Yichuan yizhuan* of Cheng Yi”, *Monumenta Serica*, 52: 199–219. doi:10.1080/02549948.2004.11731413
+* Hon, Tze-ki, 2003, “Human Agency and Change: A Reading of Wang Bi’s *Changes* Commentary”, *Journal of Chinese Philosophy*, 30(2): 223–242. doi: 10.1111/1540-6253.00116
+* –––, 2004, “Redefining the Civil Governance: The *Yichuan yizhuan* of Cheng Yi”, *Monumenta Serica*, 52: 199–219. doi: 10.1080/02549948.2004.11731413
 * –––, 2005, *The Changes and Chinese Politics: Classical Commentary and Literati Activism in the Northern Song Period, 960–1127*, (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press.
-* –––, 2008, “A Precarious Balance: Divination and Moral Philosophy in *Zhouyi zhuanyi daquan*(《周易傳義大全》)”, *Journal of Chinese Philosophy*, 35(2): 254–271. doi:10.1111/j.1540-6253.2008.00477.x
+* –––, 2008, “A Precarious Balance: Divination and Moral Philosophy in *Zhouyi zhuanyi daquan*(《周易傳義大全》)”, *Journal of Chinese Philosophy*, 35(2): 254–271. doi: 10.1111/j.1540-6253.2008.00477.x
 * –––, 2010, “Hexagrams and Politics: Wang Bi’s Political Philosophy in the Zhouyi Zhu”, in_Philosophy and Religion in Early Medieval China_, (SUNY Series in Chinese Philosophy and Culture), Alan Kam-leung Chan and Yuet Keung Lo (eds), Albany, NY: State University of New York Press, 71–96.
 * –––, 2011, “Classical Exegesis and Social Change: The Song School of *Yijing* Commentaries in Late Imperial China”, *Sungkyun Journal of East Asian Studies*, 11(1): 1–15. \[[Hon 2011 available online](https://sjeas.skku.edu/#/search/detail/4130)]
 * –––, 2012, “From *Sheng Min* 生民 to *Si Min* 四民: Social Changes in Late Imperial China”, *Journal of Political Science and Sociology* (Keio University, Tokyo), 16: 11–31.
@@ -395,32 +395,32 @@
 * –––, 2005, *Faith, Myth and Reason in Han China*, Indianapolis, IN: Hackett Publishing Company, Inc.
 * –––, 2011, *Dong Zhongshu, a ‘Confucian’ Heritage and the Chunqiu Fanlu*, Leiden: Brill.
 * Marshall, S.J., 2001, *The Mandate of Heaven: Hidden History in the I Ching*, New York: Columbia University Press.
-* Nielsen, Bent, 2003, *A Companion to Yi Jing Numerology and Cosmology*, London: Routledge Curzon. doi:10.4324/9780203357927
+* Nielsen, Bent, 2003, *A Companion to Yi Jing Numerology and Cosmology*, London: Routledge Curzon. doi: 10.4324/9780203357927
 * Nylan, Michael, 2001, *The Five “Confucian” Classics*, New Haven, CT: Yale University Press.
 * Pines, Yuri, 2009, *Envisioning Eternal Empire: Chinese Political Thought of the Warring States Era*, Honolulu: University of Hawai’i Press.
 * –––, 2012, *The Everlasting Empire: The Political Culture of Ancient China and Its Imperial Legacy*, Princeton, NJ: Princeton University Press.
-* Queen, Sarah A, 1996, *From Chronicle to Canon: The Hermeneutics of the Spring and Autumn, According to Tung Chung-shu*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511572661
-* Raphals, Lisa, 2013, *Divination and Prediction in Early China and Ancient Greece*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511863233
-* Redmond, Geoffrey P. and Tze-Ki Hon, 2014, *Teaching the I Ching (Book of Changes)*, (AAR Teaching Religious Studies Series), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199766819.001.0001
+* Queen, Sarah A, 1996, *From Chronicle to Canon: The Hermeneutics of the Spring and Autumn, According to Tung Chung-shu*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511572661
+* Raphals, Lisa, 2013, *Divination and Prediction in Early China and Ancient Greece*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511863233
+* Redmond, Geoffrey P. and Tze-Ki Hon, 2014, *Teaching the I Ching (Book of Changes)*, (AAR Teaching Religious Studies Series), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199766819.001.0001
 * Schipper, Kristopher, 1982 \[1993], *Le Corps Taoïste*, Paris: Librairie Arthème Fayard. Translated as *Taoist Body*, Karen C. Duval (trans.), Berkeley, CA: University of California Press, 1993.
-* Shaughnessy, Edward L., 1992 \[1997], “Marriage, Divorce, and Revolution: Reading between the Lines of the *Book of Changes*”, *The Journal of Asian Studies*, 51(3): 587–599. doi:10.2307/2057951. Reprinted in his *Before Confucius: Studies in the Creation of the Chinese Classics*, (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press, 13–30.
+* Shaughnessy, Edward L., 1992 \[1997], “Marriage, Divorce, and Revolution: Reading between the Lines of the *Book of Changes*”, *The Journal of Asian Studies*, 51(3): 587–599. doi: 10.2307/2057951. Reprinted in his *Before Confucius: Studies in the Creation of the Chinese Classics*, (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press, 13–30.
 * –––, 2014, *Unearthing the Changes: Recently Discovered Manuscripts of the Changes (I Ching) and Related Texts*, New York: Columbia University Press.
 * –––, 2022, *The Origin and Early Development of the* Zhou Changes. Leiden: Brill.
-* Shen, Vincent, 2014, “The Fading of Political Theology and the Rise of Creative Humanism”, in *Dao Companion to Classical Confucian Philosophy*, Vincent Shen (ed.), Heidelberg: Springer, 23–51. doi:10.1007/978-90-481-2936-2\_2
-* Smith, Kidder Jr, 1989, “*Zhouyi* Interpretation from Accounts in the *Zuozhuan*”, *Harvard Journal of Asiatic Studies*, 1989(2): 421–63. doi:10.2307/2719259
-* Smith, Kidder Jr, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt (eds.), 1990, *Sung Dynasty Uses of the I Ching*, Princeton, NJ: Princeton University Press.
-* Smith, Richard J., 2008, *Fathoming the Cosmos and Ordering the World: The Changes (I-Ching, or Classic of Changes) and Its Evolution in China*, Charlottesville, VA: University of Virginia Press.
-* –––, 2012, *The I Ching: A Biography*, Princeton, NJ: Princeton University Press.
-* Tang Yongtong, 2015, *Weijin xuanxue lungao* 魏晉玄學論稿 (Preliminary Studies of the Learning of the Deep during the Wei-jin Period), enlarged and revised edition. Shanghai: Shanghai renmin chubanshe.
-* Tillich, Paul, 1952, *The Courage to Be*, New Haven, CT: Yale University Press.
-* Tracy, David, 1987, *Plurality and Ambiguity: Hermeneutics, Religion, Hope*, San Francisco: Harper & Row.
-* Tu, Wei-ming, 1985, *Confucian Thought: Selfhood as Creative Transformation*, (SUNY series in philosophy), Albany, NY: State University of New York Press.
-* Yu Dunkang, 2007, *He Yan Wang Bi xuanxue xintan* 何晏王弼玄学新探 (A New Research on He Yan and Wang Bi’s Philosophy), Beijing: Fangzhi chubanshe.
-* Wang, Aihe, 2000, *Cosmology and Political Culture in Early China*, Cambridge, UK: Cambridge University Press.
-* Wagner, Rudolf G., 2003, *Language, Ontology, and Political Philosophy in China: Wang Bi’s Scholarly Exploration of the Dark* (Xuanxue), (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press.
-* Whitehead, Alfred North, 1929 \[1978], *Process and Reality: An Essay in Cosmology*, Cambridge: \[Cambridge] University Press. Corrected edition, David Ray Griffin and Donald W. Sherburne (eds.),(Gifford Lectures 1927–28), New York: Free Press, 1978.
-* Zheng Jixiong 郑吉雄 \[Cheng Kat-hung, Dennis], 2018, *Zhouyi jieti* 周易阶梯 (Steps to Understanding the *Zhou Changes*), Shanghai: Shanghai guji chubanshe.
-* Zhu Bokun 朱伯崑, 1986, *Yixue zhexueshi* 易学哲学史 (A History of the Philosophy of the *Book of Changes*), three volumes, Beijing: Beijing daxue chubanshe.
+* Shen, Vincent, 2014, “The Fading of Political Theology and the Rise of Creative Humanism”, in *Dao Companion to Classical Confucian Philosophy*, Vincent Shen (ed.), Heidelberg: Springer, 23–51. doi: 10.1007/978-90-481-2936-2\_2
+* Smith, Kidder Jr, 1989, “* Zhouyi * Interpretation from Accounts in the * Zuozhuan *”, * Harvard Journal of Asiatic Studies*, 1989(2): 421–63. doi: 10.2307/2719259
+* Smith, Kidder Jr, Peter K. Bol, Joseph A. Adler, and Don J. Wyatt (eds.), 1990, * Sung Dynasty Uses of the I Ching*, Princeton, NJ: Princeton University Press.
+* Smith, Richard J., 2008, * Fathoming the Cosmos and Ordering the World: The Changes (I-Ching, or Classic of Changes) and Its Evolution in China*, Charlottesville, VA: University of Virginia Press.
+* –––, 2012, * The I Ching: A Biography*, Princeton, NJ: Princeton University Press.
+* Tang Yongtong, 2015, * Weijin xuanxue lungao* 魏晉玄學論稿 (Preliminary Studies of the Learning of the Deep during the Wei-jin Period), enlarged and revised edition. Shanghai: Shanghai renmin chubanshe.
+* Tillich, Paul, 1952, * The Courage to Be*, New Haven, CT: Yale University Press.
+* Tracy, David, 1987, * Plurality and Ambiguity: Hermeneutics, Religion, Hope*, San Francisco: Harper & Row.
+* Tu, Wei-ming, 1985, * Confucian Thought: Selfhood as Creative Transformation*, (SUNY series in philosophy), Albany, NY: State University of New York Press.
+* Yu Dunkang, 2007, * He Yan Wang Bi xuanxue xintan* 何晏王弼玄学新探 (A New Research on He Yan and Wang Bi’s Philosophy), Beijing: Fangzhi chubanshe.
+* Wang, Aihe, 2000, * Cosmology and Political Culture in Early China*, Cambridge, UK: Cambridge University Press.
+* Wagner, Rudolf G., 2003, * Language, Ontology, and Political Philosophy in China: Wang Bi’s Scholarly Exploration of the Dark* (Xuanxue), (SUNY series in Chinese philosophy and culture), Albany, NY: State University of New York Press.
+* Whitehead, Alfred North, 1929 \[1978], * Process and Reality: An Essay in Cosmology*, Cambridge: \[Cambridge] University Press. Corrected edition, David Ray Griffin and Donald W. Sherburne (eds.),(Gifford Lectures 1927–28), New York: Free Press, 1978.
+* Zheng Jixiong 郑吉雄 \[Cheng Kat-hung, Dennis], 2018, * Zhouyi jieti * 周易阶梯 (Steps to Understanding the * Zhou Changes*), Shanghai: Shanghai guji chubanshe.
+* Zhu Bokun 朱伯崑, 1986, * Yixue zhexueshi * 易学哲学史 (A History of the Philosophy of the * Book of Changes*), three volumes, Beijing: Beijing daxue chubanshe.
 
 ## Academic Tools
 

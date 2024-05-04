@@ -88,7 +88,7 @@ Dreyfus 认为这种“框架问题的极端版本”与古典人工智能和认
 
 * Baars, B. (1988), *A Cognitive Theory of Consciousness*, Cambridge University Press.
 * Brooks, R.A. (1991), “Intelligence without Reason”, in *Proc. 12th International Conference on Artificial Intelligence*, pp. 569–595.
-* Bruineberg, J. & Rietveld, E. (2014), “Self-organization, Free Energy Minimization, and Optimal Grip on a Field of Affordances”, *Frontiers in Human Neuroscience*, 8: 559, doi:10.3389/fnhum.2014.00599
+* Bruineberg, J. & Rietveld, E. (2014), “Self-organization, Free Energy Minimization, and Optimal Grip on a Field of Affordances”, *Frontiers in Human Neuroscience*, 8: 559, doi: 10.3389/fnhum.2014.00599
 * Carruthers, P. (2003), “On Fodor's Problem”, *Mind and Language*, 18(5): 502–523.
 * ––– (2006), *The Architecture of the Mind*, Oxford University Press
 * Chow, S.J. (2013), “What’s the Problem with the Frame Problem?”, *Review of Philosophy and Psychology*, 4: 309–331.

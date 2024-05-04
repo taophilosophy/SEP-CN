@@ -12,11 +12,11 @@
 
 ## 一个历史入门 (IGNORE)
 
-1948 年《人权宣言》的序言中，肯定了“固有尊严”和“人类家庭所有成员的平等和不可剥夺权利”作为“世界自由、正义和和平的基础”（UN 1948）。这一说法会让我们现代的祖先感到惊讶。直到 1830 年至 1850 年左右，英语术语“尊严”，以及其拉丁语词根 dignitas，或法语对应词 dignité，都没有稳定的含义，即“所有人的不劳而获的地位或价值”，更不用说普世权利或平等的基础。相反，在从霍布斯的《利维坦》（1651）到塞缪尔·约翰逊的《词典》（1755）再到韦伯斯特的《简明词典》（1806）的一切中，“尊严”主要是带有传统的功绩内涵——类似约翰逊正式赋予它的“高位等级”。
+1948 年《人权宣言》的序言中，肯定了“固有尊严”和“人类家庭所有成员的平等和不可剥夺权利”作为“世界自由、正义和和平的基础”（UN 1948）。这一说法会让我们现代的祖先感到惊讶。直到 1830 年至 1850 年左右，英语术语“尊严”，以及其拉丁语词根 dignitas，或法语对应词 dignité，都没有稳定的含义，即“所有人的不劳而获的地位或价值”，更不用说普世权利或平等的基础。相反，在从霍布斯的《利维坦》（1651）到塞缪尔 · 约翰逊的《词典》（1755）再到韦伯斯特的《简明词典》（1806）的一切中，“尊严”主要是带有传统的功绩内涵——类似约翰逊正式赋予它的“高位等级”。
 
 这种意义上的巨变是如何发生的呢？联合国宣言明确指出，尊严的道德政治意义在 1948 年之前已经被正常化。但在 1948 年之前发生了什么，解释了这种转变？这些并不容易回答的问题。尽管理论家经常在他们的探究中包含历史性的评论，但它们往往只是简短的，而且往往是为了某些进一步的、非历史性的观点服务。结果是关于尊严过去的许多半吐不吐的故事。
 
-有一些显著的例外情况。有段时间以来，法律理论家一直在勾勒出尊严在法律和法学中的历史角色的细节，尤其是与权利相关的部分。其次，神学对人类尊严的探讨往往涉及到一个更古老的思想历史，尤其是文艺复兴思想家皮科·德拉·米兰多拉或关于《创世记》中上帝形象教义的学术辩论。第三，关于启蒙运动的启蒙思想家伊曼纽尔·康德以及他著名的主张，即人类没有“价格”，只有独特且无法比拟的价值或 Würde——通常翻译为“尊严”（参见，例如，Korsgaard 1986; Meyer 1987; Hill 1992; Kofman 1982 [1997]; Wood 1999; Kain 2009）。让我们转向这些各种例外情况及其挑战。
+有一些显著的例外情况。有段时间以来，法律理论家一直在勾勒出尊严在法律和法学中的历史角色的细节，尤其是与权利相关的部分。其次，神学对人类尊严的探讨往往涉及到一个更古老的思想历史，尤其是文艺复兴思想家皮科 · 德拉 · 米兰多拉或关于《创世记》中上帝形象教义的学术辩论。第三，关于启蒙运动的启蒙思想家伊曼纽尔 · 康德以及他著名的主张，即人类没有“价格”，只有独特且无法比拟的价值或 Würde——通常翻译为“尊严”（参见，例如，Korsgaard 1986; Meyer 1987; Hill 1992; Kofman 1982 [1997]; Wood 1999; Kain 2009）。让我们转向这些各种例外情况及其挑战。
 
 ### 尊严的法律历史
 
@@ -24,7 +24,7 @@
 
 路易斯（2007）对国际法中尊严的概念进行了精彩的概述，但他的重点在于 1945 年联合国宪章和 1948 年人权宣言的撰写和反应。或者考虑麦克鲁登（McCrudden）2013 年编辑的令人印象深刻的著作《理解人类尊严》。该著作的历史章节做出了重要贡献，但重点仍然主要是 20 世纪。例如，斯科特（Scott）的章节（2013）首先观察到，1848 年法国废除奴隶制的法令是基于“奴隶制是对人类尊严的侵犯（la dignité humaine）”的考虑（2013：61）。然后，她很好地探讨了尊严的概念在 1862 年至 1896 年的后奴隶制路易斯安那州的背景下。然而，该章节随后跳转到与 1970 年至 2012 年巴西社会的比较。莫因（Moyn）的章节（2013）研究了 20 世纪早期和中期宪法辩论，以显示尊严的概念在很大程度上受到特定基督教民主观念的负担，出于这个原因，莫因认为，我们应该对尊严对于世俗权利理论的长期效用持怀疑态度。而古斯（Goos）的章节（2013）则对德国思想中尊严的作用进行了仔细审查，但重点在于对战后德国《基本法》的解释。[1]
 
-麦克鲁登（2008）中可以找到更长的法律历史，他对尊严的简明回顾可以追溯到古罗马思想。麦克鲁登认为，我们可以将尊严的价值内涵追溯到罗马对“人的尊严”（2008: 656）的想法，但同样重要的是，他认为我们可以将当代道德政治观念“人的基本价值或地位”追溯到同一时期，当时西塞罗提出了“人类的尊严”的概念（另见，Cancik 2002）。关于西塞罗的这一说法在迈克尔·罗森（2012）的《尊严：其历史与含义》中得到印证，这是另一部重要的专注于法律联系的历史著作。罗森的历史大多是俯瞰全局，但与麦克鲁登一样，罗森的历史具有拉长视野的优点，可以追溯到古代。此外，罗森对 18 世纪和 19 世纪的联系提出了一些微妙的反思，包括康德对德国《基本法》写作的影响。
+麦克鲁登（2008）中可以找到更长的法律历史，他对尊严的简明回顾可以追溯到古罗马思想。麦克鲁登认为，我们可以将尊严的价值内涵追溯到罗马对“人的尊严”（2008: 656）的想法，但同样重要的是，他认为我们可以将当代道德政治观念“人的基本价值或地位”追溯到同一时期，当时西塞罗提出了“人类的尊严”的概念（另见，Cancik 2002）。关于西塞罗的这一说法在迈克尔 · 罗森（2012）的《尊严：其历史与含义》中得到印证，这是另一部重要的专注于法律联系的历史著作。罗森的历史大多是俯瞰全局，但与麦克鲁登一样，罗森的历史具有拉长视野的优点，可以追溯到古代。此外，罗森对 18 世纪和 19 世纪的联系提出了一些微妙的反思，包括康德对德国《基本法》写作的影响。
 
 最后，谈到法律史时，Darwall (2017) 对尊严与西方启蒙运动对法学的联系进行了复杂的分析，延伸至十六世纪。然而，值得注意的是，Darwall 的历史观挑战了 McCrudden 和 Rosen 将西塞罗视为关键来源的观点。我们将在下文回顾这一学术分歧以及 Darwall 的竞争性提议（§1.2.2 和 §1.2.4）。
 
@@ -34,17 +34,17 @@
 
 #### 1.2.1 革命性陈词滥调
 
-西方的人类尊严信条源自十八世纪革命思想家的智慧，如托马斯·杰斐逊（Thomas Jefferson）、亚历山大·汉密尔顿（Alexander Hamilton）或吉尔伯特·杜·莫提耶（Gilbert du Motier），拉法耶特侯爵。在新兴自由国家的建立，如美国，或现有国家的改革，如英格兰或法国，这些政治智者们阐述了个体人的不可侵犯的价值。
+西方的人类尊严信条源自十八世纪革命思想家的智慧，如托马斯 · 杰斐逊（Thomas Jefferson）、亚历山大 · 汉密尔顿（Alexander Hamilton）或吉尔伯特 · 杜 · 莫提耶（Gilbert du Motier），拉法耶特侯爵。在新兴自由国家的建立，如美国，或现有国家的改革，如英格兰或法国，这些政治智者们阐述了个体人的不可侵犯的价值。
 
-在现实中，人们徒劳地寻找这些新共和国的建国文件中的尊严。这个术语在英国权利法案（1689 年）中出现了几次，但并非具有我们当代的道德政治含义。它在法国《人权和公民权宣言》（1789 年）中出现了一次，但其内涵是指随公共或政治职位而来的特权。尽管美国独立宣言对人的平等和“不可剥夺”的权利进行了激烈的修辞，但并未提及人的尊严。美国宪法也没有提及。事实上，直到 1917 年的墨西哥宪法和 1919 年的魏玛宪法，这个术语才在宪法背景下出现，可能具有其道德政治含义（McCrudden 2008; Debes 2009 和 2017b）。除了这些纠正性的证据，我们还应该补充一组完全不同的历史声音的证词——从索杰纳·特鲁斯（Sojourner Truth）、大卫·沃克（David Walker）、安娜·惠勒（Anna Wheeler）和威廉·汤普森（William Thompson），到苏珊·B·安东尼（Susan B. Anthony）、弗雷德里克·道格拉斯（Frederick Douglass）、詹姆斯·雷皮尔（James Rapier）和艾达·B·韦尔斯（Ida B. Wells）——他们提醒我们，这些新共和国内部的现实与革命的陈词相矛盾。这些声音谴责了在他们生活的所谓平等社会中弥漫的系统性压迫和常常血腥的不人道行为。
+在现实中，人们徒劳地寻找这些新共和国的建国文件中的尊严。这个术语在英国权利法案（1689 年）中出现了几次，但并非具有我们当代的道德政治含义。它在法国《人权和公民权宣言》（1789 年）中出现了一次，但其内涵是指随公共或政治职位而来的特权。尽管美国独立宣言对人的平等和“不可剥夺”的权利进行了激烈的修辞，但并未提及人的尊严。美国宪法也没有提及。事实上，直到 1917 年的墨西哥宪法和 1919 年的魏玛宪法，这个术语才在宪法背景下出现，可能具有其道德政治含义（McCrudden 2008; Debes 2009 和 2017b）。除了这些纠正性的证据，我们还应该补充一组完全不同的历史声音的证词——从索杰纳 · 特鲁斯（Sojourner Truth）、大卫 · 沃克（David Walker）、安娜 · 惠勒（Anna Wheeler）和威廉 · 汤普森（William Thompson），到苏珊 ·B· 安东尼（Susan B. Anthony）、弗雷德里克 · 道格拉斯（Frederick Douglass）、詹姆斯 · 雷皮尔（James Rapier）和艾达 ·B· 韦尔斯（Ida B. Wells）——他们提醒我们，这些新共和国内部的现实与革命的陈词相矛盾。这些声音谴责了在他们生活的所谓平等社会中弥漫的系统性压迫和常常血腥的不人道行为。
 
 #### 康德的陈词滥调
 
-早期现代尊严概念源自伊曼纽尔·康德（Immanuel Kant），他在 1785 年的《道德形而上学基础》中提出，所有人都具有固有价值或尊严，这是由于他们的理性自治性。这种价值要求一种特殊类型的道德尊重，我们通过遵守对他人的某些限制来表达这种尊重。因此，康德认为我们有一种绝对的责任，始终要将人视为“目的”而非“手段”（《道德形而上学基础》，4:429）。
+早期现代尊严概念源自伊曼纽尔 · 康德（Immanuel Kant），他在 1785 年的《道德形而上学基础》中提出，所有人都具有固有价值或尊严，这是由于他们的理性自治性。这种价值要求一种特殊类型的道德尊重，我们通过遵守对他人的某些限制来表达这种尊重。因此，康德认为我们有一种绝对的责任，始终要将人视为“目的”而非“手段”（《道德形而上学基础》，4: 429）。
 
 这是哲学中关于尊严的最伟大教条。但有充分的理由重新考虑，以支持更复杂的思想历史。首先，尽管众所周知康德在各种方式上受到卢梭的影响（尤其参见 Beiser 1992），但最近的研究表明，当涉及到他对“人性”和“尊严”观念时，这种债务比一般理解的更深（James 2013；Hanley 2017；Sensen 2017）。Sensen 还认为，长期以来认为康德将尊重他人的义务建立在人类拥有的“绝对内在价值”上是一个解释错误；而且“尊严”本身并不是康德赋予这种价值的名称（Sensen 2011 和 2017；另见 Meyer 1987）。相关地，Debes（2021）认为，当代哲学家极大地高估了康德对我们对人的道德尊重观念历史发展的影响。
 
-达沃尔（2017）认为，尊严与权利之间的概念联系并非源自康德。根据达沃尔的观点，只有某些对尊严的理解才能支持关于尊重的推论，从而可以证明使用尊严作为人权的基础。换言之，那些将尊严解释为一种具有权威性的地位，可以提出“第二人称”要求的理解。然而，达沃尔进一步主张，这一关键观点的最初启示来自自然法学家塞缪尔·普芬多夫（另见达沃尔 2012）。
+达沃尔（2017）认为，尊严与权利之间的概念联系并非源自康德。根据达沃尔的观点，只有某些对尊严的理解才能支持关于尊重的推论，从而可以证明使用尊严作为人权的基础。换言之，那些将尊严解释为一种具有权威性的地位，可以提出“第二人称”要求的理解。然而，达沃尔进一步主张，这一关键观点的最初启示来自自然法学家塞缪尔 · 普芬多夫（另见达沃尔 2012）。
 
 普芬多夫在康德之前的一个世纪写道，人类拥有完美的自然权利（彼此应尽的权利），这是由于我们彼此赋予的某种道德“地位”，作为成为社交的一个构成部分。每当我们直接与另一个人交谈时，例如，用“你必须允许我发言”的要求，我们在暗示地将他们视为一个负责任的存在。否则，为什么要与他们交谈呢？当他们与我们交谈时也是如此。换句话说，根据普芬多夫的观点，成为社交的一部分暗示着一种基本道德地位的相互假设——我们对他们，他们对我们——每当我们互动时，即使这种交谈可能会侵犯对方的平等地位。事实上，这正是“尊严”变得最为紧迫的时候。因此，普芬多夫写道：
 
@@ -52,7 +52,7 @@
 
 #### 1.2.3 人的形象 (IGNORE)
 
-尊严的道德化概念并非起源于近代。早在文艺复兴时期，就已经被赞颂，例如乔凡尼·皮科·德拉·米兰多拉（Giovanni Pico della Mirandola）于 1486 年所作的《人的尊严演说》。此外，皮科的演说源自更古老的中世纪基督教“上帝形象”（基于《创世记》1:26 和《智慧篇》2:23）的教义，告诉我们我们是“按照上帝的形象”创造的，这种相似性构成了我们独特的道德价值或地位的基础。
+尊严的道德化概念并非起源于近代。早在文艺复兴时期，就已经被赞颂，例如乔凡尼 · 皮科 · 德拉 · 米兰多拉（Giovanni Pico della Mirandola）于 1486 年所作的《人的尊严演说》。此外，皮科的演说源自更古老的中世纪基督教“上帝形象”（基于《创世记》1: 26 和《智慧篇》2: 23）的教义，告诉我们我们是“按照上帝的形象”创造的，这种相似性构成了我们独特的道德价值或地位的基础。
 
 这个关于尊严的故事对基督教神学来说就像康德的教条对哲学一样重要。然而，这些说法通常是误导的，如果不是错误的话。例如，Copenhaver（2017）直截了当地反驳了皮科在谈论人类尊严时与我们当代的道德政治概念相似的说法。首先，Copenhaver 指出这部作品的标题，引起了我们的注意，是在皮科之后的（他从未出版过）。更重要的是，Copenhaver 认为皮科的演讲在很大程度上是一次公开失败，因为它与卡巴拉神秘主义纠缠在一起，探讨人类如何通过成为天使来提升自己的地位。最后，Copenhaver 指出皮科只使用了拉丁语中的 dignitas 这个词两次；并
 
@@ -102,7 +102,7 @@ Killmister (2020)提出了一个更为近期的模式。Killmister 提出了尊�
 1. 任何令人满意的尊严理论都必须解释承认尊严意味着什么；
 2. 这种认可最好被描述为一种尊重。
 
-因此，根据基尔米斯特（Killmister）的观点，尊严规范通常可以被重新描述为阐明尊重的基础——无论是自我尊重（个人尊严的情况）还是他人的尊重（社会尊严的情况）。此外，她认为，与个人和社会尊严相关的尊重是史蒂芬·达沃尔（Stephen Darwall）在 1977 年有影响力地称之为“评价尊重”的那种尊重。这种尊重是一种积极的评价态度或感受，我们对自己或他人的某种品德优点表示出来。在这个意义上，尊重类似于尊敬。基尔米斯特写道：
+因此，根据基尔米斯特（Killmister）的观点，尊严规范通常可以被重新描述为阐明尊重的基础——无论是自我尊重（个人尊严的情况）还是他人的尊重（社会尊严的情况）。此外，她认为，与个人和社会尊严相关的尊重是史蒂芬 · 达沃尔（Stephen Darwall）在 1977 年有影响力地称之为“评价尊重”的那种尊重。这种尊重是一种积极的评价态度或感受，我们对自己或他人的某种品德优点表示出来。在这个意义上，尊重类似于尊敬。基尔米斯特写道：
 
 > 个人高度尊严意味着，根据我们自己的标准，我们应该高度尊重自己...社会高度尊严意味着，根据我们社区的标准，他们应该高度尊重我们。(2020: 23)
 
@@ -118,7 +118,7 @@ Killmister (2020)提出了一个更为近期的模式。Killmister 提出了尊�
 
 人类尊严最终成为“地位尊严”的一个“特别重要的例子”。所有人类由于其属于“人类”这一类别的“事实”，都应当得到尊重和认可（2020: 129–30）。
 
-这样说，Killmister 的结论与 Darwall 对人类尊严的描述有所偏离，这与他对承认尊重理论的修订有关，该理论将承认尊重与第二人称称呼的相互“权威”联系起来，正如早期对 Pufendorf 的历史反思中所讨论的那样（见§1.2.3 上文；以及 Darwall 2006，特别是第 14 页）。还要注意，像 Kateb 一样，Killmister 避免将“人类”看作是一种自然种类，而更倾向于将其理解为一种社会种类。
+这样说，Killmister 的结论与 Darwall 对人类尊严的描述有所偏离，这与他对承认尊重理论的修订有关，该理论将承认尊重与第二人称称呼的相互“权威”联系起来，正如早期对 Pufendorf 的历史反思中所讨论的那样（见 §1.2.3 上文；以及 Darwall 2006，特别是第 14 页）。还要注意，像 Kateb 一样，Killmister 避免将“人类”看作是一种自然种类，而更倾向于将其理解为一种社会种类。
 
 ### 2.1 尊严的定义属性与尊严的基础
 
@@ -142,9 +142,9 @@ Killmister (2020)提出了一个更为近期的模式。Killmister 提出了尊�
 
 Debes (2009)中可以找到第二阶思维的另一个例子，他认为，任何令人满意的关于人类尊严的“形式”描述——他指的是其定义属性的描述——必须指出属于人类的“独特”价值或地位。而且它必须是独特的，因为它（a）不是基于功绩的，而是不赚得的；（b）在某种意义上与其他价值“不可比较”；以及（c）解释概念的基本“规范功能”。关于（c），Debes 认为尊严的概念并不仅仅是描述性的，甚至主要是描述性的。相反，它具有规范目的或作用，即“在我们的实践思考中，无论‘尊严’被应用于什么，都要保护或保护具有尊严的东西”（2009 年：61-2）。
 
-或者考虑沃尔德伦（2012 年），他追踪了法律讨论中关于尊严的混淆，即（一方面）关于尊严定义性质的定义性主张和（另一方面）关于尊严实际条件的主张；也就是说，其道德、社会或政治认可的条件。因此，沃尔德伦指出了各种人权宪章声称尊严是“固有的”于人的方式；但也“命令我们做出英勇努力以确立每个人的尊严”（2012 年：16，强调添加）。他写道，这样的主张可能看起来像是一种模棱两可，类似于卢梭曾经声称的“人生而自由，却无往不在枷锁之中”的说法，这是杰里米·本丹后来称之为“可悲的胡说八道”。然而，沃尔德伦认为本丹错过了对卢梭的一个简单解释：
+或者考虑沃尔德伦（2012 年），他追踪了法律讨论中关于尊严的混淆，即（一方面）关于尊严定义性质的定义性主张和（另一方面）关于尊严实际条件的主张；也就是说，其道德、社会或政治认可的条件。因此，沃尔德伦指出了各种人权宪章声称尊严是“固有的”于人的方式；但也“命令我们做出英勇努力以确立每个人的尊严”（2012 年：16，强调添加）。他写道，这样的主张可能看起来像是一种模棱两可，类似于卢梭曾经声称的“人生而自由，却无往不在枷锁之中”的说法，这是杰里米 · 本丹后来称之为“可悲的胡说八道”。然而，沃尔德伦认为本丹错过了对卢梭的一个简单解释：
 
-> [一个人]在司法意义上可能被确定为自由人，即他的法律地位，即使他处于奴隶制度下...因此，同样地，可以说每个人作为地位的问题是自由的——这是他的创造者赋予他的地位，即使事实上有些人实际上被束缚，需要将他们的自由表现为规范要求的内容。(2012: 16–17)
+> [一个人] 在司法意义上可能被确定为自由人，即他的法律地位，即使他处于奴隶制度下...因此，同样地，可以说每个人作为地位的问题是自由的——这是他的创造者赋予他的地位，即使事实上有些人实际上被束缚，需要将他们的自由表现为规范要求的内容。(2012: 16–17)
 
 沃尔德伦迅速补充说，一个人可能会回避神创造的具体前提作为确立人类自由的方式。那种形而上学前提只是一个例子。他的总体观点是，提出这种主张并不是不连贯的。因为关于人的地位的操作性主张——即，他们是自由的这一主张是关于“人”概念的一个定义属性（在司法意义上），因此我们可以将这一主张与任何关于什么确立了这种“自由”地位的进一步主张以及任何关于需要表达、实现或认可这种地位的世俗条件的主张区分开来。
 
@@ -152,7 +152,7 @@ Debes (2009)中可以找到第二阶思维的另一个例子，他认为，任�
 
 > 一方面，“尊严”一词可能用来传达有关人类固有等级或地位的内容；另一方面，它可能同时用来传达对等级或地位应该得到认可的要求。(2012: 17)
 
-重要的是，沃尔德伦进一步认为，尊严找到了它适当的概念归属地不在道德中，而在权利的法律背景中。他写道，“法律是它的自然栖息地”（2012: 13）。这是因为，他认为，权利阐明了，或者详细说明了，现代尊严概念通常包含或暗示的种类地位；而且，这也是他自己理论所依赖的。因此，对于沃尔德伦来说，将我们当代的人类尊严概念建立在厚重的形而上学基础上——一些不可侵犯的价值，“存在于”人类之中，无论是由于神圣创造还是其他原因，从历史上看是错误的，从理论上看是混乱的。相反，在沃尔德伦看来，当代人类尊严概念本质上是塞缪尔·约翰逊的“高尚地位”这一古老观念，尽管在现代意识中被重新塑造，适用于所有人类。
+重要的是，沃尔德伦进一步认为，尊严找到了它适当的概念归属地不在道德中，而在权利的法律背景中。他写道，“法律是它的自然栖息地”（2012: 13）。这是因为，他认为，权利阐明了，或者详细说明了，现代尊严概念通常包含或暗示的种类地位；而且，这也是他自己理论所依赖的。因此，对于沃尔德伦来说，将我们当代的人类尊严概念建立在厚重的形而上学基础上——一些不可侵犯的价值，“存在于”人类之中，无论是由于神圣创造还是其他原因，从历史上看是错误的，从理论上看是混乱的。相反，在沃尔德伦看来，当代人类尊严概念本质上是塞缪尔 · 约翰逊的“高尚地位”这一古老观念，尽管在现代意识中被重新塑造，适用于所有人类。
 
 沃尔德龙解释说，我们对尊严概念的历史革命实质上是将所有人的社会地位提升到曾经仅为贵族精英所保留的水平。我们简单地重新定义了“尊严”这个术语，用以描述这种高贵地位，抛弃了其最初的“种类”内涵，转而采用了新的平等主义内涵（2012: 57–61）。此外，他声称所有这一切都是通过（或主要通过）权利范式发生的。为了简化论证：沃尔德龙认为社会地位较低的人成功地吞并了原本属于社会地位较高者的权利，通过重新解释这些权利为人权。这也解释了为什么权利仍然是描绘与“尊严”相关的社会地位的关键工具，以及为什么尊严的适当归属是法律，而不是道德。
 
@@ -162,7 +162,7 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 ### 尊严是否与权利的联系是尊严的定义特性？
 
-这篇文章的范围无法全面回答这个问题。 （良好的起点包括 Meyer 和 Parent 1992; Gewirth 1992，Carozza 2008 和 2013;以及 Tasioulas 2013）。 相反，让我们提出一些关于尊严和权利之间关系的要点，特别是在试图将其作为尊严本身的定义属性的努力方面。 为了了解这些要点，请考虑 Fitzpatrick（2013）关于尊严定义标准的最终提议：
+这篇文章的范围无法全面回答这个问题。 （良好的起点包括 Meyer 和 Parent 1992; Gewirth 1992，Carozza 2008 和 2013; 以及 Tasioulas 2013）。 相反，让我们提出一些关于尊严和权利之间关系的要点，特别是在试图将其作为尊严本身的定义属性的努力方面。 为了了解这些要点，请考虑 Fitzpatrick（2013）关于尊严定义标准的最终提议：
 
 > 尊严的主要概念是一种特定道德地位的想法，涉及拥有一种固有的、不是靠努力获得的价值或地位——一种既不依赖于对他人有用或感兴趣，也不基于个人的优点的基本价值或地位，本质上需要某种形式的尊重。 (2013: 5546)
 
@@ -170,27 +170,27 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 首先，将尊严主要描述为“地位”而非“价值”，与像沃尔德伦（Waldron）这样的人一致，他们在他们的论述和所有种类的“价值”或“价值观”概念与人类尊严之间做出了原则性区分（例如，基尔米斯特（Killmister）2020 年强调了这一区别；丹-科恩（Dan-Cohen）2012 年对沃尔德伦的重要性进行了分析）。然而，菲茨帕特里克（Fitzpatrick）立即在这一点上产生了歧义，将地位重新定义为“价值或地位”。同样，考虑像阿皮亚-沃尔德伦（Appiah-Waldron）这样认为人类尊严取决于一种重新塑造的高社会地位观念的人，严格来说，必须拒绝菲茨帕特里克所诉诸的“固有性”属性。但如果这被解释为历史上与重新塑造的地位概念相关联的替代描述，他们可能会允许“非赚得的”这种描述，特别是如果这被解释为历史上与重新塑造的地位概念相关联的替代描述。
 
-对于关于权利的问题，更重要的是考虑菲茨帕特里克（Fitzpatrick）的最后一句话，即尊严“要求某种形式的尊重”。乍一看，这种呼吁似乎仅仅是德贝斯（Debes）（2009）声称尊严具有独特的“规范功能”的一个细化。如果是这样，那么这将是许多理论家共有的一个细化，正如我们在§2.1 中已经注意到的那样。然而，菲茨帕特里克立即将这种关于尊重的一般性主张与尊严规范功能的两个具体阐述联系起来。他写道：
+对于关于权利的问题，更重要的是考虑菲茨帕特里克（Fitzpatrick）的最后一句话，即尊严“要求某种形式的尊重”。乍一看，这种呼吁似乎仅仅是德贝斯（Debes）（2009）声称尊严具有独特的“规范功能”的一个细化。如果是这样，那么这将是许多理论家共有的一个细化，正如我们在 §2.1 中已经注意到的那样。然而，菲茨帕特里克立即将这种关于尊重的一般性主张与尊严规范功能的两个具体阐述联系起来。他写道：
 
 > 许多人认为，所有人都具有基本的、不可剥夺的尊严，这种尊严构成了基本权利的基础，或者说构成了向他人提出要求和要求的权威。 (2013: 5546)
 
 两种主张都值得深入阐述。
 
-第一个主张[1]表达了最有力的，或者至少是将权利与尊严联系起来的最直接方式，即将尊严作为权利的规范基础。因此，假设有人询问任何给定权利 x 的理由是什么，来支持“x 是人权”的说法？对于那些持这一立场的人来说，答案是“尊严”。或者至少是“人的尊严”。
+第一个主张 [1] 表达了最有力的，或者至少是将权利与尊严联系起来的最直接方式，即将尊严作为权利的规范基础。因此，假设有人询问任何给定权利 x 的理由是什么，来支持“x 是人权”的说法？对于那些持这一立场的人来说，答案是“尊严”。或者至少是“人的尊严”。
 
-现在，在某种意义上，主张[1]并不令人意外，因为它具有法律现实性。例如，尽管这一主张在《世界人权宣言》（1948 年）以及《联合国宪章》（1945 年）中仅是暗含的，但 1966 年对宪章的修正使其明确化，宣称权利“源自人的固有尊严”。此外，像这样的主张在国家宪法中变得越来越普遍，尤其是在西方，以及其他国际宪章和人道主义宣言中（例如，Schachter 1983 年，Iglesias 2001 年，Shultziner 2007 年和 McCrudden 2008 年，有关总结和分析）。
+现在，在某种意义上，主张 [1] 并不令人意外，因为它具有法律现实性。例如，尽管这一主张在《世界人权宣言》（1948 年）以及《联合国宪章》（1945 年）中仅是暗含的，但 1966 年对宪章的修正使其明确化，宣称权利“源自人的固有尊严”。此外，像这样的主张在国家宪法中变得越来越普遍，尤其是在西方，以及其他国际宪章和人道主义宣言中（例如，Schachter 1983 年，Iglesias 2001 年，Shultziner 2007 年和 McCrudden 2008 年，有关总结和分析）。
 
-然而，重要的是要注意，这种法律主张几乎总是蛮横的断言。它们并不是对理论的认真尝试。更确切地说，它们并没有声称任何关于尊严（作为一个概念）的充分理论必须解释尊严与权利之间的基础关系。这一点很重要，因为与 FitzPatrick 或像詹姆斯·格里芬（2008）那样坚决强调尊严作为权利基础的人不同，一些理论家挑战、避免甚至拒绝主张[1]。这包括挑战任何现有实质性尊严解释来确立权利可行性的怀疑论者（稍后讨论）。但也包括一些辩护尊严的理论家（以某种形式）。例如，沃尔德伦绕过了在主张[1]中涉及的承诺类型。他允许尊严涉及每个人将自己看作是“法律和道德主张的自发来源”（2012: 60），但他论点的总体含义是，权利阐明了人类被提升到的“高”地位的本质。因此，在他看来，尊严并不是权利的规范基础。相反，法律体系，特别是权利，“在其明确规定和整体运作方式中构成和维护人类的尊严”（2012: 67）。
+然而，重要的是要注意，这种法律主张几乎总是蛮横的断言。它们并不是对理论的认真尝试。更确切地说，它们并没有声称任何关于尊严（作为一个概念）的充分理论必须解释尊严与权利之间的基础关系。这一点很重要，因为与 FitzPatrick 或像詹姆斯 · 格里芬（2008）那样坚决强调尊严作为权利基础的人不同，一些理论家挑战、避免甚至拒绝主张 [1]。这包括挑战任何现有实质性尊严解释来确立权利可行性的怀疑论者（稍后讨论）。但也包括一些辩护尊严的理论家（以某种形式）。例如，沃尔德伦绕过了在主张 [1] 中涉及的承诺类型。他允许尊严涉及每个人将自己看作是“法律和道德主张的自发来源”（2012: 60），但他论点的总体含义是，权利阐明了人类被提升到的“高”地位的本质。因此，在他看来，尊严并不是权利的规范基础。相反，法律体系，特别是权利，“在其明确规定和整体运作方式中构成和维护人类的尊严”（2012: 67）。
 
-基尔米斯特（2020）追随沃尔德龙的步伐，但她更加明确。她主张，“‘人权’是我们表达人类应该如何被对待的一部分”（2020: 143）。而且，就像舒尔茨纳（2007）所言，她警告不要试图直接从尊严中推导出权利的内容，这一警告进一步反对将主张[1]作为定义标准的一部分。相关地，迈耶（1989）得出结论，就我们努力解释权利而言，我们永远无法成功解释尊严：“拥有和行使某些权利对我们作为人类的尊严至关重要”，迈耶认为，
+基尔米斯特（2020）追随沃尔德龙的步伐，但她更加明确。她主张，“‘人权’是我们表达人类应该如何被对待的一部分”（2020: 143）。而且，就像舒尔茨纳（2007）所言，她警告不要试图直接从尊严中推导出权利的内容，这一警告进一步反对将主张 [1] 作为定义标准的一部分。相关地，迈耶（1989）得出结论，就我们努力解释权利而言，我们永远无法成功解释尊严：“拥有和行使某些权利对我们作为人类的尊严至关重要”，迈耶认为，
 
 > 我们通常认为对人类尊严至关重要的东西，即使我们能够详细说明所有相关权利以及它们各自表达或保护人类尊严的特定方式，也不会被解释清楚。 (1989: 521)
 
 梅耶的观点被唐纳利（1982）的社会学主张所加强（甚至可能被预先考虑），即在“权利”在文化中是或曾经是一个相对陌生的概念的文化中，人类尊严并非如此。如果唐纳利是正确的，那么除了动机目的之外，权利理论在恰当描述尊严的定义特性方面可能根本行不通（另见霍华德 1992，部分重述唐纳利的观点）。
 
-施罗德（2012）和莫因（2013）警告称，关于权利和尊严之间的“规范基础”版本的联系主张——即主张[1]——使尊严变得脆弱，因为我们当代的人类尊严概念背负着对非世俗、神学传统的不足重视的债务（另见阿迪斯 2013）。瓦伦蒂尼（2017）认为，主张[1]的合理性取决于我们想要捍卫尊严的哪些其他定义属性。具体而言，她认为，如果尊严被视为固有的，那么主张[1]不仅变得“无信息量”，因为“固有尊严的概念是模糊的”；它还会对大多数权利理论的目标产生反作用。她继续说，固有性主张将权利辩论推向“深不可测的形而上学领域”，并让我们从权利（尤其是人权）的主要政治功能，即限制“强大行为者的行为”（2017：862-3），分散注意力。
+施罗德（2012）和莫因（2013）警告称，关于权利和尊严之间的“规范基础”版本的联系主张——即主张 [1]——使尊严变得脆弱，因为我们当代的人类尊严概念背负着对非世俗、神学传统的不足重视的债务（另见阿迪斯 2013）。瓦伦蒂尼（2017）认为，主张 [1] 的合理性取决于我们想要捍卫尊严的哪些其他定义属性。具体而言，她认为，如果尊严被视为固有的，那么主张 [1] 不仅变得“无信息量”，因为“固有尊严的概念是模糊的”；它还会对大多数权利理论的目标产生反作用。她继续说，固有性主张将权利辩论推向“深不可测的形而上学领域”，并让我们从权利（尤其是人权）的主要政治功能，即限制“强大行为者的行为”（2017：862-3），分散注意力。
 
-现在考虑连接主张[2]：尊严为一般主张的权威提供了基础。有人认为，将尊严作为权利的规范基础的第一个连接主张[1]，最终只是第二主张[2]的一个特例。在这方面，最为著名的可能是费恩伯格（1970 [1980]），他在论证人际主张的行为或实践是“赋予权利特殊道德意义”的过程中，对尊严做了这样的一带而过的评论：“所谓的‘人类尊严’可能只是可识别的主张能力”（1970 [1980: 151]）。诚然，费恩伯格并未详细阐述这一点。而且，尚不十分清楚权威本身是否是他对这种“能力”概念的一部分。尽管如此，这一观点似乎与主张[2]相呼应，尤其是如果我们将费恩伯格的观点与早前讨论的达沃尔关于第二人称权威的观点相结合。事实上，迈耶（1989）试图以一种似乎预见达沃尔观点的方式来详细阐述费恩伯格。（另见，福斯特 2011，他提出了与达沃尔类似的论点，部分归功于恩斯特·布洛赫。但参见桑乔瓦尼 2017，他反对达沃尔和福斯特，特别是第 50-60 页）。
+现在考虑连接主张 [2]：尊严为一般主张的权威提供了基础。有人认为，将尊严作为权利的规范基础的第一个连接主张 [1]，最终只是第二主张 [2] 的一个特例。在这方面，最为著名的可能是费恩伯格（1970 [1980]），他在论证人际主张的行为或实践是“赋予权利特殊道德意义”的过程中，对尊严做了这样的一带而过的评论：“所谓的‘人类尊严’可能只是可识别的主张能力”（1970 [1980: 151]）。诚然，费恩伯格并未详细阐述这一点。而且，尚不十分清楚权威本身是否是他对这种“能力”概念的一部分。尽管如此，这一观点似乎与主张 [2] 相呼应，尤其是如果我们将费恩伯格的观点与早前讨论的达沃尔关于第二人称权威的观点相结合。事实上，迈耶（1989）试图以一种似乎预见达沃尔观点的方式来详细阐述费恩伯格。（另见，福斯特 2011，他提出了与达沃尔类似的论点，部分归功于恩斯特 · 布洛赫。但参见桑乔瓦尼 2017，他反对达沃尔和福斯特，特别是第 50-60 页）。
 
 ### 尊严是否是独特性和脆弱性的定义特征？
 
@@ -198,7 +198,7 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 首先，在其悠久的历史中，对人类尊严的探讨经常与对何为伤害尊严的考虑相结合：什么构成了对尊严的不尊重？我们是否会失去它？它是否可以被摧毁？等等。将这称为尊严“脆弱性”的问题。有时，这个问题在对尊严的直接审视中被提出（例如，参见 Kaplan 1999 或 Dussel 2003）。在其他时候，动机是实用的。例如，在他对法律上对尊严的呼吁的反思中，Schacter（1983）写道：
 
-> 当[尊严]在具体情况中被引用时，通常认为即使无法定义抽象术语，也可以认识到对人类尊严的侵犯。“即使我无法告诉你它是什么，但我看到时就知道它是什么”。(1983: 849)
+> 当 [尊严] 在具体情况中被引用时，通常认为即使无法定义抽象术语，也可以认识到对人类尊严的侵犯。“即使我无法告诉你它是什么，但我看到时就知道它是什么”。(1983: 849)
 
 并且在某些情况下，这些反思是双向的；也就是说，从对特定类型的非人性伤害（奴役、折磨、强奸、种族灭绝；疏远、羞辱、尴尬）的分析到尊严，或者其近似词之一，比如“人性”（尤其参见，Neuhäuser 2011；Morawa 2013；Haslam 2014；Frick 2021；Mikkola 2021）。
 
@@ -226,7 +226,7 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 人类在宗教、哲学、文学和艺术中被视为道德上特殊或独特的观念在所有社会中都有所体现，无论是现代的还是古代的。与这一观念和表达相关的是对这种独特“价值”是什么的持久探讨。自古以来，许多人将这种关于人类独特性的观念转化为人类至高无上的价值观。例如，索福克勒斯的《安提戈尼》（约公元前 441 年）中的合唱团赞美人类是世界上最“奇妙”的事物，是一位穿越自然世界的奇迹，就像一名水手穿越“危险”的汹涌海洋，威胁着将其吞没（见第 332 行以下，引自 Debes 2009 第 52 页）。同样，犹太-基督教的上帝形象教义宣扬人类对地球的统治和人类的独特价值。该教义暗示，除了上帝和天使外，人类是至高无上的宝贵存在。
 
-尽管严格来说，这些并不是对理论的引用。然而，尊严的历史发展长期以来一直与这种广泛尝试解释人类独特性的努力纠缠在一起，即使只是在暗示或类似“独特性”（例如，Muray 2007 和 Rolston 2008）的术语下。事实上，可以说，尊严概念的最基本要点，尤其是当它被塑造成“人类尊严”这一范畴时，就是描述人类的独特美德、价值或地位。从西塞罗关于“人类种族”的特殊价值的古老主张；到 Schacter（1983）反对 Waldron 的论点，即尊严在法律背景之外的重要性凸显了需要“将其视为一个独立主题”（1983: 854）；到 Iglesias（2001）试图解释我们作为人类的“独特性”；到 Kateb（2011）声称人类尊严涉及人类作为“地球的管理者”所具有的独特角色——在所有这些论点中，独特性的要点都在起作用。或者考虑西蒙娜·韦伊尔（Simone Weil），她在二战的阴影下写作，也启发了 Iglesias。
+尽管严格来说，这些并不是对理论的引用。然而，尊严的历史发展长期以来一直与这种广泛尝试解释人类独特性的努力纠缠在一起，即使只是在暗示或类似“独特性”（例如，Muray 2007 和 Rolston 2008）的术语下。事实上，可以说，尊严概念的最基本要点，尤其是当它被塑造成“人类尊严”这一范畴时，就是描述人类的独特美德、价值或地位。从西塞罗关于“人类种族”的特殊价值的古老主张；到 Schacter（1983）反对 Waldron 的论点，即尊严在法律背景之外的重要性凸显了需要“将其视为一个独立主题”（1983: 854）；到 Iglesias（2001）试图解释我们作为人类的“独特性”；到 Kateb（2011）声称人类尊严涉及人类作为“地球的管理者”所具有的独特角色——在所有这些论点中，独特性的要点都在起作用。或者考虑西蒙娜 · 韦伊尔（Simone Weil），她在二战的阴影下写作，也启发了 Iglesias。
 
 > 每个人都有一种神圣的东西，但那不是他的人。也不是人的个性。它就是这个人；不多不少……他的全部。手臂，眼睛，思想，一切。我不会毫不留情地碰触他的任何一部分。（first published 1957 [1986: 50–51]）
 
@@ -246,7 +246,7 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 后一种要求（一些理论家坚持的），不仅武断地排除了不同实体之间的尊严共享空间，而且还冒着排除尊严基础的最佳选择的风险
 
-> 如果理性最终被证明是人类尊严理论最具防御性的基础，我们[人类]不会仅仅因为发现黑猩猩和鲸鱼是理性的，或者火星人确实已经试图与我们沟通了几千年，就放弃它。(2009: 61).
+> 如果理性最终被证明是人类尊严理论最具防御性的基础，我们 [人类] 不会仅仅因为发现黑猩猩和鲸鱼是理性的，或者火星人确实已经试图与我们沟通了几千年，就放弃它。(2009: 61).
 
 ### 个体与物种
 
@@ -292,11 +292,11 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 > [关怀尊重] 将对人的尊重基于某种抽象概念，几乎所有人类都具有并可以说拥有同等的东西 - 作为一个个体人类“我”的特征 - 这是我们每个人都珍视并认为在道德上非常重要且在道德上存在深刻问题的特征，不仅存在于他人身上，也存在于我们自己身上，这让我们的注意力转向每个人的具体细节。在关怀尊重的观点中，我们不仅要关注某人是一个“我”，还要关注她是哪一个特定的“我”。（Dillon 1992: 118）
 
-迪隆在这里表达的核心观念关于尊严的基础，即个体人的具体“特殊性”（正如她在 1992 年所说的那样：115 页），可以追溯到艾丽丝·默多克（1970 年）和伊丽莎白·斯佩尔曼（1978 年）。这也 resonates with the thinking of Simon Weil, noted above in §3.2. 更一般地，迪隆的论点说明了以尊重的概念作为我们的出发点可能会导致对人类尊严产生非常不同的看法。
+迪隆在这里表达的核心观念关于尊严的基础，即个体人的具体“特殊性”（正如她在 1992 年所说的那样：115 页），可以追溯到艾丽丝 · 默多克（1970 年）和伊丽莎白 · 斯佩尔曼（1978 年）。这也 resonates with the thinking of Simon Weil, noted above in §3.2. 更一般地，迪隆的论点说明了以尊重的概念作为我们的出发点可能会导致对人类尊严产生非常不同的看法。
 
 ## 怀疑的担忧
 
-尊严的概念复杂性引发了对该概念实用性的长期争议，一些人得出结论认为它是无望混乱或本质上模棱两可。其中一种被引用较多的版本来自耶鲁大学生物伦理学家鲁思·麦克林（Ruth Macklin），她在一篇广泛阅读的 2003 年社论中提出了这一抱怨。“尊严”，她断言，“是一个无用的概念。它仅仅意味着尊重人或他们的自主权”（2003: 1419）。
+尊严的概念复杂性引发了对该概念实用性的长期争议，一些人得出结论认为它是无望混乱或本质上模棱两可。其中一种被引用较多的版本来自耶鲁大学生物伦理学家鲁思 · 麦克林（Ruth Macklin），她在一篇广泛阅读的 2003 年社论中提出了这一抱怨。“尊严”，她断言，“是一个无用的概念。它仅仅意味着尊重人或他们的自主权”（2003: 1419）。
 
 麦克林的主张并没有得到很多论证支持。根据文献来看，她的抱怨并没有减缓生物伦理学中尊严的应用，现在尊严被讨论在残疾研究、老年护理、人类研究、克隆、"嵌合体"、增强、超人主义和安乐死等各种背景下（参见参考文献以获取这些领域的信息）。然而，要找到麦克林的盟友并不难。
 
@@ -311,11 +311,11 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 > 奴隶制度的需求产品是在自己面前隐藏的。悲惨的时代，奴隶需要这样的概念，他被激励去思考自己以及超越自己！（摘自《希腊国家》，1871 年；引自罗森 2012a: 144）
 
-实际上，这种怀疑的观点比罗森所认识到的要早。因此，在他 1714 年的《蜜蜂寓言》中，伯纳德·曼德维尔基本上提出了相同的论点。在对道德起源进行推测时，曼德维尔写道：
+实际上，这种怀疑的观点比罗森所认识到的要早。因此，在他 1714 年的《蜜蜂寓言》中，伯纳德 · 曼德维尔基本上提出了相同的论点。在对道德起源进行推测时，曼德维尔写道：
 
 > 利用这个迷人的引擎（奉承之意），[政治家们] 赞美我们的本性优于其他动物...做到这一点后，他们向他们阐明，如此崇高的生物关心满足与野兽共有的欲望是多么不合适，同时却忽视了赋予他们优越性的更高品质。 (1714 [1988: 43])
 
-3. 尊严是空洞的。忽略任何关于任何特定政治机构如何操纵尊严这一概念以达到其目的，或者人类的自尊如何利用尊严这一概念来促进对我们个人道德失败的自欺，也许尊严这一概念是多余的。例如，考虑《世界人权宣言》第一条的第一句：“人人生而自由，在尊严和权利上一律平等”。罗森问道，如果只说“人人生而自由，在权利上一律平等”，会失去什么呢？（2012a: 149）。这种抱怨的稍微不同版本是，由于其空洞性，尊严已经变成了纯粹的教条。例如，在法律背景下，提奥德·豪斯称尊严为法律中的“非解释性命题”。科斯塔斯·杜齐纳斯认为尊严是在“竞争性法律意识形态的霸权之战”中的一个空洞占位符（另见，麦克鲁登 2013a 对这两者的一些分析；另见，巴加里奇和艾伦 2006）。
+3. 尊严是空洞的。忽略任何关于任何特定政治机构如何操纵尊严这一概念以达到其目的，或者人类的自尊如何利用尊严这一概念来促进对我们个人道德失败的自欺，也许尊严这一概念是多余的。例如，考虑《世界人权宣言》第一条的第一句：“人人生而自由，在尊严和权利上一律平等”。罗森问道，如果只说“人人生而自由，在权利上一律平等”，会失去什么呢？（2012a: 149）。这种抱怨的稍微不同版本是，由于其空洞性，尊严已经变成了纯粹的教条。例如，在法律背景下，提奥德 · 豪斯称尊严为法律中的“非解释性命题”。科斯塔斯 · 杜齐纳斯认为尊严是在“竞争性法律意识形态的霸权之战”中的一个空洞占位符（另见，麦克鲁登 2013a 对这两者的一些分析；另见，巴加里奇和艾伦 2006）。
 4. 尊严是模糊的。这种经常抱怨的主要观点是，尊严已经成为一个无用的概念，不是因为它是空洞的，而是因为它有太多的含义。(一些人甚至声称这个概念“本质上”是模糊的，尽管不清楚这意味着什么；参见，例如，Shultziner 2007 或 Rotenstreich 1983。)当专注于此时，这种担忧有三种形式：
 5. 尊严的模糊含义使其难以理解
 6. 尊严的模糊含义使其容易受到滥用
@@ -325,253 +325,253 @@ Waldron 对尊严的观点具有影响力，因此对此进行更多的说明是
 
 这些并非关于尊严怀疑的所有可能原因，只是最普遍的。每一种通常都以各种方式加以强化，使论点比本摘要所示更深刻。尽管如此，这些批评的优点是有争议的。事实上，本文前述分析中的大部分都暗示了对每种批评的应对策略。
 
-然而，或许最合适的结论方式是以一种完全不同的问题。换句话说，我们应该如何回应这种怀疑性攻击，如果需要的话？因此，在我们不得不想到弗雷德里克·道格拉斯在他 1852 年的“七月四日”演讲中发出的警告时，很难不这样想，警告人们不要要求任何人为他们的平等和基本人类价值或地位辩护——尤其是当如此多的人仍然不仅仅是受压迫，而且在一个不断宣称信仰和承诺人类尊严理想的世界中暴露于刻薄的仇恨之中。“在这样的时刻”，道格拉斯说，“需要的是刺骨的讽刺，而不是令人信服的论证”（1852: 20）。
+然而，或许最合适的结论方式是以一种完全不同的问题。换句话说，我们应该如何回应这种怀疑性攻击，如果需要的话？因此，在我们不得不想到弗雷德里克 · 道格拉斯在他 1852 年的“七月四日”演讲中发出的警告时，很难不这样想，警告人们不要要求任何人为他们的平等和基本人类价值或地位辩护——尤其是当如此多的人仍然不仅仅是受压迫，而且在一个不断宣称信仰和承诺人类尊严理想的世界中暴露于刻薄的仇恨之中。“在这样的时刻”，道格拉斯说，“需要的是刺骨的讽刺，而不是令人信服的论证”（1852: 20）。
 
 ## Bibliography
 
-* Addis, Adeno, 2013, “The Role of Human Dignity in a World of Plural Values and Ethical Commitments”, *Netherlands Quarterly of Human Rights*, 31(4): 403–444. doi:10.1177/016934411303100403
+* Addis, Adeno, 2013, “The Role of Human Dignity in a World of Plural Values and Ethical Commitments”, *Netherlands Quarterly of Human Rights*, 31(4): 403–444. doi: 10.1177/016934411303100403
 * Ammicht-Quinn, Regina, Maureen Junker-Kenny, and Elsa Tamez (eds), 2003, *The Discourse of Human Dignity*, (Concilium 2003/2), London: SCM Press.
-* Annas, George J., 2004, “American Bioethics and Human Rights: The End of All Our Exploring”, *Journal of Law, Medicine & Ethics*, 32(4): 658–663. doi:10.1111/j.1748-720X.2004.tb01970.x
+* Annas, George J., 2004, “American Bioethics and Human Rights: The End of All Our Exploring”, *Journal of Law, Medicine & Ethics*, 32(4): 658–663. doi: 10.1111/j.1748-720X.2004.tb01970.x
 * Appiah, Anthony, 2010, *The Honor Code: How Moral Revolutions Happen*, New York: W.W. Norton.
-* Bagaric, Mirko and James Allan, 2006, “The Vacuous Concept of Dignity”, *Journal of Human Rights*, 5(2): 257–270. doi:10.1080/14754830600653603
-* Barak, Aharon, 2015, *Human Dignity: The Constitutional Value and the Constitutional Right*, Daniel Kayros (trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781316106327
-* Bates, Justin, 2005, “Human Dignity — An Empty Phrase in Search of Meaning?”, *Judicial Review*, 10(2): 165–168. doi:10.1080/10854681.2005.11426430
+* Bagaric, Mirko and James Allan, 2006, “The Vacuous Concept of Dignity”, *Journal of Human Rights*, 5(2): 257–270. doi: 10.1080/14754830600653603
+* Barak, Aharon, 2015, *Human Dignity: The Constitutional Value and the Constitutional Right*, Daniel Kayros (trans.), Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316106327
+* Bates, Justin, 2005, “Human Dignity — An Empty Phrase in Search of Meaning?”, *Judicial Review*, 10(2): 165–168. doi: 10.1080/10854681.2005.11426430
 * Bayer, Oswald, 2014, “Martin Luther’s Conception of Human Dignity,” in Düwell et. al. 2014: 101–107.
 * Beattie, Tina, 2013, “The Vanishing Absolute and the Deconsecrated God: A Theological Reflection on Revelation, Law, and Human Dignity”, in McCrudden 2013b: 259–274 (ch. 14).
-* Beiser, Frederick C., 1992, “Kant’s Intellectual Development: 1746–1781”, in *The Cambridge Companion to Kant*, Paul Guyer (ed.), Cambridge/New York: Cambridge University Press, 26–61. doi:10.1017/CCOL0521365872.002
-* Beitz, Charles R., 2013, “Human Dignity in the Theory of Human Rights: Nothing But a Phrase?: Human Dignity in the Theory of Human Rights: Nothing But a Phrase?”, *Philosophy and Public Affairs*, 41(3): 259–290. doi:10.1111/papa.12017
-* Bekoff, Marc, 1998, “Resisting Speciesism and Expanding the Community of Equals”, *BioScience*, 48(8): 638–641. doi:10.2307/1313423
+* Beiser, Frederick C., 1992, “Kant’s Intellectual Development: 1746–1781”, in *The Cambridge Companion to Kant*, Paul Guyer (ed.), Cambridge/New York: Cambridge University Press, 26–61. doi: 10.1017/CCOL0521365872.002
+* Beitz, Charles R., 2013, “Human Dignity in the Theory of Human Rights: Nothing But a Phrase?: Human Dignity in the Theory of Human Rights: Nothing But a Phrase?”, *Philosophy and Public Affairs*, 41(3): 259–290. doi: 10.1111/papa.12017
+* Bekoff, Marc, 1998, “Resisting Speciesism and Expanding the Community of Equals”, *BioScience*, 48(8): 638–641. doi: 10.2307/1313423
 * Bird, Colin, 2013, “Dignity as a Moral Concept”, *Social Philosophy and Policy*, 30(1-2): 150–176.
-* –––, 2021, *Human Dignity and Political Criticism*, Cambridge/New York: Cambridge University Press. doi:10.1017/9781108937597
-* Birnbacher, Dieter, 2005, “Human Cloning and Human Dignity”, *Reproductive BioMedicine Online*, 10(sup 1): 50–55. doi:10.1016/S1472-6483(10)62206-7
-* Bostrom, Nick, 2005, “In Defense of Posthuman Dignity”, *Bioethics*, 19(3): 202–214. doi:10.1111/j.1467-8519.2005.00437.x
+* –––, 2021, *Human Dignity and Political Criticism*, Cambridge/New York: Cambridge University Press. doi: 10.1017/9781108937597
+* Birnbacher, Dieter, 2005, “Human Cloning and Human Dignity”, *Reproductive BioMedicine Online*, 10(sup 1): 50–55. doi: 10.1016/S1472-6483(10)62206-7
+* Bostrom, Nick, 2005, “In Defense of Posthuman Dignity”, *Bioethics*, 19(3): 202–214. doi: 10.1111/j.1467-8519.2005.00437.x
 * –––, 2008, “Dignity and Enhancement”, in President’s Council on Bioethics 2008: 173–206 (ch. 8). [[Bostrom 2008 available online](https://bioethicsarchive.georgetown.edu/pcbe/reports/human_dignity/chapter8.html)]
 * Boxill, Bernard, 2017, “Sympathy and Dignity in Early Africana Philosophy”, in Debes 2017a: 333–359 (ch. 11).
-* Braarvig, Jens, 2014a, “Buddhism: Inner Dignity and Absolute Altruism”, in Düwell et al. 2014: 170–176 (ch. 16). doi:10.1017/CBO9780511979033.020
-* –––, 2014b, “Hinduism: The Universal Self in a Class Society”, in Düwell et al. 2014: 163–169 (ch. 15). doi:10.1017/CBO9780511979033.019
-* Brady, Veronica, 2007, “The Question of Dignity: Doubts and Loves and a Whisper from Where the Ruined House Once Stood”, in Malpas and Lickiss 2007b: 119–126. doi:10.1007/978-1-4020-6281-0_10
-* Buchanan, Allen E., 2009, “Moral Status and Human Enhancement”, *Philosophy and Public Affairs*, 37(4): 346–381. doi:10.1111/j.1088-4963.2009.01166.x
-* –––, 2011, *Beyond Humanity? The Ethics of Biomedical Enhancement*, (Uehiro Series in Practical Ethics), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199587810.001.0001
-* Burns, Lawrence, 2008, “What Is the Scope for the Interpretation of Dignity in Research Involving Human Subjects?”, *Medicine, Health Care and Philosophy*, 11(2): 191–208. doi:10.1007/s11019-007-9107-x
+* Braarvig, Jens, 2014a, “Buddhism: Inner Dignity and Absolute Altruism”, in Düwell et al. 2014: 170–176 (ch. 16). doi: 10.1017/CBO9780511979033.020
+* –––, 2014b, “Hinduism: The Universal Self in a Class Society”, in Düwell et al. 2014: 163–169 (ch. 15). doi: 10.1017/CBO9780511979033.019
+* Brady, Veronica, 2007, “The Question of Dignity: Doubts and Loves and a Whisper from Where the Ruined House Once Stood”, in Malpas and Lickiss 2007b: 119–126. doi: 10.1007/978-1-4020-6281-0_10
+* Buchanan, Allen E., 2009, “Moral Status and Human Enhancement”, *Philosophy and Public Affairs*, 37(4): 346–381. doi: 10.1111/j.1088-4963.2009.01166.x
+* –––, 2011, *Beyond Humanity? The Ethics of Biomedical Enhancement*, (Uehiro Series in Practical Ethics), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199587810.001.0001
+* Burns, Lawrence, 2008, “What Is the Scope for the Interpretation of Dignity in Research Involving Human Subjects?”, *Medicine, Health Care and Philosophy*, 11(2): 191–208. doi: 10.1007/s11019-007-9107-x
 * Burrow, Rufus, Jr., 2006, *God and Human Dignity: The Personalism, Theology, and Ethics of Martin Luther King, Jr.*, Notre Dame, IN: University of Notre Dame Press.
 * Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of Canada, Social Sciences and Humanities Research Council of Canada [TCPS], 2014, “Tri-Council Policy Statement 2: Ethical Conduct for Research Involving Humans”. [[TCPS 2014 available online](https://www.mcgill.ca/skillsets/files/skillsets/tcps2updated_workshop4.pdf)]
-* Cancik, Hubert, 2002, “‘Dignity of Man’ and ‘*Persona*’ in Stoic Anthropology: Some Remarks on Cicero, *De Officiis* I, 105–107”, in *The Concept of Human Dignity in Human Rights Discourse,* David Kretzmer and Eckart Klein (eds), The Hauge: Kluwer Law International, 19–39. doi:0.1163/9789004478190_003
-* Carozza, Paolo, 2008, “Human Dignity and Judicial Interpretation of Human Rights: A Reply”, *European Journal of International Law*, 19(5): 931–944. doi:10.1093/ejil/chn059
+* Cancik, Hubert, 2002, “‘Dignity of Man’ and ‘*Persona*’ in Stoic Anthropology: Some Remarks on Cicero, *De Officiis* I, 105–107”, in *The Concept of Human Dignity in Human Rights Discourse,* David Kretzmer and Eckart Klein (eds), The Hauge: Kluwer Law International, 19–39. doi: 0.1163/9789004478190_003
+* Carozza, Paolo, 2008, “Human Dignity and Judicial Interpretation of Human Rights: A Reply”, *European Journal of International Law*, 19(5): 931–944. doi: 10.1093/ejil/chn059
 * –––, 2013, “Human Rights, Human Dignity, and Human Experience”, in McCrudden 2013: 615–630 (ch. 37).
-* Caulfield, Timothy and Roger Brownsword, 2006, “Human Dignity: A Guide to Policy Making in the Biotechnology Era?”, *Nature Reviews Genetics*, 7(1): 72–76. doi:10.1038/nrg1744
-* Clark, Gillian and Tessa Rajak (eds), 2002, *Philosophy and Power in the Graeco-Roman World: Essays in Honour of Miriam Griffin*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198299905.001.0001
+* Caulfield, Timothy and Roger Brownsword, 2006, “Human Dignity: A Guide to Policy Making in the Biotechnology Era?”, *Nature Reviews Genetics*, 7(1): 72–76. doi: 10.1038/nrg1744
+* Clark, Gillian and Tessa Rajak (eds), 2002, *Philosophy and Power in the Graeco-Roman World: Essays in Honour of Miriam Griffin*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780198299905.001.0001
 * Copenhaver, Brian, 2017, “Dignity, Vile Bodies, and Nakedness: Giovanni Pivo and Giannozzo Manetti”, in Debes 2017a: 127–173 (ch. 5).
 * Dalton, James S., 1999, “Human Dignity, Human Rights, and Ecology: Christian, Buddhist, and Native American Perspectives”, in *Made in God’s Image: The Catholic Vision of Human Dignity*, Regis Duffy and Angelus Gambatese (eds), New York/Mahwah, NJ: Paulist Press, 29–54.
 * Dan-Cohen, Meir, 2012, “Introduction”, in Waldron 2012: 3–13.
-* Darwall, Stephen L., 1977, “Two Kinds of Respect”, *Ethics*, 88(1): 36–49. doi:10.1086/292054
-* –––, 1999, “Sympathetic Liberalism: Recent Work on Adam Smith”, *Philosophy & Public Affairs*, 28(2): 139–164. doi:10.1111/j.1088-4963.1999.00139.x
+* Darwall, Stephen L., 1977, “Two Kinds of Respect”, *Ethics*, 88(1): 36–49. doi: 10.1086/292054
+* –––, 1999, “Sympathetic Liberalism: Recent Work on Adam Smith”, *Philosophy & Public Affairs*, 28(2): 139–164. doi: 10.1111/j.1088-4963.1999.00139.x
 * –––, 2006, *The Second-Person Standpoint: Morality, Respect and Accountability*, Cambridge, MA: Harvard University Press.
-* –––, 2012, “Pufendorf on Morality, Sociability, and Moral Powers”, *Journal of the History of Philosophy*, 50(2): 213–238. doi:10.1353/hph.2012.0024
-* –––, 2013, “Respect as Honor and as Accountability”, in his *Honor, History, and Relationship: Essays in Second-Personal Ethics II*, Oxford: Oxford University Press, 11–29. doi:10.1093/acprof:oso/9780199662609.003.0002
+* –––, 2012, “Pufendorf on Morality, Sociability, and Moral Powers”, *Journal of the History of Philosophy*, 50(2): 213–238. doi: 10.1353/hph.2012.0024
+* –––, 2013, “Respect as Honor and as Accountability”, in his *Honor, History, and Relationship: Essays in Second-Personal Ethics II*, Oxford: Oxford University Press, 11–29. doi: 10.1093/acprof: oso/9780199662609.003.0002
 * –––, 2017, “Equal Dignity and Rights”, in Debes 2017a: 181–201 (ch. 6).
-* De Melo-Martín, Inmaculada, 2008, “Chimeras and Human Dignity”, *Kennedy Institute of Ethics Journal*, 18(4): 331–346. doi:10.1353/ken.0.0268
-* –––, 2010, “Human Dignity, Transhuman Dignity, and All That Jazz”, *The American Journal of Bioethics*, 10(7): 53–55. doi:10.1080/15265161003686530
-* Debes, Remy, 2009, “Dignity’s Gauntlet”, *Philosophical Perspectives*, 23: 45–78. doi:10.1111/j.1520-8583.2009.00161.x
-* –––, 2012, “Adam Smith on Dignity and Equality”, *British Journal for the History of Philosophy*, 20(1): 109–140. doi:10.1080/09608788.2011.651315
-* ––– (ed.), 2017a, *Dignity: A History*, (Oxford Philosophical Concepts), New York, NY: Oxford University Press. doi:10.1093/acprof:oso/9780199385997.001.0001
-* –––, Debes, Remy, 2017b, “Introduction”, in Debes 2017a: 1–19. doi:10.1093/acprof:oso/9780199385997.003.0001
+* De Melo-Martín, Inmaculada, 2008, “Chimeras and Human Dignity”, *Kennedy Institute of Ethics Journal*, 18(4): 331–346. doi: 10.1353/ken.0.0268
+* –––, 2010, “Human Dignity, Transhuman Dignity, and All That Jazz”, *The American Journal of Bioethics*, 10(7): 53–55. doi: 10.1080/15265161003686530
+* Debes, Remy, 2009, “Dignity’s Gauntlet”, *Philosophical Perspectives*, 23: 45–78. doi: 10.1111/j.1520-8583.2009.00161.x
+* –––, 2012, “Adam Smith on Dignity and Equality”, *British Journal for the History of Philosophy*, 20(1): 109–140. doi: 10.1080/09608788.2011.651315
+* ––– (ed.), 2017a, *Dignity: A History*, (Oxford Philosophical Concepts), New York, NY: Oxford University Press. doi: 10.1093/acprof: oso/9780199385997.001.0001
+* –––, Debes, Remy, 2017b, “Introduction”, in Debes 2017a: 1–19. doi: 10.1093/acprof: oso/9780199385997.003.0001
 * –––, 2017c, “Human Dignity Before Kant: Denis Diderot’s Passionate Person”, in Debes 2017a: 203–235 (ch. 7).
-* –––, 2017d, “The Authority of Empathy (Or, How to Ground Sentimentalism)”, in *Ethical Sentimentalism: New Perspectives*, Remy Debes and Karsten Stueber (eds), Cambridge: Cambridge University Press, 153–170 (ch. 9). doi:10.1017/9781316105672.010
+* –––, 2017d, “The Authority of Empathy (Or, How to Ground Sentimentalism)”, in *Ethical Sentimentalism: New Perspectives*, Remy Debes and Karsten Stueber (eds), Cambridge: Cambridge University Press, 153–170 (ch. 9). doi: 10.1017/9781316105672.010
 * –––, 2021, “Respect: A History”, in *Respect: Philosophical Essays*, Richard Dean and Oliver Sensen (eds), Oxford/New York: Oxford University Press, 1–28.
-* DeGrazia, David, 2007, “Human-Animal Chimeras: Human Dignity, Moral Status, and Species Prejudice”, *Metaphilosophy*, 38(2–3): 309–329. doi:10.1111/j.1467-9973.2007.00476.x
-* Dillon, Robin S., 1992, “Respect And Care: Toward Moral Integration 1”, *Canadian Journal of Philosophy*, 22(1): 105–131. doi:10.1080/00455091.1992.10717273
-* Dimock, Wai Chee, 2012, “High and Low”, in Waldron 2012: 119–128. doi:10.1093/acprof:oso/9780199915439.003.0006
-* Donnelly, Jack, 1982, “Human Rights and Human Dignity: An Analytic Critique of Non-Western Conceptions of Human Rights”, *American Political Science Review*, 76(2): 303–316. doi:10.2307/1961111
-* Douglas, Thomas, 2013, “Human Enhancement and Supra-Personal Moral Status”, *Philosophical Studies*, 162(3): 473–497. doi:10.1007/s11098-011-9778-2
+* DeGrazia, David, 2007, “Human-Animal Chimeras: Human Dignity, Moral Status, and Species Prejudice”, *Metaphilosophy*, 38(2–3): 309–329. doi: 10.1111/j.1467-9973.2007.00476.x
+* Dillon, Robin S., 1992, “Respect And Care: Toward Moral Integration 1”, *Canadian Journal of Philosophy*, 22(1): 105–131. doi: 10.1080/00455091.1992.10717273
+* Dimock, Wai Chee, 2012, “High and Low”, in Waldron 2012: 119–128. doi: 10.1093/acprof: oso/9780199915439.003.0006
+* Donnelly, Jack, 1982, “Human Rights and Human Dignity: An Analytic Critique of Non-Western Conceptions of Human Rights”, *American Political Science Review*, 76(2): 303–316. doi: 10.2307/1961111
+* Douglas, Thomas, 2013, “Human Enhancement and Supra-Personal Moral Status”, *Philosophical Studies*, 162(3): 473–497. doi: 10.1007/s11098-011-9778-2
 * Douglass, Frederick, 1852, *Oration: Delivered in Corinthian Hall, Rochester*, Rochester, NY: Lee, Mann, & Co.
 * Duncan, Craig, 2005, “Democratic Liberalism: The Politics of Dignity”, in *Libertarianism: For and Against*, Craig Duncan and Tibor Machan (eds), Lanham, MD: Rowman and Littlefield, 79–126.
-* Dürig, Günter, 1952, “Die Menschenauffassung des Grundgesetzes”, *Juristische Rundschau*, 1952(7): 259–263. doi:10.1515/juru.1952.1952.7.259
+* Dürig, Günter, 1952, “Die Menschenauffassung des Grundgesetzes”, *Juristische Rundschau*, 1952(7): 259–263. doi: 10.1515/juru.1952.1952.7.259
 * Dussel, Enrique, 2003, “Dignity: Its Denial and Recognition on a Specific Context of Liberation”, in *The Discourse of Human Dignity*, Regina Ammicht-Quinn, Maureeen Junker-Kenny and Elsa Tamez (eds.), London: SCM Press, 93–104.
-* Düwell, Marcus, 2014, “Human Dignity: Concepts, Discussions, Philosophical Perspectives”, in Düwell et al. 2014: 23–49. doi:10.1017/CBO9780511979033.004
-* Düwell, Marcus, Jens Braarvig, Roger Brownsword, Dietmar Mieth, Naomi van Steenbergen, and Dascha Düring (eds), 2014, *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979033
+* Düwell, Marcus, 2014, “Human Dignity: Concepts, Discussions, Philosophical Perspectives”, in Düwell et al. 2014: 23–49. doi: 10.1017/CBO9780511979033.004
+* Düwell, Marcus, Jens Braarvig, Roger Brownsword, Dietmar Mieth, Naomi van Steenbergen, and Dascha Düring (eds), 2014, *The Cambridge Handbook of Human Dignity: Interdisciplinary Perspectives*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511979033
 * Dworkin, Ronald, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
 * Eberle, Edward J., 2002, *Dignity and Liberty: Constitutional Visions in the Germany and the United States*, Westport, CT: Praeger Publishers.
 * Edel, Abraham, 1969, “Humanist Ethics and the Meaning of Human Dignity”, in *Moral Problems in Contemporary Society: Essays in Humanistic Ethics*, Paul Kurtz (ed.), Englewood Cliffs, NJ: Prentice-Hall, pp. 227–240.
 * Englard, Izhak, 2000, “Human Dignity: From Antiquity to Modern Israel’s Constitutional Framework,” *Cardozo Law Review*. 21: 1903–1927.
-* Egonsson, Dan, 1998, *Dimensions of Dignity: The Moral Importance of Being Human*, Dordrecht: Springer. doi:10.1007/978-94-011-4974-7
-* Etinson, Adam, 2020, “What’s So Special About Human Dignity?”, *Philosophy & Public Affairs*, 48(4): 353–381. doi:10.1111/papa.12175
+* Egonsson, Dan, 1998, *Dimensions of Dignity: The Moral Importance of Being Human*, Dordrecht: Springer. doi: 10.1007/978-94-011-4974-7
+* Etinson, Adam, 2020, “What’s So Special About Human Dignity?”, *Philosophy & Public Affairs*, 48(4): 353–381. doi: 10.1111/papa.12175
 * Fanon, Frantz, 1967, *Black Skin: White Mask*, Charles Markmann (trans.), New York, Grove Weidenfeld.
 * ––– , 1963 [2004], *The Wretched of the Earth*, Richard Philcox (trans.), New York: Grove Press.
-* Feinberg, Joel, 1970 [1980], “The Nature and Value of Rights”, *The Journal of Value Inquiry*, 4(4): 243–260. Reprinted in his *Rights, Justice, and the Bounds of Liberty*, Princeton, N.J: Princeton University Press, 1980, 143–159. doi:10.1007/BF00137935
-* FitzPatrick, William J., 2013, “Worth/Dignity”, in *International Encyclopedia of Ethics*, Hugh LaFollette (ed.), Oxford, UK: Blackwell Publishing, 5546–5553. doi:10.1002/9781444367072.wbiee205
+* Feinberg, Joel, 1970 [1980], “The Nature and Value of Rights”, *The Journal of Value Inquiry*, 4(4): 243–260. Reprinted in his *Rights, Justice, and the Bounds of Liberty*, Princeton, N.J: Princeton University Press, 1980, 143–159. doi: 10.1007/BF00137935
+* FitzPatrick, William J., 2013, “Worth/Dignity”, in *International Encyclopedia of Ethics*, Hugh LaFollette (ed.), Oxford, UK: Blackwell Publishing, 5546–5553. doi: 10.1002/9781444367072.wbiee205
 * Fleischacker, Samuel, 2019, *Being Me Being You: Adam Smith and Empathy*, Chicago: University of Chicago Press.
-* Forst, Rainer, 2011, “The Ground of Critique: On the Concept of Human Dignity in Social Orders of Justification”, *Philosophy and Social Criticism*, 37(9): 965–976. doi:10.1177/0191453711416082
+* Forst, Rainer, 2011, “The Ground of Critique: On the Concept of Human Dignity in Social Orders of Justification”, *Philosophy and Social Criticism*, 37(9): 965–976. doi: 10.1177/0191453711416082
 * Frick, Marie-Luisa, 2021, “Dehumanization and Human Rights”, in *The Routledge Hadbook of Dehumanization*, Maria Fronfeldner (ed.), London and New York: Routledge, 187–200.
-* Friedman, Marilyn, 2013, “Care Ethics”, in Hugh LaFollette (ed.) *The International Encyclopedia of Ethics*, Oxford: Blackwell Publishing, 705–713. doi:10.1002/9781444367072.wbiee057
-* Gaylin, Willard, 1984, “In Defense of the Dignity of the Human Being”, *The Hastings Center Report*, 14(4): 18–22. doi:10.2307/3561161
-* Gearty, Conor, 2014, “The State of Human Rights”, *Global Policy*, 5(4): 391–400. doi:10.1111/1758-5899.12159
+* Friedman, Marilyn, 2013, “Care Ethics”, in Hugh LaFollette (ed.) *The International Encyclopedia of Ethics*, Oxford: Blackwell Publishing, 705–713. doi: 10.1002/9781444367072.wbiee057
+* Gaylin, Willard, 1984, “In Defense of the Dignity of the Human Being”, *The Hastings Center Report*, 14(4): 18–22. doi: 10.2307/3561161
+* Gearty, Conor, 2014, “The State of Human Rights”, *Global Policy*, 5(4): 391–400. doi: 10.1111/1758-5899.12159
 * Gewirth, Alan, 1992, “Human Dignity as the Basis of Rights”, in Meyer and Parent 1992: 10–28.
-* Gooding-Williams, Robert, 2018, “The Du Bois–Washington Debate and the Idea of Dignity”, in *To Shape a New World: Essays on the Political Philosophy of Martin Luther King Jr.*, Tommie Shelby and Brandon M. Terry (eds), Cambridge, MA: Harvard University Press, 19–34. doi:10.4159/9780674919860-002
+* Gooding-Williams, Robert, 2018, “The Du Bois–Washington Debate and the Idea of Dignity”, in *To Shape a New World: Essays on the Political Philosophy of Martin Luther King Jr.*, Tommie Shelby and Brandon M. Terry (eds), Cambridge, MA: Harvard University Press, 19–34. doi: 10.4159/9780674919860-002
 * Goos, Christoph, “*Würde des Menschen*: Restoring Human Dignity in Post-Nazi Germany”, in McCrudden 2013b: 79–94 (ch. 3).
 * Gotesky, Rubin, and Ervin Laszlo (eds), 1970, *Human Dignity: This Century and the Next*, New York: Gordon and Breach.
 * Gross, Myra, 1993, “Dignity: The Keystone of Alzheimer’s Care”, *Nursing Homes: Long Term Care Management*, 42(7): 8.
-* Griffin, James, 2008, *On Human Rights*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199238781.001.0001
+* Griffin, James, 2008, *On Human Rights*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199238781.001.0001
 * Griffin, Miriam, 2017, “Dignity in Roman and Stoic Thought”, in Debes 2017a: 47–65 (ch. 2).
 * Gruen, Lori, 2003 [2010], “The Moral Status of Animals”, *The Stanford Encyclopedia of Philosophy* (Fall 2010 edition), in Edward N. Zalta (ed.), URL = <[The Moral Status of Animals (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/moral-animal/)>.
-* Hanley, Ryan Patrick, 2017, “Rethinking Kant’s Debts to Rousseau”, *Archiv für Geschichte der Philosophie*, 99(4): 380–404. doi:10.1515/agph-2017-0019
+* Hanley, Ryan Patrick, 2017, “Rethinking Kant’s Debts to Rousseau”, *Archiv für Geschichte der Philosophie*, 99(4): 380–404. doi: 10.1515/agph-2017-0019
 * Hanvey, James, 2013, “Dignity, Person, and *Imago Trinitatis*”, in McCrudden 2013b: 209–228 (ch. 11).
 * Harris, George W., 1997, *Dignity and Vulnerability: Strength and Quality of Character*, Berkeley, CA: University of California Press.
 * Haslam, Nick, 2014, “What Is Dehumanization?”, in *Humanness and Dehumanization*, Paul G. Bain, Jeroen Vaes, and Jacques-Philippe Leyens (eds), New York and Hove: Psychology Press, 34–48 (ch. 3).
 * Healy, Mike and Wilkowska, Iwona, 2017, “Marx, Alientation and the Denial of Dignity of Work”, in *Dignity and the Organization*, Monika Kostera and Michael Pirson (eds.), London: Palgrame MacMillan UK: 99–124.
-* Held, Virginia, 2006, *The Ethics of Care: Personal, Political, and Global*, New York: Oxford University Press. doi:10.1093/0195180992.001.0001
+* Held, Virginia, 2006, *The Ethics of Care: Personal, Political, and Global*, New York: Oxford University Press. doi: 10.1093/0195180992.001.0001
 * Henkin, Louis, 1992, “Human Dignity and Constitutional Rights”, in Meyer and Parent 1992: 39–42.
 * Henderson, Christine Dunn, 2017, “On Bourgeois Dignity: Making the Self-Made Man”, in Debes 2017a: 269–290 (ch. 9).
-* Herzog, Don, 2012, “Aristocratic Dignity?”, in Waldron 2012: 99–117. doi:10.1093/acprof:oso/9780199915439.003.0005
+* Herzog, Don, 2012, “Aristocratic Dignity?”, in Waldron 2012: 99–117. doi: 10.1093/acprof: oso/9780199915439.003.0005
 * Hill, Thomas E., Jr, 1992, *Dignity and Practical Reason in Kant’s Moral Theory*, Ithaca, NY: Cornell University Press.
 * Hobbes, Thomas, 1651, *Leviathan*, London: Crooke.
 * Hollenbach, David, 2013, “Human Dignity: Experience and History, Practical Reason and Faith”, in McCrudden 2013b: 123–139 (ch. 6).
-* –––, 2015, “Human Dignity in Catholic Thought”, in Düwell et al. 2014: 250–259. doi:10.1017/CBO9780511979033.031
+* –––, 2015, “Human Dignity in Catholic Thought”, in Düwell et al. 2014: 250–259. doi: 10.1017/CBO9780511979033.031
 * Honneth, Axel, 2007, *Disrespect: The Normative Foundations of Critical Theory*, Cambridge: Polity Press.
 * Howard, Rhoda E., 1992, “Dignity, Community, and Human Rights”, in *Human Rights in Cross Cultural Perspective; A Request for Consensus*, Abdullahi Ahmed An-Naʿim (ed.), Philadelphia, PA: University of Pennsylvania Press, pp. 81–104.
-* Howard, Rhoda E. and Jack Donnelly, 1986, “Human Dignity, Human Rights, and Political Regimes”, *American Political Science Review*, 80(3): 801–817. doi:10.2307/1960539
-* Iglesias, Teresa, 2001, “Bedrock Truth and the Dignity of the Individual”, *Logos: A Journal of Catholic Thought and Culture*, 4(1): 114–134. doi:10.1353/log.2001.0005
-* Ikeda, Takashi, 2014, “Commentary: On Crossing the Line between Human and Nonhuman: Human Dignity Reconsidered”, in *The Future of Bioethics: International Dialogues*, Akira Akabayashi (ed.), Oxford/New York: Oxford University Press, 371–376. doi:10.1093/acprof:oso/9780199682676.003.0047
-* Imbach, Ruedi, 2014, “Human Dignity in the Middle Ages (Twelfth to Fourteenth Century)”, in Düwell et al. 2014: 64–73. doi:10.1017/CBO9780511979033.007
-* Jaber, Dunja, 2000, “Human Dignity and the Dignity of Creatures”, *Journal of Agricultural and Environmental Ethics*, 13(1–2): 29–42. doi:10.1007/BF02694133
-* James, David, 2013, *Rousseau and German Idealism: Freedom, Dependence and Necessity*, New York/Cambridge: Cambridge University Press. doi:10.1017/CBO9781139795388
+* Howard, Rhoda E. and Jack Donnelly, 1986, “Human Dignity, Human Rights, and Political Regimes”, *American Political Science Review*, 80(3): 801–817. doi: 10.2307/1960539
+* Iglesias, Teresa, 2001, “Bedrock Truth and the Dignity of the Individual”, *Logos: A Journal of Catholic Thought and Culture*, 4(1): 114–134. doi: 10.1353/log.2001.0005
+* Ikeda, Takashi, 2014, “Commentary: On Crossing the Line between Human and Nonhuman: Human Dignity Reconsidered”, in *The Future of Bioethics: International Dialogues*, Akira Akabayashi (ed.), Oxford/New York: Oxford University Press, 371–376. doi: 10.1093/acprof: oso/9780199682676.003.0047
+* Imbach, Ruedi, 2014, “Human Dignity in the Middle Ages (Twelfth to Fourteenth Century)”, in Düwell et al. 2014: 64–73. doi: 10.1017/CBO9780511979033.007
+* Jaber, Dunja, 2000, “Human Dignity and the Dignity of Creatures”, *Journal of Agricultural and Environmental Ethics*, 13(1–2): 29–42. doi: 10.1007/BF02694133
+* James, David, 2013, *Rousseau and German Idealism: Freedom, Dependence and Necessity*, New York/Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139795388
 * Jenson, Robert W., 2006, “*Anima Ecclesiastica*”, in Soulen and Woodhead 2006: 59–71.
 * Jha, Alok, 2008, “First British Human-animal Hybrid Embryos Created by Scientists”, *The Guardian*, 2 April 2008. [[Jha 2008 available online](https://www.theguardian.com/science/2008/apr/02/medicalresearch.ethicsofscience)]
 * Johnson, Samuel, 1755, “Dignity”, in *A Dictionary of the English Language*, London. Reprinted in *A Dictionary of the English Language: A Digital Edition of the 1755 Classic by Samuel Johnson*, Brandi Besalke (ed.), 2012. [[Johnson 1755 available online](https://johnsonsdictionaryonline.com/views/search.php?term=Dignity)]
-* Johnston, Josephine and Christopher Eliot, 2003, “Chimeras and ‘Human Dignity’”, *The American Journal of Bioethics*, 3(3): 6–8. doi:10.1162/15265160360706714
-* Jotterand, Fabrice, 2010, “Human Dignity and Transhumanism: Do Anthro-Technological Devices Have Moral Status?”, *The American Journal of Bioethics*, 10(7): 45–52. doi:10.1080/15265161003728795
-* Kain, Patrick, 2009, “Kant’s Defense of Human Moral Status”, *Journal of the History of Philosophy*, 47(1): 59–101. doi:10.1353/hph.0.0083
+* Johnston, Josephine and Christopher Eliot, 2003, “Chimeras and ‘Human Dignity’”, *The American Journal of Bioethics*, 3(3): 6–8. doi: 10.1162/15265160360706714
+* Jotterand, Fabrice, 2010, “Human Dignity and Transhumanism: Do Anthro-Technological Devices Have Moral Status?”, *The American Journal of Bioethics*, 10(7): 45–52. doi: 10.1080/15265161003728795
+* Kain, Patrick, 2009, “Kant’s Defense of Human Moral Status”, *Journal of the History of Philosophy*, 47(1): 59–101. doi: 10.1353/hph.0.0083
 * Kaplan, Marion A., 1999, *Between Dignity and Despair: Jewish Life in Nazi Germany*. New York: Oxford University Press.
-* Kant, Immanuel, 1785 [1996], *Grundlegung zur Metaphysik der Sitten*, Riga: Johann Friedrich Hartknoch. Translated as “Groundwork of The Metaphysics of Morals (1785)”, in *Practical Philosophy*, Mary J. Gregor (ed.), (The Cambridge Edition of the Works of Immanuel Kant), Cambridge: Cambridge University Press, 1996, 37–108. doi:10.1017/CBO9780511813306.007
+* Kant, Immanuel, 1785 [1996], *Grundlegung zur Metaphysik der Sitten*, Riga: Johann Friedrich Hartknoch. Translated as “Groundwork of The Metaphysics of Morals (1785)”, in *Practical Philosophy*, Mary J. Gregor (ed.), (The Cambridge Edition of the Works of Immanuel Kant), Cambridge: Cambridge University Press, 1996, 37–108. doi: 10.1017/CBO9780511813306.007
 * Kateb, George, 2011, *Human Dignity*, Cambridge, MA: Belknap Press of Harvard University Press.
-* Kaufmann, Paulus, Hannes Kuch, Christian Neuhäuser, and Elaine Webster (eds), 2011, *Humiliation, Degradation, Dehumanization: Human Dignity Violated*, (Library of Ethics and Applied Philosophy 24), Dordrecht/New York: Springer. doi:10.1007/978-90-481-9661-6
+* Kaufmann, Paulus, Hannes Kuch, Christian Neuhäuser, and Elaine Webster (eds), 2011, *Humiliation, Degradation, Dehumanization: Human Dignity Violated*, (Library of Ethics and Applied Philosophy 24), Dordrecht/New York: Springer. doi: 10.1007/978-90-481-9661-6
 * Kemmerer, Alexandra, 2013, “Dignified Disciplinarity: Towards a Transdisciplinary Understanding of Human Dignity”, in McCrudden 2013b: 649–658 (ch. 39).
 * Kent, Bonnie, 2017, “In the Image of God: Human Dignity after the Fall”, in Debes 2017a: 73–97 (ch. 3).
-* Killmister, Suzy, 2016, “Dignity, Torture, and Human Rights”, *Ethical Theory and Moral Practice*, 19(5): 1087–1101. doi:10.1007/s10677-016-9725-6
-* –––, 2017, “Dignity: Personal, Social, Human”, *Philosophical Studies*, 174(8): 2063–2082. doi:10.1007/s11098-016-0788-y
-* –––, 2020, *Contours of Dignity*, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780198844365.001.0001
+* Killmister, Suzy, 2016, “Dignity, Torture, and Human Rights”, *Ethical Theory and Moral Practice*, 19(5): 1087–1101. doi: 10.1007/s10677-016-9725-6
+* –––, 2017, “Dignity: Personal, Social, Human”, *Philosophical Studies*, 174(8): 2063–2082. doi: 10.1007/s11098-016-0788-y
+* –––, 2020, *Contours of Dignity*, Oxford/New York: Oxford University Press. doi: 10.1093/oso/9780198844365.001.0001
 * Kilner, John F., 2004, “Human Dignity”, in *Encyclopedia of Bioethics*, Stephen G. Post (ed.), third edition, New York: Macmillan Reference USA, volume 2, 1193–1200.
 * King, Martin Luther, 1963 [2011], “The Unresolved Race Question”, Speech, District 65 Thirtieth-Anniversary Convention, Madison Square Garden, New York City, 23 October 1963. Reprinted in *“All Labor Has Dignity”*, Michael K. Honey (ed.), Boston: Beacon Press, 87–98.
 * –––, 1963 [1986], “Letter from Birmingham City Jail”, in *A Testamnet of Hope: The Essential Writing and Speechs of Martin Luther King*, James Melvin Washington (ed.), New York: Harper One, 289–302.
 * Kittay, Eva Feder, 2003, “Disability, Equal Dignity and Care”, in Ammicht-Quinn, Junker-Kenny, and Tamez 2003: 105–115.
-* –––, 2005, “At the Margins of Moral Personhood”, *Ethics* (Symposium on Disability), 116(1): 100–131. doi:10.1086/454366
-* –––, 2011, “The Ethics of Care, Dependence, and Disability”, *Ratio Juris*, 24(1): 49–58. doi:10.1111/j.1467-9337.2010.00473.x
+* –––, 2005, “At the Margins of Moral Personhood”, *Ethics* (Symposium on Disability), 116(1): 100–131. doi: 10.1086/454366
+* –––, 2011, “The Ethics of Care, Dependence, and Disability”, *Ratio Juris*, 24(1): 49–58. doi: 10.1111/j.1467-9337.2010.00473.x
 * Kofman, Sarah, 1982 [1997], “The Economy of Respect: Kant and Respect for Women”, Nicola Fisher (trans.), *Social Research*, 49(2): 383–404 (an extract from her *Le Respect des femmes (Kant et Rousseau)*, Paris: Galilée, 1982). Reprinted in *Feminist Interpretations of Immanuel Kant*, Robin May Schott (ed.), University Park, PA: Penn State Press, 1997, pp. 355–372.
-* Kolnai, Aurel, 1976, “Dignity”, *Philosophy*, 51(197): 251–271. doi:10.1017/S003181910001932X
-* Korsgaard, Christine M., 1986, “Kant’s Formula of Humanity”, *Kant-Studien*, 77(1–4): 183–202. doi:10.1515/kant.1986.77.1-4.183
+* Kolnai, Aurel, 1976, “Dignity”, *Philosophy*, 51(197): 251–271. doi: 10.1017/S003181910001932X
+* Korsgaard, Christine M., 1986, “Kant’s Formula of Humanity”, *Kant-Studien*, 77(1–4): 183–202. doi: 10.1515/kant.1986.77.1-4.183
 * Kraynak, Robert P. and Glenn E. Tinder (eds), 2003, *In Defense of Human Dignity: Essays for Our Times*, (Loyola Topics in Political Philosophy), Notre Dame, IN: University of Notre Dame Press.
-* Krishnamurthy, Meena, 2022, “Martin Luther King Jr. on Democratic Propaganda, Shame, and Moral Transformation”, *Political Theory*, 50(2): 305–336. doi:10.1177/00905917211021796
+* Krishnamurthy, Meena, 2022, “Martin Luther King Jr. on Democratic Propaganda, Shame, and Moral Transformation”, *Political Theory*, 50(2): 305–336. doi: 10.1177/00905917211021796
 * Kuhse, Helga, 2000, “Is There a Tension between Autonomy and Dignity?”, in *Bioethics and Biolaw, Volume II: Four Ethical Principles*, Peter Kemp, Jacob Dahl Rendtorff, and Niels Mattson Johansen (eds), Copenhagen: Rhodos International Science and Art Publishers, 61–74.
-* LaFollette, Hugh and Niall Shanks, 1996, “The Origin of Speciesism”, *Philosophy*, 71(275): 41–61. doi:10.1017/S0031819100053250
+* LaFollette, Hugh and Niall Shanks, 1996, “The Origin of Speciesism”, *Philosophy*, 71(275): 41–61. doi: 10.1017/S0031819100053250
 * LaVaque-Manty, Mika, 2017, “Universalizing Dignity in the Nineteenth Century”, in Debes 2017a: 301–322 (ch. 10).
 * Lebech, Mette, 2009, *On the Problem of Human Dignity: A Hermeneutical and Phenomenological Investigation*, Würzburg: Königshausen & Neumann.
-* Lee, Patrick and Robert P. George, 2008, “The Nature and Basis of Human Dignity”, *Ratio Juris*, 21(2): 173–193. doi:10.1111/j.1467-9337.2008.00386.x
-* Lewis, Milton, 2007, “A Brief History of Human Dignity: Idea and Application”, in Malpas and Lickiss 2007b: 93–105. doi:10.1007/978-1-4020-6281-0_8
-* Loewy, Erich H., 1999, “Physician Assisted Dying and Death with Dignity: Missed Opportunities and Prior Neglected Conditions”, *Medicine, Health Care and Philosophy*, 2(2): 189–194. doi:10.1023/A:1009997829750
+* Lee, Patrick and Robert P. George, 2008, “The Nature and Basis of Human Dignity”, *Ratio Juris*, 21(2): 173–193. doi: 10.1111/j.1467-9337.2008.00386.x
+* Lewis, Milton, 2007, “A Brief History of Human Dignity: Idea and Application”, in Malpas and Lickiss 2007b: 93–105. doi: 10.1007/978-1-4020-6281-0_8
+* Loewy, Erich H., 1999, “Physician Assisted Dying and Death with Dignity: Missed Opportunities and Prior Neglected Conditions”, *Medicine, Health Care and Philosophy*, 2(2): 189–194. doi: 10.1023/A: 1009997829750
 * Loike, John, 2013, “The Evolving Bioethical Landscape of Human-Animal Chimeras”, in *Human Dignity in Bioethics: From Worldviews to the Public Square*, Stephen Dilley and Nathan J. Palpant (eds), New York/Abingdon: Routledge, 282–299.
-* Lorberbaum, Yair, 2014, “Human Dignity in the Jewish Tradition”, in Düwell et al. 2014: 135–144. doi:10.1017/CBO9780511979033.015
+* Lorberbaum, Yair, 2014, “Human Dignity in the Jewish Tradition”, in Düwell et al. 2014: 135–144. doi: 10.1017/CBO9780511979033.015
 * Malpas, Jeff, 2007, “Human Dignity and Human Being,” in Malpas and Lickiss 2007b: 27–42.
-* Malpas, Jeff, and Norelle Lickiss, 2007a, “Introduction to a Conversation”, in Malpas and Lickiss 2007b: 1–5. doi:10.1007/978-1-4020-6281-0_1
-* ––– (eds), 2007b, *Perspectives on Human Dignity: A Conversation*, Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-6281-0
-* Luban, David, 2009, “Human Dignity, Humiliation, and Torture”, *Kennedy Institute of Ethics Journal*, 19(3): 211–230. doi:10.1353/ken.0.0292
-* Luo, An’xian, 2014, “Human Dignity in Traditional Chinese Confucianism”, in Düwell et al. 2014: 177–181 (ch. 17). doi:10.1017/CBO9780511979033.021
-* Macklin, Ruth, 2003, “Dignity Is a Useless Concept”, *BMJ*, 327(20–27): 1419–1420. doi:10.1136/bmj.327.7429.1419
+* Malpas, Jeff, and Norelle Lickiss, 2007a, “Introduction to a Conversation”, in Malpas and Lickiss 2007b: 1–5. doi: 10.1007/978-1-4020-6281-0_1
+* ––– (eds), 2007b, *Perspectives on Human Dignity: A Conversation*, Dordrecht: Springer Netherlands. doi: 10.1007/978-1-4020-6281-0
+* Luban, David, 2009, “Human Dignity, Humiliation, and Torture”, *Kennedy Institute of Ethics Journal*, 19(3): 211–230. doi: 10.1353/ken.0.0292
+* Luo, An’xian, 2014, “Human Dignity in Traditional Chinese Confucianism”, in Düwell et al. 2014: 177–181 (ch. 17). doi: 10.1017/CBO9780511979033.021
+* Macklin, Ruth, 2003, “Dignity Is a Useless Concept”, *BMJ*, 327(20–27): 1419–1420. doi: 10.1136/bmj.327.7429.1419
 * Mandeville, Bernard, 1714 [1988], *The Fable of the Bees*, 2 vols., London. Reference is to the reprint with introduction by F. B. Kaye, Indianapolis, IN: Liberty Fund Press, 1988.
-* Manning, Rita C., 2009, “A Care Approach”, in *A Companion to Bioethics*, Helga Kuhse and Peter Singer (eds), Oxford: Wiley-Blackwell, 105–116. doi:10.1002/9781444307818.ch11
-* McCrudden, Christopher, 2008, “Human Dignity and Judicial Interpretation of Human Rights”, *European Journal of International Law*, 19(4): 655–724. doi:10.1093/ejil/chn043
+* Manning, Rita C., 2009, “A Care Approach”, in *A Companion to Bioethics*, Helga Kuhse and Peter Singer (eds), Oxford: Wiley-Blackwell, 105–116. doi: 10.1002/9781444307818.ch11
+* McCrudden, Christopher, 2008, “Human Dignity and Judicial Interpretation of Human Rights”, *European Journal of International Law*, 19(4): 655–724. doi: 10.1093/ejil/chn043
 * –––, 2013a, “In Pursuit of Human Dignity: An Introduction to Current Debates”, in McCrudden 2013b: 1–58 (ch. 1).
-* ––– (ed.), 2013b, *Understanding Human Dignity* (Proceedings of the British Academy 192), Oxford: Oxford University Press. doi:10.5871/bacad/9780197265642.001.0001
-* McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, (Oxford Ethics Series), Oxford/New York: Oxford University Press. doi:10.1093/0195079981.001.0001
-* McNamee, M. J. and S. D. Edwards, 2006, “Transhumanism, Medical Technology and Slippery Slopes”, *Journal of Medical Ethics*, 32(9): 513–518. doi:10.1136/jme.2005.013789
+* ––– (ed.), 2013b, *Understanding Human Dignity* (Proceedings of the British Academy 192), Oxford: Oxford University Press. doi: 10.5871/bacad/9780197265642.001.0001
+* McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, (Oxford Ethics Series), Oxford/New York: Oxford University Press. doi: 10.1093/0195079981.001.0001
+* McNamee, M. J. and S. D. Edwards, 2006, “Transhumanism, Medical Technology and Slippery Slopes”, *Journal of Medical Ethics*, 32(9): 513–518. doi: 10.1136/jme.2005.013789
 * Metz, Thaddeus, 2010, “Human Dignity, Capital Punishment, and an African Moral Theory: Toward a New Philosophy of Human Rights”, *Journal of Human Rights*, 9(1): 81–99.
-* Meulen, Ruud ter, 2010, “Dignity, Posthumanism, and the Community of Values”, *The American Journal of Bioethics*, 10(7): 69–70. doi:10.1080/15265161003728852
-* Meyer, Michael J., 1987, “Kant’s Concept of Dignity and Modern Political Thought”, *History of European Ideas*, 8(3): 319–332. doi:10.1016/0191-6599(87)90005-2
-* –––, 1989, “Dignity, Rights, and Self-Control”, *Ethics*, 99(3): 520–534. doi:10.1086/293095
-* –––, 2001, “The Simple Dignity of Sentient Life: Speciesism and Human Dignity”, *Journal of Social Philosophy*, 32(2): 115–126. doi:10.1111/0047-2786.00083
+* Meulen, Ruud ter, 2010, “Dignity, Posthumanism, and the Community of Values”, *The American Journal of Bioethics*, 10(7): 69–70. doi: 10.1080/15265161003728852
+* Meyer, Michael J., 1987, “Kant’s Concept of Dignity and Modern Political Thought”, *History of European Ideas*, 8(3): 319–332. doi: 10.1016/0191-6599(87)90005-2
+* –––, 1989, “Dignity, Rights, and Self-Control”, *Ethics*, 99(3): 520–534. doi: 10.1086/293095
+* –––, 2001, “The Simple Dignity of Sentient Life: Speciesism and Human Dignity”, *Journal of Social Philosophy*, 32(2): 115–126. doi: 10.1111/0047-2786.00083
 * Meyer, Michael J. and William A. Parent (eds), 1992, *The Constitution of Rights: Human Dignity and American Values*, Ithaca, NY: Cornell University Press.
 * Midgley, Mary, 1984, *Animals and Why They Matter*, Athens, GA: University of Georgia Press.
-* Mieth, Dietmar, 2014, “Human Dignity in Late-Medieval Spiritual and Political Conflicts”, in Düwell et al. 2014: 74–84. doi:10.1017/CBO9780511979033.008
+* Mieth, Dietmar, 2014, “Human Dignity in Late-Medieval Spiritual and Political Conflicts”, in Düwell et al. 2014: 74–84. doi: 10.1017/CBO9780511979033.008
 * Migiel, Marilyn, 1991, “The Dignity of Man: A Feminist Perspective”, in *Refiguring Woman: Perspectives on Gender and the Italian Renaissance*, Marilyn Migiel and Juliana Schiesari (eds), Ithaca, NY: Cornell University Press, 211–232.
 * Mikkola, Mari, 2021, “Why Dehumanization is Distinct from Objectification”, in *The Routledge Handbook of Dehumanization*, Maria Kronfeldner (ed.), London and New York: Routledge, 326–340.
-* Miller, Sarah Clark, 2012, *The Ethics of Need: Agency, Dignity, and Obligation*, (Routledge Studies in Philosophy), New York: Routledge. doi:10.4324/9780203334393
+* Miller, Sarah Clark, 2012, *The Ethics of Need: Agency, Dignity, and Obligation*, (Routledge Studies in Philosophy), New York: Routledge. doi: 10.4324/9780203334393
 * Morawa, Alexander H. E., 2003, “Vulnerability as a Concept of International Human Rights Law”, *Journal of International Relations and Development*, 6(2): 139–155.
-* Morris, Bertram, 1946, “The Dignity of Man”, *Ethics*, 57(1): 57–64. doi:10.1086/290530
+* Morris, Bertram, 1946, “The Dignity of Man”, *Ethics*, 57(1): 57–64. doi: 10.1086/290530
 * Moyn, Samuel, 2013, “The Secret History of Constitutional Dignity”, in McCrudden 2013b: 95–112 (ch. 4).
 * Muray, Leslie A., 2007, “Human Uniqueness vs. Human Distinctiveness: The ‘Imago Dei’ in the Kinship of all Creatures”, *American Journal of Theology & Philosophy*, 28(3): 299–310.
 * Murdoch, Iris, 1970, *The Sovereignty of the Good*, London: Routledge & Kegan Paul.
-* Neal, Mary, 2012, “‘Not Gods But Animals’: Human Dignity and Vulnerable Subjecthood”, *Liverpool Law Review*, 33(3): 177–200. doi:10.1007/s10991-012-9124-6
-* Neuhäuser, Christian, 2011, “Humiliation: The Collective Dimension”, in Kaufmann et al. 2011: 21–36. doi:10.1007/978-90-481-9661-6_3
+* Neal, Mary, 2012, “‘Not Gods But Animals’: Human Dignity and Vulnerable Subjecthood”, *Liverpool Law Review*, 33(3): 177–200. doi: 10.1007/s10991-012-9124-6
+* Neuhäuser, Christian, 2011, “Humiliation: The Collective Dimension”, in Kaufmann et al. 2011: 21–36. doi: 10.1007/978-90-481-9661-6_3
 * Noddings, Nel, 1984, *Caring: A Feminine Approach to Ethics & Moral Education*, Berkeley, CA: University of California Press.
-* Norcross, Alastair, 2004, “Puppies, Pigs, and People: Eating Meat and Marginal Cases”, *Philosophical Perspectives*, 18: 229–245. doi:10.1111/j.1520-8583.2004.00027.x
-* Nordenfelt, Lennart, 2003, “Dignity of the Elderly: An Introduction”, *Medicine, Health Care and Philosophy*, 6(2): 99–101. doi:10.1023/A:1024150526303
-* –––, 2009, “The Concept of Dignity”, in *Dignity in Care for Older People*, Lennart Nordenfelt (ed.), Oxford: Blackwell Publishing, 26–53. doi:10.1002/9781444316414.ch2
+* Norcross, Alastair, 2004, “Puppies, Pigs, and People: Eating Meat and Marginal Cases”, *Philosophical Perspectives*, 18: 229–245. doi: 10.1111/j.1520-8583.2004.00027.x
+* Nordenfelt, Lennart, 2003, “Dignity of the Elderly: An Introduction”, *Medicine, Health Care and Philosophy*, 6(2): 99–101. doi: 10.1023/A: 1024150526303
+* –––, 2009, “The Concept of Dignity”, in *Dignity in Care for Older People*, Lennart Nordenfelt (ed.), Oxford: Blackwell Publishing, 26–53. doi: 10.1002/9781444316414.ch2
 * Novak, Michael, 1998, “The Judeo-Christian Foundation of Human Dignity, Personal Liberty, and the Concept of the Person”, *Journal of Markets and Morality* 1(2): 107–121.
 * –––, 1999, “Human Dignity, Human Rights”, *First Things*, 97: 39–42.
-* Nussbaum, Martha C., 1995, “Human Capabilities, Female Human Beings”, in Nussbaum and Glover 1995: 61–104. doi:10.1093/0198289642.003.0003
-* –––, 2000a, “The Future of Feminist Liberalism”, *Proceedings and Addresses of the American Philosophical Association*, 74(2): 47–79. doi:10.2307/3219683
+* Nussbaum, Martha C., 1995, “Human Capabilities, Female Human Beings”, in Nussbaum and Glover 1995: 61–104. doi: 10.1093/0198289642.003.0003
+* –––, 2000a, “The Future of Feminist Liberalism”, *Proceedings and Addresses of the American Philosophical Association*, 74(2): 47–79. doi: 10.2307/3219683
 * –––, 2002b, “The Worth of Human Dignity: Two Tensions in Stoic Cosmopolitanism”, in Clark and Rajak 2002: 31–49.
 * –––, 2004, “Beyond ‘Compassion and Humanity’: Justice for Nonhuman Animals”, in *Animal Rights: Current Debates and New Directions*, Cass R. Sunstein and Martha Nussbaum (eds), New York: Oxford University Press, 299–320.
 * –––, 2006a, *Frontiers of Justice: Disability, Nationality, Species Membership*, Cambridge, MA: Harvard University Press
 * –––, 2006b, “The Moral Status of Animals”, *Chronicle of Higher Education*, 3 February 2006. [[Nussbaum 2006b available online](https://www.chronicle.com/article/the-moral-status-of-animals/)]
-* Nussbaum, Martha C. and Jonathan Glover (eds), 1995, *Women, Culture, and Development: A Study of Human Capabilities*, (Wider Studies in Development Economics), Oxford: Oxford University Press. doi:10.1093/0198289642.001.0001
-* Ober, Josiah, 2014, “Meritocratic and Civic Dignity in Greco-Roman Antiquity”, in Düwell et al. 2014: 53–63. doi:10.1017/CBO9780511979033.006
-* O’Mathúna, Dónal P, 2006, “Human Dignity in the Nazi Era: Implications for Contemporary Bioethics”, *BMC Medical Ethics*, 7(December): article 2. doi:10.1186/1472-6939-7-2
-* –––, 2013, “Human Dignity and the Ethics of Human Enhancement”, *Trans-Humanities Journal*, 6(1): 99–120. doi:10.1353/trh.2013.0012
+* Nussbaum, Martha C. and Jonathan Glover (eds), 1995, *Women, Culture, and Development: A Study of Human Capabilities*, (Wider Studies in Development Economics), Oxford: Oxford University Press. doi: 10.1093/0198289642.001.0001
+* Ober, Josiah, 2014, “Meritocratic and Civic Dignity in Greco-Roman Antiquity”, in Düwell et al. 2014: 53–63. doi: 10.1017/CBO9780511979033.006
+* O’Mathúna, Dónal P, 2006, “Human Dignity in the Nazi Era: Implications for Contemporary Bioethics”, *BMC Medical Ethics*, 7(December): article 2. doi: 10.1186/1472-6939-7-2
+* –––, 2013, “Human Dignity and the Ethics of Human Enhancement”, *Trans-Humanities Journal*, 6(1): 99–120. doi: 10.1353/trh.2013.0012
 * O’Neill, Onora, 1998, “Kant on Duties Regarding Nonrational Nature II”, *Aristotelian Society, Supplementary Volume*, 72: 211–228.
 * Parekh, Serena, 2008, *Hannah Arendt and the Challenge of Modernity: A Phenomenology of Human Rights*, New York: Routledge.
-* Pharo, Lars Kirkhusmo, 2014, “The Concepts of Human Dignity in Moral Philosophies of Indigenous Peoples of the Americas”, in Düwell et al. 2014: 147–154 (ch. 13). doi:10.1017/CBO9780511979033.017
+* Pharo, Lars Kirkhusmo, 2014, “The Concepts of Human Dignity in Moral Philosophies of Indigenous Peoples of the Americas”, in Düwell et al. 2014: 147–154 (ch. 13). doi: 10.1017/CBO9780511979033.017
 * Pico della Mirandola, Giovanni, 1486, *Oratio de hominis dignitate* (Oration on the dignity of man), C. Glenn Wallis, Paul J. W. Miller, and Douglas Carmichael (trans.), Indianapolis: Hackett, 1965.
 * Pinker, Steven, 2008, “The Stupidity of Dignity”, *The New Republic*, 27 May 2008. [[Pinker 2008 available online](https://newrepublic.com/article/64674/the-stupidity-dignity)]
-* Pluhar, Evelyn B., 1995, *Beyond Prejudice: The Moral Significance of Human and Nonhuman Animals*, Durham, NC: Duke University Press. doi:10.1215/9780822396048
+* Pluhar, Evelyn B., 1995, *Beyond Prejudice: The Moral Significance of Human and Nonhuman Animals*, Durham, NC: Duke University Press. doi: 10.1215/9780822396048
 * President’s Council on Bioethics, 2008, *Human Dignity and Bioethics: Essays Commissioned by the President’s Council on Bioethics*, Washington, DC: Government Printing Office. [[President’s Council on Bioethics 2008 available online](https://bioethicsarchive.georgetown.edu/pcbe/reports/human_dignity/)]
-* Pritchard, Michael S., 1972, “Human Dignity and Justice”, *Ethics*, 82(4): 299–313. doi:10.1086/291853
+* Pritchard, Michael S., 1972, “Human Dignity and Justice”, *Ethics*, 82(4): 299–313. doi: 10.1086/291853
 * Pufendorf, Samuel, 1672/1691 [2003], *De officio hominis et civis* (*The Whole Duty of Man, According to the Law of Nature)*, Andrew Tooke (trans.), 1735, Ian Hunter and David Saunders (eds), Indianapolis: Liberty Fund Press, 2003.
 * Quinn, Philip, 2007, “On the Intrinsic Value of Human Persons”, in *Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds), New York: Oxford University Press, 237–260.
 * Rachels, James, 1990, *Created From Animals: The Moral Implications of Darwinism*, New York: Oxford University Press.
 * Rolston, Holmes, 2008, “Human Uniqueness and Human Dignity: Persons in Nature and the Nature of Persons”, in *Human Dignity and Bioethics: Essays Commissioned by the President’s Council on Bioethics*, Adam Schulman (ed.), President’s Council on Bioethics.
 * Rosen, Michael, 2012a, *Dignity: Its History and Meaning*, Cambridge, MA/London: Harvard University Press.
-* –––, 2012b, “Dignity Past and Present”, in Waldron 2012: 79–97. doi:10.1093/acprof:oso/9780199915439.003.0004
+* –––, 2012b, “Dignity Past and Present”, in Waldron 2012: 79–97. doi: 10.1093/acprof: oso/9780199915439.003.0004
 * –––, 2013, “Dignity: The Case Against”, in McCrudden 2013b: 143–154 (ch. 7).
 * Rotenstreich, Nathan, 1983, *Man and His Dignity*. Magnes Press, Hebrew University.
-* Saastamoinen, Kari, 2010, “Pufendorf on Natural Equality, Human Dignity, and Self-Esteem”, *Journal of the History of Ideas*, 71(1): 39–62. doi:10.1353/jhi.0.0065
-* Sandler, Ronald and John Basl, 2010, “Transhumanism, Human Dignity, and Moral Status”, *The American Journal of Bioethics*, 10(7): 63–66. doi:10.1080/15265161003714019
+* Saastamoinen, Kari, 2010, “Pufendorf on Natural Equality, Human Dignity, and Self-Esteem”, *Journal of the History of Ideas*, 71(1): 39–62. doi: 10.1353/jhi.0.0065
+* Sandler, Ronald and John Basl, 2010, “Transhumanism, Human Dignity, and Moral Status”, *The American Journal of Bioethics*, 10(7): 63–66. doi: 10.1080/15265161003714019
 * Sangiovanni, Andrea, 2017, *Humanity Without Dignity: Moral Equality, Respect, and Human Rights*, Cambridge, MA: Harvard University Press.
-* Schachter, Oscar, 1983, “Human Dignity as a Normative Concept”, *American Journal of International Law*, 77(4): 848–854. doi:10.2307/2202536
+* Schachter, Oscar, 1983, “Human Dignity as a Normative Concept”, *American Journal of International Law*, 77(4): 848–854. doi: 10.2307/2202536
 * Schopenhauer, Arthur, 1840 [1965], *Über das Fundament der Moral*, Copenhagen. Translated as *On the Basis of Morality*, E. F. J. Payne (trans.), Indianapolis, IN: Bobbs-Merrrill, 1965.
-* Schroeder, Doris, 2012, “Human Rights and Human Dignity: An Appeal to Separate the Conjoined Twins”, *Ethical Theory and Moral Practice*, 15(3): 323–335. doi:10.1007/s10677-011-9326-3
+* Schroeder, Doris, 2012, “Human Rights and Human Dignity: An Appeal to Separate the Conjoined Twins”, *Ethical Theory and Moral Practice*, 15(3): 323–335. doi: 10.1007/s10677-011-9326-3
 * Schwöbel, Christopher, 2006, “Recovering Human Dignity”, in Soulen and Woodhead 2006: 44–58.
 * Scott, Rebecca J., 2013, “Dignité/Dignidade: Organizing against Threats to Dignity in Societies after Slavery”, in McCrudden 2013b: 61–78 (ch. 2).
-* Sensen, Oliver, 2011, “Human Dignity in Historical Perspective: The Contemporary and Traditional Paradigms”, *European Journal of Political Theory*, 10(1): 71–91. doi:10.1177/1474885110386006
+* Sensen, Oliver, 2011, “Human Dignity in Historical Perspective: The Contemporary and Traditional Paradigms”, *European Journal of Political Theory*, 10(1): 71–91. doi: 10.1177/1474885110386006
 * –––, 2017, “Dignity: Kant’s Revolutionary Conception,” in Debes 2017a: 237–262 (ch. 8).
 * Shah, Mustafa, 2017, “Islamic Conceptions of Dignity: Historical Trajectories and Paradigms”, in Debes 2017a: 99–126 (ch. 4).
-* Singer, Peter, 2009 “Speciesism and Moral Status”, *Metaphilosophy*, 40(3-4): 567–581. doi:10.1111/j.1467-9973.2009.01608.x
-* Shultziner, Doron, 2007, “Human Dignity: Functions and Meanings”, in Malpas and Lickiss 2007b: 73–92. doi:10.1007/978-1-4020-6281-0_7
+* Singer, Peter, 2009 “Speciesism and Moral Status”, *Metaphilosophy*, 40(3-4): 567–581. doi: 10.1111/j.1467-9973.2009.01608.x
+* Shultziner, Doron, 2007, “Human Dignity: Functions and Meanings”, in Malpas and Lickiss 2007b: 73–92. doi: 10.1007/978-1-4020-6281-0_7
 * Sophocles, c. 441 BCE [1951], *Antigone*, in *The Loeb Classical Library: Sophocles Vol. 1* (LCL 21), F. Storr (trans.), Cambridge, MA: Harvard University Press.
 * Soskice, Janet, 2013, “Human Dignity and the Image of God”, in McCrudden 2013b: 229–244 (ch. 12).
 * Soulen, R. Kendall and Linda Woodhead (eds), 2006, *God and Human Dignity*, Grand Rapids, MI/Cambridge, UK: William B. Eerdmans Publishing.
-* Spelman, Elizabeth V., 1978, “On Treating Persons as Persons”, *Ethics*, 88(2): 150–161. doi:10.1086/292066
-* Spiegelberg, Herbert, 1971, “Human Dignity: A Challenge to Contemporary Philosophy”, *The Philosophy Forum*, 9(1–2): 39–64. doi:10.1080/02604027.1971.9971711
-* Statman, Daniel, 2000, “Humiliation, Dignity and Self-Respect”, *Philosophical Psychology*, 13(4): 523–540. doi:10.1080/09515080020007643
+* Spelman, Elizabeth V., 1978, “On Treating Persons as Persons”, *Ethics*, 88(2): 150–161. doi: 10.1086/292066
+* Spiegelberg, Herbert, 1971, “Human Dignity: A Challenge to Contemporary Philosophy”, *The Philosophy Forum*, 9(1–2): 39–64. doi: 10.1080/02604027.1971.9971711
+* Statman, Daniel, 2000, “Humiliation, Dignity and Self-Respect”, *Philosophical Psychology*, 13(4): 523–540. doi: 10.1080/09515080020007643
 * Stern, A., 1975, “On Value and Human Dignity”, *Listening: Journal of Religion and Culture*, 1975(Spring): 74–90.
-* Sulmasy, Daniel P., 2007, “Human Dignity and Human Worth”, in Malpas and Lickiss 2007b: 27–42. doi:10.1007/978-1-4020-6281-0_2
-* Tadd, Win, Linus Vanlaere, and Chris Gastmans, 2010, “Clarifying the Concept of Human Dignity in the Care of the Elderly: A Dialogue between Empirical and Philosophical Approaches”, *Ethical Perspectives*, 17(2): 253–281. doi:10.2143/EP.17.2.2049266
-* Tarling, Nicholas, 2007, “Dignity and Indignity”, in Malpas and Lickiss 2007b: 141–150. doi:10.1007/978-1-4020-6281-0_13
+* Sulmasy, Daniel P., 2007, “Human Dignity and Human Worth”, in Malpas and Lickiss 2007b: 27–42. doi: 10.1007/978-1-4020-6281-0_2
+* Tadd, Win, Linus Vanlaere, and Chris Gastmans, 2010, “Clarifying the Concept of Human Dignity in the Care of the Elderly: A Dialogue between Empirical and Philosophical Approaches”, *Ethical Perspectives*, 17(2): 253–281. doi: 10.2143/EP.17.2.2049266
+* Tarling, Nicholas, 2007, “Dignity and Indignity”, in Malpas and Lickiss 2007b: 141–150. doi: 10.1007/978-1-4020-6281-0_13
 * Tasioulas, John, 2013, “Human Dignity and the Foundations of Human Rights”, in McCrudden 2013: 191–312 (ch. 17).
-* Toscano, Manuel, 2011, “Human Dignity as High Moral Status”, *Les ateliers de l’éthique/The Ethics Forum*, 6(2): 4–25. doi:10.7202/1008029ar
+* Toscano, Manuel, 2011, “Human Dignity as High Moral Status”, *Les ateliers de l’éthique/The Ethics Forum*, 6(2): 4–25. doi: 10.7202/1008029ar
 * Trinkaus, Charles Edward, 1970, *In Our Image and Likeness: Humanity and Divinity in Italian Humanist Thought*, 2 vols., London: Constable.
 * [UN] United Nations, 1945, *United Nations Charter*. [[UN 1945 available online](https://www.un.org/en/about-us/un-charter/full-text)]
 * –––, 1948, *Universal Declaration of Human Rights*. [[UN 1948 available online](https://www.un.org/en/about-us/universal-declaration-of-human-rights)]
 * Valadier, Paul, 2003, “The Person who Lacks Dignity”, in Ammicht-Quinn, Junker-Kerry, and Tamez, 2003: 49–56.
-* Valentini, Laura, 2017, “Dignity and Human Rights: A Reconceptualisation”, *Oxford Journal of Legal Studies*, 37(4): 862–885. doi:10.1093/ojls/gqx011
-* Van Assche, Kristof and Sigrid Sterckx, 2014, “The Protection of Human Dignity in Research Involving Human Body Material”, in *Humanity across International Law and Biolaw*, Britta van Beers, Luigi Corrias, and Wouter G. Werner (eds), Cambridge: Cambridge University Press, 265–287. doi:10.1017/CBO9781107257139.016
+* Valentini, Laura, 2017, “Dignity and Human Rights: A Reconceptualisation”, *Oxford Journal of Legal Studies*, 37(4): 862–885. doi: 10.1093/ojls/gqx011
+* Van Assche, Kristof and Sigrid Sterckx, 2014, “The Protection of Human Dignity in Research Involving Human Body Material”, in *Humanity across International Law and Biolaw*, Britta van Beers, Luigi Corrias, and Wouter G. Werner (eds), Cambridge: Cambridge University Press, 265–287. doi: 10.1017/CBO9781107257139.016
 * Varga, Somogy, 2017, “Reflection taking refuge from history in morality: Marx, morality, and dignity”, in Debes 2017a: 291–300.
-* Verbeek, Theo, 2014, “Rousseau and Human Dignity”, in Düwell et. al. 2014: 117–125. doi:10.1017/CBO9780511979033.013
-* Waldron, Jeremy, 2012, *Dignity, Rank, and Rights*, Meir Dan-Cohen (ed.), (Berkeley Tanner Lectures), New York: Oxford University Press. doi:10.1093/acprof:oso/9780199915439.001.0001
+* Verbeek, Theo, 2014, “Rousseau and Human Dignity”, in Düwell et. al. 2014: 117–125. doi: 10.1017/CBO9780511979033.013
+* Waldron, Jeremy, 2012, *Dignity, Rank, and Rights*, Meir Dan-Cohen (ed.), (Berkeley Tanner Lectures), New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199915439.001.0001
 * Walzer, Michael, 1994, *Thick and Thin: Moral Argument at Home and Abroad*, Notre Dame, IN: University of Notre Dame Press.
-* Webster, Noah, 1806, A Compendious Dictionary of the English Language, New Haven, CT: Sidney’s Press,[[Webster 1806 available online](https://archive.org/details/compendiousdictionaryoftheenglishlanguage1806)].
+* Webster, Noah, 1806, A Compendious Dictionary of the English Language, New Haven, CT: Sidney’s Press, [[Webster 1806 available online](https://archive.org/details/compendiousdictionaryoftheenglishlanguage1806)].
 * Weil, Simone, 1957 [1986], “La personne et le sacré”, written 1942/43, first published in *Écrits de Londres et dernières lettres*, Paris: Gallimard, 1957. Translated as “Human Personality”, in *Simone Weil: An Anthology*, Siân Miles (ed.), New York: Weidenfeld & Nicolson, 1986.
 * Weithman, Paul, 2008, “Two Arguments from Human Dignity”, in President’s Council on Bioethics 2008: 435–467 (ch. 17). [[Weithman 2008 available online](https://bioethicsarchive.georgetown.edu/pcbe/reports/human_dignity/chapter17.html)]
-* Wolf, Susan, 1995, “Commentary on: Martha Nussbaum’s ‘Human Capabilities, Female Human Beings’”, in Nussbaum and Glover 1995: 105–115. doi:10.1093/0198289642.003.0004
-* Wood, Allen W., 1999, *Kant’s Ethical Thought*, (Modern European Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139173254
+* Wolf, Susan, 1995, “Commentary on: Martha Nussbaum’s ‘Human Capabilities, Female Human Beings’”, in Nussbaum and Glover 1995: 105–115. doi: 10.1093/0198289642.003.0004
+* Wood, Allen W., 1999, *Kant’s Ethical Thought*, (Modern European Philosophy), Cambridge/New York: Cambridge University Press. doi: 10.1017/CBO9781139173254
 * World Medical Association [WMA], 2013, “World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Subjects”, 64th WMA General Assembly, Fortaleza, Brazil, October. [[WMA 2013 (Declaration of Helsinki) available online](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)]
 * Zhuangzi [Chuang Tzu, late 4th century BCE], 1968, *The Complete Works of Chuang Tzu*, Burton Watson (trans.), New York: Columbia University Press.
 

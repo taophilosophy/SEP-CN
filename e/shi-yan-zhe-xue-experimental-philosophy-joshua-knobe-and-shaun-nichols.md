@@ -47,7 +47,7 @@
 
 ### 2.1 The Negative Program2.1 负面计划
 
-在《泰阿特罗斯》中，苏格拉底问道：“这就是我永远无法满意解决的困难之处——什么是知识？”（146a）。随后的哲学讨论通常通过提出各种假设来进行，例如，知识是真实信念，并考虑可能的反例。因此，例如，苏格拉底认为知识并不仅仅是真实信念，因为一个熟练的律师可以说服一个人持有一个真实的信念，但那个信念实际上并不是知识[参见《泰阿特罗斯》条目]。苏格拉底通常期望并得到他的对话者的同意。苏格拉底也不会问他的对话者，“你对知识的概念是什么”或“对雅典人来说什么算是知识？”相反，他似乎期望得到一个关于知识是什么的全局性答案。此外，他似乎期望知识具有单一的本质，正如他告诉泰阿特罗斯的那样：“我希望你……给出关于知识的许多分支的一个单一解释”（148d）。
+在《泰阿特罗斯》中，苏格拉底问道：“这就是我永远无法满意解决的困难之处——什么是知识？”（146a）。随后的哲学讨论通常通过提出各种假设来进行，例如，知识是真实信念，并考虑可能的反例。因此，例如，苏格拉底认为知识并不仅仅是真实信念，因为一个熟练的律师可以说服一个人持有一个真实的信念，但那个信念实际上并不是知识 [参见《泰阿特罗斯》条目]。苏格拉底通常期望并得到他的对话者的同意。苏格拉底也不会问他的对话者，“你对知识的概念是什么”或“对雅典人来说什么算是知识？”相反，他似乎期望得到一个关于知识是什么的全局性答案。此外，他似乎期望知识具有单一的本质，正如他告诉泰阿特罗斯的那样：“我希望你……给出关于知识的许多分支的一个单一解释”（148d）。
 
 实验哲学的否定计划工作利用实证工作来挑战这一传统哲学项目。已经发展出两种略有不同的挑战。
 
@@ -84,7 +84,7 @@
 
 这一系列的主张提出了一个挑战，因为似乎即使哲学家也容易受到这些认识上不恰当的影响，我们无法确定我们的直觉中哪些是可以信任的。因此，当哲学家依赖他们的直觉来试图获取哲学真理时，他们的认识基础是不牢固的。
 
-显然，敏感性论证根据所讨论的类别和敏感性的证据以不同方式发展，但了解一下如何质疑一般性主张（S1-S5）是有用的。（请参见第 3.1 节，拒绝哲学直觉（S1）和第 3.2 节，捍卫特权人群[反对 S4]）。
+显然，敏感性论证根据所讨论的类别和敏感性的证据以不同方式发展，但了解一下如何质疑一般性主张（S1-S5）是有用的。（请参见第 3.1 节，拒绝哲学直觉（S1）和第 3.2 节，捍卫特权人群 [反对 S4]）。
 
 尽管在情境因素的影响方面存在可复制的效应，但是根据 S2 的观点，这些效应中许多似乎太微小，无法威胁依赖直觉的实践（参见 Demaree-Cotton 2016; May 2014）。这种效应可能仅相当于 7 分量表上的 2.2 和 2.5 之间的差异。很难看出这种差异如何会威胁到依赖操作性直觉的实践。
 
@@ -217,7 +217,7 @@
 
 在实际实践中，对这一反对意见的辩论往往集中在哲学史上的问题上。显然，从亚里士多德到尼采，许多哲学家都对人类本性的经验问题深感关切，因此，至少在没有任何反驳的情况下，似乎默认观点应该是，对这些问题的研究确实可以被视为哲学。那么，关键问题是，是否存在任何合法的反驳意见。
 
-安东尼·阿皮亚对这一策略提出了质疑。
+安东尼 · 阿皮亚对这一策略提出了质疑。
 
 > 您会发现，要向大多数经典哲学家解释这部分工作是真正的哲学，而那部分工作不是，是很困难的。试图在这一文集中区分“形而上学”和“心理学”元素，就像剥一颗覆盆子一样困难。(Appiah 2008: 13)
 
@@ -231,149 +231,149 @@
 
 ## Bibliography
 
-* Adams, Fred & Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 64(282): 173–181. doi:10.1111/j.1467-8284.2004.00480.x
-* Adleberg, Toni, Morgan Thompson, & Eddy Nahmias, 2015, “Do men and women have different philosophical intuitions? Further data”, *Philosophical Psychology*, 28(5): 615–641. doi:10.1080/09515089.2013.878834
-* Alicke, Mark D., 1992, “Culpable Causation”, *Journal of Personality and Social Psychology*, 63(3): 368–378. doi:10.1037/0022-3514.63.3.368
-* Alicke, Mark D., David Rose, & Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control”, *The Journal of Philosophy*, 108(12): 670–696. doi:10.5840/jphil20111081238
-* Andow, James & Florian Cova, 2016, “Why Compatibilist Intuitions Are Not Mistaken: A reply to Feltz and Millan” *Philosophical Psychology*, 29(4): 550–566. doi:10.1080/09515089.2015.1082542
-* Anstey, Peter R. & Alberto Vanzo, 2016, “Early Modern Experimental Philosophy”, Sytsma & Buckwalter 2016: 87–102. doi:10.1002/9781118661666.ch6
+* Adams, Fred & Annie Steadman, 2004, “Intentional Action in Ordinary Language: Core Concept or Pragmatic Understanding?”, *Analysis*, 64(282): 173–181. doi: 10.1111/j.1467-8284.2004.00480.x
+* Adleberg, Toni, Morgan Thompson, & Eddy Nahmias, 2015, “Do men and women have different philosophical intuitions? Further data”, *Philosophical Psychology*, 28(5): 615–641. doi: 10.1080/09515089.2013.878834
+* Alicke, Mark D., 1992, “Culpable Causation”, *Journal of Personality and Social Psychology*, 63(3): 368–378. doi: 10.1037/0022-3514.63.3.368
+* Alicke, Mark D., David Rose, & Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control”, *The Journal of Philosophy*, 108(12): 670–696. doi: 10.5840/jphil20111081238
+* Andow, James & Florian Cova, 2016, “Why Compatibilist Intuitions Are Not Mistaken: A reply to Feltz and Millan” *Philosophical Psychology*, 29(4): 550–566. doi: 10.1080/09515089.2015.1082542
+* Anstey, Peter R. & Alberto Vanzo, 2016, “Early Modern Experimental Philosophy”, Sytsma & Buckwalter 2016: 87–102. doi: 10.1002/9781118661666.ch6
 * Appiah, Kwame Anthony, 2008, *Experiments in Ethics*, (The Mary Flexner Lectures of Bryn Mawr College), Cambridge, MA: Harvard University Press.
-* Bartels, Daniel M. & Oleg Urminsky, 2011, “On Intertemporal Selfishness: How the Perceived Instability of Identity Underlies Impatient Consumption”, *Journal of Consumer Research*, 38(1): 182–198. doi:10.1086/658339
-* Baumeister, Roy F., E.J. Masicampo, & C. Nathan DeWall, 2009, “Prosocial Benefits of Feeling Free: Disbelief in Free Will Increases Aggression and Reduces Helpfulness”, *Personality and Social Psychology Bulletin*, 35(2): 260–268. doi:10.1177/0146167208327217
-* Beebe, James R., & Joseph Shea, 2013, “Gettierized Knobe Effects”, *Episteme*, 10(3): 219–240. doi:10.1017/epi.2013.23
-* Bermúdez, José Luis, 2006, “Knowledge, Naturalism, and Cognitive Ethology: Kornblith’s Knowledge and Its Place in Nature”, *Philosophical Studies*, 127(2): 299–316. doi:10.1007/s11098-005-4960-z
-* Björnsson, Gunnar, 2014, “Incompatibilism and ‘Bypassed’ Agency”, in *Surrounding Free Will*, edited by Alfred R. Mele, New York: Oxford University Press, pp. 95–122. doi:10.1093/acprof:oso/9780199333950.003.0006
+* Bartels, Daniel M. & Oleg Urminsky, 2011, “On Intertemporal Selfishness: How the Perceived Instability of Identity Underlies Impatient Consumption”, *Journal of Consumer Research*, 38(1): 182–198. doi: 10.1086/658339
+* Baumeister, Roy F., E.J. Masicampo, & C. Nathan DeWall, 2009, “Prosocial Benefits of Feeling Free: Disbelief in Free Will Increases Aggression and Reduces Helpfulness”, *Personality and Social Psychology Bulletin*, 35(2): 260–268. doi: 10.1177/0146167208327217
+* Beebe, James R., & Joseph Shea, 2013, “Gettierized Knobe Effects”, *Episteme*, 10(3): 219–240. doi: 10.1017/epi.2013.23
+* Bermúdez, José Luis, 2006, “Knowledge, Naturalism, and Cognitive Ethology: Kornblith’s Knowledge and Its Place in Nature”, *Philosophical Studies*, 127(2): 299–316. doi: 10.1007/s11098-005-4960-z
+* Björnsson, Gunnar, 2014, “Incompatibilism and ‘Bypassed’ Agency”, in *Surrounding Free Will*, edited by Alfred R. Mele, New York: Oxford University Press, pp. 95–122. doi: 10.1093/acprof: oso/9780199333950.003.0006
 * Björnsson, Gunnar & Derk Pereboom, 2014, “Free Will Skepticism and Bypassing”, in Walter Sinnott-Armstrong (ed.), *Moral Psychology, Volume 4: Free Will and Moral Responsibility*, Cambridge, MA: MIT Press, pp. 27–35.
-* Brown, Jessica, 2013a, “Experimental-Philosophy, Contextualism and Subject-Sensitive Invariantism”, *Philosophy and Phenomenological Research*, 86(2): 233–494. doi:10.1111/j.1933-1592.2010.00461.x
-* –––, 2013b, “Intuitions, Evidence and Hopefulness”. *Synthese* 190(12): 2021–2046. doi:10.1007/s11229-011-9952-2
+* Brown, Jessica, 2013a, “Experimental-Philosophy, Contextualism and Subject-Sensitive Invariantism”, *Philosophy and Phenomenological Research*, 86(2): 233–494. doi: 10.1111/j.1933-1592.2010.00461.x
+* –––, 2013b, “Intuitions, Evidence and Hopefulness”. *Synthese* 190(12): 2021–2046. doi: 10.1007/s11229-011-9952-2
 * –––, 2017, “Gettier and Philosophical Methodology”, in Rodrigo Borges, Claudio de Almeida, & Peter D. Klein (eds.), *Explaining Knowledge: New Essays on the Gettier Problem*, Oxford: Oxford University Press, pp. 191–212.
-* Buckwalter, Wesley, 2010, “Knowledge isn’t Closed on Saturday: A Study in Ordinary Language”, *Review of Philosophy and Psychology*, 1(3): 395–406. doi:10.1007/s13164-010-0030-3
-* –––, 2014, “Gettier Made ESEE”, *Philosophical Psychology*, 27(3): 368–383. doi:10.1080/09515089.2012.730965
-* Buckwalter, Wesley & Jonathan Schaffer, 2015, “Knowledge, Stakes, and Mistakes”, *Noûs*, 49(2): 201–234. doi:10.1111/nous.12017
-* Buckwalter, Wesley, David Rose, & John Turri, 2015, “Belief Through Thick and Thin”, *Noûs*, 49(4): 748–775. doi:10.1111/nous.12048
-* Buckwalter, Wesley, & Stephen Stich, 2014, “Gender and Philosophical Intuition”, in *Experimental Philosophy*, volume 2, edited by Joshua Knobe and Shaun Nichols, New York: Oxford University Press, pp. 307–346. doi:10.1093/acprof:osobl/9780199927418.003.0013
-* Cameron, C. Daryl, B. Keith Payne, & John M. Doris, 2013, “Morality in High Definition: Emotion Differentiation Calibrates the Influence of Incidental Disgust on Moral Judgments”, *Journal of Experimental Social Psychology*, 49(4): 719–725. doi:10.1016/j.jesp.2013.02.014
-* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199644865.001.0001
-* Cariani, Fabrizio & Lance J. Rips, 2017, “Conditionals, Context, and the Suppression Effect”, *Cognitive Science*, 41(3): 540–589. doi:10.1111/cogs.12336
-* Chalmers, David J., 2014, “Intuitions in Philosophy: a Minimal Defense”, *Philosophical Studies*, 171(3): 535–544. doi:10.1007/s11098-014-0288-x
-* Clark, Cory J., Jamie B. Luguri, Peter H. Ditto, Joshua Knobe, Azim F. Shariff, & Roy F. Baumeister, 2014, “Free to Punish: a Motivated Account of Free Will Belief”, *Journal of Personality and Social Psychology*, 106(4): 501–513. doi:10.1037/a0035880
-* Colaço, David, Wesley Buckwalter, Stephen Stich, & Edouard Machery, 2014, “Epistemic Intuitions in Fake-Barn Thought Experiments”, *Episteme*, 11(2): 199–212. doi:10.1017/epi.2014.7
-* Cova, Florian, 2016, “The Folk Concept of Intentional Action: Empirical Approaches”, Sytsma & Buckwalter 2016: 117–141. doi:10.1002/9781118661666.ch8
-* Cushman, Fiery, Liane Young, & Marc Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment: Testing Three Principles of Harm”, *Psychological Science*, 17(12): 1082–1089. doi:10.1111/j.1467-9280.2006.01834.x
+* Buckwalter, Wesley, 2010, “Knowledge isn’t Closed on Saturday: A Study in Ordinary Language”, *Review of Philosophy and Psychology*, 1(3): 395–406. doi: 10.1007/s13164-010-0030-3
+* –––, 2014, “Gettier Made ESEE”, *Philosophical Psychology*, 27(3): 368–383. doi: 10.1080/09515089.2012.730965
+* Buckwalter, Wesley & Jonathan Schaffer, 2015, “Knowledge, Stakes, and Mistakes”, *Noûs*, 49(2): 201–234. doi: 10.1111/nous.12017
+* Buckwalter, Wesley, David Rose, & John Turri, 2015, “Belief Through Thick and Thin”, *Noûs*, 49(4): 748–775. doi: 10.1111/nous.12048
+* Buckwalter, Wesley, & Stephen Stich, 2014, “Gender and Philosophical Intuition”, in *Experimental Philosophy*, volume 2, edited by Joshua Knobe and Shaun Nichols, New York: Oxford University Press, pp. 307–346. doi: 10.1093/acprof: osobl/9780199927418.003.0013
+* Cameron, C. Daryl, B. Keith Payne, & John M. Doris, 2013, “Morality in High Definition: Emotion Differentiation Calibrates the Influence of Incidental Disgust on Moral Judgments”, *Journal of Experimental Social Psychology*, 49(4): 719–725. doi: 10.1016/j.jesp.2013.02.014
+* Cappelen, Herman, 2012, *Philosophy Without Intuitions*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199644865.001.0001
+* Cariani, Fabrizio & Lance J. Rips, 2017, “Conditionals, Context, and the Suppression Effect”, *Cognitive Science*, 41(3): 540–589. doi: 10.1111/cogs.12336
+* Chalmers, David J., 2014, “Intuitions in Philosophy: a Minimal Defense”, *Philosophical Studies*, 171(3): 535–544. doi: 10.1007/s11098-014-0288-x
+* Clark, Cory J., Jamie B. Luguri, Peter H. Ditto, Joshua Knobe, Azim F. Shariff, & Roy F. Baumeister, 2014, “Free to Punish: a Motivated Account of Free Will Belief”, *Journal of Personality and Social Psychology*, 106(4): 501–513. doi: 10.1037/a0035880
+* Colaço, David, Wesley Buckwalter, Stephen Stich, & Edouard Machery, 2014, “Epistemic Intuitions in Fake-Barn Thought Experiments”, *Episteme*, 11(2): 199–212. doi: 10.1017/epi.2014.7
+* Cova, Florian, 2016, “The Folk Concept of Intentional Action: Empirical Approaches”, Sytsma & Buckwalter 2016: 117–141. doi: 10.1002/9781118661666.ch8
+* Cushman, Fiery, Liane Young, & Marc Hauser, 2006, “The Role of Conscious Reasoning and Intuition in Moral Judgment: Testing Three Principles of Harm”, *Psychological Science*, 17(12): 1082–1089. doi: 10.1111/j.1467-9280.2006.01834.x
 * De Cruz, Helen & Johan De Smedt, 2016, “How Do Philosophers Evaluate Natural Theological Arguments? An Experimental Philosophical Investigation”, in *Advances in Religion, Cognitive Science, and Experimental Philosophy*, Helen De Cruz and Ryan Nichols (eds), London: Bloomsbury Publishing, pp. 119–142.
-* Demaree-Cotton, Joanna, 2016, “Do Framing Effects Make Moral Intuitions Unreliable?”, *Philosophical Psychology*, 29(1): 1–22. doi:10.1080/09515089.2014.989967
-* Deery, Oisin, Taylor Davis, & Jasmine Carey, 2015, “The Free-Will Intuitions Scale and the Question of Natural Compatibilism”, *Philosophical Psychology*, 28(6): 776–801. doi:10.1080/09515089.2014.893868
-* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929. doi:10.2307/2107917
-* –––, 2011, “Contextualism, Contrastivism, and X-Phi Surveys”, *Philosophical Studies*, 156(1): 81–110. doi:10.1007/s11098-011-9799-x
-* Deutsch, Max Emil, 2009, “Experimental Philosophy and the Theory of Reference”, *Mind & Language*, 24(4): 445–466. doi:10.1111/j.1468-0017.2009.01370.x
-* –––, 2010, “Intuitions, Counter-Examples, and Experimental Philosophy”, *Review of Philosophy and Psychology*, 1(3): 447–460. doi:10.1007/s13164-010-0033-0
-* –––, 2015, *The Myth of the Intuitive: Experimental Philosophy and Philosophical Method*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262028950.001.0001
-* Devitt, Michael, 2015, “Relying on Intuitions: Where Cappelen and Deutsch Go Wrong”, *Inquiry*, 58(7–8): 669–699. doi:10.1080/0020174X.2015.1084824
-* Egré, Paul & Florian Cova, 2015, “Moral Asymmetries and the Semantics of Many”, *Semantics and Pragmatics*, 8: 13–1. doi:10.3765/sp.8.13
-* Fantl, Jeremy & Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199550623.001.0001
-* Feldman, Gilad & Subramanya Prasad Chandrashekar, forthcoming, “Laypersons’ Beliefs and Intuitions About Free Will and Determinism: New Insights Linking the Social Psychology and Experimental Philosophy Paradigms”, *Social Psychological and Personality Science*, first published 25 July 2017. doi:10.1177/1948550617713254
-* Feltz, Adam & Edward T. Cokely, 2009. “Do Judgments About Freedom and Responsibility Depend on Who You Are? Personality Differences in Intuitions About Compatibilism and Incompatibilism”, *Consciousness and Cognition*, 18(1): 342–350. doi:10.1016/j.concog.2008.08.001
-* Feltz, Adam & Florian Cova, 2014, “Moral Responsibility and Free Will: A Meta-Analysis”, *Consciousness and Cognition*, 30: 234–246. doi:10.1016/j.concog.2014.08.012
-* Feltz, Adam & Melissa Millan, 2015, “An Error Theory for Compatibilist Intuitions”, *Philosophical Psychology*, 28(4): 529–555. doi:10.1080/09515089.2013.865513
-* Feltz, Adam & Chris Zarpentine, 2010, “Do You Know More When it Matters Less?”, *Philosophical Psychology*, 23(5): 683–706. doi:10.1080/09515089.2010.514572
-* Fisher, Justin C., 2015, “Pragmatic Experimental Philosophy”, *Philosophical Psychology*, 28(3): 412–433. doi:10.1080/09515089.2013.870546
-* Friedman, Ori & John Turri, 2015, “Is Probabilistic Evidence a Source of Knowledge?”, *Cognitive Science*, 39(5): 1062–1080. doi:10.1111/cogs.12182
-* Friesdorf, Rebecca, Paul Conway, & Bertram Gawronski, 2015, “Gender Differences in Responses to Moral Dilemmas: a Process Dissociation Analysis”, *Personality and Social Psychology Bulletin*, 41(5): 696–713. doi:10.1177/0146167215575731
+* Demaree-Cotton, Joanna, 2016, “Do Framing Effects Make Moral Intuitions Unreliable?”, *Philosophical Psychology*, 29(1): 1–22. doi: 10.1080/09515089.2014.989967
+* Deery, Oisin, Taylor Davis, & Jasmine Carey, 2015, “The Free-Will Intuitions Scale and the Question of Natural Compatibilism”, *Philosophical Psychology*, 28(6): 776–801. doi: 10.1080/09515089.2014.893868
+* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929. doi: 10.2307/2107917
+* –––, 2011, “Contextualism, Contrastivism, and X-Phi Surveys”, *Philosophical Studies*, 156(1): 81–110. doi: 10.1007/s11098-011-9799-x
+* Deutsch, Max Emil, 2009, “Experimental Philosophy and the Theory of Reference”, *Mind & Language*, 24(4): 445–466. doi: 10.1111/j.1468-0017.2009.01370.x
+* –––, 2010, “Intuitions, Counter-Examples, and Experimental Philosophy”, *Review of Philosophy and Psychology*, 1(3): 447–460. doi: 10.1007/s13164-010-0033-0
+* –––, 2015, *The Myth of the Intuitive: Experimental Philosophy and Philosophical Method*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262028950.001.0001
+* Devitt, Michael, 2015, “Relying on Intuitions: Where Cappelen and Deutsch Go Wrong”, *Inquiry*, 58(7–8): 669–699. doi: 10.1080/0020174X.2015.1084824
+* Egré, Paul & Florian Cova, 2015, “Moral Asymmetries and the Semantics of Many”, *Semantics and Pragmatics*, 8: 13–1. doi: 10.3765/sp.8.13
+* Fantl, Jeremy & Matthew McGrath, 2009, *Knowledge in an Uncertain World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199550623.001.0001
+* Feldman, Gilad & Subramanya Prasad Chandrashekar, forthcoming, “Laypersons’ Beliefs and Intuitions About Free Will and Determinism: New Insights Linking the Social Psychology and Experimental Philosophy Paradigms”, *Social Psychological and Personality Science*, first published 25 July 2017. doi: 10.1177/1948550617713254
+* Feltz, Adam & Edward T. Cokely, 2009. “Do Judgments About Freedom and Responsibility Depend on Who You Are? Personality Differences in Intuitions About Compatibilism and Incompatibilism”, *Consciousness and Cognition*, 18(1): 342–350. doi: 10.1016/j.concog.2008.08.001
+* Feltz, Adam & Florian Cova, 2014, “Moral Responsibility and Free Will: A Meta-Analysis”, *Consciousness and Cognition*, 30: 234–246. doi: 10.1016/j.concog.2014.08.012
+* Feltz, Adam & Melissa Millan, 2015, “An Error Theory for Compatibilist Intuitions”, *Philosophical Psychology*, 28(4): 529–555. doi: 10.1080/09515089.2013.865513
+* Feltz, Adam & Chris Zarpentine, 2010, “Do You Know More When it Matters Less?”, *Philosophical Psychology*, 23(5): 683–706. doi: 10.1080/09515089.2010.514572
+* Fisher, Justin C., 2015, “Pragmatic Experimental Philosophy”, *Philosophical Psychology*, 28(3): 412–433. doi: 10.1080/09515089.2013.870546
+* Friedman, Ori & John Turri, 2015, “Is Probabilistic Evidence a Source of Knowledge?”, *Cognitive Science*, 39(5): 1062–1080. doi: 10.1111/cogs.12182
+* Friesdorf, Rebecca, Paul Conway, & Bertram Gawronski, 2015, “Gender Differences in Responses to Moral Dilemmas: a Process Dissociation Analysis”, *Personality and Social Psychology Bulletin*, 41(5): 696–713. doi: 10.1177/0146167215575731
 * Gerken, Mikkel, 2017, *On Folk Epistemology: How we Think and Talk about Knowledge*, Oxford: Oxford University Press.
 * Goldman, Alvin I., 2015. “Review of Hilary Kornblith, *A Naturalistic Epistemology: Selected Papers*”, *Notre Dame Philosophical Reviews*, 2015.06.11. [[Goldman 2015 available online](http://ndpr.nd.edu/news/a-naturalistic-epistemology-selected-papers/)]
 * Greene, Joshua D., 2008, “The Secret Joke of Kant’s Soul”, *Moral Psychology, Volume 3*, Walter Sinnott-Armstrong (ed.), Cambridge, MA: MIT Press, pp. 35–79.
-* Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, & John D. Cohen, 2001, “An fMRI Investigation of Emotional Engagement in Moral Judgment”, *Science*, 293(5537): 2105–2108. doi:10.1126/science.1062872
-* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi:10.1093/0199269556.001.0001
-* Hitchcock, Christopher & Joshua Knobe, 2009, “Cause and Norm”, *The Journal of Philosophy*, 106(11): 587–612. doi:10.5840/jphil20091061128
-* Horne, Zachary & Jonathan Livengood, 2017, “Ordering Effects, Updating Effects, and the Specter of Global Skepticism”, *Synthese*, 194(4): 1189–1218. doi:10.1007/s11229-015-0985-9
-* Icard, Thomas F., Jonathan F. Kominsky, & Joshua Knobe, 2017, “Normality and Actual Causal Strength”, *Cognition*, 161: 80–93. doi:10.1016/j.cognition.2017.01.010
-* Ichikawa, Jonathan Jenkins, 2012, “Experimentalist Pressure Against Traditional Methodology”, *Philosophical Psychology*, 25(5): 743–765. doi:10.1080/09515089.2011.625118
-* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi:10.1093/0198250614.001.0001
-* Kahane, Guy & Nicholas Shackel, 2008, “Do Abnormal Responses Show Utilitarian Bias?”, *Nature*, 452(7185): 908–911. doi:10.1038/nature06785
-* Kauppinen, Antti, 2007, “The Rise and Fall of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 95–118. doi:10.1080/13869790701305871
-* Khoo, Justin, 2015, “Modal Disagreements”, *Inquiry*, 58(5): 511–534. doi:10.1080/0020174X.2015.1033005
-* Kim, Minsun, & Yuan Yuan, 2015, “No Cross-Cultural Differences in the Gettier Car Case Intuition: a Replication Study of Weinberg et al. 2001”, *Episteme*, 12(03): 355–361. doi:10.1017/epi.2015.17
-* Knobe, Joshua, 2003, “Intentional Action and Side Effects in Ordinary Language”, *Analysis*, 63(279): 190–194. doi:10.1111/1467-8284.00419
+* Greene, Joshua D., R. Brian Sommerville, Leigh E. Nystrom, John M. Darley, & John D. Cohen, 2001, “An fMRI Investigation of Emotional Engagement in Moral Judgment”, *Science*, 293(5537): 2105–2108. doi: 10.1126/science.1062872
+* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi: 10.1093/0199269556.001.0001
+* Hitchcock, Christopher & Joshua Knobe, 2009, “Cause and Norm”, *The Journal of Philosophy*, 106(11): 587–612. doi: 10.5840/jphil20091061128
+* Horne, Zachary & Jonathan Livengood, 2017, “Ordering Effects, Updating Effects, and the Specter of Global Skepticism”, *Synthese*, 194(4): 1189–1218. doi: 10.1007/s11229-015-0985-9
+* Icard, Thomas F., Jonathan F. Kominsky, & Joshua Knobe, 2017, “Normality and Actual Causal Strength”, *Cognition*, 161: 80–93. doi: 10.1016/j.cognition.2017.01.010
+* Ichikawa, Jonathan Jenkins, 2012, “Experimentalist Pressure Against Traditional Methodology”, *Philosophical Psychology*, 25(5): 743–765. doi: 10.1080/09515089.2011.625118
+* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi: 10.1093/0198250614.001.0001
+* Kahane, Guy & Nicholas Shackel, 2008, “Do Abnormal Responses Show Utilitarian Bias?”, *Nature*, 452(7185): 908–911. doi: 10.1038/nature06785
+* Kauppinen, Antti, 2007, “The Rise and Fall of Experimental Philosophy”, *Philosophical Explorations*, 10(2): 95–118. doi: 10.1080/13869790701305871
+* Khoo, Justin, 2015, “Modal Disagreements”, *Inquiry*, 58(5): 511–534. doi: 10.1080/0020174X.2015.1033005
+* Kim, Minsun, & Yuan Yuan, 2015, “No Cross-Cultural Differences in the Gettier Car Case Intuition: a Replication Study of Weinberg et al. 2001”, *Episteme*, 12(03): 355–361. doi: 10.1017/epi.2015.17
+* Knobe, Joshua, 2003, “Intentional Action and Side Effects in Ordinary Language”, *Analysis*, 63(279): 190–194. doi: 10.1111/1467-8284.00419
 * Knobe, Joshua, Tania Lombrozo, & Shaun Nichols (eds), 2014, *Oxford Studies in Experimental Philosophy*, volume 1, Oxford: Oxford University Press.
-* Kornblith, Hilary, 2002, *Knowledge and Its Place in Nature*, Oxford: Clarendon. doi:10.1093/0199246319.001.0001
+* Kornblith, Hilary, 2002, *Knowledge and Its Place in Nature*, Oxford: Clarendon. doi: 10.1093/0199246319.001.0001
 * –––, 2013, “Is There Room for Armchair Theorizing in Epistemology?”, in Matthew C. Haug (ed.), *Philosophical Methodology: The Armchair or the Laboratory?*, New York: Routledge, pp. 195–216.
-* Kuntz, J.R. & J.R.C. Kuntz, 2011, “Surveying Philosophers about Philosophical Intuition”, *Review of Philosophy and Psychology* 2(4): 643–65. doi:10.1007/s13164-011-0047-2
-* Leslie, Sarah-Jane, 2013, “Essence and Natural Kinds: When Science Meets Preschooler Intuition”, in Tamar Szabó & John Hawthorne, *Oxford Studies in Epistemology, volume 4*, Oxford: Oxford University Press. pp. 108–165. doi:10.1093/acprof:oso/9780199672707.003.0005
-* Liao, Shen-yi & Aaron Meskin, 2017, “Aesthetic Adjectives: Experimental Semantics and Context-Sensitivity”, *Philosophy and Phenomenological Research*, 94(2): 371–398. doi:10.1111/phpr.12217
-* Liao, Shen-yi, Nina Strohminger, & Chandra Sekhar Sripada, 2014, “Empirically Investigating Imaginative Resistance”, *British Journal of Aesthetics*, 54(3): 339–355. doi:10.1093/aesthj/ayu027
-* Livengood, Jonathan & David Rose, 2016, “Experimental Philosophy and Causal Attribution”, Sytsma & Buckwalter 2016: 434–449. doi:10.1002/9781118661666.ch30
-* Ludwig, Kirk, 2007, “The Epistemology of Thought Experiments: First Person Versus Third Person Approaches”, *Midwest Studies in Philosophy*, 31(1): 128–159. doi:10.1111/j.1475-4975.2007.00160.x
+* Kuntz, J.R. & J.R.C. Kuntz, 2011, “Surveying Philosophers about Philosophical Intuition”, *Review of Philosophy and Psychology* 2(4): 643–65. doi: 10.1007/s13164-011-0047-2
+* Leslie, Sarah-Jane, 2013, “Essence and Natural Kinds: When Science Meets Preschooler Intuition”, in Tamar Szabó & John Hawthorne, *Oxford Studies in Epistemology, volume 4*, Oxford: Oxford University Press. pp. 108–165. doi: 10.1093/acprof: oso/9780199672707.003.0005
+* Liao, Shen-yi & Aaron Meskin, 2017, “Aesthetic Adjectives: Experimental Semantics and Context-Sensitivity”, *Philosophy and Phenomenological Research*, 94(2): 371–398. doi: 10.1111/phpr.12217
+* Liao, Shen-yi, Nina Strohminger, & Chandra Sekhar Sripada, 2014, “Empirically Investigating Imaginative Resistance”, *British Journal of Aesthetics*, 54(3): 339–355. doi: 10.1093/aesthj/ayu027
+* Livengood, Jonathan & David Rose, 2016, “Experimental Philosophy and Causal Attribution”, Sytsma & Buckwalter 2016: 434–449. doi: 10.1002/9781118661666.ch30
+* Ludwig, Kirk, 2007, “The Epistemology of Thought Experiments: First Person Versus Third Person Approaches”, *Midwest Studies in Philosophy*, 31(1): 128–159. doi: 10.1111/j.1475-4975.2007.00160.x
 * Lycan, William G., 2006, “On the Gettier Problem Problem”, in Stephen Hetherington (ed.), *Epistemology Futures*, Oxford: Clarendon Press, pp. 148–168, .
-* Machery, Edouard, Ron Mallon, Shaun Nichols, & Stephen P. Stich, 2004, “Semantics, Cross-Cultural Style”, *Cognition*, 92(3): B1–B12. doi:10.1016/j.cognition.2003.10.003
-* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, & Takaaki Hashimoto, 2015, “Gettier Across Cultures”, *Noûs*, 51(3): 645–664. doi:10.1111/nous.12110
-* May, Joshua, 2014, “Does Disgust Influence Moral Judgment?”, *Australasian Journal of Philosophy*, 92(1): 125–141. doi:10.1080/00048402.2013.797476
-* May, Joshua & Richard Holton, 2012, “What in the World is Weakness of Will?”, *Philosophical Studies*, 157(3): 341–360. doi:10.1007/s11098-010-9651-8
-* May, Joshua, Walter Sinnott-Armstrong, Jay G. Hull, & Aaron Zimmerman, 2010, “Practical Interests, Relevant Alternatives, and Knowledge Attributions: An Empirical Study”, *Review of Philosophy and Psychology*, 1(2): 265–273. doi:10.1007/s13164-009-0014-3
-* Meskin, Aaron, Mark Phelan, Margaret Moore, & Matthew Kieran, 2013, “Mere Exposure to Bad Art”, *The British Journal of Aesthetics*, 53(2): 139–164. doi:10.1093/aesthj/ays060
-* Mikhail, John, 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780578
-* Millikan, Ruth Garrett, 2000, *On Clear and Confused Ideas: An Essay about Substance Concepts*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511613296
-* Murray, Dylan & Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi:10.1111/j.1933-1592.2012.00609.x
-* Murray, Dylan, Justin Sytsma, & Jonathan Livengood, 2013, “God Knows (But Does God Believe?)”, *Philosophical Studies*, 166(1): 83–107. doi:10.1007/s11098-012-0022-5
-* Myers-Schulz, Blake & Eric Schwitzgebel, 2013, “Knowing that P Without Believing that P”, *Noûs*, 47(2): 371–384. doi:10.1111/nous.12022
-* Nadelhoffer, Thomas, Jason Shepard, Eddy Nahmias, Chandra Sripada, & Lisa Thomson Ross, 2014, “The Free Will Inventory: Measuring Beliefs About Agency and Responsibility”, *Consciousness and Cognition*, 25: 27–41. doi:10.1016/j.concog.2014.01.006
-* Nado, Jennifer, 2016, “The Intuition Deniers”, *Philosophical Studies*, 173(3): 781–800. doi:10.1007/s11098-015-0519-9
-* Nagel, Jennifer, 2010, “Knowledge Ascriptions and the Psychological Consequences of Thinking About Error”, *The Philosophical Quarterly*, 60(239): 286–306. doi:10.1111/j.1467-9213.2009.624.x
-* Nagel, Jennifer, Valerie San Juan, , & Raymond A. Mar, 2013, “Lay Denial of Knowledge for Justified True Beliefs”, *Cognition*, 129(3): 652–661. doi:10.1016/j.cognition.2013.02.008
-* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, & Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi:10.1111/j.1933-1592.2006.tb00603.x
+* Machery, Edouard, Ron Mallon, Shaun Nichols, & Stephen P. Stich, 2004, “Semantics, Cross-Cultural Style”, *Cognition*, 92(3): B1–B12. doi: 10.1016/j.cognition.2003.10.003
+* Machery, Edouard, Stephen Stich, David Rose, Amita Chatterjee, Kaori Karasawa, Noel Struchiner, Smita Sirker, Naoki Usui, & Takaaki Hashimoto, 2015, “Gettier Across Cultures”, *Noûs*, 51(3): 645–664. doi: 10.1111/nous.12110
+* May, Joshua, 2014, “Does Disgust Influence Moral Judgment?”, *Australasian Journal of Philosophy*, 92(1): 125–141. doi: 10.1080/00048402.2013.797476
+* May, Joshua & Richard Holton, 2012, “What in the World is Weakness of Will?”, *Philosophical Studies*, 157(3): 341–360. doi: 10.1007/s11098-010-9651-8
+* May, Joshua, Walter Sinnott-Armstrong, Jay G. Hull, & Aaron Zimmerman, 2010, “Practical Interests, Relevant Alternatives, and Knowledge Attributions: An Empirical Study”, *Review of Philosophy and Psychology*, 1(2): 265–273. doi: 10.1007/s13164-009-0014-3
+* Meskin, Aaron, Mark Phelan, Margaret Moore, & Matthew Kieran, 2013, “Mere Exposure to Bad Art”, *The British Journal of Aesthetics*, 53(2): 139–164. doi: 10.1093/aesthj/ays060
+* Mikhail, John, 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511780578
+* Millikan, Ruth Garrett, 2000, *On Clear and Confused Ideas: An Essay about Substance Concepts*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511613296
+* Murray, Dylan & Eddy Nahmias, 2014, “Explaining Away Incompatibilist Intuitions”, *Philosophy and Phenomenological Research*, 88(2): 434–467. doi: 10.1111/j.1933-1592.2012.00609.x
+* Murray, Dylan, Justin Sytsma, & Jonathan Livengood, 2013, “God Knows (But Does God Believe?)”, *Philosophical Studies*, 166(1): 83–107. doi: 10.1007/s11098-012-0022-5
+* Myers-Schulz, Blake & Eric Schwitzgebel, 2013, “Knowing that P Without Believing that P”, *Noûs*, 47(2): 371–384. doi: 10.1111/nous.12022
+* Nadelhoffer, Thomas, Jason Shepard, Eddy Nahmias, Chandra Sripada, & Lisa Thomson Ross, 2014, “The Free Will Inventory: Measuring Beliefs About Agency and Responsibility”, *Consciousness and Cognition*, 25: 27–41. doi: 10.1016/j.concog.2014.01.006
+* Nado, Jennifer, 2016, “The Intuition Deniers”, *Philosophical Studies*, 173(3): 781–800. doi: 10.1007/s11098-015-0519-9
+* Nagel, Jennifer, 2010, “Knowledge Ascriptions and the Psychological Consequences of Thinking About Error”, *The Philosophical Quarterly*, 60(239): 286–306. doi: 10.1111/j.1467-9213.2009.624.x
+* Nagel, Jennifer, Valerie San Juan, , & Raymond A. Mar, 2013, “Lay Denial of Knowledge for Justified True Beliefs”, *Cognition*, 129(3): 652–661. doi: 10.1016/j.cognition.2013.02.008
+* Nahmias, Eddy, Stephen G. Morris, Thomas Nadelhoffer, & Jason Turner, 2006, “Is Incompatibilism Intuitive?”, *Philosophy and Phenomenological Research*, 73(1): 28–53. doi: 10.1111/j.1933-1592.2006.tb00603.x
 * Nahmias, Eddy & Dylan Murray, 2011, “Experimental Philosophy on Free Will: An Error Theory for Incompatibilist Intuitions”, in *New Waves in Philosophy of Action*, Jesús H. Aguilar, Andrei A. Bckaref, & Keith Frankish (eds), London: Palgrave Macmillan UK, pp. 189–216.
-* Nichols, Ryan, 2015, “Hypothesis-Testing of the Humanities: the Hard and Soft Humanities as Two Emerging Cultures”, *Southwest Philosophy Review*, 31(1): 1–19. doi:10.5840/swphilreview20153111
-* Nichols, Shaun & Joshua Knobe, 2007, “Moral Responsibility and Determinism: the Cognitive Science of Folk Intuitions”, *Nous*, 41(4): 663–685. doi:10.1111/j.1468-0068.2007.00666.x
-* Nichols, Shaun & Joseph Ulatowski, 2007, “Intuitions and Individual Differences: the Knobe Effect Revisited”, *Mind & Language*, 22(4): 346–365. doi:10.1111/j.1468-0017.2007.00312.x
-* Petrinovich, Lewis & Patricia O’Neill, 1996, “Influence of Wording and Framing Effects on Moral Intuitions”, *Ethology and Sociobiology*, 17(3): 145–171. doi:10.1016/0162-3095(96)00041-6
-* Phillips, Jonathan & Fiery Cushman, 2017, “Morality Constrains the Default Representation of What is Possible”, *Proceedings of the National Academy of Sciences*, 114(18): 4649–4654. doi:10.1073/pnas.1619717114
-* Phillips, Jonathan, James B. Luguri, & Joshua Knobe, 2015, “Unifying Morality’s Influence on Non-Moral Judgments: the Relevance of Alternative Possibilities”, *Cognition*, 145: 30–42. doi:10.1016/j.cognition.2015.08.001
-* Phillips, Jonathan, Sven Nyholm, & Shen-yi Liao, 2014, “The Good in Happiness”, in Knobe, Lombrozo, & Nichols 2014: 253–293. doi:10.1093/acprof:oso/9780198718765.003.0011
-* Pinillos, Ángel, 2012, “Knowledge, Experiments and Practical Interests”, *Knowledge Ascriptions*, Jessica Brown & Mikkel Gerken (eds), Oxford: Oxford University Press, pp. 192–219. doi:10.1093/acprof:oso/9780199693702.003.0009
+* Nichols, Ryan, 2015, “Hypothesis-Testing of the Humanities: the Hard and Soft Humanities as Two Emerging Cultures”, *Southwest Philosophy Review*, 31(1): 1–19. doi: 10.5840/swphilreview20153111
+* Nichols, Shaun & Joshua Knobe, 2007, “Moral Responsibility and Determinism: the Cognitive Science of Folk Intuitions”, *Nous*, 41(4): 663–685. doi: 10.1111/j.1468-0068.2007.00666.x
+* Nichols, Shaun & Joseph Ulatowski, 2007, “Intuitions and Individual Differences: the Knobe Effect Revisited”, *Mind & Language*, 22(4): 346–365. doi: 10.1111/j.1468-0017.2007.00312.x
+* Petrinovich, Lewis & Patricia O’Neill, 1996, “Influence of Wording and Framing Effects on Moral Intuitions”, *Ethology and Sociobiology*, 17(3): 145–171. doi: 10.1016/0162-3095(96)00041-6
+* Phillips, Jonathan & Fiery Cushman, 2017, “Morality Constrains the Default Representation of What is Possible”, *Proceedings of the National Academy of Sciences*, 114(18): 4649–4654. doi: 10.1073/pnas.1619717114
+* Phillips, Jonathan, James B. Luguri, & Joshua Knobe, 2015, “Unifying Morality’s Influence on Non-Moral Judgments: the Relevance of Alternative Possibilities”, *Cognition*, 145: 30–42. doi: 10.1016/j.cognition.2015.08.001
+* Phillips, Jonathan, Sven Nyholm, & Shen-yi Liao, 2014, “The Good in Happiness”, in Knobe, Lombrozo, & Nichols 2014: 253–293. doi: 10.1093/acprof: oso/9780198718765.003.0011
+* Pinillos, Ángel, 2012, “Knowledge, Experiments and Practical Interests”, *Knowledge Ascriptions*, Jessica Brown & Mikkel Gerken (eds), Oxford: Oxford University Press, pp. 192–219. doi: 10.1093/acprof: oso/9780199693702.003.0009
 * Plato, *Theaetetus*, translated by B. Jowett, in B. Jowett, (ed.), *The Dialogues of Plato*, Oxford: Oxford University Press, 1892.
-* Putnam, Hilary, 1973, “Meaning and Reference”, *The Journal of Philosophy*, 70(19): 699–711. doi:10.2307/2025079
-* Radford, Colin, 1966, “Knowledge: By Examples”, *Analysis*, 27(1): 1–11. doi:10.2307/3326979
+* Putnam, Hilary, 1973, “Meaning and Reference”, *The Journal of Philosophy*, 70(19): 699–711. doi: 10.2307/2025079
+* Radford, Colin, 1966, “Knowledge: By Examples”, *Analysis*, 27(1): 1–11. doi: 10.2307/3326979
 * Reuter, Kevin, 2011, “Distinguishing the Appearance from the Reality of Pain”, *Journal of Consciousness Studies*, 18(9–10): 94–109
-* Rose, David & Shaun Nichols, 2013, “The Lesson of Bypassing”, *Review of Philosophy and Psychology*, 4(4): 599–619. doi:10.1007/s13164-013-0154-3
-* Rose, David & Jonathan Schaffer, 2013, “Knowledge Entails Dispositional Belief”, *Philosophical Studies*, 166(1): 19–50. doi:10.1007/s11098-012-0052-z
-* Roskies, Adina L. & Shaun Nichols, 2008, “Bringing Moral Responsibility Down to Earth”, *The Journal of Philosophy*, 105(7): 371–388. doi:10.5840/jphil2008105737
-* Rysiew, Patrick, 2001, “The Context-Sensitivity of Knowledge Attributions”, *Noûs*, 35(4): 477–514. doi:10.1111/0029-4624.00349
-* Samland, Jana, & Michael R. Waldmann, 2016, “How Prescriptive Norms Influence Causal Inferences”, *Cognition*, 156: 164–176. doi:10.1016/j.cognition.2016.07.007
-* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, & Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, *Mind & Language*, 25(3): 346–358. doi:10.1111/j.1468-0017.2010.01393.x
-* Schaffer, Jonathan & Zoltán Gendler Szabó, 2014, “Epistemic Comparativism: a Contextualist Semantics for Knowledge Ascriptions”, *Philosophical Studies*, 168(2): 491–543. doi:10.1007/s11098-013-0141-7
-* Schulz, Eric, Edward T. Cokely, & Adam Feltz, 2011, “Persistent Bias in Expert Judgments About Free Will and Moral Responsibility: a Test of the Expertise Defense”, *Consciousness and Cognition*, 20(4): 1722–1731. doi:10.1016/j.concog.2011.04.007
-* Schwitzgebel, Eric & Fiery Cushman, 2015, “Philosophers’ Biased Judgments Persist Despite Training, Expertise and Reflection”, *Cognition*, 141: 127–137. doi:10.1016/j.cognition.2015.04.015
-* Schwitzgebel, Eric & Joshua Rust, 2014, “The Moral Behavior of Ethics Professors: Relationships Among Self-Reported Behavior, Expressed Normative Attitude, and Directly Observed Behavior”, *Philosophical Psychology*, 27(3): 293–327. doi:10.1080/09515089.2012.727135
-* Seyedsayamdost, Hamid, 2015, “On Gender and Philosophical Intuition: Failure of Replication and Other Negative Results”, *Philosophical Psychology*, 28(5): 642–673. doi:10.1080/09515089.2014.893288
-* Shields, Kenneth, 2016, “Moral Internalism, Amoralist Skepticism and the Factivity Effect”, *Philosophical Psychology*, 29(8): 1095–1111. doi:10.1080/09515089.2016.1234596
+* Rose, David & Shaun Nichols, 2013, “The Lesson of Bypassing”, *Review of Philosophy and Psychology*, 4(4): 599–619. doi: 10.1007/s13164-013-0154-3
+* Rose, David & Jonathan Schaffer, 2013, “Knowledge Entails Dispositional Belief”, *Philosophical Studies*, 166(1): 19–50. doi: 10.1007/s11098-012-0052-z
+* Roskies, Adina L. & Shaun Nichols, 2008, “Bringing Moral Responsibility Down to Earth”, *The Journal of Philosophy*, 105(7): 371–388. doi: 10.5840/jphil2008105737
+* Rysiew, Patrick, 2001, “The Context-Sensitivity of Knowledge Attributions”, *Noûs*, 35(4): 477–514. doi: 10.1111/0029-4624.00349
+* Samland, Jana, & Michael R. Waldmann, 2016, “How Prescriptive Norms Influence Causal Inferences”, *Cognition*, 156: 164–176. doi: 10.1016/j.cognition.2016.07.007
+* Sarkissian, Hagop, Amita Chatterjee, Felipe De Brigard, Joshua Knobe, Shaun Nichols, & Smita Sirker, 2010, “Is Belief in Free Will a Cultural Universal?”, *Mind & Language*, 25(3): 346–358. doi: 10.1111/j.1468-0017.2010.01393.x
+* Schaffer, Jonathan & Zoltán Gendler Szabó, 2014, “Epistemic Comparativism: a Contextualist Semantics for Knowledge Ascriptions”, *Philosophical Studies*, 168(2): 491–543. doi: 10.1007/s11098-013-0141-7
+* Schulz, Eric, Edward T. Cokely, & Adam Feltz, 2011, “Persistent Bias in Expert Judgments About Free Will and Moral Responsibility: a Test of the Expertise Defense”, *Consciousness and Cognition*, 20(4): 1722–1731. doi: 10.1016/j.concog.2011.04.007
+* Schwitzgebel, Eric & Fiery Cushman, 2015, “Philosophers’ Biased Judgments Persist Despite Training, Expertise and Reflection”, *Cognition*, 141: 127–137. doi: 10.1016/j.cognition.2015.04.015
+* Schwitzgebel, Eric & Joshua Rust, 2014, “The Moral Behavior of Ethics Professors: Relationships Among Self-Reported Behavior, Expressed Normative Attitude, and Directly Observed Behavior”, *Philosophical Psychology*, 27(3): 293–327. doi: 10.1080/09515089.2012.727135
+* Seyedsayamdost, Hamid, 2015, “On Gender and Philosophical Intuition: Failure of Replication and Other Negative Results”, *Philosophical Psychology*, 28(5): 642–673. doi: 10.1080/09515089.2014.893288
+* Shields, Kenneth, 2016, “Moral Internalism, Amoralist Skepticism and the Factivity Effect”, *Philosophical Psychology*, 29(8): 1095–1111. doi: 10.1080/09515089.2016.1234596
 * Sinnott-Armstrong, Walter, 2008, “Framing Moral Intuitions”, in Walter Sinnott-Armstrong (ed.), *Moral Psychology, Volume 2: The Cognitive Science of Morality*, Cambridge, MA: MIT Press, pp. 47–76.
-* Sloman, Steven A., Philip M. Fernbach, & Scott Ewing, 2012, “A Causal Model of Intentionality Judgment”, *Mind & Language*, 27(2): 154–180. doi:10.1111/j.1468-0017.2012.01439.x
-* Sommers, Tamler, 2010, “Experimental Philosophy and Free Will”, *Philosophy Compass*, 5(2): 199–212. doi:10.1111/j.1747-9991.2009.00273.x
-* Sorell, Tom, forthcoming, “Experimental Philosophy and the History of Philosophy”, *British Journal for the History of Philosophy*, published online 18 May 2017, pp. 1–21. doi:10.1080/09608788.2017.1320971
-* Sosa, Ernest, 2007, “Experimental Philosophy and Philosophical Intuition”, *Philosophical Studies*, 132(1): 99–107. doi:10.1007/s11098-006-9050-3
+* Sloman, Steven A., Philip M. Fernbach, & Scott Ewing, 2012, “A Causal Model of Intentionality Judgment”, *Mind & Language*, 27(2): 154–180. doi: 10.1111/j.1468-0017.2012.01439.x
+* Sommers, Tamler, 2010, “Experimental Philosophy and Free Will”, *Philosophy Compass*, 5(2): 199–212. doi: 10.1111/j.1747-9991.2009.00273.x
+* Sorell, Tom, forthcoming, “Experimental Philosophy and the History of Philosophy”, *British Journal for the History of Philosophy*, published online 18 May 2017, pp. 1–21. doi: 10.1080/09608788.2017.1320971
+* Sosa, Ernest, 2007, “Experimental Philosophy and Philosophical Intuition”, *Philosophical Studies*, 132(1): 99–107. doi: 10.1007/s11098-006-9050-3
 * –––, 2009, “A Defense of the Use of Intuitions in Philosophy”, in Dominic Murphy and Michael Bishop (eds), *Stich and his Critics*, Malden, MA: Wiley-Blackwell, pp. 101–112.
-* Sripada, Chandra Sekhar, & Sara Konrath, 2011, “Telling More Than We Can Know About Intentional Action”, *Mind & Language*, 26(3): 353–380. doi:10.1111/j.1468-0017.2011.01421.x
-* Sripada, Chandra Sekhar, & Jason Stanley, 2012, “Empirical Tests of Interest-Relative Invariantism”, *Episteme*, 9(01): 3–26. doi:10.1017/epi.2011.2
-* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Clarendon Press. doi:10.1093/0199288038.001.0001
-* Starmans, Christina & Ori Friedman, 2012, “The Folk Conception of Knowledge”, *Cognition*, 124(3): 272–283. doi:10.1016/j.cognition.2012.05.017
+* Sripada, Chandra Sekhar, & Sara Konrath, 2011, “Telling More Than We Can Know About Intentional Action”, *Mind & Language*, 26(3): 353–380. doi: 10.1111/j.1468-0017.2011.01421.x
+* Sripada, Chandra Sekhar, & Jason Stanley, 2012, “Empirical Tests of Interest-Relative Invariantism”, *Episteme*, 9(01): 3–26. doi: 10.1017/epi.2011.2
+* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Clarendon Press. doi: 10.1093/0199288038.001.0001
+* Starmans, Christina & Ori Friedman, 2012, “The Folk Conception of Knowledge”, *Cognition*, 124(3): 272–283. doi: 10.1016/j.cognition.2012.05.017
 * Stich, Stephen, 1990, *The Fragmentation of Reason: Preface to a Pragmatic Theory of Cognitive Evaluation*, Cambridge, MA: MIT Press.
-* Swain, Stacey, Joshua Alexander, & Jonathan M. Weinberg, 2008, “The Instability of Philosophical Intuitions: Running Hot and Cold on Truetemp”, *Philosophy and Phenomenological Research*, 76(1): 138–155. doi:10.1111/j.1933-1592.2007.00118.x
-* Sytsma, Justin & Wesley Buckwalter (eds), 2016, *A Companion to Experimental Philosophy*, Malden, MA: Wiley Blackwell. doi:10.1002/9781118661666
+* Swain, Stacey, Joshua Alexander, & Jonathan M. Weinberg, 2008, “The Instability of Philosophical Intuitions: Running Hot and Cold on Truetemp”, *Philosophy and Phenomenological Research*, 76(1): 138–155. doi: 10.1111/j.1933-1592.2007.00118.x
+* Sytsma, Justin & Wesley Buckwalter (eds), 2016, *A Companion to Experimental Philosophy*, Malden, MA: Wiley Blackwell. doi: 10.1002/9781118661666
 * Sytsma, Justin & Jonathan Livengood, 2015, *The Theory and Practice of Experimental Philosophy*, Peterborough, Ontario: Broadview Press.
-* Tobia, Kevin, Wesley Buckwalter, & Stephen Stich, 2013, “Moral Intuitions: Are Philosophers Experts?”, *Philosophical Psychology*, 26(5): 629–638. doi:10.1080/09515089.2012.696327
-* Turri, John, 2017, “Knowledge Attributions in Iterated Fake Barn Cases”, *Analysis*, 77(1): 104–115. doi:10.1093/analys/anx036
-* Ulatowski, Joseph, 2012, “Act Individuation: An Experimental Approach”, *Review of Philosophy and Psychology*, 3(2): 249–262. doi:10.1007/s13164-012-0096-1
-* Vargas, Manuel, 2013, *Building Better Beings: A Theory of Moral Responsibility*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697540.001.0001
-* Weinberg, Jonathan M., 2007, “How to Challenge Intuitions Empirically Without Risking Scepticism”, *Midwest Studies in Philosophy*, 31(1): 318–343. doi:10.1111/j.1475-4975.2007.00157.x
-* –––, 2014, “Cappelen between a Rock and a Hard Place”, *Philosophical Studies*, 171(3): 545–553. doi:10.1007/s11098-014-0286-z
+* Tobia, Kevin, Wesley Buckwalter, & Stephen Stich, 2013, “Moral Intuitions: Are Philosophers Experts?”, *Philosophical Psychology*, 26(5): 629–638. doi: 10.1080/09515089.2012.696327
+* Turri, John, 2017, “Knowledge Attributions in Iterated Fake Barn Cases”, *Analysis*, 77(1): 104–115. doi: 10.1093/analys/anx036
+* Ulatowski, Joseph, 2012, “Act Individuation: An Experimental Approach”, *Review of Philosophy and Psychology*, 3(2): 249–262. doi: 10.1007/s13164-012-0096-1
+* Vargas, Manuel, 2013, *Building Better Beings: A Theory of Moral Responsibility*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199697540.001.0001
+* Weinberg, Jonathan M., 2007, “How to Challenge Intuitions Empirically Without Risking Scepticism”, *Midwest Studies in Philosophy*, 31(1): 318–343. doi: 10.1111/j.1475-4975.2007.00157.x
+* –––, 2014, “Cappelen between a Rock and a Hard Place”, *Philosophical Studies*, 171(3): 545–553. doi: 10.1007/s11098-014-0286-z
 * –––, 2016, “Going Positive by Going Negative”, in Justin Sytsma & Wesley Buckwalter (eds.), *A Companion to Experimental Philosophy*, Malden, MA and Oxford: John Wiley & Sons, pp. 72–86.
-* –––, 2017, “What is Negative Experimental Philosophy Good For?”, in Giuseppina D’Oro & Søren Overgaard (eds.) *The Cambridge Companion to Philosophical Methodology*, Cambridge: Cambridge University Press, pp. 161–184. doi:10.1017/9781316344118.010
-* Weinberg, Jonathan M., Chad Gonnerman, Cameron Buckner, & Joshua Alexander, 2010, “Are Philosophers Expert Intuiters?”, *Philosophical Psychology*, 23(3): 331–355. doi:10.1080/09515089.2010.490944
-* Weinberg, Jonathan M., Shaun Nichols, & Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1/2): 429–460. doi:10.5840/philtopics2001291/217
-* Wiegmann, Alex, Yasmina Okan, & Jonas Nagel, 2012, “Order Effects in Moral Judgment”, *Philosophical Psychology*, 25(6): 813–836. doi:10.1080/09515089.2011.631995
+* –––, 2017, “What is Negative Experimental Philosophy Good For?”, in Giuseppina D’Oro & Søren Overgaard (eds.) *The Cambridge Companion to Philosophical Methodology*, Cambridge: Cambridge University Press, pp. 161–184. doi: 10.1017/9781316344118.010
+* Weinberg, Jonathan M., Chad Gonnerman, Cameron Buckner, & Joshua Alexander, 2010, “Are Philosophers Expert Intuiters?”, *Philosophical Psychology*, 23(3): 331–355. doi: 10.1080/09515089.2010.490944
+* Weinberg, Jonathan M., Shaun Nichols, & Stephen Stich, 2001, “Normativity and Epistemic Intuitions”, *Philosophical Topics*, 29(1/2): 429–460. doi: 10.5840/philtopics2001291/217
+* Wiegmann, Alex, Yasmina Okan, & Jonas Nagel, 2012, “Order Effects in Moral Judgment”, *Philosophical Psychology*, 25(6): 813–836. doi: 10.1080/09515089.2011.631995
 * Williamson, Timothy, 2007, *The Philosophy of Philosophy*, Oxford: Blackwell Publishing.
-* Woodward, James, 2014, “Causal Reasoning: Philosophy and Experiment”, in Knobe, Lombrozo, & Nichols 2014: 294–324. doi:10.1093/acprof:oso/9780198718765.003.0012
-* Wright, Jennifer C., 2010, “On Intuitional Stability: the Clear, the Strong, and the Paradigmatic”, *Cognition*, 115(3): 491–503. doi:10.1016/j.cognition.2010.02.003
-* Zamzow, Jennifer L. & Shaun Nichols, 2009, “Variations in Ethical Intuitions”, *Philosophical Issues*, 19(1): 368–388. doi:10.1111/j.1533-6077.2009.00164.x
+* Woodward, James, 2014, “Causal Reasoning: Philosophy and Experiment”, in Knobe, Lombrozo, & Nichols 2014: 294–324. doi: 10.1093/acprof: oso/9780198718765.003.0012
+* Wright, Jennifer C., 2010, “On Intuitional Stability: the Clear, the Strong, and the Paradigmatic”, *Cognition*, 115(3): 491–503. doi: 10.1016/j.cognition.2010.02.003
+* Zamzow, Jennifer L. & Shaun Nichols, 2009, “Variations in Ethical Intuitions”, *Philosophical Issues*, 19(1): 368–388. doi: 10.1111/j.1533-6077.2009.00164.x
 
 ## Academic Tools
 

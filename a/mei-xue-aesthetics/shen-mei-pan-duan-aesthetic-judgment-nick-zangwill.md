@@ -2,7 +2,7 @@
 
 *首次发表于 2003 年 2 月 28 日，实质性修订于 2023 年 2 月 16 日*
 
-美是我们生活中重要的一部分。丑陋也是如此。因此，自古以来，哲学家们一直对我们对美和丑的体验和判断感兴趣。他们试图理解这些体验和判断的本质，并且也想知道这些体验和判断是否合法。这两个项目在 20 世纪形成了更加明确的形式，当时我们生活的这一部分在欧洲和北美的知识界都受到了持续的攻击。自 18 世纪以来，关于美的讨论大多采用了“审美”的概念，因此这个概念特别受到了批评。对审美的这种蔑视可能源于更广泛的文化清教主义，它害怕审美与快乐之间的联系。曾经有一段时间，从 20 世纪 60 年代到 90 年代，甚至暗示一件艺术品之所以好是因为它令人愉悦，而不是认知上、道德上或政治上有益，都会招致嘲笑。（现在这种情况不太真实了。）20 世纪对美或审美的概念并不友好。然而，总有一些思想家（包括哲学家以及研究特定艺术领域的其他人）坚持认真思考美和审美。在本文的第一部分，我们将研究伊曼努尔·康德给出的关于美的判断的特别丰富的解释。"品味的判断"的概念对康德的解释以及几乎所有传统美学研究者都至关重要；因此，我们首先要考察康德对品味判断的描述。在第二部分，我们将研究 20 世纪思想家们提出的问题。在第三部分，我们考虑康德认为是品味判断的一部分的客观性。 在第四部分中，我们借鉴康德对审美判断的解释来考虑审美概念是否可行。
+美是我们生活中重要的一部分。丑陋也是如此。因此，自古以来，哲学家们一直对我们对美和丑的体验和判断感兴趣。他们试图理解这些体验和判断的本质，并且也想知道这些体验和判断是否合法。这两个项目在 20 世纪形成了更加明确的形式，当时我们生活的这一部分在欧洲和北美的知识界都受到了持续的攻击。自 18 世纪以来，关于美的讨论大多采用了“审美”的概念，因此这个概念特别受到了批评。对审美的这种蔑视可能源于更广泛的文化清教主义，它害怕审美与快乐之间的联系。曾经有一段时间，从 20 世纪 60 年代到 90 年代，甚至暗示一件艺术品之所以好是因为它令人愉悦，而不是认知上、道德上或政治上有益，都会招致嘲笑。（现在这种情况不太真实了。）20 世纪对美或审美的概念并不友好。然而，总有一些思想家（包括哲学家以及研究特定艺术领域的其他人）坚持认真思考美和审美。在本文的第一部分，我们将研究伊曼努尔 · 康德给出的关于美的判断的特别丰富的解释。"品味的判断" 的概念对康德的解释以及几乎所有传统美学研究者都至关重要；因此，我们首先要考察康德对品味判断的描述。在第二部分，我们将研究 20 世纪思想家们提出的问题。在第三部分，我们考虑康德认为是品味判断的一部分的客观性。 在第四部分中，我们借鉴康德对审美判断的解释来考虑审美概念是否可行。
 
 ---
 
@@ -26,9 +26,9 @@
 
 为了看到美中快乐的特殊之处，我们必须将焦点转回来考虑品味的判断。对于康德来说，品味的判断声称具有“普遍有效性”，他如下描述：
 
-> ……如果[某人]宣称某物美丽，那么他期望其他人也能得到同样的满足：他不仅为自己做出判断，而且为每个人做出判断，并将美称为事物的属性。因此，他说这个东西很美，不依赖于他人对他的满足判断的一致性，因为他经常发现他们对他自己的判断感到满意，而是要求他们这样做。如果他们做出不同的判断，他会责备他们，并否认他们有品味，因为他仍然要求他们应该有品味；在这个意义上，不能说“每个人都有自己的特殊品味”。这就等于说根本没有品味，即没有审美判断可以合理地要求每个人的同意。（康德 1790 年，5：212-213 [2000：98]；另见 2000：164-166-139）
+> ……如果 [某人] 宣称某物美丽，那么他期望其他人也能得到同样的满足：他不仅为自己做出判断，而且为每个人做出判断，并将美称为事物的属性。因此，他说这个东西很美，不依赖于他人对他的满足判断的一致性，因为他经常发现他们对他自己的判断感到满意，而是要求他们这样做。如果他们做出不同的判断，他会责备他们，并否认他们有品味，因为他仍然要求他们应该有品味；在这个意义上，不能说“每个人都有自己的特殊品味”。这就等于说根本没有品味，即没有审美判断可以合理地要求每个人的同意。（康德 1790 年，5：212-213 [2000：98]；另见 2000：164-166-139）
 
-康德的观点是，在审美判断中，我们要求或期望其他人的一致，而在我们对加那利葡萄酒的好坏的判断中，我们并不这样要求，这只是一个个人偏好的问题。在许多情况下，在品味和美感方面，我们认为其他人应该分享我们的判断，如果他们不这样做，我们会责备他们。这是因为审美判断具有普遍有效性的渴望，似乎“好像[美]是事物的属性”。
+康德的观点是，在审美判断中，我们要求或期望其他人的一致，而在我们对加那利葡萄酒的好坏的判断中，我们并不这样要求，这只是一个个人偏好的问题。在许多情况下，在品味和美感方面，我们认为其他人应该分享我们的判断，如果他们不这样做，我们会责备他们。这是因为审美判断具有普遍有效性的渴望，似乎“好像 [美] 是事物的属性”。
 
 现在，如果上述引文是康德用来阐明审美判断的全部内容，那么他就没有说够。因为以下问题悬而未决：为什么我们要求他人与我们的判断相同？我们可能希望他人与我们的判断相同，出于各种奇怪的原因。也许我们会感到更舒服。也许我们会赢得一笔赌注。如果我们说他们应该以某种方式判断，我们需要说得更多。这是以什么意义上的真实？如果有人因为悲伤而无法欣赏一件优秀的艺术品怎么办？如果这会让某人分心，无法专注于某个有社会价值的项目怎么办？这种“应该”的性质是什么？
 
@@ -50,7 +50,7 @@
 
 然而，康德是否会同意这一点尚不清楚，因为他对规范性的描述与他最终解释其可能性的方式相一致。康德以非常特殊的方式表达了规范性的观念。他写道：
 
-> [我们]普遍要求这种同意（康德 1790 年，5：214 [2000：99]）
+> [我们] 普遍要求这种同意（康德 1790 年，5：214 [2000：99]）
 
 康德说，审美判断涉及到对每个人的有效性。（康德 1790 年，5：212 [2000：97]）
 
@@ -62,9 +62,9 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 ### 1.4 规范性和愉悦
 
-如上所述，规范性附着于审美判断本身。这对美的愉悦意味着什么？由于审美判断是基于愉悦的反应，如果我们的判断更或者更少合适，而我们的反应却不是，那将没有多大意义。我们对审美判断的规范性要求必须源于我们认为某些反应比其他反应更好或更合适于其对象的事实。只有反应本身可以更或者更少合适，才能使判断合适与否。如果我从喝加那利酒中获得愉悦，而你却没有，我们都不会认为对方是错误的。但是，如果你不从莎士比亚的十四行诗中获得愉悦，我会认为你是错误的——不仅仅是你的判断，而是你的喜好。我认为我对我的反应是正确的，而你的反应是有缺陷的。那些认为在某些次等作曲家和巴赫之间存在“天才的平等”的人，具有有缺陷的感性（Hume 1757 [1985: 230]）。罗杰·斯克鲁顿在他说到这一点时表达得很好：
+如上所述，规范性附着于审美判断本身。这对美的愉悦意味着什么？由于审美判断是基于愉悦的反应，如果我们的判断更或者更少合适，而我们的反应却不是，那将没有多大意义。我们对审美判断的规范性要求必须源于我们认为某些反应比其他反应更好或更合适于其对象的事实。只有反应本身可以更或者更少合适，才能使判断合适与否。如果我从喝加那利酒中获得愉悦，而你却没有，我们都不会认为对方是错误的。但是，如果你不从莎士比亚的十四行诗中获得愉悦，我会认为你是错误的——不仅仅是你的判断，而是你的喜好。我认为我对我的反应是正确的，而你的反应是有缺陷的。那些认为在某些次等作曲家和巴赫之间存在“天才的平等”的人，具有有缺陷的感性（Hume 1757 [1985: 230]）。罗杰 · 斯克鲁顿在他说到这一点时表达得很好：
 
-> 当我们研究[爱因斯坦塔和乔托钟楼]时……我们的态度不仅仅是出于好奇，伴随着一些无法定义的愉悦或满足。内心里，我们肯定我们的偏好是有效的……（斯克鲁顿 1979: 105）
+> 当我们研究 [爱因斯坦塔和乔托钟楼] 时……我们的态度不仅仅是出于好奇，伴随着一些无法定义的愉悦或满足。内心里，我们肯定我们的偏好是有效的……（斯克鲁顿 1979: 105）
 
 这就是为什么我们要求他人有同样的感受，即使我们并不期望如此。我们认为我们的反应比其相反更适合于其对象。反过来，这就是为什么我们认为我们对该对象的判断比其相反更正确。判断的规范性源于感受的规范性。
 
@@ -120,9 +120,9 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 尽管如此，审美学的异常性值得我们思考。许多美学家都同意审美在上述意义上是异常的。但他们对异常性的解释并不一致。
 
-一个值得注意的例外是蒙罗·比尔兹利，他英勇而非凡地声称存在着三个审美原则：事物通过统一、强烈或复杂而具有审美优秀性（比尔兹利 1958 年：第十一章）。然而，比尔兹利的“三位一体”立场面临着与诉诸“厚”概念的道德哲学家面临的困难类似的困境。如果比尔兹利坚持他的三个厚实实质审美属性（统一、强度和复杂性）与审美价值之间存在法律上的联系，那么他只能以放弃这三个厚实实质审美属性与非审美属性之间的异常性为代价。有三个层次，只有在失去中间层与底层之间的法律的情况下，才能保持顶层与中间层之间的法律。也许强度总是在审美上是好的，但是关于什么使事物强烈的法律是不存在的。
+一个值得注意的例外是蒙罗 · 比尔兹利，他英勇而非凡地声称存在着三个审美原则：事物通过统一、强烈或复杂而具有审美优秀性（比尔兹利 1958 年：第十一章）。然而，比尔兹利的“三位一体”立场面临着与诉诸“厚”概念的道德哲学家面临的困难类似的困境。如果比尔兹利坚持他的三个厚实实质审美属性（统一、强度和复杂性）与审美价值之间存在法律上的联系，那么他只能以放弃这三个厚实实质审美属性与非审美属性之间的异常性为代价。有三个层次，只有在失去中间层与底层之间的法律的情况下，才能保持顶层与中间层之间的法律。也许强度总是在审美上是好的，但是关于什么使事物强烈的法律是不存在的。
 
-鉴于审美属性的异常性，我们需要解释它。休谟和康德的建议中有很多合理性，即解释审美异常性的是品味判断的第一个特征——品味判断本质上是主观的，不同于关于物理、感官或语义属性的普通经验判断（休谟 1757 年[1985: 231–232]；康德 1790 年，5: 213–216, 281–286 [2000: 99–101, 136–142, 162–167]）。这就是为什么这两种概念不是“为彼此而存在的自然法则”（正如唐纳德·戴维森[1970]所说的心理和物理概念）。我们如何将本质上主观的一系列判断与一系列经验判断相一致？这两种判断类型对应于完全不同的约束集。弗兰克·西布利观察到，审美概念并非积极“受条件支配”（西布利 1959 年）。玛丽·莫瑟希尔声称没有审美规律。但是，他们都没有对这些事实进行解释。主观性的呼吁解释了西布利和莫瑟希尔所注意到和描述的内容。事实上，莫瑟希尔在她的“第一论点”（FT）中写道，没有真正的品味原则或规律：“……FT 对美学至关重要，没有比它更基本的东西可以从中推导出来”（莫瑟希尔 1984 年：143）。但似乎它可以从品味判断的主观性中推导出来。
+鉴于审美属性的异常性，我们需要解释它。休谟和康德的建议中有很多合理性，即解释审美异常性的是品味判断的第一个特征——品味判断本质上是主观的，不同于关于物理、感官或语义属性的普通经验判断（休谟 1757 年 [1985: 231–232]；康德 1790 年，5: 213–216, 281–286 [2000: 99–101, 136–142, 162–167]）。这就是为什么这两种概念不是“为彼此而存在的自然法则”（正如唐纳德 · 戴维森 [1970] 所说的心理和物理概念）。我们如何将本质上主观的一系列判断与一系列经验判断相一致？这两种判断类型对应于完全不同的约束集。弗兰克 · 西布利观察到，审美概念并非积极“受条件支配”（西布利 1959 年）。玛丽 · 莫瑟希尔声称没有审美规律。但是，他们都没有对这些事实进行解释。主观性的呼吁解释了西布利和莫瑟希尔所注意到和描述的内容。事实上，莫瑟希尔在她的“第一论点”（FT）中写道，没有真正的品味原则或规律：“……FT 对美学至关重要，没有比它更基本的东西可以从中推导出来”（莫瑟希尔 1984 年：143）。但似乎它可以从品味判断的主观性中推导出来。
 
 这种异常性与依赖或随附是两回事。尽管审美属性是异常的，但它们依赖于非审美属性并随附于其上。许多人发现这种关系的组合在美学之外的领域，如道德哲学和心灵哲学中，令人不舒服。然而，在美学中，似乎有充分的理由接受这两个原则。两者都牢固地扎根于普通的审美思维中。
 
@@ -150,7 +150,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 休谟可能会否认康德将美的快乐与引导我们行动的动机分离的观点。像其他英国感性主义者一样，休谟认为情感和激情都属于人类思维的积极一面。因此，情感本身就是积极的。然而，英国感性主义者观点的这一方面似乎是一个普遍的弱点，因为他们没有令人信服的实践理性的位置，这反过来意味着他们缺乏对人类行动的可理解的概念（科斯加德 1996 年，2009 年）。休谟的心理学对人类行为没有合理的理解；我们被我们的激情所推动。
 
-在他的《道德的谱系学》中，弗里德里希·尼采批评康德将美的愉悦与欲望分离的观点，这种分离旨在使美对所有人都可获得（尼采 1887 [1998]，第 3 卷，第 6 节，第一页，但不包括后面针对叔本华的部分）。这种批评与对美的判断对所有人都有效的观点的批评是不同的。尼采抗议称，将美的愉悦与我们激情生活的特殊性和个性化隔离开来是不现实和不可取的。目前尚不清楚谁是对的。问题的关键在于美的愉悦的本质。它的源头是人类共享的东西，还是区别于他们的东西？康德可能会反驳尼采，认为将美的愉悦视为源自人与人之间的差异，不仅使人们受制于他们的良好或糟糕的审美教养，而且使我们通常所理解的美的判断中的正确性或普遍有效性的规范主张变得站不住脚。“应该”在这种情况下似乎意味着“能够”。如果我们缺乏欣赏某种美的能力，那么就不能要求我们去欣赏，而且对美的判断的规范性将会丧失。或者看起来是这样。如果美的判断基于可变的愉悦或不愉悦，那么似乎正确性的主张是欺诈的。
+在他的《道德的谱系学》中，弗里德里希 · 尼采批评康德将美的愉悦与欲望分离的观点，这种分离旨在使美对所有人都可获得（尼采 1887 [1998]，第 3 卷，第 6 节，第一页，但不包括后面针对叔本华的部分）。这种批评与对美的判断对所有人都有效的观点的批评是不同的。尼采抗议称，将美的愉悦与我们激情生活的特殊性和个性化隔离开来是不现实和不可取的。目前尚不清楚谁是对的。问题的关键在于美的愉悦的本质。它的源头是人类共享的东西，还是区别于他们的东西？康德可能会反驳尼采，认为将美的愉悦视为源自人与人之间的差异，不仅使人们受制于他们的良好或糟糕的审美教养，而且使我们通常所理解的美的判断中的正确性或普遍有效性的规范主张变得站不住脚。“应该”在这种情况下似乎意味着“能够”。如果我们缺乏欣赏某种美的能力，那么就不能要求我们去欣赏，而且对美的判断的规范性将会丧失。或者看起来是这样。如果美的判断基于可变的愉悦或不愉悦，那么似乎正确性的主张是欺诈的。
 
 但这仅在我们遵循康德将快乐定位于美丽中，并且我们有权对美丽进行判断的能力，这些能力是所有人类共享的情况下才成立。也许有些高雅的美只有尼采的精英特殊灵魂才能欣赏。对于康德来说，有一种审美的“应该”仅仅是因为我们共享了产生所谓快乐的认知能力。但这并不是唯一可以想象的审美“应该”的来源。一个非康德主义的建议是将对美的判断的规范性的来源定位于世界，而不是人类所共享的东西。这将是一种“审美现实主义”的呼唤，即美和丑是世界的真正属性，这使得我们的判断更好或更差。这种观点可能看起来是形而上学上的奢侈。然而，问题在于如何理解审美“应该”而不需要那种观点。不容易！在现实主义观点中，美丽不一定是普遍可得的。但如果是这样，似乎康德关于无私的教义的理由就消失了。康德主义和也许休谟主义的观点将规范性的来源定位于我们所共享的东西。但尼采会问：在对美的回应中，人类是否有，也应该有一些共享的东西？我们想要贵族式的还是民主式的审美？[3]
 
@@ -168,7 +168,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 值得一提的是，审美判断的概念显然不应该用艺术作品的概念来阐明；我们对自然界做出审美判断，对艺术作品做出非审美判断。
 
-现代对审美概念的阐述和辩护与蒙罗·比尔兹利（1958 年，1982 年）和弗兰克·西布利（1959 年，1965 年）有关。但他们的工作遭到了乔治·迪基、泰德·科恩和彼得·基维等人的攻击（迪基 1965 年，科恩 1973 年，基维 1975 年）。
+现代对审美概念的阐述和辩护与蒙罗 · 比尔兹利（1958 年，1982 年）和弗兰克 · 西布利（1959 年，1965 年）有关。但他们的工作遭到了乔治 · 迪基、泰德 · 科恩和彼得 · 基维等人的攻击（迪基 1965 年，科恩 1973 年，基维 1975 年）。
 
 正如 2.4 节所述，比尔兹利英勇地声称，审美体验以其统一性、强度和复杂性而有所区别。迪基反驳说，这些特征要么不是审美体验的合理必要条件，要么比尔兹利对它们的描述是不充分的。迪基的攻击部分是无关紧要的，因为他混淆了艺术作品的体验和审美体验；一些艺术作品的体验不符合比尔兹利的描述是无关紧要的。但无可否认的是，迪基是对的，即使解决了描述这三个特征的问题，比尔兹利的三个特征仍然不是审美体验的合理（或充分）条件。然而，这只能表明比尔兹利对审美的解释是不充分的。比尔兹利的非凡和英勇的三位一体教义不能被维持，这并不意味着应该放弃审美的概念。这将是从一个单一实例中得出的错误归纳。
 
@@ -196,7 +196,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 要了解这是如何运作的，请考虑表现属性。它们是审美属性吗？假设一幅画描绘了一棵树，并且是一幅美丽的树的描绘。它不仅仅是美丽的和一幅树的描绘，而是作为一幅树的描绘而美丽（Zangwill 1999）。当然，这幅画描绘了一棵树与其是否美丽是“相关的”，因为这是它的美丽所依赖的一部分。但是，美丽并不是成为一幅树的描绘或者那幅树的描绘的本质属性的一部分。此外，认为这幅画描绘了一棵树并不意味着认为它是美丽的。美丽并不是这幅描绘的本质属性，而且将这幅描绘视为美丽的并不意味着将其视为美丽的，尽管它可能是必要的。因此，表现属性不是审美属性。
 
-然而，这个提议面临着一个挑战。杰罗尔德·莱文森（Jerrold Levinson）认为，并非所有实质性属性都具有评价价值（Levinson 2001）。他的一个例子是“明显可怕”。明显可怕似乎并不总是一种美丽或丑陋的方式。等级制度的辩护者可以回答说，这些词在特定的语境中使用时，挑选出具有评价价值的特征。如果是这样，那么明显可怕的特定实例可能是一件事物的有价值方面，无论其他明显可怕的实例如何。但也可以回答说，明显可怕的特定实例可能是价值中立的？这个问题很难，我在这里不做讨论。
+然而，这个提议面临着一个挑战。杰罗尔德 · 莱文森（Jerrold Levinson）认为，并非所有实质性属性都具有评价价值（Levinson 2001）。他的一个例子是“明显可怕”。明显可怕似乎并不总是一种美丽或丑陋的方式。等级制度的辩护者可以回答说，这些词在特定的语境中使用时，挑选出具有评价价值的特征。如果是这样，那么明显可怕的特定实例可能是一件事物的有价值方面，无论其他明显可怕的实例如何。但也可以回答说，明显可怕的特定实例可能是价值中立的？这个问题很难，我在这里不做讨论。
 
 如果等级制度的建议失败，那么我们就缺乏一种证明现代广义审美概念的方式。也许还有其他方法来统一审美概念。然而，在文献中并没有明确存在另一种可行的方法。莱文森将审美属性视为一种特定类型的外观属性。我们可能会注意到，这将立即排除抽象对象的审美属性。更重要的是，仍然存在一个问题，即审美属性是什么样的外观属性。即使我们对审美的边界模糊不清感到满意，我们仍然需要对子类有一些概念，并了解其与快乐和美的关系。（我们可以将描述审美概念的困难与描述逻辑概念的困难进行比较。）
 
@@ -206,11 +206,11 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
 
 如果我们狭义地理解美，仅仅意味着某种优雅和漂亮（如列文森在列文森 2012 年所做的），那么这种狭义的美的概念将是一个实质性的审美属性。这种美的概念可能排除了崇高。然而，目前尚不清楚有理由以这种方式限制美。相反，如果美（或至少美的概念）是一个通用的总体审美价值，那么一个建议是将崇高理解为一种美。在这种情况下，结果将是崇高是一个实质性的审美概念，而不是美。在这种观点下，美和崇高并不相对立。相反，崇高是一种壮丽的美或一种特殊或非凡的美的方式。
 
-埃德蒙·伯克将崇高与痛苦以及愉悦联系在一起，可能借鉴了亚里士多德的“净化”概念（伯克，1757 年）。这个想法似乎是，崇高的判断既基于愉悦又基于痛苦，而美的判断只基于愉悦。虽然这可能适用于海上或山上风雨的审美体验，但并不适用于天空中的星星和蜘蛛网的崇高细腻之处，那里没有令人激动的恐怖。因此，痛苦的解释并不普遍适用于崇高。
+埃德蒙 · 伯克将崇高与痛苦以及愉悦联系在一起，可能借鉴了亚里士多德的“净化”概念（伯克，1757 年）。这个想法似乎是，崇高的判断既基于愉悦又基于痛苦，而美的判断只基于愉悦。虽然这可能适用于海上或山上风雨的审美体验，但并不适用于天空中的星星和蜘蛛网的崇高细腻之处，那里没有令人激动的恐怖。因此，痛苦的解释并不普遍适用于崇高。
 
-理查德·瓦格纳声称贝多芬的第九交响曲中有音乐的崇高，这是它的伟大创新，将我们带到了超越仅仅音乐美的境地（瓦格纳，1870 年，与汉斯利克，1950 年，1986 年相对比）。许多音乐学家都追随瓦格纳的观点（如理查德·塔鲁斯金，1989 年，2019 年）。但是，如果崇高与危险和极端联系在一起，那么为什么人们会寻求音乐中的崇高，这个解释似乎不太合理。这是一种寻求刺激的行为，就像游乐场的游乐设施或攀岩一样，人们相信自己处于危险之中，或者至少无法摆脱这种想象？他们对贝多芬的第九的体验是否以这种方式与痛苦混合在一起？这似乎不太可能。痛苦和恐惧在人脸上有自然的表达，但是听贝多芬的第九的观众的面孔与听莫扎特、肖邦或柴可夫斯基的观众的面孔没有明显的区别。他们的面孔与那些在游乐场设施上或攀岩时必须做出困难动作的人的面孔不同。此外，第九的观众并没有动机逃离音乐厅。他们是否需要被绑在座位上以防止逃跑，就像在游乐场设施上一样（与麦克拉里，1991 年相反）？相比之下，如果将崇高视为一种美的形式，那么崇高的体验将具有独特的愉悦感，基于对崇高的判断。这是一种强烈的愉悦，确实如此。但是强度并不意味着与痛苦混合。
+理查德 · 瓦格纳声称贝多芬的第九交响曲中有音乐的崇高，这是它的伟大创新，将我们带到了超越仅仅音乐美的境地（瓦格纳，1870 年，与汉斯利克，1950 年，1986 年相对比）。许多音乐学家都追随瓦格纳的观点（如理查德 · 塔鲁斯金，1989 年，2019 年）。但是，如果崇高与危险和极端联系在一起，那么为什么人们会寻求音乐中的崇高，这个解释似乎不太合理。这是一种寻求刺激的行为，就像游乐场的游乐设施或攀岩一样，人们相信自己处于危险之中，或者至少无法摆脱这种想象？他们对贝多芬的第九的体验是否以这种方式与痛苦混合在一起？这似乎不太可能。痛苦和恐惧在人脸上有自然的表达，但是听贝多芬的第九的观众的面孔与听莫扎特、肖邦或柴可夫斯基的观众的面孔没有明显的区别。他们的面孔与那些在游乐场设施上或攀岩时必须做出困难动作的人的面孔不同。此外，第九的观众并没有动机逃离音乐厅。他们是否需要被绑在座位上以防止逃跑，就像在游乐场设施上一样（与麦克拉里，1991 年相反）？相比之下，如果将崇高视为一种美的形式，那么崇高的体验将具有独特的愉悦感，基于对崇高的判断。这是一种强烈的愉悦，确实如此。但是强度并不意味着与痛苦混合。
 
-在绘画等代表性艺术中，崇高是一种不同的事情。例如，约翰·马丁（John Martin）的壮丽绘画《启示录》确实唤起了一种恐怖感，至少是想象中的恐怖感。我们可以合理地说，这种崇高并不是一种美，尽管它无疑是一种艺术上的卓越。这暗示着我们应该避免统一的崇高理论。有些崇高是一种美的方式，而有些则不是。
+在绘画等代表性艺术中，崇高是一种不同的事情。例如，约翰 · 马丁（John Martin）的壮丽绘画《启示录》确实唤起了一种恐怖感，至少是想象中的恐怖感。我们可以合理地说，这种崇高并不是一种美，尽管它无疑是一种艺术上的卓越。这暗示着我们应该避免统一的崇高理论。有些崇高是一种美的方式，而有些则不是。
 
 这种观点的主要缺点是它与思考崇高与美的知识传统中的一个主要流派背道而驰。但是，如果我们正在寻求一个用于组织我们对艺术和自然的体验的有用概念，那么很难知道要权衡多少。
 
@@ -238,7 +238,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   A defense of expressivism, a modern version of Hume’s sentimentalism.
   
-* Budd, Malcolm, 2001, “The Pure Judgement of Taste as an Aesthetic Reflective Judgement”, *British Journal of Aesthetics*, 41(3): 247–260. doi:10.1093/bjaesthetics/41.3.247
+* Budd, Malcolm, 2001, “The Pure Judgement of Taste as an Aesthetic Reflective Judgement”, *British Journal of Aesthetics*, 41(3): 247–260. doi: 10.1093/bjaesthetics/41.3.247
   
   Refreshingly less deferential than many writings on Kant.
   
@@ -246,27 +246,27 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   A classic, although it is sometimes eccentric.
   
-* Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, *Analysis*, 52(1): 28–32. doi:10.1093/analys/52.1.28
+* Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, *Analysis*, 52(1): 28–32. doi: 10.1093/analys/52.1.28
   
   An insightful account of substantive aesthetic descriptions, and also of so-called “thick moral concepts”.
   
-* Cohen, Ted, 1973, “ Aesthetic/Non-Aesthetic and the Concept of Taste: A Critique of Sibley’s Position”, *Theoria*, 39(1–3): 113–152. doi:10.1111/j.1755-2567.1973.tb00633.x
+* Cohen, Ted, 1973, “ Aesthetic/Non-Aesthetic and the Concept of Taste: A Critique of Sibley’s Position”, *Theoria*, 39(1–3): 113–152. doi: 10.1111/j.1755-2567.1973.tb00633.x
   
   Argues that Sibley’s account of what makes concepts aesthetic will not do.
   
-* Cova, Florian and Nicholas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, *Monist*, 95(2): 241–263. doi:10.5840/monist201295214
+* Cova, Florian and Nicholas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, *Monist*, 95(2): 241–263. doi: 10.5840/monist201295214
   
   Argues that folk aesthetic is not normativist.
   
-* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, *Journal of Philosophy*, 62(5): 129–136. doi:10.2307/2023490
+* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, *Journal of Philosophy*, 62(5): 129–136. doi: 10.2307/2023490
   
   Argues that Beardsley’s account of aesthetic experience will not do.
   
-* Davidson, Donald, 1970 [1980], “Mental Events”, in *Experience and Theory*, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in *Essays on Actions and Events*, Oxford: Clarendon Press, 1980, ch. 11. doi:10.1093/0199246270.003.0011
+* Davidson, Donald, 1970 [1980], “Mental Events”, in *Experience and Theory*, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in *Essays on Actions and Events*, Oxford: Clarendon Press, 1980, ch. 11. doi: 10.1093/0199246270.003.0011
   
   A classic paper in the philosophy of mind arguing for a version of materialism without strict laws relating the mental and the physical.
   
-* Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
+* Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi: 10.2307/2214160
   
   Distinguishes essence from modality; of general philosophical importance.
   
@@ -302,27 +302,27 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   Argues that Sibley’s unitary notion of the aesthetic has no basis. Kivy also makes a positive suggestion.
   
-* –––, 1991, “Science and Aesthetic Appreciation”, *Midwest Studies in Philosophy*, 16(1): 180–195. doi:10.1111/j.1475-4975.1991.tb00238.x
+* –––, 1991, “Science and Aesthetic Appreciation”, *Midwest Studies in Philosophy*, 16(1): 180–195. doi: 10.1111/j.1475-4975.1991.tb00238.x
   
   Sympathetic to mathematical beauty.
   
-* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511554476
   
   Defends a Kantian view of agency and includes a powerful critique of sentimentalist accounts.
   
-* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
+* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199552795.001.0001
   
   Deploys the idea that we aim at a kind of unity in our actions.
   
-* Levinson, Jerrold, 2001, “Aesthetic Properties, Evaluative Force, and Differences of Sensibility”, in *Aesthetic Concepts: Essays After Sibley*, Emily Brady and Jerrold Levinson (eds.), Oxford: Oxford University Press, pp. 61–80. Reprinted in Jerrold Levinson, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press, 2015: 315–335. doi:10.1093/acprof:oso/9780199206179.003.0020
+* Levinson, Jerrold, 2001, “Aesthetic Properties, Evaluative Force, and Differences of Sensibility”, in *Aesthetic Concepts: Essays After Sibley*, Emily Brady and Jerrold Levinson (eds.), Oxford: Oxford University Press, pp. 61–80. Reprinted in Jerrold Levinson, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press, 2015: 315–335. doi: 10.1093/acprof: oso/9780199206179.003.0020
   
   Argues for some neutral substantive aesthetic properties.
   
-* –––, 2012, “Musical Beauty”, *Teorema*, 31(3): 127–135. Reprinted in Jerrold Levinson, *Musical Concerns: Essays in Philosophy of Music*, Oxford: Oxford University Press, 2015: 58–66. doi:10.1093/acprof:oso/9780199669660.003.0006
+* –––, 2012, “Musical Beauty”, *Teorema*, 31(3): 127–135. Reprinted in Jerrold Levinson, *Musical Concerns: Essays in Philosophy of Music*, Oxford: Oxford University Press, 2015: 58–66. doi: 10.1093/acprof: oso/9780199669660.003.0006
   
   A nuanced examination of one notion of beauty.
   
-* Lord, Errol, 2019, “The Nature of Perceptual Expertise and the Rationality of Criticism”, *Ergo*, 6(29). doi:10.3998/ergo.12405314.0006.029
+* Lord, Errol, 2019, “The Nature of Perceptual Expertise and the Rationality of Criticism”, *Ergo*, 6(29). doi: 10.3998/ergo.12405314.0006.029
   
 * McClary, Susan, 1991: *Feminine Endings: Music, Gender, and Sexuality*. Minneapolis: University of Minnesota Press.
   
@@ -332,7 +332,7 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   Puts the visual dimension back into architecture.
   
-* –––, 2018, “Visuality and Aesthetic Formalism”, *British Journal of Aesthetics*, 58(2): 147–163. doi:10.1093/aesthj/ayy001
+* –––, 2018, “Visuality and Aesthetic Formalism”, *British Journal of Aesthetics*, 58(2): 147–163. doi: 10.1093/aesthj/ayy001
   
   Explores and defends the psychological basis of visual formalism.
   
@@ -358,17 +358,17 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   A sympathetic interpretation of some of the claims of conceptual artists about their work.
   
-* Sibley, Frank, 1959, “Aesthetic Concepts”, *Philosophical Review*, 68(4): 421–450; reprinted in Sibley 2001: 1–23. 10.2307/2182490 & doi:10.1093/0198238991.003.0001
+* Sibley, Frank, 1959, “Aesthetic Concepts”, *Philosophical Review*, 68(4): 421–450; reprinted in Sibley 2001: 1–23. 10.2307/2182490 & doi: 10.1093/0198238991.003.0001
   
   Sibley’s classic paper, which makes the notion of the aesthetic central. The target of Cohen and Kivy’s critiques.
   
-* –––, 1965, “Aesthetic and Nonaesthetic”, *Philosophical Review*, 74(2): 135–159; reprinted in Sibley 2001: 33–51. doi:10.2307/2183262 & doi:10.1093/0198238991.003.0003
+* –––, 1965, “Aesthetic and Nonaesthetic”, *Philosophical Review*, 74(2): 135–159; reprinted in Sibley 2001: 33–51. doi: 10.2307/2183262 & doi: 10.1093/0198238991.003.0003
   
   Explores the dependence of aesthetic features on nonaesthetic features. This paper was originally the second part of Sibley’s paper “Aesthetic Concepts”.
   
-* –––, 2001, *Approach to Aesthetics*, John Benson, Betty Redfern, and Jeremy Roxbee Cox (eds.), Oxford University Press. doi:10.1093/0198238991.001.0001
+* –––, 2001, *Approach to Aesthetics*, John Benson, Betty Redfern, and Jeremy Roxbee Cox (eds.), Oxford University Press. doi: 10.1093/0198238991.001.0001
   
-* Taruskin, Richard, 1989 [1995], “Resisting the Ninth”, *Nineteenth-Century Music*, 12(3): 241–256; reprinted in his *Text and Act: Essays on Music and Performance*, Oxford: Oxford University Press, 1995: 235–261. doi:10.2307/746505
+* Taruskin, Richard, 1989 [1995], “Resisting the Ninth”, *Nineteenth-Century Music*, 12(3): 241–256; reprinted in his *Text and Act: Essays on Music and Performance*, Oxford: Oxford University Press, 1995: 235–261. doi: 10.2307/746505
   
   Agrees with Wagner about the sublime and the beautiful in Beethoven’s Ninth Symphony.
   
@@ -388,11 +388,11 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   A vigorous recent investigation of Kant’s views.
   
-* Zangwill, Nick, 1995 [2001], “The Beautiful, the Dainty and the Dumpy”, *British Journal of Aesthetics*, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi:10.1093/bjaesthetics/35.4.317
+* Zangwill, Nick, 1995 [2001], “The Beautiful, the Dainty and the Dumpy”, *British Journal of Aesthetics*, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi: 10.1093/bjaesthetics/35.4.317
   
   Includes a statement and defense of the centrality of beauty and ugliness among other aesthetic concepts.
   
-* –––, 1999 [2001], “Feasible Aesthetic Formalism”, *Noûs*, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi:10.1111/0029-4624.00196
+* –––, 1999 [2001], “Feasible Aesthetic Formalism”, *Noûs*, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi: 10.1111/0029-4624.00196
   
   Argues for a “moderate” formalist view that allows that things can be “dependently beautiful”, in Kant’s sense.
   
@@ -410,23 +410,23 @@ By contrast, Kant thinks that although we sometimes speak *as if* our judgments 
   
   Argues for an extreme realist view.
   
-* Zuckert, Rachel, 2007, *Kant on Beauty and Biology: An Interpretation of the Critique of Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323
+* Zuckert, Rachel, 2007, *Kant on Beauty and Biology: An Interpretation of the Critique of Judgment*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511487323
   
   An insightful scholarly and philosophical investigation.
   
 ### Further Reading
 
-* Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, *Journal of Aesthetics and Art Criticism*, 53(4): 379–392. doi:10.2307/430973
+* Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, *Journal of Aesthetics and Art Criticism*, 53(4): 379–392. doi: 10.2307/430973
 * Dickie, George, 1988, *Evaluating Art*, Philadelphia: Temple University Press.
 * Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview.
 * Greenberg, Clement, 1999, *Homemade Esthetics*, Oxford: Oxford University Press.
-* Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, *Journal of Philosophy*, 108(3): 138–157. doi:10.5840/jphil201110838
-* Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, *Journal of Philosophy*, 65(4): 85–93. doi:10.2307/2024481
-* Levinson, Jerrold, 1992 [1996], “Pleasure and the Value of Works of Art”, *The British Journal of Aesthetics*, 32(4): 295–306. Reprinted in his *The Pleasures of Aesthetics: Philosophical Essays*, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
+* Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, *Journal of Philosophy*, 108(3): 138–157. doi: 10.5840/jphil201110838
+* Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, *Journal of Philosophy*, 65(4): 85–93. doi: 10.2307/2024481
+* Levinson, Jerrold, 1992 [1996], “Pleasure and the Value of Works of Art”, *The British Journal of Aesthetics*, 32(4): 295–306. Reprinted in his *The Pleasures of Aesthetics: Philosophical Essays*, Ithaca, NY: Cornell University Press, 11–24. doi: 10.1093/bjaesthetics/32.4.295
 * McCloskey, Mary, 1987, *Kant’s Aesthetic*, New York: SUNY Press.
 * Plato, *Hippias Major*. In *Plato’s Complete Works*, edited by John Cooper, Indianapolis: Hackett, 1997.
-* Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25)1): 87–95. doi:10.1353/phl.2001.0018
-* –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278350.001.0001
+* Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25)1): 87–95. doi: 10.1353/phl.2001.0018
+* –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199278350.001.0001
 * Scruton, Roger, 1983, “Understanding Music”, in his *The Aesthetic Understanding: Essays in the Philosophy of Art and Culture*, London: Carcanet.
 
 ## Academic Tools

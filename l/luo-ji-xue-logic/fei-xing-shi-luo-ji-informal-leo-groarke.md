@@ -1,6 +1,6 @@
 # 非形式逻辑 informal (Leo Groarke)
 
-*首次发表于1996年11月25日；实质性修订于2021年7月16日。*
+*首次发表于 1996 年 11 月 25 日；实质性修订于 2021 年 7 月 16 日。*
 
 逻辑学的研究常常培养了这样一种观念，即其方法可能被用于试图理解和改进在现实生活环境中发生的思考、推理和论证：在公共讨论和辩论中；在教育和知识交流中；在人际关系中；以及在法律、医学和其他职业中。
 
@@ -20,11 +20,11 @@ Puppo 2019 提供了一系列关于非形式逻辑的历史和相关问题的文
 
 在现代，Port Royal 逻辑学（Arnauld 和 Nicole 1662，最初标题为《逻辑学或思维艺术》）试图概述一种可以指导日常推理的逻辑。它是一本备受赞扬（也常常被蔑视）的争论艺术导论，已经出版了 50 多个法文版本和 5 个流行的英文翻译。它将“逻辑”理解为“正确引导理性，获得事物知识，为我们自己和他人的教育服务的艺术”（25）。为此，它提供了关于良好和差劲争论的实际解释，讨论谬误、三段论、定义以及演绎和概率推理，并强调使用真实而非虚构的争论例子（参见 Finocchiaro 1997）。
 
-人们在 19 世纪的逻辑学和修辞学教科书中找到了其他类似于当代研究和教授非形式推理的尝试的类比。在这方面，理查德·韦利特特别值得注意。他开始时是牛津大学的政治经济学教授，后来被任命为都柏林大主教，并试图建立一个全国性的非宗派教育体系，撰写了关于推理的文本，以促进这一事业。在很多方面，韦利特的《逻辑要素》和《修辞要素》（1826 年，1830 年）与今天非形式逻辑教科书的早期版本非常相似。
+人们在 19 世纪的逻辑学和修辞学教科书中找到了其他类似于当代研究和教授非形式推理的尝试的类比。在这方面，理查德 · 韦利特特别值得注意。他开始时是牛津大学的政治经济学教授，后来被任命为都柏林大主教，并试图建立一个全国性的非宗派教育体系，撰写了关于推理的文本，以促进这一事业。在很多方面，韦利特的《逻辑要素》和《修辞要素》（1826 年，1830 年）与今天非形式逻辑教科书的早期版本非常相似。
 
 另一本重要的批评韦利特的文本，但在同一广泛传统中的是密尔的《逻辑学体系》（1882 年）（参见戈登 2014 年）。它将逻辑定义为“推理的艺术和科学”，规定“推理就是从已经承认的断言中推断出任何断言”。最终结果是一种广泛的推理解释，就像非形式逻辑系统一样，旨在为现实生活中的论证提供信息。
 
-“非形式逻辑”一词的首次使用出现在吉尔伯特·赖尔的《困境》（1954 年）一书的最后一章中。他引入这个词是为了区分形式逻辑和我们需要评估哲学讨论中使用的许多论证的更多样化、不那么严格和不那么明确的方式。
+“非形式逻辑”一词的首次使用出现在吉尔伯特 · 赖尔的《困境》（1954 年）一书的最后一章中。他引入这个词是为了区分形式逻辑和我们需要评估哲学讨论中使用的许多论证的更多样化、不那么严格和不那么明确的方式。
 
 在北美，非形式逻辑的兴起与 20 世纪 60 年代根植于教育趋势有关——这是一个社会动荡和抗议的时代（尤其是反对越南战争），这产生了对与当今问题相关的教育的呼吁。这激发了对日常论证逻辑和入门逻辑教学的兴趣，当时使用像科皮的流行著作《逻辑导论》（1953 年）这样的教科书进行教学。
 
@@ -64,7 +64,7 @@ Puppo 2019 提供了一系列关于非形式逻辑的历史和相关问题的文
 
 ### 1.2 论证理论
 
-论证理论是一个广泛的跨学科领域，研究真实生活中的论证。论证理论的发展受到形式和非形式逻辑的极大影响；语用辩证法（由范·埃默伦和格鲁滕多斯特及其荷兰或“阿姆斯特丹”辩证法学派发展）；批判性思维运动；美国演讲交流；修辞学；语用学；以及波兰辩证法学派（发表了相关宣言）的影响。为了理解论证，论证理论毫不犹豫地利用这些和其他相关学科：认知心理学、计算建模、符号学、话语分析、艺术史、人工智能等等。
+论证理论是一个广泛的跨学科领域，研究真实生活中的论证。论证理论的发展受到形式和非形式逻辑的极大影响；语用辩证法（由范 · 埃默伦和格鲁滕多斯特及其荷兰或“阿姆斯特丹”辩证法学派发展）；批判性思维运动；美国演讲交流；修辞学；语用学；以及波兰辩证法学派（发表了相关宣言）的影响。为了理解论证，论证理论毫不犹豫地利用这些和其他相关学科：认知心理学、计算建模、符号学、话语分析、艺术史、人工智能等等。
 
 除了研究一般的论证分析方法之外，论证理论家以多种方式研究论证：通过探索论证的特定方面（例如，责任、证明负担或在特定背景下管理论证的规范）；通过从历史、社会、政治或女性主义的角度分析论证；通过研究特定类型的论证（例如，艺术作品中表达的论证或在特定法律背景下产生的论证）；通过调查产生分歧、争论和论证的假设、条件（哲学、认识论、社会、政治、制度、心理、教育等）。在许多方面，这些努力与非形式逻辑相交叉。
 
@@ -80,7 +80,7 @@ Puppo 2019 提供了一系列关于非形式逻辑的历史和相关问题的文
 
 第一本自称为非形式逻辑教材的教材是蒙森的《言辞之道：一本非形式逻辑》（1976 年）。正如他的标题所强调的那样，他的书旨在教授一种特定的非形式逻辑（一种特定的非形式逻辑系统），该系统概述了对现实生活论证的分析和评估的一种方法。其他方法和其他系统在其他教材和学术讨论中得到发展。
 
-非形式逻辑的不同系统在许多方面存在差异 - 通常通过在更大或更小的程度上融合形式、修辞、辩证和其他分析方法来实现。许多系统提出了独特的方法或混合了从其他系统借用的方法。格罗克 2020 年概述了一种“BLAST”方法来识别和定义非形式逻辑系统。它将特定的非形式逻辑系统 I 定义为 I = {B,L,A,S,T}，其中：
+非形式逻辑的不同系统在许多方面存在差异 - 通常通过在更大或更小的程度上融合形式、修辞、辩证和其他分析方法来实现。许多系统提出了独特的方法或混合了从其他系统借用的方法。格罗克 2020 年概述了一种“BLAST”方法来识别和定义非形式逻辑系统。它将特定的非形式逻辑系统 I 定义为 I = {B, L, A, S, T}，其中：
 
 * B = 为 I 提供理论背景的因素
   L = 用于表达我所分析的论证的语言，
@@ -231,7 +231,7 @@ Gilbert 的论证方式的解释将我们对论证的理解扩展到了传统上
 
 > 例子 1：小型企业非形式重要，因为它们为创业者提供机会，并创造比传统大公司更具工作满意度的有意义的工作岗位。
 
-> 前提：[小型企业]为创业者提供机会，并创造比传统大公司更具工作满意度的有意义的工作岗位。结论：小型企业非形式重要。
+> 前提：[小型企业] 为创业者提供机会，并创造比传统大公司更具工作满意度的有意义的工作岗位。结论：小型企业非形式重要。
 
 在这个例子中，“因为”一词作为“推理指示器”起作用，告诉我们接下来的主张是支持之前的结论的前提。在其他情况下，“for”，“given that”，“since”等词是引入前提的方式，而“so”，“hence”，“thus”，“therefore”等词则用于引入结论。
 
@@ -256,7 +256,7 @@ Gilbert 的论证方式的解释将我们对论证的理解扩展到了传统上
 
 认识到论证的隐含前提为论证评估铺平了道路，因为它们和论证的显式前提一样，在评估论证时需要进行评估。如果我们拒绝隐含前提（例如，通过主张刑罚的目标应该是报复而不是威慑），那么这个论证就无法为其结论提供令人信服的证据。
 
-古代对于附带前提或结论的论证在论证中被认可：即未陈述前提的三段论。一个当代的例子是美国副总统迪克·切尼为布什政府决定不将被指控恐怖主义罪行的外国人作为战争囚犯审判进行辩护（这将为被指控恐怖主义的人提供法律保护）。
+古代对于附带前提或结论的论证在论证中被认可：即未陈述前提的三段论。一个当代的例子是美国副总统迪克 · 切尼为布什政府决定不将被指控恐怖主义罪行的外国人作为战争囚犯审判进行辩护（这将为被指控恐怖主义的人提供法律保护）。
 
 > 例子 7（来自《纽约时报》的报道，2001 年 11 月 15 日）：
 > “这里的基本命题是，非法进入美利坚合众国的人...不是合法的战斗人员....因此，他们不应被视为战争囚犯。”
@@ -297,7 +297,7 @@ Gilbert 的论证方式的解释将我们对论证的理解扩展到了传统上
 
 通过列举论证的前提和结论来标准化论证是一种确定论证内容并为其评估做准备的方法之一。但是，这种标准化方法有一个主要缺点，即它不能区分论证中可能包含的不同类型的推理。解决这个问题的一种方法是使用一个列出论证前提和结论的表格（关键组成部分或“KC”表格）来标准化论证，并将其与描绘推理结构的论证图表（“映射”）相结合。
 
-在下面的示例 10 中，我使用了这种方法来标准化 Kretzmann 在他对中世纪哲学家威廉·谢伍德的解释中使用的一个论证，他得出结论认为威廉很可能是巴黎大学的一位导师。KC 表格的第一列列出了论证的前提和结论；第二列将它们分配为前提或结论；第三列列出了它们的来源。随后的图表描绘了论证的关键组成部分之间的关系，使用箭头表示其中包含的推理。
+在下面的示例 10 中，我使用了这种方法来标准化 Kretzmann 在他对中世纪哲学家威廉 · 谢伍德的解释中使用的一个论证，他得出结论认为威廉很可能是巴黎大学的一位导师。KC 表格的第一列列出了论证的前提和结论；第二列将它们分配为前提或结论；第三列列出了它们的来源。随后的图表描绘了论证的关键组成部分之间的关系，使用箭头表示其中包含的推理。
 
 ![image text](https://plato.stanford.edu/entries/logic-informal/TableDiagram1.jpg)
 
@@ -319,7 +319,7 @@ Gilbert 的论证方式的解释将我们对论证的理解扩展到了传统上
 
 KC 表不是描述现实生活论证结构的唯一方式。图表（映射）有其自身的历史，融合了许多不同的论证图表方式。图表的实用性早在 1826 年的 Whately 和 20 世纪初的 Wigmore 1913 年就已经得到认可，Wigmore 发展了一种映射形式（“证据图表”），旨在描绘和分析复杂的司法推理链。
 
-非形式逻辑的发展引发了对不同类型图表的新兴兴趣，这得到了相关软件（Rationale，Reason!Able，Araucaria，Athena，Compendium，Theseus）和在线辅助工具（Debate Mapper，TruthMapping.Com，Argunet，Agora）的支持。
+非形式逻辑的发展引发了对不同类型图表的新兴兴趣，这得到了相关软件（Rationale，Reason! Able，Araucaria，Athena，Compendium，Theseus）和在线辅助工具（Debate Mapper，TruthMapping.Com，Argunet，Agora）的支持。
 
 ### 3.3 随附图表
 
@@ -365,7 +365,7 @@ KC 表格和图表通过澄清论证的内部结构和内容为论证评估铺�
 
 在经典逻辑中，如果一个论证的前提为真且结论为假是不可能的，那么这个论证就是（演绎上）有效的。根据这个解释，论证的最终目标是一个“正确”的论证：即具有真实前提的有效论证。
 
-在非形式逻辑中，好论证的最简单标准是一种非形式的正确性标准。它认为一个好论证是通过提供好的（强有力的、可信的等）理由来证明其结论的论证。在论证中，这意味着前提是“可接受的”，而结论是由它们推导出来的。我们可以将这个基本标准总结为 T = {A,V}，其中 A 是前提可接受性的解释，V 是非形式有效性的解释，它确定了何时一个结论从前提中以一种被认可的方式推导出来（演绎、归纳、引导等）。
+在非形式逻辑中，好论证的最简单标准是一种非形式的正确性标准。它认为一个好论证是通过提供好的（强有力的、可信的等）理由来证明其结论的论证。在论证中，这意味着前提是“可接受的”，而结论是由它们推导出来的。我们可以将这个基本标准总结为 T = {A, V}，其中 A 是前提可接受性的解释，V 是非形式有效性的解释，它确定了何时一个结论从前提中以一种被认可的方式推导出来（演绎、归纳、引导等）。
 
 随附约翰逊和布莱尔（1977 年，1994 年）的观点，许多非形式逻辑系统采用这些 AV 标准的 ARS 版本，将“可接受性、相关性和充分性”作为良好论证的要求。根据这一解释，前提在它们是真实的或以其他方式可接受时是可接受的；当它们为论证的结论提供一些（即任何）支持时是相关的；当它们提供足够的支持来证明其接受性时，它们是充分的——可能是真实的、合理的等等。
 
@@ -411,7 +411,7 @@ Woods 和 Walton 1982 以及 Hansen 和 Pinto 1995 对谬误的定义、分析�
 > 一位丹麦电视辩论中的言论，讨论丹麦教会是否应该与丹麦国家分离（Jorgensen 1995, 369）：“你不应该听我的对手。他想为了自己的私利而将丹麦教会与国家分离。” 这似乎是一个经典的人身攻击的例子，Kahane 1995（第 65 页）将其描述为一种谬误，当辩论者攻击“他的对手而不是对手的证据和论点”时发生。但这是一种不能轻易驳斥的利益冲突的指责。如果有理由相信辩论者支持某种观点是因为他们从中获益（比如购买他们拥有股份的公司），这确实引发了对他们的论点应该被接受的程度的质疑。
 >
 > 例子 13：
-> 马丁·路德·金受甘地的影响，主张在争取社会正义的斗争中可以正当地违反法律。这样的论点在民权运动中起着核心作用。虽然它们似乎是“两个错误可以成为正确”的明显例子，但不能轻率地予以驳斥。
+> 马丁 · 路德 · 金受甘地的影响，主张在争取社会正义的斗争中可以正当地违反法律。这样的论点在民权运动中起着核心作用。虽然它们似乎是“两个错误可以成为正确”的明显例子，但不能轻率地予以驳斥。
 >
 > 例子 14：
 > “试图使用军事力量来终结恐怖主义是错误的，因为这将使我们滑向一个错误干涉独立国家事务的斜坡”这一论点不能被驳回，因为它是滑坡推理的一个实例。如果某个行动确实会引发一系列导致所谓滑坡的后果，这是质疑它的一个很好理由。
@@ -438,12 +438,12 @@ NLD 作为关于论证的一般理论的合理性取决于它对非形式演绎�
 一位专业的营养师（Cristina Sutter 博士）在 2015 年的博客中批评了以流行电视名人“Dr. Oz”的权威为依据，来证明藤黄果是一种神奇的减肥药的论点——这是“Dr. Oz 说了，所以一定是真的”的推理的例子。我们可以将她批评的论证模式标准化为：
 
 > 例子 16：
-> 前提：Dr. Oz 说[藤黄果是一种神奇的减肥药]。
+> 前提：Dr. Oz 说 [藤黄果是一种神奇的减肥药]。
 > 结论：这一定是真的。
 
 如果只根据这个论证中的明确前提（“奥兹博士说...”）来判断，这不是一个演绎有效的论证，因为很明显前提可能是真的而结论是假的：奥兹博士可能说藤黄果是一种神奇的减肥药并且是错误的。话虽如此，使用这个论证的人必须假设一个相关的条件，可以理解为一个隐含的前提，使我们能够将论证标准化为：
 
-> 前提：奥兹博士说[藤黄果是一种神奇的减肥药]。
+> 前提：奥兹博士说 [藤黄果是一种神奇的减肥药]。
 > 隐含前提：如果奥兹博士说这个，那一定是真的。
 > 结论：这一定是真的。
 
@@ -568,7 +568,7 @@ Mercier 和 Sperber（2011）认为，推理是一种从社会辩论实践中演
 
 虽然非形式逻辑涉及许多与核心哲学学科相关的问题（尤其是认识论和心灵哲学；可以在 Goldman、Crosswhite、Thagard 等人的工作中看到），但它对主流方法论的主题问题的影响有限。Woods 2000 年对此进行了推测。在某种程度上，非形式逻辑在哲学中的地位反映了北美哲学的更广泛分裂，Rescher 2005 年（第 4 页）写道：“当代美国哲学最引人注目的方面是其分裂。这一事业的规模和复杂性如此之大，以至于如果一个人在当代美国哲学中寻求对问题议程的共识，更不用说对实质性问题的一致意见，那么他注定是徒劳的。”
 
-在这个背景下，可以最好地说，非形式逻辑，就像应用伦理学一样，已经成为一种标准课程，通过为哲学系提供帮助，从而促进了Rescher所描述的“‘应用哲学’的快速增长……是当代北美哲学的一个显著结构特征。”（第9页）。应用哲学的目标是哲学上有见地且细致入微的推理，以应对复杂的现实生活情境。非形式逻辑是为实现这一目标做出了宝贵贡献的一个领域。
+在这个背景下，可以最好地说，非形式逻辑，就像应用伦理学一样，已经成为一种标准课程，通过为哲学系提供帮助，从而促进了 Rescher 所描述的“‘应用哲学’的快速增长……是当代北美哲学的一个显著结构特征。”（第 9 页）。应用哲学的目标是哲学上有见地且细致入微的推理，以应对复杂的现实生活情境。非形式逻辑是为实现这一目标做出了宝贵贡献的一个领域。
 
 ## Bibliography
 
@@ -587,7 +587,7 @@ Mercier 和 Sperber（2011）认为，推理是一种从社会辩论实践中演
 * Blair, J. Anthony and Ralph H. Johnson, 1980. *Informal logic: the first international symposium*, Inverness, CA : Edgepress.
 * Bowell, Tracy and Gary Kemp, 2014. *Critical Thinking: A Concise Guide*, 4th ed., Routledge: London.
 * Brinton, Alan and Douglas Walton, 1997. *Historical Foundations of Informal Logic*, Aldershot: Ashgate Publishing.
-* Budzynska, Katarzyna, Michal Araszkiewicz, Barbara Bogołȩbska, Piotr Cap, Tadeusz Ciecierski,Kamila Debowska-Kozlowska, Barbara Dunin-Kȩplicz, Marcin Dziubiński, Michał Federowicz, Anna Gomolińska, Andrzej Grabowski, Teresa Hołówka, Łukasz Jochemczyk, Magdalena Kacprzak,Paweł Kawalec, Maciej Kielar, Andrzej Kisielewicz, Marcin Koszowy, Robert Kublikowski, Piotr Kulicki, Anna Kuzio, Piotr Lewiński, Jakub Z. Lichański, Jacek Malinowski, Witold Marciszewski, Edward Nieznański, Janina Pietrzak, Jerzy Pogonowski, Tomasz A. Puczyłowski, Jolanta Rytel, Anna Sawicka, Marcin Selinger, Andrzej Skowron, Joanna Skulska, Marek Smolak, Małgorzata Sokół, Agnieszka Sowińska, Piotr Stalmaszczyk, Tomasz Stawecki, Jarosław Stepaniuk, Alina Strachocka, Wojciech Suchoń, Krzysztof Szymanek, Justyna Tomczyk, Robert Trypuz, Kazimierz Trzȩsicki, Mariusz Urbański, Ewa Wasilewska-Kamińska, Krzysztof A. Wieczorek, Maciej Witek, Urszula Wybraniec-Skardowska, · Olena Yaskorska, Maria Załȩska, Konrad Zdanowski, Tomasz Żurek, 2014. [“The Polish School of Argumentation: A Manifesto,”](http://link.springer.com/article/10.1007/s10503-014-9320-8/fulltext.html) *Argumentation*, 28(3): 267–282. .
+* Budzynska, Katarzyna, Michal Araszkiewicz, Barbara Bogołȩbska, Piotr Cap, Tadeusz Ciecierski, Kamila Debowska-Kozlowska, Barbara Dunin-Kȩplicz, Marcin Dziubiński, Michał Federowicz, Anna Gomolińska, Andrzej Grabowski, Teresa Hołówka, Łukasz Jochemczyk, Magdalena Kacprzak, Paweł Kawalec, Maciej Kielar, Andrzej Kisielewicz, Marcin Koszowy, Robert Kublikowski, Piotr Kulicki, Anna Kuzio, Piotr Lewiński, Jakub Z. Lichański, Jacek Malinowski, Witold Marciszewski, Edward Nieznański, Janina Pietrzak, Jerzy Pogonowski, Tomasz A. Puczyłowski, Jolanta Rytel, Anna Sawicka, Marcin Selinger, Andrzej Skowron, Joanna Skulska, Marek Smolak, Małgorzata Sokół, Agnieszka Sowińska, Piotr Stalmaszczyk, Tomasz Stawecki, Jarosław Stepaniuk, Alina Strachocka, Wojciech Suchoń, Krzysztof Szymanek, Justyna Tomczyk, Robert Trypuz, Kazimierz Trzȩsicki, Mariusz Urbański, Ewa Wasilewska-Kamińska, Krzysztof A. Wieczorek, Maciej Witek, Urszula Wybraniec-Skardowska, · Olena Yaskorska, Maria Załȩska, Konrad Zdanowski, Tomasz Żurek, 2014. [“The Polish School of Argumentation: A Manifesto,”](http://link.springer.com/article/10.1007/s10503-014-9320-8/fulltext.html) *Argumentation*, 28(3): 267–282. .
 * Browne, M. Neil and Stuart M. Keeley, 2018. *Asking the Right Questions: A Guide to Critical Thinking*, 12th ed., Englewood Cliffs: Prentice Hall.
 * Burke, Michael B., 1994. “Denying the Antecedent: A Common Fallacy?” *Informal Logic*, 16(1): 23–30.
 * Carney, James D. and Richard K. Scheer, 1964. *Fundamentals of Logic*, New York: Macmillan.
@@ -623,7 +623,7 @@ Mercier 和 Sperber（2011）认为，推理是一种从社会辩论实践中演
 * Groarke, Leo A., Christopher W. Tindale, and Linda Carozza, 2021. *Good Reasoning Matters!*, 6th edition, Toronto: Oxford University Press.
 * Groarke, Leo, 2020. “How to Define an Informal Logic,” in Blair and Tindale (eds.), *Rigour and Reason*, pp. 231–251.
 * –––, 2019. “Matching Schemes of Argument: Verbal, Visual, Multimodal,” in Bart Garssen, David Godden, Gordon R. Mitchell, Jean H.M. Wagemans (eds.), *Proceedings of the Ninth Conference of the International Society for the Study of Argumentation*, Amsterdam: Sic Sat, pp. 443–457.
-* –––, 2018. “[Auditory Arguments: The Logic of ‘Sound’ Arguments](http://doi.org/10.22329/IL.V38I3.4954)”, *Informal Logic*, 38:3, 312–340.
+* –––, 2018. “[Auditory Arguments: The Logic of ‘Sound’ Arguments](http://doi.org/10.22329/IL.V38I3.4954)”, *Informal Logic*, 38: 3, 312–340.
 * –––, 2015. “[Going Multimodal: What is a Mode of Arguing and Why Does it Matter?](http://link.springer.com/article/10.1007/s10503-014-9336-0)”, *Argumentation*, 29(2): 133–155.
 * –––, 1999. “Deductivism Within Pragma-Dialectics,” *Argumentation*, 13: 1–16.
 * Hamblin, Charles Leonard, 1970. *Fallacies*, London: Methuen.

@@ -1,31 +1,31 @@
-# 大卫·刘易斯的形而上学 metaphysics (Ned Hall, Brian Rabern, and Wolfgang Schwarz)
+# 大卫 · 刘易斯的形而上学 metaphysics (Ned Hall, Brian Rabern, and Wolfgang Schwarz)
 
-*首次发表于2010年1月5日；实质性修订于2021年6月24日*
+*首次发表于 2010 年 1 月 5 日；实质性修订于 2021 年 6 月 24 日*
 
-大卫·刘易斯创作了一系列哲学著作，涵盖了哲学的各个主要领域，其中可能最集中在形而上学、语言哲学、哲学逻辑和心灵哲学方面。尽管有如此多样的内容，但初次接触刘易斯哲学的人最好从他的形而上学开始（特别是：1986a、1986e、1999）。有几个原因。首先，刘易斯的大部分作品要么涉及，要么与形而上学的主题有重叠。其次，刘易斯所提出的形而上学立场非常独特且有力地进行了论证。第三，这些作品具有一致性和系统性，使其成为研究的特别适当对象，因为人们可以清楚地看到刘易斯哲学的特色手法。 （实际上，如果有人希望学习如何以刘易斯的风格进行哲学思考，最高效的方法就是研究他在形而上学方面的作品。）最后，也许最有趣的是，刘易斯的形而上学对其其他哲学观点产生了深远的调节影响：如果某个在某个哲学问题上本来很有吸引力的立场与他整体形而上学观点不一致，那么它就必须被放弃。
+大卫 · 刘易斯创作了一系列哲学著作，涵盖了哲学的各个主要领域，其中可能最集中在形而上学、语言哲学、哲学逻辑和心灵哲学方面。尽管有如此多样的内容，但初次接触刘易斯哲学的人最好从他的形而上学开始（特别是：1986a、1986e、1999）。有几个原因。首先，刘易斯的大部分作品要么涉及，要么与形而上学的主题有重叠。其次，刘易斯所提出的形而上学立场非常独特且有力地进行了论证。第三，这些作品具有一致性和系统性，使其成为研究的特别适当对象，因为人们可以清楚地看到刘易斯哲学的特色手法。 （实际上，如果有人希望学习如何以刘易斯的风格进行哲学思考，最高效的方法就是研究他在形而上学方面的作品。）最后，也许最有趣的是，刘易斯的形而上学对其其他哲学观点产生了深远的调节影响：如果某个在某个哲学问题上本来很有吸引力的立场与他整体形而上学观点不一致，那么它就必须被放弃。
 
 我应该预防一种可能的误解。你可能会认为，根据我刚才说的，刘易斯推荐的哲学方法是这样的：首先，你要弄清楚你的基本形而上学承诺应该是什么；然后，你把注意力转向各种广泛但非基础的哲学主题（个人身份、心理内容、知识的本质、价值理论等），并在每个领域中推导出你的基本形而上学假设的后果。这与刘易斯偏爱的方法相去甚远。（嗯，也许依赖神的启示会更远……）事实上，他推荐的是一种整体性的方法：我们从我们倾向于相信的全部主张开始——无论是基于“常识”（对于刘易斯来说，这是一个经常被引用的范畴）还是基于科学——并尽力按照常识和/或科学所认可的理论优良标准来系统化它（因此，这些标准本身在某种程度上也是可争议的）。因此，刘易斯的哲学工作的相当一部分可以被看作是一种延伸的、令人叹为观止的、试图实现完全反思均衡的努力。以下是对这种方法的特别简洁描述：
 
 > 一个人来到哲学时已经具备了一些观点。哲学的任务不是在很大程度上削弱或证明这些先前存在的观点，而只是试图发现将它们扩展为一个有序系统的方法。（1973b，第 88 页）
 
-尽管刘易斯的哲学探究方法当然不是“自下而上”的，但我认为最好以自下而上的方式呈现这种探究的结果。这就是本文以及接下来的文章将尝试做到的。我将把领域分为四个部分：刘易斯的基本本体论；他的形而上学模态理论；他的“应用”形而上学（涵盖自然法则、反事实、因果关系、时间上的身份和心灵等主题）；以及刘易斯在形而上学中的方法论。我将很快解释这些区别，但请注意，本文几乎只涉及这四个主题中的第一个。关于大卫·刘易斯的其他方面在有关大卫·刘易斯的总论中有所涉及。
+尽管刘易斯的哲学探究方法当然不是“自下而上”的，但我认为最好以自下而上的方式呈现这种探究的结果。这就是本文以及接下来的文章将尝试做到的。我将把领域分为四个部分：刘易斯的基本本体论；他的形而上学模态理论；他的“应用”形而上学（涵盖自然法则、反事实、因果关系、时间上的身份和心灵等主题）；以及刘易斯在形而上学中的方法论。我将很快解释这些区别，但请注意，本文几乎只涉及这四个主题中的第一个。关于大卫 · 刘易斯的其他方面在有关大卫 · 刘易斯的总论中有所涉及。
 
 为了提供更深入的内容，还有一些补充文件，对以下问题进行了更详细的处理：还原论、自然/非自然区分、物理主义、时空点、休谟随附的偶然性、物理量、基本实体和量化模态逻辑的对应理论语义。
 
 ***
 
-## 1. 大卫·刘易斯的形而上学：概述
+## 1. 大卫 · 刘易斯的形而上学：概述
 
 在传统的观念中，形而上学的目标是以适当抽象和完全普遍的方式回答两个问题：
 
 1. 有什么？
 2. 它是什么样的（也就是说，无论有什么）？
 
-大卫·刘易斯完全支持这个观念：对他来说，形而上学家不仅仅是在分析我们的“概念体系”（除非这样做是找到形而上学问题答案的有效方法），也不需要理会哲学上对废除他们研究领域的永恒呼吁。相反，他们从事的是对现实本质进行无问题的事实性探究，其可辨认的认识论陷阱并不能怀疑其合法性：
+大卫 · 刘易斯完全支持这个观念：对他来说，形而上学家不仅仅是在分析我们的“概念体系”（除非这样做是找到形而上学问题答案的有效方法），也不需要理会哲学上对废除他们研究领域的永恒呼吁。相反，他们从事的是对现实本质进行无问题的事实性探究，其可辨认的认识论陷阱并不能怀疑其合法性：
 
-> 一旦我们面前有一系列完善的理论，哲学就成为一种观点问题。这是否意味着没有真理可得？或者真理是我们自己创造的，我们中的不同人可以以不同的方式创造它？完全不是这样！如果你断然地说没有神，而我说有无数的神，但它们都不是我们的世界伴侣，那么也许我们两个都没有犯任何方法上的错误。我们可能都以最谨慎的方式将我们的观点达到平衡，考虑到所有的论证、区分和反例。但至少有一个人在事实上犯了错误。谁错取决于存在什么。（大卫·刘易斯 1983a，第 xi 页）
+> 一旦我们面前有一系列完善的理论，哲学就成为一种观点问题。这是否意味着没有真理可得？或者真理是我们自己创造的，我们中的不同人可以以不同的方式创造它？完全不是这样！如果你断然地说没有神，而我说有无数的神，但它们都不是我们的世界伴侣，那么也许我们两个都没有犯任何方法上的错误。我们可能都以最谨慎的方式将我们的观点达到平衡，考虑到所有的论证、区分和反例。但至少有一个人在事实上犯了错误。谁错取决于存在什么。（大卫 · 刘易斯 1983a，第 xi 页）
 
-通过区分大卫·刘易斯形而上学计划的三个组成部分，我们可以开始理解他对我们两个主要问题的大胆而全面的回答：
+通过区分大卫 · 刘易斯形而上学计划的三个组成部分，我们可以开始理解他对我们两个主要问题的大胆而全面的回答：
 
 首先，他提供了一个关于世界基本本体结构的解释/帐户/账号/账号。是，并且必须是-尽管正如我们将看到的那样，这个限定词在某种意义上是微不足道的。当然，这个基本本体论的解释/帐户/账号/账号预设了“基本”一词有某种意义，并且特别能够清晰地区分一个人的本体承诺的某种中心核心与其他部分。假设这些承诺采取了关于存在的实体（或“个体”）以及它们所处的属性和关系的观点的形式。然后我们可以区分两个问题。一些实体比其他实体更基本吗-也许，一些精英实体组成了最基本的实体群体？一些属性/关系比其他属性/关系更基本吗-同样，也许有一些精英群体是最基本的？你可能会发现对这两个问题的肯定回答很有吸引力。（例如，椅子存在，但它们不是基本级别的实体-尽管也许夸克是。同样，一些椅子具有由橡木制成的属性；但这不是基本级别的属性-尽管也许具有某种电荷的属性是。）至于刘易斯自己的观点，关于第二个问题，他的观点相当明确：他非常清楚，适当的本体论必须包括不仅仅是个体，还包括属性和关系（尤其是参见 1983b）；他同样明确地指出，哪些属性/关系比其他属性/关系更基本（或者用他的术语来说，更“自然”）是一个完全客观和确定的问题（同上）；关于一些属性/关系是否最基本或完全自然，他在官方上持不可知论（1986f）。至于第一个问题，至少在我看来，他的观点更难以辨别-但出于最终分析的原因，这可能并不重要。请参阅
 
@@ -39,9 +39,9 @@
 
 * 问题：一个物体如何在时间中持续存在？刘易斯的回答：这是因为该物体由存在于不同时间的三维瞬时时间切片构成。（刘易斯，1988 年）
 * 问题：一个物体如何本质上具有某种属性？刘易斯的回答：这是因为在其他可能的世界中，该物体的每一个对应物都具有该属性。（刘易斯，1968 年）
-* 问题：什么是事件？大卫·刘易斯的回答：它是时空区域的某种属性。（大卫·刘易斯 1986d）
-* 问题：一个事件成为另一个事件的原因是什么意思？大卫·刘易斯（初步）的回答：第二个事件在反事实上依赖于第一个事件，即如果第一个事件没有发生，第二个事件就不会发生。\[1]（大卫·刘易斯 1973a，1986b）
-* 问题：某个事件的解释是什么？大卫·刘易斯的回答：它是关于该事件原因的信息量。（大卫·刘易斯 1986c）
+* 问题：什么是事件？大卫 · 刘易斯的回答：它是时空区域的某种属性。（大卫 · 刘易斯 1986d）
+* 问题：一个事件成为另一个事件的原因是什么意思？大卫 · 刘易斯（初步）的回答：第二个事件在反事实上依赖于第一个事件，即如果第一个事件没有发生，第二个事件就不会发生。\[1]（大卫 · 刘易斯 1973a，1986b）
+* 问题：某个事件的解释是什么？大卫 · 刘易斯的回答：它是关于该事件原因的信息量。（大卫 · 刘易斯 1986c）
 
 诸如此类。正是这种问题——尽管并非总是以这种方式提出，并伴随着对哲学上适当答案构成的明确观点——激发了我们可以称之为刘易斯的“应用形而上学”的东西：将他在本体论和模态性方面的基本立场应用于一系列永恒的形而上学主题。请注意，当我们追求明显的后续问题时，他方法的还原主义特征就显现出来了：例如，一个事件如何在逆事实上依赖于另一个事件？大致上，这是指在第二个事件不发生的最接近的可能世界中，第一个事件也不发生。一个世界如何比另一个世界更接近实际性？我们暂时跳过答案——但请放心，它以及后续后续问题的答案都被设计成能够共同展示关于什么导致什么的事实最终归结为关于基本本体论的事实。对于个人身份、自由意志、心灵、知识、伦理学、自然法则等等，情况也是如此。
 
@@ -57,11 +57,11 @@
 
 开始：
 
-从一个几乎是大卫·刘易斯的观点开始会很有用——几乎是，但并不完全是，因为它比他所能接受的更具有主观性。陈述这个观点只需要几行；提供所需的评论将需要更长时间。因此，几乎是刘易斯说了以下的话：
+从一个几乎是大卫 · 刘易斯的观点开始会很有用——几乎是，但并不完全是，因为它比他所能接受的更具有主观性。陈述这个观点只需要几行；提供所需的评论将需要更长时间。因此，几乎是刘易斯说了以下的话：
 
 唯一的基本实体是具体的时空点。
 
-就是这样。也就是说，关于基本个体的事实，以及它们所实例化的完全自然的属性和关系，决定了所有其他事实，甚至是模态事实。几乎-大卫·刘易斯（以及大卫·刘易斯）当然相信除了时空点之外还有其他个体；只是这些个体并不是基本的：它们存在的方式需要以某种方式通过关于基本实体的事实来解释。（关于刘易斯立场的一些限定，请参见
+就是这样。也就是说，关于基本个体的事实，以及它们所实例化的完全自然的属性和关系，决定了所有其他事实，甚至是模态事实。几乎-大卫 · 刘易斯（以及大卫 · 刘易斯）当然相信除了时空点之外还有其他个体；只是这些个体并不是基本的：它们存在的方式需要以某种方式通过关于基本实体的事实来解释。（关于刘易斯立场的一些限定，请参见
 
 > 关于基本实体的补充
 
@@ -83,14 +83,14 @@
 
 有关概述，请参阅。）
 
-仅仅依赖于这种区分是不够的；为了使形而上学能够正常发挥作用，它还必须提供一个解释。现在，一种方法是提供一个关于属性和关系的理论，在这个理论中规定所有这些事物都被视为“完全自然”。在这种方法中，虽然可能存在与谓词“具有 5 千克的质量”相对应的属性（例如），但几乎肯定不存在与谓词“是绿色的”（更不用说那个熟悉的“是青绿色的”）相对应的属性。刘易斯更倾向于另一种方法。鉴于他对集合论的承诺，他已经相信存在一些根据他的标准应该被称为绿色的属性，以及确实应该被称为青绿色的属性：这些仅仅是某些集合——实际对象和可能对象的集合。（请参阅关于大卫·刘易斯的模态形而上学的部分，以及关于自然/非自然区分的补充。）对他来说，问题是如何在这些集合中区分出那些完全自然的集合。在这里，我将介绍几乎像刘易斯一样，对四个广泛的选择保持不可知态度的几乎刘易斯。 （几乎是因为刘易斯最终决定，根据这个选择，自然属性和关系是亚里士多德式的普遍性是行不通的；请参阅他 1986 年的论文以了解原因。）
+仅仅依赖于这种区分是不够的；为了使形而上学能够正常发挥作用，它还必须提供一个解释。现在，一种方法是提供一个关于属性和关系的理论，在这个理论中规定所有这些事物都被视为“完全自然”。在这种方法中，虽然可能存在与谓词“具有 5 千克的质量”相对应的属性（例如），但几乎肯定不存在与谓词“是绿色的”（更不用说那个熟悉的“是青绿色的”）相对应的属性。刘易斯更倾向于另一种方法。鉴于他对集合论的承诺，他已经相信存在一些根据他的标准应该被称为绿色的属性，以及确实应该被称为青绿色的属性：这些仅仅是某些集合——实际对象和可能对象的集合。（请参阅关于大卫 · 刘易斯的模态形而上学的部分，以及关于自然/非自然区分的补充。）对他来说，问题是如何在这些集合中区分出那些完全自然的集合。在这里，我将介绍几乎像刘易斯一样，对四个广泛的选择保持不可知态度的几乎刘易斯。 （几乎是因为刘易斯最终决定，根据这个选择，自然属性和关系是亚里士多德式的普遍性是行不通的；请参阅他 1986 年的论文以了解原因。）
 
-* 一个人可以采用大卫·阿姆斯特朗（1978a，1978b）所发展的一种普遍性理论：“……如果一个属性（即，一组实际和可能的对象）的成员全部且仅仅是那些共享某个普遍性的东西，我们可以称之为完全自然的。”（1999 年第 13 页）
+* 一个人可以采用大卫 · 阿姆斯特朗（1978a，1978b）所发展的一种普遍性理论：“……如果一个属性（即，一组实际和可能的对象）的成员全部且仅仅是那些共享某个普遍性的东西，我们可以称之为完全自然的。”（1999 年第 13 页）
 * 一个人可以将“自然”视为一组实际和可能的对象的原始谓词：“……名义主义者可以将某些类别的事物是完全自然属性作为一个原始事实；其他类别的事物在各种程度上都不太自然；而大多数类别的事物根本不自然。这样的名义主义者使用“自然”作为一个原始谓词，并且对他在类别中谓词化的含义没有进行任何分析。”（1999 年第 14 页）\[2]
 * 一个人可以根据适当复杂且原始的相似性概念来定义“自然”：“或者，一个名义主义者在追求充分性时可能更愿意依赖事物之间的原始客观相似性。……然后，他可以试图通过成员之间的相互相似性以及成员与非成员之间的相似性失败来定义自然属性。”（1999 年第 14 页）
-* 一个人可以采用一个关于特质的本体论，大致上是指占据一种本体论中间地带的特性实例，即介于个体和属性之间的实体。（参见大卫·刘易斯 1986f，威廉姆斯 1953，坎贝尔 1990。）
+* 一个人可以采用一个关于特质的本体论，大致上是指占据一种本体论中间地带的特性实例，即介于个体和属性之间的实体。（参见大卫 · 刘易斯 1986f，威廉姆斯 1953，坎贝尔 1990。）
 
-现在回到几乎-大卫·刘易斯的基本本体论，选项似乎有以下几种：一个时空点（或一系列点）通过实例化一种完全自然的属性（或关系）来实例化一个普遍性，即阿姆斯特朗的意义上。也可能是通过作为某种类型的特质的一部分来拥有它，大致上是指威廉姆斯的意义上。（因此，我们必须稍作修改，并将这些特质视为基本实体。）也可能是通过属于一种特殊类型的（实际和可能的）时空点集合来拥有它，这种集合要么因为其成员之间的相似之处而使其成为特殊的，并将其与非成员区分开来，要么仅仅因为它是完全自然的。无论选择哪种方式，刘易斯认为，一个人对自然属性和关系的理论都应该遵守四个哲学动机的限制：
+现在回到几乎-大卫 · 刘易斯的基本本体论，选项似乎有以下几种：一个时空点（或一系列点）通过实例化一种完全自然的属性（或关系）来实例化一个普遍性，即阿姆斯特朗的意义上。也可能是通过作为某种类型的特质的一部分来拥有它，大致上是指威廉姆斯的意义上。（因此，我们必须稍作修改，并将这些特质视为基本实体。）也可能是通过属于一种特殊类型的（实际和可能的）时空点集合来拥有它，这种集合要么因为其成员之间的相似之处而使其成为特殊的，并将其与非成员区分开来，要么仅仅因为它是完全自然的。无论选择哪种方式，刘易斯认为，一个人对自然属性和关系的理论都应该遵守四个哲学动机的限制：
 
 首先，一个充分的理论应该是最小的，即它假设了足够多的完全自然的属性和关系，以便将它们在基本个体之间的分布完全和确定地确定为现实的本质：“大致上的指导思想是，世界的普遍性应该包括一个最小的基础，以完全描述世界。那些对此目标没有任何贡献的普遍性是不受欢迎的，只有多余贡献的普遍性也是如此。”（1999 年，第 12 页）从周围的文本可以清楚地看出，刘易斯认为这个限制适用于各种替代自然性普遍性解释的选择。\[3]
 
@@ -128,9 +128,9 @@
 
 关于基本本体论包含什么以及其他所有事实如何归结为关于它的事实，几乎刘易斯的论点与刘易斯关于休谟随附性（以下简称为“HS”）的著名论点有着非常密切的关系。但它们并不相同，这些差异值得注意。下面是 HS 的一个典型陈述（稍微比刘易斯正式认可的版本更强，我们将会看到）：没有两个可能世界在它们的真实性上有所不同，而在它们的时空点的几何排列或在这些点上实例化的完全自然属性方面有所不同。\[6]（请注意，如此陈述，HS 自动成为形而上学上的必然性。）因此，HS 是一个随附性主张，逻辑上比几乎刘易斯的归约主张要弱。它还是一个主张，刘易斯出于一些好的原因和一些坏的原因，只接受形而上学上有偶然性的较弱形式。更重要的是，HS 并不包含关于可能世界本身归约为其他任何事物的事实；而几乎刘易斯和刘易斯都明确表示他们承诺了这一进一步的主张。在说了这些之后，值得记住在接下来的内容中，几乎刘易斯的立场（请记住，它包含了刘易斯的模态实在论）蕴含了 HS。因此，对 HS 的任何疑虑都会延伸到几乎刘易斯的基本本体论上。
 
-## 6. 大卫·刘易斯与几乎刘易斯之间的对比
+## 6. 大卫 · 刘易斯与几乎刘易斯之间的对比
 
-现在让我们考虑一下大卫·刘易斯自己关于基本本体论的立场与几乎刘易斯的立场之间最显著的差异。
+现在让我们考虑一下大卫 · 刘易斯自己关于基本本体论的立场与几乎刘易斯的立场之间最显著的差异。
 
 首先，刘易斯对量子物理学所教授的教训非常认真，以至于不赞同几乎刘易斯的第五个论点，即唯一完全自然的关系是时空关系。
 
@@ -138,7 +138,7 @@
 
 > [关于时空点的补充说明](https://plato.stanford.edu/entries/lewis-metaphysics/spacetime-points.html)
 
-第三，根据一个合理的关于存在的_非基本实体_的故事，几乎可以确定在大卫·刘易斯的观点中，存在的一切都是由简单的部分（它们本身没有适当的部分）组成的。刘易斯在这个问题上也持不可知论立场：他认为至少在认识上存在这样的可能性，即存在一种“gunk”：每个适当部分本身都有一个适当的部分（例如参见刘易斯 1991 年）。刘易斯对于这种可能性的地位（特别是它是否仅仅是认识上的？）以及对于他在形而上学中各种立场的潜在影响说得相对较少。为了保持简单，我将在本主要论文的剩余部分中不考虑它。
+第三，根据一个合理的关于存在的_非基本实体_的故事，几乎可以确定在大卫 · 刘易斯的观点中，存在的一切都是由简单的部分（它们本身没有适当的部分）组成的。刘易斯在这个问题上也持不可知论立场：他认为至少在认识上存在这样的可能性，即存在一种“gunk”：每个适当部分本身都有一个适当的部分（例如参见刘易斯 1991 年）。刘易斯对于这种可能性的地位（特别是它是否仅仅是认识上的？）以及对于他在形而上学中各种立场的潜在影响说得相对较少。为了保持简单，我将在本主要论文的剩余部分中不考虑它。
 
 第四，刘易斯认为他的休谟随附性论命题最多只是有偶然性的真理。当然，鉴于他承认（形而上学上的）完全自然的非时空关系的可能性，他应该将休谟随附性论视为至多是有偶然性的。但他提出了一些完全不同类型的理由来支持这样做。这些理由并不特别好，所以我们将跳过它们；但请参阅关于
 
@@ -156,7 +156,7 @@
 
 > [物理量](https://plato.stanford.edu/entries/lewis-metaphysics/physical-magnitudes.html)
 
-对于大卫·刘易斯关于基本本体论的构想，人们对其的担忧有第二个重要来源，即其中模态概念的作用——或者更确切地说，缺乏作用。这种担忧有两个方面。首先，有人可能认为，至少有一些表征现实的基本属性和关系具有本体论基础的模态方面。以质量为例：有人可能认为，世界中只有两个质量粒子相互加速远离是形而上学上不可能的，而这种不可能性某种程度上源于质量本身的性质。
+对于大卫 · 刘易斯关于基本本体论的构想，人们对其的担忧有第二个重要来源，即其中模态概念的作用——或者更确切地说，缺乏作用。这种担忧有两个方面。首先，有人可能认为，至少有一些表征现实的基本属性和关系具有本体论基础的模态方面。以质量为例：有人可能认为，世界中只有两个质量粒子相互加速远离是形而上学上不可能的，而这种不可能性某种程度上源于质量本身的性质。
 
 其次，有人可能认为，陈述关于现实基本结构的论题与陈述现实如何可能的论题是两回事。实际上，我猜想，大多数形而上学家都认为这是显而易见的概念上的不同任务。当然，人们的观点关于存在的事物以及它们的样子将对人们关于存在的可能性以及可能性的样子的观点产生影响（最明显的是，因为事物可能是它们的样子；但也可能存在更有趣和微妙的联系）；然而，阐述前者观点的项目并不自动完成阐述后者观点的项目。
 
@@ -164,9 +164,9 @@
 
 ## 8. 对应理论
 
-到目前为止，本条目侧重于大卫·刘易斯形而上学的一般形式。在本节中，我们转向刘易斯更具体的形而上学学说之一：对应理论。我们将从理论的概述开始，回顾其动机、一些应用，然后转向批评和异议。在一个附加文档中，我们将回顾量化模态逻辑的对应理论语义学。
+到目前为止，本条目侧重于大卫 · 刘易斯形而上学的一般形式。在本节中，我们转向刘易斯更具体的形而上学学说之一：对应理论。我们将从理论的概述开始，回顾其动机、一些应用，然后转向批评和异议。在一个附加文档中，我们将回顾量化模态逻辑的对应理论语义学。
 
-对应理论最初是在大卫·刘易斯（1968）中作为关于可能世界及其居民的形式理论引入的，但这个标签很快被用来指代一种对跨世界身份和模态或时间话语解释的宽泛定义方法。对于模态情况，其核心思想是，像“乔·拜登可能是非物质的”这样的 de re 模态主张被理解为在某个可能世界上，某个在某些方面与乔·拜登足够相似的人——拜登的对应者——是非物质的。因此，“拜登必然是物质的”被理解为说在所有世界上，拜登的所有对应者都是物质的。
+对应理论最初是在大卫 · 刘易斯（1968）中作为关于可能世界及其居民的形式理论引入的，但这个标签很快被用来指代一种对跨世界身份和模态或时间话语解释的宽泛定义方法。对于模态情况，其核心思想是，像“乔 · 拜登可能是非物质的”这样的 de re 模态主张被理解为在某个可能世界上，某个在某些方面与乔 · 拜登足够相似的人——拜登的对应者——是非物质的。因此，“拜登必然是物质的”被理解为说在所有世界上，拜登的所有对应者都是物质的。
 
 虽然对应论是刘易斯的发明，但它也是其时代的产物，即 20 世纪 60 年代，当量化的模态逻辑“在空气中”并且对本质主义和所谓的跨世界同一性问题产生了关注（例如，奎因 1953 年，欣蒂卡 1962 年）\[7]。然而，对应论的方法与莱布尼兹关于本质和偶然属性的某些观点有着惊人的相似之处\[8]（参见蒙达多里（1973 年）对莱布尼兹的对应论解释）。
 
@@ -174,13 +174,13 @@
 
 刘易斯假设普通语言中的模态陈述可以通过对可能世界和个体的量化来进行分析：“有可能存在说话的驴”被分析为“存在可能的世界，在这些世界上存在说话的驴”。刘易斯的模态实在主义承诺将这转化为对模态性的还原分析。关于某个可能世界上是或不是这样的陈述最终被还原为非模态陈述。例如，存在一个有说话的驴的世界意味着存在一个时空隔离的事物聚合体，其中有一个真正的说话的驴作为一部分。
 
-现在对于关于某个特定个体可能或必然发生的 de re 陈述，出现了一个问题。由于乔·拜登可能有三只手臂，所以应该存在一个世界，他在那个世界里有三只手臂。但是如果拜登是另一个世界的一部分，那么那个世界和我们的世界将有一个共同的部分。刘易斯否认不同的世界可以共享部分。即使我们允许有重叠的世界，很难看出另一个世界如何能够将一个有三只手臂的拜登作为一部分，因为这一部分也是我们的世界的一部分，在那里拜登有两只手臂（参见刘易斯 1986e，199ff.）。因此，“拜登可能有三只手臂”并不是被分析为陈述存在一个包含有三只手臂的拜登的世界。相反，它表明存在一个包含有一个有三只手臂的乔·拜登的代表或对应物的世界。
+现在对于关于某个特定个体可能或必然发生的 de re 陈述，出现了一个问题。由于乔 · 拜登可能有三只手臂，所以应该存在一个世界，他在那个世界里有三只手臂。但是如果拜登是另一个世界的一部分，那么那个世界和我们的世界将有一个共同的部分。刘易斯否认不同的世界可以共享部分。即使我们允许有重叠的世界，很难看出另一个世界如何能够将一个有三只手臂的拜登作为一部分，因为这一部分也是我们的世界的一部分，在那里拜登有两只手臂（参见刘易斯 1986e，199ff.）。因此，“拜登可能有三只手臂”并不是被分析为陈述存在一个包含有三只手臂的拜登的世界。相反，它表明存在一个包含有一个有三只手臂的乔 · 拜登的代表或对应物的世界。
 
 什么使一个对象成为另一个对象的对应物？根据刘易斯的观点，这是一种在某些方面具有定性相似性的问题：拜登的对应物是一个在相关方面与实际拜登足够相似的个体，并且比其所在世界中的任何其他对象更相似。有时刘易斯会省略第二个子句（例如刘易斯 1968，114-115），并且在某一点上他仅仅暗示（没有解释）对应关系“通常涉及相似性”（刘易斯 1986e，8）。
 
 相似性的相关方面不一定与直觉判断的整体相似性相匹配（刘易斯 1986e，254f.），并且它们可以是高度外在的。例如，它们可能高度重视某人的起源（刘易斯 1986e，244f.和 252），或者与认识主体的因果联系（刘易斯 1983e）。
 
-大卫·刘易斯认为，并没有一种一劳永逸的正确答案来确定哪些相似之处是相关的。他拒绝了事物具有原始本质的观念，这些本质在某种程度上决定或限制了它们的可能性。相反，我们最终决定了我们优先考虑哪些相似之处。通常这个选择并没有完全确定，使得对应关系模糊且依赖于语境（参见刘易斯 1971 年，209-11 页；刘易斯 1973b 年，41 页；刘易斯 1983d 年，42-3 页；刘易斯 1986e 年，251-5 页；刘易斯 2003 年，27-8 页）。
+大卫 · 刘易斯认为，并没有一种一劳永逸的正确答案来确定哪些相似之处是相关的。他拒绝了事物具有原始本质的观念，这些本质在某种程度上决定或限制了它们的可能性。相反，我们最终决定了我们优先考虑哪些相似之处。通常这个选择并没有完全确定，使得对应关系模糊且依赖于语境（参见刘易斯 1971 年，209-11 页；刘易斯 1973b 年，41 页；刘易斯 1983d 年，42-3 页；刘易斯 1986e 年，251-5 页；刘易斯 2003 年，27-8 页）。
 
 例如，刘易斯提出，当我们谈论人时，我们通常要求对应物在起源上非常相似，同时允许不同的职业和寿命。在这样的语境中，我们可能会判断拜登可能在婴儿时期去世。然而，在其他语境中，我们可能会想知道如果拜登是由不同的父母所生，情况会是怎样的，从而放宽了相似起源的要求（参见刘易斯 1973b 年，41 页）。
 
@@ -202,9 +202,9 @@
 
 到目前为止，我们已经集中讨论了形而上学的可能性。对应理论的核心思想也被应用于其他内涵结构。
 
-例如，Sider（1996，2001）和 Hawley（2001）提出了一种时间应用，即“乔·拜登赢得了选举”被分析为说过去的拜登的对应物赢得了选举。这里假设时间对应关系涉及短暂的时间“阶段”（参见 Schwarz 2014 提供的另一种观点），并且不涉及定性相似性。与模态情况类似，这种方法被宣传为解决一系列难题，并解释时间判断的模糊性和上下文依赖性。Williams（2008）考虑在空间上采用相同的视角。
+例如，Sider（1996，2001）和 Hawley（2001）提出了一种时间应用，即“乔 · 拜登赢得了选举”被分析为说过去的拜登的对应物赢得了选举。这里假设时间对应关系涉及短暂的时间“阶段”（参见 Schwarz 2014 提供的另一种观点），并且不涉及定性相似性。与模态情况类似，这种方法被宣传为解决一系列难题，并解释时间判断的模糊性和上下文依赖性。Williams（2008）考虑在空间上采用相同的视角。
 
-几位作者（包括大卫·刘易斯）建议将对应理论应用于认识模态。考虑来自 Ninan（2018）的以下难题。一场彩票只有两张票，一张蓝色，一张红色。这些票分别编号为 1 和 2，但我们不知道哪个颜色与哪个编号相对应。我们知道蓝色的票赢了，但我们不知道获胜票的编号。所以，票 1 可能是获胜者，票 2 也可能是。然而，即使其中一张是红色的票，似乎并不意味着红色的票可能是获胜者。Ninan 认为，不同的对应关系是通过不同的选票方式引发的。（另见 Lewis 1983e，Stalnaker 1986，Shaw 2015，Rabern 2018 等。）
+几位作者（包括大卫 · 刘易斯）建议将对应理论应用于认识模态。考虑来自 Ninan（2018）的以下难题。一场彩票只有两张票，一张蓝色，一张红色。这些票分别编号为 1 和 2，但我们不知道哪个颜色与哪个编号相对应。我们知道蓝色的票赢了，但我们不知道获胜票的编号。所以，票 1 可能是获胜者，票 2 也可能是。然而，即使其中一张是红色的票，似乎并不意味着红色的票可能是获胜者。Ninan 认为，不同的对应关系是通过不同的选票方式引发的。（另见 Lewis 1983e，Stalnaker 1986，Shaw 2015，Rabern 2018 等。）
 
 对应理论的替代方案是将普通个体的术语解释为从世界到个体的（部分）函数，或者是不同世界上的个体的聚合体；像“拜登可能有三只手臂”这样的模态断言被解释为说“拜登”所分配的函数在某个世界上具有三只手臂的值，或者“拜登”所分配的聚合体在某个世界上有一个位于其中的三只手臂部分。这种观点的时间类比（带有聚合体）是刘易斯对时间话语的首选解释。在刘易斯（1986f，244）中，他支持了类似的观点，但请参阅 Bernstein（2014），Kaiserman（2017）和 McDonnell（2016）以了解更倾向于对应理论处理的原因。\[9]
 
@@ -216,9 +216,9 @@
 
 刘易斯的观点可能存在一个限制，即他的对应关系被假定为一种定性相似关系。费尔德曼（1971 年）指出，“我本来可以与我实际上完全不同”在直觉上是正确的，这似乎需要具有非相似的对应物。刘易斯回应说，涉及到两种相似关系：在相关的世界中，有一个在某些方面（也许是起源方面）与我相似，但在其他方面与我不相似的人（参见刘易斯 1983d，43；刘易斯 1986e，230-235）。海勒（2005 年），斯塔尔纳克（1986 年）和法拉（2009 年）提出了进一步的考虑，反对用定性相似性来分析对应关系。
 
-大卫·刘易斯原始论述的另一个局限性是它不允许对不同个体的对应选择施加约束。假设我们认为伊丽莎白二世本质上是乔治六世的女儿，并且假设存在一些世界，在这些世界中，伊丽莎白和乔治都有多个对应体，也许是在不断重复的时间的不同时期。那么，某个伊丽莎白的对应体就不会是某个乔治的对应体的女儿。根据刘易斯 1968 年的解释，“伊丽莎白可能不是乔治的女儿”就成为真实的，与我们的假设相矛盾。这个问题在哈森（1979）中提出。哈森提出了一种基于对应函数集合的修订分析。刘易斯（1983d，44-5）则建议我们应该将“伊丽莎白可能不是乔治的女儿”理解为关于伊丽莎白和乔治的一对（或融合）的 de re 主张。哈森（2012）认为，这两种提议都没有完全避免这个问题。
+大卫 · 刘易斯原始论述的另一个局限性是它不允许对不同个体的对应选择施加约束。假设我们认为伊丽莎白二世本质上是乔治六世的女儿，并且假设存在一些世界，在这些世界中，伊丽莎白和乔治都有多个对应体，也许是在不断重复的时间的不同时期。那么，某个伊丽莎白的对应体就不会是某个乔治的对应体的女儿。根据刘易斯 1968 年的解释，“伊丽莎白可能不是乔治的女儿”就成为真实的，与我们的假设相矛盾。这个问题在哈森（1979）中提出。哈森提出了一种基于对应函数集合的修订分析。刘易斯（1983d，44-5）则建议我们应该将“伊丽莎白可能不是乔治的女儿”理解为关于伊丽莎白和乔治的一对（或融合）的 de re 主张。哈森（2012）认为，这两种提议都没有完全避免这个问题。
 
-对于对应理论最常见的反对意见可能是它引发了一个异常和违反直觉的模态逻辑。刘易斯（1968）提供了从量化模态逻辑语言到外延一阶语言的翻译规则。这些翻译规则使得“同一性的必然性”和“差异性的必然性”无效，以及诸如□（A ∧ B）→ □A 之类的熟悉的模态逻辑原理。相反，它们确实验证了有争议的原理，如逆巴尔坎公式和“存在的必然性”。也有人认为这些规则不能扩展到具有良好行为的“实际”运算符的语言中。
+对于对应理论最常见的反对意见可能是它引发了一个异常和违反直觉的模态逻辑。刘易斯（1968）提供了从量化模态逻辑语言到外延一阶语言的翻译规则。这些翻译规则使得“同一性的必然性”和“差异性的必然性”无效，以及诸如 □（A ∧ B）→ □A 之类的熟悉的模态逻辑原理。相反，它们确实验证了有争议的原理，如逆巴尔坎公式和“存在的必然性”。也有人认为这些规则不能扩展到具有良好行为的“实际”运算符的语言中。
 
 这些是否是真正的问题是一个有争议的问题。事实上，数理逻辑领域的作者们开始欣赏对应理论对模态逻辑的解释，因为它克服了标准克里普克语义的某些问题。还有一些重新表述刘易斯的翻译规则的方法，以避免所谓的问题。请参阅附加文档：
 
@@ -226,7 +226,7 @@
 
 有关详细信息，请参阅。
 
-大卫·刘易斯本人对保留传统的模态逻辑原则不感兴趣。他始终对用方框和钻石形式化模态话语的前景持怀疑态度（参见例如刘易斯 1983d，45；刘易斯 1986e，12-13）。因此，他拒绝了这些反对意见中的前提，即“方框和钻石的语言提供了对普通模态思维的良好规范化”（刘易斯 1986e，12）。
+大卫 · 刘易斯本人对保留传统的模态逻辑原则不感兴趣。他始终对用方框和钻石形式化模态话语的前景持怀疑态度（参见例如刘易斯 1983d，45；刘易斯 1986e，12-13）。因此，他拒绝了这些反对意见中的前提，即“方框和钻石的语言提供了对普通模态思维的良好规范化”（刘易斯 1986e，12）。
 
 ## Bibliography
 
@@ -270,28 +270,28 @@
 * Armstrong, D. M., 1978a, *Universals and Scientific Realism: Nominalism and Realism*, Vol I., Cambridge: Cambridge University Press
 * –––, 1978b, *Universals and Scientific Realism: A Theory of Universals*, Volume II, Cambridge: Cambridge University Press
 * –––, 1980, “Identity Through Time”, in Peter van Inwagen (ed.), *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: Reidel.
-* Bacon, Andrew, 2014, “Representing Counterparts”, *The Australasian Journal of Logic*, 11(2): 90–113. doi:10.26686/ajl.v11i2.2143
-* Bauer, Sebastian, and Wansing, Heinrich, 2002, “Consequence, Counterparts and Substitution:” *Monist*, 85(4): 483–497. doi:10.5840/monist200285434
+* Bacon, Andrew, 2014, “Representing Counterparts”, *The Australasian Journal of Logic*, 11(2): 90–113. doi: 10.26686/ajl.v11i2.2143
+* Bauer, Sebastian, and Wansing, Heinrich, 2002, “Consequence, Counterparts and Substitution:” *Monist*, 85(4): 483–497. doi: 10.5840/monist200285434
 * Beebee, Helen, and Fisher, Anthony (eds.), 2020, *Philosophical Letters of David K. Lewis*, 2 volumes, New York: Oxford University Press.
 * Braüner, Torben, and Ghilardi, Silvio, 2007, “First-Order Modal Logic”, in *Handbook of Modal Logic*, Amsterdam: Elsevier, pp. 549–620.
 * Bricker, Phillip, 1993, “The Fabric of Space: Intrinsic vs. Extrinsic Distance Relations”, *Midwest Studies in Philosophy*, 18: 271–294.
 * –––, 2006, “David Lewis: *On the Plurality of Worlds*”, in *Central Works of Philosophy* (Volume 5 The Twentieth Century: Quine and After), Durham: Acumen Publishing, \[[Bricker 2006 preprint available online](http://blogs.umass.edu/bricker/files/2014/08/Bricker-Lewiss\On\the-Plurality\of\Worlds.pdf)].
-* Bernstein, Sara, 2014, “Omissions as Possibilities”, *Philosophical Studies*, 167(1): 1–23. doi:10.1007/s11098-013-0229-0
+* Bernstein, Sara, 2014, “Omissions as Possibilities”, *Philosophical Studies*, 167(1): 1–23. doi: 10.1007/s11098-013-0229-0
 * Callender, Craig, 2001. “Humean Supervenience and Rotating Homogeneous Matter”, *Mind*, 110: 25–44.
 * Campbell, Keith, 1990, *Abstract Particulars*, Oxford: Blackwell.
 * Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36(2): 106–9.
 * Chisholm, Roderick, 1967, “Identity Through Possible Worlds: Some Questions”, *Noûs*, 1: 1–8.
 * Corsi, Giovanna, 2007, “Necessary for”, in *Logic, Methodology and Philosophy of Science: Proceedings of the Thirteenth International Congress*, London: College Publications.
 * Cresswell, Max J., 2004, “Adequacy Conditions for Counterpart Theory”, *Australasian Journal of Philosophy*, 82: 28–41.
-* Fara, Delia Graff, 2009, “Dear Haecceitism”, *Erkenntnis*, 70 (3): 285–97. doi:10.1007/s10670-008-9149-3
-* –––, 2012, “Possibility Relative to a Sortal”, in Karen Bennett & Dean W. Zimmerman (eds.), *Oxford Studies in Metaphysics* (Volume 7), Oxford: Oxford University Press, pp. 2–40, doi:10.1093/acprof:oso/9780199659081.003.0001
+* Fara, Delia Graff, 2009, “Dear Haecceitism”, *Erkenntnis*, 70 (3): 285–97. doi: 10.1007/s10670-008-9149-3
+* –––, 2012, “Possibility Relative to a Sortal”, in Karen Bennett & Dean W. Zimmerman (eds.), *Oxford Studies in Metaphysics* (Volume 7), Oxford: Oxford University Press, pp. 2–40, doi: 10.1093/acprof: oso/9780199659081.003.0001
 * Fara, Michael, and Williamson, Timothy, 2005, “Counterparts and Actuality”, *Mind*, 114: 1–30.
 * Feldman, Fred, 1971, “Counterparts”, *Journal of Philosophy*, 68: 406–9.
-* Fitting, Melvin, 2004, “First-Order Intensional Logic”, *Annals of Pure and Applied Logic*, 127(1-3): 171–193. doi:10.1016/j.apal.2003.11.014
-* Forbes, Graeme, 1982, “Canonical Counterpart Theory”, *Analysis*, 42(1): 33–37. doi:10.1093/analys/42.1.33
+* Fitting, Melvin, 2004, “First-Order Intensional Logic”, *Annals of Pure and Applied Logic*, 127(1-3): 171–193. doi: 10.1016/j.apal.2003.11.014
+* Forbes, Graeme, 1982, “Canonical Counterpart Theory”, *Analysis*, 42(1): 33–37. doi: 10.1093/analys/42.1.33
 * –––, 1985, *The Metaphysics of Modality*, Oxford: Oxford University Press.
-* Ghilardi, Silvio, 1991, “Incompleteness Results in Kripke Semantics”, *Journal of Symbolic Logic*, 56(2): 517–538. doi:10.2307/2274697
-* –––, 1992, “Quantified Extensions of Canonical Propositional Intermediate Logics”, *Studia Logica*, 51(2): 195–214. doi:10.1007/BF00370113
+* Ghilardi, Silvio, 1991, “Incompleteness Results in Kripke Semantics”, *Journal of Symbolic Logic*, 56(2): 517–538. doi: 10.2307/2274697
+* –––, 1992, “Quantified Extensions of Canonical Propositional Intermediate Logics”, *Studia Logica*, 51(2): 195–214. doi: 10.1007/BF00370113
 * –––, 2001, “Substitution, Quantifiers and Identity in Modal Logic”, in E. Morscher & A. Hieke (eds.), *New Essays in Free Logic*, Dordrecht: Kluwer, pp. 87–115.
 * Ghilardi, Silvio, and Meloni, Giancarlo, 1988, “Modal and Tense Predicate Logic: Models in Presheaves and Categorical Conceptualization”, in *Categorical Algebra and Its Applications*, Francis Borceux (ed.), Berlin: Springer, pp. 130–142.
 * –––, 1991, “Philosophical and Mathematical Investigations in First-Order Modal Logic”, in *Problemi Fondazionali in Teoria Del Significato. Atti Del Convegno Di Pontignano*, pp. 77–107, Firenze: Olsckhi.
@@ -300,15 +300,15 @@
 * Hazen, Allen P., 1977, *The Foundations of Modal Logic*, Ph.D. Thesis, University of Pittsburgh.
 * –––, 1979, “Counterpart-Theoretic Semantics for Modal Logic”, *Journal of Philosophy*, 76: 319–338.
 * –––, 2012, “Reflections on Counterpart Theory”, in *Oxford Studies in Metaphysics* (Volume 7), Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 41–64.
-* Heller, Mark, 1998, “Property Counterparts in Ersatz Worlds”, *The Journal of Philosophy*, 95(6): 293–316. doi:10.2307/2564561
-* –––, 2005, “Anti-Essentialism and Counterpart Theory”, *The Monist*, 88(4): 600–618. doi:10.5840/monist200588428
+* Heller, Mark, 1998, “Property Counterparts in Ersatz Worlds”, *The Journal of Philosophy*, 95(6): 293–316. doi: 10.2307/2564561
+* –––, 2005, “Anti-Essentialism and Counterpart Theory”, *The Monist*, 88(4): 600–618. doi: 10.5840/monist200588428
 * Hintikka, Jaakko, 1962, *Knowledge and Belief: An Introduction to the Logic of the Two Notions*, Ithaca: Cornell University Press.
 * Hughes, G. E., and Cresswell, Max J., 1996, *A New Introduction to Modal Logic*, London and New York: Routledge.
 * Hunter, Graeme, and Seager, William, 1981, “The Discreet Charm of Counterpart Theory”, *Analysis*, 41(2): 73–76.
-* Kaiserman, Alex, 2017. “Causes and Counterparts”, *Australasian Journal of Philosophy*, 95 (1): 17–28. doi:10.1080/00048402.2016.1157695
+* Kaiserman, Alex, 2017. “Causes and Counterparts”, *Australasian Journal of Philosophy*, 95 (1): 17–28. doi: 10.1080/00048402.2016.1157695
 * Kaplan, David, 1979. “Transworld Heir Lines”, in *The Possible and the Actual*, edited by Michael J. Loux. Cornell University Press.
 * Karmo, Toomas, 1983. “Contingent Non-Identity”, *Australasian Journal of Philosophy*, 61 (2): 185–87.
-* Kocurek, Alexander W., 2018, “Counteridenticals”, *The Philosophical Review*, 127(3): 323–369. doi:10.1215/00318108-6718783
+* Kocurek, Alexander W., 2018, “Counteridenticals”, *The Philosophical Review*, 127(3): 323–369. doi: 10.1215/00318108-6718783
 * Kracht, Markus, and Kutz, Oliver, 2002, “The Semantics of Modal Predicate Logic I. Counterpart Frames”, in Frank Wolter, Heinrich Wansing, Maarten de Rijke, & Michael Zakharayaschev (eds.), *Advances in Modal Logic* (Volume 3), World Scientific Publishing Company.
 * –––, 2005, “The Semantics of Modal Predicate Logic II. Modal Individuals Revisited”, in Reinhard Kahle (ed.), *Intensionality*, Los Angeles: A. K. Peters.
 * –––, 2007, “Logically Possible Worlds and Counterpart Semantics for Modal Logic”, in Dale Jacquette (ed.), *Philosophy of Logic*, Amsterdam: North Holland, pp. 943–995, .
@@ -320,38 +320,38 @@
 * Langton, Rae and David Lewis, 1998, “Defining ‘Intrinsic’”, *Philosophy and Phenomenological Research*, 58: 333–345; reprinted in Lewis 1999: 116–132.
 * Maudlin, Tim, 2007a, “Suggestions from Physics for Deep Metaphysics”, in T. Maudlin 2007b: 78–103.
 * –––, 2007b, *The Metaphysics Within Physics*, Oxford: Oxford University Press.
-* McDonnell, Neil, 2016, “Events and Their Counterparts”, *Philosophical Studies*, 173 (5): 1291–1308. doi:10.1007/s11098-015-0547-5
+* McDonnell, Neil, 2016, “Events and Their Counterparts”, *Philosophical Studies*, 173 (5): 1291–1308. doi: 10.1007/s11098-015-0547-5
 * Mondadori, Fabrizio, 1973, “Reference, Essentialism, and Modality in Leibniz’s Metaphysics”, *Studia Leibnitiana*, no. H. 1: 74–101.
-* Ninan, Dilip, 2018, “Quantification and Epistemic Modality”, *The Philosophical Review*, 127(4): 433–485. doi:10.1215/00318108-6973010
+* Ninan, Dilip, 2018, “Quantification and Epistemic Modality”, *The Philosophical Review*, 127(4): 433–485. doi: 10.1215/00318108-6973010
 * Plantinga, Alvin, 1974. *The Nature of Necessity*. Oxford: Oxford University Press.
 * –––. 1976. “Actualism and Possible Worlds”, *Theoria*, 42: 139–60.
-* Rabern, Brian, 2018. “Binding Bound Variables in Epistemic Contexts”, *Inquiry*, published online 18 May 2018. doi:10.1080/0020174X.2018.1470568
+* Rabern, Brian, 2018. “Binding Bound Variables in Epistemic Contexts”, *Inquiry*, published online 18 May 2018. doi: 10.1080/0020174X.2018.1470568
 * Ramachandran, Murali, 1989, “An Alternative Translation Scheme for Counterpart Theory”, *Analysis*, 49: 131–141.
-* –––, 1998, “Sortal Modal Logic and Counterpart Theory”, *Australasian Journal of Philosophy*, 76(4): 553–565. doi:10.1080/00048409812348671
+* –––, 1998, “Sortal Modal Logic and Counterpart Theory”, *Australasian Journal of Philosophy*, 76(4): 553–565. doi: 10.1080/00048409812348671
 * –––, 2008, “Kripkean Counterpart Theory”, *Polish Journal of Philosophy*, 2: 89–106.
-* –––, 2020. “Chisholm’s Modal Paradox(es) and Counterpart Theory 50 Years On”, *Logic and Logical Philosophy*, 29(4): 571–92. doi:10.12775/LLP.2020.008
+* –––, 2020. “Chisholm’s Modal Paradox(es) and Counterpart Theory 50 Years On”, *Logic and Logical Philosophy*, 29(4): 571–92. doi: 10.12775/LLP.2020.008
 * Robinson, Denis, 1982, “Re-Identifying Matter”, *The Philosophical Review*, 91: 317–41.
-* Russell, J. S., 2013, “Actuality for Counterpart Theorists”, *Mind*, 122(485): 85–134. doi:10.1093/mind/fzt037
+* Russell, J. S., 2013, “Actuality for Counterpart Theorists”, *Mind*, 122(485): 85–134. doi: 10.1093/mind/fzt037
 * Salmon, Nathan, 1981. *Reference and Essence*. Princeton: Princeton University Press.
 * Schurz, Gerhard, 1997, *The Is-Ought Problem. A Study in Philosophical Logic* (Volume 1), Dordrecht: Kluwer.
 * Schwarz, Wolfgang, 2012, “How Things Are Elsewhere: Adventures in Counterpart Semantics”, in G. Russell & G. Restall (eds.), *New Waves in Philosophical Logic*, Basingstoke: Palgrave MacMillan, pp. 8–29, .
-* –––, 2014, “Counterpart Theory and the Paradox of Occasional Identity”, *Mind*, 123(492): 1057–1094. doi:10.1093/mind/fzu143
-* Shaw, James R., 2015. “De Re Belief and Cumming’s Puzzle”, *Analytic Philosophy*, 56 (1): 45–74. doi:10.1111/phib.12057
+* –––, 2014, “Counterpart Theory and the Paradox of Occasional Identity”, *Mind*, 123(492): 1057–1094. doi: 10.1093/mind/fzu143
+* Shaw, James R., 2015. “De Re Belief and Cumming’s Puzzle”, *Analytic Philosophy*, 56 (1): 45–74. doi: 10.1111/phib.12057
 * Sider, Theodore, 1996, “All the World’s a Stage”, *Australasian Journal of Philosophy*, 74: 433–53.
 * –––, 2001, *Four-Dimensionalism*, Oxford: Clarendon Press.
 * –––, 2002, “The Ersatz Pluriverse”, *Journal of Philosophy*, 99: 279–315.
-* Stalnaker, Robert, 1986, “Counterparts and Identity”, *Midwest Studies in Philosophy*, 11(1): 121–40. doi:10.1111/j.1475-4975.1986.tb00490.x
+* Stalnaker, Robert, 1986, “Counterparts and Identity”, *Midwest Studies in Philosophy*, 11(1): 121–40. doi: 10.1111/j.1475-4975.1986.tb00490.x
 * –––, 1994, “The Interaction of Modality with Quantification and Identity”, in W. Sinnott-Armstrong, D. Raffman, & N. Asher (eds.), *Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus*, Cambridge: Cambridge University Press, pp. 12–28.
 * –––, 1996, “Varieties of Supervenience”, *Philosophical Perspectives*, 10: Metaphysics: 221–241.
 * –––, 2012, *Mere Possibilities*, Princeton, NJ: Princeton University Press.
 * Thomson, Judith, 1998. “The Statue and the Clay”, *Noûs*, 32: 149–173.
-* Torza, Alessandro, 2011, “Models for Counterparts”, *Axiomathes*, 21(4): 553–579. doi:10.1007/s10516-010-9120-1
+* Torza, Alessandro, 2011, “Models for Counterparts”, *Axiomathes*, 21(4): 553–579. doi: 10.1007/s10516-010-9120-1
 * Quine, Willard van Orman, 1953, “Reference and Modality”, In *From a Logical Point of View*, 139–59. Cambridge (Mass.): Harvard University Press.
 * van Benthem, Johan, 1983, *Modal Logic and Classical Logic*, Naples: Bibliopolis.
-* van Rooij, Robert, 2006, *Attitudes and Changing Contexts*, Ph.D. Dissertation, Heidelberg: Springer Netherlands. doi:10.1007/1-4020-4177-2
+* van Rooij, Robert, 2006, *Attitudes and Changing Contexts*, Ph.D. Dissertation, Heidelberg: Springer Netherlands. doi: 10.1007/1-4020-4177-2
 * Varzi, Achille C., 2020, “Counterpart Theories for Everyone”, *Synthese*, 197(11): 4691–4715.
-* Wang, Jennifer, 2015, “Actualist Counterpart Theory”, *The Journal of Philosophy*, 112(8): 417–441. doi::10.5840/jphil2015112826.
-* Williams, J. Robert G., 2008, “Gavagai Again”, *Synthese*, 164:235–259
+* Wang, Jennifer, 2015, “Actualist Counterpart Theory”, *The Journal of Philosophy*, 112(8): 417–441. doi:: 10.5840/jphil2015112826.
+* Williams, J. Robert G., 2008, “Gavagai Again”, *Synthese*, 164: 235–259
 * Williams, Donald, 1953, “On the Elements of Being”, *The Review of Metaphysics*, 7: 3–192.
 * Woodward, Richard, 2017, *Ersatz Counterparts* (Oxford Studies in Metaphysics), Oxford: Oxford University Press.
 * Woollaston, Lin, 1994, “Counterpart Theory as a Semantics for Modal Logic”, *Logique et Analyse*, 147/148: 255–263.

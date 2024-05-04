@@ -10,11 +10,11 @@
 
 ## 1. 历史
 
-对适应主义的辩论通常可以追溯到 1979 年史蒂芬·古尔德（Stephen Gould）和理查德·勒文汀（Richard Lewontin）的一篇论文，名为《圣马可的拱顶和庞格里斯范式：对适应主义计划的批评》（The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme），或简称为《拱顶》论文。这篇论文很重要，但实际上，这场辩论可以追溯到 19 世纪，亨利·贝茨（Henry Bates）、威廉·贝特森（William Bateson）、查尔斯·达尔文（Charles Darwin）、恩斯特·黑克尔（Ernst Haeckel）、赫伯特·斯宾塞（Herbert Spencer）、阿尔弗雷德·华莱士（Alfred Wallace）和奥古斯特·魏斯曼（August Weissman）等人的工作中已经出现了适应主义或多元主义的元素（有关历史背景，请参见迈尔 1982 年和鲁斯 2003 年的一些资料）。
+对适应主义的辩论通常可以追溯到 1979 年史蒂芬 · 古尔德（Stephen Gould）和理查德 · 勒文汀（Richard Lewontin）的一篇论文，名为《圣马可的拱顶和庞格里斯范式：对适应主义计划的批评》（The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme），或简称为《拱顶》论文。这篇论文很重要，但实际上，这场辩论可以追溯到 19 世纪，亨利 · 贝茨（Henry Bates）、威廉 · 贝特森（William Bateson）、查尔斯 · 达尔文（Charles Darwin）、恩斯特 · 黑克尔（Ernst Haeckel）、赫伯特 · 斯宾塞（Herbert Spencer）、阿尔弗雷德 · 华莱士（Alfred Wallace）和奥古斯特 · 魏斯曼（August Weissman）等人的工作中已经出现了适应主义或多元主义的元素（有关历史背景，请参见迈尔 1982 年和鲁斯 2003 年的一些资料）。
 
-在 20 世纪初，我们现在称之为适应主义和多元主义的观点被生物学家们提出。其中包括两位当时（以及现在）最有影响力的进化生物学家：罗纳德·费舍尔和西沃尔·赖特。费舍尔重要的 1930 年著作《自然选择的遗传学理论》的核心思想是自然选择是性状进化的唯一重要影响因素。这是适应主义的核心文本；事实上，它在大多数进化生物学家心中都有一个受人尊敬的地位，无论他们在适应主义上的立场如何（参见格拉芬 2003 年和木村 1983 年）。该书于 1958 年再版，1999 年再版，至今已获得 8400 多次期刊引用；其中 7600 多次发生在 1975 年以后（科学网，2010 年 6 月）。
+在 20 世纪初，我们现在称之为适应主义和多元主义的观点被生物学家们提出。其中包括两位当时（以及现在）最有影响力的进化生物学家：罗纳德 · 费舍尔和西沃尔 · 赖特。费舍尔重要的 1930 年著作《自然选择的遗传学理论》的核心思想是自然选择是性状进化的唯一重要影响因素。这是适应主义的核心文本；事实上，它在大多数进化生物学家心中都有一个受人尊敬的地位，无论他们在适应主义上的立场如何（参见格拉芬 2003 年和木村 1983 年）。该书于 1958 年再版，1999 年再版，至今已获得 8400 多次期刊引用；其中 7600 多次发生在 1975 年以后（科学网，2010 年 6 月）。
 
-西沃尔·赖特的多元主义进化观在几个地方提出，其中他的 1931 年论文《门德尔人群中的进化》和 1977 年的书籍《进化与人群遗传学，第 3 卷实验结果和进化推论》最为著名。该论文已获得 3400 多次引用；其中 3000 多次发生在 1975 年以后，而该书自 1977 年以来已获得 800 多次引用（科学网，2010 年 6 月）。
+西沃尔 · 赖特的多元主义进化观在几个地方提出，其中他的 1931 年论文《门德尔人群中的进化》和 1977 年的书籍《进化与人群遗传学，第 3 卷实验结果和进化推论》最为著名。该论文已获得 3400 多次引用；其中 3000 多次发生在 1975 年以后，而该书自 1977 年以来已获得 800 多次引用（科学网，2010 年 6 月）。
 
 这些费舍尔和赖特的作品是进化生物学领域的经典贡献。它们部分基于关于自然选择和非选择性力量对特征进化的影响的先前主张和反驳，特别是在像陆地蜗牛这样具有明显特征变异的物种中（参见米尔斯坦 2007a）。反过来，这些作品激发了持续的主张和反驳。20 世纪 70 年代中期引文的激增反映了生态学和进化学研究生物学家数量相对于 20 世纪 60 年代初期大幅增加，以及进化生物学在许多大学获得了独立的系所地位；这些变化部分是由于当时社会对污染和人类对环境影响的增加的认识和关注所引起的。在这一时期，有两个主要但主要是不连贯的科学发展推动了适应主义和多元主义观点的繁衍和完善。第一个是进化生态学中“战略性”主张的广泛发展，例如对于某一特征（例如能量分配给雄性和雌性后代）的情况，提供了关于为什么观察到的特征在局部上是最优的解释（例如汉密尔顿 1967；另见查诺夫 1982）。这样的主张仅仅引用自然选择作为解释该特征的重要因果解释。第二个发展是种群遗传学中的中性理论，它认为自然选择在决定自然种群中的 DNA 和蛋白质序列变异中起到很小或没有作用（例如木村 1968 年，1983 年）。前者的发展最初引起了很少的争议，而后者的发展立即引起了持久的争议（参见迪特里希 1994 年）。
 
@@ -76,9 +76,9 @@ Orzack 和 Sober（1994a，1994b，1996，2001）（另见 Orzack 2008）提出�
 
 他们的提议，“适应主义项目”，涉及组装特定类型的特征分析，以评估自然选择在生物界中的相对频率和重要性。为了对整体测试做出贡献，分析必须包括对最优模型的定量拟合评估以及对预测的种群内异质性拟合评估（请参见下文和 Orzack 和 Sober 1994a，了解为什么需要这些评估）。目前，很少有特征分析包含这些要素；经过广泛的文献回顾，Orzack 和 Sober 只确定了 Brockmann 和 Dawkins（1979），Brockmann *et al*。（1979），Orzack 和 Parker（1990）以及 Orzack *et al*。（1991）作为包含所需评估的分析。
 
-当然，要进行一个合奏测试，必须面对重要的方法论困难，包括如何选择要分析的人口和物种，以及需要多少个案例才能提供足够的测试。"适应主义项目"这个名字是对"人类基因组计划"的一种承认；两者都由一个调查小组进行，并要求提前组织知识收集的过程（而不仅仅是随意发生）。这是一个雄心勃勃的项目，但是可以实现，例如"基因组 10K"项目，也是一个努力创建前所未有的数据集合的项目（基因组 10K 2009）。
+当然，要进行一个合奏测试，必须面对重要的方法论困难，包括如何选择要分析的人口和物种，以及需要多少个案例才能提供足够的测试。"适应主义项目" 这个名字是对 "人类基因组计划" 的一种承认；两者都由一个调查小组进行，并要求提前组织知识收集的过程（而不仅仅是随意发生）。这是一个雄心勃勃的项目，但是可以实现，例如 "基因组 10K" 项目，也是一个努力创建前所未有的数据集合的项目（基因组 10K 2009）。
 
-合奏测试在生物学和进化生物学中有着悠久的先例，尽管似乎没有被事先组织过。例如，我们有一个合奏的结论，即"几乎所有"的物种形成都是通过地理隔离发生的（Mayr 1963），或者遗传密码"几乎"是普遍适用的（Crick 1968）。这两个主张可能都是正确的，但是目前产生这两个主张的经验知识，远远不能被认为是代表所有物种的样本。
+合奏测试在生物学和进化生物学中有着悠久的先例，尽管似乎没有被事先组织过。例如，我们有一个合奏的结论，即 "几乎所有" 的物种形成都是通过地理隔离发生的（Mayr 1963），或者遗传密码 "几乎" 是普遍适用的（Crick 1968）。这两个主张可能都是正确的，但是目前产生这两个主张的经验知识，远远不能被认为是代表所有物种的样本。
 
 经验适应主义既是关于自然选择在进化历史中相对频率的说法，也是关于自然选择克服限制和偶然性的能力的说法。Orzack 和 Sober（1994a，b）对经验适应主义真实性的集合测试对于任何给定的特征 T 都以以下方式结构化。为了对集合测试做出贡献，对特征的分析必须使调查人员能够确认关于自然选择能力的以下假设之一：
 
@@ -132,9 +132,9 @@ Orzack 和 Sober 提供了一种特定的协议，用于评估 O 是否适用于
 
 ## 5. 约束假设是否是适应性假设的真正竞争对手？
 
-在适应主义和最优模型的辩论中，一个问题是约束假设是否算作对适应性假设的真正替代。古尔德和勒文汀（1979）认为约束假设与适应性假设竞争，作为特征解释的解释。最优模型的支持者（例如，梅纳德·史密斯 1978 年，罗夫加登 1998 年）认为进化约束集是任何最优模型的背景承诺。约束集可能包括对变异和传递的发育和遗传约束，但是自然选择推动进化，因此解释了在这些约束下的特征。最优模型的支持者将约束视为适应性假设的前提。许多适应主义批评者担心这种对约束的处理低估了它们在解释进化形式和新颖性方面的作用。
+在适应主义和最优模型的辩论中，一个问题是约束假设是否算作对适应性假设的真正替代。古尔德和勒文汀（1979）认为约束假设与适应性假设竞争，作为特征解释的解释。最优模型的支持者（例如，梅纳德 · 史密斯 1978 年，罗夫加登 1998 年）认为进化约束集是任何最优模型的背景承诺。约束集可能包括对变异和传递的发育和遗传约束，但是自然选择推动进化，因此解释了在这些约束下的特征。最优模型的支持者将约束视为适应性假设的前提。许多适应主义批评者担心这种对约束的处理低估了它们在解释进化形式和新颖性方面的作用。
 
-发育过程可能限制了一个谱系可用的进化轨迹。梅纳德·史密斯等人（1985 年，第 266 页）将发育约束定义为“对变异表型的产生的偏见或由发育系统的结构、特征、组成或动力学引起的表型变异的限制”。最近，对约束的定义变得更加细致（例如，瓦格纳和阿尔滕伯格 1996 年，温瑟 2001 年）。
+发育过程可能限制了一个谱系可用的进化轨迹。梅纳德 · 史密斯等人（1985 年，第 266 页）将发育约束定义为“对变异表型的产生的偏见或由发育系统的结构、特征、组成或动力学引起的表型变异的限制”。最近，对约束的定义变得更加细致（例如，瓦格纳和阿尔滕伯格 1996 年，温瑟 2001 年）。
 
 争议的一部分可以通过区分“适应约束”和“形式约束”（Amundson 1994）来解决。在前者中，由于需要种群离开自适应景观中的局部最优点或“峰值”，因此某些轨迹的可能性较小。在这种情况下，自然选择限制了潜在的进化轨迹。在后者中，由于当前发育系统的结构，某些轨迹是不可用的。
 
@@ -165,7 +165,7 @@ Orzack 和 Sober 提供了一种特定的协议，用于评估 O 是否适用于
 * Amundson, R., 1988. “Logical adaptationism,” *Behavioral and Brain Sciences*, 11: 505–506.
 * –––, 1990. “Doctor Dennett and Doctor Pangloss: perfection and selection in psychology and Biology,” *Behavioral and Brain Sciences*, 13: 577–584.
 * –––, 1994. “Two concepts of constraint: adaptationism and the challenge from developmental biology,” *Philosophy of Science*, 61: 556–578.
-* Andrews, Paul W., Steven W. Gangestad, and Dan Matthews, 2002, “Adaptationism — how to carry out an exaptationist program”, *Behavioral and Brain Sciences*, 25(4): 489–553. doi:10.1017/S0140525X02000092 [[Andrews, Gangestad, and Matthews 2002 available online](http://primate.uchicago.edu/2002BBS.pdf)]
+* Andrews, Paul W., Steven W. Gangestad, and Dan Matthews, 2002, “Adaptationism — how to carry out an exaptationist program”, *Behavioral and Brain Sciences*, 25(4): 489–553. doi: 10.1017/S0140525X02000092 [[Andrews, Gangestad, and Matthews 2002 available online](http://primate.uchicago.edu/2002BBS.pdf)]
 * Beatty, J., and E. C. Desjardins, 2009. “Natural selection and history,” *Biology and Philosophy*, 24: 231–246.
 * Brandon, R., and M. D. Rausher, 1996. “Testing adaptationism: A comment on Orzack and Sober,” *The American Naturalist*, 148: 189–201.
 * Brockmann, H. J., and R. Dawkins, 1979. “Joint nesting in a digger wasp as an evolutionarily stable preadaptation to social life,” *Behaviour*, 71: 203–45.
@@ -201,7 +201,7 @@ Orzack 和 Sober 提供了一种特定的协议，用于评估 O 是否适用于
 * Graur, D., and W.-H. Li, 2000. *Fundamentals of molecular evolution*, Sunderland: Sinauer Associates.
 * Griffiths, P. E., 2009. “In What sense does ‘Nothing make sense except in the light of evolution’?,” *Acta Biotheoretica*, 57: 11–32.
 * Hamilton, W.D., 1967. “Extraordinary sex ratios,” *Science*, 156: 477–488.
-* Hammerstein, P., 1996. “Darwinian adaptation, population genetics and the streetcar theory of evolution,” *Journal of Mathematical Biology*, 34:511–32.
+* Hammerstein, P., 1996. “Darwinian adaptation, population genetics and the streetcar theory of evolution,” *Journal of Mathematical Biology*, 34: 511–32.
 * Hansen, T.F., J. Pienaar, and S.H. Orzack, 2008. “A comparative method for studying adaptation to a randomly evolving environment,” *Evolution*, 62: 1965–1977.
 * Hardy, I.C.W., 2002. *Sex ratios – concepts and research methods*, New York: Cambridge University Press.
 * Harvey, P. H., and M. D. Pagel., 1991. *The comparative method in evolutionary biology*, New York: Oxford University Press.

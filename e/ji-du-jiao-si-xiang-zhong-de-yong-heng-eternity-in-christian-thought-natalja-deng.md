@@ -22,7 +22,7 @@
 
 这个讨论继承了两场非常复杂的哲学辩论（关于上帝和时间）。鉴于话题的性质，或许不无道理地想知道在这里可以有效采用什么方法。
 
-由于主题是西方神论的上帝，所以存在来自西方经文的相关段落的限制。讨论的重点大部分集中在犹太-基督教，尤其是基督教传统上。（但请注意，特定的基督教教义，如三位一体论或化身论，虽然密切相关，但并非重点；有关这些内容，请参见，例如，（Le Poidevin 2023）。）圣经包含许多称上帝为永恒的段落，以及详细阐述上帝的永恒性的段落。例如，有段落告诉我们上帝的“年代无穷”（诗篇 102:27，所有引文均来自新标准本）以及上帝存在“从亘古到永远”（诗篇 90:2，103:17）。上帝说：“让天空的穹苍中有光，将白昼与黑夜分开，并让它们成为记号，用以分辨季节、日子和年岁”（创世记 1:14），以及“我是首先的，我也是末后的”（以赛亚书 44:6）。此外，我们被告知上帝在“世代以前”就向我们承诺了永生（提多书 1:2），并且“他在万有之先”（歌罗西书 1:17）。这些段落需要解释，这也是哲学工作的开始（请参见，例如，Leftow 2005，以制定基于这些段落的限制）。
+由于主题是西方神论的上帝，所以存在来自西方经文的相关段落的限制。讨论的重点大部分集中在犹太-基督教，尤其是基督教传统上。（但请注意，特定的基督教教义，如三位一体论或化身论，虽然密切相关，但并非重点；有关这些内容，请参见，例如，（Le Poidevin 2023）。）圣经包含许多称上帝为永恒的段落，以及详细阐述上帝的永恒性的段落。例如，有段落告诉我们上帝的“年代无穷”（诗篇 102: 27，所有引文均来自新标准本）以及上帝存在“从亘古到永远”（诗篇 90: 2，103: 17）。上帝说：“让天空的穹苍中有光，将白昼与黑夜分开，并让它们成为记号，用以分辨季节、日子和年岁”（创世记 1: 14），以及“我是首先的，我也是末后的”（以赛亚书 44: 6）。此外，我们被告知上帝在“世代以前”就向我们承诺了永生（提多书 1: 2），并且“他在万有之先”（歌罗西书 1: 17）。这些段落需要解释，这也是哲学工作的开始（请参见，例如，Leftow 2005，以制定基于这些段落的限制）。
 
 一个广泛的方法论选择涉及是否让一个人的神学承诺决定一个人对时间的形而上学甚至物理学的看法。一个显著的替代方案是做相反的事情，例如以我们最好的物理理论所暗示的时间形而上学观点作为出发点，然后推导出任何神学的含义。第三种方法可能涉及给予两极相等的重视，并试图在同一努力的一部分中得出关于时间和上帝的一致和充分的概念。在哲学和神学领域可能存在各种立场（有关相关方法论问题的明确反思，请参见，例如，Murray & Rea 2008: 47; Mullins 2016: Ch. 1）。一个广泛的方法论选择涉及是否让一个人的神学承诺决定一个人对时间的形而上学甚至物理学的看法。一个显著的替代方案是做相反的事情，例如以我们最好的物理理论所暗示的时间形而上学观点作为出发点，然后推导出任何神学的含义。第三种方法可能涉及给予两极相等的重视，并试图在同一努力的一部分中得出关于时间和上帝的一致和充分的概念。在哲学和神学领域可能存在各种立场（有关相关方法论问题的明确反思，请参见，例如，Murray & Rea 2008: 47; Mullins 2016: Ch. 1）。
 
@@ -66,9 +66,9 @@
 
 对于安瑟姆（Anselm）来说，上帝永恒的无时无刻是由上帝的本质决定的，这个本质是一切所能构想的最伟大之物（参见第 6.1 节）。在《祷文》（Proslogion）中，安瑟姆阐述了神圣力量的“语法”，这决定了对最完美存在所能说的内容，包括该存在的无时无刻。
 
-在中世纪时期，讨论不仅涵盖了基督教思想家，还包括犹太教和伊斯兰教思想家。与创造者和被创造物之间的明显界限相一致，阿奎那和犹太思想家摩西·迈蒙尼德斯（1131-1204）（对阿奎那产生了很大影响）认为，上帝永恒的时间应该主要以否定的方式理解。对于阿奎那来说，上帝的永恒是无尽的，没有开始和结束，是一个没有连续性的瞬间整体。这是神圣简单性的相关内容（请参阅 SEP 关于神圣简单性的条目），并且无法被生物定义或完全理解。对于阿奎那来说，永恒的时间也构成了谈论上帝的“语法”的一部分。由于上帝是永恒的，问上帝存在了多少年没有任何意义，或者他是否变老了，或者他将来会做什么也没有意义。
+在中世纪时期，讨论不仅涵盖了基督教思想家，还包括犹太教和伊斯兰教思想家。与创造者和被创造物之间的明显界限相一致，阿奎那和犹太思想家摩西 · 迈蒙尼德斯（1131-1204）（对阿奎那产生了很大影响）认为，上帝永恒的时间应该主要以否定的方式理解。对于阿奎那来说，上帝的永恒是无尽的，没有开始和结束，是一个没有连续性的瞬间整体。这是神圣简单性的相关内容（请参阅 SEP 关于神圣简单性的条目），并且无法被生物定义或完全理解。对于阿奎那来说，永恒的时间也构成了谈论上帝的“语法”的一部分。由于上帝是永恒的，问上帝存在了多少年没有任何意义，或者他是否变老了，或者他将来会做什么也没有意义。
 
-尽管与托马斯·阿奎那（Thomas Aquinas）在上帝与时间关系的本质上存在分歧，但邓斯·斯科特（Duns Scotus，约 1266-1308 年）似乎坚持上帝的永恒性（尽管请参阅 Leftow 1991: 228）。一般而言，中世纪时期普遍，如果不是普遍的对神圣简单性的承诺，似乎意味着对神圣永恒性的承诺（Mullins 2016: 第 3 章）。
+尽管与托马斯 · 阿奎那（Thomas Aquinas）在上帝与时间关系的本质上存在分歧，但邓斯 · 斯科特（Duns Scotus，约 1266-1308 年）似乎坚持上帝的永恒性（尽管请参阅 Leftow 1991: 228）。一般而言，中世纪时期普遍，如果不是普遍的对神圣简单性的承诺，似乎意味着对神圣永恒性的承诺（Mullins 2016: 第 3 章）。
 
 ## 关于上帝和时间的一些观点
 
@@ -90,9 +90,9 @@
 
 #### 4.1.2 Atemporal Duration4.1.2 非时间性持续
 
-博伊修斯（Boethius）在当代哲学领域产生了深远影响。这种影响很大程度上通过埃莱诺·斯坦普（Eleonore Stump）和诺曼·克雷茨曼（Norman Kretzmann）的作品传播（以下简称 S&K 1981, 1987, 1992）。
+博伊修斯（Boethius）在当代哲学领域产生了深远影响。这种影响很大程度上通过埃莱诺 · 斯坦普（Eleonore Stump）和诺曼 · 克雷茨曼（Norman Kretzmann）的作品传播（以下简称 S&K 1981, 1987, 1992）。
 
-回想一下博伊修斯（《慰藉》V.VI., 这里是史都华等人 1973 年的另一种翻译）：“永恒[...]是无限生命的整体、同时和完美的拥有”。或者说，永恒是一次完全拥有无限生命。
+回想一下博伊修斯（《慰藉》V.VI., 这里是史都华等人 1973 年的另一种翻译）：“永恒 [...] 是无限生命的整体、同时和完美的拥有”。或者说，永恒是一次完全拥有无限生命。
 
 斯塔姆普（Stump）和克雷茨曼（Kretzmann）从这一说法中提炼出四个要素。
 
@@ -125,7 +125,7 @@ Stump & Kretzmann 基于从一些特殊相对论的表述中借鉴的概念来�
 >
 > 对于某些观察者 B，在无限多个时间参考框架中，x 和 y 都是同时存在的——也就是说，x 被观察为永恒存在，而 y 在时间上存在，或者反之。（S&K 1981: 439）
 
-他们还提供了以下图像。想象两条平行的水平线。下方的线代表时间，上方的线代表永恒。现在被光所代表。时间现在由沿着下方线稳定移动的光表示，而永恒现在则由上方线一次性点亮表示。下方线中的每个点，在其在时间上的存在时，与整个上方线同时存在。或者至少从那个时间的观点来看是这样的。从永恒的观点来看，整个下方线都被点亮；每个时间“在[它]在时间上存在时”都与整个上方线同时存在（S&K 1992: 475）。
+他们还提供了以下图像。想象两条平行的水平线。下方的线代表时间，上方的线代表永恒。现在被光所代表。时间现在由沿着下方线稳定移动的光表示，而永恒现在则由上方线一次性点亮表示。下方线中的每个点，在其在时间上的存在时，与整个上方线同时存在。或者至少从那个时间的观点来看是这样的。从永恒的观点来看，整个下方线都被点亮；每个时间“在 [它] 在时间上存在时”都与整个上方线同时存在（S&K 1992: 475）。
 
 由于根据定义，两个项目只有在一个是时间的，另一个是永恒的情况下才能是 ET-同时的，并且由于任何给定项目只能是这两者之一，ET-同时性不是自反的；事实上，它从不在实体和自身之间成立。它也不是传递的；事实上，当 x 和 y 是 ET-同时的，y 和 z 也是 ET-同时的时候，x 和 z 从不是。ET-同时性的非传递性是解决一个紧迫问题所必需的。如果 t 与永恒同时，而永恒与 t′同时，那么 t 与 t′同时。因此，所有时间都合并为一个：
 
@@ -161,7 +161,7 @@ ii.
 
 这是否回答了异议，还是依赖于一个？正如 Brian Leftow 在类似情境中指出的那样（Leftow 1991: 173; 也见 Fales 1997），在所提出的观点中，只有在某种意义上同时的时间和永恒才能进入因果关系。这就是引入永恒同时性的原因。如果在永恒同时性的定义中依赖于永恒因果性的概念，就会面临循环性的问题。
 
-第三，如果有的话，狭义相对论在提案中扮演着什么样的角色？预期的角色是相当重要的。关于同时性的相对论的考虑应该表明，关于 ET-同时性概念的困难“绝非唯一”，“不能假定是 ET-同时性概念或永恒本身的困难”（S&K 1981: 439）。但很难看出它们如何能够表明这一点。斯塔姆普和克雷茨曼强调了同时性是一个三元关系的发现，并将其作为对不连贯威胁的回应（两个遥远事件既“同时[…]又不同时”（S&K 1981: 437））。但是，无论是二元关系还是三元关系，ET-同时性都存在困难。这些困难涉及阐明永恒现在和独特的永恒参考框架可能是什么，以及在其中的存在者与我们之间如何可能存在因果关系，包括观察性关系。在狭义相对论中并不存在类似的困难（Fales 1997；另见 Padgett 1992: 71；Craig 2009）。
+第三，如果有的话，狭义相对论在提案中扮演着什么样的角色？预期的角色是相当重要的。关于同时性的相对论的考虑应该表明，关于 ET-同时性概念的困难“绝非唯一”，“不能假定是 ET-同时性概念或永恒本身的困难”（S&K 1981: 439）。但很难看出它们如何能够表明这一点。斯塔姆普和克雷茨曼强调了同时性是一个三元关系的发现，并将其作为对不连贯威胁的回应（两个遥远事件既“同时 […] 又不同时”（S&K 1981: 437））。但是，无论是二元关系还是三元关系，ET-同时性都存在困难。这些困难涉及阐明永恒现在和独特的永恒参考框架可能是什么，以及在其中的存在者与我们之间如何可能存在因果关系，包括观察性关系。在狭义相对论中并不存在类似的困难（Fales 1997；另见 Padgett 1992: 71；Craig 2009）。
 
 #### 永恒的无时无刻
 
@@ -177,9 +177,9 @@ ii.
 
 鉴于上述要求，以下是翻译结果：在转向 Leftow 观点的进一步元素之前，有必要暂停一下，描述一些关于时间形而上学的背景（另请参阅 SEP 关于时间、John M.E. McTaggart 以及现代物理学中的存在与变化的条目）。 McTaggart 区分了 A 系列和 B 系列事件。 A 系列从未来经过现在到过去，而 B 系列从早到晚（McTaggart 1908）。这种区别以当代 B 理论与（各种版本的）A 理论之间的对立形式延续下来。
 
-根据 B 理论（无时态理论，块宇宙观），（a）所有时间和/或事件都存在且同样真实（这被称为永恒主义—不要与有时也被称为相同名称的神圣无时性混淆）；和（b）存在关于时间现实的完整无时态描述。无时态描述是指保持准确的描述，因为它仅提及诸如事件何时发生以及它们如何在时间上相互关联等事物。因此，它仅提及有关 B 关系的事实，如同时性和继承。将这些称为无时态事实。B 理论将永恒主义与这样一种主张相结合，即存在关于时间现实的完整描述，这是关于时间现实在其最基本层面的描述，不提及任何有关时态的事实，比如现在是 12:00 这样的事实。
+根据 B 理论（无时态理论，块宇宙观），（a）所有时间和/或事件都存在且同样真实（这被称为永恒主义—不要与有时也被称为相同名称的神圣无时性混淆）；和（b）存在关于时间现实的完整无时态描述。无时态描述是指保持准确的描述，因为它仅提及诸如事件何时发生以及它们如何在时间上相互关联等事物。因此，它仅提及有关 B 关系的事实，如同时性和继承。将这些称为无时态事实。B 理论将永恒主义与这样一种主张相结合，即存在关于时间现实的完整描述，这是关于时间现实在其最基本层面的描述，不提及任何有关时态的事实，比如现在是 12: 00 这样的事实。
 
-与此相对立的是各种 A 理论的版本，它们否定(a)和(b)中的一个或两个。这些 A 理论观点（包括永恒主义和非永恒主义观点，如现在论或成长块观点）的共同之处在于它们在形而上上特别看重某一个时间。基本的时态事实捕捉了这种特权。A 理论的一个突出动机是对时间流逝的信念（强烈地——即在超越纯粹的 B 理论时间继承的意义上（参见 Skow 2015: 2）；在接下来的内容中，我所指的“时间流逝”就是这个意思）。随着时间的流逝，时态事实发生变化：首先是一个基本事实是 12:00，然后是 12:01。
+与此相对立的是各种 A 理论的版本，它们否定(a)和(b)中的一个或两个。这些 A 理论观点（包括永恒主义和非永恒主义观点，如现在论或成长块观点）的共同之处在于它们在形而上上特别看重某一个时间。基本的时态事实捕捉了这种特权。A 理论的一个突出动机是对时间流逝的信念（强烈地——即在超越纯粹的 B 理论时间继承的意义上（参见 Skow 2015: 2）；在接下来的内容中，我所指的“时间流逝”就是这个意思）。随着时间的流逝，时态事实发生变化：首先是一个基本事实是 12: 00，然后是 12: 01。
 
 现在回到 Leftow 的观点。让 A-发生是当前发生，让 B-发生是在某个此刻的时间位置 t 发生。（这旨在与麦克泰格特的区别连续。）B-发生蕴涵 A-发生：如果某事发生在一个此刻的 B-位置 t，那么它现在发生。但反之则不然。某事可以在不发生在一个此刻的 B-位置 t 的情况下现在发生。也就是说，某事可以 A-发生而不 B-发生。现在定义 A-同时性为“在同一此刻发生”。相比之下，B-同时性是在某个 B 系列中具有相同的时间 B 位置。如果两个事件是 B-同时发生的，并且它们 B-发生（即它们位于同一此刻的 B 时间位置），那么它们是 A-同时发生的。如果两个事件在同一非时间此刻发生并且 A-发生（即现在发生），它们也是 A-同时发生的。
 
@@ -209,11 +209,11 @@ Leftow 也建议，QTE 涉及早期和晚期观点的意义并不是时间上的
 
 #### 4.2.1 纯粹时间主义
 
-在这个观点中，上帝在所有时间点都存在，上帝经历了时间的推移，上帝已经经历并将经历一个无限的过去和未来。这里的想法是上帝存在于（我们的，物理）时间/时空中，上帝是一个时间性的存在，就像我们一样，只是上帝的生命时间跨度是无限的。与其他时间观点相比，这个观点在概念上是直接的。然而，可以说，这与当前宇宙学存在紧张关系，因为它暗示宇宙有一个有限的过去。在这个观点中，上帝受到限制，或者对时间没有权力，这也可能与一些源自西方经文的约束相矛盾（见第 2 节）。这个观点至少在过程神学家如查尔斯·哈特什恩（Hartshorne 1947）中被发现。
+在这个观点中，上帝在所有时间点都存在，上帝经历了时间的推移，上帝已经经历并将经历一个无限的过去和未来。这里的想法是上帝存在于（我们的，物理）时间/时空中，上帝是一个时间性的存在，就像我们一样，只是上帝的生命时间跨度是无限的。与其他时间观点相比，这个观点在概念上是直接的。然而，可以说，这与当前宇宙学存在紧张关系，因为它暗示宇宙有一个有限的过去。在这个观点中，上帝受到限制，或者对时间没有权力，这也可能与一些源自西方经文的约束相矛盾（见第 2 节）。这个观点至少在过程神学家如查尔斯 · 哈特什恩（Hartshorne 1947）中被发现。
 
 #### 相对永恒
 
-根据艾伦·帕奇特（Alan Padgett）的观点，上帝发生变化，因此上帝是临时的。然而，时间性并没有被抛弃；相反，它被重新定义。
+根据艾伦 · 帕奇特（Alan Padgett）的观点，上帝发生变化，因此上帝是临时的。然而，时间性并没有被抛弃；相反，它被重新定义。
 
 > 我并没有放弃永恒性。相反，我重新定义“上帝是永恒的”为上帝是相对永恒的，即他不受时间衡量，也不受时间流逝的负面影响。(Padgett 1992: 146; also 2001)
 
@@ -231,9 +231,9 @@ Leftow 也建议，QTE 涉及早期和晚期观点的意义并不是时间上的
 
 > 在这种观点下，上帝的生命似乎有两个阶段，一个是永恒的阶段，一个是时间的阶段，而永恒的阶段似乎比时间的阶段存在得更早。但这在逻辑上是不一致的，因为处于早于关系中在所有情况下都是时间性的。（Craig 2000: 32）
 
- His solution is他的解决方案是
+ His solution is 他的解决方案是
 
-> 在创造之前，实际上没有时间间隔[...]没有早晚，没有持续通过连续的间隔，因此也没有等待，没有时间上的变化。这种状态将会在创造的那一刻整体消失，而不是逐步消失。
+> 在创造之前，实际上没有时间间隔 [...] 没有早晚，没有持续通过连续的间隔，因此也没有等待，没有时间上的变化。这种状态将会在创造的那一刻整体消失，而不是逐步消失。
 
 这种状态，他说，“看起来可疑地像是一个永恒的状态” (Craig 2000: 33).
 
@@ -245,12 +245,12 @@ Craig 和 Padgett 在宇宙时间是否给出了上帝时间的“适当度量�
 
 #### 度量上无定形的时间
 
-理查德·斯文本最初辩护永恒（Swinburne 1965），但后来转而支持时间观点。根据他后来的观点，在创世之前，上帝独自生活在一个度量上无规则的时间中（Swinburne 1977, 1993, 1994）。 （帕奇特还描述上帝的时间是度量上无规则的。）一旦上帝创造世界并制定自然法则，时间就获得了度量。然后开始有关于时间间隔有多长的事实。
+理查德 · 斯文本最初辩护永恒（Swinburne 1965），但后来转而支持时间观点。根据他后来的观点，在创世之前，上帝独自生活在一个度量上无规则的时间中（Swinburne 1977, 1993, 1994）。 （帕奇特还描述上帝的时间是度量上无规则的。）一旦上帝创造世界并制定自然法则，时间就获得了度量。然后开始有关于时间间隔有多长的事实。
 
  进一步阅读:
 
 * 神的永恒辩护：Helm 1988, 2001; Yates 1990; Rogers 2000, 2007; Dolezal 2017; Duby 2022.
-* 辩护神的时间性：Lucas 1973, 1989; Wolterstorff 1975, 2000a,b, 2001; Hasker 1989, 2002; Zimmerman 2002; DeWeese 2002, 2004; Mullins 2016.
+* 辩护神的时间性：Lucas 1973, 1989; Wolterstorff 1975, 2000a, b, 2001; Hasker 1989, 2002; Zimmerman 2002; DeWeese 2002, 2004; Mullins 2016.
 
 ## 反对神的永恒论点
 
@@ -326,13 +326,13 @@ So (5′)
 
 因此，上帝是临时的。 (From (5′), (6), (7))
 
-与论证 1 的情况不同，这里与 A-理论的联系并不直接。在 B-理论上，有一种意义上(4′)是正确的，尽管在 B-理论上，基本时间事实没有变化。在每个时间点，那个时间点都是当前的——不是绝对的、在形而上学上特权的 A-理论意义上，而是相对的、透视的意义上。每个时间点在自身是当前的，就像每个空间位置相对于自身都在这里一样。此外，在关于时态语言的标准 B-理论解释中（例如，Mozersky 2015；但请参阅 Torre 2010 以获取另一种解释），在这些时间点中，一个时间主体 S 可以知道，并且可以对其所处的时间有一个真实的信念。在中午，S 相信现在是中午；这种信念之所以成立，是因为有一个无时态事实，比如 S 在（与中午同时的时间）持有这种信念。在 12:01，S 真实地相信现在是 12:01，这种信念之所以成立，是因为有另一个无时态事实，比如这种后来的信念是 S 在（与 12:01 同时的时间）持有的，依此类推。
+与论证 1 的情况不同，这里与 A-理论的联系并不直接。在 B-理论上，有一种意义上(4′)是正确的，尽管在 B-理论上，基本时间事实没有变化。在每个时间点，那个时间点都是当前的——不是绝对的、在形而上学上特权的 A-理论意义上，而是相对的、透视的意义上。每个时间点在自身是当前的，就像每个空间位置相对于自身都在这里一样。此外，在关于时态语言的标准 B-理论解释中（例如，Mozersky 2015；但请参阅 Torre 2010 以获取另一种解释），在这些时间点中，一个时间主体 S 可以知道，并且可以对其所处的时间有一个真实的信念。在中午，S 相信现在是中午；这种信念之所以成立，是因为有一个无时态事实，比如 S 在（与中午同时的时间）持有这种信念。在 12: 01，S 真实地相信现在是 12: 01，这种信念之所以成立，是因为有另一个无时态事实，比如这种后来的信念是 S 在（与 12: 01 同时的时间）持有的，依此类推。
 
 在这个 B-理论的观点上，诚然，并非如此，知道现在是什么时候（在不同的时间）涉及在不同的时间知道不同的事情。原因在于被相信的无时态内容可以被 S 在所有时间同样地相信（通常也会如此）。因此，虽然在每个时间点，S 拥有一个带有无时态内容的时态信念，该内容与 S 在之前时间点的时态信念的无时态内容不同，S 可能不会相信或知道任何新事物。这表明同样适用于上帝，并且（5′）并不是从（3′）和（4′）推导出来的。在这个 B-理论的观点上，诚然，并非如此，知道现在是什么时候（在不同的时间）涉及在不同的时间知道不同的事情。原因在于被相信的无时态内容可以被 S 在所有时间同样地相信（通常也会如此）。因此，虽然在每个时间点，S 拥有一个带有无时态内容的时态信念，该内容与 S 在之前时间点的时态信念的无时态内容不同，S 可能不会相信或知道任何新事物。这表明同样适用于上帝，并且（5′）并不是从（3′）和（4′）推导出来的。
 
 然而，重要的不仅是 S 知道和相信什么，而是 S 知道和相信的方式。 有时态的信念与相应的无时态信念具有相当不同的认知意义。 对于及时行动而言，重要的是通过具有真实时态信念（“现在是中午（现在）”）来相信无时态内容。 重点是一个更一般的观点，同样适用于除“现在”之外的指示物，如“I”或“here”：指示信念的认知意义与相应的非指示性信念不同。
 
-因此，如果 B-理论主体 S 知道（在不止一个时间点）现在是什么时间，那么他们会发生变化。原因在于他们相信的方式发生了变化。他们需要通过拥有适当变化的时态信念来跟踪他们的时间观念（“现在是中午”，“现在是 12:01”）。至少对于那些时间性与我们自己相关的人来说是这样的。这个群体是否包括上帝？如果是这样，那么在 B-理论中，也有理由担心全知与永恒的结合。
+因此，如果 B-理论主体 S 知道（在不止一个时间点）现在是什么时间，那么他们会发生变化。原因在于他们相信的方式发生了变化。他们需要通过拥有适当变化的时态信念来跟踪他们的时间观念（“现在是中午”，“现在是 12: 01”）。至少对于那些时间性与我们自己相关的人来说是这样的。这个群体是否包括上帝？如果是这样，那么在 B-理论中，也有理由担心全知与永恒的结合。
 
  论证 3
 
@@ -366,7 +366,7 @@ So (3′)
 
 因此，上帝是临时的。 (From (5″), (6″), (7))
 
-### 5.2 Arguments from Divine Action来自神圣行动的论证
+### 5.2 Arguments from Divine Action 来自神圣行动的论证
 
 当上帝创造宇宙时，上帝开始与宇宙共存，并维持其存在。获得这些和其他与宇宙的关系使上帝成为临时的，因为这构成了上帝在创造时经历的变化。即使上帝之前是永恒的，创造之后上帝就成为了临时的（Craig 2009）。
 
@@ -386,7 +386,7 @@ So (3′)
 
 ## 神圣永恒的论点
 
-### Arguments from Divine Perfection来自神圣完美的论证
+### Arguments from Divine Perfection 来自神圣完美的论证
 
 有许多支持神的永恒性的考虑是源自完美存在神学。完美存在神学是一种神学方法，它通过研究上帝作为最完美（或最伟大可能的）存在的基础来确定上帝的样子。一个一般的论证如下。最完美的存在，上帝，有最完美的存在方式。但是，时间存在是比永恒存在更不完美的存在方式。因此，上帝有一个永恒的存在方式。
 
@@ -424,7 +424,7 @@ So (3′)
 
 作为另一个例子，考虑到时间不存在的观点，例如由像麦克泰格特（McTaggart）或 F. H. 布拉德利（F. H. Bradley）这样的推测形而上学家所辩论的观点。根据这种观点，一切都是永恒的（在非时间性的意义上）。
 
-时间是虚幻的观点也是由库尔特·哥德尔基于广义相对论考虑而辩论的（哥德尔，1949 年）。哥德尔的出发点是他发现了爱因斯坦场方程的解决方案，允许封闭时间样曲线的存在。他认为，这样的时空不包含时间维度，因为只有在时间真正流逝时才存在时间，而在这样的世界中不可能有真正的时间流逝。这反过来暗示着时间不会流逝，因此在实际世界中也不存在时间（有关该论点的更多信息，请参见 Savitt，1994 年；Dorato，2002 年；Yourgrau，2005 年）。
+时间是虚幻的观点也是由库尔特 · 哥德尔基于广义相对论考虑而辩论的（哥德尔，1949 年）。哥德尔的出发点是他发现了爱因斯坦场方程的解决方案，允许封闭时间样曲线的存在。他认为，这样的时空不包含时间维度，因为只有在时间真正流逝时才存在时间，而在这样的世界中不可能有真正的时间流逝。这反过来暗示着时间不会流逝，因此在实际世界中也不存在时间（有关该论点的更多信息，请参见 Savitt，1994 年；Dorato，2002 年；Yourgrau，2005 年）。
 
 最近，一些从事量子引力方法的物理学家和物理学家已经开始认为时空可能并非根本（见量子引力的 SEP 条目）。当然，关于在这种情况下是否适用非时间性概念取决于如何最好地理解时空不是根本的主张。
 
@@ -435,12 +435,12 @@ So (3′)
 * –––, 1989b, *Divine Nature and Human Language: Essays in Philosophical Theology*, Ithaca and London: Cornell University Press.
 * Anselm, *The Monologion*, translated by Simon Harrison, in *Anselm of Canterbury, The Major Works*, edited with an introduction by Brian Davies and G.R. Evans, Oxford: Oxford University Press, 1998.
 * Augustine, *The Confessions*, Henry Chadwick (trans.), Oxford: Oxford University Press, 1991.
-* Balashov, Yuri and Michel Janssen, 2003, “Presentism and Relativity”, *British Journal for the Philosophy of Science*, 54(2): 327–346. doi:10.1093/bjps/54.2.327
+* Balashov, Yuri and Michel Janssen, 2003, “Presentism and Relativity”, *British Journal for the Philosophy of Science*, 54(2): 327–346. doi: 10.1093/bjps/54.2.327
 * Boethius, *The Consolation of Philosophy*, V. E. Watts (trans.), London: Penguin Books, 1969; also translated by H. F. Stewart, E. K. Rand, and S. J. Tester, Loeb Classical Library, Cambridge: Harvard University Press, 1973.
 * Braine, David, 1988, *The Reality of Time and the Existence of God*, Oxford: Oxford University Press.
-* Craig, William L., 1990, “God and Real Time”, *Religious Studies*, 26(3): 335–347. doi:10.1017/S0034412500020503
+* Craig, William L., 1990, “God and Real Time”, *Religious Studies*, 26(3): 335–347. doi: 10.1017/S0034412500020503
 * –––, 1998, “The Tensed vs. Tenseless Theory of Time: A Watershed for the Conception of Divine Eternity”, in Robin Le Poidevin (ed.), *Questions of Time and Tense*, Oxford: Clarendon Press, pp. 221–250.
-* –––, 1999, “The Eternal Present and Stump-Kretzmann Eternity”, *American Catholic Philosophical Quarterly*, 73(4): 521–536. doi:10.5840/acpq199973437
+* –––, 1999, “The Eternal Present and Stump-Kretzmann Eternity”, *American Catholic Philosophical Quarterly*, 73(4): 521–536. doi: 10.5840/acpq199973437
 * –––, 2000, “Timelessness and Omnitemporality”, *Philosophia Christi*, Series 2, 2(1): 29–33.
 * –––, 2001, *Time and Eternity: Exploring God’s Relationship to Time*, Wheaton, IL: Crossway Books.
 * –––, 2009, “Divine Eternity”, in Thomas P. Flint and Michael C. Rea (eds.), *The Oxford Handbook of Philosophical Theology*, Oxford: Oxford University Press.
@@ -448,65 +448,65 @@ So (3′)
 * DeWeese, Garrett J., 2002, “Atemporal, Sempiternal or Omnitemporal: God’s Temporal Mode of Being”, in Ganssle & Woodruff 2002: 49–61.
 * –––, 2004, *God and the Nature of Time*, Aldershot, Hants.: Ashgate.
 * Dolezal, James E., 2017, *All that is in God: Evangelical Theology and the Challenge of Classical Christian Theism*, Grand Rapids: Reformation Heritage Books.
-* Dorato, Mauro, 2002, “On Becoming, Cosmic Time, and Rotating Universes”, Craig Callender (ed.), *Time, Reality and Experience*, (Royal Institute of Philosophy Supplements, 50), Cambridge: Cambridge University Press, pp. 253–276. doi:10.1017/CBO9780511550263.013
+* Dorato, Mauro, 2002, “On Becoming, Cosmic Time, and Rotating Universes”, Craig Callender (ed.), *Time, Reality and Experience*, (Royal Institute of Philosophy Supplements, 50), Cambridge: Cambridge University Press, pp. 253–276. doi: 10.1017/CBO9780511550263.013
 * Duby, Steven J., 2023, *Jesus and the God of Classical Theism: Biblical Christology in Light of the Doctrine of God*, Grand Rapids: Baker Academic.
-* Fales, Evan M., 1997, “Divine Intervention”, *Faith and Philosophy*, 14(2): 170–194. doi:10.5840/faithphil199714215
-* Fitzgerald, Paul, 1985, “Stump and Kretzmann on Time and Eternity”, *The Journal of Philosophy*, 82(5): 260–269. doi:10.2307/2026491
+* Fales, Evan M., 1997, “Divine Intervention”, *Faith and Philosophy*, 14(2): 170–194. doi: 10.5840/faithphil199714215
+* Fitzgerald, Paul, 1985, “Stump and Kretzmann on Time and Eternity”, *The Journal of Philosophy*, 82(5): 260–269. doi: 10.2307/2026491
 * Gale, Richard M., 1991, *On the Nature and Existence of God*, Cambridge: Cambridge University Press.
-* Ganssle, Gregory E., 1993, “Atemporality and the Mode of Divine Knowledge”, *International Journal for the Philosophy of Religion*, 34(3): 171–180. doi:10.1007/BF01313790
-* –––, 1995, “Leftow on Direct Awareness and Atemporality”, *Sophia*, 34(2): 30–37. doi:10.1007/BF02772290
+* Ganssle, Gregory E., 1993, “Atemporality and the Mode of Divine Knowledge”, *International Journal for the Philosophy of Religion*, 34(3): 171–180. doi: 10.1007/BF01313790
+* –––, 1995, “Leftow on Direct Awareness and Atemporality”, *Sophia*, 34(2): 30–37. doi: 10.1007/BF02772290
 * –––, (ed.), 2001, *God and Time: Four Views*, Downers Grove, IL: Inter Varsity Press.
 * –––, 2002, “Direct Awareness and God’s Experience of a Temporal Now”, in Ganssle & Woodruff 2002: 165–181.
-* Ganssle, Gregory E. and Woodruff, David M. (eds.), 2002, *God and Time: Essays on the Divine Nature*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195129656.001.0001
+* Ganssle, Gregory E. and Woodruff, David M. (eds.), 2002, *God and Time: Essays on the Divine Nature*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780195129656.001.0001
 * Gödel, Kurt, 1949, “A Remark About the Relationship Between Relativity Theory and Idealistic Philosophy”, in P.A. Schilpp (ed.), *Albert Einstein: Philosopher-Scientist*, La Salle, II1.: Open Court, 1949, pp. 557–562; reprinted with additions and corrections in Kurt Gödel, *Collected Works* (Volume II), S. Feferman et al. (eds.), Oxford: Oxford University Press, 1990.
 * Hartshorne, Charles, 1947, *The Divine Relativity*, New Haven, CT: Yale University Press.
 * Hasker, William, 1989, *God, Time, and Knowledge*, Ithaca, NY: Cornell University Press
 * –––, 2002, “The Absence of a Timeless God”, in Ganssle & Woodruff 2002: 182–206.
-* Helm, Paul, 1988, *Eternal God*, Oxford: Clarendon Press. doi:10.1093/0198237251.001.0001
+* Helm, Paul, 1988, *Eternal God*, Oxford: Clarendon Press. doi: 10.1093/0198237251.001.0001
 * –––, 2001, “Divine Timeless Eternity”, in Ganssle 2001: 28–60.
 * Kenny, Anthony, 1979, *The God of the Philosophers*, Oxford: Clarendon Press.
-* Kretzmann, Norman, 1966, “Omniscience and Immutability”, *The Journal of Philosophy*, 63(14): 409–421. doi:10.2307/2023849
+* Kretzmann, Norman, 1966, “Omniscience and Immutability”, *The Journal of Philosophy*, 63(14): 409–421. doi: 10.2307/2023849
 * Leftow, Brian, 1991, *Time and Eternity*, Ithaca, NY: Cornell University Press.
 * –––, 2002, “The Eternal Present”, in Ganssle & Woodruff 2002: 21–48.
-* –––, 2005, “Eternity and Immutability”, in William Mann (ed.), *The Blackwell Guide to the Philosophy of Religion*, Oxford: Blackwell Publishing. doi:10.1002/9780470756638.ch3
+* –––, 2005, “Eternity and Immutability”, in William Mann (ed.), *The Blackwell Guide to the Philosophy of Religion*, Oxford: Blackwell Publishing. doi: 10.1002/9780470756638.ch3
 * –––, 2010, “Eternity”, in Charles Taliaferro, Paul Draper, and Philip L. Quinn (eds.), *A Companion to Philosophy of Religion*, 2nd edition, Oxford and New York: Blackwell.
 * Le Poidevin, Robin, 2023, *And Was Made Man: Mind, Metaphysics, and Incarnation*, Oxford: Oxford University Press.
-* Lewis, Delmas, 1984, “Eternity Again: A Reply to Stump and Kretzmann”, *International Journal for Philosophy of Religion*, 15(1–2): 73–79. doi:10.1007/BF00142103
+* Lewis, Delmas, 1984, “Eternity Again: A Reply to Stump and Kretzmann”, *International Journal for Philosophy of Religion*, 15(1–2): 73–79. doi: 10.1007/BF00142103
 * Lucas, John R., 1973, *A Treatise on Time and Space*, London: William Clowes & Sons Limited.
 * –––, 1989, *The Future: An Essay on God, Temporality and Truth*, Cambridge: Basil Blackwell Inc.
 * Maimonides, Moses, *The Guide of the Perplexed*, translated with an introduction by Shlomo Pines and an introductory essay by Leo Strauss, Chicago: The University of Chicago Press, 1963.
 * Mawson, T. J., 2008, “Divine Eternity”, *International Journal for Philosophy of Religion*, 64(1): 35–50.
-* McDaniel, Kris, 2016, “Eternity in Twentieth-Century Philosophy”, in Yitzhak Y. Melamed (ed.), *Eternity: A History*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199781874.003.0016
-* McTaggart, John M. E., 1908, “The Unreality of Time”, *Mind*, 17(4): 456–473. doi:10.1093/mind/XVII.4.457
+* McDaniel, Kris, 2016, “Eternity in Twentieth-Century Philosophy”, in Yitzhak Y. Melamed (ed.), *Eternity: A History*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199781874.003.0016
+* McTaggart, John M. E., 1908, “The Unreality of Time”, *Mind*, 17(4): 456–473. doi: 10.1093/mind/XVII.4.457
 * Melamed, Yitzhak Y., 2016, *Eternity: A History*, New York: Oxford University Press.
 * Moravec, Matyas, forthcoming, *Henri Bergson and the Philosophy of Religion*, New York: Routledge.
-* Mozersky, M. Joshua, 2015, *Time, Language, and Ontology: The World from the B-theoretic Perspective*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198718161.001.0001
+* Mozersky, M. Joshua, 2015, *Time, Language, and Ontology: The World from the B-theoretic Perspective*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198718161.001.0001
 * Mullins, Ryan T., 2014, “Doing Hard Time: Is God the Prisoner of the Oldest Dimension?”, *Journal of Analytic Theology*, 2: 160–185.
-* –––, 2016, *The End of the Timeless God*, (Oxford Studies in Analytic Theology), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755180.001.0001
-* Murray, Michael J. and Michael C. Rea, 2008, *An Introduction to the Philosophy of Religion* (Cambridge Introductions to Philosophy), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511801488
-* Nelson, Herbert J., 1987, “Time(s), Eternity, and Duration”, *International Journal for Philosophy of Religion*, 22(1–2): 3–19. doi:10.1007/BF00135431
-* Oppy, Graham, 2014, *Describing Gods: An Investigation of Divine Attributes*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316091807
+* –––, 2016, *The End of the Timeless God*, (Oxford Studies in Analytic Theology), Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198755180.001.0001
+* Murray, Michael J. and Michael C. Rea, 2008, *An Introduction to the Philosophy of Religion* (Cambridge Introductions to Philosophy), Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511801488
+* Nelson, Herbert J., 1987, “Time(s), Eternity, and Duration”, *International Journal for Philosophy of Religion*, 22(1–2): 3–19. doi: 10.1007/BF00135431
+* Oppy, Graham, 2014, *Describing Gods: An Investigation of Divine Attributes*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781316091807
 * Padgett, Alan G., 1992, *God, Eternity and the Nature of Time*, London: Macmillan.
 * –––, 2001, “Eternity as Relative Timelessness”, in Ganssle 2001: 92–110.
-* Pike, Nelson C., 1965, “Divine Omniscience and Voluntary Action”, *The Philosophical Review*, 74(1): 27–46. doi:10.2307/2183529
+* Pike, Nelson C., 1965, “Divine Omniscience and Voluntary Action”, *The Philosophical Review*, 74(1): 27–46. doi: 10.2307/2183529
 * –––, 1970, *God and Timelessness*, New York: Schocken.
 * Pinnock, Clark H., John Sanders, Richard Rice, William Hasker, and David Basinger, 1994, *The Openness of God: A Biblical Challenge to the Traditional Understanding of God*, Downers Grove: InterVarsity Press.
 * Rice, Richard, 2020, *The Future of Open Theism: From Antecedents to Opportunities*, Downers Grove: InterVarsity Press.
-* Rogers, Katherin A., 1994, “Eternity has no Duration”, *Religious Studies*, 30(1): 1–16. doi:10.1017/S003441250002268X
+* Rogers, Katherin A., 1994, “Eternity has no Duration”, *Religious Studies*, 30(1): 1–16. doi: 10.1017/S003441250002268X
 * –––, 2000, *Perfect Being Theology*, Edinburgh: Edinburgh University Press.
-* –––, 2007, “Anselmian Eternalism: The Presence of a Timeless God”, *Faith and Philosophy*, 24(1): 3–27. doi:10.5840/faithphil200724134
-* Savitt, Steven F., 1994, “The Replacement of Time”, *Australasian Journal of Philosophy*, 72(4): 463–474. doi:10.1080/00048409412346261
-* Skow, Bradford, 2015, *Objective Becoming*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198713272.001.0001
+* –––, 2007, “Anselmian Eternalism: The Presence of a Timeless God”, *Faith and Philosophy*, 24(1): 3–27. doi: 10.5840/faithphil200724134
+* Savitt, Steven F., 1994, “The Replacement of Time”, *Australasian Journal of Philosophy*, 72(4): 463–474. doi: 10.1080/00048409412346261
+* Skow, Bradford, 2015, *Objective Becoming*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780198713272.001.0001
 * Schmücker, Marcus, Michael T. Williams, and Florian Fischer (eds.), 2022, *Temporality and Eternity: Nine Perspectives on God and Time*, Berlin, Boston: De Gruyter.
-* Stump, Eleonore and Norman Kretzmann [S&K], 1981, “Eternity”, *The Journal of Philosophy*, 78(8): 429–458. doi:10.2307/2026047
-* –––, 1987, “Atemporal duration: a reply to Fitzgerald”, *The Journal of Philosophy*, 84(4): 214–219. doi:10.2307/2027159
-* –––, 1992, “Eternity, Awareness, and Action”, *Faith and Philosophy*, 9(4): 463–482. doi:10.5840/faithphil19929433
+* Stump, Eleonore and Norman Kretzmann [S&K], 1981, “Eternity”, *The Journal of Philosophy*, 78(8): 429–458. doi: 10.2307/2026047
+* –––, 1987, “Atemporal duration: a reply to Fitzgerald”, *The Journal of Philosophy*, 84(4): 214–219. doi: 10.2307/2027159
+* –––, 1992, “Eternity, Awareness, and Action”, *Faith and Philosophy*, 9(4): 463–482. doi: 10.5840/faithphil19929433
 * Swinburne, Richard, 1965, “The Timelessness of God”, *Church Quarterly Review*, 116: 323–337.
 * –––, 1977, *The Coherence of Theism*, Oxford: Clarendon Press.
 * –––, 1993, “God and Time”, in Eleonore Stump (ed.), *Reasoned Faith*, Ithaca, NY: Cornell University Press, p. 204.
 * –––, 1994, *The Christian God*, Oxford: Clarendon Press.
 * Tapp, Christian and Edmund Runggaldier (eds.), 2011, *God, Eternity, and Time*, Aldershot: Ashgate Press.
-* Torre, S., 2010, “Tense, Timely Action, and Self-ascription”, *Philosophy and Phenomenological Research*, 80(1): 112–132. doi:10.1111/j.1933-1592.2009.00312.x
+* Torre, S., 2010, “Tense, Timely Action, and Self-ascription”, *Philosophy and Phenomenological Research*, 80(1): 112–132. doi: 10.1111/j.1933-1592.2009.00312.x
 * Wierenga, Edward R., 1989, *The Nature of God: An Inquiry into Divine Attributes*, Ithaca, NY: Cornell University Press.
 * –––, 2002, “Timelessness out of Mind”, in Ganssle & Woodruff 2002: 153–164.
 * Wolterstorff, Nicholas, 1975, “God Everlasting” in Clifton Orlebeke and Lewis Smedes (eds.), *God and the Good: Essays in Honor of Henry Stob*, Grand Rapids, Mich.: Eerdmans, pp. 181–203.

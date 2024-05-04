@@ -1,6 +1,6 @@
 # 元伦理学 metaethics (Geoff Sayre-McCord)
 
-*首次发表于2007年1月23日；实质性修订于2023年1月24日*
+*首次发表于 2007 年 1 月 23 日；实质性修订于 2023 年 1 月 24 日*
 
 元伦理学是试图理解道德思维、言论和实践的形而上学、认识论、语义学和心理学的前提和承诺。因此，它涵盖了广泛的问题和难题，包括：道德更多是品味还是真理的问题？道德标准是否具有文化相对性？是否存在道德事实？如果存在道德事实，它们的起源和性质是什么？它们如何为我们的行为设定适当的标准？道德事实可能与其他事实（关于心理学、幸福、人类约定等）有何关联？如果存在道德事实，我们如何了解它们？这些问题自然而然地引出了关于道德主张意义以及道德真理和我们道德承诺的合理化的难题。元伦理学还探讨了价值观、行动理由和人类动机之间的联系，询问道德标准如何为我们提供理由去做或不做它们要求的事情，并且它还涉及与自由的本质及其对道德责任的重要性（或无关性）常常相关的许多问题。[1]
 
@@ -8,7 +8,7 @@
 
 ## 1. 一般观察
 
-元伦理学所涵盖的问题、难题和疑问范围一直以来都是抽象的。这反映了元伦理学试图从道德领域的具体争议中退后一步，询问那些参与争议的人所共享的观点、假设和承诺。总的来说，通过这个退后的过程产生的元伦理学问题可以在不对引发这个过程的具体道德问题采取特定立场的情况下加以讨论。事实上，对许多人来说，元伦理学似乎提供了一个至关重要的中立背景，用以适当评估相互竞争的道德观点。事实上，一些元伦理学家甚至认为，他们的工作根本不涉及具体的道德假设，也没有实际的影响。[2]关于是否有任何仍然可以被认为是关于伦理学的性质和地位的观点能够做到这一点，是值得怀疑的。但毫无疑问的是，无论元伦理学的具体假设和实际影响是什么，它都涉及对从事道德思考、交流和实践的人的前提和承诺进行反思，从而抽象出特定的道德判断。
+元伦理学所涵盖的问题、难题和疑问范围一直以来都是抽象的。这反映了元伦理学试图从道德领域的具体争议中退后一步，询问那些参与争议的人所共享的观点、假设和承诺。总的来说，通过这个退后的过程产生的元伦理学问题可以在不对引发这个过程的具体道德问题采取特定立场的情况下加以讨论。事实上，对许多人来说，元伦理学似乎提供了一个至关重要的中立背景，用以适当评估相互竞争的道德观点。事实上，一些元伦理学家甚至认为，他们的工作根本不涉及具体的道德假设，也没有实际的影响。[2] 关于是否有任何仍然可以被认为是关于伦理学的性质和地位的观点能够做到这一点，是值得怀疑的。但毫无疑问的是，无论元伦理学的具体假设和实际影响是什么，它都涉及对从事道德思考、交流和实践的人的前提和承诺进行反思，从而抽象出特定的道德判断。
 
 这样的反思很快揭示了道德的各个方面在智力和实践上都可能被合理地视为问题。在智力方面，许多人担心没有好的方法来证明道德的假设和承诺。一些人认为，对道德进行仔细而清晰的研究将揭示，道德价值观、义务或责任是一个神话；还有人认为，被提出作为所有人的权威标准的各种原则实际上只是情感的表达或那些提倡这些原则的特殊态度的投射；还有人认为，在某种其他方式上，道德并不是它所假装的，也不是它需要成为合法的东西。在实践方面，许多人强调让人们公正地判断自己和他人的困难；还有人担心，虽然我们有兴趣说服他人遵守道德，但我们自己很少有真正的理由去遵守；还有人认为，道德所假设的那种自由并不适用于人类的实际情况。
 
@@ -46,15 +46,15 @@
 
 ## 4. 是/应该和开放问题论证
 
-当大卫·休谟观察到“应该”不能从“是”中推导出来时，他似乎考虑到了这些观点。关于休谟的意思有很大的争议，同样也有很大的争议，他是否正确。但至少休谟关注的部分似乎是，关于纯事实问题的一组陈述（“是”陈述）并不涉及任何评价性的陈述（“应该”陈述）。他似乎认为，只有在除了关于纯事实的前提之外，还有至少一个评价性前提的情况下，才能从前者推导出后者。例如，如果从某人感到疼痛这一事实推断出某件坏事正在发生，那么至少是假设疼痛是不好的。而这个假设又不能由仅涉及纯事实的陈述来推导出来。如果休谟是正确的，那么每一个对评价性结论的有效论证要么包含，要么预设一些评价性前提。因此，没有一个价值中立的论证可以得出评价性结论。
+当大卫 · 休谟观察到“应该”不能从“是”中推导出来时，他似乎考虑到了这些观点。关于休谟的意思有很大的争议，同样也有很大的争议，他是否正确。但至少休谟关注的部分似乎是，关于纯事实问题的一组陈述（“是”陈述）并不涉及任何评价性的陈述（“应该”陈述）。他似乎认为，只有在除了关于纯事实的前提之外，还有至少一个评价性前提的情况下，才能从前者推导出后者。例如，如果从某人感到疼痛这一事实推断出某件坏事正在发生，那么至少是假设疼痛是不好的。而这个假设又不能由仅涉及纯事实的陈述来推导出来。如果休谟是正确的，那么每一个对评价性结论的有效论证要么包含，要么预设一些评价性前提。因此，没有一个价值中立的论证可以得出评价性结论。
 
-从不同的角度来看同样的问题，G.E.摩尔在20世纪初提出，没有自然主义的道德解释能够充分体现我们在做出道德判断时所思考和声称的内容。摩尔指的是一系列自然主义观点，当时这些观点被认为是关于道德本质最有吸引力的解释。尽管这些观点在善、正义、美德和公正的内涵上存在差异，但它们都认为道德是完全自然的现象，并且将道德判断视为一种认为行为、制度或品质具有某种特定自然属性的思考。根据这些观点，道德属性应该与某种自然属性相对应（例如，与什么是愉快的、或者满足某人的欲望的、或者符合现行社会规则的东西相对应）。
+从不同的角度来看同样的问题，G.E.摩尔在 20 世纪初提出，没有自然主义的道德解释能够充分体现我们在做出道德判断时所思考和声称的内容。摩尔指的是一系列自然主义观点，当时这些观点被认为是关于道德本质最有吸引力的解释。尽管这些观点在善、正义、美德和公正的内涵上存在差异，但它们都认为道德是完全自然的现象，并且将道德判断视为一种认为行为、制度或品质具有某种特定自然属性的思考。根据这些观点，道德属性应该与某种自然属性相对应（例如，与什么是愉快的、或者满足某人的欲望的、或者符合现行社会规则的东西相对应）。
 
 考虑特别是将善与快乐或成为渴望拥有的对象等同的观点，穆尔认为这些观点混淆了善的属性与其他好事可能具有的属性。为了支持他的观点，穆尔提出了一个简单的测试。无论你选择哪种解释，比如说，认为好就是愉快的，然后考虑一个理解相关术语的人是否可以合理地问一个她承认是愉快的事物是否是好的。似乎她可以这样问。而且似乎在提出这个问题时，她并没有透露任何概念上的混淆或无能。这个问题，正如穆尔所说，是一个真正开放的问题。但是我们必须承认，认为某事是愉快的并不等同于认为它是好的。否则，怀疑一个被承认为愉快的事物是否好将是毫无意义的，就像怀疑一个已知愉快的事物是否愉快一样。然而，如果认为某事好与认为它愉快是不同的，那么这些想法（穆尔假设）必须涉及归因于不同属性。
 
 穆尔迅速指出，承认问题是开放的，正如他的论证所假设的那样，与发现事实上一切愉快的事物也都是好的是相容的。穆尔的观点是，这个问题并没有在概念上解决（如果认为某事好只是认为它愉快的问题，那么它将是解决的）。因为对于所有候选的自然主义提议，类似的问题仍然是开放的，穆尔认为没有任何提议可以合法地被辩护为概念上的真理，并且它们都未能准确捕捉到我们在思考某事物是好的时候的思维。
 
-穆尔的论证产生了巨大的影响，当时对大多数人来说是决定性的。因此，非自然主义在元伦理学领域得到了新的生机，许多人试图阐述、系统化和捍卫道德的解释、理论，以抵制将道德属性与自然属性等同的诱惑。[7]那些被称为直觉主义者的人们，大部分关注于捍卫这样一个观点：道德知识虽然不是基于我们的感官和我们可能收集的经验数据，但它的基础与我们对数学或在科学中起关键作用的基本概念（如因果关系和必然性）的知识一样牢固。元伦理学中的大部分工作都追求一种找到罪责伴随者的策略，即展示道德属性作为非自然属性以及对我们对道德证据的性质所假设的影响，并不会使道德比其他受尊重的知识领域更糟糕。
+穆尔的论证产生了巨大的影响，当时对大多数人来说是决定性的。因此，非自然主义在元伦理学领域得到了新的生机，许多人试图阐述、系统化和捍卫道德的解释、理论，以抵制将道德属性与自然属性等同的诱惑。[7] 那些被称为直觉主义者的人们，大部分关注于捍卫这样一个观点：道德知识虽然不是基于我们的感官和我们可能收集的经验数据，但它的基础与我们对数学或在科学中起关键作用的基本概念（如因果关系和必然性）的知识一样牢固。元伦理学中的大部分工作都追求一种找到罪责伴随者的策略，即展示道德属性作为非自然属性以及对我们对道德证据的性质所假设的影响，并不会使道德比其他受尊重的知识领域更糟糕。
 
 然而，穆尔从我们的思维中对我们所归因的属性的性质的主张中轻率地滑过，提供了一个重要的抵抗点。穆尔认为，提出道德主张就是表达一种独特的信念（可能是真实的或错误的），关于事物的本质。具体而言，它是表达一种信念，即某种行为、制度或品质具有正确、善良或美德的属性。挑战（穆尔假设）在于弄清楚我们在将某物视为正确、善良或美德时，所认为它具有的属性是什么。他认为，应该从我们的信念内容入手。
 
@@ -68,7 +68,7 @@
 
 当然，非认知主义者需要解释为什么道德判断似乎如此合理，将其视为信念的表达，并将其视为将属性归因于行为、制度和人物的问题。他们需要解释为什么道德思维似乎适当地受到逻辑规则的约束，而在非认知主义的观点中扮演核心角色的各种态度似乎都不属于那个领域。直面这一挑战，最近的表达主义版本以“准实在主义”的名义，以非认知主义的基础为中心，解释了道德语言如何以及为什么具有认知主义和实在主义的所有特征。这些观点从世界既没有道德属性也没有人相信道德属性（尽管他们有其他信念）的图景开始，然后解释了思考和谈论道德属性、道德信念、道德真理和道德事实的实践可能如何自然而适当地出现。核心思想是我们可以将我们的思想和言论看作是基本上表达我们情感态度或承诺的问题，这导致了对相应属性、信念、真理和事实的合法思考和言论。这个想法有两个基础。一个是坚持认为对属性、信念、真理和事实的讨论是廉价的：一旦一个人真诚地认为“撒谎是错误的”，在添加“撒谎具有错误的属性”或“我相信撒谎是错误的”或“撒谎是错误的是真实的”或“撒谎是错误的是事实”的时候，并没有额外的承诺。实际上，这些只是说同一件事的不同方式。而且，如果一开始真诚地说“撒谎是错误的”是一种表达态度或承诺的方式，那么这些说同一件事的替代方式也是如此。 支持准实在主义的第二个步骤是指出，关于类似于现实主义的道德话语是否合法的问题本身就是一个评价性问题，需要根据个人的态度和承诺来判断。在这种观点下，没有独立的标准，比如“与世界相符”，可以在不表达个人态度和承诺的情况下使用。
 
-各种版本的非认知主义，特别是准实在主义表达主义的版本，仍然是抵制穆尔开放问题论证的非自然主义含义最有吸引力的方式之一。[11] 但它们并不是唯一的选择。许多人认为，虽然穆尔的论证表明认为某物是好的与认为它是愉快的（或是欲望的对象，或是符合某种规范的）是不同的，但它并没有表明好与愉快（或是欲望的对象，或是符合某种规范的）是不同的。毕竟，他们指出，认为某种液体是H2O与认为它是水是不同的，人们可以合理地怀疑自己所承认的水是否真的是H2O。然而，这并不表明水与H2O是不同的。远非如此。思想之间的差异并不能证明属性之间的差异。因此，根据开放问题论证所展示的一切，自然主义关于道德属性本质的解释可能是正确的。自然主义解释不能仅仅作为一个概念上的真理来辩护，但它也不能像穆尔认为的那样被拒绝，即将一个属性（自然属性）明显地混淆为另一个属性（道德属性）。这种认知主义没有困扰地解释了为什么将道德判断视为信念的表达，并将其视为将属性归因于行为、制度和人物的问题。根据这种解释，道德判断实际上是信念的表达，并且确实涉及将属性归因于行为、制度和人物（尽管该解释认为所归因的属性的真正本质可能会让某些人感到惊讶）。 同样地，这种认知主义可以解释为什么道德思维似乎适当地受到逻辑规则的约束：它之所以适当地受到这些规则的约束，是因为它确实受到了。然而，当涉及解释道德思维的明显独特性时，问题就出现了。如果认为某事物是好的或正确的是将某种自然属性归属于该事物的问题，那么是什么解释了道德思维的明显独特性呢？
+各种版本的非认知主义，特别是准实在主义表达主义的版本，仍然是抵制穆尔开放问题论证的非自然主义含义最有吸引力的方式之一。[11] 但它们并不是唯一的选择。许多人认为，虽然穆尔的论证表明认为某物是好的与认为它是愉快的（或是欲望的对象，或是符合某种规范的）是不同的，但它并没有表明好与愉快（或是欲望的对象，或是符合某种规范的）是不同的。毕竟，他们指出，认为某种液体是 H2O 与认为它是水是不同的，人们可以合理地怀疑自己所承认的水是否真的是 H2O。然而，这并不表明水与 H2O 是不同的。远非如此。思想之间的差异并不能证明属性之间的差异。因此，根据开放问题论证所展示的一切，自然主义关于道德属性本质的解释可能是正确的。自然主义解释不能仅仅作为一个概念上的真理来辩护，但它也不能像穆尔认为的那样被拒绝，即将一个属性（自然属性）明显地混淆为另一个属性（道德属性）。这种认知主义没有困扰地解释了为什么将道德判断视为信念的表达，并将其视为将属性归因于行为、制度和人物的问题。根据这种解释，道德判断实际上是信念的表达，并且确实涉及将属性归因于行为、制度和人物（尽管该解释认为所归因的属性的真正本质可能会让某些人感到惊讶）。 同样地，这种认知主义可以解释为什么道德思维似乎适当地受到逻辑规则的约束：它之所以适当地受到这些规则的约束，是因为它确实受到了。然而，当涉及解释道德思维的明显独特性时，问题就出现了。如果认为某事物是好的或正确的是将某种自然属性归属于该事物的问题，那么是什么解释了道德思维的明显独特性呢？
 
 认知主义者和非认知主义者面临着一个共同的挑战：既要解释道德思维和言论的本质，又要同时兼顾其独特性，而不失对其与非道德思维和言论之间重要联系的认识。认知主义在适应道德思维和言论与非道德思维和言论之间的连续性方面相对容易，但是，特别是与自然主义相结合时，它在标示道德思维和言论的独特性方面面临着真正的挑战；非认知主义在容纳道德思维和言论的独特性方面没有问题，但是在连续性方面却有困难。（参见道德认知主义与非认知主义条目。）
 
@@ -116,7 +116,7 @@
 
 苏格拉底自己关于他观点的形而上学和认识论基础的解释（他对永恒的、非物质的柏拉图式形式的倚重，以及我们对这些形式的智力访问）无疑使他承认非自然主义和类似直觉主义的观点。然而，他对正义本质的解释（作为人们成功地受理性统治的问题）以及他认为能够证明正义价值的具体特征（特别是与自由的联系），对于自然主义者和非自然主义者来说都是可行的（只要理性和自由能够被自然主义地理解）。
 
-无论如何，格劳孔关心的根本问题是“为什么我应该道德？”一直以来一直是试图解释道德与我们有理由做的事情之间的联系的中心问题[18]。有人认为这个问题是错误的，至少如果它假设必须有一些非道德的理由才能道德。其他人则认为这个问题很容易回答，因为某个行为是道德上要求的，例如，就意味着有理由去做它。还有一些人则认为这个问题对道德合法性提出了最重要的挑战，因为道德对我们的效忠要求取决于我们有理由遵守它的要求，然而解释为什么我们可能有这些理由是非常困难的。
+无论如何，格劳孔关心的根本问题是“为什么我应该道德？”一直以来一直是试图解释道德与我们有理由做的事情之间的联系的中心问题 [18]。有人认为这个问题是错误的，至少如果它假设必须有一些非道德的理由才能道德。其他人则认为这个问题很容易回答，因为某个行为是道德上要求的，例如，就意味着有理由去做它。还有一些人则认为这个问题对道德合法性提出了最重要的挑战，因为道德对我们的效忠要求取决于我们有理由遵守它的要求，然而解释为什么我们可能有这些理由是非常困难的。
 
 无论一个人最终采取什么样的观点，关于道德属性、道德判断、行动理由和有效动机之间的联系（或者不联系），没有任何解释能够合理地证明道德，除非它能够解释道德考虑如何适当地在决策和行动中发挥作用。成功地做到这一点，原则上与认为道德属性并不总是提供理由是相容的，也与认为道德判断有时无法激发动机相容，最后，也与认为一个人可能有理由去执行一些他没有动机去执行的行动的想法相容。当然，这些不同的观点都是相当有争议的，并涉及到拒绝其他人认为是必要真理的观点。
 
@@ -140,71 +140,71 @@
 * Blackburn, Simon, 1993, *Essays in Quasi-Realism*, New York: Oxford University Press.
 * –––, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Clarendon Press.
 * Boyd, Richard, 1988, “How to Be a Moral Realist”, in Sayre-McCord 1988: 181–228.
-* Brink, David Owen, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624612
+* Brink, David Owen, 1989, *Moral Realism and the Foundations of Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511624612
 * Dancy, Jonathan, 1993, *Moral Reasons*, Oxford: Blackwell.
-* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, *Journal of Philosophy*, 76(5): 256–82; reprinted in his *Justice and Justification: Reflective Equilibrium in Theory and Practice*, Cambridge: Cambridge University Press, 1996, pp. 21–46. doi:10.2307/2025881
-* Enoch, David, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199579969.001.0001
-* Falk, W. D., 1947–1948, “‘Ought’ and Motivation”, *Proceedings of the Aristotelian Society*, 48: 111–138. doi:10.1093/aristotelian/48.1.111
-* Firth, Roderick, 1952, “Ethical Absolutism and the Ideal Observer”, *Philosophy and Phenomenological Research*, 12(3): 317–345. doi:10.2307/2103988
-* Foot, Philippa, 1959, “Moral Beliefs”, *Proceedings of the Aristotelian Society*, 59: 83–104. doi:10.1093/aristotelian/59.1.83
-* –––, 1972, “Morality as a System of Hypothetical Imperatives”, *The Philosophical Review*, 81(3): 305–316. doi:10.2307/2184328
-* –––, 2001, *Natural Goodness*, Oxford: Clarendon. doi:10.1093/0198235089.001.0001
-* Frankena, William K., 1939, “The Naturalistic Fallacy”, *Mind*, 48(192): 464–477. doi:10.1093/mind/XLVIII.192.464
-* Gauthier, David P., 1986, *Morals by Agreement*, Oxford: Clarendon Press. doi:10.1093/0198249926.001.0001
-* Geach, P. T., 1965, “Assertion”, *The Philosophical Review*, 74(4): 449–465. doi:10.2307/2183123
+* Daniels, Norman, 1979, “Wide Reflective Equilibrium and Theory Acceptance in Ethics”, *Journal of Philosophy*, 76(5): 256–82; reprinted in his *Justice and Justification: Reflective Equilibrium in Theory and Practice*, Cambridge: Cambridge University Press, 1996, pp. 21–46. doi: 10.2307/2025881
+* Enoch, David, 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199579969.001.0001
+* Falk, W. D., 1947–1948, “‘Ought’ and Motivation”, *Proceedings of the Aristotelian Society*, 48: 111–138. doi: 10.1093/aristotelian/48.1.111
+* Firth, Roderick, 1952, “Ethical Absolutism and the Ideal Observer”, *Philosophy and Phenomenological Research*, 12(3): 317–345. doi: 10.2307/2103988
+* Foot, Philippa, 1959, “Moral Beliefs”, *Proceedings of the Aristotelian Society*, 59: 83–104. doi: 10.1093/aristotelian/59.1.83
+* –––, 1972, “Morality as a System of Hypothetical Imperatives”, *The Philosophical Review*, 81(3): 305–316. doi: 10.2307/2184328
+* –––, 2001, *Natural Goodness*, Oxford: Clarendon. doi: 10.1093/0198235089.001.0001
+* Frankena, William K., 1939, “The Naturalistic Fallacy”, *Mind*, 48(192): 464–477. doi: 10.1093/mind/XLVIII.192.464
+* Gauthier, David P., 1986, *Morals by Agreement*, Oxford: Clarendon Press. doi: 10.1093/0198249926.001.0001
+* Geach, P. T., 1965, “Assertion”, *The Philosophical Review*, 74(4): 449–465. doi: 10.2307/2183123
 * Gibbard, Allan, 1990, *Wise Choices, Apt Feelings: A Theory of Normative Judgment*, Cambridge, MA: Harvard University Press.
 * –––, 2003, *Thinking How to Live*, Cambridge, MA: Harvard University Press.
-* Hampton, Jean E., 1998, *The Authority of Reason*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625213
-* Hare, R. M., 1952, *The Language of Morals*, Oxford: Clarendon Press. doi:10.1093/0198810776.001.0001
-* –––, 1963, *Freedom and Reason*, Oxford: Clarendon Press. doi:10.1093/019881092X.001.0001
-* Harman, Gilbert, 1975, “Moral Relativism Defended”, *The Philosophical Review*, 84(1): 3–22. doi:10.2307/2184078
+* Hampton, Jean E., 1998, *The Authority of Reason*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511625213
+* Hare, R. M., 1952, *The Language of Morals*, Oxford: Clarendon Press. doi: 10.1093/0198810776.001.0001
+* –––, 1963, *Freedom and Reason*, Oxford: Clarendon Press. doi: 10.1093/019881092X.001.0001
+* Harman, Gilbert, 1975, “Moral Relativism Defended”, *The Philosophical Review*, 84(1): 3–22. doi: 10.2307/2184078
 * –––, 1977, *The Nature of Morality*, New York: Oxford University Press.
 * Hobbes, Thomas, 1651, *Leviathan*, London: Crooke; reprinted Oxford: Clarendon, 1909.
-* Huemer, Michael, 2005, *Ethical Intuitionism*, Basingstoke/New York: Palgrave Macmillan. doi:10.1057/9780230597051
+* Huemer, Michael, 2005, *Ethical Intuitionism*, Basingstoke/New York: Palgrave Macmillan. doi: 10.1057/9780230597051
 * Hume, David, 1739, *A Treatise of Human Nature*, London: John Noon; reprinted Oxford: Clarendon Press, L.A. Selby-Bigge (ed.), 1888.
 * –––, 1751, *An Enquiry Concerning the Principles of Morals*, London: A. Millar; reprinted Oxford: Oxford University Press, L. A. Selby-Bigge (ed.), 1902.
-* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi:10.1093/0198250614.001.0001
-* Joyce, Richard, 2001, *The Myth of Morality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487101
+* Jackson, Frank, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Clarendon Press. doi: 10.1093/0198250614.001.0001
+* Joyce, Richard, 2001, *The Myth of Morality*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511487101
 * Kant, Immanuel, 1785, *Grounding for the Metaphysics of Morals*, James W. Ellington (trans.), Indianapolis: Hackett Publishing Company, 1993.
-* Korsgaard, Christine M., 1996, *The Sources of Normativity*, New York: Cambridge University Press. doi:10.1017/CBO9780511554476
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, New York: Cambridge University Press. doi: 10.1017/CBO9780511554476
 * Mackie, J. L., 1977, *Ethics: Inventing Right and Wrong*, (Pelican Books), Harmondsworth/New York: Penguin.
-* McDowell, John, 1978, “Are Moral Requirements Hypothetical Imperatives?”, *Aristotelian Society Supplementary Volume*, 52: 13–29. doi:10.1093/aristoteliansupp/52.1.13
+* McDowell, John, 1978, “Are Moral Requirements Hypothetical Imperatives?”, *Aristotelian Society Supplementary Volume*, 52: 13–29. doi: 10.1093/aristoteliansupp/52.1.13
 * –––, 1987, *Projection and Truth in Ethics*, (Lindley Lecture 1987), Lawrence, Kansas: Department of Philosophy, University of Kansas, 1988.
-* McGrath, Sarah, 2019–––2020, *Moral Knowledge*, Oxford/New York: Oxford University Press. doi:10.1093/oso/9780198805410.001.0001
-* McKeever, Sean D. and Michael Ridge, 2006, *Principled Ethics: Generalism as a Regulative Ideal*, Oxford: Oxford University Press. doi:10.1093/0199290652.001.0001
+* McGrath, Sarah, 2019–––2020, *Moral Knowledge*, Oxford/New York: Oxford University Press. doi: 10.1093/oso/9780198805410.001.0001
+* McKeever, Sean D. and Michael Ridge, 2006, *Principled Ethics: Generalism as a Regulative Ideal*, Oxford: Oxford University Press. doi: 10.1093/0199290652.001.0001
 * Mill, John Stuart, 1843, *A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation*, London: John W. Parker.
 * –––, 1863, *Utilitarianism*, London: Parker, Son & Bourn, West Strand.
 * Moore, G. E., 1903, *Principia Ethica*, Cambridge: Cambridge University Press.
 * Nagel, Thomas, 1970, *The Possibility of Altruism*, Oxford: Clarendon Press.
 * Ogden, C. K. and I. A. Richards, 1923, *The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism*, (International Library of Psychology, Philosophy, and Scientific Method), New York: Harcourt, Brace & Company.
-* Parfit, Derek, 2011, *On What Matters, Volume 2*, Samuel Scheffler (ed.), (The Berkeley Tanner Lectures), Oxford/New York: Oxford University Press. doi:10.1093/acprof:osobl/9780199572816.001.0001
+* Parfit, Derek, 2011, *On What Matters, Volume 2*, Samuel Scheffler (ed.), (The Berkeley Tanner Lectures), Oxford/New York: Oxford University Press. doi: 10.1093/acprof: osobl/9780199572816.001.0001
 * Perry, Ralph Barton, 1926, *General Theory of Value: Its Meaning and Basic Principles Construed in Terms of Interest*, New York: Longmans, Green and Company.
 * Platts, Mark de Bretton, 1979, “Moral Reality”, in his *Ways of Meaning: An Introduction to a Philosophy of Language*, London: Routledge & K. Paul, Chapter X, 243–263.
 * Plato, *Republic*, G. M. A. Grube (trans.), revised by C. D. C. Reeve, Indianapolis: Hackett, 1992.
-* Prichard, H. A., 1912, “Does Moral Philosophy Rest on a Mistake ?”, *Mind*, 21(81): 21–37. doi:10.1093/mind/XXI.81.21
-* Railton, Peter, 1986, “Moral Realism”, *The Philosophical Review*, 95(2): 163–207. doi:10.2307/2185589
-* –––, 2003, *Facts, Values, and Norms: Essays toward a Morality of Consequence*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511613982
+* Prichard, H. A., 1912, “Does Moral Philosophy Rest on a Mistake ?”, *Mind*, 21(81): 21–37. doi: 10.1093/mind/XXI.81.21
+* Railton, Peter, 1986, “Moral Realism”, *The Philosophical Review*, 95(2): 163–207. doi: 10.2307/2185589
+* –––, 2003, *Facts, Values, and Norms: Essays toward a Morality of Consequence*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511613982
 * Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
 * Ross, W. D., 1930, *The Right and the Good*, Oxford: Clarendon Press.
 * Sayre-McCord, Geoffrey (ed.), 1988, *Essays on Moral Realism*, Ithaca, NY: Cornell University Press.
-* –––, 1988, “Moral Theory and Explanatory Impotence”, *Midwest Studies in Philosophy*, 12: 433–57. doi:10.1111/j.1475-4975.1988.tb00177.x
-* –––, 1991, “Being a Realist about Relativism (in Ethics)”, *Philosophical Studies*, 61(1–2): 155–176. doi:10.1007/BF00385839
+* –––, 1988, “Moral Theory and Explanatory Impotence”, *Midwest Studies in Philosophy*, 12: 433–57. doi: 10.1111/j.1475-4975.1988.tb00177.x
+* –––, 1991, “Being a Realist about Relativism (in Ethics)”, *Philosophical Studies*, 61(1–2): 155–176. doi: 10.1007/BF00385839
 * –––, 1996, “Coherentist Epistemology and Moral Theory”, in Sinnott-Armstrong and Timmons 1996: 137–189.
 * Scanlon, Thomas, 1998, *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
-* Schroeder, Mark Andrew, 2008, *Being for: Evaluating the Semantic Program of Expressivism*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199534654.001.0001
-* Shafer-Landau, Russ, 2003, *Moral Realism: A Defence*, Oxford: Clarendon. doi:10.1093/0199259755.001.0001
-* Sinnott-Armstrong, Walter, 2006, *Moral Skepticisms*, Oxford/New York: Oxford University Press. doi:10.1093/0195187725.001.0001
+* Schroeder, Mark Andrew, 2008, *Being for: Evaluating the Semantic Program of Expressivism*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199534654.001.0001
+* Shafer-Landau, Russ, 2003, *Moral Realism: A Defence*, Oxford: Clarendon. doi: 10.1093/0199259755.001.0001
+* Sinnott-Armstrong, Walter, 2006, *Moral Skepticisms*, Oxford/New York: Oxford University Press. doi: 10.1093/0195187725.001.0001
 * Sinnott-Armstrong, Walter and Mark Timmons (eds.), 1996, *Moral Knowledge? New Readings in Moral Epistemology*, New York: Oxford University Press.
 * Smith, Michael, 1994, *The Moral Problem*, Oxford/Cambridge, MA: Blackwell.
-* –––, 2004, *Ethics and the A Priori: Selected Essays on Moral Psychology and Meta-Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511606977
-* Stevenson, Charles Leslie, 1937, “The Emotive Meaning of Ethical Terms”, *Mind*, 46(181): 14–31. doi:10.1093/mind/XLVI.181.14
+* –––, 2004, *Ethics and the A Priori: Selected Essays on Moral Psychology and Meta-Ethics*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511606977
+* Stevenson, Charles Leslie, 1937, “The Emotive Meaning of Ethical Terms”, *Mind*, 46(181): 14–31. doi: 10.1093/mind/XLVI.181.14
 * –––, 1944, *Ethics and Language*, New Haven, CT: Yale University Press.
 * –––, 1963, *Facts and Values: Studies in Ethical Analysis*, New Haven, CT: Yale University Press.
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127: 109–166. doi:10.1007/s11098-005-1726-6
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127: 109–166. doi: 10.1007/s11098-005-1726-6
 * Sturgeon, Nicholas, 1985, “Moral Explanations”, in *Morality, Reason, and Truth*, David Copp and David Zimmerman (eds.), Totowa, NJ: Rowman and Allanheld, pp. 49–78.
-* Svavarsdóttir, Sigrún, 1999, “Moral Cognitivism and Motivation”, *The Philosophical Review*, 108(2): 161–219. doi:10.2307/2998300
-* Wedgwood, Ralph, 2007, *The Nature of Normativity*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199251315.001.0001
-* Williams, Bernard, 1981, *Moral Luck: Philosophical Papers 1973–1980*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165860
+* Svavarsdóttir, Sigrún, 1999, “Moral Cognitivism and Motivation”, *The Philosophical Review*, 108(2): 161–219. doi: 10.2307/2998300
+* Wedgwood, Ralph, 2007, *The Nature of Normativity*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780199251315.001.0001
+* Williams, Bernard, 1981, *Moral Luck: Philosophical Papers 1973–1980*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139165860
 * –––, 1985, *Ethics and the Limits of Philosophy*, London: Fontana.
 * Wong, David, 1984, *Moral Relativity*, Berkeley, CA: University of California Press.
 

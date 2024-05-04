@@ -16,17 +16,17 @@
 
 ### 1.1 心与身体之间关系的整体诠释
 
-罗杰·T·艾姆斯解释心与身体是他称之为“身心合一”的过程的一部分。他确定了这一过程的媒介是_气_（氣），即“生命能量场”（艾姆斯 2015：173）。我们所谓的“事物”是物理和心理能量的持久而暂时的扰动。生命是一个真正能量的过程。在类似的观点中，弗朗索瓦·朱利安（2005 \[2007]）对比了希腊将身体或“有机存在”与生命原则或“动力”（2005 \[2007: 56–59]）分开的观点，与中国认为有机存在和动力都源自_气_，“呼吸能量”的观点。所有事物都是“能量的弥散和无形流动的凝聚或凝结，它在世界中不断流动，赋予生命力”（2005 \[2007: 76]）。在中国，与西方所关联的灵魂现象是轻盈、精致的_气_（呼吸），而骨头是更加浓密的_气_。朱利安认为，在中国思想中，这些逐渐的区别并没有本体论上的分歧。
+罗杰 ·T· 艾姆斯解释心与身体是他称之为“身心合一”的过程的一部分。他确定了这一过程的媒介是_气_（氣），即“生命能量场”（艾姆斯 2015：173）。我们所谓的“事物”是物理和心理能量的持久而暂时的扰动。生命是一个真正能量的过程。在类似的观点中，弗朗索瓦 · 朱利安（2005 \[2007]）对比了希腊将身体或“有机存在”与生命原则或“动力”（2005 \[2007: 56–59]）分开的观点，与中国认为有机存在和动力都源自_气_，“呼吸能量”的观点。所有事物都是“能量的弥散和无形流动的凝聚或凝结，它在世界中不断流动，赋予生命力”（2005 \[2007: 76]）。在中国，与西方所关联的灵魂现象是轻盈、精致的_气_（呼吸），而骨头是更加浓密的_气_。朱利安认为，在中国思想中，这些逐渐的区别并没有本体论上的分歧。
 
 ### 1.2 对整体诠释的批判性讨论
 
-Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元论者如赫拉克利特、斯宾诺莎、怀特海德以及实用主义者威廉·詹姆斯和约翰·杜威所追求的一元论相一致。此外，现代物理学的问题与能量是连续的。量子纠缠的难题表明整个宇宙可能被编织在一个整体过程中，而不是在机械因果链中的一系列可分割的事件。
+Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元论者如赫拉克利特、斯宾诺莎、怀特海德以及实用主义者威廉 · 詹姆斯和约翰 · 杜威所追求的一元论相一致。此外，现代物理学的问题与能量是连续的。量子纠缠的难题表明整个宇宙可能被编织在一个整体过程中，而不是在机械因果链中的一系列可分割的事件。
 
 在中国思想中，*气* 不仅构成了身体的动态，还是个体思想、情感和意图的推动力。最初被认定为生物的血液和呼吸的_气_，邹衍关于_气_作为万物之物的理论成为中国的共同看法。《孟子》（拉丁化形式“孟子”，公元前 4 世纪）假定世界上的_气_与心灵的_气_相一致。他断言，心灵的意志，即心灵形成目标或意图的能力，指导（帅）身体的_气_（《孟子》2A8）。当有人问他说自己擅长滋养自己像洪水般的_气_是什么意思时，他回答说，他的_气_异常强大，如果以正直滋养它，它将充满天地之间的空间（《孟子》2A14）。通过适当的方式培养_气_，实现了归因于心灵的道德美德。孟子的心灵是一个人_气_的一部分，具有引导其余_气_的功能。
 
 另一方面，关于鬼魂的中国民间信仰被认为与或至少对中国思想没有二元倾向的观点产生了质疑。在一些早期中国文本中出现的一种信仰，比如《春秋左传注》，认为如果人们死于暴力，他们的_魄_魂和_魂_魂会被激起，并对生者采取恶意行动。这表明_魂_和_魄_魂从身体的_气_中分离出来，也许是以一种非常稀薄的形式。没有明确而一致的声明排除了这一点。与鬼魂分开，早期的中国文本将_神_描述为鬼魂可能拥有或可能没有的东西，赋予了行为指导能力，这是生者所具有的。有时被描绘为在死后离开身体，并居住在一个领域，可以通过后代的祭祀仪式来对其进行交流。翻译者通常将_神_翻译为“精神”，这是一个人的那一部分，可以通过他们的行为来培养，以促进世界中的核心或重要事物。 (*庄子* 和 *荀子*)。二者都没有将_神_与_气_分开，而是暗示_神_是一种纯粹能量的特殊类型的_气_，就像光一样。
 
-保罗·戈尔丁指出《庄子》中的段落，心似乎不受身体发生的相当剧烈变化的影响，例如，（《庄子》，《大宗师》，第 5 节；戈尔丁 2003 年：228）。爱德华·斯林格兰（2013）引用《庄子》中的另一段（《德充符》，第 4 节），讲述了一群小猪停止吸吮死去母亲的身体并逃走的故事，它们感觉到母亲与它们不同。它们并不爱母亲的形状（*形*）而是爱驱动或指挥（*使*）它的东西。斯林格兰还引用了他描述为先秦文本的随机样本，包括最近发现的郭店文本，他认为这些文本表现出一种某种区别的强烈民间信仰。他承认他对这些段落的阅读是有争议的，但希望这一观点得到他全面取样文本的支持。他承认这种区别可能不是西方的本体论、物质二元论。
+保罗 · 戈尔丁指出《庄子》中的段落，心似乎不受身体发生的相当剧烈变化的影响，例如，（《庄子》，《大宗师》，第 5 节；戈尔丁 2003 年：228）。爱德华 · 斯林格兰（2013）引用《庄子》中的另一段（《德充符》，第 4 节），讲述了一群小猪停止吸吮死去母亲的身体并逃走的故事，它们感觉到母亲与它们不同。它们并不爱母亲的形状（*形*）而是爱驱动或指挥（*使*）它的东西。斯林格兰还引用了他描述为先秦文本的随机样本，包括最近发现的郭店文本，他认为这些文本表现出一种某种区别的强烈民间信仰。他承认他对这些段落的阅读是有争议的，但希望这一观点得到他全面取样文本的支持。他承认这种区别可能不是西方的本体论、物质二元论。
 
 他指出，这种区别不是物质的基本二元论，而是一系列现象，从身体器官_心_到魄和魂魄，再到有智慧的_神_，斯林格兰指出，这些可以相互结合。在《孟子》2A 中，心与身体的_气_相互作用：心不仅通过其意图指挥_气_，而且在意图不统一时也会被_气_所感动。与笛卡尔的心灵不同，_心_的_气_可以与身体的_气_以及充满天地之间空间的更广泛的_气_相互作用。这个形象将物质、身体和心灵融合在一个精神、道德和物理空间中。它表明人类与世界其他部分融为一体，成为一个有机整体。
 
@@ -36,9 +36,9 @@ Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元
 
 心与身体之间的功能区分符合由其部分系统构成的有机整体所表现的功能整体论（Wang 2013；Wong 2020）。这些关系有时被描述为“对应的”。这个术语的含义各不相同（参见 Granet 1934；Needham 1954；Graham 1989；Hall＆Ames 1998），但都指的是各种类别（*lei* 类）。其中最一般的是阴和阳，两种构成其他事物的_气_的类型：阴收缩和屈服（与黑暗和女性相关），阳扩张和主导（与光明和男性相关）。它们共同形成一个整体，无论是在世界上还是在人的身上。它们的互动可以涉及对立、互补和循环交替（Wang 2013）。
 
-尽管这种互动的性质有时被描述为非因果关系，但最有说服力的对比可能是与机械和线性因果关系的概念相提并论，在那种概念中，效果（如被另一个台球撞击的台球）是纯 passively and inert。中国哲学中设想的互动未必与因果关系的其他概念不相容，其中原因“与受影响的事物的倾向相协作”（Perkins 2019）。这符合整体作为生物和有机体的范式。孟子构想人性中的道德种子/幼苗（在下文[§2.4](https://plato.stanford.edu/entries/chinese-mind/#Meng)中讨论），通过个体的道德反思和行动，以及这些受到稳定物质生计和伦理教育的影响，这些种子/幼苗会成长为道德美德。培育一个人的美德种子，因此是外部因素与内在倾向互动的一个例子。
+尽管这种互动的性质有时被描述为非因果关系，但最有说服力的对比可能是与机械和线性因果关系的概念相提并论，在那种概念中，效果（如被另一个台球撞击的台球）是纯 passively and inert。中国哲学中设想的互动未必与因果关系的其他概念不相容，其中原因“与受影响的事物的倾向相协作”（Perkins 2019）。这符合整体作为生物和有机体的范式。孟子构想人性中的道德种子/幼苗（在下文 [§2.4](https://plato.stanford.edu/entries/chinese-mind/#Meng) 中讨论），通过个体的道德反思和行动，以及这些受到稳定物质生计和伦理教育的影响，这些种子/幼苗会成长为道德美德。培育一个人的美德种子，因此是外部因素与内在倾向互动的一个例子。
 
-中国哲学的一个显著特点是其实用和伦理取向（这里的“伦理”广义地包括所有规范指导，而不仅仅是道德）。道家的_道_比道德家对_义_（道德）的关注更广泛。《庄子》专注于这种广义上的生活方式（见下面的[§2.5](https://plato.stanford.edu/entries/chinese-mind/#Zhua)）。人类的这些部分的组织和功能以及我们作为自然界的一部分的互动（自然_道_）与此讨论相关。儒家，特别是孟子，更多地关注内在的功能/器官的等级制度。道家，以及在较小程度上墨家和《荀子》，则探讨人类作为自然界一部分的更广泛安排。这些不同的心智如何与身体的其他部分（欲望和情绪）以及自然界相关的构想，奠定了中国古代伦理讨论的基础。《庄子》提供了比《孟子》更少等级制度的构想。
+中国哲学的一个显著特点是其实用和伦理取向（这里的“伦理”广义地包括所有规范指导，而不仅仅是道德）。道家的_道_比道德家对_义_（道德）的关注更广泛。《庄子》专注于这种广义上的生活方式（见下面的 [§2.5](https://plato.stanford.edu/entries/chinese-mind/#Zhua)）。人类的这些部分的组织和功能以及我们作为自然界的一部分的互动（自然_道_）与此讨论相关。儒家，特别是孟子，更多地关注内在的功能/器官的等级制度。道家，以及在较小程度上墨家和《荀子》，则探讨人类作为自然界一部分的更广泛安排。这些不同的心智如何与身体的其他部分（欲望和情绪）以及自然界相关的构想，奠定了中国古代伦理讨论的基础。《庄子》提供了比《孟子》更少等级制度的构想。
 
 ## 2. 人的规范概念
 
@@ -56,7 +56,7 @@ Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元
 
 ### 2.1《论语》
 
-《论语》（*Lun Yu* 論語）被传统视为对历史上的孔子（拉丁化名“孔子”551-479 年前; 有关《论语》的更多信息，请参阅[Confucius, §2.1](https://plato.stanford.edu/entries/confucius/#SourForConfLifeThou)）教导最可靠的反映。孔子自称传授古圣人的伦理指导（参见江 2021）。*君子*（exemplary person）和_圣人_（sage）的心灵在道德修养中起着关键作用，成为如何道德修养人们的示范，能够为君王提供建议或自己成为君王的示例。
+《论语》（*Lun Yu* 論語）被传统视为对历史上的孔子（拉丁化名“孔子”551-479 年前; 有关《论语》的更多信息，请参阅 [Confucius, §2.1](https://plato.stanford.edu/entries/confucius/#SourForConfLifeThou)）教导最可靠的反映。孔子自称传授古圣人的伦理指导（参见江 2021）。*君子*（exemplary person）和_圣人_（sage）的心灵在道德修养中起着关键作用，成为如何道德修养人们的示范，能够为君王提供建议或自己成为君王的示例。
 
 在《论语》2.4 中，孔子提供了一份小传记，指出了他道德修养中的几个阶段。十五岁时，他立志学习。三十岁时，他能够确定自己的位置（在社会中的位置）。四十岁时，他没有困惑（完美地执行角色仪式）。五十岁时，他了解了_天_（他天赋的使命）的意旨。六十岁时，他的耳朵变得敏锐（对口头提示做出自发反应）。七十岁时，他能够遵循心灵的愿望而不越过界限。
 
@@ -70,7 +70,7 @@ Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元
 
 三军或许会失去他们的统帅，但甚至平民也不能失去他们的目标。所有人都致力于他们的目标，就像军队致力于保护他们的统帅一样。
 
-儒家伦理以充分实现人性为核心理想。这一理想根植于家庭关系，并延伸至所有社会关系。因此，了解他人的心性对于道德修养至关重要。当有人问他是否有一个词可以概括他的指导时，孔子回答说：“是有情恕己：己所不欲，勿施于人”（《论语》15.24）。这被称为儒家的“负面”金律，6.30 提供了正面版本，孔子说仁人希望确立自己也寻求确立他人，并在希望成为卓越典范时，帮助他人实现卓越。他接着说，能够从身边事物中得出类推被称为仁的方法。《礼记·中庸》中的《中庸》进一步评论了当应用于对待在角色关系中的他人时，恕可能意味着什么：像我期望儿子侍奉我的方式侍奉我的父亲，像我期望大臣侍奉我的方式侍奉我的君主，像我期望弟弟对待我的方式对待兄长，以及像我期望朋友侍奉我的方式对待我的朋友（《礼记·中庸》13）。
+儒家伦理以充分实现人性为核心理想。这一理想根植于家庭关系，并延伸至所有社会关系。因此，了解他人的心性对于道德修养至关重要。当有人问他是否有一个词可以概括他的指导时，孔子回答说：“是有情恕己：己所不欲，勿施于人”（《论语》15.24）。这被称为儒家的“负面”金律，6.30 提供了正面版本，孔子说仁人希望确立自己也寻求确立他人，并在希望成为卓越典范时，帮助他人实现卓越。他接着说，能够从身边事物中得出类推被称为仁的方法。《礼记 · 中庸》中的《中庸》进一步评论了当应用于对待在角色关系中的他人时，恕可能意味着什么：像我期望儿子侍奉我的方式侍奉我的父亲，像我期望大臣侍奉我的方式侍奉我的君主，像我期望弟弟对待我的方式对待兄长，以及像我期望朋友侍奉我的方式对待我的朋友（《礼记 · 中庸》13）。
 
 恕是一种与社会他人共同实现道德卓越的方法。一个人反思身边的事物来引导自己对人类社会共同体生活的愿望。一个人对卓越的渴望并不是显而易见的，而是随着与他人共同生活而逐渐显现。孔子对道德进步的构想对每个人的生活环境中的差异都很敏感，从形成早期社会角色到身体特征和气质。一个人通过识别相关的相似之处和不同之处来同情他人。每个人的心性同样对他们在生活中展开的特定能力和角色敏感。
 
@@ -86,7 +86,7 @@ Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元
 
 然而，这一社会项目预设了另一个基本的心理假设—社会世界能够确定并达成一致，谁是领导社会建设项目的“最明智和最好”的人。而项目本身暗示了一些关于人类心理的假设。领导者显然是通过推崇选出来的，他承认自己无法统一世界上所有的道德观。他任命了一个类似于儒家式的等级官僚机构来协助他。每个层级的等级向更高层级的人汇报。然而，即使是在等级制度底层的人（例如，村庄）也承认他们无法说出什么是道德的，因此他们与普通人商议，后者应报告他们认为是道德和不道德的。这一阶段是墨子谈到惩罚谁不配合这一社会道德建设项目的阶段，方法是暂缓判断。
 
-每个建筑官僚体系的层级向上汇报。然而，最初的道德分歧假设似乎被忽视了。在每个层级，要么没有分歧，要么接收报告的官员以某种方式解决分歧。"最明智和最好的"做出最终决定。关于如何做出这一决定的线索来自墨家对发展中国实用认知（*zhi* 知）概念的贡献。实用认知，知识如何，可以支撑我们如何使用词语以及如何在自己的实践中调整建模行为。我们在学习名_míng_（名称或术语）时学到的技能是学会将辩_bian_（划分）为是_shi_这个和非_fei_那个。翻译者通常将“对错”配对使用，如对与错，对或错。指示形式提醒我们这些选择是在实时背景下做出的。
+每个建筑官僚体系的层级向上汇报。然而，最初的道德分歧假设似乎被忽视了。在每个层级，要么没有分歧，要么接收报告的官员以某种方式解决分歧。"最明智和最好的" 做出最终决定。关于如何做出这一决定的线索来自墨家对发展中国实用认知（*zhi* 知）概念的贡献。实用认知，知识如何，可以支撑我们如何使用词语以及如何在自己的实践中调整建模行为。我们在学习名_míng_（名称或术语）时学到的技能是学会将辩_bian_（划分）为是_shi_这个和非_fei_那个。翻译者通常将“对错”配对使用，如对与错，对或错。指示形式提醒我们这些选择是在实时背景下做出的。
 
 墨子提出了正确使用术语的三个标准：
 
@@ -101,7 +101,7 @@ Ames 和 Jullien 的解释将中国哲学视为始于统一，而西方的一元
 
 这个解决方案的优势在于解释墨子对“有鬼”辩护和反对“有命”中奇怪的方面。他通过证词解释第一个，即鬼魂的出现和行为惩罚作恶者，奖励行善者。然而，《墨子》第 31 章仅仅是以圣王们实践祭祀为理由来证明祭祀的正当性，而这一教义在生者中产生良好效果（即，向神灵祭祀建立了生者之间的亲缘关系，并为他们提供食物和酒）。它暗示鬼魂并不存在，但教导和相信它们的存在是有益的。从这一段落推断早期墨家对真理与信仰的实用好处进行了理论化可能是错误的，尽管后来的墨家可能被解释为注意到这种区别。
 
-早期墨家对利益标准的优先性使其伦理学成为历史上第一个后果伦理学。《墨子》中诊断人与人、家庭和国家之间的破坏性冲突是由于社会道德观念的冲突以及对我们自己家庭、村庄、国家和文化的相对偏见。功利主义推理得出一个规范心理学解决方案：采纳_兼爱_（兼爱）（《墨子》，CTP：书 4，第 14-16 章\[翻译 2020：书 14-16]）。有时被翻译为“普遍爱” ，但现在更常被理解为“包容”或“公正关怀”，最好理解为与专注于自己和亲属的幸福作为破坏性行为根源相对立（有关这些争议的讨论，请参见[Mohism](https://plato.stanford.edu/entries/mohism/)和[中国伦理学](https://plato.stanford.edu/entries/ethics-chinese/)的条目）。_兼爱_是一种对每个人的关怀的道德态度，并支持将利益分配给所有人的治理，特别关心那些需要帮助且无力自给的人。墨家假定（可以说与儒家一样）我们的心智受到社会领袖（从统治者开始）推广的教导的影响。
+早期墨家对利益标准的优先性使其伦理学成为历史上第一个后果伦理学。《墨子》中诊断人与人、家庭和国家之间的破坏性冲突是由于社会道德观念的冲突以及对我们自己家庭、村庄、国家和文化的相对偏见。功利主义推理得出一个规范心理学解决方案：采纳_兼爱_（兼爱）（《墨子》，CTP：书 4，第 14-16 章\[翻译 2020：书 14-16]）。有时被翻译为“普遍爱” ，但现在更常被理解为“包容”或“公正关怀”，最好理解为与专注于自己和亲属的幸福作为破坏性行为根源相对立（有关这些争议的讨论，请参见 [Mohism](https://plato.stanford.edu/entries/mohism/) 和 [中国伦理学](https://plato.stanford.edu/entries/ethics-chinese/) 的条目）。_兼爱_是一种对每个人的关怀的道德态度，并支持将利益分配给所有人的治理，特别关心那些需要帮助且无力自给的人。墨家假定（可以说与儒家一样）我们的心智受到社会领袖（从统治者开始）推广的教导的影响。
 
 _鉴爱_是一种对每个人都关心的道德态度，支持将利益分配给所有人的治理，特别关心那些需要帮助且无力自给的人。墨家认为（可以说是与儒家一样），我们的心灵是由社会领袖提倡的教导塑造的 — 从统治者开始。
 
@@ -115,7 +115,7 @@ _鉴爱_是一种对每个人都关心的道德态度，支持将利益分配给
 
 后期墨家保留了墨子和早期追随者发展的结果伦理学的基本轮廓，但他们进一步发展和修订了这种伦理学，同时还发展了他们的论证方法、语言哲学和认识论。此外，他们还写作了诸如因果关系、时空等形而上学主题，以及几门科学，如几何学和力学。他们的著作包括《墨子》的六章（见 CTP：第 40-45 章\[翻译 2020：第四部分]）。后期墨家在构想人类认知能力方面忠实于他们的先辈，认为这些能力起到辨别不同种类并确定哪些事物属于或不属于这些种类的作用。尽管这些能力涉及与世界的经验接触，但后期墨家并没有引用命题的心理表征。这种接触使心灵意识到事物的区别、界限。这些信息指导了适当地为行为排序的实际能力。给事物命名或将事物命名为名称是将其归入“是”，正确的，或“非”，错误的或不是那个的排序。将“辨”翻译为论证导致一些人将墨家归因于发展三段论推理。他们更多地培养技能或知识，用语言区分来刻画世界。他们没有关于用“观念”、心理物品的推理概念。认识论的主要术语是“知”，这是一种像视力一样的能力（《墨子》，CTP：第 10 卷第 1.3 篇\[翻译 2020：第 40-3 卷，A3]）。他们专注于可靠地区分各种种类之间关系的能力或技能，例如，牛类属于更大类别的动物类。
 
-关于后来的墨家是否对他们的传统进行了更根本的改变，学者们在解释上存在分歧。A.C.格雷厄姆在他具有影响力的《道家辩士》中，将后来的墨家视为通过一系列关键术语的相互定义（如仁和义）进行一种_先验_的对先前伦理的系统化（格雷厄姆 1989: 146）。这样的阅读可能与他们关心将事物分类为正确类型的务实可靠主义存在过多的紧张关系。史蒂芬斯（2021 年；另请参阅他对格雷厄姆解释的详细批判）提出了另一种解释，认为后来的墨家通过使用快乐和不快乐作为指标，基于偏好满足标准，拓宽了他们对利益和伤害的概念（《墨子》，CTP：第 10 篇第 1 章和解释 26-27 \[翻译 2020 年：第 40-3 卷 26-27 章]）。这解决了他们可能收到的关于早期利益清单狭窄性的批评，以及《庄子》关于人们所重视事物的多样性的观点（见[§2.5](https://plato.stanford.edu/entries/chinese-mind/#Zhua)）。后来的墨家还引入了权衡利益和伤害的概念，这使得对社会最有利或最少伤害的行动或政策进行全面考虑的判断成为可能（《墨子》，CTP：第 11.3 章，11.5 章 \[翻译 2020 年：第 44.3a-c，44.5 章]）。他们承认有利于父母和老年人胜过其他人是可以接受的（《墨子》，CTP：第 11.6 章 \[翻译 2020 年：第 44.6 章），也许是为了回应孟子等儒家的批评。墨家哲学的这些变化表明了不同传统之间的重要互动和调整，并对心灵概念的能力进行了隐含的拓宽。
+关于后来的墨家是否对他们的传统进行了更根本的改变，学者们在解释上存在分歧。A.C.格雷厄姆在他具有影响力的《道家辩士》中，将后来的墨家视为通过一系列关键术语的相互定义（如仁和义）进行一种_先验_的对先前伦理的系统化（格雷厄姆 1989: 146）。这样的阅读可能与他们关心将事物分类为正确类型的务实可靠主义存在过多的紧张关系。史蒂芬斯（2021 年；另请参阅他对格雷厄姆解释的详细批判）提出了另一种解释，认为后来的墨家通过使用快乐和不快乐作为指标，基于偏好满足标准，拓宽了他们对利益和伤害的概念（《墨子》，CTP：第 10 篇第 1 章和解释 26-27 \[翻译 2020 年：第 40-3 卷 26-27 章]）。这解决了他们可能收到的关于早期利益清单狭窄性的批评，以及《庄子》关于人们所重视事物的多样性的观点（见 [§2.5](https://plato.stanford.edu/entries/chinese-mind/#Zhua)）。后来的墨家还引入了权衡利益和伤害的概念，这使得对社会最有利或最少伤害的行动或政策进行全面考虑的判断成为可能（《墨子》，CTP：第 11.3 章，11.5 章 \[翻译 2020 年：第 44.3a-c，44.5 章]）。他们承认有利于父母和老年人胜过其他人是可以接受的（《墨子》，CTP：第 11.6 章 \[翻译 2020 年：第 44.6 章），也许是为了回应孟子等儒家的批评。墨家哲学的这些变化表明了不同传统之间的重要互动和调整，并对心灵概念的能力进行了隐含的拓宽。
 
 ### 2.3 《道德经》
 
@@ -143,7 +143,7 @@ _鉴爱_是一种对每个人都关心的道德态度，支持将利益分配给
 
 政治含义是最伟大的圣人统治者几乎不为人知；其次是那些被爱戴的人；之后是那些被畏惧的人，再之后是那些被嘲笑的人。任务完成，职责尽责，人们只是说这是他们的自然方式（第 17 章）。圣人统治者通过清空他们的心灵，并使人民的心灵成为他们的心灵（第 49 章）。
 
-一些关于圣人统治者如何做到这一点的描述似乎是控制和操纵的，古人擅长实施 *道* 的做法并不启发人民，而是让他们愚昧无知（第 65 章）。然而，这与对传统知识令人沮丧的自我实现的基本担忧是一致的。圣人统治者们本身应该是“没有\[这样的]知识”，并培养人民的未来发展而不是命令它（第 10 章）。在第 20 章中，讲话者将自己的心灵描述为属于一个愚人，空无传统智慧。
+一些关于圣人统治者如何做到这一点的描述似乎是控制和操纵的，古人擅长实施 *道* 的做法并不启发人民，而是让他们愚昧无知（第 65 章）。然而，这与对传统知识令人沮丧的自我实现的基本担忧是一致的。圣人统治者们本身应该是“没有\[这样的] 知识”，并培养人民的未来发展而不是命令它（第 10 章）。在第 20 章中，讲话者将自己的心灵描述为属于一个愚人，空无传统智慧。
 
 对比还在于传统道德。从《道德经》的角度来看，儒家和墨家被锁定在一种不可持续的人类中心观的天地观中，认为它们在某种程度上偏爱人类。稻草狗的隐喻使人类不再处于中心位置，而是简单地置身于万物之中。传统道德不仅体现了一种幻觉。遵循它并不能让事情变得更好。当放弃道时，仁和义，以及机智和欺骗，就会出现（第 18 章）。当采纳它来引导我们走向更好的道路时，其固定的价值观太过僵化，无法灵活应对经验流动所必需的反应；此外，它们会成为个人野心和试图超越他人的工具。最好放弃仁，放弃义，以及机智和利润，保持简单，拥抱朴素，减少欲望（第 19 章）。
 
@@ -155,11 +155,11 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 《孟子》（除非另有说明，所有关于中文文本的引用都指的是《孟子》CTP 版本）延续了心应该引导或指挥身体_气_的观念（2A2）。在 6A15 中，他区分了人的伟大部分和小部分。追随伟大部分的人变得伟大，而追随小部分的人变得渺小。在 6A14 中，滋养小部分与贪食饮食联系在一起。这与 6A15 将小部分与听觉和视觉能力相关联的观念相吻合，这些能力不思考，而是被通过这些感官感知到的事物引导。相比之下，心的能力是思考的，正是通过这种能力的表现与建立我们自己的更伟大部分相关联。心作为领导者的这种概念似乎与当代关于心智执行功能的概念重叠：感知世界中的相似和不同模式，通过推理和感觉对这些模式做出反应，设定目标，并采取行动实现这些目标。
 
-孟子对心的概念是整体的，即，它的引导融合了心的思维、情感、欲望和意欲。人的心从先天的_端_开始，即善的种子或萌芽。孟子将这些归因于天在人性（*人性*）中植入它们。这些天生的_端_是与身体相关联的情感或情绪（*情*）倾向。认知也有一个_端_，它以对是非的直觉形式存在。当心从这些萌芽中发展时，它既表现良好，又在获取新的道德知识和在其他情况下表现更好的动机方面不断成长。因此，推理和反思情绪涉及身体。因此，当孟子说心的功能是引导人的其他部分时，他并没有对比纯粹心理或认知的东西与纯粹身体或情感的另一件事。人的主导部分既是心理的、身体的、认知的，也是情感的（参见[中国早期哲学中的情感](https://plato.stanford.edu/entries/emotions-chinese/)条目）。
+孟子对心的概念是整体的，即，它的引导融合了心的思维、情感、欲望和意欲。人的心从先天的_端_开始，即善的种子或萌芽。孟子将这些归因于天在人性（*人性*）中植入它们。这些天生的_端_是与身体相关联的情感或情绪（*情*）倾向。认知也有一个_端_，它以对是非的直觉形式存在。当心从这些萌芽中发展时，它既表现良好，又在获取新的道德知识和在其他情况下表现更好的动机方面不断成长。因此，推理和反思情绪涉及身体。因此，当孟子说心的功能是引导人的其他部分时，他并没有对比纯粹心理或认知的东西与纯粹身体或情感的另一件事。人的主导部分既是心理的、身体的、认知的，也是情感的（参见 [中国早期哲学中的情感](https://plato.stanford.edu/entries/emotions-chinese/) 条目）。
 
 孟子将段分为四个心：惻隐之心（同情）可以发展为仁；羞恶可以发展为义；辞让可以发展为礼；是非可以发展为智。
 
-心将人类与天连接在一起。在 6A16 中，孟子区分了天的高贵与人类的高贵。仁、义、忠、信、乐善好施是天的高贵。做公爵、大臣或高级官员是人类的高贵。在 2A2 中，孟子说他的“不移之心”使他能够在追求人类的高贵时在面对必然不确定的命运时保持稳定。他解释说，通过培养像洪水般的气，他达到了这种状态。他通过形成志（意图或目标；参见《论语》9.26）来培养它，这正确地引导和滋养身体的气。如果得到正确滋养，它会充满天地之间的空间。这里的建议是，植入人性中的天的善良贯穿整个物质世界。培养善良的人类与更大的普世善良融为一体。这段简短而充满形而上学内涵的文字将心与与整个世界的调和联系起来，在新儒家形而上学中得以展现（参见[中国哲学中的形而上学](https://plato.stanford.edu/entries/chinese-metaphysics/)、[宋明儒学](https://plato.stanford.edu/entries/song-ming-confucianism/)、[朱熹](https://plato.stanford.edu/entries/zhu-xi/)和[王阳明](https://plato.stanford.edu/entries/wang-yangming/)的条目）。
+心将人类与天连接在一起。在 6A16 中，孟子区分了天的高贵与人类的高贵。仁、义、忠、信、乐善好施是天的高贵。做公爵、大臣或高级官员是人类的高贵。在 2A2 中，孟子说他的“不移之心”使他能够在追求人类的高贵时在面对必然不确定的命运时保持稳定。他解释说，通过培养像洪水般的气，他达到了这种状态。他通过形成志（意图或目标；参见《论语》9.26）来培养它，这正确地引导和滋养身体的气。如果得到正确滋养，它会充满天地之间的空间。这里的建议是，植入人性中的天的善良贯穿整个物质世界。培养善良的人类与更大的普世善良融为一体。这段简短而充满形而上学内涵的文字将心与与整个世界的调和联系起来，在新儒家形而上学中得以展现（参见 [中国哲学中的形而上学](https://plato.stanford.edu/entries/chinese-metaphysics/)、[宋明儒学](https://plato.stanford.edu/entries/song-ming-confucianism/)、[朱熹](https://plato.stanford.edu/entries/zhu-xi/) 和 [王阳明](https://plato.stanford.edu/entries/wang-yangming/) 的条目）。
 
 孟子最关注同情及其发展为仁，即第一个段。在四个段中，是非及其发展为智最直接影响心的反思和推理方式，促进同情的萌芽发展为仁以及其他两个萌芽发展为相应美德。因此，这里的讨论将集中在同情/仁和是非/智上。然而，关于儒家对羞耻感以及羞耻感在道德品质发展中发挥重要作用的观点的文献越来越多，与西方文献中一些突出观点相反，即羞耻感很少或从不是一种有益的道德情感（请参阅 Van Norden 2002 \[2004]；Seok 2017；Tiwald 2017；以及 Hu 2022，了解相关讨论的例子）。
 
@@ -175,11 +175,11 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 智包括权衡冲突的价值观，并正确判断哪个更为重要。在 4A17 中，当面临一个情况似乎需要违反礼（礼仪）的例子时，即拉着自己的嫂子的手救她免于溺水，孟子回答说只有狼才不会救她。然后有人问孟子为什么他不在整个世界淹没时拯救整个世界，暗示他拒绝为了做必要的事情而搁置礼仪之类的细节。他回答说，确定救自己的嫂子比礼仪更重要是一种权衡，但他想知道是否有人要求他用手把整个世界拉出来。通过道，人拯救世界，暗示是用道来拯救世界不能简单地搁置礼仪。
 
-对孟子来说，关键在于**度**如何发展成为完整的美德。由于类比是文本中的中心推理方法，我们可以得出结论，这是先天知识发展为道德知识的一种重要方式。最初的知识是先天道德直觉的萌芽。例如，我们从知道侍奉父母和遵循兄长开始，推断还要侍奉和追随谁来发展仁和义（4A27 和 7A46）。
+对孟子来说，关键在于 **度** 如何发展成为完整的美德。由于类比是文本中的中心推理方法，我们可以得出结论，这是先天知识发展为道德知识的一种重要方式。最初的知识是先天道德直觉的萌芽。例如，我们从知道侍奉父母和遵循兄长开始，推断还要侍奉和追随谁来发展仁和义（4A27 和 7A46）。
 
-然而，在 2A6 中关于怜悯运作的中心例子是对一个既不是自己家人也不认识的濒危儿童的情感反应。但是，即使人类天生倾向于自发关心自己的家人和非自己的无辜儿童，他们可能不会自发关心易怒的村民或从未见过的陌生人。要知道我们有理由关心这些他人，我们必须看到他们与我们自发关心的家庭成员或孩子之间的相关道德相似之处。我们从那些我们确信知道该怎么做的案例中推断出我们有理由做什么。这些通过**度**的直觉提供的基础案例，供类比进一步推理。
+然而，在 2A6 中关于怜悯运作的中心例子是对一个既不是自己家人也不认识的濒危儿童的情感反应。但是，即使人类天生倾向于自发关心自己的家人和非自己的无辜儿童，他们可能不会自发关心易怒的村民或从未见过的陌生人。要知道我们有理由关心这些他人，我们必须看到他们与我们自发关心的家庭成员或孩子之间的相关道德相似之处。我们从那些我们确信知道该怎么做的案例中推断出我们有理由做什么。这些通过 **度** 的直觉提供的基础案例，供类比进一步推理。
 
-然而，如果基础案例与手头的问题案例之间存在相关的道德不同之处，这样的推理就是无效的。这是 4A17 的一个含义，上文提到了**权**。尽管一个人可能不赞同男女不触碰以拯救溺水的弟媳的仪式，但他必须通过**道**拯救溺水的世界，而遵循**道**的一部分是恢复仪式的恰当性。孟子通过比较特定案例得出的水平推理与从一般原则进行的垂直自上而下的推理形成了显著对比。如果一个人认为根植于特定情况的道德直觉更加坚实，那么这种推理就更具吸引力，并且通过注意相似和不同之处的重复模式逐步建立一般原则（Wong 2002）。正如前面所见，在 1A3 中，孟子使用类比让惠王看到他必须采取更多措施防止臣民饥饿。
+然而，如果基础案例与手头的问题案例之间存在相关的道德不同之处，这样的推理就是无效的。这是 4A17 的一个含义，上文提到了 **权**。尽管一个人可能不赞同男女不触碰以拯救溺水的弟媳的仪式，但他必须通过 **道** 拯救溺水的世界，而遵循 **道** 的一部分是恢复仪式的恰当性。孟子通过比较特定案例得出的水平推理与从一般原则进行的垂直自上而下的推理形成了显著对比。如果一个人认为根植于特定情况的道德直觉更加坚实，那么这种推理就更具吸引力，并且通过注意相似和不同之处的重复模式逐步建立一般原则（Wong 2002）。正如前面所见，在 1A3 中，孟子使用类比让惠王看到他必须采取更多措施防止臣民饥饿。
 
 由于段包括情感，然而，嫩芽的成长也取决于情感嫩芽的成长或成熟。孟子试图在 1A7 中促进宣王的成熟。宣王问自己是否有能力成为孟子一直在敦促他成为的真正君王。孟子促使国王回忆起他曾饶恕一头被牵往祭祀屠杀的牛的时刻。国王看到牛的眼睛感动，决定饶恕这头牛。但他对自己的动机感到不确定，因为当被问及是否应取消仪式时，他命令一只羊代替牛。他意识到他的臣民猜测他是在吝啬（一只羊不那么昂贵）。
 
@@ -201,7 +201,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 庄子的认知和引导理论在第二章“齐物论”中得到了最持久、多样和复杂的阐述。其结合了认知和将无知误认为知识的例证，挑战着解释者们对他的心灵理论如何运作进行思考。子綦的开篇反思开始了关于身体的心灵的分析。子綦似乎深陷于某种冥想状态中，他将其描述为“迷失了自我”。他进一步用管道的比喻向他的对话者解释。我们知道人类的管道，但不知道地球的管道；我们听说过地球的管道，但还不知道天的管道。大团块（地球）吹出它的气息，通过一万个自然的空洞。轻轻吹时，产生小和谐，强劲吹时，则产生广阔而宏伟的和谐。
 
-那么，天的管道又是什么呢？它吹出一万种不同，并使它们成为自己的，连同自己的选择，冲动从何而来？（*庄子* CTP：*齐物论*，1 \[翻译 2009：9]）。庄子晦涩的回答为许多解释者的探讨提供了动力（请参阅[庄子](https://plato.stanford.edu/entries/zhuangzi/)条目）。
+那么，天的管道又是什么呢？它吹出一万种不同，并使它们成为自己的，连同自己的选择，冲动从何而来？（*庄子* CTP：*齐物论*，1 \[翻译 2009：9]）。庄子晦涩的回答为许多解释者的探讨提供了动力（请参阅 [庄子](https://plato.stanford.edu/entries/zhuangzi/) 条目）。
 
 人类战斗性的道德论证始于他们选择用不同方式在语言中标记相似和不相似的方式，例如，用词如義 *yi*（正确）。我们谈论伟大和渺小的认知，伟大和渺小的言说方式，甚至在梦中争论。醒来，我们的心灵开始战斗，用诡计、欺骗、威胁。我们像从弩弓射出箭矢一样“射出” 是 *shi’* （这是对的）和 非 *fei’* （不，那是错的），然后我们坚持它们，就像它们是契约一样。随着承诺的重量增加，我们变慢，变弱，消退，失去活力，就像我们被“‘牢牢地束缚’”，继续“沿着同样的车辙”。“因此，心灵更接近死亡，没有什么能恢复它的活力”（《庄子》CTP：齐物论，2 \[翻译 2009：9]）。据推测，子期所报告的“失去我的‘我’”的洞察力涉及认知和规范能力。但它将与心灵的战斗视为从远处看的。然后，明确避免将其归因于器官，它引入了产生的感觉。
 
@@ -213,7 +213,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 心灵在从各种选择中“选取”（*qu* 取）时获得了它的结构。这种成心，完全结构化的心灵然后“射出”“这个对！”和“不是那个错！”表明人类的管道是基于从某些“这个”的选择和拒绝其他人而形成的。我们从过去的实践中获得了“对”和“错”的概念。
 
-文章继续说：“道生之，物形之”《齐物论》，第 6 章。这暗示着心灵的“对”和“错”以及“如此”和“不如此”是在相对空间中产生的，我们的生活世界中，我们的结构是通过我们过去的实践获得的，在这个环境中，我们对事物的概念与我们环境中其他事物的关系和差异。庄子在《齐物论》中的观点类似于尼尔森·古德曼（1978）和艾丝·艾因豪泽（2011）。根据这一观点，事实并不是独立于我们如何概念化它们而存在于“世界”中的。我们从环境中发生的事物流中切出事实。一个独立的世界对这个流负责，我们从我们在那个世界中度过的时间中导航的非常小的部分系统化和构造它。
+文章继续说：“道生之，物形之”《齐物论》，第 6 章。这暗示着心灵的“对”和“错”以及“如此”和“不如此”是在相对空间中产生的，我们的生活世界中，我们的结构是通过我们过去的实践获得的，在这个环境中，我们对事物的概念与我们环境中其他事物的关系和差异。庄子在《齐物论》中的观点类似于尼尔森 · 古德曼（1978）和艾丝 · 艾因豪泽（2011）。根据这一观点，事实并不是独立于我们如何概念化它们而存在于“世界”中的。我们从环境中发生的事物流中切出事实。一个独立的世界对这个流负责，我们从我们在那个世界中度过的时间中导航的非常小的部分系统化和构造它。
 
 最近的神经科学也符合这种庄子式的画面。它表明我们将注意力集中在从世界获得的大量信息中的一部分。我们抑制对似乎与焦点无关的信息的意识意识。 （Nakajima 等，2019 年）。这就是我们在嘈杂的餐厅里能听到桌子上其他人说话的方式。一旦我们对世界有了概念方案，我们就会抑制其他命名方式（概念框架）。自然界，独立于我们的概念，确实会影响并限制该框架的形状。星座是这种选择过程的隐喻。我们可能会将一组特定的星星看作是“北斗星座”，但也可以将该组星星看作是更大群体中的一部分，形成一个“大熊星座”，其中斗部分现在形成了熊的后半身和尾巴的一部分。这种替代解析不能产生任何事实范围。但我们通过解析创造事实。
 
@@ -235,7 +235,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 > 梦中不知道自己在做梦。你甚至可能在梦中解释一个梦，然后醒来意识到那只是一个梦。也许一个伟大的觉醒会揭示这一切都是一个巨大的梦。(*齐物论*, 12 \[翻译 2009: 19])
 
-考虑感知。在第一章“逍遥游”中的开头故事中，我们遇到了一只名为鹏的巨鸟，飞行了九万里。天空中的“蓝色”是它真实的颜色，还是距离使它看起来那样(*逍遥游*, 1)。当鹏往下看时，他只看到这片大地。我们在地球上四处看时，看到更多细节。更小的生物，一只蝉和一只刚学飞的鸽子，它们努力从檀香树飞到榆树，想知道鹏在九万英里高空中做什么并向南飞去。这些生物说明了它们的大小和力量决定了它们的_Umwelten_——它们的愿望世界和引导行为方式的世界（冯·厄克尔 2010）。每种生物都生活在由其独特能力塑造的世界中。每种生物从世界上众多可能性中“选择”，根据其大小、力量和需求选择通往未来的可能路径（参见坎托 2020 年对第 17 章“秋水”中“快乐鱼”故事的类似看法）。
+考虑感知。在第一章“逍遥游”中的开头故事中，我们遇到了一只名为鹏的巨鸟，飞行了九万里。天空中的“蓝色”是它真实的颜色，还是距离使它看起来那样(*逍遥游*, 1)。当鹏往下看时，他只看到这片大地。我们在地球上四处看时，看到更多细节。更小的生物，一只蝉和一只刚学飞的鸽子，它们努力从檀香树飞到榆树，想知道鹏在九万英里高空中做什么并向南飞去。这些生物说明了它们的大小和力量决定了它们的_Umwelten_——它们的愿望世界和引导行为方式的世界（冯 · 厄克尔 2010）。每种生物都生活在由其独特能力塑造的世界中。每种生物从世界上众多可能性中“选择”，根据其大小、力量和需求选择通往未来的可能路径（参见坎托 2020 年对第 17 章“秋水”中“快乐鱼”故事的类似看法）。
 
 不同的生物以不同的方式“适应”它们的环境。人们避免在潮湿的地方睡觉，不像鳗鱼。人们害怕住在树上，不像猴子。这些生物中哪一种“知道”正确的居住地点？不同的生物想吃不同的东西。每种生物都被吸引到自己种类的生物，而不是其他种类。段落总结，
 
@@ -251,7 +251,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 三年的实践导致他对自己的表现产生了变化的概念，将其视为通过牛背上的路径结构的一种自然方式。他不再自觉地执行组成行为，而是专注于他的动作和环境的_道_和_理_。他完全沉浸其中，却以轻松愉悦的方式表现。他的身体知道路；头脑中没有笛卡尔式的领航员指挥它。
 
-关于人类具身活动的最新研究反映了庄子对高超技能的描述。肖恩·加拉格尔（2005）写道，技能的具身化塑造了我们的“身体图式”，这些感觉-运动能力让我们在空间中感知自己的身体。当我们闭上眼睛抬起一只手臂时，我们的身体图式使我们能够准确地知道手臂的位置。我们的身体图式与环境互动，帮助我们完成任务。当我们擅长使用这些可利用的事物作为工具时，它们实际上成为我们身体图式的一部分，至少在那种情境中（另见巴雷特 2011：200）。
+关于人类具身活动的最新研究反映了庄子对高超技能的描述。肖恩 · 加拉格尔（2005）写道，技能的具身化塑造了我们的“身体图式”，这些感觉-运动能力让我们在空间中感知自己的身体。当我们闭上眼睛抬起一只手臂时，我们的身体图式使我们能够准确地知道手臂的位置。我们的身体图式与环境互动，帮助我们完成任务。当我们擅长使用这些可利用的事物作为工具时，它们实际上成为我们身体图式的一部分，至少在那种情境中（另见巴雷特 2011：200）。
 
 庄子对这种认知的反思总是包括对其缺陷和局限性的注意。激励对进一步提升技能持开放态度的谦逊怀疑心态仍然存在于烹饪丁身上。当他遇到牛背上的困难时，他停下来，专心致志，仔细观察困难点，并小心翼翼地着手解决难题。对学习行为的体验式沉浸永远不会达到绝对或完全的完美，流畅，无论多么高级，总是可能通过更轻松和满意的方式改进或实现。
 
@@ -275,7 +275,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 当烹饪丁在遇到牛的复杂部位时采取谨慎，他的意识，深思熟虑的心灵正在从第一序心灵接管控制。《庄子》关于器官轮流引导身体的建议，是在元或第二序水平上运作。这是关于如何准备自己在第一序水平上做出快速、有选择性的精确和感知敏锐的决策的建议（Kahneman 2011）。训练发生在第二水平，深思熟虑的认知水平上。一个人可能会被建议在实时关闭第二水平，元道。如果你看不出一头牛，你就不会认出我们在教你屠宰一头牛的话语。因此，烹饪丁经历了三年的学习和实践，之后他不必再排练他的课程来区分大腿关节和股骨。他将动物视为其自然部分的组合。他在第一水平上进行雕刻。
 
-后来的儒家王阳明（1472-1529 参见[王阳明](https://plato.stanford.edu/entries/wang-yangming/)条目）受道家理论影响，主张我们学习如何在第一序水平上进行第二序深思熟虑。也就是说，我们是自然的学习者。烹饪丁开始学习雕刻，但现在他正在学习在不同背景下实践，即国王的宫殿。他学会了一种在雕刻牛时的道，就像惠施学会了他的辩论式深思熟虑、辩论式、修辞式的教学风格一样。两者逐渐从通过实践进行深思熟虑的学习转变为快速、第一序反应。
+后来的儒家王阳明（1472-1529 参见 [王阳明](https://plato.stanford.edu/entries/wang-yangming/) 条目）受道家理论影响，主张我们学习如何在第一序水平上进行第二序深思熟虑。也就是说，我们是自然的学习者。烹饪丁开始学习雕刻，但现在他正在学习在不同背景下实践，即国王的宫殿。他学会了一种在雕刻牛时的道，就像惠施学会了他的辩论式深思熟虑、辩论式、修辞式的教学风格一样。两者逐渐从通过实践进行深思熟虑的学习转变为快速、第一序反应。
 
 后来的中国继承者们继承了《老子》和《庄子》，他们热情地拥抱教授和学习逻辑和科学方法。严复（1854-1921）将科学和逻辑视为了解自然道的一种道。在隐喻上，他将进化视为我们的自然道。同样，金岳霖（1895-1984）在清华大学教授数理逻辑，现代化了《庄子》的道家。庄子对自然主义的理解并不排除接受逻辑学的道训练，以用于指导与他人的第一序深思熟虑、辩论交流。
 
@@ -309,7 +309,7 @@ _老子_的哲学心理学体现在《孟子》更为详尽的心性道德自然
 
 他最臭名昭著的一章“性恶”（荀子 23《性恶》）似乎是试图从自然假设中推导出这种排序。他说，人性本恶，善是刻意努力的结果。人们生来就喜欢利益，如果他们顺着这个方向走，就会产生斗争和争执。这种推论似乎预设了心理利己主义，荀子在将自私视为自然的观点上可能是独一无二的古代大师。然而，这种解释是有争议的。其他人认为与《孟子》的连续性比标题所暗示的更大。
 
-然而，他继续列举了天生的嫉妒和厌恶以及视听上的“欲望”。前者导致残忍和邪恶，后者导致放荡。只有通过使用教师和模范来改造自然，*道_以仪式和传统风俗(*礿*)，人类才能被塑造成顺从和尊重适当秩序并最终变得受控。由圣王们产生的仪式（和传统音乐）和_礿*（仪式风俗）是唯一适合重塑人类以顺从适当权威和秩序的任务。这是理解荀子引人注目的工匠隐喻的背景：重塑自然倾向就像在成形架上蒸煮和拉直弯曲的木材，或者磨砺钝钝的金属直到变得锋利（CTP: 23.2 \[trans. 2014: 248]）。因此，道德不是_Tian_秩序的一部分，而是圣王们设立的用来纠正人性中危险和难以驾驭之处的东西。
+然而，他继续列举了天生的嫉妒和厌恶以及视听上的“欲望”。前者导致残忍和邪恶，后者导致放荡。只有通过使用教师和模范来改造自然，*道_以仪式和传统风俗(* 礿 *)，人类才能被塑造成顺从和尊重适当秩序并最终变得受控。由圣王们产生的仪式（和传统音乐）和_礿*（仪式风俗）是唯一适合重塑人类以顺从适当权威和秩序的任务。这是理解荀子引人注目的工匠隐喻的背景：重塑自然倾向就像在成形架上蒸煮和拉直弯曲的木材，或者磨砺钝钝的金属直到变得锋利（CTP: 23.2 \[trans. 2014: 248]）。因此，道德不是_Tian_秩序的一部分，而是圣王们设立的用来纠正人性中危险和难以驾驭之处的东西。
 
 心并没有通过命令简单地重塑自然欲望和情感的力量。荀子始终强调需要不懈的“刻意努力”来重塑和美化人们的动机系统和品格。事实上，在一个著名段落中，他说道，模范人
 
@@ -355,80 +355,80 @@ Many of the following Chinese texts can be found online at the *Chinese Text Pro
 * *Liji Zhongyong* 禮記 中庸, CTP: [Liji : Zhong Yong - Chinese Text Project](https://ctext.org/liji/zhong-yong).
 * *Mengzi*, CTP: [Mengzi - Chinese Text Project](https://ctext.org/mengzi). The text contains seven “books,” each book divided into two parts. The books of the Chinese text have titles, usually taken from the name of the first interlocutor Mengzi encounters in that book. However, the convention for referring to the books in scholarship numbers the books in order of their appearance, with the two parts named 'A' and 'B.' E.g., '1A' refers to the first book, first part, while '1A7' refers to the numbered section in that part of the book. English translation *Mencius*, Irene Bloom (trans.), New York: Columbia University Press, 2009.
 * *Mozi*, CTP: [Mozi - Chinese Text Project](https://ctext.org/mozi). The CTP version contains partial English translations. English translations of the most important parts are given in *The Essential Mòzi: Ethical, Political, and Dialectical Writings*, Chris Fraser (trans.), (Oxford World’s Classics), Oxford/New York, NY: Oxford University Press, 2020. Both the CTP and the Fraser translation use “books” as the major divisions of the text, but they are organized quite differently (the CPT version subdivides fewer books into chapters), so the numbers of the books in the respective versions do not match up.
-* *Xunzi*, CTP: [Xunzi - Chinese Text Project](https://ctext.org/xunzi). English translation can be found in *Xunzi: The Complete Text*, Eric L. Hutton (trans.), Princeton, NJ: Princeton University Press, 2014. doi:10.1515/9781400852550
+* *Xunzi*, CTP: [Xunzi - Chinese Text Project](https://ctext.org/xunzi). English translation can be found in *Xunzi: The Complete Text*, Eric L. Hutton (trans.), Princeton, NJ: Princeton University Press, 2014. doi: 10.1515/9781400852550
 * *Zhuangzi* 莊子, CTP: [Zhuangzi - Chinese Text Project](https://ctext.org/zhuangzi). English translation can be found in *Zhuangzi: The Essential Writings with Selections from Traditional Commentaries*, Brook Ziporyn (trans.), Indianapolis, IN: Hackett Publishing, 2009.
 
 ### Secondary Sources
 
 * Ames, Roger T., 2015, “‘Bodyheartminding’ (*Xin* 心): Reconceiving the Inner Self and the Outer World in the Language of Holographic Focus and Field”, *Frontiers of Philosophy in China*, 10(2): 167–180.
 * Barrett, Louise, 2011, *Beyond the Brain: How Body and Environment Shape Animal and Human Minds*, Princeton, NJ: Princeton University Press.
-* Cahn, B. Rael and John Polich, 2006, “Meditation States and Traits: EEG, ERP, and Neuroimaging Studies.”, *Psychological Bulletin*, 132(2): 180–211. doi:10.1037/0033-2909.132.2.180
-* Cantor, Lea, 2020, “*Zhuangzi* on ‘Happy Fish’ and the Limits of Human Knowledge”, *British Journal for the History of Philosophy*, 28(2): 216–230. doi:10.1080/09608788.2019.1667294
+* Cahn, B. Rael and John Polich, 2006, “Meditation States and Traits: EEG, ERP, and Neuroimaging Studies.”, *Psychological Bulletin*, 132(2): 180–211. doi: 10.1037/0033-2909.132.2.180
+* Cantor, Lea, 2020, “*Zhuangzi* on ‘Happy Fish’ and the Limits of Human Knowledge”, *British Journal for the History of Philosophy*, 28(2): 216–230. doi: 10.1080/09608788.2019.1667294
 * Chalmers, David John, 1996, *The Conscious Mind: In Search of a Fundamental Theory*, (Philosophy of Mind Series), New York: Oxford University Press.
-* Chiu, Wai Wai, 2018, “Zhuangzi’s Knowing-How and Skepticism”, *Philosophy East and West*, 68(4): 1062–1084. doi:10.1353/pew.2018.0097
-* Chua, Hannah Faye, Julie E. Boland, and Richard E. Nisbett, 2005, “Cultural Variation in Eye Movements during Scene Perception”, *Proceedings of the National Academy of Sciences*, 102(35): 12629–12633. doi:10.1073/pnas.0506162102
-* Cleeremans, Axel, Arnaud Destrebecqz, and Maud Boyer, 1998, “Implicit Learning: News from the Front”, *Trends in Cognitive Sciences*, 2(10): 406–416. doi:10.1016/S1364-6613(98)01232-7
-* Clegg, Benjamin A., Gregory J. DiGirolamo, and Steven W. Keele, 1998, “Sequence Learning”, *Trends in Cognitive Sciences*, 2(8): 275–281. doi:10.1016/S1364-6613(98)01202-9
-* Cohen, Morris, Ann Prather, Patricia Town, and George Hynd, 1990, “Neurodevelopmental Differences in Emotional Prosody in Normal Children and Children with Left and Right Temporal Lobe Epilepsy”, *Brain and Language*, 38(1): 122–134. doi:10.1016/0093-934X(90)90105-P
-* Davidson, Richard J., Jon Kabat-Zinn, Jessica Schumacher, Melissa Rosenkranz, Daniel Muller, Saki F. Santorelli, Ferris Urbanowski, Anne Harrington, Katherine Bonus, and John F. Sheridan, 2003, “Alterations in Brain and Immune Function Produced by Mindfulness Meditation”, *Psychosomatic Medicine*, 65(4): 564–570. doi:10.1097/01.PSY.0000077505.67574.E3
+* Chiu, Wai Wai, 2018, “Zhuangzi’s Knowing-How and Skepticism”, *Philosophy East and West*, 68(4): 1062–1084. doi: 10.1353/pew.2018.0097
+* Chua, Hannah Faye, Julie E. Boland, and Richard E. Nisbett, 2005, “Cultural Variation in Eye Movements during Scene Perception”, *Proceedings of the National Academy of Sciences*, 102(35): 12629–12633. doi: 10.1073/pnas.0506162102
+* Cleeremans, Axel, Arnaud Destrebecqz, and Maud Boyer, 1998, “Implicit Learning: News from the Front”, *Trends in Cognitive Sciences*, 2(10): 406–416. doi: 10.1016/S1364-6613(98)01232-7
+* Clegg, Benjamin A., Gregory J. DiGirolamo, and Steven W. Keele, 1998, “Sequence Learning”, *Trends in Cognitive Sciences*, 2(8): 275–281. doi: 10.1016/S1364-6613(98)01202-9
+* Cohen, Morris, Ann Prather, Patricia Town, and George Hynd, 1990, “Neurodevelopmental Differences in Emotional Prosody in Normal Children and Children with Left and Right Temporal Lobe Epilepsy”, *Brain and Language*, 38(1): 122–134. doi: 10.1016/0093-934X(90)90105-P
+* Davidson, Richard J., Jon Kabat-Zinn, Jessica Schumacher, Melissa Rosenkranz, Daniel Muller, Saki F. Santorelli, Ferris Urbanowski, Anne Harrington, Katherine Bonus, and John F. Sheridan, 2003, “Alterations in Brain and Immune Function Produced by Mindfulness Meditation”, *Psychosomatic Medicine*, 65(4): 564–570. doi: 10.1097/01.PSY.0000077505.67574.E3
 * Dimitrovsky, Lilly, 1964, “The Ability to Identify the Emotional Meaning of Vocal Expressions at Successive Age Levels”, in *The Communication of Emotional Meaning*, Joel Robert Davitz (ed.), (McGraw-Hill Series in Psychology), New York: McGraw-Hill, 69–86.
-* Edwards, Kari, 1998, “The Face of Time: Temporal Cues in Facial Expressions of Emotion”, *Psychological Science*, 9(4): 270–276. doi:10.1111/1467-9280.00054
-* Einheuser, Iris, 2011, “Toward a Conceptualist Solution of the Grounding Problem”, *Noûs*, 45(2): 300–314. doi:10.1111/j.1468-0068.2010.00765.x
+* Edwards, Kari, 1998, “The Face of Time: Temporal Cues in Facial Expressions of Emotion”, *Psychological Science*, 9(4): 270–276. doi: 10.1111/1467-9280.00054
+* Einheuser, Iris, 2011, “Toward a Conceptualist Solution of the Grounding Problem”, *Noûs*, 45(2): 300–314. doi: 10.1111/j.1468-0068.2010.00765.x
 * Eno, Robert, 1996, “Cook Ding’s Dao and the Limits of Philosophy”, in *Essays on Skepticism, Relativism and Ethics in the Zhuangzi*, Paul Kjellberg and Philip J. Ivanhoe (eds.), (SUNY Series in Chinese Philosophy and Culture), Albany, NY: State University of New York Press, 127–151.
-* Fletcher, P.C., O. Zafiris, C.D. Frith, R.A.E. Honey, P.R. Corlett, K. Zilles, and G.R. Fink, 2005, “On the Benefits of Not Trying: Brain Activity and Connectivity Reflecting the Interactions of Explicit and Implicit Sequence Learning”, *Cerebral Cortex*, 15(7): 1002–1015. doi:10.1093/cercor/bhh201
+* Fletcher, P.C., O. Zafiris, C.D. Frith, R.A.E. Honey, P.R. Corlett, K. Zilles, and G.R. Fink, 2005, “On the Benefits of Not Trying: Brain Activity and Connectivity Reflecting the Interactions of Explicit and Implicit Sequence Learning”, *Cerebral Cortex*, 15(7): 1002–1015. doi: 10.1093/cercor/bhh201
 * Fraser, Chris, 2016, *The Philosophy of the Mòzĭ: The First Consequentialists*, New York: Columbia University Press.
-* Gallagher, Shaun, 2005, *How the Body Shapes the Mind*, Oxford: Oxford University Press. doi:10.1093/0199271941.001.0001
+* Gallagher, Shaun, 2005, *How the Body Shapes the Mind*, Oxford: Oxford University Press. doi: 10.1093/0199271941.001.0001
 * Goldin, Paul R., “A Mind-Body Problem in the *Zhuangzi*?” in *Hiding the World in the World: Uneven Discourses on the Zhuangzi*, Scott Cook (ed.), Albany, NY: State University of New York Press, 226–247.
-* –––, 2011, “Why Mozi Is Included in the Daoist Canon Or, Why There Is More to Mohism than Utilitarian Ethics”, in *How Should One Live? Comparing Ethics in Ancient China and Greco-Roman Antiquity*, Richard A. H. King and Dennis Schilling (eds.), Berlin: De Gruyter, 63–91. doi:10.1515/9783110252897.63
-* –––, 2015, “The Consciousness of the Dead as a Philosophical Problem in Ancient China”, in *The Good Life and Conceptions of Life in Early China and Graeco-Roman Antiquity*, Richard A.H. King (ed.), Berlin: De Gruyter, 59–92. doi:10.1515/9783110310115-006
+* –––, 2011, “Why Mozi Is Included in the Daoist Canon Or, Why There Is More to Mohism than Utilitarian Ethics”, in *How Should One Live? Comparing Ethics in Ancient China and Greco-Roman Antiquity*, Richard A. H. King and Dennis Schilling (eds.), Berlin: De Gruyter, 63–91. doi: 10.1515/9783110252897.63
+* –––, 2015, “The Consciousness of the Dead as a Philosophical Problem in Ancient China”, in *The Good Life and Conceptions of Life in Early China and Graeco-Roman Antiquity*, Richard A.H. King (ed.), Berlin: De Gruyter, 59–92. doi: 10.1515/9783110310115-006
 * –––, 2020, *The Art of Chinese Philosophy: Eight Classical Texts and How to Read Them*, Princeton, NJ: Princeton University Press.
 * Goodman, Nelson, 1978, *Ways of Worldmaking*, Indianapolis, IN: Hackett Publishing Company.
 * Graham, A. C., 1989, *Disputers of the Tao: Philosophical Argument in Ancient China*, La Salle, IL: Open Court.
 * Granet, Marcel, 1934, *La Pensée Chinoise*, Paris: La Renaissance du livre.
 * Hall, David L. and Roger T. Ames, 1998, *Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture*, Albany, NY: State University of New York Press.
 * Hansen, Chad, 1992, *A Daoist Theory of Chinese Thought: A Philosophical Interpretation*, Oxford/New York: Oxford University Press.
-* Hartkamp, Mirjam and Ian M. Thornton, 2017, “Meditation, Cognitive Flexibility and Well-Being”, *Journal of Cognitive Enhancement*, 1(2): 182–196. doi:10.1007/s41465-017-0026-3
-* Hu, Jing Iris, 2022, “Shame, Vulnerability, and Change”, *Journal of the American Philosophical Association*, 8(2): 373–390. doi:10.1017/apa.2021.21
-* Ivanhoe, Philip J., 1993, “Zhuangzi on Skepticism, Skill, and the Ineffable *Dao*”, *Journal of the American Academy of Religion*, 61(4): 639–654. doi:10.1093/jaarel/LXI.4.639
-* Jiang, Tao, 2021, *Origins of Moral-Political Philosophy in Early China: Contestation of Humaneness, Justice, and Personal Freedom*, New York: Oxford University Press. doi:10.1093/oso/9780197603475.001.0001
+* Hartkamp, Mirjam and Ian M. Thornton, 2017, “Meditation, Cognitive Flexibility and Well-Being”, *Journal of Cognitive Enhancement*, 1(2): 182–196. doi: 10.1007/s41465-017-0026-3
+* Hu, Jing Iris, 2022, “Shame, Vulnerability, and Change”, *Journal of the American Philosophical Association*, 8(2): 373–390. doi: 10.1017/apa.2021.21
+* Ivanhoe, Philip J., 1993, “Zhuangzi on Skepticism, Skill, and the Ineffable *Dao*”, *Journal of the American Academy of Religion*, 61(4): 639–654. doi: 10.1093/jaarel/LXI.4.639
+* Jiang, Tao, 2021, *Origins of Moral-Political Philosophy in Early China: Contestation of Humaneness, Justice, and Personal Freedom*, New York: Oxford University Press. doi: 10.1093/oso/9780197603475.001.0001
 * Jullien, François, 2005 \[2007], *Nourrir sa vie: à l’écart du bonheur*, Paris: Seuil. Translated as *Vital Nourishment: Departing from Happiness*, Arthur Goldhammer (trans.), New York/Cambridge, MA: Zone Books, 2007.
 * Kahneman, Daniel, 2011, *Thinking, Fast and Slow,* New York: Farrar, Straus and Giroux
 * Lau, D.C., 1970, “On Mencius’ Use of Analogy in Argument”, in *Mencius*, D.C. Lau (trans.), London: Penguin Books, appendix 5.
 * Lewicki, Pawel, 1986, *Nonconscious Social Information Processing*, New York: Academic Press.
-* Lieberman, Matthew D., 2000, “Intuition: A Social Cognitive Neuroscience Approach.”, *Psychological Bulletin*, 126(1): 109–137. doi:10.1037/0033-2909.126.1.109
-* McDonald, Robert J. and Norman M. White, 1993, “A Triple Dissociation of Memory Systems: Hippocampus, Amygdala, and Dorsal Striatum.”, *Behavioral Neuroscience*, 107(1): 3–22. doi:10.1037/0735-7044.107.1.3
-* Moore, Adam and Peter Malinowski, 2009, “Meditation, Mindfulness and Cognitive Flexibility”, *Consciousness and Cognition*, 18(1): 176–186. doi:10.1016/j.concog.2008.12.008
-* Moore, Adam, Thomas Gruber, Jennifer Derose, and Peter Malinowski, 2012, “Regular, Brief Mindfulness Meditation Practice Improves Electrophysiological Markers of Attentional Control”, *Frontiers in Human Neuroscience*, 6: article 18. doi:10.3389/fnhum.2012.00018
+* Lieberman, Matthew D., 2000, “Intuition: A Social Cognitive Neuroscience Approach.”, *Psychological Bulletin*, 126(1): 109–137. doi: 10.1037/0033-2909.126.1.109
+* McDonald, Robert J. and Norman M. White, 1993, “A Triple Dissociation of Memory Systems: Hippocampus, Amygdala, and Dorsal Striatum.”, *Behavioral Neuroscience*, 107(1): 3–22. doi: 10.1037/0735-7044.107.1.3
+* Moore, Adam and Peter Malinowski, 2009, “Meditation, Mindfulness and Cognitive Flexibility”, *Consciousness and Cognition*, 18(1): 176–186. doi: 10.1016/j.concog.2008.12.008
+* Moore, Adam, Thomas Gruber, Jennifer Derose, and Peter Malinowski, 2012, “Regular, Brief Mindfulness Meditation Practice Improves Electrophysiological Markers of Attentional Control”, *Frontiers in Human Neuroscience*, 6: article 18. doi: 10.3389/fnhum.2012.00018
 * Nagel, Thomas, 1979, “Panpsychism”, in *Mortal Questions*, New York/Cambridge: Cambridge University Press, 181–195 (ch. 13).
-* Nakajima, Miho, L.Ian Schmitt, and Michael M. Halassa, 2019, “Prefrontal Cortex Regulates Sensory Filtering through a Basal Ganglia-to-Thalamus Pathway”, *Neuron*, 103(3): 445-458.e10. doi:10.1016/j.neuron.2019.05.026
+* Nakajima, Miho, L.Ian Schmitt, and Michael M. Halassa, 2019, “Prefrontal Cortex Regulates Sensory Filtering through a Basal Ganglia-to-Thalamus Pathway”, *Neuron*, 103(3): 445-458.e10. doi: 10.1016/j.neuron.2019.05.026
 * Needham, Joseph, 1954, *Science and Civilization in China, Volume 2: History of Scientific Thought*, Cambridge: Cambridge University Press.
-* Olberding, Amy, 2012, *Moral Exemplars in the Analects: The Good Person Is That*, (Routledge Studies in Ethics and Moral Theory 15), New York: Routledge. doi:10.4324/9780203804599
-* Packard, Mark G., Richard Hirsh, and Norman White, 1989, “Differential Effects of Fornix and Caudate Nucleus Lesions on Two Radial Maze Tasks: Evidence for Multiple Memory Systems”, *The Journal of Neuroscience*, 9(5): 1465–1472. doi:10.1523/JNEUROSCI.09-05-01465.1989
+* Olberding, Amy, 2012, *Moral Exemplars in the Analects: The Good Person Is That*, (Routledge Studies in Ethics and Moral Theory 15), New York: Routledge. doi: 10.4324/9780203804599
+* Packard, Mark G., Richard Hirsh, and Norman White, 1989, “Differential Effects of Fornix and Caudate Nucleus Lesions on Two Radial Maze Tasks: Evidence for Multiple Memory Systems”, *The Journal of Neuroscience*, 9(5): 1465–1472. doi: 10.1523/JNEUROSCI.09-05-01465.1989
 * Perkins, Franklin, 2014, *Heaven and Earth Are Not Humane: The Problem of Evil in Classical Chinese Philosophy*, (World Philosophies), Bloomington, IN: Indiana University Press.
 * –––, 2019, “Metaphysics in Chinese Philosophy”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/](https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/).
 * Raphals, Lisa, 2015, “Mind and Body in Early China and Greece”, *Journal of Cognitive Historiography* 2.2: 132–182.
-* Rauch, Scott L., Cary R. Savage, Halle D. Brown, Tim Curran, Nathaniel M. Alpert, Adair Kendrick, Alan J. Fischman, and Stephen M. Kosslyn, 1995, “A PET Investigation of Implicit and Explicit Sequence Learning”, *Human Brain Mapping*, 3(4): 271–286. doi:10.1002/hbm.460030403
-* Reber, Arthur S., 1967, “Implicit Learning of Artificial Grammars”, *Journal of Verbal Learning and Verbal Behavior*, 6(6): 855–863. doi:10.1016/S0022-5371(67)80149-X
-* –––, 1989, “Implicit Learning and Tacit Knowledge.”, *Journal of Experimental Psychology: General*, 118(3): 219–235. doi:10.1037/0096-3445.118.3.219
+* Rauch, Scott L., Cary R. Savage, Halle D. Brown, Tim Curran, Nathaniel M. Alpert, Adair Kendrick, Alan J. Fischman, and Stephen M. Kosslyn, 1995, “A PET Investigation of Implicit and Explicit Sequence Learning”, *Human Brain Mapping*, 3(4): 271–286. doi: 10.1002/hbm.460030403
+* Reber, Arthur S., 1967, “Implicit Learning of Artificial Grammars”, *Journal of Verbal Learning and Verbal Behavior*, 6(6): 855–863. doi: 10.1016/S0022-5371(67)80149-X
+* –––, 1989, “Implicit Learning and Tacit Knowledge.”, *Journal of Experimental Psychology: General*, 118(3): 219–235. doi: 10.1037/0096-3445.118.3.219
 * Rosenthal, Robert, Judith A. Hall, M. Robin DiMatteo, Peter L. Rogers, and Dane Archer, 1979, *Sensitivity to Nonverbal Communication: The PONS Test*, Baltimore, MD: Johns Hopkins University Press.
 * Roth, Harold D., 2003, “Bimodal Mystical Experience in the ‘Qiwulun’ Chapter of the Zhuangzi”, in *Hiding the World in the World: Uneven Discourses on the Zhuangzi*, Scott Bradley Cook (ed.), (SUNY Series in Chinese Philosophy and Culture), Albany, NY: State University of New York Press, 15–32.
 * Seok, Bongrae, 2017, *Moral Psychology of Confucian Shame: Shame of Shamelessness*, London: Rowman & Littlefield International.
 * Shun, Kwong-loi, 1997, *Mencius and Early Chinese Thought*, Stanford, CA: Stanford University Press.
-* Siegel, Daniel J., 2007, “Mindfulness Training and Neural Integration: Differentiation of Distinct Streams of Awareness and the Cultivation of Well-Being”, *Social Cognitive and Affective Neuroscience*, 2(4): 259–263. doi:10.1093/scan/nsm034
-* Slingerland, Edward, 2013, “Body and Mind in Early China: An Integrated Humanities-Science Approach”, *Journal of the American Academy of Religion*, 81(1): 6–55. doi:10.1093/jaarel/lfs094
-* Stalnaker, Aaron, 2003, “Aspects of Xunzi’s Engagement with Early Daoism”, *Philosophy East and West*, 53(1): 87–129. doi:10.1353/pew.2003.0009
-* Stephens, Daniel J., 2021, “Later Mohist Ethics and Philosophical Progress in Ancient China”, *British Journal for the History of Philosophy*, 29(3): 394–414. doi:10.1080/09608788.2020.1816528
-* Tan, Sor-Hoon, 2005, “Imagining Confucius: Paradigmatic Characters and Virtue Ethics”, *Journal of Chinese Philosophy*, 32(3): 409–426. doi:10.1111/j.1540-6253.2005.00201.x
-* Tiwald, Justin, 2017, “Punishment and Autonomous Shame in Confucian Thought”, *Criminal Justice Ethics*, 36(1): 45–60. doi:10.1080/0731129X.2017.1301487
-* Van Norden, Bryan W., 2002 \[2004], “The Emotion of Shame and the Virtue of Righteousness in Mencius”, *Dao*, 2(1): 45–77. Included as “The Virtue of Righteousness in Mencius”, in *Confucian Ethics: : A Comparative Study of Self, Autonomy, and Community*, Kwong-Loi Shun and David B. Wong (eds.), Cambridge University Press, 2004, 148–182. doi:10.1007/BF02856995 (2002) doi:10.1017/CBO9780511606960.009 (2004)
+* Siegel, Daniel J., 2007, “Mindfulness Training and Neural Integration: Differentiation of Distinct Streams of Awareness and the Cultivation of Well-Being”, *Social Cognitive and Affective Neuroscience*, 2(4): 259–263. doi: 10.1093/scan/nsm034
+* Slingerland, Edward, 2013, “Body and Mind in Early China: An Integrated Humanities-Science Approach”, *Journal of the American Academy of Religion*, 81(1): 6–55. doi: 10.1093/jaarel/lfs094
+* Stalnaker, Aaron, 2003, “Aspects of Xunzi’s Engagement with Early Daoism”, *Philosophy East and West*, 53(1): 87–129. doi: 10.1353/pew.2003.0009
+* Stephens, Daniel J., 2021, “Later Mohist Ethics and Philosophical Progress in Ancient China”, *British Journal for the History of Philosophy*, 29(3): 394–414. doi: 10.1080/09608788.2020.1816528
+* Tan, Sor-Hoon, 2005, “Imagining Confucius: Paradigmatic Characters and Virtue Ethics”, *Journal of Chinese Philosophy*, 32(3): 409–426. doi: 10.1111/j.1540-6253.2005.00201.x
+* Tiwald, Justin, 2017, “Punishment and Autonomous Shame in Confucian Thought”, *Criminal Justice Ethics*, 36(1): 45–60. doi: 10.1080/0731129X.2017.1301487
+* Van Norden, Bryan W., 2002 \[2004], “The Emotion of Shame and the Virtue of Righteousness in Mencius”, *Dao*, 2(1): 45–77. Included as “The Virtue of Righteousness in Mencius”, in *Confucian Ethics: : A Comparative Study of Self, Autonomy, and Community*, Kwong-Loi Shun and David B. Wong (eds.), Cambridge University Press, 2004, 148–182. doi: 10.1007/BF02856995 (2002) doi: 10.1017/CBO9780511606960.009 (2004)
 * von Uexküll, Jakob, 2010, *A Foray into the Worlds of Animals and Humans: With a Theory of Meaning*, trans. Joseph D. O’Neil (trans.), Minneapolis, MN: University of Minnesota Press.
 * Wang, Robin R., 2013, “Understanding of Yin and Yang”, *Religion Compass* 7.6: 214–224.
 * Raphals, Lisa. 2015. “Mind and Body in Early China and Greece.” *Journal of Cognitive Historiography* 2.2: 132–182.
 * Wong, David B., 1996, “Hsün Tzu on Moral Motivation”, in *Chinese Language and Thought: Nivison and His Critics*, Philip J. Ivanhoe (ed.), Chicago, IL: Open Court Publishing, 202–223. Republished as 2000, “Xunzi on Moral Motivation”, in *Virtue, Nature, and Moral Agency in the Xunzi*, T. C. Kline III and Philip J. Ivanhoe (eds.), Indianapolis, IN: Hackett Publishing, 135–154.
 * –––, 2002, “Reasons and Analogical Reasoning in Mengzi”, in *Essays on the Moral Philosophy of Mengzi*, Xiusheng Liu and Philip J. Ivanhoe (eds.), Indianapolis, IN: Hackett Publishing, 187–220.
-* –––, 2017, “Moral Sentimentalism in Early Confucian Thought”, in *Ethical Sentimentalism: New Perspectives*, Remy Debes and Karsten Stueber (eds.), Cambridge: Cambridge University Press, 230–249 (ch. 12). doi:10.1017/9781316105672.013
+* –––, 2017, “Moral Sentimentalism in Early Confucian Thought”, in *Ethical Sentimentalism: New Perspectives*, Remy Debes and Karsten Stueber (eds.), Cambridge: Cambridge University Press, 230–249 (ch. 12). doi: 10.1017/9781316105672.013
 * –––, 2020, “Comparative Philosophy: Chinese and Western”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/comparphil-chiwes/](https://plato.stanford.edu/archives/fall2020/entries/comparphil-chiwes/).
-* –––, 2022, “Constructive Skepticism in the *Zhuangzi*”, in *Dao Companion to the Philosophy of the Zhuangzi*, Kim-chong Chong (ed.), (Dao Companions to Chinese Philosophy 16), Cham: Springer International Publishing, 639–660. doi:10.1007/978-3-030-92331-0\_27
+* –––, 2022, “Constructive Skepticism in the *Zhuangzi*”, in *Dao Companion to the Philosophy of the Zhuangzi*, Kim-chong Chong (ed.), (Dao Companions to Chinese Philosophy 16), Cham: Springer International Publishing, 639–660. doi: 10.1007/978-3-030-92331-0\_27
 
 ## Academic Tools
 

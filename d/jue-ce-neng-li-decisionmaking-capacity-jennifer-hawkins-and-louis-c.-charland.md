@@ -28,9 +28,9 @@
 
 尽管如此，在一些法律管辖区，如英国，术语“容量”（或“决策能力”）通常被视为法律术语（Tan＆Elphick，2002 年）。另一方面，在美国，术语“能力”（或“精神能力”）通常被认为具有法律涵义和权威性（Buchanan，2004 年；Berg，Appelbaum＆Grisso，1996 年）。这些都没有太大帮助，因为一旦我们切换到其他司法管辖区或进行比较工作，术语就会改变。
 
-在这个领域中，有一个众所周知的文本通过发展一个新的混合术语来解决问题。在他们的书《为他人做决策》中，艾伦·布坎南和丹·布洛克写道，“能力是某项任务的能力，做某事的能力”（布坎南和布洛克 1989 年：84；原文强调）。然后，他们指定了自己的重点，即“做决策的能力”（同上）。这导致了对作者所称的“决策能力”及其标准的长时间讨论，以及所谓的“决策能力”背后的具体“决策能力”。根据这种策略，引入一个新术语“决策能力”是提出的解决方案。不幸的是，这种规定性的解决方案可能会使问题变得更加复杂，而不是简化问题，因为更常见的是使用“决策能力”而不是“决策能力”。
+在这个领域中，有一个众所周知的文本通过发展一个新的混合术语来解决问题。在他们的书《为他人做决策》中，艾伦 · 布坎南和丹 · 布洛克写道，“能力是某项任务的能力，做某事的能力”（布坎南和布洛克 1989 年：84；原文强调）。然后，他们指定了自己的重点，即“做决策的能力”（同上）。这导致了对作者所称的“决策能力”及其标准的长时间讨论，以及所谓的“决策能力”背后的具体“决策能力”。根据这种策略，引入一个新术语“决策能力”是提出的解决方案。不幸的是，这种规定性的解决方案可能会使问题变得更加复杂，而不是简化问题，因为更常见的是使用“决策能力”而不是“决策能力”。
 
-托马斯·格里索和保罗·阿佩尔鲍姆在他们的里程碑式研究《同意治疗的能力》中采取了另一种方法。他们解释道：
+托马斯 · 格里索和保罗 · 阿佩尔鲍姆在他们的里程碑式研究《同意治疗的能力》中采取了另一种方法。他们解释道：
 
 > …当我们提到与决策相关的能力时，我们谈论的是“决策能力”。然而，我们使用术语“能力”来表示患者的决策能力足够完整，以便尊重他们的决策（无论是谁做出决定）（格里索和阿佩尔鲍姆 1998 年：11）。
 
@@ -67,7 +67,7 @@
 3. 受试者必须理解所传达的内容。
 4. 受试者可以自愿选择接受或拒绝所提供或提议的内容。
 
-哲学家们可能自然地认为，关于知情同意的道德理论会导致并塑造决策能力的理论。毕竟，如果知情同意的目的是为了促进和推动自主决策，人们可能自然地认为任务是区分那些实际上能够做出自主决策的人和那些不能做出自主决策的人。这又需要更详细地说明自主决策的要素。然而，这并不是文献中所发现的情况，也有其原因。首先，要认真对待这样的想法，就必须有一个独立的自主决策理论，该理论足够具体以指导实践，即测试和工具的开发。但是，目前的自主决策理论对此目的来说过于抽象。此外，它们通常要求过高（即，它们似乎将太多的决策视为非自主的）。[1]因此，有趣的是，尽管许多哲学家和生物伦理学家继续将决策能力与自主决策能力等同起来，但我们当前的决策能力概念并不是从自主决策能力的概念中推导出来的。相反，当前的决策能力概念是从头开始构建的，主要（尽管不完全）独立于哲学理论。这意味着一个有能力的决策是否是一个自主决策是一个未解之谜。
+哲学家们可能自然地认为，关于知情同意的道德理论会导致并塑造决策能力的理论。毕竟，如果知情同意的目的是为了促进和推动自主决策，人们可能自然地认为任务是区分那些实际上能够做出自主决策的人和那些不能做出自主决策的人。这又需要更详细地说明自主决策的要素。然而，这并不是文献中所发现的情况，也有其原因。首先，要认真对待这样的想法，就必须有一个独立的自主决策理论，该理论足够具体以指导实践，即测试和工具的开发。但是，目前的自主决策理论对此目的来说过于抽象。此外，它们通常要求过高（即，它们似乎将太多的决策视为非自主的）。[1] 因此，有趣的是，尽管许多哲学家和生物伦理学家继续将决策能力与自主决策能力等同起来，但我们当前的决策能力概念并不是从自主决策能力的概念中推导出来的。相反，当前的决策能力概念是从头开始构建的，主要（尽管不完全）独立于哲学理论。这意味着一个有能力的决策是否是一个自主决策是一个未解之谜。
 
 ## 3. 道德谨慎：无能力的结果是什么？
 
@@ -79,7 +79,7 @@
 
 ## 4. 能力的要素
 
-尽管决策能力的概念的某些方面仍未明确和发展，但可以确定一些共享的元素，所有或几乎所有理论家都同意这些元素必须是其中的一部分。最突出的是四个子能力。它们是（1）选择，（2）理解，（3）欣赏和（4）推理。一些理论家还建议需要类似（5）价值或价值能力（在§6.1 中讨论），还有一些人提出需要（6）真实性（也在§6.1 中讨论）。以下是最基本和共识的元素的介绍，以及这些元素在实践中的理解方式的解释。
+尽管决策能力的概念的某些方面仍未明确和发展，但可以确定一些共享的元素，所有或几乎所有理论家都同意这些元素必须是其中的一部分。最突出的是四个子能力。它们是（1）选择，（2）理解，（3）欣赏和（4）推理。一些理论家还建议需要类似（5）价值或价值能力（在 §6.1 中讨论），还有一些人提出需要（6）真实性（也在 §6.1 中讨论）。以下是最基本和共识的元素的介绍，以及这些元素在实践中的理解方式的解释。
 
 ### 4.1 选择
 
@@ -87,7 +87,7 @@
 
 ### 4.2 理解
 
-最基本的心理元素是理解（Buchanan＆Brock 1989：23）。显然，为了能够同意或拒绝某项干预措施，受试者必须对涉及该决定的事实有一些基本的理解。然而，根据对“理解”本身的定义方式，这个看似简单的要求可能会变得相当复杂（Drane 1985）。基本的理解和知识或事实的认知是一种最低限度的解释（Grisso＆Appelbaum 1998：37-42）。然而，大多数评论家认识到，这种心理能力水平对于我们关心的医疗决策的产生是不够的。另一方面，标准不能设置得太高，否则我们会认定太多人无能力（参见包容性§5.1）。
+最基本的心理元素是理解（Buchanan＆Brock 1989：23）。显然，为了能够同意或拒绝某项干预措施，受试者必须对涉及该决定的事实有一些基本的理解。然而，根据对“理解”本身的定义方式，这个看似简单的要求可能会变得相当复杂（Drane 1985）。基本的理解和知识或事实的认知是一种最低限度的解释（Grisso＆Appelbaum 1998：37-42）。然而，大多数评论家认识到，这种心理能力水平对于我们关心的医疗决策的产生是不够的。另一方面，标准不能设置得太高，否则我们会认定太多人无能力（参见包容性 §5.1）。
 
 ### 4.3 欣赏
 
@@ -99,7 +99,7 @@
 
 > 欣赏潜在选择的本质和意义——想象自己处于可能的未来状态并经历各种经历的感受，并将这种欣赏融入决策过程中。（Buchanan＆Brock 1989：24）
 
-然而，确定这种更深层次的欣赏何时存在并不容易。此外，当代心理学已经向我们展示了大多数人对未来情景的这种欣赏是多么罕见。欣赏未来选择的感受需要心理学家所称的“情感预测”，许多研究表明，我们中的大多数人在情感预测方面非常糟糕（Ubel，Loewenstein，Hershey 等，2001 年；Wilson，Wheatley，Meyers 等，2000 年；Gilbert，Gill＆Wilson 2002 年；Gilbert，Pinel，Wilson 等，1998 年；Wilson，Meyers＆Gilbert 2001 年；Wilson＆Gilbert 2005 年；Ubel，Loewenstein，Schwarz 等，2005 年；Ubel，Loewenstein 和 Jepson 2005 年；关于这与能力的相关性，请参见 Halpern＆Arnold 2008 年）。但是，鉴于此，如果我们要求这种深层次的欣赏，我们将再次冒着过多地判定人们无能的风险（请参见包容性§5.1）。
+然而，确定这种更深层次的欣赏何时存在并不容易。此外，当代心理学已经向我们展示了大多数人对未来情景的这种欣赏是多么罕见。欣赏未来选择的感受需要心理学家所称的“情感预测”，许多研究表明，我们中的大多数人在情感预测方面非常糟糕（Ubel，Loewenstein，Hershey 等，2001 年；Wilson，Wheatley，Meyers 等，2000 年；Gilbert，Gill＆Wilson 2002 年；Gilbert，Pinel，Wilson 等，1998 年；Wilson，Meyers＆Gilbert 2001 年；Wilson＆Gilbert 2005 年；Ubel，Loewenstein，Schwarz 等，2005 年；Ubel，Loewenstein 和 Jepson 2005 年；关于这与能力的相关性，请参见 Halpern＆Arnold 2008 年）。但是，鉴于此，如果我们要求这种深层次的欣赏，我们将再次冒着过多地判定人们无能的风险（请参见包容性 §5.1）。
 
 ### 4.4 推理
 
@@ -107,7 +107,7 @@
 
 然而，有时会提到推理的规范标准，例如一致性和从前提中得出结论的能力（Freedman 1981）。更常见的是，推理被认为包括权衡风险和利益以及评估假设的后果的能力。同样，没有明确规定成功的具体规范标准。因此，必须对困难案例进行个别评估。
 
-大多数理论家似乎都同意，至少在某种程度上拥有这四种能力是容量的必要条件。主要问题（在§6 中进一步探讨）是关于这四种能力是否总是足够的，或者是否存在某些情况，在这些情况下，主体的选择中的其他能力或其他特征可能与容量评估相关。批评者最常引用的三个因素是（1）主体的情绪，（2）主体的价值观，以及（3）主体选择的真实性。
+大多数理论家似乎都同意，至少在某种程度上拥有这四种能力是容量的必要条件。主要问题（在 §6 中进一步探讨）是关于这四种能力是否总是足够的，或者是否存在某些情况，在这些情况下，主体的选择中的其他能力或其他特征可能与容量评估相关。批评者最常引用的三个因素是（1）主体的情绪，（2）主体的价值观，以及（3）主体选择的真实性。
 
 ## 5. 五个被广泛接受的假设（以及一个更有争议的第六个）
 
@@ -133,7 +133,7 @@
 
 我们所谓的“价值中立性约束”稍微复杂一些，但其重要性使得我们有必要清楚地解释。价值中立性是指我们需要给患者留出空间做出不寻常或不受欢迎的选择（Craigie 2013a：1）。人们在价值观上存在很大的差异，因此，即使面临相似的情况，他们也会做出非常不同的选择。如果自主决策的自由具有意义，我们需要确保个人不被认为缺乏决策能力，只因为他们选择了其他人不赞同的事物。这种担忧是真实存在的。在不太遥远的过去，医生经常假设患者无能力，并因此拒绝尊重患者的意愿，每当患者拒绝医生认为有益的治疗时（Culver，Ferrell，＆Green 1980：587）。因此，似乎很重要找到一种区分能力正常但不寻常选择和因为错误或不充分的心理过程而不寻常的选择的方法。
 
-考虑接受死亡而不是某种特定的治疗方式的决定。当然，渴望死亡在某些情况下可能是精神疾病的迹象，因此可能是无能力的迹象（尽管仅仅精神病并不意味着某人无能力：参见§5.5）。但是，将所有拒绝维持生命的治疗视为精神疾病或决策能力不足的迹象（或两者兼而有之）将会带来巨大的问题！有些人出于教义宗教原因拒绝接受维持生命的输血（Charland 2001: 137）。其他人可能选择死亡作为比遭受痛苦更可取的选择。例如，一位长期透析患者如果不能进行移植手术，可能会接受死亡作为唯一逃离她认为难以忍受的生活的方式。即使这不是大多数透析患者的选择，这样的选择也是可以理解的。在宗教案例和透析案例中，选择似乎反映了并非所有人都共享的价值观。然而，尽管价值观的分歧可能令人不安，但通常不被认为是任何智力能力缺乏的迹象。由于死亡既可以由有能力的个体选择，也可以由无能力的个体选择，许多理论家认为，我们必须寻找除了仅仅所选择的内容之外的其他东西来区分有能力的选择和无能力的选择。
+考虑接受死亡而不是某种特定的治疗方式的决定。当然，渴望死亡在某些情况下可能是精神疾病的迹象，因此可能是无能力的迹象（尽管仅仅精神病并不意味着某人无能力：参见 §5.5）。但是，将所有拒绝维持生命的治疗视为精神疾病或决策能力不足的迹象（或两者兼而有之）将会带来巨大的问题！有些人出于教义宗教原因拒绝接受维持生命的输血（Charland 2001: 137）。其他人可能选择死亡作为比遭受痛苦更可取的选择。例如，一位长期透析患者如果不能进行移植手术，可能会接受死亡作为唯一逃离她认为难以忍受的生活的方式。即使这不是大多数透析患者的选择，这样的选择也是可以理解的。在宗教案例和透析案例中，选择似乎反映了并非所有人都共享的价值观。然而，尽管价值观的分歧可能令人不安，但通常不被认为是任何智力能力缺乏的迹象。由于死亡既可以由有能力的个体选择，也可以由无能力的个体选择，许多理论家认为，我们必须寻找除了仅仅所选择的内容之外的其他东西来区分有能力的选择和无能力的选择。
 
 通常认为满足价值中立要求的唯一方法是在过程和结果之间划清鲜明的界限（Freedman 1981；Buchanan＆Brock，1989：50-51；Banner 2013：1）。根据这种观点，能力更多地与决策过程的性质有关，而不是实际决策本身的内容或结果。
 
@@ -155,7 +155,7 @@ Moreover, discussions of capacity assessment tend to assume (contra Culver & Ger
 
 就像通常认为患者不能仅凭她（也许是不寻常的）价值观来宣布其无能力一样，同样地，患者也不能仅凭其诊断来宣布其无能力。出于明显的原因，这对于患有精神疾病或认知障碍的患者最为相关，因为过去一直认为所有这类患者都是全面无能力的（Kim 2010: 11）。历史上，这导致了许多人自由的大量损失。
 
-如今，普遍认为诊断本身并不意味着一个人无能力[2]。相反，我们必须观察事实上精神疾病（或认知障碍）是否在特定个体和特定决策方面削弱了决策能力。临床医生寻找与普通患者所认为相关的相同特征：理解、欣赏和推理，如上所述（Whiting 2015）。这导致，虽然一些被诊断为精神疾病或认知障碍的患者被认为在某些决策上无能力，但许多人被认为在至少某些决策上有能力，还有一些人可能被认为在所有决策上都有能力。这导致这些患者群体对自己的治疗有了更大的参与度，比以往任何时候都要多。可以说，这也有助于在某种程度上减少对精神疾病和认知障碍的污名化。
+如今，普遍认为诊断本身并不意味着一个人无能力 [2]。相反，我们必须观察事实上精神疾病（或认知障碍）是否在特定个体和特定决策方面削弱了决策能力。临床医生寻找与普通患者所认为相关的相同特征：理解、欣赏和推理，如上所述（Whiting 2015）。这导致，虽然一些被诊断为精神疾病或认知障碍的患者被认为在某些决策上无能力，但许多人被认为在至少某些决策上有能力，还有一些人可能被认为在所有决策上都有能力。这导致这些患者群体对自己的治疗有了更大的参与度，比以往任何时候都要多。可以说，这也有助于在某种程度上减少对精神疾病和认知障碍的污名化。
 
 ### 5.6 风险和对称性
 
@@ -205,11 +205,11 @@ Moreover, discussions of capacity assessment tend to assume (contra Culver & Ger
 
 许多引用情感的相同理论家还指出，四个能力模型忽视了患者的价值观（Charland 2002）。然而，在一些情况下，直观上，患者似乎缺乏能力，恰恰是他们追求不寻常和自毁性的价值观似乎是有问题的。追求自己选择的成瘾者（Levy 2016）或追求极度苗条的厌食症患者就是这样的例子。在评估能力时，是否还有一种方法可以诉诸于价值观呢？
 
-四种能力模型的充分性在这方面受到了 Tan、Hope、Stewart 和同事们的挑战，他们在一系列文章中探讨了一项关于患有厌食症的患者的小型实证研究的结果（Tan、Hope、& Stewart 2003a,b; Tan、Stewart、Fitzpatrick、& Hope 2006a,b; Tan、Stewart、& Hope 2009）。对这些患者进行了详细的访谈，了解他们对自己疾病的理解、为什么追求极端减重、对治疗的感受以及可能导致他们拒绝治疗的原因。此外，还使用了 MacCAT-T 对这些女性进行了决策能力评估。她们在 MacCAT-T 上得分都非常高，表现出很高的理解和推理能力，得分基本上与健康对照组相当（Tan、Stewart 等人 2006a: 270）。根据典型的、纯认知的能力评估标准，她们都是（或大多数是，这取决于对欣赏的重视程度）有能力的。然而，她们中的大多数明显打算继续减肥。她们对变瘦的极高价值使她们轻视了曾经更为核心的其他价值观。正如一位参与者所说，
+四种能力模型的充分性在这方面受到了 Tan、Hope、Stewart 和同事们的挑战，他们在一系列文章中探讨了一项关于患有厌食症的患者的小型实证研究的结果（Tan、Hope、& Stewart 2003a, b; Tan、Stewart、Fitzpatrick、& Hope 2006a, b; Tan、Stewart、& Hope 2009）。对这些患者进行了详细的访谈，了解他们对自己疾病的理解、为什么追求极端减重、对治疗的感受以及可能导致他们拒绝治疗的原因。此外，还使用了 MacCAT-T 对这些女性进行了决策能力评估。她们在 MacCAT-T 上得分都非常高，表现出很高的理解和推理能力，得分基本上与健康对照组相当（Tan、Stewart 等人 2006a: 270）。根据典型的、纯认知的能力评估标准，她们都是（或大多数是，这取决于对欣赏的重视程度）有能力的。然而，她们中的大多数明显打算继续减肥。她们对变瘦的极高价值使她们轻视了曾经更为核心的其他价值观。正如一位参与者所说，
 
 > 虽然我不介意死亡，但我真的不想死，只是我想减肥，这是最重要的事情。（Tan、Hope、& Stewart 2003a: 702）
 
-直观上，至少对于许多人来说，这些被诊断为严重心理障碍并以健康和生命为代价追求瘦身的年轻女性缺乏做出自己决策的能力。对于一些理论家来说，确实，这些案例是无能力的典型案例，一个理论应该能够解释这些案例。然而，以认知为重点的四种能力模型无法解释这些案例，因为这些年轻女性虽然追求自毁行为，但认知完好。事实上，严重厌食症患者通常按照通常的标准被认为具有能力（Elzakkers 等人 2016）。他们的决策唯一不寻常的地方似乎是他们决定追求的内容和背后的价值观。那么，有没有一种方法可以通过这些患者表达的价值观来解释他们为什么缺乏能力？传统的价值中立理解（§5.4 上述）表明我们不能。但是 Tan 和其他人（Tan、Hope、& Stewart 2003a,b; Tan、Stewart、et al. 2006a）认为关键在于认识到这些价值观（与耶和华见证人的不寻常价值观不同）是由心理障碍本身引起的（有关成瘾的类似观点，请参见 Charland 2002, 2011）。所涉及的价值观是“病态价值观”。
+直观上，至少对于许多人来说，这些被诊断为严重心理障碍并以健康和生命为代价追求瘦身的年轻女性缺乏做出自己决策的能力。对于一些理论家来说，确实，这些案例是无能力的典型案例，一个理论应该能够解释这些案例。然而，以认知为重点的四种能力模型无法解释这些案例，因为这些年轻女性虽然追求自毁行为，但认知完好。事实上，严重厌食症患者通常按照通常的标准被认为具有能力（Elzakkers 等人 2016）。他们的决策唯一不寻常的地方似乎是他们决定追求的内容和背后的价值观。那么，有没有一种方法可以通过这些患者表达的价值观来解释他们为什么缺乏能力？传统的价值中立理解（§5.4 上述）表明我们不能。但是 Tan 和其他人（Tan、Hope、& Stewart 2003a, b; Tan、Stewart、et al. 2006a）认为关键在于认识到这些价值观（与耶和华见证人的不寻常价值观不同）是由心理障碍本身引起的（有关成瘾的类似观点，请参见 Charland 2002, 2011）。所涉及的价值观是“病态价值观”。
 
 虽然一开始看起来很有希望，但仍然存在一些问题。首先，这种观点认为厌食症是这些价值观的源头或原因。即使是这样，我们仍需要更多的了解，才能将其转化为对无能力的解释。我们需要一种解释这些价值观如何破坏或对决策产生不良影响的方式。
 
@@ -233,7 +233,7 @@ Moreover, discussions of capacity assessment tend to assume (contra Culver & Ger
 
 如果这些关于厌食症患者发生的描述是正确的，那么可以认为这些患者在决策能力上（从规范的角度来说）不应被视为具有决策能力。在这种情况下，他们受到了一种强大幻觉的情感等价物的影响，并且在选择时无法抵抗这种幻觉。然而，关于如何正确区分能力和无能力的问题仍然存在许多问题。Hope 等人提出的描述对于引起我们的注意非常重要，但它仍然没有解决大部分核心问题。
 
-最后，使用真实性的概念提出了一个稍微不同（但相关的）对四项能力模型的挑战。在 Tan、Stewart、Fitzpatrick 和 Hope（2006a）提出的思想基础上，某些价值观是由心理障碍引起的，并因此被怀疑，这些批评家担心驱动决策的价值观可能不是患者真实的价值观。如果真实性被认为是自主权的一部分，那么可以认为不真实的价值观会削弱能力（尽管请参阅关于自主权和能力的讨论§2）。因此，问题变成了：我们可以要求治疗决策的驱动价值观是真实的吗？如果不能，我们可以宣布这个人无能力吗？
+最后，使用真实性的概念提出了一个稍微不同（但相关的）对四项能力模型的挑战。在 Tan、Stewart、Fitzpatrick 和 Hope（2006a）提出的思想基础上，某些价值观是由心理障碍引起的，并因此被怀疑，这些批评家担心驱动决策的价值观可能不是患者真实的价值观。如果真实性被认为是自主权的一部分，那么可以认为不真实的价值观会削弱能力（尽管请参阅关于自主权和能力的讨论 §2）。因此，问题变成了：我们可以要求治疗决策的驱动价值观是真实的吗？如果不能，我们可以宣布这个人无能力吗？
 
 金（2016）最近为他所称的“价值能力”辩护了一种温和的真实性要求形式。这个术语可能会让人产生误解，因为它不是关于一个人能否将某物与无物进行价值比较，而是关于一个人能否将自己真实的价值观带入决策过程中（Hawkins 2016）。金提出了两个问题，与他对价值能力的两个要求相对应：首先，推动特定治疗决策的价值观是否真正属于患者自己的价值观，或者患者是否在行为上失去了自我特点？其次，如果价值观似乎不真实，我们能否证明新的问题价值观是在精神障碍发生或某种疾病相关事件之后产生的（例如，一个在三周前停止服药并在此后不久开始想要死亡的抑郁症患者）？第二个问题类似于评估欣赏时出现的第二个问题，在那里我们必须确定患者不相信事实的原因是否是某种精神问题引起的（例如，痴呆引起的困惑或重症监护室精神病）。如果欣赏因宗教或文化信仰而失败，这并不意味着无能力。金明确表示他希望这一要求被非常谨慎地应用，并且这一领域的损害并不足以确定无能力，尽管他对它确切的贡献模糊不清。
 
@@ -259,142 +259,142 @@ Moreover, discussions of capacity assessment tend to assume (contra Culver & Ger
 
 在过去的十年里，关于决策能力的文献呈指数增长，尽管有趣的是，大部分增长发生在临床和研究文献中，并且具有明显的经验主义倾向。尽管不断有新的话题被引入，但很明显，在哲学之外，许多问题被认为是解决了的，但在哲学眼中并非如此。因此，看到未来十年的发展将会很有趣。
 
-此外，随着某些类型的伦理问题成为公众辩论的热点话题，决策能力变得越来越相关。例如，在医疗援助死亡法（MAID）方面，决策能力显然非常重要，然而公众常常无法理解决策能力的实际含义以及评估能力的实践是多么多样化（Kim，Appelbaum等，2011年; Seyfried，Ryan和Kim，2013年）。这一点尤为重要，因为目前最具争议的问题之一是是否应该让患有精神疾病或认知障碍的人成为安乐死的候选人（Stewart，Peisah和Draper，2011年; Broome和de Cates，2015年; Price，2015年; Schuklenk和van de Vathorst，2015年; Appelbaum，2016年; Charland，Lemmens和Wada，2016年; Doernberg，Peteet和Kim，2016年; Kim和Lemmens，2016年; Blikshavn，Husum和Magelssen，2017年）。正如本文所明确的，关于决策能力的一些最困难的问题特别出现在精神疾病的情况下，这使得更难确定是否可以适当地实施面向精神病患者的MAID政策，其中“适当”在这里指的是在保护真正脆弱的人与促进那些能够有意义行使自由的人之间取得恰当平衡的实施。
+此外，随着某些类型的伦理问题成为公众辩论的热点话题，决策能力变得越来越相关。例如，在医疗援助死亡法（MAID）方面，决策能力显然非常重要，然而公众常常无法理解决策能力的实际含义以及评估能力的实践是多么多样化（Kim，Appelbaum 等，2011 年; Seyfried，Ryan 和 Kim，2013 年）。这一点尤为重要，因为目前最具争议的问题之一是是否应该让患有精神疾病或认知障碍的人成为安乐死的候选人（Stewart，Peisah 和 Draper，2011 年; Broome 和 de Cates，2015 年; Price，2015 年; Schuklenk 和 van de Vathorst，2015 年; Appelbaum，2016 年; Charland，Lemmens 和 Wada，2016 年; Doernberg，Peteet 和 Kim，2016 年; Kim 和 Lemmens，2016 年; Blikshavn，Husum 和 Magelssen，2017 年）。正如本文所明确的，关于决策能力的一些最困难的问题特别出现在精神疾病的情况下，这使得更难确定是否可以适当地实施面向精神病患者的 MAID 政策，其中“适当”在这里指的是在保护真正脆弱的人与促进那些能够有意义行使自由的人之间取得恰当平衡的实施。
 
 ## Bibliography
 
-* Abernathy, V., 1984, “Compassion, Control, and Decisions about Competency”, *American Journal of Psychiatry*, 141(1): 53–58. doi:10.1176/ajp.141.1.53
-* Appelbaum, Paul S., 1998, “Ought We to Require Emotional Capacity as Part of Decisional Competence?”, *Kennedy Institute of Ethics Journal*, 8(4): 377–387. doi:10.1353/ken.1998.0024
+* Abernathy, V., 1984, “Compassion, Control, and Decisions about Competency”, *American Journal of Psychiatry*, 141(1): 53–58. doi: 10.1176/ajp.141.1.53
+* Appelbaum, Paul S., 1998, “Ought We to Require Emotional Capacity as Part of Decisional Competence?”, *Kennedy Institute of Ethics Journal*, 8(4): 377–387. doi: 10.1353/ken.1998.0024
 * –––, 2006. “Decisional Capacity of Patients with Schizophrenia to Consent to Research: Taking Stock”, *Schizophrenia Bulletin*, 32(1): 22–25.
-* –––, 2007, “Assessment of Patients’ Competence to Consent to Treatment”, *New England Journal of Medicine*, 357(18): 1834–1840. doi:10.1056/NEJMcp074045
-* –––, 2016, “Physician-Assisted Death for Patients With Mental Disorders—Reasons for Concern”, *JAMA Psychiatry*, 73(4): 325–325. doi:10.1001/jamapsychiatry.2015.2890
-* Appelbaum, Paul S. and Thomas Grisso, 1995, “The MacArthur Treatment Competence Study. I: Mental Illness and Competence to Consent to Treatment.”, *Law and Human Behavior*, 19(2): 105–126. doi:10.1007/BF01499321
+* –––, 2007, “Assessment of Patients’ Competence to Consent to Treatment”, *New England Journal of Medicine*, 357(18): 1834–1840. doi: 10.1056/NEJMcp074045
+* –––, 2016, “Physician-Assisted Death for Patients With Mental Disorders—Reasons for Concern”, *JAMA Psychiatry*, 73(4): 325–325. doi: 10.1001/jamapsychiatry.2015.2890
+* Appelbaum, Paul S. and Thomas Grisso, 1995, “The MacArthur Treatment Competence Study. I: Mental Illness and Competence to Consent to Treatment.”, *Law and Human Behavior*, 19(2): 105–126. doi: 10.1007/BF01499321
 * Appelbaum, P. S., T. Grisso, E. Frank, S. O’Donnell, and D. J. Kupfer, 1999, “Competence of Depressed Patients for Consent to Research”, *The American Journal of Psychiatry*, 156(9): 1380–1384.
 * Appelbaum, Paul S. and Thomas G. Gutheil, T. G., 2007, *Clinical Handbook of Psychiatry and the Law*, fourth edition, New York: Wolters Kluwer Health.
-* Appelbaum, Paul S., Charles W. Lidz, and Robert Klitzman, 2009, “Voluntariness of Consent to Research: A Conceptual Model”, *Hastings Center Report*, 39(1): 30–39. doi:10.1353/hcr.0.0103
-* Banner, Natalie F., 2013, “Can Procedural and Substantive Elements of Decision-Making Be Reconciled in Assessments of Mental Capacity?”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 71–86. doi:10.1017/S1744552312000493
-* Baumeister, Roy F., Ellen Bratslavsky, Mark Muraven, and Dianne M. Tice, 1998, “Ego Depletion: Is the Active Self a Limited Resource?”, *Journal of Personality and Social Psychology*, 74(5): 1252–1265. doi:10.1037/0022-3514.74.5.1252
+* Appelbaum, Paul S., Charles W. Lidz, and Robert Klitzman, 2009, “Voluntariness of Consent to Research: A Conceptual Model”, *Hastings Center Report*, 39(1): 30–39. doi: 10.1353/hcr.0.0103
+* Banner, Natalie F., 2013, “Can Procedural and Substantive Elements of Decision-Making Be Reconciled in Assessments of Mental Capacity?”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 71–86. doi: 10.1017/S1744552312000493
+* Baumeister, Roy F., Ellen Bratslavsky, Mark Muraven, and Dianne M. Tice, 1998, “Ego Depletion: Is the Active Self a Limited Resource?”, *Journal of Personality and Social Psychology*, 74(5): 1252–1265. doi: 10.1037/0022-3514.74.5.1252
 * Beauchamp, Tom L. and James F. Childress, 2001, *Principles of Biomedical Ethics*, fifth edition, Oxford: Oxford University Press.
-* Benn, S. I., 1975, “Freedom, Autonomy and the Concept of a Person”, *Proceedings of the Aristotelian Society*, 76(1): 109–130. doi:10.1093/aristotelian/76.1.109
+* Benn, S. I., 1975, “Freedom, Autonomy and the Concept of a Person”, *Proceedings of the Aristotelian Society*, 76(1): 109–130. doi: 10.1093/aristotelian/76.1.109
 * Berg, Jessica Wilson, Paul S. Appelbaum, and Thomas Grisso, 1996, “Constructing Competence: Formulating Standards of Legal Competence to Make Medical Decisions”, *Rutgers Law Review*, 48: 345–398.
-* Berghmans, Ron, Donna Dickenson, and Ruud Ter Meulen, 2004, “Editorial: Mental Capacity: In Search of Alternative Perspectives”, *Health Care Analysis*, 12(4): 251–263. doi:10.1007/s10728-004-6633-z
-* Berghmans, Ron, Dorothee Horstkötter, and Guido de Wert, 2011, “The Place of Emotions in Capacity Assessments”, *AJOB Neuroscience*, 2(3): 66–68. doi:10.1080/21507740.2011.586667
-* Blikshavn, Thomas, Tonje Lossius Husum, and Morten Magelssen, 2017, “Four Reasons Why Assisted Dying Should Not Be Offered for Depression”, *Journal of Bioethical Inquiry*, 14(1): 151–157. doi:10.1007/s11673-016-9759-4
-* Breden, Torsten Marcus and Jochen Vollmann, 2004, “The Cognitive Based Approach of Capacity Assessment in Psychiatry: A Philosophical Critique of the MacCAT-T”, *Health Care Analysis*, 12(4): 273–283. doi:10.1007/s10728-004-6635-x
-* Brock, Dan W., 1991, “Decisionmaking Competence and Risk”, *Bioethics*, 5(2): 105–112. doi:10.1111/j.1467-8519.1991.tb00151.x
-* Broome, Matthew R. and Angharad de Cates, 2015, “Choosing Death in Depression: A Commentary on ‘Treatment-Resistant Major Depressive Disorder and Assisted Dying’”, *Journal of Medical Ethics*, 41(8): 586–587. doi:10.1136/medethics-2015-102812
-* Buchanan, Alec, 2004, “Mental Capacity, Legal Competence and Consent to Treatment”, *Journal of the Royal Society of Medicine*, 97(9): 415–420. doi:10.1258/jrsm.97.9.415
-* Buchanan, Allen E. and Dan W. Brock, 1989, *Deciding for Others: The Ethics of Surrogate Decision Making*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171946
-* Buller, Tom, 2001, “Competency and Risk-Relativity”, *Bioethics*, 15(2): 93–109. doi:10.1111/1467-8519.00218
+* Berghmans, Ron, Donna Dickenson, and Ruud Ter Meulen, 2004, “Editorial: Mental Capacity: In Search of Alternative Perspectives”, *Health Care Analysis*, 12(4): 251–263. doi: 10.1007/s10728-004-6633-z
+* Berghmans, Ron, Dorothee Horstkötter, and Guido de Wert, 2011, “The Place of Emotions in Capacity Assessments”, *AJOB Neuroscience*, 2(3): 66–68. doi: 10.1080/21507740.2011.586667
+* Blikshavn, Thomas, Tonje Lossius Husum, and Morten Magelssen, 2017, “Four Reasons Why Assisted Dying Should Not Be Offered for Depression”, *Journal of Bioethical Inquiry*, 14(1): 151–157. doi: 10.1007/s11673-016-9759-4
+* Breden, Torsten Marcus and Jochen Vollmann, 2004, “The Cognitive Based Approach of Capacity Assessment in Psychiatry: A Philosophical Critique of the MacCAT-T”, *Health Care Analysis*, 12(4): 273–283. doi: 10.1007/s10728-004-6635-x
+* Brock, Dan W., 1991, “Decisionmaking Competence and Risk”, *Bioethics*, 5(2): 105–112. doi: 10.1111/j.1467-8519.1991.tb00151.x
+* Broome, Matthew R. and Angharad de Cates, 2015, “Choosing Death in Depression: A Commentary on ‘Treatment-Resistant Major Depressive Disorder and Assisted Dying’”, *Journal of Medical Ethics*, 41(8): 586–587. doi: 10.1136/medethics-2015-102812
+* Buchanan, Alec, 2004, “Mental Capacity, Legal Competence and Consent to Treatment”, *Journal of the Royal Society of Medicine*, 97(9): 415–420. doi: 10.1258/jrsm.97.9.415
+* Buchanan, Allen E. and Dan W. Brock, 1989, *Deciding for Others: The Ethics of Surrogate Decision Making*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139171946
+* Buller, Tom, 2001, “Competency and Risk-Relativity”, *Bioethics*, 15(2): 93–109. doi: 10.1111/1467-8519.00218
 * Bursztajn, Harold J., Herndon P. Harding, Thomas G. Gutheil, and Archie Brodsky, 1991, “Beyond Cognition: The Role of Disordered Affective States in Impairing Competence to Consent to Treatment”, *Bulletin of the American Academy of Psychiatry & the Law*, 19(4): 383–388.
-* Cale, Gita S., 1999, “Continuing the Debate over Risk-Related Standards of Competence”, *Bioethics*, 13(2): 131–148. doi:10.1111/1467-8519.00137
-* Charland, Louis C., 1998a, “Appreciation and Emotion: Theoretical Reflections on the MacArthur Treatment Competence Study”, *Kennedy Institute of Ethics Journal*, 8(4): 359–376. doi:10.1353/ken.1998.0027
+* Cale, Gita S., 1999, “Continuing the Debate over Risk-Related Standards of Competence”, *Bioethics*, 13(2): 131–148. doi: 10.1111/1467-8519.00137
+* Charland, Louis C., 1998a, “Appreciation and Emotion: Theoretical Reflections on the MacArthur Treatment Competence Study”, *Kennedy Institute of Ethics Journal*, 8(4): 359–376. doi: 10.1353/ken.1998.0027
 * –––, 1998b, “Is Mr. Spock Mentally Competent? Competence to Consent and Emotion”, *Philosophy, Psychiatry, & Psychology*, 5(1): 67–81.
-* –––, 2001, “Mental Competence and Value: The Problem of Normativity in the Assessment of Decision‐making Capacity”, *Psychiatry, Psychology and Law*, 8(2): 135–145. doi:10.1080/13218710109525013
+* –––, 2001, “Mental Competence and Value: The Problem of Normativity in the Assessment of Decision‐making Capacity”, *Psychiatry, Psychology and Law*, 8(2): 135–145. doi: 10.1080/13218710109525013
 * –––, 2002, “Cynthia’s Dilemma: Consenting to Heroin Prescription”, *The American Journal of Bioethics*, 2(2): 37–47.
-* –––, 2006, “Anorexia and the MacCAT-T Test for Mental Competence: Validity, Value, and Emotion”, *Philosophy, Psychiatry, & Psychology*, 13(4): 283–287. [Commentary on Tan, Stewart, et al. 2006a] doi:10.1353/ppp.2007.0027
+* –––, 2006, “Anorexia and the MacCAT-T Test for Mental Competence: Validity, Value, and Emotion”, *Philosophy, Psychiatry, & Psychology*, 13(4): 283–287. [Commentary on Tan, Stewart, et al. 2006a] doi: 10.1353/ppp.2007.0027
 * –––, 2011, “Decision-Making Capacity and Addiction”, in *Addiction and Responsibility*, Jeffrey Poland and George Graham (eds.), Cambridge, MA: MIT Press, 139–158.
-* –––, 2012, “The Varieties of Compulsion in Addiction”, *AJOB Neuroscience*, 3(2): 50–51. doi:10.1080/21507740.2012.675011
-* –––, 2015, “Passion and Decision-Making Capacity in Anorexia Nervosa”, *AJOB Neuroscience*, 6(4): 66–68. doi:10.1080/21507740.2015.1105879
-* Charland, Louis C., Tony Hope, Anne Stewart, and Jacinta Tan, 2013, “Anorexia Nervosa as a Passion”, *Philosophy, Psychiatry, & Psychology*, 20(4): 353–365. doi:10.1353/ppp.2013.0049
+* –––, 2012, “The Varieties of Compulsion in Addiction”, *AJOB Neuroscience*, 3(2): 50–51. doi: 10.1080/21507740.2012.675011
+* –––, 2015, “Passion and Decision-Making Capacity in Anorexia Nervosa”, *AJOB Neuroscience*, 6(4): 66–68. doi: 10.1080/21507740.2015.1105879
+* Charland, Louis C., Tony Hope, Anne Stewart, and Jacinta Tan, 2013, “Anorexia Nervosa as a Passion”, *Philosophy, Psychiatry, & Psychology*, 20(4): 353–365. doi: 10.1353/ppp.2013.0049
 * Charland, Louis C., Trudo Lemmens, and Kyoko Wada, 2016. “Decision-Making Capacity to Consent to Medical Assistance in Dying for Persons with Mental Disorder”, *Journal of Ethics in Mental Health, Open Volume*, 9: VI.ii. [[Charland, Lemmens, and Wada 2016 available online](https://jemh.ca/issues/v9/documents/JEMH_Open-Volume_Benchmark_Decision_Making_to_Consent_to_Medical_Assistance_in_Dying-May2016-rev.pdf)]
-* Checkland, David, 2001, “On Risk and Decisional Capacity”, *The Journal of Medicine and Philosophy*, 26(1): 35–59. doi:10.1076/jmep.26.1.35.3035
-* Craigie, Jillian, 2013a, “Introduction: Mental Capacity and Value Neutrality”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 1–3. doi:10.1017/S1744552312000468
-* –––, 2013b, “Capacity, Value Neutrality and the Ability to Consider the Future”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 4–19. doi:10.1017/S1744552312000444
-* Culver, Charles M., R.B. Ferrell, and R.M. Green, 1980, “ECT and Special Problems of Informed Consent”, *American Journal of Psychiatry*, 137(5): 586–591. doi:10.1176/ajp.137.5.586
+* Checkland, David, 2001, “On Risk and Decisional Capacity”, *The Journal of Medicine and Philosophy*, 26(1): 35–59. doi: 10.1076/jmep.26.1.35.3035
+* Craigie, Jillian, 2013a, “Introduction: Mental Capacity and Value Neutrality”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 1–3. doi: 10.1017/S1744552312000468
+* –––, 2013b, “Capacity, Value Neutrality and the Ability to Consider the Future”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 4–19. doi: 10.1017/S1744552312000444
+* Culver, Charles M., R.B. Ferrell, and R.M. Green, 1980, “ECT and Special Problems of Informed Consent”, *American Journal of Psychiatry*, 137(5): 586–591. doi: 10.1176/ajp.137.5.586
 * Culver, Charles M. and Bernard Gert, 1990, “The Inadequacy of Incompetence”, *Millbank Quarterly*, 68(4): 619–643.
 * –––, 2004. “Competence”, in *The Philosophy of Psychiatry: A Companion*, Jennifer Radden (ed.), Oxford: Oxford University Press, pp. 258–270.
-* Doernberg, Samuel N., John R. Peteet, and Scott Y.H. Kim, 2016, “Capacity Evaluations of Psychiatric Patients Requesting Assisted Death in the Netherlands”, *Psychosomatics*, 57(6): 556–565. doi:10.1016/j.psym.2016.06.005
-* Drane, James F., 1985, “The Many Faces of Competency”, *The Hastings Center Report*, 15(2): 17. doi:10.2307/3560639
-* Dunn, Laura B., Milap A. Nowrangi, Barton W. Palmer, Dilip V. Jeste, and Elyn R. Saks, 2006, “Assessing Decisional Capacity for Clinical Research or Treatment: A Review of Instruments”, *American Journal of Psychiatry*, 163(8): 1323–1334. doi:10.1176/ajp.2006.163.8.1323
+* Doernberg, Samuel N., John R. Peteet, and Scott Y.H. Kim, 2016, “Capacity Evaluations of Psychiatric Patients Requesting Assisted Death in the Netherlands”, *Psychosomatics*, 57(6): 556–565. doi: 10.1016/j.psym.2016.06.005
+* Drane, James F., 1985, “The Many Faces of Competency”, *The Hastings Center Report*, 15(2): 17. doi: 10.2307/3560639
+* Dunn, Laura B., Milap A. Nowrangi, Barton W. Palmer, Dilip V. Jeste, and Elyn R. Saks, 2006, “Assessing Decisional Capacity for Clinical Research or Treatment: A Review of Instruments”, *American Journal of Psychiatry*, 163(8): 1323–1334. doi: 10.1176/ajp.2006.163.8.1323
 * Elliot, Carl, 1991, “Competence as Accountability”, *Journal of Clinical Ethics*, 2(3): 167–171.
-* –––, 1997, “Caring About Risks: Are Severely Depressed Patients Competent to Consent to Research?”, *Archives of General Psychiatry*, 54(2): 113–116. doi:10.1001/archpsyc.1997.01830140021003
-* Elzakkers, Isis F.F.M., Unna N. Danner, Hans W. Hoek, and Annemarie A. van Elburg, 2016, “Mental Capacity to Consent to Treatment in Anorexia Nervosa: Explorative Study”, *BJPsych Open*, 2(2): 147–153. doi:10.1192/bjpo.bp.115.002485
-* Erler, Alexandre and Tony Hope, 2014, “Mental Disorder and the Concept of Authenticity”, *Philosophy, Psychiatry, & Psychology*, 21(3): 219–232. doi:10.1353/ppp.2014.0032
-* Etchells, Edward, Peteris Darzins, Michel Silberfeld, Peter A. Singer, Julia McKenny, Gary Naglie, Mark Katz, Gordon H. Guyatt, D. William Molloy, and David Strang, 1999, “Assessment of Patient Capacity to Consent to Treatment”, *Journal of General Internal Medicine*, 14(1): 27–34. doi:10.1046/j.1525-1497.1999.00277.x
+* –––, 1997, “Caring About Risks: Are Severely Depressed Patients Competent to Consent to Research?”, *Archives of General Psychiatry*, 54(2): 113–116. doi: 10.1001/archpsyc.1997.01830140021003
+* Elzakkers, Isis F.F.M., Unna N. Danner, Hans W. Hoek, and Annemarie A. van Elburg, 2016, “Mental Capacity to Consent to Treatment in Anorexia Nervosa: Explorative Study”, *BJPsych Open*, 2(2): 147–153. doi: 10.1192/bjpo.bp.115.002485
+* Erler, Alexandre and Tony Hope, 2014, “Mental Disorder and the Concept of Authenticity”, *Philosophy, Psychiatry, & Psychology*, 21(3): 219–232. doi: 10.1353/ppp.2014.0032
+* Etchells, Edward, Peteris Darzins, Michel Silberfeld, Peter A. Singer, Julia McKenny, Gary Naglie, Mark Katz, Gordon H. Guyatt, D. William Molloy, and David Strang, 1999, “Assessment of Patient Capacity to Consent to Treatment”, *Journal of General Internal Medicine*, 14(1): 27–34. doi: 10.1046/j.1525-1497.1999.00277.x
 * Faden, Ruth and Tom Beauchamp, 1986, *A History and Theory of Informed Consent*, New York: Oxford University Press.
-* Folstein, Marshal F., Susan E. Folstein, and Paul R. McHugh, 1975, “‘Mini-Mental State’: A Practical Method for Grading the Cognitive State of Patients for the Clinician”, *Journal of Psychiatric Research*, 12(3): 189–198. doi:10.1016/0022-3956(75)90026-6
-* Freedman, Benjamin, 1981, “Competence, Marginal and Otherwise”, *International Journal of Law and Psychiatry*, 4(1–2): 53–72. doi:10.1016/0160-2527(81)90020-0
-* Ganzini, Linda, Ladislav Volicer, William A. Nelson, Ellen Fox, and Arthur R. Derse, 2005, “Ten Myths About Decision-Making Capacity”, *Journal of the American Medical Directors Association*, 6(3 supplement): S100–S104. doi:10.1016/j.jamda.2005.03.021
-* Gilbert, Daniel T., Elizabeth C. Pinel, Timothy D. Wilson, Stephen J. Blumberg, and Thalia P. Wheatley, 1998, “Immune Neglect: A Source of Durability Bias in Affective Forecasting.”, *Journal of Personality and Social Psychology*, 75(3): 617–638. doi:10.1037/0022-3514.75.3.617
+* Folstein, Marshal F., Susan E. Folstein, and Paul R. McHugh, 1975, “‘Mini-Mental State’: A Practical Method for Grading the Cognitive State of Patients for the Clinician”, *Journal of Psychiatric Research*, 12(3): 189–198. doi: 10.1016/0022-3956(75)90026-6
+* Freedman, Benjamin, 1981, “Competence, Marginal and Otherwise”, *International Journal of Law and Psychiatry*, 4(1–2): 53–72. doi: 10.1016/0160-2527(81)90020-0
+* Ganzini, Linda, Ladislav Volicer, William A. Nelson, Ellen Fox, and Arthur R. Derse, 2005, “Ten Myths About Decision-Making Capacity”, *Journal of the American Medical Directors Association*, 6(3 supplement): S100–S104. doi: 10.1016/j.jamda.2005.03.021
+* Gilbert, Daniel T., Elizabeth C. Pinel, Timothy D. Wilson, Stephen J. Blumberg, and Thalia P. Wheatley, 1998, “Immune Neglect: A Source of Durability Bias in Affective Forecasting.”, *Journal of Personality and Social Psychology*, 75(3): 617–638. doi: 10.1037/0022-3514.75.3.617
 * Gilbert, Daniel T., M.J. Gill, and Timothy D. Wilson, 2002, “The Future is Now: Temporal Correction in Affective Forecasting”, *Organizational Behavior and Human Decision Processes*, 88: 690–700.
-* Glass, Kathleen Cranley, 1997, “Refining Definitions and Devising Instruments: Two Decades of Assessing Mental Competence”, *International Journal of Law and Psychiatry*, 20(1): 5–33. doi:10.1016/S0160-2527(96)00020-9
-* Grisso, Thomas and Paul S. Appelbaum, 1995, “The MacArthur Treatment Competence Study. III: Abilities of Patients to Consent to Psychiatric and Medical Treatments.”, *Law and Human Behavior*, 19(2): 149–174. doi:10.1007/BF01499323
+* Glass, Kathleen Cranley, 1997, “Refining Definitions and Devising Instruments: Two Decades of Assessing Mental Competence”, *International Journal of Law and Psychiatry*, 20(1): 5–33. doi: 10.1016/S0160-2527(96)00020-9
+* Grisso, Thomas and Paul S. Appelbaum, 1995, “The MacArthur Treatment Competence Study. III: Abilities of Patients to Consent to Psychiatric and Medical Treatments.”, *Law and Human Behavior*, 19(2): 149–174. doi: 10.1007/BF01499323
 * –––, 1998, *The Assessment of Decision-Making Capacity: A Guide for Physicians and Other Health Professionals*, Oxford: Oxford University Press.
-* –––, 2006, “Appreciating Anorexia: Decisional Capacity and the Role of Values”, *Philosophy, Psychiatry, & Psychology*, 13(4): 293–297. [Commentary on Tan, Stewart, et al. 2006a] doi:10.1353/ppp.2007.0030
-* Grisso, Thomas, Paul S. Appelbaum, and Carolyn Hill-Fotouhi, 1997, “The MacCAT-T: A Clinical Tool to Assess Patients’ Capacities to Make Treatment Decisions”, *Psychiatric Services*, 48(11): 1415–1419. doi:10.1176/ps.48.11.1415
-* Grisso, Thomas, Paul S. Appelbaum, Edward P. Mulvey, and Kenneth Fletcher, 1995, “The MacArthur Treatment Competence Study. II: Measures of Abilities Related to Competence to Consent to Treatment.”, *Law and Human Behavior*, 19(2): 127–148. doi:10.1007/BF01499322
-* Halpern, Jodi, 2011, “Emotions, Autonomy, and Decision-Making Capacity”, *AJOB Neuroscience*, 2(3): 62–63. doi:10.1080/21507740.2011.584515
-* –––, 2012, “When Concretized Emotion-Belief Complexes Derail Decision-Making Capacity”, *Bioethics*, 26(2): 108–116. doi:10.1111/j.1467-8519.2010.01817.x
-* Halpern, Jodi and Robert M. Arnold, 2008, “Affective Forecasting: An Unrecognized Challenge in Making Serious Health Decisions”, *Journal of General Internal Medicine*, 23(10): 1708–1712. doi:10.1007/s11606-008-0719-5
+* –––, 2006, “Appreciating Anorexia: Decisional Capacity and the Role of Values”, *Philosophy, Psychiatry, & Psychology*, 13(4): 293–297. [Commentary on Tan, Stewart, et al. 2006a] doi: 10.1353/ppp.2007.0030
+* Grisso, Thomas, Paul S. Appelbaum, and Carolyn Hill-Fotouhi, 1997, “The MacCAT-T: A Clinical Tool to Assess Patients’ Capacities to Make Treatment Decisions”, *Psychiatric Services*, 48(11): 1415–1419. doi: 10.1176/ps.48.11.1415
+* Grisso, Thomas, Paul S. Appelbaum, Edward P. Mulvey, and Kenneth Fletcher, 1995, “The MacArthur Treatment Competence Study. II: Measures of Abilities Related to Competence to Consent to Treatment.”, *Law and Human Behavior*, 19(2): 127–148. doi: 10.1007/BF01499322
+* Halpern, Jodi, 2011, “Emotions, Autonomy, and Decision-Making Capacity”, *AJOB Neuroscience*, 2(3): 62–63. doi: 10.1080/21507740.2011.584515
+* –––, 2012, “When Concretized Emotion-Belief Complexes Derail Decision-Making Capacity”, *Bioethics*, 26(2): 108–116. doi: 10.1111/j.1467-8519.2010.01817.x
+* Halpern, Jodi and Robert M. Arnold, 2008, “Affective Forecasting: An Unrecognized Challenge in Making Serious Health Decisions”, *Journal of General Internal Medicine*, 23(10): 1708–1712. doi: 10.1007/s11606-008-0719-5
 * Hawkins, Jennifer S., 2016. “Decision-Making Capacity and Value”, in *Philosophy and Psychiatry: Problems, Intersections and New Perspectives*, Daniel D. Mosely and Gary Gala (eds.), New York: Routledge, 204-213.
-* Hawkins, Jennifer S. and Ezekiel J. Emanuel, 2005, “Clarifying Confusions about Coercion”, *Hastings Center Report*, 35(5): 16–19. doi:10.1353/hcr.2005.0075
+* Hawkins, Jennifer S. and Ezekiel J. Emanuel, 2005, “Clarifying Confusions about Coercion”, *Hastings Center Report*, 35(5): 16–19. doi: 10.1353/hcr.2005.0075
 * Hermann, Helena, Manuel Trachsel, Bernice S. Elger, and Nikola Biller-Andorno, 2016, “Emotion and Value in the Evaluation of Medical Decision-Making Capacity: A Narrative Review of Arguments”, *Frontiers in Psychology*, 7: art. 765.
-* Hope, Tony, Jacinta Tan, Anne Stewart, and Ray Fitzpatrick, 2011, “Anorexia Nervosa and the Language of Authenticity”, *Hastings Center Report*, 41(6): 19–29. doi:10.1002/j.1552-146X.2011.tb00153.x
-* Hope, Tony, Jacinta Tan, Anne Stewart, and John McMillan, 2013, “Agency, Ambivalence and Authenticity: The Many Ways in Which Anorexia Nervosa Can Affect Autonomy”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 20–36. doi:10.1017/S1744552312000456
+* Hope, Tony, Jacinta Tan, Anne Stewart, and Ray Fitzpatrick, 2011, “Anorexia Nervosa and the Language of Authenticity”, *Hastings Center Report*, 41(6): 19–29. doi: 10.1002/j.1552-146X.2011.tb00153.x
+* Hope, Tony, Jacinta Tan, Anne Stewart, and John McMillan, 2013, “Agency, Ambivalence and Authenticity: The Many Ways in Which Anorexia Nervosa Can Affect Autonomy”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 20–36. doi: 10.1017/S1744552312000456
 * Howe, Edmund, 2009, “Ethical Aspects of Evaluating a Patient’s Mental Capacity”, *Psychiatry*, 6(7): 15–23.
-* Jaworska, Agnieszka, 1999, “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value”, *Philosophy & Public Affairs*, 28(2): 105–138. doi:10.1111/j.1088-4963.1999.00105.x
-* Jimenez, Xavier F., Bryn S. Esplin, and Jaime O. Hernandez, 2015, “Capacity Consultation and Contextual Complexities: Depression, Decisions, and Deliberation”, *Psychosomatics*, 56(5): 592–597. doi:10.1016/j.psym.2015.06.002
-* Kim, Scott Y. H., 2010, *Evaluation of Capacity to Consent to Treatment and Research*, Oxford: Oxford University Press. doi:10.1093/med:psych/9780195322958.001.0001
-* –––, 2013, “Varieties of Decisional Incapacity: Theory and Practice”, *British Journal of Psychiatry*, 203(6): 403–405. doi:10.1192/bjp.bp.113.128256
+* Jaworska, Agnieszka, 1999, “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value”, *Philosophy & Public Affairs*, 28(2): 105–138. doi: 10.1111/j.1088-4963.1999.00105.x
+* Jimenez, Xavier F., Bryn S. Esplin, and Jaime O. Hernandez, 2015, “Capacity Consultation and Contextual Complexities: Depression, Decisions, and Deliberation”, *Psychosomatics*, 56(5): 592–597. doi: 10.1016/j.psym.2015.06.002
+* Kim, Scott Y. H., 2010, *Evaluation of Capacity to Consent to Treatment and Research*, Oxford: Oxford University Press. doi: 10.1093/med: psych/9780195322958.001.0001
+* –––, 2013, “Varieties of Decisional Incapacity: Theory and Practice”, *British Journal of Psychiatry*, 203(6): 403–405. doi: 10.1192/bjp.bp.113.128256
 * –––, 2016. “The Place of Ability to Value in the Evaluation of Decision-Making Capacity”, in *Philosophy and Psychiatry: Problems, Intersections and New Perspectives*, Daniel D. Mosely and Gary Gala (eds.), New York: Routledge, 189-203.
-* Kim, Scott Y.H., Paul S. Appelbaum, H. Myra Kim, Ian F. Wall, James A. Bourgeois, Bernard Frankel, Kevin C. Hails, James R. Rundell, Kathleen M. Seibel, and Jason H. Karlawish, 2011, “Variability of Judgments of Capacity: Experience of Capacity Evaluators in a Study of Research Consent Capacity”, *Psychosomatics*, 52(4): 346–353. doi:10.1016/j.psym.2011.01.012
-* Kim, Scott Y.H. and Trudo Lemmens, 2016, “Should Assisted Dying for Psychiatric Disorders Be Legalized in Canada?”, *Canadian Medical Association Journal*, 188(14): E337–E339. doi:10.1503/cmaj.160365
+* Kim, Scott Y.H., Paul S. Appelbaum, H. Myra Kim, Ian F. Wall, James A. Bourgeois, Bernard Frankel, Kevin C. Hails, James R. Rundell, Kathleen M. Seibel, and Jason H. Karlawish, 2011, “Variability of Judgments of Capacity: Experience of Capacity Evaluators in a Study of Research Consent Capacity”, *Psychosomatics*, 52(4): 346–353. doi: 10.1016/j.psym.2011.01.012
+* Kim, Scott Y.H. and Trudo Lemmens, 2016, “Should Assisted Dying for Psychiatric Disorders Be Legalized in Canada?”, *Canadian Medical Association Journal*, 188(14): E337–E339. doi: 10.1503/cmaj.160365
 * Krohm, Carol and Scott K. Summers, 2002, *Advance Health Care Directives: A Guide for Professionals*, Chicago, IL: American Bar Association.
-* Levy, Neil, 2016, “Addiction, Autonomy, and Informed Consent: On and Off the Garden Path”, *Journal of Medicine and Philosophy*, 41(1): 56–73. doi:10.1093/jmp/jhv033
-* Mackenzie, Robin and John Watts, 2011a, “Including Emotionality in Tests of Competence: How Does Neurodiversity Affect Measures of Free Will and Agency in Medical Decision Making?”, *AJOB Neuroscience*, 2(3): 27–36. doi:10.1080/21507740.2011.580491
-* –––, 2011b, “Can Clinicians and Carers Make Valid Decisions about Others’ Decision‐making Capacities Unless Tests of Decision‐making Competence and Capacity Include Emotionality and Neurodiversity?”, *Tizard Learning Disability Review*, 16(3): 43–51. doi:10.1108/13595471111158693
-* Meynen, Gerben, 2011, “Depression, Possibilities, and Competence: A Phenomenological Perspective”, *Theoretical Medicine and Bioethics*, 32(3): 181–193. doi:10.1007/s11017-010-9171-8
+* Levy, Neil, 2016, “Addiction, Autonomy, and Informed Consent: On and Off the Garden Path”, *Journal of Medicine and Philosophy*, 41(1): 56–73. doi: 10.1093/jmp/jhv033
+* Mackenzie, Robin and John Watts, 2011a, “Including Emotionality in Tests of Competence: How Does Neurodiversity Affect Measures of Free Will and Agency in Medical Decision Making?”, *AJOB Neuroscience*, 2(3): 27–36. doi: 10.1080/21507740.2011.580491
+* –––, 2011b, “Can Clinicians and Carers Make Valid Decisions about Others’ Decision‐making Capacities Unless Tests of Decision‐making Competence and Capacity Include Emotionality and Neurodiversity?”, *Tizard Learning Disability Review*, 16(3): 43–51. doi: 10.1108/13595471111158693
+* Meynen, Gerben, 2011, “Depression, Possibilities, and Competence: A Phenomenological Perspective”, *Theoretical Medicine and Bioethics*, 32(3): 181–193. doi: 10.1007/s11017-010-9171-8
 * National Bioethics Advisory Commission, 1998, *Research Involving Persons with Mental Disorders That May Affect Decision-Making Capacity. Volume 1. Report and Recommendations of the National Bioethics Advisory Commission*, Rockville, MD. [[National Bioethics Advisory Commission 1998 available online](https://bioethicsarchive.georgetown.edu/nbac/capacity/TOC.htm)]
-* Nys, Herman, Sander Welie, Tina Garanis-Papadatos, and Dimitris Ploumpidis, 2004, “Patient Capacity in Mental Health Care: Legal Overview”, *Health Care Analysis*, 12(4): 329–337. doi:10.1007/s10728-004-6640-0
-* Owen, Gareth S., Fabian Freyenhagen, Matthew Hotopf, and Wayne Martin, 2015, “Temporal Inabilities and Decision-Making Capacity in Depression”, *Phenomenology and the Cognitive Sciences*, 14(1): 163–182. doi:10.1007/s11097-013-9327-x
-* Owen, Gareth S., Wayne Martin, and Tania Gergel, 2018, “Misevaluating the Future: Affective Disorder and Decision-Making Capacity for Treatment—A Temporal Understanding”, *Psychopathology*, 51(6): 371–379. doi:10.1159/000495006
-* Owen, Gareth S., George Szmukler, Genevra Richardson, Anthony S. David, Peter Hayward, James Rucker, Duncan Harding, and Matthew Hotopf, 2009, “Mental Capacity and Psychiatric In-Patients: Implications for the New Mental Health Law in England and Wales”, *British Journal of Psychiatry*, 195(3): 257–263. doi:10.1192/bjp.bp.108.059782
-* Owen, Gareth S., George Szmukler, Genevra Richardson, Anthony S. David, Vanessa Raymont, Fabian Freyenhagen, Wayne Martin, and Matthew Hotopf, 2013, “Decision-Making Capacity for Treatment in Psychiatric and Medical in-Patients: Cross-Sectional, Comparative Study”, *British Journal of Psychiatry*, 203(6): 461–467. doi:10.1192/bjp.bp.112.123976
-* Park, Rebecca J., Ilina Singh, Alexandra C. Pike, and Jacinta O. A. Tan, 2017, “Deep Brain Stimulation in Anorexia Nervosa: Hope for the Hopeless or Exploitation of the Vulnerable? The Oxford Neuroethics Gold Standard Framework”, *Frontiers in Psychiatry*, 8: art. 44. doi:10.3389/fpsyt.2017.00044
-* Pepper-Smith, Robert, William R. C. Harvey, and M. Silberfeld, 1996, “Competency and Practical Judgment”, *Theoretical Medicine*, 17(2): 135–150. doi:10.1007/BF00539736
-* Pessoa, Luiz, 2008, “On the Relationship between Emotion and Cognition”, *Nature Reviews Neuroscience*, 9(2): 148–158. doi:10.1038/nrn2317
-* Price, Annabel, 2015, “Mental Capacity as a Safeguard in Assisted Dying: Clarity Is Needed”, *BMJ*, 351: h4461. doi:10.1136/bmj.h4461
+* Nys, Herman, Sander Welie, Tina Garanis-Papadatos, and Dimitris Ploumpidis, 2004, “Patient Capacity in Mental Health Care: Legal Overview”, *Health Care Analysis*, 12(4): 329–337. doi: 10.1007/s10728-004-6640-0
+* Owen, Gareth S., Fabian Freyenhagen, Matthew Hotopf, and Wayne Martin, 2015, “Temporal Inabilities and Decision-Making Capacity in Depression”, *Phenomenology and the Cognitive Sciences*, 14(1): 163–182. doi: 10.1007/s11097-013-9327-x
+* Owen, Gareth S., Wayne Martin, and Tania Gergel, 2018, “Misevaluating the Future: Affective Disorder and Decision-Making Capacity for Treatment—A Temporal Understanding”, *Psychopathology*, 51(6): 371–379. doi: 10.1159/000495006
+* Owen, Gareth S., George Szmukler, Genevra Richardson, Anthony S. David, Peter Hayward, James Rucker, Duncan Harding, and Matthew Hotopf, 2009, “Mental Capacity and Psychiatric In-Patients: Implications for the New Mental Health Law in England and Wales”, *British Journal of Psychiatry*, 195(3): 257–263. doi: 10.1192/bjp.bp.108.059782
+* Owen, Gareth S., George Szmukler, Genevra Richardson, Anthony S. David, Vanessa Raymont, Fabian Freyenhagen, Wayne Martin, and Matthew Hotopf, 2013, “Decision-Making Capacity for Treatment in Psychiatric and Medical in-Patients: Cross-Sectional, Comparative Study”, *British Journal of Psychiatry*, 203(6): 461–467. doi: 10.1192/bjp.bp.112.123976
+* Park, Rebecca J., Ilina Singh, Alexandra C. Pike, and Jacinta O. A. Tan, 2017, “Deep Brain Stimulation in Anorexia Nervosa: Hope for the Hopeless or Exploitation of the Vulnerable? The Oxford Neuroethics Gold Standard Framework”, *Frontiers in Psychiatry*, 8: art. 44. doi: 10.3389/fpsyt.2017.00044
+* Pepper-Smith, Robert, William R. C. Harvey, and M. Silberfeld, 1996, “Competency and Practical Judgment”, *Theoretical Medicine*, 17(2): 135–150. doi: 10.1007/BF00539736
+* Pessoa, Luiz, 2008, “On the Relationship between Emotion and Cognition”, *Nature Reviews Neuroscience*, 9(2): 148–158. doi: 10.1038/nrn2317
+* Price, Annabel, 2015, “Mental Capacity as a Safeguard in Assisted Dying: Clarity Is Needed”, *BMJ*, 351: h4461. doi: 10.1136/bmj.h4461
 * Ribot, Théodule-Armand, 1883, *Les maladies de la volenté*, Paris: G. Balliere. Translated as *Diseases of the Will*, Merwin-Marie Snell (trans.), Chicago, Open Court Publishing, 1894.
-* Richardson, Genevra, 2010, “Mental Capacity at the Margin: The Interface between Two Acts”, *Medical Law Review*, 18(1): 56–77. doi:10.1093/medlaw/fwp027
-* –––, 2013, “Mental Capacity in the Shadow of Suicide: What Can the Law Do?”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 87–105. doi:10.1017/S174455231200050X
-* Roberts, Laura Weiss, 2002a, “Addiction and Consent”, *American Journal of Bioethics*, 2(2): 58–60. doi:10.1162/152651602317533767
-* –––, 2002b, “Informed Consent and the Capacity for Voluntarism”, *American Journal of Psychiatry*, 159(5): 705–712. doi:10.1176/appi.ajp.159.5.705
-* Roth, L.H., A. Meisel, and W. Litz, 1977, “Tests of Competency to Consent to Treatment”, *American Journal of Psychiatry*, 134(3): 279–284. doi:10.1176/ajp.134.3.279
-* Rudnick, A., 2002, “Depression and Competence to Refuse Psychiatric Treatment”, *Journal of Medical Ethics*, 28(3): 151–155. doi:10.1136/jme.28.3.151
+* Richardson, Genevra, 2010, “Mental Capacity at the Margin: The Interface between Two Acts”, *Medical Law Review*, 18(1): 56–77. doi: 10.1093/medlaw/fwp027
+* –––, 2013, “Mental Capacity in the Shadow of Suicide: What Can the Law Do?”, *International Journal of Law in Context*, [Special Issue on Value Neutrality] 9(1): 87–105. doi: 10.1017/S174455231200050X
+* Roberts, Laura Weiss, 2002a, “Addiction and Consent”, *American Journal of Bioethics*, 2(2): 58–60. doi: 10.1162/152651602317533767
+* –––, 2002b, “Informed Consent and the Capacity for Voluntarism”, *American Journal of Psychiatry*, 159(5): 705–712. doi: 10.1176/appi.ajp.159.5.705
+* Roth, L.H., A. Meisel, and W. Litz, 1977, “Tests of Competency to Consent to Treatment”, *American Journal of Psychiatry*, 134(3): 279–284. doi: 10.1176/ajp.134.3.279
+* Rudnick, A., 2002, “Depression and Competence to Refuse Psychiatric Treatment”, *Journal of Medical Ethics*, 28(3): 151–155. doi: 10.1136/jme.28.3.151
 * Ruissen, A. M., 2015, *Patient Competence in Obsessive-Compulsive Disorder: An Empirical Ethical Study*, PhD Thesis, deVrije Universiteit Amsterdam. [[Ruissen 2015 available online](https://research.vu.nl/en/publications/patient-competence-in-obsessive-compulsive-disorder-an-empirical-)]
-* Ruissen, A. M., T. A. Abma, A. J. L. M. Van Balkom, G. Meynen, and G. A. M. Widdershoven, 2016, “Moving Perspectives on Patient Competence: A Naturalistic Case Study in Psychiatry”, *Health Care Analysis*, 24(1): 71–85. doi:10.1007/s10728-014-0276-5
-* Seyfried, Lisa, Kerry A. Ryan, and Scott Y.H. Kim, 2013, “Assessment of Decision-Making Capacity: Views and Experiences of Consultation Psychiatrists”, *Psychosomatics*, 54(2): 115–123. doi:10.1016/j.psym.2012.08.001
-* Schuklenk, Udo and Suzanne van de Vathorst, 2015, “Treatment-Resistant Major Depressive Disorder and Assisted Dying”, *Journal of Medical Ethics*, 41(8): 577–583. doi:10.1136/medethics-2014-102458
-* Silvers, Anita and Leslie Pickering Francis, 2009, “Thinking about the Good: Reconfiguring Liberal Metaphysics (or Not) for People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 475–498. doi:10.1111/j.1467-9973.2009.01602.x
-* Skene, Loane, 1991, “Risk-Related Standard Inevitable in Assessing Competence”, *Bioethics*, 5(2): 113–117. doi:10.1111/j.1467-8519.1991.tb00152.x
-* Stewart, C., C. Peisah, and B. Draper, 2011, “A Test for Mental Capacity to Request Assisted Suicide”, *Journal of Medical Ethics*, 37(1): 34–39. doi:10.1136/jme.2010.037564
-* Szmukler, G., 2009, “‘Personality Disorder’ and Capacity to Make Treatment Decisions”, *Journal of Medical Ethics*, 35(10): 647–650. doi:10.1136/jme.2009.030395
-* Tan, Jacinta O.A., Tony Hope, and Anne Stewart, 2003a, “Anorexia Nervosa and Personal Identity: The Accounts of Patients and Their Parents”, *International Journal of Law and Psychiatry*, 26(5): 533–548. doi:10.1016/S0160-2527(03)00085-2
-* –––, 2003b, “Competence to Refuse Treatment in Anorexia Nervosa”, *International Journal of Law and Psychiatry*, 26(6): 697–707. doi:10.1016/j.ijlp.2003.09.010
-* Tan, Jacinta O.A. and Martin Elphick, 2002, “Competency and Use of the Mental Health Act – a Matrix to Aid Decision-Making”, *Psychiatric Bulletin*, 26(3): 104–106. doi:10.1192/pb.26.3.104
-* Tan, Jacinta O.A., Anne Stewart, Ray Fitzpatrick, and R. A. Hope, 2006a, “Competence to Make Treatment Decisions in Anorexia Nervosa: Thinking Processes and Values”, *Philosophy, Psychiatry, & Psychology*, 13(4): 267–282. doi:10.1353/ppp.2007.0032
-* –––, 2006b, “Studying Penguins to Understand Birds”, *Philosophy, Psychiatry, & Psychology*, 13(4): 299–301. doi:10.1353/ppp.2007.0033
-* Tan, Jacinta O. A., Anne Stewart, and Tony Hope, 2009, “Decision-Making as a Broader Concept”, *Philosophy, Psychiatry, & Psychology*, 16(4): 345–349. doi:10.1353/ppp.0.0263
-* Ubel, Peter A., George Loewenstein, J. Hershey, J. Baron, T. Mohr, D.A. Asch, and C. Jepson, 2001, “Do Nonpatients Underestimate the Quality of Life Associated with Chronic Health Conditions Because of a Focusing Illusion?”, *Medical Decision Making*, 21(3): 190–199. doi:10.1177/02729890122062488
-* Ubel, Peter A., George Loewenstein, and Christopher Jepson, 2005, “Disability and Sunshine: Can Hedonic Predictions Be Improved by Drawing Attention to Focusing Illusions or Emotional Adaptation?”, *Journal of Experimental Psychology: Applied*, 11(2): 111–123. doi:10.1037/1076-898X.11.2.111
-* Ubel, Peter A., George Loewenstein, Norbert Schwarz, and Dylan Smith, 2005, “Misimagining the Unimaginable: The Disability Paradox and Health Care Decision Making.”, *Health Psychology*, 24(4, Suppl): S57–S62. doi:10.1037/0278-6133.24.4.S57
-* Vellinga, Astrid, Johannes H. Smit, Evert van Leeuwen, Willem van Tilburg, and Cees Jonker, 2004, “Instruments to Assess Decision-Making Capacity: An Overview”, *International Psychogeriatrics*, 16(4): 397–419. doi:10.1017/S1041610204000808
-* Vollmann, Jochen, 2006, “‘But I Don’t Feel It’: Values and Emotions in the Assessment of Competence in Patients With Anorexia Nervosa”, *Philosophy, Psychiatry, & Psychology*, 13(4): 289–291. [Commentary on Tan, Stewart, et al. 2006a] doi:10.1353/ppp.2007.0034
-* Vollmann, Jochen, A. Bauer, H. Danker-Hopfe, and H. Helmchen, 2003, “Competence of Mentally Ill Patients: A Comparative Empirical Study”, *Psychological Medicine*, 33(8): 1463–1471. doi:10.1017/S0033291703008389
+* Ruissen, A. M., T. A. Abma, A. J. L. M. Van Balkom, G. Meynen, and G. A. M. Widdershoven, 2016, “Moving Perspectives on Patient Competence: A Naturalistic Case Study in Psychiatry”, *Health Care Analysis*, 24(1): 71–85. doi: 10.1007/s10728-014-0276-5
+* Seyfried, Lisa, Kerry A. Ryan, and Scott Y.H. Kim, 2013, “Assessment of Decision-Making Capacity: Views and Experiences of Consultation Psychiatrists”, *Psychosomatics*, 54(2): 115–123. doi: 10.1016/j.psym.2012.08.001
+* Schuklenk, Udo and Suzanne van de Vathorst, 2015, “Treatment-Resistant Major Depressive Disorder and Assisted Dying”, *Journal of Medical Ethics*, 41(8): 577–583. doi: 10.1136/medethics-2014-102458
+* Silvers, Anita and Leslie Pickering Francis, 2009, “Thinking about the Good: Reconfiguring Liberal Metaphysics (or Not) for People with Cognitive Disabilities”, *Metaphilosophy*, 40(3–4): 475–498. doi: 10.1111/j.1467-9973.2009.01602.x
+* Skene, Loane, 1991, “Risk-Related Standard Inevitable in Assessing Competence”, *Bioethics*, 5(2): 113–117. doi: 10.1111/j.1467-8519.1991.tb00152.x
+* Stewart, C., C. Peisah, and B. Draper, 2011, “A Test for Mental Capacity to Request Assisted Suicide”, *Journal of Medical Ethics*, 37(1): 34–39. doi: 10.1136/jme.2010.037564
+* Szmukler, G., 2009, “‘Personality Disorder’ and Capacity to Make Treatment Decisions”, *Journal of Medical Ethics*, 35(10): 647–650. doi: 10.1136/jme.2009.030395
+* Tan, Jacinta O.A., Tony Hope, and Anne Stewart, 2003a, “Anorexia Nervosa and Personal Identity: The Accounts of Patients and Their Parents”, *International Journal of Law and Psychiatry*, 26(5): 533–548. doi: 10.1016/S0160-2527(03)00085-2
+* –––, 2003b, “Competence to Refuse Treatment in Anorexia Nervosa”, *International Journal of Law and Psychiatry*, 26(6): 697–707. doi: 10.1016/j.ijlp.2003.09.010
+* Tan, Jacinta O.A. and Martin Elphick, 2002, “Competency and Use of the Mental Health Act – a Matrix to Aid Decision-Making”, *Psychiatric Bulletin*, 26(3): 104–106. doi: 10.1192/pb.26.3.104
+* Tan, Jacinta O.A., Anne Stewart, Ray Fitzpatrick, and R. A. Hope, 2006a, “Competence to Make Treatment Decisions in Anorexia Nervosa: Thinking Processes and Values”, *Philosophy, Psychiatry, & Psychology*, 13(4): 267–282. doi: 10.1353/ppp.2007.0032
+* –––, 2006b, “Studying Penguins to Understand Birds”, *Philosophy, Psychiatry, & Psychology*, 13(4): 299–301. doi: 10.1353/ppp.2007.0033
+* Tan, Jacinta O. A., Anne Stewart, and Tony Hope, 2009, “Decision-Making as a Broader Concept”, *Philosophy, Psychiatry, & Psychology*, 16(4): 345–349. doi: 10.1353/ppp.0.0263
+* Ubel, Peter A., George Loewenstein, J. Hershey, J. Baron, T. Mohr, D.A. Asch, and C. Jepson, 2001, “Do Nonpatients Underestimate the Quality of Life Associated with Chronic Health Conditions Because of a Focusing Illusion?”, *Medical Decision Making*, 21(3): 190–199. doi: 10.1177/02729890122062488
+* Ubel, Peter A., George Loewenstein, and Christopher Jepson, 2005, “Disability and Sunshine: Can Hedonic Predictions Be Improved by Drawing Attention to Focusing Illusions or Emotional Adaptation?”, *Journal of Experimental Psychology: Applied*, 11(2): 111–123. doi: 10.1037/1076-898X.11.2.111
+* Ubel, Peter A., George Loewenstein, Norbert Schwarz, and Dylan Smith, 2005, “Misimagining the Unimaginable: The Disability Paradox and Health Care Decision Making.”, *Health Psychology*, 24(4, Suppl): S57–S62. doi: 10.1037/0278-6133.24.4.S57
+* Vellinga, Astrid, Johannes H. Smit, Evert van Leeuwen, Willem van Tilburg, and Cees Jonker, 2004, “Instruments to Assess Decision-Making Capacity: An Overview”, *International Psychogeriatrics*, 16(4): 397–419. doi: 10.1017/S1041610204000808
+* Vollmann, Jochen, 2006, “‘But I Don’t Feel It’: Values and Emotions in the Assessment of Competence in Patients With Anorexia Nervosa”, *Philosophy, Psychiatry, & Psychology*, 13(4): 289–291. [Commentary on Tan, Stewart, et al. 2006a] doi: 10.1353/ppp.2007.0034
+* Vollmann, Jochen, A. Bauer, H. Danker-Hopfe, and H. Helmchen, 2003, “Competence of Mentally Ill Patients: A Comparative Empirical Study”, *Psychological Medicine*, 33(8): 1463–1471. doi: 10.1017/S0033291703008389
 * Welie, J. V. M. and S. P. K. Welie, 2001, “Patient Decision-Making Competence: Outlines of a Conceptual Analysis”, *Medicine, Healthcare and Philosophy*, 4(2): 127–138.
-* Welie, Sander P.K., 2001, “Criteria for Patient Decision Making (In)Competence: A Review of and Commentary on Some Empirical Approaches”, *Medicine, Health Care and Philosophy*, 4(2): 139–151. doi:10.1023/A:1011493817051
+* Welie, Sander P.K., 2001, “Criteria for Patient Decision Making (In)Competence: A Review of and Commentary on Some Empirical Approaches”, *Medicine, Health Care and Philosophy*, 4(2): 139–151. doi: 10.1023/A: 1011493817051
 * White, Becky Cox, 1994, *Competence to Consent*, Washington, DC: Georgetown University Press.
-* Whiting, Demian, 2009, “Does Decision-Making Capacity Require the Absence of Pathological Values?”, *Philosophy, Psychiatry, & Psychology*, 16(4): 341–344. doi:10.1353/ppp.0.0262
-* –––, 2015, “Evaluating Medico-Legal Decisional Competency Criteria”, *Health Care Analysis*, 23(2): 181–196. doi:10.1007/s10728-013-0258-z
-* Wicclair, Mark R., 1991, “Patient Decision-Making Capacity and Risk”, *Bioethics*, 5(2): 91–104. doi:10.1111/j.1467-8519.1991.tb00150.x
-* –––, 1999, “The Continuing Debate over Risk-Related Standards of Competence”, *Bioethics*, 13(2): 149–153. doi:10.1111/1467-8519.00138
-* Wilks, Ian, 1997, “The Debate over Risk‐related Standards of Competence”, *Bioethics*, 11(5): 413–426. doi:10.1111/1467-8519.00081
-* –––, 1999, “Asymmetrical Competence”, *Bioethics*, 13(2): 154–159. doi:10.1111/1467-8519.00139
-* Wilson, Timothy D., Thalia Wheatley, Jonathan M. Meyers, Daniel T. Gilbert, and Danny Axsom, 2000, “Focalism: A Source of Durability Bias in Affective Forecasting.”, *Journal of Personality and Social Psychology*, 78(5): 821–836. doi:10.1037/0022-3514.78.5.821
-* Wilson, Timothy D., Jay Meyers, and Daniel T. Gilbert, 2001, “Lessons from the Past: Do People Learn from Experience That Emotional Reactions Are Short-Lived?”, *Personality and Social Psychology Bulletin*, 27(12): 1648–1661. doi:10.1177/01461672012712008
-* Wilson, Timothy D. and Daniel T. Gilbert, 2005, “Affective Forecasting: Knowing What to Want”, *Current Directions in Psychological Science*, 14(3): 131–134. doi:10.1111/j.0963-7214.2005.00355.x
-* Zapf, Patricia A. and Ronald Roesch, 2005, “An Investigation of the Construct of Competence: A Comparison of the FIT, the MacCAT-CA, and the MacCAT-T.”, *Law and Human Behavior*, 29(2): 229–252. doi:10.1007/s10979-005-2194-4
+* Whiting, Demian, 2009, “Does Decision-Making Capacity Require the Absence of Pathological Values?”, *Philosophy, Psychiatry, & Psychology*, 16(4): 341–344. doi: 10.1353/ppp.0.0262
+* –––, 2015, “Evaluating Medico-Legal Decisional Competency Criteria”, *Health Care Analysis*, 23(2): 181–196. doi: 10.1007/s10728-013-0258-z
+* Wicclair, Mark R., 1991, “Patient Decision-Making Capacity and Risk”, *Bioethics*, 5(2): 91–104. doi: 10.1111/j.1467-8519.1991.tb00150.x
+* –––, 1999, “The Continuing Debate over Risk-Related Standards of Competence”, *Bioethics*, 13(2): 149–153. doi: 10.1111/1467-8519.00138
+* Wilks, Ian, 1997, “The Debate over Risk‐related Standards of Competence”, *Bioethics*, 11(5): 413–426. doi: 10.1111/1467-8519.00081
+* –––, 1999, “Asymmetrical Competence”, *Bioethics*, 13(2): 154–159. doi: 10.1111/1467-8519.00139
+* Wilson, Timothy D., Thalia Wheatley, Jonathan M. Meyers, Daniel T. Gilbert, and Danny Axsom, 2000, “Focalism: A Source of Durability Bias in Affective Forecasting.”, *Journal of Personality and Social Psychology*, 78(5): 821–836. doi: 10.1037/0022-3514.78.5.821
+* Wilson, Timothy D., Jay Meyers, and Daniel T. Gilbert, 2001, “Lessons from the Past: Do People Learn from Experience That Emotional Reactions Are Short-Lived?”, *Personality and Social Psychology Bulletin*, 27(12): 1648–1661. doi: 10.1177/01461672012712008
+* Wilson, Timothy D. and Daniel T. Gilbert, 2005, “Affective Forecasting: Knowing What to Want”, *Current Directions in Psychological Science*, 14(3): 131–134. doi: 10.1111/j.0963-7214.2005.00355.x
+* Zapf, Patricia A. and Ronald Roesch, 2005, “An Investigation of the Construct of Competence: A Comparison of the FIT, the MacCAT-CA, and the MacCAT-T.”, *Law and Human Behavior*, 29(2): 229–252. doi: 10.1007/s10979-005-2194-4
 
 ## Academic Tools
 

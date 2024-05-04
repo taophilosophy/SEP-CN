@@ -1,6 +1,6 @@
 # 科学模型 models in science (Roman Frigg and Stephan Hartmann)
 
-*首次发表于2006年2月27日；实质性修订于2020年2月4日。*
+*首次发表于 2006 年 2 月 27 日；实质性修订于 2020 年 2 月 4 日。*
 
 模型在许多科学背景下都具有核心重要性。诸如宇宙学中的通胀模型、全球气候的一般循环模型、DNA 的双螺旋模型、生物学中的进化模型、社会科学中的基于代理的模型以及各自领域中的市场的一般均衡模型等模型的核心性是一个例子（本条目末尾的其他互联网资源部分包含了讨论这些模型的在线资源的链接）。科学家们花费大量时间来构建、测试、比较和修订模型，并且很多期刊空间都用于解释和讨论模型的含义。
 
@@ -14,15 +14,15 @@
 
 这引发了一个问题，即模型代表目标系统意味着什么。这个问题相当复杂，可以分解为各种子问题。有关表示问题的深入讨论，请参阅有关科学表示的条目。此时，我们不是讨论模型代表的含义问题，而是专注于在基于模型的科学实践中发挥重要作用的各种不同类型的表示，即比例模型、类比模型、理想化模型、玩具模型、最小模型、现象学模型、探索性模型和数据模型。这些类别并不是互斥的，一个给定的模型可以同时属于几个类别。
 
-模型。一些模型是目标系统的缩小或放大副本（Black 1962）。一个典型的例子是将小木车放入风洞中，以探索实际汽车的空气动力学特性。直觉是，模型是目标的自然复制品或真实的镜像；因此，模型有时也被称为“真实模型”（Achinstein 1968：第7章）。然而，并不存在完全忠实的模型；忠实性总是受到某些方面的限制。汽车的木制模型提供了汽车形状的忠实描绘，但不包括其材料。即使在模型是忠实表达的方面，模型属性和目标属性之间的关系通常也不是直接的。当工程师使用一个1:100比例的船舶模型来研究实际船只在水中移动时所经历的阻力时，他们不能简单地测量模型所经历的阻力，然后乘以比例。实际上，模型所面临的阻力不能直接转化为实际船只所面临的阻力（也就是说，实际船只的水阻力不一定是其1:100模型的100倍）。这两个量之间存在着复杂的非线性关系，而这种关系的确切形式通常是高度复杂的，并且是通过对情况的彻底研究得出的结果（Sterrett 2006，即将出版；Pincock 即将出版）。
+模型。一些模型是目标系统的缩小或放大副本（Black 1962）。一个典型的例子是将小木车放入风洞中，以探索实际汽车的空气动力学特性。直觉是，模型是目标的自然复制品或真实的镜像；因此，模型有时也被称为“真实模型”（Achinstein 1968：第 7 章）。然而，并不存在完全忠实的模型；忠实性总是受到某些方面的限制。汽车的木制模型提供了汽车形状的忠实描绘，但不包括其材料。即使在模型是忠实表达的方面，模型属性和目标属性之间的关系通常也不是直接的。当工程师使用一个 1: 100 比例的船舶模型来研究实际船只在水中移动时所经历的阻力时，他们不能简单地测量模型所经历的阻力，然后乘以比例。实际上，模型所面临的阻力不能直接转化为实际船只所面临的阻力（也就是说，实际船只的水阻力不一定是其 1: 100 模型的 100 倍）。这两个量之间存在着复杂的非线性关系，而这种关系的确切形式通常是高度复杂的，并且是通过对情况的彻底研究得出的结果（Sterrett 2006，即将出版；Pincock 即将出版）。
 
 类比模型。类比模型的标准例子包括气体的台球模型、经济系统的液压模型和黑洞的哑孔模型。在最基本的层面上，如果两个事物之间存在某些相关的相似之处，那么它们就是类比的。在经典文献中，Hesse（1963）根据两个对象所涉及的相似关系的种类区分了不同类型的类比。一种简单的类比是基于共享属性的类比。地球和月球之间存在类比，因为它们都是大的、固体的、不透明的、球形的物体，从太阳接收热和光，围绕自己的轴旋转，并向其他物体产生引力。但是，属性的相同并不是必要条件。两个对象之间的类比也可以基于它们属性之间的相关相似之处。在这种更自由的意义上，我们可以说声音和光之间存在类比，因为回声类似于反射，响度类似于亮度，音调类似于颜色，耳朵可察觉性类似于眼睛可察觉性，等等。
 
-类比也可以基于两个系统部分之间关系的相同性或相似性，而不是它们的单子属性。正是在这个意义上，父亲与孩子的关系被认为类似于国家与公民的关系。到目前为止提到的类比都是Hesse所称的“物质类比”。当我们从系统的具体特征中抽象出来，只关注它们的形式设置时，我们获得了更正式的类比概念。此时，类比模型与目标的共同之处不是一组特征，而是相同的抽象关系模式（即相同的结构，其中结构是以形式意义理解的）。这种类比概念与Hesse所称的“形式类比”密切相关。如果两个项目都是同一形式演算的解释，那么它们之间存在形式类比。例如，摆动的钟摆和振荡的电路之间存在形式类比，因为它们都由同一数学方程描述。
+类比也可以基于两个系统部分之间关系的相同性或相似性，而不是它们的单子属性。正是在这个意义上，父亲与孩子的关系被认为类似于国家与公民的关系。到目前为止提到的类比都是 Hesse 所称的“物质类比”。当我们从系统的具体特征中抽象出来，只关注它们的形式设置时，我们获得了更正式的类比概念。此时，类比模型与目标的共同之处不是一组特征，而是相同的抽象关系模式（即相同的结构，其中结构是以形式意义理解的）。这种类比概念与 Hesse 所称的“形式类比”密切相关。如果两个项目都是同一形式演算的解释，那么它们之间存在形式类比。例如，摆动的钟摆和振荡的电路之间存在形式类比，因为它们都由同一数学方程描述。
 
 由于赫塞提出的另一个重要区别是正向、负向和中性类比之间的区别。两个项目之间的正向类比在于它们共享的属性或关系（气体分子和台球有质量）；负向类比在于它们不共享的属性（台球有颜色，气体分子没有）；中性类比包括尚不知道它们是否属于正向或负向类比的属性（台球和分子在散射过程中是否具有相同的截面？）。中性类比在科学研究中起着重要作用，因为它们引发问题并提出新的假设。因此，一些作者强调类比在理论和模型构建以及创造性思维中的启发作用（Bailer-Jones 和 Bailer-Jones 2002；Bailer-Jones 2009：第 3 章；Hesse 1974；Holyoak 和 Thagard 1995；Kroes 1989；Psillos 1995；以及收录在 Helman 1988 中的论文）。另请参阅类比和类比推理的条目。
 
-也有讨论是否在某些情况下使用类比模型可以在贝叶斯意义上具有证实性。赫塞（1974：208-219）认为，如果类比是物质类比，则这是可能的。巴尔塔（2010 年，2013 年[2019 年]）持不同意见，并认为类比模型不能在贝叶斯意义上具有证实性，因为类比模型中所包含的信息是相关背景知识的一部分，这意味着观察到类比后，关于目标系统的假设的后验概率不会改变。因此，类比模型只能在合理性方面建立结论的可信度，即证明一个非可忽略的先验概率分配（巴尔塔 2010：§8.5）。
+也有讨论是否在某些情况下使用类比模型可以在贝叶斯意义上具有证实性。赫塞（1974：208-219）认为，如果类比是物质类比，则这是可能的。巴尔塔（2010 年，2013 年 [2019 年]）持不同意见，并认为类比模型不能在贝叶斯意义上具有证实性，因为类比模型中所包含的信息是相关背景知识的一部分，这意味着观察到类比后，关于目标系统的假设的后验概率不会改变。因此，类比模型只能在合理性方面建立结论的可信度，即证明一个非可忽略的先验概率分配（巴尔塔 2010：§8.5）。
 
 最近，这些问题在所谓的模拟实验的背景下进行了讨论，这些实验承诺通过操纵另一个系统（例如，玻色-爱因斯坦凝聚）来提供关于实验上无法接近的目标系统（例如，黑洞）的知识。Dardashti、Thébault 和 Winsberg（2017）以及 Dardashti、Hartmann 等人（2019）认为，在特定条件下，通过另一个系统对一个系统进行类比模拟可以证实关于目标系统（例如，黑洞发射霍金辐射）的说法。请参阅 Crowther 等人（即将出版）进行批判性讨论，还可以参考有关科学中计算机模拟的条目。
 
@@ -38,15 +38,15 @@
 
 伽利略和亚里士多德的理想化并不是互相排斥的，许多模型同时展示了两者，因为它们考虑了一组狭窄的属性并对其进行了扭曲。再考虑一下行星系统的经典力学模型：该模型只考虑了一组狭窄的属性并对其进行了扭曲，例如将行星描述为具有旋转对称质量分布的理想球体。
 
-与理想化密切相关的一个概念是近似。从广义上讲，如果A与B在某种程度上接近，那么可以称A为B的近似。然而，这个定义太宽泛了，因为它允许任何相似之处都被视为近似。Rueger和Sharp（1998）将近似限制为数量上的接近，而Portides（2007）将其框定为一种基本的数学概念。根据这个概念，如果A在可指定的数学意义上接近B，那么A就是B的近似，而“接近”的相关意义将由上下文给出。一个例子是用另一个曲线来近似一个曲线，这可以通过将一个函数展开成幂级数并只保留前两个或三个项来实现。在不同的情况下，我们通过让控制参数趋近于零来近似一个方程与另一个方程（Redhead 1980）。这引发了一个问题，即近似与理想化的区别，后者也可以涉及数学上的接近。Norton（2012）将这两者区分为指称性的：近似是对目标的不精确描述，而理想化引入了一个代表目标系统（真实或虚构）的次级系统（与目标系统不同）。如果我们说挂在墙上的摆的周期大约是两秒钟，那么这是一个近似；如果我们假设摆锤是一个质点，绳子是无质量的（即假设摆是一个所谓的理想摆），然后推理真实摆的情况，那么我们使用了一种理想化。以这种方式区分理想化和近似并不意味着两者之间不能存在有趣的关系。例如，可以通过指出近似是可接受理想化的数学表达式来证明近似的合理性（例如，当我们忽略运动方程中的耗散项时，因为我们做出了理想化假设，即系统是无摩擦的）。
+与理想化密切相关的一个概念是近似。从广义上讲，如果 A 与 B 在某种程度上接近，那么可以称 A 为 B 的近似。然而，这个定义太宽泛了，因为它允许任何相似之处都被视为近似。Rueger 和 Sharp（1998）将近似限制为数量上的接近，而 Portides（2007）将其框定为一种基本的数学概念。根据这个概念，如果 A 在可指定的数学意义上接近 B，那么 A 就是 B 的近似，而“接近”的相关意义将由上下文给出。一个例子是用另一个曲线来近似一个曲线，这可以通过将一个函数展开成幂级数并只保留前两个或三个项来实现。在不同的情况下，我们通过让控制参数趋近于零来近似一个方程与另一个方程（Redhead 1980）。这引发了一个问题，即近似与理想化的区别，后者也可以涉及数学上的接近。Norton（2012）将这两者区分为指称性的：近似是对目标的不精确描述，而理想化引入了一个代表目标系统（真实或虚构）的次级系统（与目标系统不同）。如果我们说挂在墙上的摆的周期大约是两秒钟，那么这是一个近似；如果我们假设摆锤是一个质点，绳子是无质量的（即假设摆是一个所谓的理想摆），然后推理真实摆的情况，那么我们使用了一种理想化。以这种方式区分理想化和近似并不意味着两者之间不能存在有趣的关系。例如，可以通过指出近似是可接受理想化的数学表达式来证明近似的合理性（例如，当我们忽略运动方程中的耗散项时，因为我们做出了理想化假设，即系统是无摩擦的）。
 
 玩具模型。玩具模型是对其目标的极度简化和强烈扭曲的呈现，通常只代表少量因果或解释因素（Hartmann 1995; Reutlinger et al. 2018; Nguyen forthcoming）。典型的例子是人口生态学中的 Lotka-Volterra 模型（Weisberg 2013）和社会科学中的 Schelling 隔离模型（Sugden 2000）。玩具模型通常在预测和经验充分性方面表现不佳，它们似乎还有其他认识目标（有关这些目标的更多信息请参见第 3 节）。这引发了一个问题，即它们是否应被视为代表性的（Luczak 2017）。
 
 一些玩具模型被描述为“漫画”（Gibbard and Varian 1978; Batterman and Rice 2014）。漫画模型将系统的少数显著特征孤立出来，并将其扭曲成极端情况。一个经典的例子是 Akerlof（1970）对汽车市场的模型（“柠檬市场”），它仅通过不对称信息解释新旧车之间的价格差异，而忽略了可能影响汽车价格的所有其他因素（另请参见 Sugden 2000）。然而，对于这种高度理想化的模型是否仍然可以被视为目标系统的信息性表示存在争议。有关漫画模型的讨论，特别是在经济学中，请参阅 Reiss（2006）。
 
-最小模型。最小模型与玩具模型密切相关，因为它们也是高度简化的。它们如此简化以至于有人认为它们是非表征性的：它们缺乏与世界的任何相似性、同构性或相似关系（Batterman和Rice 2014）。有人认为许多经济模型属于这种类型（Grüne-Yanoff 2009）。最小经济模型也不受自然法则的约束，并且不隔离任何真实因素（同上）。然而，最小模型有助于我们了解世界，因为它们作为真实系统的替代品：科学家可以研究模型以了解目标对象的一些信息。然而，有争议的是，如果最小模型不代表任何东西，它们是否能帮助科学家了解世界（Fumagalli 2016）。在物理学的不同领域中，也使用了声称缺乏任何相似性或表征的最小模型来解释各种微观行为极其多样的系统的宏观行为（Batterman和Rice 2014；Rice 2018、2019；Shech 2018）。典型的例子是相变和流体流动的特征。最小模型的支持者认为，在这些情况下，解释系统的宏观行为的是系统和模型具有共同的特征，而不是系统和模型属于同一普适类（一类模型，即使它们在有限尺度上表现出非常不同的行为，但它们显示相同的极限行为）。然而，有争议的是，这种解释是否可能在没有至少一些共同特征的情况下进行（Lange 2015；Reutlinger 2017）。
+最小模型。最小模型与玩具模型密切相关，因为它们也是高度简化的。它们如此简化以至于有人认为它们是非表征性的：它们缺乏与世界的任何相似性、同构性或相似关系（Batterman 和 Rice 2014）。有人认为许多经济模型属于这种类型（Grüne-Yanoff 2009）。最小经济模型也不受自然法则的约束，并且不隔离任何真实因素（同上）。然而，最小模型有助于我们了解世界，因为它们作为真实系统的替代品：科学家可以研究模型以了解目标对象的一些信息。然而，有争议的是，如果最小模型不代表任何东西，它们是否能帮助科学家了解世界（Fumagalli 2016）。在物理学的不同领域中，也使用了声称缺乏任何相似性或表征的最小模型来解释各种微观行为极其多样的系统的宏观行为（Batterman 和 Rice 2014；Rice 2018、2019；Shech 2018）。典型的例子是相变和流体流动的特征。最小模型的支持者认为，在这些情况下，解释系统的宏观行为的是系统和模型具有共同的特征，而不是系统和模型属于同一普适类（一类模型，即使它们在有限尺度上表现出非常不同的行为，但它们显示相同的极限行为）。然而，有争议的是，这种解释是否可能在没有至少一些共同特征的情况下进行（Lange 2015；Reutlinger 2017）。
 
-现象学模型。现象学模型已经以不同的方式进行了定义，尽管它们是相关的。一个常见的定义认为，它们是只代表其目标的可观察属性，并且避免假设隐藏的机制等的模型（Bokulich 2011）。另一种方法，由McMullin（1968）提出，将现象学模型定义为独立于理论的模型。然而，这似乎太过强硬。许多现象学模型虽然无法从一个理论中推导出来，但却融入了与理论相关的原则和定律。例如，原子核的液滴模型将核看作是一个液滴，并描述了它具有的几个属性（表面张力和电荷等），这些属性源自不同的理论（分别是流体力学和电动力学）。然后，这些理论的某些方面（通常不是完整的理论）被用来确定核的静态和动态属性。最后，诱人的是将现象学模型与现象的模型等同起来。在这里，“现象”是一个总称，涵盖了从科学角度来看有趣的世界的相对稳定和一般特征。声音随距离到源的增加而减弱、α粒子的衰变、当一块石灰石在酸中溶解时发生的化学反应、兔子种群的增长以及房价与联邦储备基准利率的依赖性都是这种意义上的现象。有关进一步讨论，请参见Bailer-Jones（2009：第7章），Bogen和Woodward（1988）以及科学中关于理论和观察的条目。
+现象学模型。现象学模型已经以不同的方式进行了定义，尽管它们是相关的。一个常见的定义认为，它们是只代表其目标的可观察属性，并且避免假设隐藏的机制等的模型（Bokulich 2011）。另一种方法，由 McMullin（1968）提出，将现象学模型定义为独立于理论的模型。然而，这似乎太过强硬。许多现象学模型虽然无法从一个理论中推导出来，但却融入了与理论相关的原则和定律。例如，原子核的液滴模型将核看作是一个液滴，并描述了它具有的几个属性（表面张力和电荷等），这些属性源自不同的理论（分别是流体力学和电动力学）。然后，这些理论的某些方面（通常不是完整的理论）被用来确定核的静态和动态属性。最后，诱人的是将现象学模型与现象的模型等同起来。在这里，“现象”是一个总称，涵盖了从科学角度来看有趣的世界的相对稳定和一般特征。声音随距离到源的增加而减弱、α 粒子的衰变、当一块石灰石在酸中溶解时发生的化学反应、兔子种群的增长以及房价与联邦储备基准利率的依赖性都是这种意义上的现象。有关进一步讨论，请参见 Bailer-Jones（2009：第 7 章），Bogen 和 Woodward（1988）以及科学中关于理论和观察的条目。
 
 探索性模型。探索性模型是一种最初并非为了了解特定目标系统或特定实验确定的现象而提出的模型。探索性模型作为进一步探索的起点，可以进行修改和完善。Gelfert（2016）指出，探索性模型可以提供原理证明和可能性解释（2016：第 4 章）。例如，Gelfert 提到了理论生态学中的早期模型，如 Lotka-Volterra 捕食者-猎物相互作用模型，模拟了在资源有限的环境中种群增长的加速和减速的定性行为（2016：80）。这些模型并不能准确描述任何实际种群的行为，但它们为更现实的模型的发展提供了起点。Massimi（2019）指出，探索性模型提供了模态知识。Fisher（2006）将这些模型视为检验给定理论特征的工具。
 
@@ -70,13 +70,13 @@
 
 ### 2.2 虚构对象和抽象对象
 
-所谓模型的虚构观将模型视为类似于文学虚构的想象对象，即类似于像福尔摩斯这样的虚构人物或者中土世界这样的虚构地点（Godfrey-Smith 2007）。因此，当玻尔引入他的原子模型时，他引入了一种与柯南·道尔发明福尔摩斯时引入的对象相同类型的虚构对象。这种观点与科学实践相吻合，科学家们经常将模型视为对象，并且通常认为自己在描述想象中的原子、人口或经济。这也与哲学观点相吻合，认为模型的构建和操作是科学研究的重要方面（Morgan 1999），即使模型不是物质对象，因为这些实践似乎是针对某种对象的。
+所谓模型的虚构观将模型视为类似于文学虚构的想象对象，即类似于像福尔摩斯这样的虚构人物或者中土世界这样的虚构地点（Godfrey-Smith 2007）。因此，当玻尔引入他的原子模型时，他引入了一种与柯南 · 道尔发明福尔摩斯时引入的对象相同类型的虚构对象。这种观点与科学实践相吻合，科学家们经常将模型视为对象，并且通常认为自己在描述想象中的原子、人口或经济。这也与哲学观点相吻合，认为模型的构建和操作是科学研究的重要方面（Morgan 1999），即使模型不是物质对象，因为这些实践似乎是针对某种对象的。
 
 这种观点解决了哪些哲学问题？虚构话语和虚构实体面临着众所周知的哲学问题，可以说将模型简单地比作虚构物等于用晦涩难懂的方式来解释（有关这些问题的讨论，请参见有关虚构实体的条目）。反驳这个异议并推动模型的虚构观的一种方法是指出这种观点的启发力。在这方面，弗里格（2010b）确定了模型本体论必须解决的五个具体问题，然后指出这些问题在关于虚构的讨论中以非常相似的方式出现（这些问题是身份条件、属性归属、比较陈述的语义、真值条件和想象对象的认识论）。将模型比作虚构物具有启发价值，因为关于虚构的丰富文献提供了这些问题的一些解决方案。
 
-在科学模型的背景下，对虚构作品的广泛文献中，只有一小部分选项实际上得到了探索。Contessa（2010）提出了他所称的“二元论解释”，即模型是一个抽象对象，代表着可能的具体对象。例如，原子的卢瑟福模型是一个抽象对象，作为一个可能的系统的替身，其中一个电子围绕着一个核在一个明确定义的轨道上运动。Barberousse和Ludwig（2009）以及Frigg（2010b）采取了不同的方法，基于Walton（1990）的虚构理论，发展了关于模型作为虚构的解释。根据这个观点，引入模型的文本段落中的句子应该被看作是一个假装游戏中的道具，而模型是假装行为的产物。这是一种反实在主义立场，因为它认为模型“对象”的说法只是修辞手法，因为实际上并不存在模型对象——模型只存在于科学家的想象中。Salis（即将出版）将这个观点改进为她所称的“模型的新虚构观”。核心区别在于，被视为模型的是模型描述及其内容，而不是它们所规定的想象。这是一种现实主义的模型观，因为描述是存在的。
+在科学模型的背景下，对虚构作品的广泛文献中，只有一小部分选项实际上得到了探索。Contessa（2010）提出了他所称的“二元论解释”，即模型是一个抽象对象，代表着可能的具体对象。例如，原子的卢瑟福模型是一个抽象对象，作为一个可能的系统的替身，其中一个电子围绕着一个核在一个明确定义的轨道上运动。Barberousse 和 Ludwig（2009）以及 Frigg（2010b）采取了不同的方法，基于 Walton（1990）的虚构理论，发展了关于模型作为虚构的解释。根据这个观点，引入模型的文本段落中的句子应该被看作是一个假装游戏中的道具，而模型是假装行为的产物。这是一种反实在主义立场，因为它认为模型“对象”的说法只是修辞手法，因为实际上并不存在模型对象——模型只存在于科学家的想象中。Salis（即将出版）将这个观点改进为她所称的“模型的新虚构观”。核心区别在于，被视为模型的是模型描述及其内容，而不是它们所规定的想象。这是一种现实主义的模型观，因为描述是存在的。
 
-虚构观并非没有批评者。Giere（2009）、Magnani（2012）、Pincock（2012）、Portides（2014）和Teller（2009）反对虚构方法，并以不同的方式主张模型不应被视为虚构。Weisberg（2013）主张一种中间立场，认为虚构在启发性方面起作用，但否认它们应被视为科学模型的一部分。这些批评的共同核心是虚构观误解了模型的认识地位。批评声称，将某物称为虚构等同于说它是错误的，而仅仅因为模型涉及某些错误假设或虚构元素，就称整个模型为虚构，并声称它未能捕捉到世界的真实情况是不合理的。换句话说，一个表达并不自动被视为虚构，仅仅因为它有一些不准确之处。虚构观的支持者同意这一点，但否认虚构的概念应该以错误为基础进行分析。使一部作品成为虚构的特征并非其虚假性（或真假比例）：并非小说中的一切陈述都是不真实的（托尔斯泰的《战争与和平》中包含了关于拿破仑法俄战争的许多真实陈述），也并非每个包含错误陈述的文本都符合虚构的定义（虚假的新闻报道只是虚假的，它们并非虚构）。虚构的定义特征在于读者被认为应该想象所描述的事件和人物，而不是它们是否虚假（Frigg 2010a；Salis即将出版）。
+虚构观并非没有批评者。Giere（2009）、Magnani（2012）、Pincock（2012）、Portides（2014）和 Teller（2009）反对虚构方法，并以不同的方式主张模型不应被视为虚构。Weisberg（2013）主张一种中间立场，认为虚构在启发性方面起作用，但否认它们应被视为科学模型的一部分。这些批评的共同核心是虚构观误解了模型的认识地位。批评声称，将某物称为虚构等同于说它是错误的，而仅仅因为模型涉及某些错误假设或虚构元素，就称整个模型为虚构，并声称它未能捕捉到世界的真实情况是不合理的。换句话说，一个表达并不自动被视为虚构，仅仅因为它有一些不准确之处。虚构观的支持者同意这一点，但否认虚构的概念应该以错误为基础进行分析。使一部作品成为虚构的特征并非其虚假性（或真假比例）：并非小说中的一切陈述都是不真实的（托尔斯泰的《战争与和平》中包含了关于拿破仑法俄战争的许多真实陈述），也并非每个包含错误陈述的文本都符合虚构的定义（虚假的新闻报道只是虚假的，它们并非虚构）。虚构的定义特征在于读者被认为应该想象所描述的事件和人物，而不是它们是否虚假（Frigg 2010a；Salis 即将出版）。
 
 Giere（1988）主张“非物理”模型是抽象实体。然而，对于抽象对象的本质几乎没有共识，Hale（1988：86-87）列举了至少十二种不同的可能特征（有关可用选项的评论，请参见有关抽象对象的条目）。在最近的出版物中，Thomasson（2020）和 Thomson-Jones（2020）发展了他们所称的“人工制品主义观”，该观点基于 Thomasson（1999）关于抽象人工制品的理论。这种观点认同了假装理论，即引入虚构角色或模型的文本内容应被理解为发生在假装中，但同时坚持认为在产生这样的描述时，作者创造了独立于作者或读者的抽象文化制品。人工制品主义与柏拉图主义一致，认为抽象对象存在，但与柏拉图主义相反，坚持认为抽象对象是通过创造性行为而产生的，而不是永恒存在的。这使得人工制品主义者能够保留假装理论的优势，同时持有现实主义观点，即虚构角色和模型实际存在。
 
@@ -88,9 +88,9 @@ Giere（1988）主张“非物理”模型是抽象实体。然而，对于抽�
 
 ### 2.4 描述和方程式
 
-一个历史悠久的观点认为，模型是对目标系统的一种程式化描述。有人认为，科学家在论文和教科书中展示模型时，就是展示这种模型（Achinstein 1968; Black 1962）。这个观点尚未受到明确的批评。然而，一些针对所谓的句法观点的批评同样威胁到对模型的语言理解（有关这个观点的讨论，请参见有关科学理论结构的条目）。首先，对句法观点的一个标准批评是，通过将理论与特定的表述相关联，这种观点误解了理论的身份，因为任何表述的变化都会导致一个新的理论（Suppe 2000）。将模型与描述相关联的观点似乎也会受到同样的批评。其次，模型与描述具有不同的属性：牛顿的太阳系模型由轨道球体组成，但对其描述这样说是没有意义的。相反，描述具有模型所没有的属性：描述可以用英语写成，由517个单词组成，但对模型来说则不能这样说。解决这些困难的一种方法是将模型与描述的内容相关联，而不是与描述本身相关联。有关建立在描述内容基础上的模型观点的讨论，请参见Salis（即将出版）。
+一个历史悠久的观点认为，模型是对目标系统的一种程式化描述。有人认为，科学家在论文和教科书中展示模型时，就是展示这种模型（Achinstein 1968; Black 1962）。这个观点尚未受到明确的批评。然而，一些针对所谓的句法观点的批评同样威胁到对模型的语言理解（有关这个观点的讨论，请参见有关科学理论结构的条目）。首先，对句法观点的一个标准批评是，通过将理论与特定的表述相关联，这种观点误解了理论的身份，因为任何表述的变化都会导致一个新的理论（Suppe 2000）。将模型与描述相关联的观点似乎也会受到同样的批评。其次，模型与描述具有不同的属性：牛顿的太阳系模型由轨道球体组成，但对其描述这样说是没有意义的。相反，描述具有模型所没有的属性：描述可以用英语写成，由 517 个单词组成，但对模型来说则不能这样说。解决这些困难的一种方法是将模型与描述的内容相关联，而不是与描述本身相关联。有关建立在描述内容基础上的模型观点的讨论，请参见 Salis（即将出版）。
 
-描述主义的当代版本是Levy（2012，2015）和Toon（2012）所谓的直接表征观点。这个观点与模型的虚构观（第2.2节）共享对Walton的假设理论的依赖，但使用方式不同。主要区别在于，前面讨论的观点认为建模是引入一种与目标不同的表征工具，即模型，并将问题视为阐明模型的性质。在直接表征观点中，没有与目标不同的模型；只有模型描述和目标，它们之间没有模型。在这个观点中，建模是提供对真实事物的想象描述。模型描述规定了对真实系统的想象；例如，理想摆描述规定了模型使用者将真实弹簧想象为完全弹性的，并将重物想象为质点。这种方法避免了上述问题，因为模型的身份条件是由假装游戏的条件（而不是描述的语法）给出的，并且属性归属发生在假装中。然而，对于没有目标的模型（如以太模型或四性别人口模型）以及对于这种理解方式如何处理理想化的问题还存在疑问。有关这些问题的讨论，请参见Frigg和Nguyen（2016），Poznic（2016）和Salis（即将出版）。
+描述主义的当代版本是 Levy（2012，2015）和 Toon（2012）所谓的直接表征观点。这个观点与模型的虚构观（第 2.2 节）共享对 Walton 的假设理论的依赖，但使用方式不同。主要区别在于，前面讨论的观点认为建模是引入一种与目标不同的表征工具，即模型，并将问题视为阐明模型的性质。在直接表征观点中，没有与目标不同的模型；只有模型描述和目标，它们之间没有模型。在这个观点中，建模是提供对真实事物的想象描述。模型描述规定了对真实系统的想象；例如，理想摆描述规定了模型使用者将真实弹簧想象为完全弹性的，并将重物想象为质点。这种方法避免了上述问题，因为模型的身份条件是由假装游戏的条件（而不是描述的语法）给出的，并且属性归属发生在假装中。然而，对于没有目标的模型（如以太模型或四性别人口模型）以及对于这种理解方式如何处理理想化的问题还存在疑问。有关这些问题的讨论，请参见 Frigg 和 Nguyen（2016），Poznic（2016）和 Salis（即将出版）。
 
 一种密切相关的方法将模型视为方程。这是一种模型是描述的观点的版本，因为方程是描述数学结构的句法项。这种观点面临的问题与我们已经遇到的问题类似：首先，可以使用不同类型的坐标描述相同的情况，从而获得不同的方程，但并没有获得不同的模型。其次，模型和方程具有不同的属性。一个摆包含一个无质量的绳子，但描述其运动的方程没有；而一个方程可能是非齐次的，但它描述的系统不是。这个问题是否可以通过诉诸于假装解释来避免是一个悬而未决的问题。
 
@@ -162,9 +162,9 @@ Elgin（2017）、Lipton（2009）和 Rice（2016）都认为，模型可以用�
 
 在科学中，模型有时从逻辑中继承了作为抽象演算的解释的概念（Hesse 1967）。这在物理学中尤为显著，其中普遍定律（如牛顿的运动方程）是理论的核心。这些定律通过选择特殊的力函数，对摆的质量分布等进行假设，应用于特定的系统，例如一个摆。然后得到的模型就是对这个普遍定律的解释（或实现）。
 
-保持逻辑模型和表征模型的概念分开是很重要的（Thomson-Jones 2006）：这些是不同的概念。某物可以是一个逻辑模型而不是一个表征模型，反之亦然。然而，这并不意味着某物不能同时是两种意义上的模型。事实上，正如Hesse（1967）所指出的，科学中的许多模型既是逻辑模型又是表征模型。牛顿的行星运动模型就是一个例子：该模型由两个均匀完美的球体组成，位于空无一物的空间中，它们通过引力相互吸引，同时它既是一个逻辑模型（因为当将牛顿力学公理解释为指向该模型时，它使得牛顿力学公理成立），又是一个表征模型（因为它代表了真实的太阳和地球）。
+保持逻辑模型和表征模型的概念分开是很重要的（Thomson-Jones 2006）：这些是不同的概念。某物可以是一个逻辑模型而不是一个表征模型，反之亦然。然而，这并不意味着某物不能同时是两种意义上的模型。事实上，正如 Hesse（1967）所指出的，科学中的许多模型既是逻辑模型又是表征模型。牛顿的行星运动模型就是一个例子：该模型由两个均匀完美的球体组成，位于空无一物的空间中，它们通过引力相互吸引，同时它既是一个逻辑模型（因为当将牛顿力学公理解释为指向该模型时，它使得牛顿力学公理成立），又是一个表征模型（因为它代表了真实的太阳和地球）。
 
-有关科学理论有两种主要观念，即所谓的理论的句法观和所谓的理论的语义观（参见有关科学理论结构的条目）。在这两种观念中，模型在理论中起到辅助作用，尽管方式非常不同。理论的句法观（参见句法观条目部分）保留了模型和理论的逻辑概念。它将理论解释为公理化逻辑系统中的一组句子，将模型解释为某种演算的替代解释（Braithwaite 1953；Campbell 1920 [1957]；Nagel 1961；Spector 1965）。例如，如果我们采用在气体动力学理论中使用的数学，并以使其指代台球的方式重新解释这个演算的术语，那么台球就是气体动力学理论的一个模型，因为理论的所有句子都成立。模型旨在成为我们熟悉的东西，并且它的作用是使抽象的形式演算更加具体。一个给定的理论可以有不同的模型，我们选择哪个模型取决于我们的目标和背景知识。句法观的支持者对于模型的重要性存在分歧。Carnap和Hempel认为模型只起到教育或审美的作用，并且最终是可有可无的，因为所有相关信息都包含在理论中（Carnap 1938；Hempel 1965；另见Bailer-Jones 1999）。另一方面，Nagel（1961）和Braithwaite（1953）强调模型的启发作用，Schaffner（1969）认为理论术语至少部分地从模型中获得其含义。
+有关科学理论有两种主要观念，即所谓的理论的句法观和所谓的理论的语义观（参见有关科学理论结构的条目）。在这两种观念中，模型在理论中起到辅助作用，尽管方式非常不同。理论的句法观（参见句法观条目部分）保留了模型和理论的逻辑概念。它将理论解释为公理化逻辑系统中的一组句子，将模型解释为某种演算的替代解释（Braithwaite 1953；Campbell 1920 [1957]；Nagel 1961；Spector 1965）。例如，如果我们采用在气体动力学理论中使用的数学，并以使其指代台球的方式重新解释这个演算的术语，那么台球就是气体动力学理论的一个模型，因为理论的所有句子都成立。模型旨在成为我们熟悉的东西，并且它的作用是使抽象的形式演算更加具体。一个给定的理论可以有不同的模型，我们选择哪个模型取决于我们的目标和背景知识。句法观的支持者对于模型的重要性存在分歧。Carnap 和 Hempel 认为模型只起到教育或审美的作用，并且最终是可有可无的，因为所有相关信息都包含在理论中（Carnap 1938；Hempel 1965；另见 Bailer-Jones 1999）。另一方面，Nagel（1961）和 Braithwaite（1953）强调模型的启发作用，Schaffner（1969）认为理论术语至少部分地从模型中获得其含义。
 
 理论的语义观（见语义观入口部分）摒弃了公理化逻辑系统中的句子，并将理论解释为一组模型。在这种观点下，理论实际上是一个类、群集或模型家族——模型是科学理论的构成要素。语义观的不同版本使用不同的模型概念，但正如第 2.3 节中所述，在语义观中，模型主要被解释为集合论结构。关于不同选项的讨论，我们将读者引荐到本百科全书相关条目（链接在本段开头）。
 
@@ -174,7 +174,7 @@ Elgin（2017）、Lipton（2009）和 Rice（2016）都认为，模型可以用�
 
 模型作为完全独立于理论的存在。对于以理论为中心的模型分析而言，最激进的改变是意识到存在一些完全独立于任何理论的模型。一个例子就是洛特卡-沃尔特拉模型。该模型描述了两个种群的相互作用：捕食者种群和猎物种群（Weisberg 2013）。该模型仅使用了关于捕食者和猎物以及微分方程数学的相对常识性假设构建而成。在构建过程中没有涉及捕食者-猎物相互作用理论或种群增长理论，该模型独立于关于其主题的理论。如果在没有可用理论的领域构建模型，则有时将该模型称为“替代模型”（Groenewold 1961），因为该模型替代了理论的作用。
 
-模型作为探索理论的手段。模型也可以用来探索理论（Morgan和Morrison 1999）。这种情况的一个明显方式是当一个模型是一个理论的逻辑模型时（见第4.1节）。逻辑模型是一组使形式句子成立的对象和属性，因此可以在模型中看到理论的公理在特定环境中的作用以及它们所规定的行为类型。但并非所有用于探索理论的模型都是逻辑模型，模型可以以其他方式表示理论的特征。以混沌理论为例，非线性系统的方程（如描述三体问题的方程）的解太复杂，无法用纸笔方法研究，即使计算机模拟也有各种限制。关于解的定性行为的抽象考虑表明存在一种被称为“拉伸和折叠”的机制（参见条目“混沌”）。为了了解展示拉伸和折叠动力学复杂性的想法，Smale提出研究流动的简单模型，现在被称为“马蹄地图”（Tabor 1989），它对拉伸和折叠的性质提供了重要的见解。这种类型的其他模型的例子包括用于研究统计力学中系统平衡性质的Kac环模型（Lavis 2008）和牛顿力学中的Norton圆顶（Norton 2003）。
+模型作为探索理论的手段。模型也可以用来探索理论（Morgan 和 Morrison 1999）。这种情况的一个明显方式是当一个模型是一个理论的逻辑模型时（见第 4.1 节）。逻辑模型是一组使形式句子成立的对象和属性，因此可以在模型中看到理论的公理在特定环境中的作用以及它们所规定的行为类型。但并非所有用于探索理论的模型都是逻辑模型，模型可以以其他方式表示理论的特征。以混沌理论为例，非线性系统的方程（如描述三体问题的方程）的解太复杂，无法用纸笔方法研究，即使计算机模拟也有各种限制。关于解的定性行为的抽象考虑表明存在一种被称为“拉伸和折叠”的机制（参见条目“混沌”）。为了了解展示拉伸和折叠动力学复杂性的想法，Smale 提出研究流动的简单模型，现在被称为“马蹄地图”（Tabor 1989），它对拉伸和折叠的性质提供了重要的见解。这种类型的其他模型的例子包括用于研究统计力学中系统平衡性质的 Kac 环模型（Lavis 2008）和牛顿力学中的 Norton 圆顶（Norton 2003）。
 
 模型作为理论的补充。理论可能在某种意义上是不完全指定的，它只对一定的一般约束进行了规定，但对具体情况的细节保持沉默，这些细节由模型提供（Redhead 1980）。这种情况的一个特例是当已知一个定性理论时，模型引入了定量度量（Apostel 1961）。Redhead 举的一个这种方式下不完全确定的理论的例子是公理量子场论，它只对量子场施加了一定的一般约束，但没有提供关于特定场的解释。Harré（2004）指出，模型可以通过提供在理论中未指定但负责产生观察现象的过程的机制来补充理论。
 
@@ -182,13 +182,13 @@ Elgin（2017）、Lipton（2009）和 Rice（2016）都认为，模型可以用�
 
 模型作为初步理论。将模型视为理论的替代品的概念与发展模型的概念密切相关。这个术语是由 Leplin（1980）创造的，他指出模型在早期量子理论的发展中是多么有用，现在它被用作一个总称概念，涵盖了模型作为理论的初步练习的情况。
 
-与此密切相关的是探索模型（或“研究模型”）的概念。这种模型不具备代表性功能，也不被期望能够教导我们有关模型本身以外的任何事情。这些模型的目的是测试后来用于构建代表性模型的新理论工具。例如，在场论中，所谓的φ4 模型得到了广泛研究，不是因为人们相信它能够代表任何真实的东西，而是因为它具有几个启发性功能：φ4 模型的简单性使得物理学家能够“感受到”量子场论的特点，并提取出这个简单模型与更复杂模型共享的一些普遍特征。物理学家可以在简单的环境中研究诸如重整化等复杂技术，并且可以熟悉重要的机制，比如对称性破缺，这些机制以后可以在不同的背景下使用（Hartmann 1995）。这不仅适用于物理学。正如 Wimsatt（1987，2007）指出的那样，遗传学中的错误模型可以执行许多有用的功能，其中包括以下几点：错误模型可以帮助回答关于更现实模型的问题，为回答有关更复杂模型属性的问题提供一个场所，“分解”否则不会被看到的现象，作为更一般模型的极限情况（或者两个错误模型可以定义真实情况所在的一系列情况的极端），或者导致相关变量的确定和其值的估计。
+与此密切相关的是探索模型（或“研究模型”）的概念。这种模型不具备代表性功能，也不被期望能够教导我们有关模型本身以外的任何事情。这些模型的目的是测试后来用于构建代表性模型的新理论工具。例如，在场论中，所谓的 φ4 模型得到了广泛研究，不是因为人们相信它能够代表任何真实的东西，而是因为它具有几个启发性功能：φ4 模型的简单性使得物理学家能够“感受到”量子场论的特点，并提取出这个简单模型与更复杂模型共享的一些普遍特征。物理学家可以在简单的环境中研究诸如重整化等复杂技术，并且可以熟悉重要的机制，比如对称性破缺，这些机制以后可以在不同的背景下使用（Hartmann 1995）。这不仅适用于物理学。正如 Wimsatt（1987，2007）指出的那样，遗传学中的错误模型可以执行许多有用的功能，其中包括以下几点：错误模型可以帮助回答关于更现实模型的问题，为回答有关更复杂模型属性的问题提供一个场所，“分解”否则不会被看到的现象，作为更一般模型的极限情况（或者两个错误模型可以定义真实情况所在的一系列情况的极端），或者导致相关变量的确定和其值的估计。
 
-解释性模型。卡特赖特（1983年，1999年）认为，模型不仅有助于应用某种不完整的理论；她还声称，每当应用具有总体数学结构的理论时，模型也会参与其中。物理学中的主要理论——经典力学、电动力学、量子力学等等——属于这一类别。这类理论是以抽象概念来表述的，需要具体化才能提供目标系统的描述，并引入具体化相关概念、理想化对象和过程。例如，在应用经典力学时，抽象概念力必须被具体力（如重力）所取代。为了得到可处理的方程，必须将这一过程应用于简化的情景，例如在空无他物的情况下，两个完全球形和均质的行星，而不是应用于完整复杂的现实。结果是一个解释性模型，它将数学理论应用于现实目标。这些模型与理论独立，因为理论并不决定它们的形式，然而它们对于将理论应用于具体问题是必要的。
+解释性模型。卡特赖特（1983 年，1999 年）认为，模型不仅有助于应用某种不完整的理论；她还声称，每当应用具有总体数学结构的理论时，模型也会参与其中。物理学中的主要理论——经典力学、电动力学、量子力学等等——属于这一类别。这类理论是以抽象概念来表述的，需要具体化才能提供目标系统的描述，并引入具体化相关概念、理想化对象和过程。例如，在应用经典力学时，抽象概念力必须被具体力（如重力）所取代。为了得到可处理的方程，必须将这一过程应用于简化的情景，例如在空无他物的情况下，两个完全球形和均质的行星，而不是应用于完整复杂的现实。结果是一个解释性模型，它将数学理论应用于现实目标。这些模型与理论独立，因为理论并不决定它们的形式，然而它们对于将理论应用于具体问题是必要的。
 
-模型作为中介。模型与理论之间的关系可能复杂而混乱。根据Morgan和Morrison（1999）编辑的一本论文集的贡献者们围绕着这样一个观点集结起来，即模型是在理论和世界之间起中介作用的工具。模型是“自主代理人”，因为它们独立于理论和目标系统，正是这种独立性使它们能够在两者之间起到中介作用。理论并没有为我们提供构建模型的算法；它们不是“自动售货机”，可以将问题输入其中，然后模型就会出现（Cartwright 1999）。构建模型通常需要关于材料、近似方案和设置的详细知识，而这些知识并不由相应的理论提供。此外，模型的内部工作通常由多个不同的理论共同驱动。例如，在当代气候模拟中，不同理论的要素，包括流体力学、热力学、电磁学等，被合作地运用。产生结果的不是对一个理论的严格应用，而是不同理论在一个模型中相互合作时的声音。
+模型作为中介。模型与理论之间的关系可能复杂而混乱。根据 Morgan 和 Morrison（1999）编辑的一本论文集的贡献者们围绕着这样一个观点集结起来，即模型是在理论和世界之间起中介作用的工具。模型是“自主代理人”，因为它们独立于理论和目标系统，正是这种独立性使它们能够在两者之间起到中介作用。理论并没有为我们提供构建模型的算法；它们不是“自动售货机”，可以将问题输入其中，然后模型就会出现（Cartwright 1999）。构建模型通常需要关于材料、近似方案和设置的详细知识，而这些知识并不由相应的理论提供。此外，模型的内部工作通常由多个不同的理论共同驱动。例如，在当代气候模拟中，不同理论的要素，包括流体力学、热力学、电磁学等，被合作地运用。产生结果的不是对一个理论的严格应用，而是不同理论在一个模型中相互合作时的声音。
 
-在像激光系统或全球气候研究这样的复杂案例中，模型和理论可以纠缠在一起，以至于不清楚在两者之间应该划定何种界限：模型何时结束，理论何时开始？这不仅是哲学分析的问题，也存在于科学实践中。Bailer-Jones（2002）对一组物理学家进行了访谈，了解他们对模型及其与理论的关系的理解，并报告了广泛分歧的观点：（i）模型和理论之间没有实质性的区别；（ii）当模型的确认程度增加时，它们变成理论；（iii）模型包含简化和遗漏，而理论则准确而完整；（iv）理论比模型更一般化，建模是将一般理论应用于具体案例的过程。第一个建议似乎过于激进，无法充分反映实践的许多方面，实践中明确区分模型和理论。第二种观点符合常用语言，其中术语“模型”和“理论”有时用于表达某人对特定假设的态度。短语“它只是一个模型”表示所讨论的假设只是暂时断言或甚至已知是错误的，而如果某事被称为“理论”，则表示它已经获得了一定程度的普遍接受。然而，“模型”的这种用法与我们在第1至3节中看到的用法不同，因此如果我们旨在理解科学模型和理论之间的关系（顺便说一句，我们也可以同样地将推测性的主张视为“只是一种理论”），这种用法就没有用处。第三个建议在将模型与理想化和简化联系起来方面是正确的，但它过于局限于模型；事实上，理论也可以包含理想化和简化。 第四个观点似乎与解释模型和模型作为中介者的观念密切相关，但由于更为普遍，它并没有提供一个明确的标准来区分理论和模型。
+在像激光系统或全球气候研究这样的复杂案例中，模型和理论可以纠缠在一起，以至于不清楚在两者之间应该划定何种界限：模型何时结束，理论何时开始？这不仅是哲学分析的问题，也存在于科学实践中。Bailer-Jones（2002）对一组物理学家进行了访谈，了解他们对模型及其与理论的关系的理解，并报告了广泛分歧的观点：（i）模型和理论之间没有实质性的区别；（ii）当模型的确认程度增加时，它们变成理论；（iii）模型包含简化和遗漏，而理论则准确而完整；（iv）理论比模型更一般化，建模是将一般理论应用于具体案例的过程。第一个建议似乎过于激进，无法充分反映实践的许多方面，实践中明确区分模型和理论。第二种观点符合常用语言，其中术语“模型”和“理论”有时用于表达某人对特定假设的态度。短语“它只是一个模型”表示所讨论的假设只是暂时断言或甚至已知是错误的，而如果某事被称为“理论”，则表示它已经获得了一定程度的普遍接受。然而，“模型”的这种用法与我们在第 1 至 3 节中看到的用法不同，因此如果我们旨在理解科学模型和理论之间的关系（顺便说一句，我们也可以同样地将推测性的主张视为“只是一种理论”），这种用法就没有用处。第三个建议在将模型与理想化和简化联系起来方面是正确的，但它过于局限于模型；事实上，理论也可以包含理想化和简化。 第四个观点似乎与解释模型和模型作为中介者的观念密切相关，但由于更为普遍，它并没有提供一个明确的标准来区分理论和模型。
 
 ## 5. 模型与科学哲学中的其他争议
 
@@ -202,13 +202,13 @@ Elgin（2017）、Lipton（2009）和 Rice（2016）都认为，模型可以用�
 
 另一个反实在论的论证，即“不相容模型论证”，以科学家经常成功地使用几个不相容的模型来预测同一个目标系统为出发点（Morrison 2000）。这些模型似乎相互矛盾，因为它们赋予同一个目标系统不同的属性。例如，在核物理学中，液滴模型探索了原子核与（带电的）液滴的类比，而壳层模型则用质子和中子的属性来描述核的性质，质子和中子是原子核的组成部分。这种做法似乎对科学实在论造成了问题：实在论者通常认为理论的预测成功与其至少近似真实之间存在密切联系。但是，如果同一个系统的几个模型都具有预测成功，并且这些模型相互矛盾，那么很难坚持它们都是近似真实的。
 
-实在论者可以以各种方式对这个论证做出反应。首先，他们可以质疑所讨论的模型是否确实具有预测成功。如果这些模型不是好的预测器，那么这个论证就无效了。其次，他们可以捍卫“视角实在论”的一个版本（Giere 2006; Massimi 2017; Rueger 2005）。这个立场的支持者（有时也被称为“视角主义”）将其定位在“标准”科学实在论和反实在论之间的某个位置，而确切的正确中间立场是积极辩论的主题（Massimi 2018a,b; Saatsi 2016; Teller 2018; 以及 Massimi 和 McCoy 2019 的贡献）。第三，实在论者可以否认首先存在问题，因为科学模型总是理想化的，因此严格来说是错误的，它们只是用来讨论实在论的错误载体（应该用理论来讨论）。
+实在论者可以以各种方式对这个论证做出反应。首先，他们可以质疑所讨论的模型是否确实具有预测成功。如果这些模型不是好的预测器，那么这个论证就无效了。其次，他们可以捍卫“视角实在论”的一个版本（Giere 2006; Massimi 2017; Rueger 2005）。这个立场的支持者（有时也被称为“视角主义”）将其定位在“标准”科学实在论和反实在论之间的某个位置，而确切的正确中间立场是积极辩论的主题（Massimi 2018a, b; Saatsi 2016; Teller 2018; 以及 Massimi 和 McCoy 2019 的贡献）。第三，实在论者可以否认首先存在问题，因为科学模型总是理想化的，因此严格来说是错误的，它们只是用来讨论实在论的错误载体（应该用理论来讨论）。
 
 现实主义辩论的一个特定焦点是自然法则，其中问题出现在法则是什么以及它们是否真实地反映在我们的科学表述中。根据目前两种主导观点，即最佳系统方法和必然主义方法，自然法则被理解为具有普遍适用性，意味着它们适用于世界上的一切事物（有关法则的讨论，请参见自然法则词条）。如果将模型置于科学研究的中心，这种对法则的看法似乎不太合适。如果模型代表着世界上正在发生的事情，那么一般法则在科学中起什么作用？模型和法则之间又有什么关系？
 
 对于这些问题的一个可能回答是主张自然法则统治模型中的实体和过程，而不是世界中的实体和过程。在这种观点中，基本法则并不陈述关于世界的事实，而是对模型中的实体和过程成立。这种观点已经以不同的变体被提倡：卡特赖特（1983）认为所有的法则都是 ceteris paribus 法则。卡特赖特（1999）利用“能力”（她认为是法则之前的）并引入了“法则机器”的概念。这是一个固定（足够）的组件或因素的安排，具有稳定（足够）的能力，在适当类型的稳定（足够）的环境中，通过重复操作，会产生我们在科学法则中所代表的那种规律行为（1999: 50；关于 ceteris paribus 法则的讨论，请参见词条）。
 
->一个固定（足够）的构件或因素的安排，具有稳定（足够）的能力，在正确类型的稳定（足够）的环境中，通过重复操作，会产生我们在科学定律中表示的那种规律行为。 （1999: 50；另请参阅[ceteris paribus laws](https://plato.stanford.edu/entries/ceteris-paribus/)条目）。
+>一个固定（足够）的构件或因素的安排，具有稳定（足够）的能力，在正确类型的稳定（足够）的环境中，通过重复操作，会产生我们在科学定律中表示的那种规律行为。 （1999: 50；另请参阅 [ceteris paribus laws](https://plato.stanford.edu/entries/ceteris-paribus/) 条目）。
 
 Giere（1999）认为，理论的定律更好地被视为不是对世界的一般真理进行编码，而是作为可以在构建更具体的科学模型的过程中以各种方式填充的开放性陈述。Teller（2001）和 van Fraassen（1989）也曾为类似立场进行辩护。
 
@@ -216,7 +216,7 @@ Giere（1999）认为，理论的定律更好地被视为不是对世界的一�
 
 在 5.1 节中提到的多模型问题也引发了不同模型之间的关系问题。显然，针对同一目标系统的多个模型通常不具有演绎关系，因为它们经常相互矛盾。一些人（Cartwright 1999；Hacking 1983）提出了一种科学图景，认为不同模型之间没有系统的关系。一些模型之间是相互关联的，因为它们代表着同一目标系统，但这并不意味着它们之间存在任何进一步的关系（演绎或其他）。我们面对的是一系列模型的拼贴，它们在各自适用的特定领域中都是 ceteris paribus 的。
 
-有人认为这幅图至少在某种程度上是不正确的，因为不同模型或理论之间存在着各种有趣的关系。这些关系包括彻底的还原关系（Scheibe 1997, 1999, 2001: 特别是第五章第23节和第24节）、控制逼近的奇异极限关系（Batterman 2001 [2016]）、结构关系（Gähde 1997）以及被称为“故事”的相对松散关系（Hartmann 1999；另请参阅Bokulich 2003、Teller 2002以及Hartmann等人2008年第三部分收集的论文）。这些建议是基于案例研究提出的，还有待进一步观察是否可以给出这些关系的更一般的解释/理论，并且是否可以在贝叶斯框架内提供更深层次的理由（关于还原关系的贝叶斯理解的初步步骤可以在Dizadji-Bahmani等人2011年、Liefke和Hartmann 2018年以及Tešić 2019年找到）。
+有人认为这幅图至少在某种程度上是不正确的，因为不同模型或理论之间存在着各种有趣的关系。这些关系包括彻底的还原关系（Scheibe 1997, 1999, 2001: 特别是第五章第 23 节和第 24 节）、控制逼近的奇异极限关系（Batterman 2001 [2016]）、结构关系（Gähde 1997）以及被称为“故事”的相对松散关系（Hartmann 1999；另请参阅 Bokulich 2003、Teller 2002 以及 Hartmann 等人 2008 年第三部分收集的论文）。这些建议是基于案例研究提出的，还有待进一步观察是否可以给出这些关系的更一般的解释/理论，并且是否可以在贝叶斯框架内提供更深层次的理由（关于还原关系的贝叶斯理解的初步步骤可以在 Dizadji-Bahmani 等人 2011 年、Liefke 和 Hartmann 2018 年以及 Tešić 2019 年找到）。
 
 模型也在物理学中的关于还原和出现的辩论中起到了作用。在这里，一些作者认为，现代重整化方法挑战了纳格尔（1961 年）的还原模型或更广泛的还原主义学说（有关批判性讨论，请参见 Batterman 2002、2010、2011；Morrison 2012；以及 Saatsi 和 Reutlinger 2018）。Dizadji-Bahmani 等人（2010 年）为纳格尔-沙夫纳还原模型提供了辩护，Butterfield（2011a、b、2014）认为重整化与纳格尔还原主义是一致的。Palacios（2019 年）表明相变与还原主义是相容的，Hartmann（2001 年）认为有效场理论研究计划与还原主义是一致的（另请参见 Bain 2013 和 Franklin 即将出版）。Rosaler（2015 年）主张一种“局部”形式的还原，认为还原的基本关系存在于模型之间，而不是理论之间，这与纳格尔-沙夫纳还原模型是相容的。另请参见物理学中关于理论间关系和科学还原的条目。
 
@@ -225,99 +225,99 @@ Giere（1999）认为，理论的定律更好地被视为不是对世界的一�
 ## Bibliography
 
 * Achinstein, Peter, 1968, *Concepts of Science: A Philosophical Analysis*, Baltimore, MD: Johns Hopkins Press.
-* Akerlof, George A., 1970, “The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism”, *The Quarterly Journal of Economics*, 84(3): 488–500. doi:10.2307/1879431
-* Apostel, Leo, 1961, “Towards the Formal Study of Models in the Non-Formal Sciences”, in Freudenthal 1961: 1–37. doi:10.1007/978-94-010-3667-2_1
-* Bailer-Jones, Daniela M., 1999, “Tracing the Development of Models in the Philosophy of Science”, in Magnani, Nersessian, and Thagard 1999: 23–40. doi:10.1007/978-1-4615-4813-3_2
-* –––, 2002, “Scientists’ Thoughts on Scientific Models”, *Perspectives on Science*, 10(3): 275–301. doi:10.1162/106361402321899069
+* Akerlof, George A., 1970, “The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism”, *The Quarterly Journal of Economics*, 84(3): 488–500. doi: 10.2307/1879431
+* Apostel, Leo, 1961, “Towards the Formal Study of Models in the Non-Formal Sciences”, in Freudenthal 1961: 1–37. doi: 10.1007/978-94-010-3667-2_1
+* Bailer-Jones, Daniela M., 1999, “Tracing the Development of Models in the Philosophy of Science”, in Magnani, Nersessian, and Thagard 1999: 23–40. doi: 10.1007/978-1-4615-4813-3_2
+* –––, 2002, “Scientists’ Thoughts on Scientific Models”, *Perspectives on Science*, 10(3): 275–301. doi: 10.1162/106361402321899069
 * –––, 2009, *Scientific Models in Philosophy of Science*, Pittsburgh, PA: University of Pittsburgh Press.
-* Bailer-Jones, Daniela M. and Coryn A. L. Bailer-Jones, 2002, “Modeling Data: Analogies in Neural Networks, Simulated Annealing and Genetic Algorithms”, in Magnani and Nersessian 2002: 147–165. doi:10.1007/978-1-4615-0605-8_9
-* Bain, Jonathan, 2013, “Emergence in Effective Field Theories”, *European Journal for Philosophy of Science*, 3(3): 257–273. doi:10.1007/s13194-013-0067-0
+* Bailer-Jones, Daniela M. and Coryn A. L. Bailer-Jones, 2002, “Modeling Data: Analogies in Neural Networks, Simulated Annealing and Genetic Algorithms”, in Magnani and Nersessian 2002: 147–165. doi: 10.1007/978-1-4615-0605-8_9
+* Bain, Jonathan, 2013, “Emergence in Effective Field Theories”, *European Journal for Philosophy of Science*, 3(3): 257–273. doi: 10.1007/s13194-013-0067-0
 * Bandyopadhyay, Prasanta S. and Malcolm R. Forster (eds.), 2011, *Philosophy of Statistics* (Handbook of the Philosophy of Science 7), Amsterdam: Elsevier.
 * Barberousse, Anouk and Pascal Ludwig, 2009, “Fictions and Models”, in Suárez 2009: 56–75.
-* Bartha, Paul, 2010, *By Parallel Reasoning: The Construction and Evaluation of Analogical Arguments*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195325539.001.0001
+* Bartha, Paul, 2010, *By Parallel Reasoning: The Construction and Evaluation of Analogical Arguments*, New York: Oxford University Press. doi: 10.1093/acprof: oso/9780195325539.001.0001
 * –––, 2013 [2019], “Analogy and Analogical Reasoning”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition). URL = <https://plato.stanford.edu/archives/spr2019/entries/reasoning-analogy/>
-* Batterman, Robert W., 2002, *The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence*, Oxford: Oxford University Press. doi:10.1093/0195146476.001.0001
+* Batterman, Robert W., 2002, *The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence*, Oxford: Oxford University Press. doi: 10.1093/0195146476.001.0001
 * –––, 2001 [2016], “Intertheory Relations in Physics”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2016 Edition). URL = <https://plato.stanford.edu/archives/fall2016/entries/physics-interrelate>
 * –––, 2010, “Reduction and Renormalization”, in Gerhard Ernst and Andreas Hüttemann (eds.), *Time, Chance and Reduction: Philosophical Aspects of Statistical Mechanics*, Cambridge: Cambridge University Press, pp. 159–179.
-* –––, 2011, “Emergence, Singularities, and Symmetry Breaking”, *Foundations of Physics*, 41(6): 1031–1050. doi:10.1007/s10701-010-9493-4
-* Batterman, Robert W. and Collin C. Rice, 2014, “Minimal Model Explanations”, *Philosophy of Science*, 81(3): 349–376. doi:10.1086/676677
+* –––, 2011, “Emergence, Singularities, and Symmetry Breaking”, *Foundations of Physics*, 41(6): 1031–1050. doi: 10.1007/s10701-010-9493-4
+* Batterman, Robert W. and Collin C. Rice, 2014, “Minimal Model Explanations”, *Philosophy of Science*, 81(3): 349–376. doi: 10.1086/676677
 * Baumberger, Christoph and Georg Brun, 2017, “Dimensions of Objectual Understanding”, in Stephen R. Grimm, Christoph Baumberger, and Sabine Ammon (eds.), *Explaining Understanding: New Perspectives from Epistemology and Philosophy of Science*, New York: Routledge, pp. 165–189.
 * Bell, John and Moshé Machover, 1977, *A Course in Mathematical Logic*, Amsterdam: North-Holland.
-* Berry, Michael, 2002, “Singular Limits”, *Physics Today*, 55(5): 10–11. doi:10.1063/1.1485555
+* Berry, Michael, 2002, “Singular Limits”, *Physics Today*, 55(5): 10–11. doi: 10.1063/1.1485555
 * Black, Max, 1962, *Models and Metaphors: Studies in Language and Philosophy*, Ithaca, NY: Cornell University Press.
-* Bogen, James and James Woodward, 1988, “Saving the Phenomena”, *The Philosophical Review*, 97(3): 303–352. doi:10.2307/2185445
-* Bokulich, Alisa, 2003, “Horizontal Models: From Bakers to Cats”, *Philosophy of Science*, 70(3): 609–627. doi:10.1086/376927
-* –––, 2008, *Reexamining the Quantum–Classical Relation: Beyond Reductionism and Pluralism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511751813
+* Bogen, James and James Woodward, 1988, “Saving the Phenomena”, *The Philosophical Review*, 97(3): 303–352. doi: 10.2307/2185445
+* Bokulich, Alisa, 2003, “Horizontal Models: From Bakers to Cats”, *Philosophy of Science*, 70(3): 609–627. doi: 10.1086/376927
+* –––, 2008, *Reexamining the Quantum–Classical Relation: Beyond Reductionism and Pluralism*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511751813
 * –––, 2009, “Explanatory Fictions”, in Suárez 2009: 91–109.
-* –––, 2011, “How Scientific Models Can Explain”, *Synthese*, 180(1): 33–45. doi:10.1007/s11229-009-9565-1
-* –––, 2012, “Distinguishing Explanatory from Nonexplanatory Fictions”, *Philosophy of Science*, 79(5): 725–737. doi:10.1086/667991
+* –––, 2011, “How Scientific Models Can Explain”, *Synthese*, 180(1): 33–45. doi: 10.1007/s11229-009-9565-1
+* –––, 2012, “Distinguishing Explanatory from Nonexplanatory Fictions”, *Philosophy of Science*, 79(5): 725–737. doi: 10.1086/667991
 * Braithwaite, Richard, 1953, *Scientific Explanation*, Cambridge: Cambridge University Press.
-* Braun, Norman and Nicole J. Saam (eds.), 2015, *Handbuch Modellbildung und Simulation in den Sozialwissenschaften*, Wiesbaden: Springer Fachmedien. doi:10.1007/978-3-658-01164-2
-* Brewer, William F. and Clark A. Chinn, 1994, “Scientists’ Responses to Anomalous Data: Evidence from Psychology, History, and Philosophy of Science”, in *PSA 1994: Proceedings of the 1994 Biennial Meeting of the Philosophy of Science Association*, Vol. 1, pp. 304–313. doi:10.1086/psaprocbienmeetp.1994.1.193035
+* Braun, Norman and Nicole J. Saam (eds.), 2015, *Handbuch Modellbildung und Simulation in den Sozialwissenschaften*, Wiesbaden: Springer Fachmedien. doi: 10.1007/978-3-658-01164-2
+* Brewer, William F. and Clark A. Chinn, 1994, “Scientists’ Responses to Anomalous Data: Evidence from Psychology, History, and Philosophy of Science”, in *PSA 1994: Proceedings of the 1994 Biennial Meeting of the Philosophy of Science Association*, Vol. 1, pp. 304–313. doi: 10.1086/psaprocbienmeetp.1994.1.193035
 * Brown, James, 1991, *The Laboratory of the Mind: Thought Experiments in the Natural Sciences*, London: Routledge.
 * Brzezinski, Jerzy and Leszek Nowak (eds.), 1992, *Idealization III: Approximation and Truth*, Amsterdam: Rodopi.
-* Butterfield, Jeremy, 2011a, “Emergence, Reduction and Supervenience: A Varied Landscape”, *Foundations of Physics*, 41(6): 920–959. doi:10.1007/s10701-011-9549-0
-* –––, 2011b, “Less Is Different: Emergence and Reduction Reconciled”, *Foundations of Physics*, 41(6): 1065–1135. doi:10.1007/s10701-010-9516-1
-* –––, 2014, “Reduction, Emergence, and Renormalization”, *Journal of Philosophy*, 111(1): 5–49. doi:10.5840/jphil201411111
+* Butterfield, Jeremy, 2011a, “Emergence, Reduction and Supervenience: A Varied Landscape”, *Foundations of Physics*, 41(6): 920–959. doi: 10.1007/s10701-011-9549-0
+* –––, 2011b, “Less Is Different: Emergence and Reduction Reconciled”, *Foundations of Physics*, 41(6): 1065–1135. doi: 10.1007/s10701-010-9516-1
+* –––, 2014, “Reduction, Emergence, and Renormalization”, *Journal of Philosophy*, 111(1): 5–49. doi: 10.5840/jphil201411111
 * Callender, Craig and Jonathan Cohen, 2006, “There Is No Special Problem about Scientific Representation”, *Theoria*, 55(1): 67–85.
 * Campbell, Norman, 1920 [1957], *Physics: The Elements*, Cambridge: Cambridge University Press. Reprinted as *Foundations of Science*, New York: Dover, 1957.
 * Carnap, Rudolf, 1938, “Foundations of Logic and Mathematics”, in Otto Neurath, Charles Morris, and Rudolf Carnap (eds.), *International Encyclopaedia of Unified Science*, Volume 1, Chicago, IL: University of Chicago Press, pp. 139–213.
-* Cartwright, Nancy, 1983, *How the Laws of Physics Lie*, Oxford: Oxford University Press. doi:10.1093/0198247044.001.0001
-* –––, 1989, *Nature’s Capacities and Their Measurement*, Oxford: Oxford University Press. doi:10.1093/0198235070.001.0001
-* –––, 1999, *The Dappled World: A Study of the Boundaries of Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139167093
-* Colombo, Matteo, Stephan Hartmann, and Robert van Iersel, 2015, “Models, Mechanisms, and Coherence”, *The British Journal for the Philosophy of Science*, 66(1): 181–212. doi:10.1093/bjps/axt043
-* Colyvan, Mark, 2013, “Idealisations in Normative Models”, *Synthese*, 190(8): 1337–1350. doi:10.1007/s11229-012-0166-z
-* Contessa, Gabriele, 2010, “Scientific Models and Fictional Objects”, *Synthese*, 172(2): 215–229. doi:10.1007/s11229-009-9503-2
-* Crowther, Karen, Niels S. Linnemann, and Christian Wüthrich, forthcoming, “What We Cannot Learn from Analogue Experiments”, *Synthese*, first online: 4 May 2019. doi:10.1007/s11229-019-02190-0
-* Da Costa, Newton and Steven French, 2000, “Models, Theories, and Structures: Thirty Years On”, *Philosophy of Science*, 67(supplement): S116–S127. doi:10.1086/392813
-* Dardashti, Radin, Stephan Hartmann, Karim Thébault, and Eric Winsberg, 2019, “Hawking Radiation and Analogue Experiments: A Bayesian Analysis”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 67: 1–11. doi:10.1016/j.shpsb.2019.04.004
-* Dardashti, Radin, Karim P. Y. Thébault, and Eric Winsberg, 2017, “Confirmation via Analogue Simulation: What Dumb Holes Could Tell Us about Gravity”, *The British Journal for the Philosophy of Science*, 68(1): 55–89. doi:10.1093/bjps/axv010
+* Cartwright, Nancy, 1983, *How the Laws of Physics Lie*, Oxford: Oxford University Press. doi: 10.1093/0198247044.001.0001
+* –––, 1989, *Nature’s Capacities and Their Measurement*, Oxford: Oxford University Press. doi: 10.1093/0198235070.001.0001
+* –––, 1999, *The Dappled World: A Study of the Boundaries of Science*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9781139167093
+* Colombo, Matteo, Stephan Hartmann, and Robert van Iersel, 2015, “Models, Mechanisms, and Coherence”, *The British Journal for the Philosophy of Science*, 66(1): 181–212. doi: 10.1093/bjps/axt043
+* Colyvan, Mark, 2013, “Idealisations in Normative Models”, *Synthese*, 190(8): 1337–1350. doi: 10.1007/s11229-012-0166-z
+* Contessa, Gabriele, 2010, “Scientific Models and Fictional Objects”, *Synthese*, 172(2): 215–229. doi: 10.1007/s11229-009-9503-2
+* Crowther, Karen, Niels S. Linnemann, and Christian Wüthrich, forthcoming, “What We Cannot Learn from Analogue Experiments”, *Synthese*, first online: 4 May 2019. doi: 10.1007/s11229-019-02190-0
+* Da Costa, Newton and Steven French, 2000, “Models, Theories, and Structures: Thirty Years On”, *Philosophy of Science*, 67(supplement): S116–S127. doi: 10.1086/392813
+* Dardashti, Radin, Stephan Hartmann, Karim Thébault, and Eric Winsberg, 2019, “Hawking Radiation and Analogue Experiments: A Bayesian Analysis”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 67: 1–11. doi: 10.1016/j.shpsb.2019.04.004
+* Dardashti, Radin, Karim P. Y. Thébault, and Eric Winsberg, 2017, “Confirmation via Analogue Simulation: What Dumb Holes Could Tell Us about Gravity”, *The British Journal for the Philosophy of Science*, 68(1): 55–89. doi: 10.1093/bjps/axv010
 * de Regt, Henk, 2009, “Understanding and Scientific Explanation”, in de Regt, Leonelli, and Eigner 2009: 21–42.
-* –––, 2017, *Understanding Scientific Understanding*, Oxford: Oxford University Press. doi:10.1093/oso/9780190652913.001.0001
+* –––, 2017, *Understanding Scientific Understanding*, Oxford: Oxford University Press. doi: 10.1093/oso/9780190652913.001.0001
 * de Regt, Henk, Sabina Leonelli, and Kai Eigner (eds.), 2009, *Scientific Understanding: Philosophical Perspectives*, Pittsburgh, PA: University of Pittsburgh Press.
-* Dizadji-Bahmani, Foad, Roman Frigg, and Stephan Hartmann, 2010, “Who’s Afraid of Nagelian Reduction?”, *Erkenntnis*, 73(3): 393–412. doi:10.1007/s10670-010-9239-x
-* –––, 2011, “Confirmation and Reduction: A Bayesian Account”, *Synthese*, 179(2): 321–338. doi:10.1007/s11229-010-9775-6
-* Downes, Stephen M., 1992, “The Importance of Models in Theorizing: A Deflationary Semantic View”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1992(1): 142–153. doi:10.1086/psaprocbienmeetp.1992.1.192750
-* Elgin, Catherine Z., 2010, “Telling Instances”, in Roman Frigg and Matthew Hunter (eds.), *Beyond Mimesis and Convention* (Boston Studies in the Philosophy of Science 262), Dordrecht: Springer Netherlands, pp. 1–17. doi:10.1007/978-90-481-3851-7_1
+* Dizadji-Bahmani, Foad, Roman Frigg, and Stephan Hartmann, 2010, “Who’s Afraid of Nagelian Reduction?”, *Erkenntnis*, 73(3): 393–412. doi: 10.1007/s10670-010-9239-x
+* –––, 2011, “Confirmation and Reduction: A Bayesian Account”, *Synthese*, 179(2): 321–338. doi: 10.1007/s11229-010-9775-6
+* Downes, Stephen M., 1992, “The Importance of Models in Theorizing: A Deflationary Semantic View”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1992(1): 142–153. doi: 10.1086/psaprocbienmeetp.1992.1.192750
+* Elgin, Catherine Z., 2010, “Telling Instances”, in Roman Frigg and Matthew Hunter (eds.), *Beyond Mimesis and Convention* (Boston Studies in the Philosophy of Science 262), Dordrecht: Springer Netherlands, pp. 1–17. doi: 10.1007/978-90-481-3851-7_1
 * –––, 2017, *True Enough*. Cambridge, MA, and London: MIT Press.
-* Elgin, Mehmet and Elliott Sober, 2002, “Cartwright on Explanation and Idealization”, *Erkenntnis*, 57(3): 441–450. doi:10.1023/A:1021502932490
+* Elgin, Mehmet and Elliott Sober, 2002, “Cartwright on Explanation and Idealization”, *Erkenntnis*, 57(3): 441–450. doi: 10.1023/A: 1021502932490
 * Epstein, Joshua M., 2008, “Why Model?”, *Journal of Artificial Societies and Social Simulation*, 11(4): 12. [[Epstein 2008 available online](http://jasss.soc.surrey.ac.uk/11/4/12.html)]
-* Fisher, Grant, 2006, “The Autonomy of Models and Explanation: Anomalous Molecular Rearrangements in Early Twentieth-Century Physical Organic Chemistry”, *Studies in History and Philosophy of Science Part A*, 37(4): 562–584. doi:10.1016/j.shpsa.2006.09.009
-* Franklin, Alexander, forthcoming, “Whence the Effectiveness of Effective Field Theories?”, *The British Journal for the Philosophy of Science*, first online: 3 August 2018. doi:10.1093/bjps/axy050
-* Freudenthal, Hans (ed.), 1961, *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences*, Dordrecht: Reidel. doi:10.1007/978-94-010-3667-2
-* Friedman, Michael, 1974, “Explanation and Scientific Understanding”, *Journal of Philosophy*, 71(1): 5–19. doi:10.2307/2024924
+* Fisher, Grant, 2006, “The Autonomy of Models and Explanation: Anomalous Molecular Rearrangements in Early Twentieth-Century Physical Organic Chemistry”, *Studies in History and Philosophy of Science Part A*, 37(4): 562–584. doi: 10.1016/j.shpsa.2006.09.009
+* Franklin, Alexander, forthcoming, “Whence the Effectiveness of Effective Field Theories?”, *The British Journal for the Philosophy of Science*, first online: 3 August 2018. doi: 10.1093/bjps/axy050
+* Freudenthal, Hans (ed.), 1961, *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences*, Dordrecht: Reidel. doi: 10.1007/978-94-010-3667-2
+* Friedman, Michael, 1974, “Explanation and Scientific Understanding”, *Journal of Philosophy*, 71(1): 5–19. doi: 10.2307/2024924
 * Frigg, Roman, 2010a, “Fiction in Science”, in John Woods (ed.), *Fictions and Models: New Essays*, Munich: Philosophia Verlag, pp. 247–287.
-* –––, 2010b, “Models and Fiction”, *Synthese*, 172(2): 251–268. doi:10.1007/s11229-009-9505-0
-* Frigg, Roman, Seamus Bradley, Hailiang Du, and Leonard A. Smith, 2014, “Laplace’s Demon and the Adventures of His Apprentices”, *Philosophy of Science*, 81(1): 31–59. doi:10.1086/674416
-* Frigg, Roman and James Nguyen, 2016, “The Fiction View of Models Reloaded”, *The Monist*, 99(3): 225–242. doi:10.1093/monist/onw002 [[Frigg and Nguyen 2016 available online](http://www.romanfrigg.org/writings/fiction_reloaded.pdf)]
-* –––, forthcoming, “Mirrors without Warnings”, *Synthese*, first online: 21 May 2019. doi:10.1007/s11229-019-02222-9
-* Fumagalli, Roberto, 2016, “Why We Cannot Learn from Minimal Models”, *Erkenntnis*, 81(3): 433–455. doi:10.1007/s10670-015-9749-7
-* Gähde, Ulrich, 1997, “Anomalies and the Revision of Theory-Elements: Notes on the Advance of Mercury’s Perihelion”, in Maria Luisa Dalla Chiara, Kees Doets, Daniele Mundici, and Johan van Benthem (eds.), *Structures and Norms in Science* (Synthese Library 260), Dordrecht: Springer Netherlands, pp. 89–104. doi:10.1007/978-94-017-0538-7_6
+* –––, 2010b, “Models and Fiction”, *Synthese*, 172(2): 251–268. doi: 10.1007/s11229-009-9505-0
+* Frigg, Roman, Seamus Bradley, Hailiang Du, and Leonard A. Smith, 2014, “Laplace’s Demon and the Adventures of His Apprentices”, *Philosophy of Science*, 81(1): 31–59. doi: 10.1086/674416
+* Frigg, Roman and James Nguyen, 2016, “The Fiction View of Models Reloaded”, *The Monist*, 99(3): 225–242. doi: 10.1093/monist/onw002 [[Frigg and Nguyen 2016 available online](http://www.romanfrigg.org/writings/fiction_reloaded.pdf)]
+* –––, forthcoming, “Mirrors without Warnings”, *Synthese*, first online: 21 May 2019. doi: 10.1007/s11229-019-02222-9
+* Fumagalli, Roberto, 2016, “Why We Cannot Learn from Minimal Models”, *Erkenntnis*, 81(3): 433–455. doi: 10.1007/s10670-015-9749-7
+* Gähde, Ulrich, 1997, “Anomalies and the Revision of Theory-Elements: Notes on the Advance of Mercury’s Perihelion”, in Maria Luisa Dalla Chiara, Kees Doets, Daniele Mundici, and Johan van Benthem (eds.), *Structures and Norms in Science* (Synthese Library 260), Dordrecht: Springer Netherlands, pp. 89–104. doi: 10.1007/978-94-017-0538-7_6
 * Galison, Peter, 1997, *Image and Logic: A Material Culture of Microphysics*, Chicago, IL: University of Chicago Press.
-* Gelfert, Axel, 2016, *How to Do Science with Models: A Philosophical Primer* (Springer Briefs in Philosophy), Cham: Springer International Publishing. doi:10.1007/978-3-319-27954-1
+* Gelfert, Axel, 2016, *How to Do Science with Models: A Philosophical Primer* (Springer Briefs in Philosophy), Cham: Springer International Publishing. doi: 10.1007/978-3-319-27954-1
 * Gendler, Tamar Szabó, 2000, *Thought Experiment: On the Powers and Limits of Imaginary Cases*, New York and London: Garland.
-* Gibbard, Allan and Hal R. Varian, 1978, “Economic Models”, *The Journal of Philosophy*, 75(11): 664–677. doi:10.5840/jphil1978751111
+* Gibbard, Allan and Hal R. Varian, 1978, “Economic Models”, *The Journal of Philosophy*, 75(11): 664–677. doi: 10.5840/jphil1978751111
 * Giere, Ronald N., 1988, *Explaining Science: A Cognitive Approach*, Chicago, IL: University of Chicago Press.
 * –––, 1999, *Science Without Laws*, Chicago, IL: University of Chicago Press.
 * –––, 2006, *Scientific Perspectivism*, Chicago, IL: University of Chicago Press.
 * –––, 2009, “Why Scientific Models Should Not be Regarded as Works of Fiction”, in Suárez 2009: 248–258.
-* –––, 2010, “An Agent-Based Conception of Models and Scientific Representation”, *Synthese*, 172(2): 269–281. doi:10.1007/s11229-009-9506-z
-* Godfrey-Smith, Peter, 2007, “The Strategy of Model-Based Science”, *Biology & Philosophy*, 21(5): 725–740. doi:10.1007/s10539-006-9054-6
-* –––, 2009, “Abstractions, Idealizations, and Evolutionary Biology”, in Anouk Barberousse, Michel Morange, and Thomas Pradeu (eds.), *Mapping the Future of Biology: Evolving Concepts and Theories* (Boston Studies in the Philosophy of Science 266), Dordrecht: Springer Netherlands, pp. 47–56. doi:10.1007/978-1-4020-9636-5_4
-* Groenewold, H. J., 1961, “The Model in Physics”, in Freudenthal 1961: 98–103. doi:10.1007/978-94-010-3667-2_9
-* Grüne-Yanoff, Till, 2009, “Learning from Minimal Economic Models”, *Erkenntnis*, 70(1): 81–99. doi:10.1007/s10670-008-9138-6
-* Hacking, Ian, 1983, *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511814563
-* Hale, Susan C., 1988, “Spacetime and the Abstract/Concrete Distinction”, *Philosophical Studies*, 53(1): 85–102. doi:10.1007/BF00355677
+* –––, 2010, “An Agent-Based Conception of Models and Scientific Representation”, *Synthese*, 172(2): 269–281. doi: 10.1007/s11229-009-9506-z
+* Godfrey-Smith, Peter, 2007, “The Strategy of Model-Based Science”, *Biology & Philosophy*, 21(5): 725–740. doi: 10.1007/s10539-006-9054-6
+* –––, 2009, “Abstractions, Idealizations, and Evolutionary Biology”, in Anouk Barberousse, Michel Morange, and Thomas Pradeu (eds.), *Mapping the Future of Biology: Evolving Concepts and Theories* (Boston Studies in the Philosophy of Science 266), Dordrecht: Springer Netherlands, pp. 47–56. doi: 10.1007/978-1-4020-9636-5_4
+* Groenewold, H. J., 1961, “The Model in Physics”, in Freudenthal 1961: 98–103. doi: 10.1007/978-94-010-3667-2_9
+* Grüne-Yanoff, Till, 2009, “Learning from Minimal Economic Models”, *Erkenntnis*, 70(1): 81–99. doi: 10.1007/s10670-008-9138-6
+* Hacking, Ian, 1983, *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511814563
+* Hale, Susan C., 1988, “Spacetime and the Abstract/Concrete Distinction”, *Philosophical Studies*, 53(1): 85–102. doi: 10.1007/BF00355677
 * Harré, Rom, 2004, *Modeling: Gateway to the Unknown* (Studies in Multidisciplinarity 1), ed. by Daniel Rothbart, Amsterdam etc.: Elsevier.
-* Harris, Todd, 2003, “Data Models and the Acquisition and Manipulation of Data”, *Philosophy of Science*, 70(5): 1508–1517. doi:10.1086/377426
+* Harris, Todd, 2003, “Data Models and the Acquisition and Manipulation of Data”, *Philosophy of Science*, 70(5): 1508–1517. doi: 10.1086/377426
 * Hartmann, Stephan, 1995, “Models as a Tool for Theory Construction: Some Strategies of Preliminary Physics”, in Herfel et al. 1995: 49–67.
-* –––, 1996, “The World as a Process: Simulations in the Natural and Social Sciences”, in Hegselmann, Mueller, and Troitzsch 1996: 77–100. doi:10.1007/978-94-015-8686-3_5
+* –––, 1996, “The World as a Process: Simulations in the Natural and Social Sciences”, in Hegselmann, Mueller, and Troitzsch 1996: 77–100. doi: 10.1007/978-94-015-8686-3_5
 * –––, 1998, “Idealization in Quantum Field Theory”, in Shanks 1998: 99–122.
-* –––, 1999, “Models and Stories in Hadron Physics”, in Morgan and Morrison 1999: 326–346. doi:10.1017/CBO9780511660108.012
-* –––, 2001, “Effective Field Theories, Reductionism and Scientific Explanation”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 32(2): 267–304. doi:10.1016/S1355-2198(01)00005-3
+* –––, 1999, “Models and Stories in Hadron Physics”, in Morgan and Morrison 1999: 326–346. doi: 10.1017/CBO9780511660108.012
+* –––, 2001, “Effective Field Theories, Reductionism and Scientific Explanation”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 32(2): 267–304. doi: 10.1016/S1355-2198(01)00005-3
 * Hartmann, Stephan, Carl Hoefer, and Luc Bovens (eds.), 2008, *Nancy Cartwright’s Philosophy of Science* (Routledge Studies in the Philosophy of Science), New York: Routledge.
-* Hegselmann, Rainer, Ulrich Mueller, and Klaus G. Troitzsch (eds.), 1996, *Modelling and Simulation in the Social Sciences from the Philosophy of Science Point of View* (Theory and Decision Library 23), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-8686-3
-* Helman, David H. (ed.), 1988, *Analogical Reasoning: Perspectives of Artificial Intelligence, Cognitive Science, and Philosophy* (Synthese Library 197), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-7811-0
+* Hegselmann, Rainer, Ulrich Mueller, and Klaus G. Troitzsch (eds.), 1996, *Modelling and Simulation in the Social Sciences from the Philosophy of Science Point of View* (Theory and Decision Library 23), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-015-8686-3
+* Helman, David H. (ed.), 1988, *Analogical Reasoning: Perspectives of Artificial Intelligence, Cognitive Science, and Philosophy* (Synthese Library 197), Dordrecht: Springer Netherlands. doi: 10.1007/978-94-015-7811-0
 * Hempel, Carl G., 1965, *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science*, New York: Free Press.
 * Herfel, William, Wladiysław Krajewski, Ilkka Niiniluoto, and Ryszard Wojcicki (eds.), 1995, *Theories and Models in Scientific Process* (Poznań Studies in the Philosophy of Science and the Humanities 44), Amsterdam: Rodopi.
 * Hesse, Mary, 1963, *Models and Analogies in Science*, London: Sheed and Ward.
@@ -326,141 +326,141 @@ Giere（1999）认为，理论的定律更好地被视为不是对世界的一�
 * Hodges, Wilfrid, 1997, *A Shorter Model Theory*, Cambridge: Cambridge University Press.
 * Holyoak, Keith and Paul Thagard, 1995, *Mental Leaps: Analogy in Creative Thought*, Cambridge, MA: MIT Press.
 * Horowitz, Tamara and Gerald J. Massey (eds.), 1991, *Thought Experiments in Science and Philosophy*, Lanham, MD: Rowman & Littlefield.
-* Isaac, Alistair M. C., 2013, “Modeling without Representation”, *Synthese*, 190(16): 3611–3623. doi:10.1007/s11229-012-0213-9
-* Jebeile, Julie and Ashley Graham Kennedy, 2015, “Explaining with Models: The Role of Idealizations”, *International Studies in the Philosophy of Science*, 29(4): 383–392. doi:10.1080/02698595.2015.1195143
-* Jones, Martin R., 2005, “Idealization and Abstraction: A Framework”, in Jones and Cartwright 2005: 173–217. doi:10.1163/9789401202732_010
-* Jones, Martin R. and Nancy Cartwright (eds.), 2005, *Idealization XII: Correcting the Model* (Poznań Studies in the Philosophy of the Sciences and the Humanities 86), Amsterdam and New York: Rodopi. doi:10.1163/9789401202732
+* Isaac, Alistair M. C., 2013, “Modeling without Representation”, *Synthese*, 190(16): 3611–3623. doi: 10.1007/s11229-012-0213-9
+* Jebeile, Julie and Ashley Graham Kennedy, 2015, “Explaining with Models: The Role of Idealizations”, *International Studies in the Philosophy of Science*, 29(4): 383–392. doi: 10.1080/02698595.2015.1195143
+* Jones, Martin R., 2005, “Idealization and Abstraction: A Framework”, in Jones and Cartwright 2005: 173–217. doi: 10.1163/9789401202732_010
+* Jones, Martin R. and Nancy Cartwright (eds.), 2005, *Idealization XII: Correcting the Model* (Poznań Studies in the Philosophy of the Sciences and the Humanities 86), Amsterdam and New York: Rodopi. doi: 10.1163/9789401202732
 * Kelvin, William Thomson, Baron, 1884 [1987], *Notes of lectures on molecular dynamics and the wave theory of light. Delivered at the Johns Hopkins University, Baltimore* (aka Lord Kelvin’s Baltimore Lectures), A. S. Hathaway (recorder). A revised version was published in 1904, London: C.J. Clay and Sons. Reprint of the 1884 version in Robert Kargon and Peter Achinstein (eds.), *Kelvin’s Baltimore Lectures and Modern Theoretical Physics*, Cambridge, MA: MIT Press, 1987.
-* Khalifa, Kareem, 2017, *Understanding, Explanation, and Scientific Knowledge*, Cambridge: Cambridge University Press. doi:10.1017/9781108164276
+* Khalifa, Kareem, 2017, *Understanding, Explanation, and Scientific Knowledge*, Cambridge: Cambridge University Press. doi: 10.1017/9781108164276
 * Klein, Dominik, Johannes Marx, and Kai Fischbach, 2018, “Agent-Based Modeling in Social Science History and Philosophy: An Introduction”, *Historical Social Research*, 43(1): 243–258.
-* Knuuttila, Tarja, 2005, “Models, Representation, and Mediation”, *Philosophy of Science*, 72(5): 1260–1271. doi:10.1086/508124
-* –––, 2011, “Modelling and Representing: An Artefactual Approach to Model-Based Representation”, *Studies in History and Philosophy of Science Part A*, 42(2): 262–271. doi:10.1016/j.shpsa.2010.11.034
-* Kroes, Peter, 1989, “Structural Analogies Between Physical Systems”, *The British Journal for the Philosophy of Science*, 40(2): 145–154. doi:10.1093/bjps/40.2.145
-* Lange, Marc, 2015, “On ‘Minimal Model Explanations’: A Reply to Batterman and Rice”, *Philosophy of Science*, 82(2): 292–305. doi:10.1086/680488
-* Lavis, David A., 2008, “Boltzmann, Gibbs, and the Concept of Equilibrium”, *Philosophy of Science*, 75(5): 682–692. doi:10.1086/594514
-* Laymon, Ronald, 1982, “Scientific Realism and the Hierarchical Counterfactual Path from Data to Theory”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(1): 107–121. doi:10.1086/psaprocbienmeetp.1982.1.192660
+* Knuuttila, Tarja, 2005, “Models, Representation, and Mediation”, *Philosophy of Science*, 72(5): 1260–1271. doi: 10.1086/508124
+* –––, 2011, “Modelling and Representing: An Artefactual Approach to Model-Based Representation”, *Studies in History and Philosophy of Science Part A*, 42(2): 262–271. doi: 10.1016/j.shpsa.2010.11.034
+* Kroes, Peter, 1989, “Structural Analogies Between Physical Systems”, *The British Journal for the Philosophy of Science*, 40(2): 145–154. doi: 10.1093/bjps/40.2.145
+* Lange, Marc, 2015, “On ‘Minimal Model Explanations’: A Reply to Batterman and Rice”, *Philosophy of Science*, 82(2): 292–305. doi: 10.1086/680488
+* Lavis, David A., 2008, “Boltzmann, Gibbs, and the Concept of Equilibrium”, *Philosophy of Science*, 75(5): 682–692. doi: 10.1086/594514
+* Laymon, Ronald, 1982, “Scientific Realism and the Hierarchical Counterfactual Path from Data to Theory”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(1): 107–121. doi: 10.1086/psaprocbienmeetp.1982.1.192660
 * –––, 1985, “Idealizations and the Testing of Theories by Experimentation”, in Peter Achinstein and Owen Hannaway (eds.), *Observation, Experiment, and Hypothesis in Modern Physical Science*, Cambridge, MA: MIT Press, pp. 147–173.
 * –––, 1991, “Thought Experiments by Stevin, Mach and Gouy: Thought Experiments as Ideal Limits and Semantic Domains”, in Horowitz and Massey 1991: 167–191.
-* Leonelli, Sabina, 2010, “Packaging Small Facts for Re-Use: Databases in Model Organism Biology”, in Peter Howlett and Mary S. Morgan (eds.), *How Well Do Facts Travel? The Dissemination of Reliable Knowledge*, Cambridge: Cambridge University Press, pp. 325–348. doi:10.1017/CBO9780511762154.017
+* Leonelli, Sabina, 2010, “Packaging Small Facts for Re-Use: Databases in Model Organism Biology”, in Peter Howlett and Mary S. Morgan (eds.), *How Well Do Facts Travel? The Dissemination of Reliable Knowledge*, Cambridge: Cambridge University Press, pp. 325–348. doi: 10.1017/CBO9780511762154.017
 * –––, 2016, *Data-Centric Biology: A Philosophical Study*, Chicago, IL, and London: University of Chicago Press.
-* –––, 2019, “What Distinguishes Data from Models?”, *European Journal for Philosophy of Science*, 9(2): article 22. doi:10.1007/s13194-018-0246-0
-* Leonelli, Sabina and Rachel A. Ankeny, 2012, “Re-Thinking Organisms: The Impact of Databases on Model Organism Biology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 29–36. doi:10.1016/j.shpsc.2011.10.003
-* Leplin, Jarrett, 1980, “The Role of Models in Theory Construction”, in Thomas Nickles (ed.), *Scientific Discovery, Logic, and Rationality* (Boston Studies in the Philosophy of Science 56), Dordrecht: Springer Netherlands, 267–283. doi:10.1007/978-94-009-8986-3_12
-* Levy, Arnon, 2012, “Models, Fictions, and Realism: Two Packages”, *Philosophy of Science*, 79(5): 738–748. doi:10.1086/667992
-* –––, 2015, “Modeling without Models”, *Philosophical Studies*, 172(3): 781–798. doi:10.1007/s11098-014-0333-9
-* Levy, Arnon and Adrian Currie, 2015, “Model Organisms Are Not (Theoretical) Models”, *The British Journal for the Philosophy of Science*, 66(2): 327–348. doi:10.1093/bjps/axt055
+* –––, 2019, “What Distinguishes Data from Models?”, *European Journal for Philosophy of Science*, 9(2): article 22. doi: 10.1007/s13194-018-0246-0
+* Leonelli, Sabina and Rachel A. Ankeny, 2012, “Re-Thinking Organisms: The Impact of Databases on Model Organism Biology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 29–36. doi: 10.1016/j.shpsc.2011.10.003
+* Leplin, Jarrett, 1980, “The Role of Models in Theory Construction”, in Thomas Nickles (ed.), *Scientific Discovery, Logic, and Rationality* (Boston Studies in the Philosophy of Science 56), Dordrecht: Springer Netherlands, 267–283. doi: 10.1007/978-94-009-8986-3_12
+* Levy, Arnon, 2012, “Models, Fictions, and Realism: Two Packages”, *Philosophy of Science*, 79(5): 738–748. doi: 10.1086/667992
+* –––, 2015, “Modeling without Models”, *Philosophical Studies*, 172(3): 781–798. doi: 10.1007/s11098-014-0333-9
+* Levy, Arnon and Adrian Currie, 2015, “Model Organisms Are Not (Theoretical) Models”, *The British Journal for the Philosophy of Science*, 66(2): 327–348. doi: 10.1093/bjps/axt055
 * Levy, Arnon and Peter Godfrey-Smith (eds.), 2020, *The Scientific Imagination: Philosophical and Psychological Perspectives*, New York: Oxford University Press.
-* Liefke, Kristina and Stephan Hartmann, 2018, “Intertheoretic Reduction, Confirmation, and Montague’s Syntax–Semantics Relation”, *Journal of Logic, Language and Information*, 27(4): 313–341. doi:10.1007/s10849-018-9272-8
+* Liefke, Kristina and Stephan Hartmann, 2018, “Intertheoretic Reduction, Confirmation, and Montague’s Syntax–Semantics Relation”, *Journal of Logic, Language and Information*, 27(4): 313–341. doi: 10.1007/s10849-018-9272-8
 * Lipton, Peter, 2009, “Understanding without Explanation”, in de Regt, Leonelli, and Eigner 2009: 43–63.
-* Luczak, Joshua, 2017, “Talk about Toy Models”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 57: 1–7. doi:10.1016/j.shpsb.2016.11.002
-* Magnani, Lorenzo, 2012, “Scientific Models Are Not Fictions: Model-Based Science as Epistemic Warfare”, in Lorenzo Magnani and Ping Li (eds.), *Philosophy and Cognitive Science: Western & Eastern Studies* (Studies in Applied Philosophy, Epistemology and Rational Ethics 2), Berlin and Heidelberg: Springer, pp. 1–38. doi:10.1007/978-3-642-29928-5_1
-* Magnani, Lorenzo and Claudia Casadio (eds.), 2016, *Model-Based Reasoning in Science and Technology: Logical, Epistemological, and Cognitive Issues* (Studies in Applied Philosophy, Epistemology and Rational Ethics 27), Cham: Springer International Publishing. doi:10.1007/978-3-319-38983-7
-* Magnani, Lorenzo and Nancy J. Nersessian (eds.), 2002, *Model-Based Reasoning: Science, Technology, Values*, Boston, MA: Springer US. doi:10.1007/978-1-4615-0605-8
-* Magnani, Lorenzo, Nancy J. Nersessian, and Paul Thagard (eds.), 1999, *Model-Based Reasoning in Scientific Discovery*, Boston, MA: Springer US. doi:10.1007/978-1-4615-4813-3
+* Luczak, Joshua, 2017, “Talk about Toy Models”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 57: 1–7. doi: 10.1016/j.shpsb.2016.11.002
+* Magnani, Lorenzo, 2012, “Scientific Models Are Not Fictions: Model-Based Science as Epistemic Warfare”, in Lorenzo Magnani and Ping Li (eds.), *Philosophy and Cognitive Science: Western & Eastern Studies* (Studies in Applied Philosophy, Epistemology and Rational Ethics 2), Berlin and Heidelberg: Springer, pp. 1–38. doi: 10.1007/978-3-642-29928-5_1
+* Magnani, Lorenzo and Claudia Casadio (eds.), 2016, *Model-Based Reasoning in Science and Technology: Logical, Epistemological, and Cognitive Issues* (Studies in Applied Philosophy, Epistemology and Rational Ethics 27), Cham: Springer International Publishing. doi: 10.1007/978-3-319-38983-7
+* Magnani, Lorenzo and Nancy J. Nersessian (eds.), 2002, *Model-Based Reasoning: Science, Technology, Values*, Boston, MA: Springer US. doi: 10.1007/978-1-4615-0605-8
+* Magnani, Lorenzo, Nancy J. Nersessian, and Paul Thagard (eds.), 1999, *Model-Based Reasoning in Scientific Discovery*, Boston, MA: Springer US. doi: 10.1007/978-1-4615-4813-3
 * Mäki, Uskali, 1994, “Isolation, Idealization and Truth in Economics”, in Bert Hamminga and Neil B. De Marchi (eds.), *Idealization VI: Idealization in Economics* (Poznań Studies in the Philosophy of the Sciences and the Humanities 38), Amsterdam: Rodopi, pp. 147–168.
 * Massimi, Michela, 2017, “Perspectivism”, in Juha Saatsi (ed.), *The Routledge Handbook of Scientific Realism*, London: Routledge, pp. 164–175.
-* –––, 2018a, “Four Kinds of Perspectival Truth”, *Philosophy and Phenomenological Research*, 96(2): 342–359. doi:10.1111/phpr.12300
-* –––, 2018b, “Perspectival Modeling”, *Philosophy of Science*, 85(3): 335–359. doi:10.1086/697745
-* –––, 2019, “Two Kinds of Exploratory Models”, *Philosophy of Science*, 86(5): 869–881. doi:10.1086/705494
-* Massimi, Michela and Casey D. McCoy (eds.), 2019, *Understanding Perspectivism: Scientific Challenges and Methodological Prospects*, New York: Routledge. doi:10.4324/9781315145198
+* –––, 2018a, “Four Kinds of Perspectival Truth”, *Philosophy and Phenomenological Research*, 96(2): 342–359. doi: 10.1111/phpr.12300
+* –––, 2018b, “Perspectival Modeling”, *Philosophy of Science*, 85(3): 335–359. doi: 10.1086/697745
+* –––, 2019, “Two Kinds of Exploratory Models”, *Philosophy of Science*, 86(5): 869–881. doi: 10.1086/705494
+* Massimi, Michela and Casey D. McCoy (eds.), 2019, *Understanding Perspectivism: Scientific Challenges and Methodological Prospects*, New York: Routledge. doi: 10.4324/9781315145198
 * Mayo, Deborah, 1996, *Error and the Growth of Experimental Knowledge*, Chicago, IL: University of Chicago Press.
-* –––, 2018, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*, Cambridge: Cambridge University Press. doi:10.1017/9781107286184
-* McMullin, Ernan, 1968, “What Do Physical Models Tell Us?”, in B. Van Rootselaar and J. Frits Staal (eds.), *Logic, Methodology and Philosophy of Science III* (Studies in Logic and the Foundations of Mathematics 52), Amsterdam: North Holland, pp. 385–396. doi:10.1016/S0049-237X(08)71206-0
-* –––, 1985, “Galilean Idealization”, *Studies in History and Philosophy of Science Part A*, 16(3): 247–273. doi:10.1016/0039-3681(85)90003-2
-* Morgan, Mary S., 1999, “Learning from Models”, in Morgan and Morrison 1999: 347–388. doi:10.1017/CBO9780511660108.013
+* –––, 2018, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*, Cambridge: Cambridge University Press. doi: 10.1017/9781107286184
+* McMullin, Ernan, 1968, “What Do Physical Models Tell Us?”, in B. Van Rootselaar and J. Frits Staal (eds.), *Logic, Methodology and Philosophy of Science III* (Studies in Logic and the Foundations of Mathematics 52), Amsterdam: North Holland, pp. 385–396. doi: 10.1016/S0049-237X(08)71206-0
+* –––, 1985, “Galilean Idealization”, *Studies in History and Philosophy of Science Part A*, 16(3): 247–273. doi: 10.1016/0039-3681(85)90003-2
+* Morgan, Mary S., 1999, “Learning from Models”, in Morgan and Morrison 1999: 347–388. doi: 10.1017/CBO9780511660108.013
 * Morgan, Mary S. and Marcel J. Boumans, 2004, “Secrets Hidden by Two-Dimensionality: The Economy as a Hydraulic Machine”, in Soraya de Chadarevian and Nick Hopwood (eds.), *Model: The Third Dimension of Science*, Stanford, CA: Stanford University Press, pp. 369–401.
-* Morgan, Mary S. and Margaret Morrison (eds.), 1999, *Models as Mediators: Perspectives on Natural and Social Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511660108
-* Morrison, Margaret, 1999, “Models as Autonomous Agents”, in Morgan and Morrison 1999: 38–65. doi:10.1017/CBO9780511660108.004
-* –––, 2000, *Unifying Scientific Theories: Physical Concepts and Mathematical Structures*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527333
-* –––, 2005, “Approximating the Real: The Role of Idealizations in Physical Theory”, in Jones and Cartwright 2005: 145–172. doi:10.1163/9789401202732_009
+* Morgan, Mary S. and Margaret Morrison (eds.), 1999, *Models as Mediators: Perspectives on Natural and Social Science*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511660108
+* Morrison, Margaret, 1999, “Models as Autonomous Agents”, in Morgan and Morrison 1999: 38–65. doi: 10.1017/CBO9780511660108.004
+* –––, 2000, *Unifying Scientific Theories: Physical Concepts and Mathematical Structures*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511527333
+* –––, 2005, “Approximating the Real: The Role of Idealizations in Physical Theory”, in Jones and Cartwright 2005: 145–172. doi: 10.1163/9789401202732_009
 * –––, 2009, “Understanding in Physics and Biology: From the Abstract to the Concrete”, in de Regt, Leonelli, and Eigner 2009: 123–145.
-* –––, 2012, “Emergent Physics and Micro-Ontology”, *Philosophy of Science*, 79(1): 141–166. doi:10.1086/663240
-* Musgrave, Alan, 1981, “‘Unreal Assumptions’ in Economic Theory: The F-Twist Untwisted”, *Kyklos*, 34(3): 377–387. doi:10.1111/j.1467-6435.1981.tb01195.x
+* –––, 2012, “Emergent Physics and Micro-Ontology”, *Philosophy of Science*, 79(1): 141–166. doi: 10.1086/663240
+* Musgrave, Alan, 1981, “‘Unreal Assumptions’ in Economic Theory: The F-Twist Untwisted”, *Kyklos*, 34(3): 377–387. doi: 10.1111/j.1467-6435.1981.tb01195.x
 * Nagel, Ernest, 1961, *The Structure of Science: Problems in the Logic of Scientific Explanation*, New York: Harcourt, Brace and World.
-* Nersessian, Nancy J., 1999, “Model-Based Reasoning in Conceptual Change”, in Magnani, Nersessian, and Thagard 1999: 5–22. doi:10.1007/978-1-4615-4813-3_1
+* Nersessian, Nancy J., 1999, “Model-Based Reasoning in Conceptual Change”, in Magnani, Nersessian, and Thagard 1999: 5–22. doi: 10.1007/978-1-4615-4813-3_1
 * –––, 2010, *Creating Scientific Concepts*, Cambridge, MA: MIT Press.
-* Nguyen, James, forthcoming, “It’s Not a Game: Accurate Representation with Toy Models”, *The British Journal for the Philosophy of Science*, first online: 23 March 2019. doi:10.1093/bjps/axz010
-* Nguyen, James and Roman Frigg, forthcoming, “Mathematics Is Not the Only Language in the Book of Nature”, *Synthese*, first online: 28 August 2017. doi:10.1007/s11229-017-1526-5
+* Nguyen, James, forthcoming, “It’s Not a Game: Accurate Representation with Toy Models”, *The British Journal for the Philosophy of Science*, first online: 23 March 2019. doi: 10.1093/bjps/axz010
+* Nguyen, James and Roman Frigg, forthcoming, “Mathematics Is Not the Only Language in the Book of Nature”, *Synthese*, first online: 28 August 2017. doi: 10.1007/s11229-017-1526-5
 * Norton, John D., 1991, “Thought Experiments in Einstein’s Work”, in Horowitz and Massey 1991: 129–148.
 * –––, 2003, “Causation as Folk Science”, *Philosopher’s Imprint*, 3: article 4. [[Norton 2003 available online](http://hdl.handle.net/2027/spo.3521354.0003.004)]
-* –––, 2012, “Approximation and Idealization: Why the Difference Matters”, *Philosophy of Science*, 79(2): 207–232. doi:10.1086/664746
+* –––, 2012, “Approximation and Idealization: Why the Difference Matters”, *Philosophy of Science*, 79(2): 207–232. doi: 10.1086/664746
 * Nowak, Leszek, 1979, *The Structure of Idealization: Towards a Systematic Interpretation of the Marxian Idea of Science*, Dordrecht: D. Reidel.
-* Palacios, Patricia, 2019, “Phase Transitions: A Challenge for Intertheoretic Reduction?”, *Philosophy of Science*, 86(4): 612–640. doi:10.1086/704974
-* Peschard, Isabelle, 2011, “Making Sense of Modeling: Beyond Representation”, *European Journal for Philosophy of Science*, 1(3): 335–352. doi:10.1007/s13194-011-0032-8
-* Piccinini, Gualtiero and Carl Craver, 2011, “Integrating Psychology and Neuroscience: Functional Analyses as Mechanism Sketches”, *Synthese*, 183(3): 283–311. doi:10.1007/s11229-011-9898-4
-* Pincock, Christopher, 2012, *Mathematics and Scientific Representation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199757107.001.0001
+* Palacios, Patricia, 2019, “Phase Transitions: A Challenge for Intertheoretic Reduction?”, *Philosophy of Science*, 86(4): 612–640. doi: 10.1086/704974
+* Peschard, Isabelle, 2011, “Making Sense of Modeling: Beyond Representation”, *European Journal for Philosophy of Science*, 1(3): 335–352. doi: 10.1007/s13194-011-0032-8
+* Piccinini, Gualtiero and Carl Craver, 2011, “Integrating Psychology and Neuroscience: Functional Analyses as Mechanism Sketches”, *Synthese*, 183(3): 283–311. doi: 10.1007/s11229-011-9898-4
+* Pincock, Christopher, 2012, *Mathematics and Scientific Representation*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199757107.001.0001
 * –––, forthcoming, “Concrete Scale Models, Essential Idealization and Causal Explanation”, *British Journal for the Philosophy of Science*.
-* Portides, Demetris P., 2007, “The Relation between Idealisation and Approximation in Scientific Model Construction”, *Science & Education*, 16(7–8): 699–724. doi:10.1007/s11191-006-9001-6
-* –––, 2014, “How Scientific Models Differ from Works of Fiction”, in Lorenzo Magnani (ed.), *Model-Based Reasoning in Science and Technology* (Studies in Applied Philosophy, Epistemology and Rational Ethics 8), Berlin and Heidelberg: Springer, pp. 75–87. doi:10.1007/978-3-642-37428-9_5
+* Portides, Demetris P., 2007, “The Relation between Idealisation and Approximation in Scientific Model Construction”, *Science & Education*, 16(7–8): 699–724. doi: 10.1007/s11191-006-9001-6
+* –––, 2014, “How Scientific Models Differ from Works of Fiction”, in Lorenzo Magnani (ed.), *Model-Based Reasoning in Science and Technology* (Studies in Applied Philosophy, Epistemology and Rational Ethics 8), Berlin and Heidelberg: Springer, pp. 75–87. doi: 10.1007/978-3-642-37428-9_5
 * Potochnik, Angela, 2007, “Optimality Modeling and Explanatory Generality”, *Philosophy of Science*, 74(5): 680–691.
 * –––, 2017, *Idealization and the Aims of Science*, Chicago, IL: University of Chicago Press.
 * Poznic, Michael, 2016, “Make-Believe and Model-Based Representation in Science: The Epistemology of Frigg’s and Toon’s Fictionalist Views of Modeling”, *Teorema: Revista Internacional de Filosofía*, 35(3): 201–218.
 * Psillos, Stathis, 1995, “The Cognitive Interplay between Theories and Models: The Case of 19th Century Optics”, in Herfel et al. 1995: 105–133.
-* Redhead, Michael, 1980, “Models in Physics”, *The British Journal for the Philosophy of Science*, 31(2): 145–163. doi:10.1093/bjps/31.2.145
+* Redhead, Michael, 1980, “Models in Physics”, *The British Journal for the Philosophy of Science*, 31(2): 145–163. doi: 10.1093/bjps/31.2.145
 * Reiss, Julian, 2003, “Causal Inference in the Abstract or Seven Myths about Thought Experiments”, in *Causality: Metaphysics and Methods Research Project*, Technical Report 03/02. London: London School of Economics.
 * –––, 2006, “Social Capacities”, in Hartmann et al. 2006: 265–288.
-* –––, 2012, “The Explanation Paradox”, *Journal of Economic Methodology*, 19(1): 43–62. doi:10.1080/1350178X.2012.661069
-* Reutlinger, Alexander, 2017, “Do Renormalization Group Explanations Conform to the Commonality Strategy?”, *Journal for General Philosophy of Science*, 48(1): 143–150. doi:10.1007/s10838-016-9339-7
-* Reutlinger, Alexander, Dominik Hangleiter, and Stephan Hartmann, 2018, “Understanding (with) Toy Models”, *The British Journal for the Philosophy of Science*, 69(4): 1069–1099. doi:10.1093/bjps/axx005
-* Rice, Collin C., 2015, “Moving Beyond Causes: Optimality Models and Scientific Explanation”, *Noûs*, 49(3): 589–615. doi:10.1111/nous.12042
-* –––, 2016, “Factive Scientific Understanding without Accurate Representation”, *Biology & Philosophy*, 31(1): 81–102. doi:10.1007/s10539-015-9510-2
-* –––, 2018, “Idealized Models, Holistic Distortions, and Universality”, *Synthese*, 195(6): 2795–2819. doi:10.1007/s11229-017-1357-4
-* –––, 2019, “Models Don’t Decompose That Way: A Holistic View of Idealized Models”, *The British Journal for the Philosophy of Science*, 70(1): 179–208. doi:10.1093/bjps/axx045
-* Rosaler, Joshua, 2015, “Local Reduction in Physics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 50: 54–69. doi:10.1016/j.shpsb.2015.02.004
-* Rueger, Alexander, 2005, “Perspectival Models and Theory Unification”, *The British Journal for the Philosophy of Science*, 56(3): 579–594. doi:10.1093/bjps/axi128
+* –––, 2012, “The Explanation Paradox”, *Journal of Economic Methodology*, 19(1): 43–62. doi: 10.1080/1350178X.2012.661069
+* Reutlinger, Alexander, 2017, “Do Renormalization Group Explanations Conform to the Commonality Strategy?”, *Journal for General Philosophy of Science*, 48(1): 143–150. doi: 10.1007/s10838-016-9339-7
+* Reutlinger, Alexander, Dominik Hangleiter, and Stephan Hartmann, 2018, “Understanding (with) Toy Models”, *The British Journal for the Philosophy of Science*, 69(4): 1069–1099. doi: 10.1093/bjps/axx005
+* Rice, Collin C., 2015, “Moving Beyond Causes: Optimality Models and Scientific Explanation”, *Noûs*, 49(3): 589–615. doi: 10.1111/nous.12042
+* –––, 2016, “Factive Scientific Understanding without Accurate Representation”, *Biology & Philosophy*, 31(1): 81–102. doi: 10.1007/s10539-015-9510-2
+* –––, 2018, “Idealized Models, Holistic Distortions, and Universality”, *Synthese*, 195(6): 2795–2819. doi: 10.1007/s11229-017-1357-4
+* –––, 2019, “Models Don’t Decompose That Way: A Holistic View of Idealized Models”, *The British Journal for the Philosophy of Science*, 70(1): 179–208. doi: 10.1093/bjps/axx045
+* Rosaler, Joshua, 2015, “Local Reduction in Physics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 50: 54–69. doi: 10.1016/j.shpsb.2015.02.004
+* Rueger, Alexander, 2005, “Perspectival Models and Theory Unification”, *The British Journal for the Philosophy of Science*, 56(3): 579–594. doi: 10.1093/bjps/axi128
 * Rueger, Alexander and David Sharp, 1998, “Idealization and Stability: A Perspective from Nonlinear Dynamics”, in Shanks 1998: 201–216.
-* Saatsi, Juha, 2016, “Models, Idealisations, and Realism”, in Emiliano Ippoliti, Fabio Sterpetti, and Thomas Nickles (eds.), *Models and Inferences in Science* (Studies in Applied Philosophy, Epistemology and Rational Ethics 25), Cham: Springer International Publishing, pp. 173–189. doi:10.1007/978-3-319-28163-6_10
-* Saatsi, Juha and Alexander Reutlinger, 2018, “Taking Reductionism to the Limit: How to Rebut the Antireductionist Argument from Infinite Limits”, *Philosophy of Science*, 85(3): 455–482. doi:10.1086/697735
-* Salis, Fiora, forthcoming, “The New Fiction View of Models”, *The British Journal for the Philosophy of Science*, first online: 20 April 2019. doi:10.1093/bjps/axz015
+* Saatsi, Juha, 2016, “Models, Idealisations, and Realism”, in Emiliano Ippoliti, Fabio Sterpetti, and Thomas Nickles (eds.), *Models and Inferences in Science* (Studies in Applied Philosophy, Epistemology and Rational Ethics 25), Cham: Springer International Publishing, pp. 173–189. doi: 10.1007/978-3-319-28163-6_10
+* Saatsi, Juha and Alexander Reutlinger, 2018, “Taking Reductionism to the Limit: How to Rebut the Antireductionist Argument from Infinite Limits”, *Philosophy of Science*, 85(3): 455–482. doi: 10.1086/697735
+* Salis, Fiora, forthcoming, “The New Fiction View of Models”, *The British Journal for the Philosophy of Science*, first online: 20 April 2019. doi: 10.1093/bjps/axz015
 * Salmon, Wesley C., 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton, NJ: Princeton University Press.
-* Schaffner, Kenneth F., 1969, “The Watson–Crick Model and Reductionism”, *The British Journal for the Philosophy of Science*, 20(4): 325–348. doi:10.1093/bjps/20.4.325
+* Schaffner, Kenneth F., 1969, “The Watson–Crick Model and Reductionism”, *The British Journal for the Philosophy of Science*, 20(4): 325–348. doi: 10.1093/bjps/20.4.325
 * Scheibe, Erhard, 1997, *Die Reduktion physikalischer Theorien: Ein Beitrag zur Einheit der Physik, Teil I: Grundlagen und elementare Theorie*, Berlin: Springer.
 * –––, 1999, *Die Reduktion physikalischer Theorien: Ein Beitrag zur Einheit der Physik, Teil II: Inkommensurabilität und Grenzfallreduktion*, Berlin: Springer.
-* –––, 2001, *Between Rationalism and Empiricism: Selected Papers in the Philosophy of Physics*, Brigitte Falkenburg (ed.), New York: Springer. doi:10.1007/978-1-4613-0183-7
+* –––, 2001, *Between Rationalism and Empiricism: Selected Papers in the Philosophy of Physics*, Brigitte Falkenburg (ed.), New York: Springer. doi: 10.1007/978-1-4613-0183-7
 * Shanks, Niall (ed.), 1998, *Idealization in Contemporary Physics*, Amsterdam: Rodopi.
-* Shech, Elay, 2018, “Idealizations, Essential Self-Adjointness, and Minimal Model Explanation in the Aharonov–Bohm Effect”, *Synthese*, 195(11): 4839–4863. doi:10.1007/s11229-017-1428-6
+* Shech, Elay, 2018, “Idealizations, Essential Self-Adjointness, and Minimal Model Explanation in the Aharonov–Bohm Effect”, *Synthese*, 195(11): 4839–4863. doi: 10.1007/s11229-017-1428-6
 * Sismondo, Sergio and Snait Gissis (eds.), 1999, *Modeling and Simulation*, Special Issue of *Science in Context*, 12(2).
-* Sorensen, Roy A., 1992, *Thought Experiments*, New York: Oxford University Press. doi:10.1093/019512913X.001.0001
-* Spector, Marshall, 1965, “Models and Theories”, *The British Journal for the Philosophy of Science*, 16(62): 121–142. doi:10.1093/bjps/XVI.62.121
+* Sorensen, Roy A., 1992, *Thought Experiments*, New York: Oxford University Press. doi: 10.1093/019512913X.001.0001
+* Spector, Marshall, 1965, “Models and Theories”, *The British Journal for the Philosophy of Science*, 16(62): 121–142. doi: 10.1093/bjps/XVI.62.121
 * Staley, Kent W., 2004, *The Evidence for the Top Quark: Objectivity and Bias in Collaborative Experimentation*, Cambridge: Cambridge University Press.
-* Sterrett, Susan G., 2006, “Models of Machines and Models of Phenomena”, *International Studies in the Philosophy of Science*, 20(1): 69–80. doi:10.1080/02698590600641024
+* Sterrett, Susan G., 2006, “Models of Machines and Models of Phenomena”, *International Studies in the Philosophy of Science*, 20(1): 69–80. doi: 10.1080/02698590600641024
 * –––, forthcoming, “Scale Modeling”, in Diane Michelfelder and Neelke Doorn (eds.), *Routledge Handbook of Philosophy of Engineering*, Chapter 32. [[Sterrett forthcoming available online](http://philsci-archive.pitt.edu/16054/)]
-* Strevens, Michael, 2004, “The Causal and Unification Approaches to Explanation Unified—Causally”, *Noûs*, 38(1): 154–176. doi:10.1111/j.1468-0068.2004.00466.x
+* Strevens, Michael, 2004, “The Causal and Unification Approaches to Explanation Unified—Causally”, *Noûs*, 38(1): 154–176. doi: 10.1111/j.1468-0068.2004.00466.x
 * –––, 2008, *Depth: An Account of Scientific Explanation*, Cambridge, MA, and London: Harvard University Press.
 * –––, 2013, *Tychomancy: Inferring Probability from Causal Structure*, Cambridge, MA, and London: Harvard University Press.
-* Suárez, Mauricio, 2003, “Scientific Representation: Against Similarity and Isomorphism”, *International Studies in the Philosophy of Science*, 17(3): 225–244. doi:10.1080/0269859032000169442
-* –––, 2004, “An Inferential Conception of Scientific Representation”, *Philosophy of Science*, 71(5): 767–779. doi:10.1086/421415
-* ––– (ed.), 2009, *Fictions in Science: Philosophical Essays on Modeling and Idealization*, London: Routledge. doi:10.4324/9780203890103
-* Sugden, Robert, 2000, “Credible Worlds: The Status of Theoretical Models in Economics”, *Journal of Economic Methodology*, 7(1): 1–31. doi:10.1080/135017800362220
-* Sullivan, Emily and Kareem Khalifa, 2019, “Idealizations and Understanding: Much Ado About Nothing?”, *Australasian Journal of Philosophy*, 97(4): 673–689. doi:10.1080/00048402.2018.1564337
+* Suárez, Mauricio, 2003, “Scientific Representation: Against Similarity and Isomorphism”, *International Studies in the Philosophy of Science*, 17(3): 225–244. doi: 10.1080/0269859032000169442
+* –––, 2004, “An Inferential Conception of Scientific Representation”, *Philosophy of Science*, 71(5): 767–779. doi: 10.1086/421415
+* ––– (ed.), 2009, *Fictions in Science: Philosophical Essays on Modeling and Idealization*, London: Routledge. doi: 10.4324/9780203890103
+* Sugden, Robert, 2000, “Credible Worlds: The Status of Theoretical Models in Economics”, *Journal of Economic Methodology*, 7(1): 1–31. doi: 10.1080/135017800362220
+* Sullivan, Emily and Kareem Khalifa, 2019, “Idealizations and Understanding: Much Ado About Nothing?”, *Australasian Journal of Philosophy*, 97(4): 673–689. doi: 10.1080/00048402.2018.1564337
 * Suppe, Frederick, 2000, “Theory Identity”, in William H. Newton-Smith (ed.), *A Companion to the Philosophy of Science*, Oxford: Wiley-Blackwell, pp. 525–527.
-* Suppes, Patrick, 1960, “A Comparison of the Meaning and Uses of Models in Mathematics and the Empirical Sciences”, *Synthese*, 12(2–3): 287–301. Reprinted in Freudenthal 1961: 163–177, and in Suppes 1969: 10–23. doi:10.1007/BF00485107 doi:10.1007/978-94-010-3667-2_16
+* Suppes, Patrick, 1960, “A Comparison of the Meaning and Uses of Models in Mathematics and the Empirical Sciences”, *Synthese*, 12(2–3): 287–301. Reprinted in Freudenthal 1961: 163–177, and in Suppes 1969: 10–23. doi: 10.1007/BF00485107 doi: 10.1007/978-94-010-3667-2_16
 * –––, 1962, “Models of Data”, in Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds.), *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, Stanford, CA: Stanford University Press, pp. 252–261. Reprinted in Suppes 1969: 24–35.
 * –––, 1969, *Studies in the Methodology and Foundations of Science: Selected Papers from 1951 to 1969*, Dordrecht: Reidel.
-* –––, 2007, “Statistical Concepts in Philosophy of Science”, *Synthese*, 154(3): 485–496. doi:10.1007/s11229-006-9122-0
-* Swoyer, Chris, 1991, “Structural Representation and Surrogative Reasoning”, *Synthese*, 87(3): 449–508. doi:10.1007/BF00499820
+* –––, 2007, “Statistical Concepts in Philosophy of Science”, *Synthese*, 154(3): 485–496. doi: 10.1007/s11229-006-9122-0
+* Swoyer, Chris, 1991, “Structural Representation and Surrogative Reasoning”, *Synthese*, 87(3): 449–508. doi: 10.1007/BF00499820
 * Tabor, Michael, 1989, *Chaos and Integrability in Nonlinear Dynamics: An Introduction*, New York: John Wiley.
-* Teller, Paul, 2001, “Twilight of the Perfect Model”, *Erkenntnis*, 55(3): 393–415. doi:10.1023/A:1013349314515
-* –––, 2002, “Critical Study: Nancy Cartwright’s *The Dappled World: A Study of the Boundaries of Science*”, *Noûs*, 36(4): 699–725. doi:10.1111/1468-0068.t01-1-00408
+* Teller, Paul, 2001, “Twilight of the Perfect Model”, *Erkenntnis*, 55(3): 393–415. doi: 10.1023/A: 1013349314515
+* –––, 2002, “Critical Study: Nancy Cartwright’s *The Dappled World: A Study of the Boundaries of Science*”, *Noûs*, 36(4): 699–725. doi: 10.1111/1468-0068.t01-1-00408
 * –––, 2009, “Fictions, Fictionalization, and Truth in Science”, in Suárez 2009: 235–247.
-* –––, 2018, “Referential and Perspectival Realism”, *Spontaneous Generations: A Journal for the History and Philosophy of Science*, 9(1): 151–164. doi:10.4245/sponge.v9i1.26990
-* Tešić, Marko, 2019, “Confirmation and the Generalized Nagel–Schaffner Model of Reduction: A Bayesian Analysis”, *Synthese*, 196(3): 1097–1129. doi:10.1007/s11229-017-1501-1
-* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, New York: Cambridge University Press. doi:10.1017/CBO9780511527463
+* –––, 2018, “Referential and Perspectival Realism”, *Spontaneous Generations: A Journal for the History and Philosophy of Science*, 9(1): 151–164. doi: 10.4245/sponge.v9i1.26990
+* Tešić, Marko, 2019, “Confirmation and the Generalized Nagel–Schaffner Model of Reduction: A Bayesian Analysis”, *Synthese*, 196(3): 1097–1129. doi: 10.1007/s11229-017-1501-1
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, New York: Cambridge University Press. doi: 10.1017/CBO9780511527463
 * –––, 2020, “If Models Were Fictions, Then What Would They Be?”, in Levy and Godfrey-Smith 2020: 51–74.
-* Thomson-Jones, Martin, 2006, “Models and the Semantic View”, *Philosophy of Science*, 73(5): 524–535. doi:10.1086/518322
+* Thomson-Jones, Martin, 2006, “Models and the Semantic View”, *Philosophy of Science*, 73(5): 524–535. doi: 10.1086/518322
 * –––, 2020, “Realism about Missing Systems”, in Levy and Godfrey-Smith 2020: 75–101.
 * Toon, Adam, 2012, *Models as Make-Believe: Imagination, Fiction and Scientific Representation*, Basingstoke: Palgrave Macmillan.
-* Trout, J. D., 2002, “Scientific Explanation and the Sense of Understanding”, *Philosophy of Science*, 69(2): 212–233. doi:10.1086/341050
-* van Fraassen, Bas C., 1989, *Laws and Symmetry*, Oxford: Oxford University Press. doi:10.1093/0198248601.001.0001
+* Trout, J. D., 2002, “Scientific Explanation and the Sense of Understanding”, *Philosophy of Science*, 69(2): 212–233. doi: 10.1086/341050
+* van Fraassen, Bas C., 1989, *Laws and Symmetry*, Oxford: Oxford University Press. doi: 10.1093/0198248601.001.0001
 * Walton, Kendall L., 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, MA: Harvard University Press.
-* Weisberg, Michael, 2007, “Three Kinds of Idealization”, *Journal of Philosophy*, 104(12): 639–659. doi:10.5840/jphil20071041240
-* –––, 2013, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199933662.001.0001
-* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor”, *Philosophy of Science*, 76(2): 225–252. doi:10.1086/644786
+* Weisberg, Michael, 2007, “Three Kinds of Idealization”, *Journal of Philosophy*, 104(12): 639–659. doi: 10.5840/jphil20071041240
+* –––, 2013, *Simulation and Similarity: Using Models to Understand the World*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199933662.001.0001
+* Weisberg, Michael and Ryan Muldoon, 2009, “Epistemic Landscapes and the Division of Cognitive Labor”, *Philosophy of Science*, 76(2): 225–252. doi: 10.1086/644786
 * Wimsatt, William, 1987, “False Models as Means to Truer Theories”, in Matthew Nitecki and Antoni Hoffman (eds.), *Neutral Models in Biology*, Oxford: Oxford University Press, pp. 23–55.
 * –––, 2007, *Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality*, Cambridge, MA: Harvard University Press.
-* Woodward, James, 2003, *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
-* Woody, Andrea I., 2004, “More Telltale Signs: What Attention to Representation Reveals about Scientific Explanation”, *Philosophy of Science*, 71(5): 780–793. doi:10.1086/421416
-* Zollman, Kevin J. S., 2007, “The Communication Structure of Epistemic Communities”, *Philosophy of Science*, 74(5): 574–587. doi:10.1086/525605
+* Woodward, James, 2003, *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press. doi: 10.1093/0195155270.001.0001
+* Woody, Andrea I., 2004, “More Telltale Signs: What Attention to Representation Reveals about Scientific Explanation”, *Philosophy of Science*, 71(5): 780–793. doi: 10.1086/421416
+* Zollman, Kevin J. S., 2007, “The Communication Structure of Epistemic Communities”, *Philosophy of Science*, 74(5): 574–587. doi: 10.1086/525605
 
 ## Academic Tools
 

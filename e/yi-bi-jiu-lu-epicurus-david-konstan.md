@@ -10,7 +10,7 @@
 
 伊壁鸠鲁学派的主要来源是公元三世纪《著名哲学家列传》（Lives of Eminent Philosophers）中的迪奥根尼（Diogenes Laertius）所著，这是一部关于古希腊哲学家生平和学说的资料汇编（参见“古代哲学的文献学”）。在第十卷也是最后一卷，专门讨论伊壁鸠鲁学派的内容，迪奥根尼保留了三封伊壁鸠鲁写给他的门徒的信件，其中他以简洁方便的形式阐述了自己的基本观点。《致希罗多德的信》总结了伊壁鸠鲁的物理理论，《致墨涅库斯的信》概述了伊壁鸠鲁的伦理学，而《致皮索克勒的信》则涉及天文和气象问题。（关于最后一封信是否为伊壁鸠鲁本人所写还存在一些疑问，但有足够的理由将其归因于该学派的创始人。）迪奥根尼还引用了一系列简短的格言，称为“主要信条”或“主要学说”（Kuriai Doxai），这些摘录自伊壁鸠鲁或者在某些情况下是他的亲近伙伴的著作；另一部类似的集合，部分内容与前者重叠，保存在一份独立的手稿中，通常被称为梵蒂冈格言。这两套内容的目的，与那些信件一样，是为了便于记忆核心学说。迪奥根尼还补充了信件未涉及的主题，并提供了伊壁鸠鲁著作的目录和其他传记信息（有关文本，请参阅 Dorandi 2013；英文翻译请参阅 Mensch 2018）。
 
-伊壁鸠鲁的作品在其他作家（例如普鲁塔克、塞克斯图斯·艾米里库斯和对亚里士多德的希腊评论家）的著作中经常被摘取出来，或者以一种战斗性和扭曲的方式呈现。（伊壁鸠鲁的希腊语标准版是 Arrighetti 1973；碎片和证词的最完整收集仍然是 Usener 1887，附有意大利语翻译，Ramelli 2002；有关翻译，请参见参考书目：版本、翻译、评论）。此外，伊壁鸠鲁的几部作品，包括他的主要论著《论自然》（Peri phuseôs）的部分内容——一系列长达 37 个纸草卷的讲座——已经在赫库兰尼姆镇的一座别墅的图书馆中以受损状态被发现，该别墅在公元 79 年维苏威火山喷发时被埋。这个图书馆几乎可以肯定地包含了费洛德默斯的工作集，他是一位来自叙利亚的伊壁鸠鲁学派哲学家，曾在雅典学习，并于公元前一世纪移居意大利。许多卷是费洛德默斯自己的著作，并提供了有关伊壁鸠鲁学派历史上后期问题的宝贵信息。人们必须谨慎地将这些观点归因于该学派的创始人自己，尽管该学派倾向于保守，后来的思想家更多地是对伊壁鸠鲁自己的教义进行修饰而非改变。新的版本和翻译现在正在使更广泛的读者群能够阅读这些困难的文本。
+伊壁鸠鲁的作品在其他作家（例如普鲁塔克、塞克斯图斯 · 艾米里库斯和对亚里士多德的希腊评论家）的著作中经常被摘取出来，或者以一种战斗性和扭曲的方式呈现。（伊壁鸠鲁的希腊语标准版是 Arrighetti 1973；碎片和证词的最完整收集仍然是 Usener 1887，附有意大利语翻译，Ramelli 2002；有关翻译，请参见参考书目：版本、翻译、评论）。此外，伊壁鸠鲁的几部作品，包括他的主要论著《论自然》（Peri phuseôs）的部分内容——一系列长达 37 个纸草卷的讲座——已经在赫库兰尼姆镇的一座别墅的图书馆中以受损状态被发现，该别墅在公元 79 年维苏威火山喷发时被埋。这个图书馆几乎可以肯定地包含了费洛德默斯的工作集，他是一位来自叙利亚的伊壁鸠鲁学派哲学家，曾在雅典学习，并于公元前一世纪移居意大利。许多卷是费洛德默斯自己的著作，并提供了有关伊壁鸠鲁学派历史上后期问题的宝贵信息。人们必须谨慎地将这些观点归因于该学派的创始人自己，尽管该学派倾向于保守，后来的思想家更多地是对伊壁鸠鲁自己的教义进行修饰而非改变。新的版本和翻译现在正在使更广泛的读者群能够阅读这些困难的文本。
 
 与菲洛德莫斯（公元前一世纪）齐名的是卢克莱修斯（公元前一世纪），他用拉丁语写成了《自然论》（“De rerum natura”；如果这是卢克莱修斯自己的标题，那么这是对“自然”一词的改编），全书分为六卷六韵诗，这种格律是史诗和教诲诗歌的特点。作为一名忠实的伊壁鸠鲁学派信徒，卢克莱修斯热衷于传播创始人的思想，忠实地再现了伊壁鸠鲁学派的教义（Sedley 1998；Clay 1983 认为卢克莱修斯更具独创性）。他的诗歌主要集中在伊壁鸠鲁学派的物理和心理或认识论方面，而在很大程度上省略了伦理方面。从一种敌对的角度来看，西塞罗在他的几部哲学著作中，包括《论善终》（De finibus）和《图库拉讨论》（Tusculan Disputations）中，复述并批评了伊壁鸠鲁的思想，特别是关于伦理学的部分。更晚一些，在公元二世纪，另一位狄奥根尼斯在奥伊诺安达城（位于土耳其西南部）竖立了一块大型铭文，至今仅部分出土，其中包含了伊壁鸠鲁学派的基本原则（Smith 1993 的权威版本，但随后已出版了新的碎片；另请参阅 Gordon 1996，Hammerstaedt 等人，2017）。
 
@@ -30,7 +30,7 @@
 
 宏观物体当然不以均匀和非常快的速度移动；其中的原子确实在运动，但它们的运动受到邻近原子的限制和偏转，因此它们会振动。对于完全静止的复合物体，内部原子运动的合力是零，至少相对于地球而言，地球可能有自己的平均运动。如果是这样，并且由于某种原因地球向下运动的速度比其表面上或附近物体的速度慢 —— 比如，因为地球是一个盘状的，正如伊壁鸠鲁所认为的，因此在周围的原子介质中下沉得更慢，就像一片落叶 —— 那么伊壁鸠鲁也能解释为什么像石头这样的物体在释放时倾向于落到地球表面。
 
-伊壁鸠鲁运用了自然界极为有限的基本原则——例如，他并不了解力的概念，也不了解原子之间的吸引和排斥等相关概念，更不用说更加深奥的性质——尽管他竭力试图根据这一理论解释世界上所有物理特征，但悖论依然存在。其中一个出色的悖论是由塞克斯图斯·恩皮里库斯提出的（反对物理学者 = M 10.144–48），同时也让人了解了伊壁鸠鲁的原子是如何被理解行为的（至少在塞克斯图斯的时代，即公元 2 世纪晚期）。塞克斯图斯想象两个原子相距九个极小单位，以相同的速度（原子必须如此）相向而行；经过四个时间极小单位后，这两个原子将相距一个空间极小单位。然后呢？它们无法在剩余距离的中间相遇，这是由极小单位的概念所决定的。也不能一个原子在另一个之前穿过这段间隔，否则就违反了相同速度的规则。那么，它们究竟如何相遇呢？我们不知道伊壁鸠鲁对这个难题的回答。也许原子之间始终相隔偶数个极小单位。或者，极小单位总是以如此大的数量捆绑在一起，以至于谈论原子之间的奇数或偶数个极小单位是毫无意义的；无论如何，斯多嘉派（Stoics）认为，例如星星的数量是奇数还是偶数，绝对或自然上是不明显的（kathapax adela，塞克斯图斯·恩皮里库斯《匹洛尼主义概要》= PH 2.97，M 8.147；physei adela，M 8.317–18）。但伊壁鸠鲁相信，原子层面的运动遵循的是与在宏观物体层面似乎运作的规律不同的法则（原子运动是不连续的一个例子）。也许，因此，少量极小单位上的运动在某种意义上是无法分辨的。最后，他可能认为这样的难题是一个纯粹的数学悖论，因为有记载称他对数学并不感兴趣，认为数学与物理学的适当研究无关。
+伊壁鸠鲁运用了自然界极为有限的基本原则——例如，他并不了解力的概念，也不了解原子之间的吸引和排斥等相关概念，更不用说更加深奥的性质——尽管他竭力试图根据这一理论解释世界上所有物理特征，但悖论依然存在。其中一个出色的悖论是由塞克斯图斯 · 恩皮里库斯提出的（反对物理学者 = M 10.144–48），同时也让人了解了伊壁鸠鲁的原子是如何被理解行为的（至少在塞克斯图斯的时代，即公元 2 世纪晚期）。塞克斯图斯想象两个原子相距九个极小单位，以相同的速度（原子必须如此）相向而行；经过四个时间极小单位后，这两个原子将相距一个空间极小单位。然后呢？它们无法在剩余距离的中间相遇，这是由极小单位的概念所决定的。也不能一个原子在另一个之前穿过这段间隔，否则就违反了相同速度的规则。那么，它们究竟如何相遇呢？我们不知道伊壁鸠鲁对这个难题的回答。也许原子之间始终相隔偶数个极小单位。或者，极小单位总是以如此大的数量捆绑在一起，以至于谈论原子之间的奇数或偶数个极小单位是毫无意义的；无论如何，斯多嘉派（Stoics）认为，例如星星的数量是奇数还是偶数，绝对或自然上是不明显的（kathapax adela，塞克斯图斯 · 恩皮里库斯《匹洛尼主义概要》= PH 2.97，M 8.147；physei adela，M 8.317–18）。但伊壁鸠鲁相信，原子层面的运动遵循的是与在宏观物体层面似乎运作的规律不同的法则（原子运动是不连续的一个例子）。也许，因此，少量极小单位上的运动在某种意义上是无法分辨的。最后，他可能认为这样的难题是一个纯粹的数学悖论，因为有记载称他对数学并不感兴趣，认为数学与物理学的适当研究无关。
 
 这些问题本身是迷人的，但伊壁鸠鲁本人并不是通过创建一个抽象模型，探索其内在的一致性，并确定其适用性于现象，以现代科学的理想方式来进行研究。相反，他从感官的证词开始，他认为感官总是可靠的。这为他提供了一个基础，可以就那些仍在等待确认的事物或那些本质上是不可感知的事物得出结论（《给希罗多德的信》= LH 38）。因此，在这封信中开始他对物质世界的描述时，他认为事物不能从虚无中产生，否则就不需要特定的种子来生长特定的植物和动物，任何东西都可以从任何类型的物质元素中生成。由于我们没有看到这种情况发生，但我们可以用感官观察到的事物的繁殖是有秩序和确定的，因此在任何层面上的自发生成都被排除了。这种逻辑是伊壁鸠鲁所谓的反证：一个假设的前提（在这里，有时事物会从虚无中产生）被排除，因为经验反对其结论（在这里，可见物体的产生并不需要确定的种子或材料）。更简单地说，如果 A 则 B；但不是 B，因此不是 A。当然，有人可能质疑这个推论：即使没有鸡生出马的案例，也可能有事物从虚无中产生。然而，重要的是，伊壁鸠鲁借助感知数据来证明或反驳基本现象的性质；他假定在所有层面上自然的某种一致性。他的下一个假设也是如此：事物不会毁灭为不存在的东西，因为在那种情况下一切都将停止存在（并且在无限的过去时间内，一切都将在此之前停止存在——请记住，没有东西是从虚无中创造出来的）；但事物确实存在，因此前提是错误的。
 
@@ -64,13 +64,13 @@
 
 尽管我们对于伊壁鸠鲁关于人类社会演变观点的主要见证是卢克莱修的诗歌 (5.925–1457), 但毫无疑问卢克莱修主要是遵循创始人的思想，这些思想记录在伊壁鸠鲁的《自然论》和其他著作中。在开始时，人类是孤独的；他们随意繁殖，无法口头交流，没有社会制度，生存是因为他们比现代后代更加强壮。随着时间的推移，人类变得柔和，部分原因是因为发现了火，另一部分原因是家庭的出现以及对配偶和后代更温和的情感，这些情感是家庭产生的结果。在这个阶段，人类有能力团结起来以抵御自然危险，比如野兽，他们发展了各种技术技能，比如农业和建造房屋，以及语言。伊壁鸠鲁解释 (LH 75–76) 最初名称是自然产生的，意思是随着人类经历不同的情感 (pathê) 或接收到各种形象 (phantasmata) 他们释放出与这些刺激相对应的空气；然而，由于人类的身体特征在不同地方略有不同，人们对于任何给定刺激产生的声音也会有所不同，这解释了为什么有许多种语言。在此基础上，人们后来，逐个国家，通过约定确定了某些术语，以提高交流的清晰度和简洁性。最后，某些个人专家通过引入新的和专门的词汇，以解释他们理论研究的结果，进一步扩充了词汇。一旦语言发展到一定程度，人们开始建立联盟和友谊，这进一步促进了集体安全。
 
-这种早期形式的社会生活具有各种优势：其中之一是物品的相对稀缺防止了过度竞争（分享对生存是必需的），从而限制了那些在后来更富裕的社会阶段会导致战争和其他混乱的不自然欲望。似乎在语言完全发展之前，词语或多或少地符合它们的原始或原始对象，并且还不是心智混乱的源泉。但由于财富逐渐积累，对物品的争夺开始影响社会关系，并出现了统治他人的国王或暴君，他们的统治不是凭借体力而是凭借黄金。这些独裁者又被推翻，经过一段暴力无政府状态的时期，人们最终认识到生活在法治之下的智慧。这似乎代表了政治组织的最高成就，但对于伊壁鸠鲁派来说并非如此。因为随着法律的出现，普遍存在对惩罚的恐惧，这污染了生活的祝福（卢克莱修斯 5.1151; 参见[菲洛德莫斯]《论选择与避免》第十二栏）。在这一点上，卢克莱修斯描述了宗教迷信和对神的恐惧的起源，尽管他没有直接将这种焦虑与人类法律下的惩罚恐惧联系起来，但他确实指出，雷电被解释为神对人类罪恶的愤怒迹象（5.1218-25）。尽管早期社会或早期共同体阶段的原始人可能会对自然力量的这种表现感到敬畏，并将其归因于神的行动，但在法律制度下的惩罚概念变得熟悉之前，他们不一定会将其解释为对人类罪行的惩罚。早期人们知道神灵的存在是因为他们发出的假像，尽管根据伊壁鸠鲁的观点，神灵的确切本质仍然不清楚（有关对比解释，请参见康斯坦 2011 年和塞德利 2011 年）；但对他来说，神灵并不关心人类的事务，因为这将损害他们的幸福（参见奥宾克 1996 年：321-23）。
+这种早期形式的社会生活具有各种优势：其中之一是物品的相对稀缺防止了过度竞争（分享对生存是必需的），从而限制了那些在后来更富裕的社会阶段会导致战争和其他混乱的不自然欲望。似乎在语言完全发展之前，词语或多或少地符合它们的原始或原始对象，并且还不是心智混乱的源泉。但由于财富逐渐积累，对物品的争夺开始影响社会关系，并出现了统治他人的国王或暴君，他们的统治不是凭借体力而是凭借黄金。这些独裁者又被推翻，经过一段暴力无政府状态的时期，人们最终认识到生活在法治之下的智慧。这似乎代表了政治组织的最高成就，但对于伊壁鸠鲁派来说并非如此。因为随着法律的出现，普遍存在对惩罚的恐惧，这污染了生活的祝福（卢克莱修斯 5.1151; 参见 [菲洛德莫斯]《论选择与避免》第十二栏）。在这一点上，卢克莱修斯描述了宗教迷信和对神的恐惧的起源，尽管他没有直接将这种焦虑与人类法律下的惩罚恐惧联系起来，但他确实指出，雷电被解释为神对人类罪恶的愤怒迹象（5.1218-25）。尽管早期社会或早期共同体阶段的原始人可能会对自然力量的这种表现感到敬畏，并将其归因于神的行动，但在法律制度下的惩罚概念变得熟悉之前，他们不一定会将其解释为对人类罪行的惩罚。早期人们知道神灵的存在是因为他们发出的假像，尽管根据伊壁鸠鲁的观点，神灵的确切本质仍然不清楚（有关对比解释，请参见康斯坦 2011 年和塞德利 2011 年）；但对他来说，神灵并不关心人类的事务，因为这将损害他们的幸福（参见奥宾克 1996 年：321-23）。
 
 如果一个人不害怕神灵，那么生活公正的动机是什么？在法律存在的情况下，伊壁鸠鲁指出，最好不要犯罪，即使是秘密的，因为总会担心可能被发现，这将破坏生活中幸福的主要基础——宁静或无忧无虑（见《主要信条》= KD 34–35）。对于伊壁鸠鲁来说，正义取决于能力，既不伤害他人也不受到伤害的能力，并且正是在这些协议中包含；正义本身并不是什么，独立于这些安排之外（KD 31–33）。根据伊壁鸠鲁（LM 132，KD 5）的说法，一个无法谨慎、光荣和公正地生活的人无法快乐地生活，反之亦然。此外，谨慎或智慧（phronêsis）是所有美德的首要：其他一切都依赖于它。这再次听起来像是在计算，好像正义纯粹是一个保持不被扰乱的务实和自私的问题。伊壁鸠鲁没有考虑柏拉图在《理想国》（359C–360D）中提出的思想实验，柏拉图在其中问一个绝对不会受到惩罚的人是否有理由做到公正。伊壁鸠鲁对这样的挑战有答案吗？他可能只是否认任何人可以完全自信地这样做。然而，也许他确实有回答，但这是从心理学领域而非伦理学领域得出的。了解什么是可取的和什么是可畏的人不会被激励去获取过多的财富或权力，而是尽可能过着平静的生活，避免政治和一般的纷争。因此，一个伊壁鸠鲁智者不会有动机侵犯他人的权利。智者是否会是有德行的可能是有争议的；伊壁鸠鲁所说的是，他会过着有德行的生活，即谨慎、光荣和公正的生活（副词结构可能很重要）。他这样做不是因为获得的性格或习性，如亚里士多德所说的，而是因为他知道如何正确地推理他的需求。因此，他的欲望将局限于那些是自然的（不是空虚的），因此很容易满足，或者至少如果有时无法满足也不会成为干扰的源泉。
 
 ## 6. 伊壁鸠鲁的生活
 
-伊壁鸠鲁非常重视友谊（或爱：philia）。一句比伊壁鸠鲁通常更具诗意的说法是：“友谊在世界各地跳舞，向我们所有人宣告要醒来迎接幸福”（梵蒂冈格言 = VS 52）。伊壁鸠鲁认为，一个智者对朋友的折磨感受不会比自己的少，宁愿为朋友而死，也不愿背叛他，否则他自己的生命将会混乱（VS 56–57）。对于一个将生活中唯一的目标定为基于摆脱身体疼痛和精神焦虑的幸福的哲学家来说，这些都是非常利他主义的情感。伊壁鸠鲁可以通过他用来支持公正生活的谨慎计算来证明这种态度：只有通过以忠诚朋友被视为至高价值的方式生活，一个人才能感到在朋友中安全，并最大化自己的幸福感。然而，当伊壁鸠鲁说“友谊[或爱]最初是出于功利，但应该被选择[或是一种美德，如果我们遵循手稿的阅读]是为了它本身”（VS 23）时，这似乎并不是伊壁鸠鲁的本意。在西塞罗的《论道德的目的》（1.66–70）中报告称，后来的伊壁鸠鲁学派对友谊存在分歧。由于人类最初是非社会化的，后来才学会形成联盟和契约，因此伊壁鸠鲁可能是想说这种友谊的能力是出于需要，但一旦获得了这种感情的能力，感受这些感情就成为了一种价值。这个论点类似于现代的利他主义可能是由自然选择的结果发展而来的想法。但证据并不允许对这个问题做出坚定的结论。
+伊壁鸠鲁非常重视友谊（或爱：philia）。一句比伊壁鸠鲁通常更具诗意的说法是：“友谊在世界各地跳舞，向我们所有人宣告要醒来迎接幸福”（梵蒂冈格言 = VS 52）。伊壁鸠鲁认为，一个智者对朋友的折磨感受不会比自己的少，宁愿为朋友而死，也不愿背叛他，否则他自己的生命将会混乱（VS 56–57）。对于一个将生活中唯一的目标定为基于摆脱身体疼痛和精神焦虑的幸福的哲学家来说，这些都是非常利他主义的情感。伊壁鸠鲁可以通过他用来支持公正生活的谨慎计算来证明这种态度：只有通过以忠诚朋友被视为至高价值的方式生活，一个人才能感到在朋友中安全，并最大化自己的幸福感。然而，当伊壁鸠鲁说“友谊 [或爱] 最初是出于功利，但应该被选择 [或是一种美德，如果我们遵循手稿的阅读] 是为了它本身”（VS 23）时，这似乎并不是伊壁鸠鲁的本意。在西塞罗的《论道德的目的》（1.66–70）中报告称，后来的伊壁鸠鲁学派对友谊存在分歧。由于人类最初是非社会化的，后来才学会形成联盟和契约，因此伊壁鸠鲁可能是想说这种友谊的能力是出于需要，但一旦获得了这种感情的能力，感受这些感情就成为了一种价值。这个论点类似于现代的利他主义可能是由自然选择的结果发展而来的想法。但证据并不允许对这个问题做出坚定的结论。
 
 当伊壁鸠鲁谈到友谊时，他可能至少部分地考虑到了他的追随者之间的关系，他们似乎认为自己是朋友。饱食主义者被鼓励组建社区并遵守某些仪式，尽管这些做法中的大多数，比如每个月庆祝伊壁鸠鲁诞辰日（20 日）或佩戴印有伊壁鸠鲁形象的戒指，可能是在创始人去世后才产生的。饱食主义者也关注教育问题，阐明了纠正新入学者和社区成员观念的最佳方式，而不是讨好或打击他们。必须记住，伊壁鸠鲁将哲学的任务首先看作是一种治疗生活的形式，因为不能治愈灵魂的哲学不比不能治愈身体的药物更好（Usener 1887，碎片 221）。一种没有精神焦虑并且敞开接受其他快乐的生活被认为与神的生活相等。事实上，我们从神那里获得了幸福的形象，通过从他们的住所传达给我们的假象，而对于饱食主义者来说，祈祷并不是请求恩惠，而是对这种愿景的接受。（伊壁鸠鲁鼓励实行传统的崇拜仪式。）尽管他们认为神是不朽的和不可摧毁的（这在唯物主义宇宙中如何运作仍不清楚），但人类的快乐可能与神的快乐相等，因为伊壁鸠鲁坚持认为（KD 19），快乐不会因持续时间而增加（比较完美健康的概念，持续时间更长并不会更完美）；一个完全没有精神困扰，没有身体疼痛干扰的人所经历的灾难性快乐处于绝对顶峰。这种快乐也不难实现：这正是那些既非自然又非必需的欲望的标志，它们很难满足。伊壁鸠鲁以少为知，因为在这样的饮食中，一点点美味就像一顿盛宴一样好，此外，实现自给自足更容易，“自给自足的最大好处就是自由”（VS 77）。
 
@@ -89,24 +89,24 @@
 * Hammerstaedt, Jürgen, Pierre-Marie Morel, Refik Güremen (eds.), 2017. *Diogenes of Oinoanda: Epicureanism and Philosophical Debates / Diogène d’Œnoanda: Épicurisme et Controverses*, Leuven: Leuven University Press.
 * Hessler, Jan Erik, 2014. *Epikur: Brief an Menoikeus*, Basil. (Best commentary on this epistle.)
 * Indelli, Giovanni and Voula Tsouna-McKirahan (eds.), 1995. [*Philodemus*]: [*On Choices and Avoidances*], Naples: Bibliopolis.
-* Inwood, Brad and L.P. Gerson, 1997. *Hellenistic Philosophy: Introductory Readings*, 2nd edition, Indianapolis: Hackett. (Translation of principal sources. The Epicurean part is also published separately.)
-* Konstan, David (trans.), 1989. *Simplicius on Aristotle’s Physics 6*, Ithaca, NY and London: Cornell University Press and Duckworth.
-* Konstan, David, Diskin Clay, Clarence Glad, Johan Thom, and James Ware, 1998. *Philodemus On Frank Criticism: Introduction, Translation and Notes*, Atlanta: Society of Biblical Literature Texts and Translations (Greco-Roman Religion).
-* Laursen, Simon, 1995. “The Early Parts of Epicurus, On Nature, 25th Book,” *Cronache Ercolanesi*, 25: 5–109.
-* –––, 1997. “The Later Parts of Epicurus, On Nature, 25th Book,” *Cronache Ercolanesi*, 27: 5–83.
-* Leone, Giuliana, 1984. “Epicuro, ‘Della natura,’ libro XIV,” *Cronache Ercolanesi*, 14: 17–107.
-* –––, 2012. *Epicuro* Sulla natura *libro II*, Naples: Bibliopolis. (Splendid edition with major introduction on simulacra and related questions.)
-* Long, A.A. and David Sedley, 1987. *The Hellenistic Philosophers*, 2 volumes, Cambridge: Cambridge University Press. (Excellent collection of sources, with Greek text in volume 2, arranged by topic.)
-* Mensch, Pamela (trans.), 2018. *Diogenes Laertius: Lives of the Eminent Philosophers*. Oxford: Oxford University Press. (Best and most accessible English version, based on Dorandi’s text.)
-* Millot, C., 1977. “Epicure ‘De la nature’ livre XV,” *Cronache Ercolanesi*, 7: 9–39.
-* Obbink, Dirk, 1996. *Philodemus De pietate*, Oxford: Clarendon Press.
-* Sedley, David, 1973. “Epicurus, ‘On Nature’ Book XXVIII,” *Cronache Ercolanesi*, 3: 5–83.
-* Smith, Martin Ferguson (ed.), 1993. *Diogenes of Oenoanda: The Epicurean Inscription*, Naples: Bibliopolis.
-* Stern, Jacob (trans.), 1996. *Palaephatus: On Unbelievable Tales*, Wauconda, IL : Bolchazy-Carducci Publishers.
-* Taylor, C.C.W. (ed.), 1999. *The Atomists: Leucippus and Democritus: A Text and Translation with a Commentary* (The Phoenix Presocratics 5 = Phoenix Supplementary Volume 36), Toronto: The University of Toronto Press.
-* Usener, Hermann, 1887. *Epicurea*. Leipzig: Teubner. Italian translation by Ilaria Ramelli, *Epicurea: Testi di Epicuro e testimonianze epicuree nell’edizione di Hermann Usener*, Milan: Bompiani, 2002. (Most complete collection of fragments.)
-* Verde, Francesco, 2010. *Epicuro Epistola a Erodoto*. Rome: Carocci. (The best edition of this fundamental work.)
-* Verde, Francesco (ed.), 2022. *Epicuro, Epistola a Pitocle*, in collaboration with M. Tulli, D. De Sanctis, F. G. Masi, Academia Verlag, Baden-Baden.
+* Inwood, Brad and L.P. Gerson, 1997. * Hellenistic Philosophy: Introductory Readings*, 2nd edition, Indianapolis: Hackett. (Translation of principal sources. The Epicurean part is also published separately.)
+* Konstan, David (trans.), 1989. * Simplicius on Aristotle’s Physics 6*, Ithaca, NY and London: Cornell University Press and Duckworth.
+* Konstan, David, Diskin Clay, Clarence Glad, Johan Thom, and James Ware, 1998. * Philodemus On Frank Criticism: Introduction, Translation and Notes*, Atlanta: Society of Biblical Literature Texts and Translations (Greco-Roman Religion).
+* Laursen, Simon, 1995. “The Early Parts of Epicurus, On Nature, 25th Book,” * Cronache Ercolanesi*, 25: 5–109.
+* –––, 1997. “The Later Parts of Epicurus, On Nature, 25th Book,” * Cronache Ercolanesi*, 27: 5–83.
+* Leone, Giuliana, 1984. “Epicuro, ‘Della natura,’ libro XIV,” * Cronache Ercolanesi*, 14: 17–107.
+* –––, 2012. * Epicuro * Sulla natura * libro II*, Naples: Bibliopolis. (Splendid edition with major introduction on simulacra and related questions.)
+* Long, A.A. and David Sedley, 1987. * The Hellenistic Philosophers*, 2 volumes, Cambridge: Cambridge University Press. (Excellent collection of sources, with Greek text in volume 2, arranged by topic.)
+* Mensch, Pamela (trans.), 2018. * Diogenes Laertius: Lives of the Eminent Philosophers*. Oxford: Oxford University Press. (Best and most accessible English version, based on Dorandi’s text.)
+* Millot, C., 1977. “Epicure ‘De la nature’ livre XV,” * Cronache Ercolanesi*, 7: 9–39.
+* Obbink, Dirk, 1996. * Philodemus De pietate*, Oxford: Clarendon Press.
+* Sedley, David, 1973. “Epicurus, ‘On Nature’ Book XXVIII,” * Cronache Ercolanesi*, 3: 5–83.
+* Smith, Martin Ferguson (ed.), 1993. * Diogenes of Oenoanda: The Epicurean Inscription*, Naples: Bibliopolis.
+* Stern, Jacob (trans.), 1996. * Palaephatus: On Unbelievable Tales*, Wauconda, IL : Bolchazy-Carducci Publishers.
+* Taylor, C.C.W. (ed.), 1999. * The Atomists: Leucippus and Democritus: A Text and Translation with a Commentary* (The Phoenix Presocratics 5 = Phoenix Supplementary Volume 36), Toronto: The University of Toronto Press.
+* Usener, Hermann, 1887. * Epicurea *. Leipzig: Teubner. Italian translation by Ilaria Ramelli, * Epicurea: Testi di Epicuro e testimonianze epicuree nell’edizione di Hermann Usener*, Milan: Bompiani, 2002. (Most complete collection of fragments.)
+* Verde, Francesco, 2010. * Epicuro Epistola a Erodoto*. Rome: Carocci. (The best edition of this fundamental work.)
+* Verde, Francesco (ed.), 2022. * Epicuro, Epistola a Pitocle*, in collaboration with M. Tulli, D. De Sanctis, F. G. Masi, Academia Verlag, Baden-Baden.
 
 ### Critical Studies
 

@@ -1,6 +1,6 @@
 # 日本净土宗哲学 Pure Land (Dennis Hirota)
 
-*首次发布于2012年11月19日星期一；实质性修订于2022年9月7日星期三*
+*首次发布于 2012 年 11 月 19 日星期一；实质性修订于 2022 年 9 月 7 日星期三*
 
 净土宗的教义从公元 6 世纪起在日本的知识界和社会生活中发挥了重要作用。当时，来自朝鲜半岛的使者首次正式向日本朝廷介绍了佛教的形象和经文，直到现在。虽然禅宗对日本思想和文化的影响被广泛承认，但净土宗的概念和情感的作用在西方往往只得到边缘的认可。然而，我们不可能忽视它们可能更具普遍性的力量。此外，正如铃木大拙（1870-1966）所指出的，
 
@@ -28,7 +28,7 @@
 
 ### 1.2 比较框架
 
-理解日本净土思想的另一个困难涉及与西方宗教传统的比较方法的陷阱。当卡尔·巴特（1886-1968）为了自己的辩论目的而调查世界各种宗教传统，寻找与基督教教义相似之处时，他得出结论，日本净土传统提供了“最精确、全面和可信的‘异教’与基督教相似之处”（巴特 1961，1,2: 342）。他对相似之处的深度和具体性表示了一些震惊，并评论说，特别是法然（1133-1212）和真宗（1173-1263）的净土思想
+理解日本净土思想的另一个困难涉及与西方宗教传统的比较方法的陷阱。当卡尔 · 巴特（1886-1968）为了自己的辩论目的而调查世界各种宗教传统，寻找与基督教教义相似之处时，他得出结论，日本净土传统提供了“最精确、全面和可信的‘异教’与基督教相似之处”（巴特 1961，1,2: 342）。他对相似之处的深度和具体性表示了一些震惊，并评论说，特别是法然（1133-1212）和真宗（1173-1263）的净土思想
 
 > 平行的不是罗马或希腊天主教，而是宗教改革时期的基督教，因此将基督教与其真理的问题置于其作为一种一致的恩典宗教的形式中。 （巴特 1961 年，1,2：342; 关于巴特比较性评论的讨论，请参见广田 2000a，尤其是第 35-38 页）
 
@@ -172,7 +172,7 @@
 
 法然在他所处时代以天台宗僧侣的广博学识和模范实践而闻名，直接表达了“深心”的两个方面：
 
-> 尽管佛教广博，本质上只由三学\[戒定慧]组成...但是对于戒律，我自己一个也没有遵守。在禅定中，我一个也没有修得。在智慧上，我没有修得断除分别思维、实现果位的正确智慧...然而，阿弥陀佛无论明智与愚痴、遵守戒律与违背戒律，都来欢迎我们。（《铁钉选择弘愿念佛集》、《浄土宗全书》第 7 卷：95-96 页记录）
+> 尽管佛教广博，本质上只由三学\[戒定慧] 组成...但是对于戒律，我自己一个也没有遵守。在禅定中，我一个也没有修得。在智慧上，我没有修得断除分别思维、实现果位的正确智慧...然而，阿弥陀佛无论明智与愚痴、遵守戒律与违背戒律，都来欢迎我们。（《铁钉选择弘愿念佛集》、《浄土宗全书》第 7 卷：95-96 页记录）
 
 正是在这种自我意识中，我们看到了法然对实践理解的彻底转变背后的力量。法然清楚地看到，除非对佛教传统中教授的无数实践进行全新的分类和评估的视角得以确立，他所理解的浄土道的真正意义将仍然模糊不清，而声音念佛将继续被所有人视为仅仅是低级修行者的一种方便的实践。因此，他提出了修行者的主观性问题，并坚持认为，基于自己的基本明晰和自主判断能力的常识性等级观念必须被放弃。为了实现这一转变，法然依靠了他创新的“从众多选择中选取”的概念（选择），这个概念最核心地指的是阿弥陀佛自己为众生选择了声音念佛作为单一、普遍可行的实践，从而导致众生往生浄土。众生修行浄土道因此是建立在阿弥陀佛对声音念佛的选择和满足上的。因此，我们看到，“深心”这种双重意识是法然道的核心。
 
@@ -200,7 +200,7 @@
 
 追随法然的弟子们追求在净土中诞生只需一声信仰的教义，并探索了这种教义之所以如此以及对现世生活的影响。正如我们所见，法然教导声音念佛与其他一切修行有着质的区别，因为它作为修行是有效的，这是因为它已经被阿弥陀佛实现并赋予众生。关于它是如何被赋予的问题仍然存在。对于像性空这样的弟子来说，念佛是由阿弥陀佛决定的，但它保留了作为修行的质量，因为一个人在一生中要不断地重复念佛，即使教导只需一声信仰即可。然而，像信仰者和性空这样的思想家都理解念佛的发声是实现修行的原因，因为它源于众生与佛陀的合一，表现为信心或皈依。此外，由于这种合一，一个人在当下完全实现了在净土中诞生的目标。
 
-单一性的效果不仅在死后在净土出生的发生中显现，而且在现世以各种方式显现。Shōkū谈到念佛者在现世中获得的各种好处，包括消除过去恶行的影响，延长寿命，避免各种灾难，保护佛陀，见到阿弥陀佛等等。人们不应为了自己而追求这些好处，但对于净土出生已经确定的念佛者来说，这些好处自然而然地发生。因此，为了表达念佛修行者的状态，Shōkū甚至区分了两种净土“出生”，一种是在现世中仍然负担着痛苦激情的“即时出生”（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在���后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）��即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即
+单一性的效果不仅在死后在净土出生的发生中显现，而且在现世以各种方式显现。Shōkū 谈到念佛者在现世中获得的各种好处，包括消除过去恶行的影响，延长寿命，避免各种灾难，保护佛陀，见到阿弥陀佛等等。人们不应为了自己而追求这些好处，但对于净土出生已经确定的念佛者来说，这些好处自然而然地发生。因此，为了表达念佛修行者的状态，Shōkū 甚至区分了两种净土“出生”，一种是在现世中仍然负担着痛苦激情的“即时出生”（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在 ��� 后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）�� 即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即在死后出生）（即
 
 Shōkū’s thinking about ethical life reflects the same elements seen in relation to benefits in this life: the person continues to act out of ignorance and self-attachment, but conduct manifesting oneness with Amida Buddha may also emerge spontaneously. He speaks, for example, of the elimination of the effects of past evil acts through repentance (*zange metsuzai*). He distinguishes, however, between two kinds or stages of repentance, that which is deliberately undertaken at particular times through ones own powers of self-reflection and contrition, but which is difficult to achieve (*gyōmon no zange*), and that which arises spontaneously and immediately as the working of the vow (*kanmon no zange*). As seen here, ethical behavior is not prescribed and undertaken as another form of praxis, but Other Power may function of itself in the life of the nembutsu practitioner to suppress evil and manifest compassion action.
 
@@ -222,15 +222,15 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 ### 5.1 Christian Critique of 净土宗
 
-在日本开放到1893年芝加哥世界宗教议会之间的四十年里，佛教机构面对激进社会变革和基督教传教的涌入，被迫采取了主要的防御姿态。佛教改革运动开始兴起，但总体而言，这是一个重新组织、辩护和新组织发展而非知识发展的时期。基督教传教士对日本佛教的观察和批评揭示了佛教徒试图应对的挑战。一个例子是1883年，康格里（M. L. Gordon，1844-1900）在大阪向“日本基督教会传教士大会”发表的演讲。康格里是一位日本佛教学者，也是日语和英语传单的作者，他在演讲中讨论了“佛教作为接受福音的障碍的宗教影响”（Gordon 1883）。他指出，在他所处的现代化日本，“受过教育的阶层中有很多人不仅对佛教没有同情，而且还强烈憎恨它。”然而，他认为佛教仍然是传教的主要障碍。此外，他将净土宗佛教，特别是在真宗思想传统下的真宗佛教（Jōdo Shinshū），视为“最受欢迎和最繁荣”的佛教学派。康格里对日本佛教，特别是对真宗佛教的批评，突显了佛教思想家在现代时代一直在努力应对的问题：面对现代知识的理性理解、存在性参与和社会行动。
+在日本开放到 1893 年芝加哥世界宗教议会之间的四十年里，佛教机构面对激进社会变革和基督教传教的涌入，被迫采取了主要的防御姿态。佛教改革运动开始兴起，但总体而言，这是一个重新组织、辩护和新组织发展而非知识发展的时期。基督教传教士对日本佛教的观察和批评揭示了佛教徒试图应对的挑战。一个例子是 1883 年，康格里（M. L. Gordon，1844-1900）在大阪向“日本基督教会传教士大会”发表的演讲。康格里是一位日本佛教学者，也是日语和英语传单的作者，他在演讲中讨论了“佛教作为接受福音的障碍的宗教影响”（Gordon 1883）。他指出，在他所处的现代化日本，“受过教育的阶层中有很多人不仅对佛教没有同情，而且还强烈憎恨它。”然而，他认为佛教仍然是传教的主要障碍。此外，他将净土宗佛教，特别是在真宗思想传统下的真宗佛教（Jōdo Shinshū），视为“最受欢迎和最繁荣”的佛教学派。康格里对日本佛教，特别是对真宗佛教的批评，突显了佛教思想家在现代时代一直在努力应对的问题：面对现代知识的理性理解、存在性参与和社会行动。
 
-戈登对净土宗佛教的批评始于他断言它“不是释迦牟尼所教的佛教”，甚至更进一步地称“日本真宗所教的佛教在某些方面与释迦牟尼的教义完全相反”（戈登1882年，第108页）。戈登利用当时的梵文和巴利文的欧洲学术研究，列举了“释迦牟尼所教的佛教”与“所谓的大乘佛教”教义之间的矛盾，后者“是对真理的曲解而非否定，因此更加危险。”戈登遇到的问题部分是与西方理性的冲突，他称之为“佛教思维能够毫不认识地直面逻辑矛盾的能力。”然而，对他来说更重要的是，净土传统中被认为是“原始佛教”的偏离，将其转变为一种基督教式的宗教。
+戈登对净土宗佛教的批评始于他断言它“不是释迦牟尼所教的佛教”，甚至更进一步地称“日本真宗所教的佛教在某些方面与释迦牟尼的教义完全相反”（戈登 1882 年，第 108 页）。戈登利用当时的梵文和巴利文的欧洲学术研究，列举了“释迦牟尼所教的佛教”与“所谓的大乘佛教”教义之间的矛盾，后者“是对真理的曲解而非否定，因此更加危险。”戈登遇到的问题部分是与西方理性的冲突，他称之为“佛教思维能够毫不认识地直面逻辑矛盾的能力。”然而，对他来说更重要的是，净土传统中被认为是“原始佛教”的偏离，将其转变为一种基督教式的宗教。
 
-戈登提出了“三大圣经教义”，这些教义对他来说证明了基督教优于日本佛教的地位：“上帝、罪恶和救赎。”这些教义涉及到我们所考虑的本体论、人类学和伦理学的哲学问题，并预示了日本佛教徒将在 20 世纪继续探讨的主题。戈登首先谈到了“使佛教徒对上帝有一个充分的概念的困难。”在这里，上帝作为创造者的概念对戈登来说至关重要，部分原因是因为它在上帝中确认了一种独特的超越性，而这在佛陀的概念中是不存在的。正如日本佛教徒在与基督教的首次接触中指出的那样，神圣化身的概念很容易适应广泛的日本佛教范式，即形式从无形的现实中出现。用戈登的话来说，“化身的教义可以被称为……被佛教严重贬低了。化身是频繁的。”此外，与出现或显现相关的是非二元性的本体论模糊性。因此，戈登发现，也许有些沮丧，“如果我们问传教这个\[净土]教义的僧侣……阿弥陀是否真的存在，他可能在一些挣扎后承认，对于这个问题的任何观点都是完全可接受的。”
+戈登提出了“三大圣经教义”，这些教义对他来说证明了基督教优于日本佛教的地位：“上帝、罪恶和救赎。”这些教义涉及到我们所考虑的本体论、人类学和伦理学的哲学问题，并预示了日本佛教徒将在 20 世纪继续探讨的主题。戈登首先谈到了“使佛教徒对上帝有一个充分的概念的困难。”在这里，上帝作为创造者的概念对戈登来说至关重要，部分原因是因为它在上帝中确认了一种独特的超越性，而这在佛陀的概念中是不存在的。正如日本佛教徒在与基督教的首次接触中指出的那样，神圣化身的概念很容易适应广泛的日本佛教范式，即形式从无形的现实中出现。用戈登的话来说，“化身的教义可以被称为……被佛教严重贬低了。化身是频繁的。”此外，与出现或显现相关的是非二元性的本体论模糊性。因此，戈登发现，也许有些沮丧，“如果我们问传教这个\[净土] 教义的僧侣……阿弥陀是否真的存在，他可能在一些挣扎后承认，对于这个问题的任何观点都是完全可接受的。”
 
 对于戈登来说，上帝作为创造者是其他两个关键教义的关键所在，即罪恶和救赎。由于没有创造者的概念，佛教“不承认宇宙的至高和智慧的统治者和审判者。”这导致了“对罪恶的非常不充分的理解”，这种理解将罪恶轻视，并实际上促进了“不道德行为”。另一个后果是，佛教中的救赎是“从现世的痛苦中得救，而不是从罪恶中得救。”换句话说，净土宗佛教贬低了现世的重要性，只关注未来的拯救承诺。
 
-基督教对日本佛教徒的挑战涉及到戈登所表达的“对人们心灵和生活的控制权”，这并不一定是日本寺庙僧侣所追求的，他们的主要职责是进行纪念仪式的日历。在他的自传中，戈登谈到了他的信徒对他们经历深度的证言。他说：“将\[罪]作为个人负担的强烈印象并不常见。一位老太太证明她几乎没有把自己看作罪人，直到她开始听到这‘新的方式’……只有基督教带来真正的悔改”（戈登 1893 年，第 213-214 页）。
+基督教对日本佛教徒的挑战涉及到戈登所表达的“对人们心灵和生活的控制权”，这并不一定是日本寺庙僧侣所追求的，他们的主要职责是进行纪念仪式的日历。在他的自传中，戈登谈到了他的信徒对他们经历深度的证言。他说：“将\[罪] 作为个人负担的强烈印象并不常见。一位老太太证明她几乎没有把自己看作罪人，直到她开始听到这‘新的方式’……只有基督教带来真正的悔改”（戈登 1893 年，第 213-214 页）。
 
 戈登进一步表示：“基督教使对人类的爱心服务比其他宗教更加突出。”传教士们对于个人和集体社会伦理的表达挑战激发了佛教徒建立学校、医院和各种形式的牧师职位。
 
@@ -242,23 +242,23 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 
 对于佛教徒来说，哲学和宗教不仅成为将佛教与基督教定位的手段，还成为将其与基督教拉开距离以谋取自身利益的手段，特别是在与现代科学知识的关系上。这里的中心人物是井上円了（1858-1919），他出生在净土宗的一位寺庙僧侣家庭，一生都活跃在教育界和公共知识分子界。
 
-井上的策略是将佛教视为一种哲学模式的宗教。他在描述佛教的目标和方法时使用了这两个范畴，试图证明其优越性超过基督教。一方面，佛教与所有宗教的核心关注点相同，即“绝对世界”（绝对世界）：“宗教教导我们的相对心灵进入绝对世界的方法。在佛教中，这就是迷想的颠覆和觉悟的觉醒。迷想指的是有限，而觉悟则意味着无限”（《迷信与宗教》，1916年，引自约瑟夫森2012年，第159页）。另一方面，当佛教生活中附着的迷信实践被剥离时，其根植于理性和因果关系的基本思维方式被视为类似于科学和哲学思维。在这一点上，它与基督教不同，井上认为基督教基于启示和神创造。为了反驳戈登提出的将创造论作为真正宗教基础的观念，日本佛教徒借鉴了西方的进化科学，将其视为剪除迷信的工具，以更恰当地呈现“哲学”版本的宗教。
+井上的策略是将佛教视为一种哲学模式的宗教。他在描述佛教的目标和方法时使用了这两个范畴，试图证明其优越性超过基督教。一方面，佛教与所有宗教的核心关注点相同，即“绝对世界”（绝对世界）：“宗教教导我们的相对心灵进入绝对世界的方法。在佛教中，这就是迷想的颠覆和觉悟的觉醒。迷想指的是有限，而觉悟则意味着无限”（《迷信与宗教》，1916 年，引自约瑟夫森 2012 年，第 159 页）。另一方面，当佛教生活中附着的迷信实践被剥离时，其根植于理性和因果关系的基本思维方式被视为类似于科学和哲学思维。在这一点上，它与基督教不同，井上认为基督教基于启示和神创造。为了反驳戈登提出的将创造论作为真正宗教基础的观念，日本佛教徒借鉴了西方的进化科学，将其视为剪除迷信的工具，以更恰当地呈现“哲学”版本的宗教。
 
-井上借鉴了在“比较宗教”或“宗教科学研究”领域中流行的西方概念和框架。马克斯·米勒（Max Müller）的思想影响了世界宗教议会的精神，许多日本佛教徒参与其中，他谈到了人类对历史世界中的无限或绝对的信仰，以及“构思难以想象之事”的“斗争”（《宗教科学导论》，1870 年，引自 Ketelaar 1990，第 146 页）。这种语言被认为与佛教传统产生共鸣，为日本佛教徒提供了在现代哲学上可识别的广泛范畴，使他们能够将自己的传统置于其中。
+井上借鉴了在“比较宗教”或“宗教科学研究”领域中流行的西方概念和框架。马克斯 · 米勒（Max Müller）的思想影响了世界宗教议会的精神，许多日本佛教徒参与其中，他谈到了人类对历史世界中的无限或绝对的信仰，以及“构思难以想象之事”的“斗争”（《宗教科学导论》，1870 年，引自 Ketelaar 1990，第 146 页）。这种语言被认为与佛教传统产生共鸣，为日本佛教徒提供了在现代哲学上可识别的广泛范畴，使他们能够将自己的传统置于其中。
 
 ### 5.3 净土宗的存在主义参与
 
-前述的 M·L·戈登声称，经验性的转变——“对罪恶的深刻个人厌恶”或对“罪恶的确定和现在的宽恕”的意识——是真正宗教的标志。他认为，这种转变经历赋予了基督教一种在现代时代日本佛教所缺乏的力量，他认为日本佛教已经衰落并在现代广泛受到质疑。诚然，净土宗佛教中缺乏基督教的罪恶和宽恕的概念。然而，一些佛教思想家感到受到了挑战，他们试图发展净土传统的实践维度，同时采用井上的哲学术语。他们接受了基督教的批评，承认基督教的力量对于“一个有活力的宗教”是不可或缺的。
+前述的 M·L· 戈登声称，经验性的转变——“对罪恶的深刻个人厌恶”或对“罪恶的确定和现在的宽恕”的意识——是真正宗教的标志。他认为，这种转变经历赋予了基督教一种在现代时代日本佛教所缺乏的力量，他认为日本佛教已经衰落并在现代广泛受到质疑。诚然，净土宗佛教中缺乏基督教的罪恶和宽恕的概念。然而，一些佛教思想家感到受到了挑战，他们试图发展净土传统的实践维度，同时采用井上的哲学术语。他们接受了基督教的批评，承认基督教的力量对于“一个有活力的宗教”是不可或缺的。
 
 这里代表日本佛教的人物是净土宗僧侣清沢満之（1863-1903），他是井上的年轻助手，也曾在东京帝国大学学习西方哲学。尽管他早逝，但清沢的努力使真宗佛教寺庙机构民主化和现代化的影响深远，深深影响了东本愿寺传统的后继思想家。像井上一样，他在哲学中通过理性，在宗教中通过信仰，谈到了有限和无限（或绝对）的中介。然而，清沢在他明确的实践导向上与众不同，探索了宗教生活中与绝对的相遇。在他二十多岁时，他开始了一种日常生活和饮食的苦行修行，几年后因患上肺结核而结束。在他生命的最后五年里，他对佛教早期经典和斯多噶哲学家埃比克提特斯中的内省精神修养产生了极大的吸引力。
 
-尽管清沢在他的著作中很少提及基督教，除了从比较哲学的角度反思创造论或一神论等教义之外，我们在他 1898 年的日记中发现了一些来自埃比克提特斯和其他古典文本的段落，以及标准英文记号下的圣经段落的引用。关于“上帝在人中”，他认为这是古典西方作家中的“古老教义”，清沢引用了五个圣经段落，包括：“岂不知你们的身子就是圣灵的殿吗？这圣灵是从神而来，住在你们里头的”（哥林多前书 6:19）；“要守着所交托你的善道，凭着那住在我们里面的圣灵，就是住在我们里面的圣灵的帮助，谨守这美好的东西”（提摩太后书 1:4）；“从来没有人看见过神，我们若彼此相爱，神就住在我们里面……他已将自己的灵赐给我们”（约翰一书 3:12-13）。
+尽管清沢在他的著作中很少提及基督教，除了从比较哲学的角度反思创造论或一神论等教义之外，我们在他 1898 年的日记中发现了一些来自埃比克提特斯和其他古典文本的段落，以及标准英文记号下的圣经段落的引用。关于“上帝在人中”，他认为这是古典西方作家中的“古老教义”，清沢引用了五个圣经段落，包括：“岂不知你们的身子就是圣灵的殿吗？这圣灵是从神而来，住在你们里头的”（哥林多前书 6: 19）；“要守着所交托你的善道，凭着那住在我们里面的圣灵，就是住在我们里面的圣灵的帮助，谨守这美好的东西”（提摩太后书 1: 4）；“从来没有人看见过神，我们若彼此相爱，神就住在我们里面……他已将自己的灵赐给我们”（约翰一书 3: 12-13）。
 
 这些参考资料表明他对圣经非常熟悉，可能是从年轻时开始。虽然清沢在这个背景下没有提到基督教本身，但在他追求即时体验、深入自我反省以及进行机构和教育改革的作品中，他似乎几乎体现了佛教对戈登指责佛教缺乏影响日常生活和道德社会行动力的回应。在他生命的最后阶段，清沢创建了一个追求“精神生活”的佛教运动（seishin-shugi），他将其定义为与绝对的个人邂逅。
 
 在清沢的弟子曾我良仁（1875-1971）身上，我们也发现了对宗教教义个人直接性的相同兴趣。与他的老师不同，曾我并不试图依靠哲学和科学的合法性，为佛教在理性哲学分析生活经验的限制之外找到一个位置，而是站在真宗佛教教义中，并试图展示它们的重要意义。他这样做是通过借鉴更广泛的大乘佛教概念，并有时将其与基督教的思维方式进行比较。
 
-在一篇为其他传教士解释阿弥陀佛和净土宗的文章中，戈登引用了瑞斯·戴维斯的话，将它们描述为“假设的存在，是病态学问的产物，是没有生命或现实的空洞抽象”（《阿弥陀佛的传说》）。在 19 世纪 80 年代，基督教传教士无疑相信揭露净土教义为“未知于释迦牟尼的故事”将导致“日本最强大的教派”的解体。净土佛教很清楚这样的批评，这可能促使曾我和其他人思考基督教的观念，以探索净土教义的存在主义和宗教意义。虽然寺庙机构曾为了辩论目的而追求基督教神学的研究，但到了 20 世纪初，一些佛教哲学家似乎获得了新的自信，让自己受到基督教神学观念的刺激。
+在一篇为其他传教士解释阿弥陀佛和净土宗的文章中，戈登引用了瑞斯 · 戴维斯的话，将它们描述为“假设的存在，是病态学问的产物，是没有生命或现实的空洞抽象”（《阿弥陀佛的传说》）。在 19 世纪 80 年代，基督教传教士无疑相信揭露净土教义为“未知于释迦牟尼的故事”将导致“日本最强大的教派”的解体。净土佛教很清楚这样的批评，这可能促使曾我和其他人思考基督教的观念，以探索净土教义的存在主义和宗教意义。虽然寺庙机构曾为了辩论目的而追求基督教神学的研究，但到了 20 世纪初，一些佛教哲学家似乎获得了新的自信，让自己受到基督教神学观念的刺激。
 
 在他的一篇重要论文《地上的救世主》中，曾我开头写道：
 
@@ -304,48 +304,48 @@ Such thinking may also be seen in Shinran, who includes, in his list of ten bene
 * Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011. “The Pure Land Tradition,” in *Japanese Philosophy: A Sourcebook*,\$$ Honolulu: University of Hawai‘i Press, 235–85.
 * Hirota, Dennis, 1993. “Shinran’s View of Language: A Buddhist Hermeneutics of Faith,” Eastern Buddhist, 26(1): 50–93 and 26(2): 91–130.
 * –––, 2000a, “Images of Reality in the Shin Buddhist Path: A Hermeneutical Approach,” in Hirota 2000b.
-* ––– (ed.), 2000b. *Toward a Contemporary Understanding of Pure Land Buddhism*, Albany, N. Y.: State University of New York Press. Articles by John B. Cobb, Jr., Dennis Hirota, Gordon D. Kaufman, Musashi Tachikawa, and John Yokota.
-* –––, 2006. *Asura’s Harp: Engagement with Language as Buddhist Path*, Heidelberg: Universitatsverlag Winter.
-* –––, 2008. “Shinran and Heidegger on Truth,” in Paul Numrich (ed.), *Boundaries of Knowledge in Buddhism, Christianity, and the Natural Sciences*, Göttingen: Vandenhoeck and Ruprecht, pp. 59–79.
-* –––, 2010. “Shinran in the Light of Heidegger: Rethinking the Concept of Shinjin,” in James Heisig and Rein Raud (eds.), *Classical Japanese Philosophy*, Frontiers of Japanese Philosophy 7, Nagoya: Nanzan Institute for Religion and Culture, 207–231.
-* –––, 2011. “The Awareness of the Natural World in *Shinjin*,” *Buddhist-Christian Studies* 31, 189–200.
-* –––, 2019. “How to Read Shinran,” in Gereon Kopf (ed.), *The Dao Companion to Japanese Buddhist Philosophy*, Dordrecht: Springer Nature, 415–449.
-* –––, 2020. “Philosophical Dimensions of Shinran’s Pure Land Buddhist Path,” in Bret W. Davis (ed.), *The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press, 159–180.
-* –––, 2022. “On Religious Engagement: Shinran and Heidegger’s Paul,” in Carol Anderson and Thomas Cattoi (eds.), *The Routledge Handbook of Buddhist-Christian Studies*, London: Routledge, 428–441.
-* –––, 2022. “The Nembutsu as Language: Shinran’s Conception of Practice,” *Buddhist-Christian Studies* 42.
-* Josephson, Jason Ānanda, 2012. *The Invention of Religion in Japan*, Chicago: University of Chicago Press.
-* Kasulis, Thomas P., 1984. “Buddhist Existentialism,” *Eastern Buddhist*, 17(2): 134–141.
-* –––, 2001. “Symposium: Shin Buddhist Ethics in Our Postmodern Age of_Mappō_,” *Eastern Buddhist*, 33(1): 16–37.
-* –––, 2018. *Engaging Japanese Philosophy: A Short History* (Chapter 5: Shinran: Naming What Comes Naturally), Honolulu: University of Hawai‘i Press.
-* Ketelaar, James Edward, 1990. *Of Heretics and Martyrs in Meiji Japan: Buddhism and Its Persecution*, Princeton, N.J.: Princeton University Press.
-* Machida, Soho, 1999. *Renegade Monk: Hōnen and Japanese Pure Land Buddhism*, Ioannis Mentzas (trans. and ed.), Berkeley: University of California Press.
-* Mattice, Sarah, 2022. “Shinran as Global Philosopher,” *Religions*, 13(2), 105.
-* Morrell, Robert E., 1987. *Early Kamakura Buddhism: A Minority Report*, Berkeley, CA: Asian Humanities Press.
-* Nishida, Kitaro, 1986. “The Logic of Topos and the Religious Worldview,” trans. Michiko Yusa, *Eastern Buddhist*, 19(2): 1–29.
-* –––, 1995. “Nishida’s Gutoku Shinran,” trans. Dennis Hirota, *Eastern Buddhist*, 28(2): 231–244.
-* Nishitani, Keiji, 1978. “The Problem of Time in Shinran,” trans. Dennis Hirota, *Eastern Buddhist*, 11(1): 13–26.
-* Payne, Richard K. and Kenneth K. Tanaka (eds.), 2004. *Approaching the Land of Bliss: Religious Praxis in the Cult of Amitābha*, Honolulu: University of Hawai‘i Press. (Includes an essay on the Pure Land practice of the Shingon priest Kakuban.)
-* Pye, Michael (ed.), 2011. *Beyond Meditation: Expressions of Japanese Shin Buddhist Spirituality.* London: Equinox Publishing.
-* –––, (ed.), 2012. *Listening to Shin Buddhism: Starting Points of Modern Dialogue.* London: Equinox Publishing.
-* Soga, Ryōjin, 1965. “Dharmakara Bodhisattva,” *Eastern Buddhist*, 1(1): 64–78.
-* Suzuki, D. T., 1970, *Shin Buddhism*, New York: Harper and Row.
-* –––, 1957. *Mysticism: Christian and Buddhist*, London: Routledge.
-* –––, 2015. *Selected Works of D.T. Suzuki* (Volume II: Pure Land), James C. Dobbins (ed.), Berkeley: University of California Press.
-* Tanabe, George J., 1992. *Myōe the Dreamkeeper: Fantasy and Knowledge in Early Kamakura Buddhism*, Cambridge, MA: Harvard University Press.
-* Tanabe, Hajime, 1986. *Philosophy as Metanoetics*, Berkeley: University of California Press.
-* Tanaka, Kenneth K. and Eisho Nasu (eds.), 1998. *Engaged Pure Land Buddhism: The Challenges of Jōdo-Shinshū in the Contemporary World*, Berkeley, CA: WisdomOcean Publications.
-* Takeuchi, Yoshinori, 1980. “Shinran and Contemporary Thought,” trans. Jan van Bragt, *Eastern Buddhist*, 13(2): 26–45.
-* –––, 1982. “The Meaning of Other Power in the Buddhist Way of Salvation,” *Eastern Buddhist*, 15(2): 10–27.
-* –––, 1983. *The Heart of Buddhism : In Search of the Timeless Spirit of Primitive Buddhism*, New York: Crossroad. Includes essays treating Shinran.
-* –––, 1996. “The Fundamental Problem of Shinran’s Thought (Part I),” *Eastern Buddhist*, 29(2): 153–158.
-* Thelle, Notto R., 1987. *Buddhism and Christianity in Japan: From Conflict to Dialogue, 1854–1899*, Honolulu: University of Hawai‘i Press.
-* Ueda, Yoshifumi, 1984. “The Mahayana Structure of Shinran’s Thought,” trans. Dennis Hirota, in *Eastern Buddhist*, 17(1): 57–78 and 17(2): 30–54.
-* –––, 1986. “Freedom and Necessity in Shinran’s Concept of Karma,” trans. Dennis Hirota, *Eastern* *Buddhist*, 19(1): 76–100.
-* Ueda, Yoshifumi and Dennis Hirota, 1989. *Shinran: An Introduction to His Thought*, Kyoto: Hongwanji International Center. (Includes background chapters on Mahayana and general Pure Land Buddhist thought and a selection of key passages from Shinran’s writings with original texts.)
-* Unno Taitetsu and James W. Heisig (eds.), 1990. *The Religious Philosophy of Tanabe Hajime* (Part I: Shin Buddhism). Berkeley: Asian Humanities Press.
-* van Bragt, Jan, 2017. *A Soga Ryōjin Reader*, Wamae Muriuki (ed.), Michael Conway (Introduction), Nagoya, Japan: Chisokudō.
-* van der Veere, Henny, 2000. *A Study into the Thought of Kōgyō Daishi Kakuban: With a Translation of His Gorin kuji myō himitsushaku*. Leiden: Hotei Publishing. (Twelfth century Shingon formulation of Pure Land themes. Includes a translation of *Amida hishaku*.)
-* Watt, Paul B., 2016. *Demythologizing Pure Land Buddhism: Yasuda Rijin and the Shin Buddhist Tradition*, Honolulu: University of Hawai‘i Press.
+* ––– (ed.), 2000b. * Toward a Contemporary Understanding of Pure Land Buddhism*, Albany, N. Y.: State University of New York Press. Articles by John B. Cobb, Jr., Dennis Hirota, Gordon D. Kaufman, Musashi Tachikawa, and John Yokota.
+* –––, 2006. * Asura’s Harp: Engagement with Language as Buddhist Path*, Heidelberg: Universitatsverlag Winter.
+* –––, 2008. “Shinran and Heidegger on Truth,” in Paul Numrich (ed.), * Boundaries of Knowledge in Buddhism, Christianity, and the Natural Sciences*, Göttingen: Vandenhoeck and Ruprecht, pp. 59–79.
+* –––, 2010. “Shinran in the Light of Heidegger: Rethinking the Concept of Shinjin,” in James Heisig and Rein Raud (eds.), * Classical Japanese Philosophy*, Frontiers of Japanese Philosophy 7, Nagoya: Nanzan Institute for Religion and Culture, 207–231.
+* –––, 2011. “The Awareness of the Natural World in * Shinjin *,” * Buddhist-Christian Studies* 31, 189–200.
+* –––, 2019. “How to Read Shinran,” in Gereon Kopf (ed.), * The Dao Companion to Japanese Buddhist Philosophy*, Dordrecht: Springer Nature, 415–449.
+* –––, 2020. “Philosophical Dimensions of Shinran’s Pure Land Buddhist Path,” in Bret W. Davis (ed.), * The Oxford Handbook of Japanese Philosophy*, New York: Oxford University Press, 159–180.
+* –––, 2022. “On Religious Engagement: Shinran and Heidegger’s Paul,” in Carol Anderson and Thomas Cattoi (eds.), * The Routledge Handbook of Buddhist-Christian Studies*, London: Routledge, 428–441.
+* –––, 2022. “The Nembutsu as Language: Shinran’s Conception of Practice,” * Buddhist-Christian Studies* 42.
+* Josephson, Jason Ānanda, 2012. * The Invention of Religion in Japan*, Chicago: University of Chicago Press.
+* Kasulis, Thomas P., 1984. “Buddhist Existentialism,” * Eastern Buddhist*, 17(2): 134–141.
+* –––, 2001. “Symposium: Shin Buddhist Ethics in Our Postmodern Age of_Mappō_,” * Eastern Buddhist*, 33(1): 16–37.
+* –––, 2018. * Engaging Japanese Philosophy: A Short History* (Chapter 5: Shinran: Naming What Comes Naturally), Honolulu: University of Hawai‘i Press.
+* Ketelaar, James Edward, 1990. * Of Heretics and Martyrs in Meiji Japan: Buddhism and Its Persecution*, Princeton, N.J.: Princeton University Press.
+* Machida, Soho, 1999. * Renegade Monk: Hōnen and Japanese Pure Land Buddhism*, Ioannis Mentzas (trans. and ed.), Berkeley: University of California Press.
+* Mattice, Sarah, 2022. “Shinran as Global Philosopher,” * Religions*, 13(2), 105.
+* Morrell, Robert E., 1987. * Early Kamakura Buddhism: A Minority Report*, Berkeley, CA: Asian Humanities Press.
+* Nishida, Kitaro, 1986. “The Logic of Topos and the Religious Worldview,” trans. Michiko Yusa, * Eastern Buddhist*, 19(2): 1–29.
+* –––, 1995. “Nishida’s Gutoku Shinran,” trans. Dennis Hirota, * Eastern Buddhist*, 28(2): 231–244.
+* Nishitani, Keiji, 1978. “The Problem of Time in Shinran,” trans. Dennis Hirota, * Eastern Buddhist*, 11(1): 13–26.
+* Payne, Richard K. and Kenneth K. Tanaka (eds.), 2004. * Approaching the Land of Bliss: Religious Praxis in the Cult of Amitābha*, Honolulu: University of Hawai‘i Press. (Includes an essay on the Pure Land practice of the Shingon priest Kakuban.)
+* Pye, Michael (ed.), 2011. * Beyond Meditation: Expressions of Japanese Shin Buddhist Spirituality.* London: Equinox Publishing.
+* –––, (ed.), 2012. * Listening to Shin Buddhism: Starting Points of Modern Dialogue.* London: Equinox Publishing.
+* Soga, Ryōjin, 1965. “Dharmakara Bodhisattva,” * Eastern Buddhist*, 1(1): 64–78.
+* Suzuki, D. T., 1970, * Shin Buddhism*, New York: Harper and Row.
+* –––, 1957. * Mysticism: Christian and Buddhist*, London: Routledge.
+* –––, 2015. * Selected Works of D.T. Suzuki* (Volume II: Pure Land), James C. Dobbins (ed.), Berkeley: University of California Press.
+* Tanabe, George J., 1992. * Myōe the Dreamkeeper: Fantasy and Knowledge in Early Kamakura Buddhism*, Cambridge, MA: Harvard University Press.
+* Tanabe, Hajime, 1986. * Philosophy as Metanoetics*, Berkeley: University of California Press.
+* Tanaka, Kenneth K. and Eisho Nasu (eds.), 1998. * Engaged Pure Land Buddhism: The Challenges of Jōdo-Shinshū in the Contemporary World*, Berkeley, CA: WisdomOcean Publications.
+* Takeuchi, Yoshinori, 1980. “Shinran and Contemporary Thought,” trans. Jan van Bragt, * Eastern Buddhist*, 13(2): 26–45.
+* –––, 1982. “The Meaning of Other Power in the Buddhist Way of Salvation,” * Eastern Buddhist*, 15(2): 10–27.
+* –––, 1983. * The Heart of Buddhism : In Search of the Timeless Spirit of Primitive Buddhism*, New York: Crossroad. Includes essays treating Shinran.
+* –––, 1996. “The Fundamental Problem of Shinran’s Thought (Part I),” * Eastern Buddhist*, 29(2): 153–158.
+* Thelle, Notto R., 1987. * Buddhism and Christianity in Japan: From Conflict to Dialogue, 1854–1899*, Honolulu: University of Hawai‘i Press.
+* Ueda, Yoshifumi, 1984. “The Mahayana Structure of Shinran’s Thought,” trans. Dennis Hirota, in * Eastern Buddhist*, 17(1): 57–78 and 17(2): 30–54.
+* –––, 1986. “Freedom and Necessity in Shinran’s Concept of Karma,” trans. Dennis Hirota, * Eastern * * Buddhist*, 19(1): 76–100.
+* Ueda, Yoshifumi and Dennis Hirota, 1989. * Shinran: An Introduction to His Thought*, Kyoto: Hongwanji International Center. (Includes background chapters on Mahayana and general Pure Land Buddhist thought and a selection of key passages from Shinran’s writings with original texts.)
+* Unno Taitetsu and James W. Heisig (eds.), 1990. * The Religious Philosophy of Tanabe Hajime* (Part I: Shin Buddhism). Berkeley: Asian Humanities Press.
+* van Bragt, Jan, 2017. * A Soga Ryōjin Reader*, Wamae Muriuki (ed.), Michael Conway (Introduction), Nagoya, Japan: Chisokudō.
+* van der Veere, Henny, 2000. * A Study into the Thought of Kōgyō Daishi Kakuban: With a Translation of His Gorin kuji myō himitsushaku *. Leiden: Hotei Publishing. (Twelfth century Shingon formulation of Pure Land themes. Includes a translation of * Amida hishaku*.)
+* Watt, Paul B., 2016. * Demythologizing Pure Land Buddhism: Yasuda Rijin and the Shin Buddhist Tradition*, Honolulu: University of Hawai‘i Press.
 
 ## Academic Tools
 

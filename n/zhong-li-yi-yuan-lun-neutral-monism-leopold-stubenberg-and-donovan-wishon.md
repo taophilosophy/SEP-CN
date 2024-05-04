@@ -1,6 +1,6 @@
 # 中立一元论 neutral monism (Leopold Stubenberg and Donovan Wishon)
 
-*首次发表于2005年2月3日，实质修订于2023年1月31日。*
+*首次发表于 2005 年 2 月 3 日，实质修订于 2023 年 1 月 31 日。*
 
 中立一元论是一种一元论的形而上学。它认为终极现实是同一种类的。在这个意义上，中立一元论与更为熟悉的一元论版本——唯心主义和唯物主义一致。中立一元论与其一元论对手的区别在于，它声称终极现实的内在本质既不是心理的也不是物质的，而是在某种意义上介于两者之间的中立状态。
 
@@ -26,17 +26,17 @@
 
 关于(1)–(5)之间的关系引发了一些问题。(1)和(5)在解决一个实体的中立性问题上是相似的，通过其内在本质来解决这个问题。(2)–(4)通过观察给定实体与其他事物的关系来回答这个问题：给定实体是/可以成为某个更大实体群体的成员的性质是什么：这些群体是心理的还是物质的？或者通过观察统治给定实体的法则的种类：这些法则是心理的还是物理的？如果倾向于认为中立性仅仅是内在本质的问题，那么(2)–(4)似乎是误导的。(2)–(4)仍然可能作为认识标准存在——作为发现给定实体是否中立的方法。支持(1)和(5)的人可以同意，给定实体实际上或可能属于某个特定群体，或者受到某些法则统治，这完全是由其内在本质决定的。他们的分歧仅仅涉及这个问题：这种能力是由于实体既是心理的又是物理的，还是既不是心理的也不是物理的。无论哪种情况，(2)–(4)只能用于发现哪些事物是中立实体。
 
-中立一元论的传统版本——由恩斯特·马赫、威廉·詹姆斯和伯特兰·罗素发展而来——接受（1）并拒绝（2）。例如，罗素将中立一元论描述为“心灵和物质都由一种中立物质组成，这种物质在孤立状态下既不是心灵也不是物质”（罗素 1921 年：25）。但是，一些中立一元论的批评者，尤其是博斯托克（2012 年：190、195-6），将中立一元论解释为承认（2）。基于对中立性的这种解释，博斯托克得出了一个引人注目的结论：“罗素的中立一元论版本从未真正‘中立’或‘一元’”（博斯托克 2012 年：190）。
+中立一元论的传统版本——由恩斯特 · 马赫、威廉 · 詹姆斯和伯特兰 · 罗素发展而来——接受（1）并拒绝（2）。例如，罗素将中立一元论描述为“心灵和物质都由一种中立物质组成，这种物质在孤立状态下既不是心灵也不是物质”（罗素 1921 年：25）。但是，一些中立一元论的批评者，尤其是博斯托克（2012 年：190、195-6），将中立一元论解释为承认（2）。基于对中立性的这种解释，博斯托克得出了一个引人注目的结论：“罗素的中立一元论版本从未真正‘中立’或‘一元’”（博斯托克 2012 年：190）。
 
 可以说，传统的中立一元论者都不接受（3）。他们都同意中立实体可以是物理和心理非基本实体的组成部分。但是，值得怀疑的是，他们中是否有人同意基本实体能够成为物理和心理非基本实体的组成部分就足以使其成为中立实体。因为可以想象到，一个未能满足中立性（根据（1），即“既非心灵也非物质”的观点）的基本实体可能出现在物理和心理非基本实体的构建中。
 
 马赫和詹姆斯的思想中存在（4）。但它在罗素的思想中起着重要的作用。在他 1921 年的《心灵分析》的开篇章中，罗素提到：
 
-> 在我看来，似乎存在着两种表面上不同的因果律，一种属于物理学，另一种属于心理学。例如，引力定律是一种物理定律，而联想定律是一种心理定律。感觉受到这两种定律的影响，因此从\[埃德温]霍尔特的观点来看，它们是真正的“中立”。但是，只受物理定律或心理定律支配的实体并不是中立的，可以分别称为纯粹的物质和纯粹的心理。（罗素 1921 年：25-26）
+> 在我看来，似乎存在着两种表面上不同的因果律，一种属于物理学，另一种属于心理学。例如，引力定律是一种物理定律，而联想定律是一种心理定律。感觉受到这两种定律的影响，因此从\[埃德温] 霍尔特的观点来看，它们是真正的“中立”。但是，只受物理定律或心理定律支配的实体并不是中立的，可以分别称为纯粹的物质和纯粹的心理。（罗素 1921 年：25-26）
 
 他在与（4）结合使用（尤其是在罗素 1921 年的论文中）时，令人困惑，这导致他的一些批评者（斯泰斯 1946 年；博斯托克 2012 年）认为他的中立一元论最好理解为一种二元论（至少在他早期的著作中）。
 
-对于标准（2）-（4）的一个更一般的问题是，它们使中立一元论与唯物主义、唯心主义和/或二元论相容，如传统理解所述。只要基本实体无论其内在本质如何，满足（2）、（3）或（4）中规定的标准，它们就根据这些标准是中立的。例如，格雷戈里·兰迪尼认为（3）捕捉到了罗素的中立观念，并得出结论他是唯物主义者和中立一元论者（兰迪尼 2011 年：第 6 章）。根据兰迪尼的观点，罗素是中立一元论者，因为每个基本实体都可以成为物理和心理非基本实体的组成部分；而罗素是唯物主义者，因为他的系统中所有的基本实体都是物理的。
+对于标准（2）-（4）的一个更一般的问题是，它们使中立一元论与唯物主义、唯心主义和/或二元论相容，如传统理解所述。只要基本实体无论其内在本质如何，满足（2）、（3）或（4）中规定的标准，它们就根据这些标准是中立的。例如，格雷戈里 · 兰迪尼认为（3）捕捉到了罗素的中立观念，并得出结论他是唯物主义者和中立一元论者（兰迪尼 2011 年：第 6 章）。根据兰迪尼的观点，罗素是中立一元论者，因为每个基本实体都可以成为物理和心理非基本实体的组成部分；而罗素是唯物主义者，因为他的系统中所有的基本实体都是物理的。
 
 传统的中立一元论者否定（5），但他们的许多表述暗示了相反的观点。很容易找到一些段落说一个给定的中立实体既是物质的又是心理的：
 
@@ -46,7 +46,7 @@
 
 > 我相信，构成我们经验世界的物质既不是心灵也不是物质，而是比二者更原始的东西。心灵和物质似乎都是复合体，而它们所组成的物质在某种意义上介于二者之间，在某种意义上高于二者，就像一个共同的祖先。（罗素 1921 年：10-11）
 
-但是，许多关于中立一元论的当代讨论采用了“两者观点”。例如，这个观点被归属于托马斯·纳格尔（戈弗雷-史密斯 2013 年：1-2；斯克比纳 2005 年：237）\[1]。这个“两者观点”有一个优点，即捕捉到了中立的直观概念：既是心理的又是物质的东西对二者都没有偏见，因此在二者之间是中立的。
+但是，许多关于中立一元论的当代讨论采用了“两者观点”。例如，这个观点被归属于托马斯 · 纳格尔（戈弗雷-史密斯 2013 年：1-2；斯克比纳 2005 年：237）\[1]。这个“两者观点”有一个优点，即捕捉到了中立的直观概念：既是心理的又是物质的东西对二者都没有偏见，因此在二者之间是中立的。
 
 尽管如此，这个“两者观点”的中立概念混淆了（或至少引发了混淆）中立一元论与其他应该区分开来的理论。实际上，根据对基本实体本质上既是心理的又是物理的主张的理解方式不同，中立一元论变得难以与泛心灵论、双方面理论甚至同一性理论区分开来——因为例如，“疼痛”和“C 纤维刺激”指的是完全相同的属性、方面或状态，而不是两个不可约的不同之物（见下文 4.2、4.3 和 4.6 节）。相比之下，“无两者观点”的中立概念使我们能够将中立一元论理解为一种独特的理论类型，因此在这方面更可取。
 
@@ -54,7 +54,7 @@
 
 另一个担忧是(1)-(4)并没有说明中立实体的本质。 (1)只说了它们不是什么；(2)-(4)指定了中立实体可以扮演的某些角色，但没有告诉我们关于角色扮演者的任何信息。(5)在这方面可能表现得更好；但可以说它无法区分基本的中立实体和心灵唯心主义、双方面理论或同一性理论中的实体。一些中立一元论的版本接受了关于中立基础本质的不可知论。但其他人则更加坦率，提供了我们熟悉的中立实体的例子。
 
-三位传统的中立一元论者——恩斯特·马赫、威廉·詹姆斯和伯特兰·罗素——都指出在经验中遇到的实体作为中立现象的例子。马赫谈到“感觉”，詹姆斯谈到“纯粹经验”，罗素谈到“感觉”和“感知”。可预见的是，这引发了中立一元论只是重新包装的现象主义的怀疑。其他人则在抽象领域寻找中立基础。例如，肯尼斯·塞尔将目光转向信息的数学理论，并建议将中立基础理解为这一理论预设的“信息状态的本体论”(Sayre 1976: 16)（见下文 5.1 节）。显而易见的是，以一种既实质性又无可争议的中立方式来描述基本实体并不容易。
+三位传统的中立一元论者——恩斯特 · 马赫、威廉 · 詹姆斯和伯特兰 · 罗素——都指出在经验中遇到的实体作为中立现象的例子。马赫谈到“感觉”，詹姆斯谈到“纯粹经验”，罗素谈到“感觉”和“感知”。可预见的是，这引发了中立一元论只是重新包装的现象主义的怀疑。其他人则在抽象领域寻找中立基础。例如，肯尼斯 · 塞尔将目光转向信息的数学理论，并建议将中立基础理解为这一理论预设的“信息状态的本体论”(Sayre 1976: 16)（见下文 5.1 节）。显而易见的是，以一种既实质性又无可争议的中立方式来描述基本实体并不容易。
 
 ### 1.2 中立一元论
 
@@ -80,11 +80,11 @@ Baruch Spinoza（1632-77）和 David Hume（1711-76）经常被认为是中立�
 
 将 Spinoza 分类为存在一元论者可能是可以的。但中立主张是基于中立性的问题观点。这表明最好将 Spinoza 归类为双重方面理论家。评估 Hume 的情况更加困难。有人说，对 Hume 的 20 世纪普遍解释是中立一元论（参见 Flage 1982：527）。H.H. Price 对这一观点的支持尤为有影响力（参见 Price 1932：105-6）。另一方面，对 Hume 的中立一元论解释遭到了激烈的抵制（Flage 1982；Backhaus 1991）。
 
-鉴于这些困难，最好从三位重要人物开始中立一元论的系谱：恩斯特·马赫、威廉·詹姆斯和伯特兰·罗素。在这三位中，只有罗素使用了“中立一元论”这个标签（这个术语似乎是他的老师詹姆斯·沃德创造的）。但是普遍认为，马赫、詹姆斯和罗素是这一传统中最重要的哲学家。传统中立一元论的一个显著特征——这是其主要人物经验主义倾向的反映——是中立实体与经验之间的紧密联系。这种联系导致了对中立一元论最持久的批评之一：它会崩溃为现象主义。因此，重要的是要注意，传统中立一元论的这个显著特征不一定是它的一部分。
+鉴于这些困难，最好从三位重要人物开始中立一元论的系谱：恩斯特 · 马赫、威廉 · 詹姆斯和伯特兰 · 罗素。在这三位中，只有罗素使用了“中立一元论”这个标签（这个术语似乎是他的老师詹姆斯 · 沃德创造的）。但是普遍认为，马赫、詹姆斯和罗素是这一传统中最重要的哲学家。传统中立一元论的一个显著特征——这是其主要人物经验主义倾向的反映——是中立实体与经验之间的紧密联系。这种联系导致了对中立一元论最持久的批评之一：它会崩溃为现象主义。因此，重要的是要注意，传统中立一元论的这个显著特征不一定是它的一部分。
 
-### 2.1 恩斯特·马赫
+### 2.1 恩斯特 · 马赫
 
-恩斯特·马赫（1838-1916）在中立一元论的历史中占据着核心地位。他影响了威廉·詹姆斯和伯特兰·罗素，并通过他们影响了英语世界中所有关于中立一元论的作家。他对德语世界观点发展的重要性难以估量。在哲学家中，基于马赫思想的有鲁道夫·卡尔纳普在他的《建构》（1928）中。作为一位既从事物理学又从事生理学和心理学研究的物理学家，马赫努力采用一种包容和经济的框架，使他能够以统一和连贯的方式进行所有这些调查。在经验的简单组成部分-颜色、声音、压力、强度、时间、空间、运动感觉等-他发现了一组更大的元素的典型例子，这些元素的功能相互关系由各种科学研究（参见Banks 2014年第1章关于马赫观点的坚决现实主义）。虽然一个给定的元素在本质上既不是心理的也不是物理的，但它所属的各个群体可能显示出物理学或心理学的特征性功能关系。在这种情况下，中立元素分别构成了物理学和心理学的主题。在下面的引文中，马赫使用颜色及我们对其的感知来说明这一点。一个单一的中立元素-颜色-既可以是物理对象的物理颜色，也可以是我们对其的心理感知/感觉。这种颜色可以被称为物理的，作为一个群体的组成部分，也可以被称为心理的，作为另一个群体的组成部分，但它是相同的不变和本质上中立的元素，在这两个不同的背景中起作用。
+恩斯特 · 马赫（1838-1916）在中立一元论的历史中占据着核心地位。他影响了威廉 · 詹姆斯和伯特兰 · 罗素，并通过他们影响了英语世界中所有关于中立一元论的作家。他对德语世界观点发展的重要性难以估量。在哲学家中，基于马赫思想的有鲁道夫 · 卡尔纳普在他的《建构》（1928）中。作为一位既从事物理学又从事生理学和心理学研究的物理学家，马赫努力采用一种包容和经济的框架，使他能够以统一和连贯的方式进行所有这些调查。在经验的简单组成部分-颜色、声音、压力、强度、时间、空间、运动感觉等-他发现了一组更大的元素的典型例子，这些元素的功能相互关系由各种科学研究（参见 Banks 2014 年第 1 章关于马赫观点的坚决现实主义）。虽然一个给定的元素在本质上既不是心理的也不是物理的，但它所属的各个群体可能显示出物理学或心理学的特征性功能关系。在这种情况下，中立元素分别构成了物理学和心理学的主题。在下面的引文中，马赫使用颜色及我们对其的感知来说明这一点。一个单一的中立元素-颜色-既可以是物理对象的物理颜色，也可以是我们对其的心理感知/感觉。这种颜色可以被称为物理的，作为一个群体的组成部分，也可以被称为心理的，作为另一个群体的组成部分，但它是相同的不变和本质上中立的元素，在这两个不同的背景中起作用。
 
 > 因此，只有当我们默认接受我们习惯性的刻板观念时，物理和心理研究之间的巨大鸿沟才会存在。当我们考虑到颜色的依赖性时，例如它对光源、其他颜色、温度、空间等的依赖，它就是一个物理对象。然而，当我们考虑到它对视网膜的依赖性时...它就是一个心理对象，一种感觉。两个领域的不同之处在于研究的方向，而不是主题本身。（马赫 1886 年：17-18）
 
@@ -96,13 +96,13 @@ Baruch Spinoza（1632-77）和 David Hume（1711-76）经常被认为是中立�
 
 > 主要事实不是自我，而是元素（感觉）...元素构成了我。我有绿色的感觉，意味着绿色元素出现在给定的其他元素（感觉，记忆）的复杂中。当我不再有绿色的感觉，当我死去时，这些元素不再以普通、熟悉的关联方式出现。就是这样。只有一个理想的心理经济统一体，而不是一个真正的统一体，已经不存在了。（马赫 1886 年：23-24）
 
-对于马赫来说，世界呈现为“一团粘稠的元素质量，在某些地方（如自我）比其他地方更牢固地凝聚在一起”（马赫 1886 年：17）。中立元素（其中只有一小部分是感觉）及其关系是基本的现实。我们在与彼此以有趣方式相关的某些元素组之间划定边界，因为这符合我们的生物学、科学和/或实际目的。我们可以继续谈论物质事物和自我；这样做是经济的。但严格来说，“\[物体和自我]都是同一种临时虚构”（马赫 1905 年：9）。
+对于马赫来说，世界呈现为“一团粘稠的元素质量，在某些地方（如自我）比其他地方更牢固地凝聚在一起”（马赫 1886 年：17）。中立元素（其中只有一小部分是感觉）及其关系是基本的现实。我们在与彼此以有趣方式相关的某些元素组之间划定边界，因为这符合我们的生物学、科学和/或实际目的。我们可以继续谈论物质事物和自我；这样做是经济的。但严格来说，“\[物体和自我] 都是同一种临时虚构”（马赫 1905 年：9）。
 
 马赫对中立一元论的观点的主要来源是他在 1883 年、1886 年、1894 年和 1905 年出版的书籍中包含的一些论文和章节。随着这些书籍经历了多次修订，它们的规模显著增长。一些关于中立一元论的重要论文并未包含在这些作品的英文翻译中。
 
-### 2.2 威廉·詹姆斯
+### 2.2 威廉 · 詹姆斯
 
-威廉·詹姆斯（1842 年-1910 年）在詹姆斯 1912 年的著作中使用“激进经验主义”一词来描述他提出的观点，这一观点已成为中立一元论的范例。他对经验的关系解释进行的批判——根据这种解释，自我将行为指向一个对象——成为后来罗素分析经验的模型。詹姆斯将这个论证呈现为对在新康德主义、早期分析和现象学传统中以各种形式存在的意识观念的攻击。大致上，这是意识作为一种透明关系、媒介或容器的概念，通过它我们呈现或代表意识对象。但是，使这种对象呈现可能的意识逃避了我们的掌握。詹姆斯想要消除的是这种薄弱的意识概念。
+威廉 · 詹姆斯（1842 年-1910 年）在詹姆斯 1912 年的著作中使用“激进经验主义”一词来描述他提出的观点，这一观点已成为中立一元论的范例。他对经验的关系解释进行的批判——根据这种解释，自我将行为指向一个对象——成为后来罗素分析经验的模型。詹姆斯将这个论证呈现为对在新康德主义、早期分析和现象学传统中以各种形式存在的意识观念的攻击。大致上，这是意识作为一种透明关系、媒介或容器的概念，通过它我们呈现或代表意识对象。但是，使这种对象呈现可能的意识逃避了我们的掌握。詹姆斯想要消除的是这种薄弱的意识概念。
 
 > 我相信，一旦“意识”蒸发到纯粹的透明状态，它就即将完全消失。它是一个不存在的东西的名字，在首要原则中没有立足之地。那些仍然依附于它的人，只是依附于一个微弱的回声，是“灵魂”在哲学空气中留下的微弱传闻。（詹姆斯 1904b：2）
 
@@ -132,7 +132,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 詹姆斯在他阐述中立一元论的论文中提出的观点是中立一元论文献中最有影响力和最易读的文件之一。可以说詹姆斯使罗素转向了中立一元论。他对美国中立一元论者在二十世纪早期几十年间的影响是巨大的（见下文 2.4）。詹姆斯关于中立一元论观点的主要来源是他 1912 年的论文集。
 
-### 2.3 伯特兰·罗素
+### 2.3 伯特兰 · 罗素
 
 在与中立一元论进行一系列的批判性争论之后（尤其是参见罗素 1914a、b），罗素在 1918 年采纳了中立一元论，并在其漫长的职业生涯中一直持中立一元论立场：“自从采纳中立一元论以来，我意识到我的观点没有发生重大变化”，这是他在 1964 年的一次采访中所说的（Eames 1969: 108）。然而，罗素的中立一元论是最好视为一个单一理论还是一系列相关但显著不同的理论，以及这些不同学说中的哪些（如果有的话）应被视为中立一元论的版本，这些问题一直存在争议（参见 Wishon 2015；Pincock 2018；Bostock 2012；Stace 1946）。罗素的 1919 年和 1921 年通常被认为是他的中立一元论的早期版本。罗素的 1927a 和 1927b 包含了成熟的学说。在他的后期作品中——罗素 1948 和 1956a——他不再使用“中立一元论”这个术语。但这一学说似乎基本没有改变。
 
@@ -164,19 +164,19 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 实体要想是中立的，就意味着“既没有物质的坚硬和不可摧毁性，也没有被认为是心智特征的对象参照”（罗素 1921 年：36；参见 124 页）。罗素从未怀疑感觉是物质的（在这个意义上）。然而，感觉包含了一种心智元素（在这个意义上）——它们由一种针对非心智对象的心智感知行为组成——这在他早期的观点中是至关重要的一部分。但是后来他的观点发生了变化：
 
-> 以前我相信通过自己的观察，我能够区分噪音\[对象]和我听到噪音的感知\[感知行为]之间的区别，而现在我确信它并没有显示出这样的事情，也从来没有。 (罗素 1918b: 255)
+> 以前我相信通过自己的观察，我能够区分噪音\[对象] 和我听到噪音的感知\[感知行为] 之间的区别，而现在我确信它并没有显示出这样的事情，也从来没有。 (罗素 1918b: 255)
 
 罗素现在在内省感官经历时发现的只有一个项目：一种感官质量“可以随意称之为噪音或听到噪音”(罗素 1918b: 255)。将例子转换为颜色，他写道
 
 > 当我们看到一块颜色斑块时，我们所感受到的感觉就是那块颜色斑块...颜色斑块和我们看到它的感觉是一样的。(罗素 1921: 142–3)
 
-由于噪音和色斑不是有意识的——它们不针对任何事物，它们只是存在——它们本质上是非心灵的。只有当它们与其他这样的实体在一个有组织的系统中相关联，以扮演正确的因果作用时，它们才构成“感觉”（Russell 1996；Wishon 2020，2021）。这确立了感觉的中立性。而且，因为图像与感觉具有相同的内在性质（参见 Russell 1921：117，121，154，156，287，297），它们也是中立的。\[6]感知由扮演感觉和图像角色的元素组成，同样具有内在的中立性。
+由于噪音和色斑不是有意识的——它们不针对任何事物，它们只是存在——它们本质上是非心灵的。只有当它们与其他这样的实体在一个有组织的系统中相关联，以扮演正确的因果作用时，它们才构成“感觉”（Russell 1996；Wishon 2020，2021）。这确立了感觉的中立性。而且，因为图像与感觉具有相同的内在性质（参见 Russell 1921：117，121，154，156，287，297），它们也是中立的。\[6] 感知由扮演感觉和图像角色的元素组成，同样具有内在的中立性。
 
 #### 2.3.3 更中立的实体：现实主义
 
-罗素对感觉、图像和感知的关注解释了为什么罗素的中立一元论经常被视为现象主义的一种形式。但在前一节中，我们已经看到罗素如何论证了这些事物的内在非心灵性。此外，这种批评忽视了罗素使用了一个大大扩展的建构材料集。他通过一系列谨慎的推理允许扩大已知领域。\[7]首先，他认为“我们所有的感知都由不可感知的部分组成”，并且具有不可感知的结构（Russell 1927a：282，386；Wishon 2020，2021）；其次，存在着不是我们自己的感觉、图像和感知；第三，最重要的是，我们可以推断出存在着大量的“不属于任何经验的实体”（Russell 1921：25）。\[8]通过这种方式，罗素得出了“世界非常充满事件”的观点（Russell 1927a：258），其中只有极少数是他自己的经验。
+罗素对感觉、图像和感知的关注解释了为什么罗素的中立一元论经常被视为现象主义的一种形式。但在前一节中，我们已经看到罗素如何论证了这些事物的内在非心灵性。此外，这种批评忽视了罗素使用了一个大大扩展的建构材料集。他通过一系列谨慎的推理允许扩大已知领域。\[7] 首先，他认为“我们所有的感知都由不可感知的部分组成”，并且具有不可感知的结构（Russell 1927a：282，386；Wishon 2020，2021）；其次，存在着不是我们自己的感觉、图像和感知；第三，最重要的是，我们可以推断出存在着大量的“不属于任何经验的实体”（Russell 1921：25）。\[8] 通过这种方式，罗素得出了“世界非常充满事件”的观点（Russell 1927a：258），其中只有极少数是他自己的经验。
 
-我们自己的感知、形象和感觉\[9]在这个实体系统中占据了特权地位-它们是我们对世界认识中“最不容置疑的东西”(罗素 1927b: 139)。这种知识是一种“更亲密的定性”(罗素 1927a: 389)的知识；它揭示了这些实体的内在特性的一些东西\[10]。但我们对物理世界的知识\[如物理科学所描述的]几乎完全是抽象的：“我们只知道其结构的某些逻辑特征，但对其内在特性一无所知”(罗素 1927b: 306-307)\[11]。在这个意义上，物理学只是描述了“世界的因果骨架”，并让我们对构成它的事件的内在品质一无所知(罗素 1927a: 388, 391)。
+我们自己的感知、形象和感觉\[9] 在这个实体系统中占据了特权地位-它们是我们对世界认识中“最不容置疑的东西”(罗素 1927b: 139)。这种知识是一种“更亲密的定性”(罗素 1927a: 389)的知识；它揭示了这些实体的内在特性的一些东西\[10]。但我们对物理世界的知识\[如物理科学所描述的] 几乎完全是抽象的：“我们只知道其结构的某些逻辑特征，但对其内在特性一无所知”(罗素 1927b: 306-307)\[11]。在这个意义上，物理学只是描述了“世界的因果骨架”，并让我们对构成它的事件的内在品质一无所知(罗素 1927a: 388, 391)。
 
 罗素认为所有这些不同的实体都是中立的(在中立观点的意义上)；他认为它们都是事件\[12]，其中事件被理解为“占据了一小段有限的时空”的东西(罗素 1927b: 287)。上面考虑的噪音和颜色斑块是事件的典型例子。罗素式的事件是绝对的，按照 C.D.布罗德的说法：“它本身不应该是任何事物的不变性或关系变化的状态”(布罗德 1959: 739；另见麦克斯韦尔 1978: 385-6 关于纯事件的论述)。根据罗素的观点，物理学教导我们事件“只是发生，并不是‘发生在’物质或‘发生在’其他任何东西上”(罗素 1927b: 289)。这意味着我们不能把心理事件(或任何事件)“看作是物质的运动”(罗素 1927b: 292)，因为“物质的运动...在我们的意义上不是一个事件”(罗素 1927b: 296)。
 
@@ -184,7 +184,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 ### 2.4 一些其他早期的中立一元论者
 
-当然，还有许多其他哲学家可能希望将其列入中立一元论者的名单中。在德语世界中，我们发现理查德·阿弗纳留斯（1843-1896），他与马赫有联系，以及约瑟夫·佩茨奥尔特（1862-1929），他在阿弗纳留斯的工作基础上进行了发展。阿弗纳留斯关于中立一元论的主要思考内容包含在他的 1888/90 年、1891 年和 1894/95 年的著作中。佩茨奥尔特的相关著作包括他的 1900 年、1904 年和 1906 年的作品。在英语世界中，中立一元论在美国新实在主义运动中蓬勃发展。可以说，约翰·杜威（1859-1952）是这个中立一元论群体中最杰出的人物，但拉尔夫·巴顿·佩里（1876-1957）——詹姆斯的学生和朋友——与这种观点最为密切相关。佩里的 1912 年是他关于中立一元论观点的主要来源。埃德温·B·霍尔特（1873-1946）在他的 1912 年和 1914 年提出了一个雄心勃勃的中立一元论计划。其他著名的早期中立一元论者包括阿洛伊斯·里尔（1844-1924）、亚历山大·博格达诺夫（1873-1928）、莫里茨·施利克（1882-1936），以及（一段时间内）鲁道夫·卡尔纳普（1891-1970）和阿尔弗雷德·艾尔（1910-1989），等等。
+当然，还有许多其他哲学家可能希望将其列入中立一元论者的名单中。在德语世界中，我们发现理查德 · 阿弗纳留斯（1843-1896），他与马赫有联系，以及约瑟夫 · 佩茨奥尔特（1862-1929），他在阿弗纳留斯的工作基础上进行了发展。阿弗纳留斯关于中立一元论的主要思考内容包含在他的 1888/90 年、1891 年和 1894/95 年的著作中。佩茨奥尔特的相关著作包括他的 1900 年、1904 年和 1906 年的作品。在英语世界中，中立一元论在美国新实在主义运动中蓬勃发展。可以说，约翰 · 杜威（1859-1952）是这个中立一元论群体中最杰出的人物，但拉尔夫 · 巴顿 · 佩里（1876-1957）——詹姆斯的学生和朋友——与这种观点最为密切相关。佩里的 1912 年是他关于中立一元论观点的主要来源。埃德温 ·B· 霍尔特（1873-1946）在他的 1912 年和 1914 年提出了一个雄心勃勃的中立一元论计划。其他著名的早期中立一元论者包括阿洛伊斯 · 里尔（1844-1924）、亚历山大 · 博格达诺夫（1873-1928）、莫里茨 · 施利克（1882-1936），以及（一段时间内）鲁道夫 · 卡尔纳普（1891-1970）和阿尔弗雷德 · 艾尔（1910-1989），等等。
 
 ## 3. 中立一元论的论证
 
@@ -206,7 +206,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 唯物主义认为心灵完全基于基本物质实体或现实的特征，因此心灵-身体的因果关系最终是物理因果关系的问题。但是人们长期以来一直担心心理现象的性质，如质性、意向性和/或主观性，是否可以完全基于物质实体或属性来解释。相比之下，唯心主义认为物质完全基于基本的心理实体或现实的特征，而心灵-身体的因果关系最终是心理因果关系的问题。但是批评者质疑物质现象是否可以充分地用心理现象来解释。
 
-对于那些认为传统立场面临不可逾越的挑战的人来说，中立一元论可能是一个有吸引力的选择。在某些情况下，对中立一元论的兴趣可能最好被视为在心灵形而上学中探索所有可能选择的一部分。正如杰里·福多尔所说：“一个哲学理论的形式往往是：让我们试着往这边看看”（福多尔 1981: 31）。但是其他人认为中立一元论具有传统立场所缺乏的资源，也许可以自己利用这些资源。
+对于那些认为传统立场面临不可逾越的挑战的人来说，中立一元论可能是一个有吸引力的选择。在某些情况下，对中立一元论的兴趣可能最好被视为在心灵形而上学中探索所有可能选择的一部分。正如杰里 · 福多尔所说：“一个哲学理论的形式往往是：让我们试着往这边看看”（福多尔 1981: 31）。但是其他人认为中立一元论具有传统立场所缺乏的资源，也许可以自己利用这些资源。
 
 中立一元论通过断言心灵和物质并不像它们最初看起来的那样不同来解决心灵-身体问题。在这两种观点中，这是因为基本的中立实体本质上既是心理的又是物质的。但很难看出这种观点如何避免陷入泛心灵论、双方面理论、唯心主义或唯物主义的形式。在这两种观点中，心灵和物质之间的表面“差距”被缩小，因为它们都根植于或仅仅是同一基本实体的便利分组，这些实体本身本质上既不是心理的也不是物质的。因此，心灵-身体的因果关系最终只是基本中立实体不同群体之间的因果关系问题。\[15]
 
@@ -220,7 +220,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 > 物理世界与感知世界在表面上是如此不同，以至于很难看出一个世界如何为另一个世界提供证据；此外，物理学和生理学本身似乎提供了一些理由，认为感知不能对外部世界提供非常准确的信息，从而削弱了它们所依赖的支撑...因此，我们必须找到一种解释物理学的方法，使感知得到适当的位置；如果没有这样的解释，我们就没有权利诉诸经验证据。（罗素 1927a: 6–7；另见罗素 1948: 第三部分，第四章）
 
-之前对于心灵-身体问题的讨论，特别是对于感知经验问题的讨论，包含了罗素提出的解决方案的核心。通过"弥合物理学（通常解释）和感知之间的鸿沟"（罗素 1927a: 7），中立一元论承诺解决这个问题——一个罗素认为困难且大多数人未注意到的问题（参见罗素 1948: 175–176）。
+之前对于心灵-身体问题的讨论，特别是对于感知经验问题的讨论，包含了罗素提出的解决方案的核心。通过 "弥合物理学（通常解释）和感知之间的鸿沟"（罗素 1927a: 7），中立一元论承诺解决这个问题——一个罗素认为困难且大多数人未注意到的问题（参见罗素 1948: 175–176）。
 
 ### 3.4 外部世界的知识
 
@@ -258,7 +258,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 这个反对意见的表面合理性是毋庸置疑的。但是马赫、詹姆斯和罗素对这个问题非常清楚，并认为他们已经做出了令人满意的回应。他们拒绝了感觉或经验由主体对客体进行心理行为（意识、知觉、熟悉）的观点。他们放弃了主体和行为，只剩下了过去所谓的客体——比如一个红斑。他们认为，红斑本质上并没有什么心理成分。一个红斑之所以成为红色感觉，仅仅是因为它与同类实体适当地相关。对于这个争议没有快速的解决办法，需要仔细评估每个案例。然而，将中立一元论与其最接近的心理主义替代方案进行比较可能是一个有用的第一步。
 
-中立一元论认为每个基本实体（通常理解为物理实体）也是一个心理实体。基本实体的物理性质（如果存在）和心理性质是基本的，即彼此之间或与其他任何事物都不可约的。乍看之下，中立一元论和中立一元论是截然不同的。中立一元论认为心理和物理现象是派生的，而中立一元论则不是；中立一元论认为基本现实是中立的，而中立一元论则不是。中立一元论与大多数物理对象及其所有部分绝对非心理的观点是相容的，而中立一元论则不是。这是在中立观点下的情况。在中立观点下，情况不太清楚。然而，对中立观点的最自然的解读不会得出中立一元论——即每个基本物理实体都有一个心灵的观点，而是一个双重方面的观点——即每个基本实体都有一个物理和心理的方面。无论如何，马赫、詹姆斯和罗素都抵制了对他们观点的心灵实体论或双重方面的解释，尽管有证据表明詹姆斯在1904年之后采纳了中立一元论。
+中立一元论认为每个基本实体（通常理解为物理实体）也是一个心理实体。基本实体的物理性质（如果存在）和心理性质是基本的，即彼此之间或与其他任何事物都不可约的。乍看之下，中立一元论和中立一元论是截然不同的。中立一元论认为心理和物理现象是派生的，而中立一元论则不是；中立一元论认为基本现实是中立的，而中立一元论则不是。中立一元论与大多数物理对象及其所有部分绝对非心理的观点是相容的，而中立一元论则不是。这是在中立观点下的情况。在中立观点下，情况不太清楚。然而，对中立观点的最自然的解读不会得出中立一元论——即每个基本物理实体都有一个心灵的观点，而是一个双重方面的观点——即每个基本实体都有一个物理和心理的方面。无论如何，马赫、詹姆斯和罗素都抵制了对他们观点的心灵实体论或双重方面的解释，尽管有证据表明詹姆斯在 1904 年之后采纳了中立一元论。
 
 中立一元论被捍卫为关于语言、事实和事物的学说。在最后一种意义上，它试图将“物质对象归纳为感觉，即将它们解释为仅由感觉组成或主要由感觉组成的群体或模式”（赫斯特 2006：271）。我们可以用“感觉数据”、“感觉”、“知觉”、“经验”等术语替代赫斯特的“感觉”。如上所述，传统的中立一元论者据称净化了这些术语的通常内在心理维度。此外，中立一元论不仅限于那些感觉、知觉等实体——这在马赫和罗素的案例中尤为明显。大多数中立实体的存在是从那些由于它们的因果功能角色而恰好是感觉和知觉的微小元素集合中推断出来的。这些推断出的元素在所有心灵之外。这些是强烈的反现象主义（和反唯心主义）立场。各种中立一元论者成功地捍卫这些主张的程度，当然是一个困难的进一步问题。
 
@@ -270,7 +270,7 @@ The first piece of pure experience is the thought—the episode of thinking as w
 
 同样，Erik Banks（见下文第 5.6 节）将他所谓的“现实经验主义”视为传统中立一元论的直接后裔（Banks 2014，viii）。但他也认为他的中立一元论是“一种物理主义”（Banks 2014: 7, 142）。Banks 认为自己遵循罗素，接受事件本体论，将事件视为底层力量或能量的表现，如电磁力、引力和核力（Banks 149），以及神经能量（Banks 2014: 142）。但是，Banks 坚持认为，这些事件个体“在本质上如此物理主义，以至于似乎没有任何理由假设这些物理学中的自然特性与我们的感觉有任何共同之处，我们的感觉是一种非常不同的秩序的特性... \[涉及] 人类神经系统中的事件，其复杂性和规模与之非常不同”（Banks 2014: 156）。
 
-在对罗素的中立一元论发展进行仔细调查后，唐纳文·威肖恩观察到罗素在 1940 年后的中立一元论版本“与罗素的物理主义有更大的亲和性，而不是真正的中立一元论”（威肖恩 2015：114-5）。威肖恩除其他事项外，还引起了我们对罗素的报告的关注，即“我发现自己在本体论上越来越唯物主义”（罗素 1946：700）。他还指出罗素的言论，“我应该把所有事件都看作是物理的”，以及“心理和物理之间的区别不在于它们的任何内在特性，而在于我们获取它们知识的方式”（罗素 1958：12）。因此，威肖恩得出结论，“心理事件最终将被证明是构成现实的物理事件的一个子类”——只有它们特殊的认识可及性将它们与其他物理事件区分开来（2015：112）。但他并没有完全回答罗素在这个晚期是否认为所有事件都是由于它们的内在本质还是仅仅由于它们与其他事件的关系而被视为物理的。
+在对罗素的中立一元论发展进行仔细调查后，唐纳文 · 威肖恩观察到罗素在 1940 年后的中立一元论版本“与罗素的物理主义有更大的亲和性，而不是真正的中立一元论”（威肖恩 2015：114-5）。威肖恩除其他事项外，还引起了我们对罗素的报告的关注，即“我发现自己在本体论上越来越唯物主义”（罗素 1946：700）。他还指出罗素的言论，“我应该把所有事件都看作是物理的”，以及“心理和物理之间的区别不在于它们的任何内在特性，而在于我们获取它们知识的方式”（罗素 1958：12）。因此，威肖恩得出结论，“心理事件最终将被证明是构成现实的物理事件的一个子类”——只有它们特殊的认识可及性将它们与其他物理事件区分开来（2015：112）。但他并没有完全回答罗素在这个晚期是否认为所有事件都是由于它们的内在本质还是仅仅由于它们与其他事件的关系而被视为物理的。
 
 将中立一元论与物理主义相结合，或者沿着物理主义的路线重新解释中立一元论，对于通常理解的中立一元论构成了严峻的挑战。它们否认了世界的基本构建块在中立一元论的意义上是中立的，既非心理的也非物理的\[18]。但同样值得注意的是，这些物理主义版本与更标准的物理主义形式相比，有多大程度上的不同。特别是，它们与中立一元论一致地认为物理理论并不能完全捕捉到所描述世界的本质。这表明中立一元论与这种物理主义之间的差异可能并不那么深刻（参见查尔默斯 2015）。
 
@@ -328,9 +328,9 @@ David Chalmers 对中立一元论提出了一个相关的担忧，特别是对�
 
 ### 5.1 信息作为终极现实
 
-在几十年前，肯尼斯·塞尔（1929 年至今）提出了他关于中立一元论的主要观点，预示着对中立一元论的当前复兴的兴趣。与三大理论不同，塞尔将他的系统的中立基础不是建立在经验上，而是建立在纯粹信息的形式上，其中信息是以严格的信息论意义来理解的。他的提议不应被误解为一个无争议的主张，即心理和物理过程可以用信息论的术语来描述。塞尔提出了一个关于现实的终极本质的本体论主张，即终极现实由信息状态组成。
+在几十年前，肯尼斯 · 塞尔（1929 年至今）提出了他关于中立一元论的主要观点，预示着对中立一元论的当前复兴的兴趣。与三大理论不同，塞尔将他的系统的中立基础不是建立在经验上，而是建立在纯粹信息的形式上，其中信息是以严格的信息论意义来理解的。他的提议不应被误解为一个无争议的主张，即心理和物理过程可以用信息论的术语来描述。塞尔提出了一个关于现实的终极本质的本体论主张，即终极现实由信息状态组成。
 
-> 如果这个项目成功，不仅将证明信息的概念为分析物理和心理提供了一个原始的基础，而且还将证明信息状态在心理状态之前存在。由于这种意义上的信息先于心理，但也涉及到所有心理状态，因此可以得出结论，信息在本体论意义上也是先于心理的。因此，当前项目的成功将表明信息状态的本体论是足够解释心灵现象的，与物理事件的本体论有所区别。\[Sayre 补充说：]可以合理推测，信息本体论对物理科学同样基础....（Sayre 1976: 16）
+> 如果这个项目成功，不仅将证明信息的概念为分析物理和心理提供了一个原始的基础，而且还将证明信息状态在心理状态之前存在。由于这种意义上的信息先于心理，但也涉及到所有心理状态，因此可以得出结论，信息在本体论意义上也是先于心理的。因此，当前项目的成功将表明信息状态的本体论是足够解释心灵现象的，与物理事件的本体论有所区别。\[Sayre 补充说：] 可以合理推测，信息本体论对物理科学同样基础....（Sayre 1976: 16）
 
 传统中立一元论的最大挑战之一是如何展示从经验中得出的基本实体如何是中立的，而不是心理的。通过选择信息状态本体论作为他的“中立物质”，Sayre 巧妙地绕过了这个问题。虽然信息状态的中立性可能被认为是理所当然的，但这个看似抽象的“物质”与物理和心理实体的具体世界之间的关系问题变得更加紧迫。\[21]
 
@@ -338,13 +338,13 @@ Sayre 关于中立一元论的主要工作是他的 1976 年著作。在最近�
 
 ### 5.2 心灵与物质：仅仅是概念上的区别
 
-为了更好地标注，约翰·海尔将他对心灵-身体关系的观点呈现为一种中立一元论形式。他抵制被标记为唯物主义者，
+为了更好地标注，约翰 · 海尔将他对心灵-身体关系的观点呈现为一种中立一元论形式。他抵制被标记为唯物主义者，
 
 > 因为这暗示着在将心理特质与物质特质进行对应时存在一种不对称性：心理被物质所取代。（海尔 2013：242）
 
 他也不认为自己是唯心主义者。他有系统而深刻的理由来拒绝表征非简约唯物主义的各种版本的属性二元论。他接受的中立一元论被描述如下：
 
-> 中立一元论包括否认存在需要弥合的心理-物质鸿沟。正如斯宾诺莎和唐纳德·戴维森所主张的那样，心理-物质区分仅仅是一个概念上的区分，而不是一个真实的区分，不是一种实际存在的区分。（海尔 2013：242）
+> 中立一元论包括否认存在需要弥合的心理-物质鸿沟。正如斯宾诺莎和唐纳德 · 戴维森所主张的那样，心理-物质区分仅仅是一个概念上的区分，而不是一个真实的区分，不是一种实际存在的区分。（海尔 2013：242）
 
 一个例子将有助于说明这一观点的要点。以常见的观点为例，疼痛是 c 纤维刺激。根据海尔的观点，这意味着谓词“c 纤维刺激”和谓词“疼痛”适用于同样的事物：所有真实描述为 c 纤维刺激的事物也真实描述为疼痛。但是——这是一个不能在这里详细阐述的关键观点——这并不意味着存在一个“是 c 纤维刺激”的属性和一个“是疼痛”的属性，并且这两个属性之间存在某种有趣的关系，比如身份、简化、实现等。这意味着存在一个复杂的对象，使得这两个说法都是真实的。这个对象的部分的性质，以及它们之间错综复杂的关系，是被正确描述为 c 纤维刺激和疼痛的现实。
 
@@ -358,7 +358,7 @@ Heil 的解释的这部分似乎与传统的中立一元论的精神一致。人
 
 ### 5.3 复杂的基本实体
 
-在他的著作《心灵与宇宙》（2012 年）中，托马斯·纳格尔断言：“证据的重量支持中立一元论的某种形式，而不是唯物主义、唯心主义和二元论的传统选择”（2012 年：5）。中立一元论被理解为一种“通过自然秩序的某种更基本的东西来解释心灵和大脑之间的关系”的观点（2012 年：56）。这产生了一个“一般一元论的图景，其中宇宙的构成要素具有解释其物理特性和心理特性的属性”（2012 年：56）。借用汤姆·索雷尔（纳格尔赞同引用的人）的概念，我们可以说宇宙的这些基本构成要素是“超物质的和超心理的”（2012 年：57）。到目前为止所说的一切都支持纳格尔支持中立一元论的观点。
+在他的著作《心灵与宇宙》（2012 年）中，托马斯 · 纳格尔断言：“证据的重量支持中立一元论的某种形式，而不是唯物主义、唯心主义和二元论的传统选择”（2012 年：5）。中立一元论被理解为一种“通过自然秩序的某种更基本的东西来解释心灵和大脑之间的关系”的观点（2012 年：56）。这产生了一个“一般一元论的图景，其中宇宙的构成要素具有解释其物理特性和心理特性的属性”（2012 年：56）。借用汤姆 · 索雷尔（纳格尔赞同引用的人）的概念，我们可以说宇宙的这些基本构成要素是“超物质的和超心理的”（2012 年：57）。到目前为止所说的一切都支持纳格尔支持中立一元论的观点。
 
 但是，Nagel 接下来说的似乎与这个简单的观点相矛盾。他写道：
 
@@ -374,11 +374,11 @@ Heil 的解释的这部分似乎与传统的中立一元论的精神一致。人
 
 结果的图像是这样的。在最基本的层面上描述，世界的组成部分具有既非心理的也非物理的属性。每个基本实体的这些中立属性导致了物理和心理（或原心理）属性的产生。因此，每个基本组成部分都是复杂的：它具有心理（或原心理）属性，具有物理属性，并且由于具有第三组属性-中立属性，它具有这两组属性作为必然结果。
 
-中立属性在中立一元论（在中立意义上）中扮演的基础角色可以被认为是这种观点的一种形式。这种解释可以进一步支持，认为中立属性为基本实体的其他属性提供了基础，并且基于基础的属性对“存在没有增加”。然而，它与传统的中立一元论不同之处在于，基本组成部分除了中立属性之外，还具有内在的物理和心理（或原心理）属性。\[23]因此，它可能最好被描述为一种双方面理论或属性二元论的形式。但其他人可能称之为泛心灵论，因为每个基本实体都具有心理（或原心理）特征。
+中立属性在中立一元论（在中立意义上）中扮演的基础角色可以被认为是这种观点的一种形式。这种解释可以进一步支持，认为中立属性为基本实体的其他属性提供了基础，并且基于基础的属性对“存在没有增加”。然而，它与传统的中立一元论不同之处在于，基本组成部分除了中立属性之外，还具有内在的物理和心理（或原心理）属性。\[23] 因此，它可能最好被描述为一种双方面理论或属性二元论的形式。但其他人可能称之为泛心灵论，因为每个基本实体都具有心理（或原心理）特征。
 
 ### 5.4 罗素式一元论、泛原心灵论和泛质量论
 
-在寻找解决心灵-身体问题的过程中，人们可能会被这样一种思想所吸引：我们对物质的了解比我们通常所认为的要少。我们所知道（或者能够知道）的只是物质的倾向性属性。\[24]当这些属性需要有范畴基础的洞察力结合在一起时，人们发现自己对物质的概念是根本不完整的。除了物理学所涉及的所有倾向性属性之外，物质还必须具有内在的范畴属性。由于这些内在属性的性质是未知的，以下大胆的思想自然而然地出现。也许这些属性发挥着双重作用：除了作为物质倾向性属性的基础外，它们还作为我们意识体验的基础。这些是可能导致罗素式一元论的考虑因素，即
+在寻找解决心灵-身体问题的过程中，人们可能会被这样一种思想所吸引：我们对物质的了解比我们通常所认为的要少。我们所知道（或者能够知道）的只是物质的倾向性属性。\[24] 当这些属性需要有范畴基础的洞察力结合在一起时，人们发现自己对物质的概念是根本不完整的。除了物理学所涉及的所有倾向性属性之外，物质还必须具有内在的范畴属性。由于这些内在属性的性质是未知的，以下大胆的思想自然而然地出现。也许这些属性发挥着双重作用：除了作为物质倾向性属性的基础外，它们还作为我们意识体验的基础。这些是可能导致罗素式一元论的考虑因素，即
 
 > 物质具有内在属性，既构成意识，又作为物理学所描述的倾向性属性的范畴基础。（Alter 和 Nagasawa 2015：1）
 
@@ -390,17 +390,17 @@ Russellian 中立一元论最著名的版本是泛原心灵论——这是 David
 
 这个理论的一个变种——泛质量论——以最令人满意的方式解决了这个问题，同时又带来了新的问题。
 
-它将红色、绿色、甜味、圆形等等——在经验中给予我们的原始感官质量，并且仅仅被认为是这样——视为基本物理实体的内在属性（参见查尔默斯 2015 年：272）。一个人意识到红色——即现象红色的属性——是心理的，但红色本身不是。这种红色也不是一种物理的结构属性。因此，全质论已经确立了一个我们非常熟悉的中立基础。查尔默斯推测，\[全质论]的版本在 20 世纪初的中立一元论者中很受欢迎，包括威廉·詹姆斯（1904b）、恩斯特·马赫（1886）和伯特兰·罗素（1921）。（查尔默斯 2015 年：271）
+它将红色、绿色、甜味、圆形等等——在经验中给予我们的原始感官质量，并且仅仅被认为是这样——视为基本物理实体的内在属性（参见查尔默斯 2015 年：272）。一个人意识到红色——即现象红色的属性——是心理的，但红色本身不是。这种红色也不是一种物理的结构属性。因此，全质论已经确立了一个我们非常熟悉的中立基础。查尔默斯推测，\[全质论] 的版本在 20 世纪初的中立一元论者中很受欢迎，包括威廉 · 詹姆斯（1904b）、恩斯特 · 马赫（1886）和伯特兰 · 罗素（1921）。（查尔默斯 2015 年：271）
 
-> 但全质论也有越来越多的当代支持者。例如，萨姆·科尔曼（Sam Coleman）在许多有趣的新方向上发展了全质论，并将其重新置于有关心灵形而上学的持续辩论中（Coleman 2014、2017a、2017b、2022）。
+> 但全质论也有越来越多的当代支持者。例如，萨姆 · 科尔曼（Sam Coleman）在许多有趣的新方向上发展了全质论，并将其重新置于有关心灵形而上学的持续辩论中（Coleman 2014、2017a、2017b、2022）。
 
-当然，人们可能会想知道一个电子的红色如何能够成为其负电荷的基础，或者赞同威尔弗里德·塞拉斯（1963 年：35）的观点，即认为基本物理实体可能具有原始的感官特质，如红色，是没有意义的。人们可能也会担心，无论如何复杂地排列，质量都不能成为我们经验中的显著特性的基础，因为“质量的实例化从来不会必然导致对质量的意识”（查尔默斯 2015 年：273）。关于泛质论者能否对这些异议提供令人满意的回答，这是一个正在进行的辩论问题。
+当然，人们可能会想知道一个电子的红色如何能够成为其负电荷的基础，或者赞同威尔弗里德 · 塞拉斯（1963 年：35）的观点，即认为基本物理实体可能具有原始的感官特质，如红色，是没有意义的。人们可能也会担心，无论如何复杂地排列，质量都不能成为我们经验中的显著特性的基础，因为“质量的实例化从来不会必然导致对质量的意识”（查尔默斯 2015 年：273）。关于泛质论者能否对这些异议提供令人满意的回答，这是一个正在进行的辩论问题。
 
 通过考虑罗素式一元论，我们可以看到：（i）目前正在发展一些新版本的中立一元论，强调的考虑因素与传统中立一元论有所不同；（ii）但即使是最有前途和最成熟的罗素式中立一元论版本也面临着相当大的挑战。
 
 ### 5.5 现实经验主义：强大的质量
 
-在他的书《马赫、詹姆斯和罗素的现实经验主义：重新构思中立一元论》（2014 年）中，埃里克·班克斯对中立一元论的三位重要人物进行了批判性的调查，并提出了自己的学说发展。
+在他的书《马赫、詹姆斯和罗素的现实经验主义：重新构思中立一元论》（2014 年）中，埃里克 · 班克斯对中立一元论的三位重要人物进行了批判性的调查，并提出了自己的学说发展。
 
 班克斯观点中的中立一元论核心是这样的：
 
@@ -440,7 +440,7 @@ Banks 直接解决了这个第二个问题：力量与它们的令牌表现是�
 
 Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验主义观点。这使他们在寻找中立实体时转向经验。这使许多人认为他们的教义带有心理主义的色彩。也许传统的中立一元论者错误地将中立实体与经验紧密联系在一起。或者批评者对他们在这一领域发现中立基础的努力过于草率。对分析哲学历史的兴趣日益增长，特别是逐渐重新发现 Russell 作为形而上学家和认识论者，为更好地理解传统中立一元论提供了一些希望。
 
-但中立一元论的命运不再完全与传统中立一元论的命运紧密相连。在更广泛的 Russellian 一元论运动中，中立一元论的分支是一个有希望的新发展。一些当代试图复兴中立一元论的努力与传统教义没有任何联系。托马斯·纳格尔最近对中立一元论的辩护就是一个例子。而将抽象实体——信息、结构、计算、数学现实——作为形而上学系统的中立基础的想法正在哲学家和科学家中积极发展。
+但中立一元论的命运不再完全与传统中立一元论的命运紧密相连。在更广泛的 Russellian 一元论运动中，中立一元论的分支是一个有希望的新发展。一些当代试图复兴中立一元论的努力与传统教义没有任何联系。托马斯 · 纳格尔最近对中立一元论的辩护就是一个例子。而将抽象实体——信息、结构、计算、数学现实——作为形而上学系统的中立基础的想法正在哲学家和科学家中积极发展。
 
 直到最近，中立一元论（以其传统形式）似乎只是形而上学大舞台上的一个简短而不重要的附带节目。尽管三位主要人物——马赫、詹姆斯和罗素——是重要的人物，他们的思想深刻地影响了当代思想的许多领域，但他们对中立一元论的推测似乎已经从哲学舞台上消失了。但对传统版本中立一元论的当前兴趣浪潮，以及对中立一元论替代版本的活跃发展，表明中立一元论再次成为探索心灵形而上学的活跃选择。\[26]
 
@@ -456,7 +456,7 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * –––, 1891, *Der Menschliche Weltbegriff, Fourth edition*, Leipzig: O.R. Reisland, 1927.
 * –––, 1894/95, “Bemerkungen zum Begriff des Gegenstandes der Psychologie”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, XVIII, 137 and 400, XIV, 1 and 129; reprinted in the fourth edition of Avenarius 1891.
 * Ayer, A.J., 1971, *Russell and Moore. The Analytical Heritage*, London: Macmillan.
-* Backhaus, Wilf K., 1991, “Is Hume a Neutral Monist?”, *Southwest Philosophy Review*, 7(2): 1–15. doi:10.5840/swphilreview19917216
+* Backhaus, Wilf K., 1991, “Is Hume a Neutral Monist?”, *Southwest Philosophy Review*, 7(2): 1–15. doi: 10.5840/swphilreview19917216
 * Bailey, Andrew, 2020, “William James, Pure Experience, and Panpsychism,” *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 66–77.
 * Banks, Erik C., 2003, *Ernst Mach’s World of Elements*, Dordrecht: Kluwer.
 * –––, 2014, *The Realistic Empiricism of Mach, James, and Russell. Neutral Monism Reconsidered*, Cambridge: Cambridge University Press.
@@ -475,7 +475,7 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * –––, 2015, “Panpsychism and Panprotopsychism”, in Alter and Nagasawa 2015: 246–276.
 * –––, 2020, “Idealism and the Mind-Body Problem”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 353–73.
 * Clarke, D.S. (ed.), 2004, *Panpsychism, Past and Recent Selected Readings*, New York: SUNY Press.
-* Coleman, Sam, 2014, “The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence”, *Erkenntnis*, 79(1): 19–44. doi:10.1007/s10670-013-9431-x
+* Coleman, Sam, 2014, “The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence”, *Erkenntnis*, 79(1): 19–44. doi: 10.1007/s10670-013-9431-x
 * –––, 2017a, “Panpsychism and Neutral Monism: How to Make up One’s Mind”, in Brüntrup and Jaskolla 2017: 249–82.
 * –––, 2017b, “Neutral Monism. A Saner Solution To The Mind-Body Problem”, *Philosophy Now*, 121: 9–11.
 * –––, 2018, “The Evolution of Nagel’s Panpsychism”, *Klesis*, 41: 180–202.
@@ -486,9 +486,9 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * Eames, Elizabeth Ramsden, 1969, *Bertrand Russell’s Theory of Knowledge*, New York: Braziller.
 * Feigl, Herbert, 1958, “The ‘Mental’ and the ‘Physical’”, *Concepts, Theories, and the Mind-Body Problem* (Minnesota Studies in the Philosophy of Science: Volume II), Minneapolis: University of Minnesota Press, 370–498.
 * –––, 1975, “Russell and Schlick. A Remarkable Agreement on a Monistic Solution of the Mind-Body Problem”, *Erkenntnis*, 9(1): 11–34.
-* Flage, Daniel E., 1982, “Hume’s Dualism”, *Noûs*, 16(4): 527–542. doi:10.2307/2215205
-* Floridi, Luciano, 2008, “A Defence of Informational Structural Realism”, *Synthese* 161(2): 219–253. doi:10.1007/s11229-007-9163-z
-* –––, 2009, “Against Digital Ontology”, *Synthese*, 168(1): 151–178. doi:10.1007/s11229-008-9334-6
+* Flage, Daniel E., 1982, “Hume’s Dualism”, *Noûs*, 16(4): 527–542. doi: 10.2307/2215205
+* Floridi, Luciano, 2008, “A Defence of Informational Structural Realism”, *Synthese* 161(2): 219–253. doi: 10.1007/s11229-007-9163-z
+* –––, 2009, “Against Digital Ontology”, *Synthese*, 168(1): 151–178. doi: 10.1007/s11229-008-9334-6
 * Fodor, Jerry, 1981, *Representations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge, MA: MIT Press.
 * Fredkin, Edward, 2003, “An Introduction to Digital Philosophy”, *International Journal of Theoretical Physics*, 42(2): 189–247.
 * Gale, Richard, 1997, “John Dewey’s Naturalization of William James”, *The Cambridge Companion to William James*, Ruth Anna Putnam (ed.), Cambridge: Cambridge University Press, 49–68.
@@ -507,7 +507,7 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * Holt, Edwin B., 1912, “The Place of Illusory Experience in a Realistic World”, in *The New Realism: Coöperative Studies in Philosophy*, Edwin B. Holt, Walter T. Marvin, William Pepperell Montague, Ralph Barton Perry, Walter B. Pitkin, and Edward Gleason Spaulding (eds.), New York: The Macmillan Company, 303–373.
 * –––, 1914, *The Concept of Consciousness*, London: George Allen & Company.
 * Hume, David, 1739, *A Treatise of Human Nature*, L.A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1975.
-* James, William, 1895, “The Knowing of Things Together”, *The Psychological Review*, 2(2): 105–124. doi:10.1037/h0073221
+* James, William, 1895, “The Knowing of Things Together”, *The Psychological Review*, 2(2): 105–124. doi: 10.1037/h0073221
 * –––, 1904a, “A World of Pure Experience”, *Journal of Philosophy, Psychology and Scientific Methods*, 1(20, 21): 533–543, 561–570; reprinted in James 1912: 39–91.
 * –––, 1904b, “Does ‘Consciousness’ Exist?”, *Journal of Philosophy, Psychology and Scientific Methods*, 1(18): 477–491; reprinted in James 1912: 1–38.
 * –––, 1905, “La Notion De Conscience”, *Archives de Psychologie*, V (17); translated as “The Notion of Consciousness”, *Journal of Consciousness Studies*, 12(7) (2005): 55–64.
@@ -518,10 +518,10 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * Lamberth, David C, 1999, *William James and the Metaphysics of Experience*, Cambridge: Cambridge University Press.
 * Landini, Gregory, 2011, *Russell*, London and New York: Routledge.
 * –––, 2017, “Well-Ordering in the Russell-Newman Controversy”, *Russell: The Journal of Bertrand Russell Studies*, 37 (Winter): 288–306.
-* Lewis, David K., 1966, “An Argument for the Identity Theory”, *The Journal of Philosophy*, 63(1): 17–25. doi:10.2307/2024524
+* Lewis, David K., 1966, “An Argument for the Identity Theory”, *The Journal of Philosophy*, 63(1): 17–25. doi: 10.2307/2024524
 * –––, 1994, “Reduction of Mind”, in *A Companion to the Philosophy of Mind*, Samuel Guttenplan (ed.), Oxford: Blackwell, 197–209.
 * Lenin, V.I., 1909, *Materializm i Empirio-Kritisizm*, Translated as *Materialism and Empirio-Criticism*, Moscow: Foreign Languages Publishing House, 1959.
-* Lockwood, Michael, 1981, “What Was Russell’s Neutral Monism?”, *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy: Volume VI): 143–158. doi:10.1111/j.1475-4975.1981.tb00433.x
+* Lockwood, Michael, 1981, “What Was Russell’s Neutral Monism?”, *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy: Volume VI): 143–158. doi: 10.1111/j.1475-4975.1981.tb00433.x
 * Lloyd, Seth, 2006, *Programming the Universe: From the Big Bang to Quantum Computers*, London: Jonathan Cape.
 * Mach, Ernst, 1883, *Die Mechanik in ihrer Eniwickelung historisch-kritisch dargestellt*, fourth edition translated as *The Science of Mechanics*, Chicago: Open Court, 1919.
 * –––, 1886, *Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen*, fifth edition translated as *The Analysis of Sensations and the Relation of Physical to the Psychical*, New York: Dover, 1959.
@@ -529,87 +529,87 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 * –––, 1905, *Erkenntnis und Irrtum*, fifth edition translated as *Knowledge and Error*, Dordrecht: Reidel, 1976.
 * Maclean, Gülberk Koҫ, 2014, *Bertrand Russell’s Bundle Theory of Particulars*, New York: Bloomsbury Academic.
 * Martin, Charles B., 2008, *The Mind in Nature*, Oxford: Oxford University Press.
-* Maxwell, Grover, 1976, “Scientific Results and the Mind-Brain Issue: Some Afterthoughts”, in Globus et al. 1976: 329–358. doi:10.1007/978-1-4684-2196-5\_13
-* –––, 1978, “Rigid Designators and Mind-Brain Identity”, in *Perception and Cognition: Issues in the Foundations of Psychology* (Minnesota Studies in the Philosophy of Science, Volume IX), Wade C. Savage (ed.), Minneapolis: University of Minnesota Press, 365–405.
+* Maxwell, Grover, 1976, “Scientific Results and the Mind-Brain Issue: Some Afterthoughts”, in Globus et al. 1976: 329–358. doi: 10.1007/978-1-4684-2196-5\_13
+* –––, 1978, “Rigid Designators and Mind-Brain Identity”, in * Perception and Cognition: Issues in the Foundations of Psychology* (Minnesota Studies in the Philosophy of Science, Volume IX), Wade C. Savage (ed.), Minneapolis: University of Minnesota Press, 365–405.
 * Montero, Barbara Gail, 2015, “Russellian Physicalism”, in Alter and Nagasawa 2015: 209–223.
-* Muirhead, J.H., 1924, *Contemporary British Philosophy*, London: Allen & Unwin.
-* Nagel, Thomas, 2000, “The Psychophysical Nexus”, in *New Essays on the A Priori*, Paul Boghossian and Christopher Peacocke (eds.), Oxford: Clarendon Press; revised and reprinted in Nagel 2002: 194–235.
-* –––, 2002, *Concealment and Exposure*, Oxford: Oxford University Press.
-* –––, 2012, *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*, Oxford: Oxford University Press.
-* Pace Giannotta, Andrea, 2018, “The Concept of Experience in Husserl’s Phenomenology and James’ Radical Empiricism”, *Pragmatism Today*, 9(2): 33–42.
-* –––, 2021, “Panqualityism as a Critical Metaphysics for Neurophenomenology”, *Constructivist Foundations*, 16(2): 163–6.
-* Pereboom, Derk, 2011, *Consciousness and the Prospects of Physicalism*, New York: Oxford University Press.
+* Muirhead, J.H., 1924, * Contemporary British Philosophy*, London: Allen & Unwin.
+* Nagel, Thomas, 2000, “The Psychophysical Nexus”, in * New Essays on the A Priori*, Paul Boghossian and Christopher Peacocke (eds.), Oxford: Clarendon Press; revised and reprinted in Nagel 2002: 194–235.
+* –––, 2002, * Concealment and Exposure*, Oxford: Oxford University Press.
+* –––, 2012, * Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*, Oxford: Oxford University Press.
+* Pace Giannotta, Andrea, 2018, “The Concept of Experience in Husserl’s Phenomenology and James’ Radical Empiricism”, * Pragmatism Today*, 9(2): 33–42.
+* –––, 2021, “Panqualityism as a Critical Metaphysics for Neurophenomenology”, * Constructivist Foundations*, 16(2): 163–6.
+* Pereboom, Derk, 2011, * Consciousness and the Prospects of Physicalism*, New York: Oxford University Press.
 * –––, 2015, “Consciousness, Physicalism, and Absolutely Intrinsic Properties”, in Alter and Nagasawa 2015: 300–323.
-* Perry, Ralph Barton, 1912, *Present Philosophical Tendencies*, Longmans, Green, and Co.; reprinted: New York: George Braziller, 1955.
-* Persson, Ingmar, 1985, *The Primacy of Perception: Towards a Neutral Monism*, Lund: Library of Theoria (Gleerup).
-* –––, 2006, “Consciousness as Existence as a Form of Neutral Monism”, *Journal of Consciousness Studies*, 13(7–8): 128–146.
-* Petzoldt, Joseph, 1900, *Einführung in die Philosophie der Reinen Erfahrung. Erster Band: Die Bestimmtheit der Seele*, Leipzig: B.G. Teubner.
-* –––, 1904, *Einführung in die Philosophie der Reinen Erfahrung. Zweiter Band: Auf dem Wege zum Dauernden*, Leipzig: B.G. Teubner.
-* –––, 1906, *Das Weltproblem vom Standpunkte des relativistischen Positivismus aus*, 2nd edition, Leipzig: B.G. Teubner, 1912.
-* Pincock, Christopher, 2018, “Neutral Monism”, *The Bloomsbury Companion to Bertrand Russell*, Russell Wahl (ed.), New York: Bloomsbury, 312–33.
-* Popper, Karl R. and John C. Eccles, 1977, *The Self and Its Brain*, London: Routledge & Kegan Paul.
-* Preston, John, 2021, “Phenomenalism, or Neutral Monism, in Mach’s *Analysis of Sensations*”, *Interpreting Mach: Critical Essays*, John Preston (ed.), Cambridge: Cambridge University Press, 235–57.
-* Price, H.H., 1932, *Perception*, 2nd revised edition, London: Methuen, 1950.
-* Riehl, Alois, 1887, *Der Philosophische Kritizismus, Geschichte und System III: Zur Wissenschaftstheorie und Metaphysik*, translated by A. Fairbanks as *The Principles of the Critical Philosophy: Introduction to the Theory of Science and Metaphysics*, London: Keegan Paul, Trench, Trübner & Co. 1894
-* Rosenkrantz, Gary and Joshua Hoffman (eds.), 2011, *Historical Dictionary of Metaphysics*, Lanham, Toronto, and Plymouth: Scarecrow Press.
+* Perry, Ralph Barton, 1912, * Present Philosophical Tendencies*, Longmans, Green, and Co.; reprinted: New York: George Braziller, 1955.
+* Persson, Ingmar, 1985, * The Primacy of Perception: Towards a Neutral Monism*, Lund: Library of Theoria (Gleerup).
+* –––, 2006, “Consciousness as Existence as a Form of Neutral Monism”, * Journal of Consciousness Studies*, 13(7–8): 128–146.
+* Petzoldt, Joseph, 1900, * Einführung in die Philosophie der Reinen Erfahrung. Erster Band: Die Bestimmtheit der Seele*, Leipzig: B.G. Teubner.
+* –––, 1904, * Einführung in die Philosophie der Reinen Erfahrung. Zweiter Band: Auf dem Wege zum Dauernden*, Leipzig: B.G. Teubner.
+* –––, 1906, * Das Weltproblem vom Standpunkte des relativistischen Positivismus aus*, 2nd edition, Leipzig: B.G. Teubner, 1912.
+* Pincock, Christopher, 2018, “Neutral Monism”, * The Bloomsbury Companion to Bertrand Russell*, Russell Wahl (ed.), New York: Bloomsbury, 312–33.
+* Popper, Karl R. and John C. Eccles, 1977, * The Self and Its Brain*, London: Routledge & Kegan Paul.
+* Preston, John, 2021, “Phenomenalism, or Neutral Monism, in Mach’s * Analysis of Sensations *”, * Interpreting Mach: Critical Essays*, John Preston (ed.), Cambridge: Cambridge University Press, 235–57.
+* Price, H.H., 1932, * Perception*, 2nd revised edition, London: Methuen, 1950.
+* Riehl, Alois, 1887, * Der Philosophische Kritizismus, Geschichte und System III: Zur Wissenschaftstheorie und Metaphysik *, translated by A. Fairbanks as * The Principles of the Critical Philosophy: Introduction to the Theory of Science and Metaphysics*, London: Keegan Paul, Trench, Trübner & Co. 1894
+* Rosenkrantz, Gary and Joshua Hoffman (eds.), 2011, * Historical Dictionary of Metaphysics*, Lanham, Toronto, and Plymouth: Scarecrow Press.
 * Russell, Bertrand, 1914a, “On Scientific Method in Philosophy”, in Russell 1917: 97–124.
-* –––, 1914b, “On the Nature of Acquaintance”, *The Monist*, 24: 1–16, 161–87, 435–53; reprinted in Russell 1956c: 125–74.
-* –––, 1914c, “On the Relation of Sense-Data to Physics”, *Scientia*, 16: 1–27; reprinted in Russell 1917: 145–179.
-* –––, 1917, *Mysticism and Logic*, London: Allen & Unwin.
-* –––, 1918a, “The Philosophy of Logical Atomism”, *The Monist*, 28: 595–527; ibid, 29: p33–63, 190–222, 345–80; reprinted in Russell 1956c: 175–283.
+* –––, 1914b, “On the Nature of Acquaintance”, * The Monist*, 24: 1–16, 161–87, 435–53; reprinted in Russell 1956c: 125–74.
+* –––, 1914c, “On the Relation of Sense-Data to Physics”, * Scientia*, 16: 1–27; reprinted in Russell 1917: 145–179.
+* –––, 1917, * Mysticism and Logic*, London: Allen & Unwin.
+* –––, 1918a, “The Philosophy of Logical Atomism”, * The Monist*, 28: 595–527; ibid, 29: p33–63, 190–222, 345–80; reprinted in Russell 1956c: 175–283.
 * –––, 1918b, “On Sensations and Ideas”, in Russell 1986.
-* –––, 1919, “On Propositions: What They Are and How They Mean”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 2: 1–43; reprinted in Russell 1956c: 283–321.
-* –––, 1921, *The Analysis of Mind*, Reprinted: London: George Allen & Unwin, 1978.
+* –––, 1919, “On Propositions: What They Are and How They Mean”, * Proceedings of the Aristotelian Society* (Supplementary Volume), 2: 1–43; reprinted in Russell 1956c: 283–321.
+* –––, 1921, * The Analysis of Mind*, Reprinted: London: George Allen & Unwin, 1978.
 * –––, 1924, “Logical Atomism”, in J.H. Muirhead (ed.) 1924; reprinted in Russell 1956c: 321–343.
-* –––, 1927a, *The Analysis of Matter*, London: George Allen & Unwin.
-* –––, 1927b, *An Outline of Philosophy*, London: George Allen & Unwin.
-* –––, 1931, *The Scientific Outlook*, 2nd edition, London: Unwin Books, 1949.
+* –––, 1927a, * The Analysis of Matter*, London: George Allen & Unwin.
+* –––, 1927b, * An Outline of Philosophy*, London: George Allen & Unwin.
+* –––, 1931, * The Scientific Outlook*, 2nd edition, London: Unwin Books, 1949.
 * –––, 1946, “Reply to My Critics”, in Schilpp 1946: 679–741.
-* –––, 1948, *Human Knowledge. Its Scope and Limits*, London: Allen & Unwin; reprinted: New York: Simon & Schuster, 1978.
+* –––, 1948, * Human Knowledge. Its Scope and Limits*, London: Allen & Unwin; reprinted: New York: Simon & Schuster, 1978.
 * –––, 1956a, “Mind and Matter”, in Russell 1956b.
-* –––, 1956b, *Portraits from Memory*, London: Allen & Unwin.
-* –––, 1956c, *Logic and Knowledge. Essays 1901–1955*, Robert C. Marsh (ed.), London: Allen & Unwin.
-* –––, 1959, *My Philosophical Development*, London: George Allen \&Unwin.
-* –––, 1968, *Autobiography* (Volume Two), London: George Allen & Unwin.
-* –––, 1986, *The Philosophy of Logical Atomism and Other Essays 1914–1918* (Collected Papers: Volume 8), J.G. Slater (ed.), London: George Allen & Unwin: 252–55.
-* –––, 1996, “Analysis of Mind”, *A fresh Look at Empiricism 1927–42* (Collected Papers of Bertrand Russell, Volume 10), John Slater and Peter Köllner (ed.), New York: Routledge.
-* Sayre, Kenneth, 1976, *Cybernetics and the Philosophy of Mind*, Atlantic Highlands: Humanities Press.
-* Schaffer, Jonathan, 2016, “Monism”, *The Stanford Encyclopedia of Philosophy (Spring 2016 edition)*, Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2016/entries/monism/).
-* Schlick, Moritz, 1918, *Allgemeine Erkenntnislehre*, second edition translated by A.E. Blumenberg as *General Theory of Knowledge*, New York: Springer, 2013
-* Schilpp, Paul Arthur, (ed.), 1946, *The Philosophy of Bertrand Russell* (The Library of Living Philosophers: Volume 5), Evanston, Ill.: The Library of Living Philosophers, Inc.
-* Schneider, Susan, 2017, “Idealism, or Something Near Enough”, *Idealism: New Essays in Metaphysics*, Tyron Goldschmidt and Kenneth L. Pearce (eds.), New York: Oxford University Press, 275–90.
-* Seager, William, 2016, *Theories of Consciousness*, second edition, New York: Routledge.
-* Sellars, Wilfrid, 1963, *Science, Perception and Reality*, New York: Humanities Press.
-* Shani, Itay, 2022, “Eden Benumbed: A Critique of Panqualityism and the Disclosure View of Consciousness”, *Philosophia*, 50: 233–56.
-* Silberstein, Michael and Anthony Chemero, 2015, “Extending Neutral Monism to the Hard Problem”, *Journal of Consciousness Studies*, 22(3–4): 181–94.
-* Silberstein, Michael, 2020, “Neutral Monism Reborn: Breaking the Gridlock Between Emergence and Inherence”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 204–17.
-* Skrbina, David, 2005, *Panpsychism in the West*, Cambridge, MA: MIT Press.
-* –––, 2014, “Dualism, Dual-Aspectism, and the Mind”, in *Contemporary Dualism: A Defense*, Lavazza and Robinson (eds.), New York and London: Routledge, 220–244.
-* Spinoza, Baruch, 1677, *Ethics*, in *The Collected Works of Spinoza*, Edwin Curley (ed. and trans.), Princeton: Princeton University Press.
+* –––, 1956b, * Portraits from Memory*, London: Allen & Unwin.
+* –––, 1956c, * Logic and Knowledge. Essays 1901–1955*, Robert C. Marsh (ed.), London: Allen & Unwin.
+* –––, 1959, * My Philosophical Development*, London: George Allen \&Unwin.
+* –––, 1968, * Autobiography* (Volume Two), London: George Allen & Unwin.
+* –––, 1986, * The Philosophy of Logical Atomism and Other Essays 1914–1918* (Collected Papers: Volume 8), J.G. Slater (ed.), London: George Allen & Unwin: 252–55.
+* –––, 1996, “Analysis of Mind”, * A fresh Look at Empiricism 1927–42* (Collected Papers of Bertrand Russell, Volume 10), John Slater and Peter Köllner (ed.), New York: Routledge.
+* Sayre, Kenneth, 1976, * Cybernetics and the Philosophy of Mind*, Atlantic Highlands: Humanities Press.
+* Schaffer, Jonathan, 2016, “Monism”, * The Stanford Encyclopedia of Philosophy (Spring 2016 edition)*, Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2016/entries/monism/).
+* Schlick, Moritz, 1918, * Allgemeine Erkenntnislehre *, second edition translated by A.E. Blumenberg as * General Theory of Knowledge*, New York: Springer, 2013
+* Schilpp, Paul Arthur, (ed.), 1946, * The Philosophy of Bertrand Russell* (The Library of Living Philosophers: Volume 5), Evanston, Ill.: The Library of Living Philosophers, Inc.
+* Schneider, Susan, 2017, “Idealism, or Something Near Enough”, * Idealism: New Essays in Metaphysics*, Tyron Goldschmidt and Kenneth L. Pearce (eds.), New York: Oxford University Press, 275–90.
+* Seager, William, 2016, * Theories of Consciousness*, second edition, New York: Routledge.
+* Sellars, Wilfrid, 1963, * Science, Perception and Reality*, New York: Humanities Press.
+* Shani, Itay, 2022, “Eden Benumbed: A Critique of Panqualityism and the Disclosure View of Consciousness”, * Philosophia*, 50: 233–56.
+* Silberstein, Michael and Anthony Chemero, 2015, “Extending Neutral Monism to the Hard Problem”, * Journal of Consciousness Studies*, 22(3–4): 181–94.
+* Silberstein, Michael, 2020, “Neutral Monism Reborn: Breaking the Gridlock Between Emergence and Inherence”, * The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 204–17.
+* Skrbina, David, 2005, * Panpsychism in the West*, Cambridge, MA: MIT Press.
+* –––, 2014, “Dualism, Dual-Aspectism, and the Mind”, in * Contemporary Dualism: A Defense*, Lavazza and Robinson (eds.), New York and London: Routledge, 220–244.
+* Spinoza, Baruch, 1677, * Ethics *, in * The Collected Works of Spinoza*, Edwin Curley (ed. and trans.), Princeton: Princeton University Press.
 * Stace, W.T., 1946, “Russell’s Neutral Monism”, in Schilpp 1946: 351–384.
-* Stoljar, Daniel, 2001, “Two Conceptions of the Physical”, *Philosophy and Phenomenological Research* 62(2): 253–281. doi:10.2307/2653699
-* Strawson, Galen, 1994, *Mental Reality*, Cambridge, MA: MIT Press.
-* –––, 2006, “Panpsychism? Reply to Commentators with a Celebration of Descartes”, in Galen Strawson (ed.), *Consciousness and Its Place in Nature. Does Physicalism Entail Panpsychism?*, Exeter: Imprint Academic, 184–280.
+* Stoljar, Daniel, 2001, “Two Conceptions of the Physical”, * Philosophy and Phenomenological Research* 62(2): 253–281. doi: 10.2307/2653699
+* Strawson, Galen, 1994, * Mental Reality*, Cambridge, MA: MIT Press.
+* –––, 2006, “Panpsychism? Reply to Commentators with a Celebration of Descartes”, in Galen Strawson (ed.), * Consciousness and Its Place in Nature. Does Physicalism Entail Panpsychism?*, Exeter: Imprint Academic, 184–280.
 * –––, 2015, “Real Materialism”, in Alter and Nagasawa 2015: 161–208.
 * –––, 2016, “Mind and Being. The Primacy of Panpsychism”, in Brüntrup and Jaskolla 2017: 161–208.
-* –––, 2020, “What Does ‘Physical’ Mean? A Prolegomenon to Physicalist Panpsychism”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 317–39.
+* –––, 2020, “What Does ‘Physical’ Mean? A Prolegomenon to Physicalist Panpsychism”, * The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 317–39.
 * Stubenberg, Leopold, 2015, “Russell, Russellian Monism, and Panpsychism”, in Alter and Nagasawa 2015: 58–90.
 * –––, 2017, “Neutral Monism and Panpsychism”, in Brüntrup and Jaskolla 2017: 349–68.
-* Tegmark, Max, 2014, *Our Mathematical Universe. My Quest for the Ultimate Nature of Reality*, New York: Alfred A. Knopf.
-* Textor, Mark, 2021a, “Mach’s Neutral Monism”, *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 11(1): 143–65.
-* –––, 2021b, *The Disappearance of the Soul and the Turn against Metaphysics: Austrian Philosophy 1874–1918*, New York: Oxford University Press.
-* Tully, Robert E., 1988, “Russell’s Neutral Monism”, *Russell: The Journal of Bertrand Russell Studies*, 8(1): 209–24.
-* –––, 1993, “Three Studies of Neutral Monism”, *Russell: The Journal of Bertrand Russell Studies*, 13(1): 5–35 and 13(2): 185–202.
-* –––, 2003, “Russell’s Neutral Monism”, in Nicholas Griffin (ed.), *The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press, 332–70.
-* Unger, Peter, 1999, “The Mystery of the Physical and the Matter of Qualities: A Paper for Professor Schaffer”, *New Directions in Philosophy* (Midwest Studies in Philosophy: Volume 23): 75–99.
-* Van Cleve, James, 2022, “Two Problems in Spinoza’s Theory of Mind”, *Oxford Studies in the Philosophy of Mind* (Volume 2), Uriah Kriegel (ed.), New York: Oxford University Press.
-* Van Gulick, Robert, 2014, “Consciousness”, *The Stanford Encyclopedia of Philosophy (Spring 2014 edition)*, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2014/entries/consciousness/)>.
-* Velmans, Max, 2008, “Reflexive Monism”, *Journal of Consciousness Studies*, 15(2): 5–50.
-* Westphal, Jonathan, 2016, *The Mind-Body Problem*, Cambridge, MA: MIT Press.
+* Tegmark, Max, 2014, * Our Mathematical Universe. My Quest for the Ultimate Nature of Reality*, New York: Alfred A. Knopf.
+* Textor, Mark, 2021a, “Mach’s Neutral Monism”, * HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 11(1): 143–65.
+* –––, 2021b, * The Disappearance of the Soul and the Turn against Metaphysics: Austrian Philosophy 1874–1918*, New York: Oxford University Press.
+* Tully, Robert E., 1988, “Russell’s Neutral Monism”, * Russell: The Journal of Bertrand Russell Studies*, 8(1): 209–24.
+* –––, 1993, “Three Studies of Neutral Monism”, * Russell: The Journal of Bertrand Russell Studies*, 13(1): 5–35 and 13(2): 185–202.
+* –––, 2003, “Russell’s Neutral Monism”, in Nicholas Griffin (ed.), * The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press, 332–70.
+* Unger, Peter, 1999, “The Mystery of the Physical and the Matter of Qualities: A Paper for Professor Schaffer”, * New Directions in Philosophy* (Midwest Studies in Philosophy: Volume 23): 75–99.
+* Van Cleve, James, 2022, “Two Problems in Spinoza’s Theory of Mind”, * Oxford Studies in the Philosophy of Mind* (Volume 2), Uriah Kriegel (ed.), New York: Oxford University Press.
+* Van Gulick, Robert, 2014, “Consciousness”, * The Stanford Encyclopedia of Philosophy (Spring 2014 edition)*, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2014/entries/consciousness/)>.
+* Velmans, Max, 2008, “Reflexive Monism”, * Journal of Consciousness Studies*, 15(2): 5–50.
+* Westphal, Jonathan, 2016, * The Mind-Body Problem*, Cambridge, MA: MIT Press.
 * Wishon, Donovan, 2015, “Russell on Russellian Monism”, in Alter and Nagasawa 2015: 91–118
-* –––, 2016, “Panpsychism, Panprotopsychism, and Neutral Monism”, *Philosophy: Mind* (MacMillan Interdisciplinary Handbooks), Brian McLaughlin (ed.), Farmington Hills, MI: MacMillan, 51–70.
-* –––, 2020, “Russell’s Neutral Monism and Panpsychism”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 87–102.
-* –––, 2021, “Radical Empiricism, Neutral Monism, and the Elements of Mind”, *The Monist*, 104(1): 125–51.
+* –––, 2016, “Panpsychism, Panprotopsychism, and Neutral Monism”, * Philosophy: Mind* (MacMillan Interdisciplinary Handbooks), Brian McLaughlin (ed.), Farmington Hills, MI: MacMillan, 51–70.
+* –––, 2020, “Russell’s Neutral Monism and Panpsychism”, * The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 87–102.
+* –––, 2021, “Radical Empiricism, Neutral Monism, and the Elements of Mind”, * The Monist*, 104(1): 125–51.
 
 ## Academic Tools
 

@@ -22,7 +22,7 @@
 
 几位作者确定了导致联邦政治秩序的两个完全不同的过程（弗里德里希，1968 年，布坎南，1995 年，斯蒂潘，1999 年等）。独立的国家可能通过在某些领域内放弃或汇聚主权权力来聚合，以获得其他情况下无法获得的利益，如安全或经济繁荣。这种联合形成的联邦政治秩序通常被安排为限制中心并防止多数派推翻成员单位。例如，目前的美国，加拿大，瑞士和澳大利亚。保持联合的联邦政治秩序是从单一国家发展而来的，因为政府下放权力以减轻领土上聚集的少数民族的动荡或分裂威胁。这种联邦政治秩序通常授予一些成员单位特定的主权领域，例如在不对称联邦中授予语言和文化权利，同时为中央政府和多数派保留广泛的行动范围。例如，印度，比利时和西班牙。
 
-除了按照领土组织的联邦政治秩序外，另一种有趣的对单一国家的替代方案是，当非领土成员单位由共享种族、宗教或其他特征的群体组成时。这些系统有时被称为“非领土”联邦。 卡尔·伦纳（Renner 1907）和奥托·鲍尔（Bauer 1903）探讨了这种为地理上分散的文化少数群体设立的安排，使他们在没有领土自治的情况下拥有一定的文化和“个人”自治权（Bottomore 和 Goode 1978；参见 Tamir 1993 和 Nimni 2005）。共商共治由成员单位中的相对隔离的群体组成，此外，这些群体通常通过一致性而不是多数统治中央机构（Lijphart 1977）。
+除了按照领土组织的联邦政治秩序外，另一种有趣的对单一国家的替代方案是，当非领土成员单位由共享种族、宗教或其他特征的群体组成时。这些系统有时被称为“非领土”联邦。 卡尔 · 伦纳（Renner 1907）和奥托 · 鲍尔（Bauer 1903）探讨了这种为地理上分散的文化少数群体设立的安排，使他们在没有领土自治的情况下拥有一定的文化和“个人”自治权（Bottomore 和 Goode 1978；参见 Tamir 1993 和 Nimni 2005）。共商共治由成员单位中的相对隔离的群体组成，此外，这些群体通常通过一致性而不是多数统治中央机构（Lijphart 1977）。
 
 ## 联邦主义的历史
 
@@ -32,25 +32,25 @@
 
 我们发现联邦主义政治组织模式在许多大陆上存在，并且在跨越哲学传统的书面来源中对联邦主义理论做出了贡献。一系列哲学贡献强调，联邦主义观点不仅适用于欧洲和美国思想中的主权国家，还适用于各种单位。
 
-毛利人在现今的新西兰的部落组织包括家庭团体（whanau），他们会一起工作并合作进行部落（hapū）的防御。 部落（iwi）反过来会作为几个 hapū之间的联邦进行共同防御（Ballara 1998, 19）。
+毛利人在现今的新西兰的部落组织包括家庭团体（whanau），他们会一起工作并合作进行部落（hapū）的防御。 部落（iwi）反过来会作为几个 hapū 之间的联邦进行共同防御（Ballara 1998, 19）。
 
-几个已灭绝的非洲社会具有联邦元素。爱德华·瓦马拉描述了我们在 14 世纪前的甘达社会中所认识到的联邦特征，后来成为了巴干达王国的一部分，现在属于乌干达。酋长（ssabataka）和部落首领（mutaka）之间的权力结构是平等主义者之间的关系。部落享有豁免权，即更高级别的单位不应篡夺较低级别权力的责任，而只应促进较低级别单位的福祉（Wamala 2004: 436–437）
+几个已灭绝的非洲社会具有联邦元素。爱德华 · 瓦马拉描述了我们在 14 世纪前的甘达社会中所认识到的联邦特征，后来成为了巴干达王国的一部分，现在属于乌干达。酋长（ssabataka）和部落首领（mutaka）之间的权力结构是平等主义者之间的关系。部落享有豁免权，即更高级别的单位不应篡夺较低级别权力的责任，而只应促进较低级别单位的福祉（Wamala 2004: 436–437）
 
 纳瓦（阿兹特克）文化展示了多层次的联邦主义：Tlaxilacalli - 翻译不当并被理解为“邻里” - 将服从于主权地方政体，或 altepetl，然后扩展到自治的大省（huei altepetl），最终延伸至整个帝国。在每个层次上，服从被交换为自治，削弱了任何直接集权统治的尝试（Johnson 2017）。在 1428 年的三城邦（altepeme）之间为军事目的而建立的三方联盟中，Tenochtitlan，Texcoco 和 Totoquihuatzin 各自统治其依附的 altepetl，而不受其他两者的干涉（Lockhart 1992）。
 
 孔子政治哲学家孟子（公元前 379-公元前 298 年）提出了一个三级“家庭”秩序（Chan 2003）。家庭对于无法照顾自己的人负有主要责任，统治者应该是人民的父母（Mencius 2003, 1B.13）。当家庭无法提供帮助时，社区网络应提供支持。只有当社区无法提供帮助时，我们可能称之为国家的实体才有义务提供援助。
 
-我们在伊斯兰教的第三支柱中发现了联邦主义的表达：以赈税的形式向某些家庭之外的贫困人士提供援助（《古兰经》9:103）。每个有能力的穆斯林必须提供其净财富的固定比例——2.5%——以支持其他有需要的人。在评估、征收和分发赈税时，国家的角色可能有所不同。在一些国家，赈税的征收或分发是民间社会组织或清真寺的责任。在其他国家，如果穆斯林未能支付，政府有责任确保赈税的管理；或整个系统可能由国家管理（Bilo and Mechado 2018）。
+我们在伊斯兰教的第三支柱中发现了联邦主义的表达：以赈税的形式向某些家庭之外的贫困人士提供援助（《古兰经》9: 103）。每个有能力的穆斯林必须提供其净财富的固定比例——2.5%——以支持其他有需要的人。在评估、征收和分发赈税时，国家的角色可能有所不同。在一些国家，赈税的征收或分发是民间社会组织或清真寺的责任。在其他国家，如果穆斯林未能支付，政府有责任确保赈税的管理；或整个系统可能由国家管理（Bilo and Mechado 2018）。
 
 乌班图哲学具有联邦主义特征，也对法律理论产生了影响。术语“Ubuntu”源自恩格尼语短语“Umuntu ngumuntu ngabantu”，意为一个人通过其他人成为人。Ubuntu 强调人与人之间的和谐关系构成个体，强调对彼此成长的同情和承诺。各个地域层面政府的任务是促进各部分的和谐繁荣和社区（Shutte 2001）。Ubuntu 被纳入南非 1993 年临时宪法的尾声，但在其 1996 年宪法中并未明确提及。
 
-五个（后来六个）霍登诺维族（伊罗凯斯）国家之间的联邦制始于 12 至 15 世纪。口头宪法——和平大法——规定每个国家选举代表或酋长，处理内部事务。联邦的大议会不能干涉每个部落的内部事务，但会讨论战争、和平和条约等共同关心的特定事项。霍登诺维人授予成员单位豁免权的做法显然影响了本杰明·富兰克林等人呼吁英国殖民地联合的提议（Fenton 1998）。艾丽丝·玛丽昂·杨（Iris Marion Young）探讨了这一传统，以发展一种确保豁免权和纠正权力失衡的联邦主义理论（Young 2000；Levy 2008）。
+五个（后来六个）霍登诺维族（伊罗凯斯）国家之间的联邦制始于 12 至 15 世纪。口头宪法——和平大法——规定每个国家选举代表或酋长，处理内部事务。联邦的大议会不能干涉每个部落的内部事务，但会讨论战争、和平和条约等共同关心的特定事项。霍登诺维人授予成员单位豁免权的做法显然影响了本杰明 · 富兰克林等人呼吁英国殖民地联合的提议（Fenton 1998）。艾丽丝 · 玛丽昂 · 杨（Iris Marion Young）探讨了这一传统，以发展一种确保豁免权和纠正权力失衡的联邦主义理论（Young 2000；Levy 2008）。
 
 ### 2.2 西方贡献
 
 亚里士多德（384-322 BC）提供了联邦思想的早期西方例证，其中一些成员单位并非政治性质。家庭和村庄的任务是确保个人生活必需品。城邦（polis）是这些家庭、宗族和村庄的自给自足社区，用于保护和实现（《政治学》第三卷第九章，1280b）。亚里士多德（384-322 BC）提供了联邦思想的早期西方例证，其中一些成员单位并非政治性质。家庭和村庄的任务是确保个人生活必需品。城邦（polis）是这些家庭、宗族和村庄的自给自足社区，用于保护和实现（《政治学》第三卷第九章，1280b）。
 
-早期欧洲联邦主义思想的几位贡献者探讨了 17 和 18 世纪兴起和发展的中央集权国家的基础和弱点。 Johannes Althusius（1557-1630）常被视为现代联邦主义思想之父。他在《Politica Methodice Digesta》（Althusius 1603）中主张他的城市 Emden 的自治权，既反对其路德教省主，也反对天主教皇帝。 Althusius 受法国胡格诺派和加尔文主义的强烈影响。作为几个国家的永久少数派，加尔文主义者发展了一种抵抗主义学说，认为“自然领袖”有权利和义务抵抗暴政。正统的加尔文主义者坚持社会圈子中的主权仅服从上帝的法律。法国新教胡格诺派进一步发展了一种合法性理论，由一个化名为“尤尼乌斯·布鲁图斯”的作者于 1579 年在《反暴君辩护》中提出。人民被视为领土等级社区中的一个团体，拥有上帝赋予的抵抗没有合法主张的统治者的权利。 Althusius 拒绝了神权政治，发展了一种非宗派、非宗教的契约政治理论，禁止国家干预甚至用于推广正确信仰。容纳异议和多样性胜过任何将政治权力服从于宗教或反之的兴趣。
+早期欧洲联邦主义思想的几位贡献者探讨了 17 和 18 世纪兴起和发展的中央集权国家的基础和弱点。 Johannes Althusius（1557-1630）常被视为现代联邦主义思想之父。他在《Politica Methodice Digesta》（Althusius 1603）中主张他的城市 Emden 的自治权，既反对其路德教省主，也反对天主教皇帝。 Althusius 受法国胡格诺派和加尔文主义的强烈影响。作为几个国家的永久少数派，加尔文主义者发展了一种抵抗主义学说，认为“自然领袖”有权利和义务抵抗暴政。正统的加尔文主义者坚持社会圈子中的主权仅服从上帝的法律。法国新教胡格诺派进一步发展了一种合法性理论，由一个化名为“尤尼乌斯 · 布鲁图斯”的作者于 1579 年在《反暴君辩护》中提出。人民被视为领土等级社区中的一个团体，拥有上帝赋予的抵抗没有合法主张的统治者的权利。 Althusius 拒绝了神权政治，发展了一种非宗派、非宗教的契约政治理论，禁止国家干预甚至用于推广正确信仰。容纳异议和多样性胜过任何将政治权力服从于宗教或反之的兴趣。
 
 人类基本上依赖他人可靠地提供舒适和神圣生活所需的东西，我们需要既在工具上又在本质上对支持我们需求的社区和协会进行支持。阿尔图修斯（Althusius）像亚里士多德一样，在他的联邦理论中包括了非政治单位。家庭、行会、城市、省份、州和其他协会将他们的合法性和对政治权力的要求归因于他们在实现神圣生活中的各种角色，而不是个体对自治的兴趣。每个协会都声称在其自身领域内对其他协会的干预拥有自治权。阿尔图修斯借用了最初用于上帝与人之间的联盟的术语，认为协会达成世俗协议——《联邦契约》——以相互仁爱共处。人类基本上依赖他人可靠地提供舒适和神圣生活所需的东西，我们需要既在工具上又在本质上对支持我们需求的社区和协会进行支持。阿尔图修斯（Althusius）像亚里士多德一样，在他的联邦理论中包括了非政治单位。家庭、行会、城市、省份、州和其他协会将他们的合法性和对政治权力的要求归因于他们在实现神圣生活中的各种角色，而不是个体对自治的兴趣。每个协会都声称在其自身领域内对其他协会的干预拥有自治权。阿尔图修斯借用了最初用于上帝与人之间的联盟的术语，认为协会达成世俗协议——《联邦契约》——以相互仁爱共处。
 
@@ -62,11 +62,11 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 在《法政精神》（1748 年）中，蒙特斯基（1689-1755）主张联邦安排将小型和大型政治单位的优点结合起来，而又没有任何缺点。一方面，它们可以提供小型国家的优势，如共和参与和自由被理解为非统治——即，对滥用权力的安全。同时，联邦秩序确保了大型国家的好处，如军事安全，而又避免了小型和大型国家的风险。具有权力分立的“联邦共和国”允许在足够小的成员单位内实现足够的同质性和认同。成员单位反过来集中权力以确保外部安全，并保留退出的权利（第 9 卷，第 1 章）。成员单位作为彼此的制衡，因为其他成员单位可能会介入镇压一个成员单位内的叛乱和权力滥用。这些主题在以后的贡献中反复出现，直至包括有关欧盟的讨论（参见列维 2004 年，2005 年，2007 年）。
 
-大卫·休谟（1711-1776）不同意孟德斯鸠认为规模较小更好的观点。相反，“在一个大型民主国家中……有足够的空间和余地来完善民主。”在《完美联邦的构想》（Hume 1752）中，休谟建议采用一种联邦安排来审议涉及成员单位和中央立法机构的法律。成员单位享有若干权力并参与中央决策，但他们的法律和法院判决总是可以被中央机构否决，因此休谟的模式似乎并非按照此处使用的“联邦”一词的含义。他认为，这样一个庞大且地理范围广阔的系统将比小城市更好地防止基于“阴谋、偏见或激情”而违背公共利益的决定。
+大卫 · 休谟（1711-1776）不同意孟德斯鸠认为规模较小更好的观点。相反，“在一个大型民主国家中……有足够的空间和余地来完善民主。”在《完美联邦的构想》（Hume 1752）中，休谟建议采用一种联邦安排来审议涉及成员单位和中央立法机构的法律。成员单位享有若干权力并参与中央决策，但他们的法律和法院判决总是可以被中央机构否决，因此休谟的模式似乎并非按照此处使用的“联邦”一词的含义。他认为，这样一个庞大且地理范围广阔的系统将比小城市更好地防止基于“阴谋、偏见或激情”而违背公共利益的决定。
 
-十八世纪有几个关于欧洲和平计划建议采取联邦安排。阿贝·圣皮埃尔（1658-1743）于 1713 年提出的和平计划允许干预成员单位以平息叛乱，对非成员发动战争以迫使他们加入已建立的联邦，并要求协议的变更必须一致通过。
+十八世纪有几个关于欧洲和平计划建议采取联邦安排。阿贝 · 圣皮埃尔（1658-1743）于 1713 年提出的和平计划允许干预成员单位以平息叛乱，对非成员发动战争以迫使他们加入已建立的联邦，并要求协议的变更必须一致通过。
 
-让-雅克·卢梭（Jean-Jacques Rousseau，1712–1778）提出并批评了圣皮埃尔的提议，列出了几个条件，包括所有主要大国必须成为成员，联合立法必须具有约束力，联合力量必须比任何单一国家更强大，以及脱离联邦必须是非法的。再次强调，对协议的更改需要一致同意。
+让-雅克 · 卢梭（Jean-Jacques Rousseau，1712–1778）提出并批评了圣皮埃尔的提议，列出了几个条件，包括所有主要大国必须成为成员，联合立法必须具有约束力，联合力量必须比任何单一国家更强大，以及脱离联邦必须是非法的。再次强调，对协议的更改需要一致同意。
 
 康德（Immanuel Kant）在《永久和平论》（1796 年）中捍卫了一个和平的联邦。他的《永久和平的第二明确条款》认为，各国的权利应建立在自由国家之间的和平联邦基础上，而不是和平条约或国际国家：“这个联邦的目的并不是获得像国家那样的权力，而仅仅是为了保护和确保每个国家本身的自由，以及其他联邦国家的自由，尽管这并不意味着它们需要服从公共法律和强制执行这些法律的强制力，就像自然状态下的人们那样。”
 
@@ -74,9 +74,9 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 1781 年的《联邦条例》规定了 13 个美国州对抗英国统治的中心过于弱小，无法执行法律、国防和确保州际商业。后来被称为美国宪法大会于 1787 年 5 月 25 日至 9 月 17 日举行。宪法大会明确限定为修订《条例》，但最终建议进行更根本性的改变。所提议的宪法引发了广泛的辩论和争论，讨论了联邦主义与邦联安排的利弊，最终导致 1789 年生效的宪法。
 
-“反联邦主义者”害怕过度中央集权。他们担心中央当局的权力受到不够约束，例如，没有通过《权利法案》（约翰·德威特 1787 年）的约束，该法案最终于 1791 年得到批准。他们还担心中央可能逐渐篡夺成员单位的权力。援引孟德斯鸠，另一位化名为“布鲁图斯”的人怀疑一个地理范围如此之大、拥有如此多利益冲突的居民的共和国是否能避免暴政，并且是否能允许基于当地知识进行共同的审议和决策（布鲁图斯（罗伯特·耶茨？）1787 年）。
+“反联邦主义者”害怕过度中央集权。他们担心中央当局的权力受到不够约束，例如，没有通过《权利法案》（约翰 · 德威特 1787 年）的约束，该法案最终于 1791 年得到批准。他们还担心中央可能逐渐篡夺成员单位的权力。援引孟德斯鸠，另一位化名为“布鲁图斯”的人怀疑一个地理范围如此之大、拥有如此多利益冲突的居民的共和国是否能避免暴政，并且是否能允许基于当地知识进行共同的审议和决策（布鲁图斯（罗伯特 · 耶茨？）1787 年）。
 
-在《联邦党人文集》中，詹姆斯·麦迪逊（1751–1836）、亚历山大·汉密尔顿（1755–1804）和约翰·杰伊（1745–1829）激烈地辩护了建议的交织联邦安排模式（《联邦党人文集》10、45、51、62）。麦迪逊和汉密尔顿同意休谟的观点，即在较大的共和国中，共同利益的成员单位可以相互制衡，从而降低了激情多数派导致的暴政风险：“对纸币的狂热，对债务的废除，对财产的平均分配，或对任何不当或邪恶的计划的追求，不太可能在整个联邦的全体中蔓延，而在其中的某个特定成员中更有可能。”（《联邦党人文集》10）。按照汉密尔顿的看法，将主权分割在成员单位和中央之间也将保护个人权利免受任何一级当局的滥用，他引用孟德斯鸠的话长篇大论以支持这一观点（《联邦党人文集》9）。
+在《联邦党人文集》中，詹姆斯 · 麦迪逊（1751–1836）、亚历山大 · 汉密尔顿（1755–1804）和约翰 · 杰伊（1745–1829）激烈地辩护了建议的交织联邦安排模式（《联邦党人文集》10、45、51、62）。麦迪逊和汉密尔顿同意休谟的观点，即在较大的共和国中，共同利益的成员单位可以相互制衡，从而降低了激情多数派导致的暴政风险：“对纸币的狂热，对债务的废除，对财产的平均分配，或对任何不当或邪恶的计划的追求，不太可能在整个联邦的全体中蔓延，而在其中的某个特定成员中更有可能。”（《联邦党人文集》10）。按照汉密尔顿的看法，将主权分割在成员单位和中央之间也将保护个人权利免受任何一级当局的滥用，他引用孟德斯鸠的话长篇大论以支持这一观点（《联邦党人文集》9）。
 
 麦迪逊（Madison）指出正确分配权力的问题，支持将一些权威交给成员单位，因为它们最适合处理中心忽视的“地方情况和次要利益”（《联邦主义》37）。
 
@@ -84,15 +84,15 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 他们特别关注解决过度中央集权的担忧，认为这些担忧不应通过限制在相关领域（如国防）的权力程度来解决，而应通过中央当局的构成来解决（《联邦党人文集》31）。他们还声称，人民会对成员单位政府保持更强的“情感、尊重和崇敬”，因为在日常刑事和民事司法管理中，该政府具有公开的可见性（《联邦党人文集》17）。
 
-约翰·斯图尔特·密尔（1806-1873 年）在《论代议政府的考虑》（1861 年）第 17 章中建议“人类的部分”之间建立联邦，以防止彼此之间的战争并防御侵略。他还允许中央政府拥有足够的权力，以确保联合的所有利益，包括防止边境关税以促进商业。他列出了联邦的三个必要条件：足够的种族、语言、宗教和政治制度的相互同情，尤其是政治利益的认同感；没有任何成员单位强大到不需要联合进行防御，也不会过度引诱分裂；成员单位之间的实力大致平等，以防止一两个单位内部的支配。密尔还声称联邦的好处包括减少弱国家的数量，从而减少侵略的诱惑，结束成员单位之间的战争和贸易限制；联邦更少侵略，只在防御时使用其力量。联邦以及分权的进一步好处可能包括从“生活实验”中学习。
+约翰 · 斯图尔特 · 密尔（1806-1873 年）在《论代议政府的考虑》（1861 年）第 17 章中建议“人类的部分”之间建立联邦，以防止彼此之间的战争并防御侵略。他还允许中央政府拥有足够的权力，以确保联合的所有利益，包括防止边境关税以促进商业。他列出了联邦的三个必要条件：足够的种族、语言、宗教和政治制度的相互同情，尤其是政治利益的认同感；没有任何成员单位强大到不需要联合进行防御，也不会过度引诱分裂；成员单位之间的实力大致平等，以防止一两个单位内部的支配。密尔还声称联邦的好处包括减少弱国家的数量，从而减少侵略的诱惑，结束成员单位之间的战争和贸易限制；联邦更少侵略，只在防御时使用其力量。联邦以及分权的进一步好处可能包括从“生活实验”中学习。
 
-皮埃尔-约瑟夫·普鲁东（1809-1865 年），在《联邦原则》（1863 年）中，将联邦主义捍卫为在“自然”社区（如家庭和行会）中保留个人自由的最佳方式，这些社区之间为必要和特定目的而达成协议。国家只是负责协调的几个非主权代理机构之一，没有最终权威。
+皮埃尔-约瑟夫 · 普鲁东（1809-1865 年），在《联邦原则》（1863 年）中，将联邦主义捍卫为在“自然”社区（如家庭和行会）中保留个人自由的最佳方式，这些社区之间为必要和特定目的而达成协议。国家只是负责协调的几个非主权代理机构之一，没有最终权威。
 
-虽然普鲁东对中央集权持谨慎态度，但一些作者如哈罗德·拉斯基(Harold Laski)警告称《联邦主义的过时》(1939)。重要问题，比如“巨头资本主义”带来的问题，需要比联邦安排能够提供的更加集中化的应对措施。
+虽然普鲁东对中央集权持谨慎态度，但一些作者如哈罗德 · 拉斯基(Harold Laski)警告称《联邦主义的过时》(1939)。重要问题，比如“巨头资本主义”带来的问题，需要比联邦安排能够提供的更加集中化的应对措施。
 
 在第二次世界大战期间和之后，联邦主义的哲学反思因多种原因而得到振兴。Altiero Spinelli 和 Ernesto Rossi 在 1944 年发表的《Ventotene 宣言》中呼吁建立一个欧洲联邦国家。他们谴责极权主义、中央集权的国家以及它们之间永无止境的冲突。相反，应该有足够的共享控制权来控制军事和经济力量，然而“每个国家都将保留其所需的自治权，以便根据各民族的特定特征进行政治生活的塑造和发展。”许多人正是沿着这些思路解释和证明欧洲联盟，而其他人则更为批判。
 
-汉娜·阿伦特（1906-1975）追溯了极权主义和工业化大规模谋杀的根源，认为这源于主权国家模式的缺陷。对自由国际主义和政治现实主义持怀疑态度的她，反而主张共和联邦模式或理想类型，其中“联邦单位相互制衡和控制他们的权力”（Arendt 1972）。
+汉娜 · 阿伦特（1906-1975）追溯了极权主义和工业化大规模谋杀的根源，认为这源于主权国家模式的缺陷。对自由国际主义和政治现实主义持怀疑态度的她，反而主张共和联邦模式或理想类型，其中“联邦单位相互制衡和控制他们的权力”（Arendt 1972）。
 
 殖民主义者的退出也留下了需要创造性解决方案来结合自治和共同统治的多民族国家（Karmis 和 Norman 2005）。此外，全球化不仅促使整合和协调，而且也在一定程度上促使探索如何仍然保持一些地方自治的方式（Watts 1998）。
 
@@ -107,7 +107,7 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 有几个建议的原因支持联邦秩序而不是独立的州或分裂。
 
 * 联邦制度可以促进主权国家的一些目标，例如可靠的承诺、某些类型的协调以确保各种公共产品，并通过将一些权力转移给一个共同机构来控制影响其他方的外部性。由于某些领域的合作可能会“溢出”并在其他领域引发进一步协调的需求，因此联邦制度经常表现出逐渐中央集权的趋势。请注意，这些目标中的几个需要在联邦秩序内正确分配权限和否决点。对于一些复杂的共同目标，如环境问题，联邦制度的特征否则可能成为问题的一部分（Adler 2005，Dalmazzone 2006）。
-* 联邦主义可能以多种方式促进和平，包括防止战争和消除战争恐惧。国家可以加入(联邦)以共同增强实力，以阻止外部侵略者，和/或防止彼此之间的侵略性和先发制人战争。欧洲联邦主义者阿尔蒂耶里·斯皮内利（Altieri Spinelli）、埃内斯托·罗西（Ernesto Rossi）和尤金尼奥·科洛尼（Eugenio Colorni）在 1941 年的文托特内宣言中提出了后一种观点：只有欧洲联邦才能防止极权主义、侵略性国家之间的战争。当然，这些论点假定(联邦)不会比每个国家单独更具侵略性，这正是密尔所主张的观点。
+* 联邦主义可能以多种方式促进和平，包括防止战争和消除战争恐惧。国家可以加入(联邦)以共同增强实力，以阻止外部侵略者，和/或防止彼此之间的侵略性和先发制人战争。欧洲联邦主义者阿尔蒂耶里 · 斯皮内利（Altieri Spinelli）、埃内斯托 · 罗西（Ernesto Rossi）和尤金尼奥 · 科洛尼（Eugenio Colorni）在 1941 年的文托特内宣言中提出了后一种观点：只有欧洲联邦才能防止极权主义、侵略性国家之间的战争。当然，这些论点假定(联邦)不会比每个国家单独更具侵略性，这正是密尔所主张的观点。
 * 联邦主义可以通过消除内部贸易壁垒、通过规模经济、建立和维护成员单位之间的贸易协议，或者成为足够大的全球参与者以影响国际贸易体制来促进经济繁荣（对于欧盟的后者，请参阅 Keohane 和 Nye 2001, 260）。
 * 联邦安排可能通过限制国家主权，将一些权力置于中央，从而保护个人免受政治当局的侵害。通过授予中央干预成员单位的权力，联邦安排可以保护少数群体的人权免受成员单位当局的侵犯（Federalist, Watts 1999）。当然，这些论点假定中央滥用权力的可能性较小。
 * 联邦安排可能增强先前主权政府的政治影响力，既通过促进协调，特别是对于小国家，还通过赋予这些成员单位影响力甚至对政策制定拥有否决权，而不仅仅是政策接受者。
@@ -164,7 +164,7 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 ### 4.5 Distributive Justice4.5 分配正义
 
-关于分配正义，联邦政治秩序必须处理确保成员单位自治和在成员单位内部和之间进行必要再分配之间的紧张关系。事实上，联邦主义者将联邦安排视为对“财产的平等分配”（《联邦党人文集》第 10 篇）的重要保障。政治学家林兹和斯蒂潘可能被视为支持联邦主义者假设的发现：与经济合作与发展组织中的单一国家相比，“联合起来”的联邦制国家往往在单亲母亲家庭中拥有更高的儿童贫困率，以及生活在贫困中的六十岁以上人口比例更高。林兹和斯蒂潘解释这种不平等是由于这些联邦制国家的“民主约束”安排造成的，旨在保护个人和成员单位免受中央当局的干涉，再加上一个薄弱的政党体系。相比之下，德国宪法（不是一个“联合起来”的联邦制国家）明确要求在成员单位之间实现生活条件的均衡（第 72.2 条）。普雷斯贝认为，种族联邦制进一步加剧了非洲不同种族群体个体之间资源分配不公平（普雷斯贝，2003）。规范性论点也可能支持联邦安排的某些分配意义，例如由于成员单位自治和成员单位之间再分配要求之间的权衡（Føllesdal，2001），或者共同‘身份’的相关性（格雷戈尔和朱克斯，2015 年，德·舒特尔，2011 年）。一个中心的规范问题是在历史上主权国家内公民之间共享文化和纽带在多大程度上减少了成员单位之间再分配的要求。
+关于分配正义，联邦政治秩序必须处理确保成员单位自治和在成员单位内部和之间进行必要再分配之间的紧张关系。事实上，联邦主义者将联邦安排视为对“财产的平等分配”（《联邦党人文集》第 10 篇）的重要保障。政治学家林兹和斯蒂潘可能被视为支持联邦主义者假设的发现：与经济合作与发展组织中的单一国家相比，“联合起来”的联邦制国家往往在单亲母亲家庭中拥有更高的儿童贫困率，以及生活在贫困中的六十岁以上人口比例更高。林兹和斯蒂潘解释这种不平等是由于这些联邦制国家的“民主约束”安排造成的，旨在保护个人和成员单位免受中央当局的干涉，再加上一个薄弱的政党体系。相比之下，德国宪法（不是一个“联合起来”的联邦制国家）明确要求在成员单位之间实现生活条件的均衡（第 72.2 条）。普雷斯贝认为，种族联邦制进一步加剧了非洲不同种族群体个体之间资源分配不公平（普雷斯贝，2003）。规范性论点也可能支持联邦安排的某些分配意义，例如由于成员单位自治和成员单位之间再分配要求之间的权衡（Føllesdal，2001），或者共同‘身份’的相关性（格雷戈尔和朱克斯，2015 年，德 · 舒特尔，2011 年）。一个中心的规范问题是在历史上主权国家内公民之间共享文化和纽带在多大程度上减少了成员单位之间再分配的要求。
 
 ### 4.6 民主理论
 
@@ -184,29 +184,29 @@ Ludolph Hugo (约 1630-1704) 是第一个区分基于联盟的联邦、像罗马
 
 #### Primary
 
-Several of the historical writings—those marked ‘*’ below and others—are reprinted in part or full in *Theories of Federalism: A Reader*, Dimitrios Karmis and Wayne Norman (eds.), New York: Palgrave, 2005.
+Several of the historical writings—those marked ‘*’ below and others—are reprinted in part or full in * Theories of Federalism: A Reader*, Dimitrios Karmis and Wayne Norman (eds.), New York: Palgrave, 2005.
 
 * Brutus, Junius (Philippe Duplessis-Mornay?), 1579, *Vindiciae contra tyrannos*, George Garnett (transl. and ed.), Cambridge: Cambridge University Press, 1994.
-* *Althusius, Johannes, 1603, *Politica Methodice Digesta*, Frederick S. Carney (transl.), Daniel J. Elazar (introd.), Indianapolis: Liberty Press, 1995.
-* Arendt, Hannah, 1972, “Thoughts on Politics and Revolution,” in *Crises of the Republic*, New York: Harcourt Brace, 199–233.
+* *Althusius, Johannes, 1603, * Politica Methodice Digesta*, Frederick S. Carney (transl.), Daniel J. Elazar (introd.), Indianapolis: Liberty Press, 1995.
+* Arendt, Hannah, 1972, “Thoughts on Politics and Revolution,” in * Crises of the Republic*, New York: Harcourt Brace, 199–233.
 * Hugo, Ludolph, 1661, De Statu Regionum Germaniae. Helmstadt: Sumptibus Hammianis.
-* Saint-Pierre, Abbé Charles, 1713, *Projet pour rendre la paix perpêtuelle en Europe* (Project to make peace perpetual in Europe), Paris: Fayard, 1986.
-* *Montesquieu, Baron de, 1748, *The Spirit of Laws*, Amherst, NY: Prometheus Books, 2002.
-* *Rousseau, Jean-Jacques, 1761, *A Lasting Peace Through the Federation of Europe*, C.E. Vaughan (trans.), London: Constable, 1917.
+* Saint-Pierre, Abbé Charles, 1713, * Projet pour rendre la paix perpêtuelle en Europe* (Project to make peace perpetual in Europe), Paris: Fayard, 1986.
+* * Montesquieu, Baron de, 1748, *The Spirit of Laws*, Amherst, NY: Prometheus Books, 2002.
+* *Rousseau, Jean-Jacques, 1761, * A Lasting Peace Through the Federation of Europe*, C.E. Vaughan (trans.), London: Constable, 1917.
 * *–––, 1761, “Summary and Critique of Abbé Saint-Pierre’s Project for Perpetual Peace,” in Grace G. Roosevelt (ed.), *Reading Rousseau in the Nuclear Age*, Philadelphia: Temple University Press, 1990.
 * Hume, David, 1752, “Idea of a Perfect Commonwealth,” in T.H. Green and T.H. Grose (eds.), *Essays moral, political and literary*, London: Longmans, Green, 1882
 * Smith, Adam, 1776, *An Inquiry into the Nature and Causes of the Wealth of Nations*, London: Dent, 1954.
 * Storing, Herbert, and Murray Dry (eds.), 1981, *The Complete Anti-Federalist* (7 Volumes), Chicago: University of Chicago Press.
-* *Hamilton, Alexander, James Madison, and John Jay, 1787–88, *The Federalist Papers*, Jacob E. Cooke (ed.), Middletown, CT: Wesleyan University Press, 1961.
-* Kant, Immanuel, 1784, “An Answer to the Question: ‘What Is Enlightenment?’” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 54–60.
+* *Hamilton, Alexander, James Madison, and John Jay, 1787–88, * The Federalist Papers*, Jacob E. Cooke (ed.), Middletown, CT: Wesleyan University Press, 1961.
+* Kant, Immanuel, 1784, “An Answer to the Question: ‘What Is Enlightenment?’” in Hans Reiss (ed.), * Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 54–60.
 * *–––, 1796, “Perpetual Peace: A Philosophical Sketch,” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 93–130.
-* *de Tocqueville, Alexis, 1835–40, *Democracy in America*, P. Bradley (ed.), New York: Vintage, 1945 [[Text available online](https://www.gutenberg.org/ebooks/815)].
-* *Mill, John Stuart, 1861, *Considerations on Representative Government*, New York: Liberal Arts Press, 1958 [[Text available online](http://www.gutenberg.org/ebooks/5669)].
-* *Proudhon, Pierre Joseph, 1863, *Du Principe Federatif*, J.-L. Puech and Th. Ruyssen (eds.), Paris: M. Riviere, 1959.
-* Leo XIII, 1891, “Rerum Novarum,” in *The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
-* Renner, Karl, 1899, *Staat und Nation*, Vienna. Reprinted as “State and Nation” in Ephraim Nimni (ed.), *National Cultural Autonomy and Its Contemporary Critics*, London: Routledge, 2005, 64–82.
-* Pius XI, 1931. “Quadragesimo Anno,” in *The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
-* *Spinelli, Altiero, and Ernesto Rossi, 1944, *Il manifesto di Ventotene* (*The Ventotene Manifesto*), Naples: Guida, 1982; reprinted in Karmis and Norman 2005. [[Text available online](https://web.archive.org/web/20150329020754/http://www.altierospinelli.org/manifesto/manifesto_en.html)]
+* *de Tocqueville, Alexis, 1835–40, * Democracy in America*, P. Bradley (ed.), New York: Vintage, 1945 [[Text available online](https://www.gutenberg.org/ebooks/815)].
+* * Mill, John Stuart, 1861, *Considerations on Representative Government*, New York: Liberal Arts Press, 1958 [[Text available online](http://www.gutenberg.org/ebooks/5669)].
+* *Proudhon, Pierre Joseph, 1863, * Du Principe Federatif*, J.-L. Puech and Th. Ruyssen (eds.), Paris: M. Riviere, 1959.
+* Leo XIII, 1891, “Rerum Novarum,” in * The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
+* Renner, Karl, 1899, * Staat und Nation *, Vienna. Reprinted as “State and Nation” in Ephraim Nimni (ed.), * National Cultural Autonomy and Its Contemporary Critics*, London: Routledge, 2005, 64–82.
+* Pius XI, 1931. “Quadragesimo Anno,” in * The Papal Encyclicals 1903–1939*, Raleigh: Mcgrath, 1981.
+* * Spinelli, Altiero, and Ernesto Rossi, 1944, *Il manifesto di Ventotene* (*The Ventotene Manifesto*), Naples: Guida, 1982; reprinted in Karmis and Norman 2005. [[Text available online](https://web.archive.org/web/20150329020754/http://www.altierospinelli.org/manifesto/manifesto_en.html)]
 * Vattel, Emmerich, 1758 (2008), “The Law of Nations (Le Droit Des Gens),” in *The Classics of International Law, edited by Bela Kapossy and Richard Whatmore*, Indianapolis: Liberty Fund.
 
 #### Secondary sources
@@ -288,7 +288,7 @@ Several of the historical writings—those marked ‘*’ below and others—are
 * Filippov, Mikhail, Peter C. Ordeshook, and Olga Shvetsova, 2004, *Designing Federalism: A Theory of Self-sustainable Federal Institutions*, Cambridge: Cambridge University Press.
 * Føllesdal, Andreas, 1998, “Subsidiarity,” *Journal of Political Philosophy*, 6(2): 231–59.
 * –––, and Simon Hix, 2006, “Why There Is a Democratic Deficit in the EU,” *Journal of Common Market Studies*, 44(3): 533–62.
-* –––, 2021, “A Just yet Unequal European Union: A Defense of Moderate Economic Inequality,” *Review of Social Economy*. doi:10.1080/00346764.2021.1967433
+* –––, 2021, “A Just yet Unequal European Union: A Defense of Moderate Economic Inequality,” *Review of Social Economy*. doi: 10.1080/00346764.2021.1967433
 * Friedrich, Carl, 1968, *Trends of Federalism in Theory and Practice.*, New York: Praeger.
 * Gädeke, Dorothea, 2009, “Relational Normative Thought in Ubuntu and Neo-Republicanism,” in *Debating African Philosophy: Perspectives on Identify, Decolonial Ethics and Comparative Philosophy*, edited by George Hull, 269–87. Abigdon: Routledge.
 * Golemboski, David, 2015, “Federalism and the Catholic Principle of Subsidiarity,” *Publius*, 45(4): 526–51.

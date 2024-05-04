@@ -1,6 +1,6 @@
 # 充足理由律 principle of sufficient reason (Yitzhak Y. Melamed and Martin Lin)
 
-*首次发表于2010年9月14日；实质修订于2023年6月14日*
+*首次发表于 2010 年 9 月 14 日；实质修订于 2023 年 6 月 14 日*
 
 充足理由律是一个强大而有争议的哲学原则，规定一切事物必须有原因、原因或基础。这种对彻底可理解性的简单要求产生了哲学史上最大胆和最具挑战性的论题之一。在本文中，我们首先解释这个原则，然后转向围绕它展开的辩论的历史。最后，我们对充足理由律的新兴当代讨论进行了审视。
 
@@ -50,11 +50,11 @@ PSR 在 Spinoza 的著作中最早的陈述出现在他的第一部出版作品�
 
 斯宾诺莎在对这个公理的简要解释中补充说：
 
-> 由于存在是一种积极的事物，我们不能说它没有任何原因（根据公理 7）。因此，我们必须给出一些积极的原因，或理由，解释为什么\[一件事物]存在 - 要么是外部原因，即在事物本身之外的原因，要么是内部原因，即在事物本身的本质和定义中包含的原因。（Geb. I/158/4–9）\[3]
+> 由于存在是一种积极的事物，我们不能说它没有任何原因（根据公理 7）。因此，我们必须给出一些积极的原因，或理由，解释为什么\[一件事物] 存在 - 要么是外部原因，即在事物本身之外的原因，要么是内部原因，即在事物本身的本质和定义中包含的原因。（Geb. I/158/4–9）\[3]
 
 第七公理，斯宾诺莎在解释中所诉诸的，是“无中生有，无中有物”原理的一个变体，并规定一个现有的事物及其完美（或品质）不能以无或不存在的事物为其原因。然而有趣的是，在他早期哲学著作《修正智力论》中的另一部作品中，斯宾诺莎允许一个独特的项目没有原因。在这篇论文的第 70 节中，斯宾诺莎提出了以下论点：
 
-> \[T]思想也被称为真实，它客观地涉及某个没有原因的原则的本质，并且通过自身和本身而被认识。（II/26/33–4. 我们的强调）
+> \[T] 思想也被称为真实，它客观地涉及某个没有原因的原则的本质，并且通过自身和本身而被认识。（II/26/33–4. 我们的强调）
 
 “原则\[principium]”的具体含义并不完全清楚，但鉴于它被限定为“通过自身和本身而被认识”，它可能指的是上帝，并指示斯宾诺莎对笛卡尔的相当微妙观点的理解——根据笛卡尔在他的《答复集》中的观点，上帝不需要原因才能存在，但上帝为什么不需要原因是有原因的（AT VII: 164–65; cf. Carraud 2002: Ch. 2）。\[4]
 
@@ -62,7 +62,7 @@ PSR 在 Spinoza 的著作中最早的陈述出现在他的第一部出版作品�
 
 > E1a2：不能通过其他方式构想的事物，必须通过自身来构想。
 
-E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构想某事就是解释它（参见 E1p10s，E1p14d 和 Della Rocca 2008: 5），因此似乎 E1a2 意味着一切都是可以解释的。其他评论家也认为 PSR 被编码在 E1a3 中：
+E1a2 的直接推论是一切都被构想了。\[5] 对斯宾诺莎来说，构想某事就是解释它（参见 E1p10s，E1p14d 和 Della Rocca 2008: 5），因此似乎 E1a2 意味着一切都是可以解释的。其他评论家也认为 PSR 被编码在 E1a3 中：
 
 > 从给定的确定性原因，效果必然发生；反之，如果没有确定的原因，效果是不可能发生的。
 
@@ -78,7 +78,7 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 一些评论家声称，斯宾诺莎的充足理由律还导出了其他一些斯宾诺莎主义学说，包括不可辨识性原则（E1p4，尽管参见 Lin 2019 的异议观点）、物质唯一论（E1p11 和 E1p14）以及自由意志的否定（E1p32 和 E2pp48–49）。还有人认为，在 E1p21d 中，斯宾诺莎暗示地依赖充足理由律推断出一个大胆的因果原则：一个简单的原因只有一个简单的效果。如果原因有多个效果，那么这两个效果之间的差异将无法解释，因为每个效果都应该由同一个原因完全解释。因此，如果我们经历了一个原因产生多个效果，我们应该得出结论，即这个原因并不简单，而是由多个部分组成（以便不同的部分对不同效果的因果关系做出贡献。参见 Melamed（2013a），117–119 和 Melamed（2013b），212–213。
 
-最近，迈克尔·德拉罗卡（Michael Della Rocca）不仅认为 PSR“提供了解开斯宾诺莎哲学体系中许多谜团的关键”（2008 年：9），而且斯宾诺莎要求将最基本的哲学概念归纳为理性或可理解性。这种所谓的“PSR 的双重使用”规定（1）一切都必须可解释，以及（2）最终应该用可理解性来解释。因此，根据德拉罗卡的观点，斯宾诺莎将他的主要哲学概念——存在、因果关系、正确性和权力——归纳为可理解性（2008 年：8-9）。虽然这是对斯宾诺莎形而上学的一种迷人而大胆的阐释，但它似乎与他关于属性之间的因果和概念障碍的关键教义相矛盾（E1p10 和 E2p6）。将任何非思维项目归纳为可理解性（可能是思维属性的特征\[6]）削弱了属性之间的障碍，以及斯宾诺莎本体论的整个建筑（参见德拉罗卡 2012 年：12-16；梅拉梅德 2012a；梅拉梅德 2013a：xv 和 196 n. 84）。此外，一些人指出，德拉罗卡对特定归纳的论证，例如将因果关系归纳为可理解性，需要斯宾诺莎明确拒绝的假设（林 2019 年和梅拉梅德 2013 年，第 3 章）。
+最近，迈克尔 · 德拉罗卡（Michael Della Rocca）不仅认为 PSR“提供了解开斯宾诺莎哲学体系中许多谜团的关键”（2008 年：9），而且斯宾诺莎要求将最基本的哲学概念归纳为理性或可理解性。这种所谓的“PSR 的双重使用”规定（1）一切都必须可解释，以及（2）最终应该用可理解性来解释。因此，根据德拉罗卡的观点，斯宾诺莎将他的主要哲学概念——存在、因果关系、正确性和权力——归纳为可理解性（2008 年：8-9）。虽然这是对斯宾诺莎形而上学的一种迷人而大胆的阐释，但它似乎与他关于属性之间的因果和概念障碍的关键教义相矛盾（E1p10 和 E2p6）。将任何非思维项目归纳为可理解性（可能是思维属性的特征\[6]）削弱了属性之间的障碍，以及斯宾诺莎本体论的整个建筑（参见德拉罗卡 2012 年：12-16；梅拉梅德 2012a；梅拉梅德 2013a：xv 和 196 n. 84）。此外，一些人指出，德拉罗卡对特定归纳的论证，例如将因果关系归纳为可理解性，需要斯宾诺莎明确拒绝的假设（林 2019 年和梅拉梅德 2013 年，第 3 章）。
 
 根据斯宾诺莎的 PSR 无限制的阅读，他将如何回应阿格里帕三难问题？显然，在这种解释下，斯宾诺莎不赞同接受任何蛮力事实。然而，他允许一些有限的自我解释和解释的无限回归的情况。让我们简要看一下这两个问题。
 
@@ -86,7 +86,7 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 斯宾诺莎认为自我解释的真理是仅仅从事物的本质或者说性质中推导出来的真理。在 E1p11d 中，斯宾诺莎提供了两个自我解释的例子：
 
-> \[T]一个正方形圆的本质本身就说明了它不存在的原因，即因为它涉及矛盾...一个物质存在的原因也仅仅是由它的本质决定的，因为它涉及存在。
+> \[T] 一个正方形圆的本质本身就说明了它不存在的原因，即因为它涉及矛盾...一个物质存在的原因也仅仅是由它的本质决定的，因为它涉及存在。
 
 相反，斯宾诺莎声称，三角形（或任何其他不是物质的东西）的存在（以及不存在）并不仅仅是由三角形的本质决定：
 
@@ -100,13 +100,13 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 这个因果链中的每一个环节都由无限多的原因先导，并且后面跟着无限多的效果。每一个环节也至少提供了解释后续环节存在的一部分。这样的无限回归的存在是否与充足理由律一致？斯宾诺莎对这个问题的回答毫不犹豫。我们可以合理地问每个环节在链中的原因是什么，答案是：前一个环节。斯宾诺莎还认为，我们可以——事实上，应该——问整个无限链的存在的原因或理由是什么？他只是认为他也可以对后一个问题给出一个明确的答案：上帝（或者是自身存在的基础）。请考虑以下摘自斯宾诺莎著名的《无限论》的一段话，其中他批评了依赖于因果关系的实际无限性不可能性的上帝存在的证明。
 
-> 顺便提一下，我想在这里指出，我认为，最近的亚里士多德学派误解了古人试图证明上帝存在的论证。因为我在一个叫拉布·哈斯代的犹太人那里找到了这个论证，它的内容如下：如果存在无限的原因回归，那么所有存在的事物也将被原因所引起；但是，对于任何被原因引起的事物来说，它的存在并不是根据其自身本质的力量而必然存在的；因此，在自然界中没有任何事物的本质与其必然存在相关；但是，后者是荒谬的；因此，前者也是荒谬的。因此，这个论证的力量不在于存在实际无限或无限的原因回归的不可能性，而仅仅在于假设那些不是根据其自身本质必然存在的事物不是由根据其自身本质必然存在的事物决定其存在。\[Ep. 12| IV/61/15–62/10; italics added]
+> 顺便提一下，我想在这里指出，我认为，最近的亚里士多德学派误解了古人试图证明上帝存在的论证。因为我在一个叫拉布 · 哈斯代的犹太人那里找到了这个论证，它的内容如下：如果存在无限的原因回归，那么所有存在的事物也将被原因所引起；但是，对于任何被原因引起的事物来说，它的存在并不是根据其自身本质的力量而必然存在的；因此，在自然界中没有任何事物的本质与其必然存在相关；但是，后者是荒谬的；因此，前者也是荒谬的。因此，这个论证的力量不在于存在实际无限或无限的原因回归的不可能性，而仅仅在于假设那些不是根据其自身本质必然存在的事物不是由根据其自身本质必然存在的事物决定其存在。\[Ep. 12| IV/61/15–62/10; italics added]
 
-在这段文字中，斯宾诺莎遵循了中世纪后期的犹太哲学家哈斯代·克雷斯卡斯的观点，拒绝了亚里士多德对实际无限的禁止（参见 Melamed 2014）。对于斯宾诺莎（和克雷斯卡斯）来说，存在无限的原因回归是完全合理的。然而，如果这个无限链中的所有元素都是偶然存在的（即，“那些不是根据其自身本质必然存在的事物”\[7]），那么这个链本身仍然是一个偶然存在的事物，必须有一个解释其在现实中实现的原因。这个无限偶然存在的链的最终原因必须是一个存在不是偶然的存在（否则，这个链只会保持偶然性，它在现实中的实现将无法得到充分的解释）。因此，斯宾诺莎允许存在无限的原因回归（或解释），只要整个无限链都以其纯粹本质的存在为基础。
+在这段文字中，斯宾诺莎遵循了中世纪后期的犹太哲学家哈斯代 · 克雷斯卡斯的观点，拒绝了亚里士多德对实际无限的禁止（参见 Melamed 2014）。对于斯宾诺莎（和克雷斯卡斯）来说，存在无限的原因回归是完全合理的。然而，如果这个无限链中的所有元素都是偶然存在的（即，“那些不是根据其自身本质必然存在的事物”\[7]），那么这个链本身仍然是一个偶然存在的事物，必须有一个解释其在现实中实现的原因。这个无限偶然存在的链的最终原因必须是一个存在不是偶然的存在（否则，这个链只会保持偶然性，它在现实中的实现将无法得到充分的解释）。因此，斯宾诺莎允许存在无限的原因回归（或解释），只要整个无限链都以其纯粹本质的存在为基础。
 
 ## 3. 莱布尼茨
 
-没有哲学家比戈特弗里德·威廉·莱布尼茨（1646-1716）更与充足理由律（PSR）紧密相关。他是第一个给它命名并将其认定为哲学的重要原则。然而，莱布尼茨很清楚他的原则与斯宾诺莎的观点之间的相似之处。因此，在他对斯宾诺莎的《无限论》（我们刚刚在第 2 节末讨论过）的副本上的 1676 年边注中，他写道：“这是正确的观察，并且与我习惯说的一致，即除了能够提供充足理由的存在之外，没有其他存在”（莱布尼茨，《连续体的迷宫》，117/Aiii71）。莱布尼茨对充足理由律的处理也值得注意，因为它的系统性和他赋予它的核心地位。
+没有哲学家比戈特弗里德 · 威廉 · 莱布尼茨（1646-1716）更与充足理由律（PSR）紧密相关。他是第一个给它命名并将其认定为哲学的重要原则。然而，莱布尼茨很清楚他的原则与斯宾诺莎的观点之间的相似之处。因此，在他对斯宾诺莎的《无限论》（我们刚刚在第 2 节末讨论过）的副本上的 1676 年边注中，他写道：“这是正确的观察，并且与我习惯说的一致，即除了能够提供充足理由的存在之外，没有其他存在”（莱布尼茨，《连续体的迷宫》，117/Aiii71）。莱布尼茨对充足理由律的处理也值得注意，因为它的系统性和他赋予它的核心地位。
 
 莱布尼茨经常将它与矛盾原理一起作为“推理”的原则。例如，在《单子论》（1714）中，他写道：
 
@@ -117,7 +117,7 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 如上所述，充足理由原则的范围包括事实和真理。然而，莱布尼兹有时以不同的术语来描述这一原则的范围。例如，他写道：
 
-> \[T]he principle of sufficient reason, namely, that nothing *happens* \[*rien n’arrive*] without a reason. (G VII 356; LC L2; AG 321, our emphasis)
+> \[T] he principle of sufficient reason, namely, that nothing *happens* \[*rien n’arrive*] without a reason. (G VII 356; LC L2; AG 321, our emphasis)
 
 充足理由律被称为适用于“发生”的原则。这表明了一种适用于事件而非真理或事实的充足理由律版本：每个事件都有充足的理由。
 
@@ -167,9 +167,9 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 ### 3.3 应用
 
-莱布尼兹表示，如果我们要超越数学进入形而上学和自然科学领域，就需要充足理由律的支持。充足理由律如何帮助这些研究领域？莱布尼兹使用一般的论证模式来运用充足理由律来建立结论。首先，他假设他想要证明的命题的错误性。将待证明的命题称为p。然后他试图证明，如果p是错误的，就会存在某个事实或真理，其没有充足的理由。但根据充足理由律，不存在这样的事实或真理。因此，p是真的。莱布尼兹使用这个模式来论证许多主张，包括空间的无限延伸（《连续体的迷宫》233页），决定论（莱布尼兹-斯塔尔争论17页），裸露的神秘品质和裸露的能力的不可能性（哲学著作172-3页），无法区分的同一性，以及关于空间和时间的关系主义，以及上帝的存在。让我们简要看一下莱布尼兹如何使用充足理由律来论证最后三个命题。
+莱布尼兹表示，如果我们要超越数学进入形而上学和自然科学领域，就需要充足理由律的支持。充足理由律如何帮助这些研究领域？莱布尼兹使用一般的论证模式来运用充足理由律来建立结论。首先，他假设他想要证明的命题的错误性。将待证明的命题称为 p。然后他试图证明，如果 p 是错误的，就会存在某个事实或真理，其没有充足的理由。但根据充足理由律，不存在这样的事实或真理。因此，p 是真的。莱布尼兹使用这个模式来论证许多主张，包括空间的无限延伸（《连续体的迷宫》233 页），决定论（莱布尼兹-斯塔尔争论 17 页），裸露的神秘品质和裸露的能力的不可能性（哲学著作 172-3 页），无法区分的同一性，以及关于空间和时间的关系主义，以及上帝的存在。让我们简要看一下莱布尼兹如何使用充足理由律来论证最后三个命题。
 
-莱布尼茨在多个不同的地方（例如，《事物的终极起源》，G VII 302–3；L 486–8，《单子论》第37节）从充足理由律为上帝的存在提出了论证。假设上帝不存在。如果上帝不存在，那么存在的只有偶然存在的事物。整个偶然事物的系列是否有一个解释？整个系列的解释不能是系列的成员，因为那样它将解释自己，而没有一个偶然事物是自我解释的。但解释也不能在系列之外，因为我们假设不存在非偶然存在的事物，即上帝。因此，如果上帝不存在，就会有一些未解释的东西：偶然存在的系列。一切都有解释。因此上帝存在（请注意，这与斯宾诺莎在第2节末尾引用的克雷斯卡斯的上帝存在论证的相似之处。实际上，这个莱布尼茨的证明出现在他1676年对斯宾诺莎信件中讨论克雷斯卡斯证明的注释中。参见莱布尼茨，《连续体的迷宫》，117页）。
+莱布尼茨在多个不同的地方（例如，《事物的终极起源》，G VII 302–3；L 486–8，《单子论》第 37 节）从充足理由律为上帝的存在提出了论证。假设上帝不存在。如果上帝不存在，那么存在的只有偶然存在的事物。整个偶然事物的系列是否有一个解释？整个系列的解释不能是系列的成员，因为那样它将解释自己，而没有一个偶然事物是自我解释的。但解释也不能在系列之外，因为我们假设不存在非偶然存在的事物，即上帝。因此，如果上帝不存在，就会有一些未解释的东西：偶然存在的系列。一切都有解释。因此上帝存在（请注意，这与斯宾诺莎在第 2 节末尾引用的克雷斯卡斯的上帝存在论证的相似之处。实际上，这个莱布尼茨的证明出现在他 1676 年对斯宾诺莎信件中讨论克雷斯卡斯证明的注释中。参见莱布尼茨，《连续体的迷宫》，117 页）。
 
 莱布尼茨还认为，充足理由律排除了可能存在两个或更多无法区分的事物（A VI, iv, 1541/AG 42）。如果存在两个这样的事物，上帝会以不同的方式对待它们，因为他将它们与世界其他部分的关系不同。例如，如果存在两根无法区分的草叶，那么一根草叶将与世界其他部分保持空间和时间关系 R，而另一根草叶将与世界其他部分保持另一种空间和时间关系 R'。为什么上帝选择将第一根草叶与世界其他部分保持关系 R，而不是 R'？莱布尼茨认为，由于它们彼此无法区分，上帝没有理由对待它们不同。因此，如果存在两个无法区分的个体，那么上帝将毫无理由地行动。但是，一切都有原因。所以，不存在无法区分但数值上不同的事物。
 
@@ -179,7 +179,7 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 ## 4. Émilie du Châtelet
 
-在本条目的开头，我们简要讨论了激发充足理由律的问题。充足理由律要求所有事实都必须有充足的解释，如果充足理由律本身没有动机，似乎就会自相矛盾。我们还看到，莱布尼兹试图证明充足理由律的努力并不特别成功（斯宾诺莎的早期作品中有一种试图证明充足理由律的尝试，但他在后来的作品中放弃了这条路线）。在本节中，我们想讨论一个最有趣的试图将充足理由律作为无例外的方法论原则来证明的尝试。我们即将讨论的论点出现在埃米莉·迪尚莱的 1740 年《物理学机构》（Foundations of Physics）中，“表面上是为她的儿子写的物理教科书，但实际上是一部高度原创的自然哲学著作”（Detlefsen 2018，§1）。在这部作品中，迪尚莱试图提供一个以形而上学为基础的统一的牛顿自然哲学。就像莱布尼兹一样，迪尚莱将矛盾原理和充足理由原理视为哲学的两个基本原则。
+在本条目的开头，我们简要讨论了激发充足理由律的问题。充足理由律要求所有事实都必须有充足的解释，如果充足理由律本身没有动机，似乎就会自相矛盾。我们还看到，莱布尼兹试图证明充足理由律的努力并不特别成功（斯宾诺莎的早期作品中有一种试图证明充足理由律的尝试，但他在后来的作品中放弃了这条路线）。在本节中，我们想讨论一个最有趣的试图将充足理由律作为无例外的方法论原则来证明的尝试。我们即将讨论的论点出现在埃米莉 · 迪尚莱的 1740 年《物理学机构》（Foundations of Physics）中，“表面上是为她的儿子写的物理教科书，但实际上是一部高度原创的自然哲学著作”（Detlefsen 2018，§1）。在这部作品中，迪尚莱试图提供一个以形而上学为基础的统一的牛顿自然哲学。就像莱布尼兹一样，迪尚莱将矛盾原理和充足理由原理视为哲学的两个基本原则。
 
 在介绍了充足理由律之后，迪尚莱转而为这个原理提供了正当性的理由：
 
@@ -193,7 +193,7 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 当我们在天平上比较两个球，并从天平两边都不下降的事实推断它们的重量相等时，我们假设天平不会没有理由地保持平衡。然而，如果事情可以没有理由地发生，我们的推断就是没有根据的。
 
-根据一些评论家的观点，杜·沙特莱的最后一个论点不仅表明一切事物必须有充足的理由，而且这个理由必须对我们（即人类或有限的认知者）是可接触的，至少在原则上是可接触的（Amijee 2021 和 Wells 2021）。原因如下。考虑在一个世界中的天平情景，其中 PSR 严格成立（我们意识到这一点），但有些理由在原则上对我们是不可接触的。在这样的世界中，我们无法从天平的水平状态中确定地推断出球的相等性，因为我们应该考虑到对我们是不可接触的干扰性原因的可能性。
+根据一些评论家的观点，杜 · 沙特莱的最后一个论点不仅表明一切事物必须有充足的理由，而且这个理由必须对我们（即人类或有限的认知者）是可接触的，至少在原则上是可接触的（Amijee 2021 和 Wells 2021）。原因如下。考虑在一个世界中的天平情景，其中 PSR 严格成立（我们意识到这一点），但有些理由在原则上对我们是不可接触的。在这样的世界中，我们无法从天平的水平状态中确定地推断出球的相等性，因为我们应该考虑到对我们是不可接触的干扰性原因的可能性。
 
 一个要求所有理由必须对人类可接触的 PSR 版本并不容易被接受：为什么我们要假设世界的本质是如此，以至于它对任何特定的存在都是认知可接触的？当然，如果假设世界是由一个有意设计世界使其始终对人类可接触的仁慈创造者所创造的，那么人类中心的 PSR 版本可能是有理由的，但这一系列沉重的前提将被许多 PSR 的支持者（如斯宾诺莎）明确拒绝。
 
@@ -213,23 +213,23 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 在伊斯兰世界中，阿维森纳似乎假设了一种充足理由律的版本，他声称任何非必要可能的事物的存在或不存在必须有一个外在的原因。如果没有的话，那么要么原因将是内在于非必要可能的事物（阿维森纳认为这与（仅仅）可能存在的本质相反），要么它根本没有原因。阿维森纳的推理隐含地拒绝了后一种选择，因此他似乎坚持认为所有存在和不存在都有一个原因（阿维森纳，《形而上学》1.6 §1；《阿尔沙菲：神学》37；参见理查森 747）。
 
-在中世纪的拉丁西方，彼得·阿伯拉德认为上帝必须以一种既似乎预设了某种充足理由原理的版本，又预见了莱布尼兹对这个问题的推理方式，创造出最好的可能世界。阿伯拉德争论道，如果上帝没有这样做，就必须有某种原因。但除了上帝的不公或嫉妒之外，还能有什么原因呢？但上帝不能不公或嫉妒。因此，没有任何可能的理由使上帝创造出不是最好的东西。一切都有原因。因此，上帝创造了最好的可能世界（引文见 Op. cit. col. 1324b; McCallum 1948, 93）。阿伯拉德的观点被视为异端，并且在中世纪拉丁西方的主流哲学家观点中似乎拒绝了充足理由原理。在主流中世纪观点中，上帝对他的创造享有自由的冷漠。因此，关于上帝为什么创造了他所创造的东西，没有充足的理由，充足理由原理从突出地位滑落，直到它在斯宾诺莎和莱布尼兹手中得到早期现代的复兴。
+在中世纪的拉丁西方，彼得 · 阿伯拉德认为上帝必须以一种既似乎预设了某种充足理由原理的版本，又预见了莱布尼兹对这个问题的推理方式，创造出最好的可能世界。阿伯拉德争论道，如果上帝没有这样做，就必须有某种原因。但除了上帝的不公或嫉妒之外，还能有什么原因呢？但上帝不能不公或嫉妒。因此，没有任何可能的理由使上帝创造出不是最好的东西。一切都有原因。因此，上帝创造了最好的可能世界（引文见 Op. cit. col. 1324b; McCallum 1948, 93）。阿伯拉德的观点被视为异端，并且在中世纪拉丁西方的主流哲学家观点中似乎拒绝了充足理由原理。在主流中世纪观点中，上帝对他的创造享有自由的冷漠。因此，关于上帝为什么创造了他所创造的东西，没有充足的理由，充足理由原理从突出地位滑落，直到它在斯宾诺莎和莱布尼兹手中得到早期现代的复兴。
 
-一些伟大的认识论理性主义者，如柏拉图和笛卡尔，似乎支持无限制的充足理由原理，但实际上并不支持。例如，在《柏拉图对话录·时间篇》中，柏拉图写道，
+一些伟大的认识论理性主义者，如柏拉图和笛卡尔，似乎支持无限制的充足理由原理，但实际上并不支持。例如，在《柏拉图对话录 · 时间篇》中，柏拉图写道，
 
-> \[E]verything that comes to be must of necessity come to be by the agency of some cause, for it is impossible for anything to come to be without a cause. (28a4–5)
+> \[E] verything that comes to be must of necessity come to be by the agency of some cause, for it is impossible for anything to come to be without a cause. (28a4–5)
 
 这段文字似乎在主张无限制的充足理由律。但柏拉图认为，有些事物不属于“产生”的事物之中，其中一些事物没有原因或理由。例如，创世神通过对无序运动施加秩序来创造世界。无序运动在创世神的工作之前就已经存在。它是无因的，没有理由。
 
-有时，笛卡尔似乎支持无限制的充足理由律。例如，他在第三冥想中通过“原因中必须至少有与结果中一样多的实在性”这一原则来论证上帝的存在。他通过声称“无中生有”来证明这一因果原则。这似乎使他成为无限制充足理由律的拥护者，就像我们所见，巴门尼德斯也是基于同样的基础来论证他的结论。但在其他地方，笛卡尔声称上帝创造了永恒的真理，如数学和形而上学的真理（给梅尔森的信，1630 年 4 月 15 日、5 月 6 日和 27 日；第五回答，AT 7:380，CSM 2:261）。此外，他声称上帝通过自由和无所偏好的意志行为来创造这些真理。因此，对于创造这些真理没有任何理由。如果根据笛卡尔的观点，数学和形而上学的真理是偶然的，但又没有充足的理由，那么他的哲学对任何充足理由律都有严格的限制。
+有时，笛卡尔似乎支持无限制的充足理由律。例如，他在第三冥想中通过“原因中必须至少有与结果中一样多的实在性”这一原则来论证上帝的存在。他通过声称“无中生有”来证明这一因果原则。这似乎使他成为无限制充足理由律的拥护者，就像我们所见，巴门尼德斯也是基于同样的基础来论证他的结论。但在其他地方，笛卡尔声称上帝创造了永恒的真理，如数学和形而上学的真理（给梅尔森的信，1630 年 4 月 15 日、5 月 6 日和 27 日；第五回答，AT 7: 380，CSM 2: 261）。此外，他声称上帝通过自由和无所偏好的意志行为来创造这些真理。因此，对于创造这些真理没有任何理由。如果根据笛卡尔的观点，数学和形而上学的真理是偶然的，但又没有充足的理由，那么他的哲学对任何充足理由律都有严格的限制。
 
 ## 18 世纪哲学和德国唯心主义中的充足理由律
 
 休谟对因果关系的批判对充足理由律提出了重要挑战。在他的《人性论》（I, 3, 3）中，休谟考虑了几个试图证明“哲学中的一般法则，即凡是开始存在的事物必须有原因”的论证，但发现它们都不足以支持。休谟认为，由于原因及其效果的概念显然是不同的，我们可以清楚地构思或想象一个没有原因的对象。他认为这两个概念的可分离性表明，在概念上没有必然的因果关系，因为能够在没有另一个的情况下构思一个并不意味着任何矛盾或荒谬。
 
-克里斯蒂安·沃尔夫（1679-1754 年），十八世纪上半叶最有影响力的德国哲学家，是莱布尼茨的追随者，并发展了后者的体系。像莱布尼茨一样，沃尔夫在他的体系中赋予了充足理由律（PSR）一个核心地位，同时试图避免必然主义（或“宿命论”）。像斯宾诺莎和莱布尼茨一样，沃尔夫要求对事物的可能性（即本质的连贯性）和本质的实现或生成的理由进行解释。沃尔夫对莱布尼茨仅仅将充足理由律基于经验的批评较为温和，并试图提出几个证明这一原理的证据（《关于上帝、世界和人类灵魂的理性思考》，§§30-31，143；《本体论》，§§56-78；参见 Look 2001，210-214）。其中一个证明试图依靠不可辨别性原则证明充足理由律（《关于上帝、世界和人类灵魂的理性思考》，§31），而最著名的证明试图从非矛盾律推导出充足理由律。根据后者，如果假设某事物 A 存在而没有理由，那么“没有任何解释 A 存在的东西被假定”。沃尔夫认为，这意味着 A 存在是因为没有任何东西（《本体论》，§70），这是荒谬的（沃尔夫似乎在这里假设了“无中生有”的格言）。康德批评了这个证明，声称它基于对术语“无”使用的模棱两可（AK 1:398）。
+克里斯蒂安 · 沃尔夫（1679-1754 年），十八世纪上半叶最有影响力的德国哲学家，是莱布尼茨的追随者，并发展了后者的体系。像莱布尼茨一样，沃尔夫在他的体系中赋予了充足理由律（PSR）一个核心地位，同时试图避免必然主义（或“宿命论”）。像斯宾诺莎和莱布尼茨一样，沃尔夫要求对事物的可能性（即本质的连贯性）和本质的实现或生成的理由进行解释。沃尔夫对莱布尼茨仅仅将充足理由律基于经验的批评较为温和，并试图提出几个证明这一原理的证据（《关于上帝、世界和人类灵魂的理性思考》，§§30-31，143；《本体论》，§§56-78；参见 Look 2001，210-214）。其中一个证明试图依靠不可辨别性原则证明充足理由律（《关于上帝、世界和人类灵魂的理性思考》，§31），而最著名的证明试图从非矛盾律推导出充足理由律。根据后者，如果假设某事物 A 存在而没有理由，那么“没有任何解释 A 存在的东西被假定”。沃尔夫认为，这意味着 A 存在是因为没有任何东西（《本体论》，§70），这是荒谬的（沃尔夫似乎在这里假设了“无中生有”的格言）。康德批评了这个证明，声称它基于对术语“无”使用的模棱两可（AK 1: 398）。
 
-莱昂哈德·欧拉，伟大的瑞士数学家，与沃尔夫同时代，警告说那些巧妙地运用充足理由律的人滥用了它，以便能够证明任何符合他们目的的事情，并摧毁任何对他们不利的事情。（给德国公主的信，第十三封）
+莱昂哈德 · 欧拉，伟大的瑞士数学家，与沃尔夫同时代，警告说那些巧妙地运用充足理由律的人滥用了它，以便能够证明任何符合他们目的的事情，并摧毁任何对他们不利的事情。（给德国公主的信，第十三封）
 
 > employ it so dexterously that by means of it they are in a condition to demonstrate whatever suits their purpose, and to demolish whatever is raised against them. (*Letters to German Princess*, Letter XIII)
 
@@ -237,11 +237,11 @@ E1a2 的直接推论是一切都被构想了。\[5]对斯宾诺莎来说，构�
 
 在《纯粹理性批判》（1781 年，1787 年）中，康德声称通过展示充足理由律的证明来证明
 
-> \[T]充足理由律是可能经验的基础，即关于时间连续系列中出现物的客观认知。（B/246/A201）
+> \[T] 充足理由律是可能经验的基础，即关于时间连续系列中出现物的客观认知。（B/246/A201）
 
 依靠他的超验方法，康德在《经验的第二类比》中主张，某种版本的充足理由律是经验的可能性条件，也是经验对象的可能性条件。然而，这个论证也将充足理由律的有效性限制在人类经验范围内，即出现在空间和时间中的事物。任何超越人类经验范围的充足理由律的使用都必定会产生矛盾。
 
-康德将空间和时间视为展示出绝对差异的观点（即，空间和时间中的位置非同一性不能归结为概念解释），与不可辨别性原则以及充足理由律形成鲜明对比。康德的理性主义批评者萨洛蒙·迈蒙试图通过主张康德无法解释直观和概念的必要一致性来对其哲学进行理性主义的限制。根据康德的观点，直观和概念来自完全不同的来源：感性和理性。但是，迈蒙声称，如果是这样的话，我们无法解释直观和概念之间的持续一致性，而这对于经验的可能性是必要的。如果我们拒绝直观和概念的根本异质性，将直观视为伪装的概念，就可以解释这种一致性。因此，空间和时间中展示的任何差异必须在我们思维的普遍形式中找到其根源（迈蒙，《超验哲学论文》，第 1 章，第 13 页）。迈蒙还认为，我们必须寻求一个解释我们拥有两种直观形式而不是一种的事实，并暗示只有两种直观形式之间的相互作用才能使我们展示差异，通过在一种形式中集中于在同一空间位置发生的变化来构思不同的时间，或者在同一时间点上构思不同的空间位置（论文，第 1 章，第 13-14 页）。
+康德将空间和时间视为展示出绝对差异的观点（即，空间和时间中的位置非同一性不能归结为概念解释），与不可辨别性原则以及充足理由律形成鲜明对比。康德的理性主义批评者萨洛蒙 · 迈蒙试图通过主张康德无法解释直观和概念的必要一致性来对其哲学进行理性主义的限制。根据康德的观点，直观和概念来自完全不同的来源：感性和理性。但是，迈蒙声称，如果是这样的话，我们无法解释直观和概念之间的持续一致性，而这对于经验的可能性是必要的。如果我们拒绝直观和概念的根本异质性，将直观视为伪装的概念，就可以解释这种一致性。因此，空间和时间中展示的任何差异必须在我们思维的普遍形式中找到其根源（迈蒙，《超验哲学论文》，第 1 章，第 13 页）。迈蒙还认为，我们必须寻求一个解释我们拥有两种直观形式而不是一种的事实，并暗示只有两种直观形式之间的相互作用才能使我们展示差异，通过在一种形式中集中于在同一空间位置发生的变化来构思不同的时间，或者在同一时间点上构思不同的空间位置（论文，第 1 章，第 13-14 页）。
 
 迈蒙可能是德国唯心主义者中对充足理由律无限制版本最严格的坚持者。对于迈蒙来说，满足充足理由律的要求是哲学和科学的无限任务。因此，对于迈蒙尼德的观点，即关键的天文事实在科学上解释不清楚，迈蒙写道：
 
@@ -257,15 +257,15 @@ PSR 是叔本华 1813 年的博士论文的主题：《充足理由原理的四�
 
 > PSR: 对于每一个实质性事实 Y，存在一些事实 X，使得(i) X 们为 Y 提供基础，且(ii) X 们中的每一个都是自主的。（Dasgupta 2016: 12）
 
-这里的实质性意味着适合作为基础，而自主意味着不适合作为基础。例如，或许本质主义事实是自主的，其中本质主义事实是形式为：x 的本质是ϕ的事实。这个想法是，正如定义不适合作为证明，本质主义事实不适合作为基础解释，也就是说，它们是自主的（Dasgupta 2016: 6–9）。自主事实的概念使得 PSR 的支持者能够避免阿格里帕三难题，而不允许自我解释的事实或无限回归。解释链以自主事实终止，这些事实并非蛮力的，因为它们不适合作为解释。
+这里的实质性意味着适合作为基础，而自主意味着不适合作为基础。例如，或许本质主义事实是自主的，其中本质主义事实是形式为：x 的本质是 ϕ 的事实。这个想法是，正如定义不适合作为证明，本质主义事实不适合作为基础解释，也就是说，它们是自主的（Dasgupta 2016: 6–9）。自主事实的概念使得 PSR 的支持者能够避免阿格里帕三难题，而不允许自我解释的事实或无限回归。解释链以自主事实终止，这些事实并非蛮力的，因为它们不适合作为解释。
 
 在 Bolzano（科学理论：第二卷，259–264）的基础上，大多数当代基础理论都肯定了这种关系的非自反性（参见 Fine 2001: 15; Schaffer 2009: 364; 和 Rosen 2010: 115）。最近，Fine 证明了在一定的合理前提下，可以指出非自反性的反例（Fine 2010; 参见 Krämer 2013），而 Jenkins（2011）进一步对这个问题提出了质疑。
 
-乔纳森·舍弗依靠地基的概念来恢复亚里士多德式的结构化形而上学，即一种由优先关系排序的形而上学（舍弗，2009 年），并为优先单一论辩护（参见单一论词条）。作为回应，迈克尔·德拉罗卡（2014 年）认为严格遵循充足理由律（PSR）和奥卡姆剃刀原则（参见简洁性词条）削弱了舍弗的结构化形而上学（和优先单一论），因为只要地基中已经存在地基的所有特征，地基的存在就是多余的（参见形而上学基础词条）。最近，在他大胆的 2020 年著作中，德拉罗卡扩展了他的论点。依靠他认为严格遵循充足理由律的观点，并借助 F.H.布拉德利对关系实在性的批判，德拉罗卡认为我们只有权利断言存在没有区别关系的未区分存在。根据德拉罗卡的观点，我们的主要哲学概念——实体、行动、知识、意义和解释——未能满足充足理由律的严格要求。在书的结尾，德拉罗卡对分析哲学家广泛依赖直觉的强烈批评（德拉罗卡，2020 年，260-290 页）。
+乔纳森 · 舍弗依靠地基的概念来恢复亚里士多德式的结构化形而上学，即一种由优先关系排序的形而上学（舍弗，2009 年），并为优先单一论辩护（参见单一论词条）。作为回应，迈克尔 · 德拉罗卡（2014 年）认为严格遵循充足理由律（PSR）和奥卡姆剃刀原则（参见简洁性词条）削弱了舍弗的结构化形而上学（和优先单一论），因为只要地基中已经存在地基的所有特征，地基的存在就是多余的（参见形而上学基础词条）。最近，在他大胆的 2020 年著作中，德拉罗卡扩展了他的论点。依靠他认为严格遵循充足理由律的观点，并借助 F.H.布拉德利对关系实在性的批判，德拉罗卡认为我们只有权利断言存在没有区别关系的未区分存在。根据德拉罗卡的观点，我们的主要哲学概念——实体、行动、知识、意义和解释——未能满足充足理由律的严格要求。在书的结尾，德拉罗卡对分析哲学家广泛依赖直觉的强烈批评（德拉罗卡，2020 年，260-290 页）。
 
-最近的一些文献已经讨论了充足理由律的使用合理性问题（例如，参见德拉罗卡（2010 年））。法蒂玛·阿米吉认为，从实践角度来看，结构性探究的参与者（即试图解释为什么存在某个事实的探究）必须假设只要他们没有发现任何事实是蛮力的，就要遵循充足理由律。由于结构性探究具有内在价值（并帮助我们发现新的真理），对于我们来说，它是理性上不可选的，因此我们必须致力于充足理由律（阿米吉，2022 年）。
+最近的一些文献已经讨论了充足理由律的使用合理性问题（例如，参见德拉罗卡（2010 年））。法蒂玛 · 阿米吉认为，从实践角度来看，结构性探究的参与者（即试图解释为什么存在某个事实的探究）必须假设只要他们没有发现任何事实是蛮力的，就要遵循充足理由律。由于结构性探究具有内在价值（并帮助我们发现新的真理），对于我们来说，它是理性上不可选的，因此我们必须致力于充足理由律（阿米吉，2022 年）。
 
-对于充足理由律的含义，最近对于令人惊讶或引人注目的讨论中也可以看出（尽管这些含义通常没有明确陈述）。这些讨论涉及到认识论、科学哲学、元伦理学和宗教哲学等多个不同的子领域，起源于保罗·霍维奇（Paul Horwich）的观察，即事件或事实的不可能性与其令人惊讶之间存在直观上的差异（霍维奇，1982年）。例如，在某个特定场合，一只猴子在打字机上随机敲击会打出字符串“sdlek93 91”和打出“我想要香蕉”这两种情况的概率是相同的，但后者的字符串以一种前者所没有的方式令人惊讶。有时人们认为，令人惊讶的事件或事实与不太可能的事实之间的差异可以对应于那些需要解释和那些不需要解释的事件或事实之间的区别。我们如何解释仅仅是不太可能的事实与令人惊讶的事实之间的差异呢？通常有人说，令人惊讶的事实要求我们质疑我们的背景信念，并确认与这些信念不同的假设。或者，如果一个理论T将某个令人惊讶的事实视为无法解释的，那么这就是怀疑T的理由（White，2007年；Schechter，2013年）。因此，这种探究是以令人惊讶的事实是可以解释的这一假设为指导的。这些原则已经引导哲学家得出了各种不同的实质性结论，例如：（1）宇宙是由一个智能代理设计的（White，2017年；van Inwagen，1993年）；（2）道德现实主义是错误的（Street，2006年；Enoch，2011年）；（3）存在着多元宇宙（Leslie，1989年；Parfit，1998年）；以及数学的柏拉图主义是错误的（Field，1989年，2005年）。不幸的是，我们无法在这里讨论从不可能/令人惊讶的区别到这些主张的论证细节。 然而，这种方法论假设对PSR产生了有趣的影响。首先，那些主张区分的人倾向于暗示，如果PSR是真实的，那么它只在一种受限制的形式下才是如此。毕竟，区分的重点在于有些事情需要解释，而其他事情则不需要。但它也暗示了类似于受限制的PSR是真实的。一个原则说，我们有一个认识上的理由去相信一个假设，这个假设会将一个令人惊讶的事实事件转化为一个不足为奇的事件，只有在我们生活在一个事件和事实至少在很大程度上是可以解释的世界中，它才是有益于真理的。为什么会这样可以通过归纳的类比来阐明。正如休谟所观察到的，只有在自然界是统一的情况下，归纳才有助于真理（T. 1.3.6.4）。因此，通过致力于归纳的方法，我们从而预设了自然统一性原则的真理。同样地，通过认为我们有一个认识上的理由去相信一个理论，因为它能解释那些本来令人惊讶的事情，我们从而预设了一个受限制的PSR的真理。
+对于充足理由律的含义，最近对于令人惊讶或引人注目的讨论中也可以看出（尽管这些含义通常没有明确陈述）。这些讨论涉及到认识论、科学哲学、元伦理学和宗教哲学等多个不同的子领域，起源于保罗 · 霍维奇（Paul Horwich）的观察，即事件或事实的不可能性与其令人惊讶之间存在直观上的差异（霍维奇，1982 年）。例如，在某个特定场合，一只猴子在打字机上随机敲击会打出字符串“sdlek93 91”和打出“我想要香蕉”这两种情况的概率是相同的，但后者的字符串以一种前者所没有的方式令人惊讶。有时人们认为，令人惊讶的事件或事实与不太可能的事实之间的差异可以对应于那些需要解释和那些不需要解释的事件或事实之间的区别。我们如何解释仅仅是不太可能的事实与令人惊讶的事实之间的差异呢？通常有人说，令人惊讶的事实要求我们质疑我们的背景信念，并确认与这些信念不同的假设。或者，如果一个理论 T 将某个令人惊讶的事实视为无法解释的，那么这就是怀疑 T 的理由（White，2007 年；Schechter，2013 年）。因此，这种探究是以令人惊讶的事实是可以解释的这一假设为指导的。这些原则已经引导哲学家得出了各种不同的实质性结论，例如：（1）宇宙是由一个智能代理设计的（White，2017 年；van Inwagen，1993 年）；（2）道德现实主义是错误的（Street，2006 年；Enoch，2011 年）；（3）存在着多元宇宙（Leslie，1989 年；Parfit，1998 年）；以及数学的柏拉图主义是错误的（Field，1989 年，2005 年）。不幸的是，我们无法在这里讨论从不可能/令人惊讶的区别到这些主张的论证细节。 然而，这种方法论假设对 PSR 产生了有趣的影响。首先，那些主张区分的人倾向于暗示，如果 PSR 是真实的，那么它只在一种受限制的形式下才是如此。毕竟，区分的重点在于有些事情需要解释，而其他事情则不需要。但它也暗示了类似于受限制的 PSR 是真实的。一个原则说，我们有一个认识上的理由去相信一个假设，这个假设会将一个令人惊讶的事实事件转化为一个不足为奇的事件，只有在我们生活在一个事件和事实至少在很大程度上是可以解释的世界中，它才是有益于真理的。为什么会这样可以通过归纳的类比来阐明。正如休谟所观察到的，只有在自然界是统一的情况下，归纳才有助于真理（T. 1.3.6.4）。因此，通过致力于归纳的方法，我们从而预设了自然统一性原则的真理。同样地，通过认为我们有一个认识上的理由去相信一个理论，因为它能解释那些本来令人惊讶的事情，我们从而预设了一个受限制的 PSR 的真理。
 
 迄今为止，伦理学和政治理论中对充足理由律的作用尚未得到认真研究。显然，充足理由律可以被用来质疑我们仅仅依赖直觉的做法。某种观点的厌恶不能仅凭表面价值来接受，而是需要有理由加以证明。过去，一些保守观点仅仅依赖于某些性行为的厌恶（例如同性恋、种族关系）。要求深入挖掘并要求一个人证明她的直觉可能有助于她理解指导她特定道德信仰的格言。遵循充足理由律也可能转移证明责任的重担，即在那些认为我们对人类的偏好评价仅仅是蛮力的人（Williams 2006: 195）与那些坚持如果人类有特殊价值，就必须有一个理由来归属这种价值的人（Buss 2012: 343）之间的辩论。
 
@@ -306,64 +306,64 @@ PSR 是叔本华 1813 年的博士论文的主题：《充足理由原理的四�
 * Belot, Gordon, 2001, “The Principle of Sufficient Reason”, *Journal of Philosophy*, 97: 55–74.
 * Broad, C.D., 1975, *Leibniz: An Introduction*, Cambridge: Cambridge University Press.
 * Buss, Sarah, 2012, “The Value of Humanity”, _Journal of Philosophy_109: 341–377.
-* Carraud, Vincent, 2002, *Causa sive Ratio: la Raison de la Cause, de Suarez à Leibniz*, Paris: PUF.
-* Couturat, Louis, 1901, *La logique de Leibniz*, Paris: Presses Universitaires de France; reprinted Hildesheim: Georg Olms, 1961.
-* Cover, J.A., and O’Leary-Hawthorne, John, 1999, “Sufficient Reason and the Identity of Indiscernibles”, in *Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
-* Dasgupta, Shamik, 2016, “Metaphysical Rationalism”, *Noûs*, 50(2): 379–418
-* Della Rocca, Michael, 2003, “A Rationalist Manifesto”, *Philosophical Topics*, 31: 75–93.
-* –––, 2008, *Spinoza*, New York: Routledge.
-* –––, 2010, “PSR”, *Philosophers’ Imprint*, 10(7), \[[Della Rocca 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.007)]
-* –––, 2012, “ Rationalism, idealism, monism and beyond ”, in Eckart Förster and Yitzhak Y. Melamed (eds.), *Spinoza and German Idealism*, Cambridge: Cambridge University Press, 7–26.
-* –––, 2014, “Razing Structures to the Ground”, *Analytic Philosophy*, 55: 276–294.
-* –––, 2015, “Interpreting Spinoza: The Real is the Rational”, *Journal of the History of Philosophy*, 53: 525–535.
-* –––, 2020, *The Paramenidean Ascent*, New York: Oxford University Press.
-* Detlefsen, Karen, 2018, “Émilie du Châtelet”, *The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/emilie-du-chatelet/](https://plato.stanford.edu/archives/win2018/entries/emilie-du-chatelet/).
-* Enoch, David, 2011, *Taking Morality Seriously*, Oxford: Oxford University Press.
-* Field, Hartry, 1989, *Realism, Mathematics, and Modality*, Oxford: Basil Blackwell.
-* Fine, Kit, 2001, “The Question of Realism”, *Philosophers Imprint*, 1(2): 1–30. \[[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
-* –––, 2010, “Some Puzzles of Ground”, *Notre Dame Journal of Formal Logic*, 51(1): 97–118. doi:10.1215/00294527-2010-007
-* –––, 2012, “Guide to Ground”, in F. Correia and B. Schnieder (eds.), *Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press.
-* Frankel, Lois, 1994, “From a metaphysical point of view: Leibniz and the Principle of Sufficient reason”, *The Southern Journal of Philosophy*, 24(3): 321–34. doi:10.1111/j.2041-6962.1986.tb01570.x
-* Garber, Daniel, 2015, “Superheroes in the History of Philosophy: Spinoza, Super-Rationalist”, *Journal of the History of Philosophy*, 53(3): 507–521.
-* Gurr, John E., 1959, *The Principle of Sufficient Reason in Some Scholastic Systems, 1750–1900*, Milwaukee: Marquette University Press.
+* Carraud, Vincent, 2002, * Causa sive Ratio: la Raison de la Cause, de Suarez à Leibniz*, Paris: PUF.
+* Couturat, Louis, 1901, * La logique de Leibniz*, Paris: Presses Universitaires de France; reprinted Hildesheim: Georg Olms, 1961.
+* Cover, J.A., and O’Leary-Hawthorne, John, 1999, “Sufficient Reason and the Identity of Indiscernibles”, in * Substance and Individuation in Leibniz*, Cambridge: Cambridge University Press.
+* Dasgupta, Shamik, 2016, “Metaphysical Rationalism”, * Noûs*, 50(2): 379–418
+* Della Rocca, Michael, 2003, “A Rationalist Manifesto”, * Philosophical Topics*, 31: 75–93.
+* –––, 2008, * Spinoza*, New York: Routledge.
+* –––, 2010, “PSR”, * Philosophers’ Imprint*, 10(7), \[[Della Rocca 2010 available online](http://hdl.handle.net/2027/spo.3521354.0010.007)]
+* –––, 2012, “ Rationalism, idealism, monism and beyond ”, in Eckart Förster and Yitzhak Y. Melamed (eds.), * Spinoza and German Idealism*, Cambridge: Cambridge University Press, 7–26.
+* –––, 2014, “Razing Structures to the Ground”, * Analytic Philosophy*, 55: 276–294.
+* –––, 2015, “Interpreting Spinoza: The Real is the Rational”, * Journal of the History of Philosophy*, 53: 525–535.
+* –––, 2020, * The Paramenidean Ascent*, New York: Oxford University Press.
+* Detlefsen, Karen, 2018, “Émilie du Châtelet”, * The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/emilie-du-chatelet/](https://plato.stanford.edu/archives/win2018/entries/emilie-du-chatelet/).
+* Enoch, David, 2011, * Taking Morality Seriously*, Oxford: Oxford University Press.
+* Field, Hartry, 1989, * Realism, Mathematics, and Modality*, Oxford: Basil Blackwell.
+* Fine, Kit, 2001, “The Question of Realism”, * Philosophers Imprint*, 1(2): 1–30. \[[Fine 2001 available online](http://hdl.handle.net/2027/spo.3521354.0001.002)]
+* –––, 2010, “Some Puzzles of Ground”, * Notre Dame Journal of Formal Logic*, 51(1): 97–118. doi: 10.1215/00294527-2010-007
+* –––, 2012, “Guide to Ground”, in F. Correia and B. Schnieder (eds.), * Metaphysical Grounding: Understanding the Structure of Reality*, Cambridge: Cambridge University Press.
+* Frankel, Lois, 1994, “From a metaphysical point of view: Leibniz and the Principle of Sufficient reason”, * The Southern Journal of Philosophy*, 24(3): 321–34. doi: 10.1111/j.2041-6962.1986.tb01570.x
+* Garber, Daniel, 2015, “Superheroes in the History of Philosophy: Spinoza, Super-Rationalist”, * Journal of the History of Philosophy*, 53(3): 507–521.
+* Gurr, John E., 1959, * The Principle of Sufficient Reason in Some Scholastic Systems, 1750–1900*, Milwaukee: Marquette University Press.
 * Harrop, Stephen, 2020, “On Some Leibnizian Arguments for the Principle of Sufficient Reason”, _History of Philosophy Quarterl_y, 37: 143–161.
-* Horwich, Paul, 1982, *Probability and Evidence*, Cambridge: Cambridge University Press.
-* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?” *Monist*, 94: 267–276.
-* Krämer, Stephan, 2013, “A Simpler Puzzle of Ground”, *Thought*, 2: 85–89.
-* Laerke, Mogens, 2014, “Les Études Spinozistes aux États-Unis: Spinoza et le Principe de Raison Suffisante (‘PSR’ en Anglais), Représentations, Concepts, Idées”, *Archives de Philosophie*, 77: 721–26.
-* Leslie, John, 1989, *Universes*, London: Routledge.
-* Lin, Martin, 2011, “Rationalism and Necessitarianism”, *Noûs*, 46: 418–448.
-* –––, 2018, “The Principle of Sufficient Reason in Spinoza”, in Michael Della Rocca (ed.), *The Oxford Handbook of Spinoza*, Oxford: Oxford University Press.
-* –––, 2019, *Being and Reason: An Essay on Spinoza’s Metaphysics*, Oxford; Oxford University Press.
-* Lodge, Paul, 2018, “Leibniz’s Justification of the Principle of Sufficient Reason (Mainly) in the Correspondence with Clarke”, *Logical Analysis and History of Philosophy* 21: 69–91.
-* Longuenesse, Béatrice, 2009, “Kant’s Deconstruction of the Principle of Sufficient Reason”, in *Kant on the Human Standpoint*, Cambridge: Cambridge University Press, 117–142.
-* McCallum, James R., 1948, *Abelard’s Christian Theology*, Oxford: Blackwell.
-* Melamed, Yitzhak Y., 2012a, “The Sirens of Elea: Rationalism, Idealism and Monism in Spinoza”, in Antonia LoLordo and Stewart Duncan (eds.), *The Key Debates of Modern Philosophy*, New York and London: Routledge, 78–90.
-* –––, 2012b, “Why Spinoza is Not an Eleatic Monist (Or Why Diversity Exists)”, in Philip Goff (ed.), *Spinoza on Monism*, London: Palgrave, 206–22.
-* –––, 2013a, *Spinoza’s Metaphysics: Substance and Thought*, New York: Oxford University Press.
-* –––, 2013b, “Response to Colin Marshall and Martin Lin in a Symposium on Yitzhak Y. Melamed, Spinoza’s Metaphysics”, *Leibniz Review*, 23: 207–222.
+* Horwich, Paul, 1982, * Probability and Evidence*, Cambridge: Cambridge University Press.
+* Jenkins, C.S., 2011, “Is Metaphysical Dependence Irreflexive?” * Monist*, 94: 267–276.
+* Krämer, Stephan, 2013, “A Simpler Puzzle of Ground”, * Thought*, 2: 85–89.
+* Laerke, Mogens, 2014, “Les Études Spinozistes aux États-Unis: Spinoza et le Principe de Raison Suffisante (‘PSR’ en Anglais), Représentations, Concepts, Idées”, * Archives de Philosophie*, 77: 721–26.
+* Leslie, John, 1989, * Universes*, London: Routledge.
+* Lin, Martin, 2011, “Rationalism and Necessitarianism”, * Noûs*, 46: 418–448.
+* –––, 2018, “The Principle of Sufficient Reason in Spinoza”, in Michael Della Rocca (ed.), * The Oxford Handbook of Spinoza*, Oxford: Oxford University Press.
+* –––, 2019, * Being and Reason: An Essay on Spinoza’s Metaphysics*, Oxford; Oxford University Press.
+* Lodge, Paul, 2018, “Leibniz’s Justification of the Principle of Sufficient Reason (Mainly) in the Correspondence with Clarke”, * Logical Analysis and History of Philosophy* 21: 69–91.
+* Longuenesse, Béatrice, 2009, “Kant’s Deconstruction of the Principle of Sufficient Reason”, in * Kant on the Human Standpoint*, Cambridge: Cambridge University Press, 117–142.
+* McCallum, James R., 1948, * Abelard’s Christian Theology*, Oxford: Blackwell.
+* Melamed, Yitzhak Y., 2012a, “The Sirens of Elea: Rationalism, Idealism and Monism in Spinoza”, in Antonia LoLordo and Stewart Duncan (eds.), * The Key Debates of Modern Philosophy*, New York and London: Routledge, 78–90.
+* –––, 2012b, “Why Spinoza is Not an Eleatic Monist (Or Why Diversity Exists)”, in Philip Goff (ed.), * Spinoza on Monism*, London: Palgrave, 206–22.
+* –––, 2013a, * Spinoza’s Metaphysics: Substance and Thought*, New York: Oxford University Press.
+* –––, 2013b, “Response to Colin Marshall and Martin Lin in a Symposium on Yitzhak Y. Melamed, Spinoza’s Metaphysics”, * Leibniz Review*, 23: 207–222.
 * –––, 2014, “Hasdai Crescas and Spinoza on Actual Infinity and the Infinity of God’s Attributes”, in Steven Nadler, Spinoza and Jewish Philosophy, Cambridge: Cambridge University Press, 204–215.
-* –––, 2021, Review of Martin Lin, *Being and Reason: An Essay on Spinoza’s Metaphysics* (Oxford University Press, 2019. Notre Dame Philosophical Reviews. April 1st, 2021.
-* Newlands, Samuel, 2010, “Another Kind of Spinozistic Monism”, *Noûs*, 44: 469–502.
-* –––, 2010, “The Harmony of Spinoza and Leibniz”, *Philosophy and Phenomenological Research*, 81: 64–104.
-* –––, 2018, *Reconceiving Spinoza*, Oxford: Oxford University Press.
-* Parfit, Derek, 1998, “Why anything? Why this?” *London Review of Books*, 22 January 1998, 20(2).
-* Richardson, Kara, 2014, “Avicenna and the Principle of Sufficient Reason,” *The Review of Metaphysics*, 67: 743–768.
-* Rodriguez-Pereyra, Gonzalo, 2014, *Leibniz’s Principle of the Identity of Indiscernibles*, Oxford: Oxford University Press.
-* –––, 2018, “The Principles of Contradiction, Sufficient Reason, and Identity of Indiscernibles”, in Maria Rosa Antognazza (ed.), *The Oxford Handbook of Leibniz*, Oxford: Oxford University Press, 204–215.
-* Pruss, Alexander R., 2006, *The Principle of Sufficient Reason: A Reassessment*, Cambridge: Cambridge University Press.
-* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and reduction”, in Bob Hale & Aviv Hoffmann (eds.), *Modality: Metaphysics, Logic, and Epistemology*, Oxford University Press, 109–36
-* Russell, Bertrand, 1937, *A Critical Exposition of the Philosophy of Leibniz*, 2nd edition, London: Allen & Unwin.
-* Schaffer, Jonathan, 2009, “On What Grounds What”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David Manley, David J. Chalmers and Ryan Wasserman (eds), Oxford: Oxford University Press, 347–383.
-* Schechter, Jonathan, 2013. “Could Evolution Explain our Reliability about Logic?” in *Oxford Studies in Epistemology, 4*, 214–39.
-* Sleigh, R.C., Jr., 1983, “Leibniz on the Two Great Principles of All Our Reasonings”, *Midwest Studies in Philosophy*, 8(1): 193–217. doi:10.1111/j.1475-4975.1983.tb00467.x
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, *Philosophical Studies*, 127(1): 109–166.
-* van Inwagen, P., 1993, *Metaphysics* (1st ed.). Boulder: Westview Press.
-* Wells, Aaron, 2021, “Du Châtelet on Sufficient Reason and Empirical Explanation” *Southern Journal of Philosophy 59*: 629–655.
-* White, R., 2005, Explanation as a Guide to Induction. *Philosophers’ Imprint*, 5(2), 1–29.
-* –––, 2015, “The Argument from Cosmological Fine-Tuning”, in G. Rosen, A. Byrne, J. Cohen, & S. V.Shiffrin (eds.), *The Norton Introduction to Philosophy*, New York: Norton, 43–50.
-* Williams, Bernard, 2006, *Philosophy as a Humanistic Discipline*, Princeton: Princeton University Press.
-* Wiggins, David, 1996, “Sufficient Reason: A Principle in Diverse Guises, both Ancients and Modern”, *Acta Philosophica Fennica*, 61: 117–32.
+* –––, 2021, Review of Martin Lin, * Being and Reason: An Essay on Spinoza’s Metaphysics* (Oxford University Press, 2019. Notre Dame Philosophical Reviews. April 1st, 2021.
+* Newlands, Samuel, 2010, “Another Kind of Spinozistic Monism”, * Noûs*, 44: 469–502.
+* –––, 2010, “The Harmony of Spinoza and Leibniz”, * Philosophy and Phenomenological Research*, 81: 64–104.
+* –––, 2018, * Reconceiving Spinoza*, Oxford: Oxford University Press.
+* Parfit, Derek, 1998, “Why anything? Why this?” * London Review of Books*, 22 January 1998, 20(2).
+* Richardson, Kara, 2014, “Avicenna and the Principle of Sufficient Reason,” * The Review of Metaphysics*, 67: 743–768.
+* Rodriguez-Pereyra, Gonzalo, 2014, * Leibniz’s Principle of the Identity of Indiscernibles*, Oxford: Oxford University Press.
+* –––, 2018, “The Principles of Contradiction, Sufficient Reason, and Identity of Indiscernibles”, in Maria Rosa Antognazza (ed.), * The Oxford Handbook of Leibniz*, Oxford: Oxford University Press, 204–215.
+* Pruss, Alexander R., 2006, * The Principle of Sufficient Reason: A Reassessment*, Cambridge: Cambridge University Press.
+* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and reduction”, in Bob Hale & Aviv Hoffmann (eds.), * Modality: Metaphysics, Logic, and Epistemology*, Oxford University Press, 109–36
+* Russell, Bertrand, 1937, * A Critical Exposition of the Philosophy of Leibniz*, 2nd edition, London: Allen & Unwin.
+* Schaffer, Jonathan, 2009, “On What Grounds What”, in * Metametaphysics: New Essays on the Foundations of Ontology*, David Manley, David J. Chalmers and Ryan Wasserman (eds), Oxford: Oxford University Press, 347–383.
+* Schechter, Jonathan, 2013. “Could Evolution Explain our Reliability about Logic?” in * Oxford Studies in Epistemology, 4*, 214–39.
+* Sleigh, R.C., Jr., 1983, “Leibniz on the Two Great Principles of All Our Reasonings”, * Midwest Studies in Philosophy*, 8(1): 193–217. doi: 10.1111/j.1475-4975.1983.tb00467.x
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value”, * Philosophical Studies*, 127(1): 109–166.
+* van Inwagen, P., 1993, * Metaphysics* (1st ed.). Boulder: Westview Press.
+* Wells, Aaron, 2021, “Du Châtelet on Sufficient Reason and Empirical Explanation” * Southern Journal of Philosophy 59*: 629–655.
+* White, R., 2005, Explanation as a Guide to Induction. * Philosophers’ Imprint*, 5(2), 1–29.
+* –––, 2015, “The Argument from Cosmological Fine-Tuning”, in G. Rosen, A. Byrne, J. Cohen, & S. V.Shiffrin (eds.), * The Norton Introduction to Philosophy*, New York: Norton, 43–50.
+* Williams, Bernard, 2006, * Philosophy as a Humanistic Discipline*, Princeton: Princeton University Press.
+* Wiggins, David, 1996, “Sufficient Reason: A Principle in Diverse Guises, both Ancients and Modern”, * Acta Philosophica Fennica*, 61: 117–32.
 
 ## Academic Tools
 

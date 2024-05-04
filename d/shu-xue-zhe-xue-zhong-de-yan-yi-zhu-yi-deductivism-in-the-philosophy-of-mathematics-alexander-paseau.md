@@ -2,21 +2,21 @@
 
 *首次发布于 2023 年 8 月 25 日*
 
-演绎主义认为数学句子 s 应被理解为表达了 s 从适当的公理演绎出来的主张。例如，演绎主义者可能将“2+2=4”解释为“句子‘2+2=4’从算术公理演绎出来”。演绎主义承诺了许多好处。它捕捉到了数学是关于“从公理中可以推导出什么”的相当普遍的观念；它避免了抽象数学对象的本体论；并且它坚持我们对数学真理的访问不需要超出我们进行逻辑推理的能力。第 1 和第 2 节更详细地定义和推动了演绎主义。第 3 节涵盖了一些曾经支持演绎主义的作者（Russell、Hilbert、Pasch、Curry）。第 4 节旨在澄清演绎主义者所做的语义主张。第 5 至 9 节回顾了对演绎主义的反对意见和可能的回应。
+演绎主义认为数学句子 s 应被理解为表达了 s 从适当的公理演绎出来的主张。例如，演绎主义者可能将“2+2 = 4”解释为“句子‘2+2 = 4’从算术公理演绎出来”。演绎主义承诺了许多好处。它捕捉到了数学是关于“从公理中可以推导出什么”的相当普遍的观念；它避免了抽象数学对象的本体论；并且它坚持我们对数学真理的访问不需要超出我们进行逻辑推理的能力。第 1 和第 2 节更详细地定义和推动了演绎主义。第 3 节涵盖了一些曾经支持演绎主义的作者（Russell、Hilbert、Pasch、Curry）。第 4 节旨在澄清演绎主义者所做的语义主张。第 5 至 9 节回顾了对演绎主义的反对意见和可能的回应。
 
 ---
 
 ## 1. 简介
 
-Deductivism is a philosophy of mathematics that was popular in the late nineteenth and early twentieth century. It understands a mathematical sentence s as expressing the claim that s deductively follows from appropriate axioms. For instance, deductivists might construe “2+2=4” as
+Deductivism is a philosophy of mathematics that was popular in the late nineteenth and early twentieth century. It understands a mathematical sentence s as expressing the claim that s deductively follows from appropriate axioms. For instance, deductivists might construe “2+2 = 4” as
 
-> the sentence “2+2=4” deductively follows from the axioms of arithmetic,
+> the sentence “2+2 = 4” deductively follows from the axioms of arithmetic,
 
 or “2 is prime” as
 
 > 数字 2 是质数的推论是从算术公理中推导出来的，
 
-或者以非算术的例子来说，"每个群 G 都有唯一的单位元"这个句子是从群论公理中推导出来的。
+或者以非算术的例子来说，"每个群 G 都有唯一的单位元" 这个句子是从群论公理中推导出来的。
 
 > 数字 2 是质数的推论是从算术公理中推导出来的。
 
@@ -34,13 +34,13 @@ or “2 is prime” as
 
 第四个也是最后一个原因是演绎主义和结构主义是相关的。事实上，一些人（例如，Bostock 2009: 183）认为演绎主义是淘汰性结构主义的一种句法版本。而结构主义，以其各种形式和各种问题，尽管如此，仍然是当今市场上最有吸引力的数学形而上学之一。[2]
 
-演绎主义和淘汰性结构主义具有一些共同特点。粗略地说，两者都将数学命题 p 理解为“公理蕴含 p”（其中“公理”可以理解为相关数学分支的公理或其他方式——有关演绎主义的不同版本，请参见§4）。演绎主义将相关蕴含理解为演绎的，淘汰性结构主义将其理解为语义的。对于演绎主义者来说，相关的蕴含或推理概念是句法的，逻辑中用“⊢”表示；说Γ⊢δ是说在某个指定的演绎系统中，从Γ可以推导出句子δ。对于淘汰性结构主义者来说，相关的蕴含或推理概念是语义的，逻辑中用“⊨”表示。例如，淘汰性结构主义者将“2+2=4”解释为关于满足算术公理的任何结构中的命题。[3]
+演绎主义和淘汰性结构主义具有一些共同特点。粗略地说，两者都将数学命题 p 理解为“公理蕴含 p”（其中“公理”可以理解为相关数学分支的公理或其他方式——有关演绎主义的不同版本，请参见 §4）。演绎主义将相关蕴含理解为演绎的，淘汰性结构主义将其理解为语义的。对于演绎主义者来说，相关的蕴含或推理概念是句法的，逻辑中用“⊢”表示；说 Γ⊢δ 是说在某个指定的演绎系统中，从 Γ 可以推导出句子 δ。对于淘汰性结构主义者来说，相关的蕴含或推理概念是语义的，逻辑中用“⊨”表示。例如，淘汰性结构主义者将“2+2 = 4”解释为关于满足算术公理的任何结构中的命题。[3]
 
-然而，当我们深入细节时，一些明显的差异就显现出来。演绎主义者认为数学命题是关于句子的，而淘汰性结构主义者认为它们是关于结构的概括。与演绎主义者不同，淘汰性结构主义者因此需要向我们解释结构的形而上学。淘汰性结构主义者通常还将他们的解释与存在主张相结合，即某种合适的结构存在（或可能存在），而演绎主义者通常省略了公理一致性的相应主张。淘汰性结构主义的一个著名版本，由 Putnam（1967b）首次提出并由 Hellman（1989）发展，是模态的，而演绎主义通常不是模态的。（尽管请参见§5，了解如何用原始模态运算符来阐述演绎主义。）最后，淘汰性结构主义只是当今众多形式的结构主义之一。其中一些，例如 Hellman 的版本，与最接近演绎主义的淘汰性结构主义有很多共同之处；而其他一些，例如 Shapiro 的 ante rem 结构主义（Shapiro 1997），则不太相似。
+然而，当我们深入细节时，一些明显的差异就显现出来。演绎主义者认为数学命题是关于句子的，而淘汰性结构主义者认为它们是关于结构的概括。与演绎主义者不同，淘汰性结构主义者因此需要向我们解释结构的形而上学。淘汰性结构主义者通常还将他们的解释与存在主张相结合，即某种合适的结构存在（或可能存在），而演绎主义者通常省略了公理一致性的相应主张。淘汰性结构主义的一个著名版本，由 Putnam（1967b）首次提出并由 Hellman（1989）发展，是模态的，而演绎主义通常不是模态的。（尽管请参见 §5，了解如何用原始模态运算符来阐述演绎主义。）最后，淘汰性结构主义只是当今众多形式的结构主义之一。其中一些，例如 Hellman 的版本，与最接近演绎主义的淘汰性结构主义有很多共同之处；而其他一些，例如 Shapiro 的 ante rem 结构主义（Shapiro 1997），则不太相似。
 
 尽管存在一些明显的历史和哲学上的连续性，但这两者之间仍然存在一些差异，因此清楚地了解演绎主义的缺陷可以帮助我们更好地欣赏广义结构主义方法的优点。确实可以肯定的是，在哥德尔于 1929 年发表一阶逻辑的完备性定理之前（随后一年以论文形式发表），人们并没有清楚地理解演绎主义和消除式结构主义之间的差异。这一点将在历史的第 3 节中进行说明。哥德尔于 1931 年发表的第一不完全性定理也与这个故事相关，它将成为对演绎主义的一个关键反对意见（第 9 节）[4]。
 
-最后一个联系点是，当背景逻辑可公理化时，消除式结构主义和演绎主义提供了数学真理的等价扩展解释[5]。简单的原因是，对于可公理化的逻辑，如一阶逻辑，语义蕴涵与演绎推理在外延上是等价的。因此，假设你在数学哲学中倾向于消除式结构主义，并将一阶逻辑作为默认逻辑[6]。那么，当且仅当（一阶）演绎主义者这样做时，你将认为 p 是一个数学真理。避免“陷入演绎主义的语义等价”正是 Hellman 选择了第二阶框架来构建他的消除式结构主义的模态版本的原因之一（Hellman 1989: 18-19）。然而，正如前面所解释的，即使在它们共享的背景逻辑可公理化的情况下，消除式结构主义和演绎主义也不具有比这个外延等价更强的等价关系。
+最后一个联系点是，当背景逻辑可公理化时，消除式结构主义和演绎主义提供了数学真理的等价扩展解释 [5]。简单的原因是，对于可公理化的逻辑，如一阶逻辑，语义蕴涵与演绎推理在外延上是等价的。因此，假设你在数学哲学中倾向于消除式结构主义，并将一阶逻辑作为默认逻辑 [6]。那么，当且仅当（一阶）演绎主义者这样做时，你将认为 p 是一个数学真理。避免“陷入演绎主义的语义等价”正是 Hellman 选择了第二阶框架来构建他的消除式结构主义的模态版本的原因之一（Hellman 1989: 18-19）。然而，正如前面所解释的，即使在它们共享的背景逻辑可公理化的情况下，消除式结构主义和演绎主义也不具有比这个外延等价更强的等价关系。
 
 术语说明：演绎主义有时被称为“如果-那么主义”。然而，“如果-那么主义”更像是一个属于演绎主义和消除式结构主义的句法和语义种类的属属。Rheinwald（1984: 49）将“蕴涵主义”用于属的名称，将“句法蕴涵主义”用于演绎主义，将“语义蕴涵主义”用于结构主义。这种术语管理方式既涵盖了属和种，又具有很高的透明度。本条目坚持使用“演绎主义”和“结构主义”这两个种的名称，因为这些名称在今天更常用（而且更短）。
 
@@ -56,7 +56,7 @@ or “2 is prime” as
 
 > 纯数学是所有形式为“p 蕴含 q”的命题的集合，其中 p 和 q 是包含一个或多个变量的命题，在这两个命题中变量相同，而且 p 和 q 都不包含除逻辑常量之外的任何常量（罗素 1903 [2009: 3]）。
 
-看起来很奇怪，命题 p 和 q 被认为至少包含一个变量。然而，根据罗素的观点，即使是“1+1=2”也包含了变量，一旦完全明确了——即“如果 x 是一个，y 是一个，并且 x 与 y 不同，那么 x 和 y 就是两个”（罗素 1903 [2009: 6]）。
+看起来很奇怪，命题 p 和 q 被认为至少包含一个变量。然而，根据罗素的观点，即使是“1+1 = 2”也包含了变量，一旦完全明确了——即“如果 x 是一个，y 是一个，并且 x 与 y 不同，那么 x 和 y 就是两个”（罗素 1903 [2009: 6]）。
 
 罗素的信条是演绎主义还是结构主义，或者两者的混合物？在 20 世纪之交，没有人清楚地区分语义学和句法学，罗素也不例外。这导致普特南声称罗素真正考虑的是我们的术语中的消除性结构主义。（普特南将他归因于罗素的结构主义称为“如果-那么主义”；如第 2 节所解释的，本条目避免使用这个术语。）他敦促：
 
@@ -76,7 +76,7 @@ or “2 is prime” as
 
 考虑希尔伯特的 1900 年关于“数的概念”。在引言中，希尔伯特宣称他打算将几何学中已知的公理方法应用于数的概念（1900a: 181）。他将公理方法与当时文献中常见的临时方法进行对比。他的公理方法的目的是实现“我们理解的内容的最终呈现和逻辑确定性”（同上）。他首先列出了实数的十八个公理。举个例子，第一个公理是
 
-> 从数 a 和数 b 通过“加法”得到一个特定的数 c，形式上表示为：a+b=c 或 c=a+b。（1900a: 18）
+> 从数 a 和数 b 通过“加法”得到一个特定的数 c，形式上表示为：a+b = c 或 c = a+b。（1900a: 18）
 
 然后希尔伯特断言，关于实数的命题只有在有限步骤内可以从公理集中证明时才是有效的（1900a: 184）。
 
@@ -106,7 +106,7 @@ or “2 is prime” as
 
 ### 3.3 Pasch
 
-这使我们想到了莫里茨·帕什（Moritz Pasch）本人，他是罗素（Russell）和希尔伯特（Hilbert）的另一位同时代人，他捍卫了一种演绎主义的风格。帕什以他在 1882 年的《关于新几何的讲座》中对几何学的公理化而闻名。在 1882 年的第一版中，以及在 1926 年的第二版中，有一段关键的文字如下：
+这使我们想到了莫里茨 · 帕什（Moritz Pasch）本人，他是罗素（Russell）和希尔伯特（Hilbert）的另一位同时代人，他捍卫了一种演绎主义的风格。帕什以他在 1882 年的《关于新几何的讲座》中对几何学的公理化而闻名。在 1882 年的第一版中，以及在 1926 年的第二版中，有一段关键的文字如下：
 
 > 实际上，如果几何学要真正成为演绎的，那么演绎必须在几何术语的含义之外独立存在，就像它必须独立于图表一样；只有在使用的定理和定义中规定的几何术语之间的关系可以被考虑。在演绎过程中，思考几何术语的含义是被允许和有用的，但并不是必要的；事实上，如果必须这样做，这就表明了演绎中的缺陷，甚至是证明中所引用的定理的不足之处（1882/1926，我们的翻译和强调）[8]。
 
@@ -124,7 +124,7 @@ Pasch 的推理主义与 Hilbert 的区别在于 Pasch 同时坚持了关于公�
 
 Haskell Curry 在他的 1951 年《形式主义数学哲学概要》中捍卫了一种更近期的演绎主义版本。他认为，“数学是形式系统的科学”（1951: 56）。对于 Curry 来说，形式系统应该从演绎的角度来理解——它们由形式语言、公理和推理规则组成，称为“程序规则”（1951: 11–13）。在不完备性被发现之后，Curry 对其影响有以下看法：
 
-> 不完备性定理[…]表明找到一个包括所有通常理解的数学的单一形式系统是没有希望的。此外，构成形式系统原始框架的定义的任意性表明，原则上所有形式系统都是平等的。因此，数学的本质不在于任何特定类型的形式系统，而在于形式结构本身。（Curry 1951: 56）
+> 不完备性定理 […] 表明找到一个包括所有通常理解的数学的单一形式系统是没有希望的。此外，构成形式系统原始框架的定义的任意性表明，原则上所有形式系统都是平等的。因此，数学的本质不在于任何特定类型的形式系统，而在于形式结构本身。（Curry 1951: 56）
 
 Curry 将他的观念称为形式主义。但是，通过形式主义，Curry 只是指可以在形式系统中推导出什么的科学。形式主义和演绎主义（如本条目所理解的）在关注语法而非语义方面相似。然而，演绎主义认为数学命题具有真值条件，而不像游戏；它只认为逻辑推理是可允许的，而形式主义原则上可以容忍任何符号推导实践。与形式主义解释相反，Curry 在他的著作中广泛使用真理概念，并拒绝将形式系统视为一种游戏：
 
@@ -134,7 +134,7 @@ Curry 将他的观念称为形式主义。但是，通过形式主义，Curry �
 >
 > 对于数学而言，只需要有识别形式系统的标准以及判断哪些命题是真实的即可。(1951: 31)
 
-根据 Curry 的观点，这种观点的主要优势之一是没有形而上学的推测，这是演绎主义的一个关键动机（见§2）：
+根据 Curry 的观点，这种观点的主要优势之一是没有形而上学的推测，这是演绎主义的一个关键动机（见 §2）：
 
 > 数学形式主义的概念因此不受形而上学的偏见影响，因此与几乎任何哲学观点都兼容。这是迄今为止唯一提出的具有这种特征的概念。（1951 年：58；我们的强调）
 
@@ -156,7 +156,7 @@ Brouwer’s intuitionism is related to deductivism but differs from it in an int
 
 我们在第 3 节中概述了对演绎主义的历史支持。在第 5 至 9 节中，我们考虑了它所面临的一些挑战。在本节中，我们的目标是更清楚地阐明演绎主义者所提出的语义主张。
 
-第一点是我们将演绎主义描述为“理解”或“解释”或“表达”数学句子 p 为“Ax⊢p”。这种描述故意保持中立，可以有两种更精确的解读。一种是演绎主义者认为他们的解释捕捉到了数学陈述的普通口语意义[10]。另一种是他们并不希望这样做，而是希望提供一个符合哲学标准的数学重建。这样的标准可能包括与通常理解的数学话语接近，但通常这不会是一个主要因素。其他标准将包括提供一种有吸引力的形而上学、认识论和数学应用解释。本条目将在这一点上保持中立，但应注意的是，第一种方法面临着相当大的证明负担：没有明显的理由认为我们实际上是以演绎主义的方式说话。
+第一点是我们将演绎主义描述为“理解”或“解释”或“表达”数学句子 p 为“Ax⊢p”。这种描述故意保持中立，可以有两种更精确的解读。一种是演绎主义者认为他们的解释捕捉到了数学陈述的普通口语意义 [10]。另一种是他们并不希望这样做，而是希望提供一个符合哲学标准的数学重建。这样的标准可能包括与通常理解的数学话语接近，但通常这不会是一个主要因素。其他标准将包括提供一种有吸引力的形而上学、认识论和数学应用解释。本条目将在这一点上保持中立，但应注意的是，第一种方法面临着相当大的证明负担：没有明显的理由认为我们实际上是以演绎主义的方式说话。
 
 第二点是演绎主义者必须提供比简单地声称数学句子 p 应被解释为 "Ax⊢p" 更多的内容。首先，她对数学的（意义捕捉或重建）语义不能仅限于句子层面，而必须也适用于单词。例如，演绎主义者必须给出一个与她对 "2 是质数" 解释为 "Ax⊢2 是质数" 一致的 "2" 和 "是质数" 的语义解释。
 
@@ -166,21 +166,21 @@ Brouwer’s intuitionism is related to deductivism but differs from it in an int
 
 至于第二点，演绎主义者并不总是希望以相同机械的方式应用“Ax⊢”-takes-narrow-scope 策略。以假设证明为例，我们首先假设 p1，并通过 p2，…，pn−1 推导出 pn。我们最初的假设 p1 可能是 m 是一个奇完全数，而最后一行 pn 可能是关于任何这样的 m 的一些有趣事实。很明显，“assume”在这里是否采用广义范围，而“Ax⊢”采用狭义范围并不明显。因为如果是这样，“Assume p1”将被解释为“Assume Ax⊢p1”，直观上这是一个不同的主张。从更技术的角度来看，由于 m 在 Ax 中没有自由出现，似乎我们可以推广得到“Ax⊢∀mp1”。如果是这样，“假设 Ax 证明 m 是一个奇完全数”意味着“假设 Ax 证明对于每个 m，m 是一个奇完全数”。但是后者的假设是一个彻头彻尾的错误主张。一个更有希望的方法是将假设中的第一步视为允许我们将 p1 添加到公理集中，并将第二行解释为“Ax+p1⊢p2”（或通过演绎定理的等价形式“Ax⊢p1→p2”），第三行解释为“Ax+p1⊢p3”（或“Ax⊢p1→p3”），依此类推。总之，演绎主义者在这方面还有工作要做，将这些思想阐述为一个连贯的理论。
 
-第三点基于帕森斯（Parsons）（2008: 55 n. 35）对所谓的自反和非自反演绎主义的区分。正如本条目所定义的那样，演绎主义是自反的，因为它将 p 解释为“Ax⊢p”。相比之下，非自反演绎主义将 p 解释为“if ∧Ax then p”（∧是一个将公理集中的所有元素连接起来的运算符），并断言这个条件是演绎逻辑真理。莱茵瓦尔德（Rheinwald）（1984: 50）选择了前者，自反形式，就像我们一样。帕森斯评论莱茵瓦尔德，主张采用后者，非自反形式。因为在他看来，自反形式在数学陈述的内容中引入了一个非必要的反思要素-明确提及公理，而他认为数学陈述中缺乏这种要素。帕森斯有一定道理，特别是如果演绎主义的目的是捕捉含义。即便如此，本条目将演绎主义视为自反的，以避免非自反演绎主义在公理集是无限的情况下面临的问题，例如在一阶皮亚诺公理的情况下。因为在这种情况下，“if ∧Ax then p”的句子是无限长的，因此不是普通语言的句子。相比之下，“Ax⊢p”是（数学）英语的普通句子，其中“Ax”是一个表示相关公理集的名称。话虽如此，非自反演绎主义可能更适合处理演绎主义面临的一些问题。
+第三点基于帕森斯（Parsons）（2008: 55 n. 35）对所谓的自反和非自反演绎主义的区分。正如本条目所定义的那样，演绎主义是自反的，因为它将 p 解释为“Ax⊢p”。相比之下，非自反演绎主义将 p 解释为“if ∧Ax then p”（∧ 是一个将公理集中的所有元素连接起来的运算符），并断言这个条件是演绎逻辑真理。莱茵瓦尔德（Rheinwald）（1984: 50）选择了前者，自反形式，就像我们一样。帕森斯评论莱茵瓦尔德，主张采用后者，非自反形式。因为在他看来，自反形式在数学陈述的内容中引入了一个非必要的反思要素-明确提及公理，而他认为数学陈述中缺乏这种要素。帕森斯有一定道理，特别是如果演绎主义的目的是捕捉含义。即便如此，本条目将演绎主义视为自反的，以避免非自反演绎主义在公理集是无限的情况下面临的问题，例如在一阶皮亚诺公理的情况下。因为在这种情况下，“if ∧Ax then p”的句子是无限长的，因此不是普通语言的句子。相比之下，“Ax⊢p”是（数学）英语的普通句子，其中“Ax”是一个表示相关公理集的名称。话虽如此，非自反演绎主义可能更适合处理演绎主义面临的一些问题。
 
-第四个也是最后一个观点。到目前为止，这个条目对于陈述演绎主义的公理“Ax”是什么保持中立。一个“局部”的演绎主义者，如第 1 节所示，将一个数学分支的定理演绎地基于该分支的公理，例如，将算术定理基于皮亚诺算术的公理。另一种演绎主义可能基于数学的某个特定的所谓基础，比如 ZFC 集合论的公理。因此，一个 ZFC 演绎主义者将数学命题 p 理解为“p 从 ZFC 公理演绎出来”。选择 ZFC 并不是必要的：如果演绎主义者偏好的基础不是 ZFC，而是其他集合论、拓扑学或其他完全不同的理论，他们可以基于那个理论来建立他们的演绎主义。比这个更宽松的第三种演绎主义形式可以称为“无论如何演绎主义”。在这种观点中，构成数学真理的可证明性公理不是一个特定的集合，比如 ZFC 公理，而是更模糊地描述：它们是证明数学定理所需的任何公理。这个最后的版本相对于第二个版本的优点在于它没有将可证明性（可能是人为地）与单一的基础系统联系起来。然而，它以相当的不精确为代价。[11]简而言之，不同形式的演绎主义源于对演绎主义的经典陈述中“Ax”的不同理解。
+第四个也是最后一个观点。到目前为止，这个条目对于陈述演绎主义的公理“Ax”是什么保持中立。一个“局部”的演绎主义者，如第 1 节所示，将一个数学分支的定理演绎地基于该分支的公理，例如，将算术定理基于皮亚诺算术的公理。另一种演绎主义可能基于数学的某个特定的所谓基础，比如 ZFC 集合论的公理。因此，一个 ZFC 演绎主义者将数学命题 p 理解为“p 从 ZFC 公理演绎出来”。选择 ZFC 并不是必要的：如果演绎主义者偏好的基础不是 ZFC，而是其他集合论、拓扑学或其他完全不同的理论，他们可以基于那个理论来建立他们的演绎主义。比这个更宽松的第三种演绎主义形式可以称为“无论如何演绎主义”。在这种观点中，构成数学真理的可证明性公理不是一个特定的集合，比如 ZFC 公理，而是更模糊地描述：它们是证明数学定理所需的任何公理。这个最后的版本相对于第二个版本的优点在于它没有将可证明性（可能是人为地）与单一的基础系统联系起来。然而，它以相当的不精确为代价。[11] 简而言之，不同形式的演绎主义源于对演绎主义的经典陈述中“Ax”的不同理解。
 
 ## 5. 可证明性：实体化还是不实体化？
 
 本条目的其余部分将在第 5 至 9 节中讨论对演绎主义的五个挑战，每个挑战占据一节。第一个挑战涉及可证明性的概念。由于演绎主义声称数学是关于在某些公理系统中可证明的内容，因此提供可证明性的解释对于演绎主义至关重要。问题是是否将可证明性解释为证明的存在与否。简而言之，实体化还是不实体化？
 
-首先采取具体化的方法。它将“p 是从公理 Ax 可证明的”解读为“存在一个从公理 Ax 推导出 p 的证明”（在特定的演绎系统中理解）。这是最自然和最标准的可证明性理解。根据这种方法，说一个系统 T 是一致的就是说在 T 的语言中不存在一个公式ϕ，使得从 T 中存在一个ϕ的证明和一个¬ϕ的证明。然而，有些公式和证明太长了，无法具体化为物理实例；一个简单的例子是涉及极大数的数值方程的证明。即使是具体化的公式也不应该与其中的一个具体化或其具体化类别等同。换句话说，这里理解的证明是类型而不是标记：符合演绎系统规则的抽象字符串，无论在言语、白板、纸张还是屏幕上的任何物理实例都存在。实际上，如果演绎主义者希望保留对理论的引用能力，她肯定会希望这样做，她将不得不接受语言类型。 （与类似 Field 的名义主义者相比，他们也必须引用科学和数学理论，即使他们试图避免引用数学对象。）
+首先采取具体化的方法。它将“p 是从公理 Ax 可证明的”解读为“存在一个从公理 Ax 推导出 p 的证明”（在特定的演绎系统中理解）。这是最自然和最标准的可证明性理解。根据这种方法，说一个系统 T 是一致的就是说在 T 的语言中不存在一个公式 ϕ，使得从 T 中存在一个 ϕ 的证明和一个 ¬ϕ 的证明。然而，有些公式和证明太长了，无法具体化为物理实例；一个简单的例子是涉及极大数的数值方程的证明。即使是具体化的公式也不应该与其中的一个具体化或其具体化类别等同。换句话说，这里理解的证明是类型而不是标记：符合演绎系统规则的抽象字符串，无论在言语、白板、纸张还是屏幕上的任何物理实例都存在。实际上，如果演绎主义者希望保留对理论的引用能力，她肯定会希望这样做，她将不得不接受语言类型。 （与类似 Field 的名义主义者相比，他们也必须引用科学和数学理论，即使他们试图避免引用数学对象。）
 
 结论是，演绎主义者将不得不承认语言类型。她作为演绎主义者的动机因此不能是为了避免所有抽象对象（即名义主义），因为语言类型是抽象的。因此，她必须解释为什么承认一些抽象对象（如类型）是可以接受的，而承认数学对象则不是。她可能会指出经济性的考虑：语言类型只是抽象领域的一小部分。或者她可能在认识论上争辩说，语言类型更容易被知晓，因为它们具有具体的实例，而数学对象则没有。然而，文献中对于那些拒绝抽象数学对象的人也应该拒绝抽象语言类型的论据并不少见；例如，参见 Wetzel 的 2009 年著作《类型和标记》。
 
 当然，一个人之所以成为演绎主义者，并不一定是因为对抽象对象的厌恶。正如我们在第 4 节中所看到的，一种演绎主义者可能认为语义分析揭示了数学陈述的含义是“p 从公理中演绎出来”。将这种观点与接受抽象对象和以存在证明为基础的演绎推论的标准解释相结合是完全一致的。然而，尽管完全一致，这种观点似乎缺乏独立的动机。
 
-可见，与具体化相反的选择是不具体化，而最明显的方法是采用模态路径。推理主义者可以将可证性视为模态原始概念，而不是通过证明存在来兑现可证性。逻辑可能性和必然性通常是以模型论方式理解的：当某个陈述在某个模型中为真时，它就是逻辑上可能的或一致的；当某个陈述在所有模型中为真时，它就是必然的。推理主义者必须放弃这种一致性的解释（她将其等同于逻辑可能性），否则将重新引入元理论中的数学。与主流的模型论解释相对立，她必须将“逻辑上可能”视为一个原始概念，并放弃用模型来分析它（Putnam 1967b）。这样做，她就和所有无法在元理论中使用模型论或集合论的反实在主义者一样。这艘特殊的船上人满为患：不仅有消除结构主义者，还有各种形式主义者和名义主义者。例如，名义主义者不相信抽象对象的存在。因此，他们面临着同样的困境-他们无法在元理论中诉诸于模型的存在。Hartry Field（1991）发展了一种名义主义逻辑，将逻辑一致性视为原始概念，我们可以用⋄来表示，与之相关的逻辑必然性的概念为□。特别地，⋄T 是理论 T 在逻辑上一致的主张，而逻辑蕴涵的主张是以□为前缀的条件句。非具体化的推理主义者可以利用这些资源，并将 G⊢p 解释为□(∧G→p)。
+可见，与具体化相反的选择是不具体化，而最明显的方法是采用模态路径。推理主义者可以将可证性视为模态原始概念，而不是通过证明存在来兑现可证性。逻辑可能性和必然性通常是以模型论方式理解的：当某个陈述在某个模型中为真时，它就是逻辑上可能的或一致的；当某个陈述在所有模型中为真时，它就是必然的。推理主义者必须放弃这种一致性的解释（她将其等同于逻辑可能性），否则将重新引入元理论中的数学。与主流的模型论解释相对立，她必须将“逻辑上可能”视为一个原始概念，并放弃用模型来分析它（Putnam 1967b）。这样做，她就和所有无法在元理论中使用模型论或集合论的反实在主义者一样。这艘特殊的船上人满为患：不仅有消除结构主义者，还有各种形式主义者和名义主义者。例如，名义主义者不相信抽象对象的存在。因此，他们面临着同样的困境-他们无法在元理论中诉诸于模型的存在。Hartry Field（1991）发展了一种名义主义逻辑，将逻辑一致性视为原始概念，我们可以用 ⋄ 来表示，与之相关的逻辑必然性的概念为 □。特别地，⋄T 是理论 T 在逻辑上一致的主张，而逻辑蕴涵的主张是以 □ 为前缀的条件句。非具体化的推理主义者可以利用这些资源，并将 G⊢p 解释为 □(∧G→p)。
 
 像 Field 所提出的这种“模态主义”逻辑推理方式在逻辑学家中并不普遍接受。许多人认为没有太多理由将其优先于模型论的推理方式。模态主义的解释在表达能力上存在问题，因为它们无法对可能性进行量化；而且它们在理论上不如通常的模型论解释那样优越，因为它们假设存在集合模型和原始一致性事实之间的联系。Melia（2003）的第 4 章对于关于形而上学模态性的模态主义所面临的问题进行了清晰的概述，这些问题在逻辑情况中也有对应。如果非具体化的推理主义者选择这条路线，他们将不得不对这些挑战提出令人满意的回应。
 
@@ -192,25 +192,25 @@ Brouwer’s intuitionism is related to deductivism but differs from it in an int
 
 ## 7. 一个回归？
 
-我们现在转向第三个挑战。为了介绍它，考虑一下是否应该将演绎主义应用于诸如“2+2=4”这样的句子。
+我们现在转向第三个挑战。为了介绍它，考虑一下是否应该将演绎主义应用于诸如“2+2 = 4”这样的句子。
 
-> 句子“2+2=4”从 Ax 中演绎出来（像往常一样，我们写 Ax 以保持对公理的确切性的中立性；有关选项，请参见第 4 节）。由于证明论似乎是像其他任何数学分支一样的数学分支，您可能会认为一位一致的演绎主义者应该将这个句子解释为任何其他数学句子一样。在这种情况下，“2+2=4”应该被解释为不是
+> 句子“2+2 = 4”从 Ax 中演绎出来（像往常一样，我们写 Ax 以保持对公理的确切性的中立性；有关选项，请参见第 4 节）。由于证明论似乎是像其他任何数学分支一样的数学分支，您可能会认为一位一致的演绎主义者应该将这个句子解释为任何其他数学句子一样。在这种情况下，“2+2 = 4”应该被解释为不是
 
-(As usual, we write Ax to preserve neutrality on what the axioms are exactly; see [§4](https://plato.stanford.edu/entries/deductivism-mathematics/#MeanMatt) for the options here.) Since proof theory appears to be a branch of mathematics like any other, you might suppose that a consistent deductivist should construe this sentence like any other mathematical one. In which case, the sentence “2+2=4” should be construed not as
+(As usual, we write Ax to preserve neutrality on what the axioms are exactly; see [§4](https://plato.stanford.edu/entries/deductivism-mathematics/#MeanMatt) for the options here.) Since proof theory appears to be a branch of mathematics like any other, you might suppose that a consistent deductivist should construe this sentence like any other mathematical one. In which case, the sentence “2+2 = 4” should be construed not as
 
-> 从 Ax 中可以演绎出“2+2=4”这个句子。
+> 从 Ax 中可以演绎出“2+2 = 4”这个句子。
 
  但是实际上是
 
-> 从 Ax'中可以演绎出“the sentence '2+2=4' deductively follows from Ax”这个句子。
+> 从 Ax'中可以演绎出“the sentence '2+2 = 4' deductively follows from Ax”这个句子。
 
 （其中 Ax'可能与 Ax 相同也可能不同-这不会影响主要观点。）现在，如果一个演绎主义者要走这条路，她也必须像对待其他数学句子一样解释这个最后一句。因此，它应该以相同的方式进行注释。同样适用于结果的注释，如此无穷无尽。显然，我们陷入了无限回归。
 
-看起来演绎主义者没有对句子“2+2=4”进行有限的表述。任何这样的表述都必须是无限的，而且，如果它最终结束，必须以一个句子 s 结束，该句子是这个迭代的“不动点”。换句话说，s 必须与“句子 s 从 Ax 演绎出来”（对于某个 Ax）完全相同（不仅仅是逻辑上等价），因为 s 被演绎主义者解释为
+看起来演绎主义者没有对句子“2+2 = 4”进行有限的表述。任何这样的表述都必须是无限的，而且，如果它最终结束，必须以一个句子 s 结束，该句子是这个迭代的“不动点”。换句话说，s 必须与“句子 s 从 Ax 演绎出来”（对于某个 Ax）完全相同（不仅仅是逻辑上等价），因为 s 被演绎主义者解释为
 
 > 句子 s 从 Ax 演绎出来
 
-是否存在这样一个句子是非常可疑的。即使存在，一个无限长的句子，带有无限多的嵌套，是一种荒谬复杂的解释“2+2=4”的方式，毕竟这是数学中最简单的句子之一，确实是英语中最简单的句子之一。
+是否存在这样一个句子是非常可疑的。即使存在，一个无限长的句子，带有无限多的嵌套，是一种荒谬复杂的解释“2+2 = 4”的方式，毕竟这是数学中最简单的句子之一，确实是英语中最简单的句子之一。
 
 刚刚提出的反对意见是基于可证性主张是数学的观点。为了支持这个前提，反对意见的支持者可能会指出，证明论中的结果通常充满了数学。我们相信某个陈述在演绎系统中是可证的，通常不是因为我们自己进行了证明，从公理出发，应用推理规则推导出定理。相反，它通常是基于更抽象的数学推理。
 
@@ -232,72 +232,72 @@ Brouwer’s intuitionism is related to deductivism but differs from it in an int
 
 ## 9. 真实完备性
 
-我们转向对演绎主义的第五个也是最后一个挑战。其中一个版本是由 Michael Resnik 提出的[18]。考虑演绎主义的集合论 T 及其哥德尔句子 GT。根据构造，GT 无法从 T 中推导出来。因此，演绎主义者无法解释 GT 的真实性。Resnik 的回应是：演绎主义者可以简单地向反演演绎主义者提出挑战，要求她解释她如何“看到”GT 的真实性。无论反演演绎主义者提供什么数学论证，演绎主义者都可以从中提取出一个公理集 T+，并指出 GT 可以从 T+推导出来。反驳被挡回。
+我们转向对演绎主义的第五个也是最后一个挑战。其中一个版本是由 Michael Resnik 提出的 [18]。考虑演绎主义的集合论 T 及其哥德尔句子 GT。根据构造，GT 无法从 T 中推导出来。因此，演绎主义者无法解释 GT 的真实性。Resnik 的回应是：演绎主义者可以简单地向反演演绎主义者提出挑战，要求她解释她如何“看到”GT 的真实性。无论反演演绎主义者提供什么数学论证，演绎主义者都可以从中提取出一个公理集 T+，并指出 GT 可以从 T+推导出来。反驳被挡回。
 
-Gödel 的第一不完全性定理确实给演绎主义带来了一个重大问题；但它并不是刚刚提出并回应的那个问题。上述版本关注的是如何在给定一个特定的理论（T）的情况下，我们应该欣赏其 Gödel 句子（GT）的真实性。更强的反对意见以更全局的方式提出，并将 Gödel 句子的真实性问题放在一边。演绎主义似乎犯了一个错误，即它不尊重大多数数学领域作为真实完备的根深蒂固的理解：对于任何来自真实完备数学领域的明确定义的句子 p，p 和非 p 中只有一个是真的。分析和算术是通常被理解为真实完备的领域的例子。例如，人们通常认为像哥德巴赫猜想这样的陈述是真或假的，即使它从任何合理的公理中都无法证明，而不仅仅是现有的公理。[19]但在演绎主义观点中，任何算术和分析的形式化中的不可判定句子都是假的，它们的否定也是假的，因为它们都不能从公理中演绎出来。不可判定句子的存在是由于 Gödel 的第一不完全性定理和对演绎系统的标准约束。[20]因此，演绎主义错误地描述了我们对算术、分析和几何等真实完备数学分支的理解。
+Gödel 的第一不完全性定理确实给演绎主义带来了一个重大问题；但它并不是刚刚提出并回应的那个问题。上述版本关注的是如何在给定一个特定的理论（T）的情况下，我们应该欣赏其 Gödel 句子（GT）的真实性。更强的反对意见以更全局的方式提出，并将 Gödel 句子的真实性问题放在一边。演绎主义似乎犯了一个错误，即它不尊重大多数数学领域作为真实完备的根深蒂固的理解：对于任何来自真实完备数学领域的明确定义的句子 p，p 和非 p 中只有一个是真的。分析和算术是通常被理解为真实完备的领域的例子。例如，人们通常认为像哥德巴赫猜想这样的陈述是真或假的，即使它从任何合理的公理中都无法证明，而不仅仅是现有的公理。[19] 但在演绎主义观点中，任何算术和分析的形式化中的不可判定句子都是假的，它们的否定也是假的，因为它们都不能从公理中演绎出来。不可判定句子的存在是由于 Gödel 的第一不完全性定理和对演绎系统的标准约束。[20] 因此，演绎主义错误地描述了我们对算术、分析和几何等真实完备数学分支的理解。
 
 这个反对意见似乎影响到我们在第 4 节末尾确定的三种演绎主义变体中的两种：局部演绎主义和 ZFC 演绎主义。 Gödelian 反对意见不影响的一种演绎主义形式是构造主义演绎主义，因为构造主义者在数学中不假设排中律，因此不假设真实完备性。尽管如我们在布劳尔（第 3.5 节）的讨论中所看到的，构造主义者不倾向于成为演绎主义者。
 
-坚持使用经典逻辑的演绎主义者可以通过理想化公理系统或证明系统或两者来回应这个反对意见。第一种方法是将“2+2=4”解释为：
+坚持使用经典逻辑的演绎主义者可以通过理想化公理系统或证明系统或两者来回应这个反对意见。第一种方法是将“2+2 = 4”解释为：
 
-> “2+2=4”这个句子是从算术的理想公理中演绎出来的
+> “2+2 = 4”这个句子是从算术的理想公理中演绎出来的
 
-结果的立场本质上是无论如何都要演绎主义，如第 4 节所提到的。它在第 4 节中表达的立场上增加了一些细节，即根据规定，算术的理想公理产生了一个完备的系统，以克服目前的反对意见。（当然，无论如何都要演绎主义的非正式版本将完全回避这个反对意见，因为它不是基于一个形式系统。但批评者会反驳说，它之所以这样做，仅仅是因为它对数学真理的解释本质上是模糊的。）第二种方法可能会将证明系统包括无穷推理规则，例如ω规则，众所周知，如果将其添加到一阶 Peano 算术中，将恢复完备性。[21]
+结果的立场本质上是无论如何都要演绎主义，如第 4 节所提到的。它在第 4 节中表达的立场上增加了一些细节，即根据规定，算术的理想公理产生了一个完备的系统，以克服目前的反对意见。（当然，无论如何都要演绎主义的非正式版本将完全回避这个反对意见，因为它不是基于一个形式系统。但批评者会反驳说，它之所以这样做，仅仅是因为它对数学真理的解释本质上是模糊的。）第二种方法可能会将证明系统包括无穷推理规则，例如 ω 规则，众所周知，如果将其添加到一阶 Peano 算术中，将恢复完备性。[21]
 
-然而，以任何这些方式理想化演绎主义都不是为了拯救它，而是为了放弃它。任何一种一致、演绎完备且足够强大以捕捉数学真理的所有真理的组合公理和证明系统都缺乏有效的证明过程，这是哥德尔的第一不完全性定理所证明的。要看到这一点，考虑一下假设“系统”的演绎“定理”包括所有算术的真句子。[22]根据丘奇-图灵论题，这个“定理”的列表不能由任何机械证明过程（即算法）生成。因此，理想化的演绎主义实际上是伪装薄弱的结构主义，因为它主张将无论如何都要捕捉公理的结构内容的组合公理和证明系统作为系统。如果这个想法是数学家认为一个句子是真的，当且仅当它是结构特征公理的语义内容的逻辑结果时，那么应该坦白并接受演绎主义的语义对应物：消除性结构主义。明显的道德是，演绎主义陷入困境的原因是它关注的是语法。与其像 19 世纪末和 20 世纪初那样采取语法转向，而是将“数学陈述是条件性的公理”这个想法转化为语义形式。
+然而，以任何这些方式理想化演绎主义都不是为了拯救它，而是为了放弃它。任何一种一致、演绎完备且足够强大以捕捉数学真理的所有真理的组合公理和证明系统都缺乏有效的证明过程，这是哥德尔的第一不完全性定理所证明的。要看到这一点，考虑一下假设“系统”的演绎“定理”包括所有算术的真句子。[22] 根据丘奇-图灵论题，这个“定理”的列表不能由任何机械证明过程（即算法）生成。因此，理想化的演绎主义实际上是伪装薄弱的结构主义，因为它主张将无论如何都要捕捉公理的结构内容的组合公理和证明系统作为系统。如果这个想法是数学家认为一个句子是真的，当且仅当它是结构特征公理的语义内容的逻辑结果时，那么应该坦白并接受演绎主义的语义对应物：消除性结构主义。明显的道德是，演绎主义陷入困境的原因是它关注的是语法。与其像 19 世纪末和 20 世纪初那样采取语法转向，而是将“数学陈述是条件性的公理”这个想法转化为语义形式。
 
-归纳主义者可能会尝试另一种辩护。我们在§3.4 中引用了 Curry 的观点，即“所有形式系统都是平等的”。这无疑是许多归纳主义者会觉得有吸引力的想法：原则上，任何形式系统都是可以接受的，一个形式系统与另一个形式系统之间的差异是因为其中一个更适合应用，或者因为我们恰好使用其中一个系统等等。因此，对于归纳主义者来说，如果我们明确或隐含地接受的算术公理 Ax 是不完备的，那么任何由它们无法决定的算术句子 p 都既不是真的也不是假的，因为它的真值是相对于从 Ax 推导出来的可证性而言的。当然，我们可以通过一种方式加强 Ax 以推导出 p，通过另一种方式加强 Ax 以推导出非 p，在这些相应的加强中，p 将分别为真和假。这似乎是 Curry 对于归纳主义者应该如何应对哥德尔结果的建议。
+归纳主义者可能会尝试另一种辩护。我们在 §3.4 中引用了 Curry 的观点，即“所有形式系统都是平等的”。这无疑是许多归纳主义者会觉得有吸引力的想法：原则上，任何形式系统都是可以接受的，一个形式系统与另一个形式系统之间的差异是因为其中一个更适合应用，或者因为我们恰好使用其中一个系统等等。因此，对于归纳主义者来说，如果我们明确或隐含地接受的算术公理 Ax 是不完备的，那么任何由它们无法决定的算术句子 p 都既不是真的也不是假的，因为它的真值是相对于从 Ax 推导出来的可证性而言的。当然，我们可以通过一种方式加强 Ax 以推导出 p，通过另一种方式加强 Ax 以推导出非 p，在这些相应的加强中，p 将分别为真和假。这似乎是 Curry 对于归纳主义者应该如何应对哥德尔结果的建议。
 
-由此产生的多元主义立场出于原则性的原因拒绝了真实完备性。但它仍然拒绝了真实完备性，这必须被视为一个重大的代价。因为算术的真实完备性是数学的一个基本承诺，并渗透到我们对自然数的大部分思考中。（类似的观点也适用于许多其他领域。）有人会说，尊重真实完备性是对数学哲学的一个不可谈判的约束。当然，真实完备性的反对只挑战了归纳主义在数学的某些领域中，特别是那些通常被认为是真实完备的但没有完全的、一致的公理化存在的领域。即使在一阶逻辑中，对于有限结构和一些无限结构，也可以提供一个完全的理论-公理化。因此，人们仍然可以尝试为所有其他领域辩护归纳主义。但是，拥有一个统一的数学哲学是非常有价值的。更重要的是，考虑到归纳主义的动机，如§2 所述，很难看出这种折衷的归纳主义的意义所在。
+由此产生的多元主义立场出于原则性的原因拒绝了真实完备性。但它仍然拒绝了真实完备性，这必须被视为一个重大的代价。因为算术的真实完备性是数学的一个基本承诺，并渗透到我们对自然数的大部分思考中。（类似的观点也适用于许多其他领域。）有人会说，尊重真实完备性是对数学哲学的一个不可谈判的约束。当然，真实完备性的反对只挑战了归纳主义在数学的某些领域中，特别是那些通常被认为是真实完备的但没有完全的、一致的公理化存在的领域。即使在一阶逻辑中，对于有限结构和一些无限结构，也可以提供一个完全的理论-公理化。因此，人们仍然可以尝试为所有其他领域辩护归纳主义。但是，拥有一个统一的数学哲学是非常有价值的。更重要的是，考虑到归纳主义的动机，如 §2 所述，很难看出这种折衷的归纳主义的意义所在。
 
 真实完备性给归纳主义者带来了巨大的挑战。为了满足这一挑战，她不能偏袒任何一个算术系统，认为“PA 是一致的”在一个系统中是真的，在另一个系统中是假的。后哥德尔时代的认识到，如果我们转向一个不可完全的语义推理关系，淘汰性结构主义在这里表现得更好，这导致了结构主义在二十世纪下半叶流行起来，而归纳主义则受到了损失。
 
 ## Bibliography
 
-* Benacerraf, Paul, 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70(19): 661–679. doi:10.2307/2025075
+* Benacerraf, Paul, 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70(19): 661–679. doi: 10.2307/2025075
 * Bostock, David, 2009, *Philosophy of Mathematics: An Introduction*, Chichester, UK/Malden, MA: Wiley-Blackwell.
 * Brouwer, Luitzen Egbertus Jan, 1981, *Brouwer’s Cambridge Lectures on Intuitionism*, Dirk van Dalen (ed.), Cambridge/New York: Cambridge University Press.
-* Burgess, John Patton, 1983, “Why I Am Not a Nominalist.”, *Notre Dame Journal of Formal Logic*, 24(1): 93–105. doi:10.1305/ndjfl/1093870223
+* Burgess, John Patton, 1983, “Why I Am Not a Nominalist.”, *Notre Dame Journal of Formal Logic*, 24(1): 93–105. doi: 10.1305/ndjfl/1093870223
 * Curry, Haskell Brooks, 1951, *Outlines of a Formalist Philosophy of Mathematics*, (Studies in Logic and the Foundations of Mathematics), Amsterdam: North-Holland Publishing.
 * Field, Hartry, 1991, “Metalogic and Modality”, *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition,* 62(1): 1–22.
 * Frege, Gottlob, 1976 [1980], *Wissenschaftlicher Briefwechsel*, volume 2 of *Nachgelassene Schriften und Wissenschaftlicher Briefwechsel*, Gottfried Gabriel, Hans Hermes, Friedrich Kambartel, Christian Thiel, and Albert Veraart (eds), Hamburg: Meiner. Abridged version translated as *Philosophical and Mathematical Correspondence*, Brian McGuinness (ed.), Hans Kaal (trans.), Chicago: University of Chicago Press and Oxford: Blackwell.
-* Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik,* 37(1): 349–60. doi:10.1007/BF01696781.
-* –––, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I”, *Monatshefte für Mathematik und Physik,* 38(1): 173–98. doi:10.1007/BF01700692.
-* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press. doi:10.1093/0198240341.001.0001
+* Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik,* 37(1): 349–60. doi: 10.1007/BF01696781.
+* –––, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I”, *Monatshefte für Mathematik und Physik,* 38(1): 173–98. doi: 10.1007/BF01700692.
+* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press. doi: 10.1093/0198240341.001.0001
 * –––, 2021, “If ‘If-Then’ Then What?”, in his *Mathematics and Its Logics: Philosophical Essays*, Cambridge: Cambridge University Press, 237–255 (ch. 14).
-* Hellman, Geoffrey and Stewart Shapiro, 2019, *Mathematical Structuralism*, Cambridge: Cambridge University Press. doi:10.1017/9781108582933
+* Hellman, Geoffrey and Stewart Shapiro, 2019, *Mathematical Structuralism*, Cambridge: Cambridge University Press. doi: 10.1017/9781108582933
 * Hilbert, David, 1900a, “Über den Zahlbegriff.”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 8: 180–183.
 * –––, 1900b, “Mathematische Probleme”. *Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse* 1900: 253–297.
-* Kennedy, Hubert C., 1972, “The Origins of Modern Axiomatics: Pasch to Peano”, *The American Mathematical Monthly*, 79(2): 133–136. doi:10.1080/00029890.1972.11993005
-* Kraal, Anders, 2014, “The Aim of Russell’s Early Logicism: A Reinterpretation”, *Synthese*, 191(7): 1493–1510. doi:10.1007/s11229-013-0342-9
-* Leng, Mary, 2010, *Mathematics and Reality*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199280797.001.0001
+* Kennedy, Hubert C., 1972, “The Origins of Modern Axiomatics: Pasch to Peano”, *The American Mathematical Monthly*, 79(2): 133–136. doi: 10.1080/00029890.1972.11993005
+* Kraal, Anders, 2014, “The Aim of Russell’s Early Logicism: A Reinterpretation”, *Synthese*, 191(7): 1493–1510. doi: 10.1007/s11229-013-0342-9
+* Leng, Mary, 2010, *Mathematics and Reality*, Oxford/New York: Oxford University Press. doi: 10.1093/acprof: oso/9780199280797.001.0001
 * Linnebo, Øystein, 2017, *Philosophy of Mathematics*, (Princeton Foundations of Contemporary Philosophy), Princeton, NJ: Princeton University Press.
 * Maddy, Penelope, 2022, *A Plea for Natural Philosophy: And Other Essays*, New York: Oxford University Press.
 * Melia, Joseph, 2003, *Modality*, (Central Problems of Philosophy), Montreal: McGill-Queen’s University Press.
 * Parsons, Charles, 2008, *Mathematical Thought and its Objects*. Cambridge: Cambridge University Press.
 * Pasch, Moritz, 1882/1926, *Vorlesungen uber neuere Geometrie*, first edition, Leipzig: B.G.Teubner. Second edition, (Die Grundlehren der mathematischen Wissenschaften in Einzeldarstellungen 23), Berlin: J. Springer.
-* –––, 1917 [2010], “Grundfragen der Geometrie.”, *Journal für die reine und angewandte Mathematik*, 147: 184–190. Translated as “Fundamental Questions of Geometry”, in Pasch 2010: 45–50. doi:10.1515/crll.1917.147.184 (de) doi:10.1007/978-90-481-9416-2_2 (en)
-* –––, 1918 [2010], “Die Forderung der Entscheidbarkeit”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 27: 228–232. Translated as “The Decidability Requirement”, in Pasch 2010: 51–54. doi:10.1007/978-90-481-9416-2_3 (en)
-* –––, 2010, *Essays on the Foundations of Mathematics by Moritz Pasch*, Stephen Pollard (ed./tran.), (The Western Ontario Series in Philosophy of Science 83), Dordrecht: Springer Netherlands. doi:10.1007/978-90-481-9416-2
-* Paseau, Alexander C., 2005, “Naturalism in Mathematics and the Authority of Philosophy”, *The British Journal for the Philosophy of Science*, 56(2): 377–396. doi:10.1093/bjps/axi123
-* –––, 2015, “Knowledge of Mathematics without Proof”, *The British Journal for the Philosophy of Science*, 66(4): 775–799. doi:10.1093/bjps/axu012
+* –––, 1917 [2010], “Grundfragen der Geometrie.”, *Journal für die reine und angewandte Mathematik*, 147: 184–190. Translated as “Fundamental Questions of Geometry”, in Pasch 2010: 45–50. doi: 10.1515/crll.1917.147.184 (de) doi: 10.1007/978-90-481-9416-2_2 (en)
+* –––, 1918 [2010], “Die Forderung der Entscheidbarkeit”, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 27: 228–232. Translated as “The Decidability Requirement”, in Pasch 2010: 51–54. doi: 10.1007/978-90-481-9416-2_3 (en)
+* –––, 2010, *Essays on the Foundations of Mathematics by Moritz Pasch*, Stephen Pollard (ed./tran.), (The Western Ontario Series in Philosophy of Science 83), Dordrecht: Springer Netherlands. doi: 10.1007/978-90-481-9416-2
+* Paseau, Alexander C., 2005, “Naturalism in Mathematics and the Authority of Philosophy”, *The British Journal for the Philosophy of Science*, 56(2): 377–396. doi: 10.1093/bjps/axi123
+* –––, 2015, “Knowledge of Mathematics without Proof”, *The British Journal for the Philosophy of Science*, 66(4): 775–799. doi: 10.1093/bjps/axu012
 * –––, forthcoming a, “Trumping Naturalism Revisited”, in *On the Philosophy of Penelope Maddy: Set-theoretic Foundations and Naturalistic Methodology*, Juliette Cara Kennedy (ed.), Springer.
 * –––, forthcoming b, *What is Mathematics About?* Oxford: Oxford University Press.
 * Putnam, Hilary, 1967a [1975], “The Thesis That Mathematics Is Logic”, in *Bertrand Russell, Philosopher of the Century*, Ralph Schoenman (ed.), London: Allen and Unwin, ch. 18. Reprinted In his *Mathematics, Matter, and Method*, London/New York: Cambridge University Press, 1975, 12–42 (ch. 2). Page refs are to the reprint.
-* –––, 1967b, “Mathematics without Foundations”, *The Journal of Philosophy*, 64(1): 5–22. doi:10.2307/2024603
+* –––, 1967b, “Mathematics without Foundations”, *The Journal of Philosophy*, 64(1): 5–22. doi: 10.2307/2024603
 * Quine, Willard Van Orman, 1970, *Philosophy of Logic*, Englewood Cliffs, NJ: Prentice-Hall. Second edition, Cambridge, MA: Harvard University Press, 1986.
 * Resnik, Michael D., 1980, *Frege and the Philosophy of Mathematics*,. Ithaca, NY: Cornell University Press.
 * Rheinwald, Rosemarie, 1984, *Der Formalismus und seine Grenzen. Untersuchungen zur neueren Philosophie der Mathematik* (Analyse und Grundlegung, 11), Königstein: Hain.
 * Robson, Eleanor, 2008, *Mathematics in Ancient Iraq: A Social History*, Princeton, NJ: Princeton University Press.
 * Russell, Bertrand, 1903 [2009], *Principles of Mathematics*, first edition, Cambridge: University Press. Reprinted London: Routledge, 2009.
 * –––, 1937 [2010], *Principles of Mathematics*, second edition, London: G. Allen & Unwin. Reprinted London: Routledge, 2010.
-* Schlimm, Dirk, 2010, “Pasch’s Philosophy of Mathematics”, *The Review of Symbolic Logic*, 3(1): 93–118. doi:10.1017/S1755020309990311
-* Shapiro, Stewart, 1997, *Philosophy of Mathematics: Structure and Ontology*, New York: Oxford University Press. doi:10.1093/0195139305.001.0001
+* Schlimm, Dirk, 2010, “Pasch’s Philosophy of Mathematics”, *The Review of Symbolic Logic*, 3(1): 93–118. doi: 10.1017/S1755020309990311
+* Shapiro, Stewart, 1997, *Philosophy of Mathematics: Structure and Ontology*, New York: Oxford University Press. doi: 10.1093/0195139305.001.0001
 * –––, 2000, *Thinking about Mathematics: The Philosophy of Mathematics*, New York: Oxford University Press.
-* Sieg, Wilfried, 2020, “The Ways of Hilbert’s Axiomatics: Structural and Formal”, in *The Prehistory of Mathematical Structuralism*, Erich H. Reck and Georg Schiemer (eds.), New York: Oxford University Press, 142–165 (ch. 6). doi:10.1093/oso/9780190641221.003.0006
-* Warren, Jared, 2020, *Shadows of Syntax: Revitalizing Logical and Mathematical Conventionalism*, New York: Oxford University Press. doi:10.1093/oso/9780190086152.001.0001
-* Wetzel, Linda, 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262013017.001.0001
-* Williamson, Timothy, 2014, “Logic, Metalogic and Neutrality”, *Erkenntnis*, 79(S2): 211–231. doi:10.1007/s10670-013-9474-z
+* Sieg, Wilfried, 2020, “The Ways of Hilbert’s Axiomatics: Structural and Formal”, in *The Prehistory of Mathematical Structuralism*, Erich H. Reck and Georg Schiemer (eds.), New York: Oxford University Press, 142–165 (ch. 6). doi: 10.1093/oso/9780190641221.003.0006
+* Warren, Jared, 2020, *Shadows of Syntax: Revitalizing Logical and Mathematical Conventionalism*, New York: Oxford University Press. doi: 10.1093/oso/9780190086152.001.0001
+* Wetzel, Linda, 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: MIT Press. doi: 10.7551/mitpress/9780262013017.001.0001
+* Williamson, Timothy, 2014, “Logic, Metalogic and Neutrality”, *Erkenntnis*, 79(S2): 211–231. doi: 10.1007/s10670-013-9474-z
 
 ## Academic Tools
 

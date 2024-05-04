@@ -1,6 +1,6 @@
 # 人际关系中的物品  personal relationship goods (Anca Gheaus)
 
-*首次发表于2018年9月4日；实质性修订于2022年10月4日*
+*首次发表于 2018 年 9 月 4 日；实质性修订于 2022 年 10 月 4 日*
 
 在过去几十年中，政治哲学家和应用伦理学家对个人关系的价值越来越感兴趣。它们产生的物品，或者说它们所包含的物品，显然在各种关于生活何以美好的解释/理论中，无论是作为手段还是非手段，都非常重要：它们被大多数人渴望，可以带来很多快乐和喜悦，至少其中一些，比如友谊或爱情，具有客观价值。最近，这些物品也被认为与确定个人义务甚至权利有关。特别是，有几个原因需要关注它们的分配：个人关系物品代表个人幸福的一个重要且不可替代的组成部分，它们是一种重要的个人资源，也是个人机会的主要决定因素。
 
@@ -42,7 +42,7 @@
 
 或许将关怀伦理学的个体化最好的方式是将其视为关注个人关系中满足他人需求的伦理学分支（Tronto 1993）。但是，“关怀”在女性主义伦理学中用于指代略有不同的事物（Collins 2015）。需求的提及是关怀伦理学不同解释中的共同纽带（在本文中，“需求”和“重要利益”可以互换使用）。关怀伦理学首先关乎一种工作或劳动，比如在照顾婴儿或照料病人等情况下，有人被称为“照顾”他人。一些关怀伦理学家将道德价值特别地归属于那些无法满足相关需求的个体（Bubeck 1995）。这种含义通常扩展到更广泛的活动领域，如教育或身心健康护理。根据第二种观点，关怀伦理学关乎人与人之间的亲密关系，基于特殊的情感纽带，并包括对彼此福祉的承诺（Ruddick 1998）。关怀伦理学的很大一部分（至少在早期阶段）关注亲密的个人关系，如母性或友谊；这里的假设是关怀满足了人们对结合或依恋的需求（Gheaus 2009: 64）。第三种方式中，“关怀”被理解为一种以特定方式行为的倾向：关注他人的需求并愿意帮助他们。在这个意义上，“关怀”是一种美德，而关怀伦理学是一种美德伦理学形式。作为一种美德，关怀是一种普遍的态度，与冷漠和对他人需求的漠不关心相对立。
 
-无论是作为满足需求的活动、关系还是倾向，关怀都被赋予了普遍的道德价值。许多关怀伦理学家对关怀的关键作用，即对代理能力以及个体和物种生存的关怀给予了兴趣。首先，在关系中没有得到关怀的婴儿很难存活，更不用说茁壮成长（Ruddick 1989）。此外，关怀对于人的存在至关重要：只有在与好的照顾者建立关系的过程中，孩子才能获得道德知识和倾向，并最终实现充分的代理能力（Held 1993）。同样，一些关怀伦理学家认为友谊对于培养丰富的自主意识是必要的，因为朋友给予我们对特定价值观和善的概念最直接的接触（Friedman 1993）。其次，正如Eva Kittay所主张的，关怀具有普遍价值，因为大多数人在婴儿期或童年之外的不同时刻都以不同程度需要关怀：有些人只在疾病和老年期间需要，而其他人——患有慢性疾病或残疾的人——则几乎持续需要（Kittay 1999）。
+无论是作为满足需求的活动、关系还是倾向，关怀都被赋予了普遍的道德价值。许多关怀伦理学家对关怀的关键作用，即对代理能力以及个体和物种生存的关怀给予了兴趣。首先，在关系中没有得到关怀的婴儿很难存活，更不用说茁壮成长（Ruddick 1989）。此外，关怀对于人的存在至关重要：只有在与好的照顾者建立关系的过程中，孩子才能获得道德知识和倾向，并最终实现充分的代理能力（Held 1993）。同样，一些关怀伦理学家认为友谊对于培养丰富的自主意识是必要的，因为朋友给予我们对特定价值观和善的概念最直接的接触（Friedman 1993）。其次，正如 Eva Kittay 所主张的，关怀具有普遍价值，因为大多数人在婴儿期或童年之外的不同时刻都以不同程度需要关怀：有些人只在疾病和老年期间需要，而其他人——患有慢性疾病或残疾的人——则几乎持续需要（Kittay 1999）。
 
 因为对于人的创造是必要的，关怀伦理学家声称，关怀比权利和义务更基本于道德，因为在没有关怀的情况下，大多数权利是无用的。关怀对我们的生存和繁荣如此基本，提供了一个推定的理由，即我们有责任确保每个人都得到足够的关怀。关于这种责任，很难确定一些关怀伦理学家的观点，因为关怀伦理学至少在开始时是与权利和义务的语言相对立的（Gilligan 1982; Noddings 1984）。更一般地说，关怀伦理学的很大一部分起源于对道德原则的怀疑（Collins 2015）。因此，我们是否有一般的善行义务，将我们的关怀扩展到那些似乎被忽视的人身上，这个问题并没有得到很多关注（但最近有一个例外，参见 Collins 2013）。
 
@@ -50,7 +50,7 @@
 
 > 按照每个人对关怀的需求，从每个人对关怀的能力，以及社会机构的支持，使提供关怀的人获得资源和机会，以便所有人在维系关系中得到充分的关注。（Kittay 1999: 113）
 
-同样地，丹尼尔·恩格斯特（2007）认为关怀是道德的核心：因为人类的依赖是普遍的，个体有道德责任照顾他人，同时也有道德权利在自己无法满足相关需求时接受照顾。这个责任是直接提供照顾，但是由于无协调的个体无法确保每个人都得到充分的照顾，政府应该承担组织照顾的责任，以确保在需要时能够覆盖到所有个体。
+同样地，丹尼尔 · 恩格斯特（2007）认为关怀是道德的核心：因为人类的依赖是普遍的，个体有道德责任照顾他人，同时也有道德权利在自己无法满足相关需求时接受照顾。这个责任是直接提供照顾，但是由于无协调的个体无法确保每个人都得到充分的照顾，政府应该承担组织照顾的责任，以确保在需要时能够覆盖到所有个体。
 
 一波新的哲学研究（在第 3 节中进行了回顾）更加深入地研究了仅通过人际关系才能获得的物品，包括基于关怀的关系，并提供了各种原因，解释为什么有责任提供这些物品。大多数观点特别关注（获得）这些物品的分配是否涉及公正的问题。
 
@@ -72,13 +72,13 @@ This implies that meeting some of the psychological needs of an adult friend—t
 
 关于是否所有的联想义务都可以归结为公正义务存在争议。一个合理的解释是，我们都有一般义务保护弱势群体，而我们与亲近的人建立的个人关系对我们来说是异常脆弱的；我们有强有力的后果主义理由欢迎个人关系的形成，从而产生联想义务，以解决协调问题（Goodin 1985）。对于还原主义或公正理论的常见批评是它们是自我抹杀的（Keller 2013; Collins 2013）：对于受到义务约束的行动者来说，被义务所欠的个人态度或者关系的价值似乎更适当，而不是公正的考虑。
 
-假设关联义务确实无法归结为公正义务，那么它们的基础是什么？大多数主要的解释/理论家认为，个人项目、关系的价值或欠债义务的人的价值是关联义务的根据（有关最近的批评讨论，请参见Keller 2013）。根据第一种观点，代理人的项目根据——即与他们的实际身份密切相关的基本承诺——会产生理由（Williams 1981），可能还会产生义务，而某些人际关系就是这些项目之一。根据另一种观点，项目不是关联义务的道德适当根据；相反，关联理由是对与个人关系存在的人的价值的回应（Keller 2013）。但陌生人与我们的伙伴具有相同的道德价值；这种解释/理论将难以解释为什么我们只对与我们有关系的人有偏爱的理由。最后，也许最普遍的观点家族将关联义务的正当性归因于关系的非工具性价值（Scheffler 2001；Seglow 2013），或者归因于它们的最终价值（Kolodny 2003），或者归因于它们的道德善良（Jeske 2008）。此外，根据一些哲学家的观点，某些人际关系的价值部分由各方履行其关联义务构成（Raz 1989；Brighouse & Swift 2014）。这种观点的一个版本，对于本条目来说特别有趣，是Jonathan Seglow通过关系物品来证明关联义务的正当性（Seglow 2013）。Seglow认为，解释/理解关系因其价值而产生义务的主张最合理的方式是看看这些关系如何促进相关人的繁荣。而这，反过来最好以友谊、亲子关系和各种协会成员资格等关系所独特可能的物品来理解。 根据塞格洛（Seglow）的说法，人际关系中的个人关系物品与这些关系有所不同：例如父母和子女之间彼此应该给予爱，公民之间彼此应该给予尊重等等。
+假设关联义务确实无法归结为公正义务，那么它们的基础是什么？大多数主要的解释/理论家认为，个人项目、关系的价值或欠债义务的人的价值是关联义务的根据（有关最近的批评讨论，请参见 Keller 2013）。根据第一种观点，代理人的项目根据——即与他们的实际身份密切相关的基本承诺——会产生理由（Williams 1981），可能还会产生义务，而某些人际关系就是这些项目之一。根据另一种观点，项目不是关联义务的道德适当根据；相反，关联理由是对与个人关系存在的人的价值的回应（Keller 2013）。但陌生人与我们的伙伴具有相同的道德价值；这种解释/理论将难以解释为什么我们只对与我们有关系的人有偏爱的理由。最后，也许最普遍的观点家族将关联义务的正当性归因于关系的非工具性价值（Scheffler 2001；Seglow 2013），或者归因于它们的最终价值（Kolodny 2003），或者归因于它们的道德善良（Jeske 2008）。此外，根据一些哲学家的观点，某些人际关系的价值部分由各方履行其关联义务构成（Raz 1989；Brighouse & Swift 2014）。这种观点的一个版本，对于本条目来说特别有趣，是 Jonathan Seglow 通过关系物品来证明关联义务的正当性（Seglow 2013）。Seglow 认为，解释/理解关系因其价值而产生义务的主张最合理的方式是看看这些关系如何促进相关人的繁荣。而这，反过来最好以友谊、亲子关系和各种协会成员资格等关系所独特可能的物品来理解。 根据塞格洛（Seglow）的说法，人际关系中的个人关系物品与这些关系有所不同：例如父母和子女之间彼此应该给予爱，公民之间彼此应该给予尊重等等。
 
 需要注意的是，也存在一些联想义务与关系的价值独立存在的可能性，出于实际原因，而其他一些被称为纯粹联想义务的义务则是基于关系的非工具性价值存在的（Macleod 2010a）。
 
 无论一个人在这些争论中持何种立场，即个人关系是否产生联想义务或仅仅是（非道德的）理由，联想义务是否可归结为客观义务，以及联想理由是否以个人项目、所欠义务的个体的价值或关系的价值为基础，个人关系物品的存在和重要性都得到了广泛认可。显然，对于大多数人的幸福来说，一些至关重要的物品只能由人类的关系性质而存在：友谊、爱、情感关怀、关注、亲情、陪伴等等。
 
-人际关系中的物品并不总是容易个体化。这在关于特定人际关系及其产生的物品的辩论中得到了说明，即爱——这是一个近年来引起了很多哲学兴趣的话题。爱是一种对他人的评价，无论是作为对她的价值的适当回应（Velleman 1999），还是通过与所爱之人的关系赋予她价值（Frankfurt 2004），也许是通过在关系中创造个人之间的共同历史（Kolodny 2003, 2010）。无论哪种情况，爱被认为依赖于其他人际关系物品，甚至是由其构成。根据大卫·维尔曼（1999）的解释，爱是对价值的评估，对某些个体特别关注的能力，愿意对这些个体变得脆弱，这使得对特定个体的爱成为可能。其他人也认为，爱是通过引导注意力以关注所爱之人的有价值特征（Jollimore 2011），维尔曼的一些哲学前辈，如伊丽丝·默多克（Iris Murdoch），认为注意力是爱的本质，并声称“爱是极其困难的认识到有别于自己的东西是真实存在的”（Murdoch 1959: 51）。从这个观点来看，爱似乎是对被他人看见的需求，是被认识为真实的自己，而不仅仅是他人投射的借口。另一种观点将爱视为对所爱之人的坚定关切或关怀，是为了她自己的利益（Soble 1990；LaFollette 1996；Frankfurt 1999）。
+人际关系中的物品并不总是容易个体化。这在关于特定人际关系及其产生的物品的辩论中得到了说明，即爱——这是一个近年来引起了很多哲学兴趣的话题。爱是一种对他人的评价，无论是作为对她的价值的适当回应（Velleman 1999），还是通过与所爱之人的关系赋予她价值（Frankfurt 2004），也许是通过在关系中创造个人之间的共同历史（Kolodny 2003, 2010）。无论哪种情况，爱被认为依赖于其他人际关系物品，甚至是由其构成。根据大卫 · 维尔曼（1999）的解释，爱是对价值的评估，对某些个体特别关注的能力，愿意对这些个体变得脆弱，这使得对特定个体的爱成为可能。其他人也认为，爱是通过引导注意力以关注所爱之人的有价值特征（Jollimore 2011），维尔曼的一些哲学前辈，如伊丽丝 · 默多克（Iris Murdoch），认为注意力是爱的本质，并声称“爱是极其困难的认识到有别于自己的东西是真实存在的”（Murdoch 1959: 51）。从这个观点来看，爱似乎是对被他人看见的需求，是被认识为真实的自己，而不仅仅是他人投射的借口。另一种观点将爱视为对所爱之人的坚定关切或关怀，是为了她自己的利益（Soble 1990；LaFollette 1996；Frankfurt 1999）。
 
 人际关系物品的存在以及由个人关联产生的原因引发了几个道德问题：其中一个问题是解释为什么在道德要求我们公正对待人的标准假设下，对某些个体显示偏袒是合理的。本节开头概述的各种关联原因/义务的解释试图解决这个问题。
 
@@ -114,19 +114,19 @@ Brownlee 认为，因为“当我们缺乏足够的社交关系时...我们往�
 
 有人认为，某些人际关系物品在提供直接理由的同时具有工具价值：如果我们不能在享受其中一些物品的情况下发展自主权，并且如果我们欠个体帮助发展和保护他们的自主权，那么所有个体都有权获得实现自主权所必需的人际关系物品。
 
-正如我们所见，对于孩子们来说，这个论点很直接：如果没有与道德导师的密切和持续的关系，很难看到他们如何获得道德责任，并最终成为完全自治的个体。正如弗吉尼亚·赫尔德所说，创造人格的工作是父母的责任（赫尔德，1993 年）。但是，成年人也被认为需要足够的良好人际关系来维持他们的自治：如果社会剥夺可能严重侵蚀心理健康，那么它最终也会破坏自治（布朗利，2013 年）。布朗利（2013 年，即将出版）经常讨论的一个例子是被囚禁在孤立中的囚犯，他们有时会更喜欢与审讯者进行残酷互动，而不是继续被迫孤独。与完全社会孤立引发的心理痛苦和最终的心理崩溃相比，甚至不到最低限度的良好人际关系似乎更加可取。
+正如我们所见，对于孩子们来说，这个论点很直接：如果没有与道德导师的密切和持续的关系，很难看到他们如何获得道德责任，并最终成为完全自治的个体。正如弗吉尼亚 · 赫尔德所说，创造人格的工作是父母的责任（赫尔德，1993 年）。但是，成年人也被认为需要足够的良好人际关系来维持他们的自治：如果社会剥夺可能严重侵蚀心理健康，那么它最终也会破坏自治（布朗利，2013 年）。布朗利（2013 年，即将出版）经常讨论的一个例子是被囚禁在孤立中的囚犯，他们有时会更喜欢与审讯者进行残酷互动，而不是继续被迫孤独。与完全社会孤立引发的心理痛苦和最终的心理崩溃相比，甚至不到最低限度的良好人际关系似乎更加可取。
 
 ### 3.4 保障其他权利的必要条件
 
 如果根据第 3.2 节和第 3.3 节的论证，一些人际关系的物品对于生存、健康和发展自治是必不可少的，那么它们也是为了确保保障各种（人类）权利的必要条件。至少在权益理论的情况下如此（布朗利，2013 年，即将出版）：如果权利保护强大的利益，如果我们在生存、保持健康的机会以及追求我们（合理的）生活观念等方面有强大的利益，那么我们的社会需求必须得到满足，以尊重我们的权利。她得出结论认为，这是一个理由，相信我们也有更加迫切的权利去获得那些对于保持生命、保持健康、发展以及具备追求任何生活计划所必需的身心条件的人际关系物品。
 
-注意，相同的逻辑也可以适用于关注个体权利的理论，而不仅仅是关于人权的理论。例如，玛莎·努斯鲍姆（2000 年；2011 年：33-34）认为，我们所有人都有权利要求的一些核心能力是关联和情感的能力。如果确实如此，那么与他人建立联系和享受形成情感的能力是实现其他能力的前提条件，比如身体健康、实践推理或游戏，那么前者就更基本。同样，根据一种观点（沃尔夫和德沙利特 2007 年），某些形式的优势是“多产的”，即它们的实现要么是其他形式的优势的条件，要么更有可能实现其他形式的优势。从这个意义上说，个人关系的物品是“多产的”，前提是关于它们的工具价值的上述论点是正确的。
+注意，相同的逻辑也可以适用于关注个体权利的理论，而不仅仅是关于人权的理论。例如，玛莎 · 努斯鲍姆（2000 年；2011 年：33-34）认为，我们所有人都有权利要求的一些核心能力是关联和情感的能力。如果确实如此，那么与他人建立联系和享受形成情感的能力是实现其他能力的前提条件，比如身体健康、实践推理或游戏，那么前者就更基本。同样，根据一种观点（沃尔夫和德沙利特 2007 年），某些形式的优势是“多产的”，即它们的实现要么是其他形式的优势的条件，要么更有可能实现其他形式的优势。从这个意义上说，个人关系的物品是“多产的”，前提是关于它们的工具价值的上述论点是正确的。
 
 ### 3.5 主要物品作为通用物品
 
-有几个论点支持这样的结论，即某些个人关系的物品类似于约翰·罗尔斯对这个术语的理解：即分配这些物品是正义的关注。首先，一些个人关系的物品是通用的：无论一个人想要什么，为了追求自己对有价值的生活的理解，他们都需要这些物品（基泰 1999 年；布雷克 2017 年；科德利 2015a，2015b）。
+有几个论点支持这样的结论，即某些个人关系的物品类似于约翰 · 罗尔斯对这个术语的理解：即分配这些物品是正义的关注。首先，一些个人关系的物品是通用的：无论一个人想要什么，为了追求自己对有价值的生活的理解，他们都需要这些物品（基泰 1999 年；布雷克 2017 年；科德利 2015a，2015b）。
 
-正如伊丽莎白·布雷克（2017）所指出的，不是所有对于追求任何生活计划都必要的物品都可以被正确地看作是主要物品：
+正如伊丽莎白 · 布雷克（2017）所指出的，不是所有对于追求任何生活计划都必要的物品都可以被正确地看作是主要物品：
 
 > 对于生活计划的追求以及道德能力的发展和运用通常是必要条件，但不足以被列入主要物品的清单。毕竟，氧气、水和食物对于生存是不可或缺的，但它们并未被列入主要物品的清单。（第 138 页）
 
@@ -293,109 +293,109 @@ Brownlee（2013 年，即将出版）主张改革惩罚和医疗机构，以避�
 ## Bibliography
 
 * Alstott, Anne L., 2004, *No Exit: What Parents Owe Their Children and What Society Owes Parents*, Oxford: Oxford University Press.
-* Anderson, Elizabeth S., 1999, “What is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi:10.1086/233897
+* Anderson, Elizabeth S., 1999, “What is the Point of Equality?”, *Ethics*, 109(2): 287–337. doi: 10.1086/233897
 * Aronson, Louise, 2014, “Opinion: The Future of Robot Caregivers”, *The New York Times*, 19 July 2014, page SR4.
 * Arneson, Richard J., 2014, “What Do We Owe to Poor Families?”, *Law, Ethics and Philosophy*, 2: 7–31. [[Arneson 2014 available online](https://www.raco.cat/index.php/LEAP/article/view/297539)]
-* Behrends, Jeff and Gina Schouten, 2017, “Home Economics for Gender Justice? A Case for Gender-Differentiated Caregiving Education”, *Ethical Theory and Moral Practice*, 20(3): 551–565. doi:10.1007/s10677-017-9789-y
+* Behrends, Jeff and Gina Schouten, 2017, “Home Economics for Gender Justice? A Case for Gender-Differentiated Caregiving Education”, *Ethical Theory and Moral Practice*, 20(3): 551–565. doi: 10.1007/s10677-017-9789-y
 * Benjamin, Jessica, 1988, *The Bonds of Love: Psychoanalysis, Feminism and the Problem of Domination*, New York: Pantheon.
-* Bou-Habib, Paul, 2013, “Parental Subsidies: The Argument from Insurance”, *Politics, Philosophy & Economics*, 12(3): 197–216. doi:10.1177/1470594X12447789
+* Bou-Habib, Paul, 2013, “Parental Subsidies: The Argument from Insurance”, *Politics, Philosophy & Economics*, 12(3): 197–216. doi: 10.1177/1470594X12447789
 * Bowlby, John, 1968–1980, *Attachment and Loss*
   * 1968, *Volume 1: Attachment*, New York: Basic Books.
   * 1973, *Volume 2: Separation: Anxiety, and Anger*, London: Penguin Books.
   * 1980, *Volume 3: Loss: Sadness and Depression*, New York: Basic Books.
-* Brake, Elizabeth, 2010, “Minimal Marriage: What Political Liberalism Implies for Marriage Law”, *Ethics*, 120(2): 302–337. doi:10.1086/651429
-* –––, 2011, “Is Divorce Promise-Breaking?”, *Ethical Theory and Moral Practice*, 14(1): 23–39. doi:10.1007/s10677-009-9217-z
-* –––, 2012, *Minimizing Marriage: Marriage, Morality, and the Law*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199774142.001.0001
-* –––, 2017, “Fair Care: Elder Care and Distributive Justice”, *Politics, Philosophy & Economics*, 16(2): 132–151. doi:10.1177/1470594X15600831
-* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights”, in Françoise Baylis and Carolyn Macleod (eds), *Family Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press, 29–46. doi:10.1093/acprof:oso/9780199656066.003.0003
-* Brighouse, Harry and Adam Swift, 2006, “Equality, Priority, and Positional Goods”, *Ethics*, 116(3): 471–479. doi:10.1086/500524
-* –––, 2009, “Legitimate Parental Partiality”, *Philosophy & Public Affairs*, 37(1): 43–80. doi:10.1111/j.1088-4963.2008.01145.x
+* Brake, Elizabeth, 2010, “Minimal Marriage: What Political Liberalism Implies for Marriage Law”, *Ethics*, 120(2): 302–337. doi: 10.1086/651429
+* –––, 2011, “Is Divorce Promise-Breaking?”, *Ethical Theory and Moral Practice*, 14(1): 23–39. doi: 10.1007/s10677-009-9217-z
+* –––, 2012, *Minimizing Marriage: Marriage, Morality, and the Law*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199774142.001.0001
+* –––, 2017, “Fair Care: Elder Care and Distributive Justice”, *Politics, Philosophy & Economics*, 16(2): 132–151. doi: 10.1177/1470594X15600831
+* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights”, in Françoise Baylis and Carolyn Macleod (eds), *Family Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press, 29–46. doi: 10.1093/acprof: oso/9780199656066.003.0003
+* Brighouse, Harry and Adam Swift, 2006, “Equality, Priority, and Positional Goods”, *Ethics*, 116(3): 471–479. doi: 10.1086/500524
+* –––, 2009, “Legitimate Parental Partiality”, *Philosophy & Public Affairs*, 37(1): 43–80. doi: 10.1111/j.1088-4963.2008.01145.x
 * –––, 2014, *Family Values: The Ethics of Parent-Child Relationships*, Princeton, NJ: Princeton University Press.
 * Brownlee, Kimberley, 2012, “Social Deprivation and Criminal Justice”, in François Tanguay-Renaud and James Stribopoulos (eds.), *Rethinking Criminal Law Theory: New Canadian Perspectives in the Philosophy of Domestic, Transnational, and International Criminal Law*, Portland, OR: Hart Publishing, 217–230.
-* –––, 2013, “A Human Right Against Social Deprivation”, *The Philosophical Quarterly*, 63(251): 199–222. doi:10.1111/1467-9213.12018
-* –––, 2016a, “Ethical Dilemmas of Sociability”, *Utilitas*, 28(1): 54–72. doi:10.1017/S0953820815000175
-* –––, 2016b, “The Lonely Heart Breaks: On the Right to be a Social Contributor”, *Aristotelian Society Supplementary Volume*, 90(1): 27–48. doi:10.1093/arisup/akw008
+* –––, 2013, “A Human Right Against Social Deprivation”, *The Philosophical Quarterly*, 63(251): 199–222. doi: 10.1111/1467-9213.12018
+* –––, 2016a, “Ethical Dilemmas of Sociability”, *Utilitas*, 28(1): 54–72. doi: 10.1017/S0953820815000175
+* –––, 2016b, “The Lonely Heart Breaks: On the Right to be a Social Contributor”, *Aristotelian Society Supplementary Volume*, 90(1): 27–48. doi: 10.1093/arisup/akw008
 * –––, forthcoming, *Social Rights*, Oxford: Oxford University Press.
-* Bubeck, Diemut Elisabet, 1995, *Care, Gender, and Justice*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198279907.001.0001
+* Bubeck, Diemut Elisabet, 1995, *Care, Gender, and Justice*, Oxford: Clarendon Press. doi: 10.1093/acprof: oso/9780198279907.001.0001
 * –––, 1999, “A Feminist Approach to Citizenship”, in Olwen H. Hufton and Yota Kravaritou (eds.) *Gender and the Use of Time/‘Gender” et Emploi du Temps*, (European Forum, 2), The Hague: Kluwer Law International, 401–428.
-* Cassidy, Lisa, 2006, “That Many of Us Should Not Parent”, *Hypatia*, 21(4): 40–57. doi:10.1111/j.1527-2001.2006.tb01127.x
-* Collins, Stephanie, 2013, “Duties to Make Friends”, *Ethical Theory and Moral Practice*, 16(5): 907–921. doi:10.1007/s10677-013-9422-7
-* –––, 2015, *The Core of Care Ethics*, London: Palgrave Macmillan. doi:10.1057/9781137011459
-* Cordelli, Chiara, 2015a, “Justice as Fairness and Relational Resources” *Journal of Political Philosophy*, 23(1): 86–110. doi:10.1111/jopp.12036
-* –––, 2015b, “Distributive Justice and the Problem of Friendship”, *Political Studies*, 63(3): 679–695. doi:10.1111/1467-9248.12115
-* Cowden, Mhairi, 2012a, “What’s Love Got to Do with It? Why a Child Does Not Have a Right to Be Loved”, *Critical Review of International Social and Political Philosophy*, 15(3): 325–345. doi:10.1080/13698230.2011.572426
-* –––, 2012b, “A Need is Not a Right”, *Critical Review of International Social and Political Philosophy*, 15(3): 359–362. doi:10.1080/13698230.2012.679423
-* Cutas, Daniela E. and Lisa Bortolotti, 2010, “Natural versus Assisted Reproduction: In Search of Fairness”. *Studies in Ethics, Law and Technology*, 4(1): 1–18. doi:10.2202/1941-6008.1109
-* De Wispelaere, Jurgen and Daniel Weinstock, 2012, “Licensing Parents to Protect Our Children?”, *Ethics and Social Welfare*, 6(2): 195–2015. doi:10.1080/17496535.2012.682507
+* Cassidy, Lisa, 2006, “That Many of Us Should Not Parent”, *Hypatia*, 21(4): 40–57. doi: 10.1111/j.1527-2001.2006.tb01127.x
+* Collins, Stephanie, 2013, “Duties to Make Friends”, *Ethical Theory and Moral Practice*, 16(5): 907–921. doi: 10.1007/s10677-013-9422-7
+* –––, 2015, *The Core of Care Ethics*, London: Palgrave Macmillan. doi: 10.1057/9781137011459
+* Cordelli, Chiara, 2015a, “Justice as Fairness and Relational Resources” *Journal of Political Philosophy*, 23(1): 86–110. doi: 10.1111/jopp.12036
+* –––, 2015b, “Distributive Justice and the Problem of Friendship”, *Political Studies*, 63(3): 679–695. doi: 10.1111/1467-9248.12115
+* Cowden, Mhairi, 2012a, “What’s Love Got to Do with It? Why a Child Does Not Have a Right to Be Loved”, *Critical Review of International Social and Political Philosophy*, 15(3): 325–345. doi: 10.1080/13698230.2011.572426
+* –––, 2012b, “A Need is Not a Right”, *Critical Review of International Social and Political Philosophy*, 15(3): 359–362. doi: 10.1080/13698230.2012.679423
+* Cutas, Daniela E. and Lisa Bortolotti, 2010, “Natural versus Assisted Reproduction: In Search of Fairness”. *Studies in Ethics, Law and Technology*, 4(1): 1–18. doi: 10.2202/1941-6008.1109
+* De Wispelaere, Jurgen and Daniel Weinstock, 2012, “Licensing Parents to Protect Our Children?”, *Ethics and Social Welfare*, 6(2): 195–2015. doi: 10.1080/17496535.2012.682507
 * Dworkin, Ronald, 2000, *Sovereign Virtue: The Theory and Practice of Equality*, Cambridge, MA: Harvard University Press.
-* Engster, Daniel, 2007, *The Heart of Justice Care Ethics and Political Theory*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199214358.001.0001
-* –––, 2010, “The Place of Parenting within a Liberal Theory of Justice: The Private Parenting Model”, *Social Theory and Practice*, 36(2): 233–262. doi:10.5840/soctheorpract201036213
-* Fabre, Cécile, 2006, *Whose Body is it Anyway? Justice and the Integrity of the Person*, Oxford: Oxford University Press. doi:10.1093/0199289999.001.0001
-* Ferracioli, Luara, 2014, “The State’s Duty to Ensure Children Are Loved”, *Journal of Ethics & Social Philosophy*, 8(2). doi:10.26556/jesp.v8i2.80 [[Ferracioli 2014 available online](http://jesp.org/index.php/jesp/article/view/80)]
-* Frankfurt, Harry G., 1999, “Autonomy, Necessity, and Love”, in *Necessity, Volition, and Love*, Cambridge: Cambridge University Press, 129–141. doi:10.1017/CBO9780511624643.012
+* Engster, Daniel, 2007, *The Heart of Justice Care Ethics and Political Theory*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199214358.001.0001
+* –––, 2010, “The Place of Parenting within a Liberal Theory of Justice: The Private Parenting Model”, *Social Theory and Practice*, 36(2): 233–262. doi: 10.5840/soctheorpract201036213
+* Fabre, Cécile, 2006, *Whose Body is it Anyway? Justice and the Integrity of the Person*, Oxford: Oxford University Press. doi: 10.1093/0199289999.001.0001
+* Ferracioli, Luara, 2014, “The State’s Duty to Ensure Children Are Loved”, *Journal of Ethics & Social Philosophy*, 8(2). doi: 10.26556/jesp.v8i2.80 [[Ferracioli 2014 available online](http://jesp.org/index.php/jesp/article/view/80)]
+* Frankfurt, Harry G., 1999, “Autonomy, Necessity, and Love”, in *Necessity, Volition, and Love*, Cambridge: Cambridge University Press, 129–141. doi: 10.1017/CBO9780511624643.012
 * –––, 2004, *The Reasons of Love*, Princeton, NJ: Princeton University Press.
 * Friedman, Marilyn, 1993, *What Are Friends For? Feminist Perspectives on Personal Relationships and Moral Theory*, Ithaca, NY: Cornell University Press.
-* Friedrich, Daniel, 2013, “A Duty to Adopt?” *Journal of Applied Philosophy*, 30(1): 25–39. doi:10.1111/japp.12003
-* Gheaus, Anca, 2009, “How Much of What Matters Can We Redistribute? Love, Justice, and Luck”, *Hypatia*, 24(4): 68–90. doi:10.1111/j.1527-2001.2009.01058.x
-* –––, 2011, “Arguments for Non-Parental Care for Children”, *Social Theory and Practice*, 37(3): 483–509. doi:10.5840/soctheorpract201137328
-* –––, 2013, “Care Drain: Who Should Provide for the Children Left Behind?”, *Critical Review of International Social and Political Philosophy*, 16(1): 1–23. doi:10.1080/13698230.2011.572425
-* –––, 2015a, “The ‘Intrinsic Goods of Childhood’ and the Just Society”, in Alexander Bagattini and Colin Macleod (eds), *The Nature of Children’s Well-Being: Theory and Practice*, Dordrecht: Springer, 35–52. doi:10.1007/978-94-017-9252-3_3
-* –––, 2015b, “Unfinished Adults and Defective Children: On the Nature and Value of Childhood”, *Journal of Ethics & Social Philosophy*, 9(1): 1–21. doi:10.26556/jesp.v9i1.85 [[Gheaus 2015b available online](http://jesp.org/index.php/jesp/article/view/85)]
-* –––, 2017, “Love and Justice: A Paradox?”, *Canadian Journal of Philosophy*, 47(6): 739–759. doi:10.1080/00455091.2017.1319656
-* –––, 2018, “Hikers in Flip-Flops: Luck Egalitarianism, Democratic Equality and the *Distribuenda* of Justice”, *Journal of Applied Philosophy*, 35(1): 54–69. doi:10.1111/japp.12198
+* Friedrich, Daniel, 2013, “A Duty to Adopt?” *Journal of Applied Philosophy*, 30(1): 25–39. doi: 10.1111/japp.12003
+* Gheaus, Anca, 2009, “How Much of What Matters Can We Redistribute? Love, Justice, and Luck”, *Hypatia*, 24(4): 68–90. doi: 10.1111/j.1527-2001.2009.01058.x
+* –––, 2011, “Arguments for Non-Parental Care for Children”, *Social Theory and Practice*, 37(3): 483–509. doi: 10.5840/soctheorpract201137328
+* –––, 2013, “Care Drain: Who Should Provide for the Children Left Behind?”, *Critical Review of International Social and Political Philosophy*, 16(1): 1–23. doi: 10.1080/13698230.2011.572425
+* –––, 2015a, “The ‘Intrinsic Goods of Childhood’ and the Just Society”, in Alexander Bagattini and Colin Macleod (eds), *The Nature of Children’s Well-Being: Theory and Practice*, Dordrecht: Springer, 35–52. doi: 10.1007/978-94-017-9252-3_3
+* –––, 2015b, “Unfinished Adults and Defective Children: On the Nature and Value of Childhood”, *Journal of Ethics & Social Philosophy*, 9(1): 1–21. doi: 10.26556/jesp.v9i1.85 [[Gheaus 2015b available online](http://jesp.org/index.php/jesp/article/view/85)]
+* –––, 2017, “Love and Justice: A Paradox?”, *Canadian Journal of Philosophy*, 47(6): 739–759. doi: 10.1080/00455091.2017.1319656
+* –––, 2018, “Hikers in Flip-Flops: Luck Egalitarianism, Democratic Equality and the *Distribuenda* of Justice”, *Journal of Applied Philosophy*, 35(1): 54–69. doi: 10.1111/japp.12198
 * Gilligan, Carol, 1982, *In a Different Voice: Psychological Theory and Women’s Development*, Cambridge, MA: Harvard University Press.
 * Goodin, Robert E., 1985, *Protecting the Vulnerable: A Re-Analysis of our Social Responsibilities*, Chicago: University of Chicago Press.
-* Grahle, Andre, 2016, “Unreliable Love”, *Journal of Ethics & Social Philosophy*, 10(2). doi:10.26556/jesp.v10i2.184 [[Grahle 2016 available online](http://jesp.org/index.php/jesp/article/view/184)]
-* Hannan, Saraj, 2018, “Why Childhood is Bad for Children”, *Journal of Applied Philosophy*, 35(S1): 11–28. doi:10.1111/japp.12256
+* Grahle, Andre, 2016, “Unreliable Love”, *Journal of Ethics & Social Philosophy*, 10(2). doi: 10.26556/jesp.v10i2.184 [[Grahle 2016 available online](http://jesp.org/index.php/jesp/article/view/184)]
+* Hannan, Saraj, 2018, “Why Childhood is Bad for Children”, *Journal of Applied Philosophy*, 35(S1): 11–28. doi: 10.1111/japp.12256
 * Held, Virginia, 1993, *Feminist Morality: Transforming Culture, Society and Politics*, Chicago: University of Chicago Press.
 * Honneth, Axel, 1992 [1995], *Kampf um Anerkennung*, Berlin: Suhrkamp Verlag. Translated as *The Struggle for Recognition: The Moral Grammar of Social Conflicts*, Joel Anderson (trans.), Cambridge: Polity Press, 1995.
-* House, James S., 2001, “Social Isolation Kills, But How and Why?”, *Psychosomatic Medicine*, 63(2): 273–274. doi:10.1097/00006842-200103000-00011
+* House, James S., 2001, “Social Isolation Kills, But How and Why?”, *Psychosomatic Medicine*, 63(2): 273–274. doi: 10.1097/00006842-200103000-00011
 * Jeske, Diane, 2008, *Rationality and Moral Theory*, New York: Routledge.
 * Jollimore, Troy, 2011. *Love's Vision*, Princeton, NJ: Princeton University Press.
-* Jones, Jason D., Jude Cassidy, and Phillip R. Shaver, 2015, “Parents’ Self-Reported Attachment Styles: A Review of Links with Parenting Behaviors, Emotions, and Cognitions”, *Personality and Social Psychological Review*, 19(1): 44–76. doi:10.1177/1088868314541858
+* Jones, Jason D., Jude Cassidy, and Phillip R. Shaver, 2015, “Parents’ Self-Reported Attachment Styles: A Review of Links with Parenting Behaviors, Emotions, and Cognitions”, *Personality and Social Psychological Review*, 19(1): 44–76. doi: 10.1177/1088868314541858
 * Keller, Simon, 2013, *Partiality*, Princeton and Oxford: Princeton University Press.
 * Kittay, Eva, 1999, *Love’s Labor: Essays on Women, Equality, and Dependency*, New York: Routledge.
-* Kolodny, Niko, 2003, “Love as Valuing a Relationship”, *Philosophical Review*, 112(2): 135–189. doi:10.1215/00318108-112-2-135
-* –––, 2010, “Which Relationships Justify Partiality? General Considerations and Problem Cases”, in Brian Feltham and John Cottingham (eds.), *Partiality and Impartiality: Morality, Special Relationships, and the Wider World*, Oxford: Oxford University Press, 169–193. doi:10.1093/acprof:oso/9780199579952.003.0009
+* Kolodny, Niko, 2003, “Love as Valuing a Relationship”, *Philosophical Review*, 112(2): 135–189. doi: 10.1215/00318108-112-2-135
+* –––, 2010, “Which Relationships Justify Partiality? General Considerations and Problem Cases”, in Brian Feltham and John Cottingham (eds.), *Partiality and Impartiality: Morality, Special Relationships, and the Wider World*, Oxford: Oxford University Press, 169–193. doi: 10.1093/acprof: oso/9780199579952.003.0009
 * LaFollette, Hugh, 1996, *Personal Relationships: Love, Identity, and Morality*, Cambridge, MA: Blackwell Press.
-* –––, 2010, “Licensing Parents Revisited”. *Journal of Applied Philosophy*, 27(4): 327–343. doi:10.1111/j.1468-5930.2010.00497.x
-* Liao, S. Matthew, 2006, “The Right of Children to be Loved”, *Journal of Political Philosophy*, 14(4): 420–40. doi:10.1111/j.1467-9760.2006.00262.x
-* –––, 2012, “Why Children Need to be Loved”, *Critical Review of International Social and Political Philosophy*, 15(3): 347–358. doi:10.1080/13698230.2012.679422
-* –––, 2015, *The Right to Be Loved*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780190234836.001.0001
+* –––, 2010, “Licensing Parents Revisited”. *Journal of Applied Philosophy*, 27(4): 327–343. doi: 10.1111/j.1468-5930.2010.00497.x
+* Liao, S. Matthew, 2006, “The Right of Children to be Loved”, *Journal of Political Philosophy*, 14(4): 420–40. doi: 10.1111/j.1467-9760.2006.00262.x
+* –––, 2012, “Why Children Need to be Loved”, *Critical Review of International Social and Political Philosophy*, 15(3): 347–358. doi: 10.1080/13698230.2012.679422
+* –––, 2015, *The Right to Be Loved*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780190234836.001.0001
 * Lindblom, Lars, 2018, “Childhood and the Metric of Justice”, in Anca Gheaus, Gideon Calder, and Jurgen De Wispelaere (eds), *Routledge Handbook to Children and Childhood*, London: Routledge, ch. 28, 317–327.
-* Lynch, Kathleen, John Baker, Maureen Lyons, Sara Cantillon, Judy Walsh, Maggie Feeley, Niall Hanlon, Maeve O’Brien, 2009, *Affective Equality: Love, Care and Injustice*, London: Palgrave. doi:10.1057/9780230245082
-* Macleod, Colin M., 2002, “Liberal Equality and the Affective Family”, in David Archard and Colin M. Macleod *The Moral and Political Status of Children*, Oxford: Oxford University Press, 212–230. doi:10.1093/0199242682.003.0012
-* –––, 2010a, “Parental Responsibilities in an Unjust World”, in David Archard and David Benatar (eds.) *Procreation and Parenthood: The Ethics of Bearing and Rearing Children*, Oxford: Clarendon Press, 128–150. doi:10.1093/acprof:oso/9780199590704.003.0006
-* –––, 2010b, “Primary Goods, Capabilities, and Children”, in Harry Brighouse and Ingrid Robeyns (eds.) *Measuring Justice: Primary Goods and Capabilities*, Cambridge: Cambridge University Press, 174–192. doi:10.1017/CBO9780511810916.008
-* –––, 2014, “Agency, Authority and the Vulnerability of Children”, in Alexander Bagattini and Colin M. Macleod (eds.) *The Nature of Children’s Well-being: Theory and Practice*, Dordrecht: Springer, 53–64. doi:10.1007/978-94-017-9252-3_4
-* –––, 2018, “Just Schools and Good Childhoods: Non-preparatory Dimensions of Educational Justice”, *Journal of Applied Philosophy*, 35(S1): 76–89. doi:10.1111/japp.12227
-* Murdoch, Iris, 1959, “The Sublime and the Good”, *Chicago Review*, 13(3): 42–55. doi:10.2307/25293537
-* Nyholm, Sven, 2015, “Love Troubles: Human Attachment and Biomedical Enhancements”, *Journal for Applied Philosophy*, 32(2): 190–202. doi:10.1111/japp.12085
+* Lynch, Kathleen, John Baker, Maureen Lyons, Sara Cantillon, Judy Walsh, Maggie Feeley, Niall Hanlon, Maeve O’Brien, 2009, *Affective Equality: Love, Care and Injustice*, London: Palgrave. doi: 10.1057/9780230245082
+* Macleod, Colin M., 2002, “Liberal Equality and the Affective Family”, in David Archard and Colin M. Macleod *The Moral and Political Status of Children*, Oxford: Oxford University Press, 212–230. doi: 10.1093/0199242682.003.0012
+* –––, 2010a, “Parental Responsibilities in an Unjust World”, in David Archard and David Benatar (eds.) *Procreation and Parenthood: The Ethics of Bearing and Rearing Children*, Oxford: Clarendon Press, 128–150. doi: 10.1093/acprof: oso/9780199590704.003.0006
+* –––, 2010b, “Primary Goods, Capabilities, and Children”, in Harry Brighouse and Ingrid Robeyns (eds.) *Measuring Justice: Primary Goods and Capabilities*, Cambridge: Cambridge University Press, 174–192. doi: 10.1017/CBO9780511810916.008
+* –––, 2014, “Agency, Authority and the Vulnerability of Children”, in Alexander Bagattini and Colin M. Macleod (eds.) *The Nature of Children’s Well-being: Theory and Practice*, Dordrecht: Springer, 53–64. doi: 10.1007/978-94-017-9252-3_4
+* –––, 2018, “Just Schools and Good Childhoods: Non-preparatory Dimensions of Educational Justice”, *Journal of Applied Philosophy*, 35(S1): 76–89. doi: 10.1111/japp.12227
+* Murdoch, Iris, 1959, “The Sublime and the Good”, *Chicago Review*, 13(3): 42–55. doi: 10.2307/25293537
+* Nyholm, Sven, 2015, “Love Troubles: Human Attachment and Biomedical Enhancements”, *Journal for Applied Philosophy*, 32(2): 190–202. doi: 10.1111/japp.12085
 * Noddings, Nei, 1984, *Caring: A Feminine Approach to Ethics & Moral Education*, Berkeley; London: University of California Press.
 * –––, 2002, *Starting at Home: Caring and Social Policy*, Los Angeles: University of California Press.
-* Nussbaum, Martha C., 2000 *Women and Human Development: The Capabilities Approach*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511841286
+* Nussbaum, Martha C., 2000 *Women and Human Development: The Capabilities Approach*, Cambridge: Cambridge University Press. doi: 10.1017/CBO9780511841286
 * –––, 2011, *Creating Capabilities: The Human Development Approach*, Cambridge, MA: Harvard University Press.
-* O’Neill, Onora, 1988, “Children’s Rights and Children’s Lives”, *Ethics*, 98(3): 445–463. doi:10.1086/292964
-* Raz, Joseph, 1989, “Liberating Duties”, *Law and Philosophy*, 8(1): 3–21. doi:10.1007/BF00142892
+* O’Neill, Onora, 1988, “Children’s Rights and Children’s Lives”, *Ethics*, 98(3): 445–463. doi: 10.1086/292964
+* Raz, Joseph, 1989, “Liberating Duties”, *Law and Philosophy*, 8(1): 3–21. doi: 10.1007/BF00142892
 * Rawls, John, 1971, *A Theory of Justice*, Oxford: Oxford University Press.
 * Robeyns, Ingrid, 2011, “A Universal Duty to Care”, in Axel Gosseries and Yannick Vanderborght (eds), *Arguing About Justice: Essays for Philippe Van Parijs*, Louvain: Presses Universitaires de Louvain, 283–290.
 * Ruddick, Sara, 1989, *Maternal Thinking: Toward a Politics of Peace*, Boston, MA: Beacon Press.
 * –––, 1998, “Care as Labor and Relationship”, in *Norms and Values: Essays on the Work of Virginia Held*, Joram G. Haber and Mark S. Halfon (eds), Lanham, MD: Rowman & Littlefield Publishers, 3–25.
-* Rulli, Tina, 2016, “Preferring a Genetically-Related Child”, *Journal of Moral Philosophy*, 13(6): 669–698. doi:10.1163/17455243-4681062
-* Scheffler, Samuel, 2001, *Boundaries and Allegiances: Problems of Justice and Responsibility in Liberal Thought*, Oxford: Oxford University Press. doi:10.1093/0199257671.001.0001
-* Schouten, Gina, 2015, “Citizenship, Reciprocity, and the Gendered Division of Labor: A Stability Argument for Gender Egalitarian Political Interventions”, *Politics, Philosophy & Economics*, 16(2): 174–209. doi:10.1177/1470594X15600830
+* Rulli, Tina, 2016, “Preferring a Genetically-Related Child”, *Journal of Moral Philosophy*, 13(6): 669–698. doi: 10.1163/17455243-4681062
+* Scheffler, Samuel, 2001, *Boundaries and Allegiances: Problems of Justice and Responsibility in Liberal Thought*, Oxford: Oxford University Press. doi: 10.1093/0199257671.001.0001
+* Schouten, Gina, 2015, “Citizenship, Reciprocity, and the Gendered Division of Labor: A Stability Argument for Gender Egalitarian Political Interventions”, *Politics, Philosophy & Economics*, 16(2): 174–209. doi: 10.1177/1470594X15600830
 * Seglow, Jonathan, 2013, *Defending Associative Duties*, New York and London: Routledge.
 * Soble, Alan, 1990, *The Structure of Love*, New Haven, CT: Yale University Press.
 * Swift, Adam, 2003, *How Not to be a Hypocrite: School Choice for the Morally Perplexed Parent*, London: Routledge
 * Tronto, Joan C., 1993, *Moral Boundaries: A Political Argument for an Ethic of Care*, New York: Routledge.
 * Vaillant, George E., 2012, *Triumphs of Experience: The Men of the Harvard Grant Study*, Cambridge, MA: Belknap Press.
-* Valentini, Laura, 2016, “What’s Wrong with Being Lonely? Justice, Beneficence, and Meaningful Relationships”, *Aristotelian Society Supplementary Volume*, 90(1): 49–69. doi:10.1093/arisup/akw004
-* Velleman, J. David, 1999, “Love as a Moral Emotion”, *Ethics*, 109(2): 338–374. doi:10.1086/233898
+* Valentini, Laura, 2016, “What’s Wrong with Being Lonely? Justice, Beneficence, and Meaningful Relationships”, *Aristotelian Society Supplementary Volume*, 90(1): 49–69. doi: 10.1093/arisup/akw004
+* Velleman, J. David, 1999, “Love as a Moral Emotion”, *Ethics*, 109(2): 338–374. doi: 10.1086/233898
 * Waldfogel, Jane, 2006, *What Children Need*, Cambridge, MA: Harvard University Press.
-* Williams, Bernard, 1981, “Persons, Character and Morality”, in Bernard Williams, *Moral Luck: Philosophical Papers 1973–1980*, Cambridge: Cambridge University Press, 1–19. doi:10.1017/CBO9781139165860.002
-* Wolf, Susan, 1992, “Morality and Partiality”, *Philosophical Perspectives*, 6: 243–259. doi:10.2307/2214247
-* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi:10.1111/j.1088-4963.1998.tb00063.x
-* Wolff, Jonathan and Avner de-Shalit, 2007, *Disadvantage*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278268.001.0001
+* Williams, Bernard, 1981, “Persons, Character and Morality”, in Bernard Williams, *Moral Luck: Philosophical Papers 1973–1980*, Cambridge: Cambridge University Press, 1–19. doi: 10.1017/CBO9781139165860.002
+* Wolf, Susan, 1992, “Morality and Partiality”, *Philosophical Perspectives*, 6: 243–259. doi: 10.2307/2214247
+* Wolff, Jonathan, 1998, “Fairness, Respect, and the Egalitarian Ethos”, *Philosophy & Public Affairs*, 27(2): 97–122. doi: 10.1111/j.1088-4963.1998.tb00063.x
+* Wolff, Jonathan and Avner de-Shalit, 2007, *Disadvantage*, Oxford: Oxford University Press. doi: 10.1093/acprof: oso/9780199278268.001.0001
 * Young, Iris Marion, 1990, “Five Faces of Oppression”, in Iris Marion Young, *Justice and the Politics of Difference*, Princeton, NJ: Princeton University Press, Ch. 2, 39–65.
 
 ## Academic Tools

@@ -48,7 +48,7 @@
 
 另一方面，计算机的使用可能限制用户理解或考虑其行为结果的能力。这些复杂的技术永远不会完全免于错误，越来越多地隐藏在界面背后的自动化过程（Van den Hoven，2002）。一个例子说明了计算机技术如何限制对结果的理解，是美国几个州法官在假释决定和判决中使用的具有争议的风险评估工具。2016 年，一个民间社会组织根据对一个特定算法产生的 7000 名被告的风险评分进行分析发现，这些评分很少反映实际累犯率，并且似乎存在种族偏见（Angwin 等，2016）。无论其调查结果是否正确，这里特别相关的是，调查还显示法官们并不完全了解概率是如何计算的，部分原因是该算法是专有的。法官们基于他们并不完全理解的算法建议进行判决。这是当今大多数计算机技术的情况。用户只能看到计算机执行的许多计算的一部分，并且大多数时候不知道它是如何执行这些计算的；他们通常只对计算机屏幕上的信息基于的假设、模型和理论有部分理解。计算机系统日益复杂，依赖于不透明的机器学习算法，使得理解界面背后发生的事情变得更加困难（Pasquale，2015 年，Diakopoulos，2020 年）。
 
-许多计算机系统的不透明性可能妨碍对信息的有效性和相关性进行评估，并可能阻止用户做出适当的决策。人们往往要么过分依赖自动化系统的准确性，要么不够依赖（Cummings 2004; Parasuraman & Riley 1997）。这种倾向被称为自动化偏见。例如，当一个人因为高误报率而不信任自动化系统时，她的负责任行为能力可能会受到影响。在 Therac 25 案例中，一名机器操作员作证称，她已经习惯了机器发出的许多神秘错误信息，大多数并不涉及患者安全（Leveson 和 Turner 1993, p.24）。她倾向于忽视这些信息，因此未能注意到机器被设置为给患者过量用药。过分依赖自动化系统可能会带来同样灾难性的后果。1988 年，美国海军导弹巡洋舰 Vincennes 号击落了一架伊朗民用客机，造成机上全部 290 名乘客丧生，因为它错误地将这架客机识别为进攻的军用飞机（Gray 1997）。该巡洋舰配备了一个可以自动跟踪和瞄准来袭导弹和敌方飞机的宙斯盾防御系统。对事件发生前的分析显示，对宙斯盾系统能力的过度自信阻止了其他人在可以干预时进行干预。附近的另外两艘军舰正确地将飞机识别为民用飞机。然而，他们没有质疑 Vincennes 号将飞机识别为军用飞机。在后来的解释中，附近一艘船的理查德·托马斯中尉表示：“我们称她为机器巡洋舰…她似乎总是有一个画面…她似乎总是在告诉每个人上下船，好像她的画面更好”（引自 Gray 1997, p. 34）。两艘船的船长认为，先进的宙斯盾系统为 Vincennes 号的船员提供了他们所没有的信息。
+许多计算机系统的不透明性可能妨碍对信息的有效性和相关性进行评估，并可能阻止用户做出适当的决策。人们往往要么过分依赖自动化系统的准确性，要么不够依赖（Cummings 2004; Parasuraman & Riley 1997）。这种倾向被称为自动化偏见。例如，当一个人因为高误报率而不信任自动化系统时，她的负责任行为能力可能会受到影响。在 Therac 25 案例中，一名机器操作员作证称，她已经习惯了机器发出的许多神秘错误信息，大多数并不涉及患者安全（Leveson 和 Turner 1993, p.24）。她倾向于忽视这些信息，因此未能注意到机器被设置为给患者过量用药。过分依赖自动化系统可能会带来同样灾难性的后果。1988 年，美国海军导弹巡洋舰 Vincennes 号击落了一架伊朗民用客机，造成机上全部 290 名乘客丧生，因为它错误地将这架客机识别为进攻的军用飞机（Gray 1997）。该巡洋舰配备了一个可以自动跟踪和瞄准来袭导弹和敌方飞机的宙斯盾防御系统。对事件发生前的分析显示，对宙斯盾系统能力的过度自信阻止了其他人在可以干预时进行干预。附近的另外两艘军舰正确地将飞机识别为民用飞机。然而，他们没有质疑 Vincennes 号将飞机识别为军用飞机。在后来的解释中，附近一艘船的理查德 · 托马斯中尉表示：“我们称她为机器巡洋舰…她似乎总是有一个画面…她似乎总是在告诉每个人上下船，好像她的画面更好”（引自 Gray 1997, p. 34）。两艘船的船长认为，先进的宙斯盾系统为 Vincennes 号的船员提供了他们所没有的信息。
 
 考虑一个人行为可能带来的后果变得更加复杂，因为计算机技术使人类能够做以前无法做到的事情。几十年前，哲学家拉德指出：“计算机技术创造了新的行为方式和新的社会制度，新的恶习和新的美德，新的帮助方式和新的滥用他人方式”（Ladd 1989, p. 210–11）。如今的计算机技术也产生了类似的影响。规范我们如何使用这些技术的社会或法律惯例需要一些时间才能形成，最初缺乏这些惯例会导致对责任的混淆（Taddeo 和 Floridi 2015）。例如，用户能够在互联网上公开上传和分享文本、视频和图像引发了一系列关于谁对上传材料内容负责的问题。这些问题是关于三名谷歌高管因违反数据保护法在意大利被定罪的辩论的核心（Sartor 和 Viola de Azevedo Cunha 2010）。该案件涉及 YouTube 上四名学生殴打残疾人的视频。在意大利邮政警察的要求下，作为 YouTube 所有者的谷歌在学生上传视频两个月后将视频删除。然而，法官裁定谷歌在未采取足够预防措施避免侵犯隐私的情况下处理视频时构成刑事责任。法官还认为谷歌未能充分告知上传视频的学生他们的数据保护义务（p. 367）。在关于裁决的辩论中，批评这一裁决的人坚称这威胁了互联网上的言论自由，并且树立了一个可以被专制政权用来为网络审查辩护的危险先例（另见 Singel 2010）。此外，他们声称平台提供商不能对用户的行为负责，因为他们不可能实际批准每个上传，也不是他们的职责审查。然而，其他人则认为，谷歌免责对因谷歌盈利商业活动而遭受损害的他人不道德。像这样的案例表明，在对新技术的可能性和限制的混淆中，确定一个人对他人的道德义务可能是困难的。
 
@@ -144,7 +144,7 @@ Santonio de Sio 和 van den Hoven 对有意义的人类控制的分析引起了�
 
 这四个障碍，尼森鲍姆（Nissenbaum）认为，阻碍了旨在保持明确问责线的“问责文化”。这种文化培养了责任感作为一种被鼓励的美德，与特定行动结果相关的每个人都要对其负责。根据尼森鲍姆的观点，问责与责任不同。责任是在事件发生后寻找责任人并赔偿所遭受的损失。一旦找到该责任人，其他人就可以“摆脱责任”，这可能会鼓励人们寻找借口，比如责怪计算机。然而，问责适用于所有涉及的人。它需要一种特定类型的组织背景，其中可问责性有助于吸引人们更加关注系统的安全性、可靠性和良好设计，以建立一种问责文化（另见 Martin 2019，Herkert 等，2020 年）。一个不重视问责的组织，对组织生产过程中的责任不太关心，更有可能让他们的技术产品变得难以理解。尼森鲍姆的分析说明了我们对某人负责的实践——对人们追究责任和传达职责和义务期望的既定方式——正在不断变化和协商，部分是对引入新技术的回应（另见 Noorman 2012）。
 
-缺乏这种问责文化可能导致责任被归咎于错误的人。这些人成为了玛德琳·克莱尔·伊丽丝（Madeleine Clare Elish）所称的“道德挤压区”（2019）。这些人类行为者承担责任，尽管他们对他们所使用的系统几乎没有或根本没有控制权。伊丽丝认为，鉴于技术系统的复杂性，媒体和公众往往将事故归咎于人为错误，并错误地将责任归因于最近的人类操作者，如飞行员或维护人员，而不是技术系统或决策者链条上层的人。
+缺乏这种问责文化可能导致责任被归咎于错误的人。这些人成为了玛德琳 · 克莱尔 · 伊丽丝（Madeleine Clare Elish）所称的“道德挤压区”（2019）。这些人类行为者承担责任，尽管他们对他们所使用的系统几乎没有或根本没有控制权。伊丽丝认为，鉴于技术系统的复杂性，媒体和公众往往将事故归咎于人为错误，并错误地将责任归因于最近的人类操作者，如飞行员或维护人员，而不是技术系统或决策者链条上层的人。
 
 Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有着重要影响，但一些作者强调，要正确理解道德责任，就必须认识到技术在塑造人类行为中的积极作用（Jonas 1984; Verbeek 2006; Johnson 和 Powers 2005; Waelbers 2009）。根据 Johnson 和 Powers 的观点，仅仅关注人类的意图和行为是不够的。“将更多责任归于使用技术的人需要深入了解技术的行为”（2005 年，第 107 页）。人们必须考虑技术工具在中介人类行为方面的各种方式。因此，道德责任不仅关乎一个人或一群人的行为如何以道德上重要的方式影响他人；它还关乎他们的行为如何受到技术的塑造。从这个角度来看，道德责任并不仅仅存在于个人或人际关系中，而是分布在人类和技术之间。
 
@@ -156,12 +156,12 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 
 * Allen, C. & W. Wallach, 2012. “Moral Machines. Contradiction in Terms or Abdication of Human Responsibility?” in P. Lin, K. Abney, and G. Bekey (eds.), *Robot ethics. The ethics and social implications of robotics.* Cambridge, Massachusetts: MIT Press.
 * Allen, C., G. Varner & J. Zinser, 2000. “Prolegomena to any Future Artificial Moral Agent,” *Journal of Experimental and Theoretical Artificial Intelligence*, 12: 251–261.
-* Allen, C. W. Wallach & I. Smit, 2006. “Why Machine Ethics?” *Intelligent Systems, IEEE ,* 21(4):12–17.
-* Angwin, J., J. Larson, S. Mattu & L. Kirchner, 2016. “Machine Bias. There is software that is used across the county to predict future criminals. And it is biased against blacks”, *ProPublica*, May 23, 2016,[Angwin et al. 2016 available online](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+* Allen, C. W. Wallach & I. Smit, 2006. “Why Machine Ethics?” *Intelligent Systems, IEEE ,* 21(4): 12–17.
+* Angwin, J., J. Larson, S. Mattu & L. Kirchner, 2016. “Machine Bias. There is software that is used across the county to predict future criminals. And it is biased against blacks”, *ProPublica*, May 23, 2016, [Angwin et al. 2016 available online](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * Asaro, P., 2011. “A Body to Kick, But Still No Soul to Damn: Legal Perspectives on Robotics,” in P. Lin, K. Abney, and G. Bekey (eds.) *Robot Ethics: The Ethical and Social Implications of Robotics*, Cambridge, MA: MIT Press.
 * Bechtel, W., 1985. “Attributing Responsibility to Computer Systems,” *Metaphilosophy*, 16(4): 296–306
 * Bijker, W. E., T. P. Hughes, & T. Pinch, 1987. *The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology*, London, UK: The MIT Press.
-* Bovens, M. & S. Zouridis, 2002. “From street-level to system-level bureaucracies: how information and communication technology is transforming administrative discretion and constitutional control,” *Public Administration Review*, 62(2):174–184.
+* Bovens, M. & S. Zouridis, 2002. “From street-level to system-level bureaucracies: how information and communication technology is transforming administrative discretion and constitutional control,” *Public Administration Review*, 62(2): 174–184.
 * Boyd, D. & K. Crawford, 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon,” *Information, Communication, & Society* 15(5): 662–679.
 * Bryson, J.J., 2018. “Patiency is not a virtue: the design of intelligent systems and systems of ethics,” *Ethics and Information Technology*, 20(1): 15-26.
 * Cervantes, J.A., López, S., Rodríguez, L.F., Cervantes, S., Cervantes, F. and Ramos, F., 2020.“Artificial moral agents: A survey of the current status,” *Science and Engineering Ethics*, 26(2): 501-532.
@@ -170,7 +170,7 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 * –––, 2013. “Drones, information technology, and distance: mapping the moral epistemology of remote fighting,” *Ethics and Information Technology*, 15(2): 87-98.
 * Coeckelbergh, M., 2020. “Artificial intelligence, responsibility attribution, and a relational justification of explainability,” *Science and Engineering Ethics*, 26(4): 2051-2068.
 * Coeckelbergh, M. & R. Wackers, 2007. “Imagination, Distributed Responsibility and Vulnerable Technological Systems: the Case of Snorre A,” *Science and Engineering Ethics*, 13(2): 235–248.
-* Cummings, M. L., 2004. “Automation Bias in Intelligent Time Critical Decision Support Systems,” published online: 19 Jun 2012, American Institute of Aeronautics and Astronautics. doi:10.2514/6.2004-6313
+* Cummings, M. L., 2004. “Automation Bias in Intelligent Time Critical Decision Support Systems,” published online: 19 Jun 2012, American Institute of Aeronautics and Astronautics. doi: 10.2514/6.2004-6313
 * Diakopoulos, N., 2020. “Transparency”. In M. Dubber, F. Pasquale, & S. Das (Eds.), *Oxford handbook of ethics and AI* (pp. 197–214). Oxford University Press.
 * Dennett, D. C., 1997. “When HAL Kills, Who’s to Blame? Computer Ethics,” in *HAL’s Legacy: 2001’s Computer as Dream and Reality*, D. G. Stork (ed.), Cambridge, MA: MIT Press.
 * Denning, P. J., 1989. “The Science of Computing: The Internet Worm,” *American Scientist*, 77(2): 126–128.
@@ -187,7 +187,7 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 * –––, 2016. “Faultless responsibility: on the nature and allocation of moral responsibility for distributed moral actions,” *Philosophical Transactions of the Royal Society A* (Mathematical Physical and Engineering Sciences), 374(2083); doi: 10.1098/rsta.2016.0112
 * Friedman, B., 1990. “Moral Responsibility and Computer Technology,” Institute of Education Sciences ERIC Number ED321737, [[Friedman 1990 available online](https://files.eric.ed.gov/fulltext/ED321737.pdf)].
 * ––– (ed.), 1997. *Human Values and the Design of Computer Technology*, Stanford: CSLI Publications; New York: Cambridge University Press.
-* Gorwa, R., Binns, R., & Katzenbach, C., 2020. “Algorithmic content moderation: Technical and political challenges in the automation of platform governance,” *Big Data & Society*, 7(1); first online 28 February 2020. doi:10.1177/2053951719897945
+* Gorwa, R., Binns, R., & Katzenbach, C., 2020. “Algorithmic content moderation: Technical and political challenges in the automation of platform governance,” *Big Data & Society*, 7(1); first online 28 February 2020. doi: 10.1177/2053951719897945
 * Gotterbarn D., 2001. “Informatics and professional responsibility,” *Science and Engineering Ethics*, 7(2): 221–230.
 * Graubard, S. R., 1988. *The Artificial Intelligence Debate: False Starts, Real Foundations*, Cambridge, MA: MIT Press.
 * Gray, C. H., 1997. “AI at War: The Aegis System in Combat,” *Directions and Implications of Advanced Computing*, D. Schuler, (ed.), New York: Ablex, pp. 62–79.
@@ -226,7 +226,7 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 * Reeves, B. & C. Nass, 1996. *The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places*, Cambridge: Cambridge University Press.
 * Rosenthal-von der Pütten, A. M., Krämer, N. C., Hoffmann, L., Sobieraj, S., & Eimler, S. C., 2013. “An experimental study on emotional reactions towards a robot,” *International Journal of Social Robotics*, 5(1): 17–34.
 * Sack, W., 1997. “Artificial Human Nature,” *Design Issues*, 13: 55–64.
-* Santoni de Sio, F. and Van den Hoven, J., 2018. “Meaningful human control over autonomous systems: A philosophical account,” *Frontiers in Robotics and AI*, 5, first online 28 February 2018. doi:10.3389/frobt.2018.00015
+* Santoni de Sio, F. and Van den Hoven, J., 2018. “Meaningful human control over autonomous systems: A philosophical account,” *Frontiers in Robotics and AI*, 5, first online 28 February 2018. doi: 10.3389/frobt.2018.00015
 * Santoni de Sio, F., & Mecacci, G., 2021. “Four responsibility gaps with artificial intelligence: Why they matter and how to address them,” *Philosophy & Technology*, 34: 1057–1084.
 * Sartor, G. and M. Viola de Azevedo Cunha, 2010. “The Italian Google-Case: Privacy, Freedom of Speech and Responsibility of Providers for User-Generated Contents,” *International Journal of Law and Information Technology*, 18(4): 356–378.
 * Searle, J. R., 1980. “Minds, brains, and programs” *Behavioral and Brain Sciences*, 3(3): 417–457.
@@ -238,14 +238,14 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 * Strawson, P., 1962. “Freedom and Resentment,” in *Proceedings of the British Academy*, 48: 1-25.
 * Suchman, L., 1998. “Human/machine reconsidered,” *Cognitive Studies*, 5(1): 5–13.
 * Sullins, J. P., 2006. “When is a Robot a Moral Agent?” *International Review of* *Information Ethics*, 6(12): 23–29.
-* Swierstra, T., Waelbers, K., 2012. “Designing a Good Life: A Matrix for the Technological Mediation of Morality,” *Science and Engineering Ethics*, 18: 157–172. doi:10.1007/s11948-010-9251-1
+* Swierstra, T., Waelbers, K., 2012. “Designing a Good Life: A Matrix for the Technological Mediation of Morality,” *Science and Engineering Ethics*, 18: 157–172. doi: 10.1007/s11948-010-9251-1
 * Taddeo, M. and L. Floridi, 2015. “The Debate on the Moral Responsibilities of Online Service Providers,” *Science and Engineering Ethics*, 22(6): 1575–1603.
-* Talbert, Matthew, 2022. “Moral Responsibility,” *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) URL = < href=“https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/”>https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/>.
+* Talbert, Matthew, 2022. “Moral Responsibility,” *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.) URL = < href=“https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/”> https://plato.stanford.edu/archives/win2016/entries/moral-responsibility/>.
 * Tigard, D. W., 2021a. “Responsible AI and moral responsibility: a common appreciation,” *AI and Ethics*, 1(2): 113-117.
 * –––, 2021b. “Artificial moral responsibility: How we can and cannot hold machines responsible,” *Cambridge Quarterly of Healthcare Ethics*, 30(3): 435-447.
 * U.S. Department of Defense, 2009. “FY2009–2034 Unmanned Systems Integrated Roadmap,” [available online](https://www.globalsecurity.org/intell/library/reports/2009/dod-unmanned-systems-roadmap_2009-2034.pdf) .
 * Van den Hoven, J., 2002. “Wadlopen bij Opkomend Tij: Denken over Ethiek en Informatiemaatschappij,” in J. de Mul (ed.), *Filosofie in Cyberspace*, Kampen: Uitgeverij Klement, pp. 47–65.
-* Véliz, C., 2021. “Moral zombies: why algorithms are not moral agents,” *AI & Society*, 36: 487–497. doi:10.1007/s00146-021-01189-x
+* Véliz, C., 2021. “Moral zombies: why algorithms are not moral agents,” *AI & Society*, 36: 487–497. doi: 10.1007/s00146-021-01189-x
 * Verbeek, P. P., 2006. “Materializing Morality: Design Ethics and Technological Mediation,” *Science, Technology and Human Values*, 31(3): 361–380.
 * Verbeek, P. P., 2021. *What Things Do*, University Park, PA: Pennsylvania State University Press.
 * Vidal, J., 2004. “The alco-lock is claimed to foil drink-drivers. Then the man from the Guardian had a go …,” *The Guardian*, August 5th, 2004.
@@ -253,7 +253,7 @@ Nissenbaum 认为，技术被开发和使用的背景对道德责任的归因有
 * Wallach, W. and C. Allen, 2009. *Moral Machines. Teaching Robots Right from Wrong*, Oxford: Oxford University Press.
 * Whitby, B., 2008. “Sometimes it’s hard to be a robot. A call for action on the ethics of abusing artificial agents,” *Interacting with Computers*, 20(3): 326–333.
 * John Zerilli; John Danaher; James Maclaurin; Colin Gavaghan; Alistair Knott; Joy Liddicoat; Merel Noorman, 2021. “7 Autonomy,” in *A Citizens Guide to Artificial Intelligence*, Cambridge, MA: MIT Press, pp. 107-126.
-* Zuboff, S., 1982. “Automate/Informate: The Two Faces of Intelligent Technology,” *Organizational Dynamics*, 14(2):5–18
+* Zuboff, S., 1982. “Automate/Informate: The Two Faces of Intelligent Technology,” *Organizational Dynamics*, 14(2): 5–18
 
 ## Academic Tools
 

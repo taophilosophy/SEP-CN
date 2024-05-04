@@ -1,6 +1,6 @@
 # 知觉经验与知觉辩护 experience and justification (Nicholas Silins)
 
-*首次发表于2015年6月17日；实质性修订于2021年12月10日。*
+*首次发表于 2015 年 6 月 17 日；实质性修订于 2021 年 12 月 10 日。*
 
 当你在超市看到一个成熟的柠檬时，你似乎非常合理地相信柠檬确实存在。在这里，你有一个知觉经验，因为你有意识地看到了一些黄色的东西。而你的经验似乎证明了你的信念，因为你的经验似乎使你相信柠檬确实存在是合理的。
 
@@ -107,7 +107,7 @@
 
 根据感觉数据理论，所有视觉经验都与我们的视觉经验所归属的属性的对象相关。在相反的极端上，有人可能认为经验是“原始感觉”，未能以任何方式向我们呈现世界。为了对这种思路有所了解，考虑一下“看到星星”的经验。根据某些观点，你在这里的经验只是一种简单的感觉，未能向你呈现周围的环境（参见 Smith 2002: 130–1）。在这些观点上，这里的“看到星星”的表达是极其误导的，因为你并没有真正看到星星，甚至没有象征性地看到其他任何东西——你的经验并不是对场景中任何事物的感知。根据原始感觉理论，所有视觉经验实际上都是这样的，而不仅仅是特殊的情况。正如 Bonjour 所说，我们用“在二维视觉空间中排列的色块”来捕捉我们的视觉经验的特点（2001: 32）。 （有关在此处使用的“原始感觉理论”可能属于的观点的调查，请参见知觉内容（第 2.1 节）的条目）
 
-在《真理和知识的一致性理论》一文中，唐纳德·戴维森可以被理解为使用原始感觉理论来论证怀疑论的认识论结论：
+在《真理和知识的一致性理论》一文中，唐纳德 · 戴维森可以被理解为使用原始感觉理论来论证怀疑论的认识论结论：
 
 > 感觉和信念之间的关系不能是逻辑的，因为感觉不是信念或其他命题态度。那么这种关系是什么呢？答案是，我认为很明显：这种关系是因果关系。感觉引起了一些信念，在这个意义上，感觉是这些信念的基础或根据。但是，对于一个信念的因果解释并不能说明这个信念是如何或为什么被辩护的。（1986 年：310）
 
@@ -132,7 +132,7 @@
 
 为什么要相信 E-M Link 3 呢？戴维森自己的案例依赖于这样一种主张：为了使经验能够证明一个信念，该经验必须使该信念的内容更有可能或蕴含（他还使用了进一步的假设，即只有命题内容才能做到这样的事情）。不清楚为什么所有的原始感觉理论家都必须接受这个要求。回想一下“看到星星”的经验，并假设这个经验确实是一种原始感觉。这种经验可能仍然能够证明你正在经历那种特定的经验。类似地，如果痛苦最好被理解为原始感觉，它们可能仍然能够证明你相信你正在经历它们。现在，如果经验可以缺乏命题内容但仍然能够证明你相信你正在经历它们，为什么它们不能够证明关于外部世界的信念呢？特别是，至少如果背景信念被允许发挥作用，似乎完全有可能通过将特定的原始感觉与外部世界的特定条件联系起来的推理来证明关于外部世界的信念。这里的证明结构将如下所示：
 
-原始感觉→自我归因原始感觉+辅助信念⎫⎪⎬⎪⎭→外部世界信念
+原始感觉 → 自我归因原始感觉+辅助信念 ⎫⎪⎬⎪⎭→ 外部世界信念
 
 （对于这种结构的当代观点，请参见 Bonjour 2001）。
 
@@ -183,7 +183,7 @@
 
 ![A set of three horizontal lines vertically aligned with the first and third having simple two line arrow heads at each end and the middle having inverted arrow heads Sighted people tend to perceive the middle line as longer in this set Below is the same set with the horizontal lines in red and a dashed line on each side showing that the lines are actually identical in length ](https://plato.stanford.edu/entries/perception-justification/figure1.png)
 
-图 1. 穆勒-莱尔错觉[1]
+图 1. 穆勒-莱尔错觉 [1]
 
 一旦你获得了证据证明线段长度相同，你的经验就不能使你相信它们长度不同。这些情况属于“击败”，即进一步的证据反对或干扰你从经验中获得的辩护（有些情况可能像有人在经验绘制的涂鸦上写字，而其他情况可能像有人擦掉经验绘制的涂鸦，或许还有其他形式的击败）。为了考虑到这些情况，足够性的支持者可以说
 
@@ -269,7 +269,7 @@
 
 这里的经验的显著特征不容易确定。大致的想法是，当你进行视觉经验时，与视觉想象不同，事物被呈现给你，就好像它们实际上是真实存在的。如何最好地理解这种经验特征还有待讨论。现在，让我们保持对其确切性质的开放，并简单地使用“呈现现象学”这个术语作为它的替代品（有关更详细的阐述，请参见 Chudnoff 2012 年或 Bengson 2015 年的论文，以及 Teng 2018 年对优先考虑呈现现象学的挑战）。
 
-即使表象现象学在认识上具有特权，关于其范围仍然存在一个重要问题。假设你透过一个栅栏看到一头牛。可以说你以某种方式感知到那里有一头延伸的牛。为了形成鲜明对比，首先考虑达米安·赫斯特的作品《从接受一切固有谎言中获得的某种安慰》，它由一头竖直切割成一系列像多米诺骨牌一样排列的盒子的牛组成。现在假设你知道你是透过一个栅栏看到赫斯特的雕塑，其中的切割部分与栅栏的间隙完全对齐。在这种情况下，你可以说你并没有感知到那里有一头延伸的牛。
+即使表象现象学在认识上具有特权，关于其范围仍然存在一个重要问题。假设你透过一个栅栏看到一头牛。可以说你以某种方式感知到那里有一头延伸的牛。为了形成鲜明对比，首先考虑达米安 · 赫斯特的作品《从接受一切固有谎言中获得的某种安慰》，它由一头竖直切割成一系列像多米诺骨牌一样排列的盒子的牛组成。现在假设你知道你是透过一个栅栏看到赫斯特的雕塑，其中的切割部分与栅栏的间隙完全对齐。在这种情况下，你可以说你并没有感知到那里有一头延伸的牛。
 
 在透过一个栅栏看到一头牛的普通情况下，关于表象现象学是否包括一头延伸的牛的存在，或者是否仅包括那些没有被栅栏遮挡的牛的区域，存在争议（有关进一步讨论，请参见 Noe 2005）。如果你的表象现象学仅包括非遮挡区域，并且只有表象现象学提供感知辩护，那么经验的理性能力将受到限制。仅仅通过以面值接受你透过栅栏的缝隙看到的牛的经验，你将没有理由相信存在一头延伸的牛。类似地，如果一个物体只有表面现象上的存在，你可能只有理由相信表面存在，通过以面值接受你的经验。在这里，我们可能会回到第 2.2 节讨论的“表面的面纱”。
 
@@ -298,7 +298,7 @@ Mind3
 
 经验有程度的结论是引人注目和重要的，但可以用不同的方式加以阐述。
 
-一个选择点是在哪里定位潜在的程度变化。一个选择是在经验的内容中，另一个选择是在我们与内容或与世界在经验中的心理关系中（原则上，程度的变化也可以定位在经验的载体中或其他地方）。另一个选择点是如何理解经验程度的变化。一个诱人的选择是依靠关于信任度或信念程度的概率理论（但请记住，原则上，经验可以有程度而不以概率的方式程度化）。这里的想法是解释经验程度的方式与哲学家解释信任度程度的方式类似（并不一定是说经验就是信任度）。所以，就像你可能更相信4面骰子会掷出4而不是6面骰子会掷出4一样，也许当雾气较轻时，你对外面有一个雪人的视觉信任度更高，而当雾气较重时，信任度较低。现在，如何理解信任度本身是有争议的，其中程度的变化可能位于与骰子掷出4的内容相关的不同心理关系中，或者可能位于与1/6概率相关的不同内容中，而不是1/6概率。此外，即使信任度本身最好以概率术语理解，这还不能说信任度最好以贝叶斯术语理解。因此，对经验的程度化观点并不强制要求特定地承认贝叶斯对知觉的观点（有关概率知觉观点的更多信息，通常更关注导致知觉的过程而不是这些过程产生的内容，请参阅Hohwy 2013、Rescorla 2015、Siegel 2020或Vance 2021）。按照信任度的方式理解程度化的经验提供了广泛的选择。
+一个选择点是在哪里定位潜在的程度变化。一个选择是在经验的内容中，另一个选择是在我们与内容或与世界在经验中的心理关系中（原则上，程度的变化也可以定位在经验的载体中或其他地方）。另一个选择点是如何理解经验程度的变化。一个诱人的选择是依靠关于信任度或信念程度的概率理论（但请记住，原则上，经验可以有程度而不以概率的方式程度化）。这里的想法是解释经验程度的方式与哲学家解释信任度程度的方式类似（并不一定是说经验就是信任度）。所以，就像你可能更相信 4 面骰子会掷出 4 而不是 6 面骰子会掷出 4 一样，也许当雾气较轻时，你对外面有一个雪人的视觉信任度更高，而当雾气较重时，信任度较低。现在，如何理解信任度本身是有争议的，其中程度的变化可能位于与骰子掷出 4 的内容相关的不同心理关系中，或者可能位于与 1/6 概率相关的不同内容中，而不是 1/6 概率。此外，即使信任度本身最好以概率术语理解，这还不能说信任度最好以贝叶斯术语理解。因此，对经验的程度化观点并不强制要求特定地承认贝叶斯对知觉的观点（有关概率知觉观点的更多信息，通常更关注导致知觉的过程而不是这些过程产生的内容，请参阅 Hohwy 2013、Rescorla 2015、Siegel 2020 或 Vance 2021）。按照信任度的方式理解程度化的经验提供了广泛的选择。
 
 对于最后一个复杂问题，请注意传统上构想的信念和确信度之间的关系存在广泛的争议。一种消除主义的选择最终否认了存在信念，用确信度取而代之。其他方法将信念和确信度都保留在图景中，并将信念解释为确信度，或将确信度解释为信念，或者两者都不以对方为基础（参见 SEP 条目中关于信念形式表示的第 4 节）。同样，一旦承认以确信度方式进行程度化的经验，可能同时仍然允许其他更类似传统理解的信念的经验存在。因此，现在有了关于信念和确信度之间关系的问题在以信念方式结构化的经验与以确信度方式结构化的程度化经验之间展开。也许只有以确信度方式结构化的程度化经验存在，或者也许还存在以信念方式结构化的经验，我们可以询问这两个实体中的任何一个在与另一个相关的解释优先权方面是否具有优先权。
 
@@ -321,7 +321,7 @@ Mind3
  心灵 3
 我们的经验本身是有程度的。
 
-即使考虑到这些改进，仍然需要阻止竞争性的解释。例如，也许认识论的新版本是错误的，经验只在最佳情况下提供特定的直接辩护（有关讨论，请参见Munton 2016）。或者也许链接的新版本是错误的，可以通过传统的非度量化的方式解释不同程度的辩护。例如，考虑到你的经验可能不仅涉及公园里的潜在雪人，还涉及公园里的雾量和其他观看条件的方面。再考虑到被击败的现象，你接收到的信息可能会减少或破坏经验所提供的辩护。鉴于你的经验实际上对你的观看条件的质量表态，也许在雾量较高的条件下，你的经验会削弱它们特定提供相信那里有雪人的辩护程度。在这里，我们可以通过经验的变化来解释不同程度的辩护，但是通过与观看条件相关的普通非度量化的知觉内容，而不是任何更引人注目的度量化的经验特征（这种反对意见在Beck 2020中进一步讨论）。
+即使考虑到这些改进，仍然需要阻止竞争性的解释。例如，也许认识论的新版本是错误的，经验只在最佳情况下提供特定的直接辩护（有关讨论，请参见 Munton 2016）。或者也许链接的新版本是错误的，可以通过传统的非度量化的方式解释不同程度的辩护。例如，考虑到你的经验可能不仅涉及公园里的潜在雪人，还涉及公园里的雾量和其他观看条件的方面。再考虑到被击败的现象，你接收到的信息可能会减少或破坏经验所提供的辩护。鉴于你的经验实际上对你的观看条件的质量表态，也许在雾量较高的条件下，你的经验会削弱它们特定提供相信那里有雪人的辩护程度。在这里，我们可以通过经验的变化来解释不同程度的辩护，但是通过与观看条件相关的普通非度量化的知觉内容，而不是任何更引人注目的度量化的经验特征（这种反对意见在 Beck 2020 中进一步讨论）。
 
 现在我们已经调查了一些关于知觉的中心理论的认识论含义。我们绝不是涵盖了所有的知觉理论。在这里，我们只是简单地指出了需要考虑的其他重要领域。关于幼稚实在主义的知觉理论以及它们与怀疑主义问题的相互作用的讨论，请参阅有关知觉的认识论问题和分离理论的条目。关于二元论的知觉理论如何导致表象论，表象论如何导致怀疑问题的讨论，请参阅表象论的条目（第 2.3 节）。关于经验实际上是信念的特例的理论，以及这个理论如何影响我们对如何基于经验形成信念的理解的讨论，请参阅知觉内容的条目（第 2.2 节）。
 
@@ -450,7 +450,7 @@ Mind4
 
 ![two identical squares overlapping and with lines connecting the four vertices of one to the equivalent vertex of the other](https://plato.stanford.edu/entries/perception-justification/figure4.png)
 
-图 4. 尼克尔立方体[ 4]
+图 4. 尼克尔立方体 [ 4]
 
 你可以将这个图像看作一个向下倾斜的立方体，左侧面最靠近你，或者将其看作一个向上倾斜的立方体，右侧面最靠近你。批评者争议这样的例子是否支持任何关于观察的理论依赖的论点。另一种回应是，你之所以以不同的方式体验这个图像，仅仅是因为你在不同的时间关注图像的不同部分。在这里，你的体验的差异并不是由于你持有的理论不同（Fodor 1984）所解释的。
 
@@ -474,7 +474,7 @@ Mind4
 
 如果你倾向于否认 Jill 的信念是有理由的，你可以诉诸于一种直觉，即 Jill 在相信杰克对她生气时并不是通过她的经验得到的合理辩护（Siegel 2012）。但其他人可能不会分享这种直觉。
 
-另一种策略是提出进一步的论证，即吉尔在相信杰克对她生气的问题上并没有通过她的经验得到合理辩护。关于通过类比来解释在没有合理辩护的信念基础上形成信念的论证，请参阅麦格拉斯（2013）和西格尔（2013）（滕2021进行了批判性回应）。关于通过类比来解释基于情感形成信念的无合理辩护的论证，请参阅范斯（2014）。
+另一种策略是提出进一步的论证，即吉尔在相信杰克对她生气的问题上并没有通过她的经验得到合理辩护。关于通过类比来解释在没有合理辩护的信念基础上形成信念的论证，请参阅麦格拉斯（2013）和西格尔（2013）（滕 2021 进行了批判性回应）。关于通过类比来解释基于情感形成信念的无合理辩护的论证，请参阅范斯（2014）。
 
 ## Bibliography
 
@@ -519,7 +519,7 @@ Mind4
 * DePaul, M. (ed), 2001, *Resurrecting Old-Fashioned Foundationalism*, CITY: Rowman and Littlefield.
 * Deroy, O., 2013, “Object Sensitivity Versus Cognitive Penetrability of Perception”, *Philosophical Studies*, 162: 87–107
 * Descartes, René, [**PW**], *The Philosophical Writings of Descartes* (Volume II), John Cottingham, Robert Stoothoff, and Dugald Murdoch (trans.), Cambridge: Cambridge University Press, 1984.
-* Dretske, Fred, 2004, “Change Blindness”, *Philosophical Studies*, 120(1–3): 1–18. doi:10.1023/B:PHIL.0000033749.19147.88
+* Dretske, Fred, 2004, “Change Blindness”, *Philosophical Studies*, 120(1–3): 1–18. doi: 10.1023/B: PHIL.0000033749.19147.88
 * Ericsson, K. A. (ed.)., 2006, *The Cambridge handbook of expertise and expert performance*, Cambridge: Cambridge University Press.
 * Firestone, Chaz & Scholl, Brian J., 2016, “Cognition Does Not Affect Perception: Evaluating the Evidence for ‘Top-down’ Effects”, *Behavioral and Brain Sciences*, 39: 1–72.
 * Fish, W., 2013, *Perception, Hallucination, and Illusion*, New York: Oxford University Press.
@@ -529,7 +529,7 @@ Mind4
 * Gendler, Tamar S. & John Hawthorne (eds.), 2006, *Perceptual Experience*, Oxford: Oxford University Press.
 * Ginsborg, Hannah, 2006, “Reasons for Belief”, *Philosophy and Phenomenological Research*, 72(2): 286–318.
 * Goldman, A., 2008, “Immediate Justification and Process Reliabilism”, in Smith 2008: 63–82.
-* Greco, Daniel, 2019, “Justifications and Excuses in Epistemology”, *Noûs*, first online 08 August 2019. doi:10.1111/nous.12309
+* Greco, Daniel, 2019, “Justifications and Excuses in Epistemology”, *Noûs*, first online 08 August 2019. doi: 10.1111/nous.12309
 * Green, E. J., 2020, “The Perception-Cognition Border: A Case for Architectural Division”, *Philosophical Review*, 129(3): 323–393.
 * Haddock, A. & F. MacPherson (eds.), 2008, *Disjunctivism: Perception, Action and Knowledge*, Oxford: Oxford University Press.
 * Hansen, T., M. Olkkonen, S. Walter, & K.R. Gegenfurtner, 2006, “Memory Modulates Color Appearance”, *Nature Neuroscience*, 9(11): 1367–1368.
@@ -576,7 +576,7 @@ Mind4
 * Naccache, L. & S. Dehaene, 2001, “Unconscious semantic priming extends to novel unseen stimuli”, *Cognition*, 80: 215–229.
 * Noë, Alva, 2005, *Action in Perception*, Cambridge, MA: MIT Press.
 * Nozick, R., 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
-* Odegaard, B., Chang, M. Y., Lau, H., & Cheung, S. H, 2018, “Inflation Versus Filling-In: Why We Feel We See More Than We Actually Do In Peripheral Vision”, *Philosophical transactions of the Royal Society of London* (Series B: Biological Sciences), 373(1755): 20170345. doi:10.1098/rstb.2017.0345
+* Odegaard, B., Chang, M. Y., Lau, H., & Cheung, S. H, 2018, “Inflation Versus Filling-In: Why We Feel We See More Than We Actually Do In Peripheral Vision”, *Philosophical transactions of the Royal Society of London* (Series B: Biological Sciences), 373(1755): 20170345. doi: 10.1098/rstb.2017.0345
 * Olkkonen, M., T. Hansen, & K.R. Gegenfurtner, 2008, “Colour Appearance of Familiar Objects: Effects of Object Shape, Texture and Illumination Changes”, *Journal of Vision*, 8: 1–16.
 * Pautz, Adam, 2009, “What are the Contents of Experiences?”, *Philosophical Quarterly*, 59(236): 483–507.
 * Peacocke, C., 2004, *The Realm of Reason*, New York: Oxford University Press.
@@ -590,7 +590,7 @@ Mind4
 * Pritchard, Duncan, 2012, *Epistemological Disjunctivism*, Oxford: Oxford University Press.
 * Pryor, James, 2000, “The Skeptic and the Dogmatist”, *Noûs*, 34(4): 517–549.
 * –––, 2001, “Highlights of Recent Epistemology”, *British Journal for the Philosophy of Science*, 52: 95–12
-* –––, 2005, “There is Immediate Justification?”, in Sosa & Steup 2005:181–201.
+* –––, 2005, “There is Immediate Justification?”, in Sosa & Steup 2005: 181–201.
 * Pylyshyn, Z.W., 1999, “Is Vision Continuous with Cognition? The Case for Cognitive Impenetrability of Visual Perception”, *Behavioral and Brain Sciences*, (1999), 22(3): 341–365.
 * Reiland, Indrek, 2015, “Experience, Seemings, and Evidence”, *Pacific Philosophical Quarterly*, 96(4): 510–534.
 * Reid, Thomas, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, D. R. Brookes (ed.), University Park, PA: Pennsylvania State University Press.
@@ -610,7 +610,7 @@ Mind4
 * –––, 2010, *The Contents of Visual Experience*, Oxford: Oxford University Press.
 * –––, 2012, “Cognitive Penetrability and Perceptual Justification”, *Noûs*, 46(2): 201–222.
 * –––, 2013, “The Epistemic Impact of the Etiology of Experience”, *Philosophical Studies*, 162(3): 697–722.
-* –––, 2020, “How can Perceptual Experiences Explain Uncertainty?”, *Mind and Language*, first online 28 December 2020. doi:10.1111/mila.12348
+* –––, 2020, “How can Perceptual Experiences Explain Uncertainty?”, *Mind and Language*, first online 28 December 2020. doi: 10.1111/mila.12348
 * Silins, Nicholas, 2011, “Seeing Through the ‘Veil of Perception’”, *Mind*, 120(478): 329–367.
 * –––, 2013, “The Significance of High-Level Content”, *Philosophical Studies*, 162(1): 13–33.
 * Silins, Nicholas & Susanna Siegel, 2014, “Consciousness, Attention, and Justification”, in Elia Zardini & Dylan Dodd (eds.), *Contemporary Perspectives on Scepticism and Perceptual Justification*, Oxford: Oxford University Press.

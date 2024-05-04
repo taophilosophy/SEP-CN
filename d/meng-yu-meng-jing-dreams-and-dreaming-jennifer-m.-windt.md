@@ -26,7 +26,7 @@
 2. 如果我现在正在做梦，这将是怀疑我是否坐在火边穿着衣服的真正理由：在梦中，我经常有坐在火边穿着衣服的逼真体验，而实际上我是躺在床上赤裸的！
 3. 因此，我不知道我现在坐在火边穿着衣服。
 
-重要的是，梦境论的强弱版本只对基于感官的信念产生怀疑，但不影响其他信念。根据笛卡尔的观点，即使他现在正在做梦，2+3=5 或者一个正方形的边不超过 4 条这样的事实仍然是可以知晓的。
+重要的是，梦境论的强弱版本只对基于感官的信念产生怀疑，但不影响其他信念。根据笛卡尔的观点，即使他现在正在做梦，2+3 = 5 或者一个正方形的边不超过 4 条这样的事实仍然是可以知晓的。
 
 > 尽管事实上，我应该是在做梦，但规则仍然是，凡是清晰呈现在我的理智中的一切都是无可争辩的真实。(Descartes 1641: V.15)
 
@@ -42,15 +42,15 @@
 
 这导致结论，知识不能通过感知来定义。
 
-梦与梦境也出现在古希腊怀疑论者使用的标准怀疑论论据中。再次，梦境和睡眠只是几种条件之一（包括疾病、喜悦和悲伤），这些条件使感官知觉的可信度受到质疑（《著名哲学家生平》迪奥根尼斯·莱尔提乌斯；塞克斯图斯·经验论概要）。
+梦与梦境也出现在古希腊怀疑论者使用的标准怀疑论论据中。再次，梦境和睡眠只是几种条件之一（包括疾病、喜悦和悲伤），这些条件使感官知觉的可信度受到质疑（《著名哲学家生平》迪奥根尼斯 · 莱尔提乌斯；塞克斯图斯 · 经验论概要）。
 
-奥古斯丁（反对学者；忏悔录）认为梦境问题可以被控制，他认为事后我们可以区分梦境和幻觉与实际感知（Matthew 2005：第 8 章）。蒙田（为雷蒙德·塞邦的辩护）指出清醒本身充满了幻想和幻觉，他认为这比夜间梦境更令人担忧。
+奥古斯丁（反对学者；忏悔录）认为梦境问题可以被控制，他认为事后我们可以区分梦境和幻觉与实际感知（Matthew 2005：第 8 章）。蒙田（为雷蒙德 · 塞邦的辩护）指出清醒本身充满了幻想和幻觉，他认为这比夜间梦境更令人担忧。
 
 笛卡尔在讨论梦境方面投入了更多的篇幅，并将其视为一种独特的认识论威胁，与清醒时的幻觉、邪恶天才或脑中的幻境式论证有所不同。他声称自己经常被梦境欺骗，这意味着他也将梦境视为一个现实世界的威胁（而不仅仅是假设性的）。
 
 这一点在《沉思录》中亲密的第一人称风格更加突出。它们的叙述者被认为是每个人认识论情境的典型代表，展示了人类思维的典型缺陷。读者进一步被笛卡尔的策略所吸引，从常识例子逐渐转向更复杂的哲学主张（弗兰克福，1970 年）。例如，笛卡尔通过首先考虑感官错觉的熟悉案例，然后是具有欺骗性的逼真梦境，逐步建立起对梦境怀疑的观点。
 
-最后，人们对笛卡尔年轻时所做的几个梦给予了很多关注。有人认为这些梦体现了他在《论谈》和《沉思录》中发展的理论怀疑（Baillet 1691; Leibniz 1880: IV; Cole 1992; Keefer 1996）。Hacking（2001:252）认为，对于笛卡尔来说，梦境怀疑不仅是一个哲学难题，而且是真正怀疑的源泉。关于梦境报告的真实性也有一些讨论（Freud 1940; Cole 1992; Clarke 2006; Browne 1977）。
+最后，人们对笛卡尔年轻时所做的几个梦给予了很多关注。有人认为这些梦体现了他在《论谈》和《沉思录》中发展的理论怀疑（Baillet 1691; Leibniz 1880: IV; Cole 1992; Keefer 1996）。Hacking（2001: 252）认为，对于笛卡尔来说，梦境怀疑不仅是一个哲学难题，而且是真正怀疑的源泉。关于梦境报告的真实性也有一些讨论（Freud 1940; Cole 1992; Clarke 2006; Browne 1977）。
 
 ### 梦与梦境及其他怀疑场景
 
@@ -86,7 +86,7 @@
 
 对于 Malcolm 来说，对梦境经历的否定源自对睡眠的概念分析：“如果一个人处于任何意识状态，逻辑上推断他并非熟睡”（Malcolm 1956: 21）。在引用维特根斯坦的一些言论后（1953: 184; 参见 Chihara 1965 进行讨论），Malcolm 声称
 
-> 梦境的概念并非源自做梦，而是源自对梦的描述，即我们所称之为“讲述梦”的熟悉现象。 (Malcolm 1959:55)
+> 梦境的概念并非源自做梦，而是源自对梦的描述，即我们所称之为“讲述梦”的熟悉现象。 (Malcolm 1959: 55)
 
 马尔科姆认为，回顾性梦境报告是确定梦境发生的唯一标准，没有独立的验证梦境报告的方法。虽然第一人称、过去时的心理陈述（如“我感到害怕”）至少在原则上可以通过独立观察来验证（但请参阅 Canfield 1961；Siegler 1967；Schröder 1997），他认为梦境报告（如“在我的梦中，我感到害怕”）受到不同语法的约束，仅在表面上类似于清醒状态的报告。特别是，他否认梦境报告意味着在睡眠中发生体验（如思维、感觉或判断）：
 
@@ -114,7 +114,7 @@ Malcolm 所指的“conscious experience”究竟是什么意思尚不清楚。�
 
 丹尼特（Dennett）对梦境体验持有马尔科姆（Malcolm）的怀疑态度，但这一主张与马尔科姆对梦境科学的否定截然相反。对于丹尼特来说，梦境回忆的不可靠性也并非独特，而是体现了记忆报告的更广泛问题：我们通常无法利用回顾性回忆来区分意识体验和记忆插入（Dennett 1991；另见 Emmett 1978）。
 
-丹尼特的磁带理论的早期版本（Binz 1878; Goblot 1896; Freud 1899; Hall 1981; Kramer 2007:22–24）曾被广泛讨论，追溯到莫里（1861）对法国大革命做了一个漫长而复杂的梦的描述，最终在断头台上被处决，而莫里突然醒来发现枕头板掉在了他的脖子上。由于梦似乎系统地建立到这个戏剧性结局，而这又恰好与突如其来的外部事件相吻合，他提出这类情况最好解释为在醒来时经历的瞬间记忆插入。同样，格雷戈里（1916）描述梦是在醒来时发生的心理爆炸。
+丹尼特的磁带理论的早期版本（Binz 1878; Goblot 1896; Freud 1899; Hall 1981; Kramer 2007: 22–24）曾被广泛讨论，追溯到莫里（1861）对法国大革命做了一个漫长而复杂的梦的描述，最终在断头台上被处决，而莫里突然醒来发现枕头板掉在了他的脖子上。由于梦似乎系统地建立到这个戏剧性结局，而这又恰好与突如其来的外部事件相吻合，他提出这类情况最好解释为在醒来时经历的瞬间记忆插入。同样，格雷戈里（1916）描述梦是在醒来时发生的心理爆炸。
 
 梦报告的可信度仍然存在争议。Rosen (2013) 认为，梦报告经常是虚构的，并未能准确描述睡眠期间发生的经历。相比之下，Windt (2013, 2015a) 认为，在某些条件下（比如在实验室研究中，当经过训练的参与者在醒来后立即报告梦境时），梦报告至少可以被视为关于睡眠期间先前经历的可信证据来源。
 
@@ -128,7 +128,7 @@ Malcolm 所指的“conscious experience”究竟是什么意思尚不清楚。�
 
 尝试将梦境与快速眼动睡眠期间的心理活动等同起来的做法并不成功，许多人现在认为梦境可以在睡眠的所有阶段发生（例如，Antrobus 1990; Foulkes 1993b; Solms 1997, 2000; Domhoff 2003; Nemeth & Fazekas 2018）。近年来，人们对非快速眼动睡眠的研究再次引起了兴趣（Noreika 等，2009 年; Siclari 等，2013 年，2017 年）。这表明从快速眼动睡眠的生理学推断梦境的现象学并不直接。
 
-第二条证据来自清醒梦，或者梦中知道自己在做梦并且通常具有一定程度的梦境控制（Voss 等人，2013 年；Voss 和 Hobson，2015 年；Baird 等人，2019 年）。清醒梦这个术语是由范·伊登（1913 年）创造的，但亚里士多德（《论梦》）已经指出有时人们在梦中可以意识到自己在做梦。
+第二条证据来自清醒梦，或者梦中知道自己在做梦并且通常具有一定程度的梦境控制（Voss 等人，2013 年；Voss 和 Hobson，2015 年；Baird 等人，2019 年）。清醒梦这个术语是由范 · 伊登（1913 年）创造的，但亚里士多德（《论梦》）已经指出有时人们在梦中可以意识到自己在做梦。
 
 科学证据表明清醒梦是真实的并且是一种真正的睡眠现象，这些证据来自实验室研究（Hearne 1978; LaBerge et al. 1981），显示清醒梦者可以使用特定的、预先安排的眼动模式（例如，右-左-右-左）实时地发出信号，表明他们现在清醒并且正在进行梦境实验。这些信号在 EOG 上清晰可辨，表明了梦眼动和真实眼动之间的对应关系（正如所谓的扫描假设所预测的那样；参见 Dement & Kleitman 1957; Leclair-Visonneau et al. 2010）。回顾性报告证实了梦者确实是清醒的并且发出了清醒的信号（Dresler et al. 2012; Stumbrys et al. 2014）。
 
@@ -198,7 +198,7 @@ Malcolm 所指的“conscious experience”究竟是什么意思尚不清楚。�
 
 ### 梦与梦境作为想象体验
 
-最重要的对幻觉观点的竞争对手是梦是想象体验（Liao & Gendler 2019; Thomas 2014）。这可能意味着梦境图像涉及想象而不是感知（包括幻觉或错觉; McGinn 2004），梦境信念是想象的而不是真实的信念（Sosa 2007），或两者兼而有之（Ichikawa 2008, 2009）。一个重要的优势是，通过将梦境与常见的心理状态（如清醒的幻想和白日梦）相类比，而不是将其视为幻觉这样罕见且常常是病理性事件，它提供了更统一的心理生活解释（Stone 1984）。然而，采纳想象观点的原因是多种多样的，梦被提出类似于想象，并在许多维度上不同于感知（例如 McGinn 2004, 2005a,b; Thomas 2014）。这个问题变得复杂，因为对想象的定义及其与感知的关系没有达成一致（Kind 2013）。
+最重要的对幻觉观点的竞争对手是梦是想象体验（Liao & Gendler 2019; Thomas 2014）。这可能意味着梦境图像涉及想象而不是感知（包括幻觉或错觉; McGinn 2004），梦境信念是想象的而不是真实的信念（Sosa 2007），或两者兼而有之（Ichikawa 2008, 2009）。一个重要的优势是，通过将梦境与常见的心理状态（如清醒的幻想和白日梦）相类比，而不是将其视为幻觉这样罕见且常常是病理性事件，它提供了更统一的心理生活解释（Stone 1984）。然而，采纳想象观点的原因是多种多样的，梦被提出类似于想象，并在许多维度上不同于感知（例如 McGinn 2004, 2005a, b; Thomas 2014）。这个问题变得复杂，因为对想象的定义及其与感知的关系没有达成一致（Kind 2013）。
 
 一种方式是否认梦境涉及存在或身处世界的感觉，许多人认为这对于清醒感知至关重要。想象理论家将我们在梦中感到存在的方式与认知吸收进行比较，就像当我们沉浸在小说、电影或生动的白日梦中时一样（Sartre 1940; McGinn 2004; 但请参阅 Hering 1947; Globus 1987）。一些人认为反思意识或元意识（如清醒梦中）会打断认知吸收并终止正在进行的梦境（Sartre 1940），从根本上否认清醒梦是可能的。
 
@@ -274,7 +274,7 @@ Revonsuo 认为，梦境揭示了意识的基本、与状态无关的结构是�
 
 ### 梦与梦境，精神病和妄想
 
-梦境不仅被提出作为一种清醒意识的模型系统，而且被认为是特定的精神紊乱清醒状态的模型。梦境与疯狂之间的类比在哲学史上有着悠久的历史（Plato, Phaedrus; Kant 1766; Schopenhauer 1847），在霍布森（Hobson）声称“梦境不是精神病的模型。它就是一种健康的精神病”（Hobson 1999: 44）中得到了特别鲜明的表达。戈特斯曼（Gottesmann）（2006）提出将梦境作为精神分裂症的神经生理模型。关于梦境研究对精神病学的理论和方法论影响有着丰富的讨论（参见 Scarone et al. 2007; d’Agostino et al. 2013; 另见 Windt & Noreika 2011 以及本特刊中的其他论文），许多研究调查了精神分裂症患者和健康受试者之间梦境报告的差异（Limosani et al. 2011a,b）。
+梦境不仅被提出作为一种清醒意识的模型系统，而且被认为是特定的精神紊乱清醒状态的模型。梦境与疯狂之间的类比在哲学史上有着悠久的历史（Plato, Phaedrus; Kant 1766; Schopenhauer 1847），在霍布森（Hobson）声称“梦境不是精神病的模型。它就是一种健康的精神病”（Hobson 1999: 44）中得到了特别鲜明的表达。戈特斯曼（Gottesmann）（2006）提出将梦境作为精神分裂症的神经生理模型。关于梦境研究对精神病学的理论和方法论影响有着丰富的讨论（参见 Scarone et al. 2007; d’Agostino et al. 2013; 另见 Windt & Noreika 2011 以及本特刊中的其他论文），许多研究调查了精神分裂症患者和健康受试者之间梦境报告的差异（Limosani et al. 2011a, b）。
 
 相比将梦境比作一般醒来或特定清醒状态，如精神病，也有人试图将特定梦境现象与清醒状态的妄想进行比较。Gerrans（2012, 2013, 2014）专注于梦境中的角色误认和超熟悉感妄想（如弗雷戈利妄想，其中陌生人被错误地认定为家庭成员，以及 déjà vu），以此论证异常体验和错误的现实检验在妄想形成中都起到作用。Rosen（2015）分析了思维插入和听觉幻听的实例，这是精神分裂症的关键症状，以提出更广泛的问题，即与清醒状态相比，梦境中的代理感受到的改变。
 
@@ -359,7 +359,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 ## Bibliography
 
 * Aleman, A. and F. Larøi, 2008, *Hallucinations: The Science of Idiosyncratic Perception*, Washington, DC: American Psychological Association.
-* Andrillon, T., J. Windt, T. Silk, S. Drummond, M. Bellgrove, and N. Tsuchiya, 2019, “Does the mind wander when the brain takes a break? Local sleep in wakefulness, attentional lapses and mind-wandering”, *Frontiers in Neuroscience*, 13(949), doi:10.3389/fnins.2019.00949
+* Andrillon, T., J. Windt, T. Silk, S. Drummond, M. Bellgrove, and N. Tsuchiya, 2019, “Does the mind wander when the brain takes a break? Local sleep in wakefulness, attentional lapses and mind-wandering”, *Frontiers in Neuroscience*, 13(949), doi: 10.3389/fnins.2019.00949
 * Antrobus, J.S., 1990, “The Neurocognition of Sleep Mentation: Rapid Eye Movements, Visual Imagery, and Dreaming”, in *Sleep and Cognition*, R. Bootzin, J. Kihlstrom, and D. Schacter (eds.), Washington: American Psychological Association, pp. 3–24.
 * Aristotle, *On Dreams*, in Aristotle: *On the Soul. Parva Naturalia. On Breath*, (Loeb Classical Library No. 288), W.S. Hett (ed.), Cambridge, MA & London: Harvard University Press, 1986.
 * –––, *On Prophecy in Sleep*, in Aristotle: *On the Soul. Parva Naturalia. On Breath*, (Loeb Classical Library No. 288), W.S. Hett (ed.), Cambridge, MA & London: Harvard University Press, 1986.
@@ -385,7 +385,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Binz, C., 1878, *Über den Traum*, Bonn: Adolph Marcus.
 * Blanke, O. and T. Metzinger, 2009, “Full-Body Illusions and Minimal Phenomenal Selfhood”, *Trends in Cognitive Sciences*, 13(1): 7–13.
 * Block, N., 2007, “Consciousness, Accessibility, and the Mesh between Psychology and Neuroscience”, *Behavioral and Brain Sciences*, 30: 499–548.
-* Blumberg, M., 2010, “Beyond dreams: do sleep-related movements contribute to brain development?”, *Frontiers in Neurology*, 1(140), doi:10.3389/fneur.2010.00140
+* Blumberg, M., 2010, “Beyond dreams: do sleep-related movements contribute to brain development?”, *Frontiers in Neurology*, 1(140), doi: 10.3389/fneur.2010.00140
 * Blumberg, M., and A. Plumeau, 2016, “A new view of ‘dream enactment’ in REM sleep behavior disorder”, *Sleep Medicine Reviews*, 30: 34–42.
 * Bortolotti, L., 2009, *Delusions and Other Irrational Beliefs*, Oxford: Oxford University Press.
 * Bostrom, N., 2003, “Are We Living in a Computer Simulation?”, *The Philosophical Quarterly*, 53(211): 243–255.
@@ -415,7 +415,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Crowther, T., 2018, “Experience, dreaming, and the phenomenology of wakeful consciousness”, in F. Dorsch, F. MacPherson, & M. Nida-Rumelin (eds.), *Phenomenal Presence*, Oxford: Oxford University Press.
 * Currie, G., 2000, “Imagination, Delusion and Hallucination”, *Mind & Language*, 15(1), 168–183.
 * Currie, G. and I. Ravenscroft, 2002, *Recreative Minds: Imagination in Philosophy and Psychology*, Oxford: Clarendon Press.
-* D’Agostino, A., A. Castelnovo, and S. Scarone, 2013, “Dreaming and the Neurobiology of Self: Recent Advances and Implications for Psychiatry”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00680 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00680/full)]
+* D’Agostino, A., A. Castelnovo, and S. Scarone, 2013, “Dreaming and the Neurobiology of Self: Recent Advances and Implications for Psychiatry”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00680 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00680/full)]
 * Dang-Vu, T.T., M. Schabus, M. Desseilles, S. Schwartz, P. Maquet, 2007, “Neuroimaging of Sleep and Dreaming”, in Barrett and McNamara 2007a: 95–114.
 * Dement, W.C., 1999, *The Promise of Sleep. The Scientific Connection between Health, Happiness and a Good Night’s Sleep*, London: Pan Books.
 * Dement, W.C. and N. Kleitman, 1957, “The Relation of Eye Movements during Sleep to Dream Activity: An Objective Method for the Study of Dreaming”, *Journal of Experimental Psychology*, 53: 89–97.
@@ -436,11 +436,11 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Dresler, M., R. Wehrle, V.I. Spoormaker, S.P. Koch, F. Holsboer, A. Steiger, H. Obrig, P. Sämann, and M. Czisch, 2012, “Neural Correlates of Dream Lucidity Obtained from Contrasting Lucid versus Non-lucid REM Sleep: A Combined EEG/fMRI Case Study”, *Sleep*, 35(7): 1017–1020.
 * Driver, J., 2007, “Dream immorality”, *Philosophy*, 82(1): 5–22.
 * Dunlop, C.E.M. (ed.), 1977, *Philosophical Essays on Dreaming*. Ithaca & London: Cornell University Press.
-* Edwards, C.L., P.M. Ruby, J.E. Malinowski, P.D. Bennett, and M.T. Blagrove, 2013, “Dreaming and Insight”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00979 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00979/full)]
+* Edwards, C.L., P.M. Ruby, J.E. Malinowski, P.D. Bennett, and M.T. Blagrove, 2013, “Dreaming and Insight”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00979 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00979/full)]
 * Ellis, H., 1911, *The World of Dreams*, London: Constable & Company LTD.
 * Emmett, K., 1978, “Oneiric Experiences”, *Philosophical Studies*, 34(November): 445–450.
 * Erlacher, D., M. Schredl, and S. LaBerge, S., 2003, “Motor Area Activation during Dreamed Hand Clenching: A Pilot Study on EEG Alpha Band”, *Sleep and Hypnosis*, 5: 182–187.
-* Erlacher, D., M. Schädlich, T. Stumbrys, and M. Schredl, 2014, “Time for Actions in Lucid Dreams: Effects of Task Modality, Length, and Complexity”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.01013 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.01013/full)]
+* Erlacher, D., M. Schädlich, T. Stumbrys, and M. Schredl, 2014, “Time for Actions in Lucid Dreams: Effects of Task Modality, Length, and Complexity”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.01013 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.01013/full)]
 * Fazekas, P., and G. Nemeth, 2018, “Dream experiences and the neural correlates of perceptual consciousness and cognitive access”, *Philosophical Transactions of the Royal Society B* (Biological Sciences), 373(1755): 20170356.
 * Fazekas, P., G. Nemeth, and M. Overgaard, 2019, “White dreams are made of colours: What studying contentless dreams can teach about the neural basis of dreaming and conscious experiences”, *Sleep Medicine Reviews*, 43: 84–91.
 * ffytche, D.H., 2007, “Visual Hallucinatory Syndromes: Past, Present, and Future”, *Dialogues in Clinical Neuroscience*, 9(2): 173–189.
@@ -451,16 +451,16 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Fosse, M.J., R. Fosse, J.A. Hobson, and R.J. Stickgold, 2003, “Dreaming and Episodic Memory: A Functional Dissociation?”, *Journal of Cognitive Neuroscience*, 15: 1–9.
 * Foulkes, D., 1978, *A Grammar of Dreams*, New York: Basic Books.
 * –––, 1993a, “Children’s Dreaming”, in *Dreaming as Cognition*, C. Cavallero and D. Foulkes (eds.), New York: Harvester Wheatsheaf, pp. 114–132.
-* –––, 1993b, “Dreaming and REM Sleep”, *Journal of Sleep Research*, 2:199–202.
+* –––, 1993b, “Dreaming and REM Sleep”, *Journal of Sleep Research*, 2: 199–202.
 * –––, 1999, *Children’s Dreaming and the Development of Consciousness*, Cambridge, MA and London: Harvard University Press.
-* Fox, K.C.R., S. Nijeboer, E. Solomonova, G.W. Domhoff, and K. Christoff, 2013, “Dreaming as Mind Wandering: Evidence from Functional Neuroimaging and First-Person Content Reports”, *Frontiers in Human Neuroscience*, 7, doi:10.3389/fnhum.2013.00412 [[available online](http://journal.frontiersin.org/Journal/10.3389/fnhum.2013.00412/full)]
+* Fox, K.C.R., S. Nijeboer, E. Solomonova, G.W. Domhoff, and K. Christoff, 2013, “Dreaming as Mind Wandering: Evidence from Functional Neuroimaging and First-Person Content Reports”, *Frontiers in Human Neuroscience*, 7, doi: 10.3389/fnhum.2013.00412 [[available online](http://journal.frontiersin.org/Journal/10.3389/fnhum.2013.00412/full)]
 * Frankfurt, H.G., 1970, *Demons, Dreamers, and Madmen: The Defense of Reason in Descartes’s Meditations*, Princeton & Oxford: Princeton University Press.
 * Freud, S., 1899, *Die Traumdeutung*, Frankfurt am Main: Fischer Taschenbuch Verlag (2003).
 * –––, 1940, *Schriften über Träume und Traumdeutungen*, Frankfurt am Main: Fischer Taschenbuch Verlag (2003).
 * Galen, *On Diagnosis in Dreams*, L. Pearcy (ed.), <[available online](http://www.ucl.ac.uk/~ucgajpd/medicina%20antiqua/tr_GalDreams.html)>.
 * Gerrans, P., 2012, “Dream Experience and a Revisionist Account of Delusions of Misidentification”, *Consciousness and Cognition*, 21(1): 217–227.
 * –––, 2013, “Delusional Attitudes and Default Thinking”, *Mind & Language*, 28(1): 83–102.
-* –––, 2014, “Pathologies of Hyperfamiliarity in Dreams, Delusions and Déjà Vu”, *Frontiers in Psychology*, 5, doi:10.3389/fpsyg.2014.00097 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00097/full)]
+* –––, 2014, “Pathologies of Hyperfamiliarity in Dreams, Delusions and Déjà Vu”, *Frontiers in Psychology*, 5, doi: 10.3389/fpsyg.2014.00097 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00097/full)]
 * Globus, G.G., 1987, *Dream Life, Wake Life: The Human Condition Through Dreams*, New York: State University of New York Press.
 * Goblot, 1896, “Sur le souvenir des rêves”, *Revue philosophique*, *XLII*.
 * Gottesmann, C., 2006, “The Dreaming Sleep Stage: A New Neurobiological Model of Schizophrenia?”, *Neuroscience*, 140: 1105–1115.
@@ -468,7 +468,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Gregory, J.C., 1916, “Dreams as Psychical Explosions”, *Mind*, 25(98): 193–205.
 * –––, 1918, “The Dream of ‘Frustrated Effort’: A Suggested Explanation”, *Mind*, 27(105): 125–128.
 * Grundmann, T., 2002, “Die Struktur des skeptischen Traumarguments”, *Grazer Philosophische Studien*, 64: 57–81.
-* Hacking, I., 2001, “Dreams in Place”, *Journal of Aesthetics and Art Criticism*, 59(3):244–260.
+* Hacking, I., 2001, “Dreams in Place”, *Journal of Aesthetics and Art Criticism*, 59(3): 244–260.
 * Hall, C.S., 1981, “Do We Dream during Sleep? Evidence for the Globot Hypothesis”, *Perceptual and Motor Skills*, 53(1): 239–246.
 * Hartmann, E., 1998, *Dreams and Nightmares: The New Theory on the Origin and Meaning of Dreams*, Cambridge: Perseus Books.
 * Hearne, K., 1978, *Lucid Dreams: An Electro-Physiological and Psychological Study*, (Ph.D. thesis), University of Liverpool, England. [[Hearne 1978 available online](http://www.keithhearne.com/phd-download/)]
@@ -507,7 +507,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Kroker, K., 2007, *The Sleep of Others and the Transformations of Sleep Research*, Toronto: University of Toronto Press.
 * LaBerge, S., 2007, “Lucid Dreaming”, in Barrett and McNamara 2007a: 307–328.
 * LaBerge, S., L.E. Nagel, W.C. Dement, and V.P. Zarcone, 1981, “Lucid Dreaming Verified by Volitional Communication during REM Sleep”, *Perceptual and Motor Skills*, 52: 727–732.
-* LaBerge, S., B. Baird, and P. Zimbardo, 2018, “Smooth tracking of visual targets distinguishes lucid REM sleep dreaming and waking perception from imagination”, *Nature Communications*, 9(1), doi:10.1038/s41467-018-05547-0
+* LaBerge, S., B. Baird, and P. Zimbardo, 2018, “Smooth tracking of visual targets distinguishes lucid REM sleep dreaming and waking perception from imagination”, *Nature Communications*, 9(1), doi: 10.1038/s41467-018-05547-0
 * Leclair-Visonneau, L., D. Oudiette, B. Gaymard, S. Leu-Semenescu, and I. Arnulf, 2010, “Do the Eyes Scan Dream Images during Rapid Eye Movement Sleep? Evidence from the Rapid Eye Movement Sleep Behaviour Disorder Model”, *Brain*, 133(6): 1737–1746.
 * Leibniz, G.W., 1880, *Die Philosophischen Schriften*, Berlin: Weidmannsche Buchhandlung.
 * –––, *Philosophical Papers and Letters*, L.E. Loemker (ed.), Chicago: University of Chicago Press, 1956.
@@ -531,8 +531,8 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * –––, 2005b, *The Power of Movies: How Screen and Mind Interact*, New York: Vintage Books.
 * Metzinger, T., 2003, *Being No One: The Self-Model Theory of Subjectivity*, Cambridge, MA & London: MIT Press.
 * –––, 2009, *The Ego Tunnel: The Science of the Mind and the Myth of the Self*, New York: Basic Books.
-* –––, 2013a, “The Myth of Cognitive Agency: Subpersonal Thinking as a Cyclically Recurring Loss of Mental Autonomy”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00931 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00931/full)]
-* –––, 2013b, “Why Are Dreams Interesting for Philosophers? The Example of Minimal Phenomenal Selfhood, Plus an Agenda for Future Research”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00746 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00746/full)]
+* –––, 2013a, “The Myth of Cognitive Agency: Subpersonal Thinking as a Cyclically Recurring Loss of Mental Autonomy”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00931 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00931/full)]
+* –––, 2013b, “Why Are Dreams Interesting for Philosophers? The Example of Minimal Phenomenal Selfhood, Plus an Agenda for Future Research”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00746 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00746/full)]
 * –––, 2015, “M-autonomy”, *Journal of Consciousness Studies*, 22(11–12): 270–302.
 * Montaigne, M. de, “The Apology for Raymond Sebond”, in *Readings in the History of Philosophy*, R.M. Popkin (ed.), *The Philosophy of the 16th and 17th Centuries*, Toronto: Collier-Macmillan (1966): 70–81.
 * Moriarty, M. (ed.), 2008, *Meditations, Objections, and Replies*, Oxford: Oxford University Press.
@@ -546,7 +546,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Newman, L., 2019, “Descartes’ Epistemology”, The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2019/entries/descartes-epistemology/>.
 * Nielsen, T.A., 2000, “A Review of Mentation in REM and NREM Sleep: ‘Covert’ REM Sleep as a Possible Reconciliation of Two Opposing Models”, *Behavioral and Brain Sciences*, 23(6): 851–866.
 * –––, 2010, “Dream Analysis and Classification: The Reality Simulation Perspective”, in *Principles and Practice of Sleep Medicine*, M. Kryger, T. Roth, and W.C. Dement (eds.), New York: Elsevier, pp. 595–603.
-* –––, 2017, “Microdream neurophenomenology”, *Neuroscience of Consciousness*, 1: nix001; doi:10.1093/nc/nix001
+* –––, 2017, “Microdream neurophenomenology”, *Neuroscience of Consciousness*, 1: nix001; doi: 10.1093/nc/nix001
 * Nielsen, T.A. and J. Lara-Carrasco, 2007, “Nightmares, Dreaming, and Emotion Regulation: A Review”, in Barrett and McNamara 2007b: 253–284.
 * Nielsen, T.A. and P. Stenstrom, 2005, “What Are the Memory Sources of Dreaming?”, *Nature*, 437(7063): 1286–1289.
 * Nielsen, T.A., L. Ouellet, and A.L. Zadra, 1995, “Pressure Stimulation during REM Sleep Alters Dream Limb Activity and Body Bizarreness”, *Sleep Research*, 24: 134.
@@ -556,13 +556,13 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Noreika, V., K. Valli, H. Lahtela, and A. Revonsuo. “Early-night serial awakenings as a new paradigm for studies on NREM dreaming”, *International Journal of Psychophysiology*, 74(1): 14–18.
 * O’Shaughnessy, B., 2002, “Dreaming”, *Inquiry*, 45: 399–432.
 * Pace-Schott, E.F., 2007, “The Frontal Lobes and Dreaming”, in Barrett and McNamara 2007b: 115–154.
-* –––, 2013, “Dreaming as a Story-Telling Instinct”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00159 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00159/full)]
+* –––, 2013, “Dreaming as a Story-Telling Instinct”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00159 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00159/full)]
 * Pagel, J.F., M. Blagrove, R. Levin, B. States, B. Stickgold, and S. White, 2001, “Definitions of Dream: A Paradigm for Comparing Field Descriptive Specific Studies of Dream”, *Dreaming*, 11: 195–202.
 * Pantani, M., A. Tagini, and A. Raffone, 2018, “Phenomenal consciousness, access consciousness and self across waking and dreaming: bridging phenomenology and neuroscience”, *Phenomenology and the Cognitive Sciences* 17(1): 175–197.
-* Perogamvros, L., T.T. Dang-Vu, M. Desseilles, S. Schwartz, 2013, “Sleep and Dreaming Are for Important Matters”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00474 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00474/full)]
+* Perogamvros, L., T.T. Dang-Vu, M. Desseilles, S. Schwartz, 2013, “Sleep and Dreaming Are for Important Matters”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00474 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00474/full)]
 * Plato, *Phaedrus*, B. Jowett (ed.), in *The Internet Classics Archive*, [available online](http://classics.mit.edu/Plato/phaedrus.html).
 * –––, *Theaetetus*, B. Jowett (ed.), in *The Internet Classics Archive*, [available online](http://classics.mit.edu/Plato/theatu.html).
-* Prasad, H.S., 2000, “Dreamless Sleep and Soul: a controversy between Vedānta and Buddhism”, *Asian Philosophy*, 10(1): 61–73. doi:10.1080/09552360050001770
+* Prasad, H.S., 2000, “Dreamless Sleep and Soul: a controversy between Vedānta and Buddhism”, *Asian Philosophy*, 10(1): 61–73. doi: 10.1080/09552360050001770
 * Putnam, H., 1981, “Brains in a Vat”, in *Reason, Truth and History*, H. Putnam (ed.), Cambridge & New York: Cambridge University Press, pp. 1–21.
 * –––, 1962 [1986], “Dreaming and ‘Depth Grammar’”, in *Analytical Philosophy First Series*, R. Butler (ed.), Oxford: Basil Blackwell & Mott; page reference is to the reprint in H. Putnam (ed.), 1986, *Philosophical Papers, Vol. 2.: Mind, Language and Reality*, Cambridge: University Press, pp. 304–324.
 * Rechtschaffen, A. and C. Buchignani, 1992, “The Visual Appearance of Dreams”, in *The Neuropsychology of Sleep and Dreaming*, J.S. Antrobus and M. Bertini (eds.), Hillsdale, N.J.: Lawrence Erlbaum, pp. 143–156.
@@ -571,14 +571,14 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Revonsuo, A., 2000, “The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming”, *Behavioral and Brain Sciences*, 23: 877–901.
 * –––, 2005, “The Self in Dreams”, in *The Lost Self. Pathologies of the Brain and Identity*, T.E. Feinberg and J.P. Keenan (eds.), Oxford: Oxford University Press, pp. 206–219.
 * –––, 2006, *Inner Presence: Consciousness as a Biological Phenomenon*, Cambridge, MA & London: MIT Press.
-* Revonsuo, A. and C. Salmivalli, 1995, “A Content Analysis of Bizarre Elements in Dreams”, *Dreaming*, 5:169–187.
+* Revonsuo, A. and C. Salmivalli, 1995, “A Content Analysis of Bizarre Elements in Dreams”, *Dreaming*, 5: 169–187.
 * Revonsuo, A. and K. Tarkko, 2002, “Binding in Dreams. The Bizarreness of Dream Images and the Unity of Consciousness”, *Journal of Consciousness Studies*, 9: 3–24.
 * Revonsuo, A., J. Tuominen, and K. Valli, 2015, “The Avatars in the Machine – Dreaming as a Simulation of Social Reality”, in T. Metzinger and J. M. Windt (eds.), *Open MIND*, Frankfurt am Main: MIND Group.
-* Rosen, M.G., 2013, “What I Make up when I Wake up: Anti-Experience Views and Narrative Fabrication of Dreams”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00514 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00514/full)]
+* Rosen, M.G., 2013, “What I Make up when I Wake up: Anti-Experience Views and Narrative Fabrication of Dreams”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00514 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00514/full)]
 * –––, 2015, “I’m thinking your thoughts while I sleep: Sense of agency and ownership over dream thought”, *Psychology of Consciousness: Theory, Research, and Practice*, 2(3): 326–339.
 * –––, 2018a, “Enactive or inactive? Cranially envatted dream experience and the extended conscious mind”, *Philosophical Explorations*, 21(2): 295–318.
 * –––, 2018b, “How bizarre? A pluralist approach to dream content”, *Consciousness and Cognition*, 62: 148–162.
-* –––, forthcoming, “Dreaming of a stable world: vision and action in sleep”, first online 22 February 2019 *Synthese*, doi:10.1007/s11229-019-02149-1
+* –––, forthcoming, “Dreaming of a stable world: vision and action in sleep”, first online 22 February 2019 *Synthese*, doi: 10.1007/s11229-019-02149-1
 * Rosen, M.G. and J. Sutton, 2013, “Self-Representation and Perspectives in Dreams”, *Philosophy Compass*, 8(11): 1041–1053.
 * Russell, B., 1914, *Our Knowledge of the External World as a Field for Scientific Method in Philosophy*, London & New York: Routledge (2009).
 * –––, 1948, *Human Knowledge: It’s Scope and Limits*, London & New York: Routledge (2009).
@@ -606,7 +606,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * –––, 2014b, “Not a HOT dream”, In Consciousness inside and out: Phenomenology, neuroscience, and the nature of experience, Springer, Dordrecht, pp. 415–432.
 * Sextus Empiricus, *Outlines of Pyrrhonism*, R.G. Bury (ed.), Cambridge, MA: Harvard University Press (1987).
 * Siclari, F., and G. Tononi, 2017, “Local aspects of sleep and wakefulness”, *Current Opinion in Neurobiology*, 44: 222–227.
-* Siclari, F., J. LaRocque, B. Postle, and G. Tononi, 2013, “Assessing sleep consciousness within subjects using a serial awakening paradigm”, *Frontiers in psychology*, 4, doi:10.3389/fpsyg.2013.00542
+* Siclari, F., J. LaRocque, B. Postle, and G. Tononi, 2013, “Assessing sleep consciousness within subjects using a serial awakening paradigm”, *Frontiers in psychology*, 4, doi: 10.3389/fpsyg.2013.00542
 * Siclari, F., B. Baird, L. Perogamvros, G. Bernardi, J. LaRocque, B. Riedner, M. Boly, B. Postle, and G. Tononi, 2017, “The neural correlates of dreaming”, *Nature Neuroscience*, 20(6): 872.
 * Siegler, F.A., 1967, “Remembering Dreams”, *The Philosophical Quarterly*, 17: 14–24.
 * Silberer, H., 1919, *Der Traum: Einführung in die Traumpsychologie*, Stuttgart: Ferdinand Enke.
@@ -639,7 +639,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Voss, U. and A. Hobson, 2015, “What is the state-of-the-art on lucid dreaming? – Recent advances and questions for future research”, in T. Metzinger & J. M. Windt (eds.), *Open MIND*, Frankfurt a. MIND Group.
 * Voss, U., R. Holzmann, A. Hobson, W. Paulus, J. Koppehele-Gossel, A. Klimke, and M. Nitsche, 2014, “Induction of self awareness in dreams through frontal low current stimulation of gamma activity”, *Nature Neuroscience*, 17(6): 810.
 * Walker, M.P., 2009, “Sleep-Dependent Memory Processing”, in Stickgold and Walker 2009: 230–240.
-* Wamsley, E.J., 2013, “Dreaming, Waking Conscious Experience, and the Resting Brain: Report of Subjective Experience as a Tool in the Cognitive Neurosciences”, *Frontiers in Psychology*, 4, doi:10.3389/fpsyg.2013.00637 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00637/full)]
+* Wamsley, E.J., 2013, “Dreaming, Waking Conscious Experience, and the Resting Brain: Report of Subjective Experience as a Tool in the Cognitive Neurosciences”, *Frontiers in Psychology*, 4, doi: 10.3389/fpsyg.2013.00637 [[available online](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00637/full)]
 * Wamsley, E.J. and R. Stickgold, 2009, “Incorporation of Waking Events into Dreams”, in Stickgold and Walker 2009: 330–336.
 * –––, 2010, “Dreaming and Offline Memory Processing”, *Current Biology*, 20(23): R1010–1013.
 * Wamsley, E.J., M. Tucker, J.D. Payne, J.A. Benavides, and R. Stickgold, 2010, “Dreaming of a Learning Task Is Associated with Enhanced Sleep-Dependent Memory Consolidation”, *Current Biology*, 20(9): 850–855.
@@ -649,7 +649,7 @@ Augustine 认为梦境与清醒之间的鸿沟究竟是什么，这允许不同�
 * Williams, B., 1978, *Descartes: The Project of Pure Enquiry*, Middlesex: Pelican Books.
 * Windt, J.M., 2010, “The Immersive Spatiotemporal Hallucination Model of Dreaming”, *Phenomenology and the Cognitive Sciences*, 9: 295–316.
 * –––, 2011, “Altered Consciousness in Philosophy”, in *Altering Consciousness. Multidisciplinary Perspectives, Volume 1: History, Culture, and the Humanities*, E. Cardeña and M. Winkelman (eds.), Santa Barbera, Denver & Oxford: Praeger, pp. 229–254.
-* –––, 2013, “Reporting Dream Experience: Why (Not) to Be Skeptical about Dream Reports”, *Frontiers in Human Neuroscience*, 7, doi:10.3389/fnhum.2013.00708 [[available online](http://journal.frontiersin.org/Journal/10.3389/fnhum.2013.00708/full)]
+* –––, 2013, “Reporting Dream Experience: Why (Not) to Be Skeptical about Dream Reports”, *Frontiers in Human Neuroscience*, 7, doi: 10.3389/fnhum.2013.00708 [[available online](http://journal.frontiersin.org/Journal/10.3389/fnhum.2013.00708/full)]
 * –––, 2015a, Dreaming: A Conceptual Framework for Philosophy of Mind and Empirical Research. Cambridge, MA: MIT Press.
 * –––, 2015b, “Just in time – dreamless sleep experience as pure subjective temporality”, in T. Metzinger & J.M. Windt (eds.), *Open MIND*, Frankfurt am Main: MIND Group.
 * –––, 2018, “Predictive brains, dreaming selves, sleeping bodies: how the analysis of dream movement can inform a theory of self-and world-simulation in dreams”, *Synthese*, 195(6): 2577–2625.
