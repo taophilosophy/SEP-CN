@@ -239,7 +239,7 @@ Trivially, *false* propositions cannot be proved true. Are there any *true* prop
 
 一个可以模拟复杂的谎言悖论，类似于惊喜测试悖论。但这个复杂的谎言变体并不是一个认知悖论。因为这些悖论是建立在真理语义概念上，而不是认知概念上。
 
-### 5.2 The “Knowability Paradox”5.2 “可知性悖论”
+### 5.2 The“Knowability Paradox”5.2“可知性悖论”
 
 Frederic Fitch (1963) 报告称，他在 1945 年首次从一份他从未发表的手稿的审稿报告中得知了这个不可知真理的证明。多亏了 Joe Salerno（2009）的档案研究，我们现在知道那位审稿人是 Alonzo Church。
 

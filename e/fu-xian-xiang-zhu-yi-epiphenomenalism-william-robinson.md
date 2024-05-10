@@ -20,7 +20,7 @@
 
 进一步支持副现象主义的证据可以从事实中得出，即威廉·温特（1912）指出，“每种简单感觉都与非常复杂的外周和中枢神经过程结合在一起”，再加上行为的原因同样是复杂的神经事件。这一事实使得自然而然地寻找导致行为的因果链中的复杂事件；这些事件可以在为产生简单感觉所需的神经事件中找到。感觉本身在没有比它们自身更复杂的神经效应之前无法对行为产生影响。因此，反副现象主义立场要求我们更倾向于假设简单感觉导致（相对）复杂的神经事件，而不是假设复杂的神经事件（无论如何都需要用于感觉的因果关系）足以导致产生行为所需的神经事件。
 
-## 2. 传统论证 (B) Con (with Epiphenomenalists’ Responses)
+## 2. 传统论证 (B) Con (with Epiphenomenalists’Responses)
 
 ### 明显的荒谬
 
@@ -58,7 +58,7 @@ M↑P1→P2→P3→⋯
 
 拒绝副现象主义最有力的理由是认为它与我们自己心灵的认知不相容，因此也与知道副现象主义为真不相容。（有一种变体认为，如果副现象主义为真，我们甚至无法成功地指称我们自己的心灵。有关此异议，请参阅 Bailey 2006 和 Robinson 2012 的讨论。）如果这些破坏性主张可以得到证实，那么副现象主义者至少陷入了一个实际矛盾之中，在这种矛盾中，他们必须声称知道，或者至少相信，一个暗示他们无法有理由相信的观点。此外，除非副现象主义者能够一贯地声称了解自己的心灵，否则他们无法对 2.3 中提出的关于其他心灵异议的回应。（请参阅 Walton，1989。）（许多作者提出了这种异议的某种版本。有关这一论点的完整陈述以及有关副现象主义的其他几个论点，请参阅 Chalmers 1996。有关最新的强有力版本，请参阅 DeBrigard 2014；Moore 2012（Robinson 2013 的回应）；以及 Moore 2014。有关最新讨论，请参阅 Baysan 2021。）
 
-支持毁灭性主张的论据是，(i) 知晓自己的心理事件需要这些事件引起自己的知识，但是 (ii) 副现象主义否认心理事件的物理效应。因此，要么我们无法知晓自己的心理事件，要么我们对它们的知识不能是导致我们谈论自己心理事件的明显物理事件。因此，假设 S 是一个副现象主义者，并且 S 说出“我非常痛苦。” S 坚持认为这种痛苦并没有引起这种说法。但是，看起来 S 无论是否正在经历痛苦，都会做出相同的说法。如果是这样，那么 S 对于自己疼痛的证词对我们和 S 自己都是毫无价值的。它们不能被视为 S 对疼痛的任何知识（如果 S 的副现象主义观点是正确的话）。事实上，在副现象主义观点下，我们审查的所有副现象主义论据和反驳反论的论据，即使我们都是僵尸，也可以提供，即使我们都具有我们说话的物理原因，完全没有任何心理生活。
+支持毁灭性主张的论据是，(i) 知晓自己的心理事件需要这些事件引起自己的知识，但是 (ii) 副现象主义否认心理事件的物理效应。因此，要么我们无法知晓自己的心理事件，要么我们对它们的知识不能是导致我们谈论自己心理事件的明显物理事件。因此，假设 S 是一个副现象主义者，并且 S 说出“我非常痛苦。”S 坚持认为这种痛苦并没有引起这种说法。但是，看起来 S 无论是否正在经历痛苦，都会做出相同的说法。如果是这样，那么 S 对于自己疼痛的证词对我们和 S 自己都是毫无价值的。它们不能被视为 S 对疼痛的任何知识（如果 S 的副现象主义观点是正确的话）。事实上，在副现象主义观点下，我们审查的所有副现象主义论据和反驳反论的论据，即使我们都是僵尸，也可以提供，即使我们都具有我们说话的物理原因，完全没有任何心理生活。
 
 副现象主义自我矛盾的论点如上所述的方式是基于这样一个前提：对心理事件的认知需要由该心理事件引起。但副现象主义者可以拒绝这个前提而不至于荒谬。看待如何做到这一点的一种方式涉及考虑图 2 中的互动图，其中显示 P1 直接导致 M 但不导致 P2，而 M 直接导致 P2。（直接导致是一种不及物关系。因果关系（在没有修饰语的情况下使用）是传递的：如果存在连接它们的一系列直接原因，无论多长，事件就会在因果上相关。)
 
@@ -70,7 +70,7 @@ M↑↘P1P2→P3→⋯
 
 批评副现象主义的人当然可以指出，有一种性质是互动主义所赋予 P3 的，而副现象主义没有赋予，那就是间接由 M 引起的性质。然而，副现象主义者可能认为，这种性质与知识之间的直观联系要比与 M 的知识以及 P3 不会发生的事实之间的联系要弱得多。事实上，他们可能认为，间接因果关系的相关性仅仅在于确保 P3 不会发生，除非 M 最近发生过。然后，他们可以重申，确保这种条件成立的另一种方式是副现象主义所肯定的在图 1 中示意的一组关系。
 
-Epiphenomenalism to 副现象主义。The foregoing way of responding to the self-stultification argument is further explained and defended in Robinson (1982b, 2013; see also 2006a). An alternative response can be found in Chalmers 1996 (see also Nagasawa 2010). Chalmers’s property-dualistic view holds that there is more to a person than just a brain and a body. It allows for persons to be directly acquainted with experiences, and it is this direct acquaintance, rather than any causal relation, that justifies our beliefs about experiences. On this view, experiences are partially constitutive of beliefs about experiences, and “the justification of my belief [about experiences] accrues not just in virtue of my physical features but in virtue of some of my nonphysical features — namely the experiences themselves” (Chalmers 1996, p. 198). In supplying non-causal relations to support the claim to knowledge of experiences, this view disconnects the knowledge question from the question of how things stand causally, and thus avoids the self-stultification argument.
+Epiphenomenalism to 副现象主义。The foregoing way of responding to the self-stultification argument is further explained and defended in Robinson (1982b, 2013; see also 2006a). An alternative response can be found in Chalmers 1996 (see also Nagasawa 2010). Chalmers’s property-dualistic view holds that there is more to a person than just a brain and a body. It allows for persons to be directly acquainted with experiences, and it is this direct acquaintance, rather than any causal relation, that justifies our beliefs about experiences. On this view, experiences are partially constitutive of beliefs about experiences, and“the justification of my belief [about experiences] accrues not just in virtue of my physical features but in virtue of some of my nonphysical features — namely the experiences themselves” (Chalmers 1996, p. 198). In supplying non-causal relations to support the claim to knowledge of experiences, this view disconnects the knowledge question from the question of how things stand causally, and thus avoids the self-stultification argument.
 
 第三种对自我愚蠢的回应始于观察到感官质量的术语（颜色、口味、音高和音色等词语）必须被学习。非常合理的是，这种学习取决于（a）当前对象的属性与周围成年人言语这些属性的相关性；因此，（b）取决于由这些对象的属性引起的大脑事件类型与成年人言语听觉引起的大脑事件类型之间的相关性。它也很合理地取决于（c）大脑对（b）中大脑事件相关性的敏感性。副现象主义理论的一部分是，（b）中提到的第一种大脑事件包括引起特定类型感觉的原因，并且在学习之后，这些相同的大脑事件在因果上决定了感觉报告中谓词的产生。这些关系的结合确保只要大脑条件正常，感觉报告将确保正确识别由报告中的谓词标准描述的对象通常引起的感觉类型。这种保证支持了我们对自己所经历的感觉类型有所了解的主张。
 

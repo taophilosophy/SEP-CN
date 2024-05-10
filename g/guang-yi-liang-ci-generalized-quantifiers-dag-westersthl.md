@@ -93,7 +93,7 @@ Q(B,A)
 
 这里还有一些其他的广义量词：
 
-(∃≥5)M={A⊆M:|A|≥5}(|X| is the size orcardinality of X)(∃=3)M={A⊆M:|A|=3}(广义量词 0)M={A⊆M:A is infinite}(广义量词 R)M={A⊆M:|A|>|M−A|} (the “Rescherquantifier”)(广义量词 even)M={A⊆M:|A| is even}
+(∃≥5)M={A⊆M:|A|≥5}(|X| is the size orcardinality of X)(∃=3)M={A⊆M:|A|=3}(广义量词 0)M={A⊆M:A is infinite}(广义量词 R)M={A⊆M:|A|>|M−A|} (the“Rescherquantifier”)(广义量词 even)M={A⊆M:|A| is even}
 
 现在我们对广义量词有了一个明确的概念，其中∀和∃是其中的实例，还有无数其他的实例。此外，我们看到如何将一阶逻辑 FO 扩展到逻辑 FO(Q)，方法是通过在形成规则中添加条款(5a)，并在真值定义中添加条款(5b-i)。同样，如果添加多个广义量词：FO(Q1,…,Qn)。
 

@@ -70,7 +70,7 @@ Good-based theories of desire are motivated by considerations so different from 
 
 ### 1.4 Attention-Based Theories of Desire
 
-Another evaluatively loaded theory of desire has been proposed by T.M. Scanlon. Dubbed a theory of desire in the ‘directed-attention’ sense, this theory links desires to reasons, rather than goodness. But the theory does so through its characterization of how desire plays its most important role, which is its role in directing the attention of the subject who desires. 基于好的欲望理论受到的动机与基于行动的欲望理论（或基于快乐的理论）截然不同，很少见到支持前者的人攻击后者，除了 Lewis 的非常技术性的工作及随之而来的文献。因此，在哲学文献中，对基于好的欲望理论的困难并没有得到充分探讨。这类理论的一个难题可能是解释欲望与非人类动物的关系。一方面，老鼠似乎渴望远离猫，渴望与其他老鼠在一起等等。另一方面，似乎老鼠并不代表任何好的东西（它们似乎缺乏善的概念，也缺乏一种感知风格的善的表征，这种表征将很好地生成这样一个概念）。但如果老鼠可以在不代表好的情况下渴望，那么人类为什么会不同呢？目前尚未充分探讨解决这类难题的选择。
+Another evaluatively loaded theory of desire has been proposed by T.M. Scanlon. Dubbed a theory of desire in the‘directed-attention’sense, this theory links desires to reasons, rather than goodness. But the theory does so through its characterization of how desire plays its most important role, which is its role in directing the attention of the subject who desires. 基于好的欲望理论受到的动机与基于行动的欲望理论（或基于快乐的理论）截然不同，很少见到支持前者的人攻击后者，除了 Lewis 的非常技术性的工作及随之而来的文献。因此，在哲学文献中，对基于好的欲望理论的困难并没有得到充分探讨。这类理论的一个难题可能是解释欲望与非人类动物的关系。一方面，老鼠似乎渴望远离猫，渴望与其他老鼠在一起等等。另一方面，似乎老鼠并不代表任何好的东西（它们似乎缺乏善的概念，也缺乏一种感知风格的善的表征，这种表征将很好地生成这样一个概念）。但如果老鼠可以在不代表好的情况下渴望，那么人类为什么会不同呢？目前尚未充分探讨解决这类难题的选择。
 
 > 对于一个生物欲望 p，是指 p 的想法一直以有利的方式出现在生物的脑海中，以致其注意力坚定地被引向那些被视为支持 p 的考虑。
 

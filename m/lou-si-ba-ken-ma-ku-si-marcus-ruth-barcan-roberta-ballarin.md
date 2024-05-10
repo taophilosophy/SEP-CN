@@ -1,6 +1,6 @@
 # 露丝·巴肯·马库斯 Marcus, Ruth Barcan (Roberta Ballarin)
 
-*首次发表于2024年3月5日*
+*首次发表于 2024 年 3 月 5 日*
 
 露丝·巴肯·马库斯（1921-2012）是二十世纪下半叶最有影响力的哲学家之一。她在 1946 年的第一篇发表作品中首次构建了量化模态逻辑的形式系统\[1]。她在量化模态逻辑方面的开创性工作对于本质逻辑的初步发展起到了至关重要的作用。它还为模态形而上学的产生和发展奠定了基础，这是一个富有成果的研究领域，她在其中也做出了重要的哲学贡献。马库斯的有影响力的哲学工作超越了逻辑和形而上学。她在认识论方面发表了重要的著作，涉及信念和理性，以及伦理学方面的道德困境和义务逻辑，并对斯宾诺莎和罗素的学术研究做出了贡献。她的哲学观点——关于语言、本质主义、信念和道德困境——深受自然主义的影响，避免了理性主义的理想化。
 
@@ -12,13 +12,13 @@
 
 ## 1. 生活
 
-关于 露丝·巴肯·马库斯个人和职业生涯的主要书面信息来源是她在 2009 年 12 月 29 日东部 APA 会议上发表的杜威讲座《一个哲学家的使命》（马库斯2010）。
+关于 露丝·巴肯·马库斯个人和职业生涯的主要书面信息来源是她在 2009 年 12 月 29 日东部 APA 会议上发表的杜威讲座《一个哲学家的使命》（马库斯 2010）。
 
-马库斯（Marcus）于1921年8月2日出生在纽约，原名露丝·夏洛特·巴尔坎（Ruth Charlotte Barcan），是东欧血统的世俗犹太人的女儿。她是三个女儿中的第三个，成长在布朗克斯的一个活跃的社会主义家庭中。她将1930年描述为一个灾难性的年份，她的父亲在大萧条期间去世，使这个全女性家庭陷入经济和情感困境，但也更自由地追随非传统的道路。马库斯从自己的回忆中浮现出一个活泼、难以控制、运动能力强和聪明的孩子，对知识有着贪婪的渴望。高中毕业后，她选择了纽约大学，而不是像人们预期的那样去女子学院。在纽约大学，她主修哲学和数学。当时对她影响最大的教师是J.C.C.麦金西，他清楚地意识到她的才华，并在高级数理逻辑方面给予她辅导。她对C.I.刘易斯的模态系统产生了兴趣，麦金西建议她在F.B.菲奇的指导下继续深造。她于1942年开始攻读耶鲁大学的研究生课程，并于1946年获得博士学位。在耶鲁大学，她遇到了她未来的丈夫朱尔斯·A·马库斯，当时他是一名物理学研究生，和她一样是一名出色的击剑手。他们于1942年结婚，育有四个孩子，并于1976年离婚。当时，耶鲁大学接受女性进入研究生院，但不接受女性本科生。马库斯回忆起女性助教被禁止进入她们协助的本科课程的教室的矛盾情况，以及只有男性可以进入的图书馆房间的尴尬。在这种歧视环境中，她仍然当选为哲学学生俱乐部的主席。她回忆说，她收到了系主任的一封信，建议她拒绝这个职位，并且不得不克服作为一个女性协会主席面临的后勤困难。 面对这样的困难，她的态度似乎是一种健康的漠视。马库斯在 1946 年完成了她的博士论文《严格的功能演算》，同年她开始在《符号逻辑杂志》上发表其中的部分文章，由阿隆佐·丘奇担任编辑。
+马库斯（Marcus）于 1921 年 8 月 2 日出生在纽约，原名露丝·夏洛特·巴尔坎（Ruth Charlotte Barcan），是东欧血统的世俗犹太人的女儿。她是三个女儿中的第三个，成长在布朗克斯的一个活跃的社会主义家庭中。她将 1930 年描述为一个灾难性的年份，她的父亲在大萧条期间去世，使这个全女性家庭陷入经济和情感困境，但也更自由地追随非传统的道路。马库斯从自己的回忆中浮现出一个活泼、难以控制、运动能力强和聪明的孩子，对知识有着贪婪的渴望。高中毕业后，她选择了纽约大学，而不是像人们预期的那样去女子学院。在纽约大学，她主修哲学和数学。当时对她影响最大的教师是 J.C.C.麦金西，他清楚地意识到她的才华，并在高级数理逻辑方面给予她辅导。她对 C.I.刘易斯的模态系统产生了兴趣，麦金西建议她在 F.B.菲奇的指导下继续深造。她于 1942 年开始攻读耶鲁大学的研究生课程，并于 1946 年获得博士学位。在耶鲁大学，她遇到了她未来的丈夫朱尔斯·A·马库斯，当时他是一名物理学研究生，和她一样是一名出色的击剑手。他们于 1942 年结婚，育有四个孩子，并于 1976 年离婚。当时，耶鲁大学接受女性进入研究生院，但不接受女性本科生。马库斯回忆起女性助教被禁止进入她们协助的本科课程的教室的矛盾情况，以及只有男性可以进入的图书馆房间的尴尬。在这种歧视环境中，她仍然当选为哲学学生俱乐部的主席。她回忆说，她收到了系主任的一封信，建议她拒绝这个职位，并且不得不克服作为一个女性协会主席面临的后勤困难。 面对这样的困难，她的态度似乎是一种健康的漠视。马库斯在 1946 年完成了她的博士论文《严格的功能演算》，同年她开始在《符号逻辑杂志》上发表其中的部分文章，由阿隆佐·丘奇担任编辑。
 
 从 1944 年开始，马库斯跟随她的丈夫，他在物理学方面追求学术事业。1947 年，他们搬到了芝加哥，在那里她获得了美国大学妇女协会的博士后奖学金，并有机会与鲁道夫·卡尔纳普一起研究模态和量化。1949 年，她的丈夫被聘请到西北大学，他们搬到了埃文斯顿。马库斯报告说，当时西北大学有一项反裙带关系的政策，不允许正式任命教职人员的配偶，因此她在接下来的几年里没有寻求正式的全职学术职位。她取而代之担任各种兼职和访问职位，同时继续研究内涵性和模态语言的解释。1953 年，她获得了古根海姆奖学金。除了卡尔纳普，马库斯回忆起与芝加哥大学的伦纳德·林斯基以及那些年访问芝加哥的大卫·卡普兰和亚瑟·普赖尔进行的哲学上富有成果的交流。同年，她在波士顿科学哲学研讨会上发表了题为《模态性和内涵语言》的论文，并与奎因、克里普基、费勒斯达尔和麦卡锡进行了讨论。1962 年，她在著名的赫尔辛基“模态和多值逻辑研讨会”上发表了一篇关于集合和属性的论文。1964 年，伊利诺伊大学开设了芝加哥校区，马库斯被聘为该校新成立的哲学系主任。在六年的时间里，她在建设一个强大的研究生部门中发挥了重要作用。从 1970 年到 1973 年，她担任西北大学的教授。
 
-1973年，马库斯同意加入并帮助重建耶鲁大学哲学系，她形容这个系是不稳定而不平衡的，但也是她的学术家园，尽管有其他机构的诱人竞争性聘请和频繁的临时职位旅行，她从未离开过这个家。马库斯在她的领域中已经建立了卓越的哲学声誉，成为该领域的重要人物。在她职业生涯的其余时间里，她获得了许多奖项、学者奖金和荣誉，如1986年法国学院奖章、1995年伊利诺伊大学人文学荣誉博士学位和2000年耶鲁大学研究生院的威尔伯·克罗斯奖章。她是2007年APA奎因奖（Quinn Prize）的首位获得者，该奖表彰对该行业的服务，并且是2008年分析哲学杰出作品Lauener奖的首位女性获得者。马库斯于1992年从耶鲁大学退休，但仍活跃于该行业，并在加利福尼亚大学尔湾分校担任常任一学期访问教授职位。除了在伊利诺伊大学芝加哥分校和耶鲁大学建立哲学系的关键角色外，马库斯在整个职业生涯中致力于为该行业服务。值得注意的是，从1961年开始，她在美国哲学协会任职了15年，先是担任中央分会的秘书，然后担任主席，最后担任全国董事会主席（1977年至1983年）。她还担任过象征逻辑学协会的副主席（1980年至1983年）和主席（1983年至1986年）。她于2012年2月19日在纽黑文去世。
+1973 年，马库斯同意加入并帮助重建耶鲁大学哲学系，她形容这个系是不稳定而不平衡的，但也是她的学术家园，尽管有其他机构的诱人竞争性聘请和频繁的临时职位旅行，她从未离开过这个家。马库斯在她的领域中已经建立了卓越的哲学声誉，成为该领域的重要人物。在她职业生涯的其余时间里，她获得了许多奖项、学者奖金和荣誉，如 1986 年法国学院奖章、1995 年伊利诺伊大学人文学荣誉博士学位和 2000 年耶鲁大学研究生院的威尔伯·克罗斯奖章。她是 2007 年 APA 奎因奖（Quinn Prize）的首位获得者，该奖表彰对该行业的服务，并且是 2008 年分析哲学杰出作品 Lauener 奖的首位女性获得者。马库斯于 1992 年从耶鲁大学退休，但仍活跃于该行业，并在加利福尼亚大学尔湾分校担任常任一学期访问教授职位。除了在伊利诺伊大学芝加哥分校和耶鲁大学建立哲学系的关键角色外，马库斯在整个职业生涯中致力于为该行业服务。值得注意的是，从 1961 年开始，她在美国哲学协会任职了 15 年，先是担任中央分会的秘书，然后担任主席，最后担任全国董事会主席（1977 年至 1983 年）。她还担任过象征逻辑学协会的副主席（1980 年至 1983 年）和主席（1983 年至 1986 年）。她于 2012 年 2 月 19 日在纽黑文去世。
 
 在她的杜威演讲中，马库斯怀念起给本科生上课的快乐，其中一些学生，就像她的一些研究生一样，走上了杰出的哲学事业。关于她的哲学风格，她将自己描述为一个不追求大哲学问题的哲学家，而是被“常识观察，用我们共同的普通语言表达”的驱动力所驱使。她不喜欢哲学标签，她发现自己自然倾向于自然主义观点。尽管她的学术生活非常活跃，她的同事态度和她的许多哲学友谊，但她最终认为自己是一个“本质上是一个孤独者”，除非她认为自己有一些有用、有趣和清晰的东西要说，否则她不会被驱使去发表。
 
@@ -126,7 +126,7 @@ II.
 
 在 1946 年，她的焦点只是定理 I。她现在证明了 II 和 III 也适用于严格蕴涵，即它们甚至适用于不可证明等同于必然性的前提。而对于推导定理 I 的更强形式，则无法类似地证明，并且对必要前提的限制仍然存在。
 
-在她1953年的论文中，巴肯还讨论了解释性问题。在这些早期论文中，她像刘易斯一样，将模态系统解释为旨在表示和形式化与系统无关的证明论概念或蕴涵。严格蕴涵（⇒）表示这个目标概念。在形式系统中，一致性的概念由符号 ◊ 表示，并被视为原始概念，而严格蕴涵则是根据它的定义：如果 (A∧∼B) 是不一致的，即 ¬◊(A∧∼B)，那么 A 严格蕴涵 B，即 (A⇒B)。必然性也是根据（不）一致性来定义的：如果 ∼A 是不一致的，即 ∼◊∼A，那么 A 是必然的，即 □A。对严格蕴涵作为推导性的解释焦点的关注解释了为什么刘易斯和巴肯没有将非模态基础与模态部分分开，因为推导性——系统旨在形式化的概念——被表示为严格蕴涵，而不是根据物质蕴涵来定义。这也解释了对较弱的非正常系统的关注。
+在她 1953 年的论文中，巴肯还讨论了解释性问题。在这些早期论文中，她像刘易斯一样，将模态系统解释为旨在表示和形式化与系统无关的证明论概念或蕴涵。严格蕴涵（⇒）表示这个目标概念。在形式系统中，一致性的概念由符号 ◊ 表示，并被视为原始概念，而严格蕴涵则是根据它的定义：如果 (A∧∼B) 是不一致的，即 ¬◊(A∧∼B)，那么 A 严格蕴涵 B，即 (A⇒B)。必然性也是根据（不）一致性来定义的：如果 ∼A 是不一致的，即 ∼◊∼A，那么 A 是必然的，即 □A。对严格蕴涵作为推导性的解释焦点的关注解释了为什么刘易斯和巴肯没有将非模态基础与模态部分分开，因为推导性——系统旨在形式化的概念——被表示为严格蕴涵，而不是根据物质蕴涵来定义。这也解释了对较弱的非正常系统的关注。
 
 相比之下，在他 1946 年的论文中发展了一个量化模态逻辑系统，卡纳普简要提到了 Np（其中“N”是必然性运算符）可以用刘易斯的◊来定义，但随即立即用 N 来定义所有逻辑模态，并明确从解释的角度将逻辑必然性的概念作为基本概念。卡纳普还将命题和功能演算与通过“N”的添加构建的模态演算区分开来（1946 年：33）。这种解释关注使卡纳普专注于 S5 并推动他的形式语义学。可以说，巴肯和卡纳普在 20 世纪 40 年代早期独立开发了第一个量化的模态逻辑系统，但当时巴肯的关注点是句法的，她的第一篇发表的哲学考虑（1953 年）仍然受到刘易斯关于可推导性的解释关注的驱动，这本身是一个句法概念。然而，在后来的工作中，巴肯还强调了刘易斯关于可能世界的模态的非正式解释（参见 1968 年：88；1981b：279；1990a：232；和 Frauchiger 2015 年：149-150）。
 
@@ -255,9 +255,9 @@ Burgess (2014) 强调了 Barcan 和 Kripke 对身份必要性的证明之间的�
 
 本节的其余部分关注马库斯与奎恩的哲学争议，暂时搁置了在哲学交流中时常伴随的误解和挫折。然而，在马库斯自己的话中，与奎恩存在一些摩擦及其明显的初始原因需要明确表达，然后为了“某种公开的目的”而被抹去——在我们的情况下，是对马库斯在哲学上令人印象深刻的成就进行客观审查。关于这种关于同一性的初始误解的历史重建，可能是由于校样的丢失，可以在伯吉斯（2014）中找到；斯特拉斯菲尔德（2022）强调了这一僵局的社会学和可能存在性别差异的方面。
 
-在她的出版作品中，马库斯多次表达了她对奎因对模态的批评的整体沮丧，她觉得这些批评就像一个不可能捉摸的移动目标。奎因（1961）表达了他最基本的观点没有被理解的沮丧。然而，马库斯经常明确或隐含地反对奎因的观点，并承认奎因的“批评和持续的辩论对我随后的一些工作起到了催化剂的作用”（1993年：x）。因此，为了定位和更好地理解马库斯自己的思想，需要了解奎因对模态的批评，这些批评与奎因在一系列相关主题上的系统对立有关，主要包括模态逻辑的富有成果性、外延性和内涵性的区别、专有名词和量词的语义、模态的解释和本质主义。
+在她的出版作品中，马库斯多次表达了她对奎因对模态的批评的整体沮丧，她觉得这些批评就像一个不可能捉摸的移动目标。奎因（1961）表达了他最基本的观点没有被理解的沮丧。然而，马库斯经常明确或隐含地反对奎因的观点，并承认奎因的“批评和持续的辩论对我随后的一些工作起到了催化剂的作用”（1993 年：x）。因此，为了定位和更好地理解马库斯自己的思想，需要了解奎因对模态的批评，这些批评与奎因在一系列相关主题上的系统对立有关，主要包括模态逻辑的富有成果性、外延性和内涵性的区别、专有名词和量词的语义、模态的解释和本质主义。
 
-Quine首次在他1943年的《存在与必然性笔记》中充分表达了他对内涵性言论的反对意见，他指出，替代性法则在这些语境中失败了。这是有问题的，因为替代性法则是不容置疑的逻辑-形而上学原则“同一物的不可辨性”的语言对应物，根据这个原则，如果a与b相同且a是F，那么b也是F。事实上，Quine将这两个原则等同起来（1943: 113）。明显有问题的语境包括引用语境，例如“‘Tully’有6个字母”并不是从“Cicero = Tully”和“‘Cicero’有6个字母”推出的；还有认识论语境，例如“知道”和“相信”，例如“Philip不知道Tully谴责了Catiline”可能是真的，即使“Philip不知道Cicero谴责了Catiline”是假的。对于这些语境，Quine还添加了当将模态解释为分析或逻辑时的模态语境。从真实陈述“行星的数量=9”和“9必然大于7”，理解为“‘9大于7’是分析的”，并不能推出“行星的数量必然大于7”的真实性，因为“行星的数量大于7”不是一个分析性陈述。
+Quine 首次在他 1943 年的《存在与必然性笔记》中充分表达了他对内涵性言论的反对意见，他指出，替代性法则在这些语境中失败了。这是有问题的，因为替代性法则是不容置疑的逻辑-形而上学原则“同一物的不可辨性”的语言对应物，根据这个原则，如果 a 与 b 相同且 a 是 F，那么 b 也是 F。事实上，Quine 将这两个原则等同起来（1943: 113）。明显有问题的语境包括引用语境，例如“‘Tully’有 6 个字母”并不是从“Cicero = Tully”和“‘Cicero’有 6 个字母”推出的；还有认识论语境，例如“知道”和“相信”，例如“Philip 不知道 Tully 谴责了 Catiline”可能是真的，即使“Philip 不知道 Cicero 谴责了 Catiline”是假的。对于这些语境，Quine 还添加了当将模态解释为分析或逻辑时的模态语境。从真实陈述“行星的数量=9”和“9 必然大于 7”，理解为“‘9 大于 7’是分析的”，并不能推出“行星的数量必然大于 7”的真实性，因为“行星的数量大于 7”不是一个分析性陈述。
 
 此外，奎因认为跨意向运算符的量化是没有意义的。例如，假设存在量词表达存在——这是奎因的观点（1943: 116）——“∃x （菲利普不知道 x 谴责卡提琳）”无法被正确解释，因为“这个对象是什么，谴责卡提琳而菲利普还没有意识到这个事实？图利，即西塞罗？”（1943: 118）。奎因声称对于引文，“这个悖论立即解决了。事实是\[“‘西塞罗’有六个字母”]不是关于人西塞罗的陈述，而只是关于词‘西塞罗’的陈述”（1943: 114）。引文引起了引用的转变，从对象到其名称，因此可以恢复对指称同一名称的表达式以及对名称的量化的可替代性。然而，奎因并没有将这种解决方案扩展到其他问题的背景，他说：
 
@@ -403,7 +403,7 @@ Quine首次在他1943年的《存在与必然性笔记》中充分表达了他�
 
 根据量词的替代解释，(∃x)Fx 只有在 Fx 的替代实例为真时才为真。 Fx 的替代实例是像 Fa, Fb 等这样的公式，其中 a 和 b 等是语言中的个体常量。同样地，(∀x)Fx 只有在 Fx 的所有替代实例都为真时才为真。而在标准的客体或指称解释中，(∃x)Fx 只有在域中至少有一个元素满足 Fx 时才为真，而(∀x)Fx 只有在域中的所有元素都满足 Fx 时才为真。
 
-解释/理论，这一解释/理论最早出现在罗素和怀特海德的《数理逻辑原理》中（马库斯1962b: 254），马库斯主要偏爱它，因为它将普遍性问题与本体论问题分开，从而更好地代表了自然语言中量化表达式的普通用法。此外，由于没有本体论承诺，它允许对空名称进行存在泛化：从“卢浮宫里有一座维纳斯雕像”我们可以推导出“（∃x）（一座x的雕像在卢浮宫里）”（1972: 245）；维纳斯女神的雕像毕竟是某个东西的雕像。替代解释还有其他好处：它避开了奎因对模态语境内外量化的本体论关注，并且它适应了名义主义的倾向，从而允许量化扩展到其他句法范畴（高阶和命题量化），而无需对属性或命题进行本体论承诺，这也是奎因的另一个疑虑。在《量化与本体论》中，马库斯将模态逻辑中量词的替代解释与需要量化域包括内涵的弗雷格解释进行对比，还与克里普基和欣蒂卡（1963）的可能世界语义进行对比，后者将替代量化域与仅仅可能的世界相关联，从而包括了仅仅可能的实体（1972: 243）。
+解释/理论，这一解释/理论最早出现在罗素和怀特海德的《数理逻辑原理》中（马库斯 1962b: 254），马库斯主要偏爱它，因为它将普遍性问题与本体论问题分开，从而更好地代表了自然语言中量化表达式的普通用法。此外，由于没有本体论承诺，它允许对空名称进行存在泛化：从“卢浮宫里有一座维纳斯雕像”我们可以推导出“（∃x）（一座 x 的雕像在卢浮宫里）”（1972: 245）；维纳斯女神的雕像毕竟是某个东西的雕像。替代解释还有其他好处：它避开了奎因对模态语境内外量化的本体论关注，并且它适应了名义主义的倾向，从而允许量化扩展到其他句法范畴（高阶和命题量化），而无需对属性或命题进行本体论承诺，这也是奎因的另一个疑虑。在《量化与本体论》中，马库斯将模态逻辑中量词的替代解释与需要量化域包括内涵的弗雷格解释进行对比，还与克里普基和欣蒂卡（1963）的可能世界语义进行对比，后者将替代量化域与仅仅可能的世界相关联，从而包括了仅仅可能的实体（1972: 243）。
 
 马库斯对于如果存在无名对象，则量词的替代解释可能验证一个像(∀x)Fx 这样的普遍命题，即使不是所有对象都是 F，只要所有有名字的对象都是 F 的反驳不予理会。对于非可数域来说，这是不可避免的，因为名字的库存是可数的。在她的回答中，她指出这个批评对于一开始就对非可数集合持怀疑态度的名义主义者来说没有意义。她代表名义主义者发言，所以她是否分享这种怀疑态度仍然不清楚。更有趣的是，马库斯还提到了下降的 Löwenhein-Skolem 定理，声称
 
@@ -445,7 +445,7 @@ Quine 对量化模态逻辑的最终批评是其（所谓的）承诺亚里士�
 
 ### 5.2 真正的亚里士多德本质主义
 
-马库斯声称，真正的亚里士多德本质主义是分类和普遍的。不是普遍的、重言的属性（如自我身份）也不是完全个体化的谓词（如完整的描述直到唯一性）是必要的。本质分类属性是诸如人或哺乳动物这样的属性，没有任何对象可以偶然地拥有。此外，并非对象的所有属性对其来说都是必要的。马库斯提出以下作为亚里士多德本质主义的定义（1971: 198）：(AE)(∀x)(Fx→□Fx)∧(∃x)(□Fx∧Gx∧¬□Gx)∧(∃x)¬□Fx马库斯声称，亚里士多德本质主义关注的是一种自然必然性形式。亚里士多德本质属性是一种物体不能停止拥有而不停止存在的倾向性属性。她以一个例子来说明
+马库斯声称，真正的亚里士多德本质主义是分类和普遍的。不是普遍的、重言的属性（如自我身份）也不是完全个体化的谓词（如完整的描述直到唯一性）是必要的。本质分类属性是诸如人或哺乳动物这样的属性，没有任何对象可以偶然地拥有。此外，并非对象的所有属性对其来说都是必要的。马库斯提出以下作为亚里士多德本质主义的定义（1971: 198）：(AE)(∀x)(Fx→□Fx)∧(∃x)(□Fx∧Gx∧¬□Gx)∧(∃x)¬□Fx 马库斯声称，亚里士多德本质主义关注的是一种自然必然性形式。亚里士多德本质属性是一种物体不能停止拥有而不停止存在的倾向性属性。她以一个例子来说明
 
 1. 一个金样品（Gs）的例子，当它浸入王水（Rs）时必然溶解（Ds）。
 
@@ -574,7 +574,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 因此，道德困境在一定程度上是不可避免的；这并不是因为我们的道德和认知限制，也不是由于道德准则的错误，而只是因为我们无法逃脱作为处于一个我们无法控制的世界中的代理人的境况。但是，马库斯声称，要求一种一致的道德理论使所有道德困境变得不可能是太过强硬和不可能实现的——事实上，即使只有一个原则的理论也无法避免困境，因为我们可能会发现自己处于一种对两方都有义务但只能满足一方需求的对称情况中。
 
-这需要对道德理论的一致性概念进行修订。马库斯在她的道德论文中使用的一致性概念是一种类似于可满足性的“语义”概念。她声称，就像一组句子（一个理论）在可能的情况下都为真时逻辑上一致，道德准则的一致性仅要求在可能的情况下能够满足所有要求（1980b: 128）。此外，当我们面临在做x或做y之间的道德冲突时，未满足的要求仍然存在。当我们拒绝将武器归还给一个恶意的团体时，我们仍然违背了诺言：我们遵守诺言的责任仍然存在，因为我们确实可以遵守诺言。如果我们本来应该遵守诺言，并且确实可以这样做，那么即使我们在同时防止伤害的情况下无法这样做，我们仍然应该这样做。我们选择做x而无法做y并不足以消除做y的责任。因此，即使情况的棘手性不是我们的错，内疚仍然是适当的道德回应。
+这需要对道德理论的一致性概念进行修订。马库斯在她的道德论文中使用的一致性概念是一种类似于可满足性的“语义”概念。她声称，就像一组句子（一个理论）在可能的情况下都为真时逻辑上一致，道德准则的一致性仅要求在可能的情况下能够满足所有要求（1980b: 128）。此外，当我们面临在做 x 或做 y 之间的道德冲突时，未满足的要求仍然存在。当我们拒绝将武器归还给一个恶意的团体时，我们仍然违背了诺言：我们遵守诺言的责任仍然存在，因为我们确实可以遵守诺言。如果我们本来应该遵守诺言，并且确实可以这样做，那么即使我们在同时防止伤害的情况下无法这样做，我们仍然应该这样做。我们选择做 x 而无法做 y 并不足以消除做 y 的责任。因此，即使情况的棘手性不是我们的错，内疚仍然是适当的道德回应。
 
 对于马库斯来说，罪恶的必然性并不是一个悲剧性的结论，因为罪恶和相关的不愉快感在激励我们满足第二阶段需求“安排我们的生活和制度以最小化或避免困境”（1980b: 131）方面起着重要作用。这就是我们应该做的。即使这个第二阶段的应该无法完全实现，因为世界不会完全合作，它仍然作为一个规范原则存在。因此，与其试图修复一个没有问题的代码，好像它是一个有缺陷的理论，马库斯呼吁我们改善我们所行动的世界。“道德困境和一致性”以一个有趣的建议结束，即当两个选择在道德上都是可接受的时候，我们所做的选择，做 x 还是做 y，可能是出于与我们想成为的人和我们想过的生活方式有关而不是道德性质的评估（1980b: 135–136）。威廉姆斯（1973）是困境起源于偶然情况的观点的先驱。弗特（1983）对马库斯的罪恶观持批评态度。
 
@@ -584,7 +584,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 像她的形而上学观点和她对理性的广义观点一样，马库斯对道德困境的看法以及她对道德理论一致性的务实而非理论解决方案的定义，似乎受到罗素的告诫的驱使，即逻辑学家不能放弃她对现实的强烈感知。没有任何道德准则能够涵盖所有可能的情况，也没有任何道德行为者能够逃避与人类条件固有的道德选择和实际责任。马库斯的最后一句话，关于内疚感和组织自己的生活以避免道德困境的冲动，生动地提醒了我们她哲学工作的现实生活调适。
 
-> 这些考虑特别适用于公共生活中肮脏手的必然性问题。我们希望在公共生活中有那些被这种情感所驱使的人，他们因此会努力避免这种冲突，但又愿意承担进入公共生活的道德风险。正是在这些情况下，我们看到了生活选择和道德风险之间的紧张关系。（1996年：33）
+> 这些考虑特别适用于公共生活中肮脏手的必然性问题。我们希望在公共生活中有那些被这种情感所驱使的人，他们因此会努力避免这种冲突，但又愿意承担进入公共生活的道德风险。正是在这些情况下，我们看到了生活选择和道德风险之间的紧张关系。（1996 年：33）
 
 ## Bibliography
 
@@ -595,52 +595,52 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 * 1946a, “A Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(1): 1–16. doi:10.2307/2269159
 * 1946b, “The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(4): 115–118. doi:10.2307/2268309
 * 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. doi:10.2307/2267171
-* 1948, “Review of ‘Modality and Description’, by Arthur Francis Smullyan \[[Smullyan 1948](https://plato.stanford.edu/entries/ruth-barcan-marcus/#smullyan48)]”, *Journal of Symbolic Logic*, 13(3): 149–150. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 36–38. doi:10.2307/2267830
+* 1948, “Review of ‘Modality and Description’, by Arthur Francis Smullyan \[[Smullyan 1948](https://plato.stanford.edu/entries/ruth-barcan-marcus/#smullyan48)]”, *Journal of Symbolic Logic*, 13(3): 149–150. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 36–38. doi:10.2307/2267830
 
 #### Published as 露丝·巴肯·马库斯
 
 * 1950, “The Elimination of Contextually Defined Predicates in a Modal System”, *Journal of Symbolic Logic*, 15(2): 92. doi:10.2307/2266968
-* 1953, “Strict Implication, Deducibility and the Deduction Theorem”, *Journal of Symbolic Logic*, 18(3): 234–236. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 71–73. doi:10.2307/2267407
+* 1953, “Strict Implication, Deducibility and the Deduction Theorem”, *Journal of Symbolic Logic*, 18(3): 234–236. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 71–73. doi:10.2307/2267407
 * 1960, “Extensionality”, *Mind*, 69(273): 55–62. doi:10.1093/mind/LXIX.273.55
-* 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 3–23. doi:10.1007/BF00486629
-* 1962a, “Discussion on the Paper of Ruth B.马库斯”, with W. V. Quine, Saul A. Kripke, J. McCarty, and Dagfinn Føllesdal, *Synthese*, 14(2–3): 132–143. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 24–35. doi:10.1007/BF00881990
+* 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 3–23. doi:10.1007/BF00486629
+* 1962a, “Discussion on the Paper of Ruth B.马库斯”, with W. V. Quine, Saul A. Kripke, J. McCarty, and Dagfinn Føllesdal, *Synthese*, 14(2–3): 132–143. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 24–35. doi:10.1007/BF00881990
 * 1962b, “Interpreting Quantification”, *Inquiry*, 5(1–4): 252–259. doi:10.1080/00201746208601353
 * 1963a, “Classes and Attributes in Extended Modal Systems”, *Proceedings of a Colloquium on Modal and Many-Valued Logics, Helsinki, 23–26 August, 1962*, in *Acta Philosophica Fennica*, 16: 123–136.
 * 1963b, “Reply to Dr. Lambert”, *Inquiry*, 6(1–4): 325–327. doi:10.1080/00201746308601386
 * 1965, “Review of *Aristotle’s Modal Syllogisms*, by Storrs McCall”, *The Philosophical Review*, 74(4): 539–541. doi:10.2307/2183133
-* 1966, “Iterated Deontic Modalities”, *Mind*, 75(300): 580–582. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 39–43. doi:10.1093/mind/LXXV.300.580
-* 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 45–51. doi:10.2307/2214714
+* 1966, “Iterated Deontic Modalities”, *Mind*, 75(300): 580–582. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 39–43. doi:10.1093/mind/LXXV.300.580
+* 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 45–51. doi:10.2307/2214714
 * 1968, “Modal Logic”, in *Contemporary Philosophy: Logic and Foundations of Mathematics*, Vol 1, Raymond Klibansky (ed.), Firenze: La Nuova Italia, pp. 87–101.
-* 1971, “Essential Attribution”, *The Journal of Philosophy*, 68(7): 187–202. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 53–70. doi:10.2307/2024901
+* 1971, “Essential Attribution”, *The Journal of Philosophy*, 68(7): 187–202. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 53–70. doi:10.2307/2024901
 * 1972, “Quantification and Ontology”, *Noûs*, 6(3): 240–250. doi:10.2307/2214772
-* 1974, “Classes, Collections, and Individuals”, *American Philosophical Quarterly*, 11(3): 227–232. Reprinted with revisions as “Classes, Collections, Assortments, and Individuals”, in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 89–100.
-* 1975, “Does the Principle of Substitutivity Rest on a Mistake?”, in [Anderson,马库斯, and Martin 1975](https://plato.stanford.edu/entries/ruth-barcan-marcus/#AMM75): 31–38. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 101–109.
+* 1974, “Classes, Collections, and Individuals”, *American Philosophical Quarterly*, 11(3): 227–232. Reprinted with revisions as “Classes, Collections, Assortments, and Individuals”, in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 89–100.
+* 1975, “Does the Principle of Substitutivity Rest on a Mistake?”, in [Anderson,马库斯, and Martin 1975](https://plato.stanford.edu/entries/ruth-barcan-marcus/#AMM75): 31–38. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 101–109.
 * 1975/76, “Dispensing with *Possibilia*”, *Proceedings and Addresses of the American Philosophical Association*, 49: 39–51. Reprinted in Richard H. Hull (ed.), *The American Philosophical Association Centennial Series*, 2013: 401–412. doi:10.2307/3129990 doi:10.5840/apapa2013260
 * 1976, “Wiggins on Identity, Necessity, and Physicalism”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 132–146.
-* 1978a, “Nominalism and the Substitutional Quantifier”, *Monist*, 61(3): 351–362. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 111–124. doi:10.5840/monist197861331
+* 1978a, “Nominalism and the Substitutional Quantifier”, *Monist*, 61(3): 351–362. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 111–124. doi:10.5840/monist197861331
 * 1978b, “Review of *Names and Descriptions* by Leonard Linsky”, *The Philosophical Review*, 87(3): 497–504.
 * 1980a, “Hilpinen’s Interpretations of Modal Logic”, in Georg H. von Wright (ed.), *Logic and Philosophy / Logique et Philosophie*, Dordrecht: Springer, pp. 31–36. doi:10.1007/978-94-009-8820-0\_4
-* 1980b, “Moral Dilemmas and Consistency”, *The Journal of Philosophy*, 77(3): 121–136. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 125–141. doi:10.2307/2025665
+* 1980b, “Moral Dilemmas and Consistency”, *The Journal of Philosophy*, 77(3): 121–136. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 125–141. doi:10.2307/2025665
 * 1981a, “A Proposed Solution to a Puzzle about Belief”, in *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy, 6), Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds), Minneapolis, MN: University of Minnesota Press, pp. 501–510.
 * 1981b, “Modal Logic, Modal Semantics and Their Applications”, in *Tome 1 Philosophie du Langage, Logique Philosophique / Volume 1 Philosophy of Language, Philosophical Logic*, Guttorm Fløistad and G. H. Von Wright (eds), Dordrecht: Springer Netherlands, 279–298. doi:10.1007/978-94-009-8356-4\_11
 * 1983a, “Bar-On on Spinoza’s Ontological Proof”, in *Spinoza: His Thought and Work*, Nathan Rotenstreich and Norma Schneider (eds), Jerusalem: The Israel Academy of Sciences and Humanities, pp. 110–119.
-* 1983b, “Rationality and Believing the Impossible”, *The Journal of Philosophy*, 80(6): 321–338. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93) 143–161. doi:10.2307/2026334
+* 1983b, “Rationality and Believing the Impossible”, *The Journal of Philosophy*, 80(6): 321–338. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93) 143–161. doi:10.2307/2026334
 * 1985, “Is There Irrationality in the Existence of a Plurality of Philosophical Theories”, *Dialectica*, 39(4): 321–328. doi:10.1111/j.1746-8361.1985.tb01600.x
-* 1986a, “On Some Post-1920s Views of Russell on Particularity, Identity, and Individuation”, In Jules Vuillemin (ed.), *Mérites et Limites des Méthodes Logiques en Philosophie*, Paris: J. Vrin. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 177–188.
-* 1986b, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25/26: 107–133. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 189–213. doi:10.5840/gps1985/8625/265
-* 1986c, “Spinoza and the Ontological Proof”, in *Human Nature and Natural Knowledge* (Boston Studies in the Philosophy of Science 89), Alan Donagan, Anthony N. Perovich, and Michael V. Wedin (eds), Dordrecht: Springer Netherlands, 153–166. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 163–176. doi:10.1007/978-94-009-5349-9\8
+* 1986a, “On Some Post-1920s Views of Russell on Particularity, Identity, and Individuation”, In Jules Vuillemin (ed.), *Mérites et Limites des Méthodes Logiques en Philosophie*, Paris: J. Vrin. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 177–188.
+* 1986b, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25/26: 107–133. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 189–213. doi:10.5840/gps1985/8625/265
+* 1986c, “Spinoza and the Ontological Proof”, in *Human Nature and Natural Knowledge* (Boston Studies in the Philosophy of Science 89), Alan Donagan, Anthony N. Perovich, and Michael V. Wedin (eds), Dordrecht: Springer Netherlands, 153–166. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 163–176. doi:10.1007/978-94-009-5349-9\8
 * 1988a, “F.B. Fitch 1908–1987”, *Proceedings and Addresses of the American Philosophical Association*, 61(3): 551–553.
 * 1988b, “Letter to the Editor”, *Proceedings and Addresses of the American Philosophical Association*, 61(5): 867–868.
 * 1989, “Introduction”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard K. Wettstein (eds), Oxford: Oxford University Press: pp. 3–4.
-* 1990a, “A Backward Look at Quine’s Animadversions on Modalities”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, pp. 230–243. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 215–232.
+* 1990a, “A Backward Look at Quine’s Animadversions on Modalities”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, pp. 230–243. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 215–232.
 * 1990b, “Max Black (1909–1988)”, *Dialectica*, 44(1–2): 5–8. doi:10.1111/j.1746-8361.1990.tb01647.x
-* 1990c, “Some Revisionary Proposals about Belief and Believing”, *Philosophy and Phenomenological Research*, 50(supplement): 133–153. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 233–255. doi:10.2307/2108036
+* 1990c, “Some Revisionary Proposals about Belief and Believing”, *Philosophy and Phenomenological Research*, 50(supplement): 133–153. Reprinted with revisions in [马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 233–255. doi:10.2307/2108036
 * 1991, “Barcan Formula”, in *Handbook of Metaphysics and Ontology*, Hans Burkhardt and Barry Smith (eds), Munich: Philosophia Verlag, pp. 76–77.
 * 1993, *Modalities: Philosophical Essays*, New York: Oxford University Press. doi:10.1093/0195096576.001.0001
 * 1995, “The Anti-Naturalism of Some Language Centered Accounts of Belief”, *Dialectica*, 49(2–4): 113–130. doi:10.1111/j.1746-8361.1995.tb00157.x
 * 1996, “More about Moral Dilemmas”, in *Moral Dilemmas and Moral Theory*, Homer E. Mason (ed.), Oxford: Oxford University Press, pp. 23–35. doi:10.1093/oso/9780195096811.003.0003
 * 1997, “Are Possible, Non Actual Objects Real?”, *Revue Internationale de Philosophie*, 51(200/2): 251–257.
-* 2005, “露丝·巴肯·马库斯”, in *Formal Philosophy*, Vincent F. Hendricks and John Symons (eds), USA: Automatic Press, 131–140. A short interview with马库斯.
+* 2005, “露丝·巴肯·马库斯”, in *Formal Philosophy*, Vincent F. Hendricks and John Symons (eds), USA: Automatic Press, 131–140. A short interview with 马库斯.
 * 2010, “A Philosopher’s Calling” (Dewey lecture, Eastern 2009), *Proceedings and Addresses of the American Philosophical Association*, 84(2): 75–92. Reprinted in [Frauchiger 2015](https://plato.stanford.edu/entries/ruth-barcan-marcus/#frauchiger15): 17–37.
 * 2011, “C. I. Lewis on Intensional Predicate Logic: A Letter Dated May 11, 1960”, *History and Philosophy of Logic*, 32(2): 103–106. doi:10.1080/01445340.2010.522368
 
@@ -686,8 +686,8 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 * Holt, Jim, 1996, “Whose Idea Is It, Anyway? A Philosophers’ Feud”, *Lingua Franca*, February 1996: 28–39.
 * Hull, Richard, 2013, “Biography: Ruth Charlotte 巴肯·马库斯”, in *The American Philosophical Association Centennial Series*, Richard H. Hull (ed.), 2013: 397–400.
 * Humphreys, Paul W. and James H. Fetzer (eds), 1998, *The New Theory of Reference: Kripke,马库斯, and Its Origins* (Synthese Library 270), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-011-5250-1
-* Janssen-Lauret, Frederique, 2016, “Meta-Ontology, Naturalism, and the Quine-巴肯·马库斯Debate”, in *Quine and His Place in History* (History of Analytic Philosophy), Frederique Janssen-Lauret and Gary Kemp (eds), London: Palgrave Macmillan UK, 146–167. doi:10.1057/9781137472519\_12
-* –––, 2022, “露丝·巴肯·马库斯and Quantified Modal Logic”, *British Journal for the History of Philosophy*, 30(2): 353–383. doi: 10.1080/09608788.2021.1984872
+* Janssen-Lauret, Frederique, 2016, “Meta-Ontology, Naturalism, and the Quine-巴肯·马库斯 Debate”, in *Quine and His Place in History* (History of Analytic Philosophy), Frederique Janssen-Lauret and Gary Kemp (eds), London: Palgrave Macmillan UK, 146–167. doi:10.1057/9781137472519\_12
+* –––, 2022, “露丝·巴肯·马库斯 and Quantified Modal Logic”, *British Journal for the History of Philosophy*, 30(2): 353–383. doi: 10.1080/09608788.2021.1984872
 * Kaplan, David, 1986, “Opacity”, in *The Philosophy of W.V. Quine* (Library of Living Philosophers 18), Lewis Edwin Hahn and Paul Arthur Schilpp (eds), La Salle, IL: Open Court, 229–289.
 * –––, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
 * Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, *Journal of Symbolic Logic*, 24(1): 1–14. doi:10.2307/2964568
@@ -713,7 +713,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 * Parry, William Tuthill, 1934, “The Postulates for ‘Strict Implication’”, *Mind*, 43(169): 78–80. doi:10.1093/mind/XLIII.169.78
 * Parsons, Terence, 1967, “Grades of Essentialism in Quantified Modal Logic”, *Noûs*, 1(2): 181–191. doi:10.2307/2214584
 * –––, 1969, “Essentialism and Quantified Modal Logic”, *The Philosophical Review*, 78(1): 35–52.
-* –––, 1995, “露丝·巴肯·马库斯and the Barcan Formula”, in [Sinnott-Armstrong, Raffman, and Asher 1995](https://plato.stanford.edu/entries/ruth-barcan-marcus/#SRA95): 3–11.
+* –––, 1995, “露丝·巴肯·马库斯 and the Barcan Formula”, in [Sinnott-Armstrong, Raffman, and Asher 1995](https://plato.stanford.edu/entries/ruth-barcan-marcus/#SRA95): 3–11.
 * Prior, Arthur N., 1956, “Modality and Quantification in S5”, *Journal of Symbolic Logic*, 21(1): 60–62. doi:10.2307/2268488
 * Putnam, Hilary, 1973, “Meaning and Reference”, *The Journal of Philosophy*, 70(19): 699–711. doi:10.2307/2025079
 * Quine, Willard V., 1943, “Notes on Existence and Necessity”, *The Journal of Philosophy*, 40(5): 113–127. doi:10.2307/2017458
@@ -726,20 +726,20 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 * –––, 1953b, “Reference and Modality”, in *From a Logical Point of View: 9 Logico-Philosophical Essays*, Cambridge, MA: Harvard University Press, pp. 139–159.
 * –––, 1953c, “Three Grades of Modal Involvement”, in *Proceedings of the 11th International Congress of Philosophy*, Volume 14, Amsterdam: North-Holland, pp. 65–81. doi:10.5840/wcp11195314450
 * –––, 1958, “Corrections to the Review of ‘The Identity of Individuals in a Strict Functional Calculus of Second Order’, by Ruth C. Barcan \[[Barcan 1947](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan47)]”, *Journal of Symbolic Logic*, 23(3): 342. doi:10.2307/2964293
-* –––, 1961, “Reply to Professor马库斯”, *Synthese*, 13(4): 323–330. doi:10.1007/BF00486630
-* –––, 1990, “Comment on马库斯”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, p. 244.
+* –––, 1961, “Reply to Professor 马库斯”, *Synthese*, 13(4): 323–330. doi:10.1007/BF00486630
+* –––, 1990, “Comment on 马库斯”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, p. 244.
 * Russell, Bertrand and Alfred N. Whitehead, 1910, 1912, 1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
 * Simchen, Ori, 2013, “The Barcan Formula in Metaphysics”, *THEORIA. An International Journal for Theory, History and Foundations of Science*, 28(3): 375–392. doi:10.1387/theoria.6918
 * Smullyan, Arthur Francis, 1947, “Review of ‘The Problem of Interpreting Modal Logic’, by W. V. Quine \[[Quine 1947a](https://plato.stanford.edu/entries/ruth-barcan-marcus/#quine47a)]”, *The Journal of Symbolic Logic*, 12(4): 139–141. doi:10.2307/2266498
 * –––, 1948, “Modality and Description”, *Journal of Symbolic Logic*, 13(1): 31–37. doi:10.2307/2268137
-* Strassfeld, Jonathan, 2022, “‘I Am Aware That This Letter May Be Offensive’: The Unapologetic Achievements of 露丝·巴肯·马库斯and Marjorie Glicksman Grene”, *Journal of the History of Ideas*, 83(4): 579–600. doi:10.1353/jhi.2022.0038
+* Strassfeld, Jonathan, 2022, “‘I Am Aware That This Letter May Be Offensive’: The Unapologetic Achievements of 露丝·巴肯·马库斯 and Marjorie Glicksman Grene”, *Journal of the History of Ideas*, 83(4): 579–600. doi:10.1353/jhi.2022.0038
 * Strawson, Peter F., 1952, *Introduction to Logical Theory*, London: Methuen.
 * Wiggins, David, 1976a, “Identity, Necessity and Physicalism”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 96–132.
 * –––, 1976b, “Reply to Comments”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, 159–179.
 * Williams, Bernard, 1973, *Problems of the Self*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621253
-* Williamson, Timothy, 1995, “Review of *Modalities. Philosophical Essays*, by 露丝·巴肯·马库斯\[[马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93)]”, *Philosophical Books*, 36(2): 120–122. doi:10.1111/j.1468-0149.1995.tb02919.x
+* Williamson, Timothy, 1995, “Review of *Modalities. Philosophical Essays*, by 露丝·巴肯·马库斯\[[马库斯 1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93)]”, *Philosophical Books*, 36(2): 120–122. doi:10.1111/j.1468-0149.1995.tb02919.x
 * –––, 1998, “Bare Possibilia”, *Erkenntnis*, 48(2/3): 257–273. doi:10.1023/A:1005331819843
-* –––, 2013a, “In Memoriam: 露丝·巴肯·马库斯1921–2012”, *The Bulletin of Symbolic Logic*, 19(1): 123–126. doi:10.2178/bsl.1901070
+* –––, 2013a, “In Memoriam: 露丝·巴肯·马库斯 1921–2012”, *The Bulletin of Symbolic Logic*, 19(1): 123–126. doi:10.2178/bsl.1901070
 * –––, 2013b, *Modal Logic as Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
 * Zeman, Joseph Jay, 1973, *Modal Logic: The Lewis-Modal Systems*, London: Clarendon Press.
 
@@ -753,7 +753,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 ## Other Internet Resources
 
-* [露丝·巴肯·马库斯Papers (Yale)](https://archives.yale.edu/repositories/12/resources/5229)
+* [露丝·巴肯·马库斯 Papers (Yale)](https://archives.yale.edu/repositories/12/resources/5229)
 * [露丝·巴肯·马库斯(The Shalvi/Hyman Encyclopedia of Jewish Women)](https://jwa.org/encyclopedia/article/marcus-ruth-barcan)
 * [露丝·巴肯·马库斯(We Remember, Jewish Women’s Archive)](https://jwa.org/weremember/marcus-ruth)
 * [露丝·巴肯·马库斯(UC Irvine)](https://www.lib.uci.edu/library/publications/philosophy/marcus.html)
@@ -764,7 +764,7 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 ### Acknowledgments
 
-I corresponded with 露丝·巴肯·马库斯in 1999 and then 2006. During the 1998–99 academic year, 马库斯attended some meetings of the UCLA weekly workshop in philosophy of language run by David Kaplan, Joseph Almog and Tony Martin. She was kind enough to read some of my work and in March 1999 she sent me a generous and supportive hand-written letter of comments where she also expounded some of her views. In 2006 we corresponded by email about the Barcan formula and on that occasion she sent me copies of some of her correspondence with Quine, *inter alia*. Her last email to me ended with the self-standing sentence “Perhaps you might want to do that”. This I took to be an invitation to write about some of her work.
+I corresponded with 露丝·巴肯·马库斯 in 1999 and then 2006. During the 1998–99 academic year, 马库斯 attended some meetings of the UCLA weekly workshop in philosophy of language run by David Kaplan, Joseph Almog and Tony Martin. She was kind enough to read some of my work and in March 1999 she sent me a generous and supportive hand-written letter of comments where she also expounded some of her views. In 2006 we corresponded by email about the Barcan formula and on that occasion she sent me copies of some of her correspondence with Quine, *inter alia*. Her last email to me ended with the self-standing sentence “Perhaps you might want to do that”. This I took to be an invitation to write about some of her work.
 
 I thank Graham Moore who has assisted me in the early stages of preparation of this entry.
 

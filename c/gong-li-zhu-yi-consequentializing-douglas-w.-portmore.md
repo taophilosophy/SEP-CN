@@ -225,7 +225,7 @@ G. E. Moore（1903）甚至走得更远，主张
 
 当然，关于解释充分性这个话题还有更多要说的，包括认真的功利主义者是否能够对违反以最小化自己违反该约束为目的的情况有一个合理的解释——例如，参见 Brook 1991；Kamm 1996；Lopez 等人 2009 年；Otsuka 2011 年；以及即将发表的 Portmore。尽管如此，上述内容应该让读者了解为什么非功利主义者可能会认为行为功利主义对应的理论在解释上是不充分的，以及认真的功利主义者可能如何回应这些担忧。
 
-### 4.5 “Has an Outcome that Outranks Every Available Alternative” Isn’t Equivalent to “Ought to Be Performed” 4.5 “结果优于所有可用替代方案”并不等同于“应该被执行”
+### 4.5“Has an Outcome that Outranks Every Available Alternative”Isn’t Equivalent to“Ought to Be Performed”4.5“结果优于所有可用替代方案”并不等同于“应该被执行”
 
 这最后的反对仅适用于符号功利主义者。正如我们在上面看到的，符号功利主义者接受了两个有争议的假设：他们同化论证的前两个前提。我们已经在第 4.2 节考虑了他们对第一个前提的辩护。现在是时候看看他们如何捍卫第二个前提：即如果一个行为功利主义理论和一个非功利主义理论在义务裁决上必然是一致的，那么它们在强意义上等同，即它们只是彼此的纯符号变体。
 
