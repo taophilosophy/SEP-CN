@@ -16,7 +16,7 @@
 
 注意，在其原始形式（Hilbert＆Ackermann 1928）中，该问题是以有效性而不是可推导性的术语来陈述的。鉴于哥德尔的完备性定理（Gödel 1929）证明了对于可推导性是否存在有效的过程（或不存在），这也是该问题在有效性形式下的解决方案。为了解决这个问题，需要一个形式化的“有效过程”的概念，而图灵机正是为此而设计的。
 
-一个图灵机，或者图灵称之为计算机的计算机，在图灵的原始定义中，是一台能够具有有限配置 q1,…,qn（机器的状态，图灵称之为 m-配置）的机器。它配备了一个单向无限且一维的带子，带子被分成能够携带一个符号的方格。在任何时刻，机器正在扫描一个方格 r 的内容，该方格要么为空（用 S0 表示），要么包含一个符号 S1,…,Sm，其中 S1=0 且 S2=1。
+一个图灵机，或者图灵称之为计算机的计算机，在图灵的原始定义中，是一台能够具有有限配置 q1,…, qn（机器的状态，图灵称之为 m-配置）的机器。它配备了一个单向无限且一维的带子，带子被分成能够携带一个符号的方格。在任何时刻，机器正在扫描一个方格 r 的内容，该方格要么为空（用 S0 表示），要么包含一个符号 S1,…, Sm，其中 S1=0 且 S2=1。
 
 该机器是一台自动机（a-机器），这意味着在任何给定时刻，机器的行为完全由当前状态和正在扫描的符号（称为配置）决定。这就是所谓的确定性条件（第 3 节）。这些 a-机器与所谓的选择机器相对应，对于选择机器，下一个状态取决于外部设备或操作员的决策（图灵 1936-7：232）。图灵机能够执行三种类型的动作：
 
@@ -26,13 +26,13 @@
 
 图灵机的“程序”可以写成一组有限的五元组形式：
 
- qiSjSi,jqi,j
+ qiSjSi, jqi, j
 
-其中 qi 是当前状态，Sj 是正在扫描的方格的内容，Si,j 是方格的新内容；Mi,j 指定机器是向左移动一个方格，向右移动一个方格还是保持在同一个方格，qi,j 是机器的下一个状态。这些五元组也被称为给定机器的转换规则。当从空白纸带开始运行时，图灵机 TSimple 计算序列 S0S1S0S1…如表 1 所示。
+其中 qi 是当前状态，Sj 是正在扫描的方格的内容，Si, j 是方格的新内容；Mi, j 指定机器是向左移动一个方格，向右移动一个方格还是保持在同一个方格，qi, j 是机器的下一个状态。这些五元组也被称为给定机器的转换规则。当从空白纸带开始运行时，图灵机 TSimple 计算序列 S0S1S0S1…如表 1 所示。
 
 表 1：TSimple 的五元组表示
 
-;q1S0S0Rq2;q1S1S0Rq2;q2S0S1Rq1;q2S1S1Rq1
+; q1S0S0Rq2; q1S1S0Rq2; q2S0S1Rq1; q2S1S1Rq1
 
 注意，TSimple 永远不会进入扫描 S1 的配置，因此四个五元组中有两个是多余的。图灵还使用了另一种表示图灵机的典型格式，即转换表。表 2 给出了 TSimple 的转换表。
 
@@ -63,7 +63,7 @@
 
 表 3：图灵机的四元符号表示法
 
-qiSjSi,jqi,jqiSjLqi,jqiSjRqi,j
+qiSjSi, jqi, jqiSjLqi, jqiSjRqi, j
 
 2. 艾伦·图灵的图灵机只有一种符号，因此不依赖于 F 和 E 方块的图灵系统。
 3. 艾伦·图灵的图灵机有一个双向无限的纸带。
@@ -73,15 +73,15 @@ qiSjSi,jqi,jqiSjLqi,jqiSjRqi,j
 
 ### 1.3 定义的形式化
 
-“磁带”和“读写头”的讨论旨在帮助直觉（并揭示了图灵写作时的一些情况），但在图灵机的定义中并不起重要作用。在需要对图灵机进行形式分析的情况下，适当地用更数学化的术语来详细说明机器和程序的定义是合适的。纯粹形式上，图灵机可以被指定为一个四元组 T=(Q,Σ,s,δ)，其中：
+“磁带”和“读写头”的讨论旨在帮助直觉（并揭示了图灵写作时的一些情况），但在图灵机的定义中并不起重要作用。在需要对图灵机进行形式分析的情况下，适当地用更数学化的术语来详细说明机器和程序的定义是合适的。纯粹形式上，图灵机可以被指定为一个四元组 T=(Q, Σ, s, δ)，其中：
 
 * Q 是有限状态集合 q
-* Σ是有限符号集合
+* Σ 是有限符号集合
 * s 是初始状态 s∈Q
-* δ是确定下一步移动的转换函数：
-  δ:(Q×Σ)→(Σ×{L,R}×Q)
+* δ 是确定下一步移动的转换函数：
+  δ:(Q×Σ)→(Σ×{L, R}×Q)
 
-机器 T 的转换函数是从计算状态到计算状态的函数。如果δ(qi,Sj)=(Si,j,D,qi,j)，那么当机器的状态为 qj，读取符号 Sj 时，T 将 Sj 替换为 Si,j，向方向 D∈{L,R}移动，并进入状态 qi,j。
+机器 T 的转换函数是从计算状态到计算状态的函数。如果 δ(qi, Sj)=(Si, j, D, qi, j)，那么当机器的状态为 qj，读取符号 Sj 时，T 将 Sj 替换为 Si, j，向方向 D∈{L, R}移动，并进入状态 qi, j。
 
 ### 1.4 描述图灵机的行为
 
@@ -116,7 +116,7 @@ qiSjSi,jqi,jqiSjLqi,jqiSjRqi,j
 * 任何图灵机无法计算的问题在绝对意义上都不是“可计算的”（至少相对于人类来说，参见第 3 节）。
 * 对于我们认为可计算的任何问题，我们应该能够构建一个能够计算它的图灵机。用图灵的措辞来说：
 
-  > 我认为[计算机的]操作包括用于计算数字的所有操作。(艾伦·图灵 1936-7: 231)
+  > 我认为 [计算机的] 操作包括用于计算数字的所有操作。(艾伦·图灵 1936-7: 231)
   >
 
 在本节中，将给出一些例子，以说明图灵机模型的计算能力和边界。第 3 节讨论了与图灵的论文相关的一些哲学问题。
@@ -181,7 +181,7 @@ N1=n1+n2+1N2=N1+n3N3=N2+n4⋮Ni=Ni−1+ni+1
 
 ### 2.2 可计算数和问题
 
-图灵的原始论文涉及可计算（实数）。如果存在一台图灵机可以计算出对该数字的任意精确逼近，则该（实）数是图灵可计算的。所有代数数（具有代数系数的多项式的根）和许多超越数学常数，如 e 和π，都是图灵可计算的。图灵给出了几个由图灵机可计算的数字类的示例（参见图灵 1936-7 年的第 10 节“可计算的大类数字的示例”），作为一种启发性论证，表明图灵机可以计算出各种各样的数字类。
+图灵的原始论文涉及可计算（实数）。如果存在一台图灵机可以计算出对该数字的任意精确逼近，则该（实）数是图灵可计算的。所有代数数（具有代数系数的多项式的根）和许多超越数学常数，如 e 和 π，都是图灵可计算的。图灵给出了几个由图灵机可计算的数字类的示例（参见图灵 1936-7 年的第 10 节“可计算的大类数字的示例”），作为一种启发性论证，表明图灵机可以计算出各种各样的数字类。
 
 然而，人们可能会想知道，以数字进行计算，即计算，如何捕捉非数字但可计算的问题，以及图灵机如何捕捉确定某事是真实还是不真实的所有一般和有效的过程。此类问题的示例包括：
 
@@ -196,7 +196,7 @@ In general, these problems are of the form:
 
 谓词的特征函数是一个函数，当给定适当的参数时，它的值为 TRUE 或 FALSE。为了使这样的函数可计算，图灵依赖于哥德尔的洞察力，即这类问题可以编码为关于数字的问题（参见哥德尔的不完全性定理和下一节 2.3）。用图灵的措辞来说：
 
-> 表达式“存在一种确定的一般过程…”已被用作“存在一种将确定…”的等价。只有我们能够证明“可计算”的定义才能证明这种用法是合理的。对于这些“一般过程”问题中的每一个，都可以表达为关于确定给定整数 n 是否具有属性 G(n)的一般过程的问题[例如，G(n)可能意味着“n 是令人满意的”或“n 是可证明公式的哥德尔表示”]，这等价于计算一个数字，其第 n 位为 1，如果 G(n)为真，则为 0，如果为假。（1936-7：248）
+> 表达式“存在一种确定的一般过程…”已被用作“存在一种将确定…”的等价。只有我们能够证明“可计算”的定义才能证明这种用法是合理的。对于这些“一般过程”问题中的每一个，都可以表达为关于确定给定整数 n 是否具有属性 G(n)的一般过程的问题 [例如，G(n)可能意味着“n 是令人满意的”或“n 是可证明公式的哥德尔表示”]，这等价于计算一个数字，其第 n 位为 1，如果 G(n)为真，则为 0，如果为假。（1936-7：248）
 
 艾伦·图灵的构建通用图灵机及其在证明存在一些无法由图灵机计算的问题中的使用，关键在于将“一般过程”问题编码为数值问题的可能性。
 
@@ -212,7 +212,7 @@ In general, these problems are of the form:
 
 给定一台机器 Tn，图灵的基本思想是构造一台机器 T'n，它不直接打印出 Tn 的输出，而是打印出 Tn 的连续完整配置或瞬时描述。为了实现这一点，T'n：
 
-> [...] 可以依赖于在自身内部某处写有[Tn]的操作规则[...] 每一步都可以通过参考这些规则来执行。（图灵 1936-7：242）
+> [...] 可以依赖于在自身内部某处写有 [Tn] 的操作规则 [...] 每一步都可以通过参考这些规则来执行。（图灵 1936-7：242）
 
 换句话说，T'n 通过在其磁带上写入 Tn 的程序来打印出 Tn 的连续完整配置。因此，图灵需要一种记号方法，使得能够在同一磁带上“捕捉”图灵机的两个不同方面，以便它们可以被同一台机器处理，即：
 
@@ -221,20 +221,20 @@ In general, these problems are of the form:
 
 因此，在构建 U 的过程中，第一步也许是最重要的一步，就是五元组和完整配置符号的描述，以及将它们放在同一条纸带上的想法。更具体地说，纸带被分为两个区域，我们在这里称之为 A 区域和 B 区域。A 区域包含 Tn 的“程序”的符号表示，而 B 区域包含 Tn 的连续完整配置的符号表示。在图灵的论文中，它们由一个额外的符号“::”分隔开来。
 
-为了简化 U 的构建并将任何图灵机编码为唯一的数字，图灵开发了第三种符号表示法，只允许使用字母来表示五元组和完整配置。这是由以下方式确定的[请注意，我们使用图灵的原始编码。当然，有各种可能的编码方式，包括二进制编码]：
+为了简化 U 的构建并将任何图灵机编码为唯一的数字，图灵开发了第三种符号表示法，只允许使用字母来表示五元组和完整配置。这是由以下方式确定的 [请注意，我们使用图灵的原始编码。当然，有各种可能的编码方式，包括二进制编码]：
 
 * 将 Tn 中五元组中的每个状态 qi 替换为 DA...Ai，因此，例如 q3 变为 DAAA。
 * 将 Tn 中五元组中的每个符号 Sj 替换为 DC...Cj，因此，例如 S1 变为 DC。
 
-使用这种方法，可以用一系列大写字母来表示图灵机 Tn 的每个五元组，因此任何机器 Tn 的“程序”可以用符号 A、C、D、R、L、N 和;的集合来表示。这就是所谓的图灵机的标准描述（S.D.）。例如，TSimple 的 S.D.如下：
+使用这种方法，可以用一系列大写字母来表示图灵机 Tn 的每个五元组，因此任何机器 Tn 的“程序”可以用符号 A、C、D、R、L、N 和; 的集合来表示。这就是所谓的图灵机的标准描述（S.D.）。例如，TSimple 的 S.D.如下：
 
-;*DADDRDAA*;*DADCDRDAA*;*DAADDCRDA*;*DAADCDCRDA*
+; *DADDRDAA*; *DADCDRDAA*; *DAADDCRDA*; *DAADCDCRDA*
 
 这实质上是图灵的哥德尔编号版本。事实上，正如图灵所示，可以通过替换来轻松获得图灵机 Tn 的数值描述表示或描述编号（D.N.）：
 
-* A" 由 "1
-* C" 由 "2
-* D" 由 "3
+* A " 由 " 1
+* C " 由 " 2
+* D " 由 " 3
 * “L” by “4”
 * “R” by “5”
 * “N” by “6”
@@ -252,7 +252,7 @@ Clearly, the method used to determine the S.D. of some machine Tn can also be us
 
 #### 2.3.2 Interchangeability of program and behavior: a basic set of functions
 
-Having a notational method to write the program and successive complete configurations of some machine Tn on one and the same tape of some other machine T′n is the first step in Turing’s construction of *U*. However, *U* should also be able to “emulate” the program of Tn as written in region *A* so that it can actually write out its successive complete configurations in region *B*. Moreover it should be possible to “take out and exchange[…] [the rules of operations of some Turing machine] for others” (Turing 1936–7: 242). Viz., it should be able not just to calculate but also to compute, an issue that was also dealt with by others such as Church, Gödel and Post using their own formal devices. It should, for instance, be able to “recognize” whether it is in region *A* or *B* and it should be able to determine whether or not a certain sequence of symbols is the next state qi which needs to be executed.
+Having a notational method to write the program and successive complete configurations of some machine Tn on one and the same tape of some other machine T′n is the first step in Turing’s construction of *U*. However, *U* should also be able to “emulate” the program of Tn as written in region *A* so that it can actually write out its successive complete configurations in region *B*. Moreover it should be possible to “take out and exchange […] [the rules of operations of some Turing machine] for others” (Turing 1936–7: 242). Viz., it should be able not just to calculate but also to compute, an issue that was also dealt with by others such as Church, Gödel and Post using their own formal devices. It should, for instance, be able to “recognize” whether it is in region *A* or *B* and it should be able to determine whether or not a certain sequence of symbols is the next state qi which needs to be executed.
 
 This is achieved by Turing through the construction of a sequence of Turing computable problems such as:
 
@@ -267,29 +267,29 @@ This is achieved by Turing through the construction of a sequence of Turing comp
 
 图灵定义了九个不同的函数来展示如何使用图灵机计算比较函数：
 
-* FIND(qi,qj,a)：这个机器函数搜索 a 的最左出现。如果找到 a，机器将移动到状态 qi，否则移动到状态 qj。这是通过让机器首先移动到磁带的开头（由特殊标记表示），然后向右移动直到找到 a 或达到磁带上的最右符号来实现的。
-* FINDL(qi,qj,a)：与 FIND 相同，但在找到 a 后，机器向左移动一格。这在需要在由符号 a 标记的 E 方格中计算符号的函数中使用。
-* ERASE(qi,qj,a)：机器计算 FIND。如果找到 a，它会擦除 a 并转到状态 qi，否则转到状态 qj。
-* ERASE_ALL(qj,a)=ERASE(ERASE_ALL,qj,a)：机器重复地对 a 进行 ERASE 操作，直到所有的 a 都被擦除。然后它移动到 qj 状态。
-* EQUAL(qi,qj,a)：机器检查当前符号是否为 a。如果是，它移动到 qi 状态；否则，它移动到 qj 状态。
-* CMP_XY(qi,qj,b)=FINDL(EQUAL(qi,qj,x),qj,b)：无论当前符号 x 是什么，机器在 b 上执行 FINDL 操作（查找由 b 标记的符号）。如果存在一个由 b 标记的符号 y，机器执行 EQUAL 操作比较 x 和 y；否则，机器转到 qj 状态。换句话说，CMP_XY(qi,qj,b)比较当前符号是否与最左边由 b 标记的符号相同。
-* COMPARE_MARKED(qi,qj,qn,a,b)：机器检查左侧分别标记为 a 和 b 的最左符号是否相同。如果没有标记为 a 或 b 的符号，则机器进入状态 qn；如果标记为 a 和 b 的符号相同，则机器进入状态 qi，否则机器进入状态 qj。该函数的计算方式为 FINDL(CMP_XY(qi,qj,b),FIND(qj,qn,b),a)
-* COMPARE_ERASE(qiqj,qn,a,b)：与 COMPARE_MARKED 相同，但当标记为 a 和 b 的符号相同时，将擦除标记 a 和 b。这通过先在 a 上执行 ERASE，然后在 b 上执行 ERASE 来实现。
-* COMPARE_ALL(qj,qn,a,b)：机器比较分别标记为 a 和 b 的序列 A 和 B。这通过反复对 a 和 b 执行 COMPARE_ERASE 来完成。如果 A 和 B 相等，则所有的 a 和 b 都将被擦除，机器将移动到状态 qj；否则，它将移动到状态 qn。它通过 COMPARE_ERASE(COMPARE_ALL(qj,qn,a,b),qj,qn,a,b)的递归调用来计算，从而通过递归调用 COMPARE_ALL 来实现。
+* FIND(qi, qj, a)：这个机器函数搜索 a 的最左出现。如果找到 a，机器将移动到状态 qi，否则移动到状态 qj。这是通过让机器首先移动到磁带的开头（由特殊标记表示），然后向右移动直到找到 a 或达到磁带上的最右符号来实现的。
+* FINDL(qi, qj, a)：与 FIND 相同，但在找到 a 后，机器向左移动一格。这在需要在由符号 a 标记的 E 方格中计算符号的函数中使用。
+* ERASE(qi, qj, a)：机器计算 FIND。如果找到 a，它会擦除 a 并转到状态 qi，否则转到状态 qj。
+* ERASE_ALL(qj, a)=ERASE(ERASE_ALL, qj, a)：机器重复地对 a 进行 ERASE 操作，直到所有的 a 都被擦除。然后它移动到 qj 状态。
+* EQUAL(qi, qj, a)：机器检查当前符号是否为 a。如果是，它移动到 qi 状态；否则，它移动到 qj 状态。
+* CMP_XY(qi, qj, b)=FINDL(EQUAL(qi, qj, x), qj, b)：无论当前符号 x 是什么，机器在 b 上执行 FINDL 操作（查找由 b 标记的符号）。如果存在一个由 b 标记的符号 y，机器执行 EQUAL 操作比较 x 和 y；否则，机器转到 qj 状态。换句话说，CMP_XY(qi, qj, b)比较当前符号是否与最左边由 b 标记的符号相同。
+* COMPARE_MARKED(qi, qj, qn, a, b)：机器检查左侧分别标记为 a 和 b 的最左符号是否相同。如果没有标记为 a 或 b 的符号，则机器进入状态 qn；如果标记为 a 和 b 的符号相同，则机器进入状态 qi，否则机器进入状态 qj。该函数的计算方式为 FINDL(CMP_XY(qi, qj, b), FIND(qj, qn, b), a)
+* COMPARE_ERASE(qiqj, qn, a, b)：与 COMPARE_MARKED 相同，但当标记为 a 和 b 的符号相同时，将擦除标记 a 和 b。这通过先在 a 上执行 ERASE，然后在 b 上执行 ERASE 来实现。
+* COMPARE_ALL(qj, qn, a, b)：机器比较分别标记为 a 和 b 的序列 A 和 B。这通过反复对 a 和 b 执行 COMPARE_ERASE 来完成。如果 A 和 B 相等，则所有的 a 和 b 都将被擦除，机器将移动到状态 qj；否则，它将移动到状态 qn。它通过 COMPARE_ERASE(COMPARE_ALL(qj, qn, a, b), qj, qn, a, b)的递归调用来计算，从而通过递归调用 COMPARE_ALL 来实现。
 
 以类似的方式，图灵定义了以下函数：
 
-* 复制(qi,a)：将标记为 a 的符号序列复制到最后一个完整配置的右侧，并擦除标记。
-* 复制 n(qi,a1,a2,…,an)：将标记为 a1 到 an 的序列复制到最后一个完整配置的右侧，并擦除所有标记 ai。
-* REPLACE(qi,a,b): 用字母 b 替换所有的字母 a
-* MARK_NEXT_CONFIG(qi,a): 将机器头右侧的第一个配置 qiSj 标记为字母 a
-* FIND_RIGHT(qi,a): 找到最右边的符号 a
+* 复制(qi, a)：将标记为 a 的符号序列复制到最后一个完整配置的右侧，并擦除标记。
+* 复制 n(qi, a1, a2,…, an)：将标记为 a1 到 an 的序列复制到最后一个完整配置的右侧，并擦除所有标记 ai。
+* REPLACE(qi, a, b): 用字母 b 替换所有的字母 a
+* MARK_NEXT_CONFIG(qi, a): 将机器头右侧的第一个配置 qiSj 标记为字母 a
+* FIND_RIGHT(qi, a): 找到最右边的符号 a
 
 使用基本功能 COPY、REPLACE 和 COMPARE，图灵构建了一台通用图灵机。
 
 下面是通用图灵机的概要，显示了这些基本功能确实使通用计算成为可能。假设在初始化时，U 的磁带上有某个图灵机 Tn 的 S.D.。请记住，图灵使用交替的 F 和 E 方块系统，因此，例如，TSimple 的 S.D.将被写在 U 的磁带上：
 
-;**D**​*A*​**D**​*D*​**R**​*D*​**A**​*A*​ **;**​*D*​**A**​*D*​**C**​*D*​**R**​*D*​**A**​*A*​ **;**​*D*​**A**​*A*​**D**​*D*​**C**​*R*​**D**​*A*​ **;**​*D*​**A**​*A*​**D**​*C*​**D**​*C*​**R**​*D*​**A**
+; **D**​*A*​**D**​*D*​**R**​*D*​**A**​*A*​ **;**​*D*​**A**​*D*​**C**​*D*​**R**​*D*​**A**​*A*​ **;**​*D*​**A**​*A*​**D**​*D*​**C**​*R*​**D**​*A*​ **;**​*D*​**A**​*A*​**D**​*C*​**D**​*C*​**R**​*D*​**A**
 
 其中“_”表示未标记的 E 方块。
 
@@ -305,7 +305,7 @@ This is achieved by Turing through the construction of a sequence of Turing comp
   U 然后转到 PRINT
 * PRINT。在已标记为 MARK_OPERATIONS 的指令中，确定是否存在操作 Print 0 或 Print 1。如果是这样，分别在最后一个完整配置的右侧打印 0 或 1。这不是必要的功能，但图灵坚持让 U 不仅打印出 Tn 计算的（编码的）完整配置，还打印出 Tn 计算的实际（二进制）实数。
 * 打印完整配置。U 打印下一个完整配置并擦除所有标记 u、v、w、x、y。然后返回到查找下一个状态。U 首先搜索最右边的字母 u，以检查需要哪种移动（R、L、N），并擦除 R、L、N 的标记 u。根据 L、R 或 N 的值，通过应用 COPY5 到 u、v、w、x、y 来写下下一个完整配置。移动操作（L、R、N）由 u、v、w、x、y 的特定组合来解释：
-  当<sub>L:COPY5(查找下一个状态,v,y,x,u,w)当</sub>R:COPY5(查找下一个状态,v,x,u,y,w)当~N:COPY5(查找下一个状态,v,x,y,u,w)
+  当 <sub> L:COPY5(查找下一个状态, v, y, x, u, w)当 </sub> R:COPY5(查找下一个状态, v, x, u, y, w)当~N:COPY5(查找下一个状态, v, x, y, u, w)
   根据我们的例子，由于 TSimple 需要向右移动，所以在 U 的磁带上写下的 TSimple 的新的最右边的完整配置是：
   D_S0D_C_S1D_S0D_C_S1D_A_q1
   由于我们知道，对于这个完整的配置，TSimple 正在扫描的正方形不是上一个完整配置中包含的（即 TSimple 已经超过了最右边的点），因此由 U 写出的完整配置实际上是不完整的。这个小缺陷是由 Post（Post 1947）通过在下一轮中使用的函数中包含一个额外的指令来纠正的，该指令用于标记完整配置。
@@ -331,9 +331,9 @@ This is achieved by Turing through the construction of a sequence of Turing comp
 
 Today, one usually relies on the first method while it is evident that in the absence of a problem Duncomp, Turing but also Church and Post (see [Sec. 4](https://plato.stanford.edu/entries/turing-machine/#AlteHistModeComp)) had to rely on the direct approach.
 
-The notion of reducibility has its origins in the work of Turing and Post who considered several variants of computability (Post 1947; Turing 1939). The concept was later appropriated in the context of computational complexity theory and is today one of the basic concepts of both computability and computational complexity theory (Odifreddi 1989; Sipser 1996). Roughly speaking, a reduction of a problem Di to a problem Dj comes down to providing an effective procedure for translating every instance di,m of the problem Di to an instance dj,n of Dj in such a way that an effective procedure for solving dj,n also yields an effective procedure for solving di,m. In other words, if Di reduces to Dj then, if Di is uncomputable so is Dj. Note that the reduction of one problem to another can also be used in decidability proofs: if Di reduces to Dj and Dj is known to be computable then so is Di.
+The notion of reducibility has its origins in the work of Turing and Post who considered several variants of computability (Post 1947; Turing 1939). The concept was later appropriated in the context of computational complexity theory and is today one of the basic concepts of both computability and computational complexity theory (Odifreddi 1989; Sipser 1996). Roughly speaking, a reduction of a problem Di to a problem Dj comes down to providing an effective procedure for translating every instance di, m of the problem Di to an instance dj, n of Dj in such a way that an effective procedure for solving dj, n also yields an effective procedure for solving di, m. In other words, if Di reduces to Dj then, if Di is uncomputable so is Dj. Note that the reduction of one problem to another can also be used in decidability proofs: if Di reduces to Dj and Dj is known to be computable then so is Di.
 
-In the absence of **D**uncomp a very different approach was required and Church, Post and Turing each used more or less the same approach to this end (Gandy 1988). First of all, one needs a formalism which captures the notion of computability. Turing proposed the Turing machine formalism to this end. A second step is to show that there are problems that are not computable within the formalism. To achieve this, a uniform process **U** needs to be set-up relative to the formalism which is able to compute every computable number. One can then use (some form of) diagonalization in combination with **U** to derive a contradiction. Diagonalization was introduced by Cantor to show that the set of real numbers is “uncountable” or not denumerable. A variant of the method was used also by Gödel in the proof of his [first incompleteness theorem](https://plato.stanford.edu/entries/goedel-incompleteness/sup2.html).
+In the absence of **D** uncomp a very different approach was required and Church, Post and Turing each used more or less the same approach to this end (Gandy 1988). First of all, one needs a formalism which captures the notion of computability. Turing proposed the Turing machine formalism to this end. A second step is to show that there are problems that are not computable within the formalism. To achieve this, a uniform process **U** needs to be set-up relative to the formalism which is able to compute every computable number. One can then use (some form of) diagonalization in combination with **U** to derive a contradiction. Diagonalization was introduced by Cantor to show that the set of real numbers is “uncountable” or not denumerable. A variant of the method was used also by Gödel in the proof of his [first incompleteness theorem](https://plato.stanford.edu/entries/goedel-incompleteness/sup2.html).
 
 #### 2.4.2 图灵的基本问题 CIRC？，PRINT？和决策问题
 
@@ -364,11 +364,11 @@ CIRC？的不可计算性证明使用了一个假设的无环机器 Tdecide 的�
 
 HALT？的一个流行证明如下。假设 HALT？是可计算的。那么应该可以构造一个图灵机，对于每个机器 Ti 和某个输入 w 对于 Ti，判断 Ti 是否会在 w 上停机。让我们称这个机器为 TH。特别地，我们有：
 
-TH(Ti,w)={如果 Ti 在 w 上停机，则 HALT 如果 Ti 在 w 上循环，则 LOOP
+TH(Ti, w)={如果 Ti 在 w 上停机，则 HALT 如果 Ti 在 w 上循环，则 LOOP
 
 现在我们定义第二台机器 TD，它依赖于机器 TH 可以被构建的假设。更具体地说，我们有：
 
-TD(Ti,D.N. of Ti)=⎧⎪ ⎪ ⎪ ⎪⎨⎪ ⎪ ⎪ ⎪⎩如果 Ti 不会在其自身的描述号上停机，则 HALT 如果 Ti 会在其自身的描述号上停机，则 LOOP
+TD(Ti, D.N. of Ti)=⎧⎪ ⎪ ⎪ ⎪⎨⎪ ⎪ ⎪ ⎪⎩ 如果 Ti 不会在其自身的描述号上停机，则 HALT 如果 Ti 会在其自身的描述号上停机，则 LOOP
 
 如果我们现在将 Ti 设置为 TD，我们就会得到一个矛盾：如果 TD 停机，那么意味着 TD 不会停机，反之亦然。这个证明的一个流行但相当非正式的变体是由克里斯托弗·斯特拉奇在编程的背景下给出的（Strachey 1965）。
 
@@ -412,7 +412,7 @@ Minsky 证明了对于每个图灵机，都存在一个具有两个磁带的非�
 
 在其原始背景下，图灵将可计算数与图灵机进行了等同的鉴定，旨在证明决策问题不是一个可计算问题，因此也不是所谓的“一般过程”问题（图灵 1936-7: 248）。为了得出这个结果，需要做出的基本假设是我们对“可计算性”的“直观”概念可以被形式化地定义为图灵可计算性，因此没有“可计算”的问题是不可图灵计算的。但是，图灵的“直观”计算性概念是什么，我们如何确信它确实涵盖了所有可计算问题，更一般地说，涵盖了所有种类的计算？这是计算机科学哲学中一个非常基本的问题。
 
-在图灵撰写这篇论文的时候，现代计算机尚未发展起来，因此将图灵的论文重新解释为图灵可计算性与现代计算机可计算性等同的观点，实际上是对图灵论文的历史正确性的解释。图灵撰写论文时存在的计算机，如微分分析仪或桌上计算器，在计算能力上受到很大限制，并且在人类计算实践的背景下使用（Grier 2007）。因此，图灵并没有试图形式化机器计算，而是人类计算，因此图灵论文中的可计算问题变成了通过人类手段可计算。这在图灵 1936-7 年的第 9 节中非常明确，他在分析人类计算过程时展示了图灵机是（人类）计算的“自然”模型。分析结果是一种抽象的人类“计算器”，它满足一系列根植于图灵对人类局限性的认识的不同条件，这些条件限制了我们能够计算的范围（包括我们的感知装置和我们的思维装置）。这个“计算器”在一个被分成方格的无限一维纸带上计算（真实的）数字[注：图灵假设纸张的二维特性对计算“并非必要”（图灵 1936-7 年：249）]。它具有以下限制（Gandy 1988; Sieg 1994）：
+在图灵撰写这篇论文的时候，现代计算机尚未发展起来，因此将图灵的论文重新解释为图灵可计算性与现代计算机可计算性等同的观点，实际上是对图灵论文的历史正确性的解释。图灵撰写论文时存在的计算机，如微分分析仪或桌上计算器，在计算能力上受到很大限制，并且在人类计算实践的背景下使用（Grier 2007）。因此，图灵并没有试图形式化机器计算，而是人类计算，因此图灵论文中的可计算问题变成了通过人类手段可计算。这在图灵 1936-7 年的第 9 节中非常明确，他在分析人类计算过程时展示了图灵机是（人类）计算的“自然”模型。分析结果是一种抽象的人类“计算器”，它满足一系列根植于图灵对人类局限性的认识的不同条件，这些条件限制了我们能够计算的范围（包括我们的感知装置和我们的思维装置）。这个“计算器”在一个被分成方格的无限一维纸带上计算（真实的）数字 [注：图灵假设纸张的二维特性对计算“并非必要”（图灵 1936-7 年：249）]。它具有以下限制（Gandy 1988; Sieg 1994）：
 
 * 决定性条件 D：“计算机在任何时刻的行为由他所观察到的符号和他当时的‘心态’决定。”（图灵 1936-7 年：250）
 * 有界性条件 B1：“计算机在一个时刻内能够观察到的符号或方格的数量有一个上限 B。如果他想观察更多，他必须使用连续的观察。”（图灵 1936-7 年：250）
@@ -436,7 +436,7 @@ Note that while Turing’s analysis focuses on human computation, the applicatio
 
 ### 4.1 通用递归函数
 
-通用递归函数的最初形式可以在 Gödel 1934 中找到，它建立在 Herbrand 的建议上。在 Kleene 1936 中给出了一个更简单的定义，在 Kleene 1943 中引入了使用所谓的最小化或μ运算符的标准形式。更多信息，请参阅关于递归函数的条目。
+通用递归函数的最初形式可以在 Gödel 1934 中找到，它建立在 Herbrand 的建议上。在 Kleene 1936 中给出了一个更简单的定义，在 Kleene 1943 中引入了使用所谓的最小化或 μ 运算符的标准形式。更多信息，请参阅关于递归函数的条目。
 
 教堂使用一般递归函数的定义来陈述他的论点：
 
@@ -446,31 +446,31 @@ Note that while Turing’s analysis focuses on human computation, the applicatio
 
 ### 4.2 λ-可定义性
 
-Church 的λ演算起源于(Church 1932, 1933)的论文，旨在作为数学的逻辑基础。当时，Church 相信这种不同的形式方法可能避免哥德尔不完备性(Sieg 1997: 177)。然而，Church 提出的逻辑系统被他的两位博士生 Stephen C. Kleene 和 Barkley Rosser 证明是不一致的，因此他们开始专注于该逻辑的一个子部分，即λ演算。Church、Kleene 和 Rosser 开始λ定义他们能想到的任何可计算函数，而 Church 很快提出用λ-可定义性来定义有效可计算性。然而，只有在 Church、Kleene 和 Rosser 证明了一般递归性和λ-可定义性是等价的之后，Church 才公开宣布他的论文，并以一般递归函数而不是λ-可定义性的术语来表达(Davis 1982; Sieg 1997)。
+Church 的 λ 演算起源于(Church 1932, 1933)的论文，旨在作为数学的逻辑基础。当时，Church 相信这种不同的形式方法可能避免哥德尔不完备性(Sieg 1997: 177)。然而，Church 提出的逻辑系统被他的两位博士生 Stephen C. Kleene 和 Barkley Rosser 证明是不一致的，因此他们开始专注于该逻辑的一个子部分，即 λ 演算。Church、Kleene 和 Rosser 开始 λ 定义他们能想到的任何可计算函数，而 Church 很快提出用 λ-可定义性来定义有效可计算性。然而，只有在 Church、Kleene 和 Rosser 证明了一般递归性和 λ-可定义性是等价的之后，Church 才公开宣布他的论文，并以一般递归函数而不是 λ-可定义性的术语来表达(Davis 1982; Sieg 1997)。
 
-在λ演算中，只有两种类型的符号。三个原始符号λ、(、)也称为不正确的符号，以及一个无限列表的变量。有三个规则来定义λ演算的良构公式，称为λ公式。
+在 λ 演算中，只有两种类型的符号。三个原始符号 λ、(、)也称为不正确的符号，以及一个无限列表的变量。有三个规则来定义 λ 演算的良构公式，称为 λ 公式。
 
 1. λ-公式首先是变量本身。
-2. 如果 P 是一个包含 x 作为自由变量的λ-公式，那么λx[P]也是一个λ-公式。λ-运算符用于绑定变量，因此它将包含自由变量的表达式转换为表示函数的表达式。
-3. 如果 M 和 N 是λ-公式，那么{M}(N)也是λ-公式，其中{M}(N)被理解为将函数 M 应用于 N。
+2. 如果 P 是一个包含 x 作为自由变量的 λ-公式，那么 λx [P] 也是一个 λ-公式。λ-运算符用于绑定变量，因此它将包含自由变量的表达式转换为表示函数的表达式。
+3. 如果 M 和 N 是 λ-公式，那么{M}(N)也是 λ-公式，其中{M}(N)被理解为将函数 M 应用于 N。
 
-λ-公式，或λ-演算的良构公式，是仅由这三个规则的（重复）应用所得到的公式。
+λ-公式，或 λ-演算的良构公式，是仅由这三个规则的（重复）应用所得到的公式。
 
 有三个操作或转换规则。让我们定义 SxNM|代表在 M 中将 x 替换为 N 所得到的公式。
 
-1. 简化。将公式的任何部分{λx[M]}(N)替换为 SxNM|，前提是 M 的绑定变量既与 x 不同，也与 N 的自由变量不同。例如{λx[x2]}(2)简化为 22。
-2. 扩展 通过将公式的任何部分 SxNM|替换为{λx[M]}(N)，前提是((λxM)N)是良好形式的，并且 M 的绑定变量与 x 和 N 中的自由变量都不同。例如，22 可以扩展为{λx[x2]}(2)
-3. 更改绑定变量 通过将公式的任何部分 M 替换为 SxyM|，前提是 x 不是 M 的自由变量，y 不在 M 中出现。例如将{λx[x2]}更改为{λy[y2]}
+1. 简化。将公式的任何部分{λx [M]}(N)替换为 SxNM|，前提是 M 的绑定变量既与 x 不同，也与 N 的自由变量不同。例如{λx [x2]}(2)简化为 22。
+2. 扩展 通过将公式的任何部分 SxNM|替换为{λx [M]}(N)，前提是((λxM)N)是良好形式的，并且 M 的绑定变量与 x 和 N 中的自由变量都不同。例如，22 可以扩展为{λx [x2]}(2)
+3. 更改绑定变量 通过将公式的任何部分 M 替换为 SxyM|，前提是 x 不是 M 的自由变量，y 不在 M 中出现。例如将{λx [x2]}更改为{λy [y2]}
 
-Church 引入以下缩写来定义λ演算中的自然数：
+Church 引入以下缩写来定义 λ 演算中的自然数：
 
 1→λyx.yx,2→λyx.y(yx),3→λyx.y(y(yx)),…
 
-使用这个定义，可以对正整数进行λ-定义函数。如果存在一个λ-公式 F，使得 F(m)=n，其中 m 和 n 是表示整数 m 和 n 的λ-公式，则一个正整数的函数 F 是λ-可定义的，那么通过应用λ-演算的转换规则，可以将λ-公式{F}(m)转换为 n。例如，由 Church 首次引入的后继函数 S 可以如下λ-定义：
+使用这个定义，可以对正整数进行 λ-定义函数。如果存在一个 λ-公式 F，使得 F(m)=n，其中 m 和 n 是表示整数 m 和 n 的 λ-公式，则一个正整数的函数 F 是 λ-可定义的，那么通过应用 λ-演算的转换规则，可以将 λ-公式{F}(m)转换为 n。例如，由 Church 首次引入的后继函数 S 可以如下 λ-定义：
 
 S→λabc.b(abc)
 
-举个例子，将 S 应用于代表 2 的λ-公式，我们得到：
+举个例子，将 S 应用于代表 2 的 λ-公式，我们得到：
 
 (λabc.b(abc))(λyx.y(yx))→λbc.b((λyx.y(yx))bc)→λbc.b((λx.b(bx))c)→λbc.b(b(bc))
 
@@ -480,11 +480,11 @@ S→λabc.b(abc)
 
 大约在 1920-1921 年，埃米尔·波斯特（Emil Post）开发了不同但相关的生产系统，以便开发一种语法形式，使他能够解决一阶逻辑的决策问题。其中一种形式是波斯特规范系统 C，后来被称为波斯特生产系统。
 
-规范系统由有限字母表Σ、有限集合的初始词 W0,0、W0,1、…、W0,n 和一组有限的产生规则组成，形式如下：
+规范系统由有限字母表 Σ、有限集合的初始词 W0,0、W0,1、…、W0, n 和一组有限的产生规则组成，形式如下：
 
 g11Pi11g12Pi12…g1m1Pi1m1g1(m1+1)g21Pi21g22Pi22…g2m2Pi2m2g2(m2+1)……………………………gk1Pik1gk2Pik2…gkmkPikmkgk(mk+1)产生 g1Pi1g2Pi2…gmPimg(m+1)
 
-符号 g 是一种元符号：它们对应于实际产生中实际字母序列。符号 P 是操作变量，因此可以表示产生中的任何字母序列。因此，例如，考虑一个字母表Σ={a,b}上的产生系统，初始词为：
+符号 g 是一种元符号：它们对应于实际产生中实际字母序列。符号 P 是操作变量，因此可以表示产生中的任何字母序列。因此，例如，考虑一个字母表 Σ={a, b}上的产生系统，初始词为：
 
 W0=ababaaabbaabbaabbaba
 
@@ -492,17 +492,17 @@ W0=ababaaabbaabbaabbaba
 
 P1,1bbP1,2 产生 P1,3aaP1,4
 
-然后，从 W0 开始，有三种可能的方式应用产生规则，在每次应用中，变量 P1,i 的值将不同，但 g 的值是固定的。由规范系统产生的有限词序列集合称为规范集。
+然后，从 W0 开始，有三种可能的方式应用产生规则，在每次应用中，变量 P1, i 的值将不同，但 g 的值是固定的。由规范系统产生的有限词序列集合称为规范集。
 
-由 Post 定义的一类特殊的规范形式是正常系统。一个正常系统 N 由一个有限字母表Σ，一个初始词 W0∈Σ∗和一个有限的产生规则集合组成，每个规则的形式如下：
+由 Post 定义的一类特殊的规范形式是正常系统。一个正常系统 N 由一个有限字母表 Σ，一个初始词 W0∈Σ∗ 和一个有限的产生规则集合组成，每个规则的形式如下：
 
 giPproducesPg′i
 
-由正常系统产生的任何有限词序列的集合被称为正常集。Post 能够证明，对于任何某个字母表Σ上的规范集 C，存在一个字母表Δ上的正常集 N，使得Σ⊆Δ且 C=N∩Σ∗。他坚信(1)任何可以通过有限手段生成的有限词序列集合都可以通过规范系统生成，以及(2)对于每个规范集，存在一个包含它的正常集的证明，这导致了 Post 的论文 I 的产生。
+由正常系统产生的任何有限词序列的集合被称为正常集。Post 能够证明，对于任何某个字母表 Σ 上的规范集 C，存在一个字母表 Δ 上的正常集 N，使得 Σ⊆Δ 且 C=N∩Σ∗。他坚信(1)任何可以通过有限手段生成的有限词序列集合都可以通过规范系统生成，以及(2)对于每个规范集，存在一个包含它的正常集的证明，这导致了 Post 的论文 I 的产生。
 
-> 文章的论点 I (Davis 1982) 每个由有限过程生成的有限字母序列集合也可以由正常系统生成。更具体地说，任何由有限过程生成的字母表Σ上的词的集合都是 N∩Σ∗的形式，其中 N 是一个正常集合。
+> 文章的论点 I (Davis 1982) 每个由有限过程生成的有限字母序列集合也可以由正常系统生成。更具体地说，任何由有限过程生成的字母表 Σ 上的词的集合都是 N∩Σ∗ 的形式，其中 N 是一个正常集合。
 
-Post 意识到“[为了使论点具有完全的普遍性]必须对人类思维建立有限过程生成序列的所有可能方式进行全面分析”(Post 1965: 408)，很可能是在这样的分析结果下给出了 Post 1936 中的公式 1，该公式几乎与图灵机相同。
+Post 意识到“[为了使论点具有完全的普遍性] 必须对人类思维建立有限过程生成序列的所有可能方式进行全面分析”(Post 1965: 408)，很可能是在这样的分析结果下给出了 Post 1936 中的公式 1，该公式几乎与图灵机相同。
 
 Post 的产生系统成为计算机科学和更具体地说是形式语言理论中重要的形式设备(Davis 1989; Pullum 2011)。
 
@@ -512,7 +512,7 @@ Post 的产生系统成为计算机科学和更具体地说是形式语言理论
 
 > 波斯特的第二论题：在直观意义上的问题可解与通过第一公式可解相一致
 
-公式 1 与图灵机非常相似，但“程序”以一系列指令的形式给出，需要人工工作者按照指令进行操作。与单向无限纸带不同，Post 的“机器”由一个双向无限符号空间组成，被分成多个方格。这个想法是，工作者在这个符号空间中工作，能够执行五种原始操作（O1 标记一个方格，O2 取消标记一个方格，O3 将一个方格向左移动，O4 将一个方格向右移动，O5 确定他所在的方格是否被标记），按照有限的一组指令 d1,...,dn 进行操作，其中每个指令 di 始终具有以下形式之一：
+公式 1 与图灵机非常相似，但“程序”以一系列指令的形式给出，需要人工工作者按照指令进行操作。与单向无限纸带不同，Post 的“机器”由一个双向无限符号空间组成，被分成多个方格。这个想法是，工作者在这个符号空间中工作，能够执行五种原始操作（O1 标记一个方格，O2 取消标记一个方格，O3 将一个方格向左移动，O4 将一个方格向右移动，O5 确定他所在的方格是否被标记），按照有限的一组指令 d1,..., dn 进行操作，其中每个指令 di 始终具有以下形式之一：
 
 1. 执行操作（O1-O4）之一，并转到指令 dj
 2. 执行操作 O5，并根据工作者所在的方格是否被标记，按照指令 dj'或 dj''进行操作。
@@ -544,7 +544,7 @@ Post 的产生系统成为计算机科学和更具体地说是形式语言理论
 
 在几个解释中，图灵不仅被认定为计算机科学之父，也被认定为现代计算机之父。这个经典的故事大致如下：现代计算机的蓝图可以在冯·诺伊曼的 EDVAC 设计中找到，如今经典计算机通常被描述为具有所谓的冯·诺伊曼体系结构。EDVAC 设计的一个基本思想是所谓的存储程序思想。粗略地说，这意味着将指令和数据存储在同一内存中，从而允许对程序进行数据操作。有充分的理由认为冯·诺伊曼知道图灵论文的主要结果（Davis 1988）。因此，可以认为存储程序的概念源于图灵对通用图灵机的概念，并且将其作为现代计算机的定义特征，有人可能声称图灵是现代计算机之父。另一个相关的论点是，图灵是第一个通过他对通用机器的概念来“捕捉”通用机器的想法，并且在这个意义上他也“发明”了现代计算机（Copeland＆Proudfoot 2011）。这个论点得到了加强，因为图灵还参与了一类重要的计算设备（Bombe）的构建，用于解密德国 Enigma 密码，并且后来提出了 ACE（自动计算引擎）的设计，图灵本人明确将其视为通用机器的一种物理实现：
 
-> 几年前，我正在研究可能被描述为对数字计算机的理论可能性和限制的调查。[...]像 ACE 这样的机器可以被视为这种类型机器的实际版本。（图灵 1947）
+> 几年前，我正在研究可能被描述为对数字计算机的理论可能性和限制的调查。[...] 像 ACE 这样的机器可以被视为这种类型机器的实际版本。（图灵 1947）
 
 然而需要注意的是，图灵已经了解 ENIAC 和 EDVAC 的设计，并提出 ACE 作为对该设计的改进（除此之外，它还具有更简单的硬件架构）。
 
@@ -560,7 +560,7 @@ Post 的产生系统成为计算机科学和更具体地说是形式语言理论
 
 结果是一系列实验机器，如 MINAC、TX-0（林肯实验室）或 ZERO 机器（范德普尔），它们又成为一些商用机器的前身。值得指出的是，图灵的 ACE 机器设计也符合这种理念。它也作为 BENDIX G15 机器（德·莫尔，布林克和戴利特，2018 年）商业化。
 
-当然，通过最小化机器指令，编码或编程变得更加复杂。用图灵的话来说，他在设计 ACE 时清楚地意识到了代码和（硬连线的）指令之间的权衡：“[W]我们经常简化电路，以换取代码”（图灵，1947 年）。事实上，可以看到在这些早期的最小设计中，大量的工作投入到开发更高效的编码策略中。正是在这里，人们也可以将通用图灵机与硬件和程序之间的互换性的重要原则联系起来。
+当然，通过最小化机器指令，编码或编程变得更加复杂。用图灵的话来说，他在设计 ACE 时清楚地意识到了代码和（硬连线的）指令之间的权衡：“[W] 我们经常简化电路，以换取代码”（图灵，1947 年）。事实上，可以看到在这些早期的最小设计中，大量的工作投入到开发更高效的编码策略中。正是在这里，人们也可以将通用图灵机与硬件和程序之间的互换性的重要原则联系起来。
 
 如今，通用图灵机在许多人看来仍然被视为现代计算机的主要理论模型，特别是与所谓的冯·诺伊曼体系结构相关的。当然，对于其他体系结构，也引入了其他模型，例如用于并行机器的批同步并行模型或用于建模交互问题的持久图灵机。
 
@@ -568,7 +568,7 @@ Post 的产生系统成为计算机科学和更具体地说是形式语言理论
 
 任何通用机器原则上都可以被建模为通用图灵机的想法，在 20 世纪 50 年代的自动编程背景下也成为了一个重要原则（Daylight 2015）。在机器设计背景下，这个观点的最重要结果是机器指令的最小化。在编程背景下，这个观点是关于可以构建一台能够“模拟”任何其他机器行为的机器，从而最终实现机器硬件和语言实现之间的互换性。这个观点在 20 世纪 50 年代由约翰·W·卡尔三世和索尔·戈恩等人引入了多种形式，他们也积极参与了计算机协会（ACM）的形成，作为自动编程的统一理论思想，实际上是关于将高阶语言“翻译”为低级语言，最终转化为机器代码。因此，在编程的背景下，通用图灵机在 20 世纪 50 年代开始扮演其基础性角色（Daylight 2015）。
 
-尽管图灵机在一般层面上是一个限定可能性的基本理论模型，但它对编程语言的语法和语义并没有真正的影响。在这个背景下，λ演算和 Post 生产系统才有影响（尽管在这里也要小心过分强调形式模型对编程实践的影响）。事实上，图灵机通常被视为机器模型，而不是编程模型：
+尽管图灵机在一般层面上是一个限定可能性的基本理论模型，但它对编程语言的语法和语义并没有真正的影响。在这个背景下，λ 演算和 Post 生产系统才有影响（尽管在这里也要小心过分强调形式模型对编程实践的影响）。事实上，图灵机通常被视为机器模型，而不是编程模型：
 
 > 图灵机在概念上与一般使用的自动计算机没有什么不同，但它们在控制结构方面非常简陋。[…] 当然，大部分可计算性理论都涉及与计算的特定方式无关的问题。只要可计算函数以某种方式由符号表达式（例如数字）表示，并且以给定函数的表达式计算的函数以某种方式由表示原始函数的表达式计算，就足够了。然而，实际计算理论必须适用于特定的算法。（麦卡锡 1963 年：37）
 

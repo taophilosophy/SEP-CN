@@ -16,7 +16,7 @@
 
 康德（1781/9：A715/B743）写道：“数学仅凭概念无法取得任何成就，但立即转向直觉。”然后描述了欧几里德在角和定理（欧几里德，第 1 卷，命题 32）的证明中的几何构造。高斯在 1816 年的评论中回应康德的观点：
 
-> 任何熟悉几何本质的人都知道，[同一性和矛盾的逻辑原则]本身无法取得任何成就，除非富有生机的对象直观无处不在。（Ewald 1996 [Vol. 1]：300）
+> 任何熟悉几何本质的人都知道，[同一性和矛盾的逻辑原则] 本身无法取得任何成就，除非富有生机的对象直观无处不在。（Ewald 1996 [Vol. 1]：300）
 
 这里的“直觉”一词翻译自德语“Anschauung”，它适用于视觉想象和感知，尽管它也有更一般的用法。
 
@@ -30,7 +30,7 @@
 
 据称，在某些情况下，仅凭一张图片就可以构成证明（Brown 1999：第 3 章）。但这种观点很少见。即使是《无言的证明：视觉思维练习》的编辑也写道：“当然，“无言的证明”并不是真正的证明”（Nelsen 1993：第六页）。极端观点的表达很少，但确实存在：
 
-> [该图表]在证明中没有适当的位置。因为证明是一个由排列在有限且可检查的数组中的句子组成的句法对象。(Tennant 1986)
+> [该图表] 在证明中没有适当的位置。因为证明是一个由排列在有限且可检查的数组中的句子组成的句法对象。(Tennant 1986)
 
 在极端之间，我们发现即使没有单独的图像是一个证明，视觉表达可以在构成证明的推理中发挥非多余的作用。(这并不否认可能存在另一个不涉及任何视觉表达的相同结论的证明。) 几何图形、图表和地图都携带信息。将有效的演绎推理视为从已获得的信息中可靠地提取信息，Barwise 和 Etchemendy (1996:4)提出了以下问题：为什么证明的组成表示不能既是视觉的又是语言的？否定视觉表达在证明中的作用的唯一原因是认为除了非常受限的情况外，视觉思维是不可靠的，因此不能对证明做出贡献。这是正确的吗？
 
@@ -76,7 +76,7 @@ Shin 等人（2013）报告说，逻辑和几何的形式图表系统已被证�
 
 我们应该如何看待这个问题？首先，让我们注意到，在一些情况下，图像或图表不会过于具体。例如，在几何学中，所有相关类的实例都是相似的，例如所有圆或所有正方形，图像或图表对于关于该类的概括不会过于具体；因此不会有意外的排除，也不会有不合理的概括的危险。因此，这里有一些可靠的视觉思维证明的可能性。
 
-为了清楚其他情况，在存在过度概括的危险时，有助于观察普通的非视觉推理中的概括。简而言之，在推理关于 K 类事物时，一旦我们已经证明从某些前提出发，可以推出任意实例 c 满足某种条件，我们就可以从这些相同的前提中推断出所有 K 都满足该条件，前提是条件和任何前提都不提及 c。这个前提是必要的，因为如果前提或条件提及 c，推理可能依赖于 c 的某个属性，而这个属性并不是所有其他 K 都共享的，因此概括是不安全的。举个简单的例子，考虑从“x=c”到“∀x[x=c]”的步骤。
+为了清楚其他情况，在存在过度概括的危险时，有助于观察普通的非视觉推理中的概括。简而言之，在推理关于 K 类事物时，一旦我们已经证明从某些前提出发，可以推出任意实例 c 满足某种条件，我们就可以从这些相同的前提中推断出所有 K 都满足该条件，前提是条件和任何前提都不提及 c。这个前提是必要的，因为如果前提或条件提及 c，推理可能依赖于 c 的某个属性，而这个属性并不是所有其他 K 都共享的，因此概括是不安全的。举个简单的例子，考虑从“x=c”到“∀x [x=c]”的步骤。
 
 我们面临的一个问题是，为了通过遵循涉及任意实例的概括的论证来了解结论的真相（也称为普遍概括或普遍量词引入），思考是否必须包括有意识的、明确的检查是否满足前提。显然，仅仅满足前提是不够的。因为在这种情况下，思考者可能只是碰巧满足了前提；因此，思考者不会知道概括是有效的，因此在那一步并没有真正地思考证明。
 
@@ -144,9 +144,9 @@ One way of showing that a knot diagram represents a knot equivalent to an unknot
 
 ### 3.3 争议：分析证明中的图表
 
-在涉及无限的概念（例如许多涉及极限的概念）的情况下，使用图表是非常冒险的。因此，人们普遍认为，在一些非常简单的情况之外，实数和复数分析中使用图表具有非多余作用的论证不是真正的证明。Bolzano [1817]在给出纯粹分析证明之前，对实数的中值定理（IVT）表达了这种态度，他认为空间思维不能用来帮助证明 IVT。詹姆斯·罗伯特·布朗（1999）对 Bolzano 在这一点上提出了异议。IVT 是这样的：
+在涉及无限的概念（例如许多涉及极限的概念）的情况下，使用图表是非常冒险的。因此，人们普遍认为，在一些非常简单的情况之外，实数和复数分析中使用图表具有非多余作用的论证不是真正的证明。Bolzano [1817] 在给出纯粹分析证明之前，对实数的中值定理（IVT）表达了这种态度，他认为空间思维不能用来帮助证明 IVT。詹姆斯·罗伯特·布朗（1999）对 Bolzano 在这一点上提出了异议。IVT 是这样的：
 
-如果 f 是一个定义在闭区间[a,b]上的实变量的实值函数，并且 f(a)<c<f(b)，那么存在一个 x 在(a,b)之间，使得 f(x)=c。
+如果 f 是一个定义在闭区间 [a, b] 上的实变量的实值函数，并且 f(a)<c<f(b)，那么存在一个 x 在(a, b)之间，使得 f(x)=c。
 
 布朗关注的是特殊情况，即 c=0。由于可以通过使用两个连续函数之差是连续函数的定理从这个特殊情况轻松推导出 IVT，因此在这里没有损失一般性。布朗（1999）提到了类似图 5 的图表。
 
@@ -164,18 +164,18 @@ Bolzano’s diagram-free proof of the IVT is an argument from what later became 
 
 That assumption is challenged by Giaquinto (2011). Once we distinguish graphical concepts from associated analytic concepts, the underlying argument from the diagram is essentially this.
 
-* 1.Any function f which is ε-δ continuous on [a,b] with f(a)<0<f(b) has a visually continuous graphical curve from below the horizontal line representing the x-axis to above.
+* 1.Any function f which is ε-δ continuous on [a, b] with f(a)<0<f(b) has a visually continuous graphical curve from below the horizontal line representing the x-axis to above.
 * 2. 任何从水平线下方到上方的连续图形曲线都会在交叉点与该线相交。
 * 3. 任何图形曲线与表示 x 轴的线在交叉点相交的函数都具有零值。
-* 4. 因此，对于在[a,b]上满足 f(a)<0<f(b)的ε-δ连续函数 f，它具有零值。
+* 4. 因此，对于在 [a, b] 上满足 f(a)<0<f(b)的 ε-δ 连续函数 f，它具有零值。
 
-从图中推断出的是前提 2。前提 1 和前提 3 是将分析条件与图形条件联系起来的假设。这些联系的假设是有争议的。关于前提 1，Giaquinto（2011）认为，在实数上存在满足前提条件但没有图形曲线的函数，例如连续但无处可微的函数和振荡频率无界的函数，例如对于非零的 x∈[−1,1]，f(x)=x⋅sin(1/x)且 f(0)=0。
+从图中推断出的是前提 2。前提 1 和前提 3 是将分析条件与图形条件联系起来的假设。这些联系的假设是有争议的。关于前提 1，Giaquinto（2011）认为，在实数上存在满足前提条件但没有图形曲线的函数，例如连续但无处可微的函数和振荡频率无界的函数，例如对于非零的 x∈ [−1,1]，f(x)=x⋅sin(1/x)且 f(0)=0。
 
-关于前提 3，有人认为，在笛卡尔坐标系中以图形方式表示函数的标准约定下，有理数中的 x2−2 的图形曲线与实数中的 x2−2 的图形曲线相同。这是因为每个实数都是有理数的极限点；因此，对于每个具有一个或两个坐标是无理数的点 P，存在与 P 无限接近的具有两个坐标都是有理数的点；因此，如果从实数中删除无理点，则曲线 x2−2 中不会出现间隙。但是对于有理区间[0, 2]中的 x，函数 x2−2 没有零值，尽管它具有在视觉上穿过表示 x 轴的线的图形曲线。因此，不能从图中读出 x2−2 在实数上存在零点；需要诉诸于实数具有而有理数缺乏的某些属性，例如 Dedekind 完备性。
+关于前提 3，有人认为，在笛卡尔坐标系中以图形方式表示函数的标准约定下，有理数中的 x2−2 的图形曲线与实数中的 x2−2 的图形曲线相同。这是因为每个实数都是有理数的极限点；因此，对于每个具有一个或两个坐标是无理数的点 P，存在与 P 无限接近的具有两个坐标都是有理数的点；因此，如果从实数中删除无理点，则曲线 x2−2 中不会出现间隙。但是对于有理区间 [0, 2] 中的 x，函数 x2−2 没有零值，尽管它具有在视觉上穿过表示 x 轴的线的图形曲线。因此，不能从图中读出 x2−2 在实数上存在零点；需要诉诸于实数具有而有理数缺乏的某些属性，例如 Dedekind 完备性。
 
 这引发了一些明显的问题。分析学中的任何定理是否有证明中图表起到非多余作用的证明？Littlewood（1953: 54–5）认为是这样，并给出了一个例子，该例子在 Giaquinto（1994）中进行了研究。如果是这样，我们是否可以通过其内容的某些数学特征来划定这类定理的范围？另一个问题是是否存在一类广泛的实数函数，我们可以证明其中值定理（即限于该类）？
 
-如果有用图表证明的分析定理，我们还没有数学的划界标准。一个自然的地方是在实数上的 O-极小结构，这是 Ethan Galebach 向作者提出的。这是因为关于这种结构的一些非凡定理排除了所有在实数上的病态（因此违背视觉）函数（Van den Dries 1998），例如连续但无处可微的函数和“填充空间”的曲线，即连续满射 f：（0,1）→（0,1）2。在实数上的 O-极小结构中的函数的 IVT 是否可以通过视觉手段证明？当限制条件存在时，对于无限制 IVT 的视觉论证的反对意见肯定不适用。这个反对意见是连续但无处可微的函数没有图形曲线，从而为 y=c 下方的水平线到上方提供了反例，即任何ε-δ连续函数 f 在[a,b]上满足 f(a)<c<f(b)都有一个从下方表示 y=c 的水平线到上方的视觉连续图形曲线的前提。但是，连续函数存在没有图形曲线的反例并不是对视觉论证的唯一反对意见，与 Azzouni（2013: 327）的说法相反。还有反例可以证明，任何具有可见地穿过表示 y=c 的线的图形曲线的函数都将 c 作为一个值，例如有理数上的函数 x2−2，其中 c=0。因此，在撰写本文时，关于在实数上的 O-极小结构中的函数的 IVT 的视觉证明的问题仍然未解决。
+如果有用图表证明的分析定理，我们还没有数学的划界标准。一个自然的地方是在实数上的 O-极小结构，这是 Ethan Galebach 向作者提出的。这是因为关于这种结构的一些非凡定理排除了所有在实数上的病态（因此违背视觉）函数（Van den Dries 1998），例如连续但无处可微的函数和“填充空间”的曲线，即连续满射 f：（0,1）→（0,1）2。在实数上的 O-极小结构中的函数的 IVT 是否可以通过视觉手段证明？当限制条件存在时，对于无限制 IVT 的视觉论证的反对意见肯定不适用。这个反对意见是连续但无处可微的函数没有图形曲线，从而为 y=c 下方的水平线到上方提供了反例，即任何 ε-δ 连续函数 f 在 [a, b] 上满足 f(a)<c<f(b)都有一个从下方表示 y=c 的水平线到上方的视觉连续图形曲线的前提。但是，连续函数存在没有图形曲线的反例并不是对视觉论证的唯一反对意见，与 Azzouni（2013: 327）的说法相反。还有反例可以证明，任何具有可见地穿过表示 y=c 的线的图形曲线的函数都将 c 作为一个值，例如有理数上的函数 x2−2，其中 c=0。因此，在撰写本文时，关于在实数上的 O-极小结构中的函数的 IVT 的视觉证明的问题仍然未解决。
 
 ## 4. 数学中的视觉思维和发现
 
@@ -197,7 +197,7 @@ That assumption is challenged by Giaquinto (2011). Once we distinguish graphical
 
  图 6
 
-两个圆（直径为 a 和 b）在一个点相交。通过它们的公共点绘制一条连接它们中心的线；它的长度是(a+b)/2，即两个半径的和。这条线是一个直角三角形的斜边，另一条边的长度是(a−b)/2，即两个半径的差。使用勾股定理可以推断出直角三角形的剩余边的长度是√(ab)。然后，当较小圆的直径在 0 和较大圆的直径之间变化时，将三角形发生的变化可视化，可以推断出 0<√(ab)<(a+b)/2；然后通过符号验证√(ab)=(a+b)/2 当 a=b 时，可以得出结论，对于正数 a 和 b，√(ab)≤(a+b)/2。
+两个圆（直径为 a 和 b）在一个点相交。通过它们的公共点绘制一条连接它们中心的线；它的长度是(a+b)/2，即两个半径的和。这条线是一个直角三角形的斜边，另一条边的长度是(a−b)/2，即两个半径的差。使用勾股定理可以推断出直角三角形的剩余边的长度是 √(ab)。然后，当较小圆的直径在 0 和较大圆的直径之间变化时，将三角形发生的变化可视化，可以推断出 0<√(ab)<(a+b)/2；然后通过符号验证 √(ab)=(a+b)/2 当 a=b 时，可以得出结论，对于正数 a 和 b，√(ab)≤(a+b)/2。
 
 这种思维并不构成证明或遵循结论证明的情况，因为它涉及到一个我们无法清楚判断是否有效的步骤。这个步骤是试图在较小的圆直径在 0 和较大的圆直径之间变化时，想象出会发生什么，并从所得的经验中推断出连接圆心的线段将始终比从较小圆的圆心到较大圆的垂直直径的水平线段更长。这个步骤似乎是正确的（不会导致错误），可能是正确的；但它的正确性是不透明的。如果事实上它是正确的，整个思维过程就是一种可靠的达到结论的方式；因此，在没有使人们不信任这种思维的因素的情况下，它将是发现结论为真的一种方式。
 
@@ -205,19 +205,19 @@ That assumption is challenged by Giaquinto (2011). Once we distinguish graphical
 
 在某些情况下，视觉思维倾向于基于视觉表达所暗示的假设来相信某些事情，而这些假设在主体当前的知识基础上仍需证明。在这种情况下，存在着主体将视觉表达视为证明假设正确性的危险，最终导致了不合理的信念。在这种情况下，即使信念是真实的，主体也没有做出发现，因为信念获取的手段是不可靠的。这里有一个使用图 7 的例子（Montuchi 和 Page 1988）。
 
-![A first quadrant graph, on the xaxis are marked 2 squarerootk, 0 and further to the right j,0  On the yaxis is marked 0,2squarerootk and further up, 0,j  Solid lines connect 0,2squarerootk to 2squarerootk,0  and 0,j to j,0  A dotted line goes from the origin in a roughly 45 degree angle the point where it intersects the 0,2squarerootk to 2squarerootk,0 line is labeled squarerootk,squarerootk  A curve tangent to that point with one end heading up and the other right is labeled 'xy=k'](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig7.png)
+![A first quadrant graph, on the xaxis are marked 2 squarerootk, 0 and further to the right j,0  On the yaxis is marked 0,2squarerootk and further up, 0, j  Solid lines connect 0,2squarerootk to 2squarerootk,0  and 0, j to j,0  A dotted line goes from the origin in a roughly 45 degree angle the point where it intersects the 0,2squarerootk to 2squarerootk,0 line is labeled squarerootk, squarerootk  A curve tangent to that point with one end heading up and the other right is labeled 'xy=k'](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig7.png)
 
  图 7
 
 使用这个图表，人们可以对实数有以下的思考。当对于一个常数 k，正数 x 和 y 的取值受到方程 x⋅y=k 的限制时，使得 x+y 最小的正数 x 和 y 满足 x=√k=y。（让“#”表示这个说法。）
 
-假设人们知道用笛卡尔坐标系中的图表来表示函数的约定，也知道对角线表示函数 y=x，而从(0,b)到(b,0)的斜率为-1 的线段表示函数 x+y=b。那么看这个图表可能会使人们认为对于任何正数 x，函数 x⋅y=k 中的 y 值都不会低于函数 x+y=2√k 中的 y 值，并且这些函数在对角线上重合。基于这些信念，人们可以（正确地）推断出结论#。但仅仅注意图表并不能保证相信对于给定的正 x 值，函数 x⋅y=k 的 y 值永远不会低于函数 x+y=2√k 的 y 值，并且这些函数在对角线上重合；因为表示的约定并没有排除曲线 x⋅y=k 与曲线 x+y=2√k 在接近对角线的两个点相交，并且前者曲线在这两个点之间低于后者曲线的可能性。因此，在这种情况下，视觉思维不是发现命题#的手段。
+假设人们知道用笛卡尔坐标系中的图表来表示函数的约定，也知道对角线表示函数 y=x，而从(0, b)到(b,0)的斜率为-1 的线段表示函数 x+y=b。那么看这个图表可能会使人们认为对于任何正数 x，函数 x⋅y=k 中的 y 值都不会低于函数 x+y=2√k 中的 y 值，并且这些函数在对角线上重合。基于这些信念，人们可以（正确地）推断出结论#。但仅仅注意图表并不能保证相信对于给定的正 x 值，函数 x⋅y=k 的 y 值永远不会低于函数 x+y=2√k 的 y 值，并且这些函数在对角线上重合；因为表示的约定并没有排除曲线 x⋅y=k 与曲线 x+y=2√k 在接近对角线的两个点相交，并且前者曲线在这两个点之间低于后者曲线的可能性。因此，在这种情况下，视觉思维不是发现命题#的手段。
 
-但它是有用的，因为它提供了一个证明结论的思路——这是数学中视觉思维的主要好处之一。简而言之：对于每个方程（x⋅y=k；x+y=2√k），如果 x=y，则它们的共同值是√k。因此，由这些方程表示的函数在对角线上相交。为了证明对于固定的正 x 值，x⋅y=k 的 y 值永远不会低于 x+y=2√k 的 y 值，只需证明 2√k−x≤k/x。由于几何平均小于或等于相应的算术平均，√[x⋅(k/x)]≤[x+(k/x)]/2。所以 2√k≤x+(k/x)。所以 2√k−x≤k/x。
+但它是有用的，因为它提供了一个证明结论的思路——这是数学中视觉思维的主要好处之一。简而言之：对于每个方程（x⋅y=k；x+y=2√k），如果 x=y，则它们的共同值是 √k。因此，由这些方程表示的函数在对角线上相交。为了证明对于固定的正 x 值，x⋅y=k 的 y 值永远不会低于 x+y=2√k 的 y 值，只需证明 2√k−x≤k/x。由于几何平均小于或等于相应的算术平均，√ [x⋅(k/x)] ≤ [x+(k/x)]/2。所以 2√k≤x+(k/x)。所以 2√k−x≤k/x。
 
 在这个例子中，对图表的视觉关注和推理并不是发现结论的一部分。但是，如果它给出了刚才给出的论证的思路，它将成为导致发现结论的方式的一部分，这是很重要的。
 
-视觉思维能够在更高级的背景下发现证明思路吗？是的。Carter（2010）给出了一个来自自由概率理论的例子。这个案例涉及到一组自然数的特定排列（在 Carter 2010 中用带有抑扬符号的“p”表示）。使用特定类型的图表，图表的明显属性自然地导致排列的某些属性（交叉和非交叉，具有相邻对），以及某种操作（取消相邻对）。所有这些都有代数定义，但是通过图表思考才能注意到这些定义的思路。对于相关的排列σ，σ(σ(n))=n；因此，一个排列可以用连接点的线集表示。图 8 中左侧和右侧表示的排列分别是非交叉和交叉的，前者具有相邻对{2,3}和{6,7}。
+视觉思维能够在更高级的背景下发现证明思路吗？是的。Carter（2010）给出了一个来自自由概率理论的例子。这个案例涉及到一组自然数的特定排列（在 Carter 2010 中用带有抑扬符号的“p”表示）。使用特定类型的图表，图表的明显属性自然地导致排列的某些属性（交叉和非交叉，具有相邻对），以及某种操作（取消相邻对）。所有这些都有代数定义，但是通过图表思考才能注意到这些定义的思路。对于相关的排列 σ，σ(σ(n))=n；因此，一个排列可以用连接点的线集表示。图 8 中左侧和右侧表示的排列分别是非交叉和交叉的，前者具有相邻对{2,3}和{6,7}。
 
 ![a circle with 8 points on the circumference, a point at about 45 degrees is labeled '1', at 15 degrees, '2', at 15 degrees '3', at 45 degrees '4', at 135 degrees '5', at 165 degrees '6', at 165 degrees '7', and at 135 degrees '8'  Smooth curves in the interior of the circle connect point 1 to 4, 2 to 3, 5 to 8, and 6 to 7](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig8a.png)
 
@@ -229,67 +229,67 @@ That assumption is challenged by Giaquinto (2011). Once we distinguish graphical
 
  图 8
 
-一个置换σ的{1,2,…,2p}被定义为具有交叉的情况，当且仅当{1,2,…,2p}中存在 a、b、c、d，使得 a<b<c<d 且σ(a)=c 和σ(b)=d。重点在于证明一个定理，该定理使用了这个概念。（该定理是，当一个特定类型的{1,2,…,2p}的置换是非交叉的时，将会有恰好 p+1 个 R-等价类，其中 R 是在{1,2,…,2p}上定义的某个等价关系，该等价关系是基于置换定义的。）卡特尔说，一些引理的证明“依赖于对设置的可视化”，也就是说，为了理解一个或多个步骤的正确性，需要对情况进行可视化。还有一个很好的例子，通过图表的推理来给出一个证明的思路（“提出了一个证明策略”），证明了每个非交叉置换都有一个相邻对。对图表 9 的反思起到了作用。
+一个置换 σ 的{1,2,…,2p}被定义为具有交叉的情况，当且仅当{1,2,…,2p}中存在 a、b、c、d，使得 a<b<c<d 且 σ(a)=c 和 σ(b)=d。重点在于证明一个定理，该定理使用了这个概念。（该定理是，当一个特定类型的{1,2,…,2p}的置换是非交叉的时，将会有恰好 p+1 个 R-等价类，其中 R 是在{1,2,…,2p}上定义的某个等价关系，该等价关系是基于置换定义的。）卡特尔说，一些引理的证明“依赖于对设置的可视化”，也就是说，为了理解一个或多个步骤的正确性，需要对情况进行可视化。还有一个很好的例子，通过图表的推理来给出一个证明的思路（“提出了一个证明策略”），证明了每个非交叉置换都有一个相邻对。对图表 9 的反思起到了作用。
 
 ![A circle, a dashed interior curve connects an unmarked point at about 40 degrees to an unmarked point at 10 degrees the second point is labeled 'j1'  Another dashed interior curve connects this point to an unmarked point at about 100 degrees  A solid interior curve connects and unmarked point at about 10 degrees labeled 'j' to another unmarked point at about 60 degrees labeled 'ja'  Between the labels 'j1' and 'ja' is another label 'j2' and then a dotted line between 'j2' and 'ja'](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig9.png)
 
  图表 9
 
-推理如下。假设π没有相邻对。选择 j，使得π(j)−j=a 是最小的，也就是说，对于所有的 k，π(j)−j≤π(k)−k。由于π没有相邻对，π(j+1)≠j。所以要么π(j+1)小于 j，我们有一个交叉，要么由于π(j)−j 的最小性，π(j+1)大于 j+a，我们再次有一个交叉。卡特尔报告说，这个分支最初是通过对图表的思考而被认为是正确的，而在发表的论文中给出的引理的证明是这种推理的非图表化“版本”。在这个案例研究中，可视化思维被证明在多个方面对发现有所贡献；特别是，通过引导数学家注意到关键的属性——“定义是基于图表的”——并为整个证明的某些部分提供思路。
+推理如下。假设 π 没有相邻对。选择 j，使得 π(j)−j=a 是最小的，也就是说，对于所有的 k，π(j)−j≤π(k)−k。由于 π 没有相邻对，π(j+1)≠j。所以要么 π(j+1)小于 j，我们有一个交叉，要么由于 π(j)−j 的最小性，π(j+1)大于 j+a，我们再次有一个交叉。卡特尔报告说，这个分支最初是通过对图表的思考而被认为是正确的，而在发表的论文中给出的引理的证明是这种推理的非图表化“版本”。在这个案例研究中，可视化思维被证明在多个方面对发现有所贡献；特别是，通过引导数学家注意到关键的属性——“定义是基于图表的”——并为整个证明的某些部分提供思路。
 
 ### 4.3 Discovering properties and kinds
 
 In this section I will illustrate and then discuss the use of visual thinking in discovering kinds of mathematical entity, by going through a few of the main steps leading to geometric group theory, a subject which really took off in the 1980s through the work of Mikhail Gromov. The material is set out nicely in greater depth in Starikova (2012).
 
-Sometimes it can be fruitful to think of non-spatial entities, such as algebraic structures, in terms of a spatial representation. An example is the representation of a finitely generated group by a Cayley graph. Let (G,⋅) be a group and S a finite subset of G. Let S−1 be the set of inverses of members of S. Then (G,⋅) is *generated by* S if and only if every member of G is the product (with respect to ⋅) of members of S∪S−1. In that case (G,⋅,S) is said to be a finitely generated group. Here are a couple of examples.
+Sometimes it can be fruitful to think of non-spatial entities, such as algebraic structures, in terms of a spatial representation. An example is the representation of a finitely generated group by a Cayley graph. Let (G, ⋅) be a group and S a finite subset of G. Let S−1 be the set of inverses of members of S. Then (G, ⋅) is *generated by* S if and only if every member of G is the product (with respect to ⋅) of members of S∪S−1. In that case (G, ⋅, S) is said to be a finitely generated group. Here are a couple of examples.
 
-First consider the group S3 of permutations of 3 elements under composition. Letting {a,b,c} be the elements, all six permutations can be generated by f and r where
+First consider the group S3 of permutations of 3 elements under composition. Letting {a, b, c} be the elements, all six permutations can be generated by f and r where
 
-f (for “flip”) fixes a and swaps b with c, i.e., it takes to ⟨a,b,c⟩ to ⟨a,c,b⟩, and
+f (for “flip”) fixes a and swaps b with c, i.e., it takes to ⟨a, b, c⟩ to ⟨a, c, b⟩, and
 
-r (for “rotate”) takes ⟨a,b,c⟩ to ⟨c,a,b⟩.
+r (for “rotate”) takes ⟨a, b, c⟩ to ⟨c, a, b⟩.
 
-(S3,⋅,{f,r})的 Cayley 图是一个图，其顶点代表 S3 的成员，有两种“颜色”的有向边，代表与 f 的组合和与 r 的组合。图 10 说明了：红色的有向边代表与 r 的组合，黑色的边代表与 f 的组合。因此，从代表 S3 中的 s 的顶点 v 开始的红色边结束于代表 sr 的顶点，从 v 开始的黑色边结束于代表 sf 的顶点。（符号：“sr”缩写为“s⋅r”，在这里表示“s 后跟 r”；对于“r”，使用“f”代替。）黑色边具有双向箭头，因为 f 是它自己的逆元，也就是说，翻转和再次翻转会使你回到起点。（有时会使用一对方向相反的带箭头的边代替。）符号“e”表示单位元。
+(S3, ⋅,{f, r})的 Cayley 图是一个图，其顶点代表 S3 的成员，有两种“颜色”的有向边，代表与 f 的组合和与 r 的组合。图 10 说明了：红色的有向边代表与 r 的组合，黑色的边代表与 f 的组合。因此，从代表 S3 中的 s 的顶点 v 开始的红色边结束于代表 sr 的顶点，从 v 开始的黑色边结束于代表 sf 的顶点。（符号：“sr”缩写为“s⋅r”，在这里表示“s 后跟 r”；对于“r”，使用“f”代替。）黑色边具有双向箭头，因为 f 是它自己的逆元，也就是说，翻转和再次翻转会使你回到起点。（有时会使用一对方向相反的带箭头的边代替。）符号“e”表示单位元。
 
-![Two red equilateral triangles, one inside the other  The smaller triangle has arrows on each side pointing in a clockwise direction; the larger has arrows on each side in a counterclockwise direction  Black double arrow lines connect the respective vertices of each triangle  The top vertice of the outside triangle is labeled 'e', of the inside triangle 'f'; the bottom left vertice of the outside triangle is labeled 'r', of the inside triangle 'r'; the bottom right vertix of the outside triangle is labeled with 'rr',of the inside triangle with 'fr'](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig10.png)
+![Two red equilateral triangles, one inside the other  The smaller triangle has arrows on each side pointing in a clockwise direction; the larger has arrows on each side in a counterclockwise direction  Black double arrow lines connect the respective vertices of each triangle  The top vertice of the outside triangle is labeled 'e', of the inside triangle 'f'; the bottom left vertice of the outside triangle is labeled 'r', of the inside triangle 'r'; the bottom right vertix of the outside triangle is labeled with 'rr', of the inside triangle with 'fr'](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig10.png)
 
  图 10
 
-一个无限阶的有限生成群的例子是(Z,+,{1})。我们可以通过连续加 1 或其加法逆元−1 来得到任何整数。由于 3 加上 2 的逆元是 1，2 加上 3 的逆元是−1，我们可以通过添加{2,3}的成员及其逆元来得到任何整数。因此，{1}和{2,3}都是(Z,+)的生成集。图 11 说明了(Z,+,{2,3})的 Cayley 图的一部分。水平的有向边代表+2。斜向上或下的有向边代表+3。
+一个无限阶的有限生成群的例子是(Z,+,{1})。我们可以通过连续加 1 或其加法逆元 −1 来得到任何整数。由于 3 加上 2 的逆元是 1，2 加上 3 的逆元是 −1，我们可以通过添加{2,3}的成员及其逆元来得到任何整数。因此，{1}和{2,3}都是(Z,+)的生成集。图 11 说明了(Z,+,{2,3})的 Cayley 图的一部分。水平的有向边代表+2。斜向上或下的有向边代表+3。
 
 ![Two horizontal parallel black lines with directional arrows pointing to the right The top line has equidistant points marked '2', '0', '2', '4' and the bottom line equidistant points marked '1' about half way between the upper line's '2' and '0', '1', '3', '5'  A  red arrow goes from '2' to '1', from somewhere to the left up to '0', from '0' to '3',  from '1' to '2', from '1' to '4, from '2' to '5', and from '3' to somewhere to the right up](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig11.png)
 
  图 11
 
-无限阶生成群的另一个例子是 F2，即由一对成员生成的自由群。它的几个 Cayley 图的迭代如图 12 所示，其中{a,b}是生成元的集合，相邻顶点之间的右水平移表示与 a 的合成，上升垂直移动表示与 b 的合成，左移和下降移动分别表示与 a 的逆和 b 的逆的合成。中心顶点表示单位元。
+无限阶生成群的另一个例子是 F2，即由一对成员生成的自由群。它的几个 Cayley 图的迭代如图 12 所示，其中{a, b}是生成元的集合，相邻顶点之间的右水平移表示与 a 的合成，上升垂直移动表示与 b 的合成，左移和下降移动分别表示与 a 的逆和 b 的逆的合成。中心顶点表示单位元。
 
 ![A blue vertical line pointing up labeled 'b' crossed by a red horizontal line pointing right labeled 'b' Each line is crossed by two smaller copies of the other line on either side of the main intersection And, in turn, each of those smaller copies of the line are crossed by two smaller copies of the other line, again on either side of their main intersection](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig12.png)
 
  图 12
 
-Thinking of generated groups in terms of their Cayley graphs makes it very natural to view them as metric spaces. A *path* is a sequence of consecutively adjacent edges, regardless of direction. For example in the Cayley graph for (Z,+,{2,3}) the edges from −2 to 1, from 1 to −1, from −1 to 2 (in that order) constitute a path, representing the action, starting from −2, of adding 3, then adding −2, then adding 3. Taking each edge to have unit length, the metric dS for a group G generated by a finite subset S of G is defined: for any g, h∈G, dS(g,h)= the length of a shortest path from g to h in the Caley graph of (G,⋅,S). This is the *word metric* for this generated group.
+Thinking of generated groups in terms of their Cayley graphs makes it very natural to view them as metric spaces. A *path* is a sequence of consecutively adjacent edges, regardless of direction. For example in the Cayley graph for (Z,+,{2,3}) the edges from −2 to 1, from 1 to −1, from −1 to 2 (in that order) constitute a path, representing the action, starting from −2, of adding 3, then adding −2, then adding 3. Taking each edge to have unit length, the metric dS for a group G generated by a finite subset S of G is defined: for any g, h∈G, dS(g, h)= the length of a shortest path from g to h in the Caley graph of (G, ⋅, S). This is the *word metric* for this generated group.
 
 Viewing a finitely generated group as a metric space allows us to consider its growth function γ(n) which is the cardinality of the “ball” of radius ≤n centred on the identity (the number of members of the group whose distance from the identity is not greater than n). A growth function for a given group depends on the set of generators chosen, but when the group is infinite the asymptotic behaviour as n→∞ of the growth functions is independent of the set of generators.
 
 Noticing the possibility of defining a metric on generated groups did not require first viewing diagrams of their Cayley graphs. This is because a word in the generators is just a finite sequence of symbols for the generators or their inverses (we omit the symbol for the group operation), and so has an obvious length visually suggested by the written form of the word, namely the number of symbols in the sequence; and then it is natural to define the distance between group members g and h to be the length of a shortest word that gets one from g to h by right multiplication, that is, min{length(w):w=g−1h}.
 
-然而，通过凯莱图来观察生成群是几何群论的必要起点，它使我们能够将无限阶的有限生成群不仅仅视为图形或度量空间，而是作为几何实体。这条路线的主要步骤在这里简要概述；更详细的内容请参阅 Starikova（2012）和其中的参考文献。视觉关键在于开始从生成群的凯莱图的“粗略几何”角度进行思考，通过在视觉想象中放大到离散图形的性质被转化为传统几何对象。例如，生成群的凯莱图，如图 11 所示的有限阶生成群（S3,⋅,{f,r}），变成了一个点；如图 12 所示的生成群（Z,+,{2,3}）的凯莱图变成了一个无限延伸的连续线。
+然而，通过凯莱图来观察生成群是几何群论的必要起点，它使我们能够将无限阶的有限生成群不仅仅视为图形或度量空间，而是作为几何实体。这条路线的主要步骤在这里简要概述；更详细的内容请参阅 Starikova（2012）和其中的参考文献。视觉关键在于开始从生成群的凯莱图的“粗略几何”角度进行思考，通过在视觉想象中放大到离散图形的性质被转化为传统几何对象。例如，生成群的凯莱图，如图 11 所示的有限阶生成群（S3, ⋅,{f, r}），变成了一个点；如图 12 所示的生成群（Z,+,{2,3}）的凯莱图变成了一个无限延伸的连续线。
 
-生成群的词度量是离散的：其值始终在 N 中。在数学上，如何实现将离散度量空间与连续几何对象的视觉空间关联？通过拟同构。虽然从一个度量空间到另一个度量空间的等距映射是保距映射，但拟同构是一种在固定线性界限内保持距离的映射。准确地说，从（S，d）到（S'，d'）的映射 f 是拟同构映射，当且仅当存在实常数 L>0 和 K≥0，对于所有的 x，y 在 S 中，满足 d(x,y)/L−K≤d'(f(x),f(y))≤L⋅d(x,y)+K。
+生成群的词度量是离散的：其值始终在 N 中。在数学上，如何实现将离散度量空间与连续几何对象的视觉空间关联？通过拟同构。虽然从一个度量空间到另一个度量空间的等距映射是保距映射，但拟同构是一种在固定线性界限内保持距离的映射。准确地说，从（S，d）到（S'，d'）的映射 f 是拟同构映射，当且仅当存在实常数 L>0 和 K≥0，对于所有的 x，y 在 S 中，满足 d(x, y)/L−K≤d'(f(x), f(y))≤L⋅d(x, y)+K。
 
 如果空间（S，d）和（S'，d'）是拟同构空间，那么拟同构映射 f 也是拟满射的，即存在实常数 M≥0，使得 S'中的每个点都不会离 f 的像中的某个点更远。
 
-例如，(Z,d) 是拟等距于 (R,d) 的，其中 d(x,y)=|y−x|，因为从 Z 到 R 的包含映射 ι(n)=n 是等距映射，因此是拟等距映射，且 L=1，K=0，而 R 中的每个点距离最近的整数不超过 1/2。此外，很容易看出对于任意实数 x，如果 g(x) 是 x 最近的整数（或者如果 x 介于两个整数之间，则是小于 x 的最大整数），那么 g 是从 R 到 Z 的拟等距映射，且 L=1，K=12。
+例如，(Z, d) 是拟等距于 (R, d) 的，其中 d(x, y)=|y−x|，因为从 Z 到 R 的包含映射 ι(n)=n 是等距映射，因此是拟等距映射，且 L=1，K=0，而 R 中的每个点距离最近的整数不超过 1/2。此外，很容易看出对于任意实数 x，如果 g(x) 是 x 最近的整数（或者如果 x 介于两个整数之间，则是小于 x 的最大整数），那么 g 是从 R 到 Z 的拟等距映射，且 L=1，K=12。
 
-度量空间之间的拟等距关系是一个等价关系。此外，如果 S 和 T 是群 (G,⋅) 的生成集，则带有它们的字距离度量的 (G,⋅,S) 和 (G,⋅,T) 的 Cayley 图是拟等距空间。这意味着生成群的拟等距不变量的性质将独立于生成集的选择，并且因此对于群本身具有信息价值。
+度量空间之间的拟等距关系是一个等价关系。此外，如果 S 和 T 是群 (G, ⋅) 的生成集，则带有它们的字距离度量的 (G, ⋅, S) 和 (G, ⋅, T) 的 Cayley 图是拟等距空间。这意味着生成群的拟等距不变量的性质将独立于生成集的选择，并且因此对于群本身具有信息价值。
 
 此外，很容易证明带有字距离度量的生成群的 Cayley 图是拟等距于一个测地空间。在这个空间中，三角形的顶点 x、y、z 是三条测地线段的并集，分别是 x 和 y 之间、y 和 z 之间、z 和 x 之间的测地线段。这是应用 Gromov 的洞察力的入口，其中一些可以通过视觉几何思维来理解。
 
-这里有一些指示。回想一下庞加莱开放圆盘模型的双曲几何：测地线是与边界正交的圆的直径或弧，单位距离表示从中心向边界移动时欧几里得距离越来越短（边界不是模型的一部分）。所有三角形的角和<π（图 13，左），并且存在一个全局常数δ，使得所有三角形在以下意义上都是δ-薄的：
+这里有一些指示。回想一下庞加莱开放圆盘模型的双曲几何：测地线是与边界正交的圆的直径或弧，单位距离表示从中心向边界移动时欧几里得距离越来越短（边界不是模型的一部分）。所有三角形的角和<π（图 13，左），并且存在一个全局常数 δ，使得所有三角形在以下意义上都是 δ-薄的：
 
-如果且仅如果 T 的一侧上的任意点都在另外两条边的某个点的δ邻域内，那么三角形 T 就是δ-薄的。
+如果且仅如果 T 的一侧上的任意点都在另外两条边的某个点的 δ 邻域内，那么三角形 T 就是 δ-薄的。
 
-这个条件等价于 T 的每条边都在另外两条边的δ邻域的并集内，如图 13 所示。在欧几里得平面中不存在常数δ使得所有三角形都是δ-薄的，因为对于任何δ，都存在足够大的三角形，使得最长边的中点距离其他两条边上的所有点都大于δ。
+这个条件等价于 T 的每条边都在另外两条边的 δ 邻域的并集内，如图 13 所示。在欧几里得平面中不存在常数 δ 使得所有三角形都是 δ-薄的，因为对于任何 δ，都存在足够大的三角形，使得最长边的中点距离其他两条边上的所有点都大于 δ。
 
 ![a circle  In the interior are three arcs colored  green, blue, and red For all three smooth curves where each meets the circumference of the circle is marked as at a 90 degree angle  The green curve may actually be a straight line and goes from about 160 degrees to about 20 degrees  The blue curve goes from about 170 degrees to about 80 degrees  The red curve goes from about 90 degrees to about 25 degrees  Where the green and blue curves intersect is marked as an angle and labelled with the Greek letter alpha; where the blue and the red curves intersect is also marked as an angle and labelled with gamma; and with where the red and the green curves intersect and this labelled with beta](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig13a.png)
 
@@ -299,16 +299,16 @@ Noticing the possibility of defining a metric on generated groups did not requir
 
 (b)
 
- 图 13[2]
+ 图 13 [2]
 
 薄三角形的定义足够普遍，适用于任何测地空间，并允许将双曲性的概念推广到其原始背景之外：
 
-* 如果存在某个δ，使得测地空间的所有三角形都是δ-薄的，则该测地空间是双曲的。
+* 如果存在某个 δ，使得测地空间的所有三角形都是 δ-薄的，则该测地空间是双曲的。
 * 如果一个群体具有与双曲测地空间拟同构的凯莱图，则该群体是双曲的。
 
-双曲群的类别很大，包括重要的子类别，如有限群、自由群和属于≥2 次亏格的曲面的基本群。对它们已经证明了一些引人注目的定理。例如，对于每个双曲群，词问题是可解的，并且每个双曲群都有一个有限表示。因此，我们可以合理地得出结论，这种数学类别——双曲群的发现是富有成果的。
+双曲群的类别很大，包括重要的子类别，如有限群、自由群和属于 ≥2 次亏格的曲面的基本群。对它们已经证明了一些引人注目的定理。例如，对于每个双曲群，词问题是可解的，并且每个双曲群都有一个有限表示。因此，我们可以合理地得出结论，这种数学类别——双曲群的发现是富有成果的。
 
-在导致几何群论的发现中，视觉思维有多重要？视觉思维在发现 Cayley 图作为表示有限生成群的手段时是必需的。这并不是一个微不足道的事情：Cayley 图必须与我们用于视觉呈现它们的图表区分开来。Cayley 图是一个生成群的数学表示，而不是视觉表示。它由以下组成部分组成：一个集合 V（“顶点”），一个由 V 的成员的有序对组成的集合 E（“有向边”）和 E 的一个被划分为特定子集的分区（“颜色”，每个颜色代表由特定生成元进行的右乘）。对于无限阶的生成群，Cayley 图无法完全通过图表的常规表示来呈现，并且不同的图表可能在视觉上表示相同的 Cayley 图：图 14 中的两个图表都可以标记，以便在常规约定下它们表示(S3,⋅,{f,r})的 Cayley 图，这已经由图 10 进行了说明。因此，Cayley 图不能是一个图表。
+在导致几何群论的发现中，视觉思维有多重要？视觉思维在发现 Cayley 图作为表示有限生成群的手段时是必需的。这并不是一个微不足道的事情：Cayley 图必须与我们用于视觉呈现它们的图表区分开来。Cayley 图是一个生成群的数学表示，而不是视觉表示。它由以下组成部分组成：一个集合 V（“顶点”），一个由 V 的成员的有序对组成的集合 E（“有向边”）和 E 的一个被划分为特定子集的分区（“颜色”，每个颜色代表由特定生成元进行的右乘）。对于无限阶的生成群，Cayley 图无法完全通过图表的常规表示来呈现，并且不同的图表可能在视觉上表示相同的 Cayley 图：图 14 中的两个图表都可以标记，以便在常规约定下它们表示(S3, ⋅,{f, r})的 Cayley 图，这已经由图 10 进行了说明。因此，Cayley 图不能是一个图表。
 
 ![two identical red triangles, one above the other and inverted   Both have arrows going clockwise around Black lines with arrows pointing both ways link the respective vertices](https://plato.stanford.edu/entries/epistemology-visual-thinking/fig14a.png)
 
@@ -322,9 +322,9 @@ Noticing the possibility of defining a metric on generated groups did not requir
 
 Cayley 图的图表对于促使数学家以粗粒度图形的几何概念进行思考非常重要，因为这个想法正是在视觉上进行“缩小”的时候产生的。Gromov（1993）在 Starikova（2012:138）引用的一段话中指出了这一点。
 
-> 这个空间（带有字度量的 Cayley 图）对于几何学家来说可能显得乏味和平淡，因为它是离散的，传统的（例如拓扑和无穷小）工具在Γ中无法运行。为了恢复几何视角，人们必须改变自己的位置，并将观察点远离Γ。然后，从距离 d 看到的Γ中的度量变为原始距离除以 d，当 d→∞时，Γ中的点融合成一个连续的实体，占据了视觉地平线，没有任何间隙和空洞，让我们的几何学家心中充满了喜悦。
+> 这个空间（带有字度量的 Cayley 图）对于几何学家来说可能显得乏味和平淡，因为它是离散的，传统的（例如拓扑和无穷小）工具在 Γ 中无法运行。为了恢复几何视角，人们必须改变自己的位置，并将观察点远离 Γ。然后，从距离 d 看到的 Γ 中的度量变为原始距离除以 d，当 d→∞ 时，Γ 中的点融合成一个连续的实体，占据了视觉地平线，没有任何间隙和空洞，让我们的几何学家心中充满了喜悦。
 
-他在说要将观察点远离Γ，使点融合成一个占据视觉地平线的实体时，明确表示在通往几何群论的道路上，视觉想象力起着至关重要的作用。在从庞加莱圆盘模型思考超几何空间的情况下，视觉思维再次参与了发现超边性作为一般测地线空间的属性。很难想象在没有使用视觉资源的情况下，如何发现这个属性。
+他在说要将观察点远离 Γ，使点融合成一个占据视觉地平线的实体时，明确表示在通往几何群论的道路上，视觉想象力起着至关重要的作用。在从庞加莱圆盘模型思考超几何空间的情况下，视觉思维再次参与了发现超边性作为一般测地线空间的属性。很难想象在没有使用视觉资源的情况下，如何发现这个属性。
 
 ## 5. 数学中的视觉思维和心算
 
@@ -370,7 +370,7 @@ Cayley 图的图表对于促使数学家以粗粒度图形的几何概念进行�
 
 ### 6.2 证明中视觉经验的证据使用
 
-许多证明某事物的案例（或者遵循其证明）涉及对符号数组进行更改或想象更改。群论中左消去的标准证明提供了一个例子。“左消去”是这样的说法：对于具有运算⋅和单位元素 e 的群的任意成员 a、b、c，如果 a⋅b=a⋅c，则 b=c。这是（核心部分）它的证明：
+许多证明某事物的案例（或者遵循其证明）涉及对符号数组进行更改或想象更改。群论中左消去的标准证明提供了一个例子。“左消去”是这样的说法：对于具有运算 ⋅ 和单位元素 e 的群的任意成员 a、b、c，如果 a⋅b=a⋅c，则 b=c。这是（核心部分）它的证明：
 
 a⋅b=a⋅ca−1⋅(a⋅b)=a−1⋅(a⋅c)(a−1⋅a)⋅b=(a−1⋅a)⋅ce⋅b=e⋅cb=c。
 
@@ -396,7 +396,7 @@ x⋅(y⋅z)=(x⋅y)⋅z
 
 这个结论的步骤是错误的。一个人如何跟随证明可能取决于它是如何呈现的，而跟随证明的不同方式可能是了解其结论的不同方式。虽然看到括号的重新安排对于跟随这个论证的所有方式来说并非必要的，但对于以符号方式呈现并带有上述括号的正常跟随论证的方式来说是必要的。
 
-结合律在没有符号的情况下表达如下：当二元群操作连续两次应用于有序三元组⟨a，b，c⟩时，首次应用于初始两个操作数或最后两个操作数没有区别。虽然这是结合律的内容，但为了便于处理，结合律几乎总是以符号操作规则的形式表达。视觉感知用于在特定情况下判断所表达的规则是否被正确实施，前提是已知该规则是正确的。这里正在进行的是数学思维中熟悉的分工。我们首先建立符号操作规则的正确性（根据控制语义约定——在这种情况下，问题是微不足道的）；然后我们通过视觉检查规则是否被正确实施。在更抽象的语义层面上进行处理通常比纯语法层面上的处理更困难；因此，我们经常使用符号操作技术作为直接使用含义进行推理解决问题的代理。 （不使用任何符号技术，六分之八除以三分之五是多少？）当我们在证明或跟随证明时使用符号操作时，需要视觉体验来判断移动是否符合允许的模式，从而为我们接受该论证提供依据。然后了解结论的方式具有后验的成分。
+结合律在没有符号的情况下表达如下：当二元群操作连续两次应用于有序三元组 ⟨a，b，c⟩ 时，首次应用于初始两个操作数或最后两个操作数没有区别。虽然这是结合律的内容，但为了便于处理，结合律几乎总是以符号操作规则的形式表达。视觉感知用于在特定情况下判断所表达的规则是否被正确实施，前提是已知该规则是正确的。这里正在进行的是数学思维中熟悉的分工。我们首先建立符号操作规则的正确性（根据控制语义约定——在这种情况下，问题是微不足道的）；然后我们通过视觉检查规则是否被正确实施。在更抽象的语义层面上进行处理通常比纯语法层面上的处理更困难；因此，我们经常使用符号操作技术作为直接使用含义进行推理解决问题的代理。 （不使用任何符号技术，六分之八除以三分之五是多少？）当我们在证明或跟随证明时使用符号操作时，需要视觉体验来判断移动是否符合允许的模式，从而为我们接受该论证提供依据。然后了解结论的方式具有后验的成分。
 
 ### 6.3 视觉体验的非证据性使用
 
@@ -428,7 +428,7 @@ x⋅(y⋅z)=(x⋅y)⋅z
 
 数学中还有其他重要的视觉表达方式。本节最后简要介绍其中的一些。
 
-尽管在分析中使用图表进行论证面临着特殊的危险（如 3.3 节所述），但使用图表来说明符号呈现的运算可以非常有帮助。例如，考虑这对运算 {f(x)+k,f(x+k)}。通过视觉插图可以更好地理解它们及其之间的差异；对于集合 {f(x+k),f(x−k)}, {|f(x)|,f(|x|)}, {f(x)−1,f−1(x),f(x−1)} 也是如此。虽然基于视觉插图的概括是不可靠的，但我们可以将其用作检查计算错误和过度概括的手段。属性也是如此。例如，考虑满足 f(−x)=f(x) 的函数，称为偶函数，以及满足 f(−x)=−f(x) 的函数，称为奇函数：将图像 y=x2 和 y=x3 视为偶性和奇性的实例，可以帮助我们记住偶函数关于 y 轴对称，奇函数关于原点旋转π弧度对称。它们可以作为提醒和检查过度概括的手段：例如，任何适用于所有奇函数的一般性断言必须适用于特定的 y=x3。
+尽管在分析中使用图表进行论证面临着特殊的危险（如 3.3 节所述），但使用图表来说明符号呈现的运算可以非常有帮助。例如，考虑这对运算 {f(x)+k, f(x+k)}。通过视觉插图可以更好地理解它们及其之间的差异；对于集合 {f(x+k), f(x−k)}, {|f(x)|, f(|x|)}, {f(x)−1, f−1(x), f(x−1)} 也是如此。虽然基于视觉插图的概括是不可靠的，但我们可以将其用作检查计算错误和过度概括的手段。属性也是如此。例如，考虑满足 f(−x)=f(x) 的函数，称为偶函数，以及满足 f(−x)=−f(x) 的函数，称为奇函数：将图像 y=x2 和 y=x3 视为偶性和奇性的实例，可以帮助我们记住偶函数关于 y 轴对称，奇函数关于原点旋转 π 弧度对称。它们可以作为提醒和检查过度概括的手段：例如，任何适用于所有奇函数的一般性断言必须适用于特定的 y=x3。
 
 The utility of visual representations in real and complex analysis is not confined to such simple cases. Visual representations can help us grasp what motivates certain definitions and arguments, and thereby deepen our understanding. Abundant confirmation of this claim can be gathered from working through the text *Visual Complex Analysis* (Needham 1997). Some mathematical subjects have natural visual representations, which then give rise to a domain of mathematical entities in their own right. This is true of geometry but is also true of subjects which become algebraic in nature very quickly, such as graph theory, knot theory and braid theory. Techniques of computer graphics now enable us to use moving images. For an example of the power of kinematic visual representations to provide and increase understanding of a subject, see the first two “chapters” of the online introduction to braid theory by Ester Dalvit (2012, Other Internet Resources).
 
@@ -442,7 +442,7 @@ With regard to proofs, a minimal kind of understanding consists in understanding
 
  图 18
 
-Chvátal 的定理给出了答案：对于一个有 n 堵墙的画廊，└n/3┘个守卫就足够了，其中└n/3┘是不大于 n/3 的最大整数。（如果这听起来对你来说不够像一个数学定理，它可以重新表述如下：设 S 是欧几里得平面的一个子集。对于 S 的一个子集 B，我们说 B 监督着 S，如果对于 S 中的每个 x，都存在一个 y∈B，使得线段 xy 位于 S 内。那么使得每个由简单 n 边形界定的集合都被 f(n)个点监督的最小数量 f(n)至多为└n/3┘。）
+Chvátal 的定理给出了答案：对于一个有 n 堵墙的画廊，└n/3┘ 个守卫就足够了，其中 └n/3┘ 是不大于 n/3 的最大整数。（如果这听起来对你来说不够像一个数学定理，它可以重新表述如下：设 S 是欧几里得平面的一个子集。对于 S 的一个子集 B，我们说 B 监督着 S，如果对于 S 中的每个 x，都存在一个 y∈B，使得线段 xy 位于 S 内。那么使得每个由简单 n 边形界定的集合都被 f(n)个点监督的最小数量 f(n)至多为 └n/3┘。）
 
 这是 Steve Fisk 的证明。一个简短的归纳表明，每个多边形都可以三角化，即可以添加非交叉的边（“对角线”）以使多边形完全由不重叠的三角形组成。因此，取任何具有固定三角化的 n 边形。将其视为一个图形，一组顶点和连接的边，如图 19 所示。
 
@@ -464,7 +464,7 @@ Chvátal 的定理给出了答案：对于一个有 n 堵墙的画廊，└n/3�
 
 通过归纳假设，我们可以用三种颜色给每个较小的图上色，使得没有边连接相同颜色的顶点，保持 u 和 v 的颜色不变。将两个较小的图粘贴在一起，上色后得到整个图的三色着色。
 
-剩下的是要证明可以在顶点上放置└n/3┘个或更少的守卫，使得每个三角形都在守卫的视野中。设蓝色、红色和白色顶点的数量分别为 b、r 和 w。设 b 在{b,r,w}中最小。那么 b≤r 且 b≤w。那么 2b≤r+w。所以 3b≤b+r+w=n。所以 b≤n/3，因此 b≤└n/3┘。在每个蓝色顶点上放置一个守卫。完成。
+剩下的是要证明可以在顶点上放置 └n/3┘ 个或更少的守卫，使得每个三角形都在守卫的视野中。设蓝色、红色和白色顶点的数量分别为 b、r 和 w。设 b 在{b, r, w}中最小。那么 b≤r 且 b≤w。那么 2b≤r+w。所以 3b≤b+r+w=n。所以 b≤n/3，因此 b≤└n/3┘。在每个蓝色顶点上放置一个守卫。完成。
 
 这个证明的核心思想或证明策略是清晰的。虽然这里产生的实际图表对于证明来说是多余的，但通过一些可视化可以帮助我们理解核心思想。
 

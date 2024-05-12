@@ -48,7 +48,7 @@
 
 虽然康多塞的原始证明仅限于只有两个选择的决策，但最近的研究认为 CJT 可以扩展到有三个或更多选择的决策（List＆Goodin 2001）。使用 CJT 来解释民主的可靠性通常被认为源于让-雅克·卢梭的观点，即“如果一个足够了解的公众进行了深思熟虑，而公民之间没有任何交流，那么普遍意愿将始终源于许多小差异，并且讨论将始终是良好的。”（卢梭 1762 年：第三卷，第四章）
 
-> [i]f, when a sufficiently informed populace deliberates, the citizens were to have no communication among themselves, the general will would always result from the large number of small differences, and the deliberation would always be good. (Rousseau 1762: Book III, ch. IV)
+> [i] f, when a sufficiently informed populace deliberates, the citizens were to have no communication among themselves, the general will would always result from the large number of small differences, and the deliberation would always be good. (Rousseau 1762: Book III, ch. IV)
 
 当代理论家继续依赖 CJT 或其变体来为民主提供正当性（Barry 1965; Cohen 1986; Grofman and Feld 1988; Goodin & Spiekermann 2019）。
 
@@ -104,7 +104,7 @@ Hobbes 认为，民主制度不如君主制度，因为民主制度会在臣民�
 
 Jürgen Habermas 的辩论民主的话语理论在这种方法的发展中具有很高的影响力。Habermas 通过他的交往行动理论的视角分析现代法律制度的形式和功能。这种分析得出了民主原则：
 
-> [O]nly those statutes may claim legitimacy that can meet with the assent of all citizens in a discursive process of legislation that in turn has been legally constituted. (Habermas 1992 [1996: 110])
+> [O] nly those statutes may claim legitimacy that can meet with the assent of all citizens in a discursive process of legislation that in turn has been legally constituted. (Habermas 1992 [1996: 110])
 
 Habermas advances a conception of democratic legitimacy according to which law is legitimate only if it results from a free and inclusive democratic process of "opinion and will-formation". What might such a process look like in a complex and differentiated society? Habermas answers by advancing a "two-track" model that understands democratic legitimation in terms of the relationship between institutionalized deliberative bodies (e.g legislatures, agencies, courts) and informal communication in the public sphere, which is "wild", and not centrally coordinated.
 
@@ -136,7 +136,7 @@ One possible objection to this view is that free and inclusive democratic proced
 
 > 在某些至关重要的方面，人际关系并不受等级、权力或地位的差异所限制。（Scheffler 2010: 225）
 
-Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny 2014a,b）。Kolodny 的一个论点是，政治决策涉及使用强制力。使用强制力的不平等至少在一定程度上削弱了平等的社会地位，因为使用强制力的权力“通常决定其他权力的分配”（Kolodny 2014b: 307）。那些拥有对他人使用强制力的更强大权力的个体拥有更高的社会地位。实现社会平等因此需要平等分配的政治权力。而只有民主制度提供了平等分配的政治权力。当我们在下面讨论民主的权威性时，我们将进一步讨论关系平等与民主之间的关系。
+Niko Kolodny 认为，民主制度是关系平等的重要组成部分（Kolodny 2014a, b）。Kolodny 的一个论点是，政治决策涉及使用强制力。使用强制力的不平等至少在一定程度上削弱了平等的社会地位，因为使用强制力的权力“通常决定其他权力的分配”（Kolodny 2014b: 307）。那些拥有对他人使用强制力的更强大权力的个体拥有更高的社会地位。实现社会平等因此需要平等分配的政治权力。而只有民主制度提供了平等分配的政治权力。当我们在下面讨论民主的权威性时，我们将进一步讨论关系平等与民主之间的关系。
 
 ## 3. 民主的权威性
 
