@@ -201,7 +201,8 @@ Beitz 正确地指出，一个理性的人可以接受和使用人权的概念�
 <!--md-padding-ignore-begin-->
 ## Bibliography
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography: Books and Articles in the Philosophy of Human Rights
 
 * Ashford, E., 2015, “A Moral Inconsistency Argument for a Basic Human Right to Subsistence,” in Cruft, R., Liao, S., and Renzo, M. (eds.), *Philosophical Foundations of Human Rights*, Oxford: Oxford University Press.

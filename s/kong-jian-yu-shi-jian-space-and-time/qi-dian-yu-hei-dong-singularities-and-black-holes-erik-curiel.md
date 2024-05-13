@@ -558,7 +558,8 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 <!--md-padding-ignore-begin-->
 ## Bibliography
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography: Philosophy
 
 * Albert, David Z., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press
@@ -616,7 +617,8 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * Williams, Porter, 2017, “Scientific Realism Made Effective”, *British Journal for Philosophy of Science*, published online: 30 August 2017, doi:10.1093/bjps/axx043
 * Wüthrich, Christian, 2017, “Raiders of the Lost Spacetime”, in Lehmkuhl et al. 2017: 297–335 (ch. 11). doi:10.1007/978-1-4939-3210-8_11
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography: Physics
 
 * Abbott, B. P., R. Abbott, T. D. Abbott, M. R. Abernathy, F. Acernese, K. Ackley, C. Adams et al., (LIGO Scientific Collaboration and Virgo Collaboration), 2016, “Observation of Gravitational Waves from a Binary Black Hole Merger”, *Physical Review Letters*, 116(6): 061102. doi:10.1103/PhysRevLett.116.061102 [[preprint available online](http://arxiv.org/abs/1602.03837)].
@@ -806,7 +808,8 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * Zel’dovi&ccirc;, Ya. B., 1970, “Generation of Waves by a Rotating Body”, *Journal of Experimental and Theoretical Physics Letters*, 14: 180–181
 * Zel’dovi&ccirc;, Ya. B. and L.P. Pitaevskiî, 1971, “On the Possibility of the Creation of Particles by a Classical Gravitational Field”, *Communications in Mathematical Physics*, 23(3): 185–188. doi:10.1007/BF01877740
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography: Philosophy Reference
 
 * Batterman, Robert (ed.), 2013, *The Oxford Handbook of Philosophy of Physics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195392043.001.0001
@@ -819,7 +822,8 @@ Gryb 等人（2018）将在这种情况下似乎需要的普遍性论证与在�
 * –––, 2012, *Topics in the Foundations of General Relativity and Newtonian Gravitational Theory*, Chicago: University of Chicago Press.
 * Manchak, John Byron, 2013, “Global Space Time Structure”, in Batterman 2013. doi:10.1093/oxfordhb/9780195392043.013.0017
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography: Physics Reference
 
 * Ashtekar, Abhay and Vesselin Petkov (eds.), 2014, *Springer Handbook of Spacetime*, Berlin: Springer-Verlag. doi:10.1007/978-3-642-41992-8

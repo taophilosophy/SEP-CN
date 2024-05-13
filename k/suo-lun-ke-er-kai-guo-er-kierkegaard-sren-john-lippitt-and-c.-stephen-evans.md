@@ -226,7 +226,7 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
 1847
 
 * *Upbuilding * Discourses in Various Spirits by S. Kierkegaard** (*Opbyggelige Taler i forskjellig Aand*)
-* * Works of Love: Some Christian Reflections in the Form of Discourses by S. Kierkegaard * (* Kjerlighedens Gjerninger. Nogle christelige Overveielser i Talers Form*)
+* * Works of Love: Some Christian Reflections in the Form of Discourses by S. Kierkegaard *(* Kjerlighedens Gjerninger. Nogle christelige Overveielser i Talers Form*)
 
 1848
 

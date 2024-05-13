@@ -725,7 +725,6 @@
 
 ## 古代中世纪女性哲学家
 
-
 ## 近代女性哲学家
 
 * [简·亚当斯 Addams, Jane (Maurice Hamington)](a/jian-ya-dang-si-addams-jane-maurice-hamington.md)

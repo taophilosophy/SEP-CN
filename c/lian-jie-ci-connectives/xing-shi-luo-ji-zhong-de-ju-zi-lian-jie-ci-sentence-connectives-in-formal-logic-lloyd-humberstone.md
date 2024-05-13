@@ -1,6 +1,5 @@
 # 形式逻辑中的句子连接词 sentence connectives in formal logic (Lloyd Humberstone)
 
-
 *首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 月 28 日星期二*
 
 自然语言的句子连接词（如“和”、“或”）传统上在各种形式逻辑系统中通过相应的连接词模拟其使用方面。 （事实上，我们更宽泛地使用“连接词”这个词，这样就不必有两个或更多句子连接在一起，从而使我们能够将“非”和“必然”等词的类比也视为连接词。）这一努力引发了以下问题。 （1）哪些自然发生的句子连接词需要这种处理？ （哪些应被视为“逻辑常量”？）（2）在这个过程中模拟的使用方面是否穷尽了我们可能认为的它们的含义，或者通常存在一些不匹配？ 当然，第二个问题取决于给定的具体形式处理，因为不同的逻辑可能在赋予其代表的形式原则方面存在分歧——例如在“如果”这种情况下，但根据一条著名的思路（由 H. P. Grice 发展），当我们专门关注它们在经典命题逻辑中的处理时，任何这种明显的不一致之处都可以通过诉诸调节普通合作对话的语用原则来解释，并不反映含义的差异（语义差异）。
@@ -632,7 +631,8 @@ Id-归纳性在 Kaminski (1988)中被称为“正则性”；关于 Id-归纳性
 
 在特殊和普遍代表性连接词主题上感兴趣的材料可以在 Jankov (1969), Pahi (1971), de Jongh 和 Chagrova (1995)找到，另外还有第 3 节中引用的参考文献。关于直觉主义逻辑中头部连接关系是特殊的这一事实，请参见 Urquhart (1974) — 并非该术语在那里出现。
 
-#<!--md-padding-ignore-begin-->
+# <!--md-padding-ignore-begin-->
+
 ## Bibliography
 
 * Aloni, Maria, 2016, “Disjunction”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/win2016/entries/disjunction/](https://plato.stanford.edu/archives/win2016/entries/disjunction/)>.
