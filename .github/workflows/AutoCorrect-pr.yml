@@ -5,27 +5,25 @@ jobs:
   build:
     name: AutoCorrect
     runs-on: ubuntu-latest
-    
     steps:
-        - name: Checkout from repository
-          uses: actions/checkout@v4
-        
-        - name: Setup Node.js
-          uses: actions/setup-node@v4
-          with:
-            node-version: '20'
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
           
-        - name: Install autocorrect 
-          run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
+      - name: Install autocorrect 
+        run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
         
-        - name: Run autocorrect lint
-          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson
-
-          if: failure()
-        - uses: reviewdog/action-setup@v1
-          with:
-              reviewdog_version: latest 
-        - name: Run reviewdog
-          env:
+      - name: Run autocorrect lint
+        run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson
+          
+      - name: Run autocorrect lint
+        if: failure()
+        uses: reviewdog/action-setup@v1
+        with: 
+           reviewdog_version: latest 
+              
+      - name: Run reviewdog
+        env:
              REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          run: reviewdog -f=rdjson -reporter=github-pr-review -runners=golint,govet
+        run: reviewdog -f=rdjson -reporter=github-pr-review -runners=golint,govet
