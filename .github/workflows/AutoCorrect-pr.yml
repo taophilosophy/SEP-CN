@@ -20,10 +20,10 @@ jobs:
         
         - name: Run autocorrect lint
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson
-        - name: Report ReviewDog
+
           if: failure()
         - uses: reviewdog/action-setup@v1
-            with:
+          with:
               reviewdog_version: latest 
         - name: Run reviewdog
           env:
