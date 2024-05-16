@@ -19,7 +19,7 @@ jobs:
           run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
         
         - name: Run autocorrect lint
-          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }})
+          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson | reviewdog -f=rdjson -reporter=github-pr-review
  
         - name: Report ReviewDog
           if: failure()
