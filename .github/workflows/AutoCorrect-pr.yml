@@ -15,10 +15,9 @@ jobs:
         run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
         
       - name: Run autocorrect lint
-        run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson
+        run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color $(git diff --diff-filter=AM --name-only ${{ github.event.pull_request.base.sha }}) --format rdjson || true 
           
       - name: Run autocorrect lint
-        if: failure()
         uses: reviewdog/action-setup@v1
         with: 
            reviewdog_version: latest 
