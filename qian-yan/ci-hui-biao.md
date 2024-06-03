@@ -14,6 +14,7 @@ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚
 
 
 
+
 The Byzantine to 拜占庭.
 
 The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教.
@@ -68,7 +69,9 @@ The Thomas of Erfurt to 埃尔福特的托马斯.
 
 The Natural Theology to 自然神学. The Natural Religion to 自然宗教.
 
-The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯.
+The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯. The Anicius Manlius Severinus Boethius to 亚尼修·玛理乌斯·塞味利诺·波爱修斯. The Boethius to 波爱修斯.
+
+ The binarium famosissimum to 最著名的一对. The most famous pair  to 最著名的一对.
 
 The Substance to 实体. The haecceity to 此性. The bundle theory to 束理论. The body to 身体. The inherence to 内在性.
 
@@ -128,7 +131,7 @@ The  War to 战争.
 
 The Theological Voluntarism to 神学意志主义.
 
-The  Voting to 投票. The Rationality  to 理性. The Ethics to 道德.The Methods to 方法.
+The  Voting to 投票. The Rationality  to 理性. The blame to 责备. The bounded rationality to 有限理性. The Herbert Simon to 司马贺. The Ethics to 道德.The Methods to 方法.
 
 The Juan Luis Vives to 胡安·路易斯·维夫斯 . The Vives to 维夫斯 .
 
@@ -172,7 +175,7 @@ The Henri Bergson to 亨利·柏格森. The Bergson to 柏格森.
 
 The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
 
-The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.
+The belief merging to 信念合并. The judgment aggregation to 判断聚合. The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保. The ethics of belief to 信念伦理学.
 
 The Dynamic Semantics to 动态语义. The Semantics to 语义. The Montague to 蒙太古. The Proof-Theoretic to 证明论. The Two-Dimensional to 二维. The inner speech to 内部言语.
 
@@ -182,7 +185,6 @@ The Margarete Susman to 玛格丽特·苏斯曼.The Susman  to 苏斯曼.
 
 Herbert Spencer to 赫伯特·斯宾塞. The  Spencer to 斯宾塞.
 
-The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保.
 
 The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
 
