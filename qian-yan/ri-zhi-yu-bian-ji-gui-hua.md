@@ -61,7 +61,14 @@
 - 2024.02.20 开始部署 vitepress 
 - 2024.05.31 对 SEP 条目的分类初步完成
 - 2024.05.31 对 vitepress 的部署基本完成。搜索功能待解决。05.20-05.31 期间合并他人代码发布了一个 npm 包，编写了若干 GitHub Action 脚本
-
+- 2024.06.03 B 部分条目的机器重译完成
+  - 存在问题的条目
+    - 有限理性 bounded rationality (Gregory Wheeler)———暂时无法处理，公式太多
+   	- 信念合并与判断聚合 belief merging and judgment aggregation (Gabriella Pigozzi) ——暂时无法处理，公式太多
+    - 信念的形式表述 belief, formal representations of (Konstantin Genin and Franz Huber)——暂时无法处理，公式太多
+    - 贝叶斯定理 Bayes’ Theorem (James Joyce)——暂时无法处理，公式太多
+    - 乔治·布尔 Boole, George (Stanley Burris)——暂时无法处理，公式太多
+    
 ## 详细日志与词汇表
 
 ```

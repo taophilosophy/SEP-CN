@@ -12,29 +12,24 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
 
-The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
+
+
 
 The Byzantine to 拜占庭.
 
-The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教..
-
-The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅.
+The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教.
 
  The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
 
 The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义.
 
-The Wisdom to 智慧.
+The Wisdom to 智慧. The basing relation to 基础关系. 
 
 The Bernard Williams to 伯纳德·威廉姆斯  . The Williams to 威廉姆斯.
 
 The Donald Cary Williams to 唐纳德·卡里·威廉姆斯.
 
 The John Cook Wilson to 约翰·库克·威尔逊. The Wilson to 威尔逊.
-
-The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.
-
-The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德.
 
 The Watsuji Tetsurō to 和辻哲郎 . The Watsuji to 和辻. The Tetsurō to 哲郎 .
 
@@ -50,7 +45,7 @@ The Well-Being to 福祉.
 
 The boundary to 边界 .
 
-The Weakness of Will to 意志薄弱 . The akrasia to 不自制.
+The Weakness of Will to 意志薄弱 . The akrasia to 不自制.The bodily awareness to 身体意识. The  awareness to 意识. 
 
 The vagueness to 模糊性.
 
@@ -68,15 +63,15 @@ The Henry David Thoreau to 亨利·戴维·梭罗, The A Week on the Concord and
 
 The Thought Experiments to 思想实验.
 
+The  Simone de Beauvoir to 西蒙娜·德·波伏娃. The Beauvoir to 波伏娃. The  Jean-Paul Sartre to 让-保罗·萨特. The Sartre  to 萨特. The authenticity to 本真性 . The She Came to Stay to 女宾. The Pyrrhus and Cinéas to 皮瑞斯与辛尼阿斯. The The Ethics of Ambiguity to 模糊性的道德. The America Day by Day to 美国纪行. The The Second Sex to 第二性. The Must We Burn Sade to 要焚毁萨德吗. The The Long March to 长征. The A Very Easy Death to 安详辞世. The All Men are Mortal to 人都是要死的. The Adieux: A Farewell to Sartre to 告别的仪式. The Djamila Boupacha  to贾米拉·布巴夏. The The Coming of Age to 论老年.
+
 The Thomas of Erfurt to 埃尔福特的托马斯. 
 
 The Natural Theology to 自然神学. The Natural Religion to 自然宗教.
 
-The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.
+The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯. The Anicius Manlius Severinus Boethius to 亚尼修·玛理乌斯·塞味利诺·波爱修斯. The Boethius to 波爱修斯.
 
-The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆.
-
-The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯.
+ The binarium famosissimum to 最著名的一对. The most famous pair  to 最著名的一对.
 
 The Substance to 实体. The haecceity to 此性. The bundle theory to 束理论. The body to 身体. The inherence to 内在性.
 
@@ -102,7 +97,7 @@ The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
 
 The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.
 
-The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
+
 
 The Sounds to 声音.
 
@@ -115,8 +110,6 @@ The Hans Vaihinger to 汉斯·费英格. The Vaihinger to 费英格.
 The value to 价值 . The Incommensurable  to 不可通约性 .The Intrinsic to 内在. The Extrinsic to 外在.The pluralism to 多元主义. The value theory to 价值论.
 
 The Lorenzo Valla to 劳伦佐·瓦拉 . The Valla to 瓦拉 .
-
-The Species to 物种.
 
 The Bernardino Telesio to 贝尔纳迪诺·特勒肖 . The  Telesio to 特勒肖.
 
@@ -138,9 +131,11 @@ The  War to 战争.
 
 The Theological Voluntarism to 神学意志主义.
 
-The  Voting to 投票. The Rationality  to 理性. The Ethics to 道德.The Methods to 方法.
+The  Voting to 投票. The Rationality  to 理性. The blame to 责备. The bounded rationality to 有限理性. The Herbert Simon to 司马贺. The Ethics to 道德.The Methods to 方法.
 
 The Juan Luis Vives to 胡安·路易斯·维夫斯 . The Vives to 维夫斯 .
+
+The Jean Bodin to 让·博丹. The Bodin to 博丹. 
 
 The Voltaire to 伏尔泰. The François-Marie d’Arouet to 弗朗索瓦-马里‧阿鲁埃.
 
@@ -148,8 +143,12 @@ The Skepticism to 怀疑论.   The  Pyrrho to 皮浪. The Pyrrhonism to 皮浪�
 
 The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Śrīharṣa to 曷利沙. The Tsongkhapa to 宗喀巴. The Tsongkhapa Losang Drakpa to 宗喀巴·洛桑札巴.The Vasubandhu to 世亲.
 
- The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
+The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
  The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Latin West to 西方拉丁世界. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社.The Samuel Ibn Tibbon to 撒母耳·伊本·提本.
+
+The beauty to  美.
+
+The implicit bias to 内隐偏见. 
 
  The  empirical approaches to 经验主义研究.  The empirical  to 经验主义.The Account  to 解释/原理. The accommodation to 解释.  The property to 属性/性质. The  moral  desert to 道德应得. The agency to 行为体. The desert to 应得. The testimony to 证言. The commentators to 评注者. The Schelling to 谢林. 
 
@@ -176,7 +175,7 @@ The Henri Bergson to 亨利·柏格森. The Bergson to 柏格森.
 
 The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
 
-The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.
+The belief merging to 信念合并. The judgment aggregation to 判断聚合. The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保. The ethics of belief to 信念伦理学.
 
 The Dynamic Semantics to 动态语义. The Semantics to 语义. The Montague to 蒙太古. The Proof-Theoretic to 证明论. The Two-Dimensional to 二维. The inner speech to 内部言语.
 
@@ -186,15 +185,16 @@ The Margarete Susman to 玛格丽特·苏斯曼.The Susman  to 苏斯曼.
 
 Herbert Spencer to 赫伯特·斯宾塞. The  Spencer to 斯宾塞.
 
-The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保.
 
 The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
 
- The biological development to 生物演化. The development to 演化.
+The  biological individuals to 生物学个体. The Sociobiology to 生物社会学.  The biological development to 生物演化. The development to 演化. The Species to 物种.The biomedicine to 生物医学. 
 
 The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉. The Niels Bohr to 尼尔斯·玻尔. The  Bohr to 玻尔. The correspondence principle to 对应原理. The Bell’s Theorem to 贝尔定理.
 
-The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
+The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.The George Boole to 乔治·布尔.  The Boole to 布尔. 
+
+The Jean Baudrillard to 让·鲍德里亚.  The Baudrillard to 鲍德里亚.The The Mirror of Production to 生产之镜. The System of Objects to 物体系.
 
 The States of Affairs to 事态.
 
@@ -218,13 +218,13 @@ The Paradox of Suspense to 悬疑悖论.
 
 The  Philosophy of Statistics to 统计学哲学 .
 
-The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
+The Spinoza to 斯宾诺莎. The George Berkeley to 乔治·贝克莱.  The Berkeley to 贝克莱.  The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 
  The Boolean algebra to 逻辑代数.
 
 The  Absolute idealism to 新黑格尔主义. The British Idealism to 英国新黑格尔主义. The Bernard Bosanquet to 伯纳德·鲍桑葵. The  Bosanquet to  鲍桑葵.  The Token to 个体. The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退.  The Bruno  Bauer to 布鲁诺·鲍威尔. The Bauer to 鲍威尔.
 
-The Ernst Bloch to 恩斯特·布洛赫. The Bloch to 布洛赫.
+The Ernst Bloch to 恩斯特·布洛赫. The Bloch to 布洛赫. The Walter Benjamin to 瓦尔特·本雅明. The Benjamin to 本雅明.
 
 The Franz Brentano to 弗朗兹·布伦塔诺. The Brentano to 布伦塔诺.The theory of judgement to 判断理论.
 ``` 
