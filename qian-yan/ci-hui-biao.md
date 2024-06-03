@@ -14,21 +14,15 @@ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚
 
  The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.
 
-The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺.
-
-The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
-
 The Byzantine to 拜占庭.
 
-The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教..
-
-The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅.
+The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教.
 
  The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
 
 The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义.
 
-The Wisdom to 智慧.
+The Wisdom to 智慧. The basing relation to 基础关系. 
 
 The Bernard Williams to 伯纳德·威廉姆斯  . The Williams to 威廉姆斯.
 
@@ -36,9 +30,7 @@ The Donald Cary Williams to 唐纳德·卡里·威廉姆斯.
 
 The John Cook Wilson to 约翰·库克·威尔逊. The Wilson to 威尔逊.
 
-The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.
-
-The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德.
+The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. 
 
 The Watsuji Tetsurō to 和辻哲郎 . The Watsuji to 和辻. The Tetsurō to 哲郎 .
 
@@ -54,7 +46,7 @@ The Well-Being to 福祉.
 
 The boundary to 边界 .
 
-The Weakness of Will to 意志薄弱 . The akrasia to 不自制.
+The Weakness of Will to 意志薄弱 . The akrasia to 不自制.The bodily awareness to 身体意识. The  awareness to 意识. 
 
 The vagueness to 模糊性.
 
@@ -120,8 +112,6 @@ The value to 价值 . The Incommensurable  to 不可通约性 .The Intrinsic to 
 
 The Lorenzo Valla to 劳伦佐·瓦拉 . The Valla to 瓦拉 .
 
-The Species to 物种.
-
 The Bernardino Telesio to 贝尔纳迪诺·特勒肖 . The  Telesio to 特勒肖.
 
 The St. Petersburg paradox to 圣彼得堡悖论. The St. Petersburg to 圣彼得堡.
@@ -145,6 +135,8 @@ The Theological Voluntarism to 神学意志主义.
 The  Voting to 投票. The Rationality  to 理性. The Ethics to 道德.The Methods to 方法.
 
 The Juan Luis Vives to 胡安·路易斯·维夫斯 . The Vives to 维夫斯 .
+
+The Jean Bodin to 让·博丹. The Bodin to 博丹. 
 
 The Voltaire to 伏尔泰. The François-Marie d’Arouet to 弗朗索瓦-马里‧阿鲁埃.
 
@@ -198,11 +190,13 @@ The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保.
 
 The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
 
- The biological development to 生物演化. The development to 演化.
+The  biological individuals to 生物学个体. The Sociobiology to 生物社会学.  The biological development to 生物演化. The development to 演化. The Species to 物种.
 
 The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉. The Niels Bohr to 尼尔斯·玻尔. The  Bohr to 玻尔. The correspondence principle to 对应原理. The Bell’s Theorem to 贝尔定理.
 
-The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
+The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.The George Boole to 乔治·布尔.  The Boole to 布尔. 
+
+The Jean Baudrillard to 让·鲍德里亚.  The Baudrillard to 鲍德里亚.The The Mirror of Production to 生产之镜. The System of Objects to 物体系.
 
 The States of Affairs to 事态.
 
