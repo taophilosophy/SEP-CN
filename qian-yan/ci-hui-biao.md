@@ -12,6 +12,10 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
 
+ The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.
+
+The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺.
+
 The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.
 
 The Byzantine to 拜占庭.
@@ -148,8 +152,12 @@ The Skepticism to 怀疑论.   The  Pyrrho to 皮浪. The Pyrrhonism to 皮浪�
 
 The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Śrīharṣa to 曷利沙. The Tsongkhapa to 宗喀巴. The Tsongkhapa Losang Drakpa to 宗喀巴·洛桑札巴.The Vasubandhu to 世亲.
 
- The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
+The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
  The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Latin West to 西方拉丁世界. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社.The Samuel Ibn Tibbon to 撒母耳·伊本·提本.
+
+The beauty to  美.
+
+The implicit bias to 内隐偏见. 
 
  The  empirical approaches to 经验主义研究.  The empirical  to 经验主义.The Account  to 解释/原理. The accommodation to 解释.  The property to 属性/性质. The  moral  desert to 道德应得. The agency to 行为体. The desert to 应得. The testimony to 证言. The commentators to 评注者. The Schelling to 谢林. 
 
@@ -218,7 +226,7 @@ The Paradox of Suspense to 悬疑悖论.
 
 The  Philosophy of Statistics to 统计学哲学 .
 
-The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
+The Spinoza to 斯宾诺莎. The George Berkeley to 乔治·贝克莱.  The Berkeley to 贝克莱.  The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 
  The Boolean algebra to 逻辑代数.
 
