@@ -6,7 +6,7 @@
 
 ---
 
-## 1. 悖论和罗素的类型理论
+## 悖论和罗素的类型理论
 
 类型理论是由罗素引入的，目的是解决他在集合论中发现的一些矛盾，并在罗素 1903 年的《附录 B：类型学说》中引入。这个矛盾是通过分析康托尔的一个定理得到的，该定理指出没有映射能够将一个集合映射到其自身的真子集。
 
@@ -50,7 +50,7 @@ which is a contradiction.
 
 从这个解释中可以清楚地看出，类型的概念已经存在于 Frege 的工作中：我们在那里找到了对象、谓词（或概念）、谓词的谓词等的区别。（这一点在 Quine 1940 中强调。）这个层次结构被 Russell（1959）称为“外延层次结构”，Russell 认识到它的必要性是他悖论的结果。
 
-## 2. 简单类型论和 λ 演算
+## 简单类型论和 λ 演算
 
 正如我们在上面看到的，对象、谓词、谓词的谓词等的区别似乎足以阻止罗素悖论（这一点被克维斯特克和拉姆齐所认可）。我们首先描述类型结构，即在《原理》中的结构，然后在本节中介绍基于 λ 演算的丘奇 1940 年的优雅表述。类型可以定义为
 
@@ -222,7 +222,7 @@ Q:i→i→o
 
 For more information on this topic, we refer to the entry on Church’s simple type theory.
 
-## 3. Ramified Hierarchy and Impredicative Principles
+## Ramified Hierarchy and Impredicative Principles
 
 Russell introduced another hierarchy, that was not motivated by any formal paradoxes expressed in a formal system, but rather by the fear of “circularity” and by informal paradoxes similar to the paradox of the liar. If a man says “I am lying”, then we have a situation reminiscent of Russell’s paradox: a proposition which is equivalent to its own negation. Another informal such paradoxical situation is obtained if we define an integer to be the “least integer not definable in less than 100 words”. In order to avoid such informal paradoxes, Russell thought it necessary to introduce another kind of hierarchy, the so-called “ramified hierarchy”. The need for such a hierarchy is hinted in Appendix B of Russell 1903. Interestingly this is connected there to the question of the identity of equivalent propositions and of the logical product of a class of propositions. A thorough discussion can be found in Chapter 10 of Russell 1959. Since this notion of ramified hierarchy has been extremely influential in logic and especially proof theory, we describe it in some details.
 
@@ -290,7 +290,7 @@ Russell introduced another hierarchy, that was not motivated by any formal parad
 
 证明论中的另一个研究方向是理解在直觉主义数学中可以从可用原理中解释多少无限制量化。最强的这类原理是归纳定义的强形式。通过这样的原理，可以解释一种有限形式的无限制量化，称为 Π11-包容，其中只使用一级谓词的无限制量化。有趣的是，几乎所有已知的无限制量化的用途：莱布尼兹相等性，上确界等等，都可以用 Π11-包容来完成。这种 Π11-包容的简化首先由竹内间接实现，后来由布赫霍尔兹和舒特使用所谓的 Ω 规则进行了简化。它可以被看作是对一些受限但非平凡的无限制定义用途的建设性解释。
 
-## 4. 类型论/集合论
+## 类型论/集合论
 
 类型论可以作为数学的基础，并且事实上，它在罗素于 1908 年发表的论文中被提出为这样的基础，该论文与策梅洛于同一年发表的将集合论作为数学基础的论文同时出现。
 
@@ -308,7 +308,7 @@ such that whenever Txy and Rxu hold, there exists v such that Tuv and Syv hold, 
 
 然后可以检查在这个简单模型中，所有集合论的常规公理（外延性、幂集、并集、对有界公式的包容性，甚至是反基础性，使得成员关系不需要良基）都成立。（有界公式是指所有量化都是形如 `∀x∈a…`或 `∃x∈a…`的公式）。通过这种方式，可以证明丘奇的简单类型论与策梅洛的集合论的有界版本等价一致。
 
-## 5. 类型论/范畴论
+## 类型论/范畴论
 
 类型论与范畴论之间存在着深刻的联系。我们仅限于介绍类型论对范畴论的两个应用：构造自由笛卡尔闭范畴和自由拓扑（有关“笛卡尔闭”和“拓扑”的解释，请参见范畴论条目）。
 
@@ -332,7 +332,7 @@ eq:A→A→o
 
 内涵式表述的一个优点是它允许直接使用 λ 演算（Martin-Löf 1971 和 Coquand 1986）来表示基于证明的符号。
 
-## 6. 类型系统的扩展，多态性，悖论
+## 类型系统的扩展，多态性，悖论
 
 我们已经看到了类型上的操作 A → A → o 和集合上的幂集操作之间的类比。在集合论中，幂集操作可以在累积层次结构上进行无限迭代。因此，寻找类型论的类似的超限版本是自然的。
 
@@ -374,7 +374,7 @@ Martin-Löf 引入的所有类型的类型来自于 Curry 和 Howard 的工作�
 
 鉴于（1）和（2），我们应该有一个命题的类型（如简单类型论中的类型），并且鉴于（3），这也应该是所有类型的类型。吉拉尔悖论表明，不能同时具有（1），（2）和（3）。马丁-勒夫的选择是去掉（2），将类型论限制为谓词性的（实际上，宇宙的概念首次出现在类型论中，作为所有类型的谓词性版本）。关于去掉（3）的替代选择在科昆德 1986 年的论文中进行了讨论。
 
-## 7. 同伦基础
+## 同伦基础
 
 类型论、集合论和范畴论之间的联系通过对单价基础(Univalent Foundations)（Voevodsky 2015）和单价公理(Axiom of Univalence)的研究得到了新的启示。这在很大程度上涉及到了前一节中描述的类型论的扩展，特别是依赖类型、将命题视为类型以及类型宇宙的概念。这些发展对于讨论结构的概念也是相关的，其中的重要性例如在 Russell 1959 中得到了强调。
 

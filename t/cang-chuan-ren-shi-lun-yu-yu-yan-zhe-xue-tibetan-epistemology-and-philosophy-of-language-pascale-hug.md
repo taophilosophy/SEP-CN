@@ -10,7 +10,7 @@
 
 ---
 
-## 1. 时期划分
+## 时期划分
 
 根据范德库伊普（1989）的观点，可以通过一方面依赖于藏传学者所关注的印度源作为解释的焦点，另一方面依赖于涉及的学术活动类型（翻译、评论或独立论文的撰写）来对藏传认识论传统进行时期划分。因此，可以区分出：
 
@@ -21,13 +21,13 @@
 
 在古典前期，由 Ngok Loden Shérap 在 Sangpu（gSang phu Neʼu thog）的 Kadampa（bKaʼ gdams pa）寺院发起的认识论传承起到了主导作用。Ngok Loden Shérap 本人以及他的继任者中的重要人物，尤其是 Chapa Chökyi Senggé（Phya pa Chos kyi seng ge，1109-1169）和 Tsang Nakpa Tsöndrü Senggé（gTsang nag pa brTson ʼgrus seng ge，?–1195 年后）设立了解释的里程碑。“Ngok 传统”（rngog lugs）的认识论代表了直到 13 世纪的主要解释流派，当时萨迦帕迪塔（Sakya Pandita）提出了更加忠实和详尽地对待印度来源的必要性，并对他的西藏前辈和同时代人进行了广泛的批评，并发起了“萨迦传统”（sa lugs）。这种分裂并不完全，因为萨迦帕迪塔的认识论体系保留了 Ngok 传统中发展起来的许多特点，但在特定问题上设立了分界线。这些问题仍然是萨迦帕迪塔的传承者和属于甘丹巴（dGaʼ ldan pa）和随后的格鲁巴（dGe lugs pa）传统的作者之间的分歧点（这里简称为“格鲁巴”）。前者包括诸如 Gorampa Sönam Senggé（Go rams pa bSod nams seng ge，1429-1489）和 Serdok Panchen Śākya Chokden（gSer mdog paṇ chen Śākya mchog ldan，1428-1508）等思想家。格鲁巴传统的代表作品是宗喀巴洛桑扎巴（Tsong kha pa Blo bzang grags pa，1357-1419）的弟子们的著作- Khédrupjé（mKhas grub rje dGe legs dpal bzang，1385-1438），Gyeltsapjé（rGyal tshab rje Dar ma rin chen，1364-1432），Gedündrup（dGe ʼdun grub，1391-1474）-以及在寺院教育中使用的“主题汇编”手册。尽管应避免草率地声称存在连续性，但这些思想在 Ngok 传统中找到了一定的延续。
 
-## 2. 认识论
+## 认识论
 
 “可靠认知”（tshad ma）的考察是印度和西藏佛教认识论著作的核心主题。在西藏传统中，它被纳入更广泛的“心”或“心理事件”（藏文：blo）分类的事业，并涉及确定各种认知所涉及的对象。西藏的作者通常通过建立各种对象和心理事件的分类学，并阐明心理事件与对象相关的各种方式来进行。心理事件与不同的操作相关，并通过基于定义可靠认知的工具性标准的渐进细分进行分类。特别是在“所理解对象”（见 2.1.2，a）的分类学中，对不同类型的对象的描述与采用特定的本体论和认识论框架有关。
 
-### 2.1 对象
+### 对象
 
-#### 2.1.1 本体论框架
+#### 本体论框架
 
 ##### a. 现实的范围
 
@@ -49,7 +49,7 @@
 
 在其中一些藏文作者中，如塔克桑·洛萨瓦·舍拉普·仁钦（sTag tshang Lo tsā ba Shes rab rin chen，生于 1405 年），采用了无穷小瞬时观点。中间观点由萨迦帕迪塔（Sakya Pandita）提出，并被洛沃肯琛·索南伦珠（Glo bo mkhan chen bSod nams lhun grub，1456-1532）等人采纳，而格鲁派的作者和一些萨迦派的作者，如阿旺·曲扎克（Ngag dbang chos grags，1572-1641），将他们对现实的看法扩展到常识对象和连续体，这些对象被认为具有自己的因果能力。它们被描述为集合，但与更极端的现实主义印度哲学家所主张的与其部分不同的无部分整体相区分，这些哲学家是达尔玛基尔蒂批评的目标。
 
-#### 2.1.2 分类
+#### 分类
 
 对象（藏语：yul）主要被视为认知对象，与认知过程（藏语：blo）相关。在藏传认识论的常用词汇中，区分了几种对象：
 
@@ -103,7 +103,7 @@
 
 在认知对象的这种分类的源头，可以看出为了确定可靠认知的可靠范围而需要解决问题的情况，这个问题已经被印度认识论者达摩达拉处理过。其中一个问题是推理的情况，它被视为可靠的认知，但从严格意义上讲由于其概念性质而是“错误的”。换句话说，推理认知的思维内容是普遍的，与超心理现实没有任何对应关系。通过区分不同类型的对象，可以通过将推理视为与其所理解的对象（对于那些承认它有对象的人）有关的错误，或者仅仅是作为概念认知（对于那些不承认它有所理解对象的人）的错误，但对于其参与对象来说是可靠的，即一个真实的个体。
 
-### 2.2 认识论
+### 认识论
 
 藏传佛教认识论的典型特点是对心理事件进行分类，从而产生了“洛日”（blo rigs）即“心理事件类型”的专门文献。所采用的分类取决于作者对对象的观点，他们用来解释认识的模型，以及他们如何定义可靠的认识。
 
@@ -111,7 +111,7 @@
 
 从认识论作品的焦点来看，更基本的是可靠认知和不可靠认知之间的区别。关于哪些认知是可靠认知，有一致意见——即达尔玛基尔提所规定的知觉和推理——尽管对于什么定义了它们为可靠认知则存在分歧。至于不可靠认知，可以找到一个五重分类法与前古典时期作品的特点相对立，以及萨迦帕迪塔规定的更基本的三重分类法之间的对立。
 
-#### 2.2.1 可靠认知（tshad ma）
+#### 可靠认知（tshad ma）
 
 在达尔玛基尔提之后，藏传认识论者将可靠认知的数量限制为两种：知觉和推理。第一种被定义为“非错误且不带有概念化”，第二种被定义为“来自三重特征逻辑理由的理解”。两者共享“可靠认知”（tshad ma）的地位，这个地位在达尔玛基尔提的《认识论研究》中与以下特征相关联：（1）“不欺骗性”和（2）“揭示未知对象”。除了对这些特征所给出的诗句进行评论争议的延续外，藏传传统中还存在着两种模式之间的显著对抗，这两种模式可以根据对知觉理解的不同来区分：（a）一种模式中，知觉保持被动状态，因为它不带有概念化，无法自身确定其对象；（b）另一种模式试图赋予知觉更积极的角色，但仍然保持其“非概念化”的特征。可以找到两个版本的“积极知觉”模式：一种是“间接积极知觉”模式，另一种是创新的“直接积极知觉”模式。
 
@@ -153,7 +153,7 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 正如上次讨论中所暗示的那样，对于感知以及更一般地对于可靠认知的定义，各自模型的支持者之间的根本分歧对于他们对于不可靠认知的理解产生了影响。
 
-#### 2.2.2. 不可靠认知
+#### 不可靠认知
 
 ##### a. 五重分类
 
@@ -183,11 +183,11 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 事实评估的案例被归入怀疑的范畴之下。这里的怀疑不应理解为在两个选择之间的“犹豫”，而是指缺乏决定性的确定。事实评估的一个情节实际上是正确的——这只能通过外在确定来确认——并不意味着它构成了决定性的确定。如果没有提供任何证据，这样的“幸运猜测”不值得任何确定性，如果提供了错误的证据，它们应被解释为伪推理。
 
-### 2.3 通用性
+### 通用性
 
 在本体论和认识论的交叉点上，一个对语言哲学也有影响的重要问题是通用性。在藏文作者中可以区分出两个主要趋势：第一个趋势被称为“反实在论”，是对达尔玛基尔蒂思想的直接解释，否认通用性和属性的实在性。第二个趋势可以描述为“适度实在论”，认为并非所有的通用性都不存在。特别是，它承认谓词的一些实在性，从而赋予其所指的通用性实在性。
 
-#### 2.3.1 反实在论
+#### 反实在论
 
 反实在论立场，由萨迦帕迪塔及其追随者持有，坚持概念领域与现实之间的根本区别，以及普遍与个别之间的区别。只有个别是真实的，真实性的标准是因果效应。普遍只是心理建构，它们是不反映现实的叠加物，而是在想象中共享属性的掩盖下掩盖了个别的个性。相反，一个人赋予个别的不同属性同样也不是现实的一部分，而是心理建构，掩盖了该个别的统一性。
 
@@ -195,7 +195,7 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 虽然普遍性和属性是概念建构，但我们错误地将它们认定为真实存在的东西。当我们形成或使用概念时，我们会自然地将概念和现实混为一体，从而在虚构的基础上促使实际行动和与现实的互动。这种互动的成功是由于概念形成过程中涉及的因果关系，它保证了普遍性与其所代表的个别事物之间的间接联系：概念是作为涉及因果活动的个别事物经验的结果形成的；然而，只涉及个别事物的个别因果能力，而不涉及任何决定自然种类的共享潜力。因此，例如，“火”这个普遍性是在经历了一些被认为不会燃烧的个别事物之后形成的。当我们根据这样的推理行动时，即当我们在山口看到烟雾时推断出这里有“火”，尽管这个推断的对象是普遍性“火”，而不是真实的火，但当我们根据这个推断行动时，我们得到了一个具有燃烧预期功能的个别事物，就像之前经历过的那些被排除在非火之外的个别事物一样。
 
-#### 2.3.2 温和实在论
+#### 温和实在论
 
 格鲁派传统以及一些萨迦派思想家采取了温和实在论的立场。他们的论点是，如果普遍性不是真实存在的，那么基于普遍性的推理就不适用于现实。换句话说，仅仅依靠虚构无法实现实际成功。温和实在论因此试图解释概念认知的正确性，并以比反实在论模型更直观的方式来实现这一目标。
 
@@ -219,9 +219,9 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 中庸实在论传统上被归属于察巴和桑普学派的学者。然而，到目前为止，已经确定存在明确支持真实普遍性的论证的最早出现是在末期前古典时期与古典时期重叠的楚米克巴的著作中。
 
-## 3. 语言哲学
+## 语言哲学
 
-### 3.1 词语的对象
+### 词语的对象
 
 在藏传认识论著作中，语言是以“表达的东西”（rjod byed）和“被表达的东西”（brjod bya）之间的关系来处理的，这两个概念与索绪尔的“能指”和“所指”之间的区别非常接近。
 
@@ -251,7 +251,7 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 这个模型的构建是为了弥合概念过程和现实之间的差距，因此，它侧重于涉及真实实体的交易使用中的语言使用。如果可以解释使用表达非实体的词语，那么在一个只通过错误的概念虚构和现实混淆的过程间接获得意义的模型中，谈论抽象实体（如一级或二级属性）将变得有问题。例如，词语“红色”只能以红色的特定意义上获得意义，即作为“某物是红色”，而不是“属性红色”。因此，在将主语的词语和属性的词语与同一个特定实体误认为外在实体的过程中，异质性谓词被排除在外。例如，表达“（特定的）声音是可听见的，但（属性）可听见不可听见”的想法将会有问题，如果“可听见”只意味着“可听见的东西”。相比之下，认为概念是概念认知的所理解对象的支持者可以通过保持概念通过有意识决定的操作被构想为一个概念（而不是系统性地作为外在实体的特定）来解释元语言讨论的可能性。
 
-### 3.2 定义理论
+### 定义理论
 
 藏传认识论对语言哲学的一个重要贡献是对定义和相关的断言问题的讨论。藏传定义论的特殊之处在于它考虑了三个要素——定义依据、定义者和被定义者——并采用了与推理相似的模型。因此，“定义”依赖于定义者和被定义者之间的关系，实际上是建立某个被定义者适用于某个定义依据的证明，例如，“约翰适合被称为‘人’，因为他是一只理性动物”，或者以更本土的例子，“白色小牛适合被称为‘牛’，因为它有一个驼峰和一个颈垂。”
 
@@ -268,7 +268,7 @@ Chapa 通过“对真实对象的理解”（don bden rtogs）的术语来制定
 
 In this section of the Bibliography, the order of the works listed is based on the alphabetical order of the root Tibetan letter of the first syllable of the author’s name.
 
-#### 1. Pre-classical period
+#### Pre-classical period
 
 The available resources for the pre-classical period currently consist of about 40 works. The majority of them were published as facsimile in the series *bKaʼ gdams gsung ʼbum* (4 sets of 30 volumes each), dPal brtsegs bod yig dpe rnying zhib ʼjug khang, Chengdu, 2006, 2007, 2009, 2015: Si khron mi rigs dpe skrun khang. A few additional ones appeared as typeset editions or are available as facsimile via the Buddhist Digital Resource Center (www.tbrc.org). These resources include the works by Ngok Loden Shérap, Chapa, Tsang Nakpa, Tsurtön Shönnu Senggé (*mTshur ston gZhon nu seng ge*, ca. 1150–1210) and Chumikpa, as well as several summaries and commentaries on Dharmakīrti’s *Pramāṇaviniścaya*. The translations currently available are limited to individual chapters and passages analyzed in the studies mentioned under B. This entry relied in particular on the following works:
 
@@ -281,7 +281,7 @@ The available resources for the pre-classical period currently consist of about 
 * gTsang nag pa brTson ʼgrus seng ge (?–after 1195). *Tshad ma rnam par nges paʼi ṭi ka legs bshad bsdus pa*. Otani University Tibetan Works Series, Volume II, Kyoto, 1989: Rinsen Book Co.
 * mTshur ston gZhon nu seng ge (ca. 1150–1210). *Tshad ma shes rab sgron ma*. Ed. by P. Hugon, Vienna, 2004: Arbeitskreis für Tibetische und Buddhistische Studien (Wiener Studien zur Tibetologie und Buddhismuskunde 60).
 
-#### 2. Classical and post-classical period (selective list)
+#### Classical and post-classical period (selective list)
 
 * ʼJam dbyangs mChog lha ʼod zer (1429–1500). *Rwa stod bsdus grwa = Tshad ma rnam ʼgrel gyi bsdus gzhung shes byaʼi sgo ʼbyed rgol ngan glang po ʼjoms pa gdong lngaʼi gad rgyangs rgyu rig lde mig*. In *Rwa stod bsdus grwa*, Dharamsala, 1980.
 * Sa skya Paṇḍita Kun dgaʼ rgyal mtshan (1182–1251). *Tshad ma rigs paʼi gter* and *Tshad ma rigs paʼi gter gyi rang gi ʼgrel pa*.
@@ -292,7 +292,7 @@ The available resources for the pre-classical period currently consist of about 
 
 ### B. Modern studies
 
-#### 1. General studies
+#### General studies
 
 For an introduction to the pre-classical and classical period of Tibetan epistemology, see:
 
@@ -312,7 +312,7 @@ The most extensive general study of the classical and post-classical period is:
 
 * Dreyfus, Georges B.J. (1997). *Recognizing Reality. Dharmakīrti’s Philosophy and Its Tibetan Interpretations*, Albany, N.Y.: State University of New York Press.
 
-#### 2. Specific studies
+#### Specific studies
 
 * Dreyfus, Georges B.J. (1991). “Dharmakīrti’s Definition of *Pramāṇa* and Its Interpreters,” in Ernst Steinkellner (ed.), *Studies in the Buddhist Epistemological Tradition. Proceedings of the Second International Dharmakīrti Conference. Vienna, June 11–16, 1989*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften, 19–38.
 * Dreyfus, Georges B.J. (1992). “Universals in Indo-Tibetan Buddhism,” in Ihara, S. and Yamaguchi, Z. (eds.), *Tibetan Studies, Proceedings of the Fifth Seminar of the IATS, Narita 1989*, Narita, 29–46.

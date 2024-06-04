@@ -6,7 +6,7 @@
 
 ---
 
-## 1. 人物及其作品
+## 人物及其作品
 
 至今关于乔安·佩特里齐的生平和传记没有可靠的信息。根据较早的格鲁吉亚研究，他生活在 11 世纪下半叶和 12 世纪上半叶。然而，更近期的研究倾向于将他的时间定在 12 世纪下半叶。研究的状态受到对佩特里齐信息的缺乏的加剧。关于他的个人信息很少，只有他的作品中零散的言论中提到了他自己。在他的普罗克洛斯评论——普罗克洛斯的神学元素的解释——以及传统上归属于他的附言中，作者提到了他自己的烦恼和问题。
 
@@ -16,7 +16,7 @@
 
 在柏拉图的作品中，佩特里齐提到了《巴门尼德斯对话录》、《法律篇》、《斐德鲁斯篇》、《斐多篇》和《提邁欧篇》。虽然他没有提到，但他还引用了《忒亚泰特斯篇》和《饮宴篇》（佩特里齐，Opera II，第 34 页，84 页）。佩特里齐还提到了亚里士多德的各种作品，但没有提到斯科拉哲学家使用的伪亚里士多德作品（Iremadze 2004a，57 页）。从他的解释中可以得知，除了《神学要素》外，他还了解普罗克洛斯的其他作品（例如《巴门尼德斯和提邁欧的评论》以及《柏拉图神学》），并根据需要在解释《神学要素》时借鉴了它们（Iremadze 2004a，57 页）。
 
-## 2. 哲学
+## 哲学
 
 佩特里齐对普罗克洛斯的《神学要素》进行了评论，包括前言（引言）和对该作品每一章的评论。在 Sh. Nutsubidze 和 S. Kaukhchishvili 编辑的佩特里齐的普罗克洛斯评论中，这些评论后面还有一个结语。
 
@@ -38,7 +38,7 @@
 
 乔安·佩特里齐哲学中最重要的一个方面是他的认识论。最近，根据中世纪关于思维本质的讨论，对其进行了重建和系统研究（参见 Iremadze 2004a，161-241）。在他的认识论中，乔安·佩特里齐强调（人类）理性的生产力，它能够真正地确定存在，并因此成为存在的决定性原则。
 
-## 3. 历史接受和影响
+## 历史接受和影响
 
 乔安·佩特里齐是最广泛阅读的格鲁吉亚哲学家。佩特里齐的《普罗克洛斯评论》以及他的《神学要素》的格鲁吉亚翻译对格鲁吉亚哲学和文化产生了重大影响，也在格鲁吉亚以外产生了影响。1248 年，亚美尼亚修士斯维米昂将佩特里齐的《普罗克洛斯著作》翻译成亚美尼亚语，从而促进了普罗克洛斯哲学在亚美尼亚的传播。17 世纪，亚美尼亚哲学家们致力于普罗克洛斯的思想研究，并认为它具有当代的相关性；1651 年，亚美尼亚主教斯维米昂·杰乌哈埃齐撰写了评论，以便更好地理解《神学要素》。他的评论基于修士斯维米昂对佩特里齐的格鲁吉亚翻译进行的 13 世纪亚美尼亚翻译。
 
@@ -67,7 +67,7 @@
 
 ### A. Primary Literature
 
-#### 1. Petrizi’s Works
+#### Petrizi’s Works
 
 * Joane Petrizi, *Interpretation of the “Elementatio theologica” of Proclus*, ed. and with a study by Sh. Nutsubidze and S. Kaukhchishvili (Opera II), Tbilisi 1937 (in Old Georgian).
 * –––, *The “Elementatio theologica” of the Platonic Philosopher Proclus*, trans. from the Greek, ed. and with a study and a vocabulary by S. Kaukhchishvili, with an introduction by M. Gogiberidze (Opera I), Tbilisi 1940 (in Old Georgian).
@@ -77,7 +77,7 @@
 * –––, *Kommentar zur “Elementatio theologica” des Proclos*, Übersetzung aus dem Altgeorgischen, Anmerkungen, Indices und Einleitung von L. Alexidze und L. Bergemann, Amsterdam/Philadelphia 2009.
 * Nemesius of Emesa, *On the Nature of Man*, trans. into Old Georgian by Joane Petrizi, ed. with an introduction and vocabulary by S. Gorgadze, Tbilisi 1914.
 
-#### 2. Other Authors
+#### Other Authors
 
 * Anton I. (= Bagrationi), 1991, *Spekali*, ed., with a study and vocabulary by G. Dedabrishvili, Tbilisi (in Georgian).
 * Joane Bagrationi, 1974, *Kalmasoba.* *Philosophical Part*, ed. by G. Dedabrishvili (Studies on the History of Georgian Philosophical Thought, vol. III), Tbilisi (in Georgian).
