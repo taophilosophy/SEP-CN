@@ -6,7 +6,7 @@
 
 ---
 
-## 1. 总论政治学
+## 总论政治学
 
 现代词汇“政治”源自希腊语 politikos，意为“与城邦有关的”。（这里将希腊词 polis 翻译为“城邦”。它也常被翻译为“城市”或直接音译为“polis”。像雅典和斯巴达这样的城邦是相对较小且紧密的单位，政治、宗教和文化问题相互交织。它们与现代国家的相似程度存在争议。）亚里士多德用于“政治”的词是 politikê，它是 politikê epistêmê 或“政治科学”的简称。它属于亚里士多德所区分的三个主要科学领域之一，这些领域根据它们的目标或对象进行区分。思辨科学（包括物理学和形而上学）关注的是为了真理或知识本身；实践科学关注的是良好的行动；生产科学关注的是制造有用或美丽的物品（《论学术问题》VI.6.145a14–16，《形而上学》VI.1.1025b24，XI.7.1064a16–19，《伦理学》VI.2.1139a26–8）。政治是一门实践科学，因为它关注的是公民的高尚行动或幸福（尽管它在寻求创造、保护和改革政治体系方面类似于生产科学）。因此，亚里士多德将政治理解为一门规范性或指导性学科，而不是纯粹的经验性或描述性研究。
 
@@ -14,7 +14,7 @@
 
 [补充：亚里士多德政治学的特点和问题](https://plato.stanford.edu/entries/aristotle-politics/supplement1.html)
 
-## 2. 亚里士多德对政治的看法
+## 亚里士多德对政治的看法
 
 政治学研究政治家或政治家（政治家）的任务，就像医学研究医生的工作一样（参见《政治学》第四卷第 1 章）。事实上，这是这些从业者如果真正专家，也将在追求自己的任务中运用的知识体系。政治家最重要的任务是作为立法者（nomothetês）为城邦制定适当的宪法。这涉及到为公民制定持久的法律、习俗和制度（包括道德教育体系）。一旦宪法建立起来，政治家需要采取适当的措施来维护它，当他认为必要时引入改革，并防止可能颠覆政治体制的发展。这是立法科学的领域，亚里士多德认为它比日常政治活动中的政治更重要，比如通过法令（见《尼各马可伦理学》第六卷第 8 章）。
 
@@ -38,7 +38,7 @@
 
 因此，亚里士多德理解政治的基本规范问题是以什么样的宪法形式和材料来建立和保持，以达到什么样的目的？
 
-## 3. 宪法和公民的一般理论
+## 宪法和公民的一般理论
 
 亚里士多德说：“政治家和立法者完全致力于城邦，而宪法是组织居住在城邦中的人们的一种特定方式”（III.1.1274b36–8）。他在《政治学》第三篇中阐述了他对宪法的一般理论。他从公民（politês）的定义开始，因为城邦本质上是一个集体实体，由众多公民组成。公民与其他居民（如居住在城邦的外国人和奴隶）有所区别；即使是儿童和老年人也不是无条件的公民（大多数普通工人也不是）。在进一步的分析之后，他将公民定义为具有参与决策或司法职位的权利（1275b18–21）。例如，在雅典，公民有权参加议会、理事会和其他机构，或者担任陪审团成员。雅典的制度与现代代议制民主制度不同，因为公民在治理中更直接参与。尽管希腊城邦中的完全公民权利往往受到限制（妇女、奴隶、外国人和其他一些人被排除在外），但公民在治理中的参与程度比现代代议制民主制度更深入。这在亚里士多德对公民（无条件）的定义中得到了体现。此外，他将城邦（无条件意义上）定义为足以自给自足的生活所需的众多公民的集合体（1275b20–21）。
 
@@ -66,7 +66,7 @@
 
 尽管正义在亚里士多德看来是最重要的政治美德（Pol. III.9.1283a38–40），但另一个伟大的社会美德——友谊，也不容忽视，因为这两种美德共同努力，以确保各种形式的联合（EN VIII.9.1159b26–7）。正义使得一个城邦的公民能够和平地分享合作的利益和负担，而友谊则使他们团结在一起，防止他们分裂成敌对派别（参见 Pol. II.4.1262b7–9）。朋友们期望彼此公正相待，但友谊超越了正义，因为它是一种复杂的相互纽带，个体选择他人的利益，并相信他人也在选择他们的利益（参见 EE VII.2.1236a14–15, b2–3; EN VIII.2.1155b34–3.1156a10）。因为为彼此选择好处对于友谊至关重要，并且有三种不同的方式可以称之为对人类来说是“好”的——有德（即无条件的好），有用，或者愉快——所以有三种类型的友谊：享乐主义的友谊，功利主义的友谊和有德的友谊。政治（或公民）友谊是功利主义友谊的一种形式，它是最重要的功利主义友谊形式，因为城邦是最伟大的社群。与政治友谊相对立的是敌意，它导致派系或内战（斯塔西斯），甚至导致政治革命和城邦的瓦解，正如在《政治学》第五册中所讨论的那样。亚里士多德在 EE VII.10 和 EN VIII.9–12 中提供了关于政治或公民友谊的一般性描述，作为他关于友谊的一般理论的一部分。
 
-## 4. 具体宪法的研究
+## 具体宪法的研究
 
 政治学的目的是指导“善良的立法者和真正的政治家”（IV.1.1288b27）。像任何完整的科学或技艺一样，它必须研究与其主题相关的一系列问题。例如，体育（体育教育）研究什么样的训练最适合或适应天生最好的身体，什么样的训练最适合大多数身体，以及对于不想要与竞技比赛相适应的条件或知识的人来说，什么样的能力是合适的。政治学研究一系列相似的宪法（1288b21–35）：首先，最好的宪法，没有任何限制，即“最符合我们的祈祷，没有外部障碍”；其次，根据情况而言最好的宪法，“因为许多人可能无法达到最好的宪法”；第三，适应给定人口目标的宪法，即基于假设的最佳宪法：“因为 [政治学家] 应该能够研究一个给定的宪法，无论它最初是如何形成的，以及当它形成后，它如何以最长时间保存；我的意思是，例如，如果一个特定的城市既不是由最好的宪法统治，也没有必要的事物，也不是在现有情况下最好的可能性，而是一种较低级别的。”因此，亚里士多德的政治学不仅局限于理想的体系，还研究第二好的宪法甚至较差的政治体制，因为这可能是立法者在特定情况下接近完全政治正义的最接近近似。
 
@@ -82,7 +82,7 @@
 
 [补充：亚里士多德政治学的特点和问题](https://plato.stanford.edu/entries/aristotle-politics/supplement1.html)
 
-## 5. 亚里士多德与现代政治
+## 亚里士多德与现代政治
 
 亚里士多德一直影响着思想家们，包括保守派（如汉娜·阿伦特、李奥·斯特劳斯和埃里克·福格林）、社群主义者（如阿拉斯泰尔·麦金泰尔和迈克尔·桑德尔）、自由主义者（如威廉·加尔斯顿和玛莎·努斯鲍姆）、古典自由主义者（如提伯尔·马钦、道格拉斯·拉斯穆森和道格拉斯·丹尤尔）以及民主理论家（如吉尔·弗兰克和杰拉尔德·玛拉）。
 
@@ -202,14 +202,14 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 
 ### E. Studies of Particular Topics
 
-#### 1. Biographical and Textual Studies
+#### Biographical and Textual Studies
 
 * Barker, Ernest, “The Life of Aristotle and the Composition and Structure of the *Politics*,” *Classical Review*, 45 (1931), 162–72.
 * Jaeger, Werner, *Aristotle: Fundamentals of the History of His Development*, Oxford: Oxford University Press, 1948.
 * Kelsen, Hans, “Aristotle and the Hellenic-Macedonian Policy,” in Jonathan Barnes et al. (eds.), *Articles on Aristotle* (Volume 2: Ethics and Politics), London: Duckworth, 1977, pp. 170–94.
 * Lord, Carnes, “The Character and Composition of Aristotle’s *Politics*,” *Political Theory*, 9 (1981), 459–78.
 
-#### 2. Methodology and Foundations of Aristotle’s Political Theory
+#### Methodology and Foundations of Aristotle’s Political Theory
 
 * Adkins, A. W. H., “The Connection between Aristotle’s *Ethics* and *Politics*,” in David Keyt and Fred D. Miller, Jr. (eds.), *A Companion to Aristotle’s Politics*, Oxford: Blackwell, 1991, pp. 75–93.
 * Cherry, Kevin M., *Plato, Aristotle and the Purpose of Politics*, Cambridge: Cambridge University Press, 2012.
@@ -236,7 +236,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Vander Waerdt, Paul A., “The Political Intention of Aristotle’s Moral Philosophy,” *Ancient Philosophy* 5 (1985), 77–89.
 * –––, “The Plan and Intention of Aristotle’s Ethical and Political Writings,” *Illinois Classical Studies* 16 (1991), 231–53.
 
-#### 3. Political Naturalism
+#### Political Naturalism
 
 * Ambler, Wayne, “Aristotle’s Understanding of the Naturalness of the City,” *Review of Politics*, 47 (1985), 163–85.
 * Annas, Julia, “Aristotle on Human Nature and Political Virtue,” *The Review of Metaphysics*, 49 (1996), 731–54.
@@ -258,7 +258,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Reeve, C. D. C., “The Naturalness of the Polis in Aristotle,” in Georgios Anagnostopoulos (ed.), *A Companion to Aristotle*, Oxford: Wiley-Blackwell, 2009, pp. 512–25.
 * Roberts, Jean, “Political Animals in the *Nicomachean Ethics*,” *Phronesis*, 34 (1989), 185–202.
 
-#### 4. Household: Women, Children, and Slaves
+#### Household: Women, Children, and Slaves
 
 * Booth, William James, “Politics and the Household: A Commentary on Aristotle’s *Politics* Book One,” *History of Political Thought*, 2 (1981), 203–26.
 * Brunt, P. A., “Aristotle and Slavery,” in *Studies in Greek History and Thought*, Oxford: Oxford University Press, 1993, pp. 434–88.
@@ -288,7 +288,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * –––, “Who’s Who in the Polis,” in Bat-Ami Bar On (ed.), *Engendering Origins: Critical Feminist Readings in Plato and Aristotle*, Albany: SUNY Press, 1994, pp. 99–125.
 * Stauffer, Dana J., “Aristotle’s Account of the Subjection of Women,” *Journal of Politics*, 70 (2008), 929–41.
 
-#### 5. Political Economy
+#### Political Economy
 
 * Ambler, Wayne H., “Aristotle on Acquisition,” *Canadian Journal of Political Science*, 17 (1984), 487–502.
 * Crespo, Ricardo F., *A Re-assessment of Aristotle*’*s Economic Thought*. London: Routledge, 2014.
@@ -316,7 +316,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Solomon, Robert C., “Corporate Roles, Personal Virtues: An Aristotelian Approach to Business Ethics,” *Business Ethics Quarterly*, 2 (1992), 317–39.
 * –––, “Aristotle, Ethics, and Business Organizations,” *Organization Studies,* 25 (2004), 1021–43.
 
-#### 6. Political Justice and Injustice
+#### Political Justice and Injustice
 
 * Brunschwig, Jacques, “The Aristotelian Theory of Equity,” in Michael Frede and Gisela Striker (eds.), *Rationality in Greek Thought*, Oxford: Oxford University Press, pp. 115–55.
 * Marguerite Deslauriers, “Political Unity and Inequality,” in Marguerite Deslauriers and Pierre Destrée (eds.), *The Cambridge Companion to Aristotle’s Politics*, Cambridge: Cambridge University Press, 2013, pp. 117–43.
@@ -334,7 +334,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Young, Charles M., “Aristotle on Justice,” *The Southern Journal of Philosophy*, 27 (1988), 233–49.
 * Zingano, Marco, “Natural, Ethical, and Political Justice,” in Marguerite Deslauriers and Pierre Destrée (eds.), *The Cambridge Companion to Aristotle’s Politics*, Cambridge: Cambridge University Press, 2013, pp. 199–222.
 
-#### 7. Political Friendship and Enmity
+#### Political Friendship and Enmity
 
 * Cooper, John M., “Political Animals and Civic Friendship,” in Günther Patzig (ed.), *Aristoteles’ ‘Politik’*, Göttingen: Vandenhoeck & Ruprecht, 1990, pp. 220–41; reprinted in Richard Kraut and Steven Skultety (eds.), *Aristotle’s Politics: Critical Essays*, Lanham MD: Rowman and Littlefield, 2005, pp. 65–89.
 * Hatzistavrou, Antony, “Faction,” in Marguerite Deslauriers and Pierre Destrée (eds.), *The Cambridge Companion to Aristotle’s Politics*, Cambridge: Cambridge University Press, 2013, pp. 301–23.
@@ -357,7 +357,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Yack, Bernard, “Community and Conflict in Aristotle’s Political Philosophy,” *Review of Politics*, 47 (1985), 92–112.
 * –––, “Natural Right and Aristotle’s Understanding of Justice,” *Political Theory*, 18 (1990), 216–37.
 
-#### 8. Citizenship, Civic Obligation, and Political Rights
+#### Citizenship, Civic Obligation, and Political Rights
 
 * Allan, D. J., “Individual and State in the *Ethics* and *Politics*,” *Entretiens sur l’Antiquité Classique IX, La ‘Politique’ d’Aristote*, Geneva: Fondation Hardt, 1964, pp. 53–95.
 * Barnes, Jonathan, “Aristotle and Political Liberty,” in Günther Patzig (ed.), *Aristoteles’ ‘Politik’*, Göttingen: Vandenhoeck & Ruprecht, 1990, pp. 249–63; reprinted in Richard Kraut and Steven Skultety (eds.), *Aristotle’s Politics: Critical Essays*, Lanham MD: Rowman and Littlefield, 2005, pp. 185–201.
@@ -378,7 +378,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Schofield, Malcolm, “Sharing in the Constitution,” *The Review of Metaphysics*, 49 (1996), 831–58; reprinted in Richard O. Brooks and James Bernard Murphy (eds.), *Aristotle and Modern Law*, Aldershot Hants, UK: Ashgate Publishing Co., 2003, pp. 353–80.
 * Zuckert, Catherine H., “Aristotle on the Limits and Satisfactions of Political Life,” *Interpretation*, 11 (1983), 185–206.
 
-#### 9. Constitutional Theory
+#### Constitutional Theory
 
 * Balot, Ryan, “The ‘Mixed Regime’ In Aristotle’s *Politics*,” in Thornton Lockwood and Thanassis Samaras (eds.), *Aristotle’s Politics: A Critical Guide*, Cambridge: Cambridge University Press, 2015, pp. 103–22.
 * Bates, Clifford A., *Aristotle’s “Best Regime”: Kingship, Democracy, and the Rule of Law*, Baton Rouge: Louisiana State University Press, 2003.
@@ -413,7 +413,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Waldron, Jeremy, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s *Politics*,” *Political Theory*, 20 (1992), 613–41; reprinted in Richard Kraut and Steven Skultety (eds.), *Aristotle’s Politics: Critical Essays*, Lanham, MD: Rowman and Littlefield, 2005, pp. 145–65.
 * Wilson, James L., “Deliberation, Democracy, and the Rule of Reason in Aristotle’s *Politics*,” *American Political Science Review*, 105 (2011), 259–74.
 
-#### 10. Education
+#### Education
 
 * Burnyeat, Myles F., “Aristotle on Learning to Be Good,” in Amelie O. Rorty (ed.), *Essays on Aristotle’s Ethics*, Berkeley: University of California Press, 1980, pp. 69–92.
 * Curren, Randall R., *Aristotle on the Necessity of Public Education*, Lanham, MD: Rowman and Littlefield, 2000.
@@ -429,7 +429,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Reeve, C. D. C,  “Aristotelian Education,” in A. O. Rorty (ed.), *Philosophers on Education*, London: Routledge, 1998, pp. 51–65.
 * Stalley, Richard, “Education and the State,” in Georgios Anagnostopoulos (ed.), *A Companion to Aristotle*, Oxford: Wiley-Blackwell, 2009, pp. 566–76.
 
-#### 11. Law
+#### Law
 
 * Brooks, Richard O. and James B. Murphy (eds.), *Aristotle and Modern Law*, Aldershot Hants, UK and Burlington, VT: Ashgate, 2003.
 * Burns, Tony, “Aristotle and Natural Law,” *History of Political Thought*, 19 (1998), 142–66.
@@ -443,7 +443,7 @@ The Clarendon Aristotle Series (Oxford University Press) includes translation an
 * Wormuth, F. D., “Aristotle on Law,” in M. R. Korvitz and A. E. Murphy (eds.), *Essays in Political Theory Presented to G. H. Sabine,* Ithaca, NY: Cornell University Press, 1948, pp. 45–61.
 * Zanetti, Gianfrancesco, “Problematic Aspects of Aristotle’s Philosophy of Law,” *Archiv f**ü**r Rechts- und Sozialphilosophie*, 81 (1995), 49–64.
 
-#### 12. Aristotle and Contemporary Politics
+#### Aristotle and Contemporary Politics
 
 * Biondi, Carrie-Ann, “Aristotle on the Mixed Constitution and Its Relevance for American Political Thought,” in David Keyt and Fred D. Miller, Jr. (eds.), *Freedom, Reason, and the Polis: Essays in Ancient Greek Political Philosophy*, Cambridge: Cambridge University Press, 2007, 176–98.
 * Frank, Jill, *A Democracy of Distinction: Aristotle and the Work of Politics*, Chicago: University of Chicago Press, 2005.

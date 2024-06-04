@@ -14,7 +14,7 @@
 
 ---
 
-## 1. 方法论前言
+## 方法论前言
 
 强调在迈蒙尼德的伊斯兰知识背景下理解他的重要性，克雷默从以下引语开始他对迈蒙尼德的生平和作品的权威研究：
 
@@ -26,7 +26,7 @@
 
 在这种精神下，Kraemer 的研究强烈依赖于阿拉伯历史、文学、哲学和其他来源，以定位迈蒙尼德的思想。Pines 对这种背景方法非常敏感，他在《指南》的版本和翻译中首先考虑了众多的伊斯兰（和希腊）哲学来源，而 Hyman 指出“不能推断中世纪犹太哲学是伊斯兰哲学的一个分支”，但他接着指出“总体上说，犹太哲学是伊斯兰世界中繁荣的哲学的延续”（Hyman 1996, 678-679）。Stroumsa 对伊斯兰背景的影响敏感，提醒我们“迈蒙尼德是一个热衷于阅读的人，他努力保持对当代学术界的了解，尤其是哲学学术界…”（Stroumsa 2009, 173, n. 69），并且“迈蒙尼德很少引用他的来源，他读了他能找到的一切，并且对阅读非犹太人的神学或法律著作毫不犹豫…”（Stroumsa 2009, xii）。针对 Davidson 对将来源读入文本的更保守方法，Stroumsa 补充说：“迈蒙尼德的哲学博学无疑比仅仅根据他明确引用的内容所看到的要广泛得多。因此，我们必须警惕迈蒙尼德的言辞可能反映出他对那些没有明确提到姓名的思想家的作品的了解，无论是接受还是反应和批评”（Stroumsa 2009, 24-5）。
 
-## 2. 迈蒙尼德的伊斯兰哲学背景概述：亚里士多德及其之后的神学
+## 迈蒙尼德的伊斯兰哲学背景概述：亚里士多德及其之后的神学
 
 阅读迈蒙尼德和伊斯兰中世纪哲学家时要牢记的最重要的来源之一是亚里士多德的神学，这是一本被犹太和伊斯兰哲学家认为是亚里士多德的著作，实际上是对普罗提诺斯《恩涅阿德》第 4-6 卷的部分进行编辑总结的文本 [3]。这本文本可能可以追溯到 9 世纪，并由阿尔金迪（和/或他的圈子成员）进行编辑，这本文本以及普罗提诺斯的其他阿拉伯文本和《善的论述》（即后来的拉丁文翻译《原因论》或《原因之书》）[4] 应与对迈蒙尼德的深入研究相结合阅读。总结起来，我们可以强调以下在亚里士多德的神学中起重要作用的关键思想，这些思想对后来的犹太和伊斯兰思想家至关重要：
 
@@ -53,13 +53,13 @@
 
 (d) 关于迈蒙尼德对于 al-Ghazali 的看法：虽然 Pines 得出结论认为迈蒙尼德必然意识到 al-Ghazali 的作品，仅仅是因为他的思想背景（例如 Pines 1963, cxxvi-cxxxi），其他人则更进一步，强调了迈蒙尼德与 al-Ghazali 之间特定的文本共鸣。虽然没有明确指出迈蒙尼德是如何了解 Ghazali 的思想的，Davidson 在迈蒙尼德关于创造的讨论中提到了 al-Ghazali（Davidson 1979, esp. 28, 30, and 33），并且引用了迈蒙尼德在 al-Ghazali 中使用的一个形象，描述了我们作为具有肉体的人类无法想象到属灵世界的乐趣的能力 [7]。S. Harvey 认为迈蒙尼德与 Ghazali 的各自的“知识之书”之间存在联系（Harvey 2005），Eran 探讨了 Ghazali 和迈蒙尼德关于来世的观点（Eran 2001），Gil'adi 考虑了迈蒙尼德的巨著的标题与 al-Ghazali 将上帝描述为“迷惑者的指南”（dalīl al-mutaḥayyirīn）之间的可能关系（Gil'adi 1979），Stroumsa 不仅在迈蒙尼德的“给也门的书信”中找到了对 al-Ghazali 作品的引用（Stroumsa 2009, 25-26），而且还通过伊斯兰神学家/神秘主义者对迈蒙尼德所在的阿尔莫哈德王朝的影响，以及该王朝的许多神学和法律原则对迈蒙尼德思想的影响，提出了更广泛的论点（69-70）。Stroumsa 还认为，如果迈蒙尼德了解 Averroes 的《Faṣl al-maqāl》（正如她认为的那样），那么“他很可能也熟悉 Ghazali 的《Fayṣal al-tafriqa》”（Stroumsa 2009, 124）。
 
-## 3. 上帝
+## 上帝
 
 像他的伊斯兰前辈和同时代人一样，迈蒙尼德对理解哲学和宗教之间的关系非常感兴趣。在这样的探究背景下，理解上帝的尝试是非常重要的，因为神的概念不仅在宗教传统中占据重要地位，而且作为新柏拉图主义和亚里士多德哲学理论的基础要素也占据重要地位。
 
 在圣经、新柏拉图主义和亚里士多德的启示之后，迈蒙尼德的上帝是一个绝对简单、绝对必要、完全无因的统一体，是纯粹的智慧和第一原因。正如前面所提到的，迈蒙尼德和他的伊斯兰哲学前辈在受到《亚里士多德神学》等文本的影响下，展示了关于上帝（以及宇宙更普遍地说）的柏拉图式和非柏拉图式亚里士多德思想的融合。将这个文本视为亚里士多德自己的作品，迈蒙尼德和他的伊斯兰前辈持有一种亚里士多德和新柏拉图主义观点的融合，其中包括亚里士多德观点本身常常高度柏拉图化的观点。上帝作为纯一体和上帝作为智慧的融合就是一个例子。在这些柏拉图化的亚里士多德对上帝的描述中，我们可以清楚地看到迈蒙尼德与他的阿拉伯哲学前辈进行对话。
 
-### 3.1 简单性：统一性、本质=存在、必然性、属性、否定陈述、以及“行为”
+### 简单性：统一性、本质=存在、必然性、属性、否定陈述、以及“行为”
 
 迈蒙尼德遵循伊斯兰新柏拉图主义传统，将上帝描绘为最纯粹的无限存在，一种如此完全统一的纯粹存在，以至于超越任何内部分裂。这一主题可以在亚里士多德的《神学》和卡拉姆菲马赫德尔凯尔中清楚地找到，其中将上帝称为“纯粹存在”或“仅存在”，以及当时的阿尔莫哈德（参见斯特鲁姆萨 2009 年）和穆‘塔兹洛派神学。正是这种根本的统一意识解释了迈蒙尼德强烈的负面神学（关于这一点我们将在下文中详细说明）：由于上帝是完全而绝对统一的，因此我们无法对他作出任何断言（因为，毕竟，断言意味着对一个主体说他是这样或那样的事物，从而暗示了某种限制）。因此，作为主体，上帝超越了语言和概念化的正常范围。
 
@@ -105,7 +105,7 @@ Envisioning, with Aristotle, a series of separate intellects moving the various 
 
 以这种方式，可以看出阿维罗伊斯在地球和天体自然的轮廓中设想了上帝（“神圣思维”，或者我们可以说是神圣智慧）[11]。这种阿维罗伊斯模型在迈蒙尼德的《指南》中可以在许多方面看到。
 
-### 3.2 上帝作为智慧
+### 上帝作为智慧
 
 对于迈蒙尼德来说，上帝是一个纯粹的知者，用亚里士多德的术语描述为纯粹实现的智慧和自知的知识行为。
 
@@ -131,7 +131,7 @@ Envisioning, with Aristotle, a series of separate intellects moving the various 
 
 > 第一动者 [谁] 是永恒的、实质的、纯粹的现实和无物质的 [CAM 1599，G 151]。
 
-### 3.3 关于内在性和超越性的张力/相互作用
+### 关于内在性和超越性的张力/相互作用
 
 除了强调上帝完全不变和完全超越的统一之外，迈蒙尼德还将上帝描述为一切存在的创造者和原因，这个概念似乎将他与宇宙更直接和内在地联系起来（正如我们在上面第 3.1 节中看到的阿维罗伊斯的解释）。对于像阿尔法拉比、伊本·西那（以及可以说是迈蒙尼德）这样强调比阿维罗伊斯更强烈的流出感的思想家，以及与之相应的上帝的超越性，就会产生一种哲学上的张力（或者我们可以说是相互作用），即上帝作为超越者（作为一切存在的流出源泉）和上帝作为内在者（作为宇宙运作中显现的力量）之间的张力/相互作用。这种张力/相互作用也可以更广泛地看作是伊斯兰和犹太新柏拉图主义解释的特征（包括伊本·西那更超越性和阿维罗伊斯更不超越性的解释），其中更超越性的希腊普洛提诺斯的神圣源泉的概念与更不超越性的亚里士多德的上帝的纯粹存在的完美智慧的概念结合在一起。
 
@@ -143,7 +143,7 @@ Envisioning, with Aristotle, a series of separate intellects moving the various 
 
 (鉴于本章的其余部分以阿维森纳术语讨论作为活跃智力中发现的神圣溢出（有关“神圣溢出”和“活跃智力”的更多信息，请参见下面的第 5 和第 6 节），并且鉴于宿命应该以人类自身的关系（通过智力）来理解与这个发出的活跃智力的关系（正如在指南的其他地方清楚地表明的那样（例如 G 3.52，P 624-6），迈蒙尼德的整体重量可能被视为与阿维森纳站在超越、发出的上帝的一边)。
 
-## 4. 宇宙，创造，发出
+## 宇宙，创造，发出
 
 迈蒙尼德继承了他之前的希腊和伊斯兰传统，致力于仔细研究世界的运作，包括地球、天体和纯粹的形而上学实体。基于我们对上帝的“行为”的考虑，我们可以看到，在迈蒙尼德的背景下，甚至对有形自然运作的研究也可以被视为具有明确的神学意义。在这种精神下，迈蒙尼德可以被视为在亚里士多德和阿维罗伊斯的宇宙论争议中找到了价值，根据这一观点，世界的运作为上帝作为第一动因的存在提供了证明（尽管可以注意到，迈蒙尼德与阿尔法拉比、伊本·西那以及以稍微不同方式的阿维罗伊斯一起，将上帝归因于不仅是运动，而且是存在的原因）。这样，即使研究自然的运作也可以被视为服务于神学，这一点在我们考虑迈蒙尼德和阿维罗伊斯关于上帝在自然秩序中明显角色的讨论时得到了进一步证实。在这方面，我们可以注意到，迈蒙尼德甚至将 2.32 节中的神迹行为描述为自然行为。此外，在上帝本身无法被直接认知的情况下，在这种情况下（正如我们在上面所见），对上帝的描述最好理解为描述上帝在世界中的效果（即上帝的智慧和善行在自然的良好设计和运作中的显现），研究世界的运作可以被视为对上帝行为的研究（因此，也是更好地了解上帝的尝试）。正如迈蒙尼德明确指出的，“除了通过他所创造的事物，没有其他方式可以理解他…”（G 1.34，P 74）。
 
@@ -177,7 +177,7 @@ Envisioning, with Aristotle, a series of separate intellects moving the various 
 
 > 总之：在我们在本章中提出的方法中，没有任何一种能够确定一个关于世界永恒性的观点是否正确，或者证明它是错误的，或者对它产生怀疑...（G 2.15，P 292）
 
-## 5. 溢出
+## 溢出
 
 返 回 到 我 们 早 期 的 引 用，我 们 在 迈 蒙 尼 德 对 上 帝 创 造 行 为 的 描 述 中 发 现 了 宇 宙 溢 出 的 概 念：
 
@@ -217,7 +217,7 @@ Envisioning, with Aristotle, a series of separate intellects moving the various 
 
 接近迈蒙尼德（Maimonides）或其他人对宇宙溢出的解释时，需要更加小心的另一个原因。事实上，迈蒙尼德本人在《指南》2.12 中反映了这一洞察力，他在试图解释“溢出”一词的不同用法 [18]，并试图解释使用该术语来描述上帝的活动的意义时，强调“我们无法找到与概念的真实现实相对应的术语的真实现实”（G 2.12，P 279）。事实上，当涉及传递重要真理时，对语言的性格敏感性使我们进一步了解迈蒙德思想的另一个关键方面，这也深受其伊斯兰背景的影响，我们将在下面讨论（见第 7 节）。
 
-## 6. 主动智力、人类智力、永生和预言
+## 主动智力、人类智力、永生和预言
 
 我们已经看到迈蒙尼德宇宙学中“分离智力”（即“天使”）的伊斯兰哲学背景，其中主动智力掌控着我们所生活的亚月球世界。对于迈蒙尼德来说，主动智力是亚月球领域的重要统治原则，它是宇宙智力原则，除了在我们地球领域的运作中扮演其他角色外，还在人类知识中起着至关重要的作用，包括预言，并且实际上还为永生理论奠定了基础。
 
@@ -233,7 +233,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 > 因为上帝使智慧溢出（afāḍa；Munk 1931, 16）给人类，这是人类的终极完美，亚当在违抗之前就已经被赋予了这种智慧。正是因为这个原因，有人说他是按照上帝的形象和相似物被创造的...（G 1.2; P 24; Pines 的斜体表示迈蒙尼德在他的文本中使用了希伯来语）。
 
-### 6.1 认识论
+### 认识论
 
 关于主动智力的认识论/心理学细节，迈蒙尼德在某些方面似乎遵循法拉比传统。与亚里士多德一样，法拉比将人类存在的目标描述为追求幸福。法拉比进一步以至少部分被动的方式描述了人类完美的状态，即“给予可能接受它的存在”（PR，N1 35）。在这个背景下，“给予者”成为了主动智力。法拉比将主动智力的目的描述为“真正和至高的幸福”（PR，N1 38），并进一步阐明人类只有在“主动智力首先给予第一可理解的事物，构成了最初的知识…”（PR，N1 35）时才能拥有这种幸福。
 
@@ -251,15 +251,15 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 我们在这里还可以考虑迈蒙尼德对人类知识限制的程度和性质（这是一个有很多学术研究和争论的问题）；在阿尔特曼和派恩斯关于这个主题的两篇经典论文中，探讨了法拉比、伊本·巴杰、阿维森纳和阿维罗伊斯对迈蒙尼德的伊斯兰影响（参见阿尔特曼 1987 年和派恩斯 1979 年）。
 
-### 6.2 照明
+### 照明
 
 与伊斯兰教和迈蒙尼德关于主动智力在认识和预言中的作用的相关思想有关的是亚里士多德将这个主动智力原则进一步描述为类似于光的。特别是对于《灵魂论》的新柏拉图主义伊斯兰读者来说，这个对光的引用打开了一扇解释的闸门，提供了一个明确的过渡，从可分离的、不朽的主动智力（在《灵魂论》3.5 中）的讨论到明显的启蒙主义和放射主义的新柏拉图主义教义（在《亚里士多德神学》中）。因为在《亚里士多德神学》（以及普罗提诺斯的原始希腊著作和新柏拉图主义文本中）中，有大量用光的隐喻来描述世界存在的难以捉摸的过程。在阿尔法拉比和伊本·西那的新柏拉图宇宙观中，我们还发现用光的隐喻来描述主动智力对亚月世界的独特影响。在从主动智力中倾泻而下的光的隐喻中，出现了这样一个本体论的观念，即这个智力发出了世界的形式。也出现了认识论的观念——即人类知识的实现不仅仅是通过与世界的简单相遇，也不仅仅是通过个体心灵内部的某种机制，而是通过主动智力作为一种“启蒙之源”倾泻在其上。在其认识论角色中，主动智力“照亮”人的心灵，使其充满真理（以一种或另一种方式；请参见前一节关于阿尔法拉比和伊本·西那在这方面的差异的部分）。对于阿尔法拉比、伊本·西那和迈蒙尼德来说，这种启蒙主义倾向（至少在某种程度上可以说是根植于《灵魂论》3.5 中的光的概念）与复杂的亚里士多德关于个体人类心灵在获得知识中的运作的解释相辅相成。 然而，他们对复杂的亚里士多德认识论和心理学的承诺，却受到了一种启示论的调和，其中积极智力在知识的最终获得中起着关键作用，包括预言。对于迈蒙尼德来说，积极智力就像一束光：它是人类思维和预言的溢出的照明之源。
 
-### 6.3 结合
+### 结合
 
 除了这种溢出的语言外，迈蒙尼德还用“结合”（ittiṣāl）一词来描述人类与积极智力完美接触的时刻。特别是当迈蒙尼德提到积极智力是“与人结合的神圣智力”时，可以看出 ittiṣāl 的概念和语言（G 1.1，P 23；阿拉伯语参见 Munk 1931，15）。虽然可以注意到，ittiṣāl 的这种语言在苏菲关于与上帝合一的讨论中概念上与统一的概念相关联（在犹太的卡巴拉文献中，有其希伯来语对应词 devēqūth 经常出现），但迈蒙尼德自己对 ittiṣāl 概念的使用（用来描述与积极智力的结合）符合阿拉伯文本传统中常见的技术术语。
 
-### 6.4 热情的爱
+### 热情的爱
 
 迈蒙尼德再次反映了神秘的伊斯兰苏菲语言，当他在描述智慧完美的顶峰时，他使用了阿拉伯语的“‘ishq”（热情的爱，爱，欲望）[20]。这个术语也被迈蒙尼德的伊斯兰哲学前辈阿维森纳明确地用于他自己的“Risālah fī’l-‘ishq”（“关于爱的论文”）中，他在其中探讨了上帝作为纯粹的爱对象的现实（这一点已经在亚里士多德将上帝视为所有欲望的最终对象的观念中看到），以及纯粹的爱的主体 [21]。在思考与他对诗篇 91:14 的阅读相关的希伯来语词汇 ḥōshēq（热情地爱的人）时，迈蒙尼德解释道，
 
@@ -267,7 +267,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 这一段中迈蒙尼德是否真的考虑了神秘的联合并不明显，即使他使用了可能被视为充满神秘色彩的语言。关于《指南》3.51 中这一段及其周围段落是否具有神秘意义的可能性仍然存在争议，尽管对于迈蒙尼德在这里的真实意图的最直接解释仍然完全不涉及神秘主义：完全符合伊斯兰新柏拉图化的亚里士多德认识论传统的溢出/结合，迈蒙尼德将对上帝的“热爱”（以及有关上帝亲吻先知摩西的圣经说法）理解为人类智力与活动智力完全一致的时刻，从而达到人类完美的顶峰。
 
-### 6.5 预言：溢出、实现、适应和自然化的神圣
+### 预言：溢出、实现、适应和自然化的神圣
 
 活动智力是一种神圣的中介。它不仅是宇宙的溢出，其最终源头是上帝自己，不仅是亚月界存在的统治者和所有人类认识中的关键照明源，而且活动智力还被确定为预言的神圣中介。正如迈蒙尼德所指出的，
 
@@ -309,7 +309,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 我们还可以注意到，只要我们认为迈蒙尼德认为先知能够直观地和直接地得出真理，而不需要常规的推理过程（正如我们在《指南》2.38 中所发现的），我们可能会发现阿维森纳的影响（参见 Pines 1969，ci-ciii）。 （有关这种情况下的预言的更多信息，请参见：Taylor 2012c，其他互联网资源；Kreisel 2001；Walzer 1957；Altmann 1978；Davidson 1979；W.Z. Harvey 1981。）
 
-### 6.6 监督
+### 监督
 
 关于积极智力对迈蒙尼德的认识论、心理学、神学和伦理学理论的重要性，我们可以注意到，对于迈蒙尼德来说，积极智力与人类智力的亲密关系不仅是一种随附/监督理论的核心，也是一种关于神的监督理论的核心：
 
@@ -327,13 +327,13 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 我们还可以注意到迈蒙尼德和阿维罗伊斯对于神的预见的自然化观点之间的强烈亲和性。正如我们在上面看到的（见上帝的第 3 节），对于阿维罗伊斯来说，上帝是最终原因，他移动独立的智力，而这些智力又移动天空，从而产生自然热量，通过实现形式，激活整个自然的运动和现实。正是这一组思想构成了阿维罗伊斯对神圣预见（'ināya Allāh）的核心，即物种的良好有序功能（以及在其物种下的个体），这是由于上帝以这种方式作为最终原因的功能。虽然有不同的方式来解读迈蒙尼德关于神的预见的最终观点，但这种阿维罗伊斯观点应该被视为一个严肃的可能性。（参见阿维罗伊斯的 CAM 1715，G 200-201；参见 Taylor 2012a，9，其他互联网资源）
 
-### 6.7 不朽
+### 不朽
 
 在他们对于活跃智力的理念中，伊斯兰哲学传统——以及迈蒙尼德在其之后——不仅找到了人类知识和预言的基础机制，也找到了永生的基础。在亚里士多德的《灵魂论》3.5 中，他提到了一个永恒的宇宙原则，即人类智力从身体中解放出来的完美现实，伊斯兰哲学的各个传统以人的真实本质（即他的智力）在活跃智力的现实中永远生存（或者说是作为）来解释永生。需要注意的是，在个人或个体的永生问题上，伊斯兰思想家之间存在重要的差异（阿维森纳主张死后的个体化，与阿维罗伊斯形成对比；参见 Pines 1963, cii-ciii；Stroumsa 2009, 181），而关于迈蒙尼德自己在这个问题上的确切立场的争论暂且不提（Pines 和 Stroumsa 认为迈蒙尼德在这个问题上与阿维罗伊斯持相同立场；参见 Pines 1963, cii；Stroumsa 2009, 181），我们可以概括地说，迈蒙尼德在理解来世时遵循了人类智力与活跃智力的关系——无论是个体还是其他形式。实际上，这里将来世理解为人类智力最终回归并与宇宙活跃智力相结合，这些观念直接来源于他的伊斯兰哲学背景。
 
-## 7. 想象力、政治、寓言
+## 想象力、政治、寓言
 
-### 7.1 指导
+### 指导
 
 迈蒙尼德对政治的重要性非常敏感，他继承了其他伊斯兰哲学家的思想，与亚里士多德一样指出，人类天生是政治动物（见 G 3.27，P 511）。迈蒙尼德认识到，由于普通人无法与主动智慧相结合（因此无法从中获得真理），他们需要帮助——以善良的引导形式帮助他们按照真理生活。正是为了这个目的，迈蒙尼德理解了先知的重要性。先知不仅必须能够从主动智慧中获得真理，还必须能够引导人们按照这些真理生活。
 
@@ -373,7 +373,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 在考虑迈蒙尼德关于政治和预言的观点时，我们还可以考虑 Leo Strauss 对于在迈蒙尼德中揭示和理性之间分歧的重要性的强调，以及他将迈蒙尼德与这些思想家（如 al-Farabi、Avicenna 和 Averroes）在某种程度上继承了柏拉图的法律和伊斯兰哲学传统的联系。关于如何阅读斯特劳斯，如何理解斯特劳斯对于启示与理性之间地位的最终看法，以及因此如何理解斯特劳斯对于迈蒙尼德自己的理性主义的最终理解存在学术争论（所有这些争论都因为关于斯特劳斯自己是否使用他归因于迈蒙尼德和他的伊斯兰前辈的神秘写作策略的争论而变得更加困难）。除了细节和争论之外，我们可以简单地指出，斯特劳斯将迈蒙尼德强烈地置于柏拉图-伊斯兰政治哲学传统中，这对于迈蒙尼德理解预言、宗教、法律以及启示与理性之间的关系具有重要意义 [27]。
 
-### 7.2 寓言和晦涩的写作：外在层面与真实观念
+### 寓言和晦涩的写作：外在层面与真实观念
 
 正是在上述洞见的背景下，将文本解释为外部和内部层面的想法——包括圣经的寓言解释，正变得对迈蒙尼德如此重要。对于迈蒙尼德来说，寓言——将困难的真理包裹在色彩丰富、生动形象中的手法——以及其他形式的晦涩写作，成为引导普通人按照他们无法理解的真理生活的特别有效工具（从而使他们有机会过上美好的生活），同时又使他们远离科学和哲学真理，因为这些真理对他们来说太难理解，以至于（a）无法产生任何积极的结果，和/或（b）使他们困惑到背离信仰的程度（对迈蒙尼德来说，这正是无法过上美好生活的机会被阻断的结果）。在这种背景下，迈蒙尼德认为圣经本身充满了寓言的诠释——这些诠释是由先知摩西巧妙创作的。在这里，圣经是由摩西在活跃的智慧的启发下以自己的想象力为镜头创作的文学杰作：从这个意义上说，圣经是以富有想象力和修辞说服力的形象（如上帝坐着、站着等人形化的描述）包裹的真理。再次（见 7.1），正是圣经（由先知摩西）通过富有想象力和修辞效果的形象和故事的构建，使其能够对普通人的内心（或更准确地说，想象力）产生影响，使他们能够按照自己无法理解的真理生活。对于他的伊斯兰前辈们来说，当然是穆罕默德扮演这个作用，作为一个有道德的立法先知，通过创造性的形象和说服力的宗教形象，引导社群走向美德，通过《古兰经》的想象力和修辞说服力的形象。
 
@@ -417,7 +417,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 斯特鲁姆萨（Stroumsa）认为迈蒙尼德（Maimonides）在《指南》2.25 中积极回应了阿维罗斯（Averroes）关于这一点的观点，他强调“文本的意图”是要在外部层面上提供一个非物质的关于上帝的拟人主张的解释；斯特鲁姆萨认为这是迈蒙尼德对阿维罗斯自己关于“立法者的意图”的回应，后者确保了经文文本的外部意义仅仅是关于神的物质性的想象教导，旨在满足普通人对形象的需求。[31] 在思考迈蒙尼德作品中的一些解释学紧张（或微妙）之处时，斯特鲁姆萨（Stroumsa）指出了 al-Ghazali 的《法伊萨尔》的影响，迈蒙尼德试图通过将其描述为寓言来挽救 midrashic 思想，以及阿维罗斯的影响，迈蒙尼德强调读者在理解真理方面要保持在自己能力的限度内的重要性。[32]
 
-### 7.3 动态写作
+### 动态写作
 
 从迈蒙尼德对圣经的寓言解释开始，我们还可以注意到他在自己的论文构建中使用了外部和内部感官的动态，这种动态在阿维森纳的复杂的“幻觉叙述”中可以更早地看到（参见科尔宾 1960 年）。在迈蒙尼德自己的寓言构建中（参见《指南》3.51 章的宫殿寓言），在他使用隐喻、对圣经经文的寓言解释中，以及更广泛地在《指南》的整体构建中（在他留下许多模棱两可之处和明确表达矛盾之声），“内在与外在”阅读和写作策略的创造性精神是解释迈蒙尼德在创造、守护和永生等重要主题上如此困难的一部分。事实上，迈蒙尼德在《指南》的开头列出了“矛盾或相反陈述”的七个原因的清单（G 引言，P 17），并明确声明《指南》本身将包含可以根据该清单解释的“分歧”。在反思自己文本中的写作动力时，迈蒙尼德解释道：
 
@@ -436,11 +436,11 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 ### A. Primary Sources
 
-#### 1. Aristotle
+#### Aristotle
 
 * [BWA] *Metaphysics*, and *De Anima*. McKeon, Richard (ed.) *The Basic Works of Aristotle*. New York: Random House, 1941.
 
-#### 2. Averroes (Ibn Rushd)
+#### Averroes (Ibn Rushd)
 
 * [CDA] Long Commentary on Aristotle's *De Anima*. Taylor, Richard C. (tr.) with Druart, Thérèse-Anne (ed.) *Averroes (Ibn Rushd) of Cordoba: Long Commentary on the De Anima of Aristotle*. New Haven, Yale University Press, 2009.
 * [CAM] *Commentary on Aristotle’s Metaphysics*.
@@ -455,7 +455,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
   * [GH] Hourani, George F. *On the Harmony of Religion and Philosophy*. In his *Averroes on the Harmony of Religion and Philosophy*. London: Luzac and Co., Ltd., 1961.
   * [HW] Hyman, Arthur and Walsh, James J. (eds.) Selections from Hourani translation of *On the Harmony of Religion and Philosophy*. In their *Philosophy in the Middle Ages*, 297-316. Indianapolis: Hackett Publishing Co.,1973.
 
-#### 3. Avicenna (Ibn Sina)
+#### Avicenna (Ibn Sina)
 
 * [RFI] *“Risālah fī’l-‘ishq*” (“Treatise on Love”)
   * [M] Arabic text, see: A. F. M. Mehren, *Traités Mystiques*, Leiden: Brill, 1891.
@@ -466,7 +466,7 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
   * [AZ] Anawati, G. C. and Zayed, Sa‘id (eds.) *Ibn Sīnā, Al-Shifā’, al-Ilāhiyyāt*. Cairo: Organisation Générale des Imprimeries Gouvernementales, 1960.
 * [PP] *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors* (*fī ithbāt al-nubuwwāt*). Marmura, Michael E. (tr.) *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors*, selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 112-121. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
-#### 4. al-Farabi
+#### al-Farabi
 
 * [AH] *The Attainment of Happiness* (*Taḥṣīl al-sa‘ādah*). Mahdi, Muhsin (tr.) “The Attainment of Happiness.” In Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 58-82. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 * [BR] *The Book of Religion (Kitāb al-Milla wa Nuṣūṣ Ukhrā)*
@@ -487,13 +487,13 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
   * Butterworth, Charles E. *Enumeration of the Sciences*, in his *Alfarabi, The Political Writings*, 71-84. Ithaca: Cornell University Press, 2001.
 * [PL] *Plato's Laws*. Mahdi, Muhsin (tr.) *Alfarabi, Plato's Laws*. Selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 83-94. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
-#### 5. *Kalām fī maḥḍ al-khair* (aka *Liber de Causis*)
+#### *Kalām fī maḥḍ al-khair* (aka *Liber de Causis*)
 
 * Badawi, A. (ed.) 1955. *Neoplatonici apud Arabes: Liber (Pseudo-Aristotelis) de expositione bonitatis purae*. Cairo: *Maktabat al-nahda al-Misriya*.
 * Bardenhewer, O. (ed.) 1882. *Die pseudo-aristotelische Schrift, Ueber das reine Gute, bekannt unter dem Namen, Liber de causis. Freiberg-im-Breisgau: Herdersche Verlagschandlung.*
 * For English translation, see Guagliardo, Hess, and Taylor, 1996.
 
-#### 6. Moses Maimonides
+#### Moses Maimonides
 
 * [G] *The Guide of the Perplexed*.
   
@@ -501,11 +501,11 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
   * Munk, S. (ed., with variant readings by Joel, Issachar). *Dalālat al-hā‘irīn*. Jerusalem: J. Junovitch, 1931.
 * For other primary texts, see Marx 1935.
   
-#### 7. Plotinus
+#### Plotinus
 
 * *The Enneads*. Armstrong, A. H. (tr.) Plotinus, *The Enneads*. The Loeb Classical Library. Cambridge: Harvard University Press, 1966.
 
-#### 8. *Theology of Aristotle*
+#### *Theology of Aristotle*
 
 * [TAB] Badawi, A. (ed.) 1955. *Plotinus Apud Arabes, Theologia Aristotelis et fragmenta quae supersunt. Cairo: Maktabat al-nahda al-Misriya.*
 * [TAL] Lewis, G.L. (trans.) 1959. *Plotiniana Arabica. In Plotini Opera*, vol. 2, P. Henry & H.-R. Schwyzer (eds). *Bruxelles: Edition universelle.*

@@ -8,7 +8,7 @@
 
 ***
 
-## 1. 生活与职业
+## 生活与职业
 
 * 1905 年：伊曼纽尔·列维纳斯于 1 月 12 日出生在立陶宛的考纳斯（俄语中的科夫诺）。立陶宛是沙俄时期的一部分，周围的文化“容忍”犹太人。他是一个中产阶级家庭中的长子，有两个兄弟，鲍里斯和阿米纳达布。
 * 1914 年：在战争的余波中，列维纳斯的家人移居乌克兰的哈尔科夫。1920 年，立陶宛从革命政府手中获得独立两年后，家人返回立陶宛。
@@ -49,11 +49,11 @@
 * 1996 年：《新塔木德阅读》。
 * 1998 年：《伦理学作为第一哲学》（最初于 1984 年以文章形式发表）。
 
-## 2. 伊曼纽尔·列维纳斯哲学的主题阐述
+## 伊曼纽尔·列维纳斯哲学的主题阐述
 
 本条目将按照列维纳斯的职业生涯的时间顺序进行，随着他的概念的演变。接下来，我们将强调以下论点和主题：（1）为什么列维纳斯是一种独特的第一哲学；（2）他如何发展他对我们关于伦理推理的生活条件的调查；以及（3）他对现象学的独创性和他对预意识的具身互为主体性的存在主义诠释的适应性。在本条目中，注意力始终集中在评论者的贡献上，以便提供一个通往最近的二级文献的入口。
 
-### 2.1 哲学的起点：逃避（1935 年）或超越作为逃避的需要
+### 哲学的起点：逃避（1935 年）或超越作为逃避的需要
 
 伊曼纽尔·列维纳斯于 1930 年发表了他的论文《胡塞尔现象学中的直觉理论》。这是法语中第一本关于胡塞尔思想的专著。通过聚焦直觉这一主题，列维纳斯建立了哲学读者在胡塞尔的《思想一》和《思想二》（分别于 1913 年和 1930 年部分出版）中发现的内容：每一种人类经验都可以进行现象学描述；每一种人类经验从一开始就具有意义，并且可以作为一种意向性的模式进行研究（《思想二》：§56 h 和 §§57-61）。次年，他发表了他与胡塞尔合作翻译的《笛卡尔冥思录》，其中胡塞尔系统地展示了横跨现象学的超验现象学。在 1930 年代，列维纳斯继续发表关于他的两位主要导师胡塞尔和海德格尔思想的研究。其中包括了论文《马丁·海德格尔与本体论》（EDE：53-76）和广泛的《埃德蒙·胡塞尔的工作》（DEH：47-89）。在 1930 年代和 1940 年代，他的哲学项目受到了胡塞尔现象学方法的影响，该方法的基础可以说是“超验自我”的核心地位（《思想一》：§49）。然而，对胡塞尔对本质的知识论方法（现象学的“本质论”）的怀疑使列维纳斯更倾向于海德格尔在《存在与时间》中更世俗的存在方式。然而，在 1930 年至 1935 年间，他仍然会摒弃海德格尔对存在和超越的方法，并发展出一个新本体论的轮廓。正如我们将看到的，他将重新构想超越作为对存在的逃避需求，并在这个项目中制定出对生活时间的不同分析。
 
@@ -87,7 +87,7 @@
 
 问题仍然存在：我们应该如何最好地思考超越存在的感性需求？具体需求并非幻觉；超越存在是否是幻觉？伊曼纽尔·列维纳斯将在 1961 年对这个问题作出全面回答。
 
-### 2.2 Middle Writings: Existence and Existents (1947) and Time and the Other (1947) or Inflections of Transcendence and Variations on Being
+### Middle Writings: Existence and Existents (1947) and Time and the Other (1947) or Inflections of Transcendence and Variations on Being
 
 The 1940s writings extend Levinas’ innovations in ontology, always with recourse to interpretations of embodiment and against Heidegger’s philosophy of existence which, for Levinas, entails engagement with being as “participation” without alterity.\[[9](https://plato.stanford.edu/entries/levinas/notes.html#note-9)] These writings inflect his notion of transcendence, away from the imagined transcendence of evasion and pleasure, toward *eros* and the promise of the birth of a child.\[[10](https://plato.stanford.edu/entries/levinas/notes.html#note-10)] This requires he explore alterity, understood as the feminine other (EE: 86).
 
@@ -127,7 +127,7 @@ In *Existence and Existents* (1947) and *Time and the Other* (1947), being now h
 
 反过来，加布里埃拉·巴斯特拉回忆起康德的道德法则，理解为积极感受的基础和我们最大尊重（Achtung）的对象，是先验认知的，甚至我们对它的尊重也不是来自经验的。因此，尊重是一种独特的情感，激励我遵循道德法则的意愿，尽管它不是以经验心理学意义上的感觉（康德 1788 \[2002]）。相反，它是一种影响我自己的东西，巴斯特拉将其与列维纳斯所认定的他人面对我的活动中断所引起的情感进行比较（巴斯特拉 2015）。再次强调，这两种哲学是不同的，尤其是因为它们涉及不同的方法。但是，仍然存在一个问题，就像康德的先验一样，我们不能将在他人面前经历的动机归为主观状态或客观概念。
 
-#### 2.3.2 作品的结构
+#### 作品的结构
 
 《整体性与无限》围绕着存在的现象学描述展开，最初被描绘为自然或冲突中的力量（TI：21-22）。然而，我们在世界中的存在也包括享受自然元素和热爱生活（TI：110-115）。"我们从‘好汤’、空气、光线、眼镜、工作、思想、睡眠等中生活...这些不是表象的对象。我们从中生活"（TI：110）。列维纳斯还将劳动重新定义为创造一批商品，借此欢迎他人（TI：157-161，205），而不仅仅是掌握或人性化自然。因为我们喜欢生活和创造一个家，我们的生活不是像海德格尔的“关怀”（Sorge；TI：112）那样。相反，我们生活在滋养中，并可以将他人接纳到我们的空间中。基于这些描述，上述定义的超越性在几个阶段中实现。首先，他者的出现——作为面孔的表达——打断了我们的自由活动（和意愿），并要求我们对自己负责（TI：198，291），列维纳斯称之为“善良”（TI：200）。\[17]其次，在因此作出回应时，被他者接近的主体参与了一种打开对话可能性的行为。对话的展开扩展了社会关系，列维纳斯认为社会生活保留了最初与面孔的“伦理”相遇的残余。主体间的对话包括交谈、教学，以及更一般层面上的文学或哲学论述（TI：51，57，251-52，295）。
 
@@ -135,7 +135,7 @@ In *Existence and Existents* (1947) and *Time and the Other* (1947), being now h
 
 伊曼纽尔·列维纳斯在《整体性与无限》中的论证展开至正义问题，然后采取了一个意想不到的方向。列维纳斯并没有将正义追求到经由公民社会进一步细化为国家，而是将焦点放在了一个更小规模的机构上，即家庭，这在所有人类中都是普遍存在的。可以认为，正是在家庭中，而不是在国家中，面对面的相遇所描述的责任最为明确地得到实践。如果家庭是由孩子的诞生而巩固的，那么正如列维纳斯所说，正是父亲选择并呼唤孩子承担责任，就像孩子在成长过程中为兄弟姐妹服务的方式比国家的非个人正义所规定的方式更加个人化。根据列维纳斯的说法，这种正义具有特定的时间模态：“作为被选中的独特之子，同时是独特和非独特的。父权作为无数未来而产生”，作为开放的后代（TI: 279）。在这个名为“超越面孔”的倒数第二节中，家庭的现象学将面对面所经历的责任融入到一个微观社会中，其中可能出现正义问题，但对未来时间有了新的强调。
 
-#### 2.3.3 时间、超越和社会性
+#### 时间、超越和社会性
 
 《整体性与无限》并未关注钟表时间或普遍（或黑格尔式）历史的时间。因为列维纳斯从将存在的概念与物质因果性和斗争几乎对齐开始分析，作为面孔的打断所带来的“主观”时间尚未成为社会时间。历史也似乎是一部形而上学家的历史。在他的“前言”中，列维纳斯将历史描述为暴力，被战争和暂时的和平的极端所打断（TI：21-23）。摩根认为，这使得列维纳斯对伦理互为主体性的处理方式至少与自然主义有关，自然主义与霍布斯式机械本体论以及由此推广的以自我为中心的人类学有关（摩根 2011：246）。然而，列维纳斯绝不会否认我们的欲望和本能的自我利益。相反，只有他人的召唤所开启的互为主体性才能打断这些行为（摩根 2011：246）。然而，列维纳斯也设想了一种替代历史，其中我们有可能见证个人所经历的不公。这些不公可能不会被政府的正式历史记录下来，但它们的证明延长了由责任投资的人类感性的讨论。列维纳斯写道，
 
@@ -163,7 +163,7 @@ In *Existence and Existents* (1947) and *Time and the Other* (1947), being now h
 
 在《存在与存在者》和《时间与他者》与《整体与无限》之间的十四年中，我们看到了连续性和差异。如果海德格尔开始了他所构想的对胡塞尔现象学意识的解构化解释，寻求现象之下的“隐藏之物”（他-BT：§7c），那么列维纳斯在 1947 年已经扩展了这种解构化的姿态，主张光本身是潜在的意义，悬置了先验与后验之间的对立。到了 1961 年，面对面的遭遇经验动摇了先验-后验二分法，敦促我们在面对面的情境中，第三方（人类）通过他人的眼睛看着我。这是因为非空间的“亲近”即我们流动的时间意识的中断，以一种不为人注意的自发性发生，就像眨眼一样，但却留下了痕迹。意识总是在这些中断的瞬间之后重新接纳并重新连接自己，形成一个连贯的流动。因此，超越存在的善并没有在 1961 年与存在完全分离。因此，重申一遍，这是一个人类的事务。对具体体现生活的哲学翻译因此必须将人类主体视为通过与他人的关系而出现的主体，尽管这种互为主体的情境既包括我通过选举而特殊化，又包括对自我掌控的丧失。这与梅洛-庞蒂的许多分析是一致的，其中一些受到胡塞尔的启发，尽管梅洛-庞蒂反对超验主体性，主张经验现象学的经典“我”构成其世界的主体将会漂向一种不希望的绝对性。因此，它永远不可能是孤独的，必须从存在的角度来接近（mp-PP：365）。
 
-#### 2.3.4 存在、中介（家庭和国家）以及伦理学和政治学中的意志
+#### 存在、中介（家庭和国家）以及伦理学和政治学中的意志
 
 而在《存在与存在者》中，列维纳斯表达了“离开\[海德格尔的]哲学氛围的深切需要”（EE: 4），到 1961 年，他确实做到了，尽管在重塑海德格尔的基本本体论时进行了重大改动。正如我们所见，列维纳斯将存在设想为恒定的、中立的存在，并且有时类似于霍布斯式的自然状态。德里达提醒我们，这种海德格尔之前的观念与康德对存在的理解为冲突强度的概念接近（1997 \[1999: 49, 86]）。这就是为什么在列维纳斯的自然表达中，存在几乎具有机械性的特质。在社会和制度意义上，存在被构想为个体和社群被国家所包容。后者决定了安全和财产、生与死。但在《整体性与无限》的“前言”中，列维纳斯将国家与系统哲学进行了比较：作为政治的“工具”，国家管理商业和冲突，就像宣战一样。同样，黑格尔的唯心辩证法随附并整合感性和认知，从个体到集体，表达了自身的 Geist 或 Spirit 的运动（TI: 21–23; 36–38; 87–88）。
 
@@ -207,11 +207,11 @@ Basterra 认为，康德的伦理学为我们提供了一个重要的洞察力�
 
 > 欧洲不是两股文化潮流的简单汇合。它是理论和圣经智慧更胜于融合的具体性。与他人的关系……也就是与和平的关系，带来了一个理由，它主题化、同步化和综合化，思考一个世界并反思存在，这是人类和平所必需的概念。（col-BPW：168）
 
-### 2.4 《超越存在，或超越本质》（1974 年）：内在的超越
+### 《超越存在，或超越本质》（1974 年）：内在的超越
 
 否定存在的其他方面围绕其核心第四章《替代》而成长，该章节首次发表于 1968 年（OBBE：99-129）。可以说，列维纳斯的替代概念相当于责任的概念，这一次以内在关系性而不是“我”对面孔的回应（理解为外在性）来探讨。在这部作品中，列维纳斯反复使用术语“内在性”，译者将其译为“内在性”，可能是为了避免引入空间二元论（OBBE：28、87、92、108、119）。这部作品不涉及内外对立，更不涉及认知操作或事件或物体的客体记忆。它与我们通过反思在现象学上发现的内容几乎没有关系。“内在性”指的是一种身体生活，仿佛被他人所困扰，现在也被称为“亲近”（OBBE：81-94）。与胡塞尔的感知视野类似，内在性涉及一系列情感色调。也许与胡塞尔不同的是，这些色调需要借助列维纳斯现在从心理学、诗学、解释学、甚至神学和教义学中借用的话语形式（例如“困扰”、“迫害”、“重复”、“皮肤过紧”、“流亡”、“母性”、“爱”，最后是“赎罪”和“自我放空”）\[26]。因此，虽然关注直接被动经历中的主体间情感，替代在行动或实践中显现出来，这是我们体验直接性的领域\[27]。到了 1974 年，超越，理解为他者的“外部”，已经成为超越内在性，这在某种意义上更接近梅洛-庞蒂对身体性的描述，梅洛-庞蒂同样主张身体性的哲学永远不应对内在性和超越性进行对立（mp-PP：308）。 对于伊曼纽尔·列维纳斯来说，他对他者的概念仍然与面孔作为表达和外在性有一定的关联，但它主要指的是非客体形成的记忆的“内在性”，其情感回归或“复发”使胡塞尔的现象学意识的线性时间结构变得复杂（OBBE: 88）。
 
-#### 2.4.1 作品的结构
+#### 作品的结构
 
 《非存在之外》以对论证的总体概述开篇，其中存在和超越也被称为“本质”和“无私”。列维纳斯强调存在的过程性质，他将其等同地称为“存在”或“本质”，并冒险表示他甚至可能使用动态形式的“essance”（OBBE：187 注 1）。责任将被聚焦和讨论为一切言语意义的可能条件（OBBE：43-47）。但是对话和教学的主题渐渐退到了背景中。他现在更战略地将身体作为肉体来使用，即作为一个同时具有内部和外部的场所，就像梅洛-庞蒂所说的那样。主体性再次以情感的方式被框定为责任的发生，尽管这次是将意向性的现象学分析分解为列维纳斯称之为“原初感受性”的原始层面（OBBE：122，136-138）。对他来说，这意味着主体性总是涉及从一开始就受到他者主体性条件制约的前认知维度。他者已经成为“同中之他者”，如前所述。但是“同中之他者”与面对我的实际他者并没有客观上的不同，因为两者都不是客体，而是他者性的表达或方式。正如我们将看到的，所谓“同中之他者”描述了一种前主题的“投资”（因为我从不知道我何时首次在自己内部经历了这个他者；OBBE：125）：“我的全部内在性都以一种对我来说、为了他者的方式投资”（OBBE：11）。在《非存在之外》中，列维纳斯回到了胡塞尔对被动综合的探究，回到了后者对被动经验的保留时间、我们联想的无意识自发性以及感性视野的近乎无限的困惑，这些都是胡塞尔在 1926 年所称的“所谓无意识的现象学”中展开的过程的一部分（Husserl 2001：201 和“附录 19”512-519）。 鉴于这种回归，我们不应将内在性和外在性视为对立的术语，而应将其视为相互主体性和他者对自我的居住的维度。
 
@@ -233,7 +233,7 @@ Basterra 认为，康德的伦理学为我们提供了一个重要的洞察力�
 
 Aware of the seemingly artificial quality of calling his authorial witness “immediate”, Levinas’ claim is nevertheless more than a literary artifice. Basterra compares it to Kant’s idea of autonomy, which shows itself only when we follow a law that “exceeds and addresses the subject”, motivating our ethical act (Basterra 2015: 126). Earlier in her study, she had argued that the intellectual affect of *Achtung* was capable of focusing our attention and opening us to a respect comparable to Levinas’ Saying, which he also calls “sincerity”. For pure reason, autonomy “is therefore an illusion”, but it is one only insofar as that which is not intrinsically part of *my* interests can still motivate me to act. Thus pure reason erroneously supposes that my ethical gesture came *from* me (Basterra 2015: 129). Levinas provides us a crucial hermeneutics of the intersubjective origin of this Kantian “illusion”. He sets our misinterpretation of heteronomy as autonomy in Kant’s practical reason into a hermeneutic register, referring to the sincerity and substitution underlying the words we offer: “It is in the risky uncovering of oneself, in sincerity, the breaking up of inwardness … exposure to traumas, vulnerability” that I bear witness to, and for another (OBBE: 48). Again, it does not come from us. Levinas finds illustrations of such witnessing in many places, from the justice imperative of the prophets to the concern of Latin American clerics over the events unfolding in Chile in 1973 (OGCM 81–82).
 
-#### 2.4.2 New Existential Moods and Fleshly Memories
+#### New Existential Moods and Fleshly Memories
 
 正如他在 1935 年对需求和恶心的讨论中所说，与其存在的方式认为，生活的感知常常超出了表象。而且，列维纳斯还提出了与海德格尔的存在方式不同的感性模式（见上文 2.2 节），在海德格尔看来，所有的理解都发生在那里（he-BT: 17）。事实上，情感的交织层次在与其存在的方式中得到展开。列维纳斯探索了他人的感性情感原始体验，以新的情绪为光，写道：“悔恨是感性的字面意义的修辞。在它的被动性中，被告和自己指责之间的区别被抹去了”（OBBE: 125）。与《存在与存在者》不同，光在其中克服了主体和客体之间的区别，使主体能够在出现的视野中使客体可理解（EE: 41），与其存在的方式以感性和时间的术语来接近超越，主张坚持一个逃避主题化的过去（OBBE: 122-123）。在这个意义上，对于一个具体存在的人来说，超越总是在内在中的超越。与特定他人的情感“经验”因此被保留为肉体的痕迹或前主题的回忆，作为“与任何原则、任何理想性的中介无关的奇异性的关系”（OBBE: 100）。引用《与其存在的方式》（OBBE: 105-107），约翰·卢埃林称这种情感维度的投入自我，或“自我性”，为“‘深层次的’言说”，它“见证了当（或一旦）它被表示为一个符号时，这些术语在认识意义上既不被回忆也不被遗忘”（Llewelyn 2002b: 135）\[32]。
 
@@ -243,7 +243,7 @@ Aware of the seemingly artificial quality of calling his authorial witness “im
 
 列维纳斯将这种感性的双重意识-潜意识状态与他关于“一个‘他者’渗透到‘同一’的‘预意向性’的‘接受性’”的观念进行了比较，总结起来，就是我们的互为主体的生活，而不是“思想”(DEH: 144)。正如胡塞尔已经提到的那样，这种感性的“他者”将支持列维纳斯在 1974 年对时间意识的情感中断的论证，并主张互为主体的情感超出了所有再现意识的框架\[35]。Sophie Veulemans 有益地将列维纳斯的时间性与伯格森对持续中的“新”进行了比较(Veulemans 2008)。反过来，鲁道夫·贝尔内特将现象学瞬间的新颖性与列维纳斯中“所有他性和差异的根源”等同起来，这使贝尔内特能够敦促主体的互为主体的投入“在意识哲学中总是\[无法]思考”(Bernet 2002: 92)。根据他的论证，现象学没有充分思考“他者如何通过感性的方式将主体从……内在性的囚禁中解放出来”(Bernet 2002: 93)。
 
-#### 2.4.3 说和被说的话语
+#### 说和被说的话语
 
 《超越存在》涉及对意义的创新性讨论。鉴于列维纳斯的解释学洞见，语言不仅仅是一套与现有客观实在相配对的词汇系统，而是将现实展现出来的工具，语言和时间具有类似的功能。也就是说，二者都使意义成为可能，实现了我们的世界。确实，海德格尔曾主张存在在（诗意的）语言中共鸣，作为动词“存在”，而正如我们所见，列维纳斯则反驳说，超越存在表现为副词性的意义。然而，如果语言和存在之间的关系是全面的，甚至在某种神秘的意义上，就像对于海德格尔来说那样，那么列维纳斯的超越存在看起来就像是纯粹的推测，或者它只是存在中的一部分，或者参与到它类似动词的超越中。无论哪种方式，基本本体论都证明了原始性，并削弱了列维纳斯的主张。然而对于后者来说，超越实际上指向了时间性，正如我们所见，它已经不同于现象学的总体流动，或者海德格尔的存在通过 Da-sein 的时间化（即，向着自己最本质的可能性前进；OBBE：169-170，178-182）。在前意向感性时刻与其意向化之间的时间间隔表示了列维纳斯也将其等同于“言说”（OBBE：37-55）的超越。他对言说的讨论与他对真诚的处理相一致，这在《存在与存在者》中已经提到。《超越存在》将他对真诚的概念进行了激进化，坚持认为感性结构总是像被感性间隙所标点一样。正是由于这样的时间间隙，我们才能够开放并能够交流，因为正如我们所见，亲近是一种激励对话的情感模式。 虽然所有感性的失误不一定都是开启互为主体交流的机会，但亲近和脆弱是超越在内在中和意义的诞生的地点（无论是否实际发出言辞）。对于伊曼纽尔·列维纳斯来说，生活的情感性中有比海德格尔通过语言表达的存在观念更多的东西。这一点在我们理解意义最初是一种情感的原始意向性而不是某种已经形成的思想，然后我选择将其传达给另一个人的时候就变得清楚了（OBBE：43）。
 
@@ -253,7 +253,7 @@ Aware of the seemingly artificial quality of calling his authorial witness “im
 
 因此，即使存在的动词性或事件性质也可以采用名词形式，比如“一个存在”。列维纳斯将这种可转换性称为“存在和实体的二义性”（OBBE：43）。虽然这种来回参照表达了将存在视为一种事物的危险——海德格尔警告我们的危险——但这种二义性也未能完全把握像 se dire 这样的反身动词的反身特性，被理解为“说”但是以被动的意义，好像一个人在说自己，自我沟通。然后，列维纳斯对反身代词 se 进行了他的伦理-诠释学“还原”，敦促我们认识到，尽管存在通过逻辑“说话”，se 指向了我们具身感性被动性的一种互为主体的方式（OBBE：43-45）。这种被动性是神秘的，因为 se 不是一个动词，也不能真正变成一个名词。正是在它神秘的结构中，接近中产生的脆弱性作为基础意义，以及对另一个人说的话。对于这个反身代词 se，或者“自我”，对应着我们的被动性，它发生在被称为“历时性”的时间间隔中。因此，历时性表达了我们对他者的真诚和某种超越：“精神听到了其他的回声”（OBBBE：44）。通过副词（“其他”），肉体投入的一种情态化瞬间逃离了在前述的动词和名词之间的二义性中流动的名词化。在这里，我们找到了超越的最终意义，列维纳斯将其与梅洛-庞蒂的“基本历史性”相比较，那些不被注意的、被动的身体沉积物构成了我们的自我（OBBE：45）。
 
-#### 2.4.4 诠释学和犹太哲学
+#### 诠释学和犹太哲学
 
 伊曼纽尔·列维纳斯的后期作品，尤其是《存在之外》，被认为是解释学的。评论家朱塞佩·利萨（Giuseppe Lissa）在对该作品中他者-同一和被动性的讨论中提供了对列维纳斯解释性项目的恰当描述。通过研究意识的深度，将其被动性与衰老过程进行比较，列维纳斯探索了一种无法知晓但可能可以通过一种不再声称是知识的思考来解释的现实...因为这种思考从事的是对超越一切知识的意义的追寻。
 
@@ -301,7 +301,7 @@ Like Fagenblat, scholars from David Banon to Marc-Alain Ouaknin have explored th
 
 如果我们接受这个观点，那么列维纳斯与大屠杀前的犹太思想家之间的比较只能在一定程度上解决当今犹太解释哲学的问题。
 
-#### 2.4.5 第三方、他者性和政治
+#### 第三方、他者性和政治
 
 Jacques Derrida once called *Totality and Infinity* a “treatise on hospitality” (1997 \[1999: 21]). As we have seen, Levinas’ 1961 work approached being as war or a conflict of wills that persist in their existence like the philosophical tradition’s concept of *conatus essendi* (the will to persist in being). Neutral existence or the *there-is* (*il y a*) denoted indeterminate nocturnal being, which gives way to the diurnal being called “the elemental” (sunlight, winds, rain). As noted, being in Levinas thus entails both dynamic forces and a conception of natural processes and causality. However, hospitality, also called “metaphysical desire” (TI: 33), cannot be grounded on such forces, much less on a conception of the will as based on drives of self-preservation or self-expansion. And, because hospitality is elicited by the other—and is non-reciprocal—it does not presuppose an original social exchange, much less moral sentiments or innate emotive capacities for empathy or compassion. If it did, there would be no question of escaping a so-called natural order of existence. That is why Levinas—aware that the concept of nature has a debated history—characterizes both our response to the other and, in 1974, proximity, as “pre-natural signification” (OBBE: 68). He explains,
 
@@ -355,7 +355,7 @@ This conception of a Jewish “anthropology” corresponds not to particular Jew
 
 This dual preoccupation with justice as rectitude, and justice as civic virtue, seems to suggest that together Athens and Jerusalem give us a comprehensive approach to politics, as both practice and ideal. Drabinski and Fred Moten have questioned this universality (Drabinski 2011: 165–196), and with it the category of “being-Jewish”, in favor of an emphasis on the passivity intrinsic to a *multiplicity* of human situations, including race, ethnicity, and gender. Moreover, as Moten cautions, passivity can be readily observed in our relations to *things* rather than persons. He thus adds that the Bible and the Greeks, although often presented as “the whole world”, thereby become a teleological reflection that expresses an unacknowledged European *malaise*, wherein the non-European receives the status of a mere object (Moten 2018: 9, 11). Attributing this to the transcendence toward-the-world of phenomenological intentionality, which shares some of the blind spots of the colonial enterprise, Moten discusses the object-like passivity of being on the receiving end of multiple racisms, including Levinas’ own “unintended racism”. If we take his concern seriously, then passivity as a category of being-human strains against being attributed to Jews alone. In turn, this raises the philosophical-anthropological question of situational passivities, the very idea of humanity, and those “beings” that inhabit worlds unacknowledged by the European tradition (Moten 2018: 17). While this is a critique of Levinas, Moten also invites us to expand the latter’s anthropological category of being-Jewish, and to ask ourselves what kind of politics might flow out of such an expansion.\[[47](https://plato.stanford.edu/entries/levinas/notes.html#note-47)]
 
-### 2.5 Essays and Interviews after Otherwise than Being: The Tension between Ethics and Justice
+### Essays and Interviews after Otherwise than Being: The Tension between Ethics and Justice
 
 Subsequent to *Otherwise than Being*,Levinas’ works return to and refine his major themes. These works include *Transcendence and Intelligibility* (1984), *In the Time of the Nations* (1988), *Entre Nous* (1991), and *Alterity and Transcendence* (1995), all of which are collections of essays from various periods between 1951 and 1989. However, the first of these collections to appear, entitled *Of God Who Comes to Mind* (1982), contains the important essay “God and Philosophy” (1975; OGCM: 55–78), which is a critical confrontation with the God of Descartes and Malebranche, and a subtle debate with Heidegger. This essay is followed by the transcript of a two-hour discussion with professors from the University of Leyden (OGCM: 79–99), in which social problems infrequently addressed by Levinas are raised.\[[48](https://plato.stanford.edu/entries/levinas/notes.html#note-48)] Despite the wide temporal gamut run by these publications, we find few new developments, other than a clearer resolve to address the ambiguity intrinsic to the signifier “God” (OGCM: §§10–13, 17–19), and the verbal dynamics of being (corresponding to Heidegger’s *Wesen*), henceforth characterized by Levinas’ neologism “ess_a_nce” (OGCM: 43–51).
 
@@ -379,7 +379,7 @@ However, Franck has detected a profound divergence in these new developments. In
 
 出于这个原因和其他原因，责任优先于正义的重要问题必须被视为一个复杂的问题，部分取决于生活环境。从列维纳斯在《整体性与无限》中定义的“形而上学”视角来看，责任和亲近是首要的（EN: 107-108）。从实践和我们在社会中生活的角度来看，正义更接近伦理学，有时可能先于伦理学。杰拉尔·本苏桑（Gérard Bensussan）在基督教传统的光线下思考了这个问题，在西方，犹太教已经代表了一种他者性-在文本和行为中；例如，当逾越节的晚餐重新演绎了逃离埃及奴役的场景时，它在仪式上回忆道：“我们曾经是陌生人，因此，我们现在仍然是陌生人”（Bensussan 2008: 78）。更严谨的哲学计算可能需要进一步澄清两种观点之间的关系，即正义和仁慈。无论如何，这是列维纳斯的犹太文献在哲学论证方面丰富甚至基础的一个观点。
 
-## 3. 结束语
+## 结束语
 
 评论家们对于列维纳斯的两部重要著作《整体性与无限》和《非存在》的重要性存在分歧。有些人主张我们将它们视为同一枚硬币的两面：一面是在面对面的相遇中体验到的责任，另一面是打断了古典现象学所构想的流动时间的情感痕迹的坚持（Peperzak 1993: 7）。其他评论家则认为《非存在》是列维纳斯的巨著，一部关于语言的互为前提的研究，受到海德格尔对诗意逻辑（人居其中，存在被暗示）的调查的债务影响，但又有所偏离（Heidegger he-EHP: 59–64）。正如我们所见，德里达称《整体性与无限》为一部“关于好客的论文”（见 §2.4.1），并且总体上比《非存在》更加关注它，尽管后者在某种程度上是对德里达在《暴力与形而上学》中的批评的回应（Derrida 1964 \[1978]）。毫无疑问，《非存在》的新颖之处在于它的三个创新：（1）关于内在中的超越的分析和修辞（重复、接近、困扰、迫害和替代）；（2）对语言的解构，将其理解为存在被说和解释的场所；以及（3）列维纳斯“打赌”的哲学推理跳出到一种表演性的登记，既“说”又“不说”自己（OBBE: 167）。
 

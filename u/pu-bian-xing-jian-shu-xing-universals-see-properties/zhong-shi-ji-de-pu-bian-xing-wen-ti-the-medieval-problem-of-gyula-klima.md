@@ -6,7 +6,7 @@
 
 ---
 
-## 1. 引言
+## 引言
 
 柏拉图原始理论的固有问题已经被柏拉图本人所认识到。在他的《巴门尼德》中，柏拉图著名地提出了几个困难，显然他没有给出令人满意的答案。亚里士多德（公元前 384-322 年），对他的老师表示敬意的同时，一贯地拒绝了柏拉图的理论，并在自己的著作中对其进行了严厉批评。（因此有着著名的说法：“amicus Plato sed magis amica veritas”）。尽管如此，尽管存在这种明显的教义冲突，新柏拉图哲学家、异教徒（如普罗提诺斯约 204-270 年和波菲里约 234-305 年）以及基督徒（如奥古斯丁 354-430 年和博伊修斯约 480-524 年）都认为柏拉图和亚里士多德的方法存在基本的一致性，认为亚里士多德解释了人类思维如何从经验中获得其对特定事物的普遍概念，而柏拉图则解释了特定事物的普遍特征是通过模仿它们的普遍原型来建立的。无论如何，正是这种对古代晚期问题的普遍态度为日益复杂的中世纪讨论奠定了基础。在这些讨论中，人类思维的概念被视为在所代表的特定事物之后产生的，因此被称为“事后普遍性”。特定事物固有的普遍特征被称为“事中普遍性”，回应了神圣思维中的普遍典范，即“事前普遍性”。所有这些，普遍概念、特定事物的普遍特征以及它们的典范，都是通过一些明显的普遍符号来表达和表示的，即人类语言中的普遍（或共同）术语。 例如，英语中的术语“man”是一个普遍性的术语，因为它可以真实地适用于所有人，具有相同的意义，而不是像“Socrates”这样的特定术语，它只能在同一意义上适用于一个人（因此需要在相同姓名的国王和教皇的名字后面添加序数）。
 
@@ -14,7 +14,7 @@
 
 在这个简要的总结中，我将从系统和历史的角度来考察这个问题。在下一节中，我将首先通过展示在简单的几何证明中我们如何得知普遍性主张（即涉及给定种类的潜在无限个体的问题），从而自然地引出关于普遍性的问题。我还将简要说明为什么纯粹的柏拉图式答案对这些问题来说是不足够的，尽管它一开始可能看起来很有道理。在第三节中，我将简要讨论中世纪关于普遍性的特定问题是如何出现的，特别是在回答波菲里在他对亚里士多德《范畴学》引言中提出的著名问题的背景下，这自然地将引导我们讨论博伊修斯在他对波菲里的第二篇评论中对这些问题的亚里士多德式答案。然而，博伊修斯的亚里士多德式答案只预见了中世纪讨论的一方面：世俗的、哲学的普遍性理论，即亚里士多德的抽象主义。但是，由博伊修斯和更重要的是圣奥古斯丁提供的另一重要的、新柏拉图式的、神学的问题的解决方案，对于中世纪的思想家来说，是神圣思维的创造性原型，即神圣思维的本体论上的原初普遍性，神圣理念。因此，第五节将讨论由这一理论引发的主要本体论和认识论问题，即神圣简单性与神圣理念的多样性之间的明显冲突，以及奥古斯丁的神圣启示论和亚里士多德的抽象主义之间的紧张关系。 在 12 世纪下半叶，亚里士多德的逻辑、形而上学和物理学著作以及阿拉伯的评论逐渐流传开来之前，早期中世纪博伊斯-亚里士多德方法与新柏拉图主义奥古斯丁传统的结合问题的一些细节将在第六部分中讨论，与阿贝拉尔德（1079-1142）对波菲里的问题的讨论有关。第七部分将讨论 13 世纪对该问题的特征性形而上学方法的一些细节，特别是它受到阿维森纳（980-1037）共性学说影响的塑造。第八部分概述了作为这一时期作者之间形而上学分歧共同背景的逻辑概念框架的最一般特征。我将论证，正是这个共同的逻辑-语义框架使得支持有时在形而上学和认识论上存在根本不同的作者（不仅在这一时期，在早期现代时期也是如此）被归为后期中世纪哲学中所谓的“现实主义”via antiqua，即哲学和神学的“旧方式”。相比之下，正是由威廉·奥卡姆（约 1280-1350）发起的根本不同的逻辑-语义方法，并由让·布里丹（约 1300-1358）最有力地阐述和系统化，从 14 世纪下半叶起，将“名义主义”via moderna，即哲学和神学的“现代方式”与众不同。这种“现代方式”的一般特点将在第九部分中讨论。 最后，第十节将简要指出，两条 viae 的分离，除了一些外在的社会因素之外，还导致了学术讨论的瓦解，从而导致了中世纪普遍性问题的消失，以及在早期现代哲学中以不同形式再次出现的同样问题的重新出现。
 
-## 2. 问题的出现
+## 问题的出现
 
 如果我们考虑一个几何证明，例如 Thales 定理的证明，就很容易看出普遍性问题是如何出现的。根据定理，任何一个内切于半圆的三角形都是直角三角形，如下图所示：
 
@@ -38,7 +38,7 @@
 
 但是这种实体的存在似乎相当不稳定。例如，考虑一下我们在证明泰勒斯定理时应该想象的完美三角形。如果它是一个完美的三角形，显然它必须有三条边，因为一个完美的三角形必须是一个三角形，而且除非它有三条边，否则什么都不能是一个三角形。但是这三条边中，至少有两条是相等的，或者一条也没有，也就是说，所讨论的三角形要么是等腰三角形，要么是不等边三角形（为了简单起见，广义地将“等腰三角形”包括在内，甚至包括等边三角形）。然而，由于它被假定为所有三角形的普遍模型，而不仅仅是等腰三角形，这个完美的三角形既不能是等腰三角形，出于同样的原因，它也不能是不等边三角形。因此，这样一个普遍三角形将具有不一致的属性，即既是等腰三角形或不等边三角形，又既不是等腰三角形也不是不等边三角形。然而，显然没有什么东西可以同时具有这些属性，所以没有什么可以是一个普遍三角形，就像没有圆的正方形一样。因此，显然，没有普遍三角形可以存在。那么，我们的证明是关于什么的呢？就在刚才，我们得出结论，它不能直接关于任何特定的三角形（因为它不是关于图中的三角形，甚至更不是关于图中没有的任何其他特定的三角形），现在我们不得不得出结论，它也不能关于一个普遍三角形。但是还有其他选择吗？显然，通过这个证明，我们确实获得了关于所有特定事物的普遍知识。然而，也很明显，我们并没有，事实上，我们不能通过检查所有特定事物来获得这种知识，因为它们是潜在无限的，并且没有一个完全满足证明中所述的条件。 因此，我们对普遍性的描述肯定存在问题，这迫使我们得出结论，根据这种描述，普遍性是不存在的。因此，我们面临着一系列关于普遍性的性质和特征的问题，如果我们想要知道普遍性、必然性知识是否可能存在，这些问题是不能被忽视的。
 
-## 3. 普遍性问题的起源
+## 普遍性问题的起源
 
 我们可以称之为“中世纪普遍性问题”的第一个表述（将其与逻辑上和历史上相关的柏拉图的形而上学理论问题区分开来），正是由波尔菲在他的《导论》中提出的这一系列问题，即他对亚里士多德《范畴学》的引言。正如他所写：
 
@@ -76,7 +76,7 @@
 
 然而，复杂化问题的是，普遍性似乎也不能存在于思维中。因为正如波修斯所说，存在于思维中的普遍性是对思维之外某个事物的普遍理解。但是，这种普遍理解要么与事物以相同方式被安排，要么与事物以不同方式被安排。如果它以相同方式被安排，那么事物也必须是普遍的，这样我们就陷入了一个真正存在的普遍性的问题。另一方面，如果它以不同方式被安排，那么它是错误的，因为“与事物不同的理解是错误的”（五篇文献，Spade 1994，第 23 页（21））。但是，这样一来，理解中的所有普遍性都必须是对其对象的错误表达；因此，普遍性知识将不可能存在，而我们的思考正是从这种知识的存在开始的，比如在几何知识的情况下似乎是清楚的。
 
-## 4. 波修斯的亚里士多德解决方案
+## 波修斯的亚里士多德解决方案
 
 Boethius 在这个问题上提出的解决方案在于拒绝最后一个论点，并指出“除了事物本身之外的理解都是错误”的原则的歧义性。在某种意义上，这个原则表明了一个显而易见的事实，即将事物描绘成与其实际不同的方式是错误的。这正是使这个原则看起来合理的解读。然而，在另一种意义上，这个原则将表明，如果理解的方式与事物的存在方式不同，那么这个理解就是错误的。但这显然是不合理的。一般来说，一个表达只有在表达方式与所表达事物的存在方式相匹配时才能是真实和忠实的。例如，一句书面语句是一句口语句子的真实和忠实的表达，尽管书面语句是可见的、空间上的字符序列，而口语句子是可听见的、时间上的语音模式。因此，以听觉模式存在的事物被以视觉方式表达，也就是说，所表达事物的存在方式与其表达方式完全不同。同样地，当特定的事物被普遍的思维行为所表达时，这些事物以特定的方式存在，而以普遍的方式被表达，但这并不意味着表达是错误的。但这正是反对意见所利用的原则的意义。因此，由于在这个意义上可以拒绝这个原则，所以反对意见并不具有决定性。[11]
 
@@ -92,7 +92,7 @@ Boethius 在这个问题上提出的解决方案在于拒绝最后一个论点�
 >
 > 我认为决定他们观点之间的合适性是不恰当的。因为那属于更高的哲学。但我们在这里仔细遵循了亚里士多德的观点，不是因为我们最推荐它，而是因为这本书（《范畴论》）是关于范畴的，而亚里士多德是作者。[五篇文本，Spade 1994，第 25 页]
 
-## 5. 柏拉图式的形式作为神圣的理念
+## 柏拉图式的形式作为神圣的理念
 
 除了博伊修斯，将新柏拉图哲学传统与中世纪拉丁西方的基督教联系起来，并指出其神学含义的最重要的中介者是圣奥古斯丁。在一段经常被中世纪作者引用的关于神圣理念的讨论中，他写道：
 
@@ -104,13 +104,13 @@ Boethius 在这个问题上提出的解决方案在于拒绝最后一个论点�
 
 那么，奥古斯丁的观念既保留了柏拉图最初的直觉，又没有其中的矛盾，同时还将他的哲学洞察力与基督教相结合。但是，通常情况下，一个真正引人入胜的哲学问题的解决方案通常会引发一系列进一步的问题。这个解决柏拉图形式的原始问题的解决方案也不例外。
 
-### 5.1 神的观念和神的简单性
+### 神的观念和神的简单性
 
 首先，它引发了一个关于上帝和祂的观念之间关系的特定本体论/神学问题。根据传统哲学对神圣完美的理解，上帝的完美要求祂是绝对简单的，没有任何部分的组合 [16]。因此，上帝和神圣心灵之间的关系不像人和他的心灵那样，即作为物质与其几个力量之一的关系，而是上帝拥有的任何力量都是祂自己。此外，神的观念本身不能被视为是神圣心灵的永恒产物，与神圣心灵以及上帝自己不同，因为唯一的永恒存在是上帝，其他一切都是祂的创造物。现在，既然这些观念不是创造物，而是上帝心灵中的创造物原型，它们就不能与上帝分离。然而，正如上面的段落所清楚表明的那样，有几个观念，而只有一个上帝。那么这些几个观念如何可能是同一个上帝呢？
 
 Augustine never explicitly raised the problem, but for example Aquinas, who (among others) did, provided the following rather intuitive solution for it (ST1, q. 15, a. 2). The Divine Ideas are in the Divine Mind as its objects, i.e., as the things understood. But the diversity of the objects of an act of understanding need not diversify the act itself (as when understanding the Pythagorean theorem, we understand both squares and triangles). Therefore, it is possible for the self-thinking divine essence to understand itself in a single act of understanding so perfectly that this act of understanding not only understands the divine essence as it is in itself, but also in respect of all possible ways in which it can be imperfectly participated by any finite creature. The cognition of the diversity of these diverse ways of participation accounts for the plurality of divine ideas. But since all these diverse ways are understood in a single eternal act of understanding, which is nothing but the act of divine being, and which in turn is again the divine essence itself, the multiplicity of ideas does not entail any corresponding multiplicity of the divine essence. To be sure, this solution may still give rise to the further questions as to what these diverse ways are, exactly how they are related to the divine essence, and how their diversity is compatible with the unity and simplicity of the ultimate object of divine thought, namely, divine essence itself. In fact, these are questions that were raised and discussed in detail by authors such as Henry of Ghent (c. 1217–1293), Thomas of Sutton (ca. 1250–1315), Duns Scotus (c. 1266–1308) and others.[[17](https://plato.stanford.edu/entries/universals-medieval/notes.html#note-17)]
 
-### 5.2 Illuminationism vs. Abstractionism
+### Illuminationism vs. Abstractionism
 
 与神学上的神圣观念教义相关的另一个重要问题，正如前面引用的段落所清楚表明的那样，是奥古斯丁关于神圣启示教义中涉及的一系列认识论问题。根据这一教义，人的灵魂，尤其是“一个圣洁纯净的灵魂”，在理解的行为中获得了一种特殊的超自然帮助，通过直接洞察神圣观念本身。这一教义在奥古斯丁的《自由意志论》中以典型的柏拉图式论证得到了哲学上的支持。[18] 这一论证可以重构如下。
 
@@ -223,7 +223,7 @@ Augustine never explicitly raised the problem, but for example Aquinas, who (amo
 
 尽管柏拉图主义在中世纪（以及以后）确实存活下来，以神圣理念、参与和启蒙的相互关联的教义的形式存在，但在阿贝拉尔德之后，普遍存在着相当普遍的亚里士多德共识 [27]，即物质存在的物种和属类的世俗普遍存在于人的心灵中，是心灵从其个体化条件中抽象出来的结果。但是，对于这些抽象出来的普遍存在，对于它们在心灵中存在的方式，它们与其个体的关系如何，它们在这些个体中的真实基础是什么，它们在构成我们的普遍知识中的作用是什么，以及它们如何在各种人类语言中对这种知识的编码和传播中起到贡献，尚未达成一致意见。因为尽管普遍存在的一般亚里士多德立场成功地处理了由天真的柏拉图主义本体论明显产生的不一致性，但它却引发了自身的进一步问题。
 
-## 6. 普遍性根据亚伯拉德的亚里士多德观念
+## 普遍性根据亚伯拉德的亚里士多德观念
 
 首先，亚伯拉德是第一个明确以这种形式处理普遍性问题的人。在他的《逻辑学》中，他相对容易地解决了被认为是真实实体的普遍形式，这些形式与博伊修斯的定义相对应，他得出结论：根据亚里士多德在《解释学》中对普遍性的定义，普遍词语才能被视为真正存在的普遍性。然而，由于根据亚里士多德在同一作品中的论述，词语之所以有意义，是因为它们在意义上表示了思维中的概念，亚伯拉德很快提出了以下问题：
 
@@ -245,7 +245,7 @@ Augustine never explicitly raised the problem, but for example Aquinas, who (amo
 
 I’m not suggesting that Abelard could not provide acceptable and coherent answers to these and similar questions and problems.[[35](https://plato.stanford.edu/entries/universals-medieval/notes.html#note-35)] But perhaps these problems also contributed to the fact that by the 13th century his doctrine of *status* was no longer in currency. Another historical factor that may have contributed to the waning of Abelard’s theory was probably the influence of the newly translated Aristotelian writings along with the Arabic commentaries that flooded the Latin West in the second half of the 12th century.
 
-## 7. Universal Natures in Singular Beings and in Singular Minds
+## Universal Natures in Singular Beings and in Singular Minds
 
 The most important influence in this period from our point of view came from Avicenna’s doctrine distinguishing the absolute consideration of a universal nature from what applies to the same nature in the subject in which it exists. The distinction is neatly summarized in the following passage.
 
@@ -275,7 +275,7 @@ So, to sum up, we have to distinguish here between the nature existing in this s
 
 的确，如果我们调查所谓“现实主义者”通过古代的方式进行哲学和神学之前的共同概念框架中需要区分的项目，我们就能够更加深入地了解威廉·奥卡姆引入的语义创新所带来的“现代方式”，即“名义主义者”通过现代方式挑战一些旧框架的基本原则，这些项目的调查和它们所产生的问题将使我们能够更加详细地了解奥卡姆创新的主要动机。
 
-## 8. 普遍性在古代之路中
+## 普遍性在古代之路中
 
 In this framework, we have first of all the universal or common terms of spoken and written languages, which are common on account of being imposed upon universal concepts of the human mind. The concepts themselves are universal on account of being obtained by the activity of the abstractive human mind from experiences of singulars. But the process of concept formation also involves various stages.
 
@@ -313,7 +313,7 @@ Figure 4. The *via antiqua* conception
 
 而这只是“根据术语的多样性来增加存在物的数量...然而，这是错误的，并且远离了真理”[47]。
 
-## 9. 普遍性在现代之路中
+## 普遍性在现代之路中
 
 当然，正如在古代之路框架内关于该框架中各种项目的同一性或非同一性的辩论所表明的那样，奥卡姆的指责并不完全成立 [48]。毕竟，几位古代之路的作者确实允许将属于各种类别的术语的意义进行等同，因此他们的“存在物的增加”不一定与术语的多样性相匹配。此外，由于古代之路的作者还区分了各种存在的模式或意义，允许各种“减少”的存在种类，例如理性存在物，因此他们的本体论承诺在这一段落中肯定不像奥卡姆所说的那样明确。然而，如果我们将上述古代之路框架的图表与奥卡姆引入的以下现代之路框架的示意图进行对比，我们可以立即理解奥卡姆创新的观点。
 
@@ -331,7 +331,7 @@ Figure 4. The *via antiqua* conception
 
 相比之下，使得现代途径更简单的是它“自动地”根据其语义原则已经实现了这些识别。在这种方法中，具体普通术语的意义仅仅是由相应概念直接表示的个体，术语的意义和（个人）指称从一开始就被认为是相同的个体。因此，这些普通术语无论是绝对的还是相对的，都绝对地指示和指称相同的事物，前提是术语是绝对的，或者相对于其他个体，前提是术语是内涵的。但即使在相对术语的情况下，例如相对术语（实际上，根据奥卡姆的说法，九个偶然范畴中的所有术语，除了某些抽象术语在品质范畴中）我们也不需要假设存在某些神秘的关系实体来告知个体物质的存在。例如，“父亲”这个术语不需要被解释为在我身上指示一种固有的关系，我的父性，以某种方式将我与我的儿子联系起来，并且因此在命题的背景下为我指称；相反，它应该被解释为在与我的儿子的关系中指示我，从而在命题的背景下为我指称，同时内涵着我的儿子。
 
-## 10. 途径的分离，以及晚中世纪哲学中的学院讨论的崩溃
+## 途径的分离，以及晚中世纪哲学中的学院讨论的崩溃
 
 现代途径的简单性吸引力，特别是在约翰·布里丹及其学生的著作中系统地阐述时，对晚中世纪的哲学和神学产生了巨大影响。可以肯定的是，许多熟悉两种方式的晚中世纪学者，会对多明戈·索托（1494-1560，自称“在名义主义者中出生，在实在主义者中成长”）所表达的观点表示共鸣，即虽然古代途径的实在主义教义更难理解，但名义主义途径的教义更难以相信。然而，名义主义途径的整体简单性和内在一致性是不可否认的，在 15 世纪时在欧洲所有主要大学中，无论是古老的还是新建立的，都有了强大的追随者。
 

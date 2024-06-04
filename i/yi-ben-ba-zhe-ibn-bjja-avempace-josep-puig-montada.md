@@ -14,7 +14,7 @@
 
 ---
 
-## 1. 生命和循环
+## 生命和循环
 
 阿布·巴克尔·穆罕默德·伊本·亚希亚·伊本·萨伊格·图吉比·伊本·巴哲被拉丁哲学家称为阿维森纳。我们可以假设他在 1085 年之前出生在萨拉戈萨，当时这座城市是巴努·胡德王国的首都。尤素夫·穆塔明·伊本·胡德在 1081 年至 1085 年间统治，他在包括数学在内的所有科学领域都非常出色，并且他在将城市发展为文化中心方面做出了很大贡献。他的继任者阿尔·穆斯塔因二世统治到 1110 年，当时他在瓦尔蒂埃拉战役中被阿拉贡的基督教国王阿方索击败。阿维森纳曾在阿尔·穆斯塔因二世·伊本·胡德的服务中，因为他在他的诗中赞美了他，显示出对埃米尔的熟悉（Maqqari-N：第 7 卷，第 25 页）（Ibn Khaqan 1989，第 943 页）。阿尔·穆斯塔因二世·伊本·胡德之后是伊玛德·阿德·道拉·伊本·胡德，他只在位几个月。同年，1110 年，他被阿尔莫拉维德苏丹阿里·伊本·尤素夫·伊本·塔什芬（统治 1107 年至 1143 年）推翻，后者派遣瓦伦西亚（和东部省）的阿尔莫拉维德军队的统治者阿布·阿卜杜拉·穆罕默德·伊本·哈吉来征服萨拉戈萨。伊玛德·阿德·道拉不得不离开城镇，退到离萨拉戈萨有一段距离的鲁埃达堡垒。
 
@@ -52,7 +52,7 @@
 
 阿布·贾法尔·尤素夫·伊本·哈斯迪搬到东方，从 1121 年到 1125 年为法蒂玛哈里发阿米尔的大臣阿尔·马穆恩·巴塔伊希工作。他为他写了关于希波克拉底的评论，并参与了在开罗建立一个被称为马穆尼天文台的观测站（Maqrizi 1913: 174–176）。当这位大臣在 1125 年陷入不幸时，天文台被拆除。邓洛普在阿维森纳的圈子中增加了一些名字，比如年轻的朋友阿布·哈桑·伊本·朱迪，但马利克·伊本·乌海卜，阿里·伊本·阿尔-伊玛姆和阿布·贾法尔·伊本·哈斯迪是他的圈子中杰出的人物。关于他的生活的资料，请参见附录 1。
 
-## 2. 科学的基础和组织
+## 科学的基础和组织
 
 伊本·阿尔·伊玛目（IB-coll-fakhry: 177–178）首次列出了阿维森纳的著作清单，随后由伊本·阿比·乌赛比亚在他的传记文献中继续（上述提及，1886 年，2001 年）。晚期的贾迈勒·阿尔·阿拉维（1983 年）首次进行了学术解释，他不仅描述了手稿和印刷品，还试图确定哪些作品被归属为阿维森纳的真迹，并建立起他的著作年表，基于此来绘制他思想发展的解释。
 
@@ -143,7 +143,7 @@ We shall soon see that astronomy occupies a particular place in the system becau
 
 这两种方法是互补的。在《动物书》中，阿维森纳并不坚持以三段论为科学建立的工具，而是指出了可以成为任何三段论一部分的命题中使用的元素、原理或问题。
 
-## 3. 逻辑
+## 逻辑
 
 阿维森纳将他对科学的分类插入了《入门论》，这是一篇旨在发现句子部分背后的简单普遍范畴的论文。他的导师阿里·法拉比从亚里士多德的《后分析学》中借用了关于定义的章节。阿里·法拉比还在句子的开头和列举句子部分时引入了“声音”（lafẓ）和“意义”（ma‛nà）之间的区别，并说：
 
@@ -201,7 +201,7 @@ The nine categories or sorts are parts of the syllogisms (IB-taaliq: 30. 18–19
 
 拓扑是由概念化产生的，不存在于灵魂之外。拓扑是非物质的，是一种普遍的（ʻamm）。在阿维森纳的理论中，“普遍的”有其特定的含义：它包括普遍性（kulliyat）和个别性，以及特定差异、定义及其部分、描述及其部分、属性、意外事件和伴随物等。“普遍的”有助于将拓扑理论提升为所有学科中的知识载体的综合理论。
 
-## 4. 数学科学
+## 数学科学
 
 阿尔巴拉格对阿维森纳智力发展的三个阶段的阐述与阿维森纳对科学的观点并不矛盾。事实上，阿里·法拉比在准备逻辑之外还活跃在这三个领域中。这三个三段论科学中的第一个是数学，它处理的是没有物质但具有数字和度量的对象。数学包含各种科学，其中包括音乐和天文学。
 
@@ -211,7 +211,7 @@ The nine categories or sorts are parts of the syllogisms (IB-taaliq: 30. 18–19
 
 阿尔巴拉格写了一封信给阿布·扎伊德·阿卜杜勒·拉赫曼·伊本·赛义德·穆汉迪斯（IB-coll-alawi: 84-87），关于佩加的阿波罗尼奥斯的圆锥曲线第一册（公元前 200 年）的一个初步问题。在给他的弟子阿里·伊本·阿尔-伊玛目（IB-coll-alawi: 88-96）的另一封信中，阿尔巴拉格提到伊本·赛义德是几何学中新程序的发现者。除了这封信外，他在《物理学评注》[16] 和《动物书》（IB-BA: 74）中还以简略的方式讨论了圆锥曲线。艾哈迈德·杰巴尔研究了伊本·赛义德和阿尔巴拉格，并得出结论，这两位安达卢西亚人在研究由圆锥曲线和非圆锥曲面相交产生的弯曲曲面方面具有创新性 [17]。
 
-## 5. 自然哲学和必然性
+## 自然哲学和必然性
 
 阿尔巴拉格对亚里士多德的著作进行了自由评论，并就个人兴趣的各种主题撰写了独立文章。我们并不总是确定他阅读的是哪个来源，以及它是完整的翻译还是摘要。在他对《气象学》的评论中，我们从保罗·莱廷克的版本和翻译中得知。莱廷克证明了阿尔巴拉格阅读了亚哈亚·伊本·阿尔-比特里克（约 830 年去世；彼特雷蒂斯 1967 年）修改过的《气象学》版本。
 
@@ -301,7 +301,7 @@ The nine categories or sorts are parts of the syllogisms (IB-taaliq: 30. 18–19
 
 作为阿维森纳的自然哲学超越了对运动、物质、时间和空间的分析，它延伸到必然性和可能性的形而上学原则，最终涉及人类行为。
 
-## 6. 灵魂与知识
+## 灵魂与知识
 
 我们已经在上面阅读到，物理学不仅关注可感知的对象（见上文），还关注精神对象，这使我们能够介绍阿维森纳的《灵魂》一书。该书由穆罕默德·萨吉尔·哈桑·阿尔-马苏米（IB-S1e）编辑和翻译，不幸的是他只能使用牛津手稿；柏林手稿更长，但结构不太连贯。2007 年，J. Lomba Fuentes 在他的西班牙译本（IB-S-lomba）中使用了两份手稿，D. Wirmer 也为他的德文版本（IB-S-Wirmer）做了同样的事情。
 
@@ -331,7 +331,7 @@ The nine categories or sorts are parts of the syllogisms (IB-taaliq: 30. 18–19
 
 最后，我们应该提到他为了辩护被指责否认死后生存的阿里·法拉比所写的文章。[26] 在那里，阿维森纳认为，由于人类具有超越感知的智性知识，并且通过内省实现，这是上帝赐予人类的礼物，人类在死后无需物质生存。
 
-## 7. 伦理学和形而上学
+## 伦理学和形而上学
 
 阿维森纳为我们阐述了他对知识组织和自然世界结构的观点，但我们还没有详细阐述他关于形而上学的正确观念，以及关于伦理学和政治学这些旨在研究人类意愿和选择产生的科学。
 
@@ -410,7 +410,7 @@ For a complementing bibliography, see Rashaq 2016.
 
 ### A. Primary Literature
 
-#### 1. Cited Works by Ibn Bâjja
+#### Cited Works by Ibn Bâjja
 
 ##### Collections
 
@@ -492,7 +492,7 @@ For a complementing bibliography, see Rashaq 2016.
 
 * Asín Palacios, Miguel, 1940, “Avempace botánico”, *Al-Andalus*, 5: 255–299.
 
-#### 2. Other Works by Ibn Bâjja: in Books
+#### Other Works by Ibn Bâjja: in Books
 
 * –––, 1976, *Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi*, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab.
 * –––, 1978b, *Kitab tadbir al-mutawahhid*, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
@@ -504,7 +504,7 @@ For a complementing bibliography, see Rashaq 2016.
 * –––, 2009, *Kalam fì l-qiyas*, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
 * –––, 2021, *Commentary on Aristotle’s* On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
 
-#### 3. Other Works by Ibn Bâjja: in Articles or Chapters
+#### Other Works by Ibn Bâjja: in Articles or Chapters
 
 * Ahwani, Ahmad Fu’ad, 1951, “Risalat al-ittisal li-Abi Bakr ibn as-Sa’igh”, in *Talkhis kitab an-nafs li-Abi l-Walid Ibn Rushd wa-arba‛ rasa’il*, Cairo: Maktabat an-Nahḍa al-Misriyya, pp. 102–118.
 * Druart, Thérèse-Anne, 1980, “Le traité d’Avempace sur « Les choses au moyen desquelles on peut connaître l’intellect agent »” *Bulletin de Philosophie Médiévale*, 22: 73–77. doi:10.1484/J.BPM.3.258
@@ -521,7 +521,7 @@ For a complementing bibliography, see Rashaq 2016.
 * Rachak , Jamal, 2021, “Statut et rôle de la logique chez Ibn Bājja (d. 1139). (Publication d’un texte ignoré),” *Rivages*, 6: 157–88 [edition of Fī funūn shatá].
 * Tornero, Emilio, 1983, “Dos epístolas de Avempace: Sobre el móvil y sobre la facultad impulsiva”, *Al-Qanṭara: Revista de Estudios Árabes*, 4: 5–21.
 
-#### 4. Primary Literature By Others
+#### Primary Literature By Others
 
 * Damascenus, Nicolaus (fl. late 1st century BCE), 1989, *De plantis: Five translations*, (Aristoteles Semitico-latinus), H.J. Drossaart Lulofs and E.L.J. Poortman (eds.), Amsterdam: North-Holland.
 * Dhahabi, Muhammad ibn Ahmad (1274–1348), 1995, *Tarikh al-Islam wa-wafayat al-mashahir wa-l-a‛lam*, vol. 36, years 521–540 AH, Beirut: Dar al-Kitab al-‛Arabi.

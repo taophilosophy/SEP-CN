@@ -6,7 +6,7 @@
 
 ---
 
-## 1. 生平与著作
+## 生平与著作
 
 由于普罗克洛斯的现存作品几乎没有关于他的传记的证据，我们必须依靠他的直接学生尼阿波利斯的马林纳斯在他对前任普罗克洛斯或幸福的赞美中传递的信息，或者在达玛修斯的伊西多鲁斯生平（其他学者称之为哲学史）中找到有关普罗克洛斯的零散言论和有价值的有关雅典和亚历山大学派的信息。与波菲里的普罗提诺斯生平一样，马林纳斯和达玛修斯的作品都是学生写的传记，广泛赞扬他们的老师在学说和哲学生活方面的成就。
 
@@ -22,7 +22,7 @@
 
 在普罗克洛斯（Proclus）去世后（437 年），柏拉图学派的领导职位由他接任，并一直担任该职位近 50 年，直到他于 485 年去世。他一天的紧张日程从日出时向太阳祈祷开始（中午和日落时重复），包括讲座、阅读研讨会、与学生的讨论以及自己的文学创作。除了哲学活动外，马林努斯（Marinus）还将普罗克洛斯描绘为一位经验丰富的神秘学实践者（《普罗克洛斯传》第 28-29 节；关于神秘学，请参见下文 3.6）。这些异教仪式的实践只能在学校的私人领域继续进行。尽管普罗克洛斯在雅典是一位备受尊敬的哲学家，并且有一些基督教学生，但他必须谨慎以避免反异教的反应。马林努斯说他不得不流亡利迪亚（亚洲）一年左右以避免困难（《普罗克洛斯传》第 15 节）。
 
-### 1.2 作品（现存和失传）
+### 作品（现存和失传）
 
 马林努斯指出普罗克洛斯是一位非常勤奋的作家，对工作有着“无限的热爱”（《普罗克洛斯传》第 22 节）。除了繁重的教学任务和其他几项承诺外，普罗克洛斯每天写约 700 行（约 20-25 页）。普罗克洛斯可能并没有出版所有这些作品。然而，从普罗克洛斯现存的作品和关于他失传作品的信息来看，他确实是一位多产的作家。普罗克洛斯约三分之二的作品现已失传，其中一些作品，尤其是他对柏拉图的评论，以残缺的形式传世。
 
@@ -36,7 +36,7 @@
 
 普罗克洛斯（Proclus）的作品年代难以确定。《柏拉图神学》（The Platonic Theology）通常被认为是他的最后一部作品。在写作《神学》时，普罗克洛斯在很大程度上依赖于他对《巴门尼德》（Parmenides）的解释，并经常提到他对这篇对话的评论，这些评论在此之前应该已经完成。根据马林努斯（Marinus）的记载（《普罗克洛斯传》第 13 节），普罗克洛斯在 27 岁时完成了对《蒂迈欧》（Timaeus）的评论。然而，不能排除普罗克洛斯后来对其进行了重写或修改的可能性。由于阿尔基比亚德（Alcibiades）是学校课程的开头，它的评论可能也是早期的作品。《理想国评论》（Commentary on the Republic）不是一篇正式的评论，而是关于这篇对话中的问题和部分内容的几篇论文的集合。这些论文可能是普罗克洛斯一生中不同时间写的，只是后来由普罗克洛斯本人或其他人整理在一起。《天文学假设的阐述》（Exposition of Astronomical Hypotheses）是普罗克洛斯在被流放到利迪亚之后的一年写的，但我们不知道具体是什么时候。《三篇小论文》（Tria opuscula）都涉及类似的主题，但它们不一定是同时创作的。有合理的论据认为第二篇论文《关于我们所依赖的事物》（On What Depends on Us）是在迫使普罗克洛斯流亡之后的几年写的。第一篇论文在某些部分非常依赖于普鲁塔克（Plutarch，公元 1-2 世纪），可能在他的职业生涯早期。它还包含了关于邪恶本质的讨论，比起《邪恶存在论》（On the Existence of Evils）来说，后者更为复杂，可能是后来创作的。由于其介绍性的特点，人们可能倾向于将《物理学要素》（Elements of Physics）视为早期作品。这也适用于《神学要素》（Elements of Theology），然而，它展示了普罗克洛斯成熟思想的所有复杂性。普罗克洛斯可能在职业生涯中多次修订了这篇文章。
 
-## 2. 柏拉图的评论者
+## 柏拉图的评论者
 
 普罗克洛斯广泛的著作的核心无疑是他对柏拉图的解释，这可以从他对主要对话进行的大量评论中看出。这种柏拉图的关注也体现在他系统性著作的构成上。《柏拉图神学》系统地阐述了基于对柏拉图对话中有关神和他们属性的所有相关部分的解释的神学。特别是对《巴门尼德》的解释，被认为是所有对话中最具神学性的。普罗克洛斯可能对学校课程中包括的所有对话进行了评论，自从伊安布利科斯以来。此外，普罗克洛斯还写了上述的《理想国》评论。课程总共包括 12 个对话，分为两个周期。第一个周期从《阿尔基比亚德》（关于自我认知）开始，以《菲勒伯斯》（关于一切事物的最终原因：善）结束，包括两个关于伦理学的对话（《戈尔吉亚斯》和《费多》），两个关于逻辑学的对话（《克拉底鲁》和《泰阿泰德》），两个关于物理学的对话（《索菲斯特》和《政治家》），以及两个关于神学的对话（《菲德鲁斯》和《饮宴篇》）。第二个周期包括两个被认为涵盖了柏拉图整个哲学的完美对话（《蒂迈欧》和《巴门尼德》）。
 
@@ -56,13 +56,13 @@
 
 继承柏拉图的思想，亚里士多德在他的《物理学》中解释了自然事物的一般原理：形式、物质、性质、运动的本质和原理、时间和空间；再次受到《蒂迈欧篇》的启发，他在其他作品中研究了物质世界不同地区的特定原理，如在《天体论》中研究了天体和亚月界，在《物种生成与毁灭》和《气象学》中研究了亚月界。在这个领域，不可否认的是，亚里士多德比他的老师做得更多。然而，根据普罗克洛斯的说法，他在这个主题上“超出了所需”。对于亚里士多德广泛的动物学研究也可以做出同样的评论。而柏拉图在《蒂迈欧篇》中仅仅局限于对所有生物的基本原理进行分析，亚里士多德则更多地关注动物的物质组成部分，几乎没有从形式的角度考虑有机体，而且只在少数情况下才这样做。相反，柏拉图在解释物质世界时，从未迷失在详细的考察中。
 
-## 3. 哲学观点
+## 哲学观点
 
 在确定普罗克洛斯作为哲学家的特点时，必须记住柏拉图主义者不喜欢在柏拉图的教义中引入新的元素。他们鄙视创新（kainotomia）。然而，不可否认的是，新柏拉图主义哲学与我们在柏拉图的对话中所读到的有很大的不同。学派内也有大量关于正确解释柏拉图或某些教义观点（如“一”的超越性，或者灵魂是否完全来自可理解的世界）的持续讨论的证据。为了评估普罗克洛斯的独创性，应该将他的观点与之前的新柏拉图主义者（如普罗提诺、波菲利、亚比库斯和塞里亚努斯）进行比较。只有在普罗提诺斯的情况下，这在很大程度上是可能的，因为我们仍然拥有普罗提诺斯著作的完整文集。普罗克洛斯肯定钦佩这个新柏拉图主义的第一位“创始人”，甚至专门为《恩涅阿德》写了一篇评论，可惜我们只有一些片段。他与普罗提诺斯在三个主要本质（“一”、“理智”和“灵魂”）的观点上是一致的，并且经常使用受普罗提诺斯阅读启发的语言，比如他对灵魂与无法言喻的“一”的合一的描述。然而，在许多观点上，他对普罗提诺斯非常批判，指出矛盾之处，拒绝挑衅性观点，比如“一”是自身的原因（causa sui）的论点，未下降灵魂的教义，或者将邪恶与物质等同起来。与普罗提诺斯（和波菲利）的另一个根本区别是对神秘学对灵魂的救赎和迦勒底神谕的权威性所赋予的重要性。
 
 正如前面所说，要将普罗克洛斯与他的老师西里安努斯区分开来是非常困难的，因为他从未批评过这位唯一的前辈。关于西里安努斯的文学作品，我们只有他对亚里士多德的《形而上学》的评论。可能西里安努斯关于柏拉图的大部分课程从未出版，而是由普罗克洛斯自己继续并进一步完善。然而，我们有赫梅斯对《费德鲁斯篇》的评论，他是与普罗克洛斯一起在西里安努斯的课程中学习的。人们会有这样的印象，西里安努斯对奥菲斯神话学非常感兴趣，而对于普罗克洛斯来说，卡尔达诺神谕更具权威性，因为它们有助于发展柏拉图的神学。但是在这里，由于我们没有普罗克洛斯自己的评论，所以很难进行比较。普罗克洛斯到底是不是如此独创，只是一位出色的教师和新柏拉图主义学派的出色系统化者呢？我们永远不会知道，而且在评估他的作品的哲学价值时，这并不重要。为了赞扬普罗克洛斯的哲学成就，马林努斯在《普罗克洛斯传》中专门讨论了我们归功于他的学说（§ 23）。令人惊讶的是，尽管他对这位大师非常钦佩，但他只能列举出一些创新的学说；而且它们的重要性如此之小，以至于我们甚至不会在本文中讨论它们。
 
-### 3.1 形而上学和神学
+### 形而上学和神学
 
 在晚期古代，亚里士多德的《形而上学》被认为是一部神学著作，因为亚里士多德在这部论文中探讨了一切存在的第一原理：
 
@@ -82,7 +82,7 @@
 
 然而，普罗克洛斯也将这一原理应用于解释新柏拉图形而最困难的问题，即如何理解多元从一而来的过程。当一必须以某种方式成为任何和所有多元的原因时，一如何完全没有多样性？一在自身中保持绝对的非参与性；从一中产生的许多不同存在参与了一系列参与的亨纳德或统一体（神）。一些学者认为这是伊安布利科斯引入的创新教义，而其他人则将其归功于普罗克洛斯的老师叙利亚努斯。即使这一教义并非源自伊安布利科斯本人，神圣亨纳德的存在也以某种方式遵循了他的中间术语法则。这一法则规定：“每个产生的原因在不同之前会产生与自身相似的事物。”（神学要素 § 28）。因此，在存在的链条中没有跳跃，一切都通过相似的术语相互连接。亨纳德履行了这一功能，因为作为参与的统一体，它们弥合了超越的一和随后出现的一切之间的差距。亨纳德的教义因此可以被看作是将希腊多神教传统中的传统神祇融入新柏拉图形而的方式。
 
-### 3.2 因果关系
+### 因果关系
 
 辅助和真正的原因。从中期柏拉图主义开始，人们试图将亚里士多德的原因学说融入柏拉图哲学中（参见 Steel 2003）。据认为，在柏拉图的著作中，可以找到亚里士多德所区分的四种因果关系，即形式、物质、效果和目的，以及亚里士多德错误地拒绝的典范性原因。这种原因体系（加上作为第六种的工具原因）在后来的新柏拉图主义中成为标准。在他对《蒂迈欧篇》的评论中，普罗克洛斯观察到亚里士多德从未达到适当的因果水平。因为亚里士多德所理解的四种原因只能应用于解释亚月界世界中的过程。然而，在柏拉图的观点中，物质和形式原因只是辅助或工具性的原因。这些原因实际上存在于它们的效果中，并构成它们所产生的事物的组成要素。正如普罗克洛斯在《神学要素》的第 75 命题中所断言的那样：“存在于效果中的东西不是一种原因，而是一种辅助原因（sunaition）或制造者的工具。”真正的原因必须从外部对其效果产生作用，并超越它们。普罗克洛斯认为，要正确理解万物的真正原因，必须追随柏拉图，他将我们提升到超越形式的层面，并让我们发现创造者的创造性因果关系以及善的目的作为一切渴望的最终解释。
 
@@ -98,7 +98,7 @@ b. 实体和非实体原因。斯多亚学派认为，只有物质和物质的�
 
 c. 因果关系与其效果之间的关系。原因与其效果之间的关系既有相似之处，又有不同之处。因为每个原因都会产生与其相似的东西，因此每个效果都类似于其原因，尽管以次要和不完美的方式。但是，只要效果真正与其原因有所区别，它就会获得自己独特的存在形式，这在其原因的层次上尚未发展。因此，每个事物可以说以三种方式存在（Elem. Theol. § 65）。首先，它以自身的方式存在，以正式地表达其自身的特征（kath’ hyparxin）。其次，它以因果方式存在，作为其原因中的预期。最后，它以参与方式存在，由下一个层次的存在（即其效果）参与。因此，生命是作为生物有机体的属性而存在，因为它被其参与。生命正式地表征了灵魂。生命也以形式的方式存在于神圣的心灵中。最后，普罗克洛斯强调，原因越高，其包容性越强，其效果越远及（Elem. Theol. § 57）。包括物质在内的所有事物（除了存在于其中的形式之外），都参与于“一”；所有存在参与于“存在”；所有植物和动物参与于“生命”；所有理性灵魂参与于“智慧”。
 
-### 3.3 心理学与认识论
+### 心理学与认识论
 
 普罗克洛斯的认识论根植于他对灵魂的理论。对于普罗克洛斯来说，灵魂作为自我运动的原则代表了能够自我回归的实体的最低层次（所谓的自构成存在 [authypostata]，见《神学要素》§ 40-51）。它们是非物质的，可以与身体分离，并且是不可摧毁/不朽的（《神学要素》§ 186-7）。然而，它们是生命和身体运动的原则（《神学要素》§ 188）。根据普罗克洛斯的一般形而上学原则（参见上文 3.1），未参与的灵魂单子产生了不同种类的参与灵魂：神圣的灵魂、恶魔的灵魂、人类的灵魂、动物的灵魂）。与其他柏拉图主义者一样，普罗克洛斯经常讨论一个令人困惑的问题，即为什么灵魂会降临到身体中（“灵魂的堕落”）（见 Dörrie / Baltes（2002.2）163-218）。此外，新柏拉图主义者区分了三种所谓的灵魂载体（ochêmata）。理性灵魂永久驻留在明亮的载体中，而非理性灵魂位于气体载体中。通过降临到人体中，灵魂，或者说植物灵魂，因此获得了（第三个）“壳状”载体。不同载体或心灵“星体”的理论，现今在现代神秘学理论中已经很常见，对新柏拉图主义心理学起到了几个关键作用：它解释了（a）非物质灵魂如何与身体相连，（b）灵魂如何在空间中移动，（c）灵魂如何在死后受到惩罚（参见柏拉图的神话），（d）灵魂的某些能力（如想象力）位于何处。普罗克洛斯区分了两种载体，一种是有限的，另一种是不朽的（《蒂迈欧篇》III 236.31 及《神学要素》§ 207-210）。普罗克洛斯还坚持柏拉图的转世理论，但他认为人类灵魂永远不会进入动物身体作为其构成形式。因为只有动物灵魂才能成为动物身体的组织原则。 如果一些理性的灵魂在来世因为在这一生中的不端行为而被“降级”，被迫生活在动物的身体中，他们只是与这个动物身体“关联”（schesei）存在。
 
@@ -110,7 +110,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 普罗克洛斯详细论证了人类灵魂必须包含先天知识。因此，不应将其视为一张空白的写字板，就像亚里士多德所做的那样（亚里士多德，《论灵魂》III 4）。他错误地断言灵魂潜在地包含了一切事物。根据普罗克洛斯的观点，灵魂实际上包含了一切事物（即所有的 logoi），尽管由于“诞生的冲击”，灵魂似乎已经陷入了潜在性。在《克拉底鲁斯篇》第 61 节，普罗克洛斯断言灵魂并不像一张空白的写字板（agraphon grammateion），也不具备一切事物的潜在性，而是具有实际性。在欧几里得《几何原本》16.8-13 中表达了同样的观点：“灵魂不是一张没有 logoi 的写字板，而是始终被书写、始终在书写自己，并被智慧所书写。”与他的数学哲学一样，普罗克洛斯对普遍概念是从感性对象中派生出来的观点进行了详细批评（通过抽象、归纳或集合）。在他对柏拉图《巴门尼德斯篇》的评论的第四卷和对欧几里得的评论的两个序言中，我们发现了古代对抽象主义最全面的批评（参见 Helmig（2010）和（2012）205-221）。
 
-### 3.4 伦理学（普罗维登斯、命运、自由选择、邪恶）
+### 伦理学（普罗维登斯、命运、自由选择、邪恶）
 
 普罗克洛斯专门撰写了三本完整的书籍或“专题论文”（单一书籍）来探讨命运、自由选择和邪恶的问题。第一篇论文（关于命运的十个问题）探讨了在柏拉图学派中常常讨论的十个关于命运的问题。对于普罗克洛斯来说，命运（pronoia）是第一原则（“善的源泉”）和众神（henads）的仁慈活动，他们的存在在智力之前（pro-nou）。其中一个讨论的问题是神圣预知和人类自由选择如何能够和谐共存的问题。因为如果上帝不仅知道过去和现在，还知道未来事件，那么未来事件的结果已经被预定（因为上帝对所有事物有确定的知识），因此人类没有自由选择。普罗克洛斯的答案，最终可以追溯到伊安布利科斯，是应用了认识方式不是由所认识的对象决定，而是由认识者决定的原则。对于众神来说，这意味着他们以非必然的方式认识到偶然事件，以不变的方式认识到可变的事物。他们对分裂的事物有一个统一的认识，对时间性的事物有一个超越时间的认识（Elem. Theol. § 124，参见 De decem dub. § 6–8）。普罗克洛斯的答案后来被阿蒙尼乌斯在他对《解释学》第九篇的评论中采纳，并在博伊西的《哲学慰藉》第五篇第六章以及他对《解释学》第九篇的评论中采纳。
 
@@ -134,7 +134,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 亚略巴古的狄奥尼修斯在他的《神圣名字论》中采纳了普罗克洛斯关于邪恶的观点。由于这种改编，普罗克洛斯关于邪恶的教义对后来拜占庭和拉丁西方关于邪恶的讨论产生了巨大影响，并主导了直到 19 世纪的邪恶哲学辩论。
 
-### 3.5 物理学、天文学和数学
+### 物理学、天文学和数学
 
 #### 一种神学物理学
 
@@ -178,7 +178,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 普罗克洛斯对物理学和天文学的独特非经验主义方法也影响了他对数学的哲学观点，这些观点在他对欧几里得《几何原本》第一卷的评论的两个序言中得到了阐述。第一个序言涉及数学科学的一般性质，而第二个序言则专注于几何学本身。普罗克洛斯详细论证了数学科学的对象不能通过抽象从感性的个别事物中得出。由于感性对象的不完善和不足，我们无法从中得出与数学对象一样完美和精确的对象。因此，数学对象首先存在于智力中，其次存在于灵魂中（作为 logoi）。作为普遍概念（参见 3.2），我们可以通过回忆（anamnêsis）的方式理解数学对象。由于几何对象不是普遍的，而是个别的，并且根据定义具有延伸性，普罗克洛斯认为它们的位置在于人类的想象力（phantasia）。想象力充当镜子，并为灵魂通过投射到其中的可理解物质提供数学对象。通过后者，几何对象获得了延伸性和个别性。与物理学和天文学一样，几何学的最终目标不是研究这些延伸的、物质的对象。相反，几何学承担着一项启蒙任务（就像在柏拉图的《理想国》中一样），将灵魂引向对神圣思维中几何对象真正的、非延伸的原因的研究（在欧几里得 54.14-56.22 中）。
 
-### 3.6 饰演神秘角色
+### 饰演神秘角色
 
 依靠柏拉图，泰阿泰德 176a-b 晚期柏拉图主义者将与神的同化（homoiôsis theôi）视为哲学的目标（telos）。普罗克洛斯忠于这一理想，他的传记作者马林努斯（普罗克洛斯传 § 25）证实了这一点。晚期新柏拉图主义中存在着关于人类如何实现与神的同化的基本讨论。达玛修斯（In Phaed. I § 172 Westerink）区分了两种倾向：普罗提诺和波菲利更倾向于哲学，通过理性解释使我们理解现实中的神圣原理，而伊安布利科斯及其追随者、西里努斯和普罗克洛斯则更重视神秘实践或神秘术（theourgia, hieratikê [sc. technê]）。他们对理论和神秘术作为救赎手段的不同评价可能可以通过他们对人类灵魂及其升入神圣领域的可能性的不同观点来解释。普罗提诺和波菲利声称人类灵魂的上部始终停留在可理解的领域中，与神圣原理接触，并且从未完全降临到身体中，而伊安布利科斯和普罗克洛斯批评了这种观点。灵魂确实完全降临到身体中（Steel 1978, 34–51）。因此，神灵们设立的神秘仪式的重要性就在于使人类灵魂能够克服凡人与神圣之间的距离，而这是通过增加哲学理解力无法实现的。在《柏拉图神学》I 25 中，普罗克洛斯对神秘术的强大力量表示了极大的钦佩，这种力量超越了一切人类知识。
 
@@ -194,7 +194,7 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 > 那些急于与善相结合的人，不再需要知识和行动，而是需要建立和稳定的状态和宁静。那么，是什么将我们与善相结合？是什么使我们停止活动和运动？是什么将所有神圣的本质都建立在善的第一和难以言喻的统一之中？[...] 简而言之，是神的信仰（pistis），它难以言喻地将所有神、恶魔和幸福的灵魂与善相结合。因为我们应该通过神圣的光来探索善，而不是通过知识（gnôstikôs）和不完全的方式，闭上眼睛，这样就能在未知和隐秘的存在统一中得到确立。因为这种信仰比认知活动更值得尊敬，不仅在我们身上，而且在神明们身上也是如此。（普罗克洛斯，《柏拉图神学》，I 25，翻译：Th. Taylor，修改）
 
-## 4. 影响力
+## 影响力
 
 在他关于哲学史的讲座中，在亚历山大哲学章节中，黑格尔说：“在普罗克洛斯身上，我们看到了新柏拉图哲学的顶峰；这种哲学方法在后来的时代中得以延续，甚至贯穿整个中世纪。[...] 尽管新柏拉图学派在外表上已经消失，但新柏拉图主义者的思想，特别是普罗克洛斯的哲学，在教会中长期得到维护和保留。”
 
@@ -215,13 +215,13 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 
 ### Proclus’ Main Extant Works (editions and translations)
 
-#### 1. Elements of Theology
+#### Elements of Theology
 
 * Dodds, E.R., 1933, 19632, *The Elements of Theology*, Oxford: Clarendon.
 * Boese, H., 1987, *Proclus: Elementatio theologica, translata a Guillelmo de Morbecca*, (Series: KUL, Ancient and medieval philosophy, De Wulf-Mansion centre, Series, 1, vol. 5), Leuven: Leuven University Press.
 * Onnasch, E.-O., and B. Schomakers, 2015, *Proklos: Theologische Grundlegung, Griechisch-Deutsch, übersetzt und mit einer Einleitung sowie einem durchgängigen erläuternden Kommentar versehen*, (Series: Philosophische Bibliothek, 562), Hamburg: Felix Meiner Verlag.
 
-#### 2. Platonic Theology
+#### Platonic Theology
 
 * Saffrey, H.D., and L.G. Westerink, 1968–1997, *Proclus: Théologie platonicienne*, 6 vol., (Series: Collection des Universités de France), Paris: Les Belles Lettres.
 * Taylor, Th, 1816, *Proclus’ Theology of Plato*, (Series: The Thomas Taylor Series, VIII), London: Prometheus Trust. [Reprint]
@@ -231,34 +231,34 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 * Boese, H., 1960, *Procli Diadochi tria opuscula (De providentia, libertate, malo) Latine Guilelmo de Moerbeka vertente et graece ex Isaacii Sebastocratoris aliorumque scriptis collecta*, (Series: Quellen und Studien zur Geschichte der Philosophie, 1), Berlin: de Gruyter.
 * Strobel, B., 2014, *Proklos: Tria opuscula*. *Textkritisch kommentierte Retroversion der Übersetzung Wilhelms von Moerbeke*, (Series: Commentaria in Aristotelem Graeca et Byzantina, Quellen und Studien, 6), Berlin: de Gruyter.
 
-#### 3. Ten Problems Concerning Providence
+#### Ten Problems Concerning Providence
 
 * Isaac, D., 1977, *Proclus: Trois études sur la providence, I. Dix problèmes concernant la providence*, (Series: Collection des Universités de France), Paris: Les Belles Lettres.
 * Opsomer, J. and Steel, C., 2012, *Proclus: Ten Doubts Concerning Providence*, (Series: The Greek commentators on Aristotle, 93), London: Duckworth.
 
-#### 4. On Providence, Fate and What Depends on Us
+#### On Providence, Fate and What Depends on Us
 
 * Isaac, D., 1979, *Proclus: Trois études sur la providence, II. Providence, fatalité, liberté*, (Series: Collection des Universités de France), Paris: Les Belles Lettres.
 * Steel, C., 2007, *Proclus: On Providence*, (Series: The Greek commentators on Aristotle), London: Duckworth.
 
-#### 5. On the Existence of Evils
+#### On the Existence of Evils
 
 * Isaac, D., 1982, *Proclus: Trois études sur la providence, III. De l’existence du mal*, (Series: Collection des Universités de France), Paris: Les Belles Lettres.
 * Opsomer, J., and C. Steel, 2003, *Proclus: On the Existence of Evils*, (Series: The Greek commentators on Aristotle, 50), London: Duckworth.
 
-#### 6. Commentary on Plato’s Alcibiades (up to 116b)
+#### Commentary on Plato’s Alcibiades (up to 116b)
 
 * Segonds, A.-Ph., 1985–1986, *Proclus: Sur le premier Alcibiade de Platon*, 2 vol., (Series: Collection des Universités de France), Paris: Les Belles Lettres.
 * Westerink, L.G., 1954, *Proclus Diadochus. Commentary on the First Alcibiades*, Amsterdam: North-Holland Publishing Company.
 * O’Neill, W., 1964, 19712, *Proclus: Alcibiades I*, The Hague: Martinus Nijhoff.
 * Westerink, L.G., and O’Neill, W., 2011, *Proclus’ Commentary on the First Alcibiades*, (Series: Platonic Texts and Translations), Westbury: the Prometheus Trust.
 
-#### 7. Commentary on Plato’s Cratylus (up to 407c)
+#### Commentary on Plato’s Cratylus (up to 407c)
 
 * Pasquali, G., 1908, *Proclus Diadochus in Platonis Cratylum commentaria*, (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner [Reprint Stuttgart: Teubner, 1994].
 * Duvick, B., 2007, *Proclus. On Plato’s Cratylus*, (Series: The Ancient Commentators on Aristotle), London: Duckworth.
 
-#### 8. Commentary on Plato’s Timaeus (up to 44d)
+#### Commentary on Plato’s Timaeus (up to 44d)
 
 * Diehl, E., 1903–1906, *Procli Diadochi In Platonis Timaeum commentaria*, (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner [Reprint Amsterdam: Hakkert, 1965].
 * Festugière, A.-J., 1966–1968, *Commentaire sur le Timée*, 5 vol., (Series: Bibliothèque des textes philosophiques), Paris: Vrin.
@@ -269,49 +269,49 @@ c. 因果关系与其效果之间的关系。原因与其效果之间的关系�
 * Baltzly, D., 2013, *Proclus. Commentary on Plato’s Timaeus. Vol. 5, book IV: Proclus on Time and the Stars*, Cambridge: Cambridge University Press.
 * Tarrant, H., 2017, *Proclus. Commentary on Plato’s Timaeus. Vol. 6, book V: Proclus on the Gods of Generation and the Creation of Humans*, Cambridge: Cambridge University Press.
 
-#### 9. Commentary on Plato’s Parmenides (up to 142a)
+#### Commentary on Plato’s Parmenides (up to 142a)
 
 * Steel, C., 2007–2009, *Procli in Platonis Parmenidem commentaria* (edition prepared with the collaboration of P. d’Hoine, A. Gribbomont, C. Macé and L. Van Campe) (Series: Oxford Classical Texts), 3 volumes, Oxford: Clarendon Press.
 * Segonds, A.-Ph., and C. Luna, 2007–2017, *Proclus.* *Commentaire sur le Parménide de Platon*, 6 vols, (Series: Collection des Universités de France), Paris: Les Belles Lettres (on this edition see C. Steel, *Mnemosyne* 63 (2010), 120–142 and *idem*, 2013, “Corrections and Hypercorrections: On a Recent Edition of Proclus’ *Commentary on the Parmenides*,” *Aevum: Rassegna di Scienze Storiche, Linguistiche e Filologiche* 87: 215–248).
 * Morrow, G.R., and J.M. Dillon, 1987, *Proclus’ commentary on Plato’s Parmenides*, Princeton (New Jersey): Princeton University Press.
 
-#### 10. Commentary on Plato’s Republic (in different essays)
+#### Commentary on Plato’s Republic (in different essays)
 
 * Kroll, W., 1899–1901, *Procli Diadochi in Platonis rem publicam commentarii*, 2 vol., (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner [Reprint Amsterdam: Hakkert, 1965].
 * Festugière, A.-J., 1970, *Proclus: Commentaire sur la république*, 3 vol., (Series: Bibliothèque des textes philosophiques), Paris: Vrin.
 * Baltzly, D., J.F. Finamore, and G. Miles, 2018, *Proclus. Commentary on Plato’s Republic. Vol. I, Essays 1–6*, Cambridge: Cambridge University Press.
 
-#### 11. Elements of Physics
+#### Elements of Physics
 
 * Ritzenfeld, A., 1912, *Procli Diadochi Lycii institutio physica*, (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner.
 * Boese, H., 1958, *Die mittelalterliche Übersetzung der Stoicheiosis phusike des Proclus*, (Series: Deutsche Akademie der Wissenschaften zu Berlin, Institut für griechisch-römische Altertumskunde, Veröffentlichungen 6), Berlin: Akademie Verlag.
 
-#### 12. Commentary on Euclid’s Elements, Book I
+#### Commentary on Euclid’s Elements, Book I
 
 * Friedlein, G., 1967, *Procli Diadochi in primum Euclidis elementorum librum commentarii*, (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner [Reprint Hildesheim: Olms, 1967].
 * Morrow, G.R., 1970, *A Commentary on the First Book of Euclid’s Elements*, Princeton (N.J.): Princeton University Press [Reprinted 1992, with a new foreword by I. Mueller].
 * New edition prepared by C. Steel, G. Van Riel and L. Van Campe, first volume forthcoming, Paris: Vrin.
 
-#### 13. Exposition of Astronomical Hypotheses
+#### Exposition of Astronomical Hypotheses
 
 * Manitius, C., 1909, *Procli Diadochi hypotyposis astronomicarum positionum*, (Series: Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), Leipzig: Teubner; reprint Stuttgart: Teubner 1974.
 
-#### 14. (frag.) On the Eternity of the World, against the Christians (18 arguments)
+#### (frag.) On the Eternity of the World, against the Christians (18 arguments)
 
 * Rabe, H, 1899, *Ioannes Philoponus: De aeternitate mundi contra Proclum*, Leipzig: Teubner [Reprint Hildesheim: Olms, 1963].
 * Lang, H.S., Macro, A.D., and J. McGinnis, 2001, *Proclus: On the Eternity of the world (de Aeternitate mundi)*, Berkeley / Los Angeles / London: University of California Press.
 * Gleede, B., 2009, *Platon und Aristoteles in der Kosmologie des Proklos. Ein Kommentar zu den 18 Argumenten für die Ewigkeit der Welt bei Johannes Philoponos* (Series: Studien und Texte zu Antike und Christentum) Tübingen: Mohr.
 
-#### 15. (frag.) Commentary on Hesiod, Works and Days
+#### (frag.) Commentary on Hesiod, Works and Days
 
 * Marzillo, P., 2010, *Der Kommentar des Proklos zu Hesiods ‘Werken und Tagen’. Edition, Übersetzung und Erkläuterung der Fragmente*, Tübingen: Narr.
 
-#### 16. Hymns
+#### Hymns
 
 * Vogt, E., 1957, *Procli hymni accedunt hymnorum fragmenta; epigrammata, scholia, fontium et locorum similium apparatus, indices*, Wiesbaden: Harrassowitz.
 * Van Den Berg, R.M., 2001, *Proclus’ Hymns: Essays, Translations, Commentary*, Leiden–Boston–Köln: Brill.
 
-#### 17. Life of Proclus
+#### Life of Proclus
 
 * Saffrey, H.D., and A.-P. Segonds (together with C. Luna), 2001, *Proclus ou Sur le bonheur*, (Series: Collection des universités de France), Paris: Les Belles Lettres.
 * Männlein-Robert, I. and Oliver Schelske, (eds.), 2019, *Über das Glück: Marinos, Das Leben des Proklos*, introduced, translated, and with essays by M. Becker, J. Dillon, U. Hartmann, C. Helmig, I. Männlein-Robert, D. O’Meara, S. Schorn, B. Topp, (Series: SAPERE, 34), Tübingen: Mohr Siebeck.

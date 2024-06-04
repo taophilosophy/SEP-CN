@@ -6,19 +6,19 @@
 
 ---
 
-## 1. 生平和作品
+## 生平和作品
 
-### 1.1 日期、家庭、老师和影响
+### 日期、家庭、老师和影响
 
 关于亚历山大的出身、生活环境和职业几乎一无所知。他的故乡可能是位于小亚细亚西南部的卡里亚的阿芙罗蒂西亚。他父亲的名字是赫米亚斯。关于他的日期和活动的唯一直接信息是他的《论命运》献给塞普蒂米乌斯·塞维鲁斯和卡拉卡拉皇帝，以感谢他被任命为一位捐赠教职。他们的共治时间从公元 198 年到 209 年；这给我们提供了至少一部亚历山大作品的大致日期。关于他的背景和教育几乎一无所知，只知道他的老师是米提利尼的亚里士多德，而不是更著名的梅森的亚里士多德，这是自 16 世纪以来某些学者的猜测。据说他还是索西格尼斯和赫米努斯的学生，他们是评论家阿斯帕修斯的学生，阿斯帕修斯是亚里士多德的早期评论家，他的一部分作品幸存了下来（有关亚历山大的老师和他们的哲学，请参见莫罗 1984，335-425）。亚历山大对他的老师有多少借鉴很难猜测，因为他有时会对索西格尼斯和赫米努斯进行广泛批评。但从他的作品的广度和深度来看，可以清楚地看出他是一位受过良好训练的哲学家，具有广泛的知识和兴趣。
 
 尽管对皇帝的奉献告诉我们亚历山大被任命为哲学讲座，但没有足够的证据证明他是否像常常被声称的那样，获得了马库斯·奥勒留在公元 176 年在雅典设立的代表四个传统学派的四个讲座之一。在几个城市也有类似的讲座（关于雅典，请参见林奇 1972 年，192-207；213-216）。鉴于他的写作数量和范围，他一定是一位活跃的教师，拥有一个蓬勃发展的学派。因此，有可能一些归因于亚历山大的短篇文章实际上是他的合作者或弟子的作品。但是我们对他的合作者和学生一无所知（参见夏普尔斯 1990a）。对我们来说，他的工作既代表了那些仅仅根据亚里士多德的文本解释亚里士多德的评论者系列的全盛时期，也代表了这一系列的终结，而不承担其他教义的义务。亚历山大结束了这些纯粹的“逍遥学派”评论者的系列（从公元前一世纪的罗得的安德洛尼库斯开始），他们试图通过“亚里士多德解释亚里士多德”（莫罗 1942 年，xvi，参见基亚拉多纳 2012 年）。尽管后来的评论者，从波菲里开始，依赖他的作品，他们采取了新柏拉图主义的方法。由于波菲里比亚历山大活得晚得多（约 234-305/10 年），亚历山大的学派可能一直存在，直到被“新柏拉图主义转向”所淘汰。波菲里在《普罗提诺斯的生平》中报告说，普罗提诺斯在他的讨论中包括了亚历山大“和相关作者的文本”（14.13），这使得这一点相当可能。亚历山大的评论成为阿拉伯传统的核心部分，并被梅蒙尼德广泛使用。他的工作因此在中世纪亚里士多德主义复兴后影响了拉丁西方。 拉丁翻译亚历山大评论的稀缺性表明对后来的新柏拉图主义评论家的解释有一定偏好。如果莫尔贝克只将亚历山大的评论翻译成《气象学》和《感觉论》，这可能部分是因为布伊修斯对亚里士多德《先验分析学》和《论题学》的评论可获得，但这并没有解释为什么莫尔贝克没有翻译《形而上学》的评论（关于中世纪和文艺复兴时期对亚历山大的接受，请参见罗西/迪乔瓦尼/罗比利奥 2021 年）。
 
-### 1.2 作品及其历史
+### 作品及其历史
 
 正如他的作品清单所示，亚历山大是一位多产的作家。他的著作包括对亚里士多德作品的评论（hupomnêmata）和他自己的几部系统论文（包括关于“问题”的作品，其中包括一系列关于不同亚里士多德文本或主题的论文）。关于评论，以下是现存的：《先验逻辑学》第一卷、《论题》、《形而上学》、《天文学》和《感知论》。关于《形而上学》的评论只有前五卷被普遍认为是真实的；剩下的九卷被归属于晚期评论家迈克尔·埃菲索斯（11-12 世纪）。被一些手稿归属于亚历山大的《辩证法的反驳》评论被认为是伪作。后来评论家的引用表明，亚历山大的评论涵盖了亚里士多德的所有理论哲学，包括他的物理著作（除了生物学著作）。他失传的作品清单很长：有关于《范畴学》、《解释学》、《后分析学》、《物理学》和《论天》的评论的引用，以及关于《灵魂论》和《记忆论》的评论。亚历山大没有对亚里士多德的《伦理学》或《政治学》进行评论，也没有对《诗学》或《修辞学》进行评论。然而，从他自己的论文中可以看出，他对伦理问题非常感兴趣。在现存的短篇系统论文中，以下被认为是真实的：《问题与解决方案》、《伦理问题》、《命运论》、《混合与增长论》、《灵魂论》和《灵魂论补遗》（由其第一位现代编辑者 I. Bruns 称为“De Anima libiri Mantissa”，意为“灵魂之书的补充”）；它们不仅包含有关心理学问题的讨论，还包括物理学、视觉与光、伦理学以及命运和天意的问题。《补遗》可能不是亚历山大的作品，而是他的学生的笔记汇编。 其余的，医学问题，身体问题和关于发热的内容被认为是伪作。他失传的作品中，一些因为具有很高的影响力而被保存在阿拉伯语中（参见 D'Ancona＆Serra 2002）：《宇宙原理论》、《关于天意》、《反对伽莲的运动观》和《关于特定差异》。由于亚历山大作为亚里士多德的解释者的声望和权威，他的许多失传作品被纳入了他的继任者的评论中，无论他们是否提到了他。例如，亚历山大对《论天》的评论在某种程度上可以根据忒米斯提乌斯对亚里士多德文本的释义和辛普利修斯的评论来重建。关于亚历山大的著作的相对年代顺序没有确切的了解，但这并不是一个非常重要的问题，因为他的评论很可能代表了多年的教学成果，后来进行了插入和补充，与亚里士多德自己的文本非常相似。这可以解释为什么他的评论没有追求优雅，并且存在不一致或不清晰的过渡。
 
-## 2. 作为评论家和哲学家的亚历山大
+## 作为评论家和哲学家的亚历山大
 
 总的来说，亚历山大认为亚里士多德哲学是一个统一的整体，系统地回答了他所在时代哲学中几乎所有的问题。在某些问题上，如果没有明确可辨认的亚里士多德观点，他会不作决定，引用几种与亚里士多德所说一致的可能性。有时，亚历山大试图强行解释与文本不明显一致的观点，但他避免陈述亚里士多德自相矛盾，并且除了极少数例外，他不与亚里士多德意见不合。读者可能不总是会被他的建议所说服，但他们通常会发现在亚里士多德过于简洁和晦涩的地方，这些建议是有帮助和启发的。正如他在对《论题》的评论中所提到的，亚历山大非常清楚他自己的哲学讨论风格与亚里士多德时代的风格非常不同（《论题》27,13）：“这种言辞（辩证反驳）在早期哲学家中是惯常的，他们大多数课程都是这样设置的——不像现在这样以书籍为基础，因为当时还没有这种书籍。”然而，正如这个解释所表明的，他似乎认为他所处时代的书本化是相对于辩证风格的优势，而不是劣势。
 
@@ -32,13 +32,13 @@
 
 总的来说，亚历山大本人并没有明确表示他与亚里士多德的分歧之处。过去的理解是，他只在自己的论文中提出自己的观点，但今天的学者倾向于认为他在系统作品和评论中都与亚里士多德有所不同。他们可能不会赞同普鲁塔克对亚历山大的尖锐批评：亚历山大为了阐述自己的学说，将亚里士多德降低到自己的水平，只是假装评论亚里士多德（关于《论灵魂》的评论，由菲洛波诺斯报道，在 dA 21 中）。然而，他们可能会赞同更欣赏的版本，即这种观点认为，无论是论文还是评论，都具有超越其纯粹解释价值的哲学意义。
 
-## 3. 逻辑
+## 逻辑
 
 正如他对亚里士多德逻辑著作的评论所显示的那样，亚历山大对亚里士多德之后的逻辑发展，即在提奥弗拉斯托和斯多噶派的影响下，非常熟悉。总体而言，他将亚里士多德式的逻辑视为显然正确的，将斯多噶派的方法视为错误的。当他面对亚里士多德的三段论问题时，有时会表达困惑，并指出他在文本中看到的困难甚至不一致之处。但他通常会试图弥合这些问题，或者提供一个所谓的亚里士多德式的解决方案。无论如何，他尽可能地避免公开批评亚里士多德或与他相矛盾。正如他的分析所显示的，亚历山大不是一个具有创新思想的原创逻辑学家，就像他的同时代人加伦一样。他并不总是理解亚里士多德，并且有时在解释上出错。此外，他的风格也不太吸引人。如果亚里士多德因其简洁和省略的风格而难以理解，那么亚历山大由于他冗长而曲折的句子而常常难以跟随（参见他对《先分析篇》第一篇的评论的引言，见巴恩斯等人 1991 年的翻译）。过去，这使得他对《先分析篇》的评论对于非专家来说难以理解。英文翻译试图通过将长句分割为较短的句子来弥补这些不足。这将极大地增强亚历山大对亚里士多德逻辑中仍然存在争议的那些方面的重建和评估的实用性。
 
 除了增进我们对亚里士多德的理解之外，尽管有其局限性，亚历山大的评论中仍然可以找到一些对逻辑学家感兴趣的发展。例如，即使它们可能在亚历山大之前出现，晚期古代逻辑的一些要素也渗入到他的讨论中，比如在对亚里士多德《论题》的评论中。将亚里士多德和斯多葛派的假设逻辑合并的“游走学派计划”在他的假设中显现出来，他认为斯多葛派的不可证明命题是亚里士多德的发明，在他将斯多葛派和亚里士多德的假设合并中，以及在他使用斯多葛派逻辑术语来表示逻辑关系方面（Bobzien 2014）。另一个例子是引入了一种新类型的前提，即“不仅在某个时间点”。这种类型的前提似乎是为关于属性的陈述所保留的，这些属性始终成立，尽管它们不属于物质的本质，并且因此既不在必然前提中描述，也不在偶然前提中描述，而是在在多个时间点上为真的范畴前提中描述（Gili 2012）。
 
-## 4. 形而上学
+## 形而上学
 
 在亚历山大的形而上学著作中，包括他的评论，我们发现了一些古代讨论的重点，这些讨论关于的不是形而上学的核心，而是亚里士多德的形而上学。有时，亚历山大似乎最关注从亚里士多德的角度批评当代人，有时则通过独特的方式来阐述亚里士多德主义以应对可能的批评。作为前者的例子：在《论混合与增长》一书中，亚历山大扩展了亚里士多德在《论成生与灭亡》I 10 中只简要提及的问题，但他的主要关注点是——正如在《论命运》中一样——证明斯多葛派的立场，即他们关于两种物质的“彻底”混合的解释是不能维持的。这篇论文表明，在第三世纪初，传统学派之间的哲学讨论仍然活跃。当然，我们对这个问题没有其他证据；但如果这个问题被普遍认为已经过时，那么在一本专门献给皇帝的著作中证明亚里士多德学派教义的优越性，就没有多少意义了，就像亚历山大在《论命运》中所做的那样。因此，亚历山大的争论很可能不仅仅是对已经逝去的对手的一种影子拳击。
 
@@ -54,7 +54,7 @@
 
 正如我们将看到的那样，阿芙罗蒂西亚的亚历山大对于物质形而上学的这些特征的看法对于他对灵魂和身体之间关系的理解非常重要，并且有时会特别针对这种关系进行详细阐述。
 
-## 5. 心理学
+## 心理学
 
 在心理学领域，阿芙罗蒂西亚的亚历山大再次详细阐述了亚里士多德的观点，同时也回应了其他当代学派提出的挑战。他最有趣的贡献涉及灵魂和身体之间的关系，以及智力的本质。特别是后者产生了很长时间的影响，直到最近才被认识到这是亚历山大的影响，而不是亚里士多德的。亚历山大在心理学中的自然主义方法体现在他将人的灵魂视为赋予身体元素的可消逝形式，以构成一个有生命的人。根据亚里士多德的心理学观点，灵魂是身体的一种形式，必须在柏拉图主义的斯库拉和将灵魂简化为身体的一种属性的卡里布迪斯之间操纵。根据柏拉图的二元论，身体和灵魂都是独立存在的实体，这在亚里士多德看来是不可接受的，原因有几个，其中主要是灵魂的独立性必须与其作为形式原因的角色相协调。然而，如果将灵魂理解为功能主义意义上的，就有将灵魂简化为偶然性的风险，这意味着剥夺了它成为活动的原因、运动的源泉的可能性。亚历山大通过将形式视为物质的因果力或倾向（见上文），并将灵魂视为随附于身体的方式，找到了两者之间的安全路径。这意味着特定类型的灵魂只适合于由某种混合物构成的身体，即适合执行某些功能的身体，并且它随附于作为其充分条件的身体。灵魂或形式在本体论上优先于身体的地位仍然得到保证，因为灵魂不是身体元素的混合物，而是在其中产生的因果力（Caston 2012）。
 
@@ -76,7 +76,7 @@
 
 这场长期的辩论促使亚历山大发展了一个亚里士多德式的命运概念，将其与事物的自然构成以及包括人性在内的因素联系起来（《论命运》第 2-6 章）。由于总有可能发生违背自然和正常秩序的事情，所以所谓的“命中注定”也存在例外，也存在机遇和偶然性。这篇论文的大部分内容并不是为了捍卫这个亚里士多德学派的立场，而是对决定论立场的各个方面进行攻击。亚历山大声称展示了为什么斯多葛派（尽管他从未点名）试图捍卫一种兼容主义立场必然失败。他说，决定论者既不能维持一个连贯的运气和偶然性概念，也不能维持一个偶然性和可能性概念，更不能维持一个思考和能动性概念。这场争论的大部分内容集中在对斯多葛派立场的困难上，声称他们的命运概念使人类的思考变得多余，从而对人类的道德和生活产生灾难性后果（第 7-21 章）。亚历山大还以辩证的方式呈现了斯多葛派在捍卫偶然性、机遇和人类责任方面所使用的论证。正如他一再声称的那样，斯多葛派最多只能在言辞上捍卫使用这些术语的合理性。此外，他们关于神圣预知和预言的概念也被证明是不连贯的（第 22-35 章）。亚历山大的批评的严谨性和独创性在此无法讨论（参见 Sharples 1983; Bobzien 1998; Adamson 2018）。尽管他的论述中存在重复，并且论证的顺序有待改进，但这是一篇有趣的文章，展示了对问题的积极参与和相当的哲学造诣。 他认为真正自由的行动要求在行动时，人们既可以做也可以不做他们实际上所做的事情。因此，亚历山大在自由行动理论中提出了后来被称为“自由意志主义”的立场。亚历山大构建了一个亚里士多德命运和神圣预知的解释，将它们限制在自然及其整体良性秩序之内，明确主张了对命运的弱概念；但这是亚历山大认为与亚里士多德自然哲学和伦理学原则相容的唯一概念。他对命运概念的极大兴趣得到了证实，因为他在他的《灵魂论》补遗（以下简称《补遗》）和他的一些问题（2.4.5，参见 Sharples 1983，尤其是引言）中再次讨论了这个问题。
 
-## 7. 重要性和影响
+## 重要性和影响
 
 关于亚历山大在他有生之年的教学影响没有相关信息。但是，对他同时代的加伦（129-216 年）进行的批评攻击的某些迹象，例如他对亚里士多德不动之动的批评，表明他与其他同时代人进行了争论。亚历山大对当代斯多葛学派教义的抨击是个人交流还是书本练习的一部分尚不清楚。如果亚历山大在雅典担任亚里士多德学派哲学教授的职位，他很可能与其他哲学教授直接接触。当然，他并不是第一个对亚里士多德进行评论的人。但是，后来的注释者肯定将他的方法和解释亚里士多德文本中问题和模糊之处的标准视为典范。这既可以从后来注释者的明确引用中看出，也可以从一些现存的对同一文本的后期注释以及系统著作中未经承认的对他的工作的利用中看出，包括柏拉图学派的一些著作，例如普罗提诺斯和西里努斯对亚历山大的材料的使用（例如参见 Chiaradonna 2012）。从他的著作被翻译成阿拉伯语和在较小程度上被翻译成拉丁语的情况来看，他继续被视为一个主要权威，他的工作影响了整个晚期古代、中世纪和文艺复兴时期的亚里士多德传统（参见 Rossi/Di Giovanni/Robiglio 2021）。在现代，对亚历山大的兴趣，无论是作为评论家还是作为哲学家，都得到了极大的增强，当时在赫尔曼·迪尔斯的总编辑下，普鲁士科学院在 1882 年至 1909 年间出版了《希腊亚里士多德评论》（连同多卷的《亚里士多德补遗》）。现今学者们继续使用他的评论，不仅出于历史原因，而且因为他的建议往往值得考虑。 因为近年来对晚期古代哲学家的关注更多，不仅仅是新柏拉图主义者，亚历山大的作品在各个方面受到专家的详细审查，这可以从关于他解释学和哲学工作的一般和特殊方面的出版物增加来证明。他的大部分著作的翻译使得更广泛的读者群体意识到，亚历山大的作品不仅对哲学史专家有关联，而且开启了哲学和科学思想历史上一个有趣的过渡时期。
 
@@ -85,7 +85,7 @@
 
 ### A. Primary Sources
 
-#### 1. Commentaries
+#### Commentaries
 
 * Diels, H. (ed.), 1882–1909, *Commentaria in Aristotelem Graeca*, Berlin: Reimer.
   * Hayduck, M. (ed.), 1891, Vol. 1, *On the Metaphysics*.
@@ -95,7 +95,7 @@
   * Wendland, P. (ed.), 1899, Vol. 3.1, *On De sensu*.
   * Hayduck, M. (ed.), 1901, Vol. 3.2, *On Meteorology*.
 
-#### 2. Treatises considered genuine and fragments
+#### Treatises considered genuine and fragments
 
 * Accattino, P., & Donini, P. (eds.), 1996, *Alessandro Di Afrodisia: L’Anima: Traduzione, Introduzione e Commento*. Roma/Bari: Laterza.
 * Bergeron, M., & Dufour, R. (eds.), 2008, *Alexandre d’Aphrodise. De l’âme. Texte Grec Introduit, Traduit et Annoté*. Paris: Vrin.
@@ -105,20 +105,20 @@
 * Rescigno, A. (ed), 2004/2008, *Alessandro di Afrodisia: Commentario al* De caelo *di Aristotele, 1. Frammenti del primo libro*, 2. *Frammenti del secondo, terzo e quarto libro*, Amsterdam: Hakkert.
 * Thillet, P. (ed.), 1984, *Traité Du Destin, Texte établi et traduction,* Paris: Les Belles Lettres.
 
-#### 3. Spuria
+#### Spuria
 
 * Kapetanaki, S. & R. W.Sharples, 2006, *Pseudo Aristoteles (Pseudo Alexander), Supplementa Problematorum* (edited with introduction and annotated translation), Berlin: De Gruyter.
 
 ### B. Translations
 
-#### 1. Latin translations
+#### Latin translations
 
 * *Alexandre d’Aphrodiasias. Commentaire sur les météores d’Aristote. Traduction de Guillaume de Moerbeke*, A.J. Smet (ed.), Paris: Nauwelaerts, 1968.
 * *Alexandre d’Aphrodisias. De fato ad imperatores: Version latine de Guillaume de Moerbeke*, P. Thillet (ed.), Paris: Vrin, 1963.
 * *Alexander Aphrodisias: Enarratio de anima ex Aristotelis institutione*, Hieronymus Donatus (trans.), reprint of first edition Brescia 1495 (with intr. by Eckard Kessler). *Commentaria in Aristotelem Graeca: Versiones latinae temporis resuctitatarum litterarum*, (CAGL.) 13, Stuttgart: Frommann-Holzboog, 2008.
 * Alexander von Aphrodisias: *In libros meteorologicorum*, Alexander Piccolomineus (trans.), reprint of first edition Venice 1561, with introduction by Cristina Viano, Stuttgart: Frommann-Holzboog, 2010.
 
-#### 2. English translations of the commentaries (with notes)
+#### English translations of the commentaries (with notes)
 
 Richard Sorabji (gen. ed.), London: Duckworth, Ithaca: Cornell University Press. Later: London: Bristol Classical Press. Presently: London: Bloomsbury Publishing.
 
@@ -138,11 +138,11 @@ Richard Sorabji (gen. ed.), London: Duckworth, Ithaca: Cornell University Press.
 * *Alexander of Aphrodisias on Aristotle’s Topics* 3, L. Castelli, 2021.
 * *Alexander of Aphrodisias on Aristotle’s Coming-to-Be and Perishing 2.2–5*, E. Gannagé, 2005.
 
-#### 3. Other translations of the commentaries (with notes)
+#### Other translations of the commentaries (with notes)
 
 Lavaud, L. & Guyomarc’h, G., 2021, *Alexandre d’Aphrodise. Commentaire à la Métaphysique d’Aristote*. *Livre petit alpha* *et beta*, introduction, traduction et notes, Paris: Vrin.
 
-#### 4. Major Treatises
+#### Major Treatises
 
 * Todd, R. B., 1976, *Alexander of Aphrodisias on Stoic Physics: a study of the De mixtione with preliminary essay* (text, translation and commentary), Leiden: Brill.
 * Fotinis, A. P., 1980, *The De anima of Alexander of Aphrodisias* (translation and commentary), Washington, D.C.: University Press of America.
@@ -151,13 +151,13 @@ Lavaud, L. & Guyomarc’h, G., 2021, *Alexandre d’Aphrodise. Commentaire à l
 * Sharples, R.W., 2008, *Alexander Aphrodisiensis De anima libri mantissa* (a new edition of the Greek text with introduction and commentary), Berlin: De Gruyter.
 * Caston, V., 2012, *Alexander of Aphrodisias on the Soul: Part I* (translation with introduction and commentary), London: Bristol Classical Press.
 
-#### 5. Minor works
+#### Minor works
 
 * Sharples, R.W., 1990, *Ethical Problems* (translation with notes), London: Duckworth and Ithaca: Cornell University Press.
 * Sharples, R.W., 1992, *Quaestiones* 1.2–2.15 (translation with notes), London: Duckworth and Ithaca: Cornell University Press.
 * Sharples, R.W., 1994, *Quaestiones* 2.16–3.15 (translation with notes), London: Duckworth and Ithaca: Cornell University Press.
 
-#### 6. Works extant in Arabic
+#### Works extant in Arabic
 
 * D’Ancona C. & G. Serra, 2002 (eds.), ‘Alexander *On the Principles of the Universe*, *On Providence*, *Against Galen on Motion*, and *On Specific Differences*,’ in *Aristotele et Alessandro di Afrodisia nella tradizione araba*, Padova: Il Poligrafo.
 * Genequand, C., 2001, *Alexander of Aphrodisias: On the Cosmos*, Leiden: Brill.

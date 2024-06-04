@@ -65,7 +65,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 涌现属性可能在这两种模态相关性的强度方面有所不同。对于弱涌现的描述通常指定必要性为形而上学必要性（绝对或无条件必要性），表明涌现现象在某种模糊意义上“并无超越”其支配基础现象。对于强涌现的描述将其规定为（仅仅）法则必要性（在相关自然法则的适用条件下），表明涌现特征与其基础之间存在更大的本体上的差异。事实上，有时候人们提出强涌现和弱涌现之间的区别最好通过仅仅法则和形而上之间的区别来理解（查尔默斯 1996 年，诺德霍夫 2010 年）。
 
-#### 2.1.2 依赖：功能实现
+#### 依赖：功能实现
 
 过去半个世纪以来，心灵哲学一直被这样的论点所主导，即（许多）心理概念是功能概念，以对传入刺激的反应、彼此之间的关系以及生成目标导向行为的功能或因果角色来指定心理状态（或属性或事件）（见，例如，普特南 1967 年，福多尔 1974 年和肖马克 1984 年）。既是功能主义者又是物理主义者的人认为，心理状态是“功能实现的”，即它们的定义角色在任何特定场合都是由更低层次的物理过程实现的。作为一个示意性例子，某种类型的身体疼痛的心理状态是由某种类型的身体伤害引起的状态，它会导致某种类型的行为反应（某些声音表达，对伤害进行处理或寻求帮助等），而（物理主义者认为），这种功能/因果角色总是由某些更低层次的物理过程扮演。
 
@@ -101,7 +101,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 特殊科学描述非普遍的、结构化的现象（例如板块构造、分子相互作用、细胞修复和有机体发育），并通过更高层次的规律成功预测它们的行为。弱涌现主义者认为存在这种稳定和独特的现象，可以接受高层次而不是低层次解释，这是接受特殊科学分类进入我们的自然世界本体论的理由，这些分类与最终完成的物理学分类一样真实。在这种观点下，存在分子、细胞、有机体和有心灵的生物，它们并不归纳为——也不等同于——基本物理实体或特征的复杂组合。相应地，涉及特殊科学规律的解释在某种程度上独立于涉及低层次物理理论规律的解释。
 
-### 3.1 Challenges to its viability
+### Challenges to its viability
 
 本节介绍了对弱涌现的原则可行性提出的两个常见挑战。随后部分对弱涌现的描述在一定程度上是为了应对其中一个或两个挑战。
 
@@ -167,7 +167,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 本节介绍了对强涌现在原则上可行性的三个常见挑战。在接下来介绍的强涌现解释中，将注意到可能的回复。
 
-#### 4.1.1 不连贯或无法解释
+#### 不连贯或无法解释
 
 对于强涌现的一个最初担忧是，存在一个特征既依赖又基本的概念上的紧张关系——这种担忧在最近有关基本性的描述中变得更加严重，根据这些描述，基本性的本质恰恰是独立的（参见 Bennett 2017 和基本性条目）。
 
@@ -191,7 +191,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 我现在讨论这种涌现形式的代表性当代观点。
 
-#### 4.2.1 正式特征描述
+#### 正式特征描述
 
 强涌现的形而上学最简化特征是基于。 与弱涌现或物理可还原特征相反，后者被认为在其物理依赖基础上以形而上的必然性，强涌现特征被认为仅以法律必然性（van Cleve 1990，Chalmers 2006，Noordhof 2010）。
 
@@ -213,7 +213,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 最后，对强涌现的最终证据挑战的可能回应最好在第 5 节中考虑，其中介绍了一系列候选的涌现现象。
 
-#### 4.2.3 Novel *component* powers in configured wholes
+#### Novel *component* powers in configured wholes
 
 尽管刚才对于崩溃挑战的回答，最近在理论上对于强涌现的思考趋势是接受崩溃，主张涌现更好地理解为当组件嵌入配置好的整体时所具有的新颖力量的引入。本节介绍了这种观点的四种发展方式。
 
@@ -239,7 +239,7 @@ Yates 认为，这些例子证明了他独特的强涌现的现实性。一个�
 
 新涌现的力量被认为是“潜在的”这一论点将吸引那些认为因果力是基本现实的原始特征，并将其视为解释早期和后期事物演化中所有关联的基础的人。 （我们在前一节中看到，分享这些承诺的 O'Connor 1994 和 O'Connor＆Wong 2005 假设新涌现和基本的宏观状态是由微观结构状态“向上”决定的，这些状态展现了基本个体的潜在倾向，当配置为这样时共同引起这些状态。）
 
-#### 4.2.4 转化元素独立于配置的整体
+#### 转化元素独立于配置的整体
 
 最近，一些作者提出了“转化涌现”解释，这种解释将层次化组织的特权类别的概念与整体概念完全分离开来。他们提出了一个本体论框架，在这个框架中，基本的和结构化的个体经历根本性的变化，获得新的力量，这些力量并非“潜在的”（指的是存在一个先前的、本体论基础的倾向，导致它们随后出现），也许会失去其他力量。随着新力量的出现，也会有描述它们演化的新规律。
 
@@ -271,7 +271,7 @@ Santos 认为，现代细胞学和发育生物学表明了这种事物观，但�
 
 涌现属性 Certain phenomena and theoretical considerations motivating some contemporary theorists to endorse a strong emergentist construal of those phenomena. (It bears emphasis that strong emergentists typically also suppose that some interesting organized behavior is more plausibly understood either reductively or as weakly emergent: their strong emergentism is piecemeal.) This final section summarizes those phenomena and considers in general terms the different ways strong and weak emergentists might go about treating them.
 
-### 5.1 意识心灵
+### 意识心灵
 
 意识心灵在其不同方面长期以来似乎许多人认为无论是还原的还是非还原的（即，弱涌现主义者）都难以用任何物理术语进行合理的本体论描述。（有关相对全面的概述，请参见 Chalmers 1996。）
 

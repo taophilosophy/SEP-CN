@@ -8,7 +8,7 @@
 
 ---
 
-## 1. 生平与作品
+## 生平与作品
 
 我们对弗朗索瓦·普兰·德拉巴尔（或普兰）的生活了解甚少。没有他同时代人的通信或记载幸存下来。我们所知道的只能从偶尔幸存的官方文件和他的著作中据说有自传性质的言辞中进行重建。关于普兰生活的记载主要依赖于玛丽-路易丝·斯托克（1961）、马德琳·阿尔科弗（1981）和西普·斯图尔曼（2004）等人进行的档案研究。
 
@@ -28,11 +28,11 @@ Fed on Scholastic prejudices against Cartesian philosophy, Stasimachus was initi
 
 普兰晋升为牧师后，在皮卡第地区的两个教区担任助理牧师，首先是在中等规模的村庄拉弗拉芒格里，然后在 1685 年被调到小村庄韦尔西尼。这可能是某种纪律措施的结果（Stuurman 2004: 239–240）。在皮卡第地区，普兰目睹了对新教徒的迫害，这经常被解释为为他自己从天主教改宗为加尔文主义铺平了道路。他在 1688 年离开了他的教区，短暂停留在巴黎后，他的改宗被认为是在那里发生的，然后他搬到了日内瓦，在那里他于 1689 年 12 月获得了居民身份（Stuurman 2004: 242–243）。作为日内瓦的居民，普兰继续他早期的教师生涯，并于 1690 年与玛丽·拉维尔（逝世于 1742 年）结婚，他们育有两个孩子，让-夏洛特（1690–1716）和让-雅克（1696–1751），后者成为未来的加尔文主义牧师，并追随父亲的许多神学观点（Welch 2002a: 17–20; Stuurman 2004: 245–246）。普兰出版了另外两本书，一本是《关于日内瓦市法语的详细评论》（1691），与他的教师生涯有关，另一本是《关于自由和阅读圣经的权利的新教教义等》（1720），展示了他成熟的神学观点。他在他选择的故乡确实过上了安定的生活，尽管他似乎没有找到他所期望的宗教自由。在 1693 年和 1696 年，普兰被指控是一个索西尼派，这个指控与他对神学的理性主义方法有关，他没有严格区分神学和哲学（Stuurman 2004: 248–249）。 这件事被视为普兰在 1708 年之前必须等待才能被任命为日内瓦学院的永久教职的主要原因，他一直担任该职位直到 1723 年去世。
 
-## 2. 笛卡尔的基础
+## 笛卡尔的基础
 
 普兰的著作《两性平等》和《女士教育》都深受笛卡尔哲学的影响，但影响方式不同。在第一篇著作中，没有提到笛卡尔的名字，但普兰对性别平等的讨论在很大程度上借鉴了他的哲学方法和形而上学。第二篇著作详细讨论了笛卡尔哲学，主要人物斯塔西马库斯是笛卡尔的忠实追随者，但这本书本身并没有明显依赖笛卡尔的哲学方法。我将从这两篇著作中探讨普兰受到的笛卡尔影响，并首先讨论笛卡尔方法的作用，然后讨论普兰在多大程度上采用了笛卡尔的形而上学。
 
-### 2.1 笛卡尔的方法
+### 笛卡尔的方法
 
 在《论两性平等》的前言中，普兰写道，对于那些试图获得真正知识的人来说，最好的想法是怀疑自己是否受到了良好的教育，并希望自己发现真理。随着他们在寻求真理的过程中取得进展，他们不可避免地会注意到我们充满了偏见，必须完全摆脱它们才能获得清晰而明确的知识。（T1en 119; TTfr 53）[ 1]
 
@@ -66,7 +66,7 @@ It is notable that Poulain’s reference to the necessity of getting *completely
 
 在笛卡尔的比喻中，形而上学构成了哲学树的根部，因此我们必须假设一个人不能成为笛卡尔哲学家而不采用笛卡尔的形而上学。普兰确实这样做了，尽管我们将在下一节中看到，他受到的影响没有受到笛卡尔哲学方法论的深刻影响。
 
-### 2.2 形而上学
+### 形而上学
 
 在《平等论》的第二部分中，普兰声称“心灵没有性别”，并将他的主张与笛卡尔的二元论松散地联系在一起（T1en 157–158; TTfr 99–100）。这个主张本身并不新鲜——我们在奥古斯丁的神学教义中就已经找到了它，奥古斯丁认为女性和男性的理性灵魂同样是按照上帝的形象创造的（《三位一体论》第 12 卷第 7.12 节），在普兰的时代，这个主张最近被玛丽·勒·贾尔·德·古尔内以强烈的女权主义强调的方式陈述（G-EMW 65; G-OC 978）。然而，许多普兰的同时代人以及现代学者都同意，笛卡尔的二元论加强了心灵没有性别的观念（Hoffmann 1969; Perry 1985; Harth 1992: 81–86; Atherton 1993; O’Neill 1999 and 2011; Broad 2002: 4–12 and 2017; Pellegrin 2011: 28–37 and 2019: 568–569; Reuter 2013 and 2019: 38–41; Detlefsen 2017 提出了不同的观点）。普兰没有充分利用笛卡尔的二元论似乎令人惊讶。
 
@@ -102,11 +102,11 @@ Timander’s point resembles Descartes’ emphasis in the Second Meditation, whe
 
 普兰似乎并不认为心灵对身体有必要的依赖。他并没有明确地为笛卡尔的二元论提出唯物主义的替代方案，而是强调了心灵和身体之间的相互依存，没有明确表态这种互动需要什么样的形而上学基础。普兰在写他的女权主义论文时还很年轻，虽然他显然熟悉广泛的笛卡尔主题，但他可能并没有深入研究过笛卡尔的著作。与罗霍、德拉福热、尼古拉斯·马勒布朗什和安托万·阿尔诺等其他笛卡尔主义者相比，普兰没有通过研究笛卡尔的物理学和形而上学中的未解决问题做出贡献。相反，他在性别之间的道德、政治、物理和形而上学关系的笛卡尔分析中有着无与伦比的贡献。
 
-## 3. 妇女的征服
+## 妇女的征服
 
 普兰对妇女的征服的分析结合了对偏见的笛卡尔批评和对这些偏见观点起源的历史分析。
 
-### 3.1 偏见的作用
+### 偏见的作用
 
 在《平等论》第一部分的开头，普兰将关于性别的偏见与其他同样持久但不合理的信念进行了比较。首先，他指出除了一些学者外，每个人都认为太阳围绕地球运动是不容置疑的事实，尽管我们观察到的日月运行实际上是使人们相信地球围绕太阳运动。（T1en 122; TTfr 59）
 
@@ -146,7 +146,7 @@ Here Poulain touches upon the important—and also still relevant—topic of int
 
 对于所涉及的困难有细致入微的意识（有关详细讨论，请参见 Reuter 2017: 44–49）。
 
-### 3.2 历史起源
+### 历史起源
 
 普兰对压迫心理方面的精细分析与对认为女性劣于男性的偏见的历史起源的强有力分析相结合。他解释说，我们需要追溯关于女性的偏见“到其起源”，这将涉及通过参照当前的实践来评估早期所做的事情，并通过与我们自己时代正在发展的事情进行比较来判断古代风俗。如果我们遵循这个规则，我们就不会在无数的判断中犯下那么多错误。而且，在女性当前的状况方面，我们会认识到她们只是被最强者的法律所统治，并且这并不是因为她们在能力或价值上的缺乏而未能分享给男性在社会中占据优势地位的好处。（T1en 126; TTfr 63–64）
 
@@ -168,11 +168,11 @@ According to Poulain, the law of the stronger (*la Loi du plus fort*) is in seve
 
 婚姻和政治统治都必须承认人类天生平等，即使政治社会不能像婚姻那样直接地基于自然平等，正如普兰所说，在自由的黄金时代之前，妇女受到任意征服之前。
 
-## 4. 性别平等
+## 性别平等
 
 我们已经看到，普兰声称所有人类都是平等的，但他如何为性别平等辩护呢？我们不知道普兰是否熟悉玛丽·德·古尔内的著作《男女平等》（1622 年），但他与她一样强调基于性别相似性的平等。古尔内自觉地与早期参与女性争论的人区分开来，后者经常主张某一性别的优越性，并强调她“满足于使女性与男性平等，因为在这方面，自然界既反对优越性也反对劣势”（G-EMW 54; G-OC 965; 参见 Deslauriers 2018）。古尔内遵循亚里士多德的观点，认为人类动物的独特形式在于理性灵魂，而这种灵魂在两性中是相同的（G-EMW 65; G-OC 978; 参见 Deslauriers 2019）。普兰则拒绝了斯科拉哲学，并试图将他的大部分论证基于笛卡尔的哲学。当我们分析他对性别平等的讨论时，我们可以区分出四个主要论点。首先，普兰认为没有证据支持不平等，这只是一种错误的信念。其次，他认为在所有相关方面，女性和男性在心理和身体上都是相似的，因此平等。第三，他提到了自然平等的规范概念，最后，他提出了对平等机会的规范要求。我为每个论点都专门设立了一个小节。
 
-### 4.1 不平等是一种错误的信念
+### 不平等是一种错误的信念
 
 这个论点基于笛卡尔寻求真理的方法（第 2.1 节），并与普兰对偏见的批评（第 3.1 节）密切相关。从很大程度上说，这是普兰最重要的论点，因为《平等论》的很大一部分内容是他对有关女性劣势的主张的驳斥。普兰认为，关于女性的信念并不是基于女性的本质或天性，而是历史上形成的偏见（第 3.2 节）。特别是戴斯蒙德·克拉克强调了普兰批评的这一方面，并将其与笛卡尔对斯科拉学解释模型的普遍批评联系起来，这些模型通过假设与需要解释的每个现实相对应的“形式”或“本质”来解释“任何现象”（克拉克 2013：41）。普兰对斯科拉学关于“本质”的批评在一段文字中表达得最明确，他在其中反驳了“律师的观点”，这些观点对许多人来说具有很大的分量，因为他们专门声称给每个人应得的权利（T1en 152; TTfr 94）。这些斯科拉学派的律师中，学者们声称普兰包括雨果·格罗蒂乌斯（Stuurman 2004：166-167），他们说“是本质决定了女性在社会中的最低职能，并将她们排除在公职之外”，但根据普兰的说法，如果要求他们在这个背景下清晰地解释“本质”的含义以及本质如何区分两性，他们将会陷入困境。（T1en 152; TTfr 94-95）
 
@@ -190,7 +190,7 @@ Poulain argues that ‘nature’ is, in this context, a non-explanatory concept.
 
 即使在这里，普兰对于从例子中得出无效的概括和使用例子来证明某个概括是不真实的之间的关键区别也没有完全明确。但是，他允许一种宽容的解释，即他的主要目的是要证明关于女性劣势的概括是错误的。
 
-### 4.2 性别的相似性
+### 性别的相似性
 
 除了显示关于不平等的主张是错误的之外，普兰的目标是要表明性别是平等的，因为在所有相关方面，它们是相似的。在《平等论》的第二部分中，这个论点被放在了“女性”这个副标题下，从哲学原理的角度来看，女性在各种知识方面和男性一样有能力，并以上述（在第 2.2 节中）引用的“心灵没有性别”的主张开始（T1en 157; TTfr 99）。普兰争辩道：
 
@@ -218,7 +218,7 @@ Poulain argues that ‘nature’ is, in this context, a non-explanatory concept.
 
 伊丽莎白提出了一个问题，即思想如何可能同时与身体有所不同并受其影响。这些正是普兰未解决的形而上学问题，结果他无法为他关于性别相似性的主张提供有效的形而上学基础。
 
-### 4.3 自然平等
+### 自然平等
 
 不管普兰能否成功地展示出女性和男性智力能力的相似性，这种描述性的相似性并不能为规范性的平等概念提供一个强有力的基础（Clarke 2013: 49; Hoekstra 2013）。为了找到普兰关于性别平等的规范基础，我首先将研究他对人类自然平等和自由的引用。在《平等论》中，普兰写道，“依赖和奴役违背了使所有人平等的自然法则”（TTen 78; TTfr 95），几页之后，他指出当人们被想象为与公民社会分离时，他们被发现“完全自由和平等，只有对自我保护的渴望和获得所需一切的平等权利”（T1en 164; TTfr 106）。普兰没有详细说明他所说的自然法则或先于公民社会的自然状态的含义。目前尚不清楚他在多大程度上依赖于他在索邦大学的学习中所了解的经院哲学传统的自然法，以及在多大程度上受到了更近期发展的影响，比如雨果·格罗蒂乌斯和托马斯·霍布斯的自然法理论。
 
@@ -238,7 +238,7 @@ Poulain argues that ‘nature’ is, in this context, a non-explanatory concept.
 
 金奇·胡克斯特拉（Kinch Hoekstra）等人强调，奥古斯丁在《上帝之城》中的这一章节，以及《基督教教义》（第一卷，第 23 章）中的一段话，其中奥古斯丁陈述人类天生平等，对自然平等和自由的讨论影响了 17 世纪（Hoekstra 2013: 95）。当我们寻找普兰主张所有人类平等（包括牧羊人在内）的规范基础时，从人类的创造中得出平等的神学起源，至少与霍布斯关于平等的解释一样有可能（关于后者规范性本质的有影响力的解释，请参见 Hoekstra 2013）。在这里，我们并没有找到与学院传统的明确断裂。普兰使用它的平等概念，以反对许多学院派作者，认为自然平等必须应用于女性和男性之间的关系。
 
-### 4.4 平等的需求
+### 平等的需求
 
 弗朗索瓦·普兰·德拉巴尔和雅各琳·布罗德都强调普兰的平等概念是规范性的，因为它包括对平等机会的要求。根据克拉克的观点，我们在普兰（和其他 17 世纪女权主义作家）中发现了“所有人都应该享有平等获得某些人类福利的权利”的要求（2013 年：49）。这一要求本身依赖于人们在某种相关方面是平等的这一观念，而在普兰的案例中，我们可以看到他对平等机会的要求根源于他对能力（第 4.2 节）以及自然平等观念（第 4.3 节）的讨论。
 
@@ -254,7 +254,7 @@ Poulain argues that ‘nature’ is, in this context, a non-explanatory concept.
 
 并且仍然是玛丽·沃尔斯通克拉夫特在《女权辩护》（1792 年）中的一个重要主题。
 
-## 5. 普兰和他的继任者
+## 普兰和他的继任者
 
 普兰的女权论著在法国并没有很多追随者，但也不是没有影响力。有一些经过授权和未经授权的再版（完整列表请参见 Alcover 1981；也可参考 Welch 2002a：25-31），但对他的作品的引用很少。一个例外是加布里埃尔·苏雄，在她的《道德与政治论》（1693 年）中提到了“平等的作者”，她在其中捍卫了妇女的自由以及学习能力（Welch 2002a：29；Shapiro 2017；Wilkin 2019）。在下一个世纪，路易丝·杜邦在她未完成的手稿《关于妇女的作品》（约 1745 年）中引用了普兰，我们有直接证据表明孟德斯鸠对《平等论》评价很高（Thielemann 1983：321-326；Stuurman 2004：283-289；Wilkin 2019）。同时，卢梭很可能在杜邦撰写手稿期间担任她的秘书，至少熟悉普兰的第一篇论著。
 
@@ -423,7 +423,7 @@ Poulain’s thought was deeply influenced by René Descartes’ philosophy. He u
 
 ---
 
-## 1. Life and Works
+## Life and Works
 
 We know relatively little about the life of François Poulain (or Poullain) de la Barre. No correspondence or accounts by his contemporaries have survived. What we know has to be reconstructed from occasional surviving official documents and from supposedly autobiographical remarks in his writings. Accounts of Poulain’s life rely on archival research done in particular by Marie-Louise Stock (1961), Madeleine Alcover (1981), and Siep Stuurman (2004).
 
@@ -443,11 +443,11 @@ At some point after publishing his three feminist treatises, Poulain returned to
 
 After being ordained Poulain served as a curate in two parishes in Picardy, first in the medium-sized village La Flamengrie, from where he was transferred to the small village Versigny in 1685, possibly as the result of some disciplinary measure (Stuurman 2004: 239–240). In Picardy Poulain witnessed the persecution of Protestants and this is often interpreted as paving the way for his own conversion from Catholicism to Calvinism. He left his parish in 1688 and after a short stay in Paris, where his conversion is assumed to have taken place, he moved to Geneva, where he received the status of *habitant* in December 1689 (Stuurman 2004: 242–243). As a resident of Geneva, Poulain continued his earlier career teaching French and in 1690 he married Marie Ravier (d. 1742), with whom he had two children, Jean-Charlotte (1690–1716) and Jean-Jacques (1696–1751), a future Calvinist minister and follower of many of his father’s theological ideas (Welch 2002a: 17–20; Stuurman 2004: 245–246). Poulain published two more books, *Essai des remarques particulières sur la langue françoise pour la ville de Genève* [An Essay of detailed comments about the French language, for the city of Geneva] (1691), related to his career as a teacher, and *La Doctrine des Protestans sur la liberté et le droit de lire l’Ecriture Sainte, etc.* [Protestant Teaching about the Freedom and the Right to Read the Holy Scriptures, etc.] (1720), developing his mature theological opinions. He did earn a secure living in his chosen homeland, though he did not find the religious freedom he appears to have been hoping for. In 1693, and again in 1696, Poulain was accused for being a Socinian, an accusation that was related to his rationalistic approach to theology, which did not draw a strict distinction between theology and philosophy (Stuurman 2004: 248–249). This affair has been seen as the main reason why Poulain had to wait until 1708 before he was appointed to a permanent teaching position at the Collège de Genève, a position that he held until his death in 1723.
 
-## 2. Cartesian Foundations
+## Cartesian Foundations
 
 Poulain’s treatises *De l’égalité des deux sexes* and *De l’éducation des dames* are both profoundly influenced by Descartes’ philosophy, but in different ways. In the first treatise Descartes is not mentioned by name, but Poulain’s discussion of the equality between the sexes draws heavily on his philosophical method as well as his metaphysics. The second treatise discusses Cartesian philosophy in detail and the leading character Stasimachus is a proclaimed follower of Descartes, but the book itself is not as evidently relying on Descartes’ philosophical method. My discussion of Poulain’s Cartesian influences will draw on both treatises and I will first discuss the role of Cartesian method and then discuss to what extent Poulain adopted a Cartesian metaphysics.
 
-### 2.1 Descartes’ method
+### Descartes’ method
 
 At the very beginning of the preface to *De l’égalité des deux sexes*, Poulain writes that the
 
@@ -481,7 +481,7 @@ Poulain does not seem to reduce knowledge of morality to knowledge of physics, b
 
 In Descartes’ metaphor, metaphysics constitutes the roots of the tree of philosophy and we must therefore assume that one cannot be a Cartesian philosopher without adopting Descartes’ metaphysics. Poulain did do so, though he was, as we will see in the next section, less profoundly influenced by it than by Descartes’ philosophical methodology.
 
-### 2.2 Metaphysics
+### Metaphysics
 
 In the second part of *De l’égalité*, Poulain claims that “the mind has no sex” and loosely connects his claim to Descartes’ dualism (T1en 157–158; TTfr 99–100). The claim in itself was not new—we find it already in the theological doctrine of Augustine, who holds that the rational souls of women and men are equally created in the image of God (*De trinitate* XII 7.12), and in Poulain’s time it had recently been stated, with strong feminist emphasis, by Marie le Jars de Gournay (G-EMW 65; G-OC 978). Still, many of Poulain’s contemporaries as well as modern scholars agree that Descartes’ dualism strengthened the idea that the mind has no sex (different positions have been argued by Hoffmann 1969; Perry 1985; Harth 1992: 81–86; Atherton 1993; O’Neill 1999 and 2011; Broad 2002: 4–12 and 2017; Pellegrin 2011: 28–37 and 2019: 568–569; Reuter 2013 and 2019: 38–41; Detlefsen 2017). It might seem surprising that Poulain does not make more out of Descartes’ dualism than he actually does.
 
@@ -517,11 +517,11 @@ This passage relies on Descartes’ dualism by distinguishing between the passio
 
 Poulain does not seem to hold that there is a *necessary* dependence of mind upon body. He is not explicitly arguing for a materialist alternative to Descartes’ dualism, but rather emphasizing the interdependence between mind and body, without taking an explicit stand on what kind of metaphysical foundation this interaction requires. Poulain was young when he wrote his feminist treatises and though he was evidently familiar with a wide range of Cartesian topics, it is possible that he was not very deeply read in the Cartesian corpus. Compared to other Cartesians such as Rohault, de la Forge, Nicolas Malebranche, and Antoine Arnauld, Poulain did not contribute by examining unsolved problems in Descartes’ physics and metaphysics. Instead, his unrivalled contribution lies in his Cartesian analyses of the moral, political, physical, and metaphysical relations between the sexes.
 
-## 3. The Subjugation of Women
+## The Subjugation of Women
 
 Poulain’s analysis of the subjugation of women combines a Cartesian criticism of prejudice with a historical analysis of the origin of these prejudiced opinions.
 
-### 3.1 The role of prejudice
+### The role of prejudice
 
 Right at the beginning of the first part of *De l’égalité*, Poulain compares prejudice concerning the sexes to other equally persistent, but unjustified beliefs. First, he points out that apart
 
@@ -561,7 +561,7 @@ Poulain’s account is remarkably aware of what we would call the unconscious as
 
 with a nuanced awareness of the difficulties involved (for a detailed discussion see Reuter 2017: 44–49).
 
-### 3.2 Historical origins
+### Historical origins
 
 Poulain’s finely tuned analysis of the psychological aspects of oppression is combined with a robust analysis of the historical origin of the prejudiced opinion that women are inferior to men. He explains that we need to trace the prejudiced opinion about women “back to its origin” and that would
 
@@ -583,11 +583,11 @@ Poulain’s understanding of the difference between the original harmony of moth
 
 Both marriage and political rule must thus acknowledge that human beings are naturally equal, even if political society cannot be based on natural equality in the same direct manner as marriage can—and was, according to Poulain, during the golden age of liberty, before the arbitrary subjugation of women.
 
-## 4. The Equality of the Sexes
+## The Equality of the Sexes
 
 We have seen that Poulain claims that all human beings are equal, but how does he argue for the equality of the sexes? We do not know if Poulain was familiar with Marie de Gournay’s treatise *Égalité des hommes et des femmes* [The Equality of Men and Women] (1622), but he shares her emphasis on equality based on the similarity of the sexes. Gournay self-consciously distinguished herself from earlier participants in the *querelle des femmes*, who often argued for the superiority of either sex, and emphasizes that she is “content to make women equal to men, for nature is also as opposed to superiority as to inferiority in this respect” (G-EMW 54; G-OC 965; see also Deslauriers 2018). Whereas Gournay followed Aristotle and argued that the unique form of the human animal consists in the rational soul, which is the same in both sexes (G-EMW 65; G-OC 978; also Deslauriers 2019), Poulain rejected Scholastic philosophy and attempted to ground most of his arguments on Descartes’ philosophy. When we analyze his discussions of the equality of the sexes, we can distinguish four main arguments. First, Poulain argues that there is no evidence in favor of inequality, which is a mere false belief. Second, he argues that women and men are in all relevant respects mentally and physically similar and therefor equal. Third, he refers to a normative concept of natural equality, and finally, he develops a normative demand for equal opportunity. I have devoted one subsection to each argument.
 
-### 4.1 Inequality is a false belief
+### Inequality is a false belief
 
 This argument is based on Descartes’ method for the search of truth ([section 2.1](https://plato.stanford.edu/entries/francois-barre/#DescMeth)) and closely connected to Poulain’s criticism of prejudice ([section 3.1](https://plato.stanford.edu/entries/francois-barre/#RolePrej)). It is Poulain’s most substantial argument in the sense that a large part of *De l’égalité* consists of his refutations of claims about the inferiority of women. Poulain argues that beliefs about women are not based on women’s essence or nature, but historically constructed prejudices ([section 3.2](https://plato.stanford.edu/entries/francois-barre/#HistOrig)). Desmond Clarke, in particular, has emphasized this aspect of Poulain’s criticism and connected it to a general Cartesian criticism of Scholastic explanatory models, which explain “any phenomenon simply by postulating a ‘form’ or ‘nature’ that corresponds to each reality that needs to be explained” (Clarke 2013: 41). Poulain’s criticism of a scholastic notion of ‘nature’ is most explicit in a passage where he argues against “Lawyers’ opinions”, which carry “a lot of weight for many people because they profess specifically to give everyone their due” (T1en 152; TTfr 94). These Scholastic lawyers, among whom scholars claim that Poulain includes Hugo Grotius (Stuurman 2004: 166–167), say “that it is nature that assigns women to the lowest functions in society and removes them from public offices”, but they would, according to Poulain,
 
@@ -605,7 +605,7 @@ The generalization made here is not valid and does in fact resemble the generali
 
 Even here Poulain is not completely clear about the crucial difference between invalid generalizations from examples and the valid use of examples in order to show that a given generalization is untrue. But he allows for a generous interpretation according to which his primary aim is to show that generalizations about the inferiority of women are false.
 
-### 4.2 Similarity of the sexes
+### Similarity of the sexes
 
 In addition to showing that claims about inequality are false, Poulain aims to show that the sexes are equal, because they are in all relevant respects similar. In the second part of *De l’égalité*, this argument is placed under the subtitle *Women, when considered from the perspective of the principles of sound philosophy, are as capable as men of every kind of knowledge* and begins with the above (in [section 2.2](https://plato.stanford.edu/entries/francois-barre/#Meta)) cited claim that “the mind has no sex” (T1en 157; TTfr 99). Poulain argues:
 
@@ -633,7 +633,7 @@ Elisabeth is describing her inability to dissociate her will from the affairs th
 
 Elisabeth raises the question of how it is possible that the mind can be simultaneously distinct from and affected by the body. These are exactly the kind of metaphysical worries that Poulain leaves unaddressed, with the consequence that he is unable to provide a valid metaphysical basis for his claims about the similarity of the sexes.
 
-### 4.3 Natural equality
+### Natural equality
 
 Regardless of how successfully Poulain is able to show the similarity between the intellectual capacities of women and men, such descriptive similarity provides a weak—if any—foundation for a normative concept of equality (also Clarke 2013: 49; Hoekstra 2013). In order to find a normative basis for Poulain’s claim about the equality of the sexes I will first look at his references to the natural equality and liberty of humankind. In *De l’égalité*, Poulain writes that “dependence and servitude are contrary to the law of nature which makes all men equal” (TTen 78; TTfr 95) and a few pages later he points out that when humans are imagined separate from civil society, they are found “completely free and equal, with only a desire for self-preservation and an equal right to everything that would be necessary to achieve it” (T1en 164; TTfr 106). Poulain does not elaborate on what he means by the law of nature or by the state of nature preceding civil society. It is not clear to what extent he is relying on the Scholastic tradition of natural law, which he would have known from his studies at Sorbonne, and to what extent he is inspired by more recent developments, such as the natural law theory of Hugo Grotius and Thomas Hobbes.
 
@@ -653,7 +653,7 @@ Poulain’s discussions of natural equality and liberty in *De l’excellence*�
 
 Kinch Hoekstra, among others, has emphasized that this chapter from *De civitate Dei*, as well as a passage in *De doctrina Christiana* (book I, chap. 23), where Augustine states that human beings are naturally equal, influenced discussions about natural equality and liberty well into the seventeenth century (Hoekstra 2013: 95). When we look for the normative basis of Poulain’s claim that all humans are equal (shepherds and all), this theological origin, deriving equality from the creation of humankind, is at least as probable as Hobbes’ account of equality (for an influential interpretation of the normative nature of the latter, see Hoekstra 2013). Here we do not find a definite break with the scholastic tradition. Poulain is using its concept of equality in order to argue—against many Scholastic authors—that natural equality must be applied to the relation between women and men.
 
-### 4.4 The demand for equality
+### The demand for equality
 
 Desmond Clarke and Jacqueline Broad both emphasize that Poulain’s concept of equality is normative in the sense that it includes a *demand* for equal opportunity. According to Clarke we find in Poulain (and other seventeenth-century feminist authors) a “claim to the effect that all persons should enjoy equal access to certain human goods” (2013: 49). This demand is in itself dependent on the idea that people are in some relevant respect equal and in the case of Poulain we can see that his demand for equal opportunity is rooted in his discussions of ability ([section 4.2](https://plato.stanford.edu/entries/francois-barre/#SimiSexe)) as well as his notion of natural equality ([section 4.3](https://plato.stanford.edu/entries/francois-barre/#NatuEqua)).
 
@@ -669,7 +669,7 @@ The topic of education is also the topic that Poulain most evidently shares with
 
 and is still an essential theme in Mary Wollstonecraft’s *A Vindication of the Rights of Woman* (1792).
 
-## 5. Poulain and His Successors
+## Poulain and His Successors
 
 Poulain’s feminist treatises did not have a large following in France, but neither were they without impact. There were some authorized as well as unauthorized re-editions (for a complete list see Alcover 1981; also Welch 2002a: 25–31), but the references to his works are scarce. One exception is Gabrièle Suchon, who mentions “the author of the Equality” in her *Traité de la morale et de la politique* [Treatise on ethics and politics] (1693), where she defends women’s liberty as well as capacity of learning (Welch 2002a: 29; Shapiro 2017; Wilkin 2019). In the next century Louise Dupin cites Poulain in her unfinished manuscript *Ouvrage sur les femmes* [Work on Women] (ca. 1745), and we have direct evidence that Montesquieu spoke highly of *De l’égalité* (Thielemann 1983: 321–326; Stuurman 2004: 283–289; Wilkin 2019). It is also very likely that Rousseau, who was working as Dupin’s secretary while she worked on her manuscript, was familiar with at least Poulain’s first treatise.
 

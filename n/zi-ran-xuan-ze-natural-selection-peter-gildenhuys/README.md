@@ -10,7 +10,7 @@
 
 ---
 
-## 1. 自然选择的两种概念
+## 自然选择的两种概念
 
 自然选择在当代哲学家和生物学家中主要以两种不同的方式进行讨论。一种用法是“专注”的用法，旨在仅捕捉达尔文过程中的一个迭代的单个元素，称为“自然选择”，而另一种用法是“广泛”的用法，旨在在相同的范畴下捕捉一个完整的循环。这些显然是替代性的、不相竞争的术语用法，并且每种用法都涉及不同的哲学争议。本节将区分这两种用法，接下来的两节将专门讨论围绕每种用法的争议。第 4 节和第 5 节考虑了自然选择与解释和因果关系的联系。
 
@@ -20,7 +20,7 @@
 
 “广泛”使用自然选择概念的替代方式是捕捉达尔文过程的整体，而不是其中的单个贡献者。由于达尔文的过程是循环的，指定一个循环所需的条件，例如由长腿狼造成的长腿基因复制导致狭窄捕获的单个实例，足以指定一个可以解释适应和物种形成的过程。当然，前提是该过程会重复发生。广泛概念捕捉了达尔文过程的一个循环，由勒文汀和后来在同一方向工作的其他作者使用，他们提出了自然选择进化的条件：包括变异、遗传和繁殖。虽然这些达尔文过程的要素在勒文汀使用的广泛意义上属于“自然选择”的范畴，但当该概念在其专注意义上使用时，这些要素被视为与自然选择不同的要素。
 
-## 2. 进化和自然选择的条件
+## 进化和自然选择的条件
 
 哲学家和生物学家一直关注阐述自然选择进化的条件，其中许多人认为有一个单一的理论，即进化论，来统治达尔文的过程。在许多方面，阐述自然选择条件的尝试是一项典型的哲学事业。例如，我们知道，确认性证据可以用来提高我们对其所证实内容的信心，这种认识引发了对什么才算是确认的辩论（参见确认条目）。同样，达尔文的理论展示了如何解释一些自然现象（包括至少适应和物种形成），因此，阐述何时可以使用该理论的部署是一个类似的哲学关注。这样的陈述将导致对达尔文所针对的现象之外的内容，使用他的理论同样可以得到解释的裁决。这样的裁决可以用来裁决文化变异“模因”的传播是否真正可以用该理论解释，正如道金斯（1982 年）所建议的那样。哺乳动物的免疫系统同样可能涉及可以解释为选择过程的动力学（参见复制和繁殖条目的 4.1 节）。Zurek（2009 年）甚至辩护使用该理论来解释量子力学中的现象。Charlat 等人（2021 年）对生物体外自然选择的运作进行了批判性评估。
 
@@ -46,7 +46,7 @@ Okasha makes an important point about the intransitivity of covariance that is r
 
 Okasha’s alternative condition is intended to replace a pair of Lewontin’s principles. Interestingly, Okasha further differs from Lewontin in allowing that systems that do not evolve may meet his requirements. A system in which selection is exactly offset by transmission bias will not evolve but will undergo natural selection, according to Okasha (2006: 39).
 
-### 2.1 Replicator Selectionism
+### Replicator Selectionism
 
 陈述自然选择条件的另一种替代方法涉及对复制体的关注，其中基因是典范实例。这种方法是由于发现了遗传变异而产生的，尽管这些变异不利于承载它们的生物的繁殖，例如表现出减数分裂驱动的基因。复制体选择主义将基因/复制体作为选择的单位进行发展，与 Lewontin 风格的方法形成对比，后者将更大的实体，包括生物体甚至物种，作为选择的单位（参见有关选择单位和层次的条目）。
 
@@ -56,7 +56,7 @@ Dawkins 将复制体定义为宇宙中制作副本的任何事物（1982 年：8
 
 尽管对复制体选择主义进行了大量批评，但据我所知，复制体选择主义者并没有因为过于宽容而被批评，允许那些不进化的系统被视为经历选择。但是，生殖细胞复制体可能会对其被复制的概率产生因果影响，而不会作为自然种群中的传播结果，就像某些频率依赖选择已经达到平衡的系统的情况一样。在频率依赖选择的情况下，变异基因引起自身的复制，但对复制的影响程度取决于其频率。假设每种类型在较稀少时扩散。在 50%的频率下，每个基因对复制的影响互相抵消，结果是一个稳定的中间频率（关于一个表现出这种行为的自然系统的案例，请参见 Hori 1993）。因为在这些和其他情况下，引起复制并不一定会导致差异复制，所以复制体选择主义者并没有有效地将进化视为选择的必要条件，而 Lewontin 及其基本方法的追随者通常会这样做。
 
-### 2.2 进化对于自然选择是否必要？
+### 进化对于自然选择是否必要？
 
 仲裁系统是否必须进化的问题的一个自然方法是关注自然选择原则的陈述点，或者选择的要求的陈述。许多理论家认为，这些原则的目的是为了阐明处理选择和进化的特殊科学中的一个理论的范围，即进化论。Lewontin 声称进化论依赖于他的三个原则（1978 年：220）。同样，Godfrey-Smith 认为，关于自然选择进化条件的陈述展示了进化论的一致性，并捕捉到了其中一些核心原则（2007 年：489）。最后，Maynard-Smith（1991 年）提出了一种包括进化作为必要组成部分的选择条件的陈述，将这一所描述的理论称为“达尔文的理论”。对于这些作者来说，这些原则的（或者至少是一个）目的似乎是为了捕捉我们从达尔文那里继承的理论的应用领域。
 
@@ -94,7 +94,7 @@ xij=(2N)!(2N−i)!i!(1−j2N)2N−i(j2N)i
 
 提出自然选择进化条件的目的不一定是陈述特定科学领域中某个理论的应用条件。戈德弗雷-史密斯提到这些原则可能对将进化原理扩展到新领域的讨论很重要。陈述自然选择进化条件可能有其他价值。但是，尽管名字如此，进化理论至少可以说是适用于不仅仅是进化的系统的理论，正如复制体选择论者所认为的那样。
 
-## 3. 自然选择作为一种形式主义组成部分的解释
+## 自然选择作为一种形式主义组成部分的解释
 
 自然选择的两个主要用途之一是解释进化过程的形式模型中的某个数量；这是上面所述的专注意义。不同的形式模型中，哲学家们广泛讨论了两种不同的选择数量。一方面，在选择类型递归模型中，适应度系数被称为量化选择的指标；上述基因型选择模型中的 w 是适应度系数。这是标准的教科书用法（Rice 2004; Hedrick 2011）。这些模型的递归结构很重要。它们可以用来推断系统将来的行为（当然，前提是系统中的变量的原因不会以动态相关的方式改变其值，而这种方式在递归方程中没有明确建模）。在最简单的情况下，类型递归使系统动力学成为适应度系数与有效种群大小（量化漂移）加权的类型频率/数量的函数，就像上面讨论的基因型选择模型一样。类型递归的更复杂变体包括频率依赖选择模型，适应度是类型频率变量的函数的情况；密度依赖选择模型，适应度是种群大小的函数的情况；空间和时间可变选择模型，适应度随着与类型差异相互作用的可变环境变量的函数而变化，等等。使用类型递归模型的作者已经对他们的理论术语进行了明确的解释，包括量化选择的适应度变量。 所以，例如，Beatty 和 Millstein 辩护认为，在类型递归中代表选择的适应度系数应该被理解为对一种歧视性抽样过程进行建模，而由有效种群大小控制的漂变应该被理解为无差别抽样（Beatty 1992; Millstein 2002）。
 
@@ -168,15 +168,15 @@ WΔZ=Cov(w∗i,z′i)+Cov(μi,z′i)
 
 最终，关于什么算作选择的两种建模方法之间的冲突可能有至少两种解决方式。也许一种建模方法对选择的理解是错误的。或者，与选择有关的某些东西在这里是任意的。特别是，将某种或另一种形式的随机性视为选择或漂移，取决于选择使用哪种建模方法，不同的方法对“选择”和“漂移”提供了逻辑上不同的理解。一旦选择使用类型递归来建模系统，就不得不这样做：温度必须被建模为选择。一旦选择使用价格方程来建模系统，就可以自由选择：可以将变化的温度视为与预期适应度相关，从而将其视为选择，或者将其视为产生偏离预期的偏差，从而将其视为漂移。根据这种解决冲突的第二种方式，选择两种建模方法之间的选择并不是由自然决定的，因此至少在形而上学上（如果不是实际上）是任意的。
 
-## 4. 自然选择和解释
+## 自然选择和解释
 
 如上所述，进化理论在没有解释结构的情况下无法完成其工作。哲学家们争论选择解释了各种各样的事物以各种不同的方式。哲学家们在进化研究中发现了许多类型的解释，包括选择解释（McLoone，2013），谱系惯性解释（Griffiths，1996；Orzack 和 Sober，2001），谱系解释（Brown 2014；Calcott，2009），同源性解释（Ereshefsky，2012），可进化性解释（Brown，2014），部分-整体解释（Winther，2011），拓扑解释（Huneman，2010；2018）。Huneman（2018）主张进化生物学中的解释多元主义。Reydon（2023）认为进化解释由一对解释组成，每个解释都涉及自然选择。下面，我将考虑一些关于选择是否以及如何解释的争议。
 
-### 4.1 解释范围
+### 解释范围
 
 There exists a longstanding debate among both scientists and philosophers over exactly what natural selection can explain, one begun by Sober and Neander who were concerned with what natural selection can explain (Sober 1984, 1995; Neander 1988, 1995). In an expansive treatment, Razeto-Barry & Frick (2011) distinguish between the creative and non-creative views of natural selection; Beatty (2016; 2019) provides a historical perspective on the issue. On the non-creative view, natural selection merely eliminates traits while doing nothing to create new ones; the latter phenomenon is the result of mutation. Proponents of the creative view see natural selection as a creative force that makes probable combinations of mutations that are necessary for the development of at least some traits. While Razeto-Barry and Frick grant that natural selection cannot explain the origin of traits that arise by a single mutation, they argue that it can explain the occurrence of sequences of phenotypic changes that would otherwise be wildly unlikely to occur without selection operating to cause the spread of the changes prior to the final one in the sequence. Additionally, it is disputed whether natural selection can explain why an arbitrary individual has the traits it has (Walsh 1998; Pust 2004; Birch 2012). On the positive view, selection affects the identity of individual organisms, and it is part of the identity of an individual to have been produced by the parents that produced it, so natural selection explains why individuals have the traits they do. On the negative view, the explanatory scope of natural selection is limited to population level properties. Razeto-Barry and Frick further consider the question of whether natural selection can explain the existence of individuals, ultimately arguing against it. Reydon (2011) critiques the metaphor that natural selection functions as a sieve by which it eliminates variations.
 
-### 4.2 Challenges to Explanatoriness
+### Challenges to Explanatoriness
 
 自然选择的解释能力受到了多方面的质疑。Gould 和 Lewontin 对选择解释的解释能力提出了重要挑战，他们质疑了那些依赖于合理性和解释能力而被认为正确的特征起源的选择论解释的真实性（Gould＆Lewontin 1979：588）。Gould 和 Lewontin 提供了几个例子，这些例子中可以轻松构建出“恰好如此”的故事，但仍然被认为是真实的，除了这些故事的合理性和与理论的一致性之外，几乎没有其他证据。Lennox 认为，当“恰好如此的故事”不被视为真实时，它们可以作为思想实验在评估科学理论的解释潜力时发挥真正的、虽然是适度的作用（参见 Mayr 1983；Lennox 1991；适应主义条目）。在达尔文理论的辩论中，这种思想实验被达尔文和他的批评者以合法和修辞有效的方式使用（Lennox 1991）。
 
@@ -192,11 +192,11 @@ Lewontin 对自然选择的进化要求存在一种模棱两可的情况。“�
 
 选择论解释面临的另一个困难与其可靠性有关。格莱默反对使用类型递归构建的解释的可靠性：“种群遗传模型使用错误的变量，通过错误的方程式，使用错误的参数来演化种群”（格莱默 2006：371）。格莱默证明外生适应度变量不能用于量化在投射期间其影响发生变化的繁殖环境原因。适应度不能是一种摘要变量，既要从自然种群的因果细节中抽象出来，又要能够可靠地预测和解释类型递归适用的系统的动态。吉尔登海斯（Gildenhuys 2011）对格莱默的观点做出了回应，承认他的论点是有效的，但主张有多种方法可以复杂化类型递归，以正式处理环境原因的影响；格莱默（2013）提供了回复。
 
-### 4.3 自然选择作为一种机制
+### 自然选择作为一种机制
 
 对解释感兴趣的哲学家最近开始关注机制：“机制被寻求来解释一个现象是如何发生或某个重要过程是如何运作的”（Machamer、Darden 和 Craver 2000: 2）。确保选择具有解释性的一种方法是显示它作为一个机制发挥作用。自然选择是否符合机制的条件存在争议。Skipper 和 Millstein 反驳了这个观点：自然选择没有以正确的方式组织起来以被视为一个机制，它在各个阶段之间缺乏生产连续性，并且进一步缺乏必要的操作规律（Skipper 和 Millstein 2005: 335）。Barros（2008）认为自然选择可以被描述为一个两级机制，其中有一个群体级机制和一个个体级机制共同工作。Havstad（2011）回应说 Barros 提供的解释过于笼统，因此包括任何选择过程，而不仅仅是自然选择。此外，据称构成选择机制的部分/实体和活动/相互作用只能通过在选择过程中的角色来指定，而机械解释通过将这些角色与具体现象相关联来工作（Havstad 2011: 522–523）。Matthews（2016）提供了关于选择作为机制的辩论的案例研究，而 DesAutels（2016）则提供了一种机械观点的辩护。Villegas（2024）将进化发育生物学的机械观与进化理论的群体级方法相结合。
 
-## 5. 因果关系
+## 因果关系
 
 Godfrey-Smith 指出，某些特征可能仅仅是偶然符合 Lewontin 对自然选择进化的条件。具有特定特征的父母可能比没有该特征的父母有更多的后代，即使该特征并不因果地影响后代数量（Godfrey-Smith 2007: 511）。在这种情况下，只要该特征是可遗传的，Lewontin 就会认为存在自然选择的进化，因为具有该特征的个体在存活和繁殖方面实际上具有更高的比率，即使只是偶然的。同样，一个特征可以通过搭便车的方式传播，并满足 Lewontin（或 Okasha）对选择的要求。搭便车的特征与导致繁殖的特征相关，因此具有该特征的个体表现出增加的繁殖能力，尽管该特征实际上并不导致繁殖。但是，对于 Godfrey-Smith 来说，在这些情况下，该特征的差异对产生后代数量的变化没有因果作用，因此在这种情况下，至少从 Godfrey-Smith 的观点来看，自然选择在专注意义上并不存在。
 
@@ -220,7 +220,7 @@ WΔP=Cov(Wk,Pk)+Ek [Cov(wjk,pjk)]
 
 Okasha 提出了一个用于因果充分性的测试，其工作方式如下：如果第一个术语取正值，则 Wk 和 Pk 必须存在因果关系，否则方程不具备因果充分性。同样，如果 Price 方程的统计函数取正值，但其组成部分之间不存在因果关系，或者如果其统计函数在其组成部分存在因果关系时取零值，则 Price 方程的某个版本不具备因果充分性。因此，Price 方程的某个版本是否具备因果充分性取决于系统中变量之间的因果关系。在这种方法中，因果充分性的概念与表示原因的变量之间存在依赖关系的方程的因果可解释性的概念不同。
 
-## 6. 结论
+## 结论
 
 这篇文章最初区分了“自然选择”的两种用法，即专注和广泛的用法，专注的用法挑选出广泛意义上捕捉到的过程的单个形式要素。还有一些中间情况。Brandon 提供了这样的选择定义：选择是由于对共同选择环境的差异适应而导致的差异繁殖（Brandon 2005: 160）。这个定义并没有试图捕捉达尔文的整个过程：虽然它将自然选择与一种繁殖类型联系起来，但没有提及遗传或复制。根据 Brandon 的定义重复一个指定适应 Brandon 定义的过程，我们可能仍然没有找到能够解释适应或物种形成的东西。但 Brandon 的选择定义也不适合作为任何形式主义中理论术语的解释。相反，该定义与发展一种自然选择原理的努力相联系，该原理在达尔文理论的定性版本中起到了重要作用。该原理使用概率论和适应度概念来进行表述。自然选择原理的历史发展始于 Brandon 与 Beatty 和 Mills（Brandon 1978; Mills & Beatty 1979），并在其他地方讨论了关于概率和适应度解释的辩论（Brandon 1990: ch. 1; Sober 2000; Campbell & Robert 2005; entry on fitness）。
 
