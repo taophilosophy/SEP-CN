@@ -68,6 +68,8 @@ The Thought Experiments to 思想实验.
 
 The  Simone de Beauvoir to 西蒙娜·德·波伏娃. The Beauvoir to 波伏娃. The  Jean-Paul Sartre to 让-保罗·萨特. The Sartre  to 萨特. The authenticity to 本真性 . The She Came to Stay to 女宾. The Pyrrhus and Cinéas to 皮瑞斯与辛尼阿斯. The The Ethics of Ambiguity to 模糊性的道德. The America Day by Day to 美国纪行. The The Second Sex to 第二性. The Must We Burn Sade to 要焚毁萨德吗. The The Long March to 长征. The A Very Easy Death to 安详辞世. The All Men are Mortal to 人都是要死的. The Adieux: A Farewell to Sartre to 告别的仪式. The Djamila Boupacha  to贾米拉·布巴夏. The The Coming of Age to 论老年.
 
+The Albert Camus to 阿尔贝·加缪. The  Camus to 加缪.The Nuptials to 婚礼集. The The Myth of Sisyphus to 西西弗神话. The  The Will to Believe to 信念意志. The The Rebel  to 反抗者. The Being and Nothingness to 存在与虚无. The The Stranger to 局外人. The Caligula to 卡利古拉. The  The Just Assassins to 正义者.The The Plague to 鼠疫.The The Fall to 堕落.The  The Brothers Karamazov to 卡拉马佐夫兄弟.The triumph to 胜利.
+
 The Thomas of Erfurt to 埃尔福特的托马斯. 
 
 The Natural Theology to 自然神学. The Natural Religion to 自然宗教.
