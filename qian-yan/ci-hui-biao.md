@@ -14,7 +14,9 @@ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚
 
 The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯. The Anicius Manlius Severinus Boethius to 亚尼修·玛理乌斯·塞味利诺·波爱修斯. The Boethius to 波爱修斯.The Peter Abelard to 彼得·阿伯拉尔. The Abelard to 阿伯拉尔. The Abner of Burgos to 布尔戈斯的阿布内尔.
 
-The Henry More to 亨利·莫尔.The More to 莫尔. The Ralp Cudworth to 拉尔夫·库德沃斯. The Cudworth to 库德沃斯. The Shaftesbury Lord to 沙夫茨伯里伯爵. The Anthony Ashley Cooper to 安东尼·阿什利-柯柏. The Platonists to 柏拉图主义.The Cambridge Platonists to 剑桥柏拉图学派.
+The Henry More to 亨利·莫尔.The More to 莫尔. The Ralp Cudworth to 拉尔夫·库德沃斯. The Cudworth to 库德沃斯. The Shaftesbury Lord to 沙夫茨伯里伯爵. The Anthony Ashley Cooper to 安东尼·阿什利-柯柏. The Platonists to 柏拉图主义.The Cambridge Platonists to 剑桥柏拉图学派. The Benjamin Whichcote to 本杰明·惠科特. The Whichcote to 惠科特.The 3rd Earl of to 第三代.
+
+ Tommaso  Campanella to 托马斯·康帕内拉. The  Campanella to 康帕内拉.The The City of the Sun to 太阳城. 
 
 The Byzantine to 拜占庭.
 
