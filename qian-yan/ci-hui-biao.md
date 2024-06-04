@@ -26,7 +26,7 @@ The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里�
 
  The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
 
-The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义.
+The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义. The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.The Vienna Circle to 维也纳学派.The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . 
 
 The Wisdom to 智慧. The basing relation to 基础关系. 
 
@@ -38,7 +38,6 @@ The John Cook Wilson to 约翰·库克·威尔逊. The Wilson to 威尔逊.
 
 The Watsuji Tetsurō to 和辻哲郎 . The Watsuji to 和辻. The Tetsurō to 哲郎 .
 
-The Alfred North Whitehead to 阿弗烈·诺夫·怀特海. The Whitehead to 怀特海.
 
 The Simone Weil to 西蒙娜·薇依  . The Weil to 薇依.
 
@@ -100,7 +99,6 @@ The Structural Realism to 结构现实主义. The Epistemic Structural Realism t
 
 The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
 
-The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.
 
 The Sounds to 声音.
 
@@ -126,7 +124,6 @@ The Moral Vegetarianism to 伦理素食主义. The Vegetarianism to 素食主义
 
 The visual thinking in mathematics to 数学中的视觉思维. The The Epistemology of Visual Thinking in Mathematics to 数学中的视觉思维认识论.
 
-The Vienna Circle to 维也纳学派.
 
 The  Wang Yangming to 王阳明. The Great Learning to 大学问.
 
@@ -195,7 +192,7 @@ The  biological individuals to 生物学个体. The Sociobiology to 生物社会
 
 The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉. The Niels Bohr to 尼尔斯·玻尔. The  Bohr to 玻尔. The correspondence principle to 对应原理. The Bell’s Theorem to 贝尔定理.
 
-The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.The George Boole to 乔治·布尔.  The Boole to 布尔. 
+The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.The George Boole to 乔治·布尔.  The Boole to 布尔. The Alfred North Whitehead to 阿弗烈·诺夫·怀特海. The Whitehead to 怀特海. The Boolean algebra to 逻辑代数.
 
 The Jean Baudrillard to 让·鲍德里亚.  The Baudrillard to 鲍德里亚.The The Mirror of Production to 生产之镜. The System of Objects to 物体系.
 
@@ -223,7 +220,6 @@ The  Philosophy of Statistics to 统计学哲学 .
 
 The Spinoza to 斯宾诺莎. The George Berkeley to 乔治·贝克莱.  The Berkeley to 贝克莱.  The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 
- The Boolean algebra to 逻辑代数.
 
 The  Absolute idealism to 新黑格尔主义. The British Idealism to 英国新黑格尔主义. The Bernard Bosanquet to 伯纳德·鲍桑葵. The  Bosanquet to  鲍桑葵.  The Token to 个体. The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退.  The Bruno  Bauer to 布鲁诺·鲍威尔. The Bauer to 鲍威尔.
 
