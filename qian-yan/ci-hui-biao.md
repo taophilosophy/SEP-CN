@@ -12,7 +12,7 @@
 ```
 The Account  to 解释/原理/理论. The accounts to 解释/原理/理论.
 
-The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛.
+The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛. The Carneades to 卡涅阿德斯.The Academic Skepticism to 学院怀疑主义.
 
 The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯. The Anicius Manlius Severinus Boethius to 亚尼修·玛理乌斯·塞味利诺·波爱修斯. The Boethius to 波爱修斯.The Peter Abelard to 彼得·阿伯拉尔. The Abelard to 阿伯拉尔. The Abner of Burgos to 布尔戈斯的阿布内尔.
 
@@ -24,7 +24,6 @@ The Byzantine to 拜占庭.
 
 The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教.
 
- The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班.
 
 The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义. The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.The Vienna Circle to 维也纳学派.The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . 
 
@@ -220,8 +219,9 @@ The  Philosophy of Statistics to 统计学哲学 .
 
 The Spinoza to 斯宾诺莎. The George Berkeley to 乔治·贝克莱.  The Berkeley to 贝克莱.  The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 
-
 The  Absolute idealism to 新黑格尔主义. The British Idealism to 英国新黑格尔主义. The Bernard Bosanquet to 伯纳德·鲍桑葵. The  Bosanquet to  鲍桑葵.  The Token to 个体. The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退.  The Bruno  Bauer to 布鲁诺·鲍威尔. The Bauer to 鲍威尔.
+
+The neo-Kantianism to 新康德主义. The Friedrich Albert Lange to 弗里德里希·阿尔贝特·朗格. The Lange to 朗格. The Paul Natorp to 保罗·那托普. The Natorp to 那托普. The Karl Leonhard Reinhold to 卡尔·莱昂哈德·莱因霍尔德. The Reinhold to 莱因霍尔德. The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班. The Ernst Cassirer to  恩斯特·卡西尔. The  Cassirer to 卡西尔. The Hermann Cohen to 赫尔曼·科恩.The Cohen to 科恩.
 
 The Ernst Bloch to 恩斯特·布洛赫. The Bloch to 布洛赫. The Walter Benjamin to 瓦尔特·本雅明. The Benjamin to 本雅明.
 
