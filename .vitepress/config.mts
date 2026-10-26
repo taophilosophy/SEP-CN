@@ -202,6 +202,14 @@ export default defineConfig({
     if (zh) pageData.frontmatter.zhPath = '/' + zh.replace(/\.md$/, '')
   },
   vite: {
+    plugins: [
+      {
+        name: 'sep-debug-root',
+        configResolved(c: any) {
+          console.log('[debug] vite root =', c.root, '| publicDir =', c.publicDir)
+        },
+      },
+    ],
     server: {
       watch: {
         // 本仓库所在盘的 ReadDirectoryChangesW 会报 UNKNOWN 错误，改用轮询监听
