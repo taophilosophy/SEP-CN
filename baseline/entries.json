@@ -2,6 +2,93 @@
   "schema": "sep-cn-baseline/1",
   "entries": [
     {
+      "slug": "18thGerman-preKant",
+      "fetched_at": "2026-10-26T20:31:10Z",
+      "source_url": "https://plato.stanford.edu/entries/18thGerman-preKant/",
+      "title": "18th Century German Philosophy Prior to Kant",
+      "authors": [
+        "Dyck, Corey",
+        "Sassen, Brigitte"
+      ],
+      "pubinfo": {
+        "first_published": "Mar 10, 2002",
+        "substantive_revision": "Jul 1, 2026"
+      },
+      "in_article_markers": true,
+      "zh_doc": "g/de-guo-zhe-xue-german-philosophy/kang-de-zhi-qian-de-18-shi-ji-de-guo-zhe-xue-in-the-18th-century-prior-to-kant-corey-dyck-and-brigit.md",
+      "archinfo": {
+        "latest_edition": "Fall 2026",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Winter 2021",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2015",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2014",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2011",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2010",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2010",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2007",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2006",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2003",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2002",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Fall 2026",
+      "files": [
+        {
+          "path": "en/18thGerman-preKant/index.html",
+          "sha256": "62f84fcc2e47efdf73da0d05d03584dda9348f8a5a14402fe8426779dbec4d28",
+          "bytes": 139075,
+          "kind": "main"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/1/18thGerman-preKant.md",
+        "sha256": "eeff02d1b5738fbea8c1a12bdc21ed7ff0b6c9c36da38c1fbad92555cbe0fc24",
+        "source_sha256": "62f84fcc2e47efdf73da0d05d03584dda9348f8a5a14402fe8426779dbec4d28",
+        "converted_at": "2026-10-26T20:31:21Z",
+        "cite_markers": 131,
+        "cite_defs": 158,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
+    },
+    {
       "slug": "abduction",
       "fetched_at": "2026-10-26T16:37:39Z",
       "source_url": "https://plato.stanford.edu/entries/abduction/",
@@ -70,6 +157,157 @@
         "notes": 0
       },
       "zh_doc": "a/abduction.md"
+    },
+    {
+      "slug": "abelard",
+      "fetched_at": "2026-10-26T20:31:10Z",
+      "source_url": "https://plato.stanford.edu/entries/abelard/",
+      "title": "Peter Abelard",
+      "authors": [
+        "King, Peter",
+        "Arlig, Andrew"
+      ],
+      "pubinfo": {
+        "first_published": "Aug 3, 2004",
+        "substantive_revision": "Jul 31, 2026"
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/abelard.md",
+      "archinfo": {
+        "latest_edition": "Fall 2026",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Fall 2023",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2023",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2022",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2018",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2015",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2015",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2010",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2004",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Fall 2026",
+      "files": [
+        {
+          "path": "en/abelard/index.html",
+          "sha256": "75ee8c24717589b82cd2ea8e0e2202ed160e0dea8dbc2dc33f75215f6b538a6e",
+          "bytes": 116018,
+          "kind": "main"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/a/abelard.md",
+        "sha256": "e5f2f685a7422f85a946783d04b78ea922ad092e80d77b72a78186960ecb56f8",
+        "source_sha256": "75ee8c24717589b82cd2ea8e0e2202ed160e0dea8dbc2dc33f75215f6b538a6e",
+        "converted_at": "2026-10-26T20:31:21Z",
+        "cite_markers": 0,
+        "cite_defs": 96,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
+    },
+    {
+      "slug": "abhidharma",
+      "fetched_at": "2026-10-26T20:31:10Z",
+      "source_url": "https://plato.stanford.edu/entries/abhidharma/",
+      "title": "Abhidharma",
+      "authors": [
+        "Ronkin, Noa"
+      ],
+      "pubinfo": {
+        "first_published": "Aug 16, 2010",
+        "substantive_revision": "Mar 31, 2026"
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/abhidharma.md",
+      "archinfo": {
+        "latest_edition": "Summer 2026",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Summer 2022",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2018",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2017",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2014",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2013",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2010",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Summer 2026",
+      "files": [
+        {
+          "path": "en/abhidharma/index.html",
+          "sha256": "7c50598043153df3e9b069687098dd3eaeb40b219688b2c74872702d1bbc3b91",
+          "bytes": 110791,
+          "kind": "main"
+        },
+        {
+          "path": "en/abhidharma/notes.html",
+          "sha256": "5b1c261bcdd3b1b13ef03db9bbb1509c71d66f95836a693d331c419bd6193ad2",
+          "bytes": 18254,
+          "kind": "notes"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/a/abhidharma.md",
+        "sha256": "5a5fa40b4d9cd1786abfada66450d4f83e161b76c71dfd55e9f5c7bef39f28f6",
+        "source_sha256": "7c50598043153df3e9b069687098dd3eaeb40b219688b2c74872702d1bbc3b91",
+        "converted_at": "2026-10-26T20:31:31Z",
+        "cite_markers": 36,
+        "cite_defs": 48,
+        "supplements": [],
+        "images": [],
+        "notes": 17
+      }
     },
     {
       "slug": "academic-freedom",
@@ -804,5 +1042,5 @@
       "zh_doc": "s/set-theory/README.md"
     }
   ],
-  "updated_at": "2026-10-26T20:29:52Z"
+  "updated_at": "2026-10-26T20:31:31Z"
 }
