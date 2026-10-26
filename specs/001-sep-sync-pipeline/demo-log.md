@@ -68,3 +68,41 @@
 4. **文献作者 token 正则漏尾点**：`[A-ZÀ-ÿ][\w…]*` 把 "G." 捕成 "G"，缩写首字母漏进 surnames，acronym 变 KGSRJESM，KRS 1983 永不命中 → token 类补 `\.?` + fullmatch 过滤。
 5. **引用注释已知局限**（登记不修）：嵌套括号的引用组不被 GROUP_RE 覆盖；同作者跨分号的年份省略式（"Zhmud 2012a, 122; 2012b"）不给 2012b 挂标；SEP 自身漏列的文献（如正文引 Burkert 1972 而文献表无此条）无 key 可挂。
 6. **zh_doc 入基线**：fetch_entry 抓取时即登记 zh_doc（此前只在建任务时算，SUMMARY 镜像无映射可用）。
+
+
+---
+
+# 演示轮 2 复核日志：yuanwen 逐文件质量复核（2026-10-27）
+
+**方法**：规范化覆盖审计（源 HTML 每个内容块前缀的字母数字规范形必须能在 md 中寻得，数学段/链接目标/引用标记归一）+ 伪影扫描（HTML 标签残留、实体残留、占位符泄漏）+ 逐文件人工抽查。
+
+## 复核中发现并修复的转换器缺陷（6 个）
+
+1. **主 unescape 被误删**：修复"数学内实体"时的 Edit 连带删掉了正文 `unescape(s)`，&mdash;/&rdquo; 等全库残留 → 恢复。
+2. **in_bib 永不复位**：文献节后的 Other Internet Resources/Related Entries/Acknowledgments 全被吞进 bib_entries → 标题层级感知复位（bib_lvl）。
+3. **preamble 整段丢弃**：v2 提取器把 div#preamble 标为独立类型但渲染器无此分支。
+4. **块间裸文本丢失**：展示公式 \[…\] 不带 <p> 标签时整段被跳过 → gap 捕获收为 p 块（bell 的 	ag{27} 等）。
+5. **脚注锚双重前缀**：bell 用 notes.html#note-8（自带 note- 前缀）→ [^note-note-8]；且解析器 notes_refs 只认纯数字锚导致 notes.html 根本没被抓取（bell/quine/logic-classical 三词条补抓）→ 锚名归一化统一 [^note-8]。
+6. **数学内实体**：\(x &lt; y\) 的实体在占位保护期躲过解码 → 恢复时 unescape。
+
+## 用户指令落实
+
+- **禁止 HTML 标签（保持洁净）**：sub/sup 一律转纯文本记法 _{x} / ^{x}，全库 <sub>/<sup> 残留 = 0。
+- **图片完全本地化**：en/<slug>/ 的图片复制进 yuanwen/assets/<slug>/，md 以 ../assets/ 相对引用，yuanwen 项目自包含。
+- **数学公式完全转为 LaTeX**：\(..\)→$…$、\[…\]→$$…$$，LaTeX 内容不变。
+
+## 终审结果（规范化覆盖审计，8 词条 + 补充材料 + SUMMARY）
+
+| 文件 | 覆盖缺失 | 洁净违规 | 备注 |
+| ---- | -------- | -------- | ---- |
+| abduction.md + .peirce.md | 0 | 0 | 引用标记 52 |
+| alcmaeon.md | 0 | 0 | 引用标记 79 |
+| arcesilaus.md | 0 | 0 | 引用标记 57 |
+| bayes-theorem.md | 0 | 0 | 表格 25、脚注标记 32/定义 16 |
+| bell-theorem.md | 1* | 0 | *唯一"缺失"为检查器局限：脚注编号 8 只存在于锚 [^note-8] 内；正文与定义人工验证均在。图片 2 本地化 ✓，展示公式 	ag{27} ✓ |
+| logic-classical.md | 0 | 0 | 数学 1545 处 $…$ |
+| quine.md | 0 | 0 | 致谢段 ✓ 脚注 3/3 |
+| set-theory.md + 2 补充 | 0 | 0 | preamble ✓ 数学 760 |
+| SUMMARY.md 镜像 | 8 链接改写 | | |
+
+单测 34 例全绿（新增 7 例锁定上述修复）。
