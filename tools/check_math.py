@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""数学保真门禁（用户 2026-10-27 裁定：内含大量数学公式，必须格式准确）。
+r"""数学保真门禁（用户 2026-10-27 裁定：内含大量数学公式，必须格式准确）。
 
 对基线中已转换 yuanwen 的词条逐一核验：
   1. 原始 HTML（正文 + notes.html）里抓出的每个 \(…\)/\[…\]/$$…$$ 公式，
@@ -73,12 +73,13 @@ def check_slug(slug):
     for h in htmls:
         for kind, inner in raw_formulas(h):
             n += 1
-            if _norm(inner) not in md_norm:
+            if _norm(inner) not in unescape(md_norm):
                 issues['missing'].append({'kind': kind, 'excerpt': _norm(inner)[:80]})
+    issues['formulas'] = n
     if PLACEHOLDER_RE.search(md):
         issues['missing'].append({'kind': 'placeholder-leak', 'excerpt': '占位符残留'})
 
-    # 正文行内 $ 计数平衡（剥掉 $$ 与围栏代码后，$ 应成对）
+    # 正文行内 $ 计数平衡（剥掉 $$ 与围栏/行内代码后，$ 应成对）
     fence = False
     for line in md.split('\n'):
         if line.lstrip().startswith('```'):
@@ -87,6 +88,8 @@ def check_slug(slug):
         if fence:
             continue
         t = line.replace('$$', '')
+        # 行内代码里的 $ 不算定界符
+        t = re.sub(r'`[^`]*`', '', t)
         if t.count('$') % 2:
             issues['unbalanced'].append(line.strip()[:80])
     return issues

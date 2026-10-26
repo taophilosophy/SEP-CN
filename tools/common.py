@@ -13,6 +13,7 @@ import os
 import sys
 import tempfile
 import threading
+import time
 from datetime import datetime, timezone
 
 # baseline/entries.json 的读改写全程互斥（并发抓取多线程共用一把锁；
@@ -114,7 +115,15 @@ def write_json_verified(path, obj):
         with open(tmp, "rb") as f:
             if f.read() != data:
                 raise OSError("write_json_verified: temp file content mismatch: %s" % tmp)
-        os.replace(tmp, path)
+        # os.replace 在 Windows 上会因他进程持有句柄瞬时失败（并发抓取窗口），重试放行
+        for attempt in range(5):
+            try:
+                os.replace(tmp, path)
+                break
+            except PermissionError:
+                if attempt == 4:
+                    raise
+                time.sleep(0.2)
     finally:
         if os.path.exists(tmp):
             try:
@@ -128,8 +137,16 @@ def write_json_verified(path, obj):
 
 
 def load_json(path):
-    with open(path, "rb") as f:
-        return json.loads(f.read().decode("utf-8"))
+    last = None
+    for attempt in range(5):
+        try:
+            with open(path, "rb") as f:
+                return json.loads(f.read().decode("utf-8"))
+        except (PermissionError, FileNotFoundError) as e:
+            # 并发抓取时 entries.json 处于"替换瞬间"会瞬时不可读，退避重试
+            last = e
+            time.sleep(0.2)
+    raise last
 
 
 def ensure_dirs():

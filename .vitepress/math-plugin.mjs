@@ -39,9 +39,9 @@ function rawMathHtml(raw) {
 }
 
 /** 源文进入 markdown 解析前：围栏/行内代码以外的公式抽换为哨兵 */
-function protectMath(src) {
+export function protectMath(src) {
   const re =
-    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|\$\$([\s\S]+?)\$\$|\$([^$\n]+?)\$/g
+    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|\$\$([\s\S]+?)\$\$|\$([^$]+?)\$(?!\d)/g
   return src.replace(
     re,
     (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTex) => {
@@ -51,8 +51,10 @@ function protectMath(src) {
       if (inlineTex !== undefined) return `@@MI${encodeB64(inlineTex)}@@`
       if (ddTex !== undefined) return `@@MJ${encodeB64(`$$${ddTex}$$`)}@@`
       if (dTex !== undefined) {
-        // 单 $ 防误伤：内容首尾空白或首字符为数字（如 "$5 and"）不视为公式
-        if (/^\s|\s$|^\d/.test(dTex)) return all
+        // 单 $ 防误伤：内容首尾空白、跨空行（段落分隔）不视为公式；
+        // 右定界符后紧跟数字（"$5和$10"）已由 (?!\d) 排除。
+        // 内容允许单个换行（原文有跨行的行内公式）。
+        if (/^\s|\s$/.test(dTex) || /\n[ \t]*\n/.test(dTex)) return all
         return `@@MJ${encodeB64(`$${dTex}$`)}@@`
       }
       return all
