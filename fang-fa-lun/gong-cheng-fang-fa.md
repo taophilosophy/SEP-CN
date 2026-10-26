@@ -87,7 +87,7 @@ python script/check_mulu_s.py         # mu-lu-s 对应性（只检测不改动�
 python script/extract_terms.py        # 术语候选提取（语料扩充后重跑）
 ```
 
-markdownlint 以仓库根 `.markdownlint-cli2.jsonc` 为准（CI 同源），不再传 `--config .github/.markdownlint.json`；表格一律紧凑风格（单元格内侧不加空格，MD060）。
+markdownlint 以仓库根 `.markdownlint-cli2.jsonc` 为准（CI 同源），不再传 `--config .github/.markdownlint.json`；表格一律紧凑风格（单元格内侧不加空格，MD060）。check_all 对 `mu-lu-s.md`（用户裁定只检测不改动）、`specs/**`（他会话产物）、`guan-yu/**`（既有页面历史格式违规，待归属会话以 `script/fix_table_style.py` 机械修复）与 `.github/sep-sync-report/**`（管线自动生成物）予以豁免，其余文件非 0 即阻断。工具批量修复前必须先在单个文件上验证 diff——2026-10-27 曾因正则吞换行把 guan-yu 三页的多行表格拼成一行，已回滚（S3 教训同样适用于工具变更）。
 
 ## S8 提交与会话纪律
 
