@@ -13,16 +13,6 @@
 
 一旦您到达上述页面，您只需搜索“cmsy10.ttf”并下载/安装该字体。
 
-## Microsoft Windows 7 – 10; Mac OS X 10.6 – 10.15
-
-目前，在 Windows 7 – 10 或以下任何 Mac 系统上浏览我们的网页时，没有已知的问题：Mac OS X 10.6（Snow Leopard）、Mac OS X 10.7（Lion）、Mac OS X 10.8（Mountain Lion）、Mac OS X 10.9（Mavericks）、Mac OS X 10.10（Yosemite）、Mac OS X 10.11（El Capitan）、macOS 10.12（Sierra）、macOS 10.13（High Sierra）、macOS 10.14（Mojave）或 macOS 10.15（Catalina）。
-
-## Microsoft Windows/Vista 和 Mac OS X/Leopard (10.5)
-
-**Windows/Vista**。虽然我们有限的测试了在 Vista 机器上的页面，但使用默认字体的 Firefox 浏览器可以获得最佳结果。我们收到的报告称，Internet Explorer 可能缺少我们使用的某些特殊 Unicode 字符。如果您无法安装 Firefox，则尝试以下操作：开始 → 设置 → 控制面板；切换到控制面板的经典视图；选择区域和语言 → 语言，然后勾选“安装复杂脚本的文件”和“安装东亚语言的文件”。然后重新启动计算机，以加载新的字体。
-
-**Mac OS X/Leopard (10.5)**。在 Mac OS X 10.5 下运行的 Safari、Firefox、Camino、Mozilla 和 OmniWeb 版本都经过了成功测试。然而，为了获得最佳结果，您应该将字体设置为 Times 或 Lucida Grande，因为这些字体在 Mac OS X 中似乎对 Unicode 字符具有最广泛的支持。我们还测试了 Opera，效果相当不错。另请参阅 Alan Wood 的 Unicode 资源：[Macintosh OS X 计算机的 Unicode 字体](http://www.alanwood.net/unicode/fonts_macosx.html)。
-
 * [Microsoft Windows 7 – 10; Mac OS X 10.6 – 10.15](https://plato.stanford.edu/special-characters.html#ms7-osx10.6)
 * [Microsoft Windows/Vista 和 Mac OS X/Leopard (10.5)](https://plato.stanford.edu/special-characters.html#ms-apple)
 * [Linux、FreeBSD、Solaris 和其他 Unix 操作系统](https://plato.stanford.edu/special-characters.html#linux)
