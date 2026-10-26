@@ -60,6 +60,16 @@ def save_task(task):
     write_json_verified(_os_path(task["slug"]), task)
 
 
+def _baseline_title(slug):
+    base = repo_path("baseline", "entries.json")
+    if not _os.path.exists(base):
+        return None
+    for e in load_json(base)["entries"]:
+        if e["slug"] == slug:
+            return e.get("title")
+    return None
+
+
 def _version_pin(slug):
     """版本钉从基线取（零信任：翻译依据必须是登记过的英文源）。"""
     base = repo_path("baseline", "entries.json")
@@ -87,7 +97,7 @@ def create(slug, kind, zh_doc=None, change_file=None):
     if kind == "retranslate":
         task["version_pin"] = _version_pin(slug)
         if task["zh_doc"] is None:
-            task["zh_doc"] = find_zh_doc({"slug": slug})
+            task["zh_doc"] = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
     else:
         if not change_file or not _os.path.exists(change_file):
             raise PreconditionError("update 任务必须给 --from <baseline/changes/…json>")
@@ -97,24 +107,8 @@ def create(slug, kind, zh_doc=None, change_file=None):
 
 
 def find_zh_doc(rec):
-    """按 SUMMARY.md 找中文文档（slug 尾段匹配优先），找不到返回 None。"""
-    summary = repo_path("SUMMARY.md")
-    try:
-        text = open(summary, encoding="utf-8-sig").read()
-    except FileNotFoundError:
-        return None
-    import re
-    slug = rec["slug"]
-    m = re.search(r"\]\(([^)]*%s\.md)\)" % re.escape(slug), text)
-    if m:
-        return m.group(1)
-    # 回退：SUMMARY.md 链接路径的文件名段包含 slug（slug 不一定在路径末尾，
-    # 如 a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md）
-    for pm in re.finditer(r"\]\(([^)]+\.md)\)", text):
-        base = pm.group(1).rsplit("/", 1)[-1]
-        if slug in base.split(".")[0].split("-"):
-            return pm.group(1)
-    return None
+    from tools.common import find_zh_doc as _f
+    return _f(rec["slug"], rec.get("title") or rec.get("title_en"))
 
 
 def advance(slug, step, actor, evidence, unblock=False):

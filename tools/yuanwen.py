@@ -24,7 +24,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import parser  # noqa: E402
 from tools.common import (  # noqa: E402
-    load_json, read_text, repo_path, sha256_file, utcnow_iso, write_json_verified, write_text)
+    find_zh_doc, load_json, read_text, repo_path, sha256_file, utcnow_iso,
+    write_json_verified, write_text)
 
 BLOCK_OPEN_RE = re.compile(
     r'<(?P<tag>h1|h2|h3|h4|p|blockquote|table|ul|ol|dl|pre|div)\b(?P<attrs>[^>]*)>', re.I)
@@ -476,8 +477,10 @@ def write_summary():
     zh2yuan = {}
     for rec in base['entries']:
         y = rec.get('yuanwen')
-        if y and rec.get('zh_doc'):
-            zh2yuan[rec['zh_doc']] = y['md']
+        zh = rec.get('zh_doc') or (find_zh_doc(rec['slug'], rec.get('title'))
+                                   if y else None)
+        if y and zh:
+            zh2yuan[zh] = y['md']
     src = read_text(repo_path('SUMMARY.md'))
     n = [0]
 

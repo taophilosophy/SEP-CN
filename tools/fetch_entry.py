@@ -21,7 +21,8 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools import fetch, parser
-from tools.common import ensure_dirs, load_json, repo_path, sha256_file, utcnow_iso, write_json_verified
+from tools.common import (ensure_dirs, find_zh_doc, load_json, repo_path,
+                          sha256_file, utcnow_iso, write_json_verified)
 
 BASE = fetch.BASE
 ARCHINFO = BASE + "/cgi-bin/encyclopedia/archinfo.cgi?entry=%s"
@@ -48,6 +49,7 @@ def fetch_one(slug, delay, force):
     rec["pubinfo"] = {"first_published": pub["first_published"] if pub else None,
                       "substantive_revision": pub["substantive_revision"] if pub else None}
     rec["in_article_markers"] = entry["in_article_markers"]
+    rec["zh_doc"] = find_zh_doc(slug, entry["title"])
 
     def save(relpath, payload):
         path = os.path.join(edir, relpath.replace("/", os.sep))

@@ -113,3 +113,56 @@ def ensure_dirs():
 
 def http_log_path():
     return repo_path("script", "http-log.jsonl")
+
+
+def find_zh_doc(slug, title_en=None):
+    """SUMMARY.md → 中文文档路径（三级匹配，演示轮 2 教训：
+
+    1) 路径以 slug.md 结尾；
+    2) slug 首字母目录下、文件名含 slug（子串或分词）——排除 '— see' 别名词条；
+    3) 链接文字含英文标题全词（title_en 来自 citation_title）。
+    目录型词条（如 s/ji-he-lun-set-theory-joan-bagaria/）按 SUMMARY 实际链接形态匹配。
+    """
+    import re
+    summary = repo_path("SUMMARY.md")
+    try:
+        text = open(summary, encoding="utf-8-sig").read()
+    except FileNotFoundError:
+        return None
+
+    def ok(path):
+        return "-see-" not in path.lower()
+
+    m = re.search(r"\]\(([^)]*%s\.md)\)" % re.escape(slug), text)
+    if m and ok(m.group(1)):
+        return m.group(1)
+    letter = slug[0]
+    cands = []
+    for pm in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
+        link_text, path = pm.group(1), pm.group(2)
+        if "-see-" in path.lower() or "-see-" in link_text.lower():
+            continue
+        # 集群词条链接形如 s/ji-he-lun-set-theory-joan-bagaria/README.md：
+        # slug 可能在路径中段，须查整条路径而非仅文件名
+        if path.startswith(letter + "/") and (
+                slug in path.lower() or slug in path.replace("/", "-").split("-")):
+            cands.append(path)
+    if cands:
+        cands.sort(key=len)
+        return cands[0]
+    if title_en:
+        words = [w.lower() for w in re.findall(r"[A-Za-z]+", title_en) if len(w) > 1]
+        if words:
+            longest = max(words, key=len)
+            hits = []
+            for pm in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
+                link_text, path = pm.group(1), pm.group(2)
+                if "-see-" in path.lower() or "-see-" in link_text.lower():
+                    continue
+                hay = (link_text + " " + path.replace("/", " ")).lower()
+                if all(w in hay for w in words):
+                    hits.append((longest in path.lower(), -len(path), path))
+            if hits:
+                hits.sort(reverse=True)
+                return hits[0][2]
+    return None
