@@ -23,6 +23,8 @@
 | `check_style.py` | 体例检查（宪法 VI）：curly-quotes、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart；输出 JSON，退出码 0/1 |
 | `check_summary.py` | SUMMARY 结构审计（条目解析、缺失文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测；坏链/路径错/标题不一致为硬错误（退出码 1），覆盖缺口与重复收录仅报告 |
+| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003）：扫描 git 跟踪清单，原始物、缓存、构建产物、系统杂物命中即退出码 1 |
+| `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件，跳过 .git/node_modules/en/script 等保护目录） |
 | `progress.py` | 从 SUMMARY/baseline/tasks 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 
 ## 快速命令
@@ -32,6 +34,8 @@ python tools/check_style.py a/某词条.md      # 译文体例预检
 python tools/check_summary.py                # 目录结构审计（门禁）
 python tools/check_mulu_s.py                 # 分类目录对应性（门禁）
 python tools/baseline_audit.py [slug...]     # 基线完整性（需本地 en/ 原始物）
+python tools/check_junk.py                   # 垃圾/产物入库门禁
+python tools/clean.py                        # 本地垃圾试运行清单（--go 实删）
 python tools/progress.py                     # 重新生成 PROGRESS.md
 python tools/task_ops.py show <slug>         # 查任务状态
 python -m unittest discover -s tools/tests   # 管线单元测试

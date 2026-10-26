@@ -6,7 +6,7 @@
 
 | 工作流 | 行为 | 触发 |
 | ---- | ---- | ---- |
-| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + 管线单元测试，硬错误即红灯 | push / 手动 |
+| `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库）+ 管线单元测试，硬错误即红灯 | push / 手动 |
 | `sync-headers.yml` | 把每个 SUMMARY 条目对应文件的 H1 改写为条目文字（含转义还原 `\* \[ \]`；跳过 frontmatter 文件；覆盖缩进子条目），自动提交 | push |
 | `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
 | `markdown-lint2.yml` / `Markdown-lint2-pr.yml` | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动触发，带 `--fix` 自动开格式化 PR） | 手动 |
@@ -30,6 +30,8 @@
 | `check_style.py` | 体例检查（引号、空格、HTML/AsciiDoc 残留；输出 JSON） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）；硬错误退出码 1 |
 | `check_mulu_s.py` | 分类目录 ↔ SUMMARY 对应性检测（坏链、覆盖缺口、标题不一致、重复收录）；坏链/路径错/标题不一致为硬错误，退出码 1 |
+| `check_junk.py` | 垃圾/产物入库门禁（ADR-0003）：原始物、缓存、构建产物、系统杂物命中即退出码 1 |
+| `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改） |
 | `tests/` | 管线单元测试（unittest，金样本 fixtures） |
 
