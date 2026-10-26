@@ -1,1 +1,1 @@
-# \*中世纪理论 medieval theories of
+# *中世纪理论 medieval theories of

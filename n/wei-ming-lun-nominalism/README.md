@@ -1,1 +1,1 @@
-# \*唯名论 nominalism
+# *唯名论 nominalism

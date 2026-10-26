@@ -1,1 +1,1 @@
-# \*多元主义 pluralism
+# *多元主义 pluralism

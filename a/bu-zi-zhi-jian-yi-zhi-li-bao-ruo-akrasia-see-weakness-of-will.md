@@ -1,1 +1,1 @@
-# akrasia——见意志力薄弱 akrasia — see weakness of will
+# *不自制——见意志薄弱 akrasia — see weakness of will

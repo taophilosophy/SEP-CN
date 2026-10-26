@@ -1,1 +1,1 @@
-# \*谎言与欺骗 lying and deception
+# *谎言与欺骗 lying and deception

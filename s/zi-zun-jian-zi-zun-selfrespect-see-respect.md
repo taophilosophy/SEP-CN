@@ -1,1 +1,1 @@
-# \*自尊——见自尊 self-respect — see respect
+# *自尊——见自尊 self-respect — see respect

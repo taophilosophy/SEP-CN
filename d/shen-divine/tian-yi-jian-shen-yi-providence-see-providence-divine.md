@@ -1,1 +1,1 @@
-# \*天意——见神意 providence — see providence, divine
+# *天意——见神意 providence — see providence, divine

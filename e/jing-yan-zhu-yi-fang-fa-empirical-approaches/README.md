@@ -1,1 +1,1 @@
-# \*经验主义方法 empirical approaches
+# *经验主义研究 empirical approaches

@@ -1,1 +1,1 @@
-# \*逻辑史 logic, history of
+# *逻辑史 logic, history of

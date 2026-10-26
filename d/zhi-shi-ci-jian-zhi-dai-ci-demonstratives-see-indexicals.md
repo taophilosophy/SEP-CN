@@ -1,1 +1,1 @@
-# \*指示词——见指称词 demonstratives — see indexicals
+# *指示词——见指代词 demonstratives — see indexicals

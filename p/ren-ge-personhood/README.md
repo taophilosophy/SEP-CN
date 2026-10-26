@@ -1,1 +1,1 @@
-# \*人格 personhood
+# *人格 personhood

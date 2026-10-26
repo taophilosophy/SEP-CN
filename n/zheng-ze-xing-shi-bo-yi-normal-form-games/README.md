@@ -1,1 +1,1 @@
-# \*正则形式博弈 normal form games
+# *正则形式博弈 normal form games

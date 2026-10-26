@@ -1,1 +1,1 @@
-# \*阿尔伯特·爱因斯坦 Einstein, Albert
+# *阿尔伯特·爱因斯坦 Einstein, Albert

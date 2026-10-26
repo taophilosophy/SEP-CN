@@ -1,1 +1,1 @@
-# \*有神论 theism
+# *有神论 theism

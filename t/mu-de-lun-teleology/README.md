@@ -1,1 +1,1 @@
-# \*目的论 teleology
+# *目的论 teleology

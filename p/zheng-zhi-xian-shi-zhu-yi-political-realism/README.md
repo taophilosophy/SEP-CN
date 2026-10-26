@@ -1,1 +1,1 @@
-# \*政治现实主义 political realism
+# *政治现实主义 political realism

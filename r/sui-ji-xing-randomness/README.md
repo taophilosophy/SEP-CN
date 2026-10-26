@@ -1,1 +1,1 @@
-# \*随机性 randomness
+# *随机性 randomness

@@ -1,1 +1,1 @@
-# \*法哲学 legal philosophy
+# *法哲学 legal philosophy

@@ -1,1 +1,1 @@
-# \*宗教 religion
+# *宗教 religion

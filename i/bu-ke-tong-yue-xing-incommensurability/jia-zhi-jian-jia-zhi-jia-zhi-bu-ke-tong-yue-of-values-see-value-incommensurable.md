@@ -1,1 +1,1 @@
-# \*价值——见价值：价值不可通约 of values — see value: incommensurable
+# *价值——见价值：不可通约性价值 of values — see value: incommensurable

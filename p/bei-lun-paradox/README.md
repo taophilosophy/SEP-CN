@@ -1,1 +1,1 @@
-# \*悖论 paradox
+# *悖论 paradox

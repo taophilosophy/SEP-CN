@@ -1,1 +1,1 @@
-# \*数学相关 mathematical
+# *数学相关 mathematical

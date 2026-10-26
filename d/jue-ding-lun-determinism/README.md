@@ -1,1 +1,1 @@
-# \*决定论 determinism
+# *决定论 determinism

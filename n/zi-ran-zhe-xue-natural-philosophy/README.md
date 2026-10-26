@@ -1,1 +1,1 @@
-# \*自然哲学 natural philosophy
+# *自然哲学 natural philosophy

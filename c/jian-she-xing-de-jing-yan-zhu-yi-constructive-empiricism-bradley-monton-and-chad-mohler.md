@@ -1,1 +1,1 @@
-# 建设性的经验主义 constructive empiricism (Bradley Monton and Chad Mohler)
+# 建构经验论 constructive empiricism (Bradley Monton and Chad Mohler)

@@ -1,1 +1,1 @@
-# 子结构逻辑 substructural logics — see logic: substructural
+# *子结构逻辑 substructural logics — see logic: substructural

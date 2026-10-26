@@ -1,1 +1,1 @@
-# \*数学 mathematics
+# *数学 mathematics

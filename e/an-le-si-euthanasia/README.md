@@ -1,1 +1,1 @@
-# \*安乐死 euthanasia
+# *安乐死 euthanasia

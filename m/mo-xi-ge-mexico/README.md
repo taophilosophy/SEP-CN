@@ -1,1 +1,1 @@
-# \*墨西哥 Mexico
+# *墨西哥 Mexico

@@ -1,1 +1,1 @@
-# \*女性主义哲学方法 feminist philosophy, approaches
+# *女性主义哲学方法 feminist philosophy, approaches

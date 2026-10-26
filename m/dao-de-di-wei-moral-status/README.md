@@ -1,1 +1,1 @@
-# \*道德地位 moral status
+# *道德地位 moral status

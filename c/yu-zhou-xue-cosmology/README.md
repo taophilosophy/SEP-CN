@@ -1,1 +1,1 @@
-# \*宇宙学 cosmology
+# *宇宙学 cosmology

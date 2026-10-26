@@ -1,1 +1,1 @@
-# \*连接词 connectives
+# *连接词 connectives

@@ -1,1 +1,1 @@
-# \*罗伯特·诺齐克 Nozick, Robert
+# *罗伯特·诺齐克 Nozick, Robert

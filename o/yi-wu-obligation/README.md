@@ -1,1 +1,1 @@
-# \*义务 obligation
+# *义务 obligation

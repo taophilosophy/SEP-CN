@@ -1,1 +1,1 @@
-# \*不可通约性 incommensurability
+# *不可通约性 incommensurability

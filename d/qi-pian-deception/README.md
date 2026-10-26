@@ -1,1 +1,1 @@
-# \*欺骗 deception
+# *欺骗 deception

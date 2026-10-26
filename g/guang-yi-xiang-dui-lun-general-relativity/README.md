@@ -1,1 +1,1 @@
-# \*广义相对论 general relativity
+# *广义相对论 general relativity

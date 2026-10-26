@@ -1,1 +1,1 @@
-# \*熵 entropy
+# *熵 entropy

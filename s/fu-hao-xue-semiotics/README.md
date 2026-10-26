@@ -1,1 +1,1 @@
-# \*符号学 semiotics
+# *符号学 semiotics

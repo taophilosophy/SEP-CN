@@ -1,1 +1,1 @@
-# \*中国儒学 Chinese Confucianism
+# *中国儒学 Chinese Confucianism

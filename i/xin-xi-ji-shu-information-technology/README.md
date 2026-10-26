@@ -1,1 +1,1 @@
-# \*信息技术 information technology
+# *信息技术 information technology

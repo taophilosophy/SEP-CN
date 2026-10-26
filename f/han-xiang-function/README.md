@@ -1,1 +1,1 @@
-# \*函项 function
+# *函项 function

@@ -1,1 +1,1 @@
-# \*知识 knowledge
+# *知识 knowledge

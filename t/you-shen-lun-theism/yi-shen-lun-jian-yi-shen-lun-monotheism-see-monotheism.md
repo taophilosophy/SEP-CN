@@ -1,1 +1,1 @@
-# \*一神论——见一神论 monotheism — see monotheism
+# *一神论——见一神论 monotheism — see monotheism

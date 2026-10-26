@@ -1,1 +1,1 @@
-# \*科学哲学 philosophy of science
+# *科学哲学 philosophy of science

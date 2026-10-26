@@ -1,1 +1,1 @@
-# \*形式主义 formalism
+# *形式主义 formalism

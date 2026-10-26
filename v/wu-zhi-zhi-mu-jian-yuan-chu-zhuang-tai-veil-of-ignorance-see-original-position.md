@@ -1,1 +1,1 @@
-# \*无知之幕——见原初状态 veil of ignorance — see original position
+# *无知之幕——见原初状态 veil of ignorance — see original position

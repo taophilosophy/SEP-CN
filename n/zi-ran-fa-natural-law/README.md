@@ -1,1 +1,1 @@
-# \*自然法 natural law
+# *自然法 natural law

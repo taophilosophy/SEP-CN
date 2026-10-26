@@ -1,1 +1,1 @@
-# \*先天 innateness
+# *先天 innateness

@@ -1,1 +1,1 @@
-# \*伦理学 ethics
+# *伦理学 ethics

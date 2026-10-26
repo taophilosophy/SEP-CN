@@ -1,1 +1,1 @@
-# \*政治正当性 justification, political
+# *政治正当性 justification, political

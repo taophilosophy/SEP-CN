@@ -1,1 +1,1 @@
-# \*Confucianism 儒学
+# *Confucianism 儒学

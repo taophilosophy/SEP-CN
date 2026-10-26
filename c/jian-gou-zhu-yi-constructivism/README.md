@@ -1,1 +1,1 @@
-# \*建构主义 constructivism
+# *建构主义 constructivism

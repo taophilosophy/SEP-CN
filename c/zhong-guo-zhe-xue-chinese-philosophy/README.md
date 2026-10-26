@@ -1,1 +1,1 @@
-# \*中国哲学 Chinese Philosophy
+# *中国哲学 Chinese Philosophy

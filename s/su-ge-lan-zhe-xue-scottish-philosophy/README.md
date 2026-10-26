@@ -1,1 +1,1 @@
-# \*苏格兰哲学 Scottish Philosophy
+# *苏格兰哲学 Scottish Philosophy

@@ -1,1 +1,1 @@
-# \*数学基础 mathematics, foundations of
+# *数学基础 mathematics, foundations of

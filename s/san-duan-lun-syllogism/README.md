@@ -1,1 +1,1 @@
-# \*三段论 syllogism
+# *三段论 syllogism

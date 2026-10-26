@@ -1,1 +1,1 @@
-# 凯瑟琳·特罗特·科伯恩 Cockburn, Catharine Trotter (Patricia Sheridan)
+# 凯瑟琳·特洛特·考克本 Cockburn, Catharine Trotter (Patricia Sheridan)

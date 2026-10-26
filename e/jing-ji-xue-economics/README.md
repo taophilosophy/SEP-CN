@@ -1,1 +1,1 @@
-# \*经济学 economics
+# *经济学 economics

@@ -1,1 +1,1 @@
-# \*束理论——见物质 bundle theory — see substance
+# *束理论——见实体 bundle theory — see substance

@@ -1,1 +1,1 @@
-# \*怀疑论——见怀疑论 scepticism — see skepticism
+# *怀疑论——见怀疑论 scepticism — see skepticism

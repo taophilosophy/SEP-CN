@@ -1,1 +1,1 @@
-# \*归纳 induction
+# *归纳 induction

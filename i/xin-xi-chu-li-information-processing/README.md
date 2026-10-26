@@ -1,1 +1,1 @@
-# \*信息处理 information processing
+# *信息处理 information processing

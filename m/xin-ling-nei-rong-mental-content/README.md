@@ -1,3 +1,1 @@
-# \*心灵内容 mental content
-
-mental content
+# *心理内容 mental content

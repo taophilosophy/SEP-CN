@@ -1,1 +1,1 @@
-# \*比较哲学 comparative philosophy
+# *比较哲学 comparative philosophy

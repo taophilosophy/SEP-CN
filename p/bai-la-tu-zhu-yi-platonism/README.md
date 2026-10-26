@@ -1,1 +1,1 @@
-# \*柏拉图主义 Platonism
+# *柏拉图主义 Platonism

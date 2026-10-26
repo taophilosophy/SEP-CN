@@ -1,1 +1,1 @@
-# \*内在性——见实体 inherence — see substance
+# *内在性——见实体 inherence — see substance

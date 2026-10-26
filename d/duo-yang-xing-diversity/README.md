@@ -1,1 +1,1 @@
-# \*多样性 diversity
+# *多样性 diversity

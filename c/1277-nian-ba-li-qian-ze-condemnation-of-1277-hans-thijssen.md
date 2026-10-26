@@ -1,1 +1,1 @@
-# 1277 年巴黎谴责  condemnation of 1277 (Hans Thijssen)
+# 1277 大谴责 condemnation of 1277 (Hans Thijssen)

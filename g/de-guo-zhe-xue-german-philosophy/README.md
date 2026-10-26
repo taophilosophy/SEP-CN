@@ -1,1 +1,1 @@
-# \*德国哲学 German Philosophy
+# *德国哲学 German Philosophy

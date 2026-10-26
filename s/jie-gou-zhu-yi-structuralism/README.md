@@ -1,1 +1,1 @@
-# \*结构主义 structuralism
+# *结构主义 structuralism

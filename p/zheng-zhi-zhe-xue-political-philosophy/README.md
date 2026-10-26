@@ -1,1 +1,1 @@
-# \*政治哲学 political philosophy
+# *政治哲学 political philosophy

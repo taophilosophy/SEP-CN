@@ -1,1 +1,1 @@
-# \*理性 rationality
+# *理性 rationality

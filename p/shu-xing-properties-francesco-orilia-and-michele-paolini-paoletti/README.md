@@ -1,1 +1,1 @@
-# 属性  properties (Francesco Orilia and Michele Paolini Paoletti)
+# 属性 properties (Francesco Orilia and Michele Paolini Paoletti)

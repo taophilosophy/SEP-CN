@@ -1,1 +1,1 @@
-# \*韩国——见韩国儒学 Korean — see Korean Philosophy: Confucianism
+# *韩国——见韩国哲学：韩国儒学 Korean — see Korean Philosophy: Confucianism

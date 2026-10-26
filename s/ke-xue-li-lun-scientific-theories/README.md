@@ -1,1 +1,1 @@
-# \*科学理论 scientific theories
+# *科学理论 scientific theories

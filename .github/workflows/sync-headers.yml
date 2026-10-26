@@ -32,9 +32,9 @@ jobs:
             # 跳过带 YAML frontmatter 的文件（首行为 ---），避免破坏元数据
             [ "$(head -n 1 "$path")" = "---" ] && continue
 
-            # 获取文件第一行并清理格式
+            # 获取文件第一行并清理格式（标题需先还原 \* \[ \] 转义）
             first_line=$(head -n 1 "$path" | sed 's/^#*//; s/^[[:space:]]*//; s/[[:space:]]*$//')
-            clean_title=$(sed 's/^[[:space:]]*//; s/[[:space:]]*$//' <<< "$title")
+            clean_title=$(sed 's/\\\([]*[]\)/\1/g; s/^[[:space:]]*//; s/[[:space:]]*$//' <<< "$title")
 
             # 比较标题并更新文件
             if [ "$first_line" != "$clean_title" ]; then

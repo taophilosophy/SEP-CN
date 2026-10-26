@@ -1,1 +1,1 @@
-# 中国哲学的认识论 epistemology (Jana Rošker)
+# 中国哲学认识论 epistemology (Jana Rošker)

@@ -1,1 +1,1 @@
-# 中文房间 Chinese room argument (David Cole)
+# 中文房间实验 Chinese room argument (David Cole)

@@ -1,1 +1,1 @@
-# \*行动的理由 reasons for action
+# *行动的理由 reasons for action

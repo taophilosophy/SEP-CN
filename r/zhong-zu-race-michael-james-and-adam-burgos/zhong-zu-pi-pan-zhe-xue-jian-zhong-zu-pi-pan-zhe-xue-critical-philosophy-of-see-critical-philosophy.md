@@ -1,1 +1,1 @@
-# \*种族批判哲学——见种族批判哲学 critical philosophy of — see critical philosophy of race
+# *批判种族哲学——见批判种族哲学 critical philosophy of — see critical philosophy of race

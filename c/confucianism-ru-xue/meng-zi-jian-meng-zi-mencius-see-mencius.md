@@ -1,1 +1,1 @@
-# \*孟子——见孟子 Mencius — see Mencius
+# *孟子——见孟子 Mencius — see Mencius

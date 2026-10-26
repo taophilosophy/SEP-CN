@@ -1,1 +1,1 @@
-# \*佛教 Buddhism
+# *佛教 Buddhism

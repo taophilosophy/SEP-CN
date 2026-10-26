@@ -1,1 +1,1 @@
-# \*词项属性 terms, properties of
+# *词项属性 terms, properties of

@@ -1,1 +1,1 @@
-# \*不相容论 incompatibilism
+# *不相容论 incompatibilism

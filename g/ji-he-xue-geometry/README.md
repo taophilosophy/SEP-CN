@@ -1,1 +1,1 @@
-# \*几何学 geometry
+# *几何学 geometry

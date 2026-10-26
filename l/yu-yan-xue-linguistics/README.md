@@ -1,1 +1,1 @@
-# \*语言学 linguistics
+# *语言学 linguistics

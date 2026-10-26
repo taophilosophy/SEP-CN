@@ -1,1 +1,1 @@
-# 阿坎哲学 Akan Philosophy
+# *阿坎哲学 Akan Philosophy

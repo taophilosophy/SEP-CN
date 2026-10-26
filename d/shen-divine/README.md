@@ -1,1 +1,1 @@
-# \*神 divine
+# *神 divine

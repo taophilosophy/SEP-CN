@@ -1,1 +1,1 @@
-# \*逻辑——见条件句的逻辑 logic of — see logic: conditionals
+# *逻辑——见逻辑学：条件句的逻辑 logic of — see logic: conditionals

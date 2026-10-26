@@ -1,1 +1,1 @@
-# \*客观性 objectivity
+# *客观性 objectivity

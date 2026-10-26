@@ -1,1 +1,1 @@
-# \*民间心理学 folk psychology
+# *民间心理学 folk psychology

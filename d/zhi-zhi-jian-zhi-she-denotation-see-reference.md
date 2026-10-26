@@ -1,1 +1,1 @@
-# \*直指——见指涉 denotation — see reference
+# *直指——见指称 denotation — see reference

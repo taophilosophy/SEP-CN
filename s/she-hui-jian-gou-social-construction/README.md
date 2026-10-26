@@ -1,1 +1,1 @@
-# \*社会建构 social construction
+# *社会建构 social construction

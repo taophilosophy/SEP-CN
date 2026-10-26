@@ -1,1 +1,1 @@
-# \*物质名词 mass expressions
+# *物质名词 mass expressions

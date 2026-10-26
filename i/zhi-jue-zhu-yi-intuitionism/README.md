@@ -1,1 +1,1 @@
-# \*直觉主义 intuitionism
+# *直觉主义 intuitionism

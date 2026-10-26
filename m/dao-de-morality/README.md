@@ -1,1 +1,1 @@
-# \*道德 morality
+# *道德 morality

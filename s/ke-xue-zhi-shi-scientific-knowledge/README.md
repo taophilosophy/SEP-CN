@@ -1,1 +1,1 @@
-# \*科学知识 scientific knowledge
+# *科学知识 scientific knowledge

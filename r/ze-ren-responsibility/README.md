@@ -1,1 +1,1 @@
-# \*责任 responsibility
+# *责任 responsibility

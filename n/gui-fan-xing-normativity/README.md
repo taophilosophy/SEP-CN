@@ -1,1 +1,1 @@
-# \*规范性 normativity
+# *规范性 normativity

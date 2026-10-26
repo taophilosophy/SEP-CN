@@ -1,1 +1,1 @@
-# \*语法 grammar
+# *语法 grammar

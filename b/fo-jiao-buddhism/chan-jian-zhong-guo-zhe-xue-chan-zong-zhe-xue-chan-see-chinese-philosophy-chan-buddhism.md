@@ -1,1 +1,1 @@
-# \*禅宗（Chan）——见中国哲学：禅宗 Chan — see Chinese Philosophy: Chan Buddhism
+# *禅宗（Chan）——见中国哲学：禅宗 Chan — see Chinese Philosophy: Chan Buddhism

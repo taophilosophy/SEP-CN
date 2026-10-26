@@ -1,1 +1,1 @@
-# \*计算机 computing
+# *计算机 computing

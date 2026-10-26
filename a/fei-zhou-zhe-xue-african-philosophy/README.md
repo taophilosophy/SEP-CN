@@ -1,1 +1,1 @@
-# 非洲哲学 African Philosophy
+# *非洲哲学 African Philosophy

@@ -1,1 +1,1 @@
-# \*自由 freedom
+# *自由 freedom

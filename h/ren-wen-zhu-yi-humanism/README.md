@@ -1,1 +1,1 @@
-# \*人文主义 humanism
+# *人文主义 humanism

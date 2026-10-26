@@ -1,1 +1,1 @@
-# \*斯宾诺莎 Spinoza
+# *斯宾诺莎 Spinoza

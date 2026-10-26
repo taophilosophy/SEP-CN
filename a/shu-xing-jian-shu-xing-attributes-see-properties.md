@@ -1,1 +1,1 @@
-# 属性——见属性 attributes — see properties
+# *属性——见属性 attributes — see properties

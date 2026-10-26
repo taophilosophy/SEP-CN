@@ -1,1 +1,1 @@
-# \*色情 pornography
+# *色情 pornography

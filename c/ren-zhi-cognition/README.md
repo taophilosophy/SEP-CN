@@ -1,1 +1,1 @@
-# \*认知 cognition
+# *认知 cognition

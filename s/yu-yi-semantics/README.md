@@ -1,1 +1,1 @@
-# \*语义 semantics
+# *语义 semantics

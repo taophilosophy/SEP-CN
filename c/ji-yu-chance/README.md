@@ -1,1 +1,1 @@
-# \*概率 chance
+# *概率 chance

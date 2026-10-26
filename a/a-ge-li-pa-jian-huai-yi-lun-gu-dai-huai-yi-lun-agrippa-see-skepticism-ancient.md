@@ -1,1 +1,1 @@
-# \*阿格里帕——见怀疑论：古代怀疑论 Agrippa — see skepticism: ancient
+# *阿格里帕——见怀疑论：古代怀疑论 Agrippa — see skepticism: ancient

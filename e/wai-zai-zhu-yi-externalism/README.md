@@ -1,1 +1,1 @@
-# \*外在主义 externalism
+# *外在主义 externalism

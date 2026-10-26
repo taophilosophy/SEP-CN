@@ -1,1 +1,1 @@
-# \*唯物主义——见物理主义 materialism — see physicalism
+# *唯物主义——见物理主义 materialism — see physicalism

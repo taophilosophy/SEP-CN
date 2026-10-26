@@ -1,1 +1,1 @@
-# \*单称词项 singular terms
+# *单称词项 singular terms

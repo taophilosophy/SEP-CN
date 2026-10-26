@@ -1,1 +1,1 @@
-# \*生物医学伦理学 ethics, biomedical
+# *生物医学伦理学 ethics, biomedical

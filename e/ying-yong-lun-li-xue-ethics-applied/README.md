@@ -1,1 +1,1 @@
-# \*应用伦理学 ethics, applied
+# *应用伦理学 ethics, applied

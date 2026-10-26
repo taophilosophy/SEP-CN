@@ -1,1 +1,1 @@
-# \*本体论 ontology
+# *本体论 ontology
