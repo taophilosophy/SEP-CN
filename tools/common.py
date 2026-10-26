@@ -141,32 +141,25 @@ def http_log_path():
     return repo_path("script", "http-log.jsonl")
 
 
-def find_zh_doc(slug, title_en=None):
-    """SUMMARY.md → 中文文档路径（三级匹配，演示轮 2 教训：
+def zh_doc_from_lines(slug, title_en, lines):
+    """find_zh_doc 的纯函数核：对预解析的 SUMMARY 行做三级匹配。
 
-    1) 路径以 slug.md 结尾；
-    2) slug 首字母目录下、文件名含 slug（子串或分词）——排除 '— see' 别名词条；
-    3) 链接文字含英文标题全词（title_en 来自 citation_title）。
-    目录型词条（如 s/ji-he-lun-set-theory-joan-bagaria/）按 SUMMARY 实际链接形态匹配。
+    独立导出供批量调用方（migrate_exec 等）复用——解析一次 SUMMARY，
+    避免逐词条重读整个文件（此前 O(n²) 重读曾使干跑卡死）。
     """
     import re
-    summary = repo_path("SUMMARY.md")
-    try:
-        text = open(summary, encoding="utf-8-sig").read()
-    except FileNotFoundError:
-        return None
 
     def ok(path):
         return "-see-" not in path.lower()
 
-    m = re.search(r"\]\(([^)]*%s\.md)\)" % re.escape(slug), text)
+    m = re.search(r"\]\(([^)]*%s\.md)\)" % re.escape(slug), "\n".join(lines))
     if m and ok(m.group(1)):
         return m.group(1)
     letter = slug[0]
     cands = []
     # 逐行解析（演示轮 2 复核：链接文字含 \[Abailard\] 转义括号时，
     # finditer 的 \[[^\]]*\] 会在文字中途截断导致整行漏配）
-    for line in text.split("\n"):
+    for line in lines:
         pm = re.search(r"\]\(([^)]+)\)", line)
         if not pm:
             continue
@@ -186,7 +179,7 @@ def find_zh_doc(slug, title_en=None):
         if words:
             longest = max(words, key=len)
             hits = []
-            for line in text.split("\n"):
+            for line in lines:
                 pm = re.search(r"\]\(([^)]+)\)", line)
                 if not pm:
                     continue
@@ -200,3 +193,19 @@ def find_zh_doc(slug, title_en=None):
                 hits.sort(reverse=True)
                 return hits[0][2]
     return None
+
+
+def find_zh_doc(slug, title_en=None):
+    """SUMMARY.md → 中文文档路径（三级匹配，演示轮 2 教训：
+
+    1) 路径以 slug.md 结尾；
+    2) slug 首字母目录下、文件名含 slug（子串或分词）——排除 '— see' 别名词条；
+    3) 链接文字含英文标题全词（title_en 来自 citation_title）。
+    目录型词条（如 s/ji-he-lun-set-theory-joan-bagaria/）按 SUMMARY 实际链接形态匹配。
+    """
+    summary = repo_path("SUMMARY.md")
+    try:
+        text = open(summary, encoding="utf-8-sig").read()
+    except FileNotFoundError:
+        return None
+    return zh_doc_from_lines(slug, title_en, text.split("\n"))
