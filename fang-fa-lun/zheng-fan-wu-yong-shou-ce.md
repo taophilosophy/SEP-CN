@@ -58,16 +58,16 @@
 
 ## 三、易混词对速辨
 
-- **idealism**：形而上学译“唯心论”（贝克莱、黑格尔）， NEVER “理想主义”——“理想主义”只用于日常理想追求语境；观念论（德国古典哲学语境，德文 Idealismus）与唯心论并行使用时全库保持一致。
-- **empiricism / positivism**：经验主义（经验论）≠ 实证主义（positivism，孔德）；empirical 译“经验的”或“实证的”，见表内登记。
-- **rationalism**：唯理论／理性主义——与经验论对举时传统译“唯理论”，全库统一即可。
-- **understanding**：康德 Verstand 定译“知性”，日常动词义才译“理解”；Vernunft 译“理性”。
-- **validity / soundness**：逻辑学 validity 有效性，soundness 可靠性（有效且前提为真）——勿以“健康”直译 sound。
-- **contradiction / refutation**：contradiction 矛盾；refutation 反驳——正反对置，译反则义反。
-- **necessary / sufficient condition**：necessary condition 必要条件，sufficient condition 充分条件；“A 是 B 的必要条件”意为无 A 必无 B——方向切勿颠倒。
-- **critique / criticism**：康德传统 Critique 定译“批判”（《纯粹理性批判》）；日常批评义译“批评”。
-- **community**：哲学、社会本体论语境译“共同体”，勿用“社区”。
-- **agent / patient**：agent 行动者（行为者），patient 承受者（受动者）——道德哲学对举时切勿把 patient 译作“病人”。
+* **idealism**：形而上学译“唯心论”（贝克莱、黑格尔）， NEVER “理想主义”——“理想主义”只用于日常理想追求语境；观念论（德国古典哲学语境，德文 Idealismus）与唯心论并行使用时全库保持一致。
+* **empiricism / positivism**：经验主义（经验论）≠ 实证主义（positivism，孔德）；empirical 译“经验的”或“实证的”，见表内登记。
+* **rationalism**：唯理论／理性主义——与经验论对举时传统译“唯理论”，全库统一即可。
+* **understanding**：康德 Verstand 定译“知性”，日常动词义才译“理解”；Vernunft 译“理性”。
+* **validity / soundness**：逻辑学 validity 有效性，soundness 可靠性（有效且前提为真）——勿以“健康”直译 sound。
+* **contradiction / refutation**：contradiction 矛盾；refutation 反驳——正反对置，译反则义反。
+* **necessary / sufficient condition**：necessary condition 必要条件，sufficient condition 充分条件；“A 是 B 的必要条件”意为无 A 必无 B——方向切勿颠倒。
+* **critique / criticism**：康德传统 Critique 定译“批判”（《纯粹理性批判》）；日常批评义译“批评”。
+* **community**：哲学、社会本体论语境译“共同体”，勿用“社区”。
+* **agent / patient**：agent 行动者（行为者），patient 承受者（受动者）——道德哲学对举时切勿把 patient 译作“病人”。
 
 ## 四、使用规则
 

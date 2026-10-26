@@ -4,10 +4,10 @@
 
 ## 结论摘要
 
-- **真实性**：原表存在 22 处误译，其中 12 处属“正反误用”或张冠李戴级硬伤（如 Argument 译“悖论”、Philoponus 误挂 Philolaus 的汉译“菲洛劳斯”、Absolute idealism 译“新黑格尔主义”），全部按权威来源纠正并补备注。
-- **有效性**：原表存在 8 处坏行（标题拆断、键残缺、尾逗号、异体字）、4 组完全重复行、多组键值冲突与中文碰撞。修正后 lint 0 问题；确属同指异名的 9 组碰撞与 3 组同键异译编入 lint 白名单留档。
-- **增补**：从 git 提交信息挖掘出 5 条既有裁定（Chancellor 总务长、Philip the Chancellor 总务长菲利普、Constitution 构成、Nominalism 唯名论、anomalous monism 变异一元论）补录入表；持续任务登记于 `tasks/ci-hui-biao.json`。
-- **避免的误改**：两处原表译名经核查后维持原状——“词项属性”（全国社科工作办 2024 年文章用“词项属性理论”）、“堆垛悖论”（华文哲学百科与中文维基均立此名）。
+* **真实性**：原表存在 22 处误译，其中 12 处属“正反误用”或张冠李戴级硬伤（如 Argument 译“悖论”、Philoponus 误挂 Philolaus 的汉译“菲洛劳斯”、Absolute idealism 译“新黑格尔主义”），全部按权威来源纠正并补备注。
+* **有效性**：原表存在 8 处坏行（标题拆断、键残缺、尾逗号、异体字）、4 组完全重复行、多组键值冲突与中文碰撞。修正后 lint 0 问题；确属同指异名的 9 组碰撞与 3 组同键异译编入 lint 白名单留档。
+* **增补**：从 git 提交信息挖掘出 5 条既有裁定（Chancellor 总务长、Philip the Chancellor 总务长菲利普、Constitution 构成、Nominalism 唯名论、anomalous monism 变异一元论）补录入表；持续任务登记于 `tasks/ci-hui-biao.json`。
+* **避免的误改**：两处原表译名经核查后维持原状——“词项属性”（全国社科工作办 2024 年文章用“词项属性理论”）、“堆垛悖论”（华文哲学百科与中文维基均立此名）。
 
 ## 修正清单（按缺陷类型）
 
@@ -42,24 +42,24 @@
 
 | 问题 | 修复 |
 | ---- | ---- |
-| `Adieux: A Farewell|Sartre to 告别的仪式`（标题拆断） | Adieux: A Farewell to Sartre｜告别的仪式（上海译文 2019，孙凯译） |
-| `She Came|Stay to 女宾`（标题拆断） | She Came to Stay｜女宾（上海译文，周以光译） |
-| `Will|Believe to 信念意志`（标题拆断） | The Will to Believe｜信仰的意志（通行中译；作概念短语亦译“信念的意志”） |
-| `3rd Earl of|第三代`（键残缺） | 3rd Earl of Shaftesbury｜第三代沙夫茨伯里伯爵 |
-| `Shaftesbury Lord|沙夫茨伯里伯爵`（键倒序） | Lord Shaftesbury｜沙夫茨伯里勋爵 |
-| `Henry David Thoreau|亨利·戴维·梭罗,`（尾逗号） | 去除标点 |
+| `Adieux: A Farewell\|Sartre to 告别的仪式`（标题拆断） | Adieux: A Farewell to Sartre｜告别的仪式（上海译文 2019，孙凯译） |
+| `She Came\|Stay to 女宾`（标题拆断） | She Came to Stay｜女宾（上海译文，周以光译） |
+| `Will\|Believe to 信念意志`（标题拆断） | The Will to Believe｜信仰的意志（通行中译；作概念短语亦译“信念的意志”） |
+| `3rd Earl of\|第三代`（键残缺） | 3rd Earl of Shaftesbury｜第三代沙夫茨伯里伯爵 |
+| `Shaftesbury Lord\|沙夫茨伯里伯爵`（键倒序） | Lord Shaftesbury｜沙夫茨伯里勋爵 |
+| `Henry David Thoreau\|亨利·戴维·梭罗,`（尾逗号） | 去除标点 |
 | `‘Abd al-Latif’`（带引号重复键） | 删除，并入 Abd al-Latif 行 |
 | `Alexander of Aphrosias`（英文键拼写错误） | Alexander of Aphrodisias｜阿佛洛狄西亚的亚历山大 |
 | 阿毘达磨（异体字“毘”） | 阿毗达磨 |
 
 ### 三、重复与冲突归并
 
-- `Account|解释/原理`、`Account|解释/原理/理论`、`accounts|解释/原理/理论` 三行归并为一行（解释；说明；原理，按语境取义）。
-- `constructive` 两行（建构主义／构造主义）归并为“构造性的”。
-- `commentators`、`Pluralism` 大小写完全重复行各删一行。
-- `Ammonius` 同键两译名保留（两名同名哲学家：赫尔米亚的阿莫尼俄斯即 Ammonius Hermiae；另一行为泛指，含 Ammonius Saccas）。
-- `empirical` 两译（实证／经验的）保留：形容词与名词分工，且“实证”行引有专文出处（汤茂林、黄展，《地理研究》2020）。
-- `Justification` 两译（证成／辩护）保留：当代知识论与传统语境并行的两种通行译法。
+* `Account|解释/原理`、`Account|解释/原理/理论`、`accounts|解释/原理/理论` 三行归并为一行（解释；说明；原理，按语境取义）。
+* `constructive` 两行（建构主义／构造主义）归并为“构造性的”。
+* `commentators`、`Pluralism` 大小写完全重复行各删一行。
+* `Ammonius` 同键两译名保留（两名同名哲学家：赫尔米亚的阿莫尼俄斯即 Ammonius Hermiae；另一行为泛指，含 Ammonius Saccas）。
+* `empirical` 两译（实证／经验的）保留：形容词与名词分工，且“实证”行引有专文出处（汤茂林、黄展，《地理研究》2020）。
+* `Justification` 两译（证成／辩护）保留：当代知识论与传统语境并行的两种通行译法。
 
 ### 四、备注补源（可追溯性）
 
@@ -67,16 +67,16 @@
 
 ## 联网核查来源（24 项核查的主要出处）
 
-- 中文维基百科：约翰·费罗普勒斯、艾尔伯图斯·麦格努斯、阿佛洛狄西亚的亚历山大、绝对唯心主义、阿尔弗雷德·诺思·怀特海、连锁悖论、共相问题、精诚兄弟会典、泰奥弗拉斯托斯、含糊
-- SEP 词条：philoponus、diodorus-cronus、sorites-paradox、universals-medieval、medieval-terms、contractarianism、contractualism、ikhwan-al-safa、types-tokens、sortals、medieval-haecceity、alexander-aphrodisias
-- IEP：Proper Functionalism（普兰丁格 warrant）
-- 孙清海《论普兰丁格的“保证”思想》（《哲学分析》2015 年第 1 期）；《普兰丁格的“保证”学说与当代儒学创新》（《中山大学学报》2016 年第 3 期）
-- 全国哲学社会科学工作办公室《中世纪逻辑及其现代性》（2024，用“词项属性理论”）
-- 哲学中国网：张华夏《科学实在论和结构实在论》、魏洪钟《结构实在论中的实体之争》（结构实在论）
-- 华文哲学百科《堆垛悖論》；长沙理工大学《含糊性及累积悖论研究》
-- 《亚里士多德论 akrasia》（贵州师范学院学报 2015，akrasia 即“不能自制”）
-- 豆瓣：告别的仪式（上海译文 2019）、女宾（上海译文）；西蒙娜·德·波伏瓦系列页
-- 译言古登堡计划《信仰的意志》（The Will to Believe 中译）
+* 中文维基百科：约翰·费罗普勒斯、艾尔伯图斯·麦格努斯、阿佛洛狄西亚的亚历山大、绝对唯心主义、阿尔弗雷德·诺思·怀特海、连锁悖论、共相问题、精诚兄弟会典、泰奥弗拉斯托斯、含糊
+* SEP 词条：philoponus、diodorus-cronus、sorites-paradox、universals-medieval、medieval-terms、contractarianism、contractualism、ikhwan-al-safa、types-tokens、sortals、medieval-haecceity、alexander-aphrodisias
+* IEP：Proper Functionalism（普兰丁格 warrant）
+* 孙清海《论普兰丁格的“保证”思想》（《哲学分析》2015 年第 1 期）；《普兰丁格的“保证”学说与当代儒学创新》（《中山大学学报》2016 年第 3 期）
+* 全国哲学社会科学工作办公室《中世纪逻辑及其现代性》（2024，用“词项属性理论”）
+* 哲学中国网：张华夏《科学实在论和结构实在论》、魏洪钟《结构实在论中的实体之争》（结构实在论）
+* 华文哲学百科《堆垛悖論》；长沙理工大学《含糊性及累积悖论研究》
+* 《亚里士多德论 akrasia》（贵州师范学院学报 2015，akrasia 即“不能自制”）
+* 豆瓣：告别的仪式（上海译文 2019）、女宾（上海译文）；西蒙娜·德·波伏瓦系列页
+* 译言古登堡计划《信仰的意志》（The Will to Believe 中译）
 
 ## 有效性检查工具与白名单
 
@@ -84,8 +84,8 @@
 
 ## 裁定沿革
 
-- **Token**：2024-05-11 提交 43ea5ea2 裁定“令牌→个体”；2026-10-27 复核改裁“殊例”——“个体”与 Individual(s) 的中文碰撞正是原表有效性缺陷的根源之一。沿革只记此处，不进发布表。
-- **Theophrastus**：登记簿（alcmaeon 词条）裁“特奥弗拉斯托斯”，词汇表作“泰奥弗拉斯特”，两者均为通行异译；发布表备注已注明，登记簿裁定在其词条范围内优先。
+* **Token**：2024-05-11 提交 43ea5ea2 裁定“令牌→个体”；2026-10-27 复核改裁“殊例”——“个体”与 Individual(s) 的中文碰撞正是原表有效性缺陷的根源之一。沿革只记此处，不进发布表。
+* **Theophrastus**：登记簿（alcmaeon 词条）裁“特奥弗拉斯托斯”，词汇表作“泰奥弗拉斯特”，两者均为通行异译；发布表备注已注明，登记簿裁定在其词条范围内优先。
 
 ## 遗留事项与待办
 
