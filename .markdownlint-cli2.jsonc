@@ -1,0 +1,74 @@
+{
+  // SEP-CN 统一 lint 配置：与 .github/.markdownlint.json 规则一致，
+  // 另含纳入/忽略范围与按文件豁免。CI 与本地命令均以本文件为准（rules/05）。
+  "config": {
+    "MD001": true,
+    "MD003": true,
+    "MD004": { "style": "asterisk" },
+    "MD005": true,
+    "MD007": true,
+    "MD009": true,
+    "MD010": false,
+    "MD011": false,
+    "MD012": false,
+    "MD013": false,
+    "MD014": false,
+    "MD018": true,
+    "MD019": true,
+    "MD020": false,
+    "MD021": false,
+    "MD022": true,
+    "MD023": true,
+    "MD024": { "siblings_only": true },
+    "MD025": true,
+    "MD026": { "punctuation": ".,;:" },
+    "MD027": true,
+    "MD028": false,
+    "MD029": false,
+    "MD030": true,
+    "MD031": true,
+    "MD032": true,
+    "MD033": false,
+    "MD034": false,
+    "MD035": false,
+    "MD036": false,
+    "MD037": true,
+    "MD038": true,
+    "MD039": true,
+    "MD040": false,
+    "MD041": true,
+    "MD042": false,
+    "MD043": false,
+    "MD044": false,
+    "MD045": false,
+    "MD046": true,
+    "MD047": true,
+    "MD048": true,
+    "MD049": { "style": "asterisk" },
+    "MD050": { "style": "asterisk" },
+    "MD051": false,
+    "MD052": false,
+    "MD053": false,
+    "MD054": false,
+    "MD055": true,
+    "MD056": true
+  },
+  "globs": ["**/*.md"],
+  // 未跟踪的本地工具脚手架与不入库目录不参与 lint
+  "ignoreGlobs": [
+    "node_modules/**",
+    "en/**",
+    "yuanwen/**",
+    "script/**",
+    ".zcode/**",
+    ".specify/templates/**",
+    "bun.lock"
+  ],
+  "overrides": [
+    {
+      // 分类目录为手工维护的多分类单页，多 H1 是设计而非错误
+      "files": "mu-lu-s.md",
+      "config": { "MD025": false }
+    }
+  ]
+}
