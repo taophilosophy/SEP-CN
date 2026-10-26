@@ -1,0 +1,20 @@
+{
+  "name": "sep-cn-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SEP-CN 本地 VitePress 阅读站（中文词条 + yuanwen 英文原文双语对照）",
+  "scripts": {
+    "dev": "node .vitepress/prepare-assets.mjs && vitepress dev",
+    "build": "node .vitepress/prepare-assets.mjs && vitepress build",
+    "preview": "vitepress preview"
+  },
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "lxgw-wenkai-screen-webfont": "^1.7.0",
+    "lxgw-wenkai-webfont": "^1.7.0",
+    "mathjax": "3.2.2",
+    "rollup": "^4.65.1",
+    "vitepress": "^1.6.4"
+  }
+}

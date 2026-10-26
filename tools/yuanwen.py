@@ -139,10 +139,11 @@ def inline_to_md(html, slug=None):
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
     s = re.sub(r'<img[^>]*>', '', s, flags=re.I)
     s = re.sub(r'<[^>]+>', '', s)
-    s = unescape(s)
     s = re.sub(r'[ \t\r\n\f\v]+', ' ', s).strip()
     for idx, val in enumerate(store):
-        s = s.replace('\x00%d\x00' % idx, val)
+        # 恢复的数学/sub/sup 内容也要 unescape：源里 \(x &lt; y\) 的实体
+        # 在占位保护期躲过了正文 unescape（演示轮 2 复核发现）
+        s = s.replace('\x00%d\x00' % idx, unescape(val))
     return s
 
 

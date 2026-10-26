@@ -48,6 +48,7 @@
 |Ammonius|阿莫尼俄斯|泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”|
 |Anaxagoras|阿那克萨哥拉||
 |Anicius Manlius Severinus Boethius|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
+|anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
@@ -137,6 +138,7 @@
 |Carneades|卡涅阿德斯||
 |Cassirer|卡西尔||
 |Causal Approaches|因果方法||
+|Chancellor|总务长|中世纪教会与大学职衔|
 |Champeaux|尚波||
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
 |City of the Sun|太阳城||
@@ -149,6 +151,7 @@
 |Computing|计算||
 |Consistent Histories|一致性历史||
 |Consistent Histories Approach|一致性历史方法||
+|Constitution|构成；构造；宪法|康德语境多译“构成”，胡塞尔（Konstitution）语境常译“构造”，政治语境译“宪法”|
 |constructive|构造性的|数学哲学语境；constructivism 才是“构造主义”（亦译“建构主义”）|
 |Content Externalism|内容外在主义||
 |continuum|连续体||
@@ -318,6 +321,7 @@
 |neo-Kantianism|新康德主义||
 |Nicolaus Taurellus|尼古拉斯·塔雷路斯||
 |Niels Bohr|尼尔斯·玻尔||
+|Nominalism|唯名论|共相问题立场之一，与实在论（Realism）、概念论（Conceptualism）并列|
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
 |Novum Organum Scientiarum|新工具||
@@ -335,6 +339,7 @@
 |Peter Abelard|彼得·阿伯拉尔|英语翻译为彼得·阿伯拉尔，法语原词为 Pierre Abelard，即皮埃尔·阿伯拉尔|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
 |Phaedo|斐多篇||
+|Philip the Chancellor|总务长菲利普|13 世纪巴黎主教座堂总务长，神学家|
 |Phenomenological Approaches|现象学方法||
 |Philo|斐洛||
 |Philoponus|斐洛波努斯|约翰·斐洛波努斯（John Philoponus，约 490—570），亚历山大里亚注释家；中文维基作“费罗普勒斯”。勿与 Philolaus（菲洛劳斯，毕达哥拉斯学派）混淆|

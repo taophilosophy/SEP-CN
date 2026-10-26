@@ -152,3 +152,4 @@ vite.config.ts.timestamp-*
 /script
 /yuanwen
 /tools/__pycache__
+*.pyc

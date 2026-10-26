@@ -1,0 +1,56 @@
+{
+  "slug": "ci-hui-biao",
+  "kind": "glossary-maintenance",
+  "zh_doc": "qian-yan/ci-hui-biao.md",
+  "state": "round1_augmented",
+  "steps": [
+    {
+      "step": "review-2026-10-27",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T02:10:00+08:00",
+      "evidence": "真实性/有效性复核：46 处修正（误译 22、坏行 8、冲突归并 11、备注补源 15），24 项联网核查；lint 0 问题。已随 d4f13ed4 入库"
+    },
+    {
+      "step": "commit-mining-traversal",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T02:40:00+08:00",
+      "evidence": "逐条遍历全部 3184 条提交信息（2024 旧译 3160 + 2026 重译 24）：主题行命中 20 条、全文型 14 条、正文裁定短语命中 6 条。脚本 script/tmp/scan_commits.py"
+    },
+    {
+      "step": "augment-from-commit-messages",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T02:45:00+08:00",
+      "evidence": "从裁定短语提交增补 5 条：Chancellor→总务长（bbeff276）、Philip the Chancellor→总务长菲利普（fd678a4e）、Constitution→构成（b27b33bd）、Nominalism→唯名论（36fd04fd）、anomalous monism→变异一元论（48adaba4）"
+    }
+  ],
+  "todo": [
+    {
+      "item": "从 git 提交信息增补修订词汇表（总任务，持续）",
+      "status": "pending",
+      "subtasks": [
+        {
+          "item": "找回标准化合并中可能丢失的行：将 2024 年 13 条“词汇表”提交（d9d2942f、570a25a0、6acb4b7d、f0064f0c、78138117、2551e56d、a46dd663、745fee67、bd21366c、e77fb6f3、c5c752fc、ed047338、54c24bcf）逐一 git show 提取增删行，与 bb2793a0 合并版比对，缺者补录",
+          "status": "pending"
+        },
+        {
+          "item": "14 条全文型提交（信息即整篇旧译文：701ecbfd 二谛、9ae16e8a/c6b0567e 空间与运动、39e1aac7、ccab7bfc 亚里士多德著作、a0c1bfb5 论证、1463bf6c 拉姆齐、876add05、afb955fe 形而上学解释、12bd2336、fd416c8b 富勒、ce8599fe 欧陆女性主义、bdccafe6 情绪、2dd3b749 残疾与健康）按词条重译时回收其中的术语译名",
+          "status": "pending"
+        },
+        {
+          "item": "登记-发布双向同步：每个词条翻译任务在 yi-zhe-shuo-ming.md 登记的裁定行，任务收尾时反向合并进 qian-yan/ci-hui-biao.md，防止两表漂移",
+          "status": "pending"
+        },
+        {
+          "item": "裁定沿革留痕：Token 一词 2024-05-11 43ea5ea2 裁“个体”（令牌→个体），2026-10-27 复核改裁“殊例”（消除与 Individuals 的中文碰撞），沿革记入 fang-fa-lun/ci-hui-biao-fu-he-bao-gao.md，不进发布表",
+          "status": "pending"
+        }
+      ]
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-27T02:40:00+08:00",
+  "notes": "任务文件按 tasks/a/alcmaeon.json 的模式扩展 todo 数组；lint 工具 script/glossary_lint.py（白名单已裁定例外）。"
+}
