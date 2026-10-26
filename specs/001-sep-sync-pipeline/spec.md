@@ -174,6 +174,7 @@
 ## Assumptions
 
 - 用户已于 2026-10-26 明确授权绕过 robots.txt 目录禁区（含 /archives/）；5 秒请求间隔仍保留为默认礼貌策略。
+- 用户已于 2026-10-27 允许重写 git 记录（含改写已推送历史与 force push）。适用约束：重写前必须确认共享工作区内无并行会话正在提交（重写会孤儿化其新提交），完成后须告知所有克隆重新同步。当前待办：tools/__pycache__ 字节码于 42dcff53、4d45d42f、271c9a16 入库，2026-10-27 已停止跟踪并生效 .gitignore 既有规则，待工作区空闲后用 `git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch tools/__pycache__ tools/tests/__pycache__' -- 42dcff53~1..HEAD` 清除历史中的 *.pyc 并 force push（波及最近 10 个提交）。
 - SEP 词条文本许可为 CC BY-NC-SA；翻译项目沿用仓库现行 BSD-2-Clause 许可与既有发布方式；"reprinted with permission" 图片在译文中标注来源。
 - 仓库现有 CI 工作流（sync-headers、mulu、markdownlint、md-padding、AutoCorrect 等）继续生效，本流程产物不得与之冲突。
 - AGENTS.md 的归属修正由其他会话处理，本 feature 不触碰 AGENTS.md 与 .gitignore 残留。
