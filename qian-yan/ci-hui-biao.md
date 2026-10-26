@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|
 |3rd Earl of Shaftesbury|第三代沙夫茨伯里伯爵|即 Anthony Ashley Cooper（安东尼·阿什利-库珀），见 Lord Shaftesbury 条|
 |A Very Easy Death|安详辞世||
-|A Week on the Concord and Merrimack Rivers|在康科德与梅里马克河上一周||
+|A Week on the Concord and Merrimack Rivers|河上一周|梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》|
 |Abd al-Latif|阿卜杜勒·拉蒂夫||
 |Abduction|溯因||
 |Abelard|阿伯拉尔||
@@ -27,7 +27,7 @@
 |al-Farabi|阿里·法拉比||
 |Al-Fârâbî|阿里·法拉比||
 |al-Ghazali|安萨里||
-|al-Kindi|肯迪||
+|al-Kindi|肯迪|阿拉伯首位哲学家，亦译“金迪”|
 |al-Razi|拉齐||
 |Alan Turing|艾伦·图灵||
 |Albalag|阿尔巴拉格||
@@ -105,7 +105,7 @@
 |body|身体||
 |Boethius|波爱修斯||
 |Boethius of Dacia|达西亚的波爱修斯||
-|Bohmian|玻姆||
+|Bohmian|玻姆|Bohmian mechanics 玻姆力学（德布罗意—玻姆理论）|
 |Bohr|玻尔||
 |Boltzmann|玻尔兹曼||
 |Boole|布尔||
@@ -151,7 +151,7 @@
 |coherence theory|融贯论||
 |Collapse|坍缩||
 |Collapse Theories|坍缩理论||
-|Coming of Age|论老年||
+|Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
 |Computing|计算||
 |Consistent Histories|一致性历史||
@@ -182,7 +182,7 @@
 |Diodorus Cronus|狄奥多罗斯·克罗诺斯|Cronus（克罗诺斯，意为“老顽固”）是承自其师 Apollonius Cronus 的绰号，并非地名；他生于卡里亚的雅索斯，勿以出生地替代绰号|
 |Diogenes Laertius|第欧根尼·拉尔修||
 |Discovery|发现||
-|Djamila Boupacha|贾米拉·布巴夏||
+|Djamila Boupacha|贾米拉·布帕查|波伏瓦与哈里米合著之书及其人；中文媒体亦作“德贾米拉·波巴查”|
 |Donald Cary Williams|唐纳德·卡里·威廉姆斯||
 |doxographical tradition / doxography|学说史传统；学说汇编|阿尔克迈翁条术语|
 |Dugald Stewart|杜格尔·斯图尔特||
@@ -248,7 +248,7 @@
 |Hermann Weyl|赫尔曼·外尔||
 |Hermeias|赫尔米亚||
 |Herodotus|希罗多德||
-|Hole Argument|空穴论证||
+|Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
 |Ibn Bâjja|伊本·巴哲||
 |Ibn Kammūna|伊本·凯姆那||
@@ -299,7 +299,7 @@
 |Lange|朗格||
 |Large Cardinals|大基数||
 |Latin America|拉丁美洲||
-|Latin West|西方拉丁世界||
+|Latin West|拉丁西方|中世纪语境通行译法；旧译“西方拉丁世界”拗口，废弃|
 |Leo Strauss|列奥·施特劳斯||
 |Leucippus|留基伯||
 |logical atomism|逻辑原子主义||
@@ -341,7 +341,7 @@
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
 |Novum Organum Scientiarum|新工具||
-|Nuptials|婚礼集||
+|Nuptials|婚礼集|即加缪散文集 Noces，郭宏安译本收入《反与正 婚礼集 夏天集》（译林出版社）|
 |Nyāya|正理派||
 |Nyāya-Vaiśeṣika|正理-胜论派||
 |Objectivity|客观性||
@@ -386,22 +386,22 @@
 |Pseudo-Science|伪科学||
 |Pyrrho|皮浪||
 |Pyrrhonism|皮浪主义||
-|Pyrrhus and Cinéas|皮瑞斯与辛尼阿斯||
+|Pyrrhus and Cinéas|皮瑞斯与辛尼阿斯|波伏瓦首部哲学论著，暂无简中出版译本；Pyrrhus 通译“皮洛士”，正文首次出现宜括注原文|
 |Pythagoras|毕达哥拉斯||
 |QFT|量子场论||
 |Quantum Approaches|量子研究方法||
 |Quantum Field Theory|量子场论||
-|Quantum-Bayesian|量子贝叶斯模型||
+|Quantum-Bayesian|量子贝叶斯模型|即 QBism，亦译“量子贝叶斯主义”|
 |Ralp Cudworth|拉尔夫·库德沃斯||
 |Rasâ’il|《论文集》||
-|Rationality|理性||
+|Rationality|理性|指规范性能动性时亦译“合理性”（bounded rationality 有限理性）|
 |Razi|拉齐||
 |Realism|实在论||
 |Rebel|反抗者||
 |Regress|倒退|认识论语境常作“无穷倒退”（infinite regress）|
 |Reinhold|莱因霍尔德||
 |Relational|关系性||
-|Representation|表征||
+|Representation|表征|认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”|
 |Research|研究||
 |Retrocausality|逆因果关系||
 |revision theory|修正论||
@@ -448,7 +448,7 @@
 |Social Ontology|社会本体论||
 |Social Procedures|社会程序||
 |Socialism|社会主义||
-|Sociobiology|生物社会学||
+|Sociobiology|社会生物学|威尔逊（E. O. Wilson）学科名；旧译“生物社会学”系语序倒置，废弃|
 |Sophie de Grouchy|索菲·德·格鲁希||
 |Sorites Paradox|堆垛悖论|又称“连锁悖论”“谷堆悖论”“累积悖论”，欧布里德斯提出|
 |Sortals|种类词|哲学逻辑术语：提供计数与个体化、同一性标准的名词性概念；中文文献亦多保留英文原词|
@@ -461,7 +461,7 @@
 |Speusippus|斯彪西波||
 |Speusippus of Athens|雅典的斯彪西波||
 |Spinoza|斯宾诺莎||
-|square of opposition|逻辑方阵||
+|square of opposition|逻辑方阵|又称“对当方阵”|
 |St. Petersburg|圣彼得堡||
 |St. Petersburg paradox|圣彼得堡悖论||
 |States of Affairs|事态||
@@ -513,19 +513,19 @@
 |thin|薄（的）|威廉姆斯 thick/thin ethical concepts 即“厚/薄”伦理概念；旧表“瘦”系误译|
 |Thomas of Erfurt|埃尔福特的托马斯||
 |Thought Experiments|思想实验||
-|Thrasymachus|塞拉西马柯||
+|Thrasymachus|塞拉西马柯|《理想国》商务译本作“色拉叙马霍斯”|
 |Timaeus|蒂迈欧||
 |Time|时间||
 |Time Machines|时间机器||
 |Time Travel|时间旅行||
-|Timon|第蒙||
+|Timon|第蒙|皮浪主义者，亦作“蒂蒙”“蒂孟”|
 |Timon of Phlius|斐利亚修斯的第蒙||
 |Token|殊例|type-token 即“类型—殊例”之分；亦译“殊型”“个例”“记号”，与 individual（个体）有别|
 |Tokens|殊例|见 Token 条|
 |Tommaso Campanella|托马斯·康帕内拉||
 |Tractatus Politicus|政治论||
 |Transcendental Arguments|先验论证||
-|transcendentalism|超验主义||
+|transcendentalism|超验主义|指美国爱默生、梭罗一系的思想运动；康德语境 transcendental 译“先验”|
 |Transformative Experience|变革性体验||
 |Transmission|传递||
 |Trinity|三位一体||
@@ -534,7 +534,7 @@
 |Truth|真理||
 |truth definitions|真理定义||
 |truth values|真值||
-|Truthlikeness|似真性||
+|Truthlikeness|似真性|波普尔 verisimilitude，中译亦作“逼真性”|
 |truthmakers|使真者||
 |Tsongkhapa|宗喀巴||
 |Tsongkhapa Losang Drakpa|宗喀巴·洛桑札巴||
@@ -546,12 +546,12 @@
 |type theory|类型论||
 |Types|类型||
 |Umar Khayyam|欧玛尔·海亚姆||
-|Underdetermination|非充分决定性||
-|Understanding|理解||
+|Underdetermination|非充分决定性|亦译“不充分决定性”，指证据对理论的不充分约束|
+|Understanding|理解|康德 Verstand 语境定译“知性”，日常语境译“理解”，勿混|
 |Unity of Science|统一科学||
 |universals|共相|与“殊相”（particulars）相对；波菲利问题即共相问题|
 |Utilitarianism|功利主义||
-|vagueness|模糊性||
+|vagueness|模糊性|亦译“含糊（性）”；引发堆垛悖论|
 |Vaihinger|费英格||
 |Vaiśeṣika|胜论派||
 |Valla|瓦拉||

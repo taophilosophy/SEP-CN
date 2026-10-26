@@ -100,6 +100,16 @@ v2 首轮即抓出两处“报告已记、执行漏改”的行（Argument、Asp
 * 同姓异人 → 泛指/简称行必须带消歧备注（lint 观照名单：albert、more、samuel、cohen、wilson、williams、sturm、bell、ammonius），已为 7 个裸姓氏行补写消歧注，如 Albert 行指向大阿尔伯特与萨克森的阿尔伯特两条专条；贝尔定理的 John Stewart Bell 与逻辑学家 John L. Bell 亦在册；
 * 术语别名 → 备注记“又称”（堆垛悖论又称连锁悖论、谷堆悖论、累积悖论）。
 
+## 全局逐个复核（2026-10-27 第三轮）
+
+对 594 行逐行遍历（非仅 lint 报警行），每一行核对译名通行度、语境分流与书名出处，另对 5 个书名联网核查。结果：
+
+* **真错误 2 处**：Sociobiology 旧译“生物社会学”系语序倒置，正为“社会生物学”；Latin West 由“西方拉丁世界”改为通行的“拉丁西方”。
+* **书名联网核查 5 项**：Coming of Age 简中版为《老年》（上海译文 2025，孟玉秋译；台版《论老年》）；A Week on the Concord and Merrimack Rivers 通行中译《河上一周》（商务涵芬书坊、果麦；商务 2025 新译《两河一周》）；Noces《婚礼集》确认（郭宏安译本）；Djamila Boupacha 中文媒体通行“布帕查”（亦作“波巴查”），原表“布巴夏”罕用；Pyrrhus et Cinéas 无简中出版译本，补注说明。
+* **备注补强 14 条**：Understanding（康德 Verstand 定译“知性”）、Rationality（合理性）、Representation（Vorstellung 语境译“表象”）、Truthlikeness（亦译“逼真性”）、vagueness（亦译“含糊”）、square of opposition（又称“对当方阵”）、Thrasymachus（商务译本作“色拉叙马霍斯”）、Timon（亦作“蒂蒙”）、al-Kindi（亦译“金迪”）、Hole Argument（亦译“空洞论证”）、Quantum-Bayesian（QBism 量子贝叶斯主义）、Underdetermination（亦译“不充分决定性”）、transcendentalism（指美国运动，康德语境译“先验”）、Bohmian（玻姆力学）。
+
+此后词汇表进入稳态：新增术语一律走“登记→发布→复核”三步，本表仅在新词条翻译时增量维护。
+
 ## 裁定沿革
 
 * **Token**：2024-05-11 提交 43ea5ea2 裁定“令牌→个体”；2026-10-27 复核改裁“殊例”——“个体”与 Individual(s) 的中文碰撞正是原表有效性缺陷的根源之一。沿革只记此处，不进发布表。
