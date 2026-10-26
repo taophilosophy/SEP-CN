@@ -1,11 +1,11 @@
 # 任务目录
 
-本目录存放**文档任务**（Doc Task）的状态记录：每个待译/待更新/重译的中文词条文档一条记录。流程规则见 `rules/04-translation-workflow.md`；本 README 只定义记录格式与操作方式。
+本目录存放 **文档任务** （Doc Task）的状态记录：每个待译/待更新/重译的中文词条文档一条记录。流程规则见 `rules/04-translation-workflow.md`；本 README 只定义记录格式与操作方式。
 
 ## 存储约定
 
 * 一词条一文件：`tasks/<slug 首字母>/<slug>.json`，slug 为 SEP 词条标识（如 `tasks/a/alcmaeon.json`）。
-* 例外：`tasks/term-candidates.json` 为**术语候选清单**（词汇表复核流程的中间记录，无 slug/state），不属于文档任务；`tools/progress.py` 统计时自动跳过。
+* 例外：`tasks/term-candidates.json` 为 **术语候选清单** （词汇表复核流程的中间记录，无 slug/state），不属于文档任务；`tools/progress.py` 统计时自动跳过。
 * 文件由 `tools/task_ops.py` 创建与推进，**不要手改状态字段**；`evidence` 等叙述字段可由执行会话补写。
 * 记录入库（git 分发），与 `baseline/entries.json` 的版本钉互为凭证。
 

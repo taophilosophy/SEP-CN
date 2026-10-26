@@ -1,37 +1,39 @@
 /* ============================================================
    SEP-CN VitePress 主题覆盖
-   配色对齐 book.bsdcn.org（GitBook 默认主题）：
-   亮色 主蓝 #346DDB / 页面纯白 / 侧栏 #F8F8F8 / 正文近黑 #161616
-   暗色 主蓝 #5D8AE2 / 页面 #1F1F1F / 侧栏 #262626
-   字体：霞鹜文楷屏幕阅读版（正文）+ 霞鹜文楷等宽（代码）
+   配色对齐 book.bsdcn.org（GitBook 实测值，浏览器取色）：
+   亮色 页面 #FFFFFF / 正文 #1F1D1A / 品牌玫红 #FF0072
+        次级文字 #766D60 / 行内代码底 #FAF7F3 / 代码块底 #FBFAF8
+   暗色 页面 #000407 / 正文 #FEFFFF / 品牌薄荷绿 #A8E6CF
+        次级文字 #B1B7BA / 行内代码底 #0F1B20 / 代码块底 #030B10
+   字体：霞鹜文楷屏幕阅读版（正文）+ 霞鹜文楷等宽（代码，内嵌英文等宽字形）
    ============================================================ */
 
 :root {
-  --vp-c-brand-1: #346ddb;
-  --vp-c-brand-2: #2f62c7;
-  --vp-c-brand-3: #346ddb;
-  --vp-c-brand-soft: rgba(52, 109, 219, 0.14);
+  --vp-c-brand-1: #ff0072;
+  --vp-c-brand-2: #e7005f;
+  --vp-c-brand-3: #ff0072;
+  --vp-c-brand-soft: rgba(255, 0, 114, 0.1);
 
   --vp-c-bg: #ffffff;
-  --vp-c-bg-alt: #f8f8f8;
+  --vp-c-bg-alt: #fbfaf8;
   --vp-c-bg-elv: #ffffff;
-  --vp-c-bg-soft: #f6f6f7;
+  --vp-c-bg-soft: #fbfaf8;
 
-  --vp-c-text-1: #161616;
-  --vp-c-text-2: #4c4c4c;
-  --vp-c-text-3: #878787;
+  --vp-c-text-1: #1f1d1a;
+  --vp-c-text-2: #766d60;
+  --vp-c-text-3: #8d7554;
 
-  --vp-c-divider: #e5e5e5;
-  --vp-c-border: #dcdcdc;
-  --vp-c-gutter: #e5e5e5;
+  --vp-c-divider: #ece5dd;
+  --vp-c-border: #e0d8cd;
+  --vp-c-gutter: #ece5dd;
 
-  --vp-sidebar-bg-color: #f8f8f8;
+  --vp-sidebar-bg-color: #ffffff;
   --vp-nav-bg-color: #ffffff;
 
-  --vp-c-text-code: #24292f;
-  --vp-code-color: #24292f;
-  --vp-code-bg: #f0f1f2;
-  --vp-code-block-bg: #f6f8fa;
+  --vp-c-text-code: #28181b;
+  --vp-code-color: #28181b;
+  --vp-code-bg: #faf7f3;
+  --vp-code-block-bg: #fbfaf8;
 
   --vp-font-family-base: 'LXGW WenKai Screen', 'LXGW WenKai', -apple-system, 'Segoe UI',
     'Microsoft YaHei', 'PingFang SC', sans-serif;
@@ -40,31 +42,31 @@
 }
 
 .dark {
-  --vp-c-brand-1: #5d8ae2;
-  --vp-c-brand-2: #7ba3e8;
-  --vp-c-brand-3: #5d8ae2;
-  --vp-c-brand-soft: rgba(93, 138, 226, 0.16);
+  --vp-c-brand-1: #a8e6cf;
+  --vp-c-brand-2: #639f89;
+  --vp-c-brand-3: #a8e6cf;
+  --vp-c-brand-soft: rgba(168, 230, 207, 0.14);
 
-  --vp-c-bg: #1f1f1f;
-  --vp-c-bg-alt: #262626;
-  --vp-c-bg-elv: #262626;
-  --vp-c-bg-soft: #2b2b2b;
+  --vp-c-bg: #000407;
+  --vp-c-bg-alt: #030b10;
+  --vp-c-bg-elv: #030b10;
+  --vp-c-bg-soft: #0f1b20;
 
-  --vp-c-text-1: #e8e8e8;
-  --vp-c-text-2: #b8b8b8;
-  --vp-c-text-3: #8a8a8a;
+  --vp-c-text-1: #feffff;
+  --vp-c-text-2: #b1b7ba;
+  --vp-c-text-3: #738188;
 
-  --vp-c-divider: #3a3a3a;
-  --vp-c-border: #404040;
-  --vp-c-gutter: #3a3a3a;
+  --vp-c-divider: #162127;
+  --vp-c-border: #202c31;
+  --vp-c-gutter: #162127;
 
-  --vp-sidebar-bg-color: #262626;
-  --vp-nav-bg-color: #1f1f1f;
+  --vp-sidebar-bg-color: #000407;
+  --vp-nav-bg-color: #000407;
 
-  --vp-c-text-code: #d8d8d8;
-  --vp-code-color: #d8d8d8;
-  --vp-code-bg: rgba(255, 255, 255, 0.08);
-  --vp-code-block-bg: #1a1a1a;
+  --vp-c-text-code: #feffff;
+  --vp-code-color: #feffff;
+  --vp-code-bg: #0f1b20;
+  --vp-code-block-bg: #030b10;
 }
 
 html {
