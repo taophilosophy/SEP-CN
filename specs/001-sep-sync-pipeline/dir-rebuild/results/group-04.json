@@ -1,0 +1,198 @@
+{
+ "group": "group-04",
+ "created": [
+  {
+   "path": "yuanwen/i/information-biological.md",
+   "slug": "information-biological",
+   "line_no": 1209,
+   "english": "biological",
+   "conf": "snapshot"
+  },
+  {
+   "path": "yuanwen/i/identity-ethics.md",
+   "slug": "identity-ethics",
+   "line_no": 1887,
+   "english": "and ethics",
+   "conf": "snapshot"
+  }
+ ],
+ "resolved_review": [
+  {
+   "line_no": 163,
+   "slug": "aristotelianism-renaissance",
+   "decision": "skip-existing",
+   "evidence": "官方快照 slug=aristotelianism-renaissance 之 title='in the Renaissance' 与本行子项英文一致，父簇 aristotelianism 唯一对应；yuanwen/a/aristotelianism-renaissance.md 已存在（92274 字节，H1 'Aristotelianism in the Renaissance'）→ 跳过。注：行内作者 Heinrich Kuhn 与快照作者 David Lines 不符，疑为存档旧版署名，不影响 slug 裁定"
+  },
+  {
+   "line_no": 624,
+   "slug": "descartes-ethics",
+   "decision": "skip-existing",
+   "evidence": "快照 slug=descartes-ethics 之 title='ethics' 与本行子项英文一致，父簇 descartes 唯一对应；yuanwen/d/descartes-ethics.md 已存在（66509 字节，H1 \"Descartes’ Ethics\"）→ 跳过。注：行内作者 Donald Rutherford 与快照作者 Kambouchner/Rouquayrol 不符，疑为存档旧版署名"
+  },
+  {
+   "line_no": 905,
+   "slug": "feminist-religion",
+   "decision": "skip-existing",
+   "evidence": "快照 slug=feminist-religion 之 title='philosophy of religion'、authors='Nancy Frankenberry and Mary-Jane Rubenstein' 与本行作者 Nancy Frankenberry 完全吻合；alias 表载 alias='feminist philosophy of'→feminist-religion 互证；yuanwen/f/feminist-religion.md 已存在（110732 字节，H1 'Feminist Philosophy of Religion'）→ 跳过"
+  },
+  {
+   "line_no": 966,
+   "slug": "divine-freedom",
+   "decision": "skip-existing",
+   "evidence": "父簇 freedom 之下子项 'divine'；快照 slug=divine-freedom 之 title='divine'，alias 表载 alias='freedom'→divine-freedom，并与 SUMMARY 第 685 行『自由——见自由：神的自由 freedom — see freedom: divine』别名互证，排除 divine-simplicity（属 simplicity 簇）；yuanwen/d/divine-freedom.md 已存在（107957 字节，H1 'Divine Freedom'）→ 跳过。注：行内作者 William Rowe 为存档旧版署名，快照现署 Klaas Kraay"
+  },
+  {
+   "line_no": 1209,
+   "slug": "information-biological",
+   "decision": "created",
+   "evidence": "父簇 information 之下子项 'biological'；快照 slug=information-biological 之 title='biological' 字面吻合，alias 表载 alias='biological information'→information-biological 互证，候选列表中仅此项属 information 簇；yuanwen/i/information-biological.md 原缺失 → 新建一行 H1 骨架 '# biological'。注：行内作者 Godfrey-Smith/Sterelny 与快照作者 Marc Artiga 不符，疑为存档旧版署名"
+  },
+  {
+   "line_no": 1227,
+   "slug": "innateness-language",
+   "decision": "skip-existing",
+   "evidence": "快照 slug=innateness-language 之 title='and language' 与本行子项英文一致，父簇 innateness 唯一对应；yuanwen/i/innateness-language.md 已存在（全文正文，H1 'Innateness and Language'）→ 跳过。注：行内作者 Fiona Cowie 与快照作者 Gabe Dupre 不符（条目已被新版取代）"
+  },
+  {
+   "line_no": 1566,
+   "slug": "naturalism-mathematics",
+   "decision": "skip-existing",
+   "evidence": "快照 slug=naturalism-mathematics 之 title='naturalism'，authors 含 Alexander Paseau 与本行吻合；alias 表载 alias='in the philosophy of mathematics'→naturalism-mathematics 互证；yuanwen/n/naturalism-mathematics.md 已存在（90950 字节，H1 'Naturalism in the Philosophy of Mathematics'）→ 跳过"
+  },
+  {
+   "line_no": 1790,
+   "slug": "nominalism-metaphysics",
+   "decision": "skip-existing",
+   "evidence": "SUMMARY 第 1790 行实为『*唯名论 nominalism』(README.md) 之子项 'in metaphysics'；快照 slug=nominalism-metaphysics 之 title='in metaphysics' 字面吻合；yuanwen/n/nominalism-metaphysics.md 已存在（104477 字节，H1 'Nominalism in Metaphysics'）→ 跳过。注：工作包 parent_title/parent_slug 误标为 nishida-kitaro（解析串位），且行内作者 Gonzalo Rodriguez-Pereyra 与快照作者 Cowling/Giberman 不符"
+  },
+  {
+   "line_no": 1887,
+   "slug": "identity-ethics",
+   "decision": "created",
+   "evidence": "父簇 identity-personal 之下子项 'and ethics'；快照 slug=identity-ethics 之 title='and ethics' 字面吻合，alias 表载 alias='and personal identity'→identity-ethics 互证，候选列表中 game-ethics 属 game 簇可排除；yuanwen/i/identity-ethics.md 原缺失 → 新建一行 H1 骨架 '# and ethics'。注：行内作者 David Shoemaker 与快照作者 Annette Dufner 不符，疑为存档旧版署名"
+  },
+  {
+   "line_no": 1954,
+   "slug": "medieval-political",
+   "decision": "skip-existing",
+   "evidence": "父簇 political-philosophy 之下子项 'medieval'；快照 slug=medieval-political 之 title='medieval'，alias 表载 alias='political'→medieval-political 互证；yuanwen/m/medieval-political.md 已存在（218766 字节，H1 'Medieval Political Philosophy'）→ 跳过。注：行内作者 Kilcullen/Robinson 与快照作者 Nederman/Mulieri 不符"
+  }
+ ],
+ "unresolved": [
+  {
+   "line_no": 1,
+   "reason": "项目首页『斯坦福哲学百科全书简体中文版』（path=README.md，english 为空）：非 SEP 条目、无 slug；official-snapshot.json、baseline/entries.json、yuanwen 三处均无对应条目页，纯项目导航页，建议人工移出条目管线"
+  },
+  {
+   "line_no": 5,
+   "reason": "项目词汇表页（path=fang-fa-lun/ci-hui-biao-fu-he-bao-gao.md，english 为空）：非 SEP 条目、无 slug；快照/baseline/yuanwen 均无对应条目页，纯项目导航页"
+  },
+  {
+   "line_no": 10,
+   "reason": "项目特殊字符说明页（path=argument/dai-shu-algebra-vaughan-pratt.md，english 为空）：非 SEP 条目、无 slug，且 path 误指向代数条目目录；快照/baseline/yuanwen 均无对应条目页，纯项目导航页"
+  },
+  {
+   "line_no": 37,
+   "reason": "纯导航节点，无条目页：'*美学 aesthetics' 为占位母词条（path=README.md，无作者）；快照 main 无 slug=aesthetics（仅有 aristotle-aesthetics 等 16 个 X-aesthetics 子条目），baseline/entries.json 亦无；不得建裸 aesthetics 页"
+  },
+  {
+   "line_no": 494,
+   "reason": "纯导航节点，无条目页：'*Confucianism 儒学'（path=README.md，无作者，english 为空）；快照仅有 confucianism-modern/song-ming-confucianism/confucian-gender/japanese-confucian/korean-confucianism，无 slug=confucianism，baseline 亦无"
+  },
+  {
+   "line_no": 685,
+   "reason": "纯导航节点，无条目页：'*神 divine'（path=README.md，无作者）；快照无 slug=divine（仅 divine-freedom/divine-simplicity，均属独立父簇），baseline 亦无；本行子项多为别名重定向"
+  },
+  {
+   "line_no": 744,
+   "reason": "纯导航节点，无条目页：'*经验主义研究 empirical approaches'（path=README.md，无作者）；快照无 slug=empirical-approaches（仅 altruism-empirical/moral-character-empirical/moral-psych-emp/moral-responsibility-empirical），baseline 亦无；子项全为别名"
+  },
+  {
+   "line_no": 793,
+   "reason": "纯导航节点，无条目页：'*伦理学 ethics'（path=README.md，无作者）；快照无 slug=ethics（仅 african-ethics/aristotle-ethics/descartes-ethics/feminism-ethics 等 9 个），baseline 亦无"
+  },
+  {
+   "line_no": 1431,
+   "reason": "纯导航节点，无条目页：'*逻辑学 logic'（path=README.md，无作者）；快照无 slug=logic（仅 aristotle-logic/bolzano-logic/frege-logic/ibn-sina-logic/logic-india/peirce-logic），baseline 亦无"
+  },
+  {
+   "line_no": 1553,
+   "reason": "纯导航节点，无条目页：'*数学 mathematics'（path=README.md，无作者）；快照无 slug=mathematics（仅 aristotle-mathematics/descartes-mathematics），baseline 亦无"
+  },
+  {
+   "line_no": 1587,
+   "reason": "纯导航节点，无条目页：'*中世纪理论 medieval theories of'（path=README.md，无作者）；快照无同名字面 slug，仅 analogy-medieval/medieval-categories/causation-medieval 等 13 个 *-medieval 子条目，baseline 亦无；子项全为别名"
+  },
+  {
+   "line_no": 1754,
+   "reason": "纯导航节点，无条目页：'*自然哲学 natural philosophy'（path=README.md，无作者）；快照无 slug=natural-philosophy 或 natphil（仅 aristotle-natphil/ibn-rushd-natural/ibn-sina-natural），baseline 亦无"
+  },
+  {
+   "line_no": 1908,
+   "reason": "纯导航节点，无条目页：'*科学哲学 philosophy of science'（path=README.md，无作者）；快照无 slug=philosophy-science 或 philosophy-of-science（仅 einstein-philscience/hobbes-science/kant-science/locke-philosophy-science），baseline 亦无"
+  },
+  {
+   "line_no": 1952,
+   "reason": "纯导航节点，无条目页：'*政治哲学 political philosophy'（path=README.md，无作者）；快照无 slug=political-philosophy（仅 dewey-political/feminism-political/locke-political/nozick-political/spinoza-political），baseline 亦无"
+  },
+  {
+   "line_no": 2048,
+   "reason": "需人工裁决（非纯导航，有作者）：Pufendorf 子项『普芬道夫的伦理学和政治哲学 moral and political philosophy (Michael Seidler)』在快照 main 中无对应子 slug（仅有父条目 pufendorf，title='Pufendorf, Samuel Freiherr von'，作者同为 Michael Seidler），baseline/entries.json 亦无，候选列表 4 项均非 pufendorf 簇；yuanwen/p/pufendorf.md 已存在（269276 字节正文）。疑为旧管线把单一 SEP 条目拆成父+子产生的重复行，非独立条目页，按零信任不落盘"
+  },
+  {
+   "line_no": 2373,
+   "reason": "纯导航节点，无条目页：'*speech 言语'（path=README.md，无作者，english 为空）；快照 main 无 slug=speech，baseline 亦无；唯一子项为别名（内部言语——见内部言语）。另需人工订正：本行标题中英顺序倒置（'speech 言语'），与全库『中文 English』体例相反"
+  },
+  {
+   "line_no": 2553,
+   "reason": "纯导航节点，无条目页：'*德性 virtue'（path=README.md，无作者）；快照无 slug=virtue（仅 epistemology-virtue/ethics-virtue），baseline 亦无"
+  },
+  {
+   "line_no": 2605,
+   "reason": "需人工裁决（非纯导航，有作者）：Wyclif 子项『约翰·威克里夫的政治哲学 political Philosophy (Stephen Lahey)』在快照 main 中无对应子 slug（仅有父条目 wyclif，title='Wyclif, John'，作者 Alessandro Conti），baseline/entries.json 亦无，候选列表 5 项均非 wyclif 簇；yuanwen/w/wyclif.md 已存在（136387 字节正文）。疑为旧管线把单一 SEP 条目拆成父+子产生的重复行，非独立条目页，按零信任不落盘"
+  }
+ ],
+ "skipped_existing": [
+  {
+   "path": "yuanwen/a/aristotelianism-renaissance.md",
+   "slug": "aristotelianism-renaissance",
+   "line_no": 163
+  },
+  {
+   "path": "yuanwen/d/descartes-ethics.md",
+   "slug": "descartes-ethics",
+   "line_no": 624
+  },
+  {
+   "path": "yuanwen/f/feminist-religion.md",
+   "slug": "feminist-religion",
+   "line_no": 905
+  },
+  {
+   "path": "yuanwen/d/divine-freedom.md",
+   "slug": "divine-freedom",
+   "line_no": 966
+  },
+  {
+   "path": "yuanwen/i/innateness-language.md",
+   "slug": "innateness-language",
+   "line_no": 1227
+  },
+  {
+   "path": "yuanwen/n/naturalism-mathematics.md",
+   "slug": "naturalism-mathematics",
+   "line_no": 1566
+  },
+  {
+   "path": "yuanwen/n/nominalism-metaphysics.md",
+   "slug": "nominalism-metaphysics",
+   "line_no": 1790
+  },
+  {
+   "path": "yuanwen/m/medieval-political.md",
+   "slug": "medieval-political",
+   "line_no": 1954
+  }
+ ],
+ "errors": []
+}

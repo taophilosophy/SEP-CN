@@ -1,0 +1,537 @@
+{
+  "group": "group-02",
+  "created": [
+    {
+      "path": "yuanwen/k/korean-buddhism.md",
+      "slug": "korean-buddhism",
+      "english": "Buddhism",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/medieval-categories.md",
+      "slug": "medieval-categories",
+      "english": "medieval theories of",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/moral-character-empirical.md",
+      "slug": "moral-character-empirical",
+      "english": "empirical approaches",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/health-well-being-personal-relationships.md",
+      "slug": "health-well-being-personal-relationships",
+      "english": "health, well-being, personal relationships",
+      "conf": "derived"
+    },
+    {
+      "path": "yuanwen/j/justice-moral-psych.md",
+      "slug": "justice-moral-psych",
+      "english": "and empirical moral psychology",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/g/gadamer-aesthetics.md",
+      "slug": "gadamer-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/g/goedel-incompleteness.md",
+      "slug": "goedel-incompleteness",
+      "english": "incompleteness theorems",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/g/goodman-aesthetics.md",
+      "slug": "goodman-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/medieval-haecceity.md",
+      "slug": "medieval-haecceity",
+      "english": "medieval theories of",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/hegel-aesthetics.md",
+      "slug": "hegel-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/heidegger-aesthetics.md",
+      "slug": "heidegger-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/heritability.md",
+      "slug": "heritability",
+      "english": "heritability",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/hobbes-moral.md",
+      "slug": "hobbes-moral",
+      "english": "moral and political philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/hume-aesthetics.md",
+      "slug": "hume-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/h/hutcheson.md",
+      "slug": "hutcheson",
+      "english": "Hutcheson, Francis",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/i/ibn-rushd-natural.md",
+      "slug": "ibn-rushd-natural",
+      "english": "natural philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/i/ibn-sina-logic.md",
+      "slug": "ibn-sina-logic",
+      "english": "logic",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/i/identity-indiscernible.md",
+      "slug": "identity-indiscernible",
+      "english": "of indiscernibles",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/i/implicature-optimality-games.md",
+      "slug": "implicature-optimality-games",
+      "english": "optimality theoretic and game theoretic approaches",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/i/indian-philosophy.md",
+      "slug": "indian-philosophy",
+      "english": "Indian Philosophy",
+      "conf": "derived"
+    },
+    {
+      "path": "yuanwen/j/japanese-aesthetics.md",
+      "slug": "japanese-aesthetics",
+      "english": "aesthetics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/j/justice.md",
+      "slug": "justice",
+      "english": "justice",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/k/kant-reason.md",
+      "slug": "kant-reason",
+      "english": "account of reason",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/latin-american-analytic.md",
+      "slug": "latin-american-analytic",
+      "english": "analytic philosophy in",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/leibniz-ethics.md",
+      "slug": "leibniz-ethics",
+      "english": "ethics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/lewis-metaphysics.md",
+      "slug": "lewis-metaphysics",
+      "english": "metaphysics",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/liberalism-latin-america.md",
+      "slug": "liberalism-latin-america",
+      "english": "in Latin America",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/life-meaning.md",
+      "slug": "life-meaning",
+      "english": "meaning of",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/locke-moral.md",
+      "slug": "locke-moral",
+      "english": "moral philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/logical-consequence.md",
+      "slug": "logical-consequence",
+      "english": "logical consequence",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/luther-influence.md",
+      "slug": "luther-influence",
+      "english": "influence on philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/maimonides-islamic.md",
+      "slug": "maimonides-islamic",
+      "english": "the influence of Islamic thought on",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/malebranche.md",
+      "slug": "malebranche",
+      "english": "Malebranche, Nicolas",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/mally-deontic.md",
+      "slug": "mally-deontic",
+      "english": "deontic logic",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/materialism-eliminative.md",
+      "slug": "materialism-eliminative",
+      "english": "eliminative",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/medieval-literary.md",
+      "slug": "medieval-literary",
+      "english": "literary forms of",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/memory-episprob.md",
+      "slug": "memory-episprob",
+      "english": "epistemological problems of",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/mereology.md",
+      "slug": "mereology",
+      "english": "mereology",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/mill-moral-political.md",
+      "slug": "mill-moral-political",
+      "english": "moral and political philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/modeltheory-fo.md",
+      "slug": "modeltheory-fo",
+      "english": "first-order",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/monism.md",
+      "slug": "monism",
+      "english": "monism",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/moore-moral.md",
+      "slug": "moore-moral",
+      "english": "moral philosophy",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/moral-epistemology-a-priori.md",
+      "slug": "moral-epistemology-a-priori",
+      "english": "a priorism in",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/moral-particularism-generalism.md",
+      "slug": "moral-particularism-generalism",
+      "english": "and moral generalism",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/n/naturalism.md",
+      "slug": "naturalism",
+      "english": "naturalism",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/l/law-interpretivist.md",
+      "slug": "law-interpretivist",
+      "english": "interpretivist theories",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/n/newton-principia.md",
+      "slug": "newton-principia",
+      "english": "Philosophiae Naturalis Principia Mathematica",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/m/moral-phenomenology.md",
+      "slug": "moral-phenomenology",
+      "english": "moral",
+      "conf": "snapshot"
+    },
+    {
+      "path": "yuanwen/o/on-utopia.md",
+      "slug": "on-utopia",
+      "english": "on utopia",
+      "conf": "derived"
+    }
+  ],
+  "resolved_review": [
+    {
+      "line_no": 1180,
+      "slug": "incommensurability",
+      "decision": "skip-existing",
+      "evidence": "SUMMARY 第 1180 行为真实条目，官方快照 slug=incommensurability 之 title 与 authors 均与其吻合；目标 yuanwen/i/incommensurability.md 已存在，同名枢纽行无需再建，跳过"
+    },
+    {
+      "line_no": 1418,
+      "slug": "linguistics",
+      "decision": "skip-existing",
+      "evidence": "SUMMARY 第 1418 行为真实条目，官方快照 slug=linguistics 之 title 与 authors 均与其吻合；目标 yuanwen/l/linguistics.md 已存在，同名枢纽行无需再建，跳过"
+    },
+    {
+      "line_no": 1576,
+      "slug": "meaning",
+      "decision": "skip-existing",
+      "evidence": "SUMMARY 第 1576 行为真实条目，官方快照 slug=meaning 之 title 与 authors 均与其吻合；目标 yuanwen/m/meaning.md 已存在，同名枢纽行无需再建，跳过"
+    },
+    {
+      "line_no": 1747,
+      "slug": "lawphil-naturalism",
+      "decision": "skip-existing",
+      "evidence": "SUMMARY 第 1747 行为真实条目，官方快照 slug=lawphil-naturalism 之 title 与 authors 均与其吻合；目标 yuanwen/l/lawphil-naturalism.md 已存在，同名枢纽行无需再建，跳过"
+    }
+  ],
+  "unresolved": [
+    {
+      "line_no": 991,
+      "reason": "SUMMARY 第 991 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=games，yuanwen/g/ 下亦无 games.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1004,
+      "reason": "SUMMARY 第 1004 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=general-relativity，yuanwen/g/ 下亦无 general-relativity.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1014,
+      "reason": "SUMMARY 第 1014 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=geometry，yuanwen/g/ 下亦无 geometry.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1019,
+      "reason": "SUMMARY 第 1019 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=german-philosophy，yuanwen/g/ 下亦无 german-philosophy.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1027,
+      "reason": "SUMMARY 第 1027 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=god，yuanwen/g/ 下亦无 god.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1030,
+      "reason": "SUMMARY 第 1030 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=god-arguments-for-belief-in，yuanwen/g/ 下亦无 god-arguments-for-belief-in.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1032,
+      "reason": "SUMMARY 第 1032 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=god-arguments-for-the-existence-of，yuanwen/g/ 下亦无 god-arguments-for-the-existence-of.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1047,
+      "reason": "SUMMARY 第 1047 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=grammar，yuanwen/g/ 下亦无 grammar.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1096,
+      "reason": "SUMMARY 第 1096 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=hilbert-david，yuanwen/h/ 下亦无 hilbert-david.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1115,
+      "reason": "SUMMARY 第 1115 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=humanism，yuanwen/h/ 下亦无 humanism.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1198,
+      "reason": "SUMMARY 第 1198 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=induction，yuanwen/i/ 下亦无 induction.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1213,
+      "reason": "SUMMARY 第 1213 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=information-processing，yuanwen/i/ 下亦无 information-processing.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1215,
+      "reason": "SUMMARY 第 1215 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=information-technology，yuanwen/i/ 下亦无 information-technology.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1224,
+      "reason": "SUMMARY 第 1224 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=innateness，yuanwen/i/ 下亦无 innateness.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1274,
+      "reason": "SUMMARY 第 1274 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=judgment，yuanwen/j/ 下亦无 judgment.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1294,
+      "reason": "SUMMARY 第 1294 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=justification-epistemic，yuanwen/j/ 下亦无 justification-epistemic.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1301,
+      "reason": "SUMMARY 第 1301 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=justification-political，yuanwen/j/ 下亦无 justification-political.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1328,
+      "reason": "SUMMARY 第 1328 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=knowledge，yuanwen/k/ 下亦无 knowledge.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1361,
+      "reason": "SUMMARY 第 1361 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=law，yuanwen/l/ 下亦无 law.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1379,
+      "reason": "SUMMARY 第 1379 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=legal-reasoning，yuanwen/l/ 下亦无 legal-reasoning.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1409,
+      "reason": "SUMMARY 第 1409 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=liberty，yuanwen/l/ 下亦无 liberty.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1479,
+      "reason": "SUMMARY 第 1479 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=logic-history-of，yuanwen/l/ 下亦无 logic-history-of.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1485,
+      "reason": "工作包派生 slug 有误：官方快照权威 slug 为 logic-normative（title \"normative status of\", Florian Steinberger），yuanwen/l/logic-normative.md 已存在（107KB），创建工作包给定 slug 将产生同一 SEP 条目的重复骨架"
+    },
+    {
+      "line_no": 1502,
+      "reason": "SUMMARY 第 1502 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=luck，yuanwen/l/ 下亦无 luck.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1512,
+      "reason": "SUMMARY 第 1512 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=lying-and-deception，yuanwen/l/ 下亦无 lying-and-deception.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1544,
+      "reason": "SUMMARY 第 1544 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mass-expressions，yuanwen/m/ 下亦无 mass-expressions.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1550,
+      "reason": "SUMMARY 第 1550 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mathematical，yuanwen/m/ 下亦无 mathematical.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1557,
+      "reason": "SUMMARY 第 1557 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mathematics-foundations-of，yuanwen/m/ 下亦无 mathematics-foundations-of.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1579,
+      "reason": "SUMMARY 第 1579 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=measurement，yuanwen/m/ 下亦无 measurement.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1613,
+      "reason": "SUMMARY 第 1613 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mental-content，yuanwen/m/ 下亦无 mental-content.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1636,
+      "reason": "SUMMARY 第 1636 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=metaphysics-in-the-16th-century，yuanwen/m/ 下亦无 metaphysics-in-the-16th-century.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1639,
+      "reason": "SUMMARY 第 1639 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mexico，yuanwen/m/ 下亦无 mexico.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1646,
+      "reason": "SUMMARY 第 1646 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=mind，yuanwen/m/ 下亦无 mind.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1654,
+      "reason": "SUMMARY 第 1654 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=modality，yuanwen/m/ 下亦无 modality.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1700,
+      "reason": "SUMMARY 第 1700 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=morality，yuanwen/m/ 下亦无 morality.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1720,
+      "reason": "SUMMARY 第 1720 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=moral-status，yuanwen/m/ 下亦无 moral-status.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1726,
+      "reason": "SUMMARY 第 1726 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=motivation，yuanwen/m/ 下亦无 motivation.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1736,
+      "reason": "工作包派生 slug 有误：官方快照权威 slug 为 music（title \"philosophy of\", Andrew Kania），yuanwen/m/music.md 已存在（110KB），创建工作包给定 slug 将产生同一 SEP 条目的重复骨架"
+    },
+    {
+      "line_no": 1752,
+      "reason": "SUMMARY 第 1752 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=natural-law，yuanwen/n/ 下亦无 natural-law.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1765,
+      "reason": "SUMMARY 第 1765 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=necessary-beings，yuanwen/n/ 下亦无 necessary-beings.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1796,
+      "reason": "SUMMARY 第 1796 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=normal-form-games，yuanwen/n/ 下亦无 normal-form-games.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1807,
+      "reason": "SUMMARY 第 1807 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=nozick-robert，yuanwen/n/ 下亦无 nozick-robert.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1812,
+      "reason": "SUMMARY 第 1812 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=objectivity，yuanwen/o/ 下亦无 objectivity.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1814,
+      "reason": "SUMMARY 第 1814 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=obligation，yuanwen/o/ 下亦无 obligation.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1817,
+      "reason": "SUMMARY 第 1817 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=obligations，yuanwen/o/ 下亦无 obligations.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 1830,
+      "reason": "SUMMARY 第 1830 行为 * 号 see-also/重定向枢纽（path=README.md，无作者）；official-snapshot.json 与 baseline/entries.json 均无 slug=ontology，yuanwen/o/ 下亦无 ontology.<child>.md 集群子文件；无英文源可回溯，按零信任不创建骨架"
+    },
+    {
+      "line_no": 2260,
+      "reason": "SUMMARY 第 2260 行 *科学理论 scientific theories 为 * 号重定向枢纽（path=README.md，无作者）；工作包误判 slug=incommensurability 与第 1180 行真实条目冲突；官方快照与 baseline 均无 slug=scientific-theories，无英文源可回溯，不创建"
+    },
+    {
+      "line_no": 2639,
+      "reason": "非 SEP 条目：SUMMARY 尾部指向项目内部文档 argument/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md；官方快照与 baseline/entries.json 均无 slug=ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman，不属英文侧骨架范围"
+    },
+    {
+      "line_no": 2642,
+      "reason": "非 SEP 条目：SUMMARY 尾部指向项目内部文档 fang-fa-lun/gong-cheng-fang-fa.md；官方快照与 baseline/entries.json 均无 slug=gong-cheng-fang-fa，不属英文侧骨架范围"
+    },
+    {
+      "line_no": 2644,
+      "reason": "非 SEP 条目：SUMMARY 尾部指向项目内部文档 jian-yi-shu/fu-lu-a.md；官方快照与 baseline/entries.json 均无 slug=jian-yi-shu，不属英文侧骨架范围"
+    },
+    {
+      "line_no": 2657,
+      "reason": "非 SEP 条目：SUMMARY 尾部指向项目内部文档 tools/tests/fixtures/check_terms/glossary.md；官方快照与 baseline/entries.json 均无 slug=glossary，不属英文侧骨架范围"
+    },
+    {
+      "line_no": 2660,
+      "reason": "非 SEP 条目：SUMMARY 尾部指向项目内部文档 jian-yi-shu/index.md；官方快照与 baseline/entries.json 均无 slug=index，不属英文侧骨架范围"
+    }
+  ],
+  "skipped_existing": [],
+  "errors": []
+}

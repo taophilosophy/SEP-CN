@@ -1,0 +1,639 @@
+{
+ "group": "group-01",
+ "created": [
+  {
+   "path": "a/action.md",
+   "slug": "action",
+   "english": "action",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/africana-contemporary.md",
+   "slug": "africana-contemporary",
+   "english": "contemporary",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/al-farabi-metaphysics.md",
+   "slug": "al-farabi-metaphysics",
+   "english": "metaphysics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/altruism-biological.md",
+   "slug": "altruism-biological",
+   "english": "biological",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/aquinas-moral-political.md",
+   "slug": "aquinas-moral-political",
+   "english": "moral, political, and legal philosophy",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/aristotle-commentators.md",
+   "slug": "aristotle-commentators",
+   "english": "Aristotle, commentators on",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/artificial-intelligence.md",
+   "slug": "artificial-intelligence",
+   "english": "artificial intelligence",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/authority.md",
+   "slug": "authority",
+   "english": "authority",
+   "conf": "snapshot"
+  },
+  {
+   "path": "a/and-the-pineal-gland.md",
+   "slug": "and-the-pineal-gland",
+   "english": "and the pineal gland",
+   "conf": "derived"
+  },
+  {
+   "path": "a/action-at-a-distance-in.md",
+   "slug": "action-at-a-distance-in",
+   "english": "action at a distance in",
+   "conf": "derived"
+  },
+  {
+   "path": "b/belief.md",
+   "slug": "belief",
+   "english": "belief",
+   "conf": "snapshot"
+  },
+  {
+   "path": "b/bolzano-logic.md",
+   "slug": "bolzano-logic",
+   "english": "logic",
+   "conf": "snapshot"
+  },
+  {
+   "path": "b/bradley-moral.md",
+   "slug": "bradley-moral",
+   "english": "moral philosophy",
+   "conf": "snapshot"
+  },
+  {
+   "path": "b/brentano-judgement.md",
+   "slug": "brentano-judgement",
+   "english": "theory of judgement",
+   "conf": "snapshot"
+  },
+  {
+   "path": "b/biodiversity.md",
+   "slug": "biodiversity",
+   "english": "biodiversity",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/collingwood-aesthetics.md",
+   "slug": "collingwood-aesthetics",
+   "english": "aesthetics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/counterfactuals.md",
+   "slug": "counterfactuals",
+   "english": "counterfactual",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/conscience-medieval.md",
+   "slug": "conscience-medieval",
+   "english": "medieval theories of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/consciousness.md",
+   "slug": "consciousness",
+   "english": "consciousness",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/consequentialism-rule.md",
+   "slug": "consequentialism-rule",
+   "english": "rule",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/continental-rationalism.md",
+   "slug": "continental-rationalism",
+   "english": "Continental Rationalism",
+   "conf": "derived"
+  },
+  {
+   "path": "c/convention.md",
+   "slug": "convention",
+   "english": "convention",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/critical-theory.md",
+   "slug": "critical-theory",
+   "english": "critical theory",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/culture-cogsci.md",
+   "slug": "culture-cogsci",
+   "english": "and cognitive science",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/collective-intentionality.md",
+   "slug": "collective-intentionality",
+   "english": "collective",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/ceteris-paribus.md",
+   "slug": "ceteris-paribus",
+   "english": "ceteris paribus",
+   "conf": "snapshot"
+  },
+  {
+   "path": "c/contractarianism-contemporary.md",
+   "slug": "contractarianism-contemporary",
+   "english": "contemporary approaches to",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/daoism.md",
+   "slug": "daoism",
+   "english": "Daoism",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/death-definition.md",
+   "slug": "death-definition",
+   "english": "definition of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/decision-causal.md",
+   "slug": "decision-causal",
+   "english": "causal",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/descartes-epistemology.md",
+   "slug": "descartes-epistemology",
+   "english": "epistemology",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/dewey-aesthetics.md",
+   "slug": "dewey-aesthetics",
+   "english": "aesthetics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/disagreement.md",
+   "slug": "disagreement",
+   "english": "disagreement",
+   "conf": "snapshot"
+  },
+  {
+   "path": "d/divine-simplicity.md",
+   "slug": "divine-simplicity",
+   "english": "divine",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/evolution-development.md",
+   "slug": "evolution-development",
+   "english": "evolution and development",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/emotions-17th18th.md",
+   "slug": "emotions-17th18th",
+   "english": "17th and 18th century theories of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/empiricism-ancient-medieval.md",
+   "slug": "empiricism-ancient-medieval",
+   "english": "ancient and medieval",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/epistemology.md",
+   "slug": "epistemology",
+   "english": "epistemology",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/equal-ed-opportunity.md",
+   "slug": "equal-ed-opportunity",
+   "english": "of educational opportunity",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/evidence-legal.md",
+   "slug": "evidence-legal",
+   "english": "the legal concept of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/evolution-before-darwin.md",
+   "slug": "evolution-before-darwin",
+   "english": "concept before Darwin",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/existentialism.md",
+   "slug": "existentialism",
+   "english": "existentialism",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/epistemic-game.md",
+   "slug": "epistemic-game",
+   "english": "epistemic foundations of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "e/ecological-genetics.md",
+   "slug": "ecological-genetics",
+   "english": "ecological",
+   "conf": "snapshot"
+  },
+  {
+   "path": "f/fiction-emotion-response.md",
+   "slug": "fiction-emotion-response",
+   "english": "emotional responses to",
+   "conf": "snapshot"
+  },
+  {
+   "path": "f/fictionalism.md",
+   "slug": "fictionalism",
+   "english": "fictionalism",
+   "conf": "snapshot"
+  },
+  {
+   "path": "f/freewill.md",
+   "slug": "freewill",
+   "english": "free will",
+   "conf": "snapshot"
+  },
+  {
+   "path": "f/frege-hilbert.md",
+   "slug": "frege-hilbert",
+   "english": "controversy with Hilbert",
+   "conf": "snapshot"
+  },
+  {
+   "path": "f/fictionalism-mathematics.md",
+   "slug": "fictionalism-mathematics",
+   "english": "fictionalism",
+   "conf": "snapshot"
+  }
+ ],
+ "resolved_review": [
+  {
+   "line_no": 377,
+   "slug": "change",
+   "decision": "skip-existing",
+   "evidence": "快照 slug change = title \"and inconsistency\", authors \"Chris Mortensen\"，与本条一致，故本条合法持有 slug change；L376 的 *变化 change 为无作者导航节点。yuanwen/c/change.md 已存在（H1 \"Change and Inconsistency\"），不写入。"
+  },
+  {
+   "line_no": 550,
+   "slug": "cosmology",
+   "decision": "skip-existing",
+   "evidence": "快照 slug cosmology = title \"cosmology, philosophy of\", authors \"Christopher Smeenk and George Ellis\"，与本条一致，故本条合法持有 slug cosmology；L547 的 *宇宙学 cosmology 为导航节点。yuanwen/c/cosmology.md 已存在（H1 \"Philosophy of Cosmology\"），不写入。"
+  },
+  {
+   "line_no": 1417,
+   "slug": "computational-linguistics",
+   "decision": "skip-existing",
+   "evidence": "快照 slug computational-linguistics = title \"computational\", authors \"Lenhart Schubert\"，与本条一致，故本条合法持有该 slug；L474 为 \"computational complexity theory (Walter Dean)\"（slug computational-complexity-theory）。yuanwen/c/computational-linguistics.md 已存在（H1 \"Computational Linguistics\"），不写入。"
+  },
+  {
+   "line_no": 667,
+   "slug": "disability",
+   "decision": "skip-existing",
+   "evidence": "快照 slug disability = title \"definitions and models\", authors \"David Wasserman and Sean Aas\"，与本条一致，故本条合法持有 slug disability；L665 的 *残疾 disability 为导航节点。yuanwen/d/disability.md 已存在（H1 \"Disability: Definitions and Models\"），不写入。"
+  },
+  {
+   "line_no": 721,
+   "slug": "economics",
+   "decision": "skip-existing",
+   "evidence": "快照 slug economics = title \"philosophy of\", authors \"Daniel M. Hausman\"，与本条一致，故本条合法持有 slug economics；L719 的 *经济学 economics 为导航节点。yuanwen/e/economics.md 已存在（H1 \"Philosophy of Economics\"），不写入。"
+  },
+  {
+   "line_no": 846,
+   "slug": "evil",
+   "decision": "skip-existing",
+   "evidence": "快照 slug evil = title \"problem of\", authors \"Michael Tooley\"，与本条一致，故本条合法持有 slug evil；L843 的 *恶 evil 为导航节点。yuanwen/e/evil.md 已存在（H1 \"The Problem of Evil\"），不写入。"
+  }
+ ],
+ "unresolved": [
+  {
+   "line_no": 68,
+   "slug": "africana",
+   "reason": "纯导航节点（SUMMARY.md L68，无作者，指向 README.md），子词条 african-ethics / african-sage 均已存在；快照无 \"African Philosophy\" 条目。分配的 slug africana 属 L66 真实词条 \"Africana Philosophy (Lucius T. Outlaw Jr.)\"（快照 slug africana），其文件 yuanwen/a/africana.md 已存在；本节点无可裁定 slug，不创建。"
+  },
+  {
+   "line_no": 79,
+   "slug": "akan-philosophy",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 110,
+   "slug": "analogy",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：analogy-medieval.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 121,
+   "slug": "animal",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：animal-communication.md, animal-normativity.md, animal-social-cognition.md, animal-thought.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 132,
+   "slug": "appearance-vs-reality",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 138,
+   "slug": "arabic-and-islamic-philosophy-disciplines-in",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 145,
+   "slug": "arabic-and-islamic-philosophy-historical-and-methodological-topics-in",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 149,
+   "slug": "arabic-and-islamic-philosophy-special-topics-in",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 159,
+   "slug": "arguments-for-epistemic-norms",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 161,
+   "slug": "aristotelianism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：aristotelianism-renaissance.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 173,
+   "slug": "aristotle-general-topics",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 183,
+   "slug": "aristotle-special-topics",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 191,
+   "slug": "art",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：art-definition.md, art-ontology-history.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 211,
+   "slug": "atomism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：atomism-ancient.md, atomism-modern.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 226,
+   "slug": "autonomy",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：autonomy-moral.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 2634,
+   "slug": "agents",
+   "reason": "仓库内部文件（非 SEP 词条）：SUMMARY.md 顶层条目对应 README/AGENTS/CODE_OF_CONDUCT/CONTRIBUTING 或 fang-fa-lun/ 内部报告；快照无此 slug，无正面证据，不创建。"
+  },
+  {
+   "line_no": 247,
+   "slug": "beardsley-monroe-c",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 284,
+   "slug": "biology-philosophy-of",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 295,
+   "slug": "bohr-niels",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 301,
+   "slug": "boolean-algebra",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 332,
+   "slug": "butler-joseph",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 355,
+   "slug": "causation",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：causation-backwards.md, causation-counterfactual.md, causation-law.md, causation-mani.additional-criticisms.md, causation-mani.early-agency.md, causation-mani.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 374,
+   "slug": "chance",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：chance-randomness.algorithmic-randomness.md, chance-randomness.basic-chance.md, chance-randomness.initial-conditions.md, chance-randomness.md, chance-randomness.proofs.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 387,
+   "slug": "chile",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 390,
+   "slug": "chinese-confucianism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 393,
+   "slug": "chinese-philosophy",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 468,
+   "slug": "complexity",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 481,
+   "slug": "computing",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：computing-history.md, computing-responsibility.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 491,
+   "slug": "condorcet-marie-jean-antoine-nicolas-de-caritat-marquis-de",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 506,
+   "slug": "connectives",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：connectives-logic.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 528,
+   "slug": "constructivism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：constructivism-metaethics.md, constructivism-political.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 564,
+   "slug": "croce-benedetto",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 1183,
+   "slug": "compatibilism",
+   "reason": "纯导航节点（SUMMARY.md L1183，无作者），子词条 incompatibilism-arguments / incompatibilism-theories 均已存在；快照无 incompatibilism 条目。分配的 slug compatibilism 属真实词条 \"compatibilism (McKenna & Coates)\"（L466），其文件 yuanwen/c/compatibilism.md 已存在；本节点无可裁定 slug，不创建。"
+  },
+  {
+   "line_no": 2635,
+   "slug": "code-of-conduct",
+   "reason": "仓库内部文件（非 SEP 词条）：SUMMARY.md 顶层条目对应 README/AGENTS/CODE_OF_CONDUCT/CONTRIBUTING 或 fang-fa-lun/ 内部报告；快照无此 slug，无正面证据，不创建。"
+  },
+  {
+   "line_no": 2636,
+   "slug": "contributing",
+   "reason": "仓库内部文件（非 SEP 词条）：SUMMARY.md 顶层条目对应 README/AGENTS/CODE_OF_CONDUCT/CONTRIBUTING 或 fang-fa-lun/ 内部报告；快照无此 slug，无正面证据，不创建。"
+  },
+  {
+   "line_no": 2641,
+   "slug": "ci-hui-biao-fu-he-bao-gao",
+   "reason": "仓库内部文件（非 SEP 词条）：SUMMARY.md 顶层条目对应 README/AGENTS/CODE_OF_CONDUCT/CONTRIBUTING 或 fang-fa-lun/ 内部报告；快照无此 slug，无正面证据，不创建。"
+  },
+  {
+   "line_no": 582,
+   "slug": "darwin-charles",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 592,
+   "slug": "deception",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 601,
+   "slug": "dedekind-richard",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 613,
+   "slug": "demonstration",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：demonstration-medieval.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 640,
+   "slug": "determinism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：determinism-causal.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 683,
+   "slug": "diversity",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 729,
+   "slug": "einstein-albert",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 754,
+   "slug": "entropy",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 812,
+   "slug": "ethics-applied",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 814,
+   "slug": "ethics-biomedical",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 836,
+   "slug": "euthanasia",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：euthanasia-voluntary.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 860,
+   "slug": "experimentation",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 868,
+   "slug": "externalism",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 884,
+   "slug": "feminist-philosophy-approaches",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 892,
+   "slug": "feminist-philosophy-interventions",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 908,
+   "slug": "feminist-philosophy-topics",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 946,
+   "slug": "folk-psychology",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  },
+  {
+   "line_no": 963,
+   "slug": "freedom",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配；本地已有同前缀子词条文件：freedom-ancient.md, freedom-association.md, freedom-speech.md；不创建以避免臆造 slug"
+  },
+  {
+   "line_no": 979,
+   "slug": "function",
+   "reason": "SEP 索引/导航标题（无作者），快照无此 slug 也无标题匹配，yuanwen/ 无同前缀文件；无正面证据，不创建"
+  }
+ ],
+ "skipped_existing": [
+  "m/moral-animal.md",
+  "r/religion-morality.md"
+ ],
+ "errors": [
+  {
+   "line_no": 125,
+   "slug": "animals-moral-status-of",
+   "requested_path": "a/animals-moral-status-of.md",
+   "canonical_path": "m/moral-animal.md",
+   "reason": "工作包派生 slug 有误：快照权威 slug 为 moral-animal（title \"moral status of\"，authors \"Lori Gruen and Susana Monso\"，与本条作者 Lori Gruen 相符），对应文件 yuanwen/m/moral-animal.md（H1 \"The Moral Status of Animals\"）已存在；在 a/ 下另建 animals-moral-status-of.md 会形成错目录重复。"
+  },
+  {
+   "line_no": 2158,
+   "slug": "and-morality",
+   "requested_path": "a/and-morality.md",
+   "canonical_path": "r/religion-morality.md",
+   "reason": "工作包派生 slug 有误：快照权威 slug 为 religion-morality（title \"and morality in western philosophy\"，authors \"John Hare and Jennifer Herdt\"，与本条作者完全一致），对应文件 yuanwen/r/religion-morality.md（H1 \"Religion and Morality in Western Philosophy\"）已存在。"
+  },
+  {
+   "line_no": 562,
+   "slug": "critical-theory",
+   "reason": "工作包 english 抽取缺陷（原值 \"）critical theory\"，混入中文右括号）；已按快照 title \"critical theory\" 校正后写入。"
+  }
+ ]
+}

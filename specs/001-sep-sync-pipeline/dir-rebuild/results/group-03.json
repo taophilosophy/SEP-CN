@@ -1,0 +1,587 @@
+{
+ "group": "group-03",
+ "created": [
+  {
+   "path": "p/peirce-logic.md",
+   "slug": "peirce-logic",
+   "english": "logic",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/plato-aesthetics.md",
+   "slug": "plato-aesthetics",
+   "english": "aesthetics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/practical-reason-med.md",
+   "slug": "practical-reason-med",
+   "english": "medieval theories of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/pragmatics.md",
+   "slug": "pragmatics",
+   "english": "pragmatics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/preferences.md",
+   "slug": "preferences",
+   "english": "preferences",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/pm-notation.md",
+   "slug": "pm-notation",
+   "english": "notation in",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/privacy.md",
+   "slug": "privacy",
+   "english": "privacy",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/proof-theory-development.md",
+   "slug": "proof-theory-development",
+   "english": "development of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/properties.md",
+   "slug": "properties",
+   "english": "properties",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/propositions-singular.md",
+   "slug": "propositions-singular",
+   "english": "singular",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/physics-Rpcc.md",
+   "slug": "physics-Rpcc",
+   "english": "common cause principle",
+   "conf": "snapshot"
+  },
+  {
+   "path": "p/paradox-zeno.md",
+   "slug": "paradox-zeno",
+   "english": "Zeno’s paradoxes",
+   "conf": "snapshot"
+  },
+  {
+   "path": "q/qualia-inverted.md",
+   "slug": "qualia-inverted",
+   "english": "inverted",
+   "conf": "snapshot"
+  },
+  {
+   "path": "q/qm.md",
+   "slug": "qm",
+   "english": "quantum mechanics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/representation-medieval.md",
+   "slug": "representation-medieval",
+   "english": "in medieval philosophy",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/race.md",
+   "slug": "race",
+   "english": "race",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/ramsey-economics.md",
+   "slug": "ramsey-economics",
+   "english": "and intergenerational welfare economics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/realism-sem-challenge.md",
+   "slug": "realism-sem-challenge",
+   "english": "challenges to metaphysical",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/reduction-biology.md",
+   "slug": "reduction-biology",
+   "english": "in biology",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/reid-ethics.md",
+   "slug": "reid-ethics",
+   "english": "ethics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/relations-medieval.md",
+   "slug": "relations-medieval",
+   "english": "medieval theories of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/relativism.md",
+   "slug": "relativism",
+   "english": "relativism",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/rights-children.md",
+   "slug": "rights-children",
+   "english": "of children",
+   "conf": "snapshot"
+  },
+  {
+   "path": "r/russell.md",
+   "slug": "russell",
+   "english": "Russell, Bertrand",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/shared-agency.md",
+   "slug": "shared-agency",
+   "english": "shared",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/selection-units.md",
+   "slug": "selection-units",
+   "english": "units and levels of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/schopenhauer-aesthetics.md",
+   "slug": "schopenhauer-aesthetics",
+   "english": "aesthetics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/scientific-explanation.md",
+   "slug": "scientific-explanation",
+   "english": "scientific explanation",
+   "conf": "derived"
+  },
+  {
+   "path": "s/scientific-realism.md",
+   "slug": "scientific-realism",
+   "english": "scientific realism",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/self-consciousness-phenomenological.md",
+   "slug": "self-consciousness-phenomenological",
+   "english": "phenomenological approaches to",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/self-knowledge.md",
+   "slug": "self-knowledge",
+   "english": "self-knowledge",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/settheory-alternative.md",
+   "slug": "settheory-alternative",
+   "english": "alternative axiomatic theories",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/shaftesbury.md",
+   "slug": "shaftesbury",
+   "english": "）Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of]",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/skepticism-moral-responsibility.md",
+   "slug": "skepticism-moral-responsibility",
+   "english": "about moral responsibility",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/smith-moral-political.md",
+   "slug": "smith-moral-political",
+   "english": "moral and political philosophy",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/spinoza-epistemology-mind.md",
+   "slug": "spinoza-epistemology-mind",
+   "english": "epistemology and philosophy of mind",
+   "conf": "snapshot"
+  },
+  {
+   "path": "s/supervenience-ethics.md",
+   "slug": "supervenience-ethics",
+   "english": "in ethics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/tarski-truth.md",
+   "slug": "tarski-truth",
+   "english": "truth definitions",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/time.md",
+   "slug": "time",
+   "english": "time",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/time-travel-phys.md",
+   "slug": "time-travel-phys",
+   "english": "and modern physics",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/transcendental-arguments.md",
+   "slug": "transcendental-arguments",
+   "english": "transcendental arguments",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/truth-axiomatic.md",
+   "slug": "truth-axiomatic",
+   "english": "axiomatic theories of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "t/type-theory-church.md",
+   "slug": "type-theory-church",
+   "english": "Church’s type theory",
+   "conf": "snapshot"
+  },
+  {
+   "path": "u/universals-medieval.md",
+   "slug": "universals-medieval",
+   "english": "the medieval problem of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "u/utilitarianism-history.md",
+   "slug": "utilitarianism-history",
+   "english": "history of",
+   "conf": "snapshot"
+  },
+  {
+   "path": "v/voting-methods.md",
+   "slug": "voting-methods",
+   "english": "methods",
+   "conf": "snapshot"
+  },
+  {
+   "path": "w/well-being.md",
+   "slug": "well-being",
+   "english": "well-being",
+   "conf": "snapshot"
+  },
+  {
+   "path": "w/wittgenstein-aesthetics.md",
+   "slug": "wittgenstein-aesthetics",
+   "english": "aesthetics",
+   "conf": "snapshot"
+  }
+ ],
+ "resolved_review": [
+  {
+   "line_no": 914,
+   "slug": "feminism-objectification",
+   "decision": "skip-existing",
+   "conf": "derived-nav",
+   "target": "f/feminism-objectification.md",
+   "evidence": "官方快照 feminism-objectification 标题 'perspectives on objectification' 与作者 Evangelia (Lina) Papadaki 均逐字吻合本条；工作包 slug 'perspectives-on-objectification-evangelia-lina-papadaki' 为脚本臆造；yuanwen/f/feminism-objectification.md 已存在，未写入。"
+  },
+  {
+   "line_no": 1473,
+   "slug": "logic-provability",
+   "decision": "skip-existing",
+   "conf": "derived-nav",
+   "target": "l/logic-provability.md",
+   "evidence": "官方快照 logic-provability 标题 'provability' 与作者 Rineke (L.C.) Verbrugge 均逐字吻合本条；工作包 slug 'provability-rineke-l-c-verbrugge' 为脚本臆造；yuanwen/l/logic-provability.md 已存在，未写入。"
+  },
+  {
+   "line_no": 2025,
+   "slug": "property",
+   "decision": "skip-existing",
+   "conf": "conflict",
+   "target": "p/property.md",
+   "evidence": "冲突行 2023 ‘*产权 property' 链 README.md 且无作者，为纯导航占位；本条 2025 带作者 (Jeremy Waldron and James Penner)，官方快照 property 标题即 'property and ownership'，故 slug property 归本条；yuanwen/p/property.md 已存在，未写入。"
+  },
+  {
+   "line_no": 2351,
+   "slug": "social-procedures",
+   "decision": "skip-existing",
+   "conf": "derived-nav",
+   "target": "s/social-procedures.md",
+   "evidence": "官方快照 social-procedures 标题 'social procedures, formal approaches' 与作者 Jan van Eijck and Rineke (L.C.) Verbrugge 均逐字吻合本条；yuanwen/s/social-procedures.md 已存在，未写入。"
+  },
+  {
+   "line_no": 2380,
+   "slug": "spinoza",
+   "decision": "skip-existing",
+   "conf": "conflict",
+   "target": "s/spinoza.md",
+   "evidence": "冲突行 2378 ‘*斯宾诺莎 Spinoza' 链 README.md 且无作者，为纯导航占位；本条 2380 带作者 (Steven Nadler)，官方快照 spinoza 标题即 'Spinoza, Baruch'，故 slug spinoza 归本条；yuanwen/s/spinoza.md 已存在，未写入。"
+  },
+  {
+   "line_no": 2588,
+   "slug": "wisdom",
+   "decision": "created",
+   "conf": "agent-resolved",
+   "target": "w/wisdom.md",
+   "evidence": "冲突行 2389 ‘曷利沙 Śrīharṣa (Nilanjan Das)’ 才是官方快照 slug sriharsa 的对应条目（快照 sriharsa 标题 Śrīharṣa / 作者 Nilanjan Das 逐字吻合），工作包把 sriharsa 误配给本条（沿用旧路径 s/sriharsa.md 所致）；本条英文标题为 wisdom (Sharon Ryan)，按标题规范化推导裁定 slug=wisdom、letter=w（非工作包所给 s/sriharsa）；yuanwen/w/wisdom.md 原不存在，已按 ADR-0005 第6条建一行 H1 骨架。"
+  }
+ ],
+ "unresolved": [
+  {
+   "line_no": 1848,
+   "slug": "paradox",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug paradox，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 1874,
+   "slug": "perception",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug perception，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 1955,
+   "slug": "political-realism",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug political-realism，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 1962,
+   "slug": "pornography",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug pornography，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 1980,
+   "slug": "prayer",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug prayer，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2043,
+   "slug": "public-health",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug public-health，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2073,
+   "slug": "quantum-theory",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug quantum-theory，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2099,
+   "slug": "randomness",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug randomness，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2101,
+   "slug": "rational-choice-normative",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug rational-choice-normative，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2105,
+   "slug": "rationality",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug rationality，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2120,
+   "slug": "reasoning",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug reasoning，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2125,
+   "slug": "reasons-for-action",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug reasons-for-action，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2154,
+   "slug": "religion",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug religion，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2176,
+   "slug": "responsibility",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug responsibility，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2194,
+   "slug": "robotics",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug robotics，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2640,
+   "slug": "readme",
+   "conf": "derived-nav",
+   "reason": "本条对应仓库内部文件 fang-fa-lun/README.md（方法论文档目录），非 SEP 词条；快照与 baseline 均无对应标题，无法推导有效 slug，转人工裁决。"
+  },
+  {
+   "line_no": 2658,
+   "slug": "registry",
+   "conf": "derived-nav",
+   "reason": "本条对应仓库内部文件 tools/tests/fixtures/check_terms/registry.md（测试夹具），非 SEP 词条；快照与 baseline 均无对应标题，无法推导有效 slug，转人工裁决。"
+  },
+  {
+   "line_no": 2249,
+   "slug": "scientific-knowledge",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug scientific-knowledge，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2264,
+   "slug": "scottish-philosophy",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug scottish-philosophy，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2274,
+   "slug": "self",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug self，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2289,
+   "slug": "semantics",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug semantics，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2295,
+   "slug": "semiotics",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug semiotics，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2324,
+   "slug": "singular-terms",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug singular-terms，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2326,
+   "slug": "situations",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug situations，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2340,
+   "slug": "social-construction",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug social-construction，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2363,
+   "slug": "space-and-time",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug space-and-time，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2392,
+   "slug": "statistical-physics",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug statistical-physics，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2411,
+   "slug": "style",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug style，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2424,
+   "slug": "syllogism",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug syllogism，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2437,
+   "slug": "teleology",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug teleology，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2445,
+   "slug": "terms-properties-of",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug terms-properties-of，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2449,
+   "slug": "testimony",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug testimony，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2453,
+   "slug": "theism",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug theism，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2473,
+   "slug": "the-experience-and-perception-of",
+   "conf": "derived",
+   "reason": "工作包 slug 'the-experience-and-perception-of' 系中文标题英文片段直译所得的截断串，以介词 'of' 结尾、不符合 SEP slug 形态；conf=derived（非 snapshot），官方快照 official-snapshot.json 无此 slug、baseline/entries.json 亦无标题匹配，yuanwen/ 无任何可核对文件；本地无证据确认真实 slug（疑为 time-experience-perception），按 ADR-0005 第8条‘推导不确定者一律记 needs_review，禁止猜测落盘’转人工裁决，未落盘。"
+  },
+  {
+   "line_no": 2521,
+   "slug": "ultimates",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug ultimates，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2540,
+   "slug": "value",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug value，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2556,
+   "slug": "visual-thinking-in-mathematics",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug visual-thinking-in-mathematics，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2599,
+   "slug": "worlds",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug worlds，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2613,
+   "slug": "zermelo-ernst",
+   "conf": "derived-nav",
+   "reason": "纯导航节点（占位母词条）：无作者，官方快照无 slug zermelo-ernst，baseline/entries.json 亦无规范化标题匹配条目，yuanwen/ 下无同名 slug 文件；标题仅与若干以该词为前缀的子词条文件名重合，不足以证明其为独立 SEP 条目。按 ADR-0005 第5条‘纯导航节点记入 needs_review，人工裁决后再定，不静默建文件’，未落盘，待人工确认真实 slug 或确认为纯目录节点。"
+  },
+  {
+   "line_no": 2643,
+   "slug": "zheng-fan-wu-yong-shou-ce",
+   "conf": "derived-nav",
+   "reason": "本条对应仓库内部文件 fang-fa-lun/zheng-fan-wu-yong-shou-ce.md，slug 为历史拼音命名（ADR-0005 第2条已废除拼音命名）；快照与 baseline 均无对应标题，非 SEP 词条，转人工裁决。"
+  }
+ ],
+ "skipped_existing": [],
+ "errors": []
+}
