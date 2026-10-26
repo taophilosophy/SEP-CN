@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools import parser  # noqa: E402
 from tools.common import (  # noqa: E402
     find_zh_doc, load_json, read_text, repo_path, sha256_file, utcnow_iso,
-    write_json_verified, write_text)
+    write_json_verified, write_text_verified)
 
 BLOCK_OPEN_RE = re.compile(
     r'<(?P<tag>h1|h2|h3|h4|p|blockquote|table|ul|ol|dl|pre|div)\b(?P<attrs>[^>]*)>', re.I)
@@ -455,7 +455,7 @@ def convert_entry(slug):
             base = f[:-5]
             sp = convert_supplement(read_text(os.path.join(src_dir, f)), slug, base)
             sp_path = os.path.join(ydir, '%s.%s.md' % (slug, base))
-            write_text(sp_path, sp)
+            write_text_verified(sp_path, sp)
             supp_files.append('%s.%s.md' % (slug, base))
 
     # 引用注释（文献 → 脚注）
@@ -507,7 +507,7 @@ def write_summary():
         return m.group(0)
 
     out = re.sub(r'\]\(([^)]+\.md)\)', repl, src)
-    write_text(repo_path('yuanwen', 'SUMMARY.md'), out)
+    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), out)
     return n[0]
 
 

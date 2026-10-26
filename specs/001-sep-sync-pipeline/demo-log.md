@@ -40,11 +40,11 @@
 
 ## 待办（下一轮循环入口）
 
-- [ ] 用户裁定：`/tools` 入库与否（影响可复现审计链）
-- [ ] 用户裁定：古典人名音译体例（上文 14）
-- [ ] `task_ops advance alcmaeon --step s2`（二校·语言）继续六道
-- [ ] T020-T027：detect_updates.py 与 compare_versions.py 实现（US2/US3）
-- [ ] 战役批 a（T035）正式开批
+* [ ] 用户裁定：`/tools` 入库与否（影响可复现审计链）
+* [ ] 用户裁定：古典人名音译体例（上文 14）
+* [ ] `task_ops advance alcmaeon --step s2`（二校·语言）继续六道
+* [ ] T020-T027：detect_updates.py 与 compare_versions.py 实现（US2/US3）
+* [ ] 战役批 a（T035）正式开批
 
 
 ---
@@ -55,10 +55,10 @@
 
 ## 交付
 
-- `tools/yuanwen.py`：en/ 不可变快照 → yuanwen/<字母>/<slug>.md 确定性转换（含 notes 脚注、补充材料互链、图片相对引用、yuanwen/SUMMARY.md 镜像）。
-- 引用注释：文内“作者-年份”组后 [^key] 标记 + 文末 [^key]: 定义。实测 8 词条：abduction 55/124、alcmaeon 82/81、bell 93/217、bayes 25+16 脚注……
-- 8 词条全部转换，0 失败；yuanwen/SUMMARY.md 改写 8 链接；确定性验证（alcmaeon 两次转换同哈希）。
-- `/yuanwen/` 入 .gitignore（本地工作底稿；登记入 baseline 保证可复算）。
+* `tools/yuanwen.py`：en/ 不可变快照 → yuanwen/<字母>/<slug>.md 确定性转换（含 notes 脚注、补充材料互链、图片相对引用、yuanwen/SUMMARY.md 镜像）。
+* 引用注释：文内“作者-年份”组后 [^key] 标记 + 文末 [^key]: 定义。实测 8 词条：abduction 55/124、alcmaeon 82/81、bell 93/217、bayes 25+16 脚注……
+* 8 词条全部转换，0 失败；yuanwen/SUMMARY.md 改写 8 链接；确定性验证（alcmaeon 两次转换同哈希）。
+* `/yuanwen/` 入 .gitignore（本地工作底稿；登记入 baseline 保证可复算）。
 
 ## 发现与纠偏
 

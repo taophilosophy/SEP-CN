@@ -4,13 +4,13 @@
 
 全部工具为 `python tools/<name>.py` 形式的命令行程序，遵守统一约定：
 
-- **输入**：命令行参数（词表、路径、开关）；不读 stdin 交互。
-- **输出**：人读进度信息走 stderr；机器可读结果一律 JSON 走 stdout（零信任审计：每次运行的输出可存档为凭证）。
-- **退出码**：`0` 成功；`1` 部分失败（详情在 stdout JSON 的 `failures[]`）；`2` 用法错误；`3` 前置条件不满足（如基线缺失、跳步）。
-- **礼貌**：凡发 HTTP 请求的工具，请求间隔默认 5 秒（`--delay` 只能调大不能调小；robots 目录禁区已获用户授权绕过，但间隔约束保留）。
-- **编码**：文件读写一律 UTF-8 无 BOM；stdout JSON `ensure_ascii=False`。
-- **路径**：以仓库根为基准解析相对路径；Windows/Unix 兼容；可执行工具自带 sys.path 引导。
-- **防丢**：JSON 落盘一律经 `common.write_json_verified()`（写后读回哈希复核）。
+* **输入**：命令行参数（词表、路径、开关）；不读 stdin 交互。
+* **输出**：人读进度信息走 stderr；机器可读结果一律 JSON 走 stdout（零信任审计：每次运行的输出可存档为凭证）。
+* **退出码**：`0` 成功；`1` 部分失败（详情在 stdout JSON 的 `failures[]`）；`2` 用法错误；`3` 前置条件不满足（如基线缺失、跳步）。
+* **礼貌**：凡发 HTTP 请求的工具，请求间隔默认 5 秒（`--delay` 只能调大不能调小；robots 目录禁区已获用户授权绕过，但间隔约束保留）。
+* **编码**：文件读写一律 UTF-8 无 BOM；stdout JSON `ensure_ascii=False`。
+* **路径**：以仓库根为基准解析相对路径；Windows/Unix 兼容；可执行工具自带 sys.path 引导。
+* **防丢**：JSON 落盘一律经 `common.write_json_verified()`（写后读回哈希复核）。
 
 ## fetch_entry.py — 抓取词条包
 

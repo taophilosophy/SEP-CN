@@ -94,7 +94,7 @@ outline: [1, 6]
 
 # 晚期希腊哲学
 
- 
+
 ## 伊壁鸠鲁学派
 
 * [伊壁鸠鲁 Epicurus (David Konstan)](e/yi-bi-jiu-lu-epicurus-david-konstan.md)
@@ -274,6 +274,7 @@ outline: [1, 6]
 
 * [启蒙运动 Enlightenment (William Bristow)](e/qi-meng-yun-dong-enlightenment-william-bristow.md)
   * [进步 progress (Agnes Tam and Margaret Meek Lange)](p/jin-bu-progress-agnes-tam-and-margaret-meek-lange.md)
+
 ## 剑桥柏拉图学派
 
 * [亨利·莫尔 More, Henry (John Henry)](m/heng-li-mo-er-more-henry-john-henry.md)
@@ -370,9 +371,9 @@ outline: [1, 6]
 * [约翰·克里斯托弗·弗里德里希·冯·席勒 Schiller, Friedrich (Lydia L. Moland)](s/yue-han-ke-li-si-tuo-fu-fu-li-de-li-xi-feng-xi-le-schiller-friedrich-lydia-l.-moland.md)
 * [弗里德里希·丹尼尔·恩斯特·施莱尔马赫 Schleiermacher, Friedrich Daniel Ernst (Michael Forster)](s/fu-li-de-li-xi-dan-ni-er-en-si-te-shi-lai-er-ma-he-schleiermacher-friedrich-daniel-ernst-michael-for.md)
   * [人格主义 personalism (Thomas D. Williams and Jan Olof Bengtsson)](p/ren-ge-zhu-yi-personalism-thomas-d.-williams-and-jan-olof-bengtsson.md)
-* [弗里德里希·施莱格尔 Schlegel, Friedrich (Allen Speight)](s/fu-li-de-li-xi-shi-lai-ge-er-schlegel-friedrich-allen-speight.md)
 * [威廉·冯·洪堡 Humboldt, Wilhelm von (Kurt Mueller-Vollmer and Markus Messling)](h/wei-lian-feng-hong-bao-humboldt-wilhelm-von-kurt-muellervollmer-and-markus-messling.md)
 * [约翰·戈特弗里德·冯·赫尔德 Herder, Johann Gottfried von (Michael Forster)](h/yue-han-ge-te-fu-li-de-feng-he-er-de-herder-johann-gottfried-von-michael-forster.md)
+
 ## 启蒙时代的法国哲学【1600-1750】
 
 * [马兰·梅森 Mersenne, Marin (Philippe Hamou)](m/ma-lan-mei-sen-mersenne-marin-philippe-hamou.md)
@@ -457,6 +458,7 @@ outline: [1, 6]
 * [赫伯特·斯宾塞 Spencer, Herbert (David Weinstein)](s/he-bo-te-si-bin-sai-spencer-herbert-david-weinstein.md)
 
 ## 分析哲学（待进一步分类以消解掉本分类）
+
 * [分析 analysis (Michael Beaney)](a/fen-xi-analysis-michael-beaney.md)
 * [理查德·麦尔文·黑尔 Hare, Richard Mervyn (Anthony Price)](h/li-cha-de-mai-er-wen-hei-er-hare-richard-mervyn-anthony-price.md)
 * [理查德·西尔万（理查德·劳特利） Sylvan \[Routley\], Richard (Dominic Hyde, Filippo Casati, and Zach Weber)](s/li-cha-de-xi-er-wan-li-cha-de-lao-te-li-sylvan-routley-richard-dominic-hyde-filippo-casati-and-zach.md)
@@ -735,6 +737,7 @@ outline: [1, 6]
 * [批判理论（法兰克福学派）critical theory (Robin Celikates and Jeffrey Flynn)](c/pi-pan-li-lun-fa-lan-ke-fu-xue-pai-critical-theory-robin-celikates-and-jeffrey-flynn.md)
 
 # 语言哲学与逻辑学
+
 * [语言哲学 philosophy of (Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt)](l/yu-yan-xue-linguistics/yu-yan-zhe-xue-philosophy-of-barbara-c.-scholz-francis-jeffry-pelletier-geoffrey-k.-pullum-and-ryan.md)
 
 ## 逻辑学家
@@ -2198,7 +2201,7 @@ outline: [1, 6]
 
 ## 近代女性哲学家（1500-1750）
 
-* [乔瓦尼·皮科·德拉·米兰多拉 Pico della Mirandola, Giovanni (Brian Copenhaver)](p/qiao-wa-ni-pi-ke-de-la-mi-lan-duo-la-pico-della-mirandola-giovanni-brian-copenhaver.md) 
+* [乔瓦尼·皮科·德拉·米兰多拉 Pico della Mirandola, Giovanni (Brian Copenhaver)](p/qiao-wa-ni-pi-ke-de-la-mi-lan-duo-la-pico-della-mirandola-giovanni-brian-copenhaver.md)
 * [玛格丽特·卢卡斯·卡文迪许 Cavendish, Margaret Lucas (David Cunning)](c/ma-ge-li-te-lu-ka-si-ka-wen-di-xu-cavendish-margaret-lucas-david-cunning.md)
 * [夏特莱侯爵夫人 Châtelet, Émilie du (Karen Detlefsen and Andrew Janiak)](c/ai-mi-li-le-tuo-nei-li-de-bu-le-te-yi-chtelet-milie-du-karen-detlefsen-and-andrew-janiak.md)
 * [安妮·康威 Conway, Lady Anne (Sarah Hutton)](c/an-ni-kang-wei-conway-lady-anne-sarah-hutton.md)

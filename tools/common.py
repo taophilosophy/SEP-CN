@@ -70,6 +70,30 @@ def write_text(path, text):
         f.write(data)
 
 
+def write_text_verified(path, text):
+    """写文本并读回比对（零信任：SMB 写入可能静默不一致），重试 3 次。"""
+    data = text.replace("
+", "
+").replace("", "
+").encode("utf-8")
+    last = None
+    for attempt in range(3):
+        try:
+            with open(path, "wb") as f:
+                f.write(data)
+                f.flush()
+                os.fsync(f.fileno())
+            with open(path, "rb") as f:
+                if f.read() == data:
+                    return sha256_bytes(data)
+            last = OSError("readback mismatch on %s (attempt %d)" % (path, attempt + 1))
+        except OSError as e:
+            last = e
+        import time
+        time.sleep(0.5)
+    raise OSError("write_text_verified failed after 3 attempts: %s: %s" % (path, last))
+
+
 def write_json_verified(path, obj):
     """写入 JSON 并自校验（宪法 I：不信任写入回执）。
 

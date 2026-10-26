@@ -67,15 +67,15 @@ pending → cleared → drafted → s1_checked → s2_checked → s3_checked
 任意节点 → blocked（blockers 记录原因）→ 可回到原节点
 ```
 
-- `cleared`：正文已清空（保留 H1），前置 gate=基线哈希复算通过
-- `drafted`：以英文源为唯一底稿初译完成；新术语先登记再使用
-- `s1_checked`：一校（准确性）——对照英文源逐句，变更段任务只过变更段落
-- `s2_checked`：二校（语言）——欧化句、口吻、流畅
-- `s3_checked`：三校（体例）——check_style.py + markdownlint 通过
-- `r1_reviewed`：初审——对照原文自审签字
-- `r2_reviewed`：复审——逐句回核原文与逻辑
-- `r3_reviewed`：终审——CI 全绿 + 版本钉核对 + 抽查
-- `done`：终审通过且已提交
+* `cleared`：正文已清空（保留 H1），前置 gate=基线哈希复算通过
+* `drafted`：以英文源为唯一底稿初译完成；新术语先登记再使用
+* `s1_checked`：一校（准确性）——对照英文源逐句，变更段任务只过变更段落
+* `s2_checked`：二校（语言）——欧化句、口吻、流畅
+* `s3_checked`：三校（体例）——check_style.py + markdownlint 通过
+* `r1_reviewed`：初审——对照原文自审签字
+* `r2_reviewed`：复审——逐句回核原文与逻辑
+* `r3_reviewed`：终审——CI 全绿 + 版本钉核对 + 抽查
+* `done`：终审通过且已提交
 
 #### DocTask 状态机（update）
 
@@ -90,8 +90,8 @@ pending → s1_checked(仅变更段) → s2_checked(变更段所在节) → s3_c
 
 ## 关系
 
-- Entry 1—N Snapshot（每轮检测产生新快照）
-- Snapshot 1—N Change（两两比较产生；实际只对相邻两轮比）
-- Change 1—N DocTask(update)（每条变更映射一个文档的一份工作量）
-- Entry 1—1 DocTask(retranslate)（全量重译战役期）
-- Entry N—N TermRegistry（词条内新术语登记）
+* Entry 1—N Snapshot（每轮检测产生新快照）
+* Snapshot 1—N Change（两两比较产生；实际只对相邻两轮比）
+* Change 1—N DocTask(update)（每条变更映射一个文档的一份工作量）
+* Entry 1—1 DocTask(retranslate)（全量重译战役期）
+* Entry N—N TermRegistry（词条内新术语登记）
