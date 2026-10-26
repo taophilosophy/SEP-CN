@@ -24,6 +24,7 @@
 | ---- | ---- |
 | check_all.py | **一键质量门**：glossary_lint + mu-lu-s 检测 + tasks JSON 合法性 + markdownlint（豁免清单见标准 S7） |
 | glossary_lint.py | 词汇表有效性检查 v2（极端情况兼容 + 登记簿同步检查） |
+| publish_terms.py | 术语批量发布：裁定 manifest 定位插入双表（标准 S2 分档裁定的执行工具） |
 | extract_terms.py | 原文术语五路提取（yuanwen/ + en/ 语料） |
 | fix_table_style.py | 表格紧凑化（MD060），批量修复前先单文件验证 diff |
 | check_mulu_s.py | mu-lu-s.md 对应性检测（只检测不改动） |

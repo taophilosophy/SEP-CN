@@ -31,6 +31,13 @@
       "actor": "zcode-词汇表复核",
       "at": "2026-10-27T04:00:00+08:00",
       "evidence": "script/extract_terms.py 对 14 件本地语料（11 个 yuanwen 镜像 + 2 个 en/txt）五路提取（引语术语/斜体/句中人名/-ism 词族/高频概念短语），与已登记 592 条求差；55 条候选带建议译法固化入 tasks/term-candidates.json，待裁定"
+    },
+    {
+      "step": "batch1-adjudication-2026-10-27",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T05:30:00+08:00",
+      "evidence": "标准 v1.0 首次实跑：55 条候选分档裁定（A 档直裁 32、B 档联网核查 5、挂起/驳回 18），经 script/publish_terms.py 定位插入双表 37 条（登记簿+发布表），发布表至 631 行，glossary_lint 全绿"
     }
   ],
   "todo": [
@@ -56,7 +63,8 @@
         },
         {
           "item": "裁定 tasks/term-candidates.json 中 55 条候选（suggest 列为建议译法，标待核者需联网复核）：通过者登记 yi-zhe-shuo-ming.md 后并入 qian-yan/ci-hui-biao.md；语料扩充（新增词条抓取）后重跑 script/extract_terms.py 增量提取",
-          "status": "pending"
+          "status": "pending",
+          "note": "2026-10-27 首批完成：37 条已发布（published），held 14 条随相关词条或下一批次，rejected 6 条已注明理由；余下 held 条目继续挂起"
         }
       ]
     }

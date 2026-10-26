@@ -9,6 +9,7 @@
 |A Week on the Concord and Merrimack Rivers|河上一周|梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》|
 |Abd al-Latif|阿卜杜勒·拉蒂夫||
 |Abduction|溯因||
+|abductive reasoning|溯因推理|与 Abduction（溯因）配套的推理义|
 |Abelard|阿伯拉尔||
 |Abhidharma|阿毗达磨|汉译佛教传统用字，“毘”为“毗”之异体，简化字正字法用“毗”|
 |Abner of Burgos|布尔戈斯的阿布内尔||
@@ -77,11 +78,13 @@
 |Baudrillard|鲍德里亚||
 |Bauer|鲍威尔||
 |Bayes’ Theorem|贝叶斯定理||
+|Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯确证理论对应用|
 |beauty|美||
 |Beauvoir|波伏娃||
 |behaviorism|行为主义||
 |Being and Nothingness|存在与虚无||
 |belief merging|信念合并||
+|Bell inequalities|贝尔不等式|与 Bell's Theorem 贝尔定理并列|
 |Bell’s Theorem|贝尔定理||
 |Benjamin|本雅明||
 |Benjamin Whichcote|本杰明·惠科特||
@@ -121,6 +124,7 @@
 |Brouwer|布劳威尔||
 |Bruno|布鲁诺||
 |Bruno Bauer|布鲁诺·鲍威尔||
+|Buddhism|佛教||
 |bundle theory|束理论|亦译“捆束理论”“丛束理论”；休谟论自我与人格同一性|
 |Burali-Forti|布拉利-福尔蒂||
 |Buridan|布里丹||
@@ -146,14 +150,20 @@
 |Chancellor|总务长|中世纪教会与大学职衔|
 |Champeaux|尚波||
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
+|CHSH inequality|CHSH 不等式|贝尔不等式的 Clauser–Horne–Shimony–Holt 形式|
 |City of the Sun|太阳城||
+|cognitivism|认知主义||
 |Cohen|科恩|泛指姓；Hermann Cohen（赫尔曼·科恩，马堡新康德主义）见专条，余者以正文语境为准|
 |coherence theory|融贯论||
 |Collapse|坍缩||
 |Collapse Theories|坍缩理论||
 |Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
+|common cause principle|共因原则|赖欣巴哈（Reichenbach）提出；《自然辩证法通讯》2017 年用“共因原则”，亦译“共同原因原则”|
 |Computing|计算||
+|conditional probabilities|条件概率||
+|Confucianism|儒家思想||
+|consequentialism|后果主义||
 |Consistent Histories|一致性历史||
 |Consistent Histories Approach|一致性历史方法||
 |Constitution|构成；构造；宪法|康德语境多译“构成”，胡塞尔（Konstitution）语境常译“构造”，政治语境译“宪法”|
@@ -171,13 +181,16 @@
 |Cratylus|克拉底鲁||
 |Cudworth|库德沃斯||
 |Decoherence|退相干||
+|deductive system|演绎系统||
 |Democedes|德摩塞迪斯||
 |Dedekind|戴德金||
 |deflationism|紧缩论|真理紧缩论；亦译“收缩论”|
 |Democritus|德谟克利特||
 |desert|应得||
 |Determinacy|决定性||
+|determinism|决定论|勿译“宿命论”（fatalism）|
 |development|发展；发育|哲学与一般语境译“发展”，生物学语境译“发育”|
+|dialetheism|双面真理论|Priest 与 Routley 1981 年造词；中文维基百科条目作“双面真理说”|
 |Diodorus|狄奥多罗斯||
 |Diodorus Cronus|狄奥多罗斯·克罗诺斯|Cronus（克罗诺斯，意为“老顽固”）是承自其师 Apollonius Cronus 的绰号，并非地名；他生于卡里亚的雅索斯，勿以出生地替代绰号|
 |Diogenes Laertius|第欧根尼·拉尔修||
@@ -194,6 +207,8 @@
 |empirical|实证|另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。|
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
 |empirical approaches|经验主义研究||
+|empirically equivalent|经验等价|科学实在论争论术语|
+|empiricism|经验主义|亦译“经验论”；形容词 empirical 见专行|
 |entanglement|纠缠||
 |Epicurus|伊壁鸠鲁||
 |Epistemic Structural Realism|认识论的结构实在论||
@@ -206,13 +221,16 @@
 |Everettian|埃弗雷特||
 |Experience|经验；体验|经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”|
 |Explanation|解释||
+|externalism|外在主义|与 Content Externalism 内容外在主义对应；内在主义为 internalism|
 |Extrinsic|外在||
 |Faith in a Seed|种子的信仰||
 |Fakhr al-Din|法赫尔丁·拉齐||
 |Fall|堕落||
 |Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
 |Farabian|法拉比||
+|feminism|女性主义||
 |Formal Approaches|形式化方法||
+|formal language|形式语言||
 |Francis Bacon|弗朗西斯·培根||
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
 |Francis Hutcheson|弗兰西斯·哈奇森||
@@ -248,6 +266,7 @@
 |Hermann Weyl|赫尔曼·外尔||
 |Hermeias|赫尔米亚||
 |Herodotus|希罗多德||
+|hidden variables|隐变量|隐变量理论 hidden-variable theories|
 |Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
 |Ibn Bâjja|伊本·巴哲||
@@ -315,6 +334,7 @@
 |Max Stirner|麦克斯·施蒂纳||
 |mañana paradox|明天悖论||
 |McTaggart|麦克塔格特||
+|mechanism|机械论|社会科学语境译“机制”，按语境分流|
 |Methods|方法||
 |Mind|心灵||
 |Mirror of Production|生产之镜||
@@ -331,8 +351,11 @@
 |Myth of Sisyphus|西西弗神话||
 |Myths|神话|多指柏拉图对话中的神话（Plato’s myths）；旧表“秘所思”系讹译，废弃|
 |Natorp|那托普||
+|natural language|自然语言|与形式语言相对|
+|natural numbers|自然数||
 |Natural Religion|自然宗教||
 |Natural Theology|自然神学||
+|naturalism|自然主义||
 |Naturalistic Approaches|自然主义方法||
 |neo-Kantianism|新康德主义||
 |Nicolaus Taurellus|尼古拉斯·塔雷路斯||
@@ -346,6 +369,7 @@
 |Nyāya-Vaiśeṣika|正理-胜论派||
 |Objectivity|客观性||
 |observation|观察||
+|observation sentences|观察句|奎因术语，与理论句子（theoretical sentences）相对|
 |Olympiodorus|奥林匹奥多罗斯||
 |ontic structural realism|本体的结构实在论||
 |Paradox of Suspense|悬疑悖论||
@@ -373,11 +397,13 @@
 |pluralism|多元主义||
 |pluralist theories|多元论||
 |Plutarch|普鲁塔克||
+|political philosophy|政治哲学||
 |poroi|通道|阿尔克迈翁条术语（感官通道）|
 |Porphyry|波菲利||
 |Post-Newtonian|后牛顿||
 |pragmatic|语用（的）；实用（的）|语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”|
 |Pragmatist|实用主义者|名词指人；形容词“实用主义的”|
+|predicate letter|谓词字母||
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
 |Progress|进步||
 |Proof-Theoretic|证明论||
@@ -388,14 +414,19 @@
 |Pyrrhonism|皮浪主义||
 |Pyrrhus and Cinéas|皮瑞斯与辛尼阿斯|波伏瓦首部哲学论著，暂无简中出版译本；Pyrrhus 通译“皮洛士”，正文首次出现宜括注原文|
 |Pythagoras|毕达哥拉斯||
+|Pythagoreanism|毕达哥拉斯主义||
 |QFT|量子场论||
 |Quantum Approaches|量子研究方法||
 |Quantum Field Theory|量子场论||
+|quantum mechanics|量子力学||
+|quantum theory|量子理论||
 |Quantum-Bayesian|量子贝叶斯模型|即 QBism，亦译“量子贝叶斯主义”|
+|Quine|蒯因|W. V. O. Quine 通行汉译“蒯因”；现代人名原则保留英文，此为通行例外|
 |Ralp Cudworth|拉尔夫·库德沃斯||
 |Rasâ’il|《论文集》||
 |Rationality|理性|指规范性能动性时亦译“合理性”（bounded rationality 有限理性）|
 |Razi|拉齐||
+|real numbers|实数||
 |Realism|实在论||
 |Rebel|反抗者||
 |Regress|倒退|认识论语境常作“无穷倒退”（infinite regress）|
@@ -413,10 +444,12 @@
 |Samuel Alexander|塞缪尔·亚历山大||
 |Samuel Ibn Tibbon|撒母耳·伊本·提本||
 |Sartre|萨特||
+|scepticism|怀疑论|英式拼法，与 Skepticism 同词|
 |Schelling|谢林||
 |Science|科学||
 |scientific knowledge|科学知识||
 |Scientific Method|科学方法||
+|scientific realism|科学实在论|与结构实在论、经验等价论题相对|
 |Scientific Theory|科学理论||
 |Second Sex|第二性||
 |Self-Consciousness|自我意识||
@@ -478,6 +511,7 @@
 |Sturm|施图尔姆|泛指姓；Johann Christoph Sturm（约翰内斯·克里斯托夫·施图尔姆）见专条|
 |Substance|实体||
 |suniêmi|汇通|指集合感官信息的能力；阿尔克迈翁条裁定|
+|Superdeterminism|超决定论|贝尔定理语境|
 |Supertasks|超级任务||
 |Supervenience|随附性||
 |Supervenience in Ethics|道德随附性||
@@ -523,6 +557,7 @@
 |Token|殊例|type-token 即“类型—殊例”之分；亦译“殊型”“个例”“记号”，与 individual（个体）有别|
 |Tokens|殊例|见 Token 条|
 |Tommaso Campanella|托马斯·康帕内拉||
+|total evidence|总证据|卡尔纳普 1947 年提出 principle of total evidence（总证据原则）；亦译“全部证据”|
 |Tractatus Politicus|政治论||
 |Transcendental Arguments|先验论证||
 |transcendentalism|超验主义|指美国爱默生、梭罗一系的思想运动；康德语境 transcendental 译“先验”|
@@ -546,9 +581,11 @@
 |type theory|类型论||
 |Types|类型||
 |Umar Khayyam|欧玛尔·海亚姆||
+|unconditional probabilities|无条件概率||
 |Underdetermination|非充分决定性|亦译“不充分决定性”，指证据对理论的不充分约束|
 |Understanding|理解|康德 Verstand 语境定译“知性”，日常语境译“理解”，勿混|
 |Unity of Science|统一科学||
+|universal suspension|普遍悬置|皮浪主义术语：对一切判断的悬置，与 epoché（悬置/悬搁）同族|
 |universals|共相|与“殊相”（particulars）相对；波菲利问题即共相问题|
 |Utilitarianism|功利主义||
 |vagueness|模糊性|亦译“含糊（性）”；引发堆垛悖论|
