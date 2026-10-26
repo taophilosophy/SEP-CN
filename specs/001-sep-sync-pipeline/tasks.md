@@ -160,10 +160,12 @@ description: "Task list for SEP 同步管线 feature"
 ## Dependencies & Execution Order
 
 ### Phase Dependencies
+
 * Setup(1) → Foundational(2) → US1(3) → US5 演示(4) → US2(5)/US3(6)（可并行）→ US4(7) → Polish(8)
 * US2/US3 与 US5 演示轮无相互阻塞，但演示轮的纠偏结论可能修订它们的验收细节——建议先演示后并行
 
 ### 关键依赖
+
 * T012 依赖 T006/T009（解析与提取）；T028 依赖 T014（clear 的 gate 调 baseline_audit）；T032 依赖 T028/T029 + US1 基线；T035–T042 依赖 T032（SOP 样例确立）与 US3（update 类输入）
 * T050/T051 依赖最新 `en/_catalog` 快照（T007 fetch_catalog）与 2026-10-27 别名纠正基线；T051 的比对工具修复（parse_toc.py）先行
 * 战役批 T035–T042 内部无依赖，可多会话并行（每会话认领不同字母批，任务 JSON 文件不冲突）
