@@ -29,6 +29,7 @@
 * [犹大·莱昂·阿布拉瓦内尔 Abrabanel, Judah (Aaron Hughes)](a/you-da-lai-ang-abu-la-wa-nei-er-abrabanel-judah-aaron-hughes.md)
 * [抽象对象 abstract objects (José L. Falguera, Concha Martínez-Vidal, and Gideon Rosen)](a/chou-xiang-dui-xiang-abstract-objects-jos-l.-falguera-concha-martnezvidal-and-gideon-rosen.md)
 * [\*偶然属性——见本质属性与偶然属性 accidental properties — see essential vs. accidental properties](a/ou-ran-shu-xing-jian-ben-zhi-shu-xing-yu-ou-ran-shu-xing-accidental-properties-see-essential-vs.-acc.md)
+* [学术自由 Academic Freedom (Levy, Jacob T.)](a/academic-freedom.md)
 * [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/README.md)
   * [\*共同——见行为体：共享行为体 joint — see agency: shared](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/gong-tong-jian-neng-dong-xing-gong-xiang-neng-dong-xing-joint-see-agency-shared.md)
   * [\*逻辑 ——见逻辑学：行动的逻辑 logic of — see logic: action](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/luo-ji-jian-luo-ji-xue-hang-dong-de-luo-ji-logic-of-see-logic-action.md)

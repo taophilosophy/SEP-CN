@@ -159,8 +159,13 @@ def find_zh_doc(slug, title_en=None):
         return m.group(1)
     letter = slug[0]
     cands = []
-    for pm in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
-        link_text, path = pm.group(1), pm.group(2)
+    # 逐行解析（演示轮 2 复核：链接文字含 \[Abailard\] 转义括号时，
+    # finditer 的 \[[^\]]*\] 会在文字中途截断导致整行漏配）
+    for line in text.split("\n"):
+        pm = re.search(r"\]\(([^)]+)\)", line)
+        if not pm:
+            continue
+        link_text, path = line[:pm.start()], pm.group(1)
         if "-see-" in path.lower() or "-see-" in link_text.lower():
             continue
         # 集群词条链接形如 s/ji-he-lun-set-theory-joan-bagaria/README.md：
@@ -176,8 +181,11 @@ def find_zh_doc(slug, title_en=None):
         if words:
             longest = max(words, key=len)
             hits = []
-            for pm in re.finditer(r"\[([^\]]*)\]\(([^)]+)\)", text):
-                link_text, path = pm.group(1), pm.group(2)
+            for line in text.split("\n"):
+                pm = re.search(r"\]\(([^)]+)\)", line)
+                if not pm:
+                    continue
+                link_text, path = line[:pm.start()], pm.group(1)
                 if "-see-" in path.lower() or "-see-" in link_text.lower():
                     continue
                 hay = (link_text + " " + path.replace("/", " ")).lower()

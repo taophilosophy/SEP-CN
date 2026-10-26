@@ -1,0 +1,5322 @@
+{
+  "generated_at": "2026-10-26T19:48:42Z",
+  "renames": [
+    {
+      "old": "a/su-yin-abduction-igor-douven.md",
+      "new": "a/abduction.md",
+      "slug": "abduction"
+    },
+    {
+      "old": "a/bi-de-abo-la-er-abelard-abailard-peter-peter-king-and-andrew-arlig.md",
+      "new": "a/abelard.md",
+      "slug": "abelard"
+    },
+    {
+      "old": "a/a-pi-da-mo-abhidharma-noa-ronkin.md",
+      "new": "a/abhidharma.md",
+      "slug": "abhidharma"
+    },
+    {
+      "old": "a/neng-li-abilities-john-maier.md",
+      "new": "a/abilities.md",
+      "slug": "abilities"
+    },
+    {
+      "old": "a/bu-er-ge-si-deabu-na-abner-of-burgos-shalom-sadik.md",
+      "new": "a/abner-burgos.md",
+      "slug": "abner-burgos"
+    },
+    {
+      "old": "a/you-da-lai-ang-abu-la-wa-nei-er-abrabanel-judah-aaron-hughes.md",
+      "new": "a/abrabanel.md",
+      "slug": "abrabanel"
+    },
+    {
+      "old": "a/chou-xiang-dui-xiang-abstract-objects-jos-l.-falguera-concha-martnezvidal-and-gideon-rosen.md",
+      "new": "a/abstract-objects.md",
+      "slug": "abstract-objects"
+    },
+    {
+      "old": "a/la-qi-alrazi-abu-bakr-peter-adamson.md",
+      "new": "a/abu-bakr-al-razi.md",
+      "slug": "abu-bakr-al-razi"
+    },
+    {
+      "old": "a/ji-yu-hang-dong-de-zhi-jue-li-lun-actionbased-theories-of-perception-robert-briscoe-rick-grush-and-a.md",
+      "new": "a/action-perception.md",
+      "slug": "action-perception"
+    },
+    {
+      "old": "a/lun-li-xue-zhong-de-xian-shi-zhu-yi-he-ke-neng-xing-zhu-yi-actualism-and-possibilism-in-ethics-travi.md",
+      "new": "a/actualism-possibilism-ethics.md",
+      "slug": "actualism-possibilism-ethics"
+    },
+    {
+      "old": "a/shi-ying-zhu-yi-adaptationism-steven-hecht-orzack-and-patrick-forber.md",
+      "new": "a/adaptationism.md",
+      "slug": "adaptationism"
+    },
+    {
+      "old": "a/jian-ya-dang-si-addams-jane-maurice-hamington.md",
+      "new": "a/addams-jane.md",
+      "slug": "addams-jane"
+    },
+    {
+      "old": "a/xi-ao-duow-a-duo-nuo-adorno-theodor-w.-lambert-zuidervaart.md",
+      "new": "a/adorno.md",
+      "slug": "adorno"
+    },
+    {
+      "old": "a/yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-agnieszka-jaworska.md",
+      "new": "a/advance-directives.md",
+      "slug": "advance-directives"
+    },
+    {
+      "old": "a/mei-xue-de-gai-nian-aesthetic-concept-of-the-james-shelley.md",
+      "new": "a/aesthetic-concept.md",
+      "slug": "aesthetic-concept"
+    },
+    {
+      "old": "a/shen-mei-ti-yan-aesthetic-experience-antonia-peacocke.md",
+      "new": "a/aesthetic-experience.md",
+      "slug": "aesthetic-experience"
+    },
+    {
+      "old": "a/shen-mei-jian-zheng-aesthetic-testimony-jon-robson-and-rebecca-wallbank.md",
+      "new": "a/aesthetic-testimony.md",
+      "slug": "aesthetic-testimony"
+    },
+    {
+      "old": "a/sheng-huo-mei-xue-aesthetics-of-the-everyday-yuriko-saito.md",
+      "new": "a/aesthetics-of-everyday.md",
+      "slug": "aesthetics-of-everyday"
+    },
+    {
+      "old": "r/zhong-zu-race-michael-james-and-adam-burgos/README.md",
+      "new": "aesthetics-race/README.md",
+      "slug": "aesthetics-race"
+    },
+    {
+      "old": "a/ken-ding-xing-hang-dong-affirmative-action-robert-fullinwider.md",
+      "new": "a/affirmative-action.md",
+      "slug": "affirmative-action"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "african-ethics/README.md",
+      "slug": "african-ethics"
+    },
+    {
+      "old": "a/fei-zhou-zhe-xue-africana-philosophy-lucius-t.-outlaw-jr.-and-chike-jeffers/README.md",
+      "new": "africana/README.md",
+      "slug": "africana"
+    },
+    {
+      "old": "a/si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md",
+      "new": "a/afterlife.md",
+      "slug": "afterlife"
+    },
+    {
+      "old": "a/neng-dong-xing-agency-markus-schlosser/README.md",
+      "new": "agency/README.md",
+      "slug": "agency"
+    },
+    {
+      "old": "a/hai-yin-li-xi-age-li-pa-feng-nei-te-si-hai-mu-agrippa-von-nettesheim-heinrich-cornelius-vittoria-per.md",
+      "new": "a/agrippa-nettesheim.md",
+      "slug": "agrippa-nettesheim"
+    },
+    {
+      "old": "a/a-bu-du-le-la-di-fu-ba-ge-da-di-albaghdadi-abd-allatif-cecilia-martini-bonadeo.md",
+      "new": "a/al-baghdadi.md",
+      "slug": "al-baghdadi"
+    },
+    {
+      "old": "a/fa-he-er-ding-la-qi-alrazi-fakhr-aldin-peter-adamson-and-fedor-benevich.md",
+      "new": "a/al-din-al-razi.md",
+      "slug": "al-din-al-razi"
+    },
+    {
+      "old": "a/a-li-fa-la-bi-alfarabi-thereseanne-druart/README.md",
+      "new": "al-farabi/README.md",
+      "slug": "al-farabi"
+    },
+    {
+      "old": "a/an-sa-li-alghazali-frank-griffel.md",
+      "new": "a/al-ghazali.md",
+      "slug": "al-ghazali"
+    },
+    {
+      "old": "a/ken-di-alkindi-peter-adamson.md",
+      "new": "a/al-kindi.md",
+      "slug": "al-kindi"
+    },
+    {
+      "old": "a/yi-sa-aer-ba-la-ge-albalag-isaac-bakinaz-abdalla.md",
+      "new": "a/albalag.md",
+      "slug": "albalag"
+    },
+    {
+      "old": "a/ai-er-bo-tu-si-mai-ge-nu-si-daaer-bo-te-albert-the-great-albertus-magnus-markus-fhrer.md",
+      "new": "a/albert-great.md",
+      "slug": "albert-great"
+    },
+    {
+      "old": "a/sa-ke-sen-deaer-bo-te-albert-of-saxony-jol-biard.md",
+      "new": "a/albert-saxony.md",
+      "slug": "albert-saxony"
+    },
+    {
+      "old": "a/yue-se-fu-aer-bo-albo-joseph-dror-ehrlich.md",
+      "new": "a/albo-joseph.md",
+      "slug": "albo-joseph"
+    },
+    {
+      "old": "a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md",
+      "new": "a/alcmaeon.md",
+      "slug": "alcmaeon"
+    },
+    {
+      "old": "a/a-fu-luo-di-xi-ya-de-ya-li-shan-da-alexander-of-aphrodisias-dorothea-frede.md",
+      "new": "a/alexander-aphrodisias.md",
+      "slug": "alexander-aphrodisias"
+    },
+    {
+      "old": "a/dai-shu-algebra-vaughan-pratt.md",
+      "new": "a/algebra.md",
+      "slug": "algebra"
+    },
+    {
+      "old": "a/luo-ji-dai-shu-de-fa-zhan-algebra-of-logic-tradition-stanley-burris-and-javier-legris.md",
+      "new": "a/algebra-logic-tradition.md",
+      "slug": "algebra-logic-tradition"
+    },
+    {
+      "old": "a/yi-hua-alienation-david-leopold.md",
+      "new": "a/alienation.md",
+      "slug": "alienation"
+    },
+    {
+      "old": "a/lu-yi-aer-du-sai-althusser-louis-william-lewis.md",
+      "new": "a/althusser.md",
+      "slug": "althusser"
+    },
+    {
+      "old": "a/li-ta-zhu-yi-altruism-richard-kraut/README.md",
+      "new": "altruism/README.md",
+      "slug": "altruism"
+    },
+    {
+      "old": "e/jing-yan-zhu-yi-fang-fa-empirical-approaches/README.md",
+      "new": "altruism-empirical/README.md",
+      "slug": "altruism-empirical"
+    },
+    {
+      "old": "a/luo-bo-te-alin-dun-alyngton-robert-alessandro-conti.md",
+      "new": "a/alyngton.md",
+      "slug": "alyngton"
+    },
+    {
+      "old": "a/qi-yi-ambiguity-adam-sennet.md",
+      "new": "a/ambiguity.md",
+      "slug": "ambiguity"
+    },
+    {
+      "old": "a/he-er-mi-ya-deamo-niesi-ammonius-david-blank.md",
+      "new": "a/ammonius.md",
+      "slug": "ammonius"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "analogy-medieval/README.md",
+      "slug": "analogy-medieval"
+    },
+    {
+      "old": "a/fen-xi-analysis-michael-beaney.md",
+      "new": "a/analysis.md",
+      "slug": "analysis"
+    },
+    {
+      "old": "a/fen-xi-zong-he-de-qu-bie-analyticsynthetic-distinction-georges-rey.md",
+      "new": "a/analytic-synthetic.md",
+      "slug": "analytic-synthetic"
+    },
+    {
+      "old": "a/hui-zhi-anaphora-jeffrey-c.-king-and-karen-s.-lewis.md",
+      "new": "a/anaphora.md",
+      "slug": "anaphora"
+    },
+    {
+      "old": "a/wu-zheng-fu-zhu-yi-anarchism-andrew-fiala.md",
+      "new": "a/anarchism.md",
+      "slug": "anarchism"
+    },
+    {
+      "old": "a/a-na-ke-sa-ge-la-anaxagoras-patricia-curd.md",
+      "new": "a/anaxagoras.md",
+      "slug": "anaxagoras"
+    },
+    {
+      "old": "a/yue-han-an-de-sen-anderson-john-creagh-mclean-cole.md",
+      "new": "a/anderson-john.md",
+      "slug": "anderson-john"
+    },
+    {
+      "old": "n/gui-fan-xing-normativity/README.md",
+      "new": "animal-normativity/README.md",
+      "slug": "animal-normativity"
+    },
+    {
+      "old": "a/dong-wu-zhu-yi-animalism-stephan-blatti.md",
+      "new": "a/animalism.md",
+      "slug": "animalism"
+    },
+    {
+      "old": "a/bian-yi-yi-yuan-lun-anomalous-monism-steven-yalowitz.md",
+      "new": "a/anomalous-monism.md",
+      "slug": "anomalous-monism"
+    },
+    {
+      "old": "a/ge-te-lu-de-yi-li-suo-bai-ma-ge-li-te-an-si-kang-mu-anscombe-gertrude-elizabeth-margaret-eric-wiland.md",
+      "new": "a/anscombe.md",
+      "slug": "anscombe"
+    },
+    {
+      "old": "a/kan-te-bo-lei-de-an-se-lun-anselm-of-canterbury-anselm-of-bec-thomas-williams.md",
+      "new": "a/anselm.md",
+      "slug": "anselm"
+    },
+    {
+      "old": "a/a-si-ka-long-de-an-ti-ku-si-antiochus-of-ascalon-james-allen.md",
+      "new": "a/antiochus-ascalon.md",
+      "slug": "antiochus-ascalon"
+    },
+    {
+      "old": "a/xian-yan-lun-zheng-yu-xian-yan-zhi-shi-apriori-justification-and-knowledge-bruce-russell.md",
+      "new": "a/apriori.md",
+      "slug": "apriori"
+    },
+    {
+      "old": "a/tuo-ma-si-akui-na-aquinas-thomas-robert-pasnau/README.md",
+      "new": "aquinas/README.md",
+      "slug": "aquinas"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "arabic-islamic-metaphysics/README.md",
+      "slug": "arabic-islamic-metaphysics"
+    },
+    {
+      "old": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/README.md",
+      "new": "arabic-islamic-phil-math/README.md",
+      "slug": "arabic-islamic-phil-math"
+    },
+    {
+      "old": "a/a-er-kai-xi-lao-arcesilaus-charles-brittain-and-peter-osorio.md",
+      "new": "a/arcesilaus.md",
+      "slug": "arcesilaus"
+    },
+    {
+      "old": "a/jian-zhu-mei-xue-architecture-philosophy-of-saul-fisher.md",
+      "new": "a/architecture.md",
+      "slug": "architecture"
+    },
+    {
+      "old": "a/a-er-ku-ta-si-archytas-carl-huffman.md",
+      "new": "a/archytas.md",
+      "slug": "archytas"
+    },
+    {
+      "old": "a/han-na-alun-te-arendt-hannah-tatjana-tmmel-and-maurizio-passerin-dentreves.md",
+      "new": "a/arendt.md",
+      "slug": "arendt"
+    },
+    {
+      "old": "a/ren-zhi-gui-fan-de-lun-zheng-arguments-for-epistemic-norms/README.md",
+      "new": "argument/README.md",
+      "slug": "argument"
+    },
+    {
+      "old": "a/ya-li-shi-duo-de-aristotle-christopher-shields.md",
+      "new": "a/aristotle.md",
+      "slug": "aristotle"
+    },
+    {
+      "old": "a/mei-xue-aesthetics/README.md",
+      "new": "aristotle-aesthetics/README.md",
+      "slug": "aristotle-aesthetics"
+    },
+    {
+      "old": "b/sheng-wu-xue-biology/README.md",
+      "new": "aristotle-biology/README.md",
+      "slug": "aristotle-biology"
+    },
+    {
+      "old": "c/fan-chou-categories-amie-thomasson/README.md",
+      "new": "aristotle-categories/README.md",
+      "slug": "aristotle-categories"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "aristotle-ethics/README.md",
+      "slug": "aristotle-ethics"
+    },
+    {
+      "old": "l/luo-ji-xue-logic/README.md",
+      "new": "aristotle-logic/README.md",
+      "slug": "aristotle-logic"
+    },
+    {
+      "old": "m/shu-xue-mathematics/README.md",
+      "new": "aristotle-mathematics/README.md",
+      "slug": "aristotle-mathematics"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "aristotle-metaphysics/README.md",
+      "slug": "aristotle-metaphysics"
+    },
+    {
+      "old": "n/zi-ran-zhe-xue-natural-philosophy/README.md",
+      "new": "aristotle-natphil/README.md",
+      "slug": "aristotle-natphil"
+    },
+    {
+      "old": "p/xin-li-xue-psychology/README.md",
+      "new": "aristotle-psychology/README.md",
+      "slug": "aristotle-psychology"
+    },
+    {
+      "old": "a/an-tuo-wan-aer-nuo-arnauld-antoine-elmar-kremer.md",
+      "new": "a/arnauld.md",
+      "slug": "arnauld"
+    },
+    {
+      "old": "a/a-luo-bu-ke-neng-ding-li-arrows-theorem-michael-morreau.md",
+      "new": "a/arrows-theorem.md",
+      "slug": "arrows-theorem"
+    },
+    {
+      "old": "a/yi-shu-de-ding-yi-art-definition-of-thomas-adajian.md",
+      "new": "a/art-definition.md",
+      "slug": "art-definition"
+    },
+    {
+      "old": "a/ren-zao-wu-artifact-beth-preston.md",
+      "new": "a/artifact.md",
+      "slug": "artifact"
+    },
+    {
+      "old": "a/duan-yan-assertion-peter-pagin-and-neri-marsili.md",
+      "new": "a/assertion.md",
+      "slug": "assertion"
+    },
+    {
+      "old": "a/lian-xiang-zhu-yi-li-lun-associationist-theories-of-thought-eric-mandelbaum.md",
+      "new": "a/associationist-thought.md",
+      "slug": "associationist-thought"
+    },
+    {
+      "old": "a/ma-li-ai-si-tai-er-astell-mary-alice-sowaal.md",
+      "new": "a/astell.md",
+      "slug": "astell"
+    },
+    {
+      "old": "a/wu-shen-lun-he-bu-ke-zhi-lun-atheism-and-agnosticism-paul-draper.md",
+      "new": "a/atheism-agnosticism.md",
+      "slug": "atheism-agnosticism"
+    },
+    {
+      "old": "a/shu-zui-atonement-joshua-c.-thurow.md",
+      "new": "a/atonement.md",
+      "slug": "atonement"
+    },
+    {
+      "old": "a/zhu-yi-li-attention-christopher-mole.md",
+      "new": "a/attention.md",
+      "slug": "attention"
+    },
+    {
+      "old": "a/xi-bo-de-ao-gu-si-ding-augustine-of-hippo-christian-tornau.md",
+      "new": "a/augustine.md",
+      "slug": "augustine"
+    },
+    {
+      "old": "a/bi-de-ao-lei-ao-li-auriol-aureol-aureoli-peter-russell-l.-friedman.md",
+      "new": "a/auriol.md",
+      "slug": "auriol"
+    },
+    {
+      "old": "a/yue-han-lang-xiao-ao-si-ding-austin-john-langshaw-guy-longworth.md",
+      "new": "a/austin-jl.md",
+      "slug": "austin-jl"
+    },
+    {
+      "old": "a/yue-han-ao-si-ding-austin-john-brian-bix.md",
+      "new": "a/austin-john.md",
+      "slug": "austin-john"
+    },
+    {
+      "old": "a/ben-zhen-xing-authenticity-somogy-varga-and-charles-guignon.md",
+      "new": "a/authenticity.md",
+      "slug": "authenticity"
+    },
+    {
+      "old": "a/a-er-fu-lei-de-zhu-er-si-ai-ye-er-ayer-alfred-jules-graham-macdonald-and-nikhil-krishnan.md",
+      "new": "a/ayer.md",
+      "slug": "ayer"
+    },
+    {
+      "old": "b/ren-zhi-ji-chu-guan-xi-basing-relation-epistemic-keith-allen-korcz.md",
+      "new": "b/basing-epistemic.md",
+      "slug": "basing-epistemic"
+    },
+    {
+      "old": "b/rang-bao-de-li-ya-baudrillard-jean-douglas-kellner.md",
+      "new": "b/baudrillard.md",
+      "slug": "baudrillard"
+    },
+    {
+      "old": "b/bu-lu-nuo-bao-wei-er-bauer-bruno-douglas-moggach.md",
+      "new": "b/bauer.md",
+      "slug": "bauer"
+    },
+    {
+      "old": "b/bei-ye-si-ding-li-bayes-theorem-james-joyce.md",
+      "new": "b/bayes-theorem.md",
+      "slug": "bayes-theorem"
+    },
+    {
+      "old": "b/pi-ai-er-bei-er-bayle-pierre-michael-hickson.md",
+      "new": "b/bayle.md",
+      "slug": "bayle"
+    },
+    {
+      "old": "a/mei-xue-aesthetics/README.md",
+      "new": "beardsley-aesthetics/README.md",
+      "slug": "beardsley-aesthetics"
+    },
+    {
+      "old": "b/mei-beauty-crispin-sartwell.md",
+      "new": "b/beauty.md",
+      "slug": "beauty"
+    },
+    {
+      "old": "b/xi-meng-na-de-bo-fu-wa-beauvoir-simone-de-debra-bergoffen-and-megan-burke.md",
+      "new": "b/beauvoir.md",
+      "slug": "beauvoir"
+    },
+    {
+      "old": "b/hang-wei-zhu-yi-behaviorism-george-graham.md",
+      "new": "b/behaviorism.md",
+      "slug": "behaviorism"
+    },
+    {
+      "old": "b/xin-nian-he-bing-yu-pan-duan-ju-he-belief-merging-and-judgment-aggregation-gabriella-pigozzi.md",
+      "new": "b/belief-merging.md",
+      "slug": "belief-merging"
+    },
+    {
+      "old": "b/bei-er-ding-li-bells-theorem-wayne-myrvold-marco-genovese-and-abner-shimony.md",
+      "new": "b/bell-theorem.md",
+      "slug": "bell-theorem"
+    },
+    {
+      "old": "b/wa-er-te-ben-ya-ming-benjamin-walter-peter-osborne-and-matthew-charles.md",
+      "new": "b/benjamin.md",
+      "slug": "benjamin"
+    },
+    {
+      "old": "b/jie-li-mi-bian-qin-bentham-jeremy-james-e.-crimmins.md",
+      "new": "b/bentham.md",
+      "slug": "bentham"
+    },
+    {
+      "old": "b/heng-li-bai-ge-sen-bergson-henri-leonard-lawlor-and-valentine-moulardleonard.md",
+      "new": "b/bergson.md",
+      "slug": "bergson"
+    },
+    {
+      "old": "b/qiao-zhi-bei-ke-lai-berkeley-george-lisa-downing.md",
+      "new": "b/berkeley.md",
+      "slug": "berkeley"
+    },
+    {
+      "old": "b/yi-sai-ya-bo-lin-berlin-isaiah-joshua-cherniss-and-henry-hardy.md",
+      "new": "b/berlin.md",
+      "slug": "berlin"
+    },
+    {
+      "old": "b/bei-sa-li-weng-bessarion-basil-cardinal-eva-del-soldato.md",
+      "new": "b/bessarion.md",
+      "slug": "bessarion"
+    },
+    {
+      "old": "b/zui-zhu-ming-de-yi-dui-binarium-famosissimum-most-famous-pair-paul-vincent-spade.md",
+      "new": "b/binarium.md",
+      "slug": "binarium"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "bioethics-latin-america/README.md",
+      "slug": "bioethics-latin-america"
+    },
+    {
+      "old": "d/fa-yu-sheng-wu-xue-developmental-biology-alan-love/README.md",
+      "new": "biology-developmental/README.md",
+      "slug": "biology-developmental"
+    },
+    {
+      "old": "b/sheng-wu-xue-ge-ti-biological-individuals-robert-a.-wilson-and-matthew-j.-barker.md",
+      "new": "b/biology-individual.md",
+      "slug": "biology-individual"
+    },
+    {
+      "old": "b/sheng-wu-xue-zhe-xue-biology-philosophy-of/README.md",
+      "new": "biology-philosophy/README.md",
+      "slug": "biology-philosophy"
+    },
+    {
+      "old": "b/sheng-wu-yi-xue-zhe-xue-biomedicine-philosophy-of-sean-valles.md",
+      "new": "b/biomedicine.md",
+      "slug": "biomedicine"
+    },
+    {
+      "old": "b/ze-bei-blame-neal-tognazzini-and-d.-justin-coates.md",
+      "new": "b/blame.md",
+      "slug": "blame"
+    },
+    {
+      "old": "b/en-si-te-bu-luo-he-bloch-ernst-ivan-boldyrev.md",
+      "new": "b/bloch.md",
+      "slug": "bloch"
+    },
+    {
+      "old": "b/shen-ti-yi-shi-bodily-awareness-frdrique-de-vignemont.md",
+      "new": "b/bodily-awareness.md",
+      "slug": "bodily-awareness"
+    },
+    {
+      "old": "b/rang-bo-dan-bodin-jean-mario-turchetti.md",
+      "new": "b/bodin.md",
+      "slug": "bodin"
+    },
+    {
+      "old": "b/da-qi-ya-de-bo-ai-xiu-si-boethius-of-dacia-sten-ebbesen.md",
+      "new": "b/boethius.md",
+      "slug": "boethius"
+    },
+    {
+      "old": "b/da-qi-ya-de-bo-ai-xiu-si-boethius-of-dacia-sten-ebbesen.md",
+      "new": "b/boethius-dacia.md",
+      "slug": "boethius-dacia"
+    },
+    {
+      "old": "b/bo-en-ha-de-bo-er-cha-nuo-bolzano-bernard-edgar-morscher/README.md",
+      "new": "bolzano/README.md",
+      "slug": "bolzano"
+    },
+    {
+      "old": "b/sheng-wen-de-bonaventure-tim-noone-r.-e.-houser-and-joshua-benson.md",
+      "new": "b/bonaventure.md",
+      "slug": "bonaventure"
+    },
+    {
+      "old": "m/shu-xue-ji-chu-mathematics-foundations-of/README.md",
+      "new": "boolalg-math/README.md",
+      "slug": "boolalg-math"
+    },
+    {
+      "old": "b/luo-ji-dai-shu-boolean-algebra/README.md",
+      "new": "boole/README.md",
+      "slug": "boole"
+    },
+    {
+      "old": "b/bo-na-de-bao-sang-kui-bosanquet-bernard-william-sweet.md",
+      "new": "b/bosanquet.md",
+      "slug": "bosanquet"
+    },
+    {
+      "old": "b/bian-jie-boundary-achille-varzi.md",
+      "new": "b/boundary.md",
+      "slug": "boundary"
+    },
+    {
+      "old": "b/you-xian-li-xing-bounded-rationality-gregory-wheeler.md",
+      "new": "b/bounded-rationality.md",
+      "slug": "bounded-rationality"
+    },
+    {
+      "old": "b/luo-bo-te-bo-yi-er-boyle-robert-j.-j.-macintosh-peter-anstey-and-janerik-jones.md",
+      "new": "b/boyle.md",
+      "slug": "boyle"
+    },
+    {
+      "old": "b/fu-lang-zi-bu-lun-ta-nuo-brentano-franz-wolfgang-huemer/README.md",
+      "new": "brentano/README.md",
+      "slug": "brentano"
+    },
+    {
+      "old": "b/le-yi-cen-ai-he-bei-te-si-yang-bu-lao-wei-er-brouwer-luitzen-egbertus-jan-mark-van-atten.md",
+      "new": "b/brouwer.md",
+      "slug": "brouwer"
+    },
+    {
+      "old": "b/bu-lu-nuo-bao-wei-er-bauer-bruno-douglas-moggach.md",
+      "new": "b/bruno.md",
+      "slug": "bruno"
+    },
+    {
+      "old": "b/ma-ding-bu-bo-buber-martin-michael-zank-and-zachary-braiterman.md",
+      "new": "b/buber.md",
+      "slug": "buber"
+    },
+    {
+      "old": "b/shi-jia-mou-ni-buddha-mark-siderits.md",
+      "new": "b/buddha.md",
+      "slug": "buddha"
+    },
+    {
+      "old": "b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md",
+      "new": "b/buridan.md",
+      "slug": "buridan"
+    },
+    {
+      "old": "b/xi-meng-na-de-bo-fu-wa-beauvoir-simone-de-debra-bergoffen-and-megan-burke.md",
+      "new": "b/burke.md",
+      "slug": "burke"
+    },
+    {
+      "old": "b/wo-er-te-bo-li-burley-burleigh-walter-alessandro-conti.md",
+      "new": "b/burley.md",
+      "slug": "burley"
+    },
+    {
+      "old": "b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md",
+      "new": "b/byzantine-philosophy.md",
+      "slug": "byzantine-philosophy"
+    },
+    {
+      "old": "c/jian-qiao-bai-la-tu-xue-pai-cambridge-platonists-sarah-hutton.md",
+      "new": "c/cambridge-platonists.md",
+      "slug": "cambridge-platonists"
+    },
+    {
+      "old": "c/tuo-ma-si-kang-pa-nei-la-campanella-tommaso-germana-ernst-and-jeanpaul-de-lucca.md",
+      "new": "c/campanella.md",
+      "slug": "campanella"
+    },
+    {
+      "old": "c/a-er-bei-jia-mou-camus-albert-ronald-aronson.md",
+      "new": "c/camus.md",
+      "slug": "camus"
+    },
+    {
+      "old": "c/ai-zheng-cancer-anya-plutynski-and-lucie-laplane.md",
+      "new": "c/cancer.md",
+      "slug": "cancer"
+    },
+    {
+      "old": "c/ke-hang-neng-li-capability-approach-ingrid-robeyns-and-morten-fibieger-byskov.md",
+      "new": "c/capability-approach.md",
+      "slug": "capability-approach"
+    },
+    {
+      "old": "c/ji-luo-la-mo-ka-er-da-nuo-cardano-girolamo-geronimo-guido-giglioni-and-jonathan-regier.md",
+      "new": "c/cardano.md",
+      "slug": "cardano"
+    },
+    {
+      "old": "c/lu-dao-fu-ka-er-na-pu-carnap-rudolf-hannes-leitgeb-and-andr-carus.md",
+      "new": "c/carnap.md",
+      "slug": "carnap"
+    },
+    {
+      "old": "c/ka-nieade-si-carneades.md",
+      "new": "c/carneades.md",
+      "slug": "carneades"
+    },
+    {
+      "old": "c/en-si-te-ka-xi-er-cassirer-ernst-michael-friedman.md",
+      "new": "c/cassirer.md",
+      "slug": "cassirer"
+    },
+    {
+      "old": "c/fan-chou-categories-amie-thomasson/README.md",
+      "new": "categories/README.md",
+      "slug": "categories"
+    },
+    {
+      "old": "c/fan-chou-cuo-wu-category-mistakes-ofra-magidor.md",
+      "new": "c/category-mistakes.md",
+      "slug": "category-mistakes"
+    },
+    {
+      "old": "c/fan-chou-lun-category-theory-jeanpierre-marquis.md",
+      "new": "c/category-theory.md",
+      "slug": "category-theory"
+    },
+    {
+      "old": "c/yin-guo-mo-xing-causal-models-christopher-hitchcock.md",
+      "new": "c/causal-models.md",
+      "slug": "causal-models"
+    },
+    {
+      "old": "c/xing-fa-li-lun-criminal-law-theories-of-james-edwards.md",
+      "new": "c/causation-law.md",
+      "slug": "causation-law"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "causation-medieval/README.md",
+      "slug": "causation-medieval"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "causation-physics/README.md",
+      "slug": "causation-physics"
+    },
+    {
+      "old": "c/xi-bao-sheng-wu-xue-zhe-xue-cell-biology-philosophy-of-william-bechtel-and-andrew-bollhagen.md",
+      "new": "c/cell-biology.md",
+      "slug": "cell-biology"
+    },
+    {
+      "old": "c/xi-bao-zi-dong-ji-cellular-automata-francesco-berto-and-jacopo-tagliabue.md",
+      "new": "c/cellular-automata.md",
+      "slug": "cellular-automata"
+    },
+    {
+      "old": "c/que-ding-xing-certainty-baron-reed.md",
+      "new": "c/certainty.md",
+      "slug": "certainty"
+    },
+    {
+      "old": "c/bian-hua-change/README.md",
+      "new": "change/README.md",
+      "slug": "change"
+    },
+    {
+      "old": "c/hun-dun-chaos-robert-bishop.md",
+      "new": "c/chaos.md",
+      "slug": "chaos"
+    },
+    {
+      "old": "c/hua-xue-zhe-xue-chemistry-philosophy-of-michael-weisberg-paul-needham-and-robin-hendry.md",
+      "new": "c/chemistry.md",
+      "slug": "chemistry"
+    },
+    {
+      "old": "c/tong-nian-zhe-xue-childhood-the-philosophy-of-gareth-matthews-and-amy-mullin.md",
+      "new": "c/childhood.md",
+      "slug": "childhood"
+    },
+    {
+      "old": "c/er-tong-zhe-xue-children-philosophy-for-michael-pritchard.md",
+      "new": "c/children.md",
+      "slug": "children"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "chinese-metaphysics/README.md",
+      "slug": "chinese-metaphysics"
+    },
+    {
+      "old": "s/ke-xue-science/README.md",
+      "new": "chinese-phil-science/README.md",
+      "slug": "chinese-phil-science"
+    },
+    {
+      "old": "c/zhong-wen-fang-jian-chinese-room-argument-david-cole.md",
+      "new": "c/chinese-room.md",
+      "slug": "chinese-room"
+    },
+    {
+      "old": "c/luo-de-li-ke-qi-ze-mu-chisholm-roderick-richard-feldman-and-fred-feldman.md",
+      "new": "c/chisholm.md",
+      "slug": "chisholm"
+    },
+    {
+      "old": "c/zhe-xue-yu-ji-du-jiao-shen-xue-christian-theology-philosophy-and-william-wood.md",
+      "new": "c/christiantheology-philosophy.md",
+      "slug": "christiantheology-philosophy"
+    },
+    {
+      "old": "c/qiu-qi-tu-ling-lun-ti-churchturing-thesis-b.-jack-copeland.md",
+      "new": "c/church.md",
+      "slug": "church"
+    },
+    {
+      "old": "c/qiu-qi-tu-ling-lun-ti-churchturing-thesis-b.-jack-copeland.md",
+      "new": "c/church-turing.md",
+      "slug": "church-turing"
+    },
+    {
+      "old": "c/xi-sai-luo-cicero-raphael-woolf.md",
+      "new": "c/cicero.md",
+      "slug": "cicero"
+    },
+    {
+      "old": "c/gong-min-citizenship-dominique-leydet.md",
+      "new": "c/citizenship.md",
+      "slug": "citizenship"
+    },
+    {
+      "old": "c/gong-min-jiao-yu-civic-education-jack-crittenden-and-peter-levine.md",
+      "new": "c/civic-education.md",
+      "slug": "civic-education"
+    },
+    {
+      "old": "c/gong-min-bu-fu-cong-civil-disobedience-candice-delmas-and-kimberley-brownlee.md",
+      "new": "c/civil-disobedience.md",
+      "slug": "civil-disobedience"
+    },
+    {
+      "old": "c/gong-min-quan-li-civil-rights-andrew-altman.md",
+      "new": "c/civil-rights.md",
+      "slug": "civil-rights"
+    },
+    {
+      "old": "c/qi-hou-ke-xue-climate-science-wendy-parker.md",
+      "new": "c/climate-science.md",
+      "slug": "climate-science"
+    },
+    {
+      "old": "c/lin-chuang-yan-jiu-lun-li-jian-sheng-wu-yi-xue-lun-li-xue-lin-chuang-yan-jiu-lun-li-clinical-researc.md",
+      "new": "c/clinical-research.md",
+      "slug": "clinical-research"
+    },
+    {
+      "old": "c/ke-long-cloning-katrien-devolder.md",
+      "new": "c/cloning.md",
+      "slug": "cloning"
+    },
+    {
+      "old": "c/kai-se-lin-te-luo-te-ke-bo-en-cockburn-catharine-trotter-patricia-sheridan.md",
+      "new": "c/cockburn.md",
+      "slug": "cockburn"
+    },
+    {
+      "old": "c/qiang-zhi-coercion-scott-anderson.md",
+      "new": "c/coercion.md",
+      "slug": "coercion"
+    },
+    {
+      "old": "c/ren-zhi-cognition/README.md",
+      "new": "cognition-animal/README.md",
+      "slug": "cognition-animal"
+    },
+    {
+      "old": "c/ren-zhi-zhang-ai-yu-dao-de-di-wei-cognitive-disability-and-moral-status-david-wasserman-adrienne-asc.md",
+      "new": "c/cognitive-disability.md",
+      "slug": "cognitive-disability"
+    },
+    {
+      "old": "c/ren-zhi-ke-xue-cognitive-science-paul-thagard.md",
+      "new": "c/cognitive-science.md",
+      "slug": "cognitive-science"
+    },
+    {
+      "old": "c/he-er-man-ke-en-cohen-hermann-scott-edgar.md",
+      "new": "c/cohen.md",
+      "slug": "cohen"
+    },
+    {
+      "old": "c/luo-bin-qiao-zhi-ke-lin-wu-de-collingwood-robin-george-giuseppina-doro-and-james-connelly/README.md",
+      "new": "collingwood/README.md",
+      "slug": "collingwood"
+    },
+    {
+      "old": "c/an-dong-ni-ke-lin-si-collins-anthony-william-uzgalis.md",
+      "new": "c/collins.md",
+      "slug": "collins"
+    },
+    {
+      "old": "c/zhi-min-zhu-yi-colonialism-margaret-kohn-and-kavita-reddy.md",
+      "new": "c/colonialism.md",
+      "slug": "colonialism"
+    },
+    {
+      "old": "c/yan-se-color-barry-maund.md",
+      "new": "c/color.md",
+      "slug": "color"
+    },
+    {
+      "old": "c/gong-tong-li-yi-common-good-waheed-hussain.md",
+      "new": "c/common-good.md",
+      "slug": "common-good"
+    },
+    {
+      "old": "c/gong-tong-zhi-shi-common-knowledge-peter-vanderschraaf-and-giacomo-sillari.md",
+      "new": "c/common-knowledge.md",
+      "slug": "common-knowledge"
+    },
+    {
+      "old": "c/she-qun-zhu-yi-communitarianism-daniel-bell.md",
+      "new": "c/communitarianism.md",
+      "slug": "communitarianism"
+    },
+    {
+      "old": "c/bi-jiao-ren-zhi-xue-zhong-de-fang-fa-comparative-cognition-methods-in-marta-halina.md",
+      "new": "c/comparative-cognition.md",
+      "slug": "comparative-cognition"
+    },
+    {
+      "old": "c/xiang-rong-lun-compatibilism-michael-mckenna-and-d.-justin-coates.md",
+      "new": "c/compatibilism.md",
+      "slug": "compatibilism"
+    },
+    {
+      "old": "c/zu-he-xing-compositionality-zoltn-gendler-szab.md",
+      "new": "c/compositionality.md",
+      "slug": "compositionality"
+    },
+    {
+      "old": "c/ke-ji-suan-xing-yu-fu-za-du-computability-and-complexity-neil-immerman.md",
+      "new": "c/computability.md",
+      "slug": "computability"
+    },
+    {
+      "old": "c/ji-suan-fu-za-xing-li-lun-computational-complexity-theory-walter-dean.md",
+      "new": "c/computational-complexity.md",
+      "slug": "computational-complexity"
+    },
+    {
+      "old": "c/ji-suan-fu-za-xing-li-lun-computational-complexity-theory-walter-dean.md",
+      "new": "c/computational-linguistics.md",
+      "slug": "computational-linguistics"
+    },
+    {
+      "old": "c/ji-suan-zhe-xue-computational-philosophy-patrick-grim-and-daniel-singer.md",
+      "new": "c/computational-philosophy.md",
+      "slug": "computational-philosophy"
+    },
+    {
+      "old": "c/ji-suan-ji-ke-xue-zhe-xue-computer-science-philosophy-of-nicola-angius-giuseppe-primiero-and-raymond.md",
+      "new": "c/computer-science.md",
+      "slug": "computer-science"
+    },
+    {
+      "old": "c/ao-gu-si-te-kong-de-comte-auguste-michel-bourdeau.md",
+      "new": "c/comte.md",
+      "slug": "comte"
+    },
+    {
+      "old": "c/gai-nian-concepts-eric-margolis-and-stephen-laurence.md",
+      "new": "c/concepts.md",
+      "slug": "concepts"
+    },
+    {
+      "old": "c/1277-nian-ba-li-qian-ze-condemnation-of-1277-hans-thijssen.md",
+      "new": "c/condemnation.md",
+      "slug": "condemnation"
+    },
+    {
+      "old": "c/ai-di-an-bo-nuo-de-kong-di-ya-ke-condillac-tienne-bonnot-de-lorne-falkenstein-and-giovanni-grandi.md",
+      "new": "c/condillac.md",
+      "slug": "condillac"
+    },
+    {
+      "old": "c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/README.md",
+      "new": "conditionals/README.md",
+      "slug": "conditionals"
+    },
+    {
+      "old": "c/jian-zhen-sheng-shi-confirmation-vincenzo-crupi.md",
+      "new": "c/confirmation.md",
+      "slug": "confirmation"
+    },
+    {
+      "old": "c/kong-zi-confucius-mark-csikszentmihalyi.md",
+      "new": "c/confucius.md",
+      "slug": "confucius"
+    },
+    {
+      "old": "c/lian-jie-zhu-yi-connectionism-cameron-buckner-and-james-garson.md",
+      "new": "c/connectionism.md",
+      "slug": "connectionism"
+    },
+    {
+      "old": "c/liang-xin-conscience-alberto-giubilini/README.md",
+      "new": "conscience/README.md",
+      "slug": "conscience"
+    },
+    {
+      "old": "c/yi-shi-consciousness-robert-van-gulick/README.md",
+      "new": "consciousness-animal/README.md",
+      "slug": "consciousness-animal"
+    },
+    {
+      "old": "c/zhong-shi-ji-jie-guo-li-lun-consequence-medieval-theories-of-catarina-dutilh-novaes.md",
+      "new": "c/consequence-medieval.md",
+      "slug": "consequence-medieval"
+    },
+    {
+      "old": "c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/README.md",
+      "new": "consequentialism/README.md",
+      "slug": "consequentialism"
+    },
+    {
+      "old": "c/gong-li-zhu-yi-consequentializing-douglas-w.-portmore.md",
+      "new": "c/consequentializing.md",
+      "slug": "consequentializing"
+    },
+    {
+      "old": "c/bao-yu-sheng-wu-xue-conservation-biology-jay-odenbaugh.md",
+      "new": "c/conservation-biology.md",
+      "slug": "conservation-biology"
+    },
+    {
+      "old": "c/bao-shou-zhu-yi-conservatism-andy-hamilton.md",
+      "new": "c/conservatism.md",
+      "slug": "conservatism"
+    },
+    {
+      "old": "c/xian-zheng-zhu-yi-constitutionalism-wil-waluchow-and-dimitrios-kyritsis.md",
+      "new": "c/constitutionalism.md",
+      "slug": "constitutionalism"
+    },
+    {
+      "old": "c/jian-she-xing-de-jing-yan-zhu-yi-constructive-empiricism-bradley-monton-and-chad-mohler.md",
+      "new": "c/constructive-empiricism.md",
+      "slug": "constructive-empiricism"
+    },
+    {
+      "old": "c/ren-shi-de-yu-jing-lun-contextualism-epistemic-patrick-rysiew.md",
+      "new": "c/contextualism-epistemology.md",
+      "slug": "contextualism-epistemology"
+    },
+    {
+      "old": "c/lian-xu-xing-yu-wu-qiong-xiao-continuity-and-infinitesimals-john-l.-bell.md",
+      "new": "c/continuity.md",
+      "slug": "continuity"
+    },
+    {
+      "old": "c/he-tong-fa-zhe-xue-contract-law-philosophy-of-daniel-markovits-and-emad-atiq.md",
+      "new": "c/contract-law.md",
+      "slug": "contract-law"
+    },
+    {
+      "old": "c/zi-li-de-qi-yue-lun-contractarianism-ann-cudd-and-seena-eftekhari.md",
+      "new": "c/contractarianism.md",
+      "slug": "contractarianism"
+    },
+    {
+      "old": "c/fei-zi-li-de-qi-yue-lun-contractualism-elizabeth-ashford-and-tim-mulgan.md",
+      "new": "c/contractualism.md",
+      "slug": "contractualism"
+    },
+    {
+      "old": "c/mao-dun-contradiction-laurence-r.-horn.md",
+      "new": "c/contradiction.md",
+      "slug": "contradiction"
+    },
+    {
+      "old": "c/an-ni-kang-wei-conway-lady-anne-sarah-hutton.md",
+      "new": "c/conway.md",
+      "slug": "conway"
+    },
+    {
+      "old": "c/ni-gu-la-ge-bai-ni-copernicus-nicolaus-sheila-rabin.md",
+      "new": "c/copernicus.md",
+      "slug": "copernicus"
+    },
+    {
+      "old": "c/re-luo-de-ke-er-de-mu-wa-cordemoy-graud-de-fred-ablondi.md",
+      "new": "c/cordemoy.md",
+      "slug": "cordemoy"
+    },
+    {
+      "old": "c/tan-wu-fu-bai-corruption-seumas-miller.md",
+      "new": "c/corruption.md",
+      "slug": "corruption"
+    },
+    {
+      "old": "c/yu-zhou-lun-zheng-ming-cosmological-argument-bruce-reichenbach.md",
+      "new": "c/cosmological-argument.md",
+      "slug": "cosmological-argument"
+    },
+    {
+      "old": "c/yu-zhou-xue-cosmology/README.md",
+      "new": "cosmology/README.md",
+      "slug": "cosmology"
+    },
+    {
+      "old": "c/zhe-xue-yu-ji-du-jiao-shen-xue-christian-theology-philosophy-and-william-wood.md",
+      "new": "c/cosmology-theology.md",
+      "slug": "cosmology-theology"
+    },
+    {
+      "old": "c/shi-jie-zhu-yi-cosmopolitanism-pauline-kleingeld-and-eric-brown.md",
+      "new": "c/cosmopolitanism.md",
+      "slug": "cosmopolitanism"
+    },
+    {
+      "old": "c/wei-lian-ke-la-suo-en-crathorn-william-aurlien-robert.md",
+      "new": "c/crathorn.md",
+      "slug": "crathorn"
+    },
+    {
+      "old": "c/chuang-zao-yu-bao-quan-creation-and-conservation-david-vander-laan.md",
+      "new": "c/creation-conservation.md",
+      "slug": "creation-conservation"
+    },
+    {
+      "old": "c/chuang-zao-lun-creationism-michael-ruse.md",
+      "new": "c/creationism.md",
+      "slug": "creationism"
+    },
+    {
+      "old": "c/chuang-zao-li-creativity-elliot-samuel-paul-and-dustin-stokes.md",
+      "new": "c/creativity.md",
+      "slug": "creativity"
+    },
+    {
+      "old": "c/ha-si-dai-ben-ya-bo-la-han-ke-lei-si-ka-si-crescas-hasdai-shalom-sadik.md",
+      "new": "c/crescas.md",
+      "slug": "crescas"
+    },
+    {
+      "old": "c/xing-fa-li-lun-criminal-law-theories-of-james-edwards.md",
+      "new": "c/criminal-law.md",
+      "slug": "criminal-law"
+    },
+    {
+      "old": "c/zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-race-linda-alcoff.md",
+      "new": "c/critical-phil-race.md",
+      "slug": "critical-phil-race"
+    },
+    {
+      "old": "c/pi-pan-xing-si-wei-critical-thinking-david-hitchcock.md",
+      "new": "c/critical-thinking.md",
+      "slug": "critical-thinking"
+    },
+    {
+      "old": "a/mei-xue-aesthetics/README.md",
+      "new": "croce-aesthetics/README.md",
+      "slug": "croce-aesthetics"
+    },
+    {
+      "old": "c/la-er-fu-ku-de-wo-si-cudworth-ralph-sarah-hutton.md",
+      "new": "c/cudworth.md",
+      "slug": "cudworth"
+    },
+    {
+      "old": "c/wen-hua-culture-patti-tamara-lenard/README.md",
+      "new": "culture/README.md",
+      "slug": "culture"
+    },
+    {
+      "old": "c/ke-li-bei-lun-currys-paradox-lionel-shapiro-and-jc-beall.md",
+      "new": "c/curry-paradox.md",
+      "slug": "curry-paradox"
+    },
+    {
+      "old": "c/ku-sa-de-ni-gu-la-cusanus-nicolaus-nicolas-of-cusa-clyde-lee-miller.md",
+      "new": "c/cusanus.md",
+      "slug": "cusanus"
+    },
+    {
+      "old": "d/wu-dao-zhe-xue-dance-philosophy-of-aili-bresnahan.md",
+      "new": "d/dance.md",
+      "slug": "dance"
+    },
+    {
+      "old": "d/dan-ding-ali-ji-ye-li-dante-alighieri-winthrop-wetherbee-and-jason-aleksander.md",
+      "new": "d/dante.md",
+      "slug": "dante"
+    },
+    {
+      "old": "d/da-er-wen-zhu-yi-darwinism-james-lennox.md",
+      "new": "d/darwinism.md",
+      "slug": "darwinism"
+    },
+    {
+      "old": "d/da-wei-david-christian-wildberg.md",
+      "new": "d/david.md",
+      "slug": "david"
+    },
+    {
+      "old": "l/da-wei-liu-yi-si-lewis-david-brian-weatherson/README.md",
+      "new": "david-lewis/README.md",
+      "slug": "david-lewis"
+    },
+    {
+      "old": "d/si-wang-death-steven-luper/README.md",
+      "new": "death/README.md",
+      "slug": "death"
+    },
+    {
+      "old": "d/jue-ce-neng-li-decisionmaking-capacity-jennifer-hawkins-and-louis-c.-charland.md",
+      "new": "d/decision-capacity.md",
+      "slug": "decision-capacity"
+    },
+    {
+      "old": "d/jue-ce-li-lun-decision-theory-katie-steele-and-h.-orri-stefnsson/README.md",
+      "new": "decision-theory/README.md",
+      "slug": "decision-theory"
+    },
+    {
+      "old": "d/shu-xue-zhe-xue-zhong-de-yan-yi-zhu-yi-deductivism-in-the-philosophy-of-mathematics-alexander-paseau.md",
+      "new": "d/deductivism-mathematics.md",
+      "slug": "deductivism-mathematics"
+    },
+    {
+      "old": "d/yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-semantics-and-pragmatics-katarzyna-m.-jaszczolt.md",
+      "new": "d/defaults-semantics-pragmatics.md",
+      "slug": "defaults-semantics-pragmatics"
+    },
+    {
+      "old": "d/ding-yi-definitions-anil-gupta-and-stephen-mackereth.md",
+      "new": "d/definitions.md",
+      "slug": "definitions"
+    },
+    {
+      "old": "d/ji-er-de-le-zi-deleuze-gilles-daniel-smith-john-protevi-and-daniela-voss.md",
+      "new": "d/deleuze.md",
+      "slug": "deleuze"
+    },
+    {
+      "old": "d/ai-li-ya-de-er-mei-di-ge-delmedigo-elijah-michael-engel.md",
+      "new": "d/delmedigo.md",
+      "slug": "delmedigo"
+    },
+    {
+      "old": "d/wang-xiang-delusion-lisa-bortolotti.md",
+      "new": "d/delusion.md",
+      "slug": "delusion"
+    },
+    {
+      "old": "d/min-zhu-democracy-tom-christiano-and-sameer-bajaj/README.md",
+      "new": "democracy/README.md",
+      "slug": "democracy"
+    },
+    {
+      "old": "d/de-mo-ke-li-te-democritus-sylvia-berryman.md",
+      "new": "d/democritus.md",
+      "slug": "democritus"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "demonstration-medieval/README.md",
+      "slug": "demonstration-medieval"
+    },
+    {
+      "old": "d/ben-ti-lun-yi-lai-dependence-ontological-tuomas-e.-tahko-and-e.-jonathan-lowe.md",
+      "new": "d/dependence-ontological.md",
+      "slug": "dependence-ontological"
+    },
+    {
+      "old": "d/miao-hui-depiction-john-hyman-and-katerina-bantinaki.md",
+      "new": "d/depiction.md",
+      "slug": "depiction"
+    },
+    {
+      "old": "d/ya-ke-de-li-da-derrida-jacques-leonard-lawlor.md",
+      "new": "d/derrida.md",
+      "slug": "derrida"
+    },
+    {
+      "old": "d/le-nei-di-ka-er-descartes-ren-gary-hatfield/README.md",
+      "new": "descartes/README.md",
+      "slug": "descartes"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "descartes-ethics/README.md",
+      "slug": "descartes-ethics"
+    },
+    {
+      "old": "m/shu-xue-mathematics/README.md",
+      "new": "descartes-mathematics/README.md",
+      "slug": "descartes-mathematics"
+    },
+    {
+      "old": "p/wu-li-xue-physics/README.md",
+      "new": "descartes-physics/README.md",
+      "slug": "descartes-physics"
+    },
+    {
+      "old": "d/mo-zhuang-ci-descriptions-peter-ludlow.md",
+      "new": "d/descriptions.md",
+      "slug": "descriptions"
+    },
+    {
+      "old": "d/ying-de-desert-fred-feldman-and-brad-skow.md",
+      "new": "d/desert.md",
+      "slug": "desert"
+    },
+    {
+      "old": "d/luo-bo-te-dai-jia-bei-desgabets-robert-patricia-easton.md",
+      "new": "d/desgabets.md",
+      "slug": "desgabets"
+    },
+    {
+      "old": "d/yu-wang-desire-tim-schroeder.md",
+      "new": "d/desire.md",
+      "slug": "desire"
+    },
+    {
+      "old": "d/que-ding-wu-yu-ke-que-ding-wu-determinates-and-determinables-jessica-wilson.md",
+      "new": "d/determinate-determinables.md",
+      "slug": "determinate-determinables"
+    },
+    {
+      "old": "d/yue-han-du-wei-dewey-john-david-hildebrand/README.md",
+      "new": "dewey/README.md",
+      "slug": "dewey"
+    },
+    {
+      "old": "p/zheng-zhi-zhe-xue-political-philosophy/README.md",
+      "new": "dewey-political/README.md",
+      "slug": "dewey-political"
+    },
+    {
+      "old": "d/fa-cheng-dharmakrti-tom-tillemans.md",
+      "new": "d/dharmakiirti.md",
+      "slug": "dharmakiirti"
+    },
+    {
+      "old": "d/tu-biao-diagrams-sunjoo-shin-oliver-lemon-and-john-mumma/README.md",
+      "new": "diagrams/README.md",
+      "slug": "diagrams"
+    },
+    {
+      "old": "d/mai-la-jia-xue-pai-dialectical-school-susanne-bobzien-and-matthew-duncombe.md",
+      "new": "d/dialectical-school.md",
+      "slug": "dialectical-school"
+    },
+    {
+      "old": "d/shuang-mian-zhen-li-lun-dialetheism-graham-priest-francesco-berto-and-zach-weber.md",
+      "new": "d/dialetheism.md",
+      "slug": "dialetheism"
+    },
+    {
+      "old": "d/de-ni-di-de-luo-diderot-denis-charles-t.-wolfe-and-j.b.-shank.md",
+      "new": "d/diderot.md",
+      "slug": "diderot"
+    },
+    {
+      "old": "d/di-te-li-xi-feng-fu-lai-bei-ge-dietrich-of-freiberg-markus-fhrer.md",
+      "new": "d/dietrich-freiberg.md",
+      "slug": "dietrich-freiberg"
+    },
+    {
+      "old": "d/shu-zi-yi-shu-zhe-xue-digital-art-philosophy-of-katherine-thomsonjones-and-shelby-moser.md",
+      "new": "d/digital-art.md",
+      "slug": "digital-art"
+    },
+    {
+      "old": "d/zun-yan-dignity-remy-debes.md",
+      "new": "d/dignity.md",
+      "slug": "dignity"
+    },
+    {
+      "old": "d/wei-lian-di-er-tai-dilthey-wilhelm-rudolf-makkreel.md",
+      "new": "d/dilthey.md",
+      "slug": "dilthey"
+    },
+    {
+      "old": "d/ka-li-ya-ya-su-si-de-di-ao-duo-luo-si-diodorus-cronus-david-sedley.md",
+      "new": "d/diodorus-cronus.md",
+      "slug": "diodorus-cronus"
+    },
+    {
+      "old": "d/ang-zang-de-shou-wen-ti-dirty-hands-the-problem-of-c.a.j.-coady.md",
+      "new": "d/dirty-hands.md",
+      "slug": "dirty-hands"
+    },
+    {
+      "old": "d/can-ji-disability/README.md",
+      "new": "disability/README.md",
+      "slug": "disability"
+    },
+    {
+      "old": "d/hua-yu-biao-zheng-li-lun-discourse-representation-theory-bart-geurts-david-i.-beaver-and-emar-maier.md",
+      "new": "d/discourse-representation-theory.md",
+      "slug": "discourse-representation-theory"
+    },
+    {
+      "old": "d/qi-shi-discrimination-andrew-altman.md",
+      "new": "d/discrimination.md",
+      "slug": "discrimination"
+    },
+    {
+      "old": "d/xi-qu-luo-ji-huo-disjunction-maria-aloni.md",
+      "new": "d/disjunction.md",
+      "slug": "disjunction"
+    },
+    {
+      "old": "d/qing-xiang-dispositions-sungho-choi-and-michael-fara.md",
+      "new": "d/dispositions.md",
+      "slug": "dispositions"
+    },
+    {
+      "old": "d/shen-divine/README.md",
+      "new": "divine-freedom/README.md",
+      "slug": "divine-freedom"
+    },
+    {
+      "old": "d/zao-cheng-shang-hai-yu-yun-xu-shang-hai-doing-vs.-allowing-harm-fiona-woollard-and-frances-howardsny.md",
+      "new": "d/doing-allowing.md",
+      "slug": "doing-allowing"
+    },
+    {
+      "old": "d/tong-zhi-domination-christopher-mccammon.md",
+      "new": "d/domination.md",
+      "slug": "domination"
+    },
+    {
+      "old": "d/shuang-zhong-yi-shi-double-consciousness-john-p.-pittman.md",
+      "new": "d/double-consciousness.md",
+      "slug": "double-consciousness"
+    },
+    {
+      "old": "d/shuang-zhong-xiao-ying-yuan-ze-double-effect-doctrine-of-alison-mcintyre.md",
+      "new": "d/double-effect.md",
+      "slug": "double-effect"
+    },
+    {
+      "old": "d/gu-dai-zhe-xue-xue-shu-doxography-of-ancient-philosophy-jaap-mansfeld.md",
+      "new": "d/doxography-ancient.md",
+      "slug": "doxography-ancient"
+    },
+    {
+      "old": "d/meng-yu-meng-jing-dreams-and-dreaming-jennifer-m.-windt.md",
+      "new": "d/dreams-dreaming.md",
+      "slug": "dreams-dreaming"
+    },
+    {
+      "old": "d/rang-ba-di-si-te-du-bo-si-du-bos-jeanbaptiste-james-o.-young-and-margaret-cameron.md",
+      "new": "d/du-bos.md",
+      "slug": "du-bos"
+    },
+    {
+      "old": "d/er-yuan-lun-dualism-howard-robinson.md",
+      "new": "d/dualism.md",
+      "slug": "dualism"
+    },
+    {
+      "old": "d/pi-ai-er-di-ang-duhem-pierre-roger-ariew.md",
+      "new": "d/duhem.md",
+      "slug": "duhem"
+    },
+    {
+      "old": "d/yue-han-deng-si-si-ge-tuo-duns-scotus-john-thomas-williams.md",
+      "new": "d/duns-scotus.md",
+      "slug": "duns-scotus"
+    },
+    {
+      "old": "d/he-lan-du-ding-li-dutch-book-arguments-susan-vineberg.md",
+      "new": "d/dutch-book.md",
+      "slug": "dutch-book"
+    },
+    {
+      "old": "e/zao-qi-xian-dai-yin-du-de-fen-xi-zhe-xue-early-modern-india-analytic-philosophy-in-jonardon-ganeri.md",
+      "new": "e/early-modern-india.md",
+      "slug": "early-modern-india"
+    },
+    {
+      "old": "e/sheng-tai-xue-ecology-alkistis-elliottgraves/README.md",
+      "new": "ecology/README.md",
+      "slug": "ecology"
+    },
+    {
+      "old": "e/gui-fan-jing-ji-xue-yu-jing-ji-zheng-yi-economics-normative-and-economic-justice-marc-fleurbaey.md",
+      "new": "e/economic-justice.md",
+      "slug": "economic-justice"
+    },
+    {
+      "old": "e/jing-ji-xue-economics/README.md",
+      "new": "economics/README.md",
+      "slug": "economics"
+    },
+    {
+      "old": "e/zao-qi-xian-dai-yin-du-de-fen-xi-zhe-xue-early-modern-india-analytic-philosophy-in-jonardon-ganeri.md",
+      "new": "e/economics-early-modern.md",
+      "slug": "economics-early-modern"
+    },
+    {
+      "old": "e/jiao-yu-zhe-xue-education-philosophy-of-harvey-siegel-d.c.-phillips-and-eamonn-callan.md",
+      "new": "e/education-philosophy.md",
+      "slug": "education-philosophy"
+    },
+    {
+      "old": "e/ping-deng-zhu-yi-egalitarianism-richard-arneson.md",
+      "new": "e/egalitarianism.md",
+      "slug": "egalitarianism"
+    },
+    {
+      "old": "e/li-ji-zhu-yi-egoism-robert-shaver.md",
+      "new": "e/egoism.md",
+      "slug": "egoism"
+    },
+    {
+      "old": "e/ke-li-si-di-an-feng-eleng-fei-er-ehrenfels-christian-von-robin-rollinger-and-carlo-ierna.md",
+      "new": "e/ehrenfels.md",
+      "slug": "ehrenfels"
+    },
+    {
+      "old": "p/ke-xue-zhe-xue-philosophy-of-science/README.md",
+      "new": "einstein-philscience/README.md",
+      "slug": "einstein-philscience"
+    },
+    {
+      "old": "e/ai-li-ya-si-elias-christian-wildberg.md",
+      "new": "e/elias.md",
+      "slug": "elias"
+    },
+    {
+      "old": "e/pu-fa-er-ci-de-yi-li-suo-bai-gong-zhu-elisabeth-princess-of-bohemia-lisa-shapiro.md",
+      "new": "e/elisabeth-bohemia.md",
+      "slug": "elisabeth-bohemia"
+    },
+    {
+      "old": "e/la-er-fu-wo-er-duo-ai-mo-sheng-emerson-ralph-waldo-russell-goodman.md",
+      "new": "e/emerson.md",
+      "slug": "emerson"
+    },
+    {
+      "old": "e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/README.md",
+      "new": "emotion/README.md",
+      "slug": "emotion"
+    },
+    {
+      "old": "e/tong-li-xin-empathy-karsten-stueber.md",
+      "new": "e/empathy.md",
+      "slug": "empathy"
+    },
+    {
+      "old": "e/en-pei-duo-ke-le-empedocles-k.-scarlett-kingsley-and-richard-parry.md",
+      "new": "e/empedocles.md",
+      "slug": "empedocles"
+    },
+    {
+      "old": "e/qi-meng-yun-dong-enlightenment-william-bristow.md",
+      "new": "e/enlightenment.md",
+      "slug": "enlightenment"
+    },
+    {
+      "old": "e/ji-du-envy-justin-darms.md",
+      "new": "e/envy.md",
+      "slug": "envy"
+    },
+    {
+      "old": "e/ai-bi-ke-tai-de-epictetus-margaret-graver.md",
+      "new": "e/epictetus.md",
+      "slug": "epictetus"
+    },
+    {
+      "old": "e/yi-bi-jiu-lu-epicurus-david-konstan.md",
+      "new": "e/epicurus.md",
+      "slug": "epicurus"
+    },
+    {
+      "old": "e/fu-xian-xiang-zhu-yi-epiphenomenalism-william-robinson.md",
+      "new": "e/epiphenomenalism.md",
+      "slug": "epiphenomenalism"
+    },
+    {
+      "old": "e/ke-xue-zhi-shi-yu-ji-shu-episteme-and-techne-scientific-knowledge-and-expertise-richard-parry.md",
+      "new": "e/episteme-techne.md",
+      "slug": "episteme-techne"
+    },
+    {
+      "old": "e/ren-zhi-bei-lun-epistemic-paradoxes-roy-sorensen.md",
+      "new": "e/epistemic-paradoxes.md",
+      "slug": "epistemic-paradoxes"
+    },
+    {
+      "old": "e/guan-yu-ren-zhi-gui-fan-de-ren-zhi-xiao-yong-lun-zheng-epistemic-utility-arguments-for-epistemic-nor.md",
+      "new": "e/epistemic-utility.md",
+      "slug": "epistemic-utility"
+    },
+    {
+      "old": "e/xing-shi-ren-shi-lun-epistemology-formal-jonathan-weisberg.md",
+      "new": "e/epistemology-india.md",
+      "slug": "epistemology-india"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "epistemology-latin-america/README.md",
+      "slug": "epistemology-latin-america"
+    },
+    {
+      "old": "n/zi-ran-zhu-yi-naturalism-david-papineau/README.md",
+      "new": "epistemology-naturalized/README.md",
+      "slug": "epistemology-naturalized"
+    },
+    {
+      "old": "s/she-hui-jian-gou-social-construction/README.md",
+      "new": "epistemology-social/README.md",
+      "slug": "epistemology-social"
+    },
+    {
+      "old": "v/de-xing-virtue/README.md",
+      "new": "epistemology-virtue/README.md",
+      "slug": "epistemology-virtue"
+    },
+    {
+      "old": "e/yan-suan-epsilon-calculus-jeremy-avigad-and-richard-zach.md",
+      "new": "e/epsilon-calculus.md",
+      "slug": "epsilon-calculus"
+    },
+    {
+      "old": "e/ping-deng-equality-stefan-gosepath/README.md",
+      "new": "equality/README.md",
+      "slug": "equality"
+    },
+    {
+      "old": "e/zhi-neng-shou-heng-equivalence-of-mass-and-energy-francisco-fernflores.md",
+      "new": "e/equiv__.md",
+      "slug": "equivME"
+    },
+    {
+      "old": "e/de-xi-de-li-wu-si-yi-la-si-mo-erasmus-desiderius-erika-rummel-and-eric-macphail.md",
+      "new": "e/erasmus.md",
+      "slug": "erasmus"
+    },
+    {
+      "old": "e/bian-li-ceng-ci-ergodic-hierarchy-roman-frigg-joseph-berkovitz-and-fred-kronz.md",
+      "new": "e/ergodic-hierarchy.md",
+      "slug": "ergodic-hierarchy"
+    },
+    {
+      "old": "e/ben-zhi-shu-xing-yu-ou-ran-shu-xing-essential-vs.-accidental-properties-teresa-robertson-ishii-and-p.md",
+      "new": "e/essential-accidental.md",
+      "slug": "essential-accidental"
+    },
+    {
+      "old": "e/ji-du-jiao-si-xiang-zhong-de-yong-heng-eternity-in-christian-thought-natalja-deng.md",
+      "new": "e/eternity.md",
+      "slug": "eternity"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "ethics-chinese/README.md",
+      "slug": "ethics-chinese"
+    },
+    {
+      "old": "v/de-xing-virtue/README.md",
+      "new": "ethics-virtue/README.md",
+      "slug": "ethics-virtue"
+    },
+    {
+      "old": "e/you-sheng-xue-eugenics-inmaculada-de-melomartin-and-sara-goering.md",
+      "new": "e/eugenics.md",
+      "slug": "eugenics"
+    },
+    {
+      "old": "e/shi-jian-events-roberto-casati-and-achille-varzi.md",
+      "new": "e/events.md",
+      "slug": "events"
+    },
+    {
+      "old": "e/zheng-ju-evidence-thomas-kelly/README.md",
+      "new": "evidence/README.md",
+      "slug": "evidence"
+    },
+    {
+      "old": "e/e-evil/README.md",
+      "new": "evil/README.md",
+      "slug": "evil"
+    },
+    {
+      "old": "e/jin-hua-evolution-roberta-l.-millstein/README.md",
+      "new": "evolution/README.md",
+      "slug": "evolution"
+    },
+    {
+      "old": "e/cun-zai-existence-michael-nelson.md",
+      "new": "e/existence.md",
+      "slug": "existence"
+    },
+    {
+      "old": "e/shi-yan-lun-li-xue-experimental-moral-philosophy-mark-alfano-edouard-machery-alexandra-plakias-and-d.md",
+      "new": "e/experimental-moral.md",
+      "slug": "experimental-moral"
+    },
+    {
+      "old": "e/shi-yan-zhe-xue-experimental-philosophy-joshua-knobe-and-shaun-nichols.md",
+      "new": "e/experimental-philosophy.md",
+      "slug": "experimental-philosophy"
+    },
+    {
+      "old": "e/bao-xiao-exploitation-matt-zwolinski-benjamin-ferguson-and-alan-wertheimer.md",
+      "new": "e/exploitation.md",
+      "slug": "exploitation"
+    },
+    {
+      "old": "f/shi-shi-facts-kevin-mulligan-and-fabrice-correia.md",
+      "new": "f/facts.md",
+      "slug": "facts"
+    },
+    {
+      "old": "f/shan-tuo-fu-yi-ben-fa-la-kui-la-falaquera-shem-tov-ibn-steve-harvey.md",
+      "new": "f/falaquera.md",
+      "slug": "falaquera"
+    },
+    {
+      "old": "f/miu-wu-fallacies-hans-hansen.md",
+      "new": "f/fallacies.md",
+      "slug": "fallacies"
+    },
+    {
+      "old": "f/su-ming-lun-fatalism-hugh-rice.md",
+      "new": "f/fatalism.md",
+      "slug": "fatalism"
+    },
+    {
+      "old": "f/gu-si-ta-fu-te-ao-duo-er-fei-xi-na-fechner-gustav-theodor-frederick-c.-beiser.md",
+      "new": "f/fechner.md",
+      "slug": "fechner"
+    },
+    {
+      "old": "f/lian-bang-zhu-yi-federalism-andreas-follesdal.md",
+      "new": "f/federalism.md",
+      "slug": "federalism"
+    },
+    {
+      "old": "f/he-bo-te-fei-ge-er-feigl-herbert-matthias-neuber.md",
+      "new": "f/feigl.md",
+      "slug": "feigl"
+    },
+    {
+      "old": "a/mei-xue-aesthetics/README.md",
+      "new": "feminism-aesthetics/README.md",
+      "slug": "feminism-aesthetics"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "feminism-ethics/README.md",
+      "slug": "feminism-ethics"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "feminism-metaphysics/README.md",
+      "slug": "feminism-metaphysics"
+    },
+    {
+      "old": "m/dao-de-xin-li-xue-moral-psychology/README.md",
+      "new": "feminism-moralpsych/README.md",
+      "slug": "feminism-moralpsych"
+    },
+    {
+      "old": "p/zheng-zhi-zhe-xue-political-philosophy/README.md",
+      "new": "feminism-political/README.md",
+      "slug": "feminism-political"
+    },
+    {
+      "old": "f/nv-xing-zhu-yi-zhe-xue-zhu-ti-feminist-philosophy-topics/README.md",
+      "new": "feminist-philosophy/README.md",
+      "slug": "feminist-philosophy"
+    },
+    {
+      "old": "p/sheng-wu-xue-zhe-xue-philosophy-of-biology/README.md",
+      "new": "feminist-philosophy-biology/README.md",
+      "slug": "feminist-philosophy-biology"
+    },
+    {
+      "old": "f/bao-luo-fei-yeaben-de-feyerabend-paul-john-preston.md",
+      "new": "f/feyerabend.md",
+      "slug": "feyerabend"
+    },
+    {
+      "old": "f/ma-er-xi-li-ao-fei-qi-nuo-ficino-marsilio-christopher-s.-celenza.md",
+      "new": "f/ficino.md",
+      "slug": "ficino"
+    },
+    {
+      "old": "f/xu-gou-zhu-yi-fictionalism-matti-eklund/README.md",
+      "new": "fiction/README.md",
+      "slug": "fiction"
+    },
+    {
+      "old": "m/mo-tai-modality/README.md",
+      "new": "fictionalism-modal/README.md",
+      "slug": "fictionalism-modal"
+    },
+    {
+      "old": "f/xin-yang-zhu-yi-fideism-richard-amesbury.md",
+      "new": "f/fideism.md",
+      "slug": "fideism"
+    },
+    {
+      "old": "f/dian-ying-zhe-xue-film-philosophy-of-thomas-wartenberg.md",
+      "new": "f/film.md",
+      "slug": "film"
+    },
+    {
+      "old": "f/jn-fen-de-li-findlay-j.n.-douglas-lackey.md",
+      "new": "f/findlay.md",
+      "slug": "findlay"
+    },
+    {
+      "old": "f/wei-tiao-finetuning-simon-friederich.md",
+      "new": "f/fine-tuning.md",
+      "slug": "fine-tuning"
+    },
+    {
+      "old": "f/fei-qi-de-ke-zhi-xing-bei-lun-fitchs-paradox-of-knowability-berit-brogaard-and-joe-salerno.md",
+      "new": "f/fitch-paradox.md",
+      "slug": "fitch-paradox"
+    },
+    {
+      "old": "f/shi-he-du-fitness-alexander-rosenberg-and-frederic-bouchard.md",
+      "new": "f/fitness.md",
+      "slug": "fitness"
+    },
+    {
+      "old": "f/qia-dang-tai-du-de-jia-zhi-li-lun-fitting-attitude-theories-of-value-christopher-howard.md",
+      "new": "f/fitting-attitude-theories.md",
+      "slug": "fitting-attitude-theories"
+    },
+    {
+      "old": "f/li-cha-de-fei-ci-la-er-fu-fitzralph-richard-michael-w.-dunne.md",
+      "new": "f/fitzralph.md",
+      "slug": "fitzralph"
+    },
+    {
+      "old": "f/lu-de-wei-ke-fu-lai-ke-fleck-ludwik-wojciech-sady.md",
+      "new": "f/fleck.md",
+      "slug": "fleck"
+    },
+    {
+      "old": "f/kuan-shu-forgiveness-paul-m.-hughes-and-brandon-warmke.md",
+      "new": "f/forgiveness.md",
+      "slug": "forgiveness"
+    },
+    {
+      "old": "f/xing-shi-yu-zhi-liao-form-vs.-matter-thomas-ainsworth.md",
+      "new": "f/form-matter.md",
+      "slug": "form-matter"
+    },
+    {
+      "old": "f/xing-shi-zhu-yi-formalism/README.md",
+      "new": "formalism-mathematics/README.md",
+      "slug": "formalism-mathematics"
+    },
+    {
+      "old": "f/mi-xie-er-fu-ke-foucault-michel-gary-gutting-and-johanna-oksala.md",
+      "new": "f/foucault.md",
+      "slug": "foucault"
+    },
+    {
+      "old": "f/kuang-jia-wen-ti-frame-problem-murray-shanahan.md",
+      "new": "f/frame-problem.md",
+      "slug": "frame-problem"
+    },
+    {
+      "old": "f/ma-er-ji-ya-de-fu-lang-xi-si-francis-of-marchia-christopher-schabel.md",
+      "new": "f/francis-marchia.md",
+      "slug": "francis-marchia"
+    },
+    {
+      "old": "f/fu-lang-ci-fa-nong-fanon-frantz-john-drabinski.md",
+      "new": "f/frantz-fanon.md",
+      "slug": "frantz-fanon"
+    },
+    {
+      "old": "f/da-bian-che-wen-ti-free-rider-problem-russell-hardin-and-garrett-cullity.md",
+      "new": "f/free-rider.md",
+      "slug": "free-rider"
+    },
+    {
+      "old": "f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/README.md",
+      "new": "frege/README.md",
+      "slug": "frege"
+    },
+    {
+      "old": "l/luo-ji-xue-logic/README.md",
+      "new": "frege-logic/README.md",
+      "slug": "frege-logic"
+    },
+    {
+      "old": "f/you-yi-friendship-bennett-helm.md",
+      "new": "f/friendship.md",
+      "slug": "friendship"
+    },
+    {
+      "old": "f/ma-ge-li-te-fu-le-fuller-margaret-daniel-howe.md",
+      "new": "f/fuller-margaret.md",
+      "slug": "fuller-margaret"
+    },
+    {
+      "old": "f/gong-neng-zhu-yi-functionalism-janet-levin.md",
+      "new": "f/functionalism.md",
+      "slug": "functionalism"
+    },
+    {
+      "old": "f/ji-chu-xing-fundamentality-tuomas-e.-tahko.md",
+      "new": "f/fundamentality.md",
+      "slug": "fundamentality"
+    },
+    {
+      "old": "f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md",
+      "new": "future-contingents/README.md",
+      "slug": "future-contingents"
+    },
+    {
+      "old": "g/han-si-ge-ao-er-ge-qie-da-mo-er-gadamer-hansgeorg-jeff-malpas/README.md",
+      "new": "gadamer/README.md",
+      "slug": "gadamer"
+    },
+    {
+      "old": "g/ke-lao-di-ya-si-gai-lun-galen-p.-n.-singer.md",
+      "new": "g/galen.md",
+      "slug": "galen"
+    },
+    {
+      "old": "g/qie-li-lve-qie-li-lai-galileo-galilei-peter-machamer-and-david-marshall-miller.md",
+      "new": "g/galileo.md",
+      "slug": "galileo"
+    },
+    {
+      "old": "g/bo-yi-lun-game-theory-don-ross/README.md",
+      "new": "game-theory/README.md",
+      "slug": "game-theory"
+    },
+    {
+      "old": "g/gan-ji-sha-gagea-stephen-phillips.md",
+      "new": "g/gangesa.md",
+      "slug": "gangesa"
+    },
+    {
+      "old": "g/pi-ai-er-qie-sang-di-gassendi-pierre-saul-fisher.md",
+      "new": "g/gassendi.md",
+      "slug": "gassendi"
+    },
+    {
+      "old": "g/ge-lu-pai-gelukpa-dge-lugs-pa-douglas-duckworth.md",
+      "new": "g/gelukpa.md",
+      "slug": "gelukpa"
+    },
+    {
+      "old": "g/ji-yin-gene-robert-meunier.md",
+      "new": "g/gene.md",
+      "slug": "gene"
+    },
+    {
+      "old": "g/guang-yi-liang-ci-generalized-quantifiers-dag-westersthl.md",
+      "new": "g/generalized-quantifiers.md",
+      "slug": "generalized-quantifiers"
+    },
+    {
+      "old": "g/yi-ban-pu-bian-hua-generic-generalizations-sarahjane-leslie-and-adam-lerner.md",
+      "new": "g/generics.md",
+      "slug": "generics"
+    },
+    {
+      "old": "g/yi-chuan-piao-bian-genetic-drift-roberta-l.-millstein.md",
+      "new": "g/genetic-drift.md",
+      "slug": "genetic-drift"
+    },
+    {
+      "old": "g/yi-chuan-xue-genetics-james-tabery/README.md",
+      "new": "genetics/README.md",
+      "slug": "genetics"
+    },
+    {
+      "old": "g/ji-yin-zu-xue-he-hou-ji-yin-zu-xue-genomics-and-postgenomics-stephan-guttinger-and-john-dupr.md",
+      "new": "g/genomics.md",
+      "slug": "genomics"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "geometry-19th/README.md",
+      "slug": "geometry-19th"
+    },
+    {
+      "old": "g/ji-er-song-ni-de-gersonides-tamar-rudavsky.md",
+      "new": "g/gersonides.md",
+      "slug": "gersonides"
+    },
+    {
+      "old": "g/luo-ma-de-ji-er-si-giles-of-rome-roberto-lambertini.md",
+      "new": "g/giles.md",
+      "slug": "giles"
+    },
+    {
+      "old": "g/quan-qiu-hua-globalization-william-scheuerman.md",
+      "new": "g/global-democracy.md",
+      "slug": "global-democracy"
+    },
+    {
+      "old": "g/quan-qiu-hua-globalization-william-scheuerman.md",
+      "new": "g/globalization.md",
+      "slug": "globalization"
+    },
+    {
+      "old": "g/fang-dan-de-ge-fu-lei-godfrey-of-fontaines-john-wippel.md",
+      "new": "g/godfrey.md",
+      "slug": "godfrey"
+    },
+    {
+      "old": "g/wei-lian-ge-de-wen-godwin-william-mark-philp.md",
+      "new": "g/godwin.md",
+      "slug": "godwin"
+    },
+    {
+      "old": "g/ku-er-te-ge-de-er-gdel-kurt-juliette-kennedy/README.md",
+      "new": "goedel/README.md",
+      "slug": "goedel"
+    },
+    {
+      "old": "g/guo-rang-ba-suo-nan-seng-ge-gorampa-go-rams-pa-constance-kassor.md",
+      "new": "g/gorampa.md",
+      "slug": "gorampa"
+    },
+    {
+      "old": "g/an-dong-ni-ao-ge-lan-xi-gramsci-antonio-james-martin.md",
+      "new": "g/gramsci.md",
+      "slug": "gramsci"
+    },
+    {
+      "old": "g/gan-en-gratitude-tony-manela.md",
+      "new": "g/gratitude.md",
+      "slug": "gratitude"
+    },
+    {
+      "old": "g/li-mi-ni-de-ge-li-gao-li-gregory-of-rimini-christopher-schabel-and-charles-girard.md",
+      "new": "g/gregory-rimini.md",
+      "slug": "gregory-rimini"
+    },
+    {
+      "old": "g/bao-luo-ge-lai-si-grice-paul-richard-e.-grandy-and-richard-warner.md",
+      "new": "g/grice.md",
+      "slug": "grice"
+    },
+    {
+      "old": "g/luo-bo-te-ge-luo-si-tai-si-te-grosseteste-robert-neil-lewis.md",
+      "new": "g/grosseteste.md",
+      "slug": "grosseteste"
+    },
+    {
+      "old": "g/hu-guo-ge-lao-xiu-si-grotius-hugo-jon-miller.md",
+      "new": "g/grotius.md",
+      "slug": "grotius"
+    },
+    {
+      "old": "g/xing-er-shang-xue-dian-ji-grounding-metaphysical-ricki-bliss-and-kelly-trogdon.md",
+      "new": "g/grounding.md",
+      "slug": "grounding"
+    },
+    {
+      "old": "h/you-er-gen-ha-bei-ma-si-habermas-jrgen-james-gordon-finlayson-and-dafydd-huw-rees.md",
+      "new": "h/habermas.md",
+      "slug": "habermas"
+    },
+    {
+      "old": "h/ji-zhi-zhu-yi-haecceitism-sam-cowling.md",
+      "new": "h/haecceitism.md",
+      "slug": "haecceitism"
+    },
+    {
+      "old": "h/you-da-ha-lie-wei-halevi-judah-barry-kogan.md",
+      "new": "h/halevi.md",
+      "slug": "halevi"
+    },
+    {
+      "old": "h/yue-han-ge-ao-er-ge-ha-man-hamann-johann-georg-gwen-griffithdickson.md",
+      "new": "h/hamann.md",
+      "slug": "hamann"
+    },
+    {
+      "old": "h/xing-fu-happiness-dan-haybron.md",
+      "new": "h/happiness.md",
+      "slug": "happiness"
+    },
+    {
+      "old": "h/da-wei-ha-te-li-hartley-david-richard-allen.md",
+      "new": "h/hartley.md",
+      "slug": "hartley"
+    },
+    {
+      "old": "h/cha-er-si-ha-ci-huo-en-hartshorne-charles-dan-dombrowski.md",
+      "new": "h/hartshorne.md",
+      "slug": "hartshorne"
+    },
+    {
+      "old": "h/chou-hen-yan-lun-hate-speech-luvell-anderson-and-michael-barnes.md",
+      "new": "h/hate-speech.md",
+      "slug": "hate-speech"
+    },
+    {
+      "old": "p/gong-gong-wei-sheng-public-health/README.md",
+      "new": "health-disease/README.md",
+      "slug": "health-disease"
+    },
+    {
+      "old": "h/ji-du-jiao-si-xiang-zhong-de-tian-tang-yu-di-yu-heaven-and-hell-in-christian-thought-thomas-talbott.md",
+      "new": "h/heaven-hell.md",
+      "slug": "heaven-hell"
+    },
+    {
+      "old": "h/xiang-le-zhu-yi-hedonism-andrew-moore.md",
+      "new": "h/hedonism.md",
+      "slug": "hedonism"
+    },
+    {
+      "old": "h/ge-ao-er-ge-wei-lian-fu-li-de-li-xi-hei-ge-er-hegel-georg-wilhelm-friedrich-paul-redding/README.md",
+      "new": "hegel/README.md",
+      "slug": "hegel"
+    },
+    {
+      "old": "h/ma-ding-hai-de-ge-er-heidegger-martin-michael-wheeler/README.md",
+      "new": "heidegger/README.md",
+      "slug": "heidegger"
+    },
+    {
+      "old": "h/ka-ergheng-pu-er-hempel-carl-james-fetzer.md",
+      "new": "h/hempel.md",
+      "slug": "hempel"
+    },
+    {
+      "old": "h/gen-te-de-heng-li-henry-of-ghent-pasquale-porro.md",
+      "new": "h/henry-ghent.md",
+      "slug": "henry-ghent"
+    },
+    {
+      "old": "h/he-la-ke-li-te-heraclitus-daniel-w.-graham.md",
+      "new": "h/heraclitus.md",
+      "slug": "heraclitus"
+    },
+    {
+      "old": "h/yue-han-ge-te-fu-li-de-feng-he-er-de-herder-johann-gottfried-von-michael-forster.md",
+      "new": "h/herder.md",
+      "slug": "herder"
+    },
+    {
+      "old": "h/he-er-man-feng-hai-mu-huo-zi-helmholtz-hermann-von-lydia-patton.md",
+      "new": "h/hermann-helmholtz.md",
+      "slug": "hermann-helmholtz"
+    },
+    {
+      "old": "h/jie-shi-xue-hermeneutics-theodore-george.md",
+      "new": "h/hermeneutics.md",
+      "slug": "hermeneutics"
+    },
+    {
+      "old": "h/wei-lian-hai-te-si-bo-li-heytesbury-william-miroslav-hanke-and-elzbieta-jung.md",
+      "new": "h/heytesbury.md",
+      "slug": "heytesbury"
+    },
+    {
+      "old": "h/tuo-ma-si-huo-bu-si-hobbes-thomas-stewart-duncan/README.md",
+      "new": "hobbes/README.md",
+      "slug": "hobbes"
+    },
+    {
+      "old": "p/ke-xue-zhe-xue-philosophy-of-science/README.md",
+      "new": "hobbes-science/README.md",
+      "slug": "hobbes-science"
+    },
+    {
+      "old": "h/bao-er-heng-li-ti-li-huo-er-ba-he-holbach-paulhenri-thiry-barondmichael-lebuffe.md",
+      "new": "h/holbach.md",
+      "slug": "holbach"
+    },
+    {
+      "old": "h/dong-holes-roberto-casati-and-achille-varzi.md",
+      "new": "h/holes.md",
+      "slug": "holes"
+    },
+    {
+      "old": "h/luo-bo-te-huo-er-ke-te-holkot-holcot-robert-hester-gelber-and-john-t.-slotemaker.md",
+      "new": "h/holkot.md",
+      "slug": "holkot"
+    },
+    {
+      "old": "h/tong-xing-lian-homosexuality-brent-pickett.md",
+      "new": "h/homosexuality.md",
+      "slug": "homosexuality"
+    },
+    {
+      "old": "h/xi-wang-hope-claudia-bloeser-and-titus-stahl.md",
+      "new": "h/hope.md",
+      "slug": "hope"
+    },
+    {
+      "old": "h/ma-ke-si-huo-ke-hai-mo-horkheimer-max-j.c.-berendzen.md",
+      "new": "h/horkheimer.md",
+      "slug": "horkheimer"
+    },
+    {
+      "old": "h/ren-lei-ji-yin-zu-ji-hua-human-genome-project-lisa-gannett.md",
+      "new": "h/human-genome.md",
+      "slug": "human-genome"
+    },
+    {
+      "old": "h/ren-xing-human-nature-neil-roughley.md",
+      "new": "h/human-nature.md",
+      "slug": "human-nature"
+    },
+    {
+      "old": "h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/README.md",
+      "new": "hume/README.md",
+      "slug": "hume"
+    },
+    {
+      "old": "f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/README.md",
+      "new": "hume-freewill/README.md",
+      "slug": "hume-freewill"
+    },
+    {
+      "old": "r/zong-jiao-religion/README.md",
+      "new": "hume-religion/README.md",
+      "slug": "hume-religion"
+    },
+    {
+      "old": "h/you-mo-zhe-xue-humor-philosophy-of-john-morreall.md",
+      "new": "h/humor.md",
+      "slug": "humor"
+    },
+    {
+      "old": "h/ai-de-meng-de-hu-sai-er-husserl-edmund-christian-beyer.md",
+      "new": "h/husserl.md",
+      "slug": "husserl"
+    },
+    {
+      "old": "h/chao-nei-han-xing-hyperintensionality-francesco-berto-and-daniel-nolan.md",
+      "new": "h/hyperintensionality.md",
+      "slug": "hyperintensionality"
+    },
+    {
+      "old": "i/yang-bu-li-ke-si-iamblichus-riccardo-chiaradonna-and-adrien-lecerf.md",
+      "new": "i/iamblichus.md",
+      "slug": "iamblichus"
+    },
+    {
+      "old": "i/yi-ben-ala-bi-ibn-arab-william-chittick.md",
+      "new": "i/ibn-arabi.md",
+      "slug": "ibn-arabi"
+    },
+    {
+      "old": "i/yi-ben-ba-zhe-ibn-bjja-avempace-josep-puig-montada.md",
+      "new": "i/ibn-bajja.md",
+      "slug": "ibn-bajja"
+    },
+    {
+      "old": "i/ya-bo-la-han-yi-ben-ai-zi-la-ibn-ezra-abraham-tzvi-langermann.md",
+      "new": "i/ibn-ezra.md",
+      "slug": "ibn-ezra"
+    },
+    {
+      "old": "i/suo-luo-men-yi-ben-gai-bi-lu-le-ibn-gabirol-solomon-avicebron-sarah-pessin.md",
+      "new": "i/ibn-gabirol.md",
+      "slug": "ibn-gabirol"
+    },
+    {
+      "old": "i/yi-ben-kai-mu-na-ibn-kammna-tzvi-langermann.md",
+      "new": "i/ibn-kammuna.md",
+      "slug": "ibn-kammuna"
+    },
+    {
+      "old": "i/yi-ben-lu-shi-de-ibn-rushd-averroes-fouad-ben-ahmed-and-robert-pasnau/README.md",
+      "new": "ibn-rushd/README.md",
+      "slug": "ibn-rushd"
+    },
+    {
+      "old": "i/yi-ben-xi-na-awei-sen-na-ibn-sina-avicenna-dimitri-gutas/README.md",
+      "new": "ibn-sina/README.md",
+      "slug": "ibn-sina"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "ibn-sina-metaphysics/README.md",
+      "slug": "ibn-sina-metaphysics"
+    },
+    {
+      "old": "n/zi-ran-zhe-xue-natural-philosophy/README.md",
+      "new": "ibn-sina-natural/README.md",
+      "slug": "ibn-sina-natural"
+    },
+    {
+      "old": "i/wei-xin-zhu-yi-idealism-paul-guyer-and-rolfpeter-horstmann.md",
+      "new": "i/idealism.md",
+      "slug": "idealism"
+    },
+    {
+      "old": "p/ren-ge-tong-yi-xing-personal-identity-eric-t.-olson/README.md",
+      "new": "identity-personal/README.md",
+      "slug": "identity-personal"
+    },
+    {
+      "old": "i/shen-fen-ren-tong-zheng-zhi-identity-politics-cressida-heyes.md",
+      "new": "i/identity-politics.md",
+      "slug": "identity-politics"
+    },
+    {
+      "old": "i/ge-ren-fang-yan-idiolects-alex-barber-and-eduardo-garcia-ramirez.md",
+      "new": "i/idiolects.md",
+      "slug": "idiolects"
+    },
+    {
+      "old": "i/jing-cheng-xiong-di-she-ikhwn-alsaf-carmela-baffioni.md",
+      "new": "i/ikhwan-al-safa.md",
+      "slug": "ikhwan-al-safa"
+    },
+    {
+      "old": "i/xiang-xiang-imagination-shenyi-liao-and-tamar-gendler.md",
+      "new": "i/imagination.md",
+      "slug": "imagination"
+    },
+    {
+      "old": "i/xiang-xiang-xing-kang-ju-imaginative-resistance-emine-hande-tuna.md",
+      "new": "i/imaginative-resistance.md",
+      "slug": "imaginative-resistance"
+    },
+    {
+      "old": "i/yi-min-immigration-christopher-heath-wellman.md",
+      "new": "i/immigration.md",
+      "slug": "immigration"
+    },
+    {
+      "old": "i/mian-yi-xue-zhe-xue-immunology-philosophy-of-bartlomiej-swiatczak-and-alfred-i.-tauber.md",
+      "new": "i/immunology.md",
+      "slug": "immunology"
+    },
+    {
+      "old": "i/yong-heng-immutability-brian-leftow.md",
+      "new": "i/immutability.md",
+      "slug": "immutability"
+    },
+    {
+      "old": "i/gong-zheng-impartiality-troy-jollimore.md",
+      "new": "i/impartiality.md",
+      "slug": "impartiality"
+    },
+    {
+      "old": "i/han-yi-implicature-wayne-davis/README.md",
+      "new": "implicature/README.md",
+      "slug": "implicature"
+    },
+    {
+      "old": "i/bu-ke-neng-shi-jie-impossible-worlds-francesco-berto-and-mark-jago.md",
+      "new": "i/impossible-worlds.md",
+      "slug": "impossible-worlds"
+    },
+    {
+      "old": "a/ren-zhi-gui-fan-de-lun-zheng-arguments-for-epistemic-norms/README.md",
+      "new": "incompatibilism-arguments/README.md",
+      "slug": "incompatibilism-arguments"
+    },
+    {
+      "old": "i/zhi-dai-ci-indexicals-david-braun.md",
+      "new": "i/indexicals.md",
+      "slug": "indexicals"
+    },
+    {
+      "old": "i/wu-xian-dao-tui-lun-zheng-infinite-regress-arguments-ross-cameron.md",
+      "new": "i/infinite-regress.md",
+      "slug": "infinite-regress"
+    },
+    {
+      "old": "i/wu-xian-infinity-kenny-easwaran-alan-hjek-paolo-mancosu-and-graham-oppy.md",
+      "new": "i/infinity.md",
+      "slug": "infinity"
+    },
+    {
+      "old": "i/xin-xi-information-pieter-adriaans/README.md",
+      "new": "information/README.md",
+      "slug": "information"
+    },
+    {
+      "old": "i/zhi-qing-tong-yi-informed-consent-nir-eyal.md",
+      "new": "i/informed-consent.md",
+      "slug": "informed-consent"
+    },
+    {
+      "old": "i/luo-man-ying-qie-deng-ingarden-roman-amie-thomasson.md",
+      "new": "i/ingarden.md",
+      "slug": "ingarden"
+    },
+    {
+      "old": "i/yi-chuan-xi-tong-inheritance-systems-ehud-lamm.md",
+      "new": "i/inheritance-systems.md",
+      "slug": "inheritance-systems"
+    },
+    {
+      "old": "i/xian-tian-hou-tian-de-qu-fen-innateacquired-distinction-paul-griffiths-and-stefan-linquist.md",
+      "new": "i/innate-acquired.md",
+      "slug": "innate-acquired"
+    },
+    {
+      "old": "i/nei-bu-yu-yan-inner-speech-daniel-gregory-and-peter-langlandhassan.md",
+      "new": "i/inner-speech.md",
+      "slug": "inner-speech"
+    },
+    {
+      "old": "i/bu-ke-jie-insolubles-insolubilia-paul-vincent-spade-and-stephen-read.md",
+      "new": "i/insolubles.md",
+      "slug": "insolubles"
+    },
+    {
+      "old": "i/cheng-xin-integrity-damian-cox-marguerite-la-caze-and-michael-levine.md",
+      "new": "i/integrity.md",
+      "slug": "integrity"
+    },
+    {
+      "old": "i/nei-han-ji-wu-dong-ci-intensional-transitive-verbs-graeme-forbes.md",
+      "new": "i/intensional-trans-verbs.md",
+      "slug": "intensional-trans-verbs"
+    },
+    {
+      "old": "i/yi-xiang-intention-kieran-setiya.md",
+      "new": "i/intention.md",
+      "slug": "intention"
+    },
+    {
+      "old": "i/yi-xiang-xing-intentionality-pierre-jacob/README.md",
+      "new": "intentionality/README.md",
+      "slug": "intentionality"
+    },
+    {
+      "old": "i/guo-ji-fa-zhe-xue-international-law-philosophy-of-john-tasioulas-and-guglielmo-verdirame.md",
+      "new": "i/international-law.md",
+      "slug": "international-law"
+    },
+    {
+      "old": "i/nei-zai-shu-xing-yu-wai-zai-shu-xing-intrinsic-vs.-extrinsic-properties-dan-marshall-and-brian-weath.md",
+      "new": "i/intrinsic-extrinsic.md",
+      "slug": "intrinsic-extrinsic"
+    },
+    {
+      "old": "i/nei-sheng-introspection-eric-schwitzgebel.md",
+      "new": "i/introspection.md",
+      "slug": "introspection"
+    },
+    {
+      "old": "i/zhi-jue-intuition-joel-pust.md",
+      "new": "i/intuition.md",
+      "slug": "intuition"
+    },
+    {
+      "old": "i/zhi-jue-zhu-yi-intuitionism/README.md",
+      "new": "intuitionism/README.md",
+      "slug": "intuitionism"
+    },
+    {
+      "old": "i/ai-sa-ke-ben-suo-luo-men-yi-se-lie-israeli-isaac-leonard-levin-r.-david-walker-and-shalom-sadik.md",
+      "new": "i/israeli.md",
+      "slug": "israeli"
+    },
+    {
+      "old": "p/yin-si-privacy-beate-roessler-and-judith-decew/README.md",
+      "new": "it-privacy/README.md",
+      "slug": "it-privacy"
+    },
+    {
+      "old": "j/qi-na-jiao-zhe-xue-jaina-philosophy-mariehlne-gorisse.md",
+      "new": "j/jaina-philosophy.md",
+      "slug": "jaina-philosophy"
+    },
+    {
+      "old": "j/wei-lian-zhan-mu-si-james-william-russell-goodman.md",
+      "new": "j/james.md",
+      "slug": "james"
+    },
+    {
+      "old": "j/wei-tai-bo-de-zhan-mu-si-james-of-viterbo-antoine-ct.md",
+      "new": "j/james-viterbo.md",
+      "slug": "james-viterbo"
+    },
+    {
+      "old": "c/confucianism-ru-xue/README.md",
+      "new": "japanese-confucian/README.md",
+      "slug": "japanese-confucian"
+    },
+    {
+      "old": "j/ri-ben-zhe-xue-japanese-philosophy-thomas-kasulis/README.md",
+      "new": "japanese-philosophy/README.md",
+      "slug": "japanese-philosophy"
+    },
+    {
+      "old": "j/ka-er-ya-si-bei-er-si-jaspers-karl-chris-thornhill-and-ronny-miron.md",
+      "new": "j/jaspers.md",
+      "slug": "jaspers"
+    },
+    {
+      "old": "j/qie-ye-re-xi-ba-zha-jayari-piotr-balcerowicz.md",
+      "new": "j/jayaraasi.md",
+      "slug": "jayaraasi"
+    },
+    {
+      "old": "j/tuo-ma-si-jie-fei-xun-jefferson-thomas-m.-andrew-holowchak.md",
+      "new": "j/jefferson.md",
+      "slug": "jefferson"
+    },
+    {
+      "old": "j/suo-er-zi-bo-li-de-yue-han-john-of-salisbury-karen-bollermann-and-cary-nederman.md",
+      "new": "j/john-salisbury.md",
+      "slug": "john-salisbury"
+    },
+    {
+      "old": "j/pei-shen-tuan-ding-li-jury-theorems-franz-dietrich-and-kai-spiekermann.md",
+      "new": "j/jury-theorems.md",
+      "slug": "jury-theorems"
+    },
+    {
+      "old": "p/gong-gong-wei-sheng-public-health/README.md",
+      "new": "justification-public/README.md",
+      "slug": "justification-public"
+    },
+    {
+      "old": "k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/README.md",
+      "new": "kant/README.md",
+      "slug": "kant"
+    },
+    {
+      "old": "l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/README.md",
+      "new": "kant-leibniz/README.md",
+      "slug": "kant-leibniz"
+    },
+    {
+      "old": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/README.md",
+      "new": "kant-mathematics/README.md",
+      "slug": "kant-mathematics"
+    },
+    {
+      "old": "p/ke-xue-zhe-xue-philosophy-of-science/README.md",
+      "new": "kant-science/README.md",
+      "slug": "kant-science"
+    },
+    {
+      "old": "t/xian-yan-lun-zheng-transcendental-arguments-robert-stern-and-tony-cheng/README.md",
+      "new": "kant-transcendental/README.md",
+      "slug": "kant-transcendental"
+    },
+    {
+      "old": "k/yue-se-fu-yi-ben-ka-si-bi-kaspi-joseph-hannah-kasher-and-moshe-kahan.md",
+      "new": "k/kaspi-joseph.md",
+      "slug": "kaspi-joseph"
+    },
+    {
+      "old": "k/yue-han-nei-si-kai-pu-le-kepler-johannes-daniel-a.-di-liscia.md",
+      "new": "k/kepler.md",
+      "slug": "kepler"
+    },
+    {
+      "old": "k/suo-lun-ke-er-kai-guo-er-kierkegaard-sren-john-lippitt-and-c.-stephen-evans.md",
+      "new": "k/kierkegaard.md",
+      "slug": "kierkegaard"
+    },
+    {
+      "old": "k/li-cha-de-ji-er-wen-dun-kilvington-richard-elzbieta-jung.md",
+      "new": "k/kilvington.md",
+      "slug": "kilvington"
+    },
+    {
+      "old": "k/guan-yu-ru-he-zuo-mou-shi-de-zhi-shi-knowledge-how-carlotta-pavese.md",
+      "new": "k/knowledge-how.md",
+      "slug": "knowledge-how"
+    },
+    {
+      "old": "k/zhi-shi-de-jia-zhi-knowledge-value-of-duncan-pritchard-john-turri-and-j.-adam-carter.md",
+      "new": "k/knowledge-value.md",
+      "slug": "knowledge-value"
+    },
+    {
+      "old": "c/confucianism-ru-xue/README.md",
+      "new": "korean-confucianism/README.md",
+      "slug": "korean-confucianism"
+    },
+    {
+      "old": "k/han-guo-zhe-xue-korean-philosophy-halla-kim/README.md",
+      "new": "korean-philosophy/README.md",
+      "slug": "korean-philosophy"
+    },
+    {
+      "old": "k/jiu-mo-li-luo-ba-tuo-kumrila-daniel-arnold.md",
+      "new": "k/kumaarila.md",
+      "slug": "kumaarila"
+    },
+    {
+      "old": "l/lu-yi-de-la-fu-er-re-la-forge-louis-de-andrea-sangiacomo-and-desmond-clarke.md",
+      "new": "l/la-forge.md",
+      "slug": "la-forge"
+    },
+    {
+      "old": "l/ya-ke-la-kang-lacan-jacques-adrian-johnston.md",
+      "new": "l/lacan.md",
+      "slug": "lacan"
+    },
+    {
+      "old": "l/yi-mu-lei-la-ka-tuo-si-lakatos-imre-alan-musgrave-and-charles-pigden.md",
+      "new": "l/lakatos.md",
+      "slug": "lakatos"
+    },
+    {
+      "old": "l/yan-suan-lambda-calculus-the-jesse-alama-and-johannes-korbmacher.md",
+      "new": "l/lambda-calculus.md",
+      "slug": "lambda-calculus"
+    },
+    {
+      "old": "l/ou-sai-er-de-lan-bo-te-lambert-of-auxerre-sara-l.-uckelman.md",
+      "new": "l/lambert-auxerre.md",
+      "slug": "lambert-auxerre"
+    },
+    {
+      "old": "l/si-wei-yu-yan-jia-shuo-language-of-thought-hypothesis-michael-rescorla.md",
+      "new": "l/language-thought.md",
+      "slug": "language-thought"
+    },
+    {
+      "old": "l/lao-zi-laozi-alan-chan.md",
+      "new": "l/laozi.md",
+      "slug": "laozi"
+    },
+    {
+      "old": "l/da-ji-shu-he-que-ding-xing-jian-ji-he-lun-da-ji-shu-he-que-ding-xing-large-cardinals-and-determinacy.md",
+      "new": "l/large-cardinals-determinacy.md",
+      "slug": "large-cardinals-determinacy"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "latin-american-philosophy/README.md",
+      "slug": "latin-american-philosophy"
+    },
+    {
+      "old": "l/la-ding-zhe-xue-latinx-philosophy-manuel-vargas.md",
+      "new": "l/latinx.md",
+      "slug": "latinx"
+    },
+    {
+      "old": "l/fa-lv-de-jie-xian-limits-of-law-john-stantonife.md",
+      "new": "l/law-limits.md",
+      "slug": "law-limits"
+    },
+    {
+      "old": "l/zi-ran-fa-ze-laws-of-nature-john-w.-carroll/README.md",
+      "new": "lawphil-nature/README.md",
+      "slug": "lawphil-nature"
+    },
+    {
+      "old": "l/zi-ran-fa-ze-laws-of-nature-john-w.-carroll/README.md",
+      "new": "laws-of-nature/README.md",
+      "slug": "laws-of-nature"
+    },
+    {
+      "old": "l/xing-shi-hua-xue-xi-li-lun-learning-theory-formal-oliver-schulte.md",
+      "new": "l/learning-formal.md",
+      "slug": "learning-formal"
+    },
+    {
+      "old": "l/ya-ke-le-fei-fu-dai-ta-pu-le-lefvre-dtaples-jacques-richard-j.-oosterhoff.md",
+      "new": "l/lefevre-etaples.md",
+      "slug": "lefevre-etaples"
+    },
+    {
+      "old": "l/fa-lv-jie-shi-legal-interpretation-mark-greenberg.md",
+      "new": "l/legal-interpretation.md",
+      "slug": "legal-interpretation"
+    },
+    {
+      "old": "l/fa-lv-yi-wu-he-fa-lv-quan-wei-legal-obligation-and-authority-massimo-renzo-and-leslie-green.md",
+      "new": "l/legal-obligation.md",
+      "slug": "legal-obligation"
+    },
+    {
+      "old": "l/fa-lv-gai-ran-xing-legal-probabilism-rafal-urbaniak-and-marcello-di-bello.md",
+      "new": "l/legal-probabilism.md",
+      "slug": "legal-probabilism"
+    },
+    {
+      "old": "l/fa-lv-quan-li-legal-rights-ori-herstein.md",
+      "new": "l/legal-rights.md",
+      "slug": "legal-rights"
+    },
+    {
+      "old": "l/zheng-zhi-he-fa-xing-legitimacy-political-fabienne-peter.md",
+      "new": "l/legitimacy.md",
+      "slug": "legitimacy"
+    },
+    {
+      "old": "l/an-tuo-wan-le-ge-lan-de-le-grand-antoine-patricia-easton.md",
+      "new": "l/legrand.md",
+      "slug": "legrand"
+    },
+    {
+      "old": "l/ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-leibniz-gottfried-wilhelm-brandon-c.-look/README.md",
+      "new": "leibniz/README.md",
+      "slug": "leibniz"
+    },
+    {
+      "old": "c/yin-guo-guan-xi-causation/README.md",
+      "new": "leibniz-causation/README.md",
+      "slug": "leibniz-causation"
+    },
+    {
+      "old": "l/ye-sha-ya-hu-lai-bo-wei-ci-leibowitz-yeshayahu-daniel-rynhold.md",
+      "new": "l/leibowitz-yeshayahu.md",
+      "slug": "leibowitz-yeshayahu"
+    },
+    {
+      "old": "l/si-tan-ni-si-wa-fu-lei-si-nie-fu-si-ji-leniewski-stanisaw-peter-simons.md",
+      "new": "l/lesniewski.md",
+      "slug": "lesniewski"
+    },
+    {
+      "old": "l/liu-ji-bo-leucippus-sylvia-berryman.md",
+      "new": "l/leucippus.md",
+      "slug": "leucippus"
+    },
+    {
+      "old": "l/sheng-wu-xue-zhong-de-zu-zhi-ceng-ji-levels-of-organization-in-biology-markus-i.-eronen-and-daniel-s.md",
+      "new": "l/levels-org-biology.md",
+      "slug": "levels-org-biology"
+    },
+    {
+      "old": "l/yi-man-niu-er-lie-wei-na-si-levinas-emmanuel-bettina-bergo.md",
+      "new": "l/levinas.md",
+      "slug": "levinas"
+    },
+    {
+      "old": "l/ke-la-lun-si-ou-wen-liu-yi-si-lewis-clarence-irving-bruce-hunter.md",
+      "new": "l/lewis-ci.md",
+      "slug": "lewis-ci"
+    },
+    {
+      "old": "l/shuo-huang-zhe-bei-lun-liar-paradox-jc-beall-michael-glanzberg-and-david-ripley.md",
+      "new": "l/liar-paradox.md",
+      "slug": "liar-paradox"
+    },
+    {
+      "old": "l/zi-you-zhu-yi-liberalism-shane-d.-courtland-gerald-gaus-and-david-schmidtz/README.md",
+      "new": "liberalism/README.md",
+      "slug": "liberalism"
+    },
+    {
+      "old": "l/jie-fang-zhe-xue-liberation-philosophy-of-eduardo-mendieta.md",
+      "new": "l/liberation.md",
+      "slug": "liberation"
+    },
+    {
+      "old": "l/zi-you-zhi-shang-zhu-yi-libertarianism-bas-van-der-vossen-and-billy-christmas.md",
+      "new": "l/libertarianism.md",
+      "slug": "libertarianism"
+    },
+    {
+      "old": "l/sheng-ming-life-carlos-mariscal/README.md",
+      "new": "life/README.md",
+      "slug": "life"
+    },
+    {
+      "old": "l/yu-yan-xue-linguistics/README.md",
+      "new": "linguistics/README.md",
+      "slug": "linguistics"
+    },
+    {
+      "old": "l/la-man-lu-er-llull-ramon-ernesto-priani.md",
+      "new": "l/llull.md",
+      "slug": "llull"
+    },
+    {
+      "old": "l/wei-zhi-yu-fen-ti-lun-location-and-mereology-cody-gilmore-claudio-calosi-and-damiano-costa.md",
+      "new": "l/location-mereology.md",
+      "slug": "location-mereology"
+    },
+    {
+      "old": "l/yue-han-luo-ke-locke-john-william-uzgalis/README.md",
+      "new": "locke/README.md",
+      "slug": "locke"
+    },
+    {
+      "old": "p/ren-ge-tong-yi-xing-personal-identity-eric-t.-olson/README.md",
+      "new": "locke-personal-identity/README.md",
+      "slug": "locke-personal-identity"
+    },
+    {
+      "old": "p/ke-xue-zhe-xue-philosophy-of-science/README.md",
+      "new": "locke-philosophy-science/README.md",
+      "slug": "locke-philosophy-science"
+    },
+    {
+      "old": "p/zheng-zhi-zhe-xue-political-philosophy/README.md",
+      "new": "locke-political/README.md",
+      "slug": "locke-political"
+    },
+    {
+      "old": "r/hang-dong-de-li-you-reasons-for-action/README.md",
+      "new": "logic-action/README.md",
+      "slug": "logic-action"
+    },
+    {
+      "old": "i/yin-du-zhe-xue-indian-philosophy-classical/README.md",
+      "new": "logic-classical/README.md",
+      "slug": "logic-classical"
+    },
+    {
+      "old": "c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/README.md",
+      "new": "logic-conditionals/README.md",
+      "slug": "logic-conditionals"
+    },
+    {
+      "old": "l/luo-ji-xue-logic/README.md",
+      "new": "logic-india/README.md",
+      "slug": "logic-india"
+    },
+    {
+      "old": "j/zhi-shi-zheng-cheng-justification-epistemic/README.md",
+      "new": "logic-justification/README.md",
+      "slug": "logic-justification"
+    },
+    {
+      "old": "l/luo-ji-shi-logic-history-of/README.md",
+      "new": "logic-massexpress/README.md",
+      "slug": "logic-massexpress"
+    },
+    {
+      "old": "m/mo-tai-modality/README.md",
+      "new": "logic-modal/README.md",
+      "slug": "logic-modal"
+    },
+    {
+      "old": "l/luo-ji-de-gui-fan-di-wei-logic-normative-status-of-florian-steinberger.md",
+      "new": "l/logic-normative.md",
+      "slug": "logic-normative"
+    },
+    {
+      "old": "l/luo-ji-yu-ben-ti-lun-logic-and-ontology-thomas-hofweber.md",
+      "new": "l/logic-ontology.md",
+      "slug": "logic-ontology"
+    },
+    {
+      "old": "l/luo-ji-yuan-zi-zhu-yi-logical-atomism/README.md",
+      "new": "logical-atomism/README.md",
+      "slug": "logical-atomism"
+    },
+    {
+      "old": "l/luo-ji-chang-xiang-logical-constants-john-macfarlane.md",
+      "new": "l/logical-constants.md",
+      "slug": "logical-constants"
+    },
+    {
+      "old": "l/luo-ji-gou-zao-logical-constructions-bernard-linsky.md",
+      "new": "l/logical-construction.md",
+      "slug": "logical-construction"
+    },
+    {
+      "old": "l/luo-ji-xing-shi-logical-form-paul-pietroski.md",
+      "new": "l/logical-empiricism.md",
+      "slug": "logical-empiricism"
+    },
+    {
+      "old": "l/luo-ji-xing-shi-logical-form-paul-pietroski.md",
+      "new": "l/logical-form.md",
+      "slug": "logical-form"
+    },
+    {
+      "old": "l/luo-ji-duo-yuan-zhu-yi-logical-pluralism-gillian-russell-and-christopher-blaketurner.md",
+      "new": "l/logical-pluralism.md",
+      "slug": "logical-pluralism"
+    },
+    {
+      "old": "l/luo-ji-zhen-li-logical-truth-mario-gmeztorrente.md",
+      "new": "l/logical-truth.md",
+      "slug": "logical-truth"
+    },
+    {
+      "old": "l/luo-ji-zhu-yi-he-xin-luo-ji-zhu-yi-logicism-and-neologicism-neil-tennant.md",
+      "new": "l/logicism.md",
+      "slug": "logicism"
+    },
+    {
+      "old": "l/zhong-cheng-loyalty-john-kleinig.md",
+      "new": "l/loyalty.md",
+      "slug": "loyalty"
+    },
+    {
+      "old": "l/lu-ke-lai-xiu-lucretius-simon-trpanier.md",
+      "new": "l/lucretius.md",
+      "slug": "lucretius"
+    },
+    {
+      "old": "l/ge-ao-er-ge-lu-ka-qi-lukcs-georg-gyrgy-titus-stahl.md",
+      "new": "l/lukacs.md",
+      "slug": "lukacs"
+    },
+    {
+      "old": "l/yang-lu-ka-xie-wei-qi-ukasiewicz-jan-peter-simons.md",
+      "new": "l/lukasiewicz.md",
+      "slug": "lukasiewicz"
+    },
+    {
+      "old": "l/ma-ding-lu-de-luther-martin-robert-stern/README.md",
+      "new": "luther/README.md",
+      "slug": "luther"
+    },
+    {
+      "old": "l/luo-suo-lu-sen-bao-luxemburg-rosa-lea-ypi.md",
+      "new": "l/luxemburg.md",
+      "slug": "luxemburg"
+    },
+    {
+      "old": "l/hua-sha-xue-pai-lvovwarsaw-school-jan-woleski.md",
+      "new": "l/lvov-warsaw.md",
+      "slug": "lvov-warsaw"
+    },
+    {
+      "old": "l/rang-fu-lang-suo-wa-li-ao-ta-lyotard-jean-franois-peter-gratton.md",
+      "new": "l/lyotard.md",
+      "slug": "lyotard"
+    },
+    {
+      "old": "m/ni-ke-luo-ma-ji-ya-wei-li-machiavelli-niccol-cary-nederman.md",
+      "new": "m/machiavelli.md",
+      "slug": "machiavelli"
+    },
+    {
+      "old": "m/hong-guan-jin-hua-zhe-xue-macroevolution-philosophy-of-derek-turner-and-joyce-c.-havstad.md",
+      "new": "m/macroevolution.md",
+      "slug": "macroevolution"
+    },
+    {
+      "old": "m/zhong-guan-madhyamaka-richard-hayes.md",
+      "new": "m/madhyamaka.md",
+      "slug": "madhyamaka"
+    },
+    {
+      "old": "m/mai-meng-ni-de-maimonides-kenneth-seeskin/README.md",
+      "new": "maimon/README.md",
+      "slug": "maimon"
+    },
+    {
+      "old": "m/mai-meng-ni-de-maimonides-kenneth-seeskin/README.md",
+      "new": "maimonides/README.md",
+      "slug": "maimonides"
+    },
+    {
+      "old": "m/en-si-te-ma-li-mally-ernst-alexander-hieke-and-gerhard-zecha/README.md",
+      "new": "mally/README.md",
+      "slug": "mally"
+    },
+    {
+      "old": "m/jia-bu-li-ai-er-ma-sai-er-marcel-gabriel-honor-brian-treanor-and-brendan-sweetman.md",
+      "new": "m/marcel.md",
+      "slug": "marcel"
+    },
+    {
+      "old": "m/ma-ke-ao-le-liu-marcus-aurelius-rachana-kamtekar.md",
+      "new": "m/marcus-aurelius.md",
+      "slug": "marcus-aurelius"
+    },
+    {
+      "old": "m/he-bo-te-ma-er-ku-sai-marcuse-herbert-arnold-farr.md",
+      "new": "m/marcuse.md",
+      "slug": "marcuse"
+    },
+    {
+      "old": "m/ya-ke-ma-li-tan-maritain-jacques-william-sweet.md",
+      "new": "m/maritain.md",
+      "slug": "maritain"
+    },
+    {
+      "old": "m/shi-chang-markets-lisa-herzog.md",
+      "new": "m/markets.md",
+      "slug": "markets"
+    },
+    {
+      "old": "m/hun-yin-he-tong-ju-ban-lv-marriage-and-domestic-partnership-elizabeth-brake.md",
+      "new": "m/marriage.md",
+      "slug": "marriage"
+    },
+    {
+      "old": "m/yin-gen-de-ma-xi-li-wu-si-marsilius-of-inghen-maarten-hoenen.md",
+      "new": "m/marsilius-inghen.md",
+      "slug": "marsilius-inghen"
+    },
+    {
+      "old": "m/an-dong-ma-di-marty-anton-robin-rollinger-and-hynek-janousek.md",
+      "new": "m/marty.md",
+      "slug": "marty"
+    },
+    {
+      "old": "m/fen-xi-ma-ke-si-zhu-yi-marxism-analytical-david-leopold.md",
+      "new": "m/marx.md",
+      "slug": "marx"
+    },
+    {
+      "old": "m/fen-xi-ma-ke-si-zhu-yi-marxism-analytical-david-leopold.md",
+      "new": "m/marxism-analytical.md",
+      "slug": "marxism-analytical"
+    },
+    {
+      "old": "m/wu-zhi-gou-cheng-material-constitution-ryan-wasserman.md",
+      "new": "m/material-constitution.md",
+      "slug": "material-constitution"
+    },
+    {
+      "old": "e/jie-shi-explanation/README.md",
+      "new": "mathematics-explanation/README.md",
+      "slug": "mathematics-explanation"
+    },
+    {
+      "old": "m/yue-han-mai-ke-ta-jia-te-mctaggart-john-m.-e.-kris-mcdaniel.md",
+      "new": "m/mctaggart.md",
+      "slug": "mctaggart"
+    },
+    {
+      "old": "m/qiao-zhi-he-bo-te-mi-de-mead-george-herbert-mitchell-aboulafia-and-scott-taylor.md",
+      "new": "m/mead.md",
+      "slug": "mead"
+    },
+    {
+      "old": "m/yi-yi-meaning/README.md",
+      "new": "meaning/README.md",
+      "slug": "meaning"
+    },
+    {
+      "old": "m/yi-yi-zheng-ti-lun-meaning-holism-henry-jackman.md",
+      "new": "m/meaning-holism.md",
+      "slug": "meaning-holism"
+    },
+    {
+      "old": "c/liang-xin-conscience-alberto-giubilini/README.md",
+      "new": "measurement-science/README.md",
+      "slug": "measurement-science"
+    },
+    {
+      "old": "m/yi-xue-zhe-xue-medicine-philosophy-of-julian-reiss-and-rachel-a.-ankeny.md",
+      "new": "m/medicine.md",
+      "slug": "medicine"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "medieval-emotions/README.md",
+      "slug": "medieval-emotions"
+    },
+    {
+      "old": "m/zhong-shi-ji-zhe-xue-medieval-philosophy-john-marenbon/README.md",
+      "new": "medieval-philosophy/README.md",
+      "slug": "medieval-philosophy"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "medieval-political/README.md",
+      "slug": "medieval-political"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "medieval-syllogism/README.md",
+      "slug": "medieval-syllogism"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "medieval-terms/README.md",
+      "slug": "medieval-terms"
+    },
+    {
+      "old": "m/ya-li-ke-xiu-si-mai-nong-meinong-alexius-johann-marek.md",
+      "new": "m/meinong.md",
+      "slug": "meinong"
+    },
+    {
+      "old": "m/ai-ke-ha-te-da-shi-meister-eckhart-amber-l.-griffioen.md",
+      "new": "m/meister-eckhart.md",
+      "slug": "meister-eckhart"
+    },
+    {
+      "old": "m/ji-yi-memory-kourken-michaelian-and-john-sutton/README.md",
+      "new": "memory/README.md",
+      "slug": "memory"
+    },
+    {
+      "old": "m/meng-zi-mencius-bryan-van-norden.md",
+      "new": "m/mencius.md",
+      "slug": "mencius"
+    },
+    {
+      "old": "m/mo-xi-men-de-er-song-mendelssohn-moses-daniel-dahlstrom.md",
+      "new": "m/mendelssohn.md",
+      "slug": "mendelssohn"
+    },
+    {
+      "old": "m/xin-ling-yin-guo-mental-causation-david-robb-john-heil-and-sophie-gibb.md",
+      "new": "m/mental-causation.md",
+      "slug": "mental-causation"
+    },
+    {
+      "old": "m/jing-shen-zhang-ai-jing-shen-ji-bing-mental-disorder-jennifer-radden.md",
+      "new": "m/mental-disorder.md",
+      "slug": "mental-disorder"
+    },
+    {
+      "old": "m/xin-li-yi-xiang-mental-imagery-bence-nanay.md",
+      "new": "m/mental-imagery.md",
+      "slug": "mental-imagery"
+    },
+    {
+      "old": "m/xin-li-biao-zheng-mental-representation-david-pitt/README.md",
+      "new": "mental-representation/README.md",
+      "slug": "mental-representation"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "mereology-medieval/README.md",
+      "slug": "mereology-medieval"
+    },
+    {
+      "old": "m/you-ji-zhu-yi-meritocracy-thomas-mulligan.md",
+      "new": "m/meritocracy.md",
+      "slug": "meritocracy"
+    },
+    {
+      "old": "m/mo-li-si-mei-luo-pang-di-merleauponty-maurice-ted-toadvine.md",
+      "new": "m/merleau-ponty.md",
+      "slug": "merleau-ponty"
+    },
+    {
+      "old": "m/ma-lan-mei-sen-mersenne-marin-philippe-hamou.md",
+      "new": "m/mersenne.md",
+      "slug": "mersenne"
+    },
+    {
+      "old": "m/yuan-ren-shi-lun-metaepistemology-j.-adam-carter-and-ernest-sosa.md",
+      "new": "m/metaepistemology.md",
+      "slug": "metaepistemology"
+    },
+    {
+      "old": "m/yuan-lun-li-xue-metaethics-geoff-sayremccord.md",
+      "new": "m/metaethics.md",
+      "slug": "metaethics"
+    },
+    {
+      "old": "m/yin-yu-metaphor-david-hills.md",
+      "new": "m/metaphor.md",
+      "slug": "metaphor"
+    },
+    {
+      "old": "m/xing-er-shang-xue-jie-shi-metaphysical-explanation-andrew-brenner-annasofia-maurin-alexander-skiles.md",
+      "new": "m/metaphysical-explanation.md",
+      "slug": "metaphysical-explanation"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "metaphysics/README.md",
+      "slug": "metaphysics"
+    },
+    {
+      "old": "m/wei-sheng-wu-xue-zhe-xue-microbiology-philosophy-of-maureen-a.-omalley-and-emily-c.-parke.md",
+      "new": "m/microbiology.md",
+      "slug": "microbiology"
+    },
+    {
+      "old": "m/ha-li-ya-te-tai-le-mi-er-mill-harriet-taylor-dale-e.-miller.md",
+      "new": "m/mill.md",
+      "slug": "mill"
+    },
+    {
+      "old": "m/xin-nao-tong-yi-lun-mindbrain-identity-theory-j.-j.-c.-smart.md",
+      "new": "m/mind-identity.md",
+      "slug": "mind-identity"
+    },
+    {
+      "old": "m/qi-ji-miracles-timothy-mcgrew.md",
+      "new": "m/miracles.md",
+      "slug": "miracles"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "modality-medieval/README.md",
+      "slug": "modality-medieval"
+    },
+    {
+      "old": "m/mo-xing-lun-model-theory-wilfrid-hodges/README.md",
+      "new": "model-theory/README.md",
+      "slug": "model-theory"
+    },
+    {
+      "old": "m/ke-xue-mo-xing-models-in-science-roman-frigg-and-stephan-hartmann.md",
+      "new": "m/models-science.md",
+      "slug": "models-science"
+    },
+    {
+      "old": "m/qian-xu-yu-qian-xun-modesty-and-humility-nicolas-bommarito.md",
+      "new": "m/modesty-humility.md",
+      "slug": "modesty-humility"
+    },
+    {
+      "old": "m/fen-zi-sheng-wu-xue-molecular-biology-tudor-baetu-monika-piotrowska-and-james-tabery.md",
+      "new": "m/molecular-biology.md",
+      "slug": "molecular-biology"
+    },
+    {
+      "old": "m/mo-li-niu-ke-si-wen-ti-molyneuxs-problem-marjolein-degenaar-and-gertjan-lokhorst.md",
+      "new": "m/molyneux-problem.md",
+      "slug": "molyneux-problem"
+    },
+    {
+      "old": "m/huo-bi-yu-jin-rong-zhe-xue-money-and-finance-philosophy-of-boudewijn-de-bruin-lisa-herzog-martin-one.md",
+      "new": "m/money-finance.md",
+      "slug": "money-finance"
+    },
+    {
+      "old": "m/yi-shen-lun-monotheism-william-wainwright.md",
+      "new": "m/monotheism.md",
+      "slug": "monotheism"
+    },
+    {
+      "old": "m/mi-xie-er-de-meng-tian-montaigne-michel-de-marc-foglia-and-emiliano-ferrari.md",
+      "new": "m/montaigne.md",
+      "slug": "montaigne"
+    },
+    {
+      "old": "m/xia-er-lu-yi-de-sai-kong-da-la-bu-lei-de-yu-meng-de-si-jiu-nan-jue-montesquieu-charleslouis-de-secon.md",
+      "new": "m/montesquieu.md",
+      "slug": "montesquieu"
+    },
+    {
+      "old": "m/dao-de-fan-shi-zai-lun-moral-antirealism-richard-joyce.md",
+      "new": "m/moral-anti-realism.md",
+      "slug": "moral-anti-realism"
+    },
+    {
+      "old": "c/dao-de-pin-zhi-character-moral-marcia-homiak/README.md",
+      "new": "moral-character/README.md",
+      "slug": "moral-character"
+    },
+    {
+      "old": "m/dao-de-xi-su-qu-fen-moralconventional-distinction-edouard-machery-and-stephen-stich.md",
+      "new": "m/moral-conventional.md",
+      "slug": "moral-conventional"
+    },
+    {
+      "old": "m/bu-que-ding-xing-xia-de-dao-de-jue-ce-moral-decisionmaking-under-uncertainty-christian-tarsney-teruj.md",
+      "new": "m/moral-decision-uncertainty.md",
+      "slug": "moral-decision-uncertainty"
+    },
+    {
+      "old": "m/dao-de-kun-jing-moral-dilemmas-terrance-mcconnell.md",
+      "new": "m/moral-dilemmas.md",
+      "slug": "moral-dilemmas"
+    },
+    {
+      "old": "m/dao-de-ren-shi-lun-moral-epistemology-richmond-campbell/README.md",
+      "new": "moral-epistemology/README.md",
+      "slug": "moral-epistemology"
+    },
+    {
+      "old": "m/dao-de-morality/README.md",
+      "new": "moral-luck/README.md",
+      "slug": "moral-luck"
+    },
+    {
+      "old": "m/dao-de-dong-ji-moral-motivation-connie-s.-rosati.md",
+      "new": "m/moral-motivation.md",
+      "slug": "moral-motivation"
+    },
+    {
+      "old": "m/dao-de-fei-zi-ran-zhu-yi-moral-nonnaturalism-michael-ridge.md",
+      "new": "m/moral-non-naturalism.md",
+      "slug": "moral-non-naturalism"
+    },
+    {
+      "old": "m/dao-de-te-shu-zhu-yi-moral-particularism-jonathan-dancy/README.md",
+      "new": "moral-particularism/README.md",
+      "slug": "moral-particularism"
+    },
+    {
+      "old": "e/jing-yan-zhu-yi-fang-fa-empirical-approaches/README.md",
+      "new": "moral-psych-emp/README.md",
+      "slug": "moral-psych-emp"
+    },
+    {
+      "old": "m/dao-de-shi-zai-lun-moral-realism-geoff-sayremccord.md",
+      "new": "m/moral-realism.md",
+      "slug": "moral-realism"
+    },
+    {
+      "old": "m/dao-de-xiang-dui-zhu-yi-moral-relativism-chris-gowans.md",
+      "new": "m/moral-relativism.md",
+      "slug": "moral-relativism"
+    },
+    {
+      "old": "m/dao-de-ze-ren-moral-responsibility-matthew-talbert/README.md",
+      "new": "moral-responsibility/README.md",
+      "slug": "moral-responsibility"
+    },
+    {
+      "old": "m/dao-de-qing-gan-zhu-yi-moral-sentimentalism-antti-kauppinen.md",
+      "new": "m/moral-sentimentalism.md",
+      "slug": "moral-sentimentalism"
+    },
+    {
+      "old": "m/dao-de-li-lun-moral-theory-julia-driver.md",
+      "new": "m/moral-theory.md",
+      "slug": "moral-theory"
+    },
+    {
+      "old": "m/dao-de-de-ding-yi-morality-definition-of-bernard-gert-and-joshua-gert.md",
+      "new": "m/morality-definition.md",
+      "slug": "morality-definition"
+    },
+    {
+      "old": "m/mao-la-sa-de-la-mulla-sadra-sajjad-rizvi.md",
+      "new": "m/mulla-sadra.md",
+      "slug": "mulla-sadra"
+    },
+    {
+      "old": "m/duo-yuan-wen-hua-zhu-yi-multiculturalism-sarah-song.md",
+      "new": "m/multiculturalism.md",
+      "slug": "multiculturalism"
+    },
+    {
+      "old": "m/duo-zhong-ke-shi-xian-xing-multiple-realizability-john-bickle.md",
+      "new": "m/multiple-realizability.md",
+      "slug": "multiple-realizability"
+    },
+    {
+      "old": "m/ai-li-si-mo-duo-ke-murdoch-iris-lawrence-blum.md",
+      "new": "m/murdoch.md",
+      "slug": "murdoch"
+    },
+    {
+      "old": "m/yin-le-music/README.md",
+      "new": "music/README.md",
+      "slug": "music"
+    },
+    {
+      "old": "m/shen-mi-zhu-yi-mysticism-richard-jones-and-jerome-gellman.md",
+      "new": "m/mysticism.md",
+      "slug": "mysticism"
+    },
+    {
+      "old": "n/long-shu-ngrjuna-jan-christoph-westerhoff.md",
+      "new": "n/nagarjuna.md",
+      "slug": "nagarjuna"
+    },
+    {
+      "old": "n/ming-ci-names-sam-cumming.md",
+      "new": "n/names.md",
+      "slug": "names"
+    },
+    {
+      "old": "n/guo-jia-zhu-yi-nationalism-nenad-miscevic.md",
+      "new": "n/nationalism.md",
+      "slug": "nationalism"
+    },
+    {
+      "old": "n/bao-luo-na-tuo-er-pu-natorp-paul-alan-kim.md",
+      "new": "n/natorp.md",
+      "slug": "natorp"
+    },
+    {
+      "old": "n/luo-ji-xue-zhong-de-zi-ran-yan-yi-xi-tong-natural-deduction-systems-in-logic-francis-jeffry-pelletie.md",
+      "new": "n/natural-deduction.md",
+      "slug": "natural-deduction"
+    },
+    {
+      "old": "n/zi-ran-lei-natural-kinds-alexander-bird-and-emma-tobin.md",
+      "new": "n/natural-kinds.md",
+      "slug": "natural-kinds"
+    },
+    {
+      "old": "n/zi-ran-fa-natural-law/README.md",
+      "new": "natural-properties/README.md",
+      "slug": "natural-properties"
+    },
+    {
+      "old": "n/zi-ran-xuan-ze-natural-selection-peter-gildenhuys/README.md",
+      "new": "natural-selection/README.md",
+      "slug": "natural-selection"
+    },
+    {
+      "old": "n/zi-ran-zhu-yi-naturalism-david-papineau/README.md",
+      "new": "naturalism-india/README.md",
+      "slug": "naturalism-india"
+    },
+    {
+      "old": "n/zi-ran-zhu-yi-naturalism-david-papineau/README.md",
+      "new": "naturalism-mathematics/README.md",
+      "slug": "naturalism-mathematics"
+    },
+    {
+      "old": "m/dao-de-morality/README.md",
+      "new": "naturalism-moral/README.md",
+      "slug": "naturalism-moral"
+    },
+    {
+      "old": "n/bi-yao-tiao-jian-he-chong-fen-tiao-jian-necessary-and-sufficient-conditions-andrew-brennan.md",
+      "new": "n/necessary-sufficient.md",
+      "slug": "necessary-sufficient"
+    },
+    {
+      "old": "n/dao-de-yu-zheng-zhi-zhe-xue-zhong-de-xu-qiu-needs-in-moral-and-political-philosophy-gillian-brock-an.md",
+      "new": "n/needs.md",
+      "slug": "needs"
+    },
+    {
+      "old": "n/fou-ding-negation-laurence-r.-horn-and-heinrich-wansing.md",
+      "new": "n/negation.md",
+      "slug": "negation"
+    },
+    {
+      "old": "n/hei-ren-xing-ngritude-souleymane-bachir-diagne.md",
+      "new": "n/negritude.md",
+      "slug": "negritude"
+    },
+    {
+      "old": "n/xuan-xue-neodaoism-alan-chan.md",
+      "new": "n/neo-daoism.md",
+      "slug": "neo-daoism"
+    },
+    {
+      "old": "n/xin-kang-de-zhu-yi-neokantianism-jeremy-heis.md",
+      "new": "n/neo-kantianism.md",
+      "slug": "neo-kantianism"
+    },
+    {
+      "old": "n/xin-zi-you-zhu-yi-neoliberalism-kevin-vallier.md",
+      "new": "n/neoliberalism.md",
+      "slug": "neoliberalism"
+    },
+    {
+      "old": "n/xin-bai-la-tu-zhu-yi-neoplatonism-christian-wildberg.md",
+      "new": "n/neoplatonism.md",
+      "slug": "neoplatonism"
+    },
+    {
+      "old": "n/ao-tu-niu-la-te-neurath-otto-jordi-cat.md",
+      "new": "n/neurath.md",
+      "slug": "neurath"
+    },
+    {
+      "old": "n/shen-jing-lun-li-xue-neuroethics-adina-roskies.md",
+      "new": "n/neuroethics.md",
+      "slug": "neuroethics"
+    },
+    {
+      "old": "n/shen-jing-ke-xue-zhe-xue-neuroscience-philosophy-of-john-bickle-peter-mandik-and-anthony-landreth.md",
+      "new": "n/neuroscience.md",
+      "slug": "neuroscience"
+    },
+    {
+      "old": "n/zhong-li-yi-yuan-lun-neutral-monism-leopold-stubenberg-and-donovan-wishon.md",
+      "new": "n/neutral-monism.md",
+      "slug": "neutral-monism"
+    },
+    {
+      "old": "l/fa-zhe-xue-legal-philosophy/README.md",
+      "new": "newton-philosophy/README.md",
+      "slug": "newton-philosophy"
+    },
+    {
+      "old": "n/fu-li-de-li-xi-ni-cai-nietzsche-friedrich-r.-lanier-anderson/README.md",
+      "new": "nietzsche/README.md",
+      "slug": "nietzsche"
+    },
+    {
+      "old": "n/dao-de-yu-zheng-zhi-zhe-xue-zhong-de-xu-qiu-needs-in-moral-and-political-philosophy-gillian-brock-an.md",
+      "new": "n/nietzsche-moral-political.md",
+      "slug": "nietzsche-moral-political"
+    },
+    {
+      "old": "n/xi-tian-ji-duo-lang-nishida-kitar-john-c.-maraldo.md",
+      "new": "n/nishida-kitaro.md",
+      "slug": "nishida-kitaro"
+    },
+    {
+      "old": "n/wei-ming-lun-nominalism/README.md",
+      "new": "nominalism-mathematics/README.md",
+      "slug": "nominalism-mathematics"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "nominalism-metaphysics/README.md",
+      "slug": "nominalism-metaphysics"
+    },
+    {
+      "old": "n/fei-cun-zai-dui-xiang-nonexistent-objects-maria-reicher.md",
+      "new": "n/nonexistent-objects.md",
+      "slug": "nonexistent-objects"
+    },
+    {
+      "old": "n/fei-tong-yi-xing-wen-ti-nonidentity-problem-m.-a.-roberts.md",
+      "new": "n/nonidentity-problem.md",
+      "slug": "nonidentity-problem"
+    },
+    {
+      "old": "n/xu-wu-nothingness-roy-sorensen.md",
+      "new": "n/nothingness.md",
+      "slug": "nothingness"
+    },
+    {
+      "old": "n/ge-ao-er-ge-fei-li-pu-fu-li-de-li-xi-fu-lai-he-er-feng-ha-deng-bei-ge-nuo-wa-li-si-novalis-georg-fri.md",
+      "new": "n/novalis.md",
+      "slug": "novalis"
+    },
+    {
+      "old": "p/zheng-zhi-zhe-xue-political-philosophy/README.md",
+      "new": "nozick-political/README.md",
+      "slug": "nozick-political"
+    },
+    {
+      "old": "n/a-pa-mi-ya-de-nu-mei-ni-wu-si-numenius-george-karamanolis.md",
+      "new": "n/numenius.md",
+      "slug": "numenius"
+    },
+    {
+      "old": "o/mai-ke-er-ao-ke-xiao-te-oakeshott-michael-terry-nardin.md",
+      "new": "o/oakeshott.md",
+      "slug": "oakeshott"
+    },
+    {
+      "old": "o/ke-guan-xing-objectivity/README.md",
+      "new": "object/README.md",
+      "slug": "object"
+    },
+    {
+      "old": "o/zhong-shi-ji-de-yi-wu-li-lun-obligationes-medieval-theories-of-mikko-yrjnsuuri.md",
+      "new": "o/obligationes.md",
+      "slug": "obligationes"
+    },
+    {
+      "old": "o/ou-yin-lun-occasionalism-sukjae-lee.md",
+      "new": "o/occasionalism.md",
+      "slug": "occasionalism"
+    },
+    {
+      "old": "o/ao-ka-mu-de-wei-lian-ockham-occam-william-paul-vincent-spade-and-claude-panaccio.md",
+      "new": "o/ockham.md",
+      "slug": "ockham"
+    },
+    {
+      "old": "o/bi-de-yue-han-ao-li-wei-olivi-peter-john-robert-pasnau-and-juhana-toivanen.md",
+      "new": "o/olivi.md",
+      "slug": "olivi"
+    },
+    {
+      "old": "o/ao-lin-pi-ao-duo-luo-si-olympiodorus-christian-wildberg.md",
+      "new": "o/olympiodorus.md",
+      "slug": "olympiodorus"
+    },
+    {
+      "old": "o/quan-neng-omnipotence-joshua-hoffman-and-gary-rosenkrantz.md",
+      "new": "o/omnipotence.md",
+      "slug": "omnipotence"
+    },
+    {
+      "old": "o/quan-zai-omnipresence-edward-wierenga.md",
+      "new": "o/omnipresence.md",
+      "slug": "omnipresence"
+    },
+    {
+      "old": "o/quan-zhi-omniscience-edward-wierenga.md",
+      "new": "o/omniscience.md",
+      "slug": "omniscience"
+    },
+    {
+      "old": "o/ben-ti-lun-zheng-ming-ontological-arguments-graham-oppy.md",
+      "new": "o/ontological-arguments.md",
+      "slug": "ontological-arguments"
+    },
+    {
+      "old": "o/ben-ti-lun-cheng-nuo-ontological-commitment-phillip-bricker.md",
+      "new": "o/ontological-commitment.md",
+      "slug": "ontological-commitment"
+    },
+    {
+      "old": "o/cao-zuo-zhu-yi-operationalism-hasok-chang.md",
+      "new": "o/operationalism.md",
+      "slug": "operationalism"
+    },
+    {
+      "old": "o/ri-chang-dui-xiang-ordinary-objects-daniel-z.-korman.md",
+      "new": "o/ordinary-objects.md",
+      "slug": "ordinary-objects"
+    },
+    {
+      "old": "o/ao-li-jin-origen-mark-j.-edwards.md",
+      "new": "o/origen.md",
+      "slug": "origen"
+    },
+    {
+      "old": "o/yuan-chu-zhuang-tai-original-position-samuel-freeman.md",
+      "new": "o/original-position.md",
+      "slug": "original-position"
+    },
+    {
+      "old": "o/ta-xin-wen-ti-other-minds-anita-avramides.md",
+      "new": "o/other-minds.md",
+      "slug": "other-minds"
+    },
+    {
+      "old": "p/he-ping-zhu-yi-pacifism-andrew-fiala.md",
+      "new": "p/pacifism.md",
+      "slug": "pacifism"
+    },
+    {
+      "old": "p/teng-tong-pain-murat-aydede.md",
+      "new": "p/pain.md",
+      "slug": "pain"
+    },
+    {
+      "old": "p/tuo-ma-si-pan-en-paine-thomas-mark-philp.md",
+      "new": "p/paine.md",
+      "slug": "paine"
+    },
+    {
+      "old": "p/chao-fan-shen-lun-panentheism-john-culp.md",
+      "new": "p/panentheism.md",
+      "slug": "panentheism"
+    },
+    {
+      "old": "p/fan-xin-lun-panpsychism-philip-goff-william-seager-and-sean-allenhermanson.md",
+      "new": "p/panpsychism.md",
+      "slug": "panpsychism"
+    },
+    {
+      "old": "p/fan-shen-lun-pantheism-william-mander.md",
+      "new": "p/pantheism.md",
+      "slug": "pantheism"
+    },
+    {
+      "old": "p/wei-ren-fu-mu-he-sheng-yu-parenthood-and-procreation-elizabeth-brake-and-joseph-millum.md",
+      "new": "p/parenthood.md",
+      "slug": "parenthood"
+    },
+    {
+      "old": "p/ba-men-ni-de-parmenides-john-palmer.md",
+      "new": "p/parmenides.md",
+      "slug": "parmenides"
+    },
+    {
+      "old": "p/pa-si-ka-de-du-zhu-pascals-wager-alan-hjek.md",
+      "new": "p/pascal.md",
+      "slug": "pascal"
+    },
+    {
+      "old": "p/pa-si-ka-de-du-zhu-pascals-wager-alan-hjek.md",
+      "new": "p/pascal-wager.md",
+      "slug": "pascal-wager"
+    },
+    {
+      "old": "p/jia-chang-zhu-yi-paternalism-gerald-dworkin.md",
+      "new": "p/paternalism.md",
+      "slug": "paternalism"
+    },
+    {
+      "old": "p/ai-guo-zhu-yi-patriotism-igor-primoratz.md",
+      "new": "p/patriotism.md",
+      "slug": "patriotism"
+    },
+    {
+      "old": "p/fu-lang-qie-si-ke-pa-te-li-qi-patrizi-francesco-fred-purnell.md",
+      "new": "p/patrizi.md",
+      "slug": "patrizi"
+    },
+    {
+      "old": "p/wei-ni-si-de-bao-luo-paul-of-venice-alessandro-conti.md",
+      "new": "p/paul-venice.md",
+      "slug": "paul-venice"
+    },
+    {
+      "old": "p/cha-er-si-sang-de-si-pi-er-shi-peirce-charles-sanders-robert-burch/README.md",
+      "new": "peirce/README.md",
+      "slug": "peirce"
+    },
+    {
+      "old": "p/ben-jie-ming-pi-er-si-peirce-benjamin-ivor-grattanguinness-and-alison-walsh.md",
+      "new": "p/peirce-benjamin.md",
+      "slug": "peirce-benjamin"
+    },
+    {
+      "old": "p/wei-lian-peng-bi-er-penbygull-william-alessandro-conti.md",
+      "new": "p/penbygull.md",
+      "slug": "penbygull"
+    },
+    {
+      "old": "p/lun-li-xue-he-zheng-zhi-zhe-xue-zhong-de-wan-mei-zhu-yi-perfectionism-in-moral-and-political-philoso.md",
+      "new": "p/perfectionism-moral.md",
+      "slug": "perfectionism-moral"
+    },
+    {
+      "old": "p/ren-ge-tong-yi-xing-personal-identity-eric-t.-olson/README.md",
+      "new": "personal-autonomy/README.md",
+      "slug": "personal-autonomy"
+    },
+    {
+      "old": "p/ren-ji-guan-xi-zhong-de-wu-pin-personal-relationship-goods-anca-gheaus.md",
+      "new": "p/personal-relationship-goods.md",
+      "slug": "personal-relationship-goods"
+    },
+    {
+      "old": "p/ren-ge-zhu-yi-personalism-thomas-d.-williams-and-jan-olof-bengtsson.md",
+      "new": "p/personalism.md",
+      "slug": "personalism"
+    },
+    {
+      "old": "p/ren-ge-personhood/README.md",
+      "new": "personhood-india/README.md",
+      "slug": "personhood-india"
+    },
+    {
+      "old": "p/xi-ban-ya-de-bi-de-bi-de-xi-si-pa-nu-si-peter-of-spain-petrus-hispanus-joke-spruyt.md",
+      "new": "p/peter-spain.md",
+      "slug": "peter-spain"
+    },
+    {
+      "old": "p/xian-xiang-xue-phenomenology-david-woodruff-smith/README.md",
+      "new": "phenomenology/README.md",
+      "slug": "phenomenology"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "phil-bio-latin-america/README.md",
+      "slug": "phil-bio-latin-america"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "phil-science-latin-america/README.md",
+      "slug": "phil-science-latin-america"
+    },
+    {
+      "old": "p/shou-xi-fa-guan-fei-li-pu-philip-the-chancellor-colleen-mccluskey-and-anthony-celano.md",
+      "new": "p/philip-chancellor.md",
+      "slug": "philip-chancellor"
+    },
+    {
+      "old": "p/fei-luo-de-mu-philodemus-david-blank.md",
+      "new": "p/philo.md",
+      "slug": "philo"
+    },
+    {
+      "old": "p/la-li-sa-de-fei-luo-philo-of-larissa-charles-brittain-and-peter-osorio.md",
+      "new": "p/philo-larissa.md",
+      "slug": "philo-larissa"
+    },
+    {
+      "old": "p/fei-luo-de-mu-philodemus-david-blank.md",
+      "new": "p/philodemus.md",
+      "slug": "philodemus"
+    },
+    {
+      "old": "p/fei-luo-lao-si-philolaus-carl-huffman.md",
+      "new": "p/philolaus.md",
+      "slug": "philolaus"
+    },
+    {
+      "old": "p/yue-han-fei-luo-bo-nuo-si-philoponus-christian-wildberg.md",
+      "new": "p/philoponus.md",
+      "slug": "philoponus"
+    },
+    {
+      "old": "c/zhong-guo-zhe-xue-chinese-philosophy/README.md",
+      "new": "philosophy-chile/README.md",
+      "slug": "philosophy-chile"
+    },
+    {
+      "old": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/README.md",
+      "new": "philosophy-mathematics/README.md",
+      "slug": "philosophy-mathematics"
+    },
+    {
+      "old": "c/zhong-guo-zhe-xue-chinese-philosophy/README.md",
+      "new": "philosophy-mexico/README.md",
+      "slug": "philosophy-mexico"
+    },
+    {
+      "old": "p/ke-xue-zhe-xue-philosophy-of-science/README.md",
+      "new": "philosophy-religion/README.md",
+      "slug": "philosophy-religion"
+    },
+    {
+      "old": "p/xi-tong-fa-sheng-fen-xi-phylogenetic-inference-matt-haber-and-joel-velasco.md",
+      "new": "p/phylogenetic-inference.md",
+      "slug": "phylogenetic-inference"
+    },
+    {
+      "old": "p/wu-li-zhu-yi-physicalism-daniel-stoljar.md",
+      "new": "p/physicalism.md",
+      "slug": "physicalism"
+    },
+    {
+      "old": "p/qiao-wa-ni-pi-ke-de-la-mi-lan-duo-la-pico-della-mirandola-giovanni-brian-copenhaver.md",
+      "new": "p/pico-della-mirandola.md",
+      "slug": "pico-della-mirandola"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "plato-ethics/README.md",
+      "slug": "plato-ethics"
+    },
+    {
+      "old": "p/bai-la-tu-zhu-yi-platonism/README.md",
+      "new": "platonism/README.md",
+      "slug": "platonism"
+    },
+    {
+      "old": "p/bai-la-tu-zhu-yi-platonism/README.md",
+      "new": "platonism-mathematics/README.md",
+      "slug": "platonism-mathematics"
+    },
+    {
+      "old": "p/kuai-le-pleasure-leonard-d.-katz.md",
+      "new": "p/pleasure.md",
+      "slug": "pleasure"
+    },
+    {
+      "old": "p/pu-luo-ti-nuo-plotinus-lloyd-gerson.md",
+      "new": "p/plotinus.md",
+      "slug": "plotinus"
+    },
+    {
+      "old": "p/duo-yuan-liang-hua-plural-quantification-ystein-linnebo.md",
+      "new": "p/plural-quant.md",
+      "slug": "plural-quant"
+    },
+    {
+      "old": "p/pu-lu-ta-ke-plutarch-george-karamanolis.md",
+      "new": "p/plutarch.md",
+      "slug": "plutarch"
+    },
+    {
+      "old": "p/heng-li-pang-jia-lai-poincar-henri-gerhard-heinzmann-and-david-stump.md",
+      "new": "p/poincare.md",
+      "slug": "poincare"
+    },
+    {
+      "old": "p/zheng-zhi-yi-wu-political-obligation-richard-dagger-and-david-lefkowitz.md",
+      "new": "p/political-obligation.md",
+      "slug": "political-obligation"
+    },
+    {
+      "old": "p/yi-sa-bo-er-ka-er-polqar-isaac-racheli-haliva.md",
+      "new": "p/polqar.md",
+      "slug": "polqar"
+    },
+    {
+      "old": "p/bi-de-luo-peng-bo-na-qi-pomponazzi-pietro-craig-martin.md",
+      "new": "p/pomponazzi.md",
+      "slug": "pomponazzi"
+    },
+    {
+      "old": "p/ka-er-bo-pu-er-popper-karl-stephen-thornton.md",
+      "new": "p/popper.md",
+      "slug": "popper"
+    },
+    {
+      "old": "p/bo-fei-li-porphyry-eyjlfur-emilsson.md",
+      "new": "p/porphyry.md",
+      "slug": "porphyry"
+    },
+    {
+      "old": "p/bo-er-luo-ya-er-luo-ji-luo-ji-huo-si-wei-de-yi-shu-port-royal-logic-alan-nelson-and-jill-buroker.md",
+      "new": "p/port-royal-logic.md",
+      "slug": "port-royal-logic"
+    },
+    {
+      "old": "p/ke-neng-xing-zhu-yi-yu-shi-zai-zhu-yi-bian-lun-possibilismactualism-debate-christopher-menzel.md",
+      "new": "p/possibilism-actualism.md",
+      "slug": "possibilism-actualism"
+    },
+    {
+      "old": "p/ke-neng-dui-xiang-possible-objects-takashi-yagisawa.md",
+      "new": "p/possible-objects.md",
+      "slug": "possible-objects"
+    },
+    {
+      "old": "p/ke-neng-shi-jie-possible-worlds-christopher-menzel.md",
+      "new": "p/possible-worlds.md",
+      "slug": "possible-worlds"
+    },
+    {
+      "old": "p/hou-xian-dai-zhu-yi-postmodernism-gary-aylesworth.md",
+      "new": "p/postmodernism.md",
+      "slug": "postmodernism"
+    },
+    {
+      "old": "p/shi-jian-li-xing-practical-reason-r.-jay-wallace/README.md",
+      "new": "practical-reason/README.md",
+      "slug": "practical-reason"
+    },
+    {
+      "old": "p/shi-yong-zhu-yi-yu-shang-di-xin-yang-pragmatic-arguments-and-belief-in-god-jeff-jordan.md",
+      "new": "p/pragmatic-belief-god.md",
+      "slug": "pragmatic-belief-god"
+    },
+    {
+      "old": "p/shi-yong-zhu-yi-pragmatism-catherine-legg-and-christopher-hookway.md",
+      "new": "p/pragmatism.md",
+      "slug": "pragmatism"
+    },
+    {
+      "old": "p/yu-ce-yu-rong-na-prediction-versus-accommodation-eric-christian-barnes.md",
+      "new": "p/prediction-accommodation.md",
+      "slug": "prediction-accommodation"
+    },
+    {
+      "old": "p/xian-zai-zhu-yi-presentism-david-ingram-and-jonathan-tallant.md",
+      "new": "p/presentism.md",
+      "slug": "presentism"
+    },
+    {
+      "old": "p/qian-su-ge-la-di-zhe-xue-presocratic-philosophy-patricia-curd.md",
+      "new": "p/presocratics.md",
+      "slug": "presocratics"
+    },
+    {
+      "old": "p/yu-she-presupposition-david-i.-beaver-bart-geurts-and-kristie-denlinger.md",
+      "new": "p/presupposition.md",
+      "slug": "presupposition"
+    },
+    {
+      "old": "p/ha-luo-de-ase-pu-li-cha-de-prichard-harold-arthur-jonathan-dancy.md",
+      "new": "p/prichard.md",
+      "slug": "prichard"
+    },
+    {
+      "old": "p/shu-xue-yuan-li-principia-mathematica-bernard-linsky-and-andrew-david-irvine/README.md",
+      "new": "principia-mathematica/README.md",
+      "slug": "principia-mathematica"
+    },
+    {
+      "old": "p/ya-se-pu-lai-er-prior-arthur-b.-jack-copeland.md",
+      "new": "p/prior.md",
+      "slug": "prior"
+    },
+    {
+      "old": "p/qiu-tu-kun-jing-prisoners-dilemma-steven-kuhn.md",
+      "new": "p/prisoner-dilemma.md",
+      "slug": "prisoner-dilemma"
+    },
+    {
+      "old": "p/si-ren-yu-yan-private-language-stewart-candlish-and-george-wrisley.md",
+      "new": "p/private-language.md",
+      "slug": "private-language"
+    },
+    {
+      "old": "p/dui-gai-shuai-de-jie-shi-probability-interpretations-of-alan-hjek.md",
+      "new": "p/probability-interpret.md",
+      "slug": "probability-interpret"
+    },
+    {
+      "old": "p/zhong-shi-ji-he-wen-yi-fu-xing-shi-qi-zhe-xue-zhong-de-gai-shuai-probability-in-medieval-and-renaiss.md",
+      "new": "p/probability-medieval-renaissance.md",
+      "slug": "probability-medieval-renaissance"
+    },
+    {
+      "old": "p/guo-cheng-zhe-xue-process-philosophy-johanna-seibt.md",
+      "new": "p/process-philosophy.md",
+      "slug": "process-philosophy"
+    },
+    {
+      "old": "p/guo-cheng-shen-xue-process-theism-donald-viney.md",
+      "new": "p/process-theism.md",
+      "slug": "process-theism"
+    },
+    {
+      "old": "p/pu-luo-ke-luo-si-proclus-christoph-helmig-and-carlos-steel.md",
+      "new": "p/proclus.md",
+      "slug": "proclus"
+    },
+    {
+      "old": "p/jin-bu-progress-agnes-tam-and-margaret-meek-lange.md",
+      "new": "p/progress.md",
+      "slug": "progress"
+    },
+    {
+      "old": "p/cheng-nuo-promises-allen-habib.md",
+      "new": "p/promises.md",
+      "slug": "promises"
+    },
+    {
+      "old": "p/zheng-ming-lun-proof-theory-michael-rathjen-and-wilfried-sieg/README.md",
+      "new": "proof-theory/README.md",
+      "slug": "proof-theory"
+    },
+    {
+      "old": "p/ming-ti-tai-du-bao-gao-propositional-attitude-reports-michael-nelson.md",
+      "new": "p/prop-attitude-reports.md",
+      "slug": "prop-attitude-reports"
+    },
+    {
+      "old": "p/chan-quan-property/README.md",
+      "new": "property/README.md",
+      "slug": "property"
+    },
+    {
+      "old": "p/yu-yan-prophecy-scott-a.-davison.md",
+      "new": "p/prophecy.md",
+      "slug": "prophecy"
+    },
+    {
+      "old": "p/ming-ti-han-xiang-propositional-function-edwin-mares.md",
+      "new": "p/propositional-function.md",
+      "slug": "propositional-function"
+    },
+    {
+      "old": "p/ming-ti-propositions-matthew-mcgrath-and-devin-frank/README.md",
+      "new": "propositions/README.md",
+      "slug": "propositions"
+    },
+    {
+      "old": "p/pu-luo-ta-ge-la-protagoras-mauro-bonazzi.md",
+      "new": "p/protagoras.md",
+      "slug": "protagoras"
+    },
+    {
+      "old": "p/shen-yi-providence-divine-hugh-j.-mccann-and-daniel-m.-johnson.md",
+      "new": "p/providence-divine.md",
+      "slug": "providence-divine"
+    },
+    {
+      "old": "p/wei-di-ao-ni-xiu-si-pseudodionysius-the-areopagite-kevin-corrigan-and-l.-michael-harrington.md",
+      "new": "p/pseudo-dionysius-areopagite.md",
+      "slug": "pseudo-dionysius-areopagite"
+    },
+    {
+      "old": "p/jing-shen-bing-xue-zhe-xue-psychiatry-philosophy-of-dominic-murphy.md",
+      "new": "p/psychiatry.md",
+      "slug": "psychiatry"
+    },
+    {
+      "old": "p/xin-li-zhu-yi-psychologism-martin-kusch.md",
+      "new": "p/psychologism.md",
+      "slug": "psychologism"
+    },
+    {
+      "old": "p/gong-gong-wu-pin-public-goods-julian-reiss.md",
+      "new": "p/public-goods.md",
+      "slug": "public-goods"
+    },
+    {
+      "old": "p/gong-gong-li-xing-public-reason-jonathan-quong.md",
+      "new": "p/public-reason.md",
+      "slug": "public-reason"
+    },
+    {
+      "old": "e/lun-li-xue-ethics/README.md",
+      "new": "publichealth-ethics/README.md",
+      "slug": "publichealth-ethics"
+    },
+    {
+      "old": "p/xuan-chuan-publicity-axel-gosseries-and-tom-parr.md",
+      "new": "p/publicity.md",
+      "slug": "publicity"
+    },
+    {
+      "old": "p/sai-mou-er-feng-pu-fen-dao-fu-pufendorf-samuel-freiherr-von/README.md",
+      "new": "pufendorf/README.md",
+      "slug": "pufendorf"
+    },
+    {
+      "old": "p/pi-lang-pyrrho-richard-bett.md",
+      "new": "p/pyrrho.md",
+      "slug": "pyrrho"
+    },
+    {
+      "old": "p/bi-da-ge-la-si-pythagoras-carl-huffman.md",
+      "new": "p/pythagoras.md",
+      "slug": "pythagoras"
+    },
+    {
+      "old": "p/bi-da-ge-la-si-zhu-yi-pythagoreanism-carl-huffman.md",
+      "new": "p/pythagoreanism.md",
+      "slug": "pythagoreanism"
+    },
+    {
+      "old": "q/gan-zhi-qualia-michael-tye/README.md",
+      "new": "qualia/README.md",
+      "slug": "qualia"
+    },
+    {
+      "old": "q/liang-ci-yu-liang-hua-quantifiers-and-quantification-gabriel-uzquiano.md",
+      "new": "q/quantification.md",
+      "slug": "quantification"
+    },
+    {
+      "old": "q/wen-ti-questions-charles-cross-and-floris-roelofsen.md",
+      "new": "q/questions.md",
+      "slug": "questions"
+    },
+    {
+      "old": "q/yin-yu-quotation-herman-cappelen-ernest-lepore-and-matthew-mckeever.md",
+      "new": "q/quotation.md",
+      "slug": "quotation"
+    },
+    {
+      "old": "r/la-du-er-fu-si-bu-li-tuo-radulphus-brito-ana-mara-moramrquez-and-iacopo-costa.md",
+      "new": "r/radulphus-brito.md",
+      "slug": "radulphus-brito"
+    },
+    {
+      "old": "r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/README.md",
+      "new": "ramsey/README.md",
+      "slug": "ramsey"
+    },
+    {
+      "old": "r/bi-de-lv-si-la-mi-si-ramus-petrus-erland-sellberg.md",
+      "new": "r/ramus.md",
+      "slug": "ramus"
+    },
+    {
+      "old": "r/li-xing-zhu-yi-yu-jing-yan-zhu-yi-rationalism-vs.-empiricism-peter-markie-and-m.-folescu.md",
+      "new": "r/rationalism-empiricism.md",
+      "slug": "rationalism-empiricism"
+    },
+    {
+      "old": "s/jie-gou-zhu-yi-structuralism/README.md",
+      "new": "rationality-structural/README.md",
+      "slug": "rationality-structural"
+    },
+    {
+      "old": "r/yue-han-luo-er-si-rawls-john-leif-wenar.md",
+      "new": "r/rawls.md",
+      "slug": "rawls"
+    },
+    {
+      "old": "r/shi-zai-lun-realism-alexander-miller/README.md",
+      "new": "realism/README.md",
+      "slug": "realism"
+    },
+    {
+      "old": "m/dao-de-morality/README.md",
+      "new": "reasoning-moral/README.md",
+      "slug": "reasoning-moral"
+    },
+    {
+      "old": "r/cheng-ren-recognition-mattias-iser.md",
+      "new": "r/recognition.md",
+      "slug": "recognition"
+    },
+    {
+      "old": "r/he-jie-reconciliation-linda-radzik-and-colleen-murphy.md",
+      "new": "r/reconciliation.md",
+      "slug": "reconciliation"
+    },
+    {
+      "old": "r/di-gui-han-shu-recursive-functions-walter-dean-and-alberto-naibo.md",
+      "new": "r/recursive-functions.md",
+      "slug": "recursive-functions"
+    },
+    {
+      "old": "r/zai-fen-pei-redistribution-christian-barry.md",
+      "new": "r/redistribution.md",
+      "slug": "redistribution"
+    },
+    {
+      "old": "r/zhi-she-reference-eliot-michaelson.md",
+      "new": "r/reference.md",
+      "slug": "reference"
+    },
+    {
+      "old": "r/fan-si-ping-heng-reflective-equilibrium-carl-knight.md",
+      "new": "r/reflective-equilibrium.md",
+      "slug": "reflective-equilibrium"
+    },
+    {
+      "old": "r/tuo-ma-si-li-de-reid-thomas-ryan-nichols-and-gideon-yaffe/README.md",
+      "new": "reid/README.md",
+      "slug": "reid"
+    },
+    {
+      "old": "r/a-dao-fu-lai-na-he-reinach-adolf-alessandro-salice-james-dubois-and-barry-smith.md",
+      "new": "r/reinach.md",
+      "slug": "reinach"
+    },
+    {
+      "old": "r/shi-wu-lun-reism-jan-woleski.md",
+      "new": "r/reism.md",
+      "slug": "reism"
+    },
+    {
+      "old": "r/guan-xi-relations-fraser-macbride/README.md",
+      "new": "relations/README.md",
+      "slug": "relations"
+    },
+    {
+      "old": "r/ke-kao-zhu-yi-ren-shi-lun-reliabilist-epistemology-alvin-goldman-and-bob-beddor.md",
+      "new": "r/reliabilism.md",
+      "slug": "reliabilism"
+    },
+    {
+      "old": "r/zong-jiao-jing-yan-religious-experience-mark-webb.md",
+      "new": "r/religious-experience.md",
+      "slug": "religious-experience"
+    },
+    {
+      "old": "r/zong-jiao-yu-yan-religious-language-michael-scott.md",
+      "new": "r/religious-language.md",
+      "slug": "religious-language"
+    },
+    {
+      "old": "r/zong-jiao-duo-yang-xing-religious-diversity-david-basinger.md",
+      "new": "r/religious-pluralism.md",
+      "slug": "religious-pluralism"
+    },
+    {
+      "old": "r/fu-zhi-he-fan-zhi-replication-and-reproduction-john-s.-wilkins-and-pierrick-bourrat.md",
+      "new": "r/replication.md",
+      "slug": "replication"
+    },
+    {
+      "old": "r/gong-he-zhu-yi-republicanism-frank-lovett.md",
+      "new": "r/republicanism.md",
+      "slug": "republicanism"
+    },
+    {
+      "old": "r/ling-ren-fan-gan-de-jie-lun-repugnant-conclusion-the-gustaf-arrhenius-jesper-ryberg-and-torbjrn-tnns.md",
+      "new": "r/repugnant-conclusion.md",
+      "slug": "repugnant-conclusion"
+    },
+    {
+      "old": "r/zun-zhong-respect-robin-s.-dillon.md",
+      "new": "r/respect.md",
+      "slug": "respect"
+    },
+    {
+      "old": "r/fan-tui-shu-xue-reverse-mathematics-benedict-eastaugh.md",
+      "new": "r/reverse-mathematics.md",
+      "slug": "reverse-mathematics"
+    },
+    {
+      "old": "r/ge-ming-revolution-allen-buchanan-and-alexander-motchoulski.md",
+      "new": "r/revolution.md",
+      "slug": "revolution"
+    },
+    {
+      "old": "r/bao-luo-li-ke-ricoeur-paul-david-pellauer-and-bernard-dauenhauer.md",
+      "new": "r/ricoeur.md",
+      "slug": "ricoeur"
+    },
+    {
+      "old": "r/quan-li-rights-leif-wenar/README.md",
+      "new": "rights/README.md",
+      "slug": "rights"
+    },
+    {
+      "old": "h/ren-wen-zhu-yi-humanism/README.md",
+      "new": "rights-human/README.md",
+      "slug": "rights-human"
+    },
+    {
+      "old": "r/yan-ge-zhi-shi-ci-rigid-designators-joseph-laporte.md",
+      "new": "r/rigid-designators.md",
+      "slug": "rigid-designators"
+    },
+    {
+      "old": "r/feng-xian-risk-sven-ove-hansson.md",
+      "new": "r/risk.md",
+      "slug": "risk"
+    },
+    {
+      "old": "r/li-cha-de-luo-di-rorty-richard-bjrn-ramberg-and-susan-dieleman.md",
+      "new": "r/rorty.md",
+      "slug": "rorty"
+    },
+    {
+      "old": "r/ou-gen-luo-sen-si-tuo-ke-hu-xu-rosenstockhuessy-eugen-wayne-cristaudo.md",
+      "new": "r/rosenstock-huessy.md",
+      "slug": "rosenstock-huessy"
+    },
+    {
+      "old": "r/fu-lang-ci-luo-sen-ci-wei-ge-rosenzweig-franz-benjamin-pollock.md",
+      "new": "r/rosenzweig.md",
+      "slug": "rosenzweig"
+    },
+    {
+      "old": "r/rang-ya-ke-lu-suo-rousseau-jean-jacques-christopher-bertram.md",
+      "new": "r/rousseau.md",
+      "slug": "rousseau"
+    },
+    {
+      "old": "r/qiao-sai-ya-luo-yi-si-royce-josiah-kelly-a.-parker-and-scott-pratt.md",
+      "new": "r/royce.md",
+      "slug": "royce"
+    },
+    {
+      "old": "r/zun-xun-gui-ze-yu-yi-xiang-xing-rulefollowing-and-intentionality-alexander-miller-and-olivia-sultane.md",
+      "new": "r/rule-following.md",
+      "slug": "rule-following"
+    },
+    {
+      "old": "r/fa-zhi-yu-cheng-xu-zheng-yi-rule-of-law-and-procedural-fairness-jeremy-waldron.md",
+      "new": "r/rule-of-law.md",
+      "slug": "rule-of-law"
+    },
+    {
+      "old": "r/luo-su-bei-lun-russells-paradox-andrew-david-irvine-and-harry-deutsch.md",
+      "new": "r/russell-paradox.md",
+      "slug": "russell-paradox"
+    },
+    {
+      "old": "r/ji-er-bo-te-lai-er-ryle-gilbert-julia-tanney.md",
+      "new": "r/ryle.md",
+      "slug": "ryle"
+    },
+    {
+      "old": "s/saadi-ya-guo-ang-saadya-saadiah-sarah-pessin.md",
+      "new": "s/saadya.md",
+      "slug": "saadya"
+    },
+    {
+      "old": "s/ji-hu-ntarakita-james-blumenthal-and-james-apple.md",
+      "new": "s/saantarak-sita.md",
+      "slug": "saantarak-sita"
+    },
+    {
+      "old": "s/sa-jia-ban-zhi-da-gong-ga-jian-zan-sakya-paita-sa-skya-paita-jonathan-c.-gold.md",
+      "new": "s/sakya-pandita.md",
+      "slug": "sakya-pandita"
+    },
+    {
+      "old": "s/qiao-zhi-sang-ta-ya-na-santayana-george-herman-saatkamp-and-martin-coleman.md",
+      "new": "s/santayana.md",
+      "slug": "santayana"
+    },
+    {
+      "old": "s/rang-bao-luo-sa-te-sartre-jeanpaul-jack-reynolds-and-pierrejean-renaudie.md",
+      "new": "s/sartre.md",
+      "slug": "sartre"
+    },
+    {
+      "old": "s/ma-ke-si-she-le-scheler-max-zachary-davis-and-anthony-steinbock.md",
+      "new": "s/scheler.md",
+      "slug": "scheler"
+    },
+    {
+      "old": "s/fu-li-de-li-xi-wei-lian-yue-se-fu-feng-xie-lin-schelling-friedrich-wilhelm-joseph-von-andrew-bowie.md",
+      "new": "s/schelling.md",
+      "slug": "schelling"
+    },
+    {
+      "old": "s/tu-shi-schema-john-corcoran-and-idris-samawi-hamid.md",
+      "new": "s/schema.md",
+      "slug": "schema"
+    },
+    {
+      "old": "s/yue-han-ke-li-si-tuo-fu-fu-li-de-li-xi-feng-xi-le-schiller-friedrich-lydia-l.-moland.md",
+      "new": "s/schiller.md",
+      "slug": "schiller"
+    },
+    {
+      "old": "s/fu-li-de-li-xi-shi-lai-ge-er-schlegel-friedrich-allen-speight.md",
+      "new": "s/schlegel.md",
+      "slug": "schlegel"
+    },
+    {
+      "old": "s/ao-gu-si-te-wei-lian-feng-shi-lai-ge-er-schlegel-august-wilhelm-von-katia-d.-hay.md",
+      "new": "s/schlegel-aw.md",
+      "slug": "schlegel-aw"
+    },
+    {
+      "old": "s/fu-li-de-li-xi-dan-ni-er-en-si-te-shi-lai-er-ma-he-schleiermacher-friedrich-daniel-ernst-michael-for.md",
+      "new": "s/schleiermacher.md",
+      "slug": "schleiermacher"
+    },
+    {
+      "old": "s/mo-li-ci-shi-li-ke-schlick-moritz-thomas-oberdan.md",
+      "new": "s/schlick.md",
+      "slug": "schlick"
+    },
+    {
+      "old": "s/ka-er-shi-mi-te-schmitt-carl-lars-vinx.md",
+      "new": "s/schmitt.md",
+      "slug": "schmitt"
+    },
+    {
+      "old": "s/ge-shu-mu-suo-luo-mu-scholem-gershom-shaul-magid.md",
+      "new": "s/scholem.md",
+      "slug": "scholem"
+    },
+    {
+      "old": "s/hai-yin-li-xi-xiao-er-zi-scholz-heinrich-volker-peckhaus.md",
+      "new": "s/scholz.md",
+      "slug": "scholz"
+    },
+    {
+      "old": "s/ming-jia-school-of-names-chris-fraser.md",
+      "new": "s/school-names.md",
+      "slug": "school-names"
+    },
+    {
+      "old": "s/sa-la-man-ka-xue-pai-school-of-salamanca-thomas-izbicki-and-matthias-kaufmann.md",
+      "new": "s/school-salamanca.md",
+      "slug": "school-salamanca"
+    },
+    {
+      "old": "s/a-tu-er-shu-ben-hua-schopenhauer-arthur-robert-wicks/README.md",
+      "new": "schopenhauer/README.md",
+      "slug": "schopenhauer"
+    },
+    {
+      "old": "s/a-er-fu-lei-de-shu-ci-schutz-alfred-michael-barber.md",
+      "new": "s/schutz.md",
+      "slug": "schutz"
+    },
+    {
+      "old": "s/ke-xue-yan-jiu-yu-da-shu-ju-scientific-research-and-big-data-sabina-leonelli.md",
+      "new": "s/science-big-data.md",
+      "slug": "science-big-data"
+    },
+    {
+      "old": "s/ke-xue-fa-xian-scientific-discovery-jutta-schickore.md",
+      "new": "s/scientific-discovery.md",
+      "slug": "scientific-discovery"
+    },
+    {
+      "old": "s/ke-xue-fang-fa-scientific-method-brian-hepburn-and-hanne-andersen.md",
+      "new": "s/scientific-method.md",
+      "slug": "scientific-method"
+    },
+    {
+      "old": "s/ke-xue-ke-guan-xing-scientific-objectivity-julian-reiss-and-jan-sprenger.md",
+      "new": "s/scientific-objectivity.md",
+      "slug": "scientific-objectivity"
+    },
+    {
+      "old": "s/ke-xue-duo-yuan-zhu-yi-scientific-pluralism-david-ludwig-and-stphanie-ruphy.md",
+      "new": "s/scientific-pluralism.md",
+      "slug": "scientific-pluralism"
+    },
+    {
+      "old": "s/ke-xue-jin-bu-scientific-progress-ilkka-niiniluoto.md",
+      "new": "s/scientific-progress.md",
+      "slug": "scientific-progress"
+    },
+    {
+      "old": "r/ke-xue-huan-yuan-lun-reduction-scientific-raphael-van-riel-and-robert-van-gulick/README.md",
+      "new": "scientific-reduction/README.md",
+      "slug": "scientific-reduction"
+    },
+    {
+      "old": "s/ke-xue-biao-zheng-scientific-representation-roman-frigg-and-james-nguyen.md",
+      "new": "s/scientific-representation.md",
+      "slug": "scientific-representation"
+    },
+    {
+      "old": "s/ke-xue-ge-ming-scientific-revolutions-thomas-nickles.md",
+      "new": "s/scientific-revolutions.md",
+      "slug": "scientific-revolutions"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "scottish-18th/README.md",
+      "slug": "scottish-18th"
+    },
+    {
+      "old": "m/16-shi-ji-de-xing-er-shang-xue-metaphysics-in-the-16th-century/README.md",
+      "new": "scottish-19th/README.md",
+      "slug": "scottish-19th"
+    },
+    {
+      "old": "s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md",
+      "new": "s/secession.md",
+      "slug": "secession"
+    },
+    {
+      "old": "s/zi-wo-yi-shi-selfconsciousness-joel-smith/README.md",
+      "new": "self-consciousness/README.md",
+      "slug": "self-consciousness"
+    },
+    {
+      "old": "s/zi-wo-qi-pian-selfdeception-ian-deweeseboyd.md",
+      "new": "s/self-deception.md",
+      "slug": "self-deception"
+    },
+    {
+      "old": "s/zi-wei-selfdefense-helen-frowe-and-jonathan-parry.md",
+      "new": "s/self-defense.md",
+      "slug": "self-defense"
+    },
+    {
+      "old": "s/zi-wo-ding-wei-xin-nian-selflocating-beliefs-andy-egan-and-michael-g.-titelbaum.md",
+      "new": "s/self-locating-beliefs.md",
+      "slug": "self-locating-beliefs"
+    },
+    {
+      "old": "s/zi-wo-zhi-she-selfreference-thomas-bolander.md",
+      "new": "s/self-reference.md",
+      "slug": "self-reference"
+    },
+    {
+      "old": "s/wei-er-fu-li-de-sai-la-si-sellars-wilfrid-willem-devries.md",
+      "new": "s/sellars.md",
+      "slug": "sellars"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "semiotics-medieval/README.md",
+      "slug": "semiotics-medieval"
+    },
+    {
+      "old": "s/sai-nie-ka-seneca-katja-vogt.md",
+      "new": "s/seneca.md",
+      "slug": "seneca"
+    },
+    {
+      "old": "s/gan-jue-yu-liao-sense-data-gary-hatfield.md",
+      "new": "s/sense-data.md",
+      "slug": "sense-data"
+    },
+    {
+      "old": "s/ji-he-lun-set-theory-joan-bagaria/README.md",
+      "new": "set-theory/README.md",
+      "slug": "set-theory"
+    },
+    {
+      "old": "s/xing-yu-quan-xing-sex-and-sexuality-raja-halwani.md",
+      "new": "s/sex-sexuality.md",
+      "slug": "sex-sexuality"
+    },
+    {
+      "old": "s/sai-ke-si-du-en-pi-li-ke-sextus-empiricus-benjamin-morison.md",
+      "new": "s/sextus-empiricus.md",
+      "slug": "sextus-empiricus"
+    },
+    {
+      "old": "s/shang-jie-luo-akara-neil-dalal.md",
+      "new": "s/shankara.md",
+      "slug": "shankara"
+    },
+    {
+      "old": "s/ji-tian-ntideva-charles-goodman.md",
+      "new": "s/shantideva.md",
+      "slug": "shantideva"
+    },
+    {
+      "old": "s/yue-han-xia-pu-sharpe-johannes-alessandro-conti.md",
+      "new": "s/sharpe.md",
+      "slug": "sharpe"
+    },
+    {
+      "old": "s/heng-li-xi-ji-wei-ke-sidgwick-henry-barton-schultz.md",
+      "new": "s/sidgwick.md",
+      "slug": "sidgwick"
+    },
+    {
+      "old": "s/fa-fu-she-mu-de-xi-meng-simon-of-faversham-ana-mara-moramrquez.md",
+      "new": "s/simon-faversham.md",
+      "slug": "simon-faversham"
+    },
+    {
+      "old": "s/jian-dan-xing-simplicity-alan-baker/README.md",
+      "new": "simplicity/README.md",
+      "slug": "simplicity"
+    },
+    {
+      "old": "s/xin-pu-li-xiu-si-simplicius-christoph-helmig.md",
+      "new": "s/simplicius.md",
+      "slug": "simplicius"
+    },
+    {
+      "old": "s/ke-xue-zhong-de-ji-suan-ji-mo-ni-simulations-in-science-eric-winsberg.md",
+      "new": "s/simulations-science.md",
+      "slug": "simulations-science"
+    },
+    {
+      "old": "s/ji-du-jiao-si-xiang-zhong-de-zui-sin-in-christian-thought-kevin-timpe.md",
+      "new": "s/sin-christian.md",
+      "slug": "sin-christian"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "singular-terms-medieval/README.md",
+      "slug": "singular-terms-medieval"
+    },
+    {
+      "old": "s/huai-yi-lun-shi-you-shen-lun-skeptical-theism-timothy-perrine.md",
+      "new": "s/skeptical-theism.md",
+      "slug": "skeptical-theism"
+    },
+    {
+      "old": "s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/README.md",
+      "new": "skepticism/README.md",
+      "slug": "skepticism"
+    },
+    {
+      "old": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/README.md",
+      "new": "skepticism-latin-america/README.md",
+      "slug": "skepticism-latin-america"
+    },
+    {
+      "old": "m/zhong-shi-ji-li-lun-medieval-theories-of/README.md",
+      "new": "skepticism-medieval/README.md",
+      "slug": "skepticism-medieval"
+    },
+    {
+      "old": "s/she-hui-xuan-ze-li-lun-social-choice-theory-christian-list.md",
+      "new": "s/social-choice.md",
+      "slug": "social-choice"
+    },
+    {
+      "old": "s/she-hui-zhi-du-social-institutions-seumas-miller.md",
+      "new": "s/social-institutions.md",
+      "slug": "social-institutions"
+    },
+    {
+      "old": "s/she-hui-zui-di-bao-zhang-social-minimum-basic-income-stuart-white.md",
+      "new": "s/social-minimum.md",
+      "slug": "social-minimum"
+    },
+    {
+      "old": "s/she-hui-gui-fan-social-norms-cristina-bicchieri-ryan-muldoon-and-alessandro-sontuoso.md",
+      "new": "s/social-norms.md",
+      "slug": "social-norms"
+    },
+    {
+      "old": "s/she-hui-ben-ti-lun-social-ontology-brian-epstein.md",
+      "new": "s/social-ontology.md",
+      "slug": "social-ontology"
+    },
+    {
+      "old": "s/she-hui-cheng-xu-de-xing-shi-hua-fang-fa-social-procedures-formal-approaches-jan-van-eijck-and-rinek.md",
+      "new": "s/social-procedures.md",
+      "slug": "social-procedures"
+    },
+    {
+      "old": "s/she-hui-zhu-yi-socialism-pablo-gilabert-and-martin-oneill.md",
+      "new": "s/socialism.md",
+      "slug": "socialism"
+    },
+    {
+      "old": "s/sheng-wu-she-hui-xue-sociobiology-catherine-driscoll.md",
+      "new": "s/sociobiology.md",
+      "slug": "sociobiology"
+    },
+    {
+      "old": "s/su-ge-la-di-socrates-debra-nails-and-s.-sara-monoson.md",
+      "new": "s/socrates.md",
+      "slug": "socrates"
+    },
+    {
+      "old": "s/she-hui-yu-zheng-zhi-zhe-xue-zhong-de-tuan-jie-solidarity-in-social-and-political-philosophy-andrea.md",
+      "new": "s/solidarity.md",
+      "slug": "solidarity"
+    },
+    {
+      "old": "s/suo-fei-de-ge-lu-xi-sophie-de-grouchy-sandrine-berges.md",
+      "new": "s/sophie-de-grouchy.md",
+      "slug": "sophie-de-grouchy"
+    },
+    {
+      "old": "s/gui-bian-sophismata-sophisms-fabienne-pironet-and-joke-spruyt.md",
+      "new": "s/sophismata.md",
+      "slug": "sophismata"
+    },
+    {
+      "old": "s/zhi-zhe-sophists-the-c.c.w.-taylor-and-mikyoung-lee.md",
+      "new": "s/sophists.md",
+      "slug": "sophists"
+    },
+    {
+      "old": "s/sha-dui-bei-lun-sorites-paradox-dominic-hyde-and-diana-raffman.md",
+      "new": "s/sorites-paradox.md",
+      "slug": "sorites-paradox"
+    },
+    {
+      "old": "s/lei-bie-sortals-richard-e.-grandy-and-max-a.-freund.md",
+      "new": "s/sortals.md",
+      "slug": "sortals"
+    },
+    {
+      "old": "s/sheng-yin-sounds-roberto-casati-jerome-dokic-and-elvira-di-bona.md",
+      "new": "s/sounds.md",
+      "slug": "sounds"
+    },
+    {
+      "old": "s/zhu-quan-sovereignty-daniel-philpott.md",
+      "new": "s/sovereignty.md",
+      "slug": "sovereignty"
+    },
+    {
+      "old": "s/wu-zhong-species-marc-ereshefsky.md",
+      "new": "s/species.md",
+      "slug": "species"
+    },
+    {
+      "old": "s/yan-yu-hang-wei-speech-acts-mitchell-green.md",
+      "new": "s/speech-acts.md",
+      "slug": "speech-acts"
+    },
+    {
+      "old": "s/he-bo-te-si-bin-sai-spencer-herbert-david-weinstein.md",
+      "new": "s/spencer.md",
+      "slug": "spencer"
+    },
+    {
+      "old": "s/si-biao-xi-bo-speusippus-russell-dancy.md",
+      "new": "s/speusippus.md",
+      "slug": "speusippus"
+    },
+    {
+      "old": "s/si-bin-nuo-suo-spinoza/README.md",
+      "new": "spinoza/README.md",
+      "slug": "spinoza"
+    },
+    {
+      "old": "p/zheng-zhi-zhe-xue-political-philosophy/README.md",
+      "new": "spinoza-political/README.md",
+      "slug": "spinoza-political"
+    },
+    {
+      "old": "s/ti-yu-zhe-xue-sport-philosophy-of-john-william-devine-and-francisco-javier-lopez-frias.md",
+      "new": "s/sport.md",
+      "slug": "sport"
+    },
+    {
+      "old": "s/luo-ji-fang-zhen-square-of-opposition-terence-parsons.md",
+      "new": "s/square.md",
+      "slug": "square"
+    },
+    {
+      "old": "s/shi-tai-states-of-affairs-mark-textor.md",
+      "new": "s/states-of-affairs.md",
+      "slug": "states-of-affairs"
+    },
+    {
+      "old": "s/tong-ji-xue-zhe-xue-statistics-philosophy-of-janwillem-romeijn.md",
+      "new": "s/statistics.md",
+      "slug": "statistics"
+    },
+    {
+      "old": "s/su-shan-si-tai-bin-stebbing-susan-michael-beaney-and-siobhan-chapman.md",
+      "new": "s/stebbing.md",
+      "slug": "stebbing"
+    },
+    {
+      "old": "s/cha-er-si-lai-si-li-shi-di-wen-sen-stevenson-charles-leslie-daniel-boisvert-and-teemu-toppinen.md",
+      "new": "s/stevenson.md",
+      "slug": "stevenson"
+    },
+    {
+      "old": "s/si-duo-ge-zhu-yi-stoicism-marion-durand-simon-shogry-and-dirk-baltzly.md",
+      "new": "s/stoicism.md",
+      "slug": "stoicism"
+    },
+    {
+      "old": "s/lie-ao-shi-te-lao-si-strauss-leo-leora-batnitzky.md",
+      "new": "s/strauss-leo.md",
+      "slug": "strauss-leo"
+    },
+    {
+      "old": "s/bi-de-fu-lei-de-li-ke-si-te-lao-sen-strawson-peter-frederick-paul-snowdon-and-anil-gomes.md",
+      "new": "s/strawson.md",
+      "slug": "strawson"
+    },
+    {
+      "old": "s/jie-gou-xian-shi-zhu-yi-structural-realism-james-ladyman.md",
+      "new": "s/structural-realism.md",
+      "slug": "structural-realism"
+    },
+    {
+      "old": "s/jie-gou-zhu-yi-structuralism/README.md",
+      "new": "structuralism-mathematics/README.md",
+      "slug": "structuralism-mathematics"
+    },
+    {
+      "old": "s/ka-er-si-tu-mu-fu-stumpf-carl-denis-fisette.md",
+      "new": "s/stumpf.md",
+      "slug": "stumpf"
+    },
+    {
+      "old": "s/fu-lang-xi-si-ke-su-ya-lei-si-surez-francisco-christopher-shields-and-daniel-schwartz.md",
+      "new": "s/suarez.md",
+      "slug": "suarez"
+    },
+    {
+      "old": "s/shi-ti-substance-howard-robinson-and-ralph-weir.md",
+      "new": "s/substance.md",
+      "slug": "substance"
+    },
+    {
+      "old": "s/su-ha-la-wa-di-suhrawardi-roxanne-marcotte.md",
+      "new": "s/suhrawardi.md",
+      "slug": "suhrawardi"
+    },
+    {
+      "old": "s/zi-sha-suicide-michael-cholbi.md",
+      "new": "s/suicide.md",
+      "slug": "suicide"
+    },
+    {
+      "old": "s/chao-yi-wu-supererogation-david-heyd.md",
+      "new": "s/supererogation.md",
+      "slug": "supererogation"
+    },
+    {
+      "old": "s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/README.md",
+      "new": "supervenience/README.md",
+      "slug": "supervenience"
+    },
+    {
+      "old": "s/ma-ge-li-te-su-si-man-susman-margarete-willi-goetschel.md",
+      "new": "s/susman-margarete.md",
+      "slug": "susman-margarete"
+    },
+    {
+      "old": "s/li-cha-de-xi-er-wan-li-cha-de-lao-te-li-sylvan-routley-richard-dominic-hyde-filippo-casati-and-zach.md",
+      "new": "s/sylvan-routley.md",
+      "slug": "sylvan-routley"
+    },
+    {
+      "old": "s/xi-lianu-si-syrianus-christian-wildberg.md",
+      "new": "s/syrianus.md",
+      "slug": "syrianus"
+    },
+    {
+      "old": "s/xi-tong-yu-he-cheng-sheng-wu-zhe-xue-systems-and-synthetic-biology-philosophy-of-sara-green.md",
+      "new": "s/systems-synthetic-biology.md",
+      "slug": "systems-synthetic-biology"
+    },
+    {
+      "old": "t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/README.md",
+      "new": "tarski/README.md",
+      "slug": "tarski"
+    },
+    {
+      "old": "t/ni-gu-la-si-ta-lei-lu-si-taurellus-nicolaus-andreas-blank.md",
+      "new": "t/taurellus.md",
+      "slug": "taurellus"
+    },
+    {
+      "old": "t/ji-shu-zhe-xue-technology-philosophy-of-maarten-franssen-gertjan-lokhorst-and-ibo-van-de-poel.md",
+      "new": "t/technology.md",
+      "slug": "technology"
+    },
+    {
+      "old": "t/bei-er-na-di-nuo-te-le-xiao-telesio-bernardino-michaela-boenke.md",
+      "new": "t/telesio.md",
+      "slug": "telesio"
+    },
+    {
+      "old": "t/shi-jian-bu-fen-temporal-parts-katherine-hawley.md",
+      "new": "t/temporal-parts.md",
+      "slug": "temporal-parts"
+    },
+    {
+      "old": "t/shi-tai-yu-ti-tai-tense-and-aspect-friedrich-hamm-and-oliver-bott.md",
+      "new": "t/tense-aspect.md",
+      "slug": "tense-aspect"
+    },
+    {
+      "old": "t/ling-tu-zhu-quan-yu-ling-di-zheng-yi-territorial-rights-and-justice-margaret-moore.md",
+      "new": "t/territorial-rights.md",
+      "slug": "territorial-rights"
+    },
+    {
+      "old": "t/kong-bu-zhu-yi-terrorism-igor-primoratz.md",
+      "new": "t/terrorism.md",
+      "slug": "terrorism"
+    },
+    {
+      "old": "t/xi-ju-zhe-xue-theater-philosophy-of-james-r.-hamilton.md",
+      "new": "t/theater.md",
+      "slug": "theater"
+    },
+    {
+      "old": "t/ya-li-shi-duo-de-de-shen-xue-theology-of-aristotle-peter-adamson.md",
+      "new": "t/theology-aristotle.md",
+      "slug": "theology-aristotle"
+    },
+    {
+      "old": "t/tai-ao-fu-la-si-te-theophrastus-katerina-ierodiakonou.md",
+      "new": "t/theophrastus.md",
+      "slug": "theophrastus"
+    },
+    {
+      "old": "t/ke-xue-zhong-de-li-lun-shu-yu-theoretical-terms-in-science-holger-andreas.md",
+      "new": "t/theoretical-terms-science.md",
+      "slug": "theoretical-terms-science"
+    },
+    {
+      "old": "q/liang-zi-li-lun-quantum-theory/README.md",
+      "new": "theory-bioethics/README.md",
+      "slug": "theory-bioethics"
+    },
+    {
+      "old": "t/hou-lun-li-gai-nian-thick-ethical-concepts-pekka-vyrynen.md",
+      "new": "t/thick-ethical-concepts.md",
+      "slug": "thick-ethical-concepts"
+    },
+    {
+      "old": "t/heng-li-dai-wei-suo-luo-thoreau-henry-david-rick-anthony-furtak.md",
+      "new": "t/thoreau.md",
+      "slug": "thoreau"
+    },
+    {
+      "old": "t/si-xiang-shi-yan-thought-experiments-james-robert-brown-and-yiftach-fehige.md",
+      "new": "t/thought-experiment.md",
+      "slug": "thought-experiment"
+    },
+    {
+      "old": "t/sa-mu-er-yi-ben-ti-ben-tibbon-samuel-ibn-james-t.-robinson.md",
+      "new": "t/tibbon.md",
+      "slug": "tibbon"
+    },
+    {
+      "old": "t/shi-jian-ji-qi-time-machines-john-earman-christian-wthrich-and-jb-manchak.md",
+      "new": "t/time-machine.md",
+      "slug": "time-machine"
+    },
+    {
+      "old": "t/shi-jian-lv-hang-time-travel-nicholas-j.j.-smith/README.md",
+      "new": "time-travel/README.md",
+      "slug": "time-travel"
+    },
+    {
+      "old": "t/fei-li-ya-xiu-si-de-di-meng-timon-of-phlius-richard-bett.md",
+      "new": "t/timon-phlius.md",
+      "slug": "timon-phlius"
+    },
+    {
+      "old": "t/kuan-rong-toleration-rainer-forst.md",
+      "new": "t/toleration.md",
+      "slug": "toleration"
+    },
+    {
+      "old": "t/pu-tong-fa-xi-xia-de-qin-quan-fa-li-lun-torts-theories-of-the-common-law-of-arthur-ripstein.md",
+      "new": "t/tort-theories.md",
+      "slug": "tort-theories"
+    },
+    {
+      "old": "t/ku-xing-torture-seumas-miller.md",
+      "new": "t/torture.md",
+      "slug": "torture"
+    },
+    {
+      "old": "t/chu-jue-touch-matthew-fulkerson.md",
+      "new": "t/touch.md",
+      "slug": "touch"
+    },
+    {
+      "old": "t/chao-yan-zhu-yi-transcendentalism-russell-goodman.md",
+      "new": "t/trans.md",
+      "slug": "trans"
+    },
+    {
+      "old": "t/chao-yan-zhu-yi-transcendentalism-russell-goodman.md",
+      "new": "t/transcendentalism.md",
+      "slug": "transcendentalism"
+    },
+    {
+      "old": "t/zhong-shi-ji-de-chao-yue-li-lun-transcendentals-medieval-theories-of-wouter-goris-and-jan-aertsen.md",
+      "new": "t/transcendentals-medieval.md",
+      "slug": "transcendentals-medieval"
+    },
+    {
+      "old": "t/bian-ge-xing-ti-yan-transformative-experience-rebecca-chan.md",
+      "new": "t/transformative-experience.md",
+      "slug": "transformative-experience"
+    },
+    {
+      "old": "t/bian-hu-yu-dan-bao-de-chuan-di-transmission-of-justification-and-warrant-luca-moretti-and-tommaso-pi.md",
+      "new": "t/transmission-justification-warrant.md",
+      "slug": "transmission-justification-warrant"
+    },
+    {
+      "old": "t/san-wei-yi-ti-trinity-dale-tuggy.md",
+      "new": "t/trinity.md",
+      "slug": "trinity"
+    },
+    {
+      "old": "t/te-pu-tropes-annasofia-maurin.md",
+      "new": "t/tropes.md",
+      "slug": "tropes"
+    },
+    {
+      "old": "t/xin-ren-trust-carolyn-mcleod.md",
+      "new": "t/trust.md",
+      "slug": "trust"
+    },
+    {
+      "old": "t/zhen-li-truth-michael-glanzberg/README.md",
+      "new": "truth/README.md",
+      "slug": "truth"
+    },
+    {
+      "old": "t/zhen-zhi-truth-values-yaroslav-shramko-and-heinrich-wansing.md",
+      "new": "t/truth-values.md",
+      "slug": "truth-values"
+    },
+    {
+      "old": "t/si-zhen-xing-truthlikeness-graham-oddie-and-gustavo-cevolani.md",
+      "new": "t/truthlikeness.md",
+      "slug": "truthlikeness"
+    },
+    {
+      "old": "t/shi-zhen-zhe-truthmakers-fraser-macbride.md",
+      "new": "t/truthmakers.md",
+      "slug": "truthmakers"
+    },
+    {
+      "old": "t/zong-ka-ba-tsongkhapa-gareth-sparham-and-chandra-chiara-ehm.md",
+      "new": "t/tsongkhapa.md",
+      "slug": "tsongkhapa"
+    },
+    {
+      "old": "t/ai-lun-tu-ling-turing-alan-andrew-hodges.md",
+      "new": "t/turing.md",
+      "slug": "turing"
+    },
+    {
+      "old": "t/tu-ling-ji-turing-machines-liesbeth-de-mol.md",
+      "new": "t/turing-machine.md",
+      "slug": "turing-machine"
+    },
+    {
+      "old": "t/tu-ling-ce-shi-turing-test-graham-oppy-and-david-dowe.md",
+      "new": "t/turing-test.md",
+      "slug": "turing-test"
+    },
+    {
+      "old": "t/zi-mi-er-ci-te-wa-er-duo-fu-si-ji-twardowski-kazimierz-arianna-betti.md",
+      "new": "t/twardowski.md",
+      "slug": "twardowski"
+    },
+    {
+      "old": "t/yin-du-de-er-di-li-lun-two-truths-in-india-theory-of-sonam-thakchoe.md",
+      "new": "t/twotruths-india.md",
+      "slug": "twotruths-india"
+    },
+    {
+      "old": "t/xi-cang-de-er-di-li-lun-two-truths-in-tibet-theory-of-sonam-thakchoe.md",
+      "new": "t/twotruths-tibet.md",
+      "slug": "twotruths-tibet"
+    },
+    {
+      "old": "t/lei-xing-lun-type-theory-thierry-coquand/README.md",
+      "new": "type-theory/README.md",
+      "slug": "type-theory"
+    },
+    {
+      "old": "t/lei-xing-yu-ge-li-types-and-tokens-linda-wetzel.md",
+      "new": "t/types-tokens.md",
+      "slug": "types-tokens"
+    },
+    {
+      "old": "u/ou-ma-er-hai-ya-mu-umar-khayyam-seyed-n.-mousavian-suzanne-sumner-mehdi-aminrazavi-and-glen-van-brum.md",
+      "new": "u/umar-khayyam.md",
+      "slug": "umar-khayyam"
+    },
+    {
+      "old": "u/li-jie-understanding-stephen-grimm.md",
+      "new": "u/understanding.md",
+      "slug": "understanding"
+    },
+    {
+      "old": "v/mo-hu-xing-vagueness-roy-sorensen.md",
+      "new": "v/vagueness.md",
+      "slug": "vagueness"
+    },
+    {
+      "old": "v/han-si-fei-ying-ge-vaihinger-hans-timothy-stoll.md",
+      "new": "v/vaihinger.md",
+      "slug": "vaihinger"
+    },
+    {
+      "old": "p/duo-yuan-zhu-yi-pluralism/README.md",
+      "new": "value-pluralism/README.md",
+      "slug": "value-pluralism"
+    },
+    {
+      "old": "v/jia-zhi-lun-value-theory-mark-schroeder.md",
+      "new": "v/value-theory.md",
+      "slug": "value-theory"
+    },
+    {
+      "old": "v/shi-qin-vasubandhu-jonathan-c.-gold.md",
+      "new": "v/vasubandhu.md",
+      "slug": "vasubandhu"
+    },
+    {
+      "old": "v/lun-li-su-shi-zhu-yi-vegetarianism-ethics-of-tyler-doggett.md",
+      "new": "v/vegetarianism.md",
+      "slug": "vegetarianism"
+    },
+    {
+      "old": "v/zhan-ba-di-si-ta-wei-ke-vico-giambattista-timothy-costelloe.md",
+      "new": "v/vico.md",
+      "slug": "vico"
+    },
+    {
+      "old": "v/wei-ye-na-xue-pai-vienna-circle-thomas-uebel.md",
+      "new": "v/vienna-circle.md",
+      "slug": "vienna-circle"
+    },
+    {
+      "old": "v/hu-an-lu-yi-si-wei-fu-si-vives-juan-luis-lorenzo-casini.md",
+      "new": "v/vives.md",
+      "slug": "vives"
+    },
+    {
+      "old": "v/fu-er-tai-voltaire-j.b.-shank.md",
+      "new": "v/voltaire.md",
+      "slug": "voltaire"
+    },
+    {
+      "old": "v/shen-xue-yi-zhi-zhu-yi-voluntarism-theological-mark-murphy.md",
+      "new": "v/voluntarism-theological.md",
+      "slug": "voluntarism-theological"
+    },
+    {
+      "old": "v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/README.md",
+      "new": "voting/README.md",
+      "slug": "voting"
+    },
+    {
+      "old": "w/wang-yang-ming-wang-yangming-bryan-van-norden.md",
+      "new": "w/wang-yangming.md",
+      "slug": "wang-yangming"
+    },
+    {
+      "old": "w/zhan-zheng-war-seth-lazar.md",
+      "new": "w/war.md",
+      "slug": "war"
+    },
+    {
+      "old": "w/he-shi-zhe-lang-watsuji-tetsur-robert-carter-and-erin-mccarthy.md",
+      "new": "w/watsuji-tetsuro.md",
+      "slug": "watsuji-tetsuro"
+    },
+    {
+      "old": "w/yi-zhi-bao-ruo-weakness-of-will-sarah-stroud-and-larisa-svirsky.md",
+      "new": "w/weakness-will.md",
+      "slug": "weakness-will"
+    },
+    {
+      "old": "w/he-er-man-wai-er-weyl-hermann-john-l.-bell-and-herbert-kort.md",
+      "new": "w/weyl.md",
+      "slug": "weyl"
+    },
+    {
+      "old": "w/wei-lian-hui-wei-er-whewell-william-laura-j.-snyder.md",
+      "new": "w/whewell.md",
+      "slug": "whewell"
+    },
+    {
+      "old": "w/a-fu-lie-nuo-fu-huai-te-hai-whitehead-alfred-north-ronald-desmet-and-andrew-david-irvine.md",
+      "new": "w/whitehead.md",
+      "slug": "whitehead"
+    },
+    {
+      "old": "w/wei-lian-wen-de-er-ban-windelband-wilhelm-katherina-kinzel.md",
+      "new": "w/wilhelm-windelband.md",
+      "slug": "wilhelm-windelband"
+    },
+    {
+      "old": "w/wei-lian-ma-ke-xi-mi-li-an-feng-te-wundt-wilhelm-maximilian-alan-kim.md",
+      "new": "w/wilhelm-wundt.md",
+      "slug": "wilhelm-wundt"
+    },
+    {
+      "old": "w/ao-fu-nie-de-wei-lian-william-of-auvergne-neil-lewis-and-katrin-fischer.md",
+      "new": "w/william-auvergne.md",
+      "slug": "william-auvergne"
+    },
+    {
+      "old": "w/shang-bo-de-wei-lian-william-of-champeaux-kevin-guilfoy.md",
+      "new": "w/william-champeaux.md",
+      "slug": "william-champeaux"
+    },
+    {
+      "old": "w/she-wu-de-de-wei-lian-william-of-sherwood-sara-l.-uckelman.md",
+      "new": "w/william-sherwood.md",
+      "slug": "william-sherwood"
+    },
+    {
+      "old": "w/bo-na-de-wei-lian-mu-si-williams-bernard-sophiegrace-chappell-and-nicholas-smyth.md",
+      "new": "w/williams-bernard.md",
+      "slug": "williams-bernard"
+    },
+    {
+      "old": "w/tang-na-de-ka-li-wei-lian-mu-si-williams-donald-cary-keith-campbell-james-franklin-and-douglas-ehrin.md",
+      "new": "w/williams-dc.md",
+      "slug": "williams-dc"
+    },
+    {
+      "old": "w/lu-de-wei-xi-wei-te-gen-si-tan-wittgenstein-ludwig-anat-biletzki-and-anat-matar/README.md",
+      "new": "wittgenstein/README.md",
+      "slug": "wittgenstein"
+    },
+    {
+      "old": "l/luo-ji-yuan-zi-zhu-yi-logical-atomism/README.md",
+      "new": "wittgenstein-atomism/README.md",
+      "slug": "wittgenstein-atomism"
+    },
+    {
+      "old": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/README.md",
+      "new": "wittgenstein-mathematics/README.md",
+      "slug": "wittgenstein-mathematics"
+    },
+    {
+      "old": "w/ya-dang-feng-wo-de-han-mu-wodeham-adam-de-john-t.-slotemaker-and-jeffrey-c.-witt.md",
+      "new": "w/wodeham.md",
+      "slug": "wodeham"
+    },
+    {
+      "old": "w/ke-li-si-di-an-wo-er-fu-wolff-christian-matt-hettche-and-corey-dyck.md",
+      "new": "w/wolff-christian.md",
+      "slug": "wolff-christian"
+    },
+    {
+      "old": "w/ma-li-wo-si-tong-ke-la-fu-te-wollstonecraft-mary-sylvana-tomaselli.md",
+      "new": "w/wollstonecraft.md",
+      "slug": "wollstonecraft"
+    },
+    {
+      "old": "w/gong-zuo-he-lao-dong-work-and-labor-michael-cholbi.md",
+      "new": "w/work-labor.md",
+      "slug": "work-labor"
+    },
+    {
+      "old": "w/shi-jie-zheng-fu-world-government-catherine-lu.md",
+      "new": "w/world-government.md",
+      "slug": "world-government"
+    },
+    {
+      "old": "w/yue-han-wei-ke-li-fu-wyclif-john-alessandro-conti/README.md",
+      "new": "wyclif/README.md",
+      "slug": "wyclif"
+    },
+    {
+      "old": "x/se-nuo-ke-la-di-xenocrates-russell-dancy.md",
+      "new": "x/xenocrates.md",
+      "slug": "xenocrates"
+    },
+    {
+      "old": "x/ke-sai-nuo-fen-ni-xenophanes-james-lesher.md",
+      "new": "x/xenophanes.md",
+      "slug": "xenophanes"
+    },
+    {
+      "old": "x/xun-zi-xunzi-paul-r.-goldin.md",
+      "new": "x/xunzi.md",
+      "slug": "xunzi"
+    },
+    {
+      "old": "y/bao-luo-yue-ke-feng-wa-teng-bao-bo-jue-yorck-von-wartenburg-count-paul-ingo-farin.md",
+      "new": "y/yorck.md",
+      "slug": "yorck"
+    },
+    {
+      "old": "z/ya-ge-bu-sa-ba-lei-la-zabarella-giacomo-heikki-mikkeli-and-tawrin-baker.md",
+      "new": "z/zabarella.md",
+      "slug": "zabarella"
+    },
+    {
+      "old": "z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/README.md",
+      "new": "zeno-elea/README.md",
+      "slug": "zeno-elea"
+    },
+    {
+      "old": "z/zhu-xi-zhu-xi-kirill-thompson.md",
+      "new": "z/zhu-xi.md",
+      "slug": "zhu-xi"
+    },
+    {
+      "old": "z/zhuang-zi-zhuangzi-chad-hansen.md",
+      "new": "z/zhuangzi.md",
+      "slug": "zhuangzi"
+    },
+    {
+      "old": "z/jiang-shi-zombies-robert-kirk.md",
+      "new": "z/zombies.md",
+      "slug": "zombies"
+    }
+  ],
+  "phase2_cluster_children": 595,
+  "note": "dry-run 计划；执行需 git mv + 全库链接改写，且应等并行会话停止写入后进行"
+}

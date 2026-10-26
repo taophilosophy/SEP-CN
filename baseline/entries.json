@@ -72,6 +72,53 @@
       "zh_doc": "a/su-yin-abduction-igor-douven.md"
     },
     {
+      "slug": "academic-freedom",
+      "fetched_at": "2026-10-26T19:44:34Z",
+      "source_url": "https://plato.stanford.edu/entries/academic-freedom/",
+      "title": "Academic Freedom",
+      "authors": [
+        "Levy, Jacob T."
+      ],
+      "pubinfo": {
+        "first_published": "Oct 17, 2026",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/academic-freedom.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/academic-freedom/index.html",
+          "sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
+          "bytes": 137134,
+          "kind": "main"
+        },
+        {
+          "path": "en/academic-freedom/notes.html",
+          "sha256": "8cec59d0e1d63cc07662e68d512bff1d87c9d0a14dea09678b899aa540dd807f",
+          "bytes": 12293,
+          "kind": "notes"
+        }
+      ],
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/a/academic-freedom.md",
+        "sha256": "5a04f06192fbb2b48c3766be4dc056495dde7a9dfae353dbacdccf935b4707e5",
+        "source_sha256": "f347d921b34cfa33f0d420a358bf818e901f5c56eb8217e4ba33bde05b57d635",
+        "converted_at": "2026-10-26T19:44:46Z",
+        "cite_markers": 58,
+        "cite_defs": 130,
+        "supplements": [],
+        "images": [],
+        "notes": 1
+      }
+    },
+    {
       "slug": "alcmaeon",
       "fetched_at": "2026-10-26T16:38:47Z",
       "source_url": "https://plato.stanford.edu/entries/alcmaeon/",
@@ -757,5 +804,5 @@
       "zh_doc": "s/ji-he-lun-set-theory-joan-bagaria/README.md"
     }
   ],
-  "updated_at": "2026-10-26T19:06:54Z"
+  "updated_at": "2026-10-26T19:44:46Z"
 }

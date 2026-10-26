@@ -1,6 +1,6 @@
 # 工具目录
 
-本目录是唯一入库的脚本目录，分两部分：**同步管线包**（specs/001 产物）与**目录治理工具**。约定：Python 3 仅标准库；文件 UTF-8 无 BOM、LF；失败显式化、禁止静默跳过；退出码约定见各工具 docstring。使用与提交约定见 `rules/05-ci-and-tools.md`。
+本目录是唯一入库的脚本目录，分两部分：** 同步管线包 ** （specs/001 产物）与 ** 目录治理工具 **。约定：Python 3 仅标准库；文件 UTF-8 无 BOM、LF；失败显式化、禁止静默跳过；退出码约定见各工具 docstring。使用与提交约定见 `rules/05-ci-and-tools.md`。
 
 ## 同步管线包（specs/001-sep-sync-pipeline）
 
