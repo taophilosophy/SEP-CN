@@ -44,20 +44,20 @@ description: "Task list for SEP 同步管线 feature"
 
 ## Phase 1: Setup
 
-- [ ] T001 建 `tools/`、`tools/tests/`、`en/`、`en/_catalog/`、`baseline/`、`baseline/changes/`、`tasks/` 目录骨架，并写 `tools/__init__.py`
-- [ ] T002 [P] 建 `en/.gitkeep` 确认 `.gitignore` 现行规则已覆盖 `en/`、`/script`（只核对不修改——AGENTS.md/.gitignore 归其他会话）
-- [ ] T003 [P] 写 `tools/common.py`：UTF-8 无 BOM 读写、LF 规范化、仓库根定位、写后读回自校验的 `write_json_verified()`（防假成功写入，见 plan.md 环境补充约束）
-- [ ] T004 [P] 写 `tools/fetch.py`：urllib 封装——UA 标识、相邻请求 ≥5 秒（宪法 V）、429/5xx/超时指数退避重试 ≤3 次、每次请求记录 `{url, status, bytes, sha256, at}` 日志至 `script/http-log.jsonl`（演示轮 1 修订：原命名 `http.py` 遮蔽标准库 `http` 包，已改名）
-- [ ] T005 [P] 从抽样复制 9 个金样本到 `tools/tests/fixtures/`（set-theory/logic-classical/bayes-theorem/bell-theorem/ibn-sina/consciousness/quine/aristotle-logic/arch-anaxagoras + archinfo 输出）
+- [x] T001 建 `tools/`、`tools/tests/`、`en/`、`en/_catalog/`、`baseline/`、`baseline/changes/`、`tasks/` 目录骨架，并写 `tools/__init__.py`
+- [x] T002 [P] 建 `en/.gitkeep` 确认 `.gitignore` 现行规则已覆盖 `en/`、`/script`（只核对不修改——AGENTS.md/.gitignore 归其他会话）
+- [x] T003 [P] 写 `tools/common.py`：UTF-8 无 BOM 读写、LF 规范化、仓库根定位、写后读回自校验的 `write_json_verified()`（防假成功写入，见 plan.md 环境补充约束）
+- [x] T004 [P] 写 `tools/fetch.py`：urllib 封装——UA 标识、相邻请求 ≥5 秒（宪法 V）、429/5xx/超时指数退避重试 ≤3 次、每次请求记录 `{url, status, bytes, sha256, at}` 日志至 `script/http-log.jsonl`（演示轮 1 修订：原命名 `http.py` 遮蔽标准库 `http` 包，已改名）
+- [x] T005 [P] 从抽样复制 9 个金样本到 `tools/tests/fixtures/`（set-theory/logic-classical/bayes-theorem/bell-theorem/ibn-sina/consciousness/quine/aristotle-logic/arch-anaxagoras + archinfo 输出）
 
 ## Phase 2: Foundational（阻塞所有用户故事）
 
-- [ ] T006 写 `tools/parser.py`：按 spec"网站结构事实基础"标记契约解析词条 HTML——`<!-- BEGIN/END ARTICLE HTML -->` 边界、`pubinfo`、`h2/h3/h4+锚`、`div#toc`、`div.figure`+`figlabel`、`blockquote>table`、`sup>a[href^=notes.html]`、citation_author 元数据；输出块序列
-- [ ] T007 [P] unittest：`tools/tests/test_common.py`——set-theory 解析出 `basic-set-theory.html` 引用、bayes-theorem 解析出 notes 引用 ≥16、bell-theorem 图 figlabel 归并、anaxagoras pubinfo=2007-08-22/2026-08-09、logic-classical 行内公式 `\(...\)` 计数 >1000、archinfo 解析 Fall 2026 + Winter 2019 历史
-- [ ] T008 [P] unittest：`tools/tests/test_common.py`——write_json_verified 往返一致；UTF-8/LF 断言
-- [ ] T009 实现 `tools/extract_text.py`（契约见 contracts/cli.md）：HTML→带节号块序列文本，输出 `en/<slug>.txt`；同输入必得同输出（哈希可复算）
-- [ ] T010 [P] unittest：`tools/tests/test_common.py`——同一 fixture 跑两遍输出逐字节一致；实体解码（`&mdash;`→—）与数学定界符原样保留断言
-- [ ] T011 全部 unittest 通过：`python -m unittest discover -s tools/tests -t .`，0 failures（实测 26 例全绿）
+- [x] T006 写 `tools/parser.py`：按 spec"网站结构事实基础"标记契约解析词条 HTML——`<!-- BEGIN/END ARTICLE HTML -->` 边界、`pubinfo`、`h2/h3/h4+锚`、`div#toc`、`div.figure`+`figlabel`、`blockquote>table`、`sup>a[href^=notes.html]`、citation_author 元数据；输出块序列
+- [x] T007 [P] unittest：`tools/tests/test_common.py`——set-theory 解析出 `basic-set-theory.html` 引用、bayes-theorem 解析出 notes 引用 ≥16、bell-theorem 图 figlabel 归并、anaxagoras pubinfo=2007-08-22/2026-08-09、logic-classical 行内公式 `\(...\)` 计数 >1000、archinfo 解析 Fall 2026 + Winter 2019 历史
+- [x] T008 [P] unittest：`tools/tests/test_common.py`——write_json_verified 往返一致；UTF-8/LF 断言
+- [x] T009 实现 `tools/extract_text.py`（契约见 contracts/cli.md）：HTML→带节号块序列文本，输出 `en/<slug>.txt`；同输入必得同输出（哈希可复算）
+- [x] T010 [P] unittest：`tools/tests/test_common.py`——同一 fixture 跑两遍输出逐字节一致；实体解码（`&mdash;`→—）与数学定界符原样保留断言
+- [x] T011 全部 unittest 通过：`python -m unittest discover -s tools/tests -t .`，0 failures（实测 26 例全绿）
 
 **Checkpoint**: 基础设施就绪，可并行开工 US1/US2/US3 的独立部分
 
@@ -66,11 +66,11 @@ description: "Task list for SEP 同步管线 feature"
 **Goal**: 任意词条抓成完整词条包并形成可审计基线
 **Independent Test**: quickstart 场景 1——5 样本抓取成功率 100%，缺省件显式登记，哈希复算通过
 
-- [ ] T012 [US1] 实现 `tools/fetch_entry.py`（契约见 contracts/cli.md）：正文+notes+补充材料+图片递归抓取、404 记 missing 缺省件、pubinfo 提取、archinfo 核对、登记 `baseline/entries.json`（data-model Snapshot 字段，slug 主键）
-- [ ] T013 [US1] 实现 `tools/fetch_catalog.py`：抓 contents.html 存 `en/_catalog/<时间戳>-contents.html`，解析全量清单（slug/标题/作者/alias_of/level），与上次快照 diff 输出 added/removed/renamed/alias_changed
-- [ ] T014 [US1] 实现 `tools/baseline_audit.py`：登记物逐件复算 SHA-256 + 存在性核对 + 缺省件核对；提供 `gate_passes(slug)` 供 clear 使用
-- [ ] T015 [US1] 抓取 5 样本词条（set-theory logic-classical bayes-theorem bell-theorem quine），stdout JSON 存 `script/tmp/demo-us1.json` 作凭证
-- [ ] T016 [US1] 运行 `baseline_audit.py` 全通过；提交基线（"建立词条基线：首批 5 样本"）与流程文档（"SEP 同步管线规格与产物"）——分开提交
+- [x] T012 [US1] 实现 `tools/fetch_entry.py`（契约见 contracts/cli.md）：正文+notes+补充材料+图片递归抓取、404 记 missing 缺省件、pubinfo 提取、archinfo 核对、登记 `baseline/entries.json`（data-model Snapshot 字段，slug 主键）
+- [x] T013 [US1] 实现 `tools/fetch_catalog.py`：抓 contents.html 存 `en/_catalog/<时间戳>-contents.html`，解析全量清单（slug/标题/作者/alias_of/level），与上次快照 diff 输出 added/removed/renamed/alias_changed
+- [x] T014 [US1] 实现 `tools/baseline_audit.py`：登记物逐件复算 SHA-256 + 存在性核对 + 缺省件核对；提供 `gate_passes(slug)` 供 clear 使用
+- [x] T015 [US1] 抓取 5 样本词条（set-theory logic-classical bayes-theorem bell-theorem quine），stdout JSON 存 `script/tmp/demo-us1.json` 作凭证
+- [x] T016 [US1] 运行 `baseline_audit.py` 全通过；提交基线（"建立词条基线：首批 5 样本"）与流程文档（"SEP 同步管线规格与产物"）——分开提交
 
 **Checkpoint**: SC-001 达成——US1 独立可用
 
@@ -79,9 +79,9 @@ description: "Task list for SEP 同步管线 feature"
 **Goal**: 真实词条完整跑通一轮，暴露问题修订流程文档
 **Independent Test**: 演示日志 + 四件产物修订记录可查
 
-- [ ] T017 [US5] 选一个小型真实词条，执行 SOP 步 0–3（gate/clear/draft 初译/s1 一校），全过命令与输出记 `script/tmp/demo-log.md`
-- [ ] T018 [US5] 演示中暴露的每个问题：或修订 specs/001-sep-sync-pipeline 四件（注明"演示轮 1 修订"），或记入"维持原设计"理由——逐条落档
-- [ ] T019 [US5] 向用户汇报演示结果与修订清单，确认是否进入下一循环
+- [x] T017 [US5] 选一个小型真实词条，执行 SOP 步 0–3（gate/clear/draft 初译/s1 一校），全过命令与输出记 `script/tmp/demo-log.md`
+- [x] T018 [US5] 演示中暴露的每个问题：或修订 specs/001-sep-sync-pipeline 四件（注明"演示轮 1 修订"），或记入"维持原设计"理由——逐条落档
+- [x] T019 [US5] 向用户汇报演示结果与修订清单，确认是否进入下一循环（由本轮收尾报告履行）
 
 **Checkpoint**: 流程经实跑验证一次（循环起点，后续按用户指令循环）
 
