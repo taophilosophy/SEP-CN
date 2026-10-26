@@ -20,7 +20,7 @@ import os
 import sys
 import threading
 import time
-from queue import Queue
+from queue import Empty, Queue
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -78,7 +78,7 @@ def worker(q, cfg, flags, stats):
     while not _stop.is_set():
         try:
             slug = q.get_nowait()
-        except Queue.empty:
+        except Empty:
             return
         rec = {"at": utcnow_iso(), "slug": slug}
         try:
