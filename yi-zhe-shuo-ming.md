@@ -37,7 +37,7 @@
 | Confucianism | 儒家思想 | 语料回收 | 2026-10-27 |
 | connectionism | 联结主义 | 语料回收 | 2026-10-27 |
 | consequentialism | 后果主义 | 语料回收 | 2026-10-27 |
-| Constitution | 构成（康德语境）；构造（胡塞尔 Konstitution）；宪法（政治语境） | 词汇表复核（源提交 b27b33bd） | 2026-10-27 |
+| Constitution | 构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法） | 词汇表复核（源提交 b27b33bd） | 2026-10-27 |
 | contextualism | 语境主义 | 语料回收 | 2026-10-27 |
 | deductive system | 演绎系统 | 语料回收（logic-classical） | 2026-10-27 |
 | denumerably infinite | 可数无穷 | 语料回收（set-theory） | 2026-10-27 |
@@ -140,24 +140,24 @@
 
 ## 人名（古典人名有千年通行译名者用汉译并首次括注英文；现代学者人名一律保留英文）
 
-| 原文 | 译法 | 备注 |
+| 原文 | 译法 | 备注 | 裁定日期 |
 | ---- | ---- | ---- |
-| Alcmaeon | 阿尔克迈翁 | 已见于 SUMMARY.md 标题（克罗顿的阿尔克迈翁） |
-| Anaximander | 阿那克西曼德 | |
-| Anaximenes | 阿那克西美尼 | |
-| Aristotle | 亚里士多德 | |
-| Democedes | 德摩塞迪斯 | |
-| Empedocles | 恩培多克勒 | |
-| Galen | 盖伦 | |
-| Heraclitus | 赫拉克利特 | |
-| Herodotus | 希罗多德 | |
-| Parmenides | 巴门尼德 | |
-| Philolaus | 菲洛劳斯 | |
-| Plato | 柏拉图 | |
-| Pythagoras | 毕达哥拉斯 | |
-| Theophrastus | 特奥弗拉斯托斯 | |
-| Xenophanes | 色诺芬尼 | |
-| Diogenes Laertius | 第欧根尼·拉尔修 | |
+| Alcmaeon | 阿尔克迈翁 | 已见于 SUMMARY.md 标题（克罗顿的阿尔克迈翁） | 2026-10-26 |
+| Anaximander | 阿那克西曼德 |  | 2026-10-26 |
+| Anaximenes | 阿那克西美尼 |  | 2026-10-26 |
+| Aristotle | 亚里士多德 |  | 2026-10-26 |
+| Democedes | 德摩塞迪斯 |  | 2026-10-26 |
+| Empedocles | 恩培多克勒 |  | 2026-10-26 |
+| Galen | 盖伦 |  | 2026-10-26 |
+| Heraclitus | 赫拉克利特 |  | 2026-10-26 |
+| Herodotus | 希罗多德 |  | 2026-10-26 |
+| Parmenides | 巴门尼德 |  | 2026-10-26 |
+| Philolaus | 菲洛劳斯 |  | 2026-10-26 |
+| Plato | 柏拉图 |  | 2026-10-26 |
+| Pythagoras | 毕达哥拉斯 |  | 2026-10-26 |
+| Theophrastus | 特奥弗拉斯托斯 |  | 2026-10-26 |
+| Xenophanes | 色诺芬尼 |  | 2026-10-26 |
+| Diogenes Laertius | 第欧根尼·拉尔修 |  | 2026-10-26 |
 
 其余人名（Brotinus、Leon、Bathyllus、Theano、Iamblichus、Censorinus、Aetius、Chalcidius、Calcidius、Philoponus、Simplicius、Xenocrates、Thales、Callisthenes、Herophilus、Favorinus、Nicolaus Damascenus、Alcman 等）首次出现时保留英文原名，是否音译待 AGENTS.md 修正会话统一裁定（演示轮 1 登记的体例冲突：本仓库 SUMMARY.md 标题实际对古典人名用通行汉译，与《UNIX 生活》项目 AGENTS.md“人名一律保留英文”冲突）。
 
