@@ -1,0 +1,88 @@
+name: 🔃 SEP 上游同步检查
+
+# 每周抓取 plato.stanford.edu/contents.html 与已提交基线比对。
+# 原则：只报告、不自动修改 SUMMARY.md / mu-lu-s.md / 不自动删条目。
+# 处理流程见《分类目录核查建议书》第十节。
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 18 * * 1" # 每周一 18:30 UTC（北京时间周二 02:30）
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: sep-sync-check
+  cancel-in-progress: false
+
+jobs:
+  sync-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.x"
+
+      - name: 抓取 SEP 目录并与基线比对
+        id: check
+        run: python .github/scripts/sep_sync_check.py
+
+      - name: 读取检查结果
+        if: always()
+        id: status
+        run: |
+          if [ -f .github/sep-sync-report/status.json ]; then
+            echo "status=$(python -c "import json;print(json.load(open('.github/sep-sync-report/status.json',encoding='utf-8'))['status'])")" >> "$GITHUB_OUTPUT"
+          else
+            echo "status=script-error" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 归档报告
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sep-sync-report
+          path: .github/sep-sync-report/
+          if-no-files-found: ignore
+
+      - name: 有变化或异常时创建/更新 Issue
+        if: always() && steps.status.outputs.status != 'clean'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ST: ${{ steps.status.outputs.status }}
+        run: |
+          set -euo pipefail
+          TITLE="SEP 上游变化同步报告"
+          LABEL="sep-upstream-sync"
+          gh label create "$LABEL" --color 5319E6 --description "SEP 官方目录与本地基线存在差异" --force >/dev/null 2>&1 || true
+          if [ "$ST" = "fetch-error" ] || [ "$ST" = "parse-error" ] || [ "$ST" = "no-baseline" ]; then
+            gh label create "sep-sync-broken" --color D93F0B --description "抓取或解析失败，脚本/护栏需人工处理" --force >/dev/null 2>&1 || true
+          fi
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number' 2>/dev/null || true)
+          BODY=".github/sep-sync-report/report.md"
+          {
+            echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+            echo "结果状态：\`$ST\`"
+            echo
+            cat "$BODY" 2>/dev/null || echo "（报告文件缺失，请查看 Actions 日志）"
+          } > combined.md
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body-file combined.md
+            gh issue edit "$NUM" --add-label "$LABEL"
+          else
+            gh issue create --title "$TITLE" --body-file combined.md --label "$LABEL"
+          fi
+
+      - name: 脚本崩溃兜底
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="SEP 上游变化同步报告"
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number' 2>/dev/null || true)
+          MSG="同步检查脚本在运行中崩溃（run ${GITHUB_RUN_ID}）。请查看 [Actions 日志](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}) 并人工排查 .github/scripts/sep_sync_check.py。"
+          if [ -n "$NUM" ]; then gh issue comment "$NUM" --body "$MSG"; else gh issue create --title "$TITLE" --body "$MSG"; fi
