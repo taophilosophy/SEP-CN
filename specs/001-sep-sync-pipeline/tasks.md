@@ -150,6 +150,13 @@ description: "Task list for SEP 同步管线 feature"
 
 ---
 
+## 目录一致性维护（2026-10-27 用户新增待办）
+
+- [ ] T050 [US2] SUMMARY 与上游 contents.html 全量一致性核验：以最新 `en/_catalog` 快照为权威，扩展目录比对工具覆盖**真实条目层**（现 `script/alias_map.py` 仅比对别名层；上游条目链接为 `<strong>` 包装，集群子条目另有 `母: 子` 裸链接文本两套形态，比对时须区分），产出结构 diff 报告（缺失/改名/作者变化/集群重组/新增别名），每项人工裁决（禁止机械同步），裁决结论回写报告并转对应翻译/重译任务。已知差异基线（2026-10-27）：上游 1872 词条 + 637 别名；别名层分歧 0（当日 11 处别名标题纠正后）；"科学解释"上游已重组为集群（scientific-explanation-20th / causal-explanation-science 两子条目，本地仍为单条目）；moral status of 上游新增合著者 Susana Monsó；40 个上游别名按原名未见于本地（多为上游新增，如 algorithmic fairness）。
+- [ ] T051 mu-lu-s 条目无缺口：先修 `script/parse_toc.py` 的 LINE_RE 转义括号缺陷（`\[…\]` 使含转义括号的行整行漏析，现少算 38 条，SUMMARY 应为 2616）；再建 SUMMARY↔mu-lu-s 差集清单并收敛。现状基线（2026-10-27，含漏行影响）：仅在 SUMMARY 798（其中约 796 为别名词条与集群 README/别名目录首页，须先裁定这两类是否按体例排除出分类目录）、仅在 mu-lu-s 0、同路径标题不一致 2、mu-lu-s 重复收录 5；按裁定补齐/修正在 mu-lu-s，复跑比对脚本直至差集仅含有意排除类、标题不一致 0、重复 0。
+
+---
+
 ## Dependencies & Execution Order
 
 ### Phase Dependencies
@@ -158,6 +165,7 @@ description: "Task list for SEP 同步管线 feature"
 
 ### 关键依赖
 - T012 依赖 T006/T009（解析与提取）；T028 依赖 T014（clear 的 gate 调 baseline_audit）；T032 依赖 T028/T029 + US1 基线；T035–T042 依赖 T032（SOP 样例确立）与 US3（update 类输入）
+- T050/T051 依赖最新 `en/_catalog` 快照（T007 fetch_catalog）与 2026-10-27 别名纠正基线；T051 的比对工具修复（parse_toc.py）先行
 - 战役批 T035–T042 内部无依赖，可多会话并行（每会话认领不同字母批，任务 JSON 文件不冲突）
 
 ## Parallel Example
