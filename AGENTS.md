@@ -35,4 +35,5 @@
 * **流程先行**：动笔前先有任务记录（`tasks/`）；先登记术语后使用；每步留 `evidence` 凭证。
 * **提交纪律**：高频小步提交，中文一行信息；只提交相关文件；直接提交 main；未经用户要求不 push、不 force；提交前核对 HEAD（本仓库多会话并行，见 `rules/06-governance.md`）。
 * **抓取礼貌**：相邻 HTTP 请求 ≥5 秒；4xx/5xx/超时退避重试并记录，禁止静默跳过。
-* **检查**：本地预检 `python tools/check_style.py`、`python tools/check_summary.py`、`python tools/check_mulu_s.py`；推送后 CI 为最终裁判。
+* **单体文件**：叙事/规则/规格类 md 超 1000 行或 100KB 必须按文件夹拆分（登记册与生成物豁免，见 ADR-0004）；门禁 `tools/check_doc_size.py`。
+* **检查**：本地预检 `python tools/check_style.py`、`python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_doc_size.py`；推送后 CI 为最终裁判。

@@ -25,6 +25,9 @@ jobs:
       - name: 垃圾与产物入库门禁（tools/check_junk.py）
         run: python tools/check_junk.py
 
+      - name: 单体文件大小门禁（tools/check_doc_size.py）
+        run: python tools/check_doc_size.py
+
       - name: 术语一致性门禁（tools/check_terms.py）
         run: python tools/check_terms.py
 

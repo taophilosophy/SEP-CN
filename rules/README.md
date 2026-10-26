@@ -15,7 +15,7 @@
 
 | 文件 | 内容 | 约束对象 |
 | ---- | ---- | -------- |
-| [01-repository-structure.md](01-repository-structure.md) | 仓库结构、目录职责、命名、SUMMARY 与分类目录 | 全部贡献者 |
+| [01-repository-structure.md](01-repository-structure.md) | 仓库结构、目录职责、命名、SUMMARY 与分类目录、单体文件治理 | 全部贡献者 |
 | [02-style.md](02-style.md) | 编写体例：引号、空格、代码块、表格、图片 | 译文与说明页 |
 | [03-terminology.md](03-terminology.md) | 术语治理：登记册与发布词汇表的关系、登记流程 | 译文 |
 | [04-translation-workflow.md](04-translation-workflow.md) | 翻译与三审三校流程、任务联动、重译纪律 | 翻译与校对会话 |
@@ -29,3 +29,4 @@
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
 * 批量或破坏性动作 → 先满足宪法附加约束（可信基线 + 可回溯），见 [06](06-governance.md)。
+* 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。

@@ -50,3 +50,9 @@
 * 图片存放于 `.gitbook/assets/`，正文以相对路径引用（子目录页写 `../.gitbook/assets/…`）。
 * 三条硬性要求：每个图片文件至少被一处引用（不得悬空）；引用必须能解析（不得指向缺失文件或外链）；必须本地化存放，禁止外部 URL。
 * “reprinted with permission” 图片必须在图注标明来源。
+
+## 单体文件治理（ADR-0004）
+
+* 叙事/规则/规格/指南类 markdown 单文件超过 **1000 行或 100KB** 任一，必须按文件夹拆分：`X.md` → `X/index.md` + 按节/附录归类的拼音命名子文件；`git mv` 保留历史；SUMMARY 收录状态不变。
+* 豁免：登记册（`SUMMARY.md`、`mu-lu-s.md`、`yi-zhe-shuo-ming.md`）、生成物（`PROGRESS.md`）、发布词汇表（`qian-yan/ci-hui-biao.md`）；豁免文件超限须走 spec 改解析器后另行裁定。
+* 门禁 `python tools/check_doc_size.py`（本地与 `checks.yml`）；SEP 词条本体不在管辖内。
