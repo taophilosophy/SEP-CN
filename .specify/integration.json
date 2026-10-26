@@ -1,0 +1,15 @@
+{
+  "version": "1.2.3",
+  "integration_state_schema": 1,
+  "installed_integrations": [
+    "zcode"
+  ],
+  "integration_settings": {
+    "zcode": {
+      "script": "ps",
+      "invoke_separator": "-"
+    }
+  },
+  "integration": "zcode",
+  "default_integration": "zcode"
+}

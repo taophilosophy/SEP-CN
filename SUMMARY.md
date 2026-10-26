@@ -137,7 +137,7 @@
 * [格特鲁德·伊丽莎白·玛格丽特·安斯康姆 Anscombe, Gertrude Elizabeth Margaret (Eric Wiland and Julia Driver)](a/ge-te-lu-de-yi-li-suo-bai-ma-ge-li-te-an-si-kang-mu-anscombe-gertrude-elizabeth-margaret-eric-wiland.md)
 * [坎特伯雷的安瑟伦 Anselm of Canterbury \[Anselm of Bec\] (Thomas Williams)](a/kan-te-bo-lei-de-an-se-lun-anselm-of-canterbury-anselm-of-bec-thomas-williams.md)
 * [\*道德反实在论——见道德反实在论 anti-realism, moral — see moral anti-realism](a/fan-shi-zai-lun-dao-de-qing-can-yue-dao-de-fan-shi-zai-lun-antirealism-moral-see-moral-antirealism.md)
-* [阿斯卡隆的安提库斯  Antiochus of Ascalon (James Allen)](a/a-si-ka-long-de-an-ti-ku-si-antiochus-of-ascalon-james-allen.md)
+* [阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)](a/a-si-ka-long-de-an-ti-ku-si-antiochus-of-ascalon-james-allen.md)
 * [\*后验知识——见先验论证和先验知识 a posteriori knowledge — see a priori justification and knowledge](a/hou-yan-zhi-shi-jian-xian-yan-lun-zheng-he-xian-yan-zhi-shi-aposteriori-knowledge-seeapriori-justifi.md)
 * [\*表象与实在 appearance vs. reality](a/biao-xiang-yu-shi-zai-appearance-vs.-reality/README.md)
   * [\*知觉的认识论问题——见知觉：知觉的认识论问题 epistemological problems of perception — see perception: epistemological proble](a/biao-xiang-yu-shi-zai-appearance-vs.-reality/zhi-jue-de-ren-shi-lun-wen-ti-jian-zhi-jue-zhi-jue-de-ren-shi-lun-wen-ti-epistemological-problems-of.md)
