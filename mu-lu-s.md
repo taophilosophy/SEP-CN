@@ -22,7 +22,8 @@ outline: [1, 6]
 
 
 
-# 早期希腊哲学（前苏格拉底哲学）
+# 西方哲学史
+## 早期希腊哲学（前苏格拉底哲学）
 
 * [古代哲学学述 doxography of ancient philosophy (Jaap Mansfeld)](d/doxography-ancient.md)
 * [前苏格拉底哲学 Presocratic Philosophy (Patricia Curd)](p/presocratics.md)
@@ -38,7 +39,7 @@ outline: [1, 6]
   * [德谟克利特 Democritus (Sylvia Berryman)](d/democritus.md)
 
 
-## 毕达哥拉斯学派与新毕达哥拉斯主义
+### 毕达哥拉斯学派与新毕达哥拉斯主义
 
 * [毕达哥拉斯 Pythagoras (Carl Huffman)](p/pythagoras.md)
 * [菲洛劳斯 Philolaus (Carl Huffman)](p/philolaus.md)
@@ -47,9 +48,9 @@ outline: [1, 6]
 * [阿尔库塔斯 Archytas (Carl Huffman)](a/archytas.md)
 * [阿帕米亚的努美尼乌斯 Numenius (George Karamanolis)](n/numenius.md)
 
-# 中期希腊哲学
+## 中期希腊哲学
 
-## 智者学派与苏格拉底、小苏格拉底学派
+### 智者学派与苏格拉底、小苏格拉底学派
 
 * [智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)](s/sophists.md)
   * [普罗塔戈拉 Protagoras (Mauro Bonazzi)](p/protagoras.md)
@@ -57,7 +58,7 @@ outline: [1, 6]
 * [麦拉加学派 Dialectical School (Susanne Bobzien and Matthew Duncombe)](d/dialectical-school.md)
   * [卡里亚雅苏斯的狄奥多罗斯 Diodorus Cronus (David Sedley)](d/diodorus-cronus.md)
   
-## 柏拉图
+### 柏拉图
 
 * [柏拉图 Plato (Richard Kraut)](p/bai-la-tu-plato-richard-kraut/README.md)
 * [卡利克勒斯和塞拉西马柯 Callicles and Thrasymachus (Rachel Barney)](p/bai-la-tu-plato-richard-kraut/ka-li-ke-le-si-he-sai-la-xi-ma-ke-callicles-and-thrasymachus-rachel-barney.md)
@@ -75,7 +76,7 @@ outline: [1, 6]
 * [柏拉图的短篇伦理学著作 shorter ethical works (Paul Woodruff)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-duan-pian-lun-li-xue-zhu-zuo-shorter-ethical-works-paul-woodruff.md)
 * [柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)](p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md)
   
-## 亚里士多德及逍遥学派
+### 亚里士多德及逍遥学派
 
 * [亚里士多德 Aristotle (Christopher Shields)](a/aristotle.md)
   * [亚里士多德的美学 aesthetics (Pierre Destrée)](a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/ya-li-shi-duo-de-de-mei-xue-aesthetics-pierre-destre.md)
@@ -95,17 +96,17 @@ outline: [1, 6]
 * [泰奥弗拉斯特 Theophrastus (Katerina Ierodiakonou)](t/theophrastus.md)
 
   * [阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede)](a/alexander-aphrodisias.md)
-# 晚期希腊哲学
+## 晚期希腊哲学
 
 
-## 伊壁鸠鲁学派
+### 伊壁鸠鲁学派
 
 * [伊壁鸠鲁 Epicurus (David Konstan)](e/epicurus.md)
 * [菲洛德穆 Philodemus (David Blank)](p/philodemus.md)
 * [卢克莱修 Lucretius (Simon Trépanier)](l/lucretius.md)
 
 
-## 老学园及学园怀疑主义
+### 老学园及学园怀疑主义
 
 * [斯彪西波 Speusippus (Russell Dancy)](s/speusippus.md)
 * [色诺克拉底 Xenocrates (Russell Dancy)](x/xenocrates.md)
@@ -114,12 +115,12 @@ outline: [1, 6]
 * [卡涅阿德斯 Carneades (James Allen)](c/carneades.md)
 * [拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)](p/philo-larissa.md)
 
-## 中期柏拉图主义
+### 中期柏拉图主义
 
 * [阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)](a/antiochus-ascalon.md)
 * [亚历山大里亚的斐洛 Philo of Alexandria (Carlos Lévy)](p/ya-li-shan-da-li-ya-de-fei-luo-philo-of-alexandria-carlos-lvy.md)
 
-## 新柏拉图主义
+### 新柏拉图主义
 
 * [新柏拉图主义 Neoplatonism (Christian Wildberg)](n/neoplatonism.md)
 * [普罗提诺 Plotinus (Lloyd Gerson)](p/plotinus.md)
@@ -131,14 +132,14 @@ outline: [1, 6]
   * [赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)](a/ammonius.md)
 * [辛普利修斯 Simplicius (Christoph Helmig)](s/simplicius.md)
 
-## 斯多葛主义
+### 斯多葛主义
 
 * [斯多葛主义 Stoicism (Marion Durand, Simon Shogry, and Dirk Baltzly)](s/stoicism.md)
 * [马可·奥勒留 Marcus Aurelius (Rachana Kamtekar)](m/marcus-aurelius.md)
 * [爱比克泰德 Epictetus (Margaret Graver)](e/epictetus.md)
 * [塞涅卡 Seneca (Katja Vogt)](s/seneca.md)
 
-## 怀疑论学派（皮浪和第蒙、塞克斯都·恩披里克）
+### 怀疑论学派（皮浪和第蒙、塞克斯都·恩披里克）
 
 
 * [皮浪 Pyrrho (Richard Bett)](p/pyrrho.md)
@@ -146,14 +147,14 @@ outline: [1, 6]
 * [塞克斯都·恩披里克 Sextus Empiricus (Benjamin Morison)](s/sextus-empiricus.md)
 
 
-## 罗马哲学与拜占庭哲学
+### 罗马哲学与拜占庭哲学
 
 * [克劳迪亚斯·盖伦 Galen (P. N. Singer)](g/galen.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/byzantine-philosophy.md)
 * [约翰·菲洛波诺斯 Philoponus (Christian Wildberg)](p/philoponus.md)
 
 
-# 教父哲学与早期经院哲学（100-700）
+## 教父哲学与早期经院哲学（100-700）
 
 * [艾尔伯图斯·麦格努斯（大阿尔伯特）Albert the Great \[= Albertus magnus\] (Markus Führer)](a/albert-great.md)
 * [希波的奥古斯丁 Augustine of Hippo (Christian Tornau)](a/augustine.md)
@@ -161,17 +162,17 @@ outline: [1, 6]
 * [约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)](s/scottus-eriugena.md)
 
 * [亚尼修·玛理乌斯·塞味利诺·波爱修斯 Boethius, Anicius Manlius Severinus (John Marenbon)](b/ya-ni-xiu-ma-li-wu-si-sai-wei-li-nuo-bo-ai-xiu-si-boethius-anicius-manlius-severinus-john-marenbon.md)
-## 亚历山大学派
+### 亚历山大学派
 
 * [奥林匹奥多罗斯 Olympiodorus (Christian Wildberg)](o/olympiodorus.md)
 * [奥利金 Origen (Mark J. Edwards)](o/origen.md)
 * [大卫 David (Christian Wildberg)](d/david.md)
 * [埃利亚斯 Elias (Christian Wildberg)](e/elias.md)
 
-# 中世纪哲学通论
+## 中世纪哲学通论
 * [中世纪哲学 medieval philosophy (John Marenbon)](m/medieval-philosophy/README.md)
 * [中世纪哲学的文学形式 literary forms of (Eileen Sweeney)](m/medieval-philosophy/zhong-shi-ji-zhe-xue-de-wen-xue-xing-shi-literary-forms-of-eileen-sweeney.md)
-# 经院哲学（1000——1350）
+## 经院哲学（1000——1350）
 
 * [伯多禄·达弥盎 Damian, Peter (Toivo J. Holopainen)](p/peter-damian.md)
 * [1277 大谴责 condemnation of 1277 (Hans Thijssen)](c/condemnation.md)
@@ -200,7 +201,7 @@ outline: [1, 6]
 * [罗吉尔·培根 Bacon, Roger (Jeremiah Hackett)](r/roger-bacon.md)
 * [中世纪的类比理论 medieval theories of (E. Jennifer Ashworth and Domenic D’Ettore)](a/lei-bi-analogy/zhong-shi-ji-de-lei-bi-li-lun-medieval-theories-of-e.-jennifer-ashworth-and-domenic-dettore.md)
 * [中世纪哲学中的心理表征 in medieval philosophy (Henrik Lagerlund)](m/mental-representation/zhong-shi-ji-zhe-xue-zhong-de-xin-li-biao-zheng-in-medieval-philosophy-henrik-lagerlund.md)
-## 巴黎学派（布里丹学派）与牛津学派（牛津计算者、默顿学派）
+### 巴黎学派（布里丹学派）与牛津学派（牛津计算者、默顿学派）
 
 * [尼克尔·奥雷姆 Oresme, Nicole (Stefan Kirschner)](n/nicole-oresme.md)
 * [萨克森的阿尔伯特 Albert of Saxony (Joél Biard)](a/albert-saxony.md)
@@ -209,7 +210,7 @@ outline: [1, 6]
 * [约翰·夏普 Sharpe, Johannes (Alessandro Conti)](s/sharpe.md)
 * [理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)](k/kilvington.md)
 
-## 唯名论
+### 唯名论
 
 * [因根的马西利乌斯 Marsilius of Inghen (Maarten Hoenen)](m/marsilius-inghen.md)
 * [彼得·阿伯拉尔 Abelard \[Abailard\], Peter (Peter King and Andrew Arlig)](a/abelard.md)
@@ -221,7 +222,7 @@ outline: [1, 6]
   * [罗伯特·霍尔柯特 Holkot \[Holcot\], Robert (Hester Gelber and John T. Slotemaker)](h/holkot.md)
 * [亚当·冯·沃德汉姆 Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)](w/wodeham.md)
 
-## 实在论
+### 实在论
 
 * [托马斯·阿奎那 Aquinas, Thomas (Robert Pasnau)](a/aquinas/README.md)
 * [托马斯·阿奎那的伦理学、政治哲学和法哲学 moral, political, and legal philosophy (John Finnis)](a/aquinas/tuo-ma-si-akui-na-de-lun-li-xue-zheng-zhi-zhe-xue-he-fa-zhe-xue-moral-political-and-legal-philosophy.md)
@@ -232,7 +233,7 @@ outline: [1, 6]
 * [理查德·腓茨拉尔夫 FitzRalph, Richard (Michael W. Dunne)](f/fitzralph.md)
 * [埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)](e/erfurt.md)
 
-### 牛津实在论（Oxford Realism）
+#### 牛津实在论（Oxford Realism）
 
 * [罗伯特·阿林顿 Alyngton, Robert (Alessandro Conti)](a/alyngton.md)
 * [约翰·威克里夫 Wyclif, John (Alessandro Conti)](w/wyclif/README.md)
@@ -241,7 +242,7 @@ outline: [1, 6]
 * [威廉·彭比尔 Penbygull, William (Alessandro Conti)](p/penbygull.md)
 
   * [尚波的威廉 William of Champeaux (Kevin Guilfoy)](w/william-champeaux.md)
-# 文艺复兴与早期近代哲学 1350-1600
+## 文艺复兴与早期近代哲学 1350-1600
 
 * [但丁·阿利吉耶里 Dante Alighieri (Winthrop Wetherbee and Jason Aleksander)](d/dante.md)
 * [库萨的尼古拉 Cusanus, Nicolaus \[Nicolas of Cusa\] (Clyde Lee Miller)](c/cusanus.md)
@@ -266,7 +267,7 @@ outline: [1, 6]
 * [米歇尔·德·蒙田 Montaigne, Michel de (Marc Foglia and Emiliano Ferrari)](m/montaigne.md)
 * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/wen-yi-fu-xing-shi-qi-de-ya-li-shi-duo-de-zhu-yi-in-the-renaissance-heinrich-kuhn.md)
 * [乔瓦尼·皮科·德拉·米兰多拉 Pico della Mirandola, Giovanni (Brian Copenhaver)](p/pico-della-mirandola.md)
-## 科学革命与自然哲学
+### 科学革命与自然哲学
 
 * [文艺复兴时期的自然哲学 in the Renaissance (Eva Del Soldato)](n/ibn-sina-natural/wen-yi-fu-xing-shi-qi-de-zi-ran-zhe-xue-in-the-renaissance-eva-del-soldato.md)
 * [尼古拉·哥白尼 Copernicus, Nicolaus (Sheila Rabin)](c/copernicus.md)
@@ -275,19 +276,21 @@ outline: [1, 6]
 * [吉罗拉莫·卡尔达诺 Cardano, Girolamo \[Geronimo\] (Guido Giglioni and Jonathan Regier)](c/cardano.md)
 * [约翰内斯·开普勒 Kepler, Johannes (Daniel A. Di Liscia)](k/kepler.md)
 
-## 宗教改革运动（1517～1600）
+### 宗教改革运动（1517～1600）
 
 * [马丁·路德 Luther, Martin (Robert Stern)](l/luther/README.md)
   * [路德的哲学影响 influence on philosophy (Robert Stern)](l/luther/lu-de-de-zhe-xue-ying-xiang-influence-on-philosophy-robert-stern.md)
 
-# 启蒙运动和早期现代哲学 1600-1750
+## 启蒙运动和早期现代哲学 1600-1750
+* [亨利·哈伯利·普莱斯 Price, Henry Habberley (Arthur Schipper and Paul Snowdon)](p/heng-li-ha-bo-li-pu-lai-si-price-henry-habberley-arthur-schipper-and-paul-snowdon.md)
+* [大卫·哈特利 Hartley, David (Richard Allen)](h/hartley.md)
 
 * [启蒙运动 Enlightenment (William Bristow)](e/enlightenment.md)
   * [进步 progress (Agnes Tam and Margaret Meek Lange)](p/progress.md)
 
 * [乔纳森‧爱德华兹 Edwards, Jonathan (William Wainwright)](e/edwards.md)
 * [胡果·格劳秀斯 Grotius, Hugo (Jon Miller)](g/grotius.md)
-## 剑桥柏拉图学派
+### 剑桥柏拉图学派
 
 * [亨利·莫尔 More, Henry (John Henry)](h/henry-more.md)
 * [剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)](c/cambridge-platonists.md)
@@ -295,9 +298,9 @@ outline: [1, 6]
 * [拉尔夫·库德沃斯 Cudworth, Ralph (Sarah Hutton)](c/cudworth.md)
 
 
-## 唯理论（1600-1700、斯宾诺莎、莱布尼茨和伍尔夫、笛卡尔主义、马勒伯朗士）
+### 唯理论（1600-1700、斯宾诺莎、莱布尼茨和伍尔夫、笛卡尔主义、马勒伯朗士）
 
-### 笛卡尔
+#### 笛卡尔
 
 * [勒内·笛卡尔 Descartes, René (Gary Hatfield)](d/descartes/README.md)
 * [笛卡尔的认识论 epistemology (Lex Newman)](d/descartes/di-ka-er-de-ren-shi-lun-epistemology-lex-newman.md)
@@ -311,7 +314,7 @@ outline: [1, 6]
 * [笛卡尔与松果体 and the pineal gland (Gert-Jan Lokhorst)](d/descartes/di-ka-er-yu-song-guo-ti-and-the-pineal-gland-gertjan-lokhorst.md)
 * [笛卡尔的观念论 theory of ideas (Kurt Smith)](d/descartes/di-ka-er-de-guan-nian-lun-theory-of-ideas-kurt-smith.md)
   
-### 笛卡尔主义
+#### 笛卡尔主义
 
 * [热罗·德·科尔德穆瓦 Cordemoy, Géraud de (Fred Ablondi)](c/cordemoy.md)
 * [路易·德·拉弗尔热 La Forge, Louis de (Andrea Sangiacomo and Desmond Clarke)](l/la-forge.md)
@@ -324,7 +327,7 @@ outline: [1, 6]
 * [亨利·莱格伍 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)](h/henricus-regius.md)
 * [安托万·阿尔诺 Arnauld, Antoine (Elmar Kremer)](a/arnauld.md)
 
-### 莱布尼茨-沃尔夫
+#### 莱布尼茨-沃尔夫
 
 * [戈特弗里德·威廉·莱布尼茨 Leibniz, Gottfried Wilhelm (Brandon C. Look)](l/kant-kant-leibniz/README.md)
   * [莱布尼茨的伦理学 ethics (Andrew Youpa)](l/kant-leibniz/lai-bu-ni-ci-de-lun-li-xue-ethics-andrew-youpa.md)
@@ -338,7 +341,7 @@ outline: [1, 6]
   * [充足理由律 principle of sufficient reason (Yitzhak Y. Melamed and Martin Lin)](s/sufficient-reason.md)
 * [克里斯蒂安·沃尔夫 Wolff, Christian (Matt Hettche and Corey Dyck)](w/wolff-christian.md)
 
-### 斯宾诺莎
+#### 斯宾诺莎
 
 * [巴鲁赫·斯宾诺莎 Spinoza, Baruch (Steven Nadler)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/README.md)
 * [斯宾诺莎的认识论和心灵哲学 epistemology and philosophy of mind (Karolina Hübner)](s/spinoza/si-bin-nuo-suo-de-ren-shi-lun-he-xin-ling-zhe-xue-epistemology-and-philosophy-of-mind-karolina-hbner.md)
@@ -351,7 +354,7 @@ outline: [1, 6]
   * [约翰内斯·施图尔姆 Sturm, Johann (Andrea Sangiacomo and Christian Henkel)](j/johann-sturm.md)
   * [塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)](c/clarke.md)
   * [大陆理性主义 Continental Rationalism (Shannon Dea, Julie Walsh, and Thomas M. Lennon)](c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md)
-## 经验论（1600-1700、培根、休谟、洛克、贝克莱、霍布斯）
+### 经验论（1600-1700、培根、休谟、洛克、贝克莱、霍布斯）
 
 * [弗朗西斯·培根 Bacon, Francis (Jürgen Klein)](f/francis-bacon.md)
 * [约翰·洛克 Locke, John (William Uzgalis)](l/locke/README.md)
@@ -372,7 +375,7 @@ outline: [1, 6]
   * [霍布斯的科学哲学 philosophy of science (Marcus P. Adams)](h/hobbes/huo-bu-si-de-ke-xue-zhe-xue-philosophy-of-science-marcus-p.-adams.md)
 
   * [安东尼·柯林斯 Collins, Anthony (William Uzgalis)](c/collins.md)
-## 苏格兰启蒙运动（1700-1800）
+### 苏格兰启蒙运动（1700-1800）
 
 * [弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/README.md)
 * [托马斯·里德 Reid, Thomas (Ryan Nichols and Gideon Yaffe)](r/reid/README.md)
@@ -380,7 +383,7 @@ outline: [1, 6]
   * [里德论记忆与人格同一性 on memory and personal identity (Rebecca Copenhaver)](r/reid/li-de-lun-ji-yi-yu-ren-ge-tong-yi-xing-on-memory-and-personal-identity-rebecca-copenhaver.md)
   
   * [18 世纪苏格兰哲学 in the 18th Century (Alexander Broadie and Craig Smith)](s/su-ge-lan-zhe-xue-scottish-philosophy/18-shi-ji-su-ge-lan-zhe-xue-in-the-18th-century-alexander-broadie-and-craig-smith.md)
-## 德国浪漫主义（1700-1800）耶拿浪漫主义
+### 德国浪漫主义（1700-1800）耶拿浪漫主义
 
 * [格奥尔格·菲利普·弗里德里希·弗莱赫尔·冯·哈登贝格（诺瓦利斯）Novalis \[Georg Friedrich Philipp von Hardenberg\] (Kristin Gjesdal)](n/novalis.md)
 * [奥古斯特·威廉·冯·施莱格尔 Schlegel, August Wilhelm von (Katia D. Hay)](s/schlegel-aw.md)
@@ -391,14 +394,14 @@ outline: [1, 6]
 * [威廉·冯·洪堡 Humboldt, Wilhelm von (Kurt Mueller-Vollmer and Markus Messling)](w/wilhelm-humboldt.md)
 * [约翰·戈特弗里德·冯·赫尔德 Herder, Johann Gottfried von (Michael Forster)](h/herder.md)
 
-## 启蒙时代的法国哲学【1600-1750】
+### 启蒙时代的法国哲学【1600-1750】
 
 * [马兰·梅森 Mersenne, Marin (Philippe Hamou)](m/mersenne.md)
 * [布莱士·帕斯卡 Pascal, Blaise (Desmond Clarke and William Wood)](p/bu-lai-shi-pa-si-ka-pascal-blaise-desmond-clarke-and-william-wood.md)
   * [帕斯卡的赌注 Pascal’s wager (Alan Hájek)](p/pascal-wager.md)
 * [皮埃尔·伽桑狄 Gassendi, Pierre (Saul Fisher)](g/gassendi.md)
 
-### 百科全书派
+#### 百科全书派
 
 * [皮埃尔·培尔 Bayle, Pierre (Michael Hickson)](b/bayle.md)
 * [艾蒂安·博诺·德·孔狄亚克 Condillac, Étienne Bonnot de (Lorne Falkenstein and Giovanni Grandi)](c/condillac.md)
@@ -409,7 +412,7 @@ outline: [1, 6]
 * [德尼·狄德罗 Diderot, Denis (Charles T. Wolfe and J.B. Shank)](d/diderot.md)
 
   * [让·巴蒂斯特·杜博斯 Du Bos, Jean-Baptiste (James O. Young and Margaret Cameron)](d/du-bos.md)
-## 康德哲学
+### 康德哲学
 
 * [康德之前的 18 世纪德国哲学 in the 18th century, prior to Kant (Corey Dyck and Brigitte Sassen)](g/de-guo-zhe-xue-german-philosophy/kang-de-zhi-qian-de-18-shi-ji-de-guo-zhe-xue-in-the-18th-century-prior-to-kant-corey-dyck-and-brigit.md)
 * [莱布尼茨对康德的影响 and Leibniz (Catherine Wilson)](k/kant/lai-bu-ni-ci-dui-kang-de-de-ying-xiang-and-leibniz-catherine-wilson.md)
@@ -438,7 +441,7 @@ outline: [1, 6]
 * [康德对心灵和自我意识的观点 view of mind and consciousness of self (Andrew Brook and Julian Wuerth)](k/kant/kang-de-dui-xin-ling-he-zi-wo-yi-shi-de-guan-dian-view-of-mind-and-consciousness-of-self-andrew-broo.md)
 * [康德对空间和时间的观点 views on space and time (Andrew Janiak)](k/kant/kang-de-dui-kong-jian-he-shi-jian-de-guan-dian-views-on-space-and-time-andrew-janiak.md)
 
-## 德国唯心论/德国观念论
+### 德国唯心论/德国观念论
 
 * [约翰·戈特利布·费希特 Fichte, Johann Gottlieb (Dan Breazeale)](j/johann-fichte.md)
 * [弗里德里希·威廉·约瑟夫·冯·谢林 Schelling, Friedrich Wilhelm Joseph von (Andrew Bowie)](s/schelling.md)
@@ -447,7 +450,7 @@ outline: [1, 6]
 * [约翰·格奥尔格·哈曼 Hamann, Johann Georg (Gwen Griffith-Dickson)](h/hamann.md)
 * [赫尔曼·洛采 Lotze, Hermann (David Sullivan)](h/hermann-lotze.md)
 
-### 黑格尔与青年黑格尔派
+#### 黑格尔与青年黑格尔派
 
 * [格奥尔格·威廉·弗里德里希·黑格尔 Hegel, Georg Wilhelm Friedrich (Paul Redding)](h/hegel/README.md)
   * [黑格尔的辩证法 dialectics (Julie E. Maybee)](h/hegel/hei-ge-er-de-bian-zheng-fa-dialectics-julie-e.-maybee.md)
@@ -457,17 +460,19 @@ outline: [1, 6]
 * [路德维希·安德列斯·费尔巴哈 Feuerbach, Ludwig Andreas (Todd Gooch)](l/ludwig-feuerbach.md)
 
   * [卡尔·莱昂哈德·莱因霍尔德 Reinhold, Karl Leonhard (Dan Breazeale and John Walsh)](k/karl-reinhold.md)
-# 现代西方哲学 1750-1900
+## 现代西方哲学 1750-1900
+* [古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fechner.md)
+* [威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wilhelm-wundt.md)
 
 
-## 超验主义
+### 超验主义
 
 * [超验主义 transcendentalism (Russell Goodman)](t/transcendentalism.md)
 * [亨利·戴维·梭罗 Thoreau, Henry David (Rick Anthony Furtak)](t/thoreau.md)
 * [拉尔夫·沃尔多·爱默生 Emerson, Ralph Waldo (Russell Goodman)](e/emerson.md)
 
 
-## 实证主义（孔德第一代、马赫主义是第二代）
+### 实证主义（孔德第一代、马赫主义是第二代）
 
 * [奥古斯特·孔德 Comte, Auguste (Michel Bourdeau)](c/comte.md)
 * [恩斯特·马赫 Mach, Ernst (Paul Pojman)](e/ernst-mach.md)
@@ -475,10 +480,10 @@ outline: [1, 6]
 
 
 
-### 匹兹堡学派（塞拉斯、麦克道威尔、布兰顿）？
+#### 匹兹堡学派（塞拉斯、麦克道威尔、布兰顿）？
 
 
-## 前期分析哲学
+### 前期分析哲学
 
 * [乔治·爱德华·摩尔 Moore, George Edward (Tom Baldwin)](m/qiao-zhi-ai-de-hua-mo-er-moore-george-edward-tom-baldwin/README.md)
   * [摩尔的伦理学 moral philosophy (Thomas Hurka)](m/qiao-zhi-ai-de-hua-mo-er-moore-george-edward-tom-baldwin/mo-er-de-lun-li-xue-moral-philosophy-thomas-hurka.md)
@@ -488,7 +493,7 @@ outline: [1, 6]
   * [弗雷格定理和算术基础 theorem and foundations for arithmetic (Edward N. Zalta)](f/frege/fu-lei-ge-de-ding-li-he-suan-shu-ji-chu-theorem-and-foundations-for-arithmetic-edward-n.-zalta.md)
 * [弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)](r/ramsey/README.md)
 
-### 逻辑原子主义
+#### 逻辑原子主义
 
 
 * [维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)](w/wittgenstein/wei-te-gen-si-tan-de-luo-ji-yuan-zi-zhu-yi-logical-atomism-ian-proops.md)
@@ -501,7 +506,7 @@ outline: [1, 6]
   * [《数学原理》 Principia Mathematica (Bernard Linsky and Andrew David Irvine)](p/principia-mathematica/README.md)
   * [《数学原理》中的符号 notation in (Bernard Linsky)](p/principia-mathematica/shu-xue-yuan-li-zhong-de-fu-hao-notation-in-bernard-linsky.md)
   
-### 逻辑实证主义（逻辑经验主义=维也纳学派+利沃夫·华沙学派）
+#### 逻辑实证主义（逻辑经验主义=维也纳学派+利沃夫·华沙学派）
 
 * [华沙学派 Lvov-Warsaw School (Jan Woleński)](l/lvov-warsaw.md)
   * [扬-卢卡谢维奇 Łukasiewicz, Jan (Peter Simons)](l/lukasiewicz.md)
@@ -519,11 +524,11 @@ outline: [1, 6]
   * [维特根斯坦的数学哲学 philosophy of mathematics (Victor Rodych)](w/wittgenstein/wei-te-gen-si-tan-de-shu-xue-zhe-xue-philosophy-of-mathematics-victor-rodych.md)
   * [维特根斯坦的美学 aesthetics (Garry Hagberg)](w/wittgenstein/wei-te-gen-si-tan-de-mei-xue-aesthetics-garry-hagberg.md)
   * [斯坦尼斯瓦夫·雷斯涅夫斯基 Leśniewski, Stanisław (Peter Simons)](l/lesniewski.md)
-## 后期分析哲学
+### 后期分析哲学
 
 * [伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](a/aesthetics-race.md)
 
-### 日常语言哲学（牛津学派+剑桥学派）
+#### 日常语言哲学（牛津学派+剑桥学派）
 
 * [彼得·弗雷德里克·斯特劳森 Strawson, Peter Frederick (Paul Snowdon and Anil Gomes)](s/strawson.md)
 * [吉尔伯特·赖尔 Ryle, Gilbert (Julia Tanney)](r/ryle.md)
@@ -547,14 +552,14 @@ outline: [1, 6]
   * [理查德·西尔万（理查德·劳特利） Sylvan \[Routley\], Richard (Dominic Hyde, Filippo Casati, and Zach Weber)](s/sylvan-routley.md)
   * [约翰·安德森 Anderson, John (Creagh McLean Cole)](a/anderson-john.md)
   * [塞缪尔·亚历山大 Alexander, Samuel (Emily A. E. Thomas)](a/sai-mou-er-ya-li-shan-da-alexander-samuel-emily-a.-e.-thomas.md)
-## 过程哲学
+### 过程哲学
 
 * [阿弗烈·诺夫·怀特海 Whitehead, Alfred North (Ronald Desmet and Andrew David Irvine)](w/whitehead.md)
 * [过程哲学 process philosophy (Johanna Seibt)](p/process-philosophy.md)
 * [过程神学 process theism (Donald Viney)](p/process-theism.md)
 * [查尔斯·哈茨霍恩 Hartshorne, Charles (Dan Dombrowski)](h/hartshorne.md)
 
-## 科学哲学
+### 科学哲学
 
 * [卡尔·G·亨普尔 Hempel, Carl (James Fetzer)](h/hempel.md)
 * [威拉德·冯·奥曼·蒯因 Quine, Willard Van Orman (Peter Hylton and Gary Kemp)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/README.md)
@@ -569,7 +574,7 @@ outline: [1, 6]
 * [韦斯利·萨尔蒙 Salmon, Wesley (Maria Carla Galavotti)](w/wesley-salmon.md)
 * [威廉·惠威尔 Whewell, William (Laura J. Snyder)](w/whewell.md)
 
-## 布伦塔诺学派
+### 布伦塔诺学派
 
 * [弗朗兹·布伦塔诺 Brentano, Franz (Wolfgang Huemer)](b/brentano/README.md)
   * [布伦塔诺的判断理论 theory of judgement (Johannes L. Brandl and Mark Textor)](b/brentano/bu-lun-ta-nuo-de-pan-duan-li-lun-theory-of-judgement-johannes-l.-brandl-and-mark-textor.md)
@@ -579,7 +584,7 @@ outline: [1, 6]
 * [卡尔·斯图姆夫 Stumpf, Carl (Denis Fisette)](s/stumpf.md)
 * [亚历克修斯·迈农 Meinong, Alexius (Johann Marek)](m/meinong.md)
 
-## 现象学
+### 现象学
 
 * [现象学 phenomenology (David Woodruff Smith)](p/phenomenology/README.md)
 * [慕尼黑学派和哥廷根学派的现象学 of the Munich and Göttingen Circles (Alessandro Salice)](p/phenomenology/mu-ni-hei-xue-pai-he-ge-ting-gen-xue-pai-de-xian-xiang-xue-of-the-munich-and-gttingen-circles-alessa.md)
@@ -591,13 +596,13 @@ outline: [1, 6]
 * [阿尔弗雷德·舒茨 Schutz, Alfred (Michael Barber)](s/schutz.md)
 
 
-### 法国现象学
+#### 法国现象学
 
 * [伊曼纽尔·列维纳斯 Levinas, Emmanuel (Bettina Bergo)](l/levinas.md)
 * [米歇尔·亨利 Henry, Michel (Frédéric Seyler)](m/michel-henry.md)
 
   * [莫里斯·梅洛-庞蒂 Merleau-Ponty, Maurice (Ted Toadvine)](m/merleau-ponty.md)
-## 新康德主义（柯亨与马堡学派）
+### 新康德主义（柯亨与马堡学派）
 
 * [新康德主义 neo-Kantianism (Jeremy Heis)](n/neo-kantianism.md)
 * [弗里德里希·阿尔贝特·朗格 Lange, Friedrich Albert (Nadeem J. Z. Hussain and Lydia Patton)](f/friedrich-lange.md)
@@ -608,7 +613,7 @@ outline: [1, 6]
 
   * [海因里希·李凯尔特 Rickert, Heinrich (Andrea Staiti and Luca Oliva)](h/heinrich-rickert.md)
   * [汉斯·费英格 Vaihinger, Hans (Timothy Stoll)](v/vaihinger.md)
-## 新黑格尔主义（布拉德雷、鲍桑葵）
+### 新黑格尔主义（布拉德雷、鲍桑葵）
 
 * [罗宾·乔治·柯林武德 Collingwood, Robin George (Giuseppina D’Oro and James Connelly)](c/collingwood/README.md)
 * [J·N·芬德利 Findlay, J.N. (Douglas Lackey)](f/findlay.md)
@@ -621,7 +626,7 @@ outline: [1, 6]
 * [詹姆斯·瓦德 Ward, James (Pierfrancesco Basile)](j/james-ward.md)
 
 
-## 存在主义
+### 存在主义
 
 * [存在主义 existentialism (Kevin Aho)](e/cun-zai-zhu-yi-existentialism-kevin-aho/README.md)
 * [阿尔贝·加缪 Camus, Albert (Ronald Aronson)](c/camus.md)
@@ -631,7 +636,7 @@ outline: [1, 6]
   * [本真性 authenticity (Somogy Varga and Charles Guignon)](a/authenticity.md)
 * [何塞·奥尔特加·伊·加塞特 Ortega y Gasset, José (Oliver Holmes)](g/gasset.md)
 
-## 解释学
+### 解释学
 
 * [解释学 hermeneutics (Theodore George)](h/hermeneutics.md)
 * [汉斯-格奥尔格·伽达默尔 Gadamer, Hans-Georg (Jeff Malpas)](g/gadamer/README.md)
@@ -639,7 +644,7 @@ outline: [1, 6]
 
 
   * [保罗·约克·冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)](y/yorck.md)
-## 行动哲学
+### 行动哲学
 
 * [行动 action (Juan S. Piñeros Glasscock and Sergio Tenenbaum)](a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/README.md)
 * [行动的原因：行动者中立与行动者相关 agent-neutral vs. agent-relative (Michael Ridge)](r/logic-action/hang-dong-de-yuan-yin-hang-dong-zhe-zhong-li-yu-hang-dong-zhe-xiang-guan-agentneutral-vs.-agentrelat.md)
@@ -651,7 +656,7 @@ outline: [1, 6]
 
   * [行为体 agency (Markus Schlosser)](a/agency/README.md)
   * [共享行为体 shared (Abraham Sesshu Roth)](a/agency/gong-xiang-neng-dong-xing-shared-abraham-sesshu-roth.md)
-## 意志哲学与生命哲学
+### 意志哲学与生命哲学
 
 * [阿图尔·叔本华 Schopenhauer, Arthur (Robert Wicks)](s/schopenhauer/README.md)
 * [弗里德里希·尼采 Nietzsche, Friedrich (R. Lanier Anderson)](n/nietzsche/README.md)
@@ -661,7 +666,7 @@ outline: [1, 6]
 * [亨利·柏格森 Bergson, Henri (Leonard Lawlor and Valentine Moulard-Leonard)](b/bergson.md)
 * [威廉·狄尔泰 Dilthey, Wilhelm (Rudolf Makkreel)](d/dilthey.md)
 
-## 功利主义
+### 功利主义
 
 
 * [功利主义 consequentializing (Douglas W. Portmore)](c/consequentializing.md)
@@ -675,10 +680,9 @@ outline: [1, 6]
 * [亨利·西季威克 Sidgwick, Henry (Barton Schultz)](s/sidgwick.md)
 
 
+
+
 ### 实用主义
-
-
-## 实用主义
   * [实用主义 pragmatism (Catherine Legg and Christopher Hookway)](p/pragmatism.md)
   * [约翰·杜威 Dewey, John (David Hildebrand)](d/dewey/README.md)
   * [杜威的伦理学 moral philosophy (Elizabeth Anderson)](d/dewey/du-wei-de-lun-li-xue-moral-philosophy-elizabeth-anderson.md)
@@ -695,7 +699,7 @@ outline: [1, 6]
   * [乔赛亚·罗伊斯 Royce, Josiah (Kelly A. Parker and Scott Pratt)](r/royce.md)
   * [乔治·桑塔亚纳 Santayana, George (Herman Saatkamp and Martin Coleman)](s/santayana.md)
   * [昌西·赖特 Wright, Chauncey (Jean De Groot)](w/chang-xi-lai-te-wright-chauncey-jean-de-groot.md)
-## 后现代主义、后结构主义、解构主义
+### 后现代主义、后结构主义、解构主义
 
 * [让·鲍德里亚 Baudrillard, Jean (Douglas Kellner)](b/baudrillard.md)
 * [吉尔·德勒兹 Deleuze, Gilles (Daniel Smith, John Protevi, and Daniela Voss)](d/deleuze.md)
@@ -705,24 +709,24 @@ outline: [1, 6]
 * [雅克·德里达 Derrida, Jacques (Leonard Lawlor)](d/derrida.md)
 * [雅克·拉康 Lacan, Jacques (Adrian Johnston)](l/lacan.md)
 
-# 马克思主义与西方马克思主义
+## 马克思主义与西方马克思主义
 
 * [卡尔·马克思 Marx, Karl (Jonathan Wolff and David Leopold)](m/ka-er-ma-ke-si-marx-karl-jonathan-wolff-and-david-leopold.md)
 * [分析马克思主义 Marxism, analytical (David Leopold)](m/marxism-analytical.md)
 * [托马斯·莫尔 More, Thomas (Gerard B. Wegemer)](t/thomas-more.md)
   * [社会主义 socialism (Pablo Gilabert and Martin O’Neill)](s/socialism.md)
 
-## 早期西方马克思主义
+### 早期西方马克思主义
 
 * [安东尼奥·葛兰西 Gramsci, Antonio (James Martin)](g/gramsci.md)
 * [格奥尔格·卢卡奇 Lukács, Georg \[György\] (Titus Stahl)](l/lukacs.md)
 * [恩斯特·布洛赫 Bloch, Ernst (Ivan Boldyrev)](b/bloch.md)
 
-## 结构马克思主义
+### 结构马克思主义
 
 * [路易·阿尔都塞 Althusser, Louis (William Lewis)](a/althusser.md)
 
-## 法兰克福学派
+### 法兰克福学派
 
 * [西奥多·W ·阿多诺 Adorno, Theodor W. (Lambert Zuidervaart)](a/adorno.md)
 * [赫伯特·马尔库塞 Marcuse, Herbert (Arnold Farr)](m/marcuse.md)
@@ -1753,6 +1757,96 @@ outline: [1, 6]
 
 * [技术哲学 technology, philosophy of (Maarten Franssen, Gert-Jan Lokhorst, and Ibo van de Poel)](t/technology.md)
 
+# 神学与宗教哲学
+## 神学（教义通论）
+
+* [神圣光照论 illumination (Robert Pasnau)](d/divine-freedom/shen-sheng-guang-zhao-lun-illumination-robert-pasnau.md)
+* [哲学与基督教神学 Christian theology, philosophy and (William Wood)](c/christiantheology-philosophy.md)
+* [创造与保全 creation and conservation (David Vander Laan)](c/creation-conservation.md)
+* [基督教思想中的永恒 eternity, in Christian thought (Natalja Deng)](e/eternity.md)
+* [恶的问题 problem of (Michael Tooley)](e/evil/e-de-wen-ti-problem-of-michael-tooley.md)
+* [信仰 faith (John Bishop and Daniel J. McKaughan)](f/xin-yang-faith-john-bishop-and-daniel-j.-mckaughan.md)
+* [神的自由 divine (William Rowe)](f/zi-you-freedom/shen-de-zi-you-divine-william-rowe.md)
+* [预知与自由意志 divine foreknowledge and (David Hunt and Linda Zagzebski)](f/hume-freewill/yu-zhi-yu-zi-you-yi-zhi-divine-foreknowledge-and-david-hunt-and-linda-zagzebski.md)
+* [全善 goodness, perfect (Mark Murphy)](p/perfect-goodness.md)
+* [预言 prophecy (Scott A. Davison)](p/prophecy.md)
+* [神的隐藏性 hiddenness of God (Daniel Howard-Snyder and Adam Green)](d/divine-hiddenness.md)
+* [永恒 immutability (Brian Leftow)](i/immutability.md)
+* [一神论 monotheism (William Wainwright)](m/monotheism.md)
+* [全能 omnipotence (Joshua Hoffman and Gary Rosenkrantz)](o/omnipotence.md)
+* [全在 omnipresence (Edward Wierenga)](o/omnipresence.md)
+* [全知 omniscience (Edward Wierenga)](o/omniscience.md)
+* [神意 providence, divine (Hugh J. McCann and Daniel M. Johnson)](p/providence-divine.md)
+* [神启 revelation, divine (Mats Wahlberg)](d/divine-revelation.md)
+* [三位一体 trinity (Dale Tuggy)](t/trinity.md)
+* [祈求式祷告 petitionary (Scott A. Davison)](p/dao-gao-prayer/qi-qiu-shi-dao-gao-petitionary-scott-a.-davison.md)
+* [奇迹 miracles (Timothy McGrew)](m/miracles.md)
+* [神学意志主义 voluntarism, theological (Mark Murphy)](v/voluntarism-theological.md)
+
+  * [上帝与其他终极存在 and other ultimates (Jeanine Diller)](g/shang-di-god/shang-di-yu-qi-ta-zhong-ji-cun-zai-and-other-ultimates-jeanine-diller.md)
+  * [上帝和其他必然存在 and other necessary beings (Matthew Davidson)](g/shang-di-god/shang-di-he-qi-ta-bi-ran-cun-zai-and-other-necessary-beings-matthew-davidson.md)
+## 基督教
+
+* [赎罪 atonement (Joshua C. Thurow)](a/atonement.md)
+* [基督教传统中的情感 in the Christian tradition (Robert Roberts)](e/emotion/ji-du-jiao-chuan-tong-zhong-de-qing-gan-in-the-christian-tradition-robert-roberts.md)
+* [基督教思想中的天堂与地狱 heaven and hell in Christian thought (Thomas Talbott)](h/heaven-hell.md)
+* [基督教思想中的罪 sin, in Christian thought (Kevin Timpe)](s/sin-christian.md)
+
+## 上帝存在的论证
+
+* [宇宙论证明 cosmological argument (Bruce Reichenbach)](a/argument.md)
+* [上帝存在的道德论证 moral arguments (C. Stephen Evans and David Baggett)](g/incompatibilism-arguments/shang-di-cun-zai-de-dao-de-lun-zheng-moral-arguments-c.-stephen-evans-and-david-baggett.md)
+* [本体论证明 ontological arguments (Graham Oppy)](o/ontological-arguments.md)
+* [实用主义与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan)](p/pragmatic-belief-god.md)
+* [上帝存在的目的论论证 teleological arguments for God’s existence (Del Ratzsch and Jeffrey Koperski)](t/mu-de-lun-teleology/shang-di-cun-zai-de-mu-de-lun-lun-zheng-teleological-arguments-for-gods-existence-del-ratzsch-and-je.md)
+
+## 神学家
+
+* [安东尼奥·罗斯米尼 Rosmini, Antonio (Denis Cleary)](a/antonio-rosmini.md)
+* [尼古拉斯·塔雷路斯 Taurellus, Nicolaus (Andreas Blank)](t/taurellus.md)
+* [雅克·马里坦 Maritain, Jacques (William Sweet)](m/maritain.md)
+
+
+## 神秘学家
+
+* [吉安巴蒂斯塔·德拉·波尔塔 Porta, Giambattista della (Sergius Kodera)](d/della-porta.md)
+* [埃克哈特大师 Meister Eckhart (Amber L. Griffioen)](m/meister-eckhart.md)
+* [海因里希·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)](a/agrippa-nettesheim.md)
+
+## 佛教（印度佛教）
+
+* [阿毗达磨 Abhidharma (Noa Ronkin)](a/abhidharma.md)
+* [佛陀 Buddha (Mark Siderits)](b/buddha.md)
+* [法称 Dharmakīrti (Tom Tillemans)](d/dharmakiirti.md)
+* [印度佛教中的伦理学 in Indian Buddhism (Charles Goodman and Aaron Schultz)](e/health-disease/yin-du-fo-jiao-zhong-de-lun-li-xue-in-indian-buddhism-charles-goodman-and-aaron-schultz.md)
+* [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
+* [印度佛教哲学中的心灵 in Indian Buddhist Philosophy (Christian Coseru)](m/xin-ling-mind/yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-in-indian-buddhist-philosophy-christian-coseru.md)
+* [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/nagarjuna.md)
+* [寂护 Śāntarakṣita (James Blumenthal and James Apple)](s/saantarak-sita.md)
+* [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
+* [印度的“二谛 ”理论 two truths in India, theory of (Sonam Thakchoe)](t/twotruths-india.md)
+* [世亲 Vasubandhu (Jonathan C. Gold)](v/vasubandhu.md)
+
+## 宗教哲学与宗教学通论
+
+* [来世 afterlife (William Hasker and Charles Taliaferro)](a/afterlife.md)
+* [无神论和不可知论 atheism and agnosticism (Paul Draper)](a/atheism-agnosticism.md)
+* [信仰主义 fideism (Richard Amesbury)](f/fideism.md)
+* [宗教的定义 concept of (Kevin Schilbrack)](r/hume-religion/zong-jiao-de-ding-yi-concept-of-kevin-schilbrack.md)
+* [宗教认识论 epistemology of (Peter Forrest)](r/hume-religion/zong-jiao-ren-shi-lun-epistemology-of-peter-forrest.md)
+* [宗教与道德 and morality (John Hare)](r/hume-religion/zong-jiao-yu-dao-de-and-morality-john-hare.md)
+* [宗教现象学 phenomenology of (Mark Wynn)](r/hume-religion/zong-jiao-xian-xiang-xue-phenomenology-of-mark-wynn.md)
+* [宗教哲学 philosophy of (Charles Taliaferro)](r/hume-religion/zong-jiao-zhe-xue-philosophy-of-charles-taliaferro.md)
+* [宗教与政治理论 and political theory (Chris Eberle and Terence Cuneo)](r/hume-religion/zong-jiao-yu-zheng-zhi-li-lun-and-political-theory-chris-eberle-and-terence-cuneo.md)
+* [宗教与科学 and science (Helen De Cruz)](r/hume-religion/zong-jiao-yu-ke-xue-and-science-helen-de-cruz.md)
+* [宗教多样性 religious diversity (David Basinger)](r/religious-pluralism.md)
+* [宗教经验 religious experience (Mark Webb)](r/religious-experience.md)
+* [宗教语言 religious language (Michael Scott)](r/religious-language.md)
+* [怀疑论式有神论 skeptical theism (Timothy Perrine)](s/skeptical-theism.md)
+* [泛神论 pantheism (William Mander)](p/pantheism.md)
+* [超泛神论 panentheism (John Culp)](p/panentheism.md)
+* [自然神学与自然宗教 theology, natural and natural religion (Andrew Chignell and Derk Pereboom)](c/cosmology-theology.md)
+
 # 中国哲学
 
 ## 先秦哲学
@@ -1797,6 +1891,27 @@ outline: [1, 6]
 * [中国伦理学 ethics (David Wong)](c/philosophy-mexico/zhong-guo-lun-li-xue-ethics-david-wong.md)
 
   * [儒学中的性别 gender in Confucian philosophy (Li-Hsiang Rosenlee)](c/japanese-confucian/ru-xue-zhong-de-xing-bie-gender-in-confucian-philosophy-lihsiang-rosenlee.md)
+## 中国佛教与道教
+### 中国佛教
+
+* [中国禅宗 Chan Buddhism (Peter Hershock)](c/philosophy-mexico/zhong-guo-chan-zong-chan-buddhism-peter-hershock.md)
+* [华严宗 Huayan Buddhism (Bryan Van Norden and Nicholaos Jones)](c/philosophy-mexico/hua-yan-zong-huayan-buddhism-bryan-van-norden-and-nicholaos-jones.md)
+* [天台宗 Tiantai Buddhism (Brook Ziporyn)](c/philosophy-mexico/tian-tai-zong-tiantai-buddhism-brook-ziporyn.md)
+
+### 藏传佛教
+
+* [格鲁派 Gelukpa \[dge lugs pa\] (Douglas Duckworth)](g/gelukpa.md)
+* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
+* [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
+* [藏传认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](r/religion-epistemology.md)
+* [宗喀巴 Tsongkhapa (Gareth Sparham and Chandra Chiara Ehm)](t/tsongkhapa.md)
+* [西藏的“二谛 ”理论 two truths in Tibet, theory of (Sonam Thakchoe)](t/twotruths-tibet.md)
+
+### 道教
+
+* [道家/道教 Daoism (Chad Hansen)](d/dao-jia-dao-jiao-daoism-chad-hansen/README.md)
+* [道教 religious (Fabrizio Pregadio)](d/dao-jia-dao-jiao-daoism-chad-hansen/dao-jiao-religious-fabrizio-pregadio.md)
+
 # 区域哲学
 
 ## 犹太哲学
@@ -1935,127 +2050,10 @@ outline: [1, 6]
 * [亚里士多德的神学 Theology of Aristotle (Peter Adamson)](t/theology-aristotle.md)
 * [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)](u/umar-khayyam.md)
 
-# 宗教学
-
-
-## 印度佛教
-
-* [阿毗达磨 Abhidharma (Noa Ronkin)](a/abhidharma.md)
-* [佛陀 Buddha (Mark Siderits)](b/buddha.md)
-* [法称 Dharmakīrti (Tom Tillemans)](d/dharmakiirti.md)
-* [印度佛教中的伦理学 in Indian Buddhism (Charles Goodman and Aaron Schultz)](e/health-disease/yin-du-fo-jiao-zhong-de-lun-li-xue-in-indian-buddhism-charles-goodman-and-aaron-schultz.md)
-* [中观 Madhyamaka (Richard Hayes)](m/madhyamaka.md)
-* [印度佛教哲学中的心灵 in Indian Buddhist Philosophy (Christian Coseru)](m/xin-ling-mind/yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-in-indian-buddhist-philosophy-christian-coseru.md)
-* [龙树 Nāgārjuna (Jan Christoph Westerhoff)](n/nagarjuna.md)
-* [寂护 Śāntarakṣita (James Blumenthal and James Apple)](s/saantarak-sita.md)
-* [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
-* [印度的“二谛 ”理论 two truths in India, theory of (Sonam Thakchoe)](t/twotruths-india.md)
-* [世亲 Vasubandhu (Jonathan C. Gold)](v/vasubandhu.md)
-
-## 中国佛教
-
-* [中国禅宗 Chan Buddhism (Peter Hershock)](c/philosophy-mexico/zhong-guo-chan-zong-chan-buddhism-peter-hershock.md)
-* [华严宗 Huayan Buddhism (Bryan Van Norden and Nicholaos Jones)](c/philosophy-mexico/hua-yan-zong-huayan-buddhism-bryan-van-norden-and-nicholaos-jones.md)
-* [天台宗 Tiantai Buddhism (Brook Ziporyn)](c/philosophy-mexico/tian-tai-zong-tiantai-buddhism-brook-ziporyn.md)
-
-### 藏传佛教
-
-* [格鲁派 Gelukpa \[dge lugs pa\] (Douglas Duckworth)](g/gelukpa.md)
-* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
-* [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
-* [藏传认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](r/religion-epistemology.md)
-* [宗喀巴 Tsongkhapa (Gareth Sparham and Chandra Chiara Ehm)](t/tsongkhapa.md)
-* [西藏的“二谛 ”理论 two truths in Tibet, theory of (Sonam Thakchoe)](t/twotruths-tibet.md)
-
-## 基督教
-
-* [赎罪 atonement (Joshua C. Thurow)](a/atonement.md)
-* [基督教传统中的情感 in the Christian tradition (Robert Roberts)](e/emotion/ji-du-jiao-chuan-tong-zhong-de-qing-gan-in-the-christian-tradition-robert-roberts.md)
-* [基督教思想中的天堂与地狱 heaven and hell in Christian thought (Thomas Talbott)](h/heaven-hell.md)
-* [基督教思想中的罪 sin, in Christian thought (Kevin Timpe)](s/sin-christian.md)
-
-## 道教
-
-* [道家/道教 Daoism (Chad Hansen)](d/dao-jia-dao-jiao-daoism-chad-hansen/README.md)
-* [道教 religious (Fabrizio Pregadio)](d/dao-jia-dao-jiao-daoism-chad-hansen/dao-jiao-religious-fabrizio-pregadio.md)
-
-## 宗教学通论
-
-* [来世 afterlife (William Hasker and Charles Taliaferro)](a/afterlife.md)
-* [无神论和不可知论 atheism and agnosticism (Paul Draper)](a/atheism-agnosticism.md)
-* [信仰主义 fideism (Richard Amesbury)](f/fideism.md)
-* [宗教的定义 concept of (Kevin Schilbrack)](r/hume-religion/zong-jiao-de-ding-yi-concept-of-kevin-schilbrack.md)
-* [宗教认识论 epistemology of (Peter Forrest)](r/hume-religion/zong-jiao-ren-shi-lun-epistemology-of-peter-forrest.md)
-* [宗教与道德 and morality (John Hare)](r/hume-religion/zong-jiao-yu-dao-de-and-morality-john-hare.md)
-* [宗教现象学 phenomenology of (Mark Wynn)](r/hume-religion/zong-jiao-xian-xiang-xue-phenomenology-of-mark-wynn.md)
-* [宗教哲学 philosophy of (Charles Taliaferro)](r/hume-religion/zong-jiao-zhe-xue-philosophy-of-charles-taliaferro.md)
-* [宗教与政治理论 and political theory (Chris Eberle and Terence Cuneo)](r/hume-religion/zong-jiao-yu-zheng-zhi-li-lun-and-political-theory-chris-eberle-and-terence-cuneo.md)
-* [宗教与科学 and science (Helen De Cruz)](r/hume-religion/zong-jiao-yu-ke-xue-and-science-helen-de-cruz.md)
-* [宗教多样性 religious diversity (David Basinger)](r/religious-pluralism.md)
-* [宗教经验 religious experience (Mark Webb)](r/religious-experience.md)
-* [宗教语言 religious language (Michael Scott)](r/religious-language.md)
-* [怀疑论式有神论 skeptical theism (Timothy Perrine)](s/skeptical-theism.md)
-* [泛神论 pantheism (William Mander)](p/pantheism.md)
-* [超泛神论 panentheism (John Culp)](p/panentheism.md)
-* [自然神学与自然宗教 theology, natural and natural religion (Andrew Chignell and Derk Pereboom)](c/cosmology-theology.md)
-
-## 神学
-
-* [神圣光照论 illumination (Robert Pasnau)](d/divine-freedom/shen-sheng-guang-zhao-lun-illumination-robert-pasnau.md)
-* [哲学与基督教神学 Christian theology, philosophy and (William Wood)](c/christiantheology-philosophy.md)
-* [创造与保全 creation and conservation (David Vander Laan)](c/creation-conservation.md)
-* [基督教思想中的永恒 eternity, in Christian thought (Natalja Deng)](e/eternity.md)
-* [恶的问题 problem of (Michael Tooley)](e/evil/e-de-wen-ti-problem-of-michael-tooley.md)
-* [信仰 faith (John Bishop and Daniel J. McKaughan)](f/xin-yang-faith-john-bishop-and-daniel-j.-mckaughan.md)
-* [神的自由 divine (William Rowe)](f/zi-you-freedom/shen-de-zi-you-divine-william-rowe.md)
-* [预知与自由意志 divine foreknowledge and (David Hunt and Linda Zagzebski)](f/hume-freewill/yu-zhi-yu-zi-you-yi-zhi-divine-foreknowledge-and-david-hunt-and-linda-zagzebski.md)
-* [全善 goodness, perfect (Mark Murphy)](p/perfect-goodness.md)
-* [预言 prophecy (Scott A. Davison)](p/prophecy.md)
-* [神的隐藏性 hiddenness of God (Daniel Howard-Snyder and Adam Green)](d/divine-hiddenness.md)
-* [永恒 immutability (Brian Leftow)](i/immutability.md)
-* [一神论 monotheism (William Wainwright)](m/monotheism.md)
-* [全能 omnipotence (Joshua Hoffman and Gary Rosenkrantz)](o/omnipotence.md)
-* [全在 omnipresence (Edward Wierenga)](o/omnipresence.md)
-* [全知 omniscience (Edward Wierenga)](o/omniscience.md)
-* [神意 providence, divine (Hugh J. McCann and Daniel M. Johnson)](p/providence-divine.md)
-* [神启 revelation, divine (Mats Wahlberg)](d/divine-revelation.md)
-* [三位一体 trinity (Dale Tuggy)](t/trinity.md)
-* [祈求式祷告 petitionary (Scott A. Davison)](p/dao-gao-prayer/qi-qiu-shi-dao-gao-petitionary-scott-a.-davison.md)
-* [奇迹 miracles (Timothy McGrew)](m/miracles.md)
-* [神学意志主义 voluntarism, theological (Mark Murphy)](v/voluntarism-theological.md)
-
-  * [上帝与其他终极存在 and other ultimates (Jeanine Diller)](g/shang-di-god/shang-di-yu-qi-ta-zhong-ji-cun-zai-and-other-ultimates-jeanine-diller.md)
-  * [上帝和其他必然存在 and other necessary beings (Matthew Davidson)](g/shang-di-god/shang-di-he-qi-ta-bi-ran-cun-zai-and-other-necessary-beings-matthew-davidson.md)
-## 神秘学家
-
-* [吉安巴蒂斯塔·德拉·波尔塔 Porta, Giambattista della (Sergius Kodera)](d/della-porta.md)
-* [埃克哈特大师 Meister Eckhart (Amber L. Griffioen)](m/meister-eckhart.md)
-* [海因里希·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)](a/agrippa-nettesheim.md)
-
-## 神学家
-
-* [安东尼奥·罗斯米尼 Rosmini, Antonio (Denis Cleary)](a/antonio-rosmini.md)
-* [尼古拉斯·塔雷路斯 Taurellus, Nicolaus (Andreas Blank)](t/taurellus.md)
-* [雅克·马里坦 Maritain, Jacques (William Sweet)](m/maritain.md)
-
-
-## 上帝存在的论证
-
-* [宇宙论证明 cosmological argument (Bruce Reichenbach)](a/argument.md)
-* [上帝存在的道德论证 moral arguments (C. Stephen Evans and David Baggett)](g/incompatibilism-arguments/shang-di-cun-zai-de-dao-de-lun-zheng-moral-arguments-c.-stephen-evans-and-david-baggett.md)
-* [本体论证明 ontological arguments (Graham Oppy)](o/ontological-arguments.md)
-* [实用主义与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan)](p/pragmatic-belief-god.md)
-* [上帝存在的目的论论证 teleological arguments for God’s existence (Del Ratzsch and Jeffrey Koperski)](t/mu-de-lun-teleology/shang-di-cun-zai-de-mu-de-lun-lun-zheng-teleological-arguments-for-gods-existence-del-ratzsch-and-je.md)
-
 # 伦理学（道德哲学）
 
-## 心理学家
 
 
-* [威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wilhelm-wundt.md)
-* [古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)](f/fechner.md)
-* [大卫·哈特利 Hartley, David (Richard Allen)](h/hartley.md)
-* [亨利·哈伯利·普莱斯 Price, Henry Habberley (Arthur Schipper and Paul Snowdon)](p/heng-li-ha-bo-li-pu-lai-si-price-henry-habberley-arthur-schipper-and-paul-snowdon.md)
 
 ## 元伦理学（直觉主义、情感主义、自然主义、认知主义、主观主义、后设伦理学、规范术语的含义）
 
