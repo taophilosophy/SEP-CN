@@ -447,6 +447,6 @@ While much more can be said about simple conditioning, Jeffrey conditioning and 
 
 [^bayes'-2008]: [Bayes' Original Essay](http://www.stat.ucla.edu/history/essay.pdf) (in PDF) (UCLA Statistics Department/[History of Statistics](http://www.stat.ucla.edu/history/)) LINK CHECKER--> <!-- COMMENTED OUT BY LINK CHECKER (Thu Oct 9 04:49:17 2008)
 
-[^a-2007]: [A Portrait, perhaps of Thomas Bayes](http://www.stat.ucla.edu/history/people/bayes.gif) (UCLA Statistics Department/[History of Statistics](http://www.stat.ucla.edu/history/)) --> <!-- COMMENTED OUT BY LINK CHECKER (Thu Oct 25 08:26:11 2007)
+[^portrait-2007]: [A Portrait, perhaps of Thomas Bayes](http://www.stat.ucla.edu/history/people/bayes.gif) (UCLA Statistics Department/[History of Statistics](http://www.stat.ucla.edu/history/)) --> <!-- COMMENTED OUT BY LINK CHECKER (Thu Oct 25 08:26:11 2007)
 
 [^bayesian-2005]: [Bayesian Inference for the Physical Sciences](http://astrosun.tn.cornell.edu/staff/loredo/bayes/) (Tom Loredo, Astronomy, Cornell) --> <!-- COMMENTED OUT BY LINK CHECKER (Tue Feb 1 03:35:22 2005)

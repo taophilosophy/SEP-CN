@@ -307,10 +307,11 @@ def build_cite_keys(entry_texts):
         if continued:
             surnames = list(prev_surnames)
         else:
-            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*", text[:ym.start()])
-            surnames = [t for t in toks if not re.fullmatch(r"[A-ZÀ-ÿ]\.", t)
-                        and t.lower() not in ('and', 'the', 'in', 'on', 'eds', 'ed',
-                                              'review', 'of')]
+            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*\.?", text[:ym.start()])
+            surnames = [t.rstrip('.') for t in toks
+                        if not re.fullmatch(r"[A-ZÀ-ÿ]\.?", t)
+                        and t.rstrip('.').lower() not in ('and', 'the', 'in', 'on', 'eds',
+                                                          'ed', 'review', 'of')]
             if not surnames:
                 surnames = list(prev_surnames)
             if not surnames:

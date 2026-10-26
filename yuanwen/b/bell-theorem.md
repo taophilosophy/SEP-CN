@@ -908,12 +908,12 @@ In a lecture delivered in Trieste in the last year of his life, Bell discussed t
 
 [^zeilinger-1999]: Zeilinger, A., 1999, “Experiment and the foundations of quantum physics,” *Reviews of Modern Physics*, 71: S288-S297.
 
-[^m-2017]: Żukowski, M., 2017, “Bell’s theorem tells us *not* what quantum mechanics *is*, but what quantum mechanics *is not*,” in Bertlmann and Zelinger (eds.), 175–185.
+[^zeilinger-2017]: Żukowski, M., 2017, “Bell’s theorem tells us *not* what quantum mechanics *is*, but what quantum mechanics *is not*,” in Bertlmann and Zelinger (eds.), 175–185.
 
-[^m-2014]: Żukowski, M., and Brukner, Č., 2014, “Quantum non-locality—it ain’t necessarily so…,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424009.
+[^brukner-2014]: Żukowski, M., and Brukner, Č., 2014, “Quantum non-locality—it ain’t necessarily so…,” *Journal of Physics A: Mathematical and Theoretical*, 47: 424009.
 
 [^nobel-2022]: Nobel, 2022, “[The Nobel Prize in Physics 2022,” at nobelprize.org.](https://www.nobelprize.org/prizes/physics/2022/summary/)
 
 [^virzì-2023]: [Virzì S., et al., 2023, “](https://www.nobelprize.org/prizes/physics/2022/summary/)[Single-pair measurement of the Bell parameter](https://arxiv.org/abs/2303.04787),” manuscript at arxiv.org.
 
-[^a-2002]: A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. acknowledges valuable correspondence with Travis Norsen and Howard Wiseman, and is grateful to Sebastian Murgueitio Ramírez for providing digitized copies of the cited issues of *Epistemological Letters*. Springer Verlag and Alain Aspect have kindly given permission to reproduce Figure 9.1 on p. 121 of Aspect’s article, “Bell’s Theorem: the Naïve View of an Experimentalist,” pp. 119–153 in *Quantum [Un]speakables*, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer Verlag, 2002; this Figure was used as Figure 1 in the present article.
+[^john-2002]: A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. acknowledges valuable correspondence with Travis Norsen and Howard Wiseman, and is grateful to Sebastian Murgueitio Ramírez for providing digitized copies of the cited issues of *Epistemological Letters*. Springer Verlag and Alain Aspect have kindly given permission to reproduce Figure 9.1 on p. 121 of Aspect’s article, “Bell’s Theorem: the Naïve View of an Experimentalist,” pp. 119–153 in *Quantum [Un]speakables*, R.A. Bertlmann and A. Zeilinger (eds.), Berlin-Heidelberg-New York: Springer Verlag, 2002; this Figure was used as Figure 1 in the present article.
