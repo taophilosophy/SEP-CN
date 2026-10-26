@@ -14,6 +14,7 @@
 |Abhidharma|阿毗达磨|汉译佛教传统用字，“毘”为“毗”之异体，简化字正字法用“毗”|
 |Abner of Burgos|布尔戈斯的阿布内尔||
 |Absolute idealism|绝对唯心论|黑格尔自称其体系为“绝对唯心论”；中文文献亦作“绝对唯心主义”“绝对观念论”。19 世纪英美的后继思潮另称“新黑格尔主义”（Neo-Hegelianism），二者勿混|
+|academic freedom|学术自由|新词条 academic-freedom 核心术语|
 |Academic Skepticism|学园怀疑主义||
 |accommodation|顺应；调节|按语境取义：科学哲学指理论迁就既有数据（与 prediction“预测”相对），视觉生理学译“调节”，语用学译“顺应”|
 |Account|解释；说明；原理|按语境取义，give an account of 译“对……给出说明/解释”；accounts 同|
@@ -23,6 +24,7 @@
 |Adieux: A Farewell to Sartre|告别的仪式|波伏瓦记录萨特最后岁月之作，上海译文出版社 2019 年中译本《告别的仪式》（孙凯译）|
 |agency|能动性|指行动者的行动能力；国际关系语境作“行为体”|
 |agent|行动者|伦理学与行动理论标准译名，亦作“行为者”；国际关系语境作“行为体”|
+|agnosticism|不可知论||
 |akrasia|不能自制|《尼各马可伦理学》卷七主题；廖申白译本作“不能自制”，亦译“不自制”“意志薄弱”|
 |al-Baghdadi|巴格达迪||
 |al-Farabi|阿里·法拉比||
@@ -45,6 +47,7 @@
 |All Men are Mortal|人都是要死的||
 |Allan Ramsay|艾伦·拉姆齐||
 |Alternative Axiomatic Set Theories|替代性公理集合论||
+|altruism|利他主义||
 |America Day by Day|美国纪行||
 |Ammonius|赫尔米亚的阿莫尼俄斯|即 Ammonius Hermiae（赫尔米亚之子），5 世纪亚历山大里亚的亚里士多德注释家|
 |Ammonius|阿莫尼俄斯|泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”|
@@ -60,6 +63,7 @@
 |Argument|论证|悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正|
 |Aristotle|亚里士多德||
 |Aspect|体（体貌）|语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正|
+|atheism|无神论||
 |atomism|原子论||
 |Attributes|属性||
 |authenticity|本真性||
@@ -78,6 +82,7 @@
 |Baudrillard|鲍德里亚||
 |Bauer|鲍威尔||
 |Bayes’ Theorem|贝叶斯定理||
+|bayesian confirmation theory|贝叶斯确证理论|confirmation 亦译“确认”，中文学界两译并行|
 |Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯确证理论对应用|
 |beauty|美||
 |Beauvoir|波伏娃||
@@ -86,6 +91,7 @@
 |belief merging|信念合并||
 |Bell inequalities|贝尔不等式|与 Bell's Theorem 贝尔定理并列|
 |Bell’s Theorem|贝尔定理||
+|Bell theorem|贝尔定理|Bell's Theorem 的裸写变体，语料高频（62 次）|
 |Benjamin|本雅明||
 |Benjamin Whichcote|本杰明·惠科特||
 |Bentham|边沁||
@@ -152,6 +158,7 @@
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
 |CHSH inequality|CHSH 不等式|贝尔不等式的 Clauser–Horne–Shimony–Holt 形式|
 |City of the Sun|太阳城||
+|classical logic|经典逻辑|与 non-classical logics 非经典逻辑相对；勿译“古典逻辑”|
 |cognitivism|认知主义||
 |Cohen|科恩|泛指姓；Hermann Cohen（赫尔曼·科恩，马堡新康德主义）见专条，余者以正文语境为准|
 |coherence theory|融贯论||
@@ -163,12 +170,14 @@
 |Computing|计算||
 |conditional probabilities|条件概率||
 |Confucianism|儒家思想||
+|connectionism|联结主义|心灵哲学与认知科学语境|
 |consequentialism|后果主义||
 |Consistent Histories|一致性历史||
 |Consistent Histories Approach|一致性历史方法||
 |Constitution|构成；构造；宪法|康德语境多译“构成”，胡塞尔（Konstitution）语境常译“构造”，政治语境译“宪法”|
 |constructive|构造性的|数学哲学语境；constructivism 才是“构造主义”（亦译“建构主义”）|
 |Content Externalism|内容外在主义||
+|contextualism|语境主义|知识论语境；亦译“情境主义”，按语境分流|
 |continuum|连续体||
 |Continuum Hypothesis|连续统假设||
 |contractarianism|自利契约论|霍布斯式传统，以互利自利为基础；亦译“契约论”，与 contractualism 相对|
@@ -229,6 +238,7 @@
 |Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
 |Farabian|法拉比||
 |feminism|女性主义||
+|fictionalism|虚构主义|数学哲学与话语理论语境|
 |Formal Approaches|形式化方法||
 |formal language|形式语言||
 |Francis Bacon|弗朗西斯·培根||
@@ -237,6 +247,8 @@
 |Francisco Suárez|弗朗西斯科·苏亚雷斯||
 |Franz Brentano|弗朗兹·布伦塔诺||
 |François-Marie d’Arouet|弗朗索瓦-马里‧阿鲁埃||
+|free speech|言论自由|与 academic freedom 学术自由相关联|
+|free variables|自由变元|亦作“自由变项”；与约束变元（bound variables）相对|
 |Friedrich Albert Lange|弗里德里希·阿尔贝特·朗格||
 |Galen|盖伦||
 |general idea|一般观念|洛克、贝克莱语境（普遍观念）；“概述”是日常义，哲学语境不用|
@@ -269,6 +281,7 @@
 |hidden variables|隐变量|隐变量理论 hidden-variable theories|
 |Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
+|humanism|人文主义|文艺复兴语境；伦理语境亦译“人道主义”，按语境分流|
 |Ibn Bâjja|伊本·巴哲||
 |Ibn Kammūna|伊本·凯姆那||
 |Ibn Rushd|伊本·鲁世德||
@@ -286,7 +299,9 @@
 |Inference to the Best Explanation|最佳解释推理|亦作“最佳说明推理”；abduction 词条核心概念|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
+|institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
 |Intrinsic|内在||
+|intuitionism|直觉主义|数学基础（布劳威尔）与伦理学两支，按语境分流|
 |Intuitionistic|直觉主义||
 |Isaac Albalag|以撒·阿尔巴拉格||
 |isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
@@ -352,6 +367,7 @@
 |Myths|神话|多指柏拉图对话中的神话（Plato’s myths）；旧表“秘所思”系讹译，废弃|
 |Natorp|那托普||
 |natural language|自然语言|与形式语言相对|
+|natural number|自然数|natural numbers 的单数形式，语料高频|
 |natural numbers|自然数||
 |Natural Religion|自然宗教||
 |Natural Theology|自然神学||
@@ -388,6 +404,7 @@
 |Philosophy of Statistical Mechanics|统计力学哲学||
 |Philosophy of Statistics|统计学哲学||
 |Philosophy of Technology|技术哲学||
+|physicalism|物理主义|心灵哲学；与 materialism 物质主义/唯物论的历史分野见词条|
 |physiologos / physiologoi|论自然者|前苏格拉底自然哲学家之称；阿尔克迈翁条裁定|
 |Plague|鼠疫||
 |Plato|柏拉图||
@@ -402,6 +419,7 @@
 |Porphyry|波菲利||
 |Post-Newtonian|后牛顿||
 |pragmatic|语用（的）；实用（的）|语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”|
+|pragmatism|实用主义|见 Pragmatist 条；勿与 pragmatic（语用的/实用的）混淆|
 |Pragmatist|实用主义者|名词指人；形容词“实用主义的”|
 |predicate letter|谓词字母||
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
@@ -432,6 +450,7 @@
 |Regress|倒退|认识论语境常作“无穷倒退”（infinite regress）|
 |Reinhold|莱因霍尔德||
 |Relational|关系性||
+|Relativism|相对主义||
 |Representation|表征|认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”|
 |Research|研究||
 |Retrocausality|逆因果关系||
@@ -449,6 +468,7 @@
 |Science|科学||
 |scientific knowledge|科学知识||
 |Scientific Method|科学方法||
+|scientific methodology|科学方法论||
 |scientific realism|科学实在论|与结构实在论、经验等价论题相对|
 |Scientific Theory|科学理论||
 |Second Sex|第二性||
@@ -488,6 +508,7 @@
 |Soul|灵魂||
 |Sounds|声音||
 |Sovereignty|主权||
+|spacelike separation|类空间隔|相对论与贝尔定理语境，亦作“类空分离”|
 |Species|物种||
 |Speech Acts|言语行为||
 |Spencer|斯宾塞||
@@ -506,9 +527,11 @@
 |Strauss|施特劳斯||
 |Strawson|斯特劳森||
 |Structural Realism|结构实在论|科学哲学标准译名（沃勒尔等）；“结构现实主义”是国际关系理论（沃尔兹）的译名，勿混|
+|structuralism|结构主义|与 structural realism 结构实在论区分|
 |Structure|结构||
 |Stumpf|斯图姆夫||
 |Sturm|施图尔姆|泛指姓；Johann Christoph Sturm（约翰内斯·克里斯托夫·施图尔姆）见专条|
+|subjective probability|主观概率|与客观概率（objective probability）相对|
 |Substance|实体||
 |suniêmi|汇通|指集合感官信息的能力；阿尔克迈翁条裁定|
 |Superdeterminism|超决定论|贝尔定理语境|

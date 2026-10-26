@@ -8,19 +8,28 @@
 | ---- | ---- | ---- | -------- |
 | abductive reasoning | 溯因推理 | 语料回收（abduction） | 2026-10-27 |
 | absolute idealism | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 2026-10-27 |
+| academic freedom | 学术自由 | 语料回收（academic-freedom） | 2026-10-27 |
+| agnosticism | 不可知论 | 语料回收 | 2026-10-27 |
+| altruism | 利他主义 | 语料回收 | 2026-10-27 |
 | anomalous monism | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 2026-10-27 |
 | aphanes | 不可知觉的东西 | alcmaeon | 2026-10-26 |
+| atheism | 无神论 | 语料回收 | 2026-10-27 |
+| bayesian confirmation theory | 贝叶斯确证理论 | 语料回收（bayes-theorem） | 2026-10-27 |
 | Bayesianism | 贝叶斯主义 | 语料回收（bayes-theorem） | 2026-10-27 |
 | Bell inequalities | 贝尔不等式 | 语料回收（bell-theorem） | 2026-10-27 |
+| Bell theorem | 贝尔定理 | 语料回收（bell-theorem） | 2026-10-27 |
 | Buddhism | 佛教 | 语料回收 | 2026-10-27 |
 | Chancellor | 总务长 | 词汇表复核（源提交 bbeff276） | 2026-10-27 |
 | CHSH inequality | CHSH 不等式 | 语料回收（bell-theorem） | 2026-10-27 |
+| classical logic | 经典逻辑 | 语料回收（logic-classical） | 2026-10-27 |
 | cognitivism | 认知主义 | 语料回收 | 2026-10-27 |
 | common cause principle | 共因原则 | 语料回收（bell-theorem） | 2026-10-27 |
 | conditional probabilities | 条件概率 | 语料回收（bayes-theorem） | 2026-10-27 |
 | Confucianism | 儒家思想 | 语料回收 | 2026-10-27 |
+| connectionism | 联结主义 | 语料回收 | 2026-10-27 |
 | consequentialism | 后果主义 | 语料回收 | 2026-10-27 |
 | Constitution | 构成（康德语境）；构造（胡塞尔 Konstitution）；宪法（政治语境） | 词汇表复核（源提交 b27b33bd） | 2026-10-27 |
+| contextualism | 语境主义 | 语料回收 | 2026-10-27 |
 | deductive system | 演绎系统 | 语料回收（logic-classical） | 2026-10-27 |
 | determinism | 决定论 | 语料回收 | 2026-10-27 |
 | dialetheism | 双面真理论 | 语料回收（logic-classical） | 2026-10-27 |
@@ -29,21 +38,30 @@
 | empiricism | 经验主义 | 语料回收 | 2026-10-27 |
 | externalism | 外在主义 | 语料回收 | 2026-10-27 |
 | feminism | 女性主义 | 语料回收 | 2026-10-27 |
+| fictionalism | 虚构主义 | 语料回收 | 2026-10-27 |
 | formal language | 形式语言 | 语料回收（logic-classical） | 2026-10-27 |
+| free speech | 言论自由 | 语料回收（academic-freedom） | 2026-10-27 |
+| free variables | 自由变元 | 语料回收（logic-classical） | 2026-10-27 |
 | hidden variables | 隐变量 | 语料回收（bell-theorem） | 2026-10-27 |
+| humanism | 人文主义 | 语料回收 | 2026-10-27 |
 | Inference to the Best Explanation | 最佳解释推理 | abduction | 2026-10-26 |
+| institutional neutrality | 机构中立 | 语料回收（academic-freedom） | 2026-10-27 |
+| intuitionism | 直觉主义 | 语料回收 | 2026-10-27 |
 | isonomia | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 2026-10-26 |
 | kenon | 空腔 | alcmaeon | 2026-10-26 |
 | mechanism | 机械论 | 语料回收 | 2026-10-27 |
 | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 2026-10-26 |
 | natural language | 自然语言 | 语料回收（logic-classical） | 2026-10-27 |
+| natural number | 自然数 | 语料回收（set-theory） | 2026-10-27 |
 | natural numbers | 自然数 | 语料回收（set-theory） | 2026-10-27 |
 | naturalism | 自然主义 | 语料回收 | 2026-10-27 |
 | Nominalism | 唯名论 | 词汇表复核（源提交 36fd04fd） | 2026-10-27 |
 | observation sentences | 观察句 | 语料回收（quine） | 2026-10-27 |
+| physicalism | 物理主义 | 语料回收 | 2026-10-27 |
 | physiologos / physiologoi | 论自然者（前苏格拉底自然哲学家） | alcmaeon | 2026-10-26 |
 | political philosophy | 政治哲学 | 语料回收 | 2026-10-27 |
 | poroi | 通道 | alcmaeon | 2026-10-26 |
+| pragmatism | 实用主义 | 语料回收 | 2026-10-27 |
 | predicate letter | 谓词字母 | 语料回收（logic-classical） | 2026-10-27 |
 | problem of universals / universals | 共相问题／共相（与“殊相”相对；勿译“普遍性问题”） | 词汇表复核 | 2026-10-27 |
 | Pythagoreanism | 毕达哥拉斯主义 | 语料回收（alcmaeon/arcesilaus） | 2026-10-27 |
@@ -51,9 +69,14 @@
 | quantum theory | 量子理论 | 语料回收（bell-theorem） | 2026-10-27 |
 | Quine | 蒯因 | 语料回收（quine） | 2026-10-27 |
 | real numbers | 实数 | 语料回收（set-theory） | 2026-10-27 |
+| Relativism | 相对主义 | 语料回收 | 2026-10-27 |
 | scepticism | 怀疑论 | 语料回收（arcesilaus） | 2026-10-27 |
+| scientific methodology | 科学方法论 | 语料回收 | 2026-10-27 |
 | scientific realism | 科学实在论 | 语料回收 | 2026-10-27 |
+| spacelike separation | 类空间隔 | 语料回收（bell-theorem） | 2026-10-27 |
 | structural realism | 结构实在论（“结构现实主义”是国际关系理论译名，勿混） | 词汇表复核 | 2026-10-27 |
+| structuralism | 结构主义 | 语料回收 | 2026-10-27 |
+| subjective probability | 主观概率 | 语料回收（bayes-theorem） | 2026-10-27 |
 | suniêmi | 汇通（译作“理解/汇通”，指集合感官信息的能力） | alcmaeon | 2026-10-26 |
 | Superdeterminism | 超决定论 | 语料回收（bell-theorem） | 2026-10-27 |
 | tekmairesthai | 凭征象推断 | alcmaeon | 2026-10-26 |
