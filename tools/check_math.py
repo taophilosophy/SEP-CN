@@ -106,6 +106,7 @@ def main(argv=None):
         r = check_slug(slug)
         if r.get('skipped'):
             continue
+        out['formulas'] += r.get('formulas', 0)
         out['missing'] += [{'slug': slug, **x} for x in r['missing']]
         out['unbalanced'] += [{'slug': slug, 'line': x} for x in r['unbalanced']]
     print(json.dumps(out, ensure_ascii=False, indent=2))

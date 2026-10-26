@@ -25,6 +25,9 @@ jobs:
       - name: 垃圾与产物入库门禁（tools/check_junk.py）
         run: python tools/check_junk.py
 
+      - name: 术语一致性门禁（tools/check_terms.py）
+        run: python tools/check_terms.py
+
       - name: 管线单元测试（tools/tests）
         run: python -m unittest discover -s tools/tests
 

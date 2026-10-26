@@ -40,9 +40,11 @@ function rawMathHtml(raw) {
 
 /** 源文进入 markdown 解析前：围栏/行内代码以外的公式抽换为哨兵 */
 export function protectMath(src) {
+  // 守卫必须編进正则（而非事后拒绝）：事后拒绝会让扫描跳过已消费的定界符，
+  // 货币符号 "$150,000" 与后续公式错配时会连锁打乱整篇的 $ 配对。
   const re =
-    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|\$\$([\s\S]+?)\$\$|\$([^$]+?)\$(?!\d)/g
-  return src.replace(
+    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$((?:[ \t]+\\)?(?:\\\$|[^\s$])(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)\$(?!\d)/g
+  const out = src.replace(
     re,
     (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTex) => {
       if (fenceClosed || fenceOpen) return all // 围栏代码块原样保留
@@ -50,16 +52,15 @@ export function protectMath(src) {
       if (blockTex !== undefined) return `\n\n@@MB${encodeB64(blockTex)}@@\n\n`
       if (inlineTex !== undefined) return `@@MI${encodeB64(inlineTex)}@@`
       if (ddTex !== undefined) return `@@MJ${encodeB64(`$$${ddTex}$$`)}@@`
-      if (dTex !== undefined) {
-        // 单 $ 防误伤：内容首尾空白、跨空行（段落分隔）不视为公式；
-        // 右定界符后紧跟数字（"$5和$10"）已由 (?!\d) 排除。
-        // 内容允许单个换行（原文有跨行的行内公式）。
-        if (/^\s|\s$/.test(dTex) || /\n[ \t]*\n/.test(dTex)) return all
-        return `@@MJ${encodeB64(`$${dTex}$`)}@@`
-      }
-      return all
+      return `@@MJ${encodeB64(`$${dTex}$`)}@@`
     },
   )
+  // 数学之外的裸 {{ 会被 Vue 当模板插值（轻则文本消失、重则编译报错），须屏蔽。
+  // 代码块内用零宽空格（实体在代码里会被 markdown 再转义成可见的 &#123;），
+  // 其余文本用等效实体（显示与复制均不受影响）。
+  return out
+    .replace(/(`[^`\n]*`|(```|~~~)[^\n]*\n[\s\S]*?\n\2)/g, (c) => c.replace(/\{\{/g, '{\u200b{'))
+    .replace(/\{\{/g, '&#123;{')
 }
 
 /** 渲染前把哨兵还原为最终 HTML */

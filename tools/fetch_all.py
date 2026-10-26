@@ -42,11 +42,13 @@ def _flog(rec):
 
 
 def _checkpoint(done, failed, total, cfg):
-    write_json_verified(repo_path("script", "fetch-all-status.json"), {
-        "at": utcnow_iso(), "config": {"channels": cfg[0], "period_s": cfg[1]},
-        "done": done, "failed": failed, "total": total,
-        "remaining": total - done - failed,
-    })
+    # 多 worker 同时到检查点会互撞（Windows 替换窗口），与日志共用一把锁
+    with _log_lock:
+        write_json_verified(repo_path("script", "fetch-all-status.json"), {
+            "at": utcnow_iso(), "config": {"channels": cfg[0], "period_s": cfg[1]},
+            "done": done, "failed": failed, "total": total,
+            "remaining": total - done - failed,
+        })
 
 
 def load_slugs(args):

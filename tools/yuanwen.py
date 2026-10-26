@@ -36,6 +36,40 @@ NOTE_REF_RE = re.compile(
     r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
 SPECIAL_DIV_RE = re.compile(r'pubinfo|preamble|figure|bibliography', re.I)
 SKIP_DIV_RE = re.compile(r'\btoc\b', re.I)
+CROSS_MATH_RE = re.compile(r'(\\\[.*?\\\]|\\\(.*?\\\))', re.S)
+CROSS_BLOCK_TAG_RE = re.compile(
+    r'</?(?:p|div|table|ul|ol|blockquote|h[1-6]|dl|pre)\b', re.I)
+
+
+def protect_cross_block_math(region):
+    r"""区域级跨块公式保护（2026-10-27 数学保真裁定）。
+
+    横跨块级标签的 \(…\)/\[…\] 公式在按块切分时被腰斩，两侧都无法配对。
+    含块级标签的公式整体换成占位标记（切块、行内转换对标记透明），
+    最终在 md 层还原为 $$/…$ 定界形式。返回 (region', {标记: 内部内容})。
+    """
+    stash = {}
+
+    def _repl(m):
+        inner = m.group(1)
+        if CROSS_BLOCK_TAG_RE.search(inner):
+            key = '\x00M%d\x00' % len(stash)
+            stash[key] = inner
+            return key
+        return m.group(0)
+
+    return CROSS_MATH_RE.sub(_repl, region), stash
+
+
+def restore_cross_block_math(text, stash):
+    for key, inner in stash.items():
+        v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(inner)).strip()
+        if v.startswith('\\(') and v.endswith('\\)'):
+            v = '$' + v[2:-2] + '$'
+        elif v.startswith('\\[') and v.endswith('\\]'):
+            v = '$$' + v[2:-2] + '$$'
+        text = text.replace(key, v)
+    return text
 
 
 # ---------------------------------------------------------------- blocks ----
@@ -411,6 +445,7 @@ def convert_notes(html, slug):
     """notes.html → [^note-n]: 文本 列表（顺带保留无编号说明段）。"""
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
+    article, stash = protect_cross_block_math(article)
     defs = []
     for b in extract_blocks_raw(article):
         if b['type'] != 'p':
@@ -424,13 +459,14 @@ def convert_notes(html, slug):
             txt = inline_to_md(inner, slug)
             if txt:
                 defs.append(txt)
-    return defs
+    return [restore_cross_block_math(d, stash) for d in defs]
 
 
 def convert_supplement(html, slug, base):
     ctx = Ctx(slug)
+    html, stash = protect_cross_block_math(html)
     render_blocks(extract_blocks_raw(html), ctx)
-    text = '\n'.join(ctx.out).strip() + '\n'
+    text = restore_cross_block_math('\n'.join(ctx.out).strip() + '\n', stash)
     header = '# %s — %s（supplement）\n\n> （《%s》词条补充材料，源：plato.stanford.edu/entries/%s/%s.html）\n\n' % (
         slug, base, slug, slug, base)
     return header + text
@@ -459,6 +495,7 @@ def convert_entry(slug):
     html = read_text(idx_path)
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
+    article, stash = protect_cross_block_math(article)
     tm = re.search(r'<meta name="citation_title" content="([^"]*)"', html)
     authors = [unescape(a) for a in
                re.findall(r'<meta name="citation_author" content="([^"]*)"', html)]
@@ -480,8 +517,9 @@ def convert_entry(slug):
     note_defs = []
     notes_path = os.path.join(src_dir, 'notes.html')
     if os.path.exists(notes_path):
-        note_defs = [d for d in convert_notes(read_text(notes_path), slug)
-                     if d.startswith('[^note-')]
+        # 不得过滤非 [^note- 行：notes.html 里裸公式段与"where…"接续段
+        # 是原文内容（2026-10-27 数学保真裁定），过滤即丢公式
+        note_defs = convert_notes(read_text(notes_path), slug)
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
@@ -513,6 +551,8 @@ def convert_entry(slug):
         md, cite_markers, _used = link_citations(md, keys)
         md += '\n\n' + '\n\n'.join('[^%s]: %s' % (k['key'], k['text']) for k in keys)
         cite_defs = len(keys)
+
+    md = restore_cross_block_math(md, stash)
 
     md_path = os.path.join(ydir, slug + '.md')
     write_text_verified(md_path, md + '\n')

@@ -1,0 +1,196 @@
+# -*- coding: utf-8 -*-
+"""术语一致性检查器（specs/002-term-consistency，FR-001..005）。
+
+用法:
+  python tools/check_terms.py                       # 两表冲突 + 登记册自洽（门禁）
+  python tools/check_terms.py --docs a/某词条.md …   # 定点核销：登记册"首现"驱动的正文核对
+  python tools/check_terms.py --registry <路径> --glossary <路径>   # 测试注入
+
+规则:
+  - 键规范化：剥 * 斜体标记、去首尾空格、比对用 casefold，展示保留原样。
+  - 译法集合：取"（"前主形，并按 / 与 ／ 拆分为变体；两侧集合互斥 = 冲突（硬错误）；
+    一侧为另一侧真子集 = 词汇表滞后（告警）。
+  - 登记册自洽：废弃行须有同键非废弃行；裁定日期缺失；同键同译法重复。
+退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0）。
+"""
+import io
+import os
+import re
+import sys
+from collections import defaultdict
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+GLOSSARY = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
+DEPRECATED_MARK = '已废弃'
+
+
+def norm_key(text):
+    """术语键：剥斜体标记与空白，casefold 比对。"""
+    return re.sub(r'\s+', ' ', text.replace('*', '').strip()).casefold()
+
+
+def translations(cell):
+    """译法集合：取"（"注记前主形，按 / ／ ； 、 ; 拆分变体。"""
+    head = cell.split('（')[0].strip()
+    variants = re.split(r'[/／；、;]', head)
+    return {v.strip() for v in variants if v.strip()}
+
+
+def split_row(line):
+    return [c.strip() for c in line.strip().strip('|').split('|')]
+
+
+def is_data_row(cells, header_words):
+    return (len(cells) >= 2 and cells[0] and cells[1]
+            and cells[0].casefold() not in header_words
+            and not set(cells[0]) <= set(':-— '))
+
+
+def parse_registry(path):
+    """返回 rows=[(term, trans, first_seen, date, lineno)] 与解析告警。"""
+    rows, warns = [], []
+    header_words = {'原文', '译法', '首现', '裁定日期', '人名', '文献', '条目', 'term'}
+    for lineno, line in enumerate(open(path, encoding='utf-8'), 1):
+        if not line.startswith('|'):
+            continue
+        cells = split_row(line)
+        if not is_data_row(cells, header_words):
+            continue
+        term, trans = cells[0], cells[1]
+        first_seen = cells[2] if len(cells) >= 3 else ''
+        date = cells[3] if len(cells) >= 4 else ''
+        if len(cells) < 4:
+            warns.append('登记册第 %d 行仅 %d 列（应为 4）：%s' % (lineno, len(cells), term))
+        rows.append((term, trans, first_seen, date, lineno))
+    return rows, warns
+
+
+def parse_glossary(path):
+    """返回 rows=[(term, trans, lineno)] 与解析告警。"""
+    rows, warns = [], []
+    header_words = {'英语', '英文', '中文', '备注', 'term'}
+    for lineno, line in enumerate(open(path, encoding='utf-8'), 1):
+        if not line.startswith('|'):
+            continue
+        cells = split_row(line)
+        if not is_data_row(cells, header_words):
+            continue
+        rows.append((cells[0], cells[1], lineno))
+    return rows, warns
+
+
+def collect(rows):
+    """key -> {translation_set, display_key, linenos}"""
+    table = {}
+    for row in rows:
+        term, trans, lineno = row[0], row[1], row[-1]
+        key = norm_key(term)
+        entry = table.setdefault(key, {'key': key, 'display': term,
+                                       'trans': set(), 'lines': []})
+        entry['trans'] |= translations(trans)
+        entry['lines'].append(lineno)
+    return table
+
+
+def check_registry_self(rows):
+    """自洽性：废弃链、重复 = 硬错误；缺裁定日期 = 告警（数据欠账，登记会话补齐）。"""
+    errors, warns = [], []
+    by_key = defaultdict(list)
+    for term, trans, first_seen, date, lineno in rows:
+        by_key[norm_key(term)].append((term, trans, date, lineno))
+    for key, items in by_key.items():
+        live = [it for it in items if DEPRECATED_MARK not in it[1]]
+        deprecated = [it for it in items if DEPRECATED_MARK in it[1]]
+        if deprecated and not live:
+            errors.append('废弃链断裂：%s 仅剩废弃行（第 %s 行），无有效新行'
+                          % (deprecated[0][0], '/'.join(str(it[3]) for it in deprecated)))
+        seen = {}
+        for term, trans, date, lineno in items:
+            if not date or set(date) <= set(':- '):
+                warns.append('缺裁定日期（告警）：%s（第 %d 行）' % (term, lineno))
+            sig = (norm_key(term), trans.strip())
+            if sig in seen:
+                errors.append('重复行：%s|%s 第 %d 行与第 %d 行重复'
+                              % (term, trans, seen[sig], lineno))
+            else:
+                seen[sig] = lineno
+    return errors, warns
+
+
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
+    reg_path, glos_path, docs = REGISTRY, GLOSSARY, []
+    i = 0
+    while i < len(argv):
+        if argv[i] == '--docs':
+            docs = argv[i + 1:]
+            break
+        if argv[i] == '--registry':
+            reg_path, i = argv[i + 1], i + 1
+        elif argv[i] == '--glossary':
+            glos_path, i = argv[i + 1], i + 1
+        i += 1
+
+    reg_rows, reg_warns = parse_registry(reg_path)
+    glos_rows, glos_warns = parse_glossary(glos_path)
+    reg = collect(reg_rows)
+    glos = collect(glos_rows)
+
+    conflicts, lagging = [], []
+    for key in sorted(set(reg) & set(glos)):
+        rt, gt = reg[key]['trans'], glos[key]['trans']
+        if rt and gt and not (rt & gt):
+            conflicts.append((reg[key]['display'], sorted(rt), sorted(gt),
+                              reg[key]['lines'], glos[key]['lines']))
+        elif rt and gt and (rt < gt or gt < rt):
+            lagging.append((reg[key]['display'], sorted(rt), sorted(gt)))
+
+    self_errors, date_warns = check_registry_self(reg_rows)
+
+    print('登记册术语行 %d（键 %d） | 词汇表行 %d（键 %d） | 交集键 %d'
+          % (len(reg_rows), len(reg), len(glos_rows), len(glos),
+             len(set(reg) & set(glos))))
+    for w in reg_warns + glos_warns:
+        print('告警(解析): %s' % w)
+    for term, rt, gt, rl, gl in conflicts:
+        print('冲突: %s\n  登记册(第%s行): %s\n  词汇表(第%s行): %s'
+              % (term, ','.join(map(str, rl)), '、'.join(rt),
+                 ','.join(map(str, gl)), '、'.join(gt)))
+    for term, rt, gt in lagging:
+        print('词汇表滞后（告警）: %s | 登记册: %s | 词汇表: %s'
+              % (term, '、'.join(rt), '、'.join(gt)))
+    for e in self_errors:
+        print('自洽违例: %s' % e)
+    for w in date_warns:
+        print(w)
+
+    if docs:
+        body_cache = {}
+        misses = 0
+        for term, trans, first_seen, date, lineno in reg_rows:
+            slugs = [s for s in re.split(r'[（()）/,、]', first_seen or '')
+                     if s.strip() and re.fullmatch(r'[a-z0-9\-]+', s.strip())]
+            hit_docs = [d for d in docs
+                        if any(d.endswith('%s.md' % s) or ('/%s/' % s) in d for s in slugs)]
+            for d in hit_docs:
+                if d not in body_cache:
+                    body_cache[d] = open(os.path.join(ROOT, d), encoding='utf-8').read()
+                for t in translations(trans):
+                    if t not in body_cache[d]:
+                        print('正文缺登记译法（告警）: %s 的「%s」未见于 %s'
+                              % (term, t, d))
+                        misses += 1
+        print('定点核销：%d 个文档，%d 处疑似缺译法（仅告警）' % (len(docs), misses))
+
+    hard = len(conflicts) + len(self_errors)
+    print('硬错误 %d（冲突 %d + 自洽 %d），词汇表滞后 %d'
+          % (hard, len(conflicts), len(self_errors), len(lagging)))
+    if docs:
+        return 0
+    return 1 if hard else 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())
