@@ -2,30 +2,31 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-10-26 18:45（UTC）
+生成时间：2026-10-26 19:03（UTC）
 
 ## 总览
 
-| 指标 | 数值 |
+|指标|数值|
 |---|---|
 | SUMMARY 正式词条（重译对象） | 1804 |
 | 别名词条（— see，不建任务） | 620 |
 | 占位母词条（* 前缀，不建任务） | 180 |
 | 已建英文基线 | 8 |
-| 已建任务 | 3 |
+| 已建任务 | 2 |
 | 已完成（done） | 0 |
-| 在途（drafted 起、done 前） | 3 |
+| 在途（drafted 起、done 前） | 2 |
 | 阻塞 | 0 |
 
 ## 任务状态分布
 
-| 状态 | 数量 |
+|状态|数量|
 |---|---|
 |s1_checked|1|
+|round1_augmented（非标准状态）|1|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
 
-| 字母 | 正式词条 | 已建基线 | 已建任务 | done |
+|字母|正式词条|已建基线|已建任务|done|
 |---|---|---|---|---|
 |A|139|3|1|0|
 |B|61|2|0|0|
@@ -56,8 +57,7 @@
 
 ## 在途任务
 
-| slug | 类型 | 状态 | 最后执行 |
+|slug|类型|状态|最后执行|
 |---|---|---|---|
-|None|None|None| |
 |alcmaeon|retranslate|s1_checked|zcode-演示轮1 2026-10-26|
 |ci-hui-biao|glossary-maintenance|round1_augmented|zcode-词汇表复核 2026-10-27|

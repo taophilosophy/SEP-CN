@@ -63,15 +63,23 @@ def load_baseline():
 
 
 def load_tasks():
-    tasks = []
+    tasks, bad = [], 0
     tdir = os.path.join(ROOT, 'tasks')
     for dirpath, _, filenames in os.walk(tdir):
         for fn in filenames:
             if fn.endswith('.json'):
                 try:
-                    tasks.append(json.load(open(os.path.join(dirpath, fn), encoding='utf-8')))
+                    data = json.load(open(os.path.join(dirpath, fn), encoding='utf-8'))
                 except (json.JSONDecodeError, OSError) as exc:
                     print('警告：任务文件解析失败 %s: %s' % (fn, exc))
+                    bad += 1
+                    continue
+                if isinstance(data, dict) and data.get('slug'):
+                    tasks.append(data)
+                else:
+                    bad += 1
+    if bad:
+        print('警告：%d 个任务记录缺少 slug 或解析失败，未计入统计' % bad)
     return tasks
 
 
@@ -95,28 +103,31 @@ def main():
         '',
         '## 总览',
         '',
-        '| 指标 | 数值 |',
+        '|指标|数值|',
         '|---|---|',
-        '| SUMMARY 正式词条（重译对象） | %d |' % total_formal,
-        '| 别名词条（— see，不建任务） | %d |' % total_alias,
-        '| 占位母词条（* 前缀，不建任务） | %d |' % sum(v[2] for v in per_letter.values()),
-        '| 已建英文基线 | %d |' % len(baseline),
-        '| 已建任务 | %d |' % len(tasks),
-        '| 已完成（done） | %d |' % len(done),
-        '| 在途（drafted 起、done 前） | %d |' % len(wip),
-        '| 阻塞 | %d |' % len(blocked),
+        '| SUMMARY 正式词条（重译对象）|%d|' % total_formal,
+        '| 别名词条（— see，不建任务）|%d|' % total_alias,
+        '| 占位母词条（* 前缀，不建任务）|%d|' % sum(v[2] for v in per_letter.values()),
+        '| 已建英文基线|%d|' % len(baseline),
+        '| 已建任务|%d|' % len(tasks),
+        '| 已完成（done）|%d|' % len(done),
+        '| 在途（drafted 起、done 前）|%d|' % len(wip),
+        '| 阻塞|%d|' % len(blocked),
         '',
         '## 任务状态分布',
         '',
-        '| 状态 | 数量 |',
+        '|状态|数量|',
         '|---|---|',
     ]
     for s in STATES:
         if states.get(s):
             lines.append('|%s|%d|' % (s, states[s]))
+    for s, n in sorted(states.items()):
+        if s not in STATES:
+            lines.append('|%s（非标准状态）|%d|' % (s, n))
 
     lines += ['', '## 按首字母（正式词条 / 基线 / 任务 / 完成）', '',
-              '| 字母 | 正式词条 | 已建基线 | 已建任务 | done |', '|---|---|---|---|---|']
+              '|字母|正式词条|已建基线|已建任务|done|', '|---|---|---|---|---|']
     for ch in 'abcdefghijklmnopqrstuvwxyz':
         formal = per_letter.get(ch, [0, 0, 0])[0]
         if not formal:
@@ -127,14 +138,14 @@ def main():
         lines.append('|%s|%d|%d|%d|%d|' % (ch.upper(), formal, base_n, task_n, done_n))
 
     if wip:
-        lines += ['', '## 在途任务', '', '| slug | 类型 | 状态 | 最后执行 |', '|---|---|---|---|']
+        lines += ['', '## 在途任务', '', '|slug|类型|状态|最后执行|', '|---|---|---|---|']
         for t in sorted(wip, key=lambda x: x.get('slug', '')):
             last = t['steps'][-1] if t.get('steps') else {}
             lines.append('|%s|%s|%s|%s %s|' % (t.get('slug'), t.get('kind'),
                                                t.get('state'), last.get('actor', ''),
                                                last.get('at', '')[:10]))
     if blocked:
-        lines += ['', '## 阻塞任务', '', '| slug | 阻塞原因 |', '|---|---|']
+        lines += ['', '## 阻塞任务', '', '|slug|阻塞原因|', '|---|---|']
         for t in blocked:
             lines.append('|%s|%s|' % (t.get('slug'), '；'.join(t.get('blockers'))))
 

@@ -23,7 +23,7 @@ PUBINFO_RE = re.compile(
 SECNO_RE = re.compile(r"^(\d+(?:\.\d+)*)\.?\s+")
 META_RE = re.compile(r'<meta name="(citation_title|citation_author)" content="([^"]*)"')
 FIG_RE = re.compile(r'<span class="figlabel">(Figure [^<]*)</span>', re.I)
-NOTE_REF_RE = re.compile(r'<a href="notes\.html#(\d+)"', re.I)
+NOTE_REF_RE = re.compile(r'<a href="notes\.html#([A-Za-z0-9_-]+)"', re.I)
 SUPP_HREF_RE = re.compile(r'<a href="([a-z0-9][a-z0-9._-]*\.html)"', re.I)
 IMG_RE = re.compile(r'<img[^>]*\ssrc="([^"]+)"[^>]*>', re.I)
 ALT_RE = re.compile(r'\salt="([^"]*)"')
@@ -141,7 +141,7 @@ def parse_entry(html_text):
             except StopIteration:
                 break
 
-    notes_refs = sorted({int(n) for n in NOTE_REF_RE.findall(article)})
+    notes_refs = sorted(set(NOTE_REF_RE.findall(article)))
     supplements = sorted({h for h in SUPP_HREF_RE.findall(article)
                           if h not in ("index.html", "notes.html")})
     images = []

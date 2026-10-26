@@ -2,6 +2,12 @@
 
 > （《abduction》词条补充材料，源：plato.stanford.edu/entries/abduction/peirce.html）
 
+Abduction > Peirce on Abduction (Stanford Encyclopedia of Philosophy)
+
+Stanford Encyclopedia of Philosophy
+
+Menu
+
 - Browse
 - Table of Contents
 - What's New
@@ -21,6 +27,8 @@
 - PDFs for SEP Friends
 - Make a Donation
 - SEPIA for Libraries
+
+Entry Navigation
 
 - Back to Entry
 - Entry Contents
@@ -49,6 +57,8 @@ Nevertheless, Frankfurt ultimately rejects this proposal as well. Given, he says
 Even if “making a given fact a matter of course” can be read as “giving a satisfactory explanation of that fact,” it is remarkable that there is no reference in Peirce’s writings on abduction to the notion of *best *explanation. Some satisfactory explanations might still be better than others, and there might even be a unique best one. This idea is crucial in all recent thinking about abduction. Therein lies another main difference between Peirce’s conception of abduction and the modern one.
 
 Copyright © 2025 by Igor Douven <*igor.douven@paris-sorbonne.fr*>
+
+Open access to the SEP is made possible by a world-wide funding initiative. The Encyclopedia Now Needs Your Support Please Read How You Can Help Keep the Encyclopedia Free
 
 #### Browse
 
@@ -79,6 +89,8 @@ Copyright © 2025 by Igor Douven <*igor.douven@paris-sorbonne.fr*>
 #### Mirror Sites
 
 View this site from another server:
+
+[ USA (Main Site) Philosophy, Stanford University ](https://plato.stanford.edu/)
 
 - Info about mirror sites
 

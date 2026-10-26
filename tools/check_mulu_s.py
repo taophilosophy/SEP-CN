@@ -90,3 +90,9 @@ dup = sorted((p, len(ts)) for p, ts in mulu.items() if len(ts) > 1)
 print('\n[5] mu-lu-s 重复收录路径: %d' % len(dup))
 for p, n in dup[:20]:
     print('    %s x%d' % (p, n))
+
+# 门禁：坏链 / 路径不在 SUMMARY / 标题不一致为硬错误（非零退出）；
+# 覆盖缺口与重复收录为报告项，人工裁决
+hard = len(broken) + len(not_in_summary) + len(diff)
+print('HARD ERRORS: %d' % hard)
+sys.exit(1 if hard else 0)

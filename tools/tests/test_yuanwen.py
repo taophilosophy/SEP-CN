@@ -21,7 +21,23 @@ class TestInline(unittest.TestCase):
     def test_math_entities_decoded(self):
         out = inline_to_md(r'\(\beta &lt; \alpha\)')
         self.assertNotIn('&lt;', out)
-        self.assertIn(r'\(\beta < \alpha\)', out)
+        # 用户 2026-10-27：数学定界符统一为 LaTeX（$…$）
+        self.assertIn('$\\beta < \\alpha$', out)
+
+    def test_note_ref_prefixed_anchor(self):
+        # bell-theorem 的锚是 notes.html#note-8（自带前缀），不得双重化
+        out = inline_to_md('x<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup>', slug='s')
+        self.assertEqual(out, 'x[^note-8]')
+        self.assertNotIn('note-note', out)
+
+    def test_display_math_gap_block(self):
+        # 展示公式 \[…\] 常不带 <p> 标签，块间裸文本须收为 p 块
+        blocks = extract_blocks_raw('<p>text before</p> \\[\\tag{27} x = y\\] <p>after</p>')
+        kinds = [b['type'] for b in blocks]
+        self.assertEqual(kinds.count('p'), 3)
+        ctx = Ctx('t')
+        render_blocks(blocks, ctx)
+        self.assertIn('tag{27}', '\n'.join(ctx.out))
 
     def test_note_ref_and_links(self):
         out = inline_to_md('x<sup>[<a href="notes.html#1">1</a>]</sup>', slug='s')

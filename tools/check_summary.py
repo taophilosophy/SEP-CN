@@ -3,6 +3,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 entries = []  # (title, path, raw_line)
+unparsed = 0
 with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
         s = line.rstrip('\n')
@@ -15,6 +16,7 @@ with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
         mp = re.search(r'\]\(([^)]*)\)', content)
         if not mt or not mp:
             print('UNPARSED LINE %d: %s' % (i, s))
+            unparsed += 1
             continue
         entries.append((mt.group(1), mp.group(1), s))
 
@@ -89,3 +91,8 @@ print('files with frontmatter: %d' % len(fm))
 for p in fm[:10]:
     print('  FM: %s' % p)
 print('files with <=1 nonempty lines: %d' % near_empty)
+
+# 门禁：硬错误非零退出（孤儿文件/近空文件为统计信息，不计入）
+hard = unparsed + len(missing) + len(bad) + len(dups)
+print('HARD ERRORS: %d' % hard)
+sys.exit(1 if hard else 0)

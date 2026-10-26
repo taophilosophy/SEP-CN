@@ -32,7 +32,7 @@ BLOCK_OPEN_RE = re.compile(
 MATH_RE = re.compile(r'(\$\$.*?\$\$|\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 SUP_KEEP_RE = re.compile(r'<(su[bp])>.*?</\1>', re.S | re.I)
 NOTE_REF_RE = re.compile(
-    r'<sup>\s*\[?\s*<a\s+href="notes\.html#(\d+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
+    r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
 SPECIAL_DIV_RE = re.compile(r'pubinfo|preamble|figure|bibliography', re.I)
 SKIP_DIV_RE = re.compile(r'\btoc\b', re.I)
 
@@ -75,6 +75,10 @@ def extract_blocks_raw(html):
         m = BLOCK_OPEN_RE.search(html, i)
         if not m:
             break
+        gap = html[i:m.start()]
+        if gap.strip():
+            # 块间裸文本：SEP 的展示公式 \[…\] 常不带 <p> 标签（演示轮 2 复核发现）
+            blocks.append({'type': 'p', 'attrs': '', 'inner': gap})
         tag = m.group('tag').lower()
         attrs = m.group('attrs') or ''
         if tag == 'div':
@@ -106,7 +110,10 @@ def inline_to_md(html, slug=None):
     if not html:
         return ''
     s = re.sub(r'<!--.*?-->', '', html, flags=re.S)
-    s = NOTE_REF_RE.sub(lambda m: '[^note-%s]' % m.group(1), s)
+    def _noteref(m):
+        ref = re.sub('^note-', '', m.group('ref'))
+        return '[^note-%s]' % ref
+    s = NOTE_REF_RE.sub(_noteref, s)
     # 用户 2026-10-27 指令：禁止 HTML 标签，保持洁净——sub/sup 一律转纯文本记法
     # （下标 _{x}、上标 ^{x}），不再保留 <sub>/<sup> 标签
     s = re.sub(r'<sub>(.*?)</sub>', lambda m: '_{%s}' % m.group(1), s, flags=re.S | re.I)
@@ -125,7 +132,8 @@ def inline_to_md(html, slug=None):
         if href.startswith('#') or href.startswith('index.html#'):
             return text
         if href.startswith('notes.html#'):
-            return '[^note-%s]' % href.split('#')[1].split('&')[0]
+            ref = re.sub('^note-', '', href.split('#')[1].split('&')[0])
+            return '[^note-%s]' % ref
         if re.fullmatch(r'[a-zA-Z0-9][a-zA-Z0-9._-]*\.html', href) and slug:
             base = href[:-5]
             return '[%s](%s.%s.md)' % (text, slug, base)
@@ -145,9 +153,14 @@ def inline_to_md(html, slug=None):
     s = unescape(s)
     s = re.sub(r'[ \t\r\n\f\v]+', ' ', s).strip()
     for idx, val in enumerate(store):
-        # 恢复的数学/sub/sup 内容也要 unescape：源里 \(x &lt; y\) 的实体
-        # 在占位保护期躲过了正文 unescape（演示轮 2 复核发现）
-        s = s.replace('\x00%d\x00' % idx, unescape(val))
+        # 恢复的数学内容：实体解码 + 定界符统一为 LaTeX（$…$ / $$…$$，
+        # 用户 2026-10-27 新增要求）；sub/sup 已在占位前转纯文本
+        v = unescape(val)
+        if v.startswith('\\(') and v.endswith('\\)'):
+            v = '$' + v[2:-2] + '$'
+        elif v.startswith('\\[') and v.endswith('\\]'):
+            v = '$$' + v[2:-2] + '$$'
+        s = s.replace('\x00%d\x00' % idx, v)
     return s
 
 
@@ -199,7 +212,7 @@ def figure_to_md(inner, slug):
         src = im.group(1)
         if not src.startswith(('http', '/', '../')):
             alt = re.search(r'alt="([^"]*)"', im.group(0))
-            out.append('![%s](../../en/%s/%s)' % ((alt.group(1) if alt else ''), slug, src))
+            out.append('![%s](../assets/%s/%s)' % ((alt.group(1) if alt else ''), slug, src))
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
     if fl:
         cap = inline_to_md(fl.group(1), slug)
@@ -381,7 +394,7 @@ def convert_notes(html, slug):
         if b['type'] != 'p':
             continue
         inner = b['inner']
-        nm = re.match(r'\s*<a href="index\.html#note-(\d+)"[^>]*>\s*\d+\.\s*</a>',
+        nm = re.match(r'\s*<a href="index\.html#(?:note-)?([A-Za-z0-9_-]+)"[^>]*>\s*\d*\.?\s*</a>',
                       inner, re.I)
         if nm:
             defs.append('[^note-%s]: %s' % (nm.group(1), inline_to_md(inner[nm.end():], slug)))
@@ -448,6 +461,17 @@ def convert_entry(slug):
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
+    # 图片本地化（用户 2026-10-27 新增要求）：复制进 yuanwen/assets/<slug>/
+    adir = repo_path('yuanwen', 'assets', slug)
+    image_files = []
+    for f in sorted(os.listdir(src_dir)):
+        if not f.endswith('.html'):
+            os.makedirs(adir, exist_ok=True)
+            data = open(os.path.join(src_dir, f), 'rb').read()
+            with open(os.path.join(adir, f), 'wb') as fh:
+                fh.write(data)
+            image_files.append('yuanwen/assets/%s/%s' % (slug, f))
+
     # 补充材料
     supp_files = []
     for f in sorted(os.listdir(src_dir)):
@@ -479,6 +503,7 @@ def convert_entry(slug):
         'cite_markers': cite_markers,
         'cite_defs': cite_defs,
         'supplements': supp_files,
+        'images': image_files,
         'notes': len(note_defs),
     }})
     return {'slug': slug, 'md': 'yuanwen/%s/%s.md' % (letter, slug),

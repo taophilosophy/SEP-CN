@@ -13,6 +13,10 @@ See also the entry on scientific discovery, in particular the section on discove
 
 Most philosophers agree that abduction (in the sense of Inference to the Best Explanation) is a type of inference that is frequently employed, in some form or other, both in everyday and in scientific reasoning. However, the exact form as well as the normative status of abduction are still matters of controversy. This entry contrasts abduction with other types of inference; points at prominent uses of it, both in and outside philosophy; considers various more or less precise statements of it; discusses its normative status; and highlights possible connections between abduction and Bayesian confirmation theory.
 
+<!--pdf include
+
+pdf include-->
+
 ## 1. Abduction: The General Idea
 
 You happen to know that Tim and Harry have recently had a terrible row that ended their friendship. Now someone tells you that she just saw Tim and Harry jogging together. The best explanation for this that you can think of is that they made up. You conclude that they are friends again.

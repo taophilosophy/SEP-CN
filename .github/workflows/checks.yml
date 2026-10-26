@@ -1,0 +1,29 @@
+name: ✅ 仓库一致性检查
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: SUMMARY 结构审计（tools/check_summary.py）
+        run: python tools/check_summary.py
+
+      - name: 分类目录对应性检测（tools/check_mulu_s.py）
+        run: python tools/check_mulu_s.py
+
+      - name: 管线单元测试（tools/tests）
+        run: python -m unittest discover -s tools/tests
+
+# baseline_audit.py 依赖本地 en/ 原始物（gitignore），仅在本地运行，不进 CI。
+# 规则见 rules/05-ci-and-tools.md；变更本工作流须同步该表。

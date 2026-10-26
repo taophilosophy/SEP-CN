@@ -53,15 +53,17 @@
     "MD055": true,
     "MD056": true
   },
-  "globs": ["**/*.md"],
-  // 未跟踪的本地工具脚手架与不入库目录不参与 lint
+  "globs": [
+    "**/*.md",
+    "!en/**",
+    "!yuanwen/**",
+    "!script/**",
+    "!node_modules/**",
+    "!.zcode/**",
+    "!.specify/templates/**"
+  ],
+  // bun.lock 等非内容文件
   "ignoreGlobs": [
-    "node_modules/**",
-    "en/**",
-    "yuanwen/**",
-    "script/**",
-    ".zcode/**",
-    ".specify/templates/**",
     "bun.lock"
   ],
   "overrides": [
