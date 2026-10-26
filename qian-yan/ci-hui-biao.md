@@ -1,229 +1,577 @@
 # 词汇表
 
-|英语|中文|解释|其他|
-|:---:|:---:|:---:|:---:|
-|Abduction|溯因|||
-|general idea|概述|||
-|Peter Abelard|彼得·阿伯拉尔|英语翻译为彼得·阿伯拉尔，法语原词为 Pierre Abelard，即皮埃尔·阿伯拉尔||
-|Abhidharma|阿毘达磨|||
-|Abner of Burgos|布尔戈斯的阿布内尔|||
-|Judah Abrabanel|犹大·莱昂·阿布拉瓦内尔|||
-
-```
-The Account  to 解释/原理/理论. The accounts to 解释/原理/理论.
-
-The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.The Theophrastus to 泰奥弗拉斯特. The Timon of Phlius to 斐利亚修斯的第蒙. The Timon to 第蒙. The Pyrrho to 皮浪.The Philo to  斐洛. The Carneades to 卡涅阿德斯.The Academic Skepticism to 学园怀疑主义.
-
-The William of Champeaux to 尚波的威廉 . The Champeaux to 尚波.The William of Sherwood to 舍伍德的威廉  . The Sherwood to 舍伍德. The William of Auvergne to 奥弗涅的威廉 . The Auvergne to 奥弗涅. The Giordano Bruno  to 乔尔丹诺·布鲁诺.  The Bruno to 布鲁诺. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯. The John Buridan to 让·布里丹. The Buridan to 布里丹. The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆. The Boethius of Dacia to 达西亚的波爱修斯. The Boethius to 波爱修斯.The Walter Burley to 沃尔特·伯利. The Burley to 伯利. The Burleigh to 伯利. The  Roger Bacon to  罗吉尔·培根. The  Bacon to  培根.The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯. The Anicius Manlius Severinus Boethius to 亚尼修·玛理乌斯·塞味利诺·波爱修斯. The Boethius to 波爱修斯.The Peter Abelard to 彼得·阿伯拉尔. The Abelard to 阿伯拉尔. The Abner of Burgos to 布尔戈斯的阿布内尔.
-
-The Henry More to 亨利·莫尔.The More to 莫尔. The Ralp Cudworth to 拉尔夫·库德沃斯. The Cudworth to 库德沃斯. The Shaftesbury Lord to 沙夫茨伯里伯爵. The Anthony Ashley Cooper to 安东尼·阿什利-柯柏. The Platonists to 柏拉图主义.The Cambridge Platonists to 剑桥柏拉图学派. The Benjamin Whichcote to 本杰明·惠科特. The Whichcote to 惠科特.The 3rd Earl of to 第三代.
-
- Tommaso  Campanella to 托马斯·康帕内拉. The  Campanella to 康帕内拉.The The City of the Sun to 太阳城. The Girolamo Cardano to  吉罗拉莫·卡尔达诺. The Cardano to 卡尔达诺.
-
-The Byzantine to 拜占庭.
-
-The Basil Bessarion  to 巴兹尔·贝萨里翁 . The  Bessarion  to 贝萨里翁 .  The Cardinal to 枢机主教.
-
-
-The Ludwig Wittgenstein to 路德维希·维特根斯坦 . The Wittgenstein to 维特根斯坦 . The  logical atomism to 逻辑原子主义. The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . The Alfred Tarski to 阿尔弗莱德·塔尔斯基 . The Tarski to 塔尔斯基 .The truth definitions to 真理定义.The Vienna Circle to 维也纳学派.The Rudolf Carnap to 鲁道夫·卡尔纳普 . The Carnap to  卡尔纳普 . 
-
-The Wisdom to 智慧. The basing relation to 基础关系. 
-
-The Bernard Williams to 伯纳德·威廉姆斯  . The Williams to 威廉姆斯.
-
-The Donald Cary Williams to 唐纳德·卡里·威廉姆斯.
-
-The John Cook Wilson to 约翰·库克·威尔逊. The Wilson to 威尔逊.
-
-The Watsuji Tetsurō to 和辻哲郎 . The Watsuji to 和辻. The Tetsurō to 哲郎 .
-
-
-The Simone Weil to 西蒙娜·薇依  . The Weil to 薇依.
-
-The Hermann Weyl to 赫尔曼·外尔. The Weyl to 外尔.
-
-The William Whewell to 威廉·惠威尔. The Whewell to 惠威尔.
-
-The Well-Being to 福祉.
-
-The boundary to 边界 .
-
-The Weakness of Will to 意志薄弱 . The akrasia to 不自制.The bodily awareness to 身体意识. The  awareness to 意识. 
-
-The vagueness to 模糊性.
-
-The  Joseph Butler to 约瑟夫·巴特勒. The  Butler to 巴特勒.
-
-The Bayes’ Theorem to 贝叶斯定理 .
-
-The Edmund  Burke to 埃德蒙·伯克.  The Burke to 伯克.
-
-The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.The Social Ontology to 社会本体论.The Formal Approaches to 形式化方法. The  Social Procedures to 社会程序 .The Sociobiology to 生物社会学. The Sovereignty to 主权.
-
-The Theoretical Terms to 理论术语. The Thick Ethical Concepts to 厚伦理概念. The thin to 瘦.
-
-The Henry David Thoreau to 亨利·戴维·梭罗, The A Week on the Concord and Merrimack Rivers to 在康科德与梅里马克河上一周. The Walden to 瓦尔登湖. The Faith in a Seed to 种子的信仰. The Wild Fruits to 野果.
-
-The Thought Experiments to 思想实验.
-
-The  Simone de Beauvoir to 西蒙娜·德·波伏娃. The Beauvoir to 波伏娃. The  Jean-Paul Sartre to 让-保罗·萨特. The Sartre  to 萨特. The authenticity to 本真性 . The She Came to Stay to 女宾. The Pyrrhus and Cinéas to 皮瑞斯与辛尼阿斯. The The Ethics of Ambiguity to 模糊性的道德. The America Day by Day to 美国纪行. The The Second Sex to 第二性. The Must We Burn Sade to 要焚毁萨德吗. The The Long March to 长征. The A Very Easy Death to 安详辞世. The All Men are Mortal to 人都是要死的. The Adieux: A Farewell to Sartre to 告别的仪式. The Djamila Boupacha  to贾米拉·布巴夏. The The Coming of Age to 论老年.
-
-The Albert Camus to 阿尔贝·加缪. The  Camus to 加缪.The Nuptials to 婚礼集. The The Myth of Sisyphus to 西西弗神话. The  The Will to Believe to 信念意志. The The Rebel  to 反抗者. The Being and Nothingness to 存在与虚无. The The Stranger to 局外人. The Caligula to 卡利古拉. The  The Just Assassins to 正义者.The The Plague to 鼠疫.The The Fall to 堕落.The  The Brothers Karamazov to 卡拉马佐夫兄弟.The triumph to 胜利.
-
-The Thomas of Erfurt to 埃尔福特的托马斯. 
-
-The Natural Theology to 自然神学. The Natural Religion to 自然宗教.
-
- The binarium famosissimum to 最著名的一对. The most famous pair  to 最著名的一对.
-
-The Substance to 实体. The haecceity to 此性. The bundle theory to 束理论. The body to 身体. The inherence to 内在性.
-
-The square of opposition to 逻辑方阵.
-
-The Charles Leslie Stevenson to 查尔斯·莱斯利·史蒂文森.The Stevenson to 史蒂文森.
-
-The Temporal Parts to 时间部分. The temporal consciousness to 时间意识.
-
-The Territorial Rights to 领土主权. The Territorial Justice to 领地正义.
-
-The Terrorism to 恐怖主义.
-
-The Properties of Terms to 词项属性. The Tense to 时态 .The Aspect to 体态 .
-
-The Max Stirner to 麦克斯·施蒂纳. The Stirner to 施蒂纳.
-
-The Peter Frederick Strawson to 彼得·弗雷德里克·斯特劳森. The Strawson to 斯特劳森.  The The Bounds of Sense to 感觉的界限. The Individuals to 个体.
-
-The Structural Realism to 结构现实主义. The Epistemic Structural Realism to 认识论的结构实在论. The ontic structural realism to 本体的结构实在论.
-
-The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
-
-
-The Sounds to 声音.
-
- The Nicolaus Taurellus to 尼古拉斯·塔雷路斯  . The Taurellus to 塔雷路斯  . 
-
-The Philosophy of Sport to 体育哲学.  The Philosophy of Technology to 技术哲学.The God’s Existence to 上帝存在. The Teleological to 目的论. The Teleological Arguments to 目的论论证. The Teleological Notions to 目的论观念.
-
-The Hans Vaihinger to 汉斯·费英格. The Vaihinger to 费英格.
-
-The value to 价值 . The Incommensurable  to 不可通约性 .The Intrinsic to 内在. The Extrinsic to 外在.The pluralism to 多元主义. The value theory to 价值论.
-
-The Lorenzo Valla to 劳伦佐·瓦拉 . The Valla to 瓦拉 .
-
-The Bernardino Telesio to 贝尔纳迪诺·特勒肖 . The  Telesio to 特勒肖.
-
-The St. Petersburg paradox to 圣彼得堡悖论. The St. Petersburg to 圣彼得堡.
-
-The Sophie de Grouchy to 索菲·德·格鲁希 . The Grouchy  to 格鲁希 .
-
- The Sorites Paradox to 堆垛悖论.The mañana paradox to 明天悖论. The bald to 秃子. The continuum to 连续体. The Sortals to 类别.The vagueness to 模糊性.
-
-The Moral Vegetarianism to 伦理素食主义. The Vegetarianism to 素食主义.
-
-The visual thinking in mathematics to 数学中的视觉思维. The The Epistemology of Visual Thinking in Mathematics to 数学中的视觉思维认识论.
-
-
-The  Wang Yangming to 王阳明. The Great Learning to 大学问.
-
-The  War to 战争.
-
-The Theological Voluntarism to 神学意志主义.
-
-The  Voting to 投票. The Rationality  to 理性. The blame to 责备. The bounded rationality to 有限理性. The Herbert Simon to 司马贺. The Ethics to 道德.The Methods to 方法.
-
-The Juan Luis Vives to 胡安·路易斯·维夫斯 . The Vives to 维夫斯 .
-
-The Jean Bodin to 让·博丹. The Bodin to 博丹. 
-
-The Voltaire to 伏尔泰. The François-Marie d’Arouet to 弗朗索瓦-马里‧阿鲁埃.
-
-The Skepticism to 怀疑论.   The  Pyrrho to 皮浪. The Pyrrhonism to 皮浪主义. The Justification to 证成. The Moral Responsibility to 道德责任. The Content Externalism to 内容外在主义. The Latin America to 拉丁美洲
-
-The Nyāya-Vaiśeṣika to 正理-胜论派. The Nyāya to 正理派. The Vaiśeṣika to 胜论派. The Śrīharṣa to 曷利沙. The Tsongkhapa to 宗喀巴. The Tsongkhapa Losang Drakpa to 宗喀巴·洛桑札巴.The Vasubandhu to 世亲.
-
-The  al-Farabi to 阿里·法拉比. The al-Baghdadi to 巴格达迪.  The ‘Abd al-Latif’ to 阿卜杜勒·拉蒂夫. The Abd al-Latif to 阿卜杜勒·拉蒂夫. The al-Ghazali to 安萨里. The   al-Kindi to 肯迪. The  al-Razi to 拉齐. The Avicenna to 阿维森纳. The Ibn Sina to 伊本·西那. The Al-Fârâbî  to 阿里·法拉比.  The Averroes to 阿威罗伊. The Ibn Rushd to 伊本·鲁世德. The Fakhr al-Din to 法赫尔丁·拉齐. The Isaac Albalag to 以撒·阿尔巴拉格. The Albalag to 阿尔巴拉格. The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社. The Rasâ’il to 《论文集》. The Ḥikmah to 智慧. The Ibn ‘Arabî to  伊本·阿拉比. The Ibn Bâjja to 伊本·巴哲. The Avempace to 伊本·巴哲.
- The Kalām to 伊斯兰教义学. The Falsafa to 哲学. The Farabian to 法拉比. The Ṯābit ibn Qurra to 塔比·伊本·库拉. The Razi to 拉齐. The Greek sources to 希腊文献. The Latin West to 西方拉丁世界. The Averroism to  阿威罗伊主义. The Ibn Kammūna to 伊本·凯姆那. The Ikhwân al-Safâ’ to 精诚兄弟社.The Samuel Ibn Tibbon to 撒母耳·伊本·提本.
-
-The beauty to  美.
-
-The implicit bias to 内隐偏见. 
-
- The  empirical approaches to 经验主义研究.  The empirical  to 经验主义.The Account  to 解释/原理. The accommodation to 解释.  The property to 属性/性质. The  moral  desert to 道德应得. The agency to 行为体. The desert to 应得. The testimony to 证言. The commentators to 评注者. The Schelling to 谢林. 
-
- empirical ——>实证的
- [1]汤茂林,黄展.Empirical Research到底是实证研究还是经验研究？——兼论学术研究的分类[J].地理研究,2020,39(12):2855-2860.
-
-The Underdetermination  to 非充分决定性. The Scientific Theory to 科学理论.The Understanding  to 理解.The universals  to 普遍性. The  problem of universals to 普遍性问题 .
-
-The Types to 类型. The Tokens to 个例. The type theory to 类型论.The Intuitionistic to 直觉主义.The constructive to 建构主义.
-
-The Utilitarianism to 功利主义.
-
-The Francis Bacon to 弗朗西斯·培根. The  Bacon to 培根. The Novum Organum Scientiarum to 新工具. The Nova Atlantis to 新大西岛. The Lord Keeper of the Seal to 掌玺大臣.
-
-The Umar Khayyam to 欧玛尔·海亚姆.The  Khayyam to 海亚姆.
-
-The Luitzen Egbertus Jan Brouwer to 勒伊岑·艾赫贝特斯·扬·布劳威尔. The Brouwer to 布劳威尔.
-
-The Jeremy Bentham to 杰里米·边沁. The Bentham to 边沁.
-
-The behaviorism to 行为主义.
-
-The Henri Bergson to 亨利·柏格森. The Bergson to 柏格森.
-
-The James Burnett to 詹姆斯·伯内特. The Hugh Blair to 休·布莱尔.  The Lord Monboddo to 蒙博多勋爵. The George  Campbell to 乔治·坎贝尔. The Gershom Carmichael to 格肖姆·卡迈克尔. The James Dunbar to 詹姆斯·邓巴. The Adam  Ferguson to 亚当·弗格森. The Alexander  Gerard to 亚历山大·杰拉德. The Henry Home to 亨利·霍姆. The Francis Hutcheson to 弗兰西斯·哈奇森. The James Hutton to 詹姆斯·赫顿. The James Beattie to 詹姆斯·比蒂. The Allan  Ramsay to 艾伦·拉姆齐. The Adam Smith to 亚当·斯密. The Dugald  Stewart to 杜格尔·斯图尔特. The George Turnbull to 乔治·特恩布尔.
-
-The belief merging to 信念合并. The judgment aggregation to 判断聚合. The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现象学方法. The Self-Deception to 自我欺骗. The Self-Defense to 自卫. The Self-Doubt to 自我怀疑. The Self-Knowledge to 自我认识. The Self-Locating Beliefs to 自我定位信念.  The Self-Locating to 自我定位. The Self-Reference to 自我指涉.The Transmission  to 传递. The Justification to 辩护. The Warrant to 担保. The ethics of belief to 信念伦理学.
-
-The Dynamic Semantics to 动态语义. The Semantics to 语义. The Montague to 蒙太古. The Proof-Theoretic to 证明论. The Two-Dimensional to 二维. The inner speech to 内部言语.
-
-The Supervenience to 随附性. The Supervenience in Ethics to 道德随附性.
-
-The Margarete Susman to 玛格丽特·苏斯曼.The Susman  to 苏斯曼.
-
-Herbert Spencer to 赫伯特·斯宾塞. The  Spencer to 斯宾塞.
-
-
-The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
-
-The  biological individuals to 生物学个体. The Sociobiology to 生物社会学.  The biological development to 生物演化. The development to 演化. The Species to 物种.The biomedicine to 生物医学. 
-
-The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力. The Post-Newtonian to 后牛顿.The McTaggart to 麦克塔格特.The Conventionality of Simultaneity to 同时性的约定性. The Simultaneity to 同时性/同时性的. The Conventionality  to 约定性/约定性的.  The Hole Argument to 空穴论证. The  Inertial Frames to 惯性系.  The Singularities to 奇点. The Black Holes to 黑洞. The Supertasks to 超级任务. The  statistical physics to 统计物理学. The Ludwig Boltzmann to 路德维希·玻尔兹曼. The  Boltzmann to 玻尔兹曼.  The Philosophy of Statistical Mechanics to 统计力学哲学.The Time Travel to 时间旅行.The Time Machines to 时间机器. The thermodynamic time asymmetry to 热力学时间非对称性. The Time to 时间. The Experience to 体验. The Perception to 知觉. The Niels Bohr to 尼尔斯·玻尔. The  Bohr to 玻尔. The correspondence principle to 对应原理. The Bell’s Theorem to 贝尔定理.
-
-The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.The George Boole to 乔治·布尔.  The Boole to 布尔. The Alfred North Whitehead to 阿弗烈·诺夫·怀特海. The Whitehead to 怀特海. The Boolean algebra to 逻辑代数.
-
-The Jean Baudrillard to 让·鲍德里亚.  The Baudrillard to 鲍德里亚.The The Mirror of Production to 生产之镜. The System of Objects to 物体系.
-
-The States of Affairs to 事态.
-
-The Alan Turing to 艾伦·图灵. The Turing to 图灵. The Turing test to 图灵测试.The Turing machines to 图灵机.
-
-The Trust to 信任.
-
-The Truth to 真理. The axiomatic to 公理化 The coherence theory to 融贯论. The  correspondence theory to 符合论. The  deflationism to 紧缩论. The identity theory to 同一论. The  pluralist theories to 多元论. The  pragmatic theory to 实用主义. The  revision theory 修正论. The Truthlikeness to 似真性. The  truthmakers to 使真者.The  truth values to 真值.
-
-The agent to 行为体.
-
-The Trinity to 三位一体. 
-
-The Transformative Experience to 变革性体验.
-
-The syllogism to 三段论.
-
-The Transcendental Arguments to 先验论证.The transcendentalism to 超验主义. 
-
-The Paradox of Suspense to 悬疑悖论.
-
-The  Philosophy of Statistics to 统计学哲学 .
-
-The Spinoza to 斯宾诺莎. The George Berkeley to 乔治·贝克莱.  The Berkeley to 贝克莱.  The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
-
-The  Absolute idealism to 新黑格尔主义. The British Idealism to 英国新黑格尔主义. The Bernard Bosanquet to 伯纳德·鲍桑葵. The  Bosanquet to  鲍桑葵.  The Token to 个体. The Francis Herbert Bradley to 弗朗西斯·赫伯特·布拉德雷. The Bradley to 布拉德雷.  The Regress to 倒退.  The Bruno  Bauer to 布鲁诺·鲍威尔. The Bauer to 鲍威尔.
-
-The neo-Kantianism to 新康德主义. The Friedrich Albert Lange to 弗里德里希·阿尔贝特·朗格. The Lange to 朗格. The Paul Natorp to 保罗·那托普. The Natorp to 那托普. The Karl Leonhard Reinhold to 卡尔·莱昂哈德·莱因霍尔德. The Reinhold to 莱因霍尔德. The Wilhelm Windelband to 威廉·文德尔班. The Windelband to 文德尔班. The Ernst Cassirer to  恩斯特·卡西尔. The  Cassirer to 卡西尔. The Hermann Cohen to 赫尔曼·科恩.The Cohen to 科恩.
-
-The Ernst Bloch to 恩斯特·布洛赫. The Bloch to 布洛赫. The Walter Benjamin to 瓦尔特·本雅明. The Benjamin to 本雅明.
-
-The Franz Brentano to 弗朗兹·布伦塔诺. The Brentano to 布伦塔诺.The theory of judgement to 判断理论.
-``` 
+本表收录《斯坦福哲学百科全书》简体中文版的术语、人名与书名译名对照，按英语字母顺序排列；同一英文原文名下有多个通行译法时分行并列。“备注”列记录译法说明与来源。
+
+| 英语 | 中文 | 备注 |
+| :---: | :---: | :---: |
+| 3rd Earl of | 第三代 |  |
+| A Very Easy Death | 安详辞世 |  |
+| A Week on the Concord and Merrimack Rivers | 在康科德与梅里马克河上一周 |  |
+| Abd al-Latif | 阿卜杜勒·拉蒂夫 |  |
+| Abduction | 溯因 |  |
+| Abelard | 阿伯拉尔 |  |
+| Abhidharma | 阿毘达磨 |  |
+| Abner of Burgos | 布尔戈斯的阿布内尔 |  |
+| Absolute idealism | 新黑格尔主义 |  |
+| Academic Skepticism | 学园怀疑主义 |  |
+| accommodation | 解释 |  |
+| Account | 解释/原理 |  |
+| Account | 解释/原理/理论 |  |
+| accounts | 解释/原理/理论 |  |
+| Action at a Distance | 超距作用 |  |
+| Adam Ferguson | 亚当·弗格森 |  |
+| Adam Smith | 亚当·斯密 |  |
+| Adieux: A Farewell | Sartre to 告别的仪式 |  |
+| agency | 行为体 |  |
+| agent | 行为体 |  |
+| akrasia | 不自制 |  |
+| al-Baghdadi | 巴格达迪 |  |
+| al-Farabi | 阿里·法拉比 |  |
+| Al-Fârâbî | 阿里·法拉比 |  |
+| al-Ghazali | 安萨里 |  |
+| al-Kindi | 肯迪 |  |
+| al-Razi | 拉齐 |  |
+| Alan Turing | 艾伦·图灵 |  |
+| Albalag | 阿尔巴拉格 |  |
+| Albert | 阿尔伯特 |  |
+| Albert Camus | 阿尔贝·加缪 |  |
+| Albert of Saxony | 萨克森的阿尔伯特 |  |
+| Albert the Great | 大阿尔伯特 |  |
+| Albertus magnus | 艾尔伯图斯·麦格努斯 |  |
+| Alexander Gerard | 亚历山大·杰拉德 |  |
+| Alexander of Aphrosias | 阿芙罗蒂西亚的亚历山大 |  |
+| Alfred North Whitehead | 阿弗烈·诺夫·怀特海 |  |
+| Alfred Tarski | 阿尔弗莱德·塔尔斯基 |  |
+| All Men are Mortal | 人都是要死的 |  |
+| Allan Ramsay | 艾伦·拉姆齐 |  |
+| Alternative Axiomatic Set Theories | 替代性公理集合论 |  |
+| America Day by Day | 美国纪行 |  |
+| Ammonius | 赫尔米亚的阿莫尼俄斯 |  |
+| Ammonius | 阿莫尼俄斯 |  |
+| Anaxagoras | 阿那克萨哥拉 |  |
+| Anicius Manlius Severinus Boethius | 亚尼修·玛理乌斯·塞味利诺·波爱修斯 |  |
+| Anthony Ashley Cooper | 安东尼·阿什利-柯柏 |  |
+| Arcesilaus | 阿尔凯西劳 |  |
+| Archytas | 阿尔库塔斯 |  |
+| Argument | 悖论 |  |
+| Aspect | 体态 |  |
+| atomism | 原子论 |  |
+| Attributes | 属性 |  |
+| authenticity | 本真性 |  |
+| Auvergne | 奥弗涅 |  |
+| Avempace | 伊本·巴哲 |  |
+| Averroes | 阿威罗伊 |  |
+| Averroism | 阿威罗伊主义 |  |
+| Avicenna | 阿维森纳 |  |
+| awareness | 意识 |  |
+| axiomatic | 公理化 |  |
+| Bacon | 培根 |  |
+| bald | 秃子 |  |
+| Baruch Spinoza | 巴鲁赫·斯宾诺莎 |  |
+| Basil Bessarion | 巴兹尔·贝萨里翁 |  |
+| basing relation | 基础关系 |  |
+| Baudrillard | 鲍德里亚 |  |
+| Bauer | 鲍威尔 |  |
+| Bayes’ Theorem | 贝叶斯定理 |  |
+| beauty | 美 |  |
+| Beauvoir | 波伏娃 |  |
+| behaviorism | 行为主义 |  |
+| Being and Nothingness | 存在与虚无 |  |
+| belief merging | 信念合并 |  |
+| Bell’s Theorem | 贝尔定理 |  |
+| Benjamin | 本雅明 |  |
+| Benjamin Whichcote | 本杰明·惠科特 |  |
+| Bentham | 边沁 |  |
+| Bergson | 柏格森 |  |
+| Berkeley | 贝克莱 |  |
+| Bernard Bosanquet | 伯纳德·鲍桑葵 |  |
+| Bernard Williams | 伯纳德·威廉姆斯 |  |
+| Bernardino Telesio | 贝尔纳迪诺·特勒肖 |  |
+| Bessarion | 贝萨里翁 |  |
+| Big Data | 大数据 |  |
+| binarium famosissimum | 最著名的一对 |  |
+| biological development | 生物演化 |  |
+| biological individuals | 生物学个体 |  |
+| biomedicine | 生物医学 |  |
+| Black Holes | 黑洞 |  |
+| blame | 责备 |  |
+| Bloch | 布洛赫 |  |
+| bodily awareness | 身体意识 |  |
+| Bodin | 博丹 |  |
+| body | 身体 |  |
+| Boethius | 波爱修斯 |  |
+| Boethius of Dacia | 达西亚的波爱修斯 |  |
+| Bohmian | 玻姆 |  |
+| Bohr | 玻尔 |  |
+| Boltzmann | 玻尔兹曼 |  |
+| Boole | 布尔 |  |
+| Boolean algebra | 逻辑代数 |  |
+| Bosanquet | 鲍桑葵 |  |
+| boundary | 边界 |  |
+| bounded rationality | 有限理性 |  |
+| Bounds of Sense | 感觉的界限 |  |
+| Bradley | 布拉德雷 |  |
+| Brentano | 布伦塔诺 |  |
+| British Idealism | 英国新黑格尔主义 |  |
+| Brothers Karamazov | 卡拉马佐夫兄弟 |  |
+| Brouwer | 布劳威尔 |  |
+| Bruno | 布鲁诺 |  |
+| Bruno Bauer | 布鲁诺·鲍威尔 |  |
+| bundle theory | 束理论 |  |
+| Burali-Forti | 布拉利-福尔蒂 |  |
+| Buridan | 布里丹 |  |
+| Burke | 伯克 |  |
+| Burleigh | 伯利 |  |
+| Burley | 伯利 |  |
+| Butler | 巴特勒 |  |
+| Byzantine | 拜占庭 |  |
+| Caligula | 卡利古拉 |  |
+| Callicles | 卡利克勒斯 |  |
+| Cambridge Platonists | 剑桥柏拉图学派 |  |
+| Campanella | 康帕内拉 |  |
+| Camus | 加缪 |  |
+| Cantor | 康托尔 |  |
+| Cardano | 卡尔达诺 |  |
+| Cardinal | 枢机主教 |  |
+| Carl Friedrich Stumpf | 卡尔·弗里德里希·斯图姆夫 |  |
+| Carl Stumpf | 卡尔·斯图姆夫 |  |
+| Carnap | 卡尔纳普 |  |
+| Carneades | 卡涅阿德斯 |  |
+| Cassirer | 卡西尔 |  |
+| Causal Approaches | 因果方法 |  |
+| Champeaux | 尚波 |  |
+| Charles Leslie Stevenson | 查尔斯·莱斯利·史蒂文森 |  |
+| City of the Sun | 太阳城 |  |
+| Cohen | 科恩 |  |
+| coherence theory | 融贯论 |  |
+| Collapse | 坍缩 |  |
+| Collapse Theories | 坍缩理论 |  |
+| Coming of Age | 论老年 |  |
+| Commentators | 评注者 |  |
+| commentators | 评注者 |  |
+| Computing | 计算 |  |
+| Consistent Histories | 一致性历史 |  |
+| Consistent Histories Approach | 一致性历史方法 |  |
+| constructive | 建构主义 |  |
+| Constructive | 构造主义 |  |
+| Content Externalism | 内容外在主义 |  |
+| continuum | 连续体 |  |
+| Continuum Hypothesis | 连续统假设 |  |
+| contractarianism | 自利契约论 |  |
+| contractualism | 非自利契约论 |  |
+| Conventionality | 约定性/约定性的 |  |
+| Conventionality of Simultaneity | 同时性的约定性 |  |
+| Copenhagen Interpretation | 哥本哈根诠释 |  |
+| correspondence principle | 对应原理 |  |
+| correspondence theory | 符合论 |  |
+| Cratylus | 克拉底鲁 |  |
+| Cudworth | 库德沃斯 |  |
+| Decoherence | 退相干 |  |
+| Dedekind | 戴德金 |  |
+| deflationism | 紧缩论 |  |
+| Democritus | 德谟克利特 |  |
+| desert | 应得 |  |
+| Determinacy | 决定性 |  |
+| development | 演化 |  |
+| Diodorus | 狄奥多罗斯 |  |
+| Diodorus Cronus | 卡里亚雅苏斯的狄奥多罗斯 |  |
+| Discovery | 发现 |  |
+| Djamila Boupacha | 贾米拉·布巴夏 |  |
+| Donald Cary Williams | 唐纳德·卡里·威廉姆斯 |  |
+| Dugald Stewart | 杜格尔·斯图尔特 |  |
+| Dynamic Semantics | 动态语义 |  |
+| Edmund Burke | 埃德蒙·伯克 |  |
+| Einstein-Podolsky-Rosen | 爱因斯坦-波多尔斯基-罗森 |  |
+| Elias | 埃利亚斯 |  |
+| empirical | 实证 | 另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。 |
+| empirical | 经验主义 |  |
+| empirical approaches | 经验主义研究 |  |
+| entanglement | 纠缠 |  |
+| Epicurus | 伊壁鸠鲁 |  |
+| Epistemic Structural Realism | 认识论的结构实在论 |  |
+| Epistemology of Visual Thinking in Mathematics | 数学中的视觉思维认识论 |  |
+| Ernst Bloch | 恩斯特·布洛赫 |  |
+| Ernst Cassirer | 恩斯特·卡西尔 |  |
+| Ethics | 道德 |  |
+| Ethics of Ambiguity | 模糊性的道德 |  |
+| ethics of belief | 信念伦理学 |  |
+| Everettian | 埃弗雷特 |  |
+| Experience | 体验 |  |
+| Explanation | 解释 |  |
+| Extrinsic | 外在 |  |
+| Faith in a Seed | 种子的信仰 |  |
+| Fakhr al-Din | 法赫尔丁·拉齐 |  |
+| Fall | 堕落 |  |
+| Falsafa | 哲学 |  |
+| Farabian | 法拉比 |  |
+| Formal Approaches | 形式化方法 |  |
+| Francis Bacon | 弗朗西斯·培根 |  |
+| Francis Herbert Bradley | 弗朗西斯·赫伯特·布拉德雷 |  |
+| Francis Hutcheson | 弗兰西斯·哈奇森 |  |
+| Francisco Suárez | 弗朗西斯科·苏亚雷斯 |  |
+| Franz Brentano | 弗朗兹·布伦塔诺 |  |
+| François-Marie d’Arouet | 弗朗索瓦-马里‧阿鲁埃 |  |
+| Friedrich Albert Lange | 弗里德里希·阿尔贝特·朗格 |  |
+| general idea | 概述 |  |
+| Georg Cantor | 格奥尔格·康托尔 |  |
+| George Berkeley | 乔治·贝克莱 |  |
+| George Boole | 乔治·布尔 |  |
+| George Campbell | 乔治·坎贝尔 |  |
+| George Turnbull | 乔治·特恩布尔 |  |
+| Gershom Carmichael | 格肖姆·卡迈克尔 |  |
+| Giordano Bruno | 乔尔丹诺·布鲁诺 |  |
+| Girolamo Cardano | 吉罗拉莫·卡尔达诺 |  |
+| God’s Existence | 上帝存在 |  |
+| Gravity | 引力 |  |
+| Great Learning | 大学问 |  |
+| Greek sources | 希腊文献 |  |
+| Grouchy | 格鲁希 |  |
+| haecceity | 此性 |  |
+| Hans Vaihinger | 汉斯·费英格 |  |
+| Henri Bergson | 亨利·柏格森 |  |
+| Henry David Thoreau | 亨利·戴维·梭罗, |  |
+| Henry Home | 亨利·霍姆 |  |
+| Henry More | 亨利·莫尔 |  |
+| Herbert Simon | 司马贺 |  |
+| Herbert Spencer | 赫伯特·斯宾塞 |  |
+| Hermann Cohen | 赫尔曼·科恩 |  |
+| Hermann Weyl | 赫尔曼·外尔 |  |
+| Hermeias | 赫尔米亚 |  |
+| Hole Argument | 空穴论证 |  |
+| Hugh Blair | 休·布莱尔 |  |
+| Ibn Bâjja | 伊本·巴哲 |  |
+| Ibn Kammūna | 伊本·凯姆那 |  |
+| Ibn Rushd | 伊本·鲁世德 |  |
+| Ibn Sina | 伊本·西那 |  |
+| Ibn ‘Arabî | 伊本·阿拉比 |  |
+| Identity | 同一性 |  |
+| identity theory | 同一论 |  |
+| Ikhwân al-Safâ’ | 精诚兄弟社 |  |
+| implicit bias | 内隐偏见 |  |
+| Incommensurable | 不可通约性 |  |
+| independence | 独立性 |  |
+| Individuality | 个体性 |  |
+| Individuals | 个体 |  |
+| Inertial Frames | 惯性系 |  |
+| inherence | 内在性 |  |
+| inner speech | 内部言语 |  |
+| Intrinsic | 内在 |  |
+| Intuitionistic | 直觉主义 |  |
+| Isaac Albalag | 以撒·阿尔巴拉格 |  |
+| James Beattie | 詹姆斯·比蒂 |  |
+| James Burnett | 詹姆斯·伯内特 |  |
+| James Dunbar | 詹姆斯·邓巴 |  |
+| James Hutton | 詹姆斯·赫顿 |  |
+| Jean Baudrillard | 让·鲍德里亚 |  |
+| Jean Bodin | 让·博丹 |  |
+| Jean-Paul Sartre | 让-保罗·萨特 |  |
+| Jeremy Bentham | 杰里米·边沁 |  |
+| Johann Christoph Sturm | 约翰内斯·克里斯托夫·施图尔姆 |  |
+| Johann Sturm | 约翰内斯·施图尔姆 |  |
+| John Buridan | 让·布里丹 |  |
+| John Cook Wilson | 约翰·库克·威尔逊 |  |
+| Joseph Butler | 约瑟夫·巴特勒 |  |
+| Juan Luis Vives | 胡安·路易斯·维夫斯 |  |
+| Judah Abrabanel | 犹大·莱昂·阿布拉瓦内尔 |  |
+| judgment aggregation | 判断聚合 |  |
+| Just Assassins | 正义者 |  |
+| Justification | 证成 |  |
+| Justification | 辩护 |  |
+| Kalām | 伊斯兰教义学 |  |
+| Karl Leonhard Reinhold | 卡尔·莱昂哈德·莱因霍尔德 |  |
+| Khayyam | 海亚姆 |  |
+| Kochen-Specker | 科亨-施佩克尔 |  |
+| KS Theorem | KS 定理 |  |
+| Lange | 朗格 |  |
+| Large Cardinals | 大基数 |  |
+| Latin America | 拉丁美洲 |  |
+| Latin West | 西方拉丁世界 |  |
+| Leo Strauss | 列奥·施特劳斯 |  |
+| Leucippus | 留基伯 |  |
+| logical atomism | 逻辑原子主义 |  |
+| Long March | 长征 |  |
+| Lord Keeper of the Seal | 掌玺大臣 |  |
+| Lord Monboddo | 蒙博多勋爵 |  |
+| Lorenzo Valla | 劳伦佐·瓦拉 |  |
+| Ludwig Boltzmann | 路德维希·玻尔兹曼 |  |
+| Ludwig Wittgenstein | 路德维希·维特根斯坦 |  |
+| Luitzen Egbertus Jan Brouwer | 勒伊岑·艾赫贝特斯·扬·布劳威尔 |  |
+| Many-Worlds Interpretation | 多世界诠释 |  |
+| Margarete Susman | 玛格丽特·苏斯曼 |  |
+| Max Stirner | 麦克斯·施蒂纳 |  |
+| mañana paradox | 明天悖论 |  |
+| McTaggart | 麦克塔格特 |  |
+| Methods | 方法 |  |
+| Mind | 心灵 |  |
+| Mirror of Production | 生产之镜 |  |
+| Modal Interpretations | 模态解释 |  |
+| modal metaphysics | 模态形而上学 |  |
+| Montague | 蒙太古 |  |
+| moral desert | 道德应得 |  |
+| Moral Responsibility | 道德责任 |  |
+| Moral Vegetarianism | 伦理素食主义 |  |
+| More | 莫尔 |  |
+| most famous pair | 最著名的一对 |  |
+| Must We Burn Sade | 要焚毁萨德吗 |  |
+| Myth of Sisyphus | 西西弗神话 |  |
+| Myths | 秘所思 |  |
+| Natorp | 那托普 |  |
+| Natural Religion | 自然宗教 |  |
+| Natural Theology | 自然神学 |  |
+| Naturalistic Approaches | 自然主义方法 |  |
+| neo-Kantianism | 新康德主义 |  |
+| Nicolaus Taurellus | 尼古拉斯·塔雷路斯 |  |
+| Niels Bohr | 尼尔斯·玻尔 |  |
+| non-wellfounded | 非良基 |  |
+| Nova Atlantis | 新大西岛 |  |
+| Novum Organum Scientiarum | 新工具 |  |
+| Nuptials | 婚礼集 |  |
+| Nyāya | 正理派 |  |
+| Nyāya-Vaiśeṣika | 正理-胜论派 |  |
+| Objectivity | 客观性 |  |
+| observation | 观察 |  |
+| Olympiodorus | 奥林匹奥多罗斯 |  |
+| ontic structural realism | 本体的结构实在论 |  |
+| Paradox of Suspense | 悬疑悖论 |  |
+| Parmenides | 巴门尼德 |  |
+| Paul Natorp | 保罗·那托普 |  |
+| Perception | 知觉 |  |
+| Peter Abelard | 彼得·阿伯拉尔 | 英语翻译为彼得·阿伯拉尔，法语原词为 Pierre Abelard，即皮埃尔·阿伯拉尔 |
+| Peter Frederick Strawson | 彼得·弗雷德里克·斯特劳森 |  |
+| Phaedo | 斐多篇 |  |
+| Phenomenological Approaches | 现象学方法 |  |
+| Philo | 斐洛 |  |
+| Philoponus | 菲洛劳斯 |  |
+| Philosophy of Sport | 体育哲学 |  |
+| Philosophy of Statistical Mechanics | 统计力学哲学 |  |
+| Philosophy of Statistics | 统计学哲学 |  |
+| Philosophy of Technology | 技术哲学 |  |
+| Plague | 鼠疫 |  |
+| Plato | 柏拉图 |  |
+| Platonism | 柏拉图主义 |  |
+| Platonists | 柏拉图主义 |  |
+| Plotinus | 普罗提诺 |  |
+| pluralism | 多元主义 |  |
+| Pluralism | 多元主义 |  |
+| pluralist theories | 多元论 |  |
+| Plutarch | 普鲁塔克 |  |
+| Porphyry | 波菲利 |  |
+| Post-Newtonian | 后牛顿 |  |
+| pragmatic theory | 实用主义 |  |
+| Pragmatist | 实用主义 |  |
+| problem of universals | 普遍性问题 |  |
+| Progress | 进步 |  |
+| Proof-Theoretic | 证明论 |  |
+| Properties of Terms | 词项属性 |  |
+| property | 属性/性质 |  |
+| Pseudo-Science | 伪科学 |  |
+| Pyrrho | 皮浪 |  |
+| Pyrrhonism | 皮浪主义 |  |
+| Pyrrhus and Cinéas | 皮瑞斯与辛尼阿斯 |  |
+| QFT | 量子场论 |  |
+| Quantum Approaches | 量子研究方法 |  |
+| Quantum Field Theory | 量子场论 |  |
+| Quantum-Bayesian | 量子贝叶斯模型 |  |
+| Ralp Cudworth | 拉尔夫·库德沃斯 |  |
+| Rasâ’il | 《论文集》 |  |
+| Rationality | 理性 |  |
+| Razi | 拉齐 |  |
+| Realism | 实在论 |  |
+| Rebel | 反抗者 |  |
+| Regress | 倒退 |  |
+| Reinhold | 莱因霍尔德 |  |
+| Relational | 关系性 |  |
+| Representation | 表征 |  |
+| Research | 研究 |  |
+| Retrocausality | 逆因果关系 |  |
+| revision theory | 修正论 |  |
+| Revolutions | 革命 |  |
+| Rigor | 严谨性 |  |
+| Roger Bacon | 罗吉尔·培根 |  |
+| Rudolf Carnap | 鲁道夫·卡尔纳普 |  |
+| Samuel | 塞缪尔 |  |
+| Samuel Alexander | 塞缪尔·亚历山大 |  |
+| Samuel Ibn Tibbon | 撒母耳·伊本·提本 |  |
+| Sartre | 萨特 |  |
+| Schelling | 谢林 |  |
+| Science | 科学 |  |
+| scientific knowledge | 科学知识 |  |
+| Scientific Method | 科学方法 |  |
+| Scientific Theory | 科学理论 |  |
+| Second Sex | 第二性 |  |
+| Self-Consciousness | 自我意识 |  |
+| Self-Deception | 自我欺骗 |  |
+| Self-Defense | 自卫 |  |
+| Self-Doubt | 自我怀疑 |  |
+| Self-Knowledge | 自我认识 |  |
+| Self-Locating | 自我定位 |  |
+| Self-Locating Beliefs | 自我定位信念 |  |
+| Self-Reference | 自我指涉 |  |
+| Semantics | 语义 |  |
+| Set Theory | 集合论 |  |
+| Shaftesbury Lord | 沙夫茨伯里伯爵 |  |
+| She Came | Stay to 女宾 |  |
+| Sherwood | 舍伍德 |  |
+| Simone de Beauvoir | 西蒙娜·德·波伏娃 |  |
+| Simone Weil | 西蒙娜·薇依 |  |
+| Simplicius | 辛普利修斯 |  |
+| Simultaneity | 同时性/同时性的 |  |
+| Singularities | 奇点 |  |
+| Skepticism | 怀疑论 |  |
+| social construction | 社会建构 |  |
+| social contract | 社会契约论 |  |
+| Social Dimensions | 社会维度 |  |
+| Social Institutions | 社会制度 |  |
+| social minimum | 社会最低保障 |  |
+| Social Networking | 网络社交 |  |
+| Social Norms | 社会规范 |  |
+| Social Ontology | 社会本体论 |  |
+| Social Procedures | 社会程序 |  |
+| Socialism | 社会主义 |  |
+| Sociobiology | 生物社会学 |  |
+| Sophie de Grouchy | 索菲·德·格鲁希 |  |
+| Sorites Paradox | 堆垛悖论 |  |
+| Sortals | 类别 |  |
+| Soul | 灵魂 |  |
+| Sounds | 声音 |  |
+| Sovereignty | 主权 |  |
+| Species | 物种 |  |
+| Speech Acts | 言语行为 |  |
+| Spencer | 斯宾塞 |  |
+| Speusippus | 斯彪西波 |  |
+| Speusippus of Athens | 雅典的斯彪西波 |  |
+| Spinoza | 斯宾诺莎 |  |
+| square of opposition | 逻辑方阵 |  |
+| St. Petersburg | 圣彼得堡 |  |
+| St. Petersburg paradox | 圣彼得堡悖论 |  |
+| States of Affairs | 事态 |  |
+| statistical physics | 统计物理学 |  |
+| Stevenson | 史蒂文森 |  |
+| Stirner | 施蒂纳 |  |
+| Stoicism | 斯多葛主义 |  |
+| Stranger | 局外人 |  |
+| Strauss | 施特劳斯 |  |
+| Strawson | 斯特劳森 |  |
+| Structural Realism | 结构现实主义 |  |
+| Structure | 结构 |  |
+| Stumpf | 斯图姆夫 |  |
+| Sturm | 施图尔姆 |  |
+| Substance | 实体 |  |
+| Supertasks | 超级任务 |  |
+| Supervenience | 随附性 |  |
+| Supervenience in Ethics | 道德随附性 |  |
+| Susman | 苏斯曼 |  |
+| Suárez | 苏亚雷斯 |  |
+| syllogism | 三段论 |  |
+| Syrianus | 西里阿努斯 |  |
+| System of Objects | 物体系 |  |
+| Tarski | 塔尔斯基 |  |
+| Taurellus | 塔雷路斯 |  |
+| Teleological | 目的论 |  |
+| Teleological Arguments | 目的论论证 |  |
+| Teleological Notions | 目的论观念 |  |
+| Telesio | 特勒肖 |  |
+| temporal consciousness | 时间意识 |  |
+| Temporal Parts | 时间部分 |  |
+| Tense | 时态 |  |
+| Territorial Justice | 领地正义 |  |
+| Territorial Rights | 领土主权 |  |
+| Terrorism | 恐怖主义 |  |
+| testimony | 证言 |  |
+| Tetsurō | 哲郎 |  |
+| Theaetetus | 泰阿泰德 |  |
+| Theological Voluntarism | 神学意志主义 |  |
+| Theological-Political Treatise | 神学政治论 |  |
+| Theophrastus | 泰奥弗拉斯特 |  |
+| Theoretical Terms | 理论术语 |  |
+| Theory | 理论 |  |
+| theory of judgement | 判断理论 |  |
+| thermodynamic time asymmetry | 热力学时间非对称性 |  |
+| Thick Ethical Concepts | 厚伦理概念 |  |
+| thin | 瘦 |  |
+| Thomas of Erfurt | 埃尔福特的托马斯 |  |
+| Thought Experiments | 思想实验 |  |
+| Thrasymachus | 塞拉西马柯 |  |
+| Timaeus | 蒂迈欧 |  |
+| Time | 时间 |  |
+| Time Machines | 时间机器 |  |
+| Time Travel | 时间旅行 |  |
+| Timon | 第蒙 |  |
+| Timon of Phlius | 斐利亚修斯的第蒙 |  |
+| Token | 个体 |  |
+| Tokens | 个例 |  |
+| Tommaso Campanella | 托马斯·康帕内拉 |  |
+| Tractatus Politicus | 政治论 |  |
+| Transcendental Arguments | 先验论证 |  |
+| transcendentalism | 超验主义 |  |
+| Transformative Experience | 变革性体验 |  |
+| Transmission | 传递 |  |
+| Trinity | 三位一体 |  |
+| triumph | 胜利 |  |
+| Trust | 信任 |  |
+| Truth | 真理 |  |
+| truth definitions | 真理定义 |  |
+| truth values | 真值 |  |
+| Truthlikeness | 似真性 |  |
+| truthmakers | 使真者 |  |
+| Tsongkhapa | 宗喀巴 |  |
+| Tsongkhapa Losang Drakpa | 宗喀巴·洛桑札巴 |  |
+| Turing | 图灵 |  |
+| Turing machines | 图灵机 |  |
+| Turing test | 图灵测试 |  |
+| Two-Dimensional | 二维 |  |
+| type theory | 类型论 |  |
+| Types | 类型 |  |
+| Umar Khayyam | 欧玛尔·海亚姆 |  |
+| Underdetermination | 非充分决定性 |  |
+| Understanding | 理解 |  |
+| Unity of Science | 统一科学 |  |
+| universals | 普遍性 |  |
+| Utilitarianism | 功利主义 |  |
+| vagueness | 模糊性 |  |
+| Vaihinger | 费英格 |  |
+| Vaiśeṣika | 胜论派 |  |
+| Valla | 瓦拉 |  |
+| value | 价值 |  |
+| value theory | 价值论 |  |
+| Vasubandhu | 世亲 |  |
+| Vegetarianism | 素食主义 |  |
+| Vienna Circle | 维也纳学派 |  |
+| visual thinking in mathematics | 数学中的视觉思维 |  |
+| Vives | 维夫斯 |  |
+| Voltaire | 伏尔泰 |  |
+| Voting | 投票 |  |
+| Walden | 瓦尔登湖 |  |
+| Walter Benjamin | 瓦尔特·本雅明 |  |
+| Walter Burley | 沃尔特·伯利 |  |
+| Wang Yangming | 王阳明 |  |
+| War | 战争 |  |
+| Warrant | 担保 |  |
+| Watsuji | 和辻 |  |
+| Watsuji Tetsurō | 和辻哲郎 |  |
+| Weakness of Will | 意志薄弱 |  |
+| Weil | 薇依 |  |
+| Well-Being | 福祉 |  |
+| Weyl | 外尔 |  |
+| Whewell | 惠威尔 |  |
+| Whichcote | 惠科特 |  |
+| Whitehead | 怀特海 |  |
+| Wild Fruits | 野果 |  |
+| Wilhelm Windelband | 威廉·文德尔班 |  |
+| Will | Believe to 信念意志 |  |
+| William of Auvergne | 奥弗涅的威廉 |  |
+| William of Champeaux | 尚波的威廉 |  |
+| William of Sherwood | 舍伍德的威廉 |  |
+| William Whewell | 威廉·惠威尔 |  |
+| Williams | 威廉姆斯 |  |
+| Wilson | 威尔逊 |  |
+| Windelband | 文德尔班 |  |
+| Wisdom | 智慧 |  |
+| Wittgenstein | 维特根斯坦 |  |
+| Zeno | 芝诺 |  |
+| Zermelo | 策梅洛 |  |
+| Zermelo-Fraenkel | 策梅洛-弗兰克尔 |  |
+| Śrīharṣa | 曷利沙 |  |
+| Ḥikmah | 智慧 |  |
+| Ṯābit ibn Qurra | 塔比·伊本·库拉 |  |
+| ‘Abd al-Latif’ | 阿卜杜勒·拉蒂夫 |  |
