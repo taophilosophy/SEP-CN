@@ -136,6 +136,7 @@
 | unconditional probabilities | 无条件概率 | 语料回收（bayes-theorem） | 2026-10-27 |
 | universal suspension | 普遍悬置 | 语料回收（arcesilaus） | 2026-10-27 |
 | warrant | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 2026-10-27 |
+| Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 2026-10-27 |
 
 ## 人名（古典人名有千年通行译名者用汉译并首次括注英文；现代学者人名一律保留英文）
 
@@ -155,7 +156,6 @@
 | Plato | 柏拉图 | |
 | Pythagoras | 毕达哥拉斯 | |
 | Theophrastus | 特奥弗拉斯托斯 | |
-| Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 2026-10-27 |
 | Xenophanes | 色诺芬尼 | |
 | Diogenes Laertius | 第欧根尼·拉尔修 | |
 
