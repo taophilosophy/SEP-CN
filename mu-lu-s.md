@@ -427,7 +427,7 @@ outline: [1, 6]
 * [约翰·戈特利布·费希特 Fichte, Johann Gottlieb (Dan Breazeale)](f/yue-han-ge-te-li-bu-fei-xi-te-fichte-johann-gottlieb-dan-breazeale.md)
 * [弗里德里希·威廉·约瑟夫·冯·谢林 Schelling, Friedrich Wilhelm Joseph von (Andrew Bowie)](s/fu-li-de-li-xi-wei-lian-yue-se-fu-feng-xie-lin-schelling-friedrich-wilhelm-joseph-von-andrew-bowie.md)
 * [奥古斯特·威廉·雷贝格 Rehberg, August Wilhelm (Frederick C. Beiser)](r/ao-gu-si-te-wei-lian-lei-bei-ge-rehberg-august-wilhelm-frederick-c.-beiser.md)
-* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni](j/fu-li-de-li-xi-hai-yin-li-xi-ya-ke-bi-jacobi-friedrich-heinrich-paolo-livieri-and-george-di-giovanni.md)
+* [弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni)](j/fu-li-de-li-xi-hai-yin-li-xi-ya-ke-bi-jacobi-friedrich-heinrich-paolo-livieri-and-george-di-giovanni.md)
 * [约翰·格奥尔格·哈曼 Hamann, Johann Georg (Gwen Griffith-Dickson)](h/yue-han-ge-ao-er-ge-ha-man-hamann-johann-georg-gwen-griffithdickson.md)
 * [赫尔曼·洛采 Lotze, Hermann (David Sullivan)](l/he-er-man-luo-cai-lotze-hermann-david-sullivan.md)
 
@@ -481,7 +481,7 @@ outline: [1, 6]
 
 ### 匹兹堡学派（塞拉斯、麦克道威尔、布兰顿）？
 
-* [威尔弗里德·塞拉斯 Sellars, Wilfrid (Willem deVries)](s/wei-er-fu-li-de-sai-la-si-sellars-wilfrid-willem-devries.md)·	
+* [威尔弗里德·塞拉斯 Sellars, Wilfrid (Willem deVries)](s/wei-er-fu-li-de-sai-la-si-sellars-wilfrid-willem-devries.md)
 * [思维语言假说 language of thought hypothesis (Michael Rescorla)](l/si-wei-yu-yan-jia-shuo-language-of-thought-hypothesis-michael-rescorla.md)
 * [逻辑形式 logical form (Paul Pietroski)](l/luo-ji-xing-shi-logical-form-paul-pietroski.md)
 * [自然主义 naturalism (David Papineau)](n/zi-ran-zhu-yi-naturalism-david-papineau/README.md)
@@ -1542,7 +1542,7 @@ outline: [1, 6]
 * [贝尔定理 Bell’s Theorem (Wayne Myrvold, Marco Genovese, and Abner Shimony)](b/bei-er-ding-li-bells-theorem-wayne-myrvold-marco-genovese-and-abner-shimony.md)
 * [玻尔的对应原理 correspondence principle (Alisa Bokulich and Peter Bokulich)](b/ni-er-si-bo-er-bohr-niels/bo-er-de-dui-ying-yuan-li-correspondence-principle-alisa-bokulich-and-peter-bokulich.md)
 * [对称性与对称性破缺 symmetry and symmetry breaking (Katherine Brading, Elena Castellani, and Nicholas Teh)](p/wu-li-xue-physics/dui-cheng-xing-yu-dui-cheng-xing-po-que-symmetry-and-symmetry-breaking-katherine-brading-elena-caste.md)
-* [量子力学 quantum mechanics (Jenann Ismael](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/README.md)
+* [量子力学 quantum mechanics (Jenann Ismael)](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/README.md)
 * [量子力学中的超距作用 action at a distance in (Joseph Berkovitz)](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-in-joseph-berkovitz.md)
 * [玻姆力学 Bohmian mechanics (Sheldon Goldstein)](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/bo-mu-li-xue-bohmian-mechanics-sheldon-goldstein.md)
 * [坍缩理论 collapse theories (Giancarlo Ghirardi and Angelo Bassi)](q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/tan-suo-li-lun-collapse-theories-giancarlo-ghirardi-and-angelo-bassi.md)
