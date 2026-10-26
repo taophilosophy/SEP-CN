@@ -153,3 +153,6 @@ vite.config.ts.timestamp-*
 /yuanwen
 /tools/__pycache__
 *.pyc
+
+# SEP-CN 本地站点（VitePress）生成物
+/public/mathjax/
