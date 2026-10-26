@@ -11,6 +11,7 @@
 | academic freedom | 学术自由 | 语料回收（academic-freedom） | 2026-10-27 |
 | agnosticism | 不可知论 | 语料回收 | 2026-10-27 |
 | altruism | 利他主义 | 语料回收 | 2026-10-27 |
+| ancient philosophy | 古代哲学 | 语料回收 | 2026-10-27 |
 | anomalous monism | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 2026-10-27 |
 | aphanes | 不可知觉的东西 | alcmaeon | 2026-10-26 |
 | atheism | 无神论 | 语料回收 | 2026-10-27 |
@@ -20,11 +21,13 @@
 | Bell theorem | 贝尔定理 | 语料回收（bell-theorem） | 2026-10-27 |
 | Buddhism | 佛教 | 语料回收 | 2026-10-27 |
 | Chancellor | 总务长 | 词汇表复核（源提交 bbeff276） | 2026-10-27 |
+| chinese philosophy | 中国哲学 | 语料回收 | 2026-10-27 |
 | CHSH inequality | CHSH 不等式 | 语料回收（bell-theorem） | 2026-10-27 |
 | classical logic | 经典逻辑 | 语料回收（logic-classical） | 2026-10-27 |
 | cognitivism | 认知主义 | 语料回收 | 2026-10-27 |
 | common cause principle | 共因原则 | 语料回收（bell-theorem） | 2026-10-27 |
 | conditional probabilities | 条件概率 | 语料回收（bayes-theorem） | 2026-10-27 |
+| confirmation theory | 确证理论 | 语料回收（bayes-theorem） | 2026-10-27 |
 | Confucianism | 儒家思想 | 语料回收 | 2026-10-27 |
 | connectionism | 联结主义 | 语料回收 | 2026-10-27 |
 | consequentialism | 后果主义 | 语料回收 | 2026-10-27 |
@@ -78,6 +81,7 @@
 | scepticism | 怀疑论 | 语料回收（arcesilaus） | 2026-10-27 |
 | scientific methodology | 科学方法论 | 语料回收 | 2026-10-27 |
 | scientific realism | 科学实在论 | 语料回收 | 2026-10-27 |
+| scottish philosophy | 苏格兰哲学 | 语料回收 | 2026-10-27 |
 | spacelike separation | 类空间隔 | 语料回收（bell-theorem） | 2026-10-27 |
 | structural realism | 结构实在论（“结构现实主义”是国际关系理论译名，勿混） | 词汇表复核 | 2026-10-27 |
 | structuralism | 结构主义 | 语料回收 | 2026-10-27 |

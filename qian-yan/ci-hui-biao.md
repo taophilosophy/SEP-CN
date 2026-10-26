@@ -54,6 +54,7 @@
 |Anaxagoras|阿那克萨哥拉||
 |Anaximander|阿那克西曼德||
 |Anaximenes|阿那克西美尼||
+|ancient philosophy|古代哲学||
 |Anicius Manlius Severinus Boethius|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
@@ -156,6 +157,7 @@
 |Chancellor|总务长|中世纪教会与大学职衔|
 |Champeaux|尚波||
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
+|chinese philosophy|中国哲学||
 |CHSH inequality|CHSH 不等式|贝尔不等式的 Clauser–Horne–Shimony–Holt 形式|
 |City of the Sun|太阳城||
 |classical logic|经典逻辑|与 non-classical logics 非经典逻辑相对；勿译“古典逻辑”|
@@ -169,6 +171,7 @@
 |common cause principle|共因原则|赖欣巴哈（Reichenbach）提出；《自然辩证法通讯》2017 年用“共因原则”，亦译“共同原因原则”|
 |Computing|计算||
 |conditional probabilities|条件概率||
+|confirmation theory|确证理论|亦译“确认理论”；贝叶斯确证理论见专条|
 |Confucianism|儒家思想||
 |connectionism|联结主义|心灵哲学与认知科学语境|
 |consequentialism|后果主义||
@@ -476,6 +479,7 @@
 |scientific methodology|科学方法论||
 |scientific realism|科学实在论|与结构实在论、经验等价论题相对|
 |Scientific Theory|科学理论||
+|scottish philosophy|苏格兰哲学|启蒙运动语境（哈奇森、亚当·斯密、里德等）|
 |Second Sex|第二性||
 |Self-Consciousness|自我意识||
 |Self-Deception|自我欺骗||
