@@ -1,0 +1,36 @@
+{
+  "slug": "alcmaeon",
+  "kind": "retranslate",
+  "zh_doc": "a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md",
+  "state": "s1_checked",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-26T16:41:20Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "zcode-演示轮1",
+      "at": "2026-10-26T16:53:42Z",
+      "evidence": "全文初译完成（正文+文献照录），见 a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md @ b7b6d4a3"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "zcode-演示轮1",
+      "at": "2026-10-26T16:53:43Z",
+      "evidence": "对照 en/alcmaeon.txt 逐节核销：人名/年代/DK 编号/行号一致；残留英文碎片 grep=0；节号重复渲染缺陷已修；自纠 3 处（others→另一些学者、implicitly→默默、illustrative→打比方）。详见 script/tmp/demo-log.md"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-26T16:41:20Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 18, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "4ec54e0bfbd670359cca829743ccb0f7bf637c492e559f5ca3b1d2e4df330d75"
+  }
+}

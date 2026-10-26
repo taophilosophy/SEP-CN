@@ -2,6 +2,167 @@
   "schema": "sep-cn-baseline/1",
   "entries": [
     {
+      "slug": "abduction",
+      "fetched_at": "2026-10-26T16:37:39Z",
+      "source_url": "https://plato.stanford.edu/entries/abduction/",
+      "title": "Abduction",
+      "authors": [
+        "Douven, Igor"
+      ],
+      "pubinfo": {
+        "first_published": "Mar 9, 2011",
+        "substantive_revision": "Jun 18, 2025"
+      },
+      "in_article_markers": true,
+      "archinfo": {
+        "latest_edition": "Winter 2025",
+        "latest_change_type": "minor correction",
+        "history": [
+          {
+            "edition": "Summer 2025",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2021",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2017",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2016",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2011",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Winter 2025",
+      "files": [
+        {
+          "path": "en/abduction/index.html",
+          "sha256": "f15cabf1118658053a76f5b7813f0638e8acb88c370a1150b3c13283786ff8e6",
+          "bytes": 95709,
+          "kind": "main"
+        },
+        {
+          "path": "en/abduction/peirce.html",
+          "sha256": "2c45b8bf8c0609498f1c8467e31931d92fad703616ab78fbe64e75e46970e070",
+          "bytes": 18416,
+          "kind": "supplement"
+        }
+      ],
+      "missing": []
+    },
+    {
+      "slug": "alcmaeon",
+      "fetched_at": "2026-10-26T16:38:47Z",
+      "source_url": "https://plato.stanford.edu/entries/alcmaeon/",
+      "title": "Alcmaeon",
+      "authors": [
+        "Huffman, Carl"
+      ],
+      "pubinfo": {
+        "first_published": "Apr 10, 2003",
+        "substantive_revision": "Jul 18, 2025"
+      },
+      "in_article_markers": true,
+      "archinfo": {
+        "latest_edition": "Fall 2025",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Summer 2021",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2017",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2013",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2008",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2004",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2003",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Fall 2025",
+      "files": [
+        {
+          "path": "en/alcmaeon/index.html",
+          "sha256": "4ec54e0bfbd670359cca829743ccb0f7bf637c492e559f5ca3b1d2e4df330d75",
+          "bytes": 77982,
+          "kind": "main"
+        }
+      ],
+      "missing": []
+    },
+    {
+      "slug": "arcesilaus",
+      "fetched_at": "2026-10-26T16:39:25Z",
+      "source_url": "https://plato.stanford.edu/entries/arcesilaus/",
+      "title": "Arcesilaus",
+      "authors": [
+        "Brittain, Charles",
+        "Osorio, Peter"
+      ],
+      "pubinfo": {
+        "first_published": "Jan 14, 2005",
+        "substantive_revision": "Feb 13, 2026"
+      },
+      "in_article_markers": true,
+      "archinfo": {
+        "latest_edition": "Spring 2026",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Fall 2021",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2005",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Spring 2026",
+      "files": [
+        {
+          "path": "en/arcesilaus/index.html",
+          "sha256": "9eb471231f0beb2860ec0fa28becb3af96362d47672e4911a2799eaba089d7ee",
+          "bytes": 94766,
+          "kind": "main"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "bayes-theorem",
       "fetched_at": "2026-10-26T16:23:59Z",
       "source_url": "https://plato.stanford.edu/entries/bayes-theorem/",
@@ -474,5 +635,5 @@
       "missing": []
     }
   ],
-  "updated_at": "2026-10-26T16:24:44Z"
+  "updated_at": "2026-10-26T16:39:32Z"
 }
