@@ -38,6 +38,13 @@
       "actor": "zcode-词汇表复核",
       "at": "2026-10-27T05:30:00+08:00",
       "evidence": "标准 v1.0 首次实跑：55 条候选分档裁定（A 档直裁 32、B 档联网核查 5、挂起/驳回 18），经 script/publish_terms.py 定位插入双表 37 条（登记簿+发布表），发布表至 631 行，glossary_lint 全绿"
+    },
+    {
+      "step": "rounds-2-4-2026-10-27",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T06:30:00+08:00",
+      "evidence": "第二轮：候选库深挖发布 23 条（物理主义/直觉主义/经典逻辑/学术自由/贝尔定理裸变体等，c8357dae）；第三轮：academic-freedom 定向取词 5 条（Lernfreiheit/Lehrfreiheit/Libertas philosophandi 等，afc5dd60）；第四轮：manifest 入库 tasks/manifests/（3 件）、extract_terms 补数学记号停用词、度量更新。发布表 594→659 行（三批 65 条），全程 lint/check_all 全绿"
     }
   ],
   "todo": [
