@@ -159,3 +159,21 @@ vite.config.ts.timestamp-*
 
 # SEP 上游同步检查的运行时报告（基线 .github/sep-baseline/ 需提交，报告不入库）
 /.github/sep-sync-report/
+
+# ===== SEP-CN 原始物与垃圾清理（ADR-0003） =====
+# 原始抓取物仅存本地，不入库（宪法 II / FR-014）；版本事实源见 baseline/ 与 .github/sep-baseline/
+/en/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vitepress/cache/
+.vitepress/dist/
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.tmp
+*.bak

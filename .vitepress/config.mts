@@ -127,9 +127,11 @@ const mathjaxConfig = {
   tex: {
     inlineMath: [
       ['\\(', '\\)'],
+      ['$', '$'],
     ],
     displayMath: [
       ['\\[', '\\]'],
+      ['$$', '$$'],
     ],
   },
   svg: { fontCache: 'global' },
@@ -211,6 +213,9 @@ export default defineConfig({
       },
     ],
     server: {
+      host: '0.0.0.0',
+      port: 81,
+      strictPort: true,
       watch: {
         // 本仓库所在盘的 ReadDirectoryChangesW 会报 UNKNOWN 错误，改用轮询监听
         usePolling: true,

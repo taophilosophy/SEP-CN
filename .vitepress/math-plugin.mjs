@@ -1,13 +1,13 @@
 // 数学定界符保护插件（markdown-it）
 //
-// yuanwen/ 英文词条使用 \(…\) 行内公式与 \[…\] 块级公式（tools/yuanwen.py 原样保留）。
-// 若直接交给 markdown 解析，反斜杠与下划线等会被吞掉，因此这里在解析前把公式整体
-// 抽换成 base64 哨兵（markdown 不会碰的纯 ASCII），渲染前再还原成带 v-pre 的
-// <span>/<div>，最后由客户端 MathJax（tex-svg，见 config.mts 的 head）扫描渲染。
-// ``` 围栏代码块内的 \( \[ 不做替换。
+// 站内公式存在两种写法：yuanwen/ 英文词条用 $…$ 行内与 $$…$$ 块级（tools/yuanwen.py
+// 原样保留），已译词条用 \(…\) 行内与 \[…\] 块级。若直接交给 markdown 解析，
+// 反斜杠与下划线等会被吞掉，因此这里在解析前把公式整体抽换成 base64 哨兵
+// （markdown 不会碰的纯 ASCII），渲染前再还原成带 v-pre 的 <span>/<div>，
+// 最后由客户端 MathJax（tex-svg，见 config.mts 的 head）扫描渲染。
+// 围栏代码块与行内代码里的定界符不做替换。
 
-const FENCE_MARKS = ['```', '~~~']
-const SENTINEL_RE = /@@M([IB])([A-Za-z0-9_-]+)@@/
+const SENTINEL_RE = /@@M([IBJ])([A-Za-z0-9_-]+)@@/
 
 function encodeB64(str) {
   return Buffer.from(str, 'utf8').toString('base64url')
@@ -33,31 +33,31 @@ function displayHtml(tex) {
   return `<div v-pre class="math-tex math-display">\\[${escapeHtml(tex)}\\]</div>`
 }
 
-/** 源文进入 markdown 解析前：围栏代码块以外的 \(…\)、\[…\] 抽换为哨兵 */
+/** $/$$ 公式原文连同定界符原样保留，由 MathJax 按 $ 定界符排版 */
+function rawMathHtml(raw) {
+  return `<span v-pre class="math-tex">${escapeHtml(raw)}</span>`
+}
+
+/** 源文进入 markdown 解析前：围栏/行内代码以外的公式抽换为哨兵 */
 function protectMath(src) {
-  const lines = src.split(/\r?\n/)
-  const out = []
-  let fence = null
-  for (const line of lines) {
-    if (fence) {
-      out.push(line)
-      if (line.trim().startsWith(fence)) fence = null
-      continue
-    }
-    const trimmed = line.trim()
-    const mark = FENCE_MARKS.find((m) => trimmed.startsWith(m))
-    if (mark) {
-      fence = mark
-      out.push(line)
-      continue
-    }
-    out.push(
-      line
-        .replace(/\\\[([\s\S]+?)\\\]/g, (_, tex) => `\n\n@@MB${encodeB64(tex)}@@\n\n`)
-        .replace(/\\\(([\s\S]+?)\\\)/g, (_, tex) => `@@MI${encodeB64(tex)}@@`),
-    )
-  }
-  return out.join('\n')
+  const re =
+    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|\$\$([\s\S]+?)\$\$|\$([^$\n]+?)\$/g
+  return src.replace(
+    re,
+    (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTex) => {
+      if (fenceClosed || fenceOpen) return all // 围栏代码块原样保留
+      if (all.startsWith('`')) return all // 行内代码原样保留
+      if (blockTex !== undefined) return `\n\n@@MB${encodeB64(blockTex)}@@\n\n`
+      if (inlineTex !== undefined) return `@@MI${encodeB64(inlineTex)}@@`
+      if (ddTex !== undefined) return `@@MJ${encodeB64(`$$${ddTex}$$`)}@@`
+      if (dTex !== undefined) {
+        // 单 $ 防误伤：内容首尾空白或首字符为数字（如 "$5 and"）不视为公式
+        if (/^\s|\s$|^\d/.test(dTex)) return all
+        return `@@MJ${encodeB64(`$${dTex}$`)}@@`
+      }
+      return all
+    },
+  )
 }
 
 /** 渲染前把哨兵还原为最终 HTML */
@@ -83,11 +83,13 @@ function restoreMath(state) {
           while ((m = SENTINEL_RE.exec(rest))) {
             if (m.index > 0) children.push(textToken(state, rest.slice(0, m.index)))
             const tex = decodeB64(m[2])
-            children.push(
+            const html =
               m[1] === 'I'
-                ? htmlToken(state, inlineHtml(tex))
-                : htmlToken(state, `<span v-pre class="math-tex">\\[${escapeHtml(tex)}\\]</span>`),
-            )
+                ? inlineHtml(tex)
+                : m[1] === 'J'
+                  ? rawMathHtml(tex)
+                  : `<span v-pre class="math-tex">\\[${escapeHtml(tex)}\\]</span>`
+            children.push(htmlToken(state, html))
             rest = rest.slice(m.index + m[0].length)
           }
           if (rest) children.push(textToken(state, rest))
