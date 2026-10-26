@@ -15,7 +15,7 @@
 | ---- | ---- | ---- |
 | `slug` | string | SEP 词条标识，同文件名 |
 | `kind` | string | `retranslate`（重译）或 `update`（上游更新） |
-| `zh_doc` | string | 中文文档路径，如 `a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md` |
+| `zh_doc` | string | 中文文档路径，如 `a/alcmaeon.md` |
 | `state` | string | 状态机当前节点（见下） |
 | `steps` | array | 每步一条：`step` / `status` / `actor` / `at`（ISO 8601）/ `evidence` |
 | `blockers` | array | 阻塞说明；blocked 状态独立于 state |

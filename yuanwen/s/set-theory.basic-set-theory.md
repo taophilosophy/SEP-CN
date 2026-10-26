@@ -38,7 +38,7 @@ Entry Navigation
 - [Author and Citation Info ](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=set-theory)
 - Back to Top
 
-#### Supplement to [Set Theory](set-theory.index.md)
+#### Supplement to Set Theory
 
 ## Basic Set Theory
 

@@ -12,7 +12,12 @@ import json
 import os
 import sys
 import tempfile
+import threading
 from datetime import datetime, timezone
+
+# baseline/entries.json 的读改写全程互斥（并发抓取多线程共用一把锁；
+# 锁须横跨 读→改→写 整体，单函数内部分段加锁不构成原子性）
+BASELINE_LOCK = threading.Lock()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 

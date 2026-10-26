@@ -206,9 +206,23 @@ export default defineConfig({
   vite: {
     plugins: [
       {
-        name: 'sep-debug-root',
-        configResolved(c: any) {
-          console.log('[debug] vite root =', c.root, '| publicDir =', c.publicDir)
+        name: 'sep-readme-index-fallback',
+        // VitePress 2.0 alpha 的 dev 端只按 /index.md 解析页面，
+        // 本仓库沿用 GitBook 的 README.md 作为首页/目录首页（build 端能正确映射）。
+        // 这里把 dev 请求里的 index.md 改写为 README.md（存在时），保持两端一致。
+        configureServer(server) {
+          server.middlewares.use((req, _res, next) => {
+            if (req.url) {
+              const [pathname, query] = req.url.split('?')
+              if (/(^|\/)index\.md$/.test(pathname)) {
+                const candidate = decodeURI(pathname).replace(/index\.md$/, 'README.md')
+                if (!candidate.includes('..') && fs.existsSync(path.join(repoRoot, candidate))) {
+                  req.url = candidate + (query ? '?' + query : '')
+                }
+              }
+            }
+            next()
+          })
         },
       },
     ],

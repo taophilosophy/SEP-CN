@@ -45,6 +45,18 @@ def english_of(link_text):
 def build_plan():
     upstream = load_json(repo_path('baseline', 'catalog.json'))['items']
     lines = read_text(repo_path('SUMMARY.md')).split('\n')
+    # 性能优化：find_zh_doc 每次全量读 431KB SUMMARY，必须整轮缓存（O(n²)→O(n)）
+    zh_cache = {}
+    for it in upstream:
+        if not it['alias_of']:
+            zh_cache[it['slug']] = find_zh_doc(it['slug'], it['title'])
+    readme_parent = {}
+    for it in upstream:
+        if it['alias_of']:
+            continue
+        zh2 = zh_cache.get(it['slug'])
+        if zh2 and zh2.endswith('README.md'):
+            readme_parent[zh2.split('/')[0] + '/'] = it['slug']
 
     # 上游 slug 索引：规范标题 → slug（供集群子词条匹配）
     by_title = {}
@@ -58,26 +70,28 @@ def build_plan():
     for it in upstream:
         if it['alias_of']:
             continue
-        zh = find_zh_doc(it['slug'], it['title'])
+        zh = zh_cache.get(it['slug'])
         if not zh:
             continue
         slug = it['slug']
         parts = zh.split('/')
         base = parts[-1]
-        if len(parts) == 2 and base == 'README.md':
-            # 集群父词条：整目录改名
-            old_dir = parts[0]
+        dir_seg = parts[-2] if len(parts) > 2 else ''
+        if base == 'README.md':
+            # 集群父词条：整目录改名（目录可能在根或字母目录下）
+            old_dir = parts[-2]
             new_dir = slug_file(slug)
             if old_dir != new_dir:
                 dir_map[old_dir + '/'] = new_dir + '/'
-                file_map[zh] = new_dir + '/README.md'
-        elif len(parts) == 2:
+                file_map[zh] = (parts[0] + '/' if len(parts) > 2 else '') + new_dir + '/README.md'
+        elif dir_seg == slug[0] or dir_seg == '':
+            # 顶层文件：letter/pinyin.md → letter/<slug>.md
             new = '%s/%s.md' % (slug[0], slug_file(slug))
             if new != zh:
                 file_map[zh] = new
         else:
-            # 集群子词条：dir/pinyin.md → 父slug目录/子slug.md
-            old_dir = parts[0]
+            # 集群子词条：目录/拼音.md → 父slug目录/子slug.md
+            old_dir = dir_seg
             en = None
             for line in lines:
                 if zh in line:
@@ -86,24 +100,8 @@ def build_plan():
                         en = english_of(tm.group(1))
                     break
             sub = by_title.get(norm(en or ''))
-            if old_dir not in dir_map and slug.startswith(old_dir[:4]) is False:
-                pass
-            # 父目录名（父词条 slug 已在 dir_map 或按子 slug 前缀推断）
-            parent = None
-            for cand in upstream:
-                if cand['slug'] != slug and norm(en or '') and cand['slug'] and \
-                        slug.startswith(cand['slug'] + '-') is False:
-                    pass
-            # 简化：父目录新名 = 子 slug 去掉已知父前缀不现实，改用父词条查找：
-            # 目录中 README 所在父词条 = 该目录下 zh_doc 以 README 结尾的上游条目
-            parent_slug = None
-            for cand in upstream:
-                if cand['alias_of']:
-                    continue
-                zh2 = find_zh_doc(cand['slug'], cand['title'])
-                if zh2 and zh2.startswith(old_dir + '/') and zh2.endswith('README.md'):
-                    parent_slug = cand['slug']
-                    break
+            # 父目录名：目录下 README 所在父词条（预计算索引，O(1)）
+            parent_slug = readme_parent.get(old_dir + '/')
             if parent_slug is None:
                 unmatched_children.append(zh)
                 continue
@@ -133,17 +131,32 @@ def apply_renames(file_map, dir_map):
         if os.path.exists(od) and not os.path.exists(nd):
             os.rename(od, nd)
     n_files = 0
+    misses = []
     for old, new in sorted(file_map.items(), key=lambda x: -len(x[0])):
-        # 旧路径中的旧目录段换成新目录段
-        cur = old
-        for old_d, new_d in dir_map.items():
-            if cur.startswith(old_d):
-                cur = new_d + cur[len(old_d):]
+        # 可续跑：文件可能已在旧位、新位，或上次中断时的字母/slug 位置
+        of = nf = None
+        for cand in (old, new, '%s/%s.md' % (new.split('/')[0], new.split('/')[1])):
+            if os.path.exists(repo_path(cand)):
+                of = cand
                 break
-        of, nf = repo_path(cur), repo_path(new)
-        if os.path.exists(of) and not os.path.exists(nf):
-            os.rename(of, nf)
+        if of is None:
+            misses.append(old)
+            continue
+        if of == new:
             n_files += 1
+            continue
+        try:
+            os.rename(repo_path(of), repo_path(new))
+            n_files += 1
+        except FileNotFoundError:
+            # 并发写入者可能刚移走该文件——重定位一次，仍无则视为已完成
+            if os.path.exists(repo_path(new)):
+                n_files += 1
+            else:
+                misses.append(old)
+    if misses:
+        print(json.dumps({'rename_misses': misses[:10], 'miss_count': len(misses)},
+                         ensure_ascii=False))
     return n_files
 
 

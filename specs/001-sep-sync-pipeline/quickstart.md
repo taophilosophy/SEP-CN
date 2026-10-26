@@ -38,7 +38,7 @@ python tools/detect_updates.py --archinfo --only kant-transcendental
 # 用存档旧版对在线新版做真实 diff（anaxagoras: winter2019 存档 vs 在线版差异巨大，效果直观）
 python tools/compare_versions.py anaxagoras --old archives/winter2019 --new live
 # 期望: items 为段落级变更清单，每条含 section（英文节号）与 excerpt_en；
-#       zh_doc 指向 a/a-na-ke-sa-ge-la-anaxagoras-patricia-curd.md
+#       zh_doc 指向 a/anaxagoras.md
 ```
 
 ## 场景 4：文档任务与三审三校（对应 SC-004）

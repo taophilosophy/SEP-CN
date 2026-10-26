@@ -41,17 +41,17 @@
 | 文件路径 | SUMMARY.md 写法 | mu-lu-s.md 写法 | 建议 |
 | --- | --- | --- | --- |
 | `a/a-si-ka-long-de-an-ti-ku-s-antiochus-of-ascalon-james-allen.md` | 阿斯卡隆的安提库斯（"库斯"后多一空格） | 阿斯卡隆的安提库斯 | 删除多余空格（以 SUMMARY 为准，CI 会同步） |
-| `d/can-ji-disability/pi-pan-de-can-ji-li-lun-critical-disability-theory-melinda-c.-hall.md` | 批判的残疾理论 | 批判性残疾理论 | 统一为文件 H1"批判的残疾理论" |
+| `d/disability/pi-pan-de-can-ji-li-lun-critical-disability-theory-melinda-c.-hall.md` | 批判的残疾理论 | 批判性残疾理论 | 统一为文件 H1"批判的残疾理论" |
 | `f/wei-lai-ou-ran-shi-jian-.../zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md` | 中世纪的未来偶然性理论 | 中世纪的未来偶然事件理论 | 统一（官方为 medieval theories of future contingents，建议"未来偶然命题/事件"择一并全书统一） |
-| `i/xian-tian-hou-tian-de-qu-fen-innateacquired-distinction-paul-griffiths-and-stefan-linquist.md` | 遗传性特征与获得性特征的区别 | 先天/后天的区分 | 两写法均未精确对应官方 The Distinction Between Innate and Acquired Characteristics；建议统一为"先天性特征与后天获得性特征的区别"（innate≠hereditary，"遗传性"易生歧义） |
+| `i/innate-acquired.md` | 遗传性特征与获得性特征的区别 | 先天/后天的区分 | 两写法均未精确对应官方 The Distinction Between Innate and Acquired Characteristics；建议统一为"先天性特征与后天获得性特征的区别"（innate≠hereditary，"遗传性"易生歧义） |
 
 ### 2.3 mu-lu-s.md 重复收录（5 处）
 
 | 路径 | 重复位置 | 处理 |
 | --- | --- | --- |
-| `s/fu-li-de-li-xi-shi-lai-ge-er-schlegel-friedrich-allen-speight.md` | 德国浪漫主义分类内 L369 与 L373 逐字符重复 | 删一条 |
-| `d/can-ji-disability/pi-pan-de-can-ji-li-lun-...md` | 社会正义分类内 L2149 与 L2156 重复（两处译名还不同） | 删一条，并按 2.2 统一译名 |
-| `s/she-hui-zui-di-bao-zhang-social-minimum-basic-income-stuart-white.md` | mu-lu-s.md:2155 与 2158 连续重复 | 删一条 |
+| `s/schlegel.md` | 德国浪漫主义分类内 L369 与 L373 逐字符重复 | 删一条 |
+| `d/disability/pi-pan-de-can-ji-li-lun-...md` | 社会正义分类内 L2149 与 L2156 重复（两处译名还不同） | 删一条，并按 2.2 统一译名 |
+| `s/social-minimum.md` | mu-lu-s.md:2155 与 2158 连续重复 | 删一条 |
 | `f/wei-lai-ou-ran-shi-jian-.../README.md` | 非经典逻辑分类内 L865 与 L873 重复，且两个中文标题不同（未来偶然性/未来偶然事件） | 删一条并统一译名 |
 | `i/xian-tian-hou-tian-de-qu-fen-...md` | 康德哲学（L403）与生命科学哲学（L1677）跨分类双重收录 | 择一保留（建议生命科学哲学） |
 

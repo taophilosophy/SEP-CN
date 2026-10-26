@@ -38,7 +38,7 @@ Entry Navigation
 - [Author and Citation Info ](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=abduction)
 - Back to Top
 
-#### Supplement to [Abduction](abduction.index.md)
+#### Supplement to Abduction
 
 ## Peirce on Abduction
 

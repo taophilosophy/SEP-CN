@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-26T20:28:48Z",
+  "dirs": 161,
+  "files": 6,
+  "links_changed": [
+    "SUMMARY.md",
+    "jian-yi-shu.md",
+    "mu-lu-s.md",
+    "specs/001-sep-sync-pipeline/quickstart.md",
+    "tasks/README.md"
+  ],
+  "baseline_updated": 7,
+  "verify_errors": [
+    "SUMMARY.md:24 -> a/abduction.md",
+    "SUMMARY.md:25 -> a/abelard.md",
+    "SUMMARY.md:26 -> a/abhidharma.md",
+    "SUMMARY.md:27 -> a/abilities.md",
+    "SUMMARY.md:28 -> a/abner-burgos.md",
+    "SUMMARY.md:29 -> a/abrabanel.md",
+    "SUMMARY.md:30 -> a/abstract-objects.md",
+    "SUMMARY.md:31 -> a/ou-ran-shu-xing-jian-ben-zhi-shu-xing-yu-ou-ran-shu-xing-accidental-properties-see-essential-vs.-acc.md",
+    "SUMMARY.md:32 -> l/logic-free.md",
+    "SUMMARY.md:33 -> a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/README.md",
+    "SUMMARY.md:34 -> a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/gong-tong-jian-neng-dong-xing-gong-xiang-neng-dong-xing-joint-see-agency-shared.md",
+    "SUMMARY.md:35 -> a/hang-dong-action-juan-s.-pieros-glasscock-and-sergio-tenenbaum/luo-ji-jian-luo-ji-xue-hang-dong-de-luo-ji-logic-of-see-logic-action.md",
+    "SUMMARY.md:36 -> a/action-perception.md",
+    "SUMMARY.md:37 -> a/chao-ju-zuo-yong-jian-liang-zi-li-xue-liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-s.md",
+    "SUMMARY.md:38 -> a/xian-shi-zhu-yi-yu-ke-neng-xing-zhu-yi-bian-lun-actualism-see-possibilismactualism-debate.md",
+    "SUMMARY.md:39 -> a/actualism-possibilism-ethics.md",
+    "SUMMARY.md:40 -> a/adaptationism.md",
+    "SUMMARY.md:41 -> a/addams-jane.md",
+    "SUMMARY.md:42 -> a/adorno.md",
+    "SUMMARY.md:43 -> a/advance-directives.md"
+  ]
+}

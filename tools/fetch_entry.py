@@ -29,13 +29,13 @@ ARCHINFO = BASE + "/cgi-bin/encyclopedia/archinfo.cgi?entry=%s"
 ENTRY_URL = BASE + "/entries/%s/"
 
 
-def fetch_one(slug, delay, force):
+def fetch_one(slug, delay, force, pacer=None):
     rec = {"slug": slug, "fetched_at": utcnow_iso(), "source_url": ENTRY_URL % slug}
     edir = repo_path("en", slug)
     os.makedirs(edir, exist_ok=True)
     files, missing = [], []
 
-    status, data = fetch.get(ENTRY_URL % slug, delay=delay)
+    status, data = fetch.get(ENTRY_URL % slug, delay=delay, pacer=pacer)
     if status != 200:
         return {"slug": slug, "error": "index.html HTTP %s" % status}
     idx_path = os.path.join(edir, "index.html")
@@ -64,7 +64,7 @@ def fetch_one(slug, delay, force):
 
     # 脚注：正文有引用才抓（spec：404 为显式缺省件）
     if entry["notes_refs"]:
-        st, notes = fetch.get(ENTRY_URL % slug + "notes.html", delay=delay)
+        st, notes = fetch.get(ENTRY_URL % slug + "notes.html", delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save("notes.html", notes), kind="notes"))
         else:
@@ -72,7 +72,7 @@ def fetch_one(slug, delay, force):
 
     # 补充材料：正文相对链接
     for supp in entry["supplements"]:
-        st, body = fetch.get(ENTRY_URL % slug + supp, delay=delay)
+        st, body = fetch.get(ENTRY_URL % slug + supp, delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save(supp, body), kind="supplement"))
         else:
@@ -84,14 +84,14 @@ def fetch_one(slug, delay, force):
         rel = src.split("?")[0]
         if rel.startswith(("../", "http:", "https:", "/")):
             continue
-        st, body = fetch.get(ENTRY_URL % slug + rel, delay=delay)
+        st, body = fetch.get(ENTRY_URL % slug + rel, delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save(rel, body), kind="image"))
         else:
             missing.append({"expected": rel, "http_status": st})
 
     # archinfo：权威版本核对（FR-003/008）
-    st, ai = fetch.get(ARCHINFO % slug, delay=delay)
+    st, ai = fetch.get(ARCHINFO % slug, delay=delay, pacer=pacer)
     rec["archinfo"] = parser.parse_archinfo(ai.decode("utf-8", "replace")) if st == 200 else {
         "error": "HTTP %s" % st}
     rec["archive_edition"] = rec["archinfo"].get("latest_edition")
@@ -102,17 +102,19 @@ def fetch_one(slug, delay, force):
 
 
 def upsert_baseline(rec):
+    from tools.common import BASELINE_LOCK
     path = repo_path("baseline", "entries.json")
-    if os.path.exists(path):
-        base = load_json(path)
-    else:
-        base = {"schema": "sep-cn-baseline/1", "entries": []}
-    entries = [e for e in base["entries"] if e["slug"] != rec["slug"]]
-    entries.append(rec)
-    entries.sort(key=lambda e: e["slug"])
-    base["entries"] = entries
-    base["updated_at"] = utcnow_iso()
-    write_json_verified(path, base)
+    with BASELINE_LOCK:
+        if os.path.exists(path):
+            base = load_json(path)
+        else:
+            base = {"schema": "sep-cn-baseline/1", "entries": []}
+        entries = [e for e in base["entries"] if e["slug"] != rec["slug"]]
+        entries.append(rec)
+        entries.sort(key=lambda e: e["slug"])
+        base["entries"] = entries
+        base["updated_at"] = utcnow_iso()
+        write_json_verified(path, base)
 
 
 def main(argv=None):

@@ -5,7 +5,8 @@
 - 结构镜像中文仓库：字母目录 + yuanwen/SUMMARY.md（--summary 生成，已转换条目改链 yuanwen 路径）
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
 - 补充材料：en/<slug>/<x>.html → yuanwen/<字母>/<slug>.<x>.md，正文内相对互链
-- 图片：![](../../en/<slug>/imageN.jpg) 相对引用本地原始抓取物，不复制不外链
+- 图片：本地化为 yuanwen/assets/<slug>/（用户 2026-10-27 裁定复制而非外链），
+  正文 ![](../assets/<slug>/<文件名>) 相对引用
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
   数学定界符、DK 编号、古代作品行号原样保留；<sub>/<sup> 标签保留（工作底稿不受
   发布体例"禁止 HTML"约束，登记 demo-log）
@@ -129,7 +130,7 @@ def inline_to_md(html, slug=None):
     def _link(m):
         href = (m.group('href') or '').strip()
         text = m.group('t')
-        if href.startswith('#') or href.startswith('index.html#'):
+        if href.startswith('#') or href == 'index.html' or href.startswith('index.html#'):
             return text
         if href.startswith('notes.html#'):
             ref = re.sub('^note-', '', href.split('#')[1].split('&')[0])
@@ -417,14 +418,16 @@ def convert_supplement(html, slug, base):
 # --------------------------------------------------------------- convert ----
 
 def update_baseline(slug, patch):
+    from tools.common import BASELINE_LOCK
     path = repo_path('baseline', 'entries.json')
-    base = load_json(path)
-    for rec in base['entries']:
-        if rec['slug'] == slug:
-            rec.update(patch)
-            break
-    base['updated_at'] = utcnow_iso()
-    write_json_verified(path, base)
+    with BASELINE_LOCK:
+        base = load_json(path)
+        for rec in base['entries']:
+            if rec['slug'] == slug:
+                rec.update(patch)
+                break
+        base['updated_at'] = utcnow_iso()
+        write_json_verified(path, base)
 
 
 def convert_entry(slug):
