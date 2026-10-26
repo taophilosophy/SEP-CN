@@ -1,8 +1,7 @@
 {
 	"MD001": true,
 	"MD003": true,
-	"MD004": true,
-	{
+	"MD004": {
 		"style": "asterisk"
 	},
 	"MD005": true,
@@ -10,7 +9,7 @@
 	"MD009": true,
 	"MD010": false,
 	"MD011": false,	
-	"MD012": true,
+	"MD012": false,
 	"MD013": false,
 	"MD014": false,
 	"MD018": true,
@@ -23,10 +22,12 @@
 		"siblings_only": "true"
 	},
 	"MD025": true,
-	"MD026": true,
+	"MD026": {
+		"punctuation": ".,;:"
+	},
 	"MD027": true,
 	"MD028": false,
-	"MD029": true,
+	"MD029": false,
 	"MD030": true,
 	"MD031": true,
 	"MD032": true,
