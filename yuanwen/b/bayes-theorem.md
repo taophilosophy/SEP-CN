@@ -1,19 +1,19 @@
-# Bayes&rsquo; Theorem
+# Bayes’ Theorem
 **First published Sat Jun 28, 2003; substantive revision Tue Sep 30, 2003**
 
 *Joyce, James*
 
-Bayes' Theorem is a simple mathematical formula used for calculating conditional probabilities. It figures prominently in *subjectivist* or *Bayesian* approaches to epistemology, statistics, and inductive logic. Subjectivists, who maintain that rational belief is governed by the laws of probability, lean heavily on conditional probabilities in their theories of evidence and their models of empirical learning. Bayes' Theorem is central to these enterprises both because it simplifies the calculation of conditional probabilities and because it clarifies significant features of subjectivist position. Indeed, the Theorem's central insight &mdash; that a hypothesis is confirmed by any body of data that its truth renders probable &mdash; is the cornerstone of all subjectivist methodology.
+Bayes' Theorem is a simple mathematical formula used for calculating conditional probabilities. It figures prominently in *subjectivist* or *Bayesian* approaches to epistemology, statistics, and inductive logic. Subjectivists, who maintain that rational belief is governed by the laws of probability, lean heavily on conditional probabilities in their theories of evidence and their models of empirical learning. Bayes' Theorem is central to these enterprises both because it simplifies the calculation of conditional probabilities and because it clarifies significant features of subjectivist position. Indeed, the Theorem's central insight — that a hypothesis is confirmed by any body of data that its truth renders probable — is the cornerstone of all subjectivist methodology.
 
 ## 1. Conditional Probabilities and Bayes' Theorem
 
 The probability of a hypothesis *H* conditional on a given body of data *E* is the ratio of the unconditional probability of the conjunction of the hypothesis with the data to the unconditional probability of the data alone.
 
-> | **(1.1)**&nbsp; | **Definition**. |
+> | **(1.1)** | **Definition**. |
 > | --- | --- |
-> |   | The probability of *H* conditional on *E* is defined as **P***_{E}*(*H*) = **P**(*H* &amp; *E*)**/P**(*E*), provided that both terms of this ratio exist and **P**(*E*) &gt; 0.[^note-1] |
+> |   | The probability of *H* conditional on *E* is defined as **P***_{E}*(*H*) = **P**(*H* & *E*)**/P**(*E*), provided that both terms of this ratio exist and **P**(*E*) > 0.[^note-1] |
 
-To illustrate, suppose J. Doe is a randomly chosen American who was alive on January 1, 2000. According to the United States Center for Disease Control, roughly 2.4 million of the 275 million Americans alive on that date died during the 2000 calendar year. Among the approximately 16.6 million senior citizens (age 75 or greater) about 1.36 million died. The unconditional probability of the hypothesis that our J. Doe died during 2000, *H*, is just the population-wide mortality rate **P**(*H*) = 2.4M/275M = 0.00873. To find the probability of J. Doe's death conditional on the information, *E*, that he or she was a senior citizen, we divide the probability that he or she was a senior who died, **P**(*H* &amp; *E*) = 1.36M/275M = 0.00495, by the probability that he or she was a senior citizen, **P**(*E*) = 16.6M/275M = 0.06036. Thus, the probability of J. Doe's death given that he or she was a senior is **P**_{*E*}(*H*) = **P**(*H* &amp; *E*)/**P**(*E*) = 0.00495/0.06036 = 0.082. Notice how the size of the *total* population factors out of this equation, so that **P**_{*E*}(*H*) is just the proportion of seniors who died. One should contrast this quantity, which gives the mortality rate among senior citizens, with the "inverse" probability of *E* conditional on *H*, **P**_{*H*}(*E*) = **P**(*H* &amp; *E*)/**P**(*H*) = 0.00495/0.00873 = 0.57, which is the proportion of deaths *in the total population* that occurred among seniors.
+To illustrate, suppose J. Doe is a randomly chosen American who was alive on January 1, 2000. According to the United States Center for Disease Control, roughly 2.4 million of the 275 million Americans alive on that date died during the 2000 calendar year. Among the approximately 16.6 million senior citizens (age 75 or greater) about 1.36 million died. The unconditional probability of the hypothesis that our J. Doe died during 2000, *H*, is just the population-wide mortality rate **P**(*H*) = 2.4M/275M = 0.00873. To find the probability of J. Doe's death conditional on the information, *E*, that he or she was a senior citizen, we divide the probability that he or she was a senior who died, **P**(*H* & *E*) = 1.36M/275M = 0.00495, by the probability that he or she was a senior citizen, **P**(*E*) = 16.6M/275M = 0.06036. Thus, the probability of J. Doe's death given that he or she was a senior is **P**_{*E*}(*H*) = **P**(*H* & *E*)/**P**(*E*) = 0.00495/0.06036 = 0.082. Notice how the size of the *total* population factors out of this equation, so that **P**_{*E*}(*H*) is just the proportion of seniors who died. One should contrast this quantity, which gives the mortality rate among senior citizens, with the "inverse" probability of *E* conditional on *H*, **P**_{*H*}(*E*) = **P**(*H* & *E*)/**P**(*H*) = 0.00495/0.00873 = 0.57, which is the proportion of deaths *in the total population* that occurred among seniors.
 
 Here are some straightforward consequences of (1.1):
 
@@ -30,7 +30,7 @@ The most important fact about conditional probabilities is undoubtedly *Bayes' T
 
 In an unfortunate, but now unavoidable, choice of terminology, statisticians refer to the inverse probability **P**_{*H*}(*E*) as the "likelihood" of *H* on *E*. It expresses the degree to which the hypothesis *predicts* the data given the background information codified in the probability **P**.
 
-In the example discussed above, the condition that J. Doe died during 2000 is a fairly strong predictor of senior citizenship. Indeed, the equation **P**_{*H*}(*E*) = 0.57 tells us that 57% of the total deaths occurred among seniors that year. Bayes' theorem lets us use this information to compute the "direct" probability of J. Doe dying given that he or she was a senior citizen. We do this by multiplying the "prediction term" **P**_{*H*}(*E*) by the ratio of the total number of deaths in the population to the number of senior citizens in the population, **P**(*H*)/**P**(*E*) = 2.4M/16.6M = 0.144. The result is **P**_{*E*}(*H*) = 0.57 &times; 0.144 = 0.082, just as expected.
+In the example discussed above, the condition that J. Doe died during 2000 is a fairly strong predictor of senior citizenship. Indeed, the equation **P**_{*H*}(*E*) = 0.57 tells us that 57% of the total deaths occurred among seniors that year. Bayes' theorem lets us use this information to compute the "direct" probability of J. Doe dying given that he or she was a senior citizen. We do this by multiplying the "prediction term" **P**_{*H*}(*E*) by the ratio of the total number of deaths in the population to the number of senior citizens in the population, **P**(*H*)/**P**(*E*) = 2.4M/16.6M = 0.144. The result is **P**_{*E*}(*H*) = 0.57 × 0.144 = 0.082, just as expected.
 
 Though a mathematical triviality, Bayes' Theorem is of great value in calculating conditional probabilities because inverse probabilities are typically both easier to ascertain and less subjective than direct probabilities. People with different views about the unconditional probabilities of *E* and *H* often disagree about *E*'s value as an indicator of *H*. Even so, they can agree about the degree to which the hypothesis predicts the data if they know any of the following intersubjectively available facts: (a) *E*'s *objective* probability given *H*, (b) the frequency with which events like *E* will occur if *H* is true, or (c) the fact that *H* logically entails *E*. Scientists often design experiments so that likelihoods can be known in one of these "objective" ways. Bayes' Theorem then ensures that any dispute about the significance of the experimental results can be traced to "subjective" disagreements about the unconditional probabilities of *H* and *E*.
 
@@ -56,7 +56,7 @@ The term on the right provides one measure of the degree to which *H predicts E*
 
 In our J. Doe example, ***PR***(*H*, *E*) is obtained by comparing the predictability of senior status given that J. Doe died in 2000 to its predictability given no information whatever about his or her mortality. Dividing the former "prediction term" by the latter yields ***PR***(*H*, *E*) = **P**_{*H*}(*E*)/**P**(*E*) = 0.57/0.06036 = 9.44. Thus, as a predictor of senior status in 2000, knowing that J. Doe died is more than nine times better than not knowing whether she lived or died.
 
-Another useful form of Bayes' Theorem is the *Odds Rule*. In the jargon of bookies, the "odds" of a hypothesis is its probability divided by the probability of its negation: **O**(*H*) = **P**(*H*)**/P**(~*H*). So, for example, a racehorse whose odds of winning a particular race are 7-to-5 has a 7**/**12 chance of winning and a 5**/**12 chance of losing. To understand the difference between odds and probabilities it helps to think of probabilities as *fractions* of the distance between the probability of a contradiction and that of a tautology, so that **P**(*H*) = *p* means that *H* is *p* times as likely to be true as a tautology. In contrast, writing **O**(*H*) = [**P**(*H*) &minus; **P**(***F***)]**/**[**P**(***T***) &minus; **P**(*H*)] (where ***F*** is some logical contradiction) makes it clear that **O**(*H*) expresses this same quantity as the ratio of the amount by which *H*'s probability exceeds that of a contradiction to the amount by which it is exceeded by that of a tautology. Thus, the difference between "probability talk" and "odds talk" corresponds to the difference between saying "we are two thirds of the way there" and saying "we have gone twice as far as we have yet to go."
+Another useful form of Bayes' Theorem is the *Odds Rule*. In the jargon of bookies, the "odds" of a hypothesis is its probability divided by the probability of its negation: **O**(*H*) = **P**(*H*)**/P**(~*H*). So, for example, a racehorse whose odds of winning a particular race are 7-to-5 has a 7**/**12 chance of winning and a 5**/**12 chance of losing. To understand the difference between odds and probabilities it helps to think of probabilities as *fractions* of the distance between the probability of a contradiction and that of a tautology, so that **P**(*H*) = *p* means that *H* is *p* times as likely to be true as a tautology. In contrast, writing **O**(*H*) = [**P**(*H*) − **P**(***F***)]**/**[**P**(***T***) − **P**(*H*)] (where ***F*** is some logical contradiction) makes it clear that **O**(*H*) expresses this same quantity as the ratio of the amount by which *H*'s probability exceeds that of a contradiction to the amount by which it is exceeded by that of a tautology. Thus, the difference between "probability talk" and "odds talk" corresponds to the difference between saying "we are two thirds of the way there" and saying "we have gone twice as far as we have yet to go."
 
 The analogue of the probability ratio is the *odds ratio* ***OR***(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*), the factor by which *H*'s unconditional odds must be multiplied to obtain its odds conditional on *E*. Bayes' Theorem is equivalent to the following fact about odds ratios:
 
@@ -66,7 +66,7 @@ The analogue of the probability ratio is the *odds ratio* ***OR***(*H*, *E*) = *
 
 Notice the similarity between (1.4) and (1.5). While each employs a different way of *expressing* probabilities, each shows how *its* expression for *H*'s probability conditional on *E* can be obtained by multiplying *its* expression for *H*'s unconditional probability by a factor involving inverse probabilities.
 
-The quantity ***LR***(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{~*H*}(*E*) that appears in (1.5) is the *likelihood ratio* of *H* given *E*. In testing situations like the one described in Example 1, the likelihood ratio is the test's true positive rate divided by its false positive rate: ***LR*** = sensitivity**/**(1 &minus; specificity). As with the probability ratio, we can construe the likelihood ratio as a measure of the degree to which *H* predicts *E*. Instead of comparing *E*'s probability given *H* with its unconditional probability, however, we now compare it with its probability conditional on ~*H*. ***LR***(*H*, *E*) is thus the degree to which the hypothesis surpasses its negation as a predictor of the data. Once more, Bayes' Theorem tells us how to factor conditional probabilities into unconditional probabilities and measures of predictive power.
+The quantity ***LR***(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{~*H*}(*E*) that appears in (1.5) is the *likelihood ratio* of *H* given *E*. In testing situations like the one described in Example 1, the likelihood ratio is the test's true positive rate divided by its false positive rate: ***LR*** = sensitivity**/**(1 − specificity). As with the probability ratio, we can construe the likelihood ratio as a measure of the degree to which *H* predicts *E*. Instead of comparing *E*'s probability given *H* with its unconditional probability, however, we now compare it with its probability conditional on ~*H*. ***LR***(*H*, *E*) is thus the degree to which the hypothesis surpasses its negation as a predictor of the data. Once more, Bayes' Theorem tells us how to factor conditional probabilities into unconditional probabilities and measures of predictive power.
 
 > *The odds of a hypothesis conditional on a body of data is equal to the unconditional odds of the hypothesis multiplied by the degree to which it surpasses its negation as a predictor of the data.*
 
@@ -88,23 +88,23 @@ The message of (1.6) is this:
 
 The various versions of Bayes' Theorem differ only with respect to the functions used to express unconditional probabilities (**P**(*H*), **O**(*H*), **B**(*H*)) and in the likelihood term used to represent predictive power (***PR***(*E*, *H*), ***LR***(*H*, *E*), ***LR***(*H*, *H**; *E*)). In each case, though, the underlying message is the same:
 
-> *conditional probability = unconditional probability &times; predictive power*
+> *conditional probability = unconditional probability × predictive power*
 
-(1.2) &ndash; (1.6) are multiplicative forms of Bayes' Theorem that use division to compare the disparities between unconditional and conditional probabilities. Sometimes these comparisons are best expressed additively by replacing ratios with *differences*. The following table gives the additive analogue of each ratio measure.
+(1.2) – (1.6) are multiplicative forms of Bayes' Theorem that use division to compare the disparities between unconditional and conditional probabilities. Sometimes these comparisons are best expressed additively by replacing ratios with *differences*. The following table gives the additive analogue of each ratio measure.
 
 | **Ratio** | **Difference** |
 | --- | --- |
-| *Probability Ratio*&nbsp; ***PR***(*H*, *E*) = **P**_{*E*}(*H*)**/P**(*H*) | *Probability Difference* ***PD***(*H*, *E*) = **P**_{*E*}(*H*) &minus;** P**(*H*) |
-| *Odds Ratio*&nbsp; ***OR***(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*) | *Odds Difference*&nbsp; ***OD***(*H*, *E*) = **O**_{*E*}(*H*) &minus; **O**(*H*) |
-| *Bayes' Factor*&nbsp; ***BR***(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**)**/B**(*H*, *H**) | *Bayes' Difference*&nbsp; ***BD***(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**) &minus; **B**(*H*, *H**) |
+| *Probability Ratio*  ***PR***(*H*, *E*) = **P**_{*E*}(*H*)**/P**(*H*) | *Probability Difference* ***PD***(*H*, *E*) = **P**_{*E*}(*H*) −** P**(*H*) |
+| *Odds Ratio*  ***OR***(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*) | *Odds Difference*  ***OD***(*H*, *E*) = **O**_{*E*}(*H*) − **O**(*H*) |
+| *Bayes' Factor*  ***BR***(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**)**/B**(*H*, *H**) | *Bayes' Difference*  ***BD***(*H*, *H**; *E*) = **B**_{*E*}(*H*, *H**) − **B**(*H*, *H**) |
 
-We can use Bayes' theorem to obtain additive analogues of (1.4) &ndash; (1.6), which are here displayed along with their multiplicative counterparts:
+We can use Bayes' theorem to obtain additive analogues of (1.4) – (1.6), which are here displayed along with their multiplicative counterparts:
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
-| (1.4) | &nbsp;***PR***(*H*, *E*) = ***PR***(*E*, *H*) = **P**_{*H*}(*E*)**/P**(*E*) | &nbsp;***PD***(*H*, *E*) = **P**(*H*) [***PR***(*E*, *H*) &minus; 1] |
-| (1.5) | &nbsp;***OR***(*H*, *E*) = ***LR***(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{*~H*}(*E*) | &nbsp;***OD***(*H*, *E*) = **O**(*H*) [***OR***(*H*, *E*) &minus; 1] |
-| (1.6) | &nbsp;***BR***(*H*, *H**; *E*) = ***LR***(*H*, *H**; *E*) = **P**_{*H*}(*E*)**/P**_{*H**}(*E*) | &nbsp;***BD***(*H*, *H**; *E*) = **B**(*H*, *H**) [***BR***(*H*, *H**; *E*) &minus; 1] |
+| (1.4) | ***PR***(*H*, *E*) = ***PR***(*E*, *H*) = **P**_{*H*}(*E*)**/P**(*E*) | ***PD***(*H*, *E*) = **P**(*H*) [***PR***(*E*, *H*) − 1] |
+| (1.5) | ***OR***(*H*, *E*) = ***LR***(*H*, *E*) = **P**_{*H*}(*E*)**/P**_{*~H*}(*E*) | ***OD***(*H*, *E*) = **O**(*H*) [***OR***(*H*, *E*) − 1] |
+| (1.6) | ***BR***(*H*, *H**; *E*) = ***LR***(*H*, *H**; *E*) = **P**_{*H*}(*E*)**/P**_{*H**}(*E*) | ***BD***(*H*, *H**; *E*) = **B**(*H*, *H**) [***BR***(*H*, *H**; *E*) − 1] |
 
 Notice how each additive measure is obtained by multiplying *H*'s unconditional probability, expressed on the relevant scale, **P**, **O** or **B**, by the associated multiplicative measure diminished by 1.
 
@@ -131,7 +131,7 @@ It will be useful to distinguish two subsidiary concepts related to total eviden
 - The *net evidence in favor of H* is the degree to which a subject's total evidence in favor of *H* exceeds her total evidence in favor of ~*H*.
 - The *balance of total evidence for H over H** is the degree to which a subject's total evidence in favor of *H* exceeds her total evidence in favor of *H**.
 
-The precise content of these notions will depend on how total evidence is understood and measured, and on how disparities in total evidence are characterized. For example, if total evidence is given in terms of probabilities and disparities are treated as ratios, then the net evidence for *H* is **P**(*H*)**/P**(~*H*). If total evidence is expressed in terms of odds and differences are used to express disparities, then the net evidence for *H* will be **O**(*H*) &minus; **O**(~*H*). Readers may consult Table 3 (in the supplementary document) for a complete list of the possibilities.
+The precise content of these notions will depend on how total evidence is understood and measured, and on how disparities in total evidence are characterized. For example, if total evidence is given in terms of probabilities and disparities are treated as ratios, then the net evidence for *H* is **P**(*H*)**/P**(~*H*). If total evidence is expressed in terms of odds and differences are used to express disparities, then the net evidence for *H* will be **O**(*H*) − **O**(~*H*). Readers may consult Table 3 (in the supplementary document) for a complete list of the possibilities.
 
 As these remarks make clear, one can interpret **O**(*H*) either as a measure of net evidence or as a measure of total evidence. To see the difference, imagine that 750 red balls and 250 black balls have been drawn at random and with replacement from an urn known to contain 10,000 red or black balls. Assuming that this is our only evidence about the urn's contents, it is reasonable to set **P**(*Red*) = 0.75 and **P**(~*Red*) = 0.25. On a probability-as-total-evidence reading, these assignments reflect both the fact that we have a great deal of evidence in favor of *Red* (namely, that 750 of 1,000 draws were red) and the fact that we have also have some evidence against it (namely, that 250 of the draws were black). The *net* evidence for *Red* is then the disparity between our total evidence for *Red* and our total evidence against *Red*. This can be expressed multiplicatively by saying that we have seen three times as many red draws as black draws, which is just to say that **O**(*Red*) = 3. Alternatively, we can use **O**(*Red*) as a measure of the total evidence by taking our evidence for *Red* to be the ratio of red to black draws, rather than the total number of red draws, and our evidence for ~*Red* to be the ratio of black balls to red balls, rather than the total number of black draws. While the decision whether to use **O** as a measure total or net evidence makes little difference to questions about the *absolute* amount of total evidence for a hypothesis (since **O**(*H*) is an increasing function of **P**(*H*)), it can make a major difference when one is considering the incremental *changes* in total evidence brought about by conditioning on new information.
 
@@ -143,20 +143,20 @@ Philosophers interested in characterizing correct patterns of inductive reasonin
 
 Both these equivalences continue to hold with probabilities replaced by odds. So, this part of the subjectivist theory of evidence does not depend on how total evidence is measured.
 
-Bayes' Theorem helps to illuminate the content of (2.1) by making it clear that *E*'s status as incremental evidence for *H* is enhanced to the extent that *H* predicts *E*. This observation serves as the basis for the following conclusions about incremental confirmation (which hold so long as 1 &gt; **P**(*H*), **P**(*E*) &gt; 0).
+Bayes' Theorem helps to illuminate the content of (2.1) by making it clear that *E*'s status as incremental evidence for *H* is enhanced to the extent that *H* predicts *E*. This observation serves as the basis for the following conclusions about incremental confirmation (which hold so long as 1 > **P**(*H*), **P**(*E*) > 0).
 
-> | **(2.1a)**&nbsp; | &nbsp;If *E* incrementally confirms *H*, then *H* incrementally confirms *E*. |
+> | **(2.1a)** | If *E* incrementally confirms *H*, then *H* incrementally confirms *E*. |
 > | --- | --- |
-> | **(2.1b)**&nbsp; | &nbsp;If *E* incrementally confirms *H*, then *E* incrementally disconfirms ~*H*. |
-> | **(2.1c)**&nbsp; | &nbsp;If *H* entails *E*, then *E* incrementally confirms *H*. |
-> | **(2.1d)**&nbsp; | &nbsp;If **P**_{*H*}(*E*) = **P**_{*H*}(*E**), then *H* receives more incremental support from *E* than from *E** if and only if *E* is unconditionally less probable than *E**. |
-> | **(2.1e)**&nbsp; | &nbsp;*Weak Likelihood Principle*. *E* provides incremental evidence for *H* if and only if **P**_{*H*}(*E*) &gt; **P**_{~*H*}(*E*). More generally, if **P**_{*H*}(*E*) &gt; **P**_{*H**}(*E*) and **P**_{~*H*}(~*E*) &ge; **P**_{~*H**}(~*E*), then *E* provides more incremental evidence for *H* than for *H**. |
+> | **(2.1b)** | If *E* incrementally confirms *H*, then *E* incrementally disconfirms ~*H*. |
+> | **(2.1c)** | If *H* entails *E*, then *E* incrementally confirms *H*. |
+> | **(2.1d)** | If **P**_{*H*}(*E*) = **P**_{*H*}(*E**), then *H* receives more incremental support from *E* than from *E** if and only if *E* is unconditionally less probable than *E**. |
+> | **(2.1e)** | *Weak Likelihood Principle*. *E* provides incremental evidence for *H* if and only if **P**_{*H*}(*E*) > **P**_{~*H*}(*E*). More generally, if **P**_{*H*}(*E*) > **P**_{*H**}(*E*) and **P**_{~*H*}(~*E*) ≥ **P**_{~*H**}(~*E*), then *E* provides more incremental evidence for *H* than for *H**. |
 
 (2.1a) tells us that incremental confirmation is a matter of *mutual reinforcement*: a person who sees *E* as evidence for *H* invests more confidence in the possibility that both propositions are true than in either possibility in which only one obtains.
 
 (2.1b) says that relevant evidence must be capable of discriminating between the truth and falsity of the hypothesis under test.
 
-(2.1c) provides a subjectivist rationale for the *hypothetico-deductive model of confirmation*. According to this model, hypotheses are incrementally confirmed by any evidence they entail. While subjectivists reject the idea that evidentiary relations can be characterized in a belief-independent manner &mdash; Bayesian confirmation is *always* relativized to a person and her subjective probabilities &mdash; they seek to preserve the basic insight of the H-D model by pointing out that hypotheses are incrementally supported by evidence they entail *for anyone who has not already made up her mind about the hypothesis or the evidence*. More precisely, if *H* entails *E*, then **P**_{*E*}(*H*) = **P**(*H*)**/P**(*E*), which exceeds **P**(*H*) whenever 1 &gt; **P**(*E*), **P**(*H*) &gt; 0. This explains why scientists so often seek to design experiments that fit the H-D paradigm. Even when evidentiary relations are relativized to subjective probabilities, experiments in which the hypothesis under test entails the data will be regarded as evidentially relevant by *anyone* who has not yet made up his mind about the hypothesis or the data. The *degree* of incremental confirmation will vary among people depending on their prior levels of confidence in *H* and *E* , but everyone will agree that the data incrementally supports the hypothesis to at least some degree.
+(2.1c) provides a subjectivist rationale for the *hypothetico-deductive model of confirmation*. According to this model, hypotheses are incrementally confirmed by any evidence they entail. While subjectivists reject the idea that evidentiary relations can be characterized in a belief-independent manner — Bayesian confirmation is *always* relativized to a person and her subjective probabilities — they seek to preserve the basic insight of the H-D model by pointing out that hypotheses are incrementally supported by evidence they entail *for anyone who has not already made up her mind about the hypothesis or the evidence*. More precisely, if *H* entails *E*, then **P**_{*E*}(*H*) = **P**(*H*)**/P**(*E*), which exceeds **P**(*H*) whenever 1 > **P**(*E*), **P**(*H*) > 0. This explains why scientists so often seek to design experiments that fit the H-D paradigm. Even when evidentiary relations are relativized to subjective probabilities, experiments in which the hypothesis under test entails the data will be regarded as evidentially relevant by *anyone* who has not yet made up his mind about the hypothesis or the data. The *degree* of incremental confirmation will vary among people depending on their prior levels of confidence in *H* and *E* , but everyone will agree that the data incrementally supports the hypothesis to at least some degree.
 
 Subjectivists invoke (2.1d) to explain why scientists so often regard improbable or surprising evidence as having more confirmatory potential than evidence that is antecedently known. While it is not true *in general* that improbable evidence has more confirming potential, it is true that *E*'s incremental confirming power relative to *H* varies inversely with *E*'s unconditional probability *when the value of the inverse probability* **P**_{*H*}(*E*) *is held fixed*. If *H* entails both *E* and *E**, say, then Bayes' Theorem entails that the least probable of the two supports *H* more strongly. For example, even if heart attacks are invariably accompanied by severe chest pain and shortness of breath, the former symptom is far better evidence for a heart attack than the latter simply because severe chest pain is so much less common than shortness of breath.
 
@@ -166,7 +166,7 @@ Bayes' Theorem can also be used as the basis for developing and evaluating *quan
 
 > | **(2.2)** | **Corollary**. |
 > | --- | --- |
-> |   | Each of the following is equivalent to the assertion that *E* provides incremental evidence in favor of *H*: ***PR***(*H*, *E*) &gt; 1, ***OR***(*H*, *E*) &gt; 1, ***PD***(*H*, *E*) &gt; 0, ***OD***(*H*, *E*) &gt; 0. |
+> |   | Each of the following is equivalent to the assertion that *E* provides incremental evidence in favor of *H*: ***PR***(*H*, *E*) > 1, ***OR***(*H*, *E*) > 1, ***PD***(*H*, *E*) > 0, ***OD***(*H*, *E*) > 0. |
 
 Thus, all four measures agree with the comparative account of incremental evidence given in (2.1).
 
@@ -183,7 +183,7 @@ The second clause of (2.1) tells us that *E* provides more incremental evidence 
 
 > | **(2.3)** | **Corollary**. |
 > | --- | --- |
-> |   | For any *H*, *E** and *E* with positive probability, the following are equivalent: *E* provides more incremental evidence than *E** does for *H* ***PR***(*H*, *E*) &gt; ***PR***(*H*, *E**) ***OR***(*H*, *E*) &gt; ***OR***(*H*, *E**) ***PD***(*H*, *E*) &gt; ***PD***(*H*, *E**) ***OD***(*H*, *E*) &gt; ***OD***(*H*, *E**) |
+> |   | For any *H*, *E** and *E* with positive probability, the following are equivalent: *E* provides more incremental evidence than *E** does for *H* ***PR***(*H*, *E*) > ***PR***(*H*, *E**) ***OR***(*H*, *E*) > ***OR***(*H*, *E**) ***PD***(*H*, *E*) > ***PD***(*H*, *E**) ***OD***(*H*, *E*) > ***OD***(*H*, *E**) |
 
 The four measures of incremental support can disagree over the *comparative* degree to which a single item of data incrementally confirms two distinct hypotheses. Example 3, Example 4, and Example 5 (in the supplement) show the various ways in which this can happen.
 
@@ -191,8 +191,8 @@ All the differences between the measures have ultimately to do with (a) whether 
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
-| **P** = Total | ***PR***(*H*, *E*) = **P**_{*E*}(*H*)**/P**(*H*) | ***PD***(*H*, *E*) = **P**_{*E*}(*H*) &minus;** P**(*H*) |
-| **O** = Total | ***OR***(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*) | ***OD***(*H*, *E*) = **O**_{*E*}(*H*) &minus;** O**(*H*) |
+| **P** = Total | ***PR***(*H*, *E*) = **P**_{*E*}(*H*)**/P**(*H*) | ***PD***(*H*, *E*) = **P**_{*E*}(*H*) −** P**(*H*) |
+| **O** = Total | ***OR***(*H*, *E*) = **O**_{*E*}(*H*)**/O**(*H*) | ***OD***(*H*, *E*) = **O**_{*E*}(*H*) −** O**(*H*) |
 
 Similar tables can be constructed for measures of net evidence and measures of balances in total evidence. See Table 5A in the supplement.
 
@@ -200,8 +200,8 @@ We can use the various forms of Bayes' Theorem to clarify the similarities and d
 
 |   | **Ratio** | **Difference** |
 | --- | --- | --- |
-| **P** = Total | ***PR***(*H*, *E*) = ***LR***(*H*, ***T***; *E*) | ***PD***(*H*, *E*) = **P**(*H*)[***LR***(*H*, ***T***; *E*) &minus; 1] |
-| **O** = Total | ***OR***(*H*, *E*) = ***LR***(*H*, ~*H*; *E*) | ***OD***(*H*, *E*)= **O**(*H*)[***LR***(*H*, ~*H*; *E*) &minus; 1] |
+| **P** = Total | ***PR***(*H*, *E*) = ***LR***(*H*, ***T***; *E*) | ***PD***(*H*, *E*) = **P**(*H*)[***LR***(*H*, ***T***; *E*) − 1] |
+| **O** = Total | ***OR***(*H*, *E*) = ***LR***(*H*, ~*H*; *E*) | ***OD***(*H*, *E*)= **O**(*H*)[***LR***(*H*, ~*H*; *E*) − 1] |
 
 This table shows that there are two differences between each multiplicative measure and its additive counterpart. First, the likelihood term that appears in a given multiplicative measure is diminished by 1 in its associated additive measure. Second, in each additive measure the diminished likelihood term is multiplied by an expression for *H*'s probability: **P**(*H*) or **O**(*H*), as the case may be. The first difference marks no distinction; it is due solely to the fact that the multiplicative and additive measures employ a different zero point from which to measure evidence. If we settle on the point of probabilistic independence **P**_{*E*}(*H*) = **P**(*H*) as a natural common zero, and so subtract 1 from each multiplicative measure,[^note-13] then equivalent likelihood terms appear in both columns.
 
@@ -226,7 +226,7 @@ When odds measure total evidence neither ***PR***(*H*, *E*) nor ***LR***(*H*, *H
 
 The third view, "likelihoodism," is popular among non-Bayesian statisticians. Its proponents deny evidence proportionism. They maintain that a person's subjective probability for a hypothesis merely reflects her degree of uncertainty about its truth; it need not be tied in any way to the amount of evidence she has in its favor.[^note-15] It is likelihood ratios, not subjective probabilities, which capture the "scientifically meaningful" evidential relations. Here are two classic statements of the position.
 
-> The &lsquo;evidential meaning&rsquo; of experimental results is characterized fully by the likelihood function&hellip; Reports of experimental results in scientific journals should in principle be descriptions of likelihood functions. (Brinbaum 1962, 272)
+> The ‘evidential meaning’ of experimental results is characterized fully by the likelihood function… Reports of experimental results in scientific journals should in principle be descriptions of likelihood functions. (Brinbaum 1962, 272)
 
 On this view, everything that can be said about the evidential import of *E* for *H* is embodied in the following generalization of the weak likelihood principle:
 
@@ -242,9 +242,9 @@ Whether one agrees with this assessment will be a matter of philosophical temper
 
 In fact, the weak likelihood principle (2.1e) encapsulates a minimal form of Bayesianism to which all parties can agree. This is clearest when it is restated in terms of likelihoods.
 
-> | **(2.1e)**&nbsp; | **The Weak Likelihood Principle**. (expressed in terms of likelihood ratios) |
+> | **(2.1e)** | **The Weak Likelihood Principle**. (expressed in terms of likelihood ratios) |
 > | --- | --- |
-> |   | If ***LR***(*H*, *H**; *E*) &ge; 1 and ***LR***(~*H*, ~*H**; ~*E*) &ge; 1, with one inequality strict, then *E* provides more incremental evidence for *H* than for *H** and ~*E* provides more incremental evidence for ~*H* than for ~*H**. |
+> |   | If ***LR***(*H*, *H**; *E*) ≥ 1 and ***LR***(~*H*, ~*H**; ~*E*) ≥ 1, with one inequality strict, then *E* provides more incremental evidence for *H* than for *H** and ~*E* provides more incremental evidence for ~*H* than for ~*H**. |
 
 Likelihoodists will endorse (2.1e) because the relationships described in its antecedent depend only on inverse probabilities. Proponents of both the "probability" and "odds" interpretations of total evidence will accept (2.1e) because satisfaction of its antecedent ensures that conditioning on *E* increases *H*'s probability and its odds strictly more than those of *H**. Indeed, the weak likelihood principle must be an integral part of any account of evidential relevance that deserves the title "Bayesian". To deny it is to misunderstand the central message of Bayes' Theorem for questions of evidence: namely, that hypotheses are confirmed by data they predict. As we shall see in the next section, this "minimal" form of Bayesianism figures importantly into subjectivist models of learning from experience.
 
@@ -260,7 +260,7 @@ The simplest learning experiences are those in which the learner becomes certain
 
 > | **(3.1)** | **Simple Conditioning** |
 > | --- | --- |
-> |   | If a person with a "prior" such that 0 &lt; **P**(*E*) &lt; 1 has a learning experience whose sole immediate effect is to raise her subjective probability for *E* to 1, then her post-learning "posterior" for any proposition *H* should be **Q**(*H*) = **P**_{*E*}(*H*). |
+> |   | If a person with a "prior" such that 0 < **P**(*E*) < 1 has a learning experience whose sole immediate effect is to raise her subjective probability for *E* to 1, then her post-learning "posterior" for any proposition *H* should be **Q**(*H*) = **P**_{*E*}(*H*). |
 
 In short, a rational believer who learns for certain that *E* is true should factor this information into her doxastic system by conditioning on it.
 
@@ -268,7 +268,7 @@ Though useful as an ideal, simple conditioning is not widely applicable because 
 
 > | **(3.2)** | **Jeffrey Conditioning** |
 > | --- | --- |
-> |   | If a person with a prior such that 0 &lt; **P**(*E*) &lt; 1 has a learning experience whose sole immediate effect is to change her subjective probability for *E* to *q*, then her post-learning posterior for any *H* should be **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 &minus; *q*)**P**_{~*E*}(*H*). |
+> |   | If a person with a prior such that 0 < **P**(*E*) < 1 has a learning experience whose sole immediate effect is to change her subjective probability for *E* to *q*, then her post-learning posterior for any *H* should be **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 − *q*)**P**_{~*E*}(*H*). |
 
 Obviously, Jeffrey conditioning reduces to simple conditioning when *q* = 1.
 
@@ -286,24 +286,24 @@ Combining (3.3) with minimal Bayesianism yields the following:
 
 > | **(3.4)** | **Consequence** |
 > | --- | --- |
-> |   | If a person's prior is such that ***LR***(*H*, *H**; *E*) &ge; 1, ***LR***(~*H*, ~*H**; ~*E*) &ge; 1, and **P**(*H*) &gt; **P**(*H**), then any learning experience whose sole immediate effect is to raise her subjective probability for *E* should result in a posterior such that **Q**(*H*) &gt; **Q**(*H**). |
+> |   | If a person's prior is such that ***LR***(*H*, *H**; *E*) ≥ 1, ***LR***(~*H*, ~*H**; ~*E*) ≥ 1, and **P**(*H*) > **P**(*H**), then any learning experience whose sole immediate effect is to raise her subjective probability for *E* should result in a posterior such that **Q**(*H*) > **Q**(*H**). |
 
 On the reasonable assumption that **Q** is defined on the same set of propositions over which **P** is defined, this condition suffices to pick out simple conditioning as the *unique* correct method of belief revision for learning experiences that make *E* certain. It picks out Jeffrey conditioning as the *unique* correct method when learning merely alters one's subjective probability for *E*. The argument for these conclusions makes use of the following two facts about probabilities.
 
 > | **(3.5)** | **Lemma** |
 > | --- | --- |
-> |   | If *H* and *H** both entail *E* when **P**(*H*) &gt; **P**(*H**), then ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) &gt; 1. |
+> |   | If *H* and *H** both entail *E* when **P**(*H*) > **P**(*H**), then ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) > 1. |
 > |   | Proof Sketch |
-> **(3.6)** **Lemma** Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) &gt; 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H** both entail *E*, then **P**(*H*) &ge; **P**(*H**) if and only if **Q**(*H*) &ge; **Q**(*H**). Proof Sketch
+> **(3.6)** **Lemma** Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) > 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H** both entail *E*, then **P**(*H*) ≥ **P**(*H**) if and only if **Q**(*H*) ≥ **Q**(*H**). Proof Sketch
 
-From here the argument for simple conditioning is a matter of using (3.4) and (3.5) to establish ordinal similarity. Suppose that *H* and *H** entail *E* and that **P**(*H*) &gt; **P**(*H**). It follows from (3.5) that ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) &gt; 1. (3.4) then entails that any learning experience that raises *E*'s probability must result in a posterior with **Q**(*H*) &gt; **Q**(*H**). Thus, **Q** and **P** are ordinally similar with respect to hypotheses that entail *H*. If we go on to suppose that the learning experience raises *E*'s probability to 1, then (3.6) then guarantees that **Q** arises from **P** by simple conditioning on *E*.
+From here the argument for simple conditioning is a matter of using (3.4) and (3.5) to establish ordinal similarity. Suppose that *H* and *H** entail *E* and that **P**(*H*) > **P**(*H**). It follows from (3.5) that ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) > 1. (3.4) then entails that any learning experience that raises *E*'s probability must result in a posterior with **Q**(*H*) > **Q**(*H**). Thus, **Q** and **P** are ordinally similar with respect to hypotheses that entail *H*. If we go on to suppose that the learning experience raises *E*'s probability to 1, then (3.6) then guarantees that **Q** arises from **P** by simple conditioning on *E*.
 
 The case for Jeffrey conditioning is similarly direct. Since the argument for ordinal similarity did not depend at all on the assumption that **Q**(*E*) = 1, we have really established
 
 > | **(3.7)** | **Corollary** |
 > | --- | --- |
-> |   | &bull; If *H* and *H** entail *E*, then **P**(*H*) &gt; **P**(*H**) if and only if **Q**(*H*) &gt; **Q**(*H**). |
-> |   | &bull; If *H* and *H** entail ~*E*, then **P**(*H*) &gt; **P**(*H**) if and only if **Q**(*H*) &gt; **Q**(*H**). |
+> |   | • If *H* and *H** entail *E*, then **P**(*H*) > **P**(*H**) if and only if **Q**(*H*) > **Q**(*H**). |
+> |   | • If *H* and *H** entail ~*E*, then **P**(*H*) > **P**(*H**) if and only if **Q**(*H*) > **Q**(*H**). |
 
 So, **Q** is ordinally similar to **P** both when restricted to hypotheses that entail *E* and when restricted to hypotheses than entail ~*E*. Moreover, since dividing by positive numbers does not disturb ordinal relationships, it also follows that that **Q**_{*E*} is ordinally similar to **P** when restricted to hypotheses that entail *E*, and that **Q**_{~*E*} is ordinally similar to **P** when restricted to hypotheses than entail ~*E*. Since **Q**_{*E*}(*E*) = 1 = **Q**_{~*E*}(*E*), (3.6) then entails:
 
@@ -311,13 +311,13 @@ So, **Q** is ordinally similar to **P** both when restricted to hypotheses that 
 > | --- | --- |
 > |   | For every proposition *H*, **Q**_{*E*}(*H*) = **P**_{*E*}(*H*) and **Q**_{~*E*}(*H*) = **P**_{~*E*}(*H*) |
 
-It is easy to show that (3.8) is necessary and sufficient for **Q** to arise from **P** by Jeffrey conditioning on *E*. Subject to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 &minus;*q*)**P**_{~*E*}(*H*).
+It is easy to show that (3.8) is necessary and sufficient for **Q** to arise from **P** by Jeffrey conditioning on *E*. Subject to the constraint **Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).
 
 The general moral is clear.
 
 > *The basic Bayesian insight embodied in the weak likelihood principle (2.1e) entails that simple and Jeffrey conditioning on E* are the only* rational ways to revise beliefs in response to a learning experience whose sole immediate effect is to alter E*'s probability.
 
-While much more can be said about simple conditioning, Jeffrey conditioning and other forms of belief revision, these remarks should give the reader a sense of the importance of Bayes' Theorem in subjectivist accounts of learning and evidential support. Though a mathematical triviality, the Theorem's central insight &mdash; that a hypothesis is supported by any body of data it renders probable &mdash; lies at the heart of all subjectivist approaches to epistemology, statistics, and inductive logic.
+While much more can be said about simple conditioning, Jeffrey conditioning and other forms of belief revision, these remarks should give the reader a sense of the importance of Bayes' Theorem in subjectivist accounts of learning and evidential support. Though a mathematical triviality, the Theorem's central insight — that a hypothesis is supported by any body of data it renders probable — lies at the heart of all subjectivist approaches to epistemology, statistics, and inductive logic.
 
 ## References（引用注释）
 
@@ -328,7 +328,7 @@ While much more can be said about simple conditioning, Jeffrey conditioning and 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=bayes-theorem). |
 > | --- | --- |
 > |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/bayes-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bayes-theorem&amp;redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=bayes-theorem&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
 > |   | [Enhanced bibliography for this entry](http://philpapers.org/sep/bayes-theorem/) at [PhilPapers](http://philpapers.org), with links to its database. |
 
 ## Other Internet Resources
@@ -351,15 +351,15 @@ epistemology: Bayesian | probability, interpretations of
 
 [^note-2]: **P***_{E}* must be a real-valued function, bounded between zero and one, that satisfies:
 
-[^note-3]: More generally, if {*E*_{1}, *E*_{2}, *E*_{3},&hellip;} is a countable *partition* of evidence propositions, mixing entails that **P**(*H*) = &Sigma;_{i}**P**(*E*_{*i*})** P**_{*E*}*i*(*H*). One can think of the *E*_{*i*} as a set of mutually exclusive and collectively exhaustive results for some experiment. Mixing then says that *H*'s unconditional probability is the *expectation* of it probability conditional on the results of the experiment.
+[^note-3]: More generally, if {*E*_{1}, *E*_{2}, *E*_{3},…} is a countable *partition* of evidence propositions, mixing entails that **P**(*H*) = Σ_{i}**P**(*E*_{*i*})** P**_{*E*}*i*(*H*). One can think of the *E*_{*i*} as a set of mutually exclusive and collectively exhaustive results for some experiment. Mixing then says that *H*'s unconditional probability is the *expectation* of it probability conditional on the results of the experiment.
 
-[^note-4]: If *H*_{1}, *H*_{2}, *H*_{3},&hellip;, *H_{n}* is a partition for which each of the inverse probabilities **P***_{H}*i(*E*) is known, then one can express the direct probability as **P***_{E}*(*H_{i*}) = **P**(*H_{i*})**P*** _{H}*i(*E*)**/**[&Sigma;_{*j*} **P**(*H_{j}*)**P***_{H}j*(* E*)].
+[^note-4]: If *H*_{1}, *H*_{2}, *H*_{3},…, *H_{n}* is a partition for which each of the inverse probabilities **P***_{H}*i(*E*) is known, then one can express the direct probability as **P***_{E}*(*H_{i*}) = **P**(*H_{i*})**P*** _{H}*i(*E*)**/**[Σ_{*j*} **P**(*H_{j}*)**P***_{H}j*(* E*)].
 
 [^note-5]: For an excellent general discussion of subjectivism see the entry interpretations of probability in this *Encyclopedia*.
 
 [^note-6]: When the person's opinions about *H* are not sufficiently definite to be measured by a single number, her belief state is represented by a family of probability functions. For useful discussions of indeterminate belief states see (Levi, 1985), (Jeffrey, 1987) and (Kaplan 1996, pp. 23-31)[^kaplan-1996].
 
-[^note-7]: One can have a determinate subjective probability for *H* conditional on *E* even when one lacks determinate probabilities for *H* &amp; *E* and *E*. Statistical evidence often justifies assignments of conditional probability without providing any information about underlying unconditional probabilities. For example, careful study of actuarial tables might convince me that my chances of living past eighty given that I have a serious heart attack in my fifties are between 0.04 and 0.02, but the same table might give me no information whatever about the chances that I will suffer a serious heart attack in my fifties, and so no information about my unconditional chances of living to eighty.
+[^note-7]: One can have a determinate subjective probability for *H* conditional on *E* even when one lacks determinate probabilities for *H* & *E* and *E*. Statistical evidence often justifies assignments of conditional probability without providing any information about underlying unconditional probabilities. For example, careful study of actuarial tables might convince me that my chances of living past eighty given that I have a serious heart attack in my fifties are between 0.04 and 0.02, but the same table might give me no information whatever about the chances that I will suffer a serious heart attack in my fifties, and so no information about my unconditional chances of living to eighty.
 
 [^note-8]: I take this term from Alvin Goldman, who argues *against* the view (Goldman 1986, 89-93). While not all Bayesians accept evidence proportionism, the account of incremental evidence as change in subjective probability really only makes sense if one supposes that a subject's level of confidence in a proposition varies directly with the strenght of her evidence for its truth.
 
@@ -367,7 +367,7 @@ epistemology: Bayesian | probability, interpretations of
 
 [^note-10]: On a pure subjectivist conception, a person's total evidence for a hypothesis derives from her own "subjective" views about the intrinsic plausibilities of propositions and from information she acquires via learning. The person begins with a subjective probability **P**_{0} that encapsulates her "prior" judgments about the plausibilities of propositions (or, more accurately, her initial epistemic prejudices). She subsequently revises these probabilities in light of experience, thereby incorporating new information into her doxastic system. Her subjective probabilities at any time are thus the result of augmenting her "prior" opinions about the intuitive plausibilities of propositions with information acquired via learning. While some subjecivists speak as if each person starts her epistemic life with a kind of "ur-prior" that captures the state of her opinions before any empirical information comes it, such talk is misleading. Talk of "prior" and "posterior" probabilities only makes sense relative to a specific prospective sequence of learning experiences. The "prior" is nothing more than the probability function that reflects the person's beliefs, however arrived at, before learning commences. As Elliot Sober puts it, "the prior probability is properly so called, not because it is *a priori* (it is not), but because it is in place prior to taking the new evidence into account." (Sober 2002, 24)[^sober-2002]. Some probabilists, less inclined to subjective approaches, adopt less permissive conceptions of evidence. See, for example, (Williamson 2000, 184-208)[^williamson-2000] and (Maher 1996)[^maher-1996].
 
-[^note-11]: For a thorough survey of the literature in this area, with penetrating commentary, see Fitelson 2001, chapters 1 and 2, a link to which can be found in the Other Internet Resources section of this entry. Other functions have been proposed as measures of evidential support as well, among them **P**(*H* &amp; *E*) &minus; **P**(*H*)**P**(*E*) see (Carnap 1962, 360)[^carnap-1962], **P**_{*H*}(*E*) &minus; **P**_{~*H*}(*E*) see (Nozick 1981, 252)[^nozick-1981], and **P**_{*H*}(*E*) &minus; **P**(*E*) see (Halina 1988), and **P**_{*E*}(*H*) &minus; **P**_{~*E*}(*H*) see (Joyce 1999)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. As Fitelson shows, none of these measures satisfies the second clause of (2.1), which means than none captures the notion of *incremental* evidnece we are after.
+[^note-11]: For a thorough survey of the literature in this area, with penetrating commentary, see Fitelson 2001, chapters 1 and 2, a link to which can be found in the Other Internet Resources section of this entry. Other functions have been proposed as measures of evidential support as well, among them **P**(*H* & *E*) − **P**(*H*)**P**(*E*) see (Carnap 1962, 360)[^carnap-1962], **P**_{*H*}(*E*) − **P**_{~*H*}(*E*) see (Nozick 1981, 252)[^nozick-1981], and **P**_{*H*}(*E*) − **P**(*E*) see (Halina 1988), and **P**_{*E*}(*H*) − **P**_{~*E*}(*H*) see (Joyce 1999)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. As Fitelson shows, none of these measures satisfies the second clause of (2.1), which means than none captures the notion of *incremental* evidnece we are after.
 
 [^note-12]: While the term "effective evidence" is not standard, the idea that the disparity between **P**_{*E*}(*H*) and **P**_{~*E*}(*H*) captures an important evidential relationship is defended in (Joyce 1999, 203-213)[^joyce-1999] and (Christensen 1999)[^christensen-1999]. Both authors argue that this measure helps Bayesians circumvent the so-called "old evidence" problem described in (Glymour 1980)[^glymour-1980].
 
@@ -403,7 +403,7 @@ epistemology: Bayesian | probability, interpretations of
 
 [^hacking-1965]: Hacking, Ian. 1965. *Logic of Statistical Inference*. Cambridge: Cambridge University Press.
 
-[^hacking-2003]: H&aacute;jek, A. 2003. "Interpretations of the Probability Calculus", in the *Stanford Encyclopedia of Philosophy*, (Summer 2003 Edition), Edward N. Zalta (ed.), URL = &lt;[https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/](https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/)&gt;
+[^hájek-2003]: Hájek, A. 2003. "Interpretations of the Probability Calculus", in the *Stanford Encyclopedia of Philosophy*, (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/](https://plato.stanford.edu/archives/sum2003/entries/probability-interpret/)>
 
 [^hammond-1994]: Hammond, P. 1994. "Elementary non-Archimedean Representations for of Probability for Decision Theory and Games," in P. Humphreys, ed., *Patrick Suppes: Scientific Philosopher, vol. 1*., Dordrecht: Kluwer Publishers, 25-62.
 
@@ -435,11 +435,11 @@ epistemology: Bayesian | probability, interpretations of
 
 [^renyi-1955]: Renyi, A. 1955. "On a New Axiomatic Theory of Probability", *Acta Mathematica Academiae Scientiarium Hungaricae* **6**, 285-335.
 
-[^royall-1997]: Royall, R. 1997. *Statistical Evidence: A Likelihood Paradigm*. New York: Chapman &amp; Hall/CRC.
+[^royall-1997]: Royall, R. 1997. *Statistical Evidence: A Likelihood Paradigm*. New York: Chapman & Hall/CRC.
 
 [^skyrms-1987]: Skyrms, B. 1987. "Dynamic Coherence and Probability Kinematics". *Philosophy of Science* **54**, 1-20.
 
-[^sober-2002]: Sober, E. 2002. "Bayesianism &mdash; its Scope and Limits", in Swinburne (2002), 21-38.
+[^sober-2002]: Sober, E. 2002. "Bayesianism — its Scope and Limits", in Swinburne (2002), 21-38.
 
 [^sphon-1986]: Sphon, W. 1986. "The Representation of Popper Measures", *Topoi* **5**, 69-74.
 
@@ -447,7 +447,7 @@ epistemology: Bayesian | probability, interpretations of
 
 [^swinburne-2002]: Swinburne, R. 2002. *Bayes' Theorem*. Oxford: Oxford University Press (published for the British Academy).
 
-[^talbot-2001]: Talbot, W. 2001. "Bayesian Epistemology", *Stanford Encyclopedia of Philosophy* (Fall 2001 Edition), Edward N. Zalta (ed.), URL = &lt;[https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/)&gt;
+[^talbot-2001]: Talbot, W. 2001. "Bayesian Epistemology", *Stanford Encyclopedia of Philosophy* (Fall 2001 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/](https://plato.stanford.edu/archives/fall2001/entries/epistemology-bayesian/)>
 
 [^teller-1976]: Teller, P. 1976. "Conditionalization, Observation, and Change of Preference", in W. Harper and C.A. Hooker, eds., *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*. Dordrecht: D. Reidel.
 

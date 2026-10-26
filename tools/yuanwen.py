@@ -142,6 +142,7 @@ def inline_to_md(html, slug=None):
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
     s = re.sub(r'<img[^>]*>', '', s, flags=re.I)
     s = re.sub(r'<[^>]+>', '', s)
+    s = unescape(s)
     s = re.sub(r'[ \t\r\n\f\v]+', ' ', s).strip()
     for idx, val in enumerate(store):
         # 恢复的数学/sub/sup 内容也要 unescape：源里 \(x &lt; y\) 的实体

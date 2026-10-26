@@ -137,7 +137,7 @@ Given a subset \(C\subseteq A\times B\), the *projection* of \(C\) (on the first
 
 > \(\{ a\in A: \exists b\in B ((a,b)\in C)\}\).
 
-It is not the case, however, that given any formula \(\varphi(x,y_1,\ldots ,y_n)\), and sets \(B_1,\ldots ,B_n\), one can form the set of all those sets that satisfy the formula \(\varphi(x,B_1,\ldots ,B_n)\). For let \(\varphi(x)\) be the formula \(\neg x \in x\). If \(A\) were the set of all sets that satisfy the formula, then \(A\in A\) if and only if \(\neg A \in A\). A contradiction! This contradiction is known as *Russell&rsquo;s paradox*, after Bertrand Russell, who discovered it in 1901 (see the entry on Russell&rsquo;s paradox).
+It is not the case, however, that given any formula \(\varphi(x,y_1,\ldots ,y_n)\), and sets \(B_1,\ldots ,B_n\), one can form the set of all those sets that satisfy the formula \(\varphi(x,B_1,\ldots ,B_n)\). For let \(\varphi(x)\) be the formula \(\neg x \in x\). If \(A\) were the set of all sets that satisfy the formula, then \(A\in A\) if and only if \(\neg A \in A\). A contradiction! This contradiction is known as *Russell’s paradox*, after Bertrand Russell, who discovered it in 1901 (see the entry on Russell’s paradox).
 
 ### 4. Ordinals
 
@@ -210,9 +210,9 @@ The cardinality of any set \(A\), denoted by \(|A|\), is the unique cardinal num
 
 - Devlin, K., 1979, *Fundamentals of Contemporary Set Theory*, Undergraduate Texts in Mathematics, Springer, Second edition 1993, The Joy of Sets: Fundamentals of Contemporary Set Theory. Undergraduate Texts in Mathematics, New York: Springer.
 - Enderton, H.B., 1977, *Elements of Set Theory*, New York: Academic Press.
-- Jech, T. and K. Hrba&#269;ek, 1978 [1999], *Introduction to set theory*, New York: Marcel Dekker, 3rd edition 1999.
+- Jech, T. and K. Hrbaček, 1978 [1999], *Introduction to set theory*, New York: Marcel Dekker, 3rd edition 1999.
 
-Copyright &copy; 2023 by Joan Bagaria &lt;*joan&#46;bagaria&#64;icrea&#46;cat*&gt;
+Copyright © 2023 by Joan Bagaria <*joan.bagaria@icrea.cat*>
 
 #### Browse
 
@@ -246,6 +246,6 @@ View this site from another server:
 
 - Info about mirror sites
 
-The Stanford Encyclopedia of Philosophy is copyright &copy; 2023 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
+The Stanford Encyclopedia of Philosophy is copyright © 2023 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
 
 Library of Congress Catalog Data: ISSN 1095-5054
