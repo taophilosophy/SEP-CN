@@ -6,16 +6,25 @@
 
 | 原文 | 译法 | 首现 | 裁定日期 |
 | ---- | ---- | ---- | -------- |
+| absolute idealism | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 2026-10-27 |
+| anomalous monism | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 2026-10-27 |
 | aphanes | 不可知觉的东西 | alcmaeon | 2026-10-26 |
+| Chancellor | 总务长 | 词汇表复核（源提交 bbeff276） | 2026-10-27 |
+| Constitution | 构成（康德语境）；构造（胡塞尔 Konstitution）；宪法（政治语境） | 词汇表复核（源提交 b27b33bd） | 2026-10-27 |
 | doxographical tradition / doxography | 学说史传统／学说汇编 | alcmaeon | 2026-10-26 |
 | Inference to the Best Explanation | 最佳解释推理 | abduction | 2026-10-26 |
 | isonomia | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 2026-10-26 |
 | kenon | 空腔 | alcmaeon | 2026-10-26 |
 | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 2026-10-26 |
+| Nominalism | 唯名论 | 词汇表复核（源提交 36fd04fd） | 2026-10-27 |
 | physiologos / physiologoi | 论自然者（前苏格拉底自然哲学家） | alcmaeon | 2026-10-26 |
 | poroi | 通道 | alcmaeon | 2026-10-26 |
+| problem of universals / universals | 共相问题／共相（与“殊相”相对；勿译“普遍性问题”） | 词汇表复核 | 2026-10-27 |
+| structural realism | 结构实在论（“结构现实主义”是国际关系理论译名，勿混） | 词汇表复核 | 2026-10-27 |
 | suniêmi | 汇通（译作“理解/汇通”，指集合感官信息的能力） | alcmaeon | 2026-10-26 |
 | tekmairesthai | 凭征象推断 | alcmaeon | 2026-10-26 |
+| Token / type | 殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞） | 词汇表复核 | 2026-10-27 |
+| warrant | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 2026-10-27 |
 
 ## 人名（古典人名有千年通行译名者用汉译并首次括注英文；现代学者人名一律保留英文）
 
