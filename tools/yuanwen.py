@@ -154,9 +154,10 @@ def inline_to_md(html, slug=None):
     s = unescape(s)
     s = re.sub(r'[ \t\r\n\f\v]+', ' ', s).strip()
     for idx, val in enumerate(store):
-        # 恢复的数学内容：实体解码 + 定界符统一为 LaTeX（$…$ / $$…$$，
-        # 用户 2026-10-27 新增要求）；sub/sup 已在占位前转纯文本
-        v = unescape(val)
+        # 恢复的数学内容：实体解码 + 定界符统一为 LaTeX（$…$ / $$…$$）；
+        # sub/sup 已在占位前转纯文本。内部空白折叠为单空格（LaTeX 语义
+        # 不依赖空白；保留源换行会让 md 行内 $ 计数失衡），其余字符原样
+        v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
         if v.startswith('\\(') and v.endswith('\\)'):
             v = '$' + v[2:-2] + '$'
         elif v.startswith('\\[') and v.endswith('\\]'):
@@ -183,7 +184,17 @@ def table_to_md(inner, slug):
 
 def _cell(cell_html, slug):
     t = inline_to_md(cell_html, slug)
-    return t.replace('|', '\\|') or ' '
+    # 表格竖线转义只作用于数学之外；数学内容里的 | 若被转成 \| 会改语义
+    # （LaTeX \| = ‖），故数学段内的 | 用 &#124; 实体保真（渲染时还原为 |）
+    parts = re.split(r'(\$\$.*?\$\$|\$[^$\n]*\$)', t, flags=re.S)
+    out = []
+    for i, p in enumerate(parts):
+        if i % 2:  # 数学段
+            out.append(p.replace('|', '&#124;'))
+        else:
+            out.append(p.replace('|', '\\|'))
+    t = ''.join(out)
+    return t or ' '
 
 
 def list_to_md(inner, ordered, slug, indent=0):
@@ -219,6 +230,16 @@ def figure_to_md(inner, slug):
         cap = inline_to_md(fl.group(1), slug)
         if cap:
             out.append('*%s*' % cap)
+    # 图注与其余内容不再丢弃（2026-10-27 数学保真裁定：SEP 常把表格、公式
+    # 段落整个包进 <div class="figure">，丢弃即丢公式——须完整渲染剩余块）
+    rest = re.sub(r'<img[^>]*>', '', inner, flags=re.I)
+    rest = re.sub(r'<span class="figlabel">.*?</span>', '', rest, flags=re.S | re.I)
+    if rest.strip():
+        sub = Ctx(slug)
+        render_blocks(extract_blocks_raw(rest), sub)
+        body = '\n'.join(sub.out).strip()
+        if body:
+            out.append(body)
     return '\n\n'.join(out)
 
 
