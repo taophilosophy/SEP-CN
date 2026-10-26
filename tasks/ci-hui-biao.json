@@ -24,6 +24,13 @@
       "actor": "zcode-词汇表复核",
       "at": "2026-10-27T02:45:00+08:00",
       "evidence": "从裁定短语提交增补 5 条：Chancellor→总务长（bbeff276）、Philip the Chancellor→总务长菲利普（fd678a4e）、Constitution→构成（b27b33bd）、Nominalism→唯名论（36fd04fd）、anomalous monism→变异一元论（48adaba4）"
+    },
+    {
+      "step": "term-harvest-2026-10-27",
+      "status": "ok",
+      "actor": "zcode-词汇表复核",
+      "at": "2026-10-27T04:00:00+08:00",
+      "evidence": "script/extract_terms.py 对 14 件本地语料（11 个 yuanwen 镜像 + 2 个 en/txt）五路提取（引语术语/斜体/句中人名/-ism 词族/高频概念短语），与已登记 592 条求差；55 条候选带建议译法固化入 tasks/term-candidates.json，待裁定"
     }
   ],
   "todo": [
@@ -45,6 +52,10 @@
         },
         {
           "item": "裁定沿革留痕：Token 一词 2024-05-11 43ea5ea2 裁“个体”（令牌→个体），2026-10-27 复核改裁“殊例”（消除与 Individuals 的中文碰撞），沿革记入 fang-fa-lun/ci-hui-biao-fu-he-bao-gao.md，不进发布表",
+          "status": "pending"
+        },
+        {
+          "item": "裁定 tasks/term-candidates.json 中 55 条候选（suggest 列为建议译法，标待核者需联网复核）：通过者登记 yi-zhe-shuo-ming.md 后并入 qian-yan/ci-hui-biao.md；语料扩充（新增词条抓取）后重跑 script/extract_terms.py 增量提取",
           "status": "pending"
         }
       ]
