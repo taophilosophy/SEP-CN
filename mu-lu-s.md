@@ -874,7 +874,6 @@ outline: [1, 6]
 
 ### 模态逻辑（可能世界、道义逻辑）
 
-* [未来偶然性 future contingents (Peter Øhrstrøm and Per Hasle)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/README.md)
 * [中世纪的未来偶然性理论 medieval theories of (Simo Knuuttila)](f/wei-lai-ou-ran-shi-jian-future-contingents-peter-hrstrm-and-per-hasle/zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun-medieval-theories-of-simo-knuuttila.md)
 * [广义量词 generalized quantifiers (Dag Westerståhl)](g/guang-yi-liang-ci-generalized-quantifiers-dag-westersthl.md)
 * [超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan)](h/chao-nei-han-xing-hyperintensionality-francesco-berto-and-daniel-nolan.md)
