@@ -98,7 +98,7 @@ python script/extract_terms.py        # 术语候选提取（语料扩充后重�
 
 **双门禁分工**（两门都过才算术语层全绿）：`tools/check_terms.py`（specs/002，CI 侧）做译法**集合**比对——登记簿与发布表译法集合互斥为硬错误、真子集为滞后告警，另查登记册自洽（废弃行、裁定日期、同键重复）；`script/glossary_lint.py`（本标准，写作侧）做英文键**归一**与结构检查——变音/强折叠、坏行、重名消歧、词序倒置、词缀包含、表格边界。登记簿人名表现为 4 列（原文、译法、备注、裁定日期），与术语表对齐。
 
-markdownlint 以仓库根 `.markdownlint-cli2.jsonc` 为准（CI 同源），不再传 `--config .github/.markdownlint.json`；表格一律紧凑风格（单元格内侧不加空格，MD060）。check_all 对 `mu-lu-s.md`（用户裁定只检测不改动）、`specs/**`（他会话产物）、`guan-yu/**`（既有页面历史格式违规，待归属会话以 `script/fix_table_style.py` 机械修复）与 `.github/sep-sync-report/**`（管线自动生成物）予以豁免，其余文件非 0 即阻断。工具批量修复前必须先在单个文件上验证 diff——2026-10-27 曾因正则吞换行把 guan-yu 三页的多行表格拼成一行，已回滚（S3 教训同样适用于工具变更）。
+markdownlint 以仓库根 `.markdownlint-cli2.jsonc` 为准（CI 同源），不再传 `--config .github/.markdownlint.json`；表格一律紧凑风格（单元格内侧不加空格，MD060）。check_all 对 `mu-lu-s.md`（用户裁定只检测不改动）、`specs/**`（他会话产物）、`guan-yu/**` 与 `pending/**`（既有页面历史格式违规/WIP，待归属会话以 `script/fix_table_style.py` 机械修复）与 `.github/sep-sync-report/**`（管线自动生成物）予以豁免，其余文件非 0 即阻断。工具批量修复前必须先在单个文件上验证 diff——2026-10-27 曾因正则吞换行把 guan-yu 三页的多行表格拼成一行，已回滚（S3 教训同样适用于工具变更）。
 
 ## S8 提交与会话纪律
 

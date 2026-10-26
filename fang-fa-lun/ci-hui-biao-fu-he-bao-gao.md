@@ -100,6 +100,18 @@ v2 首轮即抓出两处“报告已记、执行漏改”的行（Argument、Asp
 * 同姓异人 → 泛指/简称行必须带消歧备注（lint 观照名单：albert、more、samuel、cohen、wilson、williams、sturm、bell、ammonius），已为 7 个裸姓氏行补写消歧注，如 Albert 行指向大阿尔伯特与萨克森的阿尔伯特两条专条；贝尔定理的 John Stewart Bell 与逻辑学家 John L. Bell 亦在册；
 * 术语别名 → 备注记“又称”（堆垛悖论又称连锁悖论、谷堆悖论、累积悖论）。
 
+## 学术规范专项走查（2026-10-27 第五轮）
+
+按标准 v1.0 与正反误用手册的规范条目（R1 译名有据／R2 依据留痕／R3 键规范／R4 一致性／R5 人名体例／R6 书名出版译名／R7 正反误用／R8 格式）对 706 行再次全量走查。先经程序化漂移核对：他会话整表重写（目录重组连带）零译名值漂移，唯一变化为其按登记册对齐 Theophrastus→特奥弗拉斯托斯（合法归一）。人工走查修正 11 处一致性/字符问题：
+
+* **人名通译统一**：Alfred Tarski 阿尔弗莱德→阿尔弗雷德·塔尔斯基；Francis Hutcheson 弗兰西斯→弗朗西斯·哈奇森（与 Francis Bacon 一致）；Franz Brentano 弗朗兹→弗朗茨·布伦塔诺；Anicius Manlius Severinus Boethius 全名“亚尼修·玛理乌斯·塞味利诺”非标准形→“阿尼修斯·曼利乌斯·塞维利努斯·波爱修斯”。
+* **Beauvoir 全表统一**：波伏娃→波伏瓦（上海译文及学界通行形），含 Simone de Beauvoir 行；备注注明“亦作波伏娃”。
+* **字符规范**：François-Marie d'Arouet 行分隔符“‧”（U+2027）误植→间隔号“·”。
+* **译法变体分隔统一**：Conventionality、Simultaneity、property 三行的半宽斜杠→分号（与他行“；”风格一致）。
+* **备注润色**：Peter Abelard 行措辞理顺。
+
+会话间漂移说明：并行会话将旧版 guan-yu 页面迁入 `pending/` 目录重整，check_all 豁免清单随之更新（guan-yu 之外加 pending 目录）；期间他会话还按登记册对齐了 Theophrastus 译名并自行补充 4 条术语（856b7d21），双通道流程运转正常。
+
 ## 去重合并规则 v3（2026-10-27 第四轮）
 
 词汇表规模达 707 行后，原有折叠去重不足以覆盖变体形态，glossary_lint 升级 v3，新增三层检测：**强折叠层**（fold2：属格 's 残留、英式/美式拼写、-isation 类后缀归一，白名单 FOLD2_SAME_OK 承接 bell theorem、skepticism、单复数等有意变体）、**词序倒置**（词多重集相同且折叠键不同才报）、**词缀包含一致性**（token 序列包含的行对，被包含键 ≥2 词，译名按斜杠分项后互不为子串且双方无消歧备注才报）。
