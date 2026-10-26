@@ -141,7 +141,6 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'SEP 简体中文版',
   description: '斯坦福哲学百科全书（SEP）简体中文翻译项目，与英文原文对照阅读',
-  srcDir: repoRoot,
   srcExclude: [
     '**/SUMMARY.md',
     'node_modules/**',
