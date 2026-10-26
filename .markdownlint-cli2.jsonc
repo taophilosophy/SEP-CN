@@ -60,7 +60,8 @@
     "!script/**",
     "!node_modules/**",
     "!.zcode/**",
-    "!.specify/templates/**"
+    "!.specify/templates/**",
+    "!.github/sep-sync-report/**"
   ],
   // bun.lock 等非内容文件
   "ignoreGlobs": [
