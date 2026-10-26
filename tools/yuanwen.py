@@ -39,6 +39,14 @@ SKIP_DIV_RE = re.compile(r'\btoc\b', re.I)
 CROSS_MATH_RE = re.compile(r'(\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 CROSS_BLOCK_TAG_RE = re.compile(
     r'</?(?:p|div|table|ul|ol|blockquote|h[1-6]|dl|pre)\b', re.I)
+# SEP 用 <!--pdf include <table>…--> / <!--pdf exclude begin--> 注释开关
+# 切换 PDF/HTML 两版内容；正确闭合的注释须在切块前剥除，否则切分器会把
+# 注释里的标签当真块（编辑性注释政策一贯为丢弃）
+COMMENT_RE = re.compile(r'<!--.*?-->', re.S)
+
+
+def strip_closed_comments(region):
+    return COMMENT_RE.sub('', region)
 
 
 def protect_cross_block_math(region):
@@ -109,6 +117,9 @@ def extract_blocks_raw(html):
     while i < n:
         m = BLOCK_OPEN_RE.search(html, i)
         if not m:
+            # 无更多块标签：剩余纯文本（无 <p> 包装的引文、块尾残余）不得丢弃
+            if html[i:].strip():
+                blocks.append({'type': 'p', 'attrs': '', 'inner': html[i:]})
             break
         gap = html[i:m.start()]
         if gap.strip():
@@ -200,7 +211,29 @@ def inline_to_md(html, slug=None):
     return s
 
 
-def table_to_md(inner, slug):
+NESTED_TABLE_RE = re.compile(r'<table[^>]*>.*?</table>', re.S | re.I)
+
+
+def _flatten_nested_tables(html, slug, depth=0):
+    """最内层优先，把嵌套表展平为单元格内文本（markdown 不支持嵌套表；
+    非贪婪的 td 匹配会被内层 </td> 截断导致外层单元格内容丢失）。"""
+    if depth > 4:
+        return html
+    while True:
+        best = None
+        for m in NESTED_TABLE_RE.finditer(html):
+            if '<table' not in m.group(0)[6:]:
+                best = m
+                break
+        if best is None:
+            return html
+        flat = table_to_md(best.group(0), slug, depth + 1).replace('\n', ' ')
+        html = html[:best.start()] + '（嵌套表：' + flat + '）' + html[best.end():]
+
+
+def table_to_md(inner, slug, depth=0):
+    if depth == 0:
+        inner = _flatten_nested_tables(inner, slug)
     rows = []
     for rm in re.finditer(r'<tr[^>]*>(.*?)</tr>', inner, re.S | re.I):
         cells = [_cell(c, slug)
@@ -327,18 +360,15 @@ def render_blocks(blocks, ctx):
             else:
                 ctx.emit('', text)
         elif t == 'blockquote':
-            ctx.emit('')
-            tm = re.search(r'<table[^>]*>.*?</table>', inner, re.S | re.I)
-            rest = inner
-            if tm:
-                for ln in table_to_md(tm.group(0), ctx.slug).split('\n'):
-                    ctx.emit('> ' + ln)
-                rest = inner[:tm.start()] + inner[tm.end():]
-            chunks = re.findall(r'<p[^>]*>(.*?)</p>', rest, re.S | re.I) or [rest]
-            for ch in chunks:
-                txt = inline_to_md(ch, ctx.slug)
-                if txt:
-                    ctx.emit('> ' + txt)
+            # 引文块内完整渲染（2026-10-27 数学保真裁定）：旧实现只挑 <p>，
+            # 会丢引文中的裸展示公式（p 间 gap）与无 <p> 包装的列表项
+            sub = Ctx(ctx.slug)
+            render_blocks(extract_blocks_raw(inner), sub)
+            body = '\n'.join(sub.out).strip()
+            if body:
+                ctx.emit('')
+                for ln in body.split('\n'):
+                    ctx.emit('> ' + ln if ln.strip() else '>')
         elif t == 'table':
             ctx.emit('', table_to_md(inner, ctx.slug))
         elif t == 'figure':
@@ -384,13 +414,17 @@ def build_cite_keys(entry_texts):
             continue
         continued = text.startswith('–––') or text.startswith('———')
         ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-e]?)\b', text)
-        if not ym:
-            continue
-        year, suffix = ym.group(1), ym.group(2)
+        year, suffix = (ym.group(1), ym.group(2)) if ym else (None, '')
         if continued:
             surnames = list(prev_surnames)
+            if not surnames:
+                # 文献表以续行（———）开头且无前条可继承：跳过该条
+                continue
         else:
-            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*\.?", text[:ym.start()])
+            # 无年份条目（如版本卷次引用）：作者名在条目头部，
+            # 取前 120 字符做姓氏扫描——此类条目不得整条丢弃
+            scan_to = ym.start() if ym else min(len(text), 120)
+            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*\.?", text[:scan_to])
             surnames = [t.rstrip('.') for t in toks
                         if not re.fullmatch(r"[A-ZÀ-ÿ]\.?", t)
                         and t.rstrip('.').lower() not in ('and', 'the', 'in', 'on', 'eds',
@@ -403,15 +437,18 @@ def build_cite_keys(entry_texts):
         first = surnames[0]
         joined = ' '.join(surnames)
         acronym = ''.join(s[0] for s in surnames) if len(surnames) >= 2 else ''
-        base = ('%s-%s%s' % (first, year, suffix)).lower()
+        # 无年份条目用 -nd 键；不生成文内标记 pats，但定义行必须保留，
+        # 否则整条文献（含其中公式）从产物消失
+        base = ('%s-%s%s' % (first, year or 'nd', suffix)).lower()
         seen[base] = seen.get(base, 0) + 1
         key = base if seen[base] == 1 else '%s-%d' % (base, seen[base])
         pats = []
-        for name in (joined, first, acronym):
-            if name and len(name) >= 3:
-                pats.append(re.compile(
-                    re.escape(name) + r'[^,;()\[\]]{0,60}?\b' +
-                    re.escape(year) + re.escape(suffix) + r'\b'))
+        if ym:
+            for name in (joined, first, acronym):
+                if name and len(name) >= 3:
+                    pats.append(re.compile(
+                        re.escape(name) + r'[^,;()\[\]]{0,60}?\b' +
+                        re.escape(year) + re.escape(suffix) + r'\b'))
         keys.append({'key': key, 'pats': pats, 'text': text})
     return keys
 
@@ -442,28 +479,39 @@ def link_citations(md_text, keys):
 # ------------------------------------------------------------ notes/supp ----
 
 def convert_notes(html, slug):
-    """notes.html → [^note-n]: 文本 列表（顺带保留无编号说明段）。"""
+    """notes.html → [^note-n]: 文本 列表。
+
+    编号注段 → [^note-n] 定义行；其余块（<dl> 公理列表、表格、无 <p> 包装的
+    展示公式等）一律完整保留（2026-10-27 数学保真裁定，不得过滤）。
+    """
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
+    article = strip_closed_comments(article)
     article, stash = protect_cross_block_math(article)
     defs = []
     for b in extract_blocks_raw(article):
-        if b['type'] != 'p':
-            continue
-        inner = b['inner']
-        nm = re.match(r'\s*<a href="index\.html#(?:note-)?([A-Za-z0-9_-]+)"[^>]*>\s*\d*\.?\s*</a>',
-                      inner, re.I)
-        if nm:
-            defs.append('[^note-%s]: %s' % (nm.group(1), inline_to_md(inner[nm.end():], slug)))
+        if b['type'] == 'p':
+            inner = b['inner']
+            nm = re.match(r'\s*<a href="index\.html#(?:note-)?([A-Za-z0-9_-]+)"[^>]*>\s*\d*\.?\s*</a>',
+                          inner, re.I)
+            if nm:
+                defs.append('[^note-%s]: %s' % (nm.group(1), inline_to_md(inner[nm.end():], slug)))
+            else:
+                txt = inline_to_md(inner, slug)
+                if txt:
+                    defs.append(txt)
         else:
-            txt = inline_to_md(inner, slug)
-            if txt:
-                defs.append(txt)
+            sub = Ctx(slug)
+            render_blocks([b], sub)
+            body = '\n'.join(sub.out).strip()
+            if body:
+                defs.append(body)
     return [restore_cross_block_math(d, stash) for d in defs]
 
 
 def convert_supplement(html, slug, base):
     ctx = Ctx(slug)
+    html = strip_closed_comments(html)
     html, stash = protect_cross_block_math(html)
     render_blocks(extract_blocks_raw(html), ctx)
     text = restore_cross_block_math('\n'.join(ctx.out).strip() + '\n', stash)
@@ -495,6 +543,7 @@ def convert_entry(slug):
     html = read_text(idx_path)
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
+    article = strip_closed_comments(article)
     article, stash = protect_cross_block_math(article)
     tm = re.search(r'<meta name="citation_title" content="([^"]*)"', html)
     authors = [unescape(a) for a in

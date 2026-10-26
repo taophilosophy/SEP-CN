@@ -124,6 +124,6 @@
 
 ## 移交状态
 
-- 我方成果：转换器（34 单测全绿）、summary_sync 裁决/增/删/改/去重、65 条 ADD 裁决表、迁移计划与执行器。
-- 对方成果：根级语义目录重构（进行中）、VitePress 双语站、进度系统（PROGRESS.md/progress.py/manifest 裁定）。
-- **待办（对方重构完成后）**：①重跑 migrate_exec/链接收敛至 0 断链；②baseline.zh_doc 全量重同步；③65 条 ADD 按新布局落位；④mu-lu-s 链接同步。
+* 我方成果：转换器（34 单测全绿）、summary_sync 裁决/增/删/改/去重、65 条 ADD 裁决表、迁移计划与执行器。
+* 对方成果：根级语义目录重构（进行中）、VitePress 双语站、进度系统（PROGRESS.md/progress.py/manifest 裁定）。
+* **待办（对方重构完成后）**：①重跑 migrate_exec/链接收敛至 0 断链；②baseline.zh_doc 全量重同步；③65 条 ADD 按新布局落位；④mu-lu-s 链接同步。

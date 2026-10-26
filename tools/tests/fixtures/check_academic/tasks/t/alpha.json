@@ -1,0 +1,16 @@
+{
+  "slug": "alpha",
+  "kind": "retranslate",
+  "zh_doc": "argument/alpha-zhang-san.md",
+  "state": "s1_checked",
+  "created_at": "2026-10-27T00:00:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jul 18, 2025",
+    "archive_edition": "Fall 2025",
+    "sha256": "abc123"
+  },
+  "steps": [
+    {"step": "clear", "status": "done", "actor": "test", "at": "2026-10-27T00:00:00Z", "evidence": "e1"}
+  ],
+  "blockers": []
+}

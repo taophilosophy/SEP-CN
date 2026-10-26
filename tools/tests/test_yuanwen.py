@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """yuanwen 转换器单测：行内净化、引用注释、in_bib 边界（演示轮 2 复核）。"""
 import os
+import re
 import sys
 import unittest
 
@@ -8,7 +9,9 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 sys.path.insert(0, REPO)
 
 from tools.yuanwen import (  # noqa: E402
-    build_cite_keys, extract_blocks_raw, inline_to_md, link_citations, render_blocks, Ctx)
+    build_cite_keys, extract_blocks_raw, inline_to_md, link_citations,
+    protect_cross_block_math, render_blocks, restore_cross_block_math,
+    strip_closed_comments, Ctx)
 
 
 class TestInline(unittest.TestCase):
@@ -87,6 +90,75 @@ class TestCitations(unittest.TestCase):
         keys = build_cite_keys(['Zhmud, L., 2012a, Pythagoras and the Early Pythagoreans.'])
         self.assertEqual(keys[0]['key'], 'zhmud-2012a')
         self.assertTrue(any('Zhmud' in p.pattern for p in keys[0]['pats']))
+
+    def test_yearless_entry_kept(self):
+        # 无年份文献条目（版本卷次引用）不得整条丢弃，否则条内公式随之消失
+        keys = build_cite_keys(['Leibniz, G.W., Sämtliche Schriften und Briefe, '
+                                'Berlin: Akademie Verlag; abbreviated [A].'])
+        self.assertEqual(len(keys), 1)
+        self.assertTrue(keys[0]['key'].startswith('leibniz-nd'))
+        self.assertEqual(keys[0]['pats'], [])
+
+
+class TestMathFidelity(unittest.TestCase):
+    """2026-10-27 数学保真裁定的回归测试（全量抓取轮发现的丢失路径）。"""
+
+    def test_extract_keeps_tagless_content(self):
+        # 无任何块级标签的内容不得整体丢弃（bohr-correspondence 引文案例）
+        blocks = extract_blocks_raw('plain quote with \\(m = 0\\) math')
+        text = '\n'.join(inline_to_md(b['inner'], 't') for b in blocks)
+        self.assertIn('m = 0', text)
+
+    def test_blockquote_keeps_gap_math_and_lists(self):
+        # 引文块内 p 间裸展示公式与无 <p> 包装列表项不得丢弃
+        html = ('<p>given by</p>\\[\\tau_1 = x\\]<p>after</p>'
+                '<ul><li>plain li with \\(y\\)</li></ul>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('$$\\tau_1 = x$$', text)
+        self.assertIn('plain li with $y$', text)
+
+    def test_figure_keeps_caption_formula(self):
+        # SEP 常把表格+图注包进 div.figure；图注公式不得丢
+        html = ('<div class="figure"><table><tr><td>\\(a\\)</td></tr></table>'
+                '<p><span class="figlabel">Table 2:</span> a \\(2 \\times 2\\) table</p></div>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('2 \\times 2', text)
+
+    def test_nested_table_cells_not_lost(self):
+        # 嵌套表：非贪婪 td 匹配曾被内层 </td> 截断，外层单元格内容丢失
+        html = ('<table><tr><td>outer</td>'
+                '<td>inner<table><tr><td>x</td><td>y</td></tr></table></td>'
+                '<td>\\(z\\)</td></tr></table>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(html), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('outer', text)
+        self.assertIn('x', text)
+        self.assertIn('$z$', text)
+
+    def test_cross_block_display_math(self):
+        # 横跨块级标签的展示公式整体保护，不腰斩；还原保持原始字节（零信任保真）
+        region, stash = protect_cross_block_math('<p>\\[a <p>b\\]</p>')
+        self.assertEqual(len(stash), 1)
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(region), ctx)
+        text = restore_cross_block_math('\n'.join(ctx.out), stash)
+        self.assertIn('$$a <p>b$$', re.sub(r'\s+', ' ', text))
+
+    def test_pdf_comment_toggles_stripped(self):
+        # SEP 的 <!--pdf include <table>…--> 注释开关不参与切块，注释内容丢弃
+        html = ('<div class="figure">'
+                '<!--pdf include <table id="x"><tr><td>pdf</td></tr></table> pdf include-->'
+                '<p>caption \\(c\\)</p></div>')
+        ctx = Ctx('t')
+        render_blocks(extract_blocks_raw(strip_closed_comments(html)), ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('$c$', text)
+        self.assertNotIn('pdf', text)
 
 
 if __name__ == '__main__':

@@ -97,3 +97,5 @@ View this site from another server:
 The Stanford Encyclopedia of Philosophy is copyright © 2025 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
 
 Library of Congress Catalog Data: ISSN 1095-5054
+
+$('.dropdown-toggle').dropdown();

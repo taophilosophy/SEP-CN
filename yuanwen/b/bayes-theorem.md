@@ -226,6 +226,8 @@ When odds measure total evidence neither ***PR***(*H*, *E*) nor ***LR***(*H*, *H
 
 The third view, "likelihoodism," is popular among non-Bayesian statisticians. Its proponents deny evidence proportionism. They maintain that a person's subjective probability for a hypothesis merely reflects her degree of uncertainty about its truth; it need not be tied in any way to the amount of evidence she has in its favor.[^note-15] It is likelihood ratios, not subjective probabilities, which capture the "scientifically meaningful" evidential relations. Here are two classic statements of the position.
 
+> All the information which the data provide concerning the relative merits of two hypotheses is contained in the likelihood ratio of the hypotheses on the data. (Edwards 1972, 30)[^edwards-1972]
+>
 > The ‘evidential meaning’ of experimental results is characterized fully by the likelihood function… Reports of experimental results in scientific journals should in principle be descriptions of likelihood functions. (Brinbaum 1962, 272)
 
 On this view, everything that can be said about the evidential import of *E* for *H* is embodied in the following generalization of the weak likelihood principle:
@@ -294,7 +296,11 @@ On the reasonable assumption that **Q** is defined on the same set of propositio
 > | --- | --- |
 > |   | If *H* and *H** both entail *E* when **P**(*H*) > **P**(*H**), then ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) > 1. |
 > |   | Proof Sketch |
-> **(3.6)** **Lemma** Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) > 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H** both entail *E*, then **P**(*H*) ≥ **P**(*H**) if and only if **Q**(*H*) ≥ **Q**(*H**). Proof Sketch
+>
+> | **(3.6)** | **Lemma** |
+> | --- | --- |
+> |   | Simple conditioning on *E* is the only rule for revising subjective probabilities that yields a posterior with the following properties for *any* prior such that **P**(*E*) > 0: **Q**(*E*) = 1. *Ordinal Similarity*. If *H* and *H** both entail *E*, then **P**(*H*) ≥ **P**(*H**) if and only if **Q**(*H*) ≥ **Q**(*H**). |
+> |   | Proof Sketch |
 
 From here the argument for simple conditioning is a matter of using (3.4) and (3.5) to establish ordinal similarity. Suppose that *H* and *H** entail *E* and that **P**(*H*) > **P**(*H**). It follows from (3.5) that ***LR***(*H*, *H**; *E*) = 1 and ***LR***(~*H*, ~*H**; ~*E*) > 1. (3.4) then entails that any learning experience that raises *E*'s probability must result in a posterior with **Q**(*H*) > **Q**(*H**). Thus, **Q** and **P** are ordinally similar with respect to hypotheses that entail *H*. If we go on to suppose that the learning experience raises *E*'s probability to 1, then (3.6) then guarantees that **Q** arises from **P** by simple conditioning on *E*.
 
@@ -333,11 +339,7 @@ While much more can be said about simple conditioning, Jeffrey conditioning and 
 
 ## Other Internet Resources
 
-- Fitelson, B. 2001. *Studies in Bayesian Confirmation Theory*, Ph.D. Dissertation, University of Wisconsin. [[Preprint in PDF available online](http://fitelson.org/thesis.pdf)] (750K download) <!--LINK CHECKER COMMENTED OUT (Wed May 1 14:29:06 PDT 2019)
-- [Bayes' Original Essay](http://www.stat.ucla.edu/history/essay.pdf) (in PDF) (UCLA Statistics Department/[History of Statistics](http://www.stat.ucla.edu/history/)) LINK CHECKER--> <!-- COMMENTED OUT BY LINK CHECKER (Thu Oct 9 04:49:17 2008)
-- [A Portrait, perhaps of Thomas Bayes](http://www.stat.ucla.edu/history/people/bayes.gif) (UCLA Statistics Department/[History of Statistics](http://www.stat.ucla.edu/history/)) --> <!-- COMMENTED OUT BY LINK CHECKER (Thu Oct 25 08:26:11 2007)
-- [Bayesian Inference for the Physical Sciences](http://astrosun.tn.cornell.edu/staff/loredo/bayes/) (Tom Loredo, Astronomy, Cornell) --> <!-- COMMENTED OUT BY LINK CHECKER (Tue Feb 1 03:35:22 2005)
-- [Recently Discovered Manuscripts of Thomas Bayes](http://www.stats.uwo.ca/faculty/bellhouse/bayesmss.pdf) (David Bellhouse, Statistical and Actuarial Sciences, U. Western Ontario) -->
+- Fitelson, B. 2001. *Studies in Bayesian Confirmation Theory*, Ph.D. Dissertation, University of Wisconsin. [[Preprint in PDF available online](http://fitelson.org/thesis.pdf)] (750K download)
 - [A Short Biography of Thomas Bayes](http://www-groups.dcs.st-andrews.ac.uk/%7Ehistory/Mathematicians/Bayes.html) (University of St. Andrews, MacTutor History of Mathematics Archive)
 - [The International Society for Bayesian Analysis (ISBA)](http://www.bayesian.org/)
 
@@ -347,9 +349,14 @@ epistemology: Bayesian | probability, interpretations of
 
 ## Notes（原文脚注）
 
+## Notes to Bayes’ Theorem
+
 [^note-1]: Though one can view conditional probabilities as basic, and even make sense of them when the conditioning event has probability zero, we stick to the standard definition here. Whenever **P***_{E}* appears it is assumed that *E*'s probabilty is positive. For discussion of generalized conditional probabilities and useful references see (Renyi, 1955), (Harper, 1976), (Sphon, 1986), (Hammond, 1994), (McGee, 1994) and (Joyce 1999, 201-213)[^joyce-1999].
 
 [^note-2]: **P***_{E}* must be a real-valued function, bounded between zero and one, that satisfies:
+
+- *Normalization*. **P***_{E}*(***T***) = 1 where ***T*** is any logical truth.
+- *Countable Additivity*. **P***_{E}*(*X*) = Σ_{*i*} **P***_{E}*(*X*_{*i*}) when {*X*_{1}, *X*_{2}, *X*_{3},…} is any set of pairwise incompatible propositions whose disjunction is *X*.
 
 [^note-3]: More generally, if {*E*_{1}, *E*_{2}, *E*_{3},…} is a countable *partition* of evidence propositions, mixing entails that **P**(*H*) = Σ_{i}**P**(*E*_{*i*})** P**_{*E*}*i*(*H*). One can think of the *E*_{*i*} as a set of mutually exclusive and collectively exhaustive results for some experiment. Mixing then says that *H*'s unconditional probability is the *expectation* of it probability conditional on the results of the experiment.
 
@@ -374,6 +381,14 @@ epistemology: Bayesian | probability, interpretations of
 [^note-13]: An alternative would be to take the *logarithm* of each measure. Logarithmic scales are quite different from additive scales, however, since they express quantities in terms of multiples of a common base rather than distances from a common zero. Thus, on a logarithmic scale equal distances represent equal *ratios* of increases in evidence, not equal *increments* of evidence. To compare apples and apples, we must express the multiplicative measures on an additive scale (or the additive ones on a multiplicative scale).
 
 [^note-14]: Consider, for example, two probabilities, **P** and **Q**, related by the following transformation:
+
+> **Q**(*X*) = *h***P**_{*H*}(*X*) + [**P**(*E*) − *h***P**_{*H*}(*E*)]**P**_{ ~*H* & *E*}(*X*) + [**P**(~*E*) − *h***P**_{*H*}(~*E*)]**P**_{ ~*H* & ~*E*}(*X*)
+
+where 1**/*****PR***(*H*, *E*) > **Q**(*H*) = *h* > 0. The reader may verify that the **Q** and **P** probability ratios are the same, but that the **Q**-probability difference is **Q**(*H*)**/****P**(*H*) times the **P**-probability difference. Similarly, if **P** and **Q** are related by
+
+> **Q**(*X*) = *h***P**_{*H*}(*X*) + (1 − *h*)**P**_{~*H*}(*X*)
+
+where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even though their odds differences are a factor of [**Q**(*H*)**/****Q**(~* H*)]**/**[**P**(*H*)**/**** P**(~*H*)] apart.
 
 [^note-15]: For a clear statement of this position see (Royall 1997, 8-11)[^royall-1997].
 

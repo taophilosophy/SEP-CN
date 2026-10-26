@@ -323,11 +323,15 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 
 ## Notes（原文脚注）
 
+## Notes to Willard Van Orman Quine
+
 [^note-ref-1]: We focus here on the issue of how stimulation patterns are to be divided into types. Responses—primarily utterances—are also specific events which need to be grouped into types if we are to correlate them with stimulation patterns. We shall, however, ignore that issue here.
 
 [^note-ref-2]: Somewhat less roughly: *A* is perceptually similar to *B* than it is to *C* if *A* evokes a response which has been conditioned to stimulation patterns receptually similar to *B* but does not evoke a response conditioned to patterns receptually similar to *C*.
 
 [^note-ref-3]: Extensionality also requires that replacing a singular term in a sentence by another with the same reference leave the truth-value of the sentence unchanged. The requirement perhaps has more evident plausibility than the others but it plays no role in Quine’s fully regimented theory because in that theory singular terms are eliminated by the technique of Russell’s analysis of definite descriptions. Given weak and plausible assumptions, the three requirements stand or fall together; see, for example, Quine, 1995, 91.
+
+[^willard-nd]: [Willard Van Orman Quine’s Professional Essays, Articles, Reviews, Abstracts, Unpublished Manuscripts, Lectures, and Remarks](http://www.wvquine.org/wvq-publish.html), maintained by Douglas Boynton Quine.
 
 [^see-1986]: See also the bibliography in Edwin Hahn and Paul Arthur Schilpp (eds.), 1986, *The Philosophy of W. V. Quine*, Peru, IL: Open Court; second, expanded edition, 1998, which is complete up to 1997.
 
@@ -486,6 +490,8 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 [^severo-2008]: Severo, Rogério, 2008, “‘Plausible insofar as it is intelligible’: Quine on underdetermination”. *Synthese*, 161(1): 141–165.
 
 [^sinclair-2016]: Sinclair, Robert, 2016, “On Quine’s Debt to Pragmatism: C. I. Lewis and the Pragmatic A Priori”, in Janssen-Lauret and Kemp (eds.) 2016, 76–99.
+
+[^sinclair-nd]: –––,*Quine, Conceptual Pragmatism, and the Analytic-Synthetic Distinction*, London: Rowan & Littlefield.
 
 [^smith-2014]: Smith, Barry, 2014, “Quine and Chomsky on the Ins and Outs of Language”, in G. Harman and E. Lepore (eds.), *A Companion to W. V. O. Quine*, Oxford: Blackwell, pp. 483–507.
 

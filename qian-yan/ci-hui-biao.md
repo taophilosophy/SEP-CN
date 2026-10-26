@@ -43,7 +43,7 @@
 |Alexander Gerard|亚历山大·杰拉德||
 |Alexander of Aphrodisias|阿佛洛狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；中文维基百科作“阿佛洛狄西亚的亚历山大”|
 |Alfred North Whitehead|阿尔弗雷德·诺思·怀特海|国家图书馆规范标目亦作“艾尔弗雷德·诺思·怀特海”|
-|Alfred Tarski|阿尔弗莱德·塔尔斯基||
+|Alfred Tarski|阿尔弗雷德·塔尔斯基|通译“阿尔弗雷德”，与怀特海行用字一致|
 |All Men are Mortal|人都是要死的||
 |Allan Ramsay|艾伦·拉姆齐||
 |Alternative Axiomatic Set Theories|替代性公理集合论||
@@ -55,7 +55,7 @@
 |Anaximander|阿那克西曼德||
 |Anaximenes|阿那克西美尼||
 |ancient philosophy|古代哲学||
-|Anicius Manlius Severinus Boethius|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
+|Anicius Manlius Severinus Boethius|阿尼修斯·曼利乌斯·塞维利努斯·波爱修斯|全名通译形（《哲学的慰藉》等中译本序言用）；正文通常简称波爱修斯|
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
 |antirealism|反实在论|与 realism 实在论相对|
@@ -88,7 +88,7 @@
 |bayesian confirmation theory|贝叶斯确证理论|confirmation 亦译“确认”，中文学界两译并行|
 |Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯确证理论对应用|
 |beauty|美||
-|Beauvoir|波伏娃||
+|Beauvoir|波伏瓦|上海译文出版社及学界通行“波伏瓦”；亦作“波伏娃”，全库取“波伏瓦”|
 |behaviorism|行为主义||
 |Being and Nothingness|存在与虚无||
 |belief merging|信念合并||
@@ -191,7 +191,7 @@
 |Continuum Hypothesis|连续统假设|“连续统”为本术语固定搭配；泛指时 continuum 译“连续体”，见 continuum 条|
 |contractarianism|自利契约论|霍布斯式传统，以互利自利为基础；亦译“契约论”，与 contractualism 相对|
 |contractualism|非自利契约论|康德—斯坎伦式传统，以向每个人证成为基础；亦译“契约主义”|
-|Conventionality|约定性/约定性的||
+|Conventionality|约定性；约定性的||
 |Conventionality of Simultaneity|同时性的约定性||
 |Copenhagen Interpretation|哥本哈根诠释||
 |correspondence principle|对应原理||
@@ -259,10 +259,10 @@
 |formalism|形式主义|数学基础三派之一（与直觉主义、逻辑主义并列）|
 |Francis Bacon|弗朗西斯·培根||
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
-|Francis Hutcheson|弗兰西斯·哈奇森||
+|Francis Hutcheson|弗朗西斯·哈奇森|Francis 统一译“弗朗西斯”（与 Francis Bacon 一致）|
 |Francisco Suárez|弗朗西斯科·苏亚雷斯||
-|Franz Brentano|弗朗兹·布伦塔诺||
-|François-Marie d’Arouet|弗朗索瓦-马里‧阿鲁埃||
+|Franz Brentano|弗朗茨·布伦塔诺|通译“弗朗茨”|
+|François-Marie d’Arouet|弗朗索瓦-马里·阿鲁埃|伏尔泰本名；旧值分隔符“‧”系误植，正为间隔号“·”|
 |free speech|言论自由|与 academic freedom 学术自由相关联|
 |free variables|自由变元|亦作“自由变项”；与约束变元（bound variables）相对|
 |Friedrich Albert Lange|弗里德里希·阿尔贝特·朗格||
@@ -431,7 +431,7 @@
 |Paul Natorp|保罗·那托普||
 |Perception|知觉||
 |perfectionism|至善论|政治哲学语境（国家促进善生活的学说）|
-|Peter Abelard|彼得·阿伯拉尔|英语翻译为彼得·阿伯拉尔，法语原词为 Pierre Abelard，即皮埃尔·阿伯拉尔|
+|Peter Abelard|彼得·阿伯拉尔|法语原名 Pierre Abelard（皮埃尔·阿伯拉尔）；正文通常简称阿伯拉尔，见 Abelard 条|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
 |Phaedo|斐多篇||
 |Philip the Chancellor|总务长菲利普|13 世纪巴黎主教座堂总务长，神学家|
@@ -470,7 +470,7 @@
 |projective sets|射影集合|描述集合论语境|
 |Proof-Theoretic|证明论||
 |Properties of Terms|词项属性|proprietates terminorum，中世纪词项逻辑核心理论，含意谓、指代、联结、称呼、扩张、限制等|
-|property|属性/性质||
+|property|属性；性质||
 |Pseudo-Science|伪科学||
 |Pyrrho|皮浪||
 |Pyrrhonism|皮浪主义||
@@ -533,10 +533,10 @@
 |Lord Shaftesbury|沙夫茨伯里勋爵|见 3rd Earl of Shaftesbury、Anthony Ashley Cooper 条|
 |She Came to Stay|女宾|波伏瓦首部小说（L’Invitée），上海译文出版社中译本《女宾》（周以光译）|
 |Sherwood|舍伍德||
-|Simone de Beauvoir|西蒙娜·德·波伏娃||
+|Simone de Beauvoir|西蒙娜·德·波伏瓦|通行“波伏瓦”，见 Beauvoir 条|
 |Simone Weil|西蒙娜·薇依||
 |Simplicius|辛普利修斯||
-|Simultaneity|同时性/同时性的||
+|Simultaneity|同时性；同时性的||
 |Singularities|奇点||
 |Skepticism|怀疑论||
 |social construction|社会建构||

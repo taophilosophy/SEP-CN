@@ -53,24 +53,15 @@ We make the assumption, which remains tacit in most expositions, that we have an
 
 Different experiments may be performed on each system. We will use $a, a'$ as variables ranging over possible experiments on 1, and $b, b'$ as variables that range over experiments on 2. It is not assumed that these parameters capture the complete state of the experimental apparatus, which might have a range of microstates corresponding to each experimental setting. It is assumed that the preparation probability distribution $\rho$ is independent of the processes by which a choice of experiments to be performed is made. This assumption we call the *Measurement Independence Assumption*.
 
-The result of an experiment with setting $a$ on system 1 is labeled by a real parameter $s$, which can take on values from a discrete set $S_a$ of real numbers in the interval [$-1, 1$]. Likewise, the result of an experiment on 2 is labeled by a parameter $t$, which can take on any of a discrete set of real numbers $T_b$ in $[-1,
-1]$. As suggested by the subscripts, the sets of potential outcomes may depend on the experimental settings. The restriction of the values of the outcome labels to lie in the interval $[-1, 1]$ is of no physical significance, and is a choice made only for convenience. Indeed, the use of numbers to label outcomes is merely a matter of convenience. The inequality to be obtained places a condition on the probabilities involved in it; if desired, the use of numbers as labels on outcomes may be dispensed with, and the inequalities can expressed solely in terms of the relevant probabilities, as in the CH inequality, inequality (25), below. Bell’s own version of his theorem assumed experiments with two possible outcomes, labelled $\pm
-1$. Other variants of the theorem involve larger sets of potential outcomes.
+The result of an experiment with setting $a$ on system 1 is labeled by a real parameter $s$, which can take on values from a discrete set $S_a$ of real numbers in the interval [$-1, 1$]. Likewise, the result of an experiment on 2 is labeled by a parameter $t$, which can take on any of a discrete set of real numbers $T_b$ in $[-1, 1]$. As suggested by the subscripts, the sets of potential outcomes may depend on the experimental settings. The restriction of the values of the outcome labels to lie in the interval $[-1, 1]$ is of no physical significance, and is a choice made only for convenience. Indeed, the use of numbers to label outcomes is merely a matter of convenience. The inequality to be obtained places a condition on the probabilities involved in it; if desired, the use of numbers as labels on outcomes may be dispensed with, and the inequalities can expressed solely in terms of the relevant probabilities, as in the CH inequality, inequality (25), below. Bell’s own version of his theorem assumed experiments with two possible outcomes, labelled $\pm 1$. Other variants of the theorem involve larger sets of potential outcomes.
 
 We assume that, for each pair of settings $a, b$, and every $\lambda$ in $\Lambda$, there is a probability function $p_{a,b}(s,t \mid \lambda)$, which takes on values in the interval [0, 1] and sums to unity when summed over all $s$ in $S_a$ and $t$ in $T_b$. These response functions may include implicit averaging over possible states of the experimental apparatus.[^note-4] Bell’s own version of his theorem assumed experiments with two possible outcomes, labelled $\pm 1$. Other variants of the theorem involve larger sets of potential outcomes. We can use these probability functions — which we will call *response probabilities* — to define marginal probabilities:
 
-$$\begin{align} \tag{1a} p^1_{a,b}(s \mid \lambda) &\equiv
-\Sigma_t p_{a,b}(s,t \mid \lambda), \\ \tag{1b}
-p^2_{a,b}(t\mid\lambda) &\equiv \Sigma_s p_{a,b}(s,t\mid\lambda).
-\end{align}$$
+$$\begin{align} \tag{1a} p^1_{a,b}(s \mid \lambda) &\equiv \Sigma_t p_{a,b}(s,t \mid \lambda), \\ \tag{1b} p^2_{a,b}(t\mid\lambda) &\equiv \Sigma_s p_{a,b}(s,t\mid\lambda). \end{align}$$
 
-Here, and in what follows, it is to be understood that the sums be taken over all $s \in S_a$ and $t \in T_b$. Define $A_{\lambda}(a, b)$, $B_{\lambda}(a, b)$ as the expectation values, for complete state $\lambda$, of the outcomes of experiments on system 1 and system 2, respectively, when the settings are $a,
-b$.
+Here, and in what follows, it is to be understood that the sums be taken over all $s \in S_a$ and $t \in T_b$. Define $A_{\lambda}(a, b)$, $B_{\lambda}(a, b)$ as the expectation values, for complete state $\lambda$, of the outcomes of experiments on system 1 and system 2, respectively, when the settings are $a, b$.
 
-$$\begin{align}
-\tag{2a} A_{\lambda}(a,b) &\equiv \Sigma_s s \: p^1_{a,b}(s\mid\lambda), \\
- \tag{2b} B_{\lambda}(a,b) &\equiv \Sigma_t t \: p^2_{a,b}(t\mid\lambda). 
-\end{align}$$
+$$\begin{align} \tag{2a} A_{\lambda}(a,b) &\equiv \Sigma_s s \: p^1_{a,b}(s\mid\lambda), \\ \tag{2b} B_{\lambda}(a,b) &\equiv \Sigma_t t \: p^2_{a,b}(t\mid\lambda). \end{align}$$
 
 Now define the expectation value of the product $st$ of outcomes:
 
@@ -80,8 +71,7 @@ Bell-type inequalities follow from a condition, inspired by considerations of lo
 
 **(F)**
 
-For any $a, b, \lambda$, there exist probability functions $p^1_a(s\mid\lambda), \; p^2_b(t\mid\lambda)$, such that $p_{a,b}(s,t\mid\lambda) = p^1_a (s\mid\lambda) \:
-p^2_b(t\mid\lambda).$
+For any $a, b, \lambda$, there exist probability functions $p^1_a(s\mid\lambda), \; p^2_b(t\mid\lambda)$, such that $p_{a,b}(s,t\mid\lambda) = p^1_a (s\mid\lambda) \: p^2_b(t\mid\lambda).$
 
 This is the condition formulated explicitly by Bell in his later expositions of Bell’s theorem (Bell 1976, 1990)[^bell-1976]. Bell refers to the factorizability condition (F) as the condition that the correlations be *locally explicable* (Bell 1981, C2–55; 1987b and 2004, 152; see also 1990, 109; 2004, 243)[^bell-1981]. This has two components: that the correlations be explained, and not taken as primitive, and that the explanation be local. This will be discussed further in section 3.1. It should be noted that Bell regarded this condition “not as the *formulation* of ‘local causality’, but as a consequence thereof” (Bell 1990, 109; 2004, 243)[^bell-1990].
 
@@ -89,8 +79,7 @@ As we have seen, Bell’s investigations were stimulated, in part, by the questi
 
 **(OD)**
 
-For all $\lambda$, $a, b$, and all $s \in S_a$ and $t \in
-T_b , p_{ab}(s,t\mid\lambda) \in \{0, 1\}$.
+For all $\lambda$, $a, b$, and all $s \in S_a$ and $t \in T_b , p_{ab}(s,t\mid\lambda) \in \{0, 1\}$.
 
 Suppes and Zanotti (1976) showed that, for the special case of perfect correlations between outcomes of the two experiments, in which an outcome of an experiment on one system makes possible prediction with probability one of the outcome of an experiment on the other, OD must be satisfied if the factorizability condition (F) is. This applies to the case considered by Bell 1964. In Bell 1971 and subsequent expositions Bell provided a generalization that does not presume perfect correlation and does not require OD, either as a supposition or as a consequence of other suppositions.[^note-5]
 
@@ -98,33 +87,21 @@ If the factorizability condition (F) is satisfied, then
 
 $$\tag{4} E_{\lambda} (a, b) = A_{\lambda}(a) B_{\lambda}(b). $$
 
-The above definitions are valid for experiments with any number of discrete outcomes. An important special case is that in which each experiment has only two distinct outcomes, which we may label by $\pm
-1$. For the case of bivalent experiments, (4) is equivalent to condition (F).
+The above definitions are valid for experiments with any number of discrete outcomes. An important special case is that in which each experiment has only two distinct outcomes, which we may label by $\pm 1$. For the case of bivalent experiments, (4) is equivalent to condition (F).
 
 Now consider the quantities
 
-$$\tag{5} S_{\lambda}(a, a', b, b') = \lvert E_{\lambda} (a, b) +
-E_{\lambda} (a, b') \rvert + \lvert E_{\lambda}( a', b) - E_{\lambda}
-(a',b')\rvert. $$
+$$\tag{5} S_{\lambda}(a, a', b, b') = \lvert E_{\lambda} (a, b) + E_{\lambda} (a, b') \rvert + \lvert E_{\lambda}( a', b) - E_{\lambda} (a',b')\rvert. $$
 
 Let *S$_{\varrho}$* denote the corresponding relation between the expectation values of the $E_{\lambda}s$, with respect to the preparation distribution $\rho$.
 
-$$
-\begin{align}
-\tag{6}
-S_{\varrho}(a, a', b, b') 
- =\ &\lvert\langle E_{\lambda}(a, b) \rangle_{\varrho} + \langle E_{\lambda}(a, b') \rangle_{\varrho}\rvert \\
- &+ \lvert\langle E_{\lambda}(a', b)
-\rangle_{\varrho} - \langle E_{\lambda}( a', b')\rangle_{\varrho}\rvert. 
-\end{align}
-$$
+$$ \begin{align} \tag{6} S_{\varrho}(a, a', b, b') =\ &\lvert\langle E_{\lambda}(a, b) \rangle_{\varrho} + \langle E_{\lambda}(a, b') \rangle_{\varrho}\rvert \\ &+ \lvert\langle E_{\lambda}(a', b) \rangle_{\varrho} - \langle E_{\lambda}( a', b')\rangle_{\varrho}\rvert. \end{align} $$
 
 Note that, in taking the expectation values of the quantities appearing on the right-hand side of this definition with respect to the same distribution $\rho$, we are invoking the Measurement Independence Assumption.
 
 Since the absolute value of the average of any random variable cannot be greater than the average of its absolute value, is clear that
 
-$$\tag{7} S_{\varrho}(a, a', b, b') \leq \langle S_{\lambda}(a, a', b,
-b') \rangle_{\varrho}. $$
+$$\tag{7} S_{\varrho}(a, a', b, b') \leq \langle S_{\lambda}(a, a', b, b') \rangle_{\varrho}. $$
 
 We now have the materials in hand required to state and prove a Bell-type theorem. The first step consists of showing that, if the factorizability condition (F) is satisfied, then
 
@@ -134,18 +111,11 @@ The second step consists of showing that there are quantum states and experiment
 
 We now prove the first part of the theorem, namely, that the CHSH inequality follows from the factorizability condition (F). If F is satisfied, then, using (4), and the fact that $A_{\lambda}(a)$ and $A_{\lambda}(a')$ lie in the interval $[-1,1]$,
 
-$$\begin{align}\tag{9} 
-&S_{\lambda}(a, a', b, b') \\
-&\ = \lvert A_{\lambda}(a)(B_{\lambda}(b) + B_{\lambda}(b'))\rvert + 
-       \lvert A_{\lambda}(a')(B_{\lambda}(b) - B_{\lambda}(b'))\rvert \\ 
-&\ \leq \lvert B_{\lambda}(b) + B_{\lambda}(b') \rvert + \lvert B_{\lambda}(b)
-- B_{\lambda}(b')\rvert .  \end{align}$$
+$$\begin{align}\tag{9} &S_{\lambda}(a, a', b, b') \\ &\ = \lvert A_{\lambda}(a)(B_{\lambda}(b) + B_{\lambda}(b'))\rvert + \lvert A_{\lambda}(a')(B_{\lambda}(b) - B_{\lambda}(b'))\rvert \\ &\ \leq \lvert B_{\lambda}(b) + B_{\lambda}(b') \rvert + \lvert B_{\lambda}(b) - B_{\lambda}(b')\rvert . \end{align}$$
 
 It is easy to check that
 
-$$\tag{10} \lvert B_{\lambda}(b) + B_{\lambda}(b') \rvert + \lvert
-B_{\lambda}(b) - B_{\lambda}(b') \rvert\, = 2 \max( \lvert
-B_{\lambda}(b) \rvert , \lvert B_{\lambda}(b')\rvert). $$
+$$\tag{10} \lvert B_{\lambda}(b) + B_{\lambda}(b') \rvert + \lvert B_{\lambda}(b) - B_{\lambda}(b') \rvert\, = 2 \max( \lvert B_{\lambda}(b) \rvert , \lvert B_{\lambda}(b')\rvert). $$
 
 Since $B_{\lambda}(b)$ and $B_{\lambda}(b')$ also lie in the interval $[-1,1]$, from (9) and (10) we conclude that, for every $\lambda$,
 
@@ -159,24 +129,17 @@ This, together with (7), yields the CHSH inequality (8).
 
 The final step of the proof of our Bell-type theorem is to exhibit a system, a quantum mechanical state, and a set of quantities for which the statistical predictions violate inequality (8). The example used by Bell stems from Bohm’s variant of the EPR thought-experiment (Bohm 1951, Bohm and Aharonov 1957)[^bohm-1951][^bohm-1957]. A pair of spin-$\frac{1}{2}$ particles is produced in the singlet state,
 
-$$\tag{13} \ket{\Psi^-} = \frac{1}{\sqrt{2}} \left(\ket{\mathbf{n}+}_1
-\ket{\mathbf{n}-}_2 - \ket{\mathbf{n}-}_1 \ket{\mathbf{n}+}_2\right),
-$$
+$$\tag{13} \ket{\Psi^-} = \frac{1}{\sqrt{2}} \left(\ket{\mathbf{n}+}_1 \ket{\mathbf{n}-}_2 - \ket{\mathbf{n}-}_1 \ket{\mathbf{n}+}_2\right), $$
 
 where $\mathbf{n}$ is an arbitrarily chosen direction, and $|\mathbf{n}+\rangle , |\mathbf{n}-\rangle$ are spin-up and spin-down eigenstates of spin in the $\mathbf{n}$ direction. The state is rotationally invariant, and hence the expression (13) represents the state for any direction $\mathbf{n}$. If Stern-Gerlach experiments are performed on the two particles, then, regardless of the direction of the axes of the devices, for each side of the experiment the two possible results have the same probability, one-half. If experiments are done with the axes of the two devices aligned, the results are guaranteed to be opposite; spin-up on one will be obtained in one experiment if and only if spin-down is obtained on the other. If the axes are at right angles, the results are probabilistically independent. In the general case, with device axes in directions given by unit vectors $\mathbf{a}, \mathbf{b}$, respectively, with results labelled $\pm 1$, then the expectation value of the product of the outcomes is given by
 
-$$\tag{14} \begin{align} E_{\Psi^-}(\mathbf{a}, \mathbf{b}) &=
-\langle \Psi^- \mid \sigma^1_{\mathbf{a}} \otimes
-\sigma^2_{\mathbf{b}} \mid \Psi^- \rangle \\ &= -
-\cos(\theta_{\mathbf{a}\mathbf{b}}), \end{align}$$
+$$\tag{14} \begin{align} E_{\Psi^-}(\mathbf{a}, \mathbf{b}) &= \langle \Psi^- \mid \sigma^1_{\mathbf{a}} \otimes \sigma^2_{\mathbf{b}} \mid \Psi^- \rangle \\ &= - \cos(\theta_{\mathbf{a}\mathbf{b}}), \end{align}$$
 
-where $\theta_{\mathbf{a}\mathbf{b}} = \theta_{\mathbf{a}} -
-\theta_{\mathbf{b}}$ is the angle between the vectors $\mathbf{a},\mathbf{b}$.
+where $\theta_{\mathbf{a}\mathbf{b}} = \theta_{\mathbf{a}} - \theta_{\mathbf{b}}$ is the angle between the vectors $\mathbf{a},\mathbf{b}$.
 
 Though the example of spin-$\frac{1}{2}$ particles in the singlet state is ubiquitous in the literature as an illustrative example, polarization-entangled photons have been more significant for experimental tests of Bell inequalities. Consider a pair of photons 1 and 2 propagating in the $z$-direction. Let $|x\rangle_j$ and $|y\rangle_j$ represent states in which photon $j \; (j =1, 2)$ is linearly polarized in the $x$- and $y$- directions, respectively. Consider the following state vector,
 
-$$\tag{15} \ket{\Phi} = \frac{1}{\sqrt{2}}\left(\ket{x}_1 \ket{x}_2 +
-\ket{y}_1 \ket{y}_2 \right), $$
+$$\tag{15} \ket{\Phi} = \frac{1}{\sqrt{2}}\left(\ket{x}_1 \ket{x}_2 + \ket{y}_1 \ket{y}_2 \right), $$
 
 which is invariant under rotation of the $x$ and $y$ axes in the plane perpendicular to $z$. The total quantum state of the pair of photons 1 and 2 is invariant under the exchange of the two photons, as required by the fact that photons are integral spin particles. Suppose now that photons 1 and 2 impinge respectively on the faces of birefringent crystal polarization analyzers I and II, with the entrance face of each analyzer perpendicular to $z$. Each analyzer has the property of separating light incident upon its face into two outgoing non-parallel rays, the *ordinary ray* and the *extraordinary ray*. The transmission axis of the analyzer is a direction with the property that a photon polarized along it will emerge in the ordinary ray (with certainty if the crystals are assumed to be ideal), while a photon polarized in a direction perpendicular to $z$ and to the transmission axis will emerge in the extraordinary ray. See Figure 1:
 
@@ -184,32 +147,23 @@ which is invariant under rotation of the $x$ and $y$ axes in the plane perpendic
 
 *Figure 1*
 
+(*reprinted with permission*)
+
 Photon pairs are emitted from the source, each pair quantum mechanically described by $\ket{\Phi}$ of Eq. (15). I and II are polarization analyzers, with outcomes $s=1$ and $t=1$ designating emergence in the ordinary ray, while $s = -1$ and $t = -1$ designate emergence in the extraordinary ray. The crystals are also idealized by assuming that no incident photon is absorbed, but each emerges in either the ordinary or the extraordinary ray.
 
 The expectation value, in state $\ket{\Phi}$, of the product of $s$ and $t$, is
 
-$$\tag{16} \begin{align} E_{\Phi}(\mathbf{a}, \mathbf{b}) &=
-\cos^2 (\theta_{\mathbf{a} \mathbf{b}}) - \sin^2 (\theta_{\mathbf{a}
-\mathbf{b}}) \\ &= \cos(2\theta_{\mathbf{a} \mathbf{b}}).
-\end{align}$$
+$$\tag{16} \begin{align} E_{\Phi}(\mathbf{a}, \mathbf{b}) &= \cos^2 (\theta_{\mathbf{a} \mathbf{b}}) - \sin^2 (\theta_{\mathbf{a} \mathbf{b}}) \\ &= \cos(2\theta_{\mathbf{a} \mathbf{b}}). \end{align}$$
 
 Note that this displays the same sort of sinusoidal dependence on angle exhibited by (14), with $2\theta$ replacing $\theta$.
 
 Often, in popular writings, the case of aligned devices is the only one mentioned, and the perfect anticorrelation (for spin-$\frac{1}{2}$ particles in the singlet state) or correlation (for photons in state $\ket{\Phi}$) of results in this case is offered as evidence of “spooky action at a distance.” In fact, as Bell (1964, 1966) demonstrated by means of simple toy models, this behaviour can be reproduced by entirely local means. An important insight of Bell’s was that it is important to consider the less-than perfect correlations obtained when the device axes are not aligned. In Bell’s toy models, correlations fall off linearly with the angle between the device axes, whereas the quantum correlations (14, 16) fall off sinusoidally; the decrease in correlations away from the case of perfect alignments is less steep than in the toy models. Bell’s theorem shows that this sort of behaviour is not a peculiarity of his models; no model satisfying the condition F can reproduce the quantum correlations for all angles. This can be seen by considering the quantum predictions (14, 16) and plugging them into the expression for $S$. For a pair of spin-$\frac{1}{2}$ particles in the singlet state, we have,
 
-$$\tag{17} S_{\Psi^-} = \lvert \cos(\theta_{\mathbf{a}\mathbf{b}}) +
-\cos(\theta_{\mathbf{a}\mathbf{b}'})\rvert + \lvert
-\cos(\theta_{\mathbf{a}'\boldsymbol{b}}) -
-\cos(\theta_{\mathbf{a}'\mathbf{b}'})\rvert . $$
+$$\tag{17} S_{\Psi^-} = \lvert \cos(\theta_{\mathbf{a}\mathbf{b}}) + \cos(\theta_{\mathbf{a}\mathbf{b}'})\rvert + \lvert \cos(\theta_{\mathbf{a}'\boldsymbol{b}}) - \cos(\theta_{\mathbf{a}'\mathbf{b}'})\rvert . $$
 
-Choose coplanar unit vectors $\mathbf{a},$ $\mathbf{a}',$ $\mathbf{b},$ $\mathbf{b}'$ such that $\theta_{\mathbf{b}'} -
-\theta_{\mathbf{a}}\, =$ $\theta_{\mathbf{a}} -
-\theta_{\mathbf{b}}\, =$ $\theta_{\mathbf{b}} - \theta_{\mathbf{a}'}
-= \phi$, and therefore, $\theta_{\mathbf{b}'} - \theta_{\mathbf{a}'}
-= 3\phi$. This choice yields
+Choose coplanar unit vectors $\mathbf{a},$ $\mathbf{a}',$ $\mathbf{b},$ $\mathbf{b}'$ such that $\theta_{\mathbf{b}'} - \theta_{\mathbf{a}}\, =$ $\theta_{\mathbf{a}} - \theta_{\mathbf{b}}\, =$ $\theta_{\mathbf{b}} - \theta_{\mathbf{a}'} = \phi$, and therefore, $\theta_{\mathbf{b}'} - \theta_{\mathbf{a}'} = 3\phi$. This choice yields
 
-$$\tag{18} S_{\Psi^-}(\phi) = \lvert 2 \cos(\phi)\rvert + \lvert
-\cos(\phi) - \cos(3\phi)\rvert . $$
+$$\tag{18} S_{\Psi^-}(\phi) = \lvert 2 \cos(\phi)\rvert + \lvert \cos(\phi) - \cos(3\phi)\rvert . $$
 
 This exceeds the CHSH bound (8) when $0 \lt |\phi | \lt$ $\arccos\left((\sqrt{3} - 1)/2 \right) \approx 1.95$ radians, or 68°, with maximum violation at $\phi = \pm {\pi}/{4}$, or 45°. For these angles, we have
 
@@ -217,8 +171,7 @@ $$\tag{19} S_{\Psi^-}(\pi /4) = 2\sqrt{2} \approx 2.828. $$
 
 For the case of polarization-entangled photons, we have,
 
-$$\tag{20} S_{\Phi}(\phi) = \lvert 2 \cos(2\phi)\rvert + \lvert
-\cos(2\phi) - \cos(6\phi) \rvert. $$
+$$\tag{20} S_{\Phi}(\phi) = \lvert 2 \cos(2\phi)\rvert + \lvert \cos(2\phi) - \cos(6\phi) \rvert. $$
 
 This takes on its maximum at $\phi = {\pi}/{8}$, or 22.5°.
 
@@ -286,10 +239,7 @@ On the assumption that the experimental settings can be treated as free variable
 
 For all parameter settings $a$, $a'$, $b$, $b'$, all $\lambda$, and all $s \in S_a$ and $t \in T_b$,
 
-$$\begin{align}
-\tag{22a} p^1_{a,b}(s\mid \lambda) &= p^1_{a,b'}(s\mid \lambda); \\
- \tag{22b} p^2_{a,b}(t\mid \lambda) &= p^2_{a',b}(t\mid \lambda). 
-\end{align}$$
+$$\begin{align} \tag{22a} p^1_{a,b}(s\mid \lambda) &= p^1_{a,b'}(s\mid \lambda); \\ \tag{22b} p^2_{a,b}(t\mid \lambda) &= p^2_{a',b}(t\mid \lambda). \end{align}$$
 
 This is the condition that has come to be known as *parameter independence*, following Shimony (1986, 1990).
 
@@ -391,8 +341,7 @@ A second strategy involves construction of an experimental set-up in which the p
 
 A third strategy involves employment of an inequality that can be shown to be violated without knowledge of the absolute value of the probabilities involved. This eliminates the need for untestable auxiliary assumptions. An inequality suitable for this purpose was first derived by Clauser and Horne (1974) (henceforth CH). The set-up is as before, with the exception that each analyzer will have only one output channel, and the eventualities to be considered are detection and non-detection. We want an inequality expressed in terms of probabilities of detection alone. The same sort of reasoning that leads to the CHSH inequality yields the *CH Inequality*:
 
-$$\tag{25} \  - 1 \le p_{a,b}(+, +) + p_{a,b'}(+, +) + p_{a',b}(+, +) -
-p_{a',b'}(+, +) - p^1_a(+) - p^2_b(+) \le 0. $$
+$$\tag{25} \ - 1 \le p_{a,b}(+, +) + p_{a,b'}(+, +) + p_{a',b}(+, +) - p_{a',b'}(+, +) - p^1_a(+) - p^2_b(+) \le 0. $$
 
 The probabilities appearing in (25) can be estimated by dividing event-counts registered in a run of an experiment by the total number of pairs produced. If we assume that the production rate at the source is independent of the analyzer settings, we can take the normalization factor to be the same for each term, and hence the magnitude of this factor need not be known in order to demonstrate a violation of the upper bound of (25). Another useful observation was made by Eberhard (1993), who demonstrated that the minimal detection efficiency for a detection loophole free experiment can be reduced (from 82% to 67%) for non-maximally entangled states (*i.e.* a bipartite entangled state with different weight for the two components). This involves starting with a specified efficiency level, and then choosing a state and a set of observables that maximize violation of the CH inequality at that efficiency level.
 
@@ -404,15 +353,13 @@ As CH note, this is violated by the results of the Freedman and Clauser experime
 
 Historically, the efforts toward a detection loophole-free experiment followed two main paths, though a few other possibilities were also explored. One of these other possibilities involved K or B mesons (Selleri 1983, Go 2004)[^selleri-1983], where the detection loophole reappears in another form (Genovese, Novero, and Predazzi 2001). Another involved solid state systems (Ansmann *et al*. 2009)[^ansmann-2009].
 
-One of the main avenues of approach employed entangled ions. The use of ions looked very promising, since for such experiments detection efficiency is very high. The experiment of Rowe *et al*. (2001) employed beryllium ions, observing a CHSH inequality violation $S =
-2.25 \pm 0.03$ with a total detection efficiency of about 98%. Nevertheless, in this set-up the measurements on two ions not only were not space-like separated; there was a common measurement on the two ions. More recently, the distance between ions was increased. For instance, Matsukevich *et al*. (2008) entangled two ytterbium ions via interference and joint detection of two emitted photons, with the distance between the ions set to 1 meter. However, a conclusive experiment of this sort that eliminated also the communication loophole would require a separation of kilometers.
+One of the main avenues of approach employed entangled ions. The use of ions looked very promising, since for such experiments detection efficiency is very high. The experiment of Rowe *et al*. (2001) employed beryllium ions, observing a CHSH inequality violation $S = 2.25 \pm 0.03$ with a total detection efficiency of about 98%. Nevertheless, in this set-up the measurements on two ions not only were not space-like separated; there was a common measurement on the two ions. More recently, the distance between ions was increased. For instance, Matsukevich *et al*. (2008) entangled two ytterbium ions via interference and joint detection of two emitted photons, with the distance between the ions set to 1 meter. However, a conclusive experiment of this sort that eliminated also the communication loophole would require a separation of kilometers.
 
 The other main avenue of approach, which paved the way to a conclusive test of Bell inequalities, involved innovations in tests using photons. First, efficient sources of photon entangled states were realized by exploiting Parametric Down Conversion, a non-linear optical phenomenon in which a photon of higher energy converts into two lower frequency photons inside a non-linear medium in such a way that energy and momentum are conserved. This allows a high collection efficiency due to wave vector correlation of the emitted photons. Next, high efficiency single photon Transition Edge Sensors were produced. These advances led to detection loophole-free experiments with photons (Giustina *et al*. 2013, Christensen *et al*. 2013)[^christensen-2013][^giustina-2013] and finally to the conclusive tests discussed in the next section.
 
 ### 5.3 Loophole-free tests
 
-In 2015 three papers appeared claiming a conclusive test of Bell inequalities. The first (Hensen *et al*., 2015) achieved a violation of the CHSH inequality via an event-ready scheme. This experiment is based on using electronic spin associated with the nitrogen-vacancy (NV) defect in two diamond chips located in distant laboratories. In the experiment, each of these two spins is entangled with the emission time of a single photon. Then the two, indistinguishable, photons are transmitted to a remote beam splitter. A measurement is made on the photons after the beam splitter. An appropriate result of the measurement of the photons projects the spins in the two diamond chips onto a maximally entangled state, on which a Bell inequality test is realized. The high efficiency in spin measurement and the distance between the laboratories allows closure of the detection and communication loophole at the same time. However, the experiment utilized only a small number, 245, of trials, and thus the statistical significance (2 standard deviations) of the result $S
-= 2.42 \pm 0.20$ is limited.
+In 2015 three papers appeared claiming a conclusive test of Bell inequalities. The first (Hensen *et al*., 2015) achieved a violation of the CHSH inequality via an event-ready scheme. This experiment is based on using electronic spin associated with the nitrogen-vacancy (NV) defect in two diamond chips located in distant laboratories. In the experiment, each of these two spins is entangled with the emission time of a single photon. Then the two, indistinguishable, photons are transmitted to a remote beam splitter. A measurement is made on the photons after the beam splitter. An appropriate result of the measurement of the photons projects the spins in the two diamond chips onto a maximally entangled state, on which a Bell inequality test is realized. The high efficiency in spin measurement and the distance between the laboratories allows closure of the detection and communication loophole at the same time. However, the experiment utilized only a small number, 245, of trials, and thus the statistical significance (2 standard deviations) of the result $S = 2.42 \pm 0.20$ is limited.
 
 The other two experiments, published in the same issue of *Physical Review Letters* (Giustina *et al*. 2015, Shalm *et al.* 2015)[^giustina-2015][^shalm-2015], are based on transmitting two polarization-entangled photons, produced by Parametric Down Conversion, to two remote laboratories, where they are measured by high detection efficiency Transition Edge Sensors. These experiments use states that are not maximally entangled, but are optimized, in accordance with the analysis of Eberhard (1993), to produce a maximal violation of the CH inequality, given the detection efficiency of the experiments. In both of these experiments a violation of the CH inequality was obtained, at a high degree of statistical significance. Shalm *et al*. report a $p$-value of $2.3 \times 10^{-7}$, whereas Giustina *et al*. report a $p$-value of $3.4 \times 10^{-31}$, corresponding to an 11.5 standard deviation effect. A very careful analysis of data (including spacelike separation of detection events), of statistical significance, and of all possible loopholes leaves really no space for doubts about their conclusiveness. Besides the detection and communication loophole, these two experiments address also the following issues:
 
@@ -434,31 +381,19 @@ The first variant is due independently to Kochen,[^note-8] Stairs (1978, 1983), 
 
 $$\tag{27} \ket{\Phi} = \frac{1}{\sqrt{3}} \left[ \ket{z,1}_1 \ket{z,-1}_2 - \ket{z,0}_1 \ket{z,0}_2 + \ket{z,-1}_1 \ket{z,1}_2 \right], $$
 
-where $\ket{z,i}_1$, with $i = -1$ or 0 or 1 is the spin state of particle 1 with a component of spin $i$ along the axis $z$, and $\ket{z,i}_2$ has an analogous meaning for particle 2. If $x,y,z$ is a triple of orthogonal axes in 3-space then the components $s_x,
-s_y, s_z$ of the spin operator along these axes do not pairwise commute. However, the squares of these operators — $s_x^2,
-s_y^2, s_z^2$ — do commute, and therefore, in view of the considerations of Section 1, any two of them can constitute a context in the measurement of the third. If the operator of interest is $s_z^2$, the axes $x$ and $y$ can be any pair of orthogonal axes in the plane perpendicular to $z$, thus offering an infinite family of contexts for the measurement of $s_{z}^2$. As noted in Section 1 Bell exhibited the possibility of a *contextual* hidden variables theory for a quantum system whose Hilbert space has dimension 3 or greater even though the Bell-Kochen-Specker theorem showed the impossibility of a *non-contextual* hidden variables theory for such a system. The strategy of the argument is to use the entangled state of Eq. (27) to predict the outcome of measuring $s_{z}^2$ for particle 2 (for any choice of $z)$ by measuring its counterpart on particle 1. A specific complete state $\lambda$ would determine whether $s_{z}^2$ of 1, measured together with a context in 1, is 0 or 1. Agreement with the quantum mechanical prediction of the entangled state of Eq. (27) implies that $s_z^2$ of 2 has the same value 0 or 1. But if the factorizability condition (F) is assumed, then the result of measuring $s_{z}^2$ on 2 must be independent of the remote context, that is, independent of the choice of $s_{x}^2$ and $s_y^2$ of 1, hence of 2 because of correlation, for any pair of orthogonal directions $x$ and $y$ in the plane perpendicular to $z$. It follows that the hypothetical theory which supplies the complete state $\lambda$ is not contextual after all, but maps the set of operators $s_z^2$ of 2, for any direction $z$, *noncontextually* into the pair of values (0, 1). But that is impossible in view of the Bell-Kochen-Specker theorem. The conclusion is that no theory satisfying the factorizability condition (F) is consistent with the quantum mechanical predictions of the entangled state (29).
+where $\ket{z,i}_1$, with $i = -1$ or 0 or 1 is the spin state of particle 1 with a component of spin $i$ along the axis $z$, and $\ket{z,i}_2$ has an analogous meaning for particle 2. If $x,y,z$ is a triple of orthogonal axes in 3-space then the components $s_x, s_y, s_z$ of the spin operator along these axes do not pairwise commute. However, the squares of these operators — $s_x^2, s_y^2, s_z^2$ — do commute, and therefore, in view of the considerations of Section 1, any two of them can constitute a context in the measurement of the third. If the operator of interest is $s_z^2$, the axes $x$ and $y$ can be any pair of orthogonal axes in the plane perpendicular to $z$, thus offering an infinite family of contexts for the measurement of $s_{z}^2$. As noted in Section 1 Bell exhibited the possibility of a *contextual* hidden variables theory for a quantum system whose Hilbert space has dimension 3 or greater even though the Bell-Kochen-Specker theorem showed the impossibility of a *non-contextual* hidden variables theory for such a system. The strategy of the argument is to use the entangled state of Eq. (27) to predict the outcome of measuring $s_{z}^2$ for particle 2 (for any choice of $z)$ by measuring its counterpart on particle 1. A specific complete state $\lambda$ would determine whether $s_{z}^2$ of 1, measured together with a context in 1, is 0 or 1. Agreement with the quantum mechanical prediction of the entangled state of Eq. (27) implies that $s_z^2$ of 2 has the same value 0 or 1. But if the factorizability condition (F) is assumed, then the result of measuring $s_{z}^2$ on 2 must be independent of the remote context, that is, independent of the choice of $s_{x}^2$ and $s_y^2$ of 1, hence of 2 because of correlation, for any pair of orthogonal directions $x$ and $y$ in the plane perpendicular to $z$. It follows that the hypothetical theory which supplies the complete state $\lambda$ is not contextual after all, but maps the set of operators $s_z^2$ of 2, for any direction $z$, *noncontextually* into the pair of values (0, 1). But that is impossible in view of the Bell-Kochen-Specker theorem. The conclusion is that no theory satisfying the factorizability condition (F) is consistent with the quantum mechanical predictions of the entangled state (29).
 
 A simpler proof of Bell’s Theorem, also relying upon counterfactual reasoning and based upon a deterministic local theory, is that of Hardy (1993), here presented in Laloë’s (2001) formulation. Consider an ensemble of pairs 1 and 2 of spin$-\frac{1}{2}$ particles, the spin of 1 measured along directions in the $xz$-plane making angles $a=\theta /2$ and $a'=0$ with the $z$-axis, and angles $b$ and $b'$ having analogous significance for 2. The quantum states for particle 1 with spins $+\frac{1}{2}$ and $-\frac{1}{2}$ relative to direction $a'$ are respectively $\ket{a',+}_1$ and $\ket{a',-}_1$, and relative to direction $a$ are respectively
 
-$$\begin{align}
-\tag{28a} \ket{a,+}_1 &= \cos\theta \ket{a',+}_1 + \sin\theta \ket{a',-}_1 \\
- \tag{28b} \ket{a,-}_1 &= -\sin\theta \ket{a',+}_1 + \cos\theta \ket{a',-}_1; 
-\end{align}$$
+$$\begin{align} \tag{28a} \ket{a,+}_1 &= \cos\theta \ket{a',+}_1 + \sin\theta \ket{a',-}_1 \\ \tag{28b} \ket{a,-}_1 &= -\sin\theta \ket{a',+}_1 + \cos\theta \ket{a',-}_1; \end{align}$$
 
 the spin states for 2 are analogous. The ensemble of interest is prepared in the entangled quantum state
 
-$$\begin{align}\tag{29} 
-\ket{\Psi} &= {-\cos \theta \ket{a',+}_1 \ket{b',-}_2} -{\cos\theta \ket{a',-}_1 \ket{b',+}_2}\\
- &\qquad + {\sin\theta \ket{a',+}_1 \ket{b',+}_2} 
-\end{align}$$
+$$\begin{align}\tag{29} \ket{\Psi} &= {-\cos \theta \ket{a',+}_1 \ket{b',-}_2} -{\cos\theta \ket{a',-}_1 \ket{b',+}_2}\\ &\qquad + {\sin\theta \ket{a',+}_1 \ket{b',+}_2} \end{align}$$
 
 (unnormalized, because normalization is not needed for the following argument). Then for the specified $a, a', b$, and $b'$ the following quantum mechanical predictions hold:
 
-$$\begin{align}
-\tag{30} \langle \Psi \mid a,+\rangle_1 \ket{b',+}_2 = 0; \\
- \tag{31} \langle \Psi \mid a',+\rangle_1 \ket{b,+}_2 = 0; \\
- \tag{32} \langle \Psi \mid a',-\rangle_1 \ket{b',-}_2 = 0; 
-\end{align}$$
+$$\begin{align} \tag{30} \langle \Psi \mid a,+\rangle_1 \ket{b',+}_2 = 0; \\ \tag{31} \langle \Psi \mid a',+\rangle_1 \ket{b,+}_2 = 0; \\ \tag{32} \langle \Psi \mid a',-\rangle_1 \ket{b',-}_2 = 0; \end{align}$$
 
 and for almost all values of the $\theta$ of Eq. (31)
 
@@ -529,6 +464,8 @@ He makes it clear, however, that no metaphysical hypothesis of experimenters exe
 
 As stated, this is too strong; if the dynamics are invertible, it is not possible that the values of these variables have implications *only* in the future light-cones of the setting events. What is needed is something considerably weaker than the condition that the variables not be determined in the overlap of the backward light cones of the experiments; what is needed is that they be “*at least effectively free for the purpose at hand*.” Bell argues that a deterministic randomizer that is extraordinarily sensitive to initial conditions would suffice to provide the requisite independence, and that variables of this type may be treated as if they have implications only for events in their future light cones.
 
+> Suppose that the instruments are set at the whim, not of experimental physicists, but of mechanical random number generators. Indeed it seems less impractical to envisage experiments of this kind, with space-like separation between the outputs of two such devices, than to hope to realize such a situation with human operators. Could the outputs of such mechanical devices reasonably be regarded as sufficiently free for the purpose at hand? I think so.
+>
 > Consider the extreme case of a ‘random’ generator which is in fact perfectly deterministic in nature — and, for simplicity, perfectly isolated. In such a device the complete final state perfectly determines the complete initial state — nothing is forgotten. And yet for many purposes, such a device is precisely a “forgetting machine”. A particular output is the result of combining so many factors, of such a lengthy and complicated dynamical chain, that it is quite extraordinarily sensitive to minute variations of many initial conditions. It is the familiar paradox of classical statistical mechanics that such exquisite sensitivity to initial conditions is practically equivalent to complete forgetfulness of them. To illustrate the point, suppose that the choice between two possible outputs, corresponding to *a* and *a′*, depended on the oddness or evenness of the digit in the millionth decimal place of some input variable. Then fixing *a* or *a′* indeed fixes something about the input — i.e., whether the millionth digit is odd or even. But this peculiar piece of information is unlikely to be the vital piece for any distinctively different purpose, i.e., it is otherwise rather useless. With a physical shuffling machine, we are unable to perform the analysis to the point of saying just what peculiar input is remembered in the output. But we can quite reasonably assume it is not relevant for other purposes. In this sense the output of such a device is indeed a sufficiently free variable for the purpose at hand. (1977, 82–83; 1985b, 105–106; 1987b and 2004, 102–103)
 
 Bell concluded with the remark,
@@ -617,14 +554,15 @@ A.S. acknowledges valuable conversations with John Clauser and Edward Fry. W.M. 
 
 ## Notes（原文脚注）
 
+## Notes to Bell’s Theorem
+
 [^note-ref-1]: The terminology of “contextualistic” hidden-variables theories was introduced by Shimony (1971). This was shortened to “contextual” and “noncontextual” in the doctoral dissertation of Stuart J. Freedman (1972), and in Clauser and Shimony (1978).
 
 [^note-ref-2]: It should be emphasized that their argument does not depend upon counter-factual reasoning, that is, reasoning about what would be observed if a quantity were measured other than the one that was in fact measured. For two papers which argue that EPR did not depend upon counterfactual reasoning but only upon ordinary induction, see d’Espagnat (1984) and Shimony (2001).
 
 [^note-ref-3]: Clauser, Horne, Shimony, and Holt (1969) assume a deterministic hidden variables theory but use no quantum mechanical information for the purpose of deriving an inequality. Bell (1971) proves an inequality in the framework of a stochastic hidden variables theory and makes no use of quantum mechanical information for this purpose. Clauser and Horne (1974) prove a mathematical lemma in order to simplify the derivation of the CH inequality, and Aspect (appendix of 1983) adapts the lemma for the purpose of simplifying the proof of the CHSH Inequality (12). Aspect’s proof of the inequality remains valid when there are more than two exit channels from each analyzer, as does that of Mermin (1986).
 
-[^note-ref-4]: Note that we are not assuming that the settings themselves are to be treated as variables to which probabilities can be attached. What is being assumed is that, for each pair of settings $a,
-b$, and every $\lambda$, there is a probability distribution over outcome pairs in $S_a\times T_b$.
+[^note-ref-4]: Note that we are not assuming that the settings themselves are to be treated as variables to which probabilities can be attached. What is being assumed is that, for each pair of settings $a, b$, and every $\lambda$, there is a probability distribution over outcome pairs in $S_a\times T_b$.
 
 [^note-ref-5]: Although OD is not being assumed, a theorem of Fine (1982b,c) shows that it would do no harm to assume it. Fine showed that the following are equivalent: (1) There is a deterministic hidden-variables model for the experiment. (2) There is a factorizable, stochastic model. (3) There is one joint distribution for all observables of the experiment, returning the experimental probabilities. (4) There are well-defined, compatible joint distributions for all pairs and triples of commuting and noncommuting observables. (5) The Bell inequalities hold.
 

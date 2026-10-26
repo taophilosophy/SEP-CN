@@ -1,0 +1,23 @@
+{
+  "schema": "sep-cn-baseline/1",
+  "entries": [
+    {
+      "slug": "alpha",
+      "zh_doc": "argument/alpha-zhang-san.md",
+      "pubinfo": {"first_published": "Apr 10, 2003", "substantive_revision": "Jul 18, 2025"},
+      "authors": ["Zhang, San"]
+    },
+    {
+      "slug": "beta",
+      "zh_doc": null,
+      "pubinfo": {"first_published": "Mar 1, 2010"},
+      "authors": ["Li, Si"]
+    },
+    {
+      "slug": "epsilon",
+      "zh_doc": null,
+      "pubinfo": {"first_published": "Apr 10, 2003", "substantive_revision": "Jul 18, 2025"},
+      "authors": ["Wang, Wu"]
+    }
+  ]
+}

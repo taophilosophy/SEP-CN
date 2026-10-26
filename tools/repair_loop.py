@@ -49,6 +49,33 @@ def census():
     return base, allpaths
 
 
+def locate_by_slug(slug, allpaths, link_text="", authors=""):
+    """按 slug 分词 + 作者线索在主题目录布局中定位文件（评分制）。"""
+    toks = [t for t in slug.split('-') if len(t) > 2]
+    auth_toks = {a.lower() for a in re.findall(r'[A-Za-z]{3,}', authors or '')}
+    lt = (link_text or '').lower()
+    best, best_score = None, -1
+    for rel in allpaths:
+        b = rel.lower()  # 全路径参与匹配（目录名含集群关键词）
+        score = 0
+        if toks and all(t in b for t in toks):
+            score += 10
+        elif toks and sum(t in b for t in toks) >= max(1, int(len(toks) * 0.6)):
+            score += 6
+        elif toks and toks[0] in b:
+            score += 4
+        if '-see-' not in b:
+            score += 2
+        if any(a in b for a in auth_toks):
+            score += 3
+        for w in re.findall(r'[a-z]{4,}', lt):
+            if w in b:
+                score += 1
+        if score > best_score:
+            best, best_score = rel, score
+    return best if best_score >= 10 else None
+
+
 def git_historical_content(rel):
     """从 git 历史找回文件的最后已提交内容。"""
     try:
@@ -66,8 +93,52 @@ def git_historical_content(rel):
     return None
 
 
+def english_of(link_text):
+    """SUMMARY 链接文字 '中文 English (Authors)' → 英文标题部分（排序/匹配键）。"""
+    t = re.sub(r'\(([^)]*)\)\s*$', '', link_text).strip()
+    t = re.sub(r'^[^A-Za-z0-9\*\[]*', '', t)
+    return t.lower()
+
+
+def git_glob_restore(letter, slug):
+    """按 letter/*slug*.md 通配找 git 历史中的旧拼音路径并取内容。
+
+    我方的 slug 改名从未提交（工作树即改），文件原始内容只存在于
+    旧拼音路径的历史提交中（演示轮 3 停火复盘）。
+    """
+    try:
+        pat = '%s/*%s*.md' % (letter, slug)
+        r = subprocess.run(['git', 'log', '--all', '--format=%H', '-1', '--', pat],
+                           cwd=repo_path('.'), capture_output=True, text=True, timeout=30)
+        sha = r.stdout.strip()
+        if not sha:
+            return None
+        r2 = subprocess.run(['git', 'show', '--name-only', '--format=', sha, pat],
+                            cwd=repo_path('.'), capture_output=True, text=True, timeout=30)
+        old_path = r2.stdout.strip().split('\n')[0].strip()
+        if not old_path:
+            return None
+        r3 = subprocess.run(['git', 'show', '%s:%s' % (sha, old_path)],
+                            cwd=repo_path('.'), capture_output=True, timeout=30)
+        if r3.returncode == 0:
+            return r3.stdout.decode('utf-8', 'replace')
+    except Exception:
+        pass
+    return None
+
+
+
 def repair_once(pending_used):
     base, allpaths = census()
+    try:
+        upstream = load_json(repo_path('baseline', 'catalog.json'))['items']
+    except Exception:
+        upstream = []
+    title_index = {}
+    for it in upstream:
+        t = re.sub(r'[^a-z0-9]+', '', it['title'].lower())
+        if t:
+            title_index.setdefault(t, it['slug'])
     stats = {'fixed_links': 0, 'lost': 0, 'pending': 0, 'orphans': 0, 'baseline_sync': 0}
 
     # 1+2. SUMMARY / mu-lu-s 断链修复
@@ -81,15 +152,40 @@ def repair_once(pending_used):
                 if target.startswith(('http', 'mu-lu-s')) or target in allpaths:
                     out.append(line)
                     continue
-                cand = base.get(os.path.basename(target))
+                # 优先：SUMMARY 英文标题 → 上游 slug → slug.md（对方重命名为纯 slug.md）
+                slug = os.path.basename(target)[:-3]
+                tm2 = re.search(r'\[([^\]]+)\]', line)
+                if tm2:
+                    en_norm = re.sub(r'[^a-z0-9]+', '', english_of(tm2.group(1)))
+                    up = title_index.get(en_norm)
+                    if up:
+                        slug = up
+                cand = base.get(slug + '.md') or base.get(os.path.basename(target))
                 if cand and len(cand) == 1:
-                    newline = line.replace('](%s)' % target, '](%s)' % cand[0])
+                    pick = cand[0]
+                elif cand and len(cand) > 1:
+                    pref = [c for c in cand if slug in c.lower()]
+                    pool = pref or [c for c in cand if not c.endswith('README.md')] or cand
+                    pick = sorted(pool, key=len)[0]
+                elif os.path.isdir(repo_path(slug)):
+                    inner = sorted(os.listdir(repo_path(slug)))
+                    mds = [f for f in inner if f.endswith('.md')]
+                    pick = '%s/%s' % (slug, 'README.md' if 'README.md' in mds else mds[0]) \
+                        if mds else None
+                else:
+                    pick = None
+                if not pick:
+                    pm2 = re.search(r'\[([^\]]+)\]', line)
+                    pick = locate_by_slug(slug, allpaths,
+                                          pm2.group(1) if pm2 else '', line)
+                if pick:
+                    newline = line.replace('](%s)' % target, '](%s)' % pick)
                     out.append(newline)
                     changed = True
                     stats['fixed_links'] += 1
                     continue
                 # 丢失：从 git 历史找回 → pending/
-                hist = git_historical_content(target)
+                hist = git_historical_content(target) or git_glob_restore(target[0], slug)
                 if hist:
                     pdir = repo_path('pending')
                     os.makedirs(pdir, exist_ok=True)
@@ -104,7 +200,7 @@ def repair_once(pending_used):
                     continue
                 stats['lost'] += 1
                 out.append(line)
-                continue
+            continue
             out.append(line)
         if changed:
             write_text_verified(repo_path(rel), '\n'.join(out))

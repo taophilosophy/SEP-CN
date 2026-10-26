@@ -107,4 +107,29 @@
       脚注/补充材料/图片镜像；参考文献转引用注释（[^key]）；
       --summary 重建 yuanwen/SUMMARY.md（已转换条目改链 yuanwen 路径）；
       转换登记（md 哈希+源哈希）写入 baseline/entries.json。
+      数学保真（2026-10-27 裁定）：跨块 \(…\)/\[…\] 公式整体保护不腰斩；
+      公式内部原样保留，仅定界符统一 $…$/$$…$$、空白折叠；
+      表格单元格内数学竖线用 &#124; 保义；notes.html 裸公式段不过滤。
+```
+
+## fetch_all.py — 全量抓取+镜像驱动（2026-10-27 新增）
+
+```text
+用法: python tools/fetch_all.py [--config A|B] [--limit N] [--only slug...]
+                                [--resume] [--no-convert]
+输出: stderr 进度；stdout JSON {total, fetched, converted, failures, elapsed_s}
+行为: 对 baseline/catalog.json 全部非别名词条并发抓取+转换；
+      配置 A=16路×5秒、B=64路×10秒（用户指定，实测均未触发限流，默认 B）；
+      --resume 跳过原始物已齐全词条（断点续跑）；逐条留痕
+      script/fetch-all-log.jsonl，每 25 条写检查点 script/fetch-all-status.json。
+```
+
+## check_math.py — 数学保真门禁（2026-10-27 新增）
+
+```text
+用法: python tools/check_math.py [slug...]
+输出: {"checked": N, "formulas": N, "missing": [{slug, kind, excerpt}], "unbalanced": [...]}
+行为: 对基线中已转换词条，核验原始 HTML（正文+notes）每条公式内容在产物 md
+      中原样存在（实体解码、空白归一后比对）；占位符残留与正文行内 $ 失衡
+      一并报告。退出码 1 = 有失真。
 ```

@@ -42,17 +42,21 @@ function rawMathHtml(raw) {
 export function protectMath(src) {
   // 守卫必须編进正则（而非事后拒绝）：事后拒绝会让扫描跳过已消费的定界符，
   // 货币符号 "$150,000" 与后续公式错配时会连锁打乱整篇的 $ 配对。
+  // 单 $ 分两支：
+  //  A) 数字开头（货币嫌疑）：右定界符必须紧随内容、其后不允许紧跟数字（"$150,000" 不参与配对）
+  //  B) 非数字开头：右定界符前后允许空格（原子译稿有 "$ \alpha S' = {…} $" 写法）
   const re =
-    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$((?:[ \t]+\\)?(?:\\\$|[^\s$])(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)\$(?!\d)/g
+    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$((?:[ \t]+\\)?\d(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)\$(?!\d)|(?<!\\)\$(?!\d)((?:[ \t]+\\)?(?:\\\$|[^\s$])(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)[ \t]*\$/g
   const out = src.replace(
     re,
-    (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTex) => {
+    (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTexA, dTexB) => {
       if (fenceClosed || fenceOpen) return all // 围栏代码块原样保留
       if (all.startsWith('`')) return all // 行内代码原样保留
       if (blockTex !== undefined) return `\n\n@@MB${encodeB64(blockTex)}@@\n\n`
       if (inlineTex !== undefined) return `@@MI${encodeB64(inlineTex)}@@`
       if (ddTex !== undefined) return `@@MJ${encodeB64(`$$${ddTex}$$`)}@@`
-      return `@@MJ${encodeB64(`$${dTex}$`)}@@`
+      const single = dTexA !== undefined ? dTexA : dTexB
+      return `@@MJ${encodeB64(`$${single}$`)}@@`
     },
   )
   // 数学之外的裸 {{ 会被 Vue 当模板插值（轻则文本消失、重则编译报错），须屏蔽。

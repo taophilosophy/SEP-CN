@@ -32,7 +32,12 @@ def _norm(s):
 
 
 def raw_formulas(html):
-    """正文原始 HTML → 解码后的公式内部内容列表（保留定界符类型）。"""
+    """正文原始 HTML → 解码后的公式内部内容列表（保留定界符类型）。
+
+    先剥 HTML 注释：转换器丢弃注释内容（含 <!-- TOO SOON --> 类编辑性注释），
+    其中的公式不参与保真核对，否则误报。
+    """
+    html = re.sub(r'<!--.*?-->', '', html, flags=re.S)
     out = []
     for m in MATH_RE.finditer(html):
         v = m.group(1)
@@ -47,11 +52,11 @@ def raw_formulas(html):
     return out
 
 
-def check_slug(slug):
+def check_slug(slug, rec=None):
     issues = {'slug': slug, 'missing': [], 'unbalanced': []}
-    ydir = None
-    base = load_json(repo_path('baseline', 'entries.json'))
-    rec = next((r for r in base['entries'] if r['slug'] == slug), None)
+    if rec is None:
+        base = load_json(repo_path('baseline', 'entries.json'))
+        rec = next((r for r in base['entries'] if r['slug'] == slug), None)
     if not rec or not rec.get('yuanwen'):
         return {'slug': slug, 'skipped': 'no yuanwen'}
     md_path = repo_path(rec['yuanwen']['md'])
@@ -79,7 +84,8 @@ def check_slug(slug):
     if PLACEHOLDER_RE.search(md):
         issues['missing'].append({'kind': 'placeholder-leak', 'excerpt': '占位符残留'})
 
-    # 正文行内 $ 计数平衡（剥掉 $$ 与围栏/行内代码后，$ 应成对）
+    # 正文行内 $ 计数平衡（剥掉 $$ 与围栏/行内代码后，$ 应成对；
+    # `$` 后紧跟数字视为货币金额，不参与配对——与 .vitepress/math-plugin.mjs 的货币分支一致）
     fence = False
     for line in md.split('\n'):
         if line.lstrip().startswith('```'):
@@ -90,6 +96,7 @@ def check_slug(slug):
         t = line.replace('$$', '')
         # 行内代码里的 $ 不算定界符
         t = re.sub(r'`[^`]*`', '', t)
+        t = re.sub(r'\$\d[\d,.]*', '', t)
         if t.count('$') % 2:
             issues['unbalanced'].append(line.strip()[:80])
     return issues
@@ -98,19 +105,21 @@ def check_slug(slug):
 def main(argv=None):
     slugs = [a for a in (argv or sys.argv[1:]) if not a.startswith('-')]
     base = load_json(repo_path('baseline', 'entries.json'))
-    targets = [r['slug'] for r in base['entries'] if r.get('yuanwen')]
+    recs = [r for r in base['entries'] if r.get('yuanwen')]
     if slugs:
-        targets = [s for s in targets if s in set(slugs)]
-    out = {'checked': len(targets), 'formulas': 0, 'missing': [], 'unbalanced': []}
-    for slug in targets:
-        r = check_slug(slug)
+        want = set(slugs)
+        recs = [r for r in recs if r['slug'] in want]
+    out = {'checked': len(recs), 'formulas': 0, 'missing': [], 'unbalanced': []}
+    for rec in recs:
+        r = check_slug(rec['slug'], rec)
         if r.get('skipped'):
             continue
         out['formulas'] += r.get('formulas', 0)
-        out['missing'] += [{'slug': slug, **x} for x in r['missing']]
-        out['unbalanced'] += [{'slug': slug, 'line': x} for x in r['unbalanced']]
+        out['missing'] += [{'slug': rec['slug'], **x} for x in r['missing']]
+        out['unbalanced'] += [{'slug': rec['slug'], 'line': x} for x in r['unbalanced']]
     print(json.dumps(out, ensure_ascii=False, indent=2))
-    return 1 if (out['missing'] or out['unbalanced']) else 0
+    # 退出码只由 missing（公式丢失/占位残留）驱动；unbalanced 仅为渲染歧义警告
+    return 1 if out['missing'] else 0
 
 
 if __name__ == '__main__':

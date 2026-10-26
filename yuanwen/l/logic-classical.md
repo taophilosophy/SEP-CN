@@ -39,17 +39,13 @@ Here we develop the basics of a formal language, or to be precise, a class of fo
 
 We begin with analogues of *singular terms*, linguistic items whose function is to denote a person or object. We call these *terms*. We assume a stock of *individual constants*. These are lower-case letters, near the beginning of the Roman alphabet, with or without numerical subscripts:
 
-$$
-a, a_1, b_{23}, c, d_{22}, \text{etc}.
-$$
+$$ a, a_1, b_{23}, c, d_{22}, \text{etc}. $$
 
 We envisage a potential infinity of individual constants. In the present system each constant is a single character, and so individual constants do not have an internal syntax. Thus we have an infinite alphabet. This could be avoided by taking a constant like $d_{22}$, for example, to consist of three characters, a lowercase “$d$” followed by a pair of subscript “2”s.
 
 We also assume a stock of *individual variables*. These are lower-case letters, near the end of the alphabet, with or without numerical subscripts:
 
-$$
-w, x, y_{12}, z,  z_4, \text{etc}. 
-$$
+$$ w, x, y_{12}, z, z_4, \text{etc}. $$
 
 In ordinary mathematical reasoning, there are two functions terms need to fulfill. We need to be able to denote specific, but unspecified (or arbitrary) objects, and sometimes we need to express generality. In our system, we use some constants in the role of unspecified reference and variables to express generality. Both uses are recapitulated in the formal treatment below. Some logicians employ different symbols for unspecified objects (sometimes called “individual parameters”) and variables used to express generality.
 
@@ -57,9 +53,7 @@ Constants and variables are the only terms in our formal language, so all of our
 
 For each natural number $n$, we introduce a stock of $n$-place *predicate letters*. These are upper-case letters at the beginning or middle of the alphabet. A superscript indicates the number of places, and there may or may not be a subscript. For example,
 
-$$
-A^3, B^{3}_2,  P^3, \text{etc}.
-$$
+$$ A^3, B^{3}_2, P^3, \text{etc}. $$
 
 are three-place predicate letters. We often omit the superscript, when no confusion will result. We also add a special two-place predicate symbol “$=$” for identity.
 
@@ -69,13 +63,9 @@ The *non-logical terminology* of the language consists of its individual constan
 
 ### 2.2 Atomic formulas
 
-If $V$ is an $n$-place predicate letter in $K$, and $t_1,
-\ldots,t_n$ are terms of $K$, then $Vt_1 \ldots t_n$ is an *atomic formula* of $\LKe$. Notice that the terms $t_1,
-\ldots,t_n$ need not be distinct. Examples of atomic formulas include:
+If $V$ is an $n$-place predicate letter in $K$, and $t_1, \ldots,t_n$ are terms of $K$, then $Vt_1 \ldots t_n$ is an *atomic formula* of $\LKe$. Notice that the terms $t_1, \ldots,t_n$ need not be distinct. Examples of atomic formulas include:
 
-$$
-P^4 xaab, C^1 x, C^1 a, D^0, A^3 abc.
-$$
+$$ P^4 xaab, C^1 x, C^1 a, D^0, A^3 abc. $$
 
 The last one is an analogue of a statement that a certain relation $(A)$ holds between three objects $(a, b, c)$. If $t_1$ and $t_2$ are terms, then $t_1 =t_2$ is also an atomic formula of $\LKe$. It corresponds to an assertion that $t_1$ is identical to $t_2$.
 
@@ -85,15 +75,12 @@ If an atomic formula has no variables, then it is called an *atomic sentence*. I
 
 We now introduce the final items of the lexicon:
 
-$$
-\neg, \amp, \vee, \rightarrow, \forall, \exists, (, )
-$$
+$$ \neg, \amp, \vee, \rightarrow, \forall, \exists, (, ) $$
 
 We give a recursive definition of a *formula* of $\LKe$:
 
 1. All atomic formulas of $\LKe$ are formulas of $\LKe$.
-2. If $\theta$ is a formula of $\LKe$, then so is $\neg
-\theta$.
+2. If $\theta$ is a formula of $\LKe$, then so is $\neg \theta$.
 
 A formula corresponding to $\neg \theta$ thus says that it is not the case that $\theta$. The symbol “$\neg$” is called “negation”, and is a unary connective.
 
@@ -103,22 +90,17 @@ The ampersand “$\amp$” corresponds to the English “and” (when “and” 
 
 1. If $\theta$ and $\psi$ are formulas of $\LKe$, then so is $(\theta \vee \psi)$.
 
-The symbol “$\vee$” corresponds to “either … or … or both”, so $(\theta \vee \psi)$ can be read “$\theta$ or $\psi$”. The formula $(\theta \vee
-\psi)$ is called the “disjunction” of $\theta$ and $\psi$.
+The symbol “$\vee$” corresponds to “either … or … or both”, so $(\theta \vee \psi)$ can be read “$\theta$ or $\psi$”. The formula $(\theta \vee \psi)$ is called the “disjunction” of $\theta$ and $\psi$.
 
 1. If $\theta$ and $\psi$ are formulas of $\LKe$, then so is $(\theta \rightarrow \psi)$.
 
-The arrow “$\rightarrow$” roughly corresponds to “if … then … ”, so $(\theta \rightarrow
-\psi)$ can be read “if $\theta$ then $\psi$” or “$\theta$ only if $\psi$”.
+The arrow “$\rightarrow$” roughly corresponds to “if … then … ”, so $(\theta \rightarrow \psi)$ can be read “if $\theta$ then $\psi$” or “$\theta$ only if $\psi$”.
 
-The symbols “$\amp$”, “$\vee$”, and “$\rightarrow$” are called “binary connectives”, since they serve to “connect” two formulas into one. Some authors introduce $(\theta \leftrightarrow
-\psi)$ as an abbreviation of $((\theta \rightarrow \psi) \amp(\psi
-\rightarrow \theta))$. The symbol “$\leftrightarrow$” is an analogue of the locution “if and only if”.
+The symbols “$\amp$”, “$\vee$”, and “$\rightarrow$” are called “binary connectives”, since they serve to “connect” two formulas into one. Some authors introduce $(\theta \leftrightarrow \psi)$ as an abbreviation of $((\theta \rightarrow \psi) \amp(\psi \rightarrow \theta))$. The symbol “$\leftrightarrow$” is an analogue of the locution “if and only if”.
 
 1. If $\theta$ is a formula of $\LKe$ and $v$ is a variable, then $\forall v \theta$ is a formula of $\LKe$.
 
-The symbol “$\forall$” is called a *universal quantifier*, and is an analogue of “for all”; so $\forall v\theta$ can be read “for all $v,
-\theta$”.
+The symbol “$\forall$” is called a *universal quantifier*, and is an analogue of “for all”; so $\forall v\theta$ can be read “for all $v, \theta$”.
 
 1. If $\theta$ is a formula of $\LKe$ and $v$ is a variable, then $\exists v \theta$ is a formula of $\LKe$.
 
@@ -134,8 +116,7 @@ Clause (8) allows us to do inductions on the complexity of formulas. If a certai
 
 We next define the notion of an occurrence of a variable being *free* or *bound* in a formula. A variable that immediately follows a quantifier (as in “$\forall x$” and “$\exists y$”) is neither free nor bound. We do not even think of those as occurrences of the variable. All variables that occur in an atomic formula are free. If a variable occurs free (or bound) in $\theta$ or in $\psi$, then that same occurrence is free (or bound) in $\neg \theta, (\theta \amp \psi), (\theta \vee \psi)$, and $(\theta \rightarrow \psi)$. That is, the (unary and binary) connectives do not change the status of variables that occur in them. All occurrences of the variable $v$ in $\theta$ are bound in $\forall v \theta$ and $\exists v \theta$. Any *free* occurrences of $v$ in $\theta$ are bound by the initial quantifier. All other variables that occur in $\theta$ are free or bound in $\forall v \theta$ and $\exists v \theta$, as they are in $\theta$.
 
-For example, in the formula $(\forall$x(*Axy* $\vee Bx) \amp
-Bx)$, the occurrences of “$x$” in *Axy* and in the first $Bx$ are bound by the quantifier. The occurrence of “$y$” and last occurrence of “$x$” are free. In $\forall x(Ax \rightarrow \exists$*xBx*), the “$x$” in $Ax$ is bound by the initial universal quantifier, while the other occurrence of $x$ is bound by the existential quantifier. The above syntax allows this “double-binding”. Although it does not create any ambiguities (see below), we will avoid such formulas, as a matter of taste and clarity.
+For example, in the formula $(\forall$x(*Axy* $\vee Bx) \amp Bx)$, the occurrences of “$x$” in *Axy* and in the first $Bx$ are bound by the quantifier. The occurrence of “$y$” and last occurrence of “$x$” are free. In $\forall x(Ax \rightarrow \exists$*xBx*), the “$x$” in $Ax$ is bound by the initial universal quantifier, while the other occurrence of $x$ is bound by the existential quantifier. The above syntax allows this “double-binding”. Although it does not create any ambiguities (see below), we will avoid such formulas, as a matter of taste and clarity.
 
 The syntax also allows so-called vacuous binding, as in $\forall$x$Bc$. These, too, will be avoided in what follows. Some treatments of logic rule out vacuous binding and double binding as a matter of syntax. That simplifies some of the treatments below, and complicates others.
 
@@ -151,8 +132,7 @@ One difference between natural languages like English and formal languages like 
 
 John is married, and Mary is single, or Joe is crazy.
 
-It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an “amphiboly”. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a “formula” $A \amp B \vee$* C*. Is this supposed to be $((A \amp B) \vee C)$, or is it $(A \amp(B \vee
-C))$? The parentheses resolve what would be an amphiboly.
+It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an “amphiboly”. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a “formula” $A \amp B \vee$* C*. Is this supposed to be $((A \amp B) \vee C)$, or is it $(A \amp(B \vee C))$? The parentheses resolve what would be an amphiboly.
 
 Can we be sure that there are no other amphibolies in our language? That is, can we be sure that each formula of $\LKe$ can be put together in only one way? Our next task is to answer this question.
 
@@ -172,16 +152,13 @@ The proof proceeds by induction on the number of instances of (2)–(7) used to 
 
 **Theorem 5**. Let $\alpha, \beta$ be nonempty sequences of characters on our alphabet, such that $\alpha \beta$ (i.e $\alpha$ followed by $\beta)$ is a formula. Then $\alpha$ is *not* a formula.
 
-**Proof**: By Theorem 1 and Lemma 3, if $\alpha$ contains a left parenthesis, then the right parenthesis that matches the leftmost left parenthesis in $\alpha \beta$ comes at the end of $\alpha \beta$, and so the matching right parenthesis is in $\beta$. So, $\alpha$ has more left parentheses than right parentheses. By Theorem $1, \alpha$ is not a formula. So now suppose that $\alpha$ does not contain any left parentheses. By Lemma $2,
-\alpha \beta$ consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)–(5). If the latter formula was produced via one of clauses (3)–(5), then it begins with a left parenthesis. Since $\alpha$ does not contain any parentheses, it must be a string of unary markers. But then $\alpha$ does not contain any atomic formulas, and so by Lemma $4, \alpha$ is not a formula. The only case left is where $\alpha \beta$ consists of a string of unary markers followed by an atomic formula, either in the form $t_1 =t_2$ or $Pt_1 \ldots t_n$. Again, if $\alpha$ just consisted of unary markers, it would not be a formula, and so $\alpha$ must consist of the unary markers that start $\alpha
-\beta$, followed by either $t_1$ by itself, $t_1 =$ by itself, or the predicate letter $P$, and perhaps some (but not all) of the terms $t_1, \ldots,t_n$. In the first two cases, $\alpha$ does not contain an atomic formula, by the policy that the categories do not overlap. Since $P$ is an $n$-place predicate letter, by the policy that the predicate letters are distinct, $P$ is not an $m$-place predicate letter for any $m \ne n$. So the part of $\alpha$ that consists of $P$ followed by the terms is not an atomic formula. In all of these cases, then, $\alpha$ does not contain an atomic formula. By Lemma $4, \alpha$ is not a formula.
+**Proof**: By Theorem 1 and Lemma 3, if $\alpha$ contains a left parenthesis, then the right parenthesis that matches the leftmost left parenthesis in $\alpha \beta$ comes at the end of $\alpha \beta$, and so the matching right parenthesis is in $\beta$. So, $\alpha$ has more left parentheses than right parentheses. By Theorem $1, \alpha$ is not a formula. So now suppose that $\alpha$ does not contain any left parentheses. By Lemma $2, \alpha \beta$ consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)–(5). If the latter formula was produced via one of clauses (3)–(5), then it begins with a left parenthesis. Since $\alpha$ does not contain any parentheses, it must be a string of unary markers. But then $\alpha$ does not contain any atomic formulas, and so by Lemma $4, \alpha$ is not a formula. The only case left is where $\alpha \beta$ consists of a string of unary markers followed by an atomic formula, either in the form $t_1 =t_2$ or $Pt_1 \ldots t_n$. Again, if $\alpha$ just consisted of unary markers, it would not be a formula, and so $\alpha$ must consist of the unary markers that start $\alpha \beta$, followed by either $t_1$ by itself, $t_1 =$ by itself, or the predicate letter $P$, and perhaps some (but not all) of the terms $t_1, \ldots,t_n$. In the first two cases, $\alpha$ does not contain an atomic formula, by the policy that the categories do not overlap. Since $P$ is an $n$-place predicate letter, by the policy that the predicate letters are distinct, $P$ is not an $m$-place predicate letter for any $m \ne n$. So the part of $\alpha$ that consists of $P$ followed by the terms is not an atomic formula. In all of these cases, then, $\alpha$ does not contain an atomic formula. By Lemma $4, \alpha$ is not a formula.
 
 We are finally in position to show that there is no amphiboly in our language.
 
 **Theorem 6**. Let $\theta$ be any formula of $\LKe$. If $\theta$ is not atomic, then there is one and only one among (2)–(7) that was the last clause applied to construct $\theta$. That is, $\theta$ could not be produced by two different clauses. Moreover, no formula produced by clauses (2)–(7) is atomic.
 
-**Proof**: By Clause (8), either $\theta$ is atomic or it was produced by one of clauses (2)–(7). Thus, the first symbol in $\theta$ must be either a predicate letter, a term, a unary marker, or a left parenthesis. If the first symbol in $\theta$ is a predicate letter or term, then $\theta$ is atomic. In this case, $\theta$ was not produced by any of (2)–(7), since all such formulas begin with something other than a predicate letter or term. If the first symbol in $\theta$ is a negation sign “$\neg$”, then was $\theta$ produced by clause (2), and not by any other clause (since the other clauses produce formulas that begin with either a quantifier or a left parenthesis). Similarly, if $\theta$ begins with a universal quantifier, then it was produced by clause (6), and not by any other clause, and if $\theta$ begins with an existential quantifier, then it was produced by clause (7), and not by any other clause. The only case left is where $\theta$ begins with a left parenthesis. In this case, it must have been produced by one of (3)–(5), and not by any other clause. We only need to rule out the possibility that $\theta$ was produced by more than one of (3)–(5). To take an example, suppose that $\theta$ was produced by (3) and (4). Then $\theta$ is $(\psi_1 \amp
-\psi_2)$ and $\theta$ is also $(\psi_3 \vee \psi_4)$, where $\psi_1, \psi_2, \psi_3$, and $\psi_4$ are themselves formulas. That is, $(\psi_1 \amp \psi_2)$ is the very same formula as $(\psi_3 \vee \psi_4)$. By Theorem $5, \psi_1$ cannot be a proper part of $\psi_3$, nor can $\psi_3$ be a proper part of $\psi_1$. So $\psi_1$ must be the same formula as $\psi_3$. But then “$\amp$” must be the same symbol as “$\vee$”, and this contradicts the policy that all of the symbols are different. So $\theta$ was not produced by both Clause (3) and Clause (4). Similar reasoning takes care of the other combinations.
+**Proof**: By Clause (8), either $\theta$ is atomic or it was produced by one of clauses (2)–(7). Thus, the first symbol in $\theta$ must be either a predicate letter, a term, a unary marker, or a left parenthesis. If the first symbol in $\theta$ is a predicate letter or term, then $\theta$ is atomic. In this case, $\theta$ was not produced by any of (2)–(7), since all such formulas begin with something other than a predicate letter or term. If the first symbol in $\theta$ is a negation sign “$\neg$”, then was $\theta$ produced by clause (2), and not by any other clause (since the other clauses produce formulas that begin with either a quantifier or a left parenthesis). Similarly, if $\theta$ begins with a universal quantifier, then it was produced by clause (6), and not by any other clause, and if $\theta$ begins with an existential quantifier, then it was produced by clause (7), and not by any other clause. The only case left is where $\theta$ begins with a left parenthesis. In this case, it must have been produced by one of (3)–(5), and not by any other clause. We only need to rule out the possibility that $\theta$ was produced by more than one of (3)–(5). To take an example, suppose that $\theta$ was produced by (3) and (4). Then $\theta$ is $(\psi_1 \amp \psi_2)$ and $\theta$ is also $(\psi_3 \vee \psi_4)$, where $\psi_1, \psi_2, \psi_3$, and $\psi_4$ are themselves formulas. That is, $(\psi_1 \amp \psi_2)$ is the very same formula as $(\psi_3 \vee \psi_4)$. By Theorem $5, \psi_1$ cannot be a proper part of $\psi_3$, nor can $\psi_3$ be a proper part of $\psi_1$. So $\psi_1$ must be the same formula as $\psi_3$. But then “$\amp$” must be the same symbol as “$\vee$”, and this contradicts the policy that all of the symbols are different. So $\theta$ was not produced by both Clause (3) and Clause (4). Similar reasoning takes care of the other combinations.
 
 This result is sometimes called “unique readability”. It shows that each formula is produced from the atomic formulas via the various clauses in exactly one way. If $\theta$ was produced by clause (2), then its *main connective* is the initial “$\neg$”. If $\theta$ was produced by clauses (3), (4), or (5), then its *main connective* is the introduced “$\amp$”, “$\vee$”, or “$\rightarrow$”, respectively. If $\theta$ was produced by clauses (6) or (7), then its *main connective* is the initial quantifier. We apologize for the tedious details. We included them to indicate the level of precision and rigor for the syntax.
 
@@ -195,8 +172,7 @@ The rules in $D$ are chosen to match logical relations concerning the English an
 
 **(As)**
 
-If $\phi$ is a member of $\Gamma$, then $\Gamma \vdash
-\phi$.
+If $\phi$ is a member of $\Gamma$, then $\Gamma \vdash \phi$.
 
 We thus have that $\{\phi \}\vdash \phi$; each premise follows from itself. We next present two clauses for each connective and quantifier. The clauses indicate how to “introduce” and “eliminate” sentences in which each symbol is the main connective.
 
@@ -208,9 +184,7 @@ If $\Gamma_1 \vdash \theta$ and $\Gamma_2 \vdash \psi$, then $\Gamma_1, \Gamma_2
 
 **$(\amp \mathrm{E})$**
 
-If $\Gamma \vdash(\theta \amp \psi)$ then $\Gamma \vdash
-\theta$; and if $\Gamma \vdash(\theta \amp \psi)$ then $\Gamma
-\vdash \psi$.
+If $\Gamma \vdash(\theta \amp \psi)$ then $\Gamma \vdash \theta$; and if $\Gamma \vdash(\theta \amp \psi)$ then $\Gamma \vdash \psi$.
 
 The name “&I” stands for “&-introduction”; “&E” stands for “&-elimination”.
 
@@ -218,30 +192,23 @@ Since, the symbol “$\vee$” corresponds to the English “or”, $(\theta \ve
 
 **$(\vee \mathrm{I})$**
 
-If $\Gamma \vdash \theta$ then $\Gamma \vdash(\theta \vee
-\psi)$; if $\Gamma \vdash \psi$ then $\Gamma \vdash(\theta \vee
-\psi)$.
+If $\Gamma \vdash \theta$ then $\Gamma \vdash(\theta \vee \psi)$; if $\Gamma \vdash \psi$ then $\Gamma \vdash(\theta \vee \psi)$.
 
 The elimination rule is a bit more complicated. Suppose that “$\theta$ or $\psi$” is true. Suppose also that $\phi$ follows from $\theta$ and that $\phi$ follows from $\psi$. One can reason that if $\theta$ is true, then $\phi$ is true. If instead $\psi$ is true, we still have that $\phi$ is true. So either way, $\phi$ must be true.
 
 **$(\vee \mathrm{E})$**
 
-If $\Gamma_1 \vdash(\theta \vee \psi), \Gamma_2, \theta \vdash
-\phi$ and $\Gamma_3, \psi \vdash \phi$, then $\Gamma_1, \Gamma_2,
-\Gamma_3 \vdash \phi$.
+If $\Gamma_1 \vdash(\theta \vee \psi), \Gamma_2, \theta \vdash \phi$ and $\Gamma_3, \psi \vdash \phi$, then $\Gamma_1, \Gamma_2, \Gamma_3 \vdash \phi$.
 
-For the next clauses, recall that the symbol, “$\rightarrow$”, is an analogue of the English “if … then … ” construction. If one knows, or assumes $(\theta \rightarrow \psi)$ and also knows, or assumes $\theta$, then one can conclude $\psi$. Conversely, if one deduces $\psi$ from an assumption $\theta$, then one can conclude that $(\theta
-\rightarrow \psi)$.
+For the next clauses, recall that the symbol, “$\rightarrow$”, is an analogue of the English “if … then … ” construction. If one knows, or assumes $(\theta \rightarrow \psi)$ and also knows, or assumes $\theta$, then one can conclude $\psi$. Conversely, if one deduces $\psi$ from an assumption $\theta$, then one can conclude that $(\theta \rightarrow \psi)$.
 
 **$({\rightarrow}\mathrm{I})$**
 
-If $\Gamma, \theta \vdash \psi$, then $\Gamma \vdash(\theta
-\rightarrow \psi)$.
+If $\Gamma, \theta \vdash \psi$, then $\Gamma \vdash(\theta \rightarrow \psi)$.
 
 **$({\rightarrow}\mathrm{E})$**
 
-If $\Gamma_1 \vdash(\theta \rightarrow \psi)$ and $\Gamma_2
-\vdash \theta$, then $\Gamma_1, \Gamma_2 \vdash \psi$.
+If $\Gamma_1 \vdash(\theta \rightarrow \psi)$ and $\Gamma_2 \vdash \theta$, then $\Gamma_1, \Gamma_2 \vdash \psi$.
 
 This elimination rule is sometimes called “modus ponens”. In some logic texts, the introduction rule is proved as a “deduction theorem”.
 
@@ -249,15 +216,13 @@ Our next clauses are for the negation sign, “$\neg$”. The underlying idea is
 
 **$(\neg \mathrm{I})$**
 
-If $\Gamma_1, \theta \vdash \psi$ and $\Gamma_2, \theta \vdash
-\neg \psi$, then $\Gamma_1, \Gamma_2 \vdash \neg \theta$.
+If $\Gamma_1, \theta \vdash \psi$ and $\Gamma_2, \theta \vdash \neg \psi$, then $\Gamma_1, \Gamma_2 \vdash \neg \theta$.
 
 By (As), we have that $\{A,\neg A\}\vdash A$ and $\{$*A,$\neg$A*$\}\vdash \neg A$. So by $\neg$I we have that $\{A\}\vdash \neg \neg A$. However, we do not have the converse yet. Intuitively, $\neg \neg \theta$ corresponds to “it is not the case that it is not the case that” . One might think that this last is equivalent to $\theta$, and we have a rule to that effect:
 
 **(DNE)**
 
-If $\Gamma \vdash \neg \neg \theta$, then $\Gamma \vdash
-\theta$.
+If $\Gamma \vdash \neg \neg \theta$, then $\Gamma \vdash \theta$.
 
 The name DNE stands for “double-negation elimination”. There is some controversy over this inference. It is rejected by philosophers and mathematicians who do not hold that each meaningful sentence is either true or not true. *Intuitionistic logic* does not sanction the inference in question (see, for example Dummett [2000], or the entry on intuitionistic logic, or history of intuitionistic logic), but, again, classical logic does.
 
@@ -276,11 +241,7 @@ To illustrate the parts of the deductive system $D$ presented thus far, we show 
 
 The principle $(\theta \vee \neg \theta)$ is sometimes called the *law of excluded middle*. It is not valid in intuitionistic logic.
 
-Let $\theta, \neg \theta$ be a pair of contradictory opposites, and let $\psi$ be any sentence at all. By (As) we have $\{\theta, \neg
-\theta, \neg \psi \}\vdash \theta$ and $\{\theta, \neg \theta, \neg
-\psi \}\vdash \neg \theta$. So by $(\neg$I), $\{\theta, \neg
-\theta \}\vdash \neg \neg \psi$. So, by (DNE) we have $\{\theta ,
-\neg \theta \}\vdash \psi$ . That is, anything at all follows from a pair of contradictory opposites. Some logicians introduce a rule to codify a similar inference:
+Let $\theta, \neg \theta$ be a pair of contradictory opposites, and let $\psi$ be any sentence at all. By (As) we have $\{\theta, \neg \theta, \neg \psi \}\vdash \theta$ and $\{\theta, \neg \theta, \neg \psi \}\vdash \neg \theta$. So by $(\neg$I), $\{\theta, \neg \theta \}\vdash \neg \neg \psi$. So, by (DNE) we have $\{\theta , \neg \theta \}\vdash \psi$ . That is, anything at all follows from a pair of contradictory opposites. Some logicians introduce a rule to codify a similar inference:
 
 If $\Gamma_1 \vdash \theta$ and $\Gamma_2 \vdash \neg \theta$, then for any sentence $\psi, \Gamma_1, \Gamma_2 \vdash \psi$
 
@@ -298,8 +259,7 @@ A sentence in the form $\forall v \theta$ is an analogue of the English “for e
 
 **$(\forall \mathrm{E})$**
 
-If $\Gamma \vdash \forall v \theta$, then $\Gamma \vdash
-\theta(v|t)$, for any closed term $t$.
+If $\Gamma \vdash \forall v \theta$, then $\Gamma \vdash \theta(v|t)$, for any closed term $t$.
 
 The idea here is that if $\forall v \theta$ is true, then $\theta$ should hold of $t$, no matter what $t$ is.
 
@@ -321,8 +281,7 @@ The elimination rule for $\exists$ is not quite as simple:
 
 **$(\exists \mathrm{E})$**
 
-For any closed term $t$, if $\Gamma_1\vdash\exists v\theta$ and $\Gamma_2, \theta(v|t)\vdash\phi$, then $\Gamma_1
-,\Gamma_2\vdash\phi$, provided that $t$ does not occur in $\phi$, $\Gamma_2$ or $\theta$.
+For any closed term $t$, if $\Gamma_1\vdash\exists v\theta$ and $\Gamma_2, \theta(v|t)\vdash\phi$, then $\Gamma_1 ,\Gamma_2\vdash\phi$, provided that $t$ does not occur in $\phi$, $\Gamma_2$ or $\theta$.
 
 This elimination rule also corresponds to a common inference. Suppose that a mathematician assumes or somehow concludes that there is a natural number with a given property $P$. She then says “let $n$ be such a natural number, so that $Pn$”, and goes on to establish a sentence $\phi$, which does not mention the number $n$. If the derivation of $\phi$ does not invoke anything about $n$ (other than the assumption that it has the given property $P)$, then $n$ could have been any number that has the property $P$. That is, $n$ is an *arbitrary* number with property $P$. It does not matter which number $n$ is. Since $\phi$ does not mention $n$, it follows from the assertion that something has property $P$. The provisions added to $(\exists$E) are to guarantee that $t$ is “arbitrary”.
 
@@ -336,9 +295,7 @@ This “inference” corresponds to the truism that everything is identical to i
 
 **$({=}\mathrm{E})$**
 
-For any closed terms $t_1$ and $t_2$, if $\Gamma_1 \vdash t_1
-=t_2$ and $\Gamma_2 \vdash \theta$, then $\Gamma_1, \Gamma_2
-\vdash \theta'$, where $\theta'$ is obtained from $\theta$ by replacing one or more occurances of $t_1$ with $t_2$.
+For any closed terms $t_1$ and $t_2$, if $\Gamma_1 \vdash t_1 =t_2$ and $\Gamma_2 \vdash \theta$, then $\Gamma_1, \Gamma_2 \vdash \theta'$, where $\theta'$ is obtained from $\theta$ by replacing one or more occurances of $t_1$ with $t_2$.
 
 The rule $({=}\mathrm{E})$ indicates a certain restriction in the expressive resources of our language. Suppose, for example, that Harry is identical to Donald (since his mischievous parents gave him two names). According to most people’s intuitions, it would not follow from this and “Dick knows that Harry is wicked” that “Dick knows that Donald is wicked”, for the reason that Dick might not know that Harry is identical to Donald. Contexts like this, in which identicals cannot safely be substituted for each other, are called “opaque”. We assume that our language $\LKe$ has no opaque contexts.
 
@@ -356,19 +313,13 @@ Before moving on to the model theory for $\LKe$, we pause to note a few features
 
 **Proof:** The proof proceeds by induction on the number of steps in the proof of $\phi$. Crucial to this proof is the fact that $\theta=\theta(t|t')$ whenever $\theta$ does not contain $t$ or $t'$. When the number of steps in the proof of $\phi$ is one, this means that the last (and only) rule applied is (As) or (=I). Then, since $\phi$ does not contain $t$ or $t'$, if $\Gamma_1\vdash\phi$ we simply apply the same rule ((As) or (=I)) to $\Gamma_2$ to get $\Gamma_2\vdash\phi$. Assume that there are $n>1$ steps in the proof of $\phi$, and that Lemma 7 holds for any proof with less than $n$ steps. Suppose that the $n^{th}$ rule applied to $\Gamma_1$ was ($\amp I$). Then $\phi$ is $\psi\amp\chi$, and $\Gamma_1\vdash\phi\amp\chi$. But then we know that previous steps in the proof include $\Gamma_1\vdash\psi$ and $\Gamma_1\vdash\chi$, and by induction, we have $\Gamma_2\vdash\psi$ and $\Gamma_2\vdash\chi$, since neither $\psi$ nor $\chi$ contain $t$ or $t'$. So, we simply apply ($\amp I$) to $\Gamma_2$ to get $\Gamma_2\vdash\psi\amp\chi$ as required. Suppose now that the last step applied in the proof of $\Gamma_1\vdash\phi$ was ($\amp E$). Then, at a previous step in the proof of $\phi$, we know $\Gamma_1\vdash\phi\amp\psi$ for some sentence $\psi$. If $\psi$ does not contain $t$, then we simply apply ($\amp E$) to $\Gamma_2$ to obtain the desired result. The only complication is if $\psi$ contains $t$. Then we would have that $\Gamma_2\vdash (\phi\amp\psi)(t|t')$. But, since $(\phi\amp\psi)(t|t')$ is $\phi(t|t')\amp\psi(t|t')$, and $\phi(t|t')$ is just $\phi$, we can just apply ($\amp E$) to get $\Gamma_2\vdash\phi$ as required. The cases for the other rules are similar.
 
-**Theorem 8. The rule of Weakening.** If $\Gamma_1
-\vdash \phi$ and $\Gamma_1 \subseteq \Gamma_2$, then $\Gamma_2
-\vdash \phi$.
+**Theorem 8. The rule of Weakening.** If $\Gamma_1 \vdash \phi$ and $\Gamma_1 \subseteq \Gamma_2$, then $\Gamma_2 \vdash \phi$.
 
-**Proof:** Again, we proceed by induction on the number of rules that were used to arrive at $\Gamma_1 \vdash \phi$. Suppose that $n\gt 0$ is a natural number, and that the theorem holds for any argument that was derived using fewer than $n$ rules. Suppose that $\Gamma_1 \vdash \phi$ using exactly $n$ rules. If $n=1$, then the rule is either (As) or $(=$I). In these cases, $\Gamma_2
-\vdash \phi$ by the same rule. If the last rule applied was (&I), then $\phi$ has the form $(\theta \amp \psi)$, and we have $\Gamma_3 \vdash \theta$ and $\Gamma_4 \vdash \psi$, with $\Gamma_1 = \Gamma_3, \Gamma_4$. We apply the induction hypothesis to the deductions of $\theta$ and $\psi$, to get $\Gamma_2 \vdash
-\theta$ and $\Gamma_2 \vdash \psi$. and then apply (&I) to the result to get $\Gamma_2 \vdash \phi$. Most of the other cases are exactly like this. Slight complications arise only in the rules $(\forall$I) and $(\exists$E), because there we have to pay attention to the conditions for the rules.
+**Proof:** Again, we proceed by induction on the number of rules that were used to arrive at $\Gamma_1 \vdash \phi$. Suppose that $n\gt 0$ is a natural number, and that the theorem holds for any argument that was derived using fewer than $n$ rules. Suppose that $\Gamma_1 \vdash \phi$ using exactly $n$ rules. If $n=1$, then the rule is either (As) or $(=$I). In these cases, $\Gamma_2 \vdash \phi$ by the same rule. If the last rule applied was (&I), then $\phi$ has the form $(\theta \amp \psi)$, and we have $\Gamma_3 \vdash \theta$ and $\Gamma_4 \vdash \psi$, with $\Gamma_1 = \Gamma_3, \Gamma_4$. We apply the induction hypothesis to the deductions of $\theta$ and $\psi$, to get $\Gamma_2 \vdash \theta$ and $\Gamma_2 \vdash \psi$. and then apply (&I) to the result to get $\Gamma_2 \vdash \phi$. Most of the other cases are exactly like this. Slight complications arise only in the rules $(\forall$I) and $(\exists$E), because there we have to pay attention to the conditions for the rules.
 
-Suppose that the last rule applied to get $\Gamma_1 \vdash \phi$ is $(\forall$I). So $\phi$ is a sentence of the form $\forall
-v\theta$, and we have $\Gamma_1 \vdash \theta (v|t)$ and $t$ does not occur in any member of $\Gamma_1$ or in $\theta$. The problem is that $t$ may occur in a member of $\Gamma_2$, and so we cannot just invoke the induction hypothesis and apply $(\forall$I) to the result. So, let $t'$ be a term not occurring in any sentence in $\Gamma_2$. Let $\Gamma'$ be the result of substituting $t'$ for all $t$ in $\Gamma_2$. Then, since $t$ does not occur in $\Gamma_1$, $\Gamma_1\subseteq\Gamma'$. So, the induction hypothesis gives us $\Gamma'\vdash\theta (v|t)$, and we know that $\Gamma'$ does not contain $t$, so we can apply ($\forall I$) to get $\Gamma'\vdash\forall v\theta$. But $\forall v\theta$ does not contain $t$ or $t'$, so $\Gamma_2\vdash\forall v\theta$ by Lemma 7.
+Suppose that the last rule applied to get $\Gamma_1 \vdash \phi$ is $(\forall$I). So $\phi$ is a sentence of the form $\forall v\theta$, and we have $\Gamma_1 \vdash \theta (v|t)$ and $t$ does not occur in any member of $\Gamma_1$ or in $\theta$. The problem is that $t$ may occur in a member of $\Gamma_2$, and so we cannot just invoke the induction hypothesis and apply $(\forall$I) to the result. So, let $t'$ be a term not occurring in any sentence in $\Gamma_2$. Let $\Gamma'$ be the result of substituting $t'$ for all $t$ in $\Gamma_2$. Then, since $t$ does not occur in $\Gamma_1$, $\Gamma_1\subseteq\Gamma'$. So, the induction hypothesis gives us $\Gamma'\vdash\theta (v|t)$, and we know that $\Gamma'$ does not contain $t$, so we can apply ($\forall I$) to get $\Gamma'\vdash\forall v\theta$. But $\forall v\theta$ does not contain $t$ or $t'$, so $\Gamma_2\vdash\forall v\theta$ by Lemma 7.
 
-Suppose that the last rule applied was $(\exists$E), we have $\Gamma_3 \vdash \exists v\theta$ and $\Gamma_4, \theta (v|t)
-\vdash \phi$, with $\Gamma_1$ being $\Gamma_3, \Gamma_4$, and $t$ not in $\phi$, $\Gamma_4$ or $\theta$. If $t$ does not occur free in $\Gamma_2$, we apply the induction hypothesis to get $\Gamma_2 \vdash \exists v\theta$, and then $(\exists$E) to end up with $\Gamma_2 \vdash \phi$. If $t$ does occur free in $\Gamma_2$, then we follow a similar procedure to $\forall I$, using Lemma 7.
+Suppose that the last rule applied was $(\exists$E), we have $\Gamma_3 \vdash \exists v\theta$ and $\Gamma_4, \theta (v|t) \vdash \phi$, with $\Gamma_1$ being $\Gamma_3, \Gamma_4$, and $t$ not in $\phi$, $\Gamma_4$ or $\theta$. If $t$ does not occur free in $\Gamma_2$, we apply the induction hypothesis to get $\Gamma_2 \vdash \exists v\theta$, and then $(\exists$E) to end up with $\Gamma_2 \vdash \phi$. If $t$ does occur free in $\Gamma_2$, then we follow a similar procedure to $\forall I$, using Lemma 7.
 
 Theorem 8 allows us to add on premises at will. It follows that $\Gamma \vdash \phi$ if and only if there is a subset $\Gamma'\subseteq \Gamma$ such that $\Gamma'\vdash \phi$. Some systems of relevant logic do not have weakening, nor does substructural logic (See the entries on relevance logic, substructural logics, and linear logic).
 
@@ -376,53 +327,33 @@ By clause (*), all derivations are established in a finite number of steps. So w
 
 **Theorem 9**. $\Gamma \vdash \phi$ if and only if there is a finite $\Gamma'\subseteq \Gamma$ such that $\Gamma'\vdash \phi$.
 
-**Theorem 10**. The rule of *ex falso quodlibet* is a “derived rule” of $D$: if $\Gamma_1 \vdash
-\theta$ and $\Gamma_2 \vdash \neg \theta$, then $\Gamma_1,\Gamma_2
-\vdash \psi$, for any sentence $\psi$.
+**Theorem 10**. The rule of *ex falso quodlibet* is a “derived rule” of $D$: if $\Gamma_1 \vdash \theta$ and $\Gamma_2 \vdash \neg \theta$, then $\Gamma_1,\Gamma_2 \vdash \psi$, for any sentence $\psi$.
 
-**Proof:** Suppose that $\Gamma_1 \vdash \theta$ and $\Gamma_2 \vdash \neg \theta$. Then by Theorem $8, \Gamma_1,\neg
-\psi \vdash \theta$, and $\Gamma_2,\neg \psi \vdash \neg \theta$. So by $(\neg$I), $\Gamma_1, \Gamma_2 \vdash \neg \neg \psi$. By (DNE), $\Gamma_1, \Gamma_2 \vdash \psi$.
+**Proof:** Suppose that $\Gamma_1 \vdash \theta$ and $\Gamma_2 \vdash \neg \theta$. Then by Theorem $8, \Gamma_1,\neg \psi \vdash \theta$, and $\Gamma_2,\neg \psi \vdash \neg \theta$. So by $(\neg$I), $\Gamma_1, \Gamma_2 \vdash \neg \neg \psi$. By (DNE), $\Gamma_1, \Gamma_2 \vdash \psi$.
 
-**Theorem 11. The rule of Cut**. If $\Gamma_1 \vdash
-\psi$ and $\Gamma_2, \psi \vdash \theta$, then $\Gamma_1, \Gamma_2
-\vdash \theta$.
+**Theorem 11. The rule of Cut**. If $\Gamma_1 \vdash \psi$ and $\Gamma_2, \psi \vdash \theta$, then $\Gamma_1, \Gamma_2 \vdash \theta$.
 
-**Proof:** Suppose $\Gamma_1 \vdash \psi$ and $\Gamma_2, \psi \vdash \theta$. We proceed by induction on the number of rules used to establish $\Gamma_2, \psi \vdash \theta$. Suppose that $n$ is a natural number, and that the theorem holds for any argument that was derived using fewer than $n$ rules. Suppose that $\Gamma_2, \psi \vdash \theta$ was derived using exactly $n$ rules. If the last rule used was $(=$I), then $\Gamma_1, \Gamma_2
-\vdash \theta$ is also an instance of $(=$I). If $\Gamma_2, \psi
-\vdash \theta$ is an instance of (As), then either $\theta$ is $\psi$, or $\theta$ is a member of $\Gamma_2$. In the former case, we have $\Gamma_1 \vdash \theta$ by supposition, and get $\Gamma_1, \Gamma_2 \vdash \theta$ by Weakening (Theorem 8). In the latter case, $\Gamma_1, \Gamma_2 \vdash \theta$ is itself an instance of (As). Suppose that $\Gamma_2, \psi \vdash \theta$ was obtained using (&E). Then we have $\Gamma_2, \psi \vdash(\theta
-\amp \phi)$. The induction hypothesis gives us $\Gamma_1, \Gamma_2
-\vdash(\theta \amp \phi)$, and (&E) produces $\Gamma_1, \Gamma_2
-\vdash \theta$. The remaining cases are similar.
+**Proof:** Suppose $\Gamma_1 \vdash \psi$ and $\Gamma_2, \psi \vdash \theta$. We proceed by induction on the number of rules used to establish $\Gamma_2, \psi \vdash \theta$. Suppose that $n$ is a natural number, and that the theorem holds for any argument that was derived using fewer than $n$ rules. Suppose that $\Gamma_2, \psi \vdash \theta$ was derived using exactly $n$ rules. If the last rule used was $(=$I), then $\Gamma_1, \Gamma_2 \vdash \theta$ is also an instance of $(=$I). If $\Gamma_2, \psi \vdash \theta$ is an instance of (As), then either $\theta$ is $\psi$, or $\theta$ is a member of $\Gamma_2$. In the former case, we have $\Gamma_1 \vdash \theta$ by supposition, and get $\Gamma_1, \Gamma_2 \vdash \theta$ by Weakening (Theorem 8). In the latter case, $\Gamma_1, \Gamma_2 \vdash \theta$ is itself an instance of (As). Suppose that $\Gamma_2, \psi \vdash \theta$ was obtained using (&E). Then we have $\Gamma_2, \psi \vdash(\theta \amp \phi)$. The induction hypothesis gives us $\Gamma_1, \Gamma_2 \vdash(\theta \amp \phi)$, and (&E) produces $\Gamma_1, \Gamma_2 \vdash \theta$. The remaining cases are similar.
 
 Theorem 11 allows us to chain together inferences. This fits the practice of establishing theorems and lemmas and then using those theorems and lemmas later, at will. The cut principle is, some think, essential to reasoning. In some logical systems, the cut principle is a deep theorem; in others it is invalid. The system here was designed, in part, to make the proof of Theorem 11 straightforward.
 
-If $\Gamma \vdash_D \theta$, then we say that the sentence $\theta$ is a *deductive consequence* of the set of sentences $\Gamma$, and that the argument $\langle \Gamma,\theta \rangle$ is *deductively valid*. A sentence $\theta$ is a *logical theorem*, or a *deductive logical truth*, if $\vdash_D
-\theta$. That is, $\theta$ is a logical theorem if it is a deductive consequence of the empty set. A set $\Gamma$ of sentences is *consistent* if there is no sentence $\theta$ such that $\Gamma \vdash_D \theta$ and $\Gamma \vdash_D \neg \theta$. That is, a set is consistent if it does not entail a pair of contradictory opposite sentences.
+If $\Gamma \vdash_D \theta$, then we say that the sentence $\theta$ is a *deductive consequence* of the set of sentences $\Gamma$, and that the argument $\langle \Gamma,\theta \rangle$ is *deductively valid*. A sentence $\theta$ is a *logical theorem*, or a *deductive logical truth*, if $\vdash_D \theta$. That is, $\theta$ is a logical theorem if it is a deductive consequence of the empty set. A set $\Gamma$ of sentences is *consistent* if there is no sentence $\theta$ such that $\Gamma \vdash_D \theta$ and $\Gamma \vdash_D \neg \theta$. That is, a set is consistent if it does not entail a pair of contradictory opposite sentences.
 
 **Theorem 12**. A set $\Gamma$ is consistent if and only if there is a sentence $\theta$ such that it is not the case that $\Gamma \vdash \theta$.
 
-**Proof:** Suppose that $\Gamma$ is consistent and let $\theta$ be any sentence. Then either it is not the case that $\Gamma \vdash \theta$ or it is not the case that $\Gamma \vdash
-\neg \theta$. For the converse, suppose that $\Gamma$ is inconsistent and let $\psi$ be any sentence. We have that there is a sentence such that both $\Gamma \vdash \theta$ and $\Gamma \vdash
-\neg \theta$. By *ex falso quodlibet* (Theorem 10), $\Gamma
-\vdash \psi$.
+**Proof:** Suppose that $\Gamma$ is consistent and let $\theta$ be any sentence. Then either it is not the case that $\Gamma \vdash \theta$ or it is not the case that $\Gamma \vdash \neg \theta$. For the converse, suppose that $\Gamma$ is inconsistent and let $\psi$ be any sentence. We have that there is a sentence such that both $\Gamma \vdash \theta$ and $\Gamma \vdash \neg \theta$. By *ex falso quodlibet* (Theorem 10), $\Gamma \vdash \psi$.
 
 Define a set $\Gamma$ of sentences of the language $\LKe$ to be *maximally consistent* if $\Gamma$ is consistent and for every sentence $\theta$ of $\LKe$, if $\theta$ is not in $\Gamma$, then $\Gamma,\theta$ is inconsistent. In other words, $\Gamma$ is maximally consistent if $\Gamma$ is consistent, and adding any sentence in the language not already in $\Gamma$ renders it inconsistent. Notice that if $\Gamma$ is maximally consistent then $\Gamma \vdash \theta$ if and only if $\theta$ is in $\Gamma$.
 
-**Theorem 13. The Lindenbaum Lemma.** Let $\Gamma$ be any consistent set of sentences of $\LKe .$ Then there is a set $\Gamma'$ of sentences of $\LKe$ such that $\Gamma \subseteq
-\Gamma'$ and $\Gamma'$ is maximally consistent.
+**Theorem 13. The Lindenbaum Lemma.** Let $\Gamma$ be any consistent set of sentences of $\LKe .$ Then there is a set $\Gamma'$ of sentences of $\LKe$ such that $\Gamma \subseteq \Gamma'$ and $\Gamma'$ is maximally consistent.
 
-**Proof:** Although this theorem holds in general, we assume here that the set $K$ of non-logical terminology is either finite or denumerably infinite (i.e., the size of the natural numbers, usually called $\aleph_0)$. It follows that there is an enumeration $\theta_0, \theta_1,\ldots$ of the sentences of $\LKe$, such that every sentence of $\LKe$ eventually occurs in the list. Define a sequence of sets of sentences, by recursion, as follows: $\Gamma_0$ is $\Gamma$; for each natural number $n$, if $\Gamma_n,
-\theta_n$ is consistent, then let $\Gamma_{n+1} = \Gamma_n,
-\theta_n$. Otherwise, let $\Gamma_{n+1} = \Gamma_n$. Let $\Gamma'$ be the union of all of the sets $\Gamma_n$. Intuitively, the idea is to go through the sentences of $\LKe$, throwing each one into $\Gamma'$ if doing so produces a consistent set. Notice that each $\Gamma_n$ is consistent. Suppose that $\Gamma'$ is inconsistent. Then there is a sentence $\theta$ such that $\Gamma'\vdash \theta$ and $\Gamma'\vdash \neg \theta$. By Theorem 9 and Weakening (Theorem 8), there is finite subset $\Gamma''$ of $\Gamma'$ such that $\Gamma''\vdash \theta$ and $\Gamma''\vdash
-\neg \theta$. Because $\Gamma''$ is finite, there is a natural number $n$ such that every member of $\Gamma''$ is in $\Gamma_n$. So, by Weakening again, $\Gamma_n \vdash \theta$ and $\Gamma_n \vdash \neg \theta$. So $\Gamma_n$ is inconsistent, which contradicts the construction. So $\Gamma'$ is consistent. Now suppose that a sentence $\theta$ is not in $\Gamma'$. We have to show that $\Gamma', \theta$ is inconsistent. The sentence $\theta$ must occur in the aforementioned list of sentences; say that $\theta$ is $\theta_m$. Since $\theta_m$ is not in $\Gamma'$, then it is not in $\Gamma_{m+1}$. This happens only if $\Gamma_m,
-\theta_m$ is inconsistent. So a pair of contradictory opposites can be deduced from $\Gamma_m,\theta_m$. By Weakening, a pair of contradictory opposites can be deduced from $\Gamma', \theta_m$. So $\Gamma', \theta_m$ is inconsistent. Thus, $\Gamma'$ is maximally consistent.
+**Proof:** Although this theorem holds in general, we assume here that the set $K$ of non-logical terminology is either finite or denumerably infinite (i.e., the size of the natural numbers, usually called $\aleph_0)$. It follows that there is an enumeration $\theta_0, \theta_1,\ldots$ of the sentences of $\LKe$, such that every sentence of $\LKe$ eventually occurs in the list. Define a sequence of sets of sentences, by recursion, as follows: $\Gamma_0$ is $\Gamma$; for each natural number $n$, if $\Gamma_n, \theta_n$ is consistent, then let $\Gamma_{n+1} = \Gamma_n, \theta_n$. Otherwise, let $\Gamma_{n+1} = \Gamma_n$. Let $\Gamma'$ be the union of all of the sets $\Gamma_n$. Intuitively, the idea is to go through the sentences of $\LKe$, throwing each one into $\Gamma'$ if doing so produces a consistent set. Notice that each $\Gamma_n$ is consistent. Suppose that $\Gamma'$ is inconsistent. Then there is a sentence $\theta$ such that $\Gamma'\vdash \theta$ and $\Gamma'\vdash \neg \theta$. By Theorem 9 and Weakening (Theorem 8), there is finite subset $\Gamma''$ of $\Gamma'$ such that $\Gamma''\vdash \theta$ and $\Gamma''\vdash \neg \theta$. Because $\Gamma''$ is finite, there is a natural number $n$ such that every member of $\Gamma''$ is in $\Gamma_n$. So, by Weakening again, $\Gamma_n \vdash \theta$ and $\Gamma_n \vdash \neg \theta$. So $\Gamma_n$ is inconsistent, which contradicts the construction. So $\Gamma'$ is consistent. Now suppose that a sentence $\theta$ is not in $\Gamma'$. We have to show that $\Gamma', \theta$ is inconsistent. The sentence $\theta$ must occur in the aforementioned list of sentences; say that $\theta$ is $\theta_m$. Since $\theta_m$ is not in $\Gamma'$, then it is not in $\Gamma_{m+1}$. This happens only if $\Gamma_m, \theta_m$ is inconsistent. So a pair of contradictory opposites can be deduced from $\Gamma_m,\theta_m$. By Weakening, a pair of contradictory opposites can be deduced from $\Gamma', \theta_m$. So $\Gamma', \theta_m$ is inconsistent. Thus, $\Gamma'$ is maximally consistent.
 
 Notice that this proof uses a principle corresponding to the law of excluded middle. In the construction of $\Gamma'$, we assumed that, at each stage, either $\Gamma_n$ is consistent or it is not. Intuitionists, who demur from excluded middle, do not accept the Lindenbaum lemma.
 
 ## 4. Semantics
 
-Let $K$ be a set of non-logical terminology. An *interpretation* for the language $\LKe$ is a structure $M =
-\langle d,I\rangle$, where $d$ is a non-empty set, called the *domain-of-discourse*, or simply the *domain*, of the interpretation, and $I$ is an *interpretation function*. Informally, the domain is what we interpret the language $\LKe$ to be about. It is what the variables range over. The interpretation function assigns appropriate extensions to the non-logical terms. In particular,
+Let $K$ be a set of non-logical terminology. An *interpretation* for the language $\LKe$ is a structure $M = \langle d,I\rangle$, where $d$ is a non-empty set, called the *domain-of-discourse*, or simply the *domain*, of the interpretation, and $I$ is an *interpretation function*. Informally, the domain is what we interpret the language $\LKe$ to be about. It is what the variables range over. The interpretation function assigns appropriate extensions to the non-logical terms. In particular,
 
 If $c$ is a constant in $K$, then $I(c)$ is a member of the domain $d$.
 
@@ -452,21 +383,17 @@ If $t_1$ and $t_2$ are terms, then $M,s\vDash t_1 =t_2$ if and only if $D_{M,s}(
 
 This is about as straightforward as it gets. An identity $t_1 =t_2$ comes out true if and only if the terms $t_1$ and $t_2$ denote the same thing.
 
-If $P^0$ is a zero-place predicate letter in $K$, then $M,s\vDash
-P$ if and only if $I(P)$ is truth.
+If $P^0$ is a zero-place predicate letter in $K$, then $M,s\vDash P$ if and only if $I(P)$ is truth.
 
-If *S$^n$* is an $n$-place predicate letter in $K$ and $t_1, \ldots,t_n$ are terms, then $M,s\vDash St_1 \ldots t_n$ if and only if the $n$-tuple $\langle D_{M,s}(t_1),
-\ldots,D_{M,s}(t_n)\rangle$ is in $I(S)$.
+If *S$^n$* is an $n$-place predicate letter in $K$ and $t_1, \ldots,t_n$ are terms, then $M,s\vDash St_1 \ldots t_n$ if and only if the $n$-tuple $\langle D_{M,s}(t_1), \ldots,D_{M,s}(t_n)\rangle$ is in $I(S)$.
 
 This takes care of the atomic formulas. We now proceed to the compound formulas of the language, more or less following the meanings of the English counterparts of the logical terminology.
 
 $M,s\vDash \neg \theta$ if and only if it is not the case that $M,s\vDash \theta$.
 
-$M,s\vDash(\theta \amp \psi)$ if and only if both $M,s\vDash
-\theta$ and $M,s\vDash \psi$.
+$M,s\vDash(\theta \amp \psi)$ if and only if both $M,s\vDash \theta$ and $M,s\vDash \psi$.
 
-$M,s\vDash(\theta \vee \psi)$ if and only if either $M,s\vDash
-\theta$ or $M,s\vDash \psi$.
+$M,s\vDash(\theta \vee \psi)$ if and only if either $M,s\vDash \theta$ or $M,s\vDash \psi$.
 
 $M,s\vDash(\theta \rightarrow \psi)$ if and only if either it is not the case that $M,s\vDash \theta$, or $M,s\vDash \psi$.
 
@@ -482,14 +409,9 @@ Theorem 6, unique readability, assures us that this definition is coherent. At e
 
 As indicated, the role of variable-assignments is to give denotations to the free variables. We now show that variable-assignments play no other role.
 
-**Theorem 14.** For any formula $\theta$, if $s_1$ and $s_2$ agree on the free variables in $\theta$, then $M,s_1
-\vDash \theta$ if and only if $M,s_2 \vDash \theta$.
+**Theorem 14.** For any formula $\theta$, if $s_1$ and $s_2$ agree on the free variables in $\theta$, then $M,s_1 \vDash \theta$ if and only if $M,s_2 \vDash \theta$.
 
-**Proof:** We proceed by induction on the complexity of the formula $\theta$. The theorem clearly holds if $\theta$ is atomic, since in those cases only the values of the variable-assignments at the variables in $\theta$ figure in the definition. Assume, then, that the theorem holds for all formulas less complex than $\theta$. And suppose that $s_1$ and $s_2$ agree on the free variables of $\theta$. Assume, first, that $\theta$ is a negation, $\neg \psi$. Then, by the induction hypothesis, $M,s_1
-\vDash \psi$ if and only if $M,s_2 \vDash \psi$. So, by the clause for negation, $M,s_1 \vDash \neg \psi$ if and only if $M,s_2 \vDash
-\neg \psi$. The cases where the main connective in $\theta$ is binary are also straightforward. Suppose that $\theta$ is $\exists
-v\psi$, and that $M,s_1 \vDash \exists v\psi$. Then there is an assignment $s_1'$ that agrees with $s_1$ except possibly at $v$ such that $M,s_1'\vDash \psi$. Let $s_2'$ be the assignment that agrees with $s_2$ on the free variables not in $\psi$ and agrees with $s_1'$ on the others. Then, by the induction hypothesis, $M,s_2'\vDash \psi$. Notice that $s_2'$ agrees with $s_2$ on every variable except possibly $v$. So $M,s_2 \vDash \exists
-v\psi$. The converse is the same, and the case where $\theta$ begins with a universal quantifier is similar.
+**Proof:** We proceed by induction on the complexity of the formula $\theta$. The theorem clearly holds if $\theta$ is atomic, since in those cases only the values of the variable-assignments at the variables in $\theta$ figure in the definition. Assume, then, that the theorem holds for all formulas less complex than $\theta$. And suppose that $s_1$ and $s_2$ agree on the free variables of $\theta$. Assume, first, that $\theta$ is a negation, $\neg \psi$. Then, by the induction hypothesis, $M,s_1 \vDash \psi$ if and only if $M,s_2 \vDash \psi$. So, by the clause for negation, $M,s_1 \vDash \neg \psi$ if and only if $M,s_2 \vDash \neg \psi$. The cases where the main connective in $\theta$ is binary are also straightforward. Suppose that $\theta$ is $\exists v\psi$, and that $M,s_1 \vDash \exists v\psi$. Then there is an assignment $s_1'$ that agrees with $s_1$ except possibly at $v$ such that $M,s_1'\vDash \psi$. Let $s_2'$ be the assignment that agrees with $s_2$ on the free variables not in $\psi$ and agrees with $s_1'$ on the others. Then, by the induction hypothesis, $M,s_2'\vDash \psi$. Notice that $s_2'$ agrees with $s_2$ on every variable except possibly $v$. So $M,s_2 \vDash \exists v\psi$. The converse is the same, and the case where $\theta$ begins with a universal quantifier is similar.
 
 By Theorem 14, if $\theta$ is a sentence, and $s_1, s_2$, are any two variable-assignments, then $M,s_1 \vDash \theta$ if and only if $M,s_2 \vDash \theta$. So we can just write $M\vDash \theta$ if $M,s\vDash \theta$ for some, or all, variable-assignments $s$. So we define
 
@@ -499,27 +421,23 @@ In this case, we call $M$ a *model* of $\theta$.
 
 Suppose that $K'\subseteq K$ are two sets of non-logical terms. If $M = \langle d,I\rangle$ is an interpretation of $\LKe$, then we define the *restriction* of $M$ to $\mathcal{L}1K'{=}$ to be the interpretation $M'=\langle d,I'\rangle$ such that $I'$ is the restriction of $I$ to $K'$. That is, $M$ and $M'$ have the same domain and agree on the non-logical terminology in $K'$. A straightforward induction establishes the following:
 
-**Theorem 15**. If $M'$ is the restriction of $M$ to $\mathcal{L}1K'{=}$, then for every sentence $\theta$ of $\mathcal{L}1K'$, $M\vDash\theta$ if and only if $M'\vDash
-\theta$.
+**Theorem 15**. If $M'$ is the restriction of $M$ to $\mathcal{L}1K'{=}$, then for every sentence $\theta$ of $\mathcal{L}1K'$, $M\vDash\theta$ if and only if $M'\vDash \theta$.
 
 **Theorem 16.** If two interpretations $M_1$ and $M_2$ have the same domain and agree on all of the non-logical terminology of a sentence $\theta$, then $M_1\vDash\theta$ if and only if $M_2\vDash \theta$.
 
 In short, the satisfaction of a sentence $\theta$ only depends on the domain of discourse and the interpretation of the non-logical terminology in $\theta$.
 
-We say that an argument $\langle \Gamma,\theta \rangle$ is *semantically valid*, or just *valid*, written $\Gamma
-\vDash \theta$, if for every interpretation $M$ of the language, if $M\vDash\psi$, for every member $\psi$ of $\Gamma$, then $M\vDash\theta$. If $\Gamma \vDash \theta$, we also say that $\theta$ is a *logical consequence*, or *semantic consequence*, or *model-theoretic consequence* of $\Gamma$. The definition corresponds to the informal idea that an argument is valid if it is not possible for its premises to all be true and its conclusion false. Our definition of logical consequence also sanctions the common thesis that a valid argument is truth-preserving – to the extent that satisfaction represents truth. Officially, an argument in $\LKe$ is valid if its conclusion comes out true under every interpretation of the language in which the premises are true. Validity is the model-theoretic counterpart to deducibility.
+We say that an argument $\langle \Gamma,\theta \rangle$ is *semantically valid*, or just *valid*, written $\Gamma \vDash \theta$, if for every interpretation $M$ of the language, if $M\vDash\psi$, for every member $\psi$ of $\Gamma$, then $M\vDash\theta$. If $\Gamma \vDash \theta$, we also say that $\theta$ is a *logical consequence*, or *semantic consequence*, or *model-theoretic consequence* of $\Gamma$. The definition corresponds to the informal idea that an argument is valid if it is not possible for its premises to all be true and its conclusion false. Our definition of logical consequence also sanctions the common thesis that a valid argument is truth-preserving – to the extent that satisfaction represents truth. Officially, an argument in $\LKe$ is valid if its conclusion comes out true under every interpretation of the language in which the premises are true. Validity is the model-theoretic counterpart to deducibility.
 
 A sentence $\theta$ is *logically true*, or *valid*, if $M\vDash \theta$, for every interpretation $M$. A sentence is logically true if and only if it is a consequence of the empty set. If $\theta$ is logically true, then for any set $\Gamma$ of sentences, $\Gamma \vDash \theta$. Logical truth is the model-theoretic counterpart of theoremhood.
 
-A sentence $\theta$ is *satisfiable* if there is an interpretation $M$ such that $M\vDash \theta$. That is, $\theta$ is satisfiable if there is an interpretation that satisfies it. A set $\Gamma$ of sentences is satisfiable if there is an interpretation $M$ such that $M\vDash\theta$, for every sentence $\theta$ in $\Gamma$. If $\Gamma$ is a set of sentences and if $M\vDash
-\theta$ for each sentence $\theta$ in $\Gamma$, then we say that $M$ is a *model of* $\Gamma$. So a set of sentences is satisfiable if it has a model. Satisfiability is the model-theoretic counterpart to consistency.
+A sentence $\theta$ is *satisfiable* if there is an interpretation $M$ such that $M\vDash \theta$. That is, $\theta$ is satisfiable if there is an interpretation that satisfies it. A set $\Gamma$ of sentences is satisfiable if there is an interpretation $M$ such that $M\vDash\theta$, for every sentence $\theta$ in $\Gamma$. If $\Gamma$ is a set of sentences and if $M\vDash \theta$ for each sentence $\theta$ in $\Gamma$, then we say that $M$ is a *model of* $\Gamma$. So a set of sentences is satisfiable if it has a model. Satisfiability is the model-theoretic counterpart to consistency.
 
 Notice that $\Gamma \vDash \theta$ if and only if the set $\Gamma,\neg \theta$ is not satisfiable. It follows that if a set $\Gamma$ is not satisfiable, then if $\theta$ is any sentence, $\Gamma \vDash \theta$. This is a model-theoretic counterpart to *ex falso quodlibet* (see Theorem 10). We have the following, as an analogue to Theorem 12:
 
 **Theorem 17**. Let $\Gamma$ be a set of sentences. The following are equivalent: (a) $\Gamma$ is satisfiable; (b) there is no sentence $\theta$ such that both $\Gamma \vDash \theta$ and $\Gamma \vDash \neg \theta$; (c) there is some sentence $\psi$ such that it is not the case that $\Gamma \vDash \psi$.
 
-**Proof:** (a)$\Rightarrow$(b): Suppose that $\Gamma$ is satisfiable and let $\theta$ be any sentence. There is an interpretation $M$ such that $M\vDash \psi$ for every member $\psi$ of $\Gamma$. By the clause for negations, we cannot have both $M\vDash \theta$ and $M\vDash \neg \theta$. So either $\langle \Gamma,\theta \rangle$ is not valid or else $\langle
-\Gamma,\neg \theta \rangle$ is not valid. (b)$\Rightarrow$(c): This is immediate. (c)$\Rightarrow$(a): Suppose that it is not the case that $\Gamma \vDash \psi$. Then there is an interpretation $M$ such that $M\vDash \theta$, for every sentence $\theta$ in $\Gamma$ and it is not the case that $M\vDash \psi$. A fortiori, $M$ satisfies every member of $\Gamma$, and so $\Gamma$ is satisfiable.
+**Proof:** (a)$\Rightarrow$(b): Suppose that $\Gamma$ is satisfiable and let $\theta$ be any sentence. There is an interpretation $M$ such that $M\vDash \psi$ for every member $\psi$ of $\Gamma$. By the clause for negations, we cannot have both $M\vDash \theta$ and $M\vDash \neg \theta$. So either $\langle \Gamma,\theta \rangle$ is not valid or else $\langle \Gamma,\neg \theta \rangle$ is not valid. (b)$\Rightarrow$(c): This is immediate. (c)$\Rightarrow$(a): Suppose that it is not the case that $\Gamma \vDash \psi$. Then there is an interpretation $M$ such that $M\vDash \theta$, for every sentence $\theta$ in $\Gamma$ and it is not the case that $M\vDash \psi$. A fortiori, $M$ satisfies every member of $\Gamma$, and so $\Gamma$ is satisfiable.
 
 ## 5. Meta-theory
 
@@ -527,72 +445,43 @@ We now present some results that relate the deductive notions to their model-the
 
 **Theorem 18. Soundness.** For any sentence $\theta$ and set $\Gamma$ of sentences, if $\Gamma \vdash_D \theta$, then $\Gamma \vDash \theta$.
 
-**Proof:** We proceed by induction on the number of clauses used to establish $\Gamma \vdash \theta$. So let $n$ be a natural number, and assume that the theorem holds for any argument established as deductively valid with fewer than $n$ steps. And suppose that $\Gamma \vdash \theta$ was established using exactly $n$ steps. If the last rule applied was $(=$I) then $\theta$ is a sentence in the form $t=t$, and so $\theta$ is logically true. A fortiori, $\Gamma \vDash \theta$. If the last rule applied was (As), then $\theta$ is a member of $\Gamma$, and so of course any interpretation that satisfies every member of $\Gamma$ also satisfies $\theta$. Suppose the last rule applied is (&I). So $\theta$ has the form $(\phi \amp \psi)$, and we have $\Gamma_1
-\vdash \phi$ and $\Gamma_2 \vdash \psi$, with $\Gamma = \Gamma_1,
-\Gamma_2$. The induction hypothesis gives us $\Gamma_1 \vDash \phi$ and $\Gamma_2 \vDash \psi$. Suppose that $M$ satisfies every member of $\Gamma$. Then $M$ satisfies every member of $\Gamma_1$, and so $M$ satisfies $\phi$. Similarly, $M$ satisfies every member of $\Gamma_2$, and so $M$ satisfies $\psi$. Thus, by the clause for “$\amp$” in the definition of satisfaction, $M$ satisfies $\theta$. So $\Gamma
-\vDash \theta$.
+**Proof:** We proceed by induction on the number of clauses used to establish $\Gamma \vdash \theta$. So let $n$ be a natural number, and assume that the theorem holds for any argument established as deductively valid with fewer than $n$ steps. And suppose that $\Gamma \vdash \theta$ was established using exactly $n$ steps. If the last rule applied was $(=$I) then $\theta$ is a sentence in the form $t=t$, and so $\theta$ is logically true. A fortiori, $\Gamma \vDash \theta$. If the last rule applied was (As), then $\theta$ is a member of $\Gamma$, and so of course any interpretation that satisfies every member of $\Gamma$ also satisfies $\theta$. Suppose the last rule applied is (&I). So $\theta$ has the form $(\phi \amp \psi)$, and we have $\Gamma_1 \vdash \phi$ and $\Gamma_2 \vdash \psi$, with $\Gamma = \Gamma_1, \Gamma_2$. The induction hypothesis gives us $\Gamma_1 \vDash \phi$ and $\Gamma_2 \vDash \psi$. Suppose that $M$ satisfies every member of $\Gamma$. Then $M$ satisfies every member of $\Gamma_1$, and so $M$ satisfies $\phi$. Similarly, $M$ satisfies every member of $\Gamma_2$, and so $M$ satisfies $\psi$. Thus, by the clause for “$\amp$” in the definition of satisfaction, $M$ satisfies $\theta$. So $\Gamma \vDash \theta$.
 
-Suppose the last clause applied was $(\exists\mathrm{E})$. So we have $\Gamma_1 \vdash \exists v\phi$ and $\Gamma_2, \phi(v|t)
-\vdash \theta$, where $\Gamma = \Gamma_1, \Gamma_2$, and $t$ does not occur in $\phi , \theta $, or in any member of $\Gamma_2$.
+Suppose the last clause applied was $(\exists\mathrm{E})$. So we have $\Gamma_1 \vdash \exists v\phi$ and $\Gamma_2, \phi(v|t) \vdash \theta$, where $\Gamma = \Gamma_1, \Gamma_2$, and $t$ does not occur in $\phi , \theta $, or in any member of $\Gamma_2$.
 
 We need to show that $\Gamma\vDash\theta$. By the induction hypothesis, we have that $\Gamma_1\vDash\exists v\phi$ and $\Gamma_2, \phi(v|t)\vDash\theta$. Let $M$ be an interpretation such that $M$ makes every member of $\Gamma$ true. So, $M$ makes every member of $\Gamma_1$ and $\Gamma_2$ true. Then $M,s\vDash\exists v\phi$ for all variable assignments $s$, so there is an $s'$ such that $M,s'\vDash\phi$. Let $M'$ differ from $M$ only in that $I_{M'}(t)=s'(v)$. Then, $M',s'\vDash\phi(v|t)$ and $M',s'\vDash\Gamma_2$ since $t$ does not occur in $\phi$ or $\Gamma_2$. So, $M',s'\vDash\theta$. Since $t$ does not occur in $\theta$ and $M'$ differs from $M$ only with respect to $I_{M'}(t)$, $M,s'\vDash\theta$. Since $\theta$ is a sentence, $s'$ doesn't matter, so $M\vDash\theta$ as desired. Notice the role of the restrictions on $(\exists$E) here. The other cases are about as straightforward.
 
 **Corollary 19.** Let $\Gamma$ be a set of sentences. If $\Gamma$ is satisfiable, then $\Gamma$ is consistent.
 
-**Proof:** Suppose that $\Gamma$ is satisfiable. So let $M$ be an interpretation such that $M$ satisfies every member of $\Gamma$. Assume that $\Gamma$ is inconsistent. Then there is a sentence $\theta$ such that $\Gamma \vdash \theta$ and $\Gamma
-\vdash \neg \theta$. By soundness (Theorem 18), $\Gamma \vDash
-\theta$ and $\Gamma \vDash \neg \theta$. So we have that $M\vDash
-\theta$ and $M\vDash \neg \theta$. But this is impossible, given the clause for negation in the definition of satisfaction.
+**Proof:** Suppose that $\Gamma$ is satisfiable. So let $M$ be an interpretation such that $M$ satisfies every member of $\Gamma$. Assume that $\Gamma$ is inconsistent. Then there is a sentence $\theta$ such that $\Gamma \vdash \theta$ and $\Gamma \vdash \neg \theta$. By soundness (Theorem 18), $\Gamma \vDash \theta$ and $\Gamma \vDash \neg \theta$. So we have that $M\vDash \theta$ and $M\vDash \neg \theta$. But this is impossible, given the clause for negation in the definition of satisfaction.
 
 Even though the deductive system $D$ and the model-theoretic semantics were developed with the meanings of the logical terminology in mind, one should not automatically expect the converse to soundness (or Corollary 19) to hold. For all we know so far, we may not have included enough rules of inference to deduce every valid argument. The converses to soundness and Corollary 19 are among the most important and influential results in mathematical logic. We begin with the latter.
 
 **Theorem 20. Completeness. Gödel [1930].** Let $\Gamma$ be a set of sentences. If $\Gamma$ is consistent, then $\Gamma$ is satisfiable.
 
-**Proof:** The proof of completeness is rather complex. We only sketch it here. Let $\Gamma$ be a consistent set of sentences of $\LKe$. Again, we assume for simplicity that the set $K$ of non-logical terminology is either finite or countably infinite (although the theorem holds even if $K$ is uncountable). The task at hand is to find an interpretation $M$ such that $M$ satisfies every member of $\Gamma$. Consider the language obtained from $\LKe$ by adding a denumerably infinite stock of new individual constants $c_0, c_1,\ldots$ We stipulate that the constants, $c_0,
-c_1,\ldots$, are all different from each other and none of them occur in $K$. One interesting feature of this construction, due to Leon Henkin, is that we build an interpretation of the language from the language itself, using some of the constants as members of the domain of discourse. Let $\theta_0 (x), \theta_1 (x),\ldots$ be an enumeration of the formulas of the expanded language with at most one free variable, so that each formula with at most one free variable occurs in the list eventually. Define a sequence $\Gamma_0,
-\Gamma_1,\ldots$ of sets of sentences (of the expanded language) by recursion as follows: $\Gamma_0 = \Gamma$; and $\Gamma_{n+1} =
-\Gamma_n,(\exists x\theta_n \rightarrow \theta_{n}(x|c_i))$, where $c_i$ is the first constant in the above list that does not occur in $\theta_n$ or in any member of $\Gamma_n$. The underlying idea here is that if $\exists x\theta_n$is true, then $c_i$ is to be one such $x$. Let $\Gamma'$ be the union of the sets $\Gamma_n$.
+**Proof:** The proof of completeness is rather complex. We only sketch it here. Let $\Gamma$ be a consistent set of sentences of $\LKe$. Again, we assume for simplicity that the set $K$ of non-logical terminology is either finite or countably infinite (although the theorem holds even if $K$ is uncountable). The task at hand is to find an interpretation $M$ such that $M$ satisfies every member of $\Gamma$. Consider the language obtained from $\LKe$ by adding a denumerably infinite stock of new individual constants $c_0, c_1,\ldots$ We stipulate that the constants, $c_0, c_1,\ldots$, are all different from each other and none of them occur in $K$. One interesting feature of this construction, due to Leon Henkin, is that we build an interpretation of the language from the language itself, using some of the constants as members of the domain of discourse. Let $\theta_0 (x), \theta_1 (x),\ldots$ be an enumeration of the formulas of the expanded language with at most one free variable, so that each formula with at most one free variable occurs in the list eventually. Define a sequence $\Gamma_0, \Gamma_1,\ldots$ of sets of sentences (of the expanded language) by recursion as follows: $\Gamma_0 = \Gamma$; and $\Gamma_{n+1} = \Gamma_n,(\exists x\theta_n \rightarrow \theta_{n}(x|c_i))$, where $c_i$ is the first constant in the above list that does not occur in $\theta_n$ or in any member of $\Gamma_n$. The underlying idea here is that if $\exists x\theta_n$is true, then $c_i$ is to be one such $x$. Let $\Gamma'$ be the union of the sets $\Gamma_n$.
 
-We sketch a proof that $\Gamma'$ is consistent. Suppose that $\Gamma'$ is inconsistent. By Theorem 9, there is a finite subset of $\Gamma$ that is inconsistent, and so one of the sets $\Gamma_m$ is inconsistent. By hypothesis, $\Gamma_0 = \Gamma$ is consistent. Let $n$ be the smallest number such that $\Gamma_n$ is consistent, but $\Gamma_{n+1} = \Gamma_n,(\exists x\theta_n \rightarrow
-\theta_{n}(x|c_i))$ is inconsistent. By $(\neg$I), we have that
+We sketch a proof that $\Gamma'$ is consistent. Suppose that $\Gamma'$ is inconsistent. By Theorem 9, there is a finite subset of $\Gamma$ that is inconsistent, and so one of the sets $\Gamma_m$ is inconsistent. By hypothesis, $\Gamma_0 = \Gamma$ is consistent. Let $n$ be the smallest number such that $\Gamma_n$ is consistent, but $\Gamma_{n+1} = \Gamma_n,(\exists x\theta_n \rightarrow \theta_{n}(x|c_i))$ is inconsistent. By $(\neg$I), we have that
 
-$$\tag{1}
-\Gamma_n \vdash \neg(\exists x\theta_n \rightarrow \theta_n(x|c_i)).
-$$
+$$\tag{1} \Gamma_n \vdash \neg(\exists x\theta_n \rightarrow \theta_n(x|c_i)). $$
 
-By *ex falso quodlibet* (Theorem 10), $\Gamma_n, \neg \exists
-x\theta_n, \exists x\theta_n \vdash \theta_n (x|c_i)$. So by $(\rightarrow$I), $\Gamma_n, \neg \exists x\theta_n \vdash(\exists
-x\theta_n \rightarrow \theta_n (x|c_i))$. From this and (1), we have $\Gamma_n \vdash \neg \neg \exists x\theta_n$, by $(\neg$I), and by (DNE) we have
+By *ex falso quodlibet* (Theorem 10), $\Gamma_n, \neg \exists x\theta_n, \exists x\theta_n \vdash \theta_n (x|c_i)$. So by $(\rightarrow$I), $\Gamma_n, \neg \exists x\theta_n \vdash(\exists x\theta_n \rightarrow \theta_n (x|c_i))$. From this and (1), we have $\Gamma_n \vdash \neg \neg \exists x\theta_n$, by $(\neg$I), and by (DNE) we have
 
-$$\tag{2}
-\Gamma_n \vdash \exists x\theta_n .
-$$
+$$\tag{2} \Gamma_n \vdash \exists x\theta_n . $$
 
-By (As), $\Gamma_n, \theta_n (x|c_i), \exists x\theta_n \vdash
-\theta_n (x|c_i)$. So by $(\rightarrow$I), $\Gamma_n, \theta_n
-(x|c_i)\vdash(\exists x\theta_{n} \rightarrow \theta_{n}(x|c_i))$. From this and (1), we have $\Gamma_n \vdash \neg \theta_n (x|c_i)$, by $(\neg$I). Let $t$ be a term that does not occur in $\theta_n$ or in any member of $\Gamma_n$. By uniform substitution of $t$ for $c_i$, we can turn the derivation of $\Gamma_n \vdash
-\neg \theta_n (x|c_i)$ into $\Gamma_n \vdash \neg \theta_n (x|t)$. By $(\forall$I), we have
+By (As), $\Gamma_n, \theta_n (x|c_i), \exists x\theta_n \vdash \theta_n (x|c_i)$. So by $(\rightarrow$I), $\Gamma_n, \theta_n (x|c_i)\vdash(\exists x\theta_{n} \rightarrow \theta_{n}(x|c_i))$. From this and (1), we have $\Gamma_n \vdash \neg \theta_n (x|c_i)$, by $(\neg$I). Let $t$ be a term that does not occur in $\theta_n$ or in any member of $\Gamma_n$. By uniform substitution of $t$ for $c_i$, we can turn the derivation of $\Gamma_n \vdash \neg \theta_n (x|c_i)$ into $\Gamma_n \vdash \neg \theta_n (x|t)$. By $(\forall$I), we have
 
-$$\tag{3}
-\Gamma_n \vdash \forall v\neg \theta_n (x|v).
-$$
+$$\tag{3} \Gamma_n \vdash \forall v\neg \theta_n (x|v). $$
 
-By (As) we have $\{\forall v\neg \theta_n (x|v),\theta_n\}\vdash
-\theta_n$ and by $(\forall$E) we have $\{\forall v\neg \theta_n
-(x|v), \theta_n\}\vdash \neg \theta_n$. So $\{\forall v\neg \theta_n
-(x|v), \theta_n\}$ is inconsistent. Let $\phi$ be any sentence of the language. By *ex falso quodlibet* (Theorem 10), we have that $\{\forall v\neg \theta_n (x|v),\theta_n\}\vdash \phi$ and $\{\forall v\neg \theta_n (x|v), \theta_n\}\vdash \neg \phi$. So with (2), we have that $\Gamma_n, \forall v\neg \theta_n (x|v)\vdash
-\phi$ and $\Gamma_n, \forall v\neg \theta_n (x|v)\vdash \neg \phi$, by $(\exists$E). By Cut (Theorem 11), $\Gamma_n \vdash \phi$ and $\Gamma_n \vdash \neg \phi$. So $\Gamma_n$ is inconsistent, contradicting the assumption. So $\Gamma'$ is consistent.
+By (As) we have $\{\forall v\neg \theta_n (x|v),\theta_n\}\vdash \theta_n$ and by $(\forall$E) we have $\{\forall v\neg \theta_n (x|v), \theta_n\}\vdash \neg \theta_n$. So $\{\forall v\neg \theta_n (x|v), \theta_n\}$ is inconsistent. Let $\phi$ be any sentence of the language. By *ex falso quodlibet* (Theorem 10), we have that $\{\forall v\neg \theta_n (x|v),\theta_n\}\vdash \phi$ and $\{\forall v\neg \theta_n (x|v), \theta_n\}\vdash \neg \phi$. So with (2), we have that $\Gamma_n, \forall v\neg \theta_n (x|v)\vdash \phi$ and $\Gamma_n, \forall v\neg \theta_n (x|v)\vdash \neg \phi$, by $(\exists$E). By Cut (Theorem 11), $\Gamma_n \vdash \phi$ and $\Gamma_n \vdash \neg \phi$. So $\Gamma_n$ is inconsistent, contradicting the assumption. So $\Gamma'$ is consistent.
 
 Applying the Lindenbaum Lemma (Theorem 13), let $\Gamma''$ be a maximally consistent set of sentences (of the expanded language) that contains $\Gamma'$. So, of course, $\Gamma''$ contains $\Gamma$. We can now define an interpretation $M$ such that $M$ satisfies every member of $\Gamma''$.
 
-If we did not have a sign for identity in the language, we would let the domain of $M$ be the collection of new constants $\{c_0, c_1,
-\ldots \}$. But as it is, there may be a sentence in the form $c_{i}=c_{j}$, with $i\ne j$, in $\Gamma''$. If so, we cannot have both $c_i$ and $c_j$ in the domain of the interpretation (as they are distinct constants). So we define the domain $d$ of $M$ to be the set $\{c_i$ | there is no $j\lt i$ such that $c_{i}=c_{j}$ is in $\Gamma''\}$. In other words, a constant $c_i$ is in the domain of $M$ if $\Gamma''$ does not declare it to be identical to an earlier constant in the list. Notice that for each new constant $c_i$, there is exactly one $j\le i$ such that $c_j$ is in $d$ and the sentence $c_{i}=c_{j}$ is in $\Gamma''$.
+If we did not have a sign for identity in the language, we would let the domain of $M$ be the collection of new constants $\{c_0, c_1, \ldots \}$. But as it is, there may be a sentence in the form $c_{i}=c_{j}$, with $i\ne j$, in $\Gamma''$. If so, we cannot have both $c_i$ and $c_j$ in the domain of the interpretation (as they are distinct constants). So we define the domain $d$ of $M$ to be the set $\{c_i$ | there is no $j\lt i$ such that $c_{i}=c_{j}$ is in $\Gamma''\}$. In other words, a constant $c_i$ is in the domain of $M$ if $\Gamma''$ does not declare it to be identical to an earlier constant in the list. Notice that for each new constant $c_i$, there is exactly one $j\le i$ such that $c_j$ is in $d$ and the sentence $c_{i}=c_{j}$ is in $\Gamma''$.
 
-We now define the interpretation function $I$. Let $a$ be any constant in the expanded language. By $(=$I) and $(\exists$I), $\Gamma''\vdash \exists x x=a$, and so $\exists x x=a \in
-\Gamma''$. By the construction of $\Gamma'$, there is a sentence in the form $(\exists x x=a \rightarrow c_i =a)$ in $\Gamma''$. We have that $c_i =a$ is in $\Gamma''$. As above, there is exactly one $c_j$ in $d$ such that $c_{i}=c_{j}$ is in $\Gamma''$. Let $I(a)=c_j$. Notice that if $c_i$ is a constant in the domain $d$, then $I$(c$_i)=c_i$. That is each $c_i$ in $d$ denotes itself.
+We now define the interpretation function $I$. Let $a$ be any constant in the expanded language. By $(=$I) and $(\exists$I), $\Gamma''\vdash \exists x x=a$, and so $\exists x x=a \in \Gamma''$. By the construction of $\Gamma'$, there is a sentence in the form $(\exists x x=a \rightarrow c_i =a)$ in $\Gamma''$. We have that $c_i =a$ is in $\Gamma''$. As above, there is exactly one $c_j$ in $d$ such that $c_{i}=c_{j}$ is in $\Gamma''$. Let $I(a)=c_j$. Notice that if $c_i$ is a constant in the domain $d$, then $I$(c$_i)=c_i$. That is each $c_i$ in $d$ denotes itself.
 
-Let $P$ be a zero-place predicate letter in $K$. Then $I(P)$ is truth if $P$ is in $\Gamma''$ and $I(P)$ is falsehood otherwise. Let $Q$ be a one-place predicate letter in $K$. Then $I(Q)$ is the set of constants $\{$c$_i | c_i$ is in $d$ and the sentence $Qc$ is in $\Gamma''\}$. Let $R$ be a binary predicate letter in $K$. Then $I(R)$ is the set of pairs of constants $\{\langle
-c_i,c_j\rangle | c_i$ is in $d, c_j$ is in $d$, and the sentence $Rc_{i}c_{j}$ is in $\Gamma''\}$. Three-place predicates, etc. are interpreted similarly. In effect, $I$ interprets the non-logical terminology as they are in $\Gamma''$.
+Let $P$ be a zero-place predicate letter in $K$. Then $I(P)$ is truth if $P$ is in $\Gamma''$ and $I(P)$ is falsehood otherwise. Let $Q$ be a one-place predicate letter in $K$. Then $I(Q)$ is the set of constants $\{$c$_i | c_i$ is in $d$ and the sentence $Qc$ is in $\Gamma''\}$. Let $R$ be a binary predicate letter in $K$. Then $I(R)$ is the set of pairs of constants $\{\langle c_i,c_j\rangle | c_i$ is in $d, c_j$ is in $d$, and the sentence $Rc_{i}c_{j}$ is in $\Gamma''\}$. Three-place predicates, etc. are interpreted similarly. In effect, $I$ interprets the non-logical terminology as they are in $\Gamma''$.
 
 The final item in this proof is a lemma that for every sentence $\theta$ in the expanded language, $M\vDash \theta$ if and only if $\theta$ is in $\Gamma''$. This proceeds by induction on the complexity of $\theta$. The case where $\theta$ is atomic follows from the definitions of $M$ (i.e., the domain $d$ and the interpretation function $I$). The other cases follow from the various clauses in the definition of satisfaction.
 
@@ -600,11 +489,9 @@ Since $\Gamma \subseteq \Gamma''$, we have that $M$ satisfies every member of $\
 
 A converse to Soundness (Theorem 18) is a straightforward corollary:
 
-**Theorem 21.** For any sentence $\theta$ and set $\Gamma$ of sentences, if $\Gamma \vDash \theta$, then $\Gamma
-\vdash_D \theta$.
+**Theorem 21.** For any sentence $\theta$ and set $\Gamma$ of sentences, if $\Gamma \vDash \theta$, then $\Gamma \vdash_D \theta$.
 
-**Proof:** Suppose that $\Gamma \vDash \theta$. Then there is no interpretation $M$ such that *M* satisfies every member of $\Gamma$ but does not satisfy $\theta$. So the set $\Gamma,\neg \theta$ is not satisfiable. By Completeness (Theorem 20), $\Gamma,\neg \theta$ is inconsistent. So there is a sentence $\phi$ such that $\Gamma,\neg \theta \vdash \phi$ and $\Gamma,\neg \theta \vdash \neg \phi$. By $(\neg$I), $\Gamma
-\vdash \neg \neg \theta$, and by (DNE) $\Gamma \vdash \theta$.
+**Proof:** Suppose that $\Gamma \vDash \theta$. Then there is no interpretation $M$ such that *M* satisfies every member of $\Gamma$ but does not satisfy $\theta$. So the set $\Gamma,\neg \theta$ is not satisfiable. By Completeness (Theorem 20), $\Gamma,\neg \theta$ is inconsistent. So there is a sentence $\phi$ such that $\Gamma,\neg \theta \vdash \phi$ and $\Gamma,\neg \theta \vdash \neg \phi$. By $(\neg$I), $\Gamma \vdash \neg \neg \theta$, and by (DNE) $\Gamma \vdash \theta$.
 
 Our next item is a corollary of Theorem 9, Soundness (Theorem 18), and Completeness:
 
@@ -620,55 +507,37 @@ Recall that in the proof of Completeness (Theorem 20), we made the simplifying a
 
 In general, let $\Gamma$ be a satisfiable set of sentences of $\LKe$, and let $\kappa$ be the larger of the size of $\Gamma$ and denumerably infinite. Then $\Gamma$ has a model whose domain is at most size $\kappa$.
 
-There is a stronger version of Corollary 23. Let $M_1 =\langle
-d_1,I_1\rangle$ and $M_2 =\langle d_2,I_2\rangle$ be interpretations of the language $\LKe$. Define $M_1$ to be a *submodel* of $M_2$ if $d_1 \subseteq d_2, I_1 (c) = I_2
-(c)$ for each constant $c$, and $I_1$ is the restriction of $I_2$ to $d_1$. For example, if $R$ is a binary relation letter in $K$, then for all $a,b$ in $d_1$, the pair $\langle
-a,b\rangle$ is in $I_1 (R)$ if and only if $\langle a,b\rangle$ is in $I_2 (R)$. If we had included function letters among the non-logical terminology, we would also require that $d_1$ be closed under their interpretations in $M_2$. Notice that if $M_1$ is a submodel of $M_2$, then any variable-assignment on $M_1$ is also a variable-assignment on $M_2$.
+There is a stronger version of Corollary 23. Let $M_1 =\langle d_1,I_1\rangle$ and $M_2 =\langle d_2,I_2\rangle$ be interpretations of the language $\LKe$. Define $M_1$ to be a *submodel* of $M_2$ if $d_1 \subseteq d_2, I_1 (c) = I_2 (c)$ for each constant $c$, and $I_1$ is the restriction of $I_2$ to $d_1$. For example, if $R$ is a binary relation letter in $K$, then for all $a,b$ in $d_1$, the pair $\langle a,b\rangle$ is in $I_1 (R)$ if and only if $\langle a,b\rangle$ is in $I_2 (R)$. If we had included function letters among the non-logical terminology, we would also require that $d_1$ be closed under their interpretations in $M_2$. Notice that if $M_1$ is a submodel of $M_2$, then any variable-assignment on $M_1$ is also a variable-assignment on $M_2$.
 
-Say that two interpretations $M_1 =\langle d_1,I_1\rangle, M_2
-=\langle d_2,I_2\rangle$ are *equivalent* if one of them is a submodel of the other, and for any formula of the language and any variable-assignment $s$ on the submodel, $M_1,s\vDash \theta$ if and only if $M_2,s\vDash \theta$. Notice that if two interpretations are equivalent, then they satisfy the same sentences.
+Say that two interpretations $M_1 =\langle d_1,I_1\rangle, M_2 =\langle d_2,I_2\rangle$ are *equivalent* if one of them is a submodel of the other, and for any formula of the language and any variable-assignment $s$ on the submodel, $M_1,s\vDash \theta$ if and only if $M_2,s\vDash \theta$. Notice that if two interpretations are equivalent, then they satisfy the same sentences.
 
 **Theorem 25. Downward Löwenheim-Skolem Theorem.** Let $M = \langle d,I\rangle$ be an interpretation of the language $\LKe$. Let $d_1$ be any subset of $d$, and let $\kappa$ be the maximum of the size of $K$, the size of $d_1$, and denumerably infinite. Then there is a submodel $M' = \langle d',I'\rangle$ of $M$ such that (1) $d'$ is not larger than $\kappa$, and (2) $M$ and $M'$ are equivalent. In particular, if the set $K$ of non-logical terminology is either finite or denumerably infinite, then any interpretation has an equivalent submodel whose domain is either finite or denumerably infinite.
 
 **Proof:** Like completeness, this proof is complex, and we rest content with a sketch. The downward Löwenheim-Skolem theorem invokes the axiom of choice, and indeed, is equivalent to the axiom of choice (see the entry on the axiom of choice). So let $C$ be a choice function on the powerset of $d$, so that for each non-empty subset $e\subseteq d, C(e)$ is a member of $e$. We stipulate that if $e$ is the empty set, then $C(e)$ is $C(d)$.
 
-Let $s$ be a variable-assignment on $M$, let $\theta$ be a formula of $\LKe$, and let $v$ be a variable. Define the $v$-*witness of* $\theta$ *over s*, written $w_v
-(\theta,s)$, as follows: Let $q$ be the set of all elements $c\in
-d$ such that there is a variable-assignment $s'$ on $M$ that agrees with $s$ on every variable except possibly $v$, such that $M,s'\vDash \theta$, and $s'(v)=c$. Then $w_v (\theta,s) =
-C(q)$. Notice that if $M,s\vDash \exists v\theta$, then $q$ is the set of elements of the domain that can go for $v$ in $\theta$. Indeed, $M,s\vDash \exists v\theta$ if and only if $q$ is non-empty. So if $M,s\vDash \exists v\theta$, then $w_v
-(\theta,s)$ (i.e., $C(q))$ is a chosen element of the domain that can go for $v$ in $\theta$. In a sense, it is a “witness” that verifies $M,s\vDash \exists v\theta$.
+Let $s$ be a variable-assignment on $M$, let $\theta$ be a formula of $\LKe$, and let $v$ be a variable. Define the $v$-*witness of* $\theta$ *over s*, written $w_v (\theta,s)$, as follows: Let $q$ be the set of all elements $c\in d$ such that there is a variable-assignment $s'$ on $M$ that agrees with $s$ on every variable except possibly $v$, such that $M,s'\vDash \theta$, and $s'(v)=c$. Then $w_v (\theta,s) = C(q)$. Notice that if $M,s\vDash \exists v\theta$, then $q$ is the set of elements of the domain that can go for $v$ in $\theta$. Indeed, $M,s\vDash \exists v\theta$ if and only if $q$ is non-empty. So if $M,s\vDash \exists v\theta$, then $w_v (\theta,s)$ (i.e., $C(q))$ is a chosen element of the domain that can go for $v$ in $\theta$. In a sense, it is a “witness” that verifies $M,s\vDash \exists v\theta$.
 
 If $e$ is a non-empty subset of the domain $d$, then define a variable-assignment $s$ to be an $e$-*assignment* if for all variables $u, s(u)$ is in $e$. That is, $s$ is an $e$-assignment if $s$ assigns an element of $e$ to each variable. Define $sk(e)$, the *Skolem-hull* of $e$, to be the set:
 
-$$\begin{align*}
-e \cup \{w_v (\theta,s)|& \theta  \text{ is a formula in } \LKe, \\
-  & v \text{ is a variable, and } \\
-  & s \text{ is an } e\text{-assignment} \}.
-\end{align*}$$
+$$\begin{align*} e \cup \{w_v (\theta,s)|& \theta \text{ is a formula in } \LKe, \\ & v \text{ is a variable, and } \\ & s \text{ is an } e\text{-assignment} \}. \end{align*}$$
 
 That is, the Skolem-Hull of $e$ is the set $e$ together with every $v$-witness of every formula over every $e$-assignment. Roughly, the idea is to start with $e$ and then throw in enough elements to make each existentially quantified formula true. But we cannot rest content with the Skolem-hull, however. Once we throw the “witnesses” into the domain, we need to deal with $sk(e)$ assignments. In effect, we need a set which is its own Skolem-hull, and also contains the given subset $d_1$.
 
-We define a sequence of non-empty sets $e_0, e_1,\ldots$ as follows: if the given subset $d_1$ of $d$ is empty and there are no constants in $K$, then let $e_0$ be $C(d)$, the choice function applied to the entire domain; otherwise let $e_0$ be the union of $d_1$ and the denotations under $I$ of the constants in $K$. For each natural number $n, e_{n+1}$ is $sk(e_n)$. Finally, let $d'$ be the union of the sets $e_n$, and let $I'$ be the restriction of $I$ to $d'$. Our interpretation is $M' = \langle
-d',I'\rangle$.
+We define a sequence of non-empty sets $e_0, e_1,\ldots$ as follows: if the given subset $d_1$ of $d$ is empty and there are no constants in $K$, then let $e_0$ be $C(d)$, the choice function applied to the entire domain; otherwise let $e_0$ be the union of $d_1$ and the denotations under $I$ of the constants in $K$. For each natural number $n, e_{n+1}$ is $sk(e_n)$. Finally, let $d'$ be the union of the sets $e_n$, and let $I'$ be the restriction of $I$ to $d'$. Our interpretation is $M' = \langle d',I'\rangle$.
 
 Clearly, $d_1$ is a subset of $d'$, and so $M'$ is a submodel of $M$. Let $\kappa$ be the maximum of the size of $K$, the size of $d_1$, and denumerably infinite. A calculation reveals that the size of $d'$ is at most $\kappa$, based on the fact that there are at most $\kappa$-many formulas, and thus, at most $\kappa$-many witnesses at each stage. Notice, incidentally, that this calculation relies on the fact that a denumerable union of sets of size at most $\kappa$ is itself at most $\kappa$. This also relies on the axiom of choice.
 
 The final item is to show that $M'$ is equivalent to $M$: For every formula $\theta$ and every variable-assignment $s$ on $M'$,
 
-$$
-M,s\vDash \theta \text{ if and only if }
-  M',s\vDash \theta.
-$$
+$$ M,s\vDash \theta \text{ if and only if } M',s\vDash \theta. $$
 
 The proof proceeds by induction on the complexity of $\theta$. Unfortunately, space constraints require that we leave this step as an exercise.
 
 Another corollary to Compactness (Corollary 22) is the opposite of the Löwenheim-Skolem theorem:
 
-**Theorem 26. Upward Löwenheim-Skolem Theorem.** Let $\Gamma$ be any set of sentences of $\LKe,$ such that for each natural number $n$, there is an interpretation $M_n = \langle
-d_n,I_n\rangle$, such that $d_n$ has at least $n$ elements, and $M_n$ satisfies every member of $\Gamma$. In other words, $\Gamma$ is satisfiable and there is no finite upper bound to the size of the interpretations that satisfy every member of $\Gamma$. Then for any infinite cardinal $\kappa$, there is an interpretation $M=\langle d,I\rangle$, such that the size of $d$ is *at least* $\kappa$ and $M$ satisfies every member of $\Gamma$.
+**Theorem 26. Upward Löwenheim-Skolem Theorem.** Let $\Gamma$ be any set of sentences of $\LKe,$ such that for each natural number $n$, there is an interpretation $M_n = \langle d_n,I_n\rangle$, such that $d_n$ has at least $n$ elements, and $M_n$ satisfies every member of $\Gamma$. In other words, $\Gamma$ is satisfiable and there is no finite upper bound to the size of the interpretations that satisfy every member of $\Gamma$. Then for any infinite cardinal $\kappa$, there is an interpretation $M=\langle d,I\rangle$, such that the size of $d$ is *at least* $\kappa$ and $M$ satisfies every member of $\Gamma$.
 
-**Proof:** Add a collection of new constants $\{c_{\alpha} | \alpha \lt \kappa \}$, of size $\kappa$, to the language, so that if $c$ is a constant in $K$, then $c_{\alpha}$ is different from $c$, and if $\alpha \lt \beta \lt \kappa$, then $c_{\alpha}$ is a different constant than $c_{\beta}$. Consider the set of sentences $\Gamma'$ consisting of $\Gamma$ together with the set $\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$. That is, $\Gamma'$ consists of $\Gamma$ together with statements to the effect that any two different new constants denote different objects. Let $\Gamma''$ be any finite subset of $\Gamma'$, and let $m$ be the number of new constants that occur in $\Gamma''$. Then expand the interpretation $M_m$ to an interpretation $M_m'$ of the new language, by interpreting each of the new constants in $\Gamma''$ as a different member of the domain $d_m$. By hypothesis, there are enough members of $d_m$ to do this. One can interpret the other new constants at will. So $M_m$ is a restriction of $M_m'$. By hypothesis (and Theorem 15), $M'_m$ satisfies every member of $\Gamma$. Also $M'_m$ satisfies the members of $\{\neg
-c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$ that are in $\Gamma''$. So $M'_m$ satisfies every member of $\Gamma''$. By compactness, there is an interpretation $M = \langle d,I\rangle$ such that $M$ satisfies every member of $\Gamma'$. Since $\Gamma'$ contains every member of $\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$, the domain $d$ of $M$ must be of size at least $\kappa$, since each of the new constants must have a different denotation. By Theorem 15, the restriction of $M$ to the original language $\LKe$ satisfies every member of $\Gamma$.
+**Proof:** Add a collection of new constants $\{c_{\alpha} | \alpha \lt \kappa \}$, of size $\kappa$, to the language, so that if $c$ is a constant in $K$, then $c_{\alpha}$ is different from $c$, and if $\alpha \lt \beta \lt \kappa$, then $c_{\alpha}$ is a different constant than $c_{\beta}$. Consider the set of sentences $\Gamma'$ consisting of $\Gamma$ together with the set $\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$. That is, $\Gamma'$ consists of $\Gamma$ together with statements to the effect that any two different new constants denote different objects. Let $\Gamma''$ be any finite subset of $\Gamma'$, and let $m$ be the number of new constants that occur in $\Gamma''$. Then expand the interpretation $M_m$ to an interpretation $M_m'$ of the new language, by interpreting each of the new constants in $\Gamma''$ as a different member of the domain $d_m$. By hypothesis, there are enough members of $d_m$ to do this. One can interpret the other new constants at will. So $M_m$ is a restriction of $M_m'$. By hypothesis (and Theorem 15), $M'_m$ satisfies every member of $\Gamma$. Also $M'_m$ satisfies the members of $\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$ that are in $\Gamma''$. So $M'_m$ satisfies every member of $\Gamma''$. By compactness, there is an interpretation $M = \langle d,I\rangle$ such that $M$ satisfies every member of $\Gamma'$. Since $\Gamma'$ contains every member of $\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}$, the domain $d$ of $M$ must be of size at least $\kappa$, since each of the new constants must have a different denotation. By Theorem 15, the restriction of $M$ to the original language $\LKe$ satisfies every member of $\Gamma$.
 
 Combined, the proofs of the downward and upward Löwenheim-Skolem theorems show that for any satisfiable set $\Gamma$ of sentences, if there is no finite bound on the models of $\Gamma$, then for any infinite cardinal $\kappa$, there is a model of $\Gamma$ whose domain has size *exactly* $\kappa$. Moreover, if $M$ is any interpretation whose domain is infinite, then for any infinite cardinal $\kappa$, there is an interpretation $M'$ whose domain has size exactly $\kappa$ such that $M$ and $M'$ are equivalent.
 
@@ -738,15 +607,11 @@ Some philosophers and logicians argue that classical, first-order logic is too s
 
 Advocates of *intuitionistic logic* reject the validity of the (so-called) Law of Excluded Middle:
 
-$$
-\Phi \vee \neg \Phi,
-$$
+$$ \Phi \vee \neg \Phi, $$
 
 and other inferences related to this, such as Double Negation Elimination (DNE):
 
-$$
-{\rm If}\   \Gamma \vdash \neg\neg\Phi \ {\rm then}\  \Gamma \vdash \Phi
-$$
+$$ {\rm If}\ \Gamma \vdash \neg\neg\Phi \ {\rm then}\ \Gamma \vdash \Phi $$
 
 Roughly speaking, there are two main motivations for these restrictions. The traditional intuitionists L. E. J. Brouwer (e.g., [1964a], [1964b]) and Arend Heyting (e.g. [1956]) held that the essence of mathematics is idealized mental construction. Consider, for example, the proposition that for every natural number $n$, there is a prime number $m \gt n$ such that $m \lt n!+2$. For Brouwer, this proposition invokes a *procedure* that, given any natural number $n$, produces a prime number $m$ that is greater than $n$ but less than $n!+2$. The proposition expresses the existence of such a procedure. Given this orientation, we have no reason to hold that for any mathematical proposition $\Phi$, we can establish either the procedure associated with $\Phi$ or the procedure associated with $\neg \Phi$.
 
@@ -756,21 +621,13 @@ For an overview of intuitionistic logic, and its philosophical motivation, see t
 
 #### Relevance and paraconsistency
 
-This time the target inference to be declared invalid is the one we above call *ex falso quodlibet*, abbreviated (EFQ): $$
-{\rm If} \ \Gamma_1 \vdash \Theta \ {\rm and} \ \Gamma_2 \vdash \neg\Theta \ {\rm then} \ \Gamma_1, \Gamma_2 \vdash \Psi
-$$ We can focus attention one kind of instance of this: $$
-\Phi, \neg\Phi \vdash \Psi,
-$$ sometimes colorfully called “explosion”. It says that anything at all follows from a contradiction.
+This time the target inference to be declared invalid is the one we above call *ex falso quodlibet*, abbreviated (EFQ): $$ {\rm If} \ \Gamma_1 \vdash \Theta \ {\rm and} \ \Gamma_2 \vdash \neg\Theta \ {\rm then} \ \Gamma_1, \Gamma_2 \vdash \Psi $$ We can focus attention one kind of instance of this: $$ \Phi, \neg\Phi \vdash \Psi, $$ sometimes colorfully called “explosion”. It says that anything at all follows from a contradiction.
 
-Logics that regard (EFQ) as invalid are called *paraconsistent*. Broadly speaking, there are two camps of logicians advocating for paraconsistent systems, either as candidates for the One True Logic or as instances of pluralism. One camp consists of logicians who insist that in a valid argument, the premises must be *relevant* to the conclusion. Typically, relevance logicians also demur from certain classical logical truths called *paradoxes of material implication*, such as $(\Phi \rightarrow (\Psi
-\rightarrow \Phi))$ and $(\Phi \rightarrow (\Psi \rightarrow
-\Psi))$.
+Logics that regard (EFQ) as invalid are called *paraconsistent*. Broadly speaking, there are two camps of logicians advocating for paraconsistent systems, either as candidates for the One True Logic or as instances of pluralism. One camp consists of logicians who insist that in a valid argument, the premises must be *relevant* to the conclusion. Typically, relevance logicians also demur from certain classical logical truths called *paradoxes of material implication*, such as $(\Phi \rightarrow (\Psi \rightarrow \Phi))$ and $(\Phi \rightarrow (\Psi \rightarrow \Psi))$.
 
 For more, see the entry on relevance logic, or Kerr [2019]. Classic works include Anderson and Belnap [1975], Anderson Belnap and Dunn [1992], and Read [1988]. Neil Tennant’s [2017] core logic is both relevant and intuitionistic.
 
-The other main camp of logicians who prefer a paraconsistent logic (or paraconsistent logics) are advocates of *dialetheism*, the view that some contradictions, some sentences in the form $$
-(\Phi \wedge \neg \Phi),
-$$ are true. One supposed example is when $\Phi$ is a statement of a semantic paradoxes, such as the Liar. Consider, for example, a sentence $\Phi$ that says that $\Phi$ is not true.
+The other main camp of logicians who prefer a paraconsistent logic (or paraconsistent logics) are advocates of *dialetheism*, the view that some contradictions, some sentences in the form $$ (\Phi \wedge \neg \Phi), $$ are true. One supposed example is when $\Phi$ is a statement of a semantic paradoxes, such as the Liar. Consider, for example, a sentence $\Phi$ that says that $\Phi$ is not true.
 
 In a system in which (EFQ) holds, any true contradiction would entail every sentence of the formal language, thus rendering the language and theory trivial. So, clearly, any logic for dialetheism would have to be paraconsistent. See the entry on dialetheism. The classic work here is Priest [2006a].
 
@@ -799,6 +656,8 @@ Of course, the small sample presented here does not include every logical system
 logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic: modal | logic: paraconsistent | logic: relevance | logic: second-order and higher-order | logic: substructural | logic: temporal | logical consequence | logical form | logical truth | model theory | model theory: first-order | paradox: Skolem’s | proof theory: development of
 
 ## Notes（原文脚注）
+
+## Notes to Classical Logic
 
 [^note-ref-1]: It is possible to develop a system which allows open formulas to appear in arguments. This would have a direct impact on our treatment of the quantifiers, as we would have to be much more careful about which variables we were using. Allowing formulas to appear in arguments simplifies some things and complicates others.
 
@@ -878,6 +737,8 @@ logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic:
 
 [^shapiro-2014]: –––, 2014, *Varieties of Logic*, Oxford: Oxford University Press.
 
+[^shapiro-nd]: Shapiro, Stewart and Teresa Kouri Kissel, *Classical, First Order Logic, Cambridge Elements*, Cambridge: Cambridge University Press.
+
 [^tennant-1997]: Tennant, Neil, 1997, *The Taming of the True*, Oxford: Clarendon Press.
 
 [^van-1967]: Van Heijenoort, Jean, 1967, *From Frege to Gödel*, Cambridge, MA: Harvard University Press. An anthology containing many of the major historical papers on mathematical logic in the early decades of the twentieth century.
@@ -885,6 +746,8 @@ logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic:
 [^wang-1974]: Wang, Hao, 1974, *From Mathematics to Philosophy*, London: Routledge and Kegan Paul.
 
 [^williamson-2017]: Williamson, Timothy, 2017, “Semantic Paradoxes and Abductive Methodology”, in *Reflections on the liar*, Bradley Armour-Garb (ed.), Oxford: Oxford University Press, pp. 325–346.
+
+[^there-nd]: There are many fine textbooks on mathematical logic. A sample follows.
 
 [^boolos-2007]: Boolos, George S., John P. Burgess, and Richard C. Jeffrey, 2007, *Computability and Logic*, fifth edition, Cambridge, England: Cambridge University Press. Elementary and intermediate level.
 
