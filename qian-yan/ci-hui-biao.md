@@ -31,11 +31,12 @@
 |al-Razi|拉齐||
 |Alan Turing|艾伦·图灵||
 |Albalag|阿尔巴拉格||
-|Albert|阿尔伯特||
+|Albert|阿尔伯特|泛指性简称，具体所指以正文为准：大阿尔伯特见 Albert the Great 条，萨克森的阿尔伯特见 Albert of Saxony 条|
 |Albert Camus|阿尔贝·加缪||
 |Albert of Saxony|萨克森的阿尔伯特||
 |Albert the Great|大阿尔伯特||
 |Albertus Magnus|艾尔伯图斯·麦格努斯|即“大阿尔伯特”（Albert the Great），同人异译；中文维基百科条目作“艾尔伯图斯·麦格努斯”|
+|Alcmaeon|阿尔克迈翁|克罗顿的阿尔克迈翁，SUMMARY 标题已用此译名|
 |Alexander Gerard|亚历山大·杰拉德||
 |Alexander of Aphrodisias|阿佛洛狄西亚的亚历山大|旧键 Aphrosias 系拼写笔误；中文维基百科作“阿佛洛狄西亚的亚历山大”|
 |Alfred North Whitehead|阿尔弗雷德·诺思·怀特海|国家图书馆规范标目亦作“艾尔弗雷德·诺思·怀特海”|
@@ -47,12 +48,16 @@
 |Ammonius|赫尔米亚的阿莫尼俄斯|即 Ammonius Hermiae（赫尔米亚之子），5 世纪亚历山大里亚的亚里士多德注释家|
 |Ammonius|阿莫尼俄斯|泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”|
 |Anaxagoras|阿那克萨哥拉||
+|Anaximander|阿那克西曼德||
+|Anaximenes|阿那克西美尼||
 |Anicius Manlius Severinus Boethius|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
+|aphanes|不可知觉的东西|阿尔克迈翁（alcmaeon）条术语|
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
 |Argument|论证|悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正|
+|Aristotle|亚里士多德||
 |Aspect|体（体貌）|语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正|
 |atomism|原子论||
 |Attributes|属性||
@@ -142,7 +147,7 @@
 |Champeaux|尚波||
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
 |City of the Sun|太阳城||
-|Cohen|科恩||
+|Cohen|科恩|泛指姓；Hermann Cohen（赫尔曼·科恩，马堡新康德主义）见专条，余者以正文语境为准|
 |coherence theory|融贯论||
 |Collapse|坍缩||
 |Collapse Theories|坍缩理论||
@@ -166,6 +171,7 @@
 |Cratylus|克拉底鲁||
 |Cudworth|库德沃斯||
 |Decoherence|退相干||
+|Democedes|德摩塞迪斯||
 |Dedekind|戴德金||
 |deflationism|紧缩论|真理紧缩论；亦译“收缩论”|
 |Democritus|德谟克利特||
@@ -174,14 +180,17 @@
 |development|发展；发育|哲学与一般语境译“发展”，生物学语境译“发育”|
 |Diodorus|狄奥多罗斯||
 |Diodorus Cronus|狄奥多罗斯·克罗诺斯|Cronus（克罗诺斯，意为“老顽固”）是承自其师 Apollonius Cronus 的绰号，并非地名；他生于卡里亚的雅索斯，勿以出生地替代绰号|
+|Diogenes Laertius|第欧根尼·拉尔修||
 |Discovery|发现||
 |Djamila Boupacha|贾米拉·布巴夏||
 |Donald Cary Williams|唐纳德·卡里·威廉姆斯||
+|doxographical tradition / doxography|学说史传统；学说汇编|阿尔克迈翁条术语|
 |Dugald Stewart|杜格尔·斯图尔特||
 |Dynamic Semantics|动态语义||
 |Edmund Burke|埃德蒙·伯克||
 |Einstein-Podolsky-Rosen|爱因斯坦-波多尔斯基-罗森||
 |Elias|埃利亚斯||
+|Empedocles|恩培多克勒||
 |empirical|实证|另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。|
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
 |empirical approaches|经验主义研究||
@@ -211,6 +220,7 @@
 |Franz Brentano|弗朗兹·布伦塔诺||
 |François-Marie d’Arouet|弗朗索瓦-马里‧阿鲁埃||
 |Friedrich Albert Lange|弗里德里希·阿尔贝特·朗格||
+|Galen|盖伦||
 |general idea|一般观念|洛克、贝克莱语境（普遍观念）；“概述”是日常义，哲学语境不用|
 |Georg Cantor|格奥尔格·康托尔||
 |George Berkeley|乔治·贝克莱||
@@ -231,11 +241,13 @@
 |Henry David Thoreau|亨利·戴维·梭罗||
 |Henry Home|亨利·霍姆||
 |Henry More|亨利·莫尔||
+|Heraclitus|赫拉克利特||
 |Herbert Simon|司马贺|其本人自取并通行的中文名，音译“赫伯特·西蒙”反而罕用|
 |Herbert Spencer|赫伯特·斯宾塞||
 |Hermann Cohen|赫尔曼·科恩||
 |Hermann Weyl|赫尔曼·外尔||
 |Hermeias|赫尔米亚||
+|Herodotus|希罗多德||
 |Hole Argument|空穴论证||
 |Hugh Blair|休·布莱尔||
 |Ibn Bâjja|伊本·巴哲||
@@ -252,11 +264,13 @@
 |Individuality|个体性||
 |Individuals|个体||
 |Inertial Frames|惯性系||
+|Inference to the Best Explanation|最佳解释推理|亦作“最佳说明推理”；abduction 词条核心概念|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |Intrinsic|内在||
 |Intuitionistic|直觉主义||
 |Isaac Albalag|以撒·阿尔巴拉格||
+|isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
 |James Beattie|詹姆斯·比蒂||
 |James Burnett|詹姆斯·伯内特||
 |James Dunbar|詹姆斯·邓巴||
@@ -278,6 +292,7 @@
 |Justification|辩护||
 |Kalām|伊斯兰教义学|亦音译“凯拉姆”|
 |Karl Leonhard Reinhold|卡尔·莱昂哈德·莱因霍尔德||
+|kenon|空腔|阿尔克迈翁条术语（真空、空隙）|
 |Khayyam|海亚姆||
 |Kochen-Specker|科亨-施佩克尔||
 |KS Theorem|KS 定理||
@@ -305,11 +320,12 @@
 |Mirror of Production|生产之镜||
 |Modal Interpretations|模态解释||
 |modal metaphysics|模态形而上学||
+|monarchia|专权|与 isonomia 相对的独大状态；阿尔克迈翁条裁定|
 |Montague|蒙太古||
 |moral desert|道德应得||
 |Moral Responsibility|道德责任||
 |Moral Vegetarianism|伦理素食主义||
-|More|莫尔||
+|More|莫尔|泛指性简称；Henry More（亨利·莫尔，剑桥柏拉图学派）见专条，Thomas More（托马斯·莫尔）等同姓者以正文语境为准|
 |most famous pair|最著名的一对||
 |Must We Burn Sade|要焚毁萨德吗||
 |Myth of Sisyphus|西西弗神话||
@@ -342,11 +358,13 @@
 |Philip the Chancellor|总务长菲利普|13 世纪巴黎主教座堂总务长，神学家|
 |Phenomenological Approaches|现象学方法||
 |Philo|斐洛||
+|Philolaus|菲洛劳斯|毕达哥拉斯学派；勿与 Philoponus（斐洛波努斯）混淆|
 |Philoponus|斐洛波努斯|约翰·斐洛波努斯（John Philoponus，约 490—570），亚历山大里亚注释家；中文维基作“费罗普勒斯”。勿与 Philolaus（菲洛劳斯，毕达哥拉斯学派）混淆|
 |Philosophy of Sport|体育哲学||
 |Philosophy of Statistical Mechanics|统计力学哲学||
 |Philosophy of Statistics|统计学哲学||
 |Philosophy of Technology|技术哲学||
+|physiologos / physiologoi|论自然者|前苏格拉底自然哲学家之称；阿尔克迈翁条裁定|
 |Plague|鼠疫||
 |Plato|柏拉图||
 |Platonism|柏拉图主义||
@@ -355,6 +373,7 @@
 |pluralism|多元主义||
 |pluralist theories|多元论||
 |Plutarch|普鲁塔克||
+|poroi|通道|阿尔克迈翁条术语（感官通道）|
 |Porphyry|波菲利||
 |Post-Newtonian|后牛顿||
 |pragmatic|语用（的）；实用（的）|语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”|
@@ -368,6 +387,7 @@
 |Pyrrho|皮浪||
 |Pyrrhonism|皮浪主义||
 |Pyrrhus and Cinéas|皮瑞斯与辛尼阿斯||
+|Pythagoras|毕达哥拉斯||
 |QFT|量子场论||
 |Quantum Approaches|量子研究方法||
 |Quantum Field Theory|量子场论||
@@ -389,7 +409,7 @@
 |Rigor|严谨性||
 |Roger Bacon|罗吉尔·培根||
 |Rudolf Carnap|鲁道夫·卡尔纳普||
-|Samuel|塞缪尔||
+|Samuel|塞缪尔|泛指名，具体所指以正文为准（如 Samuel Alexander 塞缪尔·亚历山大见专条）|
 |Samuel Alexander|塞缪尔·亚历山大||
 |Samuel Ibn Tibbon|撒母耳·伊本·提本||
 |Sartre|萨特||
@@ -455,8 +475,9 @@
 |Structural Realism|结构实在论|科学哲学标准译名（沃勒尔等）；“结构现实主义”是国际关系理论（沃尔兹）的译名，勿混|
 |Structure|结构||
 |Stumpf|斯图姆夫||
-|Sturm|施图尔姆||
+|Sturm|施图尔姆|泛指姓；Johann Christoph Sturm（约翰内斯·克里斯托夫·施图尔姆）见专条|
 |Substance|实体||
+|suniêmi|汇通|指集合感官信息的能力；阿尔克迈翁条裁定|
 |Supertasks|超级任务||
 |Supervenience|随附性||
 |Supervenience in Ethics|道德随附性||
@@ -467,6 +488,7 @@
 |System of Objects|物体系||
 |Tarski|塔尔斯基||
 |Taurellus|塔雷路斯||
+|tekmairesthai|凭征象推断|阿尔克迈翁条裁定|
 |Teleological|目的论||
 |Teleological Arguments|目的论论证||
 |Teleological Notions|目的论观念||
@@ -520,6 +542,7 @@
 |Turing machines|图灵机||
 |Turing test|图灵测试||
 |Two-Dimensional|二维||
+|type|类型|type-token 即“类型—殊例”之分，见 Token 条|
 |type theory|类型论||
 |Types|类型||
 |Umar Khayyam|欧玛尔·海亚姆||
@@ -563,11 +586,12 @@
 |William of Champeaux|尚波的威廉||
 |William of Sherwood|舍伍德的威廉||
 |William Whewell|威廉·惠威尔||
-|Williams|威廉姆斯||
-|Wilson|威尔逊||
+|Williams|威廉姆斯|泛指姓；Bernard Williams（伯纳德·威廉姆斯）与 Donald Cary Williams（唐纳德·卡里·威廉姆斯）为不同人，均见专条|
+|Wilson|威尔逊|泛指姓，具体所指以正文语境为准|
 |Windelband|文德尔班||
 |Wisdom|智慧||
 |Wittgenstein|维特根斯坦||
+|Xenophanes|色诺芬尼||
 |Zeno|芝诺||
 |Zermelo|策梅洛||
 |Zermelo-Fraenkel|策梅洛-弗兰克尔||
