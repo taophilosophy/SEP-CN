@@ -65,12 +65,5 @@
   // bun.lock 等非内容文件
   "ignoreGlobs": [
     "bun.lock"
-  ],
-  "overrides": [
-    {
-      // 分类目录为手工维护的多分类单页，多 H1 是设计而非错误
-      "files": "mu-lu-s.md",
-      "config": { "MD025": false }
-    }
   ]
 }

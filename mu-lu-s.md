@@ -2,6 +2,8 @@
 outline: [1, 6]
 ---
 
+<!-- markdownlint-disable MD025 -->
+
 # 前言
 
 * [版权说明](qian-yan/ban-quan-shuo-ming.md)

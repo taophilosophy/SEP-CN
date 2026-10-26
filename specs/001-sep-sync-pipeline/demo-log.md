@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD025 -->
+
 # 演示轮 1 日志：SEP 同步管线实跑记录
 
 **日期**: 2026-10-26 | **执行**: ZCode 会话（specs/001-sep-sync-pipeline） | **状态**: 完成，问题清单见文末
@@ -87,9 +89,9 @@
 
 ## 用户指令落实
 
-- **禁止 HTML 标签（保持洁净）**：sub/sup 一律转纯文本记法 _{x} / ^{x}，全库 <sub>/<sup> 残留 = 0。
-- **图片完全本地化**：en/<slug>/ 的图片复制进 yuanwen/assets/<slug>/，md 以 ../assets/ 相对引用，yuanwen 项目自包含。
-- **数学公式完全转为 LaTeX**：\(..\)→$…$、\[…\]→$$…$$，LaTeX 内容不变。
+* **禁止 HTML 标签（保持洁净）**：sub/sup 一律转纯文本记法 _{x} / ^{x}，全库 <sub>/<sup> 残留 = 0。
+* **图片完全本地化**：en/<slug>/ 的图片复制进 yuanwen/assets/<slug>/，md 以 ../assets/ 相对引用，yuanwen 项目自包含。
+* **数学公式完全转为 LaTeX**：\(..\)→$…$、\[…\]→$$…$$，LaTeX 内容不变。
 
 ## 终审结果（规范化覆盖审计，8 词条 + 补充材料 + SUMMARY）
 

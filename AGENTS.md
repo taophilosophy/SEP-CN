@@ -20,6 +20,14 @@
 | 提交 / 用工具 / CI | `rules/05-ci-and-tools.md` |
 | 修订规则 / 批量与破坏性动作 / 多会话协作 | `rules/06-governance.md` + `rules/adr/` |
 
+## 会话开工五分钟
+
+1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，先确认没有未预期的变动；
+2. 通读 `rules/README.md` 的"快速判例"；
+3. 跑门禁：`python tools/check_summary.py`、`python tools/check_mulu_s.py`（应 0 退出）；
+4. 查进度与任务：`PROGRESS.md`、`python tools/task_ops.py show <slug>`；
+5. 收工前：相关检查器复跑、相关文件提交（中文一行信息），不留未提交的半成品。
+
 ## 硬约束速览
 
 * **零信任**：既有中文译文一律不作底稿或修改依据；可疑处回原始 HTML（本地 `yuanwen/`、`en/`，不入库）核对；一切成品可回溯到英文源版本钉（pubinfo + 存档版名 + SHA-256）。

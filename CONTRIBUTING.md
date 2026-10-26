@@ -1,51 +1,25 @@
 # 贡献指南
 
-## 基本
+本项目是《斯坦福哲学百科全书》（Stanford Encyclopedia of Philosophy）的简体中文翻译，基于 GitBook 发布、辅以本地 VitePress 双语阅读站。贡献前请先读：
 
-* 本项目使用 markdown 语法编写。请保证该语法的正确性。
-* 所有文件及路径的创建应该由 ykla 来完成。如果没有你要翻译的条目，请提出 issue。
-* 所有人名和特殊的专有名词均应该列入“词汇表”。
-* 请在提交前在 issue 提交自己的规划避免重复工作。
-* 本项目的机器翻译一律使用 ChatGPT 3.5，Ai 参数见 `README.md`。
-* 本项目使用  BSD 授权许可。
+* [AGENTS.md](AGENTS.md) —— AI 代理入口与规范层级
+* [规则目录](rules/README.md) —— 仓库结构、编写体例、术语、翻译流程、CI、治理
+* [任务协议](tasks/README.md) —— 文档任务与三审三校状态机
+* [项目宪法](.specify/memory/constitution.md) —— 六项核心原则
 
-## Ai 参数
+## 如何参与
 
-本项目使用 MarkText（支持数学字符且不会产生多余的识别） 来将原文转换为 Markdown 文本，然后复制文本使用 Notepad++ 为其每行加一个空行，即查找 `\r\n` 替换成 `\r\n\r\n`。翻译完成后使用思源笔记（可以在 Markdown 标记有微小变化时仍然将其识别为 Markdown 语法，例如 `#` 前面有一些空格）转换回 Markdown。
+1. **翻译 / 校对词条**：在 [PROGRESS.md](PROGRESS.md) 与 `tasks/` 领取任务 → `python tools/task_ops.py create <slug> --kind retranslate`（前置：词条已建英文基线）→ 按六道状态机推进（一校→二校→三校→初审→复审→终审，禁止跳步）→ 每步留 `evidence` 凭证 → 完成即提交（中文一行信息）。
+2. **新词条 / 新页面**：文件与路径由 ykla 统一创建；缺条目请开 issue。
+3. **术语**：先登记 `yi-zhe-shuo-ming.md` 后使用；发布词汇表 `qian-yan/ci-hui-biao.md` 向登记册看齐（见 `rules/03-terminology.md`）。
+4. **改结构 / 标题**：只改 `SUMMARY.md`，各文件 H1 由 CI 同步；分类目录 `mu-lu-s.md` 改动后跑 `python tools/check_mulu_s.py`。
+5. **提交前**：跑门禁 `python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_style.py <改动文件>`，以及 `markdownlint-cli2`。
 
-使用 `gpt-3.5-turbo-0613`。以下依次为本项目使用的不同参数。
+## 历史说明
 
-```
-You are a professional, authentic translation engine. You only return the translated text, without any explanations. 
-1. retain specific English terms, titles or names. The rest of the text continues to be translated. 
-2. The zombies  to 僵尸.
-4. The Account  to 解释/原理. The accommodation to 解释.  The property to 属性/性质. The  moral  desert to 道德应得. The agency to 行为体. The desert to 应得. The testimony to 证言. The commentators to 评注者. The Schelling to 谢林. The Supervenience to 随附. The agent to 行为体. The Token to 个体.
-```
+* 早期条目由机器翻译（GPT-3.5，工具链与参数见 git 历史）生成，质量不达标。项目已裁定**全量重译**：既有译文不作底稿或修改依据，一律以新抓取的英文源为唯一底稿（宪法 I、FR-013）。
+* 当前进度见 [PROGRESS.md](PROGRESS.md)（由 `tools/progress.py` 自动生成）。
 
-```
-^\s*\*\s*\[.*?\].*$
+## 许可
 
-将以 * [ 开头的行全部删除
-
-\* \[\\\*.*\R
-
-将以 * [\* 开头的行全部删除
-
-git rev-list --objects --all | grep "$(git verify-pack -v .git/objects/pack/*.idx | sort -k 3 -n | tail -5 | awk '{print$1}')" 
-寻找 Git 记录中的大文件
-
-合并两个Git项目 
-https://moqiang02.github.io/2023/09/05/git%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E4%BB%93%E5%BA%93/
-
-https://rhysd.github.io/actionlint/ 在线检查 git actioon 语法
-
-markdownlnt 规则介绍 中文 https://www.newverse.wiki/senses/markdownlint/
-```
-
-## 词条说明
-
-* 凡是以 `*` 开头的且词条名中 **包含** `— see` 的词条都是指向其他词条的“别名词条”，例如 `*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire`，伏尔泰（Voltaire）是其笔名，“弗朗索瓦-马里‧阿鲁埃（François-Marie Arouet）”才是原名，但是实际上两个代表的是一个人。`*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire` 实际指向条目——`伏尔泰——Voltaire (J.B. Shank)`
-* 凡是以 `*` 开头的且词条名中 **不包含** `— see` 的词条实际上是不存在的。例如 `*非洲哲学 African Philosophy` 实际上并不存在，仅作为母词条标题而出现。
-* `*` 只代表当前的词条，不代表下辖的所有条目，凡是特殊词条都会一一标注。例如母词条 `*美学 aesthetics` 不代表美学下面的所有词条都是特殊词条，只有有 `*` 标注的才是特殊词条。
-* `*超距作用——见量子力学：量子力学中的超距作用 action at a distance — see quantum mechanics: action at a distance in` 这个词条代表“超距作用”这个词条实际指向“量子力学”这个主目录下的 `量子力学中的超距作用` 这个词条。
-
+工程产物使用 BSD-2-Clause；SEP 词条原文为 CC BY-NC-SA，译文项目沿用仓库现行许可与发布方式，"reprinted with permission" 图片在译文中标注来源。
