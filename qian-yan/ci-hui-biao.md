@@ -52,8 +52,8 @@
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
-|Argument|悖论||
-|Aspect|体态||
+|Argument|论证|悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正|
+|Aspect|体（体貌）|语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正|
 |atomism|原子论||
 |Attributes|属性||
 |authenticity|本真性||

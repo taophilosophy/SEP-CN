@@ -467,7 +467,7 @@ def convert_entry(slug):
         cite_defs = len(keys)
 
     md_path = os.path.join(ydir, slug + '.md')
-    write_text(md_path, md + '\n')
+    write_text_verified(md_path, md + '\n')
     if not os.path.exists(md_path):
         raise OSError('yuanwen write failed: %s' % md_path)
 

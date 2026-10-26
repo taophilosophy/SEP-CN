@@ -103,6 +103,6 @@ tasks/                    # 文档任务状态机（入版本库）
 
 > Constitution Check 无违宪项，表格留空。
 
-| Violation | Why Needed | Simpler Alternative Rejected Because |
-|-----------|------------|-------------------------------------|
-| （无） | | |
+|Violation|Why Needed|Simpler Alternative Rejected Because|
+|---|---|---|
+|（无）|||

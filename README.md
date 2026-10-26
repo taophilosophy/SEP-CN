@@ -10,19 +10,6 @@
 
 <img src="./.gitbook/assets/wechat.png" width="25%" height="25%">
 
-## Test Mathjax
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-**Maxwell's equations:**
-
-| equation                                                                                                                                                                  | description                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| $\nabla \cdot \vec{\mathbf{B}}  = 0$                                                                                                                                      | divergence of $\vec{\mathbf{B}}$ is zero                                               |
-| $\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t}  = \vec{\mathbf{0}}$                                                          | curl of $\vec{\mathbf{E}}$ is proportional to the rate of change of $\vec{\mathbf{B}}$ |
-| $\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} = \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho$ | *wha?*                                                                                 |
-
 ## 词条说明
 
 * 凡是以 `*` 开头的且词条名中 **包含** `— see` 的词条都是指向其他词条的“别名词条”，例如 `*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire`，伏尔泰（Voltaire）是其笔名，“弗朗索瓦-马里‧阿鲁埃（François-Marie Arouet）”才是原名，但是实际上两个代表的是一个人。`*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire` 实际指向条目——`伏尔泰——Voltaire (J.B. Shank)`
@@ -33,37 +20,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ## 项目进度
 
-|  目录 |  实际数量 | 机器翻译 |
-| :-: |:--: | :--: |
-|  A  |   139 |   2 个条目无法处理[^1]|
-|  B  |  61  |   5 个条目待处理[^2] |
-|  C  |  171 |  X  |
-|  D  |   89  |   错误太多将重新处理 |
-|  E  |    87 |    错误太多将重新处理 |
-|  F  |   91  |   错误太多将重新处理  |
-|  G  |  50  |   错误太多将重新处理 |
-|  H  |   60  | 错误太多将重新处理  |
-|  I  |  75   |   错误太多将重新处理 |
-|  J  |    32   |  ✓   |
-|  K  |    32   |  ✓   |
-|  L  |   136    |  ✓    |
-|  M  |   146  |   ✓   |
-|  N  |   47  |   ✓   |
-|  O  |   23    |   ✓   |
-|  P  |  151     |   ✓   |
-|  Q  |    32  |     ✓ |
-|  R  |   87   |    ✓  |
-|  S  |   166    |    ✓  |
-|  T  |   67    |    ✓  |
-|  U  |     6  |    ✓  |
-|  V  |  17    |    ✓  |
-|  W  |    32   |    ✓  |
-|  X  |  3   |   ✓   |
-|  Y  |      1  |    ✓  |
-|  Z  |    6  |    ✓  |
-
-[^1]: 无法处理条目参见 [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)，下同。
-[^2]: 数学公式太多，待处理。
+全库处于**全量重译战役**期（FR-013）：既有机器翻译正文已清空，各词条正按"抓取基线 → 三审三校"状态机逐条重译。实时进度由 `python tools/progress.py` 生成，见 [PROGRESS.md](PROGRESS.md)（自动生成，不手改）。
 
 ## 关于 SEP
 

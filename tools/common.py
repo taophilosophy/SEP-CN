@@ -73,7 +73,6 @@ def write_text(path, text):
 def write_text_verified(path, text):
     """写文本并读回比对（零信任：SMB 写入可能静默不一致），重试 3 次。"""
     data = text.replace("\r\n", "\n").replace("\r", "\n").encode("utf-8")
-").encode("utf-8")
     last = None
     for attempt in range(3):
         try:
