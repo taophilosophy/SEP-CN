@@ -101,11 +101,11 @@ R\), then we say that that \(a\) and \(b\) are *\(R\)-equivalent*. For every \(a
 
 If \(R\) is a binary relation, then one usually writes \(aRb\) instead of \((a,b)\in R\).
 
-A binary relation \(R\) on a set \(A\) is called *antisymmetric* if \(a=b\) whenever \(aRb\) and \(bRa\). A relation \(R\) on a set \(A\) that is reflexive, antisymmetric, and transitive, is called a (reflexive) *partial order*. If we remove from \(R\) all pairs \((a,a)\), for every \(a\in A\), then we get a *strict* partial order. The \(\subseteq\) relation on any set of sets is an example of a partial order. A partial order on a given set \(A\) is usually represented by the symbol \(\leq\), and the corresponding strict partial ordering by \(&lt;\). A partial order \(\leq\) on a set \(A\) with the additional property that either \(a\leq b\) or \(b\leq a\), for all elements \(a\) and \(b\) of \(A\), is called a *total order*, or a *linear order*. The usual orderings of the set \(\mathbb{N}\) of natural numbers, the set \(\mathbb{Z}\) of the integers, the set \(\mathbb{Q}\) of the rational numbers, or the set \(\mathbb{R}\) of real numbers, are linear orders.
+A binary relation \(R\) on a set \(A\) is called *antisymmetric* if \(a=b\) whenever \(aRb\) and \(bRa\). A relation \(R\) on a set \(A\) that is reflexive, antisymmetric, and transitive, is called a (reflexive) *partial order*. If we remove from \(R\) all pairs \((a,a)\), for every \(a\in A\), then we get a *strict* partial order. The \(\subseteq\) relation on any set of sets is an example of a partial order. A partial order on a given set \(A\) is usually represented by the symbol \(\leq\), and the corresponding strict partial ordering by \(<\). A partial order \(\leq\) on a set \(A\) with the additional property that either \(a\leq b\) or \(b\leq a\), for all elements \(a\) and \(b\) of \(A\), is called a *total order*, or a *linear order*. The usual orderings of the set \(\mathbb{N}\) of natural numbers, the set \(\mathbb{Z}\) of the integers, the set \(\mathbb{Q}\) of the rational numbers, or the set \(\mathbb{R}\) of real numbers, are linear orders.
 
 Notice that if \(\leq\) is a linear order on a set \(A\), and \(B\subseteq A\), then \(\leq \cap \, B^2\) is also a linear order on \(B\). If \(\leq\) is a linear order on a set \(A\), then we say that \(a\in A\) is the \(\leq\)-least element of \(A\) if there is no \(b\in A\) distinct from \(a\) such that \(b\leq a\). The number \(0\) is the least element of \(\mathbb{N}\), but \(\mathbb{Z}\) has no least element.
 
-A linear order \(\leq\) on a set \(A\) is a *well-order* if every non-empty subset of \(A\) has a \(\leq\)-least element. Equivalently, if there is no infinite strictly descending sequence \[\ldots &lt; a_2&lt; a_1&lt; a_0\] of elements of \(A\). Thus, the usual ordering of \(\mathbb{N}\) is a well-order. But the usual order on \(\mathbb{Z}\) is not, because it has no least element.
+A linear order \(\leq\) on a set \(A\) is a *well-order* if every non-empty subset of \(A\) has a \(\leq\)-least element. Equivalently, if there is no infinite strictly descending sequence \[\ldots < a_2< a_1< a_0\] of elements of \(A\). Thus, the usual ordering of \(\mathbb{N}\) is a well-order. But the usual order on \(\mathbb{Z}\) is not, because it has no least element.
 
 ### 2. Functions
 
@@ -137,7 +137,7 @@ Given a subset \(C\subseteq A\times B\), the *projection* of \(C\) (on the first
 
 > \(\{ a\in A: \exists b\in B ((a,b)\in C)\}\).
 
-It is not the case, however, that given any formula \(\varphi(x,y_1,\ldots ,y_n)\), and sets \(B_1,\ldots ,B_n\), one can form the set of all those sets that satisfy the formula \(\varphi(x,B_1,\ldots ,B_n)\). For let \(\varphi(x)\) be the formula \(\neg x \in x\). If \(A\) were the set of all sets that satisfy the formula, then \(A\in A\) if and only if \(\neg A \in A\). A contradiction! This contradiction is known as *Russell’s paradox*, after Bertrand Russell, who discovered it in 1901 (see the entry on Russell’s paradox).
+It is not the case, however, that given any formula \(\varphi(x,y_1,\ldots ,y_n)\), and sets \(B_1,\ldots ,B_n\), one can form the set of all those sets that satisfy the formula \(\varphi(x,B_1,\ldots ,B_n)\). For let \(\varphi(x)\) be the formula \(\neg x \in x\). If \(A\) were the set of all sets that satisfy the formula, then \(A\in A\) if and only if \(\neg A \in A\). A contradiction! This contradiction is known as *Russell&rsquo;s paradox*, after Bertrand Russell, who discovered it in 1901 (see the entry on Russell&rsquo;s paradox).
 
 ### 4. Ordinals
 
@@ -163,17 +163,17 @@ A set \(A\) is *finite* if there is a one-to-one correspondence between some nat
 The set of all finite ordinals is denoted by the Greek letter omega (\(\omega\)). Thus, \(\omega\) is just the set \(\mathbb{N}\) of natural numbers. \(\omega\) is also an ordinal, the first infinite ordinal. Notice that \(\omega\) is not the successor of any ordinal, and so it is called a *limit ordinal*. Once we have \(\omega\) we can continue generating more ordinals by taking its successor \(\omega \cup \{ \omega \}\), then its successor \((\omega \cup
 \{\omega\}) \cup \{\omega \cup \{\omega \}\}\), and so on. All ordinal numbers greater than \(0\) are produced in this way, namely, either by taking the successor of the last produced ordinal, or, if there is no such last ordinal, by taking the set of all the ordinals produced so far, as in the case of \(\omega\) which yields a new limit ordinal. Note, however, that one cannot take the set of *all* ordinals, for then this set would be a new limit ordinal, which is impossible, since we already had them all.
 
-As with finite ordinals, every infinite ordinal is just the set of its predecessors. One consequence of this is that the \(\in\) relation is a strict well-order on any set of ordinals. Thus, for any ordinals \(\alpha\) and \(\beta\) we define \(\alpha &lt;\beta\) if and only if \(\alpha \in \beta\). Then the associated reflexive well-order is defined as \(\alpha \leq \beta\) if and only if \(\alpha &lt;\beta\) or \(\alpha =\beta\). Let us now observe that \(\alpha \subseteq
+As with finite ordinals, every infinite ordinal is just the set of its predecessors. One consequence of this is that the \(\in\) relation is a strict well-order on any set of ordinals. Thus, for any ordinals \(\alpha\) and \(\beta\) we define \(\alpha <\beta\) if and only if \(\alpha \in \beta\). Then the associated reflexive well-order is defined as \(\alpha \leq \beta\) if and only if \(\alpha <\beta\) or \(\alpha =\beta\). Let us now observe that \(\alpha \subseteq
 \beta\) if and only if \(\alpha \leq \beta\).
 
 ### 5. Countable and uncountable sets
 
 If \(A\) is a finite set, there is a bijection \(F:n\to A\) between a natural number \(n\) and \(A\). Any such bijection gives a *counting* of the elements of \(A\), namely, \(F(0)\) is the first element of \(A\), \(F(1)\) is the second, and so on. Thus, all finite sets are countable. An infinite set \(A\) is called *countable* if there is a bijection \(F:\omega \to A\) between the set of natural numbers and \(A\). The set \(\mathbb{N}\) of natural numbers is (trivially) countable. If \(A\) is an infinite subset of \(\omega\), then \(A\) is also countable: for let \(F:\omega
-\to A\) be such that \(F(n)\) is the least element of \(A\) that is not in the set \(\{ F(m)\in A: m&lt; n\}\). Then \(F\) is a bijection.
+\to A\) be such that \(F(n)\) is the least element of \(A\) that is not in the set \(\{ F(m)\in A: m< n\}\). Then \(F\) is a bijection.
 
 Every infinite subset of a countable set is also countable: for suppose \(F:\omega \to A\) is a bijection and \(B\subseteq A\) is infinite. Then the set \(\{ n\in \omega: F(n)\in B\}\) is an infinite subset of \(\omega\), hence countable, and so there is a bijection \(G:\omega \to \{ n\in \omega : F(n)\in B\}\). Then the composition function \(F\circ G:\omega \to B\) is a bijection.
 
-The union of a countable set and a finite set is also countable. For given sets \(A\) and \(B\), which without loss of generality we may assume they are disjoint, and given bijections \(F:\omega \to A\) and \(G:n\to B\), for some \(n&lt;\omega\), let \(H:\omega \to A\cup B\) be the bijection given by: \(H(m)=G(m)\), for every \(m&lt;n\), and \(H(m)=F(m-n)\), for every \(n\leq m\).
+The union of a countable set and a finite set is also countable. For given sets \(A\) and \(B\), which without loss of generality we may assume they are disjoint, and given bijections \(F:\omega \to A\) and \(G:n\to B\), for some \(n<\omega\), let \(H:\omega \to A\cup B\) be the bijection given by: \(H(m)=G(m)\), for every \(m<n\), and \(H(m)=F(m-n)\), for every \(n\leq m\).
 
 Moreover, the union of two countable sets is also countable: since we have already shown that the union of a countable set and a finite set is also countable, it is enough to see that the union of two disjoint countable sets is also countable. So, suppose \(A\) and \(B\) are countable sets and \(F:\omega \to A\) and \(G:\omega \to B\) are bijections, then the function \(H:\omega \to A\cup B\) consisting of all pairs \((2n,F(n))\), plus all pairs \((2n+1, G(n))\) is a bijection.
 
@@ -184,8 +184,8 @@ The Cartesian product of two infinite countable sets is also countable. For supp
 
 Since any rational number is given by a pair of integers, i.e., a quotient \(\frac{m}{n}\), where \(m,n\in \mathbb{Z}\) and \(n\ne 0\), the set \(\mathbb{Q}\) of rational numbers is also countable.
 
-However, Georg Cantor discovered that the set \(\mathbb{R}\) of real numbers is not countable. For suppose, aiming for a contradiction, that \(F:\omega \to \mathbb{R}\) is a bijection. Let \(a_0=F(0)\). Choose the least \(k\) such that \(a_0&lt;F(k)\) and put \(b_0=F(k)\). Given \(a_n\) and \(b_n\), choose the least \(l\) such that \(a_n&lt;F(l)&lt;b_n\), and put \(a_{n+1}=F(l)\). And choose the least \(m\) such that \(a_{n+1}&lt;F(m)&lt;b_n\), and put \(b_{n+1}=F(m)\). Thus, we have \(a_0&lt;a_1&lt;a_2&lt;\cdots\) \(\cdots
-&lt;b_2&lt;b_1&lt;b_0\). Now let \(a\) be the limit of the \(a_n\). Then \(a\) is a real number different from \(F(n)\), all \(n\), which is impossible because \(F\) is a bijection.
+However, Georg Cantor discovered that the set \(\mathbb{R}\) of real numbers is not countable. For suppose, aiming for a contradiction, that \(F:\omega \to \mathbb{R}\) is a bijection. Let \(a_0=F(0)\). Choose the least \(k\) such that \(a_0<F(k)\) and put \(b_0=F(k)\). Given \(a_n\) and \(b_n\), choose the least \(l\) such that \(a_n<F(l)<b_n\), and put \(a_{n+1}=F(l)\). And choose the least \(m\) such that \(a_{n+1}<F(m)<b_n\), and put \(b_{n+1}=F(m)\). Thus, we have \(a_0<a_1<a_2<\cdots\) \(\cdots
+<b_2<b_1<b_0\). Now let \(a\) be the limit of the \(a_n\). Then \(a\) is a real number different from \(F(n)\), all \(n\), which is impossible because \(F\) is a bijection.
 
 The existence of uncountable sets follows from a much more general fact, also discovered by Cantor. Namely, given any set \(A\), the set of all its subsets, called the *power set* of \(A\), and denoted by \(\mathcal{P}(A)\), is not bijectable with \(A\): for suppose that \(F:A\to \mathcal{P}(A)\) is a bijection. Then the subset \(\{ a\in A: \neg a \in F(a)\}\) of \(A\) is the value \(F(a)\) of some \(a\in A\). But then \(a\in F(a)\) if and only if \(\neg a \in
 F(a)\). Hence, if \(A\) is any infinite set, then \(\mathcal{P}(A)\) is uncountable.
@@ -210,9 +210,9 @@ The cardinality of any set \(A\), denoted by \(|A|\), is the unique cardinal num
 
 - Devlin, K., 1979, *Fundamentals of Contemporary Set Theory*, Undergraduate Texts in Mathematics, Springer, Second edition 1993, The Joy of Sets: Fundamentals of Contemporary Set Theory. Undergraduate Texts in Mathematics, New York: Springer.
 - Enderton, H.B., 1977, *Elements of Set Theory*, New York: Academic Press.
-- Jech, T. and K. Hrbaček, 1978 [1999], *Introduction to set theory*, New York: Marcel Dekker, 3rd edition 1999.
+- Jech, T. and K. Hrba&#269;ek, 1978 [1999], *Introduction to set theory*, New York: Marcel Dekker, 3rd edition 1999.
 
-Copyright © 2023 by Joan Bagaria <*joan.bagaria@icrea.cat*>
+Copyright &copy; 2023 by Joan Bagaria &lt;*joan&#46;bagaria&#64;icrea&#46;cat*&gt;
 
 #### Browse
 
@@ -246,6 +246,6 @@ View this site from another server:
 
 - Info about mirror sites
 
-The Stanford Encyclopedia of Philosophy is copyright © 2023 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
+The Stanford Encyclopedia of Philosophy is copyright &copy; 2023 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
 
 Library of Congress Catalog Data: ISSN 1095-5054

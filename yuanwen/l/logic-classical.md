@@ -3,17 +3,25 @@
 
 *Shapiro, Stewart, Kouri Kissel, Teresa*
 
+Typically, a *logic* consists of a formal or informal language together with a deductive system and/or a model-theoretic semantics. The language has components that correspond to a part of a natural language like English or Greek. The deductive system is to capture, codify, or simply record *arguments* that are *valid* for the given language, and the semantics is to capture, codify, or record the meanings, or truth-conditions for at least part of the language.
+
+The following sections provide the basics of a typical logic, sometimes called &ldquo;classical elementary logic&rdquo; or &ldquo;classical first-order logic&rdquo;. Section 2 develops a formal language, with a rigorous syntax and grammar. The formal language is a recursively defined collection of strings on a fixed alphabet. As such, it has no meaning, or perhaps better, the meaning of its formulas is given by the deductive system and the semantics. Some of the symbols have counterparts in ordinary language. We define an *argument* to be a non-empty collection of sentences in the formal language, one of which is designated to be the conclusion. The other sentences (if any) in an argument are its premises. Section 3 sets up a deductive system for the language, in the spirit of natural deduction. An argument is *derivable* if there is a deduction from some or all of its premises to its conclusion. Section 4 provides a model-theoretic semantics. An argument is *valid* if there is no interpretation (in the semantics) in which its premises are all true and its conclusion false. This reflects the longstanding view that a valid argument is truth-preserving.
+
+In Section 5, we turn to relationships between the deductive system and the semantics, and in particular, the relationship between derivability and validity. We show that an argument is derivable only if it is valid. This pleasant feature, called *soundness*, entails that no deduction takes one from true premises to a false conclusion. Thus, deductions preserve truth. Then we establish a converse, called *completeness*, that an argument is valid only if it is derivable. This shows that the deductive system is rich enough to provide a deduction for every valid argument. So there are enough deductions: all and only valid arguments are derivable. We briefly indicate other features of the logic, some of which are corollaries to soundness and completeness.
+
+The final section, Section 6, is devoted to the a brief examination of the philosophical position that classical logic is &ldquo;the one right logic&rdquo;.
+
 ## 1. Introduction
 
 Today, logic is a branch of mathematics and a branch of philosophy. In most large universities, both departments offer courses in logic, and there is usually a lot of overlap between them. Formal languages, deductive systems, and model-theoretic semantics are mathematical objects and, as such, the logician is interested in their mathematical properties and relations. Soundness, completeness, and most of the other results reported below are typical examples. Philosophically, logic is at least closely related to the study of *correct reasoning*. Reasoning is an epistemic, mental activity. So logic is at least closely allied with epistemology. Logic is also a central branch of computer science, due, in part, to interesting computational relations in logical systems, and, in part, to the close connection between formal deductive argumentation and reasoning (see the entries on recursive functions, computability and complexity, and philosophy of computer science).
 
-This raises questions concerning the philosophical relevance of the various mathematical aspects of logic. How do deducibility and validity, as properties of formal languages – sets of strings on a fixed alphabet – relate to correct reasoning? What do the mathematical results reported below have to do with the original philosophical issues concerning valid reasoning? This is an instance of the philosophical problem of explaining how mathematics applies to non-mathematical reality.
+This raises questions concerning the philosophical relevance of the various mathematical aspects of logic. How do deducibility and validity, as properties of formal languages &ndash; sets of strings on a fixed alphabet &ndash; relate to correct reasoning? What do the mathematical results reported below have to do with the original philosophical issues concerning valid reasoning? This is an instance of the philosophical problem of explaining how mathematics applies to non-mathematical reality.
 
 Typically, ordinary deductive reasoning takes place in a natural language, or perhaps a natural language augmented with some mathematical symbols. So our question begins with the relationship between a natural language and a formal language. Without attempting to be comprehensive, it may help to sketch several options on this matter.
 
 One view is that the formal languages accurately exhibit actual features of certain fragments of a natural language. Some philosophers claim that declarative sentences of natural language have underlying *logical forms* and that these forms are displayed by formulas of a formal language. Other writers hold that (successful) declarative sentences express *propositions*; and formulas of formal languages somehow display the forms of these propositions. On views like this, the components of a logic provide the underlying deep structure of correct reasoning. A chunk of reasoning in natural language is correct if the forms underlying the sentences constitute a valid or deducible argument. See for example, Montague [1974], Davidson [1984], Lycan [1984] (and the entry on logical form).
 
-Another view, held at least in part by Gottlob Frege and Wilhelm Leibniz, is that because natural languages are fraught with vagueness and ambiguity, they should be *replaced* by formal languages. A similar view, held by W. V. O. Quine (e.g., [1960], [1986]), is that a natural language should be *regimented*, cleaned up for serious scientific and metaphysical work. One desideratum of the enterprise is that the logical structures in the regimented language should be transparent. It should be easy to “read off” the logical properties of each sentence. A regimented language is similar to a formal language regarding, for example, the explicitly presented rigor of its syntax and its truth conditions.
+Another view, held at least in part by Gottlob Frege and Wilhelm Leibniz, is that because natural languages are fraught with vagueness and ambiguity, they should be *replaced* by formal languages. A similar view, held by W. V. O. Quine (e.g., [1960], [1986]), is that a natural language should be *regimented*, cleaned up for serious scientific and metaphysical work. One desideratum of the enterprise is that the logical structures in the regimented language should be transparent. It should be easy to &ldquo;read off&rdquo; the logical properties of each sentence. A regimented language is similar to a formal language regarding, for example, the explicitly presented rigor of its syntax and its truth conditions.
 
 On a view like this, deducibility and validity represent *idealizations* of correct reasoning in natural language. A chunk of reasoning is correct to the extent that it corresponds to, or can be regimented by, a valid or deducible argument in a formal language.
 
@@ -25,27 +33,27 @@ There is no need to adjudicate this matter here. Perhaps the truth lies in a com
 
 ## 2. Language
 
-Here we develop the basics of a formal language, or to be precise, a class of formal languages. Again, a formal language is a recursively defined set of strings on a fixed alphabet. Some aspects of the formal languages correspond to, or have counterparts in, natural languages like English. Technically, this “counterpart relation” is not part of the formal development, but we will mention it from time to time, to motivate some of the features and results.
+Here we develop the basics of a formal language, or to be precise, a class of formal languages. Again, a formal language is a recursively defined set of strings on a fixed alphabet. Some aspects of the formal languages correspond to, or have counterparts in, natural languages like English. Technically, this &ldquo;counterpart relation&rdquo; is not part of the formal development, but we will mention it from time to time, to motivate some of the features and results.
 
 ### 2.1 Building blocks
 
 We begin with analogues of *singular terms*, linguistic items whose function is to denote a person or object. We call these *terms*. We assume a stock of *individual constants*. These are lower-case letters, near the beginning of the Roman alphabet, with or without numerical subscripts:
 
-We envisage a potential infinity of individual constants. In the present system each constant is a single character, and so individual constants do not have an internal syntax. Thus we have an infinite alphabet. This could be avoided by taking a constant like \(d_{22}\), for example, to consist of three characters, a lowercase “\(d\)” followed by a pair of subscript “2”s.
+We envisage a potential infinity of individual constants. In the present system each constant is a single character, and so individual constants do not have an internal syntax. Thus we have an infinite alphabet. This could be avoided by taking a constant like \(d_{22}\), for example, to consist of three characters, a lowercase &ldquo;\(d\)&rdquo; followed by a pair of subscript &ldquo;2&rdquo;s.
 
 We also assume a stock of *individual variables*. These are lower-case letters, near the end of the alphabet, with or without numerical subscripts:
 
-In ordinary mathematical reasoning, there are two functions terms need to fulfill. We need to be able to denote specific, but unspecified (or arbitrary) objects, and sometimes we need to express generality. In our system, we use some constants in the role of unspecified reference and variables to express generality. Both uses are recapitulated in the formal treatment below. Some logicians employ different symbols for unspecified objects (sometimes called “individual parameters”) and variables used to express generality.
+In ordinary mathematical reasoning, there are two functions terms need to fulfill. We need to be able to denote specific, but unspecified (or arbitrary) objects, and sometimes we need to express generality. In our system, we use some constants in the role of unspecified reference and variables to express generality. Both uses are recapitulated in the formal treatment below. Some logicians employ different symbols for unspecified objects (sometimes called &ldquo;individual parameters&rdquo;) and variables used to express generality.
 
-Constants and variables are the only terms in our formal language, so all of our terms are simple, corresponding to proper names and some uses of pronouns. We call a term closed if it is not a variable. In general, we use \(v\) to represent variables, and \(t\) to represent a closed term, an individual constant. Some authors also introduce *function letters*, which allow complex terms corresponding to: “\(7+4\)” and “the father of Albert Einstein” and “the husband of Michelle Obama”, or complex terms containing variables, like “the father of \(x\)” and “\(x/y\)”. Logic books aimed at mathematicians are likely to contain function letters, probably due to the centrality of functions in mathematical discourse. Books aimed at a more general audience (or at philosophy students), may leave out function letters, since it simplifies the syntax and theory. We follow the latter route here. This is an instance of a general tradeoff between presenting a system with greater expressive resources, at the cost of making its formal treatment more complex.
+Constants and variables are the only terms in our formal language, so all of our terms are simple, corresponding to proper names and some uses of pronouns. We call a term closed if it is not a variable. In general, we use \(v\) to represent variables, and \(t\) to represent a closed term, an individual constant. Some authors also introduce *function letters*, which allow complex terms corresponding to: &ldquo;\(7+4\)&rdquo; and &ldquo;the father of Albert Einstein&rdquo; and &ldquo;the husband of Michelle Obama&rdquo;, or complex terms containing variables, like &ldquo;the father of \(x\)&rdquo; and &ldquo;\(x/y\)&rdquo;. Logic books aimed at mathematicians are likely to contain function letters, probably due to the centrality of functions in mathematical discourse. Books aimed at a more general audience (or at philosophy students), may leave out function letters, since it simplifies the syntax and theory. We follow the latter route here. This is an instance of a general tradeoff between presenting a system with greater expressive resources, at the cost of making its formal treatment more complex.
 
 For each natural number \(n\), we introduce a stock of \(n\)-place *predicate letters*. These are upper-case letters at the beginning or middle of the alphabet. A superscript indicates the number of places, and there may or may not be a subscript. For example,
 
-are three-place predicate letters. We often omit the superscript, when no confusion will result. We also add a special two-place predicate symbol “\(=\)” for identity.
+are three-place predicate letters. We often omit the superscript, when no confusion will result. We also add a special two-place predicate symbol &ldquo;\(=\)&rdquo; for identity.
 
-Zero-place predicate letters are sometimes called “sentence letters”. They correspond to free-standing sentences whose internal structure does not matter. One-place predicate letters, called “monadic predicate letters”, correspond to linguistic items denoting properties, like “being a man”, “being red”, or “being a prime number”. Two-place predicate letters, called “binary predicate letters”, correspond to linguistic items denoting binary relations, like “is a parent of” or “is greater than”. Three-place predicate letters correspond to three-place relations, like “lies on a straight line between”. And so on.
+Zero-place predicate letters are sometimes called &ldquo;sentence letters&rdquo;. They correspond to free-standing sentences whose internal structure does not matter. One-place predicate letters, called &ldquo;monadic predicate letters&rdquo;, correspond to linguistic items denoting properties, like &ldquo;being a man&rdquo;, &ldquo;being red&rdquo;, or &ldquo;being a prime number&rdquo;. Two-place predicate letters, called &ldquo;binary predicate letters&rdquo;, correspond to linguistic items denoting binary relations, like &ldquo;is a parent of&rdquo; or &ldquo;is greater than&rdquo;. Three-place predicate letters correspond to three-place relations, like &ldquo;lies on a straight line between&rdquo;. And so on.
 
-The *non-logical terminology* of the language consists of its individual constants and predicate letters. The symbol “\(=\)”, for identity, is not a non-logical symbol. In taking identity to be logical, we provide explicit treatment for it in the deductive system and in the model-theoretic semantics. Most authors do the same, but there is some controversy over the issue (Quine [1986, Chapter 5]). If \(K\) is a set of constants and predicate letters, then we give the fundamentals of a language \(\LKe\) built on this set of non-logical terminology. It may be called the *first-order language with identity* on \(K\). A similar language that lacks the symbol for identity (or which takes identity to be non-logical) may be called \(\mathcal{L}1K\), the *first-order language without identity* on \(K\).
+The *non-logical terminology* of the language consists of its individual constants and predicate letters. The symbol &ldquo;\(=\)&rdquo;, for identity, is not a non-logical symbol. In taking identity to be logical, we provide explicit treatment for it in the deductive system and in the model-theoretic semantics. Most authors do the same, but there is some controversy over the issue (Quine [1986, Chapter 5]). If \(K\) is a set of constants and predicate letters, then we give the fundamentals of a language \(\LKe\) built on this set of non-logical terminology. It may be called the *first-order language with identity* on \(K\). A similar language that lacks the symbol for identity (or which takes identity to be non-logical) may be called \(\mathcal{L}1K\), the *first-order language without identity* on \(K\).
 
 ### 2.2 Atomic formulas
 
@@ -67,47 +75,47 @@ We give a recursive definition of a *formula* of \(\LKe\):
 2. If \(\theta\) is a formula of \(\LKe\), then so is \(\neg
 \theta\).
 
-A formula corresponding to \(\neg \theta\) thus says that it is not the case that \(\theta\). The symbol “\(\neg\)” is called “negation”, and is a unary connective.
+A formula corresponding to \(\neg \theta\) thus says that it is not the case that \(\theta\). The symbol &ldquo;\(\neg\)&rdquo; is called &ldquo;negation&rdquo;, and is a unary connective.
 
 1. If \(\theta\) and \(\psi\) are formulas of \(\LKe\), then so is \((\theta \amp \psi)\).
 
-The ampersand “\(\amp\)” corresponds to the English “and” (when “and” is used to connect sentences). So \((\theta \amp \psi)\) can be read “\(\theta\) and \(\psi\)”. The formula \((\theta \amp \psi)\) is called the “conjunction” of \(\theta\) and \(\psi\).
+The ampersand &ldquo;\(\amp\)&rdquo; corresponds to the English &ldquo;and&rdquo; (when &ldquo;and&rdquo; is used to connect sentences). So \((\theta \amp \psi)\) can be read &ldquo;\(\theta\) and \(\psi\)&rdquo;. The formula \((\theta \amp \psi)\) is called the &ldquo;conjunction&rdquo; of \(\theta\) and \(\psi\).
 
 1. If \(\theta\) and \(\psi\) are formulas of \(\LKe\), then so is \((\theta \vee \psi)\).
 
-The symbol “\(\vee\)” corresponds to “either … or … or both”, so \((\theta \vee \psi)\) can be read “\(\theta\) or \(\psi\)”. The formula \((\theta \vee
-\psi)\) is called the “disjunction” of \(\theta\) and \(\psi\).
+The symbol &ldquo;\(\vee\)&rdquo; corresponds to &ldquo;either &hellip; or &hellip; or both&rdquo;, so \((\theta \vee \psi)\) can be read &ldquo;\(\theta\) or \(\psi\)&rdquo;. The formula \((\theta \vee
+\psi)\) is called the &ldquo;disjunction&rdquo; of \(\theta\) and \(\psi\).
 
 1. If \(\theta\) and \(\psi\) are formulas of \(\LKe\), then so is \((\theta \rightarrow \psi)\).
 
-The arrow “\(\rightarrow\)” roughly corresponds to “if … then … ”, so \((\theta \rightarrow
-\psi)\) can be read “if \(\theta\) then \(\psi\)” or “\(\theta\) only if \(\psi\)”.
+The arrow &ldquo;\(\rightarrow\)&rdquo; roughly corresponds to &ldquo;if &hellip; then &hellip; &rdquo;, so \((\theta \rightarrow
+\psi)\) can be read &ldquo;if \(\theta\) then \(\psi\)&rdquo; or &ldquo;\(\theta\) only if \(\psi\)&rdquo;.
 
-The symbols “\(\amp\)”, “\(\vee\)”, and “\(\rightarrow\)” are called “binary connectives”, since they serve to “connect” two formulas into one. Some authors introduce \((\theta \leftrightarrow
+The symbols &ldquo;\(\amp\)&rdquo;, &ldquo;\(\vee\)&rdquo;, and &ldquo;\(\rightarrow\)&rdquo; are called &ldquo;binary connectives&rdquo;, since they serve to &ldquo;connect&rdquo; two formulas into one. Some authors introduce \((\theta \leftrightarrow
 \psi)\) as an abbreviation of \(((\theta \rightarrow \psi) \amp(\psi
-\rightarrow \theta))\). The symbol “\(\leftrightarrow\)” is an analogue of the locution “if and only if”.
+\rightarrow \theta))\). The symbol &ldquo;\(\leftrightarrow\)&rdquo; is an analogue of the locution &ldquo;if and only if&rdquo;.
 
 1. If \(\theta\) is a formula of \(\LKe\) and \(v\) is a variable, then \(\forall v \theta\) is a formula of \(\LKe\).
 
-The symbol “\(\forall\)” is called a *universal quantifier*, and is an analogue of “for all”; so \(\forall v\theta\) can be read “for all \(v,
-\theta\)”.
+The symbol &ldquo;\(\forall\)&rdquo; is called a *universal quantifier*, and is an analogue of &ldquo;for all&rdquo;; so \(\forall v\theta\) can be read &ldquo;for all \(v,
+\theta\)&rdquo;.
 
 1. If \(\theta\) is a formula of \(\LKe\) and \(v\) is a variable, then \(\exists v \theta\) is a formula of \(\LKe\).
 
-The symbol “\(\exists\)” is called an *existential quantifier*, and is an analogue of “there exists” or “there is”; so \(\exists v \theta\) can be read “there is a \(v\) such that \(\theta\)”.
+The symbol &ldquo;\(\exists\)&rdquo; is called an *existential quantifier*, and is an analogue of &ldquo;there exists&rdquo; or &ldquo;there is&rdquo;; so \(\exists v \theta\) can be read &ldquo;there is a \(v\) such that \(\theta\)&rdquo;.
 
-1. That’s all folks. That is, all formulas are constructed in accordance with rules (1)–(7).
+1. That&rsquo;s all folks. That is, all formulas are constructed in accordance with rules (1)&ndash;(7).
 
-Clause (8) allows us to do inductions on the complexity of formulas. If a certain property holds of the atomic formulas and is closed under the operations presented in clauses (2)–(7), then the property holds of all formulas. Here is a simple example:
+Clause (8) allows us to do inductions on the complexity of formulas. If a certain property holds of the atomic formulas and is closed under the operations presented in clauses (2)&ndash;(7), then the property holds of all formulas. Here is a simple example:
 
 **Theorem 1**. Every formula of \(\LKe\) has the same number of left and right parentheses. Moreover, each left parenthesis corresponds to a unique right parenthesis, which occurs to the right of the left parenthesis. Similarly, each right parenthesis corresponds to a unique left parenthesis, which occurs to the left of the given right parenthesis. If a parenthesis occurs between a matched pair of parentheses, then its mate also occurs within that matched pair. In other words, parentheses that occur within a matched pair are themselves matched.
 
-**Proof**: By clause (8), every formula is built up from the atomic formulas using clauses (2)–(7). The atomic formulas have no parentheses. Parentheses are introduced only in clauses (3)–(5), and each time they are introduced as a matched set. So at any stage in the construction of a formula, the parentheses are paired off.
+**Proof**: By clause (8), every formula is built up from the atomic formulas using clauses (2)&ndash;(7). The atomic formulas have no parentheses. Parentheses are introduced only in clauses (3)&ndash;(5), and each time they are introduced as a matched set. So at any stage in the construction of a formula, the parentheses are paired off.
 
-We next define the notion of an occurrence of a variable being *free* or *bound* in a formula. A variable that immediately follows a quantifier (as in “\(\forall x\)” and “\(\exists y\)”) is neither free nor bound. We do not even think of those as occurrences of the variable. All variables that occur in an atomic formula are free. If a variable occurs free (or bound) in \(\theta\) or in \(\psi\), then that same occurrence is free (or bound) in \(\neg \theta, (\theta \amp \psi), (\theta \vee \psi)\), and \((\theta \rightarrow \psi)\). That is, the (unary and binary) connectives do not change the status of variables that occur in them. All occurrences of the variable \(v\) in \(\theta\) are bound in \(\forall v \theta\) and \(\exists v \theta\). Any *free* occurrences of \(v\) in \(\theta\) are bound by the initial quantifier. All other variables that occur in \(\theta\) are free or bound in \(\forall v \theta\) and \(\exists v \theta\), as they are in \(\theta\).
+We next define the notion of an occurrence of a variable being *free* or *bound* in a formula. A variable that immediately follows a quantifier (as in &ldquo;\(\forall x\)&rdquo; and &ldquo;\(\exists y\)&rdquo;) is neither free nor bound. We do not even think of those as occurrences of the variable. All variables that occur in an atomic formula are free. If a variable occurs free (or bound) in \(\theta\) or in \(\psi\), then that same occurrence is free (or bound) in \(\neg \theta, (\theta \amp \psi), (\theta \vee \psi)\), and \((\theta \rightarrow \psi)\). That is, the (unary and binary) connectives do not change the status of variables that occur in them. All occurrences of the variable \(v\) in \(\theta\) are bound in \(\forall v \theta\) and \(\exists v \theta\). Any *free* occurrences of \(v\) in \(\theta\) are bound by the initial quantifier. All other variables that occur in \(\theta\) are free or bound in \(\forall v \theta\) and \(\exists v \theta\), as they are in \(\theta\).
 
 For example, in the formula \((\forall\)x(*Axy* \(\vee Bx) \amp
-Bx)\), the occurrences of “\(x\)” in *Axy* and in the first \(Bx\) are bound by the quantifier. The occurrence of “\(y\)” and last occurrence of “\(x\)” are free. In \(\forall x(Ax \rightarrow \exists\)*xBx*), the “\(x\)” in \(Ax\) is bound by the initial universal quantifier, while the other occurrence of \(x\) is bound by the existential quantifier. The above syntax allows this “double-binding”. Although it does not create any ambiguities (see below), we will avoid such formulas, as a matter of taste and clarity.
+Bx)\), the occurrences of &ldquo;\(x\)&rdquo; in *Axy* and in the first \(Bx\) are bound by the quantifier. The occurrence of &ldquo;\(y\)&rdquo; and last occurrence of &ldquo;\(x\)&rdquo; are free. In \(\forall x(Ax \rightarrow \exists\)*xBx*), the &ldquo;\(x\)&rdquo; in \(Ax\) is bound by the initial universal quantifier, while the other occurrence of \(x\) is bound by the existential quantifier. The above syntax allows this &ldquo;double-binding&rdquo;. Although it does not create any ambiguities (see below), we will avoid such formulas, as a matter of taste and clarity.
 
 The syntax also allows so-called vacuous binding, as in \(\forall\)x\(Bc\). These, too, will be avoided in what follows. Some treatments of logic rule out vacuous binding and double binding as a matter of syntax. That simplifies some of the treatments below, and complicates others.
 
@@ -119,47 +127,47 @@ Before turning to the deductive system and semantics, we mention a few features 
 
 We assume at the outset that all of the categories are disjoint. For example, no connective is also a quantifier or a variable, and the non-logical terms are not also parentheses or connectives. Also, the items within each category are distinct. For example, the sign for disjunction does not do double-duty as the negation symbol, and perhaps more significantly, no two-place predicate is also a one-place predicate.
 
-One difference between natural languages like English and formal languages like \(\LKe\) is that the latter are not supposed to have any ambiguities. The policy that the different categories of symbols do not overlap, and that no symbol does double-duty, avoids the kind of ambiguity, sometimes called “equivocation”, that occurs when a single word has two meanings: “I’ll meet you at the bank.” But there are other kinds of ambiguity. Consider the English sentence:
+One difference between natural languages like English and formal languages like \(\LKe\) is that the latter are not supposed to have any ambiguities. The policy that the different categories of symbols do not overlap, and that no symbol does double-duty, avoids the kind of ambiguity, sometimes called &ldquo;equivocation&rdquo;, that occurs when a single word has two meanings: &ldquo;I&rsquo;ll meet you at the bank.&rdquo; But there are other kinds of ambiguity. Consider the English sentence:
 
 John is married, and Mary is single, or Joe is crazy.
 
-It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an “amphiboly”. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a “formula” \(A \amp B \vee\)* C*. Is this supposed to be \(((A \amp B) \vee C)\), or is it \((A \amp(B \vee
+It can mean that John is married and either Mary is single or Joe is crazy, or else it can mean that either both John is married and Mary is single, or else Joe is crazy. An ambiguity like this, due to different ways to parse the same sentence, is sometimes called an &ldquo;amphiboly&rdquo;. If our formal language did not have the parentheses in it, it would have amphibolies. For example, there would be a &ldquo;formula&rdquo; \(A \amp B \vee\)* C*. Is this supposed to be \(((A \amp B) \vee C)\), or is it \((A \amp(B \vee
 C))\)? The parentheses resolve what would be an amphiboly.
 
 Can we be sure that there are no other amphibolies in our language? That is, can we be sure that each formula of \(\LKe\) can be put together in only one way? Our next task is to answer this question.
 
-Let us temporarily use the term “unary marker” for the negation symbol \((\neg)\) or a quantifier followed by a variable (e.g., \(\forall x, \exists z)\).
+Let us temporarily use the term &ldquo;unary marker&rdquo; for the negation symbol \((\neg)\) or a quantifier followed by a variable (e.g., \(\forall x, \exists z)\).
 
-**Lemma 2**. Each formula consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)–(5).
+**Lemma 2**. Each formula consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)&ndash;(5).
 
-**Proof**: We proceed by induction on the complexity of the formula or, in other words, on the number of formation rules that are applied. The Lemma clearly holds for atomic formulas. Let \(n\) be a natural number, and suppose that the Lemma holds for any formula constructed from \(n\) or fewer instances of clauses (2)–(7). Let \(\theta\) be a formula constructed from \(n+1\) instances. The Lemma holds if the last clause used to construct \(\theta\) was either (3), (4), or (5). If the last clause used to construct \(\theta\) was (2), then \(\theta\) is \(\neg \psi\). Since \(\psi\) was constructed with \(n\) instances of the rule, the Lemma holds for \(\psi\) (by the induction hypothesis), and so it holds for \(\theta\). Similar reasoning shows the Lemma to hold for \(\theta\) if the last clause was (6) or (7). By clause (8), this exhausts the cases, and so the Lemma holds for \(\theta\), by induction.
+**Proof**: We proceed by induction on the complexity of the formula or, in other words, on the number of formation rules that are applied. The Lemma clearly holds for atomic formulas. Let \(n\) be a natural number, and suppose that the Lemma holds for any formula constructed from \(n\) or fewer instances of clauses (2)&ndash;(7). Let \(\theta\) be a formula constructed from \(n+1\) instances. The Lemma holds if the last clause used to construct \(\theta\) was either (3), (4), or (5). If the last clause used to construct \(\theta\) was (2), then \(\theta\) is \(\neg \psi\). Since \(\psi\) was constructed with \(n\) instances of the rule, the Lemma holds for \(\psi\) (by the induction hypothesis), and so it holds for \(\theta\). Similar reasoning shows the Lemma to hold for \(\theta\) if the last clause was (6) or (7). By clause (8), this exhausts the cases, and so the Lemma holds for \(\theta\), by induction.
 
 **Lemma 3**. If a formula \(\theta\) contains a left parenthesis, then it ends with a right parenthesis, which matches the leftmost left parenthesis in \(\theta\).
 
-**Proof**: Here we also proceed by induction on the number of instances of (2)–(7) used to construct the formula. Clearly, the Lemma holds for atomic formulas, since they have no parentheses. Suppose, then, that the Lemma holds for formulas constructed with \(n\) or fewer instances of (2)–(7), and let \(\theta\) be constructed with \(n+1\) instances. If the last clause applied was (3)–(5), then the Lemma holds since \(\theta\) itself begins with a left parenthesis and ends with the matching right parenthesis. If the last clause applied was (2), then \(\theta\) is \(\neg \psi\), and the induction hypothesis applies to \(\psi\). Similarly, if the last clause applied was (6) or (7), then \(\theta\) consists of a quantifier, a variable, and a formula to which we can apply the induction hypothesis. It follows that the Lemma holds for \(\theta\).
+**Proof**: Here we also proceed by induction on the number of instances of (2)&ndash;(7) used to construct the formula. Clearly, the Lemma holds for atomic formulas, since they have no parentheses. Suppose, then, that the Lemma holds for formulas constructed with \(n\) or fewer instances of (2)&ndash;(7), and let \(\theta\) be constructed with \(n+1\) instances. If the last clause applied was (3)&ndash;(5), then the Lemma holds since \(\theta\) itself begins with a left parenthesis and ends with the matching right parenthesis. If the last clause applied was (2), then \(\theta\) is \(\neg \psi\), and the induction hypothesis applies to \(\psi\). Similarly, if the last clause applied was (6) or (7), then \(\theta\) consists of a quantifier, a variable, and a formula to which we can apply the induction hypothesis. It follows that the Lemma holds for \(\theta\).
 
 **Lemma 4**. Each formula contains at least one atomic formula.
 
-The proof proceeds by induction on the number of instances of (2)–(7) used to construct the formula, and we leave it as an exercise.
+The proof proceeds by induction on the number of instances of (2)&ndash;(7) used to construct the formula, and we leave it as an exercise.
 
 **Theorem 5**. Let \(\alpha, \beta\) be nonempty sequences of characters on our alphabet, such that \(\alpha \beta\) (i.e \(\alpha\) followed by \(\beta)\) is a formula. Then \(\alpha\) is *not* a formula.
 
 **Proof**: By Theorem 1 and Lemma 3, if \(\alpha\) contains a left parenthesis, then the right parenthesis that matches the leftmost left parenthesis in \(\alpha \beta\) comes at the end of \(\alpha \beta\), and so the matching right parenthesis is in \(\beta\). So, \(\alpha\) has more left parentheses than right parentheses. By Theorem \(1, \alpha\) is not a formula. So now suppose that \(\alpha\) does not contain any left parentheses. By Lemma \(2,
-\alpha \beta\) consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)–(5). If the latter formula was produced via one of clauses (3)–(5), then it begins with a left parenthesis. Since \(\alpha\) does not contain any parentheses, it must be a string of unary markers. But then \(\alpha\) does not contain any atomic formulas, and so by Lemma \(4, \alpha\) is not a formula. The only case left is where \(\alpha \beta\) consists of a string of unary markers followed by an atomic formula, either in the form \(t_1 =t_2\) or \(Pt_1 \ldots t_n\). Again, if \(\alpha\) just consisted of unary markers, it would not be a formula, and so \(\alpha\) must consist of the unary markers that start \(\alpha
+\alpha \beta\) consists of a string of zero or more unary markers followed by either an atomic formula or a formula produced using a binary connective, via one of clauses (3)&ndash;(5). If the latter formula was produced via one of clauses (3)&ndash;(5), then it begins with a left parenthesis. Since \(\alpha\) does not contain any parentheses, it must be a string of unary markers. But then \(\alpha\) does not contain any atomic formulas, and so by Lemma \(4, \alpha\) is not a formula. The only case left is where \(\alpha \beta\) consists of a string of unary markers followed by an atomic formula, either in the form \(t_1 =t_2\) or \(Pt_1 \ldots t_n\). Again, if \(\alpha\) just consisted of unary markers, it would not be a formula, and so \(\alpha\) must consist of the unary markers that start \(\alpha
 \beta\), followed by either \(t_1\) by itself, \(t_1 =\) by itself, or the predicate letter \(P\), and perhaps some (but not all) of the terms \(t_1, \ldots,t_n\). In the first two cases, \(\alpha\) does not contain an atomic formula, by the policy that the categories do not overlap. Since \(P\) is an \(n\)-place predicate letter, by the policy that the predicate letters are distinct, \(P\) is not an \(m\)-place predicate letter for any \(m \ne n\). So the part of \(\alpha\) that consists of \(P\) followed by the terms is not an atomic formula. In all of these cases, then, \(\alpha\) does not contain an atomic formula. By Lemma \(4, \alpha\) is not a formula.
 
 We are finally in position to show that there is no amphiboly in our language.
 
-**Theorem 6**. Let \(\theta\) be any formula of \(\LKe\). If \(\theta\) is not atomic, then there is one and only one among (2)–(7) that was the last clause applied to construct \(\theta\). That is, \(\theta\) could not be produced by two different clauses. Moreover, no formula produced by clauses (2)–(7) is atomic.
+**Theorem 6**. Let \(\theta\) be any formula of \(\LKe\). If \(\theta\) is not atomic, then there is one and only one among (2)&ndash;(7) that was the last clause applied to construct \(\theta\). That is, \(\theta\) could not be produced by two different clauses. Moreover, no formula produced by clauses (2)&ndash;(7) is atomic.
 
-**Proof**: By Clause (8), either \(\theta\) is atomic or it was produced by one of clauses (2)–(7). Thus, the first symbol in \(\theta\) must be either a predicate letter, a term, a unary marker, or a left parenthesis. If the first symbol in \(\theta\) is a predicate letter or term, then \(\theta\) is atomic. In this case, \(\theta\) was not produced by any of (2)–(7), since all such formulas begin with something other than a predicate letter or term. If the first symbol in \(\theta\) is a negation sign “\(\neg\)”, then was \(\theta\) produced by clause (2), and not by any other clause (since the other clauses produce formulas that begin with either a quantifier or a left parenthesis). Similarly, if \(\theta\) begins with a universal quantifier, then it was produced by clause (6), and not by any other clause, and if \(\theta\) begins with an existential quantifier, then it was produced by clause (7), and not by any other clause. The only case left is where \(\theta\) begins with a left parenthesis. In this case, it must have been produced by one of (3)–(5), and not by any other clause. We only need to rule out the possibility that \(\theta\) was produced by more than one of (3)–(5). To take an example, suppose that \(\theta\) was produced by (3) and (4). Then \(\theta\) is \((\psi_1 \amp
-\psi_2)\) and \(\theta\) is also \((\psi_3 \vee \psi_4)\), where \(\psi_1, \psi_2, \psi_3\), and \(\psi_4\) are themselves formulas. That is, \((\psi_1 \amp \psi_2)\) is the very same formula as \((\psi_3 \vee \psi_4)\). By Theorem \(5, \psi_1\) cannot be a proper part of \(\psi_3\), nor can \(\psi_3\) be a proper part of \(\psi_1\). So \(\psi_1\) must be the same formula as \(\psi_3\). But then “\(\amp\)” must be the same symbol as “\(\vee\)”, and this contradicts the policy that all of the symbols are different. So \(\theta\) was not produced by both Clause (3) and Clause (4). Similar reasoning takes care of the other combinations.
+**Proof**: By Clause (8), either \(\theta\) is atomic or it was produced by one of clauses (2)&ndash;(7). Thus, the first symbol in \(\theta\) must be either a predicate letter, a term, a unary marker, or a left parenthesis. If the first symbol in \(\theta\) is a predicate letter or term, then \(\theta\) is atomic. In this case, \(\theta\) was not produced by any of (2)&ndash;(7), since all such formulas begin with something other than a predicate letter or term. If the first symbol in \(\theta\) is a negation sign &ldquo;\(\neg\)&rdquo;, then was \(\theta\) produced by clause (2), and not by any other clause (since the other clauses produce formulas that begin with either a quantifier or a left parenthesis). Similarly, if \(\theta\) begins with a universal quantifier, then it was produced by clause (6), and not by any other clause, and if \(\theta\) begins with an existential quantifier, then it was produced by clause (7), and not by any other clause. The only case left is where \(\theta\) begins with a left parenthesis. In this case, it must have been produced by one of (3)&ndash;(5), and not by any other clause. We only need to rule out the possibility that \(\theta\) was produced by more than one of (3)&ndash;(5). To take an example, suppose that \(\theta\) was produced by (3) and (4). Then \(\theta\) is \((\psi_1 \amp
+\psi_2)\) and \(\theta\) is also \((\psi_3 \vee \psi_4)\), where \(\psi_1, \psi_2, \psi_3\), and \(\psi_4\) are themselves formulas. That is, \((\psi_1 \amp \psi_2)\) is the very same formula as \((\psi_3 \vee \psi_4)\). By Theorem \(5, \psi_1\) cannot be a proper part of \(\psi_3\), nor can \(\psi_3\) be a proper part of \(\psi_1\). So \(\psi_1\) must be the same formula as \(\psi_3\). But then &ldquo;\(\amp\)&rdquo; must be the same symbol as &ldquo;\(\vee\)&rdquo;, and this contradicts the policy that all of the symbols are different. So \(\theta\) was not produced by both Clause (3) and Clause (4). Similar reasoning takes care of the other combinations.
 
-This result is sometimes called “unique readability”. It shows that each formula is produced from the atomic formulas via the various clauses in exactly one way. If \(\theta\) was produced by clause (2), then its *main connective* is the initial “\(\neg\)”. If \(\theta\) was produced by clauses (3), (4), or (5), then its *main connective* is the introduced “\(\amp\)”, “\(\vee\)”, or “\(\rightarrow\)”, respectively. If \(\theta\) was produced by clauses (6) or (7), then its *main connective* is the initial quantifier. We apologize for the tedious details. We included them to indicate the level of precision and rigor for the syntax.
+This result is sometimes called &ldquo;unique readability&rdquo;. It shows that each formula is produced from the atomic formulas via the various clauses in exactly one way. If \(\theta\) was produced by clause (2), then its *main connective* is the initial &ldquo;\(\neg\)&rdquo;. If \(\theta\) was produced by clauses (3), (4), or (5), then its *main connective* is the introduced &ldquo;\(\amp\)&rdquo;, &ldquo;\(\vee\)&rdquo;, or &ldquo;\(\rightarrow\)&rdquo;, respectively. If \(\theta\) was produced by clauses (6) or (7), then its *main connective* is the initial quantifier. We apologize for the tedious details. We included them to indicate the level of precision and rigor for the syntax.
 
 ## 3. Deduction
 
-We now introduce a *deductive system*, \(D\), for our languages. As above, we define an *argument* to be a non-empty collection of sentences in the formal language, one of which is designated to be the *conclusion*. If there are any other sentences in the argument, they are its *premises*.<sup>[<a href="notes.html#note-1" id="ref-1">1</a>]</sup> By convention, we use “\(\Gamma\)”, “\(\Gamma'\)”, “\(\Gamma_1\)”, etc, to range over sets of sentences, and we use the letters “\(\phi\)”, “\(\psi\)”, “\(\theta\)”, uppercase or lowercase, with or without subscripts, to range over single sentences. We write “\(\Gamma, \Gamma'\)” for the union of \(\Gamma\) and \(\Gamma'\), and “\(\Gamma, \phi\)” for the union of \(\Gamma\) with \(\{\phi\}\).
+We now introduce a *deductive system*, \(D\), for our languages. As above, we define an *argument* to be a non-empty collection of sentences in the formal language, one of which is designated to be the *conclusion*. If there are any other sentences in the argument, they are its *premises*.^{[[^note-note-1]]} By convention, we use &ldquo;\(\Gamma\)&rdquo;, &ldquo;\(\Gamma'\)&rdquo;, &ldquo;\(\Gamma_1\)&rdquo;, etc, to range over sets of sentences, and we use the letters &ldquo;\(\phi\)&rdquo;, &ldquo;\(\psi\)&rdquo;, &ldquo;\(\theta\)&rdquo;, uppercase or lowercase, with or without subscripts, to range over single sentences. We write &ldquo;\(\Gamma, \Gamma'\)&rdquo; for the union of \(\Gamma\) and \(\Gamma'\), and &ldquo;\(\Gamma, \phi\)&rdquo; for the union of \(\Gamma\) with \(\{\phi\}\).
 
 We write an argument in the form \(\langle \Gamma, \phi \rangle\), where \(\Gamma\) is a set of sentences, the premises, and \(\phi\) is a single sentence, the conclusion. Remember that \(\Gamma\) may be empty. We write \(\Gamma \vdash \phi\) to indicate that \(\phi\) is deducible from \(\Gamma\), or, in other words, that the argument \(\langle \Gamma, \phi \rangle\) is deducible in \(D\). We may write \(\Gamma \vdash_D \phi\) to emphasize the deductive system \(D\). We write \(\vdash \phi\) or \(\vdash_D \phi\) to indicate that \(\phi\) can be deduced (in \(D)\) from the empty set of premises.
 
@@ -170,9 +178,9 @@ The rules in \(D\) are chosen to match logical relations concerning the English 
 If \(\phi\) is a member of \(\Gamma\), then \(\Gamma \vdash
 \phi\).
 
-We thus have that \(\{\phi \}\vdash \phi\); each premise follows from itself. We next present two clauses for each connective and quantifier. The clauses indicate how to “introduce” and “eliminate” sentences in which each symbol is the main connective.
+We thus have that \(\{\phi \}\vdash \phi\); each premise follows from itself. We next present two clauses for each connective and quantifier. The clauses indicate how to &ldquo;introduce&rdquo; and &ldquo;eliminate&rdquo; sentences in which each symbol is the main connective.
 
-First, recall that “\(\amp\)” is an analogue of the English connective “and”. Intuitively, one can deduce a sentence in the form \((\theta \amp \psi)\) if one has deduced \(\theta\) and one has deduced \(\psi\). Conversely, one can deduce \(\theta\) from \((\theta \amp \psi)\) and one can deduce \(\psi\) from \((\theta \amp \psi)\):
+First, recall that &ldquo;\(\amp\)&rdquo; is an analogue of the English connective &ldquo;and&rdquo;. Intuitively, one can deduce a sentence in the form \((\theta \amp \psi)\) if one has deduced \(\theta\) and one has deduced \(\psi\). Conversely, one can deduce \(\theta\) from \((\theta \amp \psi)\) and one can deduce \(\psi\) from \((\theta \amp \psi)\):
 
 **\((\amp \mathrm{I})\)**
 
@@ -184,9 +192,9 @@ If \(\Gamma \vdash(\theta \amp \psi)\) then \(\Gamma \vdash
 \theta\); and if \(\Gamma \vdash(\theta \amp \psi)\) then \(\Gamma
 \vdash \psi\).
 
-The name “&I” stands for “&-introduction”; “&E” stands for “&-elimination”.
+The name &ldquo;&amp;I&rdquo; stands for &ldquo;&amp;-introduction&rdquo;; &ldquo;&amp;E&rdquo; stands for &ldquo;&amp;-elimination&rdquo;.
 
-Since, the symbol “\(\vee\)” corresponds to the English “or”, \((\theta \vee \psi)\) should be deducible from \(\theta\), and \((\theta \vee \psi)\) should also be deducible from \(\psi\):
+Since, the symbol &ldquo;\(\vee\)&rdquo; corresponds to the English &ldquo;or&rdquo;, \((\theta \vee \psi)\) should be deducible from \(\theta\), and \((\theta \vee \psi)\) should also be deducible from \(\psi\):
 
 **\((\vee \mathrm{I})\)**
 
@@ -194,7 +202,7 @@ If \(\Gamma \vdash \theta\) then \(\Gamma \vdash(\theta \vee
 \psi)\); if \(\Gamma \vdash \psi\) then \(\Gamma \vdash(\theta \vee
 \psi)\).
 
-The elimination rule is a bit more complicated. Suppose that “\(\theta\) or \(\psi\)” is true. Suppose also that \(\phi\) follows from \(\theta\) and that \(\phi\) follows from \(\psi\). One can reason that if \(\theta\) is true, then \(\phi\) is true. If instead \(\psi\) is true, we still have that \(\phi\) is true. So either way, \(\phi\) must be true.
+The elimination rule is a bit more complicated. Suppose that &ldquo;\(\theta\) or \(\psi\)&rdquo; is true. Suppose also that \(\phi\) follows from \(\theta\) and that \(\phi\) follows from \(\psi\). One can reason that if \(\theta\) is true, then \(\phi\) is true. If instead \(\psi\) is true, we still have that \(\phi\) is true. So either way, \(\phi\) must be true.
 
 **\((\vee \mathrm{E})\)**
 
@@ -202,7 +210,7 @@ If \(\Gamma_1 \vdash(\theta \vee \psi), \Gamma_2, \theta \vdash
 \phi\) and \(\Gamma_3, \psi \vdash \phi\), then \(\Gamma_1, \Gamma_2,
 \Gamma_3 \vdash \phi\).
 
-For the next clauses, recall that the symbol, “\(\rightarrow\)”, is an analogue of the English “if … then … ” construction. If one knows, or assumes \((\theta \rightarrow \psi)\) and also knows, or assumes \(\theta\), then one can conclude \(\psi\). Conversely, if one deduces \(\psi\) from an assumption \(\theta\), then one can conclude that \((\theta
+For the next clauses, recall that the symbol, &ldquo;\(\rightarrow\)&rdquo;, is an analogue of the English &ldquo;if &hellip; then &hellip; &rdquo; construction. If one knows, or assumes \((\theta \rightarrow \psi)\) and also knows, or assumes \(\theta\), then one can conclude \(\psi\). Conversely, if one deduces \(\psi\) from an assumption \(\theta\), then one can conclude that \((\theta
 \rightarrow \psi)\).
 
 **\(({\rightarrow}\mathrm{I})\)**
@@ -215,23 +223,23 @@ If \(\Gamma, \theta \vdash \psi\), then \(\Gamma \vdash(\theta
 If \(\Gamma_1 \vdash(\theta \rightarrow \psi)\) and \(\Gamma_2
 \vdash \theta\), then \(\Gamma_1, \Gamma_2 \vdash \psi\).
 
-This elimination rule is sometimes called “modus ponens”. In some logic texts, the introduction rule is proved as a “deduction theorem”.
+This elimination rule is sometimes called &ldquo;modus ponens&rdquo;. In some logic texts, the introduction rule is proved as a &ldquo;deduction theorem&rdquo;.
 
-Our next clauses are for the negation sign, “\(\neg\)”. The underlying idea is that a sentence \(\psi\) is inconsistent with its negation \(\neg \psi\). They cannot both be true. We call a pair of sentences \(\psi, \neg \psi\) *contradictory opposites*. If one can deduce such a pair from an assumption \(\theta\), then one can conclude that \(\theta\) is false, or, in other words, one can conclude \(\neg \theta\).
+Our next clauses are for the negation sign, &ldquo;\(\neg\)&rdquo;. The underlying idea is that a sentence \(\psi\) is inconsistent with its negation \(\neg \psi\). They cannot both be true. We call a pair of sentences \(\psi, \neg \psi\) *contradictory opposites*. If one can deduce such a pair from an assumption \(\theta\), then one can conclude that \(\theta\) is false, or, in other words, one can conclude \(\neg \theta\).
 
 **\((\neg \mathrm{I})\)**
 
 If \(\Gamma_1, \theta \vdash \psi\) and \(\Gamma_2, \theta \vdash
 \neg \psi\), then \(\Gamma_1, \Gamma_2 \vdash \neg \theta\).
 
-By (As), we have that \(\{A,\neg A\}\vdash A\) and \(\{\)*A,\(\neg\)A*\(\}\vdash \neg A\). So by \(\neg\)I we have that \(\{A\}\vdash \neg \neg A\). However, we do not have the converse yet. Intuitively, \(\neg \neg \theta\) corresponds to “it is not the case that it is not the case that” . One might think that this last is equivalent to \(\theta\), and we have a rule to that effect:
+By (As), we have that \(\{A,\neg A\}\vdash A\) and \(\{\)*A,\(\neg\)A*\(\}\vdash \neg A\). So by \(\neg\)I we have that \(\{A\}\vdash \neg \neg A\). However, we do not have the converse yet. Intuitively, \(\neg \neg \theta\) corresponds to &ldquo;it is not the case that it is not the case that&rdquo; . One might think that this last is equivalent to \(\theta\), and we have a rule to that effect:
 
 **(DNE)**
 
 If \(\Gamma \vdash \neg \neg \theta\), then \(\Gamma \vdash
 \theta\).
 
-The name DNE stands for “double-negation elimination”. There is some controversy over this inference. It is rejected by philosophers and mathematicians who do not hold that each meaningful sentence is either true or not true. *Intuitionistic logic* does not sanction the inference in question (see, for example Dummett [2000], or the entry on intuitionistic logic, or history of intuitionistic logic), but, again, classical logic does.
+The name DNE stands for &ldquo;double-negation elimination&rdquo;. There is some controversy over this inference. It is rejected by philosophers and mathematicians who do not hold that each meaningful sentence is either true or not true. *Intuitionistic logic* does not sanction the inference in question (see, for example Dummett [2000], or the entry on intuitionistic logic, or history of intuitionistic logic), but, again, classical logic does.
 
 To illustrate the parts of the deductive system \(D\) presented thus far, we show that \(\vdash(A \vee \neg A)\):
 
@@ -256,17 +264,17 @@ Let \(\theta, \neg \theta\) be a pair of contradictory opposites, and let \(\psi
 
 If \(\Gamma_1 \vdash \theta\) and \(\Gamma_2 \vdash \neg \theta\), then for any sentence \(\psi, \Gamma_1, \Gamma_2 \vdash \psi\)
 
-The inference is sometimes called *ex falso quodlibet* or, more colorfully, *explosion*. Some call it “\(\neg\)-elimination”, but perhaps this stretches the notion of “elimination” a bit. We do not officially include *ex falso quodlibet* as a separate rule in \(D\), but as will be shown below (Theorem 10), each instance of it is derivable in our system \(D\).
+The inference is sometimes called *ex falso quodlibet* or, more colorfully, *explosion*. Some call it &ldquo;\(\neg\)-elimination&rdquo;, but perhaps this stretches the notion of &ldquo;elimination&rdquo; a bit. We do not officially include *ex falso quodlibet* as a separate rule in \(D\), but as will be shown below (Theorem 10), each instance of it is derivable in our system \(D\).
 
-Some logicians object to *ex falso quodlibet*, on the ground that the sentence \(\psi\) may be *irrelevant* to any of the premises in \(\Gamma\). Suppose, for example, that one starts with some premises \(\Gamma\) about human nature and facts about certain people, and then deduces both the sentence “A hot dog is a sandwich” and “A hot dog is not a sandwich”. One can perhaps conclude that there is something wrong with the premises \(\Gamma\). But should we be allowed to then deduce *anything at all* from \(\Gamma\)? Should we be allowed to deduce “The economy is sound”?
+Some logicians object to *ex falso quodlibet*, on the ground that the sentence \(\psi\) may be *irrelevant* to any of the premises in \(\Gamma\). Suppose, for example, that one starts with some premises \(\Gamma\) about human nature and facts about certain people, and then deduces both the sentence &ldquo;A hot dog is a sandwich&rdquo; and &ldquo;A hot dog is not a sandwich&rdquo;. One can perhaps conclude that there is something wrong with the premises \(\Gamma\). But should we be allowed to then deduce *anything at all* from \(\Gamma\)? Should we be allowed to deduce &ldquo;The economy is sound&rdquo;?
 
 A small minority of logicians, called *dialetheists*, hold that some contradictions are actually true. For them, *ex falso quodlibet* is not truth-preserving (see section 6).
 
-Deductive systems that demur from *ex falso quodlibet* are called *paraconsistent*. Most relevant logics are paraconsistent. See the entries on relevance logic, paraconsistent logic, and dialetheism. Or see Anderson and Belnap [1975], Anderson, Belnap, and Dunn [1992], and Tennant [1997] for fuller overviews of relevant logic; and Priest [2006a,b], for dialetheism. Deep philosophical issues concerning the nature of logical consequence are involved. Far be it for an article in a philosophy encyclopedia to avoid philosophical issues, but space considerations preclude a fuller treatment of this issue here. Suffice it to note that the inference *ex falso quodlibet* is sanctioned in systems of *classical logic*, the subject of this article. It is essential to establishing the balance between the deductive system and the semantics (see §5 below).
+Deductive systems that demur from *ex falso quodlibet* are called *paraconsistent*. Most relevant logics are paraconsistent. See the entries on relevance logic, paraconsistent logic, and dialetheism. Or see Anderson and Belnap [1975], Anderson, Belnap, and Dunn [1992], and Tennant [1997] for fuller overviews of relevant logic; and Priest [2006a,b], for dialetheism. Deep philosophical issues concerning the nature of logical consequence are involved. Far be it for an article in a philosophy encyclopedia to avoid philosophical issues, but space considerations preclude a fuller treatment of this issue here. Suffice it to note that the inference *ex falso quodlibet* is sanctioned in systems of *classical logic*, the subject of this article. It is essential to establishing the balance between the deductive system and the semantics (see &sect;5 below).
 
 The next pieces of \(D\) are the clauses for the quantifiers. Let \(\theta\) be a formula, \(v\) a variable, and \(t\) a term (i.e., a variable or a constant). Then define \(\theta(v|t)\) to be the result of substituting \(t\) for each *free* occurrence of \(v\) in \(\theta\). So, if \(\theta\) is \((Qx \amp \exists\)*xPxy*), then \(\theta(x|c)\) is \((Qc \amp \exists\)*xPxy*). The last occurrence of \(x\) is not free.
 
-A sentence in the form \(\forall v \theta\) is an analogue of the English “for every \(v, \theta\) holds”. So one should be able to infer \(\theta(v|t)\) from \(\forall v \theta\) for any closed term \(t\). Recall that the only closed terms in our system are constants.
+A sentence in the form \(\forall v \theta\) is an analogue of the English &ldquo;for every \(v, \theta\) holds&rdquo;. So one should be able to infer \(\theta(v|t)\) from \(\forall v \theta\) for any closed term \(t\). Recall that the only closed terms in our system are constants.
 
 **\((\forall \mathrm{E})\)**
 
@@ -281,9 +289,9 @@ The introduction clause for the universal quantifier is a bit more complicated. 
 
 For any closed term \(t\), if \(\Gamma\vdash\theta (v|t)\), then \(\Gamma\vdash\forall v\theta\) provided that \(t\) is not in \(\Gamma\) or \(\theta\).
 
-This rule \((\forall \mathbf{I})\) corresponds to a common inference in mathematics. Suppose that a mathematician says “let \(n\) be a natural number” and goes on to show that \(n\) has a certain property \(P\), without assuming anything about \(n\) (except that it is a natural number). She then reminds the reader that \(n\) is “arbitrary”, and concludes that \(P\) holds for *all* natural numbers. The condition that the term \(t\) not occur in any premise is what guarantees that it is indeed “arbitrary”. It could be any object, and so anything we conclude about it holds for all objects.
+This rule \((\forall \mathbf{I})\) corresponds to a common inference in mathematics. Suppose that a mathematician says &ldquo;let \(n\) be a natural number&rdquo; and goes on to show that \(n\) has a certain property \(P\), without assuming anything about \(n\) (except that it is a natural number). She then reminds the reader that \(n\) is &ldquo;arbitrary&rdquo;, and concludes that \(P\) holds for *all* natural numbers. The condition that the term \(t\) not occur in any premise is what guarantees that it is indeed &ldquo;arbitrary&rdquo;. It could be any object, and so anything we conclude about it holds for all objects.
 
-The existential quantifier is an analogue of the English expression “there exists”, or perhaps just “there is”. If we have established (or assumed) that a given object \(t\) has a given property, then it follows that there is something that has that property.
+The existential quantifier is an analogue of the English expression &ldquo;there exists&rdquo;, or perhaps just &ldquo;there is&rdquo;. If we have established (or assumed) that a given object \(t\) has a given property, then it follows that there is something that has that property.
 
 **\((\exists \mathrm{I})\)**
 
@@ -296,15 +304,15 @@ The elimination rule for \(\exists\) is not quite as simple:
 For any closed term \(t\), if \(\Gamma_1\vdash\exists v\theta\) and \(\Gamma_2, \theta(v|t)\vdash\phi\), then \(\Gamma_1
 ,\Gamma_2\vdash\phi\), provided that \(t\) does not occur in \(\phi\), \(\Gamma_2\) or \(\theta\).
 
-This elimination rule also corresponds to a common inference. Suppose that a mathematician assumes or somehow concludes that there is a natural number with a given property \(P\). She then says “let \(n\) be such a natural number, so that \(Pn\)”, and goes on to establish a sentence \(\phi\), which does not mention the number \(n\). If the derivation of \(\phi\) does not invoke anything about \(n\) (other than the assumption that it has the given property \(P)\), then \(n\) could have been any number that has the property \(P\). That is, \(n\) is an *arbitrary* number with property \(P\). It does not matter which number \(n\) is. Since \(\phi\) does not mention \(n\), it follows from the assertion that something has property \(P\). The provisions added to \((\exists\)E) are to guarantee that \(t\) is “arbitrary”.
+This elimination rule also corresponds to a common inference. Suppose that a mathematician assumes or somehow concludes that there is a natural number with a given property \(P\). She then says &ldquo;let \(n\) be such a natural number, so that \(Pn\)&rdquo;, and goes on to establish a sentence \(\phi\), which does not mention the number \(n\). If the derivation of \(\phi\) does not invoke anything about \(n\) (other than the assumption that it has the given property \(P)\), then \(n\) could have been any number that has the property \(P\). That is, \(n\) is an *arbitrary* number with property \(P\). It does not matter which number \(n\) is. Since \(\phi\) does not mention \(n\), it follows from the assertion that something has property \(P\). The provisions added to \((\exists\)E) are to guarantee that \(t\) is &ldquo;arbitrary&rdquo;.
 
-The final items are the rules for the identity sign “=”. The introduction rule is about a simple as can be:
+The final items are the rules for the identity sign &ldquo;=&rdquo;. The introduction rule is about a simple as can be:
 
 **\(({=}\mathrm{I})\)**
 
 \(\Gamma \vdash t=t\), where \(t\) is any closed term.
 
-This “inference” corresponds to the truism that everything is identical to itself. The elimination rule corresponds to a principle that if \(a\) is identical to \(b\), then anything true of \(a\) is also true of \(b\).
+This &ldquo;inference&rdquo; corresponds to the truism that everything is identical to itself. The elimination rule corresponds to a principle that if \(a\) is identical to \(b\), then anything true of \(a\) is also true of \(b\).
 
 **\(({=}\mathrm{E})\)**
 
@@ -312,13 +320,13 @@ For any closed terms \(t_1\) and \(t_2\), if \(\Gamma_1 \vdash t_1
 =t_2\) and \(\Gamma_2 \vdash \theta\), then \(\Gamma_1, \Gamma_2
 \vdash \theta'\), where \(\theta'\) is obtained from \(\theta\) by replacing one or more occurances of \(t_1\) with \(t_2\).
 
-The rule \(({=}\mathrm{E})\) indicates a certain restriction in the expressive resources of our language. Suppose, for example, that Harry is identical to Donald (since his mischievous parents gave him two names). According to most people’s intuitions, it would not follow from this and “Dick knows that Harry is wicked” that “Dick knows that Donald is wicked”, for the reason that Dick might not know that Harry is identical to Donald. Contexts like this, in which identicals cannot safely be substituted for each other, are called “opaque”. We assume that our language \(\LKe\) has no opaque contexts.
+The rule \(({=}\mathrm{E})\) indicates a certain restriction in the expressive resources of our language. Suppose, for example, that Harry is identical to Donald (since his mischievous parents gave him two names). According to most people&rsquo;s intuitions, it would not follow from this and &ldquo;Dick knows that Harry is wicked&rdquo; that &ldquo;Dick knows that Donald is wicked&rdquo;, for the reason that Dick might not know that Harry is identical to Donald. Contexts like this, in which identicals cannot safely be substituted for each other, are called &ldquo;opaque&rdquo;. We assume that our language \(\LKe\) has no opaque contexts.
 
 One final clause completes the description of the deductive system \(D\):
 
 **(*)**
 
-That’s all folks. \(\Gamma \vdash \theta\) only if \(\theta\) follows from members of \(\Gamma\) by the above rules.
+That&rsquo;s all folks. \(\Gamma \vdash \theta\) only if \(\theta\) follows from members of \(\Gamma\) by the above rules.
 
 Again, this clause allows proofs by induction on the rules used to establish an argument. If a property of arguments holds of all instances of (As) and \(({=}\mathrm{I})\), and if the other rules preserve the property, then every argument that is deducible in \(D\) enjoys the property in question.
 
@@ -333,8 +341,8 @@ Before moving on to the model theory for \(\LKe\), we pause to note a few featur
 \vdash \phi\).
 
 **Proof:** Again, we proceed by induction on the number of rules that were used to arrive at \(\Gamma_1 \vdash \phi\). Suppose that \(n\gt 0\) is a natural number, and that the theorem holds for any argument that was derived using fewer than \(n\) rules. Suppose that \(\Gamma_1 \vdash \phi\) using exactly \(n\) rules. If \(n=1\), then the rule is either (As) or \((=\)I). In these cases, \(\Gamma_2
-\vdash \phi\) by the same rule. If the last rule applied was (&I), then \(\phi\) has the form \((\theta \amp \psi)\), and we have \(\Gamma_3 \vdash \theta\) and \(\Gamma_4 \vdash \psi\), with \(\Gamma_1 = \Gamma_3, \Gamma_4\). We apply the induction hypothesis to the deductions of \(\theta\) and \(\psi\), to get \(\Gamma_2 \vdash
-\theta\) and \(\Gamma_2 \vdash \psi\). and then apply (&I) to the result to get \(\Gamma_2 \vdash \phi\). Most of the other cases are exactly like this. Slight complications arise only in the rules \((\forall\)I) and \((\exists\)E), because there we have to pay attention to the conditions for the rules.
+\vdash \phi\) by the same rule. If the last rule applied was (&amp;I), then \(\phi\) has the form \((\theta \amp \psi)\), and we have \(\Gamma_3 \vdash \theta\) and \(\Gamma_4 \vdash \psi\), with \(\Gamma_1 = \Gamma_3, \Gamma_4\). We apply the induction hypothesis to the deductions of \(\theta\) and \(\psi\), to get \(\Gamma_2 \vdash
+\theta\) and \(\Gamma_2 \vdash \psi\). and then apply (&amp;I) to the result to get \(\Gamma_2 \vdash \phi\). Most of the other cases are exactly like this. Slight complications arise only in the rules \((\forall\)I) and \((\exists\)E), because there we have to pay attention to the conditions for the rules.
 
 Suppose that the last rule applied to get \(\Gamma_1 \vdash \phi\) is \((\forall\)I). So \(\phi\) is a sentence of the form \(\forall
 v\theta\), and we have \(\Gamma_1 \vdash \theta (v|t)\) and \(t\) does not occur in any member of \(\Gamma_1\) or in \(\theta\). The problem is that \(t\) may occur in a member of \(\Gamma_2\), and so we cannot just invoke the induction hypothesis and apply \((\forall\)I) to the result. So, let \(t'\) be a term not occurring in any sentence in \(\Gamma_2\). Let \(\Gamma'\) be the result of substituting \(t'\) for all \(t\) in \(\Gamma_2\). Then, since \(t\) does not occur in \(\Gamma_1\), \(\Gamma_1\subseteq\Gamma'\). So, the induction hypothesis gives us \(\Gamma'\vdash\theta (v|t)\), and we know that \(\Gamma'\) does not contain \(t\), so we can apply (\(\forall I\)) to get \(\Gamma'\vdash\forall v\theta\). But \(\forall v\theta\) does not contain \(t\) or \(t'\), so \(\Gamma_2\vdash\forall v\theta\) by Lemma 7.
@@ -348,7 +356,7 @@ By clause (*), all derivations are established in a finite number of steps. So w
 
 **Theorem 9**. \(\Gamma \vdash \phi\) if and only if there is a finite \(\Gamma'\subseteq \Gamma\) such that \(\Gamma'\vdash \phi\).
 
-**Theorem 10**. The rule of *ex falso quodlibet* is a “derived rule” of \(D\): if \(\Gamma_1 \vdash
+**Theorem 10**. The rule of *ex falso quodlibet* is a &ldquo;derived rule&rdquo; of \(D\): if \(\Gamma_1 \vdash
 \theta\) and \(\Gamma_2 \vdash \neg \theta\), then \(\Gamma_1,\Gamma_2
 \vdash \psi\), for any sentence \(\psi\).
 
@@ -361,9 +369,9 @@ By clause (*), all derivations are established in a finite number of steps. So w
 
 **Proof:** Suppose \(\Gamma_1 \vdash \psi\) and \(\Gamma_2, \psi \vdash \theta\). We proceed by induction on the number of rules used to establish \(\Gamma_2, \psi \vdash \theta\). Suppose that \(n\) is a natural number, and that the theorem holds for any argument that was derived using fewer than \(n\) rules. Suppose that \(\Gamma_2, \psi \vdash \theta\) was derived using exactly \(n\) rules. If the last rule used was \((=\)I), then \(\Gamma_1, \Gamma_2
 \vdash \theta\) is also an instance of \((=\)I). If \(\Gamma_2, \psi
-\vdash \theta\) is an instance of (As), then either \(\theta\) is \(\psi\), or \(\theta\) is a member of \(\Gamma_2\). In the former case, we have \(\Gamma_1 \vdash \theta\) by supposition, and get \(\Gamma_1, \Gamma_2 \vdash \theta\) by Weakening (Theorem 8). In the latter case, \(\Gamma_1, \Gamma_2 \vdash \theta\) is itself an instance of (As). Suppose that \(\Gamma_2, \psi \vdash \theta\) was obtained using (&E). Then we have \(\Gamma_2, \psi \vdash(\theta
+\vdash \theta\) is an instance of (As), then either \(\theta\) is \(\psi\), or \(\theta\) is a member of \(\Gamma_2\). In the former case, we have \(\Gamma_1 \vdash \theta\) by supposition, and get \(\Gamma_1, \Gamma_2 \vdash \theta\) by Weakening (Theorem 8). In the latter case, \(\Gamma_1, \Gamma_2 \vdash \theta\) is itself an instance of (As). Suppose that \(\Gamma_2, \psi \vdash \theta\) was obtained using (&amp;E). Then we have \(\Gamma_2, \psi \vdash(\theta
 \amp \phi)\). The induction hypothesis gives us \(\Gamma_1, \Gamma_2
-\vdash(\theta \amp \phi)\), and (&E) produces \(\Gamma_1, \Gamma_2
+\vdash(\theta \amp \phi)\), and (&amp;E) produces \(\Gamma_1, \Gamma_2
 \vdash \theta\). The remaining cases are similar.
 
 Theorem 11 allows us to chain together inferences. This fits the practice of establishing theorems and lemmas and then using those theorems and lemmas later, at will. The cut principle is, some think, essential to reasoning. In some logical systems, the cut principle is a deep theorem; in others it is invalid. The system here was designed, in part, to make the proof of Theorem 11 straightforward.
@@ -408,7 +416,7 @@ If \(R^2\) is a two-place predicate letter in \(K\), then \(I(R)\) is a set of o
 
 In general, if *S\(^n\)* is an \(n\)-place predicate letter in \(K\), then \(I(S)\) is a set of ordered \(n\)-tuples of members of \(d\).
 
-Define \(s\) to be a *variable-assignment*, or simply an *assignment*, on an interpretation \(M\), if \(s\) is a function from the variables to the domain \(d\) of \(M\). The role of variable-assignments is to assign denotations to the *free* variables of open formulas. (In a sense, the quantifiers determine the “meaning” of the bound variables.)
+Define \(s\) to be a *variable-assignment*, or simply an *assignment*, on an interpretation \(M\), if \(s\) is a function from the variables to the domain \(d\) of \(M\). The role of variable-assignments is to assign denotations to the *free* variables of open formulas. (In a sense, the quantifiers determine the &ldquo;meaning&rdquo; of the bound variables.)
 
 Let \(t\) be a term of \(\LKe\). We define the *denotation* of \(t\) in \(M\) under \(s\), in terms of the interpretation function and variable-assignment:
 
@@ -416,7 +424,7 @@ If \(t\) is a constant, then \(D_{M,s}(t)\) is \(I(t)\), and if \(t\) is a varia
 
 That is, the interpretation \(M\) assigns denotations to the constants, while the variable-assignment assigns denotations to the (free) variables. If the language contained function symbols, the denotation function would be defined by recursion.
 
-We now define a relation of *satisfaction* between interpretations, variable-assignments, and formulas of \(\LKe\). If \(\phi\) is a formula of \(\LKe, M\) is an interpretation for \(\LKe\), and \(s\) is a variable-assignment on \(M\), then we write \(M,s\vDash \phi\) for \(M\) *satisfies* \(\phi\) *under the assignment* \(s\). The idea is that \(M,s\vDash \phi\) is an analogue of “\(\phi\) comes out true when interpreted as in \(M\) via \(s\)”.
+We now define a relation of *satisfaction* between interpretations, variable-assignments, and formulas of \(\LKe\). If \(\phi\) is a formula of \(\LKe, M\) is an interpretation for \(\LKe\), and \(s\) is a variable-assignment on \(M\), then we write \(M,s\vDash \phi\) for \(M\) *satisfies* \(\phi\) *under the assignment* \(s\). The idea is that \(M,s\vDash \phi\) is an analogue of &ldquo;\(\phi\) comes out true when interpreted as in \(M\) via \(s\)&rdquo;.
 
 We proceed by recursion on the complexity of the formulas of \(\LKe\).
 
@@ -479,7 +487,7 @@ Suppose that \(K'\subseteq K\) are two sets of non-logical terms. If \(M = \lang
 In short, the satisfaction of a sentence \(\theta\) only depends on the domain of discourse and the interpretation of the non-logical terminology in \(\theta\).
 
 We say that an argument \(\langle \Gamma,\theta \rangle\) is *semantically valid*, or just *valid*, written \(\Gamma
-\vDash \theta\), if for every interpretation \(M\) of the language, if \(M\vDash\psi\), for every member \(\psi\) of \(\Gamma\), then \(M\vDash\theta\). If \(\Gamma \vDash \theta\), we also say that \(\theta\) is a *logical consequence*, or *semantic consequence*, or *model-theoretic consequence* of \(\Gamma\). The definition corresponds to the informal idea that an argument is valid if it is not possible for its premises to all be true and its conclusion false. Our definition of logical consequence also sanctions the common thesis that a valid argument is truth-preserving – to the extent that satisfaction represents truth. Officially, an argument in \(\LKe\) is valid if its conclusion comes out true under every interpretation of the language in which the premises are true. Validity is the model-theoretic counterpart to deducibility.
+\vDash \theta\), if for every interpretation \(M\) of the language, if \(M\vDash\psi\), for every member \(\psi\) of \(\Gamma\), then \(M\vDash\theta\). If \(\Gamma \vDash \theta\), we also say that \(\theta\) is a *logical consequence*, or *semantic consequence*, or *model-theoretic consequence* of \(\Gamma\). The definition corresponds to the informal idea that an argument is valid if it is not possible for its premises to all be true and its conclusion false. Our definition of logical consequence also sanctions the common thesis that a valid argument is truth-preserving &ndash; to the extent that satisfaction represents truth. Officially, an argument in \(\LKe\) is valid if its conclusion comes out true under every interpretation of the language in which the premises are true. Validity is the model-theoretic counterpart to deducibility.
 
 A sentence \(\theta\) is *logically true*, or *valid*, if \(M\vDash \theta\), for every interpretation \(M\). A sentence is logically true if and only if it is a consequence of the empty set. If \(\theta\) is logically true, then for any set \(\Gamma\) of sentences, \(\Gamma \vDash \theta\). Logical truth is the model-theoretic counterpart of theoremhood.
 
@@ -499,9 +507,9 @@ We now present some results that relate the deductive notions to their model-the
 
 **Theorem 18. Soundness.** For any sentence \(\theta\) and set \(\Gamma\) of sentences, if \(\Gamma \vdash_D \theta\), then \(\Gamma \vDash \theta\).
 
-**Proof:** We proceed by induction on the number of clauses used to establish \(\Gamma \vdash \theta\). So let \(n\) be a natural number, and assume that the theorem holds for any argument established as deductively valid with fewer than \(n\) steps. And suppose that \(\Gamma \vdash \theta\) was established using exactly \(n\) steps. If the last rule applied was \((=\)I) then \(\theta\) is a sentence in the form \(t=t\), and so \(\theta\) is logically true. A fortiori, \(\Gamma \vDash \theta\). If the last rule applied was (As), then \(\theta\) is a member of \(\Gamma\), and so of course any interpretation that satisfies every member of \(\Gamma\) also satisfies \(\theta\). Suppose the last rule applied is (&I). So \(\theta\) has the form \((\phi \amp \psi)\), and we have \(\Gamma_1
+**Proof:** We proceed by induction on the number of clauses used to establish \(\Gamma \vdash \theta\). So let \(n\) be a natural number, and assume that the theorem holds for any argument established as deductively valid with fewer than \(n\) steps. And suppose that \(\Gamma \vdash \theta\) was established using exactly \(n\) steps. If the last rule applied was \((=\)I) then \(\theta\) is a sentence in the form \(t=t\), and so \(\theta\) is logically true. A fortiori, \(\Gamma \vDash \theta\). If the last rule applied was (As), then \(\theta\) is a member of \(\Gamma\), and so of course any interpretation that satisfies every member of \(\Gamma\) also satisfies \(\theta\). Suppose the last rule applied is (&amp;I). So \(\theta\) has the form \((\phi \amp \psi)\), and we have \(\Gamma_1
 \vdash \phi\) and \(\Gamma_2 \vdash \psi\), with \(\Gamma = \Gamma_1,
-\Gamma_2\). The induction hypothesis gives us \(\Gamma_1 \vDash \phi\) and \(\Gamma_2 \vDash \psi\). Suppose that \(M\) satisfies every member of \(\Gamma\). Then \(M\) satisfies every member of \(\Gamma_1\), and so \(M\) satisfies \(\phi\). Similarly, \(M\) satisfies every member of \(\Gamma_2\), and so \(M\) satisfies \(\psi\). Thus, by the clause for “\(\amp\)” in the definition of satisfaction, \(M\) satisfies \(\theta\). So \(\Gamma
+\Gamma_2\). The induction hypothesis gives us \(\Gamma_1 \vDash \phi\) and \(\Gamma_2 \vDash \psi\). Suppose that \(M\) satisfies every member of \(\Gamma\). Then \(M\) satisfies every member of \(\Gamma_1\), and so \(M\) satisfies \(\phi\). Similarly, \(M\) satisfies every member of \(\Gamma_2\), and so \(M\) satisfies \(\psi\). Thus, by the clause for &ldquo;\(\amp\)&rdquo; in the definition of satisfaction, \(M\) satisfies \(\theta\). So \(\Gamma
 \vDash \theta\).
 
 Suppose the last clause applied was \((\exists\mathrm{E})\). So we have \(\Gamma_1 \vdash \exists v\phi\) and \(\Gamma_2, \phi(v|t)
@@ -518,7 +526,7 @@ We need to show that \(\Gamma\vDash\theta\). By the induction hypothesis, we hav
 
 Even though the deductive system \(D\) and the model-theoretic semantics were developed with the meanings of the logical terminology in mind, one should not automatically expect the converse to soundness (or Corollary 19) to hold. For all we know so far, we may not have included enough rules of inference to deduce every valid argument. The converses to soundness and Corollary 19 are among the most important and influential results in mathematical logic. We begin with the latter.
 
-**Theorem 20. Completeness. Gödel [1930].** Let \(\Gamma\) be a set of sentences. If \(\Gamma\) is consistent, then \(\Gamma\) is satisfiable.
+**Theorem 20. Completeness. G&ouml;del [1930].** Let \(\Gamma\) be a set of sentences. If \(\Gamma\) is consistent, then \(\Gamma\) is satisfiable.
 
 **Proof:** The proof of completeness is rather complex. We only sketch it here. Let \(\Gamma\) be a consistent set of sentences of \(\LKe\). Again, we assume for simplicity that the set \(K\) of non-logical terminology is either finite or countably infinite (although the theorem holds even if \(K\) is uncountable). The task at hand is to find an interpretation \(M\) such that \(M\) satisfies every member of \(\Gamma\). Consider the language obtained from \(\LKe\) by adding a denumerably infinite stock of new individual constants \(c_0, c_1,\ldots\) We stipulate that the constants, \(c_0,
 c_1,\ldots\), are all different from each other and none of them occur in \(K\). One interesting feature of this construction, due to Leon Henkin, is that we build an interpretation of the language from the language itself, using some of the constants as members of the domain of discourse. Let \(\theta_0 (x), \theta_1 (x),\ldots\) be an enumeration of the formulas of the expanded language with at most one free variable, so that each formula with at most one free variable occurs in the list eventually. Define a sequence \(\Gamma_0,
@@ -576,7 +584,7 @@ Soundness and completeness together entail that an argument is deducible if and 
 
 Recall that in the proof of Completeness (Theorem 20), we made the simplifying assumption that the set \(K\) of non-logical constants is either finite or denumerably infinite. The interpretation we produced was itself either finite or denumerably infinite. Thus, we have the following:
 
-**Corollary 23. Löwenheim-Skolem Theorem.** Let \(\Gamma\) be a satisfiable set of sentences of the language \(\LKe\). If \(\Gamma\) is either finite or denumerably infinite, then \(\Gamma\) has a model whose domain is either finite or denumerably infinite.
+**Corollary 23. L&ouml;wenheim-Skolem Theorem.** Let \(\Gamma\) be a satisfiable set of sentences of the language \(\LKe\). If \(\Gamma\) is either finite or denumerably infinite, then \(\Gamma\) has a model whose domain is either finite or denumerably infinite.
 
 In general, let \(\Gamma\) be a satisfiable set of sentences of \(\LKe\), and let \(\kappa\) be the larger of the size of \(\Gamma\) and denumerably infinite. Then \(\Gamma\) has a model whose domain is at most size \(\kappa\).
 
@@ -588,19 +596,19 @@ a,b\rangle\) is in \(I_1 (R)\) if and only if \(\langle a,b\rangle\) is in \(I_2
 Say that two interpretations \(M_1 =\langle d_1,I_1\rangle, M_2
 =\langle d_2,I_2\rangle\) are *equivalent* if one of them is a submodel of the other, and for any formula of the language and any variable-assignment \(s\) on the submodel, \(M_1,s\vDash \theta\) if and only if \(M_2,s\vDash \theta\). Notice that if two interpretations are equivalent, then they satisfy the same sentences.
 
-**Theorem 25. Downward Löwenheim-Skolem Theorem.** Let \(M = \langle d,I\rangle\) be an interpretation of the language \(\LKe\). Let \(d_1\) be any subset of \(d\), and let \(\kappa\) be the maximum of the size of \(K\), the size of \(d_1\), and denumerably infinite. Then there is a submodel \(M' = \langle d',I'\rangle\) of \(M\) such that (1) \(d'\) is not larger than \(\kappa\), and (2) \(M\) and \(M'\) are equivalent. In particular, if the set \(K\) of non-logical terminology is either finite or denumerably infinite, then any interpretation has an equivalent submodel whose domain is either finite or denumerably infinite.
+**Theorem 25. Downward L&ouml;wenheim-Skolem Theorem.** Let \(M = \langle d,I\rangle\) be an interpretation of the language \(\LKe\). Let \(d_1\) be any subset of \(d\), and let \(\kappa\) be the maximum of the size of \(K\), the size of \(d_1\), and denumerably infinite. Then there is a submodel \(M' = \langle d',I'\rangle\) of \(M\) such that (1) \(d'\) is not larger than \(\kappa\), and (2) \(M\) and \(M'\) are equivalent. In particular, if the set \(K\) of non-logical terminology is either finite or denumerably infinite, then any interpretation has an equivalent submodel whose domain is either finite or denumerably infinite.
 
-**Proof:** Like completeness, this proof is complex, and we rest content with a sketch. The downward Löwenheim-Skolem theorem invokes the axiom of choice, and indeed, is equivalent to the axiom of choice (see the entry on the axiom of choice). So let \(C\) be a choice function on the powerset of \(d\), so that for each non-empty subset \(e\subseteq d, C(e)\) is a member of \(e\). We stipulate that if \(e\) is the empty set, then \(C(e)\) is \(C(d)\).
+**Proof:** Like completeness, this proof is complex, and we rest content with a sketch. The downward L&ouml;wenheim-Skolem theorem invokes the axiom of choice, and indeed, is equivalent to the axiom of choice (see the entry on the axiom of choice). So let \(C\) be a choice function on the powerset of \(d\), so that for each non-empty subset \(e\subseteq d, C(e)\) is a member of \(e\). We stipulate that if \(e\) is the empty set, then \(C(e)\) is \(C(d)\).
 
 Let \(s\) be a variable-assignment on \(M\), let \(\theta\) be a formula of \(\LKe\), and let \(v\) be a variable. Define the \(v\)-*witness of* \(\theta\) *over s*, written \(w_v
 (\theta,s)\), as follows: Let \(q\) be the set of all elements \(c\in
 d\) such that there is a variable-assignment \(s'\) on \(M\) that agrees with \(s\) on every variable except possibly \(v\), such that \(M,s'\vDash \theta\), and \(s'(v)=c\). Then \(w_v (\theta,s) =
 C(q)\). Notice that if \(M,s\vDash \exists v\theta\), then \(q\) is the set of elements of the domain that can go for \(v\) in \(\theta\). Indeed, \(M,s\vDash \exists v\theta\) if and only if \(q\) is non-empty. So if \(M,s\vDash \exists v\theta\), then \(w_v
-(\theta,s)\) (i.e., \(C(q))\) is a chosen element of the domain that can go for \(v\) in \(\theta\). In a sense, it is a “witness” that verifies \(M,s\vDash \exists v\theta\).
+(\theta,s)\) (i.e., \(C(q))\) is a chosen element of the domain that can go for \(v\) in \(\theta\). In a sense, it is a &ldquo;witness&rdquo; that verifies \(M,s\vDash \exists v\theta\).
 
 If \(e\) is a non-empty subset of the domain \(d\), then define a variable-assignment \(s\) to be an \(e\)-*assignment* if for all variables \(u, s(u)\) is in \(e\). That is, \(s\) is an \(e\)-assignment if \(s\) assigns an element of \(e\) to each variable. Define \(sk(e)\), the *Skolem-hull* of \(e\), to be the set:
 
-That is, the Skolem-Hull of \(e\) is the set \(e\) together with every \(v\)-witness of every formula over every \(e\)-assignment. Roughly, the idea is to start with \(e\) and then throw in enough elements to make each existentially quantified formula true. But we cannot rest content with the Skolem-hull, however. Once we throw the “witnesses” into the domain, we need to deal with \(sk(e)\) assignments. In effect, we need a set which is its own Skolem-hull, and also contains the given subset \(d_1\).
+That is, the Skolem-Hull of \(e\) is the set \(e\) together with every \(v\)-witness of every formula over every \(e\)-assignment. Roughly, the idea is to start with \(e\) and then throw in enough elements to make each existentially quantified formula true. But we cannot rest content with the Skolem-hull, however. Once we throw the &ldquo;witnesses&rdquo; into the domain, we need to deal with \(sk(e)\) assignments. In effect, we need a set which is its own Skolem-hull, and also contains the given subset \(d_1\).
 
 We define a sequence of non-empty sets \(e_0, e_1,\ldots\) as follows: if the given subset \(d_1\) of \(d\) is empty and there are no constants in \(K\), then let \(e_0\) be \(C(d)\), the choice function applied to the entire domain; otherwise let \(e_0\) be the union of \(d_1\) and the denotations under \(I\) of the constants in \(K\). For each natural number \(n, e_{n+1}\) is \(sk(e_n)\). Finally, let \(d'\) be the union of the sets \(e_n\), and let \(I'\) be the restriction of \(I\) to \(d'\). Our interpretation is \(M' = \langle
 d',I'\rangle\).
@@ -611,23 +619,23 @@ The final item is to show that \(M'\) is equivalent to \(M\): For every formula 
 
 The proof proceeds by induction on the complexity of \(\theta\). Unfortunately, space constraints require that we leave this step as an exercise.
 
-Another corollary to Compactness (Corollary 22) is the opposite of the Löwenheim-Skolem theorem:
+Another corollary to Compactness (Corollary 22) is the opposite of the L&ouml;wenheim-Skolem theorem:
 
-**Theorem 26. Upward Löwenheim-Skolem Theorem.** Let \(\Gamma\) be any set of sentences of \(\LKe,\) such that for each natural number \(n\), there is an interpretation \(M_n = \langle
+**Theorem 26. Upward L&ouml;wenheim-Skolem Theorem.** Let \(\Gamma\) be any set of sentences of \(\LKe,\) such that for each natural number \(n\), there is an interpretation \(M_n = \langle
 d_n,I_n\rangle\), such that \(d_n\) has at least \(n\) elements, and \(M_n\) satisfies every member of \(\Gamma\). In other words, \(\Gamma\) is satisfiable and there is no finite upper bound to the size of the interpretations that satisfy every member of \(\Gamma\). Then for any infinite cardinal \(\kappa\), there is an interpretation \(M=\langle d,I\rangle\), such that the size of \(d\) is *at least* \(\kappa\) and \(M\) satisfies every member of \(\Gamma\).
 
 **Proof:** Add a collection of new constants \(\{c_{\alpha} | \alpha \lt \kappa \}\), of size \(\kappa\), to the language, so that if \(c\) is a constant in \(K\), then \(c_{\alpha}\) is different from \(c\), and if \(\alpha \lt \beta \lt \kappa\), then \(c_{\alpha}\) is a different constant than \(c_{\beta}\). Consider the set of sentences \(\Gamma'\) consisting of \(\Gamma\) together with the set \(\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}\). That is, \(\Gamma'\) consists of \(\Gamma\) together with statements to the effect that any two different new constants denote different objects. Let \(\Gamma''\) be any finite subset of \(\Gamma'\), and let \(m\) be the number of new constants that occur in \(\Gamma''\). Then expand the interpretation \(M_m\) to an interpretation \(M_m'\) of the new language, by interpreting each of the new constants in \(\Gamma''\) as a different member of the domain \(d_m\). By hypothesis, there are enough members of \(d_m\) to do this. One can interpret the other new constants at will. So \(M_m\) is a restriction of \(M_m'\). By hypothesis (and Theorem 15), \(M'_m\) satisfies every member of \(\Gamma\). Also \(M'_m\) satisfies the members of \(\{\neg
 c_{\alpha}=c_{\beta} | \alpha \ne \beta \}\) that are in \(\Gamma''\). So \(M'_m\) satisfies every member of \(\Gamma''\). By compactness, there is an interpretation \(M = \langle d,I\rangle\) such that \(M\) satisfies every member of \(\Gamma'\). Since \(\Gamma'\) contains every member of \(\{\neg c_{\alpha}=c_{\beta} | \alpha \ne \beta \}\), the domain \(d\) of \(M\) must be of size at least \(\kappa\), since each of the new constants must have a different denotation. By Theorem 15, the restriction of \(M\) to the original language \(\LKe\) satisfies every member of \(\Gamma\).
 
-Combined, the proofs of the downward and upward Löwenheim-Skolem theorems show that for any satisfiable set \(\Gamma\) of sentences, if there is no finite bound on the models of \(\Gamma\), then for any infinite cardinal \(\kappa\), there is a model of \(\Gamma\) whose domain has size *exactly* \(\kappa\). Moreover, if \(M\) is any interpretation whose domain is infinite, then for any infinite cardinal \(\kappa\), there is an interpretation \(M'\) whose domain has size exactly \(\kappa\) such that \(M\) and \(M'\) are equivalent.
+Combined, the proofs of the downward and upward L&ouml;wenheim-Skolem theorems show that for any satisfiable set \(\Gamma\) of sentences, if there is no finite bound on the models of \(\Gamma\), then for any infinite cardinal \(\kappa\), there is a model of \(\Gamma\) whose domain has size *exactly* \(\kappa\). Moreover, if \(M\) is any interpretation whose domain is infinite, then for any infinite cardinal \(\kappa\), there is an interpretation \(M'\) whose domain has size exactly \(\kappa\) such that \(M\) and \(M'\) are equivalent.
 
-These results indicate a weakness in the expressive resources of first-order languages like \(\LKe\). No satisfiable set of sentences can guarantee that its models are all denumerably infinite, nor can any satisfiable set of sentences guarantee that its models are uncountable. So in a sense, first-order languages cannot express the notion of “denumerably infinite”, at least not in the model theory. (See the entry on second-order and higher-order logic.)
+These results indicate a weakness in the expressive resources of first-order languages like \(\LKe\). No satisfiable set of sentences can guarantee that its models are all denumerably infinite, nor can any satisfiable set of sentences guarantee that its models are uncountable. So in a sense, first-order languages cannot express the notion of &ldquo;denumerably infinite&rdquo;, at least not in the model theory. (See the entry on second-order and higher-order logic.)
 
-Let \(A\) be any set of sentences in a first-order language \(\LKe\), where \(K\) includes terminology for arithmetic, and assume that every member of \(A\) is true of the natural numbers. We can even let \(A\) be the set of all sentences in \(\LKe\) that are true of the natural numbers. Then \(A\) has uncountable models, indeed models of any infinite cardinality. Such interpretations are among those that are sometimes called *unintended*, or *non-standard* models of arithmetic. Let \(B\) be any set of first-order sentences that are true of the real numbers, and let \(C\) be any first-order axiomatization of set theory. Then if \(B\) and \(C\) are satisfiable (in infinite interpretations), then each of them has denumerably infinite models. That is, any first-order, satisfiable set theory or theory of the real numbers, has (unintended) models the size of the natural numbers. This is despite the fact that a sentence (seemingly) stating that the universe is uncountable is provable in most set-theories. This situation, known as the *Skolem paradox*, has generated much discussion, but we must refer the reader elsewhere for a sample of it (see the entry on Skolem’s paradox and Shapiro 1996)[^shapiro-1996].
+Let \(A\) be any set of sentences in a first-order language \(\LKe\), where \(K\) includes terminology for arithmetic, and assume that every member of \(A\) is true of the natural numbers. We can even let \(A\) be the set of all sentences in \(\LKe\) that are true of the natural numbers. Then \(A\) has uncountable models, indeed models of any infinite cardinality. Such interpretations are among those that are sometimes called *unintended*, or *non-standard* models of arithmetic. Let \(B\) be any set of first-order sentences that are true of the real numbers, and let \(C\) be any first-order axiomatization of set theory. Then if \(B\) and \(C\) are satisfiable (in infinite interpretations), then each of them has denumerably infinite models. That is, any first-order, satisfiable set theory or theory of the real numbers, has (unintended) models the size of the natural numbers. This is despite the fact that a sentence (seemingly) stating that the universe is uncountable is provable in most set-theories. This situation, known as the *Skolem paradox*, has generated much discussion, but we must refer the reader elsewhere for a sample of it (see the entry on Skolem&rsquo;s paradox and Shapiro 1996)[^shapiro-1996].
 
 ## 6. The One Right Logic?
 
-Logic has something to do with correct reasoning, or at least correct deductive reasoning. The details of the connection are subtle, and controversial – see Harman [1984] for an influential study. It is common to say that someone has reasoned poorly if they have not reasoned logically, or that a given (deductive) argument is bad, and must be retracted, if it is shown to be invalid.
+Logic has something to do with correct reasoning, or at least correct deductive reasoning. The details of the connection are subtle, and controversial &ndash; see Harman [1984] for an influential study. It is common to say that someone has reasoned poorly if they have not reasoned logically, or that a given (deductive) argument is bad, and must be retracted, if it is shown to be invalid.
 
 Some philosophers and logicians have maintained that there is a single logical system that is uniquely correct, in its role of characterizing validity. Among those, some, perhaps most, favor classical, first-order logic as uniquely correct, as the One True Logic. See, for example, Quine [1986], Resnik [1996], Rumfitt [2015], Williamson [2017], and a host of others.
 
@@ -641,9 +649,9 @@ Barwise [1985, 5] once remarked:
 
 And Wang [1974, 154]:
 
-> When we are interested in set theory or classical analysis, the Löwenheim-Skolem theorem is usually taken as a sort of defect... of the first-order logic... [W]hat is established [by these theorems] is not that first-order logic is the only possible logic but rather that it is the only possible logic when we in a sense deny reality to the concept of [the] uncountable...
+> When we are interested in set theory or classical analysis, the L&ouml;wenheim-Skolem theorem is usually taken as a sort of defect... of the first-order logic... [W]hat is established [by these theorems] is not that first-order logic is the only possible logic but rather that it is the only possible logic when we in a sense deny reality to the concept of [the] uncountable...
 
-Other criticisms of classical, first-order logic have also been lodged. There are issues with its ability to deal with certain paradoxes (see, for example, the entry on Russel’s paradox ), its apparent overgeneration of beliefs (see the entry on (the normative status of logic), and some argue that it has some arguments that do not match with the way we normally think we think (see for example, the entry on relevance logic).
+Other criticisms of classical, first-order logic have also been lodged. There are issues with its ability to deal with certain paradoxes (see, for example, the entry on Russel&rsquo;s paradox ), its apparent overgeneration of beliefs (see the entry on (the normative status of logic), and some argue that it has some arguments that do not match with the way we normally think we think (see for example, the entry on relevance logic).
 
 There are two main options available to those who are critical of classical, first-order logic, as the One True Logic. One is to propose some other logic as the One True Logic. Priest [2006a] describes the methodology one might use to settle in the One True Logic.
 
@@ -655,11 +663,11 @@ We close with brief sketches of some of the main alternatives to classical, firs
 
 ### 6.1 Approximations
 
-In recent years, some work has been done to “approximate” classical logic. The idea is to get as close to classical logic as possible, in order to preserve some of the benefits, while at the same time removing some limitations of classical logic, like being closer to intuitive inference or applying to things like vagueness and paradoxes.
+In recent years, some work has been done to &ldquo;approximate&rdquo; classical logic. The idea is to get as close to classical logic as possible, in order to preserve some of the benefits, while at the same time removing some limitations of classical logic, like being closer to intuitive inference or applying to things like vagueness and paradoxes.
 
 For example, Barrio, Pailos and Szmuc [2020] show that we can approximate classical logic in something called the ST-hierarchy (ST for strict-tolerant, from Cobreros, Egre, Ripley and van Rooij [2012a,b]). This allows them to avoid certain classical problems at each level of the hierarchy, like some of the paradoxes, while at the same time maintaining many of the benefits of the strength of classical logic when considering the full hierarchy.
 
-Ripley [2013] provides a multi-sequent calculus version of “classical logic” that she argues solves some of the paradoxes. Notably, she claims it solves at least the Sorites and Liar Paradoxes (see the entries on the sorites paradox and liar Paradox). The system conservatively extends classical logic. Ripley claims that this is what makes it classical. The system is not transitive, and does not have a Cut rule.
+Ripley [2013] provides a multi-sequent calculus version of &ldquo;classical logic&rdquo; that she argues solves some of the paradoxes. Notably, she claims it solves at least the Sorites and Liar Paradoxes (see the entries on the sorites paradox and liar Paradox). The system conservatively extends classical logic. Ripley claims that this is what makes it classical. The system is not transitive, and does not have a Cut rule.
 
 These types of results are often referred to as recapture results. A whole host of contemporary work exists on the topic. See, for example, Fiore and Rosenblatt [2023] and Rosenblatt [2020]. There are, of course, some questions about whether these new logics are *really* classical, but it is informative work nonetheless.
 
@@ -675,11 +683,11 @@ A formal language is called *second-order* if it has second-order variables and 
 
 A number of different deductive systems and model-theoretic semantics have been proposed for second- and higher-order languages. For the semantics, the main additional feature of the model-theory is to specify a range of the higher-order variables.
 
-In *Henkin semantics*, each interpretation specifies a specific range of the higher-order variables. For monadic second-order variables, each interpretation specifies a non-empty subset of the powerset of the domain, for two-place second-order variables, a non-empty set of ordered pairs of members of the domain, etc. The system has all of the above limitative meta-theoretic results. There is a deductive system that is sound and complete for Henkin semantics; the logic is compact; and the downward and upward Löwenheim-Skolem theorems all hold.
+In *Henkin semantics*, each interpretation specifies a specific range of the higher-order variables. For monadic second-order variables, each interpretation specifies a non-empty subset of the powerset of the domain, for two-place second-order variables, a non-empty set of ordered pairs of members of the domain, etc. The system has all of the above limitative meta-theoretic results. There is a deductive system that is sound and complete for Henkin semantics; the logic is compact; and the downward and upward L&ouml;wenheim-Skolem theorems all hold.
 
-In so-called *standard semantics*, sometimes called *full semantics*, monadic second-order variables range over the entire powerset of the domain; two-place second-order variables range over the entire class of ordered pairs of members of the domain, etc. It can be shown that second-order languages, with standard semantics, can characterize many mathematical notions and structures, up to isomorphism. Examples include the notions of finitude, countability, well-foundedness, minimal closure, and structures like the natural numbers, the real numbers, and the complex numbers. As a result, none of the limitative theorems of classical, first-order logic hold: there is no effective deductive system is both sound and complete, the logic is not compact, and both Löwenheim-Skolem theorems fail. Some, such as Quine [1986], argue that second-order logic, with standard semantics is not really logic, but is a form of mathematics, set theory in particular. For more on this, see Shapiro [1991] and the entry on higher-order logic, along with the many references cited there.
+In so-called *standard semantics*, sometimes called *full semantics*, monadic second-order variables range over the entire powerset of the domain; two-place second-order variables range over the entire class of ordered pairs of members of the domain, etc. It can be shown that second-order languages, with standard semantics, can characterize many mathematical notions and structures, up to isomorphism. Examples include the notions of finitude, countability, well-foundedness, minimal closure, and structures like the natural numbers, the real numbers, and the complex numbers. As a result, none of the limitative theorems of classical, first-order logic hold: there is no effective deductive system is both sound and complete, the logic is not compact, and both L&ouml;wenheim-Skolem theorems fail. Some, such as Quine [1986], argue that second-order logic, with standard semantics is not really logic, but is a form of mathematics, set theory in particular. For more on this, see Shapiro [1991] and the entry on higher-order logic, along with the many references cited there.
 
-One might also consider generalized quantifiers as an expansion of classical first-order logic (see the entry on generalized quantifiers). These quantifiers allow from an expansion between the classical “all” and “some” , and can accommodate quantifiers like “most” , “less than half” , “usually” , etc. They are useful from both a logical and linguistic perspective. For example, Kennedy and Väänänen [2021] use generalized quantifiers to argue that “ uncountable” is a logical notion.
+One might also consider generalized quantifiers as an expansion of classical first-order logic (see the entry on generalized quantifiers). These quantifiers allow from an expansion between the classical &ldquo;all&rdquo; and &ldquo;some&rdquo; , and can accommodate quantifiers like &ldquo;most&rdquo; , &ldquo;less than half&rdquo; , &ldquo;usually&rdquo; , etc. They are useful from both a logical and linguistic perspective. For example, Kennedy and V&auml;&auml;n&auml;nen [2021] use generalized quantifiers to argue that &ldquo; uncountable&rdquo; is a logical notion.
 
 ### 6.3 Intuitionistic
 
@@ -701,13 +709,13 @@ This time the target inference to be declared invalid is the one we above call *
 {\rm If} \ \Gamma_1 \vdash \Theta \ {\rm and} \ \Gamma_2 \vdash \neg\Theta \ {\rm then} \ \Gamma_1, \Gamma_2 \vdash \Psi
 \] We can focus attention one kind of instance of this: \[
 \Phi, \neg\Phi \vdash \Psi,
-\] sometimes colorfully called “explosion”. It says that anything at all follows from a contradiction.
+\] sometimes colorfully called &ldquo;explosion&rdquo;. It says that anything at all follows from a contradiction.
 
 Logics that regard (EFQ) as invalid are called *paraconsistent*. Broadly speaking, there are two camps of logicians advocating for paraconsistent systems, either as candidates for the One True Logic or as instances of pluralism. One camp consists of logicians who insist that in a valid argument, the premises must be *relevant* to the conclusion. Typically, relevance logicians also demur from certain classical logical truths called *paradoxes of material implication*, such as \((\Phi \rightarrow (\Psi
 \rightarrow \Phi))\) and \((\Phi \rightarrow (\Psi \rightarrow
 \Psi))\).
 
-For more, see the entry on relevance logic, or Kerr [2019]. Classic works include Anderson and Belnap [1975], Anderson Belnap and Dunn [1992], and Read [1988]. Neil Tennant’s [2017] core logic is both relevant and intuitionistic.
+For more, see the entry on relevance logic, or Kerr [2019]. Classic works include Anderson and Belnap [1975], Anderson Belnap and Dunn [1992], and Read [1988]. Neil Tennant&rsquo;s [2017] core logic is both relevant and intuitionistic.
 
 The other main camp of logicians who prefer a paraconsistent logic (or paraconsistent logics) are advocates of *dialetheism*, the view that some contradictions, some sentences in the form \[
 (\Phi \wedge \neg \Phi),
@@ -728,96 +736,100 @@ Of course, the small sample presented here does not include every logical system
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-classical). |
 > | --- | --- |
 > |   | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/logic-classical/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logic-classical&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> |   | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=logic-classical&amp;redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
 > |   | [Enhanced bibliography for this entry](https://philpapers.org/sep/logic-classical/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 ## Other Internet Resources
 
+[Please contact the author with suggestions.]
+
 ## Related Entries
+
+logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic: modal | logic: paraconsistent | logic: relevance | logic: second-order and higher-order | logic: substructural | logic: temporal | logical consequence | logical form | logical truth | model theory | model theory: first-order | paradox: Skolem&rsquo;s | proof theory: development of
 
 [^anderson-1975]: Anderson, Alan and Nuel Belnap, 1975, *Entailment: The Logic of Relevance and Necessity I*, Princeton: Princeton University Press.
 
 [^anderson-1992]: Anderson, Alan, Nuel Belnap, and J. Michael Dunn, 1992, *Entailment: The Logic of Relevance and Necessity II*, Princeton: Princeton University Press.
 
-[^barcan-1990]: Barcan Marcus, Ruth. 1990, “A Backwards Look at Quine’s Animadversions on Modalities,” in R. Bartrett and R. Gibson (eds.), *Perspectives on Quine*, Cambridge: Blackwell, pp.230–243.
+[^barcan-1990]: Barcan Marcus, Ruth. 1990, &ldquo;A Backwards Look at Quine&rsquo;s Animadversions on Modalities,&rdquo; in R. Bartrett and R. Gibson (eds.), *Perspectives on Quine*, Cambridge: Blackwell, pp.230&ndash;243.
 
-[^barrio-2020]: Barrio, Eduardo Alejandro., Federico Pailos, and Damian Szmuc, 2020, “A Hierarchy of Classical and Paraconsistent Logics”, *J Philos Logic*, 49: 93–120. doi:10.1007/s10992-019-09513-z
+[^barrio-2020]: Barrio, Eduardo Alejandro., Federico Pailos, and Damian Szmuc, 2020, &ldquo;A Hierarchy of Classical and Paraconsistent Logics&rdquo;, *J Philos Logic*, 49: 93&ndash;120. doi:10.1007/s10992-019-09513-z
 
-[^barwise-1985]: Barwise, Jon, 1985, “Model-Theoretic Logics: Background and Aims”, in *Model-Theoretic Logics*, Jon Barwise and Solomon Feferman (eds.), New York, Springer-Verlag, pp. 3–23.
+[^barwise-1985]: Barwise, Jon, 1985, &ldquo;Model-Theoretic Logics: Background and Aims&rdquo;, in *Model-Theoretic Logics*, Jon Barwise and Solomon Feferman (eds.), New York, Springer-Verlag, pp. 3&ndash;23.
 
 [^beall-2006]: Beall, Jc and Greg Restall, 2006, *Logical Pluralism*, Oxford: Oxford University Press.
 
-[^brouwer-1949]: Brouwer, L.E.J., 1949, “Consciousness, Philosophy and Mathematics”, *Journal of Symbolic Logic*, 14(2): 132–133.
+[^brouwer-1949]: Brouwer, L.E.J., 1949, &ldquo;Consciousness, Philosophy and Mathematics&rdquo;, *Journal of Symbolic Logic*, 14(2): 132&ndash;133.
 
-[^brouwer-1964b]: –––, 1964b, “Intuitionism and Formalism”, in *Philosophy of Mathematics: Selected Readings*, P. Benacerraf and H. Putnam (eds.), Englewood Cliffs, NJ, Cambridge University Press, pp. 77–89.
+[^brouwer-1964b]: &ndash;&ndash;&ndash;, 1964b, &ldquo;Intuitionism and Formalism&rdquo;, in *Philosophy of Mathematics: Selected Readings*, P. Benacerraf and H. Putnam (eds.), Englewood Cliffs, NJ, Cambridge University Press, pp. 77&ndash;89.
 
-[^cobreros-2012]: Cobreros, Pablo, Paul Egré, Ellie Ripley, and Robert van Rooij, 2012, “Tolerance and Mixed Consequence in the S’valuationist Setting”, *Studia logica*, 100(4): 855–877.
+[^cobreros-2012]: Cobreros, Pablo, Paul Egr&eacute;, Ellie Ripley, and Robert van Rooij, 2012, &ldquo;Tolerance and Mixed Consequence in the S&rsquo;valuationist Setting&rdquo;, *Studia logica*, 100(4): 855&ndash;877.
 
-[^cobreros-2012-2]: –––, 2012, “Tolerant, Classical, Strict”, *Journal of Philosophical Logic*, 41(2): 347–385.
+[^cobreros-2012-2]: &ndash;&ndash;&ndash;, 2012, &ldquo;Tolerant, Classical, Strict&rdquo;, *Journal of Philosophical Logic*, 41(2): 347&ndash;385.
 
-[^cook-2002]: Cook, Roy, 2002, “Vagueness and Mathematical Precision”, *Mind*, 111: 227–247.
+[^cook-2002]: Cook, Roy, 2002, &ldquo;Vagueness and Mathematical Precision&rdquo;, *Mind*, 111: 227&ndash;247.
 
-[^corcoran-1973]: Corcoran, John, 1973, “Gaps between Logical Theory and Mathematical Practice”, *The Methodological Unity of Science*, M. Bunge (ed.), Dordrecht: D. Reidel, pp. 23–50.
+[^corcoran-1973]: Corcoran, John, 1973, &ldquo;Gaps between Logical Theory and Mathematical Practice&rdquo;, *The Methodological Unity of Science*, M. Bunge (ed.), Dordrecht: D. Reidel, pp. 23&ndash;50.
 
 [^davidson-1984]: Davidson, Donald, 1984, *Inquiries into Truth and Interpretation*, Oxford: Clarendon Press.
 
 [^dummett-2000]: Dummett, Michael, 2000, *Elements of Intuitionism*, second edition, Oxford: Oxford University Press.
 
-[^dummett-1978]: –––, 1978, “The Philosophical Basis of Intuitionistic Logic”, in *Truth and Other Enigmas*, Cambridge, MA: Harvard University Press, pp. 215–247.
+[^dummett-1978]: &ndash;&ndash;&ndash;, 1978, &ldquo;The Philosophical Basis of Intuitionistic Logic&rdquo;, in *Truth and Other Enigmas*, Cambridge, MA: Harvard University Press, pp. 215&ndash;247.
 
-[^fiore-2023]: Fiore, Camillo, and Lucas Rosenblatt, 2023, “Recapture Results and Classical Logic”, *Mind*, 132(527): 762–788.
+[^fiore-2023]: Fiore, Camillo, and Lucas Rosenblatt, 2023, &ldquo;Recapture Results and Classical Logic&rdquo;, *Mind*, 132(527): 762&ndash;788.
 
-[^gödel-1930]: Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalkuls”, *Montatshefte für Mathematik und Physik 37*, pp. 349–360; translated as “The completeness of the axioms of the functional calculus of logic”, in van Heijenoort 1967, pp. 582–591.
+[^kurt-1930]: G&ouml;del, Kurt, 1930, &ldquo;Die Vollst&auml;ndigkeit der Axiome des logischen Funktionenkalkuls&rdquo;, *Montatshefte f&uuml;r Mathematik und Physik 37*, pp. 349&ndash;360; translated as &ldquo;The completeness of the axioms of the functional calculus of logic&rdquo;, in van Heijenoort 1967, pp. 582&ndash;591.
 
-[^harman-1984]: Harman, Gilbert, 1984, “Logic and Reasoning”, *Synthese*, 60: 107–127.
+[^harman-1984]: Harman, Gilbert, 1984, &ldquo;Logic and Reasoning&rdquo;, *Synthese*, 60: 107&ndash;127.
 
 [^heyting-1956]: Heyting, A., 1956, *Intuitionism*, Amsterdam: North-Holland Publishing.
 
-[^kerr-2019]: Kerr, Alison Duncan, 2019, “A plea for KR”, *Synthese*, 198(4): 3047–3071.
+[^kerr-2019]: Kerr, Alison Duncan, 2019, &ldquo;A plea for KR&rdquo;, *Synthese*, 198(4): 3047&ndash;3071.
 
 [^lycan-1984]: Lycan, William, 1984, *Logical Form in Natural Language*, Cambridge, MA: The MIT Press.
 
 [^montague-1974]: Montague, Richard, 1974, *Formal Philosophy*, R. Thomason (ed.), New Haven: Yale University Press.
 
-[^kennedy-2021]: Kennedy, Juliette, and Jouko Väänänen, 2021, “Logicality and Model Classes”, *Bulletin of Symbolic Logic*, 27(4): 385–414.
+[^kennedy-2021]: Kennedy, Juliette, and Jouko V&auml;&auml;n&auml;nen, 2021, &ldquo;Logicality and Model Classes&rdquo;, *Bulletin of Symbolic Logic*, 27(4): 385&ndash;414.
 
 [^priest-2006a]: Priest, Graham, 2006a, *In Contradiction, a Study of the Transconsistent*, second, revised edition, Oxford: Clarendon Press.
 
-[^priest-2006b]: –––, 2006b, *Doubt Truth to be a Liar*, Oxford: Clarendon Press.
+[^priest-2006b]: &ndash;&ndash;&ndash;, 2006b, *Doubt Truth to be a Liar*, Oxford: Clarendon Press.
 
 [^quine-1960]: Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: The MIT Press.
 
-[^quine-1953]: –––, 1953, “Three Grades of Modal Involvement”, *Proceedings of the XI<sup>th</sup> International Congress of Philosophy*, 14, Amsterdam, North Holland Publishing Company, pp. 65–81.
+[^quine-1953]: &ndash;&ndash;&ndash;, 1953, &ldquo;Three Grades of Modal Involvement&rdquo;, *Proceedings of the XI^{th} International Congress of Philosophy*, 14, Amsterdam, North Holland Publishing Company, pp. 65&ndash;81.
 
-[^quine-1986]: –––, 1986, *Philosophy of Logic*, second edition, Cambridge, MA: Harvard University Press.
+[^quine-1986]: &ndash;&ndash;&ndash;, 1986, *Philosophy of Logic*, second edition, Cambridge, MA: Harvard University Press.
 
-[^quine-1986-2]: –––, 1986, *Philosophy of Logic*, second edition, Englewood Cliffs: Prentice-Hall.
+[^quine-1986-2]: &ndash;&ndash;&ndash;, 1986, *Philosophy of Logic*, second edition, Englewood Cliffs: Prentice-Hall.
 
 [^read-1988]: Read, Stephen, 1988, *Relevant Logic*, Oxford: Oxford University Press.
 
-[^resnik-1996]: Resnik, Michael, 1996, “Ought There to be But One True Logic”, in *Logic and Reality: Essays on the Legacy of Arthur Prior*, J. Copeland (ed.), Oxford: Oxford University Press, pp. 489–517.
+[^resnik-1996]: Resnik, Michael, 1996, &ldquo;Ought There to be But One True Logic&rdquo;, in *Logic and Reality: Essays on the Legacy of Arthur Prior*, J. Copeland (ed.), Oxford: Oxford University Press, pp. 489&ndash;517.
 
-[^ripley-2013]: Ripley, Ellie, 2013, “Paradoxes and Failures of Cut”, *Australasian Journal of Philosophy*, 91(1): 139–164.
+[^ripley-2013]: Ripley, Ellie, 2013, &ldquo;Paradoxes and Failures of Cut&rdquo;, *Australasian Journal of Philosophy*, 91(1): 139&ndash;164.
 
-[^rosenblatt-2020]: Rosenblatt, Lucas, 2020, “Classical Recapture and Maximality”, *Philosophical Studies*, 178(6): 1951–1970.
+[^rosenblatt-2020]: Rosenblatt, Lucas, 2020, &ldquo;Classical Recapture and Maximality&rdquo;, *Philosophical Studies*, 178(6): 1951&ndash;1970.
 
 [^rumfitt-2015]: Rumfitt, Ian, 2015, *The Boundary Stones of Thought: An Essay in the Philosophy of Logic*, Oxford: Oxford University Press.
 
 [^shapiro-1991]: Shapiro, Stewart, 1991, *Foundations without Foundationalism*, Oxford: Clarendon Press.
 
-[^shapiro-1996]: –––, 1996, *The Limits of Logic: Second-order Logic and the Skolem Paradox*, *The International Research Library of Philosophy*, Dartmouth Publishing Company, 1996. (An anthology containing many of the significant later papers on the Skolem paradox.)
+[^shapiro-1996]: &ndash;&ndash;&ndash;, 1996, *The Limits of Logic: Second-order Logic and the Skolem Paradox*, *The International Research Library of Philosophy*, Dartmouth Publishing Company, 1996. (An anthology containing many of the significant later papers on the Skolem paradox.)
 
-[^shapiro-1998]: –––, 1998, “Logical Consequence: Models and Modality”, in *The Philosophy of Mathematics Today*, M. Schirn (ed.), Oxford: Oxford University Press, pp. 131–156.
+[^shapiro-1998]: &ndash;&ndash;&ndash;, 1998, &ldquo;Logical Consequence: Models and Modality&rdquo;, in *The Philosophy of Mathematics Today*, M. Schirn (ed.), Oxford: Oxford University Press, pp. 131&ndash;156.
 
-[^shapiro-2014]: –––, 2014, *Varieties of Logic*, Oxford: Oxford University Press.
+[^shapiro-2014]: &ndash;&ndash;&ndash;, 2014, *Varieties of Logic*, Oxford: Oxford University Press.
 
 [^tennant-1997]: Tennant, Neil, 1997, *The Taming of the True*, Oxford: Clarendon Press.
 
-[^van-1967]: Van Heijenoort, Jean, 1967, *From Frege to Gödel*, Cambridge, MA: Harvard University Press. An anthology containing many of the major historical papers on mathematical logic in the early decades of the twentieth century.
+[^van-1967]: Van Heijenoort, Jean, 1967, *From Frege to G&ouml;del*, Cambridge, MA: Harvard University Press. An anthology containing many of the major historical papers on mathematical logic in the early decades of the twentieth century.
 
 [^wang-1974]: Wang, Hao, 1974, *From Mathematics to Philosophy*, London: Routledge and Kegan Paul.
 
-[^williamson-2017]: Williamson, Timothy, 2017, “Semantic Paradoxes and Abductive Methodology”, in *Reflections on the liar*, Bradley Armour-Garb (ed.), Oxford: Oxford University Press, pp. 325–346.
+[^williamson-2017]: Williamson, Timothy, 2017, &ldquo;Semantic Paradoxes and Abductive Methodology&rdquo;, in *Reflections on the liar*, Bradley Armour-Garb (ed.), Oxford: Oxford University Press, pp. 325&ndash;346.
 
 [^boolos-2007]: Boolos, George S., John P. Burgess, and Richard C. Jeffrey, 2007, *Computability and Logic*, fifth edition, Cambridge, England: Cambridge University Press. Elementary and intermediate level.
 
