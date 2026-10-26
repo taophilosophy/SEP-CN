@@ -96,3 +96,15 @@
 行为: 对 baseline/entries.json 登记的每件抓取物复算 SHA-256 并核对文件存在；
       宪法门 I 的机器实现——task_ops clear 的强制 gate 依赖本工具。
 ```
+
+## yuanwen.py — 原文 Markdown 镜像（演示轮 2 新增）
+
+```text
+用法: python tools/yuanwen.py <slug>... | --all-baselined [--summary]
+输出: {"converted": [{slug, md, cite_markers, cite_defs, supplements, notes}],
+       "failures": [...], "summary_links_rewritten": N}
+行为: en/<slug>/index.html（不可变快照）→ yuanwen/<字母>/<slug>.md 确定性转换；
+      脚注/补充材料/图片镜像；参考文献转引用注释（[^key]）；
+      --summary 重建 yuanwen/SUMMARY.md（已转换条目改链 yuanwen 路径）；
+      转换登记（md 哈希+源哈希）写入 baseline/entries.json。
+```

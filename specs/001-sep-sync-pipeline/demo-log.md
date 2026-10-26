@@ -45,3 +45,26 @@
 - [ ] `task_ops advance alcmaeon --step s2`（二校·语言）继续六道
 - [ ] T020-T027：detect_updates.py 与 compare_versions.py 实现（US2/US3）
 - [ ] 战役批 a（T035）正式开批
+
+
+---
+
+# 演示轮 2 日志：yuanwen 原文 Markdown 镜像（2026-10-27）
+
+**用户裁定**: 在 yuanwen/ 下建结构相同的原文项目，转为 Markdown 避免反复抓取；参考文献转为引用注释。
+
+## 交付
+
+- `tools/yuanwen.py`：en/ 不可变快照 → yuanwen/<字母>/<slug>.md 确定性转换（含 notes 脚注、补充材料互链、图片相对引用、yuanwen/SUMMARY.md 镜像）。
+- 引用注释：文内“作者-年份”组后 [^key] 标记 + 文末 [^key]: 定义。实测 8 词条：abduction 55/124、alcmaeon 82/81、bell 93/217、bayes 25+16 脚注……
+- 8 词条全部转换，0 失败；yuanwen/SUMMARY.md 改写 8 链接；确定性验证（alcmaeon 两次转换同哈希）。
+- `/yuanwen/` 入 .gitignore（本地工作底稿；登记入 baseline 保证可复算）。
+
+## 发现与纠偏
+
+1. **stdout 双重包装自毁**：调试脚本先包 TextIOWrapper，tools.common 再包一次→旧包装器被 GC 时关闭底层 buffer（"I/O operation on closed file"）。common 已加编码守卫只包一次。
+2. **_find_close 从开标签起点扫描**：开标签自身匹配深度+1 永不归零→整篇吞进一个块。改为从 m.end() 起。
+3. **zh_doc 匹配三级演进**：token 回退误中别名词条（i/…-see-abduction.md）→ 加首字母目录约束+'-see-' 排除；集群目录链接（s/ji-he-lun-…/README.md）basename 只剩 README → 改查整条路径；标题词匹配被集群子词条抢中 → "路径含最长标题词"优先。最终 8/8 正确（对照 SUMMARY 原文逐一验证）。
+4. **文献作者 token 正则漏尾点**：`[A-ZÀ-ÿ][\w…]*` 把 "G." 捕成 "G"，缩写首字母漏进 surnames，acronym 变 KGSRJESM，KRS 1983 永不命中 → token 类补 `\.?` + fullmatch 过滤。
+5. **引用注释已知局限**（登记不修）：嵌套括号的引用组不被 GROUP_RE 覆盖；同作者跨分号的年份省略式（"Zhmud 2012a, 122; 2012b"）不给 2012b 挂标；SEP 自身漏列的文献（如正文引 Burkert 1972 而文献表无此条）无 key 可挂。
+6. **zh_doc 入基线**：fetch_entry 抓取时即登记 zh_doc（此前只在建任务时算，SUMMARY 镜像无映射可用）。

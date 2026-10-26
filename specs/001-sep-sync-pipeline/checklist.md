@@ -56,6 +56,11 @@
 - [ ] Check 39: 清空重译前的旧译文可从 git 历史恢复（任取一个 done 文档 `git log --follow` 能找到 clear 前的最后版本）（来源：FR-013、宪法附加约束、T032）
 - [ ] Check 40: baseline/entries.json、tasks/*.json 均已入版本库（git ls-files 可见），en/ 下无任何文件被 git 跟踪（来源：FR-014、存储裁定、T016）
 
+- [ ] Check 41: `python tools/yuanwen.py <slug>` 对同一 en/<slug>/index.html 连跑两次，yuanwen/<字母>/<slug>.md 的 SHA-256 逐字节一致（确定性；实测 alcmaeon=41757b12…×2）（来源：FR-019、T047）
+- [ ] Check 42: yuanwen/a/alcmaeon.md 中 `[^` 脚注标记数 ≥80 且 `[^<key>]:` 定义数=81=文献条目数；文内可见形如 `(Mansfeld 1975; cf. Perilli 2001 for a critique)[^mansfeld-1975][^perilli-2001]` 的引用注释（来源：FR-020、T048）
+- [ ] Check 43: yuanwen/s/set-theory.md 内数学定界符 `\(` 出现次数 = 源 HTML 次数−TOC 跳过数（实测 760/761，差 1 为 TOC）；yuanwen/b/bell-theorem.md 的图片引用为相对路径 `../../en/bell-theorem/imageN.jpg` 且磁盘存在（来源：FR-019/020）
+- [ ] Check 44: baseline/entries.json 每条已转换记录含 yuanwen{md,sha256,source_sha256,converted_at,cite_markers,cite_defs}；`/yuanwen/` 已在 .gitignore（本地工作底稿不入库，登记可复算）（来源：FR-019、存储裁定）
+
 ## 追溯矩阵（FR → Check）
 
 | FR | Check | FR | Check |
@@ -69,3 +74,4 @@
 | FR-007 | 6,32 | FR-016 | 8 |
 | FR-008 | 11 | FR-017 | 7,9,12 |
 | FR-009 | 12 | FR-018 | 7,20 |
+| FR-019 | 41,43,44 | FR-020 | 42,43 |

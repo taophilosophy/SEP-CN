@@ -72,6 +72,10 @@ description: "Task list for SEP 同步管线 feature"
 - [x] T015 [US1] 抓取 5 样本词条（set-theory logic-classical bayes-theorem bell-theorem quine），stdout JSON 存 `script/tmp/demo-us1.json` 作凭证
 - [x] T016 [US1] 运行 `baseline_audit.py` 全通过；提交基线（"建立词条基线：首批 5 样本"）与流程文档（"SEP 同步管线规格与产物"）——分开提交
 
+- [x] T047 [P] [US1] 实现 `tools/yuanwen.py`：en/ 原始 HTML → yuanwen/<字母>/<slug>.md 确定性转换（块切分保原始片段、行内 HTML→Markdown、数学与 sub/sup 占位保护、TOC 跳过、图片相对引用 ../../en/、notes.html→[^note-n] 脚注、补充材料→<slug>.<x>.md 互链、yuanwen/SUMMARY.md 镜像、登记入 baseline）（演示轮 2，用户 2026-10-27 裁定）
+- [x] [US1] T048 [US1] 引用注释转换：文献条目→[^key] 脚注定义（首作者姓-年份键，缩写首字母过滤、— see 排除、continuation 条目继承前条作者），文内引用组追加标记（演示轮 2 修订：token 正则须带尾点过滤，否则 KRS 类 acronym 被污染）
+- [x] T049 [US1] zh_doc 三级匹配器入 common.find_zh_doc（路径后缀→首字母目录整路径子串+别名排除→英文标题全词+路径含最长词优先），fetch_entry 抓取即登记、task_ops/yuanwen 统一接入
+
 **Checkpoint**: SC-001 达成——US1 独立可用
 
 ## Phase 4: User Story 5 — 演示轮 1 与流程纠偏 (Priority: P1)
