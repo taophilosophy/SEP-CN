@@ -107,6 +107,10 @@ def inline_to_md(html, slug=None):
         return ''
     s = re.sub(r'<!--.*?-->', '', html, flags=re.S)
     s = NOTE_REF_RE.sub(lambda m: '[^note-%s]' % m.group(1), s)
+    # 用户 2026-10-27 指令：禁止 HTML 标签，保持洁净——sub/sup 一律转纯文本记法
+    # （下标 _{x}、上标 ^{x}），不再保留 <sub>/<sup> 标签
+    s = re.sub(r'<sub>(.*?)</sub>', lambda m: '_{%s}' % m.group(1), s, flags=re.S | re.I)
+    s = re.sub(r'<sup>(.*?)</sup>', lambda m: '^{%s}' % m.group(1), s, flags=re.S | re.I)
     store = []
 
     def _stash(m):
@@ -114,7 +118,6 @@ def inline_to_md(html, slug=None):
         return '\x00%d\x00' % (len(store) - 1)
 
     s = MATH_RE.sub(_stash, s)
-    s = SUP_KEEP_RE.sub(_stash, s)
 
     def _link(m):
         href = (m.group('href') or '').strip()
@@ -211,6 +214,7 @@ class Ctx:
         self.slug = slug
         self.out = []
         self.in_bib = False
+        self.bib_lvl = 0
         self.bib_entries = []
 
     def emit(self, *lines):
@@ -227,15 +231,23 @@ def render_blocks(blocks, ctx):
             hashes = '#' * {'h2': 2, 'h3': 3, 'h4': 4}[t]
             if re.fullmatch(r'(?:references|bibliography)', text, re.I):
                 ctx.in_bib = True
+                ctx.bib_lvl = {'h2': 2, 'h3': 3, 'h4': 4}[t]
                 ctx.emit('', '%s References（引用注释）' % hashes, '',
                          '> 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，'
                          '完整条目见本文末脚注定义。')
             else:
+                # 文献节后的任何同级/更高级标题都终止文献节
+                # （演示轮 2 复核：in_bib 永不复位曾吞掉致谢/相关词条等尾段）
+                if not (ctx.in_bib and {'h2': 2, 'h3': 3, 'h4': 4}[t] > ctx.bib_lvl):
+                    ctx.in_bib = False
                 ctx.emit('', '%s %s' % (hashes, text))
         elif t == 'pubinfo':
             text = inline_to_md(inner, ctx.slug)
             if text:
                 ctx.emit('*%s*' % text)
+        elif t == 'preamble':
+            # div#preamble 内是正文引言段落（演示轮 2 复核：v2 曾整段丢弃）
+            render_blocks(extract_blocks_raw(inner), ctx)
         elif t == 'p':
             text = inline_to_md(inner, ctx.slug)
             if not text:
@@ -285,8 +297,8 @@ def render_blocks(blocks, ctx):
             code = unescape(re.sub(r'<[^>]+>', '', inner))
             ctx.emit('', '```\n%s\n```' % code.strip('\n'))
         elif t == 'bib-container':
+            # 容器内的 h2 Bibliography 自行置位 in_bib；无需强制
             render_blocks(extract_blocks_raw(inner), ctx)
-            ctx.in_bib = True
 
 
 # ------------------------------------------------------------ citations -----

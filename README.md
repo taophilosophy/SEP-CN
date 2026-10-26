@@ -71,6 +71,14 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 >
 >—— 联合主编：Edward N. Zalta 和 Uri Nodelman
 
+## 项目治理
+
+* [规则目录](rules/README.md) —— 仓库结构、编写体例、术语、翻译流程、CI 与软件工程治理
+* [任务目录](tasks/README.md) —— 文档任务协议与三审三校状态机
+* [工具目录](tools/README.md) —— 同步管线与目录校验脚本
+* [工程规格](specs/001-sep-sync-pipeline/spec.md) —— 抓取、更新、比较、翻译管线
+* [项目宪法](.specify/memory/constitution.md) —— 六项核心原则
+
 ## 许可证
 
 本项目使用 BSD-2-Clause 许可证授权。
