@@ -222,7 +222,10 @@ export default defineConfig({
   vite: {
     server: {
       watch: {
-        // 仓库里与站点无关的大目录不监听，避免网络盘上 chokidar 崩溃
+        // 本仓库所在盘的 ReadDirectoryChangesW 会报 UNKNOWN 错误，改用轮询监听
+        usePolling: true,
+        interval: 600,
+        // 仓库里与站点无关的大目录不监听，降低轮询开销
         ignored: [
           '**/.git/**',
           '**/en/**',
