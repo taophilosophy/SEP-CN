@@ -1,1 +1,1 @@
-# 量子力学 quantum mechanics (Jenann Ismael
+# 量子力学 quantum mechanics (Jenann Ismael)
