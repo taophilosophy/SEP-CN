@@ -48,7 +48,12 @@
 | institutional neutrality | 机构中立 | 语料回收（academic-freedom） | 2026-10-27 |
 | intuitionism | 直觉主义 | 语料回收 | 2026-10-27 |
 | isonomia | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 2026-10-26 |
+| ius ubique docendi | 普遍教学权 | 语料回收（academic-freedom） | 2026-10-27 |
 | kenon | 空腔 | alcmaeon | 2026-10-26 |
+| Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 2026-10-27 |
+| Lernfreiheit | 学习自由 | 语料回收（academic-freedom） | 2026-10-27 |
+| Libertas philosophandi | 哲学思考自由 | 语料回收（academic-freedom） | 2026-10-27 |
+| Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 2026-10-27 |
 | mechanism | 机械论 | 语料回收 | 2026-10-27 |
 | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 2026-10-26 |
 | natural language | 自然语言 | 语料回收（logic-classical） | 2026-10-27 |

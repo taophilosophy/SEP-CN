@@ -305,6 +305,7 @@
 |Intuitionistic|直觉主义||
 |Isaac Albalag|以撒·阿尔巴拉格||
 |isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
+|ius ubique docendi|普遍教学权|拉丁语“随处执教之权”，中世纪大学的教学特许权|
 |James Beattie|詹姆斯·比蒂||
 |James Burnett|詹姆斯·伯内特||
 |James Dunbar|詹姆斯·邓巴||
@@ -334,8 +335,11 @@
 |Large Cardinals|大基数||
 |Latin America|拉丁美洲||
 |Latin West|拉丁西方|中世纪语境通行译法；旧译“西方拉丁世界”拗口，废弃|
+|Lehrfreiheit|教学自由|德语：教师的讲学与教学自由；德式学术自由传统两大支柱之一，亦译“讲学自由”；首次出现宜括注原文|
 |Leo Strauss|列奥·施特劳斯||
+|Lernfreiheit|学习自由|德语：学生的选课与学习自由；德式学术自由传统与 Lehrfreiheit 相对；首次出现宜括注原文|
 |Leucippus|留基伯||
+|Libertas philosophandi|哲学思考自由|拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
 |logical atomism|逻辑原子主义||
 |Long March|长征||
 |Lord Keeper of the Seal|掌玺大臣||
@@ -344,6 +348,7 @@
 |Ludwig Boltzmann|路德维希·玻尔兹曼||
 |Ludwig Wittgenstein|路德维希·维特根斯坦||
 |Luitzen Egbertus Jan Brouwer|勒伊岑·艾赫贝特斯·扬·布劳威尔||
+|Magna Charta Universitatum|《大学大宪章》|1988 年博洛尼亚签署的大学基本原则宣言|
 |Many-Worlds Interpretation|多世界诠释||
 |Margarete Susman|玛格丽特·苏斯曼||
 |Max Stirner|麦克斯·施蒂纳||
