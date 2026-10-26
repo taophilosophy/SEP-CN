@@ -58,6 +58,7 @@
 |Anicius Manlius Severinus Boethius|亚尼修·玛理乌斯·塞味利诺·波爱修斯||
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
+|antirealism|反实在论|与 realism 实在论相对|
 |aphanes|不可知觉的东西|阿尔克迈翁（alcmaeon）条术语|
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
@@ -82,6 +83,7 @@
 |basing relation|基础关系||
 |Baudrillard|鲍德里亚||
 |Bauer|鲍威尔||
+|bayes rule|贝叶斯规则|亦译“贝叶斯法则”，与 Bayes' Theorem 贝叶斯定理同族|
 |Bayes’ Theorem|贝叶斯定理||
 |bayesian confirmation theory|贝叶斯确证理论|confirmation 亦译“确认”，中文学界两译并行|
 |Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯确证理论对应用|
@@ -91,6 +93,7 @@
 |Being and Nothingness|存在与虚无||
 |belief merging|信念合并||
 |Bell inequalities|贝尔不等式|与 Bell's Theorem 贝尔定理并列|
+|bell inequality|贝尔不等式|Bell inequalities 的单数形式，语料高频|
 |Bell’s Theorem|贝尔定理||
 |Bell theorem|贝尔定理|Bell's Theorem 的裸写变体，语料高频（62 次）|
 |Benjamin|本雅明||
@@ -158,8 +161,11 @@
 |Champeaux|尚波||
 |Charles Leslie Stevenson|查尔斯·莱斯利·史蒂文森||
 |chinese philosophy|中国哲学||
+|Christian Thomasius|克里斯蒂安·托马修斯|1655—1728，德国启蒙法学家与哲学家，学术自由先驱|
+|Christian Wolff|克里斯蒂安·沃尔夫|1679—1754，德国理性主义哲学家，莱布尼茨—沃尔夫学派|
 |CHSH inequality|CHSH 不等式|贝尔不等式的 Clauser–Horne–Shimony–Holt 形式|
 |City of the Sun|太阳城||
+|classical first-order logic|经典一阶逻辑||
 |classical logic|经典逻辑|与 non-classical logics 非经典逻辑相对；勿译“古典逻辑”|
 |cognitivism|认知主义||
 |Cohen|科恩|泛指姓；Hermann Cohen（赫尔曼·科恩，马堡新康德主义）见专条，余者以正文语境为准|
@@ -198,6 +204,7 @@
 |Dedekind|戴德金||
 |deflationism|紧缩论|真理紧缩论；亦译“收缩论”|
 |Democritus|德谟克利特||
+|denumerably infinite|可数无穷|亦译“可数无限”；集合论语境|
 |desert|应得||
 |Determinacy|决定性||
 |determinism|决定论|勿译“宿命论”（fatalism）|
@@ -208,10 +215,13 @@
 |Diogenes Laertius|第欧根尼·拉尔修||
 |Discovery|发现||
 |Djamila Boupacha|贾米拉·布帕查|波伏瓦与哈里米合著之书及其人；中文媒体亦作“德贾米拉·波巴查”|
+|dogmatism|独断论|康德语境对未经批判的独断形而上学的称谓|
 |Donald Cary Williams|唐纳德·卡里·威廉姆斯||
 |doxographical tradition / doxography|学说史传统；学说汇编|阿尔克迈翁条术语|
+|dualism|二元论||
 |Dugald Stewart|杜格尔·斯图尔特||
 |Dynamic Semantics|动态语义||
+|early modern|近代早期|哲学史分期用语，约指 16—18 世纪欧洲|
 |Edmund Burke|埃德蒙·伯克||
 |Einstein-Podolsky-Rosen|爱因斯坦-波多尔斯基-罗森||
 |Elias|埃利亚斯||
@@ -227,6 +237,7 @@
 |Epistemology of Visual Thinking in Mathematics|数学中的视觉思维认识论||
 |Ernst Bloch|恩斯特·布洛赫||
 |Ernst Cassirer|恩斯特·卡西尔||
+|Essentialism|本质主义||
 |Ethics|伦理学|作学科名与书名（如斯宾诺莎《伦理学》）；《模糊性的道德》（The Ethics of Ambiguity）随已出版书名译“道德”|
 |Ethics of Ambiguity|模糊性的道德||
 |ethics of belief|信念伦理学||
@@ -240,10 +251,12 @@
 |Fall|堕落||
 |Falsafa|哲学|阿拉伯语借词（源自希腊 philosophia），指伊斯兰“哲学”传统，与 Kalām（伊斯兰教义学）相对；首次出现可括注原文|
 |Farabian|法拉比||
+|fatalism|宿命论|与 determinism 决定论相区别，勿混|
 |feminism|女性主义||
 |fictionalism|虚构主义|数学哲学与话语理论语境|
 |Formal Approaches|形式化方法||
 |formal language|形式语言||
+|formalism|形式主义|数学基础三派之一（与直觉主义、逻辑主义并列）|
 |Francis Bacon|弗朗西斯·培根||
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
 |Francis Hutcheson|弗兰西斯·哈奇森||
@@ -260,6 +273,7 @@
 |George Boole|乔治·布尔||
 |George Campbell|乔治·坎贝尔||
 |George Turnbull|乔治·特恩布尔||
+|german philosophy|德国哲学||
 |Gershom Carmichael|格肖姆·卡迈克尔||
 |Giordano Bruno|乔尔丹诺·布鲁诺||
 |Girolamo Cardano|吉罗拉莫·卡尔达诺||
@@ -270,6 +284,7 @@
 |Grouchy|格鲁希||
 |haecceity|此性|司各脱 haecceitas，字面义“此性”（thisness）；亦译“这个性”|
 |Hans Vaihinger|汉斯·费英格||
+|hedonism|快乐主义|伦理学标准译名；日常贬义作“享乐主义”，术语表取中性|
 |Henri Bergson|亨利·柏格森||
 |Henry David Thoreau|亨利·戴维·梭罗||
 |Henry Home|亨利·霍姆||
@@ -290,6 +305,7 @@
 |Ibn Rushd|伊本·鲁世德||
 |Ibn Sina|伊本·西那||
 |Ibn ‘Arabî|伊本·阿拉比||
+|idealism|唯心论；观念论|贝克莱、黑格尔语境通译“唯心论”，德国古典哲学语境亦作“观念论”，全库按语境取一并保持一致|
 |Identity|同一性||
 |identity theory|同一论||
 |Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
@@ -298,14 +314,18 @@
 |independence|独立性||
 |Individuality|个体性||
 |Individuals|个体||
+|induction hypothesis|归纳假设|数学归纳法语境|
 |Inertial Frames|惯性系||
 |Inference to the Best Explanation|最佳解释推理|亦作“最佳说明推理”；abduction 词条核心概念|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
+|instrumentalism|工具主义|科学哲学（杜威、逻辑经验主义之争）与数学哲学语境|
+|intellectualism|理智主义|亦译“智性主义”，与意志主义（voluntarism）相对|
 |Intrinsic|内在||
 |intuitionism|直觉主义|数学基础（布劳威尔）与伦理学两支，按语境分流|
 |Intuitionistic|直觉主义||
+|intuitionistic logic|直觉主义逻辑||
 |Isaac Albalag|以撒·阿尔巴拉格||
 |isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
 |ius ubique docendi|普遍教学权|拉丁语“随处执教之权”，中世纪大学的教学特许权|
@@ -339,9 +359,11 @@
 |Latin America|拉丁美洲||
 |Latin West|拉丁西方|中世纪语境通行译法；旧译“西方拉丁世界”拗口，废弃|
 |Lehrfreiheit|教学自由|德语：教师的讲学与教学自由；德式学术自由传统两大支柱之一，亦译“讲学自由”；首次出现宜括注原文|
+|Leibnizian-Wolffian|莱布尼茨—沃尔夫学派的|德国启蒙主流哲学传统|
 |Leo Strauss|列奥·施特劳斯||
 |Lernfreiheit|学习自由|德语：学生的选课与学习自由；德式学术自由传统与 Lehrfreiheit 相对；首次出现宜括注原文|
 |Leucippus|留基伯||
+|liberalism|自由主义||
 |Libertas philosophandi|哲学思考自由|拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
 |logical atomism|逻辑原子主义||
 |Long March|长征||
@@ -351,9 +373,11 @@
 |Ludwig Boltzmann|路德维希·玻尔兹曼||
 |Ludwig Wittgenstein|路德维希·维特根斯坦||
 |Luitzen Egbertus Jan Brouwer|勒伊岑·艾赫贝特斯·扬·布劳威尔||
+|Lutheranism|路德宗|亦译“信义宗”，德国大学语境|
 |Magna Charta Universitatum|《大学大宪章》|1988 年博洛尼亚签署的大学基本原则宣言|
 |Many-Worlds Interpretation|多世界诠释||
 |Margarete Susman|玛格丽特·苏斯曼||
+|materialism|物质主义；唯物论|形而上学语境译“物质主义”（与 physicalism 物理主义相承），历史语境译“唯物论”|
 |Max Stirner|麦克斯·施蒂纳||
 |mañana paradox|明天悖论||
 |McTaggart|麦克塔格特||
@@ -364,8 +388,10 @@
 |Modal Interpretations|模态解释||
 |modal metaphysics|模态形而上学||
 |monarchia|专权|与 isonomia 相对的独大状态；阿尔克迈翁条裁定|
+|monotheism|一神论||
 |Montague|蒙太古||
 |moral desert|道德应得||
+|moral philosophy|道德哲学||
 |Moral Responsibility|道德责任||
 |Moral Vegetarianism|伦理素食主义||
 |More|莫尔|泛指性简称；Henry More（亨利·莫尔，剑桥柏拉图学派）见专条，Thomas More（托马斯·莫尔）等同姓者以正文语境为准|
@@ -375,6 +401,7 @@
 |Myths|神话|多指柏拉图对话中的神话（Plato’s myths）；旧表“秘所思”系讹译，废弃|
 |Natorp|那托普||
 |natural language|自然语言|与形式语言相对|
+|natural law|自然法|natural law tradition 自然法传统；与自然规律（law of nature）相区别|
 |natural number|自然数|natural numbers 的单数形式，语料高频|
 |natural numbers|自然数||
 |Natural Religion|自然宗教||
@@ -396,10 +423,14 @@
 |observation sentences|观察句|奎因术语，与理论句子（theoretical sentences）相对|
 |Olympiodorus|奥林匹奥多罗斯||
 |ontic structural realism|本体的结构实在论||
+|panentheism|万有在神论|亦译“泛在神论”，介于泛神论与有神论之间|
+|pantheism|泛神论||
+|paradigm|范式|库恩（Kuhn）语境通译|
 |Paradox of Suspense|悬疑悖论||
 |Parmenides|巴门尼德||
 |Paul Natorp|保罗·那托普||
 |Perception|知觉||
+|perfectionism|至善论|政治哲学语境（国家促进善生活的学说）|
 |Peter Abelard|彼得·阿伯拉尔|英语翻译为彼得·阿伯拉尔，法语原词为 Pierre Abelard，即皮埃尔·阿伯拉尔|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
 |Phaedo|斐多篇||
@@ -414,6 +445,7 @@
 |Philosophy of Technology|技术哲学||
 |physicalism|物理主义|心灵哲学；与 materialism 物质主义/唯物论的历史分野见词条|
 |physiologos / physiologoi|论自然者|前苏格拉底自然哲学家之称；阿尔克迈翁条裁定|
+|Pietism|虔敬派|德国路德宗内部敬虔运动，与德国大学史相关|
 |Plague|鼠疫||
 |Plato|柏拉图||
 |Platonism|柏拉图主义||
@@ -425,13 +457,17 @@
 |political philosophy|政治哲学||
 |poroi|通道|阿尔克迈翁条术语（感官通道）|
 |Porphyry|波菲利||
+|positivism|实证主义|孔德传统；勿与 empiricism 经验主义混淆|
 |Post-Newtonian|后牛顿||
+|practical philosophy|实践哲学|康德体系分工（与实践理性相关）|
 |pragmatic|语用（的）；实用（的）|语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”|
 |pragmatism|实用主义|见 Pragmatist 条；勿与 pragmatic（语用的/实用的）混淆|
 |Pragmatist|实用主义者|名词指人；形容词“实用主义的”|
 |predicate letter|谓词字母||
+|prima facie|初步的|拉丁语“乍看之下”；伦理学 prima facie duty 初定义务（罗斯）|
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
 |Progress|进步||
+|projective sets|射影集合|描述集合论语境|
 |Proof-Theoretic|证明论||
 |Properties of Terms|词项属性|proprietates terminorum，中世纪词项逻辑核心理论，含意谓、指代、联结、称呼、扩张、限制等|
 |property|属性/性质||
@@ -450,6 +486,7 @@
 |Quine|蒯因|W. V. O. Quine 通行汉译“蒯因”；现代人名原则保留英文，此为通行例外|
 |Ralp Cudworth|拉尔夫·库德沃斯||
 |Rasâ’il|《论文集》||
+|rationalism|唯理论；理性主义|与经验论对举时传统译“唯理论”；作宽泛立场时译“理性主义”，全库取一并保持一致|
 |Rationality|理性|指规范性能动性时亦译“合理性”（bounded rationality 有限理性）|
 |Razi|拉齐||
 |real numbers|实数||
@@ -490,6 +527,8 @@
 |Self-Locating Beliefs|自我定位信念||
 |Self-Reference|自我指涉||
 |Semantics|语义||
+|sense perception|感官知觉||
+|sentimentalism|情感主义|伦理学：道德判断根源于情感的立场（休谟、亚当·斯密）|
 |Set Theory|集合论||
 |Lord Shaftesbury|沙夫茨伯里勋爵|见 3rd Earl of Shaftesbury、Anthony Ashley Cooper 条|
 |She Came to Stay|女宾|波伏瓦首部小说（L’Invitée），上海译文出版社中译本《女宾》（周以光译）|
@@ -524,6 +563,7 @@
 |Speusippus|斯彪西波||
 |Speusippus of Athens|雅典的斯彪西波||
 |Spinoza|斯宾诺莎||
+|Spinozism|斯宾诺莎主义||
 |square of opposition|逻辑方阵|又称“对当方阵”|
 |St. Petersburg|圣彼得堡||
 |St. Petersburg paradox|圣彼得堡悖论||
@@ -541,7 +581,9 @@
 |Stumpf|斯图姆夫||
 |Sturm|施图尔姆|泛指姓；Johann Christoph Sturm（约翰内斯·克里斯托夫·施图尔姆）见专条|
 |subjective probability|主观概率|与客观概率（objective probability）相对|
+|subjectivism|主观主义||
 |Substance|实体||
+|sufficient reason|充足理由|充足理由原则（principle of sufficient reason），莱布尼茨提出|
 |suniêmi|汇通|指集合感官信息的能力；阿尔克迈翁条裁定|
 |Superdeterminism|超决定论|贝尔定理语境|
 |Supertasks|超级任务||
@@ -660,6 +702,7 @@
 |Windelband|文德尔班||
 |Wisdom|智慧||
 |Wittgenstein|维特根斯坦||
+|Wolffianism|沃尔夫主义|克里斯蒂安·沃尔夫的理性主义学派|
 |Xenophanes|色诺芬尼||
 |Zeno|芝诺||
 |Zermelo|策梅洛||

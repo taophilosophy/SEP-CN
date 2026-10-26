@@ -12,7 +12,23 @@
     ],
     "method": "五路提取：①引语术语 ②斜体书名/作者 ③句中人名序列 ④-ism 词族 ⑤高频概念短语（二元/三元）；与词汇表+登记簿已登记条目求差；出版社/期刊/例句/书目作者对已滤除",
     "usage": "status 三值：published@日期（已经 publish_terms.py 发布进双表）｜held:理由（挂起，随相关词条或下一批次）｜rejected:理由（驳回）。首批 2026-10-27 经 A/B/C 分档裁定发布 37 条",
-    "batch1": "2026-10-27 发布 37 条（manifest script/tmp/batch1.json，A 档直裁 32 + B 档联网核查 5：dialetheism 双面真理论、total evidence 总证据、universal suspension 普遍悬置、common cause principle 共因原则、Quine 蒯因）"
+    "batch1": "2026-10-27 发布 37 条（manifest script/tmp/batch1.json，A 档直裁 32 + B 档联网核查 5：dialetheism 双面真理论、total evidence 总证据、universal suspension 普遍悬置、common cause principle 共因原则、Quine 蒯因）",
+    "batches_2_5": "2026-10-27 递归执行第二至五批：batch2 深挖 23 条（c8357dae）、batch3 academic-freedom 定向 5 条（afc5dd60）、batch4 语境分支 4 条、batch5 深层 -ism 与短语 39 条，共 68 条；manifest 入库于 tasks/manifests/（batch4 为 2026-10-27-batch4.json）",
+    "pool_sweep": {
+      "date": "2026-10-27",
+      "held": ["possibilism", "priorism", "extramural speech", "local causality", "causal locality", "factorizability condition", "observation categoricals", "sentient experience", "buddhist schools", "early buddhist", "intrinsic nature", "political metaphor", "rational love", "wash out", "priors", "prior probabilities", "the inference that makes science", "the best of a bad lot", "argument of the bad lot", "ordinary world", "analytically", "textbook version of abduction", "explanationists", "probable truth", "approximate truth", "likelihood", "Inference to the Worst Explanation", "regimented theory"],
+      "held_reason": "均依赖具体词条翻译语境（bell-theorem、quine、abduction、arcesilaus 等），随对应词条任务裁定",
+      "rejected": ["criticism", "criticisms", "human body", "natural science", "scientific theories", "higher education", "eighteenth century", "human beings", "best explanations", "bad lot", "boyd argument", "friends again", "alcmaeon thought", "old age", "Explanationism", "Mechanisms", "Syllogisms", "proportionism", "generalism", "van fraassen", "Carl Huffman", "Peter Adamson", "John L. Bell", "medieval theories", "available online", "academic tools", "entry preview", "pdf version", "substantive revision", "pointed out", "different ways", "something like", "stanford encyclopedia", "sep society look", "references key", "doi cbo", "left parenthesis", "langle rangle", "set mathbb", "let gamma", "dordrecht kluwer", "chris surprenant eds", "donald alexander downs", "legal perspectives new", "academic speech philosophical", "speech philosophical political", "internet philosophy ontology", "philosophy ontology project", "ontology project inpho", "inpho enhanced bibliography", "Neptune", "varnothing varnothing varnothing", "gamma vdash theta", "gamma vdash phi", "sentence theta", "vdash neg theta", "gamma vdash neg", "cardinal kappa", "gamma vdash psi", "gamma gamma vdash", "forall theta", "set mathbb"],
+      "rejected_reason": "泛词、文献题名、站点导航与 TeX 噪声；现代人名保留英文（体例）",
+      "sweep2": {
+        "date": "2026-10-27",
+        "published": ["early modern", "denumerably infinite", "prima facie", "bayes rule"],
+        "held": ["Cicero Academica"],
+        "held_reason": "西塞罗《学园篇》书名译名无通行定译，随 arcesilaus 词条裁定",
+        "rejected": ["bayesian confirmation", "cause principle", "academic freedom new", "thinkers related", "project inpho enhanced", "large cardinal", "falso quodlibet", "quantum mechanical predictions", "philosophical studies", "$\\amp$", "$\\vee$", "Logic", "metaphysics", "moment", "arbitrary"],
+        "rejected_reason": "截断碎片（bayesian confirmation/cause principle/falso quodlibet 见已发布全称条）、站点导航、期刊名、TeX 残渣、泛词引语；large cardinal 为 Large Cardinals 条之单数别名"
+      }
+    }
   },
   "candidates": [
     {"en": "naturalism", "freq": 36, "type": "ism", "suggest": "自然主义", "status": "published@2026-10-27"},
