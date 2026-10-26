@@ -15,7 +15,7 @@
 |Abner of Burgos|布尔戈斯的阿布内尔||
 |Absolute idealism|绝对唯心论|黑格尔自称其体系为“绝对唯心论”；中文文献亦作“绝对唯心主义”“绝对观念论”。19 世纪英美的后继思潮另称“新黑格尔主义”（Neo-Hegelianism），二者勿混|
 |academic freedom|学术自由|新词条 academic-freedom 核心术语|
-|Academic Skepticism|学园怀疑主义||
+|Academic Skepticism|学园怀疑主义|Skepticism 通译“怀疑论”，本条亦作“怀疑主义”，两译并存|
 |accommodation|顺应；调节|按语境取义：科学哲学指理论迁就既有数据（与 prediction“预测”相对），视觉生理学译“调节”，语用学译“顺应”|
 |Account|解释；说明；原理|按语境取义，give an account of 译“对……给出说明/解释”；accounts 同|
 |Action at a Distance|超距作用||
@@ -96,7 +96,7 @@
 |bell inequality|贝尔不等式|Bell inequalities 的单数形式，语料高频|
 |Bell’s Theorem|贝尔定理||
 |Bell theorem|贝尔定理|Bell's Theorem 的裸写变体，语料高频（62 次）|
-|Benjamin|本雅明||
+|Benjamin|本雅明|指瓦尔特·本雅明（Walter Benjamin）；Benjamin Whichcote（本杰明·惠科特）为另一人，勿混|
 |Benjamin Whichcote|本杰明·惠科特||
 |Bentham|边沁||
 |Bergson|柏格森||
@@ -188,7 +188,7 @@
 |Content Externalism|内容外在主义||
 |contextualism|语境主义|知识论语境；亦译“情境主义”，按语境分流|
 |continuum|连续体||
-|Continuum Hypothesis|连续统假设||
+|Continuum Hypothesis|连续统假设|“连续统”为本术语固定搭配；泛指时 continuum 译“连续体”，见 continuum 条|
 |contractarianism|自利契约论|霍布斯式传统，以互利自利为基础；亦译“契约论”，与 contractualism 相对|
 |contractualism|非自利契约论|康德—斯坎伦式传统，以向每个人证成为基础；亦译“契约主义”|
 |Conventionality|约定性/约定性的||
@@ -307,7 +307,7 @@
 |Ibn ‘Arabî|伊本·阿拉比||
 |idealism|唯心论；观念论|贝克莱、黑格尔语境通译“唯心论”，德国古典哲学语境亦作“观念论”，全库按语境取一并保持一致|
 |Identity|同一性||
-|identity theory|同一论||
+|identity theory|同一论|心脑同一论语境；“同一性”译法见 Identity 条|
 |Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
 |implicit bias|内隐偏见||
 |Incommensurable|不可通约性||
@@ -484,7 +484,7 @@
 |quantum theory|量子理论||
 |Quantum-Bayesian|量子贝叶斯模型|即 QBism，亦译“量子贝叶斯主义”|
 |Quine|蒯因|W. V. O. Quine 通行汉译“蒯因”；现代人名原则保留英文，此为通行例外|
-|Ralp Cudworth|拉尔夫·库德沃斯||
+|Ralph Cudworth|拉尔夫·库德沃斯|剑桥柏拉图学派；旧键 Ralp 系拼写笔误|
 |Rasâ’il|《论文集》||
 |rationalism|唯理论；理性主义|与经验论对举时传统译“唯理论”；作宽泛立场时译“理性主义”，全库取一并保持一致|
 |Rationality|理性|指规范性能动性时亦译“合理性”（bounded rationality 有限理性）|
@@ -612,7 +612,7 @@
 |Theaetetus|泰阿泰德||
 |Theological Voluntarism|神学意志主义||
 |Theological-Political Treatise|神学政治论||
-|Theophrastus|泰奥弗拉斯特|亦译“忒俄弗拉斯托斯”“提奥弗拉斯特”|
+|Theophrastus|特奥弗拉斯托斯|亦译“泰奥弗拉斯特”“忒俄弗拉斯托斯”“提奥弗拉斯特”（2026-10-27 按登记册对齐）|
 |Theoretical Terms|理论术语||
 |Theory|理论||
 |theory of judgement|判断理论||
