@@ -181,3 +181,4 @@
 * 仓库现有 CI 工作流（sync-headers、mulu、markdownlint、md-padding、AutoCorrect 等）继续生效，本流程产物不得与之冲突。
 * AGENTS.md 的归属修正由其他会话处理，本 feature 不触碰 AGENTS.md 与 .gitignore 残留。
 * `.specify/memory/constitution.md` 目前为空白模板；本 feature 顺带以零信任与软件工程原则将其填充为正式项目宪法。
+* 用户已于 2026-10-27 裁决目录重建（ADR-0005）：中文译文按 a–z 文件夹平铺放置 .md（SEP slug 命名），英文原文保留在 yuanwen/ 本地库且结构与中文侧一模一样（`yuanwen/<letter>/<slug>.md` 逐字符镜像）；别名（标题含 `— see`）与递归自指条目不列入；本轮只建空目录与仅含一行 H1 的 .md，不覆盖既有内容；先同步规则再同步目录，英文侧先行，中文侧（含 SUMMARY.md/mu-lu-s.md 路径改写）待英文侧核验后另行执行；slug 推导不确定者记 needs_review 人工裁决，不静默猜测。
