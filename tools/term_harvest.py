@@ -28,6 +28,8 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
     except (AttributeError, ValueError):
         pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
 CORPUS = os.path.join(ROOT, 'yuanwen')
 POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
 CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
@@ -49,15 +51,28 @@ stanford encyclopedia philosophy press stanfordedu entry preview pdf version
 substantive revision original publication academic tools friends pdfs Sep
 sep society look references key doi isbn issn eds ed trans pp vol cited
 available online internet philosophy ontology project inpho enhanced
-bibliography google scholar crossref wikipedia wikimedia'''.split())
+bibliography google scholar crossref wikipedia wikimedia url http https www
+edu archives acprof oso doi langle rangle begin end align varnothing mathbb
+vdash forall exists frac sqrt textbf subsection appendix preprint scholar
+oxford cambridge routledge princeton chicago dordrecht kluwer springer brill
+blackwell clarendon wiley elsevier hackett university press handbook companion
+edition translated translation issn furthermore moreover however therefore
+hence thus namely perhaps possibly importantly consider suppose see section
+criticism criticisms mechanisms different ways kinds sorts thing things
+united'''.split())
 
-PHRASE_MIN_FREQ = 5
+PHRASE_MIN_FREQ = 20   # 全库阈值；低频尾部留存 harvest-cache（本地），随词条翻译时核定
 OTHER_MIN_FREQ = 2
+MIN_FREQ = {'phrase': PHRASE_MIN_FREQ, 'ism': OTHER_MIN_FREQ,
+            'italic': OTHER_MIN_FREQ, 'quoted': 3, 'person': 5}
 WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]+")
 QUOTED_RE = re.compile(r'\u201c([^\u201c\u201d]{2,80})\u201d')
 ITALIC_RE = re.compile(r'\*([^*\n]{2,80})\*')
 ISM_RE = re.compile(r"\b([A-Za-z][A-Za-z'\-]{4,}isms?)\b", re.I)
-ISM_STOP = {'organism', 'organisms'}  # 假词干（term-candidates pool_sweep 先例）
+ISM_STOP = {'organism', 'organisms', 'criticism', 'criticisms', 'mechanisms',
+            'mechanism', 'syllogism', 'syllogisms', 'witticism', 'witticisms',
+            'anachronism', 'anachronisms', 'neologism', 'neologisms',
+            'paradoxism'}  # 假词干/泛词（term-candidates pool_sweep 先例扩展）
 CAP_PAIR_RE = re.compile(r'\b([A-Z][a-z]{2,})\s+([A-Z][a-z]{2,})\b')
 
 
@@ -88,6 +103,10 @@ def extract_slug(path):
     """单篇五路提取 → Counter(键 → 频次) 与原始形、类型映射。"""
     text = open(path, encoding='utf-8').read()
     text = re.sub(r'```.*?```', ' ', text, flags=re.S)  # 代码块剔除
+    # 尾部站点节裁剪：参考文献/学术工具/相关条目（书目作者对与导航噪声主源）
+    text = re.split(r'\n## (?:References|Bibliography|Academic Tools|'
+                    r'Other Internet Resources|Related Entries)[^\n]*\n',
+                    text)[0]
     body = '\n'.join(l for l in text.split('\n')
                      if not l.startswith(('#', '>', '|', '!')))
     counter = Counter()
@@ -230,11 +249,12 @@ def main(argv=None):
             run_forms.setdefault(key, forms.get(key, key))
             run_sources.setdefault(key, []).append(stem)
 
+    fresh = []
     for key, freq in per_run.items():
         if key in registered:
             continue
         typ = run_types.get(key, 'phrase')
-        min_freq = PHRASE_MIN_FREQ if typ == 'phrase' else OTHER_MIN_FREQ
+        min_freq = MIN_FREQ.get(typ, OTHER_MIN_FREQ)
         if freq < min_freq:
             continue
         entry = known.get(key)
@@ -242,8 +262,8 @@ def main(argv=None):
             entry = {'en': run_forms.get(key, key), 'freq': freq, 'type': typ,
                      'suggest': '', 'status': 'new', 'sources': []}
             known[key] = entry
-            pool['candidates'].append(entry)
             new_hits += 1
+        # entry 为旧池对象时 status/suggest/note 字段自动沿用
         entry['freq'] = max(entry.get('freq', 0), freq) if letter else freq
         entry['type'] = typ
         entry['en'] = run_forms.get(key, entry.get('en', key))
@@ -252,6 +272,12 @@ def main(argv=None):
                                       | set(run_sources.get(key, [])))
         else:
             entry['sources'] = run_sources.get(key, [])
+        fresh.append(entry)
+    if letter:
+        # 字母批次：保留池中未被本轮触达的既有条目
+        seen = {id(e) for e in fresh}
+        fresh.extend(c for c in pool.get('candidates', []) if id(c) not in seen)
+    pool['candidates'] = fresh
 
     pool['candidates'].sort(key=lambda c: -c.get('freq', 0))
     pool['meta'] = {
@@ -263,7 +289,8 @@ def main(argv=None):
         'candidates': len(pool['candidates']),
         'new_this_run': new_hits,
         'method': '五路提取：斜体/引语/-ism/高频短语/人名序列；与两登记册+词汇表+候选池求差；'
-                  '短语阈值 %d、其余阈值 %d；单篇缓存于 results/harvest-cache/' % (
+                  '按型阈值 phrase=%d ism/italic=%d quoted=3 person=5；'
+                  '低频尾部留存单篇缓存（results/harvest-cache/，本地）；' % (
                       PHRASE_MIN_FREQ, OTHER_MIN_FREQ),
         'usage': 'status 状态机沿用 term-candidates.json：new→published@日期|held:理由|rejected:理由',
     }

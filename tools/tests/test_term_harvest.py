@@ -18,6 +18,8 @@ DOC1 = '''# Test Entry
 The *quuxological realism* view and the *quuxological realism* again.
 “florbian transfer” is quoted here. Florbian transfer appears often.
 Many scholars defend quuxianism today. Quuxianism matters.
+Zorpia Theoretica holds it. Zorpia Theoretica defends it.
+Zorpia Theoretica rejects rivals.
 
 dialetheism is already registered and must not enter the pool.
 '''
@@ -25,7 +27,7 @@ DOC2 = '''# Test Entry Two
 
 Florbian transfer and florbian transfer once more, plus prose about
 the quaristic sublation mechanism across pages. Zorpia Theoretica wrote it,
-and Zorpia Theoretica revised it.
+and Zorpia Theoretica revised it twice over.
 '''
 
 
