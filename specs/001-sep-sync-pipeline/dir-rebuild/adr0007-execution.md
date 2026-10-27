@@ -61,3 +61,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **镜像覆盖**：快照 main 1872 条，中文/yuanwen 双侧 100%（缺口 74 条为上游增量，见 upstream-increment.json）。
 * **工具对齐（ADR-0008/0009）**：yuanwen.py（`yuanwen/<letter>/<slug>.md` + 点号补充材料 + assets 图片）、common.py find_zh_doc、summary_sync.py（无字母节插入、`<letter>/<slug>.md` 路径）、progress.py（字母目录统计）、rebuild_dir.py（stubs/flatten/toletters/check）；migrate_exec.py 标记废弃。
 * **待上游同步 intake**：74 条快照有而 SUMMARY 无的条目（upstream-increment.json），需按 rules/04 建任务后译名登记、建桩插入，不机器臆造中文标题。
+
+## 全量复核与管线验证轮 — 2026-10-27
+
+* **门禁套件**：check_summary / check_mulu_s / check_doc_size / check_junk / check_terms / check_academic 全部 0 退出（check_academic 修复：kind=glossary-maintenance 任务无 SEP 版本可钉，豁免 version_pin 要求）。
+* **同步 SUMMARY→baseline**：zh_doc 旧拼音路径重同步 704 处（SUMMARY 字母目录路径为准）；72 条 baseline 独有条目属 upstream-increment intake，维持原状；yuanwen.md 记录路径已是正确字母目录形态。
+* **mu-lu-s 分类更新**：补 5 条——亚里士多德子词条 2 条（嵌套）、arabic-islamic-essence（中世纪区）、academic-freedom（社会政治区）、naturalism-mathematics（数学哲学区）；断链 0、标题一致 0、重复 0。
+* **干执行验证（3 轮，礼貌 5 秒）**：fetch_catalog（1808 条目录快照 + diff，无上游变化）→ fetch_entry capitalism（en/capitalism/ 原始 HTML + baseline 登记，Fall 2026 存档版）→ yuanwen.convert_entry（yuanwen/c/capitalism.md 镜像，cite_defs 254）。全链跑通；capitalism zh_doc=None 为正确行为（未入 SUMMARY，译名登记后按 summary_sync apply-add 接入）。
+* **段级变更比较（US-3）**：目前仅有目录级 diff（fetch_catalog），段落级比较工具尚未实现，属 spec 001 后续工程。

@@ -250,6 +250,9 @@ def check_tasks(tasks_dir, hard, warns):
                 continue
             n += 1
             rel = norm_rel(fp, base)
+            if str(rec.get('kind') or '') == 'glossary-maintenance':
+                # 非词条翻译任务（词汇表维护等）无 SEP 版本可钉，不要求 version_pin
+                continue
             missing = [k for k in PIN_FIELDS
                        if not str((rec.get('version_pin') or {}).get(k) or '').strip()]
             if missing:
