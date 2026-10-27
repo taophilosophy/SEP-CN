@@ -134,3 +134,9 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **yuanwen 侧 check_math 全量（1878 词条 / 130,333 公式）**：missing 2 → 逐条核实均为门禁口径误报——上游未闭合定界符使贪婪抽取跨块吞标签生成不可信期望串，而产物实际忠实（nonexistent-objects 注 32 连笔误都逐字保留；typelogical-grammar `*B* ⊗ *A*` 在产物 2 处）。
 * **check_math 判定精度修补**（tools/check_math.py + test_check_math.py 11 项）：新增 `classify_formula`——内容逐字命中→ok；期望串以标记开头且跨块（前缀不可核对）→warning `[unclosed-delimiter]`（登记不拦截）；**标记前内容可核对且缺失仍判 missing 真失真**。修补后全量 missing=0、退出码 0；unbalanced 872 = 871 已知货币 `$` 启发式警告 + 1 unclosed-delimiter 登记。凭证 specs/001-sep-sync-pipeline/check-math-full.json。
 * **结论**：数学公式在 en/ 抓取层零缺件、零损坏（4 处上游笔误如实镜像）；在 yuanwen 转换层 130,333 公式零丢失；离线渲染依赖站点级 MathJax（按契约有意不抓，联网即渲染）。check_all 九门禁全绿。
+
+## 翻译规则补充（用户裁定两条，ADR-0011）— 2026-10-28
+
+* **用户裁定（2026-10-28）**：① SEP 引用的原文若是中文或日语，译文优先使用中文或日语（不以英译回译；无法可靠还原时照录英译并译注）；② 参考文献若是中国文献（无论古代现代）一并译为中文。依 rules/06 程序先立 [ADR-0011](../../rules/adr/0011-引文原文语言与中文文献翻译.md)，再修订 rules/02:42（参考文献照录不译 → 非中文条目照录、中国条目翻译）与 rules/07（节首样文改为「非中文文献从原文照录，不作翻译；中国文献译为中文。」并新增「引文原文语言还原」条款）。
+* **幻觉禁令照旧**：中文条目回译只能依据英文源所载信息与可核实文献，存疑处译注；标点体例仍按 rules/02 弯引号（不因日语原文引入直角引号）。
+* **机检兼容**：check_academic 的 biblio-note 门禁只要求节首说明含「照录」，新样文兼容，无需改门禁。done=0 无存量改译负担，在途与后续词条自本 ADR 起执行。
