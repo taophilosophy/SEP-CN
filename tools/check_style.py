@@ -9,8 +9,9 @@
       no-html（HTML 标签残留）、no-text-fence（```text 语言标注）
       no-asciiart（xref:/link: AsciiDoc 残留）
 豁免: 围栏代码块与行内代码；英文单词内部撇号（don't、O'Brien）不算引号；
-      参考文献节（"参考文献"/"Bibliography" 标题及其下各级子标题）原文照录
-      不改写，豁免引号与中西文空格规则（演示轮 1 修订）。
+      参考文献节（"参考文献"/"Bibliography"/"References（引用注释）" 标题及其下
+      各级子标题）内**非中文行**原文照录不改写，豁免引号与中西文空格规则；
+      含汉字的行（ADR-0011 还原的中国文献条目）按正体例检查。
 退出码: 0 无问题；1 有 issue。
 """
 import json
@@ -34,7 +35,10 @@ CJK_GAP_RE = re.compile(
 EMPH_RE = re.compile(r"\*\*[^*\n]+\*\*")
 AFTER_PUNCT = "，。、；：？！）】》”’…—,.!?)]}"
 HEADING_RE = re.compile(r"^(#{1,6})\s")
-BIB_HEADING_RE = re.compile(r"^#{1,6}\s*(?:参考文献|Bibliography)\s*$", re.I)
+BIB_HEADING_RE = re.compile(
+    r"^#{1,6}\s*(?:参考文献|Bibliography|References（引用注释）)\s*$", re.I)
+# 文献节内含汉字的行是 ADR-0011 还原的中国文献条目，按正体例检查
+CJK_LINE_RE = re.compile(r"[%s]" % HAN)
 
 
 def _segments(line):
@@ -128,8 +132,10 @@ def check_file(path):
                 in_bib, bib_lvl = True, lvl
             elif not (in_bib and lvl > bib_lvl):
                 in_bib = False
-        if in_bib or fence_open:
+        if fence_open:
             continue
+        if in_bib and not CJK_LINE_RE.search(line):
+            continue  # 非中文照录行豁免；含汉字行（还原的中国文献）照常检查
         check_line(path, i, line, issues)
     return issues
 

@@ -18,6 +18,8 @@
     biblio-missing          非存根词条无“参考文献”节
     scholar-tools-missing   非存根词条无“学术工具/如何引用本词条”
     biblio-note-missing     “参考文献”节缺“照录”说明
+    biblio-note-outdated    节首说明为 ADR-0011 前旧措辞（缺“中国文献译为中文”）
+    biblio-chinese-untranslated  文献节疑似中国文献条目仍全罗马化（ADR-0011）
     trans-note              译注未闭合或出现在参考文献节
     baseline-lookup-miss    文档未能在 baseline 定位（pubinfo 不可核）
 退出码: 0 无硬错误；1 有硬错误（--strict 时告警也算）；2 用法错误。
@@ -32,6 +34,9 @@ import sys
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
+
+from tools.biblio_audit import probe_text  # noqa: E402  文献探针（疑似中国文献定位）
 
 EXCLUDE_DIRS = {
     '.git', '.github', '.vitepress', '.specify', '.zcode', 'node_modules',
@@ -57,7 +62,7 @@ RE_EN_DATE = re.compile(r'([A-Za-z]+)\s+(\d{1,2})\s*,\s*(\d{4})')
 RE_FOOTREF = re.compile(r'\[\^([^\]\s]+)\](?!:)')
 RE_FOOTDEF = re.compile(r'^\[\^([^\]\s]+)\]:')
 RE_HEADING = re.compile(r'^(#{1,6})\s+(.*?)\s*#*\s*$')
-BIBLIO_HEADINGS = {'参考文献', 'bibliography', 'secondary literature', '延伸阅读', '文献目录'}
+BIBLIO_HEADINGS = {'参考文献', 'bibliography', 'secondary literature', '延伸阅读', '文献目录', 'references（引用注释）'}
 PIN_FIELDS = ('pubinfo_date', 'archive_edition', 'sha256')
 
 
@@ -142,8 +147,22 @@ def check_doc(rel, ne, warns):
         start, stop = biblio
         in_sec = [line for ln, line in ne
                   if start <= ln and (stop is None or ln < stop)]
-        if not any('照录' in line for line in in_sec):
+        note_lines = [line for line in in_sec if '照录' in line]
+        if not note_lines:
             warns.append('[biblio-note-missing] %s:%d “参考文献”节缺“照录”说明' % (rel, start))
+        elif not any('中国文献' in line for line in note_lines):
+            warns.append('[biblio-note-outdated] %s:%d 节首说明为 ADR-0011 前旧措辞，应含“中国文献译为中文”' % (rel, start))
+        # ADR-0011：疑似中国文献条目仍全罗马化 → 告警（行级定位用 biblio_audit.py）
+        zh_rows = 0
+        for line in in_sec:
+            p = probe_text(line)
+            if p['cjk'] or p['kana']:
+                continue
+            if p['classic_hits'] or p['authorpos_hits'] >= 2:
+                zh_rows += 1
+        if zh_rows:
+            warns.append('[biblio-chinese-untranslated] %s:%d 文献节约 %d 行疑似中国文献仍全罗马化，按 ADR-0011 还原中文'
+                         % (rel, start, zh_rows))
 
     fence = False
     for lineno, line in ne:
