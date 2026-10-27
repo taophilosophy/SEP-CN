@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-10-27 15:15（UTC）
+生成时间：2026-10-27 16:58（UTC）
 
 ## 总览
 
@@ -61,6 +61,6 @@
 
 |slug|类型|状态|最后执行|
 |---|---|---|---|
-|alcmaeon|retranslate|s1_checked|zcode-演示轮1 2026-10-26|
+|alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
 |ci-hui-biao|glossary-maintenance|round1_augmented|zcode-词汇表复核 2026-10-27|
 |term-candidates|None|None| |

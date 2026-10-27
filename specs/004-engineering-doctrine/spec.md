@@ -30,6 +30,11 @@
 | D11 | compare.py 移动节判定粗（仅"同标题异锚"） | 移动类变更可能误报为增删 | — | P3 |
 | D12 | specs/001 网站结构事实基础（2026-10-26 抽样）已过时 | 规格领域事实与现结构漂移 | 部分 | P3 |
 | D13 | package.json / node_modules 未在治理层登记（07-delivery 编码卫生） | 依赖无 lockfile 治理 | VitePress | P3 |
+| D14 | yuanwen 脚注定义名错位：convert_notes 从 notes.html 回链目标（index.html#ref-N）取名 → md 定义为 `[^note-ref-N]`，正文引用按 `notes.html#note-N` 为 `[^note-N]`，引用-定义对不上 | 脚注跳转断裂（工作底稿层） | 646 文件 / 3931 引用悬空（2026-10-28 全量复核实测） | P1 |
+| D15 | yuanwen 图片接线缺失：正文未生成 `![](…assets/<slug>/…)` 引用（en 源 10019 个 `<img>`/2154 文件未接线）；已接线文件路径混用 `assets/`（错）与 `../assets/`（对，md 位于 `<letter>/` 子目录）；227 条 baseline 记图但 `yuanwen/assets/<slug>/` 未复制 | 图片在镜像中不可见，与 ADR-0009"md 内相对引用"不符 | 10019 图 / 227 目录缺 | P1 |
+| D16 | yuanwen.py 块游走器对 div 不配平的源 html，`toc` skip 区闭合搜索越界吞章（aquinas 丢 §2–13、set-theory 丢 §4 等 19 文件，丢 10–25% 正文）；另 22 文件 h2 含行内公式整行标题被丢；63 补充材料（figdesc 等）无 md；xymatrix/multline 少量公式丢失 | 正文完整性缺陷，含 git 跟踪演示件 set-theory | 19+22+63+11 文件 | P1 |
+| D17 | 上游双重转义实体（`&amp;rsquo;` 等）随转带入 md | 上游编辑噪声，忠实带过 | 26 文件 | P3 |
+| D18 | yuanwen 侧 136 个 9 字节占位（未抓取词条镜像占位，2026-10-27 06:31 批量生成，工具与规则均无此功能来源）；曾覆盖 18thGerman 实体件（已修复）；其中 2 个无 zh 对应（已删）；占位去留待裁定 | 镜像一致性口径未定 | 136 个 | P3 |
 
 ## 三、Doctrine 落地路线（不计成本建议）
 
@@ -44,3 +49,4 @@
 
 * 复审日期：2027-01-21（下个存档季）。
 * 未通过项：D1/D2/D10 为本登记表的主攻项；其余按批次消化。
+* 2026-10-28 yuanwen 全量复核（1727 主文 + 427 补充材料，逐文件：结构/乱码/图片/数学/脚注/完整性）：乱码与 UTF-8 解码零缺陷；24 件哈希漂移已用现工具重转换归零、SUMMARY 镜像已同步；抽读 abduction/tarski/japanese-aesthetics/aquinas/aristotle/algebra 等定性；新增 D14–D18。
