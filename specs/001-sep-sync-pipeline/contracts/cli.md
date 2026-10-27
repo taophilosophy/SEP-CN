@@ -135,3 +135,19 @@
       中原样存在（实体解码、空白归一后比对）；占位符残留与正文行内 $ 失衡
       一并报告。退出码 1 = 有失真。
 ```
+
+## compare.py — 段落级变更比较（US-3，2026-10-27 实现落地）
+
+```text
+用法: python tools/compare.py <slug>... [--html PATH]
+输出: {"results": [{slug, changed, sections_changed, changes: [{type, anchor, title,
+       excerpt, zh_doc, zh_section, zh_line}], compared_at, new_snapshot}]}
+行为: 抓取英文源最新快照到 script/tmp/compare-<slug>.html（礼貌 5 秒，不覆盖 en/ 基线），
+      与基线 en/<slug>/index.html 比较；节级拆分（h2 锚 id + 标题，首 h2 前为导言伪节）；
+      节级 added/removed/moved + modified 节内段落级 diff（difflib，附原文摘录）；
+      每条变更映射 baseline.zh_doc 的 md 文档与 `## 节标题` 行号；
+      英文源与基线一致（source_sha256 相同）时报"无变更"；
+      无 zh_doc 者标注"待建任务/待译名登记"。
+退出码: 0 无变更/成功；1 有变更（管线感知）；2 用法/抓取失败。
+单元测试: tools/tests/test_compare.py（CI 跑）。
+```
