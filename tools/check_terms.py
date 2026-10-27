@@ -47,9 +47,9 @@ def norm_key(text):
 
 
 def translations(cell):
-    """译法集合：取"（"注记前主形，按 / ／ ； 、 ; 拆分变体。"""
+    """译法集合：取"（"注记前主形，按 / ／ ； 、 ; ， 拆分变体。"""
     head = cell.split('（')[0].strip()
-    variants = re.split(r'[/／；、;]', head)
+    variants = re.split(r'[/／；、;，]', head)
     return {v.strip() for v in variants if v.strip()}
 
 

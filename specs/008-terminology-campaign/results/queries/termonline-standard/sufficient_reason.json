@@ -1,0 +1,40 @@
+{
+ "key": "sufficient reason",
+ "term": "sufficient reason",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:49:48+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=4",
+ "hits": [
+  {
+   "cn": "充分灌溉",
+   "en": "sufficient irrigation",
+   "code": "GB/T 50509—2009",
+   "standard": "灌区规划规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "检泵原因",
+   "en": "reason for pull",
+   "code": "GB/T 21411.1—2014",
+   "standard": "石油天然气工业 人工举升用螺杆泵系统 第1部分:泵",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "技术最高温度",
+   "en": "maximum temperature for technical reason",
+   "code": "GB/T 42300—2022",
+   "standard": "精细化工反应安全风险评估规范",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "甩客",
+   "en": "terminating service without proper reason",
+   "code": "GB/T 32852.4—2019",
+   "standard": "城市客运术语 第4部分：出租汽车",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2019\": 1, \"2014\": 1, \"2009\": 1}, \"sourceStats\": {\"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"石油及相关技术\": 1, \"化工技术\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 4}, \"totalRecords\": 4, \"tmWordList\": [{\"id\": \"2d6615a8c9394d11a1d3c18fa6996657\", \"databaseId\": null, \"standardId\": \"52c59840600c42f1bb6cca39d2ea0bb5\", \"standardCode\": \"GB/T 50509—2009\", \"standardName\": \"灌区规划规范\", \"standardEnName\": \"Code for irrigation areas programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"充分灌溉\", \"enName\": \"sufficient irrigation\", \"publishTime\": \"2009-07-08\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 86355, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"充分灌溉\", \"cnNameSearch\": \"充分灌溉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sufficient irrigation\", \"wordSearch\": \"sufficient irrigation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在作物生育期，按完全满足作物生理需水要求的灌溉方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"809e806fcfe24ae681f49c814646de3a\", \"databaseId\": null, \"standardId\": \"5483dcacc7ed4e1f81486aa3bf6bdb53\", \"standardCode\": \"GB/T 21411.1—2014\", \"standardName\": \"石油天然气工业 人工举升用螺杆泵系统 第1部分:泵\", \"standardEnName\": \"Petroleum and natural gas industries-Progressing cavity pump systems for artificial lift-Part 1: Pumps\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.46\", \"cnName\": \"检泵原因\", \"enName\": \"reason for pull\", \"publishTime\": \"2014-12-22\", \"publishYear\": \"2014\", \"implementTime\": \"2015-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 87276, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"检泵原因\", \"cnNameSearch\": \"检泵原因\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"reason for pull\", \"wordSearch\": \"reason for pull\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将泵从井下起出的原因。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"afa7490a6f7941a4bd91c72c263ffda0\", \"databaseId\": null, \"standardId\": \"e46062a5b31345d397aa41975c711c1f\", \"standardCode\": \"GB/T 42300—2022\", \"standardName\": \"精细化工反应安全风险评估规范\", \"standardEnName\": \"Specification for safety risk assessment of fine chemical reactions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.10\", \"cnName\": \"技术最高温度\", \"enName\": \"maximum temperature for technical reason\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2022-12-30\", \"ics\": \"71.020\", \"ccs\": \"G 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 224775, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"技术最高温度\", \"cnNameSearch\": \"技术最高温度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"maximum temperature for technical reason\", \"wordSearch\": \"maximum temperature for technical reason\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"<p>MTT</p>\", \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"反应体系温度允许的最高值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>常压反应体系，技术最高温度取设计温度和体系泡点的低值；密闭反应体系，技术最高温度取体系允许最大压力对应的温度和设计温度的低值。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5db537fe032740dba8e79b671da9355e\", \"databaseId\": null, \"standardId\": \"c923dd9336b6422c86f52b62d5e27117\", \"standardCode\": \"GB/T 32852.4—2019\", \"standardName\": \"城市客运术语 第4部分：出租汽车\", \"standardEnName\": \"Urban passenger transportation terminology—Part 4:Taxi\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"4.12 \", \"cnName\": \"甩客\", \"enName\": \"terminating service without proper reason\", \"publishTime\": \"2019-12-31\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"03.220.2003\", \"ccs\": \"R11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 201782, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"甩客\", \"cnNameSearch\": \"甩客\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"terminating service without proper reason\", \"wordSearch\": \"terminating service without proper reason\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在载客状态下，出租汽车驾驶员无正当理由中断载客服务的行为。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793141389947}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "observation sentences",
+ "term": "observation sentences",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:45:48+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=216",
+ "hits": [
+  {
+   "cn": "观测",
+   "en": "observation",
+   "code": "GB/T 51416—2020",
+   "standard": "混凝土坝安全监测技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "code": "GB/T 41448—2022",
+   "standard": "地理信息 观测与测量",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "code": "GB/T 41224—2021",
+   "standard": "土壤质量 土壤相关数据的数字交换",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "观测",
+   "en": "observation",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "观察",
+   "en": "observation",
+   "code": "GB/T 38852.1—2020",
+   "standard": "工业过程测量控制和自动化系统评估中系统特性的评定第1部分:术语和基本概念",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "注意",
+   "en": "observation",
+   "code": "GB/T 21547.2—2008",
+   "standard": "VME 总线对仪器的扩展 第2部分:TCP/IP-VXI 总线接口规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "注意",
+   "en": "observation",
+   "code": "GB/T 21547.1—2008",
+   "standard": "VME总线对仪器的扩展 第1部分:TCP/IP 仪器协议规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "注意",
+   "en": "observation",
+   "code": "GB/T 21547.3—2008",
+   "standard": "VME总线对仪器的扩展 第3部分:TCP/IP-IEEE 488.1 接口规范",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "观测墩",
+   "en": "observation post",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "水位观测",
+   "en": "stage observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "降水量观测",
+   "en": "precipitation observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "波浪观测",
+   "en": "wave observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "蒸发量观测",
+   "en": "evaporation observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "冰情观测",
+   "en": "iceregime observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "比降观测",
+   "en": "slope observation",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "较差",
+   "en": "differential observation",
+   "code": "GB/T 51361—2021",
+   "standard": "跨座式单轨交通工程测量标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "测量靓标",
+   "en": "observation target",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "验测",
+   "en": "tidal observation",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "直反观测",
+   "en": "reciprocal observation",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "同步观测",
+   "en": "simultaneous observation",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 10, \"2022\": 9, \"2021\": 38, \"2020\": 28, \"2018\": 8, \"2017\": 6, \"2016\": 2, \"2015\": 5, \"2014\": 5, \"2012\": 2, \"2011\": 8, \"2009\": 4, \"2008\": 5, \"2007\": 6, \"2006\": 1, \"2005\": 1, \"2004\": 2, \"2003\": 1, \"2002\": 9, \"1998\": 1, \"1996\": 1, \"1985\": 1, \"暂无年份\": 63}, \"sourceStats\": {\"道路车辆工程\": 5, \"造船和海上构筑物\": 14, \"计量学和测量、物理现象\": 6, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 22, \"综合、术语学、标准化、文献\": 13, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"石油及相关技术\": 2, \"电子学\": 4, \"电信、音频和视频工程\": 10, \"环保、保健和安全\": 2, \"流体系统和通用件\": 1, \"机械系统和通用件\": 1, \"机械制造\": 2, \"数学、自然科学\": 41, \"建筑材料和建筑物\": 3, \"土木工程\": 1, \"农业\": 14, \"其它\": 64, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 216}, \"totalRecords\": 216, \"tmWordList\": [{\"id\": \"a6fddb1a3b8040a28579c4de9212d961\", \"databaseId\": null, \"standardId\": \"e8dfe713e1c243a9b859861183dfffb7\", \"standardCode\": \"GB/T 51416—2020\", \"standardName\": \"混凝土坝安全监测技术标准\", \"standardEnName\": \"Technical standard for concrete dam safety monitoring\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"观测\", \"enName\": \"observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229052, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观测\", \"cnNameSearch\": \"观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用各种仪器设备或人工完成一次数据采集、记录的活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f1d7f603a9384fd6b2469472f81546de\", \"databaseId\": null, \"standardId\": \"b4b2ef8b3ac949ae8fcac75fcd795108\", \"standardCode\": \"GB/T 41448—2022\", \"standardName\": \"地理信息 观测与测量\", \"standardEnName\": \"Geographic information—Observations and measurements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.11\", \"cnName\": \"观测\", \"enName\": \"observation\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184402, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观测\", \"cnNameSearch\": \"观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"度量或其他确定特性的值的行为。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d9bded0241a14dbf84475553cd94dda9\", \"databaseId\": null, \"standardId\": \"259fbca3054344a6b7efd7f820ddd376\", \"standardCode\": \"GB/T 41224—2021\", \"standardName\": \"土壤质量 土壤相关数据的数字交换\", \"standardEnName\": \"Soil quality—Digital exchange of soil—related data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.19\", \"cnName\": \"观察\", \"enName\": \"observation\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"13.080.01\", \"ccs\": \"B 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 35016, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观察\", \"cnNameSearch\": \"观察\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为了量度性质而对性质进行观察的行为。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>该定义与ISO 19156中的“观察”定义相一致。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"590a28093b924dacb27f0f35ae2d339a\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"10.3.1.1\", \"cnName\": \"观测\", \"enName\": \"observation\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58497, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观测\", \"cnNameSearch\": \"观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用各种仪器设备或人工进行数据采集、记录的活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c38238098aa540ea9607aa7158f0eca7\", \"databaseId\": null, \"standardId\": \"5fcf25b5d9d54596b53b3fcd873f7222\", \"standardCode\": \"GB/T 38852.1—2020\", \"standardName\": \"工业过程测量控制和自动化系统评估中系统特性的评定第1部分:术语和基本概念\", \"standardEnName\": \"Industrial-process measurement, control and automation-Evaluation of system properties for the purpose of system assessment-Part 1: Terminology and basic concepts\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.44\", \"cnName\": \"观察\", \"enName\": \"observation\", \"publishTime\": \"2020-07-21\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"25.04025\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95760, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观察\", \"cnNameSearch\": \"观察\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"监测模式响应的过程。\\n[IEC 62528：2007，定义3.1.34]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3ca550a3fab14ad29b7793c9dbf98ee0\", \"databaseId\": null, \"standardId\": \"191d5f1c840c443e9cc31b99435fc8b4\", \"standardCode\": \"GB/T 21547.2—2008\", \"standardName\": \"VME 总线对仪器的扩展 第2部分:TCP/IP-VXI 总线接口规范\", \"standardEnName\": \"VMEbus extensions for instrumentation-Part 2: TCP/IP-VXIbus interface specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"1.4.5\", \"cnName\": \"注意\", \"enName\": \"observation\", \"publishTime\": \"2008-03-31\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"17.220\", \"ccs\": \"N 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24842, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"注意\", \"cnNameSearch\": \"注意\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"注意阐明规则的含义,引起人们对容易忽略问题的注意。给出某些规则的合理性解释,使读者更好地理解为什么必须遵守这些规则。</p><p>任何没有标题的正文都应认为是对标准的说明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cb70eedadce54f1899b88b383dedbee1\", \"databaseId\": null, \"standardId\": \"32ee3718743640e59401b59626815103\", \"standardCode\": \"GB/T 21547.1—2008\", \"standardName\": \"VME总线对仪器的扩展 第1部分:TCP/IP 仪器协议规范\", \"standardEnName\": \"VMEbus extensions for instrumentation-Part 1: TCP/IP instrument protocol specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"1.4.13\", \"cnName\": \"注意\", \"enName\": \"observation\", \"publishTime\": \"2008-03-31\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"17.220\", \"ccs\": \"N 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55768, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"注意\", \"cnNameSearch\": \"注意\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"阐明规则的含义,引起人们对容易忽略问题的注意。给出某些规则的合理解释,使读者更好地理解该规则为什么必须被遵守。</p><p>任何没有标题的正文都应认为是对标准的说明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e54210c1fe114e5da9f3672dffc0c53a\", \"databaseId\": null, \"standardId\": \"8aa5348b651e4936a631bf62f7c58061\", \"standardCode\": \"GB/T 21547.3—2008\", \"standardName\": \"VME总线对仪器的扩展 第3部分:TCP/IP-IEEE 488.1 接口规范\", \"standardEnName\": \"VMEbus extensions for instrumentation-Part 3:TCP/IP-IEEE 488. 1interface specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"1.4.5\", \"cnName\": \"注意\", \"enName\": \"observation\", \"publishTime\": \"2008-03-31\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"17.220\", \"ccs\": \"N 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146047, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"注意\", \"cnNameSearch\": \"注意\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation\", \"wordSearch\": \"observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"注意阐明规则的含义,引起人们对容易忽略问题的注意。给出某些规则的合理解释,使读者更好地理解为什么必须遵守这些规则。</p><p>任何没有标题的正文都应认为是对标准的说明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18948ab43a3240df88c61f2f4600490f\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.8\", \"cnName\": \"观测墩\", \"enName\": \"observation post\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117325, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"观测墩\", \"cnNameSearch\": \"观测墩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation post\", \"wordSearch\": \"observation post\"}, {\"languageType\": 1, \"word\": \"observation pillar\", \"wordSearch\": \"observation pillar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测量标志的一种。顶面有中心标志及同心装置，用作安置测量仪器或照准目标的设施。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"43a1be0e24604827b7cb5cb1c1f06024\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.1\", \"cnName\": \"水位观测\", \"enName\": \"stage observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41009, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水位观测\", \"cnNameSearch\": \"水位观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stage observation\", \"wordSearch\": \"stage observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"观测河流或其他水体指定位置水位的作业。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"79955b1490e54a2a859286c56eeb6ef6\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.3.5 \", \"cnName\": \"降水量观测\", \"enName\": \"precipitation observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41512, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"降水量观测\", \"cnNameSearch\": \"降水量观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"precipitation observation\", \"wordSearch\": \"precipitation observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测定降水量，记录降水起止时间、降水物种类等的作业。必要时，部分站还应测记冰雹直径、降水强度、雪深及初霜、终霜日期等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3b9a29f200d04f6fa5619d77b6cbc950\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.7\", \"cnName\": \"波浪观测\", \"enName\": \"wave observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41862, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"波浪观测\", \"cnNameSearch\": \"波浪观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wave observation\", \"wordSearch\": \"wave observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"观测水体波浪的作业。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dca934bab8794751ac5a46316c151993\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.3.7\", \"cnName\": \"蒸发量观测\", \"enName\": \"evaporation observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42058, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"蒸发量观测\", \"cnNameSearch\": \"蒸发量观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"evaporation observation\", \"wordSearch\": \"evaporation observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用蒸发器和雨量器测定同一时段的蒸发量和降水量，并选定部分测站进行气温、湿度、风速和蒸发器中水温的观测。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ceddabec5839492f884f1a2938c53532\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.11.1\", \"cnName\": \"冰情观测\", \"enName\": \"iceregime observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42812, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"冰情观测\", \"cnNameSearch\": \"冰情观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"iceregime observation\", \"wordSearch\": \"iceregime observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"选择代表性河段，在整个冰期内对冰情现象进行测量或目测的作业。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"95579fc585b644aba90b33d609e3ddd1\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.3\", \"cnName\": \"比降观测\", \"enName\": \"slope observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43126, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"比降观测\", \"cnNameSearch\": \"比降观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"slope observation\", \"wordSearch\": \"slope observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"河流或其他水体在一定距离内，上下游两断面同时观测水位的作业。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"aa6f032200e848cc86babf43943e2ee6\", \"databaseId\": null, \"standardId\": \"3ee3707ed9d9465daafe38c55f912e17\", \"standardCode\": \"GB/T 51361—2021\", \"standardName\": \"跨座式单轨交通工程测量标准\", \"standardEnName\": \"Standard for engineering survey of straddle monorail transit\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.9\", \"cnName\": \"较差\", \"enName\": \"differential observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67528, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"较差\", \"cnNameSearch\": \"较差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"differential observation\", \"wordSearch\": \"differential observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"同一未知量的两个观测值之间的差值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc59589707ea4c1d97d96135ac41c6ef\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.7\", \"cnName\": \"测量靓标\", \"enName\": \"observation target\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117339, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"测量靓标\", \"cnNameSearch\": \"测量靓标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"observation target\", \"wordSearch\": \"observation target\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测量标志的一种。供观测照准目标用的设施。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81d679611e9544ce9a0d73c34bdd1cf9\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.4.9\", \"cnName\": \"验测\", \"enName\": \"tidal observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117377, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"验测\", \"cnNameSearch\": \"验测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tidal observation\", \"wordSearch\": \"tidal observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一地点按一定的时间间隔对潮汐涨落所进行的观测。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03e506a3e9fe4d3689fc5d38a0a0941c\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.9.25\", \"cnName\": \"直反观测\", \"enName\": \"reciprocal observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"直反观测\", \"cnNameSearch\": \"直反观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"reciprocal observation\", \"wordSearch\": \"reciprocal observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"两点间垂直角观测，由此点向彼点再由彼点向此点的观测过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1d7e99a6b9154f1eb84fae828ebc35b0\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.4.22\", \"cnName\": \"同步观测\", \"enName\": \"simultaneous observation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117503, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"同步观测\", \"cnNameSearch\": \"同步观测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"simultaneous observation\", \"wordSearch\": \"simultaneous observation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"两台及以上卫星定位接收机同时接收相同卫星信号的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 11}}, \"timestamp\": 1793141149936}"
+}

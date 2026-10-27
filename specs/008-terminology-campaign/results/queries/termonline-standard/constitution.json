@@ -1,0 +1,19 @@
+{
+ "key": "constitution",
+ "term": "Constitution",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:38:53+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "化合水",
+   "en": "water of constitution",
+   "code": "GB/T 483—2007",
+   "standard": "煤炭分析试验方法一般规定",
+   "subject": "采矿和矿产品"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2007\": 1}, \"sourceStats\": {\"采矿和矿产品\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"b46f29b3f469433a83b5ac7a89482917\", \"databaseId\": null, \"standardId\": \"b61196c97a3c4b6b980b41937a10a37a\", \"standardCode\": \"GB/T 483—2007\", \"standardName\": \"煤炭分析试验方法一般规定\", \"standardEnName\": \"General rules for analytical and testing methods of coal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.2.7\", \"cnName\": \"化合水\", \"enName\": \"water of constitution\", \"publishTime\": \"2007-11-01\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"73.040\", \"ccs\": \"D 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186090, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"化合水\", \"cnNameSearch\": \"化合水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"water of constitution\", \"wordSearch\": \"water of constitution\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与矿物质结合的、除去全水分后仍保留下来的水分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140734870}"
+}

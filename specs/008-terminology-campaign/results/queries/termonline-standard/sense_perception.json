@@ -1,0 +1,152 @@
+{
+ "key": "sense perception",
+ "term": "sense perception",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:49:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=59",
+ "hits": [
+  {
+   "cn": "感知",
+   "en": "perception",
+   "code": "GB/T 38052.1—2019",
+   "standard": "智能家用电器系统互操作第1部分:术语",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "指向",
+   "en": "sense",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "喜好感知",
+   "en": "hedonic perception",
+   "code": "GB/T 41408—2022",
+   "standard": "感官分析 方法学 受控区域消费者喜好测试一般导则",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "感知系统",
+   "en": "perception system",
+   "code": "GB/T 41862—2022",
+   "standard": "土方及矿山机械 机器系统安全 自主和半自主 ",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "风险认知度",
+   "en": "risk perception",
+   "code": "GB/T 40914—2021",
+   "standard": "汽车产品召回 预警规则",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "环境理解",
+   "en": "environmental perception",
+   "code": "GB/T 38247—2019",
+   "standard": "信息技术 增强现实 术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "反差感知",
+   "en": "contrast perception",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "色知觉",
+   "en": "color perception",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "视知觉",
+   "en": "visual perception",
+   "code": "GB/T 5697—1985",
+   "standard": "人类工效学照明术语",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "灵敏阈",
+   "en": "sense threshold",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "灵敏阅",
+   "en": "sense threshold",
+   "code": "GB/T 19677—2005",
+   "standard": "水文仪器术语及符号",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "载波侦听",
+   "en": "carrier sense",
+   "code": "GB/T 5271.25—2000",
+   "standard": "信息技术  词汇  第25部分:局域网",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "读出放大器",
+   "en": "sense amplifier",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "感知/性能宣称",
+   "en": "perception/performance claim",
+   "code": "GB/T 43396—2023",
+   "standard": "感官分析  产品感官宣称证实导则",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "物联网感知数据",
+   "en": "IoT perception data",
+   "code": "GB/T 42528—2023",
+   "standard": "时空大数据技术规范",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "视知觉功能",
+   "en": "visual perception function",
+   "code": "GB/T 40230.2—2021",
+   "standard": "视疲劳测试与评价方法 第 2 部分：视知觉功能",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "感知电流闯值",
+   "en": "[perception-threshold-current",
+   "code": "GB/T 4776—2017",
+   "standard": "电气安全术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "读恢复时间",
+   "en": "sense recovery time",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "嘎觉感知特性",
+   "en": "characteristic of olfactory perception",
+   "code": "GB/T 40270—2021",
+   "standard": "纺织品  基于消费者体验的通用技术要求",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "视觉感知特性",
+   "en": "characteristic of visual perception",
+   "code": "GB/T 40270—2021",
+   "standard": "纺织品  基于消费者体验的通用技术要求",
+   "subject": "纺织和皮革技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2022\": 3, \"2021\": 8, \"2020\": 2, \"2019\": 5, \"2017\": 3, \"2013\": 3, \"2008\": 12, \"2005\": 6, \"2001\": 1, \"2000\": 8, \"1988\": 3, \"1985\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"食品技术\": 4, \"道路车辆工程\": 1, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 9, \"纺织和皮革技术\": 3, \"电气工程\": 5, \"电子学\": 3, \"电信、音频和视频工程\": 2, \"环保、保健和安全\": 2, \"材料储运设备\": 1, \"机械制造\": 1, \"数学、自然科学\": 2, \"建筑材料和建筑物\": 3, \"家用和商用设备、文娱、体育\": 1, \"冶金\": 1, \"其它\": 2, \"信息技术、办公机械\": 16}, \"typeStats\": {\"7\": 59}, \"totalRecords\": 59, \"tmWordList\": [{\"id\": \"b9130b79c1404ad1898c6e1cf9b25948\", \"databaseId\": null, \"standardId\": \"11e59fc50d9d4d1b94d5cafd13460d5c\", \"standardCode\": \"GB/T 38052.1—2019\", \"standardName\": \"智能家用电器系统互操作第1部分:术语\", \"standardEnName\": \"Interoperability of smart household appliances system—Part 1: Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"2.1.4\", \"cnName\": \"感知\", \"enName\": \"perception\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"97.03097\", \"ccs\": \"Y60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16825, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感知\", \"cnNameSearch\": \"感知\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"perception\", \"wordSearch\": \"perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"接收并转换信息的能力和过程。\\n[GB/T28219—2018,定义3.2]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8376e21b76324136bf35a36cbe5c92d9\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.2\", \"cnName\": \"指向\", \"enName\": \"sense\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166020, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指向\", \"cnNameSearch\": \"指向\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense\", \"wordSearch\": \"sense\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"矢量的方向，该矢量表示某导航参数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ae6dc86412d144cc9c0ab1b245b14ef1\", \"databaseId\": null, \"standardId\": \"34aabac77bf148b3aa03c8f070524ba3\", \"standardCode\": \"GB/T 41408—2022\", \"standardName\": \"感官分析 方法学 受控区域消费者喜好测试一般导则\", \"standardEnName\": \"Sensory analysis—Methodology—General guidance for conducting hedonic tests with consumers in a controlled area\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.4\", \"cnName\": \"喜好感知\", \"enName\": \"hedonic perception\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"67.240\", \"ccs\": \"X 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"喜好感知\", \"cnNameSearch\": \"喜好感知\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hedonic perception\", \"wordSearch\": \"hedonic perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"产品感官特性引起的愉悦程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39cf142eb7d24127b2be8f05fc9ab1e4\", \"databaseId\": null, \"standardId\": \"64c83214d4904c91967ca34eeb75f69b\", \"standardCode\": \"GB/T 41862—2022\", \"standardName\": \"土方及矿山机械 机器系统安全 自主和半自主 \", \"standardEnName\": \"Earth-moving machinery and mining—Autonomous and semi-autonomous machine system safety \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.1.19\", \"cnName\": \"感知系统\", \"enName\": \"perception system\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 53.100\", \"ccs\": \"CCS P 97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100528, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感知系统\", \"cnNameSearch\": \"感知系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"perception system\", \"wordSearch\": \"perception system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由传感器组成的系统，用于探测、定位和识别有意了解的潜在特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f424c612bc5043109da022be2d6cffb3\", \"databaseId\": null, \"standardId\": \"64727a5f356d4022a89e22b50d69b5d8\", \"standardCode\": \"GB/T 40914—2021\", \"standardName\": \"汽车产品召回 预警规则\", \"standardEnName\": \"Motor vehicle products recall－Early-warning rules\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.6\", \"cnName\": \"风险认知度\", \"enName\": \"risk perception\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"43.02043\", \"ccs\": \"T 00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 99975, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"风险认知度\", \"cnNameSearch\": \"风险认知度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"risk perception\", \"wordSearch\": \"risk perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人们对具有概率性而被转化为记号或符号的不利结果所做出的判断。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"37fef5bfcc8a4d89b18ed19032b3ebdf\", \"databaseId\": null, \"standardId\": \"4c2327997faf45c68676c8df66286146\", \"standardCode\": \"GB/T 38247—2019\", \"standardName\": \"信息技术 增强现实 术语\", \"standardEnName\": \"Information technologyAugmented reality-Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.2.34\", \"cnName\": \"环境理解\", \"enName\": \"environmental perception\", \"publishTime\": \"2019-10-18\", \"publishYear\": \"2019\", \"implementTime\": \"2020-05-01\", \"ics\": \"35.24035\", \"ccs\": \"L60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79278, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"环境理解\", \"cnNameSearch\": \"环境理解\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"environmental perception\", \"wordSearch\": \"environmental perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"识别并理解出环境中可用的特征供软硬件进一步使用的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7e2f3b8a2ae140fb8bc49264cb3860f2\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.2.81\", \"cnName\": \"反差感知\", \"enName\": \"contrast perception\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反差感知\", \"cnNameSearch\": \"反差感知\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"contrast perception\", \"wordSearch\": \"contrast perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"通过成像中不同强度来区别物体组织中不同组分的能力。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"33c1baba6d5245db8df4675b25cf72e4\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"5.5\", \"cnName\": \"色知觉\", \"enName\": \"color perception\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70723, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"色知觉\", \"cnNameSearch\": \"色知觉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"color perception\", \"wordSearch\": \"color perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"眼睛对于有色物体的整体反映。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4715f06794c34e54b96d5497bba162b8\", \"databaseId\": null, \"standardId\": \"79e77038fa404ed6ae399806a90dcbd4\", \"standardCode\": \"GB/T 5697—1985\", \"standardName\": \"人类工效学照明术语\", \"standardEnName\": \"Terms of lighting for ergonomics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"1.3\", \"cnName\": \"视知觉\", \"enName\": \"visual perception\", \"publishTime\": \"1985-12-05\", \"publishYear\": \"1985\", \"implementTime\": \"1986-09-01\", \"ics\": \"13.18013\", \"ccs\": \"A25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125981, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"视知觉\", \"cnNameSearch\": \"视知觉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"visual perception\", \"wordSearch\": \"visual perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人脑将进入眼睛的光刺激转化为整体经验的过程。</p><p>这一过程是人对客观事物整体形象的反映。视知觉包括下列内容中的任何一种或几种:察觉某些物体的存在;鉴别它;确定它在空间中的位置;说明它与其他事物的关系;辨认它的运动、颜色、明亮程度或形状。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"38778cb2833c4392bbd88ae742f65125\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.13.12\", \"cnName\": \"灵敏阈\", \"enName\": \"sense threshold\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41726, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"灵敏阈\", \"cnNameSearch\": \"灵敏阈\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense threshold\", \"wordSearch\": \"sense threshold\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"当输入量由零变化到使输出量开始发生可观测变化且具有稳定的相关定量关系的输入量的最小变化值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7d5d5bf35b944f269fddb9928b8723a6\", \"databaseId\": null, \"standardId\": \"de0f364920d240419e7a95033265c85a\", \"standardCode\": \"GB/T 19677—2005\", \"standardName\": \"水文仪器术语及符号\", \"standardEnName\": \"Essential technical terms and symbols for hydrologic instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1.41\", \"cnName\": \"灵敏阅\", \"enName\": \"sense threshold\", \"publishTime\": \"2005-03-02\", \"publishYear\": \"2005\", \"implementTime\": \"2005-08-01\", \"ics\": \"07.06007\", \"ccs\": \"N93\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217579, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"灵敏阅\", \"cnNameSearch\": \"灵敏阅\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense threshold\", \"wordSearch\": \"sense threshold\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"阀值\\n当输入量由零变化到使输出量开始发生可观测变化且具有稳定的相关定量关系的输入量的最小变\\n化值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"415b7a2607b24456ac23b39b3d99406d\", \"databaseId\": null, \"standardId\": \"4bcfe714ea4746e39fca84e62588abcb\", \"standardCode\": \"GB/T 5271.25—2000\", \"standardName\": \"信息技术  词汇  第25部分:局域网\", \"standardEnName\": \"Information technology——Vocabulary——Part 25:Local area networks\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"25.01.08\", \"cnName\": \"载波侦听\", \"enName\": \"carrier sense\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78636, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"载波侦听\", \"cnNameSearch\": \"载波侦听\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"carrier sense\", \"wordSearch\": \"carrier sense\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在局域网中，一个数据站检测另一个数据站是否正在发送的一种持续活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"52988507ec1c4260ac4e8aa0935bac47\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"4.2.3\", \"cnName\": \"读出放大器\", \"enName\": \"sense amplifier\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185071, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"读出放大器\", \"cnNameSearch\": \"读出放大器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense amplifier\", \"wordSearch\": \"sense amplifier\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"对规定输入电压范围内（上下限幅）的信号作出响应，并能输出数字电压的集成电路。它通常具有差动输入端和单端输出端，也可以包括一个选通端，及用来调整输入电压范围的输入端。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c37b0918f2564fdca79ec746563d2c1f\", \"databaseId\": null, \"standardId\": \"7314e6aa3af54cd4983170a2c7138ac3\", \"standardCode\": \"GB/T 43396—2023\", \"standardName\": \"感官分析  产品感官宣称证实导则\", \"standardEnName\": \"Sensory analysis—Guidance on substantiation for sensory and consumer product claims\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.3\", \"cnName\": \"感知/性能宣称\", \"enName\": \"perception/performance claim\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2023-11-27\", \"ics\": \"67.240\", \"ccs\": \"X 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 115777, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感知/性能宣称\", \"cnNameSearch\": \"感知/性能宣称\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"perception/performance claim\", \"wordSearch\": \"perception/performance claim\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"描述产品引起的某种感知特性或者预期效果的表述。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>×××产品稠厚（感知）且使用后无残留（性能）。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f8f5090dc06c4a029ca4b004fa6349ae\", \"databaseId\": null, \"standardId\": \"da690aeb29cc40469f9fd27fc740e53e\", \"standardCode\": \"GB/T 42528—2023\", \"standardName\": \"时空大数据技术规范\", \"standardEnName\": \"Technical specification for spatio—temporal big data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.2\", \"cnName\": \"物联网感知数据\", \"enName\": \"IoT perception data\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-05-23\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 214735, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"物联网感知数据\", \"cnNameSearch\": \"物联网感知数据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"IoT perception data\", \"wordSearch\": \"IoT perception data\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过感知设备，按照约定协议，连接物、人、系统和信息资源，获取的数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fcf43c1ada414b6cb4b159e9f596e469\", \"databaseId\": null, \"standardId\": \"7b3429e84c454bea830ea3c8fd5d1f68\", \"standardCode\": \"GB/T 40230.2—2021\", \"standardName\": \"视疲劳测试与评价方法 第 2 部分：视知觉功能\", \"standardEnName\": \"Methods of visual fatigue test and evaluation—Part 2: Visual perception function\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1\", \"cnName\": \"视知觉功能\", \"enName\": \"visual perception function\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"13.180\", \"ccs\": \"A 25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130792, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"视知觉功能\", \"cnNameSearch\": \"视知觉功能\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"visual perception function\", \"wordSearch\": \"visual perception function\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人的视觉中枢系统对视觉刺激的时间和空间等方面信息进行加工的能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03f130c415124ced9c036676b30ccaa3\", \"databaseId\": null, \"standardId\": \"219a3ccc4bed4efabeeabedf3f132115\", \"standardCode\": \"GB/T 4776—2017\", \"standardName\": \"电气安全术语\", \"standardEnName\": \"Electrical safety terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.2.40\", \"cnName\": \"感知电流闯值\", \"enName\": \"[perception-threshold-current\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"01.02001\", \"ccs\": \"K04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32059, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感知电流闯值\", \"cnNameSearch\": \"感知电流闯值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"[perception-threshold-current\", \"wordSearch\": \"[perception-threshold-current\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人体或动物能感知的流过其身体的最小电流值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce6fd3b3c42c40d787fea52f05843c1c\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.2.3.4\", \"cnName\": \"读恢复时间\", \"enName\": \"sense recovery time\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"读恢复时间\", \"cnNameSearch\": \"读恢复时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense recovery time\", \"wordSearch\": \"sense recovery time\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将存贮器从写状态转换到读状态，并从输出获得有效数据信号所需要的时间间隔。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9ee0af6398654a588ea2e91678f32e41\", \"databaseId\": null, \"standardId\": \"15c5304b6df84374b1d96717998f7aa0\", \"standardCode\": \"GB/T 40270—2021\", \"standardName\": \"纺织品  基于消费者体验的通用技术要求\", \"standardEnName\": \"Textiles—General technical requirements based on consumer experience\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.4\", \"cnName\": \"嘎觉感知特性\", \"enName\": \"characteristic of olfactory perception\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"59.080.30；61.020\", \"ccs\": \"Y 76；W 57；W63\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21399, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"嘎觉感知特性\", \"cnNameSearch\": \"嘎觉感知特性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"characteristic of olfactory perception\", \"wordSearch\": \"characteristic of olfactory perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人的嘎觉系统感知的产品质量信息特性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9e4f0121fb13451cb4262afca1985de0\", \"databaseId\": null, \"standardId\": \"15c5304b6df84374b1d96717998f7aa0\", \"standardCode\": \"GB/T 40270—2021\", \"standardName\": \"纺织品  基于消费者体验的通用技术要求\", \"standardEnName\": \"Textiles—General technical requirements based on consumer experience\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.2\", \"cnName\": \"视觉感知特性\", \"enName\": \"characteristic of visual perception\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"59.080.30；61.020\", \"ccs\": \"Y 76；W 57；W63\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21401, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"视觉感知特性\", \"cnNameSearch\": \"视觉感知特性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"characteristic of visual perception\", \"wordSearch\": \"characteristic of visual perception\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人的视觉系统感知的产品质量信息特性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1793141344942}"
+}

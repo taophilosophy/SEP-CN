@@ -1,0 +1,152 @@
+{
+ "key": "universal suspension",
+ "term": "universal suspension",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:50:28+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=192",
+ "hits": [
+  {
+   "cn": "口服混悬剂",
+   "en": "suspension",
+   "code": "GB/T 50902—2013",
+   "standard": "医药工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "暂停",
+   "en": "suspension",
+   "code": "GB/T 27000—2023",
+   "standard": "合格评定 词汇和通用原则",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "悬架",
+   "en": "suspension",
+   "code": "GB/T 42830—2023",
+   "standard": "移动机器人 词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "悬浮性",
+   "en": "suspension",
+   "code": "GB/T 5611—2017",
+   "standard": "铸造术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "悬浮液",
+   "en": "suspension",
+   "code": "GB/T 30544.6—2016",
+   "standard": "纳米科技 术语 第6部分:纳米物体表征",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "暂停",
+   "en": "suspension",
+   "code": "GB/T 27203—2016",
+   "standard": "合格评定  用于人员认证的人员能力词汇",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "悬浮物",
+   "en": "suspension",
+   "code": "GB/T 33405—2016",
+   "standard": "白酒感官品评术语",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "悬浮液",
+   "en": "suspension",
+   "code": "GB/T 5206—2015",
+   "standard": "色漆和清漆 术语和定义",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "悬浮液（料浆）",
+   "en": "suspension",
+   "code": "GB/T 4774—2013",
+   "standard": "过滤与分离 名词术语",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "弹性臂",
+   "en": "suspension",
+   "code": "GB/T 14080—2010",
+   "standard": "硬磁盘驱动器头堆组件通用规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "悬浮",
+   "en": "suspension",
+   "code": "GB/T 18029.22—2009",
+   "standard": "轮椅车 第22部分：调节程序 ",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "悬吊",
+   "en": "suspension",
+   "code": "GB/T 17255.1—2009",
+   "standard": "假肢与矫形器 假肢部件的分类和描述第1部分:假肢部件的分类",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "悬架",
+   "en": "suspension",
+   "code": "GB/T 6960.4—2007",
+   "standard": "拖拉机术语 第4部分：行走系",
+   "subject": "农业"
+  },
+  {
+   "cn": "万向接轴",
+   "en": "universal spindle",
+   "code": "GB/T 33223—2016",
+   "standard": "轧制设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "悬索桥",
+   "en": "suspension bridge",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "悬浮预热器",
+   "en": "suspension preheater",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "起重索",
+   "en": "suspension cable",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "吊挂结构",
+   "en": "suspension structure",
+   "code": "GB/T 51369—2019",
+   "standard": "通信设备安装工程抗震设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "吊线",
+   "en": "suspension wire",
+   "code": "GB/T 51217—2017",
+   "standard": "通信传输线路共建共享技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "吊挂控制",
+   "en": "suspension control",
+   "code": "GB/T 43668—2024",
+   "standard": "物流无人机货物吊挂控制通用要求",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 13, \"2022\": 8, \"2021\": 8, \"2020\": 13, \"2019\": 12, \"2018\": 3, \"2017\": 13, \"2016\": 17, \"2015\": 7, \"2014\": 6, \"2013\": 8, \"2012\": 2, \"2011\": 5, \"2009\": 4, \"2008\": 36, \"2007\": 7, \"2005\": 4, \"2004\": 2, \"2003\": 2, \"2002\": 3, \"2001\": 2, \"2000\": 1, \"暂无年份\": 15}, \"sourceStats\": {\"食品技术\": 3, \"采矿和矿产品\": 5, \"道路车辆工程\": 2, \"造船和海上构筑物\": 9, \"计量学和测量、物理现象\": 3, \"航空器和航天器工程\": 6, \"综合、术语学、标准化、文献\": 21, \"纺织和皮革技术\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"石油及相关技术\": 1, \"电气工程\": 6, \"电信、音频和视频工程\": 14, \"玻璃和陶瓷工业\": 3, \"环保、保健和安全\": 2, \"涂料和颜料工业\": 1, \"流体系统和通用件\": 2, \"材料储运设备\": 3, \"机械系统和通用件\": 2, \"机械制造\": 34, \"服装工业\": 2, \"数学、自然科学\": 8, \"建筑材料和建筑物\": 1, \"家用和商用设备、文娱、体育\": 2, \"医药卫生技术\": 7, \"化工技术\": 3, \"冶金\": 12, \"农业\": 6, \"其它\": 16, \"信息技术、办公机械\": 11}, \"typeStats\": {\"7\": 192}, \"totalRecords\": 192, \"tmWordList\": [{\"id\": \"faed763cc77747cf8852f533d0371759\", \"databaseId\": null, \"standardId\": \"16bc5b5c9eb844cd99f62e972e2ef51b\", \"standardCode\": \"GB/T 50902—2013\", \"standardName\": \"医药工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms ofpharmaceutical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.42\", \"cnName\": \"口服混悬剂\", \"enName\": \"suspension\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22177, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"口服混悬剂\", \"cnNameSearch\": \"口服混悬剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed73960d528145fe8bcfa7bf6c65a05a\", \"databaseId\": null, \"standardId\": \"5d3196c1ccc1459494a1a0a0f6253749\", \"standardCode\": \"GB/T 27000—2023\", \"standardName\": \"合格评定 词汇和通用原则\", \"standardEnName\": \"Conformity assessment—Vocabulary and general principles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.2\", \"cnName\": \"暂停\", \"enName\": \"suspension\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2023-08-06\", \"ics\": \"03.120.20\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93992, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"暂停\", \"cnNameSearch\": \"暂停\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"签发陈述的机构对全部或部分指定的证明范围符合性陈述的临时限制。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [\"<p>由于规定要求(4.1)不再满足, 签发机构暂停符合性陈述。</p>\", \"<p>签发机构的客户主动要求暂停符合性陈述。</p>\", \"<p>签发机构由于临时停止该类合格评定活动而暂停符合性陈述。</p>\"], \"notes\": [], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2862f124adb6432daac145e5dacae6ba\", \"databaseId\": null, \"standardId\": \"7436add59773401bbde8f22c9e0c7719\", \"standardCode\": \"GB/T 42830—2023\", \"standardName\": \"移动机器人 词汇\", \"standardEnName\": \"Mobile robots—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2.1\", \"cnName\": \"悬架\", \"enName\": \"suspension\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"01.040.25\", \"ccs\": \"J 28\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116902, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬架\", \"cnNameSearch\": \"悬架\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"吸收来自行走面的冲击或振动的系统或结构。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>悬架的目的是能保持移助平台（3.1.2）的稳定性，并通过保持接触行驶表面以克服粗糙的行走面。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"011d04639062438ba0d50dd9f1bcc860\", \"databaseId\": null, \"standardId\": \"3b2753f437ab40d8832e36d6929f47c0\", \"standardCode\": \"GB/T 5611—2017\", \"standardName\": \"铸造术语\", \"standardEnName\": \"Foundry terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"4.6.59\", \"cnName\": \"悬浮性\", \"enName\": \"suspension\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-29\", \"ics\": \"25.020\", \"ccs\": \"J 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 64461, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮性\", \"cnNameSearch\": \"悬浮性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"涂料抵抗固体耐火粉料分层和沉淀的能力，用悬浮率（%）表示。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03e4b651b7db47e3a09052d016875931\", \"databaseId\": null, \"standardId\": \"3008be345e294181934a2978ae93e700\", \"standardCode\": \"GB/T 30544.6—2016\", \"standardName\": \"纳米科技 术语 第6部分:纳米物体表征\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 6: Nano-object characterization\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.13\", \"cnName\": \"悬浮液\", \"enName\": \"suspension\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"01.040.070\", \"ccs\": \"A20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51058, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮液\", \"cnNameSearch\": \"悬浮液\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由一种液体和一种分散性良好的固体材料组成的多相混合物。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 5206—2015\", \"sourceCode\": \"2.246\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ff4a5b8b38a04c79bdff448d8be0429b\", \"databaseId\": null, \"standardId\": \"824bdbd8b82442fcb34e1012d3b82cf7\", \"standardCode\": \"GB/T 27203—2016\", \"standardName\": \"合格评定  用于人员认证的人员能力词汇\", \"standardEnName\": \"Conformity assessment—Vocabulary related to competence of persons used for certification of persons\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"2.76\", \"cnName\": \"暂停\", \"enName\": \"suspension\", \"publishTime\": \"2016-10-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-05-01\", \"ics\": \"03.120.20\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 137063, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"暂停\", \"cnNameSearch\": \"暂停\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"人员认证机构签发的人员认证暂时中止。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>改写 GB/T 27000—2006，定义 6.2。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"04581d7493f048cfb0ec6f9715420eac\", \"databaseId\": null, \"standardId\": \"ecd46ab0a2d64a1c99d76eb00446a1dd\", \"standardCode\": \"GB/T 33405—2016\", \"standardName\": \"白酒感官品评术语\", \"standardEnName\": \"Terminology of Baijiu sensory evaluation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"4.1.2.3\", \"cnName\": \"悬浮物\", \"enName\": \"suspension\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"67.160.10\", \"ccs\": \"X61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231516, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮物\", \"cnNameSearch\": \"悬浮物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"白酒中悬浮有肉眼可见的固体物质的外观特征。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dcfb8d8bb5fa408fb745cfffe3fccd56\", \"databaseId\": null, \"standardId\": \"e68d53063f944787b2fa93a0bcb599a7\", \"standardCode\": \"GB/T 5206—2015\", \"standardName\": \"色漆和清漆 术语和定义\", \"standardEnName\": \"Paints and varnishes—Terms and definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"2.246\", \"cnName\": \"悬浮液\", \"enName\": \"suspension\", \"publishTime\": \"2015-07-03\", \"publishYear\": \"2015\", \"implementTime\": \"2016-02-01\", \"ics\": \"87.01087\", \"ccs\": \"G50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227694, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮液\", \"cnNameSearch\": \"悬浮液\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一种液体和一种分散良好的固体材料组成的多相混合物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9de7ce123dff4985832e91d1d475df48\", \"databaseId\": null, \"standardId\": \"b5e06b3dcc6b49bcb208ff1a2db991ea\", \"standardCode\": \"GB/T 4774—2013\", \"standardName\": \"过滤与分离 名词术语\", \"standardEnName\": \"Terminology of filtration and separation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.2\", \"cnName\": \"悬浮液（料浆）\", \"enName\": \"suspension\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-10-01\", \"ics\": \"73.12073\", \"ccs\": \"J77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185429, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮液（料浆）\", \"cnNameSearch\": \"悬浮液（料浆）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"悬浮液泛指固体分散在液体中的分散物系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"66f7e6837f124c51b964cc497571976f\", \"databaseId\": null, \"standardId\": \"3c05255e5e534d6c939da57127d59e60\", \"standardCode\": \"GB/T 14080—2010\", \"standardName\": \"硬磁盘驱动器头堆组件通用规范\", \"standardEnName\": \"General specification of head stack assembly for hard disk drive\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.5\", \"cnName\": \"弹性臂\", \"enName\": \"suspension\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-05-01\", \"ics\": \"35.220.20\", \"ccs\": \"L 63\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65373, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弹性臂\", \"cnNameSearch\": \"弹性臂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"连接浮动块与驱动架之间的柔性结构，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5b28e2a028b148cdbaca600e5343f3de\", \"databaseId\": null, \"standardId\": \"2313393d2fdf4f049ec52c7aa4df41bf\", \"standardCode\": \"GB/T 18029.22—2009\", \"standardName\": \"轮椅车 第22部分：调节程序 \", \"standardEnName\": \"Wheelchairs——Part 22 :Set—up procedures \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.7\", \"cnName\": \"悬浮\", \"enName\": \"suspension\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"11.180\", \"ccs\": \"Y 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33553, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮\", \"cnNameSearch\": \"悬浮\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"当轮椅车在水平、平整的表面上行驶时，让使用者有一个合适的座位角度的减振装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4469cbb8a62143fe99ac870cdf8c1670\", \"databaseId\": null, \"standardId\": \"b2c78bfa76b947fc9d211cafbde52234\", \"standardCode\": \"GB/T 17255.1—2009\", \"standardName\": \"假肢与矫形器 假肢部件的分类和描述第1部分:假肢部件的分类\", \"standardEnName\": \"Prosthetics and orthotics-Classification and description of prosthetic components-Part 1: Classification of prosthetic components\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.3\", \"cnName\": \"悬吊\", \"enName\": \"suspension\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"11.040.40\", \"ccs\": \"C 45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183331, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬吊\", \"cnNameSearch\": \"悬吊\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"接合部件的用于使假肢保持在人体上的属性,亦即传递假肢作用于人体的纵向作用力(指向肢体远端)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"24eb5ac2b5fb4383a63b0224ebbb0f55\", \"databaseId\": null, \"standardId\": \"69847436e9ad43879de8f6884a0260b8\", \"standardCode\": \"GB/T 6960.4—2007\", \"standardName\": \"拖拉机术语 第4部分：行走系\", \"standardEnName\": \"Tractor terminology — Part 4: Running gears and undercarriages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3.1\", \"cnName\": \"悬架\", \"enName\": \"suspension\", \"publishTime\": \"2007-03-21\", \"publishYear\": \"2007\", \"implementTime\": \"2007-08-01\", \"ics\": \"65.060.10\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103961, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬架\", \"cnNameSearch\": \"悬架\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension\", \"wordSearch\": \"suspension\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使支重轮（组）与机架连接并传递机体重力的构件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ceab5df395d4e7fbf38edeb779a7327\", \"databaseId\": null, \"standardId\": \"30d8ec2d6b6f40578580197ecf7ee55d\", \"standardCode\": \"GB/T 33223—2016\", \"standardName\": \"轧制设备  术语\", \"standardEnName\": \"Rolling equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"5.2.9.1\", \"cnName\": \"万向接轴\", \"enName\": \"universal spindle\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"77.180\", \"ccs\": \"H94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 51801, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"万向接轴\", \"cnNameSearch\": \"万向接轴\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"universal spindle\", \"wordSearch\": \"universal spindle\"}, {\"languageType\": 1, \"word\": \"universal joint\", \"wordSearch\": \"universal joint\"}, {\"languageType\": 1, \"word\": \"universal coupling\", \"wordSearch\": \"universal coupling\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"允许倾角在 5<sup>∘</sup> ～25<sup>∘</sup> 的联接轴。主要用于初轧机、板带轧机、管材、型材和线材轧机等。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"25ba2806f23b43508900e8a581c77692\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.55\", \"cnName\": \"悬索桥\", \"enName\": \"suspension bridge\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 5021, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬索桥\", \"cnNameSearch\": \"悬索桥\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension bridge\", \"wordSearch\": \"suspension bridge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以通过索塔悬垂并锚固于岸侧或桥端(锚锭)的缆索或钢链作为桥跨上部结构主要承重部件的桥梁。按塔的数量分为双塔、多塔等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a604f0af17b94a39bcfa121393d67f66\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.13 \", \"cnName\": \"悬浮预热器\", \"enName\": \"suspension preheater\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18556, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"悬浮预热器\", \"cnNameSearch\": \"悬浮预热器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension preheater\", \"wordSearch\": \"suspension preheater\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用回转窑内的热烟气进行生料悬浮状态下高速预热的设备,分旋风预热器和立简预热器两种。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4261abf4aff4022816c6e3d5ba8f21a\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.11.7  \", \"cnName\": \"起重索\", \"enName\": \"suspension cable\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41062, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"起重索\", \"cnNameSearch\": \"起重索\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension cable\", \"wordSearch\": \"suspension cable\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用来悬吊铅鱼和采样器等测验仪器，并能沿铅直方向定位的活动钢索。它可与绝缘导电芯线相连接并由岸上绞车来控制。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"159be45fa49e4a06a69d378caba2fa9b\", \"databaseId\": null, \"standardId\": \"55f019b7b1ef4baaa9d015a3340fee01\", \"standardCode\": \"GB/T 51369—2019\", \"standardName\": \"通信设备安装工程抗震设计标准\", \"standardEnName\": \"Standard for anti-seismic design of information and communications equipment installation engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.12\", \"cnName\": \"吊挂结构\", \"enName\": \"suspension structure\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 88571, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"吊挂结构\", \"cnNameSearch\": \"吊挂结构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension structure\", \"wordSearch\": \"suspension structure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"房屋结构梁或板下部悬吊的，由走线架、吊杆等组成的结构体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"47dd87ac5a1442c49d8aae28c1ead976\", \"databaseId\": null, \"standardId\": \"85aa6b2084734168af647a24c4479709\", \"standardCode\": \"GB/T 51217—2017\", \"standardName\": \"通信传输线路共建共享技术规范\", \"standardEnName\": \"Technical specification for joint construction and sharing of transmission lines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"吊线\", \"enName\": \"suspension wire\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141605, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"吊线\", \"cnNameSearch\": \"吊线\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension wire\", \"wordSearch\": \"suspension wire\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过电杆或其他支撑物，架设用于拖挂或捆绑架空光（电）缆的高强度线（多为镀锌钢绞线）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"97f63f0b125446eb99fa9462c9201655\", \"databaseId\": null, \"standardId\": \"1576a62dc6374e1d8983707bc08293e4\", \"standardCode\": \"GB/T 43668—2024\", \"standardName\": \"物流无人机货物吊挂控制通用要求\", \"standardEnName\": \"General requirements for suspension control of unmanned cargo aircraft\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.2\", \"cnName\": \"吊挂控制\", \"enName\": \"suspension control\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"49.020\", \"ccs\": \"V52\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21063, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"吊挂控制\", \"cnNameSearch\": \"吊挂控制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"suspension control\", \"wordSearch\": \"suspension control\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"物流无人机通过缆绳点对点吊装货物，保证无人机与货物安全并完成货物装卸及运输的控制方式。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 10}}, \"timestamp\": 1793141429988}"
+}

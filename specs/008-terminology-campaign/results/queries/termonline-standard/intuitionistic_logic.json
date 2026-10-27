@@ -1,0 +1,152 @@
+{
+ "key": "intuitionistic logic",
+ "term": "intuitionistic logic",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:43:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=58",
+ "hits": [
+  {
+   "cn": "杜比定向逻辑环绕声（杜比Pro Logic）",
+   "en": "Dolby pro-logic surround",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "符号逻辑，数理逻辑",
+   "en": "symbolic logic, mathematical logic",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑控制器",
+   "en": "logic solver",
+   "code": "GB/T 50770—2013",
+   "standard": "石油化工安全仪表系统设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "处理逻辑",
+   "en": "processing logic",
+   "code": "GB/T 42449—2023",
+   "standard": "系统与软件工程　功能规模测量　IFPUG方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "业务逻辑",
+   "en": "business logic",
+   "code": "GB/T 41771.1—2022",
+   "standard": "第1部分：概述 现场设备集成 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "逻辑接口",
+   "en": "logic interface",
+   "code": "GB/T 40653—2021",
+   "standard": "信息安全技术 安全处理器技术要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑防护",
+   "en": "logic protection",
+   "code": "GB/T 40653—2021",
+   "standard": "信息安全技术 安全处理器技术要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑分析仪",
+   "en": "logic analyzer",
+   "code": "GB/T 15471—2013",
+   "standard": "逻辑分析仪通用规范 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logic design",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑器件",
+   "en": "logic device",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑符号",
+   "en": "logic symbol",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑图",
+   "en": "logic diagram",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "恶性逻辑",
+   "en": "malicious logic",
+   "code": "GB/T 5271.8—2001",
+   "standard": "信息技术  词汇  第8部分:安全",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑炸弹",
+   "en": "logic bomb",
+   "code": "GB/T 5271.8—2001",
+   "standard": "信息技术  词汇  第8部分:安全",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "负逻辑",
+   "en": "negative logic",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "正逻辑",
+   "en": "positive logic",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "形式逻辑",
+   "en": "formal logic",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "横糊逻辑",
+   "en": "fuzzy logic",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "可编程序控制器",
+   "en": "programmable logic controller",
+   "code": "GB 51145—2015",
+   "standard": "煤矿电气设备安装工程 施工与验收规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2022\": 4, \"2021\": 6, \"2020\": 1, \"2019\": 2, \"2017\": 2, \"2016\": 1, \"2013\": 3, \"2011\": 3, \"2008\": 13, \"2001\": 3, \"2000\": 1, \"1998\": 1, \"1993\": 3, \"1988\": 10, \"暂无年份\": 4}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 7, \"综合、术语学、标准化、文献\": 3, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"电气工程\": 2, \"电子学\": 4, \"电信、音频和视频工程\": 1, \"机械制造\": 9, \"木材技术\": 2, \"数学、自然科学\": 1, \"其它\": 4, \"信息技术、办公机械\": 23}, \"typeStats\": {\"7\": 58}, \"totalRecords\": 58, \"tmWordList\": [{\"id\": \"15fbcfc85e5c477b845cb58ab45e18c4\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"11.1.12\", \"cnName\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"enName\": \"Dolby pro-logic surround\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24000, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"cnNameSearch\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Dolby pro-logic surround\", \"wordSearch\": \"Dolby pro-logic surround\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"杜比（Dolby）实验室开发的一种改进型杜比环绕声方式。这类方式引人了相位差处理和方向增强矩阵等技术，增加重放声道，改进性能，提升环绕声效果。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"29a76ce163c841ce9754fa6f66fad337\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.01.04\", \"cnName\": \"符号逻辑，数理逻辑\", \"enName\": \"symbolic logic, mathematical logic\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221609, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"符号逻辑，数理逻辑\", \"cnNameSearch\": \"符号逻辑，数理逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"symbolic logic, mathematical logic\", \"wordSearch\": \"symbolic logic, mathematical logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一门学科，在这门学科中，有效的论证和运算是用人工语言来进行的，以避免自然语言的二义性和逻辑上的不适宜性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"196f8300de1e42a4939cb9135b9523b2\", \"databaseId\": null, \"standardId\": \"87aa436a79974d9e83852fecfb12580f\", \"standardCode\": \"GB/T 50770—2013\", \"standardName\": \"石油化工安全仪表系统设计规范\", \"standardEnName\": \"Code for design of safety instrumented system in petrochemical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.17\", \"cnName\": \"逻辑控制器\", \"enName\": \"logic solver\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143246, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑控制器\", \"cnNameSearch\": \"逻辑控制器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic solver\", \"wordSearch\": \"logic solver\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安全仪表系统的组成部分，执行逻辑功能的设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bfe946d10fb841b3a7197c58fcd02132\", \"databaseId\": null, \"standardId\": \"f02af4760aa943cd9106905180177c8a\", \"standardCode\": \"GB/T 42449—2023\", \"standardName\": \"系统与软件工程　功能规模测量　IFPUG方法\", \"standardEnName\": \"Systems and software engineering—Functional size measurement—IFPUG method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.44\", \"cnName\": \"处理逻辑\", \"enName\": \"processing logic\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"35.080\", \"ccs\": \"L 77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235697, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"处理逻辑\", \"cnNameSearch\": \"处理逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"processing logic\", \"wordSearch\": \"processing logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用户为完成基本过程（如验证、算法或运算，以及读取或维护数据功能）而特别要求的需求。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ee1fa975a229443e94d04de4f4acfd14\", \"databaseId\": null, \"standardId\": \"5a255d71d2a84a358daca4d896f13a2e\", \"standardCode\": \"GB/T 41771.1—2022\", \"standardName\": \"第1部分：概述 现场设备集成 \", \"standardEnName\": \"Field device integration—Part 1 : Overview \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.3\", \"cnName\": \"业务逻辑\", \"enName\": \"business logic\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 25.040\", \"ccs\": \"CCS N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91840, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"业务逻辑\", \"cnNameSearch\": \"业务逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"business logic\", \"wordSearch\": \"business logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"FDI包的描述元素，规定了嵌套通信的设备特定行为和/或映射逻辑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"76e3661dd6c543e5b7360c760814bc0b\", \"databaseId\": null, \"standardId\": \"ad12848c833f40de9acd6ac612ccabc8\", \"standardCode\": \"GB/T 40653—2021\", \"standardName\": \"信息安全技术 安全处理器技术要求\", \"standardEnName\": \"Information security technology—Technical requirements for security processor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9\", \"cnName\": \"逻辑接口\", \"enName\": \"logic interface\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.03035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179503, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑接口\", \"cnNameSearch\": \"逻辑接口\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic interface\", \"wordSearch\": \"logic interface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在安全处理器内，通过安全策略表、应答审计处理表、资源配置表、程序列表和数据列表的结构体，实现数据交换功能的逻辑和控制。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b46665624b534713b0cd75e49ca64f81\", \"databaseId\": null, \"standardId\": \"ad12848c833f40de9acd6ac612ccabc8\", \"standardCode\": \"GB/T 40653—2021\", \"standardName\": \"信息安全技术 安全处理器技术要求\", \"standardEnName\": \"Information security technology—Technical requirements for security processor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4\", \"cnName\": \"逻辑防护\", \"enName\": \"logic protection\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.03035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑防护\", \"cnNameSearch\": \"逻辑防护\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic protection\", \"wordSearch\": \"logic protection\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"依据物理防护和应用防护的安全功能，通过资源配置、操作配置、运行态控制等方式，调整安全策略，使逻辑结构和控制具备对未知攻击更强的安全强度和弹性，阻止逻辑威胁的安全能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e42c673945e048b896a58615cb9c66cf\", \"databaseId\": null, \"standardId\": \"3df12366fab742b497b1bec19c399466\", \"standardCode\": \"GB/T 15471—2013\", \"standardName\": \"逻辑分析仪通用规范 \", \"standardEnName\": \"General specification for logic analyzer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"逻辑分析仪\", \"enName\": \"logic analyzer\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-05-15\", \"ics\": \"ICS 17.220\", \"ccs\": \"L 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66358, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑分析仪\", \"cnNameSearch\": \"逻辑分析仪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic analyzer\", \"wordSearch\": \"logic analyzer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取相对一个触发事件的数字逻辑信号，以各种方式显示这些信号并进行分析的测试仪器。其主<br>到的逻辑信号。<br>逻辑分析仪一般由输人、采集、存储、触发与控制、处理与显示等部分组成。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ac79649d2d9490ab008c3aa29bd18ab\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.02.09\", \"cnName\": \"逻辑编程\", \"enName\": \"logic programming\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104635, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑编程\", \"cnNameSearch\": \"逻辑编程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic programming\", \"wordSearch\": \"logic programming\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种将程序结构化为若干组逻辑规则，各带有预定义的算法，用于按该程序的规则处理其输人数据的方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"95b0fdc4df1a4eb2a634331bea94a538\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.03.02\", \"cnName\": \"逻辑设计\", \"enName\": \"logic design\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136437, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑设计\", \"cnNameSearch\": \"逻辑设计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic design\", \"wordSearch\": \"logic design\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种采用符号逻辑等形式描述方法的功能设计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b772332918a74481ae8bf42d729ed280\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.04.01\", \"cnName\": \"逻辑器件\", \"enName\": \"logic device\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136442, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑器件\", \"cnNameSearch\": \"逻辑器件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic device\", \"wordSearch\": \"logic device\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种进行逻辑运算的器件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0efad27fba64061b81630293de1f0eb\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.03.04\", \"cnName\": \"逻辑符号\", \"enName\": \"logic symbol\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑符号\", \"cnNameSearch\": \"逻辑符号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic symbol\", \"wordSearch\": \"logic symbol\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种表示某一算符、功能或功能关系的符号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f0fe601a7e8c4fd3bb32892cb36bd89e\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.03.03\", \"cnName\": \"逻辑图\", \"enName\": \"logic diagram\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136444, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑图\", \"cnNameSearch\": \"逻辑图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic diagram\", \"wordSearch\": \"logic diagram\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对逻辑设计的一种图形表示。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9e02a579c74f474a947db8f7f99eeba1\", \"databaseId\": null, \"standardId\": \"722e96bcd9b34b64893deeccce83adbd\", \"standardCode\": \"GB/T 5271.8—2001\", \"standardName\": \"信息技术  词汇  第8部分:安全\", \"standardEnName\": \"Information technology——Vocabulary——Part 8:Security\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"08.05.46\", \"cnName\": \"恶性逻辑\", \"enName\": \"malicious logic\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114902, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"恶性逻辑\", \"cnNameSearch\": \"恶性逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"malicious logic\", \"wordSearch\": \"malicious logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在硬件、固件或软件中所实施的程序，其目的是执行未经授权的或有害的行动。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>逻辑炸弹、特洛伊木马、病毒、蠕虫等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b7a61f58f124fb6a73997d9bff20f0b\", \"databaseId\": null, \"standardId\": \"722e96bcd9b34b64893deeccce83adbd\", \"standardCode\": \"GB/T 5271.8—2001\", \"standardName\": \"信息技术  词汇  第8部分:安全\", \"standardEnName\": \"Information technology——Vocabulary——Part 8:Security\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"08.05.51\", \"cnName\": \"逻辑炸弹\", \"enName\": \"logic bomb\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114940, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑炸弹\", \"cnNameSearch\": \"逻辑炸弹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic bomb\", \"wordSearch\": \"logic bomb\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种恶性逻辑程序，当被某个特定的系统条件触发时，造成对数据处理系统的损害。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"47413a25b8c14e62a5f9919ac6f50b7d\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.1.1.31\", \"cnName\": \"负逻辑\", \"enName\": \"negative logic\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184963, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"负逻辑\", \"cnNameSearch\": \"负逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"negative logic\", \"wordSearch\": \"negative logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"低值域用 “1” 表示，高值域用表示 “0” 的逻辑。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"07a189ad983649c090c0c9becc66705f\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.1.1.30\", \"cnName\": \"正逻辑\", \"enName\": \"positive logic\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185015, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正逻辑\", \"cnNameSearch\": \"正逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"positive logic\", \"wordSearch\": \"positive logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"高值域用 “1” 表示，低值域用表示 “0” 的逻辑。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e9b027e38ed34a10a5726fd155223725\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.01.03\", \"cnName\": \"形式逻辑\", \"enName\": \"formal logic\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式逻辑\", \"cnNameSearch\": \"形式逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal logic\", \"wordSearch\": \"formal logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究有效论证的形式和结构，而不考虑论证所涉及的对象的含义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2003b4f748aa4cb581a140d891e046af\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.02.05\", \"cnName\": \"横糊逻辑\", \"enName\": \"fuzzy logic\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228387, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"横糊逻辑\", \"cnNameSearch\": \"横糊逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fuzzy logic\", \"wordSearch\": \"fuzzy logic\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"模糊集逻辑\", \"cnNameSearch\": \"模糊集逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fuzzy-set logic\", \"wordSearch\": \"fuzzy-set logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种非经典逻辑，其中事实、推理原则和量词都有给定的确定度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1368ae2fd2294d6eb7bd3145f7be59c4\", \"databaseId\": null, \"standardId\": \"3872d64116e0439c969c1d7e39ab0c91\", \"standardCode\": \"GB 51145—2015\", \"standardName\": \"煤矿电气设备安装工程 施工与验收规范\", \"standardEnName\": \"Code for construction and acceptance of coal mine electrical equipment installation engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.35\", \"cnName\": \"可编程序控制器\", \"enName\": \"programmable logic controller\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62186, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可编程序控制器\", \"cnNameSearch\": \"可编程序控制器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"programmable logic controller\", \"wordSearch\": \"programmable logic controller\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种数字运算操作的电子系统，专为在工业坏境下应用而设计。它采用了可编程序的存储器，用来在其内部存储执行逻辑运算、顺序控制、定时、计数和算术运算等操作的指令，并通过数字的、模拟的输入和输出，控制各种类型的机械或生产过程。缩写为PLC。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1793140984906}"
+}

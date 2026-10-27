@@ -1,0 +1,19 @@
+{
+ "key": "plato",
+ "term": "Plato",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:47:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "柏拉图度",
+   "en": "plato",
+   "code": "GB/T 4927—2008",
+   "standard": "啤酒",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2008\": 1}, \"sourceStats\": {\"食品技术\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"40f5f475349044d8846c6be5363d12ee\", \"databaseId\": null, \"standardId\": \"705aacd2ca7746758a96abec6e93217e\", \"standardCode\": \"GB/T 4927—2008\", \"standardName\": \"啤酒\", \"standardEnName\": \"Beer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.6\", \"cnName\": \"柏拉图度\", \"enName\": \"plato\", \"publishTime\": \"2008-12-29\", \"publishYear\": \"2008\", \"implementTime\": \"2009-10-01\", \"ics\": \"67.160.10\", \"ccs\": \"X 62\", \"parentTermId\": null, \"titleId\": null, \"oid\": 113564, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"柏拉图度\", \"cnNameSearch\": \"柏拉图度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plato\", \"wordSearch\": \"plato\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原麦汁浓度的一种国际通用表示单位，符号为°P，即表示100g麦芽汁中含有浸出物的克数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793141224928}"
+}

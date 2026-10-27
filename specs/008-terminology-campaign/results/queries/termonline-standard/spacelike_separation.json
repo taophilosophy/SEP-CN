@@ -1,0 +1,152 @@
+{
+ "key": "spacelike separation",
+ "term": "spacelike separation",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:49:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=198",
+ "hits": [
+  {
+   "cn": "分离",
+   "en": "separation",
+   "code": "GB/T 50902—2013",
+   "standard": "医药工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "隔离",
+   "en": "separation",
+   "code": "GB/T 50290—2014",
+   "standard": "土工合成材料应用技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "分离度",
+   "en": "separation",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "隔舱",
+   "en": "separation",
+   "code": "GB/T 8487—2010",
+   "standard": "港口装卸术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "布层脱层",
+   "en": "separation",
+   "code": "GB/T 5756—2009",
+   "standard": "输送带术语及其定义",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "分割",
+   "en": "separation",
+   "code": "GB/T 9387.1—1998",
+   "standard": "信息技术 开放系统互连 基本参考模型 第1部分：基本模型",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "实体分隔",
+   "en": "physical separation",
+   "code": "GB/T 4960.6—2008",
+   "standard": "核科学技术术语  核仪器仪表",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "粕末分离",
+   "en": "fines separation,dust-separation",
+   "code": "GB/T 8873—2008",
+   "standard": "粮油名词术语  油脂工业",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "重选",
+   "en": "gravity separation",
+   "code": "GB/T 50377—2019",
+   "standard": "矿山机电设备工程安装及验收标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "code": "GB/T 50377—2019",
+   "standard": "矿山机电设备工程安装及验收标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "隔断层",
+   "en": "separation layer",
+   "code": "GB/T 50942—2014",
+   "standard": "盐渍土地区建筑技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "立体交叉",
+   "en": "grade separation",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "刨花分选",
+   "en": "particle separation",
+   "code": "GB/T 50886—2013",
+   "standard": "林产工业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "纤维分离",
+   "en": "fiber separation",
+   "code": "GB/T 50886—2013",
+   "standard": "林产工业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "“隔离装置",
+   "en": "separation device",
+   "code": "GB/T 9706.1—2020",
+   "standard": "医用电气设备 第1部分:基本安全和基本性能的通用要求",
+   "subject": "其它"
+  },
+  {
+   "cn": "道路物理隔离",
+   "en": "physical separation",
+   "code": "GB/T 51328—2018",
+   "standard": "城市综合交通体系规划标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "立体交叉",
+   "en": "grade separation",
+   "code": "GB/T 50262—2013",
+   "standard": "铁路工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "磁选",
+   "en": "magnetic separation",
+   "code": "GB 50782—2012",
+   "standard": "有色金属选矿厂工艺设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "选别作业",
+   "en": "separation operation",
+   "code": "GB 50782—2012",
+   "standard": "有色金属选矿厂工艺设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "湿式收尘",
+   "en": "wet separation",
+   "code": "GB 50753—2012",
+   "standard": "有色金属冶炼厂收尘设计规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 2, \"2023\": 12, \"2022\": 8, \"2021\": 14, \"2020\": 9, \"2019\": 12, \"2018\": 1, \"2017\": 4, \"2016\": 4, \"2015\": 22, \"2014\": 12, \"2013\": 9, \"2012\": 3, \"2011\": 11, \"2010\": 8, \"2009\": 5, \"2008\": 26, \"2007\": 2, \"2001\": 2, \"1998\": 2, \"1996\": 2, \"暂无年份\": 28}, \"sourceStats\": {\"食品技术\": 17, \"采矿和矿产品\": 9, \"造船和海上构筑物\": 3, \"试验\": 1, \"计量学和测量、物理现象\": 5, \"航空器和航天器工程\": 13, \"能源和热传导工程\": 20, \"综合、术语学、标准化、文献\": 5, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 3, \"石油及相关技术\": 10, \"电气工程\": 11, \"电信、音频和视频工程\": 10, \"玻璃和陶瓷工业\": 3, \"环保、保健和安全\": 5, \"橡胶和塑料工业\": 11, \"材料储运设备\": 3, \"机械系统和通用件\": 2, \"机械制造\": 6, \"数学、自然科学\": 2, \"成像技术\": 3, \"建筑材料和建筑物\": 1, \"家用和商用设备、文娱、体育\": 1, \"土木工程\": 1, \"化工技术\": 7, \"冶金\": 4, \"农业\": 2, \"其它\": 36, \"信息技术、办公机械\": 4}, \"typeStats\": {\"7\": 198}, \"totalRecords\": 198, \"tmWordList\": [{\"id\": \"44b1d1fcc50945fb908e6ea362d3a18c\", \"databaseId\": null, \"standardId\": \"16bc5b5c9eb844cd99f62e972e2ef51b\", \"standardCode\": \"GB/T 50902—2013\", \"standardName\": \"医药工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms ofpharmaceutical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.4\", \"cnName\": \"分离\", \"enName\": \"separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 21927, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分离\", \"cnNameSearch\": \"分离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对双组分或多组分溶质或溶剂、液-固、气-固、气-液及固体颗粒大小进行分级、分开的过程，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"07f19b9d4b1e4d4c88c908c96b9baac4\", \"databaseId\": null, \"standardId\": \"9cbb3d6d80ba4140b221bb9ca51024c1\", \"standardCode\": \"GB/T 50290—2014\", \"standardName\": \"土工合成材料应用技术规范\", \"standardEnName\": \"Technical code for application of geosynthetics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.25\", \"cnName\": \"隔离\", \"enName\": \"separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162546, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隔离\", \"cnNameSearch\": \"隔离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止相邻两种不同介质混合的功能。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"512c49041ea3439296f7d54e5a1d2e28\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"4.2.7\", \"cnName\": \"分离度\", \"enName\": \"separation\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分离度\", \"cnNameSearch\": \"分离度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"A通道的额定输出信号电压与B通道输人额定信号时泄漏到A通道的输出信号电压之比，取以10为底的对数乘以20。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>单位为分贝(dB)。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"42f9753b229e4b4a808b9b0409b40b0c\", \"databaseId\": null, \"standardId\": \"f23ed43c7ea6408b946d9452c53d04f5\", \"standardCode\": \"GB/T 8487—2010\", \"standardName\": \"港口装卸术语\", \"standardEnName\": \"Terms for cargo handling in port\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"6.26\", \"cnName\": \"隔舱\", \"enName\": \"separation\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"03.220.40\", \"ccs\": \"R04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238245, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隔舱\", \"cnNameSearch\": \"隔舱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对船舱内货物采取的分隔措施。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"198da985154d44339c3530fba22fd9c7\", \"databaseId\": null, \"standardId\": \"18374c9ac83b47d39f1afbc36acb9e7d\", \"standardCode\": \"GB/T 5756—2009\", \"standardName\": \"输送带术语及其定义\", \"standardEnName\": \"Conveyor belts — Terms and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.3.15\", \"cnName\": \"布层脱层\", \"enName\": \"separation\", \"publishTime\": \"2009-04-24\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"53.040.20\", \"ccs\": \"G 42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23408, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"布层脱层\", \"cnNameSearch\": \"布层脱层\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"布层之间局部脱开的缺陷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"848e3990794c463d96c15b917bb0838d\", \"databaseId\": null, \"standardId\": \"699df12540af4ff18c8dc5affad253bb\", \"standardCode\": \"GB/T 9387.1—1998\", \"standardName\": \"信息技术 开放系统互连 基本参考模型 第1部分：基本模型\", \"standardEnName\": \"Information technology—Open Systems Interconnection—Basic Reference Model—Part 1: The Basic Model\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"5.8.1.14\", \"cnName\": \"分割\", \"enName\": \"separation\", \"publishTime\": \"1998-04-10\", \"publishYear\": \"1998\", \"implementTime\": \"1998-10-01\", \"ics\": \"35.100\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104231, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分割\", \"cnNameSearch\": \"分割\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation\", \"wordSearch\": \"separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"(N)实体为从一个(N-1)服务数据单元内识别出多个(N)协议数据单元所执行的功能，它与拼接功能相反。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"817ab33bdaaa4fe3a1fd5d8c8577f299\", \"databaseId\": null, \"standardId\": \"608c3b6b17ba4f30ae9dca8fae99a285\", \"standardCode\": \"GB/T 4960.6—2008\", \"standardName\": \"核科学技术术语  核仪器仪表\", \"standardEnName\": \"Glossary of terms: nuclear science and technology — Nuclear instrumentation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.1.5\", \"cnName\": \"实体分隔\", \"enName\": \"physical separation\", \"publishTime\": \"2008-09-19\", \"publishYear\": \"2008\", \"implementTime\": \"2009-08-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 96461, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"实体分隔\", \"cnNameSearch\": \"实体分隔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"physical separation\", \"wordSearch\": \"physical separation\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"实体隔离\", \"cnNameSearch\": \"实体隔离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"physical separation\", \"wordSearch\": \"physical separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由几何分隔（距离、方位）、适当的屏障或两者结合形成的隔离。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"HAF 102(2004)\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ac1570775def4f029df2c4be3ddb8153\", \"databaseId\": null, \"standardId\": \"b9c0676d6b814fad93d08a9be9d6b11c\", \"standardCode\": \"GB/T 8873—2008\", \"standardName\": \"粮油名词术语  油脂工业\", \"standardEnName\": \"Terminology of grain and oils - Oils and fats industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.3.4.19\", \"cnName\": \"粕末分离\", \"enName\": \"fines separation,dust-separation\", \"publishTime\": \"2008-11-04\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-20\", \"ics\": \"67.040\", \"ccs\": \"X04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 188918, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"粕末分离\", \"cnNameSearch\": \"粕末分离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fines separation,dust-separation\", \"wordSearch\": \"fines separation,dust-separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将蒸脱机蒸出的混合蒸汽中所带粕末分离出来的工序。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f1828f96a1b5420a862d03afee60acff\", \"databaseId\": null, \"standardId\": \"00d0c4dab4834a7da28252174e767a4e\", \"standardCode\": \"GB/T 50377—2019\", \"standardName\": \"矿山机电设备工程安装及验收标准\", \"standardEnName\": \"Standard for installation and acceptance of mechanical equipment in metallurgical mine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"重选\", \"enName\": \"gravity separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 500, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"重选\", \"cnNameSearch\": \"重选\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"gravity separation\", \"wordSearch\": \"gravity separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不同密度的颗粒状矿产物料，在空气、水、乳液等介质和机械力作用下，呈现不同的运动速度和轨迹，实现分离的分选方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8ed21d0655de4ccca1e7c55624267c41\", \"databaseId\": null, \"standardId\": \"00d0c4dab4834a7da28252174e767a4e\", \"standardCode\": \"GB/T 50377—2019\", \"standardName\": \"矿山机电设备工程安装及验收标准\", \"standardEnName\": \"Standard for installation and acceptance of mechanical equipment in metallurgical mine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"磁选\", \"enName\": \"magnetic separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 502, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"磁选\", \"cnNameSearch\": \"磁选\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"magnetic separation\", \"wordSearch\": \"magnetic separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用矿产物料磁性差异来实现分离的分选方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c64bd9c528264d3897cc9c3042b20552\", \"databaseId\": null, \"standardId\": \"0246413cdab9464eab17a4ca108b498a\", \"standardCode\": \"GB/T 50942—2014\", \"standardName\": \"盐渍土地区建筑技术规范\", \"standardEnName\": \"Technical code for building in saline soil regions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.19\", \"cnName\": \"隔断层\", \"enName\": \"separation layer\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1698, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隔断层\", \"cnNameSearch\": \"隔断层\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation layer\", \"wordSearch\": \"separation layer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由高止水材料或不透水材料构成的隔断毛细水运移的结构层，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cf10e223d89048d08c9d848d28f0e9f6\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.1.11  \", \"cnName\": \"立体交叉\", \"enName\": \"grade separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4633, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立体交叉\", \"cnNameSearch\": \"立体交叉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"grade separation\", \"wordSearch\": \"grade separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铁路与铁路、道路不在同一平面上的交叉。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"394a23ff80064d0cbd6859a835266cfc\", \"databaseId\": null, \"standardId\": \"0f222aac3a8a4eb2948302df567983bd\", \"standardCode\": \"GB/T 50886—2013\", \"standardName\": \"林产工业工程术语标准\", \"standardEnName\": \"Glossary Standard of Forest Products Industry Engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.4.24\", \"cnName\": \"刨花分选\", \"enName\": \"particle separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 13066, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"刨花分选\", \"cnNameSearch\": \"刨花分选\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"particle separation\", \"wordSearch\": \"particle separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将刨花依其尺寸、形状或单位面积质量用机械方法或气流分类的过程。分别称为机械分选（mechanical screening)与气流分选(air separation)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cb19e39ff1cd4534ae5d6ae2eeea2f51\", \"databaseId\": null, \"standardId\": \"0f222aac3a8a4eb2948302df567983bd\", \"standardCode\": \"GB/T 50886—2013\", \"standardName\": \"林产工业工程术语标准\", \"standardEnName\": \"Glossary Standard of Forest Products Industry Engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.27\", \"cnName\": \"纤维分离\", \"enName\": \"fiber separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 13160, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"纤维分离\", \"cnNameSearch\": \"纤维分离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fiber separation\", \"wordSearch\": \"fiber separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将木片解离成单体纤维的过程。在纤维生产中通常使用热磨机、高速磨浆机等设备完成此过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a669e26968644b2f97449cd92075e73a\", \"databaseId\": null, \"standardId\": \"1f60fee91eba4de7819a951e4107ba8f\", \"standardCode\": \"GB/T 9706.1—2020\", \"standardName\": \"医用电气设备 第1部分:基本安全和基本性能的通用要求\", \"standardEnName\": \"Medical electrical equipment-Part 1:General requirements for basic safety and essential performance\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.112\", \"cnName\": \"“隔离装置\", \"enName\": \"separation device\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29805, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"“隔离装置\", \"cnNameSearch\": \"“隔离装置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation device\", \"wordSearch\": \"separation device\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"出于安全原因，以防止<strong>ME系统</strong>部件之间传输不需要的电压或电流，且带有输人和输出部分的部件或部件组合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bb86af168db24af198516617e5882405\", \"databaseId\": null, \"standardId\": \"2c9c1ff57fbd419ba25e08756d6518cc\", \"standardCode\": \"GB/T 51328—2018\", \"standardName\": \"城市综合交通体系规划标准\", \"standardEnName\": \"Standard for urban comprehensive transport system planning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.13\", \"cnName\": \"道路物理隔离\", \"enName\": \"physical separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 46787, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"道路物理隔离\", \"cnNameSearch\": \"道路物理隔离\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"physical separation\", \"wordSearch\": \"physical separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按照通行速度、方向或功能来划分道路上不同交通工具通行空间的各类实体分隔设施或不同地面标高的区分手段，一般有隔离栏、隔离墩、绿化带等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec5ad38b7ba74b2ea6e67ec3e0f83ea5\", \"databaseId\": null, \"standardId\": \"2d48f702e69c4fcbb0452d9059aa417c\", \"standardCode\": \"GB/T 50262—2013\", \"standardName\": \"铁路工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.3.2\", \"cnName\": \"立体交叉\", \"enName\": \"grade separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 48347, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立体交叉\", \"cnNameSearch\": \"立体交叉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"grade separation\", \"wordSearch\": \"grade separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铁路与铁路、道路不在同一平面上的交叉。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"48f6b67e15e841269da680e2c4d56b92\", \"databaseId\": null, \"standardId\": \"4641315dcc714b59ace4d7429bbc1391\", \"standardCode\": \"GB 50782—2012\", \"standardName\": \"有色金属选矿厂工艺设计规范\", \"standardEnName\": \"Code for technological design of non-ferrous concentrator\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.26\", \"cnName\": \"磁选\", \"enName\": \"magnetic separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73894, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"磁选\", \"cnNameSearch\": \"磁选\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"magnetic separation\", \"wordSearch\": \"magnetic separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用被分选物料的磁性差异，在磁选机磁场中便矿物分离的一种选矿方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"46a5c2db8d404f64b95a9cab87d02b9c\", \"databaseId\": null, \"standardId\": \"4641315dcc714b59ace4d7429bbc1391\", \"standardCode\": \"GB 50782—2012\", \"standardName\": \"有色金属选矿厂工艺设计规范\", \"standardEnName\": \"Code for technological design of non-ferrous concentrator\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"选别作业\", \"enName\": \"separation operation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 73915, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"选别作业\", \"cnNameSearch\": \"选别作业\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"separation operation\", \"wordSearch\": \"separation operation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用选矿方法对有用矿物与脉石或有害物质进行分离过程的统称，包括粗选、扫选、精选等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7d408ca74e8c4bc58d580b810a8a4ee7\", \"databaseId\": null, \"standardId\": \"9080b946f1e7459099734ee9a6ad5501\", \"standardCode\": \"GB 50753—2012\", \"standardName\": \"有色金属冶炼厂收尘设计规范\", \"standardEnName\": \"Code for dust collection design of non-ferrous metals plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.10\", \"cnName\": \"湿式收尘\", \"enName\": \"wet separation\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153023, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"湿式收尘\", \"cnNameSearch\": \"湿式收尘\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"wet separation\", \"wordSearch\": \"wet separation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用液体的洗涤作用使粉尘从含尘气体中分离出来的工艺过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 10}}, \"timestamp\": 1793141359950}"
+}

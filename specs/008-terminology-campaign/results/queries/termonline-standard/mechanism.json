@@ -1,0 +1,152 @@
+{
+ "key": "mechanism",
+ "term": "mechanism",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:44:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=253",
+ "hits": [
+  {
+   "cn": "机制",
+   "en": "mechanism",
+   "code": "GB/T 41597—2022",
+   "standard": "质量管理  文化和机制支撑服务提升指南 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "运行机构",
+   "en": "travel mechanism",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "工作机构",
+   "en": "operating mechanism",
+   "code": "GB/T 50562—2019",
+   "standard": "煤炭矿井工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "锁止机构",
+   "en": "lock mechanism",
+   "code": "GB/T 4870—2020",
+   "standard": "汽车车身术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "上料机构",
+   "en": "feed mechanism",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "操舵机构",
+   "en": "steering mechanism",
+   "code": "GB/T 43948—2024",
+   "standard": "小艇 操舵装置 缆索滑轮传动系统",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "折叠机构",
+   "en": "folding mechanism",
+   "code": "GB/T 43002—2023",
+   "standard": "儿童家具 质量检验及质量判定",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "驱动机构",
+   "en": "driving mechanism",
+   "code": "GB/T 43002—2023",
+   "standard": "儿童家具 质量检验及质量判定",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "阻尼器",
+   "en": "damper mechanism",
+   "code": "GB/T 10357.5—2023",
+   "standard": "家具力学性能试验第5部分:柜类强度和耐久性",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "插销",
+   "en": "latching mechanism",
+   "code": "GB/T 10357.5—2023",
+   "standard": "家具力学性能试验第5部分:柜类强度和耐久性",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "打捆机构",
+   "en": "tying mechanism",
+   "code": "GB/T 25423—2023",
+   "standard": "方草捆打捆机",
+   "subject": "农业"
+  },
+  {
+   "cn": "喂入机构",
+   "en": "feeding mechanism",
+   "code": "GB/T 25423—2023",
+   "standard": "方草捆打捆机",
+   "subject": "农业"
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "code": "GB/T 42752—2023",
+   "standard": "区块链和分布式记账技术 参考架构",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "code": "GB/T 43580—2023",
+   "standard": "区块链和分布式记账技术 存证通用服务指南",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "定价和调价机制",
+   "en": "pricing mechanism",
+   "code": "GB/T 42593—2023",
+   "standard": "政府和社会资本合作 基础术语与模式分类",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "共识机制",
+   "en": "consensus mechanism",
+   "code": "GB/T 43572—2023",
+   "standard": "区块链和分布式记账技术   术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "摇头机构",
+   "en": "oscillating mechanism",
+   "code": "GB/T 43552—2023",
+   "standard": "家用和类似用途舒适风扇及其调速器 性能测试方法",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "干燥机理",
+   "en": "drying mechanism",
+   "code": "GB/T 15035—2023",
+   "standard": "木材干燥术语",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "按摩机构",
+   "en": "massage mechanism",
+   "code": "GB/T 26254—2023",
+   "standard": "家用和类似用途保健按摩垫",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "发放装置",
+   "en": "launching mechanism",
+   "code": "GB/T 43328—2023",
+   "standard": "浮空器术语",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 30, \"2022\": 15, \"2021\": 27, \"2020\": 26, \"2019\": 10, \"2018\": 2, \"2017\": 13, \"2016\": 12, \"2015\": 8, \"2014\": 6, \"2013\": 31, \"2012\": 6, \"2011\": 7, \"2010\": 2, \"2009\": 1, \"2008\": 33, \"2007\": 1, \"2006\": 1, \"2005\": 3, \"2004\": 4, \"2003\": 4, \"2000\": 1, \"暂无年份\": 9}, \"sourceStats\": {\"食品技术\": 9, \"道路车辆工程\": 2, \"造船和海上构筑物\": 2, \"货物的包装和调运\": 2, \"计量学和测量、物理现象\": 2, \"航空器和航天器工程\": 12, \"能源和热传导工程\": 9, \"综合、术语学、标准化、文献\": 34, \"纺织和皮革技术\": 4, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"电气工程\": 3, \"流体系统和通用件\": 4, \"材料储运设备\": 10, \"机械系统和通用件\": 3, \"机械制造\": 57, \"木材技术\": 3, \"服装工业\": 36, \"成像技术\": 1, \"建筑材料和建筑物\": 6, \"家用和商用设备、文娱、体育\": 14, \"医药卫生技术\": 6, \"化工技术\": 1, \"农业\": 8, \"其它\": 9, \"信息技术、办公机械\": 9}, \"typeStats\": {\"7\": 253}, \"totalRecords\": 253, \"tmWordList\": [{\"id\": \"2bd874704c764590a96e4d442a69b068\", \"databaseId\": null, \"standardId\": \"8c4e3ac46c404b9abab78741882be52d\", \"standardCode\": \"GB/T 41597—2022\", \"standardName\": \"质量管理  文化和机制支撑服务提升指南 \", \"standardEnName\": \"Quality management—Guidance on service enhancement with support of culture and mechanism\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2\", \"cnName\": \"机制\", \"enName\": \"mechanism\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 03.120.10\", \"ccs\": \"CCS A 00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147910, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"机制\", \"cnNameSearch\": \"机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanism\", \"wordSearch\": \"mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"组织的内在工作方式。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>通常，机制包括组成部分的功能和作用，及期间发生的各种变化过程的相互联系。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c81e4e152a994c43959e2006a048c000\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"8.9.11\", \"cnName\": \"运行机构\", \"enName\": \"travel mechanism\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58197, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"运行机构\", \"cnNameSearch\": \"运行机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"travel mechanism\", \"wordSearch\": \"travel mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"行走机构\", \"cnNameSearch\": \"行走机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"travel mechanism\", \"wordSearch\": \"travel mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使起重机、起重机小车或葫芦横移的机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c49c4c42614c433f9255617c6462fb9a\", \"databaseId\": null, \"standardId\": \"42d9740119184914a86604c47989def7\", \"standardCode\": \"GB/T 50562—2019\", \"standardName\": \"煤炭矿井工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of coal mine construction engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.2\", \"cnName\": \"工作机构\", \"enName\": \"operating mechanism\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 71067, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"工作机构\", \"cnNameSearch\": \"工作机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"operating mechanism\", \"wordSearch\": \"operating mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采掘机械上直接实现截割、破碎或装载煤（岩）等主要功能的部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"54a25ab3caaa4874a2212f8409208a88\", \"databaseId\": null, \"standardId\": \"829f8b101c704f70b6e0a2bfd8f23c23\", \"standardCode\": \"GB/T 4870—2020\", \"standardName\": \"汽车车身术语\", \"standardEnName\": \"Terms for motor vehicle body\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.37\", \"cnName\": \"锁止机构\", \"enName\": \"lock mechanism\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 137466, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"锁止机构\", \"cnNameSearch\": \"锁止机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"lock mechanism\", \"wordSearch\": \"lock mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"零件处于正常使用位置时，用于保持零件可靠固定的机构<br>适用车型：M、N\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"33c57a60072b4ab095fe79df2c4b816d\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"16.7.8.17  \", \"cnName\": \"上料机构\", \"enName\": \"feed mechanism\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223644, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"上料机构\", \"cnNameSearch\": \"上料机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"feed mechanism\", \"wordSearch\": \"feed mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在机械化或自动化装置中,将坯料输送至准备加工的位置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"77e21f770e064a9db2dc1fc56b937227\", \"databaseId\": null, \"standardId\": \"cf13a99336f846f489e444910b2ca281\", \"standardCode\": \"GB/T 43948—2024\", \"standardName\": \"小艇 操舵装置 缆索滑轮传动系统\", \"standardEnName\": \"Small craft—Steering gear—Cable over pulley systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.10\", \"cnName\": \"操舵机构\", \"enName\": \"steering mechanism\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2025-05-01\", \"ics\": \"47.080\", \"ccs\": \"U37\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207351, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"操舵机构\", \"cnNameSearch\": \"操舵机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"steering mechanism\", \"wordSearch\": \"steering mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"与用于手动施加控制力的控制部件连接，将控制力传入操舵系统的装置。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c782e1b3fc54e09879e967f6f2b470a\", \"databaseId\": null, \"standardId\": \"31aebe496fdf400c8f79450e9cc0fc6f\", \"standardCode\": \"GB/T 43002—2023\", \"standardName\": \"儿童家具 质量检验及质量判定\", \"standardEnName\": \"Children's furniture—Quality inspection and quality judgement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.3\", \"cnName\": \"折叠机构\", \"enName\": \"folding mechanism\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"97.140\", \"ccs\": \"Y 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52707, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"折叠机构\", \"cnNameSearch\": \"折叠机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"folding mechanism\", \"wordSearch\": \"folding mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以铰链或旋轴连接，在操作时可能产生挤压、剪切作用的机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB 28007—2011\", \"sourceCode\": \"3.3\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8eedad4468694723aa3a1d88d946cc78\", \"databaseId\": null, \"standardId\": \"31aebe496fdf400c8f79450e9cc0fc6f\", \"standardCode\": \"GB/T 43002—2023\", \"standardName\": \"儿童家具 质量检验及质量判定\", \"standardEnName\": \"Children's furniture—Quality inspection and quality judgement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.2\", \"cnName\": \"驱动机构\", \"enName\": \"driving mechanism\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"97.140\", \"ccs\": \"Y 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52708, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"驱动机构\", \"cnNameSearch\": \"驱动机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"driving mechanism\", \"wordSearch\": \"driving mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"家具部件间的连接组合，至少有一个被连接部件的运动不依靠人力驱动的机构。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"电力或机械动力驱动机构。\"], \"notes\": [], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"152ee9fad9fc46bab2bd761ebf11ab06\", \"databaseId\": null, \"standardId\": \"3ad1c360cfe74067b3d4ccea7166812b\", \"standardCode\": \"GB/T 10357.5—2023\", \"standardName\": \"家具力学性能试验第5部分:柜类强度和耐久性\", \"standardEnName\": \"Test of mechanical properties of furniture Part 5 :Strength and durability of storage units\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.8\", \"cnName\": \"阻尼器\", \"enName\": \"damper mechanism\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"97.14097\", \"ccs\": \"Y80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63430, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"阻尼器\", \"cnNameSearch\": \"阻尼器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"damper mechanism\", \"wordSearch\": \"damper mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用来缓慢关闭部件的机械装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81b4041de55746559711d79338b349e4\", \"databaseId\": null, \"standardId\": \"3ad1c360cfe74067b3d4ccea7166812b\", \"standardCode\": \"GB/T 10357.5—2023\", \"standardName\": \"家具力学性能试验第5部分:柜类强度和耐久性\", \"standardEnName\": \"Test of mechanical properties of furniture Part 5 :Strength and durability of storage units\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.15\", \"cnName\": \"插销\", \"enName\": \"latching mechanism\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"97.14097\", \"ccs\": \"Y80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63451, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"插销\", \"cnNameSearch\": \"插销\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"latching mechanism\", \"wordSearch\": \"latching mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"保持一个推拉构件或门在关闭位置，需要额外动作、一把钥匙或一组号码来打开的机械装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db31a8e2e8e34578a11b0aa5e4fe2898\", \"databaseId\": null, \"standardId\": \"6be5ec340bac432da29765a3bd6e39f3\", \"standardCode\": \"GB/T 25423—2023\", \"standardName\": \"方草捆打捆机\", \"standardEnName\": \"Rectangular bale baler\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5\", \"cnName\": \"打捆机构\", \"enName\": \"tying mechanism\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"ICS 65.060.50\", \"ccs\": \"CCS B 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 108058, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"打捆机构\", \"cnNameSearch\": \"打捆机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"tying mechanism\", \"wordSearch\": \"tying mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将捆绳缠绕在压缩成形的物料表面并打成结的机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2007f94decb54d6387a2d79141baede4\", \"databaseId\": null, \"standardId\": \"6be5ec340bac432da29765a3bd6e39f3\", \"standardCode\": \"GB/T 25423—2023\", \"standardName\": \"方草捆打捆机\", \"standardEnName\": \"Rectangular bale baler\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4\", \"cnName\": \"喂入机构\", \"enName\": \"feeding mechanism\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"ICS 65.060.50\", \"ccs\": \"CCS B 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 108061, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"喂入机构\", \"cnNameSearch\": \"喂入机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"feeding mechanism\", \"wordSearch\": \"feeding mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将由弹齿式捡拾器或切割揉丝装置运送的物料喂人预压缩室或直接喂入压缩室的机构，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"08be16d36ed342898a2e7b3a81b6e9b2\", \"databaseId\": null, \"standardId\": \"81d51d3fe992496787dd7592b86753e9\", \"standardCode\": \"GB/T 42752—2023\", \"standardName\": \"区块链和分布式记账技术 参考架构\", \"standardEnName\": \"Blockchain and distributed ledger technology—Reference architecture\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.8\", \"cnName\": \"共识机制\", \"enName\": \"consensus mechanism\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"35.240\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136705, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共识机制\", \"cnNameSearch\": \"共识机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"consensus mechanism\", \"wordSearch\": \"consensus mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在分布式节点间达成其识的规则和程序。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8746240794a641588d461859299b440c\", \"databaseId\": null, \"standardId\": \"85e2b92796b64356bdc2969ec04ca92f\", \"standardCode\": \"GB/T 43580—2023\", \"standardName\": \"区块链和分布式记账技术 存证通用服务指南\", \"standardEnName\": \"Blockchain and distributed ledger technology—General service guidelines for preserve evidence\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.6\", \"cnName\": \"共识机制\", \"enName\": \"consensus mechanism\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"35.240\", \"ccs\": \"L70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141685, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共识机制\", \"cnNameSearch\": \"共识机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"consensus mechanism\", \"wordSearch\": \"consensus mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"使节点间达成共识的规则和程序。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 43572—2023\", \"sourceCode\": \"3.12\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"940298dcec8d41d091139cb31492ab10\", \"databaseId\": null, \"standardId\": \"8615b415d48a499a8d8d731ce64427de\", \"standardCode\": \"GB/T 42593—2023\", \"standardName\": \"政府和社会资本合作 基础术语与模式分类\", \"standardEnName\": \"Public—private partnership —Basic terminology and pattern classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.4.2.3\", \"cnName\": \"定价和调价机制\", \"enName\": \"pricing mechanism\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"01.040.01\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141863, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"定价和调价机制\", \"cnNameSearch\": \"定价和调价机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"pricing mechanism\", \"wordSearch\": \"pricing mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据相关法律法规规定，结合项目自身特点，以明确项目定价的依据、标准，调价的条件、方法和程序，以及是否需要设置唯一性条款等内容的机制。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a201cddbb13248aab7134e5fc748793b\", \"databaseId\": null, \"standardId\": \"8a9622ab80ef42ff925aa82dc0c1c5ef\", \"standardCode\": \"GB/T 43572—2023\", \"standardName\": \"区块链和分布式记账技术   术语\", \"standardEnName\": \"Blockchain and distributed ledger technologies—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.12\", \"cnName\": \"共识机制\", \"enName\": \"consensus mechanism\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"35.240\", \"ccs\": \"L70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 145970, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共识机制\", \"cnNameSearch\": \"共识机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"consensus mechanism\", \"wordSearch\": \"consensus mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使节点间达成共识的规则和程序。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9675ca1ed041464fa4a8277fdb018693\", \"databaseId\": null, \"standardId\": \"8b5a76b0c2af4682847af4b52ab84960\", \"standardCode\": \"GB/T 43552—2023\", \"standardName\": \"家用和类似用途舒适风扇及其调速器 性能测试方法\", \"standardEnName\": \"Comfort fans and regulators for household and similar purposes—Methods for measuring performance\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.17\", \"cnName\": \"摇头机构\", \"enName\": \"oscillating mechanism\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"23.120\", \"ccs\": \"K65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147032, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"摇头机构\", \"cnNameSearch\": \"摇头机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"oscillating mechanism\", \"wordSearch\": \"oscillating mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在运行过程中，舒适风扇自动变换送风方向的装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8537dcfd04134030a4416355e8049159\", \"databaseId\": null, \"standardId\": \"8c05c3650c6442dfaf5a0a2ec516d188\", \"standardCode\": \"GB/T 15035—2023\", \"standardName\": \"木材干燥术语\", \"standardEnName\": \"Terminology in wood drying\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.5.2\", \"cnName\": \"干燥机理\", \"enName\": \"drying mechanism\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"79.020\", \"ccs\": \"B 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147502, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"干燥机理\", \"cnNameSearch\": \"干燥机理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"drying mechanism\", \"wordSearch\": \"drying mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"木材干燥的物理规律。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc0b887a207f47a58e3b1ba31bec7280\", \"databaseId\": null, \"standardId\": \"94a91bd1c6fd4d7196b8ae1c35a1d0cb\", \"standardCode\": \"GB/T 26254—2023\", \"standardName\": \"家用和类似用途保健按摩垫\", \"standardEnName\": \"Household and similar healthful massage cushion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.16\", \"cnName\": \"按摩机构\", \"enName\": \"massage mechanism\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"97.170\", \"ccs\": \"Y64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157284, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"按摩机构\", \"cnNameSearch\": \"按摩机构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"massage mechanism\", \"wordSearch\": \"massage mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"按摩机芯的一部分,用于驱动按摩头进行按摩动作的组件。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00f293bcce4a42dba0552598f3d0c546\", \"databaseId\": null, \"standardId\": \"a684fbe1c52b4609a5c3ac4ce9d44547\", \"standardCode\": \"GB/T 43328—2023\", \"standardName\": \"浮空器术语\", \"standardEnName\": \"Aerostat terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"5.2.9\", \"cnName\": \"发放装置\", \"enName\": \"launching mechanism\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"49.020\", \"ccs\": \"V 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 170491, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"发放装置\", \"cnNameSearch\": \"发放装置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"launching mechanism\", \"wordSearch\": \"launching mechanism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地面上专门用于发放自由气球的机械装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 13}}, \"timestamp\": 1793141079904}"
+}

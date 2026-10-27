@@ -1,0 +1,152 @@
+{
+ "key": "quantum theory",
+ "term": "quantum theory",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:48:13+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=171",
+ "hits": [
+  {
+   "cn": "量子复杂性理论",
+   "en": "quantum complexity theory",
+   "code": "GB/T 42565—2023",
+   "standard": "量子计算 术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "地下水动力学理论",
+   "en": "theory ofgroundwaterhydraulics",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "朗格缪尔理论",
+   "en": "Langmuir theory",
+   "code": "GB/T 31537—2015",
+   "standard": "煤层气（煤矿瓦斯）术语",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "塔板理论",
+   "en": "plate theory",
+   "code": "GB/T 32267—2015",
+   "standard": "分析仪器性能测定术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "动力学理论",
+   "en": "dynamical theory",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "通信理论",
+   "en": "communication theory",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "code": "GB/T 5271.16—2008",
+   "standard": "信息技术  词汇 第16部分：信息论",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "通信论",
+   "en": "communication theory",
+   "code": "GB/T 5271.16—2008",
+   "standard": "信息技术  词汇 第16部分：信息论",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "发色团理论",
+   "en": "chromophore theory",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "code": "GB/T 30544.12—2023",
+   "standard": "纳米科技 术语第12部分：纳米科技中的量子现象",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": "GB/T 30544.12—2023",
+   "standard": "纳米科技 术语第12部分：纳米科技中的量子现象",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "比奥固结理论",
+   "en": "Biot's consolidation theory",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "太沙基固结理论",
+   "en": "Terzaghi's consolidation theory",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "误差埋论",
+   "en": "theory of errors",
+   "code": "GB/T 50228—2011",
+   "standard": "工程测量基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "塑性力学",
+   "en": "theory of plasticity",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "弹性力学",
+   "en": "theory of elasticity",
+   "code": "GB/T 8451—2012",
+   "standard": "锻 压 术 语",
+   "subject": "其它"
+  },
+  {
+   "cn": "弹性力学",
+   "en": "theory of elasticity",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "塑性力学",
+   "en": "theory of plasticity",
+   "code": "GB/T 8541—2012",
+   "standard": "锻 压 术 语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "层合板理论",
+   "en": "laminated plate theory",
+   "code": "GB/T 3961—2009",
+   "standard": "纤维增强塑料术语",
+   "subject": "橡胶和塑料工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 39, \"2023\": 93, \"2022\": 2, \"2020\": 4, \"2018\": 1, \"2016\": 1, \"2015\": 4, \"2013\": 1, \"2012\": 3, \"2011\": 1, \"2010\": 2, \"2009\": 2, \"2008\": 7, \"2006\": 4, \"1995\": 1, \"暂无年份\": 6}, \"sourceStats\": {\"采矿和矿产品\": 1, \"道路车辆工程\": 1, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 3, \"综合、术语学、标准化、文献\": 100, \"石油及相关技术\": 1, \"电气工程\": 6, \"电子学\": 1, \"橡胶和塑料工业\": 1, \"机械制造\": 3, \"数学、自然科学\": 24, \"化工技术\": 4, \"冶金\": 3, \"其它\": 7, \"信息技术、办公机械\": 14}, \"typeStats\": {\"7\": 171}, \"totalRecords\": 171, \"tmWordList\": [{\"id\": \"f67b830b3d254bfb8e0b9058d97b0e66\", \"databaseId\": null, \"standardId\": \"913f7312171440778aecc8298c307430\", \"standardCode\": \"GB/T 42565—2023\", \"standardName\": \"量子计算 术语和定义\", \"standardEnName\": \"Quantum computing—Terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.13\", \"cnName\": \"量子复杂性理论\", \"enName\": \"quantum complexity theory\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"01.040.35\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153467, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子复杂性理论\", \"cnNameSearch\": \"量子复杂性理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum complexity theory\", \"wordSearch\": \"quantum complexity theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使用量子计算研究复杂性的理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b41973e8e4a43ef93d748a04504244e\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.51\", \"cnName\": \"量子\", \"enName\": \"quantum\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146422, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子\", \"cnNameSearch\": \"量子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum\", \"wordSearch\": \"quantum\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原子或核系统从一个离散能态跃迁至另一离散能态所需的最小离散能量(或动量)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0b7b0e22ccc448aa1446fca68c95ced\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3.2\", \"cnName\": \"地下水动力学理论\", \"enName\": \"theory ofgroundwaterhydraulics\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121284, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地下水动力学理论\", \"cnNameSearch\": \"地下水动力学理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory ofgroundwaterhydraulics\", \"wordSearch\": \"theory ofgroundwaterhydraulics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ebd0ee77fed24bb69c4d9fc3b686524e\", \"databaseId\": null, \"standardId\": \"11d26ff9dae34aac838594143c3ec14c\", \"standardCode\": \"GB/T 31537—2015\", \"standardName\": \"煤层气（煤矿瓦斯）术语\", \"standardEnName\": \"Terms relating to coalbed methane（coal mine gas）\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.2.44\", \"cnName\": \"朗格缪尔理论\", \"enName\": \"Langmuir theory\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-09-01\", \"ics\": \"73.040\", \"ccs\": \"D04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16301, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"朗格缪尔理论\", \"cnNameSearch\": \"朗格缪尔理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Langmuir theory\", \"wordSearch\": \"Langmuir theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"单分子层吸附理论模型。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c2086f3556c40cabc921ca1f977a668\", \"databaseId\": null, \"standardId\": \"64355c1a5481444a8181fd48406a1101\", \"standardCode\": \"GB/T 32267—2015\", \"standardName\": \"分析仪器性能测定术语\", \"standardEnName\": \"Terminology of performance testing for analytical instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"7.38\", \"cnName\": \"塔板理论\", \"enName\": \"plate theory\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2017-01-01\", \"ics\": \"71.040\", \"ccs\": \"N04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 99869, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塔板理论\", \"cnNameSearch\": \"塔板理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plate theory\", \"wordSearch\": \"plate theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将色谱柱视为单级蒸馏的小塔板组成的精馏塔，借助化工原理中的塔板概念，描述色谱柱中溶质的浓度变化、分配平衡和分离效率的理论。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1cc0f43b86914378b0cf913de6839325\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.57\", \"cnName\": \"动力学理论\", \"enName\": \"dynamical theory\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151581, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"动力学理论\", \"cnNameSearch\": \"动力学理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dynamical theory\", \"wordSearch\": \"dynamical theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用入射光束及其所有散射波和晶体点阵之间的动力学相互作用来解释衍射现象，晶体点阵可看成是电势的三维周期场。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4476ef9222eb4077b3d0665e24843d02\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.3.6\", \"cnName\": \"通信理论\", \"enName\": \"communication theory\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通信理论\", \"cnNameSearch\": \"通信理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"communication theory\", \"wordSearch\": \"communication theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"着重研究通信过程和通信系统的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ad274d8e5ec4ae6848cb366371b7cfd\", \"databaseId\": null, \"standardId\": \"20c89588f1b54a74ad347d8091435e22\", \"standardCode\": \"GB/T 5271.16—2008\", \"standardName\": \"信息技术  词汇 第16部分：信息论\", \"standardEnName\": \"Information technology — Vocabulary Part 16: Information theory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"16.01.01\", \"cnName\": \"信息论\", \"enName\": \"information theory\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31034, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"信息论\", \"cnNameSearch\": \"信息论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"information theory\", \"wordSearch\": \"information theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究信息的定量测度的学科分支。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2bc4a1be379d497a82d519cc41187144\", \"databaseId\": null, \"standardId\": \"20c89588f1b54a74ad347d8091435e22\", \"standardCode\": \"GB/T 5271.16—2008\", \"standardName\": \"信息技术  词汇 第16部分：信息论\", \"standardEnName\": \"Information technology — Vocabulary Part 16: Information theory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"16.01.02\", \"cnName\": \"通信论\", \"enName\": \"communication theory\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31053, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通信论\", \"cnNameSearch\": \"通信论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"communication theory\", \"wordSearch\": \"communication theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究存在噪声和其他干扰的条件下，消息传输的概率特征的数学分支。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7abacfeecf9c42248b3f7c7def42cfea\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.17\", \"cnName\": \"发色团理论\", \"enName\": \"chromophore theory\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"发色团理论\", \"cnNameSearch\": \"发色团理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chromophore theory\", \"wordSearch\": \"chromophore theory\"}, {\"languageType\": 1, \"word\": \"colour theory of witt\", \"wordSearch\": \"colour theory of witt\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"这是1876年 O·N·Witt 为说明染料的颜色和其化学结构之间的关系提出的一个经验学说，即染料的颜色是由其分子中的发色团和助色团产生的，并无严格的理论意义。随着科学的发展，后来又出现了共振论、经典电子理论以至以量子化学为基础的近代发色理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc560938b82e49a1ac4f7ad76b4713bf\", \"databaseId\": null, \"standardId\": \"58a5750f3e264752868d55129783e46a\", \"standardCode\": \"GB/T 30544.12—2023\", \"standardName\": \"纳米科技 术语第12部分：纳米科技中的量子现象\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 12: Quantum phenomena in nanotechnology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"5.3\", \"cnName\": \"量子线\", \"enName\": \"quantum wire\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.120\", \"ccs\": \"A42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90936, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子线\", \"cnNameSearch\": \"量子线\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum wire\", \"wordSearch\": \"quantum wire\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"量子弦\", \"cnNameSearch\": \"量子弦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum string\", \"wordSearch\": \"quantum string\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"导电的准一维物理系统，粒子能够在一个方向自由移动，在另外两个方向受到量子限域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb86c622387944938e3f1ef281b98f56\", \"databaseId\": null, \"standardId\": \"58a5750f3e264752868d55129783e46a\", \"standardCode\": \"GB/T 30544.12—2023\", \"standardName\": \"纳米科技 术语第12部分：纳米科技中的量子现象\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 12: Quantum phenomena in nanotechnology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.8\", \"cnName\": \"量子效应\", \"enName\": \"quantum effect\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.120\", \"ccs\": \"A42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子效应\", \"cnNameSearch\": \"量子效应\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum effect\", \"wordSearch\": \"quantum effect\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"量子现象\", \"cnNameSearch\": \"量子现象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum phenomenon\", \"wordSearch\": \"quantum phenomenon\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在物理体系中，由于粒子的自身量子性质、相互作用，以及准粒子的次级效应所导致，但在经典极限（从量子力学过渡到经典力学）下不存在的物理效应。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>不是所有的量子效应都基于纳米尺度上。</p>\", \"<p>不是所有的纳米尺度现象(4.7)都是由量子效应引起的。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ece6f2b314d94bd7b7014b0ebf1d367d\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.2\", \"cnName\": \"比奥固结理论\", \"enName\": \"Biot's consolidation theory\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43716, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"比奥固结理论\", \"cnNameSearch\": \"比奥固结理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Biot's consolidation theory\", \"wordSearch\": \"Biot's consolidation theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由比奥导得的、反映饱和黏性土体受荷载作用后发生的三维孔隙水流动和土骨架变形规律的理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00b30a3d506f4d15b7a15bc699e33aeb\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.1\", \"cnName\": \"太沙基固结理论\", \"enName\": \"Terzaghi's consolidation theory\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43949, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"太沙基固结理论\", \"cnNameSearch\": \"太沙基固结理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Terzaghi's consolidation theory\", \"wordSearch\": \"Terzaghi's consolidation theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由太沙基导得的、反映饱和黏性土体在侧限情况下受荷载作用后超静孔隙水压力消散、有效应力增加规律的理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"02175855b92e44329c692a44f494dbf7\", \"databaseId\": null, \"standardId\": \"7499bd7ad6204056ba70926b63608efc\", \"standardCode\": \"GB/T 50228—2011\", \"standardName\": \"工程测量基本术语标准\", \"standardEnName\": \"Standard for foundational terminology of engineering survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.15\", \"cnName\": \"误差埋论\", \"enName\": \"theory of errors\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117668, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"误差埋论\", \"cnNameSearch\": \"误差埋论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory of errors\", \"wordSearch\": \"theory of errors\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究测量误差的性质、传播规律、削弱误差影响，求最佳估值和计算误差影响的理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e12b66966389492e860975e1fa2c9f28\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.9.6\", \"cnName\": \"塑性力学\", \"enName\": \"theory of plasticity\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223377, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塑性力学\", \"cnNameSearch\": \"塑性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory of plasticity\", \"wordSearch\": \"theory of plasticity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究塑性变形和作用力之间的关系，以及在塑性变形后物体内部应力分布规律的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"817fd0c727d44a63be3310fbe15405c5\", \"databaseId\": null, \"standardId\": \"e32c5f5e6dc242e5856df8476ae28455\", \"standardCode\": \"GB/T 8451—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.48\", \"cnName\": \"弹性力学\", \"enName\": \"theory of elasticity\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 223499, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弹性力学\", \"cnNameSearch\": \"弹性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory of elasticity\", \"wordSearch\": \"theory of elasticity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究一个弹性体在外力作用下所产生的应力和变形的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"33a96dccc99f4a3eb8ec1318d5a424a7\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"4.48\", \"cnName\": \"弹性力学\", \"enName\": \"theory of elasticity\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36115, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"弹性力学\", \"cnNameSearch\": \"弹性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory of elasticity\", \"wordSearch\": \"theory of elasticity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究一个弹性体在外力作用下所产生的应力和变形的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f8e46f5afcf745ec998cbe3a024d3fc9\", \"databaseId\": null, \"standardId\": \"260b230c8e114afcb49f37a659494586\", \"standardCode\": \"GB/T 8541—2012\", \"standardName\": \"锻 压 术 语\", \"standardEnName\": \"Terminology of forging and stamping\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"4.9.6\", \"cnName\": \"塑性力学\", \"enName\": \"theory of plasticity\", \"publishTime\": \"2012-05-11\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"25.020;77.140.85;25.01025\", \"ccs\": \"J32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36124, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塑性力学\", \"cnNameSearch\": \"塑性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory of plasticity\", \"wordSearch\": \"theory of plasticity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究塑性变形和作用力之间的关系，以及在塑性变形后物体内部应力分布规律的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3657fd17253a4d41b6d7e455bbfa79a3\", \"databaseId\": null, \"standardId\": \"c777f7918b5640c8bebe72dd652045f8\", \"standardCode\": \"GB/T 3961—2009\", \"standardName\": \"纤维增强塑料术语\", \"standardEnName\": \"Terms for fibre reinforce plastics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.5.10\", \"cnName\": \"层合板理论\", \"enName\": \"laminated plate theory\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"ICS 83.120\", \"ccs\": \"Q 23\", \"parentTermId\": null, \"titleId\": null, \"oid\": 200210, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"层合板理论\", \"cnNameSearch\": \"层合板理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"laminated plate theory\", \"wordSearch\": \"laminated plate theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"分析和设计复合材料层合板的理论。其中经典层合板理论假定应变沿厚度方向成线性变化，并将每一铺层或铺层组当作匀质材料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 9}}, \"timestamp\": 1793141294946}"
+}

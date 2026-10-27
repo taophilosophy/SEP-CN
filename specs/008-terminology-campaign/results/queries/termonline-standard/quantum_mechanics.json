@@ -1,0 +1,152 @@
+{
+ "key": "quantum mechanics",
+ "term": "quantum mechanics",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:48:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=151",
+ "hits": [
+  {
+   "cn": "岩石力学",
+   "en": "rock mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "土力学",
+   "en": "soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "制动力学",
+   "en": "braking mechanics",
+   "code": "GB/T 5620—2020",
+   "standard": "道路车辆 汽车和挂车制动名词术语及其定义",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "非饱和士力学",
+   "en": "unsaturated soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "断裂力学评估",
+   "en": "fracture mechanics assessment",
+   "code": "GB/T 21412.7—2018",
+   "standard": "石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "code": "GB/T 30544.12—2023",
+   "standard": "纳米科技 术语第12部分：纳米科技中的量子现象",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "code": "GB/T 30544.12—2023",
+   "standard": "纳米科技 术语第12部分：纳米科技中的量子现象",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "散体力学",
+   "en": "mechanics of granular media",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "复合材料界面力学",
+   "en": "mechanics of composite interface",
+   "code": "GB/T 30816—2014",
+   "standard": "工程用生物基复合材料术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "复合材料黏弹性力学",
+   "en": "viscoelastic mechanics of composite",
+   "code": "GB/T 30816—2014",
+   "standard": "工程用生物基复合材料术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "量子干涉",
+   "en": "quantum Interference",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子传感",
+   "en": "quantum sensing",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子相干",
+   "en": "quantum coherence",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子退相干",
+   "en": "quantum decoherence",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子测量",
+   "en": "quantum measurement",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子噪声",
+   "en": "quantum noise",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "量子计量",
+   "en": "quantum metrology",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 39, \"2023\": 91, \"2022\": 2, \"2020\": 4, \"2018\": 1, \"2016\": 1, \"2015\": 3, \"2014\": 2, \"2010\": 2, \"2008\": 1, \"1995\": 1, \"暂无年份\": 4}, \"sourceStats\": {\"道路车辆工程\": 2, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 3, \"综合、术语学、标准化、文献\": 97, \"纺织和皮革技术\": 2, \"石油及相关技术\": 1, \"电气工程\": 6, \"电子学\": 1, \"数学、自然科学\": 22, \"建筑材料和建筑物\": 1, \"冶金\": 2, \"其它\": 5, \"信息技术、办公机械\": 7}, \"typeStats\": {\"7\": 151}, \"totalRecords\": 151, \"tmWordList\": [{\"id\": \"d431943f8c1e4fe2adbe47a257edc298\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"岩石力学\", \"enName\": \"rock mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43707, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"岩石力学\", \"cnNameSearch\": \"岩石力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rock mechanics\", \"wordSearch\": \"rock mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究岩石的物理力学性质及岩体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00d499d1076a442bba2dd3fe5f4ecbd8\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"土力学\", \"enName\": \"soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44106, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"土力学\", \"cnNameSearch\": \"土力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"soil mechanics\", \"wordSearch\": \"soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究土的物理力学性质及土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d71399b9319a4cf2b1b4b2dc22e779c6\", \"databaseId\": null, \"standardId\": \"584bb21345d74acfaf54ed8316bf8ad7\", \"standardCode\": \"GB/T 5620—2020\", \"standardName\": \"道路车辆 汽车和挂车制动名词术语及其定义\", \"standardEnName\": \"Road vehicles—Vocabulary and definition for braking of automotive vehicles and their trailers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"9.1\", \"cnName\": \"制动力学\", \"enName\": \"braking mechanics\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"43.040.40\", \"ccs\": \"T 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90719, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制动力学\", \"cnNameSearch\": \"制动力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"braking mechanics\", \"wordSearch\": \"braking mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在控制装置的起点和制动作用的终点间产生的力学现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b41973e8e4a43ef93d748a04504244e\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.51\", \"cnName\": \"量子\", \"enName\": \"quantum\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146422, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子\", \"cnNameSearch\": \"量子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum\", \"wordSearch\": \"quantum\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"原子或核系统从一个离散能态跃迁至另一离散能态所需的最小离散能量(或动量)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b6a9dd596b66432f973e6745d7fc99da\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"非饱和士力学\", \"enName\": \"unsaturated soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"非饱和士力学\", \"cnNameSearch\": \"非饱和士力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unsaturated soil mechanics\", \"wordSearch\": \"unsaturated soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究非饱和土的物理力学性质及非饱和土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"084ccca5c476493da666e66c0698eb4a\", \"databaseId\": null, \"standardId\": \"32414ed15c5147159b31044ae7d229e6\", \"standardCode\": \"GB/T 21412.7—2018\", \"standardName\": \"石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统\", \"standardEnName\": \"Petroleum and natural gas industries-Design and operation of subsea production systems-Part 7: Completion/workover riser systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.55\", \"cnName\": \"断裂力学评估\", \"enName\": \"fracture mechanics assessment\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"断裂力学评估\", \"cnNameSearch\": \"断裂力学评估\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fracture mechanics assessment\", \"wordSearch\": \"fracture mechanics assessment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据设计荷载的关键缺陷尺寸确定裂纹护展寿命（即：泄漏或断裂)的评估和分析。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc560938b82e49a1ac4f7ad76b4713bf\", \"databaseId\": null, \"standardId\": \"58a5750f3e264752868d55129783e46a\", \"standardCode\": \"GB/T 30544.12—2023\", \"standardName\": \"纳米科技 术语第12部分：纳米科技中的量子现象\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 12: Quantum phenomena in nanotechnology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"5.3\", \"cnName\": \"量子线\", \"enName\": \"quantum wire\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.120\", \"ccs\": \"A42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90936, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子线\", \"cnNameSearch\": \"量子线\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum wire\", \"wordSearch\": \"quantum wire\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"量子弦\", \"cnNameSearch\": \"量子弦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum string\", \"wordSearch\": \"quantum string\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"导电的准一维物理系统，粒子能够在一个方向自由移动，在另外两个方向受到量子限域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb86c622387944938e3f1ef281b98f56\", \"databaseId\": null, \"standardId\": \"58a5750f3e264752868d55129783e46a\", \"standardCode\": \"GB/T 30544.12—2023\", \"standardName\": \"纳米科技 术语第12部分：纳米科技中的量子现象\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 12: Quantum phenomena in nanotechnology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.8\", \"cnName\": \"量子效应\", \"enName\": \"quantum effect\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.120\", \"ccs\": \"A42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子效应\", \"cnNameSearch\": \"量子效应\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum effect\", \"wordSearch\": \"quantum effect\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"量子现象\", \"cnNameSearch\": \"量子现象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum phenomenon\", \"wordSearch\": \"quantum phenomenon\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在物理体系中，由于粒子的自身量子性质、相互作用，以及准粒子的次级效应所导致，但在经典极限（从量子力学过渡到经典力学）下不存在的物理效应。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>不是所有的量子效应都基于纳米尺度上。</p>\", \"<p>不是所有的纳米尺度现象(4.7)都是由量子效应引起的。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c2484ca9d09a48db982b1d351223ad34\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"散体力学\", \"enName\": \"mechanics of granular media\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44137, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"散体力学\", \"cnNameSearch\": \"散体力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanics of granular media\", \"wordSearch\": \"mechanics of granular media\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究散粒集合体受力时的极限平衡和运动规律的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d49ca84463b24123b884fa32a4c9ff2d\", \"databaseId\": null, \"standardId\": \"2aa5c40d05d240b9a3acf1a4570e7e9f\", \"standardCode\": \"GB/T 30816—2014\", \"standardName\": \"工程用生物基复合材料术语\", \"standardEnName\": \"Terminology for bio-based composite materials in engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.3.3.13\", \"cnName\": \"复合材料界面力学\", \"enName\": \"mechanics of composite interface\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"59.100.015\", \"ccs\": \"E60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40633, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复合材料界面力学\", \"cnNameSearch\": \"复合材料界面力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanics of composite interface\", \"wordSearch\": \"mechanics of composite interface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"研究复合材料中增强体与基体界面或界面相的力学行为的一门分支学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"28f3729c082f4996a6b280b854efa37e\", \"databaseId\": null, \"standardId\": \"2aa5c40d05d240b9a3acf1a4570e7e9f\", \"standardCode\": \"GB/T 30816—2014\", \"standardName\": \"工程用生物基复合材料术语\", \"standardEnName\": \"Terminology for bio-based composite materials in engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.5.4.5\", \"cnName\": \"复合材料黏弹性力学\", \"enName\": \"viscoelastic mechanics of composite\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"59.100.015\", \"ccs\": \"E60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40681, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复合材料黏弹性力学\", \"cnNameSearch\": \"复合材料黏弹性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"viscoelastic mechanics of composite\", \"wordSearch\": \"viscoelastic mechanics of composite\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"复合材料中聚合物基体受剪时出现模量与时间相关关系，为此进行的力学行为分析的学科。通常采用基体模量与时间呈线性关系而增强体模量与时间无关的假设计算复合材料有效模量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd0ccefa634a4fecb9fa226c83644cc8\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.14\", \"cnName\": \"量子干涉\", \"enName\": \"quantum Interference\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131864, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子干涉\", \"cnNameSearch\": \"量子干涉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum Interference\", \"wordSearch\": \"quantum Interference\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由于量子态的叠加效应，量子态振幅发生的相干相长或相消现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"817b4268924f421093709ab4514d719d\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.18\", \"cnName\": \"量子跃迁\", \"enName\": \"quantum transition\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131869, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子跃迁\", \"cnNameSearch\": \"量子跃迁\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum transition\", \"wordSearch\": \"quantum transition\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"量子系统从一个量子态跳跃式突变到另一个量子态的过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f08c444fa6c64b5999296a3e177b0dc5\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.3\", \"cnName\": \"量子传感\", \"enName\": \"quantum sensing\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子传感\", \"cnNameSearch\": \"量子传感\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum sensing\", \"wordSearch\": \"quantum sensing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"利用量子特性实现物理量的高精度测量并按照一定的规律转换成可用信号的过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0c8f420510594d6abffcc76bc653fa3d\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.15\", \"cnName\": \"量子相干\", \"enName\": \"quantum coherence\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131877, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子相干\", \"cnNameSearch\": \"量子相干\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum coherence\", \"wordSearch\": \"quantum coherence\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"量子系统其量子态能够发生稳定的相位干涉的能力和特性。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>量子系统处于叠加态时，其各个叠加成分的相对相位稳定，是其具备量子相干特性的充要条件。</p>\", \"<p>多个全同粒子相互之间相对相位的稳定，是其具备量子相干特性的充要条件。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9963da1c4c214b78a8c17e4b90610c2f\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.16\", \"cnName\": \"量子退相干\", \"enName\": \"quantum decoherence\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子退相干\", \"cnNameSearch\": \"量子退相干\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum decoherence\", \"wordSearch\": \"quantum decoherence\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"量子系统受外界扰动影响，失去量子相干性的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9d6b1b6679754de7beccf84fd61aa9a8\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.4\", \"cnName\": \"量子态\", \"enName\": \"quantum state\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131880, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子态\", \"cnNameSearch\": \"量子态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum state\", \"wordSearch\": \"quantum state\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"量子系统的状态。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 42565—2023\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84600125163440819743121e0835ae54\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"量子测量\", \"enName\": \"quantum measurement\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131881, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子测量\", \"cnNameSearch\": \"量子测量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum measurement\", \"wordSearch\": \"quantum measurement\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"获取量子系统状态，以及利用量子的最小、离散、不可分割特性和量子自旋、量子相干、量子压缩、量子纠缠等特性的测量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4ee94f4d4f149c9837b6216cfbfdeda\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.10\", \"cnName\": \"量子噪声\", \"enName\": \"quantum noise\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131882, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子噪声\", \"cnNameSearch\": \"量子噪声\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum noise\", \"wordSearch\": \"quantum noise\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"测量过程中由于量子系统的海森堡不确定性引发的噪声。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"674dd351b33b4c01b8a83de4d2f8a59f\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2\", \"cnName\": \"量子计量\", \"enName\": \"quantum metrology\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子计量\", \"cnNameSearch\": \"量子计量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"quantum metrology\", \"wordSearch\": \"quantum metrology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"基于基本物理常数定义国际单位制基本单位,利用量子系统、量子特性或量子现象复现测量单位量值或实现直接溯源到基本物理常数的测量。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>也用于其他高精度测量研究。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 8}}, \"timestamp\": 1793141289948}"
+}

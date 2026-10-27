@@ -1,0 +1,19 @@
+{
+ "key": "scottish philosophy",
+ "term": "scottish philosophy",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:48:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "报警原则",
+   "en": "alarm philosophy",
+   "code": "GB/T 41261—2022",
+   "standard": "过程工业报警系统管理",
+   "subject": "机械制造"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1}, \"sourceStats\": {\"机械制造\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"b50eccfb9d194c6cb3bbb82e61988fc2\", \"databaseId\": null, \"standardId\": \"ebbc8a7b60834060a79c3935c8cd3f08\", \"standardCode\": \"GB/T 41261—2022\", \"standardName\": \"过程工业报警系统管理\", \"standardEnName\": \"Management of alarms systems for the process industries\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.21\", \"cnName\": \"报警原则\", \"enName\": \"alarm philosophy\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"25.040 \", \"ccs\": \"N 19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230572, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"报警原则\", \"cnNameSearch\": \"报警原则\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"alarm philosophy\", \"wordSearch\": \"alarm philosophy\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于建立设计、实施和维护一个报警系统的基本定义、原则和流程的文件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793141339962}"
+}

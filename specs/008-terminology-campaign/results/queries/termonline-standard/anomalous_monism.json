@@ -1,0 +1,75 @@
+{
+ "key": "anomalous monism",
+ "term": "anomalous monism",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:36:13+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=9",
+ "hits": [
+  {
+   "cn": "异常吸收",
+   "en": "anomalous absorption",
+   "code": "GB/T 40300—2021",
+   "standard": "微束分析 分析电子显微学 术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "异常穿透",
+   "en": "anomalous transmission",
+   "code": "GB/T 40300—2021",
+   "standard": "微束分析 分析电子显微学 术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "异常水深",
+   "en": "anomalous sounding",
+   "code": "GB/T 39619—2020",
+   "standard": "海道测量基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "色弱",
+   "en": "anomalous trichromatism",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "色弱",
+   "en": "anomalous trichromatism",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "不规则流动",
+   "en": "anomalous flow",
+   "code": "GB/T 6753.4—1998",
+   "standard": "色漆和清漆  用流出杯测定流出时间",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "反常测试用例",
+   "en": "anomalous test case",
+   "code": "GB/T 26234—2010",
+   "standard": "信息技术  文档处理与相关通信  标准通用置标语言（SGML）系统的符合性测试",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "异常色觉",
+   "en": "anomalous color vision",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "异常色觉",
+   "en": "anomalous  color  vision",
+   "code": "GB/T 5698—2001",
+   "standard": "颜色术语",
+   "subject": "计量学和测量、物理现象"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 2, \"2020\": 1, \"2011\": 1, \"2006\": 2, \"2001\": 2, \"1998\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 2, \"综合、术语学、标准化、文献\": 1, \"涂料和颜料工业\": 1, \"化工技术\": 4, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 9}, \"totalRecords\": 9, \"tmWordList\": [{\"id\": \"05a996eac108445097050cc951cc6fc8\", \"databaseId\": null, \"standardId\": \"185e6a3f191541c8883d82371d020cb5\", \"standardCode\": \"GB/T 40300—2021\", \"standardName\": \"微束分析 分析电子显微学 术语\", \"standardEnName\": \"Microbeam analysis—Analytical electron microscopy—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"4.3.1\", \"cnName\": \"异常吸收\", \"enName\": \"anomalous absorption\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"71.040.40\", \"ccs\": \"G 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24220, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"异常吸收\", \"cnNameSearch\": \"异常吸收\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous absorption\", \"wordSearch\": \"anomalous absorption\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"当运动于晶体材料中的布洛赫波具有对称性且其波腹形成于原子核心位置时的吸收。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"31b5a4b19bff41e998b459f83594b4e3\", \"databaseId\": null, \"standardId\": \"185e6a3f191541c8883d82371d020cb5\", \"standardCode\": \"GB/T 40300—2021\", \"standardName\": \"微束分析 分析电子显微学 术语\", \"standardEnName\": \"Microbeam analysis—Analytical electron microscopy—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"4.3.2\", \"cnName\": \"异常穿透\", \"enName\": \"anomalous transmission\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"71.040.40\", \"ccs\": \"G 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24226, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"异常穿透\", \"cnNameSearch\": \"异常穿透\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous transmission\", \"wordSearch\": \"anomalous transmission\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"当运动于晶体材料中的布洛赫波具有反对称性且其波节形成于原子核心位置时的传输。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3af78a1bdd4d47deaef0abb00db1d9d6\", \"databaseId\": null, \"standardId\": \"9cd3a3c0cf8f4168b4182fed2f988a17\", \"standardCode\": \"GB/T 39619—2020\", \"standardName\": \"海道测量基本术语\", \"standardEnName\": \"Basic terms of hydrographic survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.36\", \"cnName\": \"异常水深\", \"enName\": \"anomalous sounding\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"ICS 01.040.17\", \"ccs\": \"A 76\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162627, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"异常水深\", \"cnNameSearch\": \"异常水深\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous sounding\", \"wordSearch\": \"anomalous sounding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"水深测量所记录的非真实海底深度。通常由声波信号遇到水体中的物体、声学干扰或特殊水文现象等引起的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"66e70ed110e1466889d79304b20704c1\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"5.44\", \"cnName\": \"色弱\", \"enName\": \"anomalous trichromatism\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186813, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"色弱\", \"cnNameSearch\": \"色弱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous trichromatism\", \"wordSearch\": \"anomalous trichromatism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"轻度的异常视觉。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 5698—2001\", \"sourceCode\": \"5.64\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4053fc76c9a34e8693b9d077e9e256ef\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"5.64\", \"cnName\": \"色弱\", \"enName\": \"anomalous trichromatism\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70737, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"色弱\", \"cnNameSearch\": \"色弱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous trichromatism\", \"wordSearch\": \"anomalous trichromatism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"轻度的异常色觉。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0424a671f36a4f99a3ddfde5230027d5\", \"databaseId\": null, \"standardId\": \"86e434145bfb45aea6a5d24dbbf83d36\", \"standardCode\": \"GB/T 6753.4—1998\", \"standardName\": \"色漆和清漆  用流出杯测定流出时间\", \"standardEnName\": \"Paints and varnishes—Determination of flow time by use of flow cups\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"3.3\", \"cnName\": \"不规则流动\", \"enName\": \"anomalous flow\", \"publishTime\": \"1998-11-04\", \"publishYear\": \"1998\", \"implementTime\": \"1999-06-01\", \"ics\": \"87.040\", \"ccs\": \"G 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 142662, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"不规则流动\", \"cnNameSearch\": \"不规则流动\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous flow\", \"wordSearch\": \"anomalous flow\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在恒定温度下，当剪切应力与速度梯度的比值随时间或随剪切速率而改变时，这种材料所呈现的流动类型就称为不规则流动。例如：所谓的触变性材料，在经受搅拌或其他类似的机械扰动之后立即测试，其流出时间会降低，而且低于未经搅拌样品的流出时间。对于这样的材料，所有的流出杯均不能测得可靠、不变的流出时间。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"86a96a85003b48cb84707ceadb8cbace\", \"databaseId\": null, \"standardId\": \"3ae4b87321494908be3b7703c2e39d6a\", \"standardCode\": \"GB/T 26234—2010\", \"standardName\": \"信息技术  文档处理与相关通信  标准通用置标语言（SGML）系统的符合性测试\", \"standardEnName\": \"Information technology - Document processing and related communication - Conformance testing for standard generalized markup language (SGML) systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.1\", \"cnName\": \"反常测试用例\", \"enName\": \"anomalous test case\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-05-01\", \"ics\": \"35.240.30\", \"ccs\": \"L67\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63528, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"反常测试用例\", \"cnNameSearch\": \"反常测试用例\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous test case\", \"wordSearch\": \"anomalous test case\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"偏离一些常规测试要求的测试用例,因为被测 SGML 结构与这些要求不兼容。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f4ed56099ce446b1bfc48b1b986b0a02\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"5.43\", \"cnName\": \"异常色觉\", \"enName\": \"anomalous color vision\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186955, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"异常色觉\", \"cnNameSearch\": \"异常色觉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous color vision\", \"wordSearch\": \"anomalous color vision\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"不能正常辨别颜色的色觉。异常色觉包括色弱和色盲。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 5698—2001\", \"sourceCode\": \"5.63\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b85adef692e4e79943edd5b8568481d\", \"databaseId\": null, \"standardId\": \"4279ec9748d94dfbad368d0f00560a65\", \"standardCode\": \"GB/T 5698—2001\", \"standardName\": \"颜色术语\", \"standardEnName\": \"Glossary of color terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"5.63\", \"cnName\": \"异常色觉\", \"enName\": \"anomalous  color  vision\", \"publishTime\": \"2001-06-12\", \"publishYear\": \"2001\", \"implementTime\": \"2001-12-01\", \"ics\": \"17.180.20\", \"ccs\": \"A 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 70739, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"异常色觉\", \"cnNameSearch\": \"异常色觉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anomalous  color  vision\", \"wordSearch\": \"anomalous  color  vision\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不能正常辨别颜色的色觉。异常色觉包括色弱和色盲。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140575071}"
+}

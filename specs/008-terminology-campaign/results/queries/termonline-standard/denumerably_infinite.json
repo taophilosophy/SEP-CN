@@ -1,0 +1,33 @@
+{
+ "key": "denumerably infinite",
+ "term": "denumerably infinite",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:39:28+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "无限要素",
+   "en": "infinite feature",
+   "code": "GB/T 38760—2020",
+   "standard": "产品几何技术规范(GPS)规范和检验中使用的要素",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "无限循环",
+   "en": "infinite loop",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "平行光共轴焦度计",
+   "en": "infinite-on-axis focimeter",
+   "code": "GB/T 26397—2011",
+   "standard": "眼科光学  术语",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1, \"2011\": 1, \"2008\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"医药卫生技术\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"d0190bcd6b9c47009f34f5150e8439aa\", \"databaseId\": null, \"standardId\": \"d733f19206ba406ba768ba81fd7f6fc4\", \"standardCode\": \"GB/T 38760—2020\", \"standardName\": \"产品几何技术规范(GPS)规范和检验中使用的要素\", \"standardEnName\": \"Geometrical product specifications(GPS)-Features utilized in specification and verification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.2.12\", \"cnName\": \"无限要素\", \"enName\": \"infinite feature\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"17.040.3017\", \"ccs\": \"J04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 212263, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无限要素\", \"cnNameSearch\": \"无限要素\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"infinite feature\", \"wordSearch\": \"infinite feature\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由无限个点组成的几何要素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f9c1be68f76745e6906af7c766db9e67\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.03.04\", \"cnName\": \"无限循环\", \"enName\": \"infinite loop\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104605, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无限循环\", \"cnNameSearch\": \"无限循环\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"infinite loop\", \"wordSearch\": \"infinite loop\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"闭循环\", \"cnNameSearch\": \"闭循环\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"closed loop\", \"wordSearch\": \"closed loop\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其执行只有通过外部干预才能终止的循环。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"399acf8a27a04a96961a5ee0fedb9c21\", \"databaseId\": null, \"standardId\": \"fea4b09b3c054aaca7b79ae0e4438a65\", \"standardCode\": \"GB/T 26397—2011\", \"standardName\": \"眼科光学  术语\", \"standardEnName\": \"Ophthalmic optics - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.5.5.3\", \"cnName\": \"平行光共轴焦度计\", \"enName\": \"infinite-on-axis focimeter\", \"publishTime\": \"2011-05-12\", \"publishYear\": \"2011\", \"implementTime\": \"2011-09-15\", \"ics\": \"11.040.70\", \"ccs\": \"Y89\", \"parentTermId\": null, \"titleId\": null, \"oid\": 246582, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"平行光共轴焦度计\", \"cnNameSearch\": \"平行光共轴焦度计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"infinite-on-axis focimeter\", \"wordSearch\": \"infinite-on-axis focimeter\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"IOA 焦度计\", \"cnNameSearch\": \"IOA 焦度计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"IOA focimeter\", \"wordSearch\": \"IOA focimeter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"当被测镜片的测量点处的棱镜度不为零时,准直光束与焦度计光轴一致,但光束的聚焦点在焦度计光轴之外。见图 5。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>部分自动式焦度计采用本原理。</p>\", \"<p>当被测镜片的测量点处的棱镜度不为零时, 在用 IOA 和 FOA 焦度计测量时会产生差异。这是由上述测量点棱镜度引起的光线穿过镜片的光路倾斜不同造成的。</p><p><img src=\\\"/term/9990272ceef94c869368963b54640c9e/4919c4daef29d55666c23cea1f32066d3975f2d8880ea58994510fa14c0164cb.jpg\\\" alt=\\\"图\\\" data-href=\\\"\\\" style=\\\"\\\"></p><p>1——焦度计的光轴；</p><p>2——镜片；</p><p>3——焦度计镜片支座；</p><p>4——与光轴一致的平行入射光束。</p><p>图 5 平行光共轴焦度计</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140769867}"
+}

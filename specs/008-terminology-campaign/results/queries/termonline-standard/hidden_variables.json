@@ -1,0 +1,152 @@
+{
+ "key": "hidden variables",
+ "term": "hidden variables",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:42:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=38",
+ "hits": [
+  {
+   "cn": "基本变量",
+   "en": "basic variables",
+   "code": "GB/T 50283—1999",
+   "standard": "公路工程结构可靠度设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "分析前变量",
+   "en": "preanalytic variables",
+   "code": "GB/T 40364—2021",
+   "standard": "人类生物样本库基础术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "可控变量",
+   "en": "controllable variables",
+   "code": "GB/T 18184—2008",
+   "standard": "商业自动化术语 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐患",
+   "en": "hidden peril",
+   "code": "GB/T 43500—2023",
+   "standard": "安全管理体系 要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "隐洞",
+   "en": "hidden cave",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "hidden danger",
+   "code": "GB/T 42103—2022",
+   "standard": "游乐园安全 风险识别与评估 ",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "隐藏站点",
+   "en": "hidden station",
+   "code": "GB/T 40786.2—2021",
+   "standard": "信息技术 系统间远程通信和信息交换 低压电力线通信 第2部分:数据链路层规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐性故障",
+   "en": "hidden failure",
+   "code": "GB/T 39035—2020",
+   "standard": "冗余动力定位系统冗余设计和试验规程",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "隐患",
+   "en": "hidden danger",
+   "code": "GB/T 38705—2020",
+   "standard": "城镇供热设施运行安全信息分类与基本要求",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "非显见面",
+   "en": "hidden surface",
+   "code": "GB/T 3303—2018",
+   "standard": "日用陶瓷器缺陷术语",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "隐藏式水箱",
+   "en": "hidden cistern",
+   "code": "GB/T 26730—2011",
+   "standard": "卫生洁具  便器用重力式冲水装置及洁具机架",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "隐线",
+   "en": "hidden line",
+   "code": "GB/T 5271.13—2008",
+   "standard": "信息技术 词汇 第13部分：计算机图形",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐面",
+   "en": "hidden surface",
+   "code": "GB/T 5271.13—2008",
+   "standard": "信息技术 词汇 第13部分：计算机图形",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐神经元",
+   "en": "hidden neuron",
+   "code": "GB/T 5271.34—2006",
+   "standard": "信息技术 词汇 第34部分：人工智能 神经网络",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐层",
+   "en": "hidden layer",
+   "code": "GB/T 5271.34—2006",
+   "standard": "信息技术 词汇 第34部分：人工智能 神经网络",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "隐藏字符",
+   "en": "hidden character",
+   "code": "GB/T 5271.23—2000",
+   "standard": "信息技术  词汇  第23部分:文本处理",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "计量抽样",
+   "en": "method of variables",
+   "code": "GB/T 50784—2013",
+   "standard": "混凝土结构现场检测技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "计量检验",
+   "en": "inspection by variables",
+   "code": "GB 50300—2013",
+   "standard": "建筑工程施工质量验收统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "计量检查",
+   "en": "inspection by variables",
+   "code": "GB/T 4214.10—2021",
+   "standard": "家用和类似用途电器噪声测试方法 确定和检验噪声明示值的程序 ",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "计量检验",
+   "en": "inspection by variables",
+   "code": "GB/T 3358.2—2009",
+   "standard": "统计学词汇及符号第2部分：应用统计",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2022\": 2, \"2021\": 5, \"2020\": 2, \"2018\": 1, \"2017\": 1, \"2016\": 1, \"2013\": 1, \"2012\": 1, \"2011\": 1, \"2009\": 3, \"2008\": 6, \"2006\": 3, \"2000\": 1, \"1998\": 2, \"1988\": 1, \"暂无年份\": 5}, \"sourceStats\": {\"造船和海上构筑物\": 1, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 5, \"电子学\": 2, \"玻璃和陶瓷工业\": 3, \"环保、保健和安全\": 2, \"机械制造\": 1, \"数学、自然科学\": 2, \"成像技术\": 1, \"建筑材料和建筑物\": 3, \"家用和商用设备、文娱、体育\": 2, \"其它\": 4, \"信息技术、办公机械\": 8}, \"typeStats\": {\"7\": 38}, \"totalRecords\": 38, \"tmWordList\": [{\"id\": \"52f4c6865b6542cf931d1be14f7a53b9\", \"databaseId\": null, \"standardId\": \"de0e9da90ef34210be1b13f7560bf6af\", \"standardCode\": \"GB/T 50283—1999\", \"standardName\": \"公路工程结构可靠度设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of highway engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.6 \", \"cnName\": \"基本变量\", \"enName\": \"basic variables\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217294, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基本变量\", \"cnNameSearch\": \"基本变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basic variables\", \"wordSearch\": \"basic variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"影响结构可靠度的各主要变量。它们一般是随机变量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fcd89689e0884bd496d36a782d3aaa93\", \"databaseId\": null, \"standardId\": \"c9dbb0ee98594995b68a6bc873fbfb81\", \"standardCode\": \"GB/T 40364—2021\", \"standardName\": \"人类生物样本库基础术语\", \"standardEnName\": \"Fundamental terminology for human biobank\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.10\", \"cnName\": \"分析前变量\", \"enName\": \"preanalytic variables\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"07.080\", \"ccs\": \"C 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202952, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分析前变量\", \"cnNameSearch\": \"分析前变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"preanalytic variables\", \"wordSearch\": \"preanalytic variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何影响生物样本使用前的质量和活性的因素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"028a151192584fc2b26ee9d8ab6d000b\", \"databaseId\": null, \"standardId\": \"f0018ee93d024ba18c9b3d99b7bfbd1b\", \"standardCode\": \"GB/T 18184—2008\", \"standardName\": \"商业自动化术语 \", \"standardEnName\": \"Terms of commerce automation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.1.39\", \"cnName\": \"可控变量\", \"enName\": \"controllable variables\", \"publishTime\": \"2008-12-30\", \"publishYear\": \"2008\", \"implementTime\": \"2009-06-01\", \"ics\": \"35.240. 60\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235541, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"可控变量\", \"cnNameSearch\": \"可控变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"controllable variables\", \"wordSearch\": \"controllable variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"零售商直接施加影响力的方面（如营业时间和销售人员等）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1a9f5f644dbe496d83e6e0077aec853c\", \"databaseId\": null, \"standardId\": \"582ab5fffc9a4a50ad901059245a9ab5\", \"standardCode\": \"GB/T 43500—2023\", \"standardName\": \"安全管理体系 要求\", \"standardEnName\": \"Safety management systems—Requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.18\", \"cnName\": \"隐患\", \"enName\": \"hidden peril\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"13.200\", \"ccs\": \"A90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐患\", \"cnNameSearch\": \"隐患\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden peril\", \"wordSearch\": \"hidden peril\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"可导致安全事件发生的人的不安全行为、物的不安全状态、管理的缺陷，或其中一种或几种的组合。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"78a018cd8d4a4e1e8fa45d09ad73c45c\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.5.5.4\", \"cnName\": \"隐洞\", \"enName\": \"hidden cave\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121729, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐洞\", \"cnNameSearch\": \"隐洞\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden cave\", \"wordSearch\": \"hidden cave\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"埋藏于地面以下各种成因的洞穴。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"614faa9383044adf97f305e109d90a0d\", \"databaseId\": null, \"standardId\": \"b43d45fec45a499983002b90afc84d6b\", \"standardCode\": \"GB/T 42103—2022\", \"standardName\": \"游乐园安全 风险识别与评估 \", \"standardEnName\": \"Amusement park safety— Risk identification and assessment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.5\", \"cnName\": \"事故隐患\", \"enName\": \"hidden danger\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 97.200.40\", \"ccs\": \"CCS Y 57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184242, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"事故隐患\", \"cnNameSearch\": \"事故隐患\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden danger\", \"wordSearch\": \"hidden danger\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"违反国家安全相关法规、标准和游乐园安全管理制度规定，或者因其他因素，在生产运营中存在可能导致事故发生的管理缺陷、人的不安全行为、物的不安全状况、环境不良因素等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f364c8d34b464124960a5310f1fcb607\", \"databaseId\": null, \"standardId\": \"472b59051e374b1e802cafaafe0013cc\", \"standardCode\": \"GB/T 40786.2—2021\", \"standardName\": \"信息技术 系统间远程通信和信息交换 低压电力线通信 第2部分:数据链路层规范\", \"standardEnName\": \"Information technology—Telecommunications and information exchange between systems—Low voltage power line communication—Part 2: Data link layer specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4\", \"cnName\": \"隐藏站点\", \"enName\": \"hidden station\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.110\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 74293, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐藏站点\", \"cnNameSearch\": \"隐藏站点\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden station\", \"wordSearch\": \"hidden station\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"同一网络中，无法与其他某个或某些站点直接通信的站点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"59f30f04ea8043388ed5791100f8e1b5\", \"databaseId\": null, \"standardId\": \"6d7a2d7d7d9b4bcc9e52f9b5cfbdfc48\", \"standardCode\": \"GB/T 39035—2020\", \"standardName\": \"冗余动力定位系统冗余设计和试验规程\", \"standardEnName\": \"Code of practice for redundant design and test of redundant dynamic positioning system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"2.14\", \"cnName\": \"隐性故障\", \"enName\": \"hidden failure\", \"publishTime\": \"2020-07-21\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"47.020.9947\", \"ccs\": \"U16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 111086, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐性故障\", \"cnNameSearch\": \"隐性故障\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden failure\", \"wordSearch\": \"hidden failure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对操作或维修人员而言不是显而易见的故障，且其具有导致设备功能失效的可能性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"49a36e0047b3495b8b0795a30861d5d4\", \"databaseId\": null, \"standardId\": \"9edb47538acf4146ba0e144037258bf9\", \"standardCode\": \"GB/T 38705—2020\", \"standardName\": \"城镇供热设施运行安全信息分类与基本要求\", \"standardEnName\": \"Classification and basic requirements for urban heat supply facilities operation safety information\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.4\", \"cnName\": \"隐患\", \"enName\": \"hidden danger\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2021-02-01\", \"ics\": \"91.140.1091\", \"ccs\": \"P46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164242, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐患\", \"cnNameSearch\": \"隐患\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden danger\", \"wordSearch\": \"hidden danger\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供热设施存在的可能导致事故发生的物的危险状态、人的不安全行为、管理上的缺陷和环境的影响。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f99398dfc948419f8eb1c77eb0b30ef1\", \"databaseId\": null, \"standardId\": \"20d9e5fa95a94715aa9925313d689ecf\", \"standardCode\": \"GB/T 3303—2018\", \"standardName\": \"日用陶瓷器缺陷术语\", \"standardEnName\": \"Terminology of defects for domestic ceramics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"2.6 \", \"cnName\": \"非显见面\", \"enName\": \"hidden surface\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"81.060.0181\", \"ccs\": \"Y20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31109, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"非显见面\", \"cnNameSearch\": \"非显见面\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden surface\", \"wordSearch\": \"hidden surface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按习惯放置时不易目测到的部位。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7517d4264b29465ea64aaac20ac91984\", \"databaseId\": null, \"standardId\": \"c51afb30dd774936906c82071f90feaf\", \"standardCode\": \"GB/T 26730—2011\", \"standardName\": \"卫生洁具  便器用重力式冲水装置及洁具机架\", \"standardEnName\": \"Sanitary ware - Gravity water flushing devices and supports\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.6\", \"cnName\": \"隐藏式水箱\", \"enName\": \"hidden cistern\", \"publishTime\": \"2011-07-20\", \"publishYear\": \"2011\", \"implementTime\": \"2012-05-01\", \"ics\": \"91.140.70\", \"ccs\": \"Q31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196969, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐藏式水箱\", \"cnNameSearch\": \"隐藏式水箱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden cistern\", \"wordSearch\": \"hidden cistern\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"安装在隐蔽工程内部的整体冲洗水箱，与壁挂式便器配套时，则由整体冲洗水箱和安装机架组成。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 9195—2011\", \"sourceCode\": \"3.4.15\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5c5d2cf473f746548e44f24314dca604\", \"databaseId\": null, \"standardId\": \"c9563aa26d8f43cea06260ecce7358f0\", \"standardCode\": \"GB/T 5271.13—2008\", \"standardName\": \"信息技术 词汇 第13部分：计算机图形\", \"standardEnName\": \"Information technology — Vocabulary Part 13: Computer graphics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"13.02.18\", \"cnName\": \"隐线\", \"enName\": \"hidden line\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.140\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202264, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐线\", \"cnNameSearch\": \"隐线\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden line\", \"wordSearch\": \"hidden line\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在三维对象的视图中，一条能加以掩蔽的线或线段。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"244e95be3a414c76860622ed3dc5078e\", \"databaseId\": null, \"standardId\": \"c9563aa26d8f43cea06260ecce7358f0\", \"standardCode\": \"GB/T 5271.13—2008\", \"standardName\": \"信息技术 词汇 第13部分：计算机图形\", \"standardEnName\": \"Information technology — Vocabulary Part 13: Computer graphics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"13.02.19\", \"cnName\": \"隐面\", \"enName\": \"hidden surface\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.140\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202353, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐面\", \"cnNameSearch\": \"隐面\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden surface\", \"wordSearch\": \"hidden surface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在三维对象的视图中，一种能加以掩蔽的区域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18752c83055e447bbc63dbc240e22177\", \"databaseId\": null, \"standardId\": \"4c597b88741a4c6188c63252e8d4a8c9\", \"standardCode\": \"GB/T 5271.34—2006\", \"standardName\": \"信息技术 词汇 第34部分：人工智能 神经网络\", \"standardEnName\": \"Information technology—Vocabulary—Part 34：Artificial intelligence—Neural networks\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \" 34.02.05\", \"cnName\": \"隐神经元\", \"enName\": \"hidden neuron\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.240.2035\", \"ccs\": \"L60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79610, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐神经元\", \"cnNameSearch\": \"隐神经元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden neuron\", \"wordSearch\": \"hidden neuron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种<strong>人工神经元 , </strong>它不直接和外部系统通信。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e10f282d04a24e4e8ccaf083e66eec4a\", \"databaseId\": null, \"standardId\": \"4c597b88741a4c6188c63252e8d4a8c9\", \"standardCode\": \"GB/T 5271.34—2006\", \"standardName\": \"信息技术 词汇 第34部分：人工智能 神经网络\", \"standardEnName\": \"Information technology—Vocabulary—Part 34：Artificial intelligence—Neural networks\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"34.02.10 \", \"cnName\": \"隐层\", \"enName\": \"hidden layer\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.240.2035\", \"ccs\": \"L60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 79654, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐层\", \"cnNameSearch\": \"隐层\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden layer\", \"wordSearch\": \"hidden layer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不直接和外部系统通信的<strong>人工神经元层</strong>。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b0659f9b0bee4beaa6b333644d0b3010\", \"databaseId\": null, \"standardId\": \"a187433d61ee4fdc85c9143fcb3483c7\", \"standardCode\": \"GB/T 5271.23—2000\", \"standardName\": \"信息技术  词汇  第23部分:文本处理\", \"standardEnName\": \"Information technology——Vocabulary——Part 23:Text processing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"23.03.08\", \"cnName\": \"隐藏字符\", \"enName\": \"hidden character\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166900, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"隐藏字符\", \"cnNameSearch\": \"隐藏字符\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hidden character\", \"wordSearch\": \"hidden character\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通常不被打印或显示的字符。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>嵌入的控制字符。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bb7a9965b156446fbc64bc8111508642\", \"databaseId\": null, \"standardId\": \"0e485d79b0734713b1a8bd3df113988a\", \"standardCode\": \"GB/T 50784—2013\", \"standardName\": \"混凝土结构现场检测技术标准\", \"standardEnName\": \"Technical standard for in-situ inspection of concrete structure\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.17\", \"cnName\": \"计量抽样\", \"enName\": \"method of variables\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 12405, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"计量抽样\", \"cnNameSearch\": \"计量抽样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"method of variables\", \"wordSearch\": \"method of variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以样本中各个体数据的统计量对检验批总体的符合性作出判定或对检验批总体参数进行推定的抽样方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2c9e3de459aa4963b488158b3c57f9d8\", \"databaseId\": null, \"standardId\": \"cfc12cde43464fc5b4ac804b71fdbb74\", \"standardCode\": \"GB 50300—2013\", \"standardName\": \"建筑工程施工质量验收统一标准\", \"standardEnName\": \"Unified standard for constructional quality acceptance of building engineering \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"计量检验\", \"enName\": \"inspection by variables\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207891, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"计量检验\", \"cnNameSearch\": \"计量检验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"inspection by variables\", \"wordSearch\": \"inspection by variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以抽样样本的检测数据计算总体均值、特征值或推定值，并以此判断或评估总体质量的检验方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4bb4edfe350144bb93a272b711fcb48a\", \"databaseId\": null, \"standardId\": \"2c1c9323248e40f0aebbe0ced7ee7609\", \"standardCode\": \"GB/T 4214.10—2021\", \"standardName\": \"家用和类似用途电器噪声测试方法 确定和检验噪声明示值的程序 \", \"standardEnName\": \"Test method for noise of household and similar electrical appliances— Procedure for determining and verifying declared noise emission values \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.22\", \"cnName\": \"计量检查\", \"enName\": \"inspection by variables\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"ICS 97.030\", \"ccs\": \"CCS Y 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45758, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"计量检查\", \"cnNameSearch\": \"计量检查\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"inspection by variables\", \"wordSearch\": \"inspection by variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对总体中或取自该总体的一个样本中的每个个体的定量特性进行测量的方法。定量特性为噪声量（见 ISO 3534-1:1993）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"ISO 7574-1:1985\", \"sourceCode\": \"3.24\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8330250468f0409f8c158644a5679796\", \"databaseId\": null, \"standardId\": \"c76c3976adc6496ba5a0435095b46d9a\", \"standardCode\": \"GB/T 3358.2—2009\", \"standardName\": \"统计学词汇及符号第2部分：应用统计\", \"standardEnName\": \"Statistics—Vocabulary and symbols—Part 2: Applied statistics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"4.1.4\", \"cnName\": \"计量检验\", \"enName\": \"inspection by variables\", \"publishTime\": \"2009-10-15\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"03.120.30\", \"ccs\": \"A41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 199857, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"计量检验\", \"cnNameSearch\": \"计量检验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"inspection by variables\", \"wordSearch\": \"inspection by variables\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"通过测量单位产品的特性值进行的检验。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1793140924889}"
+}

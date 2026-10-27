@@ -1,0 +1,152 @@
+{
+ "key": "confirmation theory",
+ "term": "confirmation theory",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:38:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=43",
+ "hits": [
+  {
+   "cn": "保证书",
+   "en": "confirmation",
+   "code": "GB 31144—2014",
+   "standard": "木木工机床安全 手动式摇臂锯",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "保证书",
+   "en": "confirmation",
+   "code": "GB 31145—2014",
+   "standard": "木工机床安全带上切式横截手动进给圆锯机",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "保证书",
+   "en": "confirmation",
+   "code": "GB 30461—2013",
+   "standard": "木工机床安全 带锯机",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "保证书",
+   "en": "confirmation",
+   "code": "GB 30459—2013",
+   "standard": "木工机床安全平刨床",
+   "subject": "木材技术"
+  },
+  {
+   "cn": "确认收货",
+   "en": "receipt confirmation",
+   "code": "GB/T 38652—2020",
+   "standard": "电子商务业务术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "订单确认",
+   "en": "order confirmation",
+   "code": "GB/T 38652—2020",
+   "standard": "电子商务业务术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "别除确认",
+   "en": "reject confirmation",
+   "code": "GB/T 38457—2020",
+   "standard": "液态瓶装包装质量检测机技术要求",
+   "subject": "货物的包装和调运"
+  },
+  {
+   "cn": "剔除确认",
+   "en": "reject confirmation",
+   "code": "GB/T 38459—2020",
+   "standard": "玻 璃 空 瓶 验 瓶 机",
+   "subject": "货物的包装和调运"
+  },
+  {
+   "cn": "验证TB",
+   "en": "confirmation TB",
+   "code": "GB/T 8423.2—2018",
+   "standard": "石油天然气工业术语 第2部分：工程技术",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "证实（原语）",
+   "en": "confirmation（primitive）",
+   "code": "GB/Z 29619.2—2013",
+   "standard": "测量和控制数字数据通信  工业控制系统用现场总线  类型8:INTERBUS规范 第2部分:物理层规范和服务定义",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "地下水动力学理论",
+   "en": "theory ofgroundwaterhydraulics",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "朗格缪尔理论",
+   "en": "Langmuir theory",
+   "code": "GB/T 31537—2015",
+   "standard": "煤层气（煤矿瓦斯）术语",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "塔板理论",
+   "en": "plate theory",
+   "code": "GB/T 32267—2015",
+   "standard": "分析仪器性能测定术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "动力学理论",
+   "en": "dynamical theory",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "通信理论",
+   "en": "communication theory",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "code": "GB/T 5271.16—2008",
+   "standard": "信息技术  词汇 第16部分：信息论",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "通信论",
+   "en": "communication theory",
+   "code": "GB/T 5271.16—2008",
+   "standard": "信息技术  词汇 第16部分：信息论",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "鉴定确认",
+   "en": "confirmation of identity",
+   "code": "GB/T 32467—2015",
+   "standard": "化学分析方法验证确认和内部质量控制术语及定义",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "发色团理论",
+   "en": "chromophore theory",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "比奥固结理论",
+   "en": "Biot's consolidation theory",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 3, \"2020\": 7, \"2018\": 2, \"2015\": 3, \"2014\": 2, \"2013\": 4, \"2012\": 3, \"2011\": 1, \"2009\": 2, \"2008\": 6, \"2006\": 4, \"暂无年份\": 6}, \"sourceStats\": {\"采矿和矿产品\": 1, \"货物的包装和调运\": 2, \"综合、术语学、标准化、文献\": 4, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"石油及相关技术\": 2, \"橡胶和塑料工业\": 1, \"机械制造\": 4, \"木材技术\": 4, \"数学、自然科学\": 2, \"建筑材料和建筑物\": 1, \"化工技术\": 4, \"冶金\": 1, \"其它\": 6, \"信息技术、办公机械\": 10}, \"typeStats\": {\"7\": 43}, \"totalRecords\": 43, \"tmWordList\": [{\"id\": \"0823cd7b86cf43d2bb232147bd17fb26\", \"databaseId\": null, \"standardId\": \"8ce12ca4dc2841c8b5aeb1e761ca053d\", \"standardCode\": \"GB 31144—2014\", \"standardName\": \"木木工机床安全 手动式摇臂锯\", \"standardEnName\": \"Safety of woodworking machines-Manual radial arm saws\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.9\", \"cnName\": \"保证书\", \"enName\": \"confirmation\", \"publishTime\": \"2014-09-03\", \"publishYear\": \"2014\", \"implementTime\": \"2015-10-01\", \"ics\": \"79.120.1079\", \"ccs\": \"J65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149568, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"保证书\", \"cnNameSearch\": \"保证书\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation\", \"wordSearch\": \"confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"[GB12557—2010，定义3.19]。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a6f88aa3ef1048b2b5e4ec250fd9733c\", \"databaseId\": null, \"standardId\": \"949d85e3f8a64c379a0467788cc1803b\", \"standardCode\": \"GB 31145—2014\", \"standardName\": \"木工机床安全带上切式横截手动进给圆锯机\", \"standardEnName\": \"Safety of woodworking machines—Circular saw benches/up-cutting cross-cut sawing machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.2.13\", \"cnName\": \"保证书\", \"enName\": \"confirmation\", \"publishTime\": \"2014-09-03\", \"publishYear\": \"2014\", \"implementTime\": \"2015-10-01\", \"ics\": \"79.120.1079\", \"ccs\": \"J65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157258, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"保证书\", \"cnNameSearch\": \"保证书\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation\", \"wordSearch\": \"confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"[GB12557—2010，定义3.17]。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"358e8d171148460eb54d8c26cd01f013\", \"databaseId\": null, \"standardId\": \"865da5e373ca43af856d3bb70b71ce31\", \"standardCode\": \"GB 30461—2013\", \"standardName\": \"木工机床安全 带锯机\", \"standardEnName\": \"Safety of woodworking machines-Band sawing machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.1.18\", \"cnName\": \"保证书\", \"enName\": \"confirmation\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2015-01-01\", \"ics\": \"79.120.1079\", \"ccs\": \"J65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 142433, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"保证书\", \"cnNameSearch\": \"保证书\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation\", \"wordSearch\": \"confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"[GB12557—2010,定义3.19]。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dcff053caaaa4471a7eb9f5e25f48ba6\", \"databaseId\": null, \"standardId\": \"f3479dc6c2274fd1a34a89a6bb714d65\", \"standardCode\": \"GB 30459—2013\", \"standardName\": \"木工机床安全平刨床\", \"standardEnName\": \"Safety of woodworking machines—Hand fed surface planing machines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"木材技术\", \"termCode\": \"3.1.8\", \"cnName\": \"保证书\", \"enName\": \"confirmation\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2015-01-01\", \"ics\": \"79.120.1079\", \"ccs\": \"J65\", \"parentTermId\": null, \"titleId\": null, \"oid\": 239031, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"保证书\", \"cnNameSearch\": \"保证书\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation\", \"wordSearch\": \"confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"[GB12557—2010,定义3.19]。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11655b91198d4581b080e6075c15fe19\", \"databaseId\": null, \"standardId\": \"a808f638b83742568992c785c0278748\", \"standardCode\": \"GB/T 38652—2020\", \"standardName\": \"电子商务业务术语\", \"standardEnName\": \"E-commerce business terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"7.4\", \"cnName\": \"确认收货\", \"enName\": \"receipt confirmation\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.24035\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171582, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"确认收货\", \"cnNameSearch\": \"确认收货\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"receipt confirmation\", \"wordSearch\": \"receipt confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"买家在电子商务平台确认签收的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2cfcef1caf694c87977eacd21ee2f6e6\", \"databaseId\": null, \"standardId\": \"a808f638b83742568992c785c0278748\", \"standardCode\": \"GB/T 38652—2020\", \"standardName\": \"电子商务业务术语\", \"standardEnName\": \"E-commerce business terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"6.3\", \"cnName\": \"订单确认\", \"enName\": \"order confirmation\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.24035\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171586, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"订单确认\", \"cnNameSearch\": \"订单确认\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"order confirmation\", \"wordSearch\": \"order confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"买家对交易订单的商品或服务、价格、配送方式、物流信息等内容进行核实确认的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dc8beed402714012a85321fcdb7f59c1\", \"databaseId\": null, \"standardId\": \"bc58b4a5b5a748b886960bcb795ed86c\", \"standardCode\": \"GB/T 38457—2020\", \"standardName\": \"液态瓶装包装质量检测机技术要求\", \"standardEnName\": \"Specification of packaging quality inspector for bottled liquid products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"货物的包装和调运\", \"termCode\": \"3.10\", \"cnName\": \"别除确认\", \"enName\": \"reject confirmation\", \"publishTime\": \"2020-03-06\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"55.20055\", \"ccs\": \"J83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 190747, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"别除确认\", \"cnNameSearch\": \"别除确认\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"reject confirmation\", \"wordSearch\": \"reject confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"检测机在正常工作过程中，对检测出的不合格样瓶是否被正常剔除的确认。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"390cedebbb584a2897932c918585acb5\", \"databaseId\": null, \"standardId\": \"e794f91b5dfc4d109ae6f000bce60151\", \"standardCode\": \"GB/T 38459—2020\", \"standardName\": \"玻 璃 空 瓶 验 瓶 机\", \"standardEnName\": \"Empty glass bottle inspector\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"货物的包装和调运\", \"termCode\": \"3.9\", \"cnName\": \"剔除确认\", \"enName\": \"reject confirmation\", \"publishTime\": \"2020-03-06\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"55.20055\", \"ccs\": \"J83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228532, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剔除确认\", \"cnNameSearch\": \"剔除确认\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"reject confirmation\", \"wordSearch\": \"reject confirmation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"验瓶机在正常检测过程中，对检测出的不合格样瓶是否被正常剔除的确认。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7e741897fccd49b187d6ee4c172366c5\", \"databaseId\": null, \"standardId\": \"7b3a45b4cf6842d8a249f996a1cc3e2a\", \"standardCode\": \"GB/T 8423.2—2018\", \"standardName\": \"石油天然气工业术语 第2部分：工程技术\", \"standardEnName\": \"Petroleum and natural gas industries terminology—Part 2: Engineering technical\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.7.17\", \"cnName\": \"验证TB\", \"enName\": \"confirmation TB\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"75.020\", \"ccs\": \"E 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131448, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"验证TB\", \"cnNameSearch\": \"验证TB\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation TB\", \"wordSearch\": \"confirmation TB\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"震源激发时刻相应控制器感应产生的时断信号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"07ddf3963b7e4701a18e94c5bc04bc65\", \"databaseId\": null, \"standardId\": \"2f89e732036446e991129f84c15adb03\", \"standardCode\": \"GB/Z 29619.2—2013\", \"standardName\": \"测量和控制数字数据通信  工业控制系统用现场总线  类型8:INTERBUS规范 第2部分:物理层规范和服务定义\", \"standardEnName\": \"Digital data communication for measurement and control—Fieldbus for use in industrial control systems—Type 8 : INTERBUS specification—Part 2 : Physical Layer specification and service definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.5\", \"cnName\": \"证实（原语）\", \"enName\": \"confirmation（primitive）\", \"publishTime\": \"2013-07-19\", \"publishYear\": \"2013\", \"implementTime\": \"2013-12-15\", \"ics\": \"25.04025\", \"ccs\": \"N10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50751, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"证实（原语）\", \"cnNameSearch\": \"证实（原语）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation（primitive）\", \"wordSearch\": \"confirmation（primitive）\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"[GB/T 17967—2000]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0b7b0e22ccc448aa1446fca68c95ced\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3.2\", \"cnName\": \"地下水动力学理论\", \"enName\": \"theory ofgroundwaterhydraulics\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121284, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地下水动力学理论\", \"cnNameSearch\": \"地下水动力学理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"theory ofgroundwaterhydraulics\", \"wordSearch\": \"theory ofgroundwaterhydraulics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ebd0ee77fed24bb69c4d9fc3b686524e\", \"databaseId\": null, \"standardId\": \"11d26ff9dae34aac838594143c3ec14c\", \"standardCode\": \"GB/T 31537—2015\", \"standardName\": \"煤层气（煤矿瓦斯）术语\", \"standardEnName\": \"Terms relating to coalbed methane（coal mine gas）\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.2.44\", \"cnName\": \"朗格缪尔理论\", \"enName\": \"Langmuir theory\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-09-01\", \"ics\": \"73.040\", \"ccs\": \"D04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16301, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"朗格缪尔理论\", \"cnNameSearch\": \"朗格缪尔理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Langmuir theory\", \"wordSearch\": \"Langmuir theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"单分子层吸附理论模型。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c2086f3556c40cabc921ca1f977a668\", \"databaseId\": null, \"standardId\": \"64355c1a5481444a8181fd48406a1101\", \"standardCode\": \"GB/T 32267—2015\", \"standardName\": \"分析仪器性能测定术语\", \"standardEnName\": \"Terminology of performance testing for analytical instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"7.38\", \"cnName\": \"塔板理论\", \"enName\": \"plate theory\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2017-01-01\", \"ics\": \"71.040\", \"ccs\": \"N04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 99869, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"塔板理论\", \"cnNameSearch\": \"塔板理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"plate theory\", \"wordSearch\": \"plate theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将色谱柱视为单级蒸馏的小塔板组成的精馏塔，借助化工原理中的塔板概念，描述色谱柱中溶质的浓度变化、分配平衡和分离效率的理论。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1cc0f43b86914378b0cf913de6839325\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.57\", \"cnName\": \"动力学理论\", \"enName\": \"dynamical theory\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151581, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"动力学理论\", \"cnNameSearch\": \"动力学理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dynamical theory\", \"wordSearch\": \"dynamical theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用入射光束及其所有散射波和晶体点阵之间的动力学相互作用来解释衍射现象，晶体点阵可看成是电势的三维周期场。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4476ef9222eb4077b3d0665e24843d02\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.3.6\", \"cnName\": \"通信理论\", \"enName\": \"communication theory\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通信理论\", \"cnNameSearch\": \"通信理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"communication theory\", \"wordSearch\": \"communication theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"着重研究通信过程和通信系统的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ad274d8e5ec4ae6848cb366371b7cfd\", \"databaseId\": null, \"standardId\": \"20c89588f1b54a74ad347d8091435e22\", \"standardCode\": \"GB/T 5271.16—2008\", \"standardName\": \"信息技术  词汇 第16部分：信息论\", \"standardEnName\": \"Information technology — Vocabulary Part 16: Information theory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"16.01.01\", \"cnName\": \"信息论\", \"enName\": \"information theory\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31034, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"信息论\", \"cnNameSearch\": \"信息论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"information theory\", \"wordSearch\": \"information theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究信息的定量测度的学科分支。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2bc4a1be379d497a82d519cc41187144\", \"databaseId\": null, \"standardId\": \"20c89588f1b54a74ad347d8091435e22\", \"standardCode\": \"GB/T 5271.16—2008\", \"standardName\": \"信息技术  词汇 第16部分：信息论\", \"standardEnName\": \"Information technology — Vocabulary Part 16: Information theory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"16.01.02\", \"cnName\": \"通信论\", \"enName\": \"communication theory\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31053, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"通信论\", \"cnNameSearch\": \"通信论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"communication theory\", \"wordSearch\": \"communication theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究存在噪声和其他干扰的条件下，消息传输的概率特征的数学分支。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"61dad2d67d064536ba3b51b9e1259b2d\", \"databaseId\": null, \"standardId\": \"54d6a00c229a4257af213142b3fc370a\", \"standardCode\": \"GB/T 32467—2015\", \"standardName\": \"化学分析方法验证确认和内部质量控制术语及定义\", \"standardEnName\": \"Verificationan dvalidation of methods and internal quality contorlon chemical analysis—Termsand definitions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"2.18\", \"cnName\": \"鉴定确认\", \"enName\": \"confirmation of identity\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"03.120.10\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 87658, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"鉴定确认\", \"cnNameSearch\": \"鉴定确认\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"confirmation of identity\", \"wordSearch\": \"confirmation of identity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过高精度的仪器,对目标分析物进行明确无误的鉴定。 \", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">如采用高精度仪器———质谱仪,或通过两个甚至更多的独立正交试验分析结果的一致性等方式。</span></p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7abacfeecf9c42248b3f7c7def42cfea\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.17\", \"cnName\": \"发色团理论\", \"enName\": \"chromophore theory\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"发色团理论\", \"cnNameSearch\": \"发色团理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chromophore theory\", \"wordSearch\": \"chromophore theory\"}, {\"languageType\": 1, \"word\": \"colour theory of witt\", \"wordSearch\": \"colour theory of witt\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"这是1876年 O·N·Witt 为说明染料的颜色和其化学结构之间的关系提出的一个经验学说，即染料的颜色是由其分子中的发色团和助色团产生的，并无严格的理论意义。随着科学的发展，后来又出现了共振论、经典电子理论以至以量子化学为基础的近代发色理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ece6f2b314d94bd7b7014b0ebf1d367d\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.2\", \"cnName\": \"比奥固结理论\", \"enName\": \"Biot's consolidation theory\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43716, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"比奥固结理论\", \"cnNameSearch\": \"比奥固结理论\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Biot's consolidation theory\", \"wordSearch\": \"Biot's consolidation theory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由比奥导得的、反映饱和黏性土体受荷载作用后发生的三维孔隙水流动和土骨架变形规律的理论。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1793140705088}"
+}

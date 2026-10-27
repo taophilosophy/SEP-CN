@@ -1,0 +1,33 @@
+{
+ "key": "unconditional probabilities",
+ "term": "unconditional probabilities",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:50:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "无条件帧",
+   "en": "unconditional frame",
+   "code": "GB/T 42691.3—2023",
+   "standard": "道路车辆  局域互联网络（LIN）  第3部分：协议规范",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "无条件跳转指令",
+   "en": "unconditional jump instruction",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "无条件语句",
+   "en": "unconditional statement",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2008\": 2}, \"sourceStats\": {\"道路车辆工程\": 1, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"c992328dc9ed43bcb73eb59ecd8ca58a\", \"databaseId\": null, \"standardId\": \"aee66fbbf4dd41669ae8563007e90847\", \"standardCode\": \"GB/T 42691.3—2023\", \"standardName\": \"道路车辆  局域互联网络（LIN）  第3部分：协议规范\", \"standardEnName\": \"Road vehicles—Local Interconnect Network(LIN)—Part 3:Protocol specification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.1.34\", \"cnName\": \"无条件帧\", \"enName\": \"unconditional frame\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"43.020\", \"ccs\": \"T 36\", \"parentTermId\": null, \"titleId\": null, \"oid\": 180497, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无条件帧\", \"cnNameSearch\": \"无条件帧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unconditional frame\", \"wordSearch\": \"unconditional frame\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"总是在其分配的帧时隙中发送的信号携带帧。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e82a6e1b81041d3a09a87e883f2ca17\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.09.28\", \"cnName\": \"无条件跳转指令\", \"enName\": \"unconditional jump instruction\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104709, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无条件跳转指令\", \"cnNameSearch\": \"无条件跳转指令\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unconditional jump instruction\", \"wordSearch\": \"unconditional jump instruction\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"规定某一强制性跳转的跳转指令。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e16e517e99645a08de50d00eb8c6754\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.05.12\", \"cnName\": \"无条件语句\", \"enName\": \"unconditional statement\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154409, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无条件语句\", \"cnNameSearch\": \"无条件语句\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unconditional statement\", \"wordSearch\": \"unconditional statement\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"祈使语句\", \"cnNameSearch\": \"祈使语句\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"imperative statement\", \"wordSearch\": \"imperative statement\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"不带任何条件使其执行的语句。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793141424964}"
+}

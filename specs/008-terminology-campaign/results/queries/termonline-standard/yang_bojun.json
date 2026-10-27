@@ -1,0 +1,33 @@
+{
+ "key": "yang bojun",
+ "term": "Yang Bojun",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:51:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "YANG模型",
+   "en": "YANG model",
+   "code": "GB/T 42586—2023",
+   "standard": "信息技术 系统间远程通信和信息交换 时间敏感网络配置",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "九阳",
+   "en": "jiu yang",
+   "code": "GB/T 21709.21—2013",
+   "standard": "针灸技术操作规范 第21部分:毫针基本手法",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "小儿阳水",
+   "en": "infantile yang edema",
+   "code": "GB/T 42467.7—2023",
+   "standard": "中医临床名词术语 第7部分：儿科学",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2013\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"医药卫生技术\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"1e572a793ffb42a2875e3c680f9f116a\", \"databaseId\": null, \"standardId\": \"315ed290e77c46b5a7f1fc1a518320d4\", \"standardCode\": \"GB/T 42586—2023\", \"standardName\": \"信息技术 系统间远程通信和信息交换 时间敏感网络配置\", \"standardEnName\": \"Information technology—Telecommunications and information exchange between systems—Configuration for time sensitive networking\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.8\", \"cnName\": \"YANG模型\", \"enName\": \"YANG model\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"35.110\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52416, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"YANG模型\", \"cnNameSearch\": \"YANG模型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"YANG model\", \"wordSearch\": \"YANG model\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种数据建模语言，用于对配置数据、状态数据、远程过程调用和网络管理协议通知进行建模。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"IETF RFC 7950-2016\", \"sourceCode\": \"\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e18a4b311c8146a08b35e507fa77d047\", \"databaseId\": null, \"standardId\": \"a0a6b72aba81413c8bf6b6650130bc68\", \"standardCode\": \"GB/T 21709.21—2013\", \"standardName\": \"针灸技术操作规范 第21部分:毫针基本手法\", \"standardEnName\": \"Standardized manipulations of acupuncture and moxibustion-Part 21: Filiform needle manipulation by basic applying technique\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.4\", \"cnName\": \"九阳\", \"enName\": \"jiu yang\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-12-01\", \"ics\": \"11.020\", \"ccs\": \"C 05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 165862, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"九阳\", \"cnNameSearch\": \"九阳\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"jiu yang\", \"wordSearch\": \"jiu yang\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"针刺手法抽象的量化概念，九阳有偏大偏多之意。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d92194fbea154d2a8f9953401cf8aeac\", \"databaseId\": null, \"standardId\": \"93b3b4ef45194702b869e8ac1f99e5d8\", \"standardCode\": \"GB/T 42467.7—2023\", \"standardName\": \"中医临床名词术语 第7部分：儿科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 7：Pediatrics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"9.1.1\", \"cnName\": \"小儿阳水\", \"enName\": \"infantile yang edema\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 156401, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"小儿阳水\", \"cnNameSearch\": \"小儿阳水\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"infantile yang edema\", \"wordSearch\": \"infantile yang edema\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以面部先肿，肿势明显，按之凹陷即起，病体不虚为特征的小儿水肿。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793141464983}"
+}

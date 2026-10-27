@@ -1,0 +1,33 @@
+{
+ "key": "chsh inequality",
+ "term": "CHSH inequality",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:37:43+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "色度-亮度增益差",
+   "en": "chrominance-luminance gain inequality",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "色度-亮度时延差",
+   "en": "chrominance-luminance delay inequality",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal &nbsp;tide &nbsp; inequality",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2011\": 2, \"暂无年份\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2, \"其它\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"0659b0cc08a644ebbf75f857c991c131\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.814\", \"cnName\": \"色度-亮度增益差\", \"enName\": \"chrominance-luminance gain inequality\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 147950, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"色度-亮度增益差\", \"cnNameSearch\": \"色度-亮度增益差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chrominance-luminance gain inequality\", \"wordSearch\": \"chrominance-luminance gain inequality\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定测试条件下，测得的色度信号相对于亮度信号的电平增益差。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"087d4f8ee77e427ca4be2e8536739fff\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.813\", \"cnName\": \"色度-亮度时延差\", \"enName\": \"chrominance-luminance delay inequality\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149153, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"色度-亮度时延差\", \"cnNameSearch\": \"色度-亮度时延差\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chrominance-luminance delay inequality\", \"wordSearch\": \"chrominance-luminance delay inequality\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在规定测试条件下，测得的色度信号相对于亮度信号的时延。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b0a1f211cde9496bb814f20d23b1bdbf\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.12.1.14\", \"cnName\": \"日潮不等\", \"enName\": \"diurnal &nbsp;tide &nbsp; inequality\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41135, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"日潮不等\", \"cnNameSearch\": \"日潮不等\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"diurnal &nbsp;tide &nbsp; inequality\", \"wordSearch\": \"diurnal &nbsp;tide &nbsp; inequality\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一太阴日内发生两潮不规则的现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140665080}"
+}

@@ -1,0 +1,96 @@
+{
+ "key": "ancient philosophy",
+ "term": "ancient philosophy",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:36:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=12",
+ "hits": [
+  {
+   "cn": "报警原则",
+   "en": "alarm philosophy",
+   "code": "GB/T 41261—2022",
+   "standard": "过程工业报警系统管理",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "古建筑",
+   "en": "ancient buildings",
+   "code": "GB 51017—2014",
+   "standard": "古建筑防雷工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "古建筑",
+   "en": "ancient building",
+   "code": "GB 50855—2013",
+   "standard": "仿古建筑工程工程量计算规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "古籍",
+   "en": "ancient books",
+   "code": "GB/Z 40637—2021",
+   "standard": "古籍印刷通用字规范字形表",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "古建筑",
+   "en": "ancient building",
+   "code": "GB/T 39056—2020",
+   "standard": "古建筑砖石结构维修与加固技术规范",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "古代沉积",
+   "en": "ancient sediment",
+   "code": "GB/T 8423.1—2018",
+   "standard": "石油天然气工业术语 第1部分:勘探开发",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "古籍",
+   "en": "ancient books",
+   "code": "GB/T 21712—2008",
+   "standard": "古籍修复技术规范与质量要求",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "古建筑群",
+   "en": "ancient buildings group",
+   "code": "GB 51017—2014",
+   "standard": "古建筑防雷工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "单体古建筑",
+   "en": "single ancient building",
+   "code": "GB 51017—2014",
+   "standard": "古建筑防雷工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "古籍",
+   "en": "Chinese ancient books",
+   "code": "GB/T 3792—2021",
+   "standard": "信息与文献 资源描述",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "古籍特藏文献",
+   "en": "special ancient document",
+   "code": "GB/T 40987.1—2021",
+   "standard": "公共图书馆业务规范 第1部分：省级公共图书馆",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "古树名木",
+   "en": "ancient and famous tree",
+   "code": "GB/T 39049—2020",
+   "standard": "历史文化名村保护与修复技术指南",
+   "subject": null
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2021\": 3, \"2020\": 2, \"2018\": 1, \"2008\": 1, \"暂无年份\": 4}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 5, \"石油及相关技术\": 1, \"机械制造\": 1, \"其它\": 4}, \"typeStats\": {\"7\": 12}, \"totalRecords\": 12, \"tmWordList\": [{\"id\": \"b50eccfb9d194c6cb3bbb82e61988fc2\", \"databaseId\": null, \"standardId\": \"ebbc8a7b60834060a79c3935c8cd3f08\", \"standardCode\": \"GB/T 41261—2022\", \"standardName\": \"过程工业报警系统管理\", \"standardEnName\": \"Management of alarms systems for the process industries\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.21\", \"cnName\": \"报警原则\", \"enName\": \"alarm philosophy\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"25.040 \", \"ccs\": \"N 19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230572, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"报警原则\", \"cnNameSearch\": \"报警原则\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"alarm philosophy\", \"wordSearch\": \"alarm philosophy\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于建立设计、实施和维护一个报警系统的基本定义、原则和流程的文件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"73044ba43c344a3d8138827a3203fbd0\", \"databaseId\": null, \"standardId\": \"7d99409e2d4a4822af2c2190acc05d73\", \"standardCode\": \"GB 51017—2014\", \"standardName\": \"古建筑防雷工程技术规范\", \"standardEnName\": \"Technical code for lightning protection engineering of ancient buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"古建筑\", \"enName\": \"ancient buildings\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133794, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古建筑\", \"cnNameSearch\": \"古建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient buildings\", \"wordSearch\": \"ancient buildings\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"现遗存的按古代传统营造方式营造的古代建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1b14319c96824be4bb6ebfc8d577af21\", \"databaseId\": null, \"standardId\": \"c56df9efe5f748dfb7a1a2d4fe0cd324\", \"standardCode\": \"GB 50855—2013\", \"standardName\": \"仿古建筑工程工程量计算规范\", \"standardEnName\": \"Standard method of measurement for pseudo-classic architectural works\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"古建筑\", \"enName\": \"ancient building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 198432, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古建筑\", \"cnNameSearch\": \"古建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient building\", \"wordSearch\": \"ancient building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"主要指古代原始社会、奴隶社会和封建社会遗留的建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2e13ac167a9b408baf4079f87f5c1945\", \"databaseId\": null, \"standardId\": \"851d9fec66bf4eb7a850da7197635401\", \"standardCode\": \"GB/Z 40637—2021\", \"standardName\": \"古籍印刷通用字规范字形表\", \"standardEnName\": \"Standard glyph list of generally used Chinese characters for ancient books publishing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"古籍\", \"enName\": \"ancient books\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"01.040.01\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 141263, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古籍\", \"cnNameSearch\": \"古籍\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient books\", \"wordSearch\": \"ancient books\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"古人用文言或古白话写成的书籍。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"60c1e602aea14f51a98133833477bf0c\", \"databaseId\": null, \"standardId\": \"5300c1679ef541f9aa9d1d40542589d1\", \"standardCode\": \"GB/T 39056—2020\", \"standardName\": \"古建筑砖石结构维修与加固技术规范\", \"standardEnName\": \"Technical code for maintenance and strengthening of masonry structures on ancient buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1.5  \", \"cnName\": \"古建筑\", \"enName\": \"ancient building\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2020-09-29\", \"ics\": \"01.140.3001\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 86622, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古建筑\", \"cnNameSearch\": \"古建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient building\", \"wordSearch\": \"ancient building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"运用传统材料、传统技术建于1840年以前的具有历史、艺术、科学、社会和文化价值的建筑物和构筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dadef39ecd3b46f0919a248de434e7e0\", \"databaseId\": null, \"standardId\": \"d290de2ff26e453c89260e55f7652785\", \"standardCode\": \"GB/T 8423.1—2018\", \"standardName\": \"石油天然气工业术语 第1部分:勘探开发\", \"standardEnName\": \"Petroleum and natural gas industries terminology—Part 1: Exploration and development\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.2.5\", \"cnName\": \"古代沉积\", \"enName\": \"ancient sediment\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"75.02075\", \"ccs\": \"E90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 209900, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古代沉积\", \"cnNameSearch\": \"古代沉积\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient sediment\", \"wordSearch\": \"ancient sediment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"地质历史时期所形成的沉积体系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"20b9735bf48d464d8bd68da3ed48c08d\", \"databaseId\": null, \"standardId\": \"6850d671c89d4f3dbd548099789013b2\", \"standardCode\": \"GB/T 21712—2008\", \"standardName\": \"古籍修复技术规范与质量要求\", \"standardEnName\": \"The standard for the restoration and control of ancient books\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.1\", \"cnName\": \"古籍\", \"enName\": \"ancient books\", \"publishTime\": \"2008-04-23\", \"publishYear\": \"2008\", \"implementTime\": \"2008-07-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103389, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古籍\", \"cnNameSearch\": \"古籍\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient books\", \"wordSearch\": \"ancient books\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指书写或印刷于1912年以前具有中国古典装帧形式的书籍,中国古代书籍的简称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a44bfb285bee41be98060c3c65978f07\", \"databaseId\": null, \"standardId\": \"7d99409e2d4a4822af2c2190acc05d73\", \"standardCode\": \"GB 51017—2014\", \"standardName\": \"古建筑防雷工程技术规范\", \"standardEnName\": \"Technical code for lightning protection engineering of ancient buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"古建筑群\", \"enName\": \"ancient buildings group\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133783, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古建筑群\", \"cnNameSearch\": \"古建筑群\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient buildings group\", \"wordSearch\": \"ancient buildings group\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由多个有关联的单体古建筑物组成的一群（或组）古建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d827f446890c4c6d968495655a72ebcb\", \"databaseId\": null, \"standardId\": \"7d99409e2d4a4822af2c2190acc05d73\", \"standardCode\": \"GB 51017—2014\", \"standardName\": \"古建筑防雷工程技术规范\", \"standardEnName\": \"Technical code for lightning protection engineering of ancient buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"单体古建筑\", \"enName\": \"single ancient building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133791, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单体古建筑\", \"cnNameSearch\": \"单体古建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"single ancient building\", \"wordSearch\": \"single ancient building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"独立的单个建筑物或多个有关联的单个建筑物中的某一古建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c468ac15bb1d493e97755e35a504a562\", \"databaseId\": null, \"standardId\": \"9bf80bfb59a64dd985fe3eeba06474db\", \"standardCode\": \"GB/T 3792—2021\", \"standardName\": \"信息与文献 资源描述\", \"standardEnName\": \"Information and documentation-Resource description\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.18\", \"cnName\": \"古籍\", \"enName\": \"Chinese ancient books\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"01.140.2001\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 162066, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古籍\", \"cnNameSearch\": \"古籍\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Chinese ancient books\", \"wordSearch\": \"Chinese ancient books\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"1911年以前(含1911年)在中国书写或印刷的书籍。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0d0a3a8a97134836b421915903f15a67\", \"databaseId\": null, \"standardId\": \"f9aba06e8b4b4b57b9c050cb979bdf8b\", \"standardCode\": \"GB/T 40987.1—2021\", \"standardName\": \"公共图书馆业务规范 第1部分：省级公共图书馆\", \"standardEnName\": \"Public library professional work specifications—Part 1： Provincial public library\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.11\", \"cnName\": \"古籍特藏文献\", \"enName\": \"special ancient document\", \"publishTime\": \"2021-11-01\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 243497, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古籍特藏文献\", \"cnNameSearch\": \"古籍特藏文献\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"special ancient document\", \"wordSearch\": \"special ancient document\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其有一定的历史文物价值、学术价值、艺术价值的文献。、\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>包括但不限于汉文和少数民族文字的善本古籍、普通古籍、新线装、新善本、名家手稿、家谱、地方志、金石拓片、舆图、老照片、年画、小报、外文善本。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"50b4b2802603411eaf28be8a1e95bc4e\", \"databaseId\": null, \"standardId\": \"af1fbe08224e40f8953d0edeb14fb907\", \"standardCode\": \"GB/T 39049—2020\", \"standardName\": \"历史文化名村保护与修复技术指南\", \"standardEnName\": \"Technical guidelines for the conservation and restoration of historical and cultural villages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": null, \"termCode\": \"3.9  \", \"cnName\": \"古树名木\", \"enName\": \"ancient and famous tree\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2020-09-29\", \"ics\": \"0101\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 180641, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"古树名木\", \"cnNameSearch\": \"古树名木\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ancient and famous tree\", \"wordSearch\": \"ancient and famous tree\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"树龄在100年以上的古树以及在历史上或社会上有重大影响的中外历代名人、领袖人物所植或者具有极其重要的历史、文化价值和纪念意义的名木。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140570058}"
+}

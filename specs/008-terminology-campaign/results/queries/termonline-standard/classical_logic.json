@@ -1,0 +1,152 @@
+{
+ "key": "classical logic",
+ "term": "classical logic",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:37:59+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=71",
+ "hits": [
+  {
+   "cn": "杜比定向逻辑环绕声（杜比Pro Logic）",
+   "en": "Dolby pro-logic surround",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "经典信道",
+   "en": "classical channel",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信息",
+   "en": "classical information",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信号",
+   "en": "classical signal",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信道",
+   "en": "classical channel",
+   "code": "GB/T 42829—2023",
+   "standard": "量子保密通信应用基本要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "经典信号",
+   "en": "classical signal",
+   "code": "GB/T 42829—2023",
+   "standard": "量子保密通信应用基本要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "传统顿",
+   "en": "classical frame",
+   "code": "GB/T 41588.1—2022",
+   "standard": "道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "经典传导",
+   "en": "classical conduction",
+   "code": "GB/T 41675—2022",
+   "standard": "航天器电推进技术术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "经典回旋加速器",
+   "en": "classical cyclotron",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "经典扩散",
+   "en": "classical diffusion",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "符号逻辑，数理逻辑",
+   "en": "symbolic logic, mathematical logic",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑控制器",
+   "en": "logic solver",
+   "code": "GB/T 50770—2013",
+   "standard": "石油化工安全仪表系统设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "处理逻辑",
+   "en": "processing logic",
+   "code": "GB/T 42449—2023",
+   "standard": "系统与软件工程　功能规模测量　IFPUG方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "业务逻辑",
+   "en": "business logic",
+   "code": "GB/T 41771.1—2022",
+   "standard": "第1部分：概述 现场设备集成 ",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "逻辑接口",
+   "en": "logic interface",
+   "code": "GB/T 40653—2021",
+   "standard": "信息安全技术 安全处理器技术要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑防护",
+   "en": "logic protection",
+   "code": "GB/T 40653—2021",
+   "standard": "信息安全技术 安全处理器技术要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑分析仪",
+   "en": "logic analyzer",
+   "code": "GB/T 15471—2013",
+   "standard": "逻辑分析仪通用规范 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logic design",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "逻辑器件",
+   "en": "logic device",
+   "code": "GB/T 5271.3—2008",
+   "standard": "信息技术  词汇 第3部分：设备技术",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 5, \"2022\": 8, \"2021\": 7, \"2020\": 1, \"2019\": 2, \"2017\": 2, \"2016\": 1, \"2013\": 3, \"2011\": 3, \"2010\": 1, \"2008\": 13, \"2001\": 3, \"2000\": 1, \"1998\": 1, \"1993\": 3, \"1988\": 10, \"暂无年份\": 4}, \"sourceStats\": {\"道路车辆工程\": 3, \"计量学和测量、物理现象\": 1, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 9, \"综合、术语学、标准化、文献\": 8, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"电气工程\": 2, \"电子学\": 4, \"电信、音频和视频工程\": 1, \"机械制造\": 9, \"木材技术\": 2, \"数学、自然科学\": 1, \"其它\": 4, \"信息技术、办公机械\": 25}, \"typeStats\": {\"7\": 71}, \"totalRecords\": 71, \"tmWordList\": [{\"id\": \"15fbcfc85e5c477b845cb58ab45e18c4\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"11.1.12\", \"cnName\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"enName\": \"Dolby pro-logic surround\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24000, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"cnNameSearch\": \"杜比定向逻辑环绕声（杜比Pro Logic）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Dolby pro-logic surround\", \"wordSearch\": \"Dolby pro-logic surround\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"杜比（Dolby）实验室开发的一种改进型杜比环绕声方式。这类方式引人了相位差处理和方向增强矩阵等技术，增加重放声道，改进性能，提升环绕声效果。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6ea455205c914f0f95378ac3775d0370\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.20\", \"cnName\": \"经典信道\", \"enName\": \"classical channel\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211092, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信道\", \"cnNameSearch\": \"经典信道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical channel\", \"wordSearch\": \"classical channel\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"传输经典信号的信道。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c89c69531f6b43d9bdf33475d882873d\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2\", \"cnName\": \"经典信息\", \"enName\": \"classical information\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211102, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信息\", \"cnNameSearch\": \"经典信息\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical information\", \"wordSearch\": \"classical information\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"经典物理系统状态所包含的知识。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>等价于一般意义上的信息(见 GB/T 4894—2009 中 4.1.1.3.8 和 4.1.1.3.9)。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"75f66dd431634cd2a581524f54100da6\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.18\", \"cnName\": \"经典信号\", \"enName\": \"classical signal\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211142, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信号\", \"cnNameSearch\": \"经典信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical signal\", \"wordSearch\": \"classical signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"现代通信技术中以承载经典物理量的物理信号。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>是经典信息(3.2)的物理载体。</p>\", \"<p>常用的经典信号有，高电平、低电平、亮光脉冲、暗光脉冲、不同偏振状态的光脉冲和不同相位差的光脉冲等。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed3f8d1326dd441bba02a5e5d579e85e\", \"databaseId\": null, \"standardId\": \"50658c5b0fb040128b3ad8f767d453fb\", \"standardCode\": \"GB/T 42829—2023\", \"standardName\": \"量子保密通信应用基本要求\", \"standardEnName\": \"Basic requirements of quantum secure communication applications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.10\", \"cnName\": \"经典信道\", \"enName\": \"classical channel\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"35.030\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82823, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信道\", \"cnNameSearch\": \"经典信道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical channel\", \"wordSearch\": \"classical channel\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"传输经典信号的信道。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03f56c2ac3284d078640b4236411f707\", \"databaseId\": null, \"standardId\": \"50658c5b0fb040128b3ad8f767d453fb\", \"standardCode\": \"GB/T 42829—2023\", \"standardName\": \"量子保密通信应用基本要求\", \"standardEnName\": \"Basic requirements of quantum secure communication applications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.8\", \"cnName\": \"经典信号\", \"enName\": \"classical signal\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"35.030\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82829, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信号\", \"cnNameSearch\": \"经典信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical signal\", \"wordSearch\": \"classical signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"现代通信技术中以经典物理量承载信息的物理信号。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>常用的经典信号如，高电平、低电平、亮光脉冲、暗光脉冲、不同偏振状态的光脉冲和不同相位差的光脉冲等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"699f222bcb8946109f95d8af520ab54e\", \"databaseId\": null, \"standardId\": \"3f632e7a3cf44bb0810232a119948bb7\", \"standardCode\": \"GB/T 41588.1—2022\", \"standardName\": \"道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令\", \"standardEnName\": \"Road vehicles—Controller area network(CAN)一 Part 1:Data link layer and physical signalling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.9\", \"cnName\": \"传统顿\", \"enName\": \"classical frame\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 43.020\", \"ccs\": \"CCS T 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68060, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"传统顿\", \"cnNameSearch\": \"传统顿\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical frame\", \"wordSearch\": \"classical frame\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指使用传统标准帧格式、或者传统扩展顿格式的数据顿或者远程帧。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c1f84e17c414ad9a386523fdaf573a6\", \"databaseId\": null, \"standardId\": \"97bd0a898f9f4ca2af855d0377d7eda5\", \"standardCode\": \"GB/T 41675—2022\", \"standardName\": \"航天器电推进技术术语\", \"standardEnName\": \"Terms for spacecraft electric propulsion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"5.29\", \"cnName\": \"经典传导\", \"enName\": \"classical conduction\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 49.020 \", \"ccs\": \"CCS V 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159155, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典传导\", \"cnNameSearch\": \"经典传导\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical conduction\", \"wordSearch\": \"classical conduction\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由于粒子之间碰撞作用引起扩散的物理过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed793892237242d688e789d8c3b845e8\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2.1\", \"cnName\": \"经典回旋加速器\", \"enName\": \"classical cyclotron\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10742, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典回旋加速器\", \"cnNameSearch\": \"经典回旋加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical cyclotron\", \"wordSearch\": \"classical cyclotron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最早出现的一种具有圆柱形磁极，其磁感应强度沿径向缓慢下降的回旋加速器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e1a8a97c9084426095306f4c47dc1828\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.53\", \"cnName\": \"经典扩散\", \"enName\": \"classical diffusion\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146442, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典扩散\", \"cnNameSearch\": \"经典扩散\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical diffusion\", \"wordSearch\": \"classical diffusion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"碰撞扩散\\ncollision diffusion\\n可以完全由带电粒子间的库仑碰撞或带电粒子与中性粒子碰撞的经典理论计算得出的粒子扩散\\n方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"29a76ce163c841ce9754fa6f66fad337\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.01.04\", \"cnName\": \"符号逻辑，数理逻辑\", \"enName\": \"symbolic logic, mathematical logic\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221609, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"符号逻辑，数理逻辑\", \"cnNameSearch\": \"符号逻辑，数理逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"symbolic logic, mathematical logic\", \"wordSearch\": \"symbolic logic, mathematical logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一门学科，在这门学科中，有效的论证和运算是用人工语言来进行的，以避免自然语言的二义性和逻辑上的不适宜性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"196f8300de1e42a4939cb9135b9523b2\", \"databaseId\": null, \"standardId\": \"87aa436a79974d9e83852fecfb12580f\", \"standardCode\": \"GB/T 50770—2013\", \"standardName\": \"石油化工安全仪表系统设计规范\", \"standardEnName\": \"Code for design of safety instrumented system in petrochemical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.17\", \"cnName\": \"逻辑控制器\", \"enName\": \"logic solver\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143246, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑控制器\", \"cnNameSearch\": \"逻辑控制器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic solver\", \"wordSearch\": \"logic solver\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安全仪表系统的组成部分，执行逻辑功能的设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bfe946d10fb841b3a7197c58fcd02132\", \"databaseId\": null, \"standardId\": \"f02af4760aa943cd9106905180177c8a\", \"standardCode\": \"GB/T 42449—2023\", \"standardName\": \"系统与软件工程　功能规模测量　IFPUG方法\", \"standardEnName\": \"Systems and software engineering—Functional size measurement—IFPUG method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.44\", \"cnName\": \"处理逻辑\", \"enName\": \"processing logic\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"35.080\", \"ccs\": \"L 77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235697, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"处理逻辑\", \"cnNameSearch\": \"处理逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"processing logic\", \"wordSearch\": \"processing logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用户为完成基本过程（如验证、算法或运算，以及读取或维护数据功能）而特别要求的需求。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ee1fa975a229443e94d04de4f4acfd14\", \"databaseId\": null, \"standardId\": \"5a255d71d2a84a358daca4d896f13a2e\", \"standardCode\": \"GB/T 41771.1—2022\", \"standardName\": \"第1部分：概述 现场设备集成 \", \"standardEnName\": \"Field device integration—Part 1 : Overview \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.3\", \"cnName\": \"业务逻辑\", \"enName\": \"business logic\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 25.040\", \"ccs\": \"CCS N 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91840, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"业务逻辑\", \"cnNameSearch\": \"业务逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"business logic\", \"wordSearch\": \"business logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"FDI包的描述元素，规定了嵌套通信的设备特定行为和/或映射逻辑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"76e3661dd6c543e5b7360c760814bc0b\", \"databaseId\": null, \"standardId\": \"ad12848c833f40de9acd6ac612ccabc8\", \"standardCode\": \"GB/T 40653—2021\", \"standardName\": \"信息安全技术 安全处理器技术要求\", \"standardEnName\": \"Information security technology—Technical requirements for security processor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9\", \"cnName\": \"逻辑接口\", \"enName\": \"logic interface\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.03035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179503, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑接口\", \"cnNameSearch\": \"逻辑接口\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic interface\", \"wordSearch\": \"logic interface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在安全处理器内，通过安全策略表、应答审计处理表、资源配置表、程序列表和数据列表的结构体，实现数据交换功能的逻辑和控制。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b46665624b534713b0cd75e49ca64f81\", \"databaseId\": null, \"standardId\": \"ad12848c833f40de9acd6ac612ccabc8\", \"standardCode\": \"GB/T 40653—2021\", \"standardName\": \"信息安全技术 安全处理器技术要求\", \"standardEnName\": \"Information security technology—Technical requirements for security processor\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4\", \"cnName\": \"逻辑防护\", \"enName\": \"logic protection\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"35.03035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑防护\", \"cnNameSearch\": \"逻辑防护\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic protection\", \"wordSearch\": \"logic protection\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"依据物理防护和应用防护的安全功能，通过资源配置、操作配置、运行态控制等方式，调整安全策略，使逻辑结构和控制具备对未知攻击更强的安全强度和弹性，阻止逻辑威胁的安全能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e42c673945e048b896a58615cb9c66cf\", \"databaseId\": null, \"standardId\": \"3df12366fab742b497b1bec19c399466\", \"standardCode\": \"GB/T 15471—2013\", \"standardName\": \"逻辑分析仪通用规范 \", \"standardEnName\": \"General specification for logic analyzer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"逻辑分析仪\", \"enName\": \"logic analyzer\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-05-15\", \"ics\": \"ICS 17.220\", \"ccs\": \"L 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66358, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑分析仪\", \"cnNameSearch\": \"逻辑分析仪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic analyzer\", \"wordSearch\": \"logic analyzer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取相对一个触发事件的数字逻辑信号，以各种方式显示这些信号并进行分析的测试仪器。其主<br>到的逻辑信号。<br>逻辑分析仪一般由输人、采集、存储、触发与控制、处理与显示等部分组成。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ac79649d2d9490ab008c3aa29bd18ab\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.02.09\", \"cnName\": \"逻辑编程\", \"enName\": \"logic programming\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104635, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑编程\", \"cnNameSearch\": \"逻辑编程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic programming\", \"wordSearch\": \"logic programming\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种将程序结构化为若干组逻辑规则，各带有预定义的算法，用于按该程序的规则处理其输人数据的方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"95b0fdc4df1a4eb2a634331bea94a538\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.03.02\", \"cnName\": \"逻辑设计\", \"enName\": \"logic design\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136437, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑设计\", \"cnNameSearch\": \"逻辑设计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic design\", \"wordSearch\": \"logic design\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种采用符号逻辑等形式描述方法的功能设计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b772332918a74481ae8bf42d729ed280\", \"databaseId\": null, \"standardId\": \"81a4f09e3a2a44169bf26cb704a2323a\", \"standardCode\": \"GB/T 5271.3—2008\", \"standardName\": \"信息技术  词汇 第3部分：设备技术\", \"standardEnName\": \"Information technology — Vocabulary — Part 3: Equipment technology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"03.04.01\", \"cnName\": \"逻辑器件\", \"enName\": \"logic device\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 136442, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑器件\", \"cnNameSearch\": \"逻辑器件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logic device\", \"wordSearch\": \"logic device\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种进行逻辑运算的器件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1793140680106}"
+}

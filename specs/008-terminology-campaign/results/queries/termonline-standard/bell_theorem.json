@@ -1,0 +1,152 @@
+{
+ "key": "bell theorem",
+ "term": "Bell theorem",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:37:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=25",
+ "hits": [
+  {
+   "cn": "号钟",
+   "en": "bell",
+   "code": "GB/T 32852.6—2018",
+   "standard": "城市客运术语 第 6 部分:城市客运轮渡",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "料钟",
+   "en": "bell",
+   "code": "GB/T 32818—2016",
+   "standard": "冶炼设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "钟形套",
+   "en": "bell",
+   "code": "GB/T 26729—2011",
+   "standard": "农业灌溉设备  地表灌溉用聚氯乙烯（PVC）低压管  技术规范和试验方法",
+   "subject": "农业"
+  },
+  {
+   "cn": "勒夏特列原理",
+   "en": "Le Chatelier's theorem",
+   "code": "GB/T 30067—2013",
+   "standard": "金相学术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "钟罩式炉",
+   "en": "bell-typefurnaces",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "天钟",
+   "en": "bell hole",
+   "code": "GB/T 43217—2023",
+   "standard": "岩溶洞穴学基本术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "防溢管",
+   "en": "bell nipple",
+   "code": "GB/T 8423.2—2018",
+   "standard": "石油天然气工业术语 第2部分：工程技术",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "锚唇",
+   "en": "bell mouth",
+   "code": "GB/T 33431—2016",
+   "standard": "锚唇厚度设计指南",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "闭式潜水钟",
+   "en": "closed bell",
+   "code": "GB 28396—2012",
+   "standard": "混合气潜水安全要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "救生钟",
+   "en": "rescue bell",
+   "code": "GB/T 8843—2002",
+   "standard": "工程船术语",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "潜水钟",
+   "en": "diving bell",
+   "code": "GB/T 8843—2002",
+   "standard": "工程船术语",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "钟罩阀",
+   "en": "bell type valve",
+   "code": "GB 50195—2013",
+   "standard": "发生炉煤气站设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "钟罩式油箱",
+   "en": "bell type tank",
+   "code": "GB/T 40582—2021",
+   "standard": "水电站基本术语 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "真空钟罩",
+   "en": "vacuum bell jar",
+   "code": "GB/T 3163—2007",
+   "standard": "真空技术 术语",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "上（下）罐锥形阀",
+   "en": "upper (lower）bell valve",
+   "code": "GB/T 7920.4—2016",
+   "standard": "混凝土机械术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "无料钟炉顶装料设备",
+   "en": "no bell top",
+   "code": "GB/T 32818—2016",
+   "standard": "冶炼设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "电声互易原理",
+   "en": "electroacoustical reciprocity principle",
+   "code": "GB/T 32522—2016",
+   "standard": "声学 压电球面聚焦超声换能器的 电声特性及其测量 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "承口露砂",
+   "en": "sand explosed at the bell",
+   "code": "GB/T 15345—2017",
+   "standard": "混凝土输水管试验方法 ",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "钟式炉顶装料设备",
+   "en": "bell type top charging equipment",
+   "code": "GB/T 32818—2016",
+   "standard": "冶炼设备  术语",
+   "subject": "冶金"
+  },
+  {
+   "cn": "承插口端",
+   "en": "bell and spigot joint end",
+   "code": "GB/T 31438—2015",
+   "standard": "混凝土灌注桩用钢薄壁声测管",
+   "subject": "土木工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2021\": 1, \"2018\": 2, \"2017\": 1, \"2016\": 9, \"2015\": 1, \"2013\": 1, \"2012\": 1, \"2011\": 1, \"2009\": 1, \"2008\": 1, \"2007\": 1, \"2002\": 2, \"暂无年份\": 2}, \"sourceStats\": {\"造船和海上构筑物\": 3, \"计量学和测量、物理现象\": 1, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 2, \"石油及相关技术\": 1, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 1, \"服装工业\": 1, \"数学、自然科学\": 1, \"建筑材料和建筑物\": 1, \"土木工程\": 1, \"冶金\": 7, \"农业\": 1, \"其它\": 2}, \"typeStats\": {\"7\": 25}, \"totalRecords\": 25, \"tmWordList\": [{\"id\": \"fc5379abdfba4b3cba1b13ee8eae0947\", \"databaseId\": null, \"standardId\": \"071c99555bc34954978260c2d64fa104\", \"standardCode\": \"GB/T 32852.6—2018\", \"standardName\": \"城市客运术语 第 6 部分:城市客运轮渡\", \"standardEnName\": \"Urban passenger transportation terminology—Part 6:Urban ferry transport\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.3.10\", \"cnName\": \"号钟\", \"enName\": \"bell\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"03.220.40\", \"ccs\": \"R 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 6140, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"号钟\", \"cnNameSearch\": \"号钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell\", \"wordSearch\": \"bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"渡轮对内及外界以钟声表达意图和信息的金属钟。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d8166b2a87b448b4b1238f59a022ed3e\", \"databaseId\": null, \"standardId\": \"74d1aff349d04d6196df67bdda6cfec8\", \"standardCode\": \"GB/T 32818—2016\", \"standardName\": \"冶炼设备  术语\", \"standardEnName\": \"Metallurgical equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.2.2.1.1\", \"cnName\": \"料钟\", \"enName\": \"bell\", \"publishTime\": \"2016-08-29\", \"publishYear\": \"2016\", \"implementTime\": \"2017-03-01\", \"ics\": \"77.180\", \"ccs\": \"H92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118555, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"料钟\", \"cnNameSearch\": \"料钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell\", \"wordSearch\": \"bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于高炉炉顶装料布料和密封的钟形金属部件。按体积大小又分大(料)钟和小(料)钟。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"94a878a3b97c4036be2c1b2b80f8e79c\", \"databaseId\": null, \"standardId\": \"675fa69fa054484e838e7dfb695b3248\", \"standardCode\": \"GB/T 26729—2011\", \"standardName\": \"农业灌溉设备  地表灌溉用聚氯乙烯（PVC）低压管  技术规范和试验方法\", \"standardEnName\": \"Agricultural irrigation equipment - PVC above-ground low-pressure pipe for surface irrigation - Specifications and test methods\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1\", \"cnName\": \"钟形套\", \"enName\": \"bell\", \"publishTime\": \"2011-07-20\", \"publishYear\": \"2011\", \"implementTime\": \"2012-01-01\", \"ics\": \"65.060.35\", \"ccs\": \"B91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102327, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钟形套\", \"cnNameSearch\": \"钟形套\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell\", \"wordSearch\": \"bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"管子端部的钟形部分,当邻接管的套管端部插入钟形套时,钟形套起到密封作用。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"82ac71da1e00441386eaf02425dd4916\", \"databaseId\": null, \"standardId\": \"8f678056645c4d0bbb85d60d0aa04836\", \"standardCode\": \"GB/T 30067—2013\", \"standardName\": \"金相学术语\", \"standardEnName\": \"Standard terminology relating to metallography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"2.1.142\", \"cnName\": \"勒夏特列原理\", \"enName\": \"Le Chatelier's theorem\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-09-01\", \"ics\": \"77.040.997\", \"ccs\": \"H24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"勒夏特列原理\", \"cnNameSearch\": \"勒夏特列原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Le Chatelier's theorem\", \"wordSearch\": \"Le Chatelier's theorem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"当一应力作用到平衡系统时，其反作用有减轻该应力的倾向。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e102a7d319554535b303378207c07bf3\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.3.17\", \"cnName\": \"钟罩式炉\", \"enName\": \"bell-typefurnaces\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 178376, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钟罩式炉\", \"cnNameSearch\": \"钟罩式炉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell-typefurnaces\", \"wordSearch\": \"bell-typefurnaces\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"炉体呈钟罩形，工件放在底座上的热处理设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"88013f0378684a66ad157fa1425c6a75\", \"databaseId\": null, \"standardId\": \"965e4e91118c47288516bb1564d8c486\", \"standardCode\": \"GB/T 43217—2023\", \"standardName\": \"岩溶洞穴学基本术语\", \"standardEnName\": \"Essential terminology of karst speleology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"6.6.7\", \"cnName\": \"天钟\", \"enName\": \"bell hole\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-01-01\", \"ics\": \"07.060\", \"ccs\": \"A 44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 158147, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"天钟\", \"cnNameSearch\": \"天钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell hole\", \"wordSearch\": \"bell hole\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"负石笋\", \"cnNameSearch\": \"负石笋\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"洞腔上方长轴完全垂直的喇叭状窝穴，常成群出现，深度明显大于直径。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"edc81e72899645c09677f0201576002f\", \"databaseId\": null, \"standardId\": \"7b3a45b4cf6842d8a249f996a1cc3e2a\", \"standardCode\": \"GB/T 8423.2—2018\", \"standardName\": \"石油天然气工业术语 第2部分：工程技术\", \"standardEnName\": \"Petroleum and natural gas industries terminology—Part 2: Engineering technical\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"2.9.63\", \"cnName\": \"防溢管\", \"enName\": \"bell nipple\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"75.020\", \"ccs\": \"E 13\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131661, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防溢管\", \"cnNameSearch\": \"防溢管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell nipple\", \"wordSearch\": \"bell nipple\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"接在防喷器顶部用于抬高钻井液出口和防止外溢的一段管子。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc70a6649d1549178e6c8368986b1ef4\", \"databaseId\": null, \"standardId\": \"ecacfcd1c8534725bb6aace1b458c5ac\", \"standardCode\": \"GB/T 33431—2016\", \"standardName\": \"锚唇厚度设计指南\", \"standardEnName\": \"Guide for bell mouth thickness design\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"2.1\", \"cnName\": \"锚唇\", \"enName\": \"bell mouth\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"47.020.50\", \"ccs\": \"U20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231362, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"锚唇\", \"cnNameSearch\": \"锚唇\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell mouth\", \"wordSearch\": \"bell mouth\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"位于锚链筒外板出口处，承受锚与锚链的碰撞力和摩擦力，并使锚稳定贴合处于收藏位置的类椭圆<br>形环状结构，见图1。\\n<img src=\\\"/term/5800de91ab2d4caaa53f69862cc8e539/image.png\\\" alt=\\\"image.png\\\">\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a965e2d1734f43399fd28442b0f47a3d\", \"databaseId\": null, \"standardId\": \"031e5d930efb42f5ab77ce45eb5529a5\", \"standardCode\": \"GB 28396—2012\", \"standardName\": \"混合气潜水安全要求\", \"standardEnName\": \"The safety requirement for mixed gas diving\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1.2 \", \"cnName\": \"闭式潜水钟\", \"enName\": \"closed bell\", \"publishTime\": \"2012-06-29\", \"publishYear\": \"2012\", \"implementTime\": \"2013-05-01\", \"ics\": \"03.220.40;13.10003\", \"ccs\": \"R09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2035, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"闭式潜水钟\", \"cnNameSearch\": \"闭式潜水钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"closed bell\", \"wordSearch\": \"closed bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种运送潜水员往返于水面与水下作业地点之间的运载设备，其钟体可密闭，并可与甲板减压舱对接，\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9a75d92514ec400ca2e7296be8a6a004\", \"databaseId\": null, \"standardId\": \"6b9ca32e682148f2bf37a7632d7e5ed5\", \"standardCode\": \"GB/T 8843—2002\", \"standardName\": \"工程船术语\", \"standardEnName\": \"Terminology of working ship\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"4.2.1\", \"cnName\": \"救生钟\", \"enName\": \"rescue bell\", \"publishTime\": \"2002-09-11\", \"publishYear\": \"2002\", \"implementTime\": \"2003-02-01\", \"ics\": \"47.020\", \"ccs\": \"U04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 107756, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"救生钟\", \"cnNameSearch\": \"救生钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rescue bell\", \"wordSearch\": \"rescue bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"下部有潜艇救生口的接口装置，在潜艇失事时用以营救艇员的钟形耐压容器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"375e84cc2ced4af79cec2bae929b909c\", \"databaseId\": null, \"standardId\": \"6b9ca32e682148f2bf37a7632d7e5ed5\", \"standardCode\": \"GB/T 8843—2002\", \"standardName\": \"工程船术语\", \"standardEnName\": \"Terminology of working ship\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"4.2.22\", \"cnName\": \"潜水钟\", \"enName\": \"diving bell\", \"publishTime\": \"2002-09-11\", \"publishYear\": \"2002\", \"implementTime\": \"2003-02-01\", \"ics\": \"47.020\", \"ccs\": \"U04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 107761, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"潜水钟\", \"cnNameSearch\": \"潜水钟\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"diving bell\", \"wordSearch\": \"diving bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于载人水下观察的常压舱或用于潜水站与潜水现场之间往返输送潜水员的压力舱。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e8f544b17c024d26a42e52ac47ae239b\", \"databaseId\": null, \"standardId\": \"9234d9ec69d84f57b747bf6341d64964\", \"standardCode\": \"GB 50195—2013\", \"standardName\": \"发生炉煤气站设计规范\", \"standardEnName\": \"Design code for producer gas station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"钟罩阀\", \"enName\": \"bell type valve\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154732, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钟罩阀\", \"cnNameSearch\": \"钟罩阀\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell type valve\", \"wordSearch\": \"bell type valve\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"煤气发生炉出口放散煤气或烟气的装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"424359d9488b431385645a3aebc0e223\", \"databaseId\": null, \"standardId\": \"35d83ef7bada4b05a8782ece7e4e1e62\", \"standardCode\": \"GB/T 40582—2021\", \"standardName\": \"水电站基本术语 \", \"standardEnName\": \"Basic terminology of hydropower station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"6.4.1.28\", \"cnName\": \"钟罩式油箱\", \"enName\": \"bell type tank\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 27.140\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 58212, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钟罩式油箱\", \"cnNameSearch\": \"钟罩式油箱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell type tank\", \"wordSearch\": \"bell type tank\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个油箱分成两节，它们的连接处位于油箱较低位置，上节为钟罩形，器身固定在下节油箱上。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6bc95d3083ab412d991aaeb61405be4a\", \"databaseId\": null, \"standardId\": \"782a48d229524237aff3cc6aa665da86\", \"standardCode\": \"GB/T 3163—2007\", \"standardName\": \"真空技术 术语\", \"standardEnName\": \"Vacuum technology - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"5.3.3\", \"cnName\": \"真空钟罩\", \"enName\": \"vacuum bell jar\", \"publishTime\": \"2007-12-20\", \"publishYear\": \"2007\", \"implementTime\": \"2008-06-01\", \"ics\": \"23.160\", \"ccs\": \"J78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 124677, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"真空钟罩\", \"cnNameSearch\": \"真空钟罩\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"vacuum bell jar\", \"wordSearch\": \"vacuum bell jar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"借助于一个可拆卸的连接部件，将其放置到另一个组件（一般来说是一块底板）上并同这个组件共同组成一个真空室的钟罩形组件。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b06ee638300a4b779c7f471861e8378b\", \"databaseId\": null, \"standardId\": \"2157ba640e6b40f7afbd5191a0e928de\", \"standardCode\": \"GB/T 7920.4—2016\", \"standardName\": \"混凝土机械术语\", \"standardEnName\": \"Concrete machinery terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.4.2.3.4\", \"cnName\": \"上（下）罐锥形阀\", \"enName\": \"upper (lower）bell valve\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-07-01\", \"ics\": \"01.040.91;91.22001\", \"ccs\": \"P97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 31642, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"上（下）罐锥形阀\", \"cnNameSearch\": \"上（下）罐锥形阀\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"upper (lower）bell valve\", \"wordSearch\": \"upper (lower）bell valve\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"启闭上（下）罐装料口的阀门。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4a90ac5c5b1645c48ce9d4e871e610d0\", \"databaseId\": null, \"standardId\": \"74d1aff349d04d6196df67bdda6cfec8\", \"standardCode\": \"GB/T 32818—2016\", \"standardName\": \"冶炼设备  术语\", \"standardEnName\": \"Metallurgical equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.2.2.4\", \"cnName\": \"无料钟炉顶装料设备\", \"enName\": \"no bell top\", \"publishTime\": \"2016-08-29\", \"publishYear\": \"2016\", \"implementTime\": \"2017-03-01\", \"ics\": \"77.180\", \"ccs\": \"H92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118803, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无料钟炉顶装料设备\", \"cnNameSearch\": \"无料钟炉顶装料设备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"no bell top\", \"wordSearch\": \"no bell top\"}, {\"languageType\": 1, \"word\": \"NBT\", \"wordSearch\": \"NBT\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"采用上、下密封阀取代大、小料钟进行炉顶密封，用料罐储存炉料，利用料流调节阀控制排料速度和排料时间，通过既可旋转同时又能倾动的布料溜槽按多种布料制度向高炉炉喉布料的现代炉顶装料设备。一般由受料斗、料罐、上、下密封阀、上料闸阀、下料闸阀、波纹补偿器、布料溜槽及其传动以及均压、冷却系统等构成。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e00e4c7759b410f806f496a6b43e1a3\", \"databaseId\": null, \"standardId\": \"fcae61460f3e4668bad2508d7d6ffd54\", \"standardCode\": \"GB/T 32522—2016\", \"standardName\": \"声学 压电球面聚焦超声换能器的 电声特性及其测量 \", \"standardEnName\": \"Acoustics-Electroacoustic characteristics and measurements ofpiezoelectric spherically focusing ultrasonic transducers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.7\", \"cnName\": \"电声互易原理\", \"enName\": \"electroacoustical reciprocity principle\", \"publishTime\": \"2016-02-24\", \"publishYear\": \"2016\", \"implementTime\": \"2016-09-01\", \"ics\": \"ICS 17.140\", \"ccs\": \"A 59\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"电声互易原理\", \"cnNameSearch\": \"电声互易原理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"electroacoustical reciprocity principle\", \"wordSearch\": \"electroacoustical reciprocity principle\"}, {\"languageType\": 1, \"word\": \"electroacoustical reciprocity theorem\", \"wordSearch\": \"electroacoustical reciprocity theorem\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"射器时相应的发送电流（或电压）响应之比等于常数，与换能器的结构无关的原理。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 3947—1996\", \"sourceCode\": \"5.67\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0861657ac313476b85b9c5009e103ce2\", \"databaseId\": null, \"standardId\": \"0773a19eeb434cb0a91c236f296d2684\", \"standardCode\": \"GB/T 15345—2017\", \"standardName\": \"混凝土输水管试验方法 \", \"standardEnName\": \"Test methods of concrete pipes for water transmisson\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.14\", \"cnName\": \"承口露砂\", \"enName\": \"sand explosed at the bell\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2018-04-01\", \"ics\": \"ICS 91.100.30\", \"ccs\": \"Q 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 6378, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承口露砂\", \"cnNameSearch\": \"承口露砂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sand explosed at the bell\", \"wordSearch\": \"sand explosed at the bell\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用离心成型工艺制作的管子承口因缺少水泥浆使砂子外露。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc4e7bd467d24787b2ce7cb072d347f9\", \"databaseId\": null, \"standardId\": \"74d1aff349d04d6196df67bdda6cfec8\", \"standardCode\": \"GB/T 32818—2016\", \"standardName\": \"冶炼设备  术语\", \"standardEnName\": \"Metallurgical equipment—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"4.2.2.1\", \"cnName\": \"钟式炉顶装料设备\", \"enName\": \"bell type top charging equipment\", \"publishTime\": \"2016-08-29\", \"publishYear\": \"2016\", \"implementTime\": \"2017-03-01\", \"ics\": \"77.180\", \"ccs\": \"H92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 118743, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"钟式炉顶装料设备\", \"cnNameSearch\": \"钟式炉顶装料设备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell type top charging equipment\", \"wordSearch\": \"bell type top charging equipment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"利用大小料钟的交错启闭完成炉顶密封和装布料操作的机械装置。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6537fff63824447b8a578462922bb248\", \"databaseId\": null, \"standardId\": \"295300dc4cdb496a8e09aa9ab7c2bf1e\", \"standardCode\": \"GB/T 31438—2015\", \"standardName\": \"混凝土灌注桩用钢薄壁声测管\", \"standardEnName\": \"Steel thin-walled sonic-testing tubes for concrete bored piles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"土木工程\", \"termCode\": \"3.6\", \"cnName\": \"承插口端\", \"enName\": \"bell and spigot joint end\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-08-01\", \"ics\": \"93.040\", \"ccs\": \"P28\", \"parentTermId\": null, \"titleId\": null, \"oid\": 39375, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承插口端\", \"cnNameSearch\": \"承插口端\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"bell and spigot joint end\", \"wordSearch\": \"bell and spigot joint end\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"管节焊有接头的一端。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1793140630076}"
+}

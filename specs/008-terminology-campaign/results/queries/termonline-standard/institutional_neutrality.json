@@ -1,0 +1,33 @@
+{
+ "key": "institutional neutrality",
+ "term": "institutional neutrality",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:42:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "有组织控制（监护）",
+   "en": "institutional control",
+   "code": "GB 9132—2018",
+   "standard": "低、中水平放射性固体废物近地表处置安全规定",
+   "subject": "其它"
+  },
+  {
+   "cn": "有组织的控制",
+   "en": "institutional control",
+   "code": "GB/T 4960.8—2008",
+   "standard": "核科学技术术语  第8部分：放射性废物管理",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "实验动物管理与使用委员会",
+   "en": "Institutional Animal Care and Use Committee",
+   "code": "GB/T 39759—2021",
+   "standard": "实验动物 术语",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2008\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"能源和热传导工程\": 1, \"农业\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"9301e141bb3b45f3b478c1b895740490\", \"databaseId\": null, \"standardId\": \"006d32ffc4a6499f9c6384f0ef2819ab\", \"standardCode\": \"GB 9132—2018\", \"standardName\": \"低、中水平放射性固体废物近地表处置安全规定\", \"standardEnName\": \"Safety requirements for near surface disposal of low and medium level radioactive solid waste\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3\", \"cnName\": \"有组织控制（监护）\", \"enName\": \"institutional control\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 375, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"有组织控制（监护）\", \"cnNameSearch\": \"有组织控制（监护）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"institutional control\", \"wordSearch\": \"institutional control\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由政府部门或其指定的单位对废物处置场址进行的控制。这种控制包括主动的（监测、监督和设施维护）或被动的（限制土地使用）控制。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5dc3a0aba71e46bda3bf302ab3430f65\", \"databaseId\": null, \"standardId\": \"719bc4613e204aaaacc9f0c11bd3a96e\", \"standardCode\": \"GB/T 4960.8—2008\", \"standardName\": \"核科学技术术语  第8部分：放射性废物管理\", \"standardEnName\": \"Glossary of term: nuclear science and technology — Part 8：Radioactive waste management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"11.20\", \"cnName\": \"有组织的控制\", \"enName\": \"institutional control\", \"publishTime\": \"2008-03-24\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114356, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"有组织的控制\", \"cnNameSearch\": \"有组织的控制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"institutional control\", \"wordSearch\": \"institutional control\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据国家法律规定，由审管部门或其指定的单位对废物场址（如处置场址、退役场址）进行的控制。这种控制可以是主动的（监测、监督和补救工作）或被动的（限制土地使用）控制。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"830d40c935e24d4f901df6fa03cba4a3\", \"databaseId\": null, \"standardId\": \"8a49c5165dcb44be9ab1f112763d13d1\", \"standardCode\": \"GB/T 39759—2021\", \"standardName\": \"实验动物 术语\", \"standardEnName\": \"Laboratory animal—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"9.1\", \"cnName\": \"实验动物管理与使用委员会\", \"enName\": \"Institutional Animal Care and Use Committee\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"ICS 65.020.30\", \"ccs\": \"B 44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 145314, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"实验动物管理与使用委员会\", \"cnNameSearch\": \"实验动物管理与使用委员会\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Institutional Animal Care and Use Committee\", \"wordSearch\": \"Institutional Animal Care and Use Committee\"}, {\"languageType\": 1, \"word\": \"IACUC\", \"wordSearch\": \"IACUC\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"审查和监管实验动物的使用及福利伦理工作的组织。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 35823—2018\", \"sourceCode\": \"3.8\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140959897}"
+}

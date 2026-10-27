@@ -1,0 +1,152 @@
+{
+ "key": "原文形态",
+ "term": "原文形态",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:51:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=46",
+ "hits": [
+  {
+   "cn": "原文",
+   "en": "source language text",
+   "code": "GB/T 40035—2021",
+   "standard": "双语平行语料加工服务基本要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "原文",
+   "en": "original data",
+   "code": "GB/T 38540—2020",
+   "standard": "信息安全技术 安全电子签章密码技术规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "原文",
+   "en": "source text",
+   "code": "GB/T 19682—2005",
+   "standard": "翻译服务译文质量要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "形态",
+   "en": "configuration",
+   "code": "GB/T 10357.5—2023",
+   "standard": "家具力学性能试验第5部分:柜类强度和耐久性",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "形态硫",
+   "en": "differentsulfurforms",
+   "code": "GB/T 37321—2019",
+   "standard": "石膏及石膏制品中形态硫化学分析方法",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "秆芽形态",
+   "en": "culmbudform",
+   "code": "GB/T 32770—2016",
+   "standard": "竹子名词术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "形态",
+   "en": "species",
+   "code": "GB/T 4960.8—2008",
+   "standard": "核科学技术术语  第8部分：放射性废物管理",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "形态",
+   "en": "appearance",
+   "code": "GB/T 22493—2008",
+   "standard": "大豆蛋白粉",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "洞道形态",
+   "en": "passage form",
+   "code": "GB/T 43217—2023",
+   "standard": "岩溶洞穴学基本术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "草原文化",
+   "en": "grassland culture",
+   "code": "GB/T 40451—2021",
+   "standard": "草原与牧草术语 ",
+   "subject": "农业"
+  },
+  {
+   "cn": "纤维形态",
+   "en": "fiber morphology",
+   "code": "GB/T 50886—2013",
+   "standard": "林产工业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "河床形态",
+   "en": "channel morphology",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "淤积形态",
+   "en": "reservoir deposition morphology",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "淤积形态",
+   "en": "deposition shape",
+   "code": "GB/T 51280—2018",
+   "standard": "工程泥沙设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "标识形态",
+   "en": "form of signage",
+   "code": "GB/T 51223—2017",
+   "standard": "公共建筑标识系统技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "化学形态",
+   "en": "chemical species",
+   "code": "GB/T 43968—2024",
+   "standard": "高效液相色谱-原子荧光光谱仪联用分析方法通则",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "形态分析",
+   "en": "speciation analysis",
+   "code": "GB/T 43968—2024",
+   "standard": "高效液相色谱-原子荧光光谱仪联用分析方法通则",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "材料形态",
+   "en": "material form",
+   "code": "GB/T 4960.7—2023",
+   "standard": "核科学技术术语第7部分：核材料管制与核保障",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "元素形态",
+   "en": "speciation of elements",
+   "code": "GB/T 43363—2023",
+   "standard": "废弃化学品中铜、锌、镉、铅、铬等12种元素形态分布的测定  连续提取法",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "形态精度",
+   "en": "surface accuracy",
+   "code": "GB/T 39111—2020",
+   "standard": "牙颌模型三维扫描仪技术要求",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 7, \"2022\": 1, \"2021\": 3, \"2020\": 3, \"2019\": 4, \"2018\": 1, \"2017\": 2, \"2016\": 1, \"2015\": 2, \"2013\": 1, \"2011\": 2, \"2010\": 1, \"2009\": 1, \"2008\": 4, \"2007\": 1, \"2005\": 1, \"1998\": 1, \"暂无年份\": 7}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 1, \"造船和海上构筑物\": 1, \"计量学和测量、物理现象\": 2, \"能源和热传导工程\": 3, \"综合、术语学、标准化、文献\": 4, \"纺织和皮革技术\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 2, \"石油及相关技术\": 3, \"环保、保健和安全\": 1, \"机械制造\": 1, \"数学、自然科学\": 6, \"建筑材料和建筑物\": 2, \"家用和商用设备、文娱、体育\": 1, \"医药卫生技术\": 1, \"化工技术\": 2, \"冶金\": 2, \"农业\": 2, \"其它\": 8, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 46}, \"totalRecords\": 46, \"tmWordList\": [{\"id\": \"52ae4bc3b59647b89e380e01a2358f74\", \"databaseId\": null, \"standardId\": \"88494f9a64dc4149b825d19d6ab13f62\", \"standardCode\": \"GB/T 40035—2021\", \"standardName\": \"双语平行语料加工服务基本要求\", \"standardEnName\": \"Basic requirements for bilingual parallel corpus processing service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.4\", \"cnName\": \"原文\", \"enName\": \"source language text\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"03.080.99\", \"ccs\": \"A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143765, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"原文\", \"cnNameSearch\": \"原文\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"source language text\", \"wordSearch\": \"source language text\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"源语言<strong>文本</strong>。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 19363.1—2008\", \"sourceCode\": \"3.4\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a422442b00a4a1b8c115a5008653ce7\", \"databaseId\": null, \"standardId\": \"c3254e5c86ec40599fb784e3d0c604b0\", \"standardCode\": \"GB/T 38540—2020\", \"standardName\": \"信息安全技术 安全电子签章密码技术规范\", \"standardEnName\": \"Information security technology-Technical specification secure electronic seal signature cryptography\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3\", \"cnName\": \"原文\", \"enName\": \"original data\", \"publishTime\": \"2020-03-06\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.04035\", \"ccs\": \"L80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196085, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"原文\", \"cnNameSearch\": \"原文\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"original data\", \"wordSearch\": \"original data\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"需要进行电子签章或数字签名处理的电子文件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7678e6173f314df5b0813f5b5b7e4000\", \"databaseId\": null, \"standardId\": \"c09a1cf3b247443c8f3bb95121d35ac7\", \"standardCode\": \"GB/T 19682—2005\", \"standardName\": \"翻译服务译文质量要求\", \"standardEnName\": \"Target text quality requirements for translation services\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.7\", \"cnName\": \"原文\", \"enName\": \"source text\", \"publishTime\": \"2005-03-24\", \"publishYear\": \"2005\", \"implementTime\": \"2005-09-01\", \"ics\": \"03.080.01\", \"ccs\": \"A14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193914, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"原文\", \"cnNameSearch\": \"原文\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"source text\", \"wordSearch\": \"source text\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"源语言文本。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"982931eb74344879ac8c0afc2f1d4e77\", \"databaseId\": null, \"standardId\": \"3ad1c360cfe74067b3d4ccea7166812b\", \"standardCode\": \"GB/T 10357.5—2023\", \"standardName\": \"家具力学性能试验第5部分:柜类强度和耐久性\", \"standardEnName\": \"Test of mechanical properties of furniture Part 5 :Strength and durability of storage units\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.7\", \"cnName\": \"形态\", \"enName\": \"configuration\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"97.14097\", \"ccs\": \"Y80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63444, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态\", \"cnNameSearch\": \"形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"configuration\", \"wordSearch\": \"configuration\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"部件以特定的形状、形式进行的排列组合。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"507b33d28bda4964befd47295f228218\", \"databaseId\": null, \"standardId\": \"d6d5ae99231e40518f05c3a0bb194db0\", \"standardCode\": \"GB/T 37321—2019\", \"standardName\": \"石膏及石膏制品中形态硫化学分析方法\", \"standardEnName\": \"Chemical analysis methods of different sulfur forms in gypsum and gypsum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.1\", \"cnName\": \"形态硫\", \"enName\": \"differentsulfurforms\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2020-02-01\", \"ics\": \"91.100.10\", \"ccs\": \"Q27\", \"parentTermId\": null, \"titleId\": null, \"oid\": 212012, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态硫\", \"cnNameSearch\": \"形态硫\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"differentsulfurforms\", \"wordSearch\": \"differentsulfurforms\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"石膏及石膏制品中以亚硫酸盐、硫化物、单质硫和硫酸盐等形式存在的硫。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5c8aa218ab3f4ff598e3e15d626955d0\", \"databaseId\": null, \"standardId\": \"3c3cd3622c3a4274aeb52b5adc18a24c\", \"standardCode\": \"GB/T 32770—2016\", \"standardName\": \"竹子名词术语\", \"standardEnName\": \"Bamboo terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.6\", \"cnName\": \"秆芽形态\", \"enName\": \"culmbudform\", \"publishTime\": \"2016-06-14\", \"publishYear\": \"2016\", \"implementTime\": \"2017-01-01\", \"ics\": \"01.040.65\", \"ccs\": \"B60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65526, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"秆芽形态\", \"cnNameSearch\": \"秆芽形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"culmbudform\", \"wordSearch\": \"culmbudform\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"秆芽的形状。因竹种而异，秆芽有扁桃形、扁圆形、锥形、锥柱形、山形、长卵形、半圆形等形态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d73aaa4396f4e51a0b8e3f8b44228b4\", \"databaseId\": null, \"standardId\": \"719bc4613e204aaaacc9f0c11bd3a96e\", \"standardCode\": \"GB/T 4960.8—2008\", \"standardName\": \"核科学技术术语  第8部分：放射性废物管理\", \"standardEnName\": \"Glossary of term: nuclear science and technology — Part 8：Radioactive waste management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"2.12\", \"cnName\": \"形态\", \"enName\": \"species\", \"publishTime\": \"2008-03-24\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114242, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态\", \"cnNameSearch\": \"形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"species\", \"wordSearch\": \"species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": \"化学\", \"definition\": \"特定条件(pH、Eh、配位体、离子强度等)下,元素(包括放射性核素)的化学形式、价态和性质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7410e313748b4e9f8e26ecc579abb22c\", \"databaseId\": null, \"standardId\": \"7f38780bc94a4e52a47b398b7cccad76\", \"standardCode\": \"GB/T 22493—2008\", \"standardName\": \"大豆蛋白粉\", \"standardEnName\": \"Soybean protein flour\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.4\", \"cnName\": \"形态\", \"enName\": \"appearance\", \"publishTime\": \"2008-11-04\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-01\", \"ics\": \"67.060\", \"ccs\": \"X 11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134861, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态\", \"cnNameSearch\": \"形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"appearance\", \"wordSearch\": \"appearance\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一批大豆蛋白粉的外观形体状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"74ff4e9b49674d3795e79dab3b65d904\", \"databaseId\": null, \"standardId\": \"965e4e91118c47288516bb1564d8c486\", \"standardCode\": \"GB/T 43217—2023\", \"standardName\": \"岩溶洞穴学基本术语\", \"standardEnName\": \"Essential terminology of karst speleology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"6.2\", \"cnName\": \"洞道形态\", \"enName\": \"passage form\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-01-01\", \"ics\": \"07.060\", \"ccs\": \"A 44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 158257, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"洞道形态\", \"cnNameSearch\": \"洞道形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"passage form\", \"wordSearch\": \"passage form\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"洞穴大形态\", \"cnNameSearch\": \"洞穴大形态\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"洞穴的空间展布和洞道的平面、剖面、断面形态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fa7d19aa86784243bb55d3d2531dd346\", \"databaseId\": null, \"standardId\": \"116bd80bde064ff1b663975c097a8d06\", \"standardCode\": \"GB/T 40451—2021\", \"standardName\": \"草原与牧草术语 \", \"standardEnName\": \"Terms for grassland and forage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.10\", \"cnName\": \"草原文化\", \"enName\": \"grassland culture\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"ICS 65.020.01\", \"ccs\": \"B 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15976, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"草原文化\", \"cnNameSearch\": \"草原文化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"grassland culture\", \"wordSearch\": \"grassland culture\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人类在草原上长期生产、生活而积累形成的一种文化。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>包括生产生活方式、价值观念伦理道德、文学艺术及宗教信仰。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"822dea13666947048737a1cdff0bfd50\", \"databaseId\": null, \"standardId\": \"0f222aac3a8a4eb2948302df567983bd\", \"standardCode\": \"GB/T 50886—2013\", \"standardName\": \"林产工业工程术语标准\", \"standardEnName\": \"Glossary Standard of Forest Products Industry Engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.26\", \"cnName\": \"纤维形态\", \"enName\": \"fiber morphology\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 13034, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"纤维形态\", \"cnNameSearch\": \"纤维形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fiber morphology\", \"wordSearch\": \"fiber morphology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"纤维细胞的长度、宽度、长宽比、壁厚、壁腔比等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"57f10dc66bf949a5afcde18b509717a9\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.14\", \"cnName\": \"河床形态\", \"enName\": \"channel morphology\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40736, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"河床形态\", \"cnNameSearch\": \"河床形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"channel morphology\", \"wordSearch\": \"channel morphology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"河床表面的形状。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"adaa8004042f48f7a41e75583924257d\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.14.10.2\", \"cnName\": \"淤积形态\", \"enName\": \"reservoir deposition morphology\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41224, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"淤积形态\", \"cnNameSearch\": \"淤积形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"reservoir deposition morphology\", \"wordSearch\": \"reservoir deposition morphology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"水库淤积分布在库内纵向和横向的形状。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6360149469224c36abc86692eae4941e\", \"databaseId\": null, \"standardId\": \"938a01c766ab494791b7454e27ff0287\", \"standardCode\": \"GB/T 51280—2018\", \"standardName\": \"工程泥沙设计标准\", \"standardEnName\": \"Standard for sediment design of engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"淤积形态\", \"enName\": \"deposition shape\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155587, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"淤积形态\", \"cnNameSearch\": \"淤积形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"deposition shape\", \"wordSearch\": \"deposition shape\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"泥沙淤积体的几何形态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5755191c33c347abbacc748e30bea815\", \"databaseId\": null, \"standardId\": \"ce129a28144e43348293c77e9ed5d431\", \"standardCode\": \"GB/T 51223—2017\", \"standardName\": \"公共建筑标识系统技术规范\", \"standardEnName\": \"Technical code for signage system of public building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.19\", \"cnName\": \"标识形态\", \"enName\": \"form of signage\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206772, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标识形态\", \"cnNameSearch\": \"标识形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"form of signage\", \"wordSearch\": \"form of signage\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"标识本体的外在视觉感观形象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"68c9947004224dccb4d1ab69d94d20ca\", \"databaseId\": null, \"standardId\": \"a5b3b44621ff4226b9d0b1e91222e579\", \"standardCode\": \"GB/T 43968—2024\", \"standardName\": \"高效液相色谱-原子荧光光谱仪联用分析方法通则\", \"standardEnName\": \"General rules for high performance liquid chromatography-atomic fluorescence spectrometry analysis method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1\", \"cnName\": \"化学形态\", \"enName\": \"chemical species\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"71.040\", \"ccs\": \"N53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169786, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"化学形态\", \"cnNameSearch\": \"化学形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chemical species\", \"wordSearch\": \"chemical species\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种化学元素的特定形式，定义为同位素组成、电子或氧化状态和(或)络合物或分子结构。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12b841f05916415a88fe7c710469d617\", \"databaseId\": null, \"standardId\": \"a5b3b44621ff4226b9d0b1e91222e579\", \"standardCode\": \"GB/T 43968—2024\", \"standardName\": \"高效液相色谱-原子荧光光谱仪联用分析方法通则\", \"standardEnName\": \"General rules for high performance liquid chromatography-atomic fluorescence spectrometry analysis method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.2\", \"cnName\": \"形态分析\", \"enName\": \"speciation analysis\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"71.040\", \"ccs\": \"N53\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169787, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态分析\", \"cnNameSearch\": \"形态分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"speciation analysis\", \"wordSearch\": \"speciation analysis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"识别和(或)定量测量样品中特定元素的一种或多种化学形态的分析工作。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0fbcbba6955b4bf6b468dc1aae69847f\", \"databaseId\": null, \"standardId\": \"581630e99889440c92f8d08d18436c43\", \"standardCode\": \"GB/T 4960.7—2023\", \"standardName\": \"核科学技术术语第7部分：核材料管制与核保障\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 7:Nuclear materials regulatory control and safeguards\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.12\", \"cnName\": \"材料形态\", \"enName\": \"material form\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"27.120.01\", \"ccs\": \"F  04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90394, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"材料形态\", \"cnNameSearch\": \"材料形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"material form\", \"wordSearch\": \"material form\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据核材料的物理形态进行的分类。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>材料形态包括件料和散料两种形态。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"62b7ec9585ab4f7dba81893c8b080294\", \"databaseId\": null, \"standardId\": \"d657512557f74f53bb0175f204fb65bb\", \"standardCode\": \"GB/T 43363—2023\", \"standardName\": \"废弃化学品中铜、锌、镉、铅、铬等12种元素形态分布的测定  连续提取法\", \"standardEnName\": \"Determination for speciation of 12 elements such as copper, zinc, cadmium, lead and chromium in waste chemicals—Sequential extraction procedure\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1\", \"cnName\": \"元素形态\", \"enName\": \"speciation of elements\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-06-01\", \"ics\": \"13.030.01\", \"ccs\": \"Z 05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211714, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"元素形态\", \"cnNameSearch\": \"元素形态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"speciation of elements\", \"wordSearch\": \"speciation of elements\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基体中元素以某种离子或分子存在的实际形式。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>依据连续提取程序，将元素形态划分为可交换态、碳酸盐结合态、可还原态、可氧化态、残渣态以及水溶态等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dbbdfd6dc3cb4113b289f2c861a6dd4e\", \"databaseId\": null, \"standardId\": \"057e79b41e4b409d8a67c152024491fb\", \"standardCode\": \"GB/T 39111—2020\", \"standardName\": \"牙颌模型三维扫描仪技术要求\", \"standardEnName\": \"Technical requirements for dental model 3D scanner\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.10\", \"cnName\": \"形态精度\", \"enName\": \"surface accuracy\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-10-01\", \"ics\": \"11.060.1011\", \"ccs\": \"C33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4059, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形态精度\", \"cnNameSearch\": \"形态精度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"surface accuracy\", \"wordSearch\": \"surface accuracy\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"测试结果数据与被测试对象全表面三维形态的一致程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 3}}, \"timestamp\": 1793141479649}"
+}

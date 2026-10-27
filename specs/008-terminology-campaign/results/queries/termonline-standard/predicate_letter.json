@@ -1,0 +1,152 @@
+{
+ "key": "predicate letter",
+ "term": "predicate letter",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:47:33+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=30",
+ "hits": [
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "code": "GB/T 40764—2021",
+   "standard": "地理信息 过滤编码",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "code": "GB/T 38634.4—2020",
+   "standard": "系统与软件工程 软件测试第4部分:测试技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "谓词",
+   "en": "predicate",
+   "code": "GB/T 5271.17—2010",
+   "standard": "信息技术 词汇 第17部分：数据库",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "书信",
+   "en": "letter",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "字母",
+   "en": "letter",
+   "code": "GB/T 5271.4—2000",
+   "standard": "信息技术  词汇  第4部分:数据的组织",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "谓词表达式",
+   "en": "predicate expression",
+   "code": "GB/T 40764—2021",
+   "standard": "地理信息 过滤编码",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "连接谓词",
+   "en": "join predicate",
+   "code": "GB/T 40764—2021",
+   "standard": "地理信息 过滤编码",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "连接谓词",
+   "en": "join predicate",
+   "code": "GB/T 30169—2013",
+   "standard": "地理信息  基于网络的要素服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "字母符号",
+   "en": "letter symbol",
+   "code": "GB/T 20001.1—2024",
+   "standard": "标准起草规则 第1部分：术语 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "基本字母",
+   "en": "basic letter",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "扩充字母",
+   "en": "extended letter",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "文字符号",
+   "en": "letter symbol",
+   "code": "GB/T 30096—2013",
+   "standard": "实验室仪器和设备常用文字符号",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "捐赠函",
+   "en": "donation letter",
+   "code": "GB/T 26375—2010",
+   "standard": "社会捐助款物管理和使用规范",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "信函质量",
+   "en": "letter quality",
+   "code": "GB/T 9314—2011",
+   "standard": "串行击打式点阵打印机通用规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "文字符号",
+   "en": "letter symbol",
+   "code": "GB/T 26802.4—2011",
+   "standard": "工业控制计算机系统  通用规范　第4部分：文字符号",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "标记裂纹",
+   "en": "letter checks",
+   "code": "GB/T 9987—2011",
+   "standard": "玻璃瓶罐制造术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "形式信件",
+   "en": "form letter",
+   "code": "GB/T 5271.23—2000",
+   "standard": "信息技术  词汇  第23部分:文本处理",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "谓词数据使用",
+   "en": "predicate data use",
+   "code": "GB/T 38634.4—2020",
+   "standard": "系统与软件工程 软件测试第4部分:测试技术",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "致估价委托人函",
+   "en": "letter of transmittal",
+   "code": "GB/T 50899—2013",
+   "standard": "房地产估价基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2021\": 9, \"2020\": 3, \"2016\": 1, \"2013\": 2, \"2012\": 1, \"2011\": 4, \"2010\": 1, \"2009\": 1, \"2002\": 1, \"2001\": 1, \"2000\": 4, \"暂无年份\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 10, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 5, \"电子学\": 1, \"机械制造\": 1, \"其它\": 1, \"信息技术、办公机械\": 12}, \"typeStats\": {\"7\": 30}, \"totalRecords\": 30, \"tmWordList\": [{\"id\": \"4d4b207596c146f281d3fb880b969eea\", \"databaseId\": null, \"standardId\": \"e830a440a9a749fdb213365799f8cf50\", \"standardCode\": \"GB/T 40764—2021\", \"standardName\": \"地理信息 过滤编码\", \"standardEnName\": \"Geographic information—Filter encoding\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.19\", \"cnName\": \"谓词\", \"enName\": \"predicate\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"35.240.70\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228759, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谓词\", \"cnNameSearch\": \"谓词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predicate\", \"wordSearch\": \"predicate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"应用于数据实例的计算操作集，判断结果为真或假。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c23d8e7619e845e18c4e8a98705711b5\", \"databaseId\": null, \"standardId\": \"3a62ae4962e0409f8f53fc3f273bc485\", \"standardCode\": \"GB/T 38634.4—2020\", \"standardName\": \"系统与软件工程 软件测试第4部分:测试技术\", \"standardEnName\": \"Systems and software engineering—Software testing—Part 4: Test techniques\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.24\", \"cnName\": \"谓词\", \"enName\": \"predicate\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.08035\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63093, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谓词\", \"cnNameSearch\": \"谓词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predicate\", \"wordSearch\": \"predicate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"计算结果为“真\\\"或“假\\\"的逻辑表达式，通常用于引导代码中的执行路径。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cf74b17f3ae54291973c25106bde7583\", \"databaseId\": null, \"standardId\": \"dca4f6bb43ae4d65877e88ba063ead8b\", \"standardCode\": \"GB/T 5271.17—2010\", \"standardName\": \"信息技术 词汇 第17部分：数据库\", \"standardEnName\": \"Information technology—Vocabulary—Part: 17: Databases\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"17.07.13\", \"cnName\": \"谓词\", \"enName\": \"predicate\", \"publishTime\": \"2010-12-01\", \"publishYear\": \"2010\", \"implementTime\": \"2011-04-01\", \"ics\": \"01.040.35；35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216524, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谓词\", \"cnNameSearch\": \"谓词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predicate\", \"wordSearch\": \"predicate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一概念模式语言中，一种类似于一个动词，对一个句子中引用的实体加以限定的语言学构造\\n[成分]。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e901cc1d020b4fdb8cc8a34d272af471\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.115\", \"cnName\": \"字母\", \"enName\": \"letter\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117245, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"字母\", \"cnNameSearch\": \"字母\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter\", \"wordSearch\": \"letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个基本字母或一个扩充字母。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e91a98ec847344d79f21c43b4c04af23\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.2.2.1.14\", \"cnName\": \"书信\", \"enName\": \"letter\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220545, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"书信\", \"cnNameSearch\": \"书信\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter\", \"wordSearch\": \"letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"给指定个人或机构的文献。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b791aa03cd749708ded5ef133105ea3\", \"databaseId\": null, \"standardId\": \"d14d1c3ef7884c15bad032d52232772a\", \"standardCode\": \"GB/T 5271.4—2000\", \"standardName\": \"信息技术  词汇  第4部分:数据的组织\", \"standardEnName\": \"Information technology——Vocabulary——Part 4:Organization of data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"04.03.02\", \"cnName\": \"字母\", \"enName\": \"letter\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 208985, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"字母\", \"cnNameSearch\": \"字母\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter\", \"wordSearch\": \"letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种图形字符，当它单独出现或与其他字符组合出现时，主要用来表示一种口语的声音元素。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>单独使用的变音符以及标点符号都不是字母。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9ff545a53cbc4519b2d8e1edf746feae\", \"databaseId\": null, \"standardId\": \"e830a440a9a749fdb213365799f8cf50\", \"standardCode\": \"GB/T 40764—2021\", \"standardName\": \"地理信息 过滤编码\", \"standardEnName\": \"Geographic information—Filter encoding\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.20\", \"cnName\": \"谓词表达式\", \"enName\": \"predicate expression\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"35.240.70\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228749, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谓词表达式\", \"cnNameSearch\": \"谓词表达式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predicate expression\", \"wordSearch\": \"predicate expression\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"描述谓词的正式语法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ccff9aa4ead4563833398a6ef5de702\", \"databaseId\": null, \"standardId\": \"e830a440a9a749fdb213365799f8cf50\", \"standardCode\": \"GB/T 40764—2021\", \"standardName\": \"地理信息 过滤编码\", \"standardEnName\": \"Geographic information—Filter encoding\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.16\", \"cnName\": \"连接谓词\", \"enName\": \"join predicate\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"35.240.70\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228760, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连接谓词\", \"cnNameSearch\": \"连接谓词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"join predicate\", \"wordSearch\": \"join predicate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由一个或多个用来约束两个不同实体类型特性的子句构成的过滤表达式。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>在本标准中，实体类型是指资源类型。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ee1ae1a923914d3ea2c3e242a5d965d8\", \"databaseId\": null, \"standardId\": \"e1badbb7113c4879a2fde7b928571a34\", \"standardCode\": \"GB/T 30169—2013\", \"standardName\": \"地理信息  基于网络的要素服务\", \"standardEnName\": \"Geographic information―Web feature service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.11\", \"cnName\": \"连接谓词\", \"enName\": \"join predicate\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-20\", \"ics\": \"35.240.703\", \"ccs\": \"A75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221087, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"连接谓词\", \"cnNameSearch\": \"连接谓词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"join predicate\", \"wordSearch\": \"join predicate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"包含一个或多个子句的过滤器表达式，这些子句约束来自两个不同要素类型的特性。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>本标准中，实体的类型是指要素（4.7）类型。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"ISO 19143:2010\", \"sourceCode\": \"4.16\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"933f7135c3864b358de626b5f675c6c8\", \"databaseId\": null, \"standardId\": \"fcd9e57c260b40d9b1aeb9029b950dd4\", \"standardCode\": \"GB/T 20001.1—2024\", \"standardName\": \"标准起草规则 第1部分：术语 \", \"standardEnName\": \"Rules for drafting standards——Part 1 : Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.4.1.1.4\", \"cnName\": \"字母符号\", \"enName\": \"letter symbol\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"ICS 01.020;01.120\", \"ccs\": \"CCS A 00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245604, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"字母符号\", \"cnNameSearch\": \"字母符号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter symbol\", \"wordSearch\": \"letter symbol\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"专门用于在领域内专业群体中进行交流的、由一个或几个字母组成的符号。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"在GB/T3101和GB/T3102（所有部分）中规定了用于量和单位的字母符号。\"], \"notes\": [\"某些字母符号如用于表示量和单位的字母符号其有交流功能。复杂字母符号还包括数字、数学符号、印刷符号\\n和句法符号（例如标点符号、连字符、括号、方括号和其他连接符或分隔符），其字符样式（即字体和粗体、斜体、\\n粗斜体或其他样式约定）受特定域、主题或语言约定的约束。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc5e52c064c6439182fb5ad6c88d7c0f\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.16\", \"cnName\": \"基本字母\", \"enName\": \"basic letter\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117148, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基本字母\", \"cnNameSearch\": \"基本字母\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"basic letter\", \"wordSearch\": \"basic letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"COBOL 字符素统中，大写字母从\\\"A\\\"到\\\"Z\\\" 和小写字母从\\\"a\\\"到\\\"z\\\"中的任一字符。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"77112fac3aeb4f44a977812e5a258626\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.80\", \"cnName\": \"扩充字母\", \"enName\": \"extended letter\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117183, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扩充字母\", \"cnNameSearch\": \"扩充字母\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"extended letter\", \"wordSearch\": \"extended letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个并非基本字母的字母，位于为COBOL字符仓库定义的字符集中。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fb2cc6ccc8824964b335ac8e5199f993\", \"databaseId\": null, \"standardId\": \"119ed84cc217473f816fa33747e04af5\", \"standardCode\": \"GB/T 30096—2013\", \"standardName\": \"实验室仪器和设备常用文字符号\", \"standardEnName\": \"Major letter symbols for laboratory instrument and equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2\", \"cnName\": \"文字符号\", \"enName\": \"letter symbol\", \"publishTime\": \"2013-12-17\", \"publishYear\": \"2013\", \"implementTime\": \"2014-05-01\", \"ics\": \"01.080.200\", \"ccs\": \"N61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16110, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"文字符号\", \"cnNameSearch\": \"文字符号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter symbol\", \"wordSearch\": \"letter symbol\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"文字代号\", \"cnNameSearch\": \"文字代号\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用字母、数字、汉字等或它们的组合来表达一定事物或概念的符号。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 20001.2—2001\", \"sourceCode\": \"3.3\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7254548667d74df8a9b3303360043ddb\", \"databaseId\": null, \"standardId\": \"3f0a46d850f24cedbfa62d25e5bae011\", \"standardCode\": \"GB/T 26375—2010\", \"standardName\": \"社会捐助款物管理和使用规范\", \"standardEnName\": \"Rules on management of donation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.3.4\", \"cnName\": \"捐赠函\", \"enName\": \"donation letter\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"01.040.03\", \"ccs\": \"A02\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67581, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"捐赠函\", \"cnNameSearch\": \"捐赠函\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"donation letter\", \"wordSearch\": \"donation letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"捐赠人出具的表示捐赠意愿和承诺的文字凭据。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"41581c6adf134b5485b15e6b6047c80b\", \"databaseId\": null, \"standardId\": \"8d8b8ece0bb5452ba4f08c4a27f0812d\", \"standardCode\": \"GB/T 9314—2011\", \"standardName\": \"串行击打式点阵打印机通用规范\", \"standardEnName\": \"General specification of serial impact dot matrix printer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.12\", \"cnName\": \"信函质量\", \"enName\": \"letter quality\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"35.180\", \"ccs\": \"L 63\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149868, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"信函质量\", \"cnNameSearch\": \"信函质量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter quality\", \"wordSearch\": \"letter quality\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"水平方向以 0.141 mm（1/180 in）点距出针打印的印字质量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b26f512573e2439db8e559ca49921b73\", \"databaseId\": null, \"standardId\": \"b71ba4edcaf8478eb4c14240696f18c8\", \"standardCode\": \"GB/T 26802.4—2011\", \"standardName\": \"工业控制计算机系统  通用规范　第4部分：文字符号\", \"standardEnName\": \"Industrial control computer system - General specification - Part 2: letter symbol\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1\", \"cnName\": \"文字符号\", \"enName\": \"letter symbol\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-01\", \"ics\": \"25.040.40\", \"ccs\": \"N18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 187294, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"文字符号\", \"cnNameSearch\": \"文字符号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter symbol\", \"wordSearch\": \"letter symbol\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用字母、数字、汉字等或它们的组合来表达一定事务或概念的符号。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 20001.2—2001\", \"sourceCode\": \"3.3\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4110f70cee345f78d1b59c097e877b4\", \"databaseId\": null, \"standardId\": \"c533597bb6b5405e8d2ab8e1854db367\", \"standardCode\": \"GB/T 9987—2011\", \"standardName\": \"玻璃瓶罐制造术语\", \"standardEnName\": \"Glass contains—Manufacture—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.7.5.49\", \"cnName\": \"标记裂纹\", \"enName\": \"letter checks\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-09-01\", \"ics\": \"01.040.81；81.040.01\", \"ccs\": \"Y 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 197351, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标记裂纹\", \"cnNameSearch\": \"标记裂纹\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter checks\", \"wordSearch\": \"letter checks\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"标记上出现的小裂纹。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0f557b0d14894703870eb941d56c9777\", \"databaseId\": null, \"standardId\": \"a187433d61ee4fdc85c9143fcb3483c7\", \"standardCode\": \"GB/T 5271.23—2000\", \"standardName\": \"信息技术  词汇  第23部分:文本处理\", \"standardEnName\": \"Information technology——Vocabulary——Part 23:Text processing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"23.04.06\", \"cnName\": \"形式信件\", \"enName\": \"form letter\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166912, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式信件\", \"cnNameSearch\": \"形式信件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"form letter\", \"wordSearch\": \"form letter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"存储在数据媒体上包括标准文本的信件，它通过增加诸如一个或多个收件人的姓名和地址等信息加以具体化。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ae47bb0cda44656b10e80bc0f7119d2\", \"databaseId\": null, \"standardId\": \"3a62ae4962e0409f8f53fc3f273bc485\", \"standardCode\": \"GB/T 38634.4—2020\", \"standardName\": \"系统与软件工程 软件测试第4部分:测试技术\", \"standardEnName\": \"Systems and software engineering—Software testing—Part 4: Test techniques\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.25\", \"cnName\": \"谓词数据使用\", \"enName\": \"predicate data use\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"35.08035\", \"ccs\": \"L77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63095, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谓词数据使用\", \"cnNameSearch\": \"谓词数据使用\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predicate data use\", \"wordSearch\": \"predicate data use\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与判定语句中谓词部分的判定结果相关联的“数据使用”。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ae5e831d5054ae2b684f2260390a2d2\", \"databaseId\": null, \"standardId\": \"5d36672f76954b50b06c80b613f1834e\", \"standardCode\": \"GB/T 50899—2013\", \"standardName\": \"房地产估价基本术语标准\", \"standardEnName\": \"Standard for basic terminology of real estate appraisal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.0.4\", \"cnName\": \"致估价委托人函\", \"enName\": \"letter of transmittal\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94005, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"致估价委托人函\", \"cnNameSearch\": \"致估价委托人函\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"letter of transmittal\", \"wordSearch\": \"letter of transmittal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"房地产估价机构和注册房地产估价师正式地向估价委托人报告估价结果、呈送估价报告的文件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1793141254953}"
+}

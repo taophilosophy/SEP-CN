@@ -1,0 +1,54 @@
+{
+ "key": "daodejing / tao te ching",
+ "term": "Daodejing / Tao Te Ching",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:39:09+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=6",
+ "hits": [
+  {
+   "cn": "虚拟TE链路",
+   "en": "virtual TE link",
+   "code": "GB/T 21645.10—2017",
+   "standard": "自动交换光网络(ASON)技术要求 第10部分:多层多域控制平面",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "te时间",
+   "en": "timetE",
+   "code": "GB/T 3836.3—2021",
+   "standard": "爆炸性环境第3部分:由增安型“e”保护的设备",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "流量工程链路",
+   "en": "TE link",
+   "code": "GB/T 21645.9—2012",
+   "standard": "自动交换光网络(ASON)技术要求 第9部分:外部网络-网络接口(E-NNI)",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "特香型(白酒)风格",
+   "en": "te-flavour style",
+   "code": "GB/T 33405—2016",
+   "standard": "白酒感官品评术语",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "<em>t</em></span><sub>E</sub>时间",
+   "en": "time <sub>tE</sub>",
+   "code": "GB/T 3836.15—2017",
+   "standard": "爆炸性环境第15部分:电气装置的设计、选型和安装",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "漂洗",
+   "en": "r in s e l te",
+   "code": "GB/T 33452—2016",
+   "standard": "洗染术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2017\": 2, \"2016\": 2, \"2012\": 1}, \"sourceStats\": {\"食品技术\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"电气工程\": 2, \"电信、音频和视频工程\": 2}, \"typeStats\": {\"7\": 6}, \"totalRecords\": 6, \"tmWordList\": [{\"id\": \"4987dd3436d44b1c8a28f47780adbad7\", \"databaseId\": null, \"standardId\": \"dc89de6090b84161b1b29e91f7dcfc7d\", \"standardCode\": \"GB/T 21645.10—2017\", \"standardName\": \"自动交换光网络(ASON)技术要求 第10部分:多层多域控制平面\", \"standardEnName\": \"Technical requirements for automatically switched optical network (ASON)-Part 10: Multi-layer and multi-region control plane\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.7\", \"cnName\": \"虚拟TE链路\", \"enName\": \"virtual TE link\", \"publishTime\": \"2017-05-12\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.040.20\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216317, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"虚拟TE链路\", \"cnNameSearch\": \"虚拟TE链路\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"virtual TE link\", \"wordSearch\": \"virtual TE link\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在没有上层业务的情况下,可以不对VNT中的FA-LSP进行完全配置,以预留资源用于其他服务层LSP,是一种潜在LSP的TE链路。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8ec120e8f42a4aeab297f7349f986b67\", \"databaseId\": null, \"standardId\": \"d81797eacc0a4ac2a6b39dcd4a769300\", \"standardCode\": \"GB/T 3836.3—2021\", \"standardName\": \"爆炸性环境第3部分:由增安型“e”保护的设备\", \"standardEnName\": \"Explosive atmospheres-Part 3:Equipment protection by increased safety“e”\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.18\", \"cnName\": \"te时间\", \"enName\": \"timetE\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213137, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"te时间\", \"cnNameSearch\": \"te时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"timetE\", \"wordSearch\": \"timetE\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"交流转子或定子绕组在最高环境温度下达到额定运行温度后，从开始通过启动电流IA时起直至温\\n度上升到极限温度所需的时间（见图A.1)。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"单位为秒(s)。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3d78ea8e8d924db3b2963f6fe4965881\", \"databaseId\": null, \"standardId\": \"0bb943438db34679bfd78c88e680984a\", \"standardCode\": \"GB/T 21645.9—2012\", \"standardName\": \"自动交换光网络(ASON)技术要求 第9部分:外部网络-网络接口(E-NNI)\", \"standardEnName\": \"Technical requirements for automatically switched optical network (ASON)-Part 9: External network to network interface(E-NNI)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.11\", \"cnName\": \"流量工程链路\", \"enName\": \"TE link\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-06-01\", \"ics\": \"33. 180.01\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10361, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"流量工程链路\", \"cnNameSearch\": \"流量工程链路\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"TE link\", \"wordSearch\": \"TE link\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个具有流量工程属性的逻辑链路。TE链路是逻辑的概念，因为它可以把特定物理资源信息进行组合/映射，用于基于约束的最短路径算法的路由计算。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f44693359ca742eea8936872b23d40d6\", \"databaseId\": null, \"standardId\": \"ecd46ab0a2d64a1c99d76eb00446a1dd\", \"standardCode\": \"GB/T 33405—2016\", \"standardName\": \"白酒感官品评术语\", \"standardEnName\": \"Terminology of Baijiu sensory evaluation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"4.5.1.10\", \"cnName\": \"特香型(白酒)风格\", \"enName\": \"te-flavour style\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"67.160.10\", \"ccs\": \"X61\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"特香型(白酒)风格\", \"cnNameSearch\": \"特香型(白酒)风格\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"te-flavour style\", \"wordSearch\": \"te-flavour style\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"白酒符合优雅舒适,诸香协调,具有浓、清、酱三香,但均不露头的复合香气;柔绵醇和,绵甜,香味谐调，余味悠长的风味特点。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>参考 GB/T 20823—2007,5.1 感官要求。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"74175663b9964a328b42805f044fa752\", \"databaseId\": null, \"standardId\": \"a3e968c963354d5cb03fe63eafe9fc5d\", \"standardCode\": \"GB/T 3836.15—2017\", \"standardName\": \"爆炸性环境第15部分:电气装置的设计、选型和安装\", \"standardEnName\": \"Explosive atmospheres-Part 15:Electrical installations design,selection and erection\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.4.4\", \"cnName\": \"<em>t</em></span><sub>E</sub>时间\", \"enName\": \"time <sub>tE</sub>\", \"publishTime\": \"2017-12-29\", \"publishYear\": \"2017\", \"implementTime\": \"2018-07-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168551, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"<em>t</em></span><sub>E</sub>时间\", \"cnNameSearch\": \"<em>t</em></span><sub>E</sub>时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"time <sub>tE</sub>\", \"wordSearch\": \"time <sub>tE</sub>\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"交流转子或定子绕组在最高环境温度下达到额定运行温度后,从开始通过启动电流</span><span style=\\\"color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;;\\\"><em>I</em></span><span style=\\\"color: rgb(0, 0, 0);\\\"><sub>A</sub></span><span style=\\\"color: rgb(0, 0, 0);\\\"> 直至温度上升到极限温度所需的时间。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1a4426ade5334098ac2936bf87d31470\", \"databaseId\": null, \"standardId\": \"b004848022de490f840fd1f60acd8240\", \"standardCode\": \"GB/T 33452—2016\", \"standardName\": \"洗染术语\", \"standardEnName\": \"Laundry and dying terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.8\", \"cnName\": \"漂洗\", \"enName\": \"r in s e l te\", \"publishTime\": \"2016-12-30\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"03.080.30\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181599, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"漂洗\", \"cnNameSearch\": \"漂洗\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"r in s e l te\", \"wordSearch\": \"r in s e l te\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"去除衣物上污垢和残留的洗涤助剂的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140749899}"
+}

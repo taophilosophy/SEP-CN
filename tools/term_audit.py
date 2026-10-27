@@ -29,11 +29,32 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
     except (AttributeError, ValueError):
         pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
 QUERIES = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                        'queries')
 OUT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results')
 REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
+
+
+def _relevant(hit_en, term):
+    """命中 EN 侧与查询词相关性（GB 库 match=2 模糊匹配噪声过滤）。
+
+    规则：查询词元（剥尾 s）须全部出现在命中 EN 侧；单词查询要求精确相等。
+    """
+    def toks(s):
+        out = set()
+        for w in re.findall(r'[a-z0-9]+', (s or '').casefold()):
+            out.add(w[:-1] if len(w) > 3 and w.endswith('s') else w)
+        return out
+
+    a, b = toks(hit_en), toks(term)
+    if not a or not b:
+        return False
+    if len(b) == 1:
+        return a == b
+    return b <= a
 
 
 def audit_rows(rows, label, queries_root):
@@ -60,10 +81,13 @@ def audit_rows(rows, label, queries_root):
             row_out['providers'].append(prov)
             cred_stats.append(rec.get('status'))
             if rec.get('status') == 'ok':
-                row_out['hits'].extend(
-                    {'provider': prov, 'cn': h.get('cn'), 'en': h.get('en'),
-                     'source': h.get('standard') or h.get('code') or prov}
-                    for h in rec.get('hits', [])[:20])
+                raw_hits = rec.get('hits', [])[:20]
+                for h in raw_hits:
+                    if not _relevant(h.get('en'), term):
+                        continue
+                    row_out['hits'].append(
+                        {'provider': prov, 'cn': h.get('cn'), 'en': h.get('en'),
+                         'source': h.get('standard') or h.get('code') or prov})
         if not row_out['providers']:
             row_out['status'] = '未查证'
         elif 'ok' in cred_stats and row_out['hits']:

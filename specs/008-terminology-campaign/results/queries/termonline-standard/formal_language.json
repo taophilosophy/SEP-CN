@@ -1,0 +1,152 @@
+{
+ "key": "formal language",
+ "term": "formal language",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:40:53+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=239",
+ "hits": [
+  {
+   "cn": "形式化",
+   "en": "formal",
+   "code": "GB/T 41453—2022",
+   "standard": "地理信息 权限数据字典",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "形式化",
+   "en": "formal",
+   "code": "GB/T 18336.1—2015",
+   "standard": "信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "正式提升",
+   "en": "formal lifting",
+   "code": "GB/T 51162—2016",
+   "standard": "重型结构和设备整体提升技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "形式化验证",
+   "en": "formal verification",
+   "code": "GB/T 43579—2023",
+   "standard": "区块链和分布式记账技术   智能合约生命周期管理技术规范",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "形式本体",
+   "en": "formal ontology",
+   "code": "GB/T 40765—2021",
+   "standard": "基础地理信息本体模型",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "正式测量",
+   "en": "formal measurement",
+   "code": "GB/T 9254.2—2021",
+   "standard": "信息技术设备、多媒体设备和接收机电磁兼容 第2部分:抗扰度要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "形式参数",
+   "en": "formal parameter",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "正式培训",
+   "en": "formal training",
+   "code": "GB/T 36439—2018",
+   "standard": "无损检测 航空无损检测人员资格鉴定与认证",
+   "subject": "试验"
+  },
+  {
+   "cn": "形(式)参(数)",
+   "en": "formal parameter",
+   "code": "GB/T 26857.1—2011",
+   "standard": "信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "正式关系",
+   "en": "formal relation",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "礼服",
+   "en": "formal wear",
+   "code": "GB/T 15557—2008",
+   "standard": "服装术语 ",
+   "subject": "服装工业"
+  },
+  {
+   "cn": "正式容量",
+   "en": "formal capacity",
+   "code": "GB/T 4549.4—2004",
+   "standard": "铁道车辆词汇 第 4 部分: 车钩缓冲及风挡装置",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "形式(规格)说明",
+   "en": "formal specification",
+   "code": "GB/T 5271.20—94",
+   "standard": "信息技术词汇 20部分 系统开发",
+   "subject": "其它"
+  },
+  {
+   "cn": "形式逻辑",
+   "en": "formal logic",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "GB/T 43980—2024",
+   "standard": "口译服务 医疗口译要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "GB/T 42092—2022",
+   "standard": "笔译、口译及相关技术 词汇 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "GB/T 37716—2019",
+   "standard": "信息技术 学习、教育和培训  电子课本与电子书包术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "GB/T 37239—2018",
+   "standard": "笔迹鉴定技术规范",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "非正规教育",
+   "en": "non-formal education",
+   "code": "GB/T 26996—2011",
+   "standard": "非正规教育与培训的学习服务  学习服务提供者基本要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 9, \"2023\": 7, \"2022\": 27, \"2021\": 29, \"2020\": 8, \"2019\": 7, \"2018\": 7, \"2017\": 2, \"2016\": 10, \"2015\": 13, \"2014\": 1, \"2013\": 1, \"2012\": 1, \"2011\": 10, \"2010\": 10, \"2009\": 16, \"2008\": 51, \"2006\": 3, \"2005\": 1, \"2004\": 2, \"2003\": 1, \"2001\": 1, \"2000\": 7, \"1998\": 1, \"1994\": 1, \"1993\": 1, \"1988\": 1, \"1986\": 1, \"暂无年份\": 10}, \"sourceStats\": {\"造船和海上构筑物\": 2, \"试验\": 1, \"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 50, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 45, \"电气工程\": 2, \"电信、音频和视频工程\": 7, \"环保、保健和安全\": 7, \"机械制造\": 9, \"服装工业\": 1, \"数学、自然科学\": 5, \"成像技术\": 1, \"化工技术\": 2, \"其它\": 13, \"信息技术、办公机械\": 92}, \"typeStats\": {\"7\": 239}, \"totalRecords\": 239, \"tmWordList\": [{\"id\": \"b088df91b4404609a0173f0d54dcb4fb\", \"databaseId\": null, \"standardId\": \"1505423d6ee5475fb229d7aa712ffdfb\", \"standardCode\": \"GB/T 41453—2022\", \"standardName\": \"地理信息 权限数据字典\", \"standardEnName\": \"Geographic information—Rights Data Dictionary for geographicinformation(GeoRDD)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.14\", \"cnName\": \"形式化\", \"enName\": \"formal\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20810, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式化\", \"cnNameSearch\": \"形式化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal\", \"wordSearch\": \"formal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以一种受限语法的语言表达，该语言建立在公认的数学概念上，具有确定的语义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 18336.1—2015\", \"sourceCode\": \"3.1.35\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c8dd49a5e26b43df8cd4b90405229e89\", \"databaseId\": null, \"standardId\": \"2e0a0926991c4017a07105f219c879a4\", \"standardCode\": \"GB/T 18336.1—2015\", \"standardName\": \"信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 \", \"standardEnName\": \"Information technology—Security techniques—— Evaluation criteria for IT security— Part 1 : Introduction and general model \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1.35\", \"cnName\": \"形式化\", \"enName\": \"formal\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"35.040\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49497, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式化\", \"cnNameSearch\": \"形式化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal\", \"wordSearch\": \"formal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以一种受限语法的语言表达，该语言建立公认的数学概念上，具有确定的语义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"977805c6facb4f548a30e80681512cef\", \"databaseId\": null, \"standardId\": \"c4168b2a7f5a40ccb03358169d134964\", \"standardCode\": \"GB/T 51162—2016\", \"standardName\": \"重型结构和设备整体提升技术规范\", \"standardEnName\": \"Technical code for integral lifting of heavy structure and equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"正式提升\", \"enName\": \"formal lifting\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 196439, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正式提升\", \"cnNameSearch\": \"正式提升\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal lifting\", \"wordSearch\": \"formal lifting\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"试提升过程结束后，被提升结构或设备重新开始提升到设计位置并完成固定的全过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f07d58210d8f48bca6d576e5c1ee8a19\", \"databaseId\": null, \"standardId\": \"7f4ff4e3b0214eb7a26cc5ba01084699\", \"standardCode\": \"GB/T 43579—2023\", \"standardName\": \"区块链和分布式记账技术   智能合约生命周期管理技术规范\", \"standardEnName\": \"Blockchain and distributed ledger technology—Technical specification of smart contract lifecycle management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.4\", \"cnName\": \"形式化验证\", \"enName\": \"formal verification\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"35.240\", \"ccs\": \"L70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 134915, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式化验证\", \"cnNameSearch\": \"形式化验证\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal verification\", \"wordSearch\": \"formal verification\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"通过对算法逻辑的数学形式化表达，验证智能合约程序确定性和完备性的方法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3a9d8ee62e324b1086285264839a72e6\", \"databaseId\": null, \"standardId\": \"01ac7c06cb7c4fbfbe5b9b56c9f45ff4\", \"standardCode\": \"GB/T 40765—2021\", \"standardName\": \"基础地理信息本体模型\", \"standardEnName\": \"Ontology model for fundamental geographic information\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.5\", \"cnName\": \"形式本体\", \"enName\": \"formal ontology\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"07.040\", \"ccs\": \"A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1332, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式本体\", \"cnNameSearch\": \"形式本体\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal ontology\", \"wordSearch\": \"formal ontology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用形式化语言表达的，对于共享概念体系的明确而又详细的说明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3497b9c585bb49cf89b3e4c81018a36c\", \"databaseId\": null, \"standardId\": \"065fe47a35c340e18032d30e4a581d07\", \"standardCode\": \"GB/T 9254.2—2021\", \"standardName\": \"信息技术设备、多媒体设备和接收机电磁兼容 第2部分:抗扰度要求\", \"standardEnName\": \"Information technology equipment,multimedia equipment and receivers—Electromagnetic compatibility—Part 2 :Immunity requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.15\", \"cnName\": \"正式测量\", \"enName\": \"formal measurement\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"33.100.2033\", \"ccs\": \"L06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 5516, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正式测量\", \"cnNameSearch\": \"正式测量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal measurement\", \"wordSearch\": \"formal measurement\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于确定符合性的测量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>通常是指执行的最终测量，可以在预扫描测量之后进行，正式测量记录在试验报告中。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0efe4ef5464c461a8ee3ef66c81e8256\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.91\", \"cnName\": \"形式参数\", \"enName\": \"formal parameter\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117235, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式参数\", \"cnNameSearch\": \"形式参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal parameter\", \"wordSearch\": \"formal parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"规定在过程部首的 USING 短语中的数据名，它给出了某个参数用在函数、方法或程序中的名字。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f7a57c613c5640ba9e5a4177c7fd44e3\", \"databaseId\": null, \"standardId\": \"1484cabae71049318f88bdc7be67aafb\", \"standardCode\": \"GB/T 36439—2018\", \"standardName\": \"无损检测 航空无损检测人员资格鉴定与认证\", \"standardEnName\": \"Non—destructive testing—Certification and qualification of aerospace NDT personnel\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"试验\", \"termCode\": \"3.13\", \"cnName\": \"正式培训\", \"enName\": \"formal training\", \"publishTime\": \"2018-07-13\", \"publishYear\": \"2018\", \"implementTime\": \"2019-02-01\", \"ics\": \"19.100\", \"ccs\": \"J04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19607, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正式培训\", \"cnNameSearch\": \"正式培训\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal training\", \"wordSearch\": \"formal training\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"经责任3级或主考人批准，采取课堂授课、实际操作和自学相结合的形式，以传授按本标准鉴定所\\n必要的无损检测方法知识和技能为目的，进行的有组织和书面程序指导的学习活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"46618b92346146a092369b3f5d21d798\", \"databaseId\": null, \"standardId\": \"f2ba757f8fb949d7b5ff623d3f2d26b8\", \"standardCode\": \"GB/T 26857.1—2011\", \"standardName\": \"信息技术  开放系统互连  测试方法和规范 （MTS）  测试和测试控制记法  第3版  第1部分：TTCN-3核心语言\", \"standardEnName\": \"Methods for testing and specification (MTS)- The testing and test control notation version 3 - Part1：TTCN-3 core language\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9\", \"cnName\": \"形(式)参(数)\", \"enName\": \"formal parameter\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"35.100\", \"ccs\": \"L79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 238676, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形(式)参(数)\", \"cnNameSearch\": \"形(式)参(数)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal parameter\", \"wordSearch\": \"formal parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"不是在定义一个实体(函数、测试用例、备选步等)时,而是在对其启用时进行解析的值或模板的名称引用(标识符)。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>从启用该实体处传递在形参的位置所用的实际的值或模板(或其名称)。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1f7846ca26e147e79ff031c320736ebf\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.4.2.2.5.6\", \"cnName\": \"正式关系\", \"enName\": \"formal relation\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219986, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正式关系\", \"cnNameSearch\": \"正式关系\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal relation\", \"wordSearch\": \"formal relation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"索引语言术语之间的关系。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d6b3e051282a41d392fd173529cd8869\", \"databaseId\": null, \"standardId\": \"4bb8fddec8e04ec28cef4d140742f11e\", \"standardCode\": \"GB/T 15557—2008\", \"standardName\": \"服装术语 \", \"standardEnName\": \"Standard terminology relating to apparel\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"服装工业\", \"termCode\": \"2.26\", \"cnName\": \"礼服\", \"enName\": \"formal wear\", \"publishTime\": \"2008-06-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-03-01\", \"ics\": \"ICS 61.020\", \"ccs\": \"Y 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78484, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"礼服\", \"cnNameSearch\": \"礼服\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal wear\", \"wordSearch\": \"formal wear\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"适合于正式场合或典礼时穿着的服装。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a264eb63ddcb4c89a89d6b439bb99502\", \"databaseId\": null, \"standardId\": \"4da19d85f96d4e9d8231576e13060b4b\", \"standardCode\": \"GB/T 4549.4—2004\", \"standardName\": \"铁道车辆词汇 第 4 部分: 车钩缓冲及风挡装置\", \"standardEnName\": \"Railway vehicle vocabulary—Part 4: Coupler, draft gear and vestibule diaphragm\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.15\", \"cnName\": \"正式容量\", \"enName\": \"formal capacity\", \"publishTime\": \"2004-06-11\", \"publishYear\": \"2004\", \"implementTime\": \"2004-12-01\", \"ics\": \"01.040.45;45.060.20\", \"ccs\": \"S50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 80661, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正式容量\", \"cnNameSearch\": \"正式容量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal capacity\", \"wordSearch\": \"formal capacity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"缓冲器按照“正式容量”程序进行落锤试验，达到额定行程时的容量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2d2606f1d2c147db83196e2f30596c5a\", \"databaseId\": null, \"standardId\": \"dc81cd3016144033896776c92b096487\", \"standardCode\": \"GB/T 5271.20—94\", \"standardName\": \"信息技术词汇 20部分 系统开发\", \"standardEnName\": \"Information technology-Vocabulary--Part 20 :System development\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"20.01.04\", \"cnName\": \"形式(规格)说明\", \"enName\": \"formal specification\", \"publishTime\": \"1994-12-07\", \"publishYear\": \"1994\", \"implementTime\": \"1995-08-01\", \"ics\": \"\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216259, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式(规格)说明\", \"cnNameSearch\": \"形式(规格)说明\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal specification\", \"wordSearch\": \"formal specification\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种<strong>规格说明</strong>,它用数学方式证明系统<strong>实现</strong>的有效性,或用数学方式推导出该系统如何实现。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e9b027e38ed34a10a5726fd155223725\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.01.03\", \"cnName\": \"形式逻辑\", \"enName\": \"formal logic\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形式逻辑\", \"cnNameSearch\": \"形式逻辑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal logic\", \"wordSearch\": \"formal logic\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究有效论证的形式和结构，而不考虑论证所涉及的对象的含义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b8d0b60eec3e410fb12fbcc0acf47241\", \"databaseId\": null, \"standardId\": \"64bcb1fabd2c40118eb5b740eee9a939\", \"standardCode\": \"GB/T 43980—2024\", \"standardName\": \"口译服务 医疗口译要求\", \"standardEnName\": \"Interpreting services—Requirements for healthcare interpreting\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.4.1\", \"cnName\": \"语言\", \"enName\": \"language\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"03.080.01\", \"ccs\": \"A16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100457, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语言\", \"cnNameSearch\": \"语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"language\", \"wordSearch\": \"language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"交流过程中对声音、字符、符号或手势的系统使用。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 42092—2022\", \"sourceCode\": \"3.1.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"14bb797dc9af48ff94a22de4e34b3365\", \"databaseId\": null, \"standardId\": \"de79e6d4261c403d9e8af157d7273cc3\", \"standardCode\": \"GB/T 42092—2022\", \"standardName\": \"笔译、口译及相关技术 词汇 \", \"standardEnName\": \"Translation , interpreting and related technology—Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1.1\", \"cnName\": \"语言\", \"enName\": \"language\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 03.080.99 ; 35.240.30\", \"ccs\": \"CCS A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217917, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语言\", \"cnNameSearch\": \"语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"language\", \"wordSearch\": \"language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"交流过程中对声音、字符、符号或手势的系统使用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6bed30c9a58d4d2390a24922a8735bc7\", \"databaseId\": null, \"standardId\": \"595c6022e39d42c78c33b66a25a25969\", \"standardCode\": \"GB/T 37716—2019\", \"standardName\": \"信息技术 学习、教育和培训  电子课本与电子书包术语\", \"standardEnName\": \"Information technology—Learning, education and training—Terminology for e—Textbook and e—Schoolbag\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.50\", \"cnName\": \"语言\", \"enName\": \"language\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"35.240.99\", \"ccs\": \"L67\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91295, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语言\", \"cnNameSearch\": \"语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"language\", \"wordSearch\": \"language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电子课本内容使用的语言类别。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"41ffa863e88b4d36902633bbeef1fef5\", \"databaseId\": null, \"standardId\": \"c232ad7dd08d49b0bd5d26a1e2c96d39\", \"standardCode\": \"GB/T 37239—2018\", \"standardName\": \"笔迹鉴定技术规范\", \"standardEnName\": \"Specification for forensic identification of handwriting\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1\", \"cnName\": \"语言\", \"enName\": \"language\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-04-01\", \"ics\": \"13.310\", \"ccs\": \"A92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 195127, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语言\", \"cnNameSearch\": \"语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"language\", \"wordSearch\": \"language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为了传递信息而使用的一组字符、约定和规则。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"612e5579973941e79eaf898dfa19826f\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.2.1\", \"cnName\": \"语言\", \"enName\": \"language\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220496, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语言\", \"cnNameSearch\": \"语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"language\", \"wordSearch\": \"language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于通信的记号系统,通常由词汇和规则构成。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bbd6bbeec99d47f8ac9342e9ff9a45b9\", \"databaseId\": null, \"standardId\": \"276ddfb1f54e46ab906b885c672f9171\", \"standardCode\": \"GB/T 26996—2011\", \"standardName\": \"非正规教育与培训的学习服务  学习服务提供者基本要求\", \"standardEnName\": \"Learning services for non-formal education and training - Basic requirements for service providers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"2.14\", \"cnName\": \"非正规教育\", \"enName\": \"non-formal education\", \"publishTime\": \"2011-07-19\", \"publishYear\": \"2011\", \"implementTime\": \"2011-11-01\", \"ics\": \"03.180\", \"ccs\": \"A12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"非正规教育\", \"cnNameSearch\": \"非正规教育\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"non-formal education\", \"wordSearch\": \"non-formal education\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"〈学习服务〉初等教育、中等教育和高等教育等正规教育体系以外的有组织的教育活动。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 12}}, \"timestamp\": 1793140854878}"
+}

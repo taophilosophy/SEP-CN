@@ -1,0 +1,19 @@
+{
+ "key": "formalism",
+ "term": "formalism",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:40:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "概念形式化",
+   "en": "conceptual formalism",
+   "code": "GB/T 33188.1—2016",
+   "standard": "地理信息 参考模型 第1部分:基础",
+   "subject": "数学、自然科学"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2016\": 1}, \"sourceStats\": {\"数学、自然科学\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"9e7fac045ad645c3a9c8bf52d1e53196\", \"databaseId\": null, \"standardId\": \"4106588155644d46868f832f0e4d26d9\", \"standardCode\": \"GB/T 33188.1—2016\", \"standardName\": \"地理信息 参考模型 第1部分:基础\", \"standardEnName\": \"Geographic information—Reference model—Part 1: Fundamentals\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"4.1.4\", \"cnName\": \"概念形式化\", \"enName\": \"conceptual formalism\", \"publishTime\": \"2016-10-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-02-01\", \"ics\": \"07.040;35.240.70\", \"ccs\": \"A75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 69052, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"概念形式化\", \"cnNameSearch\": \"概念形式化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"conceptual formalism\", \"wordSearch\": \"conceptual formalism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于描述概念模型的一组建模概念。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [\"<p>UML元模型。</p>\", \"<p>EXPRESS<sup>[21]</sup> 元模型。</p>\"], \"notes\": [\"<p>一种概念形式化可以用多种概念模式语言表示。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140859868}"
+}

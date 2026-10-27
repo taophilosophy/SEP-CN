@@ -1,0 +1,19 @@
+{
+ "key": "cognitivism",
+ "term": "cognitivism",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:38:03+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "code": "GB/T 5271.31—2006",
+   "standard": "信息技术 词汇第31部分:人工智能  机器学习",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2006\": 1}, \"sourceStats\": {\"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"2498ef7d946e48189b636f7cd057b0bd\", \"databaseId\": null, \"standardId\": \"123405eebf094949b92968bffedf0cad\", \"standardCode\": \"GB/T 5271.31—2006\", \"standardName\": \"信息技术 词汇第31部分:人工智能  机器学习\", \"standardEnName\": \"Information technology—Vocabulary—Part 31:Artificial intelligence—Machine learning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"31.01.11\", \"cnName\": \"认知科学\", \"enName\": \"cognitive science\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17019, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"认知科学\", \"cnNameSearch\": \"认知科学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitive science\", \"wordSearch\": \"cognitive science\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"认知机制\", \"cnNameSearch\": \"认知机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitivism\", \"wordSearch\": \"cognitivism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"各学科间的知识领域,它的陈述目标是发现智力的表示能力和计算能力以及在头脑中它们的结构表示和功能表示。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">认知科学处理认知的符号处理性质,并包括如心理学、计算机科学、语言学、人类学、哲学、教育、数学、工程、生理学和神经科学等不相同的学科。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793140685065}"
+}

@@ -1,0 +1,11 @@
+{
+ "key": "poroi",
+ "term": "poroi",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T22:47:13+00:00",
+ "status": "empty",
+ "note": "standardVO totalRecords=0",
+ "hits": [],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": {\"7\": 0}, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}}, \"timestamp\": 1793141234944}"
+}
