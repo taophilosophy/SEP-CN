@@ -159,3 +159,31 @@ class TestCatalog(unittest.TestCase):
         self.assertEqual(by["ghost-target"]["title"], "ghost")
         # 正常词条数 = 4（parent、parent-first、parent-second、solo）
         self.assertEqual(len([i for i in items if not i["alias_of"]]), 4)
+
+
+class TestZhDocFromLines(unittest.TestCase):
+    def test_no_fuzzy_phantom(self):
+        """三级匹配收紧回归（2026-10-27）：二级子串曾把 trans 伪映射到
+        feminism-trans；三级多命中曾在集群短标题上产生伪映射。"""
+        from tools.common import zh_doc_from_lines
+        lines = [
+            "* [先天与语言 and language (Fiona Cowie)](a/and-language.md)",
+            "* [跨性别女性主义 trans feminism (T. A)](f/feminism-trans.md)",
+            "* [音乐史（至1800） history of philosophy of music to 1800 (T. A)](h/hist-westphilmusic-to-1800.md)",
+            "* [语言哲学 philosophy of language (S. A)](p/philosophy-language.md)",
+            "* [伦理学 ethics (Ross)](e/ethics.md)",
+        ]
+        # 一级：精确路径命中
+        self.assertEqual(
+            zh_doc_from_lines("abduction", "Abduction",
+                              ["* [统筹 abduction (I. Douven)](a/abduction.md)"]),
+            "a/abduction.md")
+        # 二级仅精确文件名：trans 不得落到 feminism-trans
+        self.assertIsNone(zh_doc_from_lines("trans", "trans philosophy", lines))
+        # 三级整短语多命中 = 歧义 → None（旧逻辑会择优返回）
+        self.assertIsNone(zh_doc_from_lines("music", "philosophy of", lines))
+        # 三级唯一整短语命中才返回
+        self.assertEqual(
+            zh_doc_from_lines("solo", "quiet unique match",
+                              ["* [独条 quiet unique match (A. B)](q/quiet-match.md)"]),
+            "q/quiet-match.md")

@@ -175,6 +175,7 @@ def zh_doc_from_lines(slug, title_en, lines):
     cands = []
     # 逐行解析（演示轮 2 复核：链接文字含 \[Abailard\] 转义括号时，
     # finditer 的 \[[^\]]*\] 会在文字中途截断导致整行漏配）
+    slug_base = slug.lower()
     for line in lines:
         pm = re.search(r"\]\(([^)]+)\)", line)
         if not pm:
@@ -182,16 +183,23 @@ def zh_doc_from_lines(slug, title_en, lines):
         link_text, path = line[:pm.start()], pm.group(1)
         if "-see-" in path.lower() or "-see-" in link_text.lower():
             continue
-        # 词条为 <letter>/<slug>.md（ADR-0009 A–Z 字母目录）；回退按路径含 slug 匹配
-        if slug.lower() in path.lower() or slug in path.replace("/", "-").split("-"):
+        # 二级：仅精确文件名匹配。ADR-0009 后 SUMMARY 链接必为 <letter>/<slug>.md
+        # （一级已覆盖），此处只兜底同名文件——子串/分词模糊匹配曾把 trans 伪映射
+        # 到 feminism-trans、srigupta 伪映射到 definitions（2026-10-27 复核废除）。
+        if path.rsplit("/", 1)[-1].lower() == "%s.md" % slug_base:
             cands.append(path)
     if cands:
         cands.sort(key=len)
         return cands[0]
     if title_en:
+        # 三级：整短语、词边界、且全 SUMMARY 唯一命中才返回。集群子词条的短标题
+        # （ethics / and language / philosophy of）曾因子串包含被任意含词行认领，
+        # 16 条 increment 词条被伪映射，既不进 ADD 也不进 REMOVE（2026-10-27 收紧）。
+        # 单词标题不参与：SUMMARY 内条目由一级按精确路径命中，到不了三级的单词条目
+        # 应返回 None 走 ADD（ideology→law-ideology、srigupta→definitions 教训）。
         words = [w.lower() for w in re.findall(r"[A-Za-z]+", title_en) if len(w) > 1]
-        if words:
-            longest = max(words, key=len)
+        if len(words) >= 2:
+            phrase = re.compile(r"\b" + r"\s+".join(re.escape(w) for w in words) + r"\b")
             hits = []
             for line in lines:
                 pm = re.search(r"\]\(([^)]+)\)", line)
@@ -201,11 +209,11 @@ def zh_doc_from_lines(slug, title_en, lines):
                 if "-see-" in path.lower() or "-see-" in link_text.lower():
                     continue
                 hay = (link_text + " " + path.replace("/", " ")).lower()
-                if all(w in hay for w in words):
-                    hits.append((longest in path.lower(), -len(path), path))
-            if hits:
-                hits.sort(reverse=True)
-                return hits[0][2]
+                if phrase.search(hay):
+                    hits.append(path)
+            if len(set(hits)) == 1:
+                return hits[0]
+            # 多命中 = 歧义，一律 None 交 ADD/人工裁定
     return None
 
 
