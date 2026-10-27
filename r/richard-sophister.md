@@ -1,1 +1,1 @@
-# 诡辩家理查德 Richard the Sophister [Ricardus Sophista, Magister abstractionum] (Paul Streveler)
+# *理查德·鲁弗斯——见诡辩家理查德 Rufus, Richard — see Richard the Sophister

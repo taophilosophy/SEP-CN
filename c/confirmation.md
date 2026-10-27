@@ -1,1 +1,1 @@
-# 确证 confirmation (Vincenzo Crupi)
+# *科学——见科学实在论 scientific — see scientific realism

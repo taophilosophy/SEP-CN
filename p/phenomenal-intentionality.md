@@ -1,1 +1,1 @@
-# 现象意向性 phenomenal (David Bourget and Angela Mendelovici)
+# *现象意向性——见意向性：现象意向性 phenomenal intentionality — see intentionality: phenomenal

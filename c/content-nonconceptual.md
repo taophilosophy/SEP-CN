@@ -1,1 +1,1 @@
-# 非概念性心理内容 nonconceptual (José Bermúdez and Arnon Cahen)
+# *非概念性内容——见非概念性心智内容 nonconceptual content — see mental content: nonconceptual

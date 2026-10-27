@@ -1,1 +1,1 @@
-# 词义 of words (Luca Gasparri and Diego Marconi)
+# *词义——见意义：词义 word meaning — see meaning: of words

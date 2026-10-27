@@ -1,1 +1,1 @@
-# *三段论——见三段论：中世纪的三段论理论 syllogism — see syllogism: medieval theories of
+# 中世纪的三段论理论 medieval theories of (Henrik Lagerlund)

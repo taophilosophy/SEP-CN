@@ -1,1 +1,1 @@
-# *辛普森悖论——见辛普森悖论 Simpson’s paradox — see Simpson’s paradox
+# 辛普森悖论 Simpson’s paradox (Jan Sprenger and Naftali Weinberger)

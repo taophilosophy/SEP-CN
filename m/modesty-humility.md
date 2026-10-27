@@ -1,1 +1,1 @@
-# *谦逊——见谦虚与谦逊 humility — see modesty and humility
+# 谦虚与谦逊 modesty and humility (Nicolas Bommarito)

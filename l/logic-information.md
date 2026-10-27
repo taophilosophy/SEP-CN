@@ -1,1 +1,1 @@
-# *逻辑——见逻辑学：逻辑和信息 and logic — see logic: and information
+# 逻辑与信息 and information (Maricarmen Martinez and Sebastian Sequoiah-Grayson)

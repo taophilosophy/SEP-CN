@@ -1,1 +1,1 @@
-# *命令论——见神学意志主义 command theory — see voluntarism, theological
+# 神学意志主义 voluntarism, theological (Mark Murphy)

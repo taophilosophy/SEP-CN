@@ -1,1 +1,1 @@
-# 似真性 truthlikeness (Graham Oddie and Gustavo Cevolani)
+# *逼真性——见似真性 verisimilitude — see truthlikeness

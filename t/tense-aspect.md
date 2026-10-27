@@ -1,1 +1,1 @@
-# *体态——见时态与体态 aspect — see tense and aspect
+# 时态与体态 tense and aspect (Friedrich Hamm and Oliver Bott)

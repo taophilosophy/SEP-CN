@@ -1,1 +1,1 @@
-# *埃克哈特大师——见埃克哈特大师 Eckhart, Meister — see Meister Eckhart
+# 埃克哈特大师 Meister Eckhart (Amber L. Griffioen)

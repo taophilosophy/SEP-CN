@@ -1,1 +1,1 @@
-# *老子——见老子 Laozi — see Laozi
+# 老子 Laozi (Alan Chan)

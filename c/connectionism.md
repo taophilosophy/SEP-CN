@@ -1,1 +1,1 @@
-# *联结主义——见联结主义 connectionism — see connectionism
+# 联结主义 connectionism (Cameron Buckner and James Garson)

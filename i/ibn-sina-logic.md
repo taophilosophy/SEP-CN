@@ -1,1 +1,1 @@
-# *逻辑学——见伊本·西那（阿维森纳）的逻辑学 logic — see Ibn Sina: logic
+# *逻辑——见逻辑的规范性地位 logic — see logic: normative status of

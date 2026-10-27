@@ -1,1 +1,1 @@
-# 残疾的定义与模型 definitions and models (David Wasserman and Sean Aas)
+# *残疾——见残疾：残疾的定义与模型 disability — see disability: definitions and models

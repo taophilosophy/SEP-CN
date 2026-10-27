@@ -1,1 +1,1 @@
-# *规范认知心理学——见规范认知的心理学 psychology of normative cognition — see normative cognition, psychology of
+# 规范认知的心理学 normative cognition, psychology of (Daniel Kelly, Evan Westra, and Stephen Setman)

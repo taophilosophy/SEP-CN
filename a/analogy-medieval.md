@@ -1,1 +1,1 @@
-# 中世纪的类比理论 medieval theories of (E. Jennifer Ashworth and Domenic D’Ettore)
+# *类比——见中世纪的类比理论 analogy — see analogy: medieval theories of

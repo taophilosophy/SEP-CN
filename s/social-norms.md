@@ -1,1 +1,1 @@
-# *合作规范——见社会规范 norms of cooperation — see social norms
+# 社会规范 social norms (Cristina Bicchieri, Ryan Muldoon, and Alessandro Sontuoso)

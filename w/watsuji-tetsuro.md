@@ -1,1 +1,1 @@
-# *和辻哲郎——见和辻哲郎 Watsuji Tetsurō — see Watsuji Tetsurō
+# 和辻哲郎 Watsuji Tetsurō (Robert Carter and Erin McCarthy)

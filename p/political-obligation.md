@@ -1,1 +1,1 @@
-# *同意——见政治义务 consent — see political obligation
+# 政治义务 political obligation (Richard Dagger and David Lefkowitz)

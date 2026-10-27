@@ -1,1 +1,1 @@
-# *双重论证——见智者 Dissoi Logoi — see Sophists, The
+# 智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)

@@ -1,1 +1,1 @@
-# *自我——见自我欺骗 self — see self-deception
+# 自我欺骗 self-deception (Ian Deweese-Boyd)

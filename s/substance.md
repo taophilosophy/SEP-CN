@@ -1,1 +1,1 @@
-# *身体——见实体 body — see substance
+# 实体 substance (Howard Robinson and Ralph Weir)

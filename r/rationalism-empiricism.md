@@ -1,1 +1,1 @@
-# *经验主义——见理性主义与经验主义 empiricism — see rationalism vs. empiricism
+# 理性主义与经验主义 rationalism vs. empiricism (Peter Markie and M. Folescu)

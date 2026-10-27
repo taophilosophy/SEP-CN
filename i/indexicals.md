@@ -1,1 +1,1 @@
-# *指示词——见指代词 demonstratives — see indexicals
+# 指代词 indexicals (David Braun and Alexandru Radulescu)

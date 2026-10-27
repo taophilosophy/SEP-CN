@@ -1,1 +1,1 @@
-# 语义和语用中的默认 defaults in semantics and pragmatics (Katarzyna M. Jaszczolt)
+# *默认——见语义和语用中的默认 defaults in — see defaults in semantics and pragmatics

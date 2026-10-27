@@ -1,1 +1,1 @@
-# 自由意志 free will (Timothy O’Connor and Christopher Franklin)
+# *意志——见自由意志 volition — see free will

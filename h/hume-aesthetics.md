@@ -1,1 +1,1 @@
-# *休谟——见大卫·休谟：休谟的美学 Hume — see Hume, David: aesthetics
+# 休谟的美学 aesthetics (Theodore Gracyk)

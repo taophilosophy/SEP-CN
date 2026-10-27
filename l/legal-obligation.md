@@ -1,1 +1,1 @@
-# *法律——见法律义务和法律权威 legal — see legal obligation and authority
+# *法律——见法律权利 legal — see legal rights

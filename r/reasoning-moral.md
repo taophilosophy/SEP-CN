@@ -1,1 +1,1 @@
-# *决疑论——见推理：道德推理 casuistry — see reasoning: moral
+# 道德推理 moral (Henry S. Richardson)

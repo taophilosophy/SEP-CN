@@ -1,1 +1,1 @@
-# *伊本·鲁世德——见伊本·鲁世德） Averroes — see Ibn Rushd
+# 伊本·鲁世德 Ibn Rushd [Averroes] (Fouad Ben Ahmed and Robert Pasnau)

@@ -1,1 +1,1 @@
-# *罗素悖论——见罗素悖论 Russell’s paradox — see Russell’s paradox
+# 罗素悖论 Russell’s paradox (Harry Deutsch, Oliver Marshall, and Andrew David Irvine)

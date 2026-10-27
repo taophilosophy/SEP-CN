@@ -1,1 +1,1 @@
-# *古代的理论——见自由：古代自由与决定论理论 ancient theories of — see freedom: ancient theories of
+# *古代理论——见伦理学：古代伦理学 ancient theories of — see ethics: ancient

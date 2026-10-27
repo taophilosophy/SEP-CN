@@ -1,1 +1,1 @@
-# 认知悖论 epistemic paradoxes (Roy Sorensen)
+# *认知——见认知悖论 epistemic — see epistemic paradoxes

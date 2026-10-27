@@ -1,1 +1,1 @@
-# 子结构逻辑 substructural (Greg Restall)
+# *子结构逻辑 substructural logics — see logic: substructural

@@ -1,4 +1,4 @@
-# 斯坦福哲学百科全书简体中文版
+# *恩斯特·策梅洛 Zermelo, Ernst
 
 [原版英文目录](https://plato.stanford.edu/contents.html)
 

@@ -1,1 +1,1 @@
-# *规则——见法治与程序正义 rule of — see rule of law and procedural fairness
+# 法治与程序正义 rule of law and procedural fairness (Kristen Rundle and Jeremy Waldron)

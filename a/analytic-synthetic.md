@@ -1,1 +1,1 @@
-# 分析/综合的区别 analytic/synthetic distinction (Georges Rey)
+# *综合——见分析/综合的区别 synthetic — see analytic/synthetic distinction

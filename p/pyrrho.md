@@ -1,1 +1,1 @@
-# *阿那克萨库——见皮浪 Anaxarchus — see Pyrrho
+# 皮浪 Pyrrho (Richard Bett)

@@ -1,4 +1,4 @@
-* [版权说明](qian-yan/ban-quan-shuo-ming.md)
+# 分类目录
 * [日志与编辑规划](qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
 * [词汇表](qian-yan/ci-hui-biao.md)
 * [编辑信息](guan-yu/bian-ji-xin-xi.md)

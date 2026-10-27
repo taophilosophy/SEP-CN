@@ -1,1 +1,1 @@
-# *隐藏——见神的隐藏 hiddenness — see hiddenness of God
+# 神的隐藏性 hiddenness of God (Daniel Howard-Snyder and Adam Green)

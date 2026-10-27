@@ -1,1 +1,1 @@
-# *不确定性原理——见不确定性原理 uncertainty principle in — see Uncertainty Principle
+# 不确定性原理 Uncertainty Principle (Jan Hilgevoord and Jos Uffink)

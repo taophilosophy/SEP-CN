@@ -1,1 +1,1 @@
-# 连续性与无穷小 continuity and infinitesimals (John L. Bell)
+# *无限小——见连续性与无穷小 infinitesimals — see continuity and infinitesimals

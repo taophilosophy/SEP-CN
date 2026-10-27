@@ -1,1 +1,1 @@
-# *超越——见中世纪的超越理论 transcendentals — see transcendentals, medieval theories of
+# 中世纪的超越理论 transcendentals, medieval theories of (Wouter Goris and Jan Aertsen)

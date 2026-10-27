@@ -1,1 +1,1 @@
-# 数学哲学中的结构主义 structuralism (Erich Reck and Georg Schiemer)
+# *数学哲学：见数学哲学：数学哲学中的结构主义 in mathematics — see mathematics, philosophy of: structuralism

@@ -1,1 +1,1 @@
-# 奥卡姆的威廉 Ockham [Occam], William (Paul Vincent Spade, Claude Panaccio, and Jenny Pelletier)
+# *奥卡姆的威廉——见奥卡姆的威廉 William of Ockham — see Ockham, William

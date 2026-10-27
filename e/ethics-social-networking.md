@@ -1,1 +1,1 @@
-# *社交网络——见网络社交与伦理学 and social networking — see social networking and ethics
+# 网络社交与伦理学 social networking and ethics (Shannon Vallor)

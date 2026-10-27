@@ -1,1 +1,1 @@
-# 剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)
+# *本杰明·惠科特——见剑桥柏拉图学派 Whichcote, Benjamin — see Cambridge Platonists

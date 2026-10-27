@@ -1,1 +1,1 @@
-# *逆因果性——见量子力学：量子力学中的逆因果关系 retrocausality in quantum mechanics — see quantum mechanics: retrocausality
+# 量子力学中的逆因果关系 retrocausality (Simon Friederich and Peter W. Evans)

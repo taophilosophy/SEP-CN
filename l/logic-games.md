@@ -1,1 +1,1 @@
-# *逻辑——见逻辑学：逻辑与游戏 logic and — see logic: and games
+# 逻辑与游戏 and games (Wilfrid Hodges and Jouko Väänänen)

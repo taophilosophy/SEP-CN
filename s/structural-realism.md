@@ -1,1 +1,1 @@
-# *结构实在论 structural — see structural realism
+# 结构实在论 structural realism (James Ladyman)

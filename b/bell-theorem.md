@@ -1,1 +1,1 @@
-# 贝尔定理 Bell’s Theorem (Wayne Myrvold, Marco Genovese, and Abner Shimony)
+# *贝尔定理——见贝尔定理 Bell’s Theorem — see Bell’s Theorem

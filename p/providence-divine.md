@@ -1,1 +1,1 @@
-# *天意——见神意 providence — see providence, divine
+# 神意 providence, divine (Hugh J. McCann and Daniel M. Johnson)

@@ -1,1 +1,1 @@
-# 内部言语 inner speech (Daniel Gregory and Peter Langland-Hassan)
+# *内部言语 inner — see inner speech

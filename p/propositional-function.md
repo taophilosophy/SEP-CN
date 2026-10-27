@@ -1,1 +1,1 @@
-# *命题——见命题函项 propositional — see propositional function
+# 命题函项 propositional function (Edwin Mares)

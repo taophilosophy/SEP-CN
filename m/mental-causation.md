@@ -1,1 +1,1 @@
-# *心理——见心灵因果 mental — see mental causation
+# 心灵因果 mental causation (David Robb, John Heil, and Sophie Gibb)

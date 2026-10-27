@@ -1,1 +1,1 @@
-# 生物学个体 biological individuals (Robert A. Wilson and Matthew J. Barker)
+# *生物学个体——见生物学个体 individuals, biological — see biological individuals

@@ -1,1 +1,1 @@
-# 意义与内容的规范性 normativity of (Kathrin Glüer, Åsa Wikforss, and Marianna Ganapini)
+# *意义——见意义：意义和内容的规范性 meaning — see meaning: normativity of

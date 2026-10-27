@@ -1,1 +1,1 @@
-# *中国哲学中的伦理学——见中国哲学：中国伦理学 Chinese ethics — see Chinese Philosophy: ethics
+# *中国——见中国哲学：中国哲学中的伦理学 Chinese — see Chinese Philosophy: ethics

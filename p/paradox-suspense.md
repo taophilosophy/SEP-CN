@@ -1,1 +1,1 @@
-# *悬疑——见悬疑悖论 of suspense — see suspense, paradox of
+# 悬疑悖论 suspense, paradox of (Aaron Smuts)

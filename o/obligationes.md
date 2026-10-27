@@ -1,1 +1,1 @@
-# *义务——见中世纪的义务理论 obligationes — see obligationes, medieval theories of
+# 中世纪的义务理论 obligationes, medieval theories of (Mikko Yrjönsuuri)

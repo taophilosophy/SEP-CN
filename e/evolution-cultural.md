@@ -1,1 +1,1 @@
-# *文化演化——见进化：文化演化 cultural evolution — see evolution: cultural
+# 文化演化 cultural (Tim Lewens and Andrew Buskell)

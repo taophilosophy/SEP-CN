@@ -1,1 +1,1 @@
-# *图灵测试——见图灵测试 Turing test — see Turing test
+# 图灵测试 Turing test (Graham Oppy and David Dowe)

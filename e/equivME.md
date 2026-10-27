@@ -1,1 +1,1 @@
-# 质能等价 equivalence of mass and energy (Francisco Fernflores)
+# *质能等价——见质能等价 mass/energy equivalence — see equivalence of mass and energy

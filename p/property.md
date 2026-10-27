@@ -1,1 +1,1 @@
-# *财产和所有权——见财产和所有权 ownership, property and — see property and ownership
+# 财产和所有权 property and ownership (Jeremy Waldron and James Penner)

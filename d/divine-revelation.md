@@ -1,1 +1,1 @@
-# *启示——见神启 revelation — see revelation, divine
+# 神启 revelation, divine (Mats Wahlberg)

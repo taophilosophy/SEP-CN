@@ -1,1 +1,1 @@
-# *认识——见自我认识 knowledge — see self-knowledge
+# 自我认识 self-knowledge (Brie Gertler)

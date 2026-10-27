@@ -1,1 +1,1 @@
-# *逻辑 ——见逻辑学：行动的逻辑 logic of — see logic: action
+# 行动的逻辑 action (Krister Segerberg, John-Jules Meyer, and Marcus Kracht)

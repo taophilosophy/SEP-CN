@@ -1,1 +1,1 @@
-# *不自制——见意志薄弱 akrasia — see weakness of will
+# 意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)

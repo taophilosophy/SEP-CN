@@ -1,1 +1,1 @@
-# *阿坎哲学 Akan Philosophy
+# 韩国哲学 Korean Philosophy (Halla Kim)

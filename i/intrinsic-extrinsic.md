@@ -1,1 +1,1 @@
-# *外在性——见内在属性与外在属性 extrinsic — see intrinsic vs. extrinsic properties
+# 内在属性与外在属性 intrinsic vs. extrinsic properties (Dan Marshall and Brian Weatherson)
