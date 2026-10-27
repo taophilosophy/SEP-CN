@@ -31,7 +31,13 @@
 
 ## 已知例外（预期非失败）
 
-6 条撤稿/软 404 词条（`continental-rationalism`、`pineal-gland`、`qm-action-distance`、`scientific-explanation`、`time-experience`、`wisdom`）：在线 URL 软 404，抓取比较预期失败；**保留依据为归档版基线而非在线**（c75cc794 / 2eecf911 裁定）。审阅中标记 `expected_offline_404`，不计入失败。
+6 条撤稿留存词条（`continental-rationalism`、`pineal-gland`、`qm-action-distance`、`scientific-explanation`、`time-experience`、`wisdom`）：在线 URL 为撤稿页（横幅在 BEGIN/END ARTICLE 标记之外，正文仍可抓），冒烟实测 wisdom 在线正文与归档版基线**零漂移**；**保留依据为归档版基线**（c75cc794 / 2eecf911 裁定）。审阅照常执行比较；`expected_offline_404` 仅作防御性分类（若真返回 404/410 则归入此类，不计失败）。
+
+## 分级语义（2026-10-28 冒烟后定）
+
+* compare：`ok`（无变更）/ `changed`（有变更，工具已落盘变更文件）/ `error`（真异常）/ `expected_offline_404`（防御）。
+* integrity：`ok` / `finding`（硬问题，完整明细落 results/integrity/）。
+* math（check_math 退出码只由 missing 驱动）：`ok` / `warn`（unbalanced 渲染歧义警告，明细落 results/math/，不计 finding）/ `finding`（公式丢失，硬失真）。
 
 ## 验收标准
 
@@ -47,5 +53,5 @@
 * `specs/007-review-campaign/results/status.json` —— 检查点（断点续跑）
 * `specs/007-review-campaign/results/en-integrity-full.json` —— 全库收尾凭证
 * `specs/007-review-campaign/results/catalog-*.json` —— 目录层结果存档
-* `script/review_campaign.py` —— 驱动器（A–Z 顺序、并发、续跑）
+* `specs/007-review-campaign/bin/review_campaign.py` —— 驱动器（A–Z 顺序、路通道节拍、续跑；script/ 为不入库杂物抽屉，驱动器随战役归档入库）
 * 变更词条：`specs/001-sep-sync-pipeline/compare/<slug>.json`（工具自动产出）
