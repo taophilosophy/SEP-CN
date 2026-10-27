@@ -42,3 +42,5 @@ python tools/rebuild_dir.py verify     # 镜像缺口/extras/跟踪文件核对
 ## 时点注记（重要）
 
 本轮包生成所依据的 SUMMARY 工作副本（2026-10-27，含 1700+ 字母目录链接与 pending/ 项目页，2662 条）在英文侧构建期间已被并行会话整体重写（当前工作副本又回到旧结构形态，2652 条）。英文侧镜像锚定的是**构建时快照**，完整输入留档于 `all-items.json` 与 `packages/*.json`。**中文侧动工前必须对"当时"的 SUMMARY 重新跑 `packages`**，并先与并行会话确认 SUMMARY 的目标形态；本 README 的 missing/extras 数字只对快照负责。
+
+> 注：ADR-0005/0007/0008/0009 执行记录已统一为 [specs/001-sep-sync-pipeline/execution-log.md](../execution-log.md)（本目录仅存目录重建专项凭证：包/结果/清单）。

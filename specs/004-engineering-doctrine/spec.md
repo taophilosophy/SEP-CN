@@ -1,6 +1,6 @@
-# 004 · 13-engineering-doctrine 落地映射与技术债务登记
+# 004 · rules/reference/engineering-doctrine 落地映射与技术债务登记
 
-**状态**：Draft | **创建**：2026-10-27 | **来源**：用户指令"根据 13-engineering-doctrine 里面的软件工程理论学术要求规范治理整个项目，并根据实际不断迭代，分析目前的技术债务"
+**状态**：Draft | **创建**：2026-10-27 | **来源**：用户指令"根据 rules/reference/engineering-doctrine 里面的软件工程理论学术要求规范治理整个项目，并根据实际不断迭代，分析目前的技术债务"
 
 ## 一、Doctrine 门禁映射（G0–G5 ↔ 现行机制）
 
