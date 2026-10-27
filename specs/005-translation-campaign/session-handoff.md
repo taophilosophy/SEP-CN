@@ -28,7 +28,7 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 | intake | `python tools/summary_sync.py report` 查看 ADD 队列；逐条 `apply-add <slug> --title-zh "译名"`（译名先登记 yi-zhe-shuo-ming.md，沿用集群命名惯例） | `report` 队列清空 |
 | fetch | `python tools/fetch_entry.py $(python tools/campaign.py slugs <批>)`；`fetch_audit.py $(...)` 补缺件 | `campaign.py status` 该批 基线=总 |
 | convert | `python tools/yuanwen.py $(python tools/campaign.py slugs <批>)` | 该批 镜像=总 |
-| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → clear → draft → s1→s2→s3→r1→r2→r3 → done（s3/r3 学术挂钩自动拦截） | 该批 done=总 |
+| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → clear → draft → s1→s2→s3→r1→r2→r3 → done（s3/r3 学术挂钩自动拦截）；**骨架与元素映射一律照 [fan-yi-mu-ban.md](fan-yi-mu-ban.md)** | 该批 done=总 |
 | 收口 | `campaign.py advance <批> done`；`check_all` 全绿；G4 记录入 specs/001 execution-log | 批次 phase=done |
 
 每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。

@@ -1,0 +1,160 @@
+# SEP 词条统一翻译模板
+
+**版本**：v1.0（2026-10-28）｜**效力**：specs/005 审阅战役的操作模板，对全部 retranslate/update 词条任务生效；体例细则以 `rules/02-style.md` 为准，任务流程以 `rules/04-translation-workflow.md` 为准，术语以 `fang-fa-lun/gong-cheng-fang-fa.md` S1–S2 为准。冲突时规则 > 本模板；本模板不得与规则冲突。
+
+**依据**（零信任，可回溯）：① `baseline/entries.json` 全部 1878 条 SEP 真实页面的结构实测（2026-10-28，统计见 §1）；② 已过一校的演示词条 `a/alcmaeon.md`（任务 `tasks/a/alcmaeon.json`，state=s1_checked）；③ `yuanwen/` 逐字符镜像库的转换约定（`tools/yuanwen.py`，2026-10-28 全量复审计零缺陷）。SEP 官方作者手册在线路径不可达（/manual/ 404，礼貌抓取两试即止），页面结构以本地原始物实测为准——比手册更可靠，因为它就是 1878 条真实页面本身。
+
+## 1. SEP 词条页结构总览（实测）
+
+对 1878 条 `en/<slug>/index.html` 的统计：
+
+| 元素 | 出现率 | 说明 |
+| ---- | ---- | ---- |
+| citation_title / citation_author 元数据 | 100% | 标题与作者的唯一权威来源；34% 为多作者（638 条） |
+| pubinfo（首次发表/实质修订） | 100%（84% 含修订） | 版本钉来源（任务 JSON 的 version_pin） |
+| 导语段（无标题引言） | 100% | 摘要式开篇，TOC 之前 |
+| 编号章节（h2）+ 小节（h3） | 100% / 94% | `1. Title` / `1.1 Title` 形态 |
+| Academic Tools | 100% | 固定三件：How to cite / InPhO / PhilPapers |
+| Related Entries | 100% | 词条间导航列表 |
+| 致谢（Acknowledgments） | 39% | 常在 Related Entries 之后 |
+| notes.html（原文脚注） | 37%（690 条） | 正文 `<sup>[n]</sup>` 引到 notes 页 |
+| 补充材料 `<slug>.<x>.html` | 29%（546 件） | figdesc（图片描述页）占 3% |
+| 词条包内图片 | 13% 词条 / 约 1482 处引用 | 含点图放大的大图链 |
+| 数学定界符 `\(\)` / `\[\]` | 24% | 含 prooftree、align、xymatrix 等环境 |
+| 表格 | 100% 页面含 table 标签 | 正文数据表仅部分词条 |
+
+zh 侧译文按**同样的章节序**逐节对位翻译（便于逐节核销），但不复制原页的 TOC 与站点框架。
+
+## 2. 元素级映射总表（源 → zh 模板）
+
+| # | SEP 源元素 | zh 模板 | 示例（已验证的 alcmaeon 实测） |
+| ---- | ---- | ---- | ---- |
+| 1 | 页面标题 + 作者 | H1 = SUMMARY 条目文字：`# 中文名 English-name (Author1 and Author2)` | `# 克罗顿的阿尔克迈翁 Alcmaeon (Carl Huffman)` |
+| 2 | pubinfo | 正文首行斜体：`*首次发表于 YYYY 年 M 月 D 日；YYYY 年 M 月 D 日实质修订。*`（无修订则止于"首次发表"句） | `*首次发表于 2003 年 4 月 10 日；2025 年 7 月 18 日实质修订。*` |
+| 3 | 导语段（preamble） | 无标题，直接正文段落；作为摘要整体译出 | alcmaeon 第 5 行（"克罗顿的阿尔克迈翁（Alcmaeon of Croton）是……"） |
+| 4 | 编号章节 h2 | `## 1 中文名`——保留原编号、**去掉英文句点**、空格后接中文标题；`1.1` → `### 1.1 中文名`；层级不得跳级 | `## 1 生平与著作`；`### 1.1 医生还是哲学家？` |
+| 5 | 章节标题中的斜体/书名 | 标题内 `*斜体*` 保留；《书名》用书名号 | （照 rules/02 引号与书名号规则） |
+| 6 | 正文引用组 `(Author year, p. X)` | **原样保留**（作者姓、年份、页码不译）；文内编年引证照录 | `（Zhmud 2012a, 366; 2014, 100）` |
+| 7 | 引块（残篇、原始文本引文） | `>` 引用块；DK 等文献编号保留；引文译出，编号括注照录 | `> 克罗顿的阿尔克迈翁……说了如下的话……（DK 12B1）` |
+| 8 | 行内强调/书名 | `*斜体*`；著作名用《》，篇名用《》或引号按中文学术惯例 | 《形而上学》986a22 以下 |
+| 9 | 图片 `<img>` | `![图注](../yuanwen/assets/<slug>/<文件名>)`；图注（figlabel/caption）译出后作为图下一行斜体；reprinted with permission 必须在图注标明来源（rules/01） | 见 §4 图注骨架 |
+| 10 | 点图放大链 `<a href="X-large.gif">` | 大图与小图都按 #9 本地化引用；正文锚点 `图 N` 语义译出 | （yuanwen 侧已实现同款，键一致） |
+| 11 | 表格 | markdown 表格，`:---:` 居中（rules/02），单元格紧凑风格；`<caption>` 表题译出为表格前斜体行 | （rules/02 表格条款） |
+| 12 | 数学 `\(\)`/`\[\]`/环境 | 定界符转 `$…$` / `$$…$$`，LaTeX 内容**逐字符保留**（宪法 VI；含 prooftree、align、xymatrix）；`<sub>/<sup>` 转 `_{x}` / `^{x}` | （与 yuanwen 镜像逐字符一致，便于对照） |
+| 13 | 原文脚注 `<sup>[n]</sup>` → notes.html | `[^note-N]` 引用；文末 `## 脚注` 节列出 `[^note-N]: 译文`——**键名与 yuanwen 逐字符一致**（note-N；补充材料专用键 note-\<x\>-N 同理） | 见 §4 脚注骨架 |
+| 14 | Acknowledgments | `## 致谢`，整段译出 | （39% 词条适用） |
+| 15 | Academic Tools | `## 学术工具`——固定三行，链接原样：如何引用本词条（archinfo）/ InPhO / PhilPapers | alcmaeon 206–210 行 |
+| 16 | Other Internet Resources | `## 其他网络资源`——条目译出（条目名+说明），URL 原样；无条目时写 `[欢迎向作者提出建议。]` | alcmaeon 212–214 行 |
+| 17 | References / Bibliography | `## 参考文献` + 斜体说明行 `*以下文献从原文照录，不作翻译。*`；子标题（Texts and Commentaries 等）保留英文；条目逐字符照录——**中国文献条目（古今）一律译为中文**（ADR-0011） | alcmaeon 115–204 行 |
+| 18 | Related Entries | `## 相关词条`——SEP slug 对应的 SUMMARY 中文名，` | ` 分隔一行排布；站内链接由管线在对应词条重译完成后统一挂接（先以译注占位） | alcmaeon 216–220 行 |
+| 19 | 补充材料 `<slug>.<x>.html` | 独立文件 `<letter>/<slug>.<x>.md`；正文引用写 `（见[补充材料](<slug>.<x>.md)）`；文件首行 `# <英文标题中译>（<slug> 补充材料）`，第二行斜体版本行同 #2 | yuanwen 头为 `# <title> — <x>（supplement）`，zh 侧对位 |
+| 20 | figdesc（图片描述页） | 随其所属词条译为 `<slug>.figdesc.md`，作为无障碍描述保留 | （47 条适用） |
+| 21 | 正文交叉引用 `see X` | 语义译出（"见……"/"——见……"）；X 为词条时用 SUMMARY 中文名，未译词条按管线占位（同 #18） | SUMMARY 中 `\*…——见…` 行既有惯例 |
+| 22 | 译注 | `（译注：……）`单独成句，谨慎克制，仅补现状说明（rules/02） | alcmaeon 220 行 |
+
+## 3. 全局纪律（引用既有规则，不重复展开）
+
+1. **零信任**：底稿只用 `en/<slug>/index.html`（原始物）；可疑处回源核对；版本钉入任务 JSON（version_pin：pubinfo 日期 + 存档版 + SHA-256）。
+2. **术语先行**：新术语先登记 `yi-zhe-shuo-ming.md` 再进正文（fang-fa-lun S2）；正文用词与登记簿 grep 一致。
+3. **体例**：中文弯引号、中西文半角空格、禁止 HTML、禁止直角引号——`tools/check_style.py` 0 问题（rules/02 全条款适用）。
+4. **脚注键与文件名逐字符一致**：zh 侧 `[^note-N]`、`<slug>.<x>.md`、图片文件名与 yuanwen 完全一致——这是双库对照审校与管线挂链接的基础。
+5. **不译区**：引用组人名年份、参考文献非中文条目、LaTeX、URL、代码、DK/古代作品编号。
+6. **zh 图片路径裁定**：zh 词条位于 `<letter>/` 子目录，本地化资产在 `yuanwen/assets/<slug>/`，可解析的相对引用只有 `../yuanwen/assets/<slug>/<文件名>`——与 yuanwen 侧的 `../assets/<slug>/`（ADR-0010）**不同**；"双库镜像逐字符一致"指路径的对位结构（同资产、同文件名），不是 URL 字符串相同。**本条为 2026-10-28 新裁定，首个含图词条实跑时请用户确认。**
+
+## 4. zh 词条骨架（可复制）
+
+```markdown
+# <SUMMARY 条目文字：中文名 English-name (Authors)>
+
+*首次发表于 YYYY 年 M 月 D 日；YYYY 年 M 月 D 日实质修订。*
+
+<导语段（无标题，摘要式开篇，整体译出）>
+
+## 1 <章节名>
+
+### 1.1 <小节名>
+
+<正文段落。行内引用组原样保留（Author 2012, 366）。>
+
+> 引块：原始文本/残篇译文……（DK 12B1）
+
+![<图注译文>](../yuanwen/assets/<slug>/<imageN.jpg>)
+
+*<图注：Figure N：……（reprinted with permission 时注明来源）。>*
+
+$$<展示公式，LaTeX 逐字符保留>$$
+
+正文脚注引出处[^note-1]。
+
+## 2 <章节名>
+
+## 参考文献
+
+*以下文献从原文照录，不作翻译。*
+
+### <原小节标题保留英文>
+
+* <文献条目逐字符照录（中国文献条目译为中文，ADR-0011）。>
+
+## 学术工具
+
+* [如何引用本词条](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=<slug>)。
+* 在 [InPhO](https://www.inphoproject.org/entity?sep=<slug>&redirect=True) 查找与本词条相关的话题与思想家。
+* 在 [PhilPapers](https://philpapers.org/sep/<slug>/) 查看本词条的增强文献目录及其数据库链接。
+
+## 其他网络资源
+
+* <条目名译出，说明译出，URL 原样。>
+
+## 相关词条
+
+<中文词条名> | <中文词条名> | <中文词条名>
+
+*（译注：相关词条的中文站内链接将由管线在对应词条重译完成后统一挂接。）*
+
+## 致谢
+
+<致谢段译出；源页面无致谢则整节省略。>
+```
+
+**尾部节顺序固定为源的章节序**（实测：参考文献 → 学术工具 → 其他网络资源 → 相关词条 → 致谢，aquinas/alcmaeon 双验）：正文之后依次为 脚注（有则）→ 参考文献 → 学术工具 → 其他网络资源 → 相关词条 → 致谢（有则）；缺失的节整节省略，不造空节。
+
+可选节按源页面实际有无决定——`## 脚注`（37% 词条）：
+
+```markdown
+## 脚注
+
+[^note-1]: <脚注译文>（脚注内的公式与引用组按正文同规则处理。）
+```
+
+表格与表题的形态（表题译出为表格前的斜体行，表格居中紧凑风格）：
+
+```markdown
+*Table 3：<表题译文>*
+
+| <表头> | <表头> |
+| :---: | :---: |
+| <数据> | <数据> |
+```
+
+## 5. 元素 → 门禁对照（每节译完自查）
+
+| 模板元素 | 检查钩子 |
+| ---- | ---- |
+| 全文体例（引号/空格/禁 HTML） | `tools/check_style.py --docs <路径> --strict` |
+| 术语一致性 | `tools/check_terms.py` + 登记簿 grep（fang-fa-lun S3 三校） |
+| 学术规范挂钩 | `tools/check_academic.py --docs <路径> --strict` |
+| 数学定界符 | `tools/check_math.py <slug>` |
+| 图片引用可解析、无悬空 | `check-images.yml`（CI）+ yuanwen 审计脚本 |
+| H1 与 SUMMARY 一致 | `tools/check_summary.py`（CI 改写为 SUMMARY 文字） |
+| 脚注键与 yuanwen 一致 | 双库对照（键名 diff） |
+| 词汇表发布 | `script/glossary_lint.py`（任务收尾） |
+
+## 6. 演示与修订
+
+* 本模板 v1.0 由 alcmaeon（一校通过）验证主体骨架；**图片、脚注、数学、表格四类元素尚无已过校词条实跑**——首个命中该元素的词条即该元素的演示件，演示发现的问题按 rules/04"演示与纠偏循环"回修本模板。
+* 修订记录追加于此表（同 fang-fa-lun S10 纪律，git 历史为准）：
+
+| 版本 | 日期 | 要点 |
+| ---- | ---- | ---- |
+| v1.0 | 2026-10-28 | 首版：结构总览（1878 条实测）+ 22 项元素映射 + 骨架 + 门禁对照；zh 图片路径等五项裁定待首跑确认 |
