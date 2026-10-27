@@ -11,7 +11,10 @@
 | qm-action-distance | HTTP 200 | 保留：同上 |
 | scientific-explanation | HTTP 200 | 保留：同上；其子条目 scientific-explanation-20th 等在 ADD 队列 |
 | time-experience | HTTP 200 | 保留：文件已由 the-experience-and-perception-of 改名归位 |
-| ~~wisdom~~ | HTTP 200（软 404） | **改判删除**：fetch_entry 软 404 检测显示该 URL 返回 SEP 错误页（词条已撤稿），初判仅凭 HTTP 200 有误；上游目录以无链接集群头呈现 wisdom、子条目 wisdom-analytic（ADD 队列）为唯一后继。已删行+文件+账本记录 |
+| wisdom | HTTP 200（软 404） | **保留（2026-10-28 复核改回，恢复已删行+文件+账本记录）**：六条的 /entries/ URL 同为软 404（"HTTP 200=在线"系误读），在册依据同为归档版基线——wisdom@fall2023 经 --archive-edition 建基线（index.html+notes.html），与五条同案同判；上游集群头呈现与 wisdom-analytic 后继不构成删除理由（scientific-explanation 同构而保留） |
+
+
+> **2026-10-28 复核事实更正**：本表 6 条保留项的 /entries/<slug>/ URL 全部返回 SEP 软 404 错误页（HTTP 200 + "Document Not Found" 正文），"词条在线"的初判依据不成立；六条保留的实际依据是**归档版基线**（--archive-edition 抓取，见 baseline/entries.json 各条 archive_edition 字段与 execution-log 2026-10-28 续篇）。6 条同案同判，均保留。
 
 已实际执行的删除（ upstream 404/无身份，证据同为 URL 探测与目录缺席）：
 

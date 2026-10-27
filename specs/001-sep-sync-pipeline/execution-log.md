@@ -120,3 +120,9 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **fetch_audit 闭包语义定稿**：扩展名枚举（png/pdf/js/css…）曾漏掉 russell 的 .au/.qt/.wav 媒体引用——改为**文件名形状判定**（`[A-Za-z0-9][A-Za-z0-9._-]*\.[…]`）：一切形如文件名的裸引用皆词条包资产，锚点残留/实体残片/纯词不收。tools/tests/test_fetch_audit.py 三项（媒体收编、注释/实体/站点框架排除、垃圾形态排除）。
 * **en_integrity 缺省件感知**：与 fetch-audit-full.json 凭证联动——fetch_audit 已探明上游 404 的缺省件（pineal-gland 撤稿页 6 图、scientific-explanation/local.js）由硬发现降为信息级 default_absent；本轮终态 default_absent=0（并行会话重抓撤稿页后引用已消失，两证据收敛一致）。
 * **结论**：镜像复核门禁已在 intake 并发窗口下实测收敛；新词条包落库即被下一轮扫描捕获，补抓后归零——「扫描→补抓→重扫」闭环可持续例行化。
+
+## wisdom 改判冲突复核与恢复 — 2026-10-28（复核三）
+
+* **冲突**：c75cc794 依"软 404 检测"删除 wisdom（SUMMARY 行+mu-lu-s 行+w/wisdom.md+基线登记），与同批保留的 5 条撤稿词条（pineal-gland 等）同案异判，且与用户已批准的"6 条撤稿词条保留"裁定相悖。
+* **事实更正**：6 条的 /entries/<slug>/ URL **全部**为软 404（HTTP 200+错误页正文）；"HTTP 200=词条在线"对六条均不成立。六条保留的真实共同依据是**归档版基线**（--archive-edition，见 entries.json archive_edition 字段）。
+* **处置**：恢复 wisdom 全部四处登记（SUMMARY/mu-lu-s/w/wisdom.md/baseline，归档版 fall2023 重抓 upsert），裁定文档 wisdom 行改回保留并加事实更正块。六条同案同判；REMOVE 候选余 6 条（即六条撤稿保留项），逐条裁定见 contents-removal-adjudication.md，下一次 report 重生成时以裁定文档为准。

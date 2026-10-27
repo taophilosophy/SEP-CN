@@ -119024,7 +119024,21 @@
           "kind": "image"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/q/qm.md",
+        "sha256": "91cd3a260df251bc8f04f3e740e8b4986beb892c721af536dd61a452e36a6e7f",
+        "source_sha256": "a81e37b72b9d4ce0994700ad175131e45c9046d4d51e7f6ca60bf477f15ff1bb",
+        "converted_at": "2026-10-27T18:49:36Z",
+        "cite_markers": 0,
+        "cite_defs": 42,
+        "supplements": [],
+        "images": [
+          "yuanwen/assets/qm/figure1.gif",
+          "yuanwen/assets/qm/figure2.gif"
+        ],
+        "notes": 13
+      }
     },
     {
       "slug": "qm-action-distance",
@@ -122347,7 +122361,7 @@
         "md": "yuanwen/r/rationalism-empiricism.md",
         "sha256": "c5b0464d2bde2811ed900501e0c2c0d0d13b2eeba2dad81b4fb5531cc3c6e3c9",
         "source_sha256": "3bef59d02c84dea7771b96bd579e29f7b696cb1f7d7bfd25ae97fd18dc2543da",
-        "converted_at": "2026-10-27T18:25:14Z",
+        "converted_at": "2026-10-27T18:49:37Z",
         "cite_markers": 13,
         "cite_defs": 46,
         "supplements": [],
@@ -123169,7 +123183,23 @@
           "kind": "image"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/r/realism-sem-challenge.md",
+        "sha256": "492ebde8080412febf51217d2c6a00d3218948caa237972f88a3d1ca511b3cf0",
+        "source_sha256": "9a59ae060547d98097796c2807eb71bb1300fc0fb5327e018fc8af34806641c5",
+        "converted_at": "2026-10-27T18:49:38Z",
+        "cite_markers": 80,
+        "cite_defs": 195,
+        "supplements": [
+          "realism-sem-challenge.model-theory-completeness.md",
+          "realism-sem-challenge.model-theory.md"
+        ],
+        "images": [
+          "yuanwen/assets/realism-sem-challenge/figure.png"
+        ],
+        "notes": 12
+      }
     },
     {
       "slug": "realism-theory-change",
@@ -123395,7 +123425,7 @@
         "md": "yuanwen/r/reasoning-automated.md",
         "sha256": "0ab2ae247d0845b127dbd9f1c557fc66717656fa4a2b3df237e38819a034e1b9",
         "source_sha256": "aa14997e67884ad3e570198f40662f52253ea506acbb4dc883ff185385803d6a",
-        "converted_at": "2026-10-27T18:25:19Z",
+        "converted_at": "2026-10-27T18:49:38Z",
         "cite_markers": 174,
         "cite_defs": 214,
         "supplements": [],
@@ -124051,7 +124081,7 @@
         "md": "yuanwen/r/recursive-functions.md",
         "sha256": "cc6241d19a69d90480dc9cd187056289d6998e05f151cd3c81e2109539626fea",
         "source_sha256": "5fa44199c0133e1382ef9bd1dcc0ab8e447c0ebf9b33b39a75b129d1cd27a6d7",
-        "converted_at": "2026-10-27T18:25:22Z",
+        "converted_at": "2026-10-27T18:49:39Z",
         "cite_markers": 74,
         "cite_defs": 150,
         "supplements": [
@@ -124650,7 +124680,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/r/reid-ethics.md",
+        "sha256": "e25d54b868ce25e125e7ef3cf7bb0109c6a64ef3831111ade7f8801c30c81c42",
+        "source_sha256": "cd9323a4f6375f219abb145664244d459dd091db4bb2b4594eb7f6a4952a2936",
+        "converted_at": "2026-10-27T18:49:39Z",
+        "cite_markers": 48,
+        "cite_defs": 67,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "reid-memory-identity",
@@ -124991,7 +125032,18 @@
           "kind": "notes"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/r/relations-medieval.md",
+        "sha256": "d3f6cd9ba4496f18caf120141b7b4716ca7212e2ecab93b594fcbf1acec3c959",
+        "source_sha256": "2125e2eb64ad12974b0807f69d769d5ab8c563f79c85a8d296b098a58f987f22",
+        "converted_at": "2026-10-27T18:49:40Z",
+        "cite_markers": 7,
+        "cite_defs": 74,
+        "supplements": [],
+        "images": [],
+        "notes": 52
+      }
     },
     {
       "slug": "relativism",
@@ -125091,7 +125143,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/r/relativism.md",
+        "sha256": "f67576bff9a655cb0f94762e4e9da13ab3f0a7159f8985f38613c266dc656a8f",
+        "source_sha256": "0a507898ae4c7a393aaad7d9f11b79eb861652062ccdd30600f66b0a1d2be359",
+        "converted_at": "2026-10-27T18:49:40Z",
+        "cite_markers": 174,
+        "cite_defs": 253,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "reliabilism",
@@ -126788,7 +126851,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/r/rights-children.md",
+        "sha256": "e215e0f3e3537c7e79e7a8bde6af9de556ee1b892cb2addbba0c073871786034",
+        "source_sha256": "829efa7bb0cfbc0360a257a6dc28cfc4abf96135e601dd15de75a6395f321c9a",
+        "converted_at": "2026-10-27T18:49:41Z",
+        "cite_markers": 68,
+        "cite_defs": 81,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "rights-group",
@@ -128389,7 +128463,7 @@
         "md": "yuanwen/r/ryle.md",
         "sha256": "cdcae888bdf0936b5b3b4e38ccf5d62a98af34ccf743292e6e7fbc6aff1531f3",
         "source_sha256": "12b628005b35ce5723c41cd692c941ac6f8feda579718576c0d3ee9c59305860",
-        "converted_at": "2026-10-27T18:25:39Z",
+        "converted_at": "2026-10-27T18:49:41Z",
         "cite_markers": 6,
         "cite_defs": 69,
         "supplements": [
@@ -129596,7 +129670,7 @@
         "md": "yuanwen/s/school-names.md",
         "sha256": "5459387a0a02bd55dd97d8bed1772526551af29ba4380e8f4f08db76665aebc0",
         "source_sha256": "63f0374094e7dfbc0071f2b1e3cbbec332e31168aa4fb02dcc2ed697477fe152",
-        "converted_at": "2026-10-27T18:25:44Z",
+        "converted_at": "2026-10-27T18:49:42Z",
         "cite_markers": 21,
         "cite_defs": 80,
         "supplements": [
@@ -129784,7 +129858,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/schopenhauer-aesthetics.md",
+        "sha256": "3cbbeb6bf687b0f4415ae69c2d651ab2bd35f77e297030cb760bdd3b70d4f4f4",
+        "source_sha256": "0f711f8cf7ac90d0940c3de2d8f3f7b4daff2887b44b3be81a9479fb9308dbf2",
+        "converted_at": "2026-10-27T18:49:42Z",
+        "cite_markers": 35,
+        "cite_defs": 59,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "schutz",
@@ -129880,7 +129965,7 @@
         "md": "yuanwen/s/schutz.md",
         "sha256": "2cbfa8a045f07ba00055b2df49ecb785ee2872f25aed31d432bf1dc28855bf58",
         "source_sha256": "e8f17907295bd3fbd70fd028ee1a9a0c3c5463e552f2d7e46273a0924ade55dc",
-        "converted_at": "2026-10-27T18:25:45Z",
+        "converted_at": "2026-10-27T18:49:42Z",
         "cite_markers": 21,
         "cite_defs": 89,
         "supplements": [],
@@ -131537,7 +131622,18 @@
           "kind": "notes"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/selection-units.md",
+        "sha256": "8c9e6d3e2c12f206e52316e9805873ba1621bede14fbf7181bc4ee0e3fc3f7a7",
+        "source_sha256": "bbd5bb6c36a160c1f80e9c72490fe693ca860867c91aee252f6224dd28537963",
+        "converted_at": "2026-10-27T18:49:43Z",
+        "cite_markers": 756,
+        "cite_defs": 556,
+        "supplements": [],
+        "images": [],
+        "notes": 143
+      }
     },
     {
       "slug": "self-consciousness",
@@ -131695,7 +131791,18 @@
           "kind": "notes"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/self-consciousness-phenomenological.md",
+        "sha256": "03d070ebd9425a42747cb08f55dc50198f6093ae6a89158ad24087e2296731c9",
+        "source_sha256": "56382c17fe5af76a6126bc54756249ab6557d1872a9685b6da172071cdf71da6",
+        "converted_at": "2026-10-27T18:49:44Z",
+        "cite_markers": 92,
+        "cite_defs": 108,
+        "supplements": [],
+        "images": [],
+        "notes": 7
+      }
     },
     {
       "slug": "self-deception",
@@ -131919,7 +132026,20 @@
           "kind": "supplement"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/self-knowledge.md",
+        "sha256": "998544011cdd8ef1dbbc4b6c2f65e05657b0a11d6251cc52ed41b09cf94b76e9",
+        "source_sha256": "1aeea6797ada65f113e0029c5d0575b9977cc4b9b536a5b89e9577f2da86d1fc",
+        "converted_at": "2026-10-27T18:49:44Z",
+        "cite_markers": 111,
+        "cite_defs": 135,
+        "supplements": [
+          "self-knowledge.supplement.md"
+        ],
+        "images": [],
+        "notes": 11
+      }
     },
     {
       "slug": "self-knowledge-externalism",
@@ -133219,7 +133339,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/shaftesbury.md",
+        "sha256": "69f72dcf7915bd374bcbd66dcc02cb9ae22f25536c1ebe629b1982b6089d5954",
+        "source_sha256": "3c1223daec264017fd457ec2cac950963239f821c40a885819b47f16e9db50f5",
+        "converted_at": "2026-10-27T18:49:44Z",
+        "cite_markers": 192,
+        "cite_defs": 151,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "shankara",
@@ -135181,7 +135312,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/s/smith-moral-political.md",
+        "sha256": "0d10f95da55e01a334b41e00dcd3297adcbbef2a5454a547e41f52483d64060d",
+        "source_sha256": "d0503255a3afd33cbbd92c8f58a6330175026c7dc6d5943fbae78e6d774ea722",
+        "converted_at": "2026-10-27T18:49:45Z",
+        "cite_markers": 54,
+        "cite_defs": 66,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "social-choice",
@@ -135509,7 +135651,7 @@
         "md": "yuanwen/s/social-norms.md",
         "sha256": "c67c79f81f6ed6d5b93dbaca0446685153acbf04cd81d1f0733d991c7b89f672",
         "source_sha256": "6f42ab71c57084e42ee40667a81c49a4f01534a696487ea509a65196ec33c7ba",
-        "converted_at": "2026-10-27T18:26:09Z",
+        "converted_at": "2026-10-27T18:49:45Z",
         "cite_markers": 117,
         "cite_defs": 151,
         "supplements": [],
@@ -136901,7 +137043,7 @@
         "md": "yuanwen/s/spacetime-holearg.md",
         "sha256": "5158bcd5f24e64310896cceb2bd72feaac3ee2d4e1bd681c8797c8d35f90897e",
         "source_sha256": "5be8592f6a7840d7be1c2c223f3d112215f6920b1effe377e5eeab394a6f46fb",
-        "converted_at": "2026-10-27T18:26:14Z",
+        "converted_at": "2026-10-27T18:49:46Z",
         "cite_markers": 0,
         "cite_defs": 86,
         "supplements": [
@@ -143622,7 +143764,7 @@
         "md": "yuanwen/t/torture.md",
         "sha256": "90f590fcb3e0ab6c7119209dcc86ebf1b7e10f6ba0f414c08e1172c6d8eda37c",
         "source_sha256": "421cae7846217faf2eb46afb2f58b1ab2149779897ec16446e665988b49f640d",
-        "converted_at": "2026-10-27T18:26:42Z",
+        "converted_at": "2026-10-27T18:49:46Z",
         "cite_markers": 76,
         "cite_defs": 91,
         "supplements": [],
@@ -143960,7 +144102,7 @@
         "md": "yuanwen/t/transcendentals-medieval.md",
         "sha256": "530b407c698cb3a64e3768dd171ac32ebe7583e36eb6885a11926609458ce3ff",
         "source_sha256": "c5652e8ae428b702af18d21d697e159d94de9e8642408982d3661c122025b05a",
-        "converted_at": "2026-10-27T18:26:43Z",
+        "converted_at": "2026-10-27T18:49:47Z",
         "cite_markers": 19,
         "cite_defs": 47,
         "supplements": [],
@@ -146150,7 +146292,7 @@
         "md": "yuanwen/t/two-dimensional-semantics.md",
         "sha256": "8f76fe92abd63fb53938a522f74238de023e76b8d30516dfeddda7629c8ed61d",
         "source_sha256": "38ee1b3c57272d3638927820f8b1b79b6ff32d2aa064318edf9c888377d688f0",
-        "converted_at": "2026-10-27T18:26:52Z",
+        "converted_at": "2026-10-27T18:49:47Z",
         "cite_markers": 84,
         "cite_defs": 182,
         "supplements": [
@@ -146614,7 +146756,7 @@
         "md": "yuanwen/t/typelogical-grammar.md",
         "sha256": "636ba0d437a0fd594c8e73e89cf2a44f0dc440e0f628a0f234c173db86e22f8f",
         "source_sha256": "aa68cc3932933f1d7246c3ff495d80f007df7711887f6f5b870ab377ba26c76e",
-        "converted_at": "2026-10-27T18:26:54Z",
+        "converted_at": "2026-10-27T18:49:48Z",
         "cite_markers": 32,
         "cite_defs": 90,
         "supplements": [],
@@ -147578,7 +147720,7 @@
         "md": "yuanwen/v/vegetarianism.md",
         "sha256": "3dd6675a020cd40490759c411cac9575e947643ffe3a7cd0b60820cf8693d98a",
         "source_sha256": "82f209878391c53c2f051fc080588e7a382a31f0781cbd09888b061fc0da1f58",
-        "converted_at": "2026-10-27T18:26:58Z",
+        "converted_at": "2026-10-27T18:49:48Z",
         "cite_markers": 110,
         "cite_defs": 218,
         "supplements": [],
@@ -148724,7 +148866,7 @@
         "md": "yuanwen/w/wesley-salmon.md",
         "sha256": "15d03faa7cf6770e18c74dee7fed9a1b673aaba1b7c1c5fa509eba82c6e6ddd0",
         "source_sha256": "e9f14b1807114a16ccd3f91df26d43ac50d064560db7ef4ce0ab444b9d5e8a35",
-        "converted_at": "2026-10-27T18:27:03Z",
+        "converted_at": "2026-10-27T18:49:48Z",
         "cite_markers": 19,
         "cite_defs": 112,
         "supplements": [],
@@ -149851,6 +149993,40 @@
         "images": [],
         "notes": 0
       }
+    },
+    {
+      "slug": "wisdom",
+      "fetched_at": "2026-10-27T19:02:10Z",
+      "source_url": "https://plato.stanford.edu/archives/fall2023/entries/wisdom/",
+      "title": null,
+      "authors": [],
+      "pubinfo": {
+        "first_published": "Jan 8, 2007",
+        "substantive_revision": "Feb 4, 2013"
+      },
+      "in_article_markers": true,
+      "zh_doc": "w/wisdom.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": "fall2023",
+      "files": [
+        {
+          "path": "en/wisdom/index.html",
+          "sha256": "426a7c4138b12294f92e7f7e3f03b95c4d9aa2a3f025b3f28dd4ce2680f0d193",
+          "bytes": 52274,
+          "kind": "main"
+        },
+        {
+          "path": "en/wisdom/notes.html",
+          "sha256": "3aff00de202386a85f90c36b6cfb0c78ebb8f1784851f164bab89dcca7a192e2",
+          "bytes": 11887,
+          "kind": "notes"
+        }
+      ],
+      "missing": []
     },
     {
       "slug": "wisdom-analytic",
@@ -151560,5 +151736,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-27T18:49:36Z"
+  "updated_at": "2026-10-27T19:02:12Z"
 }
