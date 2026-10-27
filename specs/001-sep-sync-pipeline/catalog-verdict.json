@@ -1,11 +1,25 @@
 {
-  "generated_at": "2026-10-27T15:05:11Z",
+  "generated_at": "2026-10-27T17:06:46Z",
   "add": [
     {
       "slug": "abortion",
       "title_en": "abortion, ethics of",
       "authors": "Elizabeth Harman",
       "proposed_file": "a/abortion.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "aesthetics-critical-theory",
+      "title_en": "in critical theory",
+      "authors": "Owen Hulatt",
+      "proposed_file": "a/aesthetics-critical-theory.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "aesthetics-race",
+      "title_en": "and race",
+      "authors": "Monique Roelofs",
+      "proposed_file": "a/aesthetics-race.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -55,6 +69,20 @@
       "title_en": "animal thought",
       "authors": "Laura Danón",
       "proposed_file": "a/animal-thought.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "arabic-islamic-liar",
+      "title_en": "in Arabic and Islamic Philosophy",
+      "authors": "Ahmed Alwishah and David Sanson",
+      "proposed_file": "a/arabic-islamic-liar.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "bioethics-latin-america",
+      "title_en": "in Latin American",
+      "authors": "Gustavo Ortiz Millán, Florencia Luna, and Eduardo Rivera López",
+      "proposed_file": "b/bioethics-latin-america.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -121,6 +149,20 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "descartes-ethics",
+      "title_en": "ethics",
+      "authors": "Denis Kambouchner and Louis Rouquayrol",
+      "proposed_file": "d/descartes-ethics.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "disability-well-being",
+      "title_en": "and well-being",
+      "authors": "Stephen M. Campbell, Joseph A. Stramondo, and David Wasserman",
+      "proposed_file": "d/disability-well-being.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "doxastic-voluntarism",
       "title_en": "doxastic voluntarism",
       "authors": "Mark Boespflug and Elizabeth Jackson",
@@ -128,10 +170,24 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "economic-democracy",
+      "title_en": "economic",
+      "authors": "Lisa Herzog",
+      "proposed_file": "e/economic-democracy.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "engels",
       "title_en": "Engels, Friedrich",
       "authors": "Matt Shafer",
       "proposed_file": "e/engels.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "epistemology-ai",
+      "title_en": "epistemology of",
+      "authors": "Claus Beisbart",
+      "proposed_file": "e/epistemology-ai.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -191,6 +247,13 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "ideology",
+      "title_en": "ideology",
+      "authors": "William Clare Roberts",
+      "proposed_file": "i/ideology.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "john-italos",
       "title_en": "Italos, John",
       "authors": "András Kraft",
@@ -209,6 +272,20 @@
       "title_en": "Langer, Susanne",
       "authors": "Juliet Floyd",
       "proposed_file": "l/langer.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "locke-on-medicine",
+      "title_en": "on medicine",
+      "authors": "Jonathan Craig Walmsley",
+      "proposed_file": "l/locke-on-medicine.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "logic-preference",
+      "title_en": "preference",
+      "authors": "Fenrong Liu and Leon van der Torre",
+      "proposed_file": "l/logic-preference.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -268,6 +345,34 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "moral-responsibility-empirical",
+      "title_en": "empirical approaches",
+      "authors": "Chandra Sripada",
+      "proposed_file": "m/moral-responsibility-empirical.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "music",
+      "title_en": "philosophy of",
+      "authors": "Andrew Kania",
+      "proposed_file": "m/music.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "nietzsche-aesthetics",
+      "title_en": "aesthetics",
+      "authors": "Timothy Stoll",
+      "proposed_file": "n/nietzsche-aesthetics.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "nominalism-metaphysics",
+      "title_en": "in metaphysics",
+      "authors": "Sam Cowling and Daniel Giberman",
+      "proposed_file": "n/nominalism-metaphysics.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "ontology-is",
       "title_en": "and information systems",
       "authors": "Adam Pease",
@@ -290,8 +395,8 @@
     },
     {
       "slug": "plato-laws",
-      "title_en": "<em>Laws</em>",
-      "authors": [],
+      "title_en": "Laws",
+      "authors": "Chris Bobonich and Katherine Meadows",
       "proposed_file": "p/plato-laws.md",
       "disposition": "ADD（需人工定中文标题）"
     },
@@ -324,6 +429,13 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "realism-about-metaphysics",
+      "title_en": "realism and anti-realism about",
+      "authors": "Mark Balaguer",
+      "proposed_file": "r/realism-about-metaphysics.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "religion-comparative",
       "title_en": "comparative philosophy of",
       "authors": "Mikel Burley",
@@ -338,17 +450,17 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "religion-morality",
-      "title_en": "and morality in western philosophy",
-      "authors": "John Hare and Jennifer Herdt",
-      "proposed_file": "r/religion-morality.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "religious-commitment-reason",
       "title_en": "religious commitment and reason",
       "authors": "J. L. Schellenberg",
       "proposed_file": "r/religious-commitment-reason.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "scientific-explanation-20th",
+      "title_en": "20th century theories",
+      "authors": "James Woodward and Lauren Ross",
+      "proposed_file": "s/scientific-explanation-20th.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -373,10 +485,24 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "srigupta",
+      "title_en": "Śrīgupta",
+      "authors": "Allison Aitken",
+      "proposed_file": "s/srigupta.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "theodicies",
       "title_en": "theodicies",
       "authors": "Laura W. Ekstrom",
       "proposed_file": "t/theodicies.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "trans",
+      "title_en": "trans philosophy",
+      "authors": "Perry Zurn",
+      "proposed_file": "t/trans.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -410,383 +536,18 @@
   ],
   "remove": [
     {
-      "line": 23,
-      "path": "a/aristotle-de-motu.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 24,
-      "path": "s/shared-agency.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 43,
-      "path": "c/collingwood-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 47,
-      "path": "d/dewey-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 53,
-      "path": "g/gadamer-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 55,
-      "path": "g/goodman-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 56,
-      "path": "h/hegel-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 57,
-      "path": "h/heidegger-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 58,
-      "path": "h/hume-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 59,
-      "path": "j/japanese-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 60,
-      "path": "p/plato-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 61,
-      "path": "s/schopenhauer-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 63,
-      "path": "w/wittgenstein-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 69,
-      "path": "a/africana-contemporary.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 74,
-      "path": "s/shared-agency.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 105,
-      "path": "a/altruism-biological.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 121,
-      "path": "a/aristotle-commentators.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 138,
-      "path": "a/aquinas-moral-political.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 164,
-      "path": "a/aristotle-commentators.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 167,
-      "path": "a/aristotle-commentators.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 198,
-      "path": "a/artificial-intelligence.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 218,
-      "path": "p/properties.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 225,
-      "path": "a/authority.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 232,
-      "path": "i/ibn-rushd-natural.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 235,
-      "path": "i/ibn-sina-logic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 237,
-      "path": "i/ibn-rushd-natural.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 255,
-      "path": "t/time.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 257,
-      "path": "b/belief.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 273,
-      "path": "b/biodiversity.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 276,
-      "path": "i/information-biological.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 282,
-      "path": "r/reduction-biology.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 310,
-      "path": "d/death-definition.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 313,
-      "path": "b/brentano-judgement.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 320,
-      "path": "k/korean-buddhism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 373,
-      "path": "c/ceteris-paribus.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 398,
-      "path": "d/daoism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 458,
-      "path": "p/physics-Rpcc.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 489,
-      "path": "c/counterfactuals.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 496,
-      "path": "j/japanese-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 497,
-      "path": "k/korean-buddhism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 518,
-      "path": "c/consequentialism-rule.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
       "line": 528,
       "path": "c/continental-rationalism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 535,
-      "path": "c/convention.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 548,
-      "path": "c/counterfactuals.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 571,
-      "path": "d/daoism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
       "line": 622,
-      "path": "a/and-the-pineal-gland.md",
+      "path": "p/pineal-gland.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 635,
-      "path": "e/evolution-development.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 663,
-      "path": "d/disagreement.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 672,
-      "path": "j/justice-moral-psych.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 684,
-      "path": "d/divine-simplicity.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 706,
-      "path": "e/ecological-genetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 712,
-      "path": "r/ramsey-economics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 731,
-      "path": "f/fiction-emotion-response.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 736,
-      "path": "m/moral-character-empirical.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 739,
-      "path": "e/empiricism-ancient-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 743,
-      "path": "l/logical-consequence.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 763,
-      "path": "m/moral-epistemology-a-priori.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 772,
-      "path": "e/equal-ed-opportunity.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 794,
-      "path": "i/identity-ethics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 829,
-      "path": "e/evidence-legal.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 837,
-      "path": "e/evolution-before-darwin.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 844,
-      "path": "e/existentialism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 917,
-      "path": "f/fiction-emotion-response.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 919,
-      "path": "f/fictionalism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 920,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 940,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 956,
-      "path": "f/freewill.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 960,
-      "path": "f/frege-hilbert.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 981,
-      "path": "e/epistemic-game.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 994,
-      "path": "e/ecological-genetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1026,
-      "path": "g/goedel-incompleteness.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1076,
-      "path": "h/heritability.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1082,
-      "path": "f/frege-hilbert.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1120,
-      "path": "h/hutcheson.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1140,
-      "path": "i/identity-indiscernible.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1160,
-      "path": "i/implicature-optimality-games.md",
+      "line": 660,
+      "path": "h/health-well-being-personal-relationships.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
@@ -795,318 +556,13 @@
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1192,
-      "path": "b/biological.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1230,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1234,
-      "path": "q/qualia-inverted.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1261,
-      "path": "j/justice.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1267,
-      "path": "j/justice-moral-psych.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1287,
-      "path": "k/kant-reason.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1337,
-      "path": "l/liberalism-latin-america.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1350,
-      "path": "c/ceteris-paribus.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1394,
-      "path": "l/life-meaning.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1459,
-      "path": "u/utilitarianism-history.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1463,
-      "path": "p/proof-theory-development.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1469,
-      "path": "l/logical-consequence.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1489,
-      "path": "l/luther-influence.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1502,
-      "path": "m/maimonides-islamic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1503,
-      "path": "m/malebranche.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1506,
-      "path": "m/mally-deontic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1528,
-      "path": "m/materialism-eliminative.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1538,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1546,
-      "path": "w/wittgenstein-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1561,
-      "path": "m/medieval-literary.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1565,
-      "path": "m/medieval-categories.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1567,
-      "path": "c/conscience-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1571,
-      "path": "m/medieval-futcont.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1573,
-      "path": "r/representation-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1576,
-      "path": "p/practical-reason-med.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1578,
-      "path": "r/relations-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1599,
-      "path": "r/representation-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1600,
-      "path": "m/mereology.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1647,
-      "path": "m/modeltheory-fo.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1654,
-      "path": "m/monism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1672,
-      "path": "m/moral-epistemology-a-priori.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1673,
-      "path": "m/moral-particularism-generalism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1683,
-      "path": "m/moral-particularism-generalism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1684,
-      "path": "m/moral-phenomenology.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1718,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1727,
-      "path": "s/selection-units.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1729,
-      "path": "l/law-interpretivist.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1748,
-      "path": "n/newton-principia.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1759,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1767,
-      "path": "i/ibn-sina-logic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1824,
-      "path": "p/paradox-zeno.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1829,
-      "path": "m/mereology.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
       "line": 1897,
       "path": "o/on-utopia.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1903,
-      "path": "f/fictionalism-mathematics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1939,
-      "path": "p/pragmatics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1958,
-      "path": "p/pm-notation.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1962,
-      "path": "p/privacy.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1980,
-      "path": "p/proof-theory-development.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1981,
-      "path": "p/properties.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1993,
-      "path": "p/propositions-singular.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2017,
-      "path": "q/qualia-inverted.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2020,
-      "path": "q/qm.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
       "line": 2021,
-      "path": "a/action-at-a-distance-in.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2049,
-      "path": "q/quine.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2057,
-      "path": "r/ramsey-economics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2069,
-      "path": "e/epistemic-game.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2075,
-      "path": "r/realism-sem-challenge.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2095,
-      "path": "r/reduction-biology.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2111,
-      "path": "r/relativism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2118,
-      "path": "a/and-morality.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2146,
-      "path": "r/rights-children.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2165,
-      "path": "c/consequentialism-rule.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2167,
-      "path": "r/russell.md",
+      "path": "q/qm-action-distance.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
@@ -1115,133 +571,8 @@
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2212,
-      "path": "s/scientific-realism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2232,
-      "path": "s/self-knowledge.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2234,
-      "path": "s/self-consciousness-phenomenological.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2238,
-      "path": "s/self-knowledge.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2258,
-      "path": "s/settheory-alternative.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2268,
-      "path": "s/shaftesbury.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2284,
-      "path": "s/skepticism-moral-responsibility.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2296,
-      "path": "c/contractarianism-contemporary.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2330,
-      "path": "s/spinoza-epistemology-mind.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2370,
-      "path": "s/supervenience-ethics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2381,
-      "path": "d/daoism.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2383,
-      "path": "t/tarski-truth.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2421,
-      "path": "t/time.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
       "line": 2423,
       "path": "t/the-experience-and-perception-of.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2427,
-      "path": "t/time-travel-phys.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2446,
-      "path": "t/truth-axiomatic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2454,
-      "path": "t/tarski-truth.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2468,
-      "path": "t/type-theory-church.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2477,
-      "path": "s/selection-units.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2480,
-      "path": "p/properties.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2481,
-      "path": "u/universals-medieval.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2483,
-      "path": "c/consequentialism-rule.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2507,
-      "path": "f/freewill.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2511,
-      "path": "v/voting-methods.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2521,
-      "path": "r/ramsey-economics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2522,
-      "path": "w/well-being.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
@@ -1250,5 +581,5 @@
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     }
   ],
-  "mapped": 1665
+  "mapped": 1796
 }
