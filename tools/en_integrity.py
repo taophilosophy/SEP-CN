@@ -95,11 +95,12 @@ def inbound_map(root, slugs):
     return m
 
 
-def audit_dir(root, slug, registered, inbound=frozenset()):
+def audit_dir(root, slug, registered, inbound=frozenset(), default_absent=frozenset()):
     """对单个词条包做全部检查。root 为 en/ 目录绝对路径。
 
     registered: baseline 登记的包内文件名集合（en/<slug>/<名> 的 <名>）。
     inbound: 其他词条包跨词条引用到的本包文件名集合。
+    default_absent: fetch_audit 已探明上游 404 的缺省件（显式登记，不算缺件）。
     返回 (result, hard_count)。
     """
     d = os.path.join(root, slug)
@@ -189,20 +190,25 @@ def audit_dir(root, slug, registered, inbound=frozenset()):
         res["no_charset"] = no_charset
 
     # /entries/ 命名空间目标逐一核对（大小写精确）
-    missing, case_mismatch, cross_missing = [], [], []
+    missing, case_mismatch, cross_missing, defaults = [], [], [], []
     unmirrored = set()
     for slug2, fname in sorted(entry_targets):
         if slug2 == slug:
             if "/" in fname:  # 词条内子目录路径（如 BNfiles/x）
                 if os.path.isfile(os.path.join(d, fname)):
                     continue
-                missing.append(fname)
+                if fname in default_absent:
+                    defaults.append(fname)
+                else:
+                    missing.append(fname)
                 continue
             if fname in files:
                 continue
             low_hits = [f for f in files if f.lower() == fname.lower()]
             if low_hits:
                 case_mismatch.append({"ref": fname, "on_disk": low_hits[0]})
+            elif fname in default_absent:
+                defaults.append(fname)
             else:
                 missing.append(fname)
         else:
@@ -230,6 +236,8 @@ def audit_dir(root, slug, registered, inbound=frozenset()):
     if missing:
         res["missing_assets"] = missing
         hard += 1
+    if defaults:
+        res["default_absent"] = defaults  # fetch_audit 已探明 404，显式缺省件
     if case_mismatch:
         res["case_mismatch"] = case_mismatch
         hard += 1
@@ -308,15 +316,26 @@ def main(argv=None):
 
     root = repo_path("en")
     inbound = inbound_map(root, slugs)
+    # fetch_audit 凭证中的缺省件（上游 404 显式登记）不判缺件
+    default_reg = {}
+    fa_path = repo_path("specs", "001-sep-sync-pipeline", "fetch-audit-full.json")
+    if os.path.exists(fa_path):
+        try:
+            for r in load_json(fa_path).get("results", []):
+                if r.get("missing_default"):
+                    default_reg[r["slug"]] = set(r["missing_default"])
+        except (OSError, ValueError):
+            pass
     results, hard_total, errors = [], 0, []
     site_all, ext_all = Counter(), Counter()
-    mathjax_n = math_inline_n = math_assets_n = 0
+    mathjax_n = math_inline_n = math_assets_n = defaults_n = 0
     for i, slug in enumerate(slugs):
         if i % 250 == 0:
             sys.stderr.write("[en_integrity] %d/%d ...\n" % (i, len(slugs)))
         try:
             res, hard = audit_dir(root, slug, reg.get(slug, set()),
-                                  inbound.get(slug, set()))
+                                  inbound.get(slug, set()),
+                                  default_reg.get(slug, set()))
         except Exception as e:  # noqa: BLE001 — 单词条异常不中断全量
             errors.append({"slug": slug, "error": str(e)})
             continue
@@ -327,6 +346,7 @@ def main(argv=None):
         mathjax_n += res["info"]["mathjax"]
         math_inline_n += res["info"]["math_inline"]
         math_assets_n += 1 if res["info"]["math_assets"] else 0
+        defaults_n += len(res.get("default_absent", []))
         for k in ("site_refs", "external_refs"):
             counter = site_all if k == "site_refs" else ext_all
             for kk, vv in res["info"][k].items():
@@ -343,6 +363,7 @@ def main(argv=None):
         "errors": errors,
         "mathjax_entries": mathjax_n, "math_inline_entries": math_inline_n,
         "math_asset_entries": math_assets_n,
+        "default_absent_total": defaults_n,
         "site_ref_segments": dict(site_all.most_common(20)),
         "external_ref_domains": dict(ext_all.most_common(15)),
         "problems": results,

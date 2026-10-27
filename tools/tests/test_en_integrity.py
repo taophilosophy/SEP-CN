@@ -72,6 +72,9 @@ class TestAuditDir(unittest.TestCase):
     def audit(self, registered=frozenset()):
         return audit_dir(self.en, "alpha", registered)
 
+    def audit_with_defaults(self, registered, defaults):
+        return audit_dir(self.en, "alpha", registered, frozenset(), defaults)
+
     def test_clean_package(self):
         reg = {"index.html", "fig1.png", "eqn2.gif", "notes.html"}
         res, hard = self.audit(reg)
@@ -182,6 +185,16 @@ class TestAuditDir(unittest.TestCase):
         self.assertEqual(hard, 0)
         self.assertEqual(res["fetched_not_registered"], ["appendix.html"])
         self.assertNotIn("registered_orphans", res)
+
+    def test_default_absent_is_info_only(self):
+        os.remove(os.path.join(self.en, "alpha", "fig1.png"))
+        res, hard = self.audit({"index.html", "eqn2.gif", "notes.html"})
+        self.assertEqual(res["missing_assets"], ["fig1.png"])
+        res, hard = self.audit_with_defaults({"index.html", "eqn2.gif", "notes.html"},
+                                             {"fig1.png"})
+        self.assertNotIn("missing_assets", res)
+        self.assertEqual(res["default_absent"], ["fig1.png"])
+        self.assertEqual(hard, 0)
 
     def test_suspect_and_truncated(self):
         build(self.en, {"bad/index.html":

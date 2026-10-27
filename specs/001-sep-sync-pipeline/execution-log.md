@@ -112,3 +112,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **fetch_entry 能力扩展**：软 404 防护（SEP 错误页不再注册为基线，杜绝空 title 垃圾注册复发）+ `--archive-edition <ed>`（从 /archives/<ed>/entries/<slug>/ 抓取撤稿词条完整包）；单测 tools/tests/test_fetch_entry.py 4 项。
 * **归档基线落地**：6 条撤稿词条经 --archive-edition 抓取入库（pineal-gland 7 文件、qm-action-distance 6 文件完整包）；5 条 ADD 词条基线补齐（arabic-islamic-liar、economic-democracy、moral-responsibility-empirical、nietzsche-aesthetics、realism-about-metaphysics）。并发竞态（与 apply-add intake 会话）三次重试收敛，11/11 在账。
 * 注：ADD 队列 76 条中 economic-democracy 有 SUMMARY 行（find_zh_doc 命中），其余 4 条 zh_doc=None 待 intake 译名登记后接入。
+
+## 第二轮全量镜像复核与缺件收敛（intake 并发窗口）— 2026-10-28
+
+* **背景**：用户指令「再次全量复核」。此时并行会话正批量 intake 上游增量（baseline 1731→1877 持续增长），每轮扫描都会撞见新落地词条包的缺口。三轮扫描＋两轮礼貌补抓（`script/tmp/reconcile_missing.py` 收敛驱动器：读扫描凭证→fetch.get 5 秒节拍→重扫，至归零）后 **1877/1877 全部干净、硬发现 0、退出码 0**；`check_all --all` 九门禁全绿。
+* **本轮补抓明细（全部 200）**：新 intake 词条包 local.js ×43 余（convention/evidence-legal/heritability/ecological-genetics/freewill/frege-hilbert/implicature-optimality-games/lewis-metaphysics/logical-consequence/paradox-zeno/peirce-logic/physics-Rpcc/properties/qm/realism-sem-challenge/selection-units/bolzano-logic 等）、figdesc.html ×3（aristotle-de-motu/ecological-genetics/physics-Rpcc——均为路径形自引用，fetch_audit 裸引用闭包盲区，en_integrity 捕获）、ibn-sina-logic/fig4.svg、mally-deontic/matrix3.png+matrix5.png、time-travel-phys 补充图 3 svg、epistemic-game/supplement.html、**russell 词条 legacy 媒体 6 件（desire/politics 的 .au/.qt/.wav）**。
+* **fetch_audit 闭包语义定稿**：扩展名枚举（png/pdf/js/css…）曾漏掉 russell 的 .au/.qt/.wav 媒体引用——改为**文件名形状判定**（`[A-Za-z0-9][A-Za-z0-9._-]*\.[…]`）：一切形如文件名的裸引用皆词条包资产，锚点残留/实体残片/纯词不收。tools/tests/test_fetch_audit.py 三项（媒体收编、注释/实体/站点框架排除、垃圾形态排除）。
+* **en_integrity 缺省件感知**：与 fetch-audit-full.json 凭证联动——fetch_audit 已探明上游 404 的缺省件（pineal-gland 撤稿页 6 图、scientific-explanation/local.js）由硬发现降为信息级 default_absent；本轮终态 default_absent=0（并行会话重抓撤稿页后引用已消失，两证据收敛一致）。
+* **结论**：镜像复核门禁已在 intake 并发窗口下实测收敛；新词条包落库即被下一轮扫描捕获，补抓后归零——「扫描→补抓→重扫」闭环可持续例行化。
