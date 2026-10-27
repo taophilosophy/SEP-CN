@@ -28,16 +28,36 @@ BASE = fetch.BASE
 ARCHINFO = BASE + "/cgi-bin/encyclopedia/archinfo.cgi?entry=%s"
 ENTRY_URL = BASE + "/entries/%s/"
 
+SOFT404_RE = re.compile(r"<title>\s*(?:Document Not Found|Update Your Link)", re.I)
 
-def fetch_one(slug, delay, force, pacer=None):
-    rec = {"slug": slug, "fetched_at": utcnow_iso(), "source_url": ENTRY_URL % slug}
+
+def is_soft404(head_html):
+    """SEP 对不存在/已撤稿 URL 返回 HTTP 200 + 错误页正文（软 404）。"""
+    return bool(SOFT404_RE.search(head_html))
+
+
+def entry_base(slug, archive_edition=None):
+    """词条包基 URL；archive_edition 指定时从归档版抓取（撤稿词条）。"""
+    if archive_edition:
+        return BASE + "/archives/%s/entries/%s/" % (archive_edition, slug)
+    return ENTRY_URL % slug
+
+
+def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
+    base = entry_base(slug, archive_edition)
+    rec = {"slug": slug, "fetched_at": utcnow_iso(), "source_url": base}
     edir = repo_path("en", slug)
     os.makedirs(edir, exist_ok=True)
     files, missing = [], []
 
-    status, data = fetch.get(ENTRY_URL % slug, delay=delay, pacer=pacer)
+    status, data = fetch.get(base, delay=delay, pacer=pacer)
     if status != 200:
         return {"slug": slug, "error": "index.html HTTP %s" % status}
+    if is_soft404(data[:4096].decode("utf-8", "replace")):
+        # 防垃圾注册（2026-10-28 教训：撤稿词条曾被登记为空 title 基线）；
+        # 撤稿词条请用 --archive-edition 从 /archives/<ed>/entries/<slug>/ 抓取
+        return {"slug": slug,
+                "error": "soft 404（SEP 错误页，词条不在或已撤稿）: %s" % base}
     idx_path = os.path.join(edir, "index.html")
     if force or not os.path.exists(idx_path):
         with open(idx_path, "wb") as f:
@@ -64,7 +84,7 @@ def fetch_one(slug, delay, force, pacer=None):
 
     # 脚注：正文有引用才抓（spec：404 为显式缺省件）
     if entry["notes_refs"]:
-        st, notes = fetch.get(ENTRY_URL % slug + "notes.html", delay=delay, pacer=pacer)
+        st, notes = fetch.get(base + "notes.html", delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save("notes.html", notes), kind="notes"))
         else:
@@ -72,7 +92,7 @@ def fetch_one(slug, delay, force, pacer=None):
 
     # 补充材料：正文相对链接
     for supp in entry["supplements"]:
-        st, body = fetch.get(ENTRY_URL % slug + supp, delay=delay, pacer=pacer)
+        st, body = fetch.get(base + supp, delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save(supp, body), kind="supplement"))
         else:
@@ -84,7 +104,7 @@ def fetch_one(slug, delay, force, pacer=None):
         rel = src.split("?")[0]
         if rel.startswith(("../", "http:", "https:", "/")):
             continue
-        st, body = fetch.get(ENTRY_URL % slug + rel, delay=delay, pacer=pacer)
+        st, body = fetch.get(base + rel, delay=delay, pacer=pacer)
         if st == 200:
             files.append(dict(save(rel, body), kind="image"))
         else:
@@ -94,7 +114,7 @@ def fetch_one(slug, delay, force, pacer=None):
     st, ai = fetch.get(ARCHINFO % slug, delay=delay, pacer=pacer)
     rec["archinfo"] = parser.parse_archinfo(ai.decode("utf-8", "replace")) if st == 200 else {
         "error": "HTTP %s" % st}
-    rec["archive_edition"] = rec["archinfo"].get("latest_edition")
+    rec["archive_edition"] = archive_edition or rec["archinfo"].get("latest_edition")
 
     rec["files"] = files
     rec["missing"] = missing
@@ -121,6 +141,9 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("slugs", nargs="+")
     ap.add_argument("--force", action="store_true", help="重抓覆盖本地原始副本")
+    ap.add_argument("--archive-edition", dest="archive_edition",
+                    help="撤稿词条归档版抓取：从 /archives/<ed>/entries/<slug>/ 抓取"
+                         "（如 spr2017；本批所有 slug 共用同一版本）")
     ap.add_argument("--delay", type=float, default=fetch.MIN_DELAY)
     args = ap.parse_args(argv)
     ensure_dirs()
@@ -129,7 +152,8 @@ def main(argv=None):
     for slug in args.slugs:
         sys.stderr.write("[fetch_entry] %s ...\n" % slug)
         try:
-            rec = fetch_one(slug, args.delay, args.force)
+            rec = fetch_one(slug, args.delay, args.force,
+                            archive_edition=args.archive_edition)
         except fetch.FetchError as e:
             failures.append({"slug": slug, "error": str(e)})
             continue

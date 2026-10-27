@@ -104,3 +104,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **缺件补抓（礼貌 5 秒，全部 200）**：`local.js` ×419 词条（与并行会话协同完成；此前 fetch_audit 契约把 JS 排除在闭包外，b397a80e 已将裸 .js/.css 纳入词条自有资产）、`albo-joseph/vita.html`、`geometry-19th/vita.html`、`numenius/notes.html`、`formal-epistemology/ow-animate.mp4` + `zollman.mp4`（包内补充页引用）、`idiolects/appendix.html`（仅被 linguistics 跨词条路径引用，fetch_entry/fetch_audit 均不可见，手工补抓）。
 * **边界发现（登记备查）**：fetch_audit 裸引用闭包对「路径形自引用」（`href="../<slug>/vita.html"`）与「同域绝对 URL」（`href="https://plato.stanford.edu/entries/<slug>/notes.html#…"`）存在盲区，由 en_integrity 的全命名空间解析覆盖；registered_orphans 4 词条（location-mereology figure06.png 等）均为上游页面注释掉的旧版引用，文件已登记保留不算缺件；en/ 顶层 `abduction.txt`/`alcmaeon.txt` 为 extract_text.py 契约产物（翻译工序输入），非上游镜像污染，保留。
 * **门禁接入**：check_all.py `--all` 新增「英文镜像深度复核」（`en_integrity.py --all --quiet`，凭证 `specs/001-sep-sync-pipeline/en-integrity-full.json`；run() 支持带参脚本）；contracts/cli.md 职责权属表、rules/05 工具表同步登记（en_integrity 只读审计，不补抓不落盘 en/ 以外文件）。`python tools/check_all.py --all` 九项全绿（含 baseline_audit 全量哈希复算通过）。
+
+## REMOVE 收尾裁定与撤稿词条归档基线 — 2026-10-28（续）
+
+* **REMOVE 9 条全部定谳**：3 条错位别名文件由并行会话删除（eafb227d：health-well-being-personal-relationships、indian-philosophy、on-utopia）；其余 6 条经 SEP 在线探针实证为**撤稿词条**（/entries/<slug>/ 均返回软 404），裁定**保留**——旧译词条作为存档语料留存：pineal-gland、qm-action-distance、scientific-explanation、wisdom、continental-rationalism、time-experience。
+* **归档版版本钉**（SEP 归档探针 + Web 检索交叉确认）：pineal-gland@spr2017、qm-action-distance@fall2019、scientific-explanation@sum2024、wisdom@fall2023、continental-rationalism@spr2026、time-experience@sum2024。
+* **fetch_entry 能力扩展**：软 404 防护（SEP 错误页不再注册为基线，杜绝空 title 垃圾注册复发）+ `--archive-edition <ed>`（从 /archives/<ed>/entries/<slug>/ 抓取撤稿词条完整包）；单测 tools/tests/test_fetch_entry.py 4 项。
+* **归档基线落地**：6 条撤稿词条经 --archive-edition 抓取入库（pineal-gland 7 文件、qm-action-distance 6 文件完整包）；5 条 ADD 词条基线补齐（arabic-islamic-liar、economic-democracy、moral-responsibility-empirical、nietzsche-aesthetics、realism-about-metaphysics）。并发竞态（与 apply-add intake 会话）三次重试收敛，11/11 在账。
+* 注：ADD 队列 76 条中 economic-democracy 有 SUMMARY 行（find_zh_doc 命中），其余 4 条 zh_doc=None 待 intake 译名登记后接入。
