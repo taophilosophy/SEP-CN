@@ -20,7 +20,7 @@ FIXTURE_PAYLOAD = {
              "subjectName": "计算机科学技术"},
             {"cnName": "溯因", "enName": "abduction", "standardCode": None,
              "standardName": None, "subjectName": None},
-        ]}}},
+        ]}}}
 
 
 class CnkiQueryTests(unittest.TestCase):
