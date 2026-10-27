@@ -243,6 +243,19 @@ export default defineConfig({
           })
         },
       },
+      {
+        name: 'sep-search-index-no-sourcemap',
+        // 本地搜索索引模块体积很大，Vite dev 注入内联 sourcemap（含 sourcesContent
+        // 全文复制）时会超出 V8 字符串上限（"Invalid string length"）。
+        // 空 mappings 会让 send() 跳过 sourcemap 注入与回退生成。
+        transform: {
+          order: 'post',
+          filter: { id: /@localSearchIndex/ },
+          handler(code) {
+            return { code, map: { version: 3, mappings: '' } }
+          },
+        },
+      },
     ],
     server: {
       host: '0.0.0.0',
