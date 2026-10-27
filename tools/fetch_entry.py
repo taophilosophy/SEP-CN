@@ -110,6 +110,19 @@ def fetch_one(slug, delay, force, pacer=None, archive_edition=None):
         else:
             missing.append({"expected": rel, "http_status": st})
 
+    # 脚本/样式：正文引用的词条自有 .js/.css（如 local.js——en_integrity 闭包要求，
+    # 2026-10-28：每条新基线曾因缺 local.js 被深度复核标记）
+    html_text = data[:len(data)].decode("utf-8", "replace")
+    for m in re.finditer(r'(?:src|href)="([A-Za-z0-9][A-Za-z0-9._-]*\.(?:js|css))"', html_text):
+        rel = m.group(1)
+        if rel in {f["path"].split("/")[-1] for f in files}:
+            continue
+        st, body = fetch.get(base + rel, delay=delay, pacer=pacer)
+        if st == 200:
+            files.append(dict(save(rel, body), kind="script"))
+        else:
+            missing.append({"expected": rel, "http_status": st})
+
     # archinfo：权威版本核对（FR-003/008）
     st, ai = fetch.get(ARCHINFO % slug, delay=delay, pacer=pacer)
     rec["archinfo"] = parser.parse_archinfo(ai.decode("utf-8", "replace")) if st == 200 else {
