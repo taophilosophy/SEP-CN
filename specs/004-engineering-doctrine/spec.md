@@ -50,3 +50,4 @@
 * 复审日期：2027-01-21（下个存档季）。
 * 未通过项：D1/D2/D10 为本登记表的主攻项；其余按批次消化。
 * 2026-10-28 yuanwen 全量复核（1727 主文 + 427 补充材料，逐文件：结构/乱码/图片/数学/脚注/完整性）：乱码与 UTF-8 解码零缺陷；24 件哈希漂移已用现工具重转换归零、SUMMARY 镜像已同步；抽读 abduction/tarski/japanese-aesthetics/aquinas/aristotle/algebra 等定性；新增 D14–D18。
+* 2026-10-28 二次全量复核（1878 主文 + 546 补充材料，D14–D16 修复后全量重转换）：转换器级缺陷全部归零；新发现并修复补充材料站点导航渗漏（convert_supplement 缺切片，374 件含 Browse/About/Support SEP 导航）；三样本段落级抽读通过（alcmaeon 30 段 1:1、algebra 源公式 850 全在案、japanese-aesthetics 33 图 1:1）；余 60 项均为上游固有噪声（断锚 33/双转义实体 15/注释资产 8/小文件边界比率 2/未配对定界符字面量 2），已逐类定性登记。审计脚本与明细：%TEMP%\yuanwen_audit.py。
