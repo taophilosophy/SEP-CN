@@ -129,8 +129,11 @@ def map_zh(changes, zh_doc):
         return changes
     zh_path = repo_path(*zh_doc.split("/"))
     heads = []
+    stub = True
     if os.path.isfile(zh_path):
-        for i, line in enumerate(open(zh_path, encoding="utf-8").read().splitlines(), 1):
+        lines = open(zh_path, encoding="utf-8").read().splitlines()
+        stub = len([l for l in lines if l.strip()]) <= 10  # 存根：仅 H1（specs/003 存根阈值）
+        for i, line in enumerate(lines, 1):
             hm = re.match(r"^##\s+(.*)$", line)
             if hm:
                 heads.append((i, hm.group(1)))
@@ -148,8 +151,15 @@ def map_zh(changes, zh_doc):
                 if h.startswith(tuple(SPECIAL)) and c["title"].startswith(tuple(SPECIAL)):
                     hit = (i, h)
                     break
-        c["zh_section"] = hit[1] if hit else "节未找到（标题待人工对照）"
-        c["zh_line"] = hit[0] if hit else None
+        if hit:
+            c["zh_section"] = hit[1]
+            c["zh_line"] = hit[0]
+        elif stub:
+            c["zh_section"] = "译文存根（未翻译），翻译后按节插入该变更"
+            c["zh_line"] = None
+        else:
+            c["zh_section"] = "节未找到（标题待人工对照）"
+            c["zh_line"] = None
     return changes
 
 
