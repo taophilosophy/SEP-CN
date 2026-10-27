@@ -8,3 +8,4 @@
 |ghost|孤词||
 |lagging|甲、乙||
 |Sophia|知识||
+|Alcmaeon|阿尔克迈翁||
