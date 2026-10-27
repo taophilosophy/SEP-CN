@@ -768,7 +768,7 @@
 * [形而上学解释 metaphysical explanation (Andrew Brenner, Anna-Sofia Maurin, Alexander Skiles, Robin Stenwall, and Naomi Thompson)](metaphysical-explanation/index.md)
 * [形而上学 metaphysics (Peter van Inwagen, Meghan Sullivan, and Sara Bernstein)](metaphysics/index.md)
 * [形而上学中的柏拉图主义 in metaphysics (Mark Balaguer)](platonism/index.md)
-* [数学哲学中的自然主义 naturalism (Alexander Paseau)](naturalism/index.md)
+* [自然主义 naturalism (David Papineau)](naturalism/index.md)
 * [法哲学中的自然主义 in legal philosophy (Brian Leiter and Matthew X. Etchemendy)](lawphil-naturalism/index.md)
 * [道德自然主义 moral (Matthew Lutz)](naturalism-moral/index.md)
 * [唯心主义 idealism (Paul Guyer and Rolf-Peter Horstmann)](idealism/index.md)
