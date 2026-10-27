@@ -180,53 +180,109 @@ def parse_archinfo(html_text):
     return out
 
 
+class _CatalogHTMLParser(HTMLParser):
+    """contents.html 结构化解析：按 <li> 栈捕获，父条目遇嵌套 <ul> 即冻结自身文本。
+
+    修复 2026-10-27 发现的嵌套吞没缺陷：旧正则 ``<li[^>]*>(.*?)</li>`` 的非贪婪
+    匹配跨越嵌套边界，把每个集群的第一个子词条吞进父条目匹配（64 条丢失，
+    如 altruism-biological、kant-reason、shared-agency）。
+    """
+    SEE_RE = re.compile(r"(?:\u2014|&mdash;|\u2013)\s*see\b", re.I)
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.items = []
+        self.depth = 0
+        self.stack = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "ul":
+            self.depth += 1
+            if self.stack:
+                self.stack[-1]["frozen"] = True
+        elif tag == "li":
+            self.stack.append({"frozen": False, "slug": None, "strong": [],
+                               "linktext": [], "post": [], "raw": [],
+                               "in_a": False, "in_strong": False})
+        elif tag == "a" and self.stack and not self.stack[-1]["frozen"]:
+            fr = self.stack[-1]
+            if fr["slug"] is None:
+                m = re.search(r"entries/([^/\"]+)/?$", dict(attrs).get("href") or "")
+                if m:
+                    fr["slug"] = m.group(1)
+                    fr["in_a"] = True
+        elif tag == "strong" and self.stack and self.stack[-1]["in_a"]:
+            self.stack[-1]["in_strong"] = True
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.stack:
+            fr = self.stack[-1]
+            if fr["in_a"]:
+                fr["in_a"] = False
+                fr["in_strong"] = False
+        elif tag == "strong" and self.stack:
+            self.stack[-1]["in_strong"] = False
+        elif tag == "ul":
+            self.depth = max(0, self.depth - 1)
+        elif tag == "li" and self.stack:
+            self._finish(self.stack.pop())
+
+    def handle_data(self, data):
+        for fr in self.stack:
+            if fr["frozen"]:
+                continue
+            fr["raw"].append(data)
+            if fr["in_a"]:
+                fr["linktext"].append(data)
+                if fr["in_strong"]:
+                    fr["strong"].append(data)
+            elif fr["slug"] is not None:
+                fr["post"].append(data)
+
+    def close(self):
+        super().close()
+        while self.stack:
+            self._finish(self.stack.pop())
+
+    def _finish(self, fr):
+        if fr["slug"] is None:
+            return
+        raw = "".join(fr["raw"])
+        title = "".join(fr["strong"]).strip() or "".join(fr["linktext"]).strip()
+        if self.SEE_RE.search(raw):
+            low = raw.lower()
+            i = low.find("see")
+            before = raw[:i].strip().rstrip("—–- ") if i >= 0 else title
+            self.items.append({"slug": fr["slug"], "title": before or title,
+                               "authors": [], "alias_of": fr["slug"],
+                               "level": self.depth})
+        else:
+            authors = "".join(fr["post"]).strip().strip("() ").strip()
+            self.items.append({"slug": fr["slug"], "title": title,
+                               "authors": authors or [], "alias_of": None,
+                               "level": self.depth})
+
+
 def parse_catalog(html_text):
     """解析 contents.html → [{slug,title,authors,alias_of,level}]。
 
     实测格式（2026-10-26 快照）：
       正常词条: <li> <a href="entries/slug/"><strong>title</strong></a> (Author) </li>
       别名词条: <li> 别名 &mdash; see <a href="entries/target/"><strong>目标</strong></a> </li>
-      子词条:   集群母词条下嵌套 <ul>（level=2）
+      子词条:   集群母词条下嵌套 <ul>（子词条 level = 父 level + 1）
+
+    两遍归并：正常词条按 slug 占键；别名词并入目标记录的 aliases；
+    无正常词条对应的别名独立成条（如 recursion — see recursion 的梗词条）。
     """
-    items = []
-    depth = 0
-    token_re = re.compile(r"<ul>|</ul>|<li[^>]*>(.*?)</li>", re.S)
-    link_re = re.compile(r'<a href="entries/([^/"]+)/">\s*(?:<strong>)?\s*(.*?)\s*</strong>\s*</a>|'
-                         r'<a href="entries/([^/"]+)/">([^<]*)</a>')
-    see_re = re.compile(r"(?:\u2014|&mdash;|\u2013)\s*see\b", re.I)
-    for m in token_re.finditer(html_text):
-        tok = m.group(0)
-        if tok == "<ul>":
-            depth += 1
-            continue
-        if tok == "</ul>":
-            depth = max(0, depth - 1)
-            continue
-        inner = m.group(1) or ""
-        lm = link_re.search(inner)
-        if not lm:
-            continue
-        slug = lm.group(1) or lm.group(3)
-        linked_title = unescape(lm.group(2) or lm.group(4) or "").strip()
-        raw = unescape(TAG_RE.sub(" ", inner))
-        if see_re.search(inner) or see_re.search(raw):
-            low = raw.lower()
-            before = raw[:low.find("see")].strip().rstrip("—–- ") if "see" in low else linked_title
-            items.append({"slug": slug, "title": before or linked_title, "authors": [],
-                          "alias_of": slug, "level": depth})
-        else:
-            after = raw[raw.find(linked_title) + len(linked_title):].strip() if linked_title in raw else ""
-            authors = after.strip("() ").strip()
-            items.append({"slug": slug, "title": linked_title,
-                          "authors": authors or [], "alias_of": None, "level": depth})
-    # 两遍归并：正常词条按 slug 占键；别名词并入目标记录的 aliases；
-    # 无正常词条对应的别名独立成条（如 recursion — see recursion 的梗词条）。
+    p = _CatalogHTMLParser()
+    p.feed(html_text)
+    p.close()
     by_slug = {}
-    for it in items:
+    for it in p.items:
         if not it["alias_of"]:
             by_slug[it["slug"]] = it
     standalone = {}
-    for it in items:
+    for it in p.items:
         if it["alias_of"]:
             tgt = it["alias_of"]
             rec = by_slug.get(tgt)

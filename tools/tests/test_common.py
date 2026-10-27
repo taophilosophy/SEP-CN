@@ -117,10 +117,45 @@ class TestCatalog(unittest.TestCase):
         normal = [i for i in items if not i["alias_of"]]
         # 别名总数 = 独立别名记录 + 并入正常记录的 aliases 词数（演示轮 1 修订后的归并模型）
         alias = sum(len(i.get("aliases", [])) for i in items)             + len([i for i in items if i["alias_of"]])
-        self.assertGreater(len(normal), 1400, "正常词条数异常: %d" % len(normal))  # 实测 1460
+        self.assertGreater(len(normal), 1800, "正常词条数异常: %d" % len(normal))  # 实测 1872（嵌套吞没修复后）
         self.assertGreater(alias, 300, "别名词条数异常: %d" % alias)  # 实测 348（85 独立 + 263 并入）
         by = {i["slug"]: i for i in items}
         self.assertFalse(by["abduction"]["alias_of"])
         self.assertEqual(by["abduction"]["authors"], "Igor Douven")
         # akrasia 是别名词，应并入目标 weakness-will 的 aliases
         self.assertIn("akrasia", by["weakness-will"].get("aliases", []))
+        # 嵌套吞没回归（2026-10-27）：旧正则把每个集群的第一个子词条吞进父匹配，
+        # 64 条丢失（altruism-biological、kant-reason、shared-agency 等）——全部必须在场且为正常词条
+        for slug in ("altruism-biological", "kant-reason", "shared-agency",
+                     "arabic-islamic-liar", "aristotle-de-motu", "newton-principia"):
+            self.assertIn(slug, by, "曾被吞没的集群首子词条缺失: %s" % slug)
+            self.assertFalse(by[slug]["alias_of"], "%s 应为正常词条" % slug)
+
+    def test_catalog_parse_nested_fixture(self):
+        """构造夹具验证嵌套/别名/内嵌标签三类边界（配合真实快照回归）。"""
+        html = ('<ul>'
+                '<li> <a href="entries/parent/"><strong>parent</strong></a> (P Author)'
+                ' <ul>'
+                ' <li> <a href="entries/parent-first/"><strong>first</strong></a> (F Author) </li>'
+                ' <li> <a href="entries/parent-second/"><strong><em>Second</em> title </strong></a> (S Author) </li>'
+                ' </ul></li>'
+                '<li> <a href="entries/solo/"><strong>solo</strong></a> (So Author) </li>'
+                '<li> alias-one &mdash; see <a href="entries/parent/"><strong>parent</strong></a> </li>'
+                '<li> ghost &mdash; see <a href="entries/ghost-target/"><strong>ghost target</strong></a> </li>'
+                '</ul>')
+        items = parser.parse_catalog(html)
+        by = {i["slug"]: i for i in items}
+        # 集群首子词条不再被吞
+        self.assertIn("parent-first", by)
+        self.assertEqual(by["parent-first"]["authors"], "F Author")
+        # 内嵌 <em> 与标题尾随空格：取 strong 全文、去除首尾空白
+        self.assertEqual(by["parent-second"]["title"], "Second title")
+        # 层级：父=1，子=2
+        self.assertEqual(by["parent"]["level"], 1)
+        self.assertEqual(by["parent-first"]["level"], 2)
+        # 别名并入在场目标；缺席目标独立成条
+        self.assertIn("alias-one", by["parent"].get("aliases", []))
+        self.assertTrue(by["ghost-target"]["alias_of"])
+        self.assertEqual(by["ghost-target"]["title"], "ghost")
+        # 正常词条数 = 4（parent、parent-first、parent-second、solo）
+        self.assertEqual(len([i for i in items if not i["alias_of"]]), 4)

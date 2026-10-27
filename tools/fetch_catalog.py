@@ -7,6 +7,7 @@
 """
 import argparse
 import json
+import re
 import sys
 
 import os
@@ -24,24 +25,39 @@ CATALOG_URL = fetch.BASE + "/contents.html"
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--reparse", action="store_true",
+                    help="离线重建：用 en/_catalog 最新快照重新解析并写 baseline/catalog.json，"
+                         "不联网（解析器修复后使快照与解析结果重新一致）")
     args = ap.parse_args(argv)
     ensure_dirs()
 
-    ts = utcnow_iso().replace(":", "").replace("-", "")
-    raw_path = repo_path("en", "_catalog", "%s-contents.html" % ts)
-    status, data = fetch.get(CATALOG_URL, dest=raw_path, delay=fetch.MIN_DELAY)
-    if status != 200:
-        print(json.dumps({"error": "contents.html HTTP %s" % status}, ensure_ascii=False))
-        return 1
+    if args.reparse:
+        snaps = sorted(n for n in __import__("os").listdir(repo_path("en", "_catalog"))
+                       if n.endswith("-contents.html"))
+        if not snaps:
+            print(json.dumps({"error": "en/_catalog 无快照"}, ensure_ascii=False))
+            return 1
+        raw_path = repo_path("en", "_catalog", snaps[-1])
+        m = re.match(r"(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z-", snaps[-1])
+        fetched_at = ("%s-%s-%sT%s:%s:%sZ" % m.groups()) if m else utcnow_iso()
+        data = open(raw_path, "rb").read()
+    else:
+        ts = utcnow_iso().replace(":", "").replace("-", "")
+        raw_path = repo_path("en", "_catalog", "%s-contents.html" % ts)
+        status, data = fetch.get(CATALOG_URL, dest=raw_path, delay=fetch.MIN_DELAY)
+        if status != 200:
+            print(json.dumps({"error": "contents.html HTTP %s" % status}, ensure_ascii=False))
+            return 1
+        fetched_at = utcnow_iso()
 
     items = parser.parse_catalog(data.decode("utf-8", "replace"))
-    catalog = {"fetched_at": utcnow_iso(), "source": raw_path, "items": items}
+    catalog = {"fetched_at": fetched_at, "source": raw_path, "items": items}
     write_json_verified(repo_path("baseline", "catalog.json"), catalog)
 
     # 与上次目录对比（无上次则全部视为 added 之外保持空 diff）
     prev_path = None
     for name in sorted(__import__("os").listdir(repo_path("en", "_catalog"))):
-        if name.endswith("-contents.html") and name != "%s-contents.html" % ts:
+        if name.endswith("-contents.html") and name != __import__("os").path.basename(raw_path):
             prev_path = repo_path("en", "_catalog", name)
     diff = {"added": [], "removed": [], "renamed": [], "alias_changed": []}
     if prev_path:
@@ -61,6 +77,7 @@ def main(argv=None):
                "aliases": sum(len(i.get("aliases", [])) for i in items)
                           + len([i for i in items if i["alias_of"]]),
                "raw": raw_path,
+               "reparse": bool(args.reparse),
                "new_vs_baseline": diff}
     print(json.dumps(summary, ensure_ascii=False, indent=2))
     return 0
