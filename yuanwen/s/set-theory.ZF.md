@@ -2,42 +2,6 @@
 
 > （《set-theory》词条补充材料，源：plato.stanford.edu/entries/set-theory/ZF.html）
 
-Set Theory > Zermelo-Fraenkel Set Theory (ZF) (Stanford Encyclopedia of Philosophy)
-
-Stanford Encyclopedia of Philosophy
-
-Menu
-
-- Browse
-- Table of Contents
-- What's New
-- [Random Entry](https://plato.stanford.edu/cgi-bin/encyclopedia/random)
-- Chronological
-- Archives
-- About
-- Editorial Information
-- About the SEP
-- Editorial Board
-- How to Cite the SEP
-- Special Characters
-- Advanced Tools
-- Contact
-- Support SEP
-- Support the SEP
-- PDFs for SEP Friends
-- Make a Donation
-- SEPIA for Libraries
-
-Entry Navigation
-
-- Back to Entry
-- Entry Contents
-- Entry Bibliography
-- Academic Tools
-- [Friends PDF Preview ](https://leibniz.stanford.edu/friends/preview/set-theory/)
-- [Author and Citation Info ](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=set-theory)
-- Back to Top
-
 #### Supplement to Set Theory
 
 ## Zermelo-Fraenkel Set Theory (ZF)
@@ -103,47 +67,3 @@ The final axiom asserts that every set is ‘well-founded’:
 > **Regularity**: $\forall x[x\ne\varnothing\rightarrow\exists y(y\in x\land\forall z(z\in x \rightarrow\neg(z\in y)))]$
 
 A member $y$ of a set $x$ with this property is called a ‘minimal’ element. This axiom rules out the existence of circular chains of sets (e.g., such as $x\in y \land y\in z \land z\in x$) as well as infinitely descending chains of sets (such as … $x_3\in x_2\in x_1\in x_0$).
-
-Copyright © 2023 by Joan Bagaria <*joan.bagaria@icrea.cat*>
-
-Open access to the SEP is made possible by a world-wide funding initiative. The Encyclopedia Now Needs Your Support Please Read How You Can Help Keep the Encyclopedia Free
-
-#### Browse
-
-- Table of Contents
-- What's New
-- [Random Entry](https://plato.stanford.edu/cgi-bin/encyclopedia/random)
-- Chronological
-- Archives
-
-#### About
-
-- Editorial Information
-- About the SEP
-- Editorial Board
-- How to Cite the SEP
-- Special Characters
-- Advanced Tools
-- Accessibility
-- Contact
-
-#### Support SEP
-
-- Support the SEP
-- PDFs for SEP Friends
-- Make a Donation
-- SEPIA for Libraries
-
-#### Mirror Sites
-
-View this site from another server:
-
-[ USA (Main Site) Philosophy, Stanford University ](https://plato.stanford.edu/)
-
-- Info about mirror sites
-
-The Stanford Encyclopedia of Philosophy is copyright © 2023 by [The Metaphysics Research Lab](https://mally.stanford.edu/), Department of Philosophy, Stanford University
-
-Library of Congress Catalog Data: ISSN 1095-5054
-
-$('.dropdown-toggle').dropdown();

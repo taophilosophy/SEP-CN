@@ -16,9 +16,11 @@ from tools.yuanwen import (  # noqa: E402
 
 class TestInline(unittest.TestCase):
     def test_sub_sup_clean_text(self):
-        # 用户 2026-10-27：禁止 HTML 标签——sub/sup 转纯文本记法
+        # 用户 2026-10-27：禁止 HTML 标签；2026-10-28 裁定：有原生 Unicode 字形
+        # 直接用原生字符，无原生字形（大写下标 H、q 下标等）保持记号
         self.assertEqual(inline_to_md('P<sub>H</sub>(E)'), 'P_{H}(E)')
-        self.assertEqual(inline_to_md('3<sup>rd</sup> century'), '3^{rd} century')
+        self.assertEqual(inline_to_md('3<sup>rd</sup> century'), '3ʳᵈ century')
+        self.assertEqual(inline_to_md('V<sub>alpha</sub>'), 'Vₐₗₚₕₐ')
         self.assertNotIn('<sub>', inline_to_md('V<sub>alpha</sub>'))
 
     def test_math_entities_decoded(self):
@@ -32,6 +34,21 @@ class TestInline(unittest.TestCase):
         out = inline_to_md('x<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup>', slug='s')
         self.assertEqual(out, 'x[^note-8]')
         self.assertNotIn('note-note', out)
+
+    def test_subsup_native_unicode(self):
+        # 用户 2026-10-28 裁定：上下标优先 Unicode 原生字符
+        self.assertEqual(inline_to_md('u(a<sub>1</sub>)'), 'u(a₁)')
+        self.assertEqual(inline_to_md('x<sup>2</sup>'), 'x²')
+        self.assertEqual(inline_to_md('S<sub>x</sub>'), 'Sₓ')
+        self.assertEqual(inline_to_md('v<sub>max</sub>'), 'vₘₐₓ')
+        self.assertEqual(inline_to_md('X<sup>T</sup>'), 'Xᵀ')
+        self.assertEqual(inline_to_md('E<sup>−1</sup>'), 'E⁻¹')
+        # 无原生字形（q 下标、⊥ 上标、斜线）→ 保持记号，站点渲染层兜底
+        self.assertEqual(inline_to_md('E<sub>q</sub>'), 'E_{q}')
+        self.assertEqual(inline_to_md('a<sup>⊥</sup>'), 'a^{⊥}')
+        self.assertEqual(inline_to_md('(x<sup>2</sup>)<sup>−1/2</sup>'), '(x²)^{−1/2}')
+        # 含强调/标签的内容不可映射 → 保持记号
+        self.assertEqual(inline_to_md('<sub><i>x</i></sub>'), '_{*x*}')
 
     def test_display_math_gap_block(self):
         # 展示公式 \[…\] 常不带 <p> 标签，块间裸文本须收为 p 块

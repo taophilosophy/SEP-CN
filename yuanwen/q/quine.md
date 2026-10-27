@@ -9,7 +9,7 @@ In what follows, a very brief section on Quine’s life and philosophical work w
 
 ## 1. Quine’s life and work
 
-| 1908 | Born, Akron, Ohio, on June 25^{th}. |
+| 1908 | Born, Akron, Ohio, on June 25ᵗʰ. |
 | --- | --- |
 | 1926–30 | Attended Oberlin College, Ohio; B.A, major in Mathematics with honors reading in mathematical philosophy. |
 | 1930–32 | Attended Harvard University; Ph.D. in Philosophy, dissertation on Whitehead and Russell’s *Principia Mathematica*. |
@@ -28,7 +28,7 @@ In what follows, a very brief section on Quine’s life and philosophical work w
 | 1981 | Published *Theories and Things*. |
 | 1990 | Published *Pursuit of Truth*. |
 | 1995 | Published *From Stimulus to Science*. |
-| 2000 | Died, Boston, Massachusetts, December 25^{th}. |
+| 2000 | Died, Boston, Massachusetts, December 25ᵗʰ. |
 
 (Note: for the sake of brevity, we have listed only Quine’s most notable books, including collections of essays.)
 

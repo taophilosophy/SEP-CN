@@ -713,7 +713,7 @@ logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic:
 
 [^quine-1960]: Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: The MIT Press.
 
-[^quine-1953]: –––, 1953, “Three Grades of Modal Involvement”, *Proceedings of the XI^{th} International Congress of Philosophy*, 14, Amsterdam, North Holland Publishing Company, pp. 65–81.
+[^quine-1953]: –––, 1953, “Three Grades of Modal Involvement”, *Proceedings of the XIᵗʰ International Congress of Philosophy*, 14, Amsterdam, North Holland Publishing Company, pp. 65–81.
 
 [^quine-1986]: –––, 1986, *Philosophy of Logic*, second edition, Cambridge, MA: Harvard University Press.
 
