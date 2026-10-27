@@ -199,6 +199,47 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
+        miniSearch: {
+          // 原文库很大（2300+ 页、正文约 240MB），完整索引会超出 V8 字符串上限
+          // （"Invalid string length"），浏览器端也不可用。自管分节：
+          // 剥离公式哨兵、单节 4KB、单页 16KB 上限，把索引压到可服务体积。
+          _splitIntoSections(file, html) {
+            const headingRegex = /<h(\d*).*?>(.*?<a.*? href="#.*?".*?>.*?<\/a>)<\/h\1>/gi
+            const headingContentRegex = /(.*)<a.*? href="#(.*?)".*?>.*?<\/a>/i
+            const clearTags = (s) =>
+              s.replace(/<[^>]*>/g, '').replace(/@@M[A-Z][A-Za-z0-9_-]+@@/g, ' ')
+            const PAGE_CAP = 16000
+            const SECTION_CAP = 4000
+            let total = 0
+            return function* () {
+              const parts = html.split(headingRegex)
+              parts.shift()
+              let parentTitles = []
+              for (let i = 0; i < parts.length; i += 3) {
+                const level = parseInt(parts[i]) - 1
+                const m = headingContentRegex.exec(parts[i + 1] || '')
+                const title = (m?.[1] ?? '').replace(/<[^>]*>/g, '').trim()
+                const content = parts[i + 2]
+                if (!title || !content) continue
+                const text = clearTags(content)
+                if (!text) continue
+                const titles = parentTitles.slice(0, level)
+                titles[level] = title
+                if (total >= PAGE_CAP) break
+                const kept = text.slice(0, Math.max(0, Math.min(SECTION_CAP, PAGE_CAP - total)))
+                total += kept.length
+                yield { anchor: m?.[2] ?? '', titles, text: kept }
+                if (level === 0) parentTitles = [title]
+                else parentTitles[level] = title
+              }
+              // 无标题页面（如目录页）整体作为一节，保证条目标题可被搜到
+              if (!parts.length) {
+                const text = clearTags(html).slice(0, Math.max(0, PAGE_CAP - total))
+                if (text) yield { anchor: '', titles: [], text }
+              }
+            }
+          },
+        },
         locales: {
           root: {
             translations: {

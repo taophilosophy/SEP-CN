@@ -21,6 +21,7 @@ fetch_audit.py 只校验「目录内裸文件名」引用；本工具做全量�
 退出码: 0 干净（仅信息级）；1 有硬问题；2 错误。
 """
 import argparse
+import html
 import io
 import json
 import os
@@ -48,8 +49,13 @@ MARKERS = [
 
 
 def resolve_ref(src, slug):
-    """引用 → 上游 URL 语义分类。返回 (kind, slug2/域名/一级路径, 目标)。"""
-    src = src.split("#")[0].split("?")[0].strip()
+    """引用 → 上游 URL 语义分类。
+
+    先按浏览器语义做 HTML 实体反解（SEP 混淆邮箱形如 m&#97;ilto:…，
+    其含 & 与 #，若先拆 fragment 会误判为资产引用），再拆 fragment/query。
+    返回 (kind, slug2/域名/一级路径, 目标)；kind ∈ entry/site/external。
+    """
+    src = html.unescape(src).split("#")[0].split("?")[0].strip()
     if not src or src.lower().startswith(("mailto:", "javascript:", "tel:", "data:")):
         return None
     url = urljoin(SITE + "/entries/%s/" % slug, src)
@@ -92,10 +98,11 @@ def audit_dir(root, slug, registered):
 
     pages = [f for f in files if f.lower().endswith(".html")]
     entry_targets = set()          # (slug2, fname) 需本地存在的 /entries/ 资产
+    dir_targets = set()            # 相关词条导航（链接到词条目录根）
     referenced_self = {"index.html"}
     site_seg = Counter()
     external = Counter()
-    mathjax, math_inline_pages, math_assets = [], [], []
+    mathjax, math_inline_pages, math_assets = set(), [], []
     suspects, truncated, no_charset = [], [], []
 
     for pf in pages:
@@ -123,14 +130,16 @@ def audit_dir(root, slug, registered):
             elif kind == "site":
                 site_seg[a] += 1
                 if "mathjax" in a.lower():
-                    mathjax.append({"file": pf, "src": m.group(1), "resolved": b})
+                    mathjax.add(m.group(1))
             else:  # entry
-                if a == slug:
-                    if b:
-                        entry_targets.add((slug, b))
-                        referenced_self.add(b)
-                        if IMG_EXT_RE.search(b) and MATH_ASSET_RE.search(b):
-                            math_assets.append(b)
+                if not b:
+                    if a != slug:
+                        dir_targets.add(a)   # 相关词条导航（链接到词条目录根）
+                elif a == slug:
+                    entry_targets.add((slug, b))
+                    referenced_self.add(b)
+                    if IMG_EXT_RE.search(b) and MATH_ASSET_RE.search(b):
+                        math_assets.append(b)
                 else:
                     entry_targets.add((a, b))
 
@@ -145,6 +154,7 @@ def audit_dir(root, slug, registered):
 
     # /entries/ 命名空间目标逐一核对（大小写精确）
     missing, case_mismatch, cross_missing = [], [], []
+    unmirrored = set()
     for slug2, fname in sorted(entry_targets):
         if slug2 == slug:
             if fname in files:
@@ -156,15 +166,21 @@ def audit_dir(root, slug, registered):
                 missing.append(fname)
         else:
             d2 = os.path.join(root, slug2)
-            names2 = os.listdir(d2) if os.path.isdir(d2) else []
+            if not os.path.isdir(d2):
+                unmirrored.add(slug2)   # 上游有而镜像未含（intake 队列），非缺件
+                continue
+            names2 = os.listdir(d2)
             if fname in names2:
                 continue
-            if [f for f in names2 if f.lower() == fname.lower()]:
+            low_hits = [f for f in names2 if f.lower() == fname.lower()]
+            if low_hits:
                 case_mismatch.append({"ref": "%s/%s" % (slug2, fname),
-                                      "on_disk": "%s/%s" % (slug2, next(
-                                          f for f in names2 if f.lower() == fname.lower()))})
+                                      "on_disk": "%s/%s" % (slug2, low_hits[0])})
             else:
                 cross_missing.append({"entry": slug2, "asset": fname})
+    for slug2 in sorted(dir_targets):
+        if not os.path.isdir(os.path.join(root, slug2)):
+            unmirrored.add(slug2)
     if missing:
         res["missing_assets"] = missing
         hard += 1
@@ -202,7 +218,7 @@ def audit_dir(root, slug, registered):
         hard += 1
 
     if mathjax:
-        res["mathjax"] = mathjax
+        res["mathjax"] = sorted(mathjax)
     if math_inline_pages:
         res["math_inline_pages"] = math_inline_pages
     if math_assets:
@@ -211,6 +227,7 @@ def audit_dir(root, slug, registered):
     info = {
         "files": len(files), "pages": len(pages),
         "site_refs": dict(site_seg), "external_refs": dict(external),
+        "cross_links_unmirrored": len(unmirrored),
     }
     res["info"] = info
     return res, hard

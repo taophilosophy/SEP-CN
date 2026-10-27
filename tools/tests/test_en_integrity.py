@@ -20,6 +20,7 @@ PAGE = """<!DOCTYPE html>
 <img src="eqn2.gif" alt="equation" />
 <a href="notes.html">Notes</a>
 <a href="../beta/fig-shared.png">shared figure</a>
+<a href="../beta/">related entry</a>
 <a href="../../css/style.css">css</a>
 <a href="https://example.org/x">ext</a>
 </body></html>"""
@@ -49,6 +50,7 @@ class TestResolveRef(unittest.TestCase):
         self.assertEqual(resolve_ref("https://example.org/x", "alpha"),
                          ("external", "example.org", "/x"))
         self.assertIsNone(resolve_ref("mailto:a@b.c", "alpha"))
+        self.assertIsNone(resolve_ref("m&#97;ilto:a&#37;40b.c", "alpha"))
         self.assertIsNone(resolve_ref("", "alpha"))
 
 
@@ -96,10 +98,17 @@ class TestAuditDir(unittest.TestCase):
         self.assertEqual(res["missing_assets"], ["fig1.png"])
 
     def test_cross_entry_missing(self):
-        shutil.rmtree(os.path.join(self.en, "beta"))
+        os.remove(os.path.join(self.en, "beta", "fig-shared.png"))
         res, hard = self.audit({"index.html", "fig1.png", "eqn2.gif", "notes.html"})
         self.assertEqual(res["cross_entry_missing"],
                          [{"entry": "beta", "asset": "fig-shared.png"}])
+
+    def test_cross_entry_unmirrored_is_info_only(self):
+        shutil.rmtree(os.path.join(self.en, "beta"))
+        res, hard = self.audit({"index.html", "fig1.png", "eqn2.gif", "notes.html"})
+        self.assertEqual(hard, 0)
+        self.assertNotIn("cross_entry_missing", res)
+        self.assertEqual(res["info"]["cross_links_unmirrored"], 1)
 
     def test_orphan_and_unregistered(self):
         build(self.en, {"alpha/leftover.html": "<html></html>",
