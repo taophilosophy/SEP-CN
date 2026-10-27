@@ -65662,7 +65662,92 @@
           "kind": "image"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/j/japanese-aesthetics.md",
+        "sha256": "5385145ead1d5c9755ac18c1a6b63a03afbf7177a79840f11a6681fa8b94d193",
+        "source_sha256": "022caca637b16361067e407fa5648e57a6afadd919a7524aa6fc14e2bef0904d",
+        "converted_at": "2026-10-27T11:46:20Z",
+        "cite_markers": 4,
+        "cite_defs": 44,
+        "supplements": [
+          "japanese-aesthetics.ginkakuji-kinkakuji.md",
+          "japanese-aesthetics.ginkakuji.md",
+          "japanese-aesthetics.late-spring.md",
+          "japanese-aesthetics.ryoanji.md",
+          "japanese-aesthetics.splashed-ink.md",
+          "japanese-aesthetics.tokyo-story.md"
+        ],
+        "images": [
+          "yuanwen/assets/japanese-aesthetics/LSfathers1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSfathers1.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSfathers2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSfathers2.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSfathers3-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSfathers3.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSgarden1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSgarden1.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSgarden2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSgarden2.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks1.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks2.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks3-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSrocks3.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSwindow-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/LSwindow.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-1.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-2.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-3-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-3.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-4-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-4.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-5-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-5.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-6-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/TS-6.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji1.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji2.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji3-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji3.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji4-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji4.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji5-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ginkakuji5.jpg",
+          "yuanwen/assets/japanese-aesthetics/kinkakuji1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/kinkakuji1.jpg",
+          "yuanwen/assets/japanese-aesthetics/kinkakuji2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/kinkakuji2.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji0-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji0.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji1-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji1.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji2-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji2.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji3-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji3.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji4-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji4.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji5-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji5.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji6-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji6.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji7-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji7.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji8-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji8.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji9-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/ryoanji9.jpg",
+          "yuanwen/assets/japanese-aesthetics/splashed-ink-landscape-thumb.jpg",
+          "yuanwen/assets/japanese-aesthetics/splashed-ink-landscape.jpg"
+        ],
+        "notes": 0
+      }
     },
     {
       "slug": "japanese-confucian",
@@ -67046,7 +67131,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/j/justice.md",
+        "sha256": "0a8a75ca6ca91acd7d30c7ce2dfe44e77c6613569010716654d13efd50b8494a",
+        "source_sha256": "5d7d80dec97fbecd0b1a17f03e4eccab40be0c4f2908af3395e4e3bc04651de1",
+        "converted_at": "2026-10-27T11:46:20Z",
+        "cite_markers": 89,
+        "cite_defs": 78,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "justice-bad-luck",
@@ -67614,7 +67710,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/j/justice-moral-psych.md",
+        "sha256": "d2d80b27f4c716ac08627994715058e9a1cfba3ee9f19f4d53519d93a34001f9",
+        "source_sha256": "0e16c1ed5912ee0841a96f6b82dcebce868acbb131bf664abac82394bd56952b",
+        "converted_at": "2026-10-27T11:46:19Z",
+        "cite_markers": 141,
+        "cite_defs": 77,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "justice-retributive",
@@ -138812,5 +138919,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-27T11:37:54Z"
+  "updated_at": "2026-10-27T11:46:20Z"
 }

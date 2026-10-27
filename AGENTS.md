@@ -33,6 +33,7 @@
 ## 当前阶段与主战场（2026-10-27）
 
 基础设施已全部就绪：结构定型（ADR-0009）、抓取完整性收敛（fetch_audit 不动点 1724/1724）、管线无矛盾（八项职责权属契约化）、门禁全绿、学术规范挂钩实拦、G5 里程碑 tag `v2026.10.27-目录重建定型`。**主战场**：① 首轮真实翻译（1791 词条，abduction 任务已就绪，走完整三审三校验证工作流）；② 74 条上游增量 intake（`specs/001-sep-sync-pipeline/dir-rebuild/upstream-increment.json`：建任务 → 译名登记 → apply-add）；③ 更新流程例行化（存档季 `fetch_catalog` + `compare`，漂移自动进 update 任务）。进度看 `PROGRESS.md`，技术债务看 `specs/004-engineering-doctrine/spec.md` 登记表。
+**多会话分批执行**：交接开工卡见 `specs/005-translation-campaign/session-handoff.md`——开工三件事（status/next/claim）、各阶段标准作业、纪律与验收，新会话拿卡即独立开工。
 
 ## 硬约束速览
 

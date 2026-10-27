@@ -200,6 +200,33 @@ def cmd_next(args):
     return 0
 
 
+def batch_slugs(letter):
+    """批次词条清单（SUMMARY 实时推导，单一事实源）。"""
+    pat = re.compile(r"^(\s*)\* \[(.+)\]\(([a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*)\.md\)$")
+    out = []
+    for line in open(repo_path("SUMMARY.md"), encoding="utf-8"):
+        m = pat.match(line.rstrip("\n"))
+        if not m:
+            continue
+        title, path = m.group(2), m.group(3)
+        slug = path.split("/")[1]
+        if batch_of(slug) != letter:
+            continue
+        if "— see" in title or "——见" in title:
+            continue
+        out.append(slug)
+    return out
+
+
+def cmd_slugs(args):
+    if not re.fullmatch(r"[a-z0-9]", args.batch):
+        print(json.dumps({"error": "批次必须是 1 或 a–z"}))
+        return 2
+    for slug in batch_slugs(args.batch):
+        print(slug)
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", nargs="?")
@@ -232,6 +259,11 @@ def main(argv=None):
             return 2
         return cmd_advance(type("A", (), {"batch": args.batch, "phase": args.phase,
                                           "note": args.note})())
+    if cmd == "slugs":
+        if not args.batch:
+            print(json.dumps({"error": "用法: slugs <batch>"}))
+            return 2
+        return cmd_slugs(type("A", (), {"batch": args.batch})())
     if cmd == "next":
         return cmd_next(type("A", (), {"phase": args.batch if args.batch in PHASES else None})())
     print(__doc__)
