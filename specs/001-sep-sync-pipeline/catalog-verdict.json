@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:06:46Z",
+  "generated_at": "2026-10-27T17:59:38Z",
   "add": [
     {
       "slug": "abortion",
@@ -167,13 +167,6 @@
       "title_en": "doxastic voluntarism",
       "authors": "Mark Boespflug and Elizabeth Jackson",
       "proposed_file": "d/doxastic-voluntarism.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "economic-democracy",
-      "title_en": "economic",
-      "authors": "Lisa Herzog",
-      "proposed_file": "e/economic-democracy.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -366,13 +359,6 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "nominalism-metaphysics",
-      "title_en": "in metaphysics",
-      "authors": "Sam Cowling and Daniel Giberman",
-      "proposed_file": "n/nominalism-metaphysics.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "ontology-is",
       "title_en": "and information systems",
       "authors": "Adam Pease",
@@ -391,13 +377,6 @@
       "title_en": "philanthropy",
       "authors": "Theodore M. Lechterman, Emma Saunders-Hastings, and Rob Reich",
       "proposed_file": "p/philanthropy.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-laws",
-      "title_en": "Laws",
-      "authors": "Chris Bobonich and Katherine Meadows",
-      "proposed_file": "p/plato-laws.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -433,13 +412,6 @@
       "title_en": "realism and anti-realism about",
       "authors": "Mark Balaguer",
       "proposed_file": "r/realism-about-metaphysics.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "religion-comparative",
-      "title_en": "comparative philosophy of",
-      "authors": "Mikel Burley",
-      "proposed_file": "r/religion-comparative.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -499,13 +471,6 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "trans",
-      "title_en": "trans philosophy",
-      "authors": "Perry Zurn",
-      "proposed_file": "t/trans.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "truth-primitivist",
       "title_en": "primitivist theories of",
       "authors": "Jeremy Wyatt",
@@ -536,50 +501,35 @@
   ],
   "remove": [
     {
-      "line": 528,
+      "line": 529,
       "path": "c/continental-rationalism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 622,
+      "line": 623,
       "path": "p/pineal-gland.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 660,
-      "path": "h/health-well-being-personal-relationships.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1170,
-      "path": "i/indian-philosophy.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1897,
-      "path": "o/on-utopia.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2021,
+      "line": 2028,
       "path": "q/qm-action-distance.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2204,
+      "line": 2213,
       "path": "s/scientific-explanation.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2423,
-      "path": "t/the-experience-and-perception-of.md",
+      "line": 2434,
+      "path": "t/time-experience.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2535,
+      "line": 2547,
       "path": "w/wisdom.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     }
   ],
-  "mapped": 1796
+  "mapped": 1801
 }
