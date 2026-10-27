@@ -38,6 +38,7 @@ PATTERNS = [
     (r'^\.(pytest_cache|mypy_cache|ruff_cache)/', '工具缓存'),
     (r'^en/', '原始抓取物（宪法 II / FR-014：仅存本地）'),
     (r'^\.github/sep-sync-report/', '同步检查运行时报告'),
+    (r'^[^/]+\.html$', '根级 HTML 残留（站点页面误抓，仓库无合法根级 html；2026-10-27 audit 教训）'),
 ]
 
 
