@@ -1,19 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""单体文件大小门禁（ADR-0004）。
+"""单体文件大小门禁（ADR-0004 + 2026-10-27 规则文本专用阈值）。
 
 叙事/规则/规格/指南类 markdown 单文件超过阈值（1000 行或 100KB）任一，
 必须按文件夹拆分：X.md → X/index.md + 按节/附录归类的子文件。
+约束性规则（rules/0X.md）适用更严阈值（300 行或 30KB）：超过即按主题拆分为
+目录 rules/0X/，每文件一主题，分别存放具体规则（rules/README 规则地图同步）。
 SEP 词条本体不在管辖范围；数据登记册与工具生成物豁免（见 ADR-0004 豁免表）。
 """
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LIMIT_LINES = 1000
 LIMIT_BYTES = 100 * 1024
+
+# 规则文本专用更严阈值：约束性规则 rules/0X.md 超 300 行或 30KB 任一即按主题拆目录
+RULE_LIMIT_LINES = 300
+RULE_LIMIT_BYTES = 30 * 1024
+RULE_FILES = re.compile(r"^rules/0[1-9][^/]*\.md$")
 
 # 扫描根：根级散页 + 叙事/规则/规格/指南目录；词条本体目录（a–z、集群目录、en/、yuanwen/）不扫
 SCAN_DIRS = ("rules", "specs", "qian-yan", "guan-yu", "fang-fa-lun", "jian-yi-shu", ".specify")
@@ -28,8 +36,15 @@ EXEMPT = {
 }
 
 
-def over_limit(lines: int, size: int) -> bool:
-    return lines > LIMIT_LINES or size > LIMIT_BYTES
+def limits_for(rel: str) -> tuple[int, int]:
+    if RULE_FILES.match(rel):
+        return RULE_LIMIT_LINES, RULE_LIMIT_BYTES
+    return LIMIT_LINES, LIMIT_BYTES
+
+
+def over_limit(lines: int, size: int, limits: tuple[int, int]) -> bool:
+    ll, lb = limits
+    return lines > ll or size > lb
 
 
 def iter_docs(root: Path = ROOT):
@@ -52,15 +67,18 @@ def scan(root: Path = ROOT):
 
 def main() -> int:
     rows = scan()
-    violations = [
-        (rel, lines, size)
-        for rel, lines, size in rows
-        if rel not in EXEMPT and over_limit(lines, size)
-    ]
+    violations = []
+    for rel, lines, size in rows:
+        if rel in EXEMPT:
+            continue
+        ll, lb = limits_for(rel)
+        if lines > ll or size > lb:
+            violations.append((rel, lines, size, (ll, lb)))
 
     print(
-        f"单体文件门禁（ADR-0004）：扫描 {len(rows)} 个 markdown，"
-        f"阈值 {LIMIT_LINES} 行 / {LIMIT_BYTES} 字节"
+        f"单体文件门禁（ADR-0004 + 规则文本阈值）：扫描 {len(rows)} 个 markdown，"
+        f"通用阈值 {LIMIT_LINES} 行 / {LIMIT_BYTES} 字节，"
+        f"约束性规则 rules/0X 专用 {RULE_LIMIT_LINES} 行 / {RULE_LIMIT_BYTES} 字节"
     )
     print("体量前 10（* 为豁免登记册/生成物）：")
     for rel, lines, size in rows[:10]:
@@ -68,13 +86,16 @@ def main() -> int:
         print(f"  {size:>9} 字节 {lines:>5} 行  {rel}{mark}")
     if violations:
         print(f"HARD ERRORS: {len(violations)}")
-        for rel, lines, size in violations:
+        for rel, lines, size, (ll, lb) in violations:
             why = []
-            if lines > LIMIT_LINES:
-                why.append(f"{lines} 行 > {LIMIT_LINES}")
-            if size > LIMIT_BYTES:
-                why.append(f"{size} 字节 > {LIMIT_BYTES}")
-            print(f"  超限：{rel}（{'、'.join(why)}）→ 按 ADR-0004 拆分为文件夹")
+            if lines > ll:
+                why.append(f"{lines} 行 > {ll}")
+            if size > lb:
+                why.append(f"{size} 字节 > {lb}")
+            if (ll, lb) == (RULE_LIMIT_LINES, RULE_LIMIT_BYTES):
+                print(f"  超限：{rel}（{'、'.join(why)}）→ 按主题拆分为目录 rules/{rel.split('/')[1].split('-')[0]}/，规则地图同步")
+            else:
+                print(f"  超限：{rel}（{'、'.join(why)}）→ 按 ADR-0004 拆分为文件夹")
         return 1
     print("OK：受管文件全部达标")
     return 0

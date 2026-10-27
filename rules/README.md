@@ -30,7 +30,7 @@
 | 类别 | 存放位置 | 内容 | 权属 |
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
-| 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录） | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
+| 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist） | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
