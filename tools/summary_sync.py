@@ -37,6 +37,41 @@ from tools.common import (  # noqa: E402
 SLUG_SAFE = re.compile(r'[^a-z0-9_-]')
 
 
+def _upstream_doc_order():
+    """上游 contents.html 最新快照中真条目（alias_of=None）的文档顺序。"""
+    import glob
+    from tools import parser as _parser
+    snaps = sorted(glob.glob(repo_path('en', '_catalog', '*-contents.html')))
+    if not snaps:
+        return []
+    p = _parser._CatalogHTMLParser()
+    p.feed(open(snaps[-1], 'rb').read().decode('utf-8', 'replace'))
+    p.close()
+    seen, out = set(), []
+    for it in p.items:
+        if not it.get('alias_of') and it['slug'] not in seen:
+            seen.add(it['slug'])
+            out.append(it['slug'])
+    return out
+
+
+def _summary_slug_lines(lines):
+    """SUMMARY 中各 slug 最后一条正式行 → {slug: (行号, 行)}。"""
+    out = {}
+    for i, l in enumerate(lines):
+        m = re.match(r'^(\s*)\* \[(.*)\]\(([^)]*)\)\s*$', l)
+        if not m:
+            continue
+        path = m.group(3)
+        if not re.fullmatch(r'[a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*\.md', path):
+            continue
+        title = m.group(2)
+        if '— see' in title or title.lstrip().startswith('*'):
+            continue
+        out[path.rsplit('/', 1)[-1][:-3]] = (i, l)
+    return out
+
+
 def slug_file(slug):
     """slug → 文件名（Windows 不兼容字符换下划线，FR-021）。"""
     return SLUG_SAFE.sub('_', slug)
