@@ -306,14 +306,12 @@ def cmd_stubs():
         if not m:
             continue
         title, path = m.group(2), m.group(3)
-        if not path.endswith("/index.md"):
+        mm = re.fullmatch(r"([a-z0-9])/([A-Za-z0-9][A-Za-z0-9.\-]*)\.md", path)
+        if not mm:
             continue
-        slug = path[:-len("/index.md")]
-        if "/" in slug or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", slug):
-            continue
-        d = os.path.join(ROOT, slug)
+        d = os.path.join(ROOT, mm.group(1))
         os.makedirs(d, exist_ok=True)
-        p = os.path.join(d, "index.md")
+        p = os.path.join(d, path)
         if os.path.exists(p):
             skipped += 1
             continue
@@ -323,67 +321,134 @@ def cmd_stubs():
     print("chinese stubs created=%d skipped=%d" % (created, skipped))
 
 
+def cmd_toletters():
+    """ADR-0009 一次性迁移：根级 <slug>.md → <letter>/<slug>.md；yuanwen 同构；SUMMARY/mu-lu-s 链接改写。"""
+    tracked = set(l.strip() for l in subprocess.run(
+        ["git", "ls-files"], cwd=ROOT, capture_output=True, text=True).stdout.splitlines() if l.strip())
+    moved = git_moved = 0
+
+    def mv(src, dst, is_tracked):
+        nonlocal moved, git_moved
+        if os.path.exists(dst):
+            print("  碰撞跳过:", dst)
+            return
+        d = os.path.dirname(dst)
+        if d:
+            os.makedirs(d, exist_ok=True)
+        if is_tracked:
+            subprocess.run(["git", "mv", src, dst], cwd=ROOT, check=True, capture_output=True)
+            git_moved += 1
+        else:
+            os.rename(src, dst)
+        moved += 1
+
+    def letter_of(stem):
+        return stem[0].lower() if re.fullmatch(r"[A-Za-z0-9]", stem[:1]) else "1"
+
+    skip_roots = {"README.md", "SUMMARY.md", "mu-lu-s.md", "PROGRESS.md", "yi-zhe-shuo-ming.md",
+                  "AGENTS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md"}
+
+    # 1) 中文侧：根级 <slug>.md → <letter>/<slug>.md
+    for fn in sorted(os.listdir(ROOT)):
+        stem, ext = os.path.splitext(fn)
+        if ext != ".md" or fn in skip_roots:
+            continue
+        if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", stem):
+            continue
+        mv(fn, letter_of(stem) + "/" + fn, fn in tracked)
+
+    # 2) 英文侧 yuanwen：<slug>.md / <slug>.<x>.md → <letter>/<...>
+    yw = os.path.join(ROOT, "yuanwen")
+    for fn in sorted(os.listdir(yw)) if os.path.isdir(yw) else []:
+        stem, ext = os.path.splitext(fn)
+        if ext != ".md" or fn == "SUMMARY.md":
+            continue
+        base = stem.split(".", 1)[0]
+        if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", base):
+            continue
+        mv("yuanwen/" + fn, "yuanwen/" + letter_of(base) + "/" + fn, ("yuanwen/" + fn) in tracked)
+
+    # 3) SUMMARY/mu-lu-s：](<slug>.md) → ](<letter>/<slug>.md)
+    for name in ("SUMMARY.md", "mu-lu-s.md"):
+        txt = open(os.path.join(ROOT, name), encoding="utf-8").read()
+
+        def repl(m):
+            path = m.group(1)
+            if "/" in path or path in skip_roots:
+                return m.group(0)
+            stem = path[:-3]
+            if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", stem):
+                return m.group(0)
+            return "](%s/%s)" % (letter_of(stem), path)
+
+        new, n = re.subn(r"\]\(([^)]+\.md)\)", repl, txt)
+        if n:
+            open(os.path.join(ROOT, name), "w", encoding="utf-8", newline="\n").write(new)
+        print("%s 链接改写 %d 处" % (name, n))
+    print("toletters: moved=%d (git mv %d)" % (moved, git_moved))
+
+
 def tracked_files():
     st = subprocess.run(["git", "ls-files", "yuanwen/"], cwd=ROOT, capture_output=True, text=True)
     return set(l.strip() for l in st.stdout.splitlines() if l.strip())
 
 
-def cmd_yuanwen():
-    main, by_title, alias = load_snapshot()
-    canonical = {slug: meta for slug, meta in main.items()}
-    yw = os.path.join(ROOT, "yuanwen")
-    tracked = tracked_files()
-
-    # 1) 扁平文件迁移：单字符目录 -> <slug>/index.md 或 <slug>/<supplement>.md
+def cmd_flatten():
+    """ADR-0008 一次性迁移：<slug>/index.md → <slug>.md；yuanwen 同构；SUMMARY/mu-lu-s 链接改写。"""
+    tracked = set(l.strip() for l in subprocess.run(
+        ["git", "ls-files"], cwd=ROOT, capture_output=True, text=True).stdout.splitlines() if l.strip())
     moved = git_moved = 0
-    problems = []
-    letters = [d for d in os.listdir(yw) if re.fullmatch(r"[a-z0-9]", d)] if os.path.isdir(yw) else []
-    for d in sorted(letters):
-        dd = os.path.join(yw, d)
-        for fn in sorted(os.listdir(dd)):
-            if not fn.endswith(".md"):
-                continue
-            stem = fn[:-3]
-            # 点号补充材料：base 为已知 slug 时拆入 <base>/<suffix>.md
-            if "." in stem:
-                base, suffix = stem.split(".", 1)
-                if base in canonical:
-                    rel = base + "/" + suffix + ".md"
-                else:
-                    rel = stem + "/index.md"
-            else:
-                rel = stem + "/index.md"
-            src = os.path.join(dd, fn)
-            dst = os.path.join(yw, *rel.split("/"))
-            if os.path.exists(dst):
-                problems.append("目标已存在: " + rel)
-                continue
-            os.makedirs(os.path.dirname(dst), exist_ok=True)
-            old = "yuanwen/" + d + "/" + fn
-            if old in tracked:
-                subprocess.run(["git", "mv", old, "yuanwen/" + rel], cwd=ROOT, check=True,
-                               capture_output=True)
-                git_moved += 1
-            else:
-                shutil.move(src, dst)
-            moved += 1
-        if not os.listdir(dd):
+
+    def mv(src, dst, is_tracked):
+        nonlocal moved, git_moved
+        if os.path.exists(dst):
+            print("  碰撞跳过:", dst)
+            return
+        if is_tracked:
+            subprocess.run(["git", "mv", src, dst], cwd=ROOT, check=True, capture_output=True)
+            git_moved += 1
+        else:
+            os.rename(src, dst)
+        moved += 1
+
+    # 1) 中文侧：根级 <slug>/index.md → <slug>.md（jian-yi-shu 为叙事拆分目录，不动）
+    for d in sorted(os.listdir(ROOT)):
+        dd = os.path.join(ROOT, d)
+        if not os.path.isdir(dd) or d in ("yuanwen", "jian-yi-shu", "progress"):
+            continue
+        idx = os.path.join(dd, "index.md")
+        if os.path.isfile(idx) and re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", d):
+            mv(d + "/index.md", d + ".md", d + "/index.md" in tracked)
+        if os.path.isdir(dd) and not os.listdir(dd):
             os.rmdir(dd)
 
-    # 2) 补缺：canonical 每个词条无 index.md 则建英文标题 H1 桩
-    created = 0
-    for slug, meta in sorted(canonical.items()):
-        p = os.path.join(yw, slug, "index.md")
-        if os.path.exists(p):
+    # 2) 英文侧 yuanwen：<slug>/index.md → <slug>.md；<slug>/<x>.md → <slug>.<x>.md；图片 → assets/<slug>/
+    yw = os.path.join(ROOT, "yuanwen")
+    for d in sorted(os.listdir(yw)) if os.path.isdir(yw) else []:
+        dd = os.path.join(yw, d)
+        if not os.path.isdir(dd) or d in ("assets",):
             continue
-        os.makedirs(os.path.dirname(p), exist_ok=True)
-        with open(p, "w", encoding="utf-8", newline="\n") as f:
-            f.write("# " + ((meta or {}).get("title") or slug) + "\n")
-        created += 1
-    print("yuanwen moved=%d (git mv %d) stubs created=%d problems=%d"
-          % (moved, git_moved, created, len(problems)))
-    for p in problems[:10]:
-        print("  ", p)
+        for fn in sorted(os.listdir(dd)):
+            src = os.path.join(dd, fn)
+            stem, ext = os.path.splitext(fn)
+            if ext == ".md":
+                rel = d + ".md" if fn == "index.md" else d + "." + stem + ".md"
+            else:
+                adir = os.path.join(yw, "assets", d)
+                os.makedirs(adir, exist_ok=True)
+                rel = "assets/" + d + "/" + fn
+            mv("yuanwen/" + d + "/" + fn, os.path.join(yw, *rel.split("/")), ("yuanwen/" + d + "/" + fn) in tracked)
+        if os.path.isdir(dd) and not os.listdir(dd):
+            os.rmdir(dd)
+
+    # 3) SUMMARY/mu-lu-s：](<slug>/index.md) → ](<slug>.md)
+    for name in ("SUMMARY.md", "mu-lu-s.md"):
+        txt = open(os.path.join(ROOT, name), encoding="utf-8").read()
+        new, n = re.subn(r"\]\(([^)]+?)/index\.md\)", r"](\1.md)", txt)
+        if n:
+            open(os.path.join(ROOT, name), "w", encoding="utf-8", newline="\n").write(new)
+        print("%s 链接改写 %d 处" % (name, n))
+    print("flatten: moved=%d (git mv %d)" % (moved, git_moved))
 
 
 def cmd_check():
@@ -397,7 +462,9 @@ def cmd_check():
                 print("BROKEN %s:%d %s -> %s" % (name, i, m.group(2)[:40], p))
                 bad += 1
     main, _, _ = load_snapshot()
-    missing = [s for s in main if not os.path.isfile(os.path.join(ROOT, "yuanwen", s, "index.md"))]
+    missing = [s for s in main
+               if not os.path.isfile(os.path.join(ROOT, s[0].lower(), s + ".md"))
+               or not os.path.isfile(os.path.join(ROOT, "yuanwen", s[0].lower(), s + ".md"))]
     print("broken links=%d ; snapshot entries without yuanwen mirror=%d / %d"
           % (bad, len(missing), len(main)))
     for s in missing[:10]:
@@ -410,8 +477,10 @@ if __name__ == "__main__":
         cmd_rebuild()
     elif cmd == "stubs":
         cmd_stubs()
-    elif cmd == "yuanwen":
-        cmd_yuanwen()
+    elif cmd == "flatten":
+        cmd_flatten()
+    elif cmd == "toletters":
+        cmd_toletters()
     elif cmd == "check":
         cmd_check()
     else:

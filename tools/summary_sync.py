@@ -2,8 +2,8 @@
 """SUMMARY / mu-lu-s 目录同步（FR-021/022/023，用户 2026-10-27 三条裁定）。
 
 政策：
-- 文件名一律与 SEP 网站文件名（slug）一致（<slug 首字母>/<slug>.md，集群 <slug>/），
-  Windows 不兼容字符换下划线；拼音文件名弃用，存量分批迁移；
+- 词条为根级 <slug>.md 单文件（ADR-0008 词条文件化，英文侧 yuanwen/<slug>.md 镜像），
+  文件名与 SEP slug 一致，Windows 不兼容字符换下划线；拼音文件名已随重建淘汰；
 - 上游 slug 变更 → 中文文件名同步改；上游删除词条 → stub 一并删除；
 - mu-lu-s 仅保留去重结果、按分类组织；归类与节内次序为编辑判断，工具不自动归类。
 
@@ -98,8 +98,8 @@ def report():
         if not pm:
             continue
         path = pm.group(1)
-        if not re.fullmatch(r'[a-z]/.+', path) or path.endswith('/'):
-            continue
+        if not re.fullmatch(r'[a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*\.md', path):
+            continue  # 仅 <letter>/<slug>.md 词条文件（ADR-0009 A–Z 字母目录）
         if '-see-' in path.lower():
             continue  # 别名 stub：上游别名无独立 slug，另行人工核对
         if path in mapped_paths:
@@ -131,8 +131,7 @@ def apply_add(slug, title_zh, file_name=None):
     if not rec.get('title'):
         raise Precondition('基线记录缺 title')
     fname = slug_file(file_name or slug)
-    letter = slug[0]
-    rel = '%s/%s.md' % (letter, fname)
+    rel = '%s/%s.md' % (slug[0], fname)
     full = repo_path(rel)
     if os.path.exists(full):
         raise Precondition('目标文件已存在: %s' % rel)
@@ -141,17 +140,16 @@ def apply_add(slug, title_zh, file_name=None):
     link_text = ('%s %s (%s)' % (title_zh, title_en, authors)) if authors \
         else ('%s %s' % (title_zh, title_en))
 
-    # 1) SUMMARY 插入：字母节内按英文标题字母序
+    # 1) SUMMARY 插入：全列表按英文标题字母序（ADR-0008 无字母节，仅词条行参与排序）
     lines = summary_lines()
-    sec_re = re.compile(r'^## %s$' % letter.upper())
-    start = next(i for i, l in enumerate(lines) if sec_re.match(l))
-    end = next((i for i in range(start + 1, len(lines))
-                if lines[i].startswith('## ')), len(lines))
     new_line = '* [%s](%s)' % (link_text, rel)
     new_key = english_of(link_text)
-    ins = end
-    for i in range(start + 1, end):
-        tm = re.search(r'\[([^\]]+)\]', lines[i])
+    ins = len(lines)
+    for i, l in enumerate(lines):
+        pm = re.search(r'\]\(([^)]+\.md)\)', l)
+        if not pm or '/' in pm.group(1):
+            continue  # 跳过前置项目页，仅根级 <slug>.md 词条行参与排序
+        tm = re.search(r'\[([^\]]+)\]', l)
         if not tm:
             continue
         k = english_of(tm.group(1))
@@ -225,8 +223,7 @@ def apply_rename(slug, new_slug, yes=False):
     old_zh = find_zh_doc(slug)
     if not old_zh:
         raise Precondition('SUMMARY 中找不到 %s' % slug)
-    letter = new_slug[0]
-    new_zh = '%s/%s.md' % (letter, slug_file(new_slug))
+    new_zh = '%s/%s.md' % (new_slug[0], slug_file(new_slug))
     old_full, new_full = repo_path(old_zh), repo_path(new_zh)
     plan = {'slug': slug, 'new_slug': new_slug, 'old': old_zh, 'new': new_zh,
             'policy': 'FR-022 文件名同步改'}

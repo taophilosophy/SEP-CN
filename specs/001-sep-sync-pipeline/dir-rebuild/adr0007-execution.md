@@ -52,3 +52,12 @@ python tools/rebuild_dir.py stubs     # 中文侧 <slug>/index.md 骨架（幂�
 python tools/rebuild_dir.py yuanwen   # yuanwen 迁移 + 英文侧补缺
 python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 ```
+
+## ADR-0008/0009 执行补充 — 2026-10-27
+
+* **ADR-0008（词条文件化）**：`<slug>/index.md` → `<slug>.md` 平铺（flatten，git mv 1821+3，SUMMARY/mu-lu-s 链接改写）。
+* **ADR-0009（A–Z 字母目录）**：根级平铺 → `<letter>/<slug>.md`（toletters，moved 4116、git mv 1821；SUMMARY 改写 2560 处、mu-lu-s 1805 处）；补充材料点号命名同目录平铺；图片归 `yuanwen/assets/<slug>/`；英文字母目录与中文侧逐字符镜像。
+* 过程修复：① flatten 英文侧 index.md 目标路径算错（首笔落 yuanwen/index.md 后全部碰撞跳过）；② toletters 误迁 AGENTS.md/CODE_OF_CONDUCT.md/CONTRIBUTING.md（skip_roots 补齐）；③ "进步 progress" 条目被 narrative progress/ 目录占位致桩未建成，已建 `p/progress.md`；④ 同名子词条裁定：亚里士多德主义复兴 → `a/aristotelianism-renaissance.md`（原派生路径 i/in-the-renaissance.md 作废）；⑤ 历史缺载条目补回 6 条（arabic-islamic-essence、aristotle-de-motu、aristotle-text、korean-philosophy 等，中文标题按集群命名惯例拟定，待译名登记册复核）。
+* **镜像覆盖**：快照 main 1872 条，中文/yuanwen 双侧 100%（缺口 74 条为上游增量，见 upstream-increment.json）。
+* **工具对齐（ADR-0008/0009）**：yuanwen.py（`yuanwen/<letter>/<slug>.md` + 点号补充材料 + assets 图片）、common.py find_zh_doc、summary_sync.py（无字母节插入、`<letter>/<slug>.md` 路径）、progress.py（字母目录统计）、rebuild_dir.py（stubs/flatten/toletters/check）；migrate_exec.py 标记废弃。
+* **待上游同步 intake**：74 条快照有而 SUMMARY 无的条目（upstream-increment.json），需按 rules/04 建任务后译名登记、建桩插入，不机器臆造中文标题。

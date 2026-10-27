@@ -169,10 +169,9 @@ def zh_doc_from_lines(slug, title_en, lines):
     def ok(path):
         return "-see-" not in path.lower()
 
-    m = re.search(r"\]\(([^)]*%s\.md)\)" % re.escape(slug), "\n".join(lines))
+    m = re.search(r"\]\(([a-z0-9]/%s\.md)\)" % re.escape(slug), "\n".join(lines))
     if m and ok(m.group(1)):
         return m.group(1)
-    letter = slug[0]
     cands = []
     # 逐行解析（演示轮 2 复核：链接文字含 \[Abailard\] 转义括号时，
     # finditer 的 \[[^\]]*\] 会在文字中途截断导致整行漏配）
@@ -183,10 +182,8 @@ def zh_doc_from_lines(slug, title_en, lines):
         link_text, path = line[:pm.start()], pm.group(1)
         if "-see-" in path.lower() or "-see-" in link_text.lower():
             continue
-        # 集群词条链接形如 s/ji-he-lun-set-theory-joan-bagaria/README.md：
-        # slug 可能在路径中段，须查整条路径而非仅文件名
-        if path.startswith(letter + "/") and (
-                slug in path.lower() or slug in path.replace("/", "-").split("-")):
+        # 词条为 <letter>/<slug>.md（ADR-0009 A–Z 字母目录）；回退按路径含 slug 匹配
+        if slug.lower() in path.lower() or slug in path.replace("/", "-").split("-"):
             cands.append(path)
     if cands:
         cands.sort(key=len)

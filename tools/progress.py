@@ -34,7 +34,7 @@ def unescape(t):
 def load_summary():
     formal, alias, placeholder = defaultdict(int), 0, defaultdict(int)
     total_alias = 0
-    per_letter = defaultdict(lambda: [0, 0, 0])  # formal, alias, placeholder
+    per_letter = defaultdict(lambda: [0, 0, 0])  # formal, alias, placeholder（按字母目录，ADR-0009）
     with open(os.path.join(ROOT, 'SUMMARY.md'), encoding='utf-8') as f:
         for line in f:
             m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
@@ -42,7 +42,7 @@ def load_summary():
                 continue
             title, path = unescape(m.group(1)), m.group(2)
             top = path.split('/')[0]
-            if top not in 'abcdefghijklmnopqrstuvwxyz':
+            if top not in 'abcdefghijklmnopqrstuvwxyz0123456789':
                 continue
             if '— see' in title:
                 total_alias += 1

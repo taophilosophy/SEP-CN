@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """原文 Markdown 镜像生成器（yuanwen/）——用户 2026-10-27 裁定。
 
-把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<slug>/index.md：
-- 结构与中文仓库逐字符镜像（ADR-0007 上游同构）：yuanwen/<slug>/，与上游 entries/<slug>/ 同构（省 entries/ 层）
+把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<letter>/<slug>.md：
+- 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：yuanwen/<letter>/<slug>.md，letter=slug 首字符
 - 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，不入库）；yuanwen/ 只存转换后的 md 镜像
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
-- 补充材料：en/<slug>/<x>.html → yuanwen/<slug>/<x>.md，正文内相对互链
-- 图片：本地化为 yuanwen/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
-  正文 ![](<文件名>) 相对引用
+- 补充材料：en/<slug>/<x>.html → yuanwen/<letter>/<slug>.<x>.md（点号命名），正文内相对互链
+- 图片：本地化为 yuanwen/assets/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
+  正文 ![](assets/<slug>/<文件名>) 相对引用
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
   数学定界符、DK 编号、古代作品行号原样保留；<sub>/<sup> 标签保留（工作底稿不受
   发布体例"禁止 HTML"约束，登记 demo-log）
@@ -290,10 +290,10 @@ def figure_to_md(inner, slug):
     im = re.search(r'<img[^>]*\ssrc="([^"]+)"[^>]*>', inner, re.I)
     if im:
         src = im.group(1)
-        if not src.startswith(('http', '/', '../')):
+        if not src.startswith(('http', '/', '../', 'assets/')):
             alt = re.search(r'alt="([^"]*)"', im.group(0))
-            # ADR-0007：图片本地化于词条目录 yuanwen/<slug>/（上游同名），同目录相对引用
-            out.append('![%s](%s)' % ((alt.group(1) if alt else ''), src))
+            # ADR-0008：图片本地化于 yuanwen/assets/<slug>/（上游同名），同库相对引用
+            out.append('![%s](assets/%s/%s)' % ((alt.group(1) if alt else ''), slug, src))
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
     if fl:
         cap = inline_to_md(fl.group(1), slug)
@@ -551,7 +551,8 @@ def convert_entry(slug):
     authors = [unescape(a) for a in
                re.findall(r'<meta name="citation_author" content="([^"]*)"', html)]
 
-    ydir = repo_path('yuanwen', slug)
+    letter = slug[0]
+    ydir = repo_path('yuanwen', letter)
     os.makedirs(ydir, exist_ok=True)
 
     ctx = Ctx(slug)
@@ -573,15 +574,16 @@ def convert_entry(slug):
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
-    # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0007 上游同名，存词条目录）
-    adir = ydir
+    # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0008 上游同名，存 yuanwen/assets/<slug>/）
+    adir = repo_path('yuanwen', 'assets', slug)
     image_files = []
     for f in sorted(os.listdir(src_dir)):
         if not f.endswith('.html'):
+            os.makedirs(adir, exist_ok=True)
             data = open(os.path.join(src_dir, f), 'rb').read()
             with open(os.path.join(adir, f), 'wb') as fh:
                 fh.write(data)
-            image_files.append('yuanwen/%s/%s' % (slug, f))
+            image_files.append('yuanwen/assets/%s/%s' % (slug, f))
 
     # 补充材料
     supp_files = []
@@ -589,9 +591,9 @@ def convert_entry(slug):
         if f.endswith('.html') and f not in ('index.html', 'notes.html'):
             base = f[:-5]
             sp = convert_supplement(read_text(os.path.join(src_dir, f)), slug, base)
-            sp_path = os.path.join(ydir, base + '.md')
+            sp_path = os.path.join(ydir, '%s.%s.md' % (slug, base))
             write_text_verified(sp_path, sp)
-            supp_files.append(base + '.md')
+            supp_files.append('%s.%s.md' % (slug, base))
 
     # 引用注释（文献 → 脚注）
     keys = build_cite_keys(ctx.bib_entries)
@@ -603,13 +605,13 @@ def convert_entry(slug):
 
     md = restore_cross_block_math(md, stash)
 
-    md_path = os.path.join(ydir, 'index.md')
+    md_path = os.path.join(ydir, slug + '.md')
     write_text_verified(md_path, md + '\n')
     if not os.path.exists(md_path):
         raise OSError('yuanwen write failed: %s' % md_path)
 
     update_baseline(slug, {'yuanwen': {
-        'md': 'yuanwen/%s/index.md' % slug,
+        'md': 'yuanwen/%s/%s.md' % (letter, slug),
         'sha256': sha256_file(md_path),
         'source_sha256': sha256_file(idx_path),
         'converted_at': utcnow_iso(),
@@ -619,7 +621,7 @@ def convert_entry(slug):
         'images': image_files,
         'notes': len(note_defs),
     }})
-    return {'slug': slug, 'md': 'yuanwen/%s/index.md' % slug,
+    return {'slug': slug, 'md': 'yuanwen/%s/%s.md' % (letter, slug),
             'cite_markers': cite_markers, 'cite_defs': cite_defs,
             'supplements': supp_files, 'notes': len(note_defs)}
 
