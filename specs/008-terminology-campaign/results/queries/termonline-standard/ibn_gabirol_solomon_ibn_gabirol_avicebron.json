@@ -1,0 +1,33 @@
+{
+ "key": "ibn gabirol / solomon ibn gabirol / avicebron",
+ "term": "Ibn Gabirol / Solomon ibn Gabirol / Avicebron",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T23:28:58+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "里德-所罗门码",
+   "en": "Reed-Solomon code",
+   "code": "GB/T 17704.1—1999",
+   "standard": "信息技术信息交换用130mm一次写入盒式光盘第1部分:未记录盒式光盘",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "里德-索罗门码",
+   "en": "Reed-Solomon code",
+   "code": "GB/T 17234—1998",
+   "standard": "信息技术 数据交换用90 mm 可重写和只读盒式光盘",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "里德-索罗门码",
+   "en": "Reed-Solomon code",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 1, \"1999\": 1, \"1998\": 1}, \"sourceStats\": {\"电信、音频和视频工程\": 1, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"0303a0baf0f4478ba4082a64f3cff7d9\", \"databaseId\": null, \"standardId\": \"35c15af838b24e81abe210a2fc2512cd\", \"standardCode\": \"GB/T 17704.1—1999\", \"standardName\": \"信息技术信息交换用130mm一次写入盒式光盘第1部分:未记录盒式光盘\", \"standardEnName\": \"Information technology-130 mm optical disk cartridge,write once, for information interchangePart 1: Unrecorded optical disk cartridge\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.18 \", \"cnName\": \"里德-所罗门码\", \"enName\": \"Reed-Solomon code\", \"publishTime\": \"1999-03-23\", \"publishYear\": \"1999\", \"implementTime\": \"1999-10-01\", \"ics\": \"35. 220. 30\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 57456, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"里德-所罗门码\", \"cnNameSearch\": \"里德-所罗门码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Reed-Solomon code\", \"wordSearch\": \"Reed-Solomon code\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种检错/纠错码。它特别适合纠正突发或强相关的错误。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b3b67219d88643d78324e98e4dcac526\", \"databaseId\": null, \"standardId\": \"593f537a32ec412da718c4e204b9625b\", \"standardCode\": \"GB/T 17234—1998\", \"standardName\": \"信息技术 数据交换用90 mm 可重写和只读盒式光盘\", \"standardEnName\": \"Information technology-90 mm optical disk cartridges,rewritable and read only , for data interchange\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.17\", \"cnName\": \"里德-索罗门码\", \"enName\": \"Reed-Solomon code\", \"publishTime\": \"1998-04-10\", \"publishYear\": \"1998\", \"implementTime\": \"1998-10-01\", \"ics\": \"35.220.30\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91182, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"里德-索罗门码\", \"cnNameSearch\": \"里德-索罗门码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Reed-Solomon code\", \"wordSearch\": \"Reed-Solomon code\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种检错/纠错码,它特别适用于纠正突发错误或具有强相关性的错误。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"223631faee9c49fba3f0139d14ef62b8\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.3.8\", \"cnName\": \"里德-索罗门码\", \"enName\": \"Reed-Solomon code\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 24052, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"里德-索罗门码\", \"cnNameSearch\": \"里德-索罗门码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Reed-Solomon code\", \"wordSearch\": \"Reed-Solomon code\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"R-S 码\", \"cnNameSearch\": \"R-S 码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"R-S code\", \"wordSearch\": \"R-S code\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由里德-索罗门提出的一种纠错码。R-S码以码字为单位构筑，对同一码系，码字所含比特数固定，具有很强的检错、纠错能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793143739451}"
+}

@@ -1,0 +1,33 @@
+{
+ "key": "maturidiyya",
+ "term": "Maṭurīdiyya",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T23:30:17+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "Ma级",
+   "en": "EPL Ma",
+   "code": "GB/T 3836.1—2021",
+   "standard": "爆炸性环境第1部分:设备 通用要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "组播代理",
+   "en": "multicast agent",
+   "code": "GB/T 26243.1—2010",
+   "standard": "信息技术  中继组播控制协议（RMCP）  第1部分：框架",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "EPL Ma级设备",
+   "en": "equipment EPL Ma",
+   "code": "GB/T 3836.23—2017",
+   "standard": "爆炸性环境第23部分:用于瓦斯和/或煤尘环境的Ⅰ类EPL Ma级设备",
+   "subject": "电气工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2017\": 1, \"2011\": 1}, \"sourceStats\": {\"电气工程\": 2, \"电信、音频和视频工程\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"276119930ea94b7f8784bc2cc3541479\", \"databaseId\": null, \"standardId\": \"849ff5476f3045d184256353ac0064ff\", \"standardCode\": \"GB/T 3836.1—2021\", \"standardName\": \"爆炸性环境第1部分:设备 通用要求\", \"standardEnName\": \"Explosive atmospheres-Part 1:Equipment-General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.28.1\", \"cnName\": \"Ma级\", \"enName\": \"EPL Ma\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140895, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"Ma级\", \"cnNameSearch\": \"Ma级\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"EPL Ma\", \"wordSearch\": \"EPL Ma\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安装在煤矿瓦斯爆炸性环境中的设备，具有“很高”的保护等级，该级别具有足够的安全性，使设备\\n在正常运行、出现预期故障或罕见故障，甚至在气体突然出现设备仍带电的情况下均不可能成为点\\n燃源。\\n10\\nGB/T3836.1—2021\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8b58ae45cbc04fcea6739fb8a2ce0131\", \"databaseId\": null, \"standardId\": \"8c5f21c400f54505ba4ea15eb30c3f66\", \"standardCode\": \"GB/T 26243.1—2010\", \"standardName\": \"信息技术  中继组播控制协议（RMCP）  第1部分：框架\", \"standardEnName\": \"Information technology - Relayed multicast control protocol（RMCP） - Part 1: Framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.7\", \"cnName\": \"组播代理\", \"enName\": \"multicast agent\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-05-01\", \"ics\": \"33.040.40\", \"ccs\": \"L78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 149435, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"组播代理\", \"cnNameSearch\": \"组播代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"multicast agent\", \"wordSearch\": \"multicast agent\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"MA\", \"cnNameSearch\": \"MA\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"对组应用数据进行中继的中间节点。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8ca1dbb57bea4ddea71f59583376cdb7\", \"databaseId\": null, \"standardId\": \"7cecd88ba003489b89dbe018546cf154\", \"standardCode\": \"GB/T 3836.23—2017\", \"standardName\": \"爆炸性环境第23部分:用于瓦斯和/或煤尘环境的Ⅰ类EPL Ma级设备\", \"standardEnName\": \"Explosive atmospheres—Part 23: GroupⅠ,  category EPL Ma equipment intended to remain functional in atmospheres endangered by firedamp and/or coal dust\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.6  \", \"cnName\": \"EPL Ma级设备\", \"enName\": \"equipment EPL Ma\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"29.260.2029\", \"ccs\": \"K35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133196, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"EPL Ma级设备\", \"cnNameSearch\": \"EPL Ma级设备\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"equipment EPL Ma\", \"wordSearch\": \"equipment EPL Ma\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安装在煤矿甲烷爆炸性环境中的设备,具有“很高”的保护级别,该级别具有足够的安全性,使设备 在正常运行、出现预期故障或罕见故障,甚至在气体突然出现设备仍带电的情况下均不可能成为点 燃源。 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">其设计以及必要时配置特殊附加保护措施,使之能够按照制造商设定的运行参数运行,并能保证具 有很高的保护级别。 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">该级别的设备用于煤矿井下和有煤矿瓦斯气体和/或可燃性煤尘危险的地面装置上。 该级别的设备要求在爆炸性环境出现时,即使在设备出现罕见的故障情况下仍能保持其功能,其保 护措施应达到: </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">a) 一个保护措施失效时,至少还有第二个独立的保护措施提供必需的保护级别;或者 </span></p><p><span style=\\\"color: rgb(0, 0, 0);\\\">b) 同时出现两个各自独立的故障时,仍能保证规定的保护级别。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793143819167}"
+}

@@ -1,0 +1,33 @@
+{
+ "key": "suniemi",
+ "term": "suniêmi",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T23:30:52+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "MI伴热器",
+   "en": "MI trace heater",
+   "code": "GB/T 19518.1—2024",
+   "standard": "爆炸性环境电阻式伴热器 第1部分：通用和试验要求 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "MI",
+   "en": "",
+   "code": "GB/T 9544—1988",
+   "standard": "信息处理系统  计算机处理图形  图形核心系统 （GKS）的功能描述",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "磁性异物（MI)",
+   "en": "magnetic impurity",
+   "code": "GB/T 51376—2019",
+   "standard": "钴冶炼厂工艺设计标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"1988\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"电气工程\": 1, \"其它\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"290bd6dad00341f2ac44e6222ce4adf9\", \"databaseId\": null, \"standardId\": \"2fd21942b51e4fd596eb1d9b20058d00\", \"standardCode\": \"GB/T 19518.1—2024\", \"standardName\": \"爆炸性环境电阻式伴热器 第1部分：通用和试验要求 \", \"standardEnName\": \"Explosive atmospheres——Electrical resistance traces heating— Part 1 : General and testing requirements \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.22\", \"cnName\": \"MI伴热器\", \"enName\": \"MI trace heater\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"ICS 29.260.20\", \"ccs\": \"CCS K 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"MI伴热器\", \"cnNameSearch\": \"MI伴热器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"MI trace heater\", \"wordSearch\": \"MI trace heater\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通常包含一个或多个加热导体的矿物绝缘金属护套伴热器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"396968f4fe134093ac59b39083f28341\", \"databaseId\": null, \"standardId\": \"c96249818e6b43b685f015028e8e384e\", \"standardCode\": \"GB/T 9544—1988\", \"standardName\": \"信息处理系统  计算机处理图形  图形核心系统 （GKS）的功能描述\", \"standardEnName\": \"Informationprocessing systems--Computer graphics--Graphical kernel system (GKS) functional description\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.42\", \"cnName\": \"MI\", \"enName\": \"\", \"publishTime\": \"1988-06-29\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"35.140\", \"ccs\": \"L67\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202432, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"MI\", \"cnNameSearch\": \"MI\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"GKS 元文卷输入的缩写,一个工作站类别。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc44acad98264d268bbe2b2083a98495\", \"databaseId\": null, \"standardId\": \"7d5bc1439cd444758151b52f76fdb766\", \"standardCode\": \"GB/T 51376—2019\", \"standardName\": \"钴冶炼厂工艺设计标准\", \"standardEnName\": \"Standard for process design of cobalt plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.11\", \"cnName\": \"磁性异物（MI)\", \"enName\": \"magnetic impurity\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133663, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"磁性异物（MI)\", \"cnNameSearch\": \"磁性异物（MI)\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"magnetic impurity\", \"wordSearch\": \"magnetic impurity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于电池材料的钴产品中具有磁性的金属异物杂质（MI)，包括Fe、Ni、Zn、Cr四种金属。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793143854154}"
+}

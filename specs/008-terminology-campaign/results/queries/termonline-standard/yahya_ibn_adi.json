@@ -1,0 +1,26 @@
+{
+ "key": "yahya ibn ʿadi",
+ "term": "Yaḥyā ibn ʿAdī",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-27T23:31:22+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "AD类传送帧",
+   "en": "acceptance check and data transfer frame",
+   "code": "GB/T 39344—2020",
+   "standard": "Space data and information transfer systems—Communications operation procedure-1",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "<img src=\"/standard/27d4a0eb33914397abdcf263f1eee5ad/image.png\" alt=\"\" data-href=\"\" style=\"\"/>",
+   "en": "",
+   "code": "GB/T 18477.1—2007",
+   "standard": "埋地排水用 硬聚氯乙烯（PVC—U）结构壁管道系统 第1部分：双壁波纹管材 ",
+   "subject": "橡胶和塑料工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1, \"2007\": 1}, \"sourceStats\": {\"航空器和航天器工程\": 1, \"橡胶和塑料工业\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"2e05daf364c2452e98c220ed8f46fa5e\", \"databaseId\": null, \"standardId\": \"4d3cd82d2b734eabab75503dd70d8c66\", \"standardCode\": \"GB/T 39344—2020\", \"standardName\": \"Space data and information transfer systems—Communications operation procedure-1\", \"standardEnName\": \"\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.7\", \"cnName\": \"AD类传送帧\", \"enName\": \"acceptance check and data transfer frame\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"49.14049\", \"ccs\": \"V75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 80517, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"AD类传送帧\", \"cnNameSearch\": \"AD类传送帧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"acceptance check and data transfer frame\", \"wordSearch\": \"acceptance check and data transfer frame\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"接收端使用FARM-1接收的一种按照序列控制的传送帧，其数据域中携带帧数据单元，在序列控制服务中使用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"49b41c3356d246ceaf35c0e2b4cf7892\", \"databaseId\": null, \"standardId\": \"391c25862412477bb7d0f3207041f90b\", \"standardCode\": \"GB/T 18477.1—2007\", \"standardName\": \"埋地排水用 硬聚氯乙烯（PVC—U）结构壁管道系统 第1部分：双壁波纹管材 \", \"standardEnName\": \"Unplasticized polyvinyl chloride( PVC—U) structure wall pipline system for underground soil waste and drainage Part 1 :Double wall corrugated pipes\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1.6\", \"cnName\": \"<img src=\\\"/standard/27d4a0eb33914397abdcf263f1eee5ad/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"enName\": \"\", \"publishTime\": \"2007-12-05\", \"publishYear\": \"2007\", \"implementTime\": \"2008-09-01\", \"ics\": \"83.140.30\", \"ccs\": \"G 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62464, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"<img src=\\\"/standard/27d4a0eb33914397abdcf263f1eee5ad/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"cnNameSearch\": \"<img src=\\\"/standard/27d4a0eb33914397abdcf263f1eee5ad/image.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"管材内壁任一处的壁厚（见图1），单位为毫米（mm）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793143884181}"
+}

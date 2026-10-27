@@ -4,7 +4,7 @@
   "termonline-standard"
  ],
  "counts": {
-  "查无": 185,
+  "查无": 228,
   "不一致": 4,
   "一致": 2
  },
@@ -1954,7 +1954,235 @@
   },
   {
    "table": "术语",
+   "line": 174,
+   "term": "kalām",
+   "trans": "凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”）",
+   "basis": "知网系查证在案；学界通行（《中国伊斯兰百科全书》等）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 175,
+   "term": "falsafa",
+   "trans": "法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 176,
+   "term": "ishrāq / ishrāqī",
+   "trans": "照明（照明学派）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 177,
+   "term": "tawḥīd",
+   "trans": "认主独一（讨黑德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 178,
+   "term": "ijmāʿ",
+   "trans": "公议（伊智玛尔）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 179,
+   "term": "qiyās",
+   "trans": "类比推理（基亚斯）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
    "line": 180,
+   "term": "ijtihād",
+   "trans": "创制（伊智提哈德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 181,
+   "term": "taqlīd",
+   "trans": "因袭（塔格利德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 182,
+   "term": "fitra",
+   "trans": "天性（菲特拉）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 183,
+   "term": "sharīʿa",
+   "trans": "伊斯兰教法（沙里亚）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 184,
+   "term": "sunna",
+   "trans": "逊奈（圣行）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 185,
+   "term": "Muʿtazila / Muʿtazilism",
+   "trans": "穆尔太齐赖派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 186,
+   "term": "Ashʿariyya / Ashʿarism",
+   "trans": "艾什尔里派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 187,
+   "term": "Maṭurīdiyya",
+   "trans": "马图里迪派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 188,
+   "term": "Ikhwān al-Ṣafāʾ",
+   "trans": "精诚兄弟会（亦译“纯洁兄弟会”；组织名）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 189,
+   "term": "Tahāfut al-falāsifa",
+   "trans": "《哲学家之矛盾》（安萨里著；亦译《哲学家的矛盾》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 190,
+   "term": "Tahāfut al-tahāfut",
+   "trans": "《矛盾之矛盾》（伊本·鲁世德著；亦译《矛盾的矛盾》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 191,
+   "term": "Kitāb al-ḥurūf",
+   "trans": "《字母之书》（法拉比著；亦译《论字母》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 192,
+   "term": "Ḥayy ibn Yaqẓān",
+   "trans": "《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 206,
    "term": "Analects / Lun yu / Lunyu",
    "trans": "《论语》",
    "basis": "学界通行学名",
@@ -1966,7 +2194,7 @@
   },
   {
    "table": "术语",
-   "line": 181,
+   "line": 207,
    "term": "Mencius / Mengzi",
    "trans": "《孟子》",
    "basis": "学界通行学名",
@@ -1978,7 +2206,7 @@
   },
   {
    "table": "术语",
-   "line": 182,
+   "line": 208,
    "term": "Mozi",
    "trans": "《墨子》",
    "basis": "学界通行学名",
@@ -1990,7 +2218,7 @@
   },
   {
    "table": "术语",
-   "line": 183,
+   "line": 209,
    "term": "Zhuangzi",
    "trans": "《庄子》",
    "basis": "学界通行学名",
@@ -2002,7 +2230,7 @@
   },
   {
    "table": "术语",
-   "line": 184,
+   "line": 210,
    "term": "Laozi / Lao Tzu",
    "trans": "《老子》",
    "basis": "学界通行学名",
@@ -2014,7 +2242,7 @@
   },
   {
    "table": "术语",
-   "line": 185,
+   "line": 211,
    "term": "Daodejing / Tao Te Ching",
    "trans": "《道德经》",
    "basis": "学界通行学名",
@@ -2026,7 +2254,7 @@
   },
   {
    "table": "术语",
-   "line": 186,
+   "line": 212,
    "term": "Xunzi",
    "trans": "《荀子》",
    "basis": "学界通行学名",
@@ -2038,7 +2266,7 @@
   },
   {
    "table": "术语",
-   "line": 187,
+   "line": 213,
    "term": "Han Feizi",
    "trans": "《韩非子》",
    "basis": "学界通行学名",
@@ -2050,7 +2278,7 @@
   },
   {
    "table": "术语",
-   "line": 188,
+   "line": 214,
    "term": "Yijing / I Ching",
    "trans": "《周易》",
    "basis": "学界通行学名",
@@ -2062,7 +2290,7 @@
   },
   {
    "table": "术语",
-   "line": 189,
+   "line": 215,
    "term": "Huainanzi",
    "trans": "《淮南子》",
    "basis": "学界通行学名",
@@ -2074,7 +2302,7 @@
   },
   {
    "table": "术语",
-   "line": 190,
+   "line": 216,
    "term": "Shiji",
    "trans": "《史记》",
    "basis": "学界通行学名",
@@ -2086,7 +2314,7 @@
   },
   {
    "table": "术语",
-   "line": 191,
+   "line": 217,
    "term": "Liezi",
    "trans": "《列子》",
    "basis": "学界通行学名",
@@ -2098,7 +2326,7 @@
   },
   {
    "table": "术语",
-   "line": 192,
+   "line": 218,
    "term": "Guanzi",
    "trans": "《管子》",
    "basis": "学界通行学名",
@@ -2110,7 +2338,7 @@
   },
   {
    "table": "术语",
-   "line": 193,
+   "line": 219,
    "term": "Chunqiu",
    "trans": "《春秋》",
    "basis": "学界通行学名",
@@ -2122,7 +2350,7 @@
   },
   {
    "table": "术语",
-   "line": 194,
+   "line": 220,
    "term": "Gongsun Long (zi)",
    "trans": "《公孙龙子》",
    "basis": "学界通行学名",
@@ -2134,7 +2362,7 @@
   },
   {
    "table": "术语",
-   "line": 195,
+   "line": 221,
    "term": "Yan Buke",
    "trans": "阎步克",
    "basis": "上游汉字 + 学界通行",
@@ -2146,7 +2374,7 @@
   },
   {
    "table": "术语",
-   "line": 196,
+   "line": 222,
    "term": "Yang Bojun",
    "trans": "杨伯峻",
    "basis": "上游汉字",
@@ -2158,7 +2386,7 @@
   },
   {
    "table": "术语",
-   "line": 197,
+   "line": 223,
    "term": "Lunyu yizhu",
    "trans": "《论语译注》",
    "basis": "上游汉字",
@@ -2397,6 +2625,294 @@
    "term": "Quine",
    "trans": "蒯因",
    "basis": "语料回收登记；待知网复核（008 战役）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 39,
+   "term": "Ibn Sīnā / Avicenna",
+   "trans": "伊本·西那（阿维森纳）",
+   "basis": "知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 40,
+   "term": "Ibn Rushd / Averroes",
+   "trans": "伊本·鲁世德（阿威罗伊）",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 41,
+   "term": "Ibn Bājja / Avempace",
+   "trans": "伊本·巴哲",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 42,
+   "term": "Ibn Ṭufayl / Abubacer",
+   "trans": "伊本·图斐利",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 43,
+   "term": "al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī",
+   "trans": "法拉比（亦作“阿尔·法拉比”“阿里·法拉比”）",
+   "basis": "学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 44,
+   "term": "al-Kindī",
+   "trans": "肯迪（亦作“金迪”）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 45,
+   "term": "al-Ghazālī",
+   "trans": "安萨里（全名艾布·哈米德·穆罕默德·安萨里）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 46,
+   "term": "Abū Bakr al-Rāzī / al-Rāzī / Rhazes",
+   "trans": "拉齐（医师哲学家；勿与法赫尔丁·拉齐相混）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 47,
+   "term": "Fakhr al-Dīn al-Rāzī",
+   "trans": "法赫尔丁·拉齐",
+   "basis": "学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 48,
+   "term": "Ibn Khaldūn",
+   "trans": "伊本·赫勒敦",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 49,
+   "term": "Ibn Taymiyya",
+   "trans": "伊本·泰米叶",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 50,
+   "term": "Ibn Gabirol / Solomon ibn Gabirol / Avicebron",
+   "trans": "伊本·加比罗尔（拉丁通行名阿维斯布朗）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 51,
+   "term": "Ibn Dāwūd / Ibn Daud",
+   "trans": "伊本·达乌德",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 52,
+   "term": "Ibn al-Haytham / Alhazen",
+   "trans": "伊本·海赛姆（阿尔哈增）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 53,
+   "term": "Naṣīr al-Dīn al-Ṭūsī",
+   "trans": "纳西尔丁·图西",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 54,
+   "term": "Ibn Hazm",
+   "trans": "伊本·哈兹姆",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 55,
+   "term": "Suhrawardī / al-Suhrawardī",
+   "trans": "苏赫拉瓦尔迪",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 56,
+   "term": "Mullā Ṣadrā",
+   "trans": "毛拉·萨德拉",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 57,
+   "term": "Yaḥyā ibn ʿAdī",
+   "trans": "叶海亚·伊本·阿迪",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 58,
+   "term": "Ḥunayn ibn Isḥāq",
+   "trans": "侯奈因·本·伊斯哈格（父，翻译家）",
+   "basis": "学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 59,
+   "term": "Isḥāq ibn Ḥunayn",
+   "trans": "伊沙克·本·侯奈因（子，翻译家）",
+   "basis": "学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 60,
+   "term": "Abū Bishr Mattā",
+   "trans": "阿布·比什尔·马塔",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 61,
+   "term": "Ibn Kammūna",
+   "trans": "伊本·凯姆那",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 62,
+   "term": "Ibn ʿArabī",
+   "trans": "伊本·阿拉比",
+   "basis": "学界通行",
    "status": "查无",
    "hits": [],
    "providers": [

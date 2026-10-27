@@ -16,8 +16,9 @@
 | ADR-0012 + rules/03 + ren-ming-biao.md 拆分 | 已入库（16b325ac），154 术语 + 19 人名五列 |
 | check_terms 三表门禁 | 已挂 check_all，全绿 |
 | term-pool.json 全库候选池 | 61997 条/26MB（2426 件逐篇遍历；phrase18990/italic25049/person8295/quoted8803/ism860） |
-| 查证凭证 termonline-standard | 两登记册 173 键全量（首轮跑批），GB 标准库覆盖率低属预期 |
-| 审阅报告 | audit-2026-10-28.md/json：四态 + 维基排查 |
+| 查证凭证 termonline-standard | 两登记册 234 键全量（含 ADR-0013 新增 43 键），凭证 235 份入库 |
+| 审阅报告 | audit-2026-10-28.md/json：四态 + 维基排查（终态 一致2/不一致4/查无228/维基0） |
+| ADR-0013 阿拉伯伊斯兰加强批 | 已落地（7d39e70f）：提取器阿位专名路由+变音符折叠，人名种子 24 行、术语种子 19 行，词汇表 9 处归并互见；arabic 候选 822 条待逐条裁定 |
 | CNKI 翻译助手 / 审定名词库 | **通道未通**（TLS 反爬 / 需登录 token），provider 位保留 |
 
 ## 标准作业（每批次循环）

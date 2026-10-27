@@ -31,7 +31,31 @@
 * 不一致明细（待裁定，已列于 audit-2026-10-28.md）：connectionism（联结主义 vs 连接机制）、mechanism（机械论 vs 机制）、quantum theory（量子理论 vs 量子复杂性理论）、Plato（柏拉图 vs 柏拉图度，人名表）——多为 GB 标准库学科错位，哲学现行译法均为学界通行，倾向保留并标注「学界惯例」档依据。
 * **结论**：GB 标准库哲学覆盖率低（查无 186/192）属预期，其证据价值限于工程类术语；审定名词库（termonline 网页实测确有 abduction→溯因/溯因推理 词条）与 CNKI 翻译助手两条主力通道仍待接通（P0）。
 
-## 教训（复用）
+## 阿拉伯伊斯兰加强批（ADR-0013，2026-10-28 第二轮）
+
+用户裁定：加强伊斯兰阿拉伯人名、术语的识别、区分、翻译。
+
+### 识别（提取器升级）
+
+* 词元正则扩展拉丁扩展区（\u00C0-\u024F、\u1E00-\u1EFF）与 ʾ ʿ（\u02BE-\u02BF）首字符；新增**阿位专名路由**：含定冠词同化形（al-/ad-/as-/…，含 al-Dīn 型冠词连字词与 Al-Fârâbî 型连字符词）、谱系词（ibn/bin）、尊称（abu/abū/umm/abd/dhū）颗粒的专名序列 → type=arabic。
+* 键规范化升级为**变音符折叠**（NFD 剥组合记号后 casefold）：Al-Fârâbî / al-Farabi / Abū Naṣr al-Fārābī 归并同键；check_terms.norm_key 同步，三表比对折叠归一。
+* 全库 `--refresh` 重提两轮（首轮 arabic 727 → 补 ʿʾ 后 **822**）：Ibn Gabirol 567、Ibn Taymiyya 423、Ibn Daud 312、ʿAyn al-Quḍāt 187、Kashf al-Asrār 112、Fakhr al-Dīn al-Rāzī 94、Naṣīr al-Dīn al-Ṭūsī、Tahāfut al-tahāfut 等完整形全部入池；此前 ASCII 截断假候选（Fakhr al-D、al-K tib、Ikhw al-Saf）清零。
+
+### 区分与翻译（登记与词汇表修正，commit 7d39e70f）
+
+* **人名表种子区 24 行**：拉丁通行名/阿拉伯本名同人归并（Ibn Sīnā/Avicenna → 伊本·西那（阿维森纳）等）；**父子语序区分**（Ḥunayn ibn Isḥāq 侯奈因·本·伊斯哈格父 ↔ Isḥāq ibn Ḥunayn 伊沙克·本·侯奈因子）；**同姓区分**（Abū Bakr al-Rāzī 拉齐 ↔ Fakhr al-Dīn al-Rāzī 法赫尔丁·拉齐）。
+* **术语表种子区 19 行**：kalām 凯拉姆；伊斯兰教义学、falsafa 法尔萨法；哲学、ishrāq 照明、tawḥīd 认主独一、Muʿtazila 穆尔太齐赖派、Ikhwān al-Ṣafāʾ 精诚兄弟会及四部经典书名。
+* **词汇表 9 处修正**：al-Farabi/Al-Fârâbî 归并且**主译裁定变更**（阿里·法拉比 → 法拉比，学界通行，旧形注记保留）；Avicenna↔Ibn Sina、Averroes↔Ibn Rushd、Avempace↔Ibn Bâjja 两通行名互见；al-Razi 行补"医师哲学家，勿与法赫尔丁·拉齐相混"。
+* 知网系查证：新键 43 条全部凭证在案（GB 标准库人物/宗教术语覆盖率低，empty 属预期，依据档位如实标注"学界通行/权威工具书"）。
+
+### 教训
+
+1. 阿位专名识别的关键不是"找出大写词"而是**颗粒词法**（al-/ibn/abd/ʿAbd 的正字形态变体全谱），且变音符必须在词元层支持（折叠只解决归并，不解决截断）。
+2. published 词汇表的旧译法（阿里·法拉比）来源大概率是"al-"冠词直音译——裁定变更时旧形必须保留在注记里（可追溯）。
+3. 主译变更（阿里·法拉比→法拉比）属登记册裁定，词汇表修弱势向登记册看齐——check_terms 冲突 0 即证明归一完成。
+
+## 教训（复用，B0 批次）
+
 
 1. 本会话 ZCode 的 DeferredToolCall/浏览器/MCP 通道整体损坏（校验器 "name missing" 缺陷）——网络工作全走 Bash+子代理，子代理自带 WebFetch 可过部分 WAF。
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。
