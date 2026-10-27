@@ -54,7 +54,8 @@
       "subtasks": [
         {
           "item": "找回标准化合并中可能丢失的行：将 2024 年 13 条“词汇表”提交（d9d2942f、570a25a0、6acb4b7d、f0064f0c、78138117、2551e56d、a46dd663、745fee67、bd21366c、e77fb6f3、c5c752fc、ed047338、54c24bcf）逐一 git show 提取增删行，与 bb2793a0 合并版比对，缺者补录",
-          "status": "pending"
+          "status": "ok",
+          "evidence": "2026-10-27 script/recover_lost_rows.py：13 条提交的全部新增行经折叠键比对均存在于当前表（706 行），零丢失，债清"
         },
         {
           "item": "14 条全文型提交（信息即整篇旧译文：701ecbfd 二谛、9ae16e8a/c6b0567e 空间与运动、39e1aac7、ccab7bfc 亚里士多德著作、a0c1bfb5 论证、1463bf6c 拉姆齐、876add05、afb955fe 形而上学解释、12bd2336、fd416c8b 富勒、ce8599fe 欧陆女性主义、bdccafe6 情绪、2dd3b749 残疾与健康）按词条重译时回收其中的术语译名",
