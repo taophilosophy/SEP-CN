@@ -88,3 +88,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **依赖权属契约**（contracts/cli.md）：新词条接入唯一入口 apply-add、批量骨架 rebuild stubs、baseline 唯一登记方 fetch_entry、fetch_audit 只补缺件不写 baseline（审计 JSON 即凭证）、compare 产出持久变更文件、H1 同步归 CI——八项职责一一对应，消除双路径矛盾。
 * **并行化**：check_all 七门禁 ThreadPool 并行（5.8s，原串行约 12s 提速 2 倍）；compare 批量串行受 5 秒礼貌约束（并发抓取属 2026-10-27 并发裁定范围，按需启用 fetch_all 节拍）。
 * **更新流程闭环干执行**：fetch_catalog（1808 条无上游变化）→ compare --html 模拟变更 → 持久变更文件 compare/<slug>.json → update 任务（--from 变更文件，change_file 记录）→ 状态机 s1/s2/s3：反例（无 changes: 前缀）被 PreconditionError 拦截，正例全通过且 s3 学术挂钩触发。演练任务与模拟变更文件已清理（可按 drill 复现），本记录为凭证。
+
+## 目录解析器修复连带清退与撤稿词条裁定 — 2026-10-28
+
+* **嵌套吞没修复（50afaa94）**：parse_catalog 旧正则 `<li[^>]*>(.*?)</li>` 非贪婪匹配跨越嵌套边界，每个集群的第一个子词条被吞进父匹配，catalog.json 1808 条实际漏 64 条；HTMLParser 重写后 `--reparse` 离线重建为 1872 条（别名 654）。
+* **find_zh_doc 收紧（46993453）**：二级废除子串/分词模糊匹配（trans→feminism-trans、srigupta→definitions 伪映射源），三级改整短语词边界且唯一命中、单词标题不参与（ideology→law-ideology 清零）。16 条 increment 词条此前被伪映射为"已消化"（74→58 假象），收紧后归零；存量 entries.json zh_doc 13 条由并行会话对齐（993d1c11）。
+* **坏行五条裁定落地（ad4924df）**：SUMMARY/mu-lu-s 中文标题混英文残片、slug 被截断的 5 行，改写为实证真 slug——innateness-language / identity-ethics / religion-morality 见官方目录并已建基线；**pineal-gland 与 qm-action-distance 为 SEP 已撤稿词条**（Fall 2026 归档目录无、Web 检索确认归档 slug），按"保留旧译词条"裁定保留 SUMMARY 行，文件归位 p/pineal-gland.md 与 q/qm-action-distance.md。
+* **软 404 垃圾注册清退**：对两个撤稿词条执行 fetch_entry，/entries/<slug>/ 返回 HTTP 200 + "Document Not Found" 正文（软 404），登记出 title 为空的垃圾基线两条——已从 entries.json 移除并删除 en/ 下 404 文件。**待建能力**：fetch_entry 需支持归档版 URL（/archives/<ed>/entries/<slug>/）方可为撤稿词条建基线，登记入 specs/005 技术债视野。
+* **fetch_entry 补抓**：action / authority / artificial-intelligence（SUMMARY 有而漏抓，其中 action/artificial-intelligence 与并行会话 28e185bb 各自登记，幂等收敛）、identity-ethics / religion-morality（坏行修复归位）；fetch_audit 闭包完整（2 缺件自动补抓）。

@@ -75,6 +75,9 @@ def load_tasks():
                     bad += 1
                     continue
                 if isinstance(data, dict) and data.get('slug'):
+                    if data.get('state') is None and not data.get('steps'):
+                        # 无状态机的登记册文件（如 term-candidates 术语候选册）不是任务，不计入
+                        continue
                     tasks.append(data)
                 else:
                     bad += 1
