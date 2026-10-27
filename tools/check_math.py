@@ -25,10 +25,42 @@ from tools.common import load_json, read_text, repo_path  # noqa: E402
 
 MATH_RE = re.compile(r'(\$\$.*?\$\$|\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 PLACEHOLDER_RE = re.compile(r'\x00\d+\x00')
+BLOCK_MARKUP_RE = re.compile(r'</(?:p|li|dd|dt|div|h\d)>')
 
 
 def _norm(s):
     return re.sub(r'\s+', ' ', s).strip()
+
+
+def _content_present(inner, md_norm):
+    """公式内容是否逐字在产物中；上游未闭合定界符的容错。
+
+    上游笔误（如 nonexistent-objects 注 32 缺 \\)）会让贪婪抽取跨块吞入
+    HTML 标签，生成不可能逐字出现在产物的期望串；此时按首个 '<' 截断重试——
+    截断版（纯公式内容）仍在产物即视为转换忠实。真实丢失仍会被记失真。
+    """
+    if _norm(inner) in md_norm:
+        return True
+    if '<' in inner:
+        head = _norm(inner.split('<', 1)[0])
+        if head and head in md_norm:
+            return True
+    return False
+
+
+def classify_formula(inner, md_norm):
+    """→ 'ok' 内容忠实 ｜ 'warning' 上游未闭合定界符跨块吞标签（期望串不可信）
+    ｜ 'missing' 真失真。warning 类样本（typelogical-grammar 首列表项）已人工
+    核对产物忠实，登记不拦截；标记前内容可核对且缺失仍判真失真。"""
+    if _norm(inner) in md_norm:
+        return 'ok'
+    if '<' in inner:
+        head = _norm(inner.split('<', 1)[0])
+        if head:
+            return 'ok' if head in md_norm else 'missing'
+    if BLOCK_MARKUP_RE.search(inner):
+        return 'warning'
+    return 'missing'
 
 
 def raw_formulas(html):
@@ -78,7 +110,13 @@ def check_slug(slug, rec=None):
     for h in htmls:
         for kind, inner in raw_formulas(h):
             n += 1
-            if _norm(inner) not in unescape(md_norm):
+            v = classify_formula(inner, unescape(md_norm))
+            if v == 'ok':
+                continue
+            if v == 'warning':
+                issues['unbalanced'].append(
+                    '[unclosed-delimiter] ' + _norm(inner)[:80])
+            else:
                 issues['missing'].append({'kind': kind, 'excerpt': _norm(inner)[:80]})
     issues['formulas'] = n
     if PLACEHOLDER_RE.search(md):

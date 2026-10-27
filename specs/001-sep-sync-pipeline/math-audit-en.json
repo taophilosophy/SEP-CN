@@ -1,0 +1,142 @@
+{
+  "ran_at": "2026-10-27T19:11:23Z",
+  "audited": 1878,
+  "delimiter_totals": {
+    "inline_open": 142357,
+    "inline_close": 142359,
+    "display_open": 5727,
+    "display_close": 5712,
+    "mathml_open": 0,
+    "mathml_close": 0,
+    "dd": 4
+  },
+  "formula_estimate": {
+    "inline": 142357,
+    "display": 5712,
+    "dd_pairs": 2
+  },
+  "mathjax_site_configs": {
+    "(no config)": 456
+  },
+  "mathjax_cdn_refs": 1,
+  "flagged_entries": [
+    {
+      "slug": "causation-probabilistic",
+      "counts": {
+        "inline_open": 383,
+        "inline_close": 383,
+        "display_open": 23,
+        "display_close": 20,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "display_parity": true
+      },
+      "mathjax": [
+        "SITE:../../MathJax/MathJax.js"
+      ]
+    },
+    {
+      "slug": "common-knowledge",
+      "counts": {
+        "inline_open": 1510,
+        "inline_close": 1511,
+        "display_open": 78,
+        "display_close": 78,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "inline_parity": true
+      },
+      "mathjax": [
+        "SITE:../../MathJax/MathJax.js"
+      ]
+    },
+    {
+      "slug": "connectives-logic",
+      "counts": {
+        "inline_open": 2089,
+        "inline_close": 2089,
+        "display_open": 41,
+        "display_close": 38,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "display_parity": true
+      }
+    },
+    {
+      "slug": "discourse-representation-theory",
+      "counts": {
+        "inline_open": 317,
+        "inline_close": 318,
+        "display_open": 1,
+        "display_close": 1,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "inline_parity": true
+      },
+      "mathjax": [
+        "SITE:../../MathJax/MathJax.js"
+      ]
+    },
+    {
+      "slug": "nonexistent-objects",
+      "counts": {
+        "inline_open": 192,
+        "inline_close": 191,
+        "display_open": 0,
+        "display_close": 0,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "inline_parity": true
+      },
+      "mathjax": [
+        "SITE:../../MathJax/MathJax.js"
+      ]
+    },
+    {
+      "slug": "phil-bio-latin-america",
+      "counts": {
+        "inline_open": 0,
+        "inline_close": 1,
+        "display_open": 0,
+        "display_close": 0,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "inline_parity": true
+      }
+    },
+    {
+      "slug": "proof-theory",
+      "counts": {
+        "inline_open": 1600,
+        "inline_close": 1600,
+        "display_open": 107,
+        "display_close": 100,
+        "mathml_open": 0,
+        "mathml_close": 0,
+        "dd": 0
+      },
+      "flags": {
+        "display_parity": true
+      }
+    }
+  ],
+  "errors": []
+}

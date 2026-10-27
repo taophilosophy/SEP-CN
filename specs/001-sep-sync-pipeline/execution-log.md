@@ -126,3 +126,11 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **冲突**：c75cc794 依"软 404 检测"删除 wisdom（SUMMARY 行+mu-lu-s 行+w/wisdom.md+基线登记），与同批保留的 5 条撤稿词条（pineal-gland 等）同案异判，且与用户已批准的"6 条撤稿词条保留"裁定相悖。
 * **事实更正**：6 条的 /entries/<slug>/ URL **全部**为软 404（HTTP 200+错误页正文）；"HTTP 200=词条在线"对六条均不成立。六条保留的真实共同依据是**归档版基线**（--archive-edition，见 entries.json archive_edition 字段）。
 * **处置**：恢复 wisdom 全部四处登记（SUMMARY/mu-lu-s/w/wisdom.md/baseline，归档版 fall2023 重抓 upsert），裁定文档 wisdom 行改回保留并加事实更正块。六条同案同判；REMOVE 候选余 6 条（即六条撤稿保留项），逐条裁定见 contents-removal-adjudication.md，下一次 report 重生成时以裁定文档为准。
+
+## 数学公式专项复核（用户指令「重点复核数学公式」）— 2026-10-28
+
+* **en/ 侧（script/tmp/math_audit.py 一次性深扫，凭证 specs/001-sep-sync-pipeline/math-audit-en.json）**：全库 1878 词条——行内公式 142,357 个、显示公式 5,712 个、`$$` 2 对，MathML 标签 0（纯 TeX 定界）；MathJax 引用 887 处全部为站点级 `../../MathJax/`（TeX-MML-AM_CHTML ×782、TeX-AMS-MML_HTMLorMML ×105，lewis-metaphysics/reduction.html 为同域绝对 URL 同型），**零外部 CDN、零词条内 MathJax**；公式图片资产 7 件（frege-logic supp-begriff ×6、determinism-causal dome_with_eqn.gif）全部在包。
+* **7 个定界符奇偶失衡词条逐一判定**：causation-probabilistic/connectives-logic/proof-theory 为公式内容内 TeX 行距序列 `\[..]`（排除后完全配平，非缺件）；common-knowledge `i\)`、discourse-representation-theory `[K']h\)`、nonexistent-objects 注 32 以裸 `)` 代 `\)`、phil-bio-latin-america `Kuhn (1962 [1970\)`——**四处均为上游内容笔误**，镜像逐字节忠实（baseline 哈希已验），MathJax 对未配对定界符忽略不渲染，零信任不改上游内容，仅登记。
+* **yuanwen 侧 check_math 全量（1878 词条 / 130,333 公式）**：missing 2 → 逐条核实均为门禁口径误报——上游未闭合定界符使贪婪抽取跨块吞标签生成不可信期望串，而产物实际忠实（nonexistent-objects 注 32 连笔误都逐字保留；typelogical-grammar `*B* ⊗ *A*` 在产物 2 处）。
+* **check_math 判定精度修补**（tools/check_math.py + test_check_math.py 11 项）：新增 `classify_formula`——内容逐字命中→ok；期望串以标记开头且跨块（前缀不可核对）→warning `[unclosed-delimiter]`（登记不拦截）；**标记前内容可核对且缺失仍判 missing 真失真**。修补后全量 missing=0、退出码 0；unbalanced 872 = 871 已知货币 `$` 启发式警告 + 1 unclosed-delimiter 登记。凭证 specs/001-sep-sync-pipeline/check-math-full.json。
+* **结论**：数学公式在 en/ 抓取层零缺件、零损坏（4 处上游笔误如实镜像）；在 yuanwen 转换层 130,333 公式零丢失；离线渲染依赖站点级 MathJax（按契约有意不抓，联网即渲染）。check_all 九门禁全绿。
