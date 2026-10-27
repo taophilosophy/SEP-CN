@@ -21,6 +21,7 @@
 | [04-translation-workflow.md](04-translation-workflow.md) | 翻译与三审三校流程、任务联动、重译纪律 | 翻译与校对会话 |
 | [05-ci-and-tools.md](05-ci-and-tools.md) | CI 工作流约定、本地工具清单、提交策略 | 全部会话 |
 | [06-governance.md](06-governance.md) | 软件工程治理：单一事实源登记表、变更管理、并发会话纪律、质量门 | 全部会话 |
+| [07-academic-norms.md](07-academic-norms.md) | 哲学学术规范：版本事实、引文文献、禁幻觉引文、结构完整、译注、审校挂钩 | 译文与校对会话 |
 
 ## 快速判例
 
@@ -28,5 +29,7 @@
 * 新术语 → 先登记 `yi-zhe-shuo-ming.md`，再使用（[03](03-terminology.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
+* 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。
+* 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。
 * 批量或破坏性动作 → 先满足宪法附加约束（可信基线 + 可回溯），见 [06](06-governance.md)。
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。

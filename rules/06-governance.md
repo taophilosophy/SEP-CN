@@ -8,8 +8,9 @@
 
 | 事实域 | 登记源 | 派生视图 / 校验工具 |
 | ---- | ---- | ---- |
-| 目录结构与标题 | `SUMMARY.md` | 各文件 H1（CI 同步）；`tools/check_summary.py` |
+| 目录结构与标题 | `SUMMARY.md` | 各文件 H1（CI 同步，别名行不覆盖）；`tools/check_summary.py` |
 | 学科分类目录 | `mu-lu-s.md`（手编） | `tools/check_mulu_s.py` 对应性检测 |
+| 英文原文镜像 | `yuanwen/<letter>/<slug>.md`（管线转换，不入库） | `tools/compare.py`、`rebuild_dir.py check`、`baseline_audit.py` |
 | 术语译法 | `yi-zhe-shuo-ming.md` 登记册 | `qian-yan/ci-hui-biao.md` 发布词汇表 |
 | 词条版本事实 | `baseline/` 元数据清单 | `tools/baseline_audit.py` |
 | 文档任务状态 | `tasks/<slug>.json` | `tools/task_ops.py show` |
@@ -30,15 +31,18 @@
 
 1. **提交前核对 HEAD**：`git log --oneline -3` + `git status`，确认基点未变；基点变了先 `git diff HEAD` 重放自己的改动。
 2. **提交竞态重试**：commit 失败或“no changes added”时，先检查自己的文件是否已被对方提交卷入，确认内容无误后不必重复提交；确有剩余再补提交。
-3. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
-4. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。
-5. **`script/` 为个人草稿区** （gitignore），一次性脚本与临时日志放这里；沉淀为正式工具的脚本移入 `tools/` 并登记 README。
+3. **推送先 pull**（2026-10-27 教训固化）：`git push` 被拒（non-fast-forward）或对方已推送时，先 `git fetch && git pull --rebase origin main` 再推；带未授权 force push 期间，其他会话应停手或改为先 pull 再推——本日两次 force push 各孤儿化了并行会话的一个提交（587ec741、fb2a3317），其内容需对方会话重新落地。
+4. **目录所有权边界**：词条内容归翻译会话；`specs/`、`.specify/`、`tools/`（管线包）、`baseline/` 归管线会话；`rules/`、`tasks/README.md`、`AGENTS.md` 归治理。跨界修改先在提交信息说明理由。
+5. **不抢改他人正在写的文件**：发现非本人改动先读再动，禁止用 `git checkout --` / `reset --hard` 清理他人未提交工作。
+6. **`script/` 为个人草稿区** （gitignore），一次性脚本与临时日志放这里；沉淀为正式工具的脚本移入 `tools/` 并登记 README；`script/tmp/` 临时文件用 `tools/clean.py` 定期清理。
 
 ## 质量门与完成定义
 
-* **文档任务 done** = 六道全部完成（状态机 `r3_reviewed → done`）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
-* **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致。
+* **一键全量复核**：`python tools/check_all.py`（七项门禁：结构/分类/单体/垃圾/术语/学术规范/汇总 + 单元测试；`--all` 加基线审计）——收工前与推审前必跑。
+* **文档任务 done** = 六道全部完成（状态机 `r3_reviewed → done`）+ 学术规范挂钩通过（s3/r3 自动跑 `check_academic --docs --strict`，0 硬错误）+ `tools/check_style.py` 0 issue + markdownlint 绿 + CI 全绿。
+* **结构改动 done** = `check_summary.py` 与 `check_mulu_s.py` 报告 0 坏链 0 标题不一致；`rebuild_dir.py check` 镜像无缺口。
 * **术语改动 done** = 登记册新行有首现与裁定日期；发布词汇表同步。
+* **更新任务输入** = `tools/compare.py <slug>` 的段落级变更清单（spec 001 US-3），evidence 以 `changes:` 开头引用。
 * 每次提交 = 一个可回溯单元：中文一行提交信息 + 相关文件 + 必要凭证（任务 JSON 的 evidence、demo 日志）。
 
 ## 审计与可追溯（宪法 I/II 落地）

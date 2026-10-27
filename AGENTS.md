@@ -15,25 +15,26 @@
 
 | 要做什么 | 先读 |
 | ---- | ---- |
-| 翻译 / 校对词条 | `rules/04-translation-workflow.md`（先建任务 `tools/task_ops.py`，状态机禁止跳步）、`rules/02-style.md`、`rules/03-terminology.md` |
-| 改目录 / 标题 / 结构 | `rules/01-repository-structure.md`（SUMMARY.md 唯一数据源；改标题只改 SUMMARY；mu-lu-s.md 为手编分类目录） |
+| 翻译 / 校对词条 | `rules/04-translation-workflow.md`（先建任务 `tools/task_ops.py`，状态机禁止跳步）、`rules/02-style.md`、`rules/03-terminology.md`、`rules/07-academic-norms.md`（学术规范，s3/r3 挂钩实拦） |
+| 改目录 / 标题 / 结构 | `rules/01-repository-structure.md`（SUMMARY.md 唯一数据源；词条为 `<letter>/<slug>.md` A–Z 字母目录，ADR-0009；mu-lu-s.md 为手编分类目录） |
 | 提交 / 用工具 / CI | `rules/05-ci-and-tools.md` |
 | 修订规则 / 批量与破坏性动作 / 多会话协作 | `rules/06-governance.md` + `rules/adr/` |
 
 ## 会话开工五分钟
 
-1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，先确认没有未预期的变动；
+1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，**推送前先 `git pull --rebase`**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
 2. 通读 `rules/README.md` 的“快速判例”；
-3. 跑门禁：`python tools/check_summary.py`、`python tools/check_mulu_s.py`（应 0 退出）；
+3. 跑门禁：`python tools/check_all.py`（一键全量：七项门禁 + 单元测试，应全绿）；
 4. 查进度与任务：`PROGRESS.md`、`python tools/task_ops.py show <slug>`；
 5. 收工前：相关检查器复跑、相关文件提交（中文一行信息），不留未提交的半成品。
 
 ## 硬约束速览
 
-* **零信任**：既有中文译文一律不作底稿或修改依据；可疑处回原始 HTML（本地 `yuanwen/`、`en/`，不入库）核对；一切成品可回溯到英文源版本钉（pubinfo + 存档版名 + SHA-256）。
+* **零信任**：既有中文译文一律不作底稿或修改依据；可疑处回原始 HTML（`en/` 原始抓取、`yuanwen/` 转换镜像，均不入库）核对；一切成品可回溯到英文源版本钉（pubinfo + 存档版名 + SHA-256）。
 * **单一事实源**：结构看 `SUMMARY.md`，术语看 `yi-zhe-shuo-ming.md`，版本看 `baseline/`，任务状态看 `tasks/`；两处不一致时修弱势方。
 * **流程先行**：动笔前先有任务记录（`tasks/`）；先登记术语后使用；每步留 `evidence` 凭证。
-* **提交纪律**：高频小步提交，中文一行信息；只提交相关文件；直接提交 main；未经用户要求不 push、不 force；提交前核对 HEAD（本仓库多会话并行，见 `rules/06-governance.md`）。
+* **提交纪律**：高频小步提交，中文一行信息；只提交相关文件；直接提交 main；未经用户要求不 push、不 force；**推送前先 pull --rebase**（并行会话竞态，见 `rules/06-governance.md`）。
 * **抓取礼貌**：相邻 HTTP 请求 ≥5 秒；4xx/5xx/超时退避重试并记录，禁止静默跳过。
+* **结构形态**：词条为 `<letter>/<slug>.md`（SEP slug 命名，字母目录 A–Z），别名链目标、导航链 README；英文镜像 `yuanwen/<letter>/<slug>.md` 逐字符一致（ADR-0009）。
 * **单体文件**：叙事/规则/规格类 md 超 1000 行或 100KB 必须按文件夹拆分（登记册与生成物豁免，见 ADR-0004）；门禁 `tools/check_doc_size.py`。
-* **检查**：本地预检 `python tools/check_style.py`、`python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_doc_size.py`；推送后 CI 为最终裁判。
+* **检查**：本地一键 `python tools/check_all.py`（七项门禁 + 单元测试；`--all` 加基线审计）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。
