@@ -41,7 +41,8 @@
 2. **137 个导航节点**链 README（无作者且快照无对应条目页，如"美学 aesthetics""类比 analogy"）；快照索引修好后可复核是否漏条目。
 3. **42 条重复导入行**已从 SUMMARY 移除（明细在 rebuild-review.json "slug 与其他行重复"）。
 4. 别名目标无法解析 2 条（recursion 自指、Routley）。
-5. `yuanwen/assets/`（227 个提取文件，gitignored 本地原始物）与 `yuanwen/SUMMARY.md`（已跟踪遗留）待清理裁决。
+5. README 微信二维码图 wechat.png 已删除（README 引用行同步移除，.gitbook/assets 清空）；`yuanwen/SUMMARY.md` 已由 write_summary 重建为直拷贝镜像（ADR-0007 后两侧相对路径逐字符一致）；`yuanwen/assets/`（227 个提取文件，gitignored 本地原始物）待清理裁决。
+6. `tools/summary_sync.py` 与 `tools/repair_loop.py` 仍按旧 a–z 字母方案定位文件，需按 ADR-0007 改造（yuanwen.py 输出路径已于 bbbf40ae 对齐）。
 
 ## 复现
 
