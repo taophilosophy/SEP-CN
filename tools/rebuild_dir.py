@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-"""目录重建工具（ADR-0005）。
+"""上游同构重建工具（ADR-0007）。
 
-解析 SUMMARY.md，把非别名条目映射到规范路径 <letter>/<slug>.md，
-生成英文侧（yuanwen/）重建工作包，供子代理补建骨架文件。
+词条目录形态：仓库根 <slug>/index.md（中文）与 yuanwen/<slug>/index.md（英文），
+与上游 entries/<slug>/ 同构（省 entries/ 层）。SUMMARY 条目链接 <slug>/index.md，
+别名行保留并链到目标词条。
 
 用法:
-  python tools/rebuild_dir.py packages   # 生成工作包 + manifest + all-items.json
-  python tools/rebuild_dir.py verify     # 核验镜像缺口/多余文件/跟踪文件状态
+  python tools/rebuild_dir.py rebuild    # 重写 SUMMARY.md 与 mu-lu-s.md 链接
+  python tools/rebuild_dir.py stubs      # 中文侧骨架 <slug>/index.md（仅 H1）
+  python tools/rebuild_dir.py yuanwen    # yuanwen 扁平迁移 + 英文侧补缺
+  python tools/rebuild_dir.py check      # 核验链接解析与镜像覆盖
 仅标准库；不访问网络。
 """
 import difflib
@@ -14,48 +17,51 @@ import io
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SUMMARY = os.path.join(ROOT, "SUMMARY.md")
-BASELINE = os.path.join(ROOT, "baseline", "entries.json")
 SNAPSHOT = os.path.join(ROOT, ".github", "sep-baseline", "official-snapshot.json")
-YUANWEN = os.path.join(ROOT, "yuanwen")
 OUT = os.path.join(ROOT, "specs", "001-sep-sync-pipeline", "dir-rebuild")
-
-PROJECT_PREFIXES = ("pending/", "rules/", ".zcode/", ".specify/")
-PROJECT_FILES = {"SUMMARY.md", "mu-lu-s.md", "yi-zhe-shuo-ming.md", "PROGRESS.md"}
 CJK = re.compile(r"[\u3000-\u303f\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 AUTHORS_TAIL = re.compile(r"\(([^()]*)\)\s*$")
-PATH_SLUG = re.compile(r"^([A-Za-z0-9])/([A-Za-z0-9][A-Za-z0-9.\-]*)\.md$")
 LINE = re.compile(r"^(\s*)\* \[(.+)\]\((.+)\)\s*$")
+
+# 前置项目页：标题 -> 规范路径（12 页，全部已存在于 qian-yan/ 与 guan-yu/）
+FRONT = {
+    "斯坦福哲学百科全书简体中文版": "README.md",
+    "分类目录": "mu-lu-s.md",
+    "版权说明": "qian-yan/ban-quan-shuo-ming.md",
+    "日志与编辑规划": "qian-yan/ri-zhi-yu-bian-ji-gui-hua.md",
+    "词汇表": "qian-yan/ci-hui-biao.md",
+    "编辑信息": "guan-yu/bian-ji-xin-xi.md",
+    "关于 SEP": "guan-yu/guan-yu-sep.md",
+    "编委会": "guan-yu/bian-wei-hui.md",
+    "如何引用 SEP": "guan-yu/ru-he-yin-yong-sep.md",
+    "特殊字符": "guan-yu/te-shu-zi-fu.md",
+    "高级工具": "guan-yu/gao-ji-gong-ju.md",
+    "联系信息": "guan-yu/lian-xi-xin-xi.md",
+}
+JUNK_PREFIXES = (".zcode/", ".specify/", "tools/", "rules/", "fang-fa-lun/", "jian-yi-shu/", "specs/")
+JUNK_FILES = {"AGENTS.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "PROGRESS.md",
+              "SUMMARY.md", "yi-zhe-shuo-ming.md"}
 
 
 def norm(s):
-    """规范化标题为 slug 候选：小写、去撇号、其余非字母数字切分为连字符。"""
     s = s.lower().replace("\u2019", "").replace("'", "")
     return "-".join(re.findall(r"[a-z0-9]+", s))
 
 
-def parse_summary():
-    entries = []
-    with open(SUMMARY, encoding="utf-8") as f:
-        for i, line in enumerate(f, 1):
-            m = LINE.match(line.rstrip("\n"))
-            if not m:
-                continue
-            title, path = m.group(2), m.group(3)
-            title = title.replace("\\*", "*").replace("\\[", "[").replace("\\]", "]")
-            entries.append({"line_no": i, "indent": len(m.group(1)), "title": title, "path": path})
-    return entries
+def unescape(t):
+    return t.replace("\\*", "*").replace("\\[", "[").replace("\\]", "]")
 
 
 def split_title(title):
-    """剥掉占位星号与末尾作者括号，切出英文标题部分。"""
-    t = title.lstrip("* ").strip()
+    """剥占位星号与末尾作者括号，切出英文标题部分。"""
+    t = unescape(title).lstrip("* ").strip()
     authors = ""
     m = AUTHORS_TAIL.search(t)
     if m:
@@ -70,53 +76,7 @@ def split_title(title):
     return english, authors
 
 
-def build_inventory():
-    """yuanwen 单字符目录内文件名 stem 规范化索引（assets 等不参与）。"""
-    inv = {}
-    if not os.path.isdir(YUANWEN):
-        return inv
-    for d in sorted(os.listdir(YUANWEN)):
-        if not re.fullmatch(r"[a-z0-9]", d):
-            continue
-        for fn in os.listdir(os.path.join(YUANWEN, d)):
-            stem, ext = os.path.splitext(fn)
-            if ext == ".md":
-                inv.setdefault(norm(stem), []).append(d + "/" + fn)
-    return inv
-
-
-def load_snapshot():
-    """官方快照 norm(title) -> [(slug, authors), ...]；slug 为 SEP 权威命名。"""
-    idx = {}
-    try:
-        with open(SNAPSHOT, encoding="utf-8") as f:
-            data = json.load(f)
-        for slug, meta in (data.get("main") or {}).items():
-            t = (meta or {}).get("title") or ""
-            if t:
-                idx.setdefault(norm(t), []).append((slug, (meta or {}).get("authors") or ""))
-    except (OSError, ValueError):
-        pass
-    return idx
-
-
-def load_baseline():
-    """baseline/entries.json 的 norm(title)->slug 索引。"""
-    idx = {}
-    try:
-        with open(BASELINE, encoding="utf-8") as f:
-            data = json.load(f)
-        for e in data.get("entries", []):
-            t = e.get("title") or ""
-            if t and e.get("slug"):
-                idx.setdefault(norm(t), e["slug"])
-    except (OSError, ValueError):
-        pass
-    return idx
-
-
 def author_overlap(a, b):
-    """作者串的词级重合率，用于同名标题消歧。"""
     wa = set(re.findall(r"[a-z]+", a.lower()))
     wb = set(re.findall(r"[a-z]+", b.lower()))
     if not wa or not wb:
@@ -124,184 +84,309 @@ def author_overlap(a, b):
     return len(wa & wb) / max(len(wa), len(wb))
 
 
-def derive_slug(path, eng, authors, inv, bl, snap):
-    """取证优先级：官方快照 > SUMMARY 单段路径 > yuanwen 文件名 > baseline 标题
-    > 快照模糊匹配 > 标题推导。同名候选以作者重合消歧。"""
-    if eng:
-        n = norm(eng)
-        cands = snap.get(n) or []
-        if len(cands) == 1:
-            return cands[0][0], "snapshot"
-        if len(cands) > 1:
-            best = max(cands, key=lambda c: author_overlap(authors, c[1]))
-            if author_overlap(authors, best[1]) >= 0.4:
-                return best[0], "snapshot"
-            return "", "needs_review:" + ",".join(c[0] for c in cands)
-    m = PATH_SLUG.match(path)
-    if m:
-        return m.group(2), "path"
-    if eng:
-        n = norm(eng)
-        if n in inv:
-            return inv[n][0].split("/")[1][:-3], "yuanwen"
-        if n in bl:
-            return bl[n], "baseline"
-        close = difflib.get_close_matches(n, list(snap), n=2, cutoff=0.9)
-        if len(close) == 1 or (len(close) == 2 and close[0] != close[1]
-                               and difflib.SequenceMatcher(None, n, close[0]).ratio()
-                               > difflib.SequenceMatcher(None, n, close[1]).ratio() + 0.05):
-            cands = snap[close[0]]
-            if author_overlap(authors, cands[0][1]) >= 0.4 or not authors:
-                return cands[0][0], "snapshot-fuzzy"
-        if n:
-            return n, "derived"
-    return "", "needs_review"
+def load_snapshot():
+    with open(SNAPSHOT, encoding="utf-8") as f:
+        data = json.load(f)
+    main = data.get("main") or {}
+    by_title = {}
+    for slug, meta in main.items():
+        t = (meta or {}).get("title") or ""
+        if t:
+            by_title.setdefault(norm(t), []).append((slug, (meta or {}).get("authors") or ""))
+    alias = {}
+    for a in data.get("alias") or []:
+        name = (a or {}).get("alias") or ""
+        if name and a.get("slug"):
+            alias.setdefault(norm(name), a["slug"])
+    return main, by_title, alias
 
 
-def classify():
-    entries = parse_summary()
-    inv = build_inventory()
-    bl = load_baseline()
-    snap = load_snapshot()
+def entry_slug(english, authors, by_title, tokset=None):
+    """官方快照标题匹配，同名以作者重合消歧；词集与模糊兜底；无解返回 None。"""
+    n = norm(english) if english else ""
+    if not n:
+        return None
+    cands = by_title.get(n) or []
+    if len(cands) == 1:
+        return cands[0][0]
+    if len(cands) > 1:
+        best = max(cands, key=lambda c: author_overlap(authors, c[1]))
+        if author_overlap(authors, best[1]) >= 0.4:
+            return best[0]
+        return None
+    # 词集兜底（忽略冠词 the）：语序颠倒（"animals, moral status of" ≡ "The Moral Status of Animals"）
+    if tokset is not None:
+        toks = frozenset(n.split("-")) - {"the"}
+        keys = tokset.get(toks) or []
+        slugs = []
+        for k in keys:
+            for slug, aut in by_title[k]:
+                if not authors or author_overlap(authors, aut) >= 0.4:
+                    slugs.append(slug)
+        if len(set(slugs)) == 1:
+            return slugs[0]
+        # 截断标题兜底：SUMMARY 英文是快照标题去集群前缀后的后缀（≥2 词、唯一命中）
+        if len(n.split("-")) >= 2:
+            tail = [k for k in by_title if k.endswith("-" + n)]
+            if len(tail) == 1:
+                return by_title[tail[0]][0][0]
+        # 子条目短标题匹配：SUMMARY 全称（"Animals, moral status of"）以快照短标题结尾
+        if len(n.split("-")) >= 3:
+            hits = [k for k in by_title if k != n and len(n) - len(k) >= 4
+                    and n.endswith("-" + k) and len(k.split("-")) >= 2]
+            if len(hits) == 1:
+                return by_title[hits[0]][0][0]
+            if len(hits) > 1:
+                cands = [s for k in hits for s, aut in by_title[k]
+                         if not authors or author_overlap(authors, aut) >= 0.4]
+                if len(set(cands)) == 1:
+                    return cands[0]
+    close = difflib.get_close_matches(n, list(by_title), n=2, cutoff=0.85)
+    if len(close) == 1 or (len(close) == 2 and close[0] != close[1]
+                           and difflib.SequenceMatcher(None, n, close[0]).ratio()
+                           > difflib.SequenceMatcher(None, n, close[1]).ratio() + 0.05):
+        cands = by_title[close[0]]
+        if not authors or author_overlap(authors, cands[0][1]) >= 0.4:
+            return cands[0][0]
+    return None
 
-    stats = {"total": len(entries), "alias": 0, "project": 0,
-             "entry": 0, "exists": 0, "create": 0, "review": 0}
-    conf_count = {}
-    items, seen = [], {}
-    sep_stack = []  # (indent, item) 栈：为子词条提供母词条上下文
 
-    for e in entries:
-        title, path = e["title"], e["path"]
+def parse_lines(path):
+    out = []
+    with open(path, encoding="utf-8") as f:
+        for i, line in enumerate(f, 1):
+            m = LINE.match(line.rstrip("\n"))
+            out.append((i, m, line.rstrip("\n")))
+    return out
+
+
+class Mapper:
+    def __init__(self):
+        self.main, self.by_title, self.alias = load_snapshot()
+        self.tokset = {}
+        for k in self.by_title:
+            self.tokset.setdefault(frozenset(k.split("-")) - {"the"}, []).append(k)
+        self.used = {}       # slug -> line_no（去重）
+        self.review = []     # 无法解析被丢弃/挂起的行
+        self.children = set()  # 有更深缩进子行的行号（导航节点判定用）
+        self.stats = {"front": 0, "entry": 0, "alias": 0, "dup": 0, "junk": 0, "nav": 0, "review": 0}
+
+    def resolve(self, title, old_path, line_no):
+        """返回新路径或 None（丢弃）。"""
+        if title.strip() in FRONT:
+            self.stats["front"] += 1
+            return FRONT[title.strip()]
+        if old_path.startswith(JUNK_PREFIXES) or old_path in JUNK_FILES:
+            if title.strip() not in FRONT:
+                self.stats["junk"] += 1
+                self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                    "reason": "开发文档/垃圾链接，已从 SUMMARY 移除"})
+                return None
         if "— see" in title or "——见" in title:
-            stats["alias"] += 1
-            continue
-        if path.startswith(PROJECT_PREFIXES) or path in PROJECT_FILES:
-            stats["project"] += 1
-            continue
+            # 别名：取 "— see" 之前、"——见/—见" 之后的英文别名文本，在快照 alias 表映射到目标
+            left = title.split("— see")[0]
+            if "——见" in left:
+                left = left.split("——见")[-1]
+            elif "—见" in left:
+                left = left.split("—见")[-1]
+            eng, _ = split_title(left)
+            target = self.alias.get(norm(eng)) if eng else None
+            if not target:
+                # 兜底：右段（see 之后）按目标条目标题匹配
+                right = title.split("— see", 1)[-1].split("——见", 1)[-1]
+                reng, raut = split_title(right)
+                target = entry_slug(reng, raut, self.by_title, self.tokset)
+            if not target:
+                self.stats["review"] += 1
+                self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                    "reason": "别名目标无法解析"})
+                return None
+            # 别名指向的目标可与正文条目同 slug（这正是 see-alias 的语义），不占用 used
+            self.stats["alias"] += 1
+            return target + "/index.md"
         eng, authors = split_title(title)
-        slug, conf = derive_slug(path, eng, authors, inv, bl, snap)
-        note = ""
-        if conf.startswith("needs_review:") and not slug:
-            note = "同名候选: " + conf.split(":", 1)[1]
-            conf = "needs_review"
-        letter = slug[0].lower() if slug and re.fullmatch(r"[a-z0-9]", slug[0].lower()) else ""
-        action = "create"
-        if not slug or not letter:
-            slug = letter = ""
-            action = "review"
-        else:
-            target = letter + "/" + slug + ".md"
-            if target in seen:
-                prev = seen[target]
-                if norm(prev["english"]) == norm(eng):
-                    continue  # 同一条目重复出现，合并
-                note = "slug 与 line %d 冲突" % prev["line_no"]
-                conf, action = "conflict", "review"
-            else:
-                seen[target] = {"english": eng, "line_no": e["line_no"]}
-                if os.path.isfile(os.path.join(YUANWEN, letter, slug + ".md")):
-                    action = "skip"
-                elif conf == "derived" and not authors:
-                    # 无作者且官方快照无此条目：疑为纯导航节点（ADR-0005 决策 5）
-                    note = "无作者且快照无此条目，疑为纯导航节点"
-                    conf, action = "derived-nav", "review"
-        while sep_stack and sep_stack[-1][0] >= e["indent"]:
-            sep_stack.pop()
-        parent = sep_stack[-1][1] if sep_stack and sep_stack[-1][0] < e["indent"] else None
-        if action != "review":
-            stats["entry"] += 1
-            conf_count[conf] = conf_count.get(conf, 0) + 1
-            stats["exists" if action == "skip" else "create"] += 1
-        else:
-            stats["review"] += 1
-        item = {"line_no": e["line_no"], "title": title, "path": path,
-                "english": eng, "authors": authors, "slug": slug, "letter": letter,
-                "conf": conf, "action": action}
-        if note:
-            item["note"] = note
-        if parent:
-            item["parent_title"] = parent.get("title", "")
-            if parent.get("slug"):
-                item["parent_slug"] = parent["slug"]
-        item["_indent"] = e["indent"]
+        slug = entry_slug(eng, authors, self.by_title, self.tokset)
+        if slug and slug in self.used:
+            self.stats["dup"] += 1
+            self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                "reason": "slug 与其他行重复"})
+            return None
         if slug:
-            item_for_stack = dict(item)
-            sep_stack.append((e["indent"], item_for_stack))
-        items.append(item)
-
-    return items, stats, conf_count
-
-
-def main_packages():
-    items, stats, conf_count = classify()
-    os.makedirs(os.path.join(OUT, "packages"), exist_ok=True)
-
-    by_letter = {}
-    for it in items:
-        if it["action"] == "skip":
-            continue  # 工作包只装需动手的条目；全量清单在 all-items.json
-        by_letter.setdefault(it["letter"] or "zz", []).append(it)
-
-    # 小目录归并成组，目标每组 <=120 条可动条目
-    groups, cur, cur_n = [], [], 0
-    for key in sorted(by_letter):
-        n = len(by_letter[key])
-        if cur and cur_n + n > 120:
-            groups.append(cur)
-            cur, cur_n = [], 0
-        cur.append(key)
-        cur_n += n
-    if cur:
-        groups.append(cur)
-
-    group_files = []
-    for gi, keys in enumerate(groups, 1):
-        name = "group-%02d" % gi
-        merged = [it for k in keys for it in by_letter[k]]
-        with open(os.path.join(OUT, "packages", name + ".json"), "w", encoding="utf-8") as f:
-            json.dump({"group": name, "letters": keys, "items": merged}, f, ensure_ascii=False, indent=1)
-        creates = sum(1 for x in merged if x["action"] == "create")
-        reviews = sum(1 for x in merged if x["action"] == "review")
-        group_files.append(name)
-        print("%s: letters=%s items=%d create=%d review=%d" % (name, "".join(keys), len(merged), creates, reviews))
-
-    with open(os.path.join(OUT, "all-items.json"), "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=1)
-    manifest = {"stats": stats, "conf": conf_count, "groups": group_files,
-                "letters": {k: len(v) for k, v in sorted(by_letter.items())}}
-    with open(os.path.join(OUT, "manifest.json"), "w", encoding="utf-8") as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=1)
-    print("manifest:", json.dumps({**stats, "conf": conf_count}, ensure_ascii=False))
+            self.used[slug] = line_no
+            self.stats["entry"] += 1
+            return slug + "/index.md"
+        # 解析失败：真实条目（有作者）保留派生 slug 行待人工核对；导航节点保留缩进链 README
+        if authors and eng:
+            dslug = norm(eng)
+            if dslug and dslug not in self.used:
+                self.used[dslug] = line_no
+                self.stats["entry"] += 1
+                self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                    "reason": "英文标题与快照不匹配，已用派生 slug %s，待人工核对" % dslug})
+                return dslug + "/index.md"
+        if line_no in self.children:
+            self.stats["nav"] += 1
+            self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                "reason": "纯导航节点（无作者、快照无对应条目页），链到 README"})
+            return "README.md"
+        self.stats["review"] += 1
+        self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                            "reason": "无法解析（无作者且无子词条）"})
+        return None
 
 
-def main_verify():
-    with open(os.path.join(OUT, "all-items.json"), encoding="utf-8") as f:
-        items = json.load(f)
-    inv = build_inventory()
-    canonical = {it["letter"] + "/" + it["slug"] + ".md" for it in items
-                 if it.get("slug") and it.get("action") != "review"}
-    have = {p for paths in inv.values() for p in paths}
-    missing = sorted(canonical - have)
-    extras = sorted(have - canonical)
-    print("canonical=%d have=%d missing=%d extras=%d" % (len(canonical), len(have), len(missing), len(extras)))
-    with open(os.path.join(OUT, "missing.json"), "w", encoding="utf-8") as f:
-        json.dump(missing, f, ensure_ascii=False, indent=1)
-    with open(os.path.join(OUT, "extras.json"), "w", encoding="utf-8") as f:
-        json.dump(extras, f, ensure_ascii=False, indent=1)
-    st = subprocess.run(["git", "status", "--porcelain", "yuanwen/"], cwd=ROOT,
-                        capture_output=True, text=True)
-    changed = [l for l in st.stdout.splitlines() if l.startswith(" M") or l.startswith("M ")]
-    print("git modified tracked files in yuanwen/: %d" % len(changed))
-    for l in changed:
-        print(" ", l)
+def rewrite_toc(src, dst, mapper):
+    lines = parse_lines(src)
+    for idx in range(len(lines) - 1):
+        i, m, _ = lines[idx]
+        j, m2, _2 = lines[idx + 1]
+        if m and m2 and len(m2.group(1)) > len(m.group(1)):
+            mapper.children.add(i)
+    out, kept = [], 0
+    for i, m, raw in lines:
+        if not m:
+            out.append(raw)
+            continue
+        indent, title, old_path = m.group(1), m.group(2), m.group(3)
+        newp = mapper.resolve(title, old_path, i)
+        if newp is None:
+            continue
+        out.append("%s* [%s](%s)" % (indent, title, newp))
+        kept += 1
+    with open(dst, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(out) + "\n")
+    return kept
+
+
+def cmd_rebuild():
+    sm = Mapper()
+    n1 = rewrite_toc(os.path.join(ROOT, "SUMMARY.md"), os.path.join(ROOT, "SUMMARY.md"), sm)
+    mm = Mapper()
+    n2 = rewrite_toc(os.path.join(ROOT, "mu-lu-s.md"), os.path.join(ROOT, "mu-lu-s.md"), mm)
+    print("SUMMARY kept=%d stats=%s" % (n1, json.dumps(sm.stats, ensure_ascii=False)))
+    print("mu-lu-s kept=%d stats=%s" % (n2, json.dumps(mm.stats, ensure_ascii=False)))
+    with open(os.path.join(OUT, "rebuild-review.json"), "w", encoding="utf-8") as f:
+        json.dump({"summary": sm.review, "mu-lu-s": mm.review}, f, ensure_ascii=False, indent=1)
+    with open(os.path.join(OUT, "slug-map.json"), "w", encoding="utf-8") as f:
+        json.dump({s: {"line_no": ln} for s, ln in sorted(sm.used.items())}, f, ensure_ascii=False, indent=1)
+    print("review items: %d" % (len(sm.review) + len(mm.review)))
+
+
+def cmd_stubs():
+    lines = parse_lines(os.path.join(ROOT, "SUMMARY.md"))
+    created = skipped = 0
+    for i, m, raw in lines:
+        if not m:
+            continue
+        title, path = m.group(2), m.group(3)
+        if not path.endswith("/index.md") or "/" not in path[:-len("/index.md")]:
+            continue
+        slug = path[:-len("/index.md")]
+        if "/" in slug or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", slug):
+            continue
+        d = os.path.join(ROOT, slug)
+        os.makedirs(d, exist_ok=True)
+        p = os.path.join(d, "index.md")
+        if os.path.exists(p):
+            skipped += 1
+            continue
+        with open(p, "w", encoding="utf-8", newline="\n") as f:
+            f.write("# " + unescape(title) + "\n")
+        created += 1
+    print("chinese stubs created=%d skipped=%d" % (created, skipped))
+
+
+def tracked_files():
+    st = subprocess.run(["git", "ls-files", "yuanwen/"], cwd=ROOT, capture_output=True, text=True)
+    return set(l.strip() for l in st.stdout.splitlines() if l.strip())
+
+
+def cmd_yuanwen():
+    main, by_title, alias = load_snapshot()
+    canonical = {slug: meta for slug, meta in main.items()}
+    yw = os.path.join(ROOT, "yuanwen")
+    tracked = tracked_files()
+
+    # 1) 扁平文件迁移：单字符目录 -> <slug>/index.md 或 <slug>/<supplement>.md
+    moved = git_moved = 0
+    problems = []
+    letters = [d for d in os.listdir(yw) if re.fullmatch(r"[a-z0-9]", d)] if os.path.isdir(yw) else []
+    for d in sorted(letters):
+        dd = os.path.join(yw, d)
+        for fn in sorted(os.listdir(dd)):
+            if not fn.endswith(".md"):
+                continue
+            stem = fn[:-3]
+            # 点号补充材料：base 为已知 slug 时拆入 <base>/<suffix>.md
+            if "." in stem:
+                base, suffix = stem.split(".", 1)
+                if base in canonical:
+                    rel = base + "/" + suffix + ".md"
+                else:
+                    rel = stem + "/index.md"
+            else:
+                rel = stem + "/index.md"
+            src = os.path.join(dd, fn)
+            dst = os.path.join(yw, *rel.split("/"))
+            if os.path.exists(dst):
+                problems.append("目标已存在: " + rel)
+                continue
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            old = "yuanwen/" + d + "/" + fn
+            if old in tracked:
+                subprocess.run(["git", "mv", old, "yuanwen/" + rel], cwd=ROOT, check=True,
+                               capture_output=True)
+                git_moved += 1
+            else:
+                shutil.move(src, dst)
+            moved += 1
+        if not os.listdir(dd):
+            os.rmdir(dd)
+
+    # 2) 补缺：canonical 每个词条无 index.md 则建英文标题 H1 桩
+    created = 0
+    for slug, meta in sorted(canonical.items()):
+        p = os.path.join(yw, slug, "index.md")
+        if os.path.exists(p):
+            continue
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, "w", encoding="utf-8", newline="\n") as f:
+            f.write("# " + ((meta or {}).get("title") or slug) + "\n")
+        created += 1
+    print("yuanwen moved=%d (git mv %d) stubs created=%d problems=%d"
+          % (moved, git_moved, created, len(problems)))
+    for p in problems[:10]:
+        print("  ", p)
+
+
+def cmd_check():
+    bad = 0
+    for name in ("SUMMARY.md", "mu-lu-s.md"):
+        for i, m, raw in parse_lines(os.path.join(ROOT, name)):
+            if not m:
+                continue
+            p = m.group(3)
+            if not os.path.isfile(os.path.join(ROOT, *p.split("/"))):
+                print("BROKEN %s:%d %s -> %s" % (name, i, m.group(2)[:40], p))
+                bad += 1
+    main, _, _ = load_snapshot()
+    missing = [s for s in main if not os.path.isfile(os.path.join(ROOT, "yuanwen", s, "index.md"))]
+    print("broken links=%d ; snapshot entries without yuanwen mirror=%d / %d"
+          % (bad, len(missing), len(main)))
+    for s in missing[:10]:
+        print("  ", s)
 
 
 if __name__ == "__main__":
-    cmd = sys.argv[1] if len(sys.argv) > 1 else "packages"
-    if cmd == "packages":
-        main_packages()
-    elif cmd == "verify":
-        main_verify()
+    cmd = sys.argv[1] if len(sys.argv) > 1 else ""
+    if cmd == "rebuild":
+        cmd_rebuild()
+    elif cmd == "stubs":
+        cmd_stubs()
+    elif cmd == "yuanwen":
+        cmd_yuanwen()
+    elif cmd == "check":
+        cmd_check()
     else:
         print(__doc__)
         sys.exit(2)
