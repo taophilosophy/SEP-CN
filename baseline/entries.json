@@ -854,6 +854,80 @@
       }
     },
     {
+      "slug": "action",
+      "fetched_at": "2026-10-27T17:03:21Z",
+      "source_url": "https://plato.stanford.edu/entries/action/",
+      "title": "Action",
+      "authors": [
+        "Piñeros Glasscock, Juan S.",
+        "Tenenbaum, Sergio"
+      ],
+      "pubinfo": {
+        "first_published": "Jan 11, 2023",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/action.md",
+      "archinfo": {
+        "latest_edition": "Fall 2026",
+        "latest_change_type": "minor correction",
+        "history": [
+          {
+            "edition": "Spring 2023",
+            "change_type": "new, rewritten entry"
+          },
+          {
+            "edition": "Winter 2016",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2012",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2009",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2007",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Summer 2002",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2002",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Fall 2026",
+      "files": [
+        {
+          "path": "en/action/index.html",
+          "sha256": "81716c8b58e514fc0eb5597aafb6cde6523474a221695c22d79f64fe5b532189",
+          "bytes": 201320,
+          "kind": "main"
+        },
+        {
+          "path": "en/action/notes.html",
+          "sha256": "355e3df2398f97bdddd914205979d7ec41b486ae28dce1f3e53990c45ce69a90",
+          "bytes": 15119,
+          "kind": "notes"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "action-perception",
       "fetched_at": "2026-10-26T20:34:04Z",
       "source_url": "https://plato.stanford.edu/entries/action-perception/",
@@ -9413,6 +9487,164 @@
       }
     },
     {
+      "slug": "artificial-intelligence",
+      "fetched_at": "2026-10-27T17:03:32Z",
+      "source_url": "https://plato.stanford.edu/entries/artificial-intelligence/",
+      "title": "Artificial Intelligence",
+      "authors": [
+        "Bringsjord, Selmer",
+        "Govindarajulu, Naveen Sundar"
+      ],
+      "pubinfo": {
+        "first_published": "Jul 12, 2018",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/artificial-intelligence.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": [
+          {
+            "edition": "Summer 2026",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2026",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2025",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2024",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2024",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2022",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2020",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2019",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2018",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/artificial-intelligence/index.html",
+          "sha256": "355d72e55cac07228e0e4fdcca0a1d7bcb0d84b270af42de0c17fda27883d90a",
+          "bytes": 226148,
+          "kind": "main"
+        },
+        {
+          "path": "en/artificial-intelligence/notes.html",
+          "sha256": "437ac491750e058e2064e5ef7c7c2035f9cd580a8e8dee43baa6ff31880d8f47",
+          "bytes": 59453,
+          "kind": "notes"
+        },
+        {
+          "path": "en/artificial-intelligence/aixi.html",
+          "sha256": "d87173ca5a693372bdd12c965533ed828312058d32c980344e69fd4860d8a064",
+          "bytes": 19374,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/artificial-intelligence/bayesian-nets.html",
+          "sha256": "bb6a886367cef13d3b70874e9a89f7cbb50a8e5e8d930d18e1a5b17ef8ba2c3a",
+          "bytes": 18560,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/artificial-intelligence/neural-nets.html",
+          "sha256": "a4328c632ec4b3300a13a49d53c26e23d6b2a862d2d8a6f244201865069e5b33",
+          "bytes": 16019,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/artificial-intelligence/oscar.html",
+          "sha256": "007e866db30b58a8b9e1c93b9652a15a2f1d3c2066843e8f9dc6bea537d10a64",
+          "bytes": 25541,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/artificial-intelligence/watson.html",
+          "sha256": "7193ba89fe5c257caf00aaf9a18627a192e17be948f827a4c3b0df902531bd33",
+          "bytes": 17541,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/artificial-intelligence/2ebig.jpg",
+          "sha256": "d5e20495b8cae6710fdd610a8e0df27bdd6a94329812acf07160dfea310db00c",
+          "bytes": 42115,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/rationality_diagram_3.png",
+          "sha256": "4f476c3b242aaaa4a209524f8c0c1058710d64afc29e898fb7dd945861cb3316",
+          "bytes": 63582,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/agent-environment.png",
+          "sha256": "03b4018e0bfa0d239fb1bf77c5e40f3059bbc30bdc5651259fb31ff8f653f1f4",
+          "bytes": 18772,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/simple-reflex-agent.png",
+          "sha256": "93cb70bc587ee0726d2785d0c910ab0bd1988e4dd36c7ba518894ea00e67adb3",
+          "bytes": 35870,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/reflexstate-agent.png",
+          "sha256": "8b3ee383b1a8005e18f42eac328bf05acfcb8139524191b1dd0938583c271d17",
+          "bytes": 50710,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/learning-agent.png",
+          "sha256": "012a06fff9faf9a5d1246b2866269cce172c3f7a1ce9cfc636eec98bf8776f22",
+          "bytes": 49208,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/neuron-unit_1.png",
+          "sha256": "0631934a0b6830bc1a54db476bbd98c05d8dc5e559de17183a8c021dff514b29",
+          "bytes": 152369,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/neural-net_1.png",
+          "sha256": "43c732e548c835ddeedffbe0d22fd033fd94ec27159935e7407265d40b0c7dc5",
+          "bytes": 30056,
+          "kind": "image"
+        },
+        {
+          "path": "en/artificial-intelligence/cr1.png",
+          "sha256": "b945f218464edb0eb87c3124f43d87101c50ee4dbefbd47180015c96724e7723",
+          "bytes": 27743,
+          "kind": "image"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "assertion",
       "fetched_at": "2026-10-26T20:34:31Z",
       "source_url": "https://plato.stanford.edu/entries/assertion/",
@@ -10499,6 +10731,68 @@
         "images": [],
         "notes": 3
       }
+    },
+    {
+      "slug": "authority",
+      "fetched_at": "2026-10-27T17:03:27Z",
+      "source_url": "https://plato.stanford.edu/entries/authority/",
+      "title": "Authority",
+      "authors": [
+        "Christiano, Tom",
+        "Sciaraffa, Stefan"
+      ],
+      "pubinfo": {
+        "first_published": "Jul 2, 2004",
+        "substantive_revision": "Oct 7, 2025"
+      },
+      "in_article_markers": true,
+      "zh_doc": "a/authority.md",
+      "archinfo": {
+        "latest_edition": "Winter 2025",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Fall 2024",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Summer 2020",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2013",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2012",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2004",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Winter 2025",
+      "files": [
+        {
+          "path": "en/authority/index.html",
+          "sha256": "04cf5e4c95f6268d6f7a4bb4085956d8480f9347c071a4ee8f7bb39cd9f952de",
+          "bytes": 136437,
+          "kind": "main"
+        },
+        {
+          "path": "en/authority/legitimate-authority.html",
+          "sha256": "0b1526ccec5c1af8219748096d886514e1648ac357c6011660cfb557185f2c92",
+          "bytes": 31258,
+          "kind": "supplement"
+        }
+      ],
+      "missing": []
     },
     {
       "slug": "autonomy-moral",
@@ -60605,6 +60899,85 @@
       }
     },
     {
+      "slug": "identity-ethics",
+      "fetched_at": "2026-10-27T17:04:09Z",
+      "source_url": "https://plato.stanford.edu/entries/identity-ethics/",
+      "title": "Personal Identity and Ethics",
+      "authors": [
+        "Dufner, Annette"
+      ],
+      "pubinfo": {
+        "first_published": "Jun 30, 2025",
+        "substantive_revision": null
+      },
+      "in_article_markers": true,
+      "zh_doc": "i/identity-ethics.md",
+      "archinfo": {
+        "latest_edition": "Winter 2025",
+        "latest_change_type": "minor correction",
+        "history": [
+          {
+            "edition": "Fall 2025",
+            "change_type": "new, rewritten entry"
+          },
+          {
+            "edition": "Fall 2021",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2019",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2016",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2016",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2015",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2014",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2012",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2008",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Spring 2007",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2005",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Winter 2025",
+      "files": [
+        {
+          "path": "en/identity-ethics/index.html",
+          "sha256": "c625abc07a0bc5239d7e61c646728d2debc858c294e7bcbcbd7964ff2dfa8780",
+          "bytes": 87024,
+          "kind": "main"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "identity-personal",
       "fetched_at": "2026-10-26T20:39:51Z",
       "source_url": "https://plato.stanford.edu/entries/identity-personal/",
@@ -102611,6 +102984,34 @@
       }
     },
     {
+      "slug": "pineal-gland",
+      "fetched_at": "2026-10-27T17:04:15Z",
+      "source_url": "https://plato.stanford.edu/entries/pineal-gland/",
+      "title": null,
+      "authors": [],
+      "pubinfo": {
+        "first_published": null,
+        "substantive_revision": null
+      },
+      "in_article_markers": false,
+      "zh_doc": "p/pineal-gland.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": null,
+      "files": [
+        {
+          "path": "en/pineal-gland/index.html",
+          "sha256": "38ff2f543e182e105362ba3df7467e08a0d1b80f6d6ddca7ce70112d48856205",
+          "bytes": 9670,
+          "kind": "main"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "plato",
       "fetched_at": "2026-10-26T20:44:42Z",
       "source_url": "https://plato.stanford.edu/entries/plato/",
@@ -114933,7 +115334,7 @@
     },
     {
       "slug": "religion-morality",
-      "fetched_at": "2026-10-26T20:46:16Z",
+      "fetched_at": "2026-10-27T17:04:12Z",
       "source_url": "https://plato.stanford.edu/entries/religion-morality/",
       "title": "Religion and Morality in Western Philosophy",
       "authors": [
@@ -114945,7 +115346,7 @@
         "substantive_revision": "Sep 25, 2024"
       },
       "in_article_markers": true,
-      "zh_doc": null,
+      "zh_doc": "r/religion-morality.md",
       "archinfo": {
         "latest_edition": "Winter 2024",
         "latest_change_type": "substantive content change",
@@ -114985,18 +115386,7 @@
           "kind": "main"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/r/religion-morality.md",
-        "sha256": "bd9b0683b5489e0e60f90486ede8846dd38e4d5679032fb3ec7cb9521e8e1595",
-        "source_sha256": "6ac3c2f827257ab3ed8c900aa5a53b558beed1ac46803c7056c86995ef2b7e39",
-        "converted_at": "2026-10-26T22:48:19Z",
-        "cite_markers": 2,
-        "cite_defs": 96,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
+      "missing": []
     },
     {
       "slug": "religion-politics",
@@ -138919,5 +139309,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-27T16:54:43Z"
+  "updated_at": "2026-10-27T17:04:17Z"
 }
