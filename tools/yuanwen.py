@@ -63,16 +63,25 @@ def protect_cross_block_math(region):
     横跨块级标签的 \(…\)/\[…\] 公式在按块切分时被腰斩，两侧都无法配对。
     含块级标签的公式整体换成占位标记（切块、行内转换对标记透明），
     最终在 md 层还原为 $$/…$ 定界形式。返回 (region', {标记: 内部内容})。
+
+    护栏（2026-10-28 D16）：仅当跨度像公式——无标题标签、块级开标签 ≤2、
+    长度 ≤4000——才保护；typelogical-grammar 存在上游未配对的 \(，非贪婪
+    匹配曾把 40KB 正文整段当公式吞进占位符，标题/列表全部失联。
     """
     stash = {}
 
     def _repl(m):
         inner = m.group(1)
-        if CROSS_BLOCK_TAG_RE.search(inner):
-            key = '\x00M%d\x00' % len(stash)
-            stash[key] = inner
-            return key
-        return m.group(0)
+        if not CROSS_BLOCK_TAG_RE.search(inner):
+            return m.group(0)
+        if (re.search(r'<h[1-6]\b', inner, re.I)
+                or len(re.findall(r'<(?:p|div|ul|ol|li|table|blockquote|dl|pre)\b',
+                                  inner, re.I)) > 2
+                or len(inner) > 4000):
+            return m.group(0)  # 跨度过大/含标题：是未配对定界符，不保护
+        key = '\x00M%d\x00' % len(stash)
+        stash[key] = inner
+        return key
 
     return CROSS_MATH_RE.sub(_repl, region), stash
 
@@ -184,6 +193,11 @@ def inline_to_md(html, slug=None):
     store = []
 
     def _stash(m):
+        # 护栏（D16）：真实公式不含原始 HTML 标签（上游源中 < 一律写作 &lt;）。
+        # 含标签的 \(…\) 是未配对定界符（如 typelogical-grammar），按普通文本
+        # 走标签管线，防止整块正文被吞进占位符。
+        if re.search(r'<[a-zA-Z!]', m.group(0)):
+            return m.group(0)
         store.append(m.group(0))
         return '\x00%d\x00' % (len(store) - 1)
 

@@ -1,1 +1,1 @@
-# *解释 explanation
+# 数学解释 explanation (Paolo Mancosu, Francesca Poggiolesi, and Christopher Pincock)

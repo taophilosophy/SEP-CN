@@ -1,1 +1,1 @@
-# *德性伦理学：见伦理学：德性伦理学 virtue ethics — see ethics: virtue
+# 沙班·罗伯特的德性伦理学 Shaaban Robert’s virtue ethics (Dismas Masolo)

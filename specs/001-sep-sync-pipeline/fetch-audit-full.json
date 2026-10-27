@@ -1,10 +1,10 @@
 {
-  "audited": 1724,
-  "ran_at": "2026-10-27T09:59:31Z",
-  "complete": 1639,
+  "audited": 1731,
+  "ran_at": "2026-10-27T17:31:13Z",
+  "complete": 1731,
   "missing_default_total": 0,
   "missing_fetchable_total": 0,
-  "fixed_total": 457,
+  "fixed_total": 0,
   "errors": [],
   "results": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "slug": "abilities",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -72,7 +72,7 @@
     },
     {
       "slug": "abstract-objects",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -92,6 +92,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "action",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "action-perception",
       "assets": 3,
       "fixed": [],
@@ -100,10 +107,8 @@
     },
     {
       "slug": "actualism-possibilism-ethics",
-      "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -270,7 +275,7 @@
     },
     {
       "slug": "agent-modeling-philscience",
-      "assets": 12,
+      "assets": 13,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -340,7 +345,7 @@
     },
     {
       "slug": "al-khunaji",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -375,7 +380,7 @@
     },
     {
       "slug": "alberic-paris",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -438,14 +443,14 @@
     },
     {
       "slug": "algebra",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "algebra-logic-tradition",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -523,9 +528,7 @@
     {
       "slug": "analysis",
       "assets": 14,
-      "fixed": [
-        "Diagdesc.jpg"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -538,7 +541,7 @@
     },
     {
       "slug": "anaphora",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -608,7 +611,7 @@
     },
     {
       "slug": "animalism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -657,7 +660,7 @@
     },
     {
       "slug": "apriori",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -741,7 +744,7 @@
     },
     {
       "slug": "arabic-islamic-phil-math",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -839,7 +842,7 @@
     },
     {
       "slug": "aristotle-logic",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -847,12 +850,7 @@
     {
       "slug": "aristotle-mathematics",
       "assets": 12,
-      "fixed": [
-        "Diagram.m.7.gif",
-        "Diagram4.gif",
-        "Diagram5.gif",
-        "Diagram6.gif"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -887,9 +885,7 @@
     {
       "slug": "aristotle-psychology",
       "assets": 7,
-      "fixed": [
-        "notes.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -916,7 +912,7 @@
     },
     {
       "slug": "arrows-theorem",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -938,6 +934,13 @@
     {
       "slug": "artifact",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "artificial-intelligence",
+      "assets": 23,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1041,6 +1044,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "authority",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "autonomy-moral",
       "assets": 1,
       "fixed": [],
@@ -1056,10 +1066,8 @@
     },
     {
       "slug": "axiom-choice",
-      "assets": 2,
-      "fixed": [
-        "choice-and-type-theory.html"
-      ],
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1142,14 +1150,14 @@
     },
     {
       "slug": "belief-merging",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "bell-theorem",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1212,7 +1220,7 @@
     },
     {
       "slug": "biology-developmental",
-      "assets": 10,
+      "assets": 9,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1226,10 +1234,8 @@
     },
     {
       "slug": "biology-individual",
-      "assets": 11,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 8,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1298,14 +1304,14 @@
     },
     {
       "slug": "bohr-correspondence",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "bolzano",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1319,14 +1325,14 @@
     },
     {
       "slug": "boolalg-math",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "boole",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1347,16 +1353,14 @@
     },
     {
       "slug": "bounded-rationality",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "boyle",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1364,9 +1368,7 @@
     {
       "slug": "bradley",
       "assets": 2,
-      "fixed": [
-        "bradley-large.gif"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1379,10 +1381,8 @@
     },
     {
       "slug": "branching-time",
-      "assets": 19,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 20,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1402,17 +1402,15 @@
     },
     {
       "slug": "brouwer",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "bruno",
-      "assets": 7,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 5,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1544,10 +1542,8 @@
     },
     {
       "slug": "carnap",
-      "assets": 9,
-      "fixed": [
-        "meth-fig.svg"
-      ],
+      "assets": 10,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1574,14 +1570,14 @@
     },
     {
       "slug": "category-mistakes",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "category-theory",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1595,21 +1591,21 @@
     },
     {
       "slug": "causal-explanation-science",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "causal-models",
-      "assets": 14,
+      "assets": 15,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "causation-backwards",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1630,7 +1626,7 @@
     },
     {
       "slug": "causation-mani",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1644,30 +1640,28 @@
     },
     {
       "slug": "causation-metaphysics",
-      "assets": 13,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 14,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "causation-physics",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "causation-probabilistic",
-      "assets": 11,
+      "assets": 12,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "causation-regularity",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -1681,265 +1675,8 @@
     },
     {
       "slug": "cellular-automata",
-      "assets": 289,
-      "fixed": [
-        "rule0th.png",
-        "rule100th.png",
-        "rule101th.png",
-        "rule102th.png",
-        "rule103th.png",
-        "rule104th.png",
-        "rule105th.png",
-        "rule106th.png",
-        "rule107th.png",
-        "rule108th.png",
-        "rule109th.png",
-        "rule10th.png",
-        "rule110th.png",
-        "rule111th.png",
-        "rule112th.png",
-        "rule113th.png",
-        "rule114th.png",
-        "rule115th.png",
-        "rule116th.png",
-        "rule117th.png",
-        "rule118th.png",
-        "rule119th.png",
-        "rule11th.png",
-        "rule120th.png",
-        "rule121th.png",
-        "rule122th.png",
-        "rule123th.png",
-        "rule124th.png",
-        "rule125th.png",
-        "rule126th.png",
-        "rule127th.png",
-        "rule128th.png",
-        "rule129th.png",
-        "rule12th.png",
-        "rule130th.png",
-        "rule131th.png",
-        "rule132th.png",
-        "rule133th.png",
-        "rule134th.png",
-        "rule135th.png",
-        "rule136th.png",
-        "rule137th.png",
-        "rule138th.png",
-        "rule139th.png",
-        "rule13th.png",
-        "rule140th.png",
-        "rule141th.png",
-        "rule142th.png",
-        "rule143th.png",
-        "rule144th.png",
-        "rule145th.png",
-        "rule146th.png",
-        "rule147th.png",
-        "rule148th.png",
-        "rule149th.png",
-        "rule14th.png",
-        "rule150th.png",
-        "rule151th.png",
-        "rule152th.png",
-        "rule153th.png",
-        "rule154th.png",
-        "rule155th.png",
-        "rule156th.png",
-        "rule157th.png",
-        "rule158th.png",
-        "rule159th.png",
-        "rule15th.png",
-        "rule160th.png",
-        "rule161th.png",
-        "rule162th.png",
-        "rule163th.png",
-        "rule164th.png",
-        "rule165th.png",
-        "rule166th.png",
-        "rule167th.png",
-        "rule168th.png",
-        "rule169th.png",
-        "rule16th.png",
-        "rule170th.png",
-        "rule171th.png",
-        "rule172th.png",
-        "rule173th.png",
-        "rule174th.png",
-        "rule175th.png",
-        "rule176th.png",
-        "rule177th.png",
-        "rule178th.png",
-        "rule179th.png",
-        "rule17th.png",
-        "rule180th.png",
-        "rule181th.png",
-        "rule182th.png",
-        "rule183th.png",
-        "rule184th.png",
-        "rule185th.png",
-        "rule186th.png",
-        "rule187th.png",
-        "rule188th.png",
-        "rule189th.png",
-        "rule18th.png",
-        "rule190th.png",
-        "rule191th.png",
-        "rule192th.png",
-        "rule193th.png",
-        "rule194th.png",
-        "rule195th.png",
-        "rule196th.png",
-        "rule197th.png",
-        "rule198th.png",
-        "rule199th.png",
-        "rule19th.png",
-        "rule1th.png",
-        "rule200th.png",
-        "rule201th.png",
-        "rule202th.png",
-        "rule203th.png",
-        "rule204th.png",
-        "rule205th.png",
-        "rule206th.png",
-        "rule207th.png",
-        "rule208th.png",
-        "rule209th.png",
-        "rule20th.png",
-        "rule210th.png",
-        "rule211th.png",
-        "rule212th.png",
-        "rule213th.png",
-        "rule214th.png",
-        "rule215th.png",
-        "rule216th.png",
-        "rule217th.png",
-        "rule218th.png",
-        "rule219th.png",
-        "rule21th.png",
-        "rule220th.png",
-        "rule221th.png",
-        "rule222th.png",
-        "rule223th.png",
-        "rule224th.png",
-        "rule225th.png",
-        "rule226th.png",
-        "rule227th.png",
-        "rule228th.png",
-        "rule229th.png",
-        "rule22th.png",
-        "rule230th.png",
-        "rule231th.png",
-        "rule232th.png",
-        "rule233th.png",
-        "rule234th.png",
-        "rule235th.png",
-        "rule236th.png",
-        "rule237th.png",
-        "rule238th.png",
-        "rule239th.png",
-        "rule23th.png",
-        "rule240th.png",
-        "rule241th.png",
-        "rule242th.png",
-        "rule243th.png",
-        "rule244th.png",
-        "rule245th.png",
-        "rule246th.png",
-        "rule247th.png",
-        "rule248th.png",
-        "rule249th.png",
-        "rule24th.png",
-        "rule250th.png",
-        "rule251th.png",
-        "rule252th.png",
-        "rule253th.png",
-        "rule254th.png",
-        "rule255th.png",
-        "rule25th.png",
-        "rule26th.png",
-        "rule27th.png",
-        "rule28th.png",
-        "rule29th.png",
-        "rule2th.png",
-        "rule30th.png",
-        "rule31th.png",
-        "rule32th.png",
-        "rule33th.png",
-        "rule34th.png",
-        "rule35th.png",
-        "rule36th.png",
-        "rule37th.png",
-        "rule38th.png",
-        "rule39th.png",
-        "rule3th.png",
-        "rule40th.png",
-        "rule41th.png",
-        "rule42th.png",
-        "rule43th.png",
-        "rule44th.png",
-        "rule45th.png",
-        "rule46th.png",
-        "rule47th.png",
-        "rule48th.png",
-        "rule49th.png",
-        "rule4th.png",
-        "rule50th.png",
-        "rule51th.png",
-        "rule52th.png",
-        "rule53th.png",
-        "rule54th.png",
-        "rule55th.png",
-        "rule56th.png",
-        "rule57th.png",
-        "rule58th.png",
-        "rule59th.png",
-        "rule5th.png",
-        "rule60th.png",
-        "rule61th.png",
-        "rule62th.png",
-        "rule63th.png",
-        "rule64th.png",
-        "rule65th.png",
-        "rule66th.png",
-        "rule67th.png",
-        "rule68th.png",
-        "rule69th.png",
-        "rule6th.png",
-        "rule70th.png",
-        "rule71th.png",
-        "rule72th.png",
-        "rule73th.png",
-        "rule74th.png",
-        "rule75th.png",
-        "rule76th.png",
-        "rule77th.png",
-        "rule78th.png",
-        "rule79th.png",
-        "rule7th.png",
-        "rule80th.png",
-        "rule81th.png",
-        "rule82th.png",
-        "rule83th.png",
-        "rule84th.png",
-        "rule85th.png",
-        "rule86th.png",
-        "rule87th.png",
-        "rule88th.png",
-        "rule89th.png",
-        "rule8th.png",
-        "rule90th.png",
-        "rule91th.png",
-        "rule92th.png",
-        "rule93th.png",
-        "rule94th.png",
-        "rule95th.png",
-        "rule96th.png",
-        "rule97th.png",
-        "rule98th.png",
-        "rule99th.png",
-        "rule9th.png"
-      ],
+      "assets": 290,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -1952,21 +1689,21 @@
     },
     {
       "slug": "chance-randomness",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "change",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "chaos",
-      "assets": 6,
+      "assets": 7,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2001,10 +1738,8 @@
     },
     {
       "slug": "chinese-change",
-      "assets": 1,
-      "fixed": [
-        "appendix.html"
-      ],
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -2024,7 +1759,7 @@
     },
     {
       "slug": "chinese-logic-language",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2101,14 +1836,14 @@
     },
     {
       "slug": "church",
-      "assets": 7,
+      "assets": 8,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "church-turing",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2262,7 +1997,7 @@
     },
     {
       "slug": "color",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2276,17 +2011,15 @@
     },
     {
       "slug": "common-ground-pragmatics",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "common-knowledge",
-      "assets": 29,
-      "fixed": [
-        "partition-diagram.gif"
-      ],
+      "assets": 30,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -2300,9 +2033,7 @@
     {
       "slug": "comparative-cognition",
       "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -2322,16 +2053,14 @@
     },
     {
       "slug": "compositionality",
-      "assets": 8,
-      "fixed": [
-        "leftturn.jpg"
-      ],
+      "assets": 9,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "computability",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2345,7 +2074,7 @@
     },
     {
       "slug": "computational-complexity",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2359,23 +2088,21 @@
     },
     {
       "slug": "computational-mind",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "computational-philosophy",
-      "assets": 40,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 37,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "computer-science",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2452,14 +2179,14 @@
     },
     {
       "slug": "conditionals",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "confirmation",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2494,7 +2221,7 @@
     },
     {
       "slug": "connectives-logic",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2523,9 +2250,7 @@
     {
       "slug": "consciousness-higher",
       "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -2538,7 +2263,7 @@
     },
     {
       "slug": "consciousness-neuroscience",
-      "assets": 7,
+      "assets": 8,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2552,18 +2277,14 @@
     },
     {
       "slug": "consciousness-temporal",
-      "assets": 15,
-      "fixed": [
-        "duration-retentional.svg",
-        "duration.svg",
-        "figdesc.html"
-      ],
+      "assets": 16,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "consciousness-unity",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2591,7 +2312,7 @@
     },
     {
       "slug": "conservation-biology",
-      "assets": 6,
+      "assets": 7,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2675,7 +2396,7 @@
     },
     {
       "slug": "continuity",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2710,7 +2431,7 @@
     },
     {
       "slug": "contradiction",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2745,14 +2466,14 @@
     },
     {
       "slug": "cosmological-argument",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "cosmology",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2815,7 +2536,7 @@
     },
     {
       "slug": "criminal-law",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2864,7 +2585,7 @@
     },
     {
       "slug": "curry-paradox",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2927,7 +2648,7 @@
     },
     {
       "slug": "david-lewis",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2955,28 +2676,28 @@
     },
     {
       "slug": "decision-theory",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "decision-theory-descriptive",
-      "assets": 11,
+      "assets": 12,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "dedekind-foundations",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "deductivism-mathematics",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2990,7 +2711,7 @@
     },
     {
       "slug": "definitions",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3053,7 +2774,7 @@
     },
     {
       "slug": "dependence-ontological",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3095,17 +2816,15 @@
     },
     {
       "slug": "descartes-mathematics",
-      "assets": 9,
+      "assets": 10,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "descartes-method",
-      "assets": 12,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 19,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3132,12 +2851,8 @@
     },
     {
       "slug": "descartes-works",
-      "assets": 5,
-      "fixed": [
-        "originalaw.html",
-        "tenglish.html",
-        "tlatin.html"
-      ],
+      "assets": 6,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3171,7 +2886,7 @@
     },
     {
       "slug": "determinate-determinables",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3213,7 +2928,7 @@
     },
     {
       "slug": "diagrams",
-      "assets": 26,
+      "assets": 27,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3227,7 +2942,7 @@
     },
     {
       "slug": "dialetheism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3269,7 +2984,7 @@
     },
     {
       "slug": "diodorus-cronus",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3283,7 +2998,7 @@
     },
     {
       "slug": "disability",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3325,10 +3040,8 @@
     },
     {
       "slug": "discourse-representation-theory",
-      "assets": 4,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 5,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3341,14 +3054,14 @@
     },
     {
       "slug": "disjunction",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "dispositions",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3404,7 +3117,7 @@
     },
     {
       "slug": "doxastic-voluntarism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3460,7 +3173,7 @@
     },
     {
       "slug": "dutch-book",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3474,43 +3187,14 @@
     },
     {
       "slug": "dynamic-epistemic",
-      "assets": 64,
-      "fixed": [
-        "figure-SL1.jpg",
-        "figure-SL2.jpg",
-        "figure-cheryl1.jpg",
-        "figure-cheryl2.jpg",
-        "figure-cheryl3.jpg",
-        "figure-cheryl4.jpg",
-        "figure-cpm-first-ax-implicit1.jpg",
-        "figure-cpm-first-ax-implicit2.jpg",
-        "figure-cpm-first-ax.jpg",
-        "figure-cpm-info.jpg",
-        "figure-cpm-labeling.jpg",
-        "figure-cpm-second-ax-implicit1.jpg",
-        "figure-cpm-second-ax-implicit2.jpg",
-        "figure-cpm-second-ax.jpg",
-        "figure-cpm-third-ax-implicit1.jpg",
-        "figure-cpm-third-ax-implicit2.jpg",
-        "figure-cpm-third-ax.jpg",
-        "figure-emulation-A1.jpg",
-        "figure-emulation-A2.jpg",
-        "figure-flip1-crop.jpg",
-        "figure-flip2-crop.jpg",
-        "figure-flip3-crop.jpg",
-        "figure-fliparrow-crop.jpg",
-        "figure-gettier.jpg",
-        "figure-muddy1.jpg",
-        "figure-muddy2.jpg",
-        "figure-muddy3.jpg",
-        "figure-muddy4.jpg"
-      ],
+      "assets": 65,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "dynamic-semantics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3545,7 +3229,7 @@
     },
     {
       "slug": "economics-early-modern",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3587,7 +3271,7 @@
     },
     {
       "slug": "einstein-philscience",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3629,7 +3313,7 @@
     },
     {
       "slug": "emily-elizabeth-constance-jones",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3720,10 +3404,8 @@
     },
     {
       "slug": "epiphenomenalism",
-      "assets": 1,
-      "fixed": [
-        "notes.html"
-      ],
+      "assets": 2,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3736,24 +3418,22 @@
     },
     {
       "slug": "epistemic-paradoxes",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "epistemic-self-doubt",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
-      "slug": "epistemic-utility",
+      "slug": "epistemic-self-doubt",
       "assets": 2,
-      "fixed": [
-        "maths-inacc.html"
-      ],
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "epistemic-utility",
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3766,24 +3446,21 @@
     },
     {
       "slug": "epistemology-bayesian",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html",
-        "supplement.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "epistemology-evolutionary",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "epistemology-geometry",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3819,9 +3496,7 @@
     {
       "slug": "epistemology-social",
       "assets": 3,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -3834,14 +3509,14 @@
     },
     {
       "slug": "epistemology-visual-thinking",
-      "assets": 28,
+      "assets": 29,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "epsilon-calculus",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3855,14 +3530,14 @@
     },
     {
       "slug": "equality",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "equivME",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3883,16 +3558,14 @@
     },
     {
       "slug": "ergodic-hierarchy",
-      "assets": 13,
-      "fixed": [
-        "appendix.html"
-      ],
+      "assets": 14,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "ernst-mach",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3906,14 +3579,14 @@
     },
     {
       "slug": "essential-accidental",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "eternity",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4060,10 +3733,8 @@
     },
     {
       "slug": "evil",
-      "assets": 3,
-      "fixed": [
-        "alternate.html"
-      ],
+      "assets": 4,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -4125,7 +3796,7 @@
     },
     {
       "slug": "experimental-moral",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4139,14 +3810,14 @@
     },
     {
       "slug": "exploitation",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "facts",
-      "assets": 6,
+      "assets": 7,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4167,7 +3838,7 @@
     },
     {
       "slug": "fallacies",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4482,21 +4153,21 @@
     },
     {
       "slug": "fiction",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "fictional-entities",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "fictionalism-modal",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4524,21 +4195,21 @@
     },
     {
       "slug": "fine-tuning",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "fitch-paradox",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "fitness",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4587,30 +4258,28 @@
     },
     {
       "slug": "form-matter",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "formal-belief",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "formal-epistemology",
-      "assets": 10,
-      "fixed": [
-        "supplement.html"
-      ],
+      "assets": 11,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "formalism-mathematics",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4646,9 +4315,7 @@
     {
       "slug": "francisco-sanches",
       "assets": 4,
-      "fixed": [
-        "sanches-large.png"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -4675,10 +4342,8 @@
     },
     {
       "slug": "free-rider",
-      "assets": 4,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 5,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -4712,7 +4377,7 @@
     },
     {
       "slug": "frege",
-      "assets": 21,
+      "assets": 22,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4720,41 +4385,14 @@
     {
       "slug": "frege-logic",
       "assets": 158,
-      "fixed": [
-        "supp-after-1.svg",
-        "supp-after-2.svg",
-        "supp-begriff-formA1.svg",
-        "supp-begriff-formA2.svg",
-        "supp-begriff-formA3.svg",
-        "supp-begriff-formB.svg",
-        "supp-begriff-formula63.svg",
-        "supp-begriff-formula68.svg"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "frege-theorem",
-      "assets": 34,
-      "fixed": [
-        "AllAsareBs.png",
-        "LemPred.html",
-        "allFFa.png",
-        "forallxFx.png",
-        "frege-R+xy.jpg",
-        "frege-Rxy.jpg",
-        "ifFxthenGy.png",
-        "notFx.png",
-        "someFFa.png",
-        "somexFx.png",
-        "subproof1.html",
-        "subproof2.html",
-        "theorem-123.jpg",
-        "theorem-123a.jpg",
-        "theorem-123b.jpg",
-        "theorem-123c.jpg",
-        "theorem-123d.jpg"
-      ],
+      "assets": 36,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -4802,14 +4440,14 @@
     },
     {
       "slug": "fundamentality",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "future-contingents",
-      "assets": 10,
+      "assets": 11,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4837,34 +4475,28 @@
     },
     {
       "slug": "game-ethics",
-      "assets": 14,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 15,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "game-evolutionary",
-      "assets": 33,
-      "fixed": [
-        "pd-chaotic.gif",
-        "pd-cooperate.gif",
-        "pd-defect.gif"
-      ],
+      "assets": 34,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "game-theory",
-      "assets": 10,
+      "assets": 11,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "games-abstraction",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4878,7 +4510,7 @@
     },
     {
       "slug": "gangesa",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4899,7 +4531,7 @@
     },
     {
       "slug": "gauge-theories",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4920,21 +4552,21 @@
     },
     {
       "slug": "generalized-quantifiers",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "generics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "genetic-drift",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4962,7 +4594,7 @@
     },
     {
       "slug": "genrel-early",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4970,18 +4602,14 @@
     {
       "slug": "geometry-19th",
       "assets": 6,
-      "fixed": [
-        "notes.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "geometry-finitism",
-      "assets": 6,
-      "fixed": [
-        "figure-sup.jpg"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -5036,7 +4664,7 @@
     },
     {
       "slug": "god-ultimates",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5057,7 +4685,7 @@
     },
     {
       "slug": "goedel",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5071,7 +4699,7 @@
     },
     {
       "slug": "goodman",
-      "assets": 7,
+      "assets": 8,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5113,7 +4741,7 @@
     },
     {
       "slug": "grice",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5134,7 +4762,7 @@
     },
     {
       "slug": "grounding",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5155,7 +4783,7 @@
     },
     {
       "slug": "haecceitism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5274,14 +4902,14 @@
     },
     {
       "slug": "heinrich-rickert",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "hempel",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5317,9 +4945,7 @@
     {
       "slug": "herder",
       "assets": 1,
-      "fixed": [
-        "supplement.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -5346,21 +4972,21 @@
     },
     {
       "slug": "heytesbury",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "higher-order-evidence",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "hilbert-program",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5465,7 +5091,7 @@
     },
     {
       "slug": "human-nature",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5528,7 +5154,7 @@
     },
     {
       "slug": "hyperintensionality",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5625,6 +5251,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "identity-ethics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "identity-personal",
       "assets": 0,
       "fixed": [],
@@ -5640,14 +5273,14 @@
     },
     {
       "slug": "identity-relative",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "identity-time",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5745,19 +5378,15 @@
     },
     {
       "slug": "impossible-worlds",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "imprecise-probabilities",
-      "assets": 7,
-      "fixed": [
-        "diagram.png",
-        "keynes.png",
-        "unreliable-graphs.png"
-      ],
+      "assets": 8,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -5770,7 +5399,7 @@
     },
     {
       "slug": "incompatibilism-arguments",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5798,31 +5427,28 @@
     },
     {
       "slug": "induction-problem",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "infinite-regress",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "infinity",
-      "assets": 19,
-      "fixed": [
-        "quadrature1.png",
-        "quadrature2.png"
-      ],
+      "assets": 20,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "information",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5836,7 +5462,7 @@
     },
     {
       "slug": "information-semantic",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5962,7 +5588,7 @@
     },
     {
       "slug": "intrinsic-extrinsic",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5976,14 +5602,14 @@
     },
     {
       "slug": "intuition",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "intuitionism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5997,7 +5623,7 @@
     },
     {
       "slug": "intuitionistic-logic-development",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6054,6 +5680,13 @@
     {
       "slug": "james-ward",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "japanese-aesthetics",
+      "assets": 72,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6123,7 +5756,7 @@
     },
     {
       "slug": "johann-herbart",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6158,16 +5791,14 @@
     },
     {
       "slug": "jury-theorems",
-      "assets": 7,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 8,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "justep-coherence",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6182,6 +5813,13 @@
     {
       "slug": "justep-intext",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "justice",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6224,14 +5862,19 @@
     {
       "slug": "justice-inequality-health",
       "assets": 3,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "justice-intergenerational",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "justice-moral-psych",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
@@ -6260,7 +5903,7 @@
     },
     {
       "slug": "justification-public",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6358,7 +6001,7 @@
     },
     {
       "slug": "kant-religion",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6414,7 +6057,7 @@
     },
     {
       "slug": "kepler",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6449,7 +6092,7 @@
     },
     {
       "slug": "knowledge-how",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6533,14 +6176,14 @@
     },
     {
       "slug": "lakatos",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "lambda-calculus",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6548,9 +6191,7 @@
     {
       "slug": "lambert-auxerre",
       "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -6563,7 +6204,7 @@
     },
     {
       "slug": "langer",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6577,7 +6218,7 @@
     },
     {
       "slug": "language-thought",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6591,7 +6232,7 @@
     },
     {
       "slug": "large-cardinals-determinacy",
-      "assets": 7,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6668,10 +6309,8 @@
     },
     {
       "slug": "learning-formal",
-      "assets": 10,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 11,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -6712,10 +6351,8 @@
     },
     {
       "slug": "legal-probabilism",
-      "assets": 11,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 12,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -6812,7 +6449,7 @@
     },
     {
       "slug": "leibniz-physics",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6826,7 +6463,7 @@
     },
     {
       "slug": "lesniewski",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6841,31 +6478,27 @@
     {
       "slug": "levels-org-biology",
       "assets": 4,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "levinas",
       "assets": 2,
-      "fixed": [
-        "supplements.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "lewis-ci",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "liar-paradox",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6929,9 +6562,7 @@
     {
       "slug": "location-mereology",
       "assets": 11,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -6979,21 +6610,21 @@
     },
     {
       "slug": "logic-action",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-ai",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-algebraic-propositional",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7007,39 +6638,36 @@
     },
     {
       "slug": "logic-belief-revision",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-classical",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-combinatory",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-combining",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-conditionals",
-      "assets": 8,
-      "fixed": [
-        "figdesc.html",
-        "supplement.html"
-      ],
+      "assets": 9,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -7052,104 +6680,99 @@
     },
     {
       "slug": "logic-deontic",
-      "assets": 18,
-      "fixed": [
-        "figdesc.html",
-        "supplement.html"
-      ],
+      "assets": 21,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-dependence",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-dialogical",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-dynamic",
-      "assets": 2,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-epistemic",
-      "assets": 14,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-firstorder-emergence",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-free",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-fuzzy",
-      "assets": 2,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-games",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-higher-order",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
-      "slug": "logic-hybrid",
-      "assets": 0,
+      "slug": "logic-dynamic",
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
-      "slug": "logic-if",
+      "slug": "logic-epistemic",
+      "assets": 15,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-firstorder-emergence",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-free",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-fuzzy",
+      "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-games",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-higher-order",
       "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "logic-hybrid",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-if",
+      "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "logic-india",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-inductive",
-      "assets": 5,
-      "fixed": [
-        "sup-uncertain-inf.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -7169,51 +6792,49 @@
     },
     {
       "slug": "logic-information",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-intensional",
-      "assets": 2,
-      "fixed": [
-        "fishhook.jpg"
-      ],
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-intuitionistic",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-justification",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-linear",
-      "assets": 11,
+      "assets": 12,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-many-sorted",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-manyvalued",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7227,100 +6848,98 @@
     },
     {
       "slug": "logic-modal",
-      "assets": 1,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-modal-origins",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-nonmonotonic",
-      "assets": 15,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "logic-normative",
       "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
-      "slug": "logic-ontology",
+      "slug": "logic-modal-origins",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-nonmonotonic",
+      "assets": 16,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-normative",
+      "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "logic-ontology",
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-paraconsistent",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-power-games",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-preference",
-      "assets": 3,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 4,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-probability",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-propositional",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-provability",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-relevance",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-substructural",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logic-temporal",
-      "assets": 12,
+      "assets": 13,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7334,16 +6953,14 @@
     },
     {
       "slug": "logical-constants",
-      "assets": 1,
-      "fixed": [
-        "notes.html"
-      ],
+      "assets": 2,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logical-construction",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7357,38 +6974,36 @@
     },
     {
       "slug": "logical-form",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logical-pluralism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logical-truth",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logicism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "logics-for-games",
-      "assets": 25,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 26,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -7443,7 +7058,7 @@
     },
     {
       "slug": "lukasiewicz",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7465,9 +7080,7 @@
     {
       "slug": "lvov-warsaw",
       "assets": 2,
-      "fixed": [
-        "TwardowskiSeminar.jpg"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -7669,14 +7282,14 @@
     },
     {
       "slug": "mathematics-constructive",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "mathematics-explanation",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7725,37 +7338,35 @@
     },
     {
       "slug": "meaning",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "meaning-holism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "meaning-normativity",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "measurement-science",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "medicine",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7783,7 +7394,7 @@
     },
     {
       "slug": "medieval-syllogism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7916,14 +7527,14 @@
     },
     {
       "slug": "metaphysics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "metaphysics-massexpress",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7951,7 +7562,7 @@
     },
     {
       "slug": "mill",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7972,14 +7583,14 @@
     },
     {
       "slug": "miracles",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "modality-epistemology",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7993,7 +7604,7 @@
     },
     {
       "slug": "modality-varieties",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8007,7 +7618,7 @@
     },
     {
       "slug": "model-theory",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8036,9 +7647,7 @@
     {
       "slug": "mohism",
       "assets": 4,
-      "fixed": [
-        "triads.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8058,7 +7667,7 @@
     },
     {
       "slug": "molecular-genetics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8086,7 +7695,7 @@
     },
     {
       "slug": "montague-semantics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8163,7 +7772,7 @@
     },
     {
       "slug": "moral-decision-uncertainty",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8177,7 +7786,7 @@
     },
     {
       "slug": "moral-dilemmas",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8338,7 +7947,7 @@
     },
     {
       "slug": "names",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8366,21 +7975,8 @@
     },
     {
       "slug": "natural-deduction",
-      "assets": 30,
-      "fixed": [
-        "figdesc.html",
-        "fitch6a.svg",
-        "fitch6b.svg",
-        "fitch6c.svg",
-        "fitch7a.svg",
-        "fitch7b.svg",
-        "fitch7c.svg",
-        "prooftree6a.svg",
-        "prooftree6b.svg",
-        "prooftree6c.svg",
-        "prooftree6d.svg",
-        "prooftree6e.svg"
-      ],
+      "assets": 31,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8393,7 +7989,7 @@
     },
     {
       "slug": "natural-language-ontology",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8414,14 +8010,14 @@
     },
     {
       "slug": "natural-properties",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "natural-selection",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8449,7 +8045,7 @@
     },
     {
       "slug": "naturalism-moral",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8463,18 +8059,15 @@
     },
     {
       "slug": "needs",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "negation",
-      "assets": 9,
-      "fixed": [
-        "figure5.png",
-        "figure6.png"
-      ],
+      "assets": 10,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8516,10 +8109,7 @@
     {
       "slug": "neurath",
       "assets": 5,
-      "fixed": [
-        "figure1.gif",
-        "figure2.jpg"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8561,9 +8151,7 @@
     {
       "slug": "newton-stm",
       "assets": 2,
-      "fixed": [
-        "scholium.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8576,7 +8164,7 @@
     },
     {
       "slug": "nicole-oresme",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8625,7 +8213,7 @@
     },
     {
       "slug": "nonexistent-objects",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8640,9 +8228,7 @@
     {
       "slug": "nonwellfounded-set-theory",
       "assets": 15,
-      "fixed": [
-        "measurable-spaces.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8690,7 +8276,7 @@
     },
     {
       "slug": "object",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8732,7 +8318,7 @@
     },
     {
       "slug": "omnipotence",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8746,14 +8332,14 @@
     },
     {
       "slug": "omniscience",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "ontological-arguments",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8767,7 +8353,7 @@
     },
     {
       "slug": "ontology-is",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8858,7 +8444,7 @@
     },
     {
       "slug": "panpsychism",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8879,10 +8465,8 @@
     },
     {
       "slug": "paradox-simpson",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -8895,7 +8479,7 @@
     },
     {
       "slug": "paradox-stpetersburg",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8909,7 +8493,7 @@
     },
     {
       "slug": "paradoxes-contemporary-logic",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8937,7 +8521,7 @@
     },
     {
       "slug": "pascal-wager",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9035,7 +8619,7 @@
     },
     {
       "slug": "perception-justification",
-      "assets": 6,
+      "assets": 7,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9161,11 +8745,8 @@
     },
     {
       "slug": "phil-multimodallogic",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html",
-        "figure3.svg"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9241,7 +8822,7 @@
     },
     {
       "slug": "philosophy-mathematics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9262,10 +8843,8 @@
     },
     {
       "slug": "phylogenetic-inference",
-      "assets": 3,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 4,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9278,49 +8857,28 @@
     },
     {
       "slug": "physics-experiment",
-      "assets": 33,
-      "fixed": [
-        "figure1.gif",
-        "figure10.gif",
-        "figure11.gif",
-        "figure12.jpg",
-        "figure13.jpg",
-        "figure14.jpg",
-        "figure15.jpg",
-        "figure16.jpg",
-        "figure17.jpg",
-        "figure18.gif",
-        "figure19.gif",
-        "figure2.jpg",
-        "figure20.jpg",
-        "figure3.gif",
-        "figure4.gif",
-        "figure5.jpg",
-        "figure6.jpg",
-        "figure7.gif",
-        "figure8.jpg",
-        "figure9.jpg"
-      ],
+      "assets": 34,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "physics-holism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "physics-interrelate",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "physics-structuralism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9328,9 +8886,7 @@
     {
       "slug": "pico-della-mirandola",
       "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9434,14 +8990,14 @@
     },
     {
       "slug": "platonism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "platonism-mathematics",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9462,7 +9018,7 @@
     },
     {
       "slug": "plural-quant",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9476,7 +9032,7 @@
     },
     {
       "slug": "poincare",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9511,14 +9067,14 @@
     },
     {
       "slug": "popper",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "population-genetics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9546,7 +9102,7 @@
     },
     {
       "slug": "possibilism-actualism",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9561,10 +9117,7 @@
     {
       "slug": "possible-worlds",
       "assets": 9,
-      "fixed": [
-        "Hydronium.png",
-        "problems-abstractionism.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9605,7 +9158,7 @@
     },
     {
       "slug": "prediction-accommodation",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9647,7 +9200,7 @@
     },
     {
       "slug": "principia-mathematica",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9661,24 +9214,22 @@
     },
     {
       "slug": "prior",
-      "assets": 1,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "prioritarianism",
       "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "prioritarianism",
+      "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "prisoner-dilemma",
-      "assets": 16,
-      "fixed": [
-        "fig--guide.gif"
-      ],
+      "assets": 17,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9698,7 +9249,7 @@
     },
     {
       "slug": "probability-interpret",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9726,7 +9277,7 @@
     },
     {
       "slug": "process-theism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9754,19 +9305,14 @@
     },
     {
       "slug": "proof-theoretic-semantics",
-      "assets": 6,
-      "fixed": [
-        "fig1.17.png",
-        "fig1.24.png",
-        "fig1.8.png",
-        "fig2.7.png"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "proof-theory",
-      "assets": 7,
+      "assets": 8,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9801,14 +9347,14 @@
     },
     {
       "slug": "propositional-function",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "propositions",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9864,10 +9410,8 @@
     },
     {
       "slug": "psychology-normative-cognition",
-      "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 3,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -9880,7 +9424,7 @@
     },
     {
       "slug": "public-goods",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9943,21 +9487,21 @@
     },
     {
       "slug": "qm-bohm",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-collapse",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-consistent-histories",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9971,56 +9515,56 @@
     },
     {
       "slug": "qm-decoherence",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-everett",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-manyworlds",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-modal",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-relational",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qm-retrocausality",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qt-consciousness",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qt-entangle",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10034,42 +9578,42 @@
     },
     {
       "slug": "qt-idind",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qt-issues",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "qt-nvd",
-      "assets": 1,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "qt-quantcomp",
-      "assets": 5,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "qt-quantlog",
       "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "qt-quantcomp",
+      "assets": 6,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "qt-quantlog",
+      "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "qt-uncertainty",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10097,35 +9641,35 @@
     },
     {
       "slug": "quantification",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "quantum-bayesian",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "quantum-field-theory",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "quantum-gravity",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "questions",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10139,28 +9683,28 @@
     },
     {
       "slug": "quine-nf",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "quotation",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "radulphus-brito",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "ramsey",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10202,28 +9746,28 @@
     },
     {
       "slug": "rationality-normative-nonutility",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "rationality-normative-utility",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "rationality-structural",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "ratnakirti",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10258,28 +9802,28 @@
     },
     {
       "slug": "realism-theory-change",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "reasoning-analogy",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "reasoning-automated",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "reasoning-defeasible",
-      "assets": 8,
+      "assets": 9,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10328,10 +9872,8 @@
     },
     {
       "slug": "recursive-functions",
-      "assets": 5,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 6,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -10393,14 +9935,14 @@
     },
     {
       "slug": "relations",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "reliabilism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10477,7 +10019,7 @@
     },
     {
       "slug": "replication",
-      "assets": 5,
+      "assets": 6,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10505,7 +10047,7 @@
     },
     {
       "slug": "reverse-mathematics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10541,9 +10083,7 @@
     {
       "slug": "rights",
       "assets": 2,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -10570,7 +10110,7 @@
     },
     {
       "slug": "risk",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10619,14 +10159,14 @@
     },
     {
       "slug": "royce",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "rule-following",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10647,7 +10187,7 @@
     },
     {
       "slug": "russell-paradox",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10661,7 +10201,7 @@
     },
     {
       "slug": "ruth-barcan-marcus",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10724,7 +10264,7 @@
     },
     {
       "slug": "schema",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10815,17 +10355,15 @@
     },
     {
       "slug": "science-big-data",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "science-mechanisms",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -10845,7 +10383,7 @@
     },
     {
       "slug": "scientific-explanation-20th",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10866,7 +10404,7 @@
     },
     {
       "slug": "scientific-objectivity",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10880,28 +10418,28 @@
     },
     {
       "slug": "scientific-progress",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "scientific-reduction",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "scientific-representation",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "scientific-reproducibility",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10922,7 +10460,7 @@
     },
     {
       "slug": "scientific-unity",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10957,7 +10495,7 @@
     },
     {
       "slug": "self-consciousness",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10985,7 +10523,7 @@
     },
     {
       "slug": "self-locating-beliefs",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10999,7 +10537,7 @@
     },
     {
       "slug": "self-reference",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11034,21 +10572,21 @@
     },
     {
       "slug": "set-theory",
-      "assets": 2,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "set-theory-constructive",
       "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "set-theory-constructive",
+      "assets": 4,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "settheory-early",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11111,7 +10649,7 @@
     },
     {
       "slug": "sign-language-semantics",
-      "assets": 31,
+      "assets": 29,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11139,7 +10677,7 @@
     },
     {
       "slug": "simplicity",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11181,14 +10719,14 @@
     },
     {
       "slug": "skeptical-theism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "skepticism",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11202,7 +10740,7 @@
     },
     {
       "slug": "skepticism-content-externalism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11230,7 +10768,7 @@
     },
     {
       "slug": "social-choice",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11258,7 +10796,7 @@
     },
     {
       "slug": "social-norms",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11272,7 +10810,7 @@
     },
     {
       "slug": "social-procedures",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11335,14 +10873,14 @@
     },
     {
       "slug": "sorites-paradox",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "sortals",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11363,7 +10901,7 @@
     },
     {
       "slug": "spacetime-bebecome",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11377,52 +10915,35 @@
     },
     {
       "slug": "spacetime-holearg",
-      "assets": 21,
-      "fixed": [
-        "AP_Fig_1.svg",
-        "AP_Fig_2.svg",
-        "AP_Fig_3.svg",
-        "AP_Fig_4.svg",
-        "AP_Fig_5.svg",
-        "Gauge_1.svg",
-        "Gauge_2.svg",
-        "Lambert_Cylindrical_E_a.jpg",
-        "Mercator.jpg",
-        "Urmayev_2.jpg"
-      ],
+      "assets": 22,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "spacetime-iframes",
-      "assets": 10,
+      "assets": 11,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "spacetime-singularities",
-      "assets": 15,
-      "fixed": [
-        "cone-trajectory.gif",
-        "flat-space.gif",
-        "full-cone.gif",
-        "future-cone.gif",
-        "star-space.gif"
-      ],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "spacetime-supertasks",
       "assets": 16,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "spacetime-supertasks",
+      "assets": 17,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "spacetime-theories",
-      "assets": 2,
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11485,7 +11006,7 @@
     },
     {
       "slug": "spinoza-modal",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11527,7 +11048,7 @@
     },
     {
       "slug": "srigupta",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11541,37 +11062,35 @@
     },
     {
       "slug": "states-of-affairs",
-      "assets": 2,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "statistics",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "statphys-Boltzmann",
       "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "statistics",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "statphys-Boltzmann",
+      "assets": 4,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "statphys-statmech",
-      "assets": 7,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 8,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "stebbing",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11620,21 +11139,21 @@
     },
     {
       "slug": "structural-realism",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "structuralism-mathematics",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "structure-scientific-theories",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11662,7 +11181,7 @@
     },
     {
       "slug": "sufficient-reason",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11704,7 +11223,7 @@
     },
     {
       "slug": "sylvan-routley",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11753,7 +11272,7 @@
     },
     {
       "slug": "teleological-arguments",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11781,7 +11300,7 @@
     },
     {
       "slug": "tense-aspect",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11837,14 +11356,14 @@
     },
     {
       "slug": "theoretical-terms-science",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "theories-biological-development",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11900,14 +11419,14 @@
     },
     {
       "slug": "time-machine",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "time-thermo",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11915,9 +11434,7 @@
     {
       "slug": "time-travel",
       "assets": 2,
-      "fixed": [
-        "putnam.jpg"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -11979,14 +11496,14 @@
     },
     {
       "slug": "transformative-experience",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "transmission-justification-warrant",
-      "assets": 3,
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11994,9 +11511,7 @@
     {
       "slug": "trinity",
       "assets": 10,
-      "fixed": [
-        "Tertrin1.png"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -12016,7 +11531,7 @@
     },
     {
       "slug": "truth",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12037,21 +11552,21 @@
     },
     {
       "slug": "truth-deflationary",
-      "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "truth-identity",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
+      "slug": "truth-identity",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "truth-pluralist",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12065,31 +11580,28 @@
     },
     {
       "slug": "truth-primitivist",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "truth-revision",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "truth-values",
-      "assets": 6,
-      "fixed": [
-        "Figure4.png",
-        "Figure5.png"
-      ],
+      "assets": 7,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "truthlikeness",
-      "assets": 12,
+      "assets": 13,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12117,10 +11629,8 @@
     },
     {
       "slug": "turing-machine",
-      "assets": 6,
-      "fixed": [
-        "figdesc.html"
-      ],
+      "assets": 23,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -12140,7 +11650,7 @@
     },
     {
       "slug": "two-dimensional-semantics",
-      "assets": 4,
+      "assets": 5,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12161,14 +11671,14 @@
     },
     {
       "slug": "type-theory",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "type-theory-intuitionistic",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12189,7 +11699,7 @@
     },
     {
       "slug": "umar-khayyam",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12203,7 +11713,7 @@
     },
     {
       "slug": "vagueness",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12294,14 +11804,14 @@
     },
     {
       "slug": "voting",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "walter-chatton",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12350,18 +11860,15 @@
     },
     {
       "slug": "wesley-salmon",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "weyl",
-      "assets": 20,
-      "fixed": [
-        "fig16.png",
-        "fig17.png"
-      ],
+      "assets": 21,
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -12395,7 +11902,7 @@
     },
     {
       "slug": "wilhelm-wundt",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12465,7 +11972,7 @@
     },
     {
       "slug": "wittgenstein",
-      "assets": 0,
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12479,7 +11986,7 @@
     },
     {
       "slug": "wittgenstein-mathematics",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -12507,7 +12014,7 @@
     },
     {
       "slug": "word-meaning",
-      "assets": 1,
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []

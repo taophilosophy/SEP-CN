@@ -1,1 +1,1 @@
-# *塞缪尔·冯·普芬道夫 Pufendorf, Samuel Freiherr von
+# 普芬道夫的伦理学和政治哲学 Pufendorf, Samuel Freiherr von (Michael Seidler)

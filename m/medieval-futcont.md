@@ -1,1 +1,1 @@
-# *未来偶然性——见未来偶然事件：中世纪的未来偶然性理论 future contingents — see future contingents: medieval theories of
+# 中世纪的未来偶然性理论 medieval theories of (Gloria Frost and Simo Knuuttila)
