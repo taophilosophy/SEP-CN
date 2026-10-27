@@ -1,1 +1,1 @@
-# *上帝——见上帝：上帝与其他终极存在 and God — see God: and other ultimates
+# 上帝和其他必然存在 and other necessary beings (Matthew Davidson)

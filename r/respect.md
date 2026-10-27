@@ -1,1 +1,1 @@
-# *自尊——见尊重 self-respect — see respect
+# 尊重 respect (Robin S. Dillon)

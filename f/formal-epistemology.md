@@ -1,1 +1,1 @@
-# *形式认识论——见形式认识论 formal epistemology — see epistemology, formal
+# 形式认识论 epistemology, formal (Jonathan Weisberg)

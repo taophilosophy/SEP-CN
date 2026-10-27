@@ -1,1 +1,1 @@
-# *决策能力——见决策能力 decision-making capacity — see decision-making capacity
+# 决策能力 decision-making capacity (Jennifer Hawkins and Louis C. Charland)

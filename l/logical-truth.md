@@ -1,1 +1,1 @@
-# *有效性——见逻辑真理 validity — see logical truth
+# 逻辑真理 logical truth (Mario Gómez-Torrente)

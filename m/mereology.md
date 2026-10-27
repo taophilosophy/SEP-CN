@@ -1,1 +1,1 @@
-# *部分/整体——见分体论 part/whole — see mereology
+# 分体论 mereology (Achille Varzi)

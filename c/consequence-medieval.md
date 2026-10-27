@@ -1,1 +1,1 @@
-# *结果——见中世纪结果理论 consequence — see consequence, medieval theories of
+# 中世纪结果理论 consequence, medieval theories of (Catarina Dutilh Novaes and Milo Crimi)

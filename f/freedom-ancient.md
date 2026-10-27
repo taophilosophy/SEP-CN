@@ -1,1 +1,1 @@
-# *古代理论——见伦理学：古代伦理学 ancient theories of — see ethics: ancient
+# 古代自由与决定论理论 ancient theories of (Tim O’Keefe)

@@ -1,1 +1,1 @@
-# *认知效用——见关于认知规范的认知效用论证 epistemic utility — see epistemic utility arguments for epistemic norms
+# *认知规范的论证 arguments for epistemic norms

@@ -1,1 +1,1 @@
-# *超泛神论——见超泛神论 panentheism — see panentheism
+# 超泛神论 panentheism (John Culp)

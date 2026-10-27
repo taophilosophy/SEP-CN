@@ -1,1 +1,1 @@
-# *涌现——见涌现属性 emergent — see emergent properties
+# 涌现属性 emergent properties (Timothy O’Connor)

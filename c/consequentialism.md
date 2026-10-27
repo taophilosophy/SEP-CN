@@ -1,1 +1,1 @@
-# *功利主义——见后果主义 utilitarianism — see consequentialism
+# 后果主义 consequentialism (Walter Sinnott-Armstrong)

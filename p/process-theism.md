@@ -1,1 +1,1 @@
-# *过程——见过程神学 process — see process theism
+# 过程神学 process theism (Donald Viney)

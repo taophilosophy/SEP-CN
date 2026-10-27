@@ -1,1 +1,1 @@
-# *永生——见来世 immortality — see afterlife
+# 来世 afterlife (William Hasker and Charles Taliaferro)

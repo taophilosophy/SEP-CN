@@ -1,1 +1,1 @@
-# *法兰克福学派——见批判理论 Frankfurt School — see critical theory
+# 批判理论（法兰克福学派）critical theory (Robin Celikates and Jeffrey Flynn)

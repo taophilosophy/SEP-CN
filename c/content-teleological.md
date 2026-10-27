@@ -1,1 +1,1 @@
-# *心理内容的目的论——见心理内容：心理内容的目的论 teleological theories of mental content — see mental content: teleological theories of
+# 心理内容的目的论 teleological theories of (Peter Schulte and Karen Neander)

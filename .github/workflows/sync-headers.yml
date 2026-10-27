@@ -29,6 +29,10 @@ jobs:
             # 跳过无效条目
             [ -z "$title" ] || [ ! -f "$path" ] && continue
 
+            # 跳过别名条目（标题含 — see / ——见）：别名与条目共用目标路径，
+            # 文件 H1 必须是真实条目的标题，别名行不得覆盖（ADR-0007/0009）
+            [[ "$title" == *"— see"* || "$title" == *"——见"* ]] && continue
+
             # 跳过带 YAML frontmatter 的文件（首行为 ---），避免破坏元数据
             [ "$(head -n 1 "$path")" = "---" ] && continue
 

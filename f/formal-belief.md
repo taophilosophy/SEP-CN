@@ -1,1 +1,1 @@
-# *信念的形式化表述——见信念的形式化表述 formal representations of belief — see belief, formal representations of
+# 信念的形式化表述 belief, formal representations of (Konstantin Genin and Franz Huber)

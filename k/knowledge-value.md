@@ -1,1 +1,1 @@
-# *知识——见知识的价值 of knowledge — see knowledge, value of
+# 知识的价值 knowledge, value of (Duncan Pritchard, John Turri, and J. Adam Carter)

@@ -1,1 +1,1 @@
-# *说谎者——见说谎者悖论 of the liar — see liar paradox
+# 说谎者悖论 liar paradox (Jc Beall, Michael Glanzberg, Ellie Ripley, and Lorenzo Rossi)

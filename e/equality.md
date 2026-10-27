@@ -1,1 +1,1 @@
-# *不平等——见平等 inequality — see equality
+# 平等 equality (Stefan Gosepath)

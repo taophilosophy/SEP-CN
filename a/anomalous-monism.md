@@ -1,1 +1,1 @@
-# *异常——见变异一元论 anomalous — see anomalous monism
+# 变异一元论 anomalous monism (Steven Yalowitz)

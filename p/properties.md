@@ -1,1 +1,1 @@
-# *普遍性——见属性 universals — see properties
+# 属性 properties (Francesco Orilia and Michele Paolini Paoletti)

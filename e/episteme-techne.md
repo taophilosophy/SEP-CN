@@ -1,1 +1,1 @@
-# *技术——见科学和技术 techne — see episteme and techne
+# 科学与技术 episteme and techne [= scientific knowledge and expertise] (Richard Parry)

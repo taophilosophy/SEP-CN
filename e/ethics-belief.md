@@ -1,1 +1,1 @@
-# *信念——见信念伦理 of belief — see belief, ethics of
+# 信念伦理学 belief, ethics of (Andrew Chignell)

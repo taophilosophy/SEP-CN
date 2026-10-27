@@ -1,1 +1,1 @@
-# *联想主义的思维理论——见联想主义的思维理论 thought, associationist theories of — see associationist theories of thought
+# 联想主义的思维理论 associationist theories of thought (Eric Mandelbaum and Raphaël Millière)

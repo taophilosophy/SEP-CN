@@ -1,1 +1,1 @@
-# *想象性抗拒——见想象性抗拒 resistance, imaginative — see imaginative resistance
+# 想象性抗拒 imaginative resistance (Emine Hande Tuna)

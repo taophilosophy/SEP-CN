@@ -1,1 +1,1 @@
-# *逻辑——见逻辑的规范性地位 logic — see logic: normative status of
+# 伊本·西那（阿维森纳）的逻辑学 logic (Riccardo Strobino)

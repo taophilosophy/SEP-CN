@@ -1,1 +1,1 @@
-# *人格——见人格同一性 persons — see personal identity
+# 人格同一性 personal identity (Eric T. Olson)

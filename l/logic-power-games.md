@@ -1,1 +1,1 @@
-# *分析权力的逻辑——见逻辑学：博弈中的权力推理 logics for analyzing power in — see logic: for analyzing power in normal form games
+# 用于分析标准形式博弈中权力的逻辑 for analyzing power in normal form games (Paolo Turrini and Thomas Ågotnes)

@@ -1,1 +1,1 @@
-# *动物——见动物：动物意识 animal — see animal: consciousness
+# 动物认知 cognition (Kristin Andrews and Susana Monsó)
