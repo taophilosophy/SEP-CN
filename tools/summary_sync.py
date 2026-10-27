@@ -140,24 +140,32 @@ def apply_add(slug, title_zh, file_name=None):
     link_text = ('%s %s (%s)' % (title_zh, title_en, authors)) if authors \
         else ('%s %s' % (title_zh, title_en))
 
-    # 1) SUMMARY 插入：全列表按英文标题字母序（ADR-0008 无字母节，仅词条行参与排序）
+    # 1) SUMMARY 插入：按上游目录文档顺序，锚定前驱/后继条目行（ADR-0009 字母目录，
+    #    SUMMARY 行序镜像 contents.html，非纯字母序，不能按标题重排插入）
     lines = summary_lines()
     new_line = '* [%s](%s)' % (link_text, rel)
-    new_key = english_of(link_text)
-    ins = len(lines)
-    for i, l in enumerate(lines):
-        pm = re.search(r'\]\(([^)]+\.md)\)', l)
-        if not pm or '/' in pm.group(1):
-            continue  # 跳过前置项目页，仅根级 <slug>.md 词条行参与排序
-        tm = re.search(r'\[([^\]]+)\]', l)
-        if not tm:
-            continue
-        k = english_of(tm.group(1))
-        if k and k > new_key:
+    ins, where = None, None
+    order = _upstream_doc_order()
+    if slug in order:
+        idx = order.index(slug)
+        prevs = [s for s in order[:idx][::-1] if s in _summary_slug_lines(lines)]
+        nexts = [s for s in order[idx + 1:] if s in _summary_slug_lines(lines)]
+        if prevs:
+            i, l = _summary_slug_lines(lines)[prevs[0]]
+            ins = i + 1
+            where = 'after %s' % prevs[0]
+        elif nexts:
+            i, l = _summary_slug_lines(lines)[nexts[0]]
             ins = i
-            break
+            where = 'before %s' % nexts[0]
+        pr = re.match(r'^(\s*)\* \[', l) if (prevs or nexts) and l else None
+        ind = len(pr.group(1)) if pr else 0
+        new_line = ' ' * ind + new_line
+    if ins is None:
+        ins, where = len(lines), 'append（上游顺序无锚点，回退尾部）'
     lines.insert(ins, new_line)
     write_summary_lines(lines)
+    print(json.dumps({'inserted_at': ins + 1, 'anchor': where}, ensure_ascii=False))
 
     # 2) 建桩（H1 与 SUMMARY 条目文字完全一致，file-name-check 零噪音）
     write_text_verified(full, '# %s\n' % link_text)
