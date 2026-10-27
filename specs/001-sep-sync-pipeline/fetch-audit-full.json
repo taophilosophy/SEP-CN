@@ -1,10 +1,10 @@
 {
-  "audited": 1816,
-  "ran_at": "2026-10-27T18:23:28Z",
-  "complete": 1815,
-  "missing_default_total": 7,
+  "audited": 1877,
+  "ran_at": "2026-10-27T18:50:34Z",
+  "complete": 1877,
+  "missing_default_total": 0,
   "missing_fetchable_total": 0,
-  "fixed_total": 6,
+  "fixed_total": 0,
   "errors": [],
   "results": [
     {
@@ -255,6 +255,13 @@
     {
       "slug": "africana",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "africana-contemporary",
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -2073,6 +2080,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "collingwood-aesthetics",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "collins",
       "assets": 1,
       "fixed": [],
@@ -2563,6 +2577,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "convention",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "conway",
       "assets": 0,
       "fixed": [],
@@ -2724,6 +2745,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "culture-cogsci",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "curry-paradox",
       "assets": 3,
       "fixed": [],
@@ -2766,6 +2794,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "daoism",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "daoism-religion",
       "assets": 1,
       "fixed": [],
@@ -2802,6 +2837,13 @@
     },
     {
       "slug": "death",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "death-definition",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
@@ -2943,6 +2985,13 @@
     {
       "slug": "descartes",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "descartes-epistemology",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3186,6 +3235,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "disagreement",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "disagreement-moral",
       "assets": 1,
       "fixed": [],
@@ -3237,6 +3293,13 @@
     {
       "slug": "divine-revelation",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "divine-simplicity",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3356,6 +3419,13 @@
     {
       "slug": "early-modern-india",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "ecological-genetics",
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3620,6 +3690,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "epistemology",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "epistemology-ai",
       "assets": 1,
       "fixed": [],
@@ -3699,6 +3776,13 @@
     {
       "slug": "epsilon-calculus",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "equal-ed-opportunity",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -3909,6 +3993,13 @@
     {
       "slug": "evidence",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "evidence-legal",
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4362,7 +4453,21 @@
       "missing_fetchable": []
     },
     {
+      "slug": "fiction-emotion-response",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "fictional-entities",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "fictionalism",
       "assets": 1,
       "fixed": [],
       "missing_default": [],
@@ -4586,8 +4691,22 @@
       "missing_fetchable": []
     },
     {
+      "slug": "freewill",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "frege",
       "assets": 22,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "frege-hilbert",
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -4929,6 +5048,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "goodman-aesthetics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "gorampa",
       "assets": 0,
       "fixed": [],
@@ -5132,6 +5258,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "heidegger-aesthetics",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "heinrich-rickert",
       "assets": 2,
       "fixed": [],
@@ -5176,6 +5309,13 @@
     {
       "slug": "herder",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "heritability",
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5349,6 +5489,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "hume-aesthetics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "hume-freewill",
       "assets": 0,
       "fixed": [],
@@ -5386,6 +5533,13 @@
     {
       "slug": "husserl",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "hutcheson",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5456,6 +5610,13 @@
     {
       "slug": "ibn-sina",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "ibn-sina-logic",
+      "assets": 10,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -5617,6 +5778,13 @@
     {
       "slug": "implicature",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "implicature-optimality-games",
+      "assets": 2,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -6259,6 +6427,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "kant-reason",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "kant-religion",
       "assets": 1,
       "fixed": [],
@@ -6372,6 +6547,13 @@
     },
     {
       "slug": "kokugaku-school",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "korean-buddhism",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -6497,6 +6679,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "latin-american-analytic",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "latin-american-metaphilosophy",
       "assets": 1,
       "fixed": [],
@@ -6519,6 +6708,13 @@
     },
     {
       "slug": "law-ideology",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "law-interpretivist",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -6763,6 +6959,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "lewis-metaphysics",
+      "assets": 10,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "liar-paradox",
       "assets": 2,
       "fixed": [],
@@ -6771,6 +6974,13 @@
     },
     {
       "slug": "liberalism",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "liberalism-latin-america",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -6799,6 +7009,13 @@
     },
     {
       "slug": "life",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "life-meaning",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -6842,6 +7059,13 @@
     {
       "slug": "locke-freedom",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "locke-moral",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7218,6 +7442,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "logical-consequence",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "logical-constants",
       "assets": 2,
       "fixed": [],
@@ -7337,6 +7568,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "luther-influence",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "luxemburg",
       "assets": 0,
       "fixed": [],
@@ -7430,6 +7668,13 @@
     {
       "slug": "mally",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "mally-deontic",
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7547,6 +7792,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "materialism-eliminative",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "mathematical-practice",
       "assets": 0,
       "fixed": [],
@@ -7647,6 +7899,13 @@
     {
       "slug": "medicine",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "medieval-categories",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -7953,6 +8212,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "modeltheory-fo",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "modesty-humility",
       "assets": 0,
       "fixed": [],
@@ -8058,6 +8324,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "moore-moral",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "moral-animal",
       "assets": 1,
       "fixed": [],
@@ -8135,6 +8408,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "moral-epistemology-a-priori",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "moral-learning",
       "assets": 3,
       "fixed": [],
@@ -8172,6 +8452,13 @@
     {
       "slug": "moral-particularism-generalism",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "moral-phenomenology",
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -8863,6 +9150,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "paradox-zeno",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "paradoxes-contemporary-logic",
       "assets": 1,
       "fixed": [],
@@ -8935,6 +9229,13 @@
     {
       "slug": "peirce-benjamin",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "peirce-logic",
+      "assets": 13,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9227,6 +9528,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "physics-Rpcc",
+      "assets": 11,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "physics-experiment",
       "assets": 34,
       "fixed": [],
@@ -9265,18 +9573,18 @@
       "slug": "pineal-gland",
       "assets": 12,
       "fixed": [],
-      "missing_default": [
-        "berengario1530.jpg",
-        "cambridge1300.jpg",
-        "descartes1664.jpg",
-        "pineal.jpg",
-        "qusta.jpg",
-        "reisch1535.jpg"
-      ],
+      "missing_default": [],
       "missing_fetchable": []
     },
     {
       "slug": "plato",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "plato-aesthetics",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -9549,6 +9857,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "pragmatics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "pragmatism",
       "assets": 0,
       "fixed": [],
@@ -9640,6 +9955,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "privacy",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "privacy-medicine",
       "assets": 0,
       "fixed": [],
@@ -9724,7 +10046,21 @@
       "missing_fetchable": []
     },
     {
+      "slug": "proof-theory-development",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "prop-attitude-reports",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "properties",
       "assets": 2,
       "fixed": [],
       "missing_default": [],
@@ -9761,6 +10097,13 @@
     {
       "slug": "propositions",
       "assets": 3,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "propositions-singular",
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -9887,6 +10230,13 @@
     {
       "slug": "qing-philosophy",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "qm",
+      "assets": 4,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10242,6 +10592,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "realism-sem-challenge",
+      "assets": 5,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "realism-theory-change",
       "assets": 2,
       "fixed": [],
@@ -10361,6 +10718,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "reid-ethics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "reid-memory-identity",
       "assets": 1,
       "fixed": [],
@@ -10384,6 +10748,20 @@
     {
       "slug": "relations",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "relations-medieval",
+      "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "relativism",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10543,6 +10921,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "rights-children",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "rights-group",
       "assets": 0,
       "fixed": [],
@@ -10636,14 +11021,7 @@
     {
       "slug": "russell",
       "assets": 9,
-      "fixed": [
-        "desire.au",
-        "desire.qt",
-        "desire.wav",
-        "politics.au",
-        "politics.qt",
-        "politics.wav"
-      ],
+      "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
     },
@@ -10816,6 +11194,13 @@
       "missing_fetchable": []
     },
     {
+      "slug": "schopenhauer-aesthetics",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "schutz",
       "assets": 0,
       "fixed": [],
@@ -10854,9 +11239,7 @@
       "slug": "scientific-explanation",
       "assets": 2,
       "fixed": [],
-      "missing_default": [
-        "local.js"
-      ],
+      "missing_default": [],
       "missing_fetchable": []
     },
     {
@@ -10979,8 +11362,22 @@
       "missing_fetchable": []
     },
     {
+      "slug": "selection-units",
+      "assets": 2,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
       "slug": "self-consciousness",
       "assets": 4,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "self-consciousness-phenomenological",
+      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -10995,6 +11392,13 @@
     {
       "slug": "self-defense",
       "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "self-knowledge",
+      "assets": 3,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11100,6 +11504,13 @@
     {
       "slug": "shaaban-robert-ethics",
       "assets": 1,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "shaftesbury",
+      "assets": 0,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
@@ -11267,6 +11678,13 @@
     },
     {
       "slug": "skepticism-moral-responsibility",
+      "assets": 0,
+      "fixed": [],
+      "missing_default": [],
+      "missing_fetchable": []
+    },
+    {
+      "slug": "smith-moral-political",
       "assets": 0,
       "fixed": [],
       "missing_default": [],
@@ -12556,13 +12974,6 @@
     {
       "slug": "wilson",
       "assets": 0,
-      "fixed": [],
-      "missing_default": [],
-      "missing_fetchable": []
-    },
-    {
-      "slug": "wisdom",
-      "assets": 1,
       "fixed": [],
       "missing_default": [],
       "missing_fetchable": []
