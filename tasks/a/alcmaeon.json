@@ -1,7 +1,7 @@
 {
   "slug": "alcmaeon",
   "kind": "retranslate",
-  "zh_doc": "a/ke-luo-dun-deaer-ke-mai-weng-alcmaeon-carl-huffman.md",
+  "zh_doc": "a/alcmaeon.md",
   "state": "s1_checked",
   "steps": [
     {
@@ -24,6 +24,13 @@
       "actor": "zcode-演示轮1",
       "at": "2026-10-26T16:53:43Z",
       "evidence": "对照 en/alcmaeon.txt 逐节核销：人名/年代/DK 编号/行号一致；残留英文碎片 grep=0；节号重复渲染缺陷已修；自纠 3 处（others→另一些学者、implicitly→默默、illustrative→打比方）。详见 script/tmp/demo-log.md"
+    },
+    {
+      "step": "restore",
+      "status": "ok",
+      "actor": "zcode-前置复核",
+      "at": "2026-10-27T15:35:00Z",
+      "evidence": "前置复核发现结构迁移 f717f086 误删唯一有内容的旧拼音译文（该提交 424 个删除文件中 423 个为 1 行 stub，唯此 220 行真译文），a/alcmaeon.md 曾为 stub；已从 405c2fbb 原样恢复至现行字母目录路径并同步 zh_doc 字段，sha256=9eb8449574b8fe01，220 行与历史提交逐字节一致"
     }
   ],
   "blockers": [],
