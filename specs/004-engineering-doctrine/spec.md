@@ -17,9 +17,9 @@
 
 | # | 债务 | 影响 | 量化 | 优先级 |
 |---|---|---|---|---|
-| D1 | 正文翻译 done=0——管线全就绪但三审三校零实跑 | 项目主目标未开始 | 1791 词条待译 | P0 |
+| D1 | 正文翻译 done=0——管线全就绪但三审三校零实跑（**偿还计划见 specs/005-translation-campaign**） | 项目主目标未开始 | 1791 词条待译 | P0 |
 | D2 | en/ 原始物仅存本地（不入库不备份） | 单点故障：磁盘损坏即丢失约 5400 件原始物（哈希在 baseline 但内容无存档） | en/ 约 3998 文件 | P0 |
-| D3 | 74 条上游增量未接入 | SUMMARY 与官方目录缺口 | upstream-increment.json | P1 |
+| D3 | 74 条上游增量未接入（**随 specs/005 各波 intake 偿还**） | SUMMARY 与官方目录缺口 | upstream-increment.json | P1 |
 | D4 | 24 个派生 slug + 137 个导航节点待人工裁定 | 镜像路径不确定、目录导航节点无条目页 | rebuild-review.json | P1 |
 | D5 | baseline zh_doc 对 72 条 baseline 独有条目仍是旧拼音路径 | 版本钉链断 | 72/1724 | P1 |
 | D6 | yuanwen.py（660 行最复杂转换器）无直接单测 | 数学/表格/脚注保真仅靠 check_math 间接把关 | 0 专项测试 | P1 |

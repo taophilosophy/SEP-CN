@@ -32,7 +32,7 @@
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
-| 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist） | 单项工程规格与验收 | 该工程会话 |
+| 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
 | 执行记录 | `specs/<NNN>-*/execution-log.md`（+ demo-log、分析记录） | 干执行凭证与流程修订输入 | 该工程会话 |
 | 散页标准 | `fang-fa-lun/gong-cheng-fang-fa.md`（翻译工程标准 v1.0）等 | 各会话产出的操作性标准，**待逐步折叠进 rules/**，折叠前以本表登记为准 | 原产出会话 |
