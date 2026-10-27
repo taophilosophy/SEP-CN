@@ -11,10 +11,12 @@
 | academic freedom | 学术自由 | 语料回收（academic-freedom） | 2026-10-27 |
 | agnosticism | 不可知论 | 语料回收 | 2026-10-27 |
 | altruism | 利他主义 | 语料回收 | 2026-10-27 |
+| anarchism | 无政府主义 | 语料回收（全目录） | 2026-10-27 |
 | ancient philosophy | 古代哲学 | 语料回收 | 2026-10-27 |
 | anomalous monism | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 2026-10-27 |
 | antirealism | 反实在论 | 语料回收 | 2026-10-27 |
 | aphanes | 不可知觉的东西 | alcmaeon | 2026-10-26 |
+| Aristotelianism | 亚里士多德主义 | 语料回收（全目录） | 2026-10-27 |
 | atheism | 无神论 | 语料回收 | 2026-10-27 |
 | bayes rule | 贝叶斯规则 | 语料回收（bayes-theorem） | 2026-10-27 |
 | bayesian confirmation theory | 贝叶斯确证理论 | 语料回收（bayes-theorem） | 2026-10-27 |
@@ -23,6 +25,7 @@
 | bell inequality | 贝尔不等式 | 语料回收（bell-theorem） | 2026-10-27 |
 | Bell theorem | 贝尔定理 | 语料回收（bell-theorem） | 2026-10-27 |
 | Buddhism | 佛教 | 语料回收 | 2026-10-27 |
+| Capitalism | 资本主义 | 语料回收（全目录） | 2026-10-27 |
 | Chancellor | 总务长 | 词汇表复核（源提交 bbeff276） | 2026-10-27 |
 | chinese philosophy | 中国哲学 | 语料回收 | 2026-10-27 |
 | Christian Thomasius | 克里斯蒂安·托马修斯 | 语料回收（academic-freedom） | 2026-10-27 |
@@ -31,14 +34,18 @@
 | classical first-order logic | 经典一阶逻辑 | 语料回收（logic-classical） | 2026-10-27 |
 | classical logic | 经典逻辑 | 语料回收（logic-classical） | 2026-10-27 |
 | cognitivism | 认知主义 | 语料回收 | 2026-10-27 |
+| colonialism | 殖民主义 | 语料回收（全目录） | 2026-10-27 |
 | common cause principle | 共因原则 | 语料回收（bell-theorem） | 2026-10-27 |
 | conditional probabilities | 条件概率 | 语料回收（bayes-theorem） | 2026-10-27 |
 | confirmation theory | 确证理论 | 语料回收（bayes-theorem） | 2026-10-27 |
 | Confucianism | 儒家思想 | 语料回收 | 2026-10-27 |
 | connectionism | 联结主义 | 语料回收 | 2026-10-27 |
 | consequentialism | 后果主义 | 语料回收 | 2026-10-27 |
+| conservatism | 保守主义 | 语料回收（全目录） | 2026-10-27 |
 | Constitution | 构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法） | 词汇表复核（源提交 b27b33bd） | 2026-10-27 |
+| constructivism | 构造主义；建构主义 | 语料回收（全目录） | 2026-10-27 |
 | contextualism | 语境主义 | 语料回收 | 2026-10-27 |
+| Darwinism | 达尔文主义 | 语料回收（全目录） | 2026-10-27 |
 | deductive system | 演绎系统 | 语料回收（logic-classical） | 2026-10-27 |
 | denumerably infinite | 可数无穷 | 语料回收（set-theory） | 2026-10-27 |
 | determinism | 决定论 | 语料回收 | 2026-10-27 |
@@ -47,6 +54,7 @@
 | doxographical tradition / doxography | 学说史传统／学说汇编 | alcmaeon | 2026-10-26 |
 | dualism | 二元论 | 语料回收 | 2026-10-27 |
 | early modern | 近代早期 | 语料回收 | 2026-10-27 |
+| egalitarianism | 平等主义 | 语料回收（全目录） | 2026-10-27 |
 | empirically equivalent | 经验等价 | 语料回收 | 2026-10-27 |
 | empiricism | 经验主义 | 语料回收 | 2026-10-27 |
 | Essentialism | 本质主义 | 语料回收 | 2026-10-27 |
@@ -56,22 +64,29 @@
 | fictionalism | 虚构主义 | 语料回收 | 2026-10-27 |
 | formal language | 形式语言 | 语料回收（logic-classical） | 2026-10-27 |
 | formalism | 形式主义 | 语料回收（logic-classical） | 2026-10-27 |
+| foundationalism | 基础主义 | 语料回收（全目录） | 2026-10-27 |
 | free speech | 言论自由 | 语料回收（academic-freedom） | 2026-10-27 |
 | free variables | 自由变元 | 语料回收（logic-classical） | 2026-10-27 |
+| functionalism | 功能主义 | 语料回收（全目录） | 2026-10-27 |
 | german philosophy | 德国哲学 | 语料回收（academic-freedom） | 2026-10-27 |
 | hedonism | 快乐主义 | 语料回收 | 2026-10-27 |
 | hidden variables | 隐变量 | 语料回收（bell-theorem） | 2026-10-27 |
 | humanism | 人文主义 | 语料回收 | 2026-10-27 |
 | idealism | 唯心论；观念论 | 语料回收 | 2026-10-27 |
+| individualism | 个人主义 | 语料回收（全目录） | 2026-10-27 |
 | induction hypothesis | 归纳假设 | 语料回收（set-theory） | 2026-10-27 |
 | Inference to the Best Explanation | 最佳解释推理 | abduction | 2026-10-26 |
 | institutional neutrality | 机构中立 | 语料回收（academic-freedom） | 2026-10-27 |
 | instrumentalism | 工具主义 | 语料回收 | 2026-10-27 |
 | intellectualism | 理智主义 | 语料回收 | 2026-10-27 |
+| internalism | 内在主义 | 语料回收（全目录） | 2026-10-27 |
 | intuitionism | 直觉主义 | 语料回收 | 2026-10-27 |
 | intuitionistic logic | 直觉主义逻辑 | 语料回收（logic-classical） | 2026-10-27 |
+| isomorphism | 同构 | 语料回收（全目录） | 2026-10-27 |
 | isonomia | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 2026-10-26 |
 | ius ubique docendi | 普遍教学权 | 语料回收（academic-freedom） | 2026-10-27 |
+| Judaism | 犹太教 | 语料回收（全目录） | 2026-10-27 |
+| Kantianism | 康德主义 | 语料回收（全目录） | 2026-10-27 |
 | kenon | 空腔 | alcmaeon | 2026-10-26 |
 | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 2026-10-27 |
 | Leibnizian-Wolffian | 莱布尼茨—沃尔夫学派的 | 语料回收（academic-freedom） | 2026-10-27 |
@@ -80,6 +95,7 @@
 | Libertas philosophandi | 哲学思考自由 | 语料回收（academic-freedom） | 2026-10-27 |
 | Lutheranism | 路德宗 | 语料回收（academic-freedom） | 2026-10-27 |
 | Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 2026-10-27 |
+| Marxism | 马克思主义 | 语料回收（全目录） | 2026-10-27 |
 | materialism | 物质主义；唯物论 | 语料回收 | 2026-10-27 |
 | mechanism | 机械论 | 语料回收 | 2026-10-27 |
 | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 2026-10-26 |
@@ -90,11 +106,18 @@
 | natural number | 自然数 | 语料回收（set-theory） | 2026-10-27 |
 | natural numbers | 自然数 | 语料回收（set-theory） | 2026-10-27 |
 | naturalism | 自然主义 | 语料回收 | 2026-10-27 |
+| Neoplatonism | 新柏拉图主义 | 语料回收（全目录） | 2026-10-27 |
+| nihilism | 虚无主义 | 语料回收（全目录） | 2026-10-27 |
 | Nominalism | 唯名论 | 词汇表复核（源提交 36fd04fd） | 2026-10-27 |
 | observation sentences | 观察句 | 语料回收（quine） | 2026-10-27 |
+| occasionalism | 偶因论 | 语料回收（全目录） | 2026-10-27 |
+| pacifism | 和平主义 | 语料回收（全目录） | 2026-10-27 |
 | panentheism | 万有在神论 | 语料回收 | 2026-10-27 |
+| panpsychism | 泛心论 | 语料回收（全目录） | 2026-10-27 |
 | pantheism | 泛神论 | 语料回收 | 2026-10-27 |
 | paradigm | 范式 | 语料回收 | 2026-10-27 |
+| paternalism | 家长主义 | 语料回收（全目录） | 2026-10-27 |
+| patriotism | 爱国主义 | 语料回收（全目录） | 2026-10-27 |
 | perfectionism | 至善论 | 语料回收 | 2026-10-27 |
 | physicalism | 物理主义 | 语料回收 | 2026-10-27 |
 | physiologos / physiologoi | 论自然者（前苏格拉底自然哲学家） | alcmaeon | 2026-10-26 |
@@ -105,6 +128,7 @@
 | practical philosophy | 实践哲学 | 语料回收 | 2026-10-27 |
 | pragmatism | 实用主义 | 语料回收 | 2026-10-27 |
 | predicate letter | 谓词字母 | 语料回收（logic-classical） | 2026-10-27 |
+| presentism | 现在主义 | 语料回收（全目录） | 2026-10-27 |
 | prima facie | 初步的 | 语料回收 | 2026-10-27 |
 | problem of universals / universals | 共相问题／共相（与“殊相”相对；勿译“普遍性问题”） | 词汇表复核 | 2026-10-27 |
 | projective sets | 射影集合 | 语料回收（set-theory） | 2026-10-27 |
@@ -114,6 +138,7 @@
 | Quine | 蒯因 | 语料回收（quine） | 2026-10-27 |
 | rationalism | 唯理论；理性主义 | 语料回收 | 2026-10-27 |
 | real numbers | 实数 | 语料回收（set-theory） | 2026-10-27 |
+| reductionism | 还原论 | 语料回收（全目录） | 2026-10-27 |
 | Relativism | 相对主义 | 语料回收 | 2026-10-27 |
 | scepticism | 怀疑论 | 语料回收（arcesilaus） | 2026-10-27 |
 | scientific methodology | 科学方法论 | 语料回收 | 2026-10-27 |
@@ -135,6 +160,7 @@
 | total evidence | 总证据 | 语料回收（abduction） | 2026-10-27 |
 | unconditional probabilities | 无条件概率 | 语料回收（bayes-theorem） | 2026-10-27 |
 | universal suspension | 普遍悬置 | 语料回收（arcesilaus） | 2026-10-27 |
+| voluntarism | 意志主义 | 语料回收（全目录） | 2026-10-27 |
 | warrant | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 2026-10-27 |
 | Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 2026-10-27 |
 

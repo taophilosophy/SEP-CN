@@ -51,6 +51,7 @@
 |America Day by Day|美国纪行||
 |Ammonius|赫尔米亚的阿莫尼俄斯|即 Ammonius Hermiae（赫尔米亚之子），5 世纪亚历山大里亚的亚里士多德注释家|
 |Ammonius|阿莫尼俄斯|泛指同名者；柏拉图主义者 Ammonius Saccas 通译“阿莫尼俄斯·萨卡斯”|
+|anarchism|无政府主义||
 |Anaxagoras|阿那克萨哥拉||
 |Anaximander|阿那克西曼德||
 |Anaximenes|阿那克西美尼||
@@ -63,6 +64,7 @@
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
 |Argument|论证|悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正|
+|Aristotelianism|亚里士多德主义||
 |Aristotle|亚里士多德||
 |Aspect|体（体貌）|语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正|
 |atheism|无神论||
@@ -149,6 +151,7 @@
 |Campanella|康帕内拉||
 |Camus|加缪||
 |Cantor|康托尔||
+|Capitalism|资本主义||
 |Cardano|卡尔达诺||
 |Cardinal|枢机主教||
 |Carl Friedrich Stumpf|卡尔·弗里德里希·斯图姆夫||
@@ -172,6 +175,7 @@
 |coherence theory|融贯论||
 |Collapse|坍缩||
 |Collapse Theories|坍缩理论||
+|colonialism|殖民主义||
 |Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
 |common cause principle|共因原则|赖欣巴哈（Reichenbach）提出；《自然辩证法通讯》2017 年用“共因原则”，亦译“共同原因原则”|
@@ -181,10 +185,12 @@
 |Confucianism|儒家思想||
 |connectionism|联结主义|心灵哲学与认知科学语境|
 |consequentialism|后果主义||
+|conservatism|保守主义||
 |Consistent Histories|一致性历史||
 |Consistent Histories Approach|一致性历史方法||
 |Constitution|构成；构造；宪法|康德语境多译“构成”，胡塞尔（Konstitution）语境常译“构造”，政治语境译“宪法”|
 |constructive|构造性的|数学哲学语境；constructivism 才是“构造主义”（亦译“建构主义”）|
+|constructivism|构造主义；建构主义|数学哲学多译“构造主义”，知识论与社会理论多译“建构主义”，按语境取一并保持一致|
 |Content Externalism|内容外在主义||
 |contextualism|语境主义|知识论语境；亦译“情境主义”，按语境分流|
 |continuum|连续体||
@@ -198,6 +204,7 @@
 |correspondence theory|符合论||
 |Cratylus|克拉底鲁||
 |Cudworth|库德沃斯||
+|Darwinism|达尔文主义||
 |Decoherence|退相干||
 |deductive system|演绎系统||
 |Democedes|德摩塞迪斯||
@@ -223,6 +230,7 @@
 |Dynamic Semantics|动态语义||
 |early modern|近代早期|哲学史分期用语，约指 16—18 世纪欧洲|
 |Edmund Burke|埃德蒙·伯克||
+|egalitarianism|平等主义||
 |Einstein-Podolsky-Rosen|爱因斯坦-波多尔斯基-罗森||
 |Elias|埃利亚斯||
 |Empedocles|恩培多克勒||
@@ -257,6 +265,7 @@
 |Formal Approaches|形式化方法||
 |formal language|形式语言||
 |formalism|形式主义|数学基础三派之一（与直觉主义、逻辑主义并列）|
+|foundationalism|基础主义|知识论；与 coherentism 融贯论相对|
 |Francis Bacon|弗朗西斯·培根||
 |Francis Herbert Bradley|弗朗西斯·赫伯特·布拉德雷||
 |Francis Hutcheson|弗朗西斯·哈奇森|Francis 统一译“弗朗西斯”（与 Francis Bacon 一致）|
@@ -266,6 +275,7 @@
 |free speech|言论自由|与 academic freedom 学术自由相关联|
 |free variables|自由变元|亦作“自由变项”；与约束变元（bound variables）相对|
 |Friedrich Albert Lange|弗里德里希·阿尔贝特·朗格||
+|functionalism|功能主义|心灵哲学与社会科学语境；心理学旧译“机能主义”|
 |Galen|盖伦||
 |general idea|一般观念|洛克、贝克莱语境（普遍观念）；“概述”是日常义，哲学语境不用|
 |Georg Cantor|格奥尔格·康托尔||
@@ -312,6 +322,7 @@
 |implicit bias|内隐偏见||
 |Incommensurable|不可通约性||
 |independence|独立性||
+|individualism|个人主义||
 |Individuality|个体性||
 |Individuals|个体||
 |induction hypothesis|归纳假设|数学归纳法语境|
@@ -322,11 +333,13 @@
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
 |instrumentalism|工具主义|科学哲学（杜威、逻辑经验主义之争）与数学哲学语境|
 |intellectualism|理智主义|亦译“智性主义”，与意志主义（voluntarism）相对|
+|internalism|内在主义|知识论与心灵哲学；与 externalism 外在主义相对|
 |Intrinsic|内在||
 |intuitionism|直觉主义|数学基础（布劳威尔）与伦理学两支，按语境分流|
 |Intuitionistic|直觉主义||
 |intuitionistic logic|直觉主义逻辑||
 |Isaac Albalag|以撒·阿尔巴拉格||
+|isomorphism|同构|数学与心灵哲学（结构同一论）语境|
 |isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
 |ius ubique docendi|普遍教学权|拉丁语“随处执教之权”，中世纪大学的教学特许权|
 |James Beattie|詹姆斯·比蒂||
@@ -344,11 +357,13 @@
 |Joseph Butler|约瑟夫·巴特勒||
 |Juan Luis Vives|胡安·路易斯·维夫斯||
 |Judah Abrabanel|犹大·莱昂·阿布拉瓦内尔||
+|Judaism|犹太教||
 |judgment aggregation|判断聚合||
 |Just Assassins|正义者||
 |Justification|证成||
 |Justification|辩护||
 |Kalām|伊斯兰教义学|亦音译“凯拉姆”|
+|Kantianism|康德主义|亦作“康德哲学”；neo-Kantianism 新康德主义见专条|
 |Karl Leonhard Reinhold|卡尔·莱昂哈德·莱因霍尔德||
 |kenon|空腔|阿尔克迈翁条术语（真空、空隙）|
 |Khayyam|海亚姆||
@@ -377,6 +392,7 @@
 |Magna Charta Universitatum|《大学大宪章》|1988 年博洛尼亚签署的大学基本原则宣言|
 |Many-Worlds Interpretation|多世界诠释||
 |Margarete Susman|玛格丽特·苏斯曼||
+|Marxism|马克思主义||
 |materialism|物质主义；唯物论|形而上学语境译“物质主义”（与 physicalism 物理主义相承），历史语境译“唯物论”|
 |Max Stirner|麦克斯·施蒂纳||
 |mañana paradox|明天悖论||
@@ -409,8 +425,10 @@
 |naturalism|自然主义||
 |Naturalistic Approaches|自然主义方法||
 |neo-Kantianism|新康德主义||
+|Neoplatonism|新柏拉图主义||
 |Nicolaus Taurellus|尼古拉斯·塔雷路斯||
 |Niels Bohr|尼尔斯·玻尔||
+|nihilism|虚无主义||
 |Nominalism|唯名论|共相问题立场之一，与实在论（Realism）、概念论（Conceptualism）并列|
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
@@ -421,13 +439,18 @@
 |Objectivity|客观性||
 |observation|观察||
 |observation sentences|观察句|奎因术语，与理论句子（theoretical sentences）相对|
+|occasionalism|偶因论|马勒伯朗士等：因果偶因学说|
 |Olympiodorus|奥林匹奥多罗斯||
 |ontic structural realism|本体的结构实在论||
+|pacifism|和平主义|亦译“反战主义”|
 |panentheism|万有在神论|亦译“泛在神论”，介于泛神论与有神论之间|
+|panpsychism|泛心论||
 |pantheism|泛神论||
 |paradigm|范式|库恩（Kuhn）语境通译|
 |Paradox of Suspense|悬疑悖论||
 |Parmenides|巴门尼德||
+|paternalism|家长主义|政治哲学与伦理学语境；制度语境亦作“家长制”|
+|patriotism|爱国主义||
 |Paul Natorp|保罗·那托普||
 |Perception|知觉||
 |perfectionism|至善论|政治哲学语境（国家促进善生活的学说）|
@@ -464,6 +487,7 @@
 |pragmatism|实用主义|见 Pragmatist 条；勿与 pragmatic（语用的/实用的）混淆|
 |Pragmatist|实用主义者|名词指人；形容词“实用主义的”|
 |predicate letter|谓词字母||
+|presentism|现在主义|时间哲学：只有现在存在；与永恒主义（eternalism）相对|
 |prima facie|初步的|拉丁语“乍看之下”；伦理学 prima facie duty 初定义务（罗斯）|
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
 |Progress|进步||
@@ -492,6 +516,7 @@
 |real numbers|实数||
 |Realism|实在论||
 |Rebel|反抗者||
+|reductionism|还原论|亦译“化约论”；与 emergentism 涌现论相对|
 |Regress|倒退|认识论语境常作“无穷倒退”（infinite regress）|
 |Reinhold|莱因霍尔德||
 |Relational|关系性||
@@ -674,6 +699,7 @@
 |visual thinking in mathematics|数学中的视觉思维||
 |Vives|维夫斯||
 |Voltaire|伏尔泰||
+|voluntarism|意志主义|与 intellectualism 理智主义相对；神学语境见 Theological Voluntarism 神学意志主义|
 |Voting|投票||
 |Walden|瓦尔登湖||
 |Walter Benjamin|瓦尔特·本雅明||
