@@ -1,0 +1,57 @@
+{
+ "slug": "abduction",
+ "kind": "retranslate",
+ "zh_doc": "a/abduction.md",
+ "state": "pending",
+ "steps": [
+  {
+   "step": "clear",
+   "status": "ok",
+   "actor": "task_ops",
+   "at": "2026-10-27T08:31:07Z",
+   "evidence": "baseline gate: hash_ok"
+  },
+  {
+   "step": "draft",
+   "status": "ok",
+   "actor": "zcode-干执行",
+   "at": "2026-10-27T08:31:07Z",
+   "evidence": "干执行验证轮：学术规范流程端到端"
+  },
+  {
+   "step": "s1",
+   "status": "ok",
+   "actor": "zcode-干执行",
+   "at": "2026-10-27T08:31:08Z",
+   "evidence": "干执行：s1 校次（存根暂无正文，逐节核对留待翻译后）"
+  },
+  {
+   "step": "s2",
+   "status": "ok",
+   "actor": "zcode-干执行",
+   "at": "2026-10-27T08:31:08Z",
+   "evidence": "干执行：s2 校次"
+  },
+  {
+   "step": "s3",
+   "status": "ok",
+   "actor": "zcode-干执行",
+   "at": "2026-10-27T08:31:08Z",
+   "evidence": "干执行：s3 校次——学术规范挂钩实弹验证"
+  },
+  {
+   "step": "reset",
+   "status": "ok",
+   "actor": "zcode-干执行验证轮",
+   "at": "2026-10-27T09:30:00+08:00",
+   "evidence": "干执行验证轮重置：clear→draft→s1→s2→s3 全链演练仅验证基线门禁与学术规范挂钩（存根文档，无内容可校）；正文未翻译，状态复位 pending，演练记录保留可追溯"
+  }
+ ],
+ "blockers": [],
+ "created_at": "2026-10-27T08:30:25Z",
+ "version_pin": {
+  "pubinfo_date": "Jun 18, 2025",
+  "archive_edition": "Winter 2025",
+  "sha256": "f15cabf1118658053a76f5b7813f0638e8acb88c370a1150b3c13283786ff8e6"
+ }
+}
