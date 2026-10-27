@@ -1535,7 +1535,6 @@
 * [道德动机 moral motivation (Connie S. Rosati)](m/moral-motivation.md)
 * [道德心理学的经验主义研究 empirical approaches (John Doris, Stephen Stich, Jonathan Phillips, and Lachlan Walmsley)](m/moral-psych-emp.md)
 * [道德推理 moral (Henry S. Richardson)](r/reasoning-moral.md)
-* [智慧 wisdom (Sharon Ryan)](w/wisdom.md)
   * [实验伦理学 experimental moral philosophy (Mark Alfano, Edouard Machery, Alexandra Plakias, and Don Loeb)](e/experimental-moral.md)
 * [后果主义 consequentialism (Walter Sinnott-Armstrong)](c/consequentialism.md)
 * [规则后果主义 rule (Brad Hooker)](c/consequentialism-rule.md)

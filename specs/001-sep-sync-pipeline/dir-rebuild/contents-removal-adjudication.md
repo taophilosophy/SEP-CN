@@ -11,7 +11,7 @@
 | qm-action-distance | HTTP 200 | 保留：同上 |
 | scientific-explanation | HTTP 200 | 保留：同上；其子条目 scientific-explanation-20th 等在 ADD 队列 |
 | time-experience | HTTP 200 | 保留：文件已由 the-experience-and-perception-of 改名归位 |
-| wisdom | HTTP 200 | 保留：上游目录将 wisdom 呈现为无链接集群头（子条目 wisdom-analytic 在 ADD 队列），但 /entries/wisdom/ 词条页在线，保留正式行 |
+| ~~wisdom~~ | HTTP 200（软 404） | **改判删除**：fetch_entry 软 404 检测显示该 URL 返回 SEP 错误页（词条已撤稿），初判仅凭 HTTP 200 有误；上游目录以无链接集群头呈现 wisdom、子条目 wisdom-analytic（ADD 队列）为唯一后继。已删行+文件+账本记录 |
 
 已实际执行的删除（ upstream 404/无身份，证据同为 URL 探测与目录缺席）：
 
