@@ -46,10 +46,15 @@ def main(argv=None):
     ap.add_argument("--quiet", action="store_true", help="只输出失败项与汇总")
     args = ap.parse_args(argv)
 
+    # 七项门禁相互独立，并行执行（能并行的并行）
+    from concurrent.futures import ThreadPoolExecutor
     results = []
-    for name, script, _ in GATES:
-        rc, out = run(name, script)
-        results.append((name, rc, out))
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        futs = {pool.submit(run, name, script): name for name, script, _ in GATES}
+        for fut, name in futs.items():
+            rc, out = fut.result()
+            results.append((name, rc, out))
+    for name, rc, out in results:
         if not args.quiet or rc:
             print("[%s] %s%s" % ("OK " if rc == 0 else "FAIL", name,
                                  "" if rc == 0 else "\n" + out[-1200:]))

@@ -82,3 +82,9 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * 根因：file-name-check.yml（"检查 SUMMARY.md 目录"）在校验通过时只打日志、从不开闭历史 issue——目录重建前的真实失败创建了 "SUMMARY.md mismatch: Missing files" issue，此后每次触发都"始终报告目录有问题"。
 * 修复：校验通过时自动评论并关闭历史 mismatch issue（actions/github-script）。本地已核验 SUMMARY 2563 链接 0 缺失、0 大小写错位（Linux CI 逐字符校验安全）。
 * 推送：经用户授权 `git push -f`（49c4683c）。**被覆盖的远端提交 587ec741 仅存在于并行会话本地**（本仓库未 fetch 到），该会话需 `git fetch && git reset --hard origin/main` 重新同步后将其工作重新落地。
+
+## 流程依赖审查与更新流程验证 — 2026-10-27
+
+* **依赖权属契约**（contracts/cli.md）：新词条接入唯一入口 apply-add、批量骨架 rebuild stubs、baseline 唯一登记方 fetch_entry、fetch_audit 只补缺件不写 baseline（审计 JSON 即凭证）、compare 产出持久变更文件、H1 同步归 CI——八项职责一一对应，消除双路径矛盾。
+* **并行化**：check_all 七门禁 ThreadPool 并行（5.8s，原串行约 12s 提速 2 倍）；compare 批量串行受 5 秒礼貌约束（并发抓取属 2026-10-27 并发裁定范围，按需启用 fetch_all 节拍）。
+* **更新流程闭环干执行**：fetch_catalog（1808 条无上游变化）→ compare --html 模拟变更 → 持久变更文件 compare/<slug>.json → update 任务（--from 变更文件，change_file 记录）→ 状态机 s1/s2/s3：反例（无 changes: 前缀）被 PreconditionError 拦截，正例全通过且 s3 学术挂钩触发。演练任务与模拟变更文件已清理（可按 drill 复现），本记录为凭证。

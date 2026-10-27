@@ -188,10 +188,19 @@ def compare_slug(slug, new_html_path=None):
     new_secs = parse_sections(open(tmp, encoding="utf-8", errors="replace").read())
     changes = map_zh(diff_sections(old_secs, new_secs), zh_doc)
     sys.stderr.write("[compare] %s: %d 处变更\n" % (slug, len(changes)))
-    return {"slug": slug, "changed": bool(changes), "compared_at": utcnow_iso(),
-            "new_snapshot": os.path.relpath(tmp, repo_path(".")),
-            "sections_changed": len({c["anchor"] for c in changes}),
-            "changes": changes}, (1 if changes else 0)
+    result = {"slug": slug, "changed": bool(changes), "compared_at": utcnow_iso(),
+              "new_snapshot": os.path.relpath(tmp, repo_path(".")),
+              "sections_changed": len({c["anchor"] for c in changes}),
+              "changes": changes}
+    # 持久变更文件：update 任务 evidence（changes:<路径>）的引用载体（spec 001 US-3→US-4 闭环）
+    if changes:
+        outdir = repo_path("specs", "001-sep-sync-pipeline", "compare")
+        os.makedirs(outdir, exist_ok=True)
+        out_path = os.path.join(outdir, slug + ".json")
+        with open(out_path, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(result, f, ensure_ascii=False, indent=1)
+        result["changes_file"] = os.path.relpath(out_path, repo_path(".")).replace(os.sep, "/")
+    return result, (1 if changes else 0)
 
 
 def main(argv=None):
