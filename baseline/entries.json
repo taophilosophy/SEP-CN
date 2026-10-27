@@ -65363,6 +65363,308 @@
       }
     },
     {
+      "slug": "japanese-aesthetics",
+      "fetched_at": "2026-10-27T11:36:12Z",
+      "source_url": "https://plato.stanford.edu/entries/japanese-aesthetics/",
+      "title": "Japanese Aesthetics",
+      "authors": [
+        "Parkes, Graham",
+        "Loughnane, Adam"
+      ],
+      "pubinfo": {
+        "first_published": "Dec 12, 2005",
+        "substantive_revision": "Dec 6, 2023"
+      },
+      "in_article_markers": true,
+      "zh_doc": "j/japanese-aesthetics.md",
+      "archinfo": {
+        "latest_edition": "Spring 2024",
+        "latest_change_type": "minor correction",
+        "history": [
+          {
+            "edition": "Winter 2023",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2018",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2017",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2017",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2011",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2008",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Spring 2006",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2005",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Spring 2024",
+      "files": [
+        {
+          "path": "en/japanese-aesthetics/index.html",
+          "sha256": "022caca637b16361067e407fa5648e57a6afadd919a7524aa6fc14e2bef0904d",
+          "bytes": 91061,
+          "kind": "main"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji-kinkakuji.html",
+          "sha256": "699d7608d55cb3971595396902c6af0ecdf4c4ecee2308dd6fa6bd44bf08c38e",
+          "bytes": 12536,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji.html",
+          "sha256": "cd65fe2cef7cd74908fd93f07c024e77082e76c351edeefa0644bbf5b3209b42",
+          "bytes": 12316,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/late-spring.html",
+          "sha256": "15730d3c5b652efb47609e453ab2fb376f9fb50361e4b15c9b255d09c86f1de6",
+          "bytes": 12604,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji.html",
+          "sha256": "684c025512dfb4286191eb4b7163d80a831f4f4bc3b751c807ec1aa3f7f79f3b",
+          "bytes": 12714,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/splashed-ink.html",
+          "sha256": "140d3d4223864ed4b4d23b09872642ba16b7fde9948901f5d21ec852482508d7",
+          "bytes": 12151,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/tokyo-story.html",
+          "sha256": "c5f0d6e04c5fcfea5f4dcc31169863359b0f74b92638124d66292c4338da355d",
+          "bytes": 12569,
+          "kind": "supplement"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji1-thumb.jpg",
+          "sha256": "b4094da52e161d7f09ded82a9cfeeb01bd84df6336823f1caaf1a09ce119c989",
+          "bytes": 72701,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji2-thumb.jpg",
+          "sha256": "3658ffbdc5170cb2f8e1ef860d3d16e00ac2c617f14546375689217458eaf8bd",
+          "bytes": 71923,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji3-thumb.jpg",
+          "sha256": "7ef2079c713ef4864ef500104c7db4e0f021fe384938a413fd8898e80f276dd0",
+          "bytes": 86062,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji4-thumb.jpg",
+          "sha256": "6f388c8abf04c74ce59f239836a7d7969881ce8e7fc4482347eda882c74fa3eb",
+          "bytes": 75112,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ginkakuji5-thumb.jpg",
+          "sha256": "5d3c7affccc4af96bc34a73599deebf66c7afbb8f363f2196c9cc251b134bf56",
+          "bytes": 78147,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/kinkakuji1-thumb.jpg",
+          "sha256": "c7d45d60fbea6fc521bbd8dde3d88eb38c97050da50ec7b0e3c5dff5fe996ca2",
+          "bytes": 14474,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/kinkakuji2-thumb.jpg",
+          "sha256": "38d9b5850ba4d449c753806c0225ba3bf0e077a4f6023f2170e55f32b26a26c9",
+          "bytes": 17057,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/splashed-ink-landscape-thumb.jpg",
+          "sha256": "88e468d889a2fbb5a2340ba093ccaa2da2a68b3f235165fa58b0e1c0761dd0c6",
+          "bytes": 102801,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji0-thumb.jpg",
+          "sha256": "36f5902373051c512e6b359698b094fc8cf961e9e913a3255a36187ef6b17757",
+          "bytes": 80238,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji1-thumb.jpg",
+          "sha256": "6b6e6f0552039b8492036482d389818001565d1b3c1f033f330c161db87836bf",
+          "bytes": 82486,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji2-thumb.jpg",
+          "sha256": "2761e28e16d3e9a2f5ab27e600685fdd0cbd5b48937facbc680cbfb2b49a9a76",
+          "bytes": 78279,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji3-thumb.jpg",
+          "sha256": "de2e6932875382fa783e96bc1f4f995d721868c9d4f9650d71dd3d0c22ec0fc2",
+          "bytes": 81497,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji4-thumb.jpg",
+          "sha256": "abcccb99c4847bdc15cdd0401912c0542a2df7c51d88a9b4466c9b8bb3e0387a",
+          "bytes": 91404,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji5-thumb.jpg",
+          "sha256": "f63f089d69be1890a08d7789b74522e9b3e5174a221f8eeaea44edcb52c0cc8c",
+          "bytes": 85123,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji6-thumb.jpg",
+          "sha256": "5b55739a5a49bf7e1d78836cd070197f0313497da19f0ed0841c86d7948d5717",
+          "bytes": 88686,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji7-thumb.jpg",
+          "sha256": "6d46d0d1756c8402c0ee57af72cff5d5a6934e463ea3fea93902e6bf58e33b23",
+          "bytes": 85693,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji8-thumb.jpg",
+          "sha256": "fe9a8dccdbb3c54199c2d35eeadd609e48be531a24de51036c5ed9d8fa00fa3a",
+          "bytes": 80239,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/ryoanji9-thumb.jpg",
+          "sha256": "46b3484d2c863bb189706f44719f468bf4d3ab53c643b042a5f26d2670ab0f4d",
+          "bytes": 85991,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSwindow-thumb.jpg",
+          "sha256": "56e905854be9159e465a410d10311bdb0cc9bd7d74ebbf97677e9265bca1f6de",
+          "bytes": 3268,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSgarden1-thumb.jpg",
+          "sha256": "b5b80ab98c065420164887739609d8fbbb363d896b1ac9016a0db9253e05a068",
+          "bytes": 4653,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSrocks1-thumb.jpg",
+          "sha256": "e2db1b348c62b8e55b9a86261e32c256dfd169fd2a0aa6b0854a19301b07d7db",
+          "bytes": 4866,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSfathers1-thumb.jpg",
+          "sha256": "85cd8970c2f4f37f69afd9eda7de53b5f4819f575ffc5be8b77908468f29368f",
+          "bytes": 5272,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSfathers2-thumb.jpg",
+          "sha256": "6add1ba504557f6185a9daa4ecc4c4bfca2a962e080c07ceba55ebf4d0f79a62",
+          "bytes": 5608,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSrocks2-thumb.jpg",
+          "sha256": "0c167f94476050fd7f5441e5aba2cc3002147c86d6e93d0087ab0b6af4500dea",
+          "bytes": 4725,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSfathers3-thumb.jpg",
+          "sha256": "c5346378b1e25791235c6be5ad463246e2a36f62487236ab07704d4d2b2c1806",
+          "bytes": 6715,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSrocks3-thumb.jpg",
+          "sha256": "5ea3f792ee63514dcbebde3719ca4c5a3bee1208e1878bc91eed68bb2eb923a8",
+          "bytes": 6062,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/LSgarden2-thumb.jpg",
+          "sha256": "7c49995c875e351086ef0941438114b31fcb7165713125eaf9754cdca344f536",
+          "bytes": 4252,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-1-thumb.jpg",
+          "sha256": "c88895ca52fb9132187a637e8ef146bc478cb6076d6aa9ac61b2888078e0e2d0",
+          "bytes": 4860,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-2-thumb.jpg",
+          "sha256": "f51868853816722f1b4e3ec526f76ddc9a1b764feffdd9e969e5f2badacd3c72",
+          "bytes": 5547,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-3-thumb.jpg",
+          "sha256": "9ef085ccb694baa5fb56f49eee26b6a1143a49f3eb34cf5322664761e3668281",
+          "bytes": 8615,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-4-thumb.jpg",
+          "sha256": "215cff1e345966e8847b029a53adf9c063adb990633ac0b7e139a68cc8c9d4ef",
+          "bytes": 6004,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-5-thumb.jpg",
+          "sha256": "3cb47a622f0594fcb5347a10773a04e6d02a08ad548fb18a4fb38fba6a528237",
+          "bytes": 6786,
+          "kind": "image"
+        },
+        {
+          "path": "en/japanese-aesthetics/TS-6-thumb.jpg",
+          "sha256": "3bc83b7927c3cae3a3e9b19b203836b262b29029e0d85a4838da9fc82cfc6613",
+          "bytes": 6813,
+          "kind": "image"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "japanese-confucian",
       "fetched_at": "2026-10-26T20:40:19Z",
       "source_url": "https://plato.stanford.edu/entries/japanese-confucian/",
@@ -66700,6 +67002,53 @@
       }
     },
     {
+      "slug": "justice",
+      "fetched_at": "2026-10-27T11:37:45Z",
+      "source_url": "https://plato.stanford.edu/entries/justice/",
+      "title": "Justice",
+      "authors": [
+        "Miller, David"
+      ],
+      "pubinfo": {
+        "first_published": "Jun 26, 2017",
+        "substantive_revision": "Jan 19, 2026"
+      },
+      "in_article_markers": true,
+      "zh_doc": "j/justice.md",
+      "archinfo": {
+        "latest_edition": "Spring 2026",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Spring 2025",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2023",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Fall 2021",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Fall 2017",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Spring 2026",
+      "files": [
+        {
+          "path": "en/justice/index.html",
+          "sha256": "5d7d80dec97fbecd0b1a17f03e4eccab40be0c4f2908af3395e4e3bc04651de1",
+          "bytes": 124013,
+          "kind": "main"
+        }
+      ],
+      "missing": []
+    },
+    {
       "slug": "justice-bad-luck",
       "fetched_at": "2026-10-26T20:40:33Z",
       "source_url": "https://plato.stanford.edu/entries/justice-bad-luck/",
@@ -67219,6 +67568,53 @@
         "images": [],
         "notes": 18
       }
+    },
+    {
+      "slug": "justice-moral-psych",
+      "fetched_at": "2026-10-27T11:36:09Z",
+      "source_url": "https://plato.stanford.edu/entries/justice-moral-psych/",
+      "title": "Distributive Justice and Empirical Moral Psychology",
+      "authors": [
+        "Miller, Christian B."
+      ],
+      "pubinfo": {
+        "first_published": "Dec 18, 2015",
+        "substantive_revision": "May 30, 2025"
+      },
+      "in_article_markers": true,
+      "zh_doc": "j/justice-moral-psych.md",
+      "archinfo": {
+        "latest_edition": "Summer 2025",
+        "latest_change_type": "substantive content change",
+        "history": [
+          {
+            "edition": "Fall 2020",
+            "change_type": "substantive content change"
+          },
+          {
+            "edition": "Winter 2017",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2016",
+            "change_type": "minor correction"
+          },
+          {
+            "edition": "Winter 2015",
+            "change_type": "first archived"
+          }
+        ]
+      },
+      "archive_edition": "Summer 2025",
+      "files": [
+        {
+          "path": "en/justice-moral-psych/index.html",
+          "sha256": "0e16c1ed5912ee0841a96f6b82dcebce868acbb131bf664abac82394bd56952b",
+          "bytes": 110609,
+          "kind": "main"
+        }
+      ],
+      "missing": []
     },
     {
       "slug": "justice-retributive",
@@ -138416,5 +138812,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-27T07:32:49Z"
+  "updated_at": "2026-10-27T11:37:54Z"
 }

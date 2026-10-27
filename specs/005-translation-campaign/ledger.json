@@ -2,10 +2,11 @@
  "version": 1,
  "batches": {
   "1": {
-   "phase": "pending",
-   "claimed_by": null,
-   "claimed_at": null,
-   "note": ""
+   "phase": "convert",
+   "claimed_by": "干执行1",
+   "claimed_at": "2026-10-27T11:31:02Z",
+   "note": "1/1 镜像齐",
+   "advanced_at": "2026-10-27T11:31:02Z"
   },
   "a": {
    "phase": "intake",
@@ -63,10 +64,11 @@
    "note": ""
   },
   "j": {
-   "phase": "pending",
-   "claimed_by": null,
-   "claimed_at": null,
-   "note": ""
+   "phase": "convert",
+   "claimed_by": "干执行3",
+   "claimed_at": "2026-10-27T11:44:42Z",
+   "note": "37/37 镜像齐",
+   "advanced_at": "2026-10-27T11:44:42Z"
   },
   "k": {
    "phase": "pending",
@@ -159,11 +161,12 @@
    "note": ""
   },
   "z": {
-   "phase": "pending",
-   "claimed_by": null,
-   "claimed_at": null,
-   "note": ""
+   "phase": "convert",
+   "claimed_by": "干执行2",
+   "claimed_at": "2026-10-27T11:31:24Z",
+   "note": "6/6 镜像齐",
+   "advanced_at": "2026-10-27T11:31:25Z"
   }
  },
- "updated_at": "2026-10-27T11:13:33Z"
+ "updated_at": "2026-10-27T11:44:42Z"
 }
