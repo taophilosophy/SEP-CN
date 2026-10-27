@@ -628,10 +628,12 @@ def convert_notes(html, slug):
 
 
 def convert_supplement(html, slug, base):
+    m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
+    article = html[m.end():e.start()] if (m and e) else html
     ctx = Ctx(slug)
-    html = strip_closed_comments(html)
-    html, stash = protect_cross_block_math(html)
-    render_blocks(extract_blocks_raw(html), ctx)
+    article = strip_closed_comments(article)
+    article, stash = protect_cross_block_math(article)
+    render_blocks(extract_blocks_raw(article), ctx)
     text = restore_cross_block_math('\n'.join(ctx.out).strip() + '\n', stash)
     header = '# %s — %s（supplement）\n\n> （《%s》词条补充材料，源：plato.stanford.edu/entries/%s/%s.html）\n\n' % (
         slug, base, slug, slug, base)
