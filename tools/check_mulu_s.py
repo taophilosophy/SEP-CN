@@ -29,7 +29,11 @@ with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
     for line in f:
         m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
         if m:
-            summary[m.group(2)] = unescape(m.group(1))
+            # ADR-0007：别名行（— see）链到目标词条路径，不得覆盖条目行标题
+            if '— see' in m.group(1) or '——见' in m.group(1):
+                summary.setdefault(m.group(2), unescape(m.group(1)))
+            else:
+                summary[m.group(2)] = unescape(m.group(1))
 
 # mu-lu-s.md 链接
 mulu = {}  # path -> list of titles

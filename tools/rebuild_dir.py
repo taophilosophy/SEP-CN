@@ -146,7 +146,8 @@ def entry_slug(english, authors, by_title, tokset=None):
                            and difflib.SequenceMatcher(None, n, close[0]).ratio()
                            > difflib.SequenceMatcher(None, n, close[1]).ratio() + 0.05):
         cands = by_title[close[0]]
-        if not authors or author_overlap(authors, cands[0][1]) >= 0.4:
+        # 模糊匹配必须有作者重合佐证（无作者行可能是导航节点，禁走模糊兜底）
+        if authors and author_overlap(authors, cands[0][1]) >= 0.4:
             return cands[0][0]
     return None
 
@@ -169,7 +170,20 @@ class Mapper:
         self.used = {}       # slug -> line_no（去重）
         self.review = []     # 无法解析被丢弃/挂起的行
         self.children = set()  # 有更深缩进子行的行号（导航节点判定用）
+        self.deferred = []     # 派生 slug 行：finalize 二次裁决
+        self.deferred_drop = set()
         self.stats = {"front": 0, "entry": 0, "alias": 0, "dup": 0, "junk": 0, "nav": 0, "review": 0}
+
+    def finalize(self):
+        """derived 行二次裁决：正式条目已占用的 slug 让位（真实条目优先于派生/导航行）。"""
+        for dslug, line_no, title, old_path in self.deferred:
+            if dslug in self.used:
+                self.stats["dup"] += 1
+                self.deferred_drop.add(line_no)
+                self.review.append({"line_no": line_no, "title": title, "path": old_path,
+                                    "reason": "派生 slug %s 与正式条目重复，行已移除" % dslug})
+            else:
+                self.used[dslug] = line_no
 
     def resolve(self, title, old_path, line_no):
         """返回新路径或 None（丢弃）。"""
@@ -218,8 +232,9 @@ class Mapper:
         # 解析失败：真实条目（有作者）保留派生 slug 行待人工核对；导航节点保留缩进链 README
         if authors and eng:
             dslug = norm(eng)
-            if dslug and dslug not in self.used:
-                self.used[dslug] = line_no
+            if dslug:
+                # 路径暂定，不占用 used；finalize 中正式条目优先
+                self.deferred.append((dslug, line_no, title, old_path))
                 self.stats["entry"] += 1
                 self.review.append({"line_no": line_no, "title": title, "path": old_path,
                                     "reason": "英文标题与快照不匹配，已用派生 slug %s，待人工核对" % dslug})
@@ -242,16 +257,28 @@ def rewrite_toc(src, dst, mapper):
         j, m2, _2 = lines[idx + 1]
         if m and m2 and len(m2.group(1)) > len(m.group(1)):
             mapper.children.add(i)
-    out, kept = [], 0
+    pend = []
     for i, m, raw in lines:
         if not m:
-            out.append(raw)
             continue
         indent, title, old_path = m.group(1), m.group(2), m.group(3)
         newp = mapper.resolve(title, old_path, i)
         if newp is None:
             continue
-        out.append("%s* [%s](%s)" % (indent, title, newp))
+        pend.append((i, indent, title, newp))
+    mapper.finalize()
+    out, kept = [], 0
+    for i, m, raw in lines:
+        if not m:
+            out.append(raw)
+            continue
+        if m.group(0) and i in mapper.deferred_drop:
+            continue
+        hit = next(((ind, t, p) for ln, ind, t, p in pend if ln == i), None)
+        if hit is None:
+            continue
+        ind, t, p = hit
+        out.append("%s* [%s](%s)" % (ind, t, p))
         kept += 1
     with open(dst, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(out) + "\n")

@@ -44,7 +44,7 @@ for t, p in missing[:30]:
 ref = set(p for _, p, _ in entries)
 orphans = []
 for dirpath, dirnames, filenames in os.walk(root):
-    dirnames[:] = [d for d in dirnames if d not in ('.git', '.gitbook', 'node_modules', 'script')]
+    dirnames[:] = [d for d in dirnames if d not in ('.git', '.gitbook', 'node_modules', 'script', 'yuanwen', 'en')]
     for fn in filenames:
         if fn.endswith('.md'):
             full = os.path.join(dirpath, fn)
@@ -66,9 +66,10 @@ print('filename violations: %d' % len(bad))
 for b in bad[:20]:
     print('  BADNAME: %s' % b)
 
-# duplicate paths
+# duplicate paths（ADR-0007：别名行链目标词条路径、导航节点链 README 属预期共享，不计入硬错误）
 from collections import Counter
-c = Counter(p for _, p, _ in entries)
+c = Counter(p for t, p, _ in entries
+            if '— see' not in t and '——见' not in t and p != 'README.md')
 dups = [(p, n) for p, n in c.items() if n > 1]
 print('duplicate path entries: %d' % len(dups))
 for p, n in dups[:20]:
