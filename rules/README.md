@@ -23,6 +23,22 @@
 | [06-governance.md](06-governance.md) | 软件工程治理：单一事实源登记表、变更管理、并发会话纪律、质量门 | 全部会话 |
 | [07-academic-norms.md](07-academic-norms.md) | 哲学学术规范：版本事实、引文文献、禁幻觉引文、结构完整、译注、审校挂钩 | 译文与校对会话 |
 
+## 规则地图（统一规范化存储，2026-10-27 分门别类）
+
+每一类流程规则/文档有唯一存放位置；新增内容先归入对应类别，不散落。
+
+| 类别 | 存放位置 | 内容 | 权属 |
+| ---- | ---- | ---- | ---- |
+| 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
+| 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录） | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
+| 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
+| 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist） | 单项工程规格与验收 | 该工程会话 |
+| 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
+| 执行记录 | `specs/<NNN>-*/execution-log.md`（+ demo-log、分析记录） | 干执行凭证与流程修订输入 | 该工程会话 |
+| 散页标准 | `fang-fa-lun/gong-cheng-fang-fa.md`（翻译工程标准 v1.0）等 | 各会话产出的操作性标准，**待逐步折叠进 rules/**，折叠前以本表登记为准 | 原产出会话 |
+| 任务状态 | `tasks/<slug>.json` | 翻译/更新任务 | 对应会话 |
+| 进度汇总 | `PROGRESS.md`（生成物，不手改） | `tools/progress.py` 输出 | 管线 |
+
 ## 快速判例
 
 * 改标题 → 只改 `SUMMARY.md`，文件 H1 交由 CI 同步（[01](01-repository-structure.md)）。

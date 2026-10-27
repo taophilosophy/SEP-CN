@@ -56,6 +56,6 @@
 
 ## 单体文件治理（ADR-0004）
 
-* 叙事/规则/规格/指南类 markdown 单文件超过 **1000 行或 100KB** 任一，必须按文件夹拆分：`X.md` → `X/index.md` + 按节/附录归类的拼音命名子文件；`git mv` 保留历史；SUMMARY 收录状态不变。
+* 叙事/规则/规格/指南类 markdown 单文件超过 **1000 行或 100KB** 任一，必须按文件夹拆分：`X.md` → `X/index.md` + 按节/附录归类的拼音命名子文件（注：拼音命名仅适用于叙事文档子文件，与词条 SEP slug 命名分属两个约定，见上文废除条款）；`git mv` 保留历史；SUMMARY 收录状态不变。
 * 豁免：登记册（`SUMMARY.md`、`mu-lu-s.md`、`yi-zhe-shuo-ming.md`）、生成物（`PROGRESS.md`）、发布词汇表（`qian-yan/ci-hui-biao.md`）；豁免文件超限须走 spec 改解析器后另行裁定。
 * 门禁 `python tools/check_doc_size.py`（本地与 `checks.yml`）；SEP 词条本体不在管辖内。
