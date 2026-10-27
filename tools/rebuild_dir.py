@@ -279,7 +279,7 @@ def cmd_stubs():
         if not m:
             continue
         title, path = m.group(2), m.group(3)
-        if not path.endswith("/index.md") or "/" not in path[:-len("/index.md")]:
+        if not path.endswith("/index.md"):
             continue
         slug = path[:-len("/index.md")]
         if "/" in slug or not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9.\-]*", slug):
