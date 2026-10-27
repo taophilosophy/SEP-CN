@@ -42,8 +42,11 @@ HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名'
 
 
 def norm_key(text):
-    """术语键：剥斜体标记与空白，casefold 比对。"""
-    return re.sub(r'\s+', ' ', text.replace('*', '').strip()).casefold()
+    """术语键：剥斜体标记与空白、变音符折叠（ADR-0013 同人归并）、casefold 比对。"""
+    import unicodedata
+    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
+    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
+    return re.sub(r'\s+', ' ', s).casefold()
 
 
 def translations(cell):

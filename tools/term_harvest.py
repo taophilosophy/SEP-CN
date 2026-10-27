@@ -64,21 +64,37 @@ united'''.split())
 PHRASE_MIN_FREQ = 20   # 全库阈值；低频尾部留存 harvest-cache（本地），随词条翻译时核定
 OTHER_MIN_FREQ = 2
 MIN_FREQ = {'phrase': PHRASE_MIN_FREQ, 'ism': OTHER_MIN_FREQ,
-            'italic': OTHER_MIN_FREQ, 'quoted': 3, 'person': 5}
-WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]+")
+            'italic': OTHER_MIN_FREQ, 'quoted': 3, 'person': 5, 'arabic': 2}
+# 词元：拉丁字母含扩展区（变音符 Suhrawardî/Ṣadrā 与 ʿayn/hamza 首字符，ADR-0013）
+UP = 'A-Z\u00C0-\u024F\u1E00-\u1EFF\u02BE\u02BF'
+LO = 'a-z\u00DF-\u024F\u1E00-\u1EFF\u02BE\u02BF'
+WORD_RE = re.compile(r'[' + UP + LO + r'][' + UP + LO + r'\u2018\u2019\'\-]+')
 QUOTED_RE = re.compile(r'\u201c([^\u201c\u201d]{2,80})\u201d')
 ITALIC_RE = re.compile(r'\*([^*\n]{2,80})\*')
-ISM_RE = re.compile(r"\b([A-Za-z][A-Za-z'\-]{4,}isms?)\b", re.I)
+ISM_RE = re.compile(r'\b([A-Za-z][A-Za-z\'\-]{4,}isms?)\b', re.I)
 ISM_STOP = {'organism', 'organisms', 'criticism', 'criticisms', 'mechanisms',
             'mechanism', 'syllogism', 'syllogisms', 'witticism', 'witticisms',
             'anachronism', 'anachronisms', 'neologism', 'neologisms',
             'paradoxism'}  # 假词干/泛词（term-candidates pool_sweep 先例扩展）
-CAP_PAIR_RE = re.compile(r'\b([A-Z][a-z]{2,})\s+([A-Z][a-z]{2,})\b')
+CAP_PAIR_RE = re.compile(
+    r'\b([' + UP + r'][^\W\d_]{2,})\s+([' + UP + r'][^\W\d_]{2,})\b')
+# 阿位专名路由（ADR-0013）：含定冠词同化形/谱系词/尊称的专名序列
+ARAB_PART = (r'(?:[' + UP + r'][^\W\d_]*(?:-[^\W\d_]+)*|'  # 含 Al-Fârâbî 型连字符词
+             r'(?:al|ad|as|at|an|ar|az|adh)-[^\W\d_]*|'
+             r'ibn|bin|b\.(?=\s)|abu|ab\u016B|abd|umm|dhu|dh\u016B)')
+ARAB_NAME_RE = re.compile(
+    r'\b(?:' + ARAB_PART + r')(?:[\s\u2019](?:' + ARAB_PART + r'))+\b')
+ARAB_PARTICLES = re.compile(
+    r'^(?:(?:al|ad|as|at|an|ar|az|adh)-|ibn|bin|b\.|abu|abū|abd|umm|dhu|dhū)',
+    re.I)
 
 
 def norm_key(text):
-    """候选键：剥斜体与空白、casefold（与 check_terms 同规）。"""
-    return re.sub(r'\s+', ' ', text.replace('*', '').strip()).casefold()
+    """候选键：剥斜体与空白、变音符折叠、casefold（ADR-0013 同人归并）。"""
+    import unicodedata
+    s = unicodedata.normalize('NFD', text.replace('*', '').strip())
+    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
+    return re.sub(r'\s+', ' ', s).casefold()
 
 
 def clean_phrase(text):
@@ -119,7 +135,9 @@ def extract_slug(path):
         counter[key] += 1
         forms.setdefault(key, raw.strip())
         prev = types.get(key)
-        if prev != typ:
+        if 'arabic' in (prev, typ):
+            types[key] = 'arabic'  # ADR-0013：阿位专名优先标注
+        elif prev != typ:
             types[key] = 'person' if 'person' in (prev, typ) else (prev or typ)
 
     for m in ITALIC_RE.finditer(body):
@@ -137,6 +155,12 @@ def extract_slug(path):
         pair = '%s %s' % (m.group(1), m.group(2))
         if m.group(1).casefold() not in STOPWORDS:
             add(pair, 'person')
+    # 阿位专名（ADR-0013）：序列内含定冠词/谱系词/尊称颗粒才算
+    for m in ARAB_NAME_RE.finditer(body):
+        seq = m.group(0).strip()
+        toks = seq.replace('\u2019', ' ').split()
+        if any(ARAB_PARTICLES.match(t) for t in toks):
+            add(seq, 'arabic')
     # 概念短语：段落词序列滑窗（停用词断窗）
     for para in body.split('\n'):
         words = WORD_RE.findall(para)
@@ -288,8 +312,9 @@ def main(argv=None):
         'files_processed': total,
         'candidates': len(pool['candidates']),
         'new_this_run': new_hits,
-        'method': '五路提取：斜体/引语/-ism/高频短语/人名序列；与两登记册+词汇表+候选池求差；'
-                  '按型阈值 phrase=%d ism/italic=%d quoted=3 person=5；'
+        'method': '六路提取：斜体/引语/-ism/高频短语/人名序列/阿位专名（ADR-0013，变音符折叠键）；'
+                  '与两登记册+词汇表+候选池求差；'
+                  '按型阈值 phrase=%d ism/italic/arabic=%d quoted=3 person=5；'
                   '低频尾部留存单篇缓存（results/harvest-cache/，本地）；' % (
                       PHRASE_MIN_FREQ, OTHER_MIN_FREQ),
         'usage': 'status 状态机沿用 term-candidates.json：new→published@日期|held:理由|rejected:理由',

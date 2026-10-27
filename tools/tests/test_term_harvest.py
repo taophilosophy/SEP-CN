@@ -91,6 +91,33 @@ class TermHarvestTests(unittest.TestCase):
         self.assertEqual(second['meta']['files_processed'],
                          first['meta']['files_processed'])
 
+    def test_arabic_names_and_folding(self):
+        # ADR-0013：阿位专名路由 + 变音符折叠归并（虚构名避开真实登记差集）
+        doc = os.path.join(self.corpus, 'doc-arabic.md')
+        open(doc, 'w', encoding='utf-8').write(
+            'Fakhr al-Qūx al-Zâhir and Ibn Quxâz both wrote on kalam. '
+            'Ikhwān al-Quxāʾ compiled the epistles. Al-Qûxbârî met '
+            'al-Quxbari in thought. Ibn Quxâz reappears here. '
+            'Abu Nasr al-Quxbari agrees.')
+        code, out = self.run_harvest('--letter', 'a')
+        self.assertEqual(code, 0)
+        pool = self.load_pool()
+        keys = {c['en']: c for c in pool['candidates']}
+        # 变音符完整（不再截断为 Fakhr al-Q）
+        self.assertIn('Fakhr al-Qūx al-Zâhir', keys)
+        self.assertEqual(keys['Fakhr al-Qūx al-Zâhir']['type'], 'arabic')
+        # 折叠归并：Al-Qûxbârî / al-Quxbari / Abu Nasr al-Quxbari 同键
+        merged = [k for k in keys
+                  if k.casefold().replace('abu nasr ', '') == 'al-quxbari']
+        self.assertTrue(merged, 'al-Quxbari 折叠键应入池')
+        # 阿位路由类型
+        self.assertIn('Ibn Quxâz', keys)
+        self.assertEqual(keys['Ibn Quxâz']['type'], 'arabic')
+        # 无颗粒的普通大写二元组不进 arabic 类型
+        for c in pool['candidates']:
+            if c['en'] == 'United Provinces':
+                self.assertNotEqual(c['type'], 'arabic')
+
     def test_missing_corpus_errors(self):
         code, out = self.run_harvest('--corpus',
                                      os.path.join(self.tmp, 'nope'))
