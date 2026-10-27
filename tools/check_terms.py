@@ -38,7 +38,7 @@ REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 GLOSSARY = os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md')
 DEPRECATED_MARK = '已废弃'
 HEADER_WORDS = {'原文', '译法', '首现', '依据', '裁定日期', '人名', '文献',
-                '条目', 'term'}
+                '条目', 'term', '原文形态', '通行中文'}
 
 
 def norm_key(text):
