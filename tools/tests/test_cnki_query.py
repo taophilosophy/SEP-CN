@@ -15,12 +15,12 @@ FIXTURE_PAYLOAD = {
     "result": {"standardVO": {
         "totalRecords": 2,
         "tmWordList": [
-            {"cn": "溯因推理", "en": "abductive reasoning",
-             "standardCode": "GB/T XXXX", "standardName": "测试标准"},
-            {"cn": "溯因", "en": "abduction", "standardCode": None,
-             "standardName": None},
-        ]}},
-}
+            {"cnName": "溯因推理", "enName": "abductive reasoning",
+             "standardCode": "GB/T XXXX", "standardName": "测试标准",
+             "subjectName": "计算机科学技术"},
+            {"cnName": "溯因", "enName": "abduction", "standardCode": None,
+             "standardName": None, "subjectName": None},
+        ]}}},
 
 
 class CnkiQueryTests(unittest.TestCase):
