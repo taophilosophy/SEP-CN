@@ -1,1 +1,0 @@
-# *道德 morality
