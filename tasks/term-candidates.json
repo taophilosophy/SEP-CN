@@ -14,6 +14,7 @@
     "usage": "status 三值：published@日期（已经 publish_terms.py 发布进双表）｜held:理由（挂起，随相关词条或下一批次）｜rejected:理由（驳回）。首批 2026-10-27 经 A/B/C 分档裁定发布 37 条",
     "batch1": "2026-10-27 发布 37 条（manifest script/tmp/batch1.json，A 档直裁 32 + B 档联网核查 5：dialetheism 双面真理论、total evidence 总证据、universal suspension 普遍悬置、common cause principle 共因原则、Quine 蒯因）",
     "batches_2_5": "2026-10-27 递归执行第二至五批：batch2 深挖 23 条（c8357dae）、batch3 academic-freedom 定向 5 条（afc5dd60）、batch4 语境分支 4 条、batch5 深层 -ism 与短语 39 条，共 68 条；manifest 入库于 tasks/manifests/（batch4 为 2026-10-27-batch4.json）",
+    "batch7": "2026-10-27 全目录语料（18→2301 件镜像，他会话全目录抓取）池重建后发布 26 条高频标准术语（Capitalism/Marxism/reductionism/internalism/constructivism/Kantianism/Aristotelianism/voluntarism/functionalism/Neoplatonism/foundationalism/presentism/panpsychism/paternalism/occasionalism 等）；提取器同轮修复：organism(s) 假词干停用词、全目录站点导航停用词。发布表 706→732 行",
     "pool_sweep": {
       "date": "2026-10-27",
       "held": ["possibilism", "priorism", "extramural speech", "local causality", "causal locality", "factorizability condition", "observation categoricals", "sentient experience", "buddhist schools", "early buddhist", "intrinsic nature", "political metaphor", "rational love", "wash out", "priors", "prior probabilities", "the inference that makes science", "the best of a bad lot", "argument of the bad lot", "ordinary world", "analytically", "textbook version of abduction", "explanationists", "probable truth", "approximate truth", "likelihood", "Inference to the Worst Explanation", "regimented theory"],
