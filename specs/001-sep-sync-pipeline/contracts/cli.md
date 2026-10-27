@@ -103,9 +103,11 @@
 用法: python tools/yuanwen.py <slug>... | --all-baselined [--summary]
 输出: {"converted": [{slug, md, cite_markers, cite_defs, supplements, notes}],
        "failures": [...], "summary_links_rewritten": N}
-行为: en/<slug>/index.html（不可变快照）→ yuanwen/<字母>/<slug>.md 确定性转换；
-      脚注/补充材料/图片镜像；参考文献转引用注释（[^key]）；
-      --summary 重建 yuanwen/SUMMARY.md（已转换条目改链 yuanwen 路径）；
+行为: en/<slug>/index.html（不可变快照）→ yuanwen/<slug>/index.md 确定性转换
+      （ADR-0007 上游同构：yuanwen/<slug>/ 与中文侧、上游 entries/<slug>/ 逐字符镜像）；
+      脚注/补充材料（yuanwen/<slug>/<x>.md）/图片（yuanwen/<slug>/ 上游同名）镜像；
+      参考文献转引用注释（[^key]）；
+      --summary 重建 yuanwen/SUMMARY.md（两侧相对路径逐字符一致，直接拷贝）；
       转换登记（md 哈希+源哈希）写入 baseline/entries.json。
       数学保真（2026-10-27 裁定）：跨块 \(…\)/\[…\] 公式整体保护不腰斩；
       公式内部原样保留，仅定界符统一 $…$/$$…$$、空白折叠；

@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """原文 Markdown 镜像生成器（yuanwen/）——用户 2026-10-27 裁定。
 
-把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<字母>/<slug>.md：
-- 结构镜像中文仓库：字母目录 + yuanwen/SUMMARY.md（--summary 生成，已转换条目改链 yuanwen 路径）
+把 en/<slug>/index.html（不可变原始抓取物）确定性转换为 yuanwen/<slug>/index.md：
+- 结构与中文仓库逐字符镜像（ADR-0007 上游同构）：yuanwen/<slug>/，与上游 entries/<slug>/ 同构（省 entries/ 层）
+- 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，不入库）；yuanwen/ 只存转换后的 md 镜像
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
-- 补充材料：en/<slug>/<x>.html → yuanwen/<字母>/<slug>.<x>.md，正文内相对互链
-- 图片：本地化为 yuanwen/assets/<slug>/（用户 2026-10-27 裁定复制而非外链），
-  正文 ![](../assets/<slug>/<文件名>) 相对引用
+- 补充材料：en/<slug>/<x>.html → yuanwen/<slug>/<x>.md，正文内相对互链
+- 图片：本地化为 yuanwen/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
+  正文 ![](<文件名>) 相对引用
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
   数学定界符、DK 编号、古代作品行号原样保留；<sub>/<sup> 标签保留（工作底稿不受
   发布体例"禁止 HTML"约束，登记 demo-log）
@@ -291,7 +292,8 @@ def figure_to_md(inner, slug):
         src = im.group(1)
         if not src.startswith(('http', '/', '../')):
             alt = re.search(r'alt="([^"]*)"', im.group(0))
-            out.append('![%s](../assets/%s/%s)' % ((alt.group(1) if alt else ''), slug, src))
+            # ADR-0007：图片本地化于词条目录 yuanwen/<slug>/（上游同名），同目录相对引用
+            out.append('![%s](%s)' % ((alt.group(1) if alt else ''), src))
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
     if fl:
         cap = inline_to_md(fl.group(1), slug)
@@ -549,8 +551,7 @@ def convert_entry(slug):
     authors = [unescape(a) for a in
                re.findall(r'<meta name="citation_author" content="([^"]*)"', html)]
 
-    letter = slug[0]
-    ydir = repo_path('yuanwen', letter)
+    ydir = repo_path('yuanwen', slug)
     os.makedirs(ydir, exist_ok=True)
 
     ctx = Ctx(slug)
@@ -572,16 +573,15 @@ def convert_entry(slug):
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
-    # 图片本地化（用户 2026-10-27 新增要求）：复制进 yuanwen/assets/<slug>/
-    adir = repo_path('yuanwen', 'assets', slug)
+    # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0007 上游同名，存词条目录）
+    adir = ydir
     image_files = []
     for f in sorted(os.listdir(src_dir)):
         if not f.endswith('.html'):
-            os.makedirs(adir, exist_ok=True)
             data = open(os.path.join(src_dir, f), 'rb').read()
             with open(os.path.join(adir, f), 'wb') as fh:
                 fh.write(data)
-            image_files.append('yuanwen/assets/%s/%s' % (slug, f))
+            image_files.append('yuanwen/%s/%s' % (slug, f))
 
     # 补充材料
     supp_files = []
@@ -589,9 +589,9 @@ def convert_entry(slug):
         if f.endswith('.html') and f not in ('index.html', 'notes.html'):
             base = f[:-5]
             sp = convert_supplement(read_text(os.path.join(src_dir, f)), slug, base)
-            sp_path = os.path.join(ydir, '%s.%s.md' % (slug, base))
+            sp_path = os.path.join(ydir, base + '.md')
             write_text_verified(sp_path, sp)
-            supp_files.append('%s.%s.md' % (slug, base))
+            supp_files.append(base + '.md')
 
     # 引用注释（文献 → 脚注）
     keys = build_cite_keys(ctx.bib_entries)
@@ -603,13 +603,13 @@ def convert_entry(slug):
 
     md = restore_cross_block_math(md, stash)
 
-    md_path = os.path.join(ydir, slug + '.md')
+    md_path = os.path.join(ydir, 'index.md')
     write_text_verified(md_path, md + '\n')
     if not os.path.exists(md_path):
         raise OSError('yuanwen write failed: %s' % md_path)
 
     update_baseline(slug, {'yuanwen': {
-        'md': 'yuanwen/%s/%s.md' % (letter, slug),
+        'md': 'yuanwen/%s/index.md' % slug,
         'sha256': sha256_file(md_path),
         'source_sha256': sha256_file(idx_path),
         'converted_at': utcnow_iso(),
@@ -619,34 +619,16 @@ def convert_entry(slug):
         'images': image_files,
         'notes': len(note_defs),
     }})
-    return {'slug': slug, 'md': 'yuanwen/%s/%s.md' % (letter, slug),
+    return {'slug': slug, 'md': 'yuanwen/%s/index.md' % slug,
             'cite_markers': cite_markers, 'cite_defs': cite_defs,
             'supplements': supp_files, 'notes': len(note_defs)}
 
 
 def write_summary():
-    """镜像根 SUMMARY.md → yuanwen/SUMMARY.md：已转换条目改链 yuanwen 路径。"""
-    base = load_json(repo_path('baseline', 'entries.json'))
-    zh2yuan = {}
-    for rec in base['entries']:
-        y = rec.get('yuanwen')
-        zh = rec.get('zh_doc') or (find_zh_doc(rec['slug'], rec.get('title'))
-                                   if y else None)
-        if y and zh:
-            zh2yuan[zh] = y['md']
+    """镜像根 SUMMARY.md → yuanwen/SUMMARY.md：ADR-0007 后两侧相对路径逐字符一致，直接拷贝。"""
     src = read_text(repo_path('SUMMARY.md'))
-    n = [0]
-
-    def repl(m):
-        target = m.group(1)
-        if target in zh2yuan:
-            n[0] += 1
-            return '](%s)' % zh2yuan[target]
-        return m.group(0)
-
-    out = re.sub(r'\]\(([^)]+\.md)\)', repl, src)
-    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), out)
-    return n[0]
+    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), src)
+    return 0
 
 
 # ------------------------------------------------------------------ main ----
