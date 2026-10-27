@@ -14,6 +14,7 @@
 import argparse
 import json
 import os as _os
+import subprocess
 import sys
 
 import os
@@ -141,6 +142,8 @@ def advance(slug, step, actor, evidence, unblock=False):
     if step != "done" and task["kind"] == "update" and step in ("s1", "s2") \
             and not evidence.startswith("changes:"):
         raise PreconditionError("update 任务的 %s 证据必须引用变更清单（evidence 以 changes: 开头）" % step)
+    if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
+        _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
     task["state"] = STEPS[step]
     task["steps"].append({"step": step, "status": "ok", "actor": actor,
                           "at": utcnow_iso(), "evidence": evidence})
@@ -153,6 +156,22 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+def _academic_gate(zh_doc, step):
+    """学术规范门禁挂钩（rules/07 衔接表、specs/003）：s3/r3 校次须 0 硬错误。
+
+    词汇表维护任务（glossary-maintenance）与无 zh_doc 的 intake 条目不设门。
+    """
+    if not zh_doc:
+        return
+    tool = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                         "tools", "check_academic.py")
+    r = subprocess.run([sys.executable, tool, "--docs", zh_doc, "--strict"],
+                       capture_output=True, text=True)
+    if r.returncode == 1:
+        raise PreconditionError("学术规范门禁未通过（%s 校次）：%s"
+                                % (step, r.stdout.strip()[-800:]))
 
 
 def clear(slug):

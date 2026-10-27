@@ -31,8 +31,15 @@ jobs:
       - name: 术语一致性门禁（tools/check_terms.py）
         run: python tools/check_terms.py
 
+      - name: 哲学学术规范门禁（tools/check_academic.py，rules/07）
+        run: python tools/check_academic.py
+
+      - name: 一键全量合规复核（tools/check_all.py）
+        run: python tools/check_all.py --quiet
+
       - name: 管线单元测试（tools/tests）
         run: python -m unittest discover -s tools/tests
 
 # baseline_audit.py 依赖本地 en/ 原始物（gitignore），仅在本地运行，不进 CI。
+# compare.py 依赖网络抓取，仅本地运行，不进 CI。
 # 规则见 rules/05-ci-and-tools.md；变更本工作流须同步该表。

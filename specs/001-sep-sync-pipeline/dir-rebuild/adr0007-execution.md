@@ -69,3 +69,10 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **mu-lu-s 分类更新**：补 5 条——亚里士多德子词条 2 条（嵌套）、arabic-islamic-essence（中世纪区）、academic-freedom（社会政治区）、naturalism-mathematics（数学哲学区）；断链 0、标题一致 0、重复 0。
 * **干执行验证（3 轮，礼貌 5 秒）**：fetch_catalog（1808 条目录快照 + diff，无上游变化）→ fetch_entry capitalism（en/capitalism/ 原始 HTML + baseline 登记，Fall 2026 存档版）→ yuanwen.convert_entry（yuanwen/c/capitalism.md 镜像，cite_defs 254）。全链跑通；capitalism zh_doc=None 为正确行为（未入 SUMMARY，译名登记后按 summary_sync apply-add 接入）。
 * **段级变更比较（US-3）**：目前仅有目录级 diff（fetch_catalog），段落级比较工具尚未实现，属 spec 001 后续工程。
+
+## 学术规范落地与 US-3 段落比较 — 2026-10-27
+
+* **tools/compare.py（spec 001 US-3 落地）**：抓取英文源最新快照（不覆盖 en/ 基线，礼貌 5 秒）与基线比较——节级拆分（h2 锚 id + 标题）、节级 added/removed/moved、modified 节内段落级 diff（difflib 附摘录）；每条变更映射 baseline.zh_doc 的 md 文档与 `## 节标题` 行号，无 zh_doc 标注待建任务；单元测试 tools/tests/test_compare.py（8 项）覆盖 added/removed/modified/映射/无变更。干执行：kant-transcendental 抓取比对报"无变更"（source_sha256 一致）。
+* **学术规范落地三件套**：① checks.yml CI 接入 check_academic + check_all --quiet；② task_ops.py advance() 审校挂钩——s3/r3 校次自动跑 check_academic --docs --strict，0 硬错误方可过（词汇表维护任务与无 zh_doc 条目豁免）；③ tools/check_all.py 一键全量合规复核（六项门禁 + 单元测试，--all 加 baseline_audit）。
+* **修复既有红灯**：test_check_academic 三个测试自 68be4fa 创建起即红（fixture gamma-doc.md 仅 7 非空行，按"存根=非空行≤10"规则被跳过，告警类断言永不触发）——fixture 增补占位段至 14 非空行后恢复；compare.py 模块导入的 stdout 重包在 unittest discover 下与同型操作相撞（旧 wrapper 回收关闭 buffer），加 UTF-8 守卫。
+* **同步**：rules/05（工具表 + 快速命令 + CI 清单）、contracts/cli.md（compare.py 契约）、rules/07 衔接表由挂钩自动执行。
