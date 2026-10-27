@@ -1,18 +1,11 @@
 {
-  "generated_at": "2026-10-26T19:43:36Z",
+  "generated_at": "2026-10-27T15:05:11Z",
   "add": [
     {
       "slug": "abortion",
       "title_en": "abortion, ethics of",
       "authors": "Elizabeth Harman",
       "proposed_file": "a/abortion.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "academic-freedom",
-      "title_en": "academic freedom",
-      "authors": "Jacob T. Levy",
-      "proposed_file": "a/academic-freedom.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -65,20 +58,6 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "arabic-islamic-essence",
-      "title_en": "essence and existence",
-      "authors": "Fedor Benevich",
-      "proposed_file": "a/arabic-islamic-essence.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "aristotle-text",
-      "title_en": "textual transmission of Aristotelian corpus",
-      "authors": "Justin Winzenrieth",
-      "proposed_file": "a/aristotle-text.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "branching-time",
       "title_en": "branching time",
       "authors": "Giuseppe Spolaore and Alberto Zanardo",
@@ -128,6 +107,13 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
+      "slug": "dai-zhen",
+      "title_en": "Dai Zhen",
+      "authors": "Frank Y. C. Chong and Chris Fraser",
+      "proposed_file": "d/dai-zhen.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
       "slug": "dehumanization",
       "title_en": "dehumanization",
       "authors": "Ben Phillips",
@@ -167,6 +153,13 @@
       "title_en": "jurisprudence, experimental",
       "authors": "Kevin Tobia, Guilherme Almeida, Karolina Prochownik, and Ivar Hannikainen",
       "proposed_file": "e/experimental-jurisprudence.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "feminism-objectification",
+      "title_en": "perspectives on objectification",
+      "authors": "Evangelia (Lina) Papadaki",
+      "proposed_file": "f/feminism-objectification.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -216,6 +209,13 @@
       "title_en": "Langer, Susanne",
       "authors": "Juliet Floyd",
       "proposed_file": "l/langer.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "logic-provability",
+      "title_en": "provability",
+      "authors": "Rineke (L.C.) Verbrugge",
+      "proposed_file": "l/logic-provability.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -275,13 +275,6 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "origin-descent",
-      "title_en": "from the <em>Origin of Species</em> to the <em>Descent of Man</em>",
-      "authors": [],
-      "proposed_file": "o/origin-descent.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "paradox-of-tragedy",
       "title_en": "paradox of tragedy",
       "authors": "Jonathan Gilmore",
@@ -296,45 +289,10 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "plato-cratylus",
-      "title_en": "<em>Cratylus</em>",
+      "slug": "plato-laws",
+      "title_en": "<em>Laws</em>",
       "authors": [],
-      "proposed_file": "p/plato-cratylus.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-ethics-politics",
-      "title_en": "ethics and politics in <em>The Republic</em>",
-      "authors": [],
-      "proposed_file": "p/plato-ethics-politics.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-parmenides",
-      "title_en": "<em>Parmenides</em>",
-      "authors": [],
-      "proposed_file": "p/plato-parmenides.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-sophstate",
-      "title_en": "method and metaphysics in the <em>Sophist</em> and <em>Statesman</em>",
-      "authors": [],
-      "proposed_file": "p/plato-sophstate.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-theaetetus",
-      "title_en": "on knowledge in the <em>Theaetetus</em>",
-      "authors": [],
-      "proposed_file": "p/plato-theaetetus.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "plato-timaeus",
-      "title_en": "<em>Timaeus</em>",
-      "authors": [],
-      "proposed_file": "p/plato-timaeus.md",
+      "proposed_file": "p/plato-laws.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -394,20 +352,6 @@
       "disposition": "ADD（需人工定中文标题）"
     },
     {
-      "slug": "richard-sophister",
-      "title_en": "Richard the Sophister [<em>Ricardus Sophista, Magister abstractionum</em>]",
-      "authors": [],
-      "proposed_file": "r/richard-sophister.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
-      "slug": "shaaban-robert-ethics",
-      "title_en": "Shaaban Robert’s virtue ethics",
-      "authors": "Dismas Masolo",
-      "proposed_file": "s/shaaban-robert-ethics.md",
-      "disposition": "ADD（需人工定中文标题）"
-    },
-    {
       "slug": "sign-language-semantics",
       "title_en": "sign language semantics",
       "authors": "Philippe Schlenker, Jonathan Lamberton, and Jeremy Kuhn",
@@ -419,6 +363,13 @@
       "title_en": "Sikh philosophy",
       "authors": "Arvind-Pal S. Mandair",
       "proposed_file": "s/sikh-philosophy.md",
+      "disposition": "ADD（需人工定中文标题）"
+    },
+    {
+      "slug": "social-procedures",
+      "title_en": "social procedures, formal approaches",
+      "authors": "Jan van Eijck and Rineke (L.C.) Verbrugge",
+      "proposed_file": "s/social-procedures.md",
       "disposition": "ADD（需人工定中文标题）"
     },
     {
@@ -459,1530 +410,845 @@
   ],
   "remove": [
     {
-      "line": 36,
-      "path": "a/chao-ju-zuo-yong-jian-liang-zi-li-xue-liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-s.md",
+      "line": 23,
+      "path": "a/aristotle-de-motu.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 71,
-      "path": "a/mei-xue-aesthetics/wei-te-gen-si-tan-jian-lu-de-wei-xi-wei-te-gen-si-tan-wei-te-gen-si-tan-de-mei-xue-wittgenstein-see.md",
+      "line": 24,
+      "path": "s/shared-agency.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 77,
-      "path": "a/fei-zhou-zhe-xue-africana-philosophy-lucius-t.-outlaw-jr.-and-chike-jeffers/xian-dai-fei-zhou-zhe-xue-contemporary-paul-c.-taylor.md",
+      "line": 43,
+      "path": "c/collingwood-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 78,
-      "path": "a/fei-zhou-zhe-xue-african-philosophy/README.md",
+      "line": 47,
+      "path": "d/dewey-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 83,
-      "path": "a/neng-dong-xing-agency-markus-schlosser/gong-xiang-neng-dong-xing-shared-abraham-sesshu-roth.md",
+      "line": 53,
+      "path": "g/gadamer-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 84,
-      "path": "a/ke-xue-zhe-xue-zhong-de-ji-yu-neng-dong-xing-de-jian-mo-jian-ke-xue-zhe-xue-zhong-de-ji-yu-neng-dong.md",
+      "line": 55,
+      "path": "g/goodman-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 86,
-      "path": "a/bu-ke-zhi-lun-yu-wu-shen-lun-qing-can-jian-wu-shen-lun-yu-bu-ke-zhi-lun-agnosticism-and-atheism-see.md",
+      "line": 56,
+      "path": "h/hegel-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 89,
-      "path": "a/a-kan-zhe-xue-akan-philosophy/README.md",
+      "line": 57,
+      "path": "h/heidegger-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 114,
-      "path": "a/li-ta-zhu-yi-altruism-richard-kraut/sheng-wu-li-ta-zhu-yi-biological-samir-okasha.md",
+      "line": 58,
+      "path": "h/hume-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 120,
-      "path": "a/lei-bi-analogy/README.md",
+      "line": 59,
+      "path": "j/japanese-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 131,
-      "path": "a/dong-wu-animal/README.md",
+      "line": 60,
+      "path": "p/plato-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 141,
-      "path": "a/hou-yan-zhi-shi-jian-xian-yan-lun-zheng-he-xian-yan-zhi-shi-aposteriori-knowledge-seeapriori-justifi.md",
+      "line": 61,
+      "path": "s/schopenhauer-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 142,
-      "path": "a/biao-xiang-yu-shi-zai-appearance-vs.-reality/README.md",
+      "line": 63,
+      "path": "w/wittgenstein-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 143,
-      "path": "a/biao-xiang-yu-shi-zai-appearance-vs.-reality/zhi-jue-de-ren-shi-lun-wen-ti-jian-zhi-jue-zhi-jue-de-ren-shi-lun-wen-ti-epistemological-problems-of.md",
+      "line": 69,
+      "path": "a/africana-contemporary.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 147,
-      "path": "a/tuo-ma-si-akui-na-aquinas-thomas-robert-pasnau/tuo-ma-si-akui-na-de-lun-li-xue-zheng-zhi-zhe-xue-he-fa-zhe-xue-moral-political-and-legal-philosophy.md",
+      "line": 74,
+      "path": "s/shared-agency.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 148,
-      "path": "a/a-la-bo-he-yi-si-lan-zhe-xue-xiang-guan-arabic-and-islamic-philosophy-disciplines-in/README.md",
+      "line": 105,
+      "path": "a/altruism-biological.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 155,
-      "path": "a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-li-shi-he-fang-fa-lun-xiang-guan-arabic-and-islamic-philosophy/README.md",
+      "line": 121,
+      "path": "a/aristotle-commentators.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 159,
-      "path": "a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/README.md",
+      "line": 138,
+      "path": "a/aquinas-moral-political.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 170,
-      "path": "a/ren-zhi-gui-fan-de-lun-zheng-arguments-for-epistemic-norms/ren-zhi-xiao-yong-jian-guan-yu-ren-zhi-gui-fan-de-ren-zhi-xiao-yong-lun-zheng-epistemic-utility-see.md",
+      "line": 164,
+      "path": "a/aristotle-commentators.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 171,
-      "path": "a/ya-li-shi-duo-de-zhu-yi-aristotelianism/README.md",
+      "line": 167,
+      "path": "a/aristotle-commentators.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 172,
-      "path": "a/ya-li-shi-duo-de-zhu-yi-aristotelianism/ya-li-shi-duo-de-de-ping-zhu-zhe-jian-ya-li-shi-duo-de-de-ping-zhu-zhe-commentators-on-aristotle-see.md",
+      "line": 198,
+      "path": "a/artificial-intelligence.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 175,
-      "path": "a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md",
+      "line": 218,
+      "path": "p/properties.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 176,
-      "path": "a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/a-fu-luo-di-xi-ya-de-ya-li-shan-da-jianafu-luo-di-xi-ya-de-ya-li-shan-da-alexander-of-aphrosias-see.md",
+      "line": 225,
+      "path": "a/authority.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 183,
-      "path": "a/guan-yu-ya-li-shi-duo-de-de-yi-ban-xing-zhu-ti-aristotle-general-topics/README.md",
+      "line": 232,
+      "path": "i/ibn-rushd-natural.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 193,
-      "path": "a/ya-li-shi-duo-de-de-te-se-zhu-ti-aristotle-special-topics/README.md",
+      "line": 235,
+      "path": "i/ibn-sina-logic.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 201,
-      "path": "a/yi-shu-art/README.md",
+      "line": 237,
+      "path": "i/ibn-rushd-natural.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 206,
-      "path": "a/ren-gong-zhi-neng-artificial-intelligence-selmer-bringsjord-and-naveen-sundar-govindarajulu/README.md",
+      "line": 255,
+      "path": "t/time.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 221,
-      "path": "a/yuan-zi-lun-atomism/README.md",
+      "line": 257,
+      "path": "b/belief.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 222,
-      "path": "a/yuan-zi-lun-atomism/17-zhi-20-shi-ji-de-yuan-zi-lun-17th-to-20th-century-alan-chalmers.md",
+      "line": 273,
+      "path": "b/biodiversity.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 233,
-      "path": "a/quan-wei-authority-tom-christiano/README.md",
+      "line": 276,
+      "path": "i/information-biological.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 236,
-      "path": "a/zi-zhu-quan-autonomy/README.md",
+      "line": 282,
+      "path": "r/reduction-biology.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 260,
-      "path": "b/men-luo-c.-biesi-li-beardsley-monroe-c/README.md",
+      "line": 310,
+      "path": "d/death-definition.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 269,
-      "path": "b/xin-nian-belief-eric-schwitzgebel/README.md",
+      "line": 313,
+      "path": "b/brentano-judgement.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 296,
-      "path": "b/sheng-wu-xue-biology/mu-de-lun-guan-nian-jian-mu-de-lun-sheng-wu-xue-zhong-de-mu-de-lun-guan-nian-teleological-notions-in.md",
+      "line": 320,
+      "path": "k/korean-buddhism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 308,
-      "path": "b/ni-er-si-bo-er-bohr-niels/README.md",
+      "line": 373,
+      "path": "c/ceteris-paribus.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 326,
-      "path": "b/fu-lang-zi-bu-lun-ta-nuo-brentano-franz-wolfgang-huemer/bu-lun-ta-nuo-de-pan-duan-li-lun-theory-of-judgement-johannes-l.-brandl-and-mark-textor.md",
+      "line": 398,
+      "path": "d/daoism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 333,
-      "path": "b/fo-jiao-buddhism/README.md",
+      "line": 458,
+      "path": "p/physics-Rpcc.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 335,
-      "path": "b/fo-jiao-buddhism/yin-du-fo-jiao-zhong-de-lun-li-xue-jian-yin-du-fo-jiao-zhong-de-lun-li-xue-ethics-in-indian-buddhism.md",
+      "line": 489,
+      "path": "c/counterfactuals.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 336,
-      "path": "b/fo-jiao-buddhism/yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-jian-yin-du-fo-jiao-zhe-xue-zhong-de-xin-ling-mind-in-india.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 344,
-      "path": "b/bo-nei-te-zhan-mu-si-meng-bo-duo-xun-jue-jian-18-shi-ji-su-ge-lan-zhe-xue-burnet-james-lord-monboddo.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 345,
-      "path": "b/yue-se-fu-ba-te-le-butler-joseph/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 390,
-      "path": "c/ji-yu-chance/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 394,
-      "path": "c/yi-jing-zhong-guo-zhe-xue-jian-zhong-guo-zhe-xue-zhong-guo-yi-jing-zhe-xue-change-chinese-philosophy.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 403,
-      "path": "c/zhi-li-chile/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 404,
-      "path": "c/zhi-li-chile/zhi-li-zhe-xue-philosophy-in-ivan-jaksic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 405,
-      "path": "c/qian-he-ti-ren-lei-fei-ren-lei-jian-sheng-wu-yi-xue-lun-li-xue-ren-lei-fei-ren-lei-qian-he-ti-chimer.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 406,
-      "path": "c/zhong-guo-ru-xue-chinese-confucianism/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 412,
-      "path": "c/zhong-guo-zhe-xue-chinese-philosophy/yu-xi-fang-zhe-xue-xiang-bi-jian-bi-jiao-zhe-xue-zhong-xi-zhe-xue-compared-to-western-philosophy-see.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 475,
-      "path": "c/gong-tong-yuan-yin-yuan-ze-jian-han-si-lai-xing-ba-he-de-gong-tong-yuan-yin-yuan-ze-common-cause-pri.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 480,
-      "path": "c/bi-jiao-zhe-xue-comparative-philosophy/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 483,
-      "path": "c/sheng-wu-yi-xue-jue-ce-zhong-de-neng-li-jian-jue-ce-neng-li-competence-in-biomedical-decisionmaking.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 484,
-      "path": "c/fu-za-du-complexity/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 490,
-      "path": "c/ji-suan-computation/README.md",
+      "line": 496,
+      "path": "j/japanese-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 497,
-      "path": "c/ji-suan-ji-computing/README.md",
+      "path": "k/korean-buddhism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 505,
-      "path": "c/zhi-chen-tiao-jian-conditionals-dorothy-edgington/fan-shi-shi-counterfactual-w.-starr.md",
+      "line": 518,
+      "path": "c/consequentialism-rule.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 507,
-      "path": "c/ma-li-rang-an-tuo-wan-ni-gu-la-de-ka-li-ta-kong-duo-sai-hou-jue-condorcet-mariejeanantoinenicolas-de/README.md",
+      "line": 528,
+      "path": "c/continental-rationalism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 522,
-      "path": "c/lian-jie-ci-connectives/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 538,
-      "path": "c/jie-guo-zhu-yi-consequentialism-walter-sinnottarmstrong/gui-ze-hou-guo-zhu-yi-rule-brad-hooker.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 544,
-      "path": "c/jian-gou-zhu-yi-constructivism/README.md",
+      "line": 535,
+      "path": "c/convention.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 548,
-      "path": "c/da-lu-li-xing-zhu-yi-continental-rationalism-shannon-dea-julie-walsh-and-thomas-m.-lennon.md",
+      "path": "c/counterfactuals.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 555,
-      "path": "c/yue-ding-convention-michael-rescorla/README.md",
+      "line": 571,
+      "path": "d/daoism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 578,
-      "path": "c/pi-pan-li-lun-fa-lan-ke-fu-xue-pai-critical-theory-robin-celikates-and-jeffrey-flynn.md",
+      "line": 622,
+      "path": "a/and-the-pineal-gland.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 580,
-      "path": "c/bei-nei-de-tuo-ke-luo-qi-croce-benedetto/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 596,
-      "path": "d/dao-jia-dao-jiao-daoism-chad-hansen/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 601,
-      "path": "d/cha-er-si-da-er-wen-darwin-charles/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 602,
-      "path": "d/cha-er-si-da-er-wen-darwin-charles/cong-wu-zhong-qi-yuan-dao-ren-lei-de-you-lai-jian-jin-hua-cong-wu-zhong-qi-yuan-dao-ren-lei-de-you-l.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 611,
-      "path": "d/qi-pian-deception/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 618,
-      "path": "d/jue-ce-li-lun-decision-theory-katie-steele-and-h.-orri-stefnsson/qi-wang-xiao-yong-de-li-xing-xuan-ze-li-lun-jian-li-xing-xuan-ze-de-gui-fan-li-lun-li-xing-xuan-ze-d.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 619,
-      "path": "d/jue-ce-li-lun-decision-theory-katie-steele-and-h.-orri-stefnsson/fei-qi-wang-xiao-yong-de-li-xing-xuan-ze-li-lun-jian-li-xing-xuan-ze-de-gui-fan-li-lun-li-xing-xuan.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 620,
-      "path": "d/li-cha-de-dai-de-jin-dedekind-richard/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 632,
-      "path": "d/yan-yi-demonstration/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 633,
-      "path": "d/yan-yi-demonstration/ya-li-shi-duo-de-de-li-lun-jian-ya-li-shi-duo-de-de-te-se-zhu-ti-ya-li-shi-duo-de-de-luo-ji-xue-aris.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 650,
-      "path": "d/le-nei-di-ka-er-descartes-ren-gary-hatfield/di-ka-er-yu-song-guo-ti-and-the-pineal-gland-gertjan-lokhorst.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 656,
-      "path": "d/she-ji-lun-zheng-mu-de-lun-guan-yu-shang-di-cun-zai-de-mu-de-lun-lun-zheng-design-argument-from-see.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 659,
-      "path": "d/jue-ding-lun-determinism/README.md",
+      "line": 635,
+      "path": "e/evolution-development.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 663,
-      "path": "d/fa-yu-sheng-wu-xue-developmental-biology-alan-love/jin-hua-he-fa-yu-evolution-and-development-jan-baedke-and-scott-f.-gilbert.md",
+      "path": "d/disagreement.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 671,
-      "path": "d/tu-biao-diagrams-sunjoo-shin-oliver-lemon-and-john-mumma/ren-shi-lun-jian-shu-xue-zhong-de-shi-jue-hua-si-wei-shu-xue-zhong-de-shi-jue-si-wei-ren-shi-lun-epi.md",
+      "line": 672,
+      "path": "j/justice-moral-psych.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 673,
-      "path": "d/hei-ge-er-de-bian-zheng-fa-jian-ge-ao-er-ge-wei-lian-fu-li-de-li-xi-hei-ge-er-de-bian-zheng-fa-diale.md",
+      "line": 684,
+      "path": "d/divine-simplicity.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 687,
-      "path": "d/can-ji-disability/nv-xing-zhu-yi-shi-jiao-jian-nv-xing-zhu-yi-zhe-xue-zhu-ti-nv-xing-zhu-yi-dui-can-ji-de-guan-dian-fe.md",
+      "line": 706,
+      "path": "e/ecological-genetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 691,
-      "path": "d/fen-qi-disagreement-bryan-frances-and-jonathan-matheson/README.md",
+      "line": 712,
+      "path": "r/ramsey-economics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 702,
-      "path": "d/duo-yang-xing-diversity/README.md",
+      "line": 731,
+      "path": "f/fiction-emotion-response.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 744,
-      "path": "e/jing-ji-xue-economics/la-mu-qi-yu-dai-ji-fu-li-jing-ji-xue-jian-fu-lan-ke-la-mu-qi-la-mu-qi-yu-dai-ji-fu-li-jing-ji-xue-ra.md",
+      "line": 736,
+      "path": "m/moral-character-empirical.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 751,
-      "path": "e/a-er-bo-te-ai-yin-si-tan-einstein-albert/README.md",
+      "line": 739,
+      "path": "e/empiricism-ancient-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 759,
-      "path": "e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-17th-and-18th-century-theories-of-amy-m.-schmitter.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 760,
-      "path": "e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/zao-qi-zhong-guo-zhe-xue-jian-zao-qi-zhong-guo-zhe-xue-zhong-de-qing-in-early-chinese-philosophy-see.md",
+      "line": 743,
+      "path": "l/logical-consequence.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 763,
-      "path": "e/qing-xu-emotion-andrea-scarantino-and-ronald-de-sousa/xu-gou-zuo-pin-de-hui-ying-jian-xu-gou-xu-gou-zuo-pin-yin-qi-de-qing-gan-fan-ying-responses-to-ficti.md",
+      "path": "m/moral-epistemology-a-priori.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 776,
-      "path": "e/shang-entropy/README.md",
+      "line": 772,
+      "path": "e/equal-ed-opportunity.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 777,
-      "path": "e/shang-entropy/xin-xi-chu-li-jian-xin-xi-chu-li-he-re-li-xue-shang.md",
+      "line": 794,
+      "path": "i/identity-ethics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 793,
-      "path": "e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/gu-dian-yin-du-zhe-xue-jian-gu-dian-yin-du-zhe-xue-gu-dian-yin-du-zhe-xue-ren-shi-lun-in-classical-i.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 796,
-      "path": "e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/dao-de-xian-yan-zhu-yi-jian-dao-de-ren-shi-lun-dao-de-ren-shi-lun-zhong-de-xian-yan-zhu-yi-moralapri.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 800,
-      "path": "e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/she-hui-nv-xing-zhu-yi-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-nv-xing-zhu-yi-she-hui-ren-shi-lun-social.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 805,
-      "path": "e/ping-deng-equality-stefan-gosepath/jiao-yu-ji-hui-jun-deng-of-educational-opportunity-liam-shields-anne-newman-and-debra-satz.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 816,
-      "path": "e/lun-li-xue-ethics/shi-zai-zhu-yi-he-ke-neng-xing-zhu-yi-jian-lun-li-xue-zhong-de-shi-zai-zhu-yi-he-ke-neng-xing-zhu-yi.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 834,
-      "path": "e/ying-yong-lun-li-xue-ethics-applied/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 835,
-      "path": "e/ying-yong-lun-li-xue-ethics-applied/xin-xi-ji-shu-lun-li-xue-de-xian-xiang-xue-fang-fa-jian-xin-xi-ji-shu-xin-xi-ji-shu-lun-li-xue-de-xi.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 836,
-      "path": "e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/README.md",
+      "line": 829,
+      "path": "e/evidence-legal.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 837,
-      "path": "e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/yu-xian-zhi-shi-he-ti-dai-jue-ce-jian-yu-xian-zhi-shi-he-ti-dai-jue-ce-advance-directives-and-substi.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 843,
-      "path": "e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/ji-bing-yu-jian-kang-de-gai-nian-jian-ji-bing-yu-jian-kang-de-gai-nian-disease-and-health-concepts-o.md",
+      "path": "e/evolution-before-darwin.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 844,
-      "path": "e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/ren-lei-luan-zi-he-jing-zi-de-juan-xian-he-xiao-shou-jian-ren-lei-luan-zi-he-jing-zi-de-juan-xian-yu.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 852,
-      "path": "e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/gong-gong-wei-sheng-lun-li-jian-gong-gong-wei-sheng-gong-gong-wei-sheng-lun-li-public-health-ethics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 858,
-      "path": "e/an-le-si-euthanasia/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 862,
-      "path": "e/zheng-ju-evidence-thomas-kelly/zheng-ju-de-fa-lv-gai-nian-the-legal-concept-of-hock-lai-ho.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 870,
-      "path": "e/jin-hua-evolution-roberta-l.-millstein/da-er-wen-zhi-qian-de-jin-hua-si-xiang-concept-before-darwin-phillip-sloan.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 872,
-      "path": "e/jin-hua-evolution-roberta-l.-millstein/da-er-wen-cong-wu-zhong-qi-yuan-dao-ren-lei-de-you-lai-from-the-origin-of-species-to-the-descent-of.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 877,
-      "path": "e/cun-zai-zhu-yi-existentialism-kevin-aho/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 882,
-      "path": "e/shi-yan-experimentation/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 890,
-      "path": "e/wai-zai-zhu-yi-externalism/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 909,
-      "path": "f/nv-xing-zhu-yi-zhe-xue-fang-fa-feminist-philosophy-approaches/README.md",
+      "path": "e/existentialism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 917,
-      "path": "f/nv-xing-zhu-yi-zhe-xue-jie-ru-feminist-philosophy-interventions/README.md",
+      "path": "f/fiction-emotion-response.md",
+      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
+    },
+    {
+      "line": 919,
+      "path": "f/fictionalism.md",
+      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
+    },
+    {
+      "line": 920,
+      "path": "f/fictionalism-mathematics.md",
+      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
+    },
+    {
+      "line": 940,
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 956,
-      "path": "f/xu-gou-xiao-shuo-fiction-fred-kroon-and-alberto-voltolini/dui-xu-gou-xiao-shuo-de-qing-gan-fan-ying-emotional-responses-to-katie-tullmann.md",
+      "path": "f/freewill.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 959,
-      "path": "f/xu-gou-zhu-yi-fictionalism-matti-eklund/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-xu-gou-zhu-yi-in-the-philosophy-of-mat.md",
+      "line": 960,
+      "path": "f/frege-hilbert.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 971,
-      "path": "f/min-jian-xin-li-xue-folk-psychology/README.md",
+      "line": 981,
+      "path": "e/epistemic-game.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 979,
-      "path": "f/xing-shi-zhu-yi-formalism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-xing-shi-zhu-yi-in-the-philosophy-of-m.md",
+      "line": 994,
+      "path": "e/ecological-genetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 980,
-      "path": "f/xin-nian-de-xing-shi-hua-biao-shu-jian-xin-nian-de-xing-shi-biao-shu-formal-representations-of-belie.md",
+      "line": 1026,
+      "path": "g/goedel-incompleteness.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 996,
-      "path": "f/zi-you-yi-zhi-free-will-timothy-oconnor-and-christopher-franklin/fei-jue-ding-xing-li-lun-jian-bu-xiang-rong-lun-zi-you-yi-zhi-de-bu-xiang-rong-zhu-yi-fei-jue-ding-x.md",
+      "line": 1076,
+      "path": "h/heritability.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 999,
-      "path": "f/ge-te-luo-bu-fu-lei-ge-frege-gottlob-edward-n.-zalta/fu-lei-ge-xi-er-bo-te-zheng-lun-controversy-with-hilbert-patricia-blanchette.md",
+      "line": 1082,
+      "path": "f/frege-hilbert.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1004,
-      "path": "f/han-xiang-function/README.md",
+      "line": 1120,
+      "path": "h/hutcheson.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1019,
-      "path": "g/you-xi-games/README.md",
+      "line": 1140,
+      "path": "i/identity-indiscernible.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1024,
-      "path": "g/bo-yi-lun-game-theory-don-ross/bo-yi-lun-de-ren-shi-lun-ji-chu-epistemic-foundations-of-eric-pacuit-and-olivier-roy.md",
+      "line": 1160,
+      "path": "i/implicature-optimality-games.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1032,
-      "path": "g/guang-yi-xiang-dui-lun-general-relativity/README.md",
+      "line": 1170,
+      "path": "i/indian-philosophy.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1037,
-      "path": "g/yi-chuan-xue-genetics-james-tabery/sheng-tai-yi-chuan-xue-ecological-michael-wade.md",
+      "line": 1192,
+      "path": "b/biological.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1042,
-      "path": "g/ji-he-xue-geometry/README.md",
+      "line": 1230,
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1047,
-      "path": "g/de-guo-zhe-xue-german-philosophy/README.md",
+      "line": 1234,
+      "path": "q/qualia-inverted.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1055,
-      "path": "g/shang-di-god/README.md",
+      "line": 1261,
+      "path": "j/justice.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1058,
-      "path": "g/shang-di-cun-zai-de-xin-yang-lun-zheng-god-arguments-for-belief-in/README.md",
+      "line": 1267,
+      "path": "j/justice-moral-psych.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1060,
-      "path": "g/shang-di-cun-zai-de-lun-zheng-god-arguments-for-the-existence-of/README.md",
+      "line": 1287,
+      "path": "k/kant-reason.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1069,
-      "path": "g/ku-er-te-ge-de-er-gdel-kurt-juliette-kennedy/ge-de-er-bu-wan-bei-ding-li-incompleteness-theorems-panu-raatikainen.md",
+      "line": 1337,
+      "path": "l/liberalism-latin-america.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1075,
-      "path": "g/yu-fa-grammar/README.md",
+      "line": 1350,
+      "path": "c/ceteris-paribus.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1105,
-      "path": "h/zhong-guo-zhe-xue-de-xin-jian-zhong-guo-zhe-xue-zhong-guo-zhe-xue-zhong-de-xin-heartmind-in-chinese.md",
+      "line": 1394,
+      "path": "l/life-meaning.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1114,
-      "path": "h/ji-du-jiao-si-xiang-zhong-de-di-yu-yu-tian-tang-jian-ji-du-jiao-si-xiang-zhong-de-tian-tang-yu-di-yu.md",
+      "line": 1459,
+      "path": "u/utilitarianism-history.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1122,
-      "path": "h/yi-chuan-du-heritability-stephen-m.-downes-and-lucas-matthews/README.md",
+      "line": 1463,
+      "path": "p/proof-theory-development.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1127,
-      "path": "h/da-wei-xi-er-bo-te-hilbert-david/README.md",
+      "line": 1469,
+      "path": "l/logical-consequence.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1128,
-      "path": "h/da-wei-xi-er-bo-te-hilbert-david/yu-fu-lei-ge-de-zheng-yi-jian-ge-te-luo-bu-fu-lei-ge-fu-lei-ge-xi-er-bo-te-zheng-lun-controversy-wit.md",
+      "line": 1489,
+      "path": "l/luther-influence.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1155,
-      "path": "h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/kang-de-guan-yu-yin-guo-guan-xi-de-lun-shu-jian-yi-man-nu-er-kang-de-kang-de-he-xiu-mo-lun-yin-guo-g.md",
+      "line": 1502,
+      "path": "m/maimonides-islamic.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1156,
-      "path": "h/da-wei-xiu-mo-hume-david-william-edward-morris-and-charlotte-r.-brown/kang-de-guan-yu-dao-de-de-lun-shu-jian-yi-man-nu-er-kang-de-kang-de-he-xiu-mo-lun-dao-de-and-kant-on.md",
+      "line": 1503,
+      "path": "m/malebranche.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1166,
-      "path": "h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/README.md",
+      "line": 1506,
+      "path": "m/mally-deontic.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1190,
-      "path": "i/tong-yi-xing-identity-harold-noonan-and-ben-curtis/bu-ke-fen-zhe-tong-yi-xing-yuan-li-of-indiscernibles-peter-forrest.md",
+      "line": 1528,
+      "path": "m/materialism-eliminative.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1210,
-      "path": "i/han-yi-implicature-wayne-davis/you-xuan-lun-he-bo-yi-lun-dui-han-yi-de-yan-jiu-fang-fa-optimality-theoretic-and-game-theoretic-appr.md",
+      "line": 1538,
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1213,
-      "path": "i/bu-ke-tong-yue-xing-incommensurability/README.md",
+      "line": 1546,
+      "path": "w/wittgenstein-aesthetics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1217,
-      "path": "i/bu-xiang-rong-lun-incompatibilism/README.md",
+      "line": 1561,
+      "path": "m/medieval-literary.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1232,
-      "path": "i/gui-na-induction/README.md",
+      "line": 1565,
+      "path": "m/medieval-categories.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1247,
-      "path": "i/xin-xi-chu-li-information-processing/README.md",
+      "line": 1567,
+      "path": "c/conscience-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1249,
-      "path": "i/xin-xi-ji-shu-information-technology/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1258,
-      "path": "i/xian-tian-innateness/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1273,
-      "path": "i/hang-dong-de-nei-yin-yu-wai-yin-jian-hang-dong-de-yuan-yin-hang-dong-de-yuan-yin-nei-zai-yu-wai-zai.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1281,
-      "path": "i/zhi-jue-zhu-yi-intuitionism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-zhi-jue-zhu-yi-in-the-philosophy-of-ma.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1311,
-      "path": "j/pan-duan-judgment/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1313,
-      "path": "j/xin-nian-he-bing-yu-pan-duan-ju-he-jian-xin-nian-he-bing-yu-pan-duan-ju-he-judgment-aggregation-and.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1315,
-      "path": "j/zheng-yi-justice-david-miller/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1321,
-      "path": "j/zheng-yi-justice-david-miller/fen-pei-zheng-yi-yu-shi-zheng-dao-de-xin-li-xue-jian-fen-pei-zheng-yi-fen-pei-zheng-yi-yu-shi-zheng.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1324,
-      "path": "j/zheng-yi-justice-david-miller/jian-kang-he-bu-ping-deng-jian-sheng-wu-yi-xue-lun-li-xue-zheng-yi-bu-ping-deng-he-jian-kang-inequal.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1332,
-      "path": "j/zhi-shi-zheng-cheng-justification-epistemic/xian-yan-jian-xian-yan-lun-zheng-yu-zhi-shi-apriori-seeapriori-justification-and-knowledge.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1338,
-      "path": "j/zheng-zhi-zheng-dang-xing-justification-political/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1344,
-      "path": "k/yi-man-nu-er-kang-de-kant-immanuel-michael-rohlf/kang-de-dui-li-xing-de-lun-shu-account-of-reason-garrath-williams.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1365,
-      "path": "k/sha-hai-huo-rang-qi-si-wang-jian-zao-cheng-shang-hai-yu-yun-xu-shang-hai-killing-vs.-letting-die-see.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1368,
-      "path": "k/zhi-shi-knowledge/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1370,
-      "path": "k/zhi-shi-knowledge/xian-yan-jian-xian-yan-lun-zheng-yu-zhi-shi-apriori-seeapriori-justification-and-knowledge.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1375,
-      "path": "k/ke-heng-shi-pei-ke-er-ding-li-ks-ding-li-jian-liang-zi-li-xue-ke-heng-shi-pei-ke-er-ding-li-ks-ding.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1395,
-      "path": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/la-ding-mei-zhou-de-fen-xi-zhe-xue-analytic-philosophy-in-diana-ines-perez-and-santiago-echeverri.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1400,
-      "path": "l/la-ding-mei-zhou-zhe-xue-latin-american-philosophy-jorge-gracia-and-manuel-vargas/sheng-wu-xue-zhe-xue-jian-sheng-wu-xue-zhe-xue-la-ding-mei-zhou-de-sheng-wu-xue-zhe-xue-philosophy-o.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1404,
-      "path": "l/fa-lv-law/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1422,
-      "path": "l/fa-lv-tui-li-legal-reasoning/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1447,
-      "path": "l/zi-you-nv-xing-zhu-yi-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-zi-you-zhu-yi-nv-xing-zhu-yi-liberal-femini.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1452,
-      "path": "l/zi-you-liberty/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1455,
-      "path": "l/sheng-ming-life-carlos-mariscal/sheng-ming-de-yi-yi-meaning-of-thaddeus-metz.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1495,
-      "path": "l/luo-ji-xue-logic/gu-dian-yin-du-zhe-xue-jian-gu-dian-yin-du-zhe-xue-gu-dian-yin-du-zhe-xue-zhong-de-luo-ji-xue-in-cla.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1510,
-      "path": "l/luo-ji-xue-logic/zi-ran-yan-yi-xi-tong-jian-luo-ji-xue-zhong-de-zi-ran-yan-yi-xi-tong-natural-deduction-systems-in-se.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1531,
-      "path": "l/luo-ji-yuan-zi-zhu-yi-logical-atomism/wei-te-gen-si-tan-jian-lu-de-wei-xi-wei-te-gen-si-tan-wei-te-gen-si-tan-de-luo-ji-yuan-zi-zhu-yi-wit.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1532,
-      "path": "l/luo-ji-yun-han-logical-consequence-jc-beall-greg-restall-and-gil-sagi/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1545,
-      "path": "l/yun-qi-luck/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1552,
-      "path": "l/ma-ding-lu-de-luther-martin-robert-stern/lu-de-de-zhe-xue-ying-xiang-influence-on-philosophy-robert-stern.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1555,
-      "path": "l/huang-yan-yu-qi-pian-lying-and-deception/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1568,
-      "path": "m/mai-meng-ni-de-maimonides-kenneth-seeskin/yi-si-lan-si-xiang-dui-mai-meng-ni-de-de-ying-xiang-the-influence-of-islamic-thought-on-sarah-pessin.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1569,
-      "path": "m/ni-gu-la-ma-le-bo-lang-shi-malebranche-nicolas-tad-schmaltz/README.md",
+      "line": 1571,
+      "path": "m/medieval-futcont.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 1573,
-      "path": "m/en-si-te-ma-li-mally-ernst-alexander-hieke-and-gerhard-zecha/en-si-te-de-dao-yi-luo-ji-deontic-logic-gertjan-lokhorst.md",
+      "path": "r/representation-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1590,
-      "path": "m/wu-zhi-ming-ci-mass-expressions/README.md",
+      "line": 1576,
+      "path": "p/practical-reason-med.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1596,
-      "path": "m/shu-xue-xiang-guan-mathematical/README.md",
+      "line": 1578,
+      "path": "r/relations-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1604,
-      "path": "m/shu-xue-ji-chu-mathematics-foundations-of/dai-de-jin-de-gong-xian-jian-li-cha-de-dai-de-jin-li-cha-de-dai-de-jin-dui-shu-xue-ji-chu-de-gong-xi.md",
+      "line": 1599,
+      "path": "r/representation-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1607,
-      "path": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/shu-xue-zhe-xue-zhong-de-xu-gou-zhu-yi-fictionalism-mark-balaguer.md",
+      "line": 1600,
+      "path": "m/mereology.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1616,
-      "path": "m/shu-xue-zhe-xue-mathematics-philosophy-of-leon-horsten/wei-te-gen-si-tan-jian-lu-de-wei-xi-wei-te-gen-si-tan-wei-te-gen-si-tan-de-shu-xue-zhe-xue-wittgenst.md",
+      "line": 1647,
+      "path": "m/modeltheory-fo.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1625,
-      "path": "m/ce-liang-measurement/README.md",
+      "line": 1654,
+      "path": "m/monism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1629,
-      "path": "m/zhong-guo-zhong-yi-zhe-xue-jian-zhong-guo-zhe-xue-zhong-guo-zhe-xue-yu-zhong-yi-medicine-chinese-phi.md",
+      "line": 1672,
+      "path": "m/moral-epistemology-a-priori.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1631,
-      "path": "m/zhong-shi-ji-zhe-xue-medieval-philosophy-john-marenbon/zhong-shi-ji-zhe-xue-de-wen-xue-xing-shi-literary-forms-of-eileen-sweeney.md",
+      "line": 1673,
+      "path": "m/moral-particularism-generalism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1641,
-      "path": "m/zhong-shi-ji-li-lun-medieval-theories-of/wei-lai-ou-ran-shi-jian-jian-wei-lai-ou-ran-shi-jian-zhong-shi-ji-de-wei-lai-ou-ran-shi-jian-li-lun.md",
+      "line": 1683,
+      "path": "m/moral-particularism-generalism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1643,
-      "path": "m/zhong-shi-ji-li-lun-medieval-theories-of/xin-li-biao-zheng-jian-xin-li-biao-zheng-zhong-shi-ji-zhe-xue-zhong-de-xin-li-biao-zheng-mental-repr.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1649,
-      "path": "m/zhong-shi-ji-li-lun-medieval-theories-of/dan-cheng-ci-xiang-jian-dan-cheng-ci-xiang-zhong-shi-ji-de-dan-cheng-ci-xiang-li-lun-singular-terms.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1659,
-      "path": "m/xin-ling-nei-rong-mental-content/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1669,
-      "path": "m/xin-li-biao-zheng-mental-representation-david-pitt/zhong-shi-ji-zhe-xue-zhong-de-xin-li-biao-zheng-in-medieval-philosophy-henrik-lagerlund.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1670,
-      "path": "m/fen-ti-lun-mereology-achille-varzi/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1685,
-      "path": "m/mo-xi-ge-mexico/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1692,
-      "path": "m/xin-ling-mind/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1704,
-      "path": "m/mo-tai-modality/lai-bu-ni-ci-jian-ge-te-fu-li-de-wei-lian-lai-bu-ni-ci-lai-bu-ni-ci-de-mo-tai-xing-er-shang-xue-leib.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1707,
-      "path": "m/mo-tai-modality/bi-yao-tiao-jian-yu-chong-fen-tiao-jian-jian-bi-yao-tiao-jian-yu-chong-fen-tiao-jian-necessary-and-s.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1710,
-      "path": "m/mo-tai-modality/si-bin-nuo-suo-jian-ba-lu-he-si-bin-nuo-suo-si-bin-nuo-suo-de-mo-tai-xing-er-shang-xue-spinoza-and-s.md",
+      "line": 1684,
+      "path": "m/moral-phenomenology.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 1718,
-      "path": "m/mo-xing-lun-model-theory-wilfrid-hodges/yi-jie-mo-xing-lun-firstorder-wilfrid-hodges-and-thomas-scanlon.md",
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1725,
-      "path": "m/yi-yuan-lun-monism-jonathan-schaffer/README.md",
+      "line": 1727,
+      "path": "s/selection-units.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1738,
-      "path": "m/dao-de-ren-zhi-zhu-yi-yu-fei-ren-zhi-zhu-yi-jian-dao-de-ren-zhi-zhu-yi-yu-fei-ren-zhi-zhu-yi-moral-c.md",
+      "line": 1729,
+      "path": "l/law-interpretivist.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1743,
-      "path": "m/dao-de-ren-shi-lun-moral-epistemology-richmond-campbell/dao-de-ren-shi-lun-zhong-de-xian-yan-zhu-yi-apriorism-in-michael-depaul-and-amelia-hicks.md",
+      "line": 1748,
+      "path": "n/newton-principia.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1744,
-      "path": "m/dao-de-pu-bian-zhu-yi-jian-dao-de-pu-bian-zhu-yi-dao-de-te-shu-zhu-yi-yu-dao-de-pu-bian-zhu-yi-moral.md",
+      "line": 1759,
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1754,
-      "path": "m/dao-de-te-shu-zhu-yi-moral-particularism-jonathan-dancy/dao-de-te-shu-zhu-yi-yu-dao-de-pu-bian-zhu-yi-and-moral-generalism-michael-ridge-and-sean-mckeever.md",
+      "line": 1767,
+      "path": "i/ibn-sina-logic.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1766,
-      "path": "m/dao-de-di-wei-moral-status/README.md",
+      "line": 1824,
+      "path": "p/paradox-zeno.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1772,
-      "path": "m/dong-ji-motivation/README.md",
+      "line": 1829,
+      "path": "m/mereology.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1782,
-      "path": "m/yin-le-zhe-xue-music-philosophy-of-andrew-kania.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1797,
-      "path": "n/zi-ran-zhu-yi-naturalism-david-papineau/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-zi-ran-zhu-yi-in-the-philosophy-of-mat.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1802,
-      "path": "n/zi-ran-fa-natural-law/lun-li-xue-chuan-tong-jian-lun-li-xue-lun-li-xue-zhong-de-zi-ran-fa-chuan-tong-tradition-in-ethics-s.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1806,
-      "path": "n/zi-ran-xuan-ze-natural-selection-peter-gildenhuys/xuan-ze-de-dan-wei-yu-ceng-ci-units-and-levels-of-elisabeth-lloyd.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1808,
-      "path": "n/fa-lv-de-ben-zhi-nature-of-law-andrei-marmor-and-alexander-sarch/fa-lv-jie-shi-zhu-yi-interpretivist-theories-nicos-stavropoulos.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1814,
-      "path": "n/bi-ran-cun-zai-necessary-beings/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1828,
-      "path": "n/ai-sa-ke-niu-dun-newton-isaac-george-smith/zi-ran-zhe-xue-de-shu-xue-yuan-li-philosophiae-naturalis-principia-mathematica-george-smith.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1840,
-      "path": "n/wei-ming-lun-nominalism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-wei-ming-lun-in-the-philosophy-of-math.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1845,
-      "path": "n/zheng-ze-xing-shi-bo-yi-normal-form-games/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1846,
-      "path": "n/zheng-ze-xing-shi-bo-yi-normal-form-games/fen-xi-quan-li-de-luo-ji-jian-luo-ji-xue-zai-bo-yi-lun-zhong-dui-quan-li-jin-hang-tui-li-logics-for.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1856,
-      "path": "n/luo-bo-te-nuo-qi-ke-nozick-robert/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1866,
-      "path": "o/yi-wu-obligation/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1869,
-      "path": "o/yi-wu-obligations/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1882,
-      "path": "o/ben-ti-lun-ontology/README.md",
+      "line": 1897,
+      "path": "o/on-utopia.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 1903,
-      "path": "p/bei-lun-paradox/README.md",
+      "path": "f/fictionalism-mathematics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1929,
-      "path": "p/zhi-jue-perception/README.md",
+      "line": 1939,
+      "path": "p/pragmatics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 1946,
-      "path": "p/ren-ge-personhood/gu-dian-yin-du-zhe-xue-jian-gu-dian-yin-du-zhe-xue-gu-dian-yin-du-zhe-xue-zhong-de-ren-ge-in-classic.md",
+      "line": 1958,
+      "path": "p/pm-notation.md",
+      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
+    },
+    {
+      "line": 1962,
+      "path": "p/privacy.md",
+      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
+    },
+    {
+      "line": 1980,
+      "path": "p/proof-theory-development.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 1981,
-      "path": "p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-ke-la-di-lu-pian-cratylus-david-meiner.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1983,
-      "path": "p/bai-la-tu-plato-richard-kraut/zai-li-xiang-guo-zhong-bai-la-tu-de-lun-li-xue-he-zheng-zhi-xue-ethics-and-politics-in-the-republic.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1985,
-      "path": "p/bai-la-tu-plato-richard-kraut/bai-la-tu-zai-zhi-zhe-pian-he-zheng-zhi-jia-pian-zhong-de-fang-fa-lun-yu-xing-er-shang-xue-method-an.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1988,
-      "path": "p/bai-la-tu-plato-richard-kraut/zai-taiatai-de-pian-zhong-bai-la-tu-de-ren-shi-lun-on-knowledge-in-the-theaetetus-sophiegrace-chappe.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1989,
-      "path": "p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-wu-tuo-bang-on-utopia-chris-bobonich-and-katherine-meadows.md",
+      "path": "p/properties.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 1993,
-      "path": "p/bai-la-tu-plato-richard-kraut/bai-la-tu-de-di-mai-ou-pian-timaeus-donald-zeyl-and-barbara-sattler.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 1996,
-      "path": "p/bai-la-tu-zhu-yi-platonism/shu-xue-zhe-xue-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-bai-la-tu-zhu-yi-in-the-philosophy-of.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2010,
-      "path": "p/zheng-zhi-xian-shi-zhu-yi-political-realism/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2012,
-      "path": "p/zheng-zhi-li-lun-yu-zong-jiao-jian-zong-jiao-zong-jiao-yu-zheng-zhi-li-lun-political-theory-and-reli.md",
+      "path": "p/propositions-singular.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2017,
-      "path": "p/se-qing-pornography/README.md",
+      "path": "q/qualia-inverted.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2032,
-      "path": "p/yu-yong-xue-pragmatics-kepa-korta-and-john-perry/README.md",
+      "line": 2020,
+      "path": "q/qm.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2035,
-      "path": "p/dao-gao-prayer/README.md",
+      "line": 2021,
+      "path": "a/action-at-a-distance-in.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2051,
-      "path": "p/shu-xue-yuan-li-principia-mathematica-bernard-linsky-and-andrew-david-irvine/shu-xue-yuan-li-zhong-de-fu-hao-notation-in-bernard-linsky.md",
+      "line": 2049,
+      "path": "q/quine.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2073,
-      "path": "p/zheng-ming-lun-proof-theory-michael-rathjen-and-wilfried-sieg/zheng-ming-lun-de-fa-zhan-development-of-jan-von-plato.md",
+      "line": 2057,
+      "path": "r/ramsey-economics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2074,
-      "path": "p/shu-xing-properties-francesco-orilia-and-michele-paolini-paoletti/README.md",
+      "line": 2069,
+      "path": "e/epistemic-game.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2086,
-      "path": "p/ming-ti-propositions-matthew-mcgrath-and-devin-frank/dan-cheng-ming-ti-singular-greg-fitch-and-michael-nelson.md",
+      "line": 2075,
+      "path": "r/realism-sem-challenge.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2114,
-      "path": "q/gan-zhi-qualia-michael-tye/gan-zhi-dao-zhuan-inverted-alex-byrne.md",
+      "line": 2095,
+      "path": "r/reduction-biology.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2117,
-      "path": "q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/README.md",
+      "line": 2111,
+      "path": "r/relativism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2118,
-      "path": "q/liang-zi-li-xue-quantum-mechanics-jenann-ismael/liang-zi-li-xue-zhong-de-chao-ju-zuo-yong-action-atadistance-in-joseph-berkovitz.md",
+      "path": "a/and-morality.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2146,
-      "path": "q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/README.md",
+      "path": "r/rights-children.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2147,
-      "path": "q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/bu-ke-huo-que-xing-lun-zheng-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-bu-ke-huo-que-xing-lun-zh.md",
+      "line": 2165,
+      "path": "c/consequentialism-rule.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2157,
-      "path": "r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-and-intergenerational-welfare-economics-partha-dasgupta.md",
+      "line": 2167,
+      "path": "r/russell.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2160,
-      "path": "r/sui-ji-xing-randomness/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2162,
-      "path": "r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2166,
-      "path": "r/li-xing-rationality/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2169,
-      "path": "r/li-xing-rationality/bo-yi-lun-de-ren-shi-lun-ji-chu-jian-bo-yi-lun-bo-yi-lun-de-ren-shi-lun-ji-chu-epistemic-foundations.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2175,
-      "path": "r/shi-zai-lun-realism-alexander-miller/dui-xing-er-shang-xue-shi-zai-lun-de-tiao-zhan-challenges-to-metaphysical-drew-khlentzos.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2177,
-      "path": "r/shi-zai-lun-realism-alexander-miller/guo-ji-guan-xi-zhong-de-zheng-zhi-xian-shi-zhu-yi-jian-zheng-zhi-xian-shi-zhu-yi-guo-ji-guan-xi-zhon.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2181,
-      "path": "r/tui-li-reasoning/README.md",
+      "line": 2204,
+      "path": "s/scientific-explanation.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2212,
-      "path": "r/xiang-dui-zhu-yi-relativism-maria-baghramian-and-j.-adam-carter/README.md",
+      "path": "s/scientific-realism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2218,
-      "path": "r/zong-jiao-religion/nv-xing-zhu-yi-zhe-xue-jian-nv-xing-zhu-yi-zhe-xue-jie-ru-nv-xing-zhu-yi-zong-jiao-zhe-xue-feminist.md",
+      "line": 2232,
+      "path": "s/self-knowledge.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2237,
-      "path": "r/ze-ren-responsibility/README.md",
+      "line": 2234,
+      "path": "s/self-consciousness-phenomenological.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2243,
-      "path": "r/gui-bian-jia-li-cha-de-richard-the-sophister-ricardus-sophista-magister-abstractionum-paul-streveler.md",
+      "line": 2238,
+      "path": "s/self-knowledge.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2247,
-      "path": "r/quan-li-rights-leif-wenar/er-tong-quan-li-of-children-david-william-archard.md",
+      "line": 2258,
+      "path": "s/settheory-alternative.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2255,
-      "path": "r/ji-qi-ren-xue-robotics/README.md",
+      "line": 2268,
+      "path": "s/shaftesbury.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2270,
-      "path": "r/bo-te-lan-luo-su-russell-bertrand-andrew-david-irvine/README.md",
+      "line": 2284,
+      "path": "s/skepticism-moral-responsibility.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2271,
-      "path": "r/bo-te-lan-luo-su-russell-bertrand-andrew-david-irvine/luo-ji-yuan-zi-zhu-yi-jian-luo-ji-yuan-zi-zhu-yi-luo-su-de-luo-ji-yuan-zi-zhu-yi-logical-atomism-see.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2311,
-      "path": "s/ke-xue-jie-shi-scientific-explanation-james-woodward-and-lauren-ross/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2313,
-      "path": "s/ke-xue-zhi-shi-scientific-knowledge/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2319,
-      "path": "s/ke-xue-shi-zai-lun-scientific-realism-anjan-chakravartty/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2324,
-      "path": "s/ke-xue-li-lun-scientific-theories/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2327,
-      "path": "s/ke-xue-li-lun-scientific-theories/fei-chong-fen-jue-ding-xing-jian-fei-chong-fen-jue-ding-xing-ke-xue-li-lun-de-fei-chong-fen-jue-ding.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2328,
-      "path": "s/su-ge-lan-zhe-xue-scottish-philosophy/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2329,
-      "path": "s/su-ge-lan-zhe-xue-scottish-philosophy/18-shi-ji-su-ge-lan-zhe-xue-in-the-18th-century-alexander-broadie-and-craig-smith.md",
+      "line": 2296,
+      "path": "c/contractarianism-contemporary.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2330,
-      "path": "s/su-ge-lan-zhe-xue-scottish-philosophy/19-shi-ji-su-ge-lan-zhe-xue-in-the-19th-century-gordon-graham.md",
+      "path": "s/spinoza-epistemology-mind.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2331,
-      "path": "s/yue-han-nei-si-si-ge-te-ai-liu-gen-na-jian-yue-han-nei-si-si-ge-te-ai-liu-gen-na-scottus-scotus-eriu.md",
+      "line": 2370,
+      "path": "s/supervenience-ethics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2339,
-      "path": "s/zi-wo-self/nv-xing-zhu-yi-dui-zi-wo-de-guan-dian-jian-nv-xing-zhu-yi-zhe-xue-zhu-ti-nv-xing-zhu-yi-dui-zi-wo-de.md",
+      "line": 2381,
+      "path": "d/daoism.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2342,
-      "path": "s/zi-wo-yi-shi-selfconsciousness-joel-smith/zi-wo-yi-shi-de-xian-xiang-xue-fang-fa-phenomenological-approaches-to-shaun-gallagher-and-dan-zahavi.md",
+      "line": 2383,
+      "path": "t/tarski-truth.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2346,
-      "path": "s/zi-wo-ren-shi-selfknowledge-brie-gertler/README.md",
+      "line": 2421,
+      "path": "t/time.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2353,
-      "path": "s/yu-yi-semantics/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2359,
-      "path": "s/fu-hao-xue-semiotics/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2366,
-      "path": "s/ji-he-lun-set-theory-joan-bagaria/ti-dai-xing-gong-li-ji-he-lun-alternative-axiomatic-theories-m.-randall-holmes.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2376,
-      "path": "s/sha-fu-ci-bo-li-bo-jue-di-san-dai-sha-fu-ci-bo-li-bo-jue-an-dong-ni-ashi-li-ke-bai-shaftesbury-lord/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2388,
-      "path": "s/dan-cheng-ci-xiang-singular-terms/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2390,
-      "path": "s/qing-jing-situations/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2394,
-      "path": "s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/dao-de-ze-ren-huai-yi-lun-about-moral-responsibility-gregg-caruso.md",
+      "line": 2423,
+      "path": "t/the-experience-and-perception-of.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
       "line": 2427,
-      "path": "s/kong-jian-yu-shi-jian-space-and-time/README.md",
+      "path": "t/time-travel-phys.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2437,
-      "path": "s/speech-yan-yu/README.md",
+      "line": 2446,
+      "path": "t/truth-axiomatic.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2456,
-      "path": "s/tong-ji-wu-li-xue-statistical-physics/README.md",
+      "line": 2454,
+      "path": "t/tarski-truth.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2462,
-      "path": "s/gan-xi-bao-yan-jiu-de-lun-li-wen-ti-jian-sheng-wu-yi-xue-lun-li-xue-gan-xi-bao-yan-jiu-de-lun-li-wen.md",
+      "line": 2468,
+      "path": "t/type-theory-church.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2475,
-      "path": "s/feng-ge-style/README.md",
+      "line": 2477,
+      "path": "s/selection-units.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2484,
-      "path": "s/sui-fu-xing-supervenience-brian-mclaughlin-and-karen-bennett/dao-de-sui-fu-xing-in-ethics-tristram-mcpherson.md",
+      "line": 2480,
+      "path": "p/properties.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2485,
-      "path": "s/wu-hang-wei-neng-li-zhe-de-dai-li-ren-jue-ce-surrogate-decisionmaking-for-incompetent-individuals-se.md",
+      "line": 2481,
+      "path": "u/universals-medieval.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2488,
-      "path": "s/san-duan-lun-syllogism/README.md",
+      "line": 2483,
+      "path": "c/consequentialism-rule.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2491,
-      "path": "s/dui-cheng-xing-yu-dui-cheng-xing-po-que-jian-wu-li-xue-dui-cheng-xing-yu-dui-cheng-xing-po-que-symme.md",
+      "line": 2507,
+      "path": "f/freewill.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2500,
-      "path": "t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/ta-er-si-ji-de-zhen-li-ding-yi-truth-definitions-wilfrid-hodges.md",
+      "line": 2511,
+      "path": "v/voting-methods.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2504,
-      "path": "t/mu-de-lun-teleology/README.md",
+      "line": 2521,
+      "path": "r/ramsey-economics.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2512,
-      "path": "t/ci-xiang-shu-xing-terms-properties-of/README.md",
+      "line": 2522,
+      "path": "w/well-being.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     },
     {
-      "line": 2516,
-      "path": "t/zheng-yan-testimony/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2520,
-      "path": "t/you-shen-lun-theism/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2538,
-      "path": "t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2539,
-      "path": "t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/xian-dai-wu-li-xue-zhong-de-cun-zai-yu-bian-hua-jian-shi-jian-yu-kong-jian-xian-dai-wu-li-xue-zhong.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2540,
-      "path": "t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/dui-shi-jian-de-ti-yan-he-gan-zhi-the-experience-and-perception-of-robin-le-poidevin.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2544,
-      "path": "t/shi-jian-lv-hang-time-travel-nicholas-j.j.-smith/shi-jian-lv-hang-yu-xian-dai-wu-li-xue-and-modern-physics-christopher-smeenk-frank-arntzenius-and-ti.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2555,
-      "path": "t/nv-xing-zhu-yi-dui-kua-xing-bie-yi-ti-de-guan-dian-jian-nv-xing-zhu-yi-zhe-xue-zhu-ti-nv-xing-zhu-yi.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2563,
-      "path": "t/zhen-li-truth-michael-glanzberg/gong-li-hua-zhen-li-lun-axiomatic-theories-of-volker-halbach-and-graham-e.-leigh.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2571,
-      "path": "t/zhen-li-truth-michael-glanzberg/ta-er-si-ji-de-zhen-li-ding-yi-jianaer-fu-lai-de-ta-er-si-ji-ta-er-si-ji-de-zhen-li-ding-yi-tarskis.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2585,
-      "path": "t/lei-xing-lun-type-theory-thierry-coquand/qiu-qi-lei-xing-lun-churchs-type-theory-christoph-benzmller-and-peter-andrews.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2591,
-      "path": "u/zhong-ji-cun-zai-ultimates/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2597,
-      "path": "u/zi-ran-xuan-ze-de-dan-wei-yu-ceng-ci-jian-zi-ran-xuan-ze-xuan-ze-de-dan-wei-yu-ceng-ci-units-and-lev.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2613,
-      "path": "v/jia-zhi-value/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2629,
-      "path": "v/shu-xue-zhong-de-shi-jue-si-wei-visual-thinking-in-mathematics/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2637,
-      "path": "v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/tou-piao-fang-fa-methods-eric-pacuit.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2651,
-      "path": "w/fu-zhi-wellbeing-roger-crisp.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2675,
-      "path": "w/shi-jie-worlds/README.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    },
-    {
-      "line": 2698,
-      "path": "z/en-si-te-ce-mei-luo-zermelo-ernst/README.md",
+      "line": 2535,
+      "path": "w/wisdom.md",
       "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
     }
   ],
-  "mapped": 1658
+  "mapped": 1665
 }
