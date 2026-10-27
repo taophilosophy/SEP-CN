@@ -27,11 +27,11 @@
 |agnosticism|不可知论||
 |akrasia|不能自制|《尼各马可伦理学》卷七主题；廖申白译本作“不能自制”，亦译“不自制”“意志薄弱”|
 |al-Baghdadi|巴格达迪||
-|al-Farabi|阿里·法拉比||
-|Al-Fârâbî|阿里·法拉比||
+|al-Farabi|法拉比|全名阿布·纳斯尔·法拉比；带变音符形 Al-Fârâbî 为同一人物（ADR-0013 归并）；亦作“阿尔·法拉比”“阿里·法拉比”（后者多见中亚文献）|
+|Al-Fârâbî|法拉比|即 al-Farabi（法拉比），同一人物罗马化变体（ADR-0013 折叠归并）|
 |al-Ghazali|安萨里||
 |al-Kindi|肯迪|阿拉伯首位哲学家，亦译“金迪”|
-|al-Razi|拉齐||
+|al-Razi|拉齐|指艾布·伯克尔·拉齐（Abū Bakr al-Rāzī，拉丁通行名 Rhazes），医师哲学家；勿与法赫尔丁·拉齐（Fakhr al-Dīn al-Rāzī）相混|
 |Alan Turing|艾伦·图灵||
 |Albalag|阿尔巴拉格||
 |Albert|阿尔伯特|泛指性简称，具体所指以正文为准：大阿尔伯特见 Albert the Great 条，萨克森的阿尔伯特见 Albert of Saxony 条|
@@ -72,10 +72,10 @@
 |Attributes|属性||
 |authenticity|本真性||
 |Auvergne|奥弗涅||
-|Avempace|伊本·巴哲||
-|Averroes|阿威罗伊||
+|Avempace|伊本·巴哲|拉丁通行名，即伊本·巴哲（Ibn Bājja），同一人物两通行名（ADR-0013 归并）|
+|Averroes|阿威罗伊|拉丁通行名，即伊本·鲁世德（Ibn Rushd），同一人物两通行名（ADR-0013 归并）|
 |Averroism|阿威罗伊主义||
-|Avicenna|阿维森纳||
+|Avicenna|阿维森纳|拉丁通行名，即伊本·西那（Ibn Sīnā），同一人物两通行名（ADR-0013 归并）|
 |awareness|觉知；觉察|与 consciousness（意识）相区别；bodily awareness 身体觉知，亦作“身体意识”|
 |axiomatic|公理化||
 |Bacon|培根||
@@ -310,10 +310,10 @@
 |Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
 |humanism|人文主义|文艺复兴语境；伦理语境亦译“人道主义”，按语境分流|
-|Ibn Bâjja|伊本·巴哲||
+|Ibn Bâjja|伊本·巴哲|即拉丁通行名 Avempace 所指同一人物（ADR-0013 归并）|
 |Ibn Kammūna|伊本·凯姆那||
-|Ibn Rushd|伊本·鲁世德||
-|Ibn Sina|伊本·西那||
+|Ibn Rushd|伊本·鲁世德|即阿威罗伊（Averroes），同一人物两通行名（ADR-0013 归并）|
+|Ibn Sina|伊本·西那|即阿维森纳（Avicenna），同一人物两通行名（ADR-0013 归并）|
 |Ibn ‘Arabî|伊本·阿拉比||
 |idealism|唯心论；观念论|贝克莱、黑格尔语境通译“唯心论”，德国古典哲学语境亦作“观念论”，全库按语境取一并保持一致|
 |Identity|同一性||

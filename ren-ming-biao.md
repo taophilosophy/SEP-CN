@@ -30,6 +30,37 @@
 | Christian Wolff | 克里斯蒂安·沃尔夫 | 语料回收（academic-freedom） | 语料回收登记；待知网复核（008 战役） | 2026-10-27 |
 | Quine | 蒯因 | 语料回收（quine） | 语料回收登记；待知网复核（008 战役） | 2026-10-27 |
 
+## 伊斯兰阿拉伯人物（ADR-0013 种子区，2026-10-28）
+
+> 拉丁通行名与阿拉伯本名同人归并（原文列「主形 / 他形」）；变音符折叠为同一键。知网系查证凭证存 specs/008-terminology-campaign/results/queries/（人物条目 GB 标准库通常无收录，依据档位如实标注为学界通行/权威工具书）。
+
+| 原文 | 译法 | 首现 | 依据 | 裁定日期 |
+| ---- | ---- | ---- | ---- | -------- |
+| Ibn Sīnā / Avicenna | 伊本·西那（阿维森纳） | arabic-islamic-* 集群 | 知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例） | 2026-10-28 |
+| Ibn Rushd / Averroes | 伊本·鲁世德（阿威罗伊） | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
+| Ibn Bājja / Avempace | 伊本·巴哲 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
+| Ibn Ṭufayl / Abubacer | 伊本·图斐利 | arabic-islamic-* 集群 | 知网系查证在案；学界通行 | 2026-10-28 |
+| al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī | 法拉比（亦作“阿尔·法拉比”“阿里·法拉比”） | al-farabi 集群 | 学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步 | 2026-10-28 |
+| al-Kindī | 肯迪（亦作“金迪”） | al-kindi | 学界通行 | 2026-10-28 |
+| al-Ghazālī | 安萨里（全名艾布·哈米德·穆罕默德·安萨里） | al-ghazali | 学界通行 | 2026-10-28 |
+| Abū Bakr al-Rāzī / al-Rāzī / Rhazes | 拉齐（医师哲学家；勿与法赫尔丁·拉齐相混） | arabic-islamic-natural | 学界通行 | 2026-10-28 |
+| Fakhr al-Dīn al-Rāzī | 法赫尔丁·拉齐 | arabic-islamic-* 集群 | 学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分 | 2026-10-28 |
+| Ibn Khaldūn | 伊本·赫勒敦 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn Taymiyya | 伊本·泰米叶 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn Gabirol / Solomon ibn Gabirol / Avicebron | 伊本·加比罗尔（拉丁通行名阿维斯布朗） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn Dāwūd / Ibn Daud | 伊本·达乌德 | arabic-islamic-judaic | 学界通行 | 2026-10-28 |
+| Ibn al-Haytham / Alhazen | 伊本·海赛姆（阿尔哈增） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Naṣīr al-Dīn al-Ṭūsī | 纳西尔丁·图西 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn Hazm | 伊本·哈兹姆 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Suhrawardī / al-Suhrawardī | 苏赫拉瓦尔迪 | suhrawardi | 学界通行 | 2026-10-28 |
+| Mullā Ṣadrā | 毛拉·萨德拉 | arabic-islamic-mysticism 等 | 学界通行 | 2026-10-28 |
+| Yaḥyā ibn ʿAdī | 叶海亚·伊本·阿迪 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ḥunayn ibn Isḥāq | 侯奈因·本·伊斯哈格（父，翻译家） | arabic-islamic-greek | 学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分 | 2026-10-28 |
+| Isḥāq ibn Ḥunayn | 伊沙克·本·侯奈因（子，翻译家） | arabic-islamic-greek | 学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分 | 2026-10-28 |
+| Abū Bishr Mattā | 阿布·比什尔·马塔 | al-farabi-logic | 学界通行 | 2026-10-28 |
+| Ibn Kammūna | 伊本·凯姆那 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ibn ʿArabī | 伊本·阿拉比 | arabic-islamic-mysticism | 学界通行 | 2026-10-28 |
+
 ## 登记格式说明
 
 ```

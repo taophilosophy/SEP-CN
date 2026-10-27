@@ -165,6 +165,32 @@
 | warrant | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 待知网复核（008 战役） | 2026-10-27 |
 | Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 待知网复核（008 战役） | 2026-10-27 |
 
+## 伊斯兰阿拉伯术语（ADR-0013 种子区，2026-10-28）
+
+> 译名优先取中国伊斯兰研究界与哲学史通行译法；知网系查证凭证存 specs/008-terminology-campaign/results/queries/（GB 标准库通常无收录，依据档位如实标注）。
+
+| 原文 | 译法 | 首现 | 依据 | 裁定日期 |
+| ---- | ---- | ---- | ---- | -------- |
+| kalām | 凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”） | arabic-islamic-* 集群 | 知网系查证在案；学界通行（《中国伊斯兰百科全书》等） | 2026-10-28 |
+| falsafa | 法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”） | arabic-islamic-greek | 学界通行 | 2026-10-28 |
+| ishrāq / ishrāqī | 照明（照明学派） | suhrawardi | 学界通行 | 2026-10-28 |
+| tawḥīd | 认主独一（讨黑德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| ijmāʿ | 公议（伊智玛尔） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| qiyās | 类比推理（基亚斯） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| ijtihād | 创制（伊智提哈德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| taqlīd | 因袭（塔格利德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| fitra | 天性（菲特拉） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| sharīʿa | 伊斯兰教法（沙里亚） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| sunna | 逊奈（圣行） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Muʿtazila / Muʿtazilism | 穆尔太齐赖派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ashʿariyya / Ashʿarism | 艾什尔里派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Maṭurīdiyya | 马图里迪派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Ikhwān al-Ṣafāʾ | 精诚兄弟会（亦译“纯洁兄弟会”；组织名） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Tahāfut al-falāsifa | 《哲学家之矛盾》（安萨里著；亦译《哲学家的矛盾》） | al-ghazali | 学界通行 | 2026-10-28 |
+| Tahāfut al-tahāfut | 《矛盾之矛盾》（伊本·鲁世德著；亦译《矛盾的矛盾》） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+| Kitāb al-ḥurūf | 《字母之书》（法拉比著；亦译《论字母》） | al-farabi 集群 | 学界通行 | 2026-10-28 |
+| Ḥayy ibn Yaqẓān | 《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
+
 ## 文献与编号约定
 
 * DK 编号（如 DK 12B1、DK 24A5）：Diels–Kranz《前苏格拉底残篇》标准编号，原样保留，A=学说汇编条目，B=真残篇。
