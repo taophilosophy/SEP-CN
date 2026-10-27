@@ -76,3 +76,9 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **学术规范落地三件套**：① checks.yml CI 接入 check_academic + check_all --quiet；② task_ops.py advance() 审校挂钩——s3/r3 校次自动跑 check_academic --docs --strict，0 硬错误方可过（词汇表维护任务与无 zh_doc 条目豁免）；③ tools/check_all.py 一键全量合规复核（六项门禁 + 单元测试，--all 加 baseline_audit）。
 * **修复既有红灯**：test_check_academic 三个测试自 68be4fa 创建起即红（fixture gamma-doc.md 仅 7 非空行，按"存根=非空行≤10"规则被跳过，告警类断言永不触发）——fixture 增补占位段至 14 非空行后恢复；compare.py 模块导入的 stdout 重包在 unittest discover 下与同型操作相撞（旧 wrapper 回收关闭 buffer），加 UTF-8 守卫。
 * **同步**：rules/05（工具表 + 快速命令 + CI 清单）、contracts/cli.md（compare.py 契约）、rules/07 衔接表由挂钩自动执行。
+
+## CI 目录误报修复 — 2026-10-27
+
+* 根因：file-name-check.yml（"检查 SUMMARY.md 目录"）在校验通过时只打日志、从不开闭历史 issue——目录重建前的真实失败创建了 "SUMMARY.md mismatch: Missing files" issue，此后每次触发都"始终报告目录有问题"。
+* 修复：校验通过时自动评论并关闭历史 mismatch issue（actions/github-script）。本地已核验 SUMMARY 2563 链接 0 缺失、0 大小写错位（Linux CI 逐字符校验安全）。
+* 推送：经用户授权 `git push -f`（49c4683c）。**被覆盖的远端提交 587ec741 仅存在于并行会话本地**（本仓库未 fetch 到），该会话需 `git fetch && git reset --hard origin/main` 重新同步后将其工作重新落地。
