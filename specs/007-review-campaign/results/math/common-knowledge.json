@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 1224,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "common-knowledge",
+   "line": "$s_i =$ search on floor $i$, $1 \\leq i \\leq 4$"
+  },
+  {
+   "slug": "common-knowledge",
+   "line": "[^note-34]: This could be achieved if the e-mail systems were constructed so tha"
+  }
+ ]
+}

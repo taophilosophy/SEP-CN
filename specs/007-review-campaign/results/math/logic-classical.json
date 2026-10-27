@@ -1,0 +1,23 @@
+{
+ "checked": 1,
+ "formulas": 1560,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-classical",
+   "line": "Constants and variables are the only terms in our formal language, so all of our"
+  },
+  {
+   "slug": "logic-classical",
+   "line": "**Proof**: By Clause (8), either $\\theta$ is atomic or it was produced by one of"
+  },
+  {
+   "slug": "logic-classical",
+   "line": "**Proof:** Suppose that $\\Gamma_1 \\vdash \\theta$ and $\\Gamma_2 \\vdash \\neg \\thet"
+  },
+  {
+   "slug": "logic-classical",
+   "line": "**Proof:** If $M$ satisfies every member of $\\Gamma$, then $M$ satisfies every m"
+  }
+ ]
+}

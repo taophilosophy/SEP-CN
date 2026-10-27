@@ -1,0 +1,11 @@
+{
+ "checked": 1,
+ "formulas": 429,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-preference",
+   "line": "where each $C_m(x)$ ($1 \\leq m \\leq n$) is a formula with exactly one free varia"
+  }
+ ]
+}

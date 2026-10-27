@@ -1,0 +1,55 @@
+{
+ "checked": 1,
+ "formulas": 266,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-fuzzy",
+   "line": "Another, non-idempotent, conjunction $\\&$ is typically added to account for the "
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "In the general t-norm setting, the negation is interpreted using the residuum. N"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "The weakest logic with connectives interpreted by truth functions of the type de"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "A formula $\\varphi$ is a consequence of a set of formulas $\\Gamma$ in MTL, denot"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "Finally, taking into account that fuzzy logics, unlike classical logic, are typi"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "The propositional logic MTL can be given a first-order counterpart MTL$\\forall$ "
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "The first-order logic MTL$\\forall$ is then defined as the consequence relation g"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "Voting semantics is based on the idea that different agents (voters) may coheren"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "- (1)$10^{100}$ is a huge number."
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "- (3)$0$ is a huge number."
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "[^note-2]: The equivalence does not hold for infinite sets of premises. Perhaps "
+  },
+  {
+   "slug": "logic-fuzzy",
+   "line": "[^note-3]: This follows from the residuation property and the intuition that an "
+  }
+ ]
+}

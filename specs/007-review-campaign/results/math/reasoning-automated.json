@@ -1,0 +1,39 @@
+{
+ "checked": 1,
+ "formulas": 913,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "reasoning-automated",
+   "line": "|   | $\\Rightarrow$ | $1 + \\der(0)$ |   | by R1 |"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "Non-classical logics (Haack 1978)[^haack-1978] such as modal logics, intuitionsi"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "The problem of determining the satisfiability of logic formulas has received muc"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "A quick back-envelope calculation reveals the staggering computing times of (alg"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "Recent advances in SAT hybrid strategies coupled with supercomputing power has a"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "After splitting the problem into $10^6$ hard subproblems (known as “cubes”), the"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "Even after the simplification, current theorem provers find the proof task chall"
+  },
+  {
+   "slug": "reasoning-automated",
+   "line": "Closer inspection of the left and right hand sides of (18) under the application"
+  }
+ ]
+}

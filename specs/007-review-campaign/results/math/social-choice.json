@@ -1,0 +1,43 @@
+{
+ "checked": 1,
+ "formulas": 1004,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "social-choice",
+   "line": "- $x$: $9 \\cdot 3 + 6 \\cdot 4 = 51$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $y$: $1 \\cdot 4 + 6 \\cdot 1 + 8 \\cdot 2 = 26$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $z$: $1 \\cdot 2 + 6 \\cdot 3 + 8 \\cdot 4 = 52$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $w$: $1 \\cdot 1 + 6 \\cdot 2 + 8 \\cdot 1 = 21$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $x$: $7 \\cdot 4 + 8 \\cdot 3 = 52$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $y$: $1 \\cdot 3 + 6 \\cdot 1 + 8 \\cdot 2 = 25$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $z$: $1 \\cdot 1 + 6 \\cdot 3 + 8 \\cdot 4 = 51$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "- $w$: $7 \\cdot 2 + 8 \\cdot 1 = 22$,"
+  },
+  {
+   "slug": "social-choice",
+   "line": "> where $0 \\lt r \\lt 1$."
+  }
+ ]
+}

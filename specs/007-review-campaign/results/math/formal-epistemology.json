@@ -1,0 +1,83 @@
+{
+ "checked": 1,
+ "formulas": 676,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "formal-epistemology",
+   "line": "This challenge suggests some important lessons. First, we need a laxer notion of"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "1. For any proposition $A$, $0 \\leq p(A) \\leq 1$.[^note-1]"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "**Theorem (The Law of Total Probability).** For any $A$, and any $B$ whose proba"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "- All ravens are black, though there are only $100$ ravens and a million other t"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "- There is one non-black raven out of $1,000$ ravens, and there are a million ot"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "So here the probability of $1/11$ is divided $45$ ways, yielding a probability o"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "One thing this teaches us is that the probability axioms are silent on Hume’s pr"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "**The Principle of Indifference (PoI)** Given $n$ mutually exclusive and jointly"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "Consider the first horse listed in the race, Athena. There are two possibilities"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "It’s natural to think we should use the more fine-grained division of possibilit"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "We face essentially this problem when we frame the problem of induction in proba"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "Likewise, we might start out unsure whether the first $9$ tosses will come up ta"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "The task is to justify taking the first route rather than the second: sticking t"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "The first line follows from the definition of conditional probability. The secon"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "**Safety** $K \\phi_i \\supset \\phi_{i+1}$ when $i$ is large (at least $100$ let’s"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "Given the assumption on line (1), that you know there are at least $100$ jellybe"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "| Bet | −$10 | $+$$19 |"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "Collins (2009) points out an uncomfortable consequence of this objection, that t"
+  },
+  {
+   "slug": "formal-epistemology",
+   "line": "**Theorem (Lewis’ Triviality Theorem).** If Stalnaker’s Hypothesis is true, then"
+  }
+ ]
+}

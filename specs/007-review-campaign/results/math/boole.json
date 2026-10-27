@@ -1,0 +1,47 @@
+{
+ "checked": 1,
+ "formulas": 576,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "boole",
+   "line": "| $x$ | $y$ | $1 - x$ | $x - x^2$ | $xy$ | $x + y$ | $x - y$ | $x+y - xy$ | $x+y"
+  },
+  {
+   "slug": "boole",
+   "line": "However Boole was much more interested in the fact that $ax + b$ can be written "
+  },
+  {
+   "slug": "boole",
+   "line": "In the chapter *Of Expression and Interpretation*, Boole said “the class not-$X$"
+  },
+  {
+   "slug": "boole",
+   "line": "Applying weak elimination to the primary equational expressions was not sufficie"
+  },
+  {
+   "slug": "boole",
+   "line": "The idempotent law $x^2 = x$ was different from Boole’s laws for the common alge"
+  },
+  {
+   "slug": "boole",
+   "line": "Boole turned to the topic of the interpretability of a logical function in Chapt"
+  },
+  {
+   "slug": "boole",
+   "line": "This was the case of *like* middle terms. He permitted some of the parameters $v"
+  },
+  {
+   "slug": "boole",
+   "line": "Thus one conclusion equation is $1-x = wz$, which has the interpretation *All no"
+  },
+  {
+   "slug": "boole",
+   "line": "The answer is simple: the law $x + x = x$ would have destroyed his ability to us"
+  },
+  {
+   "slug": "boole",
+   "line": "are the *constituents* of $x_1 , \\ldots ,x_j$. There are $2^j$ different constit"
+  }
+ ]
+}

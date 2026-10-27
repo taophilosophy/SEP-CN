@@ -1,0 +1,35 @@
+{
+ "checked": 1,
+ "formulas": 1590,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "We take as the language of Intuitionistic Linear Logic without exponentials the "
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "$1 \\rightarrow(\\phi \\rightarrow \\phi)$"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "The prototypical examples of algebraic semantics for propositional logics are th"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "There are logics for which an algebraic semantics is provided in the literature "
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "In this case one does not consider only a designated element in every algebra $\\"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "2. in each algebra in $\\bK$ a set of designated elements that plays the role $1^"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "line": "3. this set of designated elements is definable (in the same manner on every alg"
+  }
+ ]
+}

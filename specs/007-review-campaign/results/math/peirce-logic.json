@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 350,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "peirce-logic",
+   "line": "Since nothing can bear the null-relation to every member of any non-null class, "
+  },
+  {
+   "slug": "peirce-logic",
+   "line": "Similarly, “$\\unary{h}\\bcomma\\unary{b}=0$” means no horse is black. Hence, “$\\un"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 654,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-dialogical",
+   "line": "Example of material play for the thesis $2:\\mathbb{N} ~ [0:\\mathbb{N}]$."
+  },
+  {
+   "slug": "logic-dialogical",
+   "line": "| 3 | $\\rqst 2$ | (0) |   | $2 \\equiv_{df} s(s(0)) : \\mathbb{N}$ | 8 |"
+  }
+ ]
+}

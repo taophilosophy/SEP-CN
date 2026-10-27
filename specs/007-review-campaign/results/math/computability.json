@@ -1,0 +1,35 @@
+{
+ "checked": 1,
+ "formulas": 363,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "computability",
+   "line": "- $\\zeta$, the zero function of arity $0, \\zeta$( ) $= 0$;"
+  },
+  {
+   "slug": "computability",
+   "line": "- $\\eta$, the identity function of arity $1, \\eta(n) = n$; and,"
+  },
+  {
+   "slug": "computability",
+   "line": "- $\\sigma$, the successor function of arity $1, \\sigma(n) = n +1$."
+  },
+  {
+   "slug": "computability",
+   "line": "Next, we define the exponential function, $E(x,y)$. (Usually $0^{0}$ is consider"
+  },
+  {
+   "slug": "computability",
+   "line": "The exponential function, $E$, grows very rapidly, for example, $E$(10,10) is te"
+  },
+  {
+   "slug": "computability",
+   "line": "Thus $H(2,2) = 2^{4} = 16, H(3,3) = 2^{256}$ is more than $10^{77}$ and comparab"
+  },
+  {
+   "slug": "computability",
+   "line": "Many important complexity classes besides P have been defined and studied; a few"
+  }
+ ]
+}

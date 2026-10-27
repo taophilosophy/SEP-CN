@@ -1,0 +1,47 @@
+{
+ "checked": 1,
+ "formulas": 661,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-probability",
+   "line": "**Degree of essentialness.** Given a valid argument $(\\Gamma,\\phi)$ and a premis"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "**Theorem 5.** Consider an argument $(\\Gamma,\\phi)$, with $|\\Gamma| = n$. There "
+  },
+  {
+   "slug": "logic-probability",
+   "line": "2. The bounds in item 1 are optimal, in the sense that there exist probability f"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "One of the earliest qualitative probability logics is Hamblin’s (1959). The lang"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "Many probability logics are interpreted over a single, but arbitrary probability"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "We depict this example with the following diagram. Inside each circle is a label"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "An example of how these might interact is where the result of the bit determines"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "- $\\mathcal{P}$ associates with $(0,H)$ and $(0,T)$ the distribution mapping $(0"
+  },
+  {
+   "slug": "logic-probability",
+   "line": "The probability that Tweety flies is greater than $0.9$."
+  },
+  {
+   "slug": "logic-probability",
+   "line": "As an example, consider a model where there are two possible vases: 4 white marb"
+  }
+ ]
+}

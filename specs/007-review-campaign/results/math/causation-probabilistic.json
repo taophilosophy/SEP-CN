@@ -1,0 +1,11 @@
+{
+ "checked": 1,
+ "formulas": 403,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "causation-probabilistic",
+   "line": "1. $0 \\lt \\PP(C) \\lt 1$"
+  }
+ ]
+}

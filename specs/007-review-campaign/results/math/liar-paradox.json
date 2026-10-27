@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 361,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "liar-paradox",
+   "line": "Either DLiar is not true or $1 = 0$."
+  },
+  {
+   "slug": "liar-paradox",
+   "line": "First, observe that if DLiar is not true, then it must be true. If DLiar is not "
+  }
+ ]
+}

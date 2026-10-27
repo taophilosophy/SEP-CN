@@ -1,0 +1,27 @@
+{
+ "checked": 1,
+ "formulas": 701,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "type-theory-church",
+   "line": "If $\\bA_{\\alpha}$ is a wff of type α in which $\\bu_{\\alpha \\beta}$ is not free, "
+  },
+  {
+   "slug": "type-theory-church",
+   "line": "We have thus derived a well known law of quantification theory. We illustrate on"
+  },
+  {
+   "slug": "type-theory-church",
+   "line": "Church did not include Axiom $7^{{o}}$ in his list of axioms in Church 1940, but"
+  },
+  {
+   "slug": "type-theory-church",
+   "line": "then by using Axiom $8^{\\alpha}$ one can derive"
+  },
+  {
+   "slug": "type-theory-church",
+   "line": "We illustrate the usefulness of the description operator with a small example. S"
+  }
+ ]
+}

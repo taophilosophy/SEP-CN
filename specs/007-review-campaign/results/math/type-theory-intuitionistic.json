@@ -1,0 +1,23 @@
+{
+ "checked": 1,
+ "formulas": 556,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "type-theory-intuitionistic",
+   "line": "Then $\\E_{m,n}$ is nonempty exactly when $m=n$. The set $\\E_{m,n}$ corresponds t"
+  },
+  {
+   "slug": "type-theory-intuitionistic",
+   "line": "where $1$ is a one element type and $\\times$ denotes the cartesian product of tw"
+  },
+  {
+   "slug": "type-theory-intuitionistic",
+   "line": "The type formers $0, 1, +, \\times, \\rightarrow, \\Sigma,$ and $\\Pi$ which interpr"
+  },
+  {
+   "slug": "type-theory-intuitionistic",
+   "line": "It is a tacit assumption of the meaning explanations that the repeated computati"
+  }
+ ]
+}

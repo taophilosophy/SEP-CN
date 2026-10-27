@@ -1,0 +1,27 @@
+{
+ "checked": 1,
+ "formulas": 538,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-dependence",
+   "line": "In game-theoretic semantics, a sentence $\\phi$ and a model $M$ are made to corre"
+  },
+  {
+   "slug": "logic-dependence",
+   "line": "As in the case of first-order logic and independence-friendly logic, in the impe"
+  },
+  {
+   "slug": "logic-dependence",
+   "line": "**Truth in game-theoretic semantics:** A sentence $\\phi$ is true in a model $M$ "
+  },
+  {
+   "slug": "logic-dependence",
+   "line": "**Equivalence of GTS and team semantics:** A formula $\\phi$ is satisfied by a te"
+  },
+  {
+   "slug": "logic-dependence",
+   "line": "This result, as an aside, makes it clear why the team semantics of dependence lo"
+  }
+ ]
+}

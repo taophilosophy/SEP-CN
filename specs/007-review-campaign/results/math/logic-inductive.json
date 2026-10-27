@@ -1,0 +1,11 @@
+{
+ "checked": 1,
+ "formulas": 898,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-inductive",
+   "line": "1. $0 \\le P[A \\mid B] \\le 1$ premises support conclusions to some degree measure"
+  }
+ ]
+}

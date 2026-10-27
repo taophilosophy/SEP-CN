@@ -1,0 +1,19 @@
+{
+ "checked": 1,
+ "formulas": 583,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "truthlikeness",
+   "line": "| $10 \\le N \\le 20$ | $N=8$ or $10 \\le N \\le 20$ | $N=9$ or $10 \\le N \\le 20$ |"
+  },
+  {
+   "slug": "truthlikeness",
+   "line": "| $11 \\le N \\le 20$ | $N=8$ or $11 \\le N \\le 20$ | $N=9$ or $11 \\le N \\le 20$ |"
+  },
+  {
+   "slug": "truthlikeness",
+   "line": "| $19 \\le N \\le 20$ | $N=8$ or $19 \\le N \\le 20$ | $N=9$ or $19 \\le N \\le 20$ |"
+  }
+ ]
+}

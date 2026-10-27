@@ -1,0 +1,31 @@
+{
+ "checked": 1,
+ "formulas": 370,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "imprecise-probabilities",
+   "line": "- $0 = p(\\emptyset) \\le p(X) \\le p(\\Omega) = 1$"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "line": "For example, you know that $p(X \\cap Y)$ is bounded above by $p(X)$ and by $p(Y)"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "line": "Likewise, bounds can be put on $p(X \\cup Y)$. $p(X\\cup Y)$ can’t be bigger than "
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "line": "White considers dilation to be a problem since learning $Y$ doesn’t *seem* to be"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "line": "- Win $1-\\alpha$ if $X$, lose $\\alpha$ otherwise"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "line": "- Lose $1- \\alpha $ if $X$, win $\\alpha$ otherwise"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "checked": 1,
+ "formulas": 445,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "To see why, let $\\lambda=0.11$, $Q_1$ (the “consequence” common to $P_1$ and $P_"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "and $P_4\\succ P_3$ iff $u(5)w(0.1)>u(1)w(0.11)$. This implies that the preferenc"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "| $P_1$ | $\\nicefrac{7}{24}$ | $$5$ |"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "| $P_2$ | $\\nicefrac{8}{24}$ | $$4.75$ |"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "| $P_3$ | $\\nicefrac{9}{24}$ | $$4.5$ |"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "| $P_4$ | $\\nicefrac{10}{24}$ | $$4.25$ |"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "| $P_5$ | $\\nicefrac{11}{24}$ | $$4$ |"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "line": "[^note-12]: It should be noted that Cumulative Prospect Theory can also be formu"
+  }
+ ]
+}

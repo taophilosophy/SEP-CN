@@ -6,7 +6,7 @@
 
 **Status**: In progress
 
-**Input**: 用户指令（2026-10-28）："建立审阅任务，按照网页A-Z顺序，逐个抓取-比较本地HTML-复核英语markdown。批准批量比较。不计成本"；补充指令："还需要比较summary 和mu-lu-s"。
+**Input**: 用户指令（2026-10-28）："建立审阅任务，按照网页A-Z顺序，逐个抓取-比较本地HTML-复核英语markdown。批准批量比较。不计成本"；补充指令一："还需要比较summary 和mu-lu-s"；补充指令二（新增任务）："确保所有markdown 格式正确，确保归一化，确保注释引用公式表格链接图片等均正确，逐个审阅复核"。
 
 ## 目标与范围
 
@@ -39,6 +39,20 @@
 * integrity：`ok` / `finding`（硬问题，完整明细落 results/integrity/）。
 * math（check_math 退出码只由 missing 驱动）：`ok` / `warn`（unbalanced 渲染歧义警告，明细落 results/math/，不计 finding）/ `finding`（公式丢失，硬失真）。
 
+## 新增任务：markdown 全要素审阅（2026-10-28 补充指令二）
+
+对**全部 markdown**（git 追踪 md ∪ 磁盘扫描 yuanwen/ 语料，共 4360 个文件）逐个复核：
+
+* **归一化**（硬）：无 BOM、LF 换行、换行收尾、无全角空格（02-style）；
+* **注释引用**（硬）：`[^key]` 引用/定义配对；跨文件（补充材料引主文）与引用块体例说明文字分别降级；孤儿定义（yuanwen 设计使然：参考文献全量转脚注）聚合计数；
+* **公式**：保真归 `check_math.py`（已全库跑），行内 `$` 失衡为 warn 级；
+* **表格**（硬）：含分隔行管道块列数一致（`\|`/`&#124;` 转义感知）；
+* **链接**（硬）：内部相对目标必须在盘存在（数学记号伪链接守卫：`*` 开头/含括号/无斜杠无点的目标跳过）；外链计数不抓取；
+* **图片**（硬）：`![alt](path)` 目标必须在盘存在；
+* 中文体例（引号/中西文空格/HTML 残留）归 `check_style.py`，本工具不重复。
+
+实现：`bin/check_markdown.py`（围栏/行间公式状态机感知；退出码 1=有硬问题）。
+
 ## 验收标准
 
 1. 目录层：目录快照 diff、catalog-verdict.json、check_mulu_s/check_summary 结果全部留档，差异逐条有显式裁定或既有登记。
@@ -49,9 +63,13 @@
 ## 产物
 
 * `specs/007-review-campaign/execution-log.md` —— 干活日志
-* `specs/007-review-campaign/results/review-log.jsonl` —— 逐词条凭证（一行一条）
-* `specs/007-review-campaign/results/status.json` —— 检查点（断点续跑）
-* `specs/007-review-campaign/results/en-integrity-full.json` —— 全库收尾凭证
-* `specs/007-review-campaign/results/catalog-*.json` —— 目录层结果存档
-* `specs/007-review-campaign/bin/review_campaign.py` —— 驱动器（A–Z 顺序、路通道节拍、续跑；script/ 为不入库杂物抽屉，驱动器随战役归档入库）
-* 变更词条：`specs/001-sep-sync-pipeline/compare/<slug>.json`（工具自动产出）
+* `specs/007-review-campaign/bin/review_campaign.py` —— 逐词条驱动器（A–Z 顺序、路通道节拍、续跑；script/ 为不入库杂物抽屉，驱动器随战役归档入库）
+* `specs/007-review-campaign/bin/yuanwen_recheck.py` —— 重转换零写入复核（真实 convert_entry 代码路径 + 写操作改窥探比对，避免并行会话 baseline 写竞态）
+* `specs/007-review-campaign/bin/check_markdown.py` —— markdown 全要素检查器（归一化/脚注/表格/链接/图片）
+* `specs/007-review-campaign/results/review-log.jsonl` —— 逐词条三步凭证（一行一条；status.json 为断点检查点）
+* `specs/007-review-campaign/results/full-run-summary.json` —— 全量 sweep 汇总
+* `specs/007-review-campaign/results/en-integrity-full.json` —— en/ 包全库收尾凭证
+* `specs/007-review-campaign/results/yuanwen-recheck.json` —— 重转换复核凭证
+* `specs/007-review-campaign/results/mdqa-full.json` —— markdown 全要素凭证（含逐文件明细）
+* 目录层结果存档于管线原位：`en/_catalog/`（快照）、`baseline/catalog.json`、`specs/001-sep-sync-pipeline/catalog-verdict.json`
+* 变更词条：`specs/001-sep-sync-pipeline/compare/<slug>.json`（compare.py 自动产出）

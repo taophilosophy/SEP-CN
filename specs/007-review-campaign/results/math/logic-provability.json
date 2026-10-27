@@ -1,0 +1,11 @@
+{
+ "checked": 1,
+ "formulas": 358,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-provability",
+   "line": "1. $T$ proves induction for $\\Delta_0$-formulas, and $T$ proves EXP, the formula"
+  }
+ ]
+}

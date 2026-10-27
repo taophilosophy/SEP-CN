@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 231,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "model-theory",
+   "line": "Each mathematical structure is tied to a particular first-order language. A stru"
+  },
+  {
+   "slug": "model-theory",
+   "line": "For example let $\\mathbb{Z}$ be the additive group of integers. Its elements are"
+  }
+ ]
+}

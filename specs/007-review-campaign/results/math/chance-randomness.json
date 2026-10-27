@@ -1,0 +1,51 @@
+{
+ "checked": 1,
+ "formulas": 452,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "chance-randomness",
+   "line": "Shorn of the inessential presentational device of selecting an outcome to bet on"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "One example is this algorithm: on input of a binary string $\\delta$ of length $4"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "So our interest must be in those decompression functions which do best overall. "
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "Choose some such asymptotically optimal function $u$, and define the complexity "
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "To fix ideas, it is useful to have an example of a prefix-free encoding in mind."
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "The notion of prefix-free complexity is defined in exactly the same way as plain"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "so we get back the original definition of Kolmogorov complexity in that special "
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "At least some non-random sequences satisfy many of the measure one properties re"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "> **P$2'$**: A possible sequence of outcomes is random iff it is not the case th"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "[^note-6]: More formally, a sequence is Borel normal if the frequency of every s"
+  },
+  {
+   "slug": "chance-randomness",
+   "line": "[^note-12]: To see why, suppose it was not prefix-free. Then the code of one str"
+  }
+ ]
+}

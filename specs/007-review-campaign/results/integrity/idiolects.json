@@ -1,0 +1,54 @@
+{
+ "audited": 1,
+ "ran_at": "2026-10-27T19:48:00Z",
+ "clean": 0,
+ "with_hard_issues": 1,
+ "hard_findings": 1,
+ "errors": [],
+ "mathjax_entries": 0,
+ "math_inline_entries": 0,
+ "math_asset_entries": 0,
+ "default_absent_total": 0,
+ "site_ref_segments": {
+  "support": 24,
+  "css": 18,
+  "js": 15,
+  "info.html": 12,
+  "cgi-bin": 10,
+  "symbols": 7,
+  "index.html": 6,
+  "contents.html": 6,
+  "new.html": 6,
+  "published.html": 6,
+  "archives": 6,
+  "about.html": 6,
+  "board.html": 6,
+  "cite.html": 6,
+  "special-characters.html": 6,
+  "tools": 6,
+  "contact.html": 6,
+  "fundraising": 3,
+  "accessibility.html": 3,
+  "": 3
+ },
+ "external_ref_domains": {
+  "leibniz.stanford.edu": 5,
+  "fonts.googleapis.com": 3,
+  "www.open.ac.uk": 3,
+  "mally.stanford.edu": 3,
+  "philpapers.org": 2,
+  "commons.wikimedia.org": 1,
+  "mcps.umn.edu": 1,
+  "www.inphoproject.org": 1,
+  "www.indiana.edu": 1,
+  "www.dif.unige.it": 1
+ },
+ "problems": [
+  {
+   "slug": "idiolects",
+   "unregistered_orphans": [
+    "appendix.html"
+   ]
+  }
+ ]
+}

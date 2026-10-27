@@ -1,0 +1,135 @@
+{
+ "checked": 1,
+ "formulas": 2217,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "computational-complexity",
+   "line": "$\\sc{RELATIVE}\\ \\sc{PRIMALITY}\\ $ Given natural numbers $x$ and $y$, do $x$ and "
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "$\\sc{FACTORIZATION}\\ $ Given natural numbers $x$ and $y$, does there exist $1 \\l"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "$\\sc{RELATIVE}\\ \\sc{PRIMALITY}$ can be solved by applying Euclid’s greatest comm"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "There are thus natural numbers whose binary representations we can easily inscri"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "This is an example of a so-called *brute force* algorithm -- i.e. one which solv"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "1. CET classifies as *feasible* those functions whose most efficient algorithms "
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "2. CET classifies as *infeasible* functions whose most efficient algorithms have"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "$\\sc{BHP}\\ $ Given the index of a non-deterministic Turing machine $N \\in \\mathf"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "The problem $3\\text{-}\\sc{SAT}$ was shown to be $\\textbf{NP}$-complete in Cook’s"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "A reduction of $3\\text{-}\\sc{SAT}$ to $\\sc{INDEPENDENT}\\ \\sc{SET}$ can now be de"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "- Let $\\phi$ be a $3\\text{-}\\sc{CNF}$ formula consisting of $n$ clauses as depic"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "Now define a mapping from instances of $3\\text{-}\\sc{SAT}$ to instances of $\\sc{"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "Note, however, that in order to show that $\\phi \\in \\sc{VALID}$ requires that we"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "It is easy to see that $\\textbf{NP} \\cap \\textbf{coNP}$ includes all problems in"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "A *winning strategy* for *Verifier* in the verification game for $\\phi$ is a seq"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "whose provably total functions correspond to the levels of the hierarchy $\\Box^P"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "- (S2) We possess notations – e.g. decimal numerals such as $10^{10^{10}}, 67^{2"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "In emphasizing the practical aspects of how we use numerals to represent natural"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "If we regard such expressions as tokens rather than types, then it makes sense t"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "where $\\tau$ is an expression denoting an ‘infeasible number’ such as $10^{12}$,"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "Although it would be uncharitable to think that Yessenin-Volpin was unaware of t"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "In light of the latter restriction, it is not possible to mimic the inductive fo"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "Recall that the theory $\\text{I}\\Delta_0$ introduced in Section 4.5 allows us to"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "Note, however, that such theorists are typically careful to avoid explicitly ass"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^note-5]: A *Planck time* – approximately $5.39 \\times 10^{-43}$ seconds – is t"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "for some time constructible function $f(x)$. Unlike HP, $\\text{HP}_f$ is decidab"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^note-34]: In fact it follows by an application of the *Chernoff bound* (Cherno"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^note-48]: Similar doubts were also expressed by van Dantzig (1955, p. 273–74) "
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "> Let us consider the series $F$ of *feasible* numbers, i.e. of those up to whic"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^isles-1992]: Isles, D., 1992, “What evidence is there that $2^{65536 }$ is a n"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^van-1955]: Van Dantzig, D., 1955, “Is $10^{10^{10}}$ a finite number?” *Dialec"
+  },
+  {
+   "slug": "computational-complexity",
+   "line": "[^van-1984]: Van Den Dries, L., and Levitz, H., 1984, “On Skolem’s exponential f"
+  }
+ ]
+}

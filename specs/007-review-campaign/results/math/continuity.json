@@ -1,0 +1,47 @@
+{
+ "checked": 1,
+ "formulas": 718,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "continuity",
+   "line": "First, in the 1960s Abraham Robinson, using methods of mathematical logic, creat"
+  },
+  {
+   "slug": "continuity",
+   "line": "Euler rejected the concept of infinitesimal in its sense as a quantity less than"
+  },
+  {
+   "slug": "continuity",
+   "line": "- distinguished elements 0 (*zero*) and 1 (*one*) with $0 \\ne 1$"
+  },
+  {
+   "slug": "continuity",
+   "line": "The relations $\\lt$ and $\\le$ are defined in the usual way; $x$ is *nonnegative*"
+  },
+  {
+   "slug": "continuity",
+   "line": "The sets $N$ of natural numbers, $N^+$ of positive integers, $Z$ of integers and"
+  },
+  {
+   "slug": "continuity",
+   "line": "- $0 + x = x$"
+  },
+  {
+   "slug": "continuity",
+   "line": "- $1 x = x$"
+  },
+  {
+   "slug": "continuity",
+   "line": "- $1 \\gt 0$"
+  },
+  {
+   "slug": "continuity",
+   "line": "- $0 \\lt x \\lt 1 \\Longrightarrow x \\gt x^2$"
+  },
+  {
+   "slug": "continuity",
+   "line": "from which we derive by microcancellation the falsehood $1 = 0$. So again the la"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "checked": 1,
+ "formulas": 783,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-free",
+   "line": "- $\\varphi(P^{n})\\subseteq \\varphi({E!})^{n}$ such that if $\\langle s,t\\rangle\\i"
+  },
+  {
+   "slug": "logic-free",
+   "line": "However, in neutral free logic, quantification is limited to the extension of th"
+  },
+  {
+   "slug": "logic-free",
+   "line": "In classical logic and in positive free logic any substitution instance of a val"
+  },
+  {
+   "slug": "logic-free",
+   "line": "Positive semantics avoid these anomalies. But, if bivalent, in application they "
+  },
+  {
+   "slug": "logic-free",
+   "line": "Assuming a bivalent positive semantics, which ones should we make true and which"
+  },
+  {
+   "slug": "logic-free",
+   "line": "Some logics employ primitive *n-place function symbols*—symbols that combine wit"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "checked": 1,
+ "formulas": 2321,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "recursive-functions",
+   "line": "This process may be illustrated by considering the familiar factorial function $"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "Examples of recursive definitions can be found intermittently in the history of "
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "Gödel’s arithmetization of syntax provides a means of assigning to each primitiv"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "The third clause in this definition defines the value of $\\pi(i+1,x+1)$ in terms"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "In the general case there is indeed no guarantee that there will exist a unique "
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "In the case of the primitive recursive functions **PR**, the initial functions i"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "of type $\\mathbb{N}^k \\rightarrow \\mathbb{N}$. As an example, suppose that $f$ i"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "For all $j,k \\in \\mathbb{N}$ and $f,g_0,\\ldots,g_{k-1} \\in \\textbf{PR}$, if $f$ "
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "where $p_i$ is the $i$th prime number as defined above. In other words, the code"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "The operation which takes a sequence of arbitrary length to its code does not ha"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "In other words, $\\mu y f(\\vec{n},y)$ is equal to the least $m$ such that $f(\\vec"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "1. There are continuum (i.e., $2^{\\aleph_0}$) many distinct Turing degrees. In p"
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "2. For every degree $\\mathbf{a} \\not\\equiv_T \\mathbf{0}$, there exists a degree "
+  },
+  {
+   "slug": "recursive-functions",
+   "line": "The foregoing results all pertain to the use of $\\mathcal{L}^2_a$-formulas to de"
+  }
+ ]
+}

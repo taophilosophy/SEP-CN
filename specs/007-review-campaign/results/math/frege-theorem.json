@@ -1,0 +1,63 @@
+{
+ "checked": 1,
+ "formulas": 1171,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "frege-theorem",
+   "line": "It is also important to point out that Frege used functional application ‘$f(x)$"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "Thus, formulas such as ‘$x = y$’ are part of the second-order predicate calculus"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "Now consider the concept *that which when added to* $2^{2}$ *equals* 5 (i.e., $["
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "If we remember that the extension of a concept is something like the set of obje"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "- 2 is the number of the concept *author of Principia Mathematica*, i.e.,     $2"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "- 1 is the number of the concept *author of Principia Mathematica other than Rus"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "$0 \\eqdef \\#[\\lambda x \\, x\\neq x]$"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "*Proof*: It is a simple consequence of the definition of ‘weak ancestral’ that $"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "*Proof*: Assume, for *reductio*, that some number, say $n$, is such that $\\mathi"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "Then we may state the Principle of Mathematical Induction as follows: if (a) $0$"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "Now to derive Principle of Mathematical Induction from the General Principle of "
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "Since the consequent is the reconfigured Lemma on Successors, Frege can prove th"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "[Proof that $0$ falls under $Q$](frege-theorem.Q0.md)"
+  },
+  {
+   "slug": "frege-theorem",
+   "line": "We may then define the sequence of natural numbers succeeding $0$ as follows:"
+  }
+ ]
+}

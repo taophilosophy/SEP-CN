@@ -1,0 +1,19 @@
+{
+ "checked": 1,
+ "formulas": 1020,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-intuitionistic",
+   "line": "Brouwer [1908] observed that LEM was abstracted from finite situations, then ext"
+  },
+  {
+   "slug": "logic-intuitionistic",
+   "line": "The logical axioms and rules of $\\mathbf{HA}$ are those of first-order intuition"
+  },
+  {
+   "slug": "logic-intuitionistic",
+   "line": "For each node $k$ let $L(k)$ be the language extending $L$ by new constants for "
+  }
+ ]
+}

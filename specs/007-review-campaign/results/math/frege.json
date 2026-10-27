@@ -1,0 +1,71 @@
+{
+ "checked": 1,
+ "formulas": 543,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "frege",
+   "line": "In Frege’s term logic, all of the terms and well-formed formulas are denoting ex"
+  },
+  {
+   "slug": "frege",
+   "line": "If we replace a complete name appearing in a sentence by a placeholder, the resu"
+  },
+  {
+   "slug": "frege",
+   "line": "where $R$ is a relation that can take $n$ arguments, $a_1, \\ldots , a_n$ are any"
+  },
+  {
+   "slug": "frege",
+   "line": "where the second epsilon replaces $x$ in $\\phi (x)$, to denote the extension of "
+  },
+  {
+   "slug": "frege",
+   "line": "> $0 =_\\mathit{df} \\#[\\lambda x \\: x \\neq x]$"
+  },
+  {
+   "slug": "frege",
+   "line": "Thus, the number 0 becomes defined as the extension of all the concepts equinume"
+  },
+  {
+   "slug": "frege",
+   "line": "In order to define the concept of *natural number*, Frege first defined, for eve"
+  },
+  {
+   "slug": "frege",
+   "line": "To see the intuitive idea behind this definition, consider how the definition is"
+  },
+  {
+   "slug": "frege",
+   "line": "- $2$ is the (cardinal) number of the concept *author of Principia Mathematica*,"
+  },
+  {
+   "slug": "frege",
+   "line": "- $1$ is the (cardinal) number of the concept *author of Principia Mathematica o"
+  },
+  {
+   "slug": "frege",
+   "line": "> $x$ is a *number*  =_{*df*}  either $x\\! =\\! 0$ or $0$ is an ancestor of $x$ i"
+  },
+  {
+   "slug": "frege",
+   "line": "Then if we substitute Frege’s definitions of $\\mathit{Number}(x)$, $\\mathit{Prec"
+  },
+  {
+   "slug": "frege",
+   "line": "> $117+136 = 253$. The morning star is identical to the evening star. Mark Twain"
+  },
+  {
+   "slug": "frege",
+   "line": "Frege believed that these statements all have the form ‘$a=b$’, where ‘$a$’ and "
+  },
+  {
+   "slug": "frege",
+   "line": "> $4 \\gt 3$ $4 = 8/2$ Therefore, $8/2 \\gt 3$"
+  },
+  {
+   "slug": "frege",
+   "line": "where $0 < b < 1$, and $a$ is a positive odd integer, and $ab > 1 + (3/2)\\pi $."
+  }
+ ]
+}

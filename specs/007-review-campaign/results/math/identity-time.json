@@ -1,0 +1,35 @@
+{
+ "checked": 1,
+ "formulas": 450,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$1'$} I(a=b). $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$2'$} D (a=a). $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$3'$} [\\lambda x\\ D(x=a)]a $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$4'$} a=b $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$5'$} [\\lambda x\\ D(a=x)]b $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$6'$} D(a=b), $$"
+  },
+  {
+   "slug": "identity-time",
+   "line": "$$\\tag{$7'$} \\neg(a=b) $$"
+  }
+ ]
+}

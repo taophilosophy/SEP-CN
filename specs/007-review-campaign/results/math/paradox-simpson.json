@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 352,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "paradox-simpson",
+   "line": "Table 2: Abstract representation of a $2 \\times 2$ contingency table with subpop"
+  },
+  {
+   "slug": "paradox-simpson",
+   "line": "**Fact 1:** Suppose $a_i, b_i > 0$ for all $1 \\le i \\le N$. Then also"
+  }
+ ]
+}

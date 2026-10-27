@@ -1,0 +1,27 @@
+{
+ "checked": 1,
+ "formulas": 1754,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-manyvalued",
+   "line": "That is, if all the sentences in the premise set are non-false in a valuation, t"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "line": "In addition, instead of truth preservation from the premise set to the conclusio"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "line": "This continuous version of the disjunction connective is a very natural one: the"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "line": "Although Łukasiewicz’s logics, along with most (many-valued) logics in the liter"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "line": "Now, every power set algebra is a Boolean algebra, and conversely, by Stone’s re"
+  }
+ ]
+}

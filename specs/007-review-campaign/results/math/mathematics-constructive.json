@@ -1,0 +1,103 @@
+{
+ "checked": 1,
+ "formulas": 700,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "mathematics-constructive",
+   "line": "With this interpretation, however, we run into a serious problem in the special "
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "where, for reasons that we divulge shortly, $x \\ne 0$ means that we can find a r"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "Let’s examine this from another angle. Let $G(n)$ act as shorthand for the state"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "There is no question that $\\ba$ is a computationally well-defined sequence, in t"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "- $2^{-1}a_1 + 2^{-2}a_2 + \\cdots = 0$, which implies that $a_n = 0$ for every $"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "- we can find a positive integer $N$ such that $2^{-1}a_1 + 2^{-2}a_2 + \\cdots \\"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "| $\\neg$ (not): | to prove $\\neg P$ we must show that $P$ implies $0 = 1$. |"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "6. If $f$ is a continuous real-valued mapping on the closed interval $[0,1]$ suc"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "9. If $f$ is a continuous real-valued mapping on the closed interval $[0,1]$ suc"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "Let $f$ be a continuous real-valued mapping on the closed interval $[0,1]$ such "
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "Once free choice sequences are admitted into mathematics, so, perhaps to one’s i"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "- Any function from $\\bN^{\\bN}$ or $2^{\\bN}$ to a metric space is pointwise cont"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "- it is closed under restriction: for each $\\alpha \\in \\bN^*$ and each $n$, if $"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "We now recall the *power set axiom* of classical set theory: if $X$ is a set, th"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "A consequence of the axiom of replacement in constructive Zermelo–Fraenkel set t"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "We sketch a proof that $\\textrm{CH}$ implies the law of excluded middle. First w"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "where FT$_?$ is some form of Brouwer’s fan theorem, and $T$ is a theorem of INT."
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "for some detachable subset $D$ of $2^*$. Every detachable subset of $2^*$ is a $"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "If $?$ denotes a property of subsets of $2^*$, then Brouwer’s *fan theorem for* "
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "Our strategy for attacking this problem is two-fold. First, given a set $S$ of t"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "This, though, is only half of the solution. To prove that the implication from ("
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "**Theorem 1**: Let $f : [0,1] \\rightarrow \\bR$ be uniformly continuous. Then the"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "**Theorem 2**: Let $B$ be a detachable subset of $2^*$. Then there exists a unif"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "line": "It follows that POS is derivable in INT, in which the full fan theorem, not just"
+  }
+ ]
+}

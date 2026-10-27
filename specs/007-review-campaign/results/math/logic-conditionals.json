@@ -1,0 +1,79 @@
+{
+ "checked": 1,
+ "formulas": 785,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-conditionals",
+   "line": "Another system worthy of consideration is the trivalent logic of “conditional ob"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "Every probabilistically valid inference is strictly valid, but not vice versa. S"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "> for every real number $s$, you are willing to pay (resp., to receive) an amoun"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$1) | $K*A$ is a belief set. | (Closure) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$2) | $A\\in K*A.$ | (Success) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$3) | $K*A\\subseteq K+A.$ | (Inclusion) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$4) | If $\\neg A\\not\\in K$, then $K+A \\subseteq K*A$. | (Vacuity) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$5) | $K*A = K_{\\bot}$ only if $\\vdash \\neg A$. | (Consistency) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$6) | If $\\vdash A\\equiv B$, then $K*A = K*B$. | (Extensionality) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$7) | $K*(A\\wedge B) \\subseteq(K*A)+B$. | (Superexpansion) |"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "| ($*$8) | If $\\neg B \\notin K*A$, then $(K*A)+B \\subseteq K*(A\\wedge B)$ | (Sub"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "The numbering is AGM’s, the names are due to Hansson (1999). Postulates ($*$3) a"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "The logic of conditionals then mirrors the logic of belief revision: ($*$1) corr"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "by ($*$4), and similarly $C\\in (K+(A\\vee C))*\\neg A$. So by GRT,"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "Others think that the Ramsey test is perfectly all right. Some authors argue tha"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "when $P(C|A)>P(C)$, and defined to be equal to $0$ otherwise. This yields a modi"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "**($>$1)**"
+  },
+  {
+   "slug": "logic-conditionals",
+   "line": "**($>$2a)**"
+  }
+ ]
+}

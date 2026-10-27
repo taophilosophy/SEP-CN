@@ -1,0 +1,11 @@
+{
+ "checked": 1,
+ "formulas": 506,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "causal-models",
+   "line": "- $I(i) = x$ if individual *i* has a pre-tax income of $*x* per year."
+  }
+ ]
+}

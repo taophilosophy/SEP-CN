@@ -1,0 +1,75 @@
+{
+ "checked": 1,
+ "formulas": 569,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "infinity",
+   "line": "The *natural numbers* form the most elementary number system. (Some mathematicia"
+  },
+  {
+   "slug": "infinity",
+   "line": "It is not hard to check that the real number constructed in this way is the limi"
+  },
+  {
+   "slug": "infinity",
+   "line": "This fact about bounded, increasing sequences also underlies the use of infinite"
+  },
+  {
+   "slug": "infinity",
+   "line": "Thus, $\\sum_{i=1}^\\infty\\frac{1}{2^i}=\\lim_{n\\to\\infty}\\sum_{i=1}^n\\frac{1}{2^i}"
+  },
+  {
+   "slug": "infinity",
+   "line": "> for each real number $\\epsilon>0$, there exists a $\\delta$, such that for ever"
+  },
+  {
+   "slug": "infinity",
+   "line": "> for every $M$, there exists a $\\delta$, such that for every $x$ with $0<|x-a|<"
+  },
+  {
+   "slug": "infinity",
+   "line": "Just as the real numbers emerge naturally as the tools to measure finite quantit"
+  },
+  {
+   "slug": "infinity",
+   "line": "Multiplication of ordinal numbers corresponds to replacing each element of the s"
+  },
+  {
+   "slug": "infinity",
+   "line": "For the hyperreals though, it is sufficient to show that this value is infinites"
+  },
+  {
+   "slug": "infinity",
+   "line": "and for any real $x$, $3xh+h^2$ is infinitesimal whenever $h$ is infinitesimal.)"
+  },
+  {
+   "slug": "infinity",
+   "line": "Hilbert’s Hotel has infinitely many rooms, labelled 1, 2, 3, …, each of which is"
+  },
+  {
+   "slug": "infinity",
+   "line": "Suppose that we have a lamp and a means of turning the lamp off and on. Suppose "
+  },
+  {
+   "slug": "infinity",
+   "line": "Suppose that Achilles wants to run from $A$ to $B$ but there are infinitely many"
+  },
+  {
+   "slug": "infinity",
+   "line": "A fair coin is tossed. If it comes up heads, you receive $2. If it comes up tail"
+  },
+  {
+   "slug": "infinity",
+   "line": "Pascal maintains that we cannot know whether God exists or not, but he argues th"
+  },
+  {
+   "slug": "infinity",
+   "line": "| Probabilities: | $p$ | $1-p$ |"
+  },
+  {
+   "slug": "infinity",
+   "line": "[^kitcher-2000]: Kitcher, P. and Varzi, A., 2000, “Some Pictures are Worth $2^{\\"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 736,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-propositional",
+   "line": "Consider any other propositional connective denoted $\\star$, of any arity, say 3"
+  },
+  {
+   "slug": "logic-propositional",
+   "line": "A logic is said to be decidable if there is a reliable method for determining wh"
+  }
+ ]
+}

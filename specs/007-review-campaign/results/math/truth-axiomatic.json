@@ -1,0 +1,23 @@
+{
+ "checked": 1,
+ "formulas": 329,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "truth-axiomatic",
+   "line": "For the sake of definiteness we assume that the language of arithmetic has exact"
+  },
+  {
+   "slug": "truth-axiomatic",
+   "line": "Theories of truth based on the $T$-sentences, and their formal properties, have "
+  },
+  {
+   "slug": "truth-axiomatic",
+   "line": "2. The idempotency of double negation: $\\forall \\phi\\forall x\\bigl(T[(\\neg\\neg)^"
+  },
+  {
+   "slug": "truth-axiomatic",
+   "line": "As remarked above, if KF proves $T\\ulcorner \\phi \\urcorner$ for some sentence $\\"
+  }
+ ]
+}

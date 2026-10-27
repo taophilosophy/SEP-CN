@@ -1,0 +1,35 @@
+{
+ "checked": 1,
+ "formulas": 344,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "turing-machine",
+   "line": "We will also have to make some assumptions about the configuration of the tape w"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "| $q_1$ | / | $0\\opR q_2$ |"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "| $q_4$ | $/$ | $0\\opR q_{\\textrm{halt}}$ |"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "The idea of doing an addition with Turing machines when using unary representati"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "Figure 4: The computation of $3+4$ by $T_{\\textrm{Add}_2}$ (The animation can be"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "| $q_1$ | / | $0\\opR q_2$ |"
+  },
+  {
+   "slug": "turing-machine",
+   "line": "| $q_5$ | / | $0\\opR q_1$ |"
+  }
+ ]
+}

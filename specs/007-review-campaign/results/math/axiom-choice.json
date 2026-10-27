@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 547,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "axiom-choice",
+   "line": "From the presupposition that $0 \\ne 1$ it follows that"
+  },
+  {
+   "slug": "axiom-choice",
+   "line": "[^note-18]: Also, of course, use was made of $0 \\ne 1$, but this assumption is s"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "checked": 1,
+ "formulas": 670,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-dynamic",
+   "line": "- $0$ (“false”) is a formula."
+  },
+  {
+   "slug": "logic-dynamic",
+   "line": "The other Boolean connectives $1$, $\\land$, $\\to$, and $\\leftrightarrow$ are use"
+  },
+  {
+   "slug": "logic-dynamic",
+   "line": "Informally, the mapping $R$ assigns to each atomic program $\\pi\\in\\Pi_0$ some bi"
+  },
+  {
+   "slug": "logic-dynamic",
+   "line": "- $(i,j)R(\\pi )(i,j-1)$ when $1 \\leq j \\leq i$"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 779,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "settheory-alternative",
+   "line": "Define 0 as the set whose only element is the empty set. Let $A$ be any set; def"
+  },
+  {
+   "slug": "settheory-alternative",
+   "line": "For example, the Frege definition of the natural numbers works in *TST*. The num"
+  }
+ ]
+}

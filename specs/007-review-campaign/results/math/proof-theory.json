@@ -1,0 +1,23 @@
+{
+ "checked": 1,
+ "formulas": 1041,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "proof-theory",
+   "line": "The proof is given in section II of Ackermann’s paper entitled, tellingly, *The "
+  },
+  {
+   "slug": "proof-theory",
+   "line": "One last remark about the use of ordinals: Gentzen showed that transfinite induc"
+  },
+  {
+   "slug": "proof-theory",
+   "line": "The first incompleteness is proved for any such theory **T**, by explicitly prod"
+  },
+  {
+   "slug": "proof-theory",
+   "line": "1. $0\\in{\\cO}$, and ${\\mid}{0}{\\mid} =0$."
+  }
+ ]
+}

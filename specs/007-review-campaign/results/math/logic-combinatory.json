@@ -1,0 +1,31 @@
+{
+ "checked": 1,
+ "formulas": 1267,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "logic-combinatory",
+   "line": "A coarse analogy with elementary arithmetic operations, perhaps, can shed some l"
+  },
+  {
+   "slug": "logic-combinatory",
+   "line": "*Addition* is the term $\\textsf{BS}(\\textsf{BB})$, and *multiplication* is the t"
+  },
+  {
+   "slug": "logic-combinatory",
+   "line": "Some simple *recursive functions* may be defined as follows. The *predecessor* f"
+  },
+  {
+   "slug": "logic-combinatory",
+   "line": "*Addition* may be defined by the recursive equation $+mn=Zmn (\\textsf{V}(\\textsf"
+  },
+  {
+   "slug": "logic-combinatory",
+   "line": "The *factorial* function is definable from the predecessor function plus from mu"
+  },
+  {
+   "slug": "logic-combinatory",
+   "line": "Gödel achieved an encoding of a formal language by assigning numbers to symbols,"
+  }
+ ]
+}

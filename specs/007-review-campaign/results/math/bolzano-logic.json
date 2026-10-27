@@ -1,0 +1,15 @@
+{
+ "checked": 1,
+ "formulas": 275,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "bolzano-logic",
+   "line": "Because non-logical parameters are never held constant, many inferences can only"
+  },
+  {
+   "slug": "bolzano-logic",
+   "line": "Thus, for example, [$e \\lt \\pi$] is deducible from [$e \\lt 3$] and [$3 \\lt \\pi$]"
+  }
+ ]
+}

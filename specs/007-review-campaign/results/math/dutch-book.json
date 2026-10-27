@@ -1,0 +1,111 @@
+{
+ "checked": 1,
+ "formulas": 243,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "dutch-book",
+   "line": "$0 \\le \\pr(A)$ [Non-Negativity];"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "**($2'$)**"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "**($2''$)**"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "Axiom 2: Suppose that an agent’s betting quotient for a tautology (or a logical "
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| T | F | [$1 - Q(H_{1}) - Q(H_{2}) + Q(H_{1}\\vee H_{2}) - 1$] |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| F | T | [$1 - Q(H_{1}) - Q(H_{2}) + Q(H_{1}\\vee H_{2}) - 1$] |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "The Dutch Book argument has often been presented as establishing that degrees of"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| $$S$ | if $M$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "Several philosophers have sought to establish coherence as a consistency constra"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| $$S$ | if $M$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "| $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$1$ | if $A \\wedge E$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$\\pr_1(A\\mid E)$ | if $\\neg E$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$\\pr_1(A\\mid E) - \\pr_2(A)$ | if $E$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$1$ | if $A$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$1$ | if $(A \\wedge \\pr_t(A) = r)$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$x$ | if $\\pr_t(A)\\ne r$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$x-r$ | if $\\pr_t(A) = r$ |"
+  },
+  {
+   "slug": "dutch-book",
+   "line": "|   | $$0$ | otherwise |"
+  }
+ ]
+}

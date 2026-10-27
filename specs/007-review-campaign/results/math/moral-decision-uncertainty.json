@@ -1,0 +1,43 @@
+{
+ "checked": 1,
+ "formulas": 139,
+ "missing": [],
+ "unbalanced": [
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "The other standard strategy for avoiding fanaticism is to require a *bounded* ut"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "But in the moral context, the bounded utility approach looks less promising. Int"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_1$ | $1$ | 0 | $\\cdots$ | 0 |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_2$ | 0 | $1$ | $\\cdots$ | 0 |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_n$ | 0 | 0 | $\\cdots$ | $1$ |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_1$ | $1 + \\epsilon$ | 0 | $\\cdots$ | 0 |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_2$ | $1 + \\epsilon$ | 0 | $\\cdots$ | 0 |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "| $p_n$ | $1 + \\epsilon$ | 0 | $\\cdots$ | 0 |"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "line": "[^note-20]: The best-known example of such a prospect is the St. Petersburg game"
+  }
+ ]
+}
