@@ -8,7 +8,7 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
-from tools.en_integrity import audit_dir, resolve_ref
+from tools.en_integrity import audit_dir, inbound_map, resolve_ref
 
 PAGE = """<!DOCTYPE html>
 <html><head><meta charset="utf-8" />
@@ -165,6 +165,23 @@ class TestAuditDir(unittest.TestCase):
         res, hard = audit_dir(self.en, "fake", {"index.html"})
         self.assertNotIn("suspect_page", res)
         self.assertEqual(hard, 0)
+
+    def test_inbound_cross_ref_not_orphan(self):
+        build(self.en, {"beta/index.html":
+                        '<html><title>B (Stanford Encyclopedia of Philosophy)'
+                        '</title><body>b</body></html>',
+                        "beta/appendix.html": "<html></html>",
+                        "gam/index.html":
+                        '<html><title>G (Stanford Encyclopedia of Philosophy)</title>'
+                        '<a href="../beta/appendix.html">app</a></html>'})
+        inb = inbound_map(self.en, ["alpha", "beta", "gam"])
+        self.assertEqual(inb, {"beta": {"appendix.html", "fig-shared.png"}})
+        res, hard = audit_dir(self.en, "beta",
+                              {"index.html", "fig-shared.png"},
+                              inb.get("beta", set()))
+        self.assertEqual(hard, 0)
+        self.assertEqual(res["fetched_not_registered"], ["appendix.html"])
+        self.assertNotIn("registered_orphans", res)
 
     def test_suspect_and_truncated(self):
         build(self.en, {"bad/index.html":

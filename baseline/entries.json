@@ -997,7 +997,7 @@
         "md": "yuanwen/a/action-perception.md",
         "sha256": "2ff6a09f6b5a13ad7f46a8d466a92d99be24877554070b7d41856a2becf754e0",
         "source_sha256": "9fe6cfcd18d65af456e48adf30ecc28b0ad8ca0e24484638a45c63740a064695",
-        "converted_at": "2026-10-27T17:21:34Z",
+        "converted_at": "2026-10-27T17:50:27Z",
         "cite_markers": 189,
         "cite_defs": 196,
         "supplements": [],
@@ -4209,13 +4209,11 @@
         "md": "yuanwen/a/algebra.md",
         "sha256": "badd4626946dd373b50b52bd0c8ed5a63a2e06052b1bf126f1b8f5b968fddd3f",
         "source_sha256": "e21388936c1e7c898adb5f8ddba201ef1ed578318f5accd2a766da5e1c04dd4b",
-        "converted_at": "2026-10-27T17:21:36Z",
+        "converted_at": "2026-10-27T17:50:27Z",
         "cite_markers": 0,
         "cite_defs": 4,
         "supplements": [],
-        "images": [
-          "yuanwen/assets/algebra/local.js"
-        ],
+        "images": [],
         "notes": 0
       }
     },
@@ -6504,7 +6502,7 @@
         "md": "yuanwen/a/aquinas.md",
         "sha256": "c5d308db977bcde6b079c6e4a466d2180fe49861f8e9b14edfac524fd050c377",
         "source_sha256": "79dc1c82782a1d0b26be8745adeef6e91a4d237328262cbb40c35bfe66a84f5f",
-        "converted_at": "2026-10-27T17:21:30Z",
+        "converted_at": "2026-10-27T17:50:28Z",
         "cite_markers": 127,
         "cite_defs": 172,
         "supplements": [],
@@ -17266,7 +17264,7 @@
         "md": "yuanwen/c/causal-models.md",
         "sha256": "5ed6610c2df54a91d056cb60c83ebe26a20d64dafda2a22ac090aa04ff1e1b94",
         "source_sha256": "2601ce2f1bdc159541bab5e26012c23c932d2732f182bcfa3966e7f52463a71a",
-        "converted_at": "2026-10-27T17:21:36Z",
+        "converted_at": "2026-10-27T17:50:28Z",
         "cite_markers": 22,
         "cite_defs": 121,
         "supplements": [
@@ -17285,8 +17283,7 @@
           "yuanwen/assets/causal-models/fig6.svg",
           "yuanwen/assets/causal-models/fig7.svg",
           "yuanwen/assets/causal-models/fig8.svg",
-          "yuanwen/assets/causal-models/fig9.svg",
-          "yuanwen/assets/causal-models/local.js"
+          "yuanwen/assets/causal-models/fig9.svg"
         ],
         "notes": 0
       }
@@ -22588,9 +22585,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/common-knowledge.md",
-        "sha256": "3a74eff4dd224f2d455aa5894659e51cefa2825eb0b86185a9a486529313002e",
+        "sha256": "92acea2eed0ca6386b75eb4cb99437949aa5eef5d161b771bf043f6c59b19bd6",
         "source_sha256": "21b3b1606e781ae26016c6d904a1c9d6dcd9044c4d4ff906a157b7df7d9d6051",
-        "converted_at": "2026-10-27T17:21:31Z",
+        "converted_at": "2026-10-27T17:50:26Z",
         "cite_markers": 52,
         "cite_defs": 97,
         "supplements": [
@@ -22623,10 +22620,9 @@
           "yuanwen/assets/common-knowledge/figure3.5.gif",
           "yuanwen/assets/common-knowledge/figure3.6.gif",
           "yuanwen/assets/common-knowledge/figure3.7.gif",
-          "yuanwen/assets/common-knowledge/local.js",
           "yuanwen/assets/common-knowledge/partition-diagram.gif"
         ],
-        "notes": 63
+        "notes": 36
       }
     },
     {
@@ -34786,14 +34782,13 @@
         "md": "yuanwen/d/disjunction.md",
         "sha256": "80116bd74cc47c3b5fadcce3b804353e47fea1cd8d54deaf0e2977d5e38fc88f",
         "source_sha256": "4326346b6941e7ec2cb8bd8cacad794a229dac8d174baa173188f7f8180a2d33",
-        "converted_at": "2026-10-27T17:21:37Z",
+        "converted_at": "2026-10-27T17:50:25Z",
         "cite_markers": 88,
         "cite_defs": 129,
         "supplements": [],
         "images": [
           "yuanwen/assets/disjunction/fig-a.png",
-          "yuanwen/assets/disjunction/fig-b.png",
-          "yuanwen/assets/disjunction/local.js"
+          "yuanwen/assets/disjunction/fig-b.png"
         ],
         "notes": 4
       }
@@ -50941,7 +50936,7 @@
         "md": "yuanwen/f/frege-logic.md",
         "sha256": "97f39c6f6280c30087e50121cfe86311a7156fac4c41fa286f77a9463a40a0f2",
         "source_sha256": "18d4db933114d2c74f78f9d56394b6fe310df2253682127b83862ce9ac478084",
-        "converted_at": "2026-10-27T17:21:35Z",
+        "converted_at": "2026-10-27T17:42:06Z",
         "cite_markers": 13,
         "cite_defs": 39,
         "supplements": [
@@ -50971,7 +50966,6 @@
           "yuanwen/assets/frege-logic/inline-not.svg",
           "yuanwen/assets/frege-logic/judgement.svg",
           "yuanwen/assets/frege-logic/judgementA.svg",
-          "yuanwen/assets/frege-logic/local.js",
           "yuanwen/assets/frege-logic/sec-2-2A.svg",
           "yuanwen/assets/frege-logic/sec-2-2B.svg",
           "yuanwen/assets/frege-logic/sec-2-2Ca.svg",
@@ -71631,15 +71625,13 @@
         "md": "yuanwen/l/lambda-calculus.md",
         "sha256": "7d4a6d2ff07c77d8e66e1143470fc36dd29e74439659efb1c810f53d44e21829",
         "source_sha256": "22d3b486e9de8cdc1b1d8965f9a0af7db4b661611f4e52f56119acb756cf648a",
-        "converted_at": "2026-10-27T17:21:34Z",
+        "converted_at": "2026-10-27T17:50:25Z",
         "cite_markers": 11,
         "cite_defs": 43,
         "supplements": [
           "lambda-calculus.recursive-functions.md"
         ],
-        "images": [
-          "yuanwen/assets/lambda-calculus/local.js"
-        ],
+        "images": [],
         "notes": 7
       }
     },
@@ -80655,7 +80647,7 @@
         "md": "yuanwen/l/logic-preference.md",
         "sha256": "c3afb822d8f698209153a31a660aec1586c5e7087b273ab976b6f79dd2161eca",
         "source_sha256": "dae6ec00990b57f16a1b254a09225e1d29918df59220165adfc892f6859b922b",
-        "converted_at": "2026-10-27T17:21:34Z",
+        "converted_at": "2026-10-27T17:50:25Z",
         "cite_markers": 20,
         "cite_defs": 67,
         "supplements": [
@@ -80663,8 +80655,7 @@
         ],
         "images": [
           "yuanwen/assets/logic-preference/figxy1.svg",
-          "yuanwen/assets/logic-preference/figxy2.svg",
-          "yuanwen/assets/logic-preference/local.js"
+          "yuanwen/assets/logic-preference/figxy2.svg"
         ],
         "notes": 0
       }
@@ -129790,7 +129781,7 @@
         "md": "yuanwen/t/tarski.md",
         "sha256": "acffcd03e23440f02cdf3c69ec948bb9cea5d53e8212bc110bf96ffb650e2603",
         "source_sha256": "c1fabd60f4d173255108bf8714159c33084750db143f1eb354e29728e6175f4f",
-        "converted_at": "2026-10-27T17:21:32Z",
+        "converted_at": "2026-10-27T17:42:08Z",
         "cite_markers": 69,
         "cite_defs": 146,
         "supplements": [],
@@ -134771,11 +134762,11 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/t/typelogical-grammar.md",
-        "sha256": "296ba002369968d7cfe94e42cec3c5e99e80699f48c8b366b031b842b158a78d",
+        "sha256": "636ba0d437a0fd594c8e73e89cf2a44f0dc440e0f628a0f234c173db86e22f8f",
         "source_sha256": "aa68cc3932933f1d7246c3ff495d80f007df7711887f6f5b870ab377ba26c76e",
-        "converted_at": "2026-10-27T17:21:37Z",
-        "cite_markers": 0,
-        "cite_defs": 0,
+        "converted_at": "2026-10-27T17:50:24Z",
+        "cite_markers": 32,
+        "cite_defs": 90,
         "supplements": [],
         "images": [
           "yuanwen/assets/typelogical-grammar/longrightarrow.png",
@@ -139303,5 +139294,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-27T17:25:34Z"
+  "updated_at": "2026-10-27T17:50:28Z"
 }

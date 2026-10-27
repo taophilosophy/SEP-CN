@@ -160,6 +160,7 @@
 | 批量骨架补建 | `rebuild_dir.py stubs` | 一次性重建工具，勿与 apply-add 混用于单词条 |
 | 词条包抓取与登记 | `fetch_entry.py` | baseline 唯一抓取登记方 |
 | 包内资产补齐 | `fetch_audit.py` | 只补缺件，**不写 baseline**（审计 JSON 即凭证，哈希由下次 fetch_entry 收敛） |
+| 英文镜像深度复核 | `en_integrity.py` | 只读审计，不补抓不落盘 en/ 以外文件；逐词条凭证 JSON（specs/001-sep-sync-pipeline/en-integrity-full.json）；游离件、大小写错名、截断页为硬发现 |
 | 变更检测→比较 | `fetch_catalog.py` → `compare.py` | compare 对有变更条目产出持久变更文件 specs/001-sep-sync-pipeline/compare/<slug>.json，作 update 任务 changes: 证据 |
 | 任务状态机 | `task_ops.py` | s3/r3 挂 check_academic；update 任务 s1/s2 证据必须 changes: 开头 |
 | H1 同步 | CI sync-headers.yml | 本地只读 SUMMARY；别名行不覆盖条目标题 |

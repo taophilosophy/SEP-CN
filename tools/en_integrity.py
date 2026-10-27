@@ -72,10 +72,34 @@ def resolve_ref(src, slug):
     return ("site", seg, path)
 
 
-def audit_dir(root, slug, registered):
+def inbound_map(root, slugs):
+    """跨词条入站引用表 {slug2: {fname}}：其他词条包页面引用到的本包资产。
+
+    词条包的完整性语义是镜像级的：en/<slug>/<f> 的解释项不止本包页面引用，
+    还有其他词条的路径引用（如 linguistics → ../idiolects/appendix.html）。
+    """
+    m = {}
+    for slug in slugs:
+        d = os.path.join(root, slug)
+        if not os.path.isdir(d):
+            continue
+        for pf in sorted(os.listdir(d)):
+            if not pf.lower().endswith(".html"):
+                continue
+            with open(os.path.join(d, pf), encoding="utf-8", errors="replace") as fh:
+                body = COMMENT_RE.sub("", fh.read())
+            for mm in REF_RE.finditer(body):
+                r = resolve_ref(mm.group(1), slug)
+                if r and r[0] == "entry" and r[1] != slug and r[2]:
+                    m.setdefault(r[1], set()).add(r[2])
+    return m
+
+
+def audit_dir(root, slug, registered, inbound=frozenset()):
     """对单个词条包做全部检查。root 为 en/ 目录绝对路径。
 
     registered: baseline 登记的包内文件名集合（en/<slug>/<名> 的 <名>）。
+    inbound: 其他词条包跨词条引用到的本包文件名集合。
     返回 (result, hard_count)。
     """
     d = os.path.join(root, slug)
@@ -213,11 +237,13 @@ def audit_dir(root, slug, registered):
         res["cross_entry_missing"] = cross_missing
         hard += 1
 
-    # 目录结构一致性：在盘文件 = 被引用 ∪ 已登记，否则游离
+    # 目录结构一致性：在盘文件 = 被引用（含跨词条入站）∪ 已登记，否则游离
     unreg_orphan, unreg_ref, orphan_reg = [], [], []
     ref_lower = {x.lower() for x in referenced_self}
+    inb_lower = {x.lower() for x in inbound}
     for f in files:
-        refd = f in referenced_self or f.lower() in ref_lower
+        refd = (f in referenced_self or f.lower() in ref_lower
+                or f in inbound or f.lower() in inb_lower)
         regd = f in registered
         if refd and regd:
             continue
@@ -250,6 +276,9 @@ def audit_dir(root, slug, registered):
         "files": len(files), "pages": len(pages),
         "site_refs": dict(site_seg), "external_refs": dict(external),
         "cross_links_unmirrored": len(unmirrored),
+        "mathjax": 1 if mathjax else 0,
+        "math_inline": len(math_inline_pages),
+        "math_assets": len(math_assets),
     }
     res["info"] = info
     return res, hard
@@ -260,6 +289,7 @@ def main(argv=None):
     ap.add_argument("slugs", nargs="*")
     ap.add_argument("--all", action="store_true", help="全库（baseline 登记词条）")
     ap.add_argument("--out", default=None, help="凭证 JSON 落盘路径")
+    ap.add_argument("--quiet", action="store_true", help="只写凭证不打印 JSON")
     args = ap.parse_args(argv)
 
     base = load_json(repo_path("baseline", "entries.json"))
@@ -277,13 +307,16 @@ def main(argv=None):
         return 2
 
     root = repo_path("en")
+    inbound = inbound_map(root, slugs)
     results, hard_total, errors = [], 0, []
     site_all, ext_all = Counter(), Counter()
+    mathjax_n = math_inline_n = math_assets_n = 0
     for i, slug in enumerate(slugs):
         if i % 250 == 0:
             sys.stderr.write("[en_integrity] %d/%d ...\n" % (i, len(slugs)))
         try:
-            res, hard = audit_dir(root, slug, reg.get(slug, set()))
+            res, hard = audit_dir(root, slug, reg.get(slug, set()),
+                                  inbound.get(slug, set()))
         except Exception as e:  # noqa: BLE001 — 单词条异常不中断全量
             errors.append({"slug": slug, "error": str(e)})
             continue
@@ -291,6 +324,9 @@ def main(argv=None):
             errors.append(res)
             continue
         hard_total += hard
+        mathjax_n += res["info"]["mathjax"]
+        math_inline_n += res["info"]["math_inline"]
+        math_assets_n += 1 if res["info"]["math_assets"] else 0
         for k in ("site_refs", "external_refs"):
             counter = site_all if k == "site_refs" else ext_all
             for kk, vv in res["info"][k].items():
@@ -305,6 +341,8 @@ def main(argv=None):
         "clean": len(slugs) - len(results) - len(errors),
         "with_hard_issues": len(results), "hard_findings": hard_total,
         "errors": errors,
+        "mathjax_entries": mathjax_n, "math_inline_entries": math_inline_n,
+        "math_asset_entries": math_assets_n,
         "site_ref_segments": dict(site_all.most_common(20)),
         "external_ref_domains": dict(ext_all.most_common(15)),
         "problems": results,
@@ -313,7 +351,8 @@ def main(argv=None):
     if args.out or args.all:
         write_json_verified(out, summary)
         summary["evidence"] = out
-    print(json.dumps(summary, ensure_ascii=False, indent=2))
+    if not args.quiet:
+        print(json.dumps(summary, ensure_ascii=False, indent=2))
     return 1 if (hard_total or errors) else 0
 
 

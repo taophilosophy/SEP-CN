@@ -1,10 +1,13 @@
 {
   "audited": 1731,
-  "ran_at": "2026-10-27T17:36:35Z",
-  "clean": 1730,
-  "with_hard_issues": 1,
-  "hard_findings": 1,
+  "ran_at": "2026-10-27T17:46:51Z",
+  "clean": 1731,
+  "with_hard_issues": 0,
+  "hard_findings": 0,
   "errors": [],
+  "mathjax_entries": 413,
+  "math_inline_entries": 784,
+  "math_asset_entries": 2,
   "site_ref_segments": {
     "support": 22872,
     "css": 17154,
@@ -44,12 +47,5 @@
     "doi.org": 90,
     "philsci-archive.pitt.edu": 85
   },
-  "problems": [
-    {
-      "slug": "idiolects",
-      "unregistered_orphans": [
-        "appendix.html"
-      ]
-    }
-  ]
+  "problems": []
 }

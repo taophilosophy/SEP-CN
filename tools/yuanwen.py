@@ -47,6 +47,8 @@ CROSS_BLOCK_TAG_RE = re.compile(
 IMPLIED_END_RE = re.compile(
     r'</p\s*>|</li\s*>|</blockquote\s*>|<(?:p|div|ul|ol|dl|table|blockquote|pre|h[1-6])\b',
     re.I)
+# HTML 标签形态（浏览器一致语义）：<name 后随空白/></；<y 是数学比较不是标签
+TAGLIKE_RE = re.compile(r'</?[a-zA-Z][a-zA-Z0-9]*(?:[\s/>]|$)')
 # SEP 用 <!--pdf include <table>…--> / <!--pdf exclude begin--> 注释开关
 # 切换 PDF/HTML 两版内容；正确闭合的注释须在切块前剥除，否则切分器会把
 # 注释里的标签当真块（编辑性注释政策一贯为丢弃）
@@ -169,6 +171,9 @@ def extract_blocks_raw(html):
             continue
         end = _find_close(html, tag, m.end())
         inner = html[m.end():end]
+        cm = re.match(r'</%s[^>]*>\s*' % tag, html[end:], re.I)
+        if cm:
+            end = end + cm.end()   # p 走隐式闭合时 end 停在闭标签起点，此处消费掉
         inner = re.sub(r'</%s>\s*$' % tag, '', inner, flags=re.I)
         blocks.append({'type': tag, 'attrs': attrs, 'inner': inner})
         i = end
@@ -193,10 +198,10 @@ def inline_to_md(html, slug=None):
     store = []
 
     def _stash(m):
-        # 护栏（D16）：真实公式不含原始 HTML 标签（上游源中 < 一律写作 &lt;）。
-        # 含标签的 \(…\) 是未配对定界符（如 typelogical-grammar），按普通文本
-        # 走标签管线，防止整块正文被吞进占位符。
-        if re.search(r'<[a-zA-Z!]', m.group(0)):
+        # 护栏（D16）：真实公式不含原始 HTML 标签（源中真 < 一律写作 &lt;，
+        # 裸 < 按浏览器语义即标签）。含标签的 \(…\) 是未配对定界符
+        # （如 typelogical-grammar 的 40KB 吞段），按普通文本走标签管线。
+        if TAGLIKE_RE.search(m.group(0)):
             return m.group(0)
         store.append(m.group(0))
         return '\x00%d\x00' % (len(store) - 1)
@@ -518,9 +523,10 @@ def link_citations(md_text, keys):
 
 # ------------------------------------------------------------ notes/supp ----
 
-NOTE_DIV_RE = re.compile(r'<div\b[^>]*\bid="(note-[A-Za-z0-9_-]+)"[^>]*>', re.I)
+NOTE_ANCHOR_RE = re.compile(
+    r'<(?:a|div|p|li|dt|dd)\b[^>]*\bid="(note-[A-Za-z0-9_-]+)"[^>]*>', re.I)
 BACKLINK_RE = re.compile(
-    r'<a\s+href="index\.html#[^"]*"[^>]*>\s*(?:\d+\.?|\^)?\s*</a>', re.I | re.S)
+    r'<a\b[^>]*\bhref="index\.html#[^"]*"[^>]*>\s*(?:\d+\.?|\^)?\s*</a>', re.I | re.S)
 
 
 def _render_note_inner(inner, slug):
@@ -551,33 +557,32 @@ def _notes_gap_defs(gap, slug):
 def convert_notes(html, slug):
     """notes.html → [^note-n]: 文本 列表。
 
-    编号注段（<div id="note-N"> 包裹）→ [^note-N] 定义行，定义名取注段自身
-    锚点 id——旧实现取回链目标 index.html#ref-N，与正文引用
-    notes.html#note-N 错位，646 文件 3931 引用悬空（2026-10-28 全量复核 D14）。
-    其余块（<dl> 公理列表、表格、无 <p> 包装的展示公式等）一律完整保留
-    （2026-10-27 数学保真裁定，不得过滤）。
+    注段按 id="note-N" 锚点切段（锚点可能在包裹 div 上，如 tarski，也可能
+    直接钉在回链 <a> 上，如 common-knowledge）——定义名一律取锚点 id。旧实现
+    取回链目标 index.html#ref-N，与正文引用 notes.html#note-N 错位，646 文件
+    3931 引用悬空（2026-10-28 全量复核 D14）。锚点间隙的裸内容（<dl> 公理
+    列表、表格、无 <p> 包装的展示公式等）一律完整保留（2026-10-27 数学保真
+    裁定，不得过滤）。
     """
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
     article = strip_closed_comments(article)
     article, stash = protect_cross_block_math(article)
     defs = []
-    spans = [(mm.start(), mm.end(), mm.group(1))
-             for mm in NOTE_DIV_RE.finditer(article)]
-    if spans:
+    marks = [(mm.start(), mm.group(1)) for mm in NOTE_ANCHOR_RE.finditer(article)]
+    if marks:
         pos = 0
-        for i, (open_start, inner_start, key) in enumerate(spans):
-            close = _find_close(article, 'div', inner_start)
-            if i + 1 < len(spans) and close > spans[i + 1][0]:
-                # 上游 div 不配平时不得吞掉下一个注段（p 隐式闭合同理，D16）
-                close = spans[i + 1][0]
-            gap = article[pos:open_start]
+        for j, (start, key) in enumerate(marks):
+            end = marks[j + 1][0] if j + 1 < len(marks) else len(article)
+            if start < pos:
+                continue  # 异常嵌套防串段
+            gap = article[pos:start]
             if gap.strip():
                 defs.extend(_notes_gap_defs(gap, slug))
-            body = _render_note_inner(article[inner_start:close], slug)
+            body = _render_note_inner(article[start:end], slug)
             if body:
                 defs.append('[^note-%s]: %s' % (re.sub('^note-', '', key), body))
-            pos = close
+            pos = end
         if article[pos:].strip():
             defs.extend(_notes_gap_defs(article[pos:], slug))
     else:
@@ -673,16 +678,26 @@ def convert_entry(slug):
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
-    # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0008 上游同名，存 yuanwen/assets/<slug>/）
+    # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0008 上游同名，存
+    # yuanwen/assets/<slug>/）。仅复制图片类资产：local.js 等站点脚本不被
+    # md 引用（2026-10-28 D15 复核），历史误复制的一并清除。
     adir = repo_path('yuanwen', 'assets', slug)
+    image_exts = ('.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.pdf')
     image_files = []
     for f in sorted(os.listdir(src_dir)):
-        if not f.endswith('.html'):
-            os.makedirs(adir, exist_ok=True)
-            data = open(os.path.join(src_dir, f), 'rb').read()
-            with open(os.path.join(adir, f), 'wb') as fh:
-                fh.write(data)
-            image_files.append('yuanwen/assets/%s/%s' % (slug, f))
+        src_f = os.path.join(src_dir, f)
+        if f.endswith('.html') or os.path.isdir(src_f):
+            continue
+        os.makedirs(adir, exist_ok=True)
+        dst_f = os.path.join(adir, f)
+        if not f.lower().endswith(image_exts):
+            if os.path.exists(dst_f):
+                os.remove(dst_f)
+            continue
+        data = open(src_f, 'rb').read()
+        with open(dst_f, 'wb') as fh:
+            fh.write(data)
+        image_files.append('yuanwen/assets/%s/%s' % (slug, f))
 
     # 补充材料
     supp_files = []

@@ -31,11 +31,15 @@ GATES = [
 ]
 OPTIONAL = [
     ("基线完整性审计（本地 en/）", "baseline_audit.py", False),
+    ("英文镜像深度复核（本地 en/）", "en_integrity.py --all --quiet", False),
 ]
 
 
 def run(name, script):
-    r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", script)],
+    # script 可带参数（如 "en_integrity.py --all --quiet"），首段为脚本名
+    parts = script.split()
+    r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", parts[0])]
+                       + parts[1:],
                        cwd=ROOT, capture_output=True, text=True)
     return r.returncode, (r.stdout + r.stderr).strip()
 
