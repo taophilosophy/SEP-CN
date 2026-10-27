@@ -37,6 +37,8 @@ if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
     except (AttributeError, ValueError):
         pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)  # 脚本直跑时保证 from tools import 可用
 OUTDIR = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                       'queries')
 REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
@@ -74,14 +76,18 @@ def _tl_standard_fetch(term, timeout):
 
 
 def _tl_standard_parse(data):
-    """返回 (hits, note)：hits=[{cn,en,code,standard}]。"""
+    """返回 (hits, note)：hits=[{cn,en,code,standard,subject}]。
+
+    字段名实测（2026-10-28）：standardVO.tmWordList 用 cnName/enName（非 cn/en）。
+    """
     result = (data or {}).get('result') or {}
     svo = result.get('standardVO') or {}
     hits = []
     for w in svo.get('tmWordList') or []:
-        hits.append({'cn': w.get('cn'), 'en': w.get('en'),
+        hits.append({'cn': w.get('cnName'), 'en': w.get('enName'),
                      'code': w.get('standardCode'),
-                     'standard': w.get('standardName')})
+                     'standard': w.get('standardName'),
+                     'subject': w.get('subjectName')})
     note = 'standardVO totalRecords=%s' % svo.get('totalRecords')
     return hits, note
 
