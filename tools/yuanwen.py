@@ -287,6 +287,13 @@ def _flatten_nested_tables(html, slug, depth=0):
 def table_to_md(inner, slug, depth=0):
     if depth == 0:
         inner = _flatten_nested_tables(inner, slug)
+    cap = ''
+    cm = re.search(r'<caption[^>]*>(.*?)</caption>', inner, re.S | re.I)
+    if cm:
+        # 表题（caption）是表格语义的一部分，丢弃即丢其中的公式/文字
+        # （epistemic-game 表题 \(\lambda_A(a_1)\)，2026-10-28 复核）
+        cap = inline_to_md(cm.group(1), slug)
+        inner = inner[:cm.start()] + inner[cm.end():]
     rows = []
     for rm in re.finditer(r'<tr[^>]*>(.*?)</tr>', inner, re.S | re.I):
         cells = [_cell(c, slug)
@@ -294,12 +301,13 @@ def table_to_md(inner, slug, depth=0):
         if cells:
             rows.append(cells)
     if not rows:
-        return ''
+        return cap
     width = max(len(r) for r in rows)
     rows = [r + [' '] * (width - len(r)) for r in rows]
     out = ['| ' + ' | '.join(r) + ' |' for r in rows]
     out.insert(1, '|' + ' --- |' * width)
-    return '\n'.join(out)
+    table = '\n'.join(out)
+    return ('*%s*\n\n' % cap + table) if cap else table
 
 
 def _cell(cell_html, slug):
@@ -705,6 +713,20 @@ def convert_entry(slug):
         if f.endswith('.html') and f not in ('index.html', 'notes.html'):
             base = f[:-5]
             sp = convert_supplement(read_text(os.path.join(src_dir, f)), slug, base)
+            if note_defs and '[^note-' in sp:
+                # 补充材料引用主文脚注：定义随被引条目附于文末，页内自洽
+                # （2026-10-28 复核：46 文件引用悬空，D14 伴生缺陷）
+                need = list(dict.fromkeys(
+                    re.findall(r'\[\^(note-[^\]\s]+)\](?!:)', sp)))
+                defmap = {}
+                for d in note_defs:
+                    dm = re.match(r'\[\^(note-[^\]]+)\]:', d)
+                    if dm:
+                        defmap.setdefault(dm.group(1), d)
+                extra = [defmap[n] for n in need if n in defmap]
+                if extra:
+                    sp += ('\n\n## Notes（原文脚注，引自主文）\n\n'
+                           + '\n\n'.join(extra))
             sp_path = os.path.join(ydir, '%s.%s.md' % (slug, base))
             write_text_verified(sp_path, sp)
             supp_files.append('%s.%s.md' % (slug, base))
