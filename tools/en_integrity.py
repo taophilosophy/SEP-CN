@@ -36,6 +36,7 @@ from tools.common import load_json, repo_path, utcnow_iso, write_json_verified
 
 SITE = "https://plato.stanford.edu"
 REF_RE = re.compile(r'(?:src|href)="([^"]+)"')
+COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 IMG_EXT_RE = re.compile(r"\.(png|jpe?g|gif|svg|webp)$", re.I)
 MATH_ASSET_RE = re.compile(r"(eqn|equat|formula|math)", re.I)
 INLINE_MATH_RE = re.compile(r"<math[\s>]|\\\(|\\\[")
@@ -62,7 +63,7 @@ def resolve_ref(src, slug):
     p = urlparse(url)
     if p.scheme and p.netloc and p.netloc != "plato.stanford.edu":
         return ("external", p.netloc, p.path)
-    path = p.path
+    path = re.sub(r"/{2,}", "/", p.path)  # 上游 HTML 存在双斜杠（如 /entries//x/）
     if path.startswith("/entries/"):
         rest = path[len("/entries/"):]
         slug2, _, fname = rest.partition("/")
@@ -87,7 +88,6 @@ def audit_dir(root, slug, registered):
     files = sorted(x for x in listing if os.path.isfile(os.path.join(d, x)))
     if subdirs:
         res["nested_dirs"] = subdirs
-        hard += 1
     empty = sorted(f for f in files if os.path.getsize(os.path.join(d, f)) == 0)
     if empty:
         res["empty_files"] = empty
@@ -103,24 +103,33 @@ def audit_dir(root, slug, registered):
     site_seg = Counter()
     external = Counter()
     mathjax, math_inline_pages, math_assets = set(), [], []
-    suspects, truncated, no_charset = [], [], []
+    suspects, truncated, no_charset, not_sep = [], [], [], []
 
     for pf in pages:
         with open(os.path.join(d, pf), encoding="utf-8", errors="replace") as fh:
             txt = fh.read()
-        low = txt.lower()
-        for mk in MARKERS:
-            i = low.find(mk)
-            if i >= 0:
-                suspects.append({"file": pf, "marker": mk,
-                                 "snippet": txt[max(0, i - 60):i + 80].replace("\n", " ")})
+        body = COMMENT_RE.sub("", txt)  # 注释掉的引用不构成浏览器加载义务
+        low = body.lower()
+        if pf == "index.html" and \
+                "stanford encyclopedia of philosophy" not in low:
+            not_sep.append(pf)  # 非 SEP 签名页：错误页/风控页替换的强信号
+        elif pf == "index.html":
+            # 错误/风控标记只出现在 title 与 h1（错误页版式）；
+            # 全文匹配会把哲学正文误当标记（如 "just a moment ago"）
+            head = re.search(r"<title[^>]*>(.*?)</title>", body, re.S | re.I)
+            h1 = re.search(r"<h1[^>]*>(.*?)</h1>", body, re.S | re.I)
+            head_txt = ((head.group(1) if head else "") + " " +
+                        (h1.group(1) if h1 else "")).lower()
+            for mk in MARKERS:
+                if mk in head_txt:
+                    suspects.append({"file": pf, "marker": mk})
         if "</html>" not in low[-300:]:
             truncated.append(pf)
         if "charset" not in low[:3000]:
             no_charset.append(pf)
-        if INLINE_MATH_RE.search(txt):
+        if INLINE_MATH_RE.search(body):
             math_inline_pages.append(pf)
-        for m in REF_RE.finditer(txt):
+        for m in REF_RE.finditer(body):
             r = resolve_ref(m.group(1), slug)
             if r is None:
                 continue
@@ -143,6 +152,9 @@ def audit_dir(root, slug, registered):
                 else:
                     entry_targets.add((a, b))
 
+    if not_sep:
+        res["not_sep_page"] = not_sep
+        hard += 1
     if suspects:
         res["suspect_page"] = suspects
         hard += 1
@@ -157,6 +169,11 @@ def audit_dir(root, slug, registered):
     unmirrored = set()
     for slug2, fname in sorted(entry_targets):
         if slug2 == slug:
+            if "/" in fname:  # 词条内子目录路径（如 BNfiles/x）
+                if os.path.isfile(os.path.join(d, fname)):
+                    continue
+                missing.append(fname)
+                continue
             if fname in files:
                 continue
             low_hits = [f for f in files if f.lower() == fname.lower()]
@@ -170,6 +187,11 @@ def audit_dir(root, slug, registered):
                 unmirrored.add(slug2)   # 上游有而镜像未含（intake 队列），非缺件
                 continue
             names2 = os.listdir(d2)
+            if "/" in fname:
+                if os.path.isfile(os.path.join(d2, fname)):
+                    continue
+                cross_missing.append({"entry": slug2, "asset": fname})
+                continue
             if fname in names2:
                 continue
             low_hits = [f for f in names2 if f.lower() == fname.lower()]

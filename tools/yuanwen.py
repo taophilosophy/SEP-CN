@@ -5,9 +5,12 @@
 - 结构与中文仓库逐字符镜像（ADR-0009 A–Z 字母目录）：yuanwen/<letter>/<slug>.md，letter=slug 首字符
 - 抓取的原始 HTML 一律存 en/<slug>/（不可变原始物，不入库）；yuanwen/ 只存转换后的 md 镜像
 - 脚注：正文 <sup>[<a href="notes.html#n">n</a>]</sup> → [^note-n]；notes.html → 文末脚注定义
+  （定义名取注段自身锚点 id，即 <div id="note-N"> 的 N——旧实现取回链目标
+  index.html#ref-N，与正文引用 notes.html#note-N 错位，D14）
 - 补充材料：en/<slug>/<x>.html → yuanwen/<letter>/<slug>.<x>.md（点号命名），正文内相对互链
 - 图片：本地化为 yuanwen/assets/<slug>/（上游同名 imageN.jpg，用户 2026-10-27 裁定复制而非外链），
-  正文 ![](assets/<slug>/<文件名>) 相对引用
+  正文 <img> 一律接线为 ![](../assets/<slug>/<文件名>)——md 位于 <letter>/ 子目录，
+  相对引用须跨一级（ADR-0010 修正根级时代的 assets/ 写法，D15）
 - 参考文献转引用注释：文内 (Author year, page) 引用组后追加 [^key]；文献节改为脚注定义；
   数学定界符、DK 编号、古代作品行号原样保留；<sub>/<sup> 标签保留（工作底稿不受
   发布体例"禁止 HTML"约束，登记 demo-log）
@@ -40,6 +43,10 @@ SKIP_DIV_RE = re.compile(r'\btoc\b', re.I)
 CROSS_MATH_RE = re.compile(r'(\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 CROSS_BLOCK_TAG_RE = re.compile(
     r'</?(?:p|div|table|ul|ol|blockquote|h[1-6]|dl|pre)\b', re.I)
+# p 的隐式闭合边界（D16）：闭标签 / 列表与引用容器边界 / 下一块级开标签
+IMPLIED_END_RE = re.compile(
+    r'</p\s*>|</li\s*>|</blockquote\s*>|<(?:p|div|ul|ol|dl|table|blockquote|pre|h[1-6])\b',
+    re.I)
 # SEP 用 <!--pdf include <table>…--> / <!--pdf exclude begin--> 注释开关
 # 切换 PDF/HTML 两版内容；正确闭合的注释须在切块前剥除，否则切分器会把
 # 注释里的标签当真块（编辑性注释政策一贯为丢弃）
@@ -101,7 +108,16 @@ def _div_kind(attrs):
 
 
 def _find_close(html, tag, start):
-    """返回与 start 处开标签配对的闭标签结束位置；找不到返回 len(html)。"""
+    """返回与 start 处开标签配对的闭标签结束位置；找不到返回 len(html)。
+
+    p 是非嵌套标签（HTML 隐式闭合语义）：遇到 </p>、</li>、</blockquote>
+    或下一个块级开标签即视为闭合。上游源 html 常漏写 </p>，深度配对永不归零
+    会把余下全文吞成一个块（aquinas §2–13、set-theory §4 等 19 件吞章，
+    2026-10-28 全量复核 D16）。
+    """
+    if tag.lower() == 'p':
+        m = IMPLIED_END_RE.search(html, start)
+        return m.start() if m else len(html)
     depth = 1
     for cm in re.finditer(r'<(/?)%s\b[^>]*>' % tag, html[start:], re.I):
         depth += -1 if cm.group(1) else 1
@@ -195,7 +211,24 @@ def inline_to_md(html, slug=None):
     s = re.sub(r'<code>(.*?)</code>', r'`\1`', s, flags=re.S | re.I)
     s = re.sub(r'<br\s*/?>', ' ', s, flags=re.I)
     s = re.sub(r'</?span[^>]*>', '', s, flags=re.I)
-    s = re.sub(r'<img[^>]*>', '', s, flags=re.I)
+
+    def _img(m):
+        tag = m.group(0)
+        sm = re.search(r'\ssrc="([^"]*)"', tag)
+        if not sm:
+            return ''
+        src = unescape(sm.group(1)).strip()
+        am = re.search(r'\salt="([^"]*)"', tag)
+        alt = unescape(am.group(1)) if am else ''
+        # ADR-0008 上游同名本地化 + ADR-0010 相对引用 ../assets/<slug>/（md 在
+        # <letter>/ 子目录）；旧实现一律剥除 <img>，正文图片全部失联（D15）
+        if slug and re.fullmatch(r'[A-Za-z0-9._%-]+', src):
+            return '![%s](../assets/%s/%s)' % (alt, slug, src)
+        if src.startswith(('http://', 'https://')):
+            return '![%s](%s)' % (alt, src)
+        return ''
+
+    s = re.sub(r'<img[^>]*>', _img, s, flags=re.I)
     s = re.sub(r'<[^>]+>', '', s)
     s = unescape(s)
     s = re.sub(r'[ \t\r\n\f\v]+', ' ', s).strip()
@@ -287,28 +320,19 @@ def list_to_md(inner, ordered, slug, indent=0):
 
 def figure_to_md(inner, slug):
     out = []
-    im = re.search(r'<img[^>]*\ssrc="([^"]+)"[^>]*>', inner, re.I)
-    if im:
-        src = im.group(1)
-        if not src.startswith(('http', '/', '../', 'assets/')):
-            alt = re.search(r'alt="([^"]*)"', im.group(0))
-            # ADR-0008：图片本地化于 yuanwen/assets/<slug>/（上游同名），同库相对引用
-            out.append('![%s](assets/%s/%s)' % ((alt.group(1) if alt else ''), slug, src))
     fl = re.search(r'<span class="figlabel">(.*?)</span>', inner, re.S | re.I)
     if fl:
         cap = inline_to_md(fl.group(1), slug)
         if cap:
             out.append('*%s*' % cap)
     # 图注与其余内容不再丢弃（2026-10-27 数学保真裁定：SEP 常把表格、公式
-    # 段落整个包进 <div class="figure">，丢弃即丢公式——须完整渲染剩余块）
-    rest = re.sub(r'<img[^>]*>', '', inner, flags=re.I)
-    rest = re.sub(r'<span class="figlabel">.*?</span>', '', rest, flags=re.S | re.I)
-    if rest.strip():
-        sub = Ctx(slug)
-        render_blocks(extract_blocks_raw(rest), sub)
-        body = '\n'.join(sub.out).strip()
-        if body:
-            out.append(body)
+    # 段落整个包进 <div class="figure">）；图片统一由 inline_to_md 接线
+    # （2026-10-28 D15：不再单独挑首图、不再剥除其余 <img>）
+    sub = Ctx(slug)
+    render_blocks(extract_blocks_raw(inner), sub)
+    body = '\n'.join(sub.out).strip()
+    if body:
+        out.append(body)
     return '\n\n'.join(out)
 
 
@@ -480,34 +504,95 @@ def link_citations(md_text, keys):
 
 # ------------------------------------------------------------ notes/supp ----
 
+NOTE_DIV_RE = re.compile(r'<div\b[^>]*\bid="(note-[A-Za-z0-9_-]+)"[^>]*>', re.I)
+BACKLINK_RE = re.compile(
+    r'<a\s+href="index\.html#[^"]*"[^>]*>\s*(?:\d+\.?|\^)?\s*</a>', re.I | re.S)
+
+
+def _render_note_inner(inner, slug):
+    """注段 div 内块 → md 文本；去掉段首回链标记（^ / 1.，旧实现同样不保留）。"""
+    inner = BACKLINK_RE.sub('', inner, count=1)
+    sub = Ctx(slug)
+    render_blocks(extract_blocks_raw(inner), sub)
+    return '\n'.join(sub.out).strip()
+
+
+def _notes_gap_defs(gap, slug):
+    """注段间隙的裸内容（无 div 包裹的公式段、dl 公理列表等）原样转出。"""
+    out = []
+    for b in extract_blocks_raw(gap):
+        if b['type'] == 'p':
+            txt = inline_to_md(b['inner'], slug)
+            if txt:
+                out.append(txt)
+        else:
+            sub = Ctx(slug)
+            render_blocks([b], sub)
+            body = '\n'.join(sub.out).strip()
+            if body:
+                out.append(body)
+    return out
+
+
 def convert_notes(html, slug):
     """notes.html → [^note-n]: 文本 列表。
 
-    编号注段 → [^note-n] 定义行；其余块（<dl> 公理列表、表格、无 <p> 包装的
-    展示公式等）一律完整保留（2026-10-27 数学保真裁定，不得过滤）。
+    编号注段（<div id="note-N"> 包裹）→ [^note-N] 定义行，定义名取注段自身
+    锚点 id——旧实现取回链目标 index.html#ref-N，与正文引用
+    notes.html#note-N 错位，646 文件 3931 引用悬空（2026-10-28 全量复核 D14）。
+    其余块（<dl> 公理列表、表格、无 <p> 包装的展示公式等）一律完整保留
+    （2026-10-27 数学保真裁定，不得过滤）。
     """
     m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
     article = html[m.end():e.start()] if (m and e) else html
     article = strip_closed_comments(article)
     article, stash = protect_cross_block_math(article)
     defs = []
-    for b in extract_blocks_raw(article):
-        if b['type'] == 'p':
-            inner = b['inner']
-            nm = re.match(r'\s*<a href="index\.html#(?:note-)?([A-Za-z0-9_-]+)"[^>]*>\s*\d*\.?\s*</a>',
-                          inner, re.I)
-            if nm:
-                defs.append('[^note-%s]: %s' % (nm.group(1), inline_to_md(inner[nm.end():], slug)))
-            else:
-                txt = inline_to_md(inner, slug)
-                if txt:
-                    defs.append(txt)
-        else:
-            sub = Ctx(slug)
-            render_blocks([b], sub)
-            body = '\n'.join(sub.out).strip()
+    spans = [(mm.start(), mm.end(), mm.group(1))
+             for mm in NOTE_DIV_RE.finditer(article)]
+    if spans:
+        pos = 0
+        for i, (open_start, inner_start, key) in enumerate(spans):
+            close = _find_close(article, 'div', inner_start)
+            if i + 1 < len(spans) and close > spans[i + 1][0]:
+                # 上游 div 不配平时不得吞掉下一个注段（p 隐式闭合同理，D16）
+                close = spans[i + 1][0]
+            gap = article[pos:open_start]
+            if gap.strip():
+                defs.extend(_notes_gap_defs(gap, slug))
+            body = _render_note_inner(article[inner_start:close], slug)
             if body:
-                defs.append(body)
+                defs.append('[^note-%s]: %s' % (re.sub('^note-', '', key), body))
+            pos = close
+        if article[pos:].strip():
+            defs.extend(_notes_gap_defs(article[pos:], slug))
+    else:
+        # 无 div 包裹的旧版式：p 内锚点 id 优先，回链目标兜底
+        for b in extract_blocks_raw(article):
+            if b['type'] == 'p':
+                inner = b['inner']
+                idm = re.search(r'\bid="(note-[A-Za-z0-9_-]+)"', inner, re.I)
+                nm = re.match(r'\s*<a href="index\.html#(?:note-)?([A-Za-z0-9_-]+)"[^>]*>\s*\d*\.?\s*</a>',
+                              inner, re.I)
+                if idm:
+                    body = inline_to_md(BACKLINK_RE.sub('', inner, count=1), slug)
+                    if body:
+                        defs.append('[^note-%s]: %s'
+                                    % (re.sub('^note-', '', idm.group(1)), body))
+                elif nm:
+                    defs.append('[^note-%s]: %s'
+                                % (re.sub('^note-', '', nm.group(1)),
+                                   inline_to_md(inner[nm.end():], slug)))
+                else:
+                    txt = inline_to_md(inner, slug)
+                    if txt:
+                        defs.append(txt)
+            else:
+                sub = Ctx(slug)
+                render_blocks([b], sub)
+                body = '\n'.join(sub.out).strip()
+                if body:
+                    defs.append(body)
     return [restore_cross_block_math(d, stash) for d in defs]
 
 

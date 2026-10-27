@@ -1,44 +1,44 @@
 {
-  "audited": 1727,
-  "ran_at": "2026-10-27T16:20:32Z",
-  "clean": 1299,
-  "with_hard_issues": 428,
-  "hard_findings": 430,
+  "audited": 1731,
+  "ran_at": "2026-10-27T17:14:28Z",
+  "clean": 1308,
+  "with_hard_issues": 423,
+  "hard_findings": 423,
   "errors": [],
   "site_ref_segments": {
-    "css": 22760,
-    "support": 22760,
-    "js": 14225,
-    "info.html": 11386,
-    "cgi-bin": 10400,
-    "symbols": 9754,
-    "archives": 6747,
-    "contents.html": 5692,
-    "new.html": 5690,
-    "published.html": 5690,
-    "about.html": 5690,
-    "board.html": 5690,
-    "cite.html": 5690,
-    "special-characters.html": 5690,
-    "tools": 5690,
-    "contact.html": 5690,
-    "index.html": 4881,
-    "fundraising": 2845,
-    "accessibility.html": 2845,
-    "": 2845
+    "support": 22856,
+    "css": 17142,
+    "js": 14285,
+    "info.html": 11434,
+    "cgi-bin": 10442,
+    "symbols": 9782,
+    "archives": 6784,
+    "contents.html": 5716,
+    "new.html": 5714,
+    "published.html": 5714,
+    "about.html": 5714,
+    "board.html": 5714,
+    "cite.html": 5714,
+    "special-characters.html": 5714,
+    "tools": 5714,
+    "contact.html": 5714,
+    "index.html": 4894,
+    "fundraising": 2857,
+    "accessibility.html": 2857,
+    "": 2857
   },
   "external_ref_domains": {
-    "leibniz.stanford.edu": 6299,
-    "philpapers.org": 3634,
-    "mally.stanford.edu": 2881,
-    "fonts.googleapis.com": 2845,
-    "www.inphoproject.org": 1732,
-    "arxiv.org": 390,
-    "archive.org": 268,
-    "hdl.handle.net": 212,
+    "leibniz.stanford.edu": 6319,
+    "philpapers.org": 3642,
+    "mally.stanford.edu": 2893,
+    "fonts.googleapis.com": 2857,
+    "www.inphoproject.org": 1736,
+    "arxiv.org": 392,
+    "archive.org": 269,
+    "hdl.handle.net": 213,
     "www.iep.utm.edu": 163,
-    "web.archive.org": 156,
-    "sites.google.com": 140,
+    "web.archive.org": 160,
+    "sites.google.com": 142,
     "ctext.org": 108,
     "gallica.bnf.fr": 95,
     "doi.org": 90,
@@ -370,16 +370,6 @@
       ]
     },
     {
-      "slug": "brentano",
-      "suspect_page": [
-        {
-          "file": "index.html",
-          "marker": "just a moment",
-          "snippet": "nsciousness: my present mental phenomenon and the one I had just a moment or a few minutes ago form a unity as well. This becomes particular"
-        }
-      ]
-    },
-    {
       "slug": "brouwer",
       "missing_assets": [
         "local.js"
@@ -391,16 +381,6 @@
         "index.html",
         "strongcounterex.html",
         "weakcounterex.html"
-      ]
-    },
-    {
-      "slug": "buddha",
-      "suspect_page": [
-        {
-          "file": "index.html",
-          "marker": "just a moment",
-          "snippet": " some later Buddhist philosophers meant, viz., existing for just a moment; the Buddhist doctrine of momentariness represents a later develop"
-        }
       ]
     },
     {
@@ -1028,6 +1008,12 @@
       "slug": "computational-philosophy",
       "missing_assets": [
         "local.js"
+      ],
+      "registered_orphans": [
+        "Picture3.png",
+        "Picture4.png",
+        "Picture5.png",
+        "Picture6.png"
       ],
       "fetched_not_registered": [
         "figdesc.html"
@@ -2000,6 +1986,9 @@
       "missing_assets": [
         "local.js"
       ],
+      "registered_orphans": [
+        "sec-3-2-I.svg"
+      ],
       "fetched_not_registered": [
         "supp-after-1.svg",
         "supp-after-2.svg",
@@ -2561,16 +2550,6 @@
       ]
     },
     {
-      "slug": "insolubles",
-      "suspect_page": [
-        {
-          "file": "index.html",
-          "marker": "just a moment",
-          "snippet": "am lying&rdquo;, what he really means is &ldquo;What I said just a moment ago was a lie&rdquo;. If the speaker did not in fact say anything "
-        }
-      ]
-    },
-    {
       "slug": "intrinsic-extrinsic",
       "missing_assets": [
         "local.js"
@@ -2809,8 +2788,6 @@
     {
       "slug": "legal-probabilism",
       "missing_assets": [
-        "BNfiles/unnamed-chunk-11-1",
-        "BNfiles/unnamed-chunk-9-1",
         "local.js"
       ],
       "fetched_not_registered": [
@@ -2887,6 +2864,9 @@
       "slug": "location-mereology",
       "missing_assets": [
         "local.js"
+      ],
+      "registered_orphans": [
+        "figure06.png"
       ],
       "fetched_not_registered": [
         "figdesc.html"
@@ -4011,12 +3991,6 @@
       "missing_assets": [
         "local.js"
       ],
-      "cross_entry_missing": [
-        {
-          "entry": "",
-          "asset": "feminist-religion/index.html"
-        }
-      ],
       "mathjax": [
         "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
       ],
@@ -4986,16 +4960,6 @@
       ]
     },
     {
-      "slug": "religion-science",
-      "suspect_page": [
-        {
-          "file": "index.html",
-          "marker": "incapsula",
-          "snippet": "E). His teaching centered on ethics as well as metaphysics, incapsulated in the Four Noble Truths (on suffering and its origin in human desi"
-        }
-      ]
-    },
-    {
       "slug": "replication",
       "missing_assets": [
         "local.js"
@@ -5292,6 +5256,11 @@
       "missing_assets": [
         "local.js"
       ],
+      "registered_orphans": [
+        "image012.png",
+        "image013.png",
+        "image014.png"
+      ],
       "mathjax": [
         "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
       ],
@@ -5326,13 +5295,6 @@
     },
     {
       "slug": "skepticism",
-      "suspect_page": [
-        {
-          "file": "notes.html",
-          "marker": "rate limit",
-          "snippet": "2005) argues that special kinds of skeptical hypotheses generate limited but insidious forms of skepticism.</p> </div>  <div id=\"note-6\">  <"
-        }
-      ],
       "missing_assets": [
         "local.js"
       ],
@@ -6068,16 +6030,6 @@
       ],
       "math_inline_pages": [
         "index.html"
-      ]
-    },
-    {
-      "slug": "zombies",
-      "suspect_page": [
-        {
-          "file": "index.html",
-          "marker": "access denied",
-          "snippet": "ord University Press.</li>  <li>Piccinini, G., 2017, &lsquo;Access Denied to Zombies,&rsquo; <em>Topoi</em>, 36: 81&ndash;93.</li>  <li>Russ"
-        }
       ]
     }
   ]

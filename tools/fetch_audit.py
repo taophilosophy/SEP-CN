@@ -15,6 +15,7 @@
 退出码: 0 完整/成功；1 有可补抓缺件；2 错误。
 """
 import argparse
+import html
 import io
 import json
 import os
@@ -31,20 +32,27 @@ if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
 
 ASSET_RE = re.compile(r'(?:src|href)="([^"]+)"')
 HTML_RE = re.compile(r"<h2|<html|<body|<!DOCTYPE", re.I)
+COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 
 
 def referenced_assets(slug):
-    """词条包内引用的全部词条资产（相对路径，排除站点框架与外链）。"""
+    """词条包内引用的全部词条资产（相对路径，排除站点框架与外链）。
+
+    浏览器语义：先剥离 HTML 注释（注释掉的引用不构成抓取义务）、再对属性值
+    做实体反解（SEP 混淆邮箱形如 m&#97;ilto:…）。裸 .js/.css 为词条自有资产
+    （如 local.js）；../../js/ 等站点框架为路径引用，由 "/" 过滤排除。
+    """
     d = repo_path("en", slug)
     refs = set()
     for fn in sorted(os.listdir(d)):
         if not fn.endswith(".html"):
             continue
-        txt = open(os.path.join(d, fn), encoding="utf-8", errors="replace").read()
+        with open(os.path.join(d, fn), encoding="utf-8", errors="replace") as fh:
+            txt = fh.read()
         if not HTML_RE.search(txt):
             continue  # 非页面（如残片）跳过
-        for m in ASSET_RE.finditer(txt):
-            src = m.group(1).split("#")[0].split("?")[0]
+        for m in ASSET_RE.finditer(COMMENT_RE.sub("", txt)):
+            src = html.unescape(m.group(1)).split("#")[0].split("?")[0]
             if not src or "/" in src:
                 continue  # 词条包资产永远是目录内裸文件名；../../ 等为站点链接
             if src.startswith(("http", ".", "mailto:", "javascript:")):
@@ -53,9 +61,8 @@ def referenced_assets(slug):
                 if src in ("index.html",):
                     continue
                 refs.add(src)  # notes.html / 补充材料
-            elif re.search(r"\.(png|jpe?g|gif|svg|webp|pdf)$", src, re.I):
+            elif re.search(r"\.(png|jpe?g|gif|svg|webp|pdf|js|css)$", src, re.I):
                 refs.add(src)
-            # CSS/JS/字体为站点框架，不在词条包职责内
     return refs
 
 

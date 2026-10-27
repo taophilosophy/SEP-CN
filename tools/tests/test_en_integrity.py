@@ -131,9 +131,49 @@ class TestAuditDir(unittest.TestCase):
         self.assertEqual(res["fetched_not_registered"], ["newfig.png"])
         self.assertEqual(hard, 0)
 
+    def test_double_slash_normalized(self):
+        self.assertEqual(resolve_ref("/entries//beta/x.png", "alpha"),
+                         ("entry", "beta", "x.png"))
+
+    def test_commented_refs_ignored(self):
+        build(self.en, {"alpha/index.html":
+                        PAGE + '<!-- <img src="commented.png" /> -->'})
+        res, hard = self.audit({"index.html", "fig1.png", "eqn2.gif", "notes.html"})
+        self.assertNotIn("missing_assets", res)
+        self.assertEqual(hard, 0)
+
+    def test_subdir_target(self):
+        page = ('<html><title>G (Stanford Encyclopedia of Philosophy)</title>'
+                '<img src="BN/x.png"></html>')
+        build(self.en, {"gam/index.html": page, "gam/BN/x.png": "png"})
+        res, hard = audit_dir(self.en, "gam", {"index.html"})
+        self.assertEqual(hard, 0)
+        os.remove(os.path.join(self.en, "gam", "BN", "x.png"))
+        res, hard = audit_dir(self.en, "gam", {"index.html"})
+        self.assertEqual(res["missing_assets"], ["BN/x.png"])
+
+    def test_not_sep_page(self):
+        build(self.en, {"fake/index.html":
+                        "<html><body>totally not SEP</body></html>"})
+        res, hard = audit_dir(self.en, "fake", {"index.html"})
+        self.assertEqual(res["not_sep_page"], ["index.html"])
+
+    def test_marker_in_branded_text_not_flagged(self):
+        page = ('<html><title>X (Stanford Encyclopedia of Philosophy)</title>'
+                '<body>He said just a moment ago.</body></html>')
+        build(self.en, {"fake/index.html": page})
+        res, hard = audit_dir(self.en, "fake", {"index.html"})
+        self.assertNotIn("suspect_page", res)
+        self.assertEqual(hard, 0)
+
     def test_suspect_and_truncated(self):
         build(self.en, {"bad/index.html":
                         "<html>Attention Required! | Cloudflare</html>"})
+        res, hard = audit_dir(self.en, "bad", {"index.html"})
+        self.assertEqual(res["not_sep_page"], ["index.html"])
+        build(self.en, {"bad/index.html":
+                        "<html><title>X (Stanford Encyclopedia of Philosophy)</title>"
+                        "<body><h1>Just a moment…</h1></body></html>"})
         res, hard = audit_dir(self.en, "bad", {"index.html"})
         self.assertIn("suspect_page", res)
         build(self.en, {"bad/index.html": "<html><body>no close"})
