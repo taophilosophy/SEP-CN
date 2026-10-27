@@ -182,3 +182,4 @@
 * AGENTS.md 的归属修正由其他会话处理，本 feature 不触碰 AGENTS.md 与 .gitignore 残留。
 * `.specify/memory/constitution.md` 目前为空白模板；本 feature 顺带以零信任与软件工程原则将其填充为正式项目宪法。
 * 用户已于 2026-10-27 裁决目录重建（ADR-0005）：中文译文按 a–z 文件夹平铺放置 .md（SEP slug 命名），英文原文保留在 yuanwen/ 本地库且结构与中文侧一模一样（`yuanwen/<letter>/<slug>.md` 逐字符镜像）；别名（标题含 `— see`）与递归自指条目不列入；本轮只建空目录与仅含一行 H1 的 .md，不覆盖既有内容；先同步规则再同步目录，英文侧先行，中文侧（含 SUMMARY.md/mu-lu-s.md 路径改写）待英文侧核验后另行执行；slug 推导不确定者记 needs_review 人工裁决，不静默猜测。
+* 用户已于 2026-10-27 二次裁决并取代上条（ADR-0007）：统一 SUMMARY 与磁盘结构为**上游同构**——词条为目录 `<slug>/index.md`（中文，仓库根）与 `yuanwen/<slug>/index.md`（英文，省掉 entries/ 层），先删全部词条内容目录（保留治理与项目设施）；SUMMARY 条目链接 `<slug>/index.md`、别名行保留并链到目标词条、由单一会话独自重写；mu-lu-s.md 仅同步改写链接路径；yuanwen 既有扁平内容迁入新结构；ADR-0005 的 a–z 平铺方案作废，其 slug 取证规则与存疑 slug 清单继续有效。
