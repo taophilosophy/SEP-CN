@@ -1,0 +1,280 @@
+# -*- coding: utf-8 -*-
+"""逐篇遍历 yuanwen/ 全库提取术语/人名候选（specs/008-terminology-campaign US-1）。
+
+用法:
+  python tools/term_harvest.py                # 全库遍历（按字母分批缓存，可中断续跑）
+  python tools/term_harvest.py --letter a     # 只跑一个字母批次
+  python tools/term_harvest.py --refresh      # 忽略缓存重提
+
+五路提取（term-candidates.json 先例方法扩展全库）:
+  ①斜体术语 *...* ②引语术语 “...” ③-ism 词族 ④高频概念短语（二元/三元，去停用词）
+  ⑤人名序列（大写二元组，type=person 供裁定）
+与两登记册 + 词汇表 + 候选池已登记键求差后入池。幂等：单篇提取结果缓存于
+specs/008-terminology-campaign/results/harvest-cache/，重跑只增量解析新文件。
+
+退出码: 0 成功；2 参数/路径错误。
+"""
+import io
+import json
+import os
+import re
+import sys
+from collections import Counter
+
+_enc = getattr(sys.stdout, 'encoding', None)
+if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
+    try:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    except (AttributeError, ValueError):
+        pass
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CORPUS = os.path.join(ROOT, 'yuanwen')
+POOL = os.path.join(ROOT, 'tasks', 'term-pool.json')
+CACHE = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
+                     'harvest-cache')
+REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
+REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
+LEGACY_POOL = os.path.join(ROOT, 'tasks', 'term-candidates.json')
+
+STOPWORDS = set('''the a an and or of to in on for with as by at from is are was
+were be been being that this these those it its their his her our your not no
+nor but if then than so such can could may might must shall should will would
+do does did done have has had having we they he she i you one two three first
+second new other more most same own only very just also into over under about
+between among through during before after above below up down out off again
+further once all any both each few some what which who whom when where why how
+there here whose which while because until against although though yet both
+either neither whether rather quite even ever never always often sometimes
+stanford encyclopedia philosophy press stanfordedu entry preview pdf version
+substantive revision original publication academic tools friends pdfs Sep
+sep society look references key doi isbn issn eds ed trans pp vol cited
+available online internet philosophy ontology project inpho enhanced
+bibliography google scholar crossref wikipedia wikimedia'''.split())
+
+PHRASE_MIN_FREQ = 5
+OTHER_MIN_FREQ = 2
+WORD_RE = re.compile(r"[A-Za-z][A-Za-z'\-]+")
+QUOTED_RE = re.compile(r'\u201c([^\u201c\u201d]{2,80})\u201d')
+ITALIC_RE = re.compile(r'\*([^*\n]{2,80})\*')
+ISM_RE = re.compile(r"\b([A-Za-z][A-Za-z'\-]{4,}isms?)\b", re.I)
+ISM_STOP = {'organism', 'organisms'}  # 假词干（term-candidates pool_sweep 先例）
+CAP_PAIR_RE = re.compile(r'\b([A-Z][a-z]{2,})\s+([A-Z][a-z]{2,})\b')
+
+
+def norm_key(text):
+    """候选键：剥斜体与空白、casefold（与 check_terms 同规）。"""
+    return re.sub(r'\s+', ' ', text.replace('*', '').strip()).casefold()
+
+
+def clean_phrase(text):
+    """候选清洗：剥书名/引用杂质，仅留字母短语。"""
+    text = text.strip().strip('.,;:!?')
+    if not text or any(ch in text for ch in '=<>()[]{}$\\|/数字'):
+        return ''
+    words = WORD_RE.findall(text)
+    if not (1 <= len(words) <= 4):
+        return ''
+    low = [w.casefold() for w in words]
+    if any(w in STOPWORDS for w in low) and len(low) > 1 and low[0] in STOPWORDS:
+        return ''
+    if all(w in STOPWORDS for w in low):
+        return ''
+    if any(len(w) < 2 for w in low):
+        return ''
+    return ' '.join(words)
+
+
+def extract_slug(path):
+    """单篇五路提取 → Counter(键 → 频次) 与原始形、类型映射。"""
+    text = open(path, encoding='utf-8').read()
+    text = re.sub(r'```.*?```', ' ', text, flags=re.S)  # 代码块剔除
+    body = '\n'.join(l for l in text.split('\n')
+                     if not l.startswith(('#', '>', '|', '!')))
+    counter = Counter()
+    forms, types = {}, {}
+
+    def add(raw, typ):
+        key = norm_key(raw)
+        if not key or len(key) > 60:
+            return
+        counter[key] += 1
+        forms.setdefault(key, raw.strip())
+        prev = types.get(key)
+        if prev != typ:
+            types[key] = 'person' if 'person' in (prev, typ) else (prev or typ)
+
+    for m in ITALIC_RE.finditer(body):
+        c = clean_phrase(m.group(1))
+        if c and not re.match(r'^(19|20)\d\d', c):
+            add(c, 'italic')
+    for m in QUOTED_RE.finditer(body):
+        c = clean_phrase(m.group(1))
+        if c:
+            add(c, 'quoted')
+    for m in ISM_RE.finditer(body):
+        if m.group(1).casefold() not in ISM_STOP:
+            add(m.group(1), 'ism')
+    for m in CAP_PAIR_RE.finditer(body):
+        pair = '%s %s' % (m.group(1), m.group(2))
+        if m.group(1).casefold() not in STOPWORDS:
+            add(pair, 'person')
+    # 概念短语：段落词序列滑窗（停用词断窗）
+    for para in body.split('\n'):
+        words = WORD_RE.findall(para)
+        low = [w.casefold() for w in words]
+        n = len(words)
+        for i in range(n):
+            if low[i] in STOPWORDS or len(words[i]) < 3:
+                continue
+            for j in (i + 1, i + 2):
+                if j >= n or low[j] in STOPWORDS or len(words[j]) < 3:
+                    break
+                add(' '.join(words[i:j + 1]), 'phrase')
+    return counter, forms, types
+
+
+def load_registered_keys():
+    """已登记键：两登记册 + 词汇表 + 旧候选池 + 新候选池。"""
+    from tools import check_terms
+    keys = set()
+    for path in (REGISTRY, REGISTRY2):
+        rows, _ = check_terms.parse_registry(path)
+        for row in rows:
+            keys.add(check_terms.norm_key(row[0]))
+    glos_rows, _ = check_terms.parse_glossary(
+        os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md'))
+    for row in glos_rows:
+        keys.add(check_terms.norm_key(row[0]))
+    for pool_path in (LEGACY_POOL, POOL):
+        if os.path.exists(pool_path):
+            try:
+                data = json.load(open(pool_path, encoding='utf-8'))
+                for c in data.get('candidates', []):
+                    for part in re.split(r'\s*/\s*', c.get('en', '')):
+                        if part.strip():
+                            keys.add(norm_key(part))
+            except (ValueError, OSError):
+                pass
+    return keys
+
+
+def iter_corpus(corpus, letter):
+    for dirpath, _dirs, files in os.walk(corpus):
+        for fn in sorted(files):
+            if not fn.endswith('.md'):
+                continue
+            rel = os.path.relpath(os.path.join(dirpath, fn), corpus)
+            top = rel.split(os.sep)[0]
+            if top.upper() == 'ASSETS' or top == 'SUMMARY.md':
+                continue
+            if letter and top.casefold() != letter.casefold():
+                continue
+            yield rel, os.path.join(dirpath, fn)
+
+
+def main(argv=None):
+    argv = sys.argv[1:] if argv is None else argv
+    letter, refresh = None, False
+    corpus, pool_path, cache = CORPUS, POOL, CACHE
+    i = 0
+    while i < len(argv):
+        if argv[i] == '--letter':
+            letter, i = argv[i + 1], i + 1
+        elif argv[i] == '--refresh':
+            refresh = True
+        elif argv[i] == '--corpus':
+            corpus, i = argv[i + 1], i + 1
+        elif argv[i] == '--pool':
+            pool_path, i = argv[i + 1], i + 1
+        elif argv[i] == '--cache':
+            cache, i = argv[i + 1], i + 1
+        i += 1
+    if not os.path.isdir(corpus):
+        print('语料目录缺失: %s' % corpus)
+        return 2
+
+    registered = load_registered_keys()
+    pool = {'meta': {}, 'candidates': []}
+    if os.path.exists(pool_path):
+        try:
+            pool = json.load(open(pool_path, encoding='utf-8'))
+        except ValueError:
+            pass
+    known = {norm_key(c['en']): c for c in pool.get('candidates', [])
+             if '/' not in c.get('en', '')}
+
+    os.makedirs(cache, exist_ok=True)
+    total, new_hits = 0, 0
+    per_run = Counter()
+    run_types, run_forms = {}, {}
+    run_sources = {}
+    for rel, path in iter_corpus(corpus, letter):
+        slug = rel[:-3].replace(os.sep, '.')
+        cache_path = os.path.join(cache, slug + '.json')
+        if refresh or not os.path.exists(cache_path):
+            counter, forms, types = extract_slug(path)
+            data = {'counts': dict(counter), 'forms': forms, 'types': types}
+            tmp = cache_path + '.tmp'
+            with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(data, f, ensure_ascii=False, sort_keys=True)
+            os.replace(tmp, cache_path)
+        else:
+            data = json.load(open(cache_path, encoding='utf-8'))
+            counter = Counter(data.get('counts', {}))
+            forms, types = data.get('forms', {}), data.get('types', {})
+        total += 1
+        stem = rel[:-3]
+        for key, freq in counter.items():
+            per_run[key] += freq
+            run_types.setdefault(key, types.get(key, 'phrase'))
+            run_forms.setdefault(key, forms.get(key, key))
+            run_sources.setdefault(key, []).append(stem)
+
+    for key, freq in per_run.items():
+        if key in registered:
+            continue
+        typ = run_types.get(key, 'phrase')
+        min_freq = PHRASE_MIN_FREQ if typ == 'phrase' else OTHER_MIN_FREQ
+        if freq < min_freq:
+            continue
+        entry = known.get(key)
+        if entry is None:
+            entry = {'en': run_forms.get(key, key), 'freq': freq, 'type': typ,
+                     'suggest': '', 'status': 'new', 'sources': []}
+            known[key] = entry
+            pool['candidates'].append(entry)
+            new_hits += 1
+        entry['freq'] = max(entry.get('freq', 0), freq) if letter else freq
+        entry['type'] = typ
+        entry['en'] = run_forms.get(key, entry.get('en', key))
+        if letter:  # 字母批次增量：来源并集；全量跑以本轮为权威
+            entry['sources'] = sorted(set(entry.get('sources', []))
+                                      | set(run_sources.get(key, [])))
+        else:
+            entry['sources'] = run_sources.get(key, [])
+
+    pool['candidates'].sort(key=lambda c: -c.get('freq', 0))
+    pool['meta'] = {
+        'generated_at': __import__('datetime').date.today().isoformat(),
+        'script': 'tools/term_harvest.py',
+        'corpus': 'yuanwen/ 全库镜像',
+        'scope': letter or 'all',
+        'files_processed': total,
+        'candidates': len(pool['candidates']),
+        'new_this_run': new_hits,
+        'method': '五路提取：斜体/引语/-ism/高频短语/人名序列；与两登记册+词汇表+候选池求差；'
+                  '短语阈值 %d、其余阈值 %d；单篇缓存于 results/harvest-cache/' % (
+                      PHRASE_MIN_FREQ, OTHER_MIN_FREQ),
+        'usage': 'status 状态机沿用 term-candidates.json：new→published@日期|held:理由|rejected:理由',
+    }
+    tmp = pool_path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(pool, f, ensure_ascii=False, indent=1, sort_keys=False)
+    os.replace(tmp, pool_path)
+    print('语料 %d 件（范围 %s）| 候选池 %d 条（新增 %d）→ %s'
+          % (total, letter or 'all', len(pool['candidates']), new_hits, pool_path))
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())

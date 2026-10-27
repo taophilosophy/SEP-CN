@@ -26,7 +26,12 @@ import re
 import sys
 from collections import defaultdict
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+_enc = getattr(sys.stdout, 'encoding', None)
+if not _enc or _enc.lower() not in ('utf-8', 'utf8'):
+    try:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    except (AttributeError, ValueError):
+        pass
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REGISTRY = os.path.join(ROOT, 'yi-zhe-shuo-ming.md')
 REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
