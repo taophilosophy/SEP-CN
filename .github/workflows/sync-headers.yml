@@ -33,6 +33,11 @@ jobs:
             # 文件 H1 必须是真实条目的标题，别名行不得覆盖（ADR-0007/0009）
             [[ "$title" == *"— see"* || "$title" == *"——见"* ]] && continue
 
+            # 跳过 README.md：SUMMARY 中 144 行共指根 README（根标题行 + 占位导航行），
+            # 逐行同步会以最后一行覆盖首页标题（曾把首页写成"策梅洛"），README 标题
+            # 以 SUMMARY 首行"斯坦福哲学百科全书简体中文版"为准，手工维护
+            [[ "$path" == "README.md" ]] && continue
+
             # 跳过带 YAML frontmatter 的文件（首行为 ---），避免破坏元数据
             [ "$(head -n 1 "$path")" = "---" ] && continue
 

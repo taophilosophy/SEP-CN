@@ -170,6 +170,11 @@ export default defineConfig({
     ['script', {}, `if(window.parent!==window){document.documentElement.classList.add('in-iframe')}`],
   ],
   markdown: {
+    // 关闭内置 @mdit/plugin-attrs：全库以 ^{…}/_{…} 作上下标约定、正文含
+    // 大量字面 {…}（如 ^{−1}），attrs 会把尾随花括号吞成 HTML 属性——轻则
+    // 上下标文本静默丢失（u(a_{1}) 渲染成 u(a），重则非法属性名（−½）炸掉
+    // Vue 模板编译，kochen-specker 等页整页构建失败（2026-10-28 复核裁定）。
+    attrs: false,
     config(md) {
       md.use(mathPlugin)
     },
