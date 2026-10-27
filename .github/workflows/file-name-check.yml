@@ -59,4 +59,28 @@ jobs:
               }
             } else {
               console.log("所有 SUMMARY.md 条目均有效。");
+              // 目录重建/修复后自动关闭历史 mismatch issue（此前校验通过只打日志，旧 issue 永远挂着）
+              const { data: openIssues } = await github.rest.issues.listForRepo({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                labels: 'summary-check'
+              });
+              for (const issue of openIssues) {
+                if (issue.title === 'SUMMARY.md mismatch: Missing files') {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    body: '所有 SUMMARY.md 条目均已有效（目录重建完成，' + new Date().toISOString() + ' 校验通过），自动关闭。'
+                  });
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    state: 'closed'
+                  });
+                  console.log('已关闭历史 mismatch issue #' + issue.number);
+                }
+              }
             }
