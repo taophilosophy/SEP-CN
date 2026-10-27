@@ -50,7 +50,7 @@
 
 ## 图片
 
-* 词条图片本地化于 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），md 内 `assets/<slug>/<文件名>` 相对引用；抓取原始 HTML 一律存 `en/<slug>/`（不可变原始物，不入库）。
+* 词条图片本地化于 `yuanwen/assets/<slug>/`（上游同名 `imageN.jpg`，ADR-0008），md 内 `../assets/<slug>/<文件名>` 相对引用（词条位于 `<letter>/` 子目录，须跨一级；ADR-0010 修订根级时代的 `assets/` 写法）；抓取原始 HTML 一律存 `en/<slug>/`（不可变原始物，不入库）。
 * 三条硬性要求：每个图片文件至少被一处引用（不得悬空）；引用必须能解析（不得指向缺失文件或外链）；必须本地化存放，禁止外部 URL。
 * “reprinted with permission” 图片必须在图注标明来源。
 

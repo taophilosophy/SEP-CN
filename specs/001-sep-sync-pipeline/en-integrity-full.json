@@ -1,51 +1,396 @@
 {
-  "audited": 1731,
-  "ran_at": "2026-10-27T17:55:41Z",
-  "clean": 1731,
-  "with_hard_issues": 0,
-  "hard_findings": 0,
+  "audited": 1812,
+  "ran_at": "2026-10-27T18:11:14Z",
+  "clean": 1784,
+  "with_hard_issues": 28,
+  "hard_findings": 28,
   "errors": [],
-  "mathjax_entries": 413,
-  "math_inline_entries": 784,
+  "mathjax_entries": 437,
+  "math_inline_entries": 824,
   "math_asset_entries": 2,
   "site_ref_segments": {
-    "support": 22872,
-    "css": 17154,
-    "js": 14295,
-    "info.html": 11442,
-    "cgi-bin": 10448,
-    "symbols": 9784,
-    "archives": 6791,
-    "contents.html": 5720,
-    "new.html": 5718,
-    "published.html": 5718,
-    "about.html": 5718,
-    "board.html": 5718,
-    "cite.html": 5718,
-    "special-characters.html": 5718,
-    "tools": 5718,
-    "contact.html": 5718,
-    "index.html": 4898,
-    "fundraising": 2859,
-    "accessibility.html": 2859,
-    "": 2859
+    "support": 23944,
+    "css": 17958,
+    "js": 14965,
+    "info.html": 11979,
+    "cgi-bin": 10907,
+    "symbols": 10251,
+    "archives": 7189,
+    "contents.html": 5988,
+    "new.html": 5986,
+    "published.html": 5986,
+    "about.html": 5986,
+    "board.html": 5986,
+    "cite.html": 5986,
+    "special-characters.html": 5986,
+    "contact.html": 5986,
+    "tools": 5956,
+    "index.html": 5124,
+    "": 2993,
+    "mirrors.html": 2993,
+    "accessibility.html": 2982
   },
   "external_ref_domains": {
-    "leibniz.stanford.edu": 6321,
-    "philpapers.org": 3642,
-    "mally.stanford.edu": 2895,
-    "fonts.googleapis.com": 2859,
-    "www.inphoproject.org": 1736,
-    "arxiv.org": 392,
-    "archive.org": 269,
-    "hdl.handle.net": 213,
-    "www.iep.utm.edu": 163,
-    "web.archive.org": 160,
-    "sites.google.com": 142,
+    "leibniz.stanford.edu": 6617,
+    "philpapers.org": 3822,
+    "mally.stanford.edu": 3029,
+    "fonts.googleapis.com": 2993,
+    "www.inphoproject.org": 1817,
+    "arxiv.org": 407,
+    "archive.org": 272,
+    "hdl.handle.net": 222,
+    "www.iep.utm.edu": 170,
+    "web.archive.org": 168,
+    "sites.google.com": 145,
     "ctext.org": 108,
+    "doi.org": 101,
     "gallica.bnf.fr": 95,
-    "doi.org": 90,
-    "philsci-archive.pitt.edu": 85
+    "philsci-archive.pitt.edu": 90
   },
-  "problems": []
+  "problems": [
+    {
+      "slug": "aristotle-de-motu",
+      "missing_assets": [
+        "figdesc.html"
+      ]
+    },
+    {
+      "slug": "biodiversity",
+      "missing_assets": [
+        "figdesc.html"
+      ]
+    },
+    {
+      "slug": "bolzano-logic",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "ceteris-paribus",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "consequentialism-rule",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "counterfactuals",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "debates.html",
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "decision-causal",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "epistemic-game",
+      "missing_assets": [
+        "figdesc.html",
+        "local.js",
+        "supplement.html"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "evolution-before-darwin",
+      "missing_assets": [
+        "figdesc.html"
+      ]
+    },
+    {
+      "slug": "goedel-incompleteness",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "sup1.html",
+        "sup2.html"
+      ]
+    },
+    {
+      "slug": "identity-indiscernible",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "information-biological",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "monism",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "naturalism",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "pineal-gland",
+      "missing_assets": [
+        "berengario1530.jpg",
+        "cambridge1300.jpg",
+        "descartes1664.jpg",
+        "pineal.jpg",
+        "qusta.jpg",
+        "reisch1535.jpg"
+      ]
+    },
+    {
+      "slug": "pm-notation",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "dots.html",
+        "index.html"
+      ]
+    },
+    {
+      "slug": "preferences",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html",
+        "revealed-preference.html"
+      ]
+    },
+    {
+      "slug": "qualia-inverted",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "ramsey-economics",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "reduction-biology",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "russell",
+      "missing_assets": [
+        "desire.au",
+        "desire.qt",
+        "desire.wav",
+        "local.js",
+        "politics.au",
+        "politics.qt",
+        "politics.wav"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "scientific-explanation",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "settheory-alternative",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "tarski-truth",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "time-travel-phys",
+      "missing_assets": [
+        "figdesc.html",
+        "figure-s1.svg",
+        "figure-s2.svg",
+        "figure-s3.svg",
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html",
+        "toy-models.html"
+      ]
+    },
+    {
+      "slug": "truth-axiomatic",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    },
+    {
+      "slug": "type-theory-church",
+      "missing_assets": [
+        "local.js"
+      ],
+      "math_inline_pages": [
+        "index.html",
+        "notes.html"
+      ]
+    },
+    {
+      "slug": "voting-methods",
+      "missing_assets": [
+        "local.js"
+      ],
+      "mathjax": [
+        "../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML"
+      ],
+      "math_inline_pages": [
+        "index.html"
+      ]
+    }
+  ]
 }

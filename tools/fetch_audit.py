@@ -33,14 +33,18 @@ if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
 ASSET_RE = re.compile(r'(?:src|href)="([^"]+)"')
 HTML_RE = re.compile(r"<h2|<html|<body|<!DOCTYPE", re.I)
 COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
+# 形如文件名的裸引用（含 .au/.qt/.wav 等任意扩展；russell 词条实证媒体引用
+# 曾被扩展名枚举漏掉）。index.html 为包自身不入闭包。
+FILENAME_RE = re.compile(r"[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9._-]+\Z")
 
 
 def referenced_assets(slug):
     """词条包内引用的全部词条资产（相对路径，排除站点框架与外链）。
 
     浏览器语义：先剥离 HTML 注释（注释掉的引用不构成抓取义务）、再对属性值
-    做实体反解（SEP 混淆邮箱形如 m&#97;ilto:…）。裸 .js/.css 为词条自有资产
-    （如 local.js）；../../js/ 等站点框架为路径引用，由 "/" 过滤排除。
+    做实体反解（SEP 混淆邮箱形如 m&#97;ilto:…）。一切形如文件名的裸引用都是
+    词条包资产（页面/图片/词条自有 js/css/媒体如 russell 的 .au/.qt/.wav）；
+    ../../js/ 等站点框架为路径引用，由 "/" 过滤排除。
     """
     d = repo_path("en", slug)
     refs = set()
@@ -57,12 +61,11 @@ def referenced_assets(slug):
                 continue  # 词条包资产永远是目录内裸文件名；../../ 等为站点链接
             if src.startswith(("http", ".", "mailto:", "javascript:")):
                 continue
-            if src.endswith(".html"):
-                if src in ("index.html",):
-                    continue
-                refs.add(src)  # notes.html / 补充材料
-            elif re.search(r"\.(png|jpe?g|gif|svg|webp|pdf|js|css)$", src, re.I):
-                refs.add(src)
+            if not FILENAME_RE.fullmatch(src):
+                continue  # 非文件名形态（锚点残留、实体残片等）
+            if src == "index.html":
+                continue
+            refs.add(src)  # notes.html / 补充材料 / 图片 / 词条自有 js/css/媒体
     return refs
 
 

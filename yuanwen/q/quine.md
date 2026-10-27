@@ -325,11 +325,11 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 
 ## Notes to Willard Van Orman Quine
 
-[^note-ref-1]: We focus here on the issue of how stimulation patterns are to be divided into types. Responses—primarily utterances—are also specific events which need to be grouped into types if we are to correlate them with stimulation patterns. We shall, however, ignore that issue here.
+[^note-1]: We focus here on the issue of how stimulation patterns are to be divided into types. Responses—primarily utterances—are also specific events which need to be grouped into types if we are to correlate them with stimulation patterns. We shall, however, ignore that issue here.
 
-[^note-ref-2]: Somewhat less roughly: *A* is perceptually similar to *B* than it is to *C* if *A* evokes a response which has been conditioned to stimulation patterns receptually similar to *B* but does not evoke a response conditioned to patterns receptually similar to *C*.
+[^note-2]: Somewhat less roughly: *A* is perceptually similar to *B* than it is to *C* if *A* evokes a response which has been conditioned to stimulation patterns receptually similar to *B* but does not evoke a response conditioned to patterns receptually similar to *C*.
 
-[^note-ref-3]: Extensionality also requires that replacing a singular term in a sentence by another with the same reference leave the truth-value of the sentence unchanged. The requirement perhaps has more evident plausibility than the others but it plays no role in Quine’s fully regimented theory because in that theory singular terms are eliminated by the technique of Russell’s analysis of definite descriptions. Given weak and plausible assumptions, the three requirements stand or fall together; see, for example, Quine, 1995, 91.
+[^note-3]: Extensionality also requires that replacing a singular term in a sentence by another with the same reference leave the truth-value of the sentence unchanged. The requirement perhaps has more evident plausibility than the others but it plays no role in Quine’s fully regimented theory because in that theory singular terms are eliminated by the technique of Russell’s analysis of definite descriptions. Given weak and plausible assumptions, the three requirements stand or fall together; see, for example, Quine, 1995, 91.
 
 [^willard-nd]: [Willard Van Orman Quine’s Professional Essays, Articles, Reviews, Abstracts, Unpublished Manuscripts, Lectures, and Remarks](http://www.wvquine.org/wvq-publish.html), maintained by Douglas Boynton Quine.
 

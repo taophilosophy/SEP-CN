@@ -659,7 +659,7 @@ logic: free | logic: infinitary | logic: intuitionistic | logic: linear | logic:
 
 ## Notes to Classical Logic
 
-[^note-ref-1]: It is possible to develop a system which allows open formulas to appear in arguments. This would have a direct impact on our treatment of the quantifiers, as we would have to be much more careful about which variables we were using. Allowing formulas to appear in arguments simplifies some things and complicates others.
+[^note-1]: It is possible to develop a system which allows open formulas to appear in arguments. This would have a direct impact on our treatment of the quantifiers, as we would have to be much more careful about which variables we were using. Allowing formulas to appear in arguments simplifies some things and complicates others.
 
 [^anderson-1975]: Anderson, Alan and Nuel Belnap, 1975, *Entailment: The Logic of Relevance and Necessity I*, Princeton: Princeton University Press.
 
