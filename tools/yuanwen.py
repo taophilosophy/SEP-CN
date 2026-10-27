@@ -216,6 +216,10 @@ def inline_to_md(html, slug=None):
         if href.startswith('notes.html#'):
             ref = re.sub('^note-', '', href.split('#')[1].split('&')[0])
             return '[^note-%s]' % ref
+        if slug and re.fullmatch(r'[A-Za-z0-9._%+-]+\.(?:png|jpe?g|gif|svg|webp|pdf)', href):
+            # 点图放大链（<a href="X-large.gif"> 包 <img src="X.gif">）：本地化引用，
+            # 否则大图资产成为无引用孤儿（2026-10-28 复核）
+            return '[%s](../assets/%s/%s)' % (text, slug, href)
         if re.fullmatch(r'[a-zA-Z0-9][a-zA-Z0-9._-]*\.html', href) and slug:
             base = href[:-5]
             return '[%s](%s.%s.md)' % (text, slug, base)
@@ -241,7 +245,7 @@ def inline_to_md(html, slug=None):
         alt = unescape(am.group(1)) if am else ''
         # ADR-0008 上游同名本地化 + ADR-0010 相对引用 ../assets/<slug>/（md 在
         # <letter>/ 子目录）；旧实现一律剥除 <img>，正文图片全部失联（D15）
-        if slug and re.fullmatch(r'[A-Za-z0-9._%-]+', src):
+        if slug and re.fullmatch(r'[A-Za-z0-9._%+-]+', src):
             return '![%s](../assets/%s/%s)' % (alt, slug, src)
         if src.startswith(('http://', 'https://')):
             return '![%s](%s)' % (alt, src)

@@ -2544,6 +2544,7 @@
 * [唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)](w/williams-dc.md)
 * [约翰·库克·威尔逊 Wilson, John Cook (Mathieu Marion)](w/wilson.md)
 * [威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)](w/wilhelm-windelband.md)
+* [智慧 wisdom (Sharon Ryan)](w/wisdom.md)
 * [路德维希·维特根斯坦 Wittgenstein, Ludwig (Anat Biletzki and Anat Matar)](w/wittgenstein.md)
   * [维特根斯坦的美学 aesthetics (Garry Hagberg)](w/wittgenstein-aesthetics.md)
   * [维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)](w/wittgenstein-atomism.md)
