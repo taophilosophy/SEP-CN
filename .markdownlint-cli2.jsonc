@@ -63,8 +63,10 @@
     "!.specify/templates/**",
     "!.github/sep-sync-report/**"
   ],
-  // bun.lock 等非内容文件
+  // bun.lock 等非内容文件；SUMMARY.md 为 GitBook 目录（列表开篇/同级重名属结构设计，结构由 check_summary.py 管辖）；tools/tests/fixtures/** 为故意写坏的测试夹具
   "ignoreGlobs": [
-    "bun.lock"
+    "bun.lock",
+    "SUMMARY.md",
+    "tools/tests/fixtures/**"
   ]
 }
