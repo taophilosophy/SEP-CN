@@ -39,3 +39,9 @@
 * **整组合并判据**：连续非匹配区段整组比值 ≥0.95 → 记 merged 形态注记（preamble/列表/dl 的 1↔N 拆合块是转译形态，非内容分歧，T-01）；<0.95 才逐块 flag。
 * 标题链判据修正：SUMMARY 条目文字 = zh H1（中文侧硬）；yuanwen H1（去强调）= html 标题（英文侧硬）；SUMMARY 用「姓, 名」引文格式系设计使然，与 html 原题词序差异不算错。
 * 冒烟已知真发现：bib 段 h3 小节在 md 侧随 References 节渲染（quine 型）——已归入 References 段剔除范围，非正文泄漏。
+
+## 2026-10-29 跑批期发现与对齐器迭代（第二轮）
+
+* **真发现 R1（全库清点）**：30 个词条 yuanwen md 存在**重复 H1**——词条包 html 文章首块为图片（figure 先于 h1）时，convert_entry 兜底前置标题与正文渲染的 H1 叠加，且图片位于标题之前。清单 `results/para-review/dup-h1-scan.json`（anderson-john、frege、russell、descartes 等 30 条）。移交镜像责任会话（修复方向：兜底前置仅在渲染输出无 H1 时触发，图片块移至标题后），本战役零写入不改被审文件。
+* **对齐器迭代 2**：①SUMMARY 解析支持嵌套方括号链接文字与数字开头目录（1878 标题全命中，重启前 4 条 title 误报归零）；②References 文献节剔除规则修正——注释性文献节（addams-jane 型：h3/h4 小节与条目段落混排）整段剔除，**遇 h2 正文节才回到正文**；③html 侧 `|` 剥离（Related Entries 管道分隔符，与 md 表格管道剥离对称）。
+* 跑批策略：全量首轮以定稿前代码在跑（进度 151/1878）；完成后仅对 flagged 词条 `--force` 定点重跑（吸收迭代 2/3 修复），ok 词条证据不受影响。

@@ -62,7 +62,8 @@ def norm_html(inner):
     t = CITE_MARK.sub(' ', t)
     t = BACKLINK_TXT.sub(' ', t)
     t = re.sub(r'\\\[|\\\]|\\\(|\\\)', ' ⟦M⟧ ', t)  # 跨块被腰斩的公式残余定界符
-    return _ws(t)
+    t = t.replace('|', ' ')               # Related Entries 管道分隔符（与 md 表格
+    return _ws(t)                         # 管道剥离对称，非内容）
 
 
 def _strip_md_deco(t):
@@ -190,15 +191,14 @@ def split_md_body(md_text):
     kept, in_refs = [], False
     for c in chunks:
         if re.match(r'^#{1,6}\s*References（引用注释）?\s*$', c):
-            in_refs = True                    # T-07：文献节标题；其后 h3 小节与
-            continue                          # 体例说明随节剔除，遇 h2 回到正文
+            in_refs = True                    # T-07：文献节（含注释性文献小节与
+            continue                          # 条目段落）整段剔除，遇 h2 回到正文
         if in_refs:
             hm = re.match(r'^(#{1,6})\s', c)
-            if hm and len(hm.group(1)) >= 3:
-                continue
-            if '原文参考文献已转为脚注引用' in c:
-                continue
-            in_refs = False
+            if hm and len(hm.group(1)) == 2:
+                in_refs = False               # Academic Tools 等正文节
+            else:
+                continue                      # h3+ 小节与条目段落均在文献节内
         kept.append(c)
     return kept, authors_found
 
