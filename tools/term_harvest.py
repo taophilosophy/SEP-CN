@@ -184,6 +184,10 @@ def load_registered_keys():
         rows, _ = check_terms.parse_registry(path)
         for row in rows:
             keys.add(check_terms.norm_key(row[0]))
+            # 归并行变体拆分（ADR-0013：「主形 / 他形」逐变体作键）
+            for part in re.split(r'\s*/\s*', row[0]):
+                if part.strip():
+                    keys.add(check_terms.norm_key(part))
     glos_rows, _ = check_terms.parse_glossary(
         os.path.join(ROOT, 'qian-yan', 'ci-hui-biao.md'))
     for row in glos_rows:

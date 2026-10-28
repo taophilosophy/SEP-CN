@@ -9,6 +9,18 @@
 
 const SENTINEL_RE = /@@M([IBJ])([A-Za-z0-9_-]+)@@/
 
+// 白名单内的标签视为真 HTML 原样放行；其余 <name>（正文以尖括号作引号/占位符，
+// 如 <Socrates>、<this very thought>、<slug>）转义为字面文本。
+// 若放行，markdown 原样透传后 Vue 模板编译会因未闭合元素直接失败。
+const SAFE_HTML_TAGS = new Set([
+  'a', 'abbr', 'b', 'blockquote', 'br', 'caption', 'cite', 'code', 'dd', 'del',
+  'details', 'div', 'dl', 'dt', 'em', 'figcaption', 'figure', 'h1', 'h2', 'h3',
+  'h4', 'h5', 'h6', 'hr', 'i', 'img', 'ins', 'kbd', 'li', 'mark', 'ol', 'p',
+  'pre', 'q', 's', 'samp', 'small', 'span', 'strong', 'sub', 'summary', 'sup',
+  'table', 'tbody', 'td', 'tfoot', 'th', 'thead', 'tr', 'u', 'ul', 'var',
+  'video', 'audio', 'source', 'iframe',
+])
+
 function encodeB64(str) {
   return Buffer.from(str, 'utf8').toString('base64url')
 }
@@ -38,6 +50,23 @@ function rawMathHtml(raw) {
   return `<span v-pre class="math-tex">${escapeHtml(raw)}</span>`
 }
 
+// void 元素无需闭合；其余白名单标签须在文内开闭数量完全平衡才原样放行，
+// 半残 HTML（如 guan-yu 页 <p> 有开无闭）整类转义，否则 Vue 模板编译报缺闭合。
+const VOID_TAGS = new Set(['br', 'hr', 'img', 'source'])
+
+function computeSafeTags(src) {
+  const safe = new Set(VOID_TAGS)
+  const present = new Set()
+  for (const m of src.matchAll(/<(\/?)([a-zA-Z][a-zA-Z0-9-]*)(?=[\s/>:])/g)) present.add(m[2])
+  for (const name of present) {
+    if (!SAFE_HTML_TAGS.has(name) || VOID_TAGS.has(name)) continue
+    const openN = (src.match(new RegExp(`<${name}(?=[\\s/>])`, 'g')) || []).length
+    const closeN = (src.match(new RegExp(`</${name}>`, 'g')) || []).length
+    if (openN > 0 && openN === closeN) safe.add(name)
+  }
+  return safe
+}
+
 /** 源文进入 markdown 解析前：围栏/行内代码以外的公式抽换为哨兵 */
 export function protectMath(src) {
   // 守卫必须編进正则（而非事后拒绝）：事后拒绝会让扫描跳过已消费的定界符，
@@ -46,17 +75,22 @@ export function protectMath(src) {
   //  A) 数字开头（货币嫌疑）：右定界符必须紧随内容、其后不允许紧跟数字（"$150,000" 不参与配对）
   //  B) 非数字开头：右定界符前后允许空格（原子译稿有 "$ \alpha S' = {…} $" 写法）
   const re =
-    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$((?:[ \t]+\\)?\d(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)\$(?!\d)|(?<!\\)\$(?!\d)((?:[ \t]+\\)?(?:\\\$|[^\s$])(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)[ \t]*\$/g
+    /(```|~~~)[^\n]*\n[\s\S]*?\n\1[^\n]*(?=\n|$)|(```|~~~)[^\n]*\n[\s\S]*$|`[^`\n]*`|\\\[([\s\S]+?)\\\]|\\\(([\s\S]+?)\\\)|(?<!\\)\$\$([\s\S]+?)\$\$|(?<!\\)\$((?:[ \t]+\\)?\d(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)\$(?!\d)|(?<!\\)\$(?!\d)((?:[ \t]+\\)?(?:\\\$|[^\s$])(?:(?:\\\$|[^\n$]|\n(?![ \t]*\n))*[^\s$])?)[ \t]*\$|<(\/?[a-zA-Z][a-zA-Z0-9-]*)([:\s/>])|<(\/?[a-zA-Z][a-zA-Z0-9-]*)$/g
+  const safeTags = computeSafeTags(src)
   const out = src.replace(
     re,
-    (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTexA, dTexB) => {
+    (all, fenceClosed, fenceOpen, blockTex, inlineTex, ddTex, dTexA, dTexB, tagName, tagFollow, tagName2) => {
       if (fenceClosed || fenceOpen) return all // 围栏代码块原样保留
       if (all.startsWith('`')) return all // 行内代码原样保留
       if (blockTex !== undefined) return `\n\n@@MB${encodeB64(blockTex)}@@\n\n`
       if (inlineTex !== undefined) return `@@MI${encodeB64(inlineTex)}@@`
       if (ddTex !== undefined) return `@@MJ${encodeB64(`$$${ddTex}$$`)}@@`
       const single = dTexA !== undefined ? dTexA : dTexB
-      return `@@MJ${encodeB64(`$${single}$`)}@@`
+      if (single !== undefined) return `@@MJ${encodeB64(`$${single}$`)}@@`
+      // 非白名单或开闭不平衡的尖括号 → 字面文本（: 为自动链接 <https://…>，放行）
+      const bare = (tagName !== undefined ? tagName : tagName2).replace(/^\//, '')
+      if (!safeTags.has(bare) && tagFollow !== ':') return all.replace('<', '&lt;')
+      return all
     },
   )
   // 数学之外的裸 {{ 会被 Vue 当模板插值（轻则文本消失、重则编译报错），须屏蔽。

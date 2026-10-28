@@ -3,8 +3,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { mathPlugin } from './math-plugin.mjs'
+import { chineseSearchOptimize, pagefindPlugin } from 'vitepress-plugin-pagefind'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
+// 构建时用 pagefind 做离线全文搜索（索引分块，2400+ 页可控）；
+// dev 下没有 pagefind 产物，保留内置 MiniSearch（PAGE_CAP 限流版）
+const isBuild = process.argv.includes('build')
 
 // ------------------------------------------------------------- SUMMARY 解析 --
 
@@ -177,6 +181,13 @@ export default defineConfig({
     attrs: false,
     config(md) {
       md.use(mathPlugin)
+      // 行内代码全局 v-pre（vuejs/vitepress#3724 的做法）：
+      // 代码内的 {{ }} 与标签不再被 Vue 当模板处理
+      const defaultCodeInline = md.renderer.rules.code_inline!
+      md.renderer.rules.code_inline = (tokens, idx, options, env, self) => {
+        tokens[idx].attrSet('v-pre', '')
+        return defaultCodeInline(tokens, idx, options, env, self)
+      }
     },
   },
   themeConfig: {
@@ -267,6 +278,13 @@ export default defineConfig({
   },
   vite: {
     plugins: [
+      ...(isBuild
+        ? [
+            pagefindPlugin({
+              customSearchQuery: chineseSearchOptimize,
+            }),
+          ]
+        : []),
       {
         name: 'sep-readme-index-fallback',
         // VitePress 2.0 alpha 的 dev 端只按 /index.md 解析页面，

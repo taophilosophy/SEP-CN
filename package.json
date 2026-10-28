@@ -5,8 +5,8 @@
   "type": "module",
   "description": "SEP-CN 本地 VitePress 阅读站（中文词条 + yuanwen 英文原文双语对照）",
   "scripts": {
-    "dev": "node .vitepress/prepare-assets.mjs && vitepress dev",
-    "build": "node .vitepress/prepare-assets.mjs && vitepress build",
+    "dev": "node .vitepress/prepare-assets.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress dev",
+    "build": "node .vitepress/prepare-assets.mjs && NODE_OPTIONS=--max-old-space-size=8192 vitepress build",
     "preview": "vitepress preview"
   },
   "license": "BSD-2-Clause",
@@ -14,7 +14,9 @@
     "lxgw-wenkai-screen-webfont": "^1.7.0",
     "lxgw-wenkai-webfont": "^1.7.0",
     "mathjax": "3.2.2",
+    "pagefind": "^1.5.2",
     "rollup": "^4.65.1",
-    "vitepress": "2.0.0-alpha.21"
+    "vitepress": "2.0.0-alpha.21",
+    "vitepress-plugin-pagefind": "^0.4.25"
   }
 }

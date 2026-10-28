@@ -35,8 +35,9 @@ onMounted(() => schedule(60))
 onBeforeUnmount(() => clearTimeout(timer))
 
 // ---------------------------------------- iframe 内：滚动同步（子侧） --
-const w = window as any
-const inIframe = typeof window !== 'undefined' && window.parent !== window
+// SSR（vitepress build）下没有 window，须先判存在
+const w = (typeof window !== 'undefined' ? window : undefined) as any
+const inIframe = !!w && w.parent !== w
 
 if (inIframe && !w.__biliIframeSync) {
   w.__biliIframeSync = true
