@@ -1,0 +1,47 @@
+{
+ "key": "falsafa",
+ "term": "falsafa",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:29:28+00:00",
+ "status": "ok",
+ "note": "variant=falsafa; 审定公布名词库=3; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "故障安全",
+   "en": "failsafe",
+   "code": "06.074",
+   "standard": "航空科学技术名词",
+   "subject": "航空科学技术_飞行控制、导航、显示、控制和记录系统"
+  },
+  {
+   "cn": "黄花苜蓿",
+   "en": "sickle alfalfa,Medicago falcata",
+   "code": "10.162",
+   "standard": "畜牧学名词",
+   "subject": "畜牧学_常用牧草_豆科牧草"
+  },
+  {
+   "cn": "黄花苜蓿",
+   "en": "sickle alfalfa; Medicago falcata L.",
+   "code": "03.030",
+   "standard": "农学名词",
+   "subject": "饲用作物_豆科饲用作物"
+  },
+  {
+   "cn": "法斯塔夫",
+   "en": "Falstaff",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "法拉夏人",
+   "en": "Falasha",
+   "code": "6.0116",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_世界民族_亚洲地区"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,40 @@
+{
+ "key": "diffeomorphism",
+ "term": "diffeomorphism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:16:58+00:00",
+ "status": "ok",
+ "note": "variant=diffeomorphism; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "微分同胚",
+   "en": "diffeomorphism",
+   "code": "08.0887",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_微分流形"
+  },
+  {
+   "cn": "阿诺索夫微分同胚",
+   "en": "Anosov diffeomorphism",
+   "code": "06.0163",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "拟梯度微分同胚",
+   "en": "gradient-like diffeomorphism",
+   "code": "06.0175",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  },
+  {
+   "cn": "莫尔斯-斯梅尔微分同胚",
+   "en": "Morse-Smale diffeomorphism",
+   "code": "06.0188",
+   "standard": "数学名词",
+   "subject": "数学_微分方程_积分方程_动力系统（数学）"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

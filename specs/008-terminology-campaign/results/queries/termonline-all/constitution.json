@@ -1,0 +1,334 @@
+{
+ "key": "constitution",
+ "term": "Constitution",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:04:00+00:00",
+ "status": "ok",
+ "note": "variant=Constitution; 审定公布名词库=244; 海峡两岸名词对照库=63; 其他来源数据库=10; 预公布名词数据库=49; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "code": "02.067",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟"
+  },
+  {
+   "cn": "体质",
+   "en": "constitution",
+   "code": "06.063",
+   "standard": "运动医学名词",
+   "subject": "运动医学_医务监督_体适能"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "code": "02.0652",
+   "standard": "化学名词",
+   "subject": "化学_有机化学_物理有机化学_有机立体化学"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "code": "03.01.025",
+   "standard": "地质学名词",
+   "subject": "地质学_矿物学_总论"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "code": "07.0120",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地壳流体科学_地下水类型"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "code": "03.0820",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学分析"
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "code": "05.1111",
+   "standard": "化学名词",
+   "subject": "化学_高分子化学_高分子加工技术和应用"
+  },
+  {
+   "cn": "组成过冷",
+   "en": "constitution undercooling",
+   "code": "01.0423",
+   "standard": "材料科学技术名词",
+   "subject": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构"
+  },
+  {
+   "cn": "1791年宪法",
+   "en": "Constitution of 1791",
+   "code": "03.0466",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_法国"
+  },
+  {
+   "cn": "1787年制宪会议",
+   "en": "Constitutional Convention",
+   "code": "03.0038",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_美国"
+  },
+  {
+   "cn": "护宪战争",
+   "en": "Constitutional War",
+   "code": "04.0644",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代亚洲、非洲、拉丁美洲、澳洲、大洋洲_墨西哥、中美洲"
+  },
+  {
+   "cn": "君主立宪制",
+   "en": "Constitutional Monarchy",
+   "code": "03.0336",
+   "standard": "世界历史名词",
+   "subject": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰"
+  },
+  {
+   "cn": "构造",
+   "en": "constitution",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "结构控制剂",
+   "en": "constitution controller",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "结构水",
+   "en": "constitution water",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "体质特质",
+   "en": "constitutional trait",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "浓度起伏",
+   "en": "constitutional fluctuation",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "组元空位",
+   "en": "constitutional vacancy",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "组成过冷",
+   "en": "constitutional supercooling",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "成分过冷",
+   "en": "constitutional undercooling",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "构造异构体",
+   "en": "constitutional isomer",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "组成单元",
+   "en": "constitutional unit",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "组成型易位",
+   "en": "constitutional translocation",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "组成型多倍体",
+   "en": "constitutional polyploid",
+   "code": null,
+   "standard": "海峡两岸遗传学名词",
+   "subject": "遗传学"
+  },
+  {
+   "cn": "宪法日",
+   "en": "Constitution Day",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "君主立宪制",
+   "en": "Constitutional monarchy",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "宪法权利",
+   "en": "constitutional rights",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "一阴一阳之谓道",
+   "en": "The Alternation of Yin and Yang Constitutes the Way.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "依宪治国",
+   "en": "governance of the country on the basis of its constitution",
+   "code": null,
+   "standard": "中央文献重要术语",
+   "subject": "其他"
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "医疗机构",
+   "en": "medical institution",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "专有词汇_机构名称"
+  },
+  {
+   "cn": "中国小额信贷机构联席会",
+   "en": "China Microfinance Institution Association",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "英国标准协会",
+   "en": "British Standards Institution (BSI)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数据交易服务机构",
+   "en": "data trading service institution",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "宪法",
+   "en": "constitution",
+   "code": "03.0204",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "身体素质指标",
+   "en": "constitution parameter",
+   "code": "3.4.1.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研"
+  },
+  {
+   "cn": "立宪民主党",
+   "en": "Constitutional Democrats",
+   "code": "04.0427",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_重要组织政党_列宁斯大林时期"
+  },
+  {
+   "cn": "社会构成",
+   "en": "social constitution",
+   "code": "2.1.3.15",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "党章",
+   "en": "Party constitution",
+   "code": "03.0718",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "斯大林宪法",
+   "en": "Stalins constitution",
+   "code": "04.0105",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_列宁斯大林时期"
+  },
+  {
+   "cn": "立宪君主制",
+   "en": "constitutional monarchy",
+   "code": "03.0069",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "立宪统治",
+   "en": "constitutional rule",
+   "code": "03.0106",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "体质性生长发育延迟",
+   "en": "constitutional growth delay",
+   "code": "2.6.5.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_青春期发育"
+  },
+  {
+   "cn": "新民主主义宪政",
+   "en": "newdemocratic constitutional government",
+   "code": "03.0340",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "code": "13.1.4",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "中国学生体质与健康调研",
+   "en": "Chinese national surveillance on students' constitution and health, CNSSCH",
+   "code": "3.4.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,33 @@
+{
+ "key": "consequentialism",
+ "term": "consequentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:04:00+00:00",
+ "status": "ok",
+ "note": "variant=consequentialism; 审定公布名词库=3; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "后果论",
+   "en": "consequentialism",
+   "code": "08.088",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科技伦理_医学伦理学"
+  },
+  {
+   "cn": "从属损坏",
+   "en": "consequential damage",
+   "code": "24.0221",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_内燃机_发动机维修"
+  },
+  {
+   "cn": "二次损坏",
+   "en": "consequential damage",
+   "code": "08.068",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车维修_故障和损伤"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

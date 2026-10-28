@@ -1,0 +1,89 @@
+{
+ "key": "dogmatism",
+ "term": "dogmatism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:16:58+00:00",
+ "status": "ok",
+ "note": "variant=dogmatism; 审定公布名词库=6; 海峡两岸名词对照库=2; 其他来源数据库=1; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "岩浆作用",
+   "en": "magmatism",
+   "code": "04.01.024",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_总论"
+  },
+  {
+   "cn": "岩浆作用",
+   "en": "magmatism",
+   "code": "04.026",
+   "standard": "资源科学技术名词",
+   "subject": "资源科学技术_资源地学"
+  },
+  {
+   "cn": "岩浆作用",
+   "en": "magmatism",
+   "code": "05.005",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "混合岩化作用",
+   "en": "migmatization,migmatism",
+   "code": "05.497",
+   "standard": "地质学名词",
+   "subject": "地质学_岩石学"
+  },
+  {
+   "cn": "裂谷岩浆活动",
+   "en": "rift magmatism",
+   "code": "02.0324",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地球动力学_大陆构造演化"
+  },
+  {
+   "cn": "渗透交代作用",
+   "en": "infiltration meta-somatism",
+   "code": "07.0217",
+   "standard": "地球物理学名词",
+   "subject": "地球物理学_地壳流体科学_内生气体"
+  },
+  {
+   "cn": "教条主义",
+   "en": "dogmatism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "教条主义量表",
+   "en": "Dogmatism Scale",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "岩浆作用",
+   "en": "magmatism",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "教条主义",
+   "en": "dogmatism",
+   "code": "01.0213",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "反对教条主义",
+   "en": "combat dogmatism",
+   "code": "03.0345",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

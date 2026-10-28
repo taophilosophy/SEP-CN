@@ -48,6 +48,13 @@ DB_NAMES = {'0': '审定公布名词库', '1': '海峡两岸名词对照库',
             '2': '其他来源数据库', '6': '预公布名词数据库'}
 
 
+def _db_name(raw):
+    """API 的 id 为 32 位十六进制串（…0006），折算十进制后查库名。"""
+    s = str(raw)
+    short = str(int(s, 16)) if re.fullmatch(r'[0-9a-fA-F]{4,}', s) else s
+    return DB_NAMES.get(short, short)
+
+
 def emit(out_path, pool=False):
     """产出批次清单：登记册（+可选池）全量，归并行拆变体。"""
     from tools import check_terms, cnki_query
@@ -129,7 +136,7 @@ def ingest(in_path, map_path=None):
             if g.get('error'):
                 errs.append('%s: %s' % (g.get('term'), g['error']))
             for db in g.get('dbs') or []:
-                name = DB_NAMES.get(str(db.get('db')), str(db.get('db')))
+                name = _db_name(db.get('db'))
                 notes.append('%s=%s' % (name, db.get('total') or 0))
                 for w in db.get('words') or []:
                     hits.append({'cn': w.get('cn'), 'en': w.get('en'),

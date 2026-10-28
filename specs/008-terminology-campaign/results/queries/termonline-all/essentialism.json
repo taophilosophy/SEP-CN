@@ -1,0 +1,327 @@
+{
+ "key": "essentialism",
+ "term": "Essentialism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:23:14+00:00",
+ "status": "ok",
+ "note": "variant=Essentialism; 审定公布名词库=135; 海峡两岸名词对照库=21; 其他来源数据库=9; 预公布名词数据库=20; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "code": "03.141",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "code": "04.063",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "要素主义教育",
+   "en": "essentialism education",
+   "code": "04.185",
+   "standard": "教育学名词",
+   "subject": "教育学_外国教育史_近现代"
+  },
+  {
+   "cn": "传播本质主义",
+   "en": "communication essentialism",
+   "code": "18.011",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题"
+  },
+  {
+   "cn": "主要矿物",
+   "en": "essential mineral",
+   "code": "04.01.090",
+   "standard": "地质学名词",
+   "subject": "地质学_火成岩岩石学_总论"
+  },
+  {
+   "cn": "特发性震颤",
+   "en": "essential tremor",
+   "code": "10.102",
+   "standard": "神经外科学名词",
+   "subject": "医学_神经外科学_神经系统功能性疾病_运动障碍性疾病"
+  },
+  {
+   "cn": "原发性血小板增多症",
+   "en": "essential thrombocythemia",
+   "code": "24.087",
+   "standard": "普通外科学名词",
+   "subject": "医学_普通外科学_脾外科"
+  },
+  {
+   "cn": "原发性高血压",
+   "en": "essential hypertension",
+   "code": "03.064",
+   "standard": "急救医学名词",
+   "subject": "急救医学_日常医学急救_内科学_循环系统"
+  },
+  {
+   "cn": "[香]精油",
+   "en": "essential oil",
+   "code": "08.0702",
+   "standard": "精细化工名词",
+   "subject": "精细化工_其他精细化学品_日用化学品"
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "code": "09.212",
+   "standard": "农学名词",
+   "subject": "土壤肥料_植物营养学"
+  },
+  {
+   "cn": "必需基团",
+   "en": "essential group",
+   "code": "3.0035",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质"
+  },
+  {
+   "cn": "必需激活剂",
+   "en": "essential activator",
+   "code": "3.0072",
+   "standard": "生物化学与分子生物学名词",
+   "subject": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质"
+  },
+  {
+   "cn": "反本质论",
+   "en": "anti-essentialism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "主要音",
+   "en": "essential note",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "必需元素",
+   "en": "essential element",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "基本矿物",
+   "en": "essential mineral",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "主要成分",
+   "en": "essential component",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "非必需元素",
+   "en": "non-essential element",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "必需氨基酸",
+   "en": "essential amino acid",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "原发性血小板增多症",
+   "en": "essential thrombocythemia",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "桐油",
+   "en": "List of essential oils",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "必需脂肪酸",
+   "en": "Essential fatty acid；EFA",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "蓖麻油",
+   "en": "（List of essential oils",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "君子义以为质",
+   "en": "Righteousness Is Essential for a Person of Virtue.",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "历史"
+  },
+  {
+   "cn": "消除贫困是社会主义本质要求",
+   "en": "The eradication of poverty is an essential requirement of socialism.",
+   "code": null,
+   "standard": "中国时政术语汉英对照（2012-2018年）",
+   "subject": "其他"
+  },
+  {
+   "cn": "北京非首都功能疏解",
+   "en": "to relieve Beijing of functions non-essential to its role as China's capital",
+   "code": null,
+   "standard": "重大国家战略常用关键词英文译法",
+   "subject": "其他"
+  },
+  {
+   "cn": "重点防控部位人员的物资保障",
+   "en": "to make sure that essential supplies can be rapidly directed to personnel in key posts",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "理念举措_具体措施"
+  },
+  {
+   "cn": "北京非首都功能集中承载地",
+   "en": "major recipient of functions relieved from Beijing that are non-essential to its role as China's capital",
+   "code": null,
+   "standard": "重大国家战略常用关键词英文译法",
+   "subject": "其他"
+  },
+  {
+   "cn": "本质主义",
+   "en": "essentialism",
+   "code": "03.141",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "本质论",
+   "en": "essentialism",
+   "code": "1.0154",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "性别本质主义",
+   "en": "gender essentialism",
+   "code": "3.2.3.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别研究"
+  },
+  {
+   "cn": "本质联系",
+   "en": "essential connection",
+   "code": "01.0061",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_马克思恩格斯时期"
+  },
+  {
+   "cn": "基本药物",
+   "en": "essential medicine",
+   "code": "13.3.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药品政策与规制"
+  },
+  {
+   "cn": "必需维生素",
+   "en": "essential vitamins",
+   "code": "5.1.4.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_高原军事卫生_高原"
+  },
+  {
+   "cn": "精油",
+   "en": "essential oil",
+   "code": "6.3.3.2",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_食品添加剂_食品用香精香料"
+  },
+  {
+   "cn": "必需消费品",
+   "en": "essential consumer goods",
+   "code": "6.2.1.2.1",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场"
+  },
+  {
+   "cn": "基本药物遴选",
+   "en": "essential medicine selection",
+   "code": "13.3.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药品政策与规制"
+  },
+  {
+   "cn": "基本药物目录",
+   "en": "essential medicines list",
+   "code": "13.3.2.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药品政策与规制"
+  },
+  {
+   "cn": "基本医疗服务",
+   "en": "essential medical service",
+   "code": "11.3.1",
+   "standard": "社会医学名词",
+   "subject": "社区卫生"
+  },
+  {
+   "cn": "国家基本药物政策",
+   "en": "national essential drug policy",
+   "code": "13.3.2.4",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_药物经济学_药品政策与规制"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

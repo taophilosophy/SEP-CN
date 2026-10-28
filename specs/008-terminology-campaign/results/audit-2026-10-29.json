@@ -1,0 +1,8127 @@
+{
+ "date": "2026-10-29",
+ "providers": [
+  "termonline-all",
+  "termonline-standard",
+  "youdao-aux"
+ ],
+ "counts": {
+  "一致": 126,
+  "不一致": 32,
+  "查无": 127,
+  "未查证": 1
+ },
+ "results": [
+  {
+   "table": "术语",
+   "line": 13,
+   "term": "abductive reasoning",
+   "trans": "溯因推理",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "溯因推理",
+     "en": "abductive reasoning",
+     "source": "计算机科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "反绎推理",
+     "en": "abductive reasoning",
+     "source": "海峡两岸信息科学技术名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "溯因推理",
+     "en": "abductive reasoning",
+     "source": "维基百科"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "溯因推理",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "溯因推理",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "反绎推理",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "反绎推理",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 14,
+   "term": "absolute idealism",
+   "trans": "绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "绝对理念",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "绝对唯心主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 15,
+   "term": "academic freedom",
+   "trans": "学术自由",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "学术自由",
+     "en": "academic freedom",
+     "source": "教育学名词"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "学术自由",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "学术自由",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "学术自由学术自由",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 16,
+   "term": "agnosticism",
+   "trans": "不可知论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "不可知论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "不可知论",
+     "en": null,
+     "source": "文学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 17,
+   "term": "altruism",
+   "trans": "利他主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "利他",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "利他主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "利他行为",
+     "en": null,
+     "source": "环境科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "利他行为",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "利他",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "利他行为",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 18,
+   "term": "anarchism",
+   "trans": "无政府主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "无政府主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无政府状态",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无政府主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无政府主义",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无政府主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 19,
+   "term": "ancient philosophy",
+   "trans": "古代哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "古代哲学",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 20,
+   "term": "anomalous monism",
+   "trans": "变异一元论（亦作“异常一元论”）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "异态一元论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 21,
+   "term": "antirealism",
+   "trans": "反实在论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 22,
+   "term": "aphanes",
+   "trans": "不可知觉的东西",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 23,
+   "term": "Aristotelianism",
+   "trans": "亚里士多德主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德哲学",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 24,
+   "term": "atheism",
+   "trans": "无神论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "无神论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无神论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "无神论者",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 25,
+   "term": "bayes rule",
+   "trans": "贝叶斯规则",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "贝叶斯法则",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "贝氏规则",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "贝叶斯法则",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "贝叶斯定则",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "贝氏法则",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 26,
+   "term": "bayesian confirmation theory",
+   "trans": "贝叶斯确证理论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 27,
+   "term": "Bayesianism",
+   "trans": "贝叶斯主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 28,
+   "term": "Bell inequalities",
+   "trans": "贝尔不等式",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "bell不等式",
+     "en": null,
+     "source": "物理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 29,
+   "term": "bell inequality",
+   "trans": "贝尔不等式",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "贝尔不等式",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "贝尔不等式",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "bell不等式",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 30,
+   "term": "Bell theorem",
+   "trans": "贝尔定理",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 31,
+   "term": "Buddhism",
+   "trans": "佛教",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "佛教",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "佛教",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "佛学",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "八大山人",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "禅思",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "释",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "佛家",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "释",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "佛教",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 32,
+   "term": "Capitalism",
+   "trans": "资本主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "资本主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "本钱主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "资本主义",
+     "en": null,
+     "source": "法学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 33,
+   "term": "Chancellor",
+   "trans": "总务长",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "大御玺",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "司铎(亦作司祭，协助主教管理教务)",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "大专院校校长",
+     "en": null,
+     "source": "教育学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 34,
+   "term": "chinese philosophy",
+   "trans": "中国哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "中国哲学",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "中国哲学",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 35,
+   "term": "CHSH inequality",
+   "trans": "CHSH 不等式",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 36,
+   "term": "classical first-order logic",
+   "trans": "经典一阶逻辑",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 37,
+   "term": "classical logic",
+   "trans": "经典逻辑",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "经典逻辑",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "古典逻辑",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经典逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "古典逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "古典逻辑",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 38,
+   "term": "cognitivism",
+   "trans": "认知主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "认知主义",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "认知主义",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 39,
+   "term": "colonialism",
+   "trans": "殖民主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "殖民主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "殖民主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "殖民主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 40,
+   "term": "common cause principle",
+   "trans": "共因原则",
+   "basis": "B 档联网核查（2026-10-27）；008 战役复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 41,
+   "term": "conditional probabilities",
+   "trans": "条件概率",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 42,
+   "term": "confirmation theory",
+   "trans": "确证理论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "确定性理论",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 43,
+   "term": "Confucianism",
+   "trans": "儒家思想",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "孔子思想",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "儒家",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "儒学",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "儒学",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "儒家思想",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "儒家",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 44,
+   "term": "connectionism",
+   "trans": "联结主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "连接机制",
+     "en": "connectionism",
+     "source": "信息技术 词汇 第34部分：人工智能 神经网络"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "联结主义",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "连通主义",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "联结主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "联系论(关于记忆力的理论)",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "关联论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "连接机制",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "连结主义",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "连接机制",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 45,
+   "term": "consequentialism",
+   "trans": "后果主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "后果论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "效果论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 46,
+   "term": "conservatism",
+   "trans": "保守主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "保守主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "稳健性",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "谨慎性",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "稳健原则",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "稳健经营",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "稳健保守",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "稳健主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "保守主义",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "保守性",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "保守性",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "保守主义",
+     "en": null,
+     "source": "政治学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "保守性",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 47,
+   "term": "Constitution",
+   "trans": "构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "构成",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构成",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "制度",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "立宪",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "章程",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "体质",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "体质",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宪法",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "章程",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "结构",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构造",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "结构",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "素质",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宪法",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宪法",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 48,
+   "term": "constructivism",
+   "trans": "构造主义；建构主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "建构主义",
+     "en": null,
+     "source": "管理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构建",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "建构论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构成主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构成主义",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构成主义",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 49,
+   "term": "contextualism",
+   "trans": "语境主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "情境主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "文脉主义",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "语境",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "语境论",
+     "en": null,
+     "source": "语言学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 50,
+   "term": "Darwinism",
+   "trans": "达尔文主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文主义",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文学说",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文皱",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文学说",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "进化论",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文皱",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文主义",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "达尔文主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 51,
+   "term": "deductive system",
+   "trans": "演绎系统",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "推理系统",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "演绎系统",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 52,
+   "term": "denumerably infinite",
+   "trans": "可数无穷",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "可数无限的",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 53,
+   "term": "determinism",
+   "trans": "决定论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "决定论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "决定论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "决定论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "命定论",
+     "en": null,
+     "source": "物理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 54,
+   "term": "dialetheism",
+   "trans": "双面真理论",
+   "basis": "B 档联网核查（2026-10-27）；008 战役复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 55,
+   "term": "diffeomorphism",
+   "trans": "微分同胚",
+   "basis": "A 档（学界通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "微分同胚",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "微分同胚映射",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 56,
+   "term": "dogmatism",
+   "trans": "独断论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "教条主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "独断论",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "教条主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "独断论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 57,
+   "term": "doxographical tradition / doxography",
+   "trans": "学说史传统／学说汇编",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 58,
+   "term": "dualism",
+   "trans": "二元论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "二元论",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "双重特性",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二元论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二元对立",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "双重性",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二重性",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二重性",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二元性",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "两重性",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "双重性",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二元论",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "二元论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 59,
+   "term": "early modern",
+   "trans": "近代早期",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "近代早期",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "近代早期",
+     "en": null,
+     "source": "法学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 60,
+   "term": "egalitarianism",
+   "trans": "平等主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "平均主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "平等主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "平均主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 61,
+   "term": "empirically equivalent",
+   "trans": "经验等价",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 62,
+   "term": "empiricism",
+   "trans": "经验主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "经验主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经验论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经验主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实证",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经验论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经验论",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 63,
+   "term": "Essentialism",
+   "trans": "本质主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "本质主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "本质论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "本质主义，本质先于存在论；(唯心主义的)实在论[与existentialism 相对]",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "本质主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "本质论",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "精粹主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实质论",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 64,
+   "term": "externalism",
+   "trans": "外在主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "外部性",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "外在主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "外在论；现象论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "过分强调形式，形式主义",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "讲究外表",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 65,
+   "term": "fatalism",
+   "trans": "宿命论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命观",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命论",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "宿命论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 66,
+   "term": "feminism",
+   "trans": "女性主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "女权主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女权运动",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女性主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女权主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女权运动",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女权思想",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女权思想",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "男子女征",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "女性化",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 67,
+   "term": "fictionalism",
+   "trans": "虚构主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 68,
+   "term": "formal language",
+   "trans": "形式语言",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "形式语言",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "正式语言",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式语言",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式说明",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式化语言",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式语言",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式语言",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 69,
+   "term": "formalism",
+   "trans": "形式主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "形式主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式化",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式论",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "(物理现象的)数学形式描述",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式体系",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式方法",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式主义",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "规型",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "规型",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "形式主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 70,
+   "term": "foundationalism",
+   "trans": "基础主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "基础论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "基础主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 71,
+   "term": "free speech",
+   "trans": "言论自由",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "言论自由",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "言论自由",
+     "en": null,
+     "source": "法学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 72,
+   "term": "free variables",
+   "trans": "自由变元",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 73,
+   "term": "functionalism",
+   "trans": "功能主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "功能主义",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能派",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能理论",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实用建筑主义，机能主义(使建筑、家具等设计服从于用途、材料)；强调实用的主张和实践",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能理论",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机能心理学",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机能主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能论；功能学派",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "功能学派",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 74,
+   "term": "gauge freedom",
+   "trans": "规范自由度",
+   "basis": "A 档（学界通行译名）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 75,
+   "term": "gauge transformation",
+   "trans": "规范变换",
+   "basis": "A 档（学界通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "规范变换",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "规范变换",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "刻度变换",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "规范转换",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度规变换",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量规变换",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量规变化",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 76,
+   "term": "general covariance",
+   "trans": "广义协变性",
+   "basis": "A 档（学界通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "广义协变性",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "广义协方差",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 77,
+   "term": "german philosophy",
+   "trans": "德国哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 78,
+   "term": "hedonism",
+   "trans": "快乐主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "享乐主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "快乐主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "享乐主义",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 79,
+   "term": "hidden variables",
+   "trans": "隐变量",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "隐变量",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "隐含观测量",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "隐藏变量",
+     "en": null,
+     "source": "自然科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 80,
+   "term": "hole argument",
+   "trans": "空穴论证",
+   "basis": "发布表 ci-hui-biao 既有裁定（广义相对论哲学语境，亦译“空洞论证”）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 81,
+   "term": "hole transformation",
+   "trans": "洞变换",
+   "basis": "B 档（随词条语境，与 hole argument 复合同源）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 82,
+   "term": "humanism",
+   "trans": "人文主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "人文主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人文精神",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人道主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人道主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人本精神",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人本精神",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人本主义",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "人文主义",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 83,
+   "term": "idealism",
+   "trans": "唯心论；观念论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "理想主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理想主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理想性",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯心论，唯心主义；观念论，理念论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯心主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理念",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理想性",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "观念",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯心主义",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯心论",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 84,
+   "term": "individualism",
+   "trans": "个人主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "个性主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "个性化",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "个人主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "个体主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "个体取向",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "个人主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "单独存在;并体共生",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 85,
+   "term": "induction hypothesis",
+   "trans": "归纳假设",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "归纳假设",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "归纳法假设",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 86,
+   "term": "Inference to the Best Explanation",
+   "trans": "最佳解释推理",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 87,
+   "term": "institutional neutrality",
+   "trans": "机构中立",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 88,
+   "term": "instrumentalism",
+   "trans": "工具主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "工具主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "工具理论",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "工具进路",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "工具主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "工具论",
+     "en": null,
+     "source": "自然科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 89,
+   "term": "intellectualism",
+   "trans": "理智主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "主知主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理智主义；惟理智论者",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主知主义",
+     "en": null,
+     "source": "管理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理智主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主智论",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主知论",
+     "en": null,
+     "source": "教育学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 90,
+   "term": "internalism",
+   "trans": "内在主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "内在主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 91,
+   "term": "intuitionism",
+   "trans": "直觉主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉说",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉皱",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 92,
+   "term": "intuitionistic logic",
+   "trans": "直觉主义逻辑",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直观逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "直觉主义逻辑",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 93,
+   "term": "isomorphism",
+   "trans": "同构",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "同构",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同构",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同晶型现象",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同形现象",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同构",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "类质同象",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "异质同晶",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同型性",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同性",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同晶型现象",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "心物同态",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同态性，同形性；同态现象",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同形",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "类质同晶",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同形性",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同态现象;同晶现象",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "类质同像",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "类质同象",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "同形",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "异种同形",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 94,
+   "term": "isonomia",
+   "trans": "平等（政治隐喻中指各种力量的均等）",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 95,
+   "term": "ius ubique docendi",
+   "trans": "普遍教学权",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 96,
+   "term": "Judaism",
+   "trans": "犹太教",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "犹太教",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "犹太教",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "“犹太情结”",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "犹太教",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 97,
+   "term": "Kantianism",
+   "trans": "康德主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "康德哲学",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "康德哲学",
+     "en": null,
+     "source": "自然科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 98,
+   "term": "kenon",
+   "trans": "空腔",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 99,
+   "term": "Lehrfreiheit",
+   "trans": "教学自由",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 100,
+   "term": "Leibniz Equivalence",
+   "trans": "莱布尼茨等价",
+   "basis": "B 档（学界通行译名）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 101,
+   "term": "Leibnizian-Wolffian",
+   "trans": "莱布尼茨—沃尔夫学派的",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 102,
+   "term": "Lernfreiheit",
+   "trans": "学习自由",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 103,
+   "term": "liberalism",
+   "trans": "自由主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 104,
+   "term": "Libertas philosophandi",
+   "trans": "哲学思考自由",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 105,
+   "term": "Lutheranism",
+   "trans": "路德宗",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "路德教教义（等于Lutherism）",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 106,
+   "term": "Magna Charta Universitatum",
+   "trans": "《大学大宪章》",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 107,
+   "term": "manifold",
+   "trans": "流形",
+   "basis": "A 档（数学界通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "流形",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "进气歧管",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "歧管式",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "多支管",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "联箱",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "歧管",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "岐管",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "多支管",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "多功能的",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "多部分的",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 108,
+   "term": "manifold of events",
+   "trans": "事件流形",
+   "basis": "B 档（manifold 通行译名 + 词条语境）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 109,
+   "term": "Marxism",
+   "trans": "马克思主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "马克思",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "马克思",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "马列理论",
+     "en": null,
+     "source": "管理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "马克思主义",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 110,
+   "term": "materialism",
+   "trans": "物质主义；唯物论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "唯物主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯物史观",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "物质主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯物论",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯物论",
+     "en": null,
+     "source": "教育学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 111,
+   "term": "matter field",
+   "trans": "物质场",
+   "basis": "A 档（物理学通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "物质场",
+     "en": null,
+     "source": "天文学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 112,
+   "term": "mechanism",
+   "trans": "机械论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "机制",
+     "en": "mechanism",
+     "source": "质量管理  文化和机制支撑服务提升指南 "
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机械装置",
+     "en": null,
+     "source": "交通运输工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机制",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机构",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机理",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机理",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机理",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机制",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机构",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机构学",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机制",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机理",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机制",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "机构学",
+     "en": null,
+     "source": "物理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 113,
+   "term": "metric",
+   "trans": "度规",
+   "basis": "A 档（物理学通行译名，“度规”优于“度量”）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "测度",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度量",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "尺度",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度量",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度量",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度规",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "度规",
+     "en": null,
+     "source": "天文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "米制的",
+     "en": null,
+     "source": "交通运输工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "公制的",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "米制的",
+     "en": null,
+     "source": "地球科学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 114,
+   "term": "metric field",
+   "trans": "度规场",
+   "basis": "A 档（物理学通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "度规场",
+     "en": null,
+     "source": "化学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 115,
+   "term": "monarchia",
+   "trans": "专权（与 isonomia 相对的独大状态）",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 116,
+   "term": "monotheism",
+   "trans": "一神论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "一神教",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 117,
+   "term": "moral philosophy",
+   "trans": "道德哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "道德",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "道德哲学",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "道德哲学",
+     "en": null,
+     "source": "经济学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 118,
+   "term": "natural language",
+   "trans": "自然语言",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言",
+     "en": "natural language",
+     "source": "信息无障碍网站设计无障碍评级测试方法"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言",
+     "en": "natural language",
+     "source": "信息与文献 术语"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言",
+     "en": "natural language",
+     "source": "信息技术  词汇  第1部分:基本术语"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言",
+     "en": "natural language",
+     "source": "笔译、口译及相关技术 词汇 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言",
+     "en": "natural language",
+     "source": "翻译服务  机器翻译结果的译后编辑  要求"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言理解",
+     "en": "natural-language understanding; natural-language comprehension",
+     "source": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "受控自然语言",
+     "en": "controlled natural language",
+     "source": "笔译、口译及相关技术 词汇 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "受控自然语言",
+     "en": "controlled natural language",
+     "source": "翻译服务  机器翻译结果的译后编辑  要求"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言处理",
+     "en": "natural language processing",
+     "source": "信息技术 人工智能 术语 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言生成",
+     "en": "natural language generation",
+     "source": "信息技术 人工智能 术语 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "自然语言理解",
+     "en": "natural language understanding",
+     "source": "信息技术 人工智能 术语 "
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然语言",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然言语",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然语言",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然语言",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然语言",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 119,
+   "term": "natural law",
+   "trans": "自然法",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "自然规律",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然法",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "天",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然法则",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然律",
+     "en": null,
+     "source": "经济学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 120,
+   "term": "natural number",
+   "trans": "自然数",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "自然数，非负整数",
+     "en": "natural number, nonnegative integer",
+     "source": "数据处理词汇  02部分  算术和逻辑运算"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然数",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "天然数",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然数",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 121,
+   "term": "natural numbers",
+   "trans": "自然数",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "自然数",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 122,
+   "term": "naturalism",
+   "trans": "自然主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "自然主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然观",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "天然主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自然论",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 123,
+   "term": "Neoplatonism",
+   "trans": "新柏拉图主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "新柏拉图主义",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 124,
+   "term": "nihilism",
+   "trans": "虚无主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "虚无主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "虚无思想",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "虚无主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "空无",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "虚无妄想",
+     "en": null,
+     "source": "医药科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 125,
+   "term": "Nominalism",
+   "trans": "唯名论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "货币名目论",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯名论",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯名论",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 126,
+   "term": "Nominalism in Metaphysics",
+   "trans": "形而上学中的唯名论",
+   "basis": "词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28）",
+   "status": "未查证",
+   "hits": [],
+   "providers": []
+  },
+  {
+   "table": "术语",
+   "line": 127,
+   "term": "observable",
+   "trans": "可观测量",
+   "basis": "A 档（物理学通行译名）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "不可观测的",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观测量",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观察者",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观察的",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观察量",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观察的",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观测量",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可探测到的",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "可观测的",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 128,
+   "term": "observation sentences",
+   "trans": "观察句",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 129,
+   "term": "occasionalism",
+   "trans": "偶因论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "偶因论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 130,
+   "term": "pacifism",
+   "trans": "和平主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "和平主义",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "和平主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "战争观",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯爱",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "和平主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 131,
+   "term": "panentheism",
+   "trans": "万有在神论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 132,
+   "term": "panpsychism",
+   "trans": "泛心论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "泛心论",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "泛灵论",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 133,
+   "term": "pantheism",
+   "trans": "泛神论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "泛神论",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "泛神论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "泛神论",
+     "en": null,
+     "source": "土木建筑工程"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 134,
+   "term": "paradigm",
+   "trans": "范式",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "范式",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "范式",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "典范",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "范例",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "(名词、动词等的)词形变化表",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "范型",
+     "en": null,
+     "source": "土木建筑工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "枫韵",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "范例",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "范例",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 135,
+   "term": "paternalism",
+   "trans": "家长主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "父爱主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "强家长主义",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "家长作风",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 136,
+   "term": "patriotism",
+   "trans": "爱国主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国思想",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国精神",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国思想",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国精神",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "爱国主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 137,
+   "term": "perfectionism",
+   "trans": "至善论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "完美主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "至善论",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "完美主义",
+     "en": null,
+     "source": "医药科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 138,
+   "term": "physicalism",
+   "trans": "物理主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "物理主义",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "物理主义",
+     "en": null,
+     "source": "物理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 139,
+   "term": "physiologos / physiologoi",
+   "trans": "论自然者（前苏格拉底自然哲学家）",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 140,
+   "term": "Pietism",
+   "trans": "虔敬派",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "虔信主义；虔敬；虔信派",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "虔敬主义",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "虔敬主义",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 141,
+   "term": "point-coincidence argument",
+   "trans": "点重合论证",
+   "basis": "B 档（Stachel 术语，学界通行译名）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 142,
+   "term": "political philosophy",
+   "trans": "政治哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "政治哲学",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "政治哲学",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "政治哲学",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 143,
+   "term": "poroi",
+   "trans": "通道",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 144,
+   "term": "positivism",
+   "trans": "实证主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "实证主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实证分析",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实证主义",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实证论",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实证主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 145,
+   "term": "practical philosophy",
+   "trans": "实践哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "实践哲学",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实践哲学",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实学",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实学",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实际哲学",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 146,
+   "term": "pragmatism",
+   "trans": "实用主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "实用主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实验主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实用主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "务实主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "经世致用",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实验主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "实学",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "语用",
+     "en": null,
+     "source": "语言学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 147,
+   "term": "predicate letter",
+   "trans": "谓词字母",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "述词字母",
+     "en": null,
+     "source": "计算机科学技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 148,
+   "term": "presentism",
+   "trans": "现在主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 149,
+   "term": "prima facie",
+   "trans": "初步的",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "初步的；表面的；有希望立案的",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "根据表面所见",
+     "en": null,
+     "source": "交通运输工程"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 150,
+   "term": "problem of universals / universals",
+   "trans": "共相问题／共相（与“殊相”相对；勿译“普遍性问题”）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 151,
+   "term": "projective sets",
+   "trans": "射影集合",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 152,
+   "term": "Pythagoreanism",
+   "trans": "毕达哥拉斯主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 153,
+   "term": "quantum mechanics",
+   "trans": "量子力学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "量子力学",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子力学",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子机理",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子化学",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子力学",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子力学",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 154,
+   "term": "quantum theory",
+   "trans": "量子理论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "量子复杂性理论",
+     "en": "quantum complexity theory",
+     "source": "量子计算 术语和定义"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子理论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子力学",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子学说",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子理论",
+     "en": null,
+     "source": "化学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子论",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子学说",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子论",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子说",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子论",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "量子理论",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 155,
+   "term": "rationalism",
+   "trans": "唯理论；理性主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "理性主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯理论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理性主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯理论",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯理主义",
+     "en": null,
+     "source": "宗教学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理性论",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "理性论",
+     "en": null,
+     "source": "教育学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 156,
+   "term": "real numbers",
+   "trans": "实数",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "实型数据",
+     "en": null,
+     "source": "地球科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 157,
+   "term": "reductionism",
+   "trans": "还原论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "还原论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "还原论",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "化约主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "简化论",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "还原论",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "还原论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 158,
+   "term": "Relativism",
+   "trans": "相对主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "相对主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "相对主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "相对论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "相对性",
+     "en": null,
+     "source": "能源科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "相对论",
+     "en": null,
+     "source": "生物学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 159,
+   "term": "scepticism",
+   "trans": "怀疑论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "怀疑主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "怀疑论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "怀疑主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "怀疑宗教(教义)",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 160,
+   "term": "scientific methodology",
+   "trans": "科学方法论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "科学方法论",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "科学方法论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 161,
+   "term": "scientific realism",
+   "trans": "科学实在论",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "科学实在论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "科学实在论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "科学的现实主义",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 162,
+   "term": "scottish philosophy",
+   "trans": "苏格兰哲学",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 163,
+   "term": "sense perception",
+   "trans": "感官知觉",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 164,
+   "term": "sentimentalism",
+   "trans": "情感主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "感情主义；沉于情感",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "感伤主义",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 165,
+   "term": "spacelike separation",
+   "trans": "类空间隔",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 166,
+   "term": "spacetime substantivalism",
+   "trans": "时空实体论",
+   "basis": "B 档（substance 发布表译“实体”；substantivalism 学界通行“实体论”）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 167,
+   "term": "Spinozism",
+   "trans": "斯宾诺莎主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 168,
+   "term": "structural realism",
+   "trans": "结构实在论（“结构现实主义”是国际关系理论译名，勿混）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "结构现实主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "结构现实主义",
+     "en": null,
+     "source": "体育"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 169,
+   "term": "structuralism",
+   "trans": "结构主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "结构主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "结构主义",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "建构主义",
+     "en": null,
+     "source": "管理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构造(或结构)心理学",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "构造主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "布局主义",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "结构主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 170,
+   "term": "subjective probability",
+   "trans": "主观概率",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "主观概率",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观概率",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观概率",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观频率",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观机率",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "诸概率",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 171,
+   "term": "subjectivism",
+   "trans": "主观主义",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "主观主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "意思主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主体性",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主观感情论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "主体性",
+     "en": null,
+     "source": "文学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 172,
+   "term": "sufficient reason",
+   "trans": "充足理由",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "充足理由",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "充分理由",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "充足理由",
+     "en": null,
+     "source": "法学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 173,
+   "term": "suniêmi",
+   "trans": "汇通（译作“理解/汇通”，指集合感官信息的能力）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 174,
+   "term": "Superdeterminism",
+   "trans": "超决定论",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 175,
+   "term": "tekmairesthai",
+   "trans": "凭征象推断",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 176,
+   "term": "Token / type",
+   "trans": "殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞）",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "代替GB/T 15843.3—2016 信息技术安全技术实体鉴别 第3部分：采用数字签名技术的机制 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "通证",
+     "en": "token",
+     "source": "区块链和分布式记账技术   术语"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "权标",
+     "en": "token",
+     "source": "信息技术安全技术密钥管理 第3部分：采用非对称技术的机制 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "信息技术 用于互操作和数据交换的生物特征识别轮廓 第1部分：生物特征识别系统概述和生物特征识别轮廓"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "信息技术 信息设备互连 智能家用电子系统终端统一接入服务平台总体技术要求"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "智能家用电器系统互操作第1部分:术语"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第16部分：宽带无线多媒体系统的空中接口"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "数字城市智能卡应用技术要求"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "凭证",
+     "en": "token",
+     "source": "土方机械  防盗系统  分类和性能"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "权标",
+     "en": "token",
+     "source": "无线网络访问控制技术规范"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "电子代币",
+     "en": "token",
+     "source": "广播电视术语"
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "权标",
+     "en": "token",
+     "source": " 信息技术 开放系统互连 会话服务定义 "
+    },
+    {
+     "provider": "termonline-standard",
+     "cn": "令牌",
+     "en": "token",
+     "source": "信息技术  词汇  第25部分:局域网"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 177,
+   "term": "total evidence",
+   "trans": "总证据",
+   "basis": "B 档联网核查（2026-10-27）；008 战役复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 178,
+   "term": "unconditional probabilities",
+   "trans": "无条件概率",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 179,
+   "term": "universal suspension",
+   "trans": "普遍悬置",
+   "basis": "B 档联网核查（2026-10-27）；008 战役复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 180,
+   "term": "voluntarism",
+   "trans": "意志主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "唯意志论思潮",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "意志主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯意志主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯意志论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "意志论",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯意志论",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 181,
+   "term": "warrant",
+   "trans": "保证（普兰丁格认识论语境；勿译“担保”）",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "认股证",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "付款凭单",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "认股权证",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "权证",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "搜查证",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "授权令",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "搜查令",
+     "en": null,
+     "source": "法学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 182,
+   "term": "Wolffianism",
+   "trans": "沃尔夫主义",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 190,
+   "term": "kalām",
+   "trans": "凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”）",
+   "basis": "知网系查证在案；学界通行（《中国伊斯兰百科全书》等）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 191,
+   "term": "falsafa",
+   "trans": "法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 192,
+   "term": "ishrāq / ishrāqī",
+   "trans": "照明（照明学派）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 193,
+   "term": "tawḥīd",
+   "trans": "认主独一（讨黑德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 194,
+   "term": "ijmāʿ",
+   "trans": "公议（伊智玛尔）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 195,
+   "term": "qiyās",
+   "trans": "类比推理（基亚斯）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 196,
+   "term": "ijtihād",
+   "trans": "创制（伊智提哈德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 197,
+   "term": "taqlīd",
+   "trans": "因袭（塔格利德）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 198,
+   "term": "fitra",
+   "trans": "天性（菲特拉）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 199,
+   "term": "sharīʿa",
+   "trans": "伊斯兰教法（沙里亚）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 200,
+   "term": "sunna",
+   "trans": "逊奈（圣行）",
+   "basis": "学界通行",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "逊奈(即“圣行”，据称是根据穆罕默德的言行记载而成)",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 201,
+   "term": "Muʿtazila / Muʿtazilism",
+   "trans": "穆尔太齐赖派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 202,
+   "term": "Ashʿariyya / Ashʿarism",
+   "trans": "艾什尔里派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 203,
+   "term": "Maṭurīdiyya",
+   "trans": "马图里迪派",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 204,
+   "term": "Ikhwān al-Ṣafāʾ",
+   "trans": "精诚兄弟会（亦译“纯洁兄弟会”；组织名）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 205,
+   "term": "Tahāfut al-falāsifa",
+   "trans": "《哲学家之矛盾》（安萨里著；亦译《哲学家的矛盾》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 206,
+   "term": "Tahāfut al-tahāfut",
+   "trans": "《矛盾之矛盾》（伊本·鲁世德著；亦译《矛盾的矛盾》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 207,
+   "term": "Kitāb al-ḥurūf",
+   "trans": "《字母之书》（法拉比著；亦译《论字母》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 208,
+   "term": "Ḥayy ibn Yaqẓān",
+   "trans": "《哈义·本·叶格赞》（伊本·图斐利著；亦译《觉民之子》）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 209,
+   "term": "anti-realism",
+   "trans": "反实在论（antirealism 异形）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "反实在论",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 210,
+   "term": "mysticism",
+   "trans": "神秘主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "神秘主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "神秘主义",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 211,
+   "term": "compatibilism",
+   "trans": "相容论（亦作“相容主义”）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 212,
+   "term": "reliabilism",
+   "trans": "可靠论（亦作“可靠主义”）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 213,
+   "term": "existentialism",
+   "trans": "存在主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "存在主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "存在主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "存在主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 214,
+   "term": "representationalism",
+   "trans": "表征主义（亦作“表象主义”）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "具像派艺术；具像派艺术的理论(或风格等)",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "[亦作 representative realism]再现论(主张头脑只有通过思想才能理解客观事物的一种理论)",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 215,
+   "term": "psychologism",
+   "trans": "心理主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "心理主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "心理主义",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "心理学主义",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "唯心理观",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 216,
+   "term": "indeterminism",
+   "trans": "非决定论",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "非决定论",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "非决定论；非命定论；意志自由论",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自由意志论",
+     "en": null,
+     "source": "经济学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 217,
+   "term": "nationalism",
+   "trans": "民族主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "民族主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "国家主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "国家本位",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族主义",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族资本家",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族性",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族性",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族化",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族主义",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "民族主义",
+     "en": null,
+     "source": "政治学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 218,
+   "term": "pessimism",
+   "trans": "悲观主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "悲观主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "悲剧心理",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "悲观",
+     "en": null,
+     "source": "医药科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "悲观主义",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 219,
+   "term": "conventionalism",
+   "trans": "约定论（亦作“约定主义”）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "因袭主义",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "约定论",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "约定主义",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "因循主义",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 220,
+   "term": "logicism",
+   "trans": "逻辑主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "逻辑主义",
+     "en": null,
+     "source": "自然科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "逻辑主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "逻辑皱",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "逻辑主义",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 221,
+   "term": "eliminativism",
+   "trans": "取消主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 222,
+   "term": "non-cognitivism",
+   "trans": "非认知主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 223,
+   "term": "imperialism",
+   "trans": "帝国主义",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "帝国主义",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "英帝国联盟",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "帝国主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "市国主义",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "帝国主义",
+     "en": null,
+     "source": "经济学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 224,
+   "term": "natural selection",
+   "trans": "自然选择",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 225,
+   "term": "general relativity",
+   "trans": "广义相对论",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "广义相对论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "狭义相对论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "一般相对论",
+     "en": null,
+     "source": "物理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "广义相对论",
+     "en": null,
+     "source": "天文学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 226,
+   "term": "Principia Mathematica",
+   "trans": "《数学原理》（罗素、怀特海著）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "数学原理",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 227,
+   "term": "Posterior Analytics",
+   "trans": "《后分析篇》（亚里士多德）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 228,
+   "term": "Prior Analytics",
+   "trans": "《前分析篇》（亚里士多德）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 229,
+   "term": "Nicomachean Ethics",
+   "trans": "《尼各马可伦理学》（亚里士多德；廖申白译本）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 230,
+   "term": "possible worlds / possible world",
+   "trans": "可能世界",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 231,
+   "term": "mental states",
+   "trans": "心理状态（亦作“精神状态”，按语境）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "心理状态",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "心态",
+     "en": null,
+     "source": "文学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 232,
+   "term": "human nature",
+   "trans": "人性",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "人性",
+     "en": null,
+     "source": "心理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 233,
+   "term": "human rights",
+   "trans": "人权",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "商业和人权指导原则",
+     "en": "guiding principles on business and human rights",
+     "source": "船舶和海上技术船上合同制（形式合约） 私人武装保安人员（PCASP）的私人海上 安保公司（PMSC）指南第1部分：总则 "
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 234,
+   "term": "modal logic",
+   "trans": "模态逻辑",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "模态逻辑",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "情态逻辑",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "模态逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "模态逻辑",
+     "en": null,
+     "source": "电子、通信与自动控制技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "模态逻辑",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 235,
+   "term": "moral status",
+   "trans": "道德地位",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 236,
+   "term": "actual world",
+   "trans": "现实世界（亦作“实际世界”）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 237,
+   "term": "common sense",
+   "trans": "常识",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "共识",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "共通感",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "常识",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "共通感",
+     "en": null,
+     "source": "艺术学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 238,
+   "term": "moral judgments",
+   "trans": "道德判断",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 252,
+   "term": "Analects / Lun yu / Lunyu",
+   "trans": "《论语》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 253,
+   "term": "Mencius / Mengzi",
+   "trans": "《孟子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 254,
+   "term": "Mozi",
+   "trans": "《墨子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 255,
+   "term": "worldline",
+   "trans": "世界线",
+   "basis": "A 档（物理学通行译名）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 256,
+   "term": "Zhuangzi",
+   "trans": "《庄子》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《庄子》",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《庄子》",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 257,
+   "term": "Laozi / Lao Tzu",
+   "trans": "《老子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 258,
+   "term": "Daodejing / Tao Te Ching",
+   "trans": "《道德经》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 259,
+   "term": "Xunzi",
+   "trans": "《荀子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 260,
+   "term": "Han Feizi",
+   "trans": "《韩非子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 261,
+   "term": "Yijing / I Ching",
+   "trans": "《周易》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 262,
+   "term": "Huainanzi",
+   "trans": "《淮南子》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《淮南子》",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《淮南子》",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "李零",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 263,
+   "term": "Shiji",
+   "trans": "《史记》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《史记》",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《史记》",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 264,
+   "term": "Liezi",
+   "trans": "《列子》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《列子》",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《列子》",
+     "en": null,
+     "source": "语言学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 265,
+   "term": "Guanzi",
+   "trans": "《管子》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《管子》",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《管子》",
+     "en": null,
+     "source": "经济学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 266,
+   "term": "Chunqiu",
+   "trans": "《春秋》",
+   "basis": "学界通行学名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "《春秋》",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "《春秋》",
+     "en": null,
+     "source": "文学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 267,
+   "term": "Gongsun Long (zi)",
+   "trans": "《公孙龙子》",
+   "basis": "学界通行学名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 268,
+   "term": "Yan Buke",
+   "trans": "阎步克",
+   "basis": "上游汉字 + 学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 269,
+   "term": "Yang Bojun",
+   "trans": "杨伯峻",
+   "basis": "上游汉字",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "术语",
+   "line": 270,
+   "term": "Lunyu yizhu",
+   "trans": "《论语译注》",
+   "basis": "上游汉字",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 13,
+   "term": "Alcmaeon",
+   "trans": "阿尔克迈翁",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 14,
+   "term": "Anaximander",
+   "trans": "阿那克西曼德",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 15,
+   "term": "Anaximenes",
+   "trans": "阿那克西美尼",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "阿那克西米尼",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 16,
+   "term": "Aristotle",
+   "trans": "亚里士多德",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚理士多德",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里斯多德",
+     "en": null,
+     "source": "文学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "生物学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "亚里士多德",
+     "en": null,
+     "source": "物理学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 17,
+   "term": "Democedes",
+   "trans": "德摩塞迪斯",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 18,
+   "term": "Empedocles",
+   "trans": "恩培多克勒",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "恩培多克勒",
+     "en": null,
+     "source": "医药科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 19,
+   "term": "Galen",
+   "trans": "盖伦",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "含锡石",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "黄铜矿",
+     "en": null,
+     "source": "地球科学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "石英脉",
+     "en": null,
+     "source": "地球科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 20,
+   "term": "Heraclitus",
+   "trans": "赫拉克利特",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "赫拉克利特",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "赫拉克利特",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 21,
+   "term": "Herodotus",
+   "trans": "希罗多德",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "希罗多德",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "希罗多德",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "希罗多德",
+     "en": null,
+     "source": "地球科学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 22,
+   "term": "Parmenides",
+   "trans": "巴门尼德",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "巴门尼德",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "巴门尼德篇",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 23,
+   "term": "Philolaus",
+   "trans": "菲洛劳斯",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 24,
+   "term": "Plato",
+   "trans": "柏拉图",
+   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-standard",
+     "cn": "柏拉图度",
+     "en": "plato",
+     "source": "啤酒"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "帕雷图",
+     "en": null,
+     "source": "机械工程"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "PLATO电脑辅助教学系统",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "自动教学用程控逻辑",
+     "en": null,
+     "source": "计算机科学技术"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "教育学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "体育"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "柏拉图",
+     "en": null,
+     "source": "语言学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 25,
+   "term": "Pythagoras",
+   "trans": "毕达哥拉斯",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "毕达哥拉斯",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "毕达哥拉",
+     "en": null,
+     "source": "艺术学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "毕达哥拉斯",
+     "en": null,
+     "source": "数学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 26,
+   "term": "Theophrastus",
+   "trans": "特奥弗拉斯托斯",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "泰奥弗拉斯多",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 27,
+   "term": "Xenophanes",
+   "trans": "色诺芬尼",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "克塞诺芬尼",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 28,
+   "term": "Diogenes Laertius",
+   "trans": "第欧根尼·拉尔修",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "第欧根尼·拉尔修",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 29,
+   "term": "Christian Thomasius",
+   "trans": "克里斯蒂安·托马修斯",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 30,
+   "term": "Christian Wolff",
+   "trans": "克里斯蒂安·沃尔夫",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "沃尔夫",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 31,
+   "term": "Quine",
+   "trans": "蒯因",
+   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "奎因",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "蒯因",
+     "en": null,
+     "source": "数学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "蒯因",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 39,
+   "term": "Ibn Sīnā / Avicenna",
+   "trans": "伊本·西那（阿维森纳）",
+   "basis": "知网系查证在案；学界通行（《中国大百科全书》《世界人名翻译大辞典》体例）",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 40,
+   "term": "Ibn Rushd / Averroes",
+   "trans": "伊本·鲁世德（阿威罗伊）",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 41,
+   "term": "Ibn Bājja / Avempace",
+   "trans": "伊本·巴哲",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 42,
+   "term": "Ibn Ṭufayl / Abubacer",
+   "trans": "伊本·图斐利",
+   "basis": "知网系查证在案；学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 43,
+   "term": "al-Fārābī / Al-Fârâbī / Abū Naṣr al-Fārābī",
+   "trans": "法拉比（亦作“阿尔·法拉比”“阿里·法拉比”）",
+   "basis": "学界通行（《中国大百科全书》主译“法拉比”）；已废弃旧主译“阿里·法拉比”（中亚文献用形），发布表同步",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 44,
+   "term": "al-Kindī",
+   "trans": "肯迪（亦作“金迪”）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 45,
+   "term": "al-Ghazālī",
+   "trans": "安萨里（全名艾布·哈米德·穆罕默德·安萨里）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 46,
+   "term": "Abū Bakr al-Rāzī / al-Rāzī / Rhazes",
+   "trans": "拉齐（医师哲学家；勿与法赫尔丁·拉齐相混）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 47,
+   "term": "Fakhr al-Dīn al-Rāzī",
+   "trans": "法赫尔丁·拉齐",
+   "basis": "学界通行；与医师哲学家拉齐（Abū Bakr al-Rāzī）区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 48,
+   "term": "Ibn Khaldūn",
+   "trans": "伊本·赫勒敦",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 49,
+   "term": "Ibn Taymiyya",
+   "trans": "伊本·泰米叶",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 50,
+   "term": "Ibn Gabirol / Solomon ibn Gabirol / Avicebron",
+   "trans": "伊本·加比罗尔（拉丁通行名阿维斯布朗）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 51,
+   "term": "Ibn Dāwūd / Ibn Daud",
+   "trans": "伊本·达乌德",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 52,
+   "term": "Ibn al-Haytham / Alhazen",
+   "trans": "伊本·海赛姆（阿尔哈增）",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 53,
+   "term": "Naṣīr al-Dīn al-Ṭūsī",
+   "trans": "纳西尔丁·图西",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 54,
+   "term": "Ibn Hazm",
+   "trans": "伊本·哈兹姆",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 55,
+   "term": "Suhrawardī / al-Suhrawardī",
+   "trans": "苏赫拉瓦尔迪",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 56,
+   "term": "Mullā Ṣadrā",
+   "trans": "毛拉·萨德拉",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 57,
+   "term": "Yaḥyā ibn ʿAdī",
+   "trans": "叶海亚·伊本·阿迪",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 58,
+   "term": "Ḥunayn ibn Isḥāq",
+   "trans": "侯奈因·本·伊斯哈格（父，翻译家）",
+   "basis": "学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 59,
+   "term": "Isḥāq ibn Ḥunayn",
+   "trans": "伊沙克·本·侯奈因（子，翻译家）",
+   "basis": "学界通行；与父侯奈因·本·伊斯哈格（Ḥunayn ibn Isḥāq）语序区分",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 60,
+   "term": "Abū Bishr Mattā",
+   "trans": "阿布·比什尔·马塔",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-all",
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 61,
+   "term": "Ibn Kammūna",
+   "trans": "伊本·凯姆那",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 62,
+   "term": "Ibn ʿArabī",
+   "trans": "伊本·阿拉比",
+   "basis": "学界通行",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 63,
+   "term": "Thomas Aquinas",
+   "trans": "托马斯·阿奎那",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "法学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "经济学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "语言学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "政治学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "托马斯·阿奎那",
+     "en": null,
+     "source": "宗教学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 64,
+   "term": "David Hume",
+   "trans": "大卫·休谟",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "休谟",
+     "en": null,
+     "source": "哲学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "休谟",
+     "en": null,
+     "source": "历史学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 65,
+   "term": "William James",
+   "trans": "威廉·詹姆斯",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "youdao-aux",
+     "cn": "威廉·詹姆斯",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "詹姆斯",
+     "en": null,
+     "source": "心理学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "威廉·詹姆斯",
+     "en": null,
+     "source": "历史学"
+    },
+    {
+     "provider": "youdao-aux",
+     "cn": "詹姆斯",
+     "en": null,
+     "source": "哲学"
+    }
+   ],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 66,
+   "term": "ʿAyn al-Quḍāt",
+   "trans": "艾因·库扎特（哈马丹的艾因·库扎特）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  },
+  {
+   "table": "人名",
+   "line": 67,
+   "term": "ʿAbd al-Jabbār",
+   "trans": "阿卜杜·贾巴尔（穆尔太齐赖派）",
+   "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
+   "status": "查无",
+   "hits": [],
+   "providers": [
+    "termonline-standard",
+    "youdao-aux"
+   ]
+  }
+ ]
+}

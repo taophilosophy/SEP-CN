@@ -39,13 +39,18 @@ REGISTRY2 = os.path.join(ROOT, 'ren-ming-biao.md')
 
 
 def _relevant(hit_en, term):
-    """命中 EN 侧与查询词相关性（GB 库 match=2 模糊匹配噪声过滤）。
+    """命中 EN 侧与查询词相关性（审定库 match=2 模糊匹配噪声过滤）。
 
     规则：查询词元（剥尾 s）须全部出现在命中 EN 侧；单词查询要求精确相等。
+    变音符先 NFD 折叠（ADR-0013）：否则 Rāzī 会被 [a-z0-9] 碎裂成 r/z。
     """
+    import unicodedata
+
     def toks(s):
+        s = unicodedata.normalize('NFD', s or '')
+        s = ''.join(ch for ch in s if not unicodedata.combining(ch))
         out = set()
-        for w in re.findall(r'[a-z0-9]+', (s or '').casefold()):
+        for w in re.findall(r'[a-z0-9]+', s.casefold()):
             out.add(w[:-1] if len(w) > 3 and w.endswith('s') else w)
         return out
 
@@ -55,6 +60,14 @@ def _relevant(hit_en, term):
     if len(b) == 1:
         return a == b
     return b <= a
+
+
+def _relevant_any(hit_en, term):
+    """归并行拆「/」变体逐个判相关性；无「/」退化为 _relevant。"""
+    if '/' not in term:
+        return _relevant(hit_en, term)
+    return any(_relevant(hit_en, v.strip())
+               for v in term.split('/') if v.strip())
 
 
 def audit_rows(rows, label, queries_root):
@@ -81,10 +94,11 @@ def audit_rows(rows, label, queries_root):
             row_out['providers'].append(prov)
             cred_stats.append(rec.get('status'))
             if rec.get('status') == 'ok':
-                raw_hits = rec.get('hits', [])[:20]
+                raw_hits = rec.get('hits', [])[:60]
                 for h in raw_hits:
-                    # en 缺省（有道等直接查词通道）视为相关；有 en 的按词元过滤
-                    if h.get('en') is not None and not _relevant(h.get('en'), term):
+                    # en 缺省（有道等直接查词通道）视为相关；有 en 的按词元过滤；
+                    # 归并行（「主形 / 他形」）逐变体判，任一变体相关即保留
+                    if h.get('en') is not None and not _relevant_any(h.get('en'), term):
                         continue
                     row_out['hits'].append(
                         {'provider': prov, 'cn': h.get('cn'), 'en': h.get('en'),

@@ -1,0 +1,348 @@
+{
+ "key": "deductive system",
+ "term": "deductive system",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T17:10:38+00:00",
+ "status": "ok",
+ "note": "variant=deductive system; 审定公布名词库=8177; 海峡两岸名词对照库=2364; 其他来源数据库=536; 预公布名词数据库=377; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "扣除",
+   "en": "deduction",
+   "code": "03.0602",
+   "standard": "核医学名词",
+   "subject": "核医学_核医学设备与操作_图像分析技术"
+  },
+  {
+   "cn": "免赔额",
+   "en": "deductible",
+   "code": "07.0433",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_金融工程_技术"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": "13.0192",
+   "standard": "航海科技名词",
+   "subject": "航海科学技术_航行管理与法规"
+  },
+  {
+   "cn": "希尔伯特式演绎系统",
+   "en": "Hilbert-style deduction system",
+   "code": "08.0053",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "code": "06.150",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "论证诊断［法］",
+   "en": "deductive diagnosis",
+   "code": "13.329",
+   "standard": "兽医学名词",
+   "subject": "兽医学_兽医临床诊断学"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive reasoning",
+   "code": "08.0102",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_自动推理"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": "02.644",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "演绎树",
+   "en": "deduction tree",
+   "code": "08.0051",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_人工智能逻辑"
+  },
+  {
+   "cn": "推力减额",
+   "en": "thrust deduction",
+   "code": "03.113",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶性能及其试验"
+  },
+  {
+   "cn": "假说-演绎法",
+   "en": "hypothetical-deductive method",
+   "code": "06.151",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学技术方法论_分析与推理"
+  },
+  {
+   "cn": "演绎建模法",
+   "en": "deductive modeling method",
+   "code": "04.575",
+   "standard": "自动化名词",
+   "subject": "自动化科学技术_控制技术_仿真"
+  },
+  {
+   "cn": "演绎",
+   "en": "deduction",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "绝对免赔额",
+   "en": "deductible",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "基于规则的演绎系统",
+   "en": "rule-based deduction system",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "假设─演绎",
+   "en": "hypothetico-deductive",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "演绎模拟",
+   "en": "deductive simulation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据",
+   "en": "deductive data",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数据库",
+   "en": "deductive database",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "本原演绎",
+   "en": "primitive deduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "锁演绎",
+   "en": "lock deduction",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射击名词"
+  },
+  {
+   "cn": "追加扣分",
+   "en": "additional deduction\",\"supplementary deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "Deductive Reasoning",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "总扣分",
+   "en": "general deduction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "扣分判罚",
+   "en": "deduction penalty\",\"deduction point\",\"gamjeom\",\"sanction",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduce\",\"penalize\",\"deduction\",\"penalty",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "扣分",
+   "en": "deduction of points\",\"penalty of points",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "起付线",
+   "en": "deductible",
+   "code": "11.4.3",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_健康保险_健康保险费用分担机制"
+  },
+  {
+   "cn": "演绎法",
+   "en": "deductive method",
+   "code": "1.2.1.22",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学理论与方法_社会学研究方法_方法论"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "code": "3.1.1.34",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_家庭社会学_家庭"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "code": "1.0295",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "code": "1.1.9",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全"
+  },
+  {
+   "cn": "剂量测定系统",
+   "en": "dosimetry system",
+   "code": "5.4.3.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测"
+  },
+  {
+   "cn": "安全系统",
+   "en": "safety system",
+   "code": "6.1.6.6",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_分析评估"
+  },
+  {
+   "cn": "标准体系",
+   "en": "standard system",
+   "code": "9.2.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射卫生法规标准_放射卫生标准"
+  },
+  {
+   "cn": "社会系统",
+   "en": "social system",
+   "code": "2.1.3.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会_社会存在"
+  },
+  {
+   "cn": "文化系统",
+   "en": "cultural system",
+   "code": "2.2.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "code": "2.5.6.3",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念群体和组织"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "code": "2.5.10.4",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_组织制度"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
