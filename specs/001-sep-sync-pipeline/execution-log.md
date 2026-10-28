@@ -150,3 +150,14 @@ python tools/rebuild_dir.py check     # 断链/镜像覆盖核验
 * **ADR-0011 实施细则追加**（五条）：条目现制位置、著录格式标准（西文骨架+汉名/中文书名括注还原、通行简体、链接不动）、幻觉防线三来源（上游汉字/登记册通行名/条目英译括号）、古典学编号中文形态（(Analects 2.3)→《论语》2.3）、机检配套。
 * **rules/07**（:17 现制形态与著录示例、:18 典籍编号中文形态、:22 结构完整性措辞、检查节 biblio_audit 指引）与 **rules/02**:43 对齐；**yi-zhe-shuo-ming.md** 新增「文献译名」区（典籍通行名 15 条种子 + confucius 上游汉字实证 3 条）并废止旧政策「参考文献条目一律不译」；**session-handoff.md** translate 行纳入 s1 文献还原作业与 chinese-* 簇工作量提示。
 * 红灯归属说明：test_term_harvest 一项失败为并行会话 specs/008 未提交在途工作（term_harvest.py 未跟踪），与本次改动无关；本次新增/既有测试 139 项全绿，check_all 其余八门禁全绿。
+
+## 上游增量 intake：71 条补遗接入（2026-10-28 会话，用户指令"进行补遗"）
+
+* **前置状态**：catalog-verdict.json add=71（SUMMARY 缺行的上游词条，en/ 包与 yuanwen 镜像均已入库，仅缺 SUMMARY 行/桩/zh_doc）；apply-add 首次真实落地使用。
+* **执行**（driver：script/intake_71.py，71/71 成功 0 失败，凭证 intake-log.jsonl + intake-summary.json）：
+  1. **译名裁定**：71 条中文标题逐条裁定（执行日志载明"不机器臆造中文标题"——本会话按 rules/02 体例与既有译名惯例逐条判断：古典人物通行汉译+原文，现代学者汉译（苏珊·朗格、弗里德里希·恩格斯等通行译名），生僻人名（阿夫扎勒丁·胡纳吉、艾因·古达特、室利笈多、宝称等）按学界音译惯例裁定并待 008 战役知网复核；主题词条按通行译法（堕胎的伦理学、分支时间、可证性逻辑、瑜伽行派等）；
+  2. **apply-add 闭环**：SUMMARY 按上游文档顺序锚定插入 + 建桩（H1=中文 英文 (作者)）+ baseline.zh_doc + yuanwen 重转换，71/71；
+  3. **任务建立**：task_ops create --kind retranslate，71 个（apply-add 后创建使 zh_doc 自动解析），全部 pending。
+* **验收**：check_summary HARD ERRORS 0；check_mulu_s HARD ERRORS 0（71 条新条目为 mu-lu-s 分类缺口——预期：归类为编辑判断，后续人工分入 mu-lu-s）；PROGRESS 正式词条 1807→1878、已建任务 75；上游增量缺口 74→0（71 接入 + 3 条此前已由并行会话处置）。
+* **登记册说明**：术语表/人名表行按 rules/03"先登记后使用"在翻译启动时登记（依据列按 ADR-0012 三档，008 战役负责复核），intake 阶段仅落标题裁定。
+* **提交**：1691cd9e（147 文件：71 桩 + 71 任务 + SUMMARY + baseline + PROGRESS + intake 凭证；baseline 携带并行会话转换波次的登记更新）。未 push。
