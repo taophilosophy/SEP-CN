@@ -134,7 +134,7 @@ def find_biblio_span(headings):
     return None
 
 
-def check_doc(rel, ne, warns):
+def check_doc(rel, ne, warns, is_supp=False):
     """文档级结构检查；返回 (pubinfo_lineno, pubinfo_line)。"""
     headings = []
     for lineno, line in ne:
@@ -143,7 +143,8 @@ def check_doc(rel, ne, warns):
             headings.append((lineno, len(m.group(1)), m.group(2)))
     biblio = find_biblio_span(headings)
     if biblio is None:
-        warns.append('[biblio-missing] %s 非存根词条无“参考文献”节' % rel)
+        if not is_supp:
+            warns.append('[biblio-missing] %s 非存根词条无“参考文献”节' % rel)
     else:
         start, stop = biblio
         in_sec = [line for ln, line in ne
@@ -187,7 +188,7 @@ def check_doc(rel, ne, warns):
     has_scholar = (any(t.casefold() in {'学术工具', 'scholarly tools'} or '如何引用' in t
                        for _, _, t in headings)
                    or any('如何引用本词条' in line for _, line in ne))
-    if not has_scholar:
+    if not has_scholar and not is_supp:
         warns.append('[scholar-tools-missing] %s 非存根词条无“学术工具/如何引用本词条”' % rel)
 
     pubinfo = next(((ln, l) for ln, l in ne[:PUBINFO_WINDOW] if RE_PUBINFO.search(l)), None)
@@ -337,9 +338,15 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
         stats['stub'] += 1
         return
     stats['entry'] += 1
+    # 补充材料豁免（specs/007 审阅实证）：`<slug>.<x>.md` 形态的补充文件按模板
+    # 不设独立参考文献/学术工具节（主词条承载），亦无独立 baseline 记录
+    stem = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
+    is_supp = '.' in stem and not rel.startswith(('en/', 'yuanwen/'))
     rec = resolve_record(rel, by_zh_doc, records, warns)
-    pubinfo = check_doc(rel, ne, warns)
-    if rec:
+    pubinfo = check_doc(rel, ne, warns, is_supp=is_supp)
+    if is_supp:
+        pass  # 参考文献节/学术工具节/版本钉均由主词条承载
+    elif rec:
         check_pubinfo(rel, pubinfo, rec, hard, warns)
     else:
         warns.append('[baseline-lookup-miss] %s 未能在 baseline 定位，pubinfo 不核' % rel)

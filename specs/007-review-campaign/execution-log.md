@@ -168,3 +168,7 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 ### 结论
 
 既有全部译文（4 件、约 6.5 万字）与原始 HTML 的逐段比对**完成，无未处置的语义缺陷**；3 处笔误/体例问题当场修复，3 处人名汉化建议移交 alcmaeon 责任会话。逐对凭证：results/para-align.jsonl（464 行）。
+
+### 收尾门禁
+
+* 逐段比对修复后的复验：check_style 0、check_academic 0（新增**补充材料豁免**：`<slug>.<x>.md` 按模板不设独立参考文献/学术工具节、无独立版本钉，由主词条承载——摩擦 #11）、check_math 0、check_terms 0；**check_all 7 项全绿**（并行会话的在途项已由其收敛）。
