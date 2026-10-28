@@ -57,3 +57,19 @@
 ## 收工（2026-10-28 会话 1）
 
 九门禁复跑见提交前记录；本战役产物全部分批提交，未 push。
+
+## 全量复核（2026-10-28 会话 2，用户指令"全量复核"，intake 后全库重验）
+
+* **目录层**：fetch_catalog 重抓（快照 20261028T054741Z）——上游零漂移（1872+654 全空 diff）；check_summary / check_mulu_s HARD ERRORS 0；SUMMARY 正式词条 1878 = 上游全量（intake 后缺口 0）。
+* **A–Z 逐词条三步扫描（第 2 轮）**：1878/1878 done（8 路 × 每路 5 秒，2419 秒），结果与首轮**完全一致**（含 232 条 math warn 的集合逐一相同）——1877 零漂移 / qm-action-distance 在线 DNF / idiolects 单词条模式假警报，0 瞬时错误。两轮一致 = 收敛到不动点。凭证 results/review-log.jsonl（第 2 轮重置重建，首轮证据在 git 史 f4e6d340）。
+* **en_integrity --all（第 2 轮凭证 results/en-integrity-run2.json）**：audited 1878、clean 1878、硬发现 0、错误 0；MathJax 456 / 内联 864 不变。
+* **重转换零写入复核（第 2 轮）**：**drift=0、image_drift=0、failures=0**——首轮的 541 条补充材料漂移与 whitehead.md 毫末差异已随并行会话的转换器提交+全量重转换收敛，镜像与转换器字节一致。
+* **markdown 全要素（第 2 轮 results/mdqa-run2.json）**：4442 文件（+82：71 个 intake 桩 + 并行会话新文件）。硬问题 683，与首轮的差集全部定性：
+  * qian-yan/ci-hui-biao.md CRLF **已收敛**（并行会话登记册归一化落地，首轮遗留归零）；
+  * specs/001-sep-sync-pipeline/spec.md CRLF 189 处——本会话 Edit 引入，**已修复**（归一化 LF）；
+  * s/spacetime-holearg.md（crlf + 4 断链）——并行会话在途编辑中，登记待其收敛；
+  * yi-zhe-shuo-ming.md 又被并行会话写回 CRLF——其在途，登记；
+  * tools/tests/fixtures/check_terms/registry5.md 表格缺列——check_terms 的**故意测试夹具**（测试缺列容忍），非缺陷；
+  * 457 脚注悬空 / 46 未换行收尾 / 5 pm-notation 表格——与首轮相同，归属不变（镜像会话）。
+* **九门禁**：SUMMARY 结构 / 分类目录 / 单体文件 / 垃圾入库 / 术语一致 / 管线单测全绿；哲学学术规范 1 失败——全部为并行会话在途（ren-ming-biao.md 登记册被误扫为词条 ×3、alcmaeon ADR-0011 旧措辞，check_academic.py 正被其修改中）。
+* **task-pin-missing ×4 裁定（本战役 intake 任务）**：aesthetics-race / animal-thought / engels / epistemology-ai 的 version_pin 缺 archive_edition——经 fetch_entry 重查 + archinfo.cgi 实测（http-log 凭证 + 在线响应比对）：4 条均为**"尚未被存档"新词条**（"is not yet archived ... Winter 2026 edition"），archinfo 解析器只处理已存档格式，**archive_edition 为空是正确数据**（版本钉依 pubinfo + sha256 成立，存档版名待首次归档）；警告属固有类别，check_academic 可考虑容忍 never-archived 条目（移交并行会话）。

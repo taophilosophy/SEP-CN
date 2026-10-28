@@ -2109,7 +2109,7 @@
     },
     {
       "slug": "aesthetics-race",
-      "fetched_at": "2026-10-26T20:34:04Z",
+      "fetched_at": "2026-10-28T06:04:57Z",
       "source_url": "https://plato.stanford.edu/entries/aesthetics-race/",
       "title": "Aesthetics and Race",
       "authors": [
@@ -2135,18 +2135,7 @@
           "kind": "main"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/a/aesthetics-race.md",
-        "sha256": "4ae758f198ea1f42087a7c305e5f0f63996b55b36a2bb4884862ea74042cec8f",
-        "source_sha256": "f1e768bbdc754352b465163d7283a91fd7ada326422a9c83286433505d1e5cba",
-        "converted_at": "2026-10-28T05:01:06Z",
-        "cite_markers": 67,
-        "cite_defs": 145,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
+      "missing": []
     },
     {
       "slug": "affirmative-action",
@@ -5957,7 +5946,7 @@
     },
     {
       "slug": "animal-thought",
-      "fetched_at": "2026-10-26T20:34:22Z",
+      "fetched_at": "2026-10-28T06:05:07Z",
       "source_url": "https://plato.stanford.edu/entries/animal-thought/",
       "title": "Animal Thought",
       "authors": [
@@ -5989,18 +5978,7 @@
           "kind": "notes"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/a/animal-thought.md",
-        "sha256": "aeeabb3d5a94a4c1aabe0846e35a93213788f02064473866182134082912db18",
-        "source_sha256": "fae43aae08dd8f8e43e0a74d36231ab7f2ceee954550346aaaa7cd0db2ab8eb7",
-        "converted_at": "2026-10-28T05:02:55Z",
-        "cite_markers": 283,
-        "cite_defs": 187,
-        "supplements": [],
-        "images": [],
-        "notes": 13
-      }
+      "missing": []
     },
     {
       "slug": "animalism",
@@ -41142,7 +41120,7 @@
     },
     {
       "slug": "engels",
-      "fetched_at": "2026-10-26T20:37:39Z",
+      "fetched_at": "2026-10-28T06:05:13Z",
       "source_url": "https://plato.stanford.edu/entries/engels/",
       "title": "Friedrich Engels",
       "authors": [
@@ -41168,18 +41146,7 @@
           "kind": "main"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/e/engels.md",
-        "sha256": "6bddb0493bd2b68a6d547fff778b2f0bf13f11b89f40eb8502d64e664cf4af55",
-        "source_sha256": "1d945daf337390821f106ff2d131d404e943a82527f3c05fb0414b68d9dd1454",
-        "converted_at": "2026-10-28T05:06:56Z",
-        "cite_markers": 57,
-        "cite_defs": 85,
-        "supplements": [],
-        "images": [],
-        "notes": 0
-      }
+      "missing": []
     },
     {
       "slug": "enhancement",
@@ -42256,7 +42223,7 @@
     },
     {
       "slug": "epistemology-ai",
-      "fetched_at": "2026-10-26T20:37:48Z",
+      "fetched_at": "2026-10-28T06:05:17Z",
       "source_url": "https://plato.stanford.edu/entries/epistemology-ai/",
       "title": "Epistemology of Artificial Intelligence",
       "authors": [
@@ -42288,20 +42255,7 @@
           "kind": "supplement"
         }
       ],
-      "missing": [],
-      "yuanwen": {
-        "md": "yuanwen/e/epistemology-ai.md",
-        "sha256": "9f80c81e909ceb34cc13af925947db5054ac76fc17345993cbe43917269bb5c2",
-        "source_sha256": "e4a323d7bd65006646534f7b6304a2cf7df6e433a1194cac436fcd86ffdd2067",
-        "converted_at": "2026-10-28T05:07:13Z",
-        "cite_markers": 270,
-        "cite_defs": 256,
-        "supplements": [
-          "epistemology-ai.supplement.md"
-        ],
-        "images": [],
-        "notes": 0
-      }
+      "missing": []
     },
     {
       "slug": "epistemology-bayesian",
@@ -151747,5 +151701,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-28T05:19:32Z"
+  "updated_at": "2026-10-28T06:05:26Z"
 }
