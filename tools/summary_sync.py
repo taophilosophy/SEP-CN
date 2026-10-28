@@ -121,12 +121,17 @@ def report():
                         'proposed_file': '%s/%s.md' % (it['slug'][0], slug_file(it['slug'])),
                         'disposition': 'ADD（需人工定中文标题）'})
     mapped_paths = set(mapped.values())
-    # 反向标题索引：SUMMARY 英文标题 → 上游 slug（正向匹配漏掉的集群子词条在此回收）
+    # 反向标题索引：SUMMARY 英文标题 → 上游 slug（正向匹配漏掉的集群子词条在此回收）。
+    # 同题歧义计数：上游多个词条同题（如五个 "*-political" 子词条同题
+    # "political philosophy"）时，标题反查无法定案——此类行必须转人工裁定，
+    # 不得静默放行（specs/007 审阅实证：political-philosophy 遗留桩因此漏检）。
     title_index = {}
+    title_count = {}
     for it in upstream:
         t = re.sub(r'[^a-z0-9]+', '', it['title'].lower())
         if t:
             title_index.setdefault(t, it['slug'])
+            title_count[t] = title_count.get(t, 0) + 1
     remove = []
     for idx, line in enumerate(lines):
         pm = re.search(r'\]\(([^)]+)\)', line)
@@ -142,8 +147,13 @@ def report():
         base = path.rsplit('/', 1)[-1].split('.')[0]
         en = english_of(re.search(r'\[([^\]]+)\]', line).group(1) if re.search(r'\[([^\]]+)\]', line) else base)
         rev = title_index.get(re.sub(r'[^a-z0-9]+', '', en))
-        if rev or any(t in base for t in ()):
-            continue  # 反向命中：映射方向伪影，非真删除
+        rev_ambiguous = title_count.get(re.sub(r'[^a-z0-9]+', '', en), 0) > 1
+        if rev and not rev_ambiguous:
+            continue  # 反向唯一命中：映射方向伪影，非真删除
+        if rev_ambiguous:
+            remove.append({'line': idx + 1, 'path': path,
+                           'disposition': 'REMOVE/RENAME 候选（上游同题歧义，'
+                                          '标题反查无法定案，需逐行人工裁定）'})
         remove.append({'line': idx + 1, 'path': path,
                        'disposition': 'REMOVE/RENAME 候选（上游无对应；'
                                       '若字母目录中有同义 ADD 则为改名对）'})

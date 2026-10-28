@@ -162,7 +162,6 @@
 * [埃尔福特的托马斯 Thomas of Erfurt (Jack Zupko)](e/erfurt.md)
 * [罗伯特·阿林顿 Alyngton, Robert (Alessandro Conti)](a/alyngton.md)
 * [约翰·威克里夫 Wyclif, John (Alessandro Conti)](w/wyclif.md)
-  * [约翰·威克里夫的政治哲学 political Philosophy (Stephen Lahey)](p/political-philosophy.md)
   * [帕多瓦的马西利乌斯 Marsilius of Padua (Mulieri, Alessandro)](m/marsilius-padua.md)
   * [中世纪政治哲学 medieval (Cary Nederman and Alessandro Mulieri)](m/medieval-political.md)
 * [威尼斯的保罗 Paul of Venice (Alessandro Conti)](p/paul-venice.md)
