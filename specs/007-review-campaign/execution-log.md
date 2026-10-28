@@ -73,3 +73,38 @@
   * 457 脚注悬空 / 46 未换行收尾 / 5 pm-notation 表格——与首轮相同，归属不变（镜像会话）。
 * **九门禁**：SUMMARY 结构 / 分类目录 / 单体文件 / 垃圾入库 / 术语一致 / 管线单测全绿；哲学学术规范 1 失败——全部为并行会话在途（ren-ming-biao.md 登记册被误扫为词条 ×3、alcmaeon ADR-0011 旧措辞，check_academic.py 正被其修改中）。
 * **task-pin-missing ×4 裁定（本战役 intake 任务）**：aesthetics-race / animal-thought / engels / epistemology-ai 的 version_pin 缺 archive_edition——经 fetch_entry 重查 + archinfo.cgi 实测（http-log 凭证 + 在线响应比对）：4 条均为**"尚未被存档"新词条**（"is not yet archived ... Winter 2026 edition"），archinfo 解析器只处理已存档格式，**archive_edition 为空是正确数据**（版本钉依 pubinfo + sha256 成立，存档版名待首次归档）；警告属固有类别，check_academic 可考虑容忍 never-archived 条目（移交并行会话）。
+
+## 待办解决（2026-10-28 会话 3，用户指令"先解决1、3、4、5"+"禁止机械判断，从语义分析"）
+
+### 检查器三类机械误判根治（footnote-dangling 457→117 真值）
+
+语义对盘核验发现 340 条悬空为**检查器自身的公式状态机缺陷**，逐一实证修复：
+
+1. **货币表卡死**（formal-epistemology 548 行 `$+$$19`）：表格行先于公式状态机判定；
+2. **TeX 转义美元 `\$$`**（impossible-worlds 181 行 `$\$$`）：扫描前剥离转义美元；
+3. **相邻内联边界 `$a$$b$`**（settheory-early 130 行等）：转换器产出的显示公式全部单行闭合（全库 0 独占行、0 跨行块实证），**跨行状态机整个废除**，改为逐行剥离成对 `$…$` 生成式 + 残差记 info。
+
+修复后 117 条悬空与全量对盘真缺数**完全一致**（0 误报）。
+
+### 117 条真缺的语义定性（移交镜像会话）
+
+两类转换器脚注接线缺陷，上游注释语义本体都在：
+
+* **补充材料自产注键无定义**（axiom-choice note-sup1..7、binarium note-* 等）：上游补充页的注释本体存在（或引用存在），转换器生成 note-supN 键名的引用但未附定义；
+* **数字锚点 notes 未接线**（logical-constants 26 条等）：上游 `notes.html#1` 数字锚点形态未被注段定义提取覆盖。
+
+归属 tools/yuanwen.py 脚注管线（镜像会话活跃开发线：646 件归零、D14 附载皆此类），移交时语义与证据齐备。
+
+### yuanwen/SUMMARY.md 断链 167→0（本会话修复）
+
+write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/guan-yu）在 yuanwen/ 下无对应文件。修复：拷贝时对「yuanwen/ 下不存在而仓库根存在」的链接目标改写 `../` 前缀（168 处改写），复验断链 0、硬问题 0。
+
+### mu-lu-s 分类缺口 ×71 → 0（item 1 完成）
+
+71 条语义归类插入（bin/mulu_classify_71.py，锚=现有行文本片段唯一命中+继承缩进，chained 链式锚修正 11 处字母笔误后 71/71 落位）。语义锚定举例：堕胎的伦理学→生命伦理簇、阿夫扎勒丁·胡纳吉→伊本·西那逻辑学后、倾向逻辑→偏好、可证性逻辑→证明论发展后、规范 gauge 理论→量子场论后、戴震→清代哲学后、宝称/室利笈多/瑜伽行派/锡克哲学→印度佛教簇、智慧（当代分析哲学）→智慧词条后。check_mulu_s：正式条目覆盖缺口归零（余 4 项=登记册自身/版权说明/占位母词条/并行在途 political-philosophy），HARD ERRORS 0。
+
+### item 3（并行会话在途项）状态
+
+* CNKI/审定名词库通道：**已通**（termonline-standard 实测 abortion→5 hits 凭证入库）；
+* never-archived version_pin 豁免：并行会话已落地（5b40df70），本战役 4 条告警清零 ✓；
+* RELEASE-NOTES.md 误扫、yi-zhe-shuo-ming.md CRLF 回潮、political-philosophy intake：并行会话在途（其文件在写窗口内），未触碰。

@@ -43,11 +43,15 @@ INLINE_CODE_RE = re.compile(r"`[^`]*`")
 INLINE_MATH_RE = re.compile(r"\$\$?[^$]*\$\$?")
 FOOT_USE_RE = re.compile(r"\[\^([^\]\s]+)\](?!:)")
 FOOT_DEF_RE = re.compile(r"^\s{0,3}\[\^([^\]]+)\]:")
+# 成对 $…$ 生成式（最短匹配，$ 不可跨越；先剥离 TeX 转义美元后再用），
+# 同时消化 $$…$$ 显示式与相邻内联边界 $a$$b$ 的 "$$" 子串
+INLINE_PAIR_RE = re.compile(r"\$[^\$]*\$")
 LINK_RE = re.compile(r"(?<!\!)\[([^\]]*)\]\(\s*<([^>]+)>\s*|(?<!\!)\[([^\]]*)\]\(\s*([^)\s]+)(?:\s+\"[^\"]*\")?\s*\)")
 IMG_RE = re.compile(r"!\[([^\]]*)\]\(\s*([^)\s]+)(?:\s+\"[^\"]*\")?\s*\)")
 SEP_RE = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?\s*$")
 HEAD_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*#*\s*$")
-DISPLAY_OPEN_RE = re.compile(r"(\$\$|\\\[)")
+DISPLAY_OPEN_RE = re.compile(r"(\$\$)")  # 转换器产出显示公式一律 $$…$$（\[…\] 已规范化）；
+# \[ 不作开启符：散文中的字面 \[（如 impossible-worlds 181 行）曾把状态卡死到文件尾
 
 
 def classify(path):
@@ -137,22 +141,24 @@ def check_file(rel):
             continue
         if in_fence:
             continue
-        # 行间公式状态（$$…$$ / \[…\] 可跨行）
-        probe = line
-        while True:
-            m = DISPLAY_OPEN_RE.search(probe)
-            if not m:
-                break
-            closer = "\\]" if m.group(1) == "\\[" else "$$"
-            j = probe.find(closer, m.end())
-            if j == -1:
-                in_display = not in_display
-                probe = probe[m.end():]
-                break
-            probe = probe[j + len(closer):]
-        if in_display:
-            flush_table(i)
+        # 表格行先于公式状态机：表格单元格里的 `$` 常是货币符号（如 `$+$$19`），
+        # 若先走行间公式状态机会被 `$$` 误开并卡死到文件尾（2026-10-28 实证：
+        # formal-epistemology 548 行货币表吞掉其后全部脚注定义判定）；
+        # $$ 是块级公式，合法地不会出现在表格行内
+        if line.lstrip().startswith("|"):
+            table_block.append((i, line))
             continue
+        flush_table(i)
+        # 公式定界符处理（逐行，不跨行）：转换器产出的显示公式一律单行闭合
+        # $$…$$（实证：全库镜像 0 个独占行 $$、0 个跨行 $$ 块），内联公式
+        # $…$ 相邻边界与 TeX 转义美元 \$$ 都会产生 "$$" 子串——跨行状态机
+        # 曾被这三类误开并卡死到文件尾（2026-10-28 实证三案）。
+        # 做法：剥离转义美元 → 剥离成对 $…$ 生成式（含 $$…$$）→ 残余 $$ 记 info。
+        probe = line.replace("\\$", "\x02")
+        probe = INLINE_PAIR_RE.sub("", probe)
+        if "$$" in probe:
+            info_counts["display-marker-residual"] = \
+                info_counts.get("display-marker-residual", 0) + 1
 
         hm = HEAD_RE.match(line)
         if hm:

@@ -808,9 +808,32 @@ def convert_entry(slug):
 
 
 def write_summary():
-    """镜像根 SUMMARY.md → yuanwen/SUMMARY.md：ADR-0007 后两侧相对路径逐字符一致，直接拷贝。"""
+    """镜像根 SUMMARY.md → yuanwen/SUMMARY.md。
+
+    条目链接（<letter>/<slug>.md）两侧相对路径逐字符一致，原样拷贝；
+    zh 侧导航行（README.md、mu-lu-s.md、qian-yan/*、guan-yu/*）在 yuanwen/
+    下无镜像对应文件，改写为 ../ 前缀使其自 yuanwen/ 可解析
+    （specs/007-review-campaign 审阅实证 167 处断链，2026-10-28）。
+    """
     src = read_text(repo_path('SUMMARY.md'))
-    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), src)
+    out = []
+    for line in src.split('\n'):
+        if '](../' in line:
+            out.append(line)
+            continue
+
+        def _rw(m):
+            target, frag = m.group(1), m.group(2) or ''
+            if re.match(r'^(https?:|mailto:)', target):
+                return m.group(0)
+            yuanwen_side = repo_path('yuanwen', target)
+            root_side = repo_path(target)
+            if not os.path.exists(yuanwen_side) and os.path.exists(root_side):
+                return '](../%s%s)' % (target, frag)
+            return m.group(0)
+
+        out.append(re.sub(r'\]\(([^)#\s]+)(#[^)]*)?\)', _rw, line))
+    write_text_verified(repo_path('yuanwen', 'SUMMARY.md'), '\n'.join(out))
     return 0
 
 
