@@ -1,0 +1,40 @@
+{
+ "key": "suniemi",
+ "term": "suniêmi",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:28:02+00:00",
+ "status": "ok",
+ "note": "variant=suniêmi; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "鱼糜",
+   "en": "surimi",
+   "code": "08.337",
+   "standard": "水产名词",
+   "subject": "水产_水产品保鲜及加工"
+  },
+  {
+   "cn": "鱼糜",
+   "en": "surimi,fish paste",
+   "code": "03.1100",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品原料与加工_水产品"
+  },
+  {
+   "cn": "鱼糜制品",
+   "en": "surimi product",
+   "code": "08.336",
+   "standard": "水产名词",
+   "subject": "水产_水产品保鲜及加工"
+  },
+  {
+   "cn": "鱼糜制品",
+   "en": "surimi-based product",
+   "code": "03.1095",
+   "standard": "食品科学技术名词",
+   "subject": "食品科学技术_食品工程_食品原料与加工_水产品"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

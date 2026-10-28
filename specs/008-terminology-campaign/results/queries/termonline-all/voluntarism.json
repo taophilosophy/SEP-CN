@@ -1,0 +1,40 @@
+{
+ "key": "voluntarism",
+ "term": "voluntarism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:41:20+00:00",
+ "status": "ok",
+ "note": "variant=voluntarism; 审定公布名词库=1; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "code": "04.080",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "唯意志论,唯意志主义",
+   "en": "voluntarism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "唯意志论",
+   "en": "voluntarism",
+   "code": "01.0206",
+   "standard": "马克思主义",
+   "subject": "马克思主义_哲学_列宁斯大林时期"
+  },
+  {
+   "cn": "意志主义伦理学",
+   "en": "ethics of voluntarism",
+   "code": "1.139",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

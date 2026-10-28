@@ -1,0 +1,82 @@
+{
+ "key": "worldline",
+ "term": "worldline",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:41:20+00:00",
+ "status": "ok",
+ "note": "variant=worldline; 审定公布名词库=3; 海峡两岸名词对照库=3; 其他来源数据库=4; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "世界线",
+   "en": "world line",
+   "code": "06.0226",
+   "standard": "物理学名词",
+   "subject": "物理学_相对论、量子理论_相对论"
+  },
+  {
+   "cn": "字线",
+   "en": "word line",
+   "code": "14.256",
+   "standard": "电子学名词",
+   "subject": "电子学_半导体器件与集成电路"
+  },
+  {
+   "cn": "联合全球情报通信系统",
+   "en": "Joint WorldWide Intelligence Communications System",
+   "code": "02.287",
+   "standard": "地理信息系统名词",
+   "subject": "地理信息系统_技术与应用"
+  },
+  {
+   "cn": "世界线",
+   "en": "world line",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "字线",
+   "en": "word line",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "世界通行信用证",
+   "en": "worldwide letter of credit",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "世界线",
+   "en": "World line",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "全球蛋白质数据库",
+   "en": "Worldwide Protein Data Bank (wwPDB)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "全球互通微波访问",
+   "en": "Worldwide Interoperability for Microwave Access (WiMax)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "环球同业银行金融电讯协会",
+   "en": "Society for Worldwide Interbank Financial Telecommunications (SWIFT)",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,432 @@
+{
+ "key": "token / type",
+ "term": "Token / type",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:34:41+00:00",
+ "status": "ok",
+ "note": "variant=Token; 审定公布名词库=35; 海峡两岸名词对照库=30; 其他来源数据库=7; 预公布名词数据库=1; variant=type; 审定公布名词库=3330; 海峡两岸名词对照库=652; 其他来源数据库=43; 预公布名词数据库=89; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "词元",
+   "en": "token",
+   "code": null,
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能"
+  },
+  {
+   "cn": "标码",
+   "en": "token",
+   "code": "02.0670",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_理论计算机科学_佩特里网"
+  },
+  {
+   "cn": "记号",
+   "en": "token",
+   "code": "05.0141",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_系统软件_语言与编译"
+  },
+  {
+   "cn": "例",
+   "en": "token",
+   "code": "01.163",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "词例化程序",
+   "en": "tokenizer",
+   "code": "08.0508",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_人工智能_计算语言学"
+  },
+  {
+   "cn": "代币疗法",
+   "en": "token economy",
+   "code": "20.02",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为干预与治疗_行为治疗"
+  },
+  {
+   "cn": "令牌传递",
+   "en": "token passing",
+   "code": "09.0202",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  },
+  {
+   "cn": "令牌恢复",
+   "en": "token restore",
+   "code": "10.0226",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_信息安全_信息系统安全防护技术"
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "code": "09.0203",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_网络与数据通信_有线网络"
+  },
+  {
+   "cn": "代币强化物",
+   "en": "token reinforcer",
+   "code": "02.155",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "code": "15.036",
+   "standard": "心理学名词",
+   "subject": "心理学_咨询心理学"
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "code": "07.234",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫行为与信息化学"
+  },
+  {
+   "cn": "令牌",
+   "en": "token",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "权标，令牌",
+   "en": "token",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "色块测验",
+   "en": "token test",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "象征性出口",
+   "en": "token export",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "象征性进口",
+   "en": "token import",
+   "code": null,
+   "standard": "海峡两岸经贸名词",
+   "subject": "经贸"
+  },
+  {
+   "cn": "标记变量",
+   "en": "token variable",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "标记类型",
+   "en": "token type",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "令牌总线",
+   "en": "token bus",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "权标持有站，令牌持有站",
+   "en": "token holder",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "权标传递，令牌传递",
+   "en": "token passing",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "代币化",
+   "en": "tokenization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "令牌环",
+   "en": "Token-Ring",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "支付标记化",
+   "en": "payment tokenization",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "支付标记化技术",
+   "en": "tokenized payment technology",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "动态口令卡",
+   "en": "one-time password (OTP) token",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "《GA/T 1545-2019 信息安全技术 智能密码钥匙安全技术要求》",
+   "en": "GA/T 1545-2019 Information security technology — Security technical requirement for smart tokens",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "植物杀菌素",
+   "en": "Boris P. Tokin",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "以革命两手对付反革命两手",
+   "en": "using revolutionary doublefaced tactics to deal with the doublefaced tactics taken by counterrevolutionaries",
+   "code": "03.0444",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_中国化的马克思主义时期"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "code": "2.0118",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "code": "06.0299",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "code": "02.103",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物系统学"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "code": "01.162",
+   "standard": "语言学名词",
+   "subject": "语言学_理论语言学_核心术语"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "code": "02.0097",
+   "standard": "数学名词",
+   "subject": "数学_数理逻辑·数学基础_模型论"
+  },
+  {
+   "cn": "分型",
+   "en": "typing",
+   "code": "09.454",
+   "standard": "微生物学名词",
+   "subject": "微生物学_微生物学技术"
+  },
+  {
+   "cn": "Ⅰ型超新星",
+   "en": "type Ⅰ supernova; SN type Ⅰ",
+   "code": "08.437",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "Ⅱ型超新星",
+   "en": "type Ⅱ supernova; SN type Ⅱ",
+   "code": "08.438",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "尾鞭型",
+   "en": "whiplash type,acronematic type",
+   "code": "04.0124",
+   "standard": "植物学名词",
+   "subject": "植物学_藻类学"
+  },
+  {
+   "cn": "茸鞭型",
+   "en": "tinsel type,pleuronematic type",
+   "code": "04.0121",
+   "standard": "植物学名词",
+   "subject": "植物学_藻类学"
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type,orthognathous type",
+   "code": "03.040",
+   "standard": "昆虫学名词",
+   "subject": "昆虫学_昆虫外部形态"
+  },
+  {
+   "cn": "封闭式",
+   "en": "enclosed type,closed type",
+   "code": "01.704",
+   "standard": "电气工程名词",
+   "subject": "电气工程_电工基础及通用名词"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "code": null,
+   "standard": "海峡两岸航海科学技术名词",
+   "subject": "航海科学技术"
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "code": null,
+   "standard": "海峡两岸船舶工程名词",
+   "subject": "船舶工程"
+  },
+  {
+   "cn": "O-type device型器件",
+   "en": "O-type device",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type\",\"orthognathous type",
+   "code": null,
+   "standard": "海峡两岸昆虫学名词",
+   "subject": "昆虫学"
+  },
+  {
+   "cn": "模式标本",
+   "en": "type specimen",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "模式种",
+   "en": "type species",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "第Ⅰ类超导体",
+   "en": "type Ⅰsuperconductor",
+   "code": null,
+   "standard": "海峡两岸材料科学技术名词",
+   "subject": "材料科学技术"
+  },
+  {
+   "cn": "类型图",
+   "en": "type map",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "类型继承",
+   "en": "type inheritance",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "类型库",
+   "en": "type library",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "打印杆",
+   "en": "type bar",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_赛艇名词"
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "文本文件",
+   "en": "Type code",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
