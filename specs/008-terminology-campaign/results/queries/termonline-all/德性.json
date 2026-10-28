@@ -1,0 +1,68 @@
+{
+ "key": "德性",
+ "term": "德性",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T14:39:29+00:00",
+ "status": "ok",
+ "note": "00000000000000000000000000000000=3; 00000000000000000000000000000001=0; 00000000000000000000000000000002=3; 00000000000000000000000000000006=2",
+ "hits": [
+  {
+   "cn": "锝星",
+   "en": "technetium star",
+   "code": "08.434",
+   "standard": "天文学名词",
+   "subject": "天文学_恒星和银河系"
+  },
+  {
+   "cn": "语言道德性",
+   "en": "linguistic morality",
+   "code": "9.062",
+   "standard": "行为医学名词",
+   "subject": "行为医学_医患行为_医患沟通"
+  },
+  {
+   "cn": "尊德性道问学",
+   "en": "[]",
+   "code": "03.103",
+   "standard": "教育学名词",
+   "subject": "教育学_中国教育史"
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "尊德性",
+   "en": "Revere One’s Virtuous Nature",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "code": "1.111",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  },
+  {
+   "cn": "德行",
+   "en": "moral conduct",
+   "code": "1.11",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2022\": 1, \"2013\": 1}, \"sourceStats\": {\"天文学名词\": 1, \"教育学名词\": 1, \"行为医学名词\": 1}, \"typeStats\": {\"1\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"subjectTerms\": [{\"value\": \"恒星\", \"color\": 1}, {\"value\": \"吸收\", \"color\": 1}, {\"value\": \"光谱\", \"color\": 1}], \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第三版\", \"quote1\": \"[1]天文学名词审定委员会.天文学名词[M].3版.北京：科学出版社\", \"quote2\": \"[2]天文学名词审定委员会.天文学名词\", \"aliasName\": null, \"cn\": \"锝星\", \"collect\": null, \"definition\": \"光谱中有放射性金属锝吸收线的恒星，在这些恒星的大气中富含锝元素。\", \"en\": \"technetium star\", \"id\": \"fd36d8c6774511f080660242ac110003\", \"publishYear\": \"2024\", \"source\": \"天文学名词\", \"subjectFullName\": \"天文学_恒星和银河系\", \"subjectName\": \"恒星和银河系\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"08.434\"}, {\"subjectTerms\": [{\"value\": \"语言\", \"color\": 1}], \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]医学名词审定委员会.行为医学名词审定分委员会.行为医学名词[M].1版.北京：科学出版社\", \"quote2\": \"[2]医学名词审定委员会.行为医学名词审定分委员会.行为医学名词\", \"aliasName\": null, \"cn\": \"语言道德性\", \"collect\": null, \"definition\": \"医患交流过程中，语言表达要符合社会和伦理学的道德准则与规范要求，遵守严肃、高尚和保密性原则。\", \"en\": \"linguistic morality\", \"id\": \"7885c17e26b511eeb4e9b068e6519520\", \"publishYear\": \"2022\", \"source\": \"行为医学名词\", \"subjectFullName\": \"行为医学_医患行为_医患沟通\", \"subjectName\": \"医患沟通\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"9.062\"}, {\"subjectTerms\": null, \"fullName\": \"[]\", \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": \"[1]教育学名词审定委员会.教育学名词[M].1版.北京：高等教育出版社\", \"quote2\": \"[2]教育学名词审定委员会.教育学名词\", \"aliasName\": null, \"cn\": \"尊德性道问学\", \"collect\": null, \"definition\": \"儒家关于道德修养的两个命题。语出《礼记·中庸》：“君子尊德性而道问学。”指君子既要尊重与生俱有的善性，又要经由学习、存养发展善性。\", \"en\": \"[]\", \"id\": \"762c894d26a911eeafffb068e6519520\", \"publishYear\": \"2013\", \"source\": \"教育学名词\", \"subjectFullName\": \"教育学_中国教育史\", \"subjectName\": \"中国教育史\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": \"03.103\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {}, \"sourceStats\": {}, \"typeStats\": null, \"totalRecords\": 0, \"tmWordList\": [], \"currentPage\": 1, \"totalPage\": 0}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"暂无年份\": 3}, \"sourceStats\": {\"中华思想文化术语传播工程\": 3}, \"typeStats\": {\"3\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"德性\", \"collect\": null, \"definition\": null, \"en\": \"Virtuous Nature / Morals as Human Nature\", \"id\": \"6b3dcd1cca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"哲学\", \"subjectName\": \"哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"德性之知\", \"collect\": null, \"definition\": null, \"en\": \"Knowledge from One’s Moral Nature\", \"id\": \"68e7dfc6ca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"哲学\", \"subjectName\": \"哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": null, \"onceName\": null, \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": null, \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"尊德性\", \"collect\": null, \"definition\": null, \"en\": \"Revere One’s Virtuous Nature\", \"id\": \"6a5d313aca6a11f0a7f50242ac110003\", \"publishYear\": \"暂无年份\", \"source\": \"中华思想文化术语传播工程\", \"subjectFullName\": \"哲学\", \"subjectName\": \"哲学\", \"alsoName\": null, \"commName\": null, \"tw\": null, \"wordNumber\": null}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000002\"}, {\"result\": {\"yearsList\": [], \"yearStats\": {\"2025\": 2}, \"sourceStats\": {\"医学伦理学名词\": 2}, \"typeStats\": {\"6\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"德性\", \"collect\": null, \"definition\": \"道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。\", \"en\": \"moral\", \"id\": \"6656007515104fd9926841db5272f6f6\", \"publishYear\": \"2025\", \"source\": \"医学伦理学名词\", \"subjectFullName\": \"医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴\", \"subjectName\": \"伦理学范畴\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.111\"}, {\"subjectTerms\": null, \"fullName\": null, \"shortName\": \"\", \"onceName\": \"\", \"otherLanguage\": null, \"seekCycleDate\": null, \"dbId\": null, \"bbh\": \"第一版\", \"quote1\": null, \"quote2\": null, \"aliasName\": null, \"cn\": \"德行\", \"collect\": null, \"definition\": \"符合道德的行为。个人在对他人和社会利益的自觉认识和自由选择的基础上，所做出的有利于他人和社会的行为。\", \"en\": \"moral conduct\", \"id\": \"847f14a08ad04ff1a3783a4c63f3f0e1\", \"publishYear\": \"2025\", \"source\": \"医学伦理学名词\", \"subjectFullName\": \"医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴\", \"subjectName\": \"伦理学范畴\", \"alsoName\": \"\", \"commName\": \"\", \"tw\": null, \"wordNumber\": \"1.11\"}], \"currentPage\": 1, \"totalPage\": 1}, \"id\": \"00000000000000000000000000000006\"}], \"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}}, \"timestamp\": 1793198368282}"
+}
