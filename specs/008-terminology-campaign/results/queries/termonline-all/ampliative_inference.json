@@ -1,0 +1,348 @@
+{
+ "key": "ampliative (inference)",
+ "term": "ampliative (inference)",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:55:42+00:00",
+ "status": "ok",
+ "note": "variant=ampliative (inference); 审定公布名词库=1139; 海峡两岸名词对照库=337; 其他来源数据库=67; 预公布名词数据库=94; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "推理",
+   "en": "inference",
+   "code": "09.043",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "code": "04.049",
+   "standard": "全科医学与社区卫生名词",
+   "subject": "全科医学与社区卫生_全科医疗服务"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "code": "02.643",
+   "standard": "心理学名词",
+   "subject": "心理学_认知与实验心理学"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "code": "03.255",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "code": "09.006",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "似然推理",
+   "en": "plausible inference",
+   "code": "09.045",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative inference",
+   "code": "09.046",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "正向推理",
+   "en": "forward inference",
+   "code": "09.049",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "反向推理",
+   "en": "backward inference",
+   "code": "09.050",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "双向推理",
+   "en": "bidirectional inference",
+   "code": "09.051",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_智能化工制造系统"
+  },
+  {
+   "cn": "任意推断",
+   "en": "arbitrary inference",
+   "code": "2.109",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为医学基本理论_认知理论"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": "10.118",
+   "standard": "经济学名词",
+   "subject": "经济学_数量经济学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "code": null,
+   "standard": "海峡两岸化学名词",
+   "subject": "化学"
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "哲学"
+  },
+  {
+   "cn": "参照群体",
+   "en": "Reference group",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "对称差",
+   "en": "symmetric difference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_水球名词"
+  },
+  {
+   "cn": "净胜球",
+   "en": "goal difference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_足球名词"
+  },
+  {
+   "cn": "高度差",
+   "en": "landing difference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_蹦床名词"
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_举重名词"
+  },
+  {
+   "cn": "访问局部性",
+   "en": "Locality of reference",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender difference, sex difference",
+   "code": "7.1.1.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生"
+  },
+  {
+   "cn": "压差",
+   "en": "pressure difference",
+   "code": "4.6.18.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "code": "5.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "影响量",
+   "en": "influence quantity",
+   "code": "5.6.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_辐射监测质量控制"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "code": "6.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "code": "6.3.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "code": "6.3.4.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "code": "6.3.4.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "code": "6.3.4.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "code": "6.3.4.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "code": "6.4.4.36",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

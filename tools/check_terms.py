@@ -50,10 +50,17 @@ def norm_key(text):
 
 
 def translations(cell):
-    """译法集合：取"（"注记前主形，按 / ／ ； 、 ; ， 拆分变体。"""
+    """译法集合：主形按 / ／ ； 、 ; ， 拆分变体；并吸收注记里的
+    亦作"X"（半/全角引号）变体与书名号《X》主形（008 战役比对口径，2026-10-29）。"""
     head = cell.split('（')[0].strip()
-    variants = re.split(r'[/／；、;，]', head)
-    return {v.strip() for v in variants if v.strip()}
+    variants = {v.strip() for v in re.split(r'[/／；、;，]', head) if v.strip()}
+    for m in re.finditer(r'亦作[“"]([^”"]{1,40})[”"]', cell):
+        for v in re.split(r'[/／；、;，]', m.group(1)):
+            if v.strip():
+                variants.add(v.strip())
+    for m in re.finditer(r'《([^《》]{1,60})》', cell):
+        variants.add(m.group(1).strip())
+    return {v for v in variants if v}
 
 
 def split_row(line):
@@ -98,7 +105,11 @@ def parse_registry(path):
 
 
 def parse_glossary(path):
-    """返回 rows=[(term, trans, lineno)] 与解析告警。"""
+    """返回 rows=[(term, trans, lineno)] 与解析告警。
+
+    译法集合取第 2 列，并从第 3 列注记提取 亦作"X" 形态并入
+    （整列并入会把叙述文字当译法，008 战役口径 2026-10-29 收窄）。
+    """
     rows, warns = [], []
     for lineno, line in enumerate(open(path, encoding='utf-8'), 1):
         if not line.startswith('|'):
@@ -106,7 +117,13 @@ def parse_glossary(path):
         cells = split_row(line)
         if not is_data_row(cells):
             continue
-        rows.append((cells[0], cells[1], lineno))
+        trans = cells[1]
+        if len(cells) >= 3:
+            extra = [m.group(1) for m in
+                     re.finditer(r'亦作[“"]([^”"]{1,40})[”"]', cells[2])]
+            if extra:
+                trans += '；' + '；'.join(extra)
+        rows.append((cells[0], trans, lineno))
     return rows, warns
 
 

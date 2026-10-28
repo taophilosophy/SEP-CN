@@ -91,3 +91,47 @@
 * **教训**：①「匿名恒空」≠「需登录」二象性——需区分「200+空」（无凭证被静默降级）与「401」（凭证错误）；②SPA token 存储常为**加密**，直接读 localStorage 拿到的是密文，必须还原站点 `cacheCipher` 后解密；③浏览器 evaluate 里 fetch 测试会被**已 patch 的 fetch/XHR** 干扰（返回 clone 消费原响应致空）——复现请求须用干净上下文（navigate 后未 patch 的 window）。
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。
 3. 提取器阈值/停用词每次改动后，已缓存的单篇结果不会自动失效——`--refresh` 强制重提，否则看到的是旧词表的假象。
+
+## 浏览器通道全量扫批与首轮审定裁定（2026-10-29 第六轮）
+
+**用户通道开通（浏览器登录）后的全量执行日。审定库（termonline-all）升为查证主力，登记册全量 306 行完成浏览器通道查证，9 行按审定名词完成主译裁定变更。**
+
+### 鉴权机制实测修正（取代第五轮结论）
+
+* 第五轮「X-Access-Token 明文 JWT 即可」**不完整**：Python 直连（urllib）带同一 JWT 仍被静默降级（200 + 全库 0，与匿名不可区分）。请求头捕获（钩 setRequestHeader）证实应用确实发送同值 JWT，但真正不可复现的是**真实浏览器上下文**；cookie 会话为短 TTL（约半小时级），不能只靠 cookie。
+* **瞬时限流形态**：连续快速请求（5s 节奏连发 12 发）触发全库 0 降级，冷却 5 分钟恢复；**页面加载（goto/reload）可立即激活窗口**，窗口内 10s 节奏 ≥5 发全部正常。运行配方定型：每批 reload → 每词重读 localStorage 密文 → node 侧解密（`crypto.createDecipheriv`，AES-128-CBC，cacheCipher）→ evaluate 注入 → `credentials:"include"` + JWT 头 → 批间冷却 4 分钟。
+* 响应形态判别：正常=4 库且总数>0；**降级=3 库全 0**（限流/无凭据），ingest 前把降级改记 error，防止误判「查无」。API 库 id 为 32 位十六进制串（…0006→6），须 int(id,16) 折算后查库名（cnki_query._tl_all_parse 同处修正）。
+* **全量执行**：登记册 286 行（emit 313 查询项，归并行拆变体）34 批 + 并行会话中途新登记 20 行补扫 3 批，共 334 项全部落凭证（`results/queries/termonline-all/`，154 份新凭证入库）。
+* node REPL 教训：① fetch 循环不能写在 node 侧（内核无 fetch，「fetch is not defined」）——必须在 `tab.playwright.evaluate` 内；② evaluate 传字符串函数体不会被调用（返回 {}）——传函数对象 + arg；③ 全量结果由 node 直写 %TEMP% 文件、只回批摘要，避免 30+ 批原始 JSON 撑爆上下文。
+
+### 比对口径升级（check_terms）
+
+* `translations()`：吸收注记 亦作"X" 变体（半/全角引号）与《书名号》主形——绝对唯心主义/《数学原理》类假「不一致」消除。
+* `parse_glossary()`：词汇表第 3 列注记只提取 亦作"X" 形态并入比对（整列并入会把「学界通行」等叙述当译法，实测 143 假滞后，已收窄）。滞后告警 20 → 9（低于战役前 11）。
+* 单测 143 全绿；硬错误 0、冲突 0。
+
+### 首轮审定裁定（9 行主译变更，依据=审定名词库·自然辩证法/经济学名词，凭证 2026-10-29）
+
+| 原文 | 旧主译 | 新主译 |
+| ---- | ---- | ---- |
+| bayes rule | 贝叶斯规则 | 贝叶斯法则 |
+| bayesian confirmation theory | 贝叶斯确证理论 | 贝叶斯验证理论 |
+| common cause principle | 共因原则 | 共因原理 |
+| consequentialism | 后果主义 | 后果论 |
+| Dutch book (argument) | 荷兰赌（论证） | 大弃赌论证 |
+| empirical equivalence | 经验等价 | 经验等价性 |
+| empirically equivalent | 经验等价 | 经验等价的 |
+| Inference to the Best Explanation | 最佳解释推理 | 最佳说明推理 |
+| underdetermination | 非充分决定性 | 不完全决定 |
+
+* 全部旧主译降为 亦作（可追溯）；ci-hui-biao 弱势方向 11 行同步看齐。
+* 保留不改的「不一致」（依据不足或 sense 不符，共 30 行）：youdao-aux 辅助档按规则不作变更依据（Anaximenes/Theophrastus/Xenophanes 等人名异译）；审定库命中为跨学科同名（mechanism 机构/机理、warrant 认股权证、imposition 组版、integral wholes 整数、dictum 集体消费理论等）； narrowing-term 命中（confirmation theory 对贝叶斯验证理论）。
+* anomalous monism 经比对口径升级后转「一致」（登记册 亦作 已含审定形 异常一元论）。
+* 审计终态：**一致 154 / 不一致 30 / 查无 122 / 未查证 0，维基 0**（306 行全覆盖，含并行会话新增 20 行）。
+
+### 待办（下一会话接手）
+
+1. **池批次**：term-pool 中频段（phrase 50-300、person 5-50、arabic <20）按本契约跑批裁定（`--emit --pool`，词条级批次节奏同本文档）。
+2. **高噪声词精确补查**：match=2 对含 "ibn"/"the" 等词的查询命中巨型模糊池（Ibn Bājja/Ḥayy ibn Yaqẓān 同回 4498/987/419/610），主译裁定前需 match=1 精确补查定向核销。
+3. **cnki-dict 浏览器通道**：同法可在 dict.cnki.net 页面内试内部 AJAX（本会话未再攻，插件位保留）。
+4. 登记册 irrealism 行落在伊斯兰节（并行会话编辑错节），下批登记时归位。

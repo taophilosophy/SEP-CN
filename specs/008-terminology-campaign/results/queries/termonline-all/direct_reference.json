@@ -1,0 +1,348 @@
+{
+ "key": "direct reference",
+ "term": "direct reference",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:55:42+00:00",
+ "status": "ok",
+ "note": "variant=direct reference; 审定公布名词库=3018; 海峡两岸名词对照库=813; 其他来源数据库=186; 预公布名词数据库=143; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "单纯参照",
+   "en": "see,direct reference",
+   "code": "04.641",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "基准方向",
+   "en": "reference direction",
+   "code": "08.016",
+   "standard": "船舶工程名词",
+   "subject": "船舶工程_船舶通信导航"
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "code": "04.03.125",
+   "standard": "档案学名词",
+   "subject": "档案学_档案文献编纂_档案文献编纂方法"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "code": "04.637",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息组织_资源描述"
+  },
+  {
+   "cn": "参考文献",
+   "en": "references",
+   "code": "02.04.088",
+   "standard": "编辑与出版学名词",
+   "subject": "编辑与出版学_编辑_编辑加工"
+  },
+  {
+   "cn": "引用书目",
+   "en": "bibliography reference,references",
+   "code": "08.387",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_文献学_目录学"
+  },
+  {
+   "cn": "避雷器直流参考电压",
+   "en": "direct current reference voltage of arrester",
+   "code": "19.388",
+   "standard": "电力名词",
+   "subject": "电力_变电"
+  },
+  {
+   "cn": "引文检索",
+   "en": "reference search,reference retrieval",
+   "code": "05.060",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息检索_检索技术与方法"
+  },
+  {
+   "cn": "工具书",
+   "en": "reference work,reference book",
+   "code": "06.148",
+   "standard": "语言学名词",
+   "subject": "语言学_辞书学_辞书类型"
+  },
+  {
+   "cn": "虚指",
+   "en": "indefinite reference,vague reference",
+   "code": "04.101",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_词法"
+  },
+  {
+   "cn": "指向性",
+   "en": "directivity",
+   "code": "26.0156",
+   "standard": "机械工程名词 第五分册",
+   "subject": "机械工程_动力机械_风力机_参数_噪声测试参数"
+  },
+  {
+   "cn": "方向性",
+   "en": "directivity",
+   "code": "04.224",
+   "standard": "电子学名词",
+   "subject": "电子学_微波技术与天线"
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸地理信息系统名词",
+   "subject": "地理信息系统"
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "间接引用",
+   "en": "indirect reference",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "页码引证",
+   "en": "page reference",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "参考值",
+   "en": "reference value",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "参比条件",
+   "en": "reference condition",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "参考标准",
+   "en": "reference standard",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "参比接点",
+   "en": "reference junction",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "参照群体",
+   "en": "Reference group",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "直销",
+   "en": "Direct Selling",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_跆拳道名词"
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "直接还击",
+   "en": "direct riposte",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_击剑名词"
+  },
+  {
+   "cn": "探头球",
+   "en": "direct spike",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_排球名词"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "code": "5.5.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "code": "5.5.4",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_辐射测量技术与设备_监测与评价"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "code": "6.1.3.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_辐射危险控制"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "code": "6.3.4.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "code": "6.3.4.10",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "code": "6.3.4.11",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "code": "6.3.4.13",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "code": "6.3.4.14",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "code": "6.4.4.36",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "code": "6.4.4.40",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_医用放射防护_放射治疗"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "code": "2.5.1.11",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_群体和组织_群体"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "code": "1.1.3.2.2",
+   "standard": "卫生经济学名词",
+   "subject": "卫生经济学名词_卫生经济学_卫生经济学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

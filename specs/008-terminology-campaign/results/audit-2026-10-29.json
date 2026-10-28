@@ -6,10 +6,9 @@
   "youdao-aux"
  ],
  "counts": {
-  "一致": 143,
-  "不一致": 33,
-  "未查证": 20,
-  "查无": 110
+  "一致": 154,
+  "查无": 122,
+  "不一致": 30
  },
  "results": [
   {
@@ -75,7 +74,7 @@
    "term": "absolute idealism",
    "trans": "绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "youdao-aux",
@@ -141,9 +140,11 @@
    "term": "adverbial theory (of thought)",
    "trans": "（思想的）副词论",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -301,9 +302,11 @@
    "term": "ampliative (inference)",
    "trans": "扩展（推理）／扩展性",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -395,7 +398,7 @@
    "term": "anomalous monism",
    "trans": "变异一元论（亦作“异常一元论”）",
    "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -450,9 +453,11 @@
    "term": "argument of the bad lot",
    "trans": "坏堆论证（bad lot；best of a bad lot 坏堆中的最佳）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -524,9 +529,9 @@
    "table": "术语",
    "line": 28,
    "term": "bayes rule",
-   "trans": "贝叶斯规则",
-   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "trans": "贝叶斯法则（亦作“贝叶斯规则”）",
+   "basis": "审定名词库（termonline-all·经济学名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -587,9 +592,9 @@
    "table": "术语",
    "line": 29,
    "term": "bayesian confirmation theory",
-   "trans": "贝叶斯确证理论",
-   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "trans": "贝叶斯验证理论（亦作“贝叶斯确证理论”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -1088,9 +1093,9 @@
    "table": "术语",
    "line": 43,
    "term": "common cause principle",
-   "trans": "共因原则",
-   "basis": "B 档联网核查（2026-10-27）；008 战役复核",
-   "status": "不一致",
+   "trans": "共因原理（亦作“共因原则”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -1152,9 +1157,11 @@
    "term": "conformality theory",
    "trans": "符合论（与相似论 resemblance theory 相对）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -1334,9 +1341,9 @@
    "table": "术语",
    "line": 49,
    "term": "consequentialism",
-   "trans": "后果主义",
-   "basis": "知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "trans": "后果论（亦作“后果主义”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -2013,9 +2020,24 @@
    "term": "dictum (Abelard)",
    "trans": "所言（阿伯拉尔）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "集体消费理论 collective consumption",
+     "en": null,
+     "source": "社会学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "净人口再生产率net reproductive rate",
+     "en": null,
+     "source": "社会学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2055,9 +2077,24 @@
    "term": "direct reference",
    "trans": "直接指称",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "单纯参照",
+     "en": "see,direct reference",
+     "source": "图书馆·情报与文献学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "避雷器直流参考电压",
+     "en": "direct current reference voltage of arrester",
+     "source": "电力名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2245,11 +2282,20 @@
    "table": "术语",
    "line": 65,
    "term": "Dutch book (argument)",
-   "trans": "荷兰赌（论证）",
-   "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "大弃赌论证（亦作“荷兰赌（论证）”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "大弃赌论证",
+     "en": "Dutch book arguments",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2315,18 +2361,27 @@
    "table": "术语",
    "line": 68,
    "term": "empirical equivalence",
-   "trans": "经验等价",
-   "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "经验等价性（亦作“经验等价”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "经验等价性",
+     "en": "empirical equivalence",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
    "line": 69,
    "term": "empirically equivalent",
-   "trans": "经验等价",
-   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
+   "trans": "经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
    "status": "不一致",
    "hits": [
     {
@@ -2417,9 +2472,18 @@
    "term": "epistemology of belief / of degrees of belief",
    "trans": "信念的认识论／信念度的认识论",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "信念度",
+     "en": "degree of belief",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -2508,9 +2572,11 @@
    "term": "explanationism",
    "trans": "解释主义（explanationist 解释主义者）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3762,9 +3828,9 @@
    "table": "术语",
    "line": 96,
    "term": "Inference to the Best Explanation",
-   "trans": "最佳解释推理",
-   "basis": "知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核",
-   "status": "不一致",
+   "trans": "最佳说明推理（亦作“最佳解释推理”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
    "hits": [
     {
      "provider": "termonline-all",
@@ -3785,9 +3851,11 @@
    "term": "Inference to the Worst Explanation (IWE)",
    "trans": "最差解释推理",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -3866,9 +3934,18 @@
    "term": "integral wholes",
    "trans": "整全整体",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "整数",
+     "en": "integer,integral number,whole number",
+     "source": "数学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -5620,9 +5697,11 @@
    "term": "nominatio",
    "trans": "指称（阿伯拉尔；与 significatio 意涵相对）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -7271,9 +7350,11 @@
    "term": "rule-circularity",
    "trans": "规则循环（premise-circularity 前提循环）",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -7447,9 +7528,11 @@
    "term": "significatio",
    "trans": "意涵（阿伯拉尔）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -7849,9 +7932,11 @@
    "term": "theoretical virtues",
    "trans": "理论美德",
    "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8068,11 +8153,26 @@
    "table": "术语",
    "line": 195,
    "term": "underdetermination",
-   "trans": "非充分决定性",
-   "basis": "学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "trans": "不完全决定（亦作“非充分决定性”）",
+   "basis": "审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证）",
+   "status": "一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "不完全决定",
+     "en": "underdetermination",
+     "source": "自然辩证法名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "不完全决定",
+     "en": "underdetermination",
+     "source": "自然辩证法名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8094,9 +8194,11 @@
    "term": "vis copulativa",
    "trans": "连接力",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8284,9 +8386,11 @@
    "term": "irrealism",
    "trans": "非实在论",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
+   "status": "查无",
    "hits": [],
-   "providers": []
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -8732,9 +8836,30 @@
    "term": "imposition",
    "trans": "命名（词项施加）",
    "basis": "学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29",
-   "status": "未查证",
-   "hits": [],
-   "providers": []
+   "status": "不一致",
+   "hits": [
+    {
+     "provider": "termonline-all",
+     "cn": "组版",
+     "en": "imposition",
+     "source": "编辑与出版学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "拼大版",
+     "en": "imposition",
+     "source": "编辑与出版学名词"
+    },
+    {
+     "provider": "termonline-all",
+     "cn": "折手",
+     "en": "imposition",
+     "source": "测绘学名词"
+    }
+   ],
+   "providers": [
+    "termonline-all"
+   ]
   },
   {
    "table": "术语",
@@ -9347,7 +9472,7 @@
    "term": "Principia Mathematica",
    "trans": "《数学原理》（罗素、怀特海著）",
    "basis": "A 档裁定（008 池裁定 2026-10-28）；学界通行译名",
-   "status": "不一致",
+   "status": "一致",
    "hits": [
     {
      "provider": "youdao-aux",

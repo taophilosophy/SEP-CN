@@ -1,0 +1,47 @@
+{
+ "key": "underdetermination",
+ "term": "underdetermination",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T21:07:05+00:00",
+ "status": "ok",
+ "note": "variant=underdetermination; 审定公布名词库=4; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "不完全决定",
+   "en": "underdetermination",
+   "code": "03.171",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "欠定系统",
+   "en": "underdetermined system",
+   "code": "02.0582",
+   "standard": "物理学名词",
+   "subject": "物理学_力学"
+  },
+  {
+   "cn": "欠定组",
+   "en": "underdetermined system",
+   "code": "010.0379",
+   "standard": "数学名词",
+   "subject": "数学_数值分析_方程求根·数值代数"
+  },
+  {
+   "cn": "欠定方程组",
+   "en": "underdetermined system of equations",
+   "code": "01.0375",
+   "standard": "物理学名词",
+   "subject": "物理学_通类_数学"
+  },
+  {
+   "cn": "不完全决定",
+   "en": "underdetermination",
+   "code": "03.171",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

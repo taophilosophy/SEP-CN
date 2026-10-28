@@ -1,0 +1,110 @@
+{
+ "key": "nominatio",
+ "term": "nominatio",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T21:01:30+00:00",
+ "status": "ok",
+ "note": "variant=nominatio; 审定公布名词库=10; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "提名地",
+   "en": "nominated site",
+   "code": "04.0368",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景名胜_世界遗产和其他自然保护地"
+  },
+  {
+   "cn": "指定的分包商",
+   "en": "nominated subcontractor",
+   "code": "09.0540",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_项目管理与工程管理_采购与合同管理"
+  },
+  {
+   "cn": "控制原理",
+   "en": "domination principle",
+   "code": "05.0671",
+   "standard": "数学名词",
+   "subject": "数学_分析学_位势论"
+  },
+  {
+   "cn": "控制结构",
+   "en": "domination structure",
+   "code": "011.0264",
+   "standard": "数学名词",
+   "subject": "数学_运筹学_多目标规划"
+  },
+  {
+   "cn": "指名属",
+   "en": "nominate genus",
+   "code": "2.0147",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "指名种",
+   "en": "nominate species",
+   "code": "2.0148",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "指名亚种",
+   "en": "nominate subspecies",
+   "code": "2.0149",
+   "standard": "动物学名词",
+   "subject": "动物学_动物进化与系统学_动物分类学"
+  },
+  {
+   "cn": "逆控制原理",
+   "en": "inverse domination principle",
+   "code": "05.0672",
+   "standard": "数学名词",
+   "subject": "数学_分析学_位势论"
+  },
+  {
+   "cn": "主格",
+   "en": "nominative case,NOM case",
+   "code": "04.246",
+   "standard": "语言学名词",
+   "subject": "语言学_语法学_句法篇章"
+  },
+  {
+   "cn": "世界遗产核心区",
+   "en": "world heritage core zone,boundary of the nominated property",
+   "code": "03.0397",
+   "standard": "建筑学名词",
+   "subject": "建筑学_中外建筑历史_文化遗产"
+  },
+  {
+   "cn": "同伴提名",
+   "en": "peer nomination",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "指名亚种",
+   "en": "nominate subspecies",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "新组合",
+   "en": "new combination\",\"combinatio nova",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "支配",
+   "en": "domination",
+   "code": "3.6.2.9",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_政治社会学_权力与支配"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
