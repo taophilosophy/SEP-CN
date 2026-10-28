@@ -126,18 +126,32 @@ def md_shape(chunk):
 
 
 def load_summary_titles():
-    """SUMMARY.md → {slug: 条目文字}（- [Title](<letter>/<slug>.md) 行；别名行记 see 指向）。"""
+    """SUMMARY.md → {slug: 条目文字}。链接文字可含嵌套方括号（如
+    `Abelard [Abailard], Peter`），字母目录含数字开头词条（`1/xxx.md`）。"""
     titles, aliases = {}, {}
     for ln in read_text(repo_path('SUMMARY.md')).split('\n'):
-        m = re.search(r'\[([^\]]+)\]\(([a-z])[/\\]([^/\\)]+\.md)\)', ln)
+        m = re.search(r'\]\(([a-z0-9])[/\\]([^/\\)]+\.md)\)', ln)
         if not m:
             continue
-        text, letter, fname = m.group(1), m.group(2), m.group(3)
-        slug = fname[:-3]
+        end = m.start()                       # '](target)' 前的 ']'，回溯配对 '['
+        depth, i = 1, end - 1
+        while i >= 0:
+            c = ln[i]
+            if c == ']':
+                depth += 1
+            elif c == '[':
+                depth -= 1
+                if depth == 0:
+                    break
+            i -= 1
+        if depth != 0:
+            continue
+        text = re.sub(r'\\([*\[\]])', r'\1', ln[i + 1:end]).strip()
+        slug = m.group(2)[:-3]
         if '— see' in text or '—— see' in text:
             aliases[slug] = text
         else:
-            titles[slug] = re.sub(r'\\([*\[\]])', r'\1', text)
+            titles[slug] = text
     return titles, aliases
 
 
@@ -420,7 +434,7 @@ def main():
             r = review_entry(rec, summary_titles)
         except Exception as exc:                       # 逐条隔离，不中断批次
             r = {'slug': slug, 'letter': slug[0], 'state': 'error', 'error': repr(exc)}
-        with open(LOG_PATH, 'a', encoding='utf-8') as fh:
+        with open(LOG_PATH, 'a', encoding='utf-8', newline='\n') as fh:
             tc = r.get('title_chain', {})
             fh.write(json.dumps({
                 'slug': slug, 'letter': slug[0], 'state': r.get('state'),
@@ -432,7 +446,7 @@ def main():
             }, ensure_ascii=False) + '\n')
         if r.get('state') != 'error':
             with open(os.path.join(OUT_DIR, slug.replace('/', '_') + '.json'),
-                      'w', encoding='utf-8') as fh:   # ok 词条也落盘（抽检凭证）
+                      'w', encoding='utf-8', newline='\n') as fh:   # ok 词条也落盘（抽检凭证）
                 json.dump(r, fh, ensure_ascii=False, indent=1)
         tc = r.get('title_chain', {})
         print('%-40s %-8s pairs=%-5s flags=%-4s title[s=zh:%s yw=html:%s zh含en:%s]' % (
