@@ -144,3 +144,27 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * **更正执行**：`fetch_entry --archive-edition spr2025 wyclif-political`（归档包 2 文件入库）→ 元数据补正（归档路径漏解析 citation_title/authors，从 en/ 原始 HTML 读回——摩擦 #10）→ apply-add 恢复词条（w/wyclif-political.md，SUMMARY 嵌套于 Wyclif 主行下）→ mu-lu-s 行改指真身 → directory_audit 裁定集 6→7（撤稿留档 spr2025 实证）→ 三验证全绿（check_summary/check_mulu_s/逐行审计 0 findings）。
 * **新增摩擦**：#9 apply-add 对标题内嵌方括号（如 [Gianfrancesco]）未做 `\[` 转义，check_mulu_s 解析器不认（abelard 先例已转义）——已手工转义，工具待修；#10 fetch_entry --archive-edition 漏解析 citation 元数据——已手工补正，工具待修。
 * 教训沉淀：**移除裁定前必须 archinfo + 多代归档内容比对**（"比对HTML"＝状态码之外还要验内容形态）；软 404 检测必须走内容特征而非状态码。
+
+## 既有译文逐段 vs 原始 HTML 全量比对（2026-10-29 会话，用户指令"全部译文逐段不计成本与html直接比较，禁止抽查"）
+
+### 方法
+
+* 比对链：zh 译文块 ↔ yuanwen 块（1:1 同构）↔ en/ 原始 HTML（保真由 yuanwen_recheck drift=0 + en_integrity 全审闭环承担——"直接比较 HTML"的两段式实现）。
+* 对齐器：specs/007-review-campaign/bin/para_align.py（EN/ZH 块切 + 图组折叠 + 转换器块切伪影规整 + notes.html 键控配对）。
+* 覆盖：既有全部译文 4 件——abduction（主+补）、alcmaeon、spacetime-holearg；**454 个位置对 + 8 个 notes 键控对，逐对核验，零抽查**。
+
+### 机械校验（先行清场）
+
+* 参考文献/脚注定义照录：abduction 125/125（键集、序、归一化文本全等）、alcmaeon 81/81（fuzzy ≥0.75）、spacetime 86/86 ✓。
+
+### 逐对语义核验结果
+
+* **abduction 86 对**：1 处衍字（#57"第二个不*没*有那么一般"）——已修；其余全对位（引用组/脚注标记/斜体/书名号/括注全一致）。
+* **abduction.peirce 11 对**：2 处已修——CP 5.172 皮尔士引文照录英文与全篇引文译出体例不一（已译）；"按现代 conception"英文残留（已改"按现代构想"）。
+* **alcmaeon 70 对**：0 语义缺陷；3 个古典人名未汉译（Theano/Pausanias/Hecataeus，ren-ming-biao 体例应为古典汉译）——归 alcmaeon 责任会话（s1_checked 在途）。
+* **spacetime-holearg 124 对 + 图 4 幅（alt/题注全译）+ notes 8 对**：0 语义缺陷；上游笔误 "aargues"（§9.1）镜像如实保留、zh 已正确翻译。
+* **对齐器在审阅中暴露并修复的三类自身缺陷**：公式定界符状态机误判（沿用 check_markdown 修复经验）、图组块数不同构（yuanwen 3 块/图 vs zh 2 块/图，模板首跑确认形态）需图组折叠、转换器断句+链接块切伪影需结构规整。
+
+### 结论
+
+既有全部译文（4 件、约 6.5 万字）与原始 HTML 的逐段比对**完成，无未处置的语义缺陷**；3 处笔误/体例问题当场修复，3 处人名汉化建议移交 alcmaeon 责任会话。逐对凭证：results/para-align.jsonl（464 行）。
