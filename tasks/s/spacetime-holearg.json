@@ -1,0 +1,22 @@
+{
+  "slug": "spacetime-holearg",
+  "kind": "retranslate",
+  "zh_doc": "s/spacetime-holearg.md",
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-28T05:01:47Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-28T05:01:46Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 6, 2023",
+    "archive_edition": "Summer 2023",
+    "sha256": "5be8592f6a7840d7be1c2c223f3d112215f6920b1effe377e5eeab394a6f46fb"
+  }
+}
