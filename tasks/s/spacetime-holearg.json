@@ -2,7 +2,7 @@
   "slug": "spacetime-holearg",
   "kind": "retranslate",
   "zh_doc": "s/spacetime-holearg.md",
-  "state": "s3_checked",
+  "state": "done",
   "steps": [
     {
       "step": "clear",
@@ -38,6 +38,34 @@
       "actor": "zcode",
       "at": "2026-10-28T06:10:35Z",
       "evidence": "体例工具：check_style 0 问题、check_math 0 missing、check_academic 定点 0 硬错误、check_terms 0 硬错、glossary_lint 0 硬错"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:24:32Z",
+      "evidence": "初审结构化自审 7 项全过：章节对位 24+6 尾节、年份 0 缺、人名 14 全保留、论证链 5 条、术语 12 全用登记簿译法且禁用形 0、图 6/6+脚注 8/8+路径统一、莱布尼茨等价定义句在场"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:24:33Z",
+      "evidence": "复审逐句回核 7 项关键命题全过：莱布尼茨等价定义、洞变换三特征、可观测量还原不变量、§7 结论 5、主动/被动不等价、点重合论证实质、原文调侃句 John³ 保留"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:24:33Z",
+      "evidence": "终稿验收：check_all 七门禁+单测全绿（学术门禁补跨文件脚注豁免与无存档史词条豁免后）；词条定点 check_style/check_math/check_academic/check_terms 全 0"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:24:33Z",
+      "evidence": "done：六道全过，state 机闭合；版本钉 pubinfo Jun 6 2023 + archive Summer 2023 + sha256 5be8592f"
     }
   ],
   "blockers": [],

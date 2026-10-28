@@ -252,7 +252,7 @@ def check_footnotes(ne, rel, hard, cross_refs=None):
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
 
 
-def check_tasks(tasks_dir, hard, warns):
+def check_tasks(tasks_dir, hard, warns, records=None):
     n = 0
     if not os.path.isdir(tasks_dir):
         warns.append('[task-dir-missing] 任务目录不存在：%s' % tasks_dir)
@@ -278,6 +278,14 @@ def check_tasks(tasks_dir, hard, warns):
                 continue
             missing = [k for k in PIN_FIELDS
                        if not str((rec.get('version_pin') or {}).get(k) or '').strip()]
+            # 上游无存档史的词条（新首发，baseline archinfo 为空）合法缺失
+            # archive_edition——pubinfo_date + sha256 已足够钉版本
+            if 'archive_edition' in missing:
+                slug = str(rec.get('slug') or '')
+                recs = [e for e in records if str(e.get('slug') or '') == slug]
+                if recs and not (recs[0].get('archive_edition')
+                                 or (recs[0].get('archinfo') or {}).get('latest_edition')):
+                    missing.remove('archive_edition')
             if missing:
                 hard.append('[task-pin-missing] %s version_pin 缺 %s' % (rel, '/'.join(missing)))
             if str(rec.get('state')) == 'done':
@@ -372,7 +380,7 @@ def main(argv=None):
     else:
         for fp in collect_docs(args.root):
             check_one_doc(fp, args.root, by_zh_doc, records, hard, warns, stats)
-        n_tasks = check_tasks(args.tasks_dir, hard, warns)
+        n_tasks = check_tasks(args.tasks_dir, hard, warns, records)
 
     if args.strict and warns:
         hard.extend(warns)

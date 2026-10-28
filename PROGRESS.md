@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md、baseline/entries.json、tasks/。 -->
 
-生成时间：2026-10-28 06:11（UTC）
+生成时间：2026-10-28 06:24（UTC）
 
 ## 总览
 
@@ -13,8 +13,8 @@
 |占位母词条（* 前缀，不建任务）|0|
 |已建英文基线|1878|
 |已建任务|75|
-|已完成（done）|0|
-|在途（drafted 起、done 前）|3|
+|已完成（done）|1|
+|在途（drafted 起、done 前）|2|
 |阻塞|0|
 
 ## 任务状态分布
@@ -23,7 +23,7 @@
 |---|---|
 |pending|72|
 |s1_checked|1|
-|s3_checked|1|
+|done|1|
 |round1_augmented（非标准状态）|1|
 
 ## 按首字母（正式词条 / 基线 / 任务 / 完成）
@@ -48,7 +48,7 @@
 |P|166|165|4|0|
 |Q|34|34|0|0|
 |R|85|85|5|0|
-|S|161|161|6|0|
+|S|161|161|6|1|
 |T|71|71|2|0|
 |U|4|4|0|0|
 |V|15|15|0|0|
@@ -63,4 +63,3 @@
 |---|---|---|---|
 |alcmaeon|retranslate|s1_checked|zcode-前置复核 2026-10-27|
 |ci-hui-biao|glossary-maintenance|round1_augmented|zcode-词汇表复核 2026-10-27|
-|spacetime-holearg|retranslate|s3_checked|zcode 2026-10-28|
