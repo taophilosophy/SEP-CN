@@ -39,7 +39,7 @@
 
 * 结构（硬）：`yuanwen/<letter>/<slug>.md` 与 zh 侧一一对应；`yuanwen/SUMMARY.md` 结构镜像（2649 链接同数同目标方向）；图片布局 `yuanwen/assets/<slug>/`（ADR-0008/0010）。
 * 格式（硬）：归一化四项（无 BOM、LF、换行收尾、无全角空格）+ H1 = 英文标题 + markdown 全要素（`bin/check_markdown.py`：脚注配对/表格列数/链接图片目标在盘）。
-* 内容（硬）：重转换零漂移——`bin/yuanwen_recheck.py` 真实 convert_entry 路径字节一致（= 镜像与 en/ 原始抓取经转换器无漂移）。
+* 内容（硬）：重转换零漂移——`bin/yuanwen_recheck.py` 真实 convert_entry 路径字节一致。**字节一致只证转换器确定性，不证转译正确性，故仅为必要条件**；充分性由「格式转译一致性」专节承担。
 
 **对象 4：en/**（不可变原始物，只读）
 
@@ -52,6 +52,34 @@
 1. **四方集合一致性**：`baseline/entries.json` ↔ SUMMARY 条目集 ↔ `yuanwen/<letter>/` ↔ `en/` 包集，逐条列出多/缺并裁定（当前已知：四方零缺包零多余，复核须重新证实）。
 2. **标题链三方一致**：SUMMARY 条目文字 ↔ zh `<letter>/<slug>.md` H1 ↔ `yuanwen/<letter>/<slug>.md` H1（↔ en `index.html` 文档标题作参照），不一致处逐条裁定。
 3. **链接目标在盘存在**：check_markdown 已硬拦（数学记号伪链接守卫生效），复跑取数。
+
+## 格式转译一致性（反机械复核核心，2026-10-29 用户裁定）
+
+**裁定**：禁止机械复核，必须确保格式的转译一致性。检查器全绿（check_markdown/check_math/重转换字节一致）只是**必要非充分**；复核结论以转译规则目录的构件级核对与人工裁定为准。
+
+**转译链**：`en/<slug>/index.html`（SEP HTML 构件）→ `convert_entry`（tools/yuanwen.py）→ `yuanwen/<letter>/<slug>.md` → zh 翻译侧逐节镜像（rules/04）。格式一致性 = 这条链上**同一 HTML 构件类全库转译为唯一 md 形态**，且语义无静默损失。
+
+**转译规则目录**（自转换器构件面归纳，逐条编号，开工时落 `results/transpile-rules.md` 并允许增补）：
+
+| 规则号 | 构件（源码依据） | 一致性判据 |
+| ---- | ---- | ---- |
+| T-01 | 区块结构与 div 语义分类（`_div_kind`/`render_blocks`） | 同类 div → 同级标题/段落形态；标题层级不跳级 |
+| T-02 | 行内构件（`inline_to_md`/`_subsup_md`） | em/strong/code/a/上下标各自形态唯一；SEP 术语音译标记不漂移 |
+| T-03 | 数学（`protect/restore_cross_block_math`） | 行内 `$…$`/行间 `$$…$$` 归属唯一；跨块数学还原无损 |
+| T-04 | 表格（`table_to_md`/`_flatten_nested_tables`） | 同构表格 → 同形态 md 表；嵌套扁平化策略全库一致 |
+| T-05 | 列表（`list_to_md`） | ol/ul 嵌套缩进规则唯一 |
+| T-06 | 图（`figure_to_md`） | figure/img → `../assets/<slug>/` 引用形态唯一（ADR-0008/0010） |
+| T-07 | 引文键（`build_cite_keys`/`link_citations`） | 作者-年份键生成与链接规则全库一致（007 的 276 缺口属此规则核对范围） |
+| T-08 | 脚注与补充材料（`convert_notes`/`convert_supplement`） | 参考文献全量转脚注体例唯一；补充材料转译形态一致 |
+| T-09 | 目录镜像（`write_summary`） | yuanwen/SUMMARY 生成规则与 zh 侧导航改写规则一致 |
+
+**每条规则的三级结论**（缺一不可，逐条留凭证）：
+
+1. **形态唯一性**（动态全库）：全库扫描该构件类的转译形态分布；同一构件类出现多种 md 形态 = finding，逐例人工裁定归一方向。
+2. **语义保真**（抽样人工）：每条规则至少抽 5 例（覆盖最复杂词条），HTML 源与 md 产物人工比对——无构件被静默丢弃、降级或改义；抽样必须记录词条名与比对结论，不勾选式通过。
+3. **zh 镜像兼容**（结构锚点）：转译产物的结构锚点（H1/分节/脚注/表格/公式）满足 zh 翻译工作流逐节镜像假设；锚点缺失或漂移处登记。
+
+**执行方式**：先静态（读 convert_entry 源码归纳目录）→ 再动态（全库形态分布扫描）→ 分歧处逐例人工裁定 → 抽样语义保真。机械检查器全部保留，但输出仅作前置筛选与回归防线，不构成复核结论本身。
 
 ## 工具（复用优先，零新建起步）
 
@@ -70,6 +98,7 @@
 
 ## 约束与用户裁定
 
+* **禁止机械复核（用户裁定 2026-10-29）**："必须确保格式的转译一致性"——检查器全绿是必要非充分条件；验收以「格式转译一致性」专节的转译规则目录核对与人工裁定为准。
 * **零写入被审对象**：en/ 与 baseline 只读；yuanwen/ 仅 yuanwen_recheck 的窥探比对路径（不落盘）；产物只落 `results/`。
 * **并行会话共存**：当前工作树有在途编辑（mu-lu-s.md、yuanwen/SUMMARY.md、tools/yuanwen.py 等已 staged）。复核在当前磁盘态执行；发现与在途编辑冲突处**只登记归属，不裁改**。
 * **礼貌抓取不适用**：本战役纯本地比对，无网络请求；如需上游快照对照，走 `fetch_catalog` 既有 5 秒礼貌。
@@ -78,14 +107,17 @@
 ## 验收标准
 
 1. 三维矩阵 4×3 逐格有凭证落 `results/`（各检查器原始输出 + 汇总 JSON）。
-2. 四方集合一致性：多/缺 = 0，或逐条有显式裁定登记。
-3. 标题链三方比对：不一致 = 0，或逐条有显式裁定登记。
-4. 007 已知发现基线不扩大（逐项对照计数）。
-5. 执行日志留痕；`python tools/check_all.py` 九项全绿（含 `--all` 基线审计与英文镜像复核）；分批提交（不 push）。
+2. **转译规则目录（T-01…T-09+）建成**：每条规则有形态唯一性结论（全库扫描）+ 语义保真抽样凭证（≥5 例/条，记录词条名与比对结论）+ zh 镜像兼容结论；分歧处逐例裁定，零未裁决项。
+3. 四方集合一致性：多/缺 = 0，或逐条有显式裁定登记。
+4. 标题链三方比对：不一致 = 0，或逐条有显式裁定登记。
+5. 007 已知发现基线不扩大（逐项对照计数）。
+6. 执行日志留痕；`python tools/check_all.py` 九项全绿（含 `--all` 基线审计与英文镜像复核）；分批提交（不 push）。
 
 ## 产物
 
 * `specs/009-normalization-review/spec.md` —— 本任务书
 * `specs/009-normalization-review/execution-log.md` —— 干活日志
 * `specs/009-normalization-review/bin/quad_norm.py` —— 四方集合/标题链比对驱动器（如需）
+* `specs/009-normalization-review/bin/transpile_scan.py` —— 转译规则形态分布扫描器（按 T-xx 规则逐条出全库分布与分歧清单）
+* `specs/009-normalization-review/results/transpile-rules.md` —— 转译规则目录（T-xx 逐条：构件、判据、形态分布、抽样凭证、裁定）
 * `specs/009-normalization-review/results/` —— 矩阵逐格凭证（目录层 / yuanwen / en / 跨对象四组）
