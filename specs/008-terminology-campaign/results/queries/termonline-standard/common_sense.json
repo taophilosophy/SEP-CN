@@ -1,0 +1,152 @@
+{
+ "key": "common sense",
+ "term": "common sense",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:00:14+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=226",
+ "hits": [
+  {
+   "cn": "指向",
+   "en": "sense",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "灵敏阈",
+   "en": "sense threshold",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "灵敏阅",
+   "en": "sense threshold",
+   "code": "GB/T 19677—2005",
+   "standard": "水文仪器术语及符号",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "载波侦听",
+   "en": "carrier sense",
+   "code": "GB/T 5271.25—2000",
+   "standard": "信息技术  词汇  第25部分:局域网",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "读出放大器",
+   "en": "sense amplifier",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "读恢复时间",
+   "en": "sense recovery time",
+   "code": "GB/T 9178—1988",
+   "standard": "集成电路术语",
+   "subject": "电子学"
+  },
+  {
+   "cn": "一般构件",
+   "en": "common member",
+   "code": "GB 50292—2015",
+   "standard": "民用建筑可靠性鉴定标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般缺陷",
+   "en": "common defect",
+   "code": "GB 50204—2015",
+   "standard": "混凝土结构工程施工质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般缺陷",
+   "en": "common defect",
+   "code": "GB 50729—2012",
+   "standard": "±800kV及以下直流换流站土建工程施工质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "常用闸",
+   "en": "common gate",
+   "code": "GB 51145—2015",
+   "standard": "煤矿电气设备安装工程 施工与验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "共用空间",
+   "en": "common space",
+   "code": "GB/T 26149—2017",
+   "standard": "乘用车轮胎气压监测系统的性能要求和试验方法",
+   "subject": "其它"
+  },
+  {
+   "cn": "共用立管",
+   "en": "common riser",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "共同段",
+   "en": "common section",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般通道",
+   "en": "common passage",
+   "code": "GB 50195—2013",
+   "standard": "发生炉煤气站设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "联合接地",
+   "en": "common earthing",
+   "code": "GB 51120—2015",
+   "standard": "通信局(站)防雷与接地工程验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "共用接地",
+   "en": "common earth",
+   "code": "GB/T 50115—2019",
+   "standard": "工业电视系统工程设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "公共区域",
+   "en": "common zone",
+   "code": "GB/T 30030—2023",
+   "standard": "自动导引车 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "共模失效",
+   "en": "common-modefailure",
+   "code": "GB/T 6960.8—2021",
+   "standard": "拖拉机术语第8部分:电子控制系统",
+   "subject": "农业"
+  },
+  {
+   "cn": "公共元数据",
+   "en": "common metadata",
+   "code": "GB/T 39872—2021",
+   "standard": "标准文献技术指标揭示数据规范",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "公共程序",
+   "en": "common program",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 10, \"2022\": 8, \"2021\": 31, \"2020\": 19, \"2019\": 7, \"2018\": 11, \"2017\": 14, \"2016\": 4, \"2015\": 7, \"2014\": 2, \"2013\": 8, \"2012\": 3, \"2011\": 8, \"2010\": 2, \"2009\": 4, \"2008\": 27, \"2007\": 1, \"2006\": 1, \"2005\": 6, \"2004\": 1, \"2003\": 5, \"2000\": 8, \"1995\": 1, \"1988\": 12, \"暂无年份\": 25}, \"sourceStats\": {\"食品技术\": 3, \"铁路工程\": 1, \"采矿和矿产品\": 1, \"道路车辆工程\": 4, \"造船和海上构筑物\": 3, \"货物的包装和调运\": 1, \"计量学和测量、物理现象\": 3, \"航空器和航天器工程\": 4, \"能源和热传导工程\": 22, \"综合、术语学、标准化、文献\": 24, \"纺织和皮革技术\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 3, \"石油及相关技术\": 4, \"电气工程\": 12, \"电子学\": 18, \"电信、音频和视频工程\": 32, \"环保、保健和安全\": 1, \"材料储运设备\": 2, \"机械系统和通用件\": 2, \"机械制造\": 7, \"数学、自然科学\": 2, \"建筑材料和建筑物\": 9, \"医药卫生技术\": 6, \"化工技术\": 1, \"农业\": 4, \"其它\": 30, \"信息技术、办公机械\": 25}, \"typeStats\": {\"7\": 226}, \"totalRecords\": 226, \"tmWordList\": [{\"id\": \"8376e21b76324136bf35a36cbe5c92d9\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.2\", \"cnName\": \"指向\", \"enName\": \"sense\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166020, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"指向\", \"cnNameSearch\": \"指向\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense\", \"wordSearch\": \"sense\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"矢量的方向，该矢量表示某导航参数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"38778cb2833c4392bbd88ae742f65125\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.13.12\", \"cnName\": \"灵敏阈\", \"enName\": \"sense threshold\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41726, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"灵敏阈\", \"cnNameSearch\": \"灵敏阈\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense threshold\", \"wordSearch\": \"sense threshold\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"当输入量由零变化到使输出量开始发生可观测变化且具有稳定的相关定量关系的输入量的最小变化值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7d5d5bf35b944f269fddb9928b8723a6\", \"databaseId\": null, \"standardId\": \"de0f364920d240419e7a95033265c85a\", \"standardCode\": \"GB/T 19677—2005\", \"standardName\": \"水文仪器术语及符号\", \"standardEnName\": \"Essential technical terms and symbols for hydrologic instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1.41\", \"cnName\": \"灵敏阅\", \"enName\": \"sense threshold\", \"publishTime\": \"2005-03-02\", \"publishYear\": \"2005\", \"implementTime\": \"2005-08-01\", \"ics\": \"07.06007\", \"ccs\": \"N93\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217579, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"灵敏阅\", \"cnNameSearch\": \"灵敏阅\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense threshold\", \"wordSearch\": \"sense threshold\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"阀值\\n当输入量由零变化到使输出量开始发生可观测变化且具有稳定的相关定量关系的输入量的最小变\\n化值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"415b7a2607b24456ac23b39b3d99406d\", \"databaseId\": null, \"standardId\": \"4bcfe714ea4746e39fca84e62588abcb\", \"standardCode\": \"GB/T 5271.25—2000\", \"standardName\": \"信息技术  词汇  第25部分:局域网\", \"standardEnName\": \"Information technology——Vocabulary——Part 25:Local area networks\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"25.01.08\", \"cnName\": \"载波侦听\", \"enName\": \"carrier sense\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 78636, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"载波侦听\", \"cnNameSearch\": \"载波侦听\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"carrier sense\", \"wordSearch\": \"carrier sense\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在局域网中，一个数据站检测另一个数据站是否正在发送的一种持续活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"52988507ec1c4260ac4e8aa0935bac47\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"4.2.3\", \"cnName\": \"读出放大器\", \"enName\": \"sense amplifier\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185071, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"读出放大器\", \"cnNameSearch\": \"读出放大器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense amplifier\", \"wordSearch\": \"sense amplifier\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"对规定输入电压范围内（上下限幅）的信号作出响应，并能输出数字电压的集成电路。它通常具有差动输入端和单端输出端，也可以包括一个选通端，及用来调整输入电压范围的输入端。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce6fd3b3c42c40d787fea52f05843c1c\", \"databaseId\": null, \"standardId\": \"b552d653f0ec4200854098cf0b0cb83d\", \"standardCode\": \"GB/T 9178—1988\", \"standardName\": \"集成电路术语\", \"standardEnName\": \"Terminology for integrated circuits\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"2.2.3.4\", \"cnName\": \"读恢复时间\", \"enName\": \"sense recovery time\", \"publishTime\": \"1988-05-19\", \"publishYear\": \"1988\", \"implementTime\": \"1988-10-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 184815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"读恢复时间\", \"cnNameSearch\": \"读恢复时间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sense recovery time\", \"wordSearch\": \"sense recovery time\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"将存贮器从写状态转换到读状态，并从输出获得有效数据信号所需要的时间间隔。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"88460aa5d2354b229890a31b8a83267f\", \"databaseId\": null, \"standardId\": \"0feb24352b974bcd8f96393d9529e503\", \"standardCode\": \"GB 50292—2015\", \"standardName\": \"民用建筑可靠性鉴定标准\", \"standardEnName\": \"Standard for appraisal of reliability of civil buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.21\", \"cnName\": \"一般构件\", \"enName\": \"common member\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15056, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般构件\", \"cnNameSearch\": \"一般构件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common member\", \"wordSearch\": \"common member\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其自身失效为孤立事件，不会导致其他构件失效的构件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"587ac3f839ba465982591f6459bc04ae\", \"databaseId\": null, \"standardId\": \"1de25453f3d848d8b784527507a263e3\", \"standardCode\": \"GB 50204—2015\", \"standardName\": \"混凝土结构工程施工质量验收规范\", \"standardEnName\": \"Code for quality acceptance of concrete structure construction\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"一般缺陷\", \"enName\": \"common defect\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 28386, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般缺陷\", \"cnNameSearch\": \"一般缺陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common defect\", \"wordSearch\": \"common defect\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对结构构件的受力性能、耐久性能或安装、使用功能无决定性影响的缺陷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"183ba14d1347461ba2fb37add3f33db5\", \"databaseId\": null, \"standardId\": \"35dbb337a7f1411981c319a13b56060a\", \"standardCode\": \"GB 50729—2012\", \"standardName\": \"±800kV及以下直流换流站土建工程施工质量验收规范\", \"standardEnName\": \"Code for acceptance of construction quality of±800kV & under HVDC converter substation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.14\", \"cnName\": \"一般缺陷\", \"enName\": \"common defect\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 59591, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般缺陷\", \"cnNameSearch\": \"一般缺陷\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common defect\", \"wordSearch\": \"common defect\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对结构构件的受力性能或安装使用性能无决定性影响的缺陷。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5bd781a00f44439895e467f74670fed0\", \"databaseId\": null, \"standardId\": \"3872d64116e0439c969c1d7e39ab0c91\", \"standardCode\": \"GB 51145—2015\", \"standardName\": \"煤矿电气设备安装工程 施工与验收规范\", \"standardEnName\": \"Code for construction and acceptance of coal mine electrical equipment installation engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.21\", \"cnName\": \"常用闸\", \"enName\": \"common gate\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62196, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"常用闸\", \"cnNameSearch\": \"常用闸\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common gate\", \"wordSearch\": \"common gate\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"绞车正常操作控制用的工作闸。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d8dd92202dcd4615bbcccbf83465ba2e\", \"databaseId\": null, \"standardId\": \"7242d9d7ce0344a190871458c8619f84\", \"standardCode\": \"GB/T 26149—2017\", \"standardName\": \"乘用车轮胎气压监测系统的性能要求和试验方法\", \"standardEnName\": \"Performance requirements and test methods of tire pressure monitoring system for passenger cars\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.4\", \"cnName\": \"共用空间\", \"enName\": \"common space\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 115147, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共用空间\", \"cnNameSearch\": \"共用空间\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common space\", \"wordSearch\": \"common space\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"可不同步显示两种或多种信息功能（如：标志）的区域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4b50acbf604e441ebad876ac506d9627\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3.22\", \"cnName\": \"共用立管\", \"enName\": \"common riser\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 139445, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共用立管\", \"cnNameSearch\": \"共用立管\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common riser\", \"wordSearch\": \"common riser\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"多层或高层住宅建筑内，用于连接各层户内供暖系统的垂直供、回管道，区别于传统的连接各层散热器的户内立管。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"65f80c927c05477a9f179886ff54aaad\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.5.4\", \"cnName\": \"共同段\", \"enName\": \"common section\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 139623, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共同段\", \"cnNameSearch\": \"共同段\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common section\", \"wordSearch\": \"common section\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"系统中各环路的共用部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b410631428d9499c92cc071b6527efbb\", \"databaseId\": null, \"standardId\": \"9234d9ec69d84f57b747bf6341d64964\", \"standardCode\": \"GB 50195—2013\", \"standardName\": \"发生炉煤气站设计规范\", \"standardEnName\": \"Design code for producer gas station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"一般通道\", \"enName\": \"common passage\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154713, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般通道\", \"cnNameSearch\": \"一般通道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common passage\", \"wordSearch\": \"common passage\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"室内操作和检查经常来往通过的地方。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b3dd92dd52f44df7acce3095284b0fe8\", \"databaseId\": null, \"standardId\": \"9f1f8ffcb89f40a4aaea12c61fb989b1\", \"standardCode\": \"GB 51120—2015\", \"standardName\": \"通信局(站)防雷与接地工程验收规范\", \"standardEnName\": \"Acceptance code for lightning protection and earthing engineering of telecommunication bureaus( stations）\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"联合接地\", \"enName\": \"common earthing\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164395, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"联合接地\", \"cnNameSearch\": \"联合接地\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common earthing\", \"wordSearch\": \"common earthing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将通信局(站)各类通信设备不同的接地方式，包括通信设备的工作接地、保护接地、屏蔽体接地、防静电接地、信息设备逻辑地等和建筑物金属构件及各部分防雷装置、防雷器的保护接地等连接在一起,并与建筑物防雷接地共同合用建筑物的基础接地体及外设接地系统的接地方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"22e177e832f34b948e32b2c51cfd1e19\", \"databaseId\": null, \"standardId\": \"a45bb35cf6174aa884755ccf0d0ee027\", \"standardCode\": \"GB/T 50115—2019\", \"standardName\": \"工业电视系统工程设计标准\", \"standardEnName\": \"Standard for design of industrial television system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.31\", \"cnName\": \"共用接地\", \"enName\": \"common earth\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168869, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共用接地\", \"cnNameSearch\": \"共用接地\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common earth\", \"wordSearch\": \"common earth\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将各部分防雷装置、建筑物金属构件、低压配电保护线(PE)等电位联结带、设备保护地、屏蔽体接地、防静电接地及接地装置等连接在一起的接地方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8454cdfe96204dc8b8b71902f312f3d9\", \"databaseId\": null, \"standardId\": \"1d8bc4d8d9f64dbbb24aadc23a838b54\", \"standardCode\": \"GB/T 30030—2023\", \"standardName\": \"自动导引车 术语\", \"standardEnName\": \"Automated guided vehicle—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.2.12\", \"cnName\": \"公共区域\", \"enName\": \"common zone\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-05-23\", \"ics\": \"53.08053\", \"ccs\": \"J83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 28170, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"公共区域\", \"cnNameSearch\": \"公共区域\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common zone\", \"wordSearch\": \"common zone\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"允许自动导引车与其他移动对象共同使用的区域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81e86896b2554557b747646d8128b935\", \"databaseId\": null, \"standardId\": \"04e854fd55964a7cb728462e2a7c04c5\", \"standardCode\": \"GB/T 6960.8—2021\", \"standardName\": \"拖拉机术语第8部分:电子控制系统\", \"standardEnName\": \"Tractor terminology-Part 8:Electronic control system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.2.1.17\", \"cnName\": \"共模失效\", \"enName\": \"common-modefailure\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.060.1065\", \"ccs\": \"T60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 3567, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"共模失效\", \"cnNameSearch\": \"共模失效\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common-modefailure\", \"wordSearch\": \"common-modefailure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由相同故障模式引起的多个部件的失效。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3a169a309a5f4c32b42c53d856423457\", \"databaseId\": null, \"standardId\": \"5d169f4bce91464a91931a921e8f189f\", \"standardCode\": \"GB/T 39872—2021\", \"standardName\": \"标准文献技术指标揭示数据规范\", \"standardEnName\": \"Data specification for disclosure of technical indicators in standard literature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.8\", \"cnName\": \"公共元数据\", \"enName\": \"common metadata\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"01.140.10;01.075\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93921, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"公共元数据\", \"cnNameSearch\": \"公共元数据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common metadata\", \"wordSearch\": \"common metadata\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"实现标准文献技术指标揭示的扩展元数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"decf2641802a4f92804d0e707667f28b\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.42\", \"cnName\": \"公共程序\", \"enName\": \"common program\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117186, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"公共程序\", \"cnNameSearch\": \"公共程序\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"common program\", \"wordSearch\": \"common program\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种尽管本身直接包含在某一程序中但可以由任何直接或间接包含在别的程序中的程序所调用的程序。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 12}}, \"timestamp\": 1793163612439}"
+}

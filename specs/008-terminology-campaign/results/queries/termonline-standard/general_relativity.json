@@ -1,0 +1,152 @@
+{
+ "key": "general relativity",
+ "term": "general relativity",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:00:43+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=240",
+ "hits": [
+  {
+   "cn": "一般类",
+   "en": "general",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "一般类",
+   "en": "general",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "综合仪器",
+   "en": "general",
+   "code": "GB/T 21154—2014",
+   "standard": "土方机械 整机及其工作装置和部件的质量测量方法",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "一般术语",
+   "en": "general",
+   "code": "GB/T 25379.2—2010",
+   "standard": "机床通用部件 工件随行托板第2部分:名义尺寸大于800mm 的工件随行托板",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "一般术语",
+   "en": "general",
+   "code": "GB/T 25379.1—2010",
+   "standard": "机床通用部件 工件随行托板第1部分:名义尺寸至800mm 的工件随行托板",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "一般结构",
+   "en": "general structure",
+   "code": "GB 50367—2013",
+   "standard": "混凝土结构加固设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "总平面布置",
+   "en": "general layout",
+   "code": "GB 50187—2012",
+   "standard": "工业企业总平面设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般结构",
+   "en": "general structure",
+   "code": "GB 50292—2015",
+   "standard": "民用建筑可靠性鉴定标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般项目",
+   "en": "general item",
+   "code": "GB/T 50252—2018",
+   "standard": "工业安装工程施工质量验收统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "总体布置",
+   "en": "general planning",
+   "code": "GB 50984—2014",
+   "standard": "石油化工工厂布置设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般项目",
+   "en": "general item",
+   "code": "GB 50870—2013",
+   "standard": "建筑施工安全技术统一规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般照明",
+   "en": "general lighting",
+   "code": "GB 50034—2013",
+   "standard": "建筑照明设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "综合医院",
+   "en": "general hospital",
+   "code": "GB 51039—2014",
+   "standard": "综合医院建筑设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般焊缝",
+   "en": "general weld",
+   "code": "GB 51008—2016",
+   "standard": "高耸与复杂钢结构检测与鉴定标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "总平面布置",
+   "en": "general layout",
+   "code": "GB/T 51027—2014",
+   "standard": "石油化工企业总图制图标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般巷道",
+   "en": "general roadway",
+   "code": "GB 51036—2014",
+   "standard": "有色金属矿山井巷工程质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般项目",
+   "en": "general item",
+   "code": "GB 50175—2014",
+   "standard": "露天煤矿工程质量验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一般项目",
+   "en": "general item",
+   "code": "GB/T 51317—2019",
+   "standard": "石油天然气工程施工质量验收统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "总体边坡",
+   "en": "general slope",
+   "code": "GB 51016—2014",
+   "standard": "非煤露天矿边坡工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "一股材料库",
+   "en": "general warehouse",
+   "code": "GB 50229—2019",
+   "standard": "火力发电厂与变电站设计防火标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 2, \"2023\": 18, \"2022\": 5, \"2021\": 15, \"2020\": 16, \"2019\": 13, \"2018\": 2, \"2017\": 4, \"2016\": 1, \"2015\": 16, \"2014\": 17, \"2013\": 3, \"2012\": 4, \"2011\": 6, \"2010\": 5, \"2009\": 9, \"2008\": 19, \"2007\": 5, \"2005\": 5, \"2004\": 1, \"2001\": 2, \"2000\": 1, \"1997\": 3, \"1996\": 1, \"1993\": 1, \"1985\": 3, \"暂无年份\": 63}, \"sourceStats\": {\"食品技术\": 2, \"采矿和矿产品\": 6, \"道路车辆工程\": 6, \"造船和海上构筑物\": 1, \"造纸技术\": 1, \"试验\": 2, \"计量学和测量、物理现象\": 5, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 5, \"综合、术语学、标准化、文献\": 22, \"纺织和皮革技术\": 3, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 12, \"石油及相关技术\": 10, \"电气工程\": 8, \"电子学\": 3, \"电信、音频和视频工程\": 3, \"玻璃和陶瓷工业\": 2, \"环保、保健和安全\": 13, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 3, \"材料储运设备\": 4, \"机械制造\": 8, \"木材技术\": 3, \"服装工业\": 1, \"数学、自然科学\": 3, \"成像技术\": 1, \"建筑材料和建筑物\": 4, \"家用和商用设备、文娱、体育\": 1, \"化工技术\": 2, \"冶金\": 4, \"农业\": 7, \"其它\": 71, \"信息技术、办公机械\": 22}, \"typeStats\": {\"7\": 240}, \"totalRecords\": 240, \"tmWordList\": [{\"id\": \"035ba09eb1bf4f4c9b167d987e984426\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.24\", \"cnName\": \"一般类\", \"enName\": \"general\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15429, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般类\", \"cnNameSearch\": \"一般类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general\", \"wordSearch\": \"general\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有特化的（OPM>可细化物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0eed8a8753d64b059acc317fd597fd07\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.24\", \"cnName\": \"一般类\", \"enName\": \"general\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15511, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般类\", \"cnNameSearch\": \"一般类\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general\", \"wordSearch\": \"general\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有特化的(OPM>可细化物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5021b75ca9e040709ad9d169f91f762f\", \"databaseId\": null, \"standardId\": \"1b516e17f00b4913918e4a1a5e3b2599\", \"standardCode\": \"GB/T 21154—2014\", \"standardName\": \"土方机械 整机及其工作装置和部件的质量测量方法\", \"standardEnName\": \"Earth-moving machinery-Methods of measuring the masses of whole  achines, their equipment and components\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.4.1\", \"cnName\": \"综合仪器\", \"enName\": \"general\", \"publishTime\": \"2014-07-24\", \"publishYear\": \"2014\", \"implementTime\": \"2015-01-01\", \"ics\": \"53.100\", \"ccs\": \"P 97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 26667, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"综合仪器\", \"cnNameSearch\": \"综合仪器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general\", \"wordSearch\": \"general\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为测量机器、工作装置、附属装置或部件的质量，所要用的成套测试设备和装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7af2a6bcd970463a876463bb5a1f455c\", \"databaseId\": null, \"standardId\": \"62ba01bfdc6a43b88c50c2d937cdf4f5\", \"standardCode\": \"GB/T 25379.2—2010\", \"standardName\": \"机床通用部件 工件随行托板第2部分:名义尺寸大于800mm 的工件随行托板\", \"standardEnName\": \"Modular units for machine tools—Workholding pallets—Part2: Workholding pallets of nominal size greater than 800 mm\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2\", \"cnName\": \"一般术语\", \"enName\": \"general\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-03-01\", \"ics\": \"ICS 25.060.20\", \"ccs\": \"J 51\", \"parentTermId\": null, \"titleId\": null, \"oid\": 98747, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般术语\", \"cnNameSearch\": \"一般术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general\", \"wordSearch\": \"general\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"托板有关部位的术语应符合图1和表1的规定。<img src=\\\"/standard/210d941aceb04b7eb7071d7cc36002d4/01.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3bcd269431464c73bddbb895b4d682f6\", \"databaseId\": null, \"standardId\": \"b0f2ea83aa2f42a4b0223faad99aa376\", \"standardCode\": \"GB/T 25379.1—2010\", \"standardName\": \"机床通用部件 工件随行托板第1部分:名义尺寸至800mm 的工件随行托板\", \"standardEnName\": \"Modular units formachinetools—Workholding palletsPart1:Workholding pallets up to 800 mm nominalsize\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.2\", \"cnName\": \"一般术语\", \"enName\": \"general\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-03-01\", \"ics\": \"ICS 25.060.20\", \"ccs\": \"J 51\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182286, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般术语\", \"cnNameSearch\": \"一般术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general\", \"wordSearch\": \"general\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"托板有关部位的术语应符合图1和表1的规定。<img src=\\\"/standard/33a10300ee614fe588157304ce81903e/01.png\\\" alt=\\\"\\\" data-href=\\\"\\\" style=\\\"\\\"/>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c63808b0c24940bb9b5752019ee426a1\", \"databaseId\": null, \"standardId\": \"0a1df1b04e0d4fc0b24bc7bc32fa674b\", \"standardCode\": \"GB 50367—2013\", \"standardName\": \"混凝土结构加固设计规范\", \"standardEnName\": \"Code for design of strengthening concrete structure\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"一般结构\", \"enName\": \"general structure\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 9085, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般结构\", \"cnNameSearch\": \"一般结构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general structure\", \"wordSearch\": \"general structure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"安全等级为二级的建筑物中的承重结构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"83c4be9298c04319a38b900ff754898a\", \"databaseId\": null, \"standardId\": \"0d9ed477b30642d99956297fdb770ce2\", \"standardCode\": \"GB 50187—2012\", \"standardName\": \"工业企业总平面设计规范\", \"standardEnName\": \"Code for design of general layout of industrial enterprises\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"总平面布置\", \"enName\": \"general layout\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 12041, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总平面布置\", \"cnNameSearch\": \"总平面布置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general layout\", \"wordSearch\": \"general layout\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在选定的场地内，合理确定建筑物、构筑物、交通运输线路和设施的最佳空间位置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a1fec5cc9547466280d25f37be9a58cc\", \"databaseId\": null, \"standardId\": \"0feb24352b974bcd8f96393d9529e503\", \"standardCode\": \"GB 50292—2015\", \"standardName\": \"民用建筑可靠性鉴定标准\", \"standardEnName\": \"Standard for appraisal of reliability of civil buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.3\", \"cnName\": \"一般结构\", \"enName\": \"general structure\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15038, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般结构\", \"cnNameSearch\": \"一般结构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general structure\", \"wordSearch\": \"general structure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"其破坏可能产生严重后果的结构：在可靠度设计中指安全等级为二级的一般建筑物的结构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"513457d426744a2a8dfb6213dd465c81\", \"databaseId\": null, \"standardId\": \"12ed6446d7d64267befe3d8c4cfcbd45\", \"standardCode\": \"GB/T 50252—2018\", \"standardName\": \"工业安装工程施工质量验收统一标准\", \"standardEnName\": \"Unified standard for constructional quality acceptance of industrial installation engineering \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"一般项目\", \"enName\": \"general item\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17351, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般项目\", \"cnNameSearch\": \"一般项目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general item\", \"wordSearch\": \"general item\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除主控项目以外的检验项目。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"46939346bedc447d8b994b4bfddc9e75\", \"databaseId\": null, \"standardId\": \"143694f250f34d688b4d126ee400d579\", \"standardCode\": \"GB 50984—2014\", \"standardName\": \"石油化工工厂布置设计规范\", \"standardEnName\": \"Code for design of petrochemical plant layout\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"总体布置\", \"enName\": \"general planning\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 19197, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总体布置\", \"cnNameSearch\": \"总体布置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general planning\", \"wordSearch\": \"general planning\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据厂址所在地区的自然条件和社会环境以及城市规划、环境保护和安全生产等方面的要求，对工程的多个组项目和协作项目统一进行区域性总体布局和土地利用的全面规划，合理确定其位置关系和运输路径。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e199d8cdc1fb4dd48de4fb524fa01bf5\", \"databaseId\": null, \"standardId\": \"1cd32dcaacd54865838046bb2eadae8b\", \"standardCode\": \"GB 50870—2013\", \"standardName\": \"建筑施工安全技术统一规范\", \"standardEnName\": \"Unified code for technique for constructional safety\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.20\", \"cnName\": \"一般项目\", \"enName\": \"general item\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27673, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般项目\", \"cnNameSearch\": \"一般项目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general item\", \"wordSearch\": \"general item\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除保证项目以外的检验项目。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db24d0c834a740f4b691e57ea197c795\", \"databaseId\": null, \"standardId\": \"2741b2d6ba6147bdb964a84697e2e3d8\", \"standardCode\": \"GB 50034—2013\", \"standardName\": \"建筑照明设计标准\", \"standardEnName\": \"Standard for lighting design of buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.13\", \"cnName\": \"一般照明\", \"enName\": \"general lighting\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37296, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般照明\", \"cnNameSearch\": \"一般照明\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general lighting\", \"wordSearch\": \"general lighting\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为照亮整个场所而设置的均匀照明。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b933285be54c4b74895ec0f2ce3debc5\", \"databaseId\": null, \"standardId\": \"3c941515b7424b2eaa71ca354720ff8c\", \"standardCode\": \"GB 51039—2014\", \"standardName\": \"综合医院建筑设计规范\", \"standardEnName\": \"Code for design of general hospital\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"综合医院\", \"enName\": \"general hospital\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65777, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"综合医院\", \"cnNameSearch\": \"综合医院\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general hospital\", \"wordSearch\": \"general hospital\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"有一定数量的病床，分设内科、外科、妇科、儿科、眼科、耳鼻喉科等各种科室及药剂、检验、放射等医技部门，拥有相应人员、设备的医院。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"42203d4c67244f03a94f3c7091c0fcc1\", \"databaseId\": null, \"standardId\": \"43ea8e9f3e3749ddae1e139d12c2f4ee\", \"standardCode\": \"GB 51008—2016\", \"standardName\": \"高耸与复杂钢结构检测与鉴定标准\", \"standardEnName\": \"Standard for inspection and appraisal of high-rise and complicated steel structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.7 \", \"cnName\": \"一般焊缝\", \"enName\": \"general weld\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 72366, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般焊缝\", \"cnNameSearch\": \"一般焊缝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general weld\", \"wordSearch\": \"general weld\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"破坏后会造成构件或节点损伤但不导致构件或节点破坏的焊缝。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d18b940971024c1ba54aeef0fb66ba20\", \"databaseId\": null, \"standardId\": \"44cc8dd191504a97b8cdd5faef04357d\", \"standardCode\": \"GB/T 51027—2014\", \"standardName\": \"石油化工企业总图制图标准\", \"standardEnName\": \"Standard for general layout drawings of petrochemical enterprises\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"总平面布置\", \"enName\": \"general layout\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 72972, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总平面布置\", \"cnNameSearch\": \"总平面布置\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general layout\", \"wordSearch\": \"general layout\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在既定厂址和工业企业总体规划的基础上，根据生产、使用、安全、卫生等要求，综合利用环境条件，合理地确定场地上所有建筑物、构筑物、设备、交通运输线路、工程管线、绿化和美化等的平面位置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cedcb940e5ed420bbb69d028f21b709c\", \"databaseId\": null, \"standardId\": \"4ad2a597772144b681d3d5b44a059b5f\", \"standardCode\": \"GB 51036—2014\", \"standardName\": \"有色金属矿山井巷工程质量验收规范\", \"standardEnName\": \"Code for underground opening acceptance of non-ferrous metal mines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"一般巷道\", \"enName\": \"general roadway\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 77683, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般巷道\", \"cnNameSearch\": \"一般巷道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general roadway\", \"wordSearch\": \"general roadway\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除主平、有提升设施的斜井、斜坡道、井底车场巷道、主要运输巷道、主回风巷道外，使用功能一般、服务年限不长的巷道。如采场工程和回风巷道、人行通道等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"55e3671e8c494a07bfa695bcd5d9ef8f\", \"databaseId\": null, \"standardId\": \"58e79d49ec7e4e36be442c2f03b2ff69\", \"standardCode\": \"GB 50175—2014\", \"standardName\": \"露天煤矿工程质量验收规范\", \"standardEnName\": \"Code for acceptance of surface coal mine engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.10\", \"cnName\": \"一般项目\", \"enName\": \"general item\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 91058, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般项目\", \"cnNameSearch\": \"一般项目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general item\", \"wordSearch\": \"general item\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除主控项目以外的项目。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca6b252229f548c08ec8508f35a9713d\", \"databaseId\": null, \"standardId\": \"5d1b40fab7ee4d4eaa4bef32c82505f9\", \"standardCode\": \"GB/T 51317—2019\", \"standardName\": \"石油天然气工程施工质量验收统一标准\", \"standardEnName\": \"Unified standard for construction quality acceptanceof petroleum and natural gas construction engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.10\", \"cnName\": \"一般项目\", \"enName\": \"general item\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93928, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一般项目\", \"cnNameSearch\": \"一般项目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general item\", \"wordSearch\": \"general item\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除主控项目以外的检验项目。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e05be7b6e9a4195baa6744b2ac7fe29\", \"databaseId\": null, \"standardId\": \"7355a1025144479980ba8909abc405ef\", \"standardCode\": \"GB 51016—2014\", \"standardName\": \"非煤露天矿边坡工程技术规范\", \"standardEnName\": \"Technical code for non-coal open-pit mine slope engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"总体边坡\", \"enName\": \"general slope\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 116268, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总体边坡\", \"cnNameSearch\": \"总体边坡\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general slope\", \"wordSearch\": \"general slope\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最上靠帮边坡坡顶线和最下靠帮边坡坡底线之间的所有靠帮台阶坡构成露天矿的最终边坡整体。所对应的边坡角为总体边坡角。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9d4c427a44e149d0832d83cecad61c56\", \"databaseId\": null, \"standardId\": \"76bc588fb2b748d7bcdb54ed3e4f2b41\", \"standardCode\": \"GB 50229—2019\", \"standardName\": \"火力发电厂与变电站设计防火标准\", \"standardEnName\": \"Standard for design of fire protection for fossil fuel power plants and substations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.8\", \"cnName\": \"一股材料库\", \"enName\": \"general warehouse\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 120443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"一股材料库\", \"cnNameSearch\": \"一股材料库\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"general warehouse\", \"wordSearch\": \"general warehouse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"存放精密仪器、钢材、一般器材的库房，包括一般器材库、精密器材库、钢材库及辅助用房等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 12}}, \"timestamp\": 1793163641681}"
+}

@@ -1,0 +1,82 @@
+{
+ "key": "posterior analytics",
+ "term": "Posterior Analytics",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:02:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=10",
+ "hits": [
+  {
+   "cn": "分析",
+   "en": "analytics",
+   "code": "GB/T 43045.1—2023",
+   "standard": "信息技术服务 智能客户服务 第1部分：通用要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "后方",
+   "en": "posterior",
+   "code": "GB/T 13734—2008",
+   "standard": "耳穴名称与定位",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "NILM分解",
+   "en": "NILM analytics",
+   "code": "GB/Z 43973—2024",
+   "standard": "非介入式负荷监测（NILM）系统用感知装置",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "数字分析",
+   "en": "digital analytics",
+   "code": "GB/T 43428—2023",
+   "standard": "市场、民意和社会调查中数字分析与网络分析 术语和服务要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "预测分析",
+   "en": "predictive analytics",
+   "code": "GB/T 41778—2022",
+   "standard": "信息技术 工业大数据 术语 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "后牙",
+   "en": "posterior teeth",
+   "code": "GB/T 9937—2020",
+   "standard": "牙科学 名词术语",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "前与后",
+   "en": "anterior and posterior",
+   "code": "GB/T 41626—2022",
+   "standard": "动物穴名称与定位 马属动物 ",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "总后矢高",
+   "en": "overall posterior sagitta",
+   "code": "GB/T 26397—2011",
+   "standard": "眼科光学  术语",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "云数据可视分析",
+   "en": "cloud data visual analytics",
+   "code": "GB/T 29826—2013",
+   "standard": "云制造 术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "后侧弹性踝足矫形器",
+   "en": "posterior leaf spring ankle-foot orthesis",
+   "code": "GB/T 42772—2023",
+   "standard": "脑卒中踝足矫形器应用指南",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 3, \"2022\": 2, \"2020\": 1, \"2013\": 1, \"2011\": 1, \"2008\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"医药卫生技术\": 5, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 10}, \"totalRecords\": 10, \"tmWordList\": [{\"id\": \"b85456f819884a029dabbba13be0c6b8\", \"databaseId\": null, \"standardId\": \"018881da09544d9f90c0470e23fc2ac8\", \"standardCode\": \"GB/T 43045.1—2023\", \"standardName\": \"信息技术服务 智能客户服务 第1部分：通用要求\", \"standardEnName\": \"Information technology service—Intelligent customer service—Part 1: General requirement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.13\", \"cnName\": \"分析\", \"enName\": \"analytics\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"35.080\", \"ccs\": \"L 77\", \"parentTermId\": null, \"titleId\": null, \"oid\": 870, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分析\", \"cnNameSearch\": \"分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"analytics\", \"wordSearch\": \"analytics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据信息合成知识的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 35295—2017\", \"sourceCode\": \"2.1.48\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c07e1917751540ebb51990349661baff\", \"databaseId\": null, \"standardId\": \"af37e9c6058a475c888705d1b82cb1dc\", \"standardCode\": \"GB/T 13734—2008\", \"standardName\": \"耳穴名称与定位\", \"standardEnName\": \"Nomenclature and location of auricular points\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.1.4\", \"cnName\": \"后方\", \"enName\": \"posterior\", \"publishTime\": \"2008-04-23\", \"publishYear\": \"2008\", \"implementTime\": \"2008-07-01\", \"ics\": \"11.020\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 180700, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后方\", \"cnNameSearch\": \"后方\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"posterior\", \"wordSearch\": \"posterior\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"耳郭近乳突的一侧,见图A.1,图A.2。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"589e0bf413af43aebcb0607d909d1c61\", \"databaseId\": null, \"standardId\": \"eb0899fd749c42aab8f6b87ef09dce6e\", \"standardCode\": \"GB/Z 43973—2024\", \"standardName\": \"非介入式负荷监测（NILM）系统用感知装置\", \"standardEnName\": \"Sensing devices for non-intrusive load monitoring (NILM) systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.6\", \"cnName\": \"NILM分解\", \"enName\": \"NILM analytics\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"ICS 17.220.20\", \"ccs\": \"CCS N 29\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230235, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"NILM分解\", \"cnNameSearch\": \"NILM分解\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"NILM analytics\", \"wordSearch\": \"NILM analytics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"分析NILM感知装置产生的数据并提供有关用电情况信息的过程。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>NILM分解能在NILM感知装置中和/或云端执行。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8058247d59e1451b88ea5f8b04aab58f\", \"databaseId\": null, \"standardId\": \"3ac8801c929143eeba32d2aa714f94d3\", \"standardCode\": \"GB/T 43428—2023\", \"standardName\": \"市场、民意和社会调查中数字分析与网络分析 术语和服务要求\", \"standardEnName\": \"Digital analytics and web analyses for purposes of market, opinion and social research—Vocabulary and service requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.16\", \"cnName\": \"数字分析\", \"enName\": \"digital analytics\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-28\", \"ics\": \"03.100.20\", \"ccs\": \"A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 63408, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数字分析\", \"cnNameSearch\": \"数字分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"digital analytics\", \"wordSearch\": \"digital analytics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以测量和了解人群及其行为为目的的电子数据的收集、分析和报告。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 26316—2023\", \"sourceCode\": \"3.33\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"547b27362d3547a1ba510971144bd690\", \"databaseId\": null, \"standardId\": \"c0e9c19fb9c74931b948909d5f21d069\", \"standardCode\": \"GB/T 41778—2022\", \"standardName\": \"信息技术 工业大数据 术语 \", \"standardEnName\": \"Information technology—Industrial big data—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.37\", \"cnName\": \"预测分析\", \"enName\": \"predictive analytics\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 35.020 :01.040.35\", \"ccs\": \"CCS L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194038, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"预测分析\", \"cnNameSearch\": \"预测分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"predictive analytics\", \"wordSearch\": \"predictive analytics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种统计或数据挖掘解决方案，包含可在结构化和非结构化数据中使用以确定未来结果的算法和技术。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>典型的工业相关的预测分析包括设备健康管理、产品维修预测和加工工艺优化等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bab689262cd5415580c2285798ceafb0\", \"databaseId\": null, \"standardId\": \"769f542c364e4423b31bc8ac4f58dc12\", \"standardCode\": \"GB/T 9937—2020\", \"standardName\": \"牙科学 名词术语\", \"standardEnName\": \"Dentistry—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"2.247\", \"cnName\": \"后牙\", \"enName\": \"posterior teeth\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"11.060.10\", \"ccs\": \"C 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 120362, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后牙\", \"cnNameSearch\": \"后牙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"posterior teeth\", \"wordSearch\": \"posterior teeth\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"上下颌磨牙及前磨牙。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"abdb390448514da48e38606759c21ccc\", \"databaseId\": null, \"standardId\": \"f7ed3e3fef514a6886e5176843edb1e2\", \"standardCode\": \"GB/T 41626—2022\", \"standardName\": \"动物穴名称与定位 马属动物 \", \"standardEnName\": \"Nomenclature and location of acupuncture points—Equus\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.2.2\", \"cnName\": \"前与后\", \"enName\": \"anterior and posterior\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 11.220\", \"ccs\": \"CCS B 41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 242606, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"前与后\", \"cnNameSearch\": \"前与后\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anterior and posterior\", \"wordSearch\": \"anterior and posterior\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"相对于动物标准体位某参照点所在冠状画，趋向头侧的为前，趋向尾侧的为后。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5e7b2d86442f4436a495cad126f103b1\", \"databaseId\": null, \"standardId\": \"fea4b09b3c054aaca7b79ae0e4438a65\", \"standardCode\": \"GB/T 26397—2011\", \"standardName\": \"眼科光学  术语\", \"standardEnName\": \"Ophthalmic optics - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.18.6.1\", \"cnName\": \"总后矢高\", \"enName\": \"overall posterior sagitta\", \"publishTime\": \"2011-05-12\", \"publishYear\": \"2011\", \"implementTime\": \"2011-09-15\", \"ics\": \"11.040.70\", \"ccs\": \"Y89\", \"parentTermId\": null, \"titleId\": null, \"oid\": 246721, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"总后矢高\", \"cnNameSearch\": \"总后矢高\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"overall posterior sagitta\", \"wordSearch\": \"overall posterior sagitta\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"沿着接触镜轴从后顶点到接触镜边缘所在平面的距离。见图 23。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f7f0a6428ca147409dcc0a9b91a98134\", \"databaseId\": null, \"standardId\": \"90951e6e4d8a4336b5c5e2cf693c1569\", \"standardCode\": \"GB/T 29826—2013\", \"standardName\": \"云制造 术语\", \"standardEnName\": \"Cloud manufacturing - Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.8.7\", \"cnName\": \"云数据可视分析\", \"enName\": \"cloud data visual analytics\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-03-15\", \"ics\": \"35.240.503\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153090, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"云数据可视分析\", \"cnNameSearch\": \"云数据可视分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cloud data visual analytics\", \"wordSearch\": \"cloud data visual analytics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"对于云制造中的数据，综合利用信息可视化、人机交互、数据挖掘和统计分析等理论技术，辅助用户从海量数据集合中发现潜在的规律和知识，辅助各类云制造用户的科学高效决策。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"eb0fbe9c1af242248e1b421abbcbde91\", \"databaseId\": null, \"standardId\": \"949d368296c945f7b318dc5cac34742e\", \"standardCode\": \"GB/T 42772—2023\", \"standardName\": \"脑卒中踝足矫形器应用指南\", \"standardEnName\": \"Application guidelines for ankle foot orthoses of patients after stroke\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.13\", \"cnName\": \"后侧弹性踝足矫形器\", \"enName\": \"posterior leaf spring ankle-foot orthesis\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"11.180\", \"ccs\": \"C 45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157234, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"后侧弹性踝足矫形器\", \"cnNameSearch\": \"后侧弹性踝足矫形器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"posterior leaf spring ankle-foot orthesis\", \"wordSearch\": \"posterior leaf spring ankle-foot orthesis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"踝部较窄，且具有较大回弹性的踝足装置。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793163726722}"
+}

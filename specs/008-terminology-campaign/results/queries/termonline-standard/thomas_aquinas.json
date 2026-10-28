@@ -1,0 +1,26 @@
+{
+ "key": "thomas aquinas",
+ "term": "Thomas Aquinas",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:02:38+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "托马斯型回旋加速器",
+   "en": "Thomas cyclotron",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "扇形聚焦",
+   "en": "sector focusing",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 2}, \"sourceStats\": {\"能源和热传导工程\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"4fb2c217f7f045febd45db9b2688a98d\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2.5\", \"cnName\": \"托马斯型回旋加速器\", \"enName\": \"Thomas cyclotron\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10842, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"托马斯型回旋加速器\", \"cnNameSearch\": \"托马斯型回旋加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Thomas cyclotron\", \"wordSearch\": \"Thomas cyclotron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"采用直边扇形磁极垫片产生磁场的方位角调变的扇形聚焦回旋加速器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"12062aa29c5e4b9581d02cd0f7f84fb9\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.3.5\", \"cnName\": \"扇形聚焦\", \"enName\": \"sector focusing\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10965, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扇形聚焦\", \"cnNameSearch\": \"扇形聚焦\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sector focusing\", \"wordSearch\": \"sector focusing\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"托马斯聚焦\", \"cnNameSearch\": \"托马斯聚焦\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"Thomas focusing\", \"wordSearch\": \"Thomas focusing\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用扇形磁极结构产生沿方位角调变的磁场提供轴向聚焦力的聚焦方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793163756716}"
+}

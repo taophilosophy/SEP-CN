@@ -1,0 +1,19 @@
+{
+ "key": "moral judgments",
+ "term": "moral judgments",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:01:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2009\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793163681717}"
+}

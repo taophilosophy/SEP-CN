@@ -1,0 +1,152 @@
+{
+ "key": "moral status",
+ "term": "moral status",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:01:28+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=85",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "状态",
+   "en": "status",
+   "code": "GB/T 26803.3—2011",
+   "standard": "工业控制计算机系统  总线  第3部分：系统外部总线  并行接口通用技术条件",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "状态监测",
+   "en": "status monitoring",
+   "code": "GB/T 43972—2024",
+   "standard": "集成电路封装设备远程运维 状态监测",
+   "subject": "电子学"
+  },
+  {
+   "cn": "状态指示器",
+   "en": "status indicator",
+   "code": "GB/T 32234.2—2023",
+   "standard": "个人浮力设备 第2部分:救生衣性能等级275 安全要求",
+   "subject": "造船和海上构筑物"
+  },
+  {
+   "cn": "静默状态",
+   "en": "silent status",
+   "code": "GB/T 42979—2023",
+   "standard": "全球卫星导航系统（GNSS）位置报告/短报文型终端性能要求及测试方法",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "状态信息",
+   "en": "status information",
+   "code": "GB/T 42707.1—2023",
+   "standard": "数控机床远程运维 第1部分：通用要求",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "状态类型",
+   "en": "status type",
+   "code": "GB/T 42330—2023",
+   "standard": "大洋样品管理分类代码",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "濒死状态",
+   "en": "moribund status",
+   "code": "GB/T 21606—2022",
+   "standard": "化学品 急性经皮毒性试验方法",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "翻新状态",
+   "en": "refurbishment status",
+   "code": "GB/T 42213—2022",
+   "standard": "空间有效载荷再飞要求",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "原状态",
+   "en": "original status",
+   "code": "GB/T 42213—2022",
+   "standard": "空间有效载荷再飞要求",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "改造状态",
+   "en": "improvement status",
+   "code": "GB/T 42213—2022",
+   "standard": "空间有效载荷再飞要求",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "状态数据",
+   "en": "status data",
+   "code": "GB/T 41724—2022",
+   "standard": "云制造服务平台边缘智能网关架构 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "中继状态",
+   "en": "relay status",
+   "code": "GB/T 42092—2022",
+   "standard": "笔译、口译及相关技术 词汇 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "标准状态",
+   "en": "standard status",
+   "code": "GB/T 1805—2021",
+   "standard": "弹簧 术语 ",
+   "subject": "机械系统和通用件"
+  },
+  {
+   "cn": "状态码",
+   "en": "status code",
+   "code": "GB/T 25386.1—2021",
+   "standard": "风力发电机组 控制系统第1部分:技术条件",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "数据状态",
+   "en": "data status",
+   "code": "GB/T 38436—2019",
+   "standard": "输变电工程数据移交规范",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "屈光状态",
+   "en": "refractive status",
+   "code": "GB/T 38120—2019",
+   "standard": "蓝光防护膜的光健康与光安全应用技术要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "安全状态",
+   "en": "secure status",
+   "code": "GB/T 21412.7—2018",
+   "standard": "石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "标准状态",
+   "en": "standard status",
+   "code": "GB/T 13061—2017",
+   "standard": "商用车空气悬架用空气弹簧技术规范",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "数据状态",
+   "en": "data status",
+   "code": "GB/T 32575—2016",
+   "standard": "发电工程数据移交 ",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 12, \"2022\": 10, \"2021\": 7, \"2020\": 8, \"2019\": 3, \"2018\": 1, \"2017\": 2, \"2016\": 6, \"2015\": 4, \"2014\": 1, \"2012\": 10, \"2011\": 7, \"2009\": 5, \"2008\": 3, \"2005\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"铁路工程\": 1, \"道路车辆工程\": 5, \"造船和海上构筑物\": 4, \"货物的包装和调运\": 1, \"试验\": 1, \"航空器和航天器工程\": 4, \"能源和热传导工程\": 3, \"综合、术语学、标准化、文献\": 5, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 1, \"电气工程\": 5, \"电子学\": 1, \"电信、音频和视频工程\": 3, \"环保、保健和安全\": 6, \"材料储运设备\": 2, \"机械系统和通用件\": 1, \"机械制造\": 7, \"数学、自然科学\": 1, \"建筑材料和建筑物\": 1, \"医药卫生技术\": 1, \"农业\": 2, \"其它\": 12, \"信息技术、办公机械\": 14}, \"typeStats\": {\"7\": 85}, \"totalRecords\": 85, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0ab5e16d023c4031a4ec16a8573612ef\", \"databaseId\": null, \"standardId\": \"baf44d3f982045c0a208278b8a7ffd8a\", \"standardCode\": \"GB/T 26803.3—2011\", \"standardName\": \"工业控制计算机系统  总线  第3部分：系统外部总线  并行接口通用技术条件\", \"standardEnName\": \"Industrial control computer system - Bus - Part 3: System external bus - General specification for parallel interface\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.23\", \"cnName\": \"状态\", \"enName\": \"status\", \"publishTime\": \"2011-07-29\", \"publishYear\": \"2011\", \"implementTime\": \"2011-12-01\", \"ics\": \"25.040.40\", \"ccs\": \"N18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189783, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status\", \"wordSearch\": \"status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"描述由外设发出的反映外设当前操作状态的数据。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"934d96f52f4549ac9f7b6daf5289b7a7\", \"databaseId\": null, \"standardId\": \"d5c62abaad9545a4a1d6cda7a275b1e0\", \"standardCode\": \"GB/T 43972—2024\", \"standardName\": \"集成电路封装设备远程运维 状态监测\", \"standardEnName\": \"Remote operation and maintenance of integrated circuit packaging equipment—Status monitoring\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.2\", \"cnName\": \"状态监测\", \"enName\": \"status monitoring\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"31.260\", \"ccs\": \"L97\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211503, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态监测\", \"cnNameSearch\": \"状态监测\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status monitoring\", \"wordSearch\": \"status monitoring\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"通过监视、分析和判别监测对象的某些特征参数，来检查其工作状态是正常或异常，对异常状态及时做出预警或报警，发布可视化监测结果，并为进一步的故障识别等提供信息的过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"89a32808fca64e94995cf7349e805597\", \"databaseId\": null, \"standardId\": \"7a30db5b580442aa8d3913314d178751\", \"standardCode\": \"GB/T 32234.2—2023\", \"standardName\": \"个人浮力设备 第2部分:救生衣性能等级275 安全要求\", \"standardEnName\": \"Personal flotation devices Part 2 :Lifejackets, performance level 275-Safety requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.24\", \"cnName\": \"状态指示器\", \"enName\": \"status indicator\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"47.020.50\", \"ccs\": \"U 27\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126029, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态指示器\", \"cnNameSearch\": \"状态指示器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status indicator\", \"wordSearch\": \"status indicator\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"气胀系统上，为使用者提供反馈以帮助将气胀式PFD保持在已装好且准备就绪的状态的一个或多个部件。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ac98799ac2f4ae0a569edad95bc7c9c\", \"databaseId\": null, \"standardId\": \"7d09c352061c4a5da8b8465d07f57dc1\", \"standardCode\": \"GB/T 42979—2023\", \"standardName\": \"全球卫星导航系统（GNSS）位置报告/短报文型终端性能要求及测试方法\", \"standardEnName\": \"Performance requirements and test methods for position report/short message terminal of Global Navigation Satellite System（GNSS）\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.3\", \"cnName\": \"静默状态\", \"enName\": \"silent status\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 133249, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"静默状态\", \"cnNameSearch\": \"静默状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"silent status\", \"wordSearch\": \"silent status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用户终端响应静默状态设置指令，不发送北斗RDSS入站信号、只接收信号的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"74c371cab94e4979800737dae42a32ed\", \"databaseId\": null, \"standardId\": \"bf71e20e47d8479da1cddc9e7053724d\", \"standardCode\": \"GB/T 42707.1—2023\", \"standardName\": \"数控机床远程运维 第1部分：通用要求\", \"standardEnName\": \"Remote operation and maintenance of computer numerical control (CNC) machine tools—Part 1: General requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.2\", \"cnName\": \"状态信息\", \"enName\": \"status information\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"29.020\", \"ccs\": \"K 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193291, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态信息\", \"cnNameSearch\": \"状态信息\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status information\", \"wordSearch\": \"status information\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"反映数控机床状态属性的各种信息及数据。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b066598781cd4f9aa35cfe78425189b1\", \"databaseId\": null, \"standardId\": \"dd4736e10e9f44b59dc50835faea9239\", \"standardCode\": \"GB/T 42330—2023\", \"standardName\": \"大洋样品管理分类代码\", \"standardEnName\": \"Classification code of ocean sample management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.2\", \"cnName\": \"状态类型\", \"enName\": \"status type\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"07.06007\", \"ccs\": \"A 45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216815, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态类型\", \"cnNameSearch\": \"状态类型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status type\", \"wordSearch\": \"status type\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"样品分割、切割后形态的完整程度，及样品处理加工所制备的用于分析测试或观察研究试样的种类。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f8bcab664ab411581b2fc3dbcd37afe\", \"databaseId\": null, \"standardId\": \"1dbd6687d7c04d2384c8d95f67da84ce\", \"standardCode\": \"GB/T 21606—2022\", \"standardName\": \"化学品 急性经皮毒性试验方法\", \"standardEnName\": \"Chemicals-Test method of acute dermal toxicity\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1.6\", \"cnName\": \"濒死状态\", \"enName\": \"moribund status\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"13.300\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 28315, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"濒死状态\", \"cnNameSearch\": \"濒死状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moribund status\", \"wordSearch\": \"moribund status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在即使给予治疗的情况下，动物仍然即将死亡或无法存活的状态。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>详见人道终点指南文件 No.19。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bdf0cb57bc8d456db59ae94c8f20e0ca\", \"databaseId\": null, \"standardId\": \"1fbff81ea7bc42fe9ac6990f34996f6b\", \"standardCode\": \"GB/T 42213—2022\", \"standardName\": \"空间有效载荷再飞要求\", \"standardEnName\": \"Requirements for space payloads re—flight\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.4\", \"cnName\": \"翻新状态\", \"enName\": \"refurbishment status\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30091, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"翻新状态\", \"cnNameSearch\": \"翻新状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"refurbishment status\", \"wordSearch\": \"refurbishment status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对再飞载荷进行更改，替换寿命有限件的技术状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed00940741dd4736815aa61263c44a77\", \"databaseId\": null, \"standardId\": \"1fbff81ea7bc42fe9ac6990f34996f6b\", \"standardCode\": \"GB/T 42213—2022\", \"standardName\": \"空间有效载荷再飞要求\", \"standardEnName\": \"Requirements for space payloads re—flight\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.3\", \"cnName\": \"原状态\", \"enName\": \"original status\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30093, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"原状态\", \"cnNameSearch\": \"原状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"original status\", \"wordSearch\": \"original status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对再飞载荷不做任何功能和性能、结构、材料、接口等设计更改，维持原有效载荷技术状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"22c49be532bb438d8be31ceafb8c5823\", \"databaseId\": null, \"standardId\": \"1fbff81ea7bc42fe9ac6990f34996f6b\", \"standardCode\": \"GB/T 42213—2022\", \"standardName\": \"空间有效载荷再飞要求\", \"standardEnName\": \"Requirements for space payloads re—flight\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.5\", \"cnName\": \"改造状态\", \"enName\": \"improvement status\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V 71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 30094, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"改造状态\", \"cnNameSearch\": \"改造状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"improvement status\", \"wordSearch\": \"improvement status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"再飞载荷的主要功能和性能不变，对有效载荷部分次要功能和性能进行优化设计或增删的技术状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"40b6f73bee2048798852ff8c1039c395\", \"databaseId\": null, \"standardId\": \"7b0a5661814d4dc9aeacf23d897bef85\", \"standardCode\": \"GB/T 41724—2022\", \"standardName\": \"云制造服务平台边缘智能网关架构 \", \"standardEnName\": \"Edge intelligence gateway architecture of cloud manufacturing service platform\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.1.8\", \"cnName\": \"状态数据\", \"enName\": \"status data\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2023-05-01\", \"ics\": \"ICS 35.240.50\", \"ccs\": \"CCS J 07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 130727, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态数据\", \"cnNameSearch\": \"状态数据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status data\", \"wordSearch\": \"status data\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"描述在某一时间范围内，设备发生、发展过程中所得信息的载体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4494ea96b3bf40e0b3bd55b7b80e8700\", \"databaseId\": null, \"standardId\": \"de79e6d4261c403d9e8af157d7273cc3\", \"standardCode\": \"GB/T 42092—2022\", \"standardName\": \"笔译、口译及相关技术 词汇 \", \"standardEnName\": \"Translation , interpreting and related technology—Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.5.2.33\", \"cnName\": \"中继状态\", \"enName\": \"relay status\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 03.080.99 ; 35.240.30\", \"ccs\": \"CCS A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218008, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中继状态\", \"cnNameSearch\": \"中继状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"relay status\", \"wordSearch\": \"relay status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"口译员控制台传入频道的来源的指示。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>该来源可以是源声（3.5.2.34）、直接口译（3.1.10）、接续传译（3.4.14）或双接续传译。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"79a539f4363d4d908dd224b631d7d396\", \"databaseId\": null, \"standardId\": \"2f5f226c900c4a2d9f896825bf6a320a\", \"standardCode\": \"GB/T 1805—2021\", \"standardName\": \"弹簧 术语 \", \"standardEnName\": \"Spring Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械系统和通用件\", \"termCode\": \"7.106\", \"cnName\": \"标准状态\", \"enName\": \"standard status\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"21.160\", \"ccs\": \"J 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 50424, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标准状态\", \"cnNameSearch\": \"标准状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"standard status\", \"wordSearch\": \"standard status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"空气弹簧在标准高度、标准内压时的工作状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8cdf36ba14dd498492efc9486a191f2c\", \"databaseId\": null, \"standardId\": \"652a6235a2834450ab64ec6a73ef5abe\", \"standardCode\": \"GB/T 25386.1—2021\", \"standardName\": \"风力发电机组 控制系统第1部分:技术条件\", \"standardEnName\": \"Wind turbines—Control system—Part 1:Technical condition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.12\", \"cnName\": \"状态码\", \"enName\": \"status code\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"ICS 27.180\", \"ccs\": \"F 11\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100634, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态码\", \"cnNameSearch\": \"状态码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"status code\", \"wordSearch\": \"status code\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于描述机组状态而定义的数据结构。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"注：状态码的属性中包括使能标志、停机等级、偏航等级等，根据状态码中的属性，执行停机、偏航等行为。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db18ce7f4dd740d5b9530e9b5cf42f83\", \"databaseId\": null, \"standardId\": \"276d4520ef024820a277a3d15004609a\", \"standardCode\": \"GB/T 38436—2019\", \"standardName\": \"输变电工程数据移交规范\", \"standardEnName\": \"Engineering data handover specification for power transmission and transformation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.16\", \"cnName\": \"数据状态\", \"enName\": \"data status\", \"publishTime\": \"2019-12-31\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"29.240.2029\", \"ccs\": \"F29\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37420, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数据状态\", \"cnNameSearch\": \"数据状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"data status\", \"wordSearch\": \"data status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"数据所处情况或状况标识。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T32575—2016\", \"sourceCode\": \"3.10\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00d9fbe0d5a9475c86200356dee86b66\", \"databaseId\": null, \"standardId\": \"297d006afaa14f51af3afb4077bdf80c\", \"standardCode\": \"GB/T 38120—2019\", \"standardName\": \"蓝光防护膜的光健康与光安全应用技术要求\", \"standardEnName\": \"Technical requirements on application of light health and light safety of coating for protection against blue light\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.1.2\", \"cnName\": \"屈光状态\", \"enName\": \"refractive status\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"13.340.9913\", \"ccs\": \"C71\", \"parentTermId\": null, \"titleId\": null, \"oid\": 39531, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"屈光状态\", \"cnNameSearch\": \"屈光状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"refractive status\", \"wordSearch\": \"refractive status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"被检眼的屈光情况，也即无穷远处的物体在视网膜上的成像情况。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>对眼屈光状态的检查称为验光。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"19ae25dfec2a4ab2b7bf24afcbe01c59\", \"databaseId\": null, \"standardId\": \"32414ed15c5147159b31044ae7d229e6\", \"standardCode\": \"GB/T 21412.7—2018\", \"standardName\": \"石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统\", \"standardEnName\": \"Petroleum and natural gas industries-Design and operation of subsea production systems-Part 7: Completion/workover riser systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.116\", \"cnName\": \"安全状态\", \"enName\": \"secure status\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54970, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"安全状态\", \"cnNameSearch\": \"安全状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"secure status\", \"wordSearch\": \"secure status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在油气藏和环境之间建立的两个独立屏障。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a5863876e9d041f9911fdd4227add94c\", \"databaseId\": null, \"standardId\": \"cb2741e57d3f4279a9a541014f6b0533\", \"standardCode\": \"GB/T 13061—2017\", \"standardName\": \"商用车空气悬架用空气弹簧技术规范\", \"standardEnName\": \"Technical specification of air spring used for air suspension of commercial vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.6\", \"cnName\": \"标准状态\", \"enName\": \"standard status\", \"publishTime\": \"2017-10-14\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"43.080\", \"ccs\": \"T 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 204354, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标准状态\", \"cnNameSearch\": \"标准状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"standard status\", \"wordSearch\": \"standard status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"空气弹簧在标准高度、标准内压时的工作状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6ba614a065e94185bf4fa4073785068d\", \"databaseId\": null, \"standardId\": \"3eae9d5bc58343398280e275c291c048\", \"standardCode\": \"GB/T 32575—2016\", \"standardName\": \"发电工程数据移交 \", \"standardEnName\": \"Engineering data handover for power plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.10\", \"cnName\": \"数据状态\", \"enName\": \"data status\", \"publishTime\": \"2016-04-25\", \"publishYear\": \"2016\", \"implementTime\": \"2016-11-01\", \"ics\": \"ICS 27.100\", \"ccs\": \"F 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67269, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数据状态\", \"cnNameSearch\": \"数据状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"data status\", \"wordSearch\": \"data status\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"数据所处的情况或状况标识。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一份图纸经审查后授权方可能将其改为\\\"用于施工”，而到工程结束时将被更新为“峻工图”。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 5}}, \"timestamp\": 1793163686717}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "anti-realism",
+ "term": "anti-realism",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T05:00:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=313",
+ "hits": [
+  {
+   "cn": "抗混登滤波器",
+   "en": "anti-aliasingfilter",
+   "code": "GB/T 51306—2018",
+   "standard": "工程振动术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防爬器",
+   "en": "anti-creeper",
+   "code": "GB/T 50262—2013",
+   "standard": "铁路工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "剪力齿槽",
+   "en": "anti-sheargroove",
+   "code": "GB/T 50262—2013",
+   "standard": "铁路工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防孤岛",
+   "en": "Anti-slanding",
+   "code": "GB 50797—2012",
+   "standard": "光伏发电站设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "剪力齿槽",
+   "en": "anti-shearflute",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防爬器",
+   "en": "anti-creeper",
+   "code": "GB/T 50262—2024",
+   "standard": "铁路工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防撞梁",
+   "en": "anti-collisionbeam",
+   "code": "GB/T 51339—2018",
+   "standard": "非煤矿山采矿术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防冲墙",
+   "en": "anti-scourwall",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防冲槽",
+   "en": "anti-scourtrench",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防孤岛",
+   "en": "anti-islanding",
+   "code": "GB/T 50297—2018",
+   "standard": "电力工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防腐",
+   "en": "anti-corrosion",
+   "code": "GB/T 50155—2015",
+   "standard": "供暖通风与空气调节术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "抗菌整理",
+   "en": "anti-bacteriafinishing",
+   "code": "GB/T 50597—2019",
+   "standard": "纺织工程常用术语、计量单位及符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "雅盖材料流滴性",
+   "en": "anti-dropperformanceofcover",
+   "code": "GB/T 51461—2024",
+   "standard": "农业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "抗干扰",
+   "en": "anti-interference",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "抗吸湿性",
+   "en": "anti-moistureabsorption",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "无氧化加热炉",
+   "en": "anti-oxidationheater",
+   "code": "GB/T 51218—2017",
+   "standard": "机械工业工程设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "防孤岛",
+   "en": "anti-islanding",
+   "code": "GB/T 50866—2013",
+   "standard": "光伏发电站接入电力系统设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "防孤岛",
+   "en": "anti-islanding",
+   "code": "GB/T 19964—2024",
+   "standard": "光伏发电站接入电力系统技术规定 ",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "抗氧化性",
+   "en": "anti-oxidability",
+   "code": "GB/T 17732—2023",
+   "standard": "致密定形含碳耐火制品试验方法",
+   "subject": "玻璃和陶瓷工业"
+  },
+  {
+   "cn": "防冰",
+   "en": "anti-icing",
+   "code": "GB/T 42682—2023",
+   "standard": "船舶与海上技术  电加热梯踏步试验要求",
+   "subject": "造船和海上构筑物"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 4, \"2023\": 20, \"2022\": 3, \"2021\": 12, \"2020\": 16, \"2019\": 33, \"2018\": 24, \"2017\": 17, \"2016\": 20, \"2015\": 12, \"2014\": 5, \"2013\": 5, \"2012\": 13, \"2011\": 9, \"2010\": 5, \"2009\": 2, \"2008\": 49, \"2007\": 2, \"2005\": 2, \"2004\": 4, \"2003\": 7, \"2001\": 2, \"1998\": 1, \"1988\": 1, \"暂无年份\": 45}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 1, \"道路车辆工程\": 4, \"造船和海上构筑物\": 4, \"货物的包装和调运\": 7, \"计量学和测量、物理现象\": 2, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 14, \"综合、术语学、标准化、文献\": 15, \"纺织和皮革技术\": 11, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 4, \"石油及相关技术\": 20, \"电气工程\": 5, \"电子学\": 5, \"电信、音频和视频工程\": 3, \"玻璃和陶瓷工业\": 4, \"环保、保健和安全\": 63, \"涂料和颜料工业\": 5, \"流体系统和通用件\": 2, \"橡胶和塑料工业\": 13, \"材料储运设备\": 4, \"机械系统和通用件\": 2, \"机械制造\": 21, \"木材技术\": 4, \"服装工业\": 1, \"数学、自然科学\": 7, \"成像技术\": 1, \"建筑材料和建筑物\": 12, \"家用和商用设备、文娱、体育\": 3, \"土木工程\": 2, \"医药卫生技术\": 6, \"化工技术\": 9, \"农业\": 3, \"其它\": 48, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 313}, \"totalRecords\": 313, \"tmWordList\": [{\"id\": \"3204364031834d2fadd258d6050a7d93\", \"databaseId\": null, \"standardId\": \"134223fdf52d47f4bfbbd99003cfe562\", \"standardCode\": \"GB/T 51306—2018\", \"standardName\": \"工程振动术语和符号标准\", \"standardEnName\": \"Standard for terms and symbols of engineering vibration\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.1.10\", \"cnName\": \"抗混登滤波器\", \"enName\": \"anti-aliasingfilter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17617, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"抗混登滤波器\", \"cnNameSearch\": \"抗混登滤波器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-aliasingfilter\", \"wordSearch\": \"anti-aliasingfilter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止分析中出现频率混叠现象，滤除混叠频率分量的滤波器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"433705f8ff634330b7d8b7e080913103\", \"databaseId\": null, \"standardId\": \"2d48f702e69c4fcbb0452d9059aa417c\", \"standardCode\": \"GB/T 50262—2013\", \"standardName\": \"铁路工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.4.3\", \"cnName\": \"防爬器\", \"enName\": \"anti-creeper\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 47524, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防爬器\", \"cnNameSearch\": \"防爬器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-creeper\", \"wordSearch\": \"anti-creeper\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止钢轨行的轨道部件，包括穿销式防爬器和弹簧防爬器等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b388b98aa217495b8986821af6bb05f5\", \"databaseId\": null, \"standardId\": \"2d48f702e69c4fcbb0452d9059aa417c\", \"standardCode\": \"GB/T 50262—2013\", \"standardName\": \"铁路工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.19\", \"cnName\": \"剪力齿槽\", \"enName\": \"anti-sheargroove\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 48443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剪力齿槽\", \"cnNameSearch\": \"剪力齿槽\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-sheargroove\", \"wordSearch\": \"anti-sheargroove\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设在桥梁内固定支座上方，为CRTSII型板式无作轨道底座板提供纵向限位的机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"81d8fd40be024e588659a4d8498ddeec\", \"databaseId\": null, \"standardId\": \"671d412be336449c8b2d8c55be8cb8ea\", \"standardCode\": \"GB 50797—2012\", \"standardName\": \"光伏发电站设计规范\", \"standardEnName\": \"Code for design of photovoltaic power station\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.18\", \"cnName\": \"防孤岛\", \"enName\": \"Anti-slanding\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102063, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防孤岛\", \"cnNameSearch\": \"防孤岛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"Anti-slanding\", \"wordSearch\": \"Anti-slanding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止非计划性孤岛现象的发生。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6192395d85b2498cafd36df3773e0048\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.21\", \"cnName\": \"剪力齿槽\", \"enName\": \"anti-shearflute\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 105455, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"剪力齿槽\", \"cnNameSearch\": \"剪力齿槽\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-shearflute\", \"wordSearch\": \"anti-shearflute\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设在桥梁内固定支座上方，为CRTSI型板式无作轨道底座板提供纵向限位的机构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6983db4160c0478eba04bb6e0c3509a2\", \"databaseId\": null, \"standardId\": \"6a8733be263d49b6b046a6fc6ca32af7\", \"standardCode\": \"GB/T 50262—2024\", \"standardName\": \"铁路工程术语标准\", \"standardEnName\": \"Standard for terms of railway engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.4.3\", \"cnName\": \"防爬器\", \"enName\": \"anti-creeper\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 105739, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防爬器\", \"cnNameSearch\": \"防爬器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-creeper\", \"wordSearch\": \"anti-creeper\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止钢轨爬行的轨道部件，包括穿销式防爬器和弹簧防爬器等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"833af04ee41d4323ad4ce34d1a48856a\", \"databaseId\": null, \"standardId\": \"6c45b8b3d47c4dff9a417311f3dcd4b9\", \"standardCode\": \"GB/T 51339—2018\", \"standardName\": \"非煤矿山采矿术语标准\", \"standardEnName\": \"Standard of mining terms for non-coal mine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.9.7\", \"cnName\": \"防撞梁\", \"enName\": \"anti-collisionbeam\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 109618, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防撞梁\", \"cnNameSearch\": \"防撞梁\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-collisionbeam\", \"wordSearch\": \"anti-collisionbeam\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为防止过卷时容器碰撞天轮梁或坠入并底，设置在容器运行低位以下、高位以上的事故荷载承载钢梁。也称\\n挡罐梁。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9dc56820ffd447bdaa4d8416c66c086b\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.8.119\", \"cnName\": \"防冲墙\", \"enName\": \"anti-scourwall\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126372, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防冲墙\", \"cnNameSearch\": \"防冲墙\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-scourwall\", \"wordSearch\": \"anti-scourwall\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建在水闸上游护底前端或下游护坦末端地基内的竖向防冲刷建筑物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"425a20c56aa048eeaf1bcb8085efa063\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.8.118\", \"cnName\": \"防冲槽\", \"enName\": \"anti-scourtrench\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126809, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防冲槽\", \"cnNameSearch\": \"防冲槽\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-scourtrench\", \"wordSearch\": \"anti-scourtrench\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建在水闸或泄水建筑物海漫末端或上游护底前端、挖槽地石形成的防冲棱体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"49051da71e5544288c04a28a4537b308\", \"databaseId\": null, \"standardId\": \"7a87e705f0e9462cbb52b278e5dcf54e\", \"standardCode\": \"GB/T 50297—2018\", \"standardName\": \"电力工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of electric power engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.3.15\", \"cnName\": \"防孤岛\", \"enName\": \"anti-islanding\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 129196, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防孤岛\", \"cnNameSearch\": \"防孤岛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-islanding\", \"wordSearch\": \"anti-islanding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止非计划性孤岛现象的发生。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7073af120086432997e91898b3a83d8f\", \"databaseId\": null, \"standardId\": \"844d930962e348e391705ebd294ccf6f\", \"standardCode\": \"GB/T 50155—2015\", \"standardName\": \"供暖通风与空气调节术语标准\", \"standardEnName\": \"Standard for terminology of heating,ventilation and air conditioning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.1.20\", \"cnName\": \"防腐\", \"enName\": \"anti-corrosion\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 140045, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防腐\", \"cnNameSearch\": \"防腐\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-corrosion\", \"wordSearch\": \"anti-corrosion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为防止设备、管道及附件被所输送介质或周围环境所腐蚀而采取的必要保护措施，通常以防腐涂料为主，也可采用防腐蚀材料制作。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3d0c77ff0db04d4881bda602f1f9e73c\", \"databaseId\": null, \"standardId\": \"939a5d8de2b74acab78e144a0d78bd6c\", \"standardCode\": \"GB/T 50597—2019\", \"standardName\": \"纺织工程常用术语、计量单位及符号标准\", \"standardEnName\": \"Standard for terminology, measure units and symbols in textile engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"11.4.22\", \"cnName\": \"抗菌整理\", \"enName\": \"anti-bacteriafinishing\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155723, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"抗菌整理\", \"cnNameSearch\": \"抗菌整理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-bacteriafinishing\", \"wordSearch\": \"anti-bacteriafinishing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"赋予织物对病菌、真菌抑制或杀灭功能，达到保健效果的工艺。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4f9195f372394a2d8942b0d85e3cdff1\", \"databaseId\": null, \"standardId\": \"a04c8d0ca9f74bc3afe97abd3f2434fc\", \"standardCode\": \"GB/T 51461—2024\", \"standardName\": \"农业工程术语标准\", \"standardEnName\": \"Terminology for agricultural engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.33\", \"cnName\": \"雅盖材料流滴性\", \"enName\": \"anti-dropperformanceofcover\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 165264, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"雅盖材料流滴性\", \"cnNameSearch\": \"雅盖材料流滴性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-dropperformanceofcover\", \"wordSearch\": \"anti-dropperformanceofcover\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"透光覆盖材料将表面凝结水滴铺展成水膜状的能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"602d2d065b924ab5a692e60363c20d22\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"20.10.5\", \"cnName\": \"抗干扰\", \"enName\": \"anti-interference\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 174752, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"抗干扰\", \"cnNameSearch\": \"抗干扰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-interference\", \"wordSearch\": \"anti-interference\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"070f4860677a4242b13359d87140580f\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.2.34\", \"cnName\": \"抗吸湿性\", \"enName\": \"anti-moistureabsorption\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 175553, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"抗吸湿性\", \"cnNameSearch\": \"抗吸湿性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-moistureabsorption\", \"wordSearch\": \"anti-moistureabsorption\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"型砂抵抗吸收水分的能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"43d0adbdb4c2466fbe4b8289e9a5fa83\", \"databaseId\": null, \"standardId\": \"ab10ffcb228149bd954bbde383dad2be\", \"standardCode\": \"GB/T 51218—2017\", \"standardName\": \"机械工业工程设计基本术语标准\", \"standardEnName\": \"Standard for basic terminology of engineering design of machinery industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.3.29\", \"cnName\": \"无氧化加热炉\", \"enName\": \"anti-oxidationheater\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 176336, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无氧化加热炉\", \"cnNameSearch\": \"无氧化加热炉\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-oxidationheater\", \"wordSearch\": \"anti-oxidationheater\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"炉腔内具有情性保护气氛，可使坏料或锻件在加热过程中不氧化的炉子。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c512c298c9004043820d7c8a35a277bd\", \"databaseId\": null, \"standardId\": \"cf399e30b1a241cdbb220240ab5f52aa\", \"standardCode\": \"GB/T 50866—2013\", \"standardName\": \"光伏发电站接入电力系统设计规范\", \"standardEnName\": \"Design code for photovoltaic power station connecting to power system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.6\", \"cnName\": \"防孤岛\", \"enName\": \"anti-islanding\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207632, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防孤岛\", \"cnNameSearch\": \"防孤岛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-islanding\", \"wordSearch\": \"anti-islanding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止非计划性孤岛现象的发生。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d26f080929f84de492fa59fba63c3a78\", \"databaseId\": null, \"standardId\": \"08d3bbb169ac4099afef3024e5ffbcad\", \"standardCode\": \"GB/T 19964—2024\", \"standardName\": \"光伏发电站接入电力系统技术规定 \", \"standardEnName\": \"Technical requirements for connecting photovoltaic power station to power system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.14\", \"cnName\": \"防孤岛\", \"enName\": \"anti-islanding\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-03-15\", \"ics\": \"ICS 27.160\", \"ccs\": \"CCS F 12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8360, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防孤岛\", \"cnNameSearch\": \"防孤岛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-islanding\", \"wordSearch\": \"anti-islanding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止非计划性孤岛现象的发生。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a81b9b6d0d6640999ac9eae3484cfc2c\", \"databaseId\": null, \"standardId\": \"5ebea71dce1b4ac58137db9a64d9b961\", \"standardCode\": \"GB/T 17732—2023\", \"standardName\": \"致密定形含碳耐火制品试验方法\", \"standardEnName\": \"Determination of dense shaped refractory products containing carbon\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"玻璃和陶瓷工业\", \"termCode\": \"3.8\", \"cnName\": \"抗氧化性\", \"enName\": \"anti-oxidability\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"ICS 81.080\", \"ccs\": \"CCS Q 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95241, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"抗氧化性\", \"cnNameSearch\": \"抗氧化性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-oxidability\", \"wordSearch\": \"anti-oxidability\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"规定尺寸的试样在高温和氧化气氛中抵抗氧化的能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 18930-2020\", \"sourceCode\": \"2.5.54\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9048dcefb0f9414e9b3824a2bdd0e9de\", \"databaseId\": null, \"standardId\": \"64e58ff41554467aab74cf35316f2006\", \"standardCode\": \"GB/T 42682—2023\", \"standardName\": \"船舶与海上技术  电加热梯踏步试验要求\", \"standardEnName\": \"Ships and marine technology—Testing specification for stairsteps using electrical resistance trace heating\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"造船和海上构筑物\", \"termCode\": \"3.2\", \"cnName\": \"防冰\", \"enName\": \"anti-icing\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"47.020.50\", \"ccs\": \"U 26\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100543, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"防冰\", \"cnNameSearch\": \"防冰\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"anti-icing\", \"wordSearch\": \"anti-icing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止被保护表面结冰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 16}}, \"timestamp\": 1793163606728}"
+}
