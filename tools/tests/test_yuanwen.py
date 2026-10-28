@@ -178,5 +178,30 @@ class TestMathFidelity(unittest.TestCase):
         self.assertNotIn('pdf', text)
 
 
+class TestGuardRails(unittest.TestCase):
+    """上游噪声与公式护栏边界（ADR-0016 一致性收口补测）。"""
+
+    def test_double_escaped_entity_carried_once(self):
+        # D17：上游双重转义实体单次解码后忠实带过，不得残留 &amp; 前缀
+        out = inline_to_md('the author&rsquo;s &amp;rsquo; note')
+        self.assertNotIn('&amp;', out)
+        self.assertIn('&rsquo;', out)
+
+    def test_unclosed_p_does_not_swallow_sections(self):
+        # D16：上游漏写 </p> 时 p 按隐式闭合，余下分节不得被吞成一个块
+        blocks = extract_blocks_raw(
+            '<p>para without close.'
+            '<h2><a id="s1">1. First Section</a></h2>'
+            '<p>section one body.</p>'
+            '<h2><a id="s2">2. Second Section</a></h2>'
+            '<p>section two body.</p>')
+        ctx = Ctx('t')
+        render_blocks(blocks, ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('para without close.', text)
+        self.assertIn('section one body.', text)
+        self.assertIn('section two body.', text)
+
+
 if __name__ == '__main__':
     unittest.main()

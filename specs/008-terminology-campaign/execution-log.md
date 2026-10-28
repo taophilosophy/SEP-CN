@@ -75,8 +75,19 @@
 * **审计修复**：相关性过滤对直接查词通道（hit 无 en 字段）放行——四态从 查无262 改善为 **一致 126 / 不一致 31 / 查无 128**（维基 0）。不一致 31 条待裁定清单见 audit-2026-10-28.md。
 * 通道现状：termonline-standard（档①）+ youdao-aux（辅助档）双通道投产；审定库 token / CNKI 浏览器 / zgbk / ncpssd 四通道插件位保留。
 
+## P0 审定名词库通道破译（2026-10-28 第五轮，浏览器捕获）
 
+**结论：termonline-all（审定名词库）通道已从「待 token」转为「可用」，AES 解密 + X-Access-Token 明文 JWT 已破译。CNKI 通道仍待浏览器。**
 
-1. 本会话 ZCode 的 DeferredToolCall/浏览器/MCP 通道整体损坏（校验器 "name missing" 缺陷）——网络工作全走 Bash+子代理，子代理自带 WebFetch 可过部分 WAF。
+* **关键坑（B0 误判根因）**：B0 曾判「allSearch 匿名恒空 totalRecords=0，需 token」——实测确认**匿名确实恒空**（200 但 totalRecords=0），但**带有效 token 即返回真实数据**，故非「禁用」而是「需 token」。真正拦路的是 token 的**加密存储**：localStorage 的 `TERMONLINE__PRODUCTION__3.1.7__TOKEN__` 是 **AES-CBC-PKCS7 密文**（非明文），B0 直接读该值发请求 → 服务端 `getUserSectionInfoByToken` 校验密文 → 401「token非法无效」。
+* **破译链路**（bundle `index-9a01f905.js` 静态还原 + 浏览器实测验证）：
+  1. `createStorage$1` 用 `hasEncrypt=true`，`AesEncryption` 用 **AES-CBC + PKCS7**；
+  2. `cacheCipher = {key:"_11111000001111@", iv:"@11111000001001_"}`（均 16 字节 UTF-8，iv 非 base64）；
+  3. 解密 localStorage 密文 → `JSON {value: <明文JWT>, time, expire}`，取 `.value`；
+  4. 请求头 `X-Access-Token: <明文JWT>`（无 scheme；拦截器 `requestInterceptors` 注入，`withToken:true` 才注入）。
+* **端点在案**：`GET /main-serve/business/tm/tmWord/allSearch?term=<词>&match=2&sources=&pubYears=&pageSize=20&pageNo=1&baseId=1`（baseId=1 必填；`tmDatabase/listFront` 返回 4 库：id 0=审定公布/1=海峡两岸/2=其他来源/6=预公布）。
+* **响应结构**：`result.searchResult[]` 每库 `{result:{totalRecords, tmWordList[], yearStats, sourceStats, typeStats}, id}`；词条字段 `cn/en/source/subjectName/subjectFullName/publishYear/definition/bbh/wordNumber/alsoName/aliasName`。**哲学覆盖率高**：实测「溯因推理」349 条，自然辩证法名词 16 条（溯因=abduction 2024、质料因=material cause 2024、三因学说等），GB 标准库（standardSearch）查无 186 的哲学词在审定库全在案。
+* **实现方式**：provider 需（a）本地 AES-CBC 解密 localStorage 密文 → 明文 token；（b）token 有效期校验（JWT `exp`）；（c）带 `X-Access-Token` 头请求。**token 不落盘**：解密逻辑写进 `cnki_query.py`，token 来源经 `--token-env TERMONLINE_TOKEN` 环境变量或 `--token-file` 传入（用户浏览器 localStorage 密文导出），避免明文入库。
+* **教训**：①「匿名恒空」≠「需登录」二象性——需区分「200+空」（无凭证被静默降级）与「401」（凭证错误）；②SPA token 存储常为**加密**，直接读 localStorage 拿到的是密文，必须还原站点 `cacheCipher` 后解密；③浏览器 evaluate 里 fetch 测试会被**已 patch 的 fetch/XHR** 干扰（返回 clone 消费原响应致空）——复现请求须用干净上下文（navigate 后未 patch 的 window）。
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。
 3. 提取器阈值/停用词每次改动后，已缓存的单篇结果不会自动失效——`--refresh` 强制重提，否则看到的是旧词表的假象。

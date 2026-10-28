@@ -9,8 +9,14 @@
 
 Provider 插件（ADR-0012 通道实测 2026-10-28）:
   termonline-standard   匿名可用（标准文件术语库）         [默认]
-  termonline-all        审定名词库，需登录 token          [禁用：待通道]
+  termonline-all        审定名词库，需明文 JWT（X-Access-Token）[2026-10-28 破译，见 execution-log 第五轮]
+  youdao-aux            有道词典 SSR 页（辅助参考档，不作依据）
   cnki-dict             CNKI 翻译助手，TLS 指纹反爬       [禁用：待浏览器通道]
+
+termonline-all 通道：localStorage 的 token 是 AES-CBC-PKCS7 密文（站点 cacheCipher
+key="_11111000001111@" iv="@11111000001001_"），须先解密成明文 JWT 再作为
+X-Access-Token 头。明文 token 经 --token <jwt> 或环境变量 TERMONLINE_TOKEN 传入
+（不落盘）；解密辅助见 tools/termonline_token.py（粘贴 localStorage 密文 → 明文）。
 
 礼貌抓取：相邻请求 ≥5 秒（--interval 可调，仅限本地测试调小）；
 失败退避重试 3 次（15/30/60s），仍失败记 error，禁止静默跳过。
@@ -119,6 +125,53 @@ def _youdao_parse(html):
     return hits, note
 
 
+# 2026-10-28 第五轮破译（execution-log）：termonline-all 需明文 JWT 头。
+# token 不落盘：--token / TERMONLINE_TOKEN 传入，仅进程内引用。
+_ACTIVE_TOKEN = None
+
+
+def _tl_all_fetch(term, timeout):
+    """审定名词库 allSearch；需 X-Access-Token 明文 JWT，匿名恒空（200 但 totalRecords=0）。"""
+    if not _ACTIVE_TOKEN:
+        raise ValueError('termonline-all 需明文 JWT：--token <jwt> 或环境变量 TERMONLINE_TOKEN')
+    url = ('https://api.termonline.cn/main-serve/business/tm/tmWord/allSearch'
+           '?term=%s&match=2&sources=&pubYears=&pageSize=20&pageNo=1&baseId=1'
+           % urllib.parse.quote(term))
+    req = urllib.request.Request(url, headers={
+        'User-Agent': UA,
+        'Accept': 'application/json, text/plain, */*',
+        'X-Access-Token': _ACTIVE_TOKEN,
+        'Referer': 'https://www.termonline.cn/',
+        'Origin': 'https://www.termonline.cn',
+    })
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode('utf-8', 'replace'))
+
+
+def _tl_all_parse(data):
+    """审定库聚合：searchResult[] 每库 {result:{totalRecords,tmWordList[]},id}。
+
+    字段实测（2026-10-28）：tmWordList 词条 cn/en/source/subjectName/subjectFullName/
+    publishYear/definition/bbh/wordNumber。命中按库聚合，库名由 tmDatabase/listFront
+    的 id↔dbName 映射（0=审定公布/1=海峡两岸/2=其他来源/6=预公布）。
+    """
+    result = (data or {}).get('result') or {}
+    DB_NAMES = {'0': '审定公布名词库', '1': '海峡两岸名词对照库',
+                '2': '其他来源数据库', '6': '预公布名词数据库'}
+    hits, notes = [], []
+    for seg in result.get('searchResult') or []:
+        res = (seg or {}).get('result') or {}
+        total = res.get('totalRecords') or 0
+        db = DB_NAMES.get(str((seg or {}).get('id')), str((seg or {}).get('id')))
+        notes.append('%s=%s' % (db, total))
+        for w in res.get('tmWordList') or []:
+            hits.append({'cn': w.get('cn'), 'en': w.get('en'),
+                         'code': w.get('wordNumber'), 'standard': w.get('source'),
+                         'subject': w.get('subjectFullName') or w.get('subjectName')})
+    note = '; '.join(notes)
+    return hits, note
+
+
 PROVIDERS = {
     'termonline-standard': {
         'fetch': _tl_standard_fetch,
@@ -133,8 +186,12 @@ PROVIDERS = {
         'note': '有道词典 SSR 页（辅助参考档：不作依据，供裁定辅助，ADR-0012 档位外辅助源）',
     },
     'termonline-all': {
-        'enabled': False,
-        'note': '审定名词库 allSearch 需登录 token（2026-10-28 匿名恒空），待通道',
+        'fetch': _tl_all_fetch,
+        'parse': _tl_all_parse,
+        'enabled': True,
+        'requires_token': True,
+        'note': '审定名词库 allSearch（2026-10-28 破译：需明文 JWT X-Access-Token，'
+                '匿名恒空 200；token 经 --token / TERMONLINE_TOKEN，不落盘）',
     },
     'cnki-dict': {
         'enabled': False,
@@ -209,7 +266,7 @@ def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     args = type('Args', (), {'from_registry': False, 'pool': False,
                              'terms': [], 'provider': 'termonline-standard',
-                             'interval': 5.0, 'force': False})()
+                             'interval': 5.0, 'force': False, 'token': None})()
     i = 0
     while i < len(argv):
         a = argv[i]
@@ -227,6 +284,8 @@ def main(argv=None):
             args.provider, i = argv[i + 1], i + 1
         elif a == '--interval':
             args.interval, i = float(argv[i + 1]), i + 1
+        elif a == '--token':
+            args.token, i = argv[i + 1], i + 1
         elif a == '--force':
             args.force = True
         i += 1
@@ -241,6 +300,13 @@ def main(argv=None):
     if not prov.get('enabled'):
         print('provider 禁用：%s —— %s' % (args.provider, prov['note']))
         return 2
+    if prov.get('requires_token'):
+        global _ACTIVE_TOKEN
+        _ACTIVE_TOKEN = args.token or os.environ.get('TERMONLINE_TOKEN')
+        if not _ACTIVE_TOKEN:
+            print('provider %s 需明文 JWT：--token <jwt> 或环境变量 TERMONLINE_TOKEN'
+                  % args.provider)
+            return 2
 
     outdir = os.path.join(OUTDIR, args.provider)
     os.makedirs(outdir, exist_ok=True)

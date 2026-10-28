@@ -9,6 +9,7 @@
       no-html（HTML 标签残留）、no-text-fence（```text 语言标注）
       no-asciiart（xref:/link: AsciiDoc 残留）
 豁免: 围栏代码块与行内代码；英文单词内部撇号（don't、O'Brien）不算引号；
+      数学定界符 $…$/$$…$$ 内的 LaTeX 记号（撇号 prime 等）不算引号；
       参考文献节（"参考文献"/"Bibliography"/"References（引用注释）" 标题及其下
       各级子标题）内**非中文行**原文照录不改写，豁免引号与中西文空格规则；
       含汉字的行（ADR-0011 还原的中国文献条目）按正体例检查。
@@ -62,8 +63,11 @@ def check_line(path, lineno, line, issues):
     for kind, seg in _segments(line):
         if kind == "code" or not seg:
             continue
-        # curly-quotes：直引号（词内撇号除外）、直角/半角引号、成对与方向
+        # curly-quotes：直引号（词内撇号除外）、直角/半角引号、成对与方向；
+        # 数学定界符 $…$/$$…$$ 内的 LaTeX 记号（如撇号 prime \mathbf{A}'）不是引号，先遮蔽再查
         stripped = re.sub(r"[A-Za-z]'[A-Za-z]", "AA", seg)
+        _math = re.compile(r"\$\$.+?\$\$|\$[^$]+\$")
+        stripped = _math.sub("\x00", stripped)
         for ch in stripped:
             if ch in "\"''｢｣＂＇「」『』":
                 issues.append({"path": path, "line": lineno, "rule": "curly-quotes",

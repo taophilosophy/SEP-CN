@@ -35,7 +35,7 @@
 
 ## 第四层：既有功能未回归
 
-- [ ] Check 22: `python tools/check_all.py` 全绿（七项门禁 + 单元测试）——既有门禁不被本 feature 增量工具绕过或破坏（来源：Task T002+T021 / plan Constitution Check）
+- [ ] Check 22: `python tools/check_all.py` 全绿（六项门禁 + 单元测试）——既有门禁不被本 feature 增量工具绕过或破坏（来源：Task T002+T021 / plan Constitution Check）
 - [ ] Check 23: 现有目录修正流程不受影响——check_summary / check_mulu_s / rebuild check / summary_sync 行为与 spec/005 批次账本兼容（来源：research.md 机制盘点 / Task T003）
 - [ ] Check 24: 现有转换与比较工具行为不变——compare.py / yuanwen.py / check_math 的既有输出与测试保持通过（来源：research.md FR-003 行 / Task T011）
 - [ ] Check 25: 学术规范挂钩不回归——task_ops s3/r3 的 check_academic 拦截行为保持（来源：rules/07 衔接表 / Task T020）
