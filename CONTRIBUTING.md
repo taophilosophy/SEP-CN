@@ -13,7 +13,7 @@
 2. **新词条 / 新页面**：文件与路径由 ykla 统一创建；缺条目请开 issue。
 3. **术语**：先登记 `yi-zhe-shuo-ming.md` 后使用；发布词汇表 `qian-yan/ci-hui-biao.md` 向登记册看齐（见 `rules/03-terminology.md`）。
 4. **改结构 / 标题**：只改 `SUMMARY.md`，各文件 H1 由 CI 同步；分类目录 `mu-lu-s.md` 改动后跑 `python tools/check_mulu_s.py`。
-5. **提交前**：跑门禁 `python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_style.py <改动文件>`，以及 `markdownlint-cli2`。
+5. **提交前**：跑门禁 `python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_style.py <改动文件>`，以及 `bunx markdownlint-cli2`。
 
 ## 历史说明
 

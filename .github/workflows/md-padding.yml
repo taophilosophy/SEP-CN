@@ -13,16 +13,11 @@ jobs:
         - name: Checkout from repository
           uses: actions/checkout@v7
         
-        - name: Setup Node.js
-          uses: actions/setup-node@v7
-          with:
-            node-version: '24'
-          
-        - name: Install Node.js dependencies 
-          run: npm i -g md-padding@latest
-        
+        - name: Setup Bun
+          uses: oven-sh/setup-bun@v2
+
         - name: Run md-padding lint
-          run: find "$(pwd)" -type f -name "*.md" | npx md-padding --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
+          run: find "$(pwd)" -type f -name "*.md" | bunx md-padding@latest --ignore-words='-' ':' '>' '=' '<' -f --read-files -i
 
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v8

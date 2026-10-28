@@ -61,11 +61,11 @@
   python tools/task_ops.py show <slug>         # 查任务状态
   ```
 
-* markdownlint（配置驱动，仓库根目录执行）：
+* markdownlint（配置驱动，仓库根目录执行；包管理统一 bun，不使用 npm，见 [ADR-0014](adr/0014-包管理统一bun弃用npm.md)）：
 
   ```sh
-  markdownlint-cli2            # 按 .markdownlint-cli2.jsonc 的 globs 与规则检查
-  markdownlint-cli2 --fix      # 自动修复可修复项
+  bunx markdownlint-cli2            # 按 .markdownlint-cli2.jsonc 的 globs 与规则检查
+  bunx markdownlint-cli2 --fix      # 自动修复可修复项
   ```
 
 ## 提交策略

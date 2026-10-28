@@ -29,7 +29,7 @@ PATTERNS = [
     (r'(^|/)\.DS_Store$', 'macOS 桌面杂物'),
     (r'(^|/)Thumbs\.db$', 'Windows 缩略图缓存'),
     (r'(^|/)desktop\.ini$', 'Windows 桌面配置'),
-    (r'^node_modules/', 'npm 依赖（构建产物）'),
+    (r'^node_modules/', 'Node 依赖（构建产物）'),
     (r'^\.vitepress/(cache|dist)/', 'VitePress 构建产物'),
     (r'^\.astro/', 'Astro 构建产物'),
     (r'^\.turbo/', 'Turbo 缓存'),
