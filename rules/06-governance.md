@@ -12,6 +12,7 @@
 | 学科分类目录 | `mu-lu-s.md`（手编） | `tools/check_mulu_s.py` 对应性检测 |
 | 英文原文镜像 | `yuanwen/<letter>/<slug>.md`（管线转换，不入库） | `tools/compare.py`、`rebuild_dir.py check`、`baseline_audit.py` |
 | 术语译法 | `yi-zhe-shuo-ming.md` 登记册 | `qian-yan/ci-hui-biao.md` 发布词汇表 |
+| 人名译法 | `ren-ming-biao.md` 登记册（ADR-0012） | `qian-yan/ci-hui-biao.md` 发布词汇表 |
 | 词条版本事实 | `baseline/` 元数据清单 | `tools/baseline_audit.py` |
 | 文档任务状态 | `tasks/<首字母>/<slug>.json` | `tools/task_ops.py show` |
 | 流程与验收标准 | `specs/<NNN>-*/spec.md`、`plan.md` | `checklists/`、`demo-log.md` |
