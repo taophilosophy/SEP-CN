@@ -13,6 +13,7 @@
 | abductive reasoning | 溯因推理 | 语料回收（abduction） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | absolute idealism | 绝对唯心论（亦作“绝对唯心主义”“绝对观念论”；勿译“新黑格尔主义”） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | academic freedom | 学术自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| adverbial theory (of thought) | （思想的）副词论 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | agnosticism | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | altruism | 利他主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | ampliative (inference) | 扩展（推理）／扩展性 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
@@ -42,6 +43,7 @@
 | common cause principle | 共因原则 | 语料回收（bell-theorem） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | conditional probabilities | 条件概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | confirmation theory | 确证理论 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| conformality theory | 符合论（与相似论 resemblance theory 相对） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | Confucianism | 儒家思想 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | connectionism | 联结主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | consequentialism | 后果主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -54,7 +56,9 @@
 | denumerably infinite | 可数无穷 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | determinism | 决定论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | dialetheism | 双面真理论 | 语料回收（logic-classical） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
+| dictum (Abelard) | 所言（阿伯拉尔） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | diffeomorphism | 微分同胚 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
+| direct reference | 直接指称 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | dogmatism | 独断论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | doxographical tradition / doxography | 学说史传统／学说汇编 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | dualism | 二元论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -93,6 +97,7 @@
 | Inference to the Worst Explanation (IWE) | 最差解释推理 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | institutional neutrality | 机构中立 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | instrumentalism | 工具主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| integral wholes | 整全整体 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | intellectualism | 理智主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | internalism | 内在主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | intuitionism | 直觉主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -131,6 +136,7 @@
 | nihilism | 虚无主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Nominalism | 唯名论 | 词汇表复核（源提交 36fd04fd） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Nominalism in Metaphysics | 形而上学中的唯名论 | nominalism-metaphysics | 词条题名组合译法：沿用本册 Nominalism；metaphysics 采用哲学学界通行译名“形而上学”（2026-10-28） | 2026-10-28 |
+| nominatio | 指称（阿伯拉尔；与 significatio 意涵相对） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | observable | 可观测量 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | observation sentences | 观察句 | 语料回收（quine） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | occasionalism | 偶因论 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -170,6 +176,7 @@
 | scottish philosophy | 苏格兰哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | sense perception | 感官知觉 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | sentimentalism | 情感主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| significatio | 意涵（阿伯拉尔） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | spacelike separation | 类空间隔 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | spacetime substantivalism | 时空实体论 | spacetime-holearg | B 档（substance 发布表译“实体”；substantivalism 学界通行“实体论”） | 2026-10-28 |
 | Spinozism | 斯宾诺莎主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -187,6 +194,7 @@
 | unconditional probabilities | 无条件概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | underdetermination | 非充分决定性 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | universal suspension | 普遍悬置 | 语料回收（arcesilaus） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
+| vis copulativa | 连接力 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | voluntarism | 意志主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | warrant | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Wolffianism | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -199,6 +207,7 @@
 | ---- | ---- | ---- | ---- | -------- |
 | kalām | 凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”） | arabic-islamic-* 集群 | 知网系查证在案；学界通行（《中国伊斯兰百科全书》等） | 2026-10-28 |
 | falsafa | 法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”） | arabic-islamic-greek | 学界通行 | 2026-10-28 |
+| irrealism | 非实在论 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | ishrāq / ishrāqī | 照明（照明学派） | suhrawardi | 学界通行 | 2026-10-28 |
 | tawḥīd | 认主独一（讨黑德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | ijmāʿ | 公议（伊智玛尔） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
@@ -223,6 +232,7 @@
 | existentialism | 存在主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | representationalism | 表征主义（亦作“表象主义”） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | psychologism | 心理主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| imposition | 命名（词项施加） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | indeterminism | 非决定论 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | nationalism | 民族主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | pessimism | 悲观主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |

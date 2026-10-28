@@ -24,6 +24,7 @@
 |Adam Ferguson|亚当·弗格森||
 |Adam Smith|亚当·斯密||
 |Adieux: A Farewell to Sartre|告别的仪式|波伏瓦记录萨特最后岁月之作，上海译文出版社 2019 年中译本《告别的仪式》（孙凯译）|
+|adverbial theory (of thought)|副词论|思想的副词论；首现 abelard|
 |agency|能动性|指行动者的行动能力；国际关系语境作“行为体”|
 |agent|行动者|伦理学与行动理论标准译名，亦作“行为者”；国际关系语境作“行为体”|
 |agnosticism|不可知论||
@@ -188,6 +189,7 @@
 |Computing|计算||
 |conditional probabilities|条件概率||
 |confirmation theory|确证理论|亦译“确认理论”；贝叶斯确证理论见专条|
+|conformality theory|符合论|与相似论 resemblance theory 相对；首现 abelard|
 |Confucianism|儒家思想||
 |connectionism|联结主义|心灵哲学与认知科学语境|
 |consequentialism|后果主义||
@@ -225,9 +227,11 @@
 |determinism|决定论|勿译“宿命论”（fatalism）|
 |development|发展；发育|哲学与一般语境译“发展”，生物学语境译“发育”|
 |dialetheism|双面真理论|Priest 与 Routley 1981 年造词；中文维基百科条目作“双面真理说”|
+|dictum (Abelard)|所言|阿伯拉尔；首现 abelard|
 |Diodorus|狄奥多罗斯||
 |Diodorus Cronus|狄奥多罗斯·克罗诺斯|Cronus（克罗诺斯，意为“老顽固”）是承自其师 Apollonius Cronus 的绰号，并非地名；他生于卡里亚的雅索斯，勿以出生地替代绰号|
 |Diogenes Laertius|第欧根尼·拉尔修||
+|direct reference|直接指称|首现 abelard|
 |Discovery|发现||
 |Djamila Boupacha|贾米拉·布帕查|波伏瓦与哈里米合著之书及其人；中文媒体亦作“德贾米拉·波巴查”|
 |dogmatism|独断论|康德语境对未经批判的独断形而上学的称谓|
@@ -338,6 +342,7 @@
 |Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
 |imperialism|帝国主义||
 |implicit bias|内隐偏见||
+|imposition|命名|词项施加；首现 abelard|
 |Incommensurable|不可通约性||
 |independence|独立性||
 |indeterminism|非决定论||
@@ -352,12 +357,14 @@
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
 |instrumentalism|工具主义|科学哲学（杜威、逻辑经验主义之争）与数学哲学语境|
+|integral wholes|整全整体|首现 abelard|
 |intellectualism|理智主义|亦译“智性主义”，与意志主义（voluntarism）相对|
 |internalism|内在主义|知识论与心灵哲学；与 externalism 外在主义相对|
 |Intrinsic|内在||
 |intuitionism|直觉主义|数学基础（布劳威尔）与伦理学两支，按语境分流|
 |Intuitionistic|直觉主义||
 |intuitionistic logic|直觉主义逻辑||
+|irrealism|非实在论|阿伯拉尔形而上学；首现 abelard|
 |Isaac Albalag|以撒·阿尔巴拉格||
 |isomorphism|同构|数学与心灵哲学（结构同一论）语境|
 |isonomia|平等|伊奥尼亚语汇，政治隐喻中指各种力量的均等；阿尔克迈翁条裁定|
@@ -460,6 +467,7 @@
 |nihilism|虚无主义||
 |Nominalism|唯名论|共相问题立场之一，与实在论（Realism）、概念论（Conceptualism）并列|
 |Nominalism in Metaphysics|形而上学中的唯名论|SEP 词条题名|
+|nominatio|指称|阿伯拉尔术语，与 significatio 意涵相对；首现 abelard|
 |non-cognitivism|非认知主义||
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
@@ -599,6 +607,7 @@
 |Lord Shaftesbury|沙夫茨伯里勋爵|见 3rd Earl of Shaftesbury、Anthony Ashley Cooper 条|
 |She Came to Stay|女宾|波伏瓦首部小说（L’Invitée），上海译文出版社中译本《女宾》（周以光译）|
 |Sherwood|舍伍德||
+|significatio|意涵|阿伯拉尔术语；首现 abelard|
 |Simone de Beauvoir|西蒙娜·德·波伏瓦|通行“波伏瓦”，见 Beauvoir 条|
 |Simone Weil|西蒙娜·薇依||
 |Simplicius|辛普利修斯||
@@ -739,6 +748,7 @@
 |Vasubandhu|世亲||
 |Vegetarianism|素食主义||
 |Vienna Circle|维也纳学派||
+|vis copulativa|连接力|动词的连接力；首现 abelard|
 |visual thinking in mathematics|数学中的视觉思维||
 |Vives|维夫斯||
 |Voltaire|伏尔泰||

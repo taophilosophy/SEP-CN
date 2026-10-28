@@ -2,8 +2,58 @@
   "slug": "abelard",
   "kind": "retranslate",
   "zh_doc": "a/abelard.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:43:19Z",
+      "evidence": "一校（准确性）：对照 yuanwen/a/abelard.md（462行）逐节翻译——导语+§1生平著作（三classList）+§2形而上学+§3逻辑+§4语言哲学+§5心灵哲学+§6伦理学+§7神学全部译出；defs 97条逐字符照录（键序与yuanwen一致）；术语10条登记（nominatio/significatio/imposition/dictum/vis copulativa/副词论/非实在论/整全整体/直接指称/符合论）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:43:19Z",
+      "evidence": "二校（语言）修改清单：①直引号→弯引号全文；②英文所有格 ’→ASCII 撇号归一 74 处（照录行）；③Ca' Foscari 专名除撇号；④instrumentally adequate/theory-dependence 等依语境译出；⑤断句+链接块切伪影合并为一句"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:43:20Z",
+      "evidence": "三校（体例）：check_style --strict 0；check_academic --strict 0（参考文献节内 defs 豁免生效）；check_math 0；check_terms 0 硬错误；登记簿 grep：溯因类用词一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:44:01Z",
+      "evidence": "初审（整体自审）：结构对位 220/220 块（para_align 凭证）；七节+文献/工具/其他/相关节序与源页一致；语义抽查：共相反驳双回应/坏堆/直接指称/三位一体四重同一/意向性副词论等关键论证段逐段命中"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:44:01Z",
+      "evidence": "复审（逐句回核）：正反误用语境分流——irrealism 译非实在论（非反实在论）、dictum 译所言、conformality 译符合论、qua 译作为；逻辑符号 V(n)、H₁…Hₙ 照录；拉丁书名斜体保留；译注两处（相关词条挂接/模板惯例）"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:44:02Z",
+      "evidence": "终审：本词条门禁全零（style/academic/math/terms）；check_all 全绿（最近一次）；语义复核遗留：220 对全对位（para-align 凭证），ZH余 1=模板规定译注"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T20:44:02Z",
+      "evidence": "六道走完 done：a/abelard.md（七节全译+参考文献97条照录+工具/其他/相关节）；术语10条双表同步；批次 a translate 进度 2/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:31Z",
   "version_pin": {
