@@ -19,6 +19,7 @@
 |accommodation|顺应；调节|按语境取义：科学哲学指理论迁就既有数据（与 prediction“预测”相对），视觉生理学译“调节”，语用学译“顺应”|
 |Account|解释；说明；原理|按语境取义，give an account of 译“对……给出说明/解释”；accounts 同|
 |Action at a Distance|超距作用||
+|actual world|现实世界|亦作“实际世界”|
 |Adam Ferguson|亚当·弗格森||
 |Adam Smith|亚当·斯密||
 |Adieux: A Farewell to Sartre|告别的仪式|波伏瓦记录萨特最后岁月之作，上海译文出版社 2019 年中译本《告别的仪式》（孙凯译）|
@@ -59,6 +60,7 @@
 |Anicius Manlius Severinus Boethius|阿尼修斯·曼利乌斯·塞维利努斯·波爱修斯|全名通译形（《哲学的慰藉》等中译本序言用）；正文通常简称波爱修斯|
 |anomalous monism|变异一元论|戴维森（Donald Davidson）的学说，亦译“异常一元论”|
 |Anthony Ashley Cooper|安东尼·阿什利-库珀|即第三代沙夫茨伯里伯爵（3rd Earl of Shaftesbury）|
+|anti-realism|反实在论|antirealism 异形（ADR-0013 系归并口径）|
 |antirealism|反实在论|与 realism 实在论相对|
 |aphanes|不可知觉的东西|阿尔克迈翁（alcmaeon）条术语|
 |Arcesilaus|阿尔凯西劳||
@@ -179,6 +181,8 @@
 |Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
 |common cause principle|共因原则|赖欣巴哈（Reichenbach）提出；《自然辩证法通讯》2017 年用“共因原则”，亦译“共同原因原则”|
+|common sense|常识||
+|compatibilism|相容论|亦作“相容主义”|
 |Computing|计算||
 |conditional probabilities|条件概率||
 |confirmation theory|确证理论|亦译“确认理论”；贝叶斯确证理论见专条|
@@ -197,6 +201,7 @@
 |Continuum Hypothesis|连续统假设|“连续统”为本术语固定搭配；泛指时 continuum 译“连续体”，见 continuum 条|
 |contractarianism|自利契约论|霍布斯式传统，以互利自利为基础；亦译“契约论”，与 contractualism 相对|
 |contractualism|非自利契约论|康德—斯坎伦式传统，以向每个人证成为基础；亦译“契约主义”|
+|conventionalism|约定论|亦作“约定主义”|
 |Conventionality|约定性；约定性的||
 |Conventionality of Simultaneity|同时性的约定性||
 |Copenhagen Interpretation|哥本哈根诠释||
@@ -205,6 +210,7 @@
 |Cratylus|克拉底鲁||
 |Cudworth|库德沃斯||
 |Darwinism|达尔文主义||
+|David Hume|大卫·休谟|通行汉译|
 |Decoherence|退相干||
 |deductive system|演绎系统||
 |Democedes|德摩塞迪斯||
@@ -233,6 +239,7 @@
 |egalitarianism|平等主义||
 |Einstein-Podolsky-Rosen|爱因斯坦-波多尔斯基-罗森||
 |Elias|埃利亚斯||
+|eliminativism|取消主义||
 |Empedocles|恩培多克勒||
 |empirical|实证|另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。|
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
@@ -250,6 +257,7 @@
 |Ethics of Ambiguity|模糊性的道德||
 |ethics of belief|信念伦理学||
 |Everettian|埃弗雷特||
+|existentialism|存在主义||
 |Experience|经验；体验|经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”|
 |Explanation|解释||
 |externalism|外在主义|与 Content Externalism 内容外在主义对应；内在主义为 internalism|
@@ -278,6 +286,7 @@
 |functionalism|功能主义|心灵哲学与社会科学语境；心理学旧译“机能主义”|
 |Galen|盖伦||
 |general idea|一般观念|洛克、贝克莱语境（普遍观念）；“概述”是日常义，哲学语境不用|
+|general relativity|广义相对论||
 |Georg Cantor|格奥尔格·康托尔||
 |George Berkeley|乔治·贝克莱||
 |George Boole|乔治·布尔||
@@ -309,6 +318,8 @@
 |hidden variables|隐变量|隐变量理论 hidden-variable theories|
 |Hole Argument|空穴论证|广义相对论哲学语境，亦译“空洞论证”|
 |Hugh Blair|休·布莱尔||
+|human nature|人性||
+|human rights|人权||
 |humanism|人文主义|文艺复兴语境；伦理语境亦译“人道主义”，按语境分流|
 |Ibn Bâjja|伊本·巴哲|即拉丁通行名 Avempace 所指同一人物（ADR-0013 归并）|
 |Ibn Kammūna|伊本·凯姆那||
@@ -319,9 +330,11 @@
 |Identity|同一性||
 |identity theory|同一论|心脑同一论语境；“同一性”译法见 Identity 条|
 |Ikhwān al-Ṣafā’|精诚兄弟会|中文维基百科作“精诚兄弟会”（Brethren of Purity）；其文集 Rasā’il 即《论文集》|
+|imperialism|帝国主义||
 |implicit bias|内隐偏见||
 |Incommensurable|不可通约性||
 |independence|独立性||
+|indeterminism|非决定论||
 |individualism|个人主义||
 |Individuality|个体性||
 |Individuals|个体||
@@ -381,6 +394,7 @@
 |liberalism|自由主义||
 |Libertas philosophandi|哲学思考自由|拉丁语“自由思考之权”，斯宾诺莎《神学政治论》传统；英语 freedom of philosophizing|
 |logical atomism|逻辑原子主义||
+|logicism|逻辑主义||
 |Long March|长征||
 |Lord Keeper of the Seal|掌玺大臣||
 |Lord Monboddo|蒙博多勋爵||
@@ -398,38 +412,47 @@
 |mañana paradox|明天悖论||
 |McTaggart|麦克塔格特||
 |mechanism|机械论|社会科学语境译“机制”，按语境分流|
+|mental states|心理状态|亦作“精神状态”，按语境|
 |Methods|方法||
 |Mind|心灵||
 |Mirror of Production|生产之镜||
 |Modal Interpretations|模态解释||
+|modal logic|模态逻辑||
 |modal metaphysics|模态形而上学||
 |monarchia|专权|与 isonomia 相对的独大状态；阿尔克迈翁条裁定|
 |monotheism|一神论||
 |Montague|蒙太古||
 |moral desert|道德应得||
+|moral judgments|道德判断||
 |moral philosophy|道德哲学||
 |Moral Responsibility|道德责任||
+|moral status|道德地位||
 |Moral Vegetarianism|伦理素食主义||
 |More|莫尔|泛指性简称；Henry More（亨利·莫尔，剑桥柏拉图学派）见专条，Thomas More（托马斯·莫尔）等同姓者以正文语境为准|
 |most famous pair|最著名的一对||
 |Must We Burn Sade|要焚毁萨德吗||
+|mysticism|神秘主义||
 |Myth of Sisyphus|西西弗神话||
 |Myths|神话|多指柏拉图对话中的神话（Plato’s myths）；旧表“秘所思”系讹译，废弃|
+|nationalism|民族主义||
 |Natorp|那托普||
 |natural language|自然语言|与形式语言相对|
 |natural law|自然法|natural law tradition 自然法传统；与自然规律（law of nature）相区别|
 |natural number|自然数|natural numbers 的单数形式，语料高频|
 |natural numbers|自然数||
 |Natural Religion|自然宗教||
+|natural selection|自然选择||
 |Natural Theology|自然神学||
 |naturalism|自然主义||
 |Naturalistic Approaches|自然主义方法||
 |neo-Kantianism|新康德主义||
 |Neoplatonism|新柏拉图主义||
 |Nicolaus Taurellus|尼古拉斯·塔雷路斯||
+|Nicomachean Ethics|《尼各马可伦理学》|亚里士多德著作；廖申白译本|
 |Niels Bohr|尼尔斯·玻尔||
 |nihilism|虚无主义||
 |Nominalism|唯名论|共相问题立场之一，与实在论（Realism）、概念论（Conceptualism）并列|
+|non-cognitivism|非认知主义||
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
 |Novum Organum Scientiarum|新工具||
@@ -454,6 +477,7 @@
 |Paul Natorp|保罗·那托普||
 |Perception|知觉||
 |perfectionism|至善论|政治哲学语境（国家促进善生活的学说）|
+|pessimism|悲观主义||
 |Peter Abelard|彼得·阿伯拉尔|法语原名 Pierre Abelard（皮埃尔·阿伯拉尔）；正文通常简称阿伯拉尔，见 Abelard 条|
 |Peter Frederick Strawson|彼得·弗雷德里克·斯特劳森||
 |Phaedo|斐多篇||
@@ -481,7 +505,10 @@
 |poroi|通道|阿尔克迈翁条术语（感官通道）|
 |Porphyry|波菲利||
 |positivism|实证主义|孔德传统；勿与 empiricism 经验主义混淆|
+|possible world|可能世界||
+|possible worlds|可能世界||
 |Post-Newtonian|后牛顿||
+|Posterior Analytics|《后分析篇》|亚里士多德著作，通行译名|
 |practical philosophy|实践哲学|康德体系分工（与实践理性相关）|
 |pragmatic|语用（的）；实用（的）|语言哲学语境译“语用”（pragmatics 语用学），科学哲学语境译“实用”；pragmatism 才是“实用主义”|
 |pragmatism|实用主义|见 Pragmatist 条；勿与 pragmatic（语用的/实用的）混淆|
@@ -489,6 +516,8 @@
 |predicate letter|谓词字母||
 |presentism|现在主义|时间哲学：只有现在存在；与永恒主义（eternalism）相对|
 |prima facie|初步的|拉丁语“乍看之下”；伦理学 prima facie duty 初定义务（罗斯）|
+|Principia Mathematica|《数学原理》|罗素、怀特海著，通行译名《数学原理》|
+|Prior Analytics|《前分析篇》|亚里士多德著作，通行译名|
 |problem of universals|共相问题|中文维基百科立“共相问题”条目；旧译“普遍性问题”|
 |Progress|进步||
 |projective sets|射影集合|描述集合论语境|
@@ -496,6 +525,7 @@
 |Properties of Terms|词项属性|proprietates terminorum，中世纪词项逻辑核心理论，含意谓、指代、联结、称呼、扩张、限制等|
 |property|属性；性质||
 |Pseudo-Science|伪科学||
+|psychologism|心理主义||
 |Pyrrho|皮浪||
 |Pyrrhonism|皮浪主义||
 |Pyrrhus and Cinéas|皮瑞斯与辛尼阿斯|波伏瓦首部哲学论著，暂无简中出版译本；Pyrrhus 通译“皮洛士”，正文首次出现宜括注原文|
@@ -521,7 +551,9 @@
 |Reinhold|莱因霍尔德||
 |Relational|关系性||
 |Relativism|相对主义||
+|reliabilism|可靠论|亦作“可靠主义”|
 |Representation|表征|认知科学与心灵哲学语境；康德、黑格尔的 Vorstellung 语境译“表象”|
+|representationalism|表征主义|亦作“表象主义”|
 |Research|研究||
 |Retrocausality|逆因果关系||
 |revision theory|修正论||
@@ -644,6 +676,7 @@
 |thermodynamic time asymmetry|热力学时间非对称性||
 |Thick Ethical Concepts|厚伦理概念||
 |thin|薄（的）|威廉姆斯 thick/thin ethical concepts 即“厚/薄”伦理概念；旧表“瘦”系误译|
+|Thomas Aquinas|托马斯·阿奎那|中世纪通行汉译|
 |Thomas of Erfurt|埃尔福特的托马斯||
 |Thought Experiments|思想实验||
 |Thrasymachus|塞拉西马柯|《理想国》商务译本作“色拉叙马霍斯”|
@@ -719,6 +752,7 @@
 |Wild Fruits|野果||
 |Wilhelm Windelband|威廉·文德尔班||
 |The Will to Believe|信仰的意志|詹姆斯著作，通行中译《信仰的意志》；作概念短语亦译“信念的意志”|
+|William James|威廉·詹姆斯|通行汉译|
 |William of Auvergne|奥弗涅的威廉||
 |William of Champeaux|尚波的威廉||
 |William of Sherwood|舍伍德的威廉||
@@ -733,6 +767,8 @@
 |Zeno|芝诺||
 |Zermelo|策梅洛||
 |Zermelo-Fraenkel|策梅洛-弗兰克尔||
+|ʿAbd al-Jabbār|阿卜杜·贾巴尔|穆尔太齐赖派，学界通行|
+|ʿAyn al-Quḍāt|艾因·库扎特|哈马丹的艾因·库扎特，学界通行|
 |Śrīharṣa|曷利沙||
 |Ḥikmah|智慧|阿拉伯语“智慧”；伊斯兰哲学语境首次出现可括注原文|
 |Ṯābit ibn Qurra|塔比·伊本·库拉||
