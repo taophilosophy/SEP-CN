@@ -57,5 +57,5 @@
 ## 检查
 
 * 本地预检：`python tools/check_style.py <路径>...`（规则：curly-quotes、bold-spacing、cjk-spacing、no-html、no-text-fence、no-asciiart；输出 JSON，退出码 0 为无问题）。
-* CI 复核：markdownlint（配置 `.github/.markdownlint.json`）+ `check-images.yml` + `links.yml`。
+* CI 复核：markdownlint（统一配置根目录 `.markdownlint-cli2.jsonc`，`.github/.markdownlint.json` 为等价规则副本，ADR-0002）+ `check-images.yml` + `links.yml`。
 * 机器检查不替代逐句校对；三校（体例）时两者都要做。
