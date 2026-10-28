@@ -25,8 +25,8 @@
 | argument of the bad lot | 坏堆论证（bad lot；best of a bad lot 坏堆中的最佳） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | Aristotelianism | 亚里士多德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | atheism | 无神论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| bayes rule | 贝叶斯规则 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| bayesian confirmation theory | 贝叶斯确证理论 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| bayes rule | 贝叶斯法则（亦作“贝叶斯规则”） | 语料回收（bayes-theorem） | 审定名词库（termonline-all·经济学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
+| bayesian confirmation theory | 贝叶斯验证理论（亦作“贝叶斯确证理论”） | 语料回收（bayes-theorem） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Bayesianism | 贝叶斯主义 | 语料回收（bayes-theorem） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Bell inequalities | 贝尔不等式 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | bell inequality | 贝尔不等式 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -40,13 +40,13 @@
 | classical logic | 经典逻辑 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | cognitivism | 认知主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | colonialism | 殖民主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| common cause principle | 共因原则 | 语料回收（bell-theorem） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
+| common cause principle | 共因原理（亦作“共因原则”） | 语料回收（bell-theorem） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | conditional probabilities | 条件概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | confirmation theory | 确证理论 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | conformality theory | 符合论（与相似论 resemblance theory 相对） | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | Confucianism | 儒家思想 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | connectionism | 联结主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| consequentialism | 后果主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| consequentialism | 后果论（亦作“后果主义”） | 语料回收 | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | conservatism | 保守主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Constitution | 构成；构造；宪法（按语境：康德构成、胡塞尔 Konstitution 构造、政治宪法） | 词汇表复核（源提交 b27b33bd） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | constructivism | 构造主义；建构主义 | 语料回收（全目录） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -62,11 +62,11 @@
 | dogmatism | 独断论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | doxographical tradition / doxography | 学说史传统／学说汇编 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | dualism | 二元论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| Dutch book (argument) | 荷兰赌（论证） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
+| Dutch book (argument) | 大弃赌论证（亦作“荷兰赌（论证）”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | early modern | 近代早期 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | egalitarianism | 平等主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| empirical equivalence | 经验等价 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
-| empirically equivalent | 经验等价 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| empirical equivalence | 经验等价性（亦作“经验等价”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
+| empirically equivalent | 经验等价的（亦作“经验等价”；审定名词作“经验等价的理论”） | 语料回收 | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | empiricism | 经验主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | epistemology of belief / of degrees of belief | 信念的认识论／信念度的认识论 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | Essentialism | 本质主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -93,7 +93,7 @@
 | idealism | 唯心论；观念论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | individualism | 个人主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | induction hypothesis | 归纳假设 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| Inference to the Best Explanation | 最佳解释推理 | abduction | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-26 |
+| Inference to the Best Explanation | 最佳说明推理（亦作“最佳解释推理”） | abduction | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | Inference to the Worst Explanation (IWE) | 最差解释推理 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | institutional neutrality | 机构中立 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | instrumentalism | 工具主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -192,7 +192,7 @@
 | Token / type | 殊例／类型（type-token 即“类型—殊例”之分；勿用“个体”，避免与 individual 碰撞） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | total evidence | 总证据 | 语料回收（abduction） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | unconditional probabilities | 无条件概率 | 语料回收（bayes-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
-| underdetermination | 非充分决定性 | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
+| underdetermination | 不完全决定（亦作“非充分决定性”） | 首现（abduction） | 审定名词库（termonline-all·自然辩证法名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | universal suspension | 普遍悬置 | 语料回收（arcesilaus） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | vis copulativa | 连接力 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | voluntarism | 意志主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |

@@ -2,8 +2,58 @@
   "slug": "abhidharma",
   "kind": "retranslate",
   "zh_doc": "a/abhidharma.md",
-  "state": "pending",
-  "steps": [],
+  "state": "done",
+  "steps": [
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:14:46Z",
+      "evidence": "一校：对照 yuanwen/a/abhidharma.md（354行）逐节翻译——导语+§1(1.1,1.2)+§2+§3+§4+§5+§6 全部译出；notes 1-17 译出；文献 defs 95条照录（键集一致）；佛教术语用通行汉译（阿毗达磨/说一切有部/经量部/上座部/瑜伽行派/刹那论/自性/四缘六因/二十四缘等）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:14:47Z",
+      "evidence": "二校修改清单：①直引号→弯引号全文；②英文所有格 ’ 归一 3 处；③note-5 英文引块补译；④various/definitive/involves/encapsulated 等英文残留中文化 7 处；⑤串行笔误（阿伯拉尔→阿毗达磨）修正"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:14:47Z",
+      "evidence": "三校：check_style 0；check_academic 0（文献 defs 在文献节内豁免生效）；check_math 0；check_terms 0 硬错误；佛教术语与通行译名一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:16:35Z",
+      "evidence": "初审：结构对位——导语+6节+2小节+脚注17+文献/工具/其他/相关节序一致；语义抽查：法论/八十二vs七十五分类/刹那论两版本/自性范畴到存在论转变/四缘六因/二十四缘/意识过程七功能/三种实在论对比等关键论证段逐段命中"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:16:35Z",
+      "evidence": "复审：正反误用语境分流——dharma 单数=法（佛陀教法）/复数 dharmas=法（事件单元）按语境分译；svabhāva=自性、dravya=实在存在/首要存在者、kṣaṇa=刹那、bhavaṅga=有分、citta-vīthi=意识过程；巴利/梵语术语括注保留；note-5 引块译出"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:16:36Z",
+      "evidence": "终审：本词条门禁全零（style/academic/math/terms）；对齐凭证 para-align 将于批后统一出具（abhidharma 已入 entries）"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T21:16:36Z",
+      "evidence": "六道走完 done：a/abhidharma.md（六节全译+脚注17条译出+文献95条照录+工具/其他/相关节）；批次 a translate 进度 3/160"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T16:36:31Z",
   "version_pin": {

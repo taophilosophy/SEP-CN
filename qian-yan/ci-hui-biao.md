@@ -90,10 +90,10 @@
 |basing relation|基础关系||
 |Baudrillard|鲍德里亚||
 |Bauer|鲍威尔||
-|bayes rule|贝叶斯规则|亦译“贝叶斯法则”，与 Bayes' Theorem 贝叶斯定理同族|
+|bayes rule|贝叶斯法则|亦作“贝叶斯规则”，与 Bayes' Theorem 贝叶斯定理同族；审定名词（经济学名词）|
 |Bayes’ Theorem|贝叶斯定理||
-|bayesian confirmation theory|贝叶斯确证理论|confirmation 亦译“确认”，中文学界两译并行|
-|Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯确证理论对应用|
+|bayesian confirmation theory|贝叶斯验证理论|亦作“贝叶斯确证理论”；审定名词（自然辩证法名词）|
+|Bayesianism|贝叶斯主义|与贝叶斯定理、贝叶斯验证理论对应用|
 |beauty|美||
 |Beauvoir|波伏瓦|上海译文出版社及学界通行“波伏瓦”；亦作“波伏娃”，全库取“波伏瓦”|
 |behaviorism|行为主义||
@@ -183,16 +183,16 @@
 |colonialism|殖民主义||
 |Coming of Age|老年|波伏瓦 La Vieillesse，上海译文出版社 2025 年中译本《老年》（孟玉秋译）；台译本作《论老年》|
 |Commentators|评注者|指古代晚期注释亚里士多德的评注传统（the ancient commentators）|
-|common cause principle|共因原则|赖欣巴哈（Reichenbach）提出；《自然辩证法通讯》2017 年用“共因原则”，亦译“共同原因原则”|
+|common cause principle|共因原理|亦作“共因原则”；赖欣巴哈（Reichenbach）提出；审定名词（自然辩证法名词）|
 |common sense|常识||
 |compatibilism|相容论|亦作“相容主义”|
 |Computing|计算||
 |conditional probabilities|条件概率||
-|confirmation theory|确证理论|亦译“确认理论”；贝叶斯确证理论见专条|
+|confirmation theory|确证理论|亦译“确认理论”；贝叶斯验证理论见专条|
 |conformality theory|符合论|与相似论 resemblance theory 相对；首现 abelard|
 |Confucianism|儒家思想||
 |connectionism|联结主义|心灵哲学与认知科学语境|
-|consequentialism|后果主义||
+|consequentialism|后果论|亦作“后果主义”；审定名词（自然辩证法名词）|
 |conservatism|保守主义||
 |Consistent Histories|一致性历史||
 |Consistent Histories Approach|一致性历史方法||
@@ -239,7 +239,7 @@
 |doxographical tradition / doxography|学说史传统；学说汇编|阿尔克迈翁条术语|
 |dualism|二元论||
 |Dugald Stewart|杜格尔·斯图尔特||
-|Dutch book (argument)|荷兰赌（论证）|首现 abduction|
+|Dutch book (argument)|大弃赌论证|亦作“荷兰赌（论证）”；首现 abduction；审定名词（自然辩证法名词）|
 |Dynamic Semantics|动态语义||
 |early modern|近代早期|哲学史分期用语，约指 16—18 世纪欧洲|
 |Edmund Burke|埃德蒙·伯克||
@@ -251,8 +251,8 @@
 |empirical|实证|另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。|
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
 |empirical approaches|经验主义研究||
-|empirical equivalence|经验等价|首现 abduction|
-|empirically equivalent|经验等价|科学实在论争论术语|
+|empirical equivalence|经验等价性|亦作“经验等价”；首现 abduction；审定名词（自然辩证法名词）|
+|empirically equivalent|经验等价的|科学实在论争论术语；审定名词作“经验等价的理论”|
 |empiricism|经验主义|亦译“经验论”；形容词 empirical 见专行|
 |entanglement|纠缠||
 |Epicurus|伊壁鸠鲁||
@@ -351,7 +351,7 @@
 |Individuals|个体||
 |induction hypothesis|归纳假设|数学归纳法语境|
 |Inertial Frames|惯性系||
-|Inference to the Best Explanation|最佳解释推理|亦作“最佳说明推理”；abduction 词条核心概念|
+|Inference to the Best Explanation|最佳说明推理|亦作“最佳解释推理”；abduction 词条核心概念；审定名词（自然辩证法名词）|
 |Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
@@ -733,7 +733,7 @@
 |Types|类型||
 |Umar Khayyam|欧玛尔·海亚姆||
 |unconditional probabilities|无条件概率||
-|Underdetermination|非充分决定性|亦译“不充分决定性”，指证据对理论的不充分约束|
+|Underdetermination|不完全决定|亦作“非充分决定性”“不充分决定性”，指证据对理论的不完全约束；审定名词（自然辩证法名词）|
 |Understanding|理解|康德 Verstand 语境定译“知性”，日常语境译“理解”，勿混|
 |Unity of Science|统一科学||
 |universal suspension|普遍悬置|皮浪主义术语：对一切判断的悬置，与 epoché（悬置/悬搁）同族|
