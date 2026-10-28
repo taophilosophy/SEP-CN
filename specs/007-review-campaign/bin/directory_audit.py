@@ -33,6 +33,7 @@ from tools.common import load_json, repo_path, utcnow_iso  # noqa: E402
 ADJUDICATED_ABSENT = {  # 裁定保留的撤稿词条（c75cc794/2eecf911）与历史裁定豁免
     'continental-rationalism', 'pineal-gland', 'qm-action-distance',
     'scientific-explanation', 'time-experience', 'wisdom',
+    'wyclif-political',  # 撤稿留档 spr2025（2026-10-29 裁定：在线 soft-404、归档 HTML 实证；老语料错挂 slug political-philosophy 已除）
 }
 ROW_RE = re.compile(r'^(\s*\*\s*)\[(.+)\]\(([^)]+)\)(.*)$')
 

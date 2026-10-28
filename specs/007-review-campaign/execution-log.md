@@ -137,3 +137,10 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 ### 批次进度
 
 * a 批 translate：1/160 done（abduction）；159 待译（任务已全部建立）。
+
+### 补遗反思与 HTML 比对（2026-10-29 会话，用户指令"先反思补遗，比对HTML"）
+
+* **反思结论：political-philosophy 裁定下早了**。初次裁定只探了五代近期归档且未走 archinfo——正规路径（archinfo.cgi + 归档目录比对）揭示真身：条目实为 **wyclif-political**（Stephen Lahey《John Wyclif's Political Philosophy》），win2020–spr2025 归档均在（正文 HTML 64KB 实证），spr2025 后撤稿，在线 URL 现 200+软 404 页（curl 状态码 200 会骗人，fetch_entry 软 404 内容检测才是真相——"比对HTML"一语中的）。老语料错挂 slug 为 political-philosophy。
+* **更正执行**：`fetch_entry --archive-edition spr2025 wyclif-political`（归档包 2 文件入库）→ 元数据补正（归档路径漏解析 citation_title/authors，从 en/ 原始 HTML 读回——摩擦 #10）→ apply-add 恢复词条（w/wyclif-political.md，SUMMARY 嵌套于 Wyclif 主行下）→ mu-lu-s 行改指真身 → directory_audit 裁定集 6→7（撤稿留档 spr2025 实证）→ 三验证全绿（check_summary/check_mulu_s/逐行审计 0 findings）。
+* **新增摩擦**：#9 apply-add 对标题内嵌方括号（如 [Gianfrancesco]）未做 `\[` 转义，check_mulu_s 解析器不认（abelard 先例已转义）——已手工转义，工具待修；#10 fetch_entry --archive-edition 漏解析 citation 元数据——已手工补正，工具待修。
+* 教训沉淀：**移除裁定前必须 archinfo + 多代归档内容比对**（"比对HTML"＝状态码之外还要验内容形态）；软 404 检测必须走内容特征而非状态码。

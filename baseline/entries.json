@@ -2135,7 +2135,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/a/aesthetics-race.md",
+        "sha256": "4ae758f198ea1f42087a7c305e5f0f63996b55b36a2bb4884862ea74042cec8f",
+        "source_sha256": "f1e768bbdc754352b465163d7283a91fd7ada326422a9c83286433505d1e5cba",
+        "converted_at": "2026-10-28T14:58:10Z",
+        "cite_markers": 67,
+        "cite_defs": 145,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "affirmative-action",
@@ -5978,7 +5989,18 @@
           "kind": "notes"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/a/animal-thought.md",
+        "sha256": "aeeabb3d5a94a4c1aabe0846e35a93213788f02064473866182134082912db18",
+        "source_sha256": "fae43aae08dd8f8e43e0a74d36231ab7f2ceee954550346aaaa7cd0db2ab8eb7",
+        "converted_at": "2026-10-28T14:58:10Z",
+        "cite_markers": 283,
+        "cite_defs": 187,
+        "supplements": [],
+        "images": [],
+        "notes": 13
+      }
     },
     {
       "slug": "animalism",
@@ -41146,7 +41168,18 @@
           "kind": "main"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/e/engels.md",
+        "sha256": "6bddb0493bd2b68a6d547fff778b2f0bf13f11b89f40eb8502d64e664cf4af55",
+        "source_sha256": "1d945daf337390821f106ff2d131d404e943a82527f3c05fb0414b68d9dd1454",
+        "converted_at": "2026-10-28T14:58:10Z",
+        "cite_markers": 57,
+        "cite_defs": 85,
+        "supplements": [],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "enhancement",
@@ -42255,7 +42288,20 @@
           "kind": "supplement"
         }
       ],
-      "missing": []
+      "missing": [],
+      "yuanwen": {
+        "md": "yuanwen/e/epistemology-ai.md",
+        "sha256": "9f80c81e909ceb34cc13af925947db5054ac76fc17345993cbe43917269bb5c2",
+        "source_sha256": "e4a323d7bd65006646534f7b6304a2cf7df6e433a1194cac436fcd86ffdd2067",
+        "converted_at": "2026-10-28T14:58:11Z",
+        "cite_markers": 270,
+        "cite_defs": 256,
+        "supplements": [
+          "epistemology-ai.supplement.md"
+        ],
+        "images": [],
+        "notes": 0
+      }
     },
     {
       "slug": "epistemology-bayesian",
@@ -102902,7 +102948,7 @@
         "substantive_revision": null
       },
       "in_article_markers": true,
-      "zh_doc": null,
+      "zh_doc": "n/nominalism-metaphysics.md",
       "archinfo": {
         "latest_edition": "Summer 2025",
         "latest_change_type": "new, rewritten entry",
@@ -102951,7 +102997,7 @@
         "md": "yuanwen/n/nominalism-metaphysics.md",
         "sha256": "4f33595cba4c3e557e27a7b1ec6ad6ce037227c3e12839c2e8969979693edef8",
         "source_sha256": "f9c9676e2e245a996909c4299dc4f647f069dc76462f6831a6a1f829edcbf37b",
-        "converted_at": "2026-10-27T21:33:25Z",
+        "converted_at": "2026-10-28T14:58:09Z",
         "cite_markers": 154,
         "cite_defs": 159,
         "supplements": [],
@@ -150914,6 +150960,54 @@
       }
     },
     {
+      "slug": "wyclif-political",
+      "fetched_at": "2026-10-28T17:43:42Z",
+      "source_url": "https://plato.stanford.edu/archives/spr2025/entries/wyclif-political/",
+      "title": "John Wyclif’s Political Philosophy",
+      "authors": [
+        "Lahey, Stephen"
+      ],
+      "pubinfo": {
+        "first_published": "Jun 10, 2006",
+        "substantive_revision": "Apr 23, 2013"
+      },
+      "in_article_markers": true,
+      "zh_doc": "w/wyclif-political.md",
+      "archinfo": {
+        "latest_edition": null,
+        "latest_change_type": null,
+        "history": []
+      },
+      "archive_edition": "spr2025",
+      "files": [
+        {
+          "path": "en/wyclif-political/index.html",
+          "sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
+          "bytes": 64629,
+          "kind": "main"
+        },
+        {
+          "path": "en/wyclif-political/notes.html",
+          "sha256": "36ff1c53a443220b8be2a1a4733b27aa1ea8a5473c494c343d73f601475751ef",
+          "bytes": 15514,
+          "kind": "notes"
+        }
+      ],
+      "missing": [],
+      "source_sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
+      "yuanwen": {
+        "md": "yuanwen/w/wyclif-political.md",
+        "sha256": "0b6811424210cde1da198da806eb8e3270b0958b4b0881eb1a05ac01e91a3950",
+        "source_sha256": "d52203002ad60f305811ee5906038cf33485b8604bf9927bd881f6a654d71dbc",
+        "converted_at": "2026-10-28T17:46:31Z",
+        "cite_markers": 0,
+        "cite_defs": 47,
+        "supplements": [],
+        "images": [],
+        "notes": 11
+      }
+    },
+    {
       "slug": "xenocrates",
       "fetched_at": "2026-10-26T21:18:56Z",
       "source_url": "https://plato.stanford.edu/entries/xenocrates/",
@@ -151701,5 +151795,5 @@
       }
     }
   ],
-  "updated_at": "2026-10-28T06:05:26Z"
+  "updated_at": "2026-10-28T17:46:31Z"
 }
