@@ -161,6 +161,7 @@ export default defineConfig({
     'rules/**',
     '.github/**',
     '.zcode/**',
+    '.qoder/**',
     'AGENTS.md',
     'CONTRIBUTING.md',
     'CODE_OF_CONDUCT.md',

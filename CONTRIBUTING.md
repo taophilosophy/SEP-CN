@@ -13,7 +13,18 @@
 2. **新词条 / 新页面**：文件与路径由 ykla 统一创建；缺条目请开 issue。
 3. **术语**：先登记 `yi-zhe-shuo-ming.md` 后使用；发布词汇表 `qian-yan/ci-hui-biao.md` 向登记册看齐（见 `rules/03-terminology.md`）。
 4. **改结构 / 标题**：只改 `SUMMARY.md`，各文件 H1 由 CI 同步；分类目录 `mu-lu-s.md` 改动后跑 `python tools/check_mulu_s.py`。
-5. **提交前**：跑门禁 `python tools/check_summary.py`、`python tools/check_mulu_s.py`、`python tools/check_style.py <改动文件>`，以及 `bunx markdownlint-cli2`。
+5. **提交前**：跑 `python tools/check_all.py`（六项门禁 + 单元测试）；定点再用 `python tools/check_style.py <改动文件>`；lint 用 `bunx markdownlint-cli2`。
+
+## 本地预览阅读站
+
+```sh
+bun install
+bun run dev      # http://<局域网 IP>:81（固定 0.0.0.0:81，端口占用即启动失败）
+bun run build    # 静态构建，含 pagefind 全文搜索
+bun run preview
+```
+
+包管理统一 bun（ADR-0014），不使用 npm / npx。构建细节（主题、搜索、双语配对、`attrs: false` 等）见 [.vitepress/README.md](.vitepress/README.md)。
 
 ## 历史说明
 

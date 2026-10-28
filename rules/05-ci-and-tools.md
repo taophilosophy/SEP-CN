@@ -9,13 +9,14 @@
 | `checks.yml` | 仓库一致性门禁：`check_summary.py` + `check_mulu_s.py` + `check_junk.py`（垃圾/产物入库）+ `check_doc_size.py`（单体文件大小，ADR-0004）+ `check_terms.py`（术语一致性）+ `check_academic.py`（哲学学术规范，rules/07）+ `check_all.py --quiet`（一键全量复核汇总）+ 管线单元测试，硬错误即红灯 | push / 手动 |
 | `sync-headers.yml` | 把每个 SUMMARY 条目对应文件的 H1 改写为条目文字（含转义还原 `\* \[ \]`；跳过 frontmatter 文件；覆盖缩进子条目），自动提交 | push |
 | `file-name-check.yml` | 校验 SUMMARY 条目文件存在，缺失自动开 issue | push |
-| `markdown-lint2.yml` / `Markdown-lint2-pr.yml` | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动触发，带 `--fix` 自动开格式化 PR） | 手动 |
+| `markdown-lint2.yml`（手动）/ `Markdown-lint2-pr.yml`（PR 触发） | markdownlint 检查（统一配置 `.markdownlint-cli2.jsonc`；手动流可 `--fix` 开格式化 PR） | 手动 / pull_request |
 | `check-images.yml` | 图片引用检查（悬空、可解析、本地化） | push |
-| `links.yml` | 链接检查 | push |
+| `links.yml` | 链接检查 | 定时（每月 15 日 18:00 UTC）+ 手动 + repository_dispatch |
 | `md-padding.yml`、`AutoCorrect.yml` | 手动触发，自动补 CJK 空格并以 PR 提交，合并前人工核对 diff | 手动 |
 | `Auto-Assign.yml`、`GC.yml`、`create-pdf.yml` | issue/PR 自动分配、垃圾回收、PDF 导出 | 各自约定 |
 
 * 不要新增与上述约定冲突的本地规则；需要新检查时先改 `tools/` 并在此登记。
+* CI 红灯定位：打开 `checks.yml` 的第一个失败 step，按上表同名工具在本地用相同命令复现（如 `python tools/check_summary.py`）；各工具退出码语义见其 docstring，不按文字推断。
 * lint 配置统一在根目录 `.markdownlint-cli2.jsonc`（规则、纳入范围、按文件豁免），`.github/.markdownlint.json` 保留为等价规则副本；`yuanwen/`（原文照录）与 `.zcode/`（本地工具）不参与 lint。
 * 修改工作流须同步更新本表（变更管理见 [06-governance.md](06-governance.md)）。
 
@@ -67,6 +68,15 @@
   bunx markdownlint-cli2            # 按 .markdownlint-cli2.jsonc 的 globs 与规则检查
   bunx markdownlint-cli2 --fix      # 自动修复可修复项
   ```
+
+## 站点运行（本地预演）
+
+阅读站的构建机制是实现细节，见 [`.vitepress/README.md`](../.vitepress/README.md)（**说明而非规则**）；本节只记命令与硬约束。
+
+* 顺序：`bun install` → `bun run dev` → `bun run build` → `bun run preview`；包管理统一 bun，不使用 npm / npx（[ADR-0014](adr/0014-包管理统一bun弃用npm.md)）。
+* dev 固定 `0.0.0.0:81` 且 `strictPort`：端口被占即启动失败，不换端口、不静默降级。
+* `dev` 与 `build` 先跑 `.vitepress/prepare-assets.mjs` 复制 MathJax 离线资源，缺 `node_modules` 时 exit 1；`preview` 不跑该步骤，故须先 `build`。
+* 页面范围由 `.vitepress/config.mts` 的 `srcExclude` 控制：治理/管线目录（`rules/`、`specs/`、`tools/`、`tasks/`、`.qoder/` 等）一律不进站点；**新增此类目录须同步补 `srcExclude`**，否则会被构建为页面并进入全文搜索索引。
 
 ## 提交策略
 

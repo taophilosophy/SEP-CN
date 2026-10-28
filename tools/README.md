@@ -41,12 +41,13 @@ python tools/clean.py                        # 本地垃圾试运行清单（--g
 python tools/progress.py                     # 重新生成 PROGRESS.md
 python tools/task_ops.py show <slug>         # 查任务状态
 python -m unittest discover -s tools/tests   # 管线单元测试
-markdownlint-cli2                            # lint（配置见 .markdownlint-cli2.jsonc）
+bunx markdownlint-cli2                       # lint（配置见 .markdownlint-cli2.jsonc；ADR-0014 只用 bunx）
 ```
 
 ## 约定
 
 * 一工具一职责；新工具入库须在本 README 登记（规则见 `rules/06-governance.md`）。
+* 工具全量清单与逐项职责以 `rules/05-ci-and-tools.md` 为准；本文件只列常驻入口，避免两处清单漂移。
 * 一次性脚本、临时日志放 `script/`（gitignore 草稿区），沉淀为正式工具时迁入本目录并补登记。
 * 管线行为变更须同步 `rules/05-ci-and-tools.md` 与 `specs/001-sep-sync-pipeline/contracts/cli.md`。
 * 门禁项随 `.github/workflows/checks.yml` 在 push 时自动运行；`baseline_audit.py` 因依赖本地原始物仅在本地执行。

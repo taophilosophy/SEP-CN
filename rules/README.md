@@ -32,12 +32,15 @@
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-07` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
+| 站点实现文档 | [`.vitepress/README.md`](../.vitepress/README.md) | 阅读站构建、主题、搜索、双语配对的实现说明（**非规则**，冲突以 rules/ 为准；ADR-0015） | 站点会话 |
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
 | 执行记录 | `specs/<NNN>-*/execution-log.md`（+ demo-log、分析记录） | 干执行凭证与流程修订输入 | 该工程会话 |
 | 散页标准 | `fang-fa-lun/gong-cheng-fang-fa.md`（翻译工程标准 v1.0）等 | 各会话产出的操作性标准，**待逐步折叠进 rules/**，折叠前以本表登记为准 | 原产出会话 |
 | 任务状态 | `tasks/<slug>.json` | 翻译/更新任务 | 对应会话 |
 | 进度汇总 | `PROGRESS.md`（生成物，不手改） | `tools/progress.py` 输出 | 管线 |
+
+> 生成物不承载规则：`PROGRESS.md`、Qoder 仓库 Wiki（`.qoder/repowiki`，2026-10-28 折叠退役，ADR-0015）均非事实源；与它们冲突时以本目录与 `specs/` 为准。
 
 ## 快速判例
 
@@ -49,3 +52,4 @@
 * 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。
 * 批量或破坏性动作 → 先满足宪法附加约束（可信基线 + 可回溯），见 [06](06-governance.md)。
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
+* 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05-ci-and-tools.md) 为准。

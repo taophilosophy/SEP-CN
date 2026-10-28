@@ -35,6 +35,11 @@
 | D16 | ~~yuanwen.py 块游走器吞章~~ **✅ 已解除（2026-10-28）**：真因为上游漏写 `</p>` 时深度配对永不归零（非 toc div 配平问题），`_find_close` 对 p 采用隐式闭合语义（`</p>`/`</li>`/下一块级开标签即闭合）；公式保护加护栏（含 HTML 标签或超界的未配对定界符不暂存，typelogical 40KB 吞段根因）；63 补充材料缺件随重转换补齐 | 正文完整性恢复（aquinas §2–13 等回位） | 原 19+63 文件 | ✅ 已解除 |
 | D17 | 上游双重转义实体（`&amp;rsquo;` 等）随转带入 md | 上游编辑噪声，忠实带过 | 26 文件 | P3 |
 | D18 | yuanwen 侧镜像占位（未抓取词条）**裁定保留（2026-10-28）**：维持 yuanwen/SUMMARY.md 链接可解析；占位仅允许对无 baseline 实体的 slug 存在，覆盖实体件的事故（18thGerman）已修复并重转换；2 个无 zh 对应孤儿已删 | 口径已定：保留 + 禁覆盖实体件 | 134 个 | ✅ 已解除 |
+| D19 | `AutoCorrect.yml` 仍用 yarn 全局安装（ADR-0014 已统一 bun：md-padding 已迁移，此流遗漏） | 工具链双轨、与 ADR-0014 冲突 | 1 个工作流 | P2 |
+| D20 | `create-pdf.yml` 检出第三方仓库 `FreeBSD-Ask/gitbook-pdf-export` 并向其 push tag / 发 Release（手动触发即写外部仓库） | 误触即污染他人仓库 | 1 个工作流 | P1 |
+| D21 | 根级 `sm.xml` 实为上游 404 页面快照（`<title>Document Not Found</title>`），已入库 | 仓库杂物、易被误认为站点地图 | 1 文件 | P3 |
+| D22 | `tasks/` 根级非字母目录 JSON：`ci-hui-biao.json`（kind=glossary-maintenance）按路径规则（`tasks/<首字母>/<slug>.json`）不被 `task_ops` 读取；`term-candidates.json`、`term-pool.json` 为术语工作池，未登记归属 | 任务操作对根级记录不可见 | 3 文件 | P2 |
+| D23 | 许可证二义：README/package.json/CONTRIBUTING 为 BSD-2-Clause，`qian-yan/ban-quan-shuo-ming.md` 写 BSD-3-Clause | 发布许可表述不一致 | 1 处 | P2 |
 
 ## 三、Doctrine 落地路线（不计成本建议）
 
@@ -52,3 +57,4 @@
 * 2026-10-28 yuanwen 全量复核（1727 主文 + 427 补充材料，逐文件：结构/乱码/图片/数学/脚注/完整性）：乱码与 UTF-8 解码零缺陷；24 件哈希漂移已用现工具重转换归零、SUMMARY 镜像已同步；抽读 abduction/tarski/japanese-aesthetics/aquinas/aristotle/algebra 等定性；新增 D14–D18。
 * 2026-10-28 二次全量复核（1878 主文 + 546 补充材料，D14–D16 修复后全量重转换）：转换器级缺陷全部归零；新发现并修复补充材料站点导航渗漏（convert_supplement 缺切片，374 件含 Browse/About/Support SEP 导航）；三样本段落级抽读通过（alcmaeon 30 段 1:1、algebra 源公式 850 全在案、japanese-aesthetics 33 图 1:1）；余 60 项均为上游固有噪声（断锚 33/双转义实体 15/注释资产 8/小文件边界比率 2/未配对定界符字面量 2），已逐类定性登记。审计脚本与明细：%TEMP%\yuanwen_audit.py。
 * 2026-10-28 三轮复核（登记表复审，批准执行）：check_all --all 9/9 全绿（含基线完整性审计与英文镜像深度复核）；D3 实测解除（上游增量 74→0：71 intake + 3 并行处置，71 个 retranslate 任务转入 D1）；D5 实测解除（1878 条 zh_doc 全字母目录形态、异常 0）；D6 实测解除（test_yuanwen.py 17 项直接单测）；D10 标签在位确认；D1 更新为 done=1/1878（spacetime-holearg 空穴论证演示件，战役进度 0.1%）；D7 缺口实测 73（check_mulu_s 第[3]节）；D4 补个例裁定记录。
+* 2026-10-28 仓库 Wiki 折叠审计（ADR-0015）：`.qoder/repowiki` 63 个文件按 7 模块零信任比对（3 模块并行子代理、4 模块主线直接核验）；回灌站点构建知识至 `.vitepress/README.md`、运行/门禁口径至 rules/05 与 CONTRIBUTING、目录职责补齐至 rules/01；权威层随审计修正门禁计数（六项+单测）、任务路径、CI 触发、lint 命令、AGENTS 进度数字；新增 D19–D23。

@@ -26,13 +26,13 @@
 
 1. `git log --oneline -5` + `git status`——核对基点；本仓库多会话并行，**推送前先 `git pull --rebase`**（并行会话 push 竞态会孤儿化对方提交，见 `rules/06-governance.md`）；
 2. 通读 `rules/README.md` 的“规则地图”与“快速判例”；
-3. 跑门禁：`python tools/check_all.py`（一键全量：七项门禁 + 单元测试，并行约 6 秒，应全绿）；
+3. 跑门禁：`python tools/check_all.py`（一键全量：六项门禁 + 单元测试，共 7 项，并行约 6 秒，应全绿）；
 4. 查进度与任务：`PROGRESS.md`、`python tools/task_ops.py show <slug>`；
 5. 收工前：相关检查器复跑、相关文件提交（中文一行信息），不留未提交的半成品。
 
 ## 当前阶段与主战场（2026-10-27）
 
-基础设施已全部就绪：结构定型（ADR-0009）、抓取完整性收敛（fetch_audit 不动点 1724/1724）、管线无矛盾（八项职责权属契约化）、门禁全绿、学术规范挂钩实拦、G5 里程碑 tag `v2026.10.27-目录重建定型`。**主战场**：① 首轮真实翻译（1791 词条，abduction 任务已就绪，走完整三审三校验证工作流）；② 74 条上游增量 intake（`specs/001-sep-sync-pipeline/dir-rebuild/upstream-increment.json`：建任务 → 译名登记 → apply-add）；③ 更新流程例行化（存档季 `fetch_catalog` + `compare`，漂移自动进 update 任务）。进度看 `PROGRESS.md`，技术债务看 `specs/004-engineering-doctrine/spec.md` 登记表。
+基础设施已全部就绪：结构定型（ADR-0009）、抓取完整性收敛（fetch_audit 不动点）、管线无矛盾（八项职责权属契约化）、门禁全绿、学术规范挂钩实拦、G5 里程碑 tag `v2026.10.27-目录重建定型`。**主战场**：① 首轮真实翻译（正式词条 1878，done 1；abduction 任务已就绪，走完整三审三校验证工作流）；② 上游增量 intake（首轮 74 条已清零，见 `specs/004` D3；新漂移按存档季流程建任务：译名登记 → apply-add）；③ 更新流程例行化（存档季 `fetch_catalog` + `compare`，漂移自动进 update 任务）。**计数一律以 `PROGRESS.md`（生成物）与 `specs/004` 登记表为准，本文件不复制数字**。
 **多会话分批执行**：交接开工卡见 `specs/005-translation-campaign/session-handoff.md`——开工三件事（status/next/claim）、各阶段标准作业、纪律与验收，新会话拿卡即独立开工。
 
 ## 硬约束速览
@@ -46,4 +46,4 @@
 * **更新流程**：`fetch_catalog` 检测漂移 → `compare.py <slug>` 产出持久变更文件 → `task_ops.py` update 任务（evidence 以 `changes:` 开头）→ 三校走变更段。
 * **结构形态**：词条为 `<letter>/<slug>.md`（SEP slug 命名，字母目录 A–Z），别名链目标、导航链 README；英文镜像 `yuanwen/<letter>/<slug>.md` 逐字符一致（ADR-0009）。
 * **单体文件**：叙事/规则/规格类 md 超 1000 行或 100KB 必须按文件夹拆分（登记册与生成物豁免，见 ADR-0004）；门禁 `tools/check_doc_size.py`。
-* **检查**：本地一键 `python tools/check_all.py`（七项门禁 + 单元测试；`--all` 加基线审计）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。
+* **检查**：本地一键 `python tools/check_all.py`（六项门禁 + 单元测试，共 7 项；`--all` 另加基线审计与英文镜像复核，共 9 项）；定点 `check_academic.py --docs <路径> --strict`；推送后 CI 为最终裁判。
