@@ -31,6 +31,7 @@ EXEMPT = {
     "SUMMARY.md",
     "mu-lu-s.md",
     "yi-zhe-shuo-ming.md",
+    "ren-ming-biao.md",  # ADR-0012 人名登记册，同性质豁免
     "PROGRESS.md",
     "qian-yan/ci-hui-biao.md",
 }

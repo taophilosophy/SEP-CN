@@ -46,6 +46,7 @@ EXCLUDE_DIRS = {
 }
 EXCLUDE_FILES = {
     'README.md', 'SUMMARY.md', 'mu-lu-s.md', 'yi-zhe-shuo-ming.md',
+    'ren-ming-biao.md',  # ADR-0012 人名登记册，与 yi-zhe-shuo-ming 同性质
     'PROGRESS.md', 'AGENTS.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md',
 }
 
