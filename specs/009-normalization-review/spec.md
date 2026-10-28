@@ -81,6 +81,28 @@
 
 **执行方式**：先静态（读 convert_entry 源码归纳目录）→ 再动态（全库形态分布扫描）→ 分歧处逐例人工裁定 → 抽样语义保真。机械检查器全部保留，但输出仅作前置筛选与回归防线，不构成复核结论本身。
 
+## 全量逐段复核（长线战役，2026-10-29 改令）
+
+**口径**：baseline 全部 1878 词条，逐条对 `en/<slug>/index.html` 与 `yuanwen/<letter>/<slug>.md` 做全段对齐比对（复用 convert_entry 切块路径：HEAD/TAIL_RE 取 article + `extract_blocks_raw`；md 侧剥标题/作者行、截 Notes 与引用定义尾部、空行分块）。补充材料不逐段（D14 家族在途修复），只登记数量与形状。
+
+**对齐判据**：文本骨架归一（HTML 侧去标签/去实体/数字引用标记剔除/公式定界内容→⟦M⟧；md 侧剥语法/脚注键剔除/公式→⟦M⟧/图片语法剔除留题注）后 difflib 序列对齐：
+
+* `match` 对：记录形状特征（html 块型 ↔ md 块型）与比值，聚合成 T-01…T-09 的**全库形态分布**证据——本战役即形态唯一性扫描本体，独立 transpile 扫描器不再单列；
+* `replace/insert/delete` 段与比值 <0.97 的对：**分歧段，100% 人工复核**，逐条裁定落 `adjudication.jsonl`（slug、对位、T-xx 归类、裁定、动作）；
+* 逐条同时采集**标题链三元组**（SUMMARY 条目文字 / zh H1 / yuanwen H1）比对结果——"确保 SUMMARY 正确"的全量逐条凭证。
+
+**人工复核协议（反机械，每条词条）**：分歧段全量；无分歧段抽检 ≥3 段——最长段、含公式段、含表格或链接段各一，读原文与镜像确认语义保真（非勾选式，记录词条名与结论）。
+
+**长线战役组织**：
+
+* **批次**：按字母 A–Z 分批，每批完成即分批提交（不 push）；
+* **断点**：`results/para-review/review-log.jsonl` 一行一词（state ok/flagged/error + 计数），驱动器续跑自动跳过已录入词条，`--force` 重跑；
+* **多会话认领**：认领以字母批为单位，开工三件事（status/next/claim）登记 execution-log，完成该字母批后注销认领；
+* **零写入**：en/、yuanwen/、baseline 只读；裁定不改被审文件，修复走归属会话或 update 任务；
+* **并行在途**：mirror 会话在途编辑文件（如 s/spacetime-holearg.md）若被扫出分歧，登记归属不裁改。
+
+**进度口径**：战役进度以 `review-log.jsonl` 聚合为准（驱动器 `--summary`），不写 PROGRESS.md。
+
 ## 工具（复用优先，零新建起步）
 
 既有：`tools/check_summary.py`、`tools/check_mulu_s.py`、`tools/summary_sync.py report`（上游三方裁决）、`tools/en_integrity.py`、`tools/fetch_audit.py`、`tools/yuanwen.py --all-baselined`、007 `bin/yuanwen_recheck.py`、`bin/check_markdown.py`。
@@ -99,6 +121,8 @@
 ## 约束与用户裁定
 
 * **禁止机械复核（用户裁定 2026-10-29）**："必须确保格式的转译一致性"——检查器全绿是必要非充分条件；验收以「格式转译一致性」专节的转译规则目录核对与人工裁定为准。
+* **逐段抽样→全量（用户指令 2026-10-29 两连）**：先"随机抽取1%的html yuanwen en进行逐段审阅"，随即改令"改为全量逐段复核，建立长线任务书"。全量口径见「全量逐段复核（长线战役）」节；1% 抽样方案作废，种子名单不再产出。
+* **确保 SUMMARY 正确（用户指令 2026-10-29 补充）**：SUMMARY.md 正确性列为本战役硬门槛——①条目集 = baseline 1878（多/缺逐条裁定）；②条目路径在盘且为 `<letter>/<slug>.md` 形态；③标题链 SUMMARY 条目文字 ↔ zh H1 ↔ yuanwen H1 **全量逐条**核对（para_review 采集，全量凭证落盘）；④转义规则（`\*`/`\[`/`\]`）保留 + 既有 `check_summary.py`/`check_mulu_s.py` 门禁全绿。
 * **零写入被审对象**：en/ 与 baseline 只读；yuanwen/ 仅 yuanwen_recheck 的窥探比对路径（不落盘）；产物只落 `results/`。
 * **并行会话共存**：当前工作树有在途编辑（mu-lu-s.md、yuanwen/SUMMARY.md、tools/yuanwen.py 等已 staged）。复核在当前磁盘态执行；发现与在途编辑冲突处**只登记归属，不裁改**。
 * **礼貌抓取不适用**：本战役纯本地比对，无网络请求；如需上游快照对照，走 `fetch_catalog` 既有 5 秒礼貌。
@@ -111,13 +135,16 @@
 3. 四方集合一致性：多/缺 = 0，或逐条有显式裁定登记。
 4. 标题链三方比对：不一致 = 0，或逐条有显式裁定登记。
 5. 007 已知发现基线不扩大（逐项对照计数）。
-6. 执行日志留痕；`python tools/check_all.py` 九项全绿（含 `--all` 基线审计与英文镜像复核）；分批提交（不 push）。
+6. **全量逐段复核完成（长线）**：1878/1878 词条对齐凭证落盘（review-log.jsonl）；分歧段 100% 人工裁定（adjudication.jsonl 零未裁决）；无分歧段每条 ≥3 段抽检留痕；T-01…T-09 全库形态分布报告落 transpile-rules.md。
+7. 执行日志留痕；`python tools/check_all.py` 九项全绿（含 `--all` 基线审计与英文镜像复核）；分批提交（不 push）。
 
 ## 产物
 
 * `specs/009-normalization-review/spec.md` —— 本任务书
 * `specs/009-normalization-review/execution-log.md` —— 干活日志
 * `specs/009-normalization-review/bin/quad_norm.py` —— 四方集合/标题链比对驱动器（如需）
-* `specs/009-normalization-review/bin/transpile_scan.py` —— 转译规则形态分布扫描器（按 T-xx 规则逐条出全库分布与分歧清单）
+* `specs/009-normalization-review/bin/transpile_scan.py` —— 独立扫描器取消：全量逐段形状直方图即 T-rule 分布扫描（2026-10-29 改令并入 para_review.py）
+* `specs/009-normalization-review/bin/para_review.py` —— 全量逐段复核驱动器（A–Z 分批、断点续跑、形状特征采集 = T-rule 全库分布证据）
 * `specs/009-normalization-review/results/transpile-rules.md` —— 转译规则目录（T-xx 逐条：构件、判据、形态分布、抽样凭证、裁定）
+* `specs/009-normalization-review/results/para-review/` —— review-log.jsonl（一行一词断点凭证）+ `<slug>.json`（逐条对齐明细）+ adjudication.jsonl（分歧段人工裁定）+ para-review-summary.md（汇总裁定）
 * `specs/009-normalization-review/results/` —— 矩阵逐格凭证（目录层 / yuanwen / en / 跨对象四组）
