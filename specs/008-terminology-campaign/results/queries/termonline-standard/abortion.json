@@ -1,0 +1,47 @@
+{
+ "key": "abortion",
+ "term": "abortion",
+ "provider": "termonline-standard",
+ "queried_at": "2026-10-28T15:18:52+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=5",
+ "hits": [
+  {
+   "cn": "胎动不安",
+   "en": "threatened abortion",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "小产",
+   "en": "late abortion",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "堕胎",
+   "en": "early abortion",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "滑胎",
+   "en": "habitual abortion",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "胎死不下",
+   "en": "retention of dead fetus",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 5}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 5}, \"typeStats\": {\"7\": 5}, \"totalRecords\": 5, \"tmWordList\": [{\"id\": \"ec25bb2dfdfd41ddbe93c04af046f9c1\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.6\", \"cnName\": \"胎动不安\", \"enName\": \"threatened abortion\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32173, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"胎动不安\", \"cnNameSearch\": \"胎动不安\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"threatened abortion\", \"wordSearch\": \"threatened abortion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以自觉胎动，下腹坠胀，腰酸腹痛，或伴阴道少量流血为特征的妊娠病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cd9d29d383934f97ba92fc9bdeea1ba0\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.8\", \"cnName\": \"小产\", \"enName\": \"late abortion\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32216, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"小产\", \"cnNameSearch\": \"小产\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"late abortion\", \"wordSearch\": \"late abortion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以妊娠12周～28周内，胎儿已成形而自然殒堕为特征的妊娠病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e7b520f154d842a2afb4b074945cefb5\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.7\", \"cnName\": \"堕胎\", \"enName\": \"early abortion\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32247, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"堕胎\", \"cnNameSearch\": \"堕胎\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"early abortion\", \"wordSearch\": \"early abortion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以妊娠12周内，胚胎自然殒堕为特征的妊娠病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7852016e066e467aaff4db9b72f1d4da\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.10\", \"cnName\": \"滑胎\", \"enName\": \"habitual abortion\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32264, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"滑胎\", \"cnNameSearch\": \"滑胎\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"habitual abortion\", \"wordSearch\": \"habitual abortion\"}, {\"languageType\": 1, \"word\": \"recurrent spontaneous abortion\", \"wordSearch\": \"recurrent spontaneous abortion\"}, {\"languageType\": 1, \"word\": \"RSA\", \"wordSearch\": \"RSA\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以堕胎或小产连续发生3次或3次以上为特征的妊娠病。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>相当于复发性流产，俗称习惯性流产。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f87d6dd786a848d3bea6338276b8f580\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"6.12\", \"cnName\": \"胎死不下\", \"enName\": \"retention of dead fetus\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32254, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"胎死不下\", \"cnNameSearch\": \"胎死不下\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"retention of dead fetus\", \"wordSearch\": \"retention of dead fetus\"}, {\"languageType\": 1, \"word\": \"missed abortion\", \"wordSearch\": \"missed abortion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以胎死胞中，不能自行排出为特征的妊娠病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1793200731203}"
+}
