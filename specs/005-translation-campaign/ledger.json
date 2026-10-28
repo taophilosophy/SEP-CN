@@ -9,11 +9,11 @@
    "advanced_at": "2026-10-27T11:31:02Z"
   },
   "a": {
-   "phase": "intake",
-   "claimed_by": null,
-   "claimed_at": null,
-   "note": "批次干执行演练",
-   "advanced_at": "2026-10-27T11:13:01Z"
+   "phase": "translate",
+   "claimed_by": "ses-007-rev",
+   "claimed_at": "2026-10-28T16:19:43Z",
+   "note": "fetch/convert事实已满足（基线160/160镜像160/160，intake add=0）；political-philosophy遗留桩已裁定移除",
+   "advanced_at": "2026-10-28T16:35:48Z"
   },
   "b": {
    "phase": "pending",
@@ -170,5 +170,5 @@
    "advanced_at": "2026-10-27T11:31:25Z"
   }
  },
- "updated_at": "2026-10-27T12:10:00Z"
+ "updated_at": "2026-10-28T16:35:48Z"
 }

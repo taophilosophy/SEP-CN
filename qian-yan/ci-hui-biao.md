@@ -5,6 +5,7 @@
 |英语|中文|备注|
 |:---:|:---:|:---:|
 |3rd Earl of Shaftesbury|第三代沙夫茨伯里伯爵|即 Anthony Ashley Cooper（安东尼·阿什利-库珀），见 Lord Shaftesbury 条|
+|ampliative (inference)|扩展（推理）／扩展性|又称：扩展的；首现 abduction|
 |A Very Easy Death|安详辞世||
 |A Week on the Concord and Merrimack Rivers|河上一周|梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》|
 |Abd al-Latif|阿卜杜勒·拉蒂夫||
@@ -66,6 +67,7 @@
 |Arcesilaus|阿尔凯西劳||
 |Archytas|阿尔库塔斯||
 |Argument|论证|悖论是 paradox，勿混；此行系 2026-10-27 复核时漏改、v2 工具复查补正|
+|argument of the bad lot|坏堆论证|bad lot；best of a bad lot 坏堆中的最佳；首现 abduction|
 |Aristotelianism|亚里士多德主义||
 |Aristotle|亚里士多德||
 |Aspect|体（体貌）|语言学范畴，与 tense（时态）相对；旧译“体态”易与 posture 混，此行系 2026-10-27 复核时漏改、v2 工具复查补正|
@@ -233,6 +235,7 @@
 |doxographical tradition / doxography|学说史传统；学说汇编|阿尔克迈翁条术语|
 |dualism|二元论||
 |Dugald Stewart|杜格尔·斯图尔特||
+|Dutch book (argument)|荷兰赌（论证）|首现 abduction|
 |Dynamic Semantics|动态语义||
 |early modern|近代早期|哲学史分期用语，约指 16—18 世纪欧洲|
 |Edmund Burke|埃德蒙·伯克||
@@ -244,11 +247,13 @@
 |empirical|实证|另有“经验（主义）”译法，参见汤茂林、黄展《Empirical Research 到底是实证研究还是经验研究？——兼论学术研究的分类》，《地理研究》2020 年第 39 卷第 12 期，第 2855-2860 页。|
 |empirical|经验的|作形容词；empiricism 才是“经验主义”（经验论）；亦译“实证（的）”，见上行所引专文|
 |empirical approaches|经验主义研究||
+|empirical equivalence|经验等价|首现 abduction|
 |empirically equivalent|经验等价|科学实在论争论术语|
 |empiricism|经验主义|亦译“经验论”；形容词 empirical 见专行|
 |entanglement|纠缠||
 |Epicurus|伊壁鸠鲁||
 |Epistemic Structural Realism|认识论的结构实在论||
+|epistemology of belief / of degrees of belief|信念的认识论／信念度的认识论|Foley (1992) 术语；首现 abduction|
 |Epistemology of Visual Thinking in Mathematics|数学中的视觉思维认识论||
 |Ernst Bloch|恩斯特·布洛赫||
 |Ernst Cassirer|恩斯特·卡西尔||
@@ -260,6 +265,7 @@
 |existentialism|存在主义||
 |Experience|经验；体验|经验主义与认识论语境译“经验”，现象学、存在主义语境（lived experience）译“体验”|
 |Explanation|解释||
+|explanationism|解释主义|explanationist 解释主义者；首现 abduction|
 |externalism|外在主义|与 Content Externalism 内容外在主义对应；内在主义为 internalism|
 |Extrinsic|外在||
 |Faith in a Seed|种子的信仰||
@@ -341,6 +347,7 @@
 |induction hypothesis|归纳假设|数学归纳法语境|
 |Inertial Frames|惯性系||
 |Inference to the Best Explanation|最佳解释推理|亦作“最佳说明推理”；abduction 词条核心概念|
+|Inference to the Worst Explanation (IWE)|最差解释推理|与 IBE 对偶；首现 abduction|
 |inherence|依存；寓存|指偶性、属性依存（寓存）于实体；注意与 immanence（内在性）相区别|
 |inner speech|内部言语||
 |institutional neutrality|机构中立|学术自由语境：大学对争议议题的中立性原则|
@@ -452,6 +459,7 @@
 |Niels Bohr|尼尔斯·玻尔||
 |nihilism|虚无主义||
 |Nominalism|唯名论|共相问题立场之一，与实在论（Realism）、概念论（Conceptualism）并列|
+|Nominalism in Metaphysics|形而上学中的唯名论|SEP 词条题名|
 |non-cognitivism|非认知主义||
 |non-wellfounded|非良基||
 |Nova Atlantis|新大西岛||
@@ -561,6 +569,7 @@
 |Rigor|严谨性||
 |Roger Bacon|罗吉尔·培根||
 |Rudolf Carnap|鲁道夫·卡尔纳普||
+|rule-circularity|规则循环|premise-circularity 前提循环；首现 abduction|
 |Samuel|塞缪尔|泛指名，具体所指以正文为准（如 Samuel Alexander 塞缪尔·亚历山大见专条）|
 |Samuel Alexander|塞缪尔·亚历山大||
 |Samuel Ibn Tibbon|撒母耳·伊本·提本||
@@ -671,6 +680,7 @@
 |Theological-Political Treatise|神学政治论||
 |Theophrastus|特奥弗拉斯托斯|亦译“泰奥弗拉斯特”“忒俄弗拉斯托斯”“提奥弗拉斯特”（2026-10-27 按登记册对齐）|
 |Theoretical Terms|理论术语||
+|theoretical virtues|理论美德|首现 abduction|
 |Theory|理论||
 |theory of judgement|判断理论||
 |thermodynamic time asymmetry|热力学时间非对称性||

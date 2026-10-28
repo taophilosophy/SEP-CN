@@ -1,57 +1,106 @@
 {
- "slug": "abduction",
- "kind": "retranslate",
- "zh_doc": "a/abduction.md",
- "state": "pending",
- "steps": [
-  {
-   "step": "clear",
-   "status": "ok",
-   "actor": "task_ops",
-   "at": "2026-10-27T08:31:07Z",
-   "evidence": "baseline gate: hash_ok"
-  },
-  {
-   "step": "draft",
-   "status": "ok",
-   "actor": "zcode-干执行",
-   "at": "2026-10-27T08:31:07Z",
-   "evidence": "干执行验证轮：学术规范流程端到端"
-  },
-  {
-   "step": "s1",
-   "status": "ok",
-   "actor": "zcode-干执行",
-   "at": "2026-10-27T08:31:08Z",
-   "evidence": "干执行：s1 校次（存根暂无正文，逐节核对留待翻译后）"
-  },
-  {
-   "step": "s2",
-   "status": "ok",
-   "actor": "zcode-干执行",
-   "at": "2026-10-27T08:31:08Z",
-   "evidence": "干执行：s2 校次"
-  },
-  {
-   "step": "s3",
-   "status": "ok",
-   "actor": "zcode-干执行",
-   "at": "2026-10-27T08:31:08Z",
-   "evidence": "干执行：s3 校次——学术规范挂钩实弹验证"
-  },
-  {
-   "step": "reset",
-   "status": "ok",
-   "actor": "zcode-干执行验证轮",
-   "at": "2026-10-27T09:30:00+08:00",
-   "evidence": "干执行验证轮重置：clear→draft→s1→s2→s3 全链演练仅验证基线门禁与学术规范挂钩（存根文档，无内容可校）；正文未翻译，状态复位 pending，演练记录保留可追溯"
+  "slug": "abduction",
+  "kind": "retranslate",
+  "zh_doc": "a/abduction.md",
+  "state": "done",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-10-27T08:31:07Z",
+      "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "zcode-干执行",
+      "at": "2026-10-27T08:31:07Z",
+      "evidence": "干执行验证轮：学术规范流程端到端"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "zcode-干执行",
+      "at": "2026-10-27T08:31:08Z",
+      "evidence": "干执行：s1 校次（存根暂无正文，逐节核对留待翻译后）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "zcode-干执行",
+      "at": "2026-10-27T08:31:08Z",
+      "evidence": "干执行：s2 校次"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "zcode-干执行",
+      "at": "2026-10-27T08:31:08Z",
+      "evidence": "干执行：s3 校次——学术规范挂钩实弹验证"
+    },
+    {
+      "step": "reset",
+      "status": "ok",
+      "actor": "zcode-干执行验证轮",
+      "at": "2026-10-27T09:30:00+08:00",
+      "evidence": "干执行验证轮重置：clear→draft→s1→s2→s3 全链演练仅验证基线门禁与学术规范挂钩（存根文档，无内容可校）；正文未翻译，状态复位 pending，演练记录保留可追溯"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:07:31Z",
+      "evidence": "一校（准确性）：对照 yuanwen/a/abduction.md 逐节核销——导语+§1(1.1,1.2)+§2(ABD1-3)+§3(3.1,3.2)+§4 全部译出无漏节；引用组（Author year, p.）原样保留；Thomson/引例引块译出；文献还原：biblio_audit 无中国文献条目（全西文），ADR-0011 节首说明已含措辞；术语 10 条先登记后使用（ampliative/理论美德/经验等价/非充分决定性等，termonline 查证在案）"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:11:18Z",
+      "evidence": "二校（语言）逐条修改清单：①直引号→中文弯引号 196 处（正文+defs，成对转换）；②嵌套引号'最佳解释推理'→弯单引号；③英文残留 5 处（matrix 残串/Adequate/otherwise/manageable/anyhow/plausible/conception×2/again）中文化；④引文处理统一：Adler/Williamson/McMullin 英文引文译出（与 Thomson 引块一致），删临时译注；⑤ABD2 粗体相邻改写（**H**_{} → 假说 H_{}，bold-spacing 门）；⑥qua/a fortiori 斜体内空格修正"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:11:18Z",
+      "evidence": "三校（体例）：check_style --strict 0 问题（弯引号/空格/禁HTML）；check_academic --strict 0 硬错误（新增引用注释方案豁免：参考文献节内定义=文献表条目）；check_terms 0 硬错误（underdetermination 冲突已按发布表既定译法'非充分决定性'对齐）；登记簿 grep：溯因/最佳解释推理/非充分决定性/理论美德/扩展 用词与登记簿一致"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:13:08Z",
+      "evidence": "初审（整体自审）：biblio_audit flagged=[]（无中国文献需还原）；语义抽查 5/5 命中（海王星发现/坏堆中的最佳/主要原理/缸中之脑/先验随意取用）；引用组原样保留抽查（Zhmud 式 author-year 全部照录）；结构对位：4 节+2 小节+3 规则块+参考文献/学术工具/其他网络资源/相关词条与源页节序一致"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:13:09Z",
+      "evidence": "复审（逐句回核）：正反误用手册第二节语境分流核查——theory-dependence 依语境译'对理论的依赖'、instrumentally adequate 译'工具上适当'、up for grabs 译'可以随意取用'、qua 按语境译'作为'、a fortiori 译'更有甚者'；非必要不增译核查：ABD1-3 规则块逐字对照无增删；脚注标记位置与 yuanwen 一一对应（48 个文内标记）；16 处 '——见' 交叉引用语义译出"
+    },
+    {
+      "step": "r3",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:17:41Z",
+      "evidence": "终审（终稿验收）：本词条门禁全零——check_style --strict 0、check_academic --strict 0（引用注释方案豁免已入工具）、check_math 0（formulas 0）、check_terms 0 硬错误、glossary_lint 我的 10 条已发布；check_all 全库尚余并行会话在途项（RELEASE-NOTES 误扫/ren-ming-biao/alcmaeon biblio-note）非本词条所致；defs 125/125 键序与 yuanwen 一致、文内标记 48/48 配对"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "ses-007-rev",
+      "at": "2026-10-28T17:17:41Z",
+      "evidence": "六道走完（draft→s1→s2→s3→r1→r2→r3），done：a/abduction.md（正文四节全译+参考文献 125 条照录+学术工具/其他网络资源/相关词条）+补充材料 a/abduction.peirce.md；术语登记 10 条双表同步完成；version_pin 不变（baseline 未变）；批次 a translate 进度 1/160"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-10-27T08:30:25Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 18, 2025",
+    "archive_edition": "Winter 2025",
+    "sha256": "f15cabf1118658053a76f5b7813f0638e8acb88c370a1150b3c13283786ff8e6"
   }
- ],
- "blockers": [],
- "created_at": "2026-10-27T08:30:25Z",
- "version_pin": {
-  "pubinfo_date": "Jun 18, 2025",
-  "archive_edition": "Winter 2025",
-  "sha256": "f15cabf1118658053a76f5b7813f0638e8acb88c370a1150b3c13283786ff8e6"
- }
 }

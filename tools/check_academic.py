@@ -225,7 +225,7 @@ def check_pubinfo(rel, pubinfo, rec, hard, warns):
                        fmt_zh(b_rev) if b_rev else '（无）'))
 
 
-def check_footnotes(ne, rel, hard, cross_refs=None):
+def check_footnotes(ne, rel, hard, cross_refs=None, biblio_span=None):
     refs, defs = {}, {}
     fence = False
     for lineno, line in ne:
@@ -249,6 +249,11 @@ def check_footnotes(ne, rel, hard, cross_refs=None):
             # 跨文件引用豁免：SEP 的脚注定义可被同词条补充材料引用
             # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
             if cross_refs and key in cross_refs:
+                continue
+            # 引用注释方案豁免："参考文献"节内的定义即文献表条目本身
+            # （转换器把整份文献表转为 [^key]: 定义，文内标记只挂已链接的引用组），
+            # 未被文内引用的条目是文献表的自然组成部分，非孤儿
+            if biblio_span and biblio_span[0] <= lineno and (biblio_span[1] is None or lineno < biblio_span[1]):
                 continue
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
 
@@ -351,7 +356,13 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
             except OSError:
                 continue
             cross_refs.update(re.findall(r'notes\.html#([A-Za-z0-9_-]+)', t))
-    check_footnotes(ne, rel, hard, cross_refs)
+    heads2 = []
+    for lineno, line in ne:
+        m2 = RE_HEADING.match(line.strip())
+        if m2:
+            heads2.append((lineno, len(m2.group(1)), m2.group(2)))
+    biblio_span = find_biblio_span(heads2)
+    check_footnotes(ne, rel, hard, cross_refs, biblio_span)
 
 
 def main(argv=None):

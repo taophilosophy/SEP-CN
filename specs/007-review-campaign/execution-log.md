@@ -108,3 +108,32 @@ write_summary 原为逐字符拷贝，zh 侧导航行（README/mu-lu-s/qian-yan/
 * CNKI/审定名词库通道：**已通**（termonline-standard 实测 abortion→5 hits 凭证入库）；
 * never-archived version_pin 豁免：并行会话已落地（5b40df70），本战役 4 条告警清零 ✓；
 * RELEASE-NOTES.md 误扫、yi-zhe-shuo-ming.md CRLF 回潮、political-philosophy intake：并行会话在途（其文件在写窗口内），未触碰。
+
+## A 批全流程翻译测试（2026-10-29 会话，用户指令"先补遗、再以A开头的所有词条为例进行全流程翻译测试，以期完善"）
+
+### 补遗收口
+
+* 上游增量 add=0（71 条已吸收）；political-philosophy 遗留桩裁定移除（上游 404、目录无此条、归档五代全 404 实证；apply-remove FR-022），mu-lu-s 残行清除；正式词条 1879→1878。
+* summary_sync report 反向标题索引**同题歧义盲区修复**（此前漏检根因："political Philosophy" 与五个同题上游词条撞题被静默放行；今歧义转人工裁定）。
+
+### 首件全流程：溯因 abduction（六道走完，done）
+
+* 流程：claim a 批（ses-007-rev）→ 账本 intake/fetch/translate 推进（附计数 note）→ 批内 147 个任务补建（累计 160/160）→ abduction 六道 done。
+* 译文：a/abduction.md 正文四节全译（~2.2 万字）+ 补充材料 a/abduction.peirce.md；参考文献 125 条 [^key] defs 逐字符照录（键序与 yuanwen 一致），文内标记 48/48 配对。
+* 术语：登记 10 条（ampliative 扩展性、theoretical virtues 理论美德、经验等价、非充分决定性、坏堆论证、规则循环、荷兰赌、解释主义、信念(度)的认识论、最差解释推理），termonline 查证在案；双表同步（发布表 +9，1 条 dup 既有）。
+* 门禁：check_style 0、check_academic --strict 0、check_math 0、check_terms 0 硬错误、glossary_lint 我的条目清零。
+
+### 工作流摩擦清单（"以期完善"的实质产出，共 8 项）
+
+1. **check_academic 引用注释方案盲区**（已修）：镜像转换器把整份文献表转为 [^key] defs、文内只挂已链接引用组——77 条未引用 defs 被误判 orphan-def。已加"参考文献节内定义豁免"（与 D14 跨文件豁免同类）。alcmaeon 若改用 defs 形态将同样受益。
+2. **summary_sync report 同题歧义盲区**（已修）：反向标题索引对同题多词条静默放行；歧义现在转人工裁定。
+3. **biblio-note ADR-0011 措辞**：节首说明必须含"中国文献译为中文"（alcmaeon 同样待修——并行会话在途项）。
+4. **术语登记必须查双表**：只查登记册会撞发布表既定译法（underdetermination 实证：发布表既有"非充分决定性"）。S2① 应改为"查双表"。
+5. **publish_terms.py 已过时**：向 5 列登记册插 4 列行（ADR-0012 前 tools），008 现行 SOP 为手工双表同步——工具应标记废弃或升级。
+6. **task_ops s1 双路径未记档**：STEP_EXPECT_PREV s1=("drafted","pending") 为有意设计（已有成稿免 clear-draft 循环），contracts/cli.md 未载，建议补记。
+7. **干执行残留任务状态**：演练后状态复位 pending 但 steps 留痕，重跑时 clear/draft 历史与新流程交错（abduction 实证）；建议演练复位时清 steps。
+8. **领批次前未读批次账本**：a 批 fetch/convert 事实早已满足而账本停在 intake——建议 campaign.py status 增加"事实满足可 advance"提示列。
+
+### 批次进度
+
+* a 批 translate：1/160 done（abduction）；159 待译（任务已全部建立）。
