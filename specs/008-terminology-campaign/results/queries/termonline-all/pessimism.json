@@ -1,0 +1,40 @@
+{
+ "key": "pessimism",
+ "term": "pessimism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T19:40:44+00:00",
+ "status": "ok",
+ "note": "variant=pessimism; 审定公布名词库=2; 海峡两岸名词对照库=2; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "悲观",
+   "en": "pessimism",
+   "code": "04.198",
+   "standard": "阿尔茨海默病名词",
+   "subject": "阿尔茨海默病_精神与心理认知学"
+  },
+  {
+   "cn": "技术悲观主义",
+   "en": "technological pessimism",
+   "code": "04.156",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "悲观",
+   "en": "pessimism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "最劣度",
+   "en": "pessimum",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

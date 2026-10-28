@@ -1,0 +1,348 @@
+{
+ "key": "instrumentalism",
+ "term": "instrumentalism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T18:30:43+00:00",
+ "status": "ok",
+ "note": "variant=instrumentalism; 审定公布名词库=609; 海峡两岸名词对照库=137; 其他来源数据库=17; 预公布名词数据库=27; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "code": "03.145",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向"
+  },
+  {
+   "cn": "工具性",
+   "en": "instrumentality",
+   "code": "04.0117",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_组织行为与人力资源管理_个体行为基础"
+  },
+  {
+   "cn": "插装",
+   "en": "instrument",
+   "code": "06.0270",
+   "standard": "计算机科学技术名词",
+   "subject": "计算机科学技术_软件工程"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality;instrumental reason",
+   "code": "04.012",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "组合仪表",
+   "en": "combination instrument,instrument cluster",
+   "code": "07.115",
+   "standard": "机械工程名词 第四分册",
+   "subject": "机械工程_汽车_汽车电器及汽车附属装置_汽车仪表"
+  },
+  {
+   "cn": "仪器舱",
+   "en": "instrument compartment,instrument module",
+   "code": "02.166",
+   "standard": "航天科学技术名词",
+   "subject": "航天科学技术_航天运载器"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "code": "03.294",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "技术手段论",
+   "en": "instrumentalism of technology; technological instrumentalism",
+   "code": "04.178",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "显微外科器械",
+   "en": "microsurgical instrument",
+   "code": "5.005",
+   "standard": "整形外科名词",
+   "subject": "整形外科_显微外科_显微外科设备与器材"
+  },
+  {
+   "cn": "仪器测放法",
+   "en": "instrument positioning",
+   "code": "08.0171",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林工程_风景园林种植"
+  },
+  {
+   "cn": "工具",
+   "en": "instrument; tool",
+   "code": "04.010",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "工具价值",
+   "en": "instrumental value",
+   "code": "04.011",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_技术哲学_一般技术哲学"
+  },
+  {
+   "cn": "仪表",
+   "en": "instrumentation",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "仪器",
+   "en": "instrument",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "乐器法",
+   "en": "instrumentation",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "乐器",
+   "en": "instrument",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词"
+  },
+  {
+   "cn": "探测",
+   "en": "instrumentation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "仪表",
+   "en": "instrumentation",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "仪器轮廓",
+   "en": "instrumental contour，instrumental profile",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "中星仪",
+   "en": "transit instrument\",\"meridian instrument",
+   "code": null,
+   "standard": "海峡两岸天文学名词",
+   "subject": "天文学"
+  },
+  {
+   "cn": "智能仪器，智能仪表",
+   "en": "intelligent instrument\",\"smart instrument",
+   "code": null,
+   "standard": "海峡两岸信息科学技术名词",
+   "subject": "信息科学技术"
+  },
+  {
+   "cn": "气象仪器",
+   "en": "meteorological instrument",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "仪表配置图",
+   "en": "instrumentation diagram",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "仪表流程图",
+   "en": "instrument flowsheet",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "虚拟仪器",
+   "en": "Virtual instrumentation",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "内能",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "不可逆性",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "温熵图",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "态函数",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "测量仪器",
+   "en": "Measuring instrument",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "化学势",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "压缩因子",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "可逆过程",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "工具理性",
+   "en": "Instrumental rationality",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "压强",
+   "en": "Thermodynamic instruments",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "票据",
+   "en": "Negotiable instrument",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "工具主义",
+   "en": "instrumentalism",
+   "code": "03.145",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向"
+  },
+  {
+   "cn": "政策工具",
+   "en": "policy instruments",
+   "code": "10.1.2.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "法规工具",
+   "en": "regulatory instruments",
+   "code": "10.1.2.2.1",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "民间器乐",
+   "en": "folk instrumental",
+   "code": "4.0392",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民俗学_民俗与民俗事象"
+  },
+  {
+   "cn": "无菌物品",
+   "en": "sterile instrument",
+   "code": "1.2.19.3",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒学_灭菌"
+  },
+  {
+   "cn": "医疗器械",
+   "en": "medical instrument",
+   "code": "4.6.9",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "仪器分析",
+   "en": "instrumental analysis",
+   "code": "6.1.13",
+   "standard": "消毒学",
+   "subject": "消毒学_检测与评价_理化检验"
+  },
+  {
+   "cn": "工具性角色",
+   "en": "instrumental role",
+   "code": "3.2.4.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_性别社会学_性别与家庭"
+  },
+  {
+   "cn": "工具理性",
+   "en": "instrumental rationality",
+   "code": "3.5.2.7",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_经济社会学_古典经济社会学"
+  },
+  {
+   "cn": "暴力工具",
+   "en": "violent instrument",
+   "code": "03.0033",
+   "standard": "马克思主义",
+   "subject": "马克思主义_科学社会主义_马克思恩格斯时期"
+  },
+  {
+   "cn": "器械冲洗水",
+   "en": "instrument flushing water",
+   "code": "4.6.11.5.2",
+   "standard": "消毒学",
+   "subject": "消毒学_消毒应用_医院消毒"
+  },
+  {
+   "cn": "固定式监测仪表",
+   "en": "fixed monitoring instrument",
+   "code": "6.5.3.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_工业应用的放射防护_工业辐照应用"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,68 @@
+{
+ "key": "nihilism",
+ "term": "nihilism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T19:27:04+00:00",
+ "status": "ok",
+ "note": "variant=nihilism; 审定公布名词库=6; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=2; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion,nihilism",
+   "code": "02.146",
+   "standard": "精神医学名词",
+   "subject": "精神医学_症状与体征_思维障碍症状"
+  },
+  {
+   "cn": "虚无妄想",
+   "en": "nihilistic delusion;nihilism",
+   "code": "16.084",
+   "standard": "行为医学名词",
+   "subject": "行为医学_其他神经行为障碍_异常行为症状"
+  },
+  {
+   "cn": "男性化",
+   "en": "virilism",
+   "code": "10.164",
+   "standard": "生理学名词",
+   "subject": "生理学_内分泌生理学"
+  },
+  {
+   "cn": "男性化",
+   "en": "virilism",
+   "code": "06.348",
+   "standard": "医学名词 第一分册",
+   "subject": "医学_内分泌病学"
+  },
+  {
+   "cn": "男性化",
+   "en": "virilization,virilism",
+   "code": "04.884",
+   "standard": "医学名词 第六分册",
+   "subject": "医学_泌尿外科学"
+  },
+  {
+   "cn": "女性男性化",
+   "en": "virilism;virilization;masculinization",
+   "code": "12.003",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_性发育疾病"
+  },
+  {
+   "cn": "历史虚无主义",
+   "en": "historical nihilism",
+   "code": "04.0387",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期"
+  },
+  {
+   "cn": "民族虚无主义",
+   "en": "ethnic nihilism",
+   "code": "2.0018",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族理论_基本概念"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,54 @@
+{
+ "key": "pythagoras",
+ "term": "Pythagoras",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:01:20+00:00",
+ "status": "ok",
+ "note": "variant=Pythagoras; 审定公布名词库=4; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "勾股定理",
+   "en": "Pythagoras theorem",
+   "code": "08.0045",
+   "standard": "数学名词",
+   "subject": "数学_几何学_拓扑学_欧几里得几何学"
+  },
+  {
+   "cn": "毕达哥拉斯学派",
+   "en": "Pythagorean School",
+   "code": "02.140",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_自然哲学_主要学派"
+  },
+  {
+   "cn": "毕达哥拉斯学派",
+   "en": "Pythagorean School",
+   "code": "02.0387",
+   "standard": "世界历史名词",
+   "subject": "世界历史_古代中世纪_希腊"
+  },
+  {
+   "cn": "毕达哥拉斯域",
+   "en": "Pythagorean field",
+   "code": "04.0460",
+   "standard": "数学名词",
+   "subject": "数学_代数学_代数几何学_域·多项式"
+  },
+  {
+   "cn": "毕达哥拉斯",
+   "en": "Pythagoras(希腊)",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国音乐家"
+  },
+  {
+   "cn": "勾股定理",
+   "en": "Pythagorean theorem/Pythagoras' theorem",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

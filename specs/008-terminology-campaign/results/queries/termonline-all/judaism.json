@@ -1,0 +1,33 @@
+{
+ "key": "judaism",
+ "term": "Judaism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T18:44:56+00:00",
+ "status": "ok",
+ "note": "variant=Judaism; 审定公布名词库=0; 海峡两岸名词对照库=1; 其他来源数据库=1; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "犹大·马加比",
+   "en": "Judas Maccabaeus",
+   "code": null,
+   "standard": "海峡两岸音乐名词",
+   "subject": "音乐名词_外国作品名"
+  },
+  {
+   "cn": "柔道运动员",
+   "en": "judo contestant\",\"judoist\",\"judoka",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_柔道名词"
+  },
+  {
+   "cn": "犹太教",
+   "en": "Judaism",
+   "code": "1.0315",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

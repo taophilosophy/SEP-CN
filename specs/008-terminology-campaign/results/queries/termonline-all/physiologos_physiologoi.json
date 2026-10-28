@@ -1,0 +1,257 @@
+{
+ "key": "physiologos / physiologoi",
+ "term": "physiologoi",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T19:47:19+00:00",
+ "status": "ok",
+ "note": "variant=physiologoi; 审定公布名词库=108; 海峡两岸名词对照库=24; 其他来源数据库=4; 预公布名词数据库=7; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "生理学",
+   "en": "physiology",
+   "code": "04.001",
+   "standard": "兽医学名词",
+   "subject": "兽医学_动物生理学"
+  },
+  {
+   "cn": "生理学",
+   "en": "physiology",
+   "code": "01.001",
+   "standard": "生理学名词",
+   "subject": "生理学_总论"
+  },
+  {
+   "cn": "细胞生理学",
+   "en": "cell physiology,cellular physiology",
+   "code": "01.004",
+   "standard": "生理学名词",
+   "subject": "生理学_总论"
+  },
+  {
+   "cn": "运动生理学",
+   "en": "exercise physiology,athletic physiology",
+   "code": "01.012",
+   "standard": "生理学名词",
+   "subject": "生理学_总论"
+  },
+  {
+   "cn": "生理性高催乳素血症",
+   "en": "physiologic hyperprolactinemia",
+   "code": "02.150",
+   "standard": "内分泌代谢病学名词",
+   "subject": "下丘脑与垂体疾病_垂体疾病"
+  },
+  {
+   "cn": "生理性音域",
+   "en": "physiologic range",
+   "code": "3.2.21.2",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈生理"
+  },
+  {
+   "cn": "生理性声带沟",
+   "en": "physiologic sulcus",
+   "code": "3.4.20.1",
+   "standard": "耳鼻咽喉头颈外科学名词",
+   "subject": "咽喉-头颈外科_咽喉–头颈畸形"
+  },
+  {
+   "cn": "生理性贫血",
+   "en": "physiologic anemia",
+   "code": "5.009",
+   "standard": "血液学名词",
+   "subject": "血液学_红细胞系统疾病_贫血"
+  },
+  {
+   "cn": "生理性皮瓣",
+   "en": "physiologic flap",
+   "code": "05.0264",
+   "standard": "手外科学名词",
+   "subject": "手外科学_手外科学分论_组织移植"
+  },
+  {
+   "cn": "生理心理学",
+   "en": "physiologic psychology",
+   "code": "04.005",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖健康心理卫生"
+  },
+  {
+   "cn": "生理性弯曲",
+   "en": "physiologic curvature",
+   "code": "04.1124",
+   "standard": "核医学名词",
+   "subject": "核医学_临床核医学_骨关节系统核医学_临床常见骨关节系统疾病"
+  },
+  {
+   "cn": "生理性皮瓣",
+   "en": "physiologic flap",
+   "code": "03.059",
+   "standard": "显微外科学名词",
+   "subject": "显微外科学_皮瓣_皮瓣基本理论"
+  },
+  {
+   "cn": "细胞生理学",
+   "en": "cell physiology\",\"cytophysiology\",\"cellular physiology",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "生理屏障",
+   "en": "physiologic barrier",
+   "code": null,
+   "standard": "海峡两岸免疫学名词",
+   "subject": "免疫学"
+  },
+  {
+   "cn": "发育生理学",
+   "en": "developmental physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "环境生理学",
+   "en": "environmental physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "逆境生理学",
+   "en": "stress physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "器官生理学",
+   "en": "organ physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "实验生理学",
+   "en": "experimental physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "野外生理学",
+   "en": "field physiology",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "气候生理学",
+   "en": "climatic physiology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "环境生理学",
+   "en": "environmental physiology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "高气压生理学",
+   "en": "hyperbaric physiology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "潜水生理学",
+   "en": "diving physiology",
+   "code": null,
+   "standard": "海峡两岸海洋科学技术名词",
+   "subject": "海洋科学技术"
+  },
+  {
+   "cn": "心血管生理学",
+   "en": "Cardiovascular physiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "甲羟戊酸",
+   "en": "Template:Endocrinology physiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "运动生理学",
+   "en": "sports physiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心脏生理学",
+   "en": "Cardiac physiology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生理性黄疸",
+   "en": "physiologic jaundice",
+   "code": "4.3.1.6",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健"
+  },
+  {
+   "cn": "性生理",
+   "en": "sex physiology",
+   "code": "3.3.1.2.1.2.1",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "围绝经期生理",
+   "en": "perimenopausal physiology",
+   "code": "3.7.4",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_更年期保健"
+  },
+  {
+   "cn": "军事作业生理学",
+   "en": "military operational physiology",
+   "code": "6.1",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "生理毒代动力学",
+   "en": "physiology-based toxicokinetic, PBTK",
+   "code": "1.4.2.48",
+   "standard": "食品卫生学名词",
+   "subject": "食品卫生学_总论_食品安全风险评估"
+  },
+  {
+   "cn": "军事体力作业分类",
+   "en": "category of military operational physiology",
+   "code": "6.1.1.2",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_军事作业医学_军事作业生理学"
+  },
+  {
+   "cn": "教育心理结合法",
+   "en": "combined method of physiology and educational psychology",
+   "code": "8.4.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

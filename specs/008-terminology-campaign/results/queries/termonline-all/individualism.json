@@ -1,0 +1,348 @@
+{
+ "key": "individualism",
+ "term": "individualism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T18:30:43+00:00",
+ "status": "ok",
+ "note": "variant=individualism; 审定公布名词库=175; 海峡两岸名词对照库=41; 其他来源数据库=55; 预公布名词数据库=53; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "code": "14.004",
+   "standard": "经济学名词",
+   "subject": "经济学_经济思想史"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "code": "01.0982",
+   "standard": "管理科学技术名词",
+   "subject": "管理科学技术_一般管理理论_企业理论"
+  },
+  {
+   "cn": "个体主义",
+   "en": "individualism",
+   "code": "04.064",
+   "standard": "心理学名词",
+   "subject": "心理学_理论心理学与心理学史"
+  },
+  {
+   "cn": "个体",
+   "en": "individual ",
+   "code": "4.0381",
+   "standard": "草学名词",
+   "subject": "草学_种子和育种_草类植物育种"
+  },
+  {
+   "cn": "个性化",
+   "en": "individualization",
+   "code": "3.142",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的生物学基础_生理学基础_本能行为"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "code": "01.0191",
+   "standard": "植物学名词",
+   "subject": "植物学_总论"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "code": "03.0119",
+   "standard": "化学名词",
+   "subject": "化学_分析化学_化学计量学"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "code": "09.0440",
+   "standard": "数学名词",
+   "subject": "数学_概率论_数理统计_样本·统计量"
+  },
+  {
+   "cn": "个别登记",
+   "en": "individual accession,individual registration",
+   "code": "03.412",
+   "standard": "图书馆·情报与文献学名词",
+   "subject": "图书馆·情报与文献学_信息资源建设_采访"
+  },
+  {
+   "cn": "个人主义和集体主义",
+   "en": "individualism collectivism",
+   "code": "10.057",
+   "standard": "新闻学与传播学名词",
+   "subject": "新闻学与传播学_跨文化传播_跨文化传播理论"
+  },
+  {
+   "cn": "心理学个体主义",
+   "en": "psychological individualism",
+   "code": "03.552",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "方法论个体主义",
+   "en": "methodological individualism",
+   "code": "03.805",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学"
+  },
+  {
+   "cn": "个体主义",
+   "en": "individualism",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个体性",
+   "en": "individuality",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个体性",
+   "en": "individuality",
+   "code": null,
+   "standard": "海峡两岸动物学名词",
+   "subject": "动物学"
+  },
+  {
+   "cn": "个体化",
+   "en": "individuation",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "个体化",
+   "en": "individualization",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "个体化",
+   "en": "individuation",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "方法论的个体论",
+   "en": "methodological individualism",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "个体发育",
+   "en": "individual development",
+   "code": null,
+   "standard": "海峡两岸解剖与组织胚胎学名词",
+   "subject": "解剖与组织胚胎学"
+  },
+  {
+   "cn": "生理学个体",
+   "en": "physiological individual",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "形态学个体",
+   "en": "physical individual",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "遗传学个体",
+   "en": "genetic individual",
+   "code": null,
+   "standard": "海峡两岸植物学名词",
+   "subject": "植物学"
+  },
+  {
+   "cn": "个体",
+   "en": "individual",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "别集",
+   "en": "Individual Collection",
+   "code": null,
+   "standard": "中华思想文化术语传播工程",
+   "subject": "文艺"
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual event",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_射箭名词"
+  },
+  {
+   "cn": "个人战术",
+   "en": "individual tactics",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_手球名词"
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_体操名词"
+  },
+  {
+   "cn": "个人混合泳",
+   "en": "individual medley",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "个人混合泳运动员",
+   "en": "individual medleyist",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_游泳名词"
+  },
+  {
+   "cn": "单独出发",
+   "en": "individual start",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual race",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_自行车名词"
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "code": null,
+   "standard": "奥运体育项目名词",
+   "subject": "奥运体育项目名词_奥运基本名词"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "code": "4.3.3.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域"
+  },
+  {
+   "cn": "个人主义",
+   "en": "individualism",
+   "code": "2.012",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_医学伦理学的基本理论与基本观点"
+  },
+  {
+   "cn": "个别化",
+   "en": "individuation",
+   "code": "4.4.5.14",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的价值观"
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "code": "2.6.6.19",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_社会分层_社会分层理论"
+  },
+  {
+   "cn": "宗教个人主义",
+   "en": "religious individualism",
+   "code": "3.9.2.21",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "个体报告",
+   "en": "individual report",
+   "code": "4.3.2.14.2",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查"
+  },
+  {
+   "cn": "个体匹配",
+   "en": "individual matching",
+   "code": "4.4.1.2.2.3",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计"
+  },
+  {
+   "cn": "受照射个人",
+   "en": "exposed individual",
+   "code": "6.1.5.7",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_放射防护_放射防护体系_一般要求"
+  },
+  {
+   "cn": "人的现代化",
+   "en": "individual modernization",
+   "code": "2.9.1.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_社会学一般概念_发展社会学_现代化理论"
+  },
+  {
+   "cn": "个体宗教性",
+   "en": "individual religiosity",
+   "code": "3.9.2.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_宗教社会学_宗教研究"
+  },
+  {
+   "cn": "去个人化",
+   "en": "de-individualization",
+   "code": "4.1.20.6",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心态"
+  },
+  {
+   "cn": "个别督导",
+   "en": "individual supervision",
+   "code": "4.4.8.49",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

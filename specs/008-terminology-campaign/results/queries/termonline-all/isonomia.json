@@ -1,0 +1,26 @@
+{
+ "key": "isonomia",
+ "term": "isonomia",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T18:37:10+00:00",
+ "status": "ok",
+ "note": "variant=isonomia; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "瞳孔等大",
+   "en": "isocoria",
+   "code": "04.700",
+   "standard": "医学名词 第五分册",
+   "subject": "医学_眼科学_眼科疾病"
+  },
+  {
+   "cn": "等渗",
+   "en": "iso-osmia",
+   "code": "11.008",
+   "standard": "呼吸病学名词",
+   "subject": "呼吸病学_体液、电解质与酸碱平衡_体液与电解质平衡"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

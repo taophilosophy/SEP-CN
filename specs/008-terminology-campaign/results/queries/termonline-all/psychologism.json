@@ -1,0 +1,348 @@
+{
+ "key": "psychologism",
+ "term": "psychologism",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T20:01:20+00:00",
+ "status": "ok",
+ "note": "variant=psychologism; 审定公布名词库=314; 海峡两岸名词对照库=141; 其他来源数据库=13; 预公布名词数据库=62; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "code": "4.002",
+   "standard": "行为医学名词",
+   "subject": "行为医学_行为的心理学基础_心理与行为"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "code": "04.002",
+   "standard": "计划生育名词",
+   "subject": "计划生育_生殖健康心理卫生"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "code": "10.001",
+   "standard": "老年医学名词",
+   "subject": "老年医学_老年心理学"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "code": "01.001",
+   "standard": "心理学名词",
+   "subject": "心理学_总论"
+  },
+  {
+   "cn": "性心理",
+   "en": "sexual psychology;sex psychology",
+   "code": "17.001",
+   "standard": "男科及性医学名词",
+   "subject": "男科及性医学_性心理、性取向与性行为"
+  },
+  {
+   "cn": "心理战",
+   "en": "psychological warfare,psychological operation",
+   "code": "16.045",
+   "standard": "心理学名词",
+   "subject": "心理学_军事心理学"
+  },
+  {
+   "cn": "行为心理学",
+   "en": "behavioral psychology",
+   "code": "06.0028",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计理论方法"
+  },
+  {
+   "cn": "色彩心理学",
+   "en": "color psychology",
+   "code": "06.0029",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计理论方法"
+  },
+  {
+   "cn": "心理失衡",
+   "en": "psychological imbalance",
+   "code": "06.027",
+   "standard": "急救医学名词",
+   "subject": "急救医学_海上医学救援_基本概念_通用概念"
+  },
+  {
+   "cn": "环境心理学",
+   "en": "environmental psychology",
+   "code": "06.0030",
+   "standard": "风景园林名词",
+   "subject": "风景园林_风景园林设计_设计理论方法"
+  },
+  {
+   "cn": "常识心理学",
+   "en": "commonsense psychology",
+   "code": "03.495",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "人本主义心理学",
+   "en": "humanistic psychology",
+   "code": "03.531",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "女性心理学，妇女心理学",
+   "en": "women psychology\",\"female psychology\",\"feminine psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "自我心理学",
+   "en": "ego psychology\",\"self psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "分析心理学",
+   "en": "analytical psychology\",\"analytic psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "咨询心理学",
+   "en": "counseling psychology\",\"consulting psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "气候心理学",
+   "en": "climatic psychology",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "成瘾心理学",
+   "en": "addiction psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "心理定价",
+   "en": "psychological pricing",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "康复心理学",
+   "en": "rehabilitation psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "临床心理学",
+   "en": "clinical psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "社区心理学",
+   "en": "community psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "哲学心理学",
+   "en": "philosophical psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "文化心理学",
+   "en": "Cultural psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心理动力学",
+   "en": "Energy (psychological)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "Social Psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心理依赖",
+   "en": "Psychological dependence",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "实验心理学",
+   "en": "Experimental psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "社会民生_百姓生活"
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "code": null,
+   "standard": "新冠肺炎疫情相关词汇中英对照",
+   "subject": "医学词汇_医疗救治"
+  },
+  {
+   "cn": "心理物理学",
+   "en": "Subfields of psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "社会表征",
+   "en": "sociological social psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "生理心理学",
+   "en": "Subfields of psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "理论心理学",
+   "en": "Subfields of psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "长期记忆",
+   "en": "Subfields of psychology",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "心理压力",
+   "en": "psychological stress",
+   "code": "2.5.11",
+   "standard": "社会医学名词",
+   "subject": "医学模式"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "code": "4.4.3.3",
+   "standard": "军事预防医学名词",
+   "subject": "军事预防医学_热区军事卫生_热强度评价"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "code": "7.2.2.25.1",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "code": "4.1.2.1",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会心理学理论"
+  },
+  {
+   "cn": "心理逆反",
+   "en": "psychological reactance",
+   "code": "4.1.13.5",
+   "standard": "社会学名词",
+   "subject": "社会学名词_跨学科社会学_社会心理学_社会关系"
+  },
+  {
+   "cn": "心理指标",
+   "en": "psychology parameter",
+   "code": "3.4.1.4",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "code": "6.5.1.4.1.1",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "code": "3.3.1.2.1.2.2",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇女保健_围婚期保健"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "code": "8.4.1.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "code": "1.19",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "code": "13.9.1",
+   "standard": "社会医学名词",
+   "subject": "社会病"
+  },
+  {
+   "cn": "民族心理",
+   "en": "ethnic psychology",
+   "code": "1.0486",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族学・人类学_分支学科与研究领域"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

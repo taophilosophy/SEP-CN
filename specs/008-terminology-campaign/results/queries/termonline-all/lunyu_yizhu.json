@@ -1,0 +1,40 @@
+{
+ "key": "lunyu yizhu",
+ "term": "Lunyu yizhu",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T19:00:04+00:00",
+ "status": "ok",
+ "note": "variant=Lunyu yizhu; 审定公布名词库=2; 海峡两岸名词对照库=1; 其他来源数据库=0; 预公布名词数据库=1; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "神农本草经集注",
+   "en": "Shennong Bencao Jing Jizhu,Variorum of Shennong's Classic of Materia Medica",
+   "code": "02.015",
+   "standard": "中医药学名词",
+   "subject": "中医药学_医史文献_医书"
+  },
+  {
+   "cn": "扬一益二",
+   "en": "Yang yi Yi er;Yangzhou the first and Yizhou the second",
+   "code": "5.219",
+   "standard": "中国古代史名词",
+   "subject": "中国古代史_隋唐五代_社会经济_工商等"
+  },
+  {
+   "cn": "本草经集注",
+   "en": "Bencaojing Jizhu",
+   "code": null,
+   "standard": "海峡两岸药学名词",
+   "subject": "药学"
+  },
+  {
+   "cn": "荤粥",
+   "en": "Xunyu",
+   "code": "3.0163",
+   "standard": "民族学与文化学名词",
+   "subject": "民族学与文化学_民族史_民族称谓"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

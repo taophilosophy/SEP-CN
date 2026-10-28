@@ -1,0 +1,348 @@
+{
+ "key": "principia mathematica",
+ "term": "Principia Mathematica",
+ "provider": "termonline-all",
+ "queried_at": "2026-10-28T19:54:17+00:00",
+ "status": "ok",
+ "note": "variant=Principia Mathematica; 审定公布名词库=860; 海峡两岸名词对照库=216; 其他来源数据库=65; 预公布名词数据库=87; browser-channel（cookie 会话，raw 略）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "code": "01.0001",
+   "standard": "数学名词",
+   "subject": "数学_数学通类"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "code": "01.00.129",
+   "standard": "地质学名词",
+   "subject": "地质学_总论"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "code": "01.198",
+   "standard": "农学名词",
+   "subject": "总论_农业试验统计"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "code": "01.001",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_总论_理论和起源"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": "01.019",
+   "standard": "化工名词（十）化工系统工程和化工信息化名词",
+   "subject": "化工（十）_化工系统工程和化工信息化_通论"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "code": "03.248",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": "03.253",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "code": "03.254",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "code": "03.256",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学猜想",
+   "en": "mathematical conjecture",
+   "code": "03.257",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "反推数学",
+   "en": "reverse mathematics",
+   "code": "03.266",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "code": "03.294",
+   "standard": "自然辩证法名词",
+   "subject": "自然辩证法_科学哲学_分支科学哲学_数学哲学"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "code": null,
+   "standard": "海峡两岸大气科学名词",
+   "subject": "大气科学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "code": null,
+   "standard": "海峡两岸化学工程名词",
+   "subject": "化学工程"
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "code": null,
+   "standard": "海峡两岸心理学名词",
+   "subject": "心理学"
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "code": null,
+   "standard": "海峡两岸生态学名词",
+   "subject": "生态学"
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "code": null,
+   "standard": "海峡两岸地理学名词",
+   "subject": "地理学"
+  },
+  {
+   "cn": "典型群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "嘉当子代数",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "一般线性群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "李群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理逻辑",
+   "en": "Mathematical logic",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "辛群",
+   "en": "G2 (mathematics)",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "code": null,
+   "standard": "大数据百科术语辞典",
+   "subject": "其他"
+  },
+  {
+   "cn": "数理经济学",
+   "en": "mathematical economics",
+   "code": "",
+   "standard": "维基百科",
+   "subject": "其他"
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "code": "7.3.2.3.2.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "code": "05.0168",
+   "standard": "马克思主义",
+   "subject": "马克思主义_附录_国外经济学理论"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "code": "6.2.2.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "code": "04.0059",
+   "standard": "马克思主义",
+   "subject": "马克思主义_其他部分_基本词汇_马克思恩格斯时期"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "code": "4.3.3.9",
+   "standard": "放射卫生学",
+   "subject": "放射卫生学_电离辐射健康效应_放射工作人员健康监护"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "code": "3.7.7.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学_法律社会学_法律多元主义"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "code": "3.14.5.2",
+   "standard": "社会学名词",
+   "subject": "社会学名词_分支社会学环境社会学"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "code": "2.1.10.2",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "code": "2.1.10.3",
+   "standard": "儿少与学校卫生学名词",
+   "subject": "儿少与学校卫生学名词_生长发育_生长发育规律"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "code": "1.6.3.3",
+   "standard": "妇幼卫生学名词",
+   "subject": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "code": "10.2.1.4.7.2",
+   "standard": "社会医学名词",
+   "subject": "政策与策略"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "code": "9.074",
+   "standard": "医学伦理学名词",
+   "subject": "医学伦理学_器官移植伦理"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
