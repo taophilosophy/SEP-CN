@@ -54,8 +54,20 @@
 2. published 词汇表的旧译法（阿里·法拉比）来源大概率是"al-"冠词直音译——裁定变更时旧形必须保留在注记里（可追溯）。
 3. 主译变更（阿里·法拉比→法拉比）属登记册裁定，词汇表修弱势向登记册看齐——check_terms 冲突 0 即证明归一完成。
 
-## 教训（复用，B0 批次）
+## 池首轮裁定与 P2 回填批（2026-10-28 第三轮，用户批准待办）
 
+* **P1 池裁定**（commit bfa9c568）：A 档 34 条直裁登记（-ism 骨架 15：mysticism/compatibilism/reliabilism/existentialism 等；亚氏著作与《数学原理》4；模态/心哲骨架短语 9：可能世界/模态逻辑/心理状态等；人名 5：托马斯·阿奎那/大卫·休谟/威廉·詹姆斯/艾因·库扎特/阿卜杜·贾巴尔）；B 档 16 held（书名待核/全名待核/语境分流，理由逐条入池）；C 档 16 rejected（泛词/截断/现代学者保留英文体例）。manifest：tasks/manifests/2026-10-28-pool-adjudication.json。
+* **工具修复**：`load_registered_keys` 补归并行**变体拆分**（「主形 / 他形」逐变体作键，Ibn Gabirol 型种子变体此前漏排除）；裁定脚本 B/C 键过折叠（abū ḥātim ≠ abu hatim 首轮漏配 6 条）。
+* **P2 依据回填**：169 行「待知网复核（008 战役）」按凭证替换为实证依据两态（查证无收录/查证在案 + 待主力通道复核）。
+* **发布词汇表同步**：36 行字母序插入（含 4 处书名号口径修正对齐登记册《》形）；check_terms 冲突 0、七门禁全绿。
+* **P0 通道**：本会话 ZCode DeferredToolCall 校验器持续损坏（浏览器/WebFetch 全不可用），CNKI 浏览器攻坚与审定库 token 接入留待新会话或用户供 token（axios 头 `X-Access-Token`）。
+* **登记册修复（commit 3e6b8275）**：bfa9c568 曾把 30 行插错节（append_rows 无节边界）且回填脚本 `strip('|')` 丢行首尾竖线（191→71 行表格形态破坏）——从 7d39e70f 恢复重做三处修复：append_rows 节边界、行首尾竖线复原、依据列定位 cells[3]（首轮误写裁定日期列）。**教训：表格行重组脚本必须先小样验证再全量；strip 系操作后必须显式复原定界符。**
+* **终态**：A 档新键凭证补齐（累计 270 份，含归并行整键 possible_worlds_possible_world），审计 一致 2 / 不一致 5 / 查无 262 / 未查证 0 / 维基 0；七门禁全绿。
+
+
+
+
+## 教训（复用，B0 批次）
 
 1. 本会话 ZCode 的 DeferredToolCall/浏览器/MCP 通道整体损坏（校验器 "name missing" 缺陷）——网络工作全走 Bash+子代理，子代理自带 WebFetch 可过部分 WAF。
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。
