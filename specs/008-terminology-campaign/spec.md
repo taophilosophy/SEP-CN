@@ -7,10 +7,12 @@
 ## 裁定与假设（Assumptions）
 
 * **ADR-0012**（2026-10-28）：译名依据优先级 = 知网系权威源（CNKI 翻译助手、术语在线审定名词）→ 权威译本与学术出版通行译法 → 学界惯例；**禁止维基百科及任何大众百科译名**作为依据；两登记册统一五列（原文|译法|首现|依据|裁定日期），依据必填。
-* **通道实测**（2026-10-28）：
-  - 术语在线 `api.termonline.cn/main-serve/business/tm/tmWord/standardSearch`（参数 `term&match=2&sources=&pubYears=&pageSize=20&pageNo=1`）**匿名可用**，返回标准文件术语库（GB 标准）数据；审定名词库主接口 `tmWord/allSearch` 需登录 token（手机/微信注册），匿名恒回空 `totalRecords=0`。
-  - CNKI 翻译助手 dict.cnki.net 对非浏览器 TLS 指纹（curl/urllib/UND）断连或返回空壳 SPA；页面结果由 AJAX 加载。通道为浏览器辅助或后续发现的内部 API，**多源可插拔**，查证失败不得臆造。
-  - 结论：`cnki_query.py` 以 provider 插件化设计（termonline-standard 可用即录；cnki-dict 与 termonline-审定库在获得通道后接入），每条查询结果落凭证 JSON，含来源档位。
+* **通道实测**（2026-10-28，P0 换站后更新）：
+  - 术语在线 `api.termonline.cn/main-serve/business/tm/tmWord/standardSearch`（参数 `term&match=2&sources=&pubYears=&pageSize=20&pageNo=1`）**匿名可用**，返回标准文件术语库（GB 标准）数据（字段 `cnName/enName`）；审定名词库主接口 `tmWord/allSearch` 需登录 token（手机/微信注册），匿名恒回空 `totalRecords=0`。
+  - **有道词典 `dict.youdao.com/result?word=X&lang=en` 匿名可用**（SSR 页，按学科分组释义），P0 换站裁定接入为 `youdao-aux` provider——**辅助参考档**：不作依据，供裁定辅助与多义区分（如 abduction 逻辑学义=溯因推理、法学义=诱拐罪）。
+  - CNKI 翻译助手 dict.cnki.net 对非浏览器 TLS 指纹（curl/urllib/UND）断连或返回空壳 SPA；通道为浏览器辅助或后续发现的内部 API，插件位保留。
+  - P0 换站探测未通（2026-10-28）：中国大百科全书 www.zgbk.com（可达但 content-protect/mtoken 请求签名，SSR 壳无结果）；国家哲社文献中心 www.ncpssd.org（可达但 /searchHandler/search 需会话参数，站点自带查询串亦回 0）；必应词典（重定向无数据）。**结论：查证通道主力仍待审定库 token 或浏览器通道；有道辅助参考已投产。**
+  - 结论：`cnki_query.py` 以 provider 插件化设计（termonline-standard 与 youdao-aux 可用即录；cnki-dict 与 termonline-审定库在获得通道后接入），每条查询结果落凭证 JSON，含来源档位。
 * **礼貌抓取**：对知网系站点请求间隔 ≥5 秒（宪法 V 同标准），4xx/5xx/断连退避重试并记录，禁止静默跳过。
 * **零信任**：知网/术语在线返回的译名只是**证据**，不是裁定；入库仍走"先登记后使用"，冲突时人工（会话）裁定并留痕。
 * **范围**：语料 = `yuanwen/<字母>/<slug>.md` 全量镜像（2427 件，2026-10-28 计数）与 `en/` 原始抓取；人名候选与术语候选同池分型。

@@ -67,7 +67,15 @@
 
 
 
-## 教训（复用，B0 批次）
+## P0 换站批（2026-10-28 第四轮，用户裁定"p0换其他网站"）
+
+* **探测矩阵**：中国大百科全书 www.zgbk.com（可达但 content-protect/mtoken 请求签名，SSR 壳无结果，内部 API 未破）；国家哲社文献中心 www.ncpssd.org（可达，搜索机制已破译——`POST /searchHandler/search` + base64 Lucene 串 `(IKVT="X" OR IKPYTE="X" ...)`，但站点自带查询串亦回 0，需会话参数，留待浏览器通道）；必应词典（重定向无数据）。
+* **有道词典打通并投产**：`dict.youdao.com/result?word=X&lang=en` 匿名可用（SSR，按学科分组释义）。接入 `youdao-aux` provider（**辅助参考档**：不作依据，供裁定辅助与多义区分——abduction 逻辑学义=溯因推理、法学义=诱拐罪，正是"区分"所需）。
+* **全量批查**：两登记册 285 键 × youdao-aux，凭证 **286 份**入库（ok 157 / empty 129，命中释义 684 条）——覆盖率 55%，远超 GB 标准库。
+* **审计修复**：相关性过滤对直接查词通道（hit 无 en 字段）放行——四态从 查无262 改善为 **一致 126 / 不一致 31 / 查无 128**（维基 0）。不一致 31 条待裁定清单见 audit-2026-10-28.md。
+* 通道现状：termonline-standard（档①）+ youdao-aux（辅助档）双通道投产；审定库 token / CNKI 浏览器 / zgbk / ncpssd 四通道插件位保留。
+
+
 
 1. 本会话 ZCode 的 DeferredToolCall/浏览器/MCP 通道整体损坏（校验器 "name missing" 缺陷）——网络工作全走 Bash+子代理，子代理自带 WebFetch 可过部分 WAF。
 2. heredoc 内嵌 Python 补丁再次失败（assert 未命中静默 no-op / 转义损坏）——一律 Edit 工具改码，脚本补丁必须 assert 验证。

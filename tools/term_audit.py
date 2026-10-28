@@ -83,11 +83,13 @@ def audit_rows(rows, label, queries_root):
             if rec.get('status') == 'ok':
                 raw_hits = rec.get('hits', [])[:20]
                 for h in raw_hits:
-                    if not _relevant(h.get('en'), term):
+                    # en 缺省（有道等直接查词通道）视为相关；有 en 的按词元过滤
+                    if h.get('en') is not None and not _relevant(h.get('en'), term):
                         continue
                     row_out['hits'].append(
                         {'provider': prov, 'cn': h.get('cn'), 'en': h.get('en'),
-                         'source': h.get('standard') or h.get('code') or prov})
+                         'source': h.get('standard') or h.get('code')
+                         or h.get('subject') or prov})
         if not row_out['providers']:
             row_out['status'] = '未查证'
         elif 'ok' in cred_stats and row_out['hits']:

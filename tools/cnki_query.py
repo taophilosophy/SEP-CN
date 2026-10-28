@@ -74,7 +74,6 @@ def _tl_standard_fetch(term, timeout):
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode('utf-8', 'replace'))
 
-
 def _tl_standard_parse(data):
     """返回 (hits, note)：hits=[{cn,en,code,standard,subject}]。
 
@@ -92,12 +91,46 @@ def _tl_standard_parse(data):
     return hits, note
 
 
+def _youdao_fetch(term, timeout):
+    """有道词典 SSR 页（辅助参考档，P0 换站 2026-10-28 实测可用）。"""
+    url = ('https://dict.youdao.com/result?word=%s&lang=en'
+           % urllib.parse.quote(term))
+    req = urllib.request.Request(url, headers={
+        'User-Agent': UA,
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
+        'Referer': 'https://dict.youdao.com/',
+    })
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode('utf-8', 'replace')
+
+
+def _youdao_parse(html):
+    """返回 (hits, note)：按学科分组的 <p class="grey">学科</p> + <p><span>译名</span></p>。"""
+    hits = []
+    blocks = re.split(r'<li class="mcols-layout">', html or '')[1:]
+    for b in blocks:
+        sub = re.search(r'<p class="grey">([^<]{1,40})</p>', b)
+        subject = sub.group(1).strip() if sub else ''
+        for cn in re.findall(r'<p><span>([^<]{1,60})</span></p>', b)[:10]:
+            hits.append({'cn': cn.strip(), 'en': None, 'code': None,
+                         'standard': None, 'subject': subject})
+    note = 'youdao mcols=%d' % len(blocks)
+    return hits, note
+
+
 PROVIDERS = {
     'termonline-standard': {
         'fetch': _tl_standard_fetch,
         'parse': _tl_standard_parse,
         'enabled': True,
         'note': '术语在线标准文件术语库（匿名）',
+    },
+    'youdao-aux': {
+        'fetch': _youdao_fetch,
+        'parse': _youdao_parse,
+        'enabled': True,
+        'note': '有道词典 SSR 页（辅助参考档：不作依据，供裁定辅助，ADR-0012 档位外辅助源）',
     },
     'termonline-all': {
         'enabled': False,
