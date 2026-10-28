@@ -224,7 +224,7 @@ def check_pubinfo(rel, pubinfo, rec, hard, warns):
                        fmt_zh(b_rev) if b_rev else '（无）'))
 
 
-def check_footnotes(ne, rel, hard):
+def check_footnotes(ne, rel, hard, cross_refs=None):
     refs, defs = {}, {}
     fence = False
     for lineno, line in ne:
@@ -245,6 +245,10 @@ def check_footnotes(ne, rel, hard):
             hard.append('[orphan-ref] %s:%d 脚注引注 [^%s] 无文末定义' % (rel, lineno, key))
     for key, lineno in sorted(defs.items()):
         if key not in refs:
+            # 跨文件引用豁免：SEP 的脚注定义可被同词条补充材料引用
+            # （notes.html#note-N 出现在 en/<slug>/*.html 中），主文定义非孤儿
+            if cross_refs and key in cross_refs:
+                continue
             hard.append('[orphan-def] %s:%d 文末定义 [^%s]: 无正文引用' % (rel, lineno, key))
 
 
@@ -325,7 +329,20 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats):
         check_pubinfo(rel, pubinfo, rec, hard, warns)
     else:
         warns.append('[baseline-lookup-miss] %s 未能在 baseline 定位，pubinfo 不核' % rel)
-    check_footnotes(ne, rel, hard)
+    # 跨文件脚注引用：词条包内（含补充材料）对 notes.html#note-N 的引用
+    cross_refs = set()
+    slug = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
+    en_dir = os.path.join(root, 'en', slug)
+    if slug and os.path.isdir(en_dir):
+        for fn in os.listdir(en_dir):
+            if not fn.endswith('.html'):
+                continue
+            try:
+                t = open(os.path.join(en_dir, fn), encoding='utf-8', errors='replace').read()
+            except OSError:
+                continue
+            cross_refs.update(re.findall(r'notes\.html#([A-Za-z0-9_-]+)', t))
+    check_footnotes(ne, rel, hard, cross_refs)
 
 
 def main(argv=None):

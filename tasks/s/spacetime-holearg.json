@@ -2,7 +2,7 @@
   "slug": "spacetime-holearg",
   "kind": "retranslate",
   "zh_doc": "s/spacetime-holearg.md",
-  "state": "cleared",
+  "state": "s3_checked",
   "steps": [
     {
       "step": "clear",
@@ -10,6 +10,34 @@
       "actor": "task_ops",
       "at": "2026-10-28T05:01:47Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:10:34Z",
+      "evidence": "初译入库 s/spacetime-holearg.md：源 10 节全译、6 图全接线（../yuanwen/assets/，ADR-0010 裁定）、脚注 note-1..8 全译、引用组原样保留、文献 86 条照录；术语 16 条先登记 yi-zhe-shuo-ming.md"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:10:34Z",
+      "evidence": "对照核销：正文 10 节逐节对照 yuanwen 源镜像；图 6/6、脚注 8/8、文献 86/86、数学公式 check_math missing=0；漏译 0"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:10:34Z",
+      "evidence": "语言自查：被字句 41 处逐个过审，修 被争论已久→争论已久 1 处，余为物理文本合法技术被动；进行滥用 0、您 0、英文直引号 0（照录区豁免）"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "zcode",
+      "at": "2026-10-28T06:10:35Z",
+      "evidence": "体例工具：check_style 0 问题、check_math 0 missing、check_academic 定点 0 硬错误、check_terms 0 硬错、glossary_lint 0 硬错"
     }
   ],
   "blockers": [],

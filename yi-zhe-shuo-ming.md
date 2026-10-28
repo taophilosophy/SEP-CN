@@ -52,6 +52,7 @@
 | denumerably infinite | 可数无穷 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | determinism | 决定论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | dialetheism | 双面真理论 | 语料回收（logic-classical） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
+| diffeomorphism | 微分同胚 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
 | dogmatism | 独断论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | doxographical tradition / doxography | 学说史传统／学说汇编 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | dualism | 二元论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -70,9 +71,14 @@
 | free speech | 言论自由 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | free variables | 自由变元 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | functionalism | 功能主义 | 语料回收（全目录） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| gauge freedom | 规范自由度 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
+| gauge transformation | 规范变换 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
+| general covariance | 广义协变性 | spacetime-holearg | A 档（学界通行译名） | 2026-10-28 |
 | german philosophy | 德国哲学 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | hedonism | 快乐主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | hidden variables | 隐变量 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| hole argument | 空穴论证 | spacetime-holearg | 发布表 ci-hui-biao 既有裁定（广义相对论哲学语境，亦译“空洞论证”） | 2026-10-28 |
+| hole transformation | 洞变换 | spacetime-holearg | B 档（随词条语境，与 hole argument 复合同源） | 2026-10-28 |
 | humanism | 人文主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | idealism | 唯心论；观念论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | individualism | 个人主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -91,15 +97,21 @@
 | Kantianism | 康德主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | kenon | 空腔 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| Leibniz Equivalence | 莱布尼茨等价 | spacetime-holearg | B 档（学界通行译名） | 2026-10-28 |
 | Leibnizian-Wolffian | 莱布尼茨—沃尔夫学派的 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Lernfreiheit | 学习自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | liberalism | 自由主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Libertas philosophandi | 哲学思考自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Lutheranism | 路德宗 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Magna Charta Universitatum | 《大学大宪章》 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| manifold | 流形 | spacetime-holearg | A 档（数学界通行译名） | 2026-10-28 |
+| manifold of events | 事件流形 | spacetime-holearg | B 档（manifold 通行译名 + 词条语境） | 2026-10-28 |
 | Marxism | 马克思主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | materialism | 物质主义；唯物论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| matter field | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | mechanism | 机械论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| metric | 度规 | spacetime-holearg | A 档（物理学通行译名，“度规”优于“度量”） | 2026-10-28 |
+| metric field | 度规场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | monarchia | 专权（与 isonomia 相对的独大状态） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | monotheism | 一神论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | moral philosophy | 道德哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -111,6 +123,7 @@
 | Neoplatonism | 新柏拉图主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | nihilism | 虚无主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | Nominalism | 唯名论 | 词汇表复核（源提交 36fd04fd） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| observable | 可观测量 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | observation sentences | 观察句 | 语料回收（quine） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | occasionalism | 偶因论 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | pacifism | 和平主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -124,6 +137,7 @@
 | physicalism | 物理主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | physiologos / physiologoi | 论自然者（前苏格拉底自然哲学家） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | Pietism | 虔敬派 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| point-coincidence argument | 点重合论证 | spacetime-holearg | B 档（Stachel 术语，学界通行译名） | 2026-10-28 |
 | political philosophy | 政治哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | poroi | 通道 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-26 |
 | positivism | 实证主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -148,6 +162,7 @@
 | sense perception | 感官知觉 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | sentimentalism | 情感主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | spacelike separation | 类空间隔 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
+| spacetime substantivalism | 时空实体论 | spacetime-holearg | B 档（substance 发布表译“实体”；substantivalism 学界通行“实体论”） | 2026-10-28 |
 | Spinozism | 斯宾诺莎主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | structural realism | 结构实在论（“结构现实主义”是国际关系理论译名，勿混） | 词汇表复核 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
 | structuralism | 结构主义 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；待主力通道复核 | 2026-10-27 |
@@ -236,6 +251,7 @@
 | Analects / Lun yu / Lunyu | 《论语》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Mencius / Mengzi | 《孟子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Mozi | 《墨子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| worldline | 世界线 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | Zhuangzi | 《庄子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Laozi / Lao Tzu | 《老子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | Daodejing / Tao Te Ching | 《道德经》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
